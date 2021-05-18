@@ -42,8 +42,7 @@ _Production Company:_ Universal Pictures Company<br>
 _Producer:_ Albert Zugsmith<br>
 _Assistant Director:_ Phil Bowles<br>
 _Screenplay by:_ Orson Welles<br>
-_Based on the novel_ Badge of Evil _by:_<br>
-Whit Masterson<br>
+_Based on the novel_ Badge of Evil _by_: Whit Masterson<br>
 _Director of Photography:_ Russell Metty<br>
 _Editors:_ Virgil Vogel, Aaron Stell<br>
 _Art Direction:_ Alexander Golitzen, Robert Clatworthy<br>
