@@ -11,13 +11,13 @@ The core of the film, without doubt, is a treasure trove of footage of Houston o
 
 **Lisa Mullen, _Sight & Sound_, July 2017**
 
-**Whitney ‘Can I Be Me’**
+**Whitney ‘Can I Be Me’**  
 _Directed by_: Nick Broomfield, Rudi Dolezal  
 ©: Gospel And Beyond Ltd  
 _a_ Lafayette Film _production_
 _In association with_: Passion Pictures  
 _Presented by_: Showtime Documentary Films, BBC  
-_Executive Producers_: John Battsek, Vinnie Malhotra, Shani Hinton, Ben Silverman
+_Executive Producers_: John Battsek, Vinnie Malhotra, Shani Hinton, Ben Silverman  
 _Executive Producers for BBC_: Patrick Holland, Kate Townsend, Charles Finch  
 _Produced by_: Nick Broomfield, Marc Hoeferlin  
 _Archive Consultant_: Tom Haigh  
@@ -80,7 +80,7 @@ _Additional Mastering_: Sergei Dimlic,
 Isolbel Akiwumi, Craig Hobson  
 _Thanks to_: Michael Lindsay-Hogg, Amanda Palmer
 
-UK/USA 2017©
+UK/USA 2017©  
 105 mins
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjAxNDc4NDQ0M119
