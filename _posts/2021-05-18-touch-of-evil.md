@@ -10,7 +10,7 @@ metadata: 'USA, 1958, 113 mins'
 pdf: '2021-05-18-touch-of-evil.pdf'
 ---
 
-The last great Film Noir and the final film Orson Welles would direct in Hollywood, _Touch of Evil_ is a sweat-drenched saga of corruption and intrigue on the US/Mexico border.
+The last great Film Noir and the final film [Orson Welles]("https://en.wikipedia.org/wiki/Orson_Welles") would direct in Hollywood, _Touch of Evil_ is a sweat-drenched saga of corruption and intrigue on the US/Mexico border.
 
 Beginning with one of the most celebrated tracking shots in cinema history, a bravura three-minute take following a bomb planted in a car as it crosses the US border, Welles crafts baroque, highly stylised masterpiece from inauspiciously pulpy source origins. A prestigious cast including Charlton Heston and Marlene Dietrich reinforces Welles’ playful mixture of A and B-movie tropes, but it’s Welles’ own turn as the leering, groteseque Hank Quinlan that steals the film. Seen in many different versions over the years, the film is here presented in Walter Murch’s 1998 restoration, based on Orson Welles’ 1957 memo to the head of Universal.
 <br>
