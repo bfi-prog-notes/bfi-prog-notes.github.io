@@ -7,7 +7,7 @@ To be a satisfactory tango partner, a woman must learn to ‘do nothing’, to f
 
 Thus our uncertainty about whether Potter’s presence on screen is personal or professional, and the related ‘problem’ the film seems to pose – why, some might ask, has Potter pursued this personal project rather than a more mainstream movie? – are exactly the subjects _The Tango Lesson_ seeks to explore. Potter’s dramatisation in the film of her dissatisfaction with _Rage_, the film project she abandoned in real life, and with her abortive encounter with Hollywood executives, provocatively suggests that her powerlessness as a woman and tango amateur are not so different from her position in an industry in which films and directors are fundamentally commodities, With ironic aptness, _The Tango Lesson_’s only colour sequences (highly reminiscent of _Orlando_’s lavish spectacle) are imagined glimpses from this parallel film which wasn’t made. For those who wonder why Potter has followed _Orlando_ with a film which seems to retreat from the mainstream – while recalling the more stringent political critiques of her earlier work – _The Tango Lesson_ offers its own answer.
 
-Claire Monk, _Sight and Sound_, December 1997
+**Claire Monk, _Sight and Sound_, December 1997**
 
 _Orlando_ received Oscar nominations and many awards worldwide, and Sally Potter became a hot property. The film’s visual panache, the minimalist exuberance of a screenplay that neatly compressed an unwieldy novel, and its witty and highly cinematic solutions to the novel’s challenges elicited seductive offers of music videos and studio deals. Sally, the protagonist of Potter’s next film _The Tango Lesson_ (1997), finds herself in the same position: courted by Hollywood, she starts work on a murder-mystery screenplay set in the glamorous world of fashion. Little glimpses of this potential film appear in vivid Technicolor, contrasting Sally’s inner eye with the velvety black and white of her daily reality of cleaning, location recces and dealing with cowboy builders.
 
@@ -15,7 +15,7 @@ Yet Sally’s _Eyes of Laura Mars_-style project gets sidelined, first by her gr
 
 Potter’s audacity is reflected in the decision to cast herself as Sally. Her bravura performance, especially in the tango sequences, parallels the complex narrative interplay, via which the film Sally wants to make gradually meshes with the film we’re watching. Her acting and dancing abilities allow Potter to be the most self-sufficient of auteurs – she has also choreographed, sung and even composed for her films.
 
-Sophie Mayer, _Sight & Sound_, January 2010
+**Sophie Mayer, _Sight & Sound_, January 2010**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDY1Mjc2MzJdfQ==
+eyJoaXN0b3J5IjpbMTIyODY2MDU5Ml19
 -->
