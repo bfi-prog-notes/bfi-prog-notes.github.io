@@ -212,8 +212,8 @@ Marcos Woinski _(man opening door)_<br>
 Eduardo Rojo _(janitor)_<br>
 Oscar Arribas _(man at synagogue)_<br>
 
-UK/France/Argentina/Japan/ Germany 1997©
-101 mins
+UK/France/Argentina/Japan/ Germany 1997©<br>
+101 mins<br>
 
 **BECOME A BFI MEMBER**
 Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at bfi.org.uk/join
@@ -284,5 +284,5 @@ Enjoy a great package of film benefits including priority booking at BFI Southba
 Notes may be edited or abridged  
 Questions/comments? Email prognotes@bfi.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzcwNjZdfQ==
+eyJoaXN0b3J5IjpbLTgyNjE4NDcxOF19
 -->
