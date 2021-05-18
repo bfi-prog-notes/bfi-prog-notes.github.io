@@ -16,6 +16,201 @@ Yet Sally’s _Eyes of Laura Mars_-style project gets sidelined, first by her gr
 Potter’s audacity is reflected in the decision to cast herself as Sally. Her bravura performance, especially in the tango sequences, parallels the complex narrative interplay, via which the film Sally wants to make gradually meshes with the film we’re watching. Her acting and dancing abilities allow Potter to be the most self-sufficient of auteurs – she has also choreographed, sung and even composed for her films.
 
 **Sophie Mayer, _Sight & Sound_, January 2010**
+
+<![endif]-->
+
+**The Tango Lesson**
+_Director:_ Sally Potter
+_Production Companies:_ Adventure Pictures, OKCK Films, PIE, Nippon Film Development & Finance, Imagica, Pandora Filmproduktion, Sigma Films
+_Participation:_ Arts Council of England,
+European Co-Production Fund,
+Eurimages Conseil de l’europe, Medien- und Filmgesellschaft Baden-Württemberg
+NPS Televisie, Stichting Co-productiefonds Binnenlandse Omroep
+_Supported by:_ National Lottery through the Arts Council of England
+_Producer:_ Christopher Sheppard
+_Buenos Aires Line Producer:_ Oscar Kramer
+_France Co-producer:_ Simona Benzakein
+_Argentina Co-producer:_ Oscar Kramer, Christian Keller Sarmiento
+_Associate Producers:_ Diane Gelon, Cat Villiers
+_Production Co-ordinator:_ Roanne Moore
+_Buenos Aires Production Co-ordinator:_ Barbara Factorovich
+_Paris Production Co-ordinators:_ Marie-Laure Compain, Florence Forney
+_Paris Production Manager:_ Philippe Besnier
+_Buenos Aires Production Manager:_ Diana Frey
+_Paris Location Managers:_ Eric Vidart-Loeb, Denise Cassotti
+_Buenos Aires Location Manager:_ Alberto Hasse
+_1st Assistant Director:_ Waldo Roeg
+_Paris 1st Assistant Director:_ Jérome Borenstein
+_Paris 3rd Assistant Director:_ Oona Seiler
+_Buenos Aires 1st Assistant Director:_ Carlos Gil
+_Buenos Aires 2nd Assistant Director:_ Rodrigo Carvajal
+_Buenos Aires 3rd Assistant Director:_ Nicolas Cubria
+_London 2nd Assistant Director:_ Mel Nortcliffe
+_Script Supervisor:_ Penny Eyles
+_Casting Director:_ Irene Lamb
+_Paris Casting Director:_ Frédérique Moidon
+_Paris Models Casting Director:_ Prudence Harington
+_Story Editor:_ Walter Donohue
+_Screenplay:_ Sally Potter
+_Director of Photography:_ Robby Müller
+_Paris Steadicam Operator:_ Jörg Widmer
+_Buenos Aires Steadicam Operator:_ Gustavo Mosquera
+
+_Paris Special Effects Supervisor:_ Christian Talenton
+
+_Buenos Aire Special Effects Supervisor:_
+
+Tom Cundom
+
+_Editor:_ Hervé Schneid
+
+_Production Designer:_ Carlos Conti
+
+_Buenos Aires Art Director:_ Graciela Oderigo
+
+_Buenos Aires Sculptor:_ Adriana Maestri
+
+_Costume Designer:_ Paul Minter
+
+_Wardrobe Supervisor:_ Michael Weldon
+
+_Make-up Artists:_ Thi-Loan Nguyen,
+
+Chantal Léothier
+
+_Wigs:_ Peter King
+
+_Paris Hairdresser:_ Christian Gruau
+
+_Buenos Aires Hairdresser:_ Ricardo Fassan
+
+_Titles:_ Ranch Associates, Steve Masters
+
+_Optical Effects:_ Peerless Camera Company
+
+_Music:_ Sally Potter
+
+_With the participation of:_ Fred Frith
+
+_Ondes Martenot Music Performed by:_
+
+Thomas Bloch
+
+_Guitars, Violins Music Performed by:_ Cristal Bachet, Fred Frith
+
+_Vocals Music Performed by:_ Sally Potter
+
+_Music Supervisors:_ Ivan Chandler, Musicalities
+
+_[Music] Recording Engineer:_ Franck Lebon
+
+_Choreography:_ Pablo Veron
+
+_Buenos Aires Additional Choreography:_
+
+Gustavo Naveira, Fabian Salas, Carlos Copello
+
+_Sound:_ Jean-Paul Mugel, Gérard Hardy
+
+_Re-recording Mixer:_ Robin O’Donoghue
+
+_ADR Mixer:_ Gilles Missir
+
+_ADR Editors:_ Patrice Raffi, Corinne Raffi
+
+_Foley Artist:_ Jean-Pierre Lelong
+
+_Foley Mixer:_ Jacques Thomas-Gérard
+
+_Paris Stunt Supervisor:_ Patrick Cauderlier
+
+_Paris Stunt Woman:_ Pascaline Girardot
+
+_Script Translation:_ Elie Robert-Nicoud
+
+_Cast:_
+
+Sally Potter _(Sally)_
+
+Pablo Veron _(Pablo)_
+
+Gustavo Naveira _(Gustavo)_
+
+Fabian Salas _(Fabian)_
+
+David Toole _(fashion designer)_
+
+Carolina Iotti _(Pablo’s partner)_
+
+Carlos Copello _(Carlos)_
+
+Peter Eyre _(English tango fan)_
+
+Heathcote Williams _(builder)_
+
+Morgane Maugran _(red model)_
+
+Geraldine Maillet _(yellow model)_
+
+Katerina Mechera _(blue model)_
+
+George Yiasoumi _(photographer)_
+
+Michele Parent, Claudine Mavros,
+
+Monique Couturier _(seamstresses)_
+
+Matthew Hawkins, Simon Worgan _(bodyguards)_
+
+Zobeida, Orazio Massaro, Anne Fassio,
+
+Guillaume Gallienne, Michel Andre, Flaminio Corcos
+
+_(Pablo’s friends)_
+
+Howard Lee _(man at tea dance)_
+
+Juan José Czalkin _(waiter)_
+
+Horacio Marassi _(shoe man)_
+
+David Derman, Oscar Dante Lorenzo, Omar Vega _(salon dancers)_
+
+Olga Besio _(Olga)_
+
+Cantilo Pena _(hotel porter)_
+
+Maria Noel, Fabian Stratas, Gregory Dayton
+
+_(movie executives)_
+
+Emmanuelle Tertipis _(woman in dressing room)_
+
+Ruben Orlando Di Napoli _(Master of Ceremonies)_
+
+Tito Haas _(taxi driver)_
+
+Alicia Monti _(Carlos’ partner)_
+
+Maria Fernanda Lorences _(woman opening door)_
+
+Luis Sturla, Amanda Beitía _(couple opening door)_
+
+Marcos Woinski _(man opening door)_
+
+Eduardo Rojo _(janitor)_
+
+Oscar Arribas _(man at synagogue)_
+
+UK/France/Argentina/Japan/ Germany 1997©
+
+101 mins
+
+**BECOME A BFI MEMBER**
+
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at bfi.org.uk/join
+
+**Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at www.bfi.org.uk/signup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODY2MDU5Ml19
+eyJoaXN0b3J5IjpbMTk0MTQyMzc3XX0=
 -->
