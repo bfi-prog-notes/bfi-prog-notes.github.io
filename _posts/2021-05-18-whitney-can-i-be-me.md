@@ -11,12 +11,14 @@ The core of the film, without doubt, is a treasure trove of footage of Houston o
 
 **Lisa Mullen, _Sight & Sound_, July 2017**
 
-**Whitney ‘Can I Be Me’**  _Directed by_: Nick Broomfield, Rudi Dolezal  
+**Whitney ‘Can I Be Me’**  
+_Directed by_: Nick Broomfield, Rudi Dolezal  
 ©: Gospel And Beyond Ltd  
 _a_ Lafayette Film _production_
 _In association with_: Passion Pictures  
 _Presented by_: Showtime Documentary Films, BBC  
-_Executive Producers_: John Battsek,Vinnie Malhotra, Shani Hinton, Ben Silverman  _Executive Producers for BBC_: Patrick Holland,Kate Townsend, Charles Finch  
+_Executive Producers_: John Battsek,Vinnie Malhotra, Shani Hinton, Ben Silverman  
+_Executive Producers for BBC_: Patrick Holland,Kate Townsend, Charles Finch  
 _Produced by_: Nick Broomfield, Marc Hoeferlin  
 _Archive Consultant_: Tom Haigh  
 _Associate Producers_: Joe Siegal, Gracie Otto  
@@ -82,31 +84,37 @@ UK/USA 2017©  105 mins
 
 **[HER VOICE: BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=hervoice&BOparam::WScontent::loadArticle::context_id=)**<br>
 **Amazing Grace**<br>
-Mon 17 May 18:10; Sat 29 May 15:15; Tue 8 Jun 18:10<br><br>
+Mon 17 May 18:10; Sat 29 May 15:15; Tue 8 Jun 18:10<br>
 **Whitney: Can I Be Me**<br>
-Tue 18 May 20:50; Sat 26 Jun 18:10<br><br>
+Tue 18 May 20:50; Sat 26 Jun 18:10<br>
 **Siren of the Tropics (La sirène des tropiques)**<br>
-Wed 19 May 18:10; Sat 5 Jun 12:20<br><br>
+Wed 19 May 18:10; Sat 5 Jun 12:20<br>
 **Stormy Weather**<br>
-Wed 19 May 20:40; Sat 5 Jun 16:00<br><br>
+Wed 19 May 20:40; Sat 5 Jun 16:00<br>
 **Dreamgirls**<br>
-Sat 22 May 17:50; Wed 23 Jun 20:30<br><br>
+Sat 22 May 17:50; Wed 23 Jun 20:30<br>
 **Ella Fitzgerald: Just One of Those Things**<br>
-Mon 24 May 18:10; Sat 19 Jun 15:20<br><br>
+Mon 24 May 18:10; Sat 19 Jun 15:20<br>
 **…But Then, She’s Betty Carter**<br>
-Sat 29 May 12:10; Mon 7 Jun 18:00<br><br>
+Sat 29 May 12:10; Mon 7 Jun 18:00<br>
 **Sparkle**<br>
-Sun 30 May 18:40; Thu 10 Jun 20:35<br><br>
+Sun 30 May 18:40; Thu 10 Jun 20:35<br>
 **Mavis!**<br>
-Mon 31 May 16:10; Thu 17 Jun 20:40<br><br>
+Mon 31 May 16:10; Thu 17 Jun 20:40<br>
 **Billie**<br>
-Wed 2 Jun 18:00; Tue 15 Jun 20:40<br><br>
+Wed 2 Jun 18:00; Tue 15 Jun 20:40<br>
 **What’s Love Got to Do with It**<br>
-Fri 4 Jun 18:00; Sat 26 Jun 20:45<br><br>
+Fri 4 Jun 18:00; Sat 26 Jun 20:45<br>
 **Twenty Feet from Stardom**<br>
-Fri 4 Jun 20:45; Thu 10 Jun 18:20<br><br>
+Fri 4 Jun 20:45; Thu 10 Jun 18:20<br>
 **The Wiz**<br>
-Sun 6 Jun 12:20; Fri 18 Jun 17:45<br><br>
+Sun 6 Jun 12:20; Fri 18 Jun 17:45<br>
+
+**Promotional Partner**<br>
+<img style="float: left;" src="/img/partner/caramel-logo.jpg" alt="Caramel Film Club" title="Caramel Film Club">
+<br><br><br><br><br><br>
+<!-- ![Caramel Film Club](/img/partner/caramel-logo.jpg) -->
+Celebrating films starring and directed by Black talent and more<br>
 
 **BECOME A BFI MEMBER**  
  Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at bfi.org.uk/join  
@@ -117,8 +125,4 @@ Sun 6 Jun 12:20; Fri 18 Jun 17:45<br><br>
 See something different today on **player.bfi.org.uk**  
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)  
 
-**Programme notes and credits compiled by the BFI Documentation Unit**  
-
-**Notes may be edited or abridged. Questions/comments? Email prognotes@bfi.org.uk**  
-
-**The British Film Institute is a charity registered in England and Wales No. 287780** 
+**Programme notes and credits compiled by the BFI Documentation Unit**<br>**Notes may be edited or abridged. Questions/comments? Email prognotes@bfi.org.uk**<br>**The British Film Institute is a charity registered in England and Wales No. 287780** 
