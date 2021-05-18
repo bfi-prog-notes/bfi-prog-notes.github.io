@@ -12,7 +12,7 @@ pdf: '2021-05-18-touch-of-evil.pdf'
 
 The last great Film Noir and the final film Orson Welles would direct in Hollywood, _Touch of Evil_ is a sweat-drenched saga of corruption and intrigue on the US/Mexico border.
 
-Beginning with one of the most celebrated tracking shots in cinema history, a bravura three-minute take following a bomb planted in a car as it crosses the US border, Welles crafts baroque, highly stylised masterpiece from inauspiciously pulpy source origins. A prestigious cast including Charlton Heston and Marlene Dietrich reinforces Welles’ playful mixture of A and B-movie tropes, but it’s Welles’ own turn as the leering, groteseque Hank Quinlan that steals the film. Seen in many different versions over the years, the film is here presented in Walter Murch’s 1998 restoration, based on Orson Welles’ 1957 memo to the head of Universal.
+Beginning with one of the most celebrated tracking shots in cinema history, a bravura three-minute take following a bomb planted in a car as it crosses the US border, Welles crafts baroque, highly stylised masterpiece from inauspiciously pulpy source origins. A prestigious cast including Charlton Heston and Marlene Dietrich reinforces Welles’ playful mixture of A and B-movie tropes, but it’s Welles’ own turn as the leering, groteseque Hank Quinlan that steals the film. Seen in many different versions over the years, the film is here presented in Walter Murch’s 1998 restoration, based on Orson Welles’ 1957 memo to the head of Universal.<br>
 **bfi.org.uk**
 
 _Touch of Evil_ was shot quickly and efficiently between 18 February and 2 April 1957. During the summer, soon after Orson Welles had completed the editing and gone off on holiday to Mexico, Universal started to get worried, took control of the film and held it back for another six months while they shot extra scenes, re-edited it and cut it back by about 15 minutes. It was eventually released without fanfare in February 1958. In 1975 an archivist at UCLA, Bob Epstein, discovered a 108-minute version which, while not absolutely Welles’ original cut, is certainly very close, as close as we are likely to get.
@@ -110,7 +110,6 @@ Enjoy a great package of film benefits including priority booking at BFI Southba
 **BIG SCREEN CLASSICS**
 
 **Persona**<br>
-<br>
 Mon 17 May 14:30; Fri 28 May 21:00; Wed 2 Jun 18:10 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large) Mon 28 Jun 21:00<br>
 **Touch of Evil**<br>
 Tue 18 May 14:30; Mon 31 May 12:45; Sat 5 Jun 17:50; Sun 20 Jun 18:15<br>
