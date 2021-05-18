@@ -9,7 +9,7 @@ tags: [Drama]
 metadata: 'USA, 2020, 107 mins'
 pdf: '2021-05-17-nomadland.pdf'
 ---
-_Nomadland_ stars Frances McDormand as a van-dwelling modern migrant worker travelling across the American West. A lyrical, anti-materialist neo-western with docudrama elements, it punctuates its melancholy with sublime images and epiphanic moments in the wilds. The movie and writer-director Chloé Zhao&#39;s previous features _Songs My Brothers Taught Me_ (2015) and _The Rider_ (2017) – both set on the Oglala Lakota Pine Ridge Reservation in South Dakota – empathise with people who have been rendered invisible by mainstream American society.
+_Nomadland_ stars Frances McDormand as a van-dwelling modern migrant worker travelling across the American West. A lyrical, anti-materialist neo-western with docudrama elements, it punctuates its melancholy with sublime images and epiphanic moments in the wilds. The movie and writer-director Chloé Zhao&#39;s previous features _Songs My Brothers Taught Me_ (2015) and _The Rider_ (2017) – both set on the Oglala Lakota Pine Ridge Reservation in South Dakota – empathise with people who have been rendered invisible by mainstream American society - stephen.
 
 It&#39;s tempting to locate the concern with the outsiders and itinerants found in Zhao&#39;s films in the story of her own life. Born in Beijing in 1982, Zhao attended Brighton College in England and completed high school in Los Angeles. Before enrolling in film school at New York University, she took a BA in political science at Mount Holyoke College – Emily Dickinson&#39;s alma mater – but she notes that despite her peripatetic upbringing, she&#39;s uncertain about why she has an affinity for marginalised people. &#39;I&#39;ve been thinking about this a lot lately,&#39; she says. &#39;I don&#39;t think I can pinpoint why my upbringing or experiences have made me that way, but I have always been an outsider myself; it doesn&#39;t matter where I went. I&#39;m attracted to people who are on the periphery of society.&#39;
 
@@ -107,3 +107,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Notes may be edited or abridged. Questions/comments? Email prognotes@bfi.org.uk**  
   
 **The British Film Institute is a charity registered in England and Wales No. 287780**  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk1NDUzMDQzMF19
+-->
