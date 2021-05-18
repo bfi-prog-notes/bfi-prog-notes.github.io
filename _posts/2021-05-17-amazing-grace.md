@@ -114,34 +114,19 @@ Forty-seven years later, this film is a testimony to the greatness of
 Aretha Franklin and a time-machine window into a moment in American
 musical and social history.
 
-**Production notes (with thanks to Neon)**
-
-**Amazing Grace**
-
-*Realised and Produced by:* Alan Elliott
-
-*\[Concert footage directed by\]:* Sydney Pollack
-
-*Presented by:* Neon
-
-*Produced in association with:* Sundial Pictures
-
-*Executive Producers:* Stefan Nowicki, Joey Carey, Alexandra Johnes
-
-*Producers:* Alan Elliott, Joe Boyd, Rob Johnson,
-
-Chiemi Karasawa, Spike Lee, Sabrina V. Owens, Jerry Wexler, Tirrell D.
-Whittley, Joseph Woolf
-
-*Co-producer:* Stephanie Apt
-
-*Editor:* Jeff Buchanan
-
-*Post Production Services and Supervision:*
-
-Final Cut USA, Inc
-
-*Colour and Balance:* Rebecca Arce
+**Production notes (with thanks to Neon)**  
+**Amazing Grace**  
+*Realised and Produced by:* Alan Elliott  
+*\[Concert footage directed by\]:* Sydney Pollack  
+*Presented by:* Neon  
+*Produced in association with:* Sundial Pictures  
+*Executive Producers:* Stefan Nowicki, Joey Carey, Alexandra Johnes  
+*Producers:* Alan Elliott, Joe Boyd, Rob Johnson,  
+Chiemi Karasawa, Spike Lee, Sabrina V. Owens, Jerry Wexler, Tirrell D. Whittley, Joseph Woolf<br>
+*Co-producer:* Stephanie Apt<br>
+*Editor:* Jeff Buchanan<br>
+*Post Production Services and Supervision:* Final Cut USA, Inc<br>
+*Colour and Balance:* Rebecca Arce<br>
 
 *Colourist:* Kelly Reese
 
