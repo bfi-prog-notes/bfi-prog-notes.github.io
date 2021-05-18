@@ -33,7 +33,231 @@ Welles also argued strenuously against the idea that his is a cinema of ‘ambig
 
 Towards the end of _Touch of Evil_, Quinlan asks the gypsy fortune-teller Tanya to read his future for him. She replies balefully, ‘You haven’t got any ... Your future’s all used up.’ It has often been commented that Tanya might have been talking about Welles, about his betrayal by Hollywood and his downfall as a commercial filmmaker. I do not think that casting Welles’ career in terms of failure and ruin is the best way to see it. On the contrary, he was a filmmaker who rejected the whole idea of making a Faustian bargain with Hollywood, recklessly scorning the tempting offers made to him by Mephistopheles. He was by no means a saint, but he believed that living with a good conscience was more important than power and worldly success. From a moral point of view, after all, it is Hollywood’s future that is now all used up, however much sympathy we may feel for its monstrous charm.
 **Peter Wollen, _Sight and Sound_, October 1996**
+<![endif]-->
 
+**Touch of Evil**
+
+_Director:_ Orson Welles
+
+_Production Company:_ Universal Pictures Company
+
+_Producer:_ Albert Zugsmith
+
+_Assistant Director:_ Phil Bowles
+
+_Screenplay by:_ Orson Welles
+
+_Based on the novel_ Badge of Evil _by:_
+
+Whit Masterson
+
+_Director of Photography:_ Russell Metty
+
+_Editors:_ Virgil Vogel, Aaron Stell
+
+_Art Direction:_ Alexander Golitzen,
+
+Robert Clatworthy
+
+_Set Decorations:_ Russell A. Gausman,
+
+John P. Austin
+
+_Gowns:_ Bill Thomas
+
+_Make-up:_ Bud Westmore
+
+_Music:_ Henry Mancini
+
+_Music Supervisor:_ Joseph Gershenson
+
+_Sound:_ Leslie I. Carey, Frank Wilkinson
+
+_Sound System:_ Westrex Recording System
+
+_Studio:_ Universal Studios Hollywood
+
+_uncredited_
+
+_Director – Additional Material:_ Harry Keller
+
+_Production Manager:_ F.D. Thompson
+
+_2nd Assistant Director:_ Terence Nelson
+
+_Screenplay:_ Paul Monash
+
+_Camera Operator:_ Philip Lathrop
+
+_Editors:_ Edward Curtiss, Ernest Nims
+
+_Cast:_
+
+Charlton Heston _(Ramon Miguel ‘Mike’ Vargas)_
+
+Janet Leigh _(Susan Vargas)_
+
+Orson Welles _(Hank Quinlan)_
+
+Joseph Calleia _(Pete Menzies)_
+
+Akim Tamiroff _(‘Uncle’ Joe Grandi)_
+
+Joanna Moore _(Marcia Linnekar)_
+
+Ray Collins _(District Attorney Adair)_
+
+Dennis Weaver _(Mirador Motel night man)_
+
+Valentin De Vargas _(‘Pancho’)_
+
+Mort Mills _(Al Schwartz)_
+
+Victor Millan _(Manolo Sanchez)_
+
+Lalo Rios _(Risto)_
+
+Michael Sargent _(Pretty Boy)_
+
+Phil Harvey _(Blaine)_
+
+Joi Lansing _(Zita, blonde in car)_
+
+Harry Shannon _(Chief Gould)_
+
+Marlene Dietrich _(Tanya)_
+
+Zsa Zsa Gabor _(stripclub owner)_
+
+_uncredited_
+
+Dan White _(customs officer)_
+
+Joseph Cotten _(police surgeon)_
+
+John Dierkes _(man at the accident)_
+
+Joe Basulto _(young delinquent)_
+
+Gus Schilling _(Eddie Farnum)_
+
+Billy House _(Linnekar Construction foreman)_
+
+Rusty Wescoatt _(Casey)_
+
+Wayne Taylor, Ken Miller, Raymond Rodriguez _(gang members)_
+
+Mercedes McCambridge _(gang leader)_
+
+Arlene McQuade _(Ginnie)_
+
+Yolanda Bojorquez _(Bobbie)_
+
+Jennie Dias _(Jackie)_
+
+Eleanor Dorado _(Lia)_
+
+William Tannen _(lawyer)_
+
+Domenick Delgarde _(lackey)_
+
+USA 1958©
+
+113 mins
+
+**BECOME A BFI MEMBER**
+
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at bfi.org.uk/join
+
+BIG SCREEN CLASSICS
+
+**Persona**
+
+Mon 17 May 14:30; Fri 28 May 21:00; Wed 2 Jun 18:10 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large) Mon 28 Jun 21:00
+
+**Touch of Evil**
+
+Tue 18 May 14:30; Mon 31 May 12:45; Sat 5 Jun 17:50; Sun 20 Jun 18:15
+
+**The Tango Lesson**
+
+Tue 18 May 20:45; Wed 9 Jun 17:50 (+ pre-recorded intro by So Mayer, author of ‘The Cinema of Sally Potter’)
+
+**Citizen Kane**
+
+Wed 19 May 18:00; Sun 30 May 12:40; Mon 21 Jun 20:45
+
+**L’eclisse (The Eclipse)**
+
+Thu 20 May 14:15; Sat 5 Jun 12:10; Tue 15 Jun 17:50
+
+**La Haine**
+
+Thu 20 May 17:50; Sat 29 May 21:00; Wed 16 Jun 21:00; Fri 18 Jun 20:40
+
+**The Last Picture Show (Director’s Cut)**
+
+Fri 21 May 20:30; Mon 31 May 12:50; Mon 7 Jun 17:45
+
+**Steamboat Bill, Jr.**
+
+Sat 22 May 12:00; Thu 3 Jun 14:30; Tue 22 Jun 18:30
+
+**Raging Bull**
+
+Sat 22 May 14:40; Sun 30 May 15:30; Tue 1 Jun 17:30
+
+**Cleo from 5 to 7** **Cléo de 5 à 7**
+
+Sat 22 May 21:00; Thu 10 Jun 21:00; Mon 21 Jun 14:30
+
+**The Big City (Mahanagar)**
+
+Sun 23 May 12:10; Wed 23 Jun 17:40
+
+**The Gospel According to Matthew (Il vangelo secondo Matteo)**
+
+Sun 23 May 15:20; Thu 24 Jun 17:40
+
+**The Night of the Hunter**
+
+Mon 24 May 14:30; Tue 8 Jun 20:50; Wed 16 Jun 18:15 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large)
+
+**The Killers** + pre-recorded intro by Imogen Sara Smith, author of ‘In Lonely Places: Film Noir beyond the City’
+
+Tue 25 May 20:30; Tue 8 Jun 14:30; Wed 23 Jun 17:50
+
+**Alice in the Cities (Alice in den Städten)**
+
+Wed 26 May 17:50; Tue 1 Jun 14:30; Fri 25 Jun 20:45
+
+**Eraserhead**
+
+Thu 27 May 18:20; Mon 14 Jun 21:00; Thu 24 Jun 21:10
+
+**Man Hunt**
+
+Fri 28 May 18:10; Sat 12 Jun 16:00; Tue 29 Jun 14:15
+
+**Sweet Smell of Success**
+
+Fri 4 Jun 15:00; Sun 13 Jun 15:45; Sat 26 Jun 11:40
+
+**The Man Who Wasn’t There**
+
+Fri 4 Jun 17:50; Sun 27 Jun 18:20
+
+**The White Ribbon (Das weisse Band)**
+
+Sun 6 Jun 18:10; Sat 26 Jun 16:30
+
+**Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London
+
+Mon 7 Jun 14:15; Thu 17 Jun 20:45; Wed 30 Jun 17:45
+
+**Bitter Victory**
+
+Sun 20 Jun 13:00; Mon 28 Jun 17:55
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3OTQ1NDk1LC05MTYyNzg5MzVdfQ==
+eyJoaXN0b3J5IjpbNjU5OTMwNDU1LDkyNzk0NTQ5NV19
 -->
