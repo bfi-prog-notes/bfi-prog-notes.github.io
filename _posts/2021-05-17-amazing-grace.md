@@ -307,9 +307,7 @@ Not yet registered? Create a new account at
 
 **Promotional partner**
 
-<div>
   <img src="/img/partner/caramel-logo.jpg" style="width:1.55208in;height:0.50575in;float: left" alt="Amazing Grace" title="Amazing Grace" />
-</div>
 
 Celebrating films starring and directed by Black talent and more
 
