@@ -28,7 +28,7 @@ Potter’s audacity is reflected in the decision to cast herself as Sally. Her b
 
 **Sophie Mayer, _Sight & Sound_, January 2010**
 
-**The Tango Lesson**
+**The Tango Lesson**<br>
 _Director:_ Sally Potter<br>
 _Production Companies:_ Adventure Pictures, OKCK Films, PIE, Nippon Film Development & Finance, Imagica, Pandora Filmproduktion, Sigma Films<br>
 _Participation:_ Arts Council of England,
@@ -41,46 +41,46 @@ _Argentina Co-producer:_ Oscar Kramer, Christian Keller Sarmiento<br>
 _Associate Producers:_ Diane Gelon, Cat Villiers<br>
 _Production Co-ordinator:_ Roanne Moore<br>
 _Buenos Aires Production Co-ordinator:_ Barbara Factorovich<br>
-_Paris Production Co-ordinators:_ Marie-Laure Compain, Florence Forney
-_Paris Production Manager:_ Philippe Besnier
-_Buenos Aires Production Manager:_ Diana Frey
-_Paris Location Managers:_ Eric Vidart-Loeb, Denise Cassotti
-_Buenos Aires Location Manager:_ Alberto Hasse
-_1st Assistant Director:_ Waldo Roeg
-_Paris 1st Assistant Director:_ Jérome Borenstein
-_Paris 3rd Assistant Director:_ Oona Seiler
-_Buenos Aires 1st Assistant Director:_ Carlos Gil
-_Buenos Aires 2nd Assistant Director:_ Rodrigo Carvajal
-_Buenos Aires 3rd Assistant Director:_ Nicolas Cubria
-_London 2nd Assistant Director:_ Mel Nortcliffe
-_Script Supervisor:_ Penny Eyles
-_Casting Director:_ Irene Lamb
-_Paris Casting Director:_ Frédérique Moidon
-_Paris Models Casting Director:_ Prudence Harington
-_Story Editor:_ Walter Donohue
-_Screenplay:_ Sally Potter
-_Director of Photography:_ Robby Müller
-_Paris Steadicam Operator:_ Jörg Widmer
-_Buenos Aires Steadicam Operator:_ Gustavo Mosquera
-_Paris Special Effects Supervisor:_ Christian Talenton
-_Buenos Aire Special Effects Supervisor:_ Tom Cundom
-_Editor:_ Hervé Schneid
-_Production Designer:_ Carlos Conti
-_Buenos Aires Art Director:_ Graciela Oderigo
-_Buenos Aires Sculptor:_ Adriana Maestri
-_Costume Designer:_ Paul Minter
-_Wardrobe Supervisor:_ Michael Weldon
-_Make-up Artists:_ Thi-Loan Nguyen, Chantal Léothier
-_Wigs:_ Peter King
-_Paris Hairdresser:_ Christian Gruau
-_Buenos Aires Hairdresser:_ Ricardo Fassan
-_Titles:_ Ranch Associates, Steve Masters
-_Optical Effects:_ Peerless Camera Company
-_Music:_ Sally Potter
-_With the participation of:_ Fred Frith
-_Ondes Martenot Music Performed by:_ Thomas Bloch
-_Guitars, Violins Music Performed by:_ Cristal Bachet, Fred Frith
-_Vocals Music Performed by:_ Sally Potter
+_Paris Production Co-ordinators:_ Marie-Laure Compain, Florence Forney<br>
+_Paris Production Manager:_ Philippe Besnier<br>
+_Buenos Aires Production Manager:_ Diana Frey<br>
+_Paris Location Managers:_ Eric Vidart-Loeb, Denise Cassotti<br>
+_Buenos Aires Location Manager:_ Alberto Hasse<br>
+_1st Assistant Director:_ Waldo Roeg<br>
+_Paris 1st Assistant Director:_ Jérome Borenstein<br>
+_Paris 3rd Assistant Director:_ Oona Seiler<br>
+_Buenos Aires 1st Assistant Director:_ Carlos Gil<br>
+_Buenos Aires 2nd Assistant Director:_ Rodrigo Carvajal<br>
+_Buenos Aires 3rd Assistant Director:_ Nicolas Cubria<br>
+_London 2nd Assistant Director:_ Mel Nortcliffe<br>
+_Script Supervisor:_ Penny Eyles<br>
+_Casting Director:_ Irene Lamb<br>
+_Paris Casting Director:_ Frédérique Moidon<br>
+_Paris Models Casting Director:_ Prudence Harington<br>
+_Story Editor:_ Walter Donohue<br>
+_Screenplay:_ Sally Potter<br>
+_Director of Photography:_ Robby Müller<br>
+_Paris Steadicam Operator:_ Jörg Widmer<br>
+_Buenos Aires Steadicam Operator:_ Gustavo Mosquera<br>
+_Paris Special Effects Supervisor:_ Christian Talenton<br>
+_Buenos Aire Special Effects Supervisor:_ Tom Cundom<br>
+_Editor:_ Hervé Schneid<br>
+_Production Designer:_ Carlos Conti<br>
+_Buenos Aires Art Director:_ Graciela Oderigo<br>
+_Buenos Aires Sculptor:_ Adriana Maestri<br>
+_Costume Designer:_ Paul Minter<br>
+_Wardrobe Supervisor:_ Michael Weldon<br>
+_Make-up Artists:_ Thi-Loan Nguyen, Chantal Léothier<br>
+_Wigs:_ Peter King<br>
+_Paris Hairdresser:_ Christian Gruau<br>
+_Buenos Aires Hairdresser:_ Ricardo Fassan<br>
+_Titles:_ Ranch Associates, Steve Masters<br>
+_Optical Effects:_ Peerless Camera Company<br>
+_Music:_ Sally Potter<br>
+_With the participation of:_ Fred Frith<br>
+_Ondes Martenot Music Performed by:_ Thomas Bloch<br>
+_Guitars, Violins Music Performed by:_ Cristal Bachet, Fred Frith<br>
+_Vocals Music Performed by:_ Sally Potter<br>
 _Music Supervisors:_ Ivan Chandler, Musicalities
 _[Music] Recording Engineer:_ Franck Lebon
 _Choreography:_ Pablo Veron
@@ -143,5 +143,5 @@ Enjoy a great package of film benefits including priority booking at BFI Southba
 Notes may be edited or abridged  
 Questions/comments? Email prognotes@bfi.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODEwNzg0MDRdfQ==
+eyJoaXN0b3J5IjpbLTE3MTIzMDUyNTRdfQ==
 -->
