@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'UK/France/Argentina/Japan/Germany, 1997, 101 mins'
-pdf: '2021-05-18-tango-lesson.pdf'
+pdf: '2021-05-18-the-tango-lesson.pdf'
 ---
 The director and star of _The Tango_ _Lesson,_ Sally Potter, has described her film as one which ‘exists, perilously, on the knife edge between reality and fiction’. Potter’s previous feature _Orlando_ (based on a Virginia Woolf novel which was part fictionalised biography, part historical time-travel and part love letter) also balanced on this knife edge, but the fact that it was a literary adaptation made the combination safer. By contrast, _The Tango Lesson_, based on real experiences from Potter’s life, is a significant personal risk, one intensified by Potter’s decision to play herself on screen.
 
@@ -145,5 +145,5 @@ Enjoy a great package of film benefits including priority booking at BFI Southba
 Notes may be edited or abridged  
 Questions/comments? Email prognotes@bfi.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzU3NzE1NDVdfQ==
+eyJoaXN0b3J5IjpbMTUyMzU0OTUwN119
 -->
