@@ -28,21 +28,19 @@ Potter’s audacity is reflected in the decision to cast herself as Sally. Her b
 
 **Sophie Mayer, _Sight & Sound_, January 2010**
 
-<![endif]-->
-
 **The Tango Lesson**
-_Director:_ Sally Potter
-_Production Companies:_ Adventure Pictures, OKCK Films, PIE, Nippon Film Development & Finance, Imagica, Pandora Filmproduktion, Sigma Films
+_Director:_ Sally Potter<br>
+_Production Companies:_ Adventure Pictures, OKCK Films, PIE, Nippon Film Development & Finance, Imagica, Pandora Filmproduktion, Sigma Films<br>
 _Participation:_ Arts Council of England,
-European Co-Production Fund, Eurimages Conseil de l’europe, Medien- und Filmgesellschaft Baden-Württemberg, NPS Televisie, Stichting Co-productiefonds Binnenlandse Omroep
-_Supported by:_ National Lottery through the Arts Council of England
-_Producer:_ Christopher Sheppard
-_Buenos Aires Line Producer:_ Oscar Kramer
-_France Co-producer:_ Simona Benzakein
-_Argentina Co-producer:_ Oscar Kramer, Christian Keller Sarmiento
-_Associate Producers:_ Diane Gelon, Cat Villiers
-_Production Co-ordinator:_ Roanne Moore
-_Buenos Aires Production Co-ordinator:_ Barbara Factorovich
+European Co-Production Fund, Eurimages Conseil de l’europe, Medien- und Filmgesellschaft Baden-Württemberg, NPS Televisie, Stichting Co-productiefonds Binnenlandse Omroep<br>
+_Supported by:_ National Lottery through the Arts Council of England<br>
+_Producer:_ Christopher Sheppard<br>
+_Buenos Aires Line Producer:_ Oscar Kramer<br>
+_France Co-producer:_ Simona Benzakein<br>
+_Argentina Co-producer:_ Oscar Kramer, Christian Keller Sarmiento<br>
+_Associate Producers:_ Diane Gelon, Cat Villiers<br>
+_Production Co-ordinator:_ Roanne Moore<br>
+_Buenos Aires Production Co-ordinator:_ Barbara Factorovich<br>
 _Paris Production Co-ordinators:_ Marie-Laure Compain, Florence Forney
 _Paris Production Manager:_ Philippe Besnier
 _Buenos Aires Production Manager:_ Diana Frey
@@ -145,5 +143,5 @@ Enjoy a great package of film benefits including priority booking at BFI Southba
 Notes may be edited or abridged  
 Questions/comments? Email prognotes@bfi.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzU0OTUwN119
+eyJoaXN0b3J5IjpbLTIwODEwNzg0MDRdfQ==
 -->
