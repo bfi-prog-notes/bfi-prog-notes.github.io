@@ -10,3 +10,88 @@ Unfortunately, Broomfield can’t really come close to this part of the story: B
 The core of the film, without doubt, is a treasure trove of footage of Houston on tour in 1999 (shot by Rudi Dolezal, who gets a co-director credit), which Broomfield rightly lingers over in some detail. It shows Houston, both behind the scenes and on stage, in full professional mode, entering the spotlight like an exhausted boxer coming out of her corner on pure adrenaline. However easy it looked from a distance, her vocal power did not come cheap: her tiny, already drug-wizened frame strains with effort as she hits perfect note after perfect note, and rivers of sweat pour off her. Showbiz cliché has it that performers come alive at such moments; Houston seems close to death. Which, in a way, she was.
 
 **Lisa Mullen, _Sight & Sound_, July 2017**
+
+<![endif]-->
+
+**Whitney ‘Can I Be Me’**
+
+_Directed by_: Nick Broomfield, Rudi Dolezal  
+©: Gospel And Beyond Ltd  
+_a_ Lafayette Film _production_
+
+_In association with_: Passion Pictures  
+_Presented by_: Showtime Documentary Films, BBC  
+_Executive Producers_: John Battsek,
+
+Vinnie Malhotra, Shani Hinton, Ben Silverman
+
+_Executive Producers for BBC_: Patrick Holland,
+
+Kate Townsend, Charles Finch  
+_Produced by_: Nick Broomfield, Marc Hoeferlin  
+_Archive Consultant_: Tom Haigh  
+_Associate Producers_: Joe Siegal, Gracie Otto  
+_Production Executive for Passion Pictures_:  
+Nicole Stott  
+_Production Accountants_: Kay Cundall,  
+Caroline Wooden  
+_Post-production Supervisor_: Ben Coulson  
+_Researchers_: Stephanie Purcell, Michelle Ganney, Kyle Gibbon  
+_Archive Researchers_: Lisa Savage, Erin Li,  
+Susan Ricketts, Samantha Kerzner  
+_Additional Archive Research_: Michelle Sullivan  
+_Camera_: Sam Mitchell  
+_Additional Photography_: Barney Broomfield, Denson Baker  
+_Motion Design by_: The Ether  
+_Creative Director_: Greg Kupiec  
+_Designers/Animators_: Colin Knighton, Jada Sacco  
+_Edited by_: Marc Hoeferlin  
+_Additional Editing_: Paul Marchand  
+_Additional Editing Assistance_: Harry Locke IV  
+_Post-production Facility_: Roundtable Films  
+_Titles Designer_: Matt Curtus  
+_Supervising Digital Colourists_: Jack Jones,  
+Claire Winter  
+_Original Music by_: Nick Laird-Clowes  
+_String Arrangements Performed by_:  
+The London Metropolitan Orchestra,  
+Janice Graham  
+_Violin 2_: Tom Lemp  
+_Viola_: Joel Hunter  
+_Cello_: Caroline Dale  
+_Original Music Orchestrated by_:  
+Nick Laird-Clowes, Paul Saunderson, Steve Wright  
+_Orchestration_: Marli Wren  
+_Original Music Arranged by_: Nick Laird-Clowes, Paul Saunderson, Steve Wright  
+_Original Music Produced By_: Steve McLaughlin  
+_Original Music Programmed by_: Nick Laird-Clowes, Paul Saunderson, Steve Wright  
+_Original Music Recorded by_: Steve McLaughlin, Jason Elliott  
+_Original Music Recorded at_: Northpole Studio  
+_Original Music Mixed by_: Steve McLaughlin,  
+Jason Elliott  
+_Original Music Mixed at_: Northpole Studio  
+_Music Preparation_: Marli Wren  
+_Sound Supervisor_: Mark Rozett  
+_Re-recording Mixer_: Mark Rozett  
+_Dialogue Editing_: Gene Hobson  
+_Sound Effects Editing_: Cale Rozett  
+_US Legal Services_: Alonzo Wickers  
+_UK Production Lawyer_: Shani Hinton  
+_Rights and Clearing_: Lisa Savage  
+_Music Clearance_: CS+, Anna Cardovillis,  
+Karen Hoeferlin  
+_Transcripts_: Tobias James, Thelma John,  
+Wangari Kavila, Gosia Nowicka  
+_Private Investigator_: Sheila McPhilamy  
+_Newark Expert_: Douglas Rodney Davis  
+_Digital Cinema Mastering_: Andres Del Cano  
+_Additional Mastering_: Sergei Dimlic,  
+Isolbel Akiwumi, Craig Hobson  
+_Thanks to_: Michael Lindsay-Hogg, Amanda Palmer
+
+UK/USA 2017©
+
+105 mins
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAxNDc4NDQ0M119
+-->
