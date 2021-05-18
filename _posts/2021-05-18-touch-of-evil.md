@@ -258,6 +258,11 @@ Mon 7 Jun 14:15; Thu 17 Jun 20:45; Wed 30 Jun 17:45
 **Bitter Victory**
 
 Sun 20 Jun 13:00; Mon 28 Jun 17:55
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Email prognotes@bfi.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5OTMwNDU1LDkyNzk0NTQ5NV19
+eyJoaXN0b3J5IjpbODY1MTI4NjQxLDY1OTkzMDQ1NSw5Mjc5ND
+U0OTVdfQ==
 -->
