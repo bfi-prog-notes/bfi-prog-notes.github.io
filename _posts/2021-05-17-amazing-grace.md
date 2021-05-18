@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazing Grace
+title: Amazing - Grace
 published: true
 date: 2021-05-17 17:45:00
 readtime: true
