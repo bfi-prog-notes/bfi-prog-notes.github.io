@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Tango Lesson
+published: true
+date: 2021-05-17
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'USA, 2019, 120 mins'
+pdf: '2021-05-17-sound-of-metal.pdf'
+---
 The director and star of _The Tango_ _Lesson,_ Sally Potter, has described her film as one which ‘exists, perilously, on the knife edge between reality and fiction’. Potter’s previous feature _Orlando_ (based on a Virginia Woolf novel which was part fictionalised biography, part historical time-travel and part love letter) also balanced on this knife edge, but the fact that it was a literary adaptation made the combination safer. By contrast, _The Tango Lesson_, based on real experiences from Potter’s life, is a significant personal risk, one intensified by Potter’s decision to play herself on screen.
 
 Shot mostly in exquisite black and white by veteran cinematographer Robby Müller, it dramatises and documents Potter’s fascination with the Argentinian tango. The film shows her single minded desire to learn the dance and her fluctuating emotional relationship with her teacher/partner Pablo Veron (a real-life tango star, also playing himself) who comes across as macho, predictably over-accustomed to adulation, and prone to giving ego-bruising criticism of the older, female Potter. Given Potter’s near-constant presence on screen in an allegedly autobiographical film, _The Tango Lesson_ will inevitably be rejected by some viewers and critics as self-indulgent. But for a filmmaker like Potter who has never marketed herself as a media or screen personality, the experience must have been closer to self-exposure. Miraculously, she transforms this highly personal material and uses her ambiguous screen presence (is it Potter we are watching, or a construction named ‘Sally Potter’?) well to make a film which is mostly intriguing and affecting. This has the same light touch, the same playfulness about gender relations and the magical aura which made _Orlando_ a pleasure. The film’s weaknesses (of which the chummy casting of poet Heathcote Williams as an unlikely builder is one) are generally minor, although the ‘happy ending’, in which Potter serenades Pablo by the Buenos Aires docks, is not just cheesy but unsatisfying.
@@ -132,17 +143,7 @@ Enjoy a great package of film benefits including priority booking at BFI Southba
 
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
-Questions/comments? Email prognotes@bfi.org.uk**<![if !vml]>
-
-<![endif]><![if !mso]>
-
-<![endif]>
-
-<![if !mso]>
-
-<![endif]><![if !mso & !vml]> <![endif]><![if !vml]>
-
-<![endif]>
+Questions/comments? Email prognotes@bfi.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjE0NTY5NThdfQ==
+eyJoaXN0b3J5IjpbMTE3MjE5NDAwOV19
 -->
