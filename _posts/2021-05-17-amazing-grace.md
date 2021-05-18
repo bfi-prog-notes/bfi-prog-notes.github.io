@@ -292,7 +292,8 @@ Sun 6 Jun 12:20; Fri 18 Jun 17:45
 **BECOME A BFI MEMBER** Enjoy a great package of film benefits including
 priority booking at
 
-BFI Southbank and BFI Festivals. Join today at bfi.org.uk/join**BFI
+BFI Southbank and BFI Festivals. Join today at bfi.org.uk/join
+**BFI
 PLAYER**We are always open online on BFI Player where you can watch the
 best new, cult & classic cinema on demand. Showcasing hand-picked
 landmark British and independent titles, films are available to watch in
@@ -306,7 +307,7 @@ Not yet registered? Create a new account at
 
 **Promotional partner**
 
-<img src="Desktop/img/partner/media/image1.jpeg" style="width:1.55208in;height:0.50575in" alt="cid:7DDFD9CC-651C-4DC2-8DD0-9F9B1976F222" />
+<img src="/img/partner/image1.jpeg" style="width:1.55208in;height:0.50575in" alt="Amazing Grace" title="Amazing Grace" />
 
 Celebrating films starring and directed by Black talent and more
 
