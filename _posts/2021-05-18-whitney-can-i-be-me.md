@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Whitney 'Can I Be Me'
+published: true
+date: 2021-05-17
+readtime: true
+categories: ['HER VOICE - BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN']
+tags: [Music, Documentary]
+metadata: 'UK/USA, 2017, 105 mins'
+pdf: '2021-05-18-whitney-can-i-be-me.pdf'
+---
 Nick Broomfield made his name in the 1990s with a series of exposés in which he thrust his trademark oversized boom microphone into the lives of people who would rather not talk to him. This feature-length biography of the singer Whitney Houston is a much more nuanced affair, with Broomfield staying out of sight behind the camera, appearing only rarely as a disembodied voice asking a softly spoken question. In the main, the film simply cuts together interviews and archive footage to unfold the tragic story of a natural talent snuffed out by drug addiction and self-sabotage.
 
 Opening with media footage of the night in 2012 when Houston’s body was found in a hotel room in Beverly Hills, Broomfield never lets her impending death stray far from our minds. Yet the film depicts her rise to fame as an almost magical process, as if she were carried up into the stratosphere by forces beyond her control. First, there was that enormous voice, almost a separate life form, piggybacking parasitically on this skinny, wide-eyed waif. And then there was Whitney Inc, the autonomous business entity with its own priorities, objectives and momentum; those who dissented, such as her friend and sometime lover Robyn Crawford, were pushed out as the machine grew stronger and hungrier for dollars on the bottom line, while the woman trapped inside it became ever more frail and vulnerable.
