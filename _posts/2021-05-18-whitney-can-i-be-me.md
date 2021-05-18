@@ -2,7 +2,7 @@
 layout: post
 title: Whitney 'Can I Be Me'
 published: true
-date: 2021-05-17
+date: 2021-05-18
 readtime: true
 categories: ['HER VOICE - BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN']
 tags: [Music, Documentary]
