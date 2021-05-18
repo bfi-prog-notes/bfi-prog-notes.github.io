@@ -79,6 +79,87 @@ Isolbel Akiwumi, Craig Hobson
 _Thanks to_: Michael Lindsay-Hogg, Amanda Palmer
 
 UK/USA 2017©  105 mins
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkxNDIxNzAsMjAxNDc4NDQ0M119
--->
+
+**HER VOICE: BLACK WOMEN FROM THE  
+SPOTLIGHT TO THE SCREENAmazing Grace**
+
+Mon 17 May 18:10; Sat 29 May 15:15;  
+Tue 8 Jun 18:10
+
+**Whitney: Can I Be Me**
+
+Tue 18 May 20:50; Sat 26 Jun 18:10
+
+**Siren of the Tropics (La sirène des tropiques)**
+
+Wed 19 May 18:10; Sat 5 Jun 12:20
+
+**Stormy Weather**
+
+Wed 19 May 20:40; Sat 5 Jun 16:00
+
+**Dreamgirls**
+
+Sat 22 May 17:50; Wed 23 Jun 20:30
+
+**Ella Fitzgerald: Just One of Those Things**
+
+Mon 24 May 18:10; Sat 19 Jun 15:20
+
+**…But Then, She’s Betty Carter**
+
+Sat 29 May 12:10; Mon 7 Jun 18:00
+
+**Sparkle**
+
+Sun 30 May 18:40; Thu 10 Jun 20:35
+
+**Mavis!**
+
+Mon 31 May 16:10; Thu 17 Jun 20:40
+
+**Billie**
+
+Wed 2 Jun 18:00; Tue 15 Jun 20:40
+
+**What’s Love Got to Do with It**
+
+Fri 4 Jun 18:00; Sat 26 Jun 20:45
+
+**Twenty Feet from Stardom**
+
+Fri 4 Jun 20:45; Thu 10 Jun 18:20
+
+**The Wiz**
+
+Sun 6 Jun 12:20; Fri 18 Jun 17:45
+
+**BECOME A BFI MEMBER** Enjoy a great package of film benefits including
+priority booking at BFI Southbank and BFI Festivals. Join today at bfi.org.uk/join
+
+**BFI PLAYER**We are always open online on BFI Player where you can watch the
+best new, cult & classic cinema on demand. Showcasing hand-picked
+landmark British and independent titles, films are available to watch in
+three distinct ways: Subscription, Rentals & Free to view.
+
+See something different today on **player.bfi.org.uk**  
+Join the BFI mailing list for regular programme updates.
+
+Not yet registered? Create a new account at
+[**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Promotional partner**
+
+<div>
+  <img src="/img/partner/caramel-logo.jpg" style="width:1.55208in;height:0.50575in;float: left" alt="Amazing Grace" title="Amazing Grace" />
+</div>
+
+Celebrating films starring and directed by Black talent and more
+
+**Programme notes and credits compiled by the BFI Documentation Unit**
+
+**Notes may be edited or abridged. Questions/comments? Email
+prognotes@bfi.org.uk**
+
+**The British Film Institute is a charity registered in England and
+Wales No. 287780**
