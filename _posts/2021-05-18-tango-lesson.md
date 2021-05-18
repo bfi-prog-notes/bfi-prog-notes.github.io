@@ -23,9 +23,7 @@ Potter’s audacity is reflected in the decision to cast herself as Sally. Her b
 _Director:_ Sally Potter
 _Production Companies:_ Adventure Pictures, OKCK Films, PIE, Nippon Film Development & Finance, Imagica, Pandora Filmproduktion, Sigma Films
 _Participation:_ Arts Council of England,
-European Co-Production Fund,
-Eurimages Conseil de l’europe, Medien- und Filmgesellschaft Baden-Württemberg
-NPS Televisie, Stichting Co-productiefonds Binnenlandse Omroep
+European Co-Production Fund, Eurimages Conseil de l’europe, Medien- und Filmgesellschaft Baden-Württemberg, NPS Televisie, Stichting Co-productiefonds Binnenlandse Omroep
 _Supported by:_ National Lottery through the Arts Council of England
 _Producer:_ Christopher Sheppard
 _Buenos Aires Line Producer:_ Oscar Kramer
@@ -55,67 +53,32 @@ _Screenplay:_ Sally Potter
 _Director of Photography:_ Robby Müller
 _Paris Steadicam Operator:_ Jörg Widmer
 _Buenos Aires Steadicam Operator:_ Gustavo Mosquera
-
 _Paris Special Effects Supervisor:_ Christian Talenton
-
-_Buenos Aire Special Effects Supervisor:_
-
-Tom Cundom
-
+_Buenos Aire Special Effects Supervisor:_ Tom Cundom
 _Editor:_ Hervé Schneid
-
 _Production Designer:_ Carlos Conti
-
 _Buenos Aires Art Director:_ Graciela Oderigo
-
 _Buenos Aires Sculptor:_ Adriana Maestri
-
 _Costume Designer:_ Paul Minter
-
 _Wardrobe Supervisor:_ Michael Weldon
-
-_Make-up Artists:_ Thi-Loan Nguyen,
-
-Chantal Léothier
-
+_Make-up Artists:_ Thi-Loan Nguyen, Chantal Léothier
 _Wigs:_ Peter King
-
 _Paris Hairdresser:_ Christian Gruau
-
 _Buenos Aires Hairdresser:_ Ricardo Fassan
-
 _Titles:_ Ranch Associates, Steve Masters
-
 _Optical Effects:_ Peerless Camera Company
-
 _Music:_ Sally Potter
-
 _With the participation of:_ Fred Frith
-
-_Ondes Martenot Music Performed by:_
-
-Thomas Bloch
-
+_Ondes Martenot Music Performed by:_ Thomas Bloch
 _Guitars, Violins Music Performed by:_ Cristal Bachet, Fred Frith
-
 _Vocals Music Performed by:_ Sally Potter
-
 _Music Supervisors:_ Ivan Chandler, Musicalities
-
 _[Music] Recording Engineer:_ Franck Lebon
-
 _Choreography:_ Pablo Veron
-
-_Buenos Aires Additional Choreography:_
-
-Gustavo Naveira, Fabian Salas, Carlos Copello
-
+_Buenos Aires Additional Choreography:_ Gustavo Naveira, Fabian Salas, Carlos Copello
 _Sound:_ Jean-Paul Mugel, Gérard Hardy
-
 _Re-recording Mixer:_ Robin O’Donoghue
-
 _ADR Mixer:_ Gilles Missir
-
 _ADR Editors:_ Patrice Raffi, Corinne Raffi
 
 _Foley Artist:_ Jean-Pierre Lelong
@@ -212,5 +175,5 @@ Enjoy a great package of film benefits including priority booking at BFI Southba
 
 **Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at www.bfi.org.uk/signup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTQyMzc3XX0=
+eyJoaXN0b3J5IjpbLTEwNzI2NjA4MDVdfQ==
 -->
