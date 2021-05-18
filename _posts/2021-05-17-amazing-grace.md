@@ -9,7 +9,8 @@ tags: [Music, Documentary]
 metadata: 'USA, 1973, 120 mins'
 pdf: '2021-05-17-amazing-grace.pdf'
 ---
-The first recorded evidence of Aretha Franklin’s glorious voice was captured in 1956, when she performed a string of gospel numbers in her Baptist minister father’s Detroit church. She was just 14, and the pop stardom she would achieve during her post-1967 tenure with Atlantic Records was still far ahead. Atlantic, though, kept Franklin well away
+The first recorded evidence of Aretha Franklin’s glorious voice was captured in 1956, when she performed a string of gospel numbers in her Baptist minister father’s Detroit church. She was just 14, and the pop stardom she would achieve during her post-1967 tenure with Atlantic 
+Records was still far ahead. Atlantic, though, kept Franklin well away
 from the gospel genre for several years, while her epochal soul hits
 shifted units. The calculation was, presumably, that gospel was just a
 bit too authentic, a bit too black, and unlikely to get airplay on pop
@@ -70,7 +71,8 @@ intensity.
 
 **Trevor Johnston, *Sight & Sound*, June 2019**
 
-When Franklin was planning her *Amazing Grace* album, Warner Brothers agreed to film the session in 1972.
+When Franklin was planning her *Amazing Grace* album, Warner Brothers
+agreed to film the session in 1972.
 
 Warner Communications, the parent company of Warner Brothers and the
 Warner, Reprise, Elektra and Atlantic labels, had reaped the rewards of
@@ -115,114 +117,194 @@ musical and social history.
 **Production notes (with thanks to Neon)**
 
 **Amazing Grace**
+
 *Realised and Produced by:* Alan Elliott
+
 *\[Concert footage directed by\]:* Sydney Pollack
+
 *Presented by:* Neon
+
 *Produced in association with:* Sundial Pictures
+
 *Executive Producers:* Stefan Nowicki, Joey Carey, Alexandra Johnes
-*Producers:* Alan Elliott, Joe Boyd, Rob Johnson, Chiemi Karasawa, Spike Lee, Sabrina V. Owens, Jerry Wexler, Tirrell D.
+
+*Producers:* Alan Elliott, Joe Boyd, Rob Johnson,
+
+Chiemi Karasawa, Spike Lee, Sabrina V. Owens, Jerry Wexler, Tirrell D.
 Whittley, Joseph Woolf
+
 *Co-producer:* Stephanie Apt
+
 *Editor:* Jeff Buchanan
-*Post Production Services and Supervision:* Final Cut USA, Inc
+
+*Post Production Services and Supervision:*
+
+Final Cut USA, Inc
+
 *Colour and Balance:* Rebecca Arce
+
 *Colourist:* Kelly Reese
+
 *Art Direction and Titles:* Mathieu Bitton
+
 *Music Mixer:* Jimmy Douglass
-*Original album produced by:* Aretha Franklin, Arif Mardin, Jerry Wexler
+
+*Original album produced by:* Aretha Franklin,
+
+Arif Mardin, Jerry Wexler
+
 *Audio Project Managers:* Bob Heiber, *  
 *Chris Reynolds, Ron Bonk, Kim Gott
-*Originally recorded live at:* The New Temple Missionary Baptist Church, Los Angeles
+
+*Originally recorded live at:* The New Temple Missionary Baptist Church,
+Los Angeles
+
 *Recording Engineers:* Ray Thompson, Wally Heider
-*Special Thanks:* Reverend William Barber II,  Ari Emanuel, Matt Farmer, Julie Huntsinger,  Phil Jackson, Tom Luddy, SydneyPollack,  Peter Sellars
+
+*Special Thanks:* Reverend William Barber II,  
+Ari Emanuel, Matt Farmer, Julie Huntsinger,  
+Phil Jackson, Tom Luddy, Sydney Pollack,  
+Peter Sellars
 
 **WITH**
+
 Aretha Franklin
+
 Rev. James Cleveland
+
 Rev. C.L. Franklin
+
 Alexander Hamilton *(choir director)*
+
 Cornell Dupree *(guitar)*
+
 Kenny Luper *(organ)*
+
 Poncho Morales *(percussion)*
+
 Bernard Purdie *(drums)*
+
 Chuck Rainey *(bass)*
+
 Christine Adams
+
 Alonzo Atkins
+
 Lucy Ayers
+
 James A. Broofield
+
 Eugene Bryant
+
 Syndrul Drahe
+
 Mary Ann Hall
+
 Margerie Luper
+
 Charles May
+
 Ethel Ruth Mcisaac
+
 Odessa L. Mccastle
+
 Stanley B. Miller
+
 Linda Jean Ovenland
+
 Rashi Park
 
 *The Southern California Community Choir*:
+
 Donna J. Hammond
+
 Darryl Hardy
+
 Betty Hollins
+
 Josephine Howard
+
 Sherman James
+
 Dolores Jones
+
 Johannie Pearl Knox
+
 Linda J. Payton
+
 Diane M. Ratcliff
+
 Gilbert Stanley
+
 Annette May Thomas
+
 Bobby Washington
+
 Aundie Wodson
+
 Barbara Ann Wilson
 
-USA 2019 88 mins
+USA 2019
+
+88 mins
 
 \* Uncredited
 
-**HER VOICE: BLACK WOMEN FROM THE  SPOTLIGHT TO THE SCREEN
-Amazing Grace**
-Mon 17 May 18:10; Sat 29 May 15:15;  Tue 8 Jun 18:10
+**HER VOICE: BLACK WOMEN FROM THE  
+SPOTLIGHT TO THE SCREENAmazing Grace**
+
+Mon 17 May 18:10; Sat 29 May 15:15;  
+Tue 8 Jun 18:10
 
 **Whitney: Can I Be Me**
+
 Tue 18 May 20:50; Sat 26 Jun 18:10
 
 **Siren of the Tropics (La sirène des tropiques)**
+
 Wed 19 May 18:10; Sat 5 Jun 12:20
 
 **Stormy Weather**
+
 Wed 19 May 20:40; Sat 5 Jun 16:00
 
 **Dreamgirls**
+
 Sat 22 May 17:50; Wed 23 Jun 20:30
 
 **Ella Fitzgerald: Just One of Those Things**
+
 Mon 24 May 18:10; Sat 19 Jun 15:20
 
 **…But Then, She’s Betty Carter**
+
 Sat 29 May 12:10; Mon 7 Jun 18:00
 
 **Sparkle**
+
 Sun 30 May 18:40; Thu 10 Jun 20:35
 
 **Mavis!**
+
 Mon 31 May 16:10; Thu 17 Jun 20:40
 
 **Billie**
+
 Wed 2 Jun 18:00; Tue 15 Jun 20:40
 
 **What’s Love Got to Do with It**
+
 Fri 4 Jun 18:00; Sat 26 Jun 20:45
 
 **Twenty Feet from Stardom**
+
 Fri 4 Jun 20:45; Thu 10 Jun 18:20
 
 **The Wiz**
+
 Sun 6 Jun 12:20; Fri 18 Jun 17:45
 
-**BECOME A BFI MEMBER** 
-Enjoy a great package of film benefits including
+**BECOME A BFI MEMBER** Enjoy a great package of film benefits including
 priority booking at
 
 BFI Southbank and BFI Festivals. Join today at bfi.org.uk/join**BFI
@@ -245,6 +327,8 @@ Celebrating films starring and directed by Black talent and more
 
 **Programme notes and credits compiled by the BFI Documentation Unit**
 
-**Notes may be edited or abridged. Questions/comments? Email prognotes@bfi.org.uk**
+**Notes may be edited or abridged. Questions/comments? Email
+prognotes@bfi.org.uk**
 
-**The British Film Institute is a charity registered in England and Wales No. 287780**
+**The British Film Institute is a charity registered in England and
+Wales No. 287780**
