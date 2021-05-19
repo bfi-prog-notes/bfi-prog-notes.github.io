@@ -128,3 +128,6 @@ We’re also pleased to offer you a unique new space, the BFI Riverfront – wit
 We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on [player.bfi.org.uk](https://player.bfi.org.uk/)
 
 **Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at [www.bfi.org.uk/signup](https://whatson.bfi.org.uk/Online/login.asp)
+
+Programme notes and credits compiled by the BFI Documentation Unit Notes may be edited or abridged 
+Questions/comments? Email prognotes@bfi.org.uk
