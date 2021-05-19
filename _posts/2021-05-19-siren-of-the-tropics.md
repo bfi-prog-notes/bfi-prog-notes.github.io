@@ -25,8 +25,7 @@ Baker as Papitou is performing the primitive native girl from an exotic backgrou
 
 
 **Siren of the Tropics  
-(La sirène des tropiques)**  
-_Directors_: Henri Etiévant, Mario Nalpas  
+(La sirène des tropiques)**<br>_Directors_: Henri Etiévant, Mario Nalpas  
 _Production Company_: Centrale Cinématographique  
 _Assistant Director_: Luis Buñuel  
 _Screenplay_: Maurice Dekobra  
@@ -36,8 +35,7 @@ _Art Director_: Jacques Natanson
 _Set Decorators_: Pierre Schildknecht, Eugène Carré  
 _Studio_: Éclair (Paris)
 
-_Cast:_  
-Joséphine Baker _(Papitou)_  
+_Cast:_<br>Joséphine Baker _(Papitou)_  
 Pierre Batcheff _(André Berval)_  
 Georges Melchior _(Marquis Sévéro)_  
 Régina Dalthy _(Marquise Sévéro)_  
@@ -50,8 +48,7 @@ Pierre Hot
 Janine Borelli  
 Colette Borelli
 
-France 1927  
-86 mins
+France 1927<br>86 mins
 
 With recorded score
 <!--stackedit_data:
