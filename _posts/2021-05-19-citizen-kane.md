@@ -27,7 +27,6 @@ I wanted to have nobody in the film you’d ever seen before. I thought that’d
 This is unquestionably one of the most intelligent films to appear for many years. No one who is really interested in the cinema can afford to miss it. Even those who go to the cinema simply for a few hours’ entertainment, and who even perhaps profess to be bored by intelligence, will find themselves curiously spellbound by this spirited attempt to break with most of the formulas which Hollywood holds so dear. _Citizen Kane_ is refreshingly new, from its theme, which has a maturity which one has almost despaired of finding on the screen, right down to its cast, everyone of which acts superlatively well and none of which has ever appeared in films before [sic]. Orson Welles’s innovations of style will almost certainly influence current filmmaking, although the question whether he has made any significant contribution to film technique is not likely to be apparent until the film has taken its place in history. Meanwhile the fact that it should even give rise to the question is a measure of the film’s stature. Its style is essentially theatrical but is unusual in its narrative construction, in its dialogue, which has been written with amazing realism (as where a single voice rises out of a babel of voices and suddenly dominates the rest), and above all in its pictorial composition. These last (for which probably Gregg Toland, the camera-man, deserves most credit) have been most carefully constructed so as constantly to give emphasis to the dramatic action. To the resources of lighting, which has been most skilfully used, has been added construction in depth, made possible by wide-angle lenses used in combination with ceilinged sets. This construction in depth is the most obvious novelty of the film and the one most easy to imitate. There is every danger that the imitators will repeat the device without a due appreciation of the narrative skill which has made its use here so effective. _Citizen Kane_ is not above criticism but it would be unthankful to seek to analyse weaknesses in a film which offers such a full measure of merit and brilliance.
 **_Monthly Film Bulletin_, December 1941**
 
-
 **Citizen Kane**<br>
 _Director:_ Orson Welles<br>
 _©/Production Company:_ RKO Radio Pictures<br>
@@ -214,5 +213,6 @@ We are always open online on BFI Player where you can watch the best new, cult &
 
 **Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at www.bfi.org.uk/signup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjU5OTEwOCw3NjU2OTcwMzddfQ==
+eyJoaXN0b3J5IjpbNDY3MDY0NTU0LC0xNjY1OTkxMDgsNzY1Nj
+k3MDM3XX0=
 -->
