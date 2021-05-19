@@ -7,7 +7,7 @@ readtime: true
 categories: ['HER VOICE - BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN']
 tags: [Drama, Musical]
 metadata: 'France, 1927, 86 mins'
-pdf: '2021-05-19-siren-of-the-tropics.pdf'
+pdf: '2021-05-19-Siren-of-the-Tropics.pdf'
 ---
 
 _Siren of the Tropics_ may feature one of America’s greatest stars, but it’s a film that could never have been made in America at the time, or for decades later. In the silent era, Anna May Wong set sail for Europe to play romantic leads, escaping Hollywood’s prohibition on what it called miscegenation. In the classical Hollywood musical, Black performers from The Nicholas Brothers to Lena Horne were seen only as ‘featured players’ with no connection to the story – so their show-stopping sequences could be excised from the film for exhibition in the South.
