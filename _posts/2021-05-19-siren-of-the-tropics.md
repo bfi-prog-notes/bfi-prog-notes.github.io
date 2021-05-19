@@ -1,3 +1,15 @@
+---
+layout: post
+title: Siren of the Tropics
+published: true
+date: 2021-05-19
+readtime: true
+categories: ['HER VOICE - BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN']
+tags: [Drama, Musical]
+metadata: 'France, 1927, 86 mins'
+pdf: '2021-05-19-siren-of-the-tropics.pdf'
+---
+
 _Siren of the Tropics_ may feature one of America’s greatest stars, but it’s a film that could never have been made in America at the time, or for decades later. In the silent era, Anna May Wong set sail for Europe to play romantic leads, escaping Hollywood’s prohibition on what it called miscegenation. In the classical Hollywood musical, Black performers from The Nicholas Brothers to Lena Horne were seen only as ‘featured players’ with no connection to the story – so their show-stopping sequences could be excised from the film for exhibition in the South.
 
 In _Siren of the Tropics_, Josephine Baker isn’t just the star of the film, she is giving a career-defining star performance. Not least because this film fictionalises the creation of her star persona. It’s the story of a young woman from the Caribbean who falls in love with a white man and follows him to Paris. While searching for him, she is scouted by nightclub impresarios and becomes the toast of the city. Finally reunited with her love, she sees that they can never be together and she makes a sacrifice for him before sailing away to America to start a new life.
@@ -20,7 +32,7 @@ That scene comes at the end of the film’s most extended comic sequence. It’s
 
 Like many of her peers, Baker had performed Blackface comedy routines back in New York. When you see Baker goofily grinning and crossing her eyes, that’s a throwback to Blackface routines. According to the signifying codes of Black comedy at the time, the joke is in the double-meaning, to be a Black woman pretending to be a white person’s idea of a Black character, whether lazy or foolish or with exaggerated gestures, and thereby commenting, with a wink, on the caricature mid-performance. It’s an instructive way to look at _Siren of the Tropics_, where once again her performance is layered and complex.
 
-Baker as Papitou is performing the primitive native girl from an exotic background, the sensual nightclub siren, but with such panache, such a sense of her talent, defiance and burgeoning fame, that we never lose sight of the real character she is playing. And that’s Josephine Baker herself.<br>**Pamela Hutchinson, Silent London, silentlondon.co.uk, 4 March 2021<br>(Published with permission from the author.)**
+Baker as Papitou is performing the primitive native girl from an exotic background, the sensual nightclub siren, but with such panache, such a sense of her talent, defiance and burgeoning fame, that we never lose sight of the real character she is playing. And that’s Josephine Baker herself.<br>**Pamela Hutchinson, Silent London, [silentlondon.co.uk](https://silentlondon.co.uk/), 4 March 2021<br>(Published with permission from the author.)**
 
 
 
