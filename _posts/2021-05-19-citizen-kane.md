@@ -1,4 +1,3 @@
-
 **Andrew Sarris on the 50th anniversary of the opening of ‘Citizen Kane’**
 
 _Citizen Kane_ erupted on to the screen, at least as a long-lived figure of speech, on 1 May 1941 at New York’s Palace Theater. The film was originally to be premiered at the more prestigious and profitable Radio City Music Hall, but the booking was rejected – presumably because of the controversy surrounding the film’s allegedly libellous treatment of William Randolph Hearst and his mistress, Marion Davies. Although Orson Welles always insisted that Charles Foster Kane was a composite of several tycoons, Barbara Learning’s authorised biography of Welles contains the startling information that: ‘Somehow, before making the movie, Orson had found out the secret name that Hearst used to refer to Marion Davies’ genitalia: Rosebud’. So much for the arcane analysis of this most tantalising of cinematic symbols.
@@ -213,6 +212,6 @@ We are always open online on BFI Player where you can watch the best new, cult &
 
 **Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at www.bfi.org.uk/signup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3MDY0NTU0LC0xNjY1OTkxMDgsNzY1Nj
-k3MDM3XX0=
+eyJoaXN0b3J5IjpbLTE3NjM3MTQ4ODQsNDY3MDY0NTU0LC0xNj
+Y1OTkxMDgsNzY1Njk3MDM3XX0=
 -->
