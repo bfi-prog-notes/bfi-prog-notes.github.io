@@ -99,7 +99,7 @@ Sun 6 Jun 12:20; Fri 18 Jun 17:45<br>
 Celebrating films starring and directed by Black talent and more<br>
 
 **BECOME A BFI MEMBER**  
- Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](www.bfi.org.uk/join)  
+ Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](https://www.bfi.org.uk/become-bfi-member)  
 
 **BFI PLAYER**  
  We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
