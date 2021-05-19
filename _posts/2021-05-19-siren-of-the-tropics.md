@@ -23,7 +23,44 @@ Like many of her peers, Baker had performed Blackface comedy routines back in Ne
 Baker as Papitou is performing the primitive native girl from an exotic background, the sensual nightclub siren, but with such panache, such a sense of her talent, defiance and burgeoning fame, that we never lose sight of the real character she is playing. And that’s Josephine Baker herself.
 
 **Pamela Hutchinson, Silent London, silentlondon.co.uk, 4 March 2021  
-(Published with permission from the author.)
+(Published with permission from the author.)**
+
+
+
+**Siren of the Tropics  
+(La sirène des tropiques)**
+
+_Directors_: Henri Etiévant, Mario Nalpas  
+_Production Company_:  
+Centrale Cinématographique  
+_Assistant Director_: Luis Buñuel  
+_Screenplay_: Maurice Dekobra  
+_Photography_: Albert Duverger,  
+Paul Cotteret, Maurice Hennebains  
+_Art Director_: Jacques Natanson  
+_Set Decorators_: Pierre Schildknecht, Eugène Carré  
+_Studio_: Éclair (Paris)
+
+_Cast:_
+
+Joséphine Baker _(Papitou)_  
+Pierre Batcheff _(André Berval)_  
+Georges Melchior _(Marquis Sévéro)_  
+Régina Dalthy _(Marquise Sévéro)_  
+Kiranine _(Alvarez)_  
+Adolphe Candé _(director)_  
+Régina Thomas _(Denise)_   
+Jean Borelli  
+Joe Alex  
+Pierre Hot  
+Janine Borelli  
+Colette Borelli
+
+France 1927
+
+86 mins
+
+With recorded score
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTAxODM5MV19
+eyJoaXN0b3J5IjpbLTEzMzYwODU4MDZdfQ==
 -->
