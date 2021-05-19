@@ -20,19 +20,14 @@ That scene comes at the end of the film’s most extended comic sequence. It’s
 
 Like many of her peers, Baker had performed Blackface comedy routines back in New York. When you see Baker goofily grinning and crossing her eyes, that’s a throwback to Blackface routines. According to the signifying codes of Black comedy at the time, the joke is in the double-meaning, to be a Black woman pretending to be a white person’s idea of a Black character, whether lazy or foolish or with exaggerated gestures, and thereby commenting, with a wink, on the caricature mid-performance. It’s an instructive way to look at _Siren of the Tropics_, where once again her performance is layered and complex.
 
-Baker as Papitou is performing the primitive native girl from an exotic background, the sensual nightclub siren, but with such panache, such a sense of her talent, defiance and burgeoning fame, that we never lose sight of the real character she is playing. And that’s Josephine Baker herself.
-
-**Pamela Hutchinson, Silent London, silentlondon.co.uk, 4 March 2021  
-(Published with permission from the author.)**
+Baker as Papitou is performing the primitive native girl from an exotic background, the sensual nightclub siren, but with such panache, such a sense of her talent, defiance and burgeoning fame, that we never lose sight of the real character she is playing. And that’s Josephine Baker herself.<br>**Pamela Hutchinson, Silent London, silentlondon.co.uk, 4 March 2021<br>(Published with permission from the author.)**
 
 
 
 **Siren of the Tropics  
-(La sirène des tropiques)**
-
+(La sirène des tropiques)**  
 _Directors_: Henri Etiévant, Mario Nalpas  
-_Production Company_:  
-Centrale Cinématographique  
+_Production Company_: Centrale Cinématographique  
 _Assistant Director_: Luis Buñuel  
 _Screenplay_: Maurice Dekobra  
 _Photography_: Albert Duverger,  
@@ -41,8 +36,7 @@ _Art Director_: Jacques Natanson
 _Set Decorators_: Pierre Schildknecht, Eugène Carré  
 _Studio_: Éclair (Paris)
 
-_Cast:_
-
+_Cast:_  
 Joséphine Baker _(Papitou)_  
 Pierre Batcheff _(André Berval)_  
 Georges Melchior _(Marquis Sévéro)_  
@@ -56,8 +50,7 @@ Pierre Hot
 Janine Borelli  
 Colette Borelli
 
-France 1927
-
+France 1927  
 86 mins
 
 With recorded score
