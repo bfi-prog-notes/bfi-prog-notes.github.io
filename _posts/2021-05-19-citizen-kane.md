@@ -40,98 +40,184 @@ This is unquestionably one of the most intelligent films to appear for many year
 _Director:_ Orson Welles<br>
 _©/Production Company:_ RKO Radio Pictures<br>
 _Production Company:_ Mercury Productions<br>
+
 _Producer:_ Orson Welles<br>
+
 _Screenplay:_ Herman J. Mankiewicz, Orson Welles<br>
+
 _Director of Photography:_ Gregg Toland<br>
+
 _Special Effects:_ Vernon L. Walker<br>
+
 _Editor:_ Robert Wise<br>
+
 _Art Director:_ Van Nest Polglase<br>
+
 _Associate Art Director:_ Perry Ferguson<br>
+
 _Costumes:_ Edward Stevenson<br>
+
 _Music/Music Conductor:_ Bernard Herrmann<br>
+
 _[Sound] Recorders:_ Bailey Fesler, James G. Stewart<br>
 
 _uncredited_<br>
+
 _Associate Producer:_ Richard Baer; _Editorial Supervisor:_ John Houseman; _Production Assistants:_ William Alland, Richard Wilson; _Assistant Directors:_ Edward Donahoe, Fred A. Fleck; _Continuity:_ Amalia Kent; _Camera Operator:_ Bert Shipman; _Assistant Camera:_ Eddie Garvin; _Camera for Early Make-up/ Wardrobe Tests:_ Russell Metty; _Retakes/ Additional Shooting:_ Harry J. Wild; _Grip:_ Ralph Hoge; _Gaffer:_ William J. McClellan; _Stills:_ Alexander Kahle; _Matte Artist:_ Mario Larrinaga; _Effects Camera:_ Russell A. Cully; _Montage Effects:_ Douglas Travers; _Assistant Editor:_ Mark Robson; _Assistant Art Director:_ Hilyard Brown; _Set Decorator:_ Darrell Silvera; _Assistant Set Decorator:_ Al Fields; _Principal Sketch Artist:_ Charles Ohmann; _Sketches/Graphics:_ Al Abbott, Claude Gillingwater Jr, Albert Pyke, Maurice Zuberano; _Property Manager:_ Charles Sayers; _Newspaper Props:_ Harry Reitz; _Wardrobe:_ Earl Leas, Margaret Van Horn; _Make-up:_ Maurice Seiderman; _Assistant Make-up:_ Layne Britton; _Make-up Department Head:_ Mel Berns; _Optical Printing:_ Linwood G. Dunn; _‘Charlie Kane’ Lyrics:_ Herman Ruby; _Dance Choreography:_ Arthur Appel; _Sound Department Head:_ John Aalberg; _Boom Operator:_ Jimmy Thompson; _Sound Effects:_ Harry Essman; _Publicity for Mercury Theatre:_ Herbert Drake; _General Press Representative:_ Barret McCormick
 
 _Cast:_<br>
-Joseph Cotten _(Jedediah Leland/newsreel journalist)_<br>
+
+Joseph Cotten 
+
+_(Jedediah Leland/newsreel journalist)_<br>
+
 Dorothy Comingore _(Susan Alexander Kane)_<br>
+
 Agnes Moorehead _(Mary Kane)_<br>
+
 Ruth Warrick _(Emily Norton Kane)_<br>
+
 Ray Collins _(James ‘Boss’ W. Gettys)_<br>
+
 Erskine Sanford _(Herbert Carter/newsreel journalist)_<br>
+
 Everett Sloane _(Mr Bernstein)_<br>
+
 William Alland _(Jerry Thompson/narrator)_<br>
+
 Paul Stewart _(Raymond)_<br>
+
 George Coulouris _(Walter Parks Thatcher)_<br>
+
 Fortunio Bonanova _(Matiste)_<br>
-Gus Schilling _(John, El Rancho headwaiter/ newsreel journalist)_<br>
+
+Gus Schilling 
+
+_(John, El Rancho headwaiter/ newsreel journalist)_<br>
+
 Philip Van Zandt _(Mr Rawlston)_<br>
+
 Georgia Backus _(Bertha Anderson)_<br>
+
 Harry Shannon _(James Kane)_<br>
+
 Sonny Bupp _(Kane III)_<br>
+
 Buddy Swan _(Kane, aged 8)_<br>
+
 Orson Welles _(Charles Foster Kane)_<br>
 
 _uncredited_<br>
+
 Al Eben _(Solly)_<br>
+
 Ellen Lowe _(Miss Townsend)_<br>
+
 Charles Bennett _(entertainer)_<br>
+
 Irving Mitchell _(Doctor Corey)_<br>
+
 Joe Manz _(Jennings)_<br>
-Alan Ladd, Harriet Brandon, Jack Santoro, Louise Currie, Eddie Coke, Walter Sande, Arthur O’Connell, Richard Wilson, Katherine Trosper, Milton Kibbee _(reporters)_<br>
+
+Alan Ladd, Harriet Brandon, Jack Santoro, Louise Currie, Eddie Coke, Walter Sande, 
+
+Arthur O’Connell, Richard Wilson, Katherine Trosper, Milton Kibbee _(reporters)_<br>
+
 Bruce Sidney _(newsman)_<br>
+
 Lew Harvey _(newspaper man)_<br>
+
 Louis Natheaux _(reporter)_<br>
+
 Thomas A. Curran _(Teddy Roosevelt)_<br>
+
 Edward Peil, Charles Meakin _(civic leaders)_<br>
+
 Mitchell Ingraham, Francis Sayles _(politicians)_<br>
+
 Louise Franklin _(maid)_<br>
+
 Edith Evanson _(nurse)_<br>
+
 Arthur Kay _(orchestra leader)_<br>
+
 Tudor Williams _(chorus master)_<br>
+
 James Mack _(prompter)_<br>
+
 Gohr Van Vleck, Jack Raymond _(stagehands)_<br>
+
 Herbert Corthell _(city editor of Chicago Inquirer)_<br>
+
 Shimen Ruskin, George Sherwood, Eddie Cobb _(hirelings)_<br>
+
 Olin Francis _(expressman)_<br>
+
 Frances Neal _(Ethel)_<br>
+
 Robert Dudley _(photographer)_<br>
+
 Tim Davis, George Noisom _(copy boys)_<br>
+
 Jack Curtis _(chief printer)_<br>
+
 Landers Stevens _(investigator)_<br>
+
 John Dilson, Walter James _(ward heelers)_<br>
+
 Joe North, William O’Brien _(Thatcher’s secretaries)_<br>
+
 Dona Dax _(housemaid)_<br>
+
 Myrtle Rischell _(governess)_<br>
+
 Petra De Silva _(newswoman)_<br>
+
 Gino Corrado _(Gino, waiter at El Rancho)_<br>
+
 Suzanne Dulier _(Marie, French maid)_<br>
+
 Major McBride _(shadowgraph man)_<br>
+
 Karl Thomas _(Jetsam)_<br>
+
 Glen Turnbull _(Flotsam)_<br>
+
 Harry J. Vejar _(Portuguese labourer)_<br>
+
 Captain Garcia _(general)_<br>
+
 Art Yeoman _(speaker at Union Square)_<br>
+
 Philip Morris _(politician)_<br>
+
 Albert Frazier _(gorilla man)_<br>
+
 Guy Repp, Buck Mack _(men)_<br>
+
 Jack Morton _(butler)_<br>
+
 Carmen La Roux _(maid in Xanadu corridor)_<br>
-Edward Hemmer, Marie Day<br>
+
+Edward Hemmer, Marie Day<br>  
 Jean Forward _(Dorothy Comingore’s singing voice)_<br>
 
-USA 1941© 119 mins
+USA 1941© 
+
+119 mins
 
 **BECOME A BFI MEMBER**<br>
+
 Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [bfi.org.uk/join](https://www.bfi.org.uk/become-bfi-member)
 
 **BFI SOUTHBANK**<br>
+
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.
+
 We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.
 
 **BFI PLAYER**<br>
+
 We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on [player.bfi.org.uk](https://player.bfi.org.uk/)
 
 **Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at [www.bfi.org.uk/signup](https://whatson.bfi.org.uk/Online/login.asp)
@@ -139,5 +225,5 @@ We are always open online on BFI Player where you can watch the best new, cult &
 Programme notes and credits compiled by the BFI Documentation Unit Notes may be edited or abridged 
 Questions/comments? Email prognotes@bfi.org.uk
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzgwNDk4XX0=
+eyJoaXN0b3J5IjpbMTk1MTQyNjk1NCwtMzEzODA0OThdfQ==
 -->
