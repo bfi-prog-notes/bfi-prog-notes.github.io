@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'USA, 1941, 119 mins'
-pdf: '2021-05-19-citizen-kane.pdf'
+pdf: '2021-05-19-Citizen-Kane.pdf'
 ---
 **Andrew Sarris on the 50th anniversary of the opening of ‘Citizen Kane’**
 
