@@ -12,8 +12,7 @@ The three most perceptive American film critics of the early 40s – James Agee,
 Neither audiences nor critics was comfortable with Welles’ ‘cinematic’ innovations borrowed from his own theatrical expressionism and experimentation. Every bit of portentous lighting and shadowing in _Kane_ was first manifested in the Wellesian theatre of the late 30s. What did make _Kane_ seem fresh in 1941 was its casting of theatre and radio people – Joseph Cotten, Everett Sloane, George Coulouris, Dorothy Comingore, Ray Collins, Ruth Warrick, Agnes Moorehead, William Alland, Erskine Sandford, Paul Stewart, et al – who had never before been seen on the screen. Welles himself was the biggest histrionic explosion on the movie screen, but to this day people differ on whether as a performer he was all that good or revelatory, or all that bad and hammy.
 
 The film met with a warmer reception in France. For filmmakers and critics such as François Truffaut and his colleagues at _Cahiers du cinéma_, the destiny of Charles Foster Kane was merged with that of Welles himself in an extreme expression of auteurism. For French critics, who were not able to see _Citizen Kane_ until after the end of the German occupation in 1945, Welles’ spectacular screen debut was seen in the context of his subsequent precipitous decline and fall. And when he turned up in Europe with the harried demeanour of a political exile, he was greeted as another Stroheim, another Chaplin, another Keaton – a genius to be cherished. _Kane_ thus became inseparable from Welles and his ordeal at the hands of the American philistines.
-
-Andrew Sarris, _Sight and Sound_, October 1991
+**Andrew Sarris, _Sight and Sound_, October 1991**
 
 **Orson Welles on ‘Citizen Kane’**
 
@@ -222,5 +221,5 @@ We are always open online on BFI Player where you can watch the best new, cult &
 
 **Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at www.bfi.org.uk/signup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1Njk3MDM3XX0=
+eyJoaXN0b3J5IjpbNzAyODg0ODMxLDc2NTY5NzAzN119
 -->
