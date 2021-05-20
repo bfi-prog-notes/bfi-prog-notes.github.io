@@ -21,13 +21,12 @@ As with Greenaway’s earlier films, _Cook_ features a good deal of nudity, but 
 
 The production design, by Ben van Os and Jan Roelfs (also responsible for _A Zed and Two Noughts_ and _Drowning by Numbers_), is magnificent and there are moments in their collaboration with the photographer Sacha Vierny when the film touches greatness. Each area of action, the kitchen, the dining room and the lavatory, has a different design and colour scheme, and the actors’ extravagant Jean-Paul Gaultier costumes change colour as they move between them. The different rooms also seem to represent different stages of history, an architectural mockery of human progress. The kitchen with its still lives and its fowl being dismembered is 18th century, the dining room with its lush fabrics 19th century and the hi-tech bathroom late 20th.
 
-Greenaway’s last three films, made with the help and boldness of his Dutch producers, are among the most original visual experiments since Powell and Pressburger’s great years. With increasing resources and skill, Greenaway has taken old forms – the murder story, the thriller – dismantled them and put them back together to make something entirely new. It’s a perilous project and filmgoers must keep their fingers crossed. British visionaries have a way of going terribly wrong. But Greenaway is now beyond question the most exciting intelligence at work in our cinema.
-
+Greenaway’s last three films, made with the help and boldness of his Dutch producers, are among the most original visual experiments since Powell and Pressburger’s great years. With increasing resources and skill, Greenaway has taken old forms – the murder story, the thriller – dismantled them and put them back together to make something entirely new. It’s a perilous project and filmgoers must keep their fingers crossed. British visionaries have a way of going terribly wrong. But Greenaway is now beyond question the most exciting intelligence at work in our cinema.  
 **Sean French, _Sight & Sound_, Autumn 1989**
 
 
 
-**The Cook, the Thief, His Wife & Her Lover**  
+**THE COOK, THE THIEF, HIS WIFE & HER LOVER**  
 _Director_:  Peter Greenaway  
 _Production Companies_:  Allarts Enterprises,  Erato Films,  Films Inc.,  Elsevier-Vendex Film Beheer  
 _Producer_:  Kees Kasander  
@@ -133,8 +132,7 @@ Flavia Brilli  _(cabaret singer)_
 Brenda Edwards, Sophie Goodchild  _(dancers)_  
 Alex Fraser, Michael Clark, Gary Logan, Tim Geary, Saffron Rainey, Hywel Williams-Ellis, Michael Maguire, Patricia Walters, Sue Maund, Nick Brozovic, Karrie Pagano  _(waiters/kitchen staff)_
 
-UK/France 1989
-
+UK/France 1989  
 124 mins
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTM0NTQ0MjU0OF19
