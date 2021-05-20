@@ -193,7 +193,7 @@ Mon 21 Jun 18:00 (+ intro by Asif Kapadia); Mon 28 Jun 14:30<br>
 **In partnership with**  
 <img style="float: left;" src="/img/partner/sight-and-sound-01.png" alt="Sight & Sound" title="Sight & Sound">
 <br><br><br><br><br><br><br><br>
-<img style="float: left;" src="/img/partner/popcorn-shed-logo-01.png" alt="Popcorn Shed" title="Popcorn Shed" width="200" height="45">
+<img style="float: left;" src="/img/partner/popcorn-shed-logo-01.png" alt="Popcorn Shed" title="Popcorn Shed" width="20150" height="45280">
 <br><br><br><br><br><br><br><br>
 
 
@@ -214,5 +214,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Email prognotes@bfi.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTQ0MjU0OF19
+eyJoaXN0b3J5IjpbMTQ2ODE0OTMzNCwxMzQ1NDQyNTQ4XX0=
 -->
