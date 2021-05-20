@@ -61,6 +61,7 @@ USA 2019<br>
 102 mins
 
 
+
 **EVENTS & STRANDS**<br>
 **Member Exclusives: Booksmart**<br>
 Thu 20 May 18:10<br>
@@ -74,6 +75,7 @@ Sat 12 Jun 12:00<br>
 Fri 18 Jun 14:30; Tue 22 Jun 18:10<br>
 **Woman with a Movie Camera: Wildfire**<br>
 Sun 20 Jun 18:40 (+ Q&A with director Cathy Brady); Mon 21 Jun 18:10; Tue 22 Jun 14:40; Wed 23 Jun 20:50; Thu 24 Jun 14:45<br>
+
 
 **BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL**<br>
 **LIFF Opening Night**<br>
@@ -93,6 +95,7 @@ Thu 24 Jun 18:00<br>
 **The Salt in Our Waters Nonajoler Kabbo**<br>
 Sun 27 Jun 15:00<br>
 
+
 **LONDON SHORT FILM FESTIVAL**<br>
 **UK Competition 1: I Forgot More than You’ll Ever Know**<br>
 Sat 26 Jun 21:00<br>
@@ -105,17 +108,18 @@ Tue 29 Jun 21:10<br>
 **UK Competition 5: The Devil’s in the Details**<br>
 Wed 30 Jun 17:50<br>
 
+
 **TONGUES ON FIRE: UK ASIAN FILM FESTIVAL**<br>
 **Opening Night: Raahgir The Wayfarers + Skype Q&A with director Goutam Ghose**<br>
 Wed 26 May 20:45<br>
 **Closing Night: The Beatles and India + Skype Q&A with directors Ajoy Bose and Peter Compton**<br>
 Sun 6 Jun 15:15<br>
 
+
 **BECOME A BFI MEMBER**<br>
 Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at bfi.org.uk/join
 
-**BFI SOUTHBANK**
-
+**BFI SOUTHBANK**<br>
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.
 We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.
 
