@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Footloose
+published: true
+date: 2021-05-20
+readtime: true
+categories: ['DREAM PALACE - THE FILMS THAT CINEMAS WERE BUILT FOR']
+tags: [Drama, Musical]
+metadata: 'USA, 1984, 107 mins'
+pdf: '2021-05-20-footloose.pdf'
+---
 
 _With a pre-recorded introduction by director Francis Lee._
 
