@@ -63,7 +63,7 @@ USA 2019<br>
 <img style="float: left;" src="/img/flare-logo-2020-01.png" alt="Flare logo 2020" title="Flare logo 2020">
 
 
-**EVENTS & STRANDS**<br>
+[**EVENTS & STRANDS**](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=previews&BOparam::WScontent::loadArticle::context_id=)<br>
 **Member Exclusives: Booksmart**<br>
 Thu 20 May 18:10<br>
 **Woman with a Movie Camera: Rare Beasts + Q&A with writer-director Billie Piper**<br>
@@ -78,7 +78,7 @@ Fri 18 Jun 14:30; Tue 22 Jun 18:10<br>
 Sun 20 Jun 18:40 (+ Q&A with director Cathy Brady); Mon 21 Jun 18:10; Tue 22 Jun 14:40; Wed 23 Jun 20:50; Thu 24 Jun 14:45<br>
 
 
-**BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL**<br>
+[**BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL**](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=liff2021&BOparam::WScontent::loadArticle::context_id=)<br>
 **LIFF Opening Night**<br>
 Thu 17 Jun 17:20<br>
 **My Beautiful Laundrette**<br>
@@ -97,7 +97,7 @@ Thu 24 Jun 18:00<br>
 Sun 27 Jun 15:00<br>
 
 
-**LONDON SHORT FILM FESTIVAL**<br>
+[**LONDON SHORT FILM FESTIVAL**](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=londonshortfilmfestival2021&BOparam::WScontent::loadArticle::context_id=)<br>
 **UK Competition 1: I Forgot More than You’ll Ever Know**<br>
 Sat 26 Jun 21:00<br>
 **UK Competition 3: Close Quarters**<br>
@@ -110,7 +110,7 @@ Tue 29 Jun 21:10<br>
 Wed 30 Jun 17:50<br>
 
 
-**TONGUES ON FIRE: UK ASIAN FILM FESTIVAL**<br>
+[**TONGUES ON FIRE: UK ASIAN FILM FESTIVAL**](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=tonguesonfire&BOparam::WScontent::loadArticle::context_id=)<br>
 **Opening Night: Raahgir The Wayfarers + Skype Q&A with director Goutam Ghose**<br>
 Wed 26 May 20:45<br>
 **Closing Night: The Beatles and India + Skype Q&A with directors Ajoy Bose and Peter Compton**<br>
@@ -118,16 +118,16 @@ Sun 6 Jun 15:15<br>
 
 
 **BECOME A BFI MEMBER**<br>
-Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at bfi.org.uk/join
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [bfi.org.uk/join](https://www.bfi.org.uk/become-bfi-member)
 
 **BFI SOUTHBANK**<br>
-Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.<br>
 We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.
 
 **BFI PLAYER**<br>
-We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on player.bfi.org.uk
+We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on [player.bfi.org.uk](https://player.bfi.org.uk/)
 
-**Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at www.bfi.org.uk/signup
+**Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at [www.bfi.org.uk/signup](https://player.bfi.org.uk/)
 
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
