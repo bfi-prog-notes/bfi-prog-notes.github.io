@@ -193,7 +193,7 @@ Mon 21 Jun 18:00 (+ intro by Asif Kapadia); Mon 28 Jun 14:30<br>
 **In partnership with**  
 <img style="float: left;" src="/img/partner/sight-and-sound-01.png" alt="Sight & Sound" title="Sight & Sound">
 <br><br><br><br><br><br><br><br>
-<img style="float: left;" src="/img/partner/popcorn-shed-logo-01.png" width=50% height=50% alt="Popcorn Shed" title="Popcorn Shed">
+<img style="float: left;" src="/img/partner/popcorn-shed-logo-01.png" alt="Popcorn Shed" title="Popcorn Shed" width=50% height=50%>
 <br><br><br><br><br><br><br><br>
 
 
