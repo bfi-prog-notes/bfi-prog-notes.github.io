@@ -19,6 +19,82 @@ Interestingly, where the film departs most from _Rebel_ – in its selection of 
 **Donald Greig, _Monthly Film Bulletin_, April 1984**
 
 
+
+**FOOTLOOSE**  
+_Director_: Herbert Ross  
+_Production Companies_: IndieProd Company, Paramount Pictures Corporation  
+_Executive Producer_: Daniel Melnick  
+_Producers_: Lewis J. Rachmil, Craig Zadan  
+_Unit Production Manager_: Murray Schwartz  
+_Location Manager_: Frawley Becker  
+_Assistant Directors_: L. Andrew Stone,  Robert Engelman, Donald Paul Hauer  
+_Screenplay_: Dean Pitchford  
+_Director of Photography_: Ric Waite  
+_Camera Operators_: Eric Anderson,  Richard S. Walden  
+_Special Effects_: James W. Beauchamp  
+_Editor_: Paul Hirsch  
+_Production Designer_: Ron Hobbs  
+_Set Decorator_: Mary Swanson  
+_Costumes_: Gloria Gresham  
+_Women’s Costumer_: Kendall Errair  
+_Men’s Costumer_: Barton K. James  
+_Make-up_: Daniel C. Striepeke  
+_Title Design_: Wayne Fitzgerald, David Oliver  
+_Opticals_: Pacific Title  
+_Score Adaptation_: Miles Goodman  
+_Music Supervisor_: Becky Shargo  
+_Music Editors_: Jim Henrikson, Nancy Fogarty  
+_Choreography_: Lynn Taylor-Corbett,  Spencer Henderson  
+_Sound Recording_: Al Overton Jr  
+_Sound Re-recording_: David Campbell, John Reitz, Gregg Rudloff, David W. Gray  
+_Supervising Sound Editor_: Gordon Ecker Jr, wallaWorks  
+_Sound Effects Editors_: Robert Bradshaw,  Randall F. Kelley, Bob Newlan, Wylie Stateman  
+_Supervising ADR Editor_: Stan Gilbert  
+_Stunt Co-ordinator_: Max Kleven  
+_Stunts_: Robert Allen, Wayne Brown, J. Suzanne Fish, Donna Garrett, Paul Godwin, Norman Howell, Clair E. Leucart, Daniel K. Moore, Lane M. Parrish, Carol Leslie Rees, John-Clay Scott  
+_Stunt Dancer_: Peter Tramm  
+_Gymnastic Consultant_: Chuck Gaylord
+
+**Cast**  
+Kevin Bacon _(Ren MacCormack)_  
+Lori Singer _(Ariel Moore)_  
+John Lithgow _(Reverend Shaw Moore)_  
+Dianne Wiest _(Vi Moore)_  
+Chris Penn _(Willard)_  
+Sarah Jessica Parker _(Rusty)_  
+John Laughlin _(Woody)_  
+Elizabeth Gorcey _(Wendy Jo)_  
+Frances Lee McCain _(Ethel MacCormack)_  
+Jim Youngs _(Chuck)_  
+Douglas Dirkson _(Burlington Cranston)_  
+Lynne Marta _(Lulu)_  
+Arthur Rosenberg _(Wes)_  
+Tim Scott _(Andy Beamis)_  
+Alan Haufrect _(Roger Dunbar)_  
+Linda MacEwen _(Eleanor Dunbar)_  
+Kim Jensen _(Edna)_  
+Michael Telmont _(Travis)_  
+Leo Geter _(Rich)_  
+Ken Kemp _(Jeff)_  
+Russ McGinn _(Herb)_  
+Sam Dalton _(Mr Gurntz)_  
+H.E.D. Redford _(Widdoes)_  
+Jay Bernard _(Harvey)_  
+David Valenza _(team member)_  
+Meghan Broadhead _(Sarah)_  
+Mimi Broadhead _(Amy)_  
+Gene Pack _(Bernie)_  
+Marcia Yvette Reider _(Virginia)_  
+John Perryman _(fat cowboy)_  
+Mary Ethel Gregory _(Mrs Allyson)_  
+Oscar Rowland _(Mr Walsh)_  
+J. Paul Broadhead _(Mayor Dooley)_  
+John Bishop _(Elvis)_  
+Carmen Trevino, Melissa Renee Graehl,  
+Monica M. Da Silva, Terry Gay Ulmer _(girls)_
+
+USA 1984  
+107 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzc3NTc5MzhdfQ==
+eyJoaXN0b3J5IjpbLTIwNjU1NzA0ODldfQ==
 -->
