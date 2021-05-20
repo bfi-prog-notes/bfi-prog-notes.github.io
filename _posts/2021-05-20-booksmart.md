@@ -64,7 +64,6 @@ USA 2019<br>
 
 <img style="float: left;" src="/img/flare-logo-2020-01.png" alt="Flare logo 2020" title="Flare logo 2020">
 <br><br><br><br><br><br><br><br>
-
 [**EVENTS & STRANDS**](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=previews&BOparam::WScontent::loadArticle::context_id=)<br>
 **Member Exclusives: Booksmart**<br>
 Thu 20 May 18:10<br>
