@@ -58,8 +58,7 @@ _1st Assistant Editor_:  Julian Rodd
 _2nd Assistant Editor_:  Birgit Berger  
 _Production Designers_:  Ben van Os,  Jan Roelfs  
 _Art Department Production_:  Sophie Fiennes  
-_Assistant Art Directors_:  Ank van Straalen,  
-Michael Howells  
+_Assistant Art Directors_:  Ank van Straalen,  Michael Howells  
 _Set Dresser_:  Constance de Vos  
 _Assistant Set Dresser_:  John Bramble  
 _Scenic Artists_:  Michel de Graaf,  Wieger de Jong  
@@ -97,17 +96,14 @@ _Sound Transfers_:  Hackenbacker Sound & Video
 _Dubbing Editors_:  Chris Wyatt,  Shirley Shaw,  Michael Danks  
 _Sound Effects Treatment_:  Nigel Heath  
 _ADR Mixer_:  Aad Wirtz  
-_  
-Footsteps Artists_:  Bill Garlick,  Felicity Cottrell,  Dianne Greaves  
+_Footsteps Artists_:  Bill Garlick,  Felicity Cottrell,  Dianne Greaves  
 _Footsteps Mixer_:  Ted Swanscott  
 _Footsteps Editor_:  Michael Danks  
 _Chief Propfood_:  Giorgio Locatelli  
-_Catering_:  Cinefood,  
-Good Eating Film & Food Company  
+_Catering_:  Cinefood,  Good Eating Film & Food Company  
 _Catering on Set_:  Susie Woodley
 
-_Cast:_
-
+**Cast**  
 Richard Bohringer  _(Richard Borst)_  
 Michael Gambon  _(Albert Spica)_  
 Helen Mirren  _(Georgina Spica)_  
@@ -145,5 +141,5 @@ UK/France 1989
 
 124 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTAyMzM3Ml19
+eyJoaXN0b3J5IjpbMTM0NTQ0MjU0OF19
 -->
