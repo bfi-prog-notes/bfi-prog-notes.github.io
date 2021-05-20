@@ -142,8 +142,7 @@ Flavia Brilli  _(cabaret singer)_
 Brenda Edwards, Sophie Goodchild  _(dancers)_  
 Alex Fraser, Michael Clark, Gary Logan, Tim Geary, Saffron Rainey, Hywel Williams-Ellis, Michael Maguire, Patricia Walters, Sue Maund, Nick Brozovic, Karrie Pagano  _(waiters/kitchen staff)_
 
-UK/France 1989  
-124 mins
+UK/France 1989  124 mins
 
 [**DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=dreampalace&BOparam::WScontent::loadArticle::context_id=)
 
@@ -214,6 +213,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Email prognotes@bfi.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTI2MjM0NiwxNDY4MTQ5MzM0LDEzND
-U0NDI1NDhdfQ==
+eyJoaXN0b3J5IjpbMTU4MDU3MzMwNCwxODkxMjYyMzQ2LDE0Nj
+gxNDkzMzRdfQ==
 -->
