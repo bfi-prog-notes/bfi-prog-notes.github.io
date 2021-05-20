@@ -10,7 +10,7 @@ metadata: 'USA, 2019, 102 mins'
 pdf: '2021-05-20-booksmart.pdf'
 ---
 ‘It’s hilarious and just wonderful! It’s such a great film in terms of representation, and not clichéd at all’.<br>
-Emilie Cunning, BFI Member
+**Emilie Cunning, BFI Member**
 
 In a long line of teen comedies mostly set over the course of one evening, and which thus have _American Graffiti_ (1973) in their DNA, _Booksmart_ celebrates the intimacy of women’s closest early friendships while acknowledging their transience. Whereas the analogous end-of-high-school comedies _Superbad_ (2007) and _Blockers_ (2018) depict the quests of their respective male and female characters to lose their virginities, actor Olivia Wilde’s riotous first feature as director has a comparatively thin premise: it shows the efforts of two best buddies and unpopular super-swots – introspective social activist Amy and ebullient valedictorian Molly – to attend their first party.
 
