@@ -7,7 +7,7 @@ readtime: true
 categories: ['DREAM PALACE - THE FILMS THAT CINEMAS WERE BUILT FOR']
 tags: [Drama]
 metadata: 'UK/France, 1989, 124 mins'
-pdf: '2021-05-17-amazing-grace.pdf'
+pdf: '2021-05-20-The-Cook,-the-Thief,-His-Wife-&-Her-Lover.pdf'
 ---
 _Introduced by Justin Johnson, BFI Lead Programmer (Thursday 20 May only)._
 
