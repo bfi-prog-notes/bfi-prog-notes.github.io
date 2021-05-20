@@ -37,7 +37,7 @@ Baker as Papitou is performing the primitive native girl from an exotic backgrou
 
 
 **Siren of the Tropics  
-(La sirène des tropiques)**_Directors_: Henri Etiévant, Mario Nalpas  
+(La sirène des tropiques)**<br>_Directors_: Henri Etiévant, Mario Nalpas  
 _Production Company_: Centrale Cinématographique    
 _Assistant Director_: Luis Buñuel  
 _Screenplay_: Maurice Dekobra  
@@ -47,7 +47,7 @@ _Art Director_: Jacques Natanson
 _Set Decorators_: Pierre Schildknecht, Eugène Carré  
 _Studio_: Éclair (Paris)
 
-_Cast:_Joséphine Baker _(Papitou)_  
+_Cast:_<br>Joséphine Baker _(Papitou)_  
 Pierre Batcheff _(André Berval)_  
 Georges Melchior _(Marquis Sévéro)_  
 Régina Dalthy _(Marquise Sévéro)_  
@@ -59,6 +59,10 @@ Joe Alex
 Pierre Hot  
 Janine Borelli  
 Colette Borelli
+
+France 1927<br>86 mins
+
+With recorded score
 
 **[HER VOICE: BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=hervoice&BOparam::WScontent::loadArticle::context_id=)**<br>
 **Amazing Grace**<br>
@@ -114,5 +118,5 @@ With recorded score
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjY4MDhdfQ==
+eyJoaXN0b3J5IjpbLTg0NDg2MzQ3NywxNzcyNjgwOF19
 -->
