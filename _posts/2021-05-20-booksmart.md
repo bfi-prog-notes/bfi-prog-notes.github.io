@@ -58,12 +58,12 @@ Noah Galvin _(George)_<br>
 Austin Crute _(Alan)_<br>
 
 USA 2019<br>
-102 mins
-
+102 mins<br>
+<br>
 
 
 <img style="float: left;" src="/img/flare-logo-2020-01.png" alt="Flare logo 2020" title="Flare logo 2020">
-
+<br><br><br>
 
 
 [**EVENTS & STRANDS**](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=previews&BOparam::WScontent::loadArticle::context_id=)<br>
