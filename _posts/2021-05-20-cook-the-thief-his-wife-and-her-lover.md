@@ -29,6 +29,121 @@ Greenaway’s last three films, made with the help and boldness of his Dutch pro
 **Sean French, _Sight & Sound_, Autumn 1989**
 
 
+
+**The Cook, the Thief, His Wife & Her Lover**  
+_Director_:  Peter Greenaway  
+_Production Companies_:  Allarts Enterprises,  Erato Films,  Films Inc.,  
+Elsevier-Vendex Film Beheer  
+_Producer_:  Kees Kasander  
+_Co-producers_:  Denis Wigman,  Pascale Dauman,  Daniel Toscan Du Plantier  
+_Office Manager_:  Roland Wigman  
+_Production Manager_:  Karin van der Werff  
+_Production Co-ordinator_:  Nancy D’Ancona  
+_Production Accountants_:  Cor Severs,  Nigel Wood  
+_Production Assistants_:  Jules Eyres,  Nick Searle  
+_Assistant to the Producer_:  Andi Wright  
+_1st Assistant Director_:  Gerrit Martijn  
+_2nd Assistant Director_:  Milfid Ellis  
+_3rd Assistant Director_:  Mark Harrison  
+_Continuity_:  Nathalie Vierny  
+_Casting Director_:  Sharon Howard-Field  
+_Casting Director’s Assistant_:  Karen Lindsay-Stewart  
+_Screenplay_:  Peter Greenaway  
+_Director of Photography_:  Sacha Vierny  
+_Camera Operator_:  Arthur Cloquet  
+_Focus Puller_:  Chris Renson  
+_Clapper Loader_:  Max Harrison  
+_Editor_:  John Wilson  
+_1st Assistant Editor_:  Julian Rodd  
+_2nd Assistant Editor_:  Birgit Berger  
+_Production Designers_:  Ben van Os,  Jan Roelfs  
+_Art Department Production_:  Sophie Fiennes  
+_Assistant Art Directors_:  Ank van Straalen,  
+Michael Howells  
+_Set Dresser_:  Constance de Vos  
+_Assistant Set Dresser_:  John Bramble  
+_Scenic Artists_:  Michel de Graaf,  Wieger de Jong  
+_Costumes_:  Jean-Paul Gaultier  
+_Wardrobe Supervisor_:  Dien van Straalen  
+_Wardrobe Mistress_:  Elianne van Dorp  
+_Make-up Artist_:  Sara Meerman  
+_Make-up Effects_:  Sjoerd Didden  
+_Titles_:  Platform Design  
+_Music/Music Conductor_:  Michael Nyman  
+_Music Performed by_:  Michael Nyman Band  
+_Music Producer_:  David Cunningham  
+_Violin_:  Alexander Balanescu,  Elizabeth Perry  
+_Violin/Viola_:  Johnathan Carney  
+_Cello_:  Tony Hinnigan  
+_Double Bass_:  Chris Lawrence  
+_Clarinet/Bass Clarinet_:  David Fuest  
+_Soprano/Alto Sax_:  John Harle  
+_Alto Sax_:  David Roach  
+_Tenor/Baritone Sax/Flute_:  Andrew Findon  
+_Trumpet_:  Graham Ashton  
+_Trombone_:  David Stewart  
+_Piano_:  Michael Nyman, Will Gregory  
+_Cabaret Singer_:  Flavia Brilli  
+_Guitar_:  John Perry  
+_Drums_:  James Hall  
+_Boy Soprano_:  Paul Chapman  
+_Soprano_:  Sarah Leonard  
+_London Voices Director_:  Terry Edwards  
+_Music Mixer_:  Michael J. Dutton  
+_Production Sound_:  Garth Marshall  
+_Boom Operator_:  Tom Buchanan  
+_Dubbing Mixer_:  Peter Maxwell  
+_Sound Transfers_:  Hackenbacker Sound & Video  
+_Dubbing Editors_:  Chris Wyatt,  Shirley Shaw,  Michael Danks  
+_Sound Effects Treatment_:  Nigel Heath  
+_ADR Mixer_:  Aad Wirtz  
+_  
+Footsteps Artists_:  Bill Garlick,  Felicity Cottrell,  Dianne Greaves  
+_Footsteps Mixer_:  Ted Swanscott  
+_Footsteps Editor_:  Michael Danks  
+_Chief Propfood_:  Giorgio Locatelli  
+_Catering_:  Cinefood,  
+Good Eating Film & Food Company  
+_Catering on Set_:  Susie Woodley
+
+_Cast:_
+
+Richard Bohringer  _(Richard Borst)_  
+Michael Gambon  _(Albert Spica)_  
+Helen Mirren  _(Georgina Spica)_  
+Alan Howard  _(Michael)_  
+Tim Roth  _(Mitchel)_  
+Ciarán Hinds  _(Cory)_  
+Gary Olsen  _(Spangler)_  
+Ewan Stewart  _(Harris)_  
+Roger Ashton-Griffiths  _(Turpin)_  
+Ron Cook  _(Mews)_  
+Liz Smith  _(Grace)_  
+Emer Gillespie  _(Patricia)_  
+Janet Henfrey  _(Alice)_  
+Breevelt Arnie  _(Eden)_  
+Tony Alleff  _(Troy)_  
+Paul Russell  _(Pup)_  
+Alex Kingston  _(Adele)_  
+Ian Sears  _(Phillipe)_  
+Willie Ross  _(Roy)_  
+Ian Dury  _(Terry Fitch)_  
+Diane Langton  _(May Fitch)_  
+Prudence Oliver  _(Corelle Fitch)_  
+Roger Lloyd Pack  _(Geoff)_  
+Bob Goody  _(Starkie)_  
+Peter Rush  _(Melter)_  
+Pauline Mayer  _(fish girl)_  
+Ben Stoneham  _(meat boy)_  
+Andy Wilson  _(1st diner)_  
+John Mullis  _(2nd diner)_  
+Flavia Brilli  _(cabaret singer)_  
+Brenda Edwards, Sophie Goodchild  _(dancers)_  
+Alex Fraser, Michael Clark, Gary Logan, Tim Geary, Saffron Rainey, Hywel Williams-Ellis, Michael Maguire, Patricia Walters, Sue Maund, Nick Brozovic, Karrie Pagano  _(waiters/kitchen staff)_
+
+UK/France 1989
+
+124 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODgzNDYzOThdfQ==
+eyJoaXN0b3J5IjpbLTU4OTAyMzM3Ml19
 -->
