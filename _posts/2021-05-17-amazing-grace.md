@@ -6,7 +6,7 @@ date: 2021-05-17
 readtime: true
 categories: ['HER VOICE...']
 tags: [Music, Documentary]
-metadata: 'USA, 1973, 120 mins'
+metadata: 'USA, 1973, 120 mins<br> Directors: Alan Elliott, Sydney Pollack'
 pdf: '2021-05-17-amazing-grace.pdf'
 ---
 The first recorded evidence of Aretha Franklin’s glorious voice was captured in 1956, when she performed a string of gospel numbers in her Baptist minister father’s Detroit church. She was just 14, and the pop stardom she would achieve during her post-1967 tenure with Atlantic 
