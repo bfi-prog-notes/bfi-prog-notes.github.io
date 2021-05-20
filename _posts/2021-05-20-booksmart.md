@@ -60,7 +60,8 @@ Austin Crute _(Alan)_<br>
 USA 2019<br>
 102 mins
 
-<img style="float: left;" src="/img/flare-logo-2020-01.png.png" alt="Flare" title="Flare">
+<img style="float: left;" src="/img/partner/flare-logo-2020-01.png">
+<br><br><br><br><br><br><br><br>
 
 **EVENTS & STRANDS**<br>
 **Member Exclusives: Booksmart**<br>
