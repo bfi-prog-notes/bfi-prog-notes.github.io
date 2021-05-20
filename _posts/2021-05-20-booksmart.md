@@ -13,8 +13,141 @@ That offhand reference makes clear the debt that _Booksmart_ owes to Amy Sherman
 
 _Booksmart_'s cautious empowerment of its naive twosome doesn’t patronise them or promise them the moon, despite Molly’s vaunting ambition. The movie is exemplary in its non-issue approach to integrating LGBTQ characters, especially Amy and the loner Hope. Theatre-mad George and his flamboyant boyfriend Alan may be clichéd gay men, but that doesn’t make them untruthful. Heteronormativity is represented by Molly’s tentative involvements with Nick and another boy, Jared, and by Miss Fine’s hook-up with her former student Theo. But testosterone only wells up in a smartphone shot that shows one of Nick’s fellow jocks karate-chopping a stack of pizzas. The pizza delivery driver exposed as a strangler is a caricature played for laughs.
 
-Screenplay practice insists that protagonists change, but _Booksmart_’s writers tweak that concept. Amy and Molly only mildly evolve, but key secondary characters do change, or information is revealed that shows them to be other than what they seem. The proudly promiscuous Triple A (her name connoting porn and 2010’s _The Scarlet Letter_ update Easy A) suddenly expresses anxiety about her reputation. Hope’s cynicism evaporates when Amy kisses her, suggesting it was motivated by frustration. Jared, a flashy rich boy who fails to impress women, endears himself to Molly by admitting he’s a virgin. His posh friend Gigi may be a Blanche DuBois in training, but she’s also sad and loyal, Jared tells Molly. The message is that no one leaves high school fully formed. Wilde has mounted a sparkling display on the film’s modest framework, conjuring memories of Susan Seidelman’s _Desperately Seeking Susan_ (1985). The blend of Jason McCormick’s fixed and handheld cinematography, the use of low angles, jump cuts and startling transitions and the pell-mell pacing capture the emotional turmoil underpinning Amy and Molly’s hapless adventuring. (The abrasive hip-hop score amps up the sense of disorder.) Wilde’s satirical _coup de foudre_ is an animated _Toy Story_ episode in which Amy and Molly, tripping like crazy, are nightmarishly transformed into big-eyed, large-breasted, Barbie-like dolls, the antithesis of what these smart women want to be. The film’s up-to-the-minute consciousness is further expressed in Molly’s unfinished line in her graduation speech: ‘Straight white men, your  time is…’
+Screenplay practice insists that protagonists change, but _Booksmart_’s writers tweak that concept. Amy and Molly only mildly evolve, but key secondary characters do change, or information is revealed that shows them to be other than what they seem. The proudly promiscuous Triple A (her name connoting porn and 2010’s _The Scarlet Letter_ update Easy A) suddenly expresses anxiety about her reputation. Hope’s cynicism evaporates when Amy kisses her, suggesting it was motivated by frustration. Jared, a flashy rich boy who fails to impress women, endears himself to Molly by admitting he’s a virgin. His posh friend Gigi may be a Blanche DuBois in training, but she’s also sad and loyal, Jared tells Molly. The message is that no one leaves high school fully formed. Wilde has mounted a sparkling display on the film’s modest framework, conjuring memories of Susan Seidelman’s _Desperately Seeking Susan_ (1985). The blend of Jason McCormick’s fixed and handheld cinematography, the use of low angles, jump cuts and startling transitions and the pell-mell pacing capture the emotional turmoil underpinning Amy and Molly’s hapless adventuring. (The abrasive hip-hop score amps up the sense of disorder.) Wilde’s satirical _coup de foudre_ is an animated _Toy Story_ episode in which Amy and Molly, tripping like crazy, are nightmarishly transformed into big-eyed, large-breasted, Barbie-like dolls, the antithesis of what these smart women want to be. The film’s up-to-the-minute consciousness is further expressed in Molly’s unfinished line in her graduation speech: ‘Straight white men, your  time is…’<br>
 Graham Fuller, _Sight & Sound_, July 2019
+
+<![endif]-->
+
+**Booksmart**
+
+_Directed by_: Olivia Wilde  
+©: Biochemistry LLC  
+_Presented by_: Annapurna Pictures,  
+Gloria Sanchez Productions  
+_Executive Producers_: Will Ferrell, Adam McKay, Jillian Longnecker, Scott Robertson, Alex G. Scott  
+_Produced by_: Megan Ellison, Jessica Elbaum,
+
+Katie Silberman, Chelsea Barnard, David Distenfeld  
+_Written by_: Katie Silberman, Emily Halpern,
+
+Sarah Haskins, Susanna Fogel  
+_Director of Photography_: Jason McCormick  
+_Edited by_: Brent White, Jamie Gross  
+_Production Designer_: Katie Byron  
+_Costume Designer_: April Napier  
+_Music_: Dan the Automator  
+_Production Sound Mixer_: Lisa Pinero
+
+_Cast__:_  
+Beanie Feldstein _(Molly)_  
+Kaitlyn Dever _(Amy)_  
+Jessica Williams _(Miss Fine)_  
+Lisa Kudrow _(Charmaine)_  
+Will Forte _(Doug)_  
+Jason Sudeikis _(Principal Brown)_  
+Billie Lourd _(Gigi)_  
+Diana Silvers _(Hope)_  
+Skyler Gisondo _(Jared)_  
+Molly Gordon _(Triple A)_  
+Noah Galvin _(George)_  
+Austin Crute _(Alan)_
+
+USA 2019
+
+102 mins
+
+**BECOME A BFI MEMBER**
+
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at bfi.org.uk/join
+
+**BFI SOUTHBANK**
+
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.
+
+We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.
+
+**BFI PLAYER**
+
+We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on player.bfi.org.uk
+
+**Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at www.bfi.org.uk/signup
+
+EVENTS & STRANDS
+
+**Member Exclusives: Booksmart**
+
+Thu 20 May 18:10
+
+**Woman with a Movie Camera: Rare Beasts + Q&A with writer-director Billie Piper**
+
+Sat 22 May 17:15
+
+**Sheffield Doc/Fest**
+
+Fri 4 Jun 20:15
+
+**Preview: Doctor Who: Dragonfire**
+
+Sat 12 Jun 12:00
+
+**Relaxed Screenings: The Reason I Jump**
+
+Fri 18 Jun 14:30; Tue 22 Jun 18:10
+
+**Woman with a Movie Camera: Wildfire**
+
+Sun 20 Jun 18:40 (+ Q&A with director Cathy Brady); Mon 21 Jun 18:10; Tue 22 Jun 14:40; Wed 23 Jun 20:50; Thu 24 Jun 14:45
+
+BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL
+
+**LIFF Opening Night**
+
+Thu 17 Jun 17:20
+
+**My Beautiful Laundrette**
+
+Fri 18 Jun 20:20
+
+**The Warrior + on-stage career interview with writer-director Asif Kapadia**
+
+Sat 19 Jun 20:30
+
+**Ahimsa: Gandhi the Power of the Powerless**
+
+Sun 20 Jun 15:00
+
+**Searching for Happiness…**
+
+Tue 22 Jun 20:50
+
+**Nazarband Captive**
+
+Wed 23 Jun 20:45
+
+**A’hr Kayattam**
+
+Thu 24 Jun 18:00
+
+**The Salt in Our Waters Nonajoler Kabbo**
+Sun 27 Jun 15:00
+
+**LONDON SHORT FILM FESTIVAL**
+**UK Competition 1: I Forgot More than You’ll Ever Know**
+Sat 26 Jun 21:00
+**UK Competition 3: Close Quarters**
+Fri 26 Jun 21:10
+**UK Competition 2: The Double Life Of…**
+Mon 28 Jun 17:45
+**UK Competition 4: Lessons in Survival**
+Tue 29 Jun 21:10
+**UK Competition 5: The Devil’s in the Details**
+Wed 30 Jun 17:50
+
+**TONGUES ON FIRE: UK ASIAN FILM FESTIVAL**
+**Opening Night: Raahgir The Wayfarers + Skype Q&A with director Goutam Ghose**
+Wed 26 May 20:45
+**Closing Night: The Beatles and India + Skype Q&A with directors Ajoy Bose and Peter Compton**
+Sun 6 Jun 15:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODUzNzM2OThdfQ==
+eyJoaXN0b3J5IjpbMzYyMjE3MzczXX0=
 -->
