@@ -36,57 +36,34 @@ _Based on the novel_ McCabe _by:_ Edmund Naughton
 _Director of Photography:_ Vilmos Zsigmond  
 _2nd Unit Photography:_ Rod Parkhurst  
 _Special Effects:_ Marcel Vercoutere  
-_Editor:_ Louis Lombardo 
-_Production Designed by:_ Leon Ericksen
+_Editor:_ Louis Lombardo  
+_Production Designed by:_ Leon Ericksen  
+_Art Directors:_ Philip Thomas, Al Locatelli  
+_Make-up:_ Robert Jiras, Ed Butterworth,  Phyllis Newman  
+_Hairdresser:_ Barry Richardson  
+_Title Design:_ Anthony Goldschmidt  
+_Songs by:_ Leonard Cohen  
+_Fiddler:_ Brantley F. Kearns  
+_Sound Mixer:_ Barry P. Jones  
+_Sound by:_ John W. Gusselle, William A. Thompson  
+_Research:_ Anne Sidaris  
 
-_Art Directors:_ Philip Thomas, Al Locatelli
+**Cast**  
+Warren Beatty _(John Q. McCabe)_  
+Julie Christie _(Mrs Constance Miller)_  
+René Auberjonois _(Patrick Sheehan)_  
+Hugh Millais _(Dog Butler, the killer)_  
+John Schuck _(Smalley)_  
+Shelley Duvall _(Ida Coyle)_  
+Corey Fischer _(Mr Elliott, the priest)_  
+Michael Murphy _(Gene Sears)_  
+Keith Carradine _(cowboy with the big hat)_  
+William Devane _(Clement Samuels, the lawyer)_  
+Bert Remsen _(Bart Coyle)_  
+Antony Holland _(Ernie Hollander)_  
 
-_Make-up:_ Robert Jiras, Ed Butterworth,  
-Phyllis Newman
-
-_Hairdresser:_ Barry Richardson
-
-_Title Design:_ Anthony Goldschmidt
-
-_Songs by:_ Leonard Cohen
-
-_Fiddler:_ Brantley F. Kearns
-
-_Sound Mixer:_ Barry P. Jones
-
-_Sound by:_ John W. Gusselle, William A. Thompson
-
-_Research:_ Anne Sidaris
-
-_Cast:_
-
-Warren Beatty _(John Q. McCabe)_
-
-Julie Christie _(Mrs Constance Miller)_
-
-René Auberjonois _(Patrick Sheehan)_
-
-Hugh Millais _(Dog Butler, the killer)_
-
-John Schuck _(Smalley)_
-
-Shelley Duvall _(Ida Coyle)_
-
-Corey Fischer _(Mr Elliott, the priest)_
-
-Michael Murphy _(Gene Sears)_
-
-Keith Carradine _(cowboy with the big hat)_
-
-William Devane _(Clement Samuels, the lawyer)_
-
-Bert Remsen _(Bart Coyle)_
-
-Antony Holland _(Ernie Hollander)_
-
-USA 1971©
-
+USA 1971©  
 121 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3NTgwOTYwXX0=
+eyJoaXN0b3J5IjpbLTE5Mzk1MzcwODRdfQ==
 -->
