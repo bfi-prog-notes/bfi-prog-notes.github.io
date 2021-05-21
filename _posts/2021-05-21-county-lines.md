@@ -51,7 +51,7 @@ If _County Lines_ does contribute to a groundswell of awareness, what outcome is
 
 **County Lines**<br>
 _Directed by_: Henry Blake  
-_Production Companies_: Two Birds Entertainment,: Loupe Films  
+_Production Companies_: Two Birds Entertainment, Loupe Films  
 _Executive Producers_: Christopher Granier-Deferre, Simona Hughes, Zoe Bamber, Pia Getty  
 _Produced by_: Victoria Bavister, David Broder  
 _Line Producer_: Dylan Rees  
