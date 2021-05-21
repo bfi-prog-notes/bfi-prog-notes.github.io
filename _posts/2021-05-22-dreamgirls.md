@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Dreamgirls
+published: true
+date: 2021-05-22
+readtime: true
+categories: ['HER VOICE - BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN']
+tags: [Musical]
+metadata: 'USA, 2006, 120 mins<br> Director: Bill Condon'
+pdf: '2021-05-22-dreamgirls.pdf'
+---
 
 Bill Condon’s _Dreamgirls_ reaches the UK on a wave of nods and awards that includes Golden Globe wins for newcomer Jennifer Hudson and the film itself, and a raft of Oscar nominations. A dazzling musical – in the traditional sense – packed with A-list African-American performers, directed by the screenwriter of _Chicago_ and based on a Broadway show about one of the most loved moments of US pop history, it’s destined to make a huge splash. Inspired by the rise of Motown in the 1960s and 1970s, _Dreamgirls_ reimagines the story of Berry Gordy’s grooming of the Supremes for crossover stardom. Here all is superlative: the Dreams, like the Supremes, achieve a more powerful global presence than any female performers before; the spectacles are – well – spectacular; the star vehicles are plentiful.
 
@@ -21,8 +31,7 @@ Still, it is Hudson’s performance that won the Golden Globe and Oscar nominati
 Audiences of a certain age will take pleasure in spotting the lookalike elements of the main characterisations. Deena’s hairstyle goes through all the phases of Diana’s, and Beyoncé has clearly studied Ross’ characteristic head movements as if she were swotting for an exam in Motownology. Rainbow Records’ stable of acts features some hilarious soul parodies – including the Family Funk and the Campbell Connection, a five-piece act headed by a squeaky-voiced Jacksonesque boy. _Dreamgirls_ positively fizzes with the fun  
 it’s having with these icons and their funky interiors, bell-bottoms and expanding Afros.
 
-But perhaps the greatest pleasure comes from its honesty as a musical.  
-The production numbers trip a well-judged line between nostalgic parody and full-blown splendour: great spangly extravaganzas of glam and glory, fireworks and frocks. Meanwhile musical shifts from gospel to soul to proto-funk tell the story of the cultural changes of those turbulent times. Even more engaging are the operetta-style moments when characters break into song and serenade each other as they did in classic Hollywood. _Dreamgirls_ is that rare movie – a must-see, talking-point film with immediate appeal to all audiences. And not an action sequence in sight.  
+But perhaps the greatest pleasure comes from its honesty as a musical. The production numbers trip a well-judged line between nostalgic parody and full-blown splendour: great spangly extravaganzas of glam and glory, fireworks and frocks. Meanwhile musical shifts from gospel to soul to proto-funk tell the story of the cultural changes of those turbulent times. Even more engaging are the operetta-style moments when characters break into song and serenade each other as they did in classic Hollywood. _Dreamgirls_ is that rare movie – a must-see, talking-point film with immediate appeal to all audiences. And not an action sequence in sight.  
 **Linda Ruth Williams, _Sight & Sound_, March 2007**
 
 
@@ -127,9 +136,9 @@ Dawnn Lewis _(Melba Early)_
 Jaleel White _(talent booker)_  
 JoNell Kennedy _(Joann)_  
 Sybyl Walker _(Charlene)_  
-Lesley Nicole Lewis, Eboni Y. Nichols,  Ariké Rice_,_ Fatima Robinson _(Stepp Sisters)_  
+Lesley Nicole Lewis, Eboni Y. Nichols,  Ariké Rice, Fatima Robinson _(Stepp Sisters)_  
 Aakomon ‘AJ’ Jones _(Little Albert)_  
-Barsheem Bernard Fowler_,_ Anwar ‘Flii Stylz’ Burton_,_ Tyrell Washington _(Tru-Tones)_  
+Barsheem Bernard Fowler, Anwar ‘Flii Stylz’ Burton, Tyrell Washington _(Tru-Tones)_  
 Rory O’Malley _(Dave)_  
 Laura Bell Bundy, Anne Warren _(The Sweethearts)_  
 Ivar Brogger _(David Bennett)_  
@@ -146,8 +155,60 @@ Thomas Crawford _(TV director)_
 Charles Jones _(Carl)_  
 Robert Curtis Brown _(technical director)_  
 Stephanie Owens _(Tania Williams)_  
+
 USA 2006  
 120 mins
+
+**HER VOICE: BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN**<br>
+**Amazing Grace**<br>
+Mon 17 May 18:10; Sat 29 May 15:15; Tue 8 Jun 18:10<br>
+**Whitney: Can I Be Me**<br>
+Tue 18 May 20:50; Sat 26 Jun 18:10<br>
+**Siren of the Tropics (La sirène des tropiques)**<br>
+Wed 19 May 18:10; Sat 5 Jun 12:20<br>
+**Stormy Weather**<br>
+Wed 19 May 20:40; Sat 5 Jun 16:00<br>
+**Dreamgirls**<br>
+Sat 22 May 17:50; Wed 23 Jun 20:30<br>
+**Ella Fitzgerald: Just One of Those Things**<br>
+Mon 24 May 18:10; Sat 19 Jun 15:20<br>
+**…But Then, She’s Betty Carter**<br>
+Sat 29 May 12:10; Mon 7 Jun 18:00<br>
+**Sparkle**<br>
+Sun 30 May 18:40; Thu 10 Jun 20:35<br>
+**Mavis!**<br>
+Mon 31 May 16:10; Thu 17 Jun 20:40<br>
+**Billie**<br>
+Wed 2 Jun 18:00; Tue 15 Jun 20:40<br>
+**What’s Love Got to Do with It**<br>
+Fri 4 Jun 18:00; Sat 26 Jun 20:45<br>
+**Twenty Feet from Stardom**<br>
+Fri 4 Jun 20:45; Thu 10 Jun 18:20<br>
+**The Wiz**<br>
+Sun 6 Jun 12:20; Fri 18 Jun 17:45<br>
+
+**Promotional Partner**<br>
+<img style="float: left;" src="/img/partner/caramel-logo.jpg" alt="Caramel Film Club" title="Caramel Film Club">
+<br><br><br><br><br><br>
+<!-- ![Caramel Film Club](/img/partner/caramel-logo.jpg) -->
+Celebrating films starring and directed by Black talent and more<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTMxMDE4MTAyNV19
 -->
