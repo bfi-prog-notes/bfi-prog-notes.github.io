@@ -69,64 +69,31 @@ _uncredited_
 _2nd Assistant Director:_ Kenneth Rick  
 _3rd Assistant Directors:_ Lawrence G. Knight, Robert Lynn  
 _Continuity:_ Winifred Dyer  
-
-_Assistant Continuity:_ Joanna Busby
-
-_Casting Director:_ Adele Raymond
-
-_Assistant Casting:_ Patrick MacDonnell
-
-_Crowd Casting:_ Jerry Dereham, Bill Hahn
-
-_Camera Operators:_ Christopher Challis,
-
-Ted Scaife, Stan Sayers
-
-_Focus Pullers:_ Ian Craig, Ronald Cross
-
-_Clapper Loaders:_ Herbert Salisbury,  
-Michael Livesey
-
-_Technicolor Camera Assistant:_ Dick Allport
-
-_Lighting Electrician:_ Bill Wall
-
-_Chief Electrician:_ Harry Black
-
-_Colour_ _Stills:_ George Cannon
-
-_Monochrome Stills:_ Max Rosher
-
-_Portrait Stills:_ Fred Daniels
-
-_Matte Artist:_ Peter Ellenshaw
-
-_Special Effects Camera:_ Douglas Hague
-
-_Foreground Miniatures:_ Jack Higgins
-
-_Synthetic Pictorial Effects:_ Syd Pearson
-
-_1st Assistant Editor:_ Seymour Logie
-
-_2nd Assistant Editors:_ Lee Doig,  
-Noreen Ackland
-
-_Set Dresser:_ M.A.S. Pemberton
-
-_Scenic Artist:_ Ivor Beddoes
-
-_Art Department Trainee:_ R. Townsend
-
-_Indian Set Dresser:_ E. Harvison
-
-_Draughtsmen:_ Elliot Scott, Don Picton,
-
-William Kellner, J. Harman, G. Beattie,  
-Alan Harris
-
-_Chief Construction Manager:_ Harold Batchelor
-
+_Assistant Continuity:_ Joanna Busby  
+_Casting Director:_ Adele Raymond  
+_Assistant Casting:_ Patrick MacDonnell  
+_Crowd Casting:_ Jerry Dereham, Bill Hahn  
+_Camera Operators:_ Christopher Challis, Ted Scaife, Stan Sayers  
+_Focus Pullers:_ Ian Craig, Ronald Cross  
+_Clapper Loaders:_ Herbert Salisbury,  Michael Livesey  
+_Technicolor Camera Assistant:_ Dick Allport  
+_Lighting Electrician:_ Bill Wall  
+_Chief Electrician:_ Harry Black  
+_Colour_ _Stills:_ George Cannon  
+_Monochrome Stills:_ Max Rosher  
+_Portrait Stills:_ Fred Daniels  
+_Matte Artist:_ Peter Ellenshaw  
+_Special Effects Camera:_ Douglas Hague  
+_Foreground Miniatures:_ Jack Higgins  
+_Synthetic Pictorial Effects:_ Syd Pearson  
+_1st Assistant Editor:_ Seymour Logie  
+_2nd Assistant Editors:_ Lee Doig,  Noreen Ackland  
+_Set Dresser:_ M.A.S. Pemberton  
+_Scenic Artist:_ Ivor Beddoes  
+_Art Department Trainee:_ R. Townsend  
+_Indian Set Dresser:_ E. Harvison  
+_Draughtsmen:_ Elliot Scott, Don Picton, William Kellner, J. Harman, G. Beattie, Alan Harris  
+_Chief Construction Manager:_ Harold Batchelor  
 _Dress Supervisor:_ Elizabeth Hennings
 
 _Wardrobe Mistress:_ Dorothy Edwards
@@ -189,5 +156,5 @@ UK 1947©
 
 101 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTgwMTgwXX0=
+eyJoaXN0b3J5IjpbLTE4NjQ1NDk3OTBdfQ==
 -->
