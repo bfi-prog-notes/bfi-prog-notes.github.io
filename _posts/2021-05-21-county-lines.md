@@ -13,13 +13,11 @@ As drug-related activity has fanned out from major metropolitan centres to provi
 
 As this bracing drama unfolds, we’re drawn in and held by a sense that this first-time filmmaker absolutely knows whereof he speaks, and wants to speak up for those caught in an unfolding social tragedy. What is exceptional about the piece is Blake’s avoidance of well-worn cinematic paths – either the plot-heavy austere social realism of the Paul Laverty/Ken Loach school or the market-friendly urban-styled youth flick à la Noel Clarke.
 
-Instead, he has created a distinctive stylistic context, through cameraman Sverre Sørdal’s unsettling, heightened colour palette and the dread-filled droning of James Pickering’s score, to illuminate the fear and paranoia experienced by those involved.  
-The closest filmic reference point might be Lee Chang-dong’s _Burning_; Blake himself suggests he looked beyond cinema for inspiration to the photography of William Eggleston and Nan Goldin and even Rembrandt’s canvases, claims borne out by what we see on screen.
+Instead, he has created a distinctive stylistic context, through cameraman Sverre Sørdal’s unsettling, heightened colour palette and the dread-filled droning of James Pickering’s score, to illuminate the fear and paranoia experienced by those involved. The closest filmic reference point might be Lee Chang-dong’s _Burning_; Blake himself suggests he looked beyond cinema for inspiration to the photography of William Eggleston and Nan Goldin and even Rembrandt’s canvases, claims borne out by what we see on screen.
 
 That said, the film’s captivating quality is founded in the potent screen presence of its young leading man Conrad Khan, as the errant son Tyler. Khan convinces as a taciturn, seemingly benign outsider, but in his East London comprehensive it’s impossible to lie low all the time. He gets picked on, confrontation escalates, and soon teachers and his hard-pressed single mother are struggling to get through to him. An introductory framing device has already used pointed questioning by an off-screen counsellor, but once we move back in time to explore the build-up to impending crisis, the story’s patient unfolding allows us to appreciate the give-and-take between Tyler and his milieu.
 
-The lack of a male authority figure at home is significant; so is the fact that mum Toni (Ashley Madekwe, a performance carefully calibrated between weakness and strength) works nights as a cleaner, so that the family’s paths cross mainly at breakfast.  
-That leaves Tyler with a perhaps misguided sense that he needs to be the household’s patriarchal figure, and what follows is about a quest for status, for authority and breadwinning opportunities.
+The lack of a male authority figure at home is significant; so is the fact that mum Toni (Ashley Madekwe, a performance carefully calibrated between weakness and strength) works nights as a cleaner, so that the family’s paths cross mainly at breakfast. That leaves Tyler with a perhaps misguided sense that he needs to be the household’s patriarchal figure, and what follows is about a quest for status, for authority and breadwinning opportunities.
 
 That’s where Harris Dickinson’s slick-talking streetwise ‘entrepreneur’ Simon comes in, sizing up the boy with promises of easy money. The trouble is that in Simon’s world authority is maintained by violence, and boyish vulnerability cannot be part of the equation. As Tyler begins to earn his cut, delivering drugs to a southern coastal town, there’s a palpable feeling of doom. This cautionary tale is heading in one direction – though the retribution visited on the wiry 14-year-old proves shocking in its ferocity.
 
@@ -28,9 +26,7 @@ The film shows profound compassion, but little in the way of heaped-on sentiment
 There is a maturity of analysis here; but the film’s stylistic daring turns it from able reportage into a startling piece of pure cinema. Colours, greens especially, are sickly enough to make your flesh crawl, creating an uneasy vision from everyday environs, and this defamiliarisation delivers stomach-knotting disquiet throughout – amplified by the score’s unsettling dissonances. Blake’s framing too often seems wider than we would expect, leaving the viewer with a cumulative sense of powerlessness that, perhaps counter-intuitively, intensifies involvement with the material.
 
 It takes a lot of nerve to hold everything back, as Blake does so successfully here, trusting in Khan’s arresting presence, by turns pitiful and threatening, to hold the attention. It’s a vindication for a truly independent production, set up outside the usual institutional support schemes, which has allowed an exciting, unexpected, unconventional new directorial voice to ring out so loud and clear.<br>
-**
-
-Trevor Johnston, _Sight & Sound_, May 2020**
+**Trevor Johnston, _Sight & Sound_, May 2020**
 
 Henry Blake’s background is in youth work; before making _County Lines_ he spent 11 years working with real-life victims of county lines drug operations. ‘In the last five years county lines has got more attention,’ he says ‘but it’s been going on for 15 years.’
 
@@ -44,11 +40,9 @@ This nuance of character extends to the supporting roles, particularly Tyler’s
 
 Blake’s experience also helped when it came to selecting his lead star and shaping Khan’s performance. Out of 300 tapes, he and casting director Aisha Bywaters auditioned 12 boys. ‘I was looking for an actor who could essentially do two roles: pre-trauma and post-trauma,’ he explains. ‘We gave them the showdown scene with the mother as the audition [a violent scene that was inspired by an encounter Blake witnessed]. I wanted to see if the young actors would engage with the emotional warfare element of it, because it’s a war at that time in the household.’
 
-In Khan, Blake spied an emotional intelligence and diligence. ‘Often when you’re working with young people, you’re having to give notes maybe three or four times before you get to that, and I didn’t want that,’ he explains. ‘I wanted an actor who just responds. I said to him: “For 23 days of the shoot, you’re going to hear two words every single day, which are your safe words, those are action and cut, so no matter what happens in between, no matter how hard that is, you’re always going to hear those words.”  
-Children who are really being exploited never hear those words. He understood that and took it on.’
+In Khan, Blake spied an emotional intelligence and diligence. ‘Often when you’re working with young people, you’re having to give notes maybe three or four times before you get to that, and I didn’t want that,’ he explains. ‘I wanted an actor who just responds. I said to him: “For 23 days of the shoot, you’re going to hear two words every single day, which are your safe words, those are action and cut, so no matter what happens in between, no matter how hard that is, you’re always going to hear those words.” Children who are really being exploited never hear those words. He understood that and took it on.’
 
-As for visual influences, Blake references the abstract manner in which Japanese street photographer Fukase Masahisa captured loneliness in his seminal 1980s photobook   
-_The Solitude of Ravens_, as well as Elem Klimov’s legendary war movie and tale of lost innocence _Come and See_ (1985). Klimov’s film was also influential on Blake’s approach to filming violence, which, when it does erupt, is blurred and disorientating, something Blake and cinematographer Sverre Sørdal helped evoke by constantly altering the depth of field (Blake felt strongly that the typical handheld camera approach of much social realism had long been overdone). ‘A lot of filmmakers find violence very cinematic to shoot but I found it very distressing, because I have seen it,’ he explains.
+As for visual influences, Blake references the abstract manner in which Japanese street photographer Fukase Masahisa captured loneliness in his seminal 1980s photobook _The Solitude of Ravens_, as well as Elem Klimov’s legendary war movie and tale of lost innocence _Come and See_ (1985). Klimov’s film was also influential on Blake’s approach to filming violence, which, when it does erupt, is blurred and disorientating, something Blake and cinematographer Sverre Sørdal helped evoke by constantly altering the depth of field (Blake felt strongly that the typical handheld camera approach of much social realism had long been overdone). ‘A lot of filmmakers find violence very cinematic to shoot but I found it very distressing, because I have seen it,’ he explains.
 
 If _County Lines_ does contribute to a groundswell of awareness, what outcome is Blake ultimately hoping for? ‘There’s currently no national response to county lines. It needs a much more substantial, national response that looks at it from the ground up and that protects those most vulnerable,’ he says. ‘As a front-line youth worker I have seen it get worse, year after year,’ Blake continues. ‘I can’t do the job if you commission me for four or five weeks, just one hour a week, and expect me to tick all these educational boxes, as well as repair the family. You have to start taking what we do seriously … and that means money. So that’s what I would love, because if you look at the film, it comes back to that “acceptable loss” speech – that’s when the penny starts to drop with Tyler, and change becomes possible.’<br>
 **Henry Blake interviewed by Isabel Stevens, _Sight & Sound_, December 2020**
@@ -57,7 +51,7 @@ If _County Lines_ does contribute to a groundswell of awareness, what outcome is
 
 **County Lines**<br>
 _Directed by_: Henry Blake  
-_Production Companies_: Two Birds Entertainment,: Loupe Films  
+_Production Companies_: Two Birds Entertainment, Loupe Films  
 _Executive Producers_: Christopher Granier-Deferre, Simona Hughes, Zoe Bamber, Pia Getty  
 _Produced by_: Victoria Bavister, David Broder  
 _Line Producer_: Dylan Rees  
@@ -113,12 +107,10 @@ BFI Southbank and BFI Festivals.
 Join today at bfi.org.uk/join
 
 **NEW RELEASES & RE-RELEASES**<br>
-
 **Ammonite**<br>
 From Mon 17 May<br>
 **Sound of Metal**<br>
 From Mon 17 May<br>
-
 **Nomadland**<br>
 From Mon 17 May<br>
 **First Cow**<br>
@@ -151,6 +143,3 @@ We are always open online on BFI Player where you can watch the best new, cult &
 **Programme notes and credits compiled by the BFI Documentation Unit<br>
 Notes may be edited or abridged<br>
 Questions/comments? Contact the Programme Notes team by **[email](mailto: prognotes@bfi.org.uk)**
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTIwMTU4Nl19
--->
