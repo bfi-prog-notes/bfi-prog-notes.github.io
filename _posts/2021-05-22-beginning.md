@@ -102,7 +102,7 @@ Mari Kopchenovi _(sister)_
 William Dunbar _(American Jehovah’s Witness)_  
 Giorgi Tsereteli _(local policeman)_
 
-Georgia/France/Belgium/USA/Netherlands/Israel 2020©  
+Georgia/France/Belgium/USA/Netherlands/Israel 2020  
 125 mins
 
 **DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**  
@@ -173,5 +173,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzI4MjgyNzldfQ==
+eyJoaXN0b3J5IjpbMTY4MjExNjYwN119
 -->
