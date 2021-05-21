@@ -102,8 +102,8 @@ _Editor:_ Thea Eymèsz *
 _Art Director:_ Rainer Werner Fassbinder *  
 _Make-up:_ Helga Kempke  
 _Sound:_ Fritz-Müller Scherz  
-_Cast:_
 
+**Cast**  
 Brigitte Mira _(Emmi Kurowski)_  
 El Hedi ben Salem _(Ali)_  
 Irm Hermann _(Krista)_  
@@ -123,16 +123,15 @@ Karl Scheydt _(Albert)_
 Peter Moland _(chief garage mechanic)_  
 Barbara Valentin _(Barbara, landlady)_  
 Lilo Pempeit _(Mrs Münchmeyer)_ *  
-Rainer Werner Fassbinder  
-_(Eugen, Krista’s husband)_ *  
+Rainer Werner Fassbinder  _(Eugen, Krista’s husband)_ *  
 Helga Ballhaus _(Yolanda)_ *  
 Kurt Raab _(foreman)_ *  
 Elisabeth Bertram _(Frieda)_ *  
-West Germany 1974
 
+West Germany 1974  
 94 mins
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzQxMzU1MV19
+eyJoaXN0b3J5IjpbLTE2NDc0NDExM119
 -->
