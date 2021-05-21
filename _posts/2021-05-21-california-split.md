@@ -60,8 +60,7 @@ _Sound Editor_: Kay Rose
 _Assistant [Sound Editor]_: Randy Kelley  
 _Unit Publicist_: Regina Gruss
 
-_Cast:_
-
+**Cast**    
 George Segal _(Bill Denny)_  
 Elliott Gould _(Charlie Waters)_  
 Ann Prentiss _(Barbara Miller)_  
@@ -87,17 +86,13 @@ Bill Duffy _(Kenny)_
 Mike Greene _(Reno dealer)_  
 Tom Signorelli _(Nugie)_  
 Sharon Compton _(Nugie’s wife)_  
-Arnold Herzstein, Alvin Weissman, Marc Cavell, Mickey Fox, Carolyn Lohmann_  
-(California Club poker players)_  
-‘Amarillo Slim’ Preston, Winston Lee,  
-Harry Drackett, Thomas Hal Phillips, Ted Say,  
-A.J. Hood _(Reno poker players)_
+Arnold Herzstein, Alvin Weissman, Marc Cavell, Mickey Fox, Carolyn Lohmann (California Club poker players)_  
+‘Amarillo Slim’ Preston, Winston Lee,  Harry Drackett, Thomas Hal Phillips, Ted Say,  A.J. Hood _(Reno poker players)_
 
-USA 1974©
-
+USA 1974©  
 108 mins
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgxMDM5NzNdfQ==
+eyJoaXN0b3J5IjpbLTE4NTc3MzA2NDJdfQ==
 -->
