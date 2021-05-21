@@ -107,6 +107,10 @@ UK 2019<br>
 A BFI release
 
 
+**BECOME A BFI MEMBER**<br>
+Enjoy a great package of film benefits including priority booking at  
+BFI Southbank and BFI Festivals.  
+Join today at bfi.org.uk/join
 
 **NEW RELEASES & RE-RELEASES**<br>
 
@@ -114,6 +118,7 @@ A BFI release
 From Mon 17 May<br>
 **Sound of Metal**<br>
 From Mon 17 May<br>
+
 **Nomadland**<br>
 From Mon 17 May<br>
 **First Cow**<br>
@@ -143,6 +148,9 @@ We are always open online on BFI Player where you can watch the best new, cult &
 
 **Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at **[www.bfi.org.uk/signup](https://whatson.bfi.org.uk/Online/login.asp)**<br>
 
-Programme notes and credits compiled by the BFI Documentation Unit<br>
+**Programme notes and credits compiled by the BFI Documentation Unit<br>
 Notes may be edited or abridged<br>
 Questions/comments? Contact the Programme Notes team by **[email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5ODMwMTQ2NzBdfQ==
+-->
