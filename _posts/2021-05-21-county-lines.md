@@ -27,9 +27,8 @@ The film shows profound compassion, but little in the way of heaped-on sentiment
 
 There is a maturity of analysis here; but the film’s stylistic daring turns it from able reportage into a startling piece of pure cinema. Colours, greens especially, are sickly enough to make your flesh crawl, creating an uneasy vision from everyday environs, and this defamiliarisation delivers stomach-knotting disquiet throughout – amplified by the score’s unsettling dissonances. Blake’s framing too often seems wider than we would expect, leaving the viewer with a cumulative sense of powerlessness that, perhaps counter-intuitively, intensifies involvement with the material.
 
-It takes a lot of nerve to hold everything back, as Blake does so successfully here, trusting in Khan’s arresting presence, by turns pitiful and threatening, to hold the attention. It’s a vindication for a truly independent production, set up outside the usual institutional support schemes, which has allowed an exciting, unexpected, unconventional new directorial voice to ring out so loud and clear.
-
-Trevor Johnston, _Sight & Sound_, May 2020
+It takes a lot of nerve to hold everything back, as Blake does so successfully here, trusting in Khan’s arresting presence, by turns pitiful and threatening, to hold the attention. It’s a vindication for a truly independent production, set up outside the usual institutional support schemes, which has allowed an exciting, unexpected, unconventional new directorial voice to ring out so loud and clear.<br>
+**Trevor Johnston, _Sight & Sound_, May 2020**
 
 Henry Blake’s background is in youth work; before making _County Lines_ he spent 11 years working with real-life victims of county lines drug operations. ‘In the last five years county lines has got more attention,’ he says ‘but it’s been going on for 15 years.’
 
@@ -51,7 +50,6 @@ _The Solitude of Ravens_, as well as Elem Klimov’s legendary war movie and tal
 
 If _County Lines_ does contribute to a groundswell of awareness, what outcome is Blake ultimately hoping for? ‘There’s currently no national response to county lines. It needs a much more substantial, national response that looks at it from the ground up and that protects those most vulnerable,’ he says. ‘As a front-line youth worker I have seen it get worse, year after year,’ Blake continues. ‘I can’t do the job if you commission me for four or five weeks, just one hour a week, and expect me to tick all these educational boxes, as well as repair the family. You have to start taking what we do seriously … and that means money. So that’s what I would love, because if you look at the film, it comes back to that “acceptable loss” speech – that’s when the penny starts to drop with Tyler, and change becomes possible.’<br>
 **Henry Blake interviewed by Isabel Stevens, _Sight & Sound_, December 2020**
-
 
 
 **County Lines**<br>
@@ -105,18 +103,12 @@ UK 2019<br>
 
 A BFI release
 
-**BECOME A BFI MEMBER**<br>
-Enjoy a great package of film benefits including priority booking at  
-BFI Southbank and BFI Festivals.  
-Join today at bfi.org.uk/join
 
-NEW RELEASES & RE-RELEASES
-
+**NEW RELEASES & RE-RELEASES**<br>
 **Ammonite**<br>
 From Mon 17 May<br>
 **Sound of Metal**<br>
 From Mon 17 May<br>
-
 **Nomadland**<br>
 From Mon 17 May<br>
 **First Cow**<br>
@@ -135,8 +127,11 @@ Sat 26 June 14:20 + Q&A with director Ken Fero and contributor Janet Alder<br>
 
 **BFI SOUTHBANK**<br>
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.<cr>
-We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.
+We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.<br>
 
+**BECOME A BFI MEMBER**<br>
+Enjoy a great package of film benefits including priority booking at  BFI Southbank and BFI Festivals. Join today at bfi.org.uk/join
+  
 **BFI PLAYER**<br>
 We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on [player.bfi.org.uk](https://player.bfi.org.uk/)
 
