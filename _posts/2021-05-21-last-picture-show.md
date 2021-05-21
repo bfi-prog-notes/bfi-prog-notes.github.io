@@ -1,7 +1,3 @@
-
-
-<![endif]-->
-
 **SPOILER WARNING The following notes give away some of the plot.**
 
 Released in 1971 amidst the dope-fuelled rush of the New Hollywood,  
@@ -49,14 +45,12 @@ I don’t know. I saw Jeff Bridges recently and we talked about _Picture Show_, 
 
 _Has it ever felt like a millstone?_
 
-No, I’m very proud of it. It’s the film of mine that people return to. Orson Welles and I were talking about Greta Garbo one time, and he was raving about her transcendent quality, and me being pedantic said, ‘Yes, but isn’t it too bad that there are only two great films?’ – thinking of _Ninotchka_ and _Camille_. He looked at me for a minute and said, ‘Peter, you only need one.’ I have my one.
+No, I’m very proud of it. It’s the film of mine that people return to. Orson Welles and I were talking about Greta Garbo one time, and he was raving about her transcendent quality, and me being pedantic said, ‘Yes, but isn’t it too bad that there are only two great films?’ – thinking of _Ninotchka_ and _Camille_. He looked at me for a minute and said, ‘Peter, you only need one.’ I have my one.<br>
+**Peter Bogdanovich interviewed by James Bell, _Sight & Sound_, May 2011**
 
-Peter Bogdanovich interviewed by James Bell, _Sight & Sound_, May 2011
 
-<![endif]-->
 
 **The Last Picture Show (director’s cut)**
-
 _Directed by_: Peter Bogdanovich  
 ©: Last Picture Show Productions  
 _Production Company_: B.B.S. Productions  
@@ -90,24 +84,17 @@ _Construction Co-ordinator_: Al Litteken
 _Painter_: George Lillie  
 _Wardrobe_: Mickey Sherrard, Nancy Mcardle  
 _For their music we thank_: Hank Williams,
-
 Bob Wills and His Texas Playboys, Eddy Arnold,
-
 Eddie Fisher, Phil Harris, Pee Wee King,
-
 Hank Snow, Tony Bennett, Lefty Frizzell,
-
 Frankie Laine, Johnnie Ray, Johnny Standley,
-
-Kay Starr, Hank Thompson, Webb Pierce,
-
-Jo Stafford  
+Kay Starr, Hank Thompson, Webb Pierce, Jo Stafford  
 _[Sound] Mixer_: Tom Overton  
 _Boom Man_: Dean Salmon  
 _Re-recording_: Producers Sound Service  
 _Sound Effects_: Inc Edit-Rite
 
-**Cast: 
+**Cast:** 
 Timothy Bottoms _(Sonny Crawford)_  
 Jeff Bridges _(Duane Jackson)_  
 Cybill Shepherd _(Jacy Farrow)_  
@@ -159,5 +146,5 @@ The Leon Miller Band _(musicians)_
 USA 1971
 126 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI2NjQ2MjVdfQ==
+eyJoaXN0b3J5IjpbMTAwNzk4NzkxXX0=
 -->
