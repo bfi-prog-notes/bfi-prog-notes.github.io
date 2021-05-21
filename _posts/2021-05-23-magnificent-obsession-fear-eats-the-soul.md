@@ -92,7 +92,7 @@ Lucille La Marr _(nurse)_ *
 USA 1954  
 108 mins
 
-*  Uncredited
+*Uncredited
 
 
 
@@ -140,7 +140,7 @@ Elisabeth Bertram _(Frieda)_ *
 West Germany 1974  
 94 mins
 
-* Uncredited
+*Uncredited
 
 **DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**  
 **Blow Out**<br>
