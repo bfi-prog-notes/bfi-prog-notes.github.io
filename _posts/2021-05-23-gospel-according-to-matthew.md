@@ -1,5 +1,14 @@
-<![endif]-->
-
+---
+layout: post
+title: The Gospel According to Matthew
+published: true
+date: 2021-05-23
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'Italy/France, 1964, 137 mins<br> Director: Pier Paolo Pasolini'
+pdf: '2021-05-23-gospel-according-to-matthew.pdf'
+---
 Although Pier Paolo Pasolini’s film _The Gospel According to Matthew_ (_Il Vangelo secondo Matteo_) is habitually praised as a key work both of the director’s oeuvre and of world cinema as a whole, small myths have congregated about it nonetheless. You may hear that it’s a Marxist life of Jesus, which flies in the face of the Catholic church. Or that it was an extraordinary, contrary story choice for a filmmaker who was gay, an outspoken Marxist and a staunch atheist. Others present it as the unadulterated Gospel, with nothing added or taken away in the service of plot. One hears nigh everywhere it’s mentioned that it’s gritty, raw and handheld; maybe that it’s a quintessential neorealist text. The Matthew Gospel is indeed the main source, certainly of the film’s dialogue, which is sparse – except for Jesus’s sermons and parables – but material from the other Gospels is used too, and more significantly, Pasolini ushers in the visual influence of religious art from many an anachronistic historical period. He himself described the film as a sort of palimpsest, ‘the life of Christ plus 2,000 years of storytelling about the life of Christ’. As for the film’s neorealist credentials, certainly it owes characteristics to the school during the rise of which Pasolini began his filmmaking career.
 
 _The Gospel According to Matthew_ favours untrained actors and powerless, penniless characters. It argues for the underdog, its noble characters are by and large negative presences, and it isn’t afraid to find elegance in the undecorated and the ugly. Pasolini’s approaches to shooting landscapes and human faces, and to depicting and eliciting emotion, were unquestionably influenced by neorealism; it’s in part the film’s lack of awed formality and soft-focus sentiment that sets it apart from Hollywood Bible studies.
@@ -20,139 +29,132 @@ Like the teenager Irazoqui still was when he played the part, he’s prone to fi
 
 Pasolini blends Gospels here: although both Matthew and Mark have Judas’s betrayal directly follow the incident with the ointment, it’s only John who has Judas be the one to confront the woman; Matthew just states that ‘the disciples were indignant’. That simple stung feelings are given such a key role in Pasolini’s proceedings risks a certain triviality, but also lends poignant humanity to the tale – as when, in his novel, published in 1966, Mikhail Bulgakov has Pontius Pilate condemn Jesus to the cross partly because he’s distracted by an agonising migraine.
 
-If many of his films, from the lusty _Mamma Roma_ (1962) through to the still shocking _Salò_ _or The 120 Days of Sodom_ (1975), highlight corporeal excess – violent, carnal, excretory, gastronomic – _The Gospel According to Matthew_ adopts the soft asceticism of Irazoqui’s persona as its defining mode. Even Salome’s dance is strangely gentle and naive, a spell woven by a child rather than an erotic display. It’s human moods, rather than appetites, that seem to preoccupy Pasolini here; and it’s the interaction between the inexplicable divine and the basely, tenderly, stroppily human that makes his Passion play so moving – whether viewed by the believer, the unbeliever or the nostalgist for belief.
-
-**Hannah McGill, _Sight & Sound_, March 2013**
-
-<![endif]-->
-
-**The Gospel According to Matthew**
-
-**(Il Vangelo secondo Matteo)**
-
-_Director_: Pier Paolo Pasolini
-
-_Production Companies_: Arco Film,
-
-Lux Compagnie Cinématographique de France
-
-_Producer_: Alfredo Bini
-
-_General Organiser_: Manolo Bolognini
-
-_Production Secretary_: Bruno Frascà
-
-_Production Manager_: Eliseo Boschi
-
-_Administration_: Vincenzo Taito
-
-_Assistant Directors_: Maurizio Lucidi,
-
-Paul A.M. Schneider
-
-_Script Supervisor_: Lina D’Amico
-
-_Adaptation_: Pier Paolo Pasolini
-
-_Director of Photography_: Tonino Delli Colli
-
-_Camera Operators_: Giuseppe Ruzzolini,
-
-Vittor Ugo Contino
-
-_Assistant Camera Operators_:
-
-Alessandro Ruzzolini, Giovanni Canfarelli
-
-_Editor_: Nino Baragli
-
-_Assistant Editor_: Andreina Casini
-
-_Art Director_: Luigi Scaccianoce
-
-_Assistant to Art Director_: Dante Ferretti *
-
-_Costumes:_ Danilo Donati
-
-_Make-up_: Marcello Ceccarelli
-
-_Make-up Assistant_: Lamberto Marini
-
-_Hair_: Mimma Pomilia
-
-_Music_: Johann Sebastian Bach,
-
-Wolfgang Amadeus Mozart,
-
-Sergei Prokofiev, Anton Webern
-
-_Musical Coordination_: Luis Enriquez Bacalov
-
-_Sound_: Mario Del Pezzo
-
-_Cast:_
-
-Enrique Irazoqui _(Christ)_
-
-Margherita Caruso _(Mary as a girl)_
-
-Susanna Pasolini _(Mary as a woman)_
-
-Marcello Morante _(Joseph)_
-
-Mario Socrate _(John the Baptist)_
-
-Settimio Di Porto _(Peter)_
-
-Otello Sestili _(Judas Iscariot)_
-
-Ferruccio Nuzzo _(Matthew)_
-
-Giacomo Morante _(John)_
-
-Alfonso Gatto _(Andrew)_
-
-Enzo Siciliano _(Simon)_
-
-Giorgio Agamben _(Philip)_
-
-Guido Cerretani _(Bartholomew)_
-
-Luigi Barbini _(James, son of Alpheus)_
-
-Marcello Galdini _(James, son of Zebedee)_
-
-Elio Spaziani _(Thaddeus)_
-
-Rosario Migale _(Thomas)_
-
-Rodolfo Wilcock _(Caiaphas)_
-
-Alessandro Tasca _(Pontius Pilate)_
-
-Amerigo Bevilacqua _(Herod the Great)_
-
-Francesco Leonetti _(Herod Antipas)_
-
-Franca Cupane _(Herodias)_
-
-Paola Tedesco _(Salome)_
-
-Rossana Di Rocco _(The Angel of the Lord)_
-
-Eliseo Boschi _(Joseph of Arimathea)_
-
-Natalia Ginzburg _(Mary of Bethany)_
-
-Renato Terra _(Pharisee)_
-
-Ninetto Davoli _(shepherd)_
-
-Italy/France 1964
-
+If many of his films, from the lusty _Mamma Roma_ (1962) through to the still shocking _Salò_ _or The 120 Days of Sodom_ (1975), highlight corporeal excess – violent, carnal, excretory, gastronomic – _The Gospel According to Matthew_ adopts the soft asceticism of Irazoqui’s persona as its defining mode. Even Salome’s dance is strangely gentle and naive, a spell woven by a child rather than an erotic display. It’s human moods, rather than appetites, that seem to preoccupy Pasolini here; and it’s the interaction between the inexplicable divine and the basely, tenderly, stroppily human that makes his Passion play so moving – whether viewed by the believer, the unbeliever or the nostalgist for belief.<br>
+**Hannah McGill, _Sight & Sound_, March 2013**<br>
+
+**The Gospel According to Matthew (Il Vangelo secondo Matteo)**<br>
+_Director_: Pier Paolo Pasolini<br>
+_Production Companies_: Arco Film, Lux Compagnie Cinématographique de France<br>
+_Producer_: Alfredo Bini<br>
+_General Organiser_: Manolo Bolognini<br>
+_Production Secretary_: Bruno Frascà<br>
+_Production Manager_: Eliseo Boschi<br>
+_Administration_: Vincenzo Taito<br>
+_Assistant Directors_: Maurizio Lucidi, Paul A.M. Schneider<br>
+_Script Supervisor_: Lina D’Amico<br>
+_Adaptation_: Pier Paolo Pasolini<br>
+_Director of Photography_: Tonino Delli Colli<br>
+_Camera Operators_: Giuseppe Ruzzolini, Vittor Ugo Contino<br>
+_Assistant Camera Operators_: Alessandro Ruzzolini, Giovanni Canfarelli<br>
+_Editor_: Nino Baragli<br>
+_Assistant Editor_: Andreina Casini<br>
+_Art Director_: Luigi Scaccianoce<br>
+_Assistant to Art Director_: Dante Ferretti *<br>
+_Costumes_: Danilo Donati<br>
+_Make-up_: Marcello Ceccarelli<br>
+_Make-up Assistant_: Lamberto Marini<br>
+_Hair_: Mimma Pomilia<br>
+_Music_: Johann Sebastian Bach, Wolfgang Amadeus Mozart, Sergei Prokofiev, Anton Webern<br>
+_Musical Coordination_: Luis Enriquez Bacalov<br>
+_Sound_: Mario Del Pezzo<br>
+
+**Cast:**<br>
+Enrique Irazoqui _(Christ)_<br>
+Margherita Caruso _(Mary as a girl)_<br>
+Susanna Pasolini _(Mary as a woman)_<br>
+Marcello Morante _(Joseph)_<br>
+Mario Socrate _(John the Baptist)_<br>
+Settimio Di Porto _(Peter)_<br>
+Otello Sestili _(Judas Iscariot)_<br>
+Ferruccio Nuzzo _(Matthew)_<br>
+Giacomo Morante _(John)_<br>
+Alfonso Gatto _(Andrew)_<br>
+Enzo Siciliano _(Simon)_<br>
+Giorgio Agamben _(Philip)_<br>
+Guido Cerretani _(Bartholomew)_<br>
+Luigi Barbini _(James, son of Alpheus)_<br>
+Marcello Galdini _(James, son of Zebedee)_<br>
+Elio Spaziani _(Thaddeus)_<br>
+Rosario Migale _(Thomas)_<br>
+Rodolfo Wilcock _(Caiaphas)_<br>
+Alessandro Tasca _(Pontius Pilate)_<br>
+Amerigo Bevilacqua _(Herod the Great)_<br>
+Francesco Leonetti _(Herod Antipas)_<br>
+Franca Cupane _(Herodias)_<br>
+Paola Tedesco _(Salome)_<br>
+Rossana Di Rocco _(The Angel of the Lord)_<br>
+Eliseo Boschi _(Joseph of Arimathea)_<br>
+Natalia Ginzburg _(Mary of Bethany)_<br>
+Renato Terra _(Pharisee)_<br>
+Ninetto Davoli _(shepherd)_<br>
+
+Italy/France 1964<br>
 137 mins
 
-\* Uncredited
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjU5MzY5MF19
--->
+\* Uncredited<cr><cr><cr>
+
+
+**BIG SCREEN CLASSICS**<br>
+**Persona**<br>
+Mon 17 May 14:30; Fri 28 May 21:00; Wed 2 Jun 18:10 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large) Mon 28 Jun 21:00<br>
+**Touch of Evil**<br>
+Tue 18 May 14:30; Mon 31 May 12:45; Sat 5 Jun 17:50; Sun 20 Jun 18:15<br>
+**The Tango Lesson**<br>
+Tue 18 May 20:45; Wed 9 Jun 17:50 (+ pre-recorded intro by So Mayer, author of ‘The Cinema of Sally Potter’)<br>
+**Citizen Kane**<br>
+Wed 19 May 18:00; Sun 30 May 12:40; Mon 21 Jun 20:45<br>
+**L’eclisse (The Eclipse)**<br>
+Thu 20 May 14:15; Sat 5 Jun 12:10; Tue 15 Jun 17:50<br>
+**La Haine**<br>
+Thu 20 May 17:50; Sat 29 May 21:00; Wed 16 Jun 21:00; Fri 18 Jun 20:40<br>
+**The Last Picture Show (Director’s Cut)**<br>
+Fri 21 May 20:30; Mon 31 May 12:50; Mon 7 Jun 17:45<br>
+**Steamboat Bill, Jr.**<br>
+Sat 22 May 12:00; Thu 3 Jun 14:30; Tue 22 Jun 18:30<br>
+**Cleo from 5 to 7** **Cléo de 5 à 7**<br>
+Sat 22 May 21:00; Thu 10 Jun 21:00; Mon 21 Jun 14:30<br>
+**The Big City (Mahanagar)**<br>
+Sun 23 May 12:10; Wed 23 Jun 17:40<br>
+**The Gospel According to Matthew (Il vangelo secondo Matteo)**<br>
+Sun 23 May 15:20; Thu 24 Jun 17:40<br>
+**The Night of the Hunter**<br>
+Mon 24 May 14:30; Tue 8 Jun 20:50; Wed 16 Jun 18:15 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large)<br>
+**The Killers** + pre-recorded intro by Imogen Sara Smith, author of ‘In Lonely Places: Film Noir beyond the City’<br>
+Tue 25 May 20:30; Tue 8 Jun 14:30; Wed 23 Jun 17:50<br>
+**Alice in the Cities (Alice in den Städten)**<br>
+Wed 26 May 17:50; Tue 1 Jun 14:30; Fri 25 Jun 20:45<br>
+**Eraserhead**<br>
+Thu 27 May 18:20; Mon 14 Jun 21:00; Thu 24 Jun 21:10<br>
+**Man Hunt**<br>
+Fri 28 May 18:10; Sat 12 Jun 16:00; Tue 29 Jun 14:15<br>
+**Sweet Smell of Success**<br>
+Fri 4 Jun 15:00; Sun 13 Jun 15:45; Sat 26 Jun 11:40<br>
+**The Man Who Wasn’t There**<br>
+Fri 4 Jun 17:50; Sun 27 Jun 18:20<br>
+**The White Ribbon (Das weisse Band)**<br>
+Sun 6 Jun 18:10; Sat 26 Jun 16:30<br>
+**Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London<br>
+Mon 7 Jun 14:15; Thu 17 Jun 20:45; Wed 30 Jun 17:45<br>
+**Bitter Victory**<br>
+Sun 20 Jun 13:00; Mon 28 Jun 17:55<br>
+
+
+
+**BECOME A BFI MEMBER**<br>
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at **[bfi.org.uk/join](https://www.bfi.org.uk/become-bfi-member)**
+
+**BFI SOUTHBANK**<br>
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.
+
+We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.
+
+**BFI PLAYER**<br>
+We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on **[player.bfi.org.uk](https://player.bfi.org.uk/)**
+
+**Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at **[www.bfi.org.uk/signup](https://player.bfi.org.uk/)**
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
+
+
