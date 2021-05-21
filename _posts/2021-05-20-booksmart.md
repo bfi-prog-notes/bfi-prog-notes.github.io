@@ -64,7 +64,11 @@ USA 2019<br>
 
 <img style="float: left;" src="/img/flare-logo-2020-01.png" alt="Flare logo 2020" title="Flare logo 2020">
 <br><br><br><br><br><br><br><br>
-[**EVENTS & STRANDS**](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=previews&BOparam::WScontent::loadArticle::context_id=)<br>
+[**EVENTS & STRANDS**](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=previews&BOparam::WScontent::loadArticle::context_id=)
+
+
+
+**EVENTS & STRANDS**<br>
 **Member Exclusives: Booksmart**<br>
 Thu 20 May 18:10<br>
 **Woman with a Movie Camera: Rare Beasts + Q&A with writer-director Billie Piper**<br>
@@ -133,3 +137,6 @@ We are always open online on BFI Player where you can watch the best new, cult &
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg3NTc2Nzc4Ml19
+-->
