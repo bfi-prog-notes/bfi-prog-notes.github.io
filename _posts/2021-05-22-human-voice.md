@@ -19,6 +19,34 @@ It’s Swinton’s voice that reigns in this perfectly tailored space, carved wi
 
 As much as it is Almodóvar’s filmography in a nutshell, _The Human Voice_ is also a promise of new beginnings, exploring the short format and shooting in English (his upcoming projects even include plans for a western). Maybe that’s why, at the film’s end, he frames the open door of the film set, letting us, and his heroine, out onto a wide world of new possibility.
 **Elisabeth Cabeza, _Sight & Sound_, bfi.org.uk/sight-and-sound, 11 September 2020**
+
+<![endif]-->
+
+**EVENTS & STRANDS**
+
+**The Human Voice** + pre-recorded intro and Q&A with Pedro Almodóvar and Tilda Swinton
+
+Sat 22 May 15:00; Tue 1 Jun 18:20
+
+**Woman with a Movie Camera: Rare Beasts + Q&A with writer-director Billie Piper**
+
+Sat 22 May 17:15
+
+**Sheffield Doc/Fest**
+
+Fri 4 Jun 20:15
+
+**Preview: Doctor Who: Dragonfire**
+
+Sat 12 Jun 12:00
+
+**Relaxed Screenings: The Reason I Jump**
+
+Fri 18 Jun 14:30; Tue 22 Jun 18:10
+
+**Woman with a Movie Camera: Wildfire**
+
+Sun 20 Jun 18:40 (+ Q&A with director Cathy Brady); Mon 21 Jun 18:10; Tue 22 Jun 14:40; Wed 23 Jun 20:50; Thu 24 Jun 14:45
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTI2MjQ5Nl19
+eyJoaXN0b3J5IjpbNDg2MzUwMzhdfQ==
 -->
