@@ -95,7 +95,7 @@ Bill Duffy _(Kenny)_
 Mike Greene _(Reno dealer)_  
 Tom Signorelli _(Nugie)_  
 Sharon Compton _(Nugie’s wife)_  
-Arnold Herzstein, Alvin Weissman, Marc Cavell, Mickey Fox, Carolyn Lohmann _(California Club poker players)_  
+Arnold Herzstein, Alvin Weissman, Marc Cavell, Mickey Fox, Carolyn Lohmann<br>_(California Club poker players)_  
 ‘Amarillo Slim’ Preston, Winston Lee,  Harry Drackett, Thomas Hal Phillips, Ted Say,  A.J. Hood _(Reno poker players)_
 
 USA 1974©  
