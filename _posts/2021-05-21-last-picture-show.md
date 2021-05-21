@@ -57,14 +57,13 @@ I don’t know. I saw Jeff Bridges recently and we talked about _Picture Show_, 
 
 _Has it ever felt like a millstone?_
 
-No, I’m very proud of it. It’s the film of mine that people return to. Orson Welles and I were talking about Greta Garbo one time, and he was raving about her transcendent quality, and me being pedantic said, ‘Yes, but isn’t it too bad that there are only two great films?’ – thinking of _Ninotchka_ and _Camille_. He looked at me for a minute and said, ‘Peter, you only need one.’ I have my one.<br>
+No, I’m very proud of it. It’s the film of mine that people return to. Orson Welles and I were talking about Greta Garbo one time, and he was raving about her transcendent quality, and me being pedantic said, ‘Yes, but isn’t it too bad that there are only two great films?’ – thinking of _Ninotchka_ and _Camille_. He looked at me for a minute and said, ‘Peter, you only need one.’ I have my one.
 **Peter Bogdanovich interviewed by James Bell, _Sight & Sound_, May 2011**<br><br>
 
 
 
 
-**The Last Picture Show (director’s cut)**<br>
-_Directed by_: Peter Bogdanovich  
+**The Last Picture Show (director’s cut)**<br>_Directed by_: Peter Bogdanovich  
 ©: Last Picture Show Productions  
 _Production Company_: B.B.S. Productions  
 _Executive Producer_: Bert Schneider  
@@ -101,7 +100,7 @@ Bob Wills and His Texas Playboys, Eddy Arnold,
 Eddie Fisher, Phil Harris, Pee Wee King,
 Hank Snow, Tony Bennett, Lefty Frizzell,
 Frankie Laine, Johnnie Ray, Johnny Standley,
-Kay Starr, Hank Thompson, Webb Pierce, Jo Stafford  
+Kay Starr, Hank Thompson, Webb Pierce,Jo Stafford  
 _[Sound] Mixer_: Tom Overton  
 _Boom Man_: Dean Salmon  
 _Re-recording_: Producers Sound Service  
@@ -221,5 +220,5 @@ We are always open online on BFI Player where you can watch the best new, cult &
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1MjE5ODMwXX0=
+eyJoaXN0b3J5IjpbNDkxODkzMDE4LDQyNTIxOTgzMF19
 -->
