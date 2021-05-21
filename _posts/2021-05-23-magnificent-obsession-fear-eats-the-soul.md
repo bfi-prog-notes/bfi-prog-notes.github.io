@@ -24,6 +24,67 @@ Fassbinder circumscribes the movie’s area of interest by fading out on anythin
 **Tony Rayns, _Sight and Sound_, September 1974**
 
 
+
+**MAGNIFICENT OBSESSION**  
+_Director_: Douglas Sirk  
+_Production Companies_:  Universal Pictures Company,  Universal-International  
+_Producer_: Ross Hunter  
+_2nd Unit Director_: James C. Havens *  
+_Assistant Director_: William Holland  
+_2nd Assistant Director_: Gordon McLean *  
+_Screenplay_: Robert Blees  
+_Adaptation_: Wells Root  
+_Adapted from the screenplay by_: Sarah Y. Mason, Victor Heerman  
+_Based on the novel by_: Lloyd C. Douglas  
+_Director of Photography_: Russell Metty  
+_Technicolor Colour Consultant_: William Fritzsche  
+_Special Photography_: David S. Horsley  
+_Editor_: Milton Carruth  
+_Art Directors_: Bernard Herzbrun, Emrich Nicholson  
+_Set Decorators_: Russell A. Gausman, Ruby R. Levitt  
+_Gowns_: Bill Thomas  
+_Make-up_: Bud Westmore  
+_Hairstyles_: Joan St. Oegger  
+_Music_: Frank Skinner  
+_Music Director_: Joseph Gershenson  
+_Sound_: Leslie I. Carey, Corson Jowett
+
+**Cast**  
+Jane Wyman _(Helen Phillips)_  
+Rock Hudson _(Bob Merrick)_  
+Agnes Moorehead _(Nancy Ashford)_  
+Otto Kruger _(Edward Randolph)_  
+Barbara Rush _(Joyce Phillips)_  
+Gregg Palmer _(Tom Masterson)_  
+Paul Cavanagh _(Dr Henry Giraud)_  
+Sara Shane _(Valerie Daniels)_  
+Richard H. Cutting _(Dr Derwin Dodge)_  
+Judy Nugent _(Judy)_  
+Helen Kleeb _(Mrs Eden)_  
+Rudolph Anders _(Dr Albert Fuss)_  
+Fred Nurney _(Dr Laradetti)_  
+John Mylong _(Dr Emil Hofer)_  
+Alexander Campbell _(Dr Allan)_  
+Mae Clarke _(Mrs Miller)_  
+Harvey Grant _(Chris Miller)_  
+Joe Mell _(Dan)_  
+George Lynn _(Williams, the butler)_ *  
+Robert B. Williams _(Sergeant Burnham)_ *  
+Will White _(Sergeant Ames)_ *  
+Jack Kelly, Lee Roberts _(mechanics)_ *  
+Lisa Gaye, Kathleen O’Malley _(switchboard girls)_ *  
+William Leslie, Lance Fuller, Brad Jackson,  Myrna Hansen _(customer)_ *  
+Harold Dyrenforth _(Mr Jouvet)_ *  
+Norbert Schiller _(Julian Lang)_ *  
+Joy Hallward _(maid)_ *  
+Gail Bonney _(Phyllis)_ *  
+Lucille La Marr _(nurse)_ *
+
+USA 1954
+
+108 mins
+
+* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDI1MTg0OV19
+eyJoaXN0b3J5IjpbMTMzNjc0MzYzNV19
 -->
