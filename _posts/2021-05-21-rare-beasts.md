@@ -6,8 +6,7 @@ _Rare Beasts_ is a pitch black comedy and is Billie Piper’s directorial debut.
 
 **Director’s Statement**<br>
 
-It was important to me when making the film that the visual language of the film felt heightened and metaphorical. This is the world as Mandy sees it.  
-For example, the women tapping their heads is actually a style of therapy called ‘tapping’ or EFT. You tap your energy meridians whilst using positive affirmations. I used this once with little effect but it inspired that part of the film. I wanted to use the idea of a female chorus – much like in a Greek tragedy to illustrate the crisis I saw in women around me. It’s not just Mandy’s experience but a shared depression.
+It was important to me when making the film that the visual language of the film felt heightened and metaphorical. This is the world as Mandy sees it. For example, the women tapping their heads is actually a style of therapy called ‘tapping’ or EFT. You tap your energy meridians whilst using positive affirmations. I used this once with little effect but it inspired that part of the film. I wanted to use the idea of a female chorus – much like in a Greek tragedy to illustrate the crisis I saw in women around me. It’s not just Mandy’s experience but a shared depression.
 
 _Rare Beasts_ as a gritty English style of filmmaking would have been unbearable. That of course has its place but I wanted it to feel slightly more balletic with scenes crashing into each other at breakneck speed! That is how I feel we experience life now; lots of things happen to us all day long and we receive an enormous amount of information all day long and lots of it is quite threatening information, further adding to today’s anxiety epidemic.
 
