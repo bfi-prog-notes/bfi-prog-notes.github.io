@@ -11,8 +11,7 @@ For example, the women tapping their heads is actually a style of therapy called
 
 _Rare Beasts_ as a gritty English style of filmmaking would have been unbearable. That of course has its place but I wanted it to feel slightly more balletic with scenes crashing into each other at breakneck speed! That is how I feel we experience life now; lots of things happen to us all day long and we receive an enormous amount of information all day long and lots of it is quite threatening information, further adding to today’s anxiety epidemic.
 
-Everyone in this film is at the end of their rope. Niceties have failed the human race, small talk is done. When you live through nihilism – cynicism – hopelessness, your view of the world is not necessarily as it is but rather your projection. I wanted all the characters to speak frankly. I have known people in my life like this. If you’re from a working class background, there is a brutal shorthand, so this language doesn’t feel unfamiliar to me. In terms of Mandy and Pete – Mandy is a confused feminist, whenever she tries to take control and support the cause it’s always with a very confused approach.  
-For example, in the opening scene Mandy addresses #metoo in a clumsy assertive way. This may shock the audience but further proves my point that we as women can’t say certain things any more that aren’t seen to be ‘cause appropriate’ which to me feels oppressive. More oppression, but this time by the same sex.
+Everyone in this film is at the end of their rope. Niceties have failed the human race, small talk is done. When you live through nihilism – cynicism – hopelessness, your view of the world is not necessarily as it is but rather your projection. I wanted all the characters to speak frankly. I have known people in my life like this. If you’re from a working class background, there is a brutal shorthand, so this language doesn’t feel unfamiliar to me. In terms of Mandy and Pete – Mandy is a confused feminist, whenever she tries to take control and support the cause it’s always with a very confused approach. For example, in the opening scene Mandy addresses #metoo in a clumsy assertive way. This may shock the audience but further proves my point that we as women can’t say certain things any more that aren’t seen to be ‘cause appropriate’ which to me feels oppressive. More oppression, but this time by the same sex.
 
 The language I used in the film can be interpreted as hard work and it may well not be your thing; that is ok. However, I would encourage you to try and look beyond your initial reaction which may be ‘that’s offensive to women’; you might think differently or you might not. I encourage debate and conversation.  
 
@@ -120,6 +119,20 @@ Sat 12 Jun 12:00<br>
 Fri 18 Jun 14:30; Tue 22 Jun 18:10<br>
 **Woman with a Movie Camera: Wildfire**<br>
 Sun 20 Jun 18:40 (+ Q&A with director Cathy Brady); Mon 21 Jun 18:10; Tue 22 Jun 14:40; Wed 23 Jun 20:50; Thu 24 Jun 14:45<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDUxMjU2NV19
--->
+
+
+**BECOME A BFI MEMBER**<br>
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at **[bfi.org.uk/join](https://www.bfi.org.uk/become-bfi-member)**
+
+**BFI SOUTHBANK**<br>
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.<br>
+We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.
+
+**BFI PLAYER**<br>
+We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on **[player.bfi.org.uk](https://player.bfi.org.uk/)**
+
+**Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at **[www.bfi.org.uk/signup](https://player.bfi.org.uk/)**
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
