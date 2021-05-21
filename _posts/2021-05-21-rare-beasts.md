@@ -5,6 +5,7 @@ Mandy (Billie Piper) is a mother, a writer, a nihilist. Mandy is a modern woman 
 _Rare Beasts_ is a pitch black comedy and is Billie Piper’s directorial debut.
 
 **Director’s Statement**<br>
+
 It was important to me when making the film that the visual language of the film felt heightened and metaphorical. This is the world as Mandy sees it.  
 For example, the women tapping their heads is actually a style of therapy called ‘tapping’ or EFT. You tap your energy meridians whilst using positive affirmations. I used this once with little effect but it inspired that part of the film. I wanted to use the idea of a female chorus – much like in a Greek tragedy to illustrate the crisis I saw in women around me. It’s not just Mandy’s experience but a shared depression.
 
@@ -15,7 +16,9 @@ For example, in the opening scene Mandy addresses #metoo in a clumsy assertive w
 
 The language I used in the film can be interpreted as hard work and it may well not be your thing; that is ok. However, I would encourage you to try and look beyond your initial reaction which may be ‘that’s offensive to women’; you might think differently or you might not. I encourage debate and conversation.  
 The film is dedicated to ‘all my friends and all their woes’ because this film definitely deals with issues we’ve discussed as friends. I definitely think our generation can relate to the panic attack feeling of life and that many women my age can vouch for being confused by some of modern feminism.<br>
-**Billie Piper, Production notes**
+**
+
+Billie Piper, Production notes**
 
 **Billie Piper** is an award-winning British actress and household name. After a successful career as a chart-topping pop musician, Piper went on to play the Doctor’s assistant Rose Tyler in the BBC’s reinvention of _Doctor Who_ in 2005. She followed up her success by starring as the lead in _The Secret Diary of a Call Girl_, a hit TV series which she also supported as Executive Producer.
 
@@ -112,5 +115,5 @@ UK 2019
 
 _Courtesy of Republic Film Distribution_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDA5MDg2Nl19
+eyJoaXN0b3J5IjpbLTE2OTA2MDI5NDAsMjA5NDA5MDg2Nl19
 -->
