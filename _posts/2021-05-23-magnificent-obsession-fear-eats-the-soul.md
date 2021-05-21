@@ -73,18 +73,66 @@ Robert B. Williams _(Sergeant Burnham)_ *
 Will White _(Sergeant Ames)_ *  
 Jack Kelly, Lee Roberts _(mechanics)_ *  
 Lisa Gaye, Kathleen O’Malley _(switchboard girls)_ *  
-William Leslie, Lance Fuller, Brad Jackson,  Myrna Hansen _(customer)_ *  
+William Leslie, Lance Fuller, Brad Jackson,  Myrna Hansen _(customers)_ *  
 Harold Dyrenforth _(Mr Jouvet)_ *  
 Norbert Schiller _(Julian Lang)_ *  
 Joy Hallward _(maid)_ *  
 Gail Bonney _(Phyllis)_ *  
 Lucille La Marr _(nurse)_ *
 
-USA 1954
-
+USA 1954  
 108 mins
 
 * Uncredited
+
+
+
+**Fear Eats the Soul (Angst essen Seele auf)**  
+_A film by:_ Rainer Werner Fassbinder  
+_Production Company:_ Tango-Film (Munich)  
+_Producers:_ Michael Fengler, Rainer Werner Fassbinder *  
+_Unit Manager:_ Christian Hohoff  
+_Assistant Director:_ Rainer Langhans  
+_Screenplay:_ Rainer Werner Fassbinder *  
+_Director of Photography:_ Jürgen Jürges  
+_Lighting:_ Ekkehard Heinrich  
+_Camera Assistant:_ Thomas Schwan  
+_Stills Photography:_ Peter Gauhe  
+_Editor:_ Thea Eymèsz *  
+_Art Director:_ Rainer Werner Fassbinder *  
+_Make-up:_ Helga Kempke  
+_Sound:_ Fritz-Müller Scherz  
+_Cast:_
+
+Brigitte Mira _(Emmi Kurowski)_  
+El Hedi ben Salem _(Ali)_  
+Irm Hermann _(Krista)_  
+Elma Karlowa _(Mrs Kargus)_  
+Anita Bucher _(Mrs Ellis)_  
+Gusti Kreissl _(Paula)_  
+Doris Mathes _(grocer’s wife)_  
+Margit Symo _(Hedwig)_  
+Katharina Herberg _(girl in the bar)_  
+Peter Gauhe _(Bruno)_  
+Marquard Böhm _(Gruber, landlord’s son)_  
+Walter Sedlmayr _(Angermayer, grocer)_  
+Hannes Gromball _(Osteria head waiter)_  
+Hark Bohm _(doctor)_  
+Rudolf Waldemar Brem _(bar patron)_  
+Karl Scheydt _(Albert)_  
+Peter Moland _(chief garage mechanic)_  
+Barbara Valentin _(Barbara, landlady)_  
+Lilo Pempeit _(Mrs Münchmeyer)_ *  
+Rainer Werner Fassbinder  
+_(Eugen, Krista’s husband)_ *  
+Helga Ballhaus _(Yolanda)_ *  
+Kurt Raab _(foreman)_ *  
+Elisabeth Bertram _(Frieda)_ *  
+West Germany 1974
+
+94 mins
+
+* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjc0MzYzNV19
+eyJoaXN0b3J5IjpbMTkxMzQxMzU1MV19
 -->
