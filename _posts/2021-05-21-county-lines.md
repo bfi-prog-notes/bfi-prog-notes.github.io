@@ -47,15 +47,20 @@ As for visual influences, Blake references the abstract manner in which Japanese
 If _County Lines_ does contribute to a groundswell of awareness, what outcome is Blake ultimately hoping for? ‘There’s currently no national response to county lines. It needs a much more substantial, national response that looks at it from the ground up and that protects those most vulnerable,’ he says. ‘As a front-line youth worker I have seen it get worse, year after year,’ Blake continues. ‘I can’t do the job if you commission me for four or five weeks, just one hour a week, and expect me to tick all these educational boxes, as well as repair the family. You have to start taking what we do seriously … and that means money. So that’s what I would love, because if you look at the film, it comes back to that “acceptable loss” speech – that’s when the penny starts to drop with Tyler, and change becomes possible.’<br>
 **Henry Blake interviewed by Isabel Stevens, _Sight & Sound_, December 2020**
 
-
+<![endif]-->
 
 **County Lines**<br>
+
 _Directed by_: Henry Blake  
-_Production Companies_: Two Birds Entertainment, Loupe Films  
-_Executive Producers_: Christopher Granier-Deferre, Simona Hughes, Zoe Bamber, Pia Getty  
+_Production Companies_:  
+Two Birds Entertainment,: Loupe Films  
+_Executive Producers_:  
+Christopher Granier-Deferre,  
+Simona Hughes, Zoe Bamber, Pia Getty  
 _Produced by_: Victoria Bavister, David Broder  
 _Line Producer_: Dylan Rees  
-_Supervising Location Manager_: Sherylee Anne Housseib  
+_Supervising Location Manager_:  
+Sherylee Anne Housseib  
 _Location Manager_: Paul Harvey  
 _1st Assistant Director_: Joe Starrs  
 _2nd Assistant Director_: Sam Waddington  
@@ -65,7 +70,8 @@ _Casting Director_: Aisha Bywaters
 _Written by_: Henry Blake  
 _Cinematographer_: Sverre Sørdal  
 _1st Assistant Camera_: Richard O’Brien  
-_2nd Assistant Camera_: Ernest Tu, Joel Spence  
+_2nd Assistant Camera_: Ernest Tu,  
+Joel Spence  
 _Editor_: Paco Sweetman  
 _Production Designer_: Phoebe Darling  
 _Costume Designer_: Sharon Long  
@@ -73,7 +79,7 @@ _Hair & Make-up Designer_: Red Miller
 _Composer_: James Pickering  
 _Sound Designer_: Ben Baird
 
-**Cast:**    
+**_Cast:**  __:_  
 Conrad Khan _(Tyler)_  
 Ashley Madekwe _(Toni)_  
 Marcus Rutherford _(Sadiq)_  
@@ -96,34 +102,64 @@ Matt Piombino _(shop assistant)_
 Claire Lacey _(hotel manager)_
 
 UK 2019<br>
+
 90 mins<br>
 
 A BFI release
 
 
-**NEW RELEASES & RE-RELEASES**<br>
+**BECOME A BFI MEMBER**
+
+Enjoy a great package of film benefits including priority booking at  
+BFI Southbank and BFI Festivals.  
+Join today at bfi.org.uk/join
+
+NEW RELEASES & 
+
+RE-RELEASES**<br>
+
 **Ammonite**<br>
+
 From Mon 17 May<br>
+
 **Sound of Metal**<br>
+
 From Mon 17 May<br>
+
 **Nomadland**<br>
+
 From Mon 17 May<br>
+
 **First Cow**<br>
+
 From Fri 28 May<br>
+
 **After Love**<br>
+
 From Fri 4 Jun<br>
+
 **Fargo**<br>
+
 From Fri 11 Jun<br>
+
 **The Reason I Jump**<br>
+
 From Fri 18 Jun<br>
+
 **Nashville**<br>
+
 From Fri 25 Jun<br>
+
 **Ultraviolence**<br>
+
 From Sat 26 Jun<br>
+
 Sat 26 June 14:20 + Q&A with director Ken Fero and contributor Janet Alder<br>
 
 **BFI SOUTHBANK**<br>
+
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.<cr>
+
 We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.<br>
 
 **BECOME A BFI MEMBER**<br>
@@ -131,6 +167,7 @@ Enjoy a great package of film benefits including priority booking at  BFI Southb
   
 
 **BFI PLAYER**<br>
+
 We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on **[player.bfi.org.uk](https://player.bfi.org.uk/)**
 
 **Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at **[www.bfi.org.uk/signup](https://whatson.bfi.org.uk/Online/login.asp)**<br>
@@ -138,3 +175,6 @@ We are always open online on BFI Player where you can watch the best new, cult &
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY2OTE4NjE1M119
+-->
