@@ -1,1 +1,84 @@
 
+
+_Introduced by Tricia Tuttle, BFI Festivals Director (Friday 21 May only)._
+
+**David Byrne on ‘American Utopia’**  
+
+Thirty-six years after Talking Heads and director Jonathan Demme changed the idea of what a live concert film could be, with the kinetic _Stop Making Sense_ (1984), the band’s former frontman and elder statesman of alternative rock, David Byrne, is back to do it all over again.
+
+This time Spike Lee is in the director’s chair, capturing the acclaimed Broadway stage show of Byrne’s 2018 album _American Utopia_. In a captivating blast of positivity and creativity, Byrne and his 11-strong barefoot backing band race through 100 minutes of deftly choreographed set pieces, mixing Talking Heads classics – ‘Road to Nowhere’, ‘This Must Be the Place (Naive Melody)’, ‘Once in a Lifetime’ – with Byrne’s solo work.
+
+Though filmed in late 2019, the show’s themes are prescient: the treatment of Black Americans at the hands of US police and an impending election loom large – but so does hope for change.
+
+_Why did you want Spike Lee on this project?_
+
+We’ve never really worked together, but we’ve crossed paths a lot – so it was easy, I had his phone number! Also, because of a lot of the issues that are brought up in the show, I thought, ‘He’s gonna get this.’
+
+_When did you first meet?_
+
+It would have been in the 80s. In a sense we were coming up together on parallel paths, me in music, him in film and somehow I got invited to the premiere of _Do the Right Thing_… this was a really huge step in filmmaking; in the visual approach and the way he’s talking about issues. I felt that there was a lot of nuance in it. It wasn’t just a clear-cut didactic sermon.
+
+_Since filming are the two of you closer?_
+
+We’ve gone on bike rides together. He goes around Central Park; that’s kind of his go-to thing, so we meet up and do that.
+
+_You recorded two shows for the film – where was Spike during the performances?_
+
+In the basement of the theatre there were a bunch of monitors set up so he could see what all the cameras were getting. He’d be down there with the editor and then if there was a song he loved, we’d see him suddenly pop up in the aisle.
+
+_Why revisit the concert film format?_
+
+Like _Stop Making Sense_, I think it has an arc. There’s a beginning and a middle and an end. The lead character, that would be me, or whoever I’m playing, goes on a journey. You start in one place and you end up somewhere quite, quite different. I realised that this show, like that one, is not simply us just performing a series of songs, ending with our biggest hit. It’s really constructed to take the audience somewhere.
+
+_Did you learn anything from_ Stop Making Sense _that you put into action or avoided for this film?_
+
+Absolutely. Some of them were just really practical – if you put too much light on the audience, rather than capturing their Broadway babies: David Byrne  
+and Spike Lee excitement, they’ll clam up. Suddenly they’ll stop dancing.  
+That happened on one of the nights we were filming _Stop Making Sense_ and I realised: ‘OK, never do that again.’
+
+_In the show you cover ‘Hell You Talmbout’, a Janelle Monáe song about murdered Black Americans and police brutality. How do you feel knowing that things haven’t got any better since filming?_
+
+It’d be easy to get depressed about it, and say, ‘Why do we have to keep saying this over and over and over again.’ But since George Floyd and the demonstrations, I think there’s more of an awareness of injustices. It’s something people talk about and acknowledge more than they used to.  
+So, knock on wood, that might lead to action.
+
+_You also talk about asking people to register for the 2016 US election. Are you hoping your words will resonate for the 2020 race?_
+
+Exactly. There’s a lot of voter suppression and chicanery in this country, but if that can happen, I think we have a chance of people being heard and the concerns that they have being dealt with more than they have recently.
+
+_I notice you don’t tell people who to vote for._
+
+I’m determined to be non-partisan about it. I never want to tell people how to think, but I want you to participate.
+
+**David Byrne’s favourite film scores**
+
+**The Umbrellas of Cherbourg (1964)**  
+Composer: Michel Legrand
+
+‘Everybody’s singing all the time, describing very mundane situations and actions. So rather than the typical Hollywood or Broadway thing where everyone comes together for a big musical number, the music is really woven in in a different way.’
+
+**2001: A Space Odyssey (1968)**  
+Composer: Various
+
+‘I watched a documentary the other day on _2001_ – of course, [Kubrick] just picked things that existed, but now it’s impossible to think of those scenes without that music.’
+
+**One Flew over the Cuckoo’s Nest (1975)**  
+Composer: Jack Nitzsche
+
+‘There’s this beautiful theme – and it’s by a keyboard player and arranger who worked with The Rolling Stones and all these other groups. There was a musical saw that played the complete melody in one of the themes and the quavering sound was kind of perfect for the mental institution.’
+
+**Do the Right Thing (1989)**
+
+Composer: Bill Lee
+
+‘That had a great score – and used some pop songs too. At that point Spike was working with his dad [double-bass player Bill Lee]. He used to play with all the folk musicians in the 1960s but when Dylan had them all go electric, he refused and said, “No, this is my sound.”’
+
+**Under the Skin (2013)**
+
+Composer: Mica Levi
+
+‘Mica’s a young musician who’s done some really, really interesting scoring. It’s all about the mood and creating a very unsettling mood with sounds that you can’t readily identify. It’s not like, “Oh, here’s an orchestra or here’s a tinkling piano” – you don’t know what it is. It’s very ominous.’
+
+Interview by Leonie Cooper, _Sight & Sound_, December 2020
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA5NDYyMDA1NV19
+-->
