@@ -60,6 +60,42 @@ Of course I am very connected. I love _Pirosmani_ [1969]. I find that film very 
 **Interview by Jonathan Romney, _Sight & Sound_, May 2021**
 
 
+
+**BEGINNING**  
+_Director_: Dea Kulumbegashvili  
+©: First Picture, O.F.A., Zadig Films  
+_Production Companies_: First Picture, Office of Film Architecture  
+_In co-production with_: Zadig Films,  G.A. Films  
+_In association with_: Paradoxal Inc.  
+_Produced with the support of the_: Georgian National Film Centre  
+_Produced with the support of the  co-development scheme of the_: Netherlands Film Fund  
+_Produced with the support of the_:  Hubert Bals Fund,  Sam Spiegel International Film Lab  
+_Executive Produced by_:  Gaetan Rousseau, Carlos Reygadas  
+_Produced by_: Ilan Amouyal, David Zerat, Rati Oneli, Dea Kulumbegashvili,  
+Paul Rozenberg  
+_Written by_: Dea Kulumbegashvili,  Rati Oneli  
+_Cinematography_: Arseni Khachaturan  
+_Edited by_: Matthieu Taponier  
+_Production Designer_: Guram Navrozashvili  
+_Costume Designer_: Ketevan Kalandadze  
+_Music_: Nicolas Jaar  
+_Sound Design_: Séverin Favriau,  Emeline Aldeguer  
+_Stunt Co-ordinator_: David Khubua
+
+**Cast**  
+Ia Sukhitashvili _(Yana)_  
+Rati Oneli _(David)_  
+Kakha Kintsurashvili _(Alex)_  
+Saba Gogichaishvili _(Giorgi)_  
+Ia Kokiashvili _(mother)_  
+Mari Kopchenovi _(sister)_  
+William Dunbar _(American Jehovah’s Witness)_  
+Giorgi Tsereteli _(local policeman)_
+
+Georgia/France/Belgium/USA/Netherlands/Israel  
+2020©
+
+125 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzMTQ4NDIyXX0=
+eyJoaXN0b3J5IjpbLTExNzI4MjgyNzldfQ==
 -->
