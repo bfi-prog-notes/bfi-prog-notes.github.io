@@ -57,9 +57,9 @@ USA 1928©
 
 With Carl Davis score
 
-<![endif]-->
 
-BIG SCREEN CLASSICS
+
+**BIG SCREEN CLASSICS**
 
 **Persona**
 
@@ -145,5 +145,5 @@ Mon 7 Jun 14:15; Thu 17 Jun 20:45; Wed 30 Jun 17:45
 
 Sun 20 Jun 13:00; Mon 28 Jun 17:55
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzAzODg0OV19
+eyJoaXN0b3J5IjpbMTAyMDcxODM5OF19
 -->
