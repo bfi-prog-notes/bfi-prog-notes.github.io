@@ -37,9 +37,178 @@ So how does _Black Narcissus_ sit within this trend? It could be argued that Pow
 
 This is the film’s radical draw. It explains why, on the whole, it has aged incredibly well. Unlike other films in this guise or genre, this story of interlopers arriving to ‘better’ the locals is overtly aware of the fallacy in such a journey. For the sisters of _Black Narcissus_ know deep down that, in spite of their own good will in the long journey and fight to stay in the Himalayas, it is a foolish gesture.
 
-After all, such exotic landscapes already exist within themselves. The repressed, undiscovered country of their own pleasures ultimately proves far more devastating than the unsettling backdrop of the mountain range, dreamt up from afar.
+After all, such exotic landscapes already exist within themselves. The repressed, undiscovered country of their own pleasures ultimately proves far more devastating than the unsettling backdrop of the mountain range, dreamt up from afar.  
+**Adam Scovell, bfi.org.uk, May 2017**
 
-Adam Scovell, bfi.org.uk, May 2017
+
+
+**Black Narcissus**  
+_Directed by:_ Michael Powell, Emeric Pressburger  
+©_:_ Independent Producers  
+_Production Company:_ Archers Film Productions  
+_Produced by:_ Michael Powell,  Emeric Pressburger  
+_Assistant Producer:_ George R. Busby  
+
+_Assistant Director:_ Sydney S. Streeter
+
+_Written by:_ Michael Powell, Emeric Pressburger
+
+_Adapted from the novel by:_ Rumer Godden
+
+_Photographed in Technicolor by:_ Jack Cardiff
+
+_Colour Control:_ Natalie Kalmus
+
+_Associate:_ Joan Bridge
+
+_Process Shots:_ W. Percy Day
+
+_Editor:_ Reginald Mills
+
+_Production Designed by:_ Alfred Junge
+
+_Assistant Art Director:_ Arthur Lawson
+
+_Costumes:_ Hein Heckroth
+
+_Music/Sound Score Composed/Conducted by:_
+
+Brian Easdale
+
+_With:_ The London Symphony Orchestra
+
+_Sound:_ Stanley Lambourne
+
+_Dubbing Mixer:_ Gordon K. McCallum
+
+_Studios:_ Pinewood Studios,  D&P Studios
+
+_uncredited_
+
+_2nd Assistant Director:_ Kenneth Rick
+
+_3rd Assistant Directors:_ Lawrence G. Knight, Robert Lynn
+
+_Continuity:_ Winifred Dyer
+
+_Assistant Continuity:_ Joanna Busby
+
+_Casting Director:_ Adele Raymond
+
+_Assistant Casting:_ Patrick MacDonnell
+
+_Crowd Casting:_ Jerry Dereham, Bill Hahn
+
+_Camera Operators:_ Christopher Challis,
+
+Ted Scaife, Stan Sayers
+
+_Focus Pullers:_ Ian Craig, Ronald Cross
+
+_Clapper Loaders:_ Herbert Salisbury,  
+Michael Livesey
+
+_Technicolor Camera Assistant:_ Dick Allport
+
+_Lighting Electrician:_ Bill Wall
+
+_Chief Electrician:_ Harry Black
+
+_Colour_ _Stills:_ George Cannon
+
+_Monochrome Stills:_ Max Rosher
+
+_Portrait Stills:_ Fred Daniels
+
+_Matte Artist:_ Peter Ellenshaw
+
+_Special Effects Camera:_ Douglas Hague
+
+_Foreground Miniatures:_ Jack Higgins
+
+_Synthetic Pictorial Effects:_ Syd Pearson
+
+_1st Assistant Editor:_ Seymour Logie
+
+_2nd Assistant Editors:_ Lee Doig,  
+Noreen Ackland
+
+_Set Dresser:_ M.A.S. Pemberton
+
+_Scenic Artist:_ Ivor Beddoes
+
+_Art Department Trainee:_ R. Townsend
+
+_Indian Set Dresser:_ E. Harvison
+
+_Draughtsmen:_ Elliot Scott, Don Picton,
+
+William Kellner, J. Harman, G. Beattie,  
+Alan Harris
+
+_Chief Construction Manager:_ Harold Batchelor
+
+_Dress Supervisor:_ Elizabeth Hennings
+
+_Wardrobe Mistress:_ Dorothy Edwards
+
+_Wardrobe Master:_ Bob Raynor
+
+_Make-up:_ George Blackler
+
+_Assistant Make-up:_ Ernie Gasser
+
+_Hairdresser:_ Biddy Chrystal
+
+_Assistant Hairdresser:_ June Robinson
+
+_Music Recording:_ Ted Drake
+
+_Chief Production Mixer:_ John Dennis
+
+_Boom Operator:_ George Paternoster
+
+_Boom Assistant:_ Mick Stolovich
+
+_Dubbing Editor:_ John Seabourne Jr
+
+_Indian Liaison Officer:_ Kenneth Perry
+
+_Horticultural Consultant:_ Giles Loder
+
+_Cast:_
+
+Deborah Kerr _(Sister Clodagh)_
+
+Sabu _(Dilip Rai, the young general)_
+
+David Farrar _(Mr Dean)_
+
+Flora Robson _(Sister Philippa)_
+
+Esmond Knight _(the old general)_
+
+Jean Simmons _(Kanchi)_
+
+Kathleen Byron _(Sister Ruth)_
+
+Jenny Laird _(Sister ‘Honey’ Blanche)_
+
+Judith Furse _(Sister Briony)_
+
+May Hallatt _(Angu Ayah)_
+
+Eddie Whaley Jr _(Joseph Anthony)_
+
+Shaun Noble _(Con)_
+
+Nancy Roberts _(Mother Dorothea)_
+
+On Ley _(Phuba)_
+
+UK 1947©
+
+101 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5MjAwMDIzXX0=
+eyJoaXN0b3J5IjpbOTc3OTY1NDY2XX0=
 -->
