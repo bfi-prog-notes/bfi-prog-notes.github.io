@@ -5,8 +5,57 @@ The plot requires, for example, Buster to discover that the girl he loved back E
 
 Later, Buster arrives on a visit to his imprisoned father. Ernest Torrence, behind bars, writhing at the very sight of his own son, dominates the left foreground. In the middle ground, seen through the bars, stands the jailer, separating father and son in the depth of space precisely as in his professional function. In the background, framed in the doorway to the right, the light from outdoors setting him off with agonising clarity, stands a creature no father could acknowledge as his own: Buster in an ill-fitting work suit that dwarfs him utterly, an upturned umbrella looming above his head. Here once again the picture is the drama: with its three distinct planes so forcefully defined by the foreground bars and background wall, the shot exploits the depth of cinematic space as cannily as any in the Toland-Welles-Wyler canon.
 
-Keaton takes pleasure in other kinds of pictures as well, as when the wind blows the bedridden Buster through town. Placed dead centre in the long-shot frame, sitting bolt upright in the bed that only a moment before seemed safely moored in a hospital, he finds himself the object of scrutiny on the part of an odd new audience: on either side of him bemused horses gaze from their stalls at the prodigy that has just manifested itself in their stable. Unlike the images in the barber’s shop and jail, this lunatic version of a traditional Nativity performs no specific errand for Keaton’s plot. It is merely ideal of its kind.<br
-**E. Rubinstein, _Sight and Sound_, Autumn 1975
+Keaton takes pleasure in other kinds of pictures as well, as when the wind blows the bedridden Buster through town. Placed dead centre in the long-shot frame, sitting bolt upright in the bed that only a moment before seemed safely moored in a hospital, he finds himself the object of scrutiny on the part of an odd new audience: on either side of him bemused horses gaze from their stalls at the prodigy that has just manifested itself in their stable. Unlike the images in the barber’s shop and jail, this lunatic version of a traditional Nativity performs no specific errand for Keaton’s plot. It is merely ideal of its kind.<br>
+**E. Rubinstein, _Sight and Sound_, Autumn 1975**
+
+<![endif]-->
+
+**Steamboat Bill, Jr.**
+
+_Directed by:_ Chas. F. Reisner
+
+©_:_ Joseph M. Schenck
+
+_Production Company:_ Buster Keaton Productions
+
+_Distributed by:_ United Artists
+
+_Presented by:_ Joseph M. Schenck
+
+_Supervised by:_ Harry Brand
+
+_Assistant Director:_ Sandy Roth
+
+_Script/Titles:_ Carl Harbaugh
+
+_Photographed by:_ Dev Jennings, Bert Haines
+
+_Editor:_ J. Sherman Kell
+
+_Technical Director:_ Fred Gabourie
+
+_Assistant Technical Director:_ Sandy Roth
+
+_Stunt Double:_ Louise Keaton
+
+_Cast:_
+
+Buster Keaton _(Willie Canfield Jr, ‘Willie’)_
+
+Ernest Torrence  
+_(William Canfield Sr, ‘Steamboat Bill’)_
+
+Marion Byron _(Marion ‘Kitty’ King)_
+
+Tom Lewis _(Tom Carter, the first mate)_
+
+Tom McGuire _(John James King)_
+
+USA 1928©
+
+71 mins
+
+With Carl Davis score
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzM3MjA4Nl19
+eyJoaXN0b3J5IjpbMTEzNTE0NTgzNF19
 -->
