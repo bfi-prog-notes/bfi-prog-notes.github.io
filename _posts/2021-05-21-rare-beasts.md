@@ -118,7 +118,7 @@ UK 2019<br>
 
 _Courtesy of Republic Film Distribution_
 
-<img style="float: left;" src="/img/WWAMC.jpng" alt="WWAMC" title="WWAMC"><img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>
+<img style="float: left;" src="/img/WWAMC.jpng" alt="WWAMC" title="WWAMC">
 <br><br><br><br><br><br><br><br>
 
 **Woman with a Movie Camera is powered by Jaguar and generously supported by Jane Stanton**<br>
