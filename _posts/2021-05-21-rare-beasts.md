@@ -4,8 +4,7 @@ Mandy (Billie Piper) is a mother, a writer, a nihilist. Mandy is a modern woman 
 
 _Rare Beasts_ is a pitch black comedy and is Billie Piper’s directorial debut.
 
-**Director’s Statement**
-
+**Director’s Statement**<br>
 It was important to me when making the film that the visual language of the film felt heightened and metaphorical. This is the world as Mandy sees it.  
 For example, the women tapping their heads is actually a style of therapy called ‘tapping’ or EFT. You tap your energy meridians whilst using positive affirmations. I used this once with little effect but it inspired that part of the film. I wanted to use the idea of a female chorus – much like in a Greek tragedy to illustrate the crisis I saw in women around me. It’s not just Mandy’s experience but a shared depression.
 
@@ -15,13 +14,105 @@ Everyone in this film is at the end of their rope. Niceties have failed the huma
 For example, in the opening scene Mandy addresses #metoo in a clumsy assertive way. This may shock the audience but further proves my point that we as women can’t say certain things any more that aren’t seen to be ‘cause appropriate’ which to me feels oppressive. More oppression, but this time by the same sex.
 
 The language I used in the film can be interpreted as hard work and it may well not be your thing; that is ok. However, I would encourage you to try and look beyond your initial reaction which may be ‘that’s offensive to women’; you might think differently or you might not. I encourage debate and conversation.  
-The film is dedicated to ‘all my friends and all their woes’ because this film definitely deals with issues we’ve discussed as friends. I definitely think our generation can relate to the panic attack feeling of life and that many women my age can vouch for being confused by some of modern feminism.
-
-Billie Piper, Production notes
+The film is dedicated to ‘all my friends and all their woes’ because this film definitely deals with issues we’ve discussed as friends. I definitely think our generation can relate to the panic attack feeling of life and that many women my age can vouch for being confused by some of modern feminism.<br>
+**Billie Piper, Production notes**
 
 **Billie Piper** is an award-winning British actress and household name. After a successful career as a chart-topping pop musician, Piper went on to play the Doctor’s assistant Rose Tyler in the BBC’s reinvention of _Doctor Who_ in 2005. She followed up her success by starring as the lead in _The Secret Diary of a Call Girl_, a hit TV series which she also supported as Executive Producer.
 
-Her other work includes appearances in TV adaptations of Shakespeare’s _Much Ado about Nothing_ and Jane Austen’s _Mansfield Park_. Most recently, Piper won outstanding critical acclaim for her role in Garcia Lorca’s _Yerma_, winning among others the coveted Olivier Award for Best Actress, and making history as the only actress to have won all six of the available Best Actress awards for a single performance. _Rare Beasts_ is her directorial debut.
+Her other work includes appearances in TV adaptations of Shakespeare’s _Much Ado about Nothing_ and Jane Austen’s _Mansfield Park_. Most recently, Piper won outstanding critical acclaim for her role in Garcia Lorca’s _Yerma_, winning among others the coveted Olivier Award for Best Actress, and making history as the only actress to have won all six of the available Best Actress awards for a single performance. _Rare Beasts_ is her directorial debut.<br>
+
+
+**Rare Beasts**
+
+_Directed by_: Billie Piper  
+©: Rare Beasts Ltd  
+_A_ Western Edge Pictures _production_
+
+_Presented by_: Ffilm Cymru Wales,
+
+Fields Park Media Partners, Moffen Media,
+
+Warrior Film Productions  
+_Presented in association with_: 42MP  
+_Executive Producers_: Franki Goodwin, Will Kane,  
+Mike Rattenbury, Vaughan Sivell_,_ Eloise Singer, Luke Dundas, Paul Higgins, Ben Pugh,
+
+Billie Piper, Josh Varney, Jim Reeve,
+
+Robert Halmi, Jeff K. Clarke, Claire Lee,
+
+Stephen Wallace, Adam Partridge, Keith Potter  
+_Produced by_: Billie Piper, Vaughan Sivell  
+_Co-produced by_: Tom Wood  
+_Line Producer_: Jenna Mills  
+_Post-production Supervisor_: Karen Payne  
+_1st Assistant Director_: Simon Rooke  
+_Script Supervisor_: Marilyn Kirby  
+_Casting Director_: Shaheen Baig  
+_Casting by_: Shaheen Baig  
+_Script Adviser_: Lucy Prebble  
+_Director of Photography_: Patrick Meller  
+_Cam Op/Steadicam_: Tom Wilkinson  
+_Cam Op/Steadicam 2_: James Burgess  
+_VFX From_: Molinare  
+_SFX Supervisor_: Bob Thorne  
+_Editor_: Hazel Baillie  
+_Production Designer_: Sarah Kane  
+_Art Director_: Louise Corcoran  
+_Set Decorator_: Clementine Miller  
+_Hair and Make-up Artist_: Kat Morgan  
+_Title Design_: Bruno di Lucca  
+_Music by_: Johnny Lloyd, Nathan Coen  
+_Music Supervisor_: Jen Moss  
+_Choreographer_: Paul Roberts  
+_Sound Recordist_: Keith Tunney  
+_Supervising Sound Editor/Re-recording Mixer_: Markus Moll  
+_Dialogue Coach_: Jane Karen
+
+_Cast:_  
+Billie Piper _(Mandy)_  
+Leo Bill _(Pete)_  
+Kerry Fox _(Marion)_  
+Toby Woolf _(Larch)_  
+David Thewlis _(Vic)_  
+Hilary Agostini _(waitress)_  
+Alice Bailey Johnson _(Carly)_  
+Antonia Campbell-Hughes _(Cathy)_  
+Rosa Coduri _(Meredith)_  
+Jolyon Coy _(Woody)_  
+Mario Demetriou _(coffee shop guy)_  
+Benjamin Dilloway _(Larch's dad ‘Matthew’)_  
+Michael Elwyn _(Bertie)_  
+Leo Flanagan _(Robbo)_  
+Mariah Gale _(Vanessa)_  
+Meryl Griffiths _(Judith)_  
+Van Hu _(Tapper)_  
+Lily James _(Cressida)_  
+Monserrat Lombard _(Val)_  
+Karmen Lovell-Brooks _(gregarious 10 year old girl)_  
+Roisin Moore _(shouting woman)_  
+Jonjo O’Neill _(Dougie)_  
+Kathryn O'Reilly _(Chloe)_  
+Charlotte Randall _(Bless)_  
+Victoria Rose-Wilson _(wedding guest)_  
+Christopher Sciueref _(the priest)_  
+Nell Sternberg _(barista girl)_  
+Lucie Sword _(Evelyn)_  
+Emily Taaffe _(Becky)_  
+Trevor White _(Leonardo)_  
+Rosalyn Wright _(Emily)_  
+_street performers:_
+
+Bobby Bubbles Number _(bubble entertainer)_  
+Samantha Fowler _(juggler)_  
+Gala Monti _(Mrs Headless)_  
+William B. Tabares _(Mr Headless)_
+
+UK 2019
+
+87min
+
+_Courtesy of Republic Film Distribution_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0NDIyMzQ1XX0=
+eyJoaXN0b3J5IjpbMzc3NjM3NTM2XX0=
 -->
