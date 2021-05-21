@@ -28,9 +28,7 @@ The film shows profound compassion, but little in the way of heaped-on sentiment
 There is a maturity of analysis here; but the film’s stylistic daring turns it from able reportage into a startling piece of pure cinema. Colours, greens especially, are sickly enough to make your flesh crawl, creating an uneasy vision from everyday environs, and this defamiliarisation delivers stomach-knotting disquiet throughout – amplified by the score’s unsettling dissonances. Blake’s framing too often seems wider than we would expect, leaving the viewer with a cumulative sense of powerlessness that, perhaps counter-intuitively, intensifies involvement with the material.
 
 It takes a lot of nerve to hold everything back, as Blake does so successfully here, trusting in Khan’s arresting presence, by turns pitiful and threatening, to hold the attention. It’s a vindication for a truly independent production, set up outside the usual institutional support schemes, which has allowed an exciting, unexpected, unconventional new directorial voice to ring out so loud and clear.<br>
-**
-
-Trevor Johnston, _Sight & Sound_, May 2020**
+**Trevor Johnston, _Sight & Sound_, May 2020**
 
 Henry Blake’s background is in youth work; before making _County Lines_ he spent 11 years working with real-life victims of county lines drug operations. ‘In the last five years county lines has got more attention,’ he says ‘but it’s been going on for 15 years.’
 
