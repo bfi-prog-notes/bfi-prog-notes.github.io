@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: David Byrne's American Utopia
+published: true
+date: 2021-05-21
+readtime: true
+categories: ['DREAM PALACE - THE FILMS THAT CINEMAS WERE BUILT FOR']
+tags: [Music]
+metadata: 'USA, 2020, 105 mins<br> Director: Spike Lee'
+pdf: '2021-05-21-david-byrne's-american-utopia.pdf'
+---
 
 _Introduced by Tricia Tuttle, BFI Festivals Director (Friday 21 May only)._
 
@@ -33,8 +43,7 @@ Like _Stop Making Sense_, I think it has an arc. There’s a beginning and a mid
 _Did you learn anything from_ Stop Making Sense _that you put into action or avoided for this film?_
 
 Absolutely. Some of them were just really practical – if you put too much light on the audience, rather than capturing their Broadway babies: David Byrne  
-and Spike Lee excitement, they’ll clam up. Suddenly they’ll stop dancing.  
-That happened on one of the nights we were filming _Stop Making Sense_ and I realised: ‘OK, never do that again.’
+and Spike Lee excitement, they’ll clam up. Suddenly they’ll stop dancing. That happened on one of the nights we were filming _Stop Making Sense_ and I realised: ‘OK, never do that again.’
 
 _In the show you cover ‘Hell You Talmbout’, a Janelle Monáe song about murdered Black Americans and police brutality. How do you feel knowing that things haven’t got any better since filming?_
 
@@ -79,29 +88,90 @@ Composer: Mica Levi
 
 
 
-**David Byrne’s American Utopia**  
+**DAVID BYRNE'S AMERICAN UTOPIA**  
 _Directed by:_ Spike Lee  
 A Spike Lee joint  
 A Todomundo and Forty Acres and a Mule Filmworks production  
 An HBO Special Event in partnership with Participant, River Road Entertainment and  Warner Music Entertainment  
 _Executive Producers:_ Jeff Skoll, David Linde,  Diane Weyermann, Len Blavatnik, David Bither, Charlie Cohen, Kurt Deutsch, Bill Pohlad,  
-Christa Zofcin Workman, Jon Kamen,  Dave Sirulnick, Meredith Bennett, Kristin Caskey, Mike Isaacson, Patrick Catullo, RadicalMedia
-
-_Produced by:_ David Byrne, Spike Lee
-
-_Written by:_ David Byrne
-
-_Director of Photography:_ Ellen Kuras
-
-_Editor:_ Adam Gough
-
-_Choreography:_ Annie-B Parson
-
+Christa Zofcin Workman, Jon Kamen,  Dave Sirulnick, Meredith Bennett, Kristin Caskey, Mike Isaacson, Patrick Catullo, RadicalMedia  
+_Produced by:_ David Byrne, Spike Lee  
+_Written by:_ David Byrne  
+_Director of Photography:_ Ellen Kuras  
+_Editor:_ Adam Gough  
+_Choreography:_ Annie-B Parson  
 _Sound Mixer:_ Michael Lonsdale
 
-USA 2020
-
+USA 2020  
 105 mins
+
+**DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**  
+**Blow Out**<br>
+Mon 17 May 17:45 (+ intro by Ben Roberts, BFI CEO); Tue 1 Jun 20:40 <br>
+**The General**<br>
+Tue 18 May 18:10; Sat 29 May 12:45 (+ intro by Stuart Brown, BFI Head of Programme and Acquisitions)<br>
+**The Shout** + pre-recorded intro by Mark Jenkin<br>
+Wed 19 May 21:00; Thu 3 Jun<br>
+**The Cook, the Thief, His Wife & Her Lover**<br>
+Thu 20 May 17:30 (+ intro by Justin Johnson,  BFI Lead Programmer); Thu 24 Jun 20:30<br>
+**Footloose** + pre-recorded intro by Francis Lee<br>
+Thu 20 May 20:45; Sat 29 May 18:00<br>
+**Car Wash**<br>
+Fri 21 May 18:00 (+ intro by Gurinder Chadha); Mon 31 May 18:50<br>
+**David Byrne’s American Utopia**<br>
+Fri 21 May 20:45 (+ intro by Tricia Tuttle,  BFI Festival Director); Mon 14 Jun 18:00<br>
+**Beginning** + pre-recorded intro by Luca Guadagnino<br>
+Sat 22 May 11:30; Tue 22 Jun 20:30<br>
+**Black Narcissus**<br>
+Sat 22 May 14:20 (+ intro by Edgar Wright); Mon 7 Jun 17:50<br>
+**The Wonders (Le meraviglie)** + pre-recorded intro by Mark Cousins<br>
+Sat 22 May 15:15; Thu 3 Jun 20:30<br>
+**Hair** + pre-recorded intro by Kleber Mendonça Filho<br>
+Sat 22 May 20:30; Fri 28 May 17:45<br>
+**Magnificent Obsession** + **Fear Eats the Soul (Angst essen Seele auf)**<br>
+Sun 23 May 15:45 (+ intro by Heather Stewart, BFI Creative Director); Sun 6 Jun 18:40<br>
+**Beau Travail** + pre-recorded intro by  Kirsten Johnson<br>
+Sun 23 May 18:40; Sun 30 May 18:20<br>
+**Mirror (Zerkalo)** + pre-recorded intro by Malgorzata Szumowska<br>
+Mon 24 May 17:50; Wed 9 Jun 14:30<br>
+**Syndromes and a Century (Sang sattawat)** + pre-recorded intro by Chaitanya Tamhane<br>
+Mon 24 May 20:30; Sat 19 Jun 17:50<br>
+**Goodbye, Dragon** **Inn (Bú sàn)**<br>
+Wed 26 May 18:10 (+ intro by Peter Strickland); Wed 2 Jun 20:50<br>
+**The Gleaners & I (Les glaneurs et la glaneuse)** + pre-recorded intro by Zhu Shengze<br>
+Thu 27 May 18:15; Fri 26 Jun 14:30<br>
+**The Seventh Seal (Det sjunde inseglet)**<br>
+Fri 28 May 20:50 (+ intro by Mike Williams, Editor _Sight & Sound_); Wed 30 Jun 14:30<br>
+**Broadcast News**<br>
+Sun 30 May 15:40 (+ intro by Sarah Smith); Sat 19 Jun 20:20<br>
+**The Elephant Man** + pre-recorded intro by  Prano Bailey-Bond<br>
+Tue 15 Jun 17:45; Sat 19 Jun 12:00<br>
+**The Warriors**<br>
+Mon 21 Jun 18:00 (+ intro by Asif Kapadia); Mon 28 Jun 14:30<br>
+
+**In partnership with**  
+<img style="float: left;" src="/img/partner/sight-and-sound-01.png" alt="Sight & Sound" title="Sight & Sound"> 
+<br><br><br><br><br><br><br><br>
+<img align="left" style="float: left;" width="200" height="98" src="/img/partner/popcorn-shed-logo-01.png">
+<br><br><br><br><br><br><br><br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjQ0MTg5ODc5XX0=
 -->
