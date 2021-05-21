@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Magnificent Obsession + Fear Eats the Soul
+published: true
+date: 2021-05-23
+readtime: true
+categories: ['DREAM PALACE - THE FILMS THAT CINEMAS WERE BUILT FOR']
+tags: [Drama]
+metadata: 'USA, 1954, 108 mins | West Germany, 1974, 94 mins<br> Directors: Douglas Sirk, Rainer Werner Fassbinder'
+pdf: '2021-05-23-magnificent-obsession-fear-eats-the-soul.pdf'
+---
 
 _Introduction by Heather Stewart, BFI Creative Director (Sunday 23 May only)._
 
@@ -13,8 +23,7 @@ In Sirk’s soapier hands, the story reclaims its solemnity and gains in religio
 
 **Fear Eats the Soul**
 
-Like Rainer Werner Fassbinder’s other recent imitations of life, _Fear Eats the Soul_ achieves a remarkable balance between stylisation and realism.  
-The movie is an expansion/revision of a story told by a minor character in Fassbinder’s own _Der_ _amerikanische Soldat_ (1970) and also a revision/remake of Douglas Sirk’s _All That_ _Heaven Allows_ (1955). Its plot is an extraordinary mesh of low-key melodrama and social criticism. Emmi meets Ali when she takes shelter in a bar frequented by Moroccans, Germany’s most despised immigrants. To her surprise, her friendly overtures lead to a seduction and, soon after, to marriage; to her dismay, she is immediately ostracised by her neighbours, her three grown-up children, local tradesmen and her fellow-charwomen at work.
+Like Rainer Werner Fassbinder’s other recent imitations of life, _Fear Eats the Soul_ achieves a remarkable balance between stylisation and realism. The movie is an expansion/revision of a story told by a minor character in Fassbinder’s own _Der_ _amerikanische Soldat_ (1970) and also a revision/remake of Douglas Sirk’s _All That_ _Heaven Allows_ (1955). Its plot is an extraordinary mesh of low-key melodrama and social criticism. Emmi meets Ali when she takes shelter in a bar frequented by Moroccans, Germany’s most despised immigrants. To her surprise, her friendly overtures lead to a seduction and, soon after, to marriage; to her dismay, she is immediately ostracised by her neighbours, her three grown-up children, local tradesmen and her fellow-charwomen at work.
 
 Sirk’s movies proposed aesthetically viable solutions to the problem of commenting radically on society without alienating audiences; the use of melodrama as a device for preserving a distance from the action – a distance conducive to analysis; the stylistic use of bold artifice (colour expressionism and other formal contrivances) as a means of reducing possible areas of ambiguity. In other words, Sirk offered a variety of subversion that proceeded through a measured, clear-cut seduction of the audience’s susceptibilities. _Fear Eats the Soul_ begins like a fairy-tale: as in a dream, Emmi is lured into the Moroccan bar by the Arab music on its juke-box, and invited to dance for what is evidently the first time in many years. Stage by stage, everything that follows is hilariously – and agonisingly – predictable; Fassbinder plays on audience expectations so thoroughly that his exposition astonishes by its very exhaustiveness. The types of racial fear and prejudice are catalogued succinctly: the woman neighbour’s jealousy, the shopkeeper’s self-deluding one-upmanship, the children’s resentment, white workers’ contempt (Fassbinder himself contributes a sharp sketch of Emmi’s layabout son-in-law). The ambience is such that even the one sane response to Emmi’s marriage, from the landlord’s son, is faintly sinister in its inscrutable courtesy.
 
@@ -132,6 +141,74 @@ West Germany 1974
 94 mins
 
 * Uncredited
+
+**DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**  
+**Blow Out**<br>
+Mon 17 May 17:45 (+ intro by Ben Roberts, BFI CEO); Tue 1 Jun 20:40 <br>
+**The General**<br>
+Tue 18 May 18:10; Sat 29 May 12:45 (+ intro by Stuart Brown, BFI Head of Programme and Acquisitions)<br>
+**The Shout** + pre-recorded intro by Mark Jenkin<br>
+Wed 19 May 21:00; Thu 3 Jun<br>
+**The Cook, the Thief, His Wife & Her Lover**<br>
+Thu 20 May 17:30 (+ intro by Justin Johnson,  BFI Lead Programmer); Thu 24 Jun 20:30<br>
+**Footloose** + pre-recorded intro by Francis Lee<br>
+Thu 20 May 20:45; Sat 29 May 18:00<br>
+**Car Wash**<br>
+Fri 21 May 18:00 (+ intro by Gurinder Chadha); Mon 31 May 18:50<br>
+**David Byrne’s American Utopia**<br>
+Fri 21 May 20:45 (+ intro by Tricia Tuttle,  BFI Festival Director); Mon 14 Jun 18:00<br>
+**Beginning** + pre-recorded intro by Luca Guadagnino<br>
+Sat 22 May 11:30; Tue 22 Jun 20:30<br>
+**Black Narcissus**<br>
+Sat 22 May 14:20 (+ intro by Edgar Wright); Mon 7 Jun 17:50<br>
+**The Wonders (Le meraviglie)** + pre-recorded intro by Mark Cousins<br>
+Sat 22 May 15:15; Thu 3 Jun 20:30<br>
+**Hair** + pre-recorded intro by Kleber Mendonça Filho<br>
+Sat 22 May 20:30; Fri 28 May 17:45<br>
+**Magnificent Obsession** + **Fear Eats the Soul (Angst essen Seele auf)**<br>
+Sun 23 May 15:45 (+ intro by Heather Stewart, BFI Creative Director); Sun 6 Jun 18:40<br>
+**Beau Travail** + pre-recorded intro by  Kirsten Johnson<br>
+Sun 23 May 18:40; Sun 30 May 18:20<br>
+**Mirror (Zerkalo)** + pre-recorded intro by Malgorzata Szumowska<br>
+Mon 24 May 17:50; Wed 9 Jun 14:30<br>
+**Syndromes and a Century (Sang sattawat)** + pre-recorded intro by Chaitanya Tamhane<br>
+Mon 24 May 20:30; Sat 19 Jun 17:50<br>
+**Goodbye, Dragon** **Inn (Bú sàn)**<br>
+Wed 26 May 18:10 (+ intro by Peter Strickland); Wed 2 Jun 20:50<br>
+**The Gleaners & I (Les glaneurs et la glaneuse)** + pre-recorded intro by Zhu Shengze<br>
+Thu 27 May 18:15; Fri 26 Jun 14:30<br>
+**The Seventh Seal (Det sjunde inseglet)**<br>
+Fri 28 May 20:50 (+ intro by Mike Williams, Editor _Sight & Sound_); Wed 30 Jun 14:30<br>
+**Broadcast News**<br>
+Sun 30 May 15:40 (+ intro by Sarah Smith); Sat 19 Jun 20:20<br>
+**The Elephant Man** + pre-recorded intro by  Prano Bailey-Bond<br>
+Tue 15 Jun 17:45; Sat 19 Jun 12:00<br>
+**The Warriors**<br>
+Mon 21 Jun 18:00 (+ intro by Asif Kapadia); Mon 28 Jun 14:30<br>
+
+**In partnership with**  
+<img style="float: left;" src="/img/partner/sight-and-sound-01.png" alt="Sight & Sound" title="Sight & Sound"> 
+<br><br><br><br><br><br><br><br>
+<img align="left" style="float: left;" width="200" height="98" src="/img/partner/popcorn-shed-logo-01.png">
+<br><br><br><br><br><br><br><br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2NDc0NDExM119
 -->
