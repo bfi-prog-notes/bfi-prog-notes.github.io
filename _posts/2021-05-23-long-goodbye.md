@@ -28,63 +28,37 @@ And yet, 40 years changes things. _The Long Goodbye_ is a key film in Thom Ander
 
 
 **THE LONG GOODBYE**  
-_Directed by:_ Robert Altman<br>
-_©:_ United Artists Corporation<br>
-_Production Companies:_  United Artists Corporation, Lion’s Gate Films<br>
-_Presented by/Executive Producer:_ Elliott Kastner
+_Directed by:_ Robert Altman  
+_©:_ United Artists Corporation  
+_Production Companies:_  United Artists Corporation, Lion’s Gate Films  
+_Presented by/Executive Producer:_ Elliott Kastner  
+_Produced by:_ Jerry Bick  
+_Associate Producer:_ Robert Eggenweiler  
+_Production Assistant:_ Jean D’Oncieu  
+_Assistant Director:_ Tommy Thompson  
+_2nd Assistant Director:_ Alan Rudolph  
+_Script Supervisor:_ Adele Bravos  
+_Screenplay by:_ Leigh Brackett  
+_From the novel by:_ Raymond Chandler  
+_Photographed by:_ Vilmos Zsigmond  
+_Camera Operator:_ Joe Wilcots  
+_Key Grip:_ Ken Adams  
+_Electrical Gaffer:_ Randy Glass  
+_Edited by:_ Lou Lombardo  
+_Assistant Film Editors:_ Scott Conrad,  Tony Lombardo  
+_Property Master:_ Sidney Greenwood  
+_Make-up:_ Bill Miller  
+_Music by:_ John Williams  
+_Sound Engineer:_ John V. Speak  
+_Dubbing Mixer:_ Richard J. Vorisek  
+_With Special Remembrance for:_ Dan Blocker  
 
-_Produced by:_ Jerry Bick
-
-_Associate Producer:_ Robert Eggenweiler
-
-_Production Assistant:_ Jean D’Oncieu
-
-_Assistant Director:_ Tommy Thompson
-
-_2nd Assistant Director:_ Alan Rudolph
-
-_Script Supervisor:_ Adele Bravos
-
-_Screenplay by:_ Leigh Brackett
-
-_From the novel by:_ Raymond Chandler
-
-_Photographed by:_ Vilmos Zsigmond
-
-_Camera Operator:_ Joe Wilcots
-
-_Key Grip:_ Ken Adams
-
-_Electrical Gaffer:_ Randy Glass
-
-_Edited by:_ Lou Lombardo
-
-_Assistant Film Editors:_ Scott Conrad,  
-Tony Lombardo
-
-_Property Master:_ Sidney Greenwood
-
-_Make-up:_ Bill Miller
-
-_Music by:_ John Williams
-
-_Sound Engineer:_ John V. Speak
-
-_Dubbing Mixer:_ Richard J. Vorisek
-
-_With Special Remembrance for:_ Dan Blocker
-
-_uncredited_
-
-_Production Company:_ Elliott Kastner Corporation
-
-_Casting Director:_ Joan Tewkesbury
-
-_Men’s Wardrobe:_ Kent James
-
-_Women’s Wardrobe:_ Marjorie Wahl
-
-_Hairstylist:_ Lynda Gurasich
+_uncredited_  
+_Production Company:_ Elliott Kastner Corporation  
+_Casting Director:_ Joan Tewkesbury  
+_Men’s Wardrobe:_ Kent James  
+_Women’s Wardrobe:_ Marjorie Wahl  
+_Hairstylist:_ Lynda Gurasich  
 
 _Cast:_
 
@@ -155,5 +129,5 @@ USA 1973©
 
 112 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzYyNzg2Ml19
+eyJoaXN0b3J5IjpbMzQ1NTkyNzI0XX0=
 -->
