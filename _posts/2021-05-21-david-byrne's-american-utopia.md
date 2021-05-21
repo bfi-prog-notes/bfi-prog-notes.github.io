@@ -66,19 +66,42 @@ Composer: Jack Nitzsche
 
 ‘There’s this beautiful theme – and it’s by a keyboard player and arranger who worked with The Rolling Stones and all these other groups. There was a musical saw that played the complete melody in one of the themes and the quavering sound was kind of perfect for the mental institution.’
 
-**Do the Right Thing (1989)**
-
+**Do the Right Thing (1989)**  
 Composer: Bill Lee
 
 ‘That had a great score – and used some pop songs too. At that point Spike was working with his dad [double-bass player Bill Lee]. He used to play with all the folk musicians in the 1960s but when Dylan had them all go electric, he refused and said, “No, this is my sound.”’
 
-**Under the Skin (2013)**
-
+**Under the Skin (2013)**  
 Composer: Mica Levi
 
-‘Mica’s a young musician who’s done some really, really interesting scoring. It’s all about the mood and creating a very unsettling mood with sounds that you can’t readily identify. It’s not like, “Oh, here’s an orchestra or here’s a tinkling piano” – you don’t know what it is. It’s very ominous.’
+‘Mica’s a young musician who’s done some really, really interesting scoring. It’s all about the mood and creating a very unsettling mood with sounds that you can’t readily identify. It’s not like, “Oh, here’s an orchestra or here’s a tinkling piano” – you don’t know what it is. It’s very ominous.’  
+**Interview by Leonie Cooper, _Sight & Sound_, December 2020**
 
-Interview by Leonie Cooper, _Sight & Sound_, December 2020
+
+
+**David Byrne’s American Utopia**  
+_Directed by:_ Spike Lee  
+A Spike Lee joint  
+A Todomundo and Forty Acres and a Mule Filmworks production  
+An HBO Special Event in partnership with Participant, River Road Entertainment and  Warner Music Entertainment  
+_Executive Producers:_ Jeff Skoll, David Linde,  Diane Weyermann, Len Blavatnik, David Bither, Charlie Cohen, Kurt Deutsch, Bill Pohlad,  
+Christa Zofcin Workman, Jon Kamen,  Dave Sirulnick, Meredith Bennett, Kristin Caskey, Mike Isaacson, Patrick Catullo, RadicalMedia
+
+_Produced by:_ David Byrne, Spike Lee
+
+_Written by:_ David Byrne
+
+_Director of Photography:_ Ellen Kuras
+
+_Editor:_ Adam Gough
+
+_Choreography:_ Annie-B Parson
+
+_Sound Mixer:_ Michael Lonsdale
+
+USA 2020
+
+105 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDYyMDA1NV19
+eyJoaXN0b3J5IjpbNjQ0MTg5ODc5XX0=
 -->
