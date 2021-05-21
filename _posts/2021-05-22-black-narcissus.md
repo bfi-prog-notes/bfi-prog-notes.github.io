@@ -94,67 +94,39 @@ _Art Department Trainee:_ R. Townsend
 _Indian Set Dresser:_ E. Harvison  
 _Draughtsmen:_ Elliot Scott, Don Picton, William Kellner, J. Harman, G. Beattie, Alan Harris  
 _Chief Construction Manager:_ Harold Batchelor  
-_Dress Supervisor:_ Elizabeth Hennings
+_Dress Supervisor:_ Elizabeth Hennings  
+_Wardrobe Mistress:_ Dorothy Edwards  
+_Wardrobe Master:_ Bob Raynor  
+_Make-up:_ George Blackler  
+_Assistant Make-up:_ Ernie Gasser  
+_Hairdresser:_ Biddy Chrystal  
+_Assistant Hairdresser:_ June Robinson  
+_Music Recording:_ Ted Drake  
+_Chief Production Mixer:_ John Dennis  
+_Boom Operator:_ George Paternoster  
+_Boom Assistant:_ Mick Stolovich  
+_Dubbing Editor:_ John Seabourne Jr  
+_Indian Liaison Officer:_ Kenneth Perry  
+_Horticultural Consultant:_ Giles Loder  
 
-_Wardrobe Mistress:_ Dorothy Edwards
-
-_Wardrobe Master:_ Bob Raynor
-
-_Make-up:_ George Blackler
-
-_Assistant Make-up:_ Ernie Gasser
-
-_Hairdresser:_ Biddy Chrystal
-
-_Assistant Hairdresser:_ June Robinson
-
-_Music Recording:_ Ted Drake
-
-_Chief Production Mixer:_ John Dennis
-
-_Boom Operator:_ George Paternoster
-
-_Boom Assistant:_ Mick Stolovich
-
-_Dubbing Editor:_ John Seabourne Jr
-
-_Indian Liaison Officer:_ Kenneth Perry
-
-_Horticultural Consultant:_ Giles Loder
-
-_Cast:_
-
-Deborah Kerr _(Sister Clodagh)_
-
-Sabu _(Dilip Rai, the young general)_
-
-David Farrar _(Mr Dean)_
-
-Flora Robson _(Sister Philippa)_
-
-Esmond Knight _(the old general)_
-
-Jean Simmons _(Kanchi)_
-
-Kathleen Byron _(Sister Ruth)_
-
-Jenny Laird _(Sister ‘Honey’ Blanche)_
-
-Judith Furse _(Sister Briony)_
-
-May Hallatt _(Angu Ayah)_
-
-Eddie Whaley Jr _(Joseph Anthony)_
-
-Shaun Noble _(Con)_
-
-Nancy Roberts _(Mother Dorothea)_
-
+**Cast**  
+Deborah Kerr _(Sister Clodagh)_  
+Sabu _(Dilip Rai, the young general)_  
+David Farrar _(Mr Dean)_  
+Flora Robson _(Sister Philippa)_  
+Esmond Knight _(the old general)_  
+Jean Simmons _(Kanchi)_  
+Kathleen Byron _(Sister Ruth)_  
+Jenny Laird _(Sister ‘Honey’ Blanche)_  
+Judith Furse _(Sister Briony)_  
+May Hallatt _(Angu Ayah)_  
+Eddie Whaley Jr _(Joseph Anthony)_  
+Shaun Noble _(Con)_  
+Nancy Roberts _(Mother Dorothea)_  
 On Ley _(Phuba)_
 
-UK 1947©
-
+UK 1947©  
 101 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQ1NDk3OTBdfQ==
+eyJoaXN0b3J5IjpbMTQzMTc4NzI3OF19
 -->
