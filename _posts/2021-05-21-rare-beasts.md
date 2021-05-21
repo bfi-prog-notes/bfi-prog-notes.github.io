@@ -1,3 +1,14 @@
+---
+layout: post
+title: Rare Beasts
+published: true
+date: 2021-05-21
+readtime: true
+categories: ['WOMAN WITH A MOVIE CAMERA']
+tags: [Comedy]
+metadata: 'UK, 2019, 87 mins<br> Director: Billie Piper'
+pdf: '2021-05-21-rare-beasts.pdf'
+---
 _+ Q&A with writer-director Billie Piper (on Saturday 22 May only)._
 
 Mandy (Billie Piper) is a mother, a writer, a nihilist. Mandy is a modern woman in a crisis. Raising a son, Larch (Toby Woolf) in the midst of a female revolution, mining the pain of her parents’ separation and professionally writing about a love that no longer exists, she falls upon a troubled man, Pete (Leo Bill), who is searching for a sense of worth, belonging and ‘restored’ male identity.
@@ -28,7 +39,7 @@ _Directed by_: Billie Piper
 _A_ Western Edge Pictures _production_<br>
 _Presented by_: Ffilm Cymru Wales, Fields Park Media Partners, Moffen Media, Warrior Film Productions  
 _Presented in association with_: 42MP  
-_Executive Producers_: Franki Goodwin, Will Kane, Mike Rattenbury, Vaughan Sivell_,_ Eloise Singer, Luke Dundas, Paul Higgins, Ben Pugh, Billie Piper, Josh Varney, Jim Reeve, Robert Halmi, Jeff K. Clarke, Claire Lee, Stephen Wallace, Adam Partridge, Keith Potter  
+_Executive Producers_: Franki Goodwin, Will Kane, Mike Rattenbury, Vaughan Sivell, Eloise Singer, Luke Dundas, Paul Higgins, Ben Pugh, Billie Piper, Josh Varney, Jim Reeve, Robert Halmi, Jeff K. Clarke, Claire Lee, Stephen Wallace, Adam Partridge, Keith Potter  
 _Produced by_: Billie Piper, Vaughan Sivell  
 _Co-produced by_: Tom Wood  
 _Line Producer_: Jenna Mills  
@@ -99,8 +110,7 @@ UK 2019<br>
 
 _Courtesy of Republic Film Distribution_
 
-<img style="float: left;" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC">
-<br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC" width=18% height=18%>
 
 **Woman with a Movie Camera is powered by Jaguar and generously supported by Jane Stanton**<br>
 
