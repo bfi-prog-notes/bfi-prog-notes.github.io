@@ -42,7 +42,125 @@ If _County Lines_ does contribute to a groundswell of awareness, what outcome is
 
 **Henry Blake interviewed by Isabel Stevens, _Sight & Sound_, December 2020**
 
+<![endif]-->
 
+**County Lines**
+
+_Directed by_: Henry Blake  
+_Production Companies_:  
+Two Birds Entertainment,: Loupe Films  
+_Executive Producers_:  
+Christopher Granier-Deferre,  
+Simona Hughes, Zoe Bamber, Pia Getty  
+_Produced by_: Victoria Bavister, David Broder  
+_Line Producer_: Dylan Rees  
+_Supervising Location Manager_:  
+Sherylee Anne Housseib  
+_Location Manager_: Paul Harvey  
+_1st Assistant Director_: Joe Starrs  
+_2nd Assistant Director_: Sam Waddington  
+_3rd Assistant Director_: Penelope Berkemeier  
+_Script Supervisor_: Daniella Brandano  
+_Casting Director_: Aisha Bywaters  
+_Written by_: Henry Blake  
+_Cinematographer_: Sverre Sørdal  
+_1st Assistant Camera_: Richard O’Brien  
+_2nd Assistant Camera_: Ernest Tu,  
+Joel Spence  
+_Editor_: Paco Sweetman  
+_Production Designer_: Phoebe Darling  
+_Costume Designer_: Sharon Long  
+_Hair & Make-up Designer_: Red Miller  
+_Composer_: James Pickering  
+_Sound Designer_: Ben Baird
+
+_Cast__:_  
+Conrad Khan _(Tyler)_  
+Ashley Madekwe _(Toni)_  
+Marcus Rutherford _(Sadiq)_  
+Tabitha Milne-Price _(Aliyah)_  
+Harris Dickinson _(Simon)_  
+Anthony Adjekum _(Laurence)_  
+Chizzy Akudolu _(Sophie)_  
+Ebenezer Gyau _(Deontay)_  
+Carlyss Peer _(Bex)_  
+Stephen Leask _(Mr Matthews)_  
+Micah Loubon _(Khalid)_  
+Kashif Douglas _(Conway)_  
+Clay Milner-Russell _(Bailey)_  
+Alfie Darling _(Nick)_  
+Shauna Shim _(Briony)_  
+Chris Mamendyi _(Michael)_  
+Michael Oku _(Gabriel)_  
+David Tarkenter _(Steve Mitchell)_  
+Matt Piombino _(shop assistant)_  
+Claire Lacey _(hotel manager)_
+
+UK 2019
+
+90 mins
+
+A BFI release
+
+**BECOME A BFI MEMBER**
+
+Enjoy a great package of film benefits including priority booking at  
+BFI Southbank and BFI Festivals.  
+Join today at bfi.org.uk/join
+
+NEW RELEASES &
+
+RE-RELEASES
+
+**Ammonite**
+
+From Mon 17 May
+
+**Sound of Metal**
+
+From Mon 17 May
+
+**Nomadland**
+
+From Mon 17 May
+
+**First Cow**
+
+From Fri 28 May
+
+**After Love**
+
+From Fri 4 Jun
+
+**Fargo**
+
+From Fri 11 Jun
+
+**The Reason I Jump**
+
+From Fri 18 Jun
+
+**Nashville**
+
+From Fri 25 Jun
+
+**Ultraviolence**
+
+From Sat 26 Jun
+
+Sat 26 June 14:20 + Q&A with director Ken Fero and contributor Janet Alder
+
+**BFI SOUTHBANK**
+
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.
+
+We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.
+
+**BFI PLAYER**
+
+We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on player.bfi.org.uk
+
+**Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at www.bfi.org.uk/signup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDUyMTA0NjVdfQ==
+eyJoaXN0b3J5IjpbLTQ1MDY0MzU4Ml19
 -->
