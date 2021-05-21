@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: McCabe & Mrs. Miller
+published: true
+date: 2021-05-21
+readtime: true
+categories: ['ROBERT ALTMAN - AMERICAN OUTSIDER']
+tags: [Drama, Western]
+metadata: 'USA, 1971, 121 mins<br> Director: Robert Altman'
+pdf: '2021-05-18-a-wedding.pdf'
+---
 
 **SPOILER WARNING  The following notes give away some of the plot.**
 
