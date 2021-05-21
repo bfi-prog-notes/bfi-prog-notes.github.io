@@ -116,19 +116,7 @@ _Courtesy of Republic Film Distribution_
 
 
 **EVENTS & STRANDS**<br>
-**The Human Voice** + pre-recorded intro and Q&A with Pedro Almodóvar and Tilda Swinton<br>
-Sat 22 May 15:00; Tue 1 Jun 18:20<br>
-**Woman with a Movie Camera: Rare Beasts + Q&A with writer-director Billie Piper**<br>
-Sat 22 May 17:15<br>
-**Sheffield Doc/Fest**<br>
-Fri 4 Jun 20:15<br>
-**Preview: Doctor Who: Dragonfire**<br>
-Sat 12 Jun 12:00<br>
-**Relaxed Screenings: The Reason I Jump**<br>
-Fri 18 Jun 14:30; Tue 22 Jun 18:10<br>
-**Woman with a Movie Camera: Wildfire**<br>
-Sun 20 Jun 18:40 (+ Q&A with director Cathy Brady); Mon 21 Jun 18:10; Tue 22 Jun 14:40; Wed 23 Jun 20:50; Thu 24 Jun 14:45<br>
-
+**The Human Voice** + pre-recorded intro and Q&A with Pedro Almodóvar and Tilda Swinton<br>Sat 22 May 15:00; Tue 1 Jun 18:20<br>**Woman with a Movie Camera: Rare Beasts + Q&A with writer-director Billie Piper**<br>Sat 22 May 17:15<br>**Sheffield Doc/Fest**<br>Fri 4 Jun 20:15<br>**Preview: Doctor Who: Dragonfire**<br>Sat 12 Jun 12:00<br>**Relaxed Screenings: The Reason I Jump**<br>Fri 18 Jun 14:30; Tue 22 Jun 18:10<br>**Woman with a Movie Camera: Wildfire**<br>Sun 20 Jun 18:40 (+ Q&A with director Cathy Brady); Mon 21 Jun 18:10; Tue 22 Jun 14:40; Wed 23 Jun 20:50; Thu 24 Jun 14:45<br>
 
 **BECOME A BFI MEMBER**<br>
 Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at **[bfi.org.uk/join](https://www.bfi.org.uk/become-bfi-member)**
@@ -145,3 +133,7 @@ We are always open online on BFI Player where you can watch the best new, cult &
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ5MTgyOTkxOF19
+-->
