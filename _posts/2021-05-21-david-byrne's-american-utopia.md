@@ -7,7 +7,7 @@ readtime: true
 categories: ['DREAM PALACE - THE FILMS THAT CINEMAS WERE BUILT FOR']
 tags: [Music]
 metadata: 'USA, 2020, 105 mins<br> Director: Spike Lee'
-pdf: '2021-05-21-david-byrne's-american-utopia.pdf'
+pdf: '2021-05-21-david-byrnes-american-utopia.pdf'
 ---
 
 _Introduced by Tricia Tuttle, BFI Festivals Director (Friday 21 May only)._
