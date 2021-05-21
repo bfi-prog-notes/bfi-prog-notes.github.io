@@ -70,13 +70,11 @@ _Costume Designer_: Sharen Davis
 _Assistant Costume Designer_: Carol Cutshall  
 _Department Head Make-up_:  Tym Shutchai Buacharern  
 _Key Make-up Artist_: Judy Murdock  
-_Make-up Artists_: Martha Callender, Nicole Sortillon
+_Make-up Artists_: Martha Callender, Nicole Sortillon  
 _Department Head Hairstylist_: Camille Friend  
 _Key Hairstylist_: JoAnn Stafford-Chaney  
 _Hairstylist_: Brian Andrew  
-_End Title Sequence Designed/Produced by_:
-
-The Picture Mill  
+_End Title Sequence Designed/Produced by_: The Picture Mill  
 _End Title Sequence Lead Designer_: David Clayton  
 _Music by_: Henry Krieger  
 _Songs Arranged and Produced by_: Underdogs  
@@ -87,10 +85,7 @@ _Lyrics by_: Tom Eyen
 _Conductor_: Damon Intrabartolo  
 _Choirmaster_: Eric Dawkins  
 _Orchestrations_: Damon Intrabartolo  
-_Music Arrangers_: Harvey Mason Jr,  
-Damon Thomas, Randy Spendlove,
-
-Matt Sullivan, Tim Carmon, Harvey Mason  
+_Music Arrangers_: Harvey Mason Jr,  Damon Thomas, Randy Spendlove, Matt Sullivan, Tim Carmon, Harvey Mason  
 _Original Arrangements_: Stephen Trask  
 _Supervising Music Editor_: Paul Rabjohns  
 _Music Editor_: Jason Ruder  
@@ -106,8 +101,7 @@ _Stunt Co-ordinator_: Kevin Jackson
 _Unit Publicist_: Guy Adan  
 _Filmed at_: Los Angeles Center Studios
 
-_Cast:_
-
+**Cast**  
 Jamie Foxx _(Curtis Taylor Jr)_  
 Beyoncé Knowles _(Deena Jones)_  
 Eddie Murphy _(James ‘Thunder’ Early)_  
@@ -133,7 +127,7 @@ Dawnn Lewis _(Melba Early)_
 Jaleel White _(talent booker)_  
 JoNell Kennedy _(Joann)_  
 Sybyl Walker _(Charlene)_  
-Lesley Nicole Lewis_,_ Eboni Y. Nichols_,_ Ariké Rice_,_ Fatima Robinson _(Stepp Sisters)_  
+Lesley Nicole Lewis, Eboni Y. Nichols,  Ariké Rice_,_ Fatima Robinson _(Stepp Sisters)_  
 Aakomon ‘AJ’ Jones _(Little Albert)_  
 Barsheem Bernard Fowler_,_ Anwar ‘Flii Stylz’ Burton_,_ Tyrell Washington _(Tru-Tones)_  
 Rory O’Malley _(Dave)_  
@@ -155,5 +149,5 @@ Stephanie Owens _(Tania Williams)_
 USA 2006  
 120 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzEyNTY5M119
+eyJoaXN0b3J5IjpbMTMxMDE4MTAyNV19
 -->
