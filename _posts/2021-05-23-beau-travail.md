@@ -1,4 +1,4 @@
-<![endif]-->
+
 
 _With a pre-recorded introduction by director Kirsten Johnson._
 
@@ -20,12 +20,78 @@ A further significant tendency of 1990s cinema that’s identifiable in the make
 
 Whatever else is implied by the exhilarating and befuddling final sequence, in which Galoup dances alone in a mirrored nightclub to Corona’s ‘Rhythm of the Night’, it certainly points at a final bid for personal freedom – if one that’s ironically characterised by a cheesy club anthem and a mannered, self-regarding routine. Perhaps Galoup is dead. Perhaps, in imagining himself back at the nightclub in Djibouti, he has found release in recognising his own physical grace, instead of obsessing over that of Sentain: freedom through narcissism. Or perhaps he’s imagining an out gay life, in the only terms that his limited life experience provides.
 
-At its close, _Beau Travail_ is still inviting us to guess – to feel rather than learn the rhythms of its storytelling. It’s this audacious looseness, this elegant unfixability, that keeps Denis’s ‘beautiful work’ so fresh – and asserts it as one of cinema’s most compelling and original meditations on the need for, and simultaneous resistance to, intimacy.
-
-Hannah McGill, _Sight & Sound_, May 2012
-
+At its close, _Beau Travail_ is still inviting us to guess – to feel rather than learn the rhythms of its storytelling. It’s this audacious looseness, this elegant unfixability, that keeps Denis’s ‘beautiful work’ so fresh – and asserts it as one of cinema’s most compelling and original meditations on the need for, and simultaneous resistance to, intimacy.  
+**Hannah McGill, _Sight & Sound_, May 2012**
 
 
+
+
+_Director:_ Claire Denis  
+©/_A co-production of_: La Sept ARTE,  Tanaïs Com, SM Films  
+_With the participation of:_ CNC - Centre national de la cinématographie  
+_Presented by:_ La Sept ARTE, Unités de Programmes Fiction, Pierre Chevalier  
+_Producers:_ Jérôme Minet, Patrick Grandperret  
+_Unit Production Manager:_ Salem Brahimi  
+_Unit Manager (Djibouti):_ Ali Mohamed Hamadou  
+_Unit Manager (Marseilles):_ Bruno Mérieux  
+_Production Manager:_ Éric Zaouali  
+_Production Co-ordinator:_ Danielle Vaugon  
+_Collaboration/Choreography:_ Bernardo Montet
+
+_Assistant Directors:_ Jean-Paul Allègre,
+
+Moussah Hassan Moussah, Flore Rougier,  
+Murielle Iris
+
+_Actors Research:_ Nicolas Lublin
+
+_Screenplay:_ Jean-Pol Fargeau, Claire Denis
+
+_Director of Photography:_ Agnès Godard
+
+_Underwater Photographer:_ Patrick Grandperret
+
+_Editor:_ Nelly Quettier
+
+_Art Director:_ Arnaud de Moléron
+
+_Costumes:_ Judy Shrewsbury
+
+_Make-up:_ Danièle Vuarin
+
+_Music:_ Eran Tzur
+
+_Sound:_ Jean-Paul Mugel, Dominique Gaborieau
+
+_Sound Editor:_ Christophe Winding
+
+_Cast:_
+
+Denis Lavant _(Sergeant Galoup)_
+
+Michel Subor _(Commandant Bruno Forestier)_
+
+Grégoire Colin _(Gilles Sentain)_
+
+Richard Courcet, Nicolas Duvauchelle,
+
+Adiatou Massidi, Mickael Rakovski,
+
+Dan Herzberg, Giuseppe Molino,
+
+Gianfranco Poddighe, Marc Veh,
+
+Thong Duy Nguyen, Jean-Yves Vivet,
+
+Bernardo Montet, Dimitri Tsiapkinis,
+
+Djamel Zemali, Abdelkader Bouti _(the platoon)_
+
+Marta Tafesse Kassa _(young woman)_
+
+France 1998©
+
+93 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTU0NDEwNl19
+eyJoaXN0b3J5IjpbNTAyMzg1ODddfQ==
 -->
