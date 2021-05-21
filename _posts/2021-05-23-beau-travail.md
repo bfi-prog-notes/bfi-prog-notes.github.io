@@ -36,62 +36,30 @@ _Unit Manager (Djibouti):_ Ali Mohamed Hamadou
 _Unit Manager (Marseilles):_ Bruno Mérieux  
 _Production Manager:_ Éric Zaouali  
 _Production Co-ordinator:_ Danielle Vaugon  
-_Collaboration/Choreography:_ Bernardo Montet
+_Collaboration/Choreography:_ Bernardo Montet  
+_Assistant Directors:_ Jean-Paul Allègre, Moussah Hassan Moussah, Flore Rougier,  Murielle Iris  
+_Actors Research:_ Nicolas Lublin  
+_Screenplay:_ Jean-Pol Fargeau, Claire Denis  
+_Director of Photography:_ Agnès Godard  
+_Underwater Photographer:_ Patrick Grandperret  
+_Editor:_ Nelly Quettier  
+_Art Director:_ Arnaud de Moléron  
+_Costumes:_ Judy Shrewsbury  
+_Make-up:_ Danièle Vuarin  
+_Music:_ Eran Tzur  
+_Sound:_ Jean-Paul Mugel, Dominique Gaborieau  
+_Sound Editor:_ Christophe Winding  
 
-_Assistant Directors:_ Jean-Paul Allègre,
-
-Moussah Hassan Moussah, Flore Rougier,  
-Murielle Iris
-
-_Actors Research:_ Nicolas Lublin
-
-_Screenplay:_ Jean-Pol Fargeau, Claire Denis
-
-_Director of Photography:_ Agnès Godard
-
-_Underwater Photographer:_ Patrick Grandperret
-
-_Editor:_ Nelly Quettier
-
-_Art Director:_ Arnaud de Moléron
-
-_Costumes:_ Judy Shrewsbury
-
-_Make-up:_ Danièle Vuarin
-
-_Music:_ Eran Tzur
-
-_Sound:_ Jean-Paul Mugel, Dominique Gaborieau
-
-_Sound Editor:_ Christophe Winding
-
-_Cast:_
-
-Denis Lavant _(Sergeant Galoup)_
-
-Michel Subor _(Commandant Bruno Forestier)_
-
-Grégoire Colin _(Gilles Sentain)_
-
-Richard Courcet, Nicolas Duvauchelle,
-
-Adiatou Massidi, Mickael Rakovski,
-
-Dan Herzberg, Giuseppe Molino,
-
-Gianfranco Poddighe, Marc Veh,
-
-Thong Duy Nguyen, Jean-Yves Vivet,
-
-Bernardo Montet, Dimitri Tsiapkinis,
-
-Djamel Zemali, Abdelkader Bouti _(the platoon)_
-
-Marta Tafesse Kassa _(young woman)_
+**Cast**  
+Denis Lavant _(Sergeant Galoup)_  
+Michel Subor _(Commandant Bruno Forestier)_  
+Grégoire Colin _(Gilles Sentain)_  
+Richard Courcet, Nicolas Duvauchelle, Adiatou Massidi, Mickael Rakovski, Dan Herzberg, Giuseppe Molino, Gianfranco Poddighe, Marc Veh, Thong Duy Nguyen, Jean-Yves Vivet, Bernardo Montet, Dimitri Tsiapkinis, Djamel Zemali, Abdelkader Bouti _(the platoon)_  
+Marta Tafesse Kassa _(young woman)_  
 
 France 1998©
 
 93 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyMzg1ODddfQ==
+eyJoaXN0b3J5IjpbLTEzMzAzMDAyOV19
 -->
