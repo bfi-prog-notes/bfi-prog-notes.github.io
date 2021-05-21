@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Magnificent Obsession + Fear Eats the Soul
+title: Magnificent Obsession & Fear Eats the Soul
 published: true
 date: 2021-05-23
 readtime: true
