@@ -1,13 +1,13 @@
 ---
 layout: post
-title: David Byrne's American Utopia
+title: Footloose
 published: true
-date: 2021-05-21
+date: 2021-05-20
 readtime: true
 categories: ['DREAM PALACE - THE FILMS THAT CINEMAS WERE BUILT FOR']
-tags: [Music]
-metadata: 'USA, 2020, 105 mins<br> Director: Spike Lee'
-pdf: '2021-05-21-david-byrne's-american-utopia.pdf'
+tags: [Drama, Musical]
+metadata: 'USA, 1984, 107 mins<br> Director: Herbert Ross'
+pdf: '2021-05-20-Footloose.pdf'
 ---
 
 _Introduced by Tricia Tuttle, BFI Festivals Director (Friday 21 May only)._
