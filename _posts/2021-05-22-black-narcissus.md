@@ -48,48 +48,27 @@ _Directed by:_ Michael Powell, Emeric Pressburger
 _Production Company:_ Archers Film Productions  
 _Produced by:_ Michael Powell,  Emeric Pressburger  
 _Assistant Producer:_ George R. Busby  
+_Assistant Director:_ Sydney S. Streeter  
+_Written by:_ Michael Powell, Emeric Pressburger  
+_Adapted from the novel by:_ Rumer Godden  
+_Photographed in Technicolor by:_ Jack Cardiff  
+_Colour Control:_ Natalie Kalmus  
+_Associate:_ Joan Bridge  
+_Process Shots:_ W. Percy Day  
+_Editor:_ Reginald Mills  
+_Production Designed by:_ Alfred Junge  
+_Assistant Art Director:_ Arthur Lawson  
+_Costumes:_ Hein Heckroth  
+_Music/Sound Score Composed/Conducted by:_ Brian Easdale  
+_With:_ The London Symphony Orchestra  
+_Sound:_ Stanley Lambourne  
+_Dubbing Mixer:_ Gordon K. McCallum  
+_Studios:_ Pinewood Studios,  D&P Studios  
 
-_Assistant Director:_ Sydney S. Streeter
-
-_Written by:_ Michael Powell, Emeric Pressburger
-
-_Adapted from the novel by:_ Rumer Godden
-
-_Photographed in Technicolor by:_ Jack Cardiff
-
-_Colour Control:_ Natalie Kalmus
-
-_Associate:_ Joan Bridge
-
-_Process Shots:_ W. Percy Day
-
-_Editor:_ Reginald Mills
-
-_Production Designed by:_ Alfred Junge
-
-_Assistant Art Director:_ Arthur Lawson
-
-_Costumes:_ Hein Heckroth
-
-_Music/Sound Score Composed/Conducted by:_
-
-Brian Easdale
-
-_With:_ The London Symphony Orchestra
-
-_Sound:_ Stanley Lambourne
-
-_Dubbing Mixer:_ Gordon K. McCallum
-
-_Studios:_ Pinewood Studios,  D&P Studios
-
-_uncredited_
-
-_2nd Assistant Director:_ Kenneth Rick
-
-_3rd Assistant Directors:_ Lawrence G. Knight, Robert Lynn
-
-_Continuity:_ Winifred Dyer
+_uncredited_  
+_2nd Assistant Director:_ Kenneth Rick  
+_3rd Assistant Directors:_ Lawrence G. Knight, Robert Lynn  
+_Continuity:_ Winifred Dyer  
 
 _Assistant Continuity:_ Joanna Busby
 
@@ -210,5 +189,5 @@ UK 1947©
 
 101 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3OTY1NDY2XX0=
+eyJoaXN0b3J5IjpbMTY5MTgwMTgwXX0=
 -->
