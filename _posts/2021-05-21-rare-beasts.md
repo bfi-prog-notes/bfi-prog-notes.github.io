@@ -11,8 +11,7 @@ For example, the women tapping their heads is actually a style of therapy called
 
 _Rare Beasts_ as a gritty English style of filmmaking would have been unbearable. That of course has its place but I wanted it to feel slightly more balletic with scenes crashing into each other at breakneck speed! That is how I feel we experience life now; lots of things happen to us all day long and we receive an enormous amount of information all day long and lots of it is quite threatening information, further adding to today’s anxiety epidemic.
 
-Everyone in this film is at the end of their rope. Niceties have failed the human race, small talk is done. When you live through nihilism – cynicism – hopelessness, your view of the world is not necessarily as it is but rather your projection. I wanted all the characters to speak frankly. I have known people in my life like this. If you’re from a working class background, there is a brutal shorthand, so this language doesn’t feel unfamiliar to me. In terms of Mandy and Pete – Mandy is a confused feminist, whenever she tries to take control and support the cause it’s always with a very confused approach.  
-For example, in the opening scene Mandy addresses #metoo in a clumsy assertive way. This may shock the audience but further proves my point that we as women can’t say certain things any more that aren’t seen to be ‘cause appropriate’ which to me feels oppressive. More oppression, but this time by the same sex.
+Everyone in this film is at the end of their rope. Niceties have failed the human race, small talk is done. When you live through nihilism – cynicism – hopelessness, your view of the world is not necessarily as it is but rather your projection. I wanted all the characters to speak frankly. I have known people in my life like this. If you’re from a working class background, there is a brutal shorthand, so this language doesn’t feel unfamiliar to me. In terms of Mandy and Pete – Mandy is a confused feminist, whenever she tries to take control and support the cause it’s always with a very confused approach. For example, in the opening scene Mandy addresses #metoo in a clumsy assertive way. This may shock the audience but further proves my point that we as women can’t say certain things any more that aren’t seen to be ‘cause appropriate’ which to me feels oppressive. More oppression, but this time by the same sex.
 
 The language I used in the film can be interpreted as hard work and it may well not be your thing; that is ok. However, I would encourage you to try and look beyond your initial reaction which may be ‘that’s offensive to women’; you might think differently or you might not. I encourage debate and conversation.  
 
@@ -28,11 +27,9 @@ Her other work includes appearances in TV adaptations of Shakespeare’s _Much A
 _Directed by_: Billie Piper  
 ©: Rare Beasts Ltd  
 _A_ Western Edge Pictures _production_<br>
-_Presented by_: Ffilm Cymru Wales, 
-Fields Park Media Partners, Moffen Media, Warrior Film Productions  
+_Presented by_: Ffilm Cymru Wales, Fields Park Media Partners, Moffen Media, Warrior Film Productions  
 _Presented in association with_: 42MP  
-_Executive Producers_: Franki Goodwin, Will Kane,  
-Mike Rattenbury, Vaughan Sivell_,_ Eloise Singer, Luke Dundas, Paul Higgins, Ben Pugh, Billie Piper, Josh Varney, Jim Reeve, Robert Halmi, Jeff K. Clarke, Claire Lee, Stephen Wallace, Adam Partridge, Keith Potter  
+_Executive Producers_: Franki Goodwin, Will Kane, Mike Rattenbury, Vaughan Sivell_,_ Eloise Singer, Luke Dundas, Paul Higgins, Ben Pugh, Billie Piper, Josh Varney, Jim Reeve, Robert Halmi, Jeff K. Clarke, Claire Lee, Stephen Wallace, Adam Partridge, Keith Potter  
 _Produced by_: Billie Piper, Vaughan Sivell  
 _Co-produced by_: Tom Wood  
 _Line Producer_: Jenna Mills  
