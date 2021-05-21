@@ -1,7 +1,17 @@
+---
+layout: post
+title: The Last Picture Show
+published: true
+date: 2021-05-21
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'USA, 1971, 126 mins<br> Director: Peter Bogdanovich'
+pdf: '2021-05-21-last-picture-show.pdf'
+---
 **SPOILER WARNING The following notes give away some of the plot.**
 
-Released in 1971 amidst the dope-fuelled rush of the New Hollywood,  
-Peter Bogdanovich’s second feature _The Last Picture Show_ was in many ways an out-of-time anomaly. With its black-and-white photography, gentle pace, period setting and formal classicism, it was closer to the work of critic and film historian Bogdanovich’s mentors John Ford and Howard Hawks than it was to that of his New Wave-inspired peers at the BBS production company. But it was immediately embraced as a modern classic – _Newsweek_ wrote that it was ‘the most important work by a young American director since _Citizen_ _Kane_’ – propelling Bogdanovich at a stroke into the front rank of US filmmakers.
+Released in 1971 amidst the dope-fuelled rush of the New Hollywood, Peter Bogdanovich’s second feature _The Last Picture Show_ was in many ways an out-of-time anomaly. With its black-and-white photography, gentle pace, period setting and formal classicism, it was closer to the work of critic and film historian Bogdanovich’s mentors John Ford and Howard Hawks than it was to that of his New Wave-inspired peers at the BBS production company. But it was immediately embraced as a modern classic – _Newsweek_ wrote that it was ‘the most important work by a young American director since _Citizen_ _Kane_’ – propelling Bogdanovich at a stroke into the front rank of US filmmakers.
 
 Adapted from a novel by Larry McMurtry, the film takes place in a small Texas town over the course of a year (from October 1951 to October 1952), following the relationships and entanglements of its inhabitants, both school kids on the cusp of graduation – played by then newcomers Jeff Bridges, Cybill Shepherd, Randy Quaid and Timothy Bottoms – and their elders, played by Ellen Burstyn, Ben Johnson and Eileen Brennan.
 
@@ -10,6 +20,7 @@ The film is an elegy at once for a period in history, for a time in one’s life
 The Last Picture Show _was made for Bob Rafelson and Bert Schneider’s legendary BBS, who were the vanguard of the New Hollywood at the start of the 1970s. Did you feel part of that movement?_
 
 You’re never fully aware you’re part of something when you’re in the middle of it, but I did dimly recognise that we were moving into a new era.  
+
 What happened was that Henry Jaglom was friendly with Bert Schneider and Bob Rafelson, because he’d helped them edit _Easy Rider_. Henry saw [Bogdanovich’s 1967 debut] _Targets_, and brought it to the attention of Bert and Bob. They liked it very much, and said to me that if there was anything I wanted to make, I should bring it to them.
 
 Later on I was told that Bob and Bert had a bit of a disagreement about doing the picture with me after they had dinner with me and my wife at the time, Polly Platt, because we were not into grass or cocaine or anything. Bert said to Bob, ‘They’re so square. Are you sure we should do the picture?’ Bob said, ‘Look, we’ve got enough crazies around. We should do it.’ They encouraged me to add bad language and all of that, and I somewhat reluctantly embraced that – if I was going to do this story about teenage lust and love, we’d better tell it honestly. Most of the sex in the picture is really funny rather than erotic – as teenage love often is.
@@ -24,8 +35,7 @@ I guess it must have had some western reverberations with me, but I wasn’t thi
 
 _Other cinephile directors – Scorsese, for instance – very openly borrow particular shots from their influences. Is this something you did on_ The Last Picture Show_?_
 
-Not really. But I learned the technique and craft of making movies from watching classic American cinema. Hitchcock once said to me: ‘Never use an establishing shot to establish. Why? Because it has no dramatic meaning.  
-Only use it when it has dramatic meaning in the story.’
+Not really. But I learned the technique and craft of making movies from watching classic American cinema. Hitchcock once said to me: ‘Never use an establishing shot to establish. Why? Because it has no dramatic meaning. Only use it when it has dramatic meaning in the story.’
 
 I took that advice on _Picture Show_ – for example in Sam’s funeral scene. It’s all played in very close shots – until the last shot, when Ellen Burstyn’s character walks away, and we drop back and show what would normally be an establishing shot, with the great open sky above them. It has much more power at that point because you’re invested emotionally.
 
@@ -46,11 +56,12 @@ I don’t know. I saw Jeff Bridges recently and we talked about _Picture Show_, 
 _Has it ever felt like a millstone?_
 
 No, I’m very proud of it. It’s the film of mine that people return to. Orson Welles and I were talking about Greta Garbo one time, and he was raving about her transcendent quality, and me being pedantic said, ‘Yes, but isn’t it too bad that there are only two great films?’ – thinking of _Ninotchka_ and _Camille_. He looked at me for a minute and said, ‘Peter, you only need one.’ I have my one.<br>
-**Peter Bogdanovich interviewed by James Bell, _Sight & Sound_, May 2011**
+**Peter Bogdanovich interviewed by James Bell, _Sight & Sound_, May 2011**<br><br>
 
 
 
-**The Last Picture Show (director’s cut)**
+
+**The Last Picture Show (director’s cut)**<br>
 _Directed by_: Peter Bogdanovich  
 ©: Last Picture Show Productions  
 _Production Company_: B.B.S. Productions  
@@ -94,7 +105,7 @@ _Boom Man_: Dean Salmon
 _Re-recording_: Producers Sound Service  
 _Sound Effects_: Inc Edit-Rite
 
-**Cast:** 
+**Cast:**<br>
 Timothy Bottoms _(Sonny Crawford)_  
 Jeff Bridges _(Duane Jackson)_  
 Cybill Shepherd _(Jacy Farrow)_  
@@ -143,8 +154,67 @@ George Gaulden _(cowboy)_
 Will Morris Hannis _(gas station man)_  
 The Leon Miller Band _(musicians)_
 
-USA 1971
-126 mins
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzk4NzkxXX0=
--->
+USA 1971<br>
+126 mins<br><br>
+
+**BIG SCREEN CLASSICS**  
+**Persona**  
+Mon 17 May 14:30; Fri 28 May 21:00; Wed 2 Jun 18:10 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large) Mon 28 Jun 21:00  
+**Touch of Evil**  
+Tue 18 May 14:30; Mon 31 May 12:45; Sat 5 Jun 17:50; Sun 20 Jun 18:15  
+**The Tango Lesson**  
+Tue 18 May 20:45; Wed 9 Jun 17:50 (+ pre-recorded intro by So Mayer, author of &#39;The Cinema of Sally Potter&#39;)  
+**Citizen Kane**  
+Wed 19 May 18:00; Sun 30 May 12:40; Mon 21 Jun 20:45  
+**L&#39;eclisse (The Eclipse)**  
+Thu 20 May 14:15; Sat 5 Jun 12:10; Tue 15 Jun 17:50  
+**La Haine**  
+Thu 20 May 17:50; Sat 29 May 21:00; Wed 16 Jun 21:00; Fri 18 Jun 20:40  
+**The Last Picture Show (Director&#39;s Cut)**  
+Fri 21 May 20:30; Mon 31 May 12:50; Mon 7 Jun 17:45  
+**Steamboat Bill, Jr.**  
+Sat 22 May 12:00; Thu 3 Jun 14:30; Tue 22 Jun 18:30  
+**Raging Bull**  
+Sat 22 May 14:40; Sun 30 May 15:30; Tue 1 Jun 17:30  
+**Cleo from 5 to 7 Cléo de 5 à 7**  
+Sat 22 May 21:00; Thu 10 Jun 21:00; Mon 21 Jun 14:30  
+**The Big City (Mahanagar)**  
+Sun 23 May 12:10; Wed 23 Jun 17:40  
+**The Gospel According to Matthew (Il vangelo secondo Matteo)**  
+Sun 23 May 15:20; Thu 24 Jun 17:40  
+**The Night of the Hunter**  
+Mon 24 May 14:30; Tue 8 Jun 20:50; Wed 16 Jun 18:15 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large)  
+**The Killers** + pre-recorded intro by Imogen Sara Smith, author of &#39;In Lonely Places: Film Noir beyond the City&#39;  
+Tue 25 May 20:30; Tue 8 Jun 14:30; Wed 23 Jun 17:50  
+**Alice in the Cities (Alice in den Städten)**  
+Wed 26 May 17:50; Tue 1 Jun 14:30; Fri Jun 25 20:45  
+**Eraserhead**  
+Thu 27 May 18:20; Mon 14 Jun 21:00; Thu 24 Jun 21:10  
+**Man Hunt**  
+Fri 28 May 18:10; Sat 12 Jun 16:00; Tue 29 Jun 14:15  
+**Sweet Smell of Success**  
+Fri 4 Jun 15:00; Sun 13 Jun 15:45; Sat 26 Jun 11:40  
+**The Man Who Wasn&#39;t There**  
+Fri 4 Jun 17:50; Sun 27 Jun 18:20  
+**The White Ribbon (Das weisse Band)**  
+Sun 6 Jun 18:10; Sat 26 Jun 16:30  
+**Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King&#39;s College London  
+Mon 7 Jun 14:15; Thu 17 Jun 20:45; Wed 30 Jun 17:45  
+**Bitter Victory**  
+Sun 20 Jun 13:00; Mon 28 Jun 17:55  
+
+**BECOME A BFI MEMBER**<br>
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at **[bfi.org.uk/join](https://www.bfi.org.uk/become-bfi-member)**
+
+**BFI SOUTHBANK**<br>
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.<br>
+We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.
+
+**BFI PLAYER**<br>
+We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on **[player.bfi.org.uk](https://player.bfi.org.uk/)**
+
+**Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at **[www.bfi.org.uk/signup](https://player.bfi.org.uk/)**
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
