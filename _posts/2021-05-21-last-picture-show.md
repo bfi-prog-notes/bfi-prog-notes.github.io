@@ -11,7 +11,8 @@ pdf: '2021-05-21-last-picture-show.pdf'
 ---
 **SPOILER WARNING The following notes give away some of the plot.**
 
-Released in 1971 amidst the dope-fuelled rush of the New Hollywood, Peter Bogdanovich’s second feature _The Last Picture Show_ was in many ways an out-of-time anomaly. With its black-and-white photography, gentle pace, period setting and formal classicism, it was closer to the work of critic and film historian Bogdanovich’s mentors John Ford and Howard Hawks than it was to that of his New Wave-inspired peers at the BBS production company. But it was immediately embraced as a modern classic – _Newsweek_ wrote that it was ‘the most important work by a young American director since _Citizen_ _Kane_’ – propelling Bogdanovich at a stroke into the front rank of US filmmakers.
+Released in 1971 amidst the dope-fuelled rush of the New Hollywood,  
+Peter Bogdanovich’s second feature _The Last Picture Show_ was in many ways an out-of-time anomaly. With its black-and-white photography, gentle pace, period setting and formal classicism, it was closer to the work of critic and film historian Bogdanovich’s mentors John Ford and Howard Hawks than it was to that of his New Wave-inspired peers at the BBS production company. But it was immediately embraced as a modern classic – _Newsweek_ wrote that it was ‘the most important work by a young American director since _Citizen_ _Kane_’ – propelling Bogdanovich at a stroke into the front rank of US filmmakers.
 
 Adapted from a novel by Larry McMurtry, the film takes place in a small Texas town over the course of a year (from October 1951 to October 1952), following the relationships and entanglements of its inhabitants, both school kids on the cusp of graduation – played by then newcomers Jeff Bridges, Cybill Shepherd, Randy Quaid and Timothy Bottoms – and their elders, played by Ellen Burstyn, Ben Johnson and Eileen Brennan.
 
@@ -35,7 +36,8 @@ I guess it must have had some western reverberations with me, but I wasn’t thi
 
 _Other cinephile directors – Scorsese, for instance – very openly borrow particular shots from their influences. Is this something you did on_ The Last Picture Show_?_
 
-Not really. But I learned the technique and craft of making movies from watching classic American cinema. Hitchcock once said to me: ‘Never use an establishing shot to establish. Why? Because it has no dramatic meaning. Only use it when it has dramatic meaning in the story.’
+Not really. But I learned the technique and craft of making movies from watching classic American cinema. Hitchcock once said to me: ‘Never use an establishing shot to establish. Why? Because it has no dramatic meaning.  
+Only use it when it has dramatic meaning in the story.’
 
 I took that advice on _Picture Show_ – for example in Sam’s funeral scene. It’s all played in very close shots – until the last shot, when Ellen Burstyn’s character walks away, and we drop back and show what would normally be an establishing shot, with the great open sky above them. It has much more power at that point because you’re invested emotionally.
 
@@ -105,7 +107,7 @@ _Boom Man_: Dean Salmon
 _Re-recording_: Producers Sound Service  
 _Sound Effects_: Inc Edit-Rite
 
-**Cast:**<br>
+**Cast:**<br> 
 Timothy Bottoms _(Sonny Crawford)_  
 Jeff Bridges _(Duane Jackson)_  
 Cybill Shepherd _(Jacy Farrow)_  
@@ -218,3 +220,6 @@ We are always open online on BFI Player where you can watch the best new, cult &
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDI1MjE5ODMwXX0=
+-->
