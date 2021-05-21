@@ -28,9 +28,7 @@ The film shows profound compassion, but little in the way of heaped-on sentiment
 There is a maturity of analysis here; but the film’s stylistic daring turns it from able reportage into a startling piece of pure cinema. Colours, greens especially, are sickly enough to make your flesh crawl, creating an uneasy vision from everyday environs, and this defamiliarisation delivers stomach-knotting disquiet throughout – amplified by the score’s unsettling dissonances. Blake’s framing too often seems wider than we would expect, leaving the viewer with a cumulative sense of powerlessness that, perhaps counter-intuitively, intensifies involvement with the material.
 
 It takes a lot of nerve to hold everything back, as Blake does so successfully here, trusting in Khan’s arresting presence, by turns pitiful and threatening, to hold the attention. It’s a vindication for a truly independent production, set up outside the usual institutional support schemes, which has allowed an exciting, unexpected, unconventional new directorial voice to ring out so loud and clear.<br>
-**
-
-Trevor Johnston, _Sight & Sound_, May 2020**
+**Trevor Johnston, _Sight & Sound_, May 2020**
 
 Henry Blake’s background is in youth work; before making _County Lines_ he spent 11 years working with real-life victims of county lines drug operations. ‘In the last five years county lines has got more attention,’ he says ‘but it’s been going on for 15 years.’
 
@@ -107,18 +105,12 @@ UK 2019<br>
 A BFI release
 
 
-**BECOME A BFI MEMBER**<br>
-Enjoy a great package of film benefits including priority booking at  
-BFI Southbank and BFI Festivals.  
-Join today at bfi.org.uk/join
-
 **NEW RELEASES & RE-RELEASES**<br>
 
 **Ammonite**<br>
 From Mon 17 May<br>
 **Sound of Metal**<br>
 From Mon 17 May<br>
-
 **Nomadland**<br>
 From Mon 17 May<br>
 **First Cow**<br>
@@ -148,9 +140,6 @@ We are always open online on BFI Player where you can watch the best new, cult &
 
 **Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at **[www.bfi.org.uk/signup](https://whatson.bfi.org.uk/Online/login.asp)**<br>
 
-**Programme notes and credits compiled by the BFI Documentation Unit<br>
-Notes may be edited or abridged<br>
-Questions/comments? Contact the Programme Notes team by **[email](mailto: prognotes@bfi.org.uk)**
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODMwMTQ2NzBdfQ==
--->
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
