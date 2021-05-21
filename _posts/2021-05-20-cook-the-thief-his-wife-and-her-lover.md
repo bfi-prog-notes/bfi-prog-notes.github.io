@@ -189,11 +189,12 @@ Tue 15 Jun 17:45; Sat 19 Jun 12:00<br>
 **The Warriors**<br>
 Mon 21 Jun 18:00 (+ intro by Asif Kapadia); Mon 28 Jun 14:30<br>
 
-**In partnership with**  
-<img style="float: left;" src="/img/partner/sight-and-sound-01.png" alt="Sight & Sound" title="Sight & Sound"> 
-<br><br><br><br><br><br><br><br>
+**In partnership with** 
+<imlle="ft et" src="/img/partner/sight-and-sound-01.png" alt="Sight & Sound" title="Sight & Sound"> 
+<br><br><br><br><br>
+<br><br><br>
 <img align="left" style="float: left;" width="200" height="98" src="/img/partner/popcorn-shed-logo-01.png">
-<br><br><br><br><br><br><br><br>
+rr><br><br><br><br><br><br><br><br>
 
 
 **BFI SOUTHBANK**  
@@ -213,6 +214,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Email prognotes@bfi.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDU3MzMwNCwxODkxMjYyMzQ2LDE0Nj
-gxNDkzMzRdfQ==
+eyJoaXN0b3J5IjpbLTEzNzAzNTAwOTIsMTU4MDU3MzMwNCwxOD
+kxMjYyMzQ2LDE0NjgxNDkzMzRdfQ==
 -->
