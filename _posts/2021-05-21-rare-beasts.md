@@ -100,5 +100,5 @@ UK 2019<br>
 
 _Courtesy of Republic Film Distribution_
 
-<img style="float: left;" src="/img/flare-logo-2020-01.png" alt="Flare logo 2020" title="Flare logo 2020">
+<img style="float: left;" src="/img/WWAMC.png" alt="WWAMC" title="WWAMC">
 <br><br><br><br><br><br><br><br>
