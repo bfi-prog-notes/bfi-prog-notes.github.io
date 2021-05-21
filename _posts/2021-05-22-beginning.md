@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Beginning
+published: true
+date: 2021-05-22
+readtime: true
+categories: ['DREAM PALACE - THE FILMS THAT CINEMAS WERE BUILT FOR']
+tags: [Drama]
+metadata: 'Georgia/France/Belgium/USA/Netherlands/Israel, 2020, 125 mins<br> Director: Dea Kulumbegashvili'
+pdf: '2021-05-22-beginning.pdf'
+---
 
 _With a pre-recorded introduction by director Luca Guadagnino._
 
@@ -92,9 +102,7 @@ Mari Kopchenovi _(sister)_
 William Dunbar _(American Jehovah’s Witness)_  
 Giorgi Tsereteli _(local policeman)_
 
-Georgia/France/Belgium/USA/Netherlands/Israel  
-2020©
-
+Georgia/France/Belgium/USA/Netherlands/Israel 2020©  
 125 mins
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTExNzI4MjgyNzldfQ==
