@@ -94,16 +94,9 @@ A Spike Lee joint
 A Todomundo and Forty Acres and a Mule Filmworks production  
 An HBO Special Event in partnership with Participant, River Road Entertainment and  Warner Music Entertainment  
 _Executive Producers:_ Jeff Skoll, David Linde,  Diane Weyermann, Len Blavatnik, David Bither, Charlie Cohen, Kurt Deutsch, Bill Pohlad,  
-Christa Zofcin Workman, Jon Kamen,  Dave Sirulnick, Meredith Bennett, Kristin Caskey, Mike Isaacson, Patrick Catullo, RadicalMedia  
-_Produced by:_ David Byrne, Spike Lee  
-_Written by:_ David Byrne  
-_Director of Photography:_ Ellen Kuras  
-_Editor:_ Adam Gough  
-_Choreography:_ Annie-B Parson  
-_Sound Mixer:_ Michael Lonsdale
+Christa Zofcin Workman, Jon Kamen,  Dave Sirulnick, Meredith Bennett, Kristin Caskey, Mike Isaacson, Patrick Catullo, RadicalMedia  _Produced by:_ David Byrne, Spike Lee  _Written by:_ David Byrne  _Director of Photography:_ Ellen Kuras  _Editor:_ Adam Gough  _Choreography:_ Annie-B Parson  _Sound Mixer:_ Michael Lonsdale  
 
-USA 2020  
-105 mins
+USA 2020  105 mins
 
 **DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**  
 **Blow Out**<br>
@@ -173,5 +166,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MTg5ODc5XX0=
+eyJoaXN0b3J5IjpbMzMxOTE3MTFdfQ==
 -->
