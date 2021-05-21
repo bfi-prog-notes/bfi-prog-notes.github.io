@@ -105,8 +105,7 @@ Kate Murtagh _(nurse)_
 Danny Goldman _(bartender)_  
 Tracy Harris _(detective)_  
 
-USA 1973©  
-112 mins
+USA 1973©  112 mins
 
 **ROBERT ALTMAN: AMERICAN OUTSIDER**      
 **MASH**<br>
@@ -187,5 +186,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTQ2NzkyNl19
+eyJoaXN0b3J5IjpbLTE0MTMzNjIzMjNdfQ==
 -->
