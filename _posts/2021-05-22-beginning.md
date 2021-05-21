@@ -171,7 +171,10 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
-Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)** 
+2020©
+
+125 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjExNjYwN119
+eyJoaXN0b3J5IjpbMTQyOTA2MTk1LDE2ODIxMTY2MDddfQ==
 -->
