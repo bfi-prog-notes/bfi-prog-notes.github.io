@@ -112,13 +112,11 @@ Enjoy a great package of film benefits including priority booking at
 BFI Southbank and BFI Festivals.  
 Join today at bfi.org.uk/join
 
-NEW RELEASES & RE-RELEASES**<br>
-
+**NEW RELEASES & RE-RELEASES**<br>
 **Ammonite**<br>
 From Mon 17 May<br>
 **Sound of Metal**<br>
 From Mon 17 May<br>
-
 **Nomadland**<br>
 From Mon 17 May<br>
 **First Cow**<br>
@@ -140,13 +138,14 @@ Welcome to the home of great film and TV, with three cinemas and a studio, a wor
 We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.<br>
 
 **BECOME A BFI MEMBER**<br>
-Enjoy a great package of film benefits including priority booking at  BFI Southbank and BFI Festivals. Join today at bfi.org.uk/join
+Enjoy a great package of film benefits including priority booking at  BFI Southbank and BFI Festivals. Join today at [bfi.org.uk/join](https://www.bfi.org.uk/become-bfi-member)
   
 
 **BFI PLAYER**<br>
-We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on [player.bfi.org.uk](https://player.bfi.org.uk/)
+We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on **[player.bfi.org.uk](https://player.bfi.org.uk/)**
 
-**Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at **[www.bfi.org.uk/signup](https://whatson.bfi.org.uk/Online/login.asp)**
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTYxMjU2OF19
--->
+**Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at **[www.bfi.org.uk/signup](https://whatson.bfi.org.uk/Online/login.asp)**<br>
+
+**Programme notes and credits compiled by the BFI Documentation Unit<br>
+Notes may be edited or abridged<br>
+Questions/comments? Contact the Programme Notes team by **[email](mailto: prognotes@bfi.org.uk)**
