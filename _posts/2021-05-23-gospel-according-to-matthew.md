@@ -8,7 +8,8 @@ categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'Italy/France, 1964, 137 mins<br> Director: Pier Paolo Pasolini'
 pdf: '2021-05-23-gospel-according-to-matthew.pdf'
----
+---<![endif]-->
+
 Although Pier Paolo Pasolini’s film _The Gospel According to Matthew_ (_Il Vangelo secondo Matteo_) is habitually praised as a key work both of the director’s oeuvre and of world cinema as a whole, small myths have congregated about it nonetheless. You may hear that it’s a Marxist life of Jesus, which flies in the face of the Catholic church. Or that it was an extraordinary, contrary story choice for a filmmaker who was gay, an outspoken Marxist and a staunch atheist. Others present it as the unadulterated Gospel, with nothing added or taken away in the service of plot. One hears nigh everywhere it’s mentioned that it’s gritty, raw and handheld; maybe that it’s a quintessential neorealist text. The Matthew Gospel is indeed the main source, certainly of the film’s dialogue, which is sparse – except for Jesus’s sermons and parables – but material from the other Gospels is used too, and more significantly, Pasolini ushers in the visual influence of religious art from many an anachronistic historical period. He himself described the film as a sort of palimpsest, ‘the life of Christ plus 2,000 years of storytelling about the life of Christ’. As for the film’s neorealist credentials, certainly it owes characteristics to the school during the rise of which Pasolini began his filmmaking career.
 
 _The Gospel According to Matthew_ favours untrained actors and powerless, penniless characters. It argues for the underdog, its noble characters are by and large negative presences, and it isn’t afraid to find elegance in the undecorated and the ugly. Pasolini’s approaches to shooting landscapes and human faces, and to depicting and eliciting emotion, were unquestionably influenced by neorealism; it’s in part the film’s lack of awed formality and soft-focus sentiment that sets it apart from Hollywood Bible studies.
@@ -30,65 +31,137 @@ Like the teenager Irazoqui still was when he played the part, he’s prone to fi
 Pasolini blends Gospels here: although both Matthew and Mark have Judas’s betrayal directly follow the incident with the ointment, it’s only John who has Judas be the one to confront the woman; Matthew just states that ‘the disciples were indignant’. That simple stung feelings are given such a key role in Pasolini’s proceedings risks a certain triviality, but also lends poignant humanity to the tale – as when, in his novel, published in 1966, Mikhail Bulgakov has Pontius Pilate condemn Jesus to the cross partly because he’s distracted by an agonising migraine.
 
 If many of his films, from the lusty _Mamma Roma_ (1962) through to the still shocking _Salò_ _or The 120 Days of Sodom_ (1975), highlight corporeal excess – violent, carnal, excretory, gastronomic – _The Gospel According to Matthew_ adopts the soft asceticism of Irazoqui’s persona as its defining mode. Even Salome’s dance is strangely gentle and naive, a spell woven by a child rather than an erotic display. It’s human moods, rather than appetites, that seem to preoccupy Pasolini here; and it’s the interaction between the inexplicable divine and the basely, tenderly, stroppily human that makes his Passion play so moving – whether viewed by the believer, the unbeliever or the nostalgist for belief.<br>
-**Hannah McGill, _Sight & Sound_, March 2013**<br>
 
-**The Gospel According to Matthew (Il Vangelo secondo Matteo)**<br>
+**Hannah McGill, _Sight & Sound_, March 2013**<br
+
+<![endif]-->
+
+**The Gospel According to Matthew **
+
+**(Il Vangelo secondo Matteo)**<br>
+
 _Director_: Pier Paolo Pasolini<br>
-_Production Companies_: Arco Film, Lux Compagnie Cinématographique de France<br>
+
+_Production Companies_: Arco Film, 
+
+Lux Compagnie Cinématographique de France<br>
+
 _Producer_: Alfredo Bini<br>
+
 _General Organiser_: Manolo Bolognini<br>
+
 _Production Secretary_: Bruno Frascà<br>
+
 _Production Manager_: Eliseo Boschi<br>
+
 _Administration_: Vincenzo Taito<br>
-_Assistant Directors_: Maurizio Lucidi, Paul A.M. Schneider<br>
+
+_Assistant Directors_: Maurizio Lucidi, 
+
+Paul A.M. Schneider<br>
+
 _Script Supervisor_: Lina D’Amico<br>
+
 _Adaptation_: Pier Paolo Pasolini<br>
+
 _Director of Photography_: Tonino Delli Colli<br>
-_Camera Operators_: Giuseppe Ruzzolini, Vittor Ugo Contino<br>
-_Assistant Camera Operators_: Alessandro Ruzzolini, Giovanni Canfarelli<br>
+
+_Camera Operators_: Giuseppe Ruzzolini, 
+
+Vittor Ugo Contino<br>
+
+_Assistant Camera Operators_: 
+
+Alessandro Ruzzolini, Giovanni Canfarelli<br>
+
 _Editor_: Nino Baragli<br>
+
 _Assistant Editor_: Andreina Casini<br>
+
 _Art Director_: Luigi Scaccianoce<br>
+
 _Assistant to Art Director_: Dante Ferretti *<br>
-_Costumes_: Danilo Donati<br>
+
+_Costumes_:_ Danilo Donati<br>
+
 _Make-up_: Marcello Ceccarelli<br>
+
 _Make-up Assistant_: Lamberto Marini<br>
+
 _Hair_: Mimma Pomilia<br>
-_Music_: Johann Sebastian Bach, Wolfgang Amadeus Mozart, Sergei Prokofiev, Anton Webern<br>
+
+_Music_: Johann Sebastian Bach, 
+
+Wolfgang Amadeus Mozart, 
+
+Sergei Prokofiev, Anton Webern<br>
+
 _Musical Coordination_: Luis Enriquez Bacalov<br>
+
 _Sound_: Mario Del Pezzo<br>
 
 **Cast:**<br>
+
+_Cast:_
+
 Enrique Irazoqui _(Christ)_<br>
+
 Margherita Caruso _(Mary as a girl)_<br>
+
 Susanna Pasolini _(Mary as a woman)_<br>
+
 Marcello Morante _(Joseph)_<br>
+
 Mario Socrate _(John the Baptist)_<br>
+
 Settimio Di Porto _(Peter)_<br>
+
 Otello Sestili _(Judas Iscariot)_<br>
+
 Ferruccio Nuzzo _(Matthew)_<br>
+
 Giacomo Morante _(John)_<br>
+
 Alfonso Gatto _(Andrew)_<br>
+
 Enzo Siciliano _(Simon)_<br>
+
 Giorgio Agamben _(Philip)_<br>
+
 Guido Cerretani _(Bartholomew)_<br>
+
 Luigi Barbini _(James, son of Alpheus)_<br>
+
 Marcello Galdini _(James, son of Zebedee)_<br>
+
 Elio Spaziani _(Thaddeus)_<br>
+
 Rosario Migale _(Thomas)_<br>
+
 Rodolfo Wilcock _(Caiaphas)_<br>
+
 Alessandro Tasca _(Pontius Pilate)_<br>
+
 Amerigo Bevilacqua _(Herod the Great)_<br>
+
 Francesco Leonetti _(Herod Antipas)_<br>
+
 Franca Cupane _(Herodias)_<br>
+
 Paola Tedesco _(Salome)_<br>
+
 Rossana Di Rocco _(The Angel of the Lord)_<br>
+
 Eliseo Boschi _(Joseph of Arimathea)_<br>
+
 Natalia Ginzburg _(Mary of Bethany)_<br>
+
 Renato Terra _(Pharisee)_<br>
+
 Ninetto Davoli _(shepherd)_<br>
 
 Italy/France 1964<br>
+
 137 mins
 
 \* Uncredited<cr><cr><cr>
@@ -158,3 +231,6 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzAxOTI3NzM0XX0=
+-->
