@@ -25,37 +25,22 @@ The second half climaxes with a vision of hell. Like a parody of the ending of A
 _Directed by:_ Apichatpong Weerasethakul  
 ©_/Production Company:_ Kick the Machine  
 _Presented by:_ New Crowned Hope  
-_Presented in association with:_  
-Fortissimo Films, Backup Films  
-_In co-production with:_ Anna Sanders Films,
-
-Illuminations Films, TIFA  
-_With the participation of:_ Fonds Sud,  
-Ministère de la Culture et de la Communication,
-
-Centre national de la cinématographie,  
-Ministère des Affaires Étrangères  
-_World Film Sales:_ Michael Werner,
-
-Wouter Barendrecht, Fortissimo Films  
+_Presented in association with:_  Fortissimo Films, Backup Films  
+_In co-production with:_ Anna Sanders Films, Illuminations Films, TIFA  
+_With the participation of:_ Fonds Sud,  Ministère de la Culture et de la Communication, Centre national de la cinématographie, Ministère des Affaires Étrangères  
+_World Film Sales:_ Michael Werner, Wouter Barendrecht, Fortissimo Films  
 _Executive Producers (Illumunations for NCH):_ Simon Field, Keith Griffiths  
 _Produced by:_ Apichatpong Weerasethakul  
 _Co-producer (Tifa Co., Ltd.):_ Pantham Thongsang  
-_Co-producer (Anna Sanders Films):_  
-Charles de Meaux  
+_Co-producer (Anna Sanders Films):_  Charles de Meaux  
 _Unit Production Manager:_ Saranya Ruangnantakan  
-_Assistant Unit Production Manager:_  
-Thanawat Thampreechapong  
-_Location Managers:_ Manita Niyomprasit,  
-Thanawat Thampreechapong  
+_Assistant Unit Production Manager:_  Thanawat Thampreechapong  
+_Location Managers:_ Manita Niyomprasit,  Thanawat Thampreechapong  
 _Post-production Supervisor:_ Lee Chatametikool  
 _1st Assistant Director:_ Suchada Sirithanawuddhi  
 _2nd Assistant Director:_ Sompot Chidgasornpongse  
 _Continuity:_ Manita Niyomprasit  
-_Casting Directors:_ Sakda Kaewbuadee,
-
-Suchada Sirithanawuddhi,  
-Sompot Chidgasornpongse, Parnjai Sirisuwan  
+_Casting Directors:_ Sakda Kaewbuadee, Suchada Sirithanawuddhi, Sompot Chidgasornpongse, Parnjai Sirisuwan  
 _Written by:_ Apichatpong Weerasethakul  
 _Cinematographer:_ Sayombhu Mukdeeprom  
 _1st Assistant Camera:_ Chonbovorn Niyamosot  
@@ -64,37 +49,25 @@ _Video Man:_ Saran Siritham
 _Still Photographer:_ Chayaporn Maneesutham  
 _Visual Effects Designer:_ Urmundee  
 _Digital Visual Effects:_ Post Bangkok Co., Ltd.  
-_Visual Effects Supervisor (Post Bangkok):_
-
-Richard Downing  
+_Visual Effects Supervisor (Post Bangkok):_ Richard Downing  
 _Editor:_ Lee Chatametikool  
 _Art Director:_ Akekarat Homlaor  
 _Prop Master:_ Nitipong Thinthupthai  
-_Costume Designers:_ Virasinee Tipkomol,
-
-Askorn Sirikul  
+_Costume Designers:_ Virasinee Tipkomol, Askorn Sirikul  
 _Processing/Prints:_ Kantana Animation Co., Ltd.  
-_Colour Timing/Grading:_ Passakorn Yaisiri,  
-Thaveep Jeenjitkaew, Supamol Pleumchusak  
+_Colour Timing/Grading:_ Passakorn Yaisiri, Thaveep Jeenjitkaew, Supamol Pleumchusak  
 _Negative Cutters:_ Manop Petchyu, Uthit Netwong, Sakchai Nuengsawas, Rattanawan Chantavart  
-_Optical Effects:_ Sannucha Dhisayabutr,
-
-Pravit Jaivijit, Suchart Hongsmut,  
-Kampol Thammayot, Sompop Baibaenae  
+_Optical Effects:_ Sannucha Dhisayabutr, Pravit Jaivijit, Suchart Hongsmut, Kampol Thammayot, Sompop Baibaenae  
 _Film Stock:_ Kodak Motion Picture Film  
 _Music:_ Kantee Anantagant  
-_Sound Design:_ Koichi Shimizu,  
-Akritchalerm Kalayanamitr, Aka Rit  
+_Sound Design:_ Koichi Shimizu,  Akritchalerm Kalayanamitr, Aka Rit  
 _Sound Recordist:_ Akritchalerm Kalayanamitr  
 _Boom Operator:_ Narathip Tungkaseranee  
 _Mixing Engineer:_ Richard Hocks  
-_Sound Editors:_ Akritchalerm Kalayanamitr,
-
-Lee Chatametikool  
+_Sound Editors:_ Akritchalerm Kalayanamitr, Lee Chatametikool  
 _ADR Sound Engineer:_ Cotton Bud  
 _Behind the Scenes:_ Chayaporn Maneesutham  
-_Cast:_
-
+_Cast_  
 Nantarat Sawaddikul _(Dr Toey)_  
 Jaruchai Iamaram _(Dr Nohng)_  
 Sophon Pukanok _(Noom)_  
@@ -120,5 +93,5 @@ Thailand/France/Austria/Netherlands 2006©
 
 106 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwNTk1M119
+eyJoaXN0b3J5IjpbLTk5MzM2Mzg1XX0=
 -->
