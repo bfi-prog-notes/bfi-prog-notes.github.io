@@ -17,6 +17,190 @@ If _Hunter_ depends on empathy, it also relies on distanciation. We are struck b
 
 Political and economic crises encourage an uncomplicated (and pointless) nostalgia for lost innocence, for the good old days. _Hunter_, made during one crisis (McCarthyism), about another (the Depression), gives an airing to old-fashioned virtues and values. Alongside this ethical consensus we must set an implicit nostalgia for the dear dead days of silent cinema. Before embarking on his first film Laughton studied all D. W. Griffith’s. This provided him with a refresher course in filmmaking technique. But Laughton and his team also wanted to create the Arcadian qualities Griffith’s use of landscape had, with its emphasis on natural light and deep space. The sequence when the paddle steamer passes Cresap’s Landing has just this impressionistic feeling.  The presence of Lillian Gish refers us back to Griffith. And Cortez rehabilitates archaic devices like the iris. There is a shot of Mitchum leaning against a tree in the Harper garden. He is intensifying his terror campaign and calls out seductively for the children. As he moves towards the house, the camera irises down to a detail until then unnoticed: John and Pearl’s grimy faces pressed fearfully against the cellar window.<cr>
 **Paul Hammond, _Sight & Sound_, Spring 1979**
+
+<![endif]-->
+
+**The Night of the Hunter**
+
+_Directed by:_ Charles Laughton
+
+_©:_ Paul Gregory Productions
+
+_Presented by:_ Paul Gregory Productions
+
+_Released thru:_ United Artists
+
+_Produced by:_ Paul Gregory
+
+_Production Manager:_ Ruby Rosenberg
+
+_Assistant Director:_ Milton Carter
+
+_Screen Play by:_ James Agee
+
+_From the novel by:_ Davis Grubb
+
+_Photography by:_ Stanley Cortez
+
+_Special Photographic Effects:_ Jack Rabin,
+
+Louis De Witt
+
+_Editor:_ Robert Golden
+
+_Art Direction by:_ Hilyard Brown
+
+_Set Decoration:_ Al Spencer
+
+_Property Man:_ Joe La Bella
+
+_Wardrobe:_ Jerry Bos
+
+_Assisted by:_ Evelyn Carruth
+
+_Makeup:_ Don Cash
+
+_Hair Stylist:_ Kay Shea
+
+_Music by:_ Walter Schumann
+
+_Sound:_ Stanford Naughton
+
+_Sound System:_ Western Electric
+
+_uncredited_
+
+_2nd Unit Directors:_ Terry Sanders,
+
+Frank Parmenter
+
+_Dialogue Director:_ Denis Sanders
+
+_2nd Unit Director of Photography:_
+
+Harold E. Wellman
+
+_Camera Operator:_ Bud Mautino
+
+_Camera Assistants:_ Seymour Hoffberg,
+
+Robert B. Hauser
+
+_Gaffer:_ James Potevin
+
+_Cast:_
+
+Robert Mitchum _(Preacher Harry Powell)_
+
+Shelley Winters _(Willa Harper)_
+
+Lillian Gish _(Miss Rachel Cooper)_
+
+James Gleason _(Uncle Birdie)_
+
+Evelyn Varden _(Icey Spoon)_
+
+Peter Graves _(Ben Harper)_
+
+Don Beddoe _(Walter ‘Walt’ Spoon)_
+
+Billy Chapin _(John Harper)_
+
+Sally Jane Bruce _(Pearl Harper)_
+
+Gloria Castilo _(Ruby)_
+
+_uncredited_
+
+Mary Ellen Clemons _(Clary)_
+
+Cheryl Callaway _(Mary)_
+
+Paul Bryar _(Bart, the hangman)_
+
+Corey Allen _(young boy in town)_
+
+USA 1955©
+
+93 mins
+
+**BECOME A BFI MEMBER**
+
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at bfi.org.uk/join
+
+**BFI SOUTHBANK**
+
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.
+
+We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.
+
+**BFI PLAYER**
+
+We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on player.bfi.org.uk
+
+**Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at www.bfi.org.uk/signup
+
+BIG SCREEN CLASSICS
+
+**The Killers** + pre-recorded intro by Imogen Sara Smith, author of ‘In Lonely Places: Film Noir beyond the City’  Tue 25 May 20:30; Tue 8 Jun 14:30; Wed 23 Jun 17:50
+
+**Alice in the Cities (Alice in den Städten)**
+
+Wed 26 May 17:50; Tue 1 Jun 14:30; Fri Jun 25 20:45
+
+**Eraserhead** Thu 27 May 18:20; Mon 14 Jun 21:00; Thu 24 Jun 21:10
+
+**Man Hunt** Fri 28 May 18:10; Sat 12 Jun 16:00; Tue 29 Jun 14:15
+
+**Persona** Fri 28 May 21:00; Wed 2 Jun 18:10 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large) Mon 28 Jun 21:00
+
+**La Haine** Sat 29 May 21:00; Wed 16 Jun 21:00; Fri 18 Jun 20:40
+
+**Citizen Kane** Sun 30 May 12:40; Mon 21 Jun 20:45
+
+**Raging Bull** Sun 30 May 15:30; Tue 1 Jun 17:30
+
+**Touch of Evil** Mon 31 May 12:45; Sat 5 Jun 17:50; Sun 20 Jun 18:15
+
+**The Last Picture Show (Director’s Cut)**
+
+Mon 31 May 12:50; Mon 7 Jun 17:45
+
+**Steamboat Bill, Jr.** Thu 3 Jun 14:30; Tue 22 Jun 18:30
+
+**Sweet Smell of Success**
+
+Fri 4 Jun 15:00; Sun 13 Jun 15:45; Sat 26 Jun 11:40
+
+**The Man Who Wasn’t There**
+
+Fri 4 Jun 17:50; Sun 27 Jun 18:20
+
+**L’eclisse (The Eclipse)** Sat 5 Jun 12:10; Tue 15 Jun 17:50
+
+**The White Ribbon (Das weisse Band)**
+
+Sun 6 Jun 18:10; Sat 26 Jun 16:30
+
+**Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London
+
+Mon 7 Jun 14:15; Thu 17 Jun 20:45; Wed 30 Jun 17:45
+
+**The Night of the Hunter** Tue 8 Jun 20:50; Wed 16 Jun 18:15 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large)
+
+**The Tango Lesson** Wed 9 Jun 17:50 (+ pre-recorded intro by So Mayer, author of ‘The Cinema of Sally Potter’)
+
+**Cleo from 5 to 7** **Cléo de 5 à 7**
+
+Thu 10 Jun 21:00; Mon 21 Jun 14:30
+
+**Bitter Victory**
+
+Sun 20 Jun 13:00; Mon 28 Jun 17:55
+
+**The Big City (Mahanagar)** Wed 23 Jun 17:40
+
+**The Gospel According to Matthew (Il vangelo secondo Matteo)** Thu 24 Jun 17:40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg1MzY0NzBdfQ==
+eyJoaXN0b3J5IjpbODE4Nzk0NDYzXX0=
 -->
