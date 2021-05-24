@@ -77,8 +77,7 @@ _Mixing Engineer:_ Richard Hocks
 _Sound Editors:_ Akritchalerm Kalayanamitr, Lee Chatametikool  
 _ADR Sound Engineer:_ Cotton Bud  
 _Behind the Scenes:_ Chayaporn Maneesutham
-
-**Cast**  
+Cast** 
 Nantarat Sawaddikul _(Dr Toey)_  
 Jaruchai Iamaram _(Dr Nohng)_  
 Sophon Pukanok _(Noom)_  
@@ -101,8 +100,7 @@ Suphapich Thitithammasak _(nurse 2)_
 Thanawat Thampreechapong _(doctor 1)_  
 Jarunee Saengtupthim _(Joy)_  
 
-Thailand/France/Austria/Netherlands 2006©  
-106 mins
+Thailand/France/Austria/Netherlands 2006©  106 mins
 
 **DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**  
 **Blow Out**<br>
@@ -172,5 +170,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzM2Mzg1XX0=
+eyJoaXN0b3J5IjpbLTYwNjEzODYzOV19
 -->
