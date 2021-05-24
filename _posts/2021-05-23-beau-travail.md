@@ -67,8 +67,7 @@ Grégoire Colin _(Gilles Sentain)_
 Richard Courcet, Nicolas Duvauchelle, Adiatou Massidi, Mickael Rakovski, Dan Herzberg, Giuseppe Molino, Gianfranco Poddighe, Marc Veh, Thong Duy Nguyen, Jean-Yves Vivet, Bernardo Montet, Dimitri Tsiapkinis, Djamel Zemali, Abdelkader Bouti _(the platoon)_  
 Marta Tafesse Kassa _(young woman)_  
 
-France 1998©  
-93 mins
+France 1998©  93 mins
 
 
 **DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**  
@@ -139,5 +138,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4MzUyODIwLC0xMzMwMzAwMjldfQ==
+eyJoaXN0b3J5IjpbLTY0MTY2MTQ5OCw5NzgzNTI4MjBdfQ==
 -->
