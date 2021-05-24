@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robert Altman, Outsider and Innovator: An Illustrated Online Talk
+title: Robert Altman, Outsider and Innovator - An Illustrated Online Talk
 published: true
 date: 2021-05-24
 readtime: true
