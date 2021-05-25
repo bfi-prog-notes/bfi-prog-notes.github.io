@@ -59,15 +59,14 @@ _Make-up:_ Danièle Vuarin
 _Music:_ Eran Tzur  
 _Sound:_ Jean-Paul Mugel, Dominique Gaborieau  
 _Sound Editor:_ Christophe Winding  
-
-**Cast**  
 Denis Lavant _(Sergeant Galoup)_  
 Michel Subor _(Commandant Bruno Forestier)_  
 Grégoire Colin _(Gilles Sentain)_  
 Richard Courcet, Nicolas Duvauchelle, Adiatou Massidi, Mickael Rakovski, Dan Herzberg, Giuseppe Molino, Gianfranco Poddighe, Marc Veh, Thong Duy Nguyen, Jean-Yves Vivet, Bernardo Montet, Dimitri Tsiapkinis, Djamel Zemali, Abdelkader Bouti _(the platoon)_  
 Marta Tafesse Kassa _(young woman)_  
 
-France 1998©  93 mins
+France 1998©  
+93 mins
 
 
 **DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**  
@@ -138,5 +137,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTY2MTQ5OCw5NzgzNTI4MjBdfQ==
+eyJoaXN0b3J5IjpbMTg0NTgyODQzLC02NDE2NjE0OTgsOTc4Mz
+UyODIwXX0=
 -->
