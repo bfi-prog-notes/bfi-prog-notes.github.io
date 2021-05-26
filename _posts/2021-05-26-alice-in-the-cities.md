@@ -21,7 +21,79 @@ The point is beautifully made in the scene where Alice suddenly turns up after e
 
 Suddenly his return to Munich, effected with simple though circuitous logic by the intervention of Alice’s magic, no longer seems a matter of such desperate urgency. Philip’s earlier error lies in his dependence on objective correlatives, ‘in his assumption that the dreary American landscapes of motels, highways, neon signs and deserted beaches that he photographs (or for that matter the Amsterdam he ignores as a tourist attraction, and the Germany he is too familiar with really to see) necessarily reflect either his attitude to them or the life that is absent from them and that he assumes to be arid and meaningless. Sitting in the train at the end, he reads without comment a newspaper containing an account of the death of John Ford, and the camera lifts to reveal a bleak, open landscape with the train rolling past far below like one of Ford’s wagon trains. It could be a celebration or lament; or it could be nothing at all, just a landscape through which the train happens to be passing.<br>
 **Tom Milne, _Monthly Film Bulletin_, October 1975**
+
+<![endif]-->
+
+**Alice in the Cities (Alice in den Städten)**
+
+_Director:_ Wim Wenders
+
+©: Westdeutscher Rundfunk, Pifda
+
+_Production Company:_
+
+Produktion 1 im Filmverlag der Autoren
+
+_Producer:_ Joachim v. Mengershausen
+
+_Production Managers:_ Peter Genée,
+
+Veit von Fürstenberg
+
+_Unit Production Manager:_ Chris A. Holenia
+
+_Location Manager:_ Ben Wett
+
+_Technician:_ Honorat Stangl
+
+_Assistant Director:_ Mickey Kley
+
+_Screenplay:_ Wim Wenders
+
+_Script Collaborator:_ Veit von Fürstenberg
+
+_Directors of Photography:_ Robby Müller,
+
+Martin Schäfer
+
+_Editors:_ Peter Przygodda,
+
+Barbara v. Weitershausen
+
+_Music:_ Can
+
+_Sound Recording:_ Martin Müller
+
+_Sound Mixer:_ Paul Schöler
+
+_Cast:_
+
+Rüdiger Vogler _(Philip Winter)_
+
+Yella Rottländer _(Alice van Damm)_
+
+Elisabeth Kreuzer _(Lisa van Damm)_
+
+Edda Köchl _(Edda)_
+
+Ernest Böhm _(policeman)_
+
+Sam Presti _(car salesman)_
+
+Lois Moran _(airline girl)_
+
+Didi Petrikat _(girl)_
+
+Hans Hirschmüller
+
+Sibylla Baier
+
+Mirko
+
+West Germany 1974©
+
+112 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDEzMDMxMywtMTU1ODA0ODM3OSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNDcyOTAzNTcwLC0xNTU4MDQ4Mzc5LDczMD
+k5ODExNl19
 -->
