@@ -39,8 +39,7 @@ Tsai’s film explores the etiquette of cruising in the Fu-Ho, which, according 
 
 
 
-**GOODBYE, DRAGON INN (BÚ SÀN)**  
-_Director_: Tsai Ming-liang  
+**GOODBYE, DRAGON INN (BÚ SÀN)**  _Director_: Tsai Ming-liang  
 _Production Company_: Homegreen Films  
 _In collaboration with_: Council of Cultural Affairs  
 _International sales_: Homegreen Films  
@@ -57,8 +56,7 @@ _Costume Designer_: Sun Huei-mei
 _Sound Design_: Du Tuu-chih  
 _Sound Recording_: Tang Hsiang-chu  
 _Publicity_: Chang San-ling  
-
-**Cast**  
+Cast** 
 Lee Kang-sheng _(projectionist)_  
 Chen Shiang-chyi _(ticket woman)_  
 Kiyonobu Mitamura _(Japanese tourist)_  
@@ -67,9 +65,8 @@ Shih Chun
 Yang Kuei-mei  
 Chen Chao-jung  
 Lee Yi-cheng  
-
-Taiwan 2003  
-82 mins
+  
+Taiwan 2003  82 mins  
 
 Courtesy of Second Run DVD  
 
@@ -141,5 +138,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NjQ0MjU3NF19
+eyJoaXN0b3J5IjpbLTExNjAzNDE1MDJdfQ==
 -->
