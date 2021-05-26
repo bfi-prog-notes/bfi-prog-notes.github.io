@@ -93,7 +93,99 @@ Mirko
 West Germany 1974©
 
 112 mins
+
+<![endif]-->
+
+BIG SCREEN CLASSICS
+
+**Alice in the Cities (Alice in den Städten)**
+
+Wed 26 May 17:50; Tue 1 Jun 14:30; Fri 25 Jun 20:45
+
+**Eraserhead**
+
+Thu 27 May 18:20; Mon 14 Jun 21:00; Thu 24 Jun 21:10
+
+**Man Hunt**
+
+Fri 28 May 18:10; Sat 12 Jun 16:00; Tue 29 Jun 14:15
+
+**Persona**
+
+Fri 28 May 21:00; Wed 2 Jun 18:10 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large) Mon 28 Jun 21:00
+
+**La Haine**
+
+Sat 29 May 21:00; Wed 16 Jun 21:00; Fri 18 Jun 20:40
+
+**Citizen Kane**
+
+Sun 30 May 12:40; Mon 21 Jun 20:45
+
+**Raging Bull**
+
+Sun 30 May 15:30; Tue 1 Jun 17:30
+
+**Touch of Evil**
+
+Mon 31 May 12:45; Sat 5 Jun 17:50; Sun 20 Jun 18:15
+
+**The Last Picture Show (Director’s Cut)**
+
+Mon 31 May 12:50; Mon 7 Jun 17:45
+
+**Steamboat Bill, Jr.**
+
+Thu 3 Jun 14:30; Tue 22 Jun 18:30
+
+**Sweet Smell of Success**
+
+Fri 4 Jun 15:00; Sun 13 Jun 15:45; Sat 26 Jun 11:40
+
+**The Man Who Wasn’t There**
+
+Fri 4 Jun 17:50; Sun 27 Jun 18:20
+
+**L’eclisse (The Eclipse)**
+
+Sat 5 Jun 12:10; Tue 15 Jun 17:50
+
+**The White Ribbon (Das weisse Band)**
+
+Sun 6 Jun 18:10; Sat 26 Jun 16:30
+
+**Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London
+
+Mon 7 Jun 14:15; Thu 17 Jun 20:45; Wed 30 Jun 17:45
+
+**The Killers** + pre-recorded intro by Imogen Sara Smith, author of ‘In Lonely Places: Film Noir beyond the City’
+
+Tue 8 Jun 14:30; Wed 23 Jun 17:50
+
+**The Night of the Hunter**
+
+Tue 8 Jun 20:50; Wed 16 Jun 18:15 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large)
+
+**The Tango Lesson**
+
+Wed 9 Jun 17:50 (+ pre-recorded intro by So Mayer, author of ‘The Cinema of Sally Potter’)
+
+**Cleo from 5 to 7** **Cléo de 5 à 7**
+
+Thu 10 Jun 21:00; Mon 21 Jun 14:30
+
+**Bitter Victory**
+
+Sun 20 Jun 13:00; Mon 28 Jun 17:55
+
+**The Big City (Mahanagar)**
+
+Wed 23 Jun 17:40
+
+**The Gospel According to Matthew (Il vangelo secondo Matteo)**
+
+Thu 24 Jun 17:40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyOTAzNTcwLC0xNTU4MDQ4Mzc5LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTk4NTkwMjc3MCwtMTU1ODA0ODM3OSw3Mz
+A5OTgxMTZdfQ==
 -->
