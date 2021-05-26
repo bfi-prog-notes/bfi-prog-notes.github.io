@@ -34,7 +34,7 @@ As multiplexes proliferate, smaller theatres have disappeared, and the air of pr
 
 
 
-**Goodbye, Dragon Inn (Bú sàn)**
+**GOODBYE, DRAGON INN (B**
 
 _Director_: Tsai Ming-liang  
 _Production Company_: Homegreen Films  
@@ -69,5 +69,5 @@ Taiwan 2003
 
 Courtesy of Second Run DVD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzUzOTAwOF19
+eyJoaXN0b3J5IjpbLTU1NjQ0MjU3NF19
 -->
