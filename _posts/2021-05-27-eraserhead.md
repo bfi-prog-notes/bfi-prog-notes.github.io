@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Earserhead
+title: Eraserhead
 published: true
 date: 2021-05-27
 readtime: true
