@@ -23,7 +23,7 @@ Varda calls her own approach _cinécriture_, a kind of ‘filmic writing’, and
 
 
 
-**The Gleaners and I  
+**THE GLEANERS AND I  
 (Les Glaneurs et la glaneuse)**
 
 _Director:_ Agnès Varda
@@ -78,5 +78,5 @@ France 2000©
 
 82 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTEzMDkwMF19
+eyJoaXN0b3J5IjpbMTQxMDc0NzgyMF19
 -->
