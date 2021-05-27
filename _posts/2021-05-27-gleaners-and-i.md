@@ -23,47 +23,24 @@ Varda calls her own approach _cinécriture_, a kind of ‘filmic writing’, and
 
 
 
-**THE GLEANERS AND I  
-(Les Glaneurs et la glaneuse)**
-
-_Director:_ Agnès Varda
-
-©: Ciné-Tamaris
-
-_Production Company:_ Ciné-Tamaris
-
-_With the participation of:_ CNC – Centre national de la cinématographie, Canal+
-
-_With the support of:_ Procirep
-
-_Presented by:_ Ciné-Tamaris
-
-_Producer:_ Agnès Varda
-
-_Production Secretary:_ Anita Benoliel
-
-_Production Administrator:_ Jean-Marc Vignet
-
-_Commentary Writer:_ Agnès Varda
-
-_Collaborating Photographers:_  
-Stéphane Krausz, Didier Rouget,  
-Didier Doussin, Pascale Sautelet,  
-Agnès Varda
-
-_Editors:_ Agnès Varda, Laurent Pineau
-
-_Assistant Editor:_ Laure-Alice Hervé
-
-_Post-production Assistant:_ Marina Loubet
-
-_Titles:_ Excalibur
-
-_Laboratory:_ GTC
-
-_Original Music:_ Joanna Bruzdowicz,  
-François Wertheimer, Agnès Bredel,  
-Richard Klugman
+**THE GLEANERS AND I  (LES GLANEURS ET LA GLANEUSE)**  
+_Director:_ Agnès Varda  
+©: Ciné-Tamaris  
+_Production Company:_ Ciné-Tamaris  
+_With the participation of:_ CNC – Centre national de la cinématographie, Canal+  
+_With the support of:_ Procirep  
+_Presented by:_ Ciné-Tamaris  
+_Producer:_ Agnès Varda  
+_Production Secretary:_ Anita Benoliel  
+_Production Administrator:_ Jean-Marc Vignet  
+_Commentary Writer:_ Agnès Varda  
+_Collaborating Photographers:_  Stéphane Krausz, Didier Rouget,  Didier Doussin, Pascale Sautelet,  Agnès Varda  
+_Editors:_ Agnès Varda, Laurent Pineau  
+_Assistant Editor:_ Laure-Alice Hervé  
+_Post-production Assistant:_ Marina Loubet  
+_Titles:_ Excalibur  
+_Laboratory:_ GTC  
+_Original Music:_ Joanna Bruzdowicz,  François Wertheimer, Agnès Bredel, Richard Klugman
 
 _Sound:_ Emmanuel Soland
 
@@ -78,5 +55,5 @@ France 2000©
 
 82 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDc0NzgyMF19
+eyJoaXN0b3J5IjpbLTEwMzI1NjI1NzRdfQ==
 -->
