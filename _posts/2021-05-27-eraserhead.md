@@ -53,8 +53,8 @@ _Song Composed by:_ Peter Ivers<br>
 _Song Sung by:_ Peter Ivers<br>
 _Pipe Organ by:_ ‘Fats’ Waller<br>
 _Location Sound:_ Alan R. Splet<br>
-_Re-Recording:_ Alan R. Splet<br>
-_Sound Editing:_ Alan R. Splet<br>
+_Re-Recording:_ Alan R. Splet<br>_Sound Editing:_ Alan R. Splet<br>
+
 _Sound Effects:_ David Lynch, Alan R. Splet<br>
 _Special thanks to:_ Jack Fisk, Peggy Lynch, Sidney P. Solow, Sissy Spacek, George Stevens Jr<br>
 
@@ -84,51 +84,84 @@ USA 1976©<br>
 89 mins
 <br><br><br>
 
-**BIG SCREEN CLASSICS**<br>
+**<![endif]-->
+
+BIG SCREEN CLASSICS**<br>
+
 **Eraserhead**<br>
-Thu 27 May 18:20; Mon 14 Jun 21:00; Thu 24 Jun 21:10<br>
+ Thu 27 May 18:20; Mon 14 Jun 21:00; Thu 24 Jun 21:10<br>
+
 **Man Hunt**<br>
-Fri 28 May 18:10; Sat 12 Jun 16:00; Tue 29 Jun 14:15<br>
+ Fri 28 May 18:10; Sat 12 Jun 16:00; Tue 29 Jun 14:15<br>
+
 **Persona**<br> 
-Fri 28 May 21:00; Wed 2 Jun 18:10 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large) Mon 28 Jun 21:00<br>
+ Fri 28 May 21:00; Wed 2 Jun 18:10 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large) Mon 28 Jun 21:00<br>
+
 **La Haine**<br> 
-Sat 29 May 21:00; Wed 16 Jun 21:00; Fri 18 Jun 20:40<br>
+ Sat 29 May 21:00; Wed 16 Jun 21:00; Fri 18 Jun 20:40<br>
+
 **Citizen Kane**<br>
-Sun 30 May 12:40; Mon 21 Jun 20:45<br>
+ Sun 30 May 12:40; Mon 21 Jun 20:45<br>
+
 **Raging Bull**<br> 
-Sun 30 May 15:30; Tue 1 Jun 17:30<br>
+ Sun 30 May 15:30; Tue 1 Jun 17:30<br>
+
 **Touch of Evil**<br> 
-Mon 31 May 12:45; Sat 5 Jun 17:50; Sun 20 Jun 18:15<br>
+ Mon 31 May 12:45; Sat 5 Jun 17:50; Sun 20 Jun 18:15<br>
+
 **The Last Picture Show (Director’s Cut)**<br>
+
 Mon 31 May 12:50; Mon 7 Jun 17:45<br>
+
 **Alice in the Cities (Alice in den Städten)**<br>
+
 Tue 1 Jun 14:30; Fri 25 Jun 20:45<br>
+
 **Steamboat Bill, Jr.**<br>
+
 Thu 3 Jun 14:30; Tue 22 Jun 18:30<br>
+
 **Sweet Smell of Success**<br>
+
 Fri 4 Jun 15:00; Sun 13 Jun 15:45; Sat 26 Jun 11:40<br>
+
 **The Man Who Wasn’t There**<br>
+
 Fri 4 Jun 17:50; Sun 27 Jun 18:20<br>
+
 **L’eclisse (The Eclipse)**<br>
+
 Sat 5 Jun 12:10; Tue 15 Jun 17:50<br>
+
 **The White Ribbon (Das weisse Band)**<br>
+
 Sun 6 Jun 18:10; Sat 26 Jun 16:30<br>
+
 **Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London<br>
+
 Mon 7 Jun 14:15; Thu 17 Jun 20:45; Wed 30 Jun 17:45<br>
+
 **The Killers** + pre-recorded intro by Imogen Sara Smith, author of ‘In Lonely Places: Film Noir beyond the City’<br>
-Tue 8 Jun 14:30; Wed 23 Jun 17:50<br>
+  Tue 8 Jun 14:30; Wed 23 Jun 17:50<br>
+
 **The Night of the Hunter**<br> 
-Tue 8 Jun 20:50; Wed 16 Jun 18:15 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large)<br>
+ Tue 8 Jun 20:50; Wed 16 Jun 18:15 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large)<br>
+
 **The Tango Lesson**<br> 
-Wed 9 Jun 17:50 (+ pre-recorded intro by So Mayer, author of ‘The Cinema of Sally Potter’)<br>
+ Wed 9 Jun 17:50 (+ pre-recorded intro by So Mayer, author of ‘The Cinema of Sally Potter’)<br>
+
 **Cleo from 5 to 7** **Cléo de 5 à 7**<br>
+
 Thu 10 Jun 21:00; Mon 21 Jun 14:30<br>
+
 **Bitter Victory**<br> 
-Sun 20 Jun 13:00; Mon 28 Jun 17:55<br>
+ Sun 20 Jun 13:00; Mon 28 Jun 17:55<br>
+
 **The Big City (Mahanagar)**<br> 
-Wed 23 Jun 17:40<br>
+ Wed 23 Jun 17:40<br>
+
 **The Gospel According to Matthew (Il vangelo secondo Matteo)**<br> 
-Thu 24 Jun 17:40<br>
+ Thu 24 Jun 17:40<br>
 
 <br><br>
 **BECOME A BFI MEMBER**<br>
@@ -147,3 +180,8 @@ We are always open online on BFI Player where you can watch the best new, cult &
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTkzNTAzMDMzXX0=
+-->
