@@ -43,9 +43,8 @@ _Sound Design_: Bert Schoenfeld, James Nelson, Jack Kirschner
 _Sound_: Ryder Sound Services  
 _Sound Editor_: Cathey Burrow
 
-**With**  
-Martin Gabel _(narrator)_  
-Marcus Winslow _(Dean’s aunt)_  
+With*  
+Martin Gabel _(narrator)_  Marcus Winslow _(Dean’s aunt)_  
 Ortense Winslow _(Dean’s uncle)_  
 Markie Winslow _(Dean’s cousin)_  
 Mr Dean, Mrs Dean _(Dean’s grandparents)_  
@@ -53,8 +52,7 @@ Adeline Hall _(Dean’s dramatic teacher)_
 Bing Traster, Mr Carter, Jerry Luce, Louie De Liso, Arnie Langer, Arline Sax, Chris White, George Ross, Robert Jewett, John Kalin, Lew Bracker,  Glenn Kramer, Patsy D’amore, Billy Karen,  Lille Kardell _(Dean’s friends)_  
 Officer Nelson _(highway patrolman)_
 
-USA 1957©  
-82 mins
+USA 1957©  82 mins  
 
 *Uncredited
 
@@ -139,5 +137,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzIxNzQwN119
+eyJoaXN0b3J5IjpbLTg2OTgwNDQ2OF19
 -->
