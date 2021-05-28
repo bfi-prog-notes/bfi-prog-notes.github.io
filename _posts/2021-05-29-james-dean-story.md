@@ -20,8 +20,7 @@ _The James Dean Story_, directed by George W. George and Robert Altman, and scri
 
 [The film] makes surprisingly few concessions to the fan-following. Apart from a rather embarrassing sequence dealing, apparently, with the Pier Angeli affair, and interviews with two young actresses who were somewhat fruitlessly ‘dated’ by Dean, there is no attempt to manufacture a ‘love-interest’. Even the presentation of the rather morbid details of Dean’s dreadful death is done with reasonable tact.
 
-The film really convinces you that it is a serious attempt to probe the character of this extraordinary, talented and undoubtedly tormented young man, with his self-confessed longing for someone to love and for flamboyant success, his sense of isolation and of parental deprivation. If it rarely gets further than a lot of words, it is probably because Dean’s real problems, socially and psychologically, were at once too involved and too familiar for this sort  
-of discussion.  
+The film really convinces you that it is a serious attempt to probe the character of this extraordinary, talented and undoubtedly tormented young man, with his self-confessed longing for someone to love and for flamboyant success, his sense of isolation and of parental deprivation. If it rarely gets further than a lot of words, it is probably because Dean’s real problems, socially and psychologically, were at once too involved and too familiar for this sort  of discussion.  
 **David Robinson, _Sight and Sound_, Autumn 1957**
 
 
@@ -57,7 +56,7 @@ Officer Nelson _(highway patrolman)_
 USA 1957©  
 82 mins
 
-* Uncredited
+*Uncredited
 
 35mm print courtesy of the Robert Altman Collection at the UCLA Film & Television Archive
 
