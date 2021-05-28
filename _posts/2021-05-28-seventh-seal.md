@@ -85,27 +85,13 @@ Inga Gill _(Lisa, the blacksmith’s wife)_
 Erik Strandmark _(Jonas Skat)_  
 Bertil Anderberg _(Raval)_  
 Gunnel Lindblom _(mute girl)_  
-Maud Hansson _(the witch)_  
-Gunnar Olsson _(church painter)_  
-Anders Ek _(monk)_  
+Maud Hansson _(the witch)_  Gunnar Olsson _(church painter)_  Anders Ek _(monk)_  
 
-_uncredited_  
-Lars Lind _(young man outside church)_  
-Bengt-Åke Benktsson _(tavern keeper)_  
-Tor Borong _(peasant in tavern)_  
-Gudrun Brost _(woman in tavern)_  
-Harry Asklund _(merchant in tavern)_  
-Ulf Johanson _(leader of the soldiers)_  
-Sten Ardenstam, Gordon Löwenadler _(soldiers)_  
-Karl Widh _(disabled man)_  
-Tommy Karlsson _(Mikael, Jof and Mia’s son)_  
-Siv Aleros, Bengt Gillberg, Lars Granberg,  Gunlög Hagberg, Gun Hammargren,  
+_uncredited_  Lars Lind _(young man outside church)_  Bengt-Åke Benktsson _(tavern keeper)_  Tor Borong _(peasant in tavern)_  Gudrun Brost _(woman in tavern)_  Harry Asklund _(merchant in tavern)_  Ulf Johanson _(leader of the soldiers)_  Sten Ardenstam, Gordon Löwenadler _(soldiers)_  Karl Widh _(disabled man)_  Tommy Karlsson _(Mikael, Jof and Mia’s son)_  Siv Aleros, Bengt Gillberg, Lars Granberg,  Gunlög Hagberg, Gun Hammargren,  
 Uno Larsson, Lennart Lilja, Monica Lindman, Helge Sjökvist, Georg Skarstedt,  
-Ragnar Sörman, Lennart Tollén, Caya Wickström _(flagellants)_  
-Owe Svensson _(corpse on hillside)_  
+Ragnar Sörman, Lennart Tollén,Caya Wickström _(flagellants)_  Owe Svensson _(corpse on hillside)_  
 
-Sweden 1957  
-96 mins
+Sweden 1957  96 mins
 
 **DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**  
 **Blow Out**<br>
@@ -175,5 +161,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjUzNDgyOF19
+eyJoaXN0b3J5IjpbNDk2NzM1NTU4XX0=
 -->
