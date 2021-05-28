@@ -53,7 +53,8 @@ _Song Composed by:_ Peter Ivers<br>
 _Song Sung by:_ Peter Ivers<br>
 _Pipe Organ by:_ ‘Fats’ Waller<br>
 _Location Sound:_ Alan R. Splet<br>
-_Re-Recording:_ Alan R. Splet<br>_Sound Editing:_ Alan R. Splet<br>
+_Re-Recording:_ Alan R. Splet<br>
+_Sound Editing:_ Alan R. Splet<br>
 
 _Sound Effects:_ David Lynch, Alan R. Splet<br>
 _Special thanks to:_ Jack Fisk, Peggy Lynch, Sidney P. Solow, Sissy Spacek, George Stevens Jr<br>
@@ -183,5 +184,5 @@ Questions/comments? Contact the Programme Notes team by [email](mailto: prognote
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTAzMDMzXX0=
+eyJoaXN0b3J5IjpbNTEzNTE3Mjg3LDE5MzUwMzAzM119
 -->
