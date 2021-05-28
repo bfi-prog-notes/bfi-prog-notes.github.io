@@ -44,8 +44,7 @@ _2nd Unit Director_: Louis Lombardo
 _Assistant Director_: Tommy Thompson  
 _Casting_: Gary Chason  
 _Screenplay_: Doran William Cannon  
-_Directors of Photography_: Lamar Boren,  
-Jordan Cronenweth  
+_Directors of Photography_: Lamar Boren,  Jordan Cronenweth  
 _2nd Unit Photographer_: Don McClendon  
 _Editor_: Louis Lombardo  
 _Art Directors_: George W. Davis, Preston Ames  
@@ -56,7 +55,7 @@ _Music Composed and Conducted by_: Gene Page
 _Sound_: Harry W. Tetrick, William McCaughey  
 _Stuntmen_: Bill Couch, Ted Duncan, Jerry Buche, Robert Drake *
 
-**Cast**  
+Cast*  
 Bud Cort _(Brewster McCloud)_  
 Sally Kellerman _(Louise)_  
 Michael Murphy _(Frank Shaft)_  
@@ -76,7 +75,7 @@ William Baldwin _(Bernard, Weeks’ aide)_
 William Henry Bennet _(band conductor)_  
 Gary Wayne Chason _(camera store clerk)_  
 Ellis Gilbert _(butler)_  
-Verdie Henshaw _(Feathered Nest sanatorium manager)_  
+Verdie Henshaw (Feathered Nest sanatorium manager)_  
 Robert Warner _(camera store assistant manager)_  
 Keith V. Erickson _(Professor Aggnout)_  
 Thomas Danko _(colour lab man)_  
@@ -89,8 +88,7 @@ David Welch _(Breen’s son)_ *
 Mac Haik _(Goodsole, Suzanne’s old friend)_ *  
 Edward Howard _(dead man)_ *
 
-USA 1970©  
-105 mins
+USA 1970©  105 mins
 
 **ROBERT ALTMAN: AMERICAN OUTSIDER**      
 **MASH**<br>
@@ -173,5 +171,5 @@ Questions/comments? Contact the Programme Notes team by [email](mailto: prognote
 
 *Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDUzODQzOV19
+eyJoaXN0b3J5IjpbLTEyNDA4NTE2NjBdfQ==
 -->
