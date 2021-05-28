@@ -13,25 +13,21 @@ Equally significant are the ‘open spaces’ that Altman allows for during shoo
 
 To put it a little ponderously, much of the humour of Robert Altman’s _MASH_ derived from the fact that it consistently went against the grain of the conventional war film – not so much unconventional as anti-conventional; at the same time, the surreal presentation of the wilder antics at the Army hospital carried conviction because of the recognisable reality of each of the characters involved (even the surgery was accurate!).
 
-_Brewster McCloud_ has all of the surface anarchy of _MASH_ (fragmented narration; a large number of ‘characters’, often talking over one another’s best lines; a wealth of exhilarating detail, frequently to be found on the peripheries of the frame) but without that film’s recognisable hard centre. This time, Altman attempts to graft some telling social satire on to a central character who hovers uncertainly between significant metaphor and free-wheeling fantasy – an Icarus child with horn-rimmed spectacles, endeavouring to fly above the corrupt materialism of the human condition. Part of the trouble is that Altman is rather more skilful at capturing the corruption than at dignifying man’s attempts to escape it, and his wide-eyed hero, in the end literally, somehow falls flat on  
-his face.
+_Brewster McCloud_ has all of the surface anarchy of _MASH_ (fragmented narration; a large number of ‘characters’, often talking over one another’s best lines; a wealth of exhilarating detail, frequently to be found on the peripheries of the frame) but without that film’s recognisable hard centre. This time, Altman attempts to graft some telling social satire on to a central character who hovers uncertainly between significant metaphor and free-wheeling fantasy – an Icarus child with horn-rimmed spectacles, endeavouring to fly above the corrupt materialism of the human condition. Part of the trouble is that Altman is rather more skilful at capturing the corruption than at dignifying man’s attempts to escape it, and his wide-eyed hero, in the end literally, somehow falls flat on  his face.
 
 The screenplay (by Doran William Cannon, and not entirely free from the determination to be fashionably zany that characterised his script for _Skidoo_) seems anxious to emphasise that the film’s central fantasy is rich in contemporary meanings; and to underscore the point, an impassioned lecture from an ornithologist is cut into the film at significant moments in the action. The lecturer is played by René Auberjonois (the restrained chaplain from _MASH_) in a marvellous creased-clothes, soot-covered, sweat-streaked portrait of empathetic scholarship: flapping his shoulder blades and puffing up his chest, growing more and more like a bird as the film progresses.
 
-The conception may be dubious, but the characterisation is impeccable – and this holds true for so many elements in the film: Michael Murphy (another _MASH_ veteran) as the blue-eyed boy of the West Coast Force, with a suitcase full of cashmere sweaters and specialising in unruffable calm, shooting himself when an accident reveals that at least one of his eyes is brown; Stacy Keach as the churlish miser, reaching for his gun when his helpful chauffeur tries to pick up the money he has dropped; William Windom as the soft-spoken politician with a smooth phrase for every journalist and a predilection for ‘working’ in his bath; or the pimply child calmly snapping his sadistic daddy’s corpse with his Polaroid, while the bruised widow beams approval. Visually, and not a little ironically, the most successful surrealism derives from the use of the real Houston Astrodome (a glass and concrete answer to Dante’s purgatory). Apparently, in the version of the script submitted to MGM, the film was to be set in New York. But Altman, as in _MASH_, shows a keen ear for Southern comfort, and one of his happiest inventions is the voice on the police car radio, transmitting details of the suspect’s whereabouts and signing off with a cheery ‘Proceed with caution, you-all.’
+The conception may be dubious, but the characterisation is impeccable – and this holds true for so many elements in the film: Michael Murphy (another _MASH_ veteran) as the blue-eyed boy of the West Coast Force, with a suitcase full of cashmere sweaters and specialising in unruffable calm, shooting himself when an accident reveals that at least one of his eyes is brown; Stacy Keach as the churlish miser, reaching for his gun when his helpful chauffeur tries to pick up the money he has dropped; William Windom as the soft-spoken politician with a smooth phrase for every journalist and a predilection for ‘working’ in his bath; or the pimply child calmly snapping his sadistic daddy’s corpse with his Polaroid, while the bruised widow beams approval. Visually, and not a little ironically, the most successful surrealism derives from the use of the real Houston Astrodome (a glass and concrete answer to Dante’s purgatory). Apparently, in the version of the script submitted to MGM, the film was to be set in New York. But Altman, as in _MASH_, shows a keen ear for Southern comfort, and one of his happiest inventions is the voice on the police car radio, transmitting details of the suspect’s whereabouts and signing off with a cheery ‘Proceed with caution, you-all.’  
+**Jan Dawson, _Monthly Film Bulletin_, July 1971**
 
-Jan Dawson, _Monthly Film Bulletin_, July 1971
 
-<![endif]-->
 
-**Brewster McCloud**
-
+**BREWSTER MCCLOUD**  
 _Director_: Robert Altman  
-©_/Production Company_: Metro-Goldwyn-Mayer  
+©/_Production Company_: Metro-Goldwyn-Mayer  
 _Production Company_: Lion’s Gate Films  
 _Producer_: Lou Adler  
-_Associate Producers_: Robert Eggenweiler,  
-James Margellos  
+_Associate Producers_: Robert Eggenweiler,  James Margellos  
 _Assistant to Producer_: Ross Levy  
 _Research_: Anne Sidaris *  
 _2nd Unit Director_: Louis Lombardo  
@@ -91,5 +87,5 @@ USA 1970©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM5NTk2MzBdfQ==
+eyJoaXN0b3J5IjpbMTcxNDUzODQzOV19
 -->
