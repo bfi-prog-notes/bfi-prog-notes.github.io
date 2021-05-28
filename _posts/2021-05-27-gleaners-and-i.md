@@ -50,14 +50,9 @@ _Assistant Editor:_ Laure-Alice Hervé
 _Post-production Assistant:_ Marina Loubet  
 _Titles:_ Excalibur  
 _Laboratory:_ GTC  
-_Original Music:_ Joanna Bruzdowicz,  François Wertheimer, Agnès Bredel, Richard Klugman  
-_Sound:_ Emmanuel Soland  
-_Sound Mixer:_ Nathalie Vidal  
-_Sound Editors:_ Raphaël Sohier,  Thaddée Bertrand  
-_Foley:_ Nicolas Becker  
+_Original Music:_ Joanna Bruzdowicz,  François Wertheimer, Agnès Bredel, Richard Klugman  _Sound:_ Emmanuel Soland  _Sound Mixer:_ Nathalie Vidal  _Sound Editors:_ Raphaël Sohier,  Thaddée Bertrand  _Foley:_ Nicolas Becker  
 
-France 2000©  
-82 mins
+France 2000©  82 mins
 
 **DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**  
 **Blow Out**<br>
@@ -127,5 +122,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI1NjI1NzRdfQ==
+eyJoaXN0b3J5IjpbLTEzMTgwMTYyNDRdfQ==
 -->
