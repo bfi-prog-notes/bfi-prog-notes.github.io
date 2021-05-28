@@ -89,7 +89,7 @@ Maud Hansson _(the witch)_
 Gunnar Olsson _(church painter)_  
 Anders Ek _(monk)_  
 
-_uncredited_
+_uncredited_  
 Lars Lind _(young man outside church)_  
 Bengt-Åke Benktsson _(tavern keeper)_  
 Tor Borong _(peasant in tavern)_  
