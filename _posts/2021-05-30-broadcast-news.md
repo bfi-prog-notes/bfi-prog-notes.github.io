@@ -25,19 +25,26 @@ At least Brooks hasn’t just written a love story with a news studio as a backg
 
 
 
-**BROADCAST NEWS**  
+**BROADCAST NEWS**  roadcast News**
+
 _Director_: James L. Brooks  
-_Production Companies_:  Twentieth Century Fox Film Corporation,  Gracie Films, Amercent Films,  American Entertainment Partners  
+_Production Companies_:  
+Twentieth Century Fox Film Corporation,  
+Gracie Films, Amercent Films,  
+American Entertainment Partners  
 _Executive Producer_: Polly Platt  
 _Producer_: James L. Brooks  
 _Co-producer_: Penney Finkelman Cox  
 _Associate Producers_: Kristi Zea, Susan Zirinsky  
-_Production Executive for Gracie Films_:  Richard Sakai  
-_Senior Production Associates_: Diane Brooks,  Paul Germain  
+_Production Executive for Gracie Films_:  
+Richard Sakai  
+_Senior Production Associates_: Diane Brooks,  
+Paul Germain  
 _Production Co-ordinator_: Cynthia E. Streit  
 _Unit Production Manager_: David V. Lester  
 _Location Manager_: Stuart Neumann  
-_Production Assistants_: Sebastian Ballhaus, Margaret Murphy, Lynsey Evans, Craig Knisek,  Clay Griffith  
+_Production Assistants_: Sebastian Ballhaus, Margaret Murphy, Lynsey Evans, Craig Knisek,  
+Clay Griffith  
 _Assistant Directors_: Yudi Bennett, David Sardi, Barbara Bruno  
 _2nd Unit Assistant Director_: Peter Schindler  
 _Casting_: Ellen Chenoweth  
@@ -50,11 +57,13 @@ _Director of Photography_: Michael Ballhaus
 _2nd Unit Photographer_: Gregg Heschong  
 _Camera Operator_: David M. Dunlap  
 _Video Co-ordinator_: Richard Clark  
-_Video Technicians_: Douglas A. Degrazzio,  Van Scarboro  
+_Video Technicians_: Douglas A. Degrazzio,  
+Van Scarboro  
 _Video Camera Crew_: Bruce Kissel, Greg Larson, Winter Byrd  
 _Graphics_: The EFX Company  
 _Editor_: Richard Marks  
-_Additional Editors_: David Moritz,  Margaret Goodspeed, Mike Mulconnery  
+_Additional Editors_: David Moritz,  
+Margaret Goodspeed, Mike Mulconnery  
 _Production Designer_: Charles Rosen  
 _Set Designer_: Harold Fuhrman  
 _Set Decorator_: Jane Bogart  
@@ -65,7 +74,8 @@ _Men’s Costumer_: Tony Scarano
 _Make-up_: Carl Fullerton  
 _Titles_: Saul Bass  
 _Titles Co-ordinator_: Jeff Okun  
-_Opticals_: Cinema Research Corporation,  Clayton R. Marsh, Apogee Inc.  
+_Opticals_: Cinema Research Corporation,  
+Clayton R. Marsh, Apogee Inc.  
 _Music_: Bill Conti  
 _Orchestrations_: Jack Eskew  
 _Music Editor_: Robert Badami  
@@ -74,8 +84,10 @@ _Sound Recording_: Thomas Causey
 _Sound Re-recording_: Don Mitchell, Rick Kline, Kevin O’Connell  
 _Additional Sound Re-recording_: Steve Maslow, Grover Helsley, Gregg Landaker  
 _Supervising Sound Editor_: Robert Grieve  
-_Dialogue Editors_: Jacqueline Christianini,  Jack Smathers, Dave Kulczycki  
-_Sound Effects Editors_: Patrick Drummond,  Linda Whittlesey  
+_Dialogue Editors_: Jacqueline Christianini,  
+Jack Smathers, Dave Kulczycki  
+_Sound Effects Editors_: Patrick Drummond,  
+Linda Whittlesey  
 _Supervising ADR Editor_: Beth Bergeron  
 _ADR Editors_: Jessica Gallavan, Jeff Rosen  
 _ADR Recording_: Charleen Richards  
@@ -85,7 +97,8 @@ _Stunt Co-ordinator_: Jery Hewitt
 _Technical Co-ordinator_: Charlie Wilson  
 _Special Adviser_: David Davis
 
-**Cast**  
+**_Cast**  :_
+
 William Hurt _(Tom Grunick)_  
 Albert Brooks _(Aaron Altman)_  
 Holly Hunter _(Jane Craig)_  
@@ -152,7 +165,7 @@ Jack Nicholson _(Bill Rorish)_ *
 USA 1987  
 133 mins 
 
-*Uncredited
+* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDczOTE5MjJdfQ==
+eyJoaXN0b3J5IjpbLTQ0ODk5MTY4MCwtMTAwNzM5MTkyMl19
 -->
