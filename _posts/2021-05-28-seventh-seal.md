@@ -17,39 +17,31 @@ During his journey through the plague-ravaged land, Block meets a band of travel
 **3. Because it’s full of great performances**  
 Throughout much of the 1950s, Bergman served as the director of the Malmö City Theatre, where he established a troupe of actors to work with him across both stage and screen. Those featured in _The Seventh Seal_ include Gunnar Björnstrand, Åke Fridell, Gunnel Lindblom, Anders Ek and Bibi Andersson. But it was Max von Sydow, in the leading role, who would rise to international stardom thanks to the success of the film: Hollywood came calling, and some of his most famous roles followed, including Jesus in _The Greatest Story Ever Told_ (1965), Father Merrin in _The Exorcist_ (1973) and Ming the Merciless in _Flash Gordon_ (1980).
 
-**4. Because it’s beautifully shot**
+**4. Because it’s beautifully shot**  
+While Bergman’s later partnership with Sven Nykvist might be more famous today, it was cinematographer Gunnar Fischer who created _The Seventh Seal_’s indelible images. Fischer’s collaboration with Bergman stretched from 1948’s _Port of Call_ to 1960’s  _The Devil’s Eye_, and can be identified by the sheer clarity of his highly composed images. Fischer had a unique understanding of lighting and contrast, which he claimed to have learned from the Danish director Carl Theodor Dreyer (they collaborated together on 1945’s _Two People_). Perhaps the crowning visual achievement of the Bergman-Fischer period, _The Seventh Seal_’s stark black-and-white cinematography exemplifies the duo’s penchant for expressionist, chiaroscuro lighting – the perfect visual metaphor for a film about the clash between lightness and darkness.
 
-While Bergman’s later partnership with Sven Nykvist might be more famous today, it was cinematographer Gunnar Fischer who created _The Seventh Seal_’s indelible images. Fischer’s collaboration with Bergman stretched from 1948’s _Port of Call_ to 1960’s  
-_The Devil’s Eye_, and can be identified by the sheer clarity of his highly composed images. Fischer had a unique understanding of lighting and contrast, which he claimed to have learned from the Danish director Carl Theodor Dreyer (they collaborated together on 1945’s _Two People_). Perhaps the crowning visual achievement of the Bergman-Fischer period, _The Seventh Seal_’s stark black-and-white cinematography exemplifies the duo’s penchant for expressionist, chiaroscuro lighting – the perfect visual metaphor for a film about the clash between lightness and darkness.
-
-**5. Because it’s funnier than you might think**
-
+**5. Because it’s funnier than you might think**  
 Unlike many arthouse directors, Bergman never forgot the need to make his films entertaining. He felt a great responsibility towards his audience, seeing them as the people who were ultimately paying his wages. Somehow, over the years, _The Seventh Seal_ has acquired a reputation for being humourlessly bleak, but the truth is quite different, and the weightier scenes are balanced by scenes of comic relief. In fact, even the opening sequence, in which Block first meets Death, is littered with witty one-liners – as Death draws the black set of chess pieces, he quips: ‘Appropriate, don’t you think?’
 
-**6. Because it’s genuinely iconic**
-
+**6. Because it’s genuinely iconic**  
 There are few films that enter the wider public consciousness to the extent that they become identifiable from a few simple signifiers, but _The Seventh Seal_’s images of Block playing chess with Death must surely be among the most recognisable in cinema history. In crafting the scene, Bergman drew upon a medieval church mural he saw as a child, in which a man played chess with Death. But even if Bergman wasn’t the originator of the concept, it was _The Seventh Seal_ that made it iconic – and, like all iconic works, the film has been parodied many times, perhaps most notably in _Bill & Ted’s Bogus Journey_ (1991).
 
-**7. Because it helped launch the international arthouse film scene**
-
-Although films had been travelling overseas since the silent era, the widespread success of _The Seventh Seal_, especially in America, helped usher in a new period of international exposure for arthouse cinema. The film proved that cinema could be a serious means of philosophical expression and, what’s more, that such expression could be popular with audiences. Foreign films became a viable enterprise in America and, in 1957, the Academy even introduced an Oscar for best foreign language film (though _The Seventh Seal_ wasn’t nominated). Bergman’s film has since become a staple of arthouse cinema and been admired by directors as diverse as Woody Allen, Eric Rohmer, Martin Scorsese, Guillermo del Toro, Paul Verhoeven and Krzysztof Zanussi.
-
-Alex Barrett, bfi.org.uk, 16 February 2017
+**7. Because it helped launch the international arthouse film scene**  
+Although films had been travelling overseas since the silent era, the widespread success of _The Seventh Seal_, especially in America, helped usher in a new period of international exposure for arthouse cinema. The film proved that cinema could be a serious means of philosophical expression and, what’s more, that such expression could be popular with audiences. Foreign films became a viable enterprise in America and, in 1957, the Academy even introduced an Oscar for best foreign language film (though _The Seventh Seal_ wasn’t nominated). Bergman’s film has since become a staple of arthouse cinema and been admired by directors as diverse as Woody Allen, Eric Rohmer, Martin Scorsese, Guillermo del Toro, Paul Verhoeven and Krzysztof Zanussi.  
+**Alex Barrett, bfi.org.uk, 16 February 2017**
 
 **‘The Seventh Seal’: a contemporary review**
 
 _The Seventh Seal_ is a revelation, both in its authentic strangeness and in the new light it throws upon its director, Ingmar Bergman. With this extraordinary film one can discard previous reservations – Bergman is a craftsman with a real vision, working within a commercial establishment, for whom filmmaking is and can be nothing less than a personal catharsis.
 
-This is a wholly indigenous film, with something of Stiller’s sophistication and Sjöström’s sense of elemental worship – indigenous, that is, in its style. It is also a mature embodiment of childhood’s nightmare fears, still to be seen in all their perverted horror painted on the walls of those medieval country churches where Bergman’s father once performed funerals and baptisms and preached sermons. It is a period film in the sense that _Ugetsu_ is a period film, but not in any way in the manner of Fritz Lang’s _Destiny_, where an almost identical subject was handled with heady, heavy, defeated romanticism. There is no implied retreat or pessimism in Bergman’s choice of subject, even though his main images are familiar from any number of medieval morality plays and Chaucerian comedies. These archetypal symbols have been appropriated to lend the film clarity in its quality of timelessness and also its contemporary relevance.  
-The witch-hunters, the penitents and the pillagers are still among us; we are each of us of their breed, deaf, denying, stifled by insecurity, while a bird hovers and screams its warning above – an omen of the Age of the H-bomb.
+This is a wholly indigenous film, with something of Stiller’s sophistication and Sjöström’s sense of elemental worship – indigenous, that is, in its style. It is also a mature embodiment of childhood’s nightmare fears, still to be seen in all their perverted horror painted on the walls of those medieval country churches where Bergman’s father once performed funerals and baptisms and preached sermons. It is a period film in the sense that _Ugetsu_ is a period film, but not in any way in the manner of Fritz Lang’s _Destiny_, where an almost identical subject was handled with heady, heavy, defeated romanticism. There is no implied retreat or pessimism in Bergman’s choice of subject, even though his main images are familiar from any number of medieval morality plays and Chaucerian comedies. These archetypal symbols have been appropriated to lend the film clarity in its quality of timelessness and also its contemporary relevance.  The witch-hunters, the penitents and the pillagers are still among us; we are each of us of their breed, deaf, denying, stifled by insecurity, while a bird hovers and screams its warning above – an omen of the Age of the H-bomb.
 
-Death answers nothing. He remains a dispassionate, cultured, oft-mannered old gentleman, treading softly through a lonely world. Cowled and black-robed, Bengt Ekerot, in perhaps the best performance of a wonderfully well-acted film, makes him a macabre though never bizarre figure. In the film, questions are asked, facts accepted; the innocent and artist (the strolling player) sees visions and the future is his. Bergman answers what he can, though of course there remain mysteries in his film, locked doors over which he keeps jealous watch; and part of the quality of his film lies in what is not explained, in its obscure tensions and unsolved problems.
+Death answers nothing. He remains a dispassionate, cultured, oft-mannered old gentleman, treading softly through a lonely world. Cowled and black-robed, Bengt Ekerot, in perhaps the best performance of a wonderfully well-acted film, makes him a macabre though never bizarre figure. In the film, questions are asked, facts accepted; the innocent and artist (the strolling player) sees visions and the future is his. Bergman answers what he can, though of course there remain mysteries in his film, locked doors over which he keeps jealous watch; and part of the quality of his film lies in what is not explained, in its obscure tensions and unsolved problems.  
+**Peter John Dyer, _Sight and Sound_, Spring 1958**  
 
-Peter John Dyer, _Sight and Sound_, Spring 1958
 
-<![endif]-->
 
-**The Seventh Seal (Det sjunde inseglet)**
+**THE SEVENTH SEAL (Det  INSEGLET)**
 
 _A film by:_ Ingmar Bergman
 
@@ -155,5 +147,5 @@ Sweden 1957
 
 96 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDEzMTYxNV19
+eyJoaXN0b3J5IjpbLTEwODUzODc4ODFdfQ==
 -->
