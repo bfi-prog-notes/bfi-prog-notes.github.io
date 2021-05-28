@@ -41,73 +41,40 @@ Death answers nothing. He remains a dispassionate, cultured, oft-mannered old ge
 
 
 
-**THE SEVENTH SEAL (Det  INSEGLET)**
+**THE SEVENTH SEAL (DET SJUNDE INSEGLET)**  
+_A film by:_ Ingmar Bergman  
+_Presented by:_ Svensk Filmindustri  
+_Studio Manager:_ Carl-Henry Cagarp  
+_Production Manager:_ Allan Ekelund  
+_Assistant Director:_ Lennart Olsson  
+_Script Girl:_ Katarina Faragó  
+_Screenplay:_ Ingmar Bergman  
+_Based on the play_ Trämålning _by:_  Ingmar Bergman  
+_Director of Photography:_ Gunnar Fischer  
+_Assistant Photography:_ Åke Nilsson  
+_Stills Photography:_ Louis Huch  
+_Editor:_ Lennart Wallén  
+_Art Director:_ P.A. Lundgren  
+_Costumes:_ Manne Lindholm  
+_Make-up:_ Nils Nittel  
+_Music:_ Erik Nordgren  
+_Music Director:_ Sixten Ehrling  
+_Sound:_ Aaby Wedin  
+_Assistant Sound:_ Lennart Wallin  
+_Special Sound Effects:_ Evald Andersson  
 
-_A film by:_ Ingmar Bergman
-
-_Presented by:_ Svensk Filmindustri
-
-_Studio Manager:_ Carl-Henry Cagarp
-
-_Production Manager:_ Allan Ekelund
-
-_Assistant Director:_ Lennart Olsson
-
-_Script Girl:_ Katarina Faragó
-
-_Screenplay:_ Ingmar Bergman
-
-_Based on the play_ Trämålning _by:_  
-Ingmar Bergman
-
-_Director of Photography:_ Gunnar Fischer
-
-_Assistant Photography:_ Åke Nilsson
-
-_Stills Photography:_ Louis Huch
-
-_Editor:_ Lennart Wallén
-
-_Art Director:_ P.A. Lundgren
-
-_Costumes:_ Manne Lindholm
-
-_Make-up:_ Nils Nittel
-
-_Music:_ Erik Nordgren
-
-_Music Director:_ Sixten Ehrling
-
-_Sound:_ Aaby Wedin
-
-_Assistant Sound:_ Lennart Wallin
-
-_Special Sound Effects:_ Evald Andersson
-
-_Cast:_
-
-Max von Sydow _(Antonius Block, the knight)_
-
-Inga Landgré _(Karin, the knight’s wife)_
-
-Gunnar Björnstrand _(Jons, the squire)_
-
-Nils Poppe _(Jof, the jester)_
-
-Bibi Andersson _(Mia, the jester’s wife)_
-
-Bengt Ekerot _(Death)_
-
-Åke Fridell _(Plog, the blacksmith)_
-
-Inga Gill _(Lisa, the blacksmith’s wife)_
-
-Erik Strandmark _(Jonas Skat)_
-
-Bertil Anderberg _(Raval)_
-
-Gunnel Lindblom _(mute girl)_
-
+**Cast**  
+Max von Sydow _(Antonius Block, the knight)_  
+Inga Landgré _(Karin, the knight’s wife)_  
+Gunnar Björnstrand _(Jons, the squire)_  
+Nils Poppe _(Jof, the jester)_  
+Bibi Andersson _(Mia, the jester’s wife)_  
+Bengt Ekerot _(Death)_  
+Åke Fridell _(Plog, the blacksmith)_  
+Inga Gill _(Lisa, the blacksmith’s wife)_  
+Erik Strandmark _(Jonas Skat)_  
+Bertil Anderberg _(Raval)_  
+Gunnel Lindblom _(mute girl)_  
 Maud Hansson _(the witch)_
 
 Gunnar Olsson _(church painter)_
@@ -147,5 +114,5 @@ Sweden 1957
 
 96 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUzODc4ODFdfQ==
+eyJoaXN0b3J5IjpbMTI3MjUzNDgyOF19
 -->
