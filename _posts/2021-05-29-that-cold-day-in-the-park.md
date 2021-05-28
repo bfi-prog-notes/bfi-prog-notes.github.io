@@ -15,7 +15,7 @@ Frances brings the boy in out of the rain and lets him sleep in the spare room o
 As a script, _That Cold Day_ is in line with small-scaled women’s pictures of this period such as _Rachel, Rachel_ (1968) or _The Rain People_ (1969), but it is transformed into something larger by Altman’s wary curiosity and Dennis’s shy, rich creativity. The basic situation between Frances and the boy is highly redolent of an older gay male taking in a younger straight male, a feeling only underlined when Frances goes out to get the boy a female prostitute to service him (Bruce LaBruce’s 1993 film _No Skin off My Ass_ is an outright gay homage to this obscure Altman movie).
 
 This is a movie that isn’t at all concerned with holding our attention. There’s something insolent about its opaque privacy, and this insolence might be seen as either enthralling or alienating, but _That Cold Day_ deserves more serious attention, both as a tentative beginning for Altman’s mature style and a bookend for his glorification of Dennis in his mid-period _Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean_ (1982), where she gives one of the all-time great film performances.  
-**Dan Callahan, _Sight & Sound_, April 2013
+**Dan Callahan, _Sight & Sound_, April 2013**
 
 **A contemporary review**
 
@@ -24,18 +24,15 @@ The events of Richard Miles’ original novel have been relocated and their deve
 
 Sandy Dennis’ emotional flutterings as tyro schoolteacher and young faculty wife have been drawn in and smoothed out behind the straight set of Frances’ features. The old enthused and confused rush of emotion has apparently been scotched by the setting through which Frances moves, already grown old in the climate of the elderly company inherited from her dead mother, yet young enough to resist the implication that she belongs with them and quite stung when one of them proposes. Her apartment reflects the sombre feeling of the saturated, stifled air of the damp and dreary exteriors. And Robert Altman has applied this description of personality through the intimacies of setting to other characters: what little we know of the boy is an accumulation of the places he visits, such as the chaos of his home through which he briefly moves like an animal returned to its natural habitat. His quick progress up and down the several storeys is observed from the outside, with the camera moving up the side of the building as if viewing an animated cross-section. But these bits and pieces hardly provide a full enough picture of the character. His appeal to Frances lies in his docile mystery, but though we know more about him than she does – enough to dispel the mystery – it is still not enough to clear away a certain bafflement about what makes him tick.
 
-In Richard Miles’ novel the boy has a clearly placed and defining existence as a male prostitute, an expensive luxury in a Parisian pleasure garden. In Gillian Freeman’s script he has become a quasi-hippy, part of what we are told is Vancouver’s large hippy population. So the film has contemporary significance, but the character has little substance as a representative of this supposed subculture. The presence of this given but ill-defined symbol of a freer way of life leads to further difficulties. It suggests an apparent theme, the contrast between a new generation’s unattached spirit and the jealously possessive frustrations of the uptight culture represented by Frances; but the film’s very intimate approach would suggest more a personal tragedy of a mutual failure of understanding – Frances compulsively caught up in her neurotic delusions, the boy too quickly and thoughtlessly accepting and exploiting her apparent generosity. This would seem to be the point of the swooning loss of focus effect repeatedly used, a coldly effective device suggesting some loss of control, a slipping away of thought and communication into a frozen unreality. In this light the responsibility for the final tragedy is as much the boy’s as Frances’, but the many half-suggestions of his sympathetic symbolic function tend to work against this implication. Sandy Dennis’ performance is a small triumph, but it leaves the film too much of an unbalanced equation which never works out to a satisfactory and wholly convincing conclusion.
+In Richard Miles’ novel the boy has a clearly placed and defining existence as a male prostitute, an expensive luxury in a Parisian pleasure garden. In Gillian Freeman’s script he has become a quasi-hippy, part of what we are told is Vancouver’s large hippy population. So the film has contemporary significance, but the character has little substance as a representative of this supposed subculture. The presence of this given but ill-defined symbol of a freer way of life leads to further difficulties. It suggests an apparent theme, the contrast between a new generation’s unattached spirit and the jealously possessive frustrations of the uptight culture represented by Frances; but the film’s very intimate approach would suggest more a personal tragedy of a mutual failure of understanding – Frances compulsively caught up in her neurotic delusions, the boy too quickly and thoughtlessly accepting and exploiting her apparent generosity. This would seem to be the point of the swooning loss of focus effect repeatedly used, a coldly effective device suggesting some loss of control, a slipping away of thought and communication into a frozen unreality. In this light the responsibility for the final tragedy is as much the boy’s as Frances’, but the many half-suggestions of his sympathetic symbolic function tend to work against this implication. Sandy Dennis’ performance is a small triumph, but it leaves the film too much of an unbalanced equation which never works out to a satisfactory and wholly convincing conclusion.  
+**Richard Combs, _Monthly Film Bulletin_, October 1969**
 
-Richard Combs, _Monthly Film Bulletin_, October 1969
 
-<![endif]-->
 
-**That Cold Day in the Park**
-
+**THAT COLD DAY IN THE PARK**  
 _Director_: Robert Altman  
-©_/Production Company_: Factor-Altman-Mirell Films  
-_Presented by_:  
-Commonwealth United Entertainment  
+©/_Production Company_: Factor-Altman-Mirell Films  
+_Presented by_:  Commonwealth United Entertainment  
 _Producers_: Donald Factor, Leon Mirell  
 _Associate Producer_: Robert Eggenweiler  
 _Production Executive_: James Margellos  
@@ -54,14 +51,12 @@ _Hairstylist_: Salli Bailey
 _Music_: Johnny Mandel  
 _Music Editing by_: Synchrofilm Inc.  
 _Sound_: John H.W. Gusselle  
-_Additional Post-production [new frame]_:  
-Paragon Films  
+_Additional Post-production [new frame]_:  Paragon Films  
 _Paragon (Producer)_: Don Hulette  
 _Paragon (Supervisor)_: Ronald Stein  
 _Studio_: Panorama Studios
 
-_Cast:_
-
+**Cast**  
 Sandy Dennis _(Frances Austen)_  
 Michael Burns _(the boy)_  
 Susanne Benton _(Nina)_  
@@ -76,16 +71,12 @@ Lloyd Berry _(Mr Parnell)_
 Linda Sorensen _(prostitute)_  
 Michael Murphy _(the rounder)_
 
-Canada/USA 1969
-
+Canada/USA 1969  
 110 mins
 
-* Uncredited
+*Uncredited
 
-Restored 35mm print courtesy of the  
-UCLA Film & Television Archive.  
-Restoration funded by The Film Foundation  
-and the Hollywood Foreign Press Association.
+Restored 35mm print courtesy of the  UCLA Film & Television Archive. Restoration funded by The Film Foundation  and the Hollywood Foreign Press Association.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzQ0ODg2OV19
+eyJoaXN0b3J5IjpbLTE5NzEzNjEwNDhdfQ==
 -->
