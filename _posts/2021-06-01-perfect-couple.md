@@ -17,17 +17,14 @@ Such qualities may make the film sound, in the context of Altman’s work, sadly
 
 
 
-**A PER Couple**
-
+**A PERFECT COUPLE**  
 _Director_: Robert Altman  
 ©: Twentieth Century-Fox Film Corporation  
 _Production Company_: Lion’s Gate Films  
-_Presented by_:  
-Twentieth Century-Fox Film Corporation  
+_Presented by_:  Twentieth Century-Fox Film Corporation  
 _Executive Producer_: Tommy Thompson  
 _Producer_: Robert Altman  
-_Associate Producers_: Robert Eggenweiler,  
-Scott Bushnell  
+_Associate Producers_: Robert Eggenweiler,  Scott Bushnell  
 _Project Co-ordinator_: Victoria Barney  
 _Project Auditor_: Dick Dubuque  
 _Post-production_: Lion’s Gate Sound  
@@ -37,8 +34,7 @@ _2nd Assistant Director_: Bill Cosentino
 _Script Supervisor_: Luca Kouimelis  
 _Written by_: Robert Altman, Allan Nicholls  
 _Director of Photography_: Edmond L. Koons  
-_Lighting (Keepin’ ‘Em off the Streets)_:  
-Charlie Anderson  
+_Lighting (Keepin’ ‘Em off the Streets)_:  Charlie Anderson  
 _Camera Operator_: Jan Keisser  
 _Camera Assistants_: Cal Roberts, Rick Mention  
 _Gaffer_: Randy Glass  
@@ -46,8 +42,7 @@ _Key Grip_: Tom Prophet Jr
 _Special Effects_: Tom Fisher  
 _Editor_: Tony Lombardo  
 _Assistant Editors_: Raja R. Gosnell, Eric Whitfield  
-_Set Designer (Keepin' 'Em Off the Streets)_:  
-Leon Ericksen  
+_Set Designer (Keepin' 'Em Off the Streets)_:  Leon Ericksen  
 _Property Master_: Steve Altman  
 _Costumes (Keepin’ ‘Em off the Streets)_: Anna Vilms  
 _Wardrobe_: Beth Alexander  
@@ -63,12 +58,10 @@ _Sound_: Robert Gravenor, Don Merritt
 _Re-recording_: Richard Portman  
 _Sound Editors_: David Horton, Sam Gemette  
 _Negative Editor_: Jack Hooper  
-_Road Manager (Keepin’ ‘Em off the Streets)_:  
-Greg Mulgrew  
+_Road Manager (Keepin’ ‘Em off the Streets)_:  Greg Mulgrew  
 _Roadie (Keepin’ ‘Em off the Streets)_: Jim Kunellis
 
-_Cast:_
-
+**Cast**  
 Paul Dooley _(Alex Theodopoulos)_  
 Marta Heflin _(Sheila Shea)_  
 Titos Vandis _(Panos Theodopoulos)_  
@@ -97,13 +90,11 @@ David Luell _(saxophone)_
 Butch Sandford _(guitar)_  
 Art Wood _(drums)_  
 Ren Woods _(special guest appearance)_  
-Tom Pierson_  
-(conductor of LA Philharmonic Orchestra)_  
-Mona Golabek _(piano soloist)_
+Tom Pierson _(conductor of LA Philharmonic Orchestra)_  
+Mona Golabek _(piano soloist)_  
 
-USA 1979©
-
+USA 1979©  
 111 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MzY0MzQ0XX0=
+eyJoaXN0b3J5IjpbMTc5OTY3ODg4XX0=
 -->
