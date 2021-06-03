@@ -14,11 +14,9 @@ Permutations of the real and the unreal, of lives and half-lives, circulate roun
 
 
 
-**Come Back to the 5 & Dime  Jimmy Dean, Jimmy Dean**
-
+**COME BACK TO THE FIVE & DIME JIMMY DEAN, JIMMY DEAN**  
 _Director:_ Robert Altman  
-©_/Production Companies:_  
-MG Cable Productions, Viacom Enterprises  
+©_/Production Companies:_  MG Cable Productions, Viacom Enterprises  
 _Production Company:_ Sandcastle 5 Productions  
 _Presented by:_ Mark Goodson  
 _Executive Producer:_ Giraud Chester  
@@ -33,22 +31,19 @@ _Director of Photography:_ Pierre Mignot
 _Assistant Photographers:_ Robert Reed Altman, Jean Lépine  
 _Camera Operator:_ Michael Levine  
 _Editor:_ Jason Rosenfield  
-_Assistant Editors:_ Diane Asnes, Celeste Hines,  
-Gina Roose  
+_Assistant Editors:_ Diane Asnes, Celeste Hines,  Gina Roose  
 _Production Designer:_ David Gropman  
 _Set Decorator/Props:_ Stephen Altman  
 _Costumes:_ Scott Bushnell  
 _Wardrobe:_ Greg Fauss, Ben Wilson  
 _Make-up:_ David Craig Forrest  
 _Titles:_ Optical House  
-_Sound Recording:_ Franklin Stettner,  
-Keith Gardner  
+_Sound Recording:_ Franklin Stettner,  Keith Gardner  
 _Sound Re-recording:_ Dick Vorisek, Trans/Audio  
 _Sound Editors:_ Robert Q. Lovett, Al Nahmias  
 _Technical Director:_ Jack Chandler
 
-_Cast:_
-
+**Cast**  
 Sandy Dennis _(Mona)_  
 Cher _(Sissy)_  
 Karen Black _(Joanne)_  
@@ -62,12 +57,11 @@ Gena Ramsel _(Sue Ellen)_
 Ann Risley _(Phyllis Marie)_  
 Dianne Turley Travis _(Alice Ann)_
 
-USA 1982©
-
-109 mins
+USA 1982©  
+109 mins  
 
 Restored 35mm print courtesy of the  
 UCLA Film & Television Archive. Restoration funding provided by The Film Foundation and the Hollywood Foreign Press Association.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzMwMzc4OV19
+eyJoaXN0b3J5IjpbMjA3NDgzOTYxNl19
 -->
