@@ -29,70 +29,38 @@ _Director:_ Robert Altman
 ©: United Artists Corporation  
 _Presented by:_ Jerry Bick, George Litto  
 _Production Company:_ Lion’s Gate Films *  
+_Executive Producer:_ George Litto  
+_Producer:_ Jerry Bick  
+_Associate Producers:_ Robert Eggenweiler,  Thomas Hal Phillips  
+_Production Supervisor:_ Thomas Hal Phillips *  
+_Comptroller:_ Stanley Mark  
+_Production Secretary:_ Kelly White Marshall  
+_Production Assistant:_ Jean D’Oncieu  
+_Assistant Director:_ Tommy Thompson  
+_2nd Assistant Director:_ Mike Kusley  
+_Screenplay by:_ Calder Willingham,  Joan Tewkesbury, Robert Altman  
+_From the_ Edward Anderson _novel_  
+_Cinematographer:_ Jean Boffety  
+_Camera Crew:_ George Bouillet, Harry Walsh III, James Blanford  
+_Key Grips:_ Eddie Lara, Dennis Kuneff, Billy Record  
+_Electrical Gaffer:_ Randy Glass  
+_Editor:_ Lou Lombardo  
+_Assistant Editors:_ Tony Lombardo, Dennis Hill  
+_1st Visual Consultant:_ Jackson DeGovia  
+_2nd Visual Consultant:_ Scott Bushnell  
+_Property Master:_ Marty Wunderlich  
+_Cars:_ Paul Neanover  
+_Colour by:_ DeLuxe  
+_Sound Mixer:_ Don Matthews  
+_Dubbing Mixer:_ Richard Vorisek  
+_Radio Research:_ John Dunning  
+_Research:_ Carol Gister  
+_Location by:_ Cinemobile Systems  
 
-_Executive Producer:_ George Litto
-
-_Producer:_ Jerry Bick
-
-_Associate Producers:_ Robert Eggenweiler,  
-Thomas Hal Phillips
-
-_Production Supervisor:_ Thomas Hal Phillips *
-
-_Comptroller:_ Stanley Mark
-
-_Production Secretary:_ Kelly White Marshall
-
-_Production Assistant:_ Jean D’Oncieu
-
-_Assistant Director:_ Tommy Thompson
-
-_2nd Assistant Director:_ Mike Kusley
-
-_Screenplay by:_ Calder Willingham,  
-Joan Tewkesbury, Robert Altman
-
-_From the_ Edward Anderson _novel_
-
-_Cinematographer:_ Jean Boffety
-
-_Camera Crew:_ George Bouillet, Harry Walsh III, James Blanford
-
-_Key Grips:_ Eddie Lara, Dennis Kuneff, Billy Record
-
-_Electrical Gaffer:_ Randy Glass
-
-_Editor:_ Lou Lombardo
-
-_Assistant Editors:_ Tony Lombardo, Dennis Hill
-
-_1st Visual Consultant:_ Jackson DeGovia
-
-_2nd Visual Consultant:_ Scott Bushnell
-
-_Property Master:_ Marty Wunderlich
-
-_Cars:_ Paul Neanover
-
-_Colour by:_ DeLuxe
-
-_Sound Mixer:_ Don Matthews
-
-_Dubbing Mixer:_ Richard Vorisek
-
-_Radio Research:_ John Dunning
-
-_Research:_ Carol Gister
-
-_Location by:_ Cinemobile Systems
-
-_Cast:_
-
-Keith Carradine _(Bowie A. Bowers)_
-
-Shelley Duvall _(Keechie Mobley)_
-
-John Schuck _(Elmo ‘Chicamaw’ Mobley)_
+**Cast**  
+Keith Carradine _(Bowie A. Bowers)_  
+Shelley Duvall _(Keechie Mobley)_  
+John Schuck _(Elmo ‘Chicamaw’ Mobley)_  
 
 Bert Remsen _(T.W. ‘T-Dub’ Masefeld)_
 
@@ -131,5 +99,5 @@ USA 1973©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA1NTQxNDFdfQ==
+eyJoaXN0b3J5IjpbODUxMDAyNDc5XX0=
 -->
