@@ -61,43 +61,26 @@ _Location by:_ Cinemobile Systems
 Keith Carradine _(Bowie A. Bowers)_  
 Shelley Duvall _(Keechie Mobley)_  
 John Schuck _(Elmo ‘Chicamaw’ Mobley)_  
+Bert Remsen _(T.W. ‘T-Dub’ Masefeld)_  
+Louise Fletcher _(Mattie)_  
+Ann Latham _(Lula)_  
+Tom Skerritt _(Dee Mobley)_  
+Al Scott _(Captain Stammers)_  
+John Roper _(Jasbo)_  
+Mary Waits _(Noel Joy)_  
+Rodney Lee Jr _(James Mattingly)_  
+William Watters _(Alvin)_  
+Joan Maguire _(lady in train station)_  
+Eleanor Matthews _(Mrs Stammers)_  
+Pam Warner _(woman in accident)_  
+Suzanne Majure _(Coca-Cola girl)_  
+Walter Cooper, Lloyd Jones _(sheriffs)_  
+Edward Fisher, Josephine Bennett,  Howard Warner _(bank hostages)_ *  
 
-Bert Remsen _(T.W. ‘T-Dub’ Masefeld)_
-
-Louise Fletcher _(Mattie)_
-
-Ann Latham _(Lula)_
-
-Tom Skerritt _(Dee Mobley)_
-
-Al Scott _(Captain Stammers)_
-
-John Roper _(Jasbo)_
-
-Mary Waits _(Noel Joy)_
-
-Rodney Lee Jr _(James Mattingly)_
-
-William Watters _(Alvin)_
-
-Joan Maguire _(lady in train station)_
-
-Eleanor Matthews _(Mrs Stammers)_
-
-Pam Warner _(woman in accident)_
-
-Suzanne Majure _(Coca-Cola girl)_
-
-Walter Cooper, Lloyd Jones _(sheriffs)_
-
-Edward Fisher, Josephine Bennett,  
-Howard Warner _(bank hostages)_ *
-
-USA 1973©
-
+USA 1973©  
 123 mins
 
-* Uncredited
+*Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxMDAyNDc5XX0=
+eyJoaXN0b3J5IjpbMzU2ODk3ODA5XX0=
 -->
