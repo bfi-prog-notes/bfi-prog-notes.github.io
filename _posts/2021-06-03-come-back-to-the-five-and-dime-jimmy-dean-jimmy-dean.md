@@ -23,7 +23,7 @@ Permutations of the real and the unreal, of lives and half-lives, circulate roun
 
 
 
-**COME BACK TO THE FIVE & DIME JIMMY DEAN, JIMMY DEAN**  
+**COME BACK TO THE 5 & DIME JIMMY DEAN, JIMMY DEAN**  
 _Director:_ Robert Altman  
 ©_/Production Companies:_  MG Cable Productions, Viacom Enterprises  
 _Production Company:_ Sandcastle 5 Productions  
