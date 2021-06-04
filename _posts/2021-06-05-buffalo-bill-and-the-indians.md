@@ -83,38 +83,26 @@ Denver Pyle _(McLaughlin, the Indian agent)_
 Frank Kaquitts _(Chief Sitting Bull, the Indian)_  
 Will Sampson _(William Halsey, the interpreter)_  
 Ken Krossa _(Johnny Baker, the arenic director)_  
-Fred N. Larsen _(Buck Taylor, the king of the cowboys)_
+Fred N. Larsen _(Buck Taylor, the king of the cowboys)_  
+Jerri Duce, Joy Duce _(the cowboy trick riders)_  
+Alex Green  _(Munoz, the Mexican whip & fast draw act)_  
+Gary MacKenzie  _(Manuel, the Mexican whip & fast draw act)_  
+Pat McCormick _(Grover Cleveland, US president)_  
+Shelley Duvall _(Frances Folsom Cleveland, the wife)_  
+Burt Lancaster _(Ned Buntline, the legend maker)_  
+Humphrey Gratz _(the old soldier)_ *  
+E.L. Doctorow _(O.W. Fizician, the speech writer)_ *  
+Pluto Calcedona _(Brigham the horse)_ *  
 
-Jerri Duce, Joy Duce _(the cowboy trick riders)_
-
-Alex Green  
-_(Munoz, the Mexican whip & fast draw act)_
-
-Gary MacKenzie  
-_(Manuel, the Mexican whip & fast draw act)_
-
-Pat McCormick _(Grover Cleveland, US president)_
-
-Shelley Duvall _(Frances Folsom Cleveland, the wife)_
-
-Burt Lancaster _(Ned Buntline, the legend maker)_
-
-Humphrey Gratz _(the old soldier)_ *
-
-E.L. Doctorow _(O.W. Fizician, the speech writer)_ *
-
-Pluto Calcedona _(Brigham the horse)_ *
-
-USA 1976©
-
+USA 1976©  
 123 mins
 
-* Uncredited
+*Uncredited
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTAxMjM4MCw5MjA1NTM1MDIsMTk2OD
-I4OTA3NSwxNDQ5OTU2MjU3XX0=
+eyJoaXN0b3J5IjpbODUzNDQyMTAyLDkyMDU1MzUwMiwxOTY4Mj
+g5MDc1LDE0NDk5NTYyNTddfQ==
 -->
