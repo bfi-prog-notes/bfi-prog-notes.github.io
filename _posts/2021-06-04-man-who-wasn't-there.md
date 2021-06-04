@@ -20,7 +20,130 @@ Stylistically, meanwhile, the _mise en scène_ of _The Man Who Wasn’t There_ h
 If classic _films noirs_ are febrile, there’s a case to be made that _The Man Who Wasn’t There_, which is languid to the point of sluggishness, is not only an anti-_noir_ – as if the Coens were trying to catch out all the film reviewers who will inevitably mislabel it – but a puritanical revision of Cain too. Cain’s paradigmatic noir stories were about the feverish desire to make a wish come true and the price that’s paid when it does. In _Postman_ and _Double Indemnity_, Michael Walker has written in _The Movie Book of Film Noir_ (1992), ‘the hero becomes so obsessed sexually by a woman that he is persuaded to murder her husband, and the _noir_ world which he enters is psychological rather than physical, characterised above all by guilt and the fear of discovery.’ Nothing like Ed, in other words.
 
 The somnambulistic barber – ‘it was like I was a ghost walking down the street,’ he reports after Doris meets her fate – is a cypher in his own story, like the Western ‘hero’ nobody noticed in the Pete Atkin / Clive James song ‘Stranger in Town’. As the title suggests, the film is built around a structuring absence. Usually that means the absence of a parent or a spouse, but here it means the absence of ego. So what does Ed want, if not money, success, a prime piece of jailbait or even to be a small-town barber? Or, to frame the question as Ed’s brother-in-law Frank and Big Dave put it, ‘What kind of man are you?’ Although the Coens have Ed voice an existential question about the pointlessness of life when, giving a kid a crew cut, he muses on the inexorability and disposability of human hair, there’s an overriding sense that he wants nothing and is no kind of man but a dead man walking.<br>
-**Graham Fuller, _Sight and Sound_, October 2001**
+**Graham Fuller, _Sight and Sound_, October 2001**<br><br>
+<![endif]-->
+
+**The Man Who Wasn’t There**
+
+_Directed by_: Joel Coen  
+©: Gramercy Pictures  
+_Presented by_: USA Films  
+_Production Company_: Working Title Films  
+_Executive Producers_: Tim Bevan, Eric Fellner  
+_Produced by_: Ethan Coen  
+_Co-producer_: John Cameron  
+_Associate Producer_: Robert Graf  
+_Unit Production Manager_: John Cameron  
+_Production Co-ordinator_: Karen Ruth Getchell  
+_Production Accountant_: Cheryl Kurk  
+_Location Manager_: Ned Shapiro  
+_Post-production Supervisor_: David Diliberto  
+_1st Assistant Director_: Betsy Magruder
+
+_Script Supervisor_: Donald Murphy  
+_Casting by_: Ellen Chenoweth  
+_Written by_: Joel Coen, Ethan Coen  
+_Director of Photography_: Roger Deakins  
+_Camera Operator_: Clint Dougherty  
+_1st Assistant Camera_: Andy Harris
+
+_Key Grip_: Bob Gray  
+_Visual Effects Supervisor_: Janek Sirrs  
+_Special Visual Effects_: LLC Manex Visual Effects  
+_Special Effects Supervisor_: Peter Chesney  
+_Film Editors_: Roderick Jaynes, Tricia Cooke  
+_Associate Film Editor_: David Diliberto  
+_Production Designer_: Dennis Gassner  
+_Art Director_: Chris Gorak  
+_Set Designer_: Jeff Markwith  
+_Set Decorator_: Chris Spellman  
+_Property Master_: Ritchie Kremer  
+_Costume Designers_: Mary Zophres, Maria Aguilar  
+_Make-up Supervisors_: Jean Black,  
+Amy Schmiederer  
+_Special Effects Make-up_:  
+Make-up & Monster Studios  
+_Hair Designer_: Paul Leblanc  
+_Key Hairstylist_: Joani Yarbrough, Carol Doran  
+_Title Design_: Balsmeyer & Everett Inc,
+
+Randall Balsmeyer  
+_Opticals_: Pacific Title  
+_Original Score_: Carter Burwell, Dean Parker  
+_Piano Performances_: Jonathan Feldman,
+
+Aquim Krajka  
+_Orchestrated and Conducted by_: Carter Burwell  
+_Choreographer_: Bill Landrum, Jacqui Landrum  
+_Sound Design_: Eugene Gearty  
+_Production Sound Mixer_: Peter Kurland  
+_Boom Operator_: Randy Johnson  
+_Re-recording Mixer_: Skip Lievsay  
+_Supervising Sound Editor_: Skip Lievsay  
+_Sound Editor_: Jerry Ross  
+_Dialogue Editor_: Fred Rosenberg  
+_ADR Editor_: Kenton Jakub  
+_Foley Supervisor_: Jennifer Ralston  
+_Foley Artist_: Marko Costanzo  
+_Foley Mixer_: George A. Lara  
+_Foley Editor_: Ben Cheah  
+_Stunt Co-ordinator_: Jery Hewitt
+
+_Cast:_  
+Billy Bob Thornton _(Ed Crane)_  
+Frances McDormand _(Doris Crane)_  
+Adam Alexi-Malle _(Carcanogues)_  
+Michael Badalucco _(Frank)_  
+Katherine Borowitz _(Ann Nirdlinger)_  
+Richard Jenkins _(Walter Abundas)_  
+Scarlett Johansson _(Birdy Abundas)_  
+Jon Polito _(Creighton Tolliver)_  
+Tony Shalhoub _(Freddy Riedenschneider)_  
+James Gandolfini _(Big Dave Nirdlinger)_  
+Christopher Kriesa _(Persky)_  
+Brian Haley _(Krebs)_  
+Jack Mcgee _(Burns)_  
+Gregg Binkley _(the new man)_  
+Alan Fudge _(Diedrichson)_  
+Lilyan Chauvin _(medium)_  
+Ted Rooney _(bingo caller)_  
+Abraham Benrubi _(young man)_  
+Christian Ferratti _(child)_  
+Rhoda Gemignani _(Costanza)_  
+E.J. Callahan _(customer)_  
+Brooke Smith _(sobbing prisoner)_  
+Ron Ross _(banker)_  
+Hallie Singleton _(waitress)_  
+Jon Donnelly _(gatto eater)_  
+Dan Martin _(bailiff)_  
+Nicholas Lanier _(Tony)_  
+Tom Dahlgren _(judge 1)_  
+Booth Colman _(judge 2)_  
+Stanley Desantis _(new man's customer)_  
+Peter Siragusa _(bartender)_  
+Christopher McDonald _(macadam salesman)_  
+John Michael Higgins _(doctor)_  
+Rick Scarry _(district attorney)_  
+George Ives _(Lloyd Garroway)_  
+Devin Cole Borisoff _(swimming boy)_  
+Mary Bogue _(prisoner visitor)_  
+Don Donati _(pie contest timer)_  
+Arthur Reeves _(flophouse clerk)_  
+Michelle Rae Weber _(dancer)_  
+Randi Pareira _(dancer)_  
+Robert Loftin _(dancer)_  
+Kenneth Hughes _(dancer)_  
+Gordon Hart _(dancer)_  
+Brenda Mae Hamilton _(dancer)_  
+Lloyd Gordon _(dancer)_  
+Leonard Crofoot _(dancer)_  
+Rita Bland _(dancer)_  
+Audrey Baranishyn _(dancer)_  
+Qyn Hughes _(dancer)_  
+Rachel Mcdonald _(dancer)_
+
+USA 2001<br>
+116 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTY4MjkyNDddfQ==
+eyJoaXN0b3J5IjpbNTEyNjM0MzYwXX0=
 -->
