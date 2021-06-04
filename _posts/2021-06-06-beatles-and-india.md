@@ -1,8 +1,7 @@
-<![endif]-->
-
 _+ Q&A with directors_
 
-_The Beatles and India_ is a unique historical chronicle of the enduring love affair between The Beatles and India that started more than half a century ago.  
+_The Beatles and India_ is a unique historical chronicle of the enduring love affair between The Beatles and India that started more than half a century ago. <br>
+
 Rare archival footage, recordings and photographs, eye-witness accounts and expert comments along with location shoots across India, bring alive the fascinating journey of George, John, Paul and Ringo from their high octane celebrity lives in the West to a remote Himalayan ashram in search of spiritual bliss that inspires an unprecedented burst of creative songwriting. It is the first serious exploration of how India shaped the development of the greatest ever rock band and their own pioneering role bridging two vastly different cultures.
 
 Director Ajoy Bose was a teenage rebel in Calcutta in love with the Beatles when they came to India. His long mop and the psychedelic flowers painted on his shirt imitating the Fab Four led to fierce fights with his bureaucrat father.  In an interesting quirk of fate half a century later as an established journalist and author, Bose was writing a book, _Across the Universe – The Beatles in India_ to mark the 50th anniversary of The Beatles’ historic trip to Rishikesh for the world’s largest publishing house, Penguin Random House.
@@ -32,7 +31,50 @@ In _The Beatles and India_ you will see:
 - Star Indian singer and music producer Biddu (interviewed in the film) frames the opening titles with his first western music release from 1967, _Look Out Here I Come_. Featuring a galaxy of future music superstars, Jimmy Page and John Paul Jones (Led Zeppelin), John McLaughlin (guitar virtuoso), Nick Hopkins (session pianist, The Rolling Stones, The Who and many more) and Tony Visconti (David Bowie producer).
 
 -  Featuring a full orchestral score composed by Emmy and IFMCA nominated composer Benji Merrison (_Dynasties_, _The Green Planet_) and recorded in Hungary, India and London, the latter in the famous Beatles ‘Studio 2’ at Abbey Road.<br>
-**Production notes**
+**Production notes**<br><br>
+<![endif]-->
+
+**The Beatles and India**
+
+_Director:_ Ajoy Bose
+
+©: Beatles and India Movie Ltd.
+
+_Co-director:_ Peter Compton
+
+_Produced by:_ Renoir Pictures - A Silva Screen
+
+_Producer:_ Reynold D’Silva
+
+_Line Producer (India):_ Neelima Goel
+
+_Executive Producers:_ Adam Greenup, Keith Ferreira
+
+_Director of Photography (India):_ Virendra Khanna
+
+_Director of Photography (UK):_ Andy Dunn
+
+_Editor (UK):_ Ben Nugent
+
+_Post Production:_ Halo Post Production
+
+_Conform and Visual Effects:_ Fluid Films
+
+_Titles and Graphics:_ El Carousel
+
+_Score Composed by:_ Benji Merrison
+
+_Sound:_ Fizz-E-Motion
+
+_Sound Designer:_ Luke Corradine
+
+_Sound (India):_ Anita Khuswaha
+
+UK/India 2021
+
+92 mins
+
+**Tongues on Fire** is the producer of the UK Asian Film Festival. You can find out more about their festival at **tonguesonfire.com**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDg2OTc4OV19
+eyJoaXN0b3J5IjpbMTczNzc0NjEyN119
 -->
