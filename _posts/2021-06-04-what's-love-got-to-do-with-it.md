@@ -32,16 +32,14 @@ As Tina Turner, Angela Bassett faced these pressures. Plus she had the real Tina
 ‘I thought about that during my day shooting on _Malcolm_. About how, when Robert Dole starts laying into Clinton, we don’t start running around, going “This is awful for white people!” Right there is some of what Angela found herself up against. Tina Turner’s story is just so big, so racially loaded.’  
 **Cynthia Rose, _Sight and Sound_, October 1993**
 
-<![endif]-->
 
-**What’s Love Got to Do with It**
 
+**WHAT'S LOVE GOT TO DO WITH IT**  
 _Directed by_: Brian Gibson  
 ©: Touchstone Pictures  
 _Production Company_: Krost/Chapin Productions  
 _Presented by_: Touchstone Pictures  
-_Distributed by_:  
-Buena Vista Pictures Distribution Inc.  
+_Distributed by_:  Buena Vista Pictures Distribution Inc.  
 _Executive Producers_: Roger Davies, Mario Iscovich  
 _Produced by_: Doug Chapin, Barry Krost  
 _Co-producer_: Pat Kehoe  
@@ -58,13 +56,11 @@ _1st  Assistant Camera_: William G. Clevenger
 _Key Grip_: Al LaVerde  
 _Special Effects Co-ordinator_: James K. Fredburg  
 _Editor_: Stuart Pappé  
-_Film Editors_: Dave Rawlins, Michael J. Hill,  
-Thomas G. Finnan  
+_Film Editors_: Dave Rawlins, Michael J. Hill,  Thomas G. Finnan  
 _Production Designer_: Stephen Altman  
 _Art Director_: Richard Johnson  
 _Property Master_: William Blount  
-_Costumes Designed by_: Ruth Carter,  
-Dana R. Woods  
+_Costumes Designed by_: Ruth Carter,  Dana R. Woods  
 _Make-up Designed by_: Marietta A. Carter  
 _Hair Designed by_: Robert L. Stevenson  
 _Title Design_: Deborah Ross Film Design  
@@ -86,20 +82,14 @@ _Re-recording Mixers_: John Reitz, David Campbell, Gregg Rudloff, Buena Vista So
 _Supervising Sound Editor_: John Stacy  
 _Stunt Co-ordinator_: William Washington  
 _Tina & Ike Vocal Coach_: Jessica Drake  
-_Head Wranglers_: Angelo Rivers,  
-West Paw Animal Rentals
+_Head Wranglers_: Angelo Rivers,  West Paw Animal Rentals
 
-_Cast:_  
+**Cast**  
 Angela Bassett _(Tina Turner)_  
 Laurence Fishburne _(Ike Turner)_  
-Rae’Ven Kelly _(young Anna Mae Bullock)_
-
+Rae’Ven Kelly _(young Anna Mae Bullock)_  
 Virginia Capers _(choir mistress)_  
-Dorothy Thornton_,_ Juanita Allen_,_ Natalie Wilson_,_ David McKinney_,_ Maurice O’Niel_,_ Monroe Howard_,_ Wakeen Best,  Francis Cheathon_,_ Bell Dawn Best_,_
-
-Billie Barnum,  Jeanne Steele_,_ Cassandra Thames_,_ Demetrice Cheathon_,_ Helen Marie Lovelace_,_ Seymour Daniel_,_ Jayd Stanfield_,_ Frank Raspberry_,_ Serist Roberts,  Michelle Jackson_,_ Dena Ellerbee_,_
-
-Maggie McGee,  Alfie Silas_,_ Oren Waters,  
+Dorothy Thornton_,_ Juanita Allen_,_ Natalie Wilson_,_ David McKinney_,_ Maurice O’Niel_,_ Monroe Howard_,_ Wakeen Best,  Francis Cheathon_,_ Bell Dawn Best_,_Billie Barnum,  Jeanne Steele_,_ Cassandra Thames_,_ Demetrice Cheathon_,_ Helen Marie Lovelace_,_ Seymour Daniel_,_ Jayd Stanfield_,_ Frank Raspberry_,_ Serist Roberts,  Michelle Jackson_,_ Dena Ellerbee_,_Maggie McGee,  Alfie Silas_,_ Oren Waters,  
 Valetta Barber _(choir members)_  
 Rev Emery Shaw _(organ player)_
 
@@ -117,5 +107,5 @@ USA 1993©
 
 118 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4ODQxODc5XX0=
+eyJoaXN0b3J5IjpbOTk5Njc0NzMwXX0=
 -->
