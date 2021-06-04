@@ -72,9 +72,13 @@ _Associate Producers:_ Robert Eggenweiler,Scott Bushnell, Jac Cashin
   _Wardrobe:_ Jules Melillo
   _Make-up:_ Monty Westmore
   _Title Design:_ Dan Perri
-  _Filmed in:_ Panavision
-  _Colour by:_ Alpha Cine Labs
-  _Prints by:_ DeLuxe General
+  
+
+_Filmed in:_ Panavision
+ 
+_Colour by:_ Alpha Cine Labs
+ 
+_Prints by:_ DeLuxe General
 
 _Music Composer:_ Richard Baskin
 
@@ -167,5 +171,5 @@ USA 1976©
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODU0NDA3NywxNDQ5OTU2MjU3XX0=
+eyJoaXN0b3J5IjpbLTUwNDY0OTkxNSwxNDQ5OTU2MjU3XX0=
 -->
