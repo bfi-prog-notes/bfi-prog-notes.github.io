@@ -29,7 +29,121 @@ From the outset, the crew knew that the difference making a film about a high-pr
 Progress isn’t linear. Activism is ongoing. And while in recent years the many gains that activists, community organizers and in-the-trenches warriors like Justice Ginsburg and Pauli Murray fought for have been threatened if not impaired; we’ve seen, however, with the push has come a powerful push back. ‘We are having conversations we have never had before,’ says Bridges McMahon, ‘And the biggest change is language about gender identity and thinking about it in a more expansive and empathetic way. ‘Pauli was always agitating. Sometimes simply by being in the room, a powerful presence with whom to reckon. Pauli didn’t stop believing in what was right,’ says Weyermann. ‘And that immense and extraordinary drive and commitment is quite stunning.’ In a time when society is rethinking the historical figures we choose to venerate, questioning whose names and visages that are to be put up on buildings or in public squares, the United States is moving into wider and necessary discussions about the past.
 
 ‘Simply put, Pauli was a patriot,’ says Weyermann. Pauli was always pressing and questioning. Taking the unexplored route. That steadfastness and resilience sent a message that has compelling resonance now: ‘We have to progress. We have to come along.’ This is the critical inheritance of Pauli’s legacy. Thirty-years gone, ‘Pauli is still bringing us along.’ says Weyermann. In this sense, _My Name is Pauli Murray_ provides a template. Pauli is forcing us to grapple with what’s uncomfortable: what’s in the shadows or in the margins. What shouldn’t be forgotten. All the wrongs that have to be made right. ‘Absent the historical accounts, other than a piece in _The New Yorker_, there really isn’t much out there about Pauli’s story.’ Weyermann reflects. ‘We have to change this. Pauli gave so much. This wrong has to be made right. We have to do this as storytellers. We have to bring Pauli to light.’<br>
-**Production notes**
+**Production notes**<br><br>
+
+<![endif]-->
+
+**My Name Is Pauli Murray**
+
+_Directed by:_ Julie Cohen, Betsy West
+
+_Executive Producers:_ Jeff Skoll, Diane Weyermann, Elise Pearlstein
+
+_Executive Producer:_ Peggy Drexler
+
+_Co-Executive Producers:_  Eve Plank, Dana DiCarlo
+
+_Produced by:_ Talleah Bridges McMahon
+
+_Associate Producer:_  Claudia Lopez
+
+_Consulting Producer:_ Patricia Bell-Scott
+
+_Archival Producer:_ Claudia Lopez
+
+_Additional Archival Researchers:_
+
+Emily Cofrancesco, Hillary Dann, Nicole London,
+
+Nadine Natour
+
+_Written by:_ Talleah Bridges McMahon, Julie Cohen,
+
+Cinque Northern, Betsy West
+
+_Director of Photography:_  Claudia Raschke
+
+_Camera Operators:_ Wayne Arnold, Hugh Boyle,
+
+Alan Hostetter, Lucas Millard, Peter Nicoll,
+
+Mike Wilson
+
+_Editor:_ Cinque Northern
+
+_Associate Editor:_  Hilary Crowe
+
+_Post Production Supervisor:_ Jim McMahon
+
+_Original Art by:_  Diana Ejaita
+
+_Director of Design and Animation:_  Molly Schwartz
+
+_Animation Producer:_  Rennie Elliot
+
+_Original Music by:_  Jongnic Bontemps
+
+_Additional Composer:_ Derek Baird
+
+_Sound Mixer:_ Sean O’Neil
+
+_Additional Sound:_ Hugh Boyle, Jim Gilchrist,
+
+Geoff Gann, John O’Connor
+
+_With the generous support of:_  George H. Cohen,
+
+Shelley Krause
+
+_With (in alphabetical order):_
+
+Patricia Bell-Scott
+
+Dolores Chandler
+
+Brittney Cooper
+
+Sonia Pressman Fuentes
+
+Justice Ruth Bader Ginsburg
+
+Tina Lu
+
+Marghretta McBean
+
+Ernest Myers and Reggie Sapp
+
+Mary Norris
+
+Congresswoman Eleanor Holmes Norton
+
+Hon. Inez Smith Reid
+
+Rosalind Rosenberg
+
+Karen Ross Rouse
+
+Chase Strangio
+
+Raquel Willis
+
+USA 2021
+
+91 mins
+
+SHEFFIELD DOC/FEST 2021
+
+**International Premiere: My Name Is Pauli Murray + pre-recorded Q&A**
+
+Sun 6 Jun 18:30
+
+**UK Premiere: The First 54 Years: An Abbreviated Manual for Military Occupation + pre-recorded Q&A**
+
+Fri 11 Jun 20:20
+
+**Closing Night: World Premiere: The Story of Looking + pre-recorded Q&A**
+
+Sat 12 Jun 20:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTQzNTMzMV19
+eyJoaXN0b3J5IjpbLTEwMDI5NzAxNzNdfQ==
 -->
