@@ -1,7 +1,16 @@
+---
+layout: post
+title: 20 Feet from Stardom
+published: true
+date: 2021-06-04
+readtime: true
+categories: ['HER VOICE - BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN']
+tags: [Documentary, Music]
+metadata: 'USA, 2013, 93 mins<br> Director: Morgan Neville'
+pdf: '2021-06-04-20-feet-from-stardom.pdf'
+---
 
-
-‘Singing background remains a somewhat unheralded position… But that  
-walk to the front is complicated. It’s a conceptual leap,’ opines Bruce Springsteen, kicking off director Morgan Neville’s exuberant, hit-studded, full-to-bursting documentary celebrating the black female backing singers who added their distinctive sounds to many classic pop and rock songs but found stardom elusive.
+‘Singing background remains a somewhat unheralded position… But that  walk to the front is complicated. It’s a conceptual leap,’ opines Bruce Springsteen, kicking off director Morgan Neville’s exuberant, hit-studded, full-to-bursting documentary celebrating the black female backing singers who added their distinctive sounds to many classic pop and rock songs but found stardom elusive.
 
 Springsteen is the most insightful of a set of very famous stars (Mick Jagger, Stevie Wonder, Sting) who, in a neat reversal, give out here a chorus of analysis and praise for the women who would usually be harmonising behind them. Even in a film dedicated to their own artistry, backing singers need the boosting imprimatur of stars alongside the use of their famous songs. In the spotlight here are some of ‘the most incredible artists you’ve never heard of’, such as Phil Spector veteran Darlene Love, and Merry Clayton, whose career stretched from Raelette (Ray Charles gave her a hard time about a stray note) to creating the scorching scream of ‘Rape, murder – it’s just a shot away’ on the Rolling Stones’ ‘Gimme Shelter’.
 
@@ -40,6 +49,57 @@ _Special Thanks_: Michael Apted
 
 USA 2013©  
 93 mins
+
+**HER VOICE: BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN**<br>
+**Amazing Grace**<br>
+Mon 17 May 18:10; Sat 29 May 15:15; Tue 8 Jun 18:10<br>
+**Whitney: Can I Be Me**<br>
+Tue 18 May 20:50; Sat 26 Jun 18:10<br>
+**Siren of the Tropics (La sirène des tropiques)**<br>
+Wed 19 May 18:10; Sat 5 Jun 12:20<br>
+**Stormy Weather**<br>
+Wed 19 May 20:40; Sat 5 Jun 16:00<br>
+**Dreamgirls**<br>
+Sat 22 May 17:50; Wed 23 Jun 20:30<br>
+**Ella Fitzgerald: Just One of Those Things**<br>
+Mon 24 May 18:10; Sat 19 Jun 15:20<br>
+**…But Then, She’s Betty Carter**<br>
+Sat 29 May 12:10; Mon 7 Jun 18:00<br>
+**Sparkle**<br>
+Sun 30 May 18:40; Thu 10 Jun 20:35<br>
+**Mavis!**<br>
+Mon 31 May 16:10; Thu 17 Jun 20:40<br>
+**Billie**<br>
+Wed 2 Jun 18:00; Tue 15 Jun 20:40<br>
+**What’s Love Got to Do with It**<br>
+Fri 4 Jun 18:00; Sat 26 Jun 20:45<br>
+**Twenty Feet from Stardom**<br>
+Fri 4 Jun 20:45; Thu 10 Jun 18:20<br>
+**The Wiz**<br>
+Sun 6 Jun 12:20; Fri 18 Jun 17:45<br>
+
+**Promotional Partner**<br>
+<img style="float: left;" src="/img/partner/caramel-logo.jpg" alt="Caramel Film Club" title="Caramel Film Club">
+<br><br><br><br><br><br>
+<!-- ![Caramel Film Club](/img/partner/caramel-logo.jpg) -->
+Celebrating films starring and directed by Black talent and more<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4OTcyMTU2MzVdfQ==
 -->
