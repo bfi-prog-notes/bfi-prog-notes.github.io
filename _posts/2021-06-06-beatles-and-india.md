@@ -75,6 +75,41 @@ UK/India 2021
 92 mins
 
 **Tongues on Fire** is the producer of the UK Asian Film Festival. You can find out more about their festival at **tonguesonfire.com**
+<br.<br>
+
+**BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL**
+
+**LIFF Opening Night: WOMB (Women of My Billion) + on stage Q&A with Srishti Bakshi and film critic Anna Smith**
+
+Thu 17 Jun 17:20
+
+**My Beautiful Laundrette**
+
+Fri 18 Jun 20:20
+
+**The Warrior + on-stage career interview with writer-director Asif Kapadia**
+
+Sat 19 Jun 20:30
+
+**Ahimsa: Gandhi the Power of the Powerless**
+
+Sun 20 Jun 15:00
+
+**Searching for Happiness…**
+
+Tue 22 Jun 20:50
+
+**Nazarband Captive**
+
+Wed 23 Jun 20:45
+
+**A’hr Kayattam**
+
+Thu 24 Jun 18:00
+
+**The Salt in Our Waters Nonajoler Kabbo**
+
+Sun 27 Jun 15:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzc0NjEyN119
+eyJoaXN0b3J5IjpbLTE5ODAwNzg4NzFdfQ==
 -->
