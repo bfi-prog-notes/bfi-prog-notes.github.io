@@ -51,117 +51,270 @@ So that’s my aim.<br>
 **Michael Haneke interviewed by Geoff Andrew, _Sight & Sound_, December 2009**<br><br>
 
 
-**THE WHITE RIBBON (DAS WEISSE BAND  EINE DEUTSCHE KINDERGESCHICHTE)**<br>
+**THE WHITE RIBBON (DAS WEISSE BAND  EINE DEUTSCHE KINDERGESCHICHTE)**<br><![endif]-->
+
+**The White Ribbon (Das weisse Band  Eine deutsche Kindergeschichte)**
+
 _Director:_ Michael Haneke<br>
+
 _©:_ X Filme Creative Pool, Wega-Film, Films du Losange (Paris), Lucky Red, ARD, Bayerischer Rundfunk, Österreichischer Rundfunk-Fernsehen, France 3 Cinéma<br>
+
 _Presented by:_ X Filme Creative Pool, Wega-Film, Films du Losange (Paris), Lucky Red<br>
-_In co-operation with:_ ARD, Bayerischer Rundfunk ORF Film/Fernseh-Abkommen, France 3 Cinéma, Canal+, TPS Star<br>
-_With the support of:_ MBB - Medienboard Berlin-Brandenburg<br>
+
+_In co-operation with:_ ARD, Bayerischer Rundfunk 
+
+ORF Film/Fernseh-Abkommen, France 3 Cinéma, Canal+, TPS Star<br>
+
+_With the support of:_ 
+
+MBB - Medienboard Berlin-Brandenburg<br>
+
 _Supervising Producer:_ Michael Katz<br>
+
 _Produced by:_ Stefan Arndt _(Berlin);_ Veit Heiduschka _(Vienna);_ Margaret Ménégoz _(Paris);_ Andrea Occhipinti _(Rome)_<br>
+
 _Line Producer:_ Ulli Neumann<br>
+
 _Associate Producer:_ Stefano Massenzi<br>
-_Controlling X Filme Production Controller:_ Cordula Herrmann<br>
-_Production Accountants:_ Michael Vogt, Janina Bukowski<br>
-_Production Co-ordinators:_ Ulrike Lässer, Manuela Groh<br>
+
+_Controlling X Filme Production Controller:_ 
+
+Cordula Herrmann<br>
+
+_Production Accountants:_ Michael Vogt, 
+
+Janina Bukowski<br>
+
+_Production Co-ordinators:_ Ulrike Lässer, 
+
+Manuela Groh<br>
+
 _Production Manager:_ Miki Emmrich<br>
+
 _France Production Manager:_ Amira Chemakhi<br>
+
 _Set Manager:_ Gisela Emberger<br>
+
 _Location Manager:_ Johannes Schröder<br>
+
 _Brandenburg Location Manager:_ Felix Manthey<br>
-_Johannstorf Location Manager:_ Cathleen Hoffmann<br>
-_Germany Post-production Supervisor:_ Andreas Dobers<br>
-_1st Assistant Directors:_ Hanus Polak Jr, Kris Portier de Bellair, Hervé Grandsart<br>
+
+_Johannstorf Location Manager:_ 
+
+Cathleen Hoffmann<br>
+
+_Germany Post-production Supervisor:_ 
+
+Andreas Dobers<br>
+
+_1st Assistant Directors:_ Hanus Polak Jr, 
+
+Kris Portier de Bellair, Hervé Grandsart<br>
+
 _2nd Assistant Director:_ Katharina Birò<br>
+
 _Assistant to the Director:_ Kathrin Resetarits<br>
+
 _Script Supervisor:_ Alice Stengl<br>
+
 _Casting Director:_ Simone Bär<br>
+
 _Child Actors:_ Markus Schleinzer, Carmen Loley<br>
+
 _Screenwriter:_ Michael Haneke<br>
+
 _Story:_ Michael Haneke<br>
+
 _Script Adviser:_ Jean-Claude Carrière<br>
+
 _Director of Photography:_ Christian Berger<br>
-_B Camera Operators:_ Jörg Widmer, Marcus Pohlus<br>
+
+_B Camera Operators:_ Jörg Widmer, 
+
+Marcus Pohlus<br>
+
 _2nd Unit Camera Operators:_ Leah Striker<br>
+
 _Focus Puller:_ Gerald Helf<br>
+
 _Clapper Loader:_ Stefan Kaindl<br>
+
 _Key Grip:_ Emmanuel Aubry<br>
+
 _Steadicam:_ Jörg Widmer, Marcus Pohlus<br>
+
 _Gaffer:_ Kimber Lee Jerrett<br>
+
 _Visual Special Effects:_ Geoffrey Kleindorfer<br>
+
 _Special Effects:_ Nefzer Babelsberg GmbH (_Special Effects Supervisor:_ Gerd Feuchter)<br>
+
 _Edited by:_ Monika Willi<br>
+
 _Production Designer:_ Christoph Kanter<br>
+
 _Art Director:_ Anja Müller<br>
+
 _Set Decorator:_ Hans Wagner<br>
+
 _Property Masters:_ Ellen Heltzel, Ilse Töpfer<br>
+
 _Costume Designer:_ Moidele Bickel<br>
+
 _Costume Adviser:_ Dorothée Uhrmacher<br>
+
 _Make-up by:_ Waldemar Pokromski<br>
-_Make-up Artists:_ Anette Keiser, Cornelia Wentzel<br>
+
+_Make-up Artists:_ Anette Keiser, 
+
+Cornelia Wentzel<br>
+
 _Title Design:_ Kornelius Tarmann, Judith Rataitz<br>
+
 _Choirmaster:_ Karl-Friedrich Beringer<br>
-_Music Advisers:_ Jörg Strodthoff, Martin Achenbach, Christoph D. Minke, Karsten Lessing<br>
+
+_Music Advisers:_ Jörg Strodthoff, 
+
+Martin Achenbach, Christoph D. Minke, 
+
+Karsten Lessing<br>
+
 _Sound:_ Guillaume Sciama, Jean-Pierre LaForce<br>
+
 _Boom Operator:_ Olivier Burgaud<br>
+
 _Supervising Sound Editor:_ Vincent Guillon<br>
+
 _Foley Artist:_ Pascal Chauvin<br>
-_Historical Advisers:_ Heidemarie Frimodig, Hei-Mu-Ko<br>
+
+_Historical Advisers:_ Heidemarie Frimodig, 
+
+Hei-Mu-Ko<br>
+
 _Stunts:_ Buff Connection<br>
+
 _Supervising Stunt Co-ordinator:_ Volkhard Buff; _Horse Trainer:_ Ulrich Wessel<br>
 
 **Cast**<br>
+
+_Cast:_
+
 Christian Friedel _(schoolteacher)_<br>
+
 Ernst Jacobi _(voice of old schoolteacher/narrator)_<br>
+
 Leonie Benesch _(Eva)_<br>
+
 Ulrich Tukur _(the Baron)_<br>
+
 Ursina Lardi _(the Baroness)_<br>
+
 Fion Mutert _(Sigi)_<br>
+
 Michael Kranz _(the tutor)_<br>
+
 Burghart Klaussner _(the pastor)_<br>
+
 Steffi Kühnert _(the pastor’s wife)_<br>
+
 Maria-Victoria Dragus _(Klara)_<br>
+
 Leonard Proxauf _(Martin)_<br>
+
 Levin Henning _(Adi)_<br>
+
 Johanna Busse _(Margarete)_<br>
+
 Yuma Amecke _(Annchen)_<br>
+
 Thibault Sérié _(Gustl)_<br>
+
 Josef Bierbichler _(the steward)_<br>
+
 Gabriela Maria Schmeide _(the steward’s wife)_<br>
+
 Janina Fautz _(Erna)_<br>
+
 Enno Trebs _(Georg)_<br>
+
 Theo Trebbs _(Ferdinand)_<br>
+
 Rainer Bock _(the doctor)_<br>
+
 Susanne Lothar _(the midwife)_<br>
+
 Roxane Duran _(Anna)_<br>
+
 Miljan Chatelain _(Rudi)_<br>
+
 Eddy Grahl _(Karli)_<br>
+
 Branko Samarovski _(the farmer)_<br>
+
 Klaus Manchen _(the farmer’s dubbed voice)_<br>
+
 Birgit Minichmayr _(Frieda)_<br>
+
 Sebastian Hülk _(Max)_<br>
+
 Kai Malina _(Karl)_<br>
+
 Kristina Kneppek _(Else)_<br>
+
 Stephanie Amarell _(Sophie)_<br>
+
 Bianca Mey _(Paula)_<br>
+
 Aaron Denkel _(Kurti)_<br>
+
 Mika Ahrens _(Willi)_<br>
+
 Detlev Buck _(Eva’s father)_<br>
+
 Anne-Kathrin Gummich _(Eva’s mother)_<br>
-Luzie Ahrens, Gary Bestla, Leonard Boes,Felix Böttcher, Sophie Czech, Paraschiva Dragus, Selina Ewald, Nora Gruler, Tim Guderjahn, Jonas Jennerjahn, Ole Joensson, Gerrit Langentepe, Lena Pankow, Sebastian Pauli, Franz Rewoldt, Kevin Schmolinski, Alexander Sedl, Nino Seide, Marvin Ray Spey, Malin Steffen, Lilli Trebs, Paul Wolf, Margarete Zimmermann _(children in classroom)_<br>
+
+Luzie Ahrens, Gary Bestla, Leonard Boes,
+
+Felix Böttcher, Sophie Czech, 
+
+Paraschiva Dragus, Selina Ewald, Nora Gruler, Tim Guderjahn, Jonas Jennerjahn, Ole Joensson, Gerrit Langentepe, Lena Pankow, Sebastian Pauli, Franz Rewoldt, Kevin Schmolinski, Alexander Sedl, Nino Seide, Marvin Ray Spey, Malin Steffen, Lilli Trebs, Paul Wolf, Margarete Zimmermann 
+
+_(children in classroom)_<br>
+
 Carmen-Maja Antoni _(bathing midwife)_<br>
+
 Christian Klischat _(policeman)_<br>
+
 Michael Schenk, Hanus Polak Jr _(CID inspectors)_<br>
+
 Sara Schivazappa _(Italian nanny)_<br>
+
 Marisa Growaldt _(servant)_<br>
+
 Vincent Krüger _(Fritz, a farmhand)_<br>
+
 Rüdiger Hauffe _(foreman)_<br>
-Arndt Schwering-Sohnrey, Florian Köhler _(tenant farmers)_<br>
-Sebastian Lach, Marcin Tyrol, Sebastian Badurek, Krysiek Zarzecki, Sebastian Pawlak _(seasonal farmhands)_<br>
-Lilli Fichtner, Amelie Litwin, Paula Kalinski _(harvest feast girls)_<br>
-Matthias Linke, Vladik Otaryan, Peter Mörike, Hans-Matthias Glassmann, Nikita Vaganov _(brass band musicians)_<br>
+
+Arndt Schwering-Sohnrey, Florian Köhler 
+
+_(tenant farmers)_<br>
+
+Sebastian Lach, Marcin Tyrol, Sebastian Badurek, Krysiek Zarzecki, Sebastian Pawlak 
+
+_(seasonal farmhands)_<br>
+
+Lilli Fichtner, Amelie Litwin, Paula Kalinski 
+
+_(harvest feast girls)_<br>
+
+Matthias Linke, Vladik Otaryan, Peter Mörike, 
+
+Hans-Matthias Glassmann, Nikita Vaganov 
+
+_(brass band musicians)_<br>
 
 Germany/Austria/France/Italy 2009©<br>
+
 144 mins<br><br>
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -179,3 +332,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTkxNzE5NTExMV19
+-->
