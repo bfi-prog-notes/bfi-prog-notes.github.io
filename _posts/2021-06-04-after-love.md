@@ -1,9 +1,6 @@
-<![endif]-->
-
 Aleem Khan’s debut feature _After Love_ scrutinises bereavement as a mental health disorder, diving into not just the sorrow but the derangement of grief. As newly widowed Mary, Joanna Scanlan offers a portrait of a woman whose cracked heart wins our sympathy, as she absentmindedly makes tea for two in a hotel room or bursts into tears on her prayer mat, and whose increasingly stealthy behaviour commands our attention as she infiltrates another’s woman’s life. She’s compellingly broken. In Scanlan’s features we see grief and humiliation twisted into possessiveness, vengefulness and misplaced compassion, as she plays simultaneously the wronged wife and a cuckoo in somebody else’s nest.
 
-Mary and her ferry-captain husband Ahmed are leading the peaceful life of a middle-aged Muslim couple in Dover, supported by a shared faith and a community, when he dies suddenly. Emptying his wallet after the funeral, Mary finds an ID card belonging to a French woman, Genevieve, and then loving messages on his phone from ‘G’. It’s a  
-soap opera set-up, but in the hands of writer-director Khan, _After Love_ becomes something weightier.
+Mary and her ferry-captain husband Ahmed are leading the peaceful life of a middle-aged Muslim couple in Dover, supported by a shared faith and a community, when he dies suddenly. Emptying his wallet after the funeral, Mary finds an ID card belonging to a French woman, Genevieve, and then loving messages on his phone from ‘G’. It’s a  soap opera set-up, but in the hands of writer-director Khan, _After Love_ becomes something weightier.
 
 Not just bereaved but betrayed, Mary senses that her world is crumbling – Khan literalises this with discreet special effects: the white cliffs of Dover seem to crash into the English Channel, a ceiling cracks open. These are visions, but in the next scene Mary brushes dust from her shoulder.
 
@@ -15,9 +12,8 @@ Mary dresses modestly and wears a headscarf – she converted to Islam to be wit
 Richard and Talid Ariss, who plays Genevieve’s son Solomon, lend Scanlan impeccable support in roles that call for more thundering histrionics. However, this is Scanlan’s film, and her performance is disarmingly sophisticated. Although she is perhaps known mostly for television comedy, her best roles involve a virtuoso mix of tones, from her exasperated civil servant in Armando Iannucci’s political satire _The Thick of It_ (2005-12) to her put-upon ward sister in BBC4’s geriatric ward-set _Getting On_ (2009-12). In this film, as in, say, Deborah Haywood’s _Pin Cushion_ (2017), Scanlan again fully inhabits a complex role. It takes an actress of a high calibre to express so much, and there’s a tangible pleasure to be taken in observing her performance. Much of her best acting is done alone, halting in the middle of her prayers, reconstructing her identity as she rehearses a speech in the mirror, breathing in her husband’s scent on another woman’s laundry or laying down in the shallows on Calais beach and allowing the tides to mingle with her tears.
 
 Khan’s filmmaking is as fastidious and as deceptively restrained as his heroine. Ahmed dies in the background of a long shot, and the slow zoom in towards his body is mirrored by a subsequent shot of the funeral gathering. The film is balanced in time and place too, bookended by two baptisms and taking place in towns that echo each other in location and industry. The physical gulf that separates the women is a body of water that has two names in two languages, much like Mary, whose Muslim name is Fahima, and Ahmed, whom she calls Ed. Khan and DP Alexander Dynan (who worked on Paul Schrader’s similarly austere and grief-stricken _First Reformed_, 2017) frequently return to the cliff edge, the chilly waters, to stress this divide. There’s a sense of liminality, with both women existing on the verge of something whole – sharing scraps of a home, a husband and a father. Chris Roe’s score appears intermittently throughout the film but when it vanishes, perhaps Khan intends us to feel its absence, a reflection of the emptiness created by secrets and affections withheld, confessions left unmade.  
-The music swells to suggest a harmonious future at the film’s end, but is swiftly replaced by the sound of waves crashing and gulls squawking as the credits roll. Ahmed and his mysterious motivations are lost in the deep, while above ground two women look for a new kind of home.
-
-Pamela Hutchinson, _Sight & Sound_, June 2021
+The music swells to suggest a harmonious future at the film’s end, but is swiftly replaced by the sound of waves crashing and gulls squawking as the credits roll. Ahmed and his mysterious motivations are lost in the deep, while above ground two women look for a new kind of home.<br>
+**Pamela Hutchinson, _Sight & Sound_, June 2021**<br>
 
 **Director Aleem Khan on ‘After Love’**
 
@@ -38,6 +34,144 @@ I always compile dossiers during the writing process based on the social, psycho
 to visit Dover and for us to establish a history and connection to the landscape for  
 the character.<br>
 **Aleem Khan interviewed by Will Massa, _Sight & Sound_, June 2021**
+
+
+
+**After Love**<br>
+_Director_: Aleem Khan  
+©: British Broadcasting Corporation,
+
+The British Film Institute,  
+After Love Production  
+_A production of_: The Bureau  
+_Supported by the_:
+
+Sundance Institute Feature Film Program  
+_Developed by_: BBC Films  
+_With the support of_: Creative England  
+_Creative England via_: BFI Network  
+_With the support of the_: BFI’s Film Fund  
+_Presented by_: BFI, BBC Films  
+_French Production Services_: Le Bureau Films  
+_International Sales by_: The Bureau Sales  
+_Executive Produced by_: Eva Yates,
+
+Rose Garnett, Natascha Wharton,
+
+Vincent Gadelle  
+_Produced by_: Matthieu de Braconier  
+_Co-produced by_: Gabrielle Dumon,
+
+Gerardine O’Flynn  
+_Line Producer_: Dylan Rees  
+_Production Manager_: Juliette Cerceau  
+_Production Accountant_: Patrick Kiely  
+_Unit Manager_: Paul Young  
+_Location Manager_: Ben Lee  
+_Location Manager (France)_: Remi Jollant  
+_1st Assistant Director_: Jeroen Bogaert  
+_2nd Assistant Director_: Pedro Rilho  
+_Script Supervisor_: Shaida Kazemi  
+_Casting Director_: Shaheen Baig  
+_Casting Director (France)_:  
+Lucciana de Vögue  
+_Written by_: Aleem Khan  
+_Director of Photography_: Alexander Dynan  
+_2nd Unit Director of Photography_:
+
+David Pearce  
+_Steadicam Operator_: John Ferguson  
+_Stills Photographer_: Ran Studio  
+_VFX by_: Technicolor VFX  
+_Editor_: Gareth C. Scales  
+_Production Designer_: Sarah Jenneson  
+_Set Decorator_: Abbie Kornstein  
+_Costume Designer_: Niragemirage  
+_Hair and Make-up Designer_: Diandra Ferreira  
+_Titles and End Credits Designed by_:
+
+Intermission Film  
+_Colourist_: Tim Masick  
+_Original Music Composed by_: Chris Roe  
+_Cellist_: Alice Purton  
+_Music Supervisor_: Connie Farr  
+_Production Sound Mixer_: David Giles  
+_Sound Re-recording Mixer_: Per Boström  
+_Supervising Sound Editor_:
+
+Joakim Sundström  
+_Fight Co-ordinator_:
+
+Matthew Thomas Robinson
+
+_Cast__:_  
+Joanna Scanlan _(Mary Hussain)_  
+Nathalie Richard _(Genevieve)_  
+Talid Ariss _(Solomon)_  
+Nasser Memarzia _(Ahmed)_  
+Sudha Bhuchar _(Farzanna)_  
+Nisha Chadha _(Mina)_  
+Jabeen Butt _(Saadia)_  
+Subika Anwar-Khan _(Salma)_  
+Elijah Braik _(Farooq)_  
+Adam Karim _(Imran)_  
+David Hechter _(Anthony)_  
+Pierre Delpierre _(removal man)_  
+Jeff Mirza _(voice of Ahmed)_  
+Aaron Chawla _(voice of young Ahmed)_  
+Hannah Jeal _(voicemail voice)_  
+Matthew Walker _(weather voice)_
+
+UK/USA 2020
+
+89 mins
+
+_A BFI release_
+
+The _After Love_ soundtrack, featuring the original score from award-winning composer Chris Roe, released by Thirty Six Minutes,  
+is out now and available on all major streaming platforms.
+
+NEW RELEASES  
+& RE-RELEASES
+
+**Ammonite**
+
+From Mon 17 May
+
+**Sound of Metal**
+
+From Mon 17 May
+
+**Nomadland**
+
+From Mon 17 May
+
+**First Cow**
+
+From Fri 28 May
+
+**After Love**
+
+From Fri 4 Jun (Q&A with director Aleem Khan on Fri 4 Jun 17:30; Q&A with director Aleem Khan and actor Joanna Scanlan on Sun 13 Jun 18:40)
+
+**Fargo**
+
+From Fri 11 Jun
+
+**The Reason I Jump**
+
+From Fri 18 Jun
+
+**Nashville**
+
+From Fri 25 Jun
+
+**Ultraviolence**
+
+From Sat 26 Jun
+
+Sat 26 June 14:20 + Q&A with director  
+Ken Fero and contributor Janet Alder
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NzE1MDEyOV19
+eyJoaXN0b3J5IjpbNTQxNDE2MF19
 -->
