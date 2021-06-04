@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Beatles and India
+published: true
+date: 2021-06-06
+readtime: true
+categories: ['TONGUES ON FIRE: UK ASIAN FILM FESTIVAL']
+tags: [Documentary, Music]
+metadata: 'UK/India, 2021, 92 mins<br> Directors: Ajoy Bose, Peter Compton'
+pdf: '2021-06-06-beatles-and-india.pdf'
+---
 _+ Q&A with directors_
 
 _The Beatles and India_ is a unique historical chronicle of the enduring love affair between The Beatles and India that started more than half a century ago. <br>
@@ -32,84 +43,63 @@ In _The Beatles and India_ you will see:
 
 -  Featuring a full orchestral score composed by Emmy and IFMCA nominated composer Benji Merrison (_Dynasties_, _The Green Planet_) and recorded in Hungary, India and London, the latter in the famous Beatles ‘Studio 2’ at Abbey Road.<br>
 **Production notes**<br><br>
-<![endif]-->
 
-**The Beatles and India**
+**THE BEATLES AND INDIA**<br>
+_Director:_ Ajoy Bose<br>
+©: Beatles and India Movie Ltd.<br>
+_Co-director:_ Peter Compton<br>
+_Produced by:_ Renoir Pictures - A Silva Screen<br>
+_Producer:_ Reynold D’Silva<br>
+_Line Producer (India):_ Neelima Goel<br>
+_Executive Producers:_ Adam Greenup, Keith Ferreira<br>
+_Director of Photography (India):_ Virendra Khanna<br>
+_Director of Photography (UK):_ Andy Dunn<br>
+_Editor (UK):_ Ben Nugent<br>
+_Post Production:_ Halo Post Production<br>
+_Conform and Visual Effects:_ Fluid Films<br>
+_Titles and Graphics:_ El Carousel<br>
+_Score Composed by:_ Benji Merrison<br>
+_Sound:_ Fizz-E-Motion<br>
+_Sound Designer:_ Luke Corradine<br>
+_Sound (India):_ Anita Khuswaha<br>
 
-_Director:_ Ajoy Bose
-
-©: Beatles and India Movie Ltd.
-
-_Co-director:_ Peter Compton
-
-_Produced by:_ Renoir Pictures - A Silva Screen
-
-_Producer:_ Reynold D’Silva
-
-_Line Producer (India):_ Neelima Goel
-
-_Executive Producers:_ Adam Greenup, Keith Ferreira
-
-_Director of Photography (India):_ Virendra Khanna
-
-_Director of Photography (UK):_ Andy Dunn
-
-_Editor (UK):_ Ben Nugent
-
-_Post Production:_ Halo Post Production
-
-_Conform and Visual Effects:_ Fluid Films
-
-_Titles and Graphics:_ El Carousel
-
-_Score Composed by:_ Benji Merrison
-
-_Sound:_ Fizz-E-Motion
-
-_Sound Designer:_ Luke Corradine
-
-_Sound (India):_ Anita Khuswaha
-
-UK/India 2021
-
+UK/India 2021<br>
 92 mins
-
+<br><br>
 **Tongues on Fire** is the producer of the UK Asian Film Festival. You can find out more about their festival at **tonguesonfire.com**
-<br.<br>
+<br><br>
 
-**BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL**
+**BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL**<br>
+**LIFF Opening Night: WOMB (Women of My Billion) + on stage Q&A with Srishti Bakshi and film critic Anna Smith**<br>
+Thu 17 Jun 17:20<br>
+**My Beautiful Laundrette**<br>
+Fri 18 Jun 20:20<br>
+**The Warrior + on-stage career interview with writer-director Asif Kapadia**<br>
+Sat 19 Jun 20:30<br>
+**Ahimsa: Gandhi the Power of the Powerless**<br>
+Sun 20 Jun 15:00<br>
+**Searching for Happiness…**<br>
+Tue 22 Jun 20:50<br>
+**Nazarband Captive**<br>
+Wed 23 Jun 20:45<br>
+**A’hr Kayattam**<br>
+Thu 24 Jun 18:00<br>
+**The Salt in Our Waters Nonajoler Kabbo**<br>
+Sun 27 Jun 15:00<br>
 
-**LIFF Opening Night: WOMB (Women of My Billion) + on stage Q&A with Srishti Bakshi and film critic Anna Smith**
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
-Thu 17 Jun 17:20
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
-**My Beautiful Laundrette**
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
 
-Fri 18 Jun 20:20
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 
-**The Warrior + on-stage career interview with writer-director Asif Kapadia**
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-Sat 19 Jun 20:30
-
-**Ahimsa: Gandhi the Power of the Powerless**
-
-Sun 20 Jun 15:00
-
-**Searching for Happiness…**
-
-Tue 22 Jun 20:50
-
-**Nazarband Captive**
-
-Wed 23 Jun 20:45
-
-**A’hr Kayattam**
-
-Thu 24 Jun 18:00
-
-**The Salt in Our Waters Nonajoler Kabbo**
-
-Sun 27 Jun 15:00
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODAwNzg4NzFdfQ==
--->
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
