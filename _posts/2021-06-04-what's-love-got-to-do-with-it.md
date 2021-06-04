@@ -89,8 +89,7 @@ Angela Bassett _(Tina Turner)_
 Laurence Fishburne _(Ike Turner)_  
 Rae’Ven Kelly _(young Anna Mae Bullock)_  
 Virginia Capers _(choir mistress)_  
-Dorothy Thornton_,_ Juanita Allen_,_ Natalie Wilson_,_ David McKinney_,_ Maurice O’Niel_,_ Monroe Howard_,_ Wakeen Best,  Francis Cheathon_,_ Bell Dawn Best_,_Billie Barnum,  Jeanne Steele_,_ Cassandra Thames_,_ Demetrice Cheathon_,_ Helen Marie Lovelace_,_ Seymour Daniel_,_ Jayd Stanfield_,_ Frank Raspberry_,_ Serist Roberts,  Michelle Jackson_,_ Dena Ellerbee_,_Maggie McGee,  Alfie Silas_,_ Oren Waters,  
-Valetta Barber _(choir members)_  
+Dorothy Thornton, Juanita Allen, Natalie Wilson, David McKinney, Maurice O’Niel, Monroe Howard, Wakeen Best,  Francis Cheathon, Bell Dawn Best, Billie Barnum,  Jeanne Steele, Cassandra Thames, Demetrice Cheathon, Helen Marie Lovelace, Seymour Daniel, Jayd Stanfield, Frank Raspberry, Serist Roberts,  Michelle Jackson, Dena Ellerbee, Maggie McGee,  Alfie Silas, Oren Waters,  Valetta Barber _(choir members)_  
 Rev Emery Shaw _(organ player)_
 
 Cora Lee Day _(grandma Georgiana)_  
@@ -107,5 +106,5 @@ USA 1993©
 
 118 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5Njc0NzMwXX0=
+eyJoaXN0b3J5IjpbLTE5OTE5NTc3NDBdfQ==
 -->
