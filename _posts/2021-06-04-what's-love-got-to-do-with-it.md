@@ -90,21 +90,17 @@ Laurence Fishburne _(Ike Turner)_
 Rae’Ven Kelly _(young Anna Mae Bullock)_  
 Virginia Capers _(choir mistress)_  
 Dorothy Thornton, Juanita Allen, Natalie Wilson, David McKinney, Maurice O’Niel, Monroe Howard, Wakeen Best,  Francis Cheathon, Bell Dawn Best, Billie Barnum,  Jeanne Steele, Cassandra Thames, Demetrice Cheathon, Helen Marie Lovelace, Seymour Daniel, Jayd Stanfield, Frank Raspberry, Serist Roberts,  Michelle Jackson, Dena Ellerbee, Maggie McGee,  Alfie Silas, Oren Waters,  Valetta Barber _(choir members)_  
-Rev Emery Shaw _(organ player)_
-
+Rev Emery Shaw _(organ player)_  
 Cora Lee Day _(grandma Georgiana)_  
-Jenifer Lewis _(Zelma Bullock)_
-
-Phyllis Yvonne Stickney _(Alline Bullock)_
-
+Jenifer Lewis _(Zelma Bullock)_  
+Phyllis Yvonne Stickney _(Alline Bullock)_  
 Sherman Augustus _(Reggie)_  
 Chi _(Fross)_  
 Terence Riggins _(Spider)_  
 Gene ‘Groove’ Allen _(club announcer)_
 
-USA 1993©
-
+USA 1993©  
 118 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE5NTc3NDBdfQ==
+eyJoaXN0b3J5IjpbLTE0OTMwMjgzMzJdfQ==
 -->
