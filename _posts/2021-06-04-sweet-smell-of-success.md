@@ -119,7 +119,95 @@ USA 1957©
 
 97 mins
 
-* Uncredited
+* Uncredited<br>
+* <br><br>
+* <![endif]-->
+
+BIG SCREEN CLASSICS
+
+**Sweet Smell of Success**
+
+Fri 4 Jun 15:00; Sun 13 Jun 15:45; Sat 26 Jun 11:40
+
+**The Man Who Wasn’t There**
+
+Fri 4 Jun 17:50; Sun 27 Jun 18:20
+
+**L’eclisse (The Eclipse)**
+
+Sat 5 Jun 12:10; Tue 15 Jun 17:50
+
+**Touch of Evil**
+
+Sat 5 Jun 17:50; Sun 20 Jun 18:15
+
+**The White Ribbon (Das weisse Band)**
+
+Sun 6 Jun 18:10; Sat 26 Jun 16:30
+
+**Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London
+
+Mon 7 Jun 14:15; Thu 17 Jun 20:45; Wed 30 Jun 17:45
+
+**The Last Picture Show (Director’s Cut)**
+
+Mon 7 Jun 17:45
+
+**The Killers** + pre-recorded intro by Imogen Sara Smith, author of ‘In Lonely Places: Film Noir beyond the City’
+
+Tue 8 Jun 14:30; Wed 23 Jun 17:50
+
+**The Night of the Hunter**
+
+Tue 8 Jun 20:50; Wed 16 Jun 18:15 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large)
+
+**The Tango Lesson**
+
+Wed 9 Jun 17:50 (+ pre-recorded intro by So Mayer, author of ‘The Cinema of Sally Potter’)
+
+**Cleo from 5 to 7** **Cléo de 5 à 7**
+
+Thu 10 Jun 21:00; Mon 21 Jun 14:30
+
+**Man Hunt**
+
+Sat 12 Jun 16:00; Tue 29 Jun 14:15
+
+**Eraserhead**
+
+Mon 14 Jun 21:00; Thu 24 Jun 21:10
+
+**La Haine**
+
+Wed 16 Jun 21:00; Fri 18 Jun 20:40
+
+**Bitter Victory**
+
+Sun 20 Jun 13:00; Mon 28 Jun 17:55
+
+**Citizen Kane**
+
+Mon 21 Jun 20:45
+
+**Steamboat Bill, Jr.**
+
+Tue 22 Jun 18:30
+
+**The Big City (Mahanagar)**
+
+Wed 23 Jun 17:40
+
+**The Gospel According to Matthew (Il vangelo secondo Matteo)**
+
+Thu 24 Jun 17:40
+
+**Alice in the Cities (Alice in den Städten)**
+
+Fri 25 Jun 20:45
+
+**Persona**
+
+Mon 28 Jun 21:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTY2MTg0M119
+eyJoaXN0b3J5IjpbLTIwMzU1NzMzODddfQ==
 -->
