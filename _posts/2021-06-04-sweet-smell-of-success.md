@@ -1,8 +1,15 @@
-
-<![endif]-->
-
-**Franc Roddam on ‘Sweet Smell of Success’**
-
+---
+layout: post
+title: Sweet Smell of Success
+published: true
+date: 2021-06-04
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'USA, 1957, 97 mins<br> Director: Alexander Mackendrick'
+pdf: '2021-06-04-sweet-smell-of-success.pdf'
+---
+**Franc Roddam on ‘Sweet Smell of Success’**<br>
 _Sweet Smell of Success_ is a film that is sympathetic to the anger that I feel about the way in which the public is bamboozled into believing half-truths and downright lies by politicians and the press and the narrow artistic confines that Hollywood imposes on filmmakers.
 
 The hero changing destiny is the major simple utopian notion behind most American cinema. You don’t have to have much insight and socio-political experience to realise that more often than not, the opposite is true: the corrupt are in control of destiny. But it takes a great amount of courage to make this your theme as Alexander Mackendrick did in his sensational film, _Sweet Smell of Success_.
@@ -26,188 +33,118 @@ All this has been put together with a magnificent objectivity by Mackendrick. He
 Mackendrick’s defence of the artist and the individual, against a corrupt and malevolent press and its metaphor for corrupt government, remains ever pertinent. It’s a bold film, made by a bold filmmaker. Mackendrick was briefly my teacher at the London Film School. I had not yet seen his film and remember him as a rather attractive, self-possessed and distracted man. Little did I know then that he had made one of the greatest films in the greatest era of cinema.<br>
 **Franc Roddam, _Sight & Sound_, January 1997**
 <br><br>
-<![endif]-->
 
-**Sweet Smell of Success**
 
-_Directed by:_ Alexander Mackendrick
+**SWEET SMELL OF SUCCESS**<br>
+_Directed by:_ Alexander Mackendrick<br>
+_©/Production Companies:_ Norma Productions, Curtleigh Productions<br>
+_Production Company:_ Hecht-Hill-Lancaster Productions<br>
+_Produced by:_ James Hill<br>
+_Production Manager:_ Richard McWhorter<br>
+_Assistant Director:_ Richard Maybery<br>
+_Screenplay by:_ Clifford Odets, Ernest Lehman<br>
+_From the novelette by:_ Ernest Lehman<br>
+_Photographed by:_ James Wong Howe<br>
+_Editorial Supervision:_ Alan Crosland Jr<br>
+_Art Director:_ Edward Carrere<br>
+_Set Decorator:_ Edward Boyle<br>
+_Costumes Designed by:_ Mary Grant<br>
+_Make-up:_ Robert Schiffer<br>
+_Music Scored and Conducted by:_ Elmer Bernstein<br>
+_Songs by:_ Chico Hamilton, Fred Katz<br>
+_Music Editor:_ Lloyd Young<br>
+_Sound Recording:_ Jack Solomon<br>
+_Effects Editor:_ Robert Carlisle<br>
 
-_©/Production Companies:_ Norma Productions, Curtleigh Productions
+**Cast**<br>
+Burt Lancaster _(J.J. Hunsecker)_<br>
+Tony Curtis _(Sidney Falco)_<br>
+Susan Harrison _(Susan Hunsecker)_<br>
+Marty Milner _(Steve Dallas)_<br>
+Sam Levene _(Frank D’Angelo)_<br>
+Barbara Nichols _(Rita)_<br>
+Jeff Donnell _(Sally)_<br>
+Joe Frisco _(Herbie Temple)_<br>
+Emile Meyer _(Harry Kello)_<br>
+Edith Atwater _(Mary)_<br>
+The Chico Hamilton Quintet _(themselves)_<br>
+Joseph Leon _(Joe Robard)_ *<br>
+David White _(Otis Elwell)_ *<br>
+Lawrence Dobkin _(Leo Bartha)_ *<br>
+Lurene Tuttle _(Laurie Bartha)_ *<br>
+Queenie Smith _(Mildred Tam)_ *<br>
+Autumn Russell _(Linda James)_ *<br>
+Jay Adler _(Manny Davis)_ *<br>
+Lewis Charles _(Al Evans)_ *<br>
+John Fiedler _(barman)_ *<br>
+Fred Katz _(himself)_ *<br>
 
-_Production Company:_
-
-Hecht-Hill-Lancaster Productions
-
-_Produced by:_ James Hill
-
-_Production Manager:_ Richard McWhorter
-
-_Assistant Director:_ Richard Maybery
-
-_Screenplay by:_ Clifford Odets, Ernest Lehman
-
-_From the novelette by:_ Ernest Lehman
-
-_Photographed by:_ James Wong Howe
-
-_Editorial Supervision:_ Alan Crosland Jr
-
-_Art Director:_ Edward Carrere
-
-_Set Decorator:_ Edward Boyle
-
-_Costumes Designed by:_ Mary Grant
-
-_Make-up:_ Robert Schiffer
-
-_Music Scored and Conducted by:_  
-Elmer Bernstein
-
-_Songs by:_ Chico Hamilton, Fred Katz
-
-_Music Editor:_ Lloyd Young
-
-_Sound Recording:_ Jack Solomon
-
-_Effects Editor:_ Robert Carlisle
-
-_Cast:_
-
-Burt Lancaster _(J.J. Hunsecker)_
-
-Tony Curtis _(Sidney Falco)_
-
-Susan Harrison _(Susan Hunsecker)_
-
-Marty Milner _(Steve Dallas)_
-
-Sam Levene _(Frank D’Angelo)_
-
-Barbara Nichols _(Rita)_
-
-Jeff Donnell _(Sally)_
-
-Joe Frisco _(Herbie Temple)_
-
-Emile Meyer _(Harry Kello)_
-
-Edith Atwater _(Mary)_
-
-The Chico Hamilton Quintet _(themselves)_
-
-Joseph Leon _(Joe Robard)_ *
-
-David White _(Otis Elwell)_ *
-
-Lawrence Dobkin _(Leo Bartha)_ *
-
-Lurene Tuttle _(Laurie Bartha)_ *
-
-Queenie Smith _(Mildred Tam)_ *
-
-Autumn Russell _(Linda James)_ *
-
-Jay Adler _(Manny Davis)_ *
-
-Lewis Charles _(Al Evans)_ *
-
-John Fiedler _(barman)_ *
-
-Fred Katz _(himself)_ *
-
-USA 1957©
-
+USA 1957©<br>
 97 mins
 
-* Uncredited<br>
-* <br><br>
-* <![endif]-->
+\* Uncredited<br>
+<br><br>
 
-BIG SCREEN CLASSICS
 
-**Sweet Smell of Success**
+**BIG SCREEN CLASSICS**<br>
+**Sweet Smell of Success**<br>
+Fri 4 Jun 15:00; Sun 13 Jun 15:45; Sat 26 Jun 11:40<br>
+**The Man Who Wasn’t There**<br>
+Fri 4 Jun 17:50; Sun 27 Jun 18:20<br>
+**L’eclisse (The Eclipse)**<br>
+Sat 5 Jun 12:10; Tue 15 Jun 17:50<br>
+**Touch of Evil**<br>
+Sat 5 Jun 17:50; Sun 20 Jun 18:15<br>
+**The White Ribbon (Das weisse Band)**<br>
+Sun 6 Jun 18:10; Sat 26 Jun 16:30<br>
+**Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London<br>
+Mon 7 Jun 14:15; Thu 17 Jun 20:45; Wed 30 Jun 17:45<br>
+**The Last Picture Show (Director’s Cut)**<br>
+Mon 7 Jun 17:45<br>
+**The Killers** + pre-recorded intro by Imogen Sara Smith, author of ‘In Lonely Places: Film Noir beyond the City’<br>
+Tue 8 Jun 14:30; Wed 23 Jun 17:50<br>
+**The Night of the Hunter**<br>
+Tue 8 Jun 20:50; Wed 16 Jun 18:15 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large)<br>
+**The Tango Lesson**<br>
+Wed 9 Jun 17:50 (+ pre-recorded intro by So Mayer, author of ‘The Cinema of Sally Potter’)<br>
+**Cleo from 5 to 7** **Cléo de 5 à 7**<br>
+Thu 10 Jun 21:00; Mon 21 Jun 14:30<br>
+**Man Hunt**<br>
+Sat 12 Jun 16:00; Tue 29 Jun 14:15<br>
+**Eraserhead**<br>
+Mon 14 Jun 21:00; Thu 24 Jun 21:10<br>
+**La Haine**<br>
+Wed 16 Jun 21:00; Fri 18 Jun 20:40<br>
+**Bitter Victory**<br>
+Sun 20 Jun 13:00; Mon 28 Jun 17:55<br>
+**Citizen Kane**<br>
+Mon 21 Jun 20:45<br>
+**Steamboat Bill, Jr.**<br>
+Tue 22 Jun 18:30<br>
+**The Big City (Mahanagar)**<br>
+Wed 23 Jun 17:40<br>
+**The Gospel According to Matthew (Il vangelo secondo Matteo)**<br>
+Thu 24 Jun 17:40<br>
+**Alice in the Cities (Alice in den Städten)**<br>
+Fri 25 Jun 20:45<br>
+**Persona**<br>
+Mon 28 Jun 21:00<br>
+<br><br>
 
-Fri 4 Jun 15:00; Sun 13 Jun 15:45; Sat 26 Jun 11:40
 
-**The Man Who Wasn’t There**
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
-Fri 4 Jun 17:50; Sun 27 Jun 18:20
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
-**L’eclisse (The Eclipse)**
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
 
-Sat 5 Jun 12:10; Tue 15 Jun 17:50
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 
-**Touch of Evil**
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-Sat 5 Jun 17:50; Sun 20 Jun 18:15
-
-**The White Ribbon (Das weisse Band)**
-
-Sun 6 Jun 18:10; Sat 26 Jun 16:30
-
-**Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London
-
-Mon 7 Jun 14:15; Thu 17 Jun 20:45; Wed 30 Jun 17:45
-
-**The Last Picture Show (Director’s Cut)**
-
-Mon 7 Jun 17:45
-
-**The Killers** + pre-recorded intro by Imogen Sara Smith, author of ‘In Lonely Places: Film Noir beyond the City’
-
-Tue 8 Jun 14:30; Wed 23 Jun 17:50
-
-**The Night of the Hunter**
-
-Tue 8 Jun 20:50; Wed 16 Jun 18:15 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large)
-
-**The Tango Lesson**
-
-Wed 9 Jun 17:50 (+ pre-recorded intro by So Mayer, author of ‘The Cinema of Sally Potter’)
-
-**Cleo from 5 to 7** **Cléo de 5 à 7**
-
-Thu 10 Jun 21:00; Mon 21 Jun 14:30
-
-**Man Hunt**
-
-Sat 12 Jun 16:00; Tue 29 Jun 14:15
-
-**Eraserhead**
-
-Mon 14 Jun 21:00; Thu 24 Jun 21:10
-
-**La Haine**
-
-Wed 16 Jun 21:00; Fri 18 Jun 20:40
-
-**Bitter Victory**
-
-Sun 20 Jun 13:00; Mon 28 Jun 17:55
-
-**Citizen Kane**
-
-Mon 21 Jun 20:45
-
-**Steamboat Bill, Jr.**
-
-Tue 22 Jun 18:30
-
-**The Big City (Mahanagar)**
-
-Wed 23 Jun 17:40
-
-**The Gospel According to Matthew (Il vangelo secondo Matteo)**
-
-Thu 24 Jun 17:40
-
-**Alice in the Cities (Alice in den Städten)**
-
-Fri 25 Jun 20:45
-
-**Persona**
-
-Mon 28 Jun 21:00
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzU1NzMzODddfQ==
--->
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
