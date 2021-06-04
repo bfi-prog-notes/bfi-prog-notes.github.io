@@ -37,8 +37,9 @@ _Re-recording Mixer_: Pete Horner
 _Supervising Sound Editor_: Kim Foscato  
 _Historical Consultant_: Rudy Calvo  
 _Special Thanks_: Michael Apted  
+
 USA 2013©  
 93 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDMxMjIxMTNdfQ==
+eyJoaXN0b3J5IjpbLTE4OTcyMTU2MzVdfQ==
 -->
