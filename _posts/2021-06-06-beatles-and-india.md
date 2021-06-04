@@ -45,6 +45,7 @@ In _The Beatles and India_ you will see:
 **Production notes**<br><br>
 
 **THE BEATLES AND INDIA**<br>
+
 _Director:_ Ajoy Bose<br>
 ©: Beatles and India Movie Ltd.<br>
 _Co-director:_ Peter Compton<br>
@@ -67,24 +68,40 @@ UK/India 2021<br>
 92 mins
 <br><br>
 **Tongues on Fire** is the producer of the UK Asian Film Festival. You can find out more about their festival at **tonguesonfire.com**
-<br><br>
+<br>.<br>
 
 **BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL**<br>
+
 **LIFF Opening Night: WOMB (Women of My Billion) + on stage Q&A with Srishti Bakshi and film critic Anna Smith**<br>
+
 Thu 17 Jun 17:20<br>
+
 **My Beautiful Laundrette**<br>
+
 Fri 18 Jun 20:20<br>
+
 **The Warrior + on-stage career interview with writer-director Asif Kapadia**<br>
+
 Sat 19 Jun 20:30<br>
+
 **Ahimsa: Gandhi the Power of the Powerless**<br>
+
 Sun 20 Jun 15:00<br>
+
 **Searching for Happiness…**<br>
+
 Tue 22 Jun 20:50<br>
+
 **Nazarband Captive**<br>
+
 Wed 23 Jun 20:45<br>
+
 **A’hr Kayattam**<br>
+
 Thu 24 Jun 18:00<br>
+
 **The Salt in Our Waters Nonajoler Kabbo**<br>
+
 Sun 27 Jun 15:00<br>
 
 **BFI SOUTHBANK**  
@@ -103,3 +120,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk1MzE0OTIwNV19
+-->
