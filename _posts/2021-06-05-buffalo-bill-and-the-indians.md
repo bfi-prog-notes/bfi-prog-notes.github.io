@@ -14,49 +14,20 @@ So while the two myths confront each other in the centre of the film’s arena, 
 
 In an election year, and with its echoes of _Nashville_, the levelled gun has obvious connotations, fulfilling the expectations of a counterculture nourished on the Wounded Knee demonstration and the welter of literature about Indian genocide currently flooding the bookshops. But what of that mysterious dance by the horse, mockingly accompanied by a Mozart minuet as the circus music fades away  and President Cleveland mulishly refuses to accept the meeting foretold in Sitting Bull’s dream?
 
-According to Indian belief at the time, the old grey which was said to have embarked alone upon its repertoire of tricks after Sitting Bull was shot dead, was in fact performing the Dance of the Ghosts. As much as anything, it was this Ghost Dance religion, newly disseminated by the Paiute Messiah, which led to the extermination of the Sioux at Wounded Knee: partly because the white men feared that the secret ceremonies of the Ghost Dance would unite the Indian tribes (Sitting Bull’s disappearance in the mountains) and because it blasphemed in taking over Christ from Christianity (the cross among the ashes); and partly because the Indians believed that no further struggle was necessary. ‘In the next springtime, when the grass was knee high, the earth would be covered with new soil which would bury all the white men, and new land would be covered with sweet grass and running water and trees ... The Indians who danced the Ghost Dance would be taken up in the air and suspended there while a wave of new earth was  passing, and then they would be set down among the ghosts of their ancestors  
-on the new earth, where only Indians would live.’ (Dee Brown, _Bury My Heart at Wounded Knee_).
+According to Indian belief at the time, the old grey which was said to have embarked alone upon its repertoire of tricks after Sitting Bull was shot dead, was in fact performing the Dance of the Ghosts. As much as anything, it was this Ghost Dance religion, newly disseminated by the Paiute Messiah, which led to the extermination of the Sioux at Wounded Knee: partly because the white men feared that the secret ceremonies of the Ghost Dance would unite the Indian tribes (Sitting Bull’s disappearance in the mountains) and because it blasphemed in taking over Christ from Christianity (the cross among the ashes); and partly because the Indians believed that no further struggle was necessary. ‘In the next springtime, when the grass was knee high, the earth would be covered with new soil which would bury all the white men, and new land would be covered with sweet grass and running water and trees ... The Indians who danced the Ghost Dance would be taken up in the air and suspended there while a wave of new earth was  passing, and then they would be set down among the ghosts of their ancestors  on the new earth, where only Indians would live.’ (Dee Brown, _Bury My Heart at Wounded Knee_).
 
 ‘History is no more than disrespect for the dead,’ says white surrogate William Halsey, interpreting a Sitting Bull plea for a reversal of historical guilts and responsibilities which even Buffalo Bill notices that Sitting Bull never actually uttered. Sitting Bull’s History Lesson is an altogether more nightmarish threat: no less than obliteration of the white man’s civilisation, traditions, and even existence.  
-**
-
-Tom Milne, _Sight and Sound_, Autumn 1976**
+**Tom Milne, _Sight and Sound_, Autumn 1976**
 
 
 
 **BUFFALO BILL AND THE INDIANS OR SITTING BULL'S HISTORY LESSON**  
-
-<![endif]-->
-
-**Buffalo Bill and the Indians  
-or Sitting Bull’s History Lesson**
-
 _Director:_ Robert Altman  
-
 ©:  Dino De Laurentiis Corporation  
-
-_Production Companies:_  
-Dino De Laurentiis Corporation, Lion’s Gate Films, Talent Associates, Norton Simon Inc.  
-
+_Production Companies:_  Dino De Laurentiis Corporation, Lion’s Gate Films, Talent Associates, Norton Simon Inc.  
 _Executive Producer:_ David Susskind  
-
 _Producer:_ Robert Altman  
-
-_Associate Producers:_ Robert Eggenweiler,Scott Bushnell, Jac Cashin
-_Production Executive:_ Tommy Thompson
-_Production Services:_ Cody Production Co
-_Unit Manager:_ Les Kimber
-_Researcher:_ Maysie Hoy
-_Assistant Director:_ Tommy Thompson
-_2nd Assistant Director:_ Rob Lockwood
-_Script Supervisor:_ John Binder
-_Screenplay:_ Alan Rudolph, Robert Altman
-_Screen Story:_ Alan Rudolph, Robert Altman
-_Suggested by the play_ Indians _by:_ Arthur Kopit
-_Director of Photography:_ Paul Lohmann
-_Camera Operators:_ Eddie Koons, Jack Richards
-_Grip:_ Art Brooker
-_Gaffer:_ J. Michael Marlett
+_Associate Producers:_ Robert Eggenweiler,Scott Bushnell, Jac Cashin_Production Executive:_ Tommy Thompson_Production Services:_ Cody Production Co_Unit Manager:_ Les Kimber_Researcher:_ Maysie Hoy_Assistant Director:_ Tommy Thompson_2nd Assistant Director:_ Rob Lockwood_Script Supervisor:_ John Binder_Screenplay:_ Alan Rudolph, Robert Altman_Screen Story:_ Alan Rudolph, Robert Altman_Suggested by the play_ Indians _by:_ Arthur Kopit_Director of Photography:_ Paul Lohmann_Camera Operators:_ Eddie Koons, Jack Richards_Grip:_ Art Brooker_Gaffer:_ J. Michael Marlett
 _Special Effects:_ Joe Zomar, Logan Frazee,Bill Zomar, Terry Frazee, John Thomas
 _Editors:_ Peter Appleton, Dennis Hill
 _Assistant Editors:_ Tony Lombardo, Tom Walls
@@ -168,6 +139,6 @@ USA 1976©
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODI4OTA3NSwtNTA0NjQ5OTE1LDE0ND
-k5NTYyNTddfQ==
+eyJoaXN0b3J5IjpbLTIxNDA4OTI1NzgsMTk2ODI4OTA3NSwxND
+Q5OTU2MjU3XX0=
 -->
