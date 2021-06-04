@@ -53,71 +53,37 @@ _Buffalo Bill’s Gun Belt by:_ John Bianchi
 _Wardrobe:_ Jules Melillo  
 _Make-up:_ Monty Westmore  
 _Title Design:_ Dan Perri  
- 
-_Filmed in:_ Panavision
- _Colour by:_ Alpha Cine Labs
- _Prints by:_ DeLuxe General
+_Filmed in:_ Panavision  
+ _Colour by:_ Alpha Cine Labs  
+ _Prints by:_ DeLuxe General  
+_Music Composer:_ Richard Baskin  
+_Sound:_ Jim Webb, Chris McLaughlin  
+_Sound System:_ Lion’s Gate Sound  
+_Titan Boom:_ Norman Walke  
+_Re-recording Mixer:_ Richard Portman  
+_Sound Editors:_ William Sawyer, Richard Oswald  
+_Research:_ Maysie Hoy  
+_Head Wrangler:_ John Scott  
 
-_Music Composer:_ Richard Baskin
-
-_Sound:_ Jim Webb, Chris McLaughlin
-
-_Sound System:_ Lion’s Gate Sound
-
-_Titan Boom:_ Norman Walke
-
-_Re-recording Mixer:_ Richard Portman
-
-_Sound Editors:_ William Sawyer, Richard Oswald
-
-_Research:_ Maysie Hoy
-
-_Head Wrangler:_ John Scott
-
-_Cast:_
-
-Paul Newman  
-_(William F. ‘Buffalo Bill’ Cody, the star)_
-
-Joel Grey _(Nate Salsbury, the producer)_
-
-Kevin McCarthy  
-_(Major John M. Burke. the publicist)_
-
-Harvey Keitel _(Ed Goodman, the nephew)_
-
-Allan Nicholls _(Prentiss Ingraham, the journalist)_
-
-Geraldine Chaplin _(Annie Oakley, the sure shot)_
-
-John Considine  
-_(Frank Butler, the sure shot’s manager)_
-
-Robert DoQui _(Osborne Dart, the wrangler)_
-
-Michael Kaplan _(Jules Keen, the treasurer)_
-
-Bert Remsen _(Crutch, the bartender)_
-
-Bonnie Leaders _(Margaret, the mezzo-contralto)_
-
-Noelle Rogers
-
-_(Lucille Du Charmers, the lyric-contralto)_
-
-Evelyn Lear _(Nina Cavalini, the lyric-soprano)_
-
-Denver Pyle _(McLaughlin, the Indian agent)_
-
-Frank Kaquitts _(Chief Sitting Bull, the Indian)_
-
-Will Sampson _(William Halsey, the interpreter)_
-
-Ken Krossa _(Johnny Baker, the arenic director)_
-
-Fred N. Larsen
-
-_(Buck Taylor, the king of the cowboys)_
+**Cast**  
+Paul Newman  _(William F. ‘Buffalo Bill’ Cody, the star)_  
+Joel Grey _(Nate Salsbury, the producer)_  
+Kevin McCarthy  _(Major John M. Burke. the publicist)_  
+Harvey Keitel _(Ed Goodman, the nephew)_  
+Allan Nicholls _(Prentiss Ingraham, the journalist)_  
+Geraldine Chaplin _(Annie Oakley, the sure shot)_  
+John Considine  _(Frank Butler, the sure shot’s manager)_  
+Robert DoQui _(Osborne Dart, the wrangler)_  
+Michael Kaplan _(Jules Keen, the treasurer)_  
+Bert Remsen _(Crutch, the bartender)_  
+Bonnie Leaders _(Margaret, the mezzo-contralto)_  
+Noelle Rogers _(Lucille Du Charmers, the lyric-contralto)_  
+Evelyn Lear _(Nina Cavalini, the lyric-soprano)_  
+Denver Pyle _(McLaughlin, the Indian agent)_  
+Frank Kaquitts _(Chief Sitting Bull, the Indian)_  
+Will Sampson _(William Halsey, the interpreter)_  
+Ken Krossa _(Johnny Baker, the arenic director)_  
+Fred N. Larsen _(Buck Taylor, the king of the cowboys)_
 
 Jerri Duce, Joy Duce _(the cowboy trick riders)_
 
@@ -149,6 +115,6 @@ USA 1976©
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDI5NTgwLDkyMDU1MzUwMiwxOTY4Mj
-g5MDc1LDE0NDk5NTYyNTddfQ==
+eyJoaXN0b3J5IjpbLTU5MTAxMjM4MCw5MjA1NTM1MDIsMTk2OD
+I4OTA3NSwxNDQ5OTU2MjU3XX0=
 -->
