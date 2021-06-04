@@ -23,17 +23,15 @@ But these recollected scenes (the voiceover of the recollector always slightly a
 
 
 
-**FOOL FOR LOVE**
-
+**FOOL FOR LOVE**  
 _Director_: Robert Altman  
-©_/Production Company_: Cannon Films Inc  
+©/_Production Company_: Cannon Films Inc  
 _Producers_: Menahem Golan, Yoram Globus  
 _Associate Producers_: Scott Bushnell, Mati Raz  
 _Executive in Charge of Production_: Jeffrey Silver  
 _Unit Production Manager_: Allan Nicholls  
 _Location Accountant_: Kathi Hibbs  
-_Production Assistants_: Kevin St. John,  
-Laurel Hargarten  
+_Production Assistants_: Kevin St. John,  Laurel Hargarten  
 _Production Secretary_: Joan Patchen  
 _1st Assistant Director_: Ned Dowd  
 _2nd Assistant Director_: Stephen Dunn  
@@ -50,8 +48,7 @@ _Key Grip_: Bruce Hamme
 _Dolly Grip_: Tom Grunke  
 _[Grip] Best Boy_: Arley Thomsen  
 _Editors_: Luce Grunenwaldt, Stephen Dunn  
-_Assistant Editors_: Nathalie Le Guay,  
-Katya Furse Chelli, Michael Altman  
+_Assistant Editors_: Nathalie Le Guay,  Katya Furse Chelli, Michael Altman  
 _Production Designer_: Stephen Altman  
 _Assistant to the Art Director_: Robin Laughlin  
 _Set Decorator_: John Hay  
@@ -70,16 +67,13 @@ _Music Recording_: Studio de la Grande Armée
 _Sound Mixer_: Daniel Brisseau  
 _Sound Assistant_: Jean-Marie Blondel  
 _Boom Operator_: Éric Devulder  
-_Re-recording Mixers_: Neil Walwer,  
-Jacques Thomas-Gérard  
+_Re-recording Mixers_: Neil Walwer,  Jacques Thomas-Gérard  
 _Sound Editor_: Catherine d’Hoir  
 _Assistant Sound Editor_: Pascal Marzin  
-_Livestock Furnished by_:  
-Bar YL Services Unlimited  
+_Livestock Furnished by_:  Bar YL Services Unlimited  
 _Livestock Co-ordinator_: Steve Meador
 
-_Cast:_
-
+**Cast**  
 Sam Shepard _(Eddie)_  
 Kim Basinger _(May)_  
 Harry Dean Stanton _(old man)_  
@@ -92,9 +86,8 @@ April Russell _(young May)_
 Deborah McNaughton _(The Countess)_  
 Lon Hill _(Mr Valdes)_
 
-USA 1985©
-
+USA 1985©  
 108 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg4NTUzMDFdfQ==
+eyJoaXN0b3J5IjpbOTcyOTY5MDU5XX0=
 -->
