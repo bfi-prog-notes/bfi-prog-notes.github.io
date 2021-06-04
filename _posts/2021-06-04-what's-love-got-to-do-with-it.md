@@ -7,7 +7,7 @@ readtime: true
 categories: ['HER VOICE - BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN']
 tags: [Drama, Music, Biopic]
 metadata: 'USA, 1993, 118 mins<br> Director: Brian Gibson'
-pdf: '2021-06-04-what's-love-got-to-do-with-it.pdf'
+pdf: '2021-06-04-whats-love-got-to-do-with-it.pdf'
 ---
 
 In a genre famous for bungles and mediocrities, Brian Gibson’s biopic of  Tina Turner, _What’s Love Got to Do with It_, works on every level. This is partly because it has advantages which counterbalance the problems. Tina Turner’s life has coincided with watershed changes: in politics, in race relations, in fashion and the leisure industries. Though the film does not belabour these points, all are invoked – through ‘home movies’, modes of performance,  styles of stage lighting, varied street scenes and eye-popping costumes.  (The passage of 30 years means, for Angela Bassett’s Tina, 90 pieces  of ‘wardrobe’).
