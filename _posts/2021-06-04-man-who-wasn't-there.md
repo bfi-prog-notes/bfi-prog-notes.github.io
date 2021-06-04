@@ -26,10 +26,13 @@ If classic _films noirs_ are febrile, there’s a case to be made that _The Man 
 The somnambulistic barber – ‘it was like I was a ghost walking down the street,’ he reports after Doris meets her fate – is a cypher in his own story, like the Western ‘hero’ nobody noticed in the Pete Atkin / Clive James song ‘Stranger in Town’. As the title suggests, the film is built around a structuring absence. Usually that means the absence of a parent or a spouse, but here it means the absence of ego. So what does Ed want, if not money, success, a prime piece of jailbait or even to be a small-town barber? Or, to frame the question as Ed’s brother-in-law Frank and Big Dave put it, ‘What kind of man are you?’ Although the Coens have Ed voice an existential question about the pointlessness of life when, giving a kid a crew cut, he muses on the inexorability and disposability of human hair, there’s an overriding sense that he wants nothing and is no kind of man but a dead man walking.<br>
 **Graham Fuller, _Sight and Sound_, October 2001**<br><br>
 
-**THE MAN WHO WASN'T THERE**<br>
+**THE MAN WHO WASN'T THERE**<br><![endif]-->
+
+**The Man Who Wasn’t There**
+
 _Directed by_: Joel Coen  
 ©: Gramercy Pictures  
-_Presented by_: USA Films<br>
+_Presented by_: USA Films<br>  
 _Production Company_: Working Title Films  
 _Executive Producers_: Tim Bevan, Eric Fellner  
 _Produced by_: Ethan Coen  
@@ -41,12 +44,14 @@ _Production Accountant_: Cheryl Kurk
 _Location Manager_: Ned Shapiro  
 _Post-production Supervisor_: David Diliberto  
 _1st Assistant Director_: Betsy Magruder<br>
+
 _Script Supervisor_: Donald Murphy  
 _Casting by_: Ellen Chenoweth  
 _Written by_: Joel Coen, Ethan Coen  
 _Director of Photography_: Roger Deakins  
 _Camera Operator_: Clint Dougherty  
 _1st Assistant Camera_: Andy Harris<br>
+
 _Key Grip_: Bob Gray  
 _Visual Effects Supervisor_: Janek Sirrs  
 _Special Visual Effects_: LLC Manex Visual Effects  
@@ -59,14 +64,20 @@ _Set Designer_: Jeff Markwith
 _Set Decorator_: Chris Spellman  
 _Property Master_: Ritchie Kremer  
 _Costume Designers_: Mary Zophres, Maria Aguilar  
-_Make-up Supervisors_: Jean Black, Amy Schmiederer  
-_Special Effects Make-up_: Make-up & Monster Studios  
+_Make-up Supervisors_: Jean Black,  
+Amy Schmiederer  
+_Special Effects Make-up_:  
+Make-up & Monster Studios  
 _Hair Designer_: Paul Leblanc  
 _Key Hairstylist_: Joani Yarbrough, Carol Doran  
-_Title Design_: Balsmeyer & Everett Inc, Randall Balsmeyer  
+_Title Design_: Balsmeyer & Everett Inc, 
+
+Randall Balsmeyer  
 _Opticals_: Pacific Title  
 _Original Score_: Carter Burwell, Dean Parker  
-_Piano Performances_: Jonathan Feldman, Aquim Krajka  
+_Piano Performances_: Jonathan Feldman, 
+
+Aquim Krajka  
 _Orchestrated and Conducted by_: Carter Burwell  
 _Choreographer_: Bill Landrum, Jacqui Landrum  
 _Sound Design_: Eugene Gearty  
@@ -84,6 +95,8 @@ _Foley Editor_: Ben Cheah
 _Stunt Co-ordinator_: Jery Hewitt<br>
 
 **Cast**<br>
+
+_Cast:_  
 Billy Bob Thornton _(Ed Crane)_  
 Frances McDormand _(Doris Crane)_  
 Adam Alexi-Malle _(Carcanogues)_  
@@ -202,3 +215,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ3NDI3MTEzMF19
+-->
