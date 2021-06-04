@@ -37,7 +37,270 @@ I hope it’s developed, rather than changed. After all, I’d been working in t
 So I try to give the viewer a little more freedom; but how, if an image is still an image? You have to work with what’s offscreen – or, at least, with what is not onscreen – and use a kind of dramaturgy that isn’t ‘finished’, that leaves openings for interpretation. Those seem to me the only two ways of giving the viewer more freedom. I see my job as being partly about increasing the possibility of imagining for the spectator. That way we might bring the cinema more in line with the other arts. It seems the only way for the cinema to make any real progress. Film can become faster, more violent, more technologically sophisticated, of course, but even then it’s staying fundamentally the same.
 
 So that’s my aim.<br>
-**Michael Haneke interviewed by Geoff Andrew, _Sight & Sound_, December 2009**
+**Michael Haneke interviewed by Geoff Andrew, _Sight & Sound_, December 2009**<br><br>
+<![endif]-->
+
+**The White Ribbon (Das weisse Band  Eine deutsche Kindergeschichte)**
+
+_Director:_ Michael Haneke
+
+_©:_ X Filme Creative Pool, Wega-Film, Films du Losange (Paris), Lucky Red, ARD, Bayerischer Rundfunk, Österreichischer Rundfunk-Fernsehen, France 3 Cinéma
+
+_Presented by:_ X Filme Creative Pool, Wega-Film, Films du Losange (Paris), Lucky Red
+
+_In co-operation with:_ ARD, Bayerischer Rundfunk
+
+ORF Film/Fernseh-Abkommen, France 3 Cinéma, Canal+, TPS Star
+
+_With the support of:_
+
+MBB - Medienboard Berlin-Brandenburg
+
+_Supervising Producer:_ Michael Katz
+
+_Produced by:_ Stefan Arndt _(Berlin);_ Veit Heiduschka _(Vienna);_ Margaret Ménégoz _(Paris);_ Andrea Occhipinti _(Rome)_
+
+_Line Producer:_ Ulli Neumann
+
+_Associate Producer:_ Stefano Massenzi
+
+_Controlling X Filme Production Controller:_
+
+Cordula Herrmann
+
+_Production Accountants:_ Michael Vogt,
+
+Janina Bukowski
+
+_Production Co-ordinators:_ Ulrike Lässer,
+
+Manuela Groh
+
+_Production Manager:_ Miki Emmrich
+
+_France Production Manager:_ Amira Chemakhi
+
+_Set Manager:_ Gisela Emberger
+
+_Location Manager:_ Johannes Schröder
+
+_Brandenburg Location Manager:_ Felix Manthey
+
+_Johannstorf Location Manager:_
+
+Cathleen Hoffmann
+
+_Germany Post-production Supervisor:_
+
+Andreas Dobers
+
+_1st Assistant Directors:_ Hanus Polak Jr,
+
+Kris Portier de Bellair, Hervé Grandsart
+
+_2nd Assistant Director:_ Katharina Birò
+
+_Assistant to the Director:_ Kathrin Resetarits
+
+_Script Supervisor:_ Alice Stengl
+
+_Casting Director:_ Simone Bär
+
+_Child Actors:_ Markus Schleinzer, Carmen Loley
+
+_Screenwriter:_ Michael Haneke
+
+_Story:_ Michael Haneke
+
+_Script Adviser:_ Jean-Claude Carrière
+
+_Director of Photography:_ Christian Berger
+
+_B Camera Operators:_ Jörg Widmer,
+
+Marcus Pohlus
+
+_2nd Unit Camera Operators:_ Leah Striker
+
+_Focus Puller:_ Gerald Helf
+
+_Clapper Loader:_ Stefan Kaindl
+
+_Key Grip:_ Emmanuel Aubry
+
+_Steadicam:_ Jörg Widmer, Marcus Pohlus
+
+_Gaffer:_ Kimber Lee Jerrett
+
+_Visual Special Effects:_ Geoffrey Kleindorfer
+
+_Special Effects:_ Nefzer Babelsberg GmbH (_Special Effects Supervisor:_ Gerd Feuchter)
+
+_Edited by:_ Monika Willi
+
+_Production Designer:_ Christoph Kanter
+
+_Art Director:_ Anja Müller
+
+_Set Decorator:_ Hans Wagner
+
+_Property Masters:_ Ellen Heltzel, Ilse Töpfer
+
+_Costume Designer:_ Moidele Bickel
+
+_Costume Adviser:_ Dorothée Uhrmacher
+
+_Make-up by:_ Waldemar Pokromski
+
+_Make-up Artists:_ Anette Keiser,
+
+Cornelia Wentzel
+
+_Title Design:_ Kornelius Tarmann, Judith Rataitz
+
+_Choirmaster:_ Karl-Friedrich Beringer
+
+_Music Advisers:_ Jörg Strodthoff,
+
+Martin Achenbach, Christoph D. Minke,
+
+Karsten Lessing
+
+_Sound:_ Guillaume Sciama, Jean-Pierre LaForce
+
+_Boom Operator:_ Olivier Burgaud
+
+_Supervising Sound Editor:_ Vincent Guillon
+
+_Foley Artist:_ Pascal Chauvin
+
+_Historical Advisers:_ Heidemarie Frimodig,
+
+Hei-Mu-Ko
+
+_Stunts:_ Buff Connection
+
+_Supervising Stunt Co-ordinator:_ Volkhard Buff; _Horse Trainer:_ Ulrich Wessel
+
+_Cast:_
+
+Christian Friedel _(schoolteacher)_
+
+Ernst Jacobi _(voice of old schoolteacher/narrator)_
+
+Leonie Benesch _(Eva)_
+
+Ulrich Tukur _(the Baron)_
+
+Ursina Lardi _(the Baroness)_
+
+Fion Mutert _(Sigi)_
+
+Michael Kranz _(the tutor)_
+
+Burghart Klaussner _(the pastor)_
+
+Steffi Kühnert _(the pastor’s wife)_
+
+Maria-Victoria Dragus _(Klara)_
+
+Leonard Proxauf _(Martin)_
+
+Levin Henning _(Adi)_
+
+Johanna Busse _(Margarete)_
+
+Yuma Amecke _(Annchen)_
+
+Thibault Sérié _(Gustl)_
+
+Josef Bierbichler _(the steward)_
+
+Gabriela Maria Schmeide _(the steward’s wife)_
+
+Janina Fautz _(Erna)_
+
+Enno Trebs _(Georg)_
+
+Theo Trebbs _(Ferdinand)_
+
+Rainer Bock _(the doctor)_
+
+Susanne Lothar _(the midwife)_
+
+Roxane Duran _(Anna)_
+
+Miljan Chatelain _(Rudi)_
+
+Eddy Grahl _(Karli)_
+
+Branko Samarovski _(the farmer)_
+
+Klaus Manchen _(the farmer’s dubbed voice)_
+
+Birgit Minichmayr _(Frieda)_
+
+Sebastian Hülk _(Max)_
+
+Kai Malina _(Karl)_
+
+Kristina Kneppek _(Else)_
+
+Stephanie Amarell _(Sophie)_
+
+Bianca Mey _(Paula)_
+
+Aaron Denkel _(Kurti)_
+
+Mika Ahrens _(Willi)_
+
+Detlev Buck _(Eva’s father)_
+
+Anne-Kathrin Gummich _(Eva’s mother)_
+
+Luzie Ahrens, Gary Bestla, Leonard Boes,
+
+Felix Böttcher, Sophie Czech,
+
+Paraschiva Dragus, Selina Ewald, Nora Gruler, Tim Guderjahn, Jonas Jennerjahn, Ole Joensson, Gerrit Langentepe, Lena Pankow, Sebastian Pauli, Franz Rewoldt, Kevin Schmolinski, Alexander Sedl, Nino Seide, Marvin Ray Spey, Malin Steffen, Lilli Trebs, Paul Wolf, Margarete Zimmermann
+
+_(children in classroom)_
+
+Carmen-Maja Antoni _(bathing midwife)_
+
+Christian Klischat _(policeman)_
+
+Michael Schenk, Hanus Polak Jr _(CID inspectors)_
+
+Sara Schivazappa _(Italian nanny)_
+
+Marisa Growaldt _(servant)_
+
+Vincent Krüger _(Fritz, a farmhand)_
+
+Rüdiger Hauffe _(foreman)_
+
+Arndt Schwering-Sohnrey, Florian Köhler
+
+_(tenant farmers)_
+
+Sebastian Lach, Marcin Tyrol, Sebastian Badurek, Krysiek Zarzecki, Sebastian Pawlak
+
+_(seasonal farmhands)_
+
+Lilli Fichtner, Amelie Litwin, Paula Kalinski
+
+_(harvest feast girls)_
+
+Matthias Linke, Vladik Otaryan, Peter Mörike,
+
+Hans-Matthias Glassmann, Nikita Vaganov
+
+_(brass band musicians)_
+
+Germany/Austria/France/Italy 2009©
+
+144 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTk5OTA2Nl19
+eyJoaXN0b3J5IjpbMjYxOTcxNjgzXX0=
 -->
