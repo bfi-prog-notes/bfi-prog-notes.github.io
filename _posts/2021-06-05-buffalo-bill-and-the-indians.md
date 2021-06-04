@@ -27,10 +27,7 @@ _Director:_ Robert Altman
 _Production Companies:_  Dino De Laurentiis Corporation, Lion’s Gate Films, Talent Associates, Norton Simon Inc.  
 _Executive Producer:_ David Susskind  
 _Producer:_ Robert Altman  
-_Associate Producers:_ Robert Eggenweiler, Scott Bushnell, Jac Cashin  _Production Executive:_ Tommy Thompson  
-_Production Services:_ Cody Production Co  
-_Unit Manager:_ Les Kimber
-_Researcher:_ Maysie Hoy_Assistant Director:_ Tommy Thompson_2nd Assistant Director:_ Rob Lockwood_Script Supervisor:_ John Binder_Screenplay:_ Alan Rudolph, Robert Altman_Screen Story:_ Alan Rudolph, Robert Altman_Suggested by the play_ Indians _by:_ Arthur Kopit_Director of Photography:_ Paul Lohmann_Camera Operators:_ Eddie Koons, Jack Richards_Grip:_ Art Brooker_Gaffer:_ J. Michael Marlett
+_Associate Producers:_ Robert Eggenweiler, Scott Bushnell, Jac Cashin_Production Executive:_ Tommy Thompson  _Production Services:_ Cody Production Co  _Unit Manager:_ Les Kimber_Researcher:_ Maysie Hoy_Assistant Director:_ Tommy Thompson_2nd Assistant Director:_ Rob Lockwood_Script Supervisor:_ John Binder_Screenplay:_ Alan Rudolph, Robert Altman_Screen Story:_ Alan Rudolph, Robert Altman_Suggested by the play_ Indians _by:_ Arthur Kopit_Director of Photography:_ Paul Lohmann_Camera Operators:_ Eddie Koons, Jack Richards_Grip:_ Art Brooker_Gaffer:_ J. Michael Marlett
 _Special Effects:_ Joe Zomar, Logan Frazee,Bill Zomar, Terry Frazee, John Thomas
 _Editors:_ Peter Appleton, Dennis Hill
 _Assistant Editors:_ Tony Lombardo, Tom Walls
@@ -142,6 +139,6 @@ USA 1976©
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjY0MjkzMiwxOTY4Mjg5MDc1LDE0ND
-k5NTYyNTddfQ==
+eyJoaXN0b3J5IjpbOTIwNTUzNTAyLC01MzI2NDI5MzIsMTk2OD
+I4OTA3NSwxNDQ5OTU2MjU3XX0=
 -->
