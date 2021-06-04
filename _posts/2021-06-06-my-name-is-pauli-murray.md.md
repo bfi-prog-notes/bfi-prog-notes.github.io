@@ -1,14 +1,21 @@
-
-
-<![endif]-->
-
+---
+layout: post
+title: My Name Is Pauli MUrray
+published: true
+date: 2021-06-06
+readtime: true
+categories: ['SHEFFIELD DOC/FEST 2021']
+tags: [Documentary]
+metadata: 'USA, 2021, 91 mins<br> Directors: Julie Cohen, Betsy West'
+pdf: '2021-06-06-my-name-is-pauli-murray.pdf'
+---
 _+ Pre-recorded Q&A_
 
 Pauli Murray knew intimately what it meant to live a life that was out of sync – when even language wasn’t sufficient to define or describe a journey.
 
 Lawyer, professor, poet, and Episcopal priest, Murray was an iconoclast who pushed against the limits – both the conventional and strict legislation and the narrow thinking around issues of race and gender equity. The struggle wasn’t abstract: Murray’s own life – as an African American intellectual whose gender identity felt fluid – personified it.
 
-A visionary, Pauli understood that the same arguments employed to assail Jim Crow laws and other forms of racial discrimination could be made to attack gender inequity – and, consequently, these pivotal insights became a professional signature. Confidante to Eleanor Roosevelt and inspiration to Justice Ruth Bader Ginsburg (who cites Murray in her first Supreme Court brief regarding the Equal Protection Clause), Pauli frequently stood in close proximity to power. Yet the story of Pauli’s ground-breaking activism and influential legacy has largely been untold**.**
+A visionary, Pauli understood that the same arguments employed to assail Jim Crow laws and other forms of racial discrimination could be made to attack gender inequity – and, consequently, these pivotal insights became a professional signature. Confidante to Eleanor Roosevelt and inspiration to Justice Ruth Bader Ginsburg (who cites Murray in her first Supreme Court brief regarding the Equal Protection Clause), Pauli frequently stood in close proximity to power. Yet the story of Pauli’s ground-breaking activism and influential legacy has largely been untold.
 
 Directed by Julie Cohen and Betsy West, _My Name is Pauli Murray_ pulls back that veil. This new documentary vividly maps Pauli’s journey – from a segregated childhood in North Carolina to integrating classrooms, courtrooms and conferences to sit alongside with the world's most influential powerbrokers. Pauli’s course was not unencumbered nor unchallenged, yet Pauli used the barriers to inform the work, sharpen the arguments and steel convictions.
 
@@ -31,119 +38,72 @@ Progress isn’t linear. Activism is ongoing. And while in recent years the many
 ‘Simply put, Pauli was a patriot,’ says Weyermann. Pauli was always pressing and questioning. Taking the unexplored route. That steadfastness and resilience sent a message that has compelling resonance now: ‘We have to progress. We have to come along.’ This is the critical inheritance of Pauli’s legacy. Thirty-years gone, ‘Pauli is still bringing us along.’ says Weyermann. In this sense, _My Name is Pauli Murray_ provides a template. Pauli is forcing us to grapple with what’s uncomfortable: what’s in the shadows or in the margins. What shouldn’t be forgotten. All the wrongs that have to be made right. ‘Absent the historical accounts, other than a piece in _The New Yorker_, there really isn’t much out there about Pauli’s story.’ Weyermann reflects. ‘We have to change this. Pauli gave so much. This wrong has to be made right. We have to do this as storytellers. We have to bring Pauli to light.’<br>
 **Production notes**<br><br>
 
-<![endif]-->
+**MY NAME IS PAULI MURRAY**<br>
+_Directed by:_ Julie Cohen, Betsy West<br>
+_Executive Producers:_ Jeff Skoll, Diane Weyermann, Elise Pearlstein<br>
+_Executive Producer:_ Peggy Drexler<br>
+_Co-Executive Producers:_  Eve Plank, Dana DiCarlo<br>
+_Produced by:_ Talleah Bridges McMahon<br>
+_Associate Producer:_  Claudia Lopez<br>
+_Consulting Producer:_ Patricia Bell-Scott<br>
+_Archival Producer:_ Claudia Lopez<br>
+_Additional Archival Researchers:_ Emily Cofrancesco, Hillary Dann, Nicole London, Nadine Natour<br>
+_Written by:_ Talleah Bridges McMahon, Julie Cohen, Cinque Northern, Betsy West<br>
+_Director of Photography:_  Claudia Raschke<br>
+_Camera Operators:_ Wayne Arnold, Hugh Boyle, Alan Hostetter, Lucas Millard, Peter Nicoll, Mike Wilson<br>
+_Editor:_ Cinque Northern<br>
+_Associate Editor:_  Hilary Crowe<br>
+_Post Production Supervisor:_ Jim McMahon<br>
+_Original Art by:_  Diana Ejaita<br>
+_Director of Design and Animation:_ Molly Schwartz<br>
+_Animation Producer:_  Rennie Elliot<br>
+_Original Music by:_  Jongnic Bontemps<br>
+_Additional Composer:_ Derek Baird<br>
+_Sound Mixer:_ Sean O’Neil<br>
+_Additional Sound:_ Hugh Boyle, Jim Gilchrist, Geoff Gann, John O’Connor<br>
+_With the generous support of:_  George H. Cohen, Shelley Krause<br>
 
-**My Name Is Pauli Murray**
+_With (in alphabetical order):_<br>
+Patricia Bell-Scott<br>
+Dolores Chandler<br>
+Brittney Cooper<br>
+Sonia Pressman Fuentes<br>
+Justice Ruth Bader Ginsburg<br>
+Tina Lu<br>
+Marghretta McBean<br>
+Ernest Myers and Reggie Sapp<br>
+Mary Norris<br>
+Congresswoman Eleanor Holmes Norton<br>
+Hon. Inez Smith Reid<br>
+Rosalind Rosenberg<br>
+Karen Ross Rouse<br>
+Chase Strangio<br>
+Raquel Willis<br>
 
-_Directed by:_ Julie Cohen, Betsy West
+USA 2021<br>
+91 mins<br><br>
 
-_Executive Producers:_ Jeff Skoll, Diane Weyermann, Elise Pearlstein
+**SHEFFIELD DOC/FEST 2021**<br>
+**International Premiere: My Name Is Pauli Murray + pre-recorded Q&A**<br>
+Sun 6 Jun 18:30<br>
+**UK Premiere: The First 54 Years: An Abbreviated Manual for Military Occupation + pre-recorded Q&A**<br>
+Fri 11 Jun 20:20<br>
+**Closing Night: World Premiere: The Story of Looking + pre-recorded Q&A**<br>
+Sat 12 Jun 20:50<br><br>
 
-_Executive Producer:_ Peggy Drexler
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
-_Co-Executive Producers:_  Eve Plank, Dana DiCarlo
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
-_Produced by:_ Talleah Bridges McMahon
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
 
-_Associate Producer:_  Claudia Lopez
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 
-_Consulting Producer:_ Patricia Bell-Scott
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-_Archival Producer:_ Claudia Lopez
-
-_Additional Archival Researchers:_
-
-Emily Cofrancesco, Hillary Dann, Nicole London,
-
-Nadine Natour
-
-_Written by:_ Talleah Bridges McMahon, Julie Cohen,
-
-Cinque Northern, Betsy West
-
-_Director of Photography:_  Claudia Raschke
-
-_Camera Operators:_ Wayne Arnold, Hugh Boyle,
-
-Alan Hostetter, Lucas Millard, Peter Nicoll,
-
-Mike Wilson
-
-_Editor:_ Cinque Northern
-
-_Associate Editor:_  Hilary Crowe
-
-_Post Production Supervisor:_ Jim McMahon
-
-_Original Art by:_  Diana Ejaita
-
-_Director of Design and Animation:_  Molly Schwartz
-
-_Animation Producer:_  Rennie Elliot
-
-_Original Music by:_  Jongnic Bontemps
-
-_Additional Composer:_ Derek Baird
-
-_Sound Mixer:_ Sean O’Neil
-
-_Additional Sound:_ Hugh Boyle, Jim Gilchrist,
-
-Geoff Gann, John O’Connor
-
-_With the generous support of:_  George H. Cohen,
-
-Shelley Krause
-
-_With (in alphabetical order):_
-
-Patricia Bell-Scott
-
-Dolores Chandler
-
-Brittney Cooper
-
-Sonia Pressman Fuentes
-
-Justice Ruth Bader Ginsburg
-
-Tina Lu
-
-Marghretta McBean
-
-Ernest Myers and Reggie Sapp
-
-Mary Norris
-
-Congresswoman Eleanor Holmes Norton
-
-Hon. Inez Smith Reid
-
-Rosalind Rosenberg
-
-Karen Ross Rouse
-
-Chase Strangio
-
-Raquel Willis
-
-USA 2021
-
-91 mins
-
-SHEFFIELD DOC/FEST 2021
-
-**International Premiere: My Name Is Pauli Murray + pre-recorded Q&A**
-
-Sun 6 Jun 18:30
-
-**UK Premiere: The First 54 Years: An Abbreviated Manual for Military Occupation + pre-recorded Q&A**
-
-Fri 11 Jun 20:20
-
-**Closing Night: World Premiere: The Story of Looking + pre-recorded Q&A**
-
-Sat 12 Jun 20:50
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDI5NzAxNzNdfQ==
--->
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
