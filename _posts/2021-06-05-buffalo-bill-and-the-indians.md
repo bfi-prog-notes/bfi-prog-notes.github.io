@@ -42,79 +42,39 @@ _Executive Producer:_ David Susskind
 
 _Producer:_ Robert Altman  
 
-_Associate Producers:_ Robert Eggenweiler,
-
-Scott Bushnell, Jac Cashin
-
-_Production Executive:_ Tommy Thompson
-
-_Production Services:_ Cody Production Co
-
-_Unit Manager:_ Les Kimber
-
-_Researcher:_ Maysie Hoy
-
-_Assistant Director:_ Tommy Thompson
-
-_2nd Assistant Director:_ Rob Lockwood
-
-_Script Supervisor:_ John Binder
-
-_Screenplay:_ Alan Rudolph, Robert Altman
-
-_Screen Story:_ Alan Rudolph, Robert Altman
-
-_Suggested by the play_ Indians _by:_ Arthur Kopit
-
-_Director of Photography:_ Paul Lohmann
-
-_Camera Operators:_ Eddie Koons, Jack Richards
-
-_Grip:_ Art Brooker
-
-_Gaffer:_ J. Michael Marlett
-
-_Special Effects:_ Joe Zomar, Logan Frazee,
-
-Bill Zomar, Terry Frazee, John Thomas
-
-_Editors:_ Peter Appleton, Dennis Hill
-
-_Assistant Editors:_ Tony Lombardo, Tom Walls
-
-_Apprentice Editors:_ Mark Eggenweiler,
-
-Steve Altman
-
-_Production Designer:_ Tony Masters
-
-_Art Director:_ Jack Maxsted
-
-_Set Decorator/Property Master:_ Dennis J. Parrish
-
-_Assistant Set Decorator/Property Master:_
-
-Graham Sumner
-
-_Scenic Artist:_ Rusty Cox
-
-_Costume Designer:_ Anthony Powell
-
-_Costume Assistant:_ J. Allen Highfill
-
-_Buffalo Bill’s Gun Belt by:_ John Bianchi
-
-_Wardrobe:_ Jules Melillo
-
-_Make-up:_ Monty Westmore
-
-_Title Design:_ Dan Perri
-
-_Filmed in:_ Panavision
-
-_Colour by:_ Alpha Cine Labs
-
-_Prints by:_ DeLuxe General
+_Associate Producers:_ Robert Eggenweiler,Scott Bushnell, Jac Cashin
+  _Production Executive:_ Tommy Thompson
+  _Production Services:_ Cody Production Co
+  _Unit Manager:_ Les Kimber
+  _Researcher:_ Maysie Hoy
+  _Assistant Director:_ Tommy Thompson
+  _2nd Assistant Director:_ Rob Lockwood
+  _Script Supervisor:_ John Binder
+  _Screenplay:_ Alan Rudolph, Robert Altman
+  _Screen Story:_ Alan Rudolph, Robert Altman
+  _Suggested by the play_ Indians _by:_ Arthur Kopit
+  _Director of Photography:_ Paul Lohmann
+  _Camera Operators:_ Eddie Koons, Jack Richards
+  _Grip:_ Art Brooker
+  _Gaffer:_ J. Michael Marlett
+  _Special Effects:_ Joe Zomar, Logan Frazee,Bill Zomar, Terry Frazee, John Thomas
+  _Editors:_ Peter Appleton, Dennis Hill
+  _Assistant Editors:_ Tony Lombardo, Tom Walls
+  _Apprentice Editors:_ Mark Eggenweiler,Steve Altman
+  _Production Designer:_ Tony Masters
+  _Art Director:_ Jack Maxsted
+  _Set Decorator/Property Master:_ Dennis J. Parrish
+  _Assistant Set Decorator/Property Master:_Graham Sumner
+  _Scenic Artist:_ Rusty Cox
+  _Costume Designer:_ Anthony Powell
+  _Costume Assistant:_ J. Allen Highfill
+  _Buffalo Bill’s Gun Belt by:_ John Bianchi
+  _Wardrobe:_ Jules Melillo
+  _Make-up:_ Monty Westmore
+  _Title Design:_ Dan Perri
+  _Filmed in:_ Panavision
+  _Colour by:_ Alpha Cine Labs
+  _Prints by:_ DeLuxe General
 
 _Music Composer:_ Richard Baskin
 
@@ -207,5 +167,5 @@ USA 1976©
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTk1NjI1NywxODEzMjc3OTU2XX0=
+eyJoaXN0b3J5IjpbMTg1ODU0NDA3NywxNDQ5OTU2MjU3XX0=
 -->
