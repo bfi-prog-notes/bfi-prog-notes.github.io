@@ -30,7 +30,6 @@ Questlove uses each of the film’s performances to conjure a different facet of
 Some of the most joyous shots in _Summer of Soul_ are those of the crowd, which paint a picture of all that coalesced around the festival. Rows and rows of Afros bob to the music, little girls and boys can be seen perched atop their parents’ shoulders, vendors hawk food and drink on the sidelines and the Black Panthers patrol the venue, providing security in lieu of a reluctant police. In the years in which Tulchin’s footage languished in obscurity, _Summer of Soul_ lived on in the dreams of its attendees, some of whom vividly recall the smell of ‘AfroShe and chicken’ and the feeling of being a part of something generation-defining. With _Summer of Soul_, Questlove gives solidity to their memories, ensuring their due place in the annals of American history.<br>
 **Devika Girish, _Sight & Sound_, bfi.org.uk/sight-and-sound, 2 February 2021**
 <br><br>
-
 **Summer of Soul (...Or, When the Revolution Could Not Be Televised)**<br>
 _Director:_ Ahmir ‘Questlove’ Thompson<br>
 ©_:_ Concordia<br>
@@ -44,7 +43,6 @@ _Music Supervisor:_ Randall Poster<br>
 USA 2021©<br>
 117 mins<br>
 <br><br>
-
 **SHEFFIELD DOC/FEST**<br>
 **Opening Night: European Premiere: Summer of Soul (...Or, When the Revolution Could Not Be Televised) + pre-recorded Q&A**<br>
 Fri 4 Jun 20:15<br>
