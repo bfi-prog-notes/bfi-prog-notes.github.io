@@ -4,7 +4,7 @@ title: The Beatles and India
 published: true
 date: 2021-06-06
 readtime: true
-categories: ['TONGUES ON FIRE UK ASIAN FILM FESTIVAL']
+categories: ['TONGUES ON FIRE  UK ASIAN FILM FESTIVAL']
 tags: [Documentary, Music]
 metadata: 'UK/India, 2021, 92 mins<br> Directors: Ajoy Bose, Peter Compton'
 pdf: '2021-06-06-beatles-and-india.pdf'
