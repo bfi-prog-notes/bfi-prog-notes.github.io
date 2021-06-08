@@ -109,9 +109,9 @@ UK 2019<br>
 87min
 
 _Courtesy of Republic Film Distribution_<br>
-<img style="float:left" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC"  width="40%" height="40%">
+<p><img style="float:left" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC"  width="40%" height="40%"></p>
 <br><br> 
-<p>**Woman with a Movie Camera is powered by Jaguar and generously supported by Jane Stanton**<br><br></p>
+**Woman with a Movie Camera is powered by Jaguar and generously supported by Jane Stanton**<br><br>
 
 
 
