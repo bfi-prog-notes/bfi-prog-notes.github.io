@@ -108,8 +108,7 @@ William B. Tabares _(Mr Headless)_<br>
 UK 2019<br>
 87min
 
-_Courtesy of Republic Film Distribution_<br>
-<p><img style="float:left" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC"  width="40%" height="40%"></p>
+_Courtesy of Republic Film Distribution_<br><img style="float:lef" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC"  width=0%" height="0%">>
 
 
 
@@ -123,7 +122,8 @@ _Courtesy of Republic Film Distribution_<br>
 
 
 
-**Woman with a Movie Camera is powered by Jaguar and generously supported by Jane Stanton**<br><br>
+
+<br><br> **Woman with a Movie Camera is powered by Jaguar and generously supported by Jane Stanton**<br><br>
 
 
 
@@ -147,5 +147,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTgyOTkxOF19
+eyJoaXN0b3J5IjpbMTIyODcwNzQ0NSwxNDkxODI5OTE4XX0=
 -->
