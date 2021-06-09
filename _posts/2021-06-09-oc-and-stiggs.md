@@ -22,8 +22,7 @@ The former would include the cacti that sprout everywhere, even in the food, in 
 
 **O.C. AND STIGGS**  
 _Director_: Robert Altman  
-©_/Production Companies_:  
-MGM/UA Entertainment, Sand River Productions  
+©/_Production Companies_:  MGM/UA Entertainment, Sand River Productions  
 _Executive Producer_: Lewis Allen  
 _Producers_: Robert Altman, Peter Newman  
 _Associate Producer_: Scott Bushnell  
@@ -32,8 +31,7 @@ _Office Co-ordinator_: Georgia Hamlin
 _Production Co-ordinator_: Doug Cole  
 _Location Manager_: Jack Kney  
 _Post-production Co-ordinator_: Matthew Seig  
-_1st Assistant Directors_: Stephen P. Dunn,  
-Paula Mazur, Ned Dowd  
+_1st Assistant Directors_: Stephen P. Dunn,  Paula Mazur, Ned Dowd  
 _Script Supervisor_: Luca Kouimelis  
 _Screenplay_: Donald Cantrell, Ted Mann  
 _Story by_: Tod Carroll, Ted Mann  
@@ -54,8 +52,7 @@ _Make-up_: David Craig Forrest
 _Hairdresser_: Victor Denicola Jr  
 _Titles/Opticals_: MGM Title  
 _Colour Timer_: Stephen Sheridan  
-_Special music composed and performed by_:  
-King Sunny Adé and His African Beats  
+_Special music composed and performed by_:  King Sunny Adé and His African Beats  
 _Musical Arrangements_: Ralph Schuckett  
 _Music Supervisor_: Allan Nicholls  
 _Music Editor_: Greg Sheldon  
@@ -70,8 +67,7 @@ _Foley Editor_: Ron Bochar
 _Stunts_: Randy 'Fife'  
 _Technical Co-ordinator_: Michael Altman
 
-_Cast:_
-
+**Cast**  
 Daniel H. Jenkins _(Oliver Cromwell ‘O.C.’ Ogilvy)_  
 Neill Barry _(Mark Stiggs)_  
 Jane Curtin _(Elinore Schwab)_  
@@ -108,14 +104,12 @@ Maurice Orozco _(bandito)_
 Louis Enriques _(promoter)_  
 Frank Sprague _(actor in play)_  
 Robert Fortier _(Wino Jim)_  
-Allan Berne, Roger Carter, Roy Gunsberg,  
-Robert Ledford, Lobo, Bob Reilly,  
+Allan Berne, Roger Carter, Roy Gunsberg,  Robert Ledford, Lobo, Bob Reilly,  
 Richard Thompson, Wayne Wallace, D.C. Warren, Florence White _(winos)_  
 Fred Newman _(Bongo voice)_
 
-USA 1985©
-
+USA 1985©  
 105 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDk1NTQ2MV19
+eyJoaXN0b3J5IjpbODU1OTg4OTNdfQ==
 -->
