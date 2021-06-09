@@ -20,7 +20,7 @@ _O.C. and Stiggs_ is a film haunted by ghosts. The ghost, first of all, of its o
 Altman has described this pair as rebels who have decided ‘that they shouldn’t listen to anything their parents or teachers tell them, because they might grow up to be like them’. But if Randall Schwab Snr is, admittedly, a deliciously realised caricature of reactionary bluster, with a particular phobia about miscegenation (‘I don’t like coloured ice-cream’), the unpleasant mockery of O.C. and Stiggs, directed against all and sundry (their triumph is winkling two gay teachers out of the closet), hardly seems morally superior. Their contempt for the Schwabs is only equalled by their enthusiasm for the music of King Sunny Adé and his African Beats, but there is a patronising edge here too, perhaps because, in either its positive or negative moods, the film is never far from comic-strip exaggeration. Salvation for O.C. and his grandfather finally arrives with a cheque for $42 000 from dress manufacturer Paul Coletti, who has turned his Phoenix backyard into a Tahitian idyll (‘I wonder what the poor people are doing tonight?’, he muses, meaning his own sweatshop workers), and who is given a bright idea by the boys for marketing his line of clothes for fat women. In this context, the only possible satirical point would seem to be that O.C. and Stiggs must inevitably grow up to be Schwab and Coletti.  But the film operates by giving them a (thoroughly undeserved) moral _carte blanche_ while glibly trashing everything around them.
 
 That said, the final ghost engaged with here is the shade of those other fantasies which Altman has set in the desert – _3 Women_, _Come Back to the 5 & Dime Jimmy Dean, Jimmy Dean_, _Quintet_ (a desert in negative). In this clime, Altman is able to imagine an America that is both a dream and an essential caricature of what exists everywhere else. When Stiggs’ mother, who spends the movie rehearsing for a production of _Cactus Flower_, asks if there are cacti in Arkansas, O.C.’s future home, her husband retorts, proudly, ‘Arkansas is one of the United States. All America is the same’. This, for Altman, seems to be the most maddening thing about his country, and in the desert sameness blooms with the similarly maddening repetitions of a dream, (or the pointless extravagance of terminal forms of life). There’s evidently a cultural critique here, but it’s not satire in the usual sense, and the juvenile high-jinks of _O.C. and Stiggs_ are best ignored for its richer sense of the local flora and fauna.  The former would include the cacti that sprout everywhere, even in the food, in Stiggs’ home, because his mother is ‘living’ her part in _Cactus Flower_. And the latter is at its wittiest with Dennis Hopper playing _Carry on Apocalypse Now_, bringing the war back home to the firework fight the boys are engaged in with Schwab, and remarking pleasantly, when they protest that the grenade he has tossed them is real, ‘Everything gets to be sooner or later, man’.  
-**Richard Combs, _Monthly Film Bulletin_, April 1988**    
+**Richard Combs, _Monthly Film Bulletin_, April 1988**<br><br>    
 
 
 
@@ -113,7 +113,7 @@ Richard Thompson, Wayne Wallace, D.C. Warren, Florence White _(winos)_
 Fred Newman _(Bongo voice)_
 
 USA 1985©  
-105 mins    
+105 mins<br><br>  
 
 
 **ROBERT ALTMAN: AMERICAN OUTSIDER**      
