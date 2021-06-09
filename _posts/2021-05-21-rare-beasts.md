@@ -108,8 +108,7 @@ William B. Tabares _(Mr Headless)_<br>
 UK 2019<br>
 87min
 
-_Courtesy of Republic Film Distribution_<br><img style="float:lef" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC"  width=0%" height="0%">>
-
+_Courtesy of Republic Film Distribution_<img style="float:le" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC"  width=0%" height="0%">>
 
 
 
@@ -147,5 +146,6 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODcwNzQ0NSwxNDkxODI5OTE4XX0=
+eyJoaXN0b3J5IjpbMzYwNjc3NDA5LDEyMjg3MDc0NDUsMTQ5MT
+gyOTkxOF19
 -->
