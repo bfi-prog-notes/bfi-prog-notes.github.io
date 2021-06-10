@@ -10,7 +10,143 @@ This is the idea that draws together the film’s wayward strands: that art, sci
 
 Is Parnagg Fegg real, or a name for nature? Either way, why does it require the blood of a nice man called Martin? That sort of firm explanation gets a little bit lost in a denouement that goes big on psychotronic rampage before leaving a lot of its loose ends defiantly untied. There’s a whole strand about standing stones that never quite relates to the other aspects of the story. But _In the Earth_ may ultimately have more to say about the experience of being an artist than about monuments, magic mushrooms or mycorrhizal networks. ‘So… you’re using light and sound to communicate?’ Martin innocently asks Olivia – a query that neatly remind us that we, too, are being told a story, and affected by a sensory display. Could it be that Zach and Olivia are not just embodiments of creativity and ontology respectively, but aspects of Wheatley’s clashing instincts as an artist: the storyteller who wants to involve us, and the iconoclast who’d rather mess with our senses? It is in between these boundaries – artist and scientist, natural and supernatural, disrupted present and dystopian future – that this film finds its fertile ground.<br>
 **Hannah McGill, _Sight & Sound_, Summer 2021**
-<br>
+<br><br>
+<![endif]-->
+
+**In the Earth**
+
+_Director_: Ben Wheatley  
+©: NEON Rated LLC.  
+_Production Companies_: Neon, Rook Films  
+_With the support of the_: BFI Locked Box Initiative  
+_International Sales by_: Protagonist Pictures  
+_Executive Producers_: Jeff Deutchman, Tom Quinn, Amy Jump, Ben Wheatley  
+_Produced by_: Andy Starke  
+_Line Producer_: Michael Constable  
+_Production Manager_: Filiz-Theres Erel  
+_Production Co-ordinator_: Cecily Colaheen  
+_Financial Controller_: David Cook  
+_Payroll_: Moneypenny  
+_Unit Manager_: Ed Burrell  
+_Locations Manager_: Eleri Coulten  
+_Post Supervisor_: Hashim Alsaraf  
+_COVID/Production Assistant_: Natasha Khaleeq  
+_Production Assistant_: Anya Kalirai  
+_Floor Runner_: Sam Jones  
+_1st Assistant Director_: Andi Coldwell  
+_2nd Assistant Director_: Charlie Vaughan  
+_3rd Assistant Director_: Jack Wren  
+_Script Supervisor_: Anita Christy  
+_Casting by_: Shaheen Baig  
+_Casting Assistants_: Shaheen Baig Casting  
+_Extras Casting_: We Got POP  
+_Written by_: Ben Wheatley  
+_Director of Photography_: Nick Gillespie  
+_B Camera Operator_: Andrew Butler  
+_DIT_: Kevin Bell  
+_Gaffer_: Tim Jordan  
+_Visual Effects by_: Milk Visual Effects  
+_Special Effects Supervisors_: Daniel Bentley,
+
+Daniel Snelling, Dewi Foulkes  
+_Special Effects_: Real SFX  
+_Motion Graphics_: Peter Eszenyi  
+_Rotoscoping Lead_: Ben Thomas  
+_Trip Visuals by_: CYRIAK  
+_Editor_: Ben Wheatley  
+_On-line Editor_: Daniel Tomlinson  
+_Production Designer_: Felicity Hickson  
+_Standing Stone Construction_: Supersets  
+_Woodcut Illustrations_: Richard Wells  
+_Prop Master_: Callum Hickey  
+_Costume Designer_: Emma Fryer  
+_Costume Supervisor_: Tracy McGregor  
+_Hair and Make-up Designer_: Emma Scott  
+_Prosthetics Designer_: Dan Martin  
+_End Titles by_: Intro, Julian House  
+_Colour Grade and Finishing_: Goldcrest Post UK  
+_Colourist_: Rob Pizzey  
+_Music_: Clint Mansell  
+_Mixed by_: Geoff Foster  
+_Sound Designer_: Martin Pavey  
+_Sound Recordist_: Ron Entwhistle  
+_Dialogue Editor_: Nikki Ruck  
+_Foley_: Tapio Liukkonen, Kaamos Sound  
+_Stunt Co-ordinator_: Peter Pedrero  
+_Covid Supervisors_: Alex Kemp, Uli Kress  
+_Armourer_: Noel Francis  
+_Digital Intermediate Producer_: Suhaila Mahmoud  
+_Digital Intermediate_: Emma Liu
+
+_Cast__:_  
+Joel Fry _(Martin Lowery)_  
+Reece Shearsmith _(Zach)_  
+Hayley Squires _(Olivia Wendle)_  
+Ellora Torchia _(Alma)_  
+John Hollingworth _(James)_  
+Mark Monero _(Frank)_
+
+USA/UK 2021  107 mins
+
+_Courtesy of Universal Pictures_
+
+EVENTS & STRANDS
+
+**Preview: Doctor Who: Dragonfire**
+
+Sat 12 Jun 12:00
+
+**Relaxed Screenings: The Reason I Jump**
+
+Fri 18 Jun 14:30; Tue 22 Jun 18:10
+
+**Woman with a Movie Camera: Wildfire**
+
+Sun 20 Jun 18:40 (+ Q&A with director Cathy Brady); Mon 21 Jun 18:10; Tue 22 Jun 14:40; Wed 23 Jun 20:50; Thu 24 Jun 14:45
+
+BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL
+
+**LIFF Opening Night: WOMB (Women of My Billion) + on stage Q&A with Srishti Bakshi and film critic Anna Smith**
+
+Thu 17 Jun 17:20
+
+**My Beautiful Laundrette**
+
+Fri 18 Jun 20:20
+
+**The Warrior + on-stage career interview with writer-director Asif Kapadia**
+
+Sat 19 Jun 20:30
+
+**Ahimsa: Gandhi the Power of the Powerless**
+
+Sun 20 Jun 15:00
+
+**Searching for Happiness…**
+
+Tue 22 Jun 20:50
+
+**Nazarband Captive**
+
+Wed 23 Jun 20:45
+
+**A’hr Kayattam**
+
+Thu 24 Jun 18:00
+
+**The Salt in Our Waters Nonajoler Kabbo**
+
+Sun 27 Jun 15:00
+
+SHEFFIELD DOC/FEST 2021
+
+**UK Premiere: The First 54 Years: An Abbreviated Manual for Military Occupation + pre-recorded Q&A**
+
+Fri 11 Jun 20:20
+
+**Closing Night: World Premiere: The Story of Looking + pre-recorded Q&A**
+
+Sat 12 Jun 20:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjM0NTg2MThdfQ==
+eyJoaXN0b3J5IjpbMTg4OTQwNzU4NV19
 -->
