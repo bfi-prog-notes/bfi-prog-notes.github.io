@@ -1,3 +1,14 @@
+---
+layout: post
+title: In the Earth
+published: true
+date: 2021-06-10
+readtime: true
+categories: ['IN PERSON & PREVIEW']
+tags: [Horror, Sci-Fi, Thriller]
+metadata: 'UK 2021, 107 mins<br> Director: Ben Wheatley'
+pdf: '2021-06-10-in-the-earth.pdf'
+---
 _+ Q&A with director Ben Wheatley_
 
 Following an uncharacteristically tepid adaptation of Daphne du Maurier’s _Rebecca_ undertaken for Netflix and released last year, Ben Wheatley here returns to the diseased rural British underbelly he probed in his reputation-making early works, _Kill List_ (2011), _Sightseers_ (2012) and _A Field in England_ (2013). Conceived and made in the throes of the Covid-19 crisis, and premiered at January’s online edition of the Sundance Film Festival, _In the Earth_ uses a pandemic as the jumping-off point for a delirious folk horror, in which the science of mycorrhizal networks (webs of communication whereby plants can transfer nutrients and minerals between them) infects the more familiar genre territory of woodland spirits greedy for blood sacrifice. ‘People get a bit funny in the woods sometimes,’ says Frank (Mark Monero), one of the sombre government employees who welcome newcomer Martin (Joel Fry) to a research encampment somewhere near Bristol: ‘It is a hostile environment.’ This phrase, used by the Home Office to describe its policy of making life unpleasant for immigrants to the United Kingdom, hints at a political undercurrent in what is to come; but Wheatley’s cocktail of horror tropes and hippy science proves more hallucinogenic than satirical in its effect.
@@ -11,10 +22,9 @@ This is the idea that draws together the film’s wayward strands: that art, sci
 Is Parnagg Fegg real, or a name for nature? Either way, why does it require the blood of a nice man called Martin? That sort of firm explanation gets a little bit lost in a denouement that goes big on psychotronic rampage before leaving a lot of its loose ends defiantly untied. There’s a whole strand about standing stones that never quite relates to the other aspects of the story. But _In the Earth_ may ultimately have more to say about the experience of being an artist than about monuments, magic mushrooms or mycorrhizal networks. ‘So… you’re using light and sound to communicate?’ Martin innocently asks Olivia – a query that neatly remind us that we, too, are being told a story, and affected by a sensory display. Could it be that Zach and Olivia are not just embodiments of creativity and ontology respectively, but aspects of Wheatley’s clashing instincts as an artist: the storyteller who wants to involve us, and the iconoclast who’d rather mess with our senses? It is in between these boundaries – artist and scientist, natural and supernatural, disrupted present and dystopian future – that this film finds its fertile ground.<br>
 **Hannah McGill, _Sight & Sound_, Summer 2021**
 <br><br>
-<![endif]-->
 
-**In the Earth**
 
+**IN THE EARTH**<br>
 _Director_: Ben Wheatley  
 ©: NEON Rated LLC.  
 _Production Companies_: Neon, Rook Films  
@@ -46,9 +56,7 @@ _B Camera Operator_: Andrew Butler
 _DIT_: Kevin Bell  
 _Gaffer_: Tim Jordan  
 _Visual Effects by_: Milk Visual Effects  
-_Special Effects Supervisors_: Daniel Bentley,
-
-Daniel Snelling, Dewi Foulkes  
+_Special Effects Supervisors_: Daniel Bentley, Daniel Snelling, Dewi Foulkes  
 _Special Effects_: Real SFX  
 _Motion Graphics_: Peter Eszenyi  
 _Rotoscoping Lead_: Ben Thomas  
@@ -76,77 +84,69 @@ _Stunt Co-ordinator_: Peter Pedrero
 _Covid Supervisors_: Alex Kemp, Uli Kress  
 _Armourer_: Noel Francis  
 _Digital Intermediate Producer_: Suhaila Mahmoud  
-_Digital Intermediate_: Emma Liu
-
-_Cast__:_  
+_Digital Intermediate_: Emma Liu<br>
+<br>
+**Cast**  
 Joel Fry _(Martin Lowery)_  
 Reece Shearsmith _(Zach)_  
 Hayley Squires _(Olivia Wendle)_  
 Ellora Torchia _(Alma)_  
 John Hollingworth _(James)_  
-Mark Monero _(Frank)_
+Mark Monero _(Frank)_<br>
 
-USA/UK 2021  107 mins
+USA/UK 2021<br>  
+107 mins<br>
 
-_Courtesy of Universal Pictures_
+_Courtesy of Universal Pictures_<br>
+<br><br>
 
-EVENTS & STRANDS
+**EVENTS & STRANDS**<br>
+**Preview: Doctor Who: Dragonfire**<br>
+Sat 12 Jun 12:00<br>
+**Relaxed Screenings: The Reason I Jump**<br>
+Fri 18 Jun 14:30; Tue 22 Jun 18:10<br>
+**Woman with a Movie Camera: Wildfire**<br>
+Sun 20 Jun 18:40 (+ Q&A with director Cathy Brady); Mon 21 Jun 18:10; Tue 22 Jun 14:40; Wed 23 Jun 20:50; Thu 24 Jun 14:45<br>
+<br>
 
-**Preview: Doctor Who: Dragonfire**
+**BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL**<br>
+**LIFF Opening Night: WOMB (Women of My Billion) + on stage Q&A with Srishti Bakshi and film critic Anna Smith**<br>
+Thu 17 Jun 17:20<br>
+**My Beautiful Laundrette**<br>
+Fri 18 Jun 20:20<br>
+**The Warrior + on-stage career interview with writer-director Asif Kapadia**<br>
+Sat 19 Jun 20:30<br>
+**Ahimsa: Gandhi the Power of the Powerless**<br>
+Sun 20 Jun 15:00<br>
+**Searching for Happiness…**<br>
+Tue 22 Jun 20:50<br>
+**Nazarband Captive**<br>
+Wed 23 Jun 20:45<br>
+**A’hr Kayattam**<br>
+Thu 24 Jun 18:00<br>
+**The Salt in Our Waters Nonajoler Kabbo**<br>
+Sun 27 Jun 15:00<br>
+<br>
 
-Sat 12 Jun 12:00
+**SHEFFIELD DOC/FEST 2021**
+**UK Premiere: The First 54 Years: An Abbreviated Manual for Military Occupation + pre-recorded Q&A**<br>
+Fri 11 Jun 20:20<br>
+**Closing Night: World Premiere: The Story of Looking + pre-recorded Q&A**<br>
+Sat 12 Jun 20:50<br>
+<br><br>
 
-**Relaxed Screenings: The Reason I Jump**
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
-Fri 18 Jun 14:30; Tue 22 Jun 18:10
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
-**Woman with a Movie Camera: Wildfire**
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
 
-Sun 20 Jun 18:40 (+ Q&A with director Cathy Brady); Mon 21 Jun 18:10; Tue 22 Jun 14:40; Wed 23 Jun 20:50; Thu 24 Jun 14:45
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL
-
-**LIFF Opening Night: WOMB (Women of My Billion) + on stage Q&A with Srishti Bakshi and film critic Anna Smith**
-
-Thu 17 Jun 17:20
-
-**My Beautiful Laundrette**
-
-Fri 18 Jun 20:20
-
-**The Warrior + on-stage career interview with writer-director Asif Kapadia**
-
-Sat 19 Jun 20:30
-
-**Ahimsa: Gandhi the Power of the Powerless**
-
-Sun 20 Jun 15:00
-
-**Searching for Happiness…**
-
-Tue 22 Jun 20:50
-
-**Nazarband Captive**
-
-Wed 23 Jun 20:45
-
-**A’hr Kayattam**
-
-Thu 24 Jun 18:00
-
-**The Salt in Our Waters Nonajoler Kabbo**
-
-Sun 27 Jun 15:00
-
-SHEFFIELD DOC/FEST 2021
-
-**UK Premiere: The First 54 Years: An Abbreviated Manual for Military Occupation + pre-recorded Q&A**
-
-Fri 11 Jun 20:20
-
-**Closing Night: World Premiere: The Story of Looking + pre-recorded Q&A**
-
-Sat 12 Jun 20:50
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTQwNzU4NV19
--->
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
