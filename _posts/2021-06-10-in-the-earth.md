@@ -94,7 +94,7 @@ Ellora Torchia _(Alma)_
 John Hollingworth _(James)_  
 Mark Monero _(Frank)_<br>
 
-USA/UK 2021<br>  
+USA/UK 2021  
 107 mins<br>
 
 _Courtesy of Universal Pictures_<br>
