@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Story of Looking
+published: true
+date: 2021-06-12
+readtime: true
+categories: ['SHEFFIELD DOC/FEST 2021']
+tags: [Documentary]
+metadata: 'UK 2021, 90 mins<br> Director: Mark Cousins'
+pdf: '2021-06-12-story-of-looking.pdf'
+---
 _+ Pre-recorded Q&A_
 
 As he prepares for surgery to restore his vision, award-winning filmmaker Mark Cousins explores the role that visual experience plays in our individual and collective lives. Turning the camera on himself in a deeply personal meditation on the power of looking in his own life, Cousins guides us through the riches of the visible world, a kaleidoscope of extraordinary imagery across cultures and eras.
@@ -29,84 +40,66 @@ Mark’s books include _Imagining Reality: The Faber Book of Documentary_,  _The
 He is the Chair of the Belfast Film Festival, a Patron of the Edinburgh International Film Festival and an advisor to Michael Moore’s Traverse City Film Festival. His 14 hour documentary _Women Make Film_ tries to rethink cinema. It is narrated by Jane Fonda, Tilda Swinton, Sharmila Tagore, Kerry Fox, Debra Winger, Adjoa Andoh and Thandie Newton. His newest films are _The Storms of Jeremy Thomas_, _The Story of Looking_ and _The Story of Film: A New Generation._ He has walked across Los Angeles, Belfast, Moscow, Beijing, London, Paris, Berlin, Dakar and Mexico City. He drove from Edinburgh to Mumbai, and loves night swimming.<br>
 <br><br>
 
-**The Story of Looking**
+**THE STORY OF LOOKING**<br>
+_Directed, Filmed and Written by:_ Mark Cousins<br>
+_Producers:_ Mary Bell, Adam Dawtrey<br>
+_Executive Producers:_ Mark Thomas, Catherine Benkaim, Barbara Timmer<br>
+_Additional Camera:_ Diego Almazán de Pablo<br>
+_Editor:_ Timo Langer<br>
+_Composer:_ Donna McKevitt<br>
+_Sound Editor:_ Ania Przygoda<br>
+_Sound Designer:_ Maiken Hansen<br>
 
-_Directed, Filmed & Written by:_ Mark Cousins
-
-_Producers:_ Mary Bell, Adam Dawtrey
-
-_Executive Producers:_ Mark Thomas,
-
-Catherine Benkaim, Barbara Timmer
-
-_Additional Camera:_ Diego Almazán de Pablo
-
-_Editor:_ Timo Langer
-
-_Composer:_ Donna McKevitt
-
-_Sound Editor:_ Ania Przygoda
-
-_Sound Designer:_ Maiken Hansen
-
-UK 2021
-
+UK 2021<br>
 90 mins
 <br><br>
 
-**BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL**
+**BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL**<br>
 
-**LIFF Opening Night: WOMB (Women of My Billion) + on stage Q&A with Srishti Bakshi and film critic Anna Smith**
+**LIFF Opening Night: WOMB (Women of My Billion) + on stage Q&A with Srishti Bakshi and film critic Anna Smith**<br>
+Thu 17 Jun 17:20<br>
+**My Beautiful Laundrette** **+ on-stage interview with writer Hanif Kureishi**<br>
+Fri 18 Jun 20:20<br>
+**The Warrior + on-stage career interview with writer-director Asif Kapadia**<br>
+Sat 19 Jun 20:30<br>
+**Ahimsa: Gandhi the Power of the Powerless**<br>
+Sun 20 Jun 15:00<br>
+**Searching for Happiness…**<br>
+Tue 22 Jun 20:50<br>
+**Nazarband Captive**<br>
+Wed 23 Jun 20:45<br>
+**A’hr Kayattam**<br>
+Thu 24 Jun 18:00<br>
+**The Salt in Our Waters Nonajoler Kabbo**<br>
+Sun 27 Jun 15:00<br>
+<br><br>
 
-Thu 17 Jun 17:20
+**IN PERSON & PREVIEWS**<br>
 
-**My Beautiful Laundrette** **+ on-stage interview with writer Hanif Kureishi**
+**Censor + Q&A with director Prano Bailey-Bond**<br>
+Thu 1 Jul 20:45<br>
+**Mark Kermode Live in 3D at the BFI**<br>
+Mon 5 Jul 18:00<br>
+**African Odysseys Present: European Premiere: The Milkmaid + Q&A with writer-director Desmond Ovbiagele and producer Oluseun Sowemimo**<br>
+Sat 10 Jul 14:00<br>
+**Black Lens Festival Opening Night: UK Premiere: How to Stop a Recurring Dream + Q&A with director Ed Morris and actor Ruby Barker** Fri 16 Jul 18:00<br>
+**Woman with a Movie Camera Preview: Girlfriends**<br>
+Fri 16 Jul 18:15<br>
+<br><br>
 
-Fri 18 Jun 20:20
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
-**The Warrior + on-stage career interview with writer-director Asif Kapadia**
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
-Sat 19 Jun 20:30
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
 
-**Ahimsa: Gandhi the Power of the Powerless**
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-Sun 20 Jun 15:00
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
-**Searching for Happiness…**
-
-Tue 22 Jun 20:50
-
-**Nazarband Captive**
-
-Wed 23 Jun 20:45
-
-**A’hr Kayattam**
-
-Thu 24 Jun 18:00
-
-**The Salt in Our Waters Nonajoler Kabbo**
-
-Sun 27 Jun 15:00
-
-IN PERSON & PREVIEWS
-
-**Censor + Q&A with director Prano Bailey-Bond**
-
-Thu 1 Jul 20:45
-
-**Mark Kermode Live in 3D at the BFI**
-
-Mon 5 Jul 18:00
-
-**African Odysseys Present: European Premiere: The Milkmaid + Q&A with writer-director Desmond Ovbiagele and producer Oluseun Sowemimo**
-
-Sat 10 Jul 14:00
-
-**Black Lens Festival Opening Night: UK Premiere: How to Stop a Recurring Dream + Q&A with director Ed Morris and actor Ruby Barker** Fri 16 Jul 18:00
-
-**Woman with a Movie Camera Preview: Girlfriends**
-
-Fri 16 Jul 18:15
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzNzI3NTc1XX0=
--->
