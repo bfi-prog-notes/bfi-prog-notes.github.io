@@ -26,8 +26,87 @@ This is the story of something astonishing. It is everywhere, everyday, yet we d
 
 Mark’s books include _Imagining Reality: The Faber Book of Documentary_,  _The Story of Film_ and _The Story of Looking_. They have been published around the world. He has collaborated with Tilda Swinton on innovative film events, and tried to find new, passionate, filmic ways to explore his themes: looking, cities, cinema, childhood, and recovery.
 
-He is the Chair of the Belfast Film Festival, a Patron of the Edinburgh International Film Festival and an advisor to Michael Moore’s Traverse City Film Festival. His 14 hour documentary _Women Make Film_ tries to rethink cinema.  
-It is narrated by Jane Fonda, Tilda Swinton, Sharmila Tagore, Kerry Fox, Debra Winger, Adjoa Andoh and Thandie Newton. His newest films are _The Storms of Jeremy Thomas_, _The Story of Looking_ and _The Story of Film: A New Generation._ He has walked across Los Angeles, Belfast, Moscow, Beijing, London, Paris, Berlin, Dakar and Mexico City. He drove from Edinburgh to Mumbai, and loves night swimming.
+He is the Chair of the Belfast Film Festival, a Patron of the Edinburgh International Film Festival and an advisor to Michael Moore’s Traverse City Film Festival. His 14 hour documentary _Women Make Film_ tries to rethink cinema. It is narrated by Jane Fonda, Tilda Swinton, Sharmila Tagore, Kerry Fox, Debra Winger, Adjoa Andoh and Thandie Newton. His newest films are _The Storms of Jeremy Thomas_, _The Story of Looking_ and _The Story of Film: A New Generation._ He has walked across Los Angeles, Belfast, Moscow, Beijing, London, Paris, Berlin, Dakar and Mexico City. He drove from Edinburgh to Mumbai, and loves night swimming.<br>
+<br><br>
+
+**The Story of Looking**
+
+_Directed, Filmed & Written by:_ Mark Cousins
+
+_Producers:_ Mary Bell, Adam Dawtrey
+
+_Executive Producers:_ Mark Thomas,
+
+Catherine Benkaim, Barbara Timmer
+
+_Additional Camera:_ Diego Almazán de Pablo
+
+_Editor:_ Timo Langer
+
+_Composer:_ Donna McKevitt
+
+_Sound Editor:_ Ania Przygoda
+
+_Sound Designer:_ Maiken Hansen
+
+UK 2021
+
+90 mins
+<br><br>
+
+**BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL**
+
+**LIFF Opening Night: WOMB (Women of My Billion) + on stage Q&A with Srishti Bakshi and film critic Anna Smith**
+
+Thu 17 Jun 17:20
+
+**My Beautiful Laundrette** **+ on-stage interview with writer Hanif Kureishi**
+
+Fri 18 Jun 20:20
+
+**The Warrior + on-stage career interview with writer-director Asif Kapadia**
+
+Sat 19 Jun 20:30
+
+**Ahimsa: Gandhi the Power of the Powerless**
+
+Sun 20 Jun 15:00
+
+**Searching for Happiness…**
+
+Tue 22 Jun 20:50
+
+**Nazarband Captive**
+
+Wed 23 Jun 20:45
+
+**A’hr Kayattam**
+
+Thu 24 Jun 18:00
+
+**The Salt in Our Waters Nonajoler Kabbo**
+
+Sun 27 Jun 15:00
+
+IN PERSON & PREVIEWS
+
+**Censor + Q&A with director Prano Bailey-Bond**
+
+Thu 1 Jul 20:45
+
+**Mark Kermode Live in 3D at the BFI**
+
+Mon 5 Jul 18:00
+
+**African Odysseys Present: European Premiere: The Milkmaid + Q&A with writer-director Desmond Ovbiagele and producer Oluseun Sowemimo**
+
+Sat 10 Jul 14:00
+
+**Black Lens Festival Opening Night: UK Premiere: How to Stop a Recurring Dream + Q&A with director Ed Morris and actor Ruby Barker** Fri 16 Jul 18:00
+
+**Woman with a Movie Camera Preview: Girlfriends**
+
+Fri 16 Jul 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQ5MDQzNTFdfQ==
+eyJoaXN0b3J5IjpbNzYzNzI3NTc1XX0=
 -->
