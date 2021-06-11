@@ -1,4 +1,3 @@
-<![endif]-->
 
 Writer Ian Briggs came to the BBC’s Script Unit from studying drama at Manchester University, via a short stint as a member of the behind-the-scenes management team in local theatres. He soon met Andrew Cartmel who had recently become script editor on _Doctor Who_ and was invited to pitch ideas for the programme’s 24th series. Briggs duly pitched an idea which was rejected for being too derivative, but Cartmel saw promise in Briggs’ writing and encouraged him to try again.
 
