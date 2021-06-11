@@ -24,7 +24,138 @@ The infamous ‘cliffhanger’ scene at the end of the first episode was recorde
 With recording completed, videotape editor Hugh Parson was tasked with the responsibility of bringing the episodes, which were overlong despite Cartmell’s attempts to edit Briggs’ lengthy scripts, down to the required length. Several scenes had to be cut, including one in which Glitz accidentally falls into a trap in corridors beneath Iceworld.
 
 _Dragonfire_ was broadcast on successive Mondays between 23 November and 7 December 1987, each episode averaging around 5 million viewers. It was broadcast opposite _Coronation Street_ on ITV, which continued to damage the ratings which had been sliding since at least the start of series 23 and which were still showing little sign of recovering. Though viewing figures remained stable for the following series, they declined dramatically during series 26, contributing to the cancellation of _Doctor Who_ in 1989.<br>
-**Kevin Lyons, eofftv.com**
+**Kevin Lyons, eofftv.com**<br>
+
+<![endif]-->
+
+**Doctor Who: Dragonfire**
+
+_Director:_ Chris Clough
+
+©: BBC
+
+_Producer:_ John Nathan-Turner
+
+_Production Manager:_ Gary Downie
+
+_Production Associate_: Ann Faggetter
+
+_Production Assistants:_ Rosemary Parsons,
+
+Karen King
+
+_Assistant Floor Manager:_ Christopher Sandeman
+
+_[Written] by:_ Ian Briggs
+
+_Script Editor:_ Andrew Cartmel
+
+_Lighting Director:_ Don Babbage
+
+_Camera Supervisor_: Alec Wheal
+
+_Technical Co-Ordinator:_ Richard Wilson
+
+_Vision Mixer:_ Shirley Coward
+
+_Video-Tape Editor:_ Hugh Parson
+
+_Costume Designer:_ Richard Croft
+
+_Make-Up Designer_: Gillian Thomas
+
+_Visual Effects Designer:_ Andy McVean
+
+_Video Effects:_ Dave Chapman
+
+_Titles:_ Gareth Edwards, CAL Video *
+
+_Designer:_ John Asbridge
+
+_Graphic Designer:_ Oliver Elmes
+
+_Theme Music Composed by:_ Ron Grainer
+
+_Theme Arrangement:_ Keff McCulloch
+
+_Incidental Music:_ Dominic Glynn
+
+_Song ‘Singing Trees’ by_: Dick Mills *
+
+_Sound:_ Brian Clark
+
+_Special Sound:_ Dick Mills
+
+_Cast:_
+
+Sylvester McCoy _(The Doctor)_
+
+Bonnie Langford _(Mel)_
+
+Tony Selby _([Sabalom] Glitz)_
+
+Edward Peel _(Kane)_
+
+Patricia Quinn _(Belazs)_
+
+Tony Osoba _(Kracauer)_
+
+Sophie Aldred _(Ace)_
+
+Shirin Taylor _(customer)_
+
+Ian MacKenzie _(Anderson)_
+
+Stephanie Fayerman _(McLuhan)_
+
+Stuart Organ _(Bazin)_
+
+Sean Blowers _(Zed_)
+
+Nigel Miles-Thomas (_Pudovkin)_
+
+Leslie Meadows _(the creature)_
+
+Lynn Gardner _(announcer)_
+
+Miranda Borman _(Stellar)_
+
+Daphne Oxenford _(archivist)_
+
+Chris MacDonnell _(Arnheim)_
+
+Ian Bodenham, Ray Knight, Ross Murray,
+
+Sue Somerset _(Glitz’s crew)_ *
+
+Chris Andrews, Jon Baker, Simon Brown,
+
+Keith Harvie _(guards)_ *
+
+Miles Ambrose, Olwyn Atkinson, Caroline Christie, Tricia Clark, Penny Cole, Noel Drennan,
+
+Patrick Edwards, Christian Fletcher, Nick Florio, Rick Florio, Andrew Hunter, Brian Jacobs,
+
+Ian Johns, Linda Kent, Harry Klein, Eric Lindsey, Maggie Linton, Bill Malin, Gloria McGuire,
+
+Stuart Myers, Le Pond, Denise Powell,
+
+Barbara Russell, Pat Shepherd, Doug Stark,
+
+Julie Ann Wood _(customers/mercenaries)_ *
+
+UK 1987
+
+3 x 25min + bonus content
+
+* Uncredited
+
+Courtesy of BBC Studios
+
+_Doctor Who: The Collection – Season 24_  
+is released on Blu-ray soon
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxNjMyODE0XX0=
+eyJoaXN0b3J5IjpbMzE3Mjg5Mjc4LDI0MTYzMjgxNF19
 -->
