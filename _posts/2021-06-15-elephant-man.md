@@ -32,133 +32,71 @@ In a wider sense, perhaps, his life is a simple testimony to the power of theatr
 _Director:_ David Lynch<br>
 _Production Company:_ Brooksfilms<br>
 _Executive Producer:_ Stuart Cornfeld<br>
-
 _Producer:_ Jonathan Sanger<br>
-
 _In Charge of Production:_ Terence A. Clegg<br>
-
 _Production Accountant:_ John Trehy<br>
-
 _Location Manager:_ Graham Ford<br>
-
 _Production Secretary:_ Loretta Ordewer<br>
-
 _Assistant Director:_ Anthony Waye<br>
-
 _2nd Assistant Director:_ Gerry Gavigan<br>
-
 _Continuity:_ Ceri Evans<br>
-
 _Casting:_ Maggie Cartier<br>
-
 _Screenplay:_ Christopher De Vore, Eric Bergren, David Lynch<br>
-
 _Based on the book_ The Elephant Man and Other Reminiscences _by:_ Sir Frederick Treves<br>
-
 _Based in part on the book_ The Elephant Man: A Study in Human Dignity _by:_ Ashley Montagu<br>
-
 _Director of Photography:_ Freddie Francis<br>
-
 _Camera Operator:_ Jeremy Dunkley<br>
-
 _Gaffer:_ Roy Larner<br>
-
 _Stills Photography:_ Frank Connor<br>
-
 _Special Effects:_ Graham Longhurst<br>
-
 _Editor:_ Anne V. Coates<br>
-
 _Assistant Editor:_ Patrick Moore<br>
-
 _Production Designer:_ Stuart Craig<br>
-
 _Art Director:_ Bob Cartwright<br>
-
 _Set Decorator:_ Hugh Scaife<br>
-
 _Prop Master:_ Terry Wells<br>
-
 _Costume Designer:_ Patricia Norris<br>
-
 _Wardrobe Supervisor:_ Tiny Nicholls<br>
-
 _Make-up Supervisor:_ Wally Schneiderman<br>
-
 _Elephant Man Make-up Designed/ Created by:_ Christopher Tucker<br>
-
 _Elephant Man Make-up Applied by:_  
 Wally Schneiderman<br>
-
 _Hairdressers:_ Stephanie Kaye, Paula Gillespie<br>
-
 _Music/Music Conductor:_ John Morris<br>
-
 _Music Performed by:_  
 The National Philharmonic Orchestra<br>
-
 _Orchestrations:_ Jack Hayes<br>
-
 _Sound Design:_ Alan Splet, David Lynch<br>
-
 _Sound Mixer:_ Robin Gregory<br>
-
 _Dolby Engineer:_ John Iles<br>
-
 _Dubbing Mixer:_ Doug Turner<br>
-
 _Sound Editor:_ Peter Horrocks<br>
-
 _Special Sound Effects:_ Alan Splet<br>
-
 _Research:_ Randy Auerbach<br>
-
 _Studios:_ Shepperton Studios, Lee Studios *<br>
 
 _Cast:_<br>
-
 Anthony Hopkins _(Frederick Treves)_<br>
-
 John Hurt _(John Merrick)_<br>
-
 Anne Bancroft _(Mrs Madge Kendal)_<br>
-
 John Gielgud _(Carr Gomm)_<br>
-
 Wendy Hiller _(Mothershead)_<br>
-
 Freddie Jones _(Bytes)_<br>
-
 Michael Elphick _(night porter)_<br>
-
 Hannah Gordon _(Mrs Treves)_<br>
-
 Helen Ryan _(Princess Alex)_<br>
-
 John Standing _(Fox)_<br>
-
 Dexter Fletcher _(Bytes’s boy)_<br>
-
 Lesley Dunlop _(Nora)_<br>
-
 Phoebe Nicholls _(Merrick’s mother)_<br>
-
 Pat Gorman _(fairground bobby)_<br>
-
 Claire Davenport _(fat lady)_<br>
-
 Orla Pederson _(skeleton woman)_<br>
-
 Patsy Smart _(distraught woman)_<br>
-
 Frederick Treves _(alderman)_<br>
-
 Stromboli _(fire eater)_<br>
-
 Richard Hunter _(Hodges)_<br>
-
 James Cormack _(Pierce)_<br>
-
 Robert Bush _(messenger)_<br>
 
 Roy Evans _(cabman)_<br>
@@ -237,5 +175,5 @@ USA 1980<br>
 
 *Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzExNjc1NV19
+eyJoaXN0b3J5IjpbLTM4MDc1MDc5M119
 -->
