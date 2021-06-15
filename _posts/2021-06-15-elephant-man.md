@@ -147,96 +147,95 @@ Pat Gorman _(fairground bobby)_<br>
 
 Claire Davenport _(fat lady)_<br>
 
-Orla Pederson _(skeleton woman)_
+Orla Pederson _(skeleton woman)_<br>
 
-Patsy Smart _(distraught woman)_
+Patsy Smart _(distraught woman)_<br>
 
-Frederick Treves _(alderman)_
+Frederick Treves _(alderman)_<br>
 
-Stromboli _(fire eater)_
+Stromboli _(fire eater)_<br>
 
-Richard Hunter _(Hodges)_
+Richard Hunter _(Hodges)_<br>
 
-James Cormack _(Pierce)_
+James Cormack _(Pierce)_<br>
 
-Robert Bush _(messenger)_
+Robert Bush _(messenger)_<br>
 
-Roy Evans _(cabman)_
+Roy Evans _(cabman)_<br>
 
-Joan Rhodes _(cook)_
+Joan Rhodes _(cook)_<br>
 
-Nula Conwell _(Kathleen, the nurse)_
+Nula Conwell _(Kathleen, the nurse)_<br>
 
-Tony London _(young porter)_
+Tony London _(young porter)_<br>
 
-Alfie Curtis _(milkman)_
+Alfie Curtis _(milkman)_<br>
 
-Bernadette Milnes _(1st fighting woman)_
+Bernadette Milnes _(1st fighting woman)_<br>
 
-Brenda Kempner _(2nd fighting woman)_
+Brenda Kempner _(2nd fighting woman)_<br>
 
-Carol Harrison _(tart)_
+Carol Harrison _(tart)_<br>
 
-Hugh Manning _(broadneck)_
+Hugh Manning _(broadneck)_<br>
 
-Dennis Burgess _(1st committee man)_
+Dennis Burgess _(1st committee man)_<br>
 
-Fanny Carby _(Mrs Kendal’s dresser)_
+Fanny Carby _(Mrs Kendal’s dresser)_<br>
 
-Morgan Sheppard _(man in pub)_
+Morgan Sheppard _(man in pub)_<br>
 
-Kathleen Byron _(Lady Waddington)_
+Kathleen Byron _(Lady Waddington)_<br>
 
-Gerald Case _(Lord Waddington)_
+Gerald Case _(Lord Waddington)_<br>
 
-David Ryall _(man with whores)_
+David Ryall _(man with whores)_<br>
 
-Deirdre Costello _(1st whore)_
+Deirdre Costello _(1st whore)_<br>
 
-Pauline Quirke _(2nd whore)_
+Pauline Quirke _(2nd whore)_<br>
 
-Kenny Baker _(plumed dwarf)_
+Kenny Baker _(plumed dwarf)_<br>
 
-Chris Greener _(giant)_
+Chris Greener _(giant)_<br>
 
-Marcus Powell, Gilda Cohen _(midgets)_
+Marcus Powell, Gilda Cohen _(midgets)_<br>
 
-Lisa Scoble, Teri Scoble _(Siamese twins)_
+Lisa Scoble, Teri Scoble _(Siamese twins)_<br>
 
-Eiji Kusuhara _(Japanese bleeder)_
+Eiji Kusuhara _(Japanese bleeder)_<br>
 
-Robert Day _(Little Jim)_
+Robert Day _(Little Jim)_<br>
 
-Patricia Hodge _(screaming mum)_
+Patricia Hodge _(screaming mum)_<br>
 
-Tommy Wright _(1st bobby)_
+Tommy Wright _(1st bobby)_<br>
 
-Peter Davidson _(2nd bobby)_
+Peter Davidson _(2nd bobby)_<br>
 
-John Rapley _(king in panto)_
+John Rapley _(king in panto)_<br>
 
-Hugh Spight _(puss in panto)_
+Hugh Spight _(puss in panto)_<br>
 
-Teresa Codling _(princess in panto)_
+Teresa Codling _(princess in panto)_<br>
 
-Marion Betzold _(principal boy)_
+Marion Betzold _(principal boy)_<br>
 
-Caroline Haigh, Florenzio Morgado _(trees)_
+Caroline Haigh, Florenzio Morgado _(trees)_<br>
 
-Victor Kravchenko _(lion/coachman)_
+Victor Kravchenko _(lion/coachman)_<br>
 
-Beryl Hicks _(fairy)_
+Beryl Hicks _(fairy)_<br>
 
 Michele Amas, Lucie Alford, Penny Wright,  
-Janie Kells _(horses)_
+Janie Kells _(horses)_<br>
 
-Lydia Lisle _(Merrick’s mother)_
+Lydia Lisle _(Merrick’s mother)_<br>
 
-USA 1980
-
+USA 1980<br>
 124 mins
 
-* Uncredited
+*Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzk2NjQ2NV19
+eyJoaXN0b3J5IjpbMTU0MzExNjc1NV19
 -->
