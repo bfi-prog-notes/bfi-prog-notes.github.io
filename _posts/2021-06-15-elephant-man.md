@@ -1,4 +1,3 @@
-<![endif]-->
 
 _With a pre-recorded introduction by director Prano Bailey-Bond._
 
@@ -24,13 +23,12 @@ The film delves, too, into the question of how the Victorians dealt with the una
 
 Merrick’s singularity, however, was that he was something more: the extent of his monstrosity placed him beyond the classifiable pale; he called into question the stability of even this new, post-Darwinian world. In Lynch’s Victorian society, John Merrick is – for all his almost palpable substance (and Christopher Tucker and Wally Schneiderman’s makeup design and application are both real and ordinary) – a troubling, unknowable wraith. His longings, for friendship and acceptance, and his sentimental, childlike gratitude, for a silver walking-stick, a case of ivory toilet articles, for having a beautiful mother who might still be proud of him (knowing he has friends like the settled Mr and Mrs Treves), disturbingly echo the spirit of the age. His optimism is both pathetic and demonstrably unfounded.
 
-In a wider sense, perhaps, his life is a simple testimony to the power of theatre (or film) to metamorphose the mundane or the grotesque into something wholly mysterious. The doctors, awestruck by the sight of Merrick the ‘specimen’, are moved to hide their confusion by applauding Treves’ ‘showmanship’; and, in a framing sequence, the audience at the surreal pantomime – _Puss-in-Boots_ played, it appears, among the stars – which Merrick attends with his almost patroness Princess Alexandra are moved to applaud their own magnanimity in ‘accepting’ Merrick, for a moment, into their own closed society. Both audiences are curiously uncurious: creatures of reflex rather than reflection. The dying Merrick hears his mother’s voice – ‘Nothing ever dies’ – and the filmmaker might be adding ‘Particularly the fear and loathing of “monsters” whose appearance periodically compels us to question our normality.’
+In a wider sense, perhaps, his life is a simple testimony to the power of theatre (or film) to metamorphose the mundane or the grotesque into something wholly mysterious. The doctors, awestruck by the sight of Merrick the ‘specimen’, are moved to hide their confusion by applauding Treves’ ‘showmanship’; and, in a framing sequence, the audience at the surreal pantomime – _Puss-in-Boots_ played, it appears, among the stars – which Merrick attends with his almost patroness Princess Alexandra are moved to applaud their own magnanimity in ‘accepting’ Merrick, for a moment, into their own closed society. Both audiences are curiously uncurious: creatures of reflex rather than reflection. The dying Merrick hears his mother’s voice – ‘Nothing ever dies’ – and the filmmaker might be adding ‘Particularly the fear and loathing of “monsters” whose appearance periodically compels us to question our normality.’<br>
+**John Pym, _Sight and Sound_, Winter 1980**
 
-John Pym, _Sight and Sound_, Winter 1980
 
-<![endif]-->
 
-**The Elephant Man**
+****
 
 _Director:_ David Lynch
 
@@ -243,5 +241,5 @@ USA 1980
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjc2MDQ0M119
+eyJoaXN0b3J5IjpbLTE4NDMyNjI1M119
 -->
