@@ -59,12 +59,10 @@ _Costume Designer:_ Patricia Norris<br>
 _Wardrobe Supervisor:_ Tiny Nicholls<br>
 _Make-up Supervisor:_ Wally Schneiderman<br>
 _Elephant Man Make-up Designed/ Created by:_ Christopher Tucker<br>
-_Elephant Man Make-up Applied by:_  
-Wally Schneiderman<br>
+_Elephant Man Make-up Applied by:_  Wally Schneiderman<br>
 _Hairdressers:_ Stephanie Kaye, Paula Gillespie<br>
 _Music/Music Conductor:_ John Morris<br>
-_Music Performed by:_  
-The National Philharmonic Orchestra<br>
+_Music Performed by:_  The National Philharmonic Orchestra<br>
 _Orchestrations:_ Jack Hayes<br>
 _Sound Design:_ Alan Splet, David Lynch<br>
 _Sound Mixer:_ Robin Gregory<br>
@@ -75,7 +73,7 @@ _Special Sound Effects:_ Alan Splet<br>
 _Research:_ Randy Auerbach<br>
 _Studios:_ Shepperton Studios, Lee Studios *<br>
 
-_Cast:_<br>
+**Cast**<br>
 Anthony Hopkins _(Frederick Treves)_<br>
 John Hurt _(John Merrick)_<br>
 Anne Bancroft _(Mrs Madge Kendal)_<br>
@@ -98,76 +96,41 @@ Stromboli _(fire eater)_<br>
 Richard Hunter _(Hodges)_<br>
 James Cormack _(Pierce)_<br>
 Robert Bush _(messenger)_<br>
-
 Roy Evans _(cabman)_<br>
-
 Joan Rhodes _(cook)_<br>
-
 Nula Conwell _(Kathleen, the nurse)_<br>
-
 Tony London _(young porter)_<br>
-
 Alfie Curtis _(milkman)_<br>
-
 Bernadette Milnes _(1st fighting woman)_<br>
-
 Brenda Kempner _(2nd fighting woman)_<br>
-
 Carol Harrison _(tart)_<br>
-
 Hugh Manning _(broadneck)_<br>
-
 Dennis Burgess _(1st committee man)_<br>
-
 Fanny Carby _(Mrs Kendal’s dresser)_<br>
-
 Morgan Sheppard _(man in pub)_<br>
-
 Kathleen Byron _(Lady Waddington)_<br>
-
 Gerald Case _(Lord Waddington)_<br>
-
 David Ryall _(man with whores)_<br>
-
 Deirdre Costello _(1st whore)_<br>
-
 Pauline Quirke _(2nd whore)_<br>
-
 Kenny Baker _(plumed dwarf)_<br>
-
 Chris Greener _(giant)_<br>
-
 Marcus Powell, Gilda Cohen _(midgets)_<br>
-
 Lisa Scoble, Teri Scoble _(Siamese twins)_<br>
-
 Eiji Kusuhara _(Japanese bleeder)_<br>
-
 Robert Day _(Little Jim)_<br>
-
 Patricia Hodge _(screaming mum)_<br>
-
 Tommy Wright _(1st bobby)_<br>
-
 Peter Davidson _(2nd bobby)_<br>
-
 John Rapley _(king in panto)_<br>
-
 Hugh Spight _(puss in panto)_<br>
-
 Teresa Codling _(princess in panto)_<br>
-
 Marion Betzold _(principal boy)_<br>
-
 Caroline Haigh, Florenzio Morgado _(trees)_<br>
-
 Victor Kravchenko _(lion/coachman)_<br>
-
 Beryl Hicks _(fairy)_<br>
-
 Michele Amas, Lucie Alford, Penny Wright,  
 Janie Kells _(horses)_<br>
-
 Lydia Lisle _(Merrick’s mother)_<br>
 
 USA 1980<br>
@@ -175,5 +138,5 @@ USA 1980<br>
 
 *Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDc1MDc5M119
+eyJoaXN0b3J5IjpbLTkxMjY2NDk3OV19
 -->
