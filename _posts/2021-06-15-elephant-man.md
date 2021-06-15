@@ -67,7 +67,7 @@ _Prop Master:_ Terry Wells<br>
 _Costume Designer:_ Patricia Norris<br>
 _Wardrobe Supervisor:_ Tiny Nicholls<br>
 _Make-up Supervisor:_ Wally Schneiderman<br>
-_Elephant Man Make-up Designed/ Created by:_ Christopher Tucker<br>
+_Elephant Man Make-up Designed/Created by:_ Christopher Tucker<br>
 _Elephant Man Make-up Applied by:_  Wally Schneiderman<br>
 _Hairdressers:_ Stephanie Kaye, Paula Gillespie<br>
 _Music/Music Conductor:_ John Morris<br>
