@@ -1,11 +1,20 @@
+---
+layout: post
+title: The Elephant Man
+published: true
+date: 2021-06-15
+readtime: true
+categories: ['DREAM PALACE - THE FILMS THAT CINEMAS WERE BUILT FOR']
+tags: [Drama, Biopic, Period]
+metadata: 'USA, 1980, 124 mins<br> Director: David Lynch'
+pdf: '2021-06-15-elephant-man.pdf'
+---
 
 _With a pre-recorded introduction by director Prano Bailey-Bond._
 
 **SPOILER WARNING  The following notes give away the film’s ending.**
 
-In 1884, the ‘freak’ John Merrick was discovered in a booth in the Mile End Road by Frederick Treves, chief surgeon at the London Hospital. _The Elephant Man_, David Lynch’s part-fantastic, part-factual reworking of the subsequent course of Merrick’s life, accurately records that, after buying his temporary release, Treves’ first act was to display the grossly deformed Merrick, an incurable victim of von Recklinghausen’s disease, before another audience,  
-the sober medical gentlemen of the teaching college at which he lectured  
-on anatomy.
+In 1884, the ‘freak’ John Merrick was discovered in a booth in the Mile End Road by Frederick Treves, chief surgeon at the London Hospital. _The Elephant Man_, David Lynch’s part-fantastic, part-factual reworking of the subsequent course of Merrick’s life, accurately records that, after buying his temporary release, Treves’ first act was to display the grossly deformed Merrick, an incurable victim of von Recklinghausen’s disease, before another audience,  the sober medical gentlemen of the teaching college at which he lectured  on anatomy.
 
 The film, which on one level at least may be said to proceed by the modern equivalent of a series of detailed, rather grandiose Victorian painted tableaux, carries Treves, with whom we are encouraged to identify, on a journey from shocked incomprehension (‘I pray to God he is an idiot,’ Treves observes with misplaced solicitude), through pity to compassion.
 
@@ -129,14 +138,83 @@ Marion Betzold _(principal boy)_<br>
 Caroline Haigh, Florenzio Morgado _(trees)_<br>
 Victor Kravchenko _(lion/coachman)_<br>
 Beryl Hicks _(fairy)_<br>
-Michele Amas, Lucie Alford, Penny Wright,  
-Janie Kells _(horses)_<br>
+Michele Amas, Lucie Alford, Penny Wright,  Janie Kells _(horses)_<br>
 Lydia Lisle _(Merrick’s mother)_<br>
 
 USA 1980<br>
 124 mins
 
-*Uncredited
+*Uncredited<br><br>
+
+**DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**  
+**Blow Out**<br>
+Mon 17 May 17:45 (+ intro by Ben Roberts, BFI CEO); Tue 1 Jun 20:40 <br>
+**The General**<br>
+Tue 18 May 18:10; Sat 29 May 12:45 (+ intro by Stuart Brown, BFI Head of Programme and Acquisitions)<br>
+**The Shout** + pre-recorded intro by Mark Jenkin<br>
+Wed 19 May 21:00; Thu 3 Jun<br>
+**The Cook, the Thief, His Wife & Her Lover**<br>
+Thu 20 May 17:30 (+ intro by Justin Johnson,  BFI Lead Programmer); Thu 24 Jun 20:30<br>
+**Footloose** + pre-recorded intro by Francis Lee<br>
+Thu 20 May 20:45; Sat 29 May 18:00<br>
+**Car Wash**<br>
+Fri 21 May 18:00 (+ intro by Gurinder Chadha); Mon 31 May 18:50<br>
+**David Byrne’s American Utopia**<br>
+Fri 21 May 20:45 (+ intro by Tricia Tuttle,  BFI Festival Director); Mon 14 Jun 18:00<br>
+**Beginning** + pre-recorded intro by Luca Guadagnino<br>
+Sat 22 May 11:30; Tue 22 Jun 20:30<br>
+**Black Narcissus**<br>
+Sat 22 May 14:20 (+ intro by Edgar Wright); Mon 7 Jun 17:50<br>
+**The Wonders (Le meraviglie)** + pre-recorded intro by Mark Cousins<br>
+Sat 22 May 15:15; Thu 3 Jun 20:30<br>
+**Hair** + pre-recorded intro by Kleber Mendonça Filho<br>
+Sat 22 May 20:30; Fri 28 May 17:45<br>
+**Magnificent Obsession** + **Fear Eats the Soul (Angst essen Seele auf)**<br>
+Sun 23 May 15:45 (+ intro by Heather Stewart, BFI Creative Director); Sun 6 Jun 18:40<br>
+**Beau Travail** + pre-recorded intro by  Kirsten Johnson<br>
+Sun 23 May 18:40; Sun 30 May 18:20<br>
+**Mirror (Zerkalo)** + pre-recorded intro by Malgorzata Szumowska<br>
+Mon 24 May 17:50; Wed 9 Jun 14:30<br>
+**Syndromes and a Century (Sang sattawat)** + pre-recorded intro by Chaitanya Tamhane<br>
+Mon 24 May 20:30; Sat 19 Jun 17:50<br>
+**Goodbye, Dragon** **Inn (Bú sàn)**<br>
+Wed 26 May 18:10 (+ intro by Peter Strickland); Wed 2 Jun 20:50<br>
+**The Gleaners & I (Les glaneurs et la glaneuse)** + pre-recorded intro by Zhu Shengze<br>
+Thu 27 May 18:15; Fri 26 Jun 14:30<br>
+**The Seventh Seal (Det sjunde inseglet)**<br>
+Fri 28 May 20:50 (+ intro by Mike Williams, Editor _Sight & Sound_); Wed 30 Jun 14:30<br>
+**Broadcast News**<br>
+Sun 30 May 15:40 (+ intro by Sarah Smith); Sat 19 Jun 20:20<br>
+**The Elephant Man** + pre-recorded intro by  Prano Bailey-Bond<br>
+Tue 15 Jun 17:45; Sat 19 Jun 12:00<br>
+**The Warriors**<br>
+Mon 21 Jun 18:00 (+ intro by Asif Kapadia); Mon 28 Jun 14:30<br>
+
+**In partnership with**  
+<img style="float: left;" src="/img/partner/sight-and-sound-01.png" alt="Sight & Sound" title="Sight & Sound"> 
+<br><br><br><br><br><br><br><br>
+<img align="left" style="float: left;" width="200" height="98" src="/img/partner/popcorn-shed-logo-01.png">
+<br><br><br><br><br><br><br><br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
 
 
 
