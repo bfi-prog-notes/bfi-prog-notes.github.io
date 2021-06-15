@@ -28,127 +28,124 @@ In a wider sense, perhaps, his life is a simple testimony to the power of theatr
 
 
 
-****
+**THE ELEPHANT MAN**<br>
+_Director:_ David Lynch<br>
+_Production Company:_ Brooksfilms<br>
+_Executive Producer:_ Stuart Cornfeld<br>
 
-_Director:_ David Lynch
+_Producer:_ Jonathan Sanger<br>
 
-_Production Company:_ Brooksfilms
+_In Charge of Production:_ Terence A. Clegg<br>
 
-_Executive Producer:_ Stuart Cornfeld
+_Production Accountant:_ John Trehy<br>
 
-_Producer:_ Jonathan Sanger
+_Location Manager:_ Graham Ford<br>
 
-_In Charge of Production:_ Terence A. Clegg
+_Production Secretary:_ Loretta Ordewer<br>
 
-_Production Accountant:_ John Trehy
+_Assistant Director:_ Anthony Waye<br>
 
-_Location Manager:_ Graham Ford
+_2nd Assistant Director:_ Gerry Gavigan<br>
 
-_Production Secretary:_ Loretta Ordewer
+_Continuity:_ Ceri Evans<br>
 
-_Assistant Director:_ Anthony Waye
+_Casting:_ Maggie Cartier<br>
 
-_2nd Assistant Director:_ Gerry Gavigan
+_Screenplay:_ Christopher De Vore, Eric Bergren, David Lynch<br>
 
-_Continuity:_ Ceri Evans
+_Based on the book_ The Elephant Man and Other Reminiscences _by:_ Sir Frederick Treves<br>
 
-_Casting:_ Maggie Cartier
+_Based in part on the book_ The Elephant Man: A Study in Human Dignity _by:_ Ashley Montagu<br>
 
-_Screenplay:_ Christopher De Vore, Eric Bergren, David Lynch
+_Director of Photography:_ Freddie Francis<br>
 
-_Based on the book_ The Elephant Man and Other Reminiscences _by:_ Sir Frederick Treves
+_Camera Operator:_ Jeremy Dunkley<br>
 
-_Based in part on the book_ The Elephant Man: A Study in Human Dignity _by:_ Ashley Montagu
+_Gaffer:_ Roy Larner<br>
 
-_Director of Photography:_ Freddie Francis
+_Stills Photography:_ Frank Connor<br>
 
-_Camera Operator:_ Jeremy Dunkley
+_Special Effects:_ Graham Longhurst<br>
 
-_Gaffer:_ Roy Larner
+_Editor:_ Anne V. Coates<br>
 
-_Stills Photography:_ Frank Connor
+_Assistant Editor:_ Patrick Moore<br>
 
-_Special Effects:_ Graham Longhurst
+_Production Designer:_ Stuart Craig<br>
 
-_Editor:_ Anne V. Coates
+_Art Director:_ Bob Cartwright<br>
 
-_Assistant Editor:_ Patrick Moore
+_Set Decorator:_ Hugh Scaife<br>
 
-_Production Designer:_ Stuart Craig
+_Prop Master:_ Terry Wells<br>
 
-_Art Director:_ Bob Cartwright
+_Costume Designer:_ Patricia Norris<br>
 
-_Set Decorator:_ Hugh Scaife
+_Wardrobe Supervisor:_ Tiny Nicholls<br>
 
-_Prop Master:_ Terry Wells
+_Make-up Supervisor:_ Wally Schneiderman<br>
 
-_Costume Designer:_ Patricia Norris
-
-_Wardrobe Supervisor:_ Tiny Nicholls
-
-_Make-up Supervisor:_ Wally Schneiderman
-
-_Elephant Man Make-up Designed/ Created by:_ Christopher Tucker
+_Elephant Man Make-up Designed/ Created by:_ Christopher Tucker<br>
 
 _Elephant Man Make-up Applied by:_  
-Wally Schneiderman
+Wally Schneiderman<br>
 
-_Hairdressers:_ Stephanie Kaye, Paula Gillespie
+_Hairdressers:_ Stephanie Kaye, Paula Gillespie<br>
 
-_Music/Music Conductor:_ John Morris
+_Music/Music Conductor:_ John Morris<br>
 
 _Music Performed by:_  
-The National Philharmonic Orchestra
+The National Philharmonic Orchestra<br>
 
-_Orchestrations:_ Jack Hayes
+_Orchestrations:_ Jack Hayes<br>
 
-_Sound Design:_ Alan Splet, David Lynch
+_Sound Design:_ Alan Splet, David Lynch<br>
 
-_Sound Mixer:_ Robin Gregory
+_Sound Mixer:_ Robin Gregory<br>
 
-_Dolby Engineer:_ John Iles
+_Dolby Engineer:_ John Iles<br>
 
-_Dubbing Mixer:_ Doug Turner
+_Dubbing Mixer:_ Doug Turner<br>
 
-_Sound Editor:_ Peter Horrocks
+_Sound Editor:_ Peter Horrocks<br>
 
-_Special Sound Effects:_ Alan Splet
+_Special Sound Effects:_ Alan Splet<br>
 
-_Research:_ Randy Auerbach
+_Research:_ Randy Auerbach<br>
 
-_Studios:_ Shepperton Studios, Lee Studios *
+_Studios:_ Shepperton Studios, Lee Studios *<br>
 
-_Cast:_
+_Cast:_<br>
 
-Anthony Hopkins _(Frederick Treves)_
+Anthony Hopkins _(Frederick Treves)_<br>
 
-John Hurt _(John Merrick)_
+John Hurt _(John Merrick)_<br>
 
-Anne Bancroft _(Mrs Madge Kendal)_
+Anne Bancroft _(Mrs Madge Kendal)_<br>
 
-John Gielgud _(Carr Gomm)_
+John Gielgud _(Carr Gomm)_<br>
 
-Wendy Hiller _(Mothershead)_
+Wendy Hiller _(Mothershead)_<br>
 
-Freddie Jones _(Bytes)_
+Freddie Jones _(Bytes)_<br>
 
-Michael Elphick _(night porter)_
+Michael Elphick _(night porter)_<br>
 
-Hannah Gordon _(Mrs Treves)_
+Hannah Gordon _(Mrs Treves)_<br>
 
-Helen Ryan _(Princess Alex)_
+Helen Ryan _(Princess Alex)_<br>
 
-John Standing _(Fox)_
+John Standing _(Fox)_<br>
 
-Dexter Fletcher _(Bytes’s boy)_
+Dexter Fletcher _(Bytes’s boy)_<br>
 
-Lesley Dunlop _(Nora)_
+Lesley Dunlop _(Nora)_<br>
 
-Phoebe Nicholls _(Merrick’s mother)_
+Phoebe Nicholls _(Merrick’s mother)_<br>
 
-Pat Gorman _(fairground bobby)_
+Pat Gorman _(fairground bobby)_<br>
 
-Claire Davenport _(fat lady)_
+Claire Davenport _(fat lady)_<br>
 
 Orla Pederson _(skeleton woman)_
 
@@ -241,5 +238,5 @@ USA 1980
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDMyNjI1M119
+eyJoaXN0b3J5IjpbLTQxNzk2NjQ2NV19
 -->
