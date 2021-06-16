@@ -1,3 +1,15 @@
+---
+layout: post
+title: WolfWalkers
+published: true
+date: 2021-06-19
+readtime: true
+categories: ['BFI Families']
+tags: [Adventure, Animation, Children]
+metadata: 'Ireland/UK/France 2020, 103 mins<br> Directors: Tomm Moore, Ross Stewart'
+pdf: '2021-06-19-wolfwalkers.pdf'
+---
+
 _+ pre-recorded Q&A with directors_
 
 **What’s it about?**
@@ -20,20 +32,17 @@ WolfWalkers is hugely successful in engaging us with the enchantingly expressive
 **Andrew Osmond, _Sight & Sound_, December 2020**<br>
 <br>
 
-**WOLFWALKERS**
-
+**WOLFWALKERS**<br>
 _Directed by_: Tomm Moore, Ross Stewart  
-©: Cartoon Saloon (WolfWalkers) Ltd_,_  
-Mélusine Productions  
-_A_ Cartoon Saloon & Mélusine _production_:  
+_©:_ Cartoon Saloon (WolfWalkers) Ltd, Mélusine Productions  
+_A_ Cartoon Saloon & Mélusine _production_  
 _In association with_: Value & Power Culture Communication Co., Fís Éireann/Screen Ireland, Film Fund Luxembourg, The Broadcasting Authority of Ireland, Haut et Court Distribution, RTÉ, Canal+, OCS, Pôle image Magelis  
 _With the support of_: Charente County Council  
 _In association with_: Folivari, GKIDS  
 _With the support of_: Film Fund Luxembourg  
 _Produced with the participation of_: CNC, Creative Europe MEDIA Programme of the European Union, Crone Film International  
 _Executive Producers_: Gerry Shirren,  Fabien Renelli, Zhang Shuo, Yang Ying,  Didier Brunner, Damien Brunner, Eric Beckman, David Jesteadt  
-_Produced by_: Paul Young, Nora Twomey,  
-Tomm Moore, Stéphan Roelants  
+_Produced by_: Paul Young, Nora Twomey, Tomm Moore, Stéphan Roelants  
 _Line Producer_: Katja Schumann  
 _Group Financial Controller_: Paul Deegan  
 _Assistant Director_: Mark Mullery  
@@ -45,8 +54,7 @@ _Editing_: Richie Cody, Darren Holmes, Darragh Byrne
 _Additional Editing_: Alan Slattery _Cartoon Saloon_
 _Music by_: Bruno Coulais  
 _In collaboration with_: Kíla  
-_Songs Performed by_: Aurora, Maria Doyle Kennedy,  
-Sofia Coulais  
+_Songs Performed by_: Aurora, Maria Doyle Kennedy, Sofia Coulais  
 _Keyboards & Programming_: Bruno Coulais  
 _Orchestra_: The Bulgarian Symphony Orchestra – Sif 309  
 _Conducted by_: Deyan Pavlov  
@@ -71,29 +79,33 @@ Ireland/UK/France 2020<br>
 103 mins
 <br><br>
 
-<![endif]-->
 
-BFI FAMILIES
+**BFI FAMILIES**  
+**Popeye**  
+Sun 13 Jun 12:50; Tue 29 Jun 17:50  
+**Wolfwalkers + pre-recorded Q&A with directors Tomm More and Ross Stewart from the 2020 BFI London Film Festival**  
+Sat 19 Jun 12:10  
+**Raya and the Last Dragon**  
+Sun 20 Jun 12:10  
+**Preview: The Croods: A New Age**  
+Sunday 11 Jul 12:00  
+**Pinocchio**  
+Sunday 25 Jul 11:50  
+<br><br>
 
-**Popeye**
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
-Sun 13 Jun 12:50; Tue 29 Jun 17:50
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
-**Wolfwalkers + pre-recorded Q&A with directors Tomm More and Ross Stewart from the 2020 BFI London Film Festival**
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
 
-Sat 19 Jun 12:10
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Raya and the Last Dragon**
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
-Sun 20 Jun 12:10
-
-**Preview: The Croods: A New Age**
-
-Sunday 11 Jul 12:00
-
-**Pinocchio**
-
-Sunday 25 Jul 11:50
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzk3MzQ5NDZdfQ==
--->
