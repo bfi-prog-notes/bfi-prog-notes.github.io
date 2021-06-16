@@ -20,7 +20,7 @@ WolfWalkers is hugely successful in engaging us with the enchantingly expressive
 **Andrew Osmond, _Sight & Sound_, December 2020**<br>
 <br>
 
-**WolfWalkers**
+**WOLFWalkers**
 
 _Directed by_: Tomm Moore, Ross Stewart  
 ©: Cartoon Saloon (WolfWalkers) Ltd_,_  
@@ -41,6 +41,37 @@ _Casting Director_: Louise Kiely Casting
 _Child Casting_: Eva Jane Gaffney  
 _Screenplay by_: Will Collins
 _Animation Supervisors_:  Svend Andreas Rothman Bonde, Nicolas Debray
+<![endif]-->
+
+_Editing_: Richie Cody, Darren Holmes, Darragh Byrne  
+_Additional Editing_: Alan Slattery _Cartoon Saloon_
+_Music by_: Bruno Coulais  
+_In collaboration with_: Kíla  
+_Songs Performed by_: Aurora, Maria Doyle Kennedy,  
+Sofia Coulais  
+_Keyboards & Programming_: Bruno Coulais  
+_Orchestra_: The Bulgarian Symphony Orchestra – Sif 309  
+_Conducted by_: Deyan Pavlov  
+_Original Music Orchestrated by_: Bruno Coulais  
+_Re-recording Mixer_: Fabien Devillers
+
+**Cast**<br>
+Honor Kneafsey _(Robyn Goodfellowe)_  
+Eva Whittaker _(Mebh Óg MacTíre)_  
+Sean Bean _(Robyn’s father, Bill Goodfellowe)_  
+Simon McBurney _(Lord Protector)_  
+Tommy Tiernan _(Seán Óg)_  
+Jon Kenny _(stringy woodcutter, Ned)_  
+John Morton _(stumpy woodcutter)_  
+Maria Doyle Kennedy _(Mebh’s mother, Moll MacTíre)_  
+Nora Twomey _(head housekeeper, Bridget)_  
+Oliver McGrath _(street children ringleader, Padraig)_  
+Paul Young _(sheep farmer)_  
+Niamh Moyles _(fishmonger)_
+
+Ireland/UK/France 2020
+
+103 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzQ1MDA4MF19
+eyJoaXN0b3J5IjpbLTkzODgzMzc4NSwxODYzNDUwMDgwXX0=
 -->
