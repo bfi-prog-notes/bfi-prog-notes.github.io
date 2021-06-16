@@ -18,6 +18,29 @@ _WolfWalkers_ is more of an action-adventure than Moore’s other films, especia
 
 WolfWalkers is hugely successful in engaging us with the enchantingly expressive girls, and with Robyn’s love for her father.<br>
 **Andrew Osmond, _Sight & Sound_, December 2020**<br>
+<br>
+
+**WolfWalkers**
+
+_Directed by_: Tomm Moore, Ross Stewart  
+©: Cartoon Saloon (WolfWalkers) Ltd_,_  
+Mélusine Productions  
+_A_ Cartoon Saloon & Mélusine _production_:  
+_In association with_: Value & Power Culture Communication Co., Fís Éireann/Screen Ireland, Film Fund Luxembourg, The Broadcasting Authority of Ireland, Haut et Court Distribution, RTÉ, Canal+, OCS, Pôle image Magelis  
+_With the support of_: Charente County Council  
+_In association with_: Folivari, GKIDS  
+_With the support of_: Film Fund Luxembourg  
+_Produced with the participation of_: CNC, Creative Europe MEDIA Programme of the European Union, Crone Film International  
+_Executive Producers_: Gerry Shirren,  Fabien Renelli, Zhang Shuo, Yang Ying,  Didier Brunner, Damien Brunner, Eric Beckman, David Jesteadt  
+_Produced by_: Paul Young, Nora Twomey,  
+Tomm Moore, Stéphan Roelants  
+_Line Producer_: Katja Schumann  
+_Group Financial Controller_: Paul Deegan  
+_Assistant Director_: Mark Mullery  
+_Casting Director_: Louise Kiely Casting  
+_Child Casting_: Eva Jane Gaffney  
+_Screenplay by_: Will Collins
+_Animation Supervisors_:  Svend Andreas Rothman Bonde, Nicolas Debray
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTIyMDg1MzldfQ==
+eyJoaXN0b3J5IjpbMTg2MzQ1MDA4MF19
 -->
