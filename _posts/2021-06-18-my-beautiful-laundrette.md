@@ -1,3 +1,14 @@
+---
+layout: post
+title: My Beautiful Laundrette
+published: true
+date: 2021-06-18
+readtime: true
+categories: ['BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL']
+tags: [Drama]
+metadata: 'UK 1985, 97 mins<br> Director: Stephen Frears'
+pdf: '2021-06-17-my-beautiful-laundrette.pdf'
+---
 _+ On-stage interview with writer Hanif Kureishi_
 
 **SPOILER WARNING The following notes give away some of the plot**.
@@ -33,133 +44,121 @@ The strength of _My Beautiful Laundrette_ is that it asks difficult questions in
 **Pam Cook, _Monthly Film Bulletin_, November 1985**<br>
 <br><br>
 
-**My Beautiful Laundrette**
-
+**MY BEAUTIFUL LAUNDRETTE**<br>
 *Director:* Stephen Frears  
-*Production Companies:* Working Title Films,
+*Production Companies:* Working Title Films, SAF Productions, Channel Four  
+*Producers:* Sarah Radclyffe, Tim Bevan  
+*Production Accountant:* Bill Craster  
+*Assistant Accountant:* Grainne Marmion  
+*Production Manager:* Jane Frazer  
+*Location Manager:* Rebecca O’Brien  
+*Production Assistant:* Sarah O’Brien  
+*Production Runner:* Sam Garwood  
+*Unit Runners:* Chris Bruce, Charlie McGrigor  
+*NFS Attachments:* Jo Brown, Ronald Bailey, Abdul Chowdray, Andree de Silva  
+*1st Assistant Director:* Simon Hinkly  
+*2nd Assistant Director:* Waldo Roeg  
+*3rd Assistant Director:* Gary Davies  
+*Continuity:* Penny Eyles  
+*Casting:* Debbie McWilliams  
+*Screenplay:* Hanif Kureishi  
+*Director of Photography:* Oliver Stapleton  
+*Focus Puller:* Steve Keith-Roach  
+*Clapper:* Fiona Cunningham Reid  
+*Camera Trainee:* Anthony James  
+*Camera Grip:* Jim Monks  
+*2nd Camera Grip:* Jamie Monks  
+*Gaffer:* Malcolm Davies  
+*Electricians:* Dave McWhinnie, Martin Duncan, Tony Hare  
+*Stills:* Mike Laye  
+*Graphics:* Julian Rothenstein  
+*Editor:* Mick Audsley  
+*1st Assistant Editor:* Jason Adams  
+*2nd Assistant Editor:* Chris Cook  
+*Designer:* Hugo Luczyk Wyhowski  
+*Production Buyer:* Jeanne Vertigan  
+*Property Master:* Ray Perry Sr  
+*Costume Designer:* Lindy Hemming  
+*Wardrobe Mistress:* Karen Sharpe  
+*Make-up:* Elaine Carew  
+*Hairdresser:* Wendy Rawson  
+*Titles:* Frameline  
+*Music:* Ludus Tonalis  
+*Music Producers:* Hans Zimmer, Stanley Myers  
+*Sound Recording:* Albert Bailey  
+*Boom Operator:* St. Clair Davis  
+*Dubbing Mixer:* Peter Maxwell  
+*Dubbing Editor:* ‘budge’ Tremlett  
+*Assistant Dubbing Editor:* Matthew Whiteman  
+*Stunt Co-ordinators:* Rocky Taylor, Jim Dowdall, Bill Weston, Nosher Powell  
 
-SAF Productions, Channel Four  
-Producers: Sarah Radclyffe, Tim Bevan  
-Production Accountant: Bill Craster  
-Assistant Accountant: Grainne Marmion  
-Production Manager: Jane Frazer  
-Location Manager: Rebecca O’Brien  
-Production Assistant: Sarah O’Brien  
-Production Runner: Sam Garwood  
-Unit Runners: Chris Bruce, Charlie McGrigor  
-NFS Attachments: Jo Brown, Ronald Bailey,
+**Cast**  
+Daniel Day Lewis *(Johnny)*  
+Richard Graham *(Genghis)*  
+Winston Graham *(1st Jamaican)*  
+Dudley Thomas *(2nd Jamaican)*  
+Derrick Branche *(Salim)*  
+Garry Cooper *(squatter)*  
+Gordon Warnecke *(Omar)*  
+Roshan Seth *(Papa Hussain)*  
+Saeed Jaffrey *(Nasser)*  
+Shirley Anne Field *(Rachel)*  
+Charu Bala Choksi *(Bilquis)*  
+Souad Faress *(Cherry)*  
+Rita Wolf *(Tania)*  
+Persis Maravala *(Nasser’s elder daughter)*  
+Nisha Kapur *(Nasser’s younger daughter)*  
+Neil Cunningham *(Englishman)*  
+Walter Donohue *(Dick O’Donnell)*  
+Gurdial Sira *(Zaki)*  
+Stephen Marcus *(Moose)*  
+Dawn Archibald *(1st gang member)*  
+Jonathan Moore *(2nd gang member)*  
+Gerard Horan *(telephone man)*  
+Ram John Holder *(poet)*  
+Bhasker *(Tariq)*  
+Ayub Khan Din *(student)*  
+Dulice Liecier *(girl in disco)*  
+Badi Uzzaman *(dealer)*  
+Chris Pitt *(1st kid)*  
+Kerryann White *(2nd kid)*  
+Colin Campbell *(Madame Butterfly man)*  
+Sheila Chitnis *(Zaki’s wife)*  
 
-Abdul Chowdray, Andree de Silva  
-1st Assistant Director: Simon Hinkly  
-2nd Assistant Director: Waldo Roeg  
-3rd Assistant Director: Gary Davies  
-Continuity: Penny Eyles  
-Casting: Debbie McWilliams  
-Screenplay: Hanif Kureishi  
-Director of Photography: Oliver Stapleton  
-Focus Puller: Steve Keith-Roach  
-Clapper: Fiona Cunningham Reid  
-Camera Trainee: Anthony James  
-Camera Grip: Jim Monks  
-2nd Camera Grip: Jamie Monks  
-Gaffer: Malcolm Davies  
-Electricians: Dave McWhinnie, Martin Duncan,
-
-Tony Hare  
-Stills: Mike Laye  
-Graphics: Julian Rothenstein  
-Editor: Mick Audsley  
-1st Assistant Editor: Jason Adams  
-2nd Assistant Editor: Chris Cook  
-Designer: Hugo Luczyk Wyhowski  
-Production Buyer: Jeanne Vertigan  
-Property Master: Ray Perry Sr
-
-Costume Designer: Lindy Hemming  
-Wardrobe Mistress: Karen Sharpe  
-Make-up: Elaine Carew  
-Hairdresser: Wendy Rawson  
-Titles: Frameline  
-Music: Ludus Tonalis  
-Music Producers: Hans Zimmer, Stanley Myers  
-Sound Recording: Albert Bailey  
-Boom Operator: St. Clair Davis  
-Dubbing Mixer: Peter Maxwell  
-Dubbing Editor: ‘budge’ Tremlett  
-Assistant Dubbing Editor: Matthew Whiteman  
-Stunt Co-ordinators: Rocky Taylor, Jim Dowdall,
-
-Bill Weston, Nosher Powell  
-Cast:
-
-Daniel Day Lewis (Johnny)  
-Richard Graham (Genghis)  
-Winston Graham (1st Jamaican)  
-Dudley Thomas (2nd Jamaican)  
-Derrick Branche (Salim)  
-Garry Cooper (squatter)  
-Gordon Warnecke (Omar)  
-Roshan Seth (Papa Hussain)  
-Saeed Jaffrey (Nasser)  
-Shirley Anne Field (Rachel)  
-Charu Bala Choksi (Bilquis)  
-Souad Faress (Cherry)  
-Rita Wolf (Tania)  
-Persis Maravala (Nasser’s elder daughter)  
-Nisha Kapur (Nasser’s younger daughter)  
-Neil Cunningham (Englishman)  
-Walter Donohue (Dick O’Donnell)  
-Gurdial Sira (Zaki)  
-Stephen Marcus (Moose)  
-Dawn Archibald (1st gang member)  
-Jonathan Moore (2nd gang member)  
-Gerard Horan (telephone man)  
-Ram John Holder (poet)  
-Bhasker (Tariq)  
-Ayub Khan Din (student)  
-Dulice Liecier (girl in disco)  
-Badi Uzzaman (dealer)  
-Chris Pitt (1st kid)  
-Kerryann White (2nd kid)  
-Colin Campbell (Madame Butterfly man)  
-Sheila Chitnis (Zaki’s wife)  
-UK 1985©
-
+UK 1985©<br>
 97 mins
 
-BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL
+**BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL**<br>
+**LIFF Opening Night: WOMB (Women of My Billion) + on stage Q&A with Srishti Bakshi and film critic Anna Smith**<br>
+Thu 17 Jun 17:20<br>
+**My Beautiful Laundrette + on-stage interview with writer Hanif Kureishi**<br>
+Fri 18 Jun 20:20<br>
+**The Warrior + on-stage career interview with writer-director Asif Kapadia**<br>
+Sat 19 Jun 20:30<br>
+**Ahimsa: Gandhi the Power of the Powerless**<br>
+Sun 20 Jun 15:00<br>
+**Searching for Happiness…**<br>
+Tue 22 Jun 20:50<br>
+**Nazarband Captive**<br>
+Wed 23 Jun 20:45<br>
+**A’hr Kayattam**<br>
+Thu 24 Jun 18:00<br>
+**The Salt in Our Waters Nonajoler Kabbo**<br>
+Sun 27 Jun 15:00<br>
+<br><br><br>
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
-**LIFF Opening Night: WOMB (Women of My Billion) + on stage Q&A with Srishti Bakshi and film critic Anna Smith**
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
-Thu 17 Jun 17:20
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
 
-**My Beautiful Laundrette** **+ on-stage interview with writer Hanif Kureishi**
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-Fri 18 Jun 20:20
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
-**The Warrior + on-stage career interview with writer-director Asif Kapadia**
-
-Sat 19 Jun 20:30
-
-**Ahimsa: Gandhi the Power of the Powerless**
-
-Sun 20 Jun 15:00
-
-**Searching for Happiness…**
-
-Tue 22 Jun 20:50
-
-**Nazarband Captive**
-
-Wed 23 Jun 20:45
-
-**A’hr Kayattam**
-
-Thu 24 Jun 18:00
-
-**The Salt in Our Waters Nonajoler Kabbo**
-
-Sun 27 Jun 15:00
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3Njk5MDEwOF19
--->
