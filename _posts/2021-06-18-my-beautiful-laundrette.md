@@ -6,8 +6,7 @@ Originally shot for television in six weeks on a low budget, _My Beautiful Laund
 
 _My Beautiful Laundrette_ was ground-breaking in its bold exploration of issues of sexuality, race, class and generational difference. It also sparked controversy, particularly within the Asian community, which was disgusted by its perceived degrading representation of Pakistanis. At a New York demonstration by the Pakistan Action Committee, banners called the film ‘the product of a vile and perverted mind’.
 
-Much of the outrage was targeted at the homosexual affair between Omar and Johnny, which develops from a genuine mutual fondness through the buzz of sexual experimentation, before hinting, at the end, at something deeper.  
-On the way, it survives several obstacles, including Johnny’s racist connections and Omar’s resentment.
+Much of the outrage was targeted at the homosexual affair between Omar and Johnny, which develops from a genuine mutual fondness through the buzz of sexual experimentation, before hinting, at the end, at something deeper.  On the way, it survives several obstacles, including Johnny’s racist connections and Omar’s resentment.
 
 The film highlights a dilemma at the heart of the immigrant experience – the desire to belong to Western society while maintaining a clear sense of Pakistani identity. The two brothers, Nasser and Papa, demonstrate this cultural conflict. An ardent intellectual socialist, Papa belongs to old school Pakistan because, like most first generation immigrants, he believes fervently in education combating racism and is vehemently against the greed and conservative economics of Thatcherism.
 
@@ -15,9 +14,8 @@ Nasser, however, has largely abandoned his immigrant roots, toasting ‘Thatcher
 
 Kureishi writes characters for what they are rather than what they represent, and while he may dislike his character’s actions, it is evident that he is fascinated by their humanity. It is for this reason that we are able to grasp the underlying truths of _My Beautiful Laundrette_, often ambiguous and contradictory, sometimes obscure, but hauntingly resonant, even today.
 
-_My Beautiful Laundrette_’s international success helped establish Channel 4’s fledgling feature film production arm, Film on Four, and confirmed a move away from television single drama. The Frears-Kureishi collaboration continued with _Sammy and Rosie Get Laid_ (1987).
-
-Shalini Chanda, BFI Screenonline, screenonline.org.uk
+_My Beautiful Laundrette_’s international success helped establish Channel 4’s fledgling feature film production arm, Film on Four, and confirmed a move away from television single drama. The Frears-Kureishi collaboration continued with _Sammy and Rosie Get Laid_ (1987).<br>
+**Shalini Chanda, BFI Screenonline, screenonline.org.uk**
 
 **A contemporary review**
 
@@ -31,9 +29,135 @@ Johnny has a certain moral strength that Omar lacks, and it is the personal rela
 
 This unlikely affair not only provides the focus for the film’s ruminations on the state of present-day multi-racial Britain, it also acts as an ironic counterpart to other (heterosexual) relationships – that between Nasser and his mistress Rachel (Shirley Anne Field), for instance, largely sent-up as an old-fashioned romance. But one of the most moving scenes occurs when Rachel, confronted by Nasser’s daughter Tania, defends her affair, and her status as a ‘kept woman’, in terms of her class and age. And Tania herself, outspoken, intelligent, independent, can find no place for herself or her sexuality either within the male-dominated Asian family or outside it, since both Omar and Johnny, her potential allies, owe allegiance primarily to one another (a _Butch Cassidy and the Sundance Kid_ parody underlines this point nicely). So Tania disappears, as indeed does Rachel, leaving Nasser devastated – on the point of financial and emotional collapse – and Johnny and Omar to comfort one another in the ruins of their dream laundrette, smashed up by the racist white gang. No easy way forward here, only more question marks.
 
-The strength of _My Beautiful Laundrette_ is that it asks difficult questions in a provocative and entertaining manner, managing to be critical and sympathetic at the same time. Maybe, in the end, we are asked to sympathise with too many characters at once, so that we are left in a familiar liberal impasse; and perhaps some themes could have been more fully developed to toughen up the film’s political message. But there is no doubt on this evidence that Hanif Kureishi is an exciting new voice in British television.
+The strength of _My Beautiful Laundrette_ is that it asks difficult questions in a provocative and entertaining manner, managing to be critical and sympathetic at the same time. Maybe, in the end, we are asked to sympathise with too many characters at once, so that we are left in a familiar liberal impasse; and perhaps some themes could have been more fully developed to toughen up the film’s political message. But there is no doubt on this evidence that Hanif Kureishi is an exciting new voice in British television.<br>
+**Pam Cook, _Monthly Film Bulletin_, November 1985**<br>
+**My Beautiful Laundrette**
 
-Pam Cook, _Monthly Film Bulletin_, November 1985
+Director: Stephen Frears  
+Production Companies: Working Title Films,
+
+SAF Productions, Channel Four  
+Producers: Sarah Radclyffe, Tim Bevan  
+Production Accountant: Bill Craster  
+Assistant Accountant: Grainne Marmion  
+Production Manager: Jane Frazer  
+Location Manager: Rebecca O’Brien  
+Production Assistant: Sarah O’Brien  
+Production Runner: Sam Garwood  
+Unit Runners: Chris Bruce, Charlie McGrigor  
+NFS Attachments: Jo Brown, Ronald Bailey,
+
+Abdul Chowdray, Andree de Silva  
+1st Assistant Director: Simon Hinkly  
+2nd Assistant Director: Waldo Roeg  
+3rd Assistant Director: Gary Davies  
+Continuity: Penny Eyles  
+Casting: Debbie McWilliams  
+Screenplay: Hanif Kureishi  
+Director of Photography: Oliver Stapleton  
+Focus Puller: Steve Keith-Roach  
+Clapper: Fiona Cunningham Reid  
+Camera Trainee: Anthony James  
+Camera Grip: Jim Monks  
+2nd Camera Grip: Jamie Monks  
+Gaffer: Malcolm Davies  
+Electricians: Dave McWhinnie, Martin Duncan,
+
+Tony Hare  
+Stills: Mike Laye  
+Graphics: Julian Rothenstein  
+Editor: Mick Audsley  
+1st Assistant Editor: Jason Adams  
+2nd Assistant Editor: Chris Cook  
+Designer: Hugo Luczyk Wyhowski  
+Production Buyer: Jeanne Vertigan  
+Property Master: Ray Perry Sr
+
+Costume Designer: Lindy Hemming  
+Wardrobe Mistress: Karen Sharpe  
+Make-up: Elaine Carew  
+Hairdresser: Wendy Rawson  
+Titles: Frameline  
+Music: Ludus Tonalis  
+Music Producers: Hans Zimmer, Stanley Myers  
+Sound Recording: Albert Bailey  
+Boom Operator: St. Clair Davis  
+Dubbing Mixer: Peter Maxwell  
+Dubbing Editor: ‘budge’ Tremlett  
+Assistant Dubbing Editor: Matthew Whiteman  
+Stunt Co-ordinators: Rocky Taylor, Jim Dowdall,
+
+Bill Weston, Nosher Powell  
+Cast:
+
+Daniel Day Lewis (Johnny)  
+Richard Graham (Genghis)  
+Winston Graham (1st Jamaican)  
+Dudley Thomas (2nd Jamaican)  
+Derrick Branche (Salim)  
+Garry Cooper (squatter)  
+Gordon Warnecke (Omar)  
+Roshan Seth (Papa Hussain)  
+Saeed Jaffrey (Nasser)  
+Shirley Anne Field (Rachel)  
+Charu Bala Choksi (Bilquis)  
+Souad Faress (Cherry)  
+Rita Wolf (Tania)  
+Persis Maravala (Nasser’s elder daughter)  
+Nisha Kapur (Nasser’s younger daughter)  
+Neil Cunningham (Englishman)  
+Walter Donohue (Dick O’Donnell)  
+Gurdial Sira (Zaki)  
+Stephen Marcus (Moose)  
+Dawn Archibald (1st gang member)  
+Jonathan Moore (2nd gang member)  
+Gerard Horan (telephone man)  
+Ram John Holder (poet)  
+Bhasker (Tariq)  
+Ayub Khan Din (student)  
+Dulice Liecier (girl in disco)  
+Badi Uzzaman (dealer)  
+Chris Pitt (1st kid)  
+Kerryann White (2nd kid)  
+Colin Campbell (Madame Butterfly man)  
+Sheila Chitnis (Zaki’s wife)  
+UK 1985©
+
+97 mins
+
+BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL
+
+**LIFF Opening Night: WOMB (Women of My Billion) + on stage Q&A with Srishti Bakshi and film critic Anna Smith**
+
+Thu 17 Jun 17:20
+
+**My Beautiful Laundrette** **+ on-stage interview with writer Hanif Kureishi**
+
+Fri 18 Jun 20:20
+
+**The Warrior + on-stage career interview with writer-director Asif Kapadia**
+
+Sat 19 Jun 20:30
+
+**Ahimsa: Gandhi the Power of the Powerless**
+
+Sun 20 Jun 15:00
+
+**Searching for Happiness…**
+
+Tue 22 Jun 20:50
+
+**Nazarband Captive**
+
+Wed 23 Jun 20:45
+
+**A’hr Kayattam**
+
+Thu 24 Jun 18:00
+
+**The Salt in Our Waters Nonajoler Kabbo**
+
+Sun 27 Jun 15:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyODI1MDg0XX0=
+eyJoaXN0b3J5IjpbLTk5Mzc4NTU4MF19
 -->
