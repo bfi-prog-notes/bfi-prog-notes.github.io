@@ -31,10 +31,12 @@ This unlikely affair not only provides the focus for the film’s ruminations on
 
 The strength of _My Beautiful Laundrette_ is that it asks difficult questions in a provocative and entertaining manner, managing to be critical and sympathetic at the same time. Maybe, in the end, we are asked to sympathise with too many characters at once, so that we are left in a familiar liberal impasse; and perhaps some themes could have been more fully developed to toughen up the film’s political message. But there is no doubt on this evidence that Hanif Kureishi is an exciting new voice in British television.<br>
 **Pam Cook, _Monthly Film Bulletin_, November 1985**<br>
+<br><br>
+
 **My Beautiful Laundrette**
 
-Director: Stephen Frears  
-Production Companies: Working Title Films,
+*Director:* Stephen Frears  
+*Production Companies:* Working Title Films,
 
 SAF Productions, Channel Four  
 Producers: Sarah Radclyffe, Tim Bevan  
@@ -159,5 +161,5 @@ Thu 24 Jun 18:00
 
 Sun 27 Jun 15:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Mzc4NTU4MF19
+eyJoaXN0b3J5IjpbMTI3Njk5MDEwOF19
 -->
