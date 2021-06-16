@@ -27,12 +27,10 @@ the Beast_.
 <br><br>
 
 
-**SECRET HON**
-
+**SECRET HONOR**  
 _Director_: Robert Altman  
-©_/Production Company_: Sandcastle 5 Productions  
-_In co-operation with_:  
-University of Michigan Department of Communication, Los Angeles Actors’ Theatre  
+©/_Production Company_: Sandcastle 5 Productions  
+_In co-operation with_:  University of Michigan Department of Communication, Los Angeles Actors’ Theatre  
 _Executive Producer_: Scott Bushnell  
 _Producer_: Robert Altman  
 _Associate Producer_: Doug Cole  
@@ -42,8 +40,7 @@ _Production Assistants_: Jack Kney, Marek Albrecht
 _Production Secretary_: Georgia Hamlin  
 _Associate Director_: Robert Harders  
 _Assistant Director_: Allan Nicholls  
-_Screenplay and original play_: Donald Freed,  
-Arnold M. Stone  
+_Screenplay and original play_: Donald Freed,  Arnold M. Stone  
 _Director of Photography_: Pierre Mignot  
 _Camera Operator_: Jean Lépine  
 _Assistant Camera_: René Daigle  
@@ -63,15 +60,13 @@ _Boom Man_: Dan Gleich
 _Re-recorder_: Paul Coombe, Sound One  
 _Sound Editor_: Bernard Hajdenberg
 
-_Cast:_
-
+**Cast**  
 Philip Baker Hall _(Richard Milhous Nixon)_
 
-USA 1984
-
+USA 1984  
 90 mins
 
 35mm print courtesy of the Robert Altman Collection at the UCLA Film & Television Archive.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxMjM4NDM0XX0=
+eyJoaXN0b3J5IjpbMzExNTAwNDNdfQ==
 -->
