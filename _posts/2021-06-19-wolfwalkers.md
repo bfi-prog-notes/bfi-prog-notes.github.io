@@ -69,6 +69,31 @@ Niamh Moyles _(fishmonger)_
 
 Ireland/UK/France 2020<br>
 103 mins
+<br><br>
+
+<![endif]-->
+
+BFI FAMILIES
+
+**Popeye**
+
+Sun 13 Jun 12:50; Tue 29 Jun 17:50
+
+**Wolfwalkers + pre-recorded Q&A with directors Tomm More and Ross Stewart from the 2020 BFI London Film Festival**
+
+Sat 19 Jun 12:10
+
+**Raya and the Last Dragon**
+
+Sun 20 Jun 12:10
+
+**Preview: The Croods: A New Age**
+
+Sunday 11 Jul 12:00
+
+**Pinocchio**
+
+Sunday 25 Jul 11:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDY5NDE5MF19
+eyJoaXN0b3J5IjpbLTE3Nzk3MzQ5NDZdfQ==
 -->
