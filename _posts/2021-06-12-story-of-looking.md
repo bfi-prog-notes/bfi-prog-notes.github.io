@@ -40,50 +40,86 @@ Mark’s books include _Imagining Reality: The Faber Book of Documentary_,  _The
 He is the Chair of the Belfast Film Festival, a Patron of the Edinburgh International Film Festival and an advisor to Michael Moore’s Traverse City Film Festival. His 14 hour documentary _Women Make Film_ tries to rethink cinema. It is narrated by Jane Fonda, Tilda Swinton, Sharmila Tagore, Kerry Fox, Debra Winger, Adjoa Andoh and Thandie Newton. His newest films are _The Storms of Jeremy Thomas_, _The Story of Looking_ and _The Story of Film: A New Generation._ He has walked across Los Angeles, Belfast, Moscow, Beijing, London, Paris, Berlin, Dakar and Mexico City. He drove from Edinburgh to Mumbai, and loves night swimming.<br>
 <br><br>
 
-**THE STORY OF LOOKING**<br>
-_Directed, Filmed and Written by:_ Mark Cousins<br>
+**THE STORY OF LOOKING**<br>he Story of Looking**
+
+_Directed, Filmed and& Written by:_ Mark Cousins<br>
+
 _Producers:_ Mary Bell, Adam Dawtrey<br>
-_Executive Producers:_ Mark Thomas, Catherine Benkaim, Barbara Timmer<br>
+
+_Executive Producers:_ Mark Thomas, 
+
+Catherine Benkaim, Barbara Timmer<br>
+
 _Additional Camera:_ Diego Almazán de Pablo<br>
+
 _Editor:_ Timo Langer<br>
+
 _Composer:_ Donna McKevitt<br>
+
 _Sound Editor:_ Ania Przygoda<br>
+
 _Sound Designer:_ Maiken Hansen<br>
 
 UK 2021<br>
+
 90 mins
 <br><br>
 
 **BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL**<br>
 
 **LIFF Opening Night: WOMB (Women of My Billion) + on stage Q&A with Srishti Bakshi and film critic Anna Smith**<br>
+
 Thu 17 Jun 17:20<br>
+
 **My Beautiful Laundrette** **+ on-stage interview with writer Hanif Kureishi**<br>
+
 Fri 18 Jun 20:20<br>
+
 **The Warrior + on-stage career interview with writer-director Asif Kapadia**<br>
+
 Sat 19 Jun 20:30<br>
+
 **Ahimsa: Gandhi the Power of the Powerless**<br>
+
 Sun 20 Jun 15:00<br>
+
 **Searching for Happiness…**<br>
+
 Tue 22 Jun 20:50<br>
+
 **Nazarband Captive**<br>
+
 Wed 23 Jun 20:45<br>
+
 **A’hr Kayattam**<br>
+
 Thu 24 Jun 18:00<br>
+
 **The Salt in Our Waters Nonajoler Kabbo**<br>
+
 Sun 27 Jun 15:00<br>
 <br><br>
 
-**IN PERSON & PREVIEWS**<br>
+**
+
+IN PERSON & PREVIEWS**<br>
 
 **Censor + Q&A with director Prano Bailey-Bond**<br>
+
 Thu 1 Jul 20:45<br>
+
 **Mark Kermode Live in 3D at the BFI**<br>
+
 Mon 5 Jul 18:00<br>
+
 **African Odysseys Present: European Premiere: The Milkmaid + Q&A with writer-director Desmond Ovbiagele and producer Oluseun Sowemimo**<br>
+
 Sat 10 Jul 14:00<br>
+
 **Black Lens Festival Opening Night: UK Premiere: How to Stop a Recurring Dream + Q&A with director Ed Morris and actor Ruby Barker** Fri 16 Jul 18:00<br>
+
 **Woman with a Movie Camera Preview: Girlfriends**<br>
+
 Fri 16 Jul 18:15<br>
 <br><br>
 
@@ -103,3 +139,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1NDUzMzg2NTldfQ==
+-->
