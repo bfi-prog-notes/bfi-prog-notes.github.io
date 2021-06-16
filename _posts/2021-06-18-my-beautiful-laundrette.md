@@ -7,7 +7,7 @@ readtime: true
 categories: ['BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL']
 tags: [Drama]
 metadata: 'UK 1985, 97 mins<br> Director: Stephen Frears'
-pdf: '2021-06-17-my-beautiful-laundrette.pdf'
+pdf: '2021-06-18-my-beautiful-laundrette.pdf'
 ---
 _+ On-stage interview with writer Hanif Kureishi_
 
