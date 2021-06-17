@@ -37,7 +37,9 @@ USA/UK 2020<br>
 
 A Picturehouse Entertainment release<br>
 
-<img style="float: left;" src="/img/autistic_society.png">
+<img style="float: left;" src="/img/autistic_society.png"><br><br><br>
+
+
 
 BFI Southbank has been awarded the National Autistic Society's Autism Friendly Award.
 
