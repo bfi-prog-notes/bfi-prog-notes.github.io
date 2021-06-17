@@ -1,12 +1,24 @@
+---
+layout: post
+title: The Reason I Jump
+published: false
+date: 2021-06-18
+readtime: true
+categories: ['RELAXED SCREENING']
+tags: [Documentary, Drama]
+metadata: 'USA/UK 2020, 82 mins<br> Director: Jerry Rothwell'
+pdf: '2021-06-18-reason-i-jump-relaxed screening.pdf'
+---
+
 ‘I think we can change the conversation around autism by being part of the conversation,’ says Ben on his letter board. Jerry Rothwell’s multi-award winning documentary is a significant step in the right direction. Immersive surround sound and intense images characterise this exploration of neurodiversity, based on Naoki Higashida’s best-selling book about his life with autism. The film challenges viewers to re-calibrate their reference points on behaviours and to imagine what it feels like to experience the world with senses at the forefront, rather than words. Travelling the world to meet Amrit, Joss, Ben, Emma and Jestina we find passionate, creative and thoughtful young people whose everyday experiences are bound by society.
 
 In order to assist with the accessibility and enjoyment of relaxed screenings of this title for our audiences, the film will be accompanied by a special subtitle stream which will include both subtitling of dialogue as well as warnings of potentially challenging or difficult moments within the film itself. These warnings will focus on moments that could be challenging from a visual, aural, and emotional perspective and will be accompanied by guidance text and symbols alerting viewers to the imminent approach of any such moments.
 
-<![endif]-->
-
 ‘I think we can change the conversation around autism by being part of the conversation,’ says Ben on his letter board. Jerry Rothwell’s multi-award winning documentary is a significant step in the right direction. Immersive surround sound and intense images characterise this exploration of neurodiversity, based on Naoki Higashida’s best-selling book about his life with autism. The film challenges viewers to re-calibrate their reference points on behaviours and to imagine what it feels like to experience the world with senses at the forefront, rather than words. Travelling the world to meet Amrit, Joss, Ben, Emma and Jestina we find passionate, creative and thoughtful young people whose everyday experiences are bound by society.
 
 In order to assist with the accessibility and enjoyment of relaxed screenings of this title for our audiences, the film will be accompanied by a special subtitle stream which will include both subtitling of dialogue as well as warnings of potentially challenging or difficult moments within the film itself. These warnings will focus on moments that could be challenging from a visual, aural, and emotional perspective and will be accompanied by guidance text and symbols alerting viewers to the imminent approach of any such moments.<br><br>
+
+<img style="float: left;" src="/img/partner/yeastie-boys-logo.png" alt="Yeastie Boys" title="Yeastie Boys">
 
 **Relaxed Screenings**
 
