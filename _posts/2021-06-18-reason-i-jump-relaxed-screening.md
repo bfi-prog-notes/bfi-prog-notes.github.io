@@ -18,9 +18,9 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 <![if !supportLists]>· <![endif]>If you are exempt from wearing a mask please let us know so that we can implement appropriate safety measures for your comfort and that of those around you. If you are able to wear a facemask please do so throughout your visit.
 
-<![if !supportLists]>· <![endif]>Doors will open 30 minutes before the screening.
+<ul>Doors will open 30 minutes before the screening.
 
-<![if !supportLists]>· <![endif]>No trailers will be shown.
+<li>No trailers will be shown.
 
 <![if !supportLists]>· <![endif]>The programme will be introduced.
 
@@ -34,5 +34,5 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 • Please ask us if you need help
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyNDM2MjEyXX0=
+eyJoaXN0b3J5IjpbLTQ1Njg1ODc1OCw2OTI0MzYyMTJdfQ==
 -->
