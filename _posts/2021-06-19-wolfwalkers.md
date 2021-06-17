@@ -80,16 +80,28 @@ Ireland/UK/France 2020<br>
 <br><br>
 
 
-**BFI FAMILIES**  
+**<![endif]-->
+
+BFI FAMILIES**  
+
 **Popeye**  
+
 Sun 13 Jun 12:50; Tue 29 Jun 17:50  
+
 **Wolfwalkers + pre-recorded Q&A with directors Tomm More and Ross Stewart from the 2020 BFI London Film Festival**  
+
 Sat 19 Jun 12:10  
+
 **Raya and the Last Dragon**  
+
 Sun 20 Jun 12:10  
+
 **Preview: The Croods: A New Age**  
+
 Sunday 11 Jul 12:00  
+
 **Pinocchio**  
+
 Sunday 25 Jul 11:50  
 <br><br>
 
@@ -109,3 +121,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2ODA1ODQyOTldfQ==
+-->
