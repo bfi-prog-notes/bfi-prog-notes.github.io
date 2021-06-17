@@ -7,7 +7,7 @@ The just war against the Germans in North Africa in _Bitter Victory_ takes secon
 **David Thomson, _Sight and Sound_, Autumn 1979**<br>
 <br>
 
-**Bitter Victory (Amère Victoire)**
+**BITTER VICTORY  (Amère Victoire)**
 _Directed by:_ Nicholas Ray
 ©: Transcontinental Films
 _Production Companies:_ Transcontinental Films,
@@ -77,26 +77,16 @@ Mon 21 Jun 14:30
 **The Gospel According to Matthew (Il vangelo secondo Matteo)** Thu 24 Jun 17:40
 **Eraserhead** Thu 24 Jun 21:10
 **Alice in the Cities (Alice in den Städten)**
-
 Fri 25 Jun 20:45
-
 **Sweet Smell of Success** Sat 26 Jun 11:40
-
 **The Man Who Wasn’t There** Sun 27 Jun 18:20
-
 **Touch of Evil** Sun 20 Jun 18:15
-
 **The White Ribbon (Das weisse Band)**
-
 Sat 26 Jun 16:30
-
 **Persona** Mon 28 Jun 21:00
-
 **Man Hunt** Tue 29 Jun 14:15
-
 **Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London
-
 Wed 30 Jun 17:45
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTgzMzU4OF19
+eyJoaXN0b3J5IjpbLTE2NTUzMjc4NjBdfQ==
 -->
