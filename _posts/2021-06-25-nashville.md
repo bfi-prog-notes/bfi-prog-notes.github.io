@@ -1,3 +1,15 @@
+---
+layout: post
+title: Nashville
+published: true
+date: 2021-06-25
+readtime: true
+categories: ['RE-RELEASES']
+tags: [Comedy, Drama, Music]
+metadata: 'USA, 1975, 160 mins<br> Director: Robert Altman'
+pdf: '2021-06-25-nashville.pdf'
+---
+
 One afternoon in the mid-1970s, I bunked off studies to catch the first screening at the local arts cinema of an American movie set in the capital of country music. After nearly three hours in the cinema, I emerged into the daylight persuaded that the hype – kick-started when the _New Yorker_’s Pauline Kael, writing about a rough cut she’d seen, raved about ‘an orgy for movie lovers’ and ‘the funniest epic vision of America’ – was for once thoroughly deserved.
 
 So what had all the fuss been about? Some of it centred on the fact that the film boasted 24 principal characters rather than the usual two or three leads; set in the Tennessee capital over five days – watch carefully and you’ll find it begins on a Friday and ends the following Tuesday afternoon – it interweaves the ‘stories’ of a garrulous gallery of musicians (both established and aspiring), managers, partners, a political fixer, a quite possibly bogus BBC reporter, workers, fans and sundry other figures on the fringes of the various concerts, picnics and public rituals that dominate the proceedings. I say ‘stories’ because most of what we see and hear is intentionally mundane, evocative of everyday life rather than conventionally eventful movie drama; notwithstanding a shooting that eventually brings the film to its still unusually open-ended close, the narrative is perhaps best summed up by Altman’s words to the critic David Thompson: ‘It was about the incredible ambition of those guys getting off the bus with a guitar every day and, like in Hollywood, trying to make it. […] I just wanted to take the literature of country music, which is very, very simple, basic stuff […] and put it into a panorama which reflected America and its politics.’
@@ -28,64 +40,40 @@ The miracle of _Nashville_ is that it deals with all this in a way that is at on
 
 Perhaps, then, _Nashville_’s near-isolation in terms of style, technique, tone, form and content only goes to show that it was – and indeed remains – impossible to make such a film… unless, that is, the creator was Robert Altman.<br>
 **Geoff Andrew, _Sight & Sound_, June 2021**<br>
-<![endif]-->
+<br>
 
-**Nashville**
-
+**NASHVILLE**<br>
 _Director:_ Robert Altman  
-_©/Production Companies:_  
-American Broadcasting Company,
-
-Paramount Pictures Corporation  
-_Executive Producers:_ Martin Starger,
-
-Jerry Weintraub  
+_©/Production Companies:_ American Broadcasting Company, Paramount Pictures Corporation  
+_Executive Producers:_ Martin Starger, Jerry Weintraub  
 _Producer:_ Robert Altman  
-_Associate Producers:_ Robert Eggenweiler,
-
-Scott Bushnell  
+_Associate Producers:_ Robert Eggenweiler, Scott Bushnell  
 _Production Co-ordinator:_ Kelly Marshall  
 _Assistant to the Producer:_ Jac Cashin  
-_Production Assistants:_ Angel Dominguez,
-
-Ron Hecht, Steve Altman,
-
-Mark Eggenweiler, Maysie Hoy,
-
-Allan Highfill, Roger Frappier  
-_Assistant Directors:_ Tommy Thompson,
-
-Alan Rudolph  
+_Production Assistants:_ Angel Dominguez, Ron Hecht, Steve Altman, Mark Eggenweiler, Maysie Hoy, Allan Highfill, Roger Frappier  
+_Assistant Directors:_ Tommy Thompson, Alan Rudolph  
 _Script Supervisor:_ Joyce King  
 _Screenplay:_ Joan Tewkesbury  
 _Director of Photography:_ Paul Lohmann  
 _Camera Operator:_ Ed Koons  
 _Grips:_ Harry Rez, Eddie Lara  
-_Electrical Gaffers:_ Randy Glass,
-
-Mike Marlett  
+_Electrical Gaffers:_ Randy Glass, Mike Marlett  
 _Editors:_ Sidney Levin, Dennis Hall  
-_Assistant Editors:_ Tony Lombardo,
-
-Tom Walls  
+_Assistant Editors:_ Tony Lombardo, Tom Walls  
 _Property Master:_ Bob Anderson  
 _Wardrobe:_ Jules Melillo  
 _Make-up:_ Tommy Thompson  
 _Hairstylist:_ Ann Wadlington  
 _Title Design:_ Dan Perri  
-_Music Arranged and Supervised by:_
-
-Richard Baskin  
-_Music Recordists:_ Gene Eichelberger,
-
-Johnny Rosen  
+_Music Arranged and Supervised by:_ Richard Baskin  
+_Music Recordists:_ Gene Eichelberger, Johnny Rosen  
 _Sound:_ Jim Webb, Chris McLaughlin  
 _Re-recording Mixer:_ Richard Portman  
 _Sound Editor:_ William A. Sawyer  
 _Assistant Sound Editor:_ Randy Kelley  
 _Political Campaign:_ Thomas Hal Phillips  
-_Cast:_
 
+**Cast**<br>
 David Arkin _(Norman)_  
 Barbara Baxley _(Lady Pearl)_  
 Ned Beatty _(Delbert Reese)_  
@@ -114,22 +102,65 @@ James Dan Calvert _(Jimmy Reese)_
 Donna Denton _(Donna Reese)_  
 Merle Kilgore _(Trout)_  
 Carol McGinnis _(Jewel)_  
-Sheila Bayley, Patti Bryant
-
-_(Smokey Mountain Laurels)_  
+Sheila Bayley, Patti Bryant _(Smokey Mountain Laurels)_  
 Richard Baskin _(Frog, piano player)_  
-Jonnie Barnett, Vassar Clements,
+Jonnie Barnett, Vassar Clements, Misty Mountain Boys, Sue Barton, Elliott Gould, Julie Christie, James Hill _(as themselves)_  
 
-Misty Mountain Boys, Sue Barton,
-
-Elliott Gould, Julie Christie, James Hill
-
-_(as themselves)_  
-USA 1975©
-
-160 mins
+USA 1975©<br>
+160 mins<br>
 
 A BFI release
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTAwMzEyMTJdfQ==
--->
+<br><br><br>
+**ROBERT ALTMAN: AMERICAN OUTSIDER**  
+**Vincent and Theo**    
+Sat 3 Jul 11:20; Tue 13 Jul 20:30  
+**Prêt-à-porter**<br>
+Sat 3 Jul 18:05; Mon 19 Jul 17:40<br>
+**The Player**<br>
+Sat 3 Jul 20:40; Mon 12 Jul 17:45; Wed 28 Jul 20:30<br>
+**Short Cuts**<br>
+Sun 4 Jul 11:30; Sat 17 Jul 19:30<br>
+**Kansas City**<br>
+Sun 4 Jul 15:20; Thu 15 Jul 17:40<br>
+**Cookie’s Fortune**<br>
+Tue 6 Jul 14:50; Wed 7 Jul 20:40; Tue 27 Jul 17:40<br>
+**The Gingerbread Man**<br>
+Fri 9 Jul 20:40; Sat 17 Jul 17:50<br>
+**Dr T & The Women**<br>
+Sat 10 Jul 15:00; Mon 26 Jul 20:30<br>
+**Gosford Park**<br>
+Sun 11 Jul 15:20; Sun 18 Jul 18:20; Fri 23 Jul 14:30<br>
+**The Company**<br>
+Tue 13 Jul 17:50; Sat 31 Jul 11:50<br>
+**A Prairie Home Companion**<br>
+Sun 25 Jul 12:00; Sat 31 Jul 17:50<br>
+<br>
+
+
+
+**Promotional partners**  
+<img style="float: left;" src="/img/partner/yeastie-boys-logo.png" alt="Yeastie Boys" title="Yeastie Boys">
+<br><br><br><br><br><br><br><br>
+**A deliciously irreverent brewing company**  
+
+<img style="float: left;" src="/img/partner/scala-radio-logo.png" alt="Scala Radio" title="Scala Radio">
+<br><br><br><br><br><br><br><br><br><br>
+**planetradio.co.uk/scala-radio**  
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
