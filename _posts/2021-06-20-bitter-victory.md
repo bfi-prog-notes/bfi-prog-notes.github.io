@@ -19,7 +19,7 @@ The just war against the Germans in North Africa in _Bitter Victory_ takes secon
 **David Thomson, _Sight and Sound_, Autumn 1979**<br>
 <br>
 
-**BITTER VICTORY  (Amère Victoire)**<br>
+**B V (Amère Victoire)**<br>
 _Directed by:_ Nicholas Ray<br>
 ©: Transcontinental Films<br>
 _Production Companies:_ Transcontinental Films, Productions – Robert Laff<br>
@@ -88,19 +88,13 @@ Wed 23 Jun 17:50<br>
 Thu 24 Jun 17:40<br>
 **Eraserhead**<br>
 Thu 24 Jun 21:10<br>
-**Alice in the Cities (Alice in den Städten)**<br>
-Fri 25 Jun 20:45<br>
-**Sweet Smell of Success**<br>
-Sat 26 Jun 11:40<br>
-**The Man Who Wasn’t There**<br>
+**Alice in the Cities (Alice in den Städten)**<br>Fri 25 Jun 20:45<br>**Sweet Smell of Success**<br>
+Sat 26 Jun 11:40<br>**The Man Who Wasn’t There**<br>
 Sun 27 Jun 18:20
 **Touch of Evil**<br>
-Sun 20 Jun 18:15<br>
-**The White Ribbon (Das weisse Band)**<br>
-Sat 26 Jun 16:30<br>
-**Persona**<br>
-Mon 28 Jun 21:00<br>
-**Man Hunt**<br>
-Tue 29 Jun 14:15<br>
-**Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London<br>
-Wed 30 Jun 17:45<br>
+Sun 20 Jun 18:15<br>**The White Ribbon (Das weisse Band)**<br>Sat 26 Jun 16:30<br>**Persona**<br>
+Mon 28 Jun 21:00<br>**Man Hunt**<br>
+Tue 29 Jun 14:15<br>**Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London<br>Wed 30 Jun 17:45<br>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI3ODIzNzE3NF19
+-->
