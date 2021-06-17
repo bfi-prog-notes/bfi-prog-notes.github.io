@@ -1,3 +1,15 @@
+---
+layout: post
+title: Ultraviolence
+published: true
+date: 2021-06-25
+readtime: true
+categories: ['RE-RELEASES']
+tags: [Documentary]
+metadata: 'UK, 2020, 75 mins<br> Director: Ken Fero'
+pdf: '2021-06-25-ultraviolence.pdf'
+---
+
 _Ultraviolence_ exposes state violence in a way that leaves a lasting, shocking impression. The documentary is a damning indictment of a racist system that has had fatal consequences. Director Ken Fero’s investigation exposes police brutality in the UK, recounting the stories of Christopher Alder, Brian Douglas, Jean Charles de Menezes, Paul Coker, Roger Sylvester, Harry Stanley and Nuur Saeed. Though the details differ substantially, there is one common thread: all had interactions with the police that ultimately ended in death.
 
 The film examines the circumstances surrounding these deaths, looking at cases between 1995 and 2006, and the surrounding campaigns for justice, tirelessly and lovingly carried out by the families.
@@ -16,8 +28,7 @@ _There’s a strong focus on prosecuting the police throughout the film, but mor
 
 The whole thing about prosecution is that police officers who go out and are armed in different ways, whether it’s physical force or guns or CS or taser – they have a duty of care. If they know that whatever they do, whatever action they take, they’re not going to have to go to court, they’re not going to have to defend their actions, then they’re not going to be in control. Some police officers will be out of control, and that’s what’s happened. We’ve had police officers who have gone out of control, because they know inside them that whatever they do, the state will protect them.
 
-So until there are prosecutions, and this is what the families want, it really doesn’t matter what critics or filmmakers or even the general public want. There’s nobody that should be listened to apart from the families, because they’re the ones that are experiencing it, they’re the ones that are suffering it.  
-If the families want prosecution of these police officers then that’s what everybody will have to work towards, and if anyone has an idea different than that then they’re against the struggle and not for it. It doesn’t matter who they are and what their ideas are, the centre of the political struggle is at the hands of the families and nobody else.
+So until there are prosecutions, and this is what the families want, it really doesn’t matter what critics or filmmakers or even the general public want. There’s nobody that should be listened to apart from the families, because they’re the ones that are experiencing it, they’re the ones that are suffering it. If the families want prosecution of these police officers then that’s what everybody will have to work towards, and if anyone has an idea different than that then they’re against the struggle and not for it. It doesn’t matter who they are and what their ideas are, the centre of the political struggle is at the hands of the families and nobody else.
 
 _There’s been debate about showing videos of police brutality. Some black people have said that it’s traumatising, and question why white people would need to physically see someone’s death in order to be incited to action. Personally I found parts of the film really difficult to watch. Can you talk me through your decision to include footage of the deaths of Christopher Alder and Paul Coker?_
 
@@ -36,12 +47,9 @@ It’s a very traumatic film. The images are traumatic, the stories are traumati
 There are all these lessons in history that can fill young people with hope, and so that’s what we wanted to do, to say to young people, ‘Don’t give up, the struggle is endless.’<br>
 **Ken Fero interviewed by Flora Spencer Grant, bfi.org.uk, 22 October 2020**<br>
 <br>
-<![endif]-->
 
-**Ultraviolence**
-
-(on-screen title **Ultra Violence**)
-
+**Ultraviolence**<br>
+(on-screen title **Ultra Violence**)<br>
 _Director_: Ken Fero  
 ©: Migrant Media  
 _a_ Migrant Media _production_  
@@ -49,85 +57,63 @@ _Presented by_: Migrant Media
 _Producer_: Ken Fero  
 _Production Accountant_: Nigel Wood  
 _Written by_: Tariq Mehmood  
-_Texts_: James Baldwin, Pier Paolo Pasolini,
-
-Susan Sontag, Malcolm X, Wim Wenders,
-
-Mao Tse-Tung  
-_Cinematography_: Koutaiba Al Janabi,
-
-Souleyman Garcia  
+_Texts_: James Baldwin, Pier Paolo Pasolini, Susan Sontag, Malcolm X, Wim Wenders, Mao Tse-Tung  
+_Cinematography_: Koutaiba Al Janabi, Souleyman Garcia  
 _Verite Camera_: Ken Fero  
 _Animation_: Ryan Potter  
 _Editor_: Steve Morris  
 _Sound Engineer_: Paul Adkins  
-_Editorial Consultant_: Tariq Mehmood
+_Editorial Consultant_: Tariq Mehmood<br>
 
-UK 2020
-
-75 mins
+UK 2020<br>
+75 mins<br>
 
 A Migrant Media release
+<br>
+**NEW RELEASES & RE-RELEASES**<br>
+**First Cow**<br>
+From Fri 28 May<br>
+**Surge**<br>
+From Fri 28 May<br>
+**After Love**<br>
+From Fri 4 Jun (Q&A with director Aleem Khan on Fri 4 Jun 17:30; Q&A with director Aleem Khan and actor Joanna Scanlan on Sun 13 Jun 18:40)<br>
+**Gunda**<br>
+From Fri 4 Jun<br>
+**Fargo**<br>
+From Fri 11 Jun<br>
+**The Reason I Jump**<br>
+From Fri 18 Jun<br>
+**Nashville**<br>
+From Fri 25 Jun<br>
+**Ultraviolence**<br>
+From Sat 26 Jun<br>
+Sat 26 June 14:20 + Q&A with director Ken Fero and contributor Janet Alder<br>
+**Supernova**<br>
+From Fri 2 Jul<br>
+**Another Round**<br>
+From Fri 9 Jul<br>
+**Jumbo**<br>
+From Fri 9 Jul<br>
+**Deerskin**<br>
+From Fri 16 Jul<br>
+**Girlfriends**<br>
+From Fri 23 Jul<br>
+**Mandabi**<br>
+From Fri 23 Jul<br>
+<br>
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
-NEW RELEASES & RE-RELEASES
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
-**First Cow**
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
 
-From Fri 28 May
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 
-**Surge**
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-From Fri 28 May
-
-**After Love**
-
-From Fri 4 Jun (Q&A with director Aleem Khan on Fri 4 Jun 17:30; Q&A with director Aleem Khan and actor Joanna Scanlan on Sun 13 Jun 18:40)
-
-**Gunda**
-
-From Fri 4 Jun
-
-**Fargo**
-
-From Fri 11 Jun
-
-**The Reason I Jump**
-
-From Fri 18 Jun
-
-**Nashville**
-
-From Fri 25 Jun
-
-**Ultraviolence**
-
-From Sat 26 Jun
-
-Sat 26 June 14:20 + Q&A with director Ken Fero and contributor Janet Alder
-
-**Supernova**
-
-From Fri 2 Jul
-
-**Another Round**
-
-From Fri 9 Jul
-
-**Jumbo**
-
-From Fri 9 Jul
-
-**Deerskin**
-
-From Fri 16 Jul
-
-**Girlfriends**
-
-From Fri 23 Jul
-
-**Mandabi**
-
-From Fri 23 Jul
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4NjE4NjA0XX0=
--->
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
