@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Women in the Films of Robert Altman: An Online Panel Discussion
+title: Women in the Films of Robert Altman – An Online Panel Discussion
 published: true
 date: 2021-06-17
 readtime: true
