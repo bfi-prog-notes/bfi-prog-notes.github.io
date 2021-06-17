@@ -1,3 +1,15 @@
+---
+layout: post
+title: Bitter Victory
+published: true
+date: 2021-06-20
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [War, Drama]
+metadata: 'France/USA 1957, 102 mins<br> Director: Nicholas Ray'
+pdf: '2021-06-20-bitter-victory.pdf'
+---
+
 Two officers leading a mission to attack Nazi headquarters in the Libyan desert come into conflict, due partly to sexual jealousy, partly to differences in capability and courage in facing the perils of war. Ray – always expressive with horizontals – and cinematographer Michel Kelber use the expanses of the ’Scope frame to turn the arid landscape into an arena of deadly rivalry and private anguish.<br>
 **bfi.org.uk**
 
@@ -7,86 +19,88 @@ The just war against the Germans in North Africa in _Bitter Victory_ takes secon
 **David Thomson, _Sight and Sound_, Autumn 1979**<br>
 <br>
 
-**BITTER VICTORY  (Amère Victoire)**
-_Directed by:_ Nicholas Ray
-©: Transcontinental Films
-_Production Companies:_ Transcontinental Films,
-Productions – Robert Laff
-_Presented by:_ Columbia Pictures Corporation
-_Executive Producer on Location:_ Janine Graetz
-_Produced by:_ Paul Graetz
-_Production Manager:_ Paul Joly *
-_Assistant Directors:_ Christian Ferry, Eddie Luntz
-_Continuity:_ Lucie Lichtig
-_Screenplay by:_ Rene Hardy, Nicholas Ray,
-Gavin Lambert
-_Additional Dialogue from Mr Hardy’s novel_ _by:_
-Paul Gallico
-_Director of Photography:_ Michel Kelber
-_Camera Operator:_ Wladimir Ivanov *
-_Editor:_ Leonide Azar
-_Art Director:_ Jean d’Eaubonne
-_Wardrobe:_ Jean Zay
-_Make-up:_ René Daudin *
-_Opticals:_ Lax
-_Music Composed and Conducted by:_
-Maurice Le Roux
-_Sound Engineer:_ Joseph de Bretagne
-_Sound by:_ Western Electric
-_Military Adviser:_ Major General C.M.F. White
-_Thanked in credits:_ The War Office,
-Her Majesty’s Forces in Libya
-_Studio:_ Studios de la Victorine (Nice)
+**BITTER VICTORY  (Amère Victoire)**<br>
+_Directed by:_ Nicholas Ray<br>
+©: Transcontinental Films<br>
+_Production Companies:_ Transcontinental Films, Productions – Robert Laff<br>
+_Presented by:_ Columbia Pictures Corporation<br>
+_Executive Producer on Location:_ Janine Graetz<br>
+_Produced by:_ Paul Graetz<br>
+_Production Manager:_ Paul Joly *<br>
+_Assistant Directors:_ Christian Ferry, Eddie Luntz<br>
+_Continuity:_ Lucie Lichtig<br>
+_Screenplay by:_ Rene Hardy, Nicholas Ray, Gavin Lambert<br>
+_Additional Dialogue from Mr Hardy’s novel_ _by:_ Paul Gallico<br>
+_Director of Photography:_ Michel Kelber<br>
+_Camera Operator:_ Wladimir Ivanov *<br>
+_Editor:_ Leonide Azar<br>
+_Art Director:_ Jean d’Eaubonne<br>
+_Wardrobe:_ Jean Zay<br>
+_Make-up:_ René Daudin *<br>
+_Opticals:_ Lax<br>
+_Music Composed and Conducted by:_ Maurice Le Roux<br>
+_Sound Engineer:_ Joseph de Bretagne<br>
+_Sound by:_ Western Electric<br>
+_Military Adviser:_ Major General C.M.F. White<br>
+_Thanked in credits:_ The War Office, Her Majesty’s Forces in Libya<br>
+_Studio:_ Studios de la Victorine (Nice)<br>
 
-**Cast**
-Richard Burton _(Captain Jimmy Leith)_
-Curd Jürgens _(Major David Brand)_
-Ruth Roman _(Jane Brand)_
-Raymond Pellegrin _(Mokrane)_
-Anthony Bushell _(Major General R.S. Paterson)_
-Sean Kelly _(Lieutenant Barton)_
-Christopher Lee _(Sergeant Barney)_
-Alfred Burke _(Lieutenant Colonel Michael Callander)_
-Andrew Crawford _(Private Roberts)_
-Raoul Delfosse _(Lieutenant Kassel)_
-Ramon de Larrocha _(Lieutenant Sanders)_
-Nigel Green _(Private Wilkins)_
-Harry Landis _(Private Browning)_
-Fred Matter _(Oberst Lutze)_
-Christian Melsen _(Private Abbot)_
-Ronan O’Casey _(Sergeant Dunnigan)_
-Sumner Williams _(Private Anderson)_
-Joe Davray _(Private Spicer)_
+**Cast**<br>
+Richard Burton _(Captain Jimmy Leith)_<br>
+Curd Jürgens _(Major David Brand)_<br>
+Ruth Roman _(Jane Brand)_<br>
+Raymond Pellegrin _(Mokrane)_<br>
+Anthony Bushell _(Major General R.S. Paterson)_<br>
+Sean Kelly _(Lieutenant Barton)_<br>
+Christopher Lee _(Sergeant Barney)_<br>
+Alfred Burke _(Lieutenant Colonel Michael Callander)_<br>
+Andrew Crawford _(Private Roberts)_<br>
+Raoul Delfosse _(Lieutenant Kassel)_<br>
+Ramon de Larrocha _(Lieutenant Sanders)_<br>
+Nigel Green _(Private Wilkins)_<br>
+Harry Landis _(Private Browning)_<br>
+Fred Matter _(Oberst Lutze)_<br>
+Christian Melsen _(Private Abbot)_<br>
+Ronan O’Casey _(Sergeant Dunnigan)_<br>
+Sumner Williams _(Private Anderson)_<br>
+Joe Davray _(Private Spicer)_<br>
 
-France/USA 1957©
-102 mins
+France/USA 1957©<br>
+102 mins<br>
 
-\* Uncredited
+\* Uncredited<br>
+<br>
 
-<![endif]-->
-
-**BIG SCREEN CLASSICS**
-**Bitter Victory**
-Sun 20 Jun 13:00; Mon 28 Jun 17:55
-**Cleo from 5 to 7** **Cléo de 5 à 7**
-Mon 21 Jun 14:30
-**Citizen Kane** Mon 21 Jun 20:45
-**Steamboat Bill, Jr.** Tue 22 Jun 18:30
-**The Big City (Mahanagar)** Wed 23 Jun 17:40
-**The Killers** + pre-recorded intro by Imogen Sara Smith, author of ‘In Lonely Places: Film Noir beyond the City’  Wed 23 Jun 17:50
-**The Gospel According to Matthew (Il vangelo secondo Matteo)** Thu 24 Jun 17:40
-**Eraserhead** Thu 24 Jun 21:10
-**Alice in the Cities (Alice in den Städten)**
-Fri 25 Jun 20:45
-**Sweet Smell of Success** Sat 26 Jun 11:40
-**The Man Who Wasn’t There** Sun 27 Jun 18:20
-**Touch of Evil** Sun 20 Jun 18:15
-**The White Ribbon (Das weisse Band)**
-Sat 26 Jun 16:30
-**Persona** Mon 28 Jun 21:00
-**Man Hunt** Tue 29 Jun 14:15
-**Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London
-Wed 30 Jun 17:45
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTUzMjc4NjBdfQ==
--->
+**BIG SCREEN CLASSICS**<br>
+**Bitter Victory**<br>
+Sun 20 Jun 13:00; Mon 28 Jun 17:55<br>
+**Cleo from 5 to 7** **Cléo de 5 à 7**<br>
+Mon 21 Jun 14:30<br>
+**Citizen Kane**<br>
+Mon 21 Jun 20:45<br>
+**Steamboat Bill, Jr.**<br>
+Tue 22 Jun 18:30<br>
+**The Big City (Mahanagar)**<br>
+Wed 23 Jun 17:40<br>
+**The Killers** + pre-recorded intro by Imogen Sara Smith, author of ‘In Lonely Places: Film Noir beyond the City’<br>
+Wed 23 Jun 17:50<br>
+**The Gospel According to Matthew (Il vangelo secondo Matteo)**<br> 
+Thu 24 Jun 17:40<br>
+**Eraserhead**<br>
+Thu 24 Jun 21:10<br>
+**Alice in the Cities (Alice in den Städten)**<br>
+Fri 25 Jun 20:45<br>
+**Sweet Smell of Success**<br>
+Sat 26 Jun 11:40<br>
+**The Man Who Wasn’t There**<br>
+Sun 27 Jun 18:20
+**Touch of Evil**<br>
+Sun 20 Jun 18:15<br>
+**The White Ribbon (Das weisse Band)**<br>
+Sat 26 Jun 16:30<br>
+**Persona**<br>
+Mon 28 Jun 21:00<br>
+**Man Hunt**<br>
+Tue 29 Jun 14:15<br>
+**Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London<br>
+Wed 30 Jun 17:45<br>
