@@ -1,1 +1,25 @@
 
+
+_We are delighted to announce that film critics Anne Billson and Hannah McGill, as well as season programmer Geoff Andrew, will join us for this discussion hosted by film programmer Rowan Woods._
+
+Robert Altman made films which were in many ways quite different from those of other directors – not only those who’d come before him, but those (mostly younger than he) who made their mark at around the same time in the late 1960s and early ’70s. This difference was not merely a matter of his innovative techniques and stylistic tropes, but of his films’ content and concerns. Unlike the ‘movie brats’, whose main interest seems to have revolved around revitalising the traditional Hollywood genres, Altman’s primary focus of attention was America itself; not just its inhabitants, but the political and social structures, the cultural values and the myths which circumscribed, constrained and shaped their lives. So it was perhaps unsurprising that Altman – whose early years had been, by his own admission, deeply influenced by the many women in his life (not only his mother and sisters, but his aunts, a cousin and the African-American maid who became his confidante and fostered his love of jazz) – should make so much space for women in his movies. There were, of course, the films centred on or populated mainly by women – _That Cold Day in the Park_, _Images_, _3 Women_, _Come Back to the 5 & Dime Jimmy Dean, Jimmy Dean_ and _Dr T & The Women_; but there were also movies like _Thieves like Us_, _Nashville_, _A Wedding_, _Short Cuts_, _Kansas City_, _Cookie’s Fortune,_ _Gosford Park_ and _A Prairie Home Companion_ in which the experiences, emotions and thoughts of women lie at the heart of the narrative. Few American directors of Altman’s era focused so frequently or so attentively on women characters; today’s discussion will look at how he depicted them during his long and prolific career as a filmmaker.  
+**Geoff Andrew, Programmer-at-large and curator of BFI Southbank’s  
+‘Robert Altman: American Outsider’ retrospective**
+<br><br>
+
+**About the panel**  
+
+**Anne Billson** is a novelist, film critic, photographer and international catsitter who has lived in London, Tokyo, Paris and Croydon, and who now lives in Antwerp. From 1992 to 2001 she was film critic of _The Sunday Telegraph_.  She is a regular contributor to _The Guardian_’s film pages and _Perspective_ magazine, and a member of the programming team at Offscreen Film Festival in Brussels.
+
+Her books include monographs on John Carpenter’s _The Thing_ (BFI Classics) and Tomas Alfredson’s _Let the Right One In_ (Auteur Publishing); _Cats on Film_ (‘the definitive work of feline film scholarship’); _Billson Film Database_; _Breast Man: A Conversation with Russ Meyer_. Her horror novels include _Suckers_, _Stiff Lips_, _The Ex_ and _The Coming Thing_. In 1993 she was named one of Granta’s ‘Best Young British Novelists’, and in 2015 was chosen by the BFI as one of ‘25 Female Film Critics Worth Celebrating’.
+
+**Hannah McGill** is a freelance writer, critic and editor based in Edinburgh.  She is a regular contributor to _Sight & Sound_ magazine, to BBC arts and culture programmes, and to other film and television publications, most recently _Off the Back of a Truck: Unofficial Contraband for the Sopranos Fan_ (Simon & Schuster). From 2006 to 2010 she was Artistic Director of the Edinburgh International Film Festival, and she has also taught Film Journalism and Film Studies at the University of Glasgow and Queen Margaret University, Edinburgh. She is the co-author and co-editor with Jonathan Barnstaple of the 2014 book _The 21st Century Novel: Notes from the Edinburgh World Writers’ Conference_ (Edinburgh University Press), and also writes short fiction and  
+radio drama.
+
+**Geoff Andrew** is Programmer-at-large for BFI Southbank. Formerly Head of Film Programme for BFI Southbank, he was also film editor of _Time Out_ magazine for many years, and is a regular contributor to _Sight & Sound_; he is also a programme advisor to the BFI London Film Festival. His numerous books on the cinema including studies of Nicholas Ray and the American ‘indie’ filmmakers of the 1980s and ‘90s, and BFI Classics monographs on Kieslowski’s _Three Colours Trilogy_ and Kiarostami’s _10_. He is the editor of _Sight & Sound_’s ‘Auteurs Series’ anthologies devoted to Jean-Luc Godard and Martin Scorsese. He has contributed to many anthologies and DVD extras, lectured widely on the cinema, and served on film festival juries in Cannes, Venice, Istanbul, Turin, Krakow, Morelia, Sarajevo and elsewhere. In 2009 the French government made him a _Chevalier de l’Ordre des Arts et des Lettres._ He writes on film, music and the other arts at **geoffandrew.com**
+
+**Rowan**  **Woods** is a programmer and editorial consultant. She currently works for the BFI London Film Festival and the British Council, where she manages the UK’s relationships with all the major international film festivals. She has previously worked in development, acquisitions, PR and as a TV and  
+radio producer.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ1ODM3NzQ3Nl19
+-->
