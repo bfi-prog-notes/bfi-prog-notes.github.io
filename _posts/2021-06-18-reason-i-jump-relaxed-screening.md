@@ -28,33 +28,34 @@ In order to assist with the accessibility and enjoyment of relaxed screenings of
 *Producers:* Jeremy Dear, Stevie Lee, Al Morrow<br>
 *Based on* The Reason I Jump *by:* Naoki Higashida<br>
 
-**Cast**
-Jim Fujiwara *(the boy)*
-Jordan O’Donegan *(voice of the book)*
-USA/UK 2020
-82 mins
+**Cast**<br>
+Jim Fujiwara *(the boy)*<br>
+Jordan O’Donegan *(voice of the book)*<br>
 
-A Picturehouse Entertainment release
+USA/UK 2020<br>
+82 mins<br>
+
+A Picturehouse Entertainment release<br>
 
 <img style="float: left;" src="/img/autistic_society.jpg">
 
 
-
-
-
-
-
-We welcome your feedback on this screening. Please share your thoughts on the message page:
-http://thereasonijumpfilm.com/watch/
-or to us at 
-Victoria.Humphreys@bfi.org.uk
-
-
+We welcome your feedback on this screening. Please share your thoughts on the message page<br>
+http://thereasonijumpfilm.com/watch/<br>
+or to us at <br>
+Victoria.Humphreys@bfi.org.uk<br>
 
 
 Find out more at
-bfi.org.uk/relaxed
+**bfi.org.uk/relaxed**
 
+
+The next relaxed screening is<br>
+**THE REASON I JUMP**<br>
+Tue 22 June 18.10 NFT3<br>
+
+
+BFI Southbank has been awarded the National Autistic Society's Autism Friendly Award.
 
 
 **Relaxed Screenings**
