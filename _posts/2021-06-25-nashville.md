@@ -42,38 +42,65 @@ Perhaps, then, _Nashville_’s near-isolation in terms of style, technique, tone
 **Geoff Andrew, _Sight & Sound_, June 2021**<br>
 <br>
 
-**NASHVILLE**<br>
+**NASHVILLE**<br>![endif]-->
+
+**Nashville**
+
 _Director:_ Robert Altman  
-_©/Production Companies:_ American Broadcasting Company, Paramount Pictures Corporation  
-_Executive Producers:_ Martin Starger, Jerry Weintraub  
+_©/Production Companies:_  
+American Broadcasting Company, 
+
+Paramount Pictures Corporation  
+_Executive Producers:_ Martin Starger, 
+
+Jerry Weintraub  
 _Producer:_ Robert Altman  
-_Associate Producers:_ Robert Eggenweiler, Scott Bushnell  
+_Associate Producers:_ Robert Eggenweiler, 
+
+Scott Bushnell  
 _Production Co-ordinator:_ Kelly Marshall  
 _Assistant to the Producer:_ Jac Cashin  
-_Production Assistants:_ Angel Dominguez, Ron Hecht, Steve Altman, Mark Eggenweiler, Maysie Hoy, Allan Highfill, Roger Frappier  
-_Assistant Directors:_ Tommy Thompson, Alan Rudolph  
+_Production Assistants:_ Angel Dominguez, 
+
+Ron Hecht, Steve Altman, 
+
+Mark Eggenweiler, Maysie Hoy, 
+
+Allan Highfill, Roger Frappier  
+_Assistant Directors:_ Tommy Thompson, 
+
+Alan Rudolph  
 _Script Supervisor:_ Joyce King  
 _Screenplay:_ Joan Tewkesbury  
 _Director of Photography:_ Paul Lohmann  
 _Camera Operator:_ Ed Koons  
 _Grips:_ Harry Rez, Eddie Lara  
-_Electrical Gaffers:_ Randy Glass, Mike Marlett  
+_Electrical Gaffers:_ Randy Glass, 
+
+Mike Marlett  
 _Editors:_ Sidney Levin, Dennis Hall  
-_Assistant Editors:_ Tony Lombardo, Tom Walls  
+_Assistant Editors:_ Tony Lombardo, 
+
+Tom Walls  
 _Property Master:_ Bob Anderson  
 _Wardrobe:_ Jules Melillo  
 _Make-up:_ Tommy Thompson  
 _Hairstylist:_ Ann Wadlington  
 _Title Design:_ Dan Perri  
-_Music Arranged and Supervised by:_ Richard Baskin  
-_Music Recordists:_ Gene Eichelberger, Johnny Rosen  
+_Music Arranged and Supervised by:_ 
+
+Richard Baskin  
+_Music Recordists:_ Gene Eichelberger, 
+
+Johnny Rosen  
 _Sound:_ Jim Webb, Chris McLaughlin  
 _Re-recording Mixer:_ Richard Portman  
 _Sound Editor:_ William A. Sawyer  
 _Assistant Sound Editor:_ Randy Kelley  
 _Political Campaign:_ Thomas Hal Phillips  
 
-**Cast**<br>
+**_Cast**<br>:_
+
 David Arkin _(Norman)_  
 Barbara Baxley _(Lady Pearl)_  
 Ned Beatty _(Delbert Reese)_  
@@ -102,9 +129,17 @@ James Dan Calvert _(Jimmy Reese)_
 Donna Denton _(Donna Reese)_  
 Merle Kilgore _(Trout)_  
 Carol McGinnis _(Jewel)_  
-Sheila Bayley, Patti Bryant _(Smokey Mountain Laurels)_  
+Sheila Bayley, Patti Bryant 
+
+_(Smokey Mountain Laurels)_  
 Richard Baskin _(Frog, piano player)_  
-Jonnie Barnett, Vassar Clements, Misty Mountain Boys, Sue Barton, Elliott Gould, Julie Christie, James Hill _(as themselves)_  
+Jonnie Barnett, Vassar Clements, 
+
+Misty Mountain Boys, Sue Barton, 
+
+Elliott Gould, Julie Christie, James Hill 
+
+_(as themselves)_  
 
 USA 1975©<br>
 160 mins<br>
@@ -164,3 +199,10 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+160 mins
+
+A BFI release
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTcyMTA2Mzg1MF19
+-->
