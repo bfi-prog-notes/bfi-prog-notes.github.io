@@ -27,8 +27,7 @@ Her books include monographs on John Carpenter’s _The Thing_ (BFI Classics) an
 
 **Geoff Andrew** is Programmer-at-large for BFI Southbank. Formerly Head of Film Programme for BFI Southbank, he was also film editor of _Time Out_ magazine for many years, and is a regular contributor to _Sight & Sound_; he is also a programme advisor to the BFI London Film Festival. His numerous books on the cinema including studies of Nicholas Ray and the American ‘indie’ filmmakers of the 1980s and ‘90s, and BFI Classics monographs on Kieslowski’s _Three Colours Trilogy_ and Kiarostami’s _10_. He is the editor of _Sight & Sound_’s ‘Auteurs Series’ anthologies devoted to Jean-Luc Godard and Martin Scorsese. He has contributed to many anthologies and DVD extras, lectured widely on the cinema, and served on film festival juries in Cannes, Venice, Istanbul, Turin, Krakow, Morelia, Sarajevo and elsewhere. In 2009 the French government made him a _Chevalier de l’Ordre des Arts et des Lettres._ He writes on film, music and the other arts at **geoffandrew.com**
 
-**Rowan Woods** is a programmer and editorial consultant. She currently works for the BFI London Film Festival and the British Council, where she manages the UK’s relationships with all the major international film festivals. She has previously worked in development, acquisitions, PR and as a TV and  
-radio producer.
+**Rowan Woods** is a programmer and editorial consultant. She currently works for the BFI London Film Festival and the British Council, where she manages the UK’s relationships with all the major international film festivals. She has previously worked in development, acquisitions, PR and as a TV and  radio producer.
 <br><br>
 
 **ROBERT ALTMAN: AMERICAN OUTSIDER**      
