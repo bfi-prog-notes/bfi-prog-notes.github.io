@@ -7,7 +7,7 @@ readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Documentary, Drama]
 metadata: 'USA/UK 2020, 82 mins<br> Director: Jerry Rothwell'
-pdf: '2021-06-18-reason-i-jump-relaxed-screening.pdf'
+pdf: '2021-06-18-reason-i-jump-relaxed- screening.pdf'
 ---
 
 ‘I think we can change the conversation around autism by being part of the conversation,’ says Ben on his letter board. Jerry Rothwell’s multi-award winning documentary is a significant step in the right direction. Immersive surround sound and intense images characterise this exploration of neurodiversity, based on Naoki Higashida’s best-selling book about his life with autism. The film challenges viewers to re-calibrate their reference points on behaviours and to imagine what it feels like to experience the world with senses at the forefront, rather than words. Travelling the world to meet Amrit, Joss, Ben, Emma and Jestina we find passionate, creative and thoughtful young people whose everyday experiences are bound by society.
@@ -84,5 +84,6 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 <li>Please ask us if you need help
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDg1MjkwNyw2OTI0MzYyMTJdfQ==
+eyJoaXN0b3J5IjpbMTEwNTE0OTk1MywxNzk0ODUyOTA3LDY5Mj
+QzNjIxMl19
 -->
