@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Reason I Jump
-published: false
+published: true
 date: 2021-06-18
 readtime: true
 categories: ['RELAXED SCREENING']
@@ -19,6 +19,43 @@ In order to assist with the accessibility and enjoyment of relaxed screenings of
 In order to assist with the accessibility and enjoyment of relaxed screenings of this title for our audiences, the film will be accompanied by a special subtitle stream which will include both subtitling of dialogue as well as warnings of potentially challenging or difficult moments within the film itself. These warnings will focus on moments that could be challenging from a visual, aural, and emotional perspective and will be accompanied by guidance text and symbols alerting viewers to the imminent approach of any such moments.<br><br>
 
 <img style="float: left;" src="/img/reason_i_jump.jpg">
+<br><br>
+
+**THE REASON I JUMP**<br>
+*Director:* Jerry Rothwell<br>
+*©:* The Reason I Jump Limited, Vulcan Productions Inc., The British Film Institute<br>
+*An* Ideas Room, Metfilm, Vulcan Productions and Runaway Fridge *production*<br>
+*Producers:* Jeremy Dear, Stevie Lee, Al Morrow<br>
+*Based on* The Reason I Jump *by:* Naoki Higashida<br>
+
+**Cast**
+Jim Fujiwara *(the boy)*
+Jordan O’Donegan *(voice of the book)*
+USA/UK 2020
+82 mins
+
+A Picturehouse Entertainment release
+
+<img style="float: left;" src="/img/autistic_society.jpg">
+
+
+
+
+
+
+
+We welcome your feedback on this screening. Please share your thoughts on the message page:
+http://thereasonijumpfilm.com/watch/
+or to us at 
+Victoria.Humphreys@bfi.org.uk
+
+
+
+
+Find out more at
+bfi.org.uk/relaxed
+
+
 
 **Relaxed Screenings**
 
