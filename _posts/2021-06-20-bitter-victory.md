@@ -56,14 +56,47 @@ Fred Matter _(Oberst Lutze)_
 Christian Melsen _(Private Abbot)_
 Ronan O’Casey _(Sergeant Dunnigan)_
 Sumner Williams _(Private Anderson)_
-
 Joe Davray _(Private Spicer)_
 
 France/USA 1957©
-
 102 mins
 
-* Uncredited
+\* Uncredited
+
+<![endif]-->
+
+**BIG SCREEN CLASSICS**
+**Bitter Victory**
+Sun 20 Jun 13:00; Mon 28 Jun 17:55
+**Cleo from 5 to 7** **Cléo de 5 à 7**
+Mon 21 Jun 14:30
+**Citizen Kane** Mon 21 Jun 20:45
+**Steamboat Bill, Jr.** Tue 22 Jun 18:30
+**The Big City (Mahanagar)** Wed 23 Jun 17:40
+**The Killers** + pre-recorded intro by Imogen Sara Smith, author of ‘In Lonely Places: Film Noir beyond the City’  Wed 23 Jun 17:50
+**The Gospel According to Matthew (Il vangelo secondo Matteo)** Thu 24 Jun 17:40
+**Eraserhead** Thu 24 Jun 21:10
+**Alice in the Cities (Alice in den Städten)**
+
+Fri 25 Jun 20:45
+
+**Sweet Smell of Success** Sat 26 Jun 11:40
+
+**The Man Who Wasn’t There** Sun 27 Jun 18:20
+
+**Touch of Evil** Sun 20 Jun 18:15
+
+**The White Ribbon (Das weisse Band)**
+
+Sat 26 Jun 16:30
+
+**Persona** Mon 28 Jun 21:00
+
+**Man Hunt** Tue 29 Jun 14:15
+
+**Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London
+
+Wed 30 Jun 17:45
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2NzcxODg2XX0=
+eyJoaXN0b3J5IjpbLTQ4MTgzMzU4OF19
 -->
