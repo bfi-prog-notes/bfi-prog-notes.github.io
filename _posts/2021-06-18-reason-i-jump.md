@@ -87,8 +87,59 @@ _A Picturehouse Entertainment release_
 **Relaxed Screenings: The Reason I Jump**
 
 Fri 18 Jun 14:30; Tue 22 Jun 18:10
-<br><Br<br>
+<br><br><br>
+<![endif]-->
+
+IN PERSON & PREVIEWS
+
+**Censor + Q&A with director Prano Bailey-Bond**
+
+Thu 1 Jul 20:45
+
+**Mark Kermode Live in 3D at the BFI**
+
+Mon 5 Jul 18:00
+
+**African Odysseys Present: European Premiere: The Milkmaid + Q&A with writer-director Desmond Ovbiagele and producer Oluseun Sowemimo**
+
+Sat 10 Jul 14:00
+
+**Black Lens Festival Opening Night: UK Premiere: How to Stop a Recurring Dream + Q&A with director Ed Morris and actor Ruby Barker** Fri 16 Jul 18:00
+
+**Woman with a Movie Camera Preview: Girlfriends**
+
+Fri 16 Jul 18:15
+
+REGULAR PROGRAMME
+
+**Member Picks: Rumble Fish**
+
+Fri 2 Jul 17:30
+
+**Projecting the Archive: Trottie True (aka The Gay Lady) + intro by BFI Curator Josephine Botting**
+
+Tue 6 Jul 18:00
+
+**Silent Cinema: Nell Gwyn + intro by BFI Curator Bryony Dixon**
+
+Sun 18 Jul 15:30
+
+**Seniors’ Free Archive Matinee: Cabin in the Sky+ intro by writer Marcus Powell**
+
+Mon 19 Jul 14:00
+
+**Experimenta: Born in Flames + discussion**
+
+Thu 22 Jul 18:00
+
+**Relaxed Screening (tbc)**
+
+Tue 27 Jul 18:00
+
+**Terror Vision: Children Shouldn’t Play with Dead Things**
+
+Thu 29 Jul 21:00
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODExNTY0OF19
+eyJoaXN0b3J5IjpbLTE4NTcxODg3NzVdfQ==
 -->
