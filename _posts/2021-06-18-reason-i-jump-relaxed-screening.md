@@ -39,6 +39,7 @@ A Picturehouse Entertainment release<br>
 
 <img style="float: left;" src="/img/autistic_society.png">
 
+BFI Southbank has been awarded the National Autistic Society's Autism Friendly Award.
 
 We welcome your feedback on this screening. Please share your thoughts on the message page<br>
 http://thereasonijumpfilm.com/watch/<br>
@@ -55,7 +56,6 @@ The next relaxed screening is<br>
 Tue 22 June 18.10 NFT3<br>
 
 
-BFI Southbank has been awarded the National Autistic Society's Autism Friendly Award.
 
 
 **Relaxed Screenings**
