@@ -1,6 +1,3 @@
-
-<![endif]-->
-
 The book _The Reason I Jump_, which was the springboard for this new film by Grierson Award-winning director Jerry Rothwell, was originally written by Higashida Naoki, a non-speaking autistic teen. Higashida describes his thoughts and perceptions with a vividness and expressiveness that defy common assumptions about the developmental disability, which is estimated to affect one in 270 people worldwide.
 
 First published in Japan in 2007, the book gained popularity in the west after being released in an English translation by David Mitchell – author of _Cloud Atlas_, 2004 –  and his wife Yoshida Keiko, themselves the parents of an autistic son. Though some reviewers and psychologists have questioned the methods behind it and challenged its authenticity, the book has nevertheless added impetus to a wider challenge to notions that have long caused the stigmatisation of the neurodivergent, including misconceptions about their emotional and imaginative capacities. In one of his comments in Rothwell’s film, Mitchell has a frank explanation for that ugly history: ‘Neurotypicals are rubbish at understanding anything that is not neurotypical.’
@@ -11,9 +8,8 @@ Whether such tactics really put viewers inside these subjects’ minds may be im
 
 Equally moving is the film’s portrayal of the love and dedication shown by these subjects’ families, who share the hope that the world will learn to regard their children with the empathy they deserve. Another gulf – that of the availability of resources and supports depending on where these families are in the world – is highlighted by the story of the parents of Jestina in Sierra Leone and their founding of their area’s first school for the autistic, part of their ongoing efforts to change the attitudes of neighbours who may perceive the challenging behaviour of an autistic child as evidence of demonic possession.
 
-It is arguable that Rothwell’s efforts to create sensory replicas of his subjects’ experiences replace one faulty representation with another; even if that’s so, his film is still a valuable and compelling addition to the growing canon of features and documentaries on the subject because of the ways it prioritises the perspectives of autistic individuals and their families. Indeed, the most thoughtful words here belong to Ben: ‘I think we can change the conversation around autism by being part of the conversation.’
-
-Jason Anderson, _Sight & Sound_, Summer 2021
+It is arguable that Rothwell’s efforts to create sensory replicas of his subjects’ experiences replace one faulty representation with another; even if that’s so, his film is still a valuable and compelling addition to the growing canon of features and documentaries on the subject because of the ways it prioritises the perspectives of autistic individuals and their families. Indeed, the most thoughtful words here belong to Ben: ‘I think we can change the conversation around autism by being part of the conversation.’<br>
+**Jason Anderson, _Sight & Sound_, Summer 2021**
 
 **Director Jerry Rothwell on ‘The Reason I Jump’**
 
@@ -32,7 +28,67 @@ When I was approached to direct it, I felt a strong affinity with the project. A
 When I first read Naoki’s book it took me by surprise. So fluent and perceptive was the writing of this teenager that I – like some of Naoki’s reviewers –wondered how much his original words had changed through the process of transcription and translation. It certainly ran against the established idea that autistic people lack a ‘theory of mind’, something that had never matched with my experience anyway. Meeting Naoki was revelatory too. His capacity to use his alphabet board unaided to type thoughtful answers to my questions – whilst at the same time being subject to distractions, impulses, and apparently random associations, was extraordinary to observe. During our conversation he would repeatedly stand up and go to the window before sitting down again to type the remainder of whatever sentence it was that had been interrupted by this impulse. When I asked him what it was that drew him to the window, he typed ‘I watch the wheels of cars’. When I asked why, he typed ‘They are like galaxies rotating’. Think of that, next time you’re waiting for a bus.
 
 Once you recognise the capacities of nonspeaking autistic people and how they have been systematically overlooked, then our terrible history – of institutionalisation, behaviour modification, killings – becomes all the more shocking. I hope the film can play a role in changing those misconceptions. The idea of neurodiversity – that we all perceive the world in subtly different ways–- is a powerful and important one, which I think helps build the bridges and solidarity we need for a more inclusive world.<br>
-**Jerry Rothwell, Production notes, 2019
+**Jerry Rothwell, Production notes, 2019**<br>
+<br>
+<![endif]-->
+
+**The Reason I Jump**
+
+_Director_: Jerry Rothwell  
+©: The Reason I Jump Limited,
+
+Vulcan Productions Inc., The British Film Institute  
+_an_ Ideas Room, Metfilm, Vulcan Productions _and_ Runaway Fridge _production_:
+
+_Made with the support of the_: BFI’s Film Fund  
+_International Sales_: Met Film  
+_Executive Producers_: Stewart Le Maréchal,
+
+Jonny Persey, Peter Webber, Jody Allen,
+
+Paul G. Allen, Rocky Collins, Jannat Gargi,
+
+Ruth Johnston, Carole Tomko  
+_Co-executive Producer_: Sara Edelson  
+_Executive Producer_: Lizzie Francke  
+_Producers_: Jeremy Dear, Stevie Lee, Al Morrow  
+_Co-producer_: Sam Payne  
+_Production Co-ordinator_: Karen Simon  
+_Location Managers_: Shernaz Italia,  
+Neelima Goel, Amadu Lamrana Bah  
+_Casting Director_: Gemma Sykes  
+_Based on_ The Reason I Jump _by_: Naoki Higashida  
+_Translated by_: David Mitchell, K.A. Yoshida  
+_Director of Photography_: Ruben Woodin Dechamps  
+_Graphics_: Hugo Moss  
+_Editor_: David Charap  
+_Titles_: Hugo Moss  
+_Colourist_: Gareth Bishop  
+_Composer_: Nainita Desai  
+_Music Supervisor_: Sarah Bridge  
+_Sound Designer_: Nick Ryan  
+_Sound Recordist_: Sara de Oliveira Lima  
+_Re-recording Mixer_: Ben Baird  
+_Supervising Sound Editor_: Nick Ryan  
+_Dolby Technical Engineer_: Rob Karlsson
+
+_Cast:_  
+Jim Fujiwara _(the boy)_  
+Jordan O’Donegan _(voice of the book)_
+
+USA/UK 2020
+
+82 mins
+
+_A Picturehouse Entertainment release_
+
+**Content warning**: this film contains flashing images.
+
+**Relaxed Screenings: The Reason I Jump**
+
+Fri 18 Jun 14:30; Tue 22 Jun 18:10
+<br><Br<br>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2MDUxNzQzXX0=
+eyJoaXN0b3J5IjpbMTM5ODExNTY0OF19
 -->
