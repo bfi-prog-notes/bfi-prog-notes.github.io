@@ -37,7 +37,7 @@ USA/UK 2020<br>
 
 A Picturehouse Entertainment release<br>
 
-<img style="float: left;" src="/img/autistic_society.jpg">
+<img style="float: left;" src="/img/autistic_society.png">
 
 
 We welcome your feedback on this screening. Please share your thoughts on the message page<br>
