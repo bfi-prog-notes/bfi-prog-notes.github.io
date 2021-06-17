@@ -18,7 +18,7 @@ In order to assist with the accessibility and enjoyment of relaxed screenings of
 
 In order to assist with the accessibility and enjoyment of relaxed screenings of this title for our audiences, the film will be accompanied by a special subtitle stream which will include both subtitling of dialogue as well as warnings of potentially challenging or difficult moments within the film itself. These warnings will focus on moments that could be challenging from a visual, aural, and emotional perspective and will be accompanied by guidance text and symbols alerting viewers to the imminent approach of any such moments.<br><br>
 
-<img style="float: left;" src="/img/partner/yeastie-boys-logo.png" alt="Yeastie Boys" title="Yeastie Boys">
+<img style="float: left;" src="/img/reason_i_jump.jpg">
 
 **Relaxed Screenings**
 
