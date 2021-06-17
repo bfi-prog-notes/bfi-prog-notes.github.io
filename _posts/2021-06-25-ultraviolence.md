@@ -47,9 +47,8 @@ It’s a very traumatic film. The images are traumatic, the stories are traumati
 There are all these lessons in history that can fill young people with hope, and so that’s what we wanted to do, to say to young people, ‘Don’t give up, the struggle is endless.’<br>
 **Ken Fero interviewed by Flora Spencer Grant, bfi.org.uk, 22 October 2020**<br>
 <br>
-
-**Ultraviolence**<br>
-(on-screen title **Ultra Violence**)<br>
+**ULTRAVIOLENCE**<br>
+(on-screen title **ULTRA VIOLENCE**)<br>
 _Director_: Ken Fero  
 ©: Migrant Media  
 _a_ Migrant Media _production_  
@@ -69,7 +68,7 @@ UK 2020<br>
 75 mins<br>
 
 A Migrant Media release
-<br>
+<br><br><br>
 **NEW RELEASES & RE-RELEASES**<br>
 **First Cow**<br>
 From Fri 28 May<br>
