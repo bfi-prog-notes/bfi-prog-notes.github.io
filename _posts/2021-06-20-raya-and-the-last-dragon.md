@@ -17,7 +17,98 @@ But along her journey, Raya will learn that it’ll take more than a dragon to s
 ‘You can’t really get to unity without trust, and for Raya it will take trusting a group of strangers if she is ever going to have a united Kumandra,’ adds Carlos López Estrada, who shares directing duties with Don Hall.
 
 Raya’s quest to find the last dragon, destroy the Druun and save her world is also a journey of self-discovery – a quest filled with danger, adventure, humor and new friendships, yet tinged with regret, loss and anger born of the need to avenge a wrong. What Raya learns, and comes to believe, is bigger than all of us: we can trust, wecan work together, we can unite. And, most importantly, we must.<br>
-**Production notes**
+**Production notes**<br>
+
+<![endif]-->
+
+**Raya and the Last Dragon**
+
+_Directed by_: Don Hall, Carlos López Estrada  
+_Director, Pre-production_: Dean Wellins  
+_Co-directed by_: Paul Briggs, John Ripa  
+©: Disney Enterprises Inc.  
+_Production Company_: Disney  
+_Created and Produced at_:  
+Walt Disney Animation Studios  
+_Executive Producers_: Jennifer Lee, Jared Bush  
+_Produced by_: Osnat Shurer, Peter Del Vecho  
+_Associate Producers_: Nathan Curtis,  
+Jennifer Christine Vera  
+_Production Manager_: Albert V. Ramirez  
+_Senior Production Supervisors_:  
+Kristin Leigh Yadamec, Ruth Strother  
+_Production Finance Manager_: Laurie Au  
+_Head of Post-production_: Bérénice Robinson  
+_Post-production Supervisor_: David Okey  
+_Technical Supervisor_: Kelsey Hurley  
+_Casting by_: Jamie Sparer Roberts  
+_Casting Associate_: Grace C. Kim  
+_Screenplay by_: Qui Nguyen, Adele Lim  
+_Story by_: Paul Briggs, Don Hall, Adele Lim,  
+Carlos López Estrada, Kiel Murray, Qui Nguyen, John Ripa, Dean Wellins  
+_Based on story ideas by_: Bradley Raymond  
+_And [Based on] Additional Story Contributions by_: Helen Kalafatic  
+_Head of Story_: Fawn Veerasunthorn  
+_Director of Cinematography Layout_: Rob Dressel  
+_Director of Cinematography Lighting_:  
+Adolph Lusinsky  
+_Visual Effects Supervisor_: Kyle Odermatt  
+_Heads of Animation_: Amy Lawson Smeed,  
+Malcon B. Pierce III  
+_Edited by_: Fabienne Rawley, Shannon Stein  
+_Production Designers_: Paul Felix,  
+Mingjue Helen Chen, Cory Loftis  
+_Art Director Characters_: Shiyoon Kim,  
+Ami Thompson  
+_Head of Characters and Technical Animation_: Carlos Cabral
+<![endif]-->
+
+_End Title Design_:  
+Mingjue Helen Chen, Rob Dressel, April Liu  
+_Original Score by_: James Newton Howard  
+_Vocal Soloist_: Loire Cotler  
+_Choir_: London Voices  
+_Orchestra Leader_: Bruce Dukov
+
+_Score Conducted and Orchestrated by_: Pete Anthony  
+_Sound Designer_: Shannon Mills  
+_Co-sound Designer_: Nia Hansen  
+_Re-recording Mixers_: David E. Fluhr, Gabriel Guy  
+_Original Dialogue Mixers_:  
+Gabriel Guy, Paul McGrath, Doc Kane  
+_Supervising Sound Editor_: Shannon Mills  
+_Supervising Dialogue Editor_: Brad Semenoff  
+_Sound Effects Editors_: Samson Neslund,  
+David C. Hughes  
+_Fight Reference Choreographer_: Maggie Macdonald  
+_Additional Fight Reference Choreography_: Qui Nguyen  
+_Kumandran Language Creator_: David J. Peterson
+
+_Voice Cast:_
+
+Kelly Marie Tran _(Raya)_  
+Awkwafina _(Sisu, the dragon)_  
+Izaac Wang _(Boun)_  
+Gemma Chan _(Namaari)_  
+Daniel Dae Kim _(Benja, Raya's father)_  
+Benedict Wong _(Tong, the giant)_  
+Jona Xiao _(young Namaari)_  
+Sandra Oh _(Virana, Raya's mother)_  
+Thalia Tran _(Little Noi)_  
+Lucille Soong _(Dang Hu, leader of Talon)_  
+Alan Tudyk _(Tuk Tuk)_  
+Gordon Ip _(merchant 2)_  
+Dichen Lachman _(General Atita__̄__ya, Spine warrior)_  
+Patti Harrison _(Tail chief)_  
+Jon 'Dumbfoundead' Park _(Chai)_  
+Sung Kang _(Dang Hai)_  
+Sierra Katow _(merchant, Fang officer)_  
+Ross Butler _(Spine chief)_  
+François Chau _(Wahn)_  
+Paul Yen _(merchant 1)_
+<![endif]-->
+
+USA 2021  107 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM0NTMxMjNdfQ==
+eyJoaXN0b3J5IjpbODI5NTI5NTA0XX0=
 -->
