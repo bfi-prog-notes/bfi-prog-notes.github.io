@@ -106,9 +106,34 @@ Sierra Katow _(merchant, Fang officer)_
 Ross Butler _(Spine chief)_  
 François Chau _(Wahn)_  
 Paul Yen _(merchant 1)_
+
+
+USA 2021<br> 
+107 mins
+<br><br>
 <![endif]-->
 
-USA 2021  107 mins
+BFI FAMILIES
+
+**Popeye**
+
+Sun 13 Jun 12:50; Tue 29 Jun 17:50
+
+**Wolfwalkers + pre-recorded Q&A with directors Tomm More and Ross Stewart from the 2020 BFI London Film Festival**
+
+Sat 19 Jun 12:10
+
+**Raya and the Last Dragon**
+
+Sun 20 Jun 12:10
+
+**Preview: The Croods: A New Age**
+
+Sunday 11 Jul 12:00
+
+**Pinocchio**
+
+Sunday 25 Jul 11:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5NTI5NTA0XX0=
+eyJoaXN0b3J5IjpbLTc2Mzc2MTM0M119
 -->
