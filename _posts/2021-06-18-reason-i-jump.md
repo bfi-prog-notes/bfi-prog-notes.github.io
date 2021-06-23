@@ -39,7 +39,28 @@ When I was approached to direct it, I felt a strong affinity with the project. A
 
 When I first read Naoki’s book it took me by surprise. So fluent and perceptive was the writing of this teenager that I – like some of Naoki’s reviewers –wondered how much his original words had changed through the process of transcription and translation. It certainly ran against the established idea that autistic people lack a ‘theory of mind’, something that had never matched with my experience anyway. Meeting Naoki was revelatory too. His capacity to use his alphabet board unaided to type thoughtful answers to my questions – whilst at the same time being subject to distractions, impulses, and apparently random associations, was extraordinary to observe. During our conversation he would repeatedly stand up and go to the window before sitting down again to type the remainder of whatever sentence it was that had been interrupted by this impulse. When I asked him what it was that drew him to the window, he typed ‘I watch the wheels of cars’. When I asked why, he typed ‘They are like galaxies rotating’. Think of that, next time you’re waiting for a bus.
 
-Once you recognise the capacities of nonspeaking autistic people and how they have been systematically overlooked, then our terrible history – of institutionalisation, behaviour modification, killings – becomes all the more shocking. I hope the film can play a role in changing those misconceptions. The idea of neurodiversity – that we all perceive the world in subtly different ways–- is a powerful and important one, which I think helps build the bridges and solidarity we need for a more inclusive world.<br>
+Once you recognise the capacities of nonspeaking autistic people and how they have been systematically overlooked, then our terrible history – of institutionalisation, behaviour modification, killings – becomes all the more shocking. I hope the film can play a role in changing those misconceptions. The idea of neurodiversity – that we all perceive the world in subtly different ways–- is a powerful and important one, which I think helps build the bridges and solidarity we need for a more inclusive world.
+
+
+
+_What were the challenges and opportunities of using Naoki’s groundbreaking book as a foundation for the film?_
+
+In previous documentaries, I’ve tended to adopt a method which first finds a shape for the film and then looks for narrative in whatever situation I’m filming, gradually building a more and more detailed structure through the production process.
+
+But the book _The Reason I Jump_ is organised as answers to a set of 58 questions about autism. It has no plot and few characters other than Naoki and his family.  It’s beautifully written, but initially the idea of turning it into a film felt quite daunting – especially as the option of making the film about Naoki wasn’t available, because Naoki didn’t want to appear on screen; he wanted his writing to stand for itself.
+
+So the film takes the book as a starting point and riffs on its themes and ideas.  
+In the end, this became a strength and led perhaps to a more unusual film than an issue-led biopic. It felt to me that the film’s structure should be a developing revelation of Naoki’s ideas about autism whilst immersing us in the everyday experiences of other nonspeaking autistic people in different parts of the world. Naoki’s words apply to himself – and as he says himself, he can’t claim to speak for all autistic people – but they do provide a nudge to think about the things we’re seeing on screen in a different way.
+
+Not having a single story was a first for me – and really changed the production process. This process felt much more instinctive and responsive to the immediacy of whatever we were filming. There were plenty of dead ends, but as we developed the film a shape emerged: one which took an audience from an intense visual and auditory world to one of sensory overload through to finding a way to communicate, and to fighting stigma. I thought it was important to explore experiences of autism in the global south and so sought out contributors in Africa and India as well as the US and UK and, rather than intercut their stories, I gave them each a section where we can spend time with and get to know them.
+
+_Can you tell us about the research process?_
+
+Our research took us into the literature of brilliant writing by other nonspeaking autistics – Tito Mukhopadjyay, Ido Kedar, Amy Sequenzia – and also to first-hand accounts about sensory experience from other autistic writers – such as Donna Williams’ _Autism and Sensing_ and Temple Grandin’s _Thinking in Pictures_. There are common themes to this writing – describing a world in which removing the neurotypical filters points us towards aspects of human experience that many of us only half sense. Those ideas are echoed in some of the neuroscience around autism – and we spoke to Prof. Henry Markram about his ‘Intense World’ theory and looked at research around language and motor-sensory issues. We tried to build as neurodiverse a production team as we could – and also drew on an advisory group of autistic people who were incredibly supportive and helpfully provocative at key moments.
+
+_What do you hope the film will achieve?_
+
+I hope the film is part of a shift in the way we see autistic people who don’t communicate in a neurotypical way – away from the simplistic and damaging ideas of ‘mild’ and ‘severe’, ‘high functioning’ and ‘low functioning’ and towards an understanding of the constellation of individual strengths and challenges people face. I feel that all of us can identify with some of the stars in that constellation, and that recognising this can help build solidarity with and support for people, and construct a more ‘autism friendly’ world.<br>
 **Jerry Rothwell, Production notes, 2019**<br>
 <br>
 
@@ -133,3 +154,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTcyNTIwNTk5OF19
+-->
