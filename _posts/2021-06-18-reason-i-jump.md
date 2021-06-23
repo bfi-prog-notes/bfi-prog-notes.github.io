@@ -126,7 +126,7 @@ An individual who is an unreliable speaker is not always able to use speech to c
 _The Human’s Guide to Supporting Autistics_<br>
 Written by Autistic Subject Matter Experts:  Adam Farrell, Alex Cormaney, Charlie Colligan, David Knight, Gordy Baylinson, Ian Nordling,  Nick Moore
 
-Autistic Self-Advocacy Network (https://autisticadvocacy.org) ‘The Significance of Semantics: Person-First Language: Why It Matters’<br><br>
+Autistic Self-Advocacy Network (https://autisticadvocacy.org) ‘The Significance of Semantics: Person-First Language: Why It Matters’<br><br><br>
 
 
 
