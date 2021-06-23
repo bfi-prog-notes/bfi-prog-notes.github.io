@@ -116,49 +116,36 @@ Look at ‘Understanding the Spectrum’ (https://the-art-of-autism.com) to see 
 **Apraxia**  
 Apraxia  is the inability to initiate, stop or slow down a sequence of movements on demand. It affects the motor planning process it takes to execute movement.
 
-**D****ysregulation**  
+**Dysregulation**  
 When an autistic is triggered by an external or internal stimulus that causes their baseline level of a regulated state to become no longer balanced.
 
-**Identity-first Language**
-
+**Identity-first Language**  
 Identify-first language refers to identifying language where the condition, in this case ‘autism’, comes before other descriptors, like ‘autistic person’ or ‘Deaf person’. Many autistic people prefer identity-first language in contrast to people-first language, which places the person before the condition or diagnosis, as in, ‘person with a disability’. As with any group that faces stigma or marginalisation, the best way to get identity language ‘right’ is to ask and then honour a person’s individual preference with regard to how they identify themselves.
 
-**Minimally Speaking**
-
+**Minimally Speaking**  
 An individual who is minimally speaking can communicate longer and deeper thoughts by effectively pointing to letters in order to spell, and can communicate some basics with speech.
 
-**Nonspeaking**
+**Nonspeaking**  
+Nonspeaking refers to individuals who do not have speech as a reliable or consistently reliable means to communicate their true thoughts. Use of speech is a motor skill, not a measure of an individual’s capacity for comprehension or communication. ‘Nonspeaking autistic’ is the language preference of the people whose stories are being told in  _The Reason I Jump_. It is identify-first and is preferred over ‘non-verbal’, since ‘verbal’ in Latin translates to ‘without words’. Though they do not use speech to communicate, the people in the book and the film do have a lot to say.
 
-Nonspeaking refers to individuals who do not have speech as a reliable or consistently reliable means to communicate their true thoughts. Use of speech is a motor skill, not a measure of an individual’s capacity for comprehension or communication.
-
-‘Nonspeaking autistic’ is the language preference of the people whose stories are being told in  
-_The Reason I Jump_. It is identify-first and is preferred over ‘non-verbal’, since ‘verbal’ in Latin translates to ‘without words’. Though they do not use speech to communicate, the people in the book and the film do have a lot to say.
-
-**Neurodiversity**
-
+**Neurodiversity**  
 This term refers to the myriad ways in which brains function differently from what is considered ‘typical’, without assigning judgement to those differences. Autism is one form of neurodiversity.
 
-**Neurotypical**
-
+**Neurotypical**  
 Refers to brains that function within the ranges of what is statistically considered to be within the range of ‘normal’.
 
-**Unreliably speaking**
-
+**Unreliably speaking**  
 An individual who is an unreliable speaker is not always able to use speech to communicate everything they want to say but wants others to know that they appreciate their effort to connect and recognise that they can’t always know if there is more to share.
 
 **References**
 
-_The Human’s Guide to Supporting Autistics_
+_The Human’s Guide to Supporting Autistics_<br>
+Written by Autistic Subject Matter Experts:  Adam Farrell, Alex Cormaney, Charlie Colligan, David Knight, Gordy Baylinson, Ian Nordling,  Nick Moore
 
-Written by Autistic Subject Matter Experts:  
-Adam Farrell, Alex Cormaney, Charlie Colligan, David Knight, Gordy Baylinson, Ian Nordling,  
-Nick Moore
+Autistic Self-Advocacy Network (https://autisticadvocacy.org) ‘The Significance of Semantics: Person-First Language: Why It Matters’<br>
 
-Autistic Self-Advocacy Network (https://autisticadvocacy.org) ‘The Significance of Semantics: Person-First Language: Why It Matters’
 
-**Relaxed Screenings: The Reason I Jump**<br>
-Fri 18 Jun 14:30; Tue 22 Jun 18:10<br>
-<br>
+
 
 **IN PERSON & PREVIEWS**<br>
 **Censor + Q&A with director Prano Bailey-Bond**<br>
@@ -206,5 +193,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjczNDAxNl19
+eyJoaXN0b3J5IjpbMjczNzg1MDldfQ==
 -->
