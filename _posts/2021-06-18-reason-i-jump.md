@@ -105,6 +105,57 @@ _A Picturehouse Entertainment release_<br>
 
 **Content warning**: this film contains flashing images.
 
+
+**Glossary**
+
+**Autism**  
+Autism is a neurological variation that occurs in about one percent of the population. According to the National Institute of Mental Health, Autism Spectrum Disorder is a group of complex disorders related to brain development. The word ‘spectrum’ is used because there is no set characteristic, gene, or biological marker expressed consistently by every autistic person.  Common markers of autism include variations in communication and social interaction, and repetitive patterns of behaviour, interests or activities. However, every autistic individual is different. The formal diagnosis of ASD has changed significantly with research and science, and will continue to evolve. 
+
+Look at ‘Understanding the Spectrum’ (https://the-art-of-autism.com) to see a visual representation of the spectrum.
+
+**Apraxia**  
+Apraxia  is the inability to initiate, stop or slow down a sequence of movements on demand. It affects the motor planning process it takes to execute movement.
+
+**D****ysregulation**  
+When an autistic is triggered by an external or internal stimulus that causes their baseline level of a regulated state to become no longer balanced.
+
+**Identity-first Language**
+
+Identify-first language refers to identifying language where the condition, in this case ‘autism’, comes before other descriptors, like ‘autistic person’ or ‘Deaf person’. Many autistic people prefer identity-first language in contrast to people-first language, which places the person before the condition or diagnosis, as in, ‘person with a disability’. As with any group that faces stigma or marginalisation, the best way to get identity language ‘right’ is to ask and then honour a person’s individual preference with regard to how they identify themselves.
+
+**Minimally Speaking**
+
+An individual who is minimally speaking can communicate longer and deeper thoughts by effectively pointing to letters in order to spell, and can communicate some basics with speech.
+
+**Nonspeaking**
+
+Nonspeaking refers to individuals who do not have speech as a reliable or consistently reliable means to communicate their true thoughts. Use of speech is a motor skill, not a measure of an individual’s capacity for comprehension or communication.
+
+‘Nonspeaking autistic’ is the language preference of the people whose stories are being told in  
+_The Reason I Jump_. It is identify-first and is preferred over ‘non-verbal’, since ‘verbal’ in Latin translates to ‘without words’. Though they do not use speech to communicate, the people in the book and the film do have a lot to say.
+
+**Neurodiversity**
+
+This term refers to the myriad ways in which brains function differently from what is considered ‘typical’, without assigning judgement to those differences. Autism is one form of neurodiversity.
+
+**Neurotypical**
+
+Refers to brains that function within the ranges of what is statistically considered to be within the range of ‘normal’.
+
+**Unreliably speaking**
+
+An individual who is an unreliable speaker is not always able to use speech to communicate everything they want to say but wants others to know that they appreciate their effort to connect and recognise that they can’t always know if there is more to share.
+
+**References**
+
+_The Human’s Guide to Supporting Autistics_
+
+Written by Autistic Subject Matter Experts:  
+Adam Farrell, Alex Cormaney, Charlie Colligan, David Knight, Gordy Baylinson, Ian Nordling,  
+Nick Moore
+
+Autistic Self-Advocacy Network (https://autisticadvocacy.org) ‘The Significance of Semantics: Person-First Language: Why It Matters’
+
 **Relaxed Screenings: The Reason I Jump**<br>
 Fri 18 Jun 14:30; Tue 22 Jun 18:10<br>
 <br>
@@ -155,5 +206,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTIwNTk5OF19
+eyJoaXN0b3J5IjpbMjA0NjczNDAxNl19
 -->
