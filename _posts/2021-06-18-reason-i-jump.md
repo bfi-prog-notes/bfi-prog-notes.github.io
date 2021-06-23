@@ -34,8 +34,7 @@ In previous documentaries, I’ve tended to adopt a method which first finds a s
 
 But the book _The Reason I Jump_ is organised as answers to a set of 58 questions about autism. It has no plot and few characters other than Naoki and his family.  It’s beautifully written, but initially the idea of turning it into a film felt quite daunting – especially as the option of making the film about Naoki wasn’t available, because Naoki didn’t want to appear on screen; he wanted his writing to stand for itself.
 
-So the film takes the book as a starting point and riffs on its themes and ideas.  
-In the end, this became a strength and led perhaps to a more unusual film than an issue-led biopic. It felt to me that the film’s structure should be a developing revelation of Naoki’s ideas about autism whilst immersing us in the everyday experiences of other nonspeaking autistic people in different parts of the world. Naoki’s words apply to himself – and as he says himself, he can’t claim to speak for all autistic people – but they do provide a nudge to think about the things we’re seeing on screen in a different way.
+So the film takes the book as a starting point and riffs on its themes and ideas.  In the end, this became a strength and led perhaps to a more unusual film than an issue-led biopic. It felt to me that the film’s structure should be a developing revelation of Naoki’s ideas about autism whilst immersing us in the everyday experiences of other nonspeaking autistic people in different parts of the world. Naoki’s words apply to himself – and as he says himself, he can’t claim to speak for all autistic people – but they do provide a nudge to think about the things we’re seeing on screen in a different way.
 
 Not having a single story was a first for me – and really changed the production process. This process felt much more instinctive and responsive to the immediacy of whatever we were filming. There were plenty of dead ends, but as we developed the film a shape emerged: one which took an audience from an intense visual and auditory world to one of sensory overload through to finding a way to communicate, and to fighting stigma. I thought it was important to explore experiences of autism in the global south and so sought out contributors in Africa and India as well as the US and UK and, rather than intercut their stories, I gave them each a section where we can spend time with and get to know them.
 
@@ -127,7 +126,7 @@ An individual who is an unreliable speaker is not always able to use speech to c
 _The Human’s Guide to Supporting Autistics_<br>
 Written by Autistic Subject Matter Experts:  Adam Farrell, Alex Cormaney, Charlie Colligan, David Knight, Gordy Baylinson, Ian Nordling,  Nick Moore
 
-Autistic Self-Advocacy Network (https://autisticadvocacy.org) ‘The Significance of Semantics: Person-First Language: Why It Matters’<br>
+Autistic Self-Advocacy Network (https://autisticadvocacy.org) ‘The Significance of Semantics: Person-First Language: Why It Matters’<br><br>
 
 
 
