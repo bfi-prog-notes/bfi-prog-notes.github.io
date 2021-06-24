@@ -35,6 +35,7 @@ Philip Marlowe’s situation might be relevant here, since he seems to be the Al
 **Les Boréades**
 
 Altman’s characteristically inventive contribution to producer Don Boyd’s opera compilation film _Aria_ centres on an audience enjoying (?) Rameau’s music.
+<br><br>
 
 
 
@@ -48,7 +49,7 @@ _Editor:_ Jennifer Augé
 _Production Designers:_ Scott Bushnell, John Hay  
 
 USA/UK 1987  
-10 mins<br>
+10 mins<br><br>
 
 **BEYOND THERAPY**<br>
 _Directed by_: Robert Altman  
