@@ -37,7 +37,7 @@ Altman’s characteristically inventive contribution to producer Don Boyd’s op
 **Les Boréades [segment from Aria]**  
 _Directed by:_ Robert Altman  
 _Associate Producer:_ Scott Bushnell  
-_Written by:_ Robert Altman;
+_Written by:_ Robert Altman
 _Director of Photography:_ Pierre Mignot
 
 _Special Stills Photography:_ David Bailey
@@ -137,5 +137,5 @@ USA 1986©
 
 93 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM2OTc0NDhdfQ==
+eyJoaXN0b3J5IjpbMTc0ODM1NTA5M119
 -->
