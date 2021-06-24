@@ -32,8 +32,7 @@ What this peculiar little pirouette, this double-handedness about the setting, d
 Philip Marlowe’s situation might be relevant here, since he seems to be the Altman character who was previously most out of sync with reality, and who therefore might have benefited most from therapy. And the new film does at one point deliver the therapeutic goods, when Bob, driven to distraction by Bruce’s habit of complicating their life together with women, is left off in Charlotte’s consulting room. She, responding in her apparently usual oblivious fashion with a vituperative tirade about gays, provokes him into ‘shooting’ her with the blanks in a starter’s pistol. Immediately claiming this as a breakthrough, she takes him off to Les Bouchons, and puts her fingers in her ears as Bob blazes away at Bruce and Prudence, the scene turning into a delightfully funny slow-motion orgy of seeming violence as therapeutic reality and movie fantasy mesh.<br>
 **Richard Combs, _Sight and Sound_, Autumn 1987**
 
-**Les Boréades**
-
+**Les Boréades**  
 Altman’s characteristically inventive contribution to producer Don Boyd’s opera compilation film _Aria_ centres on an audience enjoying (?) Rameau’s music.
 <br><br>
 
