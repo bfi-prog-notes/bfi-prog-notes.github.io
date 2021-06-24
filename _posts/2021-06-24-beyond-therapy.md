@@ -37,21 +37,16 @@ Altman’s characteristically inventive contribution to producer Don Boyd’s op
 **Les Boréades [segment from Aria]**  
 _Directed by:_ Robert Altman  
 _Associate Producer:_ Scott Bushnell  
-_Written by:_ Robert Altman
-_Director of Photography:_ Pierre Mignot
+_Written by:_ Robert Altman  
+_Director of Photography:_ Pierre Mignot  
+_Special Stills Photography:_ David Bailey  
+_Editor:_ Jennifer Augé  
+_Production Designers:_ Scott Bushnell, John Hay  
 
-_Special Stills Photography:_ David Bailey
-
-_Editor:_ Jennifer Augé
-
-_Production Designers:_ Scott Bushnell, John Hay
-
-USA/UK 1987
-
+USA/UK 1987  
 10 mins
 
-**Beyond Therapy**
-
+**BEYOND THERAPY**<br>
 _Directed by_: Robert Altman  
 ©_/Production Company_: New World Pictures  
 _Production Company_: Sandcastle 5 Productions  
@@ -77,8 +72,7 @@ _Camera Operator_: Jean Lépine
 _1st Assistant Camera_: Nicolas Brunet  
 _2nd Assistant Camera_: Natalie Mauger  
 _Gaffer_: Pierre Abraham  
-_Electricians_: Michel Conckel, Pierre Darmon,  
-Serge-Antoine Crosy  
+_Electricians_: Michel Conckel, Pierre Darmon,  Serge-Antoine Crosy  
 _Key Grip_: Charles Freess  
 _Grips_: Jean-Yves Freess, Jacques Stricanne  
 _Stills Photography_: R. Reed Altman  
@@ -93,8 +87,7 @@ _Property Master_: Roland Jacob
 _Costume Designer_: John Hay  
 _Costumer_: Claudia Périno  
 _Wardrobe Assistant_: Brigitte Le Brigand  
-_Make-up_: Roland Rebeiro de Abreu,  
-Dominique de Vorges  
+_Make-up_: Roland Rebeiro de Abreu,  Dominique de Vorges  
 _Hair_: Alain Bernard  
 _Titles_: Euro-Titres  
 _Music by_: Gabriel Yared  
@@ -112,7 +105,7 @@ _Sound Editor_: Françoise Coispeau
 _Foley_: Jean-Pierre Lelong  
 _Foley Assistants_: Mario Melchiori, Jean Duguet
 
-_  
+
   
 Cast:_
 
@@ -137,5 +130,5 @@ USA 1986©
 
 93 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODM1NTA5M119
+eyJoaXN0b3J5IjpbNTg3OTAwMDkyXX0=
 -->
