@@ -106,9 +106,7 @@ _Foley_: Jean-Pierre Lelong
 _Foley Assistants_: Mario Melchiori, Jean Duguet
 
 
-  
-Cast:_
-
+**Cast**  
 Julie Hagerty _(Prudence)_  
 Jeff Goldblum _(Bruce)_  
 Glenda Jackson _(Charlotte Wallace)_  
@@ -126,9 +124,8 @@ Gilbert Blin, Vincent Longuemare _(waiters)_
 Françoise Armel, Sylvie Lenoir, Annie Monnier, Jeanne Cellard, Hélène Constantine, Yvette Prayer, Joan Tyrrell _(Zizi’s friends)_  
 Debbie de Coudreaux  *
 
-USA 1986©
-
+USA 1986©  
 93 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3OTAwMDkyXX0=
+eyJoaXN0b3J5IjpbLTEyNDUzMjc3MTFdfQ==
 -->
