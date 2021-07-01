@@ -29,22 +29,30 @@ Eisenstein never saw Odessa or the steps again for nine years. In 1934 when he d
 **National Film Theatre programme notes**
 <br><br>
 
+<![endif]-->
 
+**BATTLESHIP POTEMKIN (BRONENOSETS POTEMKINronenosets Potemkin)**  
 
-**BATTLESHIP POTEMKIN (BRONENOSETS POTEMKIN)**  
 _Director:_ Sergei M. Eisenstein  
 _Co-director:_ Grigori V. Aleksandrov  
 _Production:_ First Studio Goskino  
 _Production Manager:_ Yakov Bliokh  
-_Assistant Directors:_ Maksim Straukh, Mikhail S. Gomorov, Aleksandr I. Levchin, Aleksandr Antonov  
+_Assistant Directors:_ Maksim Straukh, 
+
+Mikhail S. Gomorov, Aleksandr I. Levchin, 
+
+Aleksandr Antonov  
 _Screenplay:_ Sergei M. Eisenstein  
-_From the screenplay for_ 1905 God _by:_ Nina Agadjanova, Sergei M. Eisenstein  
+_From the screenplay for_ 1905 God _by:_ 
+
+Nina Agadjanova, Sergei M. Eisenstein  
 _Director of Photography:_ Eduard Tisse  
 _Assistant Photographer:_ Vladimir Popov  
 _Editor:_ Sergei M. Eisenstein  
 _Art Director:_ Vasili Rakhals  
 _Intertitles:_ Nikolai Asseyev, S.M. Tretiakov  
-**Cast**  
+**_Cast**  :_
+
 Aleksandr Antonov _(Vakulinchuk, sailor)_  
 Vladimir Barsky _(Captain Golikov)_  
 Grigori V. Aleksandrov _(Lieutenant Guiliarovsky)_  
@@ -59,13 +67,16 @@ Propkopenko _(Aba’s mother)_
 Korobei _(sailor with no legs)_  
 N. Poltavtseva _(teacher with pince-nez)_  
 Zerenin _(student)_  
-Konstantin Feldman _(himself, Odessa revolutionary)_  
+Konstantin Feldman 
+
+_(himself, Odessa revolutionary)_  
 Glotov _(anti-Semitic provocateur)_  
 Repnikova _(woman on steps)_  
 Maksim Straukh  
 Andrei Fait  
 
 USSR 1925  
+
 76 mins
 
 With Edmund Meisel score
@@ -75,5 +86,5 @@ With Edmund Meisel score
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwODUyMjg0XX0=
+eyJoaXN0b3J5IjpbLTE4NDk0ODEzODQsMjcwODUyMjg0XX0=
 -->
