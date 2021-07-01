@@ -8,7 +8,7 @@ categories: ['T A P E PRESENTS<br> BUT WHERE ARE YOU REALLY FROM &#63']
 tags: [Drama]
 metadata: 'UK, 1981, 105 mins<br> Director: Menelik Shabazz'
 pdf: '2021-07-03-burning-an-illusion.pdf'
-<![endif]--->
+---
 
 **SPOILER WARNING The following notes give away some of the plot.**
 
@@ -227,7 +227,7 @@ Sat 3 Jul 17:30; Tue 20 Jul 20:30<br>
 
 Sun 4 Jul 18:20; Mon 19 Jul 20:40<br>
 
-**Eyimofe (****This Is My Desire)**<br>
+**Eyimofe (This Is My Desire)**<br>
 
 Fri 9 Jul 17:40<br>
 
@@ -239,7 +239,7 @@ Sat 10 Jul 20:50; Sat 24 Jul 11:40<br>
 
 Sun 11 Jul 18:30; Tue 27 Jul 20:40<br>
 
-**Black Girl (****La noire de...)**<br>
+**Black Girl (La noire de...)**<br>
 
 Mon 12 Jul 18:20<br>
 
