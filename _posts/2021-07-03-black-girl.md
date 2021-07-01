@@ -78,7 +78,7 @@ Restored in 2015 by The Film Foundation’s World Cinema Project in collaboratio
 <img style="float: left;" src="/img/cineteca-bologna-logo-01.png"><br><br>
 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 **T A P E PRESENTS: BUT WHERE ARE YOU REALLY FROM?**<br>
 **Eyimofe (This Is My Desire)**<br>
 Thu 1 Jul 20:30; Fri 9 Jul 17:40<br>
