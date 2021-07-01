@@ -100,21 +100,32 @@ Ross Butler _(Spine chief)_
 François Chau _(Wahn)_  
 Paul Yen _(merchant 1)_<br>
 
-USA 2021<br> 
-107 mins
-<br><br>
 
+USA 2021<br> 
+1 in
+<br><br>
+<![endif]-->
 
 **BFI FAMILIES**<br>
+
 **Popeye**<br>
+
 Sun 13 Jun 12:50; Tue 29 Jun 17:50<br>
+
 **Wolfwalkers + pre-recorded Q&A with directors Tomm More and Ross Stewart from the 2020 BFI London Film Festival**<br>
+
 Sat 19 Jun 12:10<br>
+
 **Raya and the Last Dragon**<br>
+
 Sun 20 Jun 12:10<br>
+
 **Preview: The Croods: A New Age**<br>
+
 Sunday 11 Jul 12:00<br>
+
 **Pinocchio**<br>
+
 Sunday 25 Jul 11:50<br>
 <br><br>
 
@@ -133,3 +144,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzI5MTMyNTUxXX0=
+-->
