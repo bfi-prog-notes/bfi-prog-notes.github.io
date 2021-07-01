@@ -1,3 +1,5 @@
+<![endif]-->
+
 **SPOILER WARNING  The following notes give away the film’s ending**
 
 Ousmane Sembène (1923-2007), often regarded as the father of African cinema, came to moviemaking late. He was 40 before he released his first film, the 20-minute short _Borom sarret_, and made his first feature, _La Noire de…_ (_Black Girl_) three years later. By the time he died, aged 84, he had completed nine features, all infused with historical awareness, strong socialist principles and a determination to give voice to unheard African stories. Less often celebrated is the quietly subversive humour that often infiltrates even his most serious subjects.
@@ -66,5 +68,5 @@ Senegal/France 1965<br>
 Restored in 2015 by The Film Foundation’s  
 World Cinema Project in collaboration with the Sembène Estate, Institut National de l’Audiovisuel, INA, Eclair laboratories and Centre National de Cinématographie. Restoration carried out at Cineteca di Bologna/ L’Immagine Ritrovata laboratory.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Nzg2NjY5Nl19
+eyJoaXN0b3J5IjpbODcwNzM1NDg5LDE2NTc4NjY2OTZdfQ==
 -->
