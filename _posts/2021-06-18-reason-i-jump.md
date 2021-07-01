@@ -10,6 +10,10 @@ metadata: 'USA/UK 2020, 82 mins<br> Director: Jerry Rothwell'
 pdf: '2021-06-18-reason-i-jump.pdf'
 ---
 
+aout posttile he eason  ump
+published tuedate 200readtime truecategories  Rtags: ocuentary ramametadata A ,  minsbr irector Jerry Rothwellpdf reasonijump.pdf
+<br>
+<br>
 **Director Jerry Rothwell on ‘The Reason I Jump’**
 
 Naoki Higashida’s descriptions of a world without speech provoke us to think differently about autism. For most of history, nonspeaking autistic people have been considered less than human: ostracised within communities, banished to institutions, even in some ages and places, killed en masse. Stigma is still a feature of most autistic people’s lives.
@@ -51,11 +55,11 @@ I hope the film is part of a shift in the way we see autistic people who don’t
 
 **THE REASON I JUMP**<br>
 _Director_: Jerry Rothwell  
-©: The Reason I Jump Limited, Vulcan Productions Inc., The British Film Institute  
+©: The Reason I Jump Limited,Vulcan Productions Inc., The British Film Institute  
 _an_ Ideas Room, Metfilm, Vulcan Productions _and_ Runaway Fridge _production_
 _Made with the support of the_: BFI’s Film Fund  
 _International Sales_: Met Film  
-_Executive Producers_: Stewart Le Maréchal, Jonny Persey, Peter Webber, Jody Allen, Paul G. Allen, Rocky Collins, Jannat Gargi, Ruth Johnston, Carole Tomko  
+_Executive Producers_: Stewart Le Maréchal,Jonny Persey, Peter Webber, Jody Allen,Paul G. Allen, Rocky Collins, Jannat Gargi,Ruth Johnston, Carole Tomko  
 _Co-executive Producer_: Sara Edelson  
 _Executive Producer_: Lizzie Francke  
 _Producers_: Jeremy Dear, Stevie Lee, Al Morrow  
@@ -123,10 +127,11 @@ An individual who is an unreliable speaker is not always able to use speech to c
 
 **References**
 
-_The Human’s Guide to Supporting Autistics_<br>
-Written by Autistic Subject Matter Experts:  Adam Farrell, Alex Cormaney, Charlie Colligan, David Knight, Gordy Baylinson, Ian Nordling,  Nick Moore
+_The Human’s Guide to Supporting Autistics_Relaxed Screenings: The Reason I Jump**<br>
+WFritten by Autistic Subject Matter Experts:  Adam Farrell, Alex Cormaney, Charlie Colligan, David Knight, Gordy Baylinson, Ian Nordling,  Nick Moore
 
-Autistic Self-Advocacy Network (https://autisticadvocacy.org) ‘The Significance of Semantics: Person-First Language: Why It Matters’<br><br><br>
+Autistic Self-Advocacy Network (https://autisticadvocacy.org) ‘The Significance of Semantics: Person-First Language: Why It Matters’ 18 Jun 14:30; Tue 22 Jun 18:10<br>
+<br><br>
 
 
 
@@ -177,5 +182,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczNzg1MDldfQ==
+eyJoaXN0b3J5IjpbOTQ0MDUwNjk3LDI3Mzc4NTA5XX0=
 -->
