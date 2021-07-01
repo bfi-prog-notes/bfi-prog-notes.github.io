@@ -19,95 +19,85 @@ When John Boorman gave the first draft of the script of _Hope and Glory_ to his 
 What makes _Hope and Glory_ singular, if not quite unique, is its tone.  
 It sometimes shades into sentimentality. Boorman has acknowledged with gratitude the influence of growing up in a family dominated by forceful women and of having three daughters of his own; and he has, not unnaturally, several soft spots. But the sentimentality rarely gets out of hand, even in the potentially perilous but in fact very funny school scenes, and it is occasionally inflected into genuine feeling, as, for example, in the night train journey back to London after the seaside outing, when Grace and Mac come close to speaking their hearts. But sentimentality is only an undercurrent. Boorman knows how to write and direct scenes which play in the cinema. He understands scale, and he has too, unexpectedly, an eye and an ear for understated comedy.  Bill and his fellows recite the nine-times table in gasmasks lined up along  the side of the school shelter: in the mumbled litany one hears one unmistakable raspberry.  
 **John Pym, _Sight & Sound_, Autumn 1987**
+<br><br>
 
-
-**HOPE AND GLORY**
-_Director_: John Boorman
-
-_Production Companies_:  
-Columbia Pictures Corporation,  
-Nelson Entertainment,  
-Goldcrest Films and Television
-
-_Executive Producers_: Jake Eberts, Edgar F. Gross
-
-_Producer_: John Boorman
-
-_Co-producer_: Michael Dryhurst
-
-_Production Co-ordinator_: Sheila Collins
-
-_Location Manager_: Peter Cotton
-
-_2nd Unit Director_: Michael Dryhurst
+**HOPE AND GLORY**<br>
+_Director_: John Boorman<br>
+_Production Companies_:  Columbia Pictures Corporation,  Nelson Entertainment,  Goldcrest Films and Television<br>
+_Executive Producers_: Jake Eberts, Edgar F. Gross<br>
+_Producer_: John Boorman<br>
+_Co-producer_: Michael Dryhurst<br>
+_Production Co-ordinator_: Sheila Collins<br>
+_Location Manager_: Peter Cotton<br>
+_2nd Unit Director_: Michael Dryhurst<br>
 
 _Assistant Directors_: Andy Armstrong,  
-Melvin Lind, Julian Wall
+Melvin Lind, Julian Wall<br>
 
-_Casting_: Mary Selway
+_Casting_: Mary Selway<br>
 
-_Screenplay_: John Boorman
+_Screenplay_: John Boorman<br>
 
-_Director of Photography_: Philippe Rousselot
+_Director of Photography_: Philippe Rousselot<br>
 
-_Additional Photography_: John Harris
+_Additional Photography_: John Harris<br>
 
-_2nd Unit Photographer_: John Harris
+_2nd Unit Photographer_: John Harris<br>
 
-_Camera Operator_: Mike Fox
+_Camera Operator_: Mike Fox<br>
 
-_Focus Puller_: Ronnie Anscombe
+_Focus Puller_: Ronnie Anscombe<br>
 
-_2nd Unit Focus Puller_: Jamie Harcourt
+_2nd Unit Focus Puller_: Jamie Harcourt<br>
 
-_Clapper/Loader_: Jason Wrenn
+_Clapper/Loader_: Jason Wrenn<br>
 
-_Grip_: Bill Geddes
+_Grip_: Bill Geddes<br>
 
-_Special Effects Designer_: Phil Stokes
+_Special Effects Designer_: Phil Stokes<br>
 
-_Senior Special Effects Supervisor_: Rodney Fuller
+_Senior Special Effects Supervisor_: Rodney Fuller<br>
 
-_Special Effects Supervisor_: Michael Collins
+_Special Effects Supervisor_: Michael Collins<br>
 
-_Senior Special Effects Technician_: Joe Fitt
+_Senior Special Effects Technician_: Joe Fitt<br>
 
 _Special Effects Technicians_: Sean Collins,  
-Brian Wood
+Brian Wood<br>
 
-_Editor_: Ian Crafford
+_Editor_: Ian Crafford<br>
 
-_Production Designer_: Anthony Pratt
+_Production Designer_: Anthony Pratt<br>
 
-_Art Director_: Don Dossett
+_Art Director_: Don Dossett<br>
 
-_Set Decorator_: Joanne Woollard
+_Set Decorator_: Joanne Woollard<br>
 
-_Draughtsperson_: Gary Tomkins
+_Draughtsperson_: Gary Tomkins<br>
 
-_Scenic Artist_: Ted Michel
+_Scenic Artist_: Ted Michel<br>
 
-_Costume Designer_: Shirley Russell
+_Costume Designer_: Shirley Russell<br>
 
-_Wardrobe Master_: Steve Hubbard
+_Wardrobe Master_: Steve Hubbard<br>
 
-_Chief Make-up_: Anna Dryhurst
+_Chief Make-up_: Anna Dryhurst<br>
 
-_Titles and Opticals_: General Screen Enterprises
+_Titles and Opticals_: General Screen Enterprises<br>
 
-_Music Composed, Conducted and Arranged by_: Peter Martin
+_Music Composed, Conducted and Arranged by_: Peter Martin<br>
 
-_Music Editor_: Michael Clifford
+_Music Editor_: Michael Clifford<br>
 
-_Music Research_: Helen Sava
+_Music Research_: Helen Sava<br>
 
-_Choreography_: Anthony Van Laast
+_Choreography_: Anthony Van Laast<br>
 
-_Sound Recording_: Peter Handford
+_Sound Recording_: Peter Handford<br>
 
-_Sound Re-recording_: John Hayward
+_Sound Re-recording_: John Hayward<br>
 
-_Sound Editor_: Ron Davis
+_Sound Editor_: Ron Davis<br>
 
 _Dialogue Editor_: Paul Smith
 
@@ -181,5 +171,5 @@ UK 1987
 
 112 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Mzc0OTJdfQ==
+eyJoaXN0b3J5IjpbLTEwOTAzMjM2NTZdfQ==
 -->
