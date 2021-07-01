@@ -21,20 +21,15 @@ Shabazz neatly avoids trapping his main characters inside the bubbles (‘victim
 The second half of the film dramatises how social forces and character traits work to derail Pat’s goal, the breakdown of their relationship and how she and Del react to the pressures they face. When they become politicised by the end of the film they’ve changed because of the experiences the plot has taken them through. We’re shown how and why they change.
 
 The final reason why the film still grips is that, even now, nothing else quite like it has been made.<BR>
-**
-
-Ade Solanke, BFI Screenonline, screenonline.org.uk**<br>
+**Ade Solanke, BFI Screenonline, screenonline.org.uk**<br>
 
 **A contemporary review**<br>
-  
-
 In all the major film-producing countries – assuming that Britain is one – films about the black experience are minority films. As such, they tend to come in three varieties. Blaxploitation films like _Superfly_ and _Cleopatra Jones_, which celebrate a ghetto situation without really questioning it. The British market has never been able to support these. Liberal conscience pictures in the Stanley Kramer mould. We haven’t bothered much with them either. And independent features made by and about black people. There, there are signs of life in Britain, of which _Burning an Illusion_ is the most recent as well as potentially the most interesting and the most problematic. One of the ways in which it is problematic is that, because it looks like getting wider distribution than _Pressure_, _Blacks Britannica_ or _Babylon_, it necessarily strays into the wider (liberal) arena.
 
 Liberal films belong in the wider arena. They demand guilt – a comfortable, nonspecific guilt which can be equally comfortably assuaged by allowing the (white) audience to identify with the (black) underdog, and take pleasure in him/her beating the system.  
 It’s called having your cake and eating it, and it makes for a great night out. Menelik Shabazz doesn’t play that game, though he does flirt with it. _Burning an Illusion_ has most of the hallmarks of militant cinema. Del (Victor Romero) is jailed for slashing a policeman in circumstances which are, from his (and therefore our) point of view, highly ambiguous. At the very least, he is provoked. In prison, he embarks on a course of self-education, writing to his woman Pat (Cassie McFarlane) that ‘black people have got to fight back’. Pat becomes politically active and the film ends with her on a bus, presumably on the way to a picket or a demo, celebrating her new consciousness and her black sisterhood with a clenched fist on which the frame freezes.
 
-On the other hand, the devices which Shabazz uses to bring his audience to this point are, by comparison with the militant films of the 60s and early 70s, fairly traditional: a progression towards increased consciousness through a series of individual circumstances whose wider repercussions are not initially stressed, accompanied by a first-person voice over from Pat to guide us through the transitions. Shabazz is not really concerned with questioning the nature of cinematic representation. What he is concerned with is reaching the people the film is about (who may be affected by the nature of cinematic representation but are not fundamentally concerned with it), and he has apparently been very successful with screenings followed by discussions among London’s black community. The film makes certain concessions to other audiences, notably by softening the West Indian patois in the dialogue scenes and removing it entirely from the voice over. But it is not really for another audience. Which is what makes reviewing it in that context problematic. To welcome the film is not enough.  
-To comment on its suitability for its intended audience is, for a white middle-class reviewer, presumptuous.
+On the other hand, the devices which Shabazz uses to bring his audience to this point are, by comparison with the militant films of the 60s and early 70s, fairly traditional: a progression towards increased consciousness through a series of individual circumstances whose wider repercussions are not initially stressed, accompanied by a first-person voice over from Pat to guide us through the transitions. Shabazz is not really concerned with questioning the nature of cinematic representation. What he is concerned with is reaching the people the film is about (who may be affected by the nature of cinematic representation but are not fundamentally concerned with it), and he has apparently been very successful with screenings followed by discussions among London’s black community. The film makes certain concessions to other audiences, notably by softening the West Indian patois in the dialogue scenes and removing it entirely from the voice over. But it is not really for another audience. Which is what makes reviewing it in that context problematic. To welcome the film is not enough. To comment on its suitability for its intended audience is, for a white middle-class reviewer, presumptuous.
 
 With the proviso, then, that my opinion is handicapped, if not actually invalid – the film is about a black, working-class woman and I am a white middle-class man; even the pretensions of liberal empathy are limited – there are two things that are particularly impressive about _Burning an Illusion_. The first is that, like Horace Ové’s _Pressure_, its militancy is gradually arrived at. Most of the film avoids the immediate impact drama of conflict with the systems of a white society, and concentrates instead on everyday problems which are primarily male/female and only secondarily black/white. Pat’s aspirations are those of the world in which she has been brought up: an annual holiday; a new carpet for her neat, tower-block apartment; a colour TV. Del’s are universally male. ‘My dignity come first,’ he tells Pat. ‘Man must be free, you know ... Trouble with you, man, you’re too possessive.’ By which he means that Pat, having taken over the financial responsibility entirely when he is sacked, and having cooked his food for him, expects him not to go out every night with his friends, nor to assume she will bring them beer when they take over the apartment to play cards.
 
@@ -44,21 +39,17 @@ But the last part of the film rather abandons this tack for the easier task of c
 **Nick Roddick, _Sight & Sound_, Autumn 1982**
 
 **But You’re Not Black**<br>
-
 A Chinese-Caribbean-Canadian woman tries to embrace her parents’  Trinidadian identity.<br>
 <br>
 
-**BUT YOU'RE NOT BLACK**<br>![endif]-->
-
-**But You’re Not Black**
-
-_Director:_ Danielle Ayow
+**BUT YOU'RE NOT BLACK**<br>
+_Director:_ Danielle Ayow<br>
 
 Canada 2019<br>
 
 19min
 
-**BURNING AN ILLUSION**<br>urning an Illusion**
+**BURNING AN ILLUSION**<br>
 
 _Directed by:_ Menelik Shabazz<br>
 
