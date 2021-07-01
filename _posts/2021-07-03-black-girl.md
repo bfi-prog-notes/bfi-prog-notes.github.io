@@ -8,6 +8,7 @@ categories: ['T A P E PRESENTS<br> BUT WHERE ARE YOU REALLY FROM &#63']
 tags: [Drama]
 metadata: 'Senegal/France, 1965, 66 mins<br> Director: Ousmane Sembène'
 pdf: '2021-07-03-black-girl.pdf'
+---
 
 **SPOILER WARNING  The following notes give away the film’s ending**
 
