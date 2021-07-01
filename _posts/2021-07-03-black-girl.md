@@ -71,11 +71,11 @@ Senegal/France 1965<br>
 
 Restored in 2015 by The Film Foundation’s World Cinema Project in collaboration with the Sembène Estate, Institut National de l’Audiovisuel, INA, Eclair laboratories and Centre National de Cinématographie. Restoration carried out at Cineteca di Bologna/ L’Immagine Ritrovata laboratory.<br>
 <br>
-<img style="float: left;" src="/img/film-foundation-logo-01.png">
+<img style="float: left;" src="/img/film-foundation-logo-01.png"><br>
 
-<img style="float: left;" src="/img/world-cinema-project-logo-01.png">
+<img style="float: left;" src="/img/world-cinema-project-logo-01.png"><br>
 
-<img style="float: left;" src="/img/cineteca-bologna-logo-01.png">
+<img style="float: left;" src="/img/cineteca-bologna-logo-01.png"><br>
 
 
 <br><br>
