@@ -8,7 +8,7 @@ categories: ['T A P E PRESENTS<br> BUT WHERE ARE YOU REALLY FROM &#63']
 tags: [Drama]
 metadata: 'Senegal/France, 1965, 66 mins<br> Directors: Ousmane Sembène'
 pdf: '2021-07-03-black-girl.pdf'
----
+<![endif]--->
 
 **SPOILER WARNING  The following notes give away the film’s ending**
 
@@ -33,19 +33,20 @@ If _La Noire de_… has a primary fault, it’s in the caricaturing of this Fren
 All the dialogue in _La Noire de_… is in French – the last time this would happen in Sembène’s flms. Starting with his next feature, _Mandabi_ (_The Money Order_, 1968), his films would be largely or entirely in his native Wolof or in Diola. (_Mandabi_, though, was also made in a French-language version to satisfy its French backers.) Filmmaking was never easy for Sembène; not only did he have to overcome the vagaries of African production and distribution but also, as often as not, the disapproval and censorship of the same national authorities from whom he was obliged to seek funding. But he rarely compromised, seeing his work as a mission and his films as ‘introductions to a universe that we can transform’.<br>
 **Philip Kemp, _Sight & Sound_, December 2015**
 
-**I Bit My Tongue**<br>
+**I Bit M Tbr>
 Can we get our mother tongue, and things lost with it, back? <br>
 <br>
 
-**I BIT MY TOUNGUE**<br>
+**I Bit MYy TOUNGUE**<br>ongue**
+
 _Director:_ Nina Khada<br>
 
 France 2020<br>
+
 25 mins<br>
 <br>
 
-**BLACK GIRL (LA NOIRE DE...)**<br>
-_Director_: Ousmane Sembène  
+**BLACK GIRL (LA NOIRE DE...)**<br>(_Director_: Ousmane Sembène  
 _Production Companies_: Filmi Doomireew, Actualités Françaises  
 _Participation_: Ministère de la Coopération  
 _Production Manager_: André Zwobada  
@@ -125,3 +126,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzNzI5MTQxODZdfQ==
+-->
