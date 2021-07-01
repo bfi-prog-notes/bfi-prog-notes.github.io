@@ -81,17 +81,17 @@ With Edmund Meisel score
 
 
 **BIG SCREEN CLASSICS**<br>
-**Battleship Potemkin (**Bronenosets Potemkin)**<br>
+**Battleship Potemkin (**Bronenosets Potemkin**)<br>
 Thu 1 Jul 14:30; Thu 15 Jul 18:00; Sat 24 Jul 11:50<br>
 **Hope and Glory**<br>
 Thu 1 Jul 17:30; Mon 5 Jul 14:30; Fri 23 Jul 18:00<br>
 **Casablanca**<br>
 Fri 2 Jul 14:30; Sat 17 Jul 13:00; Sat 24 Jul 14:40; Thu 29 Jul 18:00<br>
-**All about My Mother (**Todo sobre mi madre)**<br>
+**All about My Mother (**Todo sobre mi madre**)<br>
 Fri 2 Jul 20:40; Tue 6 Jul 20:45; Sat 10 Jul 21:00; Thu 22 Jul 14:30<br>
 **How Green Was My Valley**<br>
 Sat 3 Jul 11:30; Thu 8 Jul 14:15; Fri 16 Jul 17:50<br>
-**Wild Strawberries (**Smultronstället)**<br>
+**Wild Strawberries (**Smultronstället**)<br>
 Sat 3 Jul 18:10; Mon 5 Jul 20:45; Sun 11 Jul 12:50; Wed 21 Jul 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Tue 27 Jul 14:30<br>
 **All the President’s Men**<br>
 Sun 4 Jul 11:50; Tue 20 Jul 14:15; Sat 31 Jul 20:20<br>
@@ -101,9 +101,9 @@ Sun 4 Jul 15:40; Fri 9 Jul 14:30; Tue 20 Jul 17:50; Mon 26 Jul 18:00; Sat 31 Jul
 Mon 5 Jul 20:50; Wed 14 Jul 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Sun 25 Jul 15:00<br>
 **Distant Voices, Still Lives**<br>
 Wed 7 Jul 18:00 (+ pre-recorded intro by film critic Thirza Wakefield); Sun 18 Jul 12:45; Mon 19 Jul 20:50; Fri 30 Jul 14:30<br>
-**35 Shots of Rum (**35 Rhums)**<br>
+**35 Shots of Rum (**35 Rhums**)<br>
 Mon 12 Jul 20:45; Wed 28 Jul 17:40 (+ pre-recorded intro by Be Manzini, poet and director of Caramel Film Club)<br>
-**Man About Town (**Le Silence est d’or)**<br>
+**Man About Town (**Le Silence est d’or**)<br>
 Tue 13 Jul 14:15; Sun 18 Jul 12:30; Mon 26 Jul 14:20<br>
 <br>
 
