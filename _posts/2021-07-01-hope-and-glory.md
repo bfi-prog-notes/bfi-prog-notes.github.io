@@ -30,146 +30,112 @@ _Co-producer_: Michael Dryhurst<br>
 _Production Co-ordinator_: Sheila Collins<br>
 _Location Manager_: Peter Cotton<br>
 _2nd Unit Director_: Michael Dryhurst<br>
-
-_Assistant Directors_: Andy Armstrong,  
-Melvin Lind, Julian Wall<br>
-
+_Assistant Directors_: Andy Armstrong,  Melvin Lind, Julian Wall<br>
 _Casting_: Mary Selway<br>
-
 _Screenplay_: John Boorman<br>
-
 _Director of Photography_: Philippe Rousselot<br>
-
 _Additional Photography_: John Harris<br>
-
 _2nd Unit Photographer_: John Harris<br>
-
 _Camera Operator_: Mike Fox<br>
-
 _Focus Puller_: Ronnie Anscombe<br>
-
 _2nd Unit Focus Puller_: Jamie Harcourt<br>
-
 _Clapper/Loader_: Jason Wrenn<br>
-
 _Grip_: Bill Geddes<br>
-
 _Special Effects Designer_: Phil Stokes<br>
-
 _Senior Special Effects Supervisor_: Rodney Fuller<br>
-
 _Special Effects Supervisor_: Michael Collins<br>
-
 _Senior Special Effects Technician_: Joe Fitt<br>
-
-_Special Effects Technicians_: Sean Collins,  
-Brian Wood<br>
-
+_Special Effects Technicians_: Sean Collins,  Brian Wood<br>
 _Editor_: Ian Crafford<br>
-
 _Production Designer_: Anthony Pratt<br>
-
 _Art Director_: Don Dossett<br>
-
 _Set Decorator_: Joanne Woollard<br>
-
 _Draughtsperson_: Gary Tomkins<br>
-
 _Scenic Artist_: Ted Michel<br>
-
 _Costume Designer_: Shirley Russell<br>
-
 _Wardrobe Master_: Steve Hubbard<br>
-
 _Chief Make-up_: Anna Dryhurst<br>
-
 _Titles and Opticals_: General Screen Enterprises<br>
-
 _Music Composed, Conducted and Arranged by_: Peter Martin<br>
-
 _Music Editor_: Michael Clifford<br>
-
 _Music Research_: Helen Sava<br>
-
 _Choreography_: Anthony Van Laast<br>
-
 _Sound Recording_: Peter Handford<br>
 
 _Sound Re-recording_: John Hayward<br>
 
 _Sound Editor_: Ron Davis<br>
 
-_Dialogue Editor_: Paul Smith
+_Dialogue Editor_: Paul Smith<br>
 
-_ADR Recording_: Twickenham Film Studios
+_ADR Recording_: Twickenham Film Studios<br>
 
-_Aerial Co-ordinator_: John Taylor
+_Aerial Co-ordinator_: John Taylor<br>
 
-_Narrator:_ John Boorman
+_Narrator:_ John Boorman<br>
 
-_Cast:_
+_Cast:_<br>
 
-Sebastian Rice-Edwards _(Bill Rohan)_
+Sebastian Rice-Edwards _(Bill Rohan)_<br>
 
-Geraldine Muir _(Sue Rohan)_
+Geraldine Muir _(Sue Rohan)_<br>
 
-Sarah Miles _(Grace Rohan)_
+Sarah Miles _(Grace Rohan)_<br>
 
-David Hayman _(Clive Rohan)_
+David Hayman _(Clive Rohan)_<br>
 
-Sammi Davis _(Dawn Rohan)_
+Sammi Davis _(Dawn Rohan)_<br>
 
-Derrick O’Connor _(Mac)_
+Derrick O’Connor _(Mac)_<br>
 
-Susan Wooldridge _(Molly)_
+Susan Wooldridge _(Molly)_<br>
 
-Jean-Marc Barr _(Bruce)_
+Jean-Marc Barr _(Bruce)_<br>
 
-Ian Bannen _(Grandfather George)_
+Ian Bannen _(Grandfather George)_<br>
 
-Annie Leon _(grandma)_
+Annie Leon _(grandma)_<br>
 
-Jill Baker _(Faith)_
+Jill Baker _(Faith)_<br>
 
-Amelda Brown _(Hope)_
+Amelda Brown _(Hope)_<br>
 
-Katrine Boorman _(Charity)_
+Katrine Boorman _(Charity)_<br>
 
-Colin Higgins _(Clive’s friend)_
+Colin Higgins _(Clive’s friend)_<br>
 
-Shelagh Fraser _(WVS woman)_
+Shelagh Fraser _(WVS woman)_<br>
 
-Gerald James _(headmaster)_
+Gerald James _(headmaster)_<br>
 
-Barbara Pierson _(teacher)_
+Barbara Pierson _(teacher)_<br>
 
-Nicky Taylor _(Roger)_
+Nicky Taylor _(Roger)_<br>
 
 Jodie Andrews_,_ Nicholas Askew_,_ Jamie Bowman, Colin Dale_,_ David Parkin_,_ Carlton Taylor
 
-_(Roger’s Gang)_
+_(Roger’s Gang)_<br>
 
-Sara Langton _(Pauline)_
+Sara Langton _(Pauline)_<br>
 
-Imogen Cawrse _(Jennifer)_
+Imogen Cawrse _(Jennifer)_<br>
 
-Susan Brown _(Mrs Evans)_
+Susan Brown _(Mrs Evans)_<br>
 
-Charley Boorman _(Luftwaffe pilot)_
+Charley Boorman _(Luftwaffe pilot)_<br>
 
-Peter Hughes _(policeman)_
+Peter Hughes _(policeman)_<br>
 
-Ann Thornton_,_ Andrew Bicknell _(honeymoon couple)_
+Ann Thornton_,_ Andrew Bicknell _(honeymoon couple)_<br>
 
-Christine Crowshaw _(pianist)_
+Christine Crowshaw _(pianist)_<br>
 
-William Armstrong _(Canadian sergeant)_
+William Armstrong _(Canadian sergeant)_<br>
 
-Arthur Cox _(fireman)_
+Arthur Cox _(fireman)_<br>
 
-UK 1987
-
+UK 1987<br>
 112 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTAzMjM2NTZdfQ==
+eyJoaXN0b3J5IjpbNjMyNTE5MTQwXX0=
 -->
