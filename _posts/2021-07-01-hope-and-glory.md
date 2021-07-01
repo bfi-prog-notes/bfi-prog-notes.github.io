@@ -61,81 +61,45 @@ _Music Editor_: Michael Clifford<br>
 _Music Research_: Helen Sava<br>
 _Choreography_: Anthony Van Laast<br>
 _Sound Recording_: Peter Handford<br>
-
 _Sound Re-recording_: John Hayward<br>
-
 _Sound Editor_: Ron Davis<br>
-
 _Dialogue Editor_: Paul Smith<br>
-
 _ADR Recording_: Twickenham Film Studios<br>
-
 _Aerial Co-ordinator_: John Taylor<br>
-
 _Narrator:_ John Boorman<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Sebastian Rice-Edwards _(Bill Rohan)_<br>
-
 Geraldine Muir _(Sue Rohan)_<br>
-
 Sarah Miles _(Grace Rohan)_<br>
-
 David Hayman _(Clive Rohan)_<br>
-
 Sammi Davis _(Dawn Rohan)_<br>
-
 Derrick O’Connor _(Mac)_<br>
-
 Susan Wooldridge _(Molly)_<br>
-
 Jean-Marc Barr _(Bruce)_<br>
-
 Ian Bannen _(Grandfather George)_<br>
-
 Annie Leon _(grandma)_<br>
-
 Jill Baker _(Faith)_<br>
-
 Amelda Brown _(Hope)_<br>
-
 Katrine Boorman _(Charity)_<br>
-
 Colin Higgins _(Clive’s friend)_<br>
-
 Shelagh Fraser _(WVS woman)_<br>
-
 Gerald James _(headmaster)_<br>
-
 Barbara Pierson _(teacher)_<br>
-
 Nicky Taylor _(Roger)_<br>
-
-Jodie Andrews_,_ Nicholas Askew_,_ Jamie Bowman, Colin Dale_,_ David Parkin_,_ Carlton Taylor
-
-_(Roger’s Gang)_<br>
-
+Jodie Andrews, Nicholas Askew, Jamie Bowman, Colin Dale, David Parkin, Carlton Taylor _(Roger’s Gang)_<br>
 Sara Langton _(Pauline)_<br>
-
 Imogen Cawrse _(Jennifer)_<br>
-
 Susan Brown _(Mrs Evans)_<br>
-
 Charley Boorman _(Luftwaffe pilot)_<br>
-
 Peter Hughes _(policeman)_<br>
-
-Ann Thornton_,_ Andrew Bicknell _(honeymoon couple)_<br>
-
+Ann Thornton,  Andrew Bicknell _(honeymoon couple)_<br>
 Christine Crowshaw _(pianist)_<br>
-
 William Armstrong _(Canadian sergeant)_<br>
-
 Arthur Cox _(fireman)_<br>
 
 UK 1987<br>
 112 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyNTE5MTQwXX0=
+eyJoaXN0b3J5IjpbLTIwMDkxNjMyNzZdfQ==
 -->
