@@ -1,10 +1,8 @@
 
 
-**Refocusing the Spectator: a comparison of the critical response to  
-‘Rear Window’ in 1954 and on its re-release in 1983**
+**Refocusing the Spectator: a comparison of the critical response to  ‘Rear Window’ in 1954 and on its re-release in 1983**
 
-When _Rear Window_ was first released in 1954, Hitchcock’s authorial mark was seen primarily as a matter of space and ‘technique’. Penelope Houston, in the September 1954 _Monthly Film Bulletin_, remarked that, _pace_ David Robinson, ‘the director is now less interested in the story he has to tell than in the various stylistic and technical problems that he can set himself, and solve, during the telling of it.’ The result of restricting the action to Jefferies’ apartment and point of view was ‘an ingenious, heartless, intermittently entertaining exercise in technique.’ A similar conclusion was reached by Arthur Knight (_Saturday_ _Review_, 21.8.54): ‘ ... his enthusiasm for sheer technique seems to impose such synthetic restrictions upon the action of his films that the plot is all but swamped by the pyrotechnics. _Rear_ _Window_ is a good case in point.’  
-The critical question was simply whether or not the ‘technical problem’ prevented Hitchcock from delivering the requisite generic goods, what Knight called ‘a proper thriller’. The amount of time spent by Jefferies gazing into the windows opposite was similarly set against the generic demands of plotting: ‘From a lazy beginning the film is galvanised into a thriller’ (Virginia Graham, _Spectator_, 8.10.54). What is missing here, obviously, is any sense of what the film’s concern with voyeurism and point of view might signify outside the questions of ‘technique’ and _Rear_ _Window_’s effectiveness as a thriller.
+When _Rear Window_ was first released in 1954, Hitchcock’s authorial mark was seen primarily as a matter of space and ‘technique’. Penelope Houston, in the September 1954 _Monthly Film Bulletin_, remarked that, _pace_ David Robinson, ‘the director is now less interested in the story he has to tell than in the various stylistic and technical problems that he can set himself, and solve, during the telling of it.’ The result of restricting the action to Jefferies’ apartment and point of view was ‘an ingenious, heartless, intermittently entertaining exercise in technique.’ A similar conclusion was reached by Arthur Knight (_Saturday_ _Review_, 21.8.54): ‘ ... his enthusiasm for sheer technique seems to impose such synthetic restrictions upon the action of his films that the plot is all but swamped by the pyrotechnics. _Rear_ _Window_ is a good case in point.’  The critical question was simply whether or not the ‘technical problem’ prevented Hitchcock from delivering the requisite generic goods, what Knight called ‘a proper thriller’. The amount of time spent by Jefferies gazing into the windows opposite was similarly set against the generic demands of plotting: ‘From a lazy beginning the film is galvanised into a thriller’ (Virginia Graham, _Spectator_, 8.10.54). What is missing here, obviously, is any sense of what the film’s concern with voyeurism and point of view might signify outside the questions of ‘technique’ and _Rear_ _Window_’s effectiveness as a thriller.
 
 This wonderfully fitting blindness was not, however, total: an awareness of the problem did surface, to varying degrees, across the reviews. Penelope Houston noted that ‘the spectator, like the hero, is placed in the position of a spy’, while William Whitebait (_New Statesman_, 16.10.54) got quite over-excited with his role as voyeur: ‘ ... it worked with me. One gets to share this mania of window-gazing.’ But in very few cases were the critics prepared to consider the possible implications of all this looking, that it might be somewhat ‘unhealthy’. C. A. Lejeune (_Observer_, 10.10. 54) was brief and to the point: ‘_Rear Window_ strikes me as a rather horrid film.’ T. Spencer (_Daily_ _Worker_, 9.10. 54) offered a more developed view which, set in opposition to the general critical consensus and despite its moralising, now seems a quite perceptive and progressive reading: ‘Granted that Alfred Hitchcock is the master of suspense ... this quality alone cannot make palatable a story with so unpleasant a central figure as this ... James Stewart gets a morbid satisfaction from spying on his neighbours ... When not thus engaged, he boasts of the toughness of his job and resists the efforts of his rich society girlfriend to interest him in something normal and healthy like marriage or at least sex ... We’re compelled to become Peeping Toms ourselves. At first we succumb to the fascination of peeping, but in the end we’re revolted by it.’
 
@@ -17,71 +15,69 @@ Interestingly, this displacement of the voyeurism on to a fantasy figure outside
 
 These extra-textual references are actually symptomatic of how the question of voyeurism is dealt with even when the critics do refer to the role of the spectator. The tendency, because of a refusal to consider the sexual implications, is to construct a sexless viewer who is subject to an instinctive, universal desire: ‘All cinemagoers, after all, are Peeping Toms of a kind’ (Geoff Brown, _The Times_, 2.12.83); ‘Is it a moralistic condemnation of the voyeur’s instinct in us all, or a shamelessly virtuoso exploitation of it?’ (Derek Malcolm, _Guardian_, 1.12.83); ‘_Rear_ _Window_ unmasks the Peeping Tom in all of us and is some of the most charmingly disarming face-slaps an audience ever received’ (Nigel Andrews, _Financial_ _Times_, 2.12.83); ‘But the essence of the movie and its central and forbidden joy is the voyeurism. What a treat to stare into the lives of other people through uncurtained windows’ (lain Johnstone, _Sunday_ _Times_, 4.12.83).
 
-The problem is how to relate this imaginary, impossible ‘us’ to what is going on inside James Stewart’s apartment between him and Grace Kelly. Given that the film so overtly encourages us to identify with the disabled photographer, how does this relate to, for example, an observation made, but not developed, by Philip French: ‘The first moment of terror, connecting fear and desire, love and death, comes when a sinister shadow falls on the face of Jeff ... A subjective shot ... reveals that the shadow is cast by the beautiful Kelly.’  
-In order to make sense of the moment, and the film as a whole, it is clearly necessary to think the question of voyeurism through these sexually defined characters and our relation to their images. This rather than turning the issue outwards into general analogies between the action of the film and the act of watching films, while ruminating over the moral issues involved.
+The problem is how to relate this imaginary, impossible ‘us’ to what is going on inside James Stewart’s apartment between him and Grace Kelly. Given that the film so overtly encourages us to identify with the disabled photographer, how does this relate to, for example, an observation made, but not developed, by Philip French: ‘The first moment of terror, connecting fear and desire, love and death, comes when a sinister shadow falls on the face of Jeff ... A subjective shot ... reveals that the shadow is cast by the beautiful Kelly.’  In order to make sense of the moment, and the film as a whole, it is clearly necessary to think the question of voyeurism through these sexually defined characters and our relation to their images. This rather than turning the issue outwards into general analogies between the action of the film and the act of watching films, while ruminating over the moral issues involved.  
+**Steve Jenkins, _Monthly Film Bulletin_, February 1984**
+<br><br>
 
-Steve Jenkins, _Monthly Film Bulletin_, February 1984
 
-<![endif]-->
+**REAR WINDOW**<br>
 
-**Rear Window**
+_Directed by_: Alfred Hitchcock<br>
 
-_Directed by_: Alfred Hitchcock
+©: Patron Inc.<br>
 
-©: Patron Inc.
+_a_ Paramount _release_<br>
 
-_a_ Paramount _release_
+_Assistant Director_: Herbert Coleman<br>
 
-_Assistant Director_: Herbert Coleman
+_Screenplay by_: John Michael Hayes<br>
 
-_Screenplay by_: John Michael Hayes
+_Based on the short story by_: Cornell Woolrich<br>
 
-_Based on the short story by_: Cornell Woolrich
+_Director of Photography_: Robert Burks<br>
 
-_Director of Photography_: Robert Burks
+_Technicolor Colour Consultant_: Richard Mueller<br>
 
-_Technicolor Colour Consultant_: Richard Mueller
+_Special Photographic Effects_: John P. Fulton<br>
 
-_Special Photographic Effects_: John P. Fulton
-
-_Edited by_: George Tomasini
+_Edited by_: George Tomasini<br>
 
 _Art Direction_: Hal Pereira,  
-Joseph MacMillan Johnson
+Joseph MacMillan Johnson<br>
 
-_Set Decoration_: Sam Comer, Ray Moyer
+_Set Decoration_: Sam Comer, Ray Moyer<br>
 
-_Costumes_: Edith Head
+_Costumes_: Edith Head<br>
 
-_Make-up Supervision_: Wally Westmore
+_Make-up Supervision_: Wally Westmore<br>
 
-_Music Score by_: Franz Waxman
+_Music Score by_: Franz Waxman<br>
 
-_Sound Recording by_: Harry Lindgren, John Cope
+_Sound Recording by_: Harry Lindgren, John Cope<br>
 
-_Sound System_: Western Electric Recording
+_Sound System_: Western Electric Recording<br>
 
-_Technical Adviser_: Bob Landry
+_Technical Adviser_: Bob Landry<br>
 
-_uncredited_
+_uncredited_<br>
 
-_Producer_: Alfred Hitchcock
+_Producer_: Alfred Hitchcock<br>
 
-_Production Manager_: C.O. Erickson
+_Production Manager_: C.O. Erickson<br>
 
-_Camera Operator_: William Schurr
+_Camera Operator_: William Schurr<br>
 
-_Camera Assistant_: Leonard South
+_Camera Assistant_: Leonard South<br>
 
-_Special Cinematography_: Irmin Roberts
+_Special Cinematography_: Irmin Roberts<br>
 
-_Stunt Detectives_: Fred Graham, Eddie Parker
+_Stunt Detectives_: Fred Graham, Eddie Parker<br>
 
-_Cast:_
+_Cast:_<br>
 
-James Stewart _(L.B. ‘Jeff’ Jefferies)_
+James Stewart _(L.B. ‘Jeff’ Jefferies)_<br>
 
-Grace Kelly _(Lisa Carol Fremont)_
+Grace Kelly _(Lisa Carol Fremont)_<br>
 
 Wendell Corey _(Detective Thomas J. Doyle)_
 
@@ -144,5 +140,5 @@ USA 1954©
 
 112 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0MDUyMTEyXX0=
+eyJoaXN0b3J5IjpbLTc4NzY0MzQ4M119
 -->
