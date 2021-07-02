@@ -25,8 +25,119 @@ Despite the sense of impending chaos that is perhaps inevitable in a film that j
 
 This closing image suggests a director who likes to keep a tight rein on his creation. But, Altman says, only one type of control interests him: ‘the control to be able to change and let ideas come in from my collaborators. To have the ability to say “Yeah” and turn the piece this way or that.’
 
-Altman also offers another, perhaps more apposite analogy, that applies just as well to his career as a whole – reckless, unruly, wilfully patchy – as it does to particular films like _Short Cuts_. ‘It comes down to what occurs to me. It’s like doing art – I’m not doing Rembrandts or Corots, I’m doing Rauschenbergs. I’m doing collages. If suddenly I want to stick into my painting a photograph of a flat-iron, it just goes in.’
-**Jonathan Romney, _Sight and Sound_, March 1994**
+Altman also offers another, perhaps more apposite analogy, that applies just as well to his career as a whole – reckless, unruly, wilfully patchy – as it does to particular films like _Short Cuts_. ‘It comes down to what occurs to me. It’s like doing art – I’m not doing Rembrandts or Corots, I’m doing Rauschenbergs. I’m doing collages. If suddenly I want to stick into my painting a photograph of a flat-iron, it just goes in.’<br>
+**Jonathan Romney, _Sight and Sound_, March 1994**<br>
+
+**SHORT CUTS**<br>
+_Director_: Robert Altman  
+©: Short Cut Productions  
+_Presented by_: Spelling Films International  
+_Presented in association with_: Fine Line Features  
+_Production Company_: Avenue Pictures  
+_Executive Producer_: Scott Bushnell  
+_Producer_: Cary Brokaw  
+_Associate Producers_: Mike Kaplan, David Levy  
+_Unit Production Manager_: Diana Pokorny  
+_Production Accountant_: Kimberly Edwards Shapiro  
+_Location Managers_: Jack Kney, Paul Boydston  
+_1st Assistant Director_: Allan Nicholls  
+_Script Supervisor_: Luca Kouimelis  
+_Screenplay_: Robert Altman, Frank Barhydt  
+_Based on the writings by_: Raymond Carver  
+_Director of Photography_: Walt Lloyd  
+_Helicopter Camera Operator_: Alexander Witt  
+_1st Assistant Camera_: Robert Reed Altman  
+_Gaffer_: Jack English  
+_Key Grip_: Anthony T. Marra II  
+_Stills Photography_: Joyce Rudolph  
+_Special Effects_: John Harrdigan,  
+Christopher Nelson  
+_Film Editors_: Geraldine Peroni, Suzy Elmiger  
+_1st Assistant Editors_: David Leonard, Sandra Kaufman  
+_Production Designer_: Stephen Altman  
+_Art Director_: Jerry Fleming  
+_Marian’s Paintings_: Meg Freeman  
+_Property Master_: Tony Maccario  
+_Costumes by_: John Hay  
+_Make-up/Hair Supervisor_: Theo Mayes  
+_Titles Designed/Produced by_: Balsmeyer & Everett Inc  
+_Colour Timer_: Mike Stanwick  
+_Original Score Composed by_: Mark Isham  
+_Performed by_: David Speltz, Mark Isham  
+_Production Sound Mixer_: John Pritchett  
+_Boom Operator_: Joel Shryack  
+_Re-recording Mixers_: Lee Dichter, Michael Barry  
+_Supervising Sound Editor_: Eliza Paley  
+_Dialogue Editors_: Jeffrey Stern, Elliot Deitch  
+_Sound Effects Editor_: Margie Crimmins  
+_Stunt Co-ordinator_: Greg Walker  
+_Animal Trainer_: Kim’s Critters
+
+**Cast**  
+Andie MacDowell _(Ann Finnigan)_  
+Bruce Davison _(Howard Finnigan)_  
+Jack Lemmon _(Paul Finnigan)_  
+Zane Cassidy _(Casey Finnigan)_  
+Julianne Moore _(Marian Wyman)_  
+Matthew Modine _(Dr Ralph Wyman)_  
+Anne Archer _(Claire Kane)_  
+Fred Ward _(Stuart Kane)_  
+Jennifer Jason Leigh _(Lois Kaiser)_  
+Chris Penn _(Jerry Kaiser)_  
+Joseph C. Hopkins _(Joe Kaiser)_  
+Josette Maccario _(Josette Kaiser)_  
+Lili Taylor _(Honey Bush)_  
+Robert Downey Jr _(Bill Bush)_  
+Madeleine Stowe _(Sherri Shepard)_  
+Tim Robbins _(Gene Shepard)_  
+Cassy Friel _(Sandy Shepard)_  
+Dustin Friel _(Will Shepard)_  
+Austin Friel _(Austin Shepard)_  
+Lily Tomlin _(Doreen Piggot)_  
+Tom Waits _(Earl Piggot)_  
+Frances McDormand _(Betty Weathers)_  
+Peter Gallagher _(Stormy Weathers)_  
+Jarrett Lennon _(Chad Weathers)_  
+Annie Ross _(Tess Trainer)_  
+Lori Singer _(Zoe Trainer)_  
+Lyle Lovett _(Andy Bitkower)_  
+Buck Henry _(Gordon Johnson)_  
+Huey Lewis _(Vern Miller)_  
+Danny Darst _(Aubrey Bell)_  
+Margerie Bond _(Dora Willis)_  
+Robert DoQui _(Knute Willis)_  
+Darnell Williams _(Joe Robbins)_  
+Michael Beach _(Jim Stone)_  
+Andi Chapman _(Harriet Stone)_  
+Deborah Falconer _(Barbara)_  
+Susie Cusack _(Nancy)_  
+Charles Rocket _(Wally Littleton)_  
+Jane Alden _(Mrs Schwartzmeier)_  
+Christian Altman _(Jimmy Miller)_  
+Willie Marlett _(Jimmy’s friend)_  
+Dirk Blocker _(diner customer)_  
+Suzanne Calvert _(Tarmac secretary)_  
+Natalie Strong _(mourner)_  
+Jay Della _(bartender)_  
+Jeruth Persson _(club owner)_  
+Derek Webster _(Joe Robbins’ pal)_  
+Nathaniel H. Harris III _(Joe Robbins’ pal)_  
+Alex Trebek _(himself)_  
+Jerry Dunphy _(himself)_
+_Annie Ross & The Low Note Quintet:_  
+Annie Ross _(vocals),_ Terry Adams _(piano)_,  
+Bobby Previte _(drums)_, Greg Cohen _(bass)_,  
+Gene Estes _(vibes)_, Bruce Fowler _(trombone)_
+
+_The Trout Quintet:_ Lori Singer _(cello)_, Stuart Canin _(1st violin)_, Anatoly Rosinsky _(violin)__,_ Roland Kato _(viola)_, Armen Guzelimian _(piano)_
+
+USA 1993
+
+188 mins
+
+Print courtesy of the Robert Altman Collection at the UCLA Film & Television Archive
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTU3NDU2MDhdfQ==
+eyJoaXN0b3J5IjpbMzM3ODY5MTc2XX0=
 -->
