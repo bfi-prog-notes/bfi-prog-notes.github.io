@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Rear Window
+published: true
+date: 2021-07-04
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Thriller]
+metadata: 'USA, 1954, 112 mins<br> Director: Alfred Hitchcock'
+pdf: '2021-07-04-rear-window.pdf'
+---
 
 **Refocusing the Spectator: a comparison of the critical response to  ‘Rear Window’ in 1954 and on its re-release in 1983**
 
@@ -8,8 +18,7 @@ This wonderfully fitting blindness was not, however, total: an awareness of the 
 
 What is particularly interesting about this review is the link made, effectively in terms of an opposition, between voyeurism and the question of sexual difference (tough men resisting demanding women). It is not far from there to the crucial point that, as Robin Wood puts it, ‘the spectatorship inscribed in the film is by no means neutral. It is unambiguously male.’ This has massive significance, not only for the film’s internal dynamics (from its jokey phallic symbolism to the idea that it is as much about the projection of male anxieties as it is about spying), but also for the relation between this text, ‘Hitchcock’ generally, the cinematic apparatus to which the film clearly refers, and ‘the central question that haunts contemporary Hitchcock criticism in article after article: “Can Hitchcock be saved for feminism?”’ (Wood). And, perhaps predictably, turning to reviews written 30 years after these originals, this issue is happily ignored, a classic case of a structuring absence which prompts the feeling that very little has changed.
 
-Appropriately, the worst offender is _The Spectator_ (3.12.83), where Peter Ackroyd attempts to turn the clock back to 1954 by dismissing any attempts by what he calls ‘theoretical critics’ to read any significance into the film:  
-‘I suspect that _Rear_ _Window_ ought to be taken at face value (and what more enduring value is there in the cinema?) as a “thriller” in which Hitchcock has taken his own delight in suspense and puzzle one stage further.’ In fact, Ackroyd unwittingly acknowledges the importance of the sexual difference issue when he suggests how one might cope with the film’s supposed longueurs: ‘There are so many rumours about Hitchcock’s behaviour towards his actresses that one can while away the time speculating on the horrors he perpetrated on her [Grace Kelly].’ Several of the critics are similarly eager to deflect attention away from ‘Hitchcock’ and towards Hitchcock. Thus Alexander Walker (_The_ _Standard_, 1.12.83) claims that ‘Hitchcock is so clearly in love with Grace Kelly that she is almost like an apparition ... Beauty and bitch, that’s how Hitchcock saw women’; while Philip French (_Observer_, 4.12.83) suggests that ‘What we now know about Hitchcock’s life leads us to think of the central character, an inhibited class-conscious voyeur ... as being a portrait of the director himself.’
+Appropriately, the worst offender is _The Spectator_ (3.12.83), where Peter Ackroyd attempts to turn the clock back to 1954 by dismissing any attempts by what he calls ‘theoretical critics’ to read any significance into the film:  ‘I suspect that _Rear_ _Window_ ought to be taken at face value (and what more enduring value is there in the cinema?) as a “thriller” in which Hitchcock has taken his own delight in suspense and puzzle one stage further.’ In fact, Ackroyd unwittingly acknowledges the importance of the sexual difference issue when he suggests how one might cope with the film’s supposed longueurs: ‘There are so many rumours about Hitchcock’s behaviour towards his actresses that one can while away the time speculating on the horrors he perpetrated on her [Grace Kelly].’ Several of the critics are similarly eager to deflect attention away from ‘Hitchcock’ and towards Hitchcock. Thus Alexander Walker (_The_ _Standard_, 1.12.83) claims that ‘Hitchcock is so clearly in love with Grace Kelly that she is almost like an apparition ... Beauty and bitch, that’s how Hitchcock saw women’; while Philip French (_Observer_, 4.12.83) suggests that ‘What we now know about Hitchcock’s life leads us to think of the central character, an inhibited class-conscious voyeur ... as being a portrait of the director himself.’
 
 Interestingly, this displacement of the voyeurism on to a fantasy figure outside the film goes hand-in-hand with the desire of both critics to shift the concern with looking on to an equivalent historicised plane. French states that ‘the meaning of _Rear_ _Window_ is in the point-of-view’ but proposes that it ‘reflected the tensions of the early Eisenhower era (by being) about suspicion, paranoia, surveillance, the breakdown of community.’ If this seems, given the film’s intense self-reflexiveness, a rather arbitrary observation, Walker’s suggestion that it cosily ‘takes us back in time as well as perspective (because) a body in the back garden is so much easier to contemplate than a Bomb on the conscience’ is merely rather puzzling.
 
@@ -84,6 +93,50 @@ Iphigenie Castiglioni _(bird woman)_<br>
 USA 1954©<br>
 112 mins
 <br><br>
+
+**BIG SCREEN CLASSICS**<br>
+**Battleship Potemkin (Bronenosets Potemkin)**<br>
+Thu 1 Jul 14:30; Thu 15 Jul 18:00; Sat 24 Jul 11:50<br>
+**Hope and Glory**<br>
+Thu 1 Jul 17:30; Mon 5 Jul 14:30; Fri 23 Jul 18:00<br>
+**Casablanca**<br>
+Fri 2 Jul 14:30; Sat 17 Jul 13:00; Sat 24 Jul 14:40; Thu 29 Jul 18:00<br>
+**All about My Mother (Todo sobre mi madre)**<br>
+Fri 2 Jul 20:40; Tue 6 Jul 20:45; Sat 10 Jul 21:00; Thu 22 Jul 14:30<br>
+**How Green Was My Valley**<br>
+Sat 3 Jul 11:30; Thu 8 Jul 14:15; Fri 16 Jul 17:50<br>
+**Wild Strawberries (Smultronstället)**<br>
+Sat 3 Jul 18:10; Mon 5 Jul 20:45; Sun 11 Jul 12:50; Wed 21 Jul 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Tue 27 Jul 14:30<br>
+**All the President’s Men**<br>
+Sun 4 Jul 11:50; Tue 20 Jul 14:15; Sat 31 Jul 20:20<br>
+**Rear Window**<br>
+Sun 4 Jul 15:40; Fri 9 Jul 14:30; Tue 20 Jul 17:50; Mon 26 Jul 18:00; Sat 31 Jul 11:10<br>
+**The Magnificent Ambersons**<br>
+Mon 5 Jul 20:50; Wed 14 Jul 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Sun 25 Jul 15:00<br>
+**Distant Voices, Still Lives**<br>
+Wed 7 Jul 18:00 (+ pre-recorded intro by film critic Thirza Wakefield); Sun 18 Jul 12:45; Mon 19 Jul 20:50; Fri 30 Jul 14:30<br>
+**35 Shots of Rum (35 Rhums)**<br>
+Mon 12 Jul 20:45; Wed 28 Jul 17:40 (+ pre-recorded intro by Be Manzini, poet and director of Caramel Film Club)<br>
+**Man About Town (Le Silence est d’or)**<br>
+Tue 13 Jul 14:15; Sun 18 Jul 12:30; Mon 26 Jul 14:20<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwMTY2OTk5MjVdfQ==
 -->
