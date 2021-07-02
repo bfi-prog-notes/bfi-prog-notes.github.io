@@ -66,40 +66,25 @@ _Re-recording Mixers:_ José Antonio Bermúdez, Diego Garrido<br>
 _Sound Effects:_ Luis Castro<br>
 _Stunt Co-ordinator:_ Antonio Lemos<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Cecilia Roth _(Manuela)_<br>
-
 Marisa Paredes _(Huma Rojo)_<br>
-
 Candela Peña _(Niña)_<br>
-
 Antonia San Juan _(‘La Agrado’)_<br>
-
 Penélope Cruz _(Sister Rosa)_<br>
-
 Rosa María Sardá _(Sister Rosa’s mother)_<br>
-
 Fernando Fernán Gómez _(Sister Rosa’s father)_<br>
-
-Fernando Guillén  
-_(doctor in ‘El Tranvía Llamado Deseo’)_<br>
-
+Fernando Guillén  _(doctor in ‘El Tranvía Llamado Deseo’)_<br>
 Toni Cantó _(Lola, ‘la Pionera’)_<br>
-
 Eloy Azorin _(Esteban)_<br>
-
 Carlos Lozano _(Mario)_<br>
-
 Juan José Otegui _(gynaecologist)_<br>
-
 Manuel Morón, José Luis Torrijo, Carmen Balagué, Malena Gutierrez, Yael Barnatán, Carmen Fortuny, Patxi Freytez, Juan Márquez, Michel Ruben,  
-Daniel Lanchas, Rosa Manaut, Carlos García Cambero, Paz Sufrategui, Lola García,  
-Lluis Pascual<br>
+Daniel Lanchas, Rosa Manaut, Carlos García Cambero, Paz Sufrategui, Lola García,  Lluis Pascual<br>
 
 Spain/France 1999©<br>
 101 mins
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQwMzg0OTJdfQ==
+eyJoaXN0b3J5IjpbODg4MDk2ODgwXX0=
 -->
