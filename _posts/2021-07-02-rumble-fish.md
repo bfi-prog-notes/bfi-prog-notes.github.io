@@ -42,14 +42,11 @@ _Director of Photography_: Stephen H. Burum
 _Effects Photography_: Robert Primes  
 _Camera Operator_: Bokhof  
 _Computer Camera Operator_: Mat Beck  
-_Assistant Photographers_: Dustin Blauvelt,  
-Steve Hiller  
+_Assistant Photographers_: Dustin Blauvelt,  Steve Hiller  
 _Video Engineer_: Brian Lee  
-_Video Technicians_: C. Mitchell Amundsen,  
-David Smith  
+_Video Technicians_: C. Mitchell Amundsen,  David Smith  
 _Electronic Cinema/Systems Engineer_: Murdo Laird  
-_Special Visual Effects_: Marty Bresin,  
-Robert Spurlock  
+_Special Visual Effects_: Marty Bresin,  Robert Spurlock  
 _Process Co-ordinator_: William G. Hansard Jr  
 _Special Effects Co-Ordinator_: Dennis Dion  
 _Special Effects_: Ralph S. Winiger  
@@ -68,8 +65,7 @@ _Make-up_: Tim McNally, Jeff Kennemore
 _Title Design_: Tavoularis Design  
 _Titles_: Pacific Title  
 _Opticals_: Computer Opticals  
-_Music Composed And Performed by_:  
-Stewart Copeland  
+_Music Composed And Performed by_:  Stewart Copeland  
 _Music Editor_: Robert Randles  
 _Choreography_: Michael Smuin  
 _Sound Design_: Richard Beggs  
@@ -77,18 +73,14 @@ _Sound Recording_: Randy Thom
 _Sound Mixer_: David Parker  
 _Sound Re-Recording_: Richard Beggs, James Austin  
 _Supervising Sound Editor_: Edward Beyer  
-_Sound Editors_: Maurice Shell, Michael Jacobi,  
-C.J. Appel  
-_Sound Effects Recording_: Allan Beyer,  
-Randy Thom, Doug Hemphill  
+_Sound Editors_: Maurice Shell, Michael Jacobi,  C.J. Appel  
+_Sound Effects Recording_: Allan Beyer,  Randy Thom, Doug Hemphill  
 _Stunt Co-Ordinator_: Buddy Joe Hooker  
-_Stunts_: Buddy Joe Hooker, Bill Hooker,  
-Tim Davison, Freddie Hice, Dick Ziker  
+_Stunts_: Buddy Joe Hooker, Bill Hooker,  Tim Davison, Freddie Hice, Dick Ziker  
 _Pool Adviser_: Charles Ursitti  
 _Physical Adviser_: Mark Johnson
 
-_Cast:_
-
+**Cast**  
 Matt Dillon _(Rusty-James)_  
 Mickey Rourke _(Motorcycle Boy)_  
 Diane Lane _(Patty)_  
@@ -109,15 +101,13 @@ Domino _(Patty’s sister)_
 Gio _(Cousin James)_  
 S.E. Hinton _(hooker on the Strip)_  
 Emmett Brown _(Mr Dobson)_  
-Tracey Walter, Lance William Guecia_  
-(alley muggers)_  
+Tracey Walter, Lance William Guecia _(alley muggers)_  
 Bob Maras _(policeman)_  
 J.T. Turner _(maths teacher)_  
 Keeva Clayton, Kirsten Hayden, Karen Parker, Sussannah Darcy, Kristi Somers _(lake girls)_
 
-USA 1983
-
+USA 1983  
 94 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxNjc1Mzk4XX0=
+eyJoaXN0b3J5IjpbNDc5NzczNTkwXX0=
 -->
