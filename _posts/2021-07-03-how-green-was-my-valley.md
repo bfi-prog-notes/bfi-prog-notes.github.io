@@ -21,11 +21,9 @@ This is a splendid picture. It is a fine human story, most admirably produced an
 
 
 
-**How Green Was My Valley**
-
+**HOW GREEN WAS MY VALLEY**  
 _Directed by_: John Ford  
-_Production Company_:  
-Twentieth Century-Fox Film Corporation  
+_Production Company_:  Twentieth Century-Fox Film Corporation  
 _Produced by_: Darryl F. Zanuck  
 _Screen Play by_: Philip Dunne  
 _Based on the novel by_: Richard Llewellyn  
@@ -38,8 +36,7 @@ _Make-up Artist_: Guy Pearce
 _Music_: Alfred Newman  
 _Sound_: Eugene Grossman, Roger Heman
 
-_uncredited_
-
+_uncredited_  
 _Unit Production Manager_: Gene Bryant  
 _Production Manager_: William Koenig  
 _Location Manager_: Ray Moore  
@@ -59,8 +56,7 @@ _Stand-in for Donald Crisp_: C.C. Hardy
 _Technical Advisers_: Rhys Williams, Idwal Jones  
 _General Press Representative_: Hal Horne
 
-_Cast:_
-
+**Cast**  
 Walter Pidgeon _(Mr Gruffydd)_  
 Maureen O’Hara _(Angharad Morgan)_  
 Donald Crisp _(Mr Gwilym Morgan)_  
@@ -83,8 +79,7 @@ Lionel Pape _(Mr J.C. Evans)_
 Ethel Griffies _(Mrs Nicholas)_  
 Marten Lamont _(Iestyn Evans)_
 
-_uncredited_
-
+_uncredited_  
 Clifford Severn _(Mervyn)_  
 Dennis Hoey _(Mr Motshell)_  
 Eve March _(Meillyn Lewis)_  
@@ -94,13 +89,11 @@ Mary Field _(Eve)_
 Mae Marsh _(wife of a miner)_  
 Louis Jean Heydt _(miner)_  
 Elizabeth Jones _(Mrs Tossel, the toffee lady)_  
-Jack Pennick _(mine superintendent)_
+Jack Pennick _(mine superintendent)_  
+Irving Pichel _(narrator)_  
 
-Irving Pichel _(narrator)_
-
-USA 1941
-
+USA 1941  
 122 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc2MTQ3MzVdfQ==
+eyJoaXN0b3J5IjpbLTEwMTIwOTI1NjNdfQ==
 -->
