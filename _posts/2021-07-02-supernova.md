@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Supernova
+published: true
+date: 2021-07-02
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'UK, 2020, 93 mins<br> Director: Harry Macqueen'
+pdf: '2021-07-02-supernova.pdf'
+---
 
 A lovely, semi-abstract sequence opens Harry Macqueen’s _Supernova_. A dark sky lights up, star by star, in time with a single repeated piano note. With every key strike, more points of light appear; one shines brighter than the rest, briefly, then winks out. A hand resting on a naked torso twitches absently, also in time with the music – it’s as though, in sleep, the fingers are picking out a tune that plays whole galaxies into and out of existence a billion miles away. The film will not always be this subtly allusive – sometimes it will fill out a melody that might have been better left as a half-remembered motif – but mostly this is the perfect induction into _Supernova_’s delicate connection-making, between the very close and the unreachably distant, the seismic and the minute.
 
@@ -117,6 +127,48 @@ UK 2020©
 93 mins
 
 A Studiocanal release
+<br><br>
+
+**NEW RELEASES & RE-RELEASES**<br>
+**After Love**<br>
+Continues from Jun<br>
+**The Reason I Jump**<br>
+Continues from Jun<br>
+**Nashville**<br>
+Continues from Jun<br>
+**The Father**<br>
+Continues from Jun<br>
+**Supernova**<br>
+From Fri 2 Jul<br>
+**Another Round**<br>
+From Fri 9 Jul<br>
+**Jumbo**<br>
+From Fri 9 Jul<br>
+**Deerskin**<br>
+From Fri 16 Jul<br>
+**Girlfriends**<br>
+From Fri 23 Jul<br>
+**Mandabi**<br>
+From Fri 23 Jul<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE5MTU4MjIzMDhdfQ==
 -->
