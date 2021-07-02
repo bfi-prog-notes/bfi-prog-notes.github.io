@@ -91,123 +91,66 @@ Marcel Dalio _(Emile, the croupier)_<br>
 Charles La Torre _(First Officer Tonnelli)_<br>
 Corinna Mura _(Andreya, singer)_<br>
 Ludwig Stössel _(Mr Leuchtag)_<br>
-
 Ilka Gruning _(Mrs Leuchtag)_<br>
-
 Frank Puglia _(Arab vendor)_<br>
-
 Dan Seymour _(Abdul, Rick’s doorman)_<br>
-
 Oliver Blake _(Blue Parrot bartender)_<br>
-
 Gregory Gaye _(German banker)_<br>
-
 George Meeker _(friend)_<br>
-
 William Edmunds _(contact)_<br>
-
 Torben Meyer _(banker)_<br>
-
 Gino Corrado _(waiter)_<br>
-
 George Dee _(Casselle)_<br>
-
 Norma Varden _(Englishwoman)_<br>
-
 Leo Mostovoy _(Fydor)_<br>
-
 Richard Ryen _(Heinz)_<br>
-
 Martin Garralaga _(head waiter)_<br>
-
 Olaf Hytten _(prosperous man)_<br>
-
 Monte Blue _(American)_<br>
-
 Michael Mark _(vendor)_<br>
-
 Leon Belasco _(dealer)_<br>
-
 Paul Porcasi _(native)_<br>
-
 Hans Heinz von Twardowski _(German officer)_<br>
-
 Alberto Morin _(French officer)_<br>
-
 Creighton Hale _(customer)_<br>
-
 Henry Rowland _(German officer)_<br>
-
 Jean Del Val _(police officer)_<br>
-
 Franco Corsaro _(French police officer)_<br>
-
 Jamiel Hasson _(muezzin)_<br>
-
 Lal Chand Mehra _(policeman 1)_<br>
-
 Manuel Lopez _(policeman 2)_<br>
-
 Wolfgang Zilzer _(civilian)_<br>
-
 Winifred Harris _(Englishwoman)_<br>
-
 Arthur DuLac _(news vendor)_<br>
-
 Gerald Oliver Smith, Herbert Evans _(Englishmen)_<br>
-
 Joe de Villard _(Moroccan)_<br>
-
 Adrienne D’Ambricourt _(concierge)_<br>
-
 Louis Arco, Lester Sharpe _(refugees)_<br>
-
 Jacques Lory _(moor)_<br>
-
 Arthur Hull _(elderly admirer)_<br>
-
 Anita Camargo _(woman companion)_<br>
-
 George Renavent, Louis Mercier _(conspirators)_<br>
-
 Geoffrey Steele _(customer)_<br>
-
 Maurice Brierre _(baccarat dealer)_<br>
-
 Frank Arnold _(overseer)_<br>
-
 Dina Smirnova _(woman customer)_<br>
-
 Dick Botiller, George Sorel _(native officers)_<br>
-
 Gregory Golubeff _(cashier)_<br>
-
 George Carleton _(American)_<br>
-
 Jacques Vanaire _(Frenchman)_<br>
-
 Paul Irving _(prosperous tourist)_<br>
-
 Jean De Briac _(orderly)_<br>
-
 Nino Pellini _(gendarme)_<br>
-
 Paul Panzer _(waiter)_<br>
-
 Barry Norton, Elinor Vandivere _(gamblers)_<br>
-
 Don Keefer<br>
-
 Dewey Robinson<br>
-
 Lotte Palfi<br>
-
 Trude Berliner<br>
-
 Melie Chang<br>
 
 USA 1942©<br>
 102 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQ0MzMwNjhdfQ==
+eyJoaXN0b3J5IjpbNzAxNDA1MzcwXX0=
 -->
