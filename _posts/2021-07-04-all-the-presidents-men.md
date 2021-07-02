@@ -82,7 +82,7 @@ _Research_: Steve Bussard, De Forest Research<br>
 _Production Publicist_: Jack Hirshberg<br>
 _Studio_: Burbank Studios<br>
 
-_Cast:_<br>
+**Cast**<br>
 Dustin Hoffman _(Carl Bernstein)_<br>
 Robert Redford _(Bob Woodward)_<br>
 Jack Warden _(Harry Rosenfeld)_<br>
@@ -136,13 +136,13 @@ Laurence Covington _(news announcer)_<br>
 John Devlin _(Metro editor)_<br>
 John Furlong _(newsdesk editor)_<br>
 Sidney Ganis _(LA stringer)_<br>
-Amy Grossman_,_ Cynthia Herbst _(reporters)_<br>
+Amy Grossman, Cynthia Herbst _(reporters)_<br>
 Basil Hoffman _(assistant Metro editor)_<br>
 Mark Holtzman _(reporter)_<br>
 Jamie Smith Jackson _(Post librarian)_<br>
 Barbara Litsky _(reporter)_<br>
 Doug Llewelyn _(White House aide)_<br>
-Jeff Mackay_,_ Irwin Marcus_,_ Greg Martin _(reporters)_<br>
+Jeff Mackay, Irwin Marcus, Greg Martin _(reporters)_<br>
 Ron Menchine _(Starkey)_<br>
 Christopher Murray _(photo aide)_<br>
 Jess Nadelman _(assistant Metro editor)_<br>
@@ -152,7 +152,7 @@ Barbara Perlman _(CRP receptionist)_<br>
 Louis Quinn _(salesman)_<br>
 Peter Salim _(reporter)_<br>
 Shawn Shea _(news aide)_<br>
-Marvin Smith_,_ Pam Trager _(reporters)_<br>
+Marvin Smith, Pam Trager _(reporters)_<br>
 
 USA 1976©<br>
 138 mins
