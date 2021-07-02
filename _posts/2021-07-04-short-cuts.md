@@ -140,8 +140,7 @@ Bobby Previte _(drums)_, Greg Cohen _(bass)_,
 Gene Estes _(vibes)_, Bruce Fowler _(trombone)_
 _The Trout Quintet:_ Lori Singer _(cello)_, Stuart Canin _(1st violin)_, Anatoly Rosinsky _(violin)_, Roland Kato _(viola)_, Armen Guzelimian _(piano)_
 
-USA 1993<br>
-188 mins<br>
+USA 1993<br>188 mins<br>
 
 Print courtesy of the Robert Altman Collection at the UCLA Film & Television Archive<br>
 
@@ -197,3 +196,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjYzNzI0OF19
+-->
