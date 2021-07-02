@@ -9,7 +9,7 @@ _Prêt-à-porter_ is essentially a backstage fashion-show movie, in the same sen
 At the very end of his film, Altman gives the fashion show an anti-fashion twist by turning it into a public exhibition of nudity, with the female body as a site of authenticity, in contrast with the inauthenticity of fashion. Watching this update of The Emperor’s New Clothes, I was reminded of Rudi Gernreich’s experience with his topless bathing suit of 1964, which he deliberately chose not to show on the catwalk. Gernreich’s use of nudity in fashion caused a flurry of press publicity but had very little lasting impact on fashion itself. It was too risky, too ‘philosophical’. Twenty years later Peggy Moffitt, Gernreich’s principal model, threatened to resign from the Los Angeles Fashion Group if the topless suit was modelled on stage at a retrospective of Gernreich’s work. Moffitt protested that ‘Rudi did the suit as a social statement. It was an exaggeration that had to do with setting women free. It had nothing to do with display and the minute someone wears it to show off her body, you’ve negated the entire principle of the thing.’ Altman has argued that the presence of Ute Lemper, nude, eight and a half months pregnant, in the climactic runway sequence of _Prêt-à-porter_, ‘took the titillation out of it’. Even if this were true, it still comes across as hype, exploiting shock effect to outdo the fashion world and establish Altman himself as cock of the walk.
 **Peter Wollen, _Sight and Sound_, March 1995**
 <br>
-**Prêt-à-porter**  
+**PRÊT-À-PORTER**  
 _Directed by_: Robert Altman  
 ©: Miramax Film Corp.  
 _Presented by_: Miramax Films, IMA Films  
@@ -25,14 +25,12 @@ _Production Accountant_: Martine Ledarath
 _Location Unit Manager_: Eric Muller  
 _Creative Consultant_: Nathalie Rykiel  
 _Assistants to Robert Altman_: Signe Corriere,
-
 Konni Corriere  
 _Assistant to Scott Bushnell_: James McLindon  
 _Production Secretary_: Veronique Mutrel  
 _Assistant to Sophia Loren_: Ruth Bapst  
 _2nd Unit Film & TV Director_: Allan Nicholls  
 _1st Assistant Directors_: Jérôme Enrico,
-
 Philippe Landoulsi  
 _2nd Assistant Directors_: Olivier Greco,  
 Emmanuel Hamon, Jean-Marc Joly  
@@ -40,12 +38,10 @@ _Script Supervisor_: Carmen Soriano
 _French Casting_: Guylène Péan, Alberte Garo  
 _Written by_: Robert Altman, Barbara Shulgasser  
 _Directors of Photography_: Pierre Mignot,
-
 Jean Lépine  
 _1st Camera Assistant_: Christian Fournie,  
 William Watterlot  
 _2nd Camera Assistants_: Philippe Ramdane,
-
 David Ungaro  
 _Key Gaffer_: Michel Lefrançois, Michel Gonckel  
 _Key Grip_: Charles Freess  
@@ -53,7 +49,6 @@ _Still Photographer_: Étienne George
 _Edited by_: Geraldine Peroni  
 _Film Editor_: Suzy Elmiger  
 _1st Assistant Editors_: Dylan Tichenor,
-
 Lizabeth Gelber  
 _Production Designer_: Stephen Altman  
 _Art Director_: William Abello  
@@ -68,9 +63,7 @@ _Key Make-up_: Judith Gayo, Jacques Clémente
 _Make-up Artists_: Jean-Christophe Roger, Christophe Danchaud, Jack Freeman  
 _Key Hairstylist_: Paul de Fisser, Mirella Ginotto, Lolita Avellanas, Jean-Charles Bachelier  
 _Hairstylists_: Maury Hopson, Franck Mendoche, Constance Hartnett  
-_Titles Designed/Produced by_:
-
-Balsmeyer & Everett Inc  
+_Titles Designed/Produced by_: Balsmeyer & Everett Inc  
 _Computer Graphics for Main Titles by_:  
 Syzygy Digital Cinema  
 _Negative Cutter_: Match/Cut, Technicolor  
@@ -89,7 +82,7 @@ _Foley Supervisor_: Bruce Pross
 _Foley Artist_: Marko Costanza  
 _Foley Editor_: Frank Kern, Steve Visscher
 
-_Cast:_  
+**Cast**
 Sophia Loren _(Isabella de la Fontaine)_  
 Anouk Aimée _(Simone Lowenthal)_  
 Marcello Mastroianni _(Sergei (Sergio))_  
@@ -158,5 +151,5 @@ USA 1994
 133 mins
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ5NzM4ODddfQ==
+eyJoaXN0b3J5IjpbLTE4MTQ3NzEwMTldfQ==
 -->
