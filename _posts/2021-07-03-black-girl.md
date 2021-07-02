@@ -37,7 +37,7 @@ All the dialogue in _La Noire de_… is in French – the last time this would h
 **I Bit My Tongue**<br>
 
 Can we get our mother tongue, and things lost with it, back? <br>
-<br
+<br>
 
 
 **I BIT MY TOUNGUE**<br>
@@ -48,9 +48,6 @@ France 2020<br>
 <br>
 
 **BLACK GIRL (LA NOIRE DE...)**<br>
-
-**Black Girl (La noire de…)**
-
 _Director_: Ousmane Sembène  
 _Production Companies_: Filmi Doomireew, Actualités Françaises  
 _Participation_: Ministère de la Coopération  
