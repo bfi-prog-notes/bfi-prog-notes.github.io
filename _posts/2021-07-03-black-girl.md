@@ -8,7 +8,7 @@ categories: ['T A P E PRESENTS<br> BUT WHERE ARE YOU REALLY FROM &#63']
 tags: [Drama]
 metadata: 'Senegal/France, 1965, 66 mins<br> Director: Ousmane Sembène'
 pdf: '2021-07-03-black-girl.pdf'
-<![endif]--->
+---
 
 **SPOILER WARNING  The following notes give away the film’s ending**
 
@@ -39,18 +39,15 @@ All the dialogue in _La Noire de_… is in French – the last time this would h
 Can we get our mother tongue, and things lost with it, back? <br>
 <br
 
-<![endif]-->
 
-**I BITit MYy TOUNGUE**<br>ongue**
-
+**I BIT MY TOUNGUE**<br>
 _Director:_ Nina Khada<br>
 
 France 2020<br>
-
 25 mins<br>
 <br>
 
-**BLACK GIRL (LA NOIRE DE...)**<br>(
+**BLACK GIRL (LA NOIRE DE...)**<br>
 
 **Black Girl (La noire de…)**
 
@@ -64,9 +61,6 @@ _Director of Photography_: Christian Lacoste
 _Editor_: André Gaudier<br>
 
 **Cast**<br>
-
-_Cast:_
-
 Mbissine Thérèse Diop _(Diouana)_  
 Anne-Marie Jelinek _(Madame)_  
 Robert Fontaine _(Monsieur)_  
