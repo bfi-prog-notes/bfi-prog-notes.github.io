@@ -21,124 +21,78 @@ The problem is how to relate this imaginary, impossible ‘us’ to what is goin
 
 
 **REAR WINDOW**<br>
-
 _Directed by_: Alfred Hitchcock<br>
-
 ©: Patron Inc.<br>
-
 _a_ Paramount _release_<br>
-
 _Assistant Director_: Herbert Coleman<br>
-
 _Screenplay by_: John Michael Hayes<br>
-
 _Based on the short story by_: Cornell Woolrich<br>
-
 _Director of Photography_: Robert Burks<br>
-
 _Technicolor Colour Consultant_: Richard Mueller<br>
-
 _Special Photographic Effects_: John P. Fulton<br>
-
 _Edited by_: George Tomasini<br>
-
-_Art Direction_: Hal Pereira,  
-Joseph MacMillan Johnson<br>
-
+_Art Direction_: Hal Pereira,  Joseph MacMillan Johnson<br>
 _Set Decoration_: Sam Comer, Ray Moyer<br>
-
 _Costumes_: Edith Head<br>
-
 _Make-up Supervision_: Wally Westmore<br>
-
 _Music Score by_: Franz Waxman<br>
-
 _Sound Recording by_: Harry Lindgren, John Cope<br>
-
 _Sound System_: Western Electric Recording<br>
-
 _Technical Adviser_: Bob Landry<br>
 
 _uncredited_<br>
-
 _Producer_: Alfred Hitchcock<br>
-
 _Production Manager_: C.O. Erickson<br>
-
 _Camera Operator_: William Schurr<br>
-
 _Camera Assistant_: Leonard South<br>
-
 _Special Cinematography_: Irmin Roberts<br>
-
 _Stunt Detectives_: Fred Graham, Eddie Parker<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 James Stewart _(L.B. ‘Jeff’ Jefferies)_<br>
-
 Grace Kelly _(Lisa Carol Fremont)_<br>
+Wendell Corey _(Detective Thomas J. Doyle)_<br>
+Thelma Ritter _(Stella)_<br>
+Raymond Burr _(Lars Thorwald)_<br>
+Judith Evelyn _(Miss Lonely Hearts)_<br>
+Ross Bagdasarian _(song writer)_<br>
+Georgine Darcy _(Miss Torso)_<br>
+Sara Berner _(woman on fire escape)_<br>
+Frank Cady _(man on fire escape)_<br>
+Jesslyn Fax _(sculptress)_<br>
+Rand Harper _(Harry, honeymooner)_<br>
+Irene Winston _(Mrs Anna Thorwald)_<br>
+Havis Davenport _(honeymooner)_<br>
 
-Wendell Corey _(Detective Thomas J. Doyle)_
+_uncredited_<br>
+Alan Lee _(landlord)_<br>
+Ralph Smiley _(Carl, the waiter)_<br>
+Alfred Hitchcock  _(man winding clock at song writer’s)_<br>
+Jack Stoney _(iceman)_<br>
+Marla English_,_ Kathryn Grant _(party girls)_<br>
+Jerry Antes _(dancer)_<br>
 
-Thelma Ritter _(Stella)_
+Barbara Bailey _(choreographer)_<br>
 
-Raymond Burr _(Lars Thorwald)_
+Len Hendry,  Mike Mahoney _(policemen)_<br>
 
-Judith Evelyn _(Miss Lonely Hearts)_
+Anthony Warde _(detective)_<br>
 
-Ross Bagdasarian _(song writer)_
+Bennie Bartlett _(Stanley, Miss Torso’s friend)_<br>
 
-Georgine Darcy _(Miss Torso)_
+Bess Flowers _(woman with poodle)_<br>
 
-Sara Berner _(woman on fire escape)_
+Harry Landers _(young man)_<br>
 
-Frank Cady _(man on fire escape)_
+Dick Simmons_,_ James A. Cornell_,_ Nick Borgani _(men)_<br>
 
-Jesslyn Fax _(sculptress)_
+Jenni Paris_,_ Sue Casey _(sunbathers)_<br>
 
-Rand Harper _(Harry, honeymooner)_
+Iphigenie Castiglioni _(bird woman)_<br>
 
-Irene Winston _(Mrs Anna Thorwald)_
-
-Havis Davenport _(honeymooner)_
-
-_uncredited_
-
-Alan Lee _(landlord)_
-
-Ralph Smiley _(Carl, the waiter)_
-
-Alfred Hitchcock  
-_(man winding clock at song writer’s)_
-
-Jack Stoney _(iceman)_
-
-Marla English_,_ Kathryn Grant _(party girls)_
-
-Jerry Antes _(dancer)_
-
-Barbara Bailey _(choreographer)_
-
-Len Hendry,  Mike Mahoney _(policemen)_
-
-Anthony Warde _(detective)_
-
-Bennie Bartlett _(Stanley, Miss Torso’s friend)_
-
-Bess Flowers _(woman with poodle)_
-
-Harry Landers _(young man)_
-
-Dick Simmons_,_ James A. Cornell_,_ Nick Borgani _(men)_
-
-Jenni Paris_,_ Sue Casey _(sunbathers)_
-
-Iphigenie Castiglioni _(bird woman)_
-
-USA 1954©
-
+USA 1954©<br>
 112 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzY0MzQ4M119
+eyJoaXN0b3J5IjpbNzQxMjY4NTM3XX0=
 -->
