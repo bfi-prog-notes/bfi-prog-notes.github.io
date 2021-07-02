@@ -112,7 +112,32 @@ Elisabeth Macocco _(Madame Tanguy)_
 Hans Kemna _(Monsieur Du Plantier)_
 
 France/UK/Netherlands/Italy 1990<br>
-140 mins
+140 mins<br>
+<br><br>
+**ROBERT ALTMAN: AMERICAN OUTSIDER**<br>
+**Vincent and Theo**<br>
+Sat 3 Jul 11:20; Tue 13 Jul 20:30<br>
+**Prêt-à-porter**<br>
+Sat 3 Jul 18:05; Mon 19 Jul 17:40<br>
+**The Player**<br>
+Sat 3 Jul 20:40; Mon 12 Jul 17:45; Wed 28 Jul 20:30<br>
+**Short Cuts**<br>
+Sun 4 Jul 11:30; Sat 17 Jul 19:30<br>
+**Kansas City**<br>
+Sun 4 Jul 15:20; Thu 15 Jul 17:40<br>
+**Cookie’s Fortune**<br>
+Tue 6 Jul 14:50; Wed 7 Jul 20:40; Tue 27 Jul 17:40<br>
+**The Gingerbread Man**<br>
+Fri 9 Jul 20:40; Sat 17 Jul 17:50<br>
+**Dr T & The Women**<br>
+Sat 10 Jul 15:00; Mon 26 Jul 20:30<br>
+**Gosford Park**<br>
+Sun 11 Jul 15:20; Sun 18 Jul 18:20; Fri 23 Jul 14:30<br>
+**The Company**<br>
+Tue 13 Jul 17:50; Sat 31 Jul 11:50<br>
+**A Prairie Home Companion**
+
+Sun 25 Jul 12:00; Sat 31 Jul 17:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzM2OTM0MF19
+eyJoaXN0b3J5IjpbLTE2MDI0MDQ5MTNdfQ==
 -->
