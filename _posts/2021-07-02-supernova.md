@@ -94,12 +94,10 @@ _Sound Re-recording Mixer_: Per Bostrum
 _Supervising Sound Editor_: Joakim Sundström  
 _Animal Wrangler_: Bozena Bienkowska  
 _Unit Publicist_: Charles McDonald  
-_Digital Intermediate by_:  
-Technicolor Services London  
+_Digital Intermediate by_:  Technicolor Services London  
 _Special Thanks_: Lenny Abrahamson, Eve Gabereau, Frances Harvey, Sally Potter, Peter Strickland
 
-_Cast:_
-
+**Cast**  
 Colin Firth _(Sam)_  
 Stanley Tucci _(Tusker)_  
 Pippa Haywood _(Lilly, ‘Lil’)_  
@@ -113,14 +111,12 @@ Daneka Charlotte Etchells _(Rachel)_
 Halema Hussain _(shop assistant)_  
 Julie Hannan _(waitress)_  
 Truffles _(Ruby)_  
-Imogen Barnfather, Ruth Crane, Toby Gaffney,  
-Adi Jones, Ian Mackenzie, Millie Macqueen, Paul Martin, Alex Morrison, Tina Louise Owens, John Alan Roberts, John Seymour, Lewis Sowerby, Justin Storey, Chinty Turnbull _(party guests)_
+Imogen Barnfather, Ruth Crane, Toby Gaffney,  Adi Jones, Ian Mackenzie, Millie Macqueen, Paul Martin, Alex Morrison, Tina Louise Owens, John Alan Roberts, John Seymour, Lewis Sowerby, Justin Storey, Chinty Turnbull _(party guests)_
 
-UK 2020©
-
+UK 2020©  
 93 mins
 
 A Studiocanal release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3NTAzNjA2XX0=
+eyJoaXN0b3J5IjpbLTE5MTU4MjIzMDhdfQ==
 -->
