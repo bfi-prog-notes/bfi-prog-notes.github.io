@@ -196,89 +196,89 @@ Frank Latimore _(judge)_<br>
 
 Gene Lindsey _(Baldwin)_<br>
 
-Anthony Mannino _(2nd arresting officer)_
+Anthony Mannino _(2nd arresting officer)_<br>
 
-Allyn Ann McLerie _(Carolyn Abbot)_
+Allyn Ann McLerie _(Carolyn Abbot)_<br>
 
-James Murtaugh _(Library of Congress clerk)_
+James Murtaugh _(Library of Congress clerk)_<br>
 
-John O’Leary _(attorney 1)_
+John O’Leary _(attorney 1)_<br>
 
-Jess Osuna _(Joe, FBI man)_
+Jess Osuna _(Joe, FBI man)_<br>
 
-Neva Patterson _(angry CRP woman)_
+Neva Patterson _(angry CRP woman)_<br>
 
-George Pentecost _(George)_
+George Pentecost _(George)_<br>
 
-Penny Peyser _(Sharon Lyle)_
+Penny Peyser _(Sharon Lyle)_<br>
 
-Joshua Shelley _(Al Lewis)_
+Joshua Shelley _(Al Lewis)_<br>
 
-Sloane Shelton _(book-keeper’s sister)_
+Sloane Shelton _(book-keeper’s sister)_<br>
 
-Lelan Smith _(3rd arresting officer)_
+Lelan Smith _(3rd arresting officer)_<br>
 
-Jaye Stewart _(male librarian)_
+Jaye Stewart _(male librarian)_<br>
 
-Ralph Williams _(Ray Steuben)_
+Ralph Williams _(Ray Steuben)_<br>
 
-George Wyner _(attorney 2)_
+George Wyner _(attorney 2)_<br>
 
-Leroy Aarons _(financial editor)_
+Leroy Aarons _(financial editor)_<br>
 
-Donnlynn Bennett _(reporter)_
+Donnlynn Bennett _(reporter)_<br>
 
-Stanley Clay _(assistant Metro editor)_
+Stanley Clay _(assistant Metro editor)_<br>
 
-Carol Coggin _(news aide)_
+Carol Coggin _(news aide)_<br>
 
-Laurence Covington _(news announcer)_
+Laurence Covington _(news announcer)_<br>
 
-John Devlin _(Metro editor)_
+John Devlin _(Metro editor)_<br>
 
-John Furlong _(newsdesk editor)_
+John Furlong _(newsdesk editor)_<br>
 
-Sidney Ganis _(LA stringer)_
+Sidney Ganis _(LA stringer)_<br>
 
-Amy Grossman_,_ Cynthia Herbst _(reporters)_
+Amy Grossman_,_ Cynthia Herbst _(reporters)_<br>
 
-Basil Hoffman _(assistant Metro editor)_
+Basil Hoffman _(assistant Metro editor)_<br>
 
-Mark Holtzman _(reporter)_
+Mark Holtzman _(reporter)_<br>
 
-Jamie Smith Jackson _(Post librarian)_
+Jamie Smith Jackson _(Post librarian)_<br>
 
-Barbara Litsky _(reporter)_
+Barbara Litsky _(reporter)_<br>
 
-Doug Llewelyn _(White House aide)_
+Doug Llewelyn _(White House aide)_<br>
 
-Jeff Mackay_,_ Irwin Marcus_,_ Greg Martin _(reporters)_
+Jeff Mackay_,_ Irwin Marcus_,_ Greg Martin _(reporters)_<br>
 
-Ron Menchine _(Starkey)_
+Ron Menchine _(Starkey)_<br>
 
-Christopher Murray _(photo aide)_
+Christopher Murray _(photo aide)_<br>
 
-Jess Nadelman _(assistant Metro editor)_
+Jess Nadelman _(assistant Metro editor)_<br>
 
-Noreen Nielson _(reporter)_
+Noreen Nielson _(reporter)_<br>
 
-Florence Pepper _(message desk receptionist)_
+Florence Pepper _(message desk receptionist)_<br>
 
-Barbara Perlman _(CRP receptionist)_
+Barbara Perlman _(CRP receptionist)_<br>
 
-Louis Quinn _(salesman)_
+Louis Quinn _(salesman)_<br>
 
-Peter Salim _(reporter)_
+Peter Salim _(reporter)_<br>
 
-Shawn Shea _(news aide)_
+Shawn Shea _(news aide)_<br>
 
-Marvin Smith_,_ Pam Trager _(reporters)_
+Marvin Smith_,_ Pam Trager _(reporters)_<br>
 
-USA 1976©
-
+USA 1976©<br>
 138 mins
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzQ0MjU4XX0=
+eyJoaXN0b3J5IjpbLTIxMjUxODUyNTJdfQ==
 -->
