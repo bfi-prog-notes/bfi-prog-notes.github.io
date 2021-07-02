@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Casablanca
+published: true
+date: 2021-07-02
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Romance, War, Drama]
+metadata: 'USA, 1942, 102 mins<br> Director: Michael Curtiz'
+pdf: '2021-07-02-casablanca.pdf'
+---
 
 It’s still the same old story. [Over] 75 years after it was released, _Casablanca_ remains one of the world’s best-loved films. Not just the best-loved, but best-remembered. Many cinephiles can quote large chunks of the dialogue by heart, and _Casablanca_ has the most entries of any film in the American Film Institute’s 100 Greatest Movie Quotes of All Time list.
 
@@ -22,8 +32,7 @@ Quotations from _Casablanca_ appear everywhere from TV adverts to other films, r
 
 Woody Allen sampled the entire movie in a 1969 play, filmed by Herbert Ross in 1972, although the title – _Play It Again, Sam_ – is famously a mangled misquotation of what Rick actually says to his pianist. Bryan Singer’s 1995 thriller _The Usual Suspects_ took its title from one of Renault’s lines. Emma Stone’s Mia in _La La Land_ (2016) is obsessed with the film, sleeping underneath a giant poster of Bergman and working opposite one of its key shooting locations – which suggests a grim prognosis for her fling with Ryan Gosling’s Sebastian.
 
-Bergman said of the film that ‘it has a life of its own. There is something mystical about it. It seems to have filled a need, a need that was there before the film, a need that the film filled.’ The film’s popularity has only grown, and it seems we still need the spirit of _Casablanca_. In November 2016, after the terrorist attacks in Paris, thousands shared a clip from _Casablanca_ online.  
-It was the scene in which the patrons of Rick’s café begin singing the Marseillaise in unison to drown out the Nazis. In a time of trouble, with hate on the rise in Europe, many people found that the defiance of these glamorous refugees in a septuagenarian movie said everything that they needed to say.  
+Bergman said of the film that ‘it has a life of its own. There is something mystical about it. It seems to have filled a need, a need that was there before the film, a need that the film filled.’ The film’s popularity has only grown, and it seems we still need the spirit of _Casablanca_. In November 2016, after the terrorist attacks in Paris, thousands shared a clip from _Casablanca_ online.  It was the scene in which the patrons of Rick’s café begin singing the Marseillaise in unison to drown out the Nazis. In a time of trouble, with hate on the rise in Europe, many people found that the defiance of these glamorous refugees in a septuagenarian movie said everything that they needed to say.  
 **Pamela Hutchinson, bfi.org.uk, 30 November 2017**
 
 How many different drinks does Laszlo (Paul Henreid) order in _Casablanca_? Even the 90 per cent of the population who must feel they know the film’s dialogue by heart might be foxed by that one. The answer, it appears, is four: Cointreau, a cocktail, cognac and whisky. The information comes from an essay on _Casablanca_ and the cult film by Umberto Eco. The explanation, Eco suggests, is not that Laszlo was an eclectic drinker, or that scriptwriters can be forgivably lackadaisical on such fine points, but that Michael Curtiz ‘was simply quoting, unconsciously, similar situations in other movies and trying to provide a reasonably complete repetition of them.’
@@ -151,6 +160,52 @@ Melie Chang<br>
 
 USA 1942©<br>
 102 mins
+<br><br>
+
+**BIG SCREEN CLASSICS**<br>
+**Battleship Potemkin (Bronenosets Potemkin)**<br>
+Thu 1 Jul 14:30; Thu 15 Jul 18:00; Sat 24 Jul 11:50<br>
+**Hope and Glory**<br>
+Thu 1 Jul 17:30; Mon 5 Jul 14:30; Fri 23 Jul 18:00<br>
+**Casablanca**<br>
+Fri 2 Jul 14:30; Sat 17 Jul 13:00; Sat 24 Jul 14:40; Thu 29 Jul 18:00<br>
+**All about My Mother (Todo sobre mi madre)**<br>
+Fri 2 Jul 20:40; Tue 6 Jul 20:45; Sat 10 Jul 21:00; Thu 22 Jul 14:30<br>
+**How Green Was My Valley**<br>
+Sat 3 Jul 11:30; Thu 8 Jul 14:15; Fri 16 Jul 17:50<br>
+**Wild Strawberries (Smultronstället)**<br>
+Sat 3 Jul 18:10; Mon 5 Jul 20:45; Sun 11 Jul 12:50; Wed 21 Jul 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Tue 27 Jul 14:30<br>
+**All the President’s Men**<br>
+Sun 4 Jul 11:50; Tue 20 Jul 14:15; Sat 31 Jul 20:20<br>
+**Rear Window**<br>
+Sun 4 Jul 15:40; Fri 9 Jul 14:30; Tue 20 Jul 17:50; Mon 26 Jul 18:00; Sat 31 Jul 11:10<br>
+**The Magnificent Ambersons**<br>
+Mon 5 Jul 20:50; Wed 14 Jul 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Sun 25 Jul 15:00<br>
+**Distant Voices, Still Lives**<br>
+Wed 7 Jul 18:00 (+ pre-recorded intro by film critic Thirza Wakefield); Sun 18 Jul 12:45; Mon 19 Jul 20:50; Fri 30 Jul 14:30<br>
+**35 Shots of Rum (35 Rhums)**<br>
+Mon 12 Jul 20:45; Wed 28 Jul 17:40 (+ pre-recorded intro by Be Manzini, poet and director of Caramel Film Club)<br>
+**Man About Town (Le Silence est d’or)**<br>
+Tue 13 Jul 14:15; Sun 18 Jul 12:30; Mon 26 Jul 14:20<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzAxNDA1MzcwXX0=
 -->
