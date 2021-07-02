@@ -18,8 +18,7 @@ But the substance of this narrative, simply described, is not much more than a k
 
 Such a mixture of impossibly distinct visions may sound like a kind of cinematic raspberry sundae. But Coppola’s sense of excess is teasingly well controlled. Stewart Copeland’s bulging, swinging, rapping musical score suggests something on the edges of musical time – an amalgam of swing, reggae and romantic slush. And in Benny the Barman, Coppola supplies a figure who summarises the tightrope act of the film – played like some gibbering character role from a 40s B-movie, the part is in fact filled by contemporary musican-poet Tom Waits. It’s clear the pool-bar has always been there, and yet with every appearance on camera it seems that the whole locale is a fiction which he (and the cinema) calls into being at will.
 
-With clocks ticking crazily on every wall, falling silent only in the looming presence of the policeman, _Rumble_ _Fish_ advertises itself as a film about the desperate loss of innocence that reduces life after childhood. But the experience of the film catalogues a thousand moments of adult restlessness.  
-It makes a history of them, almost, by its regular reference to the Motorcycle Boy’s trip to California, and by his brother’s eventual fulfilment of his dream-riding to the edge of the ocean. When the Motorcycle Boy first appears to save Rusty-James it’s on the icon of 50s macho – a Harley Davidson motorcycle, native American-built, symbol of postwar prosperity, bearer of a thousand simple dreams with its own simple 1,000cc engine. When, at the end, Motorcycle Boy steals a motorcycle and prepares for his personal sacrifice in freeing the fish, it’s on a Kawasaki (albeit with the name scratched out), a Japanese import, symbol of foreign sophistication, icon of consumerism, with its delicate clockwork of moving parts and dull, modern efficiency. _Rumble_ _Fish_ draws the arc between the eras marked by the two machines, from the romantic to the prosaic – and the spark that passes along it, however ignited by European cinema, is the continuing vitality of the American dream, pictured in the images and sounds of teenage angst.  
+With clocks ticking crazily on every wall, falling silent only in the looming presence of the policeman, _Rumble_ _Fish_ advertises itself as a film about the desperate loss of innocence that reduces life after childhood. But the experience of the film catalogues a thousand moments of adult restlessness.  It makes a history of them, almost, by its regular reference to the Motorcycle Boy’s trip to California, and by his brother’s eventual fulfilment of his dream-riding to the edge of the ocean. When the Motorcycle Boy first appears to save Rusty-James it’s on the icon of 50s macho – a Harley Davidson motorcycle, native American-built, symbol of postwar prosperity, bearer of a thousand simple dreams with its own simple 1,000cc engine. When, at the end, Motorcycle Boy steals a motorcycle and prepares for his personal sacrifice in freeing the fish, it’s on a Kawasaki (albeit with the name scratched out), a Japanese import, symbol of foreign sophistication, icon of consumerism, with its delicate clockwork of moving parts and dull, modern efficiency. _Rumble_ _Fish_ draws the arc between the eras marked by the two machines, from the romantic to the prosaic – and the spark that passes along it, however ignited by European cinema, is the continuing vitality of the American dream, pictured in the images and sounds of teenage angst.  
 **Chris Auty, _Sight & Sound_, Spring 1984**
 <br><br>
 
@@ -108,6 +107,8 @@ Keeva Clayton, Kirsten Hayden, Karen Parker, Sussannah Darcy, Kristi Somers _(la
 
 USA 1983  
 94 mins
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNDc5NzczNTkwXX0=
 -->
