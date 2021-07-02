@@ -27,7 +27,100 @@ The anxious uncertainty of things to come also hovers over the sporadic tender j
 
 Still, the cosy-knitwear-and-country-house comforts of _Supernova_ do highlight a commonality even among this new, more diversely told spate of dementia dramas: a consistent focus on the white middle class, where the trauma of the condition is at least supported by plush, roomy interiors, the fretful presence of caring family, and the money to take care of worse eventualities. We’ve seen comparatively few films about how dementia affects the poor, oppressed and alone, as if the mental angst it imposes is quite enough for a character – and screenwriter – to contend with. Expect that, too, to change as this most universal, undiscriminating of subjects evolves on screen.  
 **Guy Lodge, _Sight & Sound_, Summer 2021**
+<br><br>
 
+
+
+**SUPERNOVA**  
+_Directed by_: Harry Macqueen  
+©: British Broadcasting Corporation,  The British Film Institute, Supernova Film Ltd  
+_a_ Quiddity Films _and_ The Bureau _production_   
+_Developed with support from_: Wellcome  
+_Developed with the assistance of_: BBC Films  
+_Quiddity Films supported by the_:  BFI’s Vision Awards  
+_Made with the support of the_: BFI’s Film Fund  
+_Presented by_: BBC Films, British Film Institute  
+_International Sales by_: The Bureau Sales  
+_Executive Producers_: Mary Burke, Eva Yates, Vincent Gadelle  
+_Produced by_: Emily Morgan, Tristan Goligher  
+_Line Producer_: Joanna Thapa  
+_For Quiddity Films (Development & Production Executives)_: Gabby Kardar, Diana Põdra  
+_For The Bureau: Head of Production_: Gerardine Flynn; _Head of Development_: Valentina Brazzini  
+_For BBC Films: Director of BBC Films_: Rose Garnett; _Head of Development_: Claudia Yusef; _Head of Legal and Business Affairs_: Geraldine Atlee; _Legal and Business Affairs Manager_: Livy Sandler; _Head of Production and Finance_: Michael Wood; _Production Executive_: Emma Kayee  
+_For BFI: Production & Development Executive_: Emma Duffy; _Head of Production_: Fiona Morham; _Head of Production Finance_: Ian Kirk; _Director of Legal and Business Affairs_: Clare Coulter; _Production Manager_: Iris Cohen  
+_Production Managers_: Jessica Hodges,  Elizabeth Small  
+_Production Co-ordinator_: Jessica Moran  
+_Production Accountant_: Lesley Broderick  
+_Unit Manager_: Bruce Gill  
+_Location Manager_: Joel Cockrill  
+_Post-production Supervisor_: Gerardine O’Flynn  
+_1st Assistant Director_: Toni Stapes  
+_2nd Assistant Director_: Iain Atkinson  
+_3rd Assistant Director_: Daniel Pemberton  
+_Script Supervisor_: Silvia Bellitto  
+_Casting Director_: Shaheen Baig  
+_Written by_: Harry Macqueen  
+_Cinematography_: Dick Pope  
+_Camera Operator_: Dick Pope  
+_1st Assistant Camera_: Graham Martyr  
+_2nd Assistant Camera_: Aaron Champion  
+_Digital Imaging Technician_: Kevin Bell  
+_Gaffer_: Tom Gates  
+_Best Boys_: Toby Flesher, Ana Krkljus  
+_Key Grip_: Colin Strachan  
+_Stills Photographer_: Chris Harris  
+_VFX by_: Technicolor VFX  
+_Special Effects Supervisor_: Scott McIntyre  
+_Editor_: Chris Wyatt  
+_Production Designer_: Sarah Finlay  
+_Art Director_: Philippa Mumford  
+_Set Decorator_: Cathy Featherstone  
+_Graphic Artist_: Jess Alexander  
+_Production Buyers_: Jessica Chadwick,  Caitlin Fraser  
+_Prop Master_: Mark McIntyre  
+_Costume Designer_: Matthew Price  
+_Costume Supervisor_: Lisa Mitton  
+_Hair and Make-up Designer_: Tamsin Barbosa  
+_Titles Designed by_: Studio Ninetyone  
+_Colourist_: Greg Fisher  
+_Colour and Finish by_: Company 3  
+_Composer/Music by_: Keaton Henson  
+_Conductor_: Mark Knoop  
+_Orchestration by_: Ben Foskett  
+_Music Supervisor_: Sarah Bridge  
+_Executive Music Producer_: Toby Donnelly  
+_Production Sound Mixer_: Stevie Haywood  
+_Sound Re-recording Mixer_: Per Bostrum  
+_Supervising Sound Editor_: Joakim Sundström  
+_Animal Wrangler_: Bozena Bienkowska  
+_Unit Publicist_: Charles McDonald  
+_Digital Intermediate by_:  
+Technicolor Services London  
+_Special Thanks_: Lenny Abrahamson, Eve Gabereau, Frances Harvey, Sally Potter, Peter Strickland
+
+_Cast:_
+
+Colin Firth _(Sam)_  
+Stanley Tucci _(Tusker)_  
+Pippa Haywood _(Lilly, ‘Lil’)_  
+Peter Macqueen _(Clive)_  
+Nina Marlin _(Charlotte)_  
+Ian Drysdale _(Paul)_  
+Sarah Woodward _(Sue)_  
+James Dreyfus _(Tim)_  
+Lori Campbell _(Lola)_  
+Daneka Charlotte Etchells _(Rachel)_  
+Halema Hussain _(shop assistant)_  
+Julie Hannan _(waitress)_  
+Truffles _(Ruby)_  
+Imogen Barnfather, Ruth Crane, Toby Gaffney,  
+Adi Jones, Ian Mackenzie, Millie Macqueen, Paul Martin, Alex Morrison, Tina Louise Owens, John Alan Roberts, John Seymour, Lewis Sowerby, Justin Storey, Chinty Turnbull _(party guests)_
+
+UK 2020©
+
+93 mins
+
+A Studiocanal release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDE4MzkxN119
+eyJoaXN0b3J5IjpbNjc3NTAzNjA2XX0=
 -->
