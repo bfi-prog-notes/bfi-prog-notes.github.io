@@ -83,17 +83,14 @@ Bibi Andersson  _(Sara, hitchhiker/Sara, Isak’s cousin)_
 Ingrid Thulin _(Marianne Borg, Evald’s wife)_  
 Gunnar Björnstrand _(Dr Evald Borg)_  
 Jullan Kindahl _(Miss Agda, Isak’s housekeeper)_  
-Folke Sundquist  
-_(Anders, hitchhiking theology student)_  
-Björn Bjelvenstam  
-_(Viktor, hitchhiking medical student)_  
+Folke Sundquist  _(Anders, hitchhiking theology student)_  
+Björn Bjelvenstam  _(Viktor, hitchhiking medical student)_  
 Naima Wifstrand _(Borg’s mother)_  
 Gunnel Broström _(Berit Alman)_  
 Gertrud Fridh _(Karin, Isak’s wife)_  
 Sif Ruud _(Aunt Olga)_  
 Gunnar Sjöberg _(Sten Alman, an engineer)_  
-Max von Sydow  
-_(Henrik Åkerman, petrol station owner)_  
+Max von Sydow  _(Henrik Åkerman, petrol station owner)_  
 Åke Fridell _(Karin’s lover)_  
 Yngve Nordwall _(Uncle Aron)_  
 Per Sjöstrand _(Sigfrid, Isak’s elder brother)_  
@@ -102,24 +99,18 @@ Gunnel Lindblom _(Charlotta, Isak’s elder sister)_
 Maud Hansson _(Angelica, Isak’s younger sister)_  
 Ann-Mari Wiman _(Eva Åkerman, Henrik’s wife)_  
 Eva Norée _(Anna, Isak’s sister)_  
-Lena Bergman, Monica Ehrling  
-_(Kristina/Brigitta, Isak’s twin sisters)_  
+Lena Bergman, Monica Ehrling  _(Kristina/Brigitta, Isak’s twin sisters)_  
 Per Skogsberg _(Hagbart, the eldest Borg brother)_ *  
-Göran Lundquist  
-_(Benjamin, Isak’s younger brother)_ *  
-Profesor Helge Wulff  
-_(public orator in Lund Cathedral)_ *  
+Göran Lundquist  _(Benjamin, Isak’s younger brother)_ *  
+Profesor Helge Wulff  _(public orator in Lund Cathedral)_ *  
 Else Fisher _(Isak’s mother as a young woman)_ *
 
-Sweden 1957
-
+Sweden 1957  
 91 mins
 
-* Uncredited
+*Uncredited
 
-The screening on Wed 21 Jul will  
-feature a pre-recorded intro by  
-Geoff Andrew, Programmer-at-Large
+The screening on Wed 21 Jul will  feature a pre-recorded intro by Geoff Andrew, Programmer-at-Large
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjM0OTMxM119
+eyJoaXN0b3J5IjpbMTA5MjY4NTg2M119
 -->
