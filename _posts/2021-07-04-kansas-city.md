@@ -24,9 +24,8 @@ Seldom’s embrace of black political leader Marcus Garvey and his critique of t
 
 Out of the corrupt party politics of the Democratic bosses, the predictable self-indulgence of the wealthy liberals, and the blonde ambitions of O’Hara and her pathetic husband Johnny, fed by Hollywood, Altman weaves the tapestry of a city life that is long gone. But unlike _McCabe & Mrs. Miller_, _MASH_, or _Nashville_, Altman’s finest movies, _Kansas City_ never gathers its threads together. Nevertheless, Altman remains one of the few independent voices in a sea of repetitive Hollywood mediocrity. Films such as _Kansas City_ at least attempt to focus on real people rather than computer-generated fantasies. And besides, any film that uses jazz as it source – America’s highest art form – can never be given too much attention. For these things only, Altman and _Kansas City_ are to be praised.
 **Todd Boyd, _Sight & Sound_, December 1996**<br>
-<![endif]-->
 
-**Kansas City**<br>
+**KANSAS CITY**<br>
 _Director_: Robert Altman  
 _©/Production Company_: CiBy 2000  
 _Production Company_: Sandcastle 5 Productions  
@@ -111,32 +110,23 @@ Edward Pennington _(Governor’s Parker’s butler)_
 Robert Elliott _(Lazia man)_  
 Marlon Hoffman _(Lazia man)_  
 Patrick Oldani _(Lazia man)_
-
 _Hey-Hey Club musicians:_  
-James Carter,  Craig Handy,  David Murray,
-
-Joshua Redman _(tenor saxophones)_
-
-Jesse Davis,  David ‘Fathead’ Newman Jr.
-
-_(alto saxophones)_
-
-Don Byron _(clarinet/baritone saxophone)_
-
+James Carter,  Craig Handy,  David Murray, Joshua Redman _(tenor saxophones)_  
+Jesse Davis,  David ‘Fathead’ Newman Jr. _(alto saxophones)_  
+Don Byron _(clarinet/baritone saxophone)_  
 Olu Dara, Nicholas Payton_,_ James Zollar _(trumpets)_  
 Curtis Fowlkes, Clark Gayton _(trombones)_  
 Victor Lewis _(drums)_  
 Geri Allen_,_ Cyrus Chestnut _(piano)_  
 Ron Carter, Tyrone Clark, Christian McBride _(bass)_  
 Russell Malone, Mark Whitfield _(guitars)_  
-Kevin Mahogany _(vocalist)_
+Kevin Mahogany _(vocalist)_  
 
-USA/France 1996
+USA/France 1996<br>
+115 mins<br>
 
-115 mins
-
-Print courtesy of the Robert Altman Collection at the UCLA Film & Television Archive
+Print courtesy of the Robert Altman Collection at the UCLA Film & Television Archive<br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDQ0MTc2Ml19
+eyJoaXN0b3J5IjpbLTEyNTEzOTQxMDldfQ==
 -->
