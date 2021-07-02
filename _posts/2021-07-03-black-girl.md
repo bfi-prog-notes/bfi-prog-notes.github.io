@@ -72,8 +72,7 @@ Philippe, Sophie, Damien _(children)_<br>
 Senegal/France 1965<br>
 65 mins<br>
 
-Restored in 2015 by The Film Foundation’s  
-World Cinema Project in collaboration with the Sembène Estate, Institut National de l’Audiovisuel, INA, Eclair laboratories and Centre National de Cinématographie. Restoration carried out at Cineteca di Bologna/ L’Immagine Ritrovata laboratory.<br>
+Restored in 2015 by The Film Foundation’s World Cinema Project in collaboration with the Sembène Estate, Institut National de l’Audiovisuel, INA, Eclair laboratories and Centre National de Cinématographie. Restoration carried out at Cineteca di Bologna/ L’Immagine Ritrovata laboratory.<br>
 <br>
 <img style="float: left;" src="/img/film-foundation-logo-01.png"><br><br>
 
