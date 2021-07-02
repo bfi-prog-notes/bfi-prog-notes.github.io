@@ -34,9 +34,8 @@ All the archetypes, says Eco, can be found in the film’s first 20 minutes, and
 
 The essence is that _Casablanca_ became a cult film because it never set out to be one. Quotations self-consciously used in modern movies ‘born in order to become cult objects’ are quite another matter. ‘Spielberg and Lucas are semiotically nourished authors working for a culture of instinctive semioticians.’ Eco ends his urbane essay: ‘It will be a sad day when a too smart audience will read _Casablanca_ as conceived by Michael Curtiz after having read Calvino and Barthes. But that day will come. Perhaps we have been able to discover here, for the last time, the Truth...’  
 **‘Kockenlocker’, _Sight & Sound_, Winter 1986-87**
+<br><
 
-
-   <![endif]-->
 
 **Casablanca**
 
@@ -261,5 +260,5 @@ USA 1942©
 
 102 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3NTQ5NTY5XX0=
+eyJoaXN0b3J5IjpbMTkzMTQwNDEyNl19
 -->
