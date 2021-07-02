@@ -25,176 +25,176 @@ Pakula essays flourishes here along similar lines – the camera steadily rising
 
 
 **ALL THE PRESIDENT'S MEN**  
-_Directed by_: Alan J. Pakula
+_Directed by_: Alan J. Pakula<br>
 
-©: Warner Bros., Wildwood Enterprises
+©: Warner Bros., Wildwood Enterprises<br>
 
-_Produced by_: Walter Coblenz
+_Produced by_: Walter Coblenz<br>
 
-_Associate Producers_: Michael Britton, Jon Boorstin
+_Associate Producers_: Michael Britton, Jon Boorstin<br>
 
 _Executive Production Manager_:  
-E. Darrell Hallenbeck
+E. Darrell Hallenbeck<br>
 
 _Production Co-ordinators_: Rebecca Britton,
 
-Erika Koppitz, Ronnie Kramer
+Erika Koppitz, Ronnie Kramer<br>
 
-_Location Manager_: Steve Vetter
+_Location Manager_: Steve Vetter<br>
 
-_Production Assistant_: Buck Holland
+_Production Assistant_: Buck Holland<br>
 
-_1st Assistant Directors_: Bill Green, Art Levinson
+_1st Assistant Directors_: Bill Green, Art Levinson<br>
 
 _2nd Assistant Directors_: Charles Ziarko,
 
-Kim Kurumada
+Kim Kurumada<br>
 
-_Script Supervisor_: Karen Wookey
+_Script Supervisor_: Karen Wookey<br>
 
-_Casting_: Alan Shayne
+_Casting_: Alan Shayne<br>
 
-_Casting (Consultant)_: Isabel Halliburton
+_Casting (Consultant)_: Isabel Halliburton<br>
 
-_Screenplay by_: William Goldman
+_Screenplay by_: William Goldman<br>
 
 _Screenplay_: Alvin Sargent, Carl Bernstein,  
-Nora Ephron *
+Nora Ephron *<br>
 
 _Based on the book by_: Carl Bernstein,  
-Bob Woodward
+Bob Woodward<br>
 
-_Director of Photography_: Gordon Willis
+_Director of Photography_: Gordon Willis<br>
 
-_Camera Operator_: Ralph Gerling
+_Camera Operator_: Ralph Gerling<br>
 
-_1st Assistant Camera_: Ray de la Motte
+_1st Assistant Camera_: Ray de la Motte<br>
 
-_Gaffer_: George Holmes
+_Gaffer_: George Holmes<br>
 
-_Key Grip_: Bob Rose
+_Key Grip_: Bob Rose<br>
 
-_Best Boy_: Carl Gibson Jr
+_Best Boy_: Carl Gibson Jr<br>
 
-_Still Men_: Howard Bingham, Louis Goldman
+_Still Men_: Howard Bingham, Louis Goldman<br>
 
-_Special Effects_: Henry Millar
+_Special Effects_: Henry Millar<br>
 
-_Film Editor_: Robert L. Wolfe
+_Film Editor_: Robert L. Wolfe<br>
 
-_Assistant Editors_: Tim O’Meara, Steve Potter
+_Assistant Editors_: Tim O’Meara, Steve Potter<br>
 
-_Production Designer_: George Jenkins
+_Production Designer_: George Jenkins<br>
 
-_Assistant Art Director_: Bob Jillson
+_Assistant Art Director_: Bob Jillson<br>
 
-_Set Decorator_: George Gaines
+_Set Decorator_: George Gaines<br>
 
-_Draftsman_: J. George Szeptycki
+_Draftsman_: J. George Szeptycki<br>
 
-_Lead Man_: Mike Higelmire
+_Lead Man_: Mike Higelmire<br>
 
-_Property Masters_: Allan Levine, Bill Mac Sems
+_Property Masters_: Allan Levine, Bill Mac Sems<br>
 
 _Assistant Property Masters_: Matty Azzarone,
 
-Guy Bushman
+Guy Bushman<br>
 
-_Construction Co-ordinator_: Robert Krume
+_Construction Co-ordinator_: Robert Krume<br>
 
-_Costume Supervisor_: Bernie Pollack
+_Costume Supervisor_: Bernie Pollack<br>
 
-_Assistant Costumers_: Jules Melillo, G. Perez
+_Assistant Costumers_: Jules Melillo, G. Perez<br>
 
-_Key Make-up Artist_: Gary Liddiard
+_Key Make-up Artist_: Gary Liddiard<br>
 
-_Make-up Artists_: Fern Buchner, Don Cash
+_Make-up Artists_: Fern Buchner, Don Cash<br>
 
-_Hairdressers_: Romaine Greene, Lynda Gurasich
+_Hairdressers_: Romaine Greene, Lynda Gurasich<br>
 
-_Title Design_: Dan Perri
+_Title Design_: Dan Perri<br>
 
-_Music by_: David Shire
+_Music by_: David Shire<br>
 
-_Music Editor_: Nicholas C. Washington
+_Music Editor_: Nicholas C. Washington<br>
 
-_Production Sound Mixers_: Jim Webb, Les Fresholtz
+_Production Sound Mixers_: Jim Webb, Les Fresholtz<br>
 
-_Boom Operators_: Chris McLaughlin, Clint Althouse
+_Boom Operators_: Chris McLaughlin, Clint Althouse<br>
 
-_Re-recording Mixers_: Art Piantadosi, Les Fresholtz, Dick Alexander
+_Re-recording Mixers_: Art Piantadosi, Les Fresholtz, Dick Alexander<br>
 
-_Supervising Sound Editor_: Milton C. Burrow
+_Supervising Sound Editor_: Milton C. Burrow<br>
 
-_Research_: Steve Bussard, De Forest Research
+_Research_: Steve Bussard, De Forest Research<br>
 
-_Production Publicist_: Jack Hirshberg
+_Production Publicist_: Jack Hirshberg<br>
 
-_Studio_: Burbank Studios
+_Studio_: Burbank Studios<br>
 
-_Cast:_
+_Cast:_<br>
 
-Dustin Hoffman _(Carl Bernstein)_
+Dustin Hoffman _(Carl Bernstein)_<br>
 
-Robert Redford _(Bob Woodward)_
+Robert Redford _(Bob Woodward)_<br>
 
-Jack Warden _(Harry Rosenfeld)_
+Jack Warden _(Harry Rosenfeld)_<br>
 
-Martin Balsam _(Howard Simons)_
+Martin Balsam _(Howard Simons)_<br>
 
-Hal Holbrook _(Deep Throat)_
+Hal Holbrook _(Deep Throat)_<br>
 
-Jason Robards _(Ben Bradlee)_
+Jason Robards _(Ben Bradlee)_<br>
 
-Jane Alexander _(book-keeper)_
+Jane Alexander _(book-keeper)_<br>
 
-Meredith Baxter _(Debbie Sloan)_
+Meredith Baxter _(Debbie Sloan)_<br>
 
-Ned Beatty _(Dardis)_
+Ned Beatty _(Dardis)_<br>
 
-Stephen Collins _(Hugh Sloan Jr)_
+Stephen Collins _(Hugh Sloan Jr)_<br>
 
-Penny Fuller _(Sally Aiken)_
+Penny Fuller _(Sally Aiken)_<br>
 
-John McMartin _(Scott, foreign editor)_
+John McMartin _(Scott, foreign editor)_<br>
 
-Robert Walden _(Donald H. Segretti)_
+Robert Walden _(Donald H. Segretti)_<br>
 
-Frank Wills _(himself)_
+Frank Wills _(himself)_<br>
 
-F. Murray Abraham _(1st arresting officer)_
+F. Murray Abraham _(1st arresting officer)_<br>
 
-David Arkin _(Bachinski)_
+David Arkin _(Bachinski)_<br>
 
-Henry Calvert _(Bernard Barker)_
+Henry Calvert _(Bernard Barker)_<br>
 
-Dominic Chianese _(Eugenio Martinez)_
+Dominic Chianese _(Eugenio Martinez)_<br>
 
-Bryan E. Clark _(arguing attorney)_
+Bryan E. Clark _(arguing attorney)_<br>
 
-Nicholas Coster _(Markham)_
+Nicholas Coster _(Markham)_<br>
 
-Lindsay Ann Crouse _(Kay Eddy)_
+Lindsay Ann Crouse _(Kay Eddy)_<br>
 
-Valerie Curtin _(Miss Betty Milland)_
+Valerie Curtin _(Miss Betty Milland)_<br>
 
-Gene Dynarski _(court clerk)_
+Gene Dynarski _(court clerk)_<br>
 
-Nate Esformes _(Virgil Gonzales)_
+Nate Esformes _(Virgil Gonzales)_<br>
 
-Ron Hale _(Frank Sturgis)_
+Ron Hale _(Frank Sturgis)_<br>
 
-Richard Herd _(James W. McCord)_
+Richard Herd _(James W. McCord)_<br>
 
-Polly Holliday _(Dardis’ secretary)_
+Polly Holliday _(Dardis’ secretary)_<br>
 
-James Karen _(Hugh Sloan’s lawyer)_
+James Karen _(Hugh Sloan’s lawyer)_<br>
 
-Paul Lambert _(national editor)_
+Paul Lambert _(national editor)_<br>
 
-Frank Latimore _(judge)_
+Frank Latimore _(judge)_<br>
 
-Gene Lindsey _(Baldwin)_
+Gene Lindsey _(Baldwin)_<br>
 
 Anthony Mannino _(2nd arresting officer)_
 
@@ -280,5 +280,5 @@ USA 1976©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2MjA1MjYwXX0=
+eyJoaXN0b3J5IjpbLTU5MzQ0MjU4XX0=
 -->
