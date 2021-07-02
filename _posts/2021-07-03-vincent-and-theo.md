@@ -29,7 +29,7 @@ Basically, my point of view with _Vincent and Theo_ was that I was trying to do 
 **Robert Altman, _Monthly Film Bulletin_, July 1990**
 
 
-**VINCENT AND THEO (VINCENT ET TH&#201;O)**<br>
+**VINCENT AND THEO (VINCENT ET TH&#201;Oo)**<br>
 _Director_: Robert Altman  
 _©/Production Companies_: Belbo Films, Central Films, La Sept, Telepool, Raiuno, VARA, Valor  
 _In association with_: Aréna Films (Paris)  
@@ -146,8 +146,7 @@ Sat 10 Jul 15:00; Mon 26 Jul 20:30<br>
 Sun 11 Jul 15:20; Sun 18 Jul 18:20; Fri 23 Jul 14:30<br>
 **The Company**<br>
 Tue 13 Jul 17:50; Sat 31 Jul 11:50<br>
-**A Prairie Home Companion**<br>
-Sun 25 Jul 12:00; Sat 31 Jul 17:50<br>
+**A Prairie Home Companion**<br>Sun 25 Jul 12:00; Sat 31 Jul 17:50<br>
 <br>
 **Promotional partners**  
 <img style="float: left;" src="/img/partner/yeastie-boys-logo.png" alt="Yeastie Boys" title="Yeastie Boys">
@@ -176,3 +175,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5MzAzMzA1MzBdfQ==
+-->
