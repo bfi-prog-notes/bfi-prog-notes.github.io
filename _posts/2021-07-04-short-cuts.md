@@ -128,16 +128,14 @@ _Annie Ross & The Low Note Quintet:_
 Annie Ross _(vocals),_ Terry Adams _(piano)_,  
 Bobby Previte _(drums)_, Greg Cohen _(bass)_,  
 Gene Estes _(vibes)_, Bruce Fowler _(trombone)_
-
 _The Trout Quintet:_ Lori Singer _(cello)_, Stuart Canin _(1st violin)_, Anatoly Rosinsky _(violin)__,_ Roland Kato _(viola)_, Armen Guzelimian _(piano)_
 
-USA 1993
+USA 1993<br>
+188 mins<br>
 
-188 mins
-
-Print courtesy of the Robert Altman Collection at the UCLA Film & Television Archive
+Print courtesy of the Robert Altman Collection at the UCLA Film & Television Archive<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3ODY5MTc2XX0=
+eyJoaXN0b3J5IjpbLTc2MDA4OTgyMl19
 -->
