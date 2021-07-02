@@ -56,12 +56,11 @@ The mind that Bergman reveals in this film is one corrupted by despair, tormente
 
 
 
-**WILD STRAWBERRIES (Smultronstället)**
-
+**WILD STRAWBERRIES (SMULTRONSTÄLLET)**  
 _Director:_ Ingmar Bergman  
 _Production Company:_ Svensk Filmindustri  
 _Producer:_ Carl Anders Dymling *  
-_Production Manager:_ Allan Ekelund *  
+_Production Manager:_  Allan Ekelund *  
 _Unit Manager:_ Sven Sjönell  
 _Assistant Director:_ Gösta Ekman  
 _Script Supervisor:_ Katherina Faragó  
@@ -78,11 +77,9 @@ _Musical Direction:_ E. Eckert-Lundin *
 _Sound:_ Aaby Wedin  
 _Assistant Sound:_ Lennart Wallin *
 
-_Cast:_
-
+**Cast**  
 Victor Sjöström _(Professor Isak Borg)_  
-Bibi Andersson  
-_(Sara, hitchhiker/Sara, Isak’s cousin)_  
+Bibi Andersson  _(Sara, hitchhiker/Sara, Isak’s cousin)_  
 Ingrid Thulin _(Marianne Borg, Evald’s wife)_  
 Gunnar Björnstrand _(Dr Evald Borg)_  
 Jullan Kindahl _(Miss Agda, Isak’s housekeeper)_  
@@ -124,5 +121,5 @@ The screening on Wed 21 Jul will
 feature a pre-recorded intro by  
 Geoff Andrew, Programmer-at-Large
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTkzOTU2MV19
+eyJoaXN0b3J5IjpbLTQ2MjM0OTMxM119
 -->
