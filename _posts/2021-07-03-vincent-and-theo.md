@@ -1,3 +1,15 @@
+---
+layout: post
+title: Vincent and Theo
+published: true
+date: 2021-07-03
+readtime: true
+categories: ['ROBERT ALTMAN - AMERICAN OUTSIDER']
+tags: [Dram, Biopic]
+metadata: 'France/UK/Netherlands/Italy 1990, 140 mins<br> Director: Robert Altman'
+pdf: '2021-07-03-vincent-and-theo.pdf'
+---
+
 **Robert Altman on ‘Vincent and Theo’**
 
 When I took on _Vincent and Theo_, I was very clear about what kind of picture I was not going to make. I’ve never seen one of those biographical films that I liked, and I wanted as far as possible to work against that. While we were looking for an actor to play Vincent, someone asked me what would I do if the ideal actor turned out to be left-handed. I said that would be perfect; then when all the critics protested that Van Gogh wasn’t a left-handed painter, I could say that isn’t Van Gogh, it’s an actor, a reflection. For all that, I think Tim Roth is very convincing; he has been to art school and he’s a good drawer.  I have a number of artist friends who were very impressed by what he did.
@@ -16,9 +28,8 @@ Before _Vincent and Theo_, I had been intending to make a film about Rossini, sc
 Basically, my point of view with _Vincent and Theo_ was that I was trying to do the story not of a famous person but of a failed person. Which might be the connection with the film I’m working on now, a contemporary, big-canvas kind of film called _L.A. Short Cuts_. It’s based on 14 short stories by Raymond Carver and it all takes place in the blue-collar area of Los Angeles. Each of the stories is self-contained but they sort of interweave; they’re not ‘plot’ stories, they’re about small things, little incidents, the lives again of failed people.
 **Robert Altman, _Monthly Film Bulletin_, July 1990**
 
-<![endif]-->
 
-**Vincent and Theo (Vincent et Théo)**<br>
+**VINCENT AND THEO (VINCENT ET TH&#201;O)**<br>
 _Director_: Robert Altman  
 _©/Production Companies_: Belbo Films, Central Films, La Sept, Telepool, Raiuno, VARA, Valor  
 _In association with_: Aréna Films (Paris)  
@@ -66,7 +77,7 @@ _Re-recording Mixer_: Jean-François Auger
 _Sound Editors_: Michèle Darmon, Claire Pinheiro  
 _Dialogue Editor_: Michèle Hollander
 
-**Cast** 
+**Cast**<br>
 Tim Roth _(Vincent Van Gogh)_  
 Paul Rhys _(Theo Van Gogh)_  
 Johanna ter Steege _(Jo Bonger)_  
@@ -137,6 +148,31 @@ Sun 11 Jul 15:20; Sun 18 Jul 18:20; Fri 23 Jul 14:30<br>
 Tue 13 Jul 17:50; Sat 31 Jul 11:50<br>
 **A Prairie Home Companion**<br>
 Sun 25 Jul 12:00; Sat 31 Jul 17:50<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDQzMjM4MV19
--->
+<br>
+**Promotional partners**  
+<img style="float: left;" src="/img/partner/yeastie-boys-logo.png" alt="Yeastie Boys" title="Yeastie Boys">
+<br><br><br><br><br><br><br><br>
+**A deliciously irreverent brewing company**  
+
+<img style="float: left;" src="/img/partner/scala-radio-logo.png" alt="Scala Radio" title="Scala Radio">
+<br><br><br><br><br><br><br><br><br><br>
+**planetradio.co.uk/scala-radio**  
+<br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
