@@ -24,122 +24,122 @@ The final technique is the two shot. Consistently exploiting the wide screen and
 **Paul Julian Smith, _Sight and Sound_, September 1999**
 
 
-**ALL ABOUT MY MOTHER (
-_Director:_ Pedro Almodóvar
+**ALL ABOUT MY MOTHER (TODO SOBRE MI MADRE)**<br>
+_Director:_ Pedro Almodóvar<br>
 
-©: El Deseo, Renn Productions, France 2 Cinéma
+©: El Deseo, Renn Productions, France 2 Cinéma<br>
 
 _Production Companies:_ El Deseo,
 
-Renn Productions, France 2 Cinéma, Canal+
+Renn Productions, France 2 Cinéma, Canal+<br>
 
-_Producer:_ Agustín Almodóvar
+_Producer:_ Agustín Almodóvar<br>
 
-_Associate Producer:_ Michel Ruben
+_Associate Producer:_ Michel Ruben<br>
 
-_Production Supervisor:_ Esther García
+_Production Supervisor:_ Esther García<br>
 
-_Production Manager:_ Tino Pont
+_Production Manager:_ Tino Pont<br>
 
-_Unit Manager:_ María Rodríguez
+_Unit Manager:_ María Rodríguez<br>
 
-_1st Assistant Director:_ Pedro Lazaga
+_1st Assistant Director:_ Pedro Lazaga<br>
 
-_Script Supervisor:_ Yuyi Beringola
+_Script Supervisor:_ Yuyi Beringola<br>
 
-_Casting Director:_ Sara Bilbatúa
+_Casting Director:_ Sara Bilbatúa<br>
 
-_Screenplay:_ Pedro Almodóvar
+_Screenplay:_ Pedro Almodóvar<br>
 
-_Director of Photography:_ Affonso Beato
+_Director of Photography:_ Affonso Beato<br>
 
-_Camera Operator:_ Joaquín Manchado
+_Camera Operator:_ Joaquín Manchado<br>
 
-_Special Effects/Digital Post-production:_ Molinare
+_Special Effects/Digital Post-production:_ Molinare<br>
 
-_Inferno Operator:_ Aurelio Sánchez-Herrero
+_Inferno Operator:_ Aurelio Sánchez-Herrero<br>
 
-_Graphic Design:_ Oscar Mariné, OMB (Madrid)
+_Graphic Design:_ Oscar Mariné, OMB (Madrid)<br>
 
-_Editor:_ José Salcedo
+_Editor:_ José Salcedo<br>
 
-_Art Director:_ Antxón Gómez
+_Art Director:_ Antxón Gómez<br>
 
-_Set Decorator:_ Federico García Cambero
+_Set Decorator:_ Federico García Cambero<br>
 
-_Costumes:_ José María de Cossío, Sabine Daigeler
+_Costumes:_ José María de Cossío, Sabine Daigeler<br>
 
-_Make-up:_ Juan Pedro Hernández
+_Make-up:_ Juan Pedro Hernández<br>
 
-_Hair:_ Jean Jacques Puchu
+_Hair:_ Jean Jacques Puchu<br>
 
-_Optical Effects:_ Story Film/Pablo Núñez
+_Optical Effects:_ Story Film/Pablo Núñez<br>
 
-_Music:_ Alberto Iglesias
+_Music:_ Alberto Iglesias<br>
 
 _Music Performed by:_  
-City of Prague Philharmonic Orchestra
+City of Prague Philharmonic Orchestra<br>
 
-_Conducted by:_ Mario Klemens
+_Conducted by:_ Mario Klemens<br>
 
-_Clarinet Soloist:_ Enrique Pérez
+_Clarinet Soloist:_ Enrique Pérez<br>
 
-_Trumpet Soloist:_ Patxi Urtegui
+_Trumpet Soloist:_ Patxi Urtegui<br>
 
-_Guitar Soloist:_ Fernando Egozcue
+_Guitar Soloist:_ Fernando Egozcue<br>
 
-_Drums Soloist:_ Patrick Goraguer
+_Drums Soloist:_ Patrick Goraguer<br>
 
-_Electric Bass Soloist:_ Paco Bastante
+_Electric Bass Soloist:_ Paco Bastante<br>
 
-_Vibraphone Soloist:_ Alfredo Anaya
+_Vibraphone Soloist:_ Alfredo Anaya<br>
 
-_Piano Soloist:_ Alberto Iglesias
+_Piano Soloist:_ Alberto Iglesias<br>
 
-_Flute Soloist:_ Manuel Tobar
+_Flute Soloist:_ Manuel Tobar<br>
 
-_Sound:_ Miguel Rejas
+_Sound:_ Miguel Rejas<br>
 
-_Boom Operator:_ Jaime Fernández
+_Boom Operator:_ Jaime Fernández<br>
 
-_Re-recording Mixers:_ José Antonio Bermúdez, Diego Garrido
+_Re-recording Mixers:_ José Antonio Bermúdez, Diego Garrido<br>
 
-_Sound Effects:_ Luis Castro
+_Sound Effects:_ Luis Castro<br>
 
-_Stunt Co-ordinator:_ Antonio Lemos
+_Stunt Co-ordinator:_ Antonio Lemos<br>
 
-_Cast:_
+_Cast:_<br>
 
-Cecilia Roth _(Manuela)_
+Cecilia Roth _(Manuela)_<br>
 
-Marisa Paredes _(Huma Rojo)_
+Marisa Paredes _(Huma Rojo)_<br>
 
-Candela Peña _(Niña)_
+Candela Peña _(Niña)_<br>
 
-Antonia San Juan _(‘La Agrado’)_
+Antonia San Juan _(‘La Agrado’)_<br>
 
-Penélope Cruz _(Sister Rosa)_
+Penélope Cruz _(Sister Rosa)_<br>
 
-Rosa María Sardá _(Sister Rosa’s mother)_
+Rosa María Sardá _(Sister Rosa’s mother)_<br>
 
-Fernando Fernán Gómez _(Sister Rosa’s father)_
+Fernando Fernán Gómez _(Sister Rosa’s father)_<br>
 
 Fernando Guillén  
-_(doctor in ‘El Tranvía Llamado Deseo’)_
+_(doctor in ‘El Tranvía Llamado Deseo’)_<br>
 
-Toni Cantó _(Lola, ‘la Pionera’)_
+Toni Cantó _(Lola, ‘la Pionera’)_<br>
 
-Eloy Azorin _(Esteban)_
+Eloy Azorin _(Esteban)_<br>
 
-Carlos Lozano _(Mario)_
+Carlos Lozano _(Mario)_<br>
 
-Juan José Otegui _(gynaecologist)_
+Juan José Otegui _(gynaecologist)_<br>
 
 Manuel Morón, José Luis Torrijo, Carmen Balagué, Malena Gutierrez, Yael Barnatán, Carmen Fortuny, Patxi Freytez, Juan Márquez, Michel Ruben,  
 Daniel Lanchas, Rosa Manaut, Carlos García Cambero, Paz Sufrategui, Lola García,  
-Lluis Pascual
+Lluis Pascual<br>
 
 Spain/France 1999©  101 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM4ODQ5NzldfQ==
+eyJoaXN0b3J5IjpbMTI0OTkxMTA5Ml19
 -->
