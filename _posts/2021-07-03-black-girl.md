@@ -35,7 +35,6 @@ All the dialogue in _La Noire de_… is in French – the last time this would h
 **Philip Kemp, _Sight & Sound_, December 2015**
 
 **I Bit My Tongue**<br>
-
 Can we get our mother tongue, and things lost with it, back? <br>
 <br>
 
