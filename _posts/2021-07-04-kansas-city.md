@@ -133,8 +133,6 @@ USA/France 1996<br>
 
 Print courtesy of the Robert Altman Collection at the UCLA Film & Television Archive<br>
 
-
-
 <br><br>
 **ROBERT ALTMAN: AMERICAN OUTSIDER**<br>
 **Vincent and Theo**<br>
