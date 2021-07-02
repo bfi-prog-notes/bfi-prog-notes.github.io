@@ -38,108 +38,58 @@ The essence is that _Casablanca_ became a cult film because it never set out to 
 
 
 **CASABLANCA**<br>
-
 _Directed by:_ Michael Curtiz<br>
-
-_©/Production Company/Presented by:_
-
-Warner Bros.<br>
-
+_©/Production Company/Presented by:_ Warner Bros.<br>
 _Executive Producer:_ Jack L. Warner<br>
-
 _A_ Hal B. Wallis _production_<br>
-
 _Dialogue Director:_ Hugh MacMullan<br>
-
-_Screen Play by:_ Julius J. Epstein,  
-Philip G. Epstein, Howard Koch<br>
-
+_Screen Play by:_ Julius J. Epstein,  Philip G. Epstein, Howard Koch<br>
 _From a play by:_ Murray Burnett, Joan Alison<br>
-
 _Director of Photography:_ Arthur Edeson<br>
-
 _Special Effects by (Director):_ Lawrence Butler<br>
-
 _Special Effects by:_ Willard Van Enger<br>
-
 _Editor:_ Owen Marks<br>
-
 _Montages by:_ Don Siegel, James Leicester<br>
-
 _Art Director:_ Carl Jules Weyl<br>
-
 _Set Decorations by:_ George James Hopkins<br>
-
 _Gowns by:_ Orry-Kelly<br>
-
 _Make-up Artist:_ Perc Westmore<br>
-
 _Music by:_ Max Steiner<br>
-
 _Songs by:_ M.K. Jerome, Jack Scholl<br>
-
 _Musical Director:_ Leo F. Forbstein<br>
-
 _Orchestral Arrangements:_ Hugo Friedhofer<br>
-
 _Sound by:_ Francis J. Scheid<br>
-
 _Sound System:_ RCA<br>
-
 _Technical Adviser:_ Robert Aisner<br>
 
 _uncredited_<br>
-
 _Unit Manager:_ Al Alleborn<br>
-
 _Assistant Director:_ Lee Katz<br>
-
 _Screenplay Supervisor:_ Jerry Wald<br>
-
 _Sam’s Piano Playing Dubbed by:_ Elliott Carpenter<br>
-
 _Narrator:_ Lou Marcelle<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Humphrey Bogart _(Richard ‘Rick’ Blaine)_<br>
-
 Ingrid Bergman _(Ilsa Lund Laszlo)_<br>
-
 Paul Henreid _(Victor Laszlo)_<br>
-
 Claude Rains _(Captain Louis Renault)_<br>
-
 Conrad Veidt _(Major Heinrich Strasser)_<br>
-
 Sydney Greenstreet _(Señor Ferrari)_<br>
-
 Peter Lorre _(Ugarte)_<br>
-
 S.K. Sakall _(Carl, the head waiter)_<br>
-
 Madeleine LeBeau _(Yvonne)_<br>
-
 Dooley Wilson _(Sam)_<br>
-
 Joy Page _(Annina Brandel)_<br>
-
 John Qualen _(Berger)_<br>
-
 Leonid Kinskey _(Sascha, the bartender)_<br>
-
 Curt Bois _(pickpocket)_<br>
 
 _uncredited_<br>
-
 Helmut Dantine _(Jan Brandel)_<br>
-
 Marcel Dalio _(Emile, the croupier)_<br>
-
 Charles La Torre _(First Officer Tonnelli)_<br>
-
 Corinna Mura _(Andreya, singer)_<br>
-
 Ludwig Stössel _(Mr Leuchtag)_<br>
 
 Ilka Gruning _(Mrs Leuchtag)_<br>
@@ -242,23 +192,22 @@ Jean De Briac _(orderly)_<br>
 
 Nino Pellini _(gendarme)_<br>
 
-Paul Panzer _(waiter)_
+Paul Panzer _(waiter)_<br>
 
-Barry Norton, Elinor Vandivere _(gamblers)_
+Barry Norton, Elinor Vandivere _(gamblers)_<br>
 
-Don Keefer
+Don Keefer<br>
 
-Dewey Robinson
+Dewey Robinson<br>
 
-Lotte Palfi
+Lotte Palfi<br>
 
-Trude Berliner
+Trude Berliner<br>
 
-Melie Chang
+Melie Chang<br>
 
-USA 1942©
-
+USA 1942©<br>
 102 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDIyMjkyNF19
+eyJoaXN0b3J5IjpbLTEzOTQ0MzMwNjhdfQ==
 -->
