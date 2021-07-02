@@ -123,33 +123,16 @@ André Penvern _(hotel clerk)_
 Maurice Lamy _(bell boy)_  
 Pascal Mourier, Adrien Stahly, Denis Lepeut
 _(Fad TV sound engineer)_  
-Harry Belafonte, Paolo Bulgari,
-
-Anello Capuano, Cher, Helena Christensen, Gamiliana, Elsa Klensch, Serge Molitor,
-
-Claude Montana, Thierry Mugler,
-
+Harry Belafonte, Paolo Bulgari, Anello Capuano, Cher, Helena Christensen, Gamiliana, Elsa Klensch, Serge Molitor, Claude Montana, Thierry Mugler,
 Tatjana Patitz, Eve Salvail _(themselves)_
-
-Nicola Trussardi_,_ Sonia Rykiel,
-
-Jean-Paul Gaultier, Christian Lacroix,
-
-Issey Miyake, Gianfranco Ferré _(themselves/designers featured with their collection collection)_
+Nicola Trussardi, Sonia Rykiel, Jean-Paul Gaultier, Christian Lacroix, Issey Miyake, Gianfranco Ferré _(themselves/designers featured with their collection collection)_
 
 _uncredited_  
-Susie Bick,  Carla Bruni, Naomi Campbell,
+Susie Bick,  Carla Bruni, Naomi Campbell, Adriana Karembeu, Christy Turlington, Björk,  Gretha Cavazzoni, David Copperfield, Linda Evangelista, Claudia Schiffer _(themselves)_
 
-Adriana Karembeu, Christy Turlington, Björk,  
-Gretha Cavazzoni, David Copperfield,
-
-Linda Evangelista, Claudia Schiffer _(themselves)_
-
-USA 1994
-
+USA 1994<br>
 133 mins
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDIyMjY2NTMsLTE4MTQ3NzEwMTldfQ
-==
+eyJoaXN0b3J5IjpbLTMyOTEzNDQyMSwtMTgxNDc3MTAxOV19
 -->
