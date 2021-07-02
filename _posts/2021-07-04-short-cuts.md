@@ -1,3 +1,15 @@
+---
+layout: post
+title: Short Cuts
+published: true
+date: 2021-07-04
+readtime: true
+categories: ['ROBERT ALTMAN - AMERICAN OUTSIDER']
+tags: [Drama, Comedy]
+metadata: 'USA 1993, 188 mins<br> Director: Robert Altman'
+pdf: '2021-07-04-short-cuts.pdf'
+---
+
 The last word spoken in Robert Altman’s film _Short Cuts_ is ‘lemonade’: we hear it as the camera tracks out over a briefly shaken Los Angeles, as two partying couples toast to survival in the face of a minor apocalypse. As so often happens with Altman, who is famous for his habit of scrambling soundtracks to the limit of comprehensibility, the word is audible but not entirely noticeable, certainly not impressing itself on you as central to the film’s meaning. Yet, in an oblique fashion, that is precisely what it is – an operational password for the entire film. For ‘Lemonade’ is the title of a poem by Raymond Carver, and the poem’s subject is also the film’s real subject, as well as its structural principle.
 
 _Short Cuts_ is based on nine stories by Carver, who died in 1988 aged 50, having established himself as the poet laureate of small, desolate, claustrophobic middle American lives. ‘Lemonade’ itself is not directly adapted in the film, although its theme – What if this had happened, rather than that? What then? – is foregrounded in the episode involving Jack Lemmon, and runs throughout the film, both in the narratives themselves and in the way they interlock. In the poem, a man ponders on his son’s drowning; he is convinced he would still be alive if only he had not gone to fetch lemonade that day. The lemonade, he reasons, would not have been there if only there had not been lemons in the shops. So he tries to pick his way back causally to a prelapsarian moment: ‘It all harks back to first causes, back to the first lemon cultivated on earth.’
@@ -14,8 +26,7 @@ Altman and his co-writer Frank Barhydt take a very different approach. The episo
 
 How did Altman and Barhydt decide which stories to use, and which ones would lead into which others?
 
-‘They do it themselves automatically. You take one base story, you throw it up on the wall, and it’s like vines – they grow where there’s place to grow in and out of one another.’ The image of vines perhaps expresses what’s most peculiar to the film.  
-It’s certainly true that, as some Carver specialists have pointed out, the film does not strictly adhere to the writer’s spirit; it’s at once too upbeat and too cynical for that. It only rarely displays the stoic empathy that the stories solicit for their characters; instead, Altman’s characters redeem the claustrophobic quality of their lives by the energy and charisma with which they perform (to the extent that some of these lives look somewhat glamorous because they’re incarnated by the likes of Tom Waits or Frances McDormand). But it is the connections between the episodes that make the film – the sense that they’re all bunches of event growing on the same tangled vine. And it’s when we become aware of the incongruity of these connections that the film transcends its merely anecdotal base.
+‘They do it themselves automatically. You take one base story, you throw it up on the wall, and it’s like vines – they grow where there’s place to grow in and out of one another.’ The image of vines perhaps expresses what’s most peculiar to the film. It’s certainly true that, as some Carver specialists have pointed out, the film does not strictly adhere to the writer’s spirit; it’s at once too upbeat and too cynical for that. It only rarely displays the stoic empathy that the stories solicit for their characters; instead, Altman’s characters redeem the claustrophobic quality of their lives by the energy and charisma with which they perform (to the extent that some of these lives look somewhat glamorous because they’re incarnated by the likes of Tom Waits or Frances McDormand). But it is the connections between the episodes that make the film – the sense that they’re all bunches of event growing on the same tangled vine. And it’s when we become aware of the incongruity of these connections that the film transcends its merely anecdotal base.
 
 ‘This is what happens every day of your life,’ says Altman, ‘but we don’t recognise it so much because we can’t take the involvement. Somebody gets hit by a car and you stop and look in the street, and you think, “I don’t want to see that,” so you go the other way. But people who don’t go the other way see more of that story, and the people who are actually involved in that story have another story. These things go on all the time, and it’s the juxtaposition of these lives that makes _Short Cuts_ interesting.’
 
@@ -50,8 +61,7 @@ _1st Assistant Camera_: Robert Reed Altman
 _Gaffer_: Jack English  
 _Key Grip_: Anthony T. Marra II  
 _Stills Photography_: Joyce Rudolph  
-_Special Effects_: John Harrdigan,  
-Christopher Nelson  
+_Special Effects_: John Harrdigan, Christopher Nelson  
 _Film Editors_: Geraldine Peroni, Suzy Elmiger  
 _1st Assistant Editors_: David Leonard, Sandra Kaufman  
 _Production Designer_: Stephen Altman  
@@ -136,6 +146,54 @@ USA 1993<br>
 Print courtesy of the Robert Altman Collection at the UCLA Film & Television Archive<br>
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDA4OTgyMl19
--->
+<br><br>
+**ROBERT ALTMAN: AMERICAN OUTSIDER**<br>
+**Vincent and Theo**<br>
+Sat 3 Jul 11:20; Tue 13 Jul 20:30<br>
+**Prêt-à-porter**<br>
+Sat 3 Jul 18:05; Mon 19 Jul 17:40<br>
+**The Player**<br>
+Sat 3 Jul 20:40; Mon 12 Jul 17:45; Wed 28 Jul 20:30<br>
+**Short Cuts**<br>
+Sun 4 Jul 11:30; Sat 17 Jul 19:30<br>
+**Kansas City**<br>
+Sun 4 Jul 15:20; Thu 15 Jul 17:40<br>
+**Cookie’s Fortune**<br>
+Tue 6 Jul 14:50; Wed 7 Jul 20:40; Tue 27 Jul 17:40<br>
+**The Gingerbread Man**<br>
+Fri 9 Jul 20:40; Sat 17 Jul 17:50<br>
+**Dr T & The Women**<br>
+Sat 10 Jul 15:00; Mon 26 Jul 20:30<br>
+**Gosford Park**<br>
+Sun 11 Jul 15:20; Sun 18 Jul 18:20; Fri 23 Jul 14:30<br>
+**The Company**<br>
+Tue 13 Jul 17:50; Sat 31 Jul 11:50<br>
+**A Prairie Home Companion**<br>
+Sun 25 Jul 12:00; Sat 31 Jul 17:50<br>
+<br>
+**Promotional partners**  
+<img style="float: left;" src="/img/partner/yeastie-boys-logo.png" alt="Yeastie Boys" title="Yeastie Boys">
+<br><br><br><br><br><br><br><br>
+**A deliciously irreverent brewing company**  
+
+<img style="float: left;" src="/img/partner/scala-radio-logo.png" alt="Scala Radio" title="Scala Radio">
+<br><br><br><br><br><br><br><br><br><br>
+**planetradio.co.uk/scala-radio**  
+<br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
