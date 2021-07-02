@@ -69,30 +69,21 @@ Alan Lee _(landlord)_<br>
 Ralph Smiley _(Carl, the waiter)_<br>
 Alfred Hitchcock  _(man winding clock at song writer’s)_<br>
 Jack Stoney _(iceman)_<br>
-Marla English_,_ Kathryn Grant _(party girls)_<br>
+Marla English, Kathryn Grant _(party girls)_<br>
 Jerry Antes _(dancer)_<br>
-
 Barbara Bailey _(choreographer)_<br>
-
 Len Hendry,  Mike Mahoney _(policemen)_<br>
-
 Anthony Warde _(detective)_<br>
-
 Bennie Bartlett _(Stanley, Miss Torso’s friend)_<br>
-
 Bess Flowers _(woman with poodle)_<br>
-
 Harry Landers _(young man)_<br>
-
-Dick Simmons_,_ James A. Cornell_,_ Nick Borgani _(men)_<br>
-
-Jenni Paris_,_ Sue Casey _(sunbathers)_<br>
-
+Dick Simmons,  James A. Cornell,  Nick Borgani _(men)_<br>
+Jenni Paris, Sue Casey _(sunbathers)_<br>
 Iphigenie Castiglioni _(bird woman)_<br>
 
 USA 1954©<br>
 112 mins
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxMjY4NTM3XX0=
+eyJoaXN0b3J5IjpbLTIwMTY2OTk5MjVdfQ==
 -->
