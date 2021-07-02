@@ -10,7 +10,7 @@ metadata: 'Sweden, 1957, 91 mins<br> Director: Ingmar Bergman'
 pdf: '2021-07-03-wild-strawberries.pdf'
 ---
 
-_On the 20th of February, Ingmar Bergman delivered an address at the  Swedish Film Academy. The following tribute to Victor Sjöström is a slightly abridged translation of that address._
+_On the 20th of February 1960, Ingmar Bergman delivered an address at the  Swedish Film Academy. The following tribute to Victor Sjöström is a slightly abridged translation of that address._
 
 No. I can’t compose a speech in memory of Victor Sjöström. I suspect he would smile with the utmost irony if he could see me making such a speech.
 
