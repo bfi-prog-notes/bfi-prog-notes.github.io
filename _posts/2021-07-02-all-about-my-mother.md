@@ -22,90 +22,48 @@ Three subtle features, however, contribute substantially to the film’s narrati
 
 The final technique is the two shot. Consistently exploiting the wide screen and scorning television-friendly square composition, Almodóvar’s framings privilege the relation between characters. In the prologue mother and son are kept constantly together on screen, whether watching Bette Davis on television or Huma Rojo on stage. Later the central figure of Manuela will generously share the frame with the supporting players: Huma, Rosa, La Agrado, and Niña (Candela Peña), Huma’s junkie lover. Superficially similar to _Live Flesh_, which also focused on the relationships between several characters and boasted sharp shooting and cutting, _All about My Mother_ is significantly different from its predecessor. For in _All about My Mother_ the bond between the characters is not sex, but solidarity.  
 **Paul Julian Smith, _Sight and Sound_, September 1999**
-
+<br><br>
 
 **ALL ABOUT MY MOTHER (TODO SOBRE MI MADRE)**<br>
 _Director:_ Pedro Almodóvar<br>
-
 ©: El Deseo, Renn Productions, France 2 Cinéma<br>
-
-_Production Companies:_ El Deseo,
-
-Renn Productions, France 2 Cinéma, Canal+<br>
-
+_Production Companies:_ El Deseo, Renn Productions, France 2 Cinéma, Canal+<br>
 _Producer:_ Agustín Almodóvar<br>
-
 _Associate Producer:_ Michel Ruben<br>
-
 _Production Supervisor:_ Esther García<br>
-
 _Production Manager:_ Tino Pont<br>
-
 _Unit Manager:_ María Rodríguez<br>
-
 _1st Assistant Director:_ Pedro Lazaga<br>
-
 _Script Supervisor:_ Yuyi Beringola<br>
-
 _Casting Director:_ Sara Bilbatúa<br>
-
 _Screenplay:_ Pedro Almodóvar<br>
-
 _Director of Photography:_ Affonso Beato<br>
-
 _Camera Operator:_ Joaquín Manchado<br>
-
 _Special Effects/Digital Post-production:_ Molinare<br>
-
 _Inferno Operator:_ Aurelio Sánchez-Herrero<br>
-
 _Graphic Design:_ Oscar Mariné, OMB (Madrid)<br>
-
 _Editor:_ José Salcedo<br>
-
 _Art Director:_ Antxón Gómez<br>
-
 _Set Decorator:_ Federico García Cambero<br>
-
 _Costumes:_ José María de Cossío, Sabine Daigeler<br>
-
 _Make-up:_ Juan Pedro Hernández<br>
-
 _Hair:_ Jean Jacques Puchu<br>
-
 _Optical Effects:_ Story Film/Pablo Núñez<br>
-
 _Music:_ Alberto Iglesias<br>
-
-_Music Performed by:_  
-City of Prague Philharmonic Orchestra<br>
-
+_Music Performed by:_  City of Prague Philharmonic Orchestra<br>
 _Conducted by:_ Mario Klemens<br>
-
 _Clarinet Soloist:_ Enrique Pérez<br>
-
 _Trumpet Soloist:_ Patxi Urtegui<br>
-
 _Guitar Soloist:_ Fernando Egozcue<br>
-
 _Drums Soloist:_ Patrick Goraguer<br>
-
 _Electric Bass Soloist:_ Paco Bastante<br>
-
 _Vibraphone Soloist:_ Alfredo Anaya<br>
-
 _Piano Soloist:_ Alberto Iglesias<br>
-
 _Flute Soloist:_ Manuel Tobar<br>
-
 _Sound:_ Miguel Rejas<br>
-
 _Boom Operator:_ Jaime Fernández<br>
-
 _Re-recording Mixers:_ José Antonio Bermúdez, Diego Garrido<br>
-
 _Sound Effects:_ Luis Castro<br>
-
 _Stunt Co-ordinator:_ Antonio Lemos<br>
 
 _Cast:_<br>
@@ -139,7 +97,9 @@ Manuel Morón, José Luis Torrijo, Carmen Balagué, Malena Gutierrez, Yael Barna
 Daniel Lanchas, Rosa Manaut, Carlos García Cambero, Paz Sufrategui, Lola García,  
 Lluis Pascual<br>
 
-Spain/France 1999©  101 mins
+Spain/France 1999©<br>
+101 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTkxMTA5Ml19
+eyJoaXN0b3J5IjpbLTE3NTQwMzg0OTJdfQ==
 -->
