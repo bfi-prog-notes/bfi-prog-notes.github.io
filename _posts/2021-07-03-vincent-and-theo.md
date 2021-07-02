@@ -135,9 +135,8 @@ Sat 10 Jul 15:00; Mon 26 Jul 20:30<br>
 Sun 11 Jul 15:20; Sun 18 Jul 18:20; Fri 23 Jul 14:30<br>
 **The Company**<br>
 Tue 13 Jul 17:50; Sat 31 Jul 11:50<br>
-**A Prairie Home Companion**
-
-Sun 25 Jul 12:00; Sat 31 Jul 17:50
+**A Prairie Home Companion**<br>
+Sun 25 Jul 12:00; Sat 31 Jul 17:50<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDI0MDQ5MTNdfQ==
+eyJoaXN0b3J5IjpbMTI0NDQzMjM4MV19
 -->
