@@ -122,7 +122,6 @@ Jocelyne Saint Denys _(hotel manager)_
 André Penvern _(hotel clerk)_  
 Maurice Lamy _(bell boy)_  
 Pascal Mourier, Adrien Stahly, Denis Lepeut
-
 _(Fad TV sound engineer)_  
 Harry Belafonte, Paolo Bulgari,
 
@@ -151,5 +150,6 @@ USA 1994
 133 mins
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQ3NzEwMTldfQ==
+eyJoaXN0b3J5IjpbLTEwNDIyMjY2NTMsLTE4MTQ3NzEwMTldfQ
+==
 -->
