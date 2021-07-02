@@ -49,198 +49,198 @@ _Executive Producer:_ Jack L. Warner<br>
 
 _A_ Hal B. Wallis _production_<br>
 
-_Dialogue Director:_ Hugh MacMullan
+_Dialogue Director:_ Hugh MacMullan<br>
 
 _Screen Play by:_ Julius J. Epstein,  
-Philip G. Epstein, Howard Koch
+Philip G. Epstein, Howard Koch<br>
 
-_From a play by:_ Murray Burnett, Joan Alison
+_From a play by:_ Murray Burnett, Joan Alison<br>
 
-_Director of Photography:_ Arthur Edeson
+_Director of Photography:_ Arthur Edeson<br>
 
-_Special Effects by (Director):_ Lawrence Butler
+_Special Effects by (Director):_ Lawrence Butler<br>
 
-_Special Effects by:_ Willard Van Enger
+_Special Effects by:_ Willard Van Enger<br>
 
-_Editor:_ Owen Marks
+_Editor:_ Owen Marks<br>
 
-_Montages by:_ Don Siegel, James Leicester
+_Montages by:_ Don Siegel, James Leicester<br>
 
-_Art Director:_ Carl Jules Weyl
+_Art Director:_ Carl Jules Weyl<br>
 
-_Set Decorations by:_ George James Hopkins
+_Set Decorations by:_ George James Hopkins<br>
 
-_Gowns by:_ Orry-Kelly
+_Gowns by:_ Orry-Kelly<br>
 
-_Make-up Artist:_ Perc Westmore
+_Make-up Artist:_ Perc Westmore<br>
 
-_Music by:_ Max Steiner
+_Music by:_ Max Steiner<br>
 
-_Songs by:_ M.K. Jerome, Jack Scholl
+_Songs by:_ M.K. Jerome, Jack Scholl<br>
 
-_Musical Director:_ Leo F. Forbstein
+_Musical Director:_ Leo F. Forbstein<br>
 
-_Orchestral Arrangements:_ Hugo Friedhofer
+_Orchestral Arrangements:_ Hugo Friedhofer<br>
 
-_Sound by:_ Francis J. Scheid
+_Sound by:_ Francis J. Scheid<br>
 
-_Sound System:_ RCA
+_Sound System:_ RCA<br>
 
-_Technical Adviser:_ Robert Aisner
+_Technical Adviser:_ Robert Aisner<br>
 
-_uncredited_
+_uncredited_<br>
 
-_Unit Manager:_ Al Alleborn
+_Unit Manager:_ Al Alleborn<br>
 
-_Assistant Director:_ Lee Katz
+_Assistant Director:_ Lee Katz<br>
 
-_Screenplay Supervisor:_ Jerry Wald
+_Screenplay Supervisor:_ Jerry Wald<br>
 
-_Sam’s Piano Playing Dubbed by:_ Elliott Carpenter
+_Sam’s Piano Playing Dubbed by:_ Elliott Carpenter<br>
 
-_Narrator:_ Lou Marcelle
+_Narrator:_ Lou Marcelle<br>
 
-_Cast:_
+_Cast:_<br>
 
-Humphrey Bogart _(Richard ‘Rick’ Blaine)_
+Humphrey Bogart _(Richard ‘Rick’ Blaine)_<br>
 
-Ingrid Bergman _(Ilsa Lund Laszlo)_
+Ingrid Bergman _(Ilsa Lund Laszlo)_<br>
 
-Paul Henreid _(Victor Laszlo)_
+Paul Henreid _(Victor Laszlo)_<br>
 
-Claude Rains _(Captain Louis Renault)_
+Claude Rains _(Captain Louis Renault)_<br>
 
-Conrad Veidt _(Major Heinrich Strasser)_
+Conrad Veidt _(Major Heinrich Strasser)_<br>
 
-Sydney Greenstreet _(Señor Ferrari)_
+Sydney Greenstreet _(Señor Ferrari)_<br>
 
-Peter Lorre _(Ugarte)_
+Peter Lorre _(Ugarte)_<br>
 
-S.K. Sakall _(Carl, the head waiter)_
+S.K. Sakall _(Carl, the head waiter)_<br>
 
-Madeleine LeBeau _(Yvonne)_
+Madeleine LeBeau _(Yvonne)_<br>
 
-Dooley Wilson _(Sam)_
+Dooley Wilson _(Sam)_<br>
 
-Joy Page _(Annina Brandel)_
+Joy Page _(Annina Brandel)_<br>
 
-John Qualen _(Berger)_
+John Qualen _(Berger)_<br>
 
-Leonid Kinskey _(Sascha, the bartender)_
+Leonid Kinskey _(Sascha, the bartender)_<br>
 
-Curt Bois _(pickpocket)_
+Curt Bois _(pickpocket)_<br>
 
-_uncredited_
+_uncredited_<br>
 
-Helmut Dantine _(Jan Brandel)_
+Helmut Dantine _(Jan Brandel)_<br>
 
-Marcel Dalio _(Emile, the croupier)_
+Marcel Dalio _(Emile, the croupier)_<br>
 
-Charles La Torre _(First Officer Tonnelli)_
+Charles La Torre _(First Officer Tonnelli)_<br>
 
-Corinna Mura _(Andreya, singer)_
+Corinna Mura _(Andreya, singer)_<br>
 
-Ludwig Stössel _(Mr Leuchtag)_
+Ludwig Stössel _(Mr Leuchtag)_<br>
 
-Ilka Gruning _(Mrs Leuchtag)_
+Ilka Gruning _(Mrs Leuchtag)_<br>
 
-Frank Puglia _(Arab vendor)_
+Frank Puglia _(Arab vendor)_<br>
 
-Dan Seymour _(Abdul, Rick’s doorman)_
+Dan Seymour _(Abdul, Rick’s doorman)_<br>
 
-Oliver Blake _(Blue Parrot bartender)_
+Oliver Blake _(Blue Parrot bartender)_<br>
 
-Gregory Gaye _(German banker)_
+Gregory Gaye _(German banker)_<br>
 
-George Meeker _(friend)_
+George Meeker _(friend)_<br>
 
-William Edmunds _(contact)_
+William Edmunds _(contact)_<br>
 
-Torben Meyer _(banker)_
+Torben Meyer _(banker)_<br>
 
-Gino Corrado _(waiter)_
+Gino Corrado _(waiter)_<br>
 
-George Dee _(Casselle)_
+George Dee _(Casselle)_<br>
 
-Norma Varden _(Englishwoman)_
+Norma Varden _(Englishwoman)_<br>
 
-Leo Mostovoy _(Fydor)_
+Leo Mostovoy _(Fydor)_<br>
 
-Richard Ryen _(Heinz)_
+Richard Ryen _(Heinz)_<br>
 
-Martin Garralaga _(head waiter)_
+Martin Garralaga _(head waiter)_<br>
 
-Olaf Hytten _(prosperous man)_
+Olaf Hytten _(prosperous man)_<br>
 
-Monte Blue _(American)_
+Monte Blue _(American)_<br>
 
-Michael Mark _(vendor)_
+Michael Mark _(vendor)_<br>
 
-Leon Belasco _(dealer)_
+Leon Belasco _(dealer)_<br>
 
-Paul Porcasi _(native)_
+Paul Porcasi _(native)_<br>
 
-Hans Heinz von Twardowski _(German officer)_
+Hans Heinz von Twardowski _(German officer)_<br>
 
-Alberto Morin _(French officer)_
+Alberto Morin _(French officer)_<br>
 
-Creighton Hale _(customer)_
+Creighton Hale _(customer)_<br>
 
-Henry Rowland _(German officer)_
+Henry Rowland _(German officer)_<br>
 
-Jean Del Val _(police officer)_
+Jean Del Val _(police officer)_<br>
 
-Franco Corsaro _(French police officer)_
+Franco Corsaro _(French police officer)_<br>
 
-Jamiel Hasson _(muezzin)_
+Jamiel Hasson _(muezzin)_<br>
 
-Lal Chand Mehra _(policeman 1)_
+Lal Chand Mehra _(policeman 1)_<br>
 
-Manuel Lopez _(policeman 2)_
+Manuel Lopez _(policeman 2)_<br>
 
-Wolfgang Zilzer _(civilian)_
+Wolfgang Zilzer _(civilian)_<br>
 
-Winifred Harris _(Englishwoman)_
+Winifred Harris _(Englishwoman)_<br>
 
-Arthur DuLac _(news vendor)_
+Arthur DuLac _(news vendor)_<br>
 
-Gerald Oliver Smith, Herbert Evans _(Englishmen)_
+Gerald Oliver Smith, Herbert Evans _(Englishmen)_<br>
 
-Joe de Villard _(Moroccan)_
+Joe de Villard _(Moroccan)_<br>
 
-Adrienne D’Ambricourt _(concierge)_
+Adrienne D’Ambricourt _(concierge)_<br>
 
-Louis Arco, Lester Sharpe _(refugees)_
+Louis Arco, Lester Sharpe _(refugees)_<br>
 
-Jacques Lory _(moor)_
+Jacques Lory _(moor)_<br>
 
-Arthur Hull _(elderly admirer)_
+Arthur Hull _(elderly admirer)_<br>
 
-Anita Camargo _(woman companion)_
+Anita Camargo _(woman companion)_<br>
 
-George Renavent, Louis Mercier _(conspirators)_
+George Renavent, Louis Mercier _(conspirators)_<br>
 
-Geoffrey Steele _(customer)_
+Geoffrey Steele _(customer)_<br>
 
-Maurice Brierre _(baccarat dealer)_
+Maurice Brierre _(baccarat dealer)_<br>
 
-Frank Arnold _(overseer)_
+Frank Arnold _(overseer)_<br>
 
-Dina Smirnova _(woman customer)_
+Dina Smirnova _(woman customer)_<br>
 
-Dick Botiller, George Sorel _(native officers)_
+Dick Botiller, George Sorel _(native officers)_<br>
 
-Gregory Golubeff _(cashier)_
+Gregory Golubeff _(cashier)_<br>
 
-George Carleton _(American)_
+George Carleton _(American)_<br>
 
-Jacques Vanaire _(Frenchman)_
+Jacques Vanaire _(Frenchman)_<br>
 
-Paul Irving _(prosperous tourist)_
+Paul Irving _(prosperous tourist)_<br>
 
-Jean De Briac _(orderly)_
+Jean De Briac _(orderly)_<br>
 
-Nino Pellini _(gendarme)_
+Nino Pellini _(gendarme)_<br>
 
 Paul Panzer _(waiter)_
 
@@ -260,5 +260,5 @@ USA 1942©
 
 102 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzAyMTM0NDRdfQ==
+eyJoaXN0b3J5IjpbMTMyNDIyMjkyNF19
 -->
