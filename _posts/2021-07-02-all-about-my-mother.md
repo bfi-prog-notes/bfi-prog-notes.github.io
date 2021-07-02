@@ -87,8 +87,7 @@ Toni Cantó _(Lola, ‘la Pionera’)_<br>
 Eloy Azorin _(Esteban)_<br>
 Carlos Lozano _(Mario)_<br>
 Juan José Otegui _(gynaecologist)_<br>
-Manuel Morón, José Luis Torrijo, Carmen Balagué, Malena Gutierrez, Yael Barnatán, Carmen Fortuny, Patxi Freytez, Juan Márquez, Michel Ruben,  
-Daniel Lanchas, Rosa Manaut, Carlos García Cambero, Paz Sufrategui, Lola García,  Lluis Pascual<br>
+Manuel Morón, José Luis Torrijo, Carmen Balagué, Malena Gutierrez, Yael Barnatán, Carmen Fortuny, Patxi Freytez, Juan Márquez, Michel Ruben,  Daniel Lanchas, Rosa Manaut, Carlos García Cambero, Paz Sufrategui, Lola García,  Lluis Pascual<br>
 
 Spain/France 1999©<br>
 101 mins
