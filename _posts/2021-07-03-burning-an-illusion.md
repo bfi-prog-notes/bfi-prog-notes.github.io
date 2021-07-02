@@ -40,234 +40,125 @@ On the other hand, the devices which Shabazz uses to bring his audience to this 
 
 With the proviso, then, that my opinion is handicapped, if not actually invalid – the film is about a black, working-class woman and I am a white middle-class man; even the pretensions of liberal empathy are limited – there are two things that are particularly impressive about _Burning an Illusion_. The first is that, like Horace Ové’s _Pressure_, its militancy is gradually arrived at. Most of the film avoids the immediate impact drama of conflict with the systems of a white society, and concentrates instead on everyday problems which are primarily male/female and only secondarily black/white. Pat’s aspirations are those of the world in which she has been brought up: an annual holiday; a new carpet for her neat, tower-block apartment; a colour TV. Del’s are universally male. ‘My dignity come first,’ he tells Pat. ‘Man must be free, you know ... Trouble with you, man, you’re too possessive.’ By which he means that Pat, having taken over the financial responsibility entirely when he is sacked, and having cooked his food for him, expects him not to go out every night with his friends, nor to assume she will bring them beer when they take over the apartment to play cards.
 
-In the end, she throws him out. This in itself is a major breakthrough, not just for her but for the film. Instead of showing the problems of Britain’s black communities to be the result of directly negative intervention by white authorities (employers, teachers, police), _Burning an Illusion_ treats a black relationship equally threatened by unconsciously adopted external attitudes (on Pat’s part) and traditional male West Indian attitudes (on Del’s). In other words, it focuses on ordinary life in the black community, rather than making that community an inevitable focus for crisis and drama.
+In the end, she throws him out. This in itself is a major breakthrough, not just for her but for the film. Instead of showing the problems of Britain’s black communities to be the result of directly negative intervention by white authorities (employers, teachers, police), _B_ treats a black relationship equally threatened by unconsciously adopted external attitudes (on Pat’s part) and traditional male West Indian attitudes (on Del’s). In other words, it focuses on ordinary life in the black community, rather than making that community an inevitable focus for crisis and drama.
 
 But the last part of the film rather abandons this tack for the easier task of consciousness-raising through conflict (however inevitable that conflict may be). Pat’s assertion of her rights as a woman is partly channelled if not actually subverted into her being ‘part of the struggle for equal rights and liberation’. It is Del’s demand for books to read in jail that occasions this change. ‘What was funny,’ she says, ‘was that his interest in books was rubbing off on me.’ Why funny? It is difficult to avoid the conclusion that, having taken the lead in the struggle for equal sexual rights – not just in her own case, but in advising her friend Sonia not to allow herself to be pushed around by her man – she takes second place once again in the broader political struggle. That the lessons learned in the first part of the film are carried over into the second part is assumed rather than demonstrated. Is Pat black first and a woman second, or a woman first and black second? And do I have the right to ask that question, being neither? What is more, does it matter that I think the film is fine but flawed? The important thing is that it should work. And that it seems certain to do. It reflects an experience, burns an illusion and portrays a consciousness. That, in the context of its production and its potential distribution, is more than enough.<br>
 **Nick Roddick, _Sight & Sound_, Autumn 1982**
 
-**But You’re Not Black**<br>
-A Chinese-Caribbean-Canadian woman tries to embrace her parents’  Trinidadian identity.<br>
+**But You’rA Chinese-Caribbean-Canadian woman tries to embrace her parents’  Trinidadian identity.<br>
 <br>
 
 **BUT YOU'RE NOT BLACK**<br>
 _Director:_ Danielle Ayow<br>
 
 Canada 2019<br>
-
 19min
 
 **BURNING AN ILLUSION**<br>
 
 _Directed by:_ Menelik Shabazz<br>
-
 ©: Menelik Shabazz<br>
-
-_Production Company:_ 
-
-British Film Institute Production Board<br>
-
+_Production Company:_ British Film Institute Production Board<br>
 _Production Supervisor:_ Vivien Pottersman<br>
-
 _Production Assistant:_ Matthew Burge<br>
-
-_1st Assistant Directors:_ Chris Rose, 
-
-Mike Shoring<br>
-
+_1st Assistant Directors:_ Chris Rose, Mike Shoring<br>
 _2nd Assistant Director:_ Imruh Caesar<br>
-
 _Continuity:_ Caroline Sax<br>
-
 _Written by:_ Menelik Shabazz<br>
-
 _Photography:_ Roy Cornwall<br>
-
 _Camera Assistant:_ Steve Harrison<br>
-
 _Electricians:_ Bruce Kington, James Lennon<br>
-
 _Graphic Designer:_ Anum Iyapo<br>
-
 _Editor:_ Judy Seymour<br>
-
 _Assistant Editor:_ Rosalind Haber<br>
-
 _Art Direction:_ Miranda Melville<br>
-
 _Assistant Art Direction:_ Shakka Dedi<br>
-
 _Wardrobe Assistant:_ Jane Moss<br>
-
 _Make-up Artist:_ Audrey Foster<br>
-
 _Hair Stylist:_ Juliana Julien<br>
-
 _Music:_ Seyoum Netfa, Ras Angels<br>
-
 _Sound:_ Edward Tise<br>
-
-_Assistant Sound Recordist:_ 
-
-Rosemary Straker<br>
-
+_Assistant Sound Recordist:_ Rosemary Straker<br>
 _Additional Sound:_ John Anderton<br>
-
 _Dubbing Mixer:_ Tony Anscombe<br>
-
 _Fight Arranger:_ Derek Ware<br>
-
 _We would also like to thank:_ Film Lighting Services, Nellie Frocks, Lady at Lord John, London Co-Operative Society, Omnibus Theatre, Grassroots Bookshop, West London Media Workshop<br>
 
 **Cast**<br>
-
-_Cast:_
-
 Cassie McFarlane _(Pat Williams)_<br>
-
 Victor Romero _(Del Bennett)_<br>
-
 Beverley Martin _(Sonia)_<br>
-
 Angela Wynter _(Cynthia)_<br>
-
 Malcolm Fredericks _(Chamberlain)_<br>
-
 Chris Tummings _(Scotty)_<br>
-
 Larrington Walker _(Tony)_<br>
-
 Trevor Laird _(pest)_<br>
-
 Corinne Skinner-Carter _(Pat’s mother)_<br>
-
 Janet Kay _(singer in club)_<br>
-
 Marva Buchanan _(Lorna)_<br>
-
 Millie Kiarie _(chairwoman)_<br>
-
 Nicola Wright _(Christine)_<br>
-
 Ruddy L. Davis _(father)_<br>
-
 Suzanne Auguiste _(Angela)_<br>
-
 Brian Bovell _(Nat West)_<br>
-
 Basil Otoin _(first waiter)_<br>
-
 Vinny _(second waiter)_<br>
-
 Trevor Ward _(man in restaurant)_<br>
-
 Stella Orakwue _(woman in restaurant)_<br>
-
 Andrew De La Tour _(foreman)_<br>
-
 Lynval Dunn _(Andy)_<br>
-
 Errol Edmondson _(pool table youth)_<br>
-
 The Government _(band in club)_<br>
-
 Eunice Allen _(girl in club)_<br>
-
 Junior Green _(man in club)_<br>
-
 Ian Cullen _(desk sergeant)_<br>
-
-Les Clark, Steve Kane, Brian Lintz, Gary McDonald, Derek Moss, Charles Pickess,  
-Jeff Silk, Byron Sotiris, Doug Stark _(policemen)_<br>
-
-  
-John Cannon, Dean Garfield, Eric Kent, 
-
-Angelo Papini, Terry Paris, Tony Powell 
-
-_(prison warders)_<br>
-
+Les Clark, Steve Kane, Brian Lintz, Gary McDonald, Derek Moss, Charles Pickess, Jeff Silk, Byron Sotiris, Doug Stark _(policemen)_<br>
+John Cannon, Dean Garfield, Eric Kent, Angelo Papini, Terry Paris, Tony Powell _(prison warders)_<br>
 Leroy Anderson _(Richard)_<br>
-
 Loftus Burton _(solicitor)_<br>
-
 Graham Rowe _(appeal judge)_<br>
-
 Alan Cumnor-Price _(man with gun)_<br>
-
 John Challis _(man in car)_<br>
-
 Tim Condren _(kerb crawler)_<br>
-
 Paula Sinclair _(girl in street)_<br>
 
 Malcolm Davidson _(doctor)_<br>
-
-Ras Angels, Ras Messengers  
-_(singers and drummers in minibus)_<br>
+Ras Angels, Ras Messengers _(singers and drummers in minibus)_<br>
 
 UK 1981©<br>
-
 105 mins<br>
 <br><br>
-**
-
-T A P E PRESENTS: BUT WHERE ARE YOU REALLY FROM?**<br>
-
+**T A P E PRESENTS: BUT WHERE ARE YOU REALLY FROM?**<br>
 **Burning an Illusion**<br>
-
 Sat 3 Jul 14:20; Thu 8 Jul 17:45<br>
-
 **While We Live (****Medan vi lever)**<br>
-
 Sat 3 Jul 17:30; Tue 20 Jul 20:30<br>
-
 **Binti**<br>
-
 Sun 4 Jul 18:20; Mon 19 Jul 20:40<br>
-
 **Eyimofe (This Is My Desire)**<br>
-
 Fri 9 Jul 17:40<br>
-
 **Pinky**<br>
-
 Sat 10 Jul 20:50; Sat 24 Jul 11:40<br>
-
 **Head-On (Gegen die Wand)**<br>
-
 Sun 11 Jul 18:30; Tue 27 Jul 20:40<br>
-
 **Black Girl (La noire de...)**<br>
-
 Mon 12 Jul 18:20<br>
-
 **The Namesake**<br>
-
 Wed 14 Jul 17:40 (+ live spoken-word performance); Wed 21 Jul 20:40<br>
-
 **What Will People Say (Hva vil folk si)**<br>
-
 Fri 16 Jul 20:30; Sat 31 Jul 17:30<br>
-
 **In Conversation with Nikesh Shukla**<br>
-
 Fri 23 Jul 18:20<br>
-
 **Lilting**<br>
-
 Sat 24 Jul 17:20; Fri 30 Jul 20:40<br>
-
 **Shoot the Messenger + Q&A with director Ngozi Onwurah, hosted by T A P E’s Angela Moneke**<br>
-
 Thu 29 Jul 17:45<br>
-
 **Culture Shock: Short Film Programme + Q&A with UNDR LNDN**<br>
-
 Fri 30 Jul 17:40<br>
 
 T A P E was founded in 2015 as a response to the lack of representation on screen.  
 Find out more about this curatorial collective at **tapecollective.co.uk**
-  <br><br>
+<br><br>
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
@@ -285,5 +176,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzIxOTQyMTksMTAyNTg4MzYyMl19
+eyJoaXN0b3J5IjpbNTExOTQ4NzA2LC0xMzMyMTk0MjE5LDEwMj
+U4ODM2MjJdfQ==
 -->
