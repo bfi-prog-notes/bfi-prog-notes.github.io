@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trottie True (aka The Gay Lady)
+title: Trottie True<br>(aka The Gay Lady)
 published: true
 date: 2021-07-06
 readtime: true
@@ -21,8 +21,7 @@ The early vitality of the Bedford music-hall scene is not maintained, and a majo
 There is much to enjoy in _Trottie True_, but these are mainly surface pleasures. Both art direction and colour are first class, with much eye candy in colour and form, art direction, and detail in costumes and millinery. Harry Waxman’s cinematography nicely differentiates the emotional temperatures of the True family home, with its warm, dark colours, and the Wellwater stately pile, in cold, light blues. Visual treats include an early close-up of a bird in a gilded cage (bride as trophy?), Gaiety Girls travelling to a picnic in their white dresses and finery, Bouncie’s dressing room bedecked with flowers, and a lavish servant’s ball. British 1940s Technicolor films offer an abundance of visual pleasures, especially when lovingly restored by the BFI National Archive. _Trottie True_ is not among the best known, but comes beautifully packaged, gift wrapped with all the trimmings.  
 **Roger Philip Mellor, BFI Screenonline, screenonline.org.uk**
 
-**Jean Kent (1921-2013)**
-
+**Jean Kent (1921-2013)**  
 In Anthony Asquith’s 1950 film _The Woman in Question_, a murdered woman is presented via several flashbacks through the eyes of different characters who knew her. From slovenly to prim and proper, these diverse interpretations of the victim are played with considerable skill by the star of the film, Jean Kent.
 
 Born Joan Mildred Field in Brixton, South London in June 1921, Kent’s parents were music hall artistes and she became a dancer and chorus girl at a young age. Her film career began in 1935 but really took off when she was signed to Gainsborough and appeared in a string of their costume melodramas, including _Fanny by Gaslight_ (1944), _Madonna of the Seven Moons_ (1945)  and _Caravan_ (1946).
@@ -74,8 +73,7 @@ _uncredited_
 _Production Executive_: Herbert Smith  
 _Unit Manager_: Frank Sherwin Green  
 _Assistant Production Manager_: Victor Wark  
-_Producer’s Personal Assistant_: Jean Scott Rogers
-
+_Producer’s Personal Assistant_: Jean Scott Rogers  
 _1st Assistant Director_: Mark Evans  
 _2nd Assistant Director_: Guy Wilsdon  
 _3rd Assistant Director_: Denis O’Dell  
