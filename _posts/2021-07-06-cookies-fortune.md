@@ -30,12 +30,11 @@ Still, there are neat touches. Altman makes the most of the creaky gun cupboard 
 _The Gingerbread Man_, which could have been directed by anybody, _Cookie’s Fortune_ does bear Altman’s imprimatur. The old energy and bite may be lacking, but at least this lazy, amiable shaggy-dog story was made in the same freewheeling, idiosyncratic way as Altman’s best work.<br>
 **Geoffrey Macnab, _Sight & Sound_, September 1999**<br>
 
-**COOKIE'S FORTUNE**
+**COOKIE'S FORTUNE**  
 _Directed by_: Robert Altman  
 ©: Kudzu Productions Inc  
 _Presented by_: October Films  
-_Production Companies_:  
-Sandcastle 5 Productions, Elysian Dreams
+_Production Companies_: Sandcastle 5 Productions, Elysian Dreams
 _Production Company_: Moonstone Entertainment *  
 _Executive Producer_: Willi Baer  
 _Produced by_: Robert Altman, Etchie Stroh  
@@ -53,8 +52,7 @@ _Written by_: Anne Rapp
 _Director of Photography_: Toyomichi Kurita  
 _2nd Unit Director of Photography_: Robert Reed Altman  
 _Camera Operator_: Robert Reed Altman  
-_1st Assistant Cameraman_:  
-Michael Edison Satrazemis  
+_1st Assistant Cameraman_: Michael Edison Satrazemis  
 _Gaffer_: Patrick Reddish  
 _Key Grips_: Tim Pershing, Kevin Erb  
 _Unit Photographer_: Joyce Rudolph  
@@ -131,33 +129,33 @@ USA 1999<br>
 <br><br>
 
 
-**ROBERT ALTMAN: AMERICAN OUTSIDER**
-**Cookie’s Fortune**
-Tue 6 Jul 14:50; Wed 7 Jul 20:40; Tue 27 Jul 17:40
-**McCabe & Mrs. Miller** 
-Tue 6 Jul 18:10
-**3 Women** 
-Thu 8 Jul 20:30
-**The Gingerbread Man**
-Fri 9 Jul 20:40; Sat 17 Jul 17:50
-**Dr T & The Women**
-Sat 10 Jul 15:00; Mon 26 Jul 20:30
-**Gosford Park**
- Sun 11 Jul 15:20; Sun 18 Jul 18:20; Fri 23 Jul 14:30
-**The Player**
-Mon 12 Jul 17:45; Wed 28 Jul 20:30
-**The Company**
-Tue 13 Jul 17:50; Sat 31 Jul 11:50
-**Vincent and Theo** 
-Tue 13 Jul 20:30
-**Kansas City** 
-Thu 15 Jul 17:40
-**Short Cuts** 
-Sat 17 Jul 19:30
-**Prêt-à-porter** 
-Mon 19 Jul 17:40
-**A Prairie Home Companion**
-Sun 25 Jul 12:00; Sat 31 Jul 17:50
+**ROBERT ALTMAN: AMERICAN OUTSIDER**  
+**Cookie’s Fortune**  
+Tue 6 Jul 14:50; Wed 7 Jul 20:40; Tue 27 Jul 17:40  
+**McCabe & Mrs. Miller**  
+Tue 6 Jul 18:10  
+**3 Women**  
+Thu 8 Jul 20:30  
+**The Gingerbread Man**  
+Fri 9 Jul 20:40; Sat 17 Jul 17:50  
+**Dr T & The Women**  
+Sat 10 Jul 15:00; Mon 26 Jul 20:30  
+**Gosford Park**  
+ Sun 11 Jul 15:20; Sun 18 Jul 18:20; Fri 23 Jul 14:30  
+**The Player**  
+Mon 12 Jul 17:45; Wed 28 Jul 20:30  
+**The Company**  
+Tue 13 Jul 17:50; Sat 31 Jul 11:50  
+**Vincent and Theo**  
+Tue 13 Jul 20:30  
+**Kansas City**  
+Thu 15 Jul 17:40  
+**Short Cuts**  
+Sat 17 Jul 19:30  
+**Prêt-à-porter**   
+Mon 19 Jul 17:40  
+**A Prairie Home Companion**  
+Sun 25 Jul 12:00; Sat 31 Jul 17:50  
 <br>
 **Promotional partners**  
 <img style="float: left;" src="/img/partner/yeastie-boys-logo.png" alt="Yeastie Boys" title="Yeastie Boys">
