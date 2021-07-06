@@ -24,7 +24,7 @@ Edit, a simple peasant girl who became the wife of a politician, suddenly become
 **Barbara Halpen Martineau, ‘The Films of Márta Mészáros or, The Importance of Being Banal’, _Film Quarterly_, 1980 quoted in Eszter Fazekas, _Restored Films of Márta Mészáros_, National Film Institute Hungary – Film Archive**
 <br>
 
-**BINDING SENTIMENTS (HOLDUDVAR)**<br>
+**BINDING SENTIMENTS (HOLDUDVARinding Sentiments (Holdudvar)**<br>
 _Director:_ Márta Mészáros<br>
 _Chief Production Manager:_ Ottó Föld<br>
 _Production Manager:_ József Bajusz<br>
@@ -60,7 +60,7 @@ Hungary 1969<br>
 82 mins<br>
 
 **THE CINEMA OF MÁRTA MÉSZÁROS**<br>
-**Binding Sentiments (Holdudvar)**<br>
+**B)**<br>
 Tue 6 Jul 20:50; Sat 17 Jul 15:20<br>
 **Don’t Cry, Pretty Girls! (Szép lányok, ne sírjatok!)**<br>
 Wed 7 Jul 17:40; Sun 18 Jul 18:40<br>
@@ -111,3 +111,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDg2MzgxNDQxXX0=
+-->
