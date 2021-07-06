@@ -30,78 +30,47 @@ _Music:_ Levente Szörényi<br>
 _Sound Director:_ György Pintér<br>
 
 **Cast**<br>
-Mari Töröcsik _(Edit Balassa)_
-Lajos Balázsovits _(István Balassa)_
-Gáspár Jancsó _(Gáspár Balassa)_
-Kati Kovács _(Kati)_
-Ági Mészáros, _(Aunt Margit)_
-Mari Szemes _(Manci)_
-István Avar _(Director Apor)_
-Gyöngyi Bürös _(Bözsi)_
-László Szabó (_vineyard’s owner)_
+Mari Töröcsik _(Edit Balassa)_<br>
+Lajos Balázsovits _(István Balassa)_<br>
+Gáspár Jancsó _(Gáspár Balassa)_<br>
+Kati Kovács _(Kati)_<br>
+Ági Mészáros, _(Aunt Margit)_<br>
+Mari Szemes _(Manci)_<br>
+István Avar _(Director Apor)_<br>
+Gyöngyi Bürös _(Bözsi)_<br>
+László Szabó (_vineyard’s owner)_<br>
+Rudolf Somogyvári _(Gyuri)_<br>
+Gábor Mádi Szabó _(Hardface)_<br>
+Gáborné Jakab _(old woman)_<br>
+Teri Földi, Ilona Gurnik, Magda Horváth (_Edit’s female friends)_<br>
+István Bujtor, Zoltán Gera, István Zsugán (_Balassa’s friends)_<br>
 
-Rudolf Somogyvári _(Gyuri)_
+Hungary 1969<br>
+82 mins<br>
 
-Gábor Mádi Szabó _(Hardface)_
-
-Gáborné Jakab _(old woman)_
-
-Teri Földi, Ilona Gurnik, Magda Horváth
-
-(_Edit’s female friends)_
-
-István Bujtor, Zoltán Gera, István Zsugán  
-(_Balassa’s friends)_
-
-Hungary 1969
-
-82 mins
-
-THE CINEMA OF MÁRTA MÉSZÁROS
-
+**THE CINEMA OF MÁRTA MÉSZÁROS**
 **Binding Sentiments (Holdudvar)**
-
 Tue 6 Jul 20:50; Sat 17 Jul 15:20
-
 **Don’t Cry, Pretty Girls! (Szép lányok, ne sírjatok!)**
-
 Wed 7 Jul 17:40; Sun 18 Jul 18:40
-
 **Woman With a Movie Camera Presents: the World Restoration Premiere of Riddance (Szabad lélegzet)**
-
 Sat 10 Jul 17:30 (+ pre-recorded extended intro by Márta Mészáros); Wed 21 Jul 21:00
-
 **Adoption (Örökbefogadás)**
-
 Mon 12 Jul 18:00 (pre-recorded intro by Selina Robertson, Club des Femmes); Thu 22 Jul 20:30
-
 **Nine Months (Kilenc hónap)**
-
 Tue 13 Jul 17:40; Sun 25 Jul 12:30
-
 **The Two of Them/Two Women (Ök ketten)**
-
 Wed 14 Jul 20:50; Mon 26 Jul 18:10
-
 **The Girl (Eltávozott nap)**
-
 Fri 16 Jul 20:50
-
-**The Heiresses (****Örökség)**
-
+**The Heiresses (Örökség)**
 Sun 18 Jul 15:20; Tue 27 Jul 20:30
-
 **Diary for My Children (Napló gyermekeimnek)**
-
 Sat 24 Jul 14:10 (+ pre-recorded extended intro by Márta Mészáros); Wed 28 Jul 17:50
-
 **Diary for My Loves (Napló szerelmeimnek)**
-
 Sat 24 Jul 17:30; Sat 31 Jul 20:30
-
 **Diary for My Father and Mother (Napló apámnak, anyámnak)**
-
 Sat 24 Jul 20:45; Sat 31 Jul 14:40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzQzOTczXX0=
+eyJoaXN0b3J5IjpbMTA3NjkyNzQxMV19
 -->
