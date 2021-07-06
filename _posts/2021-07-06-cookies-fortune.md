@@ -119,47 +119,33 @@ USA 1999<br>
 <br><br>
 
 
-ROBERT ALTMAN:
-
-AMERICAN OUTSIDER
-
+**ROBERT ALTMAN: AMERICAN OUTSIDER**
 **Cookie’s Fortune**
-
 Tue 6 Jul 14:50; Wed 7 Jul 20:40; Tue 27 Jul 17:40
-
-**McCabe & Mrs. Miller** Tue 6 Jul 18:10
-
-**3 Women** Thu 8 Jul 20:30
-
+**McCabe & Mrs. Miller** 
+Tue 6 Jul 18:10
+**3 Women** 
+Thu 8 Jul 20:30
 **The Gingerbread Man**
-
 Fri 9 Jul 20:40; Sat 17 Jul 17:50
-
 **Dr T & The Women**
-
 Sat 10 Jul 15:00; Mon 26 Jul 20:30
-
-**Gosford Park** Sun 11 Jul 15:20; Sun 18 Jul 18:20; Fri 23 Jul 14:30
-
+**Gosford Park**
+ Sun 11 Jul 15:20; Sun 18 Jul 18:20; Fri 23 Jul 14:30
 **The Player**
-
 Mon 12 Jul 17:45; Wed 28 Jul 20:30
-
 **The Company**
-
 Tue 13 Jul 17:50; Sat 31 Jul 11:50
-
-**Vincent and Theo**  Tue 13 Jul 20:30
-
-**Kansas City** Thu 15 Jul 17:40
-
-**Short Cuts** Sat 17 Jul 19:30
-
-**Prêt-à-porter** Mon 19 Jul 17:40
-
+**Vincent and Theo** 
+Tue 13 Jul 20:30
+**Kansas City** 
+Thu 15 Jul 17:40
+**Short Cuts** 
+Sat 17 Jul 19:30
+**Prêt-à-porter** 
+Mon 19 Jul 17:40
 **A Prairie Home Companion**
-
 Sun 25 Jul 12:00; Sat 31 Jul 17:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODgzNzg3MjNdfQ==
+eyJoaXN0b3J5IjpbODI2OTU5NTE1LC0xMTg4Mzc4NzIzXX0=
 -->
