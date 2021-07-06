@@ -113,8 +113,7 @@ Francis De Wolfe _(George Edwardes)_
 Harold Scott _(Mr True)_  
 Dylis Lay _(Trottie, as a child)_
 
-_uncredited_
-
+_uncredited_  
 Irene Browne _(Duchess of Wellwater)_  
 Mary Jones _(Gladys True)_  
 Daphne Anderson _(Bertha True)_  
@@ -152,20 +151,15 @@ Howard Douglas _(newspaper editor)_
 James Neylin _(Lord George Peasemarsh)_  
 Tamara Lees, Constance Smith, Margaret Sullivan, Natalia Potocka _(Gaiety girls)_  
 June Bardsley, Barbara Gurnhill, Josephine Stone _(Mayfair girls)_  
-Joy Adams, Beth Ross, Joy Frankau,  
-Josephine Ingram, Stella Conway,  
-Pamela Galloway, Betty Deverell _(special girls)_  
+Joy Adams, Beth Ross, Joy Frankau,  Josephine Ingram, Stella Conway,  Pamela Galloway, Betty Deverell _(special girls)_  
 John Boston, Peter Dunlop, Edward Leslie _(escorts)_  
-Anthony Tancred, John Fabian_  
-(stage door johnnies)_  
-John Morley, Neville Gates, Peter Norris,  
-Stephen Jones _(special young men)_  
+Anthony Tancred, John Fabian _(stage door johnnies)_  
+John Morley, Neville Gates, Peter Norris,  Stephen Jones _(special young men)_  
 Lyndon Brook, Philip Stainton, Charles Perry, Anthony Adam, John Dennis _(extras)_  
 Pamela Devis
 
-UK 1948
-
+UK 1948  
 91 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3MjYzNDA3XX0=
+eyJoaXN0b3J5IjpbLTE4NDg3ODY1OTddfQ==
 -->
