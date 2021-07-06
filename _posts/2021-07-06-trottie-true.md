@@ -33,6 +33,139 @@ She was perhaps the most naturally beautiful of the female stars which Gainsboro
 **Josephine Botting, bfi.org.uk, 10 December 2013**
 
 
+
+**TROTTIE TRUE (aka THE GAY LADY)**  
+_Director_: Brian Desmond Hurst  
+_Production Company_: Two Cities Films  
+_Executive Producer_: Earl St. John  
+_Producer_: Hugh Stewart  
+_Associate Producer_: George Pitcher  
+_Assistant Director_: Peter Bolton  
+_Screenplay_: C. Denis Freeman  
+_Based on the novel by_: Caryl Brahms, S.J. Simon  
+_Director of Photography_: Harry Waxman  
+_Technicolor Colour Consultant_: Natalie Kalmus  
+_Associate to Colour Director_: Joan Bridge  
+_Editor_: Ralph Kemplen  
+_Art Director_: Ralph Brinton  
+_Set Dresser_: Colleen Browning  
+_Dress Designer_: Beatrice Dawson  
+_Makeup Supervisor_: Tony Sforzini  
+_Hairdressing Supervisor_: Vivienne Walker  
+_Music_: Benjamin Frankel  
+_Songs_: Carroll Gibbons  
+_Music played by_: Royal Philharmonic Orchestra  
+_Music Director_: Muir Mathieson  
+_Sound Recording_: John Cook, Desmond Dew  
+_Sound Editor_: Harry Miller  
+_Studio_: Denham Studios
+
+_uncredited_  
+_Production Executive_: Herbert Smith  
+_Unit Manager_: Frank Sherwin Green  
+_Assistant Production Manager_: Victor Wark  
+_Producer’s Personal Assistant_: Jean Scott Rogers
+
+_1st Assistant Director_: Mark Evans  
+_2nd Assistant Director_: Guy Wilsdon  
+_3rd Assistant Director_: Denis O’Dell  
+_Continuity_: Elizabeth Everson  
+_Casting Director_: Maude Spector  
+_Camera Operator_: Harold Haysom  
+_Technicolor Technician_: Ken Gray  
+_Clapper Loader_: John Morgan  
+_Chargehand Electrician_: John McCloud  
+_Stills (Location)_: Paul Langford-Brown  
+_Stills (Publicity)_: Norman Gryspeerdt  
+_Stills (Studio)_: Frank Bellingham  
+_1st Assistant Editor_: Patricia Murray  
+_2nd Assistant Editor_: Gerry Hambling  
+_Assistant Art Director_: Betty Pierce  
+_Draughtsmen_: Bill Holmes, Alec J. Henshaw, Edward Marshall, R.B. Aunger  
+_Production Buyer_: Leslie Hogg  
+_Construction Manager_: Jim Tillyer  
+_Wardrobe Supervisor_: Harry Haynes  
+_Wardrobe Mistress_: A. Jordan  
+_Make-up Assistants_: Sid Turner, Stella Morris  
+_Assistant Hairdressers_: Joyce Wood,  Pearl Bremner, Vera Franklin, Joan White  
+_Sound Recordist_: Derek Barclay  
+_Boom Operator_: Fred Ryan  
+_Assistant Boom Operator_: Stan Ward  
+_Sound Maintenance_: W. Young  
+_Assistant Dubbing Mixer – foreign version_:  Peter T. Davies  
+_Publicity Manager_: Ken Green  
+_Publicity_: Anthony Firth
+
+**Cast**  
+Jean Kent _(Trottie True)_  
+James Donald _(Lord Digby Landon)_  
+Hugh Sinclair _(Maurice Beckenham)_  
+Lana Morris _(Bouncie Barrington)_  
+Andrew Crawford _(Sid Skinner)_  
+Bill Owen _(Joe Jugg)_  
+Harcourt Williams _(Duke of Wellwater)_  
+Michael Medwin _(Monty, Marquis of Maidenhead)_  
+Hattie Jacques _(Daisy Delaware)_  
+Joan Young _(Mrs True)_  
+Heather Thatcher _(Angela Platt-Brown)_  
+Mary Hinton _(duchess)_  
+Francis De Wolfe _(George Edwardes)_  
+Harold Scott _(Mr True)_  
+Dylis Lay _(Trottie, as a child)_
+
+_uncredited_
+
+Irene Browne _(Duchess of Wellwater)_  
+Mary Jones _(Gladys True)_  
+Daphne Anderson _(Bertha True)_  
+Carole Lesley _(Clare)_  
+Sam Kydd _(‘Bedford’ stage manager)_  
+Christopher Lee _(Hon Bongo Icklesham)_  
+Ian Wilson _(Bert, stage hand at ‘Gaiety’ theatre)_  
+Michael Ward _(pianist at ball)_  
+Roger Moore, Patrick Cargill _(stage door johnnies)_  
+Tony Halfpenny _(Perce True)_  
+Laurel Dudley _(little girl with German band)_  
+Gretchen Franklin _(Martha)_  
+Ian Carmichael _(Bill the postman)_  
+Shaun Noble _(Andy Galloway)_  
+D’Arcy Conyers _(Claude)_  
+Helen Goss _(Mrs Bellaire)_  
+Elspet Gray _(Honor Bellaire)_  
+Katharine Blake _(Ruby Rubarto)_  
+Olwen Brookes _(Lady Talman, 1st dowager)_  
+Doris Rogers _(Hon Mrs Seaton, 2nd dowager)_  
+Len Sharp _(Carter)_  
+May Hallatt _(old Ellen)_  
+W.E. Holloway _(old Vinegar)_  
+Jusuf Ramart _(Monty’s chauffeur)_  
+Arthur Hambling _(Jupp)_  
+Norman Hartley, Dennis Wood _(grooms)_  
+Anthony Steel _(Bellaires’ footman)_  
+Natasha Wills _(debutante daughter)_  
+Elsie Wagstaff _(dependant relative)_  
+Diana Maddox _(Sid Skinner’s girlfriend)_  
+John Vere _(Bellaires' butler)_  
+Anne Holland _(Countess of Burney)_  
+Philip Strange _(Earl of Burney)_  
+Howard Douglas _(newspaper editor)_  
+James Neylin _(Lord George Peasemarsh)_  
+Tamara Lees, Constance Smith, Margaret Sullivan, Natalia Potocka _(Gaiety girls)_  
+June Bardsley, Barbara Gurnhill, Josephine Stone _(Mayfair girls)_  
+Joy Adams, Beth Ross, Joy Frankau,  
+Josephine Ingram, Stella Conway,  
+Pamela Galloway, Betty Deverell _(special girls)_  
+John Boston, Peter Dunlop, Edward Leslie _(escorts)_  
+Anthony Tancred, John Fabian_  
+(stage door johnnies)_  
+John Morley, Neville Gates, Peter Norris,  
+Stephen Jones _(special young men)_  
+Lyndon Brook, Philip Stainton, Charles Perry, Anthony Adam, John Dennis _(extras)_  
+Pamela Devis
+
+UK 1948
+
+91 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzQ2NjMyNl19
+eyJoaXN0b3J5IjpbMjQ3MjYzNDA3XX0=
 -->
