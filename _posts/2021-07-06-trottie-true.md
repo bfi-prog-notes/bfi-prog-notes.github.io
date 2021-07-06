@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Trottie True (aka The Gay Lady)
+published: true
+date: 2021-07-06
+readtime: true
+categories: ['PROJECTING THE ARCHIVE']
+tags: [Musical, Comedy]
+metadata: 'UK 1948, 91 mins<br> Director: Brian Desmond Hurst'
+pdf: '2021-07-06-trottie-true.pdf'
+---
 
 _Introduced by BFI Curator Josephine Botting._
 
@@ -31,7 +41,7 @@ As the 1950s drew to a close, her film roles began to dry up and despite some te
 
 She was perhaps the most naturally beautiful of the female stars which Gainsborough transformed into huge box-office draws in the 1940s. Her smile could be winning, provocative or downright menacing, while her voice had just a touch of huskiness. Her passing breaks one more link in the chain connecting us with the golden age of British cinema.  
 **Josephine Botting, bfi.org.uk, 10 December 2013**
-
+<br><br>
 
 
 **TROTTIE TRUE (aka THE GAY LADY)**  
@@ -160,6 +170,55 @@ Pamela Devis
 
 UK 1948  
 91 mins
+<br><br>
+
+**REGULAR PROGRAMME**<br>
+**Projecting the Archive: Trottie True (aka The Gay Lady) + intro by BFI Curator Josephine Botting**<br>
+Tue 6 Jul 18:00<br>
+**Silent Cinema: Nell Gwyn  + intro by BFI Curator Bryony Dixon**<br>
+Sun 18 Jul 15:30<br>
+**Seniors’ Free Archive Matinee:  Cabin in the Sky+ intro by writer Marcus Powell**<br>
+Mon 19 Jul 14:00<br>
+**Experimenta: Born in Flames + discussion**<br>
+Thu 22 Jul 18:00<br>
+**Relaxed Screening: The Horse Boy**<br>
+Tue 27 Jul 18:00<br>
+**Terror Vision:  Children Shouldn’t Play with Dead Things**<br>
+Thu 29 Jul 21:00<br>
+**Seniors’ Free Matinee: Personal Services  + intro and Q&A with author, Graham Rinaldi**<br>
+Mon 9 Aug 14:00<br>
+**Projecting the Archive: The Blue Lagoon + intro by actor Susan Stranks (young Emmeline)**<br>
+Tue 10 Aug 18:00<br>
+**Member Picks: Almost Famous**<br>
+Thu 12 Aug 17:45<br>
+**Silent Cinema: The Wit and Wisdom of  A.A. Milne + intro by Bryony Dixon, BFI Curator**<br>
+Sun 15 Aug 12:40<br>
+**Thundercrack! + intro by Jane Giles, author of ‘Scala Cinema 1978-1993’**<br>
+Sat 21 Aug 17:00<br>
+**Relaxed Screening:  Stand Clear of the Closing Doors**<br>
+Tue 24 Aug 18:00<br>
+**Woman with a Movie Camera Preview: Souad  + pre-recorded Q&A with director Ayten Amin**<br>
+Tue 24 Aug 18:00<br>
+**Terror Vision: Dr Terror’s House of Horrors**<br>
+Thu 26 Aug 20:40<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4NDg3ODY1OTddfQ==
 -->
