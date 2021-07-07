@@ -27,18 +27,15 @@ His wide-ranging influences became apparent once he started directing.  His mood
 Wong, a former TV scriptwriter, was also inspired by literature, particularly the works of Haruki Murakami, Liu Yichang and Gabriel García Márquez. But the novelist who had the biggest impact on him was Manuel Puig. The Argentinian author’s writing style – stories told in fragments using multiple points of view – shaped Wong’s own narrative technique.
 
 The director took these interests and turned them into something completely unique with his deeply profound and soul-stirring stories of love, alienation and heartbreak. Wong found international acclaim, winning the best director prize at 1997’s Cannes Film Festival for _Happy Together_, because he was a pioneer who created his own cinematic language for romance, one that was swooningly lyrical and visually stunning. He made the torment of our inner thoughts seem sexy, poetic and glamorous.<br>
-**Ann Lee, bfi.org.uk, 2 February 2021**
-
-**AS TEARS GO BY (WONG GOK KA MOON)****
-
+**Ann Lee, bfi.org.uk, 2 February 2021**<br>
+<br>
+**AS TEARS GO BY (WONG GOK KA MOON)**<br>
 _Director_: Wong Kar Wai  
 _Presented by_: In-Gear Film Production Co. Ltd.  
 _Executive Producer_: Alan Tang  
 _Producer_: Rover Tang  
 _Production Manager_: Angela Wilson  
-_Production Assistants_: Ivi Michelle Sims,
-
-Margaret Wong, Jackson Chan  
+_Production Assistants_: Ivi Michelle Sims, Margaret Wong, Jackson Chan  
 _Assistant Director_: Johnny Kong  
 _Screenplay_: Wong Kar Wai  
 _Director of Photography_: Andrew Lau Wai-keung  
@@ -49,15 +46,13 @@ _Art Director_: William Chang Suk-ping
 _Assistant Art Director_: Silver Cheung  
 _Set Decorator_: Wong Chi-on  
 _Music_: Danny Chung  
-_Theme Songs Composed by_: Chan Sau-nan,
-
-Wong Man-ching  
+_Theme Songs Composed by_: Chan Sau-nan, Wong Man-ching  
 _Theme Songs Performed by_: Kit Wong  
 _Sound Editor_: Roony Ching  
 _Stunt Co-ordinators_: Willie Doone,  
 Kong Tao-hoi, Poon Kin-kwun
 
-_Cast:_  
+**Cast**<br>
 Andy Lau Tak-wah _(Ah Wah)_  
 Maggie Cheung Man-yuk _(Ah Ngor)_  
 Jacky Cheung Hok-yau _(Fly)_  
@@ -66,15 +61,13 @@ Wong Un _(Mabel)_
 Lam Gao _(Kung, godfather)_  
 Wong Bun _(Ah Sai)_  
 Ronald Wong  
-William Chang Suk-ping
-
-Hong Kong 1988
-
-102 mins
-
+William Chang Suk-ping<br>
+Hong Kong 1988<br>
+102 mins<br>
+<br>
 This 4K digital restoration was undertaken from  
 the 35mm original camera negative by the  
 Criterion Collection in collaboration with L’Immagine Ritrovata and One Cool.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTUzNzE5Nl19
+eyJoaXN0b3J5IjpbLTIwMjI2OTIyNDZdfQ==
 -->
