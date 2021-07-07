@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Distant Voices<br>Still Lives
+published: true
+date: 2021-07-07
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Period]
+metadata: 'UK/West Germany, 1988, 84 mins<br> Director: Terence Davies'
+pdf: '2021-07-07-distant-voices-still-lives.pdf'
+---
 
 Terence Davies makes films in instalments. The 100-minute Trilogy – _Children_, _Madonna and Child_, _Death and Transfiguration_ – which was begun in 1976 took eight years to complete. It won the 1984 BFI Award, and led to the BFI Production Department backing the development of Davies’ first 35mm colour project, _Distant Voices_, a memoir of working-class life in Liverpool during and shortly after the Second World War. Where the Trilogy used autobiography as a springboard, _Distant Voices_ effaced Davies himself to recall the experiences of his parents, sisters and brothers. (Davies was the youngest of ten children, seven of whom survived infancy; but in the film the family has been reduced to manageable dramatic proportions.) _Distant Voices_ was to be stylised, jumping back and forth in time, and was to have an eclectic range of music. Moreover, as Davies said, content did not just dictate form, it dictated length too – and the length in this case was just 45 minutes.
 
@@ -14,8 +24,7 @@ Jocelyn James, the art director, says that her jaw dropped at the pokiness of th
 
 One sequence is set in one of the picture houses haunted by Davies in boyhood. The interior is represented by a nearby community theatre, but sadly the former cinema intended for the exterior was demolished a few months before shooting.  A power station in Deptford was eventually located and decorated with ‘Coming Shortly’ adverts run up by a Merseyside company whose stock in trade they once were. To his dismay, Davies was denied the desired soundtrack excerpt from  _Guys and Dolls_, and for a substitute he was pinning his hopes on obtaining, or somehow simulating, a burst of the _Love Is a Many Splendored Thing_ theme tune. The soundtrack has posed further problems. The use of clips from radio shows like _Take It from Here_ (of which, especially the vicissitudes of the immortal Glum family, Davies is happy to demonstrate seemingly total recall) involved obtaining waivers from every individual heard in them.
 
-Before returning to the cramped snug, its claustrophobia heightened by clouds of perfumed ‘smoke’, Davies talks of the film being ‘a homage to what Liverpool used to be before the planners vandalised it.’ It might also function as something of a storehouse of vanishing Lancastrian vernacular. Will many spectators be acquainted with such usages as ‘mither’ and ‘get a cob on’, or with the picturesque injunction ‘until next Preston Guild’? These approximately translate as pester, get annoyed, and until the moon turns blue.  
-**Tim Pulleine, _Sight & Sound_, Winter 1987-88**
+Before returning to the cramped snug, its claustrophobia heightened by clouds of perfumed ‘smoke’, Davies talks of the film being ‘a homage to what Liverpool used to be before the planners vandalised it.’ It might also function as something of a storehouse of vanishing Lancastrian vernacular. Will many spectators be acquainted with such usages as ‘mither’ and ‘get a cob on’, or with the picturesque injunction ‘until next Preston Guild’? These approximately translate as pester, get annoyed, and until the moon turns blue.<br>**Tim Pulleine, _Sight & Sound_, Winter 1987-88**
 
 Dogger, Tyne, Heligoland. Fisher, Forties, Bight. For anyone born before the age of universal television, this liturgy of mysterious places is an indelible memory.  The radio shipping forecast, rendered with the unmodulated precision of a religious creed, was somehow required listening. You did not talk over it, out of respect.  It was a moment out of time. _Distant Voices Still Lives_ begins with a radio shipping forecast, a voice out of nowhere as the camera holds and holds on a shot of a staircase. It is a breathtaking moment, paradoxically tense in its absolute stasis. And it encapsulates from the start what I take to be the central mood (it is scarcely a theme) of Terence Davies’ extraordinary film: a sense of crystallised time, of memories in aspic.
 
@@ -125,6 +134,51 @@ UK/West Germany 1988©
 84 mins
 
 _With a pre-recorded introduction by film critic Thirza Wakefield (Wed 7 Jul only)_
+<br><br>
+
+**BIG SCREEN CLASSICS**<br>
+**Battleship Potemkin (Bronenosets Potemkin)**<br>
+Thu 1 Jul 14:30; Thu 15 Jul 18:00; Sat 24 Jul 11:50<br>
+**Hope and Glory**<br>
+Thu 1 Jul 17:30; Mon 5 Jul 14:30; Fri 23 Jul 18:00<br>
+**Casablanca**<br>
+Fri 2 Jul 14:30; Sat 17 Jul 13:00; Sat 24 Jul 14:40; Thu 29 Jul 18:00<br>
+**All about My Mother (Todo sobre mi madre)**<br>
+Fri 2 Jul 20:40; Tue 6 Jul 20:45; Sat 10 Jul 21:00; Thu 22 Jul 14:30<br>
+**How Green Was My Valley**<br>
+Sat 3 Jul 11:30; Thu 8 Jul 14:15; Fri 16 Jul 17:50<br>
+**Wild Strawberries (Smultronstället)**<br>
+Sat 3 Jul 18:10; Mon 5 Jul 20:45; Sun 11 Jul 12:50; Wed 21 Jul 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Tue 27 Jul 14:30<br>
+**All the President’s Men**<br>
+Sun 4 Jul 11:50; Tue 20 Jul 14:15; Sat 31 Jul 20:20<br>
+**Rear Window**<br>
+Sun 4 Jul 15:40; Fri 9 Jul 14:30; Tue 20 Jul 17:50; Mon 26 Jul 18:00; Sat 31 Jul 11:10<br>
+**The Magnificent Ambersons**<br>
+Mon 5 Jul 20:50; Wed 14 Jul 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Sun 25 Jul 15:00<br>
+**Distant Voices, Still Lives**<br>
+Wed 7 Jul 18:00 (+ pre-recorded intro by film critic Thirza Wakefield); Sun 18 Jul 12:45; Mon 19 Jul 20:50; Fri 30 Jul 14:30<br>
+**35 Shots of Rum (35 Rhums)**<br>
+Mon 12 Jul 20:45; Wed 28 Jul 17:40 (+ pre-recorded intro by Be Manzini, poet and director of Caramel Film Club)<br>
+**Man About Town (Le Silence est d’or)**<br>
+Tue 13 Jul 14:15; Sun 18 Jul 12:30; Mon 26 Jul 14:20<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNTk1NDY0MDU3XX0=
 -->
