@@ -22,45 +22,34 @@ In 2004 Mészáros directed _Unburied Man_, a film about Imre Nagy, the leading 
 <br>
 
 **DON’T CRY, PRETTY GIRLS! (SZÉP LÁNYOK NE SÍRJATOK)**<br>
-_Director:_ Márta Mészáros
-_Production Company:_ Mafilm Studio 1
-_Chief Production Manager:_ Ottó Föld
-_Production Manager:_ József Bajusz
-_Head of Studio:_ Szilárd Újhelyi
-_Screenplay:_ Péter Zimre
-_Story Editor:_ Yvette Bíró
-_Cinematographer:_ János Kende
-_Assistant Cinematographer:_ Béla Langmár
-_Assistant Directors:_ Dezső Koza, Mária Luttor
-_Editor:_ Zoltán Farkas
-_Art Director:_ Tamás Banovich
-_Composers:_ Levente Szörényi, János Baksa Soós, Zorán Sztevanovity, Károly Frenreisz, László Tolcsvay, Miklós Orszáczky
+_Director:_ Márta Mészáros<br>
+_Production Company:_ Mafilm Studio 1<br>
+_Chief Production Manager:_ Ottó Föld<br>
+_Production Manager:_ József Bajusz<br>
+_Head of Studio:_ Szilárd Újhelyi<br>
+_Screenplay:_ Péter Zimre<br>
+_Story Editor:_ Yvette Bíró<br>
+_Cinematographer:_ János Kende<br>
+_Assistant Cinematographer:_ Béla Langmár<br>
+_Assistant Directors:_ Dezső Koza, Mária Luttor<br>
+_Editor:_ Zoltán Farkas<br>
+_Art Director:_ Tamás Banovich<br>
+_Composers:_ Levente Szörényi, János Baksa Soós, Zorán Sztevanovity, Károly Frenreisz, László Tolcsvay, Miklós Orszáczky<br>
+_Sound Directors:_ György Pintér, Gyorgy Kovacs<br>
 
-_Sound Directors:_ György Pintér, Gyorgy Kovacs
+**Cast**<br>
+Jarka Schallerová _(Juli Keresztes)_<br>
+Márk Zala (_István Bencsik ‘Savanyú’)_<br>
+Lajos Balázsovits _(Géza, musician)_<br>
+Petér Blaskó _(Juli’s brother)_<br>
+István Bujtor _(policeman)_<br>
+Ildikó Piros, Ila Schütz _(Juli’s friend)_<br>
+Balázs Kosztolányi _(Savanyú’s friend)_<br>
+Lajos Vass _(researcher of folklore music)_<br>
+Lajos Tándor _(man in café)_<br>
 
-_Cast:_
-
-Jarka Schallerová _(Juli Keresztes)_
-
-Márk Zala (_István Bencsik ‘Savanyú’)_
-
-Lajos Balázsovits _(Géza, musician)_
-
-Petér Blaskó _(Juli’s brother)_
-
-István Bujtor _(policeman)_
-
-Ildikó Piros, Ila Schütz _(Juli’s friend)_
-
-Balázs Kosztolányi _(Savanyú’s friend)_
-
-Lajos Vass _(researcher of folklore music)_
-
-Lajos Tándor _(man in café)_
-
-Hungary 1970
-
+Hungary 1970<br>
 85 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDY0NjkxNV19
+eyJoaXN0b3J5IjpbLTE1ODQ0MTIzNzFdfQ==
 -->
