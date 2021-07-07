@@ -19,39 +19,22 @@ _The Heiresses_, made in a coproduction, reveals a historical background behind 
 
 In 2004 Mészáros directed _Unburied Man_, a film about Imre Nagy, the leading figure of the 1956 Hungarian Revolution. Her latest work, _Aurora Borealis_ (2017), which has been awarded with several international awards, looks back to the Soviet occupation of Vienna through an unusual mother-daughter fate.<br>
 **Eszter Fazekas, _Restored Films of Márta Mészáros_, National Film Institute Hungary – Film Archive**<br>
-<![endif]-->
+<br>
 
-**Don’t Cry, Pretty Girls! (Szép lányok ne sírjatok)**
-
+**DON’T CRY, PRETTY GIRLS! (SZÉP LÁNYOK NE SÍRJATOK)**<br>
 _Director:_ Márta Mészáros
-
 _Production Company:_ Mafilm Studio 1
-
 _Chief Production Manager:_ Ottó Föld
-
 _Production Manager:_ József Bajusz
-
 _Head of Studio:_ Szilárd Újhelyi
-
 _Screenplay:_ Péter Zimre
-
 _Story Editor:_ Yvette Bíró
-
 _Cinematographer:_ János Kende
-
 _Assistant Cinematographer:_ Béla Langmár
-
 _Assistant Directors:_ Dezső Koza, Mária Luttor
-
 _Editor:_ Zoltán Farkas
-
 _Art Director:_ Tamás Banovich
-
-_Composers:_ Levente Szörényi, János Baksa Soós,
-
-Zorán Sztevanovity, Károly Frenreisz,
-
-László Tolcsvay, Miklós Orszáczky
+_Composers:_ Levente Szörényi, János Baksa Soós, Zorán Sztevanovity, Károly Frenreisz, László Tolcsvay, Miklós Orszáczky
 
 _Sound Directors:_ György Pintér, Gyorgy Kovacs
 
@@ -79,5 +62,5 @@ Hungary 1970
 
 85 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTM2MTIzOF19
+eyJoaXN0b3J5IjpbMTAxMDY0NjkxNV19
 -->
