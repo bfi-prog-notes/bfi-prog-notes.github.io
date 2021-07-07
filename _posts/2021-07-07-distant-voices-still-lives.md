@@ -23,78 +23,50 @@ They are family memories. And it will doubtless be said that, as in his trilogy 
 
 _Distant Voices Still Lives_ is actually two films joined together, the second half shot two years after the first. The seams don’t show, not least because the two lighting cameramen, William Diver and Patrick Duval, achieve an extraordinarily resonant matching of image to mood. The film’s key device, however, is Davies’ use of the music of the time. There are long moments of communion as the family and their friends sing in the pub, and other moments when the popular songs of the period add a primary colour to the darker tonal range of the images. The songs are also used transitionally, overlapping one fragmented memory and the next. There are too many songs perhaps, particularly in the several long scenes in the pub, though on the whole they are used aptly and precisely. But it is the precision of the images which haunts. Locked in their stillness is a potency of emotion which recalls Bresson, a director (and of course one whose films are steeped in Catholicism) whom it would be no surprise to learn that Terence Davies admires. The question now is whether this remarkable filmmaker can finally close the family album.  
 **David Wilson, _Sight & Sound_, Autumn 1988**
+<br><br>
 
-<![endif]-->
 
-**Distant Voices Still Lives**
-
+**DISTANT VOICES STILL LIVES**  
 _Directed by:_ Terence Davies  
 ©:  Terence Davies  
-_Production Company/Presented by:_
-
-British Film Institute Production Board  
-_In association with:_ Channel Four,  
-Zweites Deutsches Fernsehen  
-_Presented in association with:_  
-Film Four International  
+_Production Company/Presented by:_ British Film Institute Production Board  
+_In association with:_ Channel Four,  Zweites Deutsches Fernsehen  
+_Presented in association with:_  Film Four International  
 _Executive Producer:_ Colin MacCabe  
 _Producer:_ Jennifer Howarth  
 _Executive in Charge of Production:_ Jill Pack  
 _Production Accountant:_ Sheryl Leonardo  
-_Production Managers:_ Sarah Swords,
-
-Olivia Stewart  
+_Production Managers:_ Sarah Swords, Olivia Stewart  
 _Production Assistants:_ Olivia Stewart, Lil Sterling  
-_Runners:_ Ian Francis, George Barbero,
-
-Richard Bridgwood, Sholto Roeg,
-
-Tony McCaffrey  
+_Runners:_ Ian Francis, George Barbero, Richard Bridgwood, Sholto Roeg, Tony McCaffrey  
 _1st Assistant Director [1985]:_ Andy Powell  
-_1st Assistant Directors [1987]:_ Andy Powell,
-
-Glynn Purcell  
-_2nd Assistant Directors:_ Marc Munden,
-
-Mathew Evans  
+_1st Assistant Directors [1987]:_ Andy Powell, Glynn Purcell  
+_2nd Assistant Directors:_ Marc Munden, Mathew Evans  
 _Continuity:_ Claire Hughes Smith, Melanie Matthews  
 _Casting:_ Priscilla John  
 _Screenplay:_ Terence Davies  
-_Directors of Photography:_ William Diver,  
-Patrick Duval  
+_Directors of Photography:_ William Diver,  Patrick Duval  
 _Stunt Photography:_ Arthur Wooster  
 _Camera Operator:_ Harriet Cox  
 _Focus Puller:_ Jeremy Read  
 _Stunt Focus Puller:_ Martin Kenzie  
 _Clapper Loaders:_ Maggie Gormley, Caren Moy  
 _Stunt Clapper Loader:_ Nicholas Penn  
-_Grips:_ Malcolm Huse, Kevin Fraser,  
-Bill Venables, Nobby Roker  
-_Electricians:_ Geoff Burlinson, Chris Polden,
-
-Gary Nagle, Tim Church  
-_Stunt Electricians:_ Chris Polden, Gary Willis,
-
-Geoffrey Quick  
+_Grips:_ Malcolm Huse, Kevin Fraser,  Bill Venables, Nobby Roker  
+_Electricians:_ Geoff Burlinson, Chris Polden, Gary Nagle, Tim Church  
+_Stunt Electricians:_ Chris Polden, Gary Willis, Geoffrey Quick  
 _Stills Photographer:_ Mike Abrahams  
 _Special Effects:_ Richard Roberts  
 _Editor:_ William Diver  
-_Editing in collaboration with:_ Geraldine Creed,
-
-Toby Benton  
+_Editing in collaboration with:_ Geraldine Creed, Toby Benton  
 _Editing Assistant:_ Mick McCarthy  
 _Art Director:_ Miki van Zwanenberg  
 _With:_ Jocelyn James  
-_Assistant Art Directors:_ Sheila Gillie,  
-Mark Stevenson  
-_Scenic Artists:_ Penny Fielding, Joy Fielding,
-
-Sarah Thwaites  
+_Assistant Art Directors:_ Sheila Gillie,  Mark Stevenson  
+_Scenic Artists:_ Penny Fielding, Joy Fielding, Sarah Thwaites  
 _Painter:_ Lynne Whiteread  
 _Standby Props:_ Dave Allen, Pat Harkins  
-_Construction:_ Acme Construction, Colin Rutter,
-
-Hank Schumacher  
+_Construction:_ Acme Construction, Colin Rutter, Hank Schumacher  
 _Constructivists:_ Susan McLenachan, Alastair Gow  
 _Carpenters:_ Kevin Huse, Richard Ede  
 _Costume Designer:_ Monica Howe  
@@ -170,5 +142,5 @@ UK/West Germany 1988©
 
 _With a pre-recorded introduction by film critic Thirza Wakefield (Wed 7 Jul only)_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjk1NTgxMl19
+eyJoaXN0b3J5IjpbMTY0NzUwOTAyNV19
 -->
