@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Another Round (Druk)
+published: true
+date: 2021-07-09
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama, Comedy]
+metadata: 'Denmark/Sweden/Netherlands, 2020, 117 mins<br> Director: Thomas Vinterberg'
+pdf: '2021-07-09-another-round.pdf'
+---
 
 Breezy and boozy, joyful and melancholic, occasionally wild and often wise, Thomas Vinterberg’s _Another Round_ is a heady cocktail swiftly downed, with a late kick like a particularly euphoric mule. A drinking movie that’s neither a finger-wagging cautionary tale nor a Will Ferrell-esque manchild comedy, that presumes to caution about using alcohol as a crutch while also daring to suggest that sometimes it’s a very useful crutch indeed – _Another Round_ is, of course, when you get right down to it, not really about drinking at all. Instead, as loosely signalled by the opening Kierkegaard quote about youth, love and dreams, it’s about male friendship, midlife crisis and the cruelty of a modern condition by which we spend our first couple of sentient decades figuring out who we want to be, and the rest of our lives not living up to that vision.
 
@@ -8,15 +18,13 @@ Initially it does, as observed by the fractional lightening and brightening of S
 
 But this is not some schematic tale of giddy hubris brought low. Co-written by Vinterberg and Tobias Lindholm, the film acquires more nuance as the foursome respond to the experiment in divergent ways, mining gently heartbroken themes of male fragility and insecurity while also depicting the central friendships with a rueful warmth that is only rarely applied to men, especially at this age. It builds to a finale in which Martin finally puts his early years of jazz ballet to unexpectedly joyous use, and suggests that drinking in later life is a bit like dancing at a funeral: an act of messy but life-affirming bravery in the face of beckoning nihilism.
 
-Some viewers may long for a more outright condemnatory or celebratory narrative, but if _Another Round_ opens with Kierkegaard, ultimately it ends up espousing the beautiful ambivalence of a different philosopher – perhaps the greatest prophet of modern midlife masculine malaise, Homer Simpson: ‘Here’s to alcohol, the cause of – and solution to – all life’s problems.’  
-Please consume irresponsibly.  
+Some viewers may long for a more outright condemnatory or celebratory narrative, but if _Another Round_ opens with Kierkegaard, ultimately it ends up espousing the beautiful ambivalence of a different philosopher – perhaps the greatest prophet of modern midlife masculine malaise, Homer Simpson: ‘Here’s to alcohol, the cause of – and solution to – all life’s problems.’  Please consume irresponsibly.  
 **Jessica Kiang, _Sight & Sound_, bfi.org.uk, 30 September 2020**
 
 **Director’s Statement**  
 ‘I never drink before breakfast.’
 
-The quote is from Churchill, who helped to defeat the Germans and win  
-World War II, while under the excessive and constant influence of alcohol.
+The quote is from Churchill, who helped to defeat the Germans and win  World War II, while under the excessive and constant influence of alcohol.
 
 Other great thinkers, artists and writers, such as Tchaikovsky and Hemmingway have found courage and inspiration that way. After the first mouthfuls of alcohol, we all know the feeling of the conversation growing, the room getting bigger and the problems getting smaller.
 
@@ -40,7 +48,7 @@ _Director_: Thomas Vinterberg
 ©: Zentropa Entertainments3 ApS,  Zentropa Sweden AB, Topkapi Films BV, Zentrope Netherlands BV  
 _Production Company_: Zentropa Entertainments  
 _In co-production with_: Film i Väst, Zentropa Sweden, Topkapi Films, Zentrope Netherlands  
-_With support from_: Det Danske Filminstitut,  TV 2 Danmark, Eurimages Conseil de l’Europe, Netherlands Film Fund, Svenska Filminstitutet, Netherlands Film Production Incentive  
+_With support from_: Det Danske Filminstitut,  TV 2 Danmark, Eurimages Conseil de l’Europe, Netherlands Film Fund, Svenska Filminstitutet, Netherlands Film Production Incentive 
 _With the support of_:  MEDIA Programme of the European Union  
 _Presented by_: Zentropa Entertainments  
 _Producers_: Kasper Dissing, Sisse Graum Jørgensen  
@@ -79,6 +87,48 @@ Denmark/Sweden/Netherlands 2020©
 A STUDIOCANAL release
 
 _Intro + pre-recorded Q&A with Thomas Vinterberg (Sun 11 Jul 15:00 only)_
+<br><br>
+
+**NEW RELEASES & RE-RELEASES**<br>
+**After Love**<br>
+Continues from Jun<br>
+**Nashville**<br>
+Continues from Jun<br>
+**Another Round**<br>
+From Fri 9 Jul<br>
+**Jumbo**<br>
+From Fri 9 Jul<br>
+**Tove**<br>
+From Fri 9 Jul<br>
+**Deerskin**<br>
+From Fri 16 Jul<br>
+**Girlfriends**<br>
+From Fri 23 Jul<br>
+**Mandabi**<br>
+From Fri 23 Jul<br>
+**Limbo**<br>
+From Fri 30 Jul<br>
+**The Most Beautiful Boy in the World**<br>
+From Fri 30 Jul<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTY4MzY2NDAwMl19
 -->
