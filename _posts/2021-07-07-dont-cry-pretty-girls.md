@@ -49,7 +49,59 @@ Lajos Vass _(researcher of folklore music)_<br>
 Lajos Tándor _(man in café)_<br>
 
 Hungary 1970<br>
-85 mins
+85 mins<br>
+<br><br>
+<![endif]-->
+
+**ORDINARY PEOPLE, EXTRAORDINARY LIVES**
+
+**THE CINEMA OF MÁRTA MÉSZÁROS**
+
+**Don’t Cry, Pretty Girls! (Szép lányok, ne sírjatok!)**
+
+Wed 7 Jul 17:40; Sun 18 Jul 18:40
+
+**Woman With a Movie Camera Presents: the World Restoration Premiere of Riddance (Szabad lélegzet)**
+
+Sat 10 Jul 17:30 (+ pre-recorded extended intro by Márta Mészáros); Wed 21 Jul 21:00
+
+**Adoption (Örökbefogadás)**
+
+Mon 12 Jul 18:00 (pre-recorded intro by Selina Robertson, Club des Femmes); Thu 22 Jul 20:30
+
+**Nine Months (Kilenc hónap)**
+
+Tue 13 Jul 17:40; Sun 25 Jul 12:30
+
+**The Two of Them/Two Women (Ök ketten)**
+
+Wed 14 Jul 20:50; Mon 26 Jul 18:10
+
+**The Girl (Eltávozott nap)**
+
+Fri 16 Jul 20:50
+
+**Binding Sentiments (Holdudvar)**
+
+Sat 17 Jul 15:20
+
+**The Heiresses (****Örökség)**
+
+Sun 18 Jul 15:20; Tue 27 Jul 20:30
+
+**Diary for My Children (Napló gyermekeimnek)**
+
+Sat 24 Jul 14:10 (+ pre-recorded extended intro by Márta Mészáros); Wed 28 Jul 17:50
+
+**Diary for My Loves (Napló szerelmeimnek)**
+
+Sat 24 Jul 17:30; Sat 31 Jul 20:30
+
+**Diary for My Father and Mother (Napló apámnak, anyámnak)**
+
+Sat 24 Jul 20:45; Sat 31 Jul 14:40
+
+The restorations in this season were made from the original camera negatives, original magnetic tape sounds and positive prints, supervised and presented by the National Film Institute Hungary – Film Archive. The restorations were carried out at the NFI Film Archive and Filmlab.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ0MTIzNzFdfQ==
+eyJoaXN0b3J5IjpbMjYzODU5ODA0XX0=
 -->
