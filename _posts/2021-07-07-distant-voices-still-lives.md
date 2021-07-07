@@ -70,41 +70,27 @@ _Construction:_ Acme Construction, Colin Rutter, Hank Schumacher
 _Constructivists:_ Susan McLenachan, Alastair Gow  
 _Carpenters:_ Kevin Huse, Richard Ede  
 _Costume Designer:_ Monica Howe  
-_Hair and Make-up:_ Lesley Rouvray-Lawson,
-
-Aileen Seaton, Eric Scruby, Jan Archibald,
-
-Lesley Sanders, Gerry Jones, Elizabeth Moss  
+_Hair and Make-up:_ Lesley Rouvray-Lawson, Aileen Seaton, Eric Scruby, Jan Archibald, Lesley Sanders, Gerry Jones, Elizabeth Moss  
 _Stunt Make-up:_ Jenny Shircore  
 _Titles:_ Plume Design  
 _Film Laboratory:_ Metrocolor (London)  
 _Lab Supervisors:_ Ron Barber, Clive Noakes  
 _Harmonica:_ Tommy Reilly  
-_Music Recording Engineers:_ Antony Howell,
-
-Mark Brown, Eric Tomlinson  
+_Music Recording Engineers:_ Antony Howell, Mark Brown, Eric Tomlinson  
 _Sound Recordists:_ Moya Burns, Colin Nicolson  
 _Boom Operators:_ Christine Felce, Rupert Castle  
 _Sound Mixers:_ Aad Wirtz, Ian Turner  
 _Sound Re-recorded at:_ Cinelingual, Ladbroke Films  
 _Dubbing Editor:_ Alex Mackie  
 _Assistant Dubbing Editor:_ Andrew Melhuish  
-_Camera Equipment:_ Cine-Europe Ltd,
-
-Griphouse, Cinefocus  
-_Lighting Equipment:_ Film & TV Services
-
-_With Special Thanks to:_ Peter Sainsbury,  
-Mamoun Hassan, McKee School, A.R.T. Casting, Gill Hallifax, Larry Sider, Max Marrable,  
-Frank Reynolds, David Hill, David Gamble,  
-BBC Sound Archive, British Library National Sound Archive, Denis Norden, Steve Race, Roy Hudd,
-
-Gillian Reynolds, Robert Lockhart, Pat Carus, Father Ashworth, Father Thompson  
+_Camera Equipment:_ Cine-Europe Ltd, Griphouse, Cinefocus  
+_Lighting Equipment:_ Film & TV Services  
+_With Special Thanks to:_ Peter Sainsbury,  Mamoun Hassan, McKee School, A.R.T. Casting, Gill Hallifax, Larry Sider, Max Marrable,  Frank Reynolds, David Hill, David Gamble,  BBC Sound Archive, British Library National Sound Archive, Denis Norden, Steve Race, Roy Hudd, Gillian Reynolds, Robert Lockhart, Pat Carus, Father Ashworth, Father Thompson  
 _Stunt Co-ordinator:_ Alf Joint  
 _Stuntman:_ Bill Weston  
 _Publicity:_ Liz Reddish  
-_Cast:_
 
+**Cast**  
 Freda Dowie _(Mrs Davies, the mother)_  
 Peter Postlethwaite _(Tommy Davies, the father)_  
 Angela Walsh _(Eileen)_  
@@ -133,14 +119,12 @@ John Carr _(registrar)_
 John Michie _(soldier)_  
 Jeanette Moseley _(barmaid)_  
 Ina Clough _(licensee)_  
-Chris Benson, Judith Barker, Tom Williamson,
+Chris Benson, Judith Barker, Tom Williamson, Lorraine Michaels _(Rose’s family)_  
 
-Lorraine Michaels _(Rose’s family)_  
-UK/West Germany 1988©
-
+UK/West Germany 1988©  
 84 mins
 
 _With a pre-recorded introduction by film critic Thirza Wakefield (Wed 7 Jul only)_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzUwOTAyNV19
+eyJoaXN0b3J5IjpbNTk1NDY0MDU3XX0=
 -->
