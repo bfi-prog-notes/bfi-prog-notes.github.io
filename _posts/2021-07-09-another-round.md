@@ -45,10 +45,11 @@ _Another Round_ is imagined as a tribute to life. As a reclaiming of the irratio
 
 **ANOTHER ROUND (DRUK)**  
 _Director_: Thomas Vinterberg  
-©: Zentropa Entertainments3 ApS,  Zentropa Sweden AB, Topkapi Films BV, Zentrope Netherlands BV  
+©: Zentropa Entertainments3 ApS,  Zentropa Sweden AB, Topkapi Films BV, 
+Zentrope Netherlands BV  
 _Production Company_: Zentropa Entertainments  
 _In co-production with_: Film i Väst, Zentropa Sweden, Topkapi Films, Zentrope Netherlands  
-_With support from_: Det Danske Filminstitut,  TV 2 Danmark, Eurimages Conseil de l’Europe, Netherlands Film Fund, Svenska Filminstitutet, Netherlands Film Production Incentive 
+_With support from_: Det Danske Filminstitut,  TV 2 Danmark, Eurimages Conseil de l’Europe, Netherlands Film Fund, Svenska Filminstitutet, Netherlands Film Production Incentive   
 _With the support of_:  MEDIA Programme of the European Union  
 _Presented by_: Zentropa Entertainments  
 _Producers_: Kasper Dissing, Sisse Graum Jørgensen  
