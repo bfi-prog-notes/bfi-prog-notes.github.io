@@ -1,9 +1,20 @@
+---
+layout: post
+title: Don’t Cry, Pretty Girls!<br> (Szép lányok ne sírjatok)
+published: true
+date: 2021-07-07
+readtime: true
+categories: ['ORDINARY PEOPLE, EXTRAORDINARY LIVES<br>  THE CINEMA OF MÁRTA MÉSZÁROS']
+tags: [Drama, Music]
+metadata: 'Hungary, 1970, 85 mins<br> Director: Márta Mészáros'
+pdf: '2021-07-07-dont-cry-pretty-girls.pdf'
+---
+
 Music drives this loose narrative of youth culture with a romance at its heart. Searching for their identity, a group of friends explore new ways to live, seeking independence from state and patriarchal family values. What happens when a young woman refuses to be defined by these? A strong sense of female agency drives the camera’s point of view and our gaze.<br>
 **bfi.org.uk**
 
 _Don’t Cry, Pretty Girls!_ is itself contemporary with the realities of international youth culture and rebellion against the parental world. The oppositional culture of rock music is given its due as a harbinger of social dissatisfaction; Mészáros’ masterful use of lyrics and melody itself constitutes the contestatory statement she clearly intends to make.<br>
-**Catherine Portuges quoted in Eszter Fazekas, _Restored Films of Márta Mészáros_,  
-National Film Institute Hungary – Film Archive**
+**Catherine Portuges quoted in Eszter Fazekas, _Restored Films of Márta Mészáros_, National Film Institute Hungary – Film Archive**
 
 The film analyses the gradually loosening social structures in the Beat age within the framework of Mészáros’ concerns – women’s desire for freedom – while the biggest 1960s Beat bands play in the background. The film is an accurate testimony of the partying/depressive atmosphere pervading Europe in the wake of the suppression of the various 1968 popular movements.
 
@@ -51,57 +62,55 @@ Lajos Tándor _(man in café)_<br>
 Hungary 1970<br>
 85 mins<br>
 <br><br>
-<![endif]-->
 
-**ORDINARY PEOPLE, EXTRAORDINARY LIVES**
 
-**THE CINEMA OF MÁRTA MÉSZÁROS**
+**ORDINARY PEOPLE, EXTRAORDINARY LIVES<br>THE CINEMA OF MÁRTA MÉSZÁROS**<br>
+**Don’t Cry, Pretty Girls! (Szép lányok, ne sírjatok!)**<br>
+Wed 7 Jul 17:40; Sun 18 Jul 18:40<br>
+**Woman With a Movie Camera Presents: the World Restoration Premiere of Riddance (Szabad lélegzet)**<br>
+Sat 10 Jul 17:30 (+ pre-recorded extended intro by Márta Mészáros); Wed 21 Jul 21:00<br>
+**Adoption (Örökbefogadás)**<br>
+Mon 12 Jul 18:00 (pre-recorded intro by Selina Robertson, Club des Femmes); Thu 22 Jul 20:30<br>
+**Nine Months (Kilenc hónap)**<br>
+Tue 13 Jul 17:40; Sun 25 Jul 12:30<br>
+**The Two of Them/Two Women (Ök ketten)**<br>
+Wed 14 Jul 20:50; Mon 26 Jul 18:10<br>
+**The Girl (Eltávozott nap)**<br>
+Fri 16 Jul 20:50<br>
+**Binding Sentiments (Holdudvar)**<br>
+Sat 17 Jul 15:20<br>
+**The Heiresses (Örökség)**<br>
+Sun 18 Jul 15:20; Tue 27 Jul 20:30<br>
+**Diary for My Children (Napló gyermekeimnek)**<br>
+Sat 24 Jul 14:10 (+ pre-recorded extended intro by Márta Mészáros); Wed 28 Jul 17:50<br>
+**Diary for My Loves (Napló szerelmeimnek)**<br>
+Sat 24 Jul 17:30; Sat 31 Jul 20:30<br>
+**Diary for My Father and Mother (Napló apámnak, anyámnak)**<br>
+Sat 24 Jul 20:45; Sat 31 Jul 14:40<br>
+<br>
+The restorations in this season were made from the original camera negatives, original magnetic tape sounds and positive prints, supervised and presented by the National Film Institute Hungary – Film Archive. The restorations were carried out at the NFI Film Archive and Filmlab.<br>
+<br>
+<img style="float: left;" src="/img/nfi-hungary-logo-01.png"><br>
+<br><br><br>
 
-**Don’t Cry, Pretty Girls! (Szép lányok, ne sírjatok!)**
+**Promotional partner**<br>
+<img style="float: left;" src="/img/hungarian-cultural-centre-logo-01.png">
+<br><br><br>
 
-Wed 7 Jul 17:40; Sun 18 Jul 18:40
 
-**Woman With a Movie Camera Presents: the World Restoration Premiere of Riddance (Szabad lélegzet)**
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
-Sat 10 Jul 17:30 (+ pre-recorded extended intro by Márta Mészáros); Wed 21 Jul 21:00
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
-**Adoption (Örökbefogadás)**
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
 
-Mon 12 Jul 18:00 (pre-recorded intro by Selina Robertson, Club des Femmes); Thu 22 Jul 20:30
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 
-**Nine Months (Kilenc hónap)**
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-Tue 13 Jul 17:40; Sun 25 Jul 12:30
-
-**The Two of Them/Two Women (Ök ketten)**
-
-Wed 14 Jul 20:50; Mon 26 Jul 18:10
-
-**The Girl (Eltávozott nap)**
-
-Fri 16 Jul 20:50
-
-**Binding Sentiments (Holdudvar)**
-
-Sat 17 Jul 15:20
-
-**The Heiresses (****Örökség)**
-
-Sun 18 Jul 15:20; Tue 27 Jul 20:30
-
-**Diary for My Children (Napló gyermekeimnek)**
-
-Sat 24 Jul 14:10 (+ pre-recorded extended intro by Márta Mészáros); Wed 28 Jul 17:50
-
-**Diary for My Loves (Napló szerelmeimnek)**
-
-Sat 24 Jul 17:30; Sat 31 Jul 20:30
-
-**Diary for My Father and Mother (Napló apámnak, anyámnak)**
-
-Sat 24 Jul 20:45; Sat 31 Jul 14:40
-
-The restorations in this season were made from the original camera negatives, original magnetic tape sounds and positive prints, supervised and presented by the National Film Institute Hungary – Film Archive. The restorations were carried out at the NFI Film Archive and Filmlab.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzODU5ODA0XX0=
--->
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
