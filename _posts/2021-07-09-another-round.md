@@ -30,23 +30,18 @@ The movie is imagined to be rooted in the real world – in completely naked, bl
 
 The movie assumes a humoristic and – in some eyes – scandalous approach to a serious topic. _Another Round_ is intended to be a multi-faceted story that at the same time provokes and entertains, makes us think, cry and laugh within the length of the movie. And hopefully leaves food for thought and debate for an audience who lives in a world which, to an increasing degree, is defined by puritanical rhetoric outwardly, but has a rather high alcohol intake even from a relatively young age.
 
-_Another Round_ is imagined as a tribute to life. As a reclaiming of the irrational wisdom that casts off all anxious common sense and looks down into the very delight of lust for life… although often with deadly consequences.
-Production notes
+_Another Round_ is imagined as a tribute to life. As a reclaiming of the irrational wisdom that casts off all anxious common sense and looks down into the very delight of lust for life… although often with deadly consequences.  
+**Production notes**
+<br><br>
 
-<![endif]-->
 
-**Another Round (Druk)**
-
+**ANOTHER ROUND (DRUK)**  
 _Director_: Thomas Vinterberg  
-©: Zentropa Entertainments3 ApS,  
-Zentropa Sweden AB, Topkapi Films BV,  
-Zentrope Netherlands BV  
+©: Zentropa Entertainments3 ApS,  Zentropa Sweden AB, Topkapi Films BV, Zentrope Netherlands BV  
 _Production Company_: Zentropa Entertainments  
 _In co-production with_: Film i Väst, Zentropa Sweden, Topkapi Films, Zentrope Netherlands  
-_With support from_: Det Danske Filminstitut,  
-TV 2 Danmark, Eurimages Conseil de l’Europe, Netherlands Film Fund, Svenska Filminstitutet, Netherlands Film Production Incentive  
-_With the support of_:  
-MEDIA Programme of the European Union  
+_With support from_: Det Danske Filminstitut,  TV 2 Danmark, Eurimages Conseil de l’Europe, Netherlands Film Fund, Svenska Filminstitutet, Netherlands Film Production Incentive  
+_With the support of_:  MEDIA Programme of the European Union  
 _Presented by_: Zentropa Entertainments  
 _Producers_: Kasper Dissing, Sisse Graum Jørgensen  
 _Line Producer_: Kristina Kornum  
@@ -66,8 +61,7 @@ _Choreography_: Olivia Anselmo
 _Sound Design_: Jan Schermer, Hans Møller  
 _Stunt Co-ordinator_: Jacob Sebastian Malm Carlsen
 
-_Cast:_
-
+**Cast**  
 Mads Mikkelsen _(Martin)_  
 Thomas Bo Larsen _(Tommy)_  
 Magnus Millang _(Nikolaj)_  
@@ -79,13 +73,12 @@ Magnus Sjorup _(Jonas)_
 Silas Cornelius Van _(Kasper)_  
 Albert Rudbeck Lindhardt _(Sebastian)_
 
-Denmark/Sweden/Netherlands 2020©
-
+Denmark/Sweden/Netherlands 2020©  
 117 mins
 
 A STUDIOCANAL release
 
 _Intro + pre-recorded Q&A with Thomas Vinterberg (Sun 11 Jul 15:00 only)_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Mjk5NTYzM119
+eyJoaXN0b3J5IjpbMTY4MzY2NDAwMl19
 -->
