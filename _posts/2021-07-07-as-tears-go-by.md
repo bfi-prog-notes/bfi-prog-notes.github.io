@@ -102,8 +102,7 @@ Thu 22 Jul 18:30; Fri 30 Jul 18:20<br>
 **My Blueberry Nights**<br>
 Fri 23 Jul 20:50; Wed 28 Jul 20:40<br>
 <img style="float: left;" src="/img/F Far out Logo.png" width="40%" height="40%"><br>
-<br><br><br>
-
+<br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
