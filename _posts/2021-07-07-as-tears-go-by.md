@@ -1,8 +1,19 @@
+---
+layout: post
+title: As Tears Go By (Wong Gok ka moon)
+published: false
+date: 2021-07-17
+readtime: true
+categories: ['WORLD OF WONG KAR WAI']
+tags: [Drama, Crime, Romance]
+metadata: 'Hong Kong, 1988, 102 mins<br> Director: Wong Kar Wai'
+pdf: '2021-07-07-as-tears-go-by.pdf'
+---
+
 Wong Kar Wai’s impressive debut feature may seem like a conventional Hong Kong triad drama on the surface but it offers glimpses of what would become his distinctive signature style. This atmospheric tale of a disillusioned gangster (Andy Lau) torn between a new love (Maggie Cheung) and old loyalties was  a more reflective take on the popular genre, mixing brutal action with  stylish flourishes.<br>
 **bfi.org.uk**
 
-Wong Kar Wai’s world of heartbreak and melancholy is defined by sumptuous visuals and elliptical storytelling. Yet just as vital is his use of music.  
-His frequent incorporation of songs from around the world – of vintage pop, romantic ballads, traditional music and easy listening – is just as specific as his visual focus on abstraction and sensation.
+Wong Kar Wai’s world of heartbreak and melancholy is defined by sumptuous visuals and elliptical storytelling. Yet just as vital is his use of music. His frequent incorporation of songs from around the world – of vintage pop, romantic ballads, traditional music and easy listening – is just as specific as his visual focus on abstraction and sensation.
 
 The multicultural sounds of his films evoke a sense of the past, often conjuring memories as his lonely, heartbroken characters dream of potential connections or ones they once had. He pulls from a history of popular and traditional music as well as a history of cinema soundtracks, including – in one instance – a theme borrowed from another film.
 
@@ -49,8 +60,7 @@ _Music_: Danny Chung
 _Theme Songs Composed by_: Chan Sau-nan, Wong Man-ching  
 _Theme Songs Performed by_: Kit Wong  
 _Sound Editor_: Roony Ching  
-_Stunt Co-ordinators_: Willie Doone,  
-Kong Tao-hoi, Poon Kin-kwun
+_Stunt Co-ordinators_: Willie Doone, Kong Tao-hoi, Poon Kin-kwun
 
 **Cast**<br>
 Andy Lau Tak-wah _(Ah Wah)_  
@@ -62,12 +72,11 @@ Lam Gao _(Kung, godfather)_
 Wong Bun _(Ah Sai)_  
 Ronald Wong  
 William Chang Suk-ping<br>
+
 Hong Kong 1988<br>
 102 mins<br>
 <br>
-This 4K digital restoration was undertaken from  
-the 35mm original camera negative by the  
-Criterion Collection in collaboration with L’Immagine Ritrovata and One Cool.<br>
+This 4K digital restoration was undertaken from the 35mm original camera negative by the Criterion Collection in collaboration with L’Immagine Ritrovata and One Cool.<br>
 <br><br>
 **WORLD OF WONG KAR WAI**<br>
 **As Tears Go By (Wong Gok ka moon)**<br>
@@ -92,6 +101,23 @@ Tue 20 Jul 18:00; Thu 22 Jul 20:50;  Mon 26 Jul 20:50<br>
 Thu 22 Jul 18:30; Fri 30 Jul 18:20<br>
 **My Blueberry Nights**<br>
 Fri 23 Jul 20:50; Wed 28 Jul 20:40<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0MDA1MzM0XX0=
--->
+<img style="float: left;" src="/img/F Far out Logo.png" width="40%" height="40%"><br>
+<br><br><br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
