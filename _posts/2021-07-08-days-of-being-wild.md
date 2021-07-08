@@ -89,7 +89,7 @@ Nonong Talbo _(train conductor)_
 Hong Kong 1990©<br>
 94 mins<br>
 
-This 4K digital restoration was undertaken  from the 35mm original camera negative by the Criterion Collection in collaboration with L’Immagine Ritrovata and One Cool.<br>
+This 4K digital restoration was undertaken from the 35mm original camera negative by the Criterion Collection in collaboration with L’Immagine Ritrovata and One Cool.<br>
 <br><br>
 
 **WORLD OF WONG KAR WAI**<br>
@@ -118,8 +118,8 @@ Fri 23 Jul 20:50; Wed 28 Jul 20:40<br>
 
 
 **Media partner**<br>
-<img style="float: left;" src="/img/F Far out Logo.png" width="40%" height="40%"><br>
-<br><br><br><br><br><br>
+<img style="float: left;" src="/img/far-out-logo.png" width="40%" height="40%"><br>
+<br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
