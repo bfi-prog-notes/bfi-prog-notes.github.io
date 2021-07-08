@@ -62,32 +62,57 @@ Lajos Tándor _(man in café)_<br>
 Hungary 1970<br>
 85 mins<br>
 <br><br>
+<![endif]-->
 
+**ORDINARY PEOPLE, EXTRAORDINARY LIVES<br>**
 
-**ORDINARY PEOPLE, EXTRAORDINARY LIVES<br>THE CINEMA OF MÁRTA MÉSZÁROS**<br>
+**THE CINEMA OF MÁRTA MÉSZÁROS**<br>
+
 **Don’t Cry, Pretty Girls! (Szép lányok, ne sírjatok!)**<br>
+
 Wed 7 Jul 17:40; Sun 18 Jul 18:40<br>
+
 **Woman With a Movie Camera Presents: the World Restoration Premiere of Riddance (Szabad lélegzet)**<br>
+
 Sat 10 Jul 17:30 (+ pre-recorded extended intro by Márta Mészáros); Wed 21 Jul 21:00<br>
+
 **Adoption (Örökbefogadás)**<br>
+
 Mon 12 Jul 18:00 (pre-recorded intro by Selina Robertson, Club des Femmes); Thu 22 Jul 20:30<br>
+
 **Nine Months (Kilenc hónap)**<br>
+
 Tue 13 Jul 17:40; Sun 25 Jul 12:30<br>
+
 **The Two of Them/Two Women (Ök ketten)**<br>
+
 Wed 14 Jul 20:50; Mon 26 Jul 18:10<br>
+
 **The Girl (Eltávozott nap)**<br>
+
 Fri 16 Jul 20:50<br>
+
 **Binding Sentiments (Holdudvar)**<br>
+
 Sat 17 Jul 15:20<br>
-**The Heiresses (Örökség)**<br>
+
+**The Heiresses (****Örökség)**<br>
+
 Sun 18 Jul 15:20; Tue 27 Jul 20:30<br>
+
 **Diary for My Children (Napló gyermekeimnek)**<br>
+
 Sat 24 Jul 14:10 (+ pre-recorded extended intro by Márta Mészáros); Wed 28 Jul 17:50<br>
+
 **Diary for My Loves (Napló szerelmeimnek)**<br>
+
 Sat 24 Jul 17:30; Sat 31 Jul 20:30<br>
+
 **Diary for My Father and Mother (Napló apámnak, anyámnak)**<br>
+
 Sat 24 Jul 20:45; Sat 31 Jul 14:40<br>
 <br>
+
 The restorations in this season were made from the original camera negatives, original magnetic tape sounds and positive prints, supervised and presented by the National Film Institute Hungary – Film Archive. The restorations were carried out at the NFI Film Archive and Filmlab.<br>
 <br>
 <img style="float: left;" src="/img/nfi-hungary-logo-01.png"><br>
@@ -114,3 +139,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2MDAxNDM3NTRdfQ==
+-->
