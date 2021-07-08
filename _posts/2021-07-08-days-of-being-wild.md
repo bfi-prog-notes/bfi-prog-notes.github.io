@@ -118,7 +118,7 @@ Fri 23 Jul 20:50; Wed 28 Jul 20:40<br>
 
 
 **Media partner**<br>
-<img style="float: left;" src="/img/far-out-logo.png" width="40%" height="40%"><br>
+<img style="float: left;" src="/img/F Far out Logo.png" width="40%" height="40%"><br>
 <br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
