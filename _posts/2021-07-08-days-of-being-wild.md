@@ -80,6 +80,32 @@ Hong Kong 1990©<br>
 94 mins<br>
 
 This 4K digital restoration was undertaken  from the 35mm original camera negative by the Criterion Collection in collaboration with L’Immagine Ritrovata and One Cool.
+
+
+**WORLD OF WONG KAR WAI**<br>
+**As Tears Go By (Wong Gok ka moon)**
+Wed 7 Jul 14:30; Sat 17 Jul 20:30;  Mon 19 Jul 20:45
+**Days of Being Wild (Ah Fei jing juen)**
+Thu 8 Jul 20:50 (+ pre-recorded intro by season programmer Ann Lee); Mon 12 Jul 14:30;  Mon 19 Jul 18:00
+**Fallen Angels (Do lok tin si)**
+Fri 9 Jul 20:50; Wed 14 Jul 14:30; Sun 25 Jul 18:30
+**Ashes of Time Redux (Dung che sai duk)**
+Sat 10 Jul 11:20 (+ pre-recorded intro by season programmer Ann Lee); Wed 21 Jul 20:45;  Fri 30 Jul 20:45
+**Chungking Express (Chung Hing sam lam)**
+Sat 10 Jul 18:15; Mon 12 Jul 20:50;  Tue 20 Jul 20:45; Thu 29 Jul 14:30
+**Happy Together (Chun gwong cha sit)**
+Sun 11 Jul 15:40; Fri 16 Jul 14:30; Fri 23 Jul 18:10
+**In the Mood for Love (Fa yeung nin wah)**
+Wed 14 Jul 20:45; Sat 17 Jul 13:30;  Wed 21 Jul 14:30; Thu 29 Jul 20:45
+**2046**
+Thu 15 Jul 20:20; Sat 17 Jul 16:10; Sat 31 Jul 14:30
+**The Grandmaster (Yi dai zong shi)**
+Tue 20 Jul 18:00; Thu 22 Jul 20:50;  Mon 26 Jul 20:50
+**The Hand (Extended Cut)**
+Thu 22 Jul 18:30; Fri 30 Jul 18:20
+**My Blueberry Nights**
+
+Fri 23 Jul 20:50; Wed 28 Jul 20:40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0NTM5ODgxXX0=
+eyJoaXN0b3J5IjpbLTEwMDE0NDY5ODVdfQ==
 -->
