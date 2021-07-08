@@ -1,7 +1,19 @@
+---
+layout: post
+title: Days of Being Wild (Ah Fei jing juen)
+published: true
+date: 2021-07-08
+readtime: true
+categories: ['WORLD OF WONG KAR WAI']
+tags: [Drama, Crime, Romance]
+metadata: 'Hong Kong, 1990, 94 mins<br> Director: Wong Kar Wai'
+pdf: '2021-07-08-days-of-being-wild.pdf'
+---
+
+
 _+ pre-recorded intro by season programmer Ann Lee_
 
-Leslie Cheung gives a magnificent performance as a rakish playboy in the 1960s searching for identity while callously breaking hearts. Wong hit his stride with his sophomore effort, tying together his favourite themes of time, memory and rejection in a hypnotic drama. Featuring a cast of Hong Kong’s  
-biggest stars, it’s a poignant snapshot of youthful restlessness that’s an  artistic triumph.<br>
+Leslie Cheung gives a magnificent performance as a rakish playboy in the 1960s searching for identity while callously breaking hearts. Wong hit his stride with his sophomore effort, tying together his favourite themes of time, memory and rejection in a hypnotic drama. Featuring a cast of Hong Kong’s biggest stars, it’s a poignant snapshot of youthful restlessness that’s an  artistic triumph.<br>
 **bfi.org.uk**
 
 _Days_ _of_ _Being_ _Wild_ is already widely accepted as a modern classic, but it has had a worse than bumpy ride since an earlier version premiered in Hong Kong in December 1990. (The present version is Wong Kar Wai’s definitive cut, prepared for international release.) The first-release business in Pacific Asia was so poor that a planned Part Two – centred on Tony Leung’s gambler character, glimpsed here only in the closing scene, and set in 1966 – was never completed, although Wong Kar Wai’s recent _Ashes_ _of_ _Time_ seemingly does much of what he intended to do in that film. This film’s ‘mistake’, in the eyes of Asian audiences, was to defy all expectations aroused by the casting of six of the region’s top stars; it took two re-releases, a lot of critical support and a slew of Hong Kong Film Awards to rehabilitate the film and Wong’s career.
@@ -77,8 +89,8 @@ Nonong Talbo _(train conductor)_
 Hong Kong 1990©<br>
 94 mins<br>
 
-This 4K digital restoration was undertaken  from the 35mm original camera negative by the Criterion Collection in collaboration with L’Immagine Ritrovata and One Cool.
-
+This 4K digital restoration was undertaken  from the 35mm original camera negative by the Criterion Collection in collaboration with L’Immagine Ritrovata and One Cool.<br>
+<br><br>
 
 **WORLD OF WONG KAR WAI**<br>
 **As Tears Go By (Wong Gok ka moon)**<br>
@@ -103,6 +115,25 @@ Tue 20 Jul 18:00; Thu 22 Jul 20:50;  Mon 26 Jul 20:50<br>
 Thu 22 Jul 18:30; Fri 30 Jul 18:20<br>
 **My Blueberry Nights**<br>
 Fri 23 Jul 20:50; Wed 28 Jul 20:40<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDE2MzY3OV19
--->
+
+
+**Media partner**<br>
+<img style="float: left;" src="/img/F Far out Logo.png" width="40%" height="40%"><br>
+<br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
