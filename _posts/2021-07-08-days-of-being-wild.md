@@ -75,13 +75,11 @@ So Elena Lim _(hotel manageress)_
 Mariton Fernandez _(hotel maid)_  
 Angela Ponos _(prostitute)_  
 Nonong Talbo _(train conductor)_  
-Hong Kong 1990©
 
-94 mins
+Hong Kong 1990©<br>
+94 mins<br>
 
-This 4K digital restoration was undertaken  
-from the 35mm original camera negative by  
-the Criterion Collection in collaboration with L’Immagine Ritrovata and One Cool.
+This 4K digital restoration was undertaken  from the 35mm original camera negative by the Criterion Collection in collaboration with L’Immagine Ritrovata and One Cool.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5MDMwMjY3XX0=
+eyJoaXN0b3J5IjpbNzk0NTM5ODgxXX0=
 -->
