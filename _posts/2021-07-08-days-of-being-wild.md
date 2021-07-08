@@ -22,18 +22,14 @@ The first part of an informal trilogy including _In the Mood for Love_ (2000) an
 _Days of Being Wild_ is a formative film for Wong both in visual and sonic terms. His attraction towards Latin music and his use of it to convey unspoken and unseen emotional angst is becoming ever more clear.<br>
 **Kambole Campbell, bfi.org.uk, 20 February 2021**<br>
 
-**Days of Being Wild (Ah Fei jing juen)**
-
+**DAYS OF BEING WILD (AH FEI JING JUEN)**<br>
 _Director/Screenplay:_ Wong Kar Wai  
-_Production Company:_  
-In-Gear Film Production Co. Ltd.  
+_Production Company:_  In-Gear Film Production Co. Ltd.  
 _Executive Producer:_ Alan Tang  
 _Producer:_ Rover Tang  
 _Associate Producer:_ Joseph Chan Wing-Kwong  
 _Production Manager:_ Jacky Pang Yee-Wah  
-_Assistant Production Manager:_
-
-Candy Leung Fung-Ying  
+_Assistant Production Manager:_ Candy Leung Fung-Ying  
 _Post-production Manager:_ Siu Wing  
 _Production Assistant:_ Rocky Tang  
 _Assistant Directors:_ Rosanna Ng Wai-San,
@@ -41,25 +37,17 @@ _Assistant Directors:_ Rosanna Ng Wai-San,
 Johnny Kong Yeuk-Shing  
 _Continuity:_ Wong Wai-Hung, Chan Bo-Shun  
 _Director of Photography:_ Christopher Doyle  
-_2nd Unit Photographers:_ Ngai Chi-Kwan,
-
-Lau Wai-Keung  
-_Assistant Cameramen:_ Chan Siu-Kwan,
-
-Dick Cheung, Wong Kam-Shing  
+_2nd Unit Photographers:_ Ngai Chi-Kwan, Lau Wai-Keung  
+_Assistant Cameramen:_ Chan Siu-Kwan, Dick Cheung, Wong Kam-Shing  
 _Stills Photography:_ Lawrence Ng Kai-Wah  
 _Special Effects:_ Chang Sui-Lang  
 _Editing Consultant:_ Patrick Tam Kar-Ming  
 _Editor:_ Kai Kit-Wai  
 _Assistant Editors:_ Chin Sun-Kit, Ha Lam-Sang  
 _Art Director:_ William Chang Suk-Ping  
-_Assistant Art Directors:_ Alfred Yau, Wai-Ming,
-
-Lau Sai-Wan, Wilson Hui Wei-Chi  
+_Assistant Art Directors:_ Alfred Yau, Wai-Ming, Lau Sai-Wan, Wilson Hui Wei-Chi  
 _Properties:_ Wong Tze-On, Tam Wing-Cheong  
-_Assistant Properties:_ Wong Tze-Ping,
-
-Lee Kwok-Loy, Lee Tze-Kong  
+_Assistant Properties:_ Wong Tze-Ping, Lee Kwok-Loy, Lee Tze-Kong  
 _Wardrobe:_ Luk Ha-Fong  
 _Optical Director:_ Lui Lai-Wah  
 _Music Supervisor:_ Terry Chan  
@@ -67,12 +55,10 @@ _Choreography:_ Eddie De Guzeman
 _Recording Consultant:_ Benny Chu Chi-Ha  
 _Sound:_ Chan Wai-Hung  
 _Boom Operators:_ Leung Chung-Wai, Tam Tak-Wing  
-_Action Directors:_ Tung Wan-Wai, Tsui Pui-Wing,
+_Action Directors:_ Tung Wan-Wai, Tsui Pui-Wing, Poon Kin-Kwan  
+_Stunt Director:_ Joeseph Chi Chiong-Chavez  <br>
 
-Poon Kin-Kwan  
-_Stunt Director:_ Joeseph Chi Chiong-Chavez  
-_Cast:_
-
+**Cast**<br>
 Leslie Cheung Kwok-Wing _(Yuddy)_  
 Maggie Cheung Man-Yuk _(Su Lizhen)_  
 Andy Lau Tak-Wah _(Tide)_  
@@ -97,5 +83,5 @@ This 4K digital restoration was undertaken
 from the 35mm original camera negative by  
 the Criterion Collection in collaboration with L’Immagine Ritrovata and One Cool.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2ODkyMzA1XX0=
+eyJoaXN0b3J5IjpbMjM5MDMwMjY3XX0=
 -->
