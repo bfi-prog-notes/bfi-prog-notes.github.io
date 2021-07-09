@@ -62,11 +62,9 @@ Sunday 25 Jul 11:50<br>
 Sat 1 Aug 12:00; Sat 7 Aug 15:10; Tue 31 Aug 14:15<br>
 **Earwig and the Witch**<br>
 Tue 3 – Tue 24 Aug<br>
-
 **The Watcher in the Woods**<br>
-
 Sun 22 Aug 13:00; Sun 29 Aug 12:40<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTI2MzY1XX0=
+eyJoaXN0b3J5IjpbMTQ3MjAwNDM1OV19
 -->
