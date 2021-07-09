@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Girlfriends
+published: true
+date: 2021-07-16
+readtime: true
+categories: ['WOMAN WITH A MOVIE CAMERA PREVIEW<br>POWERED BY JAGUAR']
+tags: [Comedy, Drama]
+metadata: 'USA 1978, 88 mins<br> Director: Claudia Weill'
+pdf: '2021-07-16-girlfriends.pdf'
+---
 
 One of the key unsung films of ‘second wave’ 70s feminism, Claudia Weill’s spare, funny and vividly authentic study of Manhattan best friends severed by a sudden marriage, was a breath of indie fresh air in a decade of backslapping buddy movies. As struggling photographer Susan (a thin-skinned Melanie Mayron) tries to swap bar mitzvah portraits for a Soho art show, and her BFF Anne (Anita Skinner) finds herself mired in motherhood, Weill tracks them with the cool, Cassavetian realism she acquired as a documentary maker.
 
