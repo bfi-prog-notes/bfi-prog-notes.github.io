@@ -14,11 +14,8 @@ While Altman’s adaptation of Chandler’s classic _The Long Goodbye_ is an ext
 
 Though obviously an uneasy alliance, the ﬁlm provides enough of Grisham’s plotting and Altman’s trademark skill with actors and assured style to provide a ﬁlm that is both entertaining on a purely narrative level and altogether more satisfying on an aesthetic and emotional one.<br>
 **Sergio Angelini**<br>
-
-<![endif]-->
-
-**The Gingerbread Man**
-
+<br>
+**The Gingerbread Man**<br>
 _Director_: Robert Altman  
 _Production Companies_: Island Pictures,  
 Enchanter Entertainment,  
@@ -32,17 +29,13 @@ _Production Supervisor_: Tim Christenson
 _Production Co-ordinator_: Steve Cainas  
 _Location Manager_: Gregory H. Alpert  
 _Post-production Supervisor_: Dan Genetti  
-_1st Assistant Directors_: Alexandra Perce,
-
-Michael Moore, Paul Prenderville  
+_1st Assistant Directors_: Alexandra Perce, Michael Moore, Paul Prenderville  
 _Script Supervisors_: Lexie Longstreet, Mary Cybulski  
 _Casting Directors_: Mary Jo Slater, Shay Griffin, Chez Casting  
 _Screenplay_: Al Hayes  
 _Based on an original story by_: John Grisham  
 _Director of Photography_: Changwei Gu  
-_Camera Operators_: Robert Reed Altman,
-
-Lawrence ‘Doc’ Karman  
+_Camera Operators_: Robert Reed Altman, Lawrence ‘Doc’ Karman  
 _Wescam Operator_: David Norris  
 _Special Effects Co-ordinator_: Tom Kittle  
 _Editor_: Geraldine Peroni  
@@ -63,17 +56,14 @@ _Sound Mixer_: John Pritchett
 _Re-recorder_: Matthew Iadarola  
 _Dialogue Editors_: Hugo Weng, Michael Haight  
 _Sound Effects Recordist/Designer_: John Paul Fasal  
-_Sound Effects Editors_: James Matheny,
-
-Martin Maryska, William Jacobs, Noah Blough  
+_Sound Effects Editors_: James Matheny, Martin Maryska, William Jacobs, Noah Blough  
 _Stunt Co-ordinator_: Greg Walker  
 _Legal Consultants_: Sonny Seiler, Walter Hartridge, Bouhan Williams & Levy_,_ Larry Chesin  
 _Marine Co-ordinator_: Wright Gres  
 _Animal Wrangler_: Gloria Winship Ayon  
 _Helicopter Pilot_: Cress Horne
 
-_Cast:_
-
+**Cast**<br>
 Kenneth Branagh _(Rick Magruder)_  
 Embeth Davidtz _(Mallory Doss)_  
 Robert Downey Jr _(Clyde Pell)_  
@@ -105,9 +95,7 @@ Nita Hardy _(policewoman)_
 Ferguson Reid _(Detective Black)_  
 Benjamin T. Gay _(court clerk)_  
 Mark Bednarz, Bill Cunningham, Chip Tootle _(Effingham County sheriffs)_  
-Sonny Shroyer, Mike Pniewski_,_
-
-Jay S. Pearsonstorm _(Chatham County sheriffs)_  
+Sonny Shroyer, Mike Pniewski, Jay S. Pearsonstorm _(Chatham County sheriffs)_  
 L.H. Smith _(evacuee)_  
 Wren Arthur _(Barfly Robin)_  
 Angela Costrini _(barfly)_  
@@ -115,9 +103,9 @@ Gregory H. Alpert _(Barfly Clark)_
 Lydia Marlene _(tattooed bartender)_  
 Bill Crabb _(Huey)_  
 Jin Hi Soucy, Richie Dye, Chad Darnell _(patrons)_  
-Natalie Hendrix_,_ Gregg Jarrett, Doug Weathers _(television anchorpersons)_  
+Natalie Hendrix, Gregg Jarrett, Doug Weathers _(television anchorpersons)_  
 Jeremy Cooper, Beth Eckard, Brad Huffines,  
-Patrick Prokop_,_ Mike Manhattan,  David Jordan,  
+Patrick Prokop, Mike Manhattan,  David Jordan,  
 George Lyndel Brannen, Gregory F. Pallone,  
 Alice Stewart, Vanessa Young  
 _(television field reporters)_  
@@ -125,7 +113,7 @@ Alyson E. Beasley, Angela Beasley _(puppeteers)_
 Scott Troughton _(dredge worker)_  
 Grace Tootle _(gas station attendant)_  
 Shane James _(Ricky Butch Banks)_  
-Herb Kelsey, William L. Thorp IV_  
+Herb Kelsey, William L. Thorp IV_ 
 (Doss gang members)_
 
 USA 1997<br>
@@ -133,5 +121,5 @@ USA 1997<br>
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODk1MjMzMl19
+eyJoaXN0b3J5IjpbMjAzNDQ4NDQ4OV19
 -->
