@@ -131,7 +131,6 @@ USA 1997<br>
 
 
 **ROBERT ALTMAN: AMERICAN OUTSIDER**  
-
 **The Gingerbread Man**  
 Fri 9 Jul 20:40; Sat 17 Jul 17:50  
 **Dr T & The Women**  
