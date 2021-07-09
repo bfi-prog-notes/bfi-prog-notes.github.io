@@ -25,7 +25,7 @@ _Editors_: Louisette Hautecoeur, Henri Taverna
 _Art Directors_: Léon Barsacq, Guy de Gastyne  
 _Music_: Georges Van Parys
 
-Cast**  
+**Cast**  
 Maurice Chevalier _(Emile)_  
 François Périer _(Jacques)_  
 Marcelle Derrien _(Madaleine)_  
@@ -35,9 +35,8 @@ Raymond Cordy _(Curly)_
 Paul Olivier _(the cashier)_  
 Roland Armontel _(Celestin)_
 
-France/USA 1947
-
+France/USA 1947  
 100 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzA4NjE1MF19
+eyJoaXN0b3J5IjpbLTE2OTQxNzcwNzZdfQ==
 -->
