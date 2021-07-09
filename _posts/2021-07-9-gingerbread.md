@@ -113,13 +113,12 @@ Alyson E. Beasley, Angela Beasley _(puppeteers)_
 Scott Troughton _(dredge worker)_  
 Grace Tootle _(gas station attendant)_  
 Shane James _(Ricky Butch Banks)_  
-Herb Kelsey, William L. Thorp IV_ 
-(Doss gang members)_
+Herb Kelsey, William L. Thorp IV _ (Doss gang members)_
 
 USA 1997<br>
 114 mins<br>
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDQ4NDQ4OV19
+eyJoaXN0b3J5IjpbLTI4MDM5NTUwNV19
 -->
