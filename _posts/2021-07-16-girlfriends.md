@@ -88,7 +88,15 @@ USA 1978
 
 A Park Circus release
 
+<img style="float:left" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC"  width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>**Woman with a Movie Camera is powered by Jaguar and generously supported by Jane Stanton**<br><br><br><br>
 
+
+
+**Woman with a Movie Camera Summit:  Q&A with Claudia Weill, director of _Girlfriends_  
+Available online from 10:00 Saturday 17 July**  
+Director Claudia Weill joins us to discuss her landmark 1978 _Girlfriends_, one of the first (and still one of the best) films to authentically portray the complexities of female friendship and life in your early 20s. The underrated classic is a true ‘godmother’ to _Girls_, _Frances Ha_, _Broad City_ and many other film and TV shows about young women trying to find their way.  
+Host: Anna Smith
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4MjQ2NzgzXX0=
+eyJoaXN0b3J5IjpbNTg2MTY1MjBdfQ==
 -->
