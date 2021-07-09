@@ -25,27 +25,16 @@ And yet in many ways, this is a less elliptical, more conventional film than _Ch
 <br><br>
 
 
-**HAPPY TOGETHER (CHUN GWONG CHA sit)**
-
+**HAPPY TOGETHER (CHUN GWONG CHA SIT)**  
 _Director:_ Wong Kar Wai  
-_Production Companies:_ Jet Tone Production,
-
-Block 2 Pictures, Prenom H Co. Ltd.,
-
-Seawoo Film Co. Ltd.  
+_Production Companies:_ Jet Tone Production, Block 2 Pictures, Prenom H Co. Ltd., Seawoo Film Co. Ltd.  
 _Executive Producer:_ Chan Ye-Cheng  
 _Producer:_ Wong Kar Wai  
-_Associate Producers:_ Hiroko Shinohara,
-
-Chung T.J., Christophe Tseng Ching-Chao  
+_Associate Producers:_ Hiroko Shinohara, Chung T.J., Christophe Tseng Ching-Chao  
 _Production Supervisor:_ Jacky Pang Yee-Wah  
-_Production Co-ordinator:_
-
-Joeseph Chi Chiong-Chavez  
+_Production Co-ordinator:_ Joeseph Chi Chiong-Chavez  
 _Unit Production Manager:_ Chang Hsien-Jen  
-_Assistant Unit Production Manager:_
-
-Joeris Ho Yuen-Chi  
+_Assistant Unit Production Manager:_ Joeris Ho Yuen-Chi  
 _Assistant Director:_ Johnnie Kong Yeuk-Shing  
 _Visual Continuity:_ Carmen Lui Lai-Wah  
 _Screenplay:_ Wong Kar Wai  
@@ -56,20 +45,14 @@ _Grips:_ Ho Ka-Fai, Lau Tin-Wah
 _Lighting Gaffer:_ Wong Chi-Ming  
 _Best Boy Electrician:_ Kwan Wing-Cheung  
 _Electricians:_ Kwan Wing-Kin, Chan Hon-Sung  
-_Stills Photography:_ Wing Shya,
-
-Julian Lee Chi-Chui  
-_Editors:_ William Chang Suk-Ping,
-
-Wong Ming-Lam  
+_Stills Photography:_ Wing Shya, Julian Lee Chi-Chui  
+_Editors:_ William Chang Suk-Ping, Wong Ming-Lam  
 _Production Designer:_ William Chang Suk-Ping  
 _Assistant Production Designer:_ Man Lim-Chung  
 _Props:_ Tam Wing-Cheong  
 _Props Assistant:_ Tam Wing-Hung  
 _Make-up:_ Kwan Lee-Na  
-_Camera Equipment Supplied by:_
-
-Salon Films (H.K.) Ltd  
+_Camera Equipment Supplied by:_ Salon Films (H.K.) Ltd  
 _Music:_ Danny Chung  
 _Music Editor:_ Tang Siu-Lam  
 _Sound Recording:_ Leung Chi-Tat  
@@ -78,18 +61,16 @@ _Sound Editor:_ Tu Tu-Chih
 _Chinese Subtitles:_ Jimmy Ngai  
 _English Subtitles:_ Tony Rayns  
 _Publicity:_ Norman Wang, Sophie Gluck  
-_Cast:_
 
+**Cast**  
 Leslie Cheung Kwok-Wing _(Ho Po-Wing)_  
 Tony Leung Chiu-Wai _(Lai Yiu-Fai)_  
 Chang Chen _(Chang)_  
-Hong Kong 1997©
 
+Hong Kong 1997©  
 97 mins
 
-This 4K digital restoration was undertaken  
-from the 35mm original camera negative by the Criterion Collection in collaboration with L’Immagine Ritrovata, Jet Tone, and One Cool.  
-It was supervised and approved by Wong Kar Wai.
+This 4K digital restoration was undertaken  from the 35mm original camera negative by the Criterion Collection in collaboration with L’Immagine Ritrovata, Jet Tone, and One Cool.  It was supervised and approved by Wong Kar Wai.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODAzMjA5M119
+eyJoaXN0b3J5IjpbMTA0OTQzNzI3M119
 -->
