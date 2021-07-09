@@ -1,23 +1,28 @@
-
+---
+layout: post
+title: Gosford Park
+published: true
+date: 2021-07-11
+readtime: true
+categories: ['ROBERT ALTMAN - AMERICAN OUTSIDER']
+tags: [Comedy, Mystery]
+metadata: 'UK/USA 2001, 137 mins<br> Director: Robert Altman'
+pdf: '2021-07-11-gosford-park.pdf'
+---
 
 **SPOILER WARNING The following notes give away some of the plot.**
 
 After unleashing an earthquake on Los Angeles in _Short Cuts_ and a mini-typhoon on Savannah in _The Gingerbread Man_, Robert Altman begins _Gosford Park_ (his first film set in the UK) with a simple rainstorm. Given the British obsession with the weather, it’s a clever conceit, one that allows the director to expose the iniquities of the class system in the 1930s without having to resort to dialogue. Constance, Countess of Trentham (played, with an hauteur worthy of Dame Edith Evans, by Maggie Smith) is about to climb into her car. Mary, her new maid, has to stand by in the downpour until her mistress is safely ensconced. Even then, she is not allowed to sit alongside her employer.  This, then, is a society in which the rich stay dry while their servants get wet.
 
-A comedy of manners with a murder mystery thrown in, _Gosford Park_ comes billed as Renoir’s _La Règle du jeu_ crossed with Agatha Christie’s _Ten Little Indians_. Not that Altman – who cooked up the idea with producer Bob Balaban and commissioned the screenplay from actor/writer Julian Fellowes – is especially interested in abiding by genre rules. His real focus here is sexual and social conspiracy among the guests gathered at the country estate of businessman Sir William McCardle and their servants. Robbed of a generation by World War I, hit by the decline of the Empire, baffled by modernity (whether embodied by Hollywood or by the moves to emancipate women), the aristocrats depicted here are in a state of siege. The reason they place such emphasis on etiquette is – Altman implies – precisely because their way of life is under threat. In one telling sequence, around the time of the murder of  
-Sir William, the composer Ivor Novello, a real-life figure played here by Jeremy Northam, plays a medley of songs at the piano in the drawing room.  
-The servants, all drawn to the music, abandon their duties. As they stand on staircases and lean against doors to listen, it’s as if they’re taking over the house where – above stairs at least – they have previously seemed invisible.
+A comedy of manners with a murder mystery thrown in, _Gosford Park_ comes billed as Renoir’s _La Règle du jeu_ crossed with Agatha Christie’s _Ten Little Indians_. Not that Altman – who cooked up the idea with producer Bob Balaban and commissioned the screenplay from actor/writer Julian Fellowes – is especially interested in abiding by genre rules. His real focus here is sexual and social conspiracy among the guests gathered at the country estate of businessman Sir William McCardle and their servants. Robbed of a generation by World War I, hit by the decline of the Empire, baffled by modernity (whether embodied by Hollywood or by the moves to emancipate women), the aristocrats depicted here are in a state of siege. The reason they place such emphasis on etiquette is – Altman implies – precisely because their way of life is under threat. In one telling sequence, around the time of the murder of  Sir William, the composer Ivor Novello, a real-life figure played here by Jeremy Northam, plays a medley of songs at the piano in the drawing room.  The servants, all drawn to the music, abandon their duties. As they stand on staircases and lean against doors to listen, it’s as if they’re taking over the house where – above stairs at least – they have previously seemed invisible.
 
 It’s easy to see why Altman included Novello. As a matinee idol, he can cross the boundaries between the classes. (It’s significant that the only other character seemingly at home in both parts of the house is also an actor, albeit one masquerading as a valet.) The aristocrats sneer at Novello because he is a teacher’s son, but they’re also intrigued by the glamorous world he comes from. He understands his own ambiguous status. ‘How do you put up with these people,’ his Hollywood-producer friend asks him after being exposed to a few chilly draughts of snobbery and anti-Semitism. ‘You forget,’ Novello replies, ‘I earn my living by impersonating them.’
 
-As in so many of his best movies, Altman has a vast ensemble cast at his disposal. The haughty peers, slatternly maids and bossy housekeepers could easily have been turned into caricatures, but Altman eschews P.G. Wodehouse-style comedy, and instead strives to give characters with only a handful of lines psychological depth. There’s something touchingly absurd about the way Sir William’s valet keeps on serving him even after he’s dead, trying to make his corpse comfortable. The stony-faced butler seems much more sympathetic after he drinks himself senseless in fear of his war record as a conscientious objector becoming public. Above stairs, the quiet desperation of Meredith, the ex-officer turned businessman threatened with ruin, evokes as much pathos as contempt. Maggie Smith’s Grande Dame, too, has her moment of frailty, when she thinks Sir William is about to stop her allowance. Even the detested Sir William occasionally seems more sinned against  
-than sinning.
+As in so many of his best movies, Altman has a vast ensemble cast at his disposal. The haughty peers, slatternly maids and bossy housekeepers could easily have been turned into caricatures, but Altman eschews P.G. Wodehouse-style comedy, and instead strives to give characters with only a handful of lines psychological depth. There’s something touchingly absurd about the way Sir William’s valet keeps on serving him even after he’s dead, trying to make his corpse comfortable. The stony-faced butler seems much more sympathetic after he drinks himself senseless in fear of his war record as a conscientious objector becoming public. Above stairs, the quiet desperation of Meredith, the ex-officer turned businessman threatened with ruin, evokes as much pathos as contempt. Maggie Smith’s Grande Dame, too, has her moment of frailty, when she thinks Sir William is about to stop her allowance. Even the detested Sir William occasionally seems more sinned against  than sinning.
 
-Altman is far too subtle and insightful a filmmaker simply to dismiss the aristocrats as contemptible and to idealise the servants. Each world provides a distorted reflection of the other. Strangely, the servants cling to the rules of behaviour as stubbornly as their employers. There are further layers of irony. The aristocrats, for instance, whose eccentric habits would take a team of social anthropologists a small eternity to unravel, regard the antics of anyone outside their set, especially the Hollywood producer, as wilfully bizarre.  
-And despite being cosseted by a small army of maids and butlers, they’re the ones who always seem exhausted: in one telling aside, the Countess of Trentham wearily complains about ‘breaking in’ a new maid.
+Altman is far too subtle and insightful a filmmaker simply to dismiss the aristocrats as contemptible and to idealise the servants. Each world provides a distorted reflection of the other. Strangely, the servants cling to the rules of behaviour as stubbornly as their employers. There are further layers of irony. The aristocrats, for instance, whose eccentric habits would take a team of social anthropologists a small eternity to unravel, regard the antics of anyone outside their set, especially the Hollywood producer, as wilfully bizarre.  And despite being cosseted by a small army of maids and butlers, they’re the ones who always seem exhausted: in one telling aside, the Countess of Trentham wearily complains about ‘breaking in’ a new maid.
 
-Altman is clearly fascinated by the mechanics of country house living, giving time to such things as the strictly defined division of labour between different servants and the myriad tasks that must be performed for dinner to be served on time. This exacting approach to period detail can, in certain costume pictures, have a deadening effect on performance. But here Altman brings an improvisatory approach to dialogue and narrative, his camera flitting from character to character as if in search of the most memorable snatch of conversation. In recent years, his trademark polyphonic style (overlapping dialogue, long takes, prowling camerawork) was beginning to look mannered and self-indulgent. _The Gingerbread Man_ and _Cookie’s Fortune_ (both murder mysteries of a sort) and _Dr T & The Women_ weren’t exactly misfires, but they were far from his best work. That’s why _Gosford Park_ is such a revelation.  
-Not only does Altman coax superb performances from his actors, whether relative newcomers or sacred monsters of stage and screen, his freewheeling approach also brings new life to that most ossified of genres – the country-house costume drama. This is a quintessentially British movie, but one which only an outsider with Altman’s energy could have made.  
+Altman is clearly fascinated by the mechanics of country house living, giving time to such things as the strictly defined division of labour between different servants and the myriad tasks that must be performed for dinner to be served on time. This exacting approach to period detail can, in certain costume pictures, have a deadening effect on performance. But here Altman brings an improvisatory approach to dialogue and narrative, his camera flitting from character to character as if in search of the most memorable snatch of conversation. In recent years, his trademark polyphonic style (overlapping dialogue, long takes, prowling camerawork) was beginning to look mannered and self-indulgent. _The Gingerbread Man_ and _Cookie’s Fortune_ (both murder mysteries of a sort) and _Dr T & The Women_ weren’t exactly misfires, but they were far from his best work. That’s why _Gosford Park_ is such a revelation.  Not only does Altman coax superb performances from his actors, whether relative newcomers or sacred monsters of stage and screen, his freewheeling approach also brings new life to that most ossified of genres – the country-house costume drama. This is a quintessentially British movie, but one which only an outsider with Altman’s energy could have made.  
 **Geoffrey Macnab, _Sight and Sound_, February 2002**
 <br><br>
 
@@ -153,6 +158,59 @@ Widget _(Pip the dog)_
 
 UK/USA 2001©  
 137 mins
+<br><br>
+
+**ROBERT ALTMAN: AMERICAN OUTSIDER**  
+**The Gingerbread Man**  
+Fri 9 Jul 20:40; Sat 17 Jul 17:50  
+**Dr T & The Women**  
+Sat 10 Jul 15:00; Mon 26 Jul 20:30  
+**Gosford Park**  
+ Sun 11 Jul 15:20; Sun 18 Jul 18:20; Fri 23 Jul 14:30  
+**The Player**  
+Mon 12 Jul 17:45; Wed 28 Jul 20:30  
+**The Company**  
+Tue 13 Jul 17:50; Sat 31 Jul 11:50  
+**Vincent and Theo**  
+Tue 13 Jul 20:30  
+**Kansas City**  
+Thu 15 Jul 17:40  
+**Short Cuts**  
+Sat 17 Jul 19:30  
+**Prêt-à-porter**   
+Mon 19 Jul 17:40  
+**A Prairie Home Companion**  
+Sun 25 Jul 12:00; Sat 31 Jul 17:50  
+**Cookie’s Fortune**  
+Tue 27 Jul 17:40  
+<br>
+**Promotional partners**  
+<img style="float: left;" src="/img/partner/yeastie-boys-logo.png" alt="Yeastie Boys" title="Yeastie Boys">
+<br><br><br><br><br><br><br><br>
+**A deliciously irreverent brewing company**  
+
+<img style="float: left;" src="/img/partner/scala-radio-logo.png" alt="Scala Radio" title="Scala Radio">
+<br><br><br><br><br><br><br><br><br><br>
+**planetradio.co.uk/scala-radio**  
+<br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2NjY0NTM2NzldfQ==
 -->
