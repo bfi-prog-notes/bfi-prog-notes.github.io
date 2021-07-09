@@ -103,56 +103,31 @@ Host: Anna Smith
 
 **IN PERSON & PREVIEWS**<br>
 **Woman with a Movie Camera Preview: Girlfriends**<br>
-
 Fri 16 Jul 18:15<br>
-
 **Sonic Cinema World Premiere:  What The Hell Is It This Time? Sparks Live in London + intro by Edgar Wright**<br>
-
 Tue 3 Aug 17:10<br>
-
 **Preview: The Sparks Brothers + Q&A with director Edgar Wright**<br>
-
 Tue 3 Aug 19:45<br>
-
 **BFI & Radio Times Television Festival presents: TV Preview: The North Water + Q&A with director Andrew Haigh and cast (TBA)**<br>
-
 Wed 4 Aug 18:15<br>
-
 **Preview: I’m Your Man (****Ich bin dein Mensch) + pre-recorded Q&A with director Maria Schrader**<br>
-
 Mon 9 Aug 17:50<br>
-
 **BFI & Radio Times Television Festival presents: TV Preview: Vigil + Q&A with cast and creatives (TBA)**<br>
-
 Mon 23 Aug 18:10<br>
 
 **NEW RELEASES & RE-RELEASES**<br>
 **Another Round**<br> From Fri 9 Jul<br>
-
 **Jumbo**<br> From Fri 9 Jul<br>
-
 **Tove**<br> From Fri 9 Jul<br>
-
 **Deerskin** <br>From Fri 16 Jul<br>
-
 **Girlfriends** <br>From Fri 23 Jul<br>
-
 **Mandabi**<br> From Fri 23 Jul<br>
-
 **Limbo** <br>From Fri 30 Jul<br>
-
-**The Most Beautiful Boy in the World**<br>
-From Fri 30 Jul<br>
-
+**The Most Beautiful Boy in the World**<br>From Fri 30 Jul<br>
 **Now, Voyager**<br> From Fri 6 Aug<br>
-
-**The Story of a Three Day Pass (La Permission)**<br>
-
-From Sat 7 Aug<br>
-
+**The Story of a Three Day Pass (La Permission)**<br>From Sat 7 Aug<br>
 **Censor**<br> From Fri 20 Aug<br>
-
 **Souad**<br> From Fri 27 Aug<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzUxNzA2Myw1ODYxNjUyMF19
+eyJoaXN0b3J5IjpbLTM1NDEzOTYzOSw1ODYxNjUyMF19
 -->
