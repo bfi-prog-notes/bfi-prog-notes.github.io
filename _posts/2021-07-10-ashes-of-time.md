@@ -12,8 +12,7 @@ pdf: '2021-07-10-ashes-of-time-redux.pdf'
 
 In all its reincarnations between 1994 and today, Wong Kar Wai’s martial-arts genre-project _Ashes of Time_, a tale of soured love and swordsmen, has always been a film about change, and the trials and hold of memory, so it’s fitting that its own history eludes easy grasp. The print I saw at London’s ICA in the late 1990s seemed in poor condition and was edited in a deliberately confusing fashion. Whereas _Chungking Express_, made the same year, was a hip, lurching glide through present-day big-city anomie, _Ashes_ was compelling largely because on first viewing it seemed so indifferent to making sense or even relying on chic allure. It was baffling to those unfamiliar with the source material.
 
-Hugely costly at the time and two years in the making, _Ashes_ has been recut, says Wong Kar Wai, for a number of reasons: several versions were in circulation, not all of them approved; the original negatives were poorly stored and needed rescuing; and only now are the technical means available to make the film he wanted. It may be that Wong’s unspoken reason is that the structure of his first and more demanding edit was a tactical error if he was intending to capitalise on the unexpected cachet and momentum of the martial-arts film: if, that is, he wanted _Ashes_ to reside in the same art-cult neighbourhood of _House of Flying Daggers_ (2004) or _Zu Warriors from the Magic Mountain_ (1983). Hence its new, more viewer-friendly and  
-gorgeous form.
+Hugely costly at the time and two years in the making, _Ashes_ has been recut, says Wong Kar Wai, for a number of reasons: several versions were in circulation, not all of them approved; the original negatives were poorly stored and needed rescuing; and only now are the technical means available to make the film he wanted. It may be that Wong’s unspoken reason is that the structure of his first and more demanding edit was a tactical error if he was intending to capitalise on the unexpected cachet and momentum of the martial-arts film: if, that is, he wanted _Ashes_ to reside in the same art-cult neighbourhood of _House of Flying Daggers_ (2004) or _Zu Warriors from the Magic Mountain_ (1983). Hence its new, more viewer-friendly and gorgeous form.
 
 The film is based on the million-selling, multi-part novel _The Eagle-Shooting Heroes_, a classic of the _wuxia_ (martial arts and chivalry) genre written by Louis Cha, the Hong Kong politician, newspaper magnate and renowned scholar of Buddhism who wrote as Jin Yong. _Ashes_ focuses on the early lives of two of Yong’s main characters, the malignant Lord of the East and the malicious Lord of the West. The latter, Ouyang, has secreted himself in the killer-for-hire trade and the film begins as the former, Huang, brings an unexpected gift of the ‘wine of oblivion’ to his friend. As a literary genre, _wuxia_ is invisible in the west; as cinema, it’s trapped somewhere between the exotic and the absurd, its stylised conventions often a barrier to a serious examination of its philosophies. One way into these is to contrast _wuxia_’s passion for the man-on-man duel – the honour of the finest fighter when beset on all sides – against its apparent cousin, the Western. Wong has cited _The Searchers_ as a model, with its near-subliminal backstory told in glances of a lost but never-forgotten love. In its spacious, spare, heat-saturated look, _Ashes_ also invokes Sergio Leone’s Dollars trilogy, and Leslie Cheung’s Ouyang, the main character and narrator, is not dissimilar in his taciturn isolation to Eastwood’s ‘the man with no name’.
 
@@ -82,20 +81,19 @@ Collin Chou _(swordsman)_
 Bai Li _(Hong Qi’s wife)_
 
 Hong Kong 2008<br>
- 93 mins
+93 mins
 
-_With a pre-recorded introduction by season programmer Ann Lee (Sat 10 July only)_<br>
+With a pre-recorded introduction by season programmer Ann Lee (Sat 10 July only)<br>
 
-**WORLD OF WONG KAR WAI**
-**As Tears Go By (****Wong Gok ka moon)**
-Wed 7 Jul 14:30; Sat 17 Jul 20:30;  Mon 19 Jul 20:45
+**WORLD OF WONG KAR WAI**<br>
+**As Tears Go By (Wong Gok ka moon)**<br>
+Wed 7 Jul 14:30; Sat 17 Jul 20:30;  Mon 19 Jul 20:45<br>
 **Days of Being Wild (Ah Fei jing juen)**<br>
 Thu 8 Jul 20:50 (+ pre-recorded intro by season programmer Ann Lee); Mon 12 Jul 14:30;  Mon 19 Jul 18:00<br>
 **Fallen Angels (Do lok tin si)**<br>
 Fri 9 Jul 20:50; Tue 13 Jul 21:00; Wed 14 Jul 14:30; Sun 25 Jul 18:30<br>
 **Ashes of Time Redux (Dung che sai duk)**<br>
-Sat 10 Jul 11:20 (+ pre-recorded intro by season programmer Ann Lee); Wed 21 Jul 20:45;  
-Fri 30 Jul 20:45<br>
+Sat 10 Jul 11:20 (+ pre-recorded intro by season programmer Ann Lee); Wed 21 Jul 20:45; Fri 30 Jul 20:45<br>
 **Chungking Express (Chung Hing sam lam)**<br>
 Sat 10 Jul 18:15; Mon 12 Jul 20:50;  Tue 20 Jul 20:45; Thu 29 Jul 14:30<br>
 **Happy Together (Chun gwong cha sit)**<br>
@@ -111,8 +109,7 @@ Thu 22 Jul 18:30; Fri 30 Jul 18:20<br>
 **My Blueberry Nights**<br>
 Fri 23 Jul 20:50; Wed 28 Jul 20:40<br>
 
-Presented in partnership with Janus Films 
-and the ICA<br>
+Presented in partnership with Janus Films and the ICA<br>
 
 **Media partner**<br>
 <img style="float: left;" src="/img/F Far out Logo.png" width="40%" height="40%"><br>
@@ -134,6 +131,4 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQyNzgyOTNdfQ==
--->
+
