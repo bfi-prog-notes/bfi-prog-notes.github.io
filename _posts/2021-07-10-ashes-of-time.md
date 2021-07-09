@@ -16,7 +16,7 @@ _Ashes of Time_ isn’t about what happens onscreen, it’s about human disconne
 **Mark Sinker, _Sight & Sound_, October 2008**
 <br>
 
-**Ashes of Time Redux (Dung che sai duk)**<br>
+**ASHES OF TIME REDUX (DUNG CHE SAI DUK)**<br>
 _Directed by_: Wong Kar Wai  
 _Production Companies_: Scholar Films Co Ltd, Jet Tone Production, Beijing Film Studio  
 _In association with_: Tsui Siu Ming Productions Ltd., Pony Canyon  
@@ -78,37 +78,30 @@ _With a pre-recorded introduction by season programmer Ann Lee (Sat 10 July only
 **WORLD OF WONG KAR WAI**
 **As Tears Go By (****Wong Gok ka moon)**
 Wed 7 Jul 14:30; Sat 17 Jul 20:30;  Mon 19 Jul 20:45
-**Days of Being Wild (Ah Fei jing juen)**
-Thu 8 Jul 20:50 (+ pre-recorded intro by season programmer Ann Lee); Mon 12 Jul 14:30;  Mon 19 Jul 18:00
-**Fallen Angels (Do lok tin si)**
-Fri 9 Jul 20:50; Tue 13 Jul 21:00; Wed 14 Jul 14:30; Sun 25 Jul 18:30
-**Ashes of Time Redux (Dung che sai duk)**
+**Days of Being Wild (Ah Fei jing juen)**<br>
+Thu 8 Jul 20:50 (+ pre-recorded intro by season programmer Ann Lee); Mon 12 Jul 14:30;  Mon 19 Jul 18:00<br>
+**Fallen Angels (Do lok tin si)**<br>
+Fri 9 Jul 20:50; Tue 13 Jul 21:00; Wed 14 Jul 14:30; Sun 25 Jul 18:30<br>
+**Ashes of Time Redux (Dung che sai duk)**<br>
 Sat 10 Jul 11:20 (+ pre-recorded intro by season programmer Ann Lee); Wed 21 Jul 20:45;  
-Fri 30 Jul 20:45
-**Chungking Express (Chung Hing sam lam)**
-Sat 10 Jul 18:15; Mon 12 Jul 20:50;  Tue 20 Jul 20:45; Thu 29 Jul 14:30
-**Happy Together (Chun gwong cha sit)**
-Sun 11 Jul 15:40; Fri 16 Jul 14:30; Fri 23 Jul 18:10
-**In the Mood for Love (Fa yeung nin wah)**
-Wed 14 Jul 20:45; Sat 17 Jul 13:30;  Wed 21 Jul 14:30; Thu 29 Jul 20:45
-**2046**
-Thu 15 Jul 20:20; Sat 17 Jul 16:10; Sat 31 Jul 14:30
+Fri 30 Jul 20:45<br>
+**Chungking Express (Chung Hing sam lam)**<br>
+Sat 10 Jul 18:15; Mon 12 Jul 20:50;  Tue 20 Jul 20:45; Thu 29 Jul 14:30<br>
+**Happy Together (Chun gwong cha sit)**<br>
+Sun 11 Jul 15:40; Fri 16 Jul 14:30; Fri 23 Jul 18:10<br>
+**In the Mood for Love (Fa yeung nin wah)**<br>
+Wed 14 Jul 20:45; Sat 17 Jul 13:30;  Wed 21 Jul 14:30; Thu 29 Jul 20:45<br>
+**2046**<br>
+Thu 15 Jul 20:20; Sat 17 Jul 16:10; Sat 31 Jul 14:30<br>
+**The Grandmaster (Yi dai zong shi)**<br>
+Tue 20 Jul 18:00; Thu 22 Jul 20:50;  Mon 26 Jul 20:50<br>
+**The Hand (Extended Cut)**<br>
+Thu 22 Jul 18:30; Fri 30 Jul 18:20<br>
+**My Blueberry Nights**<br>
+Fri 23 Jul 20:50; Wed 28 Jul 20:40<br>
 
-**The Grandmaster (Yi dai zong shi)**
-
-Tue 20 Jul 18:00; Thu 22 Jul 20:50;  
-Mon 26 Jul 20:50
-
-**The Hand (Extended Cut)**
-
-Thu 22 Jul 18:30; Fri 30 Jul 18:20
-
-**My Blueberry Nights**
-
-Fri 23 Jul 20:50; Wed 28 Jul 20:40
-
-Presented in partnership with Janus Films  
-and the ICA
+Presented in partnership with Janus Films  <br>
+and the ICA<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDI2NDQwNl19
+eyJoaXN0b3J5IjpbLTE5OTE0NDMxNjRdfQ==
 -->
