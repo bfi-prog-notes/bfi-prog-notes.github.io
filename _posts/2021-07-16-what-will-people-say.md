@@ -49,61 +49,50 @@ Iram Haq is an actress, writer and director. She made and starred in her directo
 
 **The Long Goodbye**  
 The real nightmare of never being British enough unfolds in this short film starring Riz Ahmed.
-<br>
+<br><br>
 
 
-**The Long Goodbye**
-
-_Director:_ Aneil Karia
-
-UK 2020
-
+**THE LONG GOODBYE**  
+_Director:_ Aneil Karia<br>
+UK 2020<br>
 12 mins
 
-**What Will People Say (Hva vil folk si)**
+**WHAT WILL PEOPLE SAY (HVA VIL FOLK SI)**<br>
+_Director:_ Iram Haq<br>
+_Producer:_ Maria Ekerhovd<br>
+_Co-producers:_ Karsten Stöter, Lizette Jonjic, Madeleine Ekman<br>
+_Written by:_ Iram Haq<br>
+_Cinematographer:_ Nadim Carlsen<br>
+_Editors:_ Janus Billeskov Jansen, Anne Østerud _Production Designers:_ Ann Kristin Talleraas,  Vintee Bansal<br>
+_Music:_ Martin Pedersen, Lorenz Dange<br>
 
-_Director:_ Iram Haq
+_Sound:_ Tormod Ringnes<br>
 
-_Producer:_ Maria Ekerhovd
+_Cast:_<br>
 
-_Co-producers:_ Karsten Stöter, Lizette Jonjic, Madeleine Ekman
+Maria Mozhdah _(Nisha)_<br>
 
-_Written by:_ Iram Haq
+Adil Hussain _(Mirza)_<br>
 
-_Cinematographer:_ Nadim Carlsen
+Rohit Saraf _(Amir)_<br>
 
-_Editors:_ Janus Billeskov Jansen, Anne Østerud _Production Designers:_ Ann Kristin Talleraas,  
-Vintee Bansal
+Ekavali Khanna _(mother)_<br>
 
-_Music:_ Martin Pedersen, Lorenz Dange
+Ali Arfan _(Asif)_<br>
 
-_Sound:_ Tormod Ringnes
+Sheeba Chaddha _(aunt)_<br>
 
-_Cast:_
+Lalit Parimoo _(uncle)_<br>
 
-Maria Mozhdah _(Nisha)_
+Jannat Zubair Rehmani _(Salima)_<br>
 
-Adil Hussain _(Mirza)_
+Isak Lie Harr _(Daniel)_<br>
 
-Rohit Saraf _(Amir)_
+Nokokure Dah _(Emily)_<br>
 
-Ekavali Khanna _(mother)_
-
-Ali Arfan _(Asif)_
-
-Sheeba Chaddha _(aunt)_
-
-Lalit Parimoo _(uncle)_
-
-Jannat Zubair Rehmani _(Salima)_
-
-Isak Lie Harr _(Daniel)_
-
-Nokokure Dah _(Emily)_
-
-Norway/Germany/Sweden/France/Denmark 2017
+Norway/Germany/Sweden/France/Denmark 2017<br>
 
 106 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTAwODk2OThdfQ==
+eyJoaXN0b3J5IjpbODYzNzQzOTI0XX0=
 -->
