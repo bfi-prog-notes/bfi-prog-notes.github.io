@@ -50,15 +50,14 @@ _Director of Photography_: Fred Murphy
 _Editor_: Suzanne Pettit  
 _Associate Editor_: Katherine Wenning  
 _Art Director_: Patrizia von Brandenstein  
-_Costumes_: Bonnie Daziel,  
-Jody Coy-Cooper, Susan Becker  
+_Costumes_: Bonnie Daziel,  Jody Coy-Cooper, Susan Becker  
 _Title Design_: Dan Perri  
 _Music_: Michael Small  
 _Sound Recording_: Maryte Kavaliauskas  
 _Sound Re-recording_: Lee Dichter  
 _Sound Editors_: Ed Rothkowitz, Hanna Wajshonig, Emily Paine
 
-_Cast:_  
+**Cast**  
 Melanie Mayron _(Susan Weinblatt)_  
 Anita Skinner _(Anne Munroe)_  
 Eli Wallach _(Rabbi Gold)_  
@@ -67,8 +66,7 @@ Bob Balaban _(Martin)_
 Gina Rogak _(Julie)_  
 Amy Wright _(Ceil)_  
 Viveca Lindfors _(Beatrice)_  
-Mike Kellin _(Abe)_
-
+Mike Kellin _(Abe)_  
 Adam Cohen _(bar mitzvah boy)_  
 Jean De Baer _(Terry)_  
 Nancy Mette _(Denise)_  
@@ -85,11 +83,12 @@ Kristoffer Tabori _(Charlie)_
 Stacey Lomoe-Smith _(Rebecca)_  
 Norma Mayron _(Mrs Weinblatt)_
 
-USA 1978
-
+USA 1978  
 88 mins
 
 A Park Circus release
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3NjI3MDE5XX0=
+eyJoaXN0b3J5IjpbNjI4MjQ2NzgzXX0=
 -->
