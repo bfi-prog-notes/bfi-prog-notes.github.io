@@ -7,7 +7,7 @@ readtime: true
 categories: ['WORLD OF WONG KAR WAI']
 tags: [Action, Drama]
 metadata: 'Hong Kong, 2008, 93 mins<br> Director: Wong Kar Wai'
-pdf: '2021-07-10-ashes-of-time.pdf'
+pdf: '2021-07-10-ashes-of-time-redux.pdf'
 ---
 
 In all its reincarnations between 1994 and today, Wong Kar Wai’s martial-arts genre-project _Ashes of Time_, a tale of soured love and swordsmen, has always been a film about change, and the trials and hold of memory, so it’s fitting that its own history eludes easy grasp. The print I saw at London’s ICA in the late 1990s seemed in poor condition and was edited in a deliberately confusing fashion. Whereas _Chungking Express_, made the same year, was a hip, lurching glide through present-day big-city anomie, _Ashes_ was compelling largely because on first viewing it seemed so indifferent to making sense or even relying on chic allure. It was baffling to those unfamiliar with the source material.
