@@ -43,33 +43,22 @@ _Edited by_: William Chang Suk Ping, Patrick Tam
 _Editors (Hong Kong Production Crew)_: Hai Kit Wai, Kong Chi Leung  
 _Production Design by_: William Chang Suk Ping  
 _Art Director (Hong Kong Production Crew)_:
-
 Alfred Yau Wai Ming  
 _Art Director (Beijing Production Crew)_: Yang Zhanjia  
-_Props Master (HK Production Crew)_:
-
-Tam Wing Cheong  
+_Props Master (HK Production Crew)_: Tam Wing Cheong  
 _Wardrobe_: Luk Ha Fong  
-_Make-up Artists (HK Production Crew)_:
-
-Poon Man Wah, Or Mei Wah, Kwan Li Na  
-_Make-up Artists (Beijing Prod’n Crew)_:
-
-Liu Changzheng, Wang Wanbin, Zhang Jiangzhong  
-_Hairstylists (Hong Kong Production Crew)_:
-
-Lee Lin Tai, Wu Yuk Ho, Lee Po Lin  
+_Make-up Artists (HK Production Crew)_: Poon Man Wah, Or Mei Wah, Kwan Li Na  
+_Make-up Artists (Beijing Prod’n Crew)_: Liu Changzheng, Wang Wanbin, Zhang Jiangzhong  
+_Hairstylists (Hong Kong Production Crew)_: Lee Lin Tai, Wu Yuk Ho, Lee Po Lin  
 _Music by_: Frankie Chan, Roel A. Garcia  
 _Additional Score/Re-arrangement by_: Wu Tong  
 _Featured Cello Solos by_: Yo-Yo Ma  
 _Production Sound Mixers (HK Production Crew)_: Leung Tat, Leung Lik Chi  
 _Production Sound Mixer (Beijing Production Crew)_: Zhang Baojian  
-_Boom Operators (Beijing Production Crew)_:
+_Boom Operators (Beijing Production Crew)_: Zhang Tianxiang, Guang Weijun  
+_Action Choregrapher_: Sammo Hung <br>
 
-Zhang Tianxiang, Guang Weijun  
-_Action Choregrapher_: Sammo Hung
-
-_Cast:_  
+**Cast**
 Leslie Cheung _(Ouyang Feng)_  
 Brigitte Lin _(Murong Yin/Murong Yang)_  
 Tony Leung Chiu-wai _(blind swordsman)_  
@@ -81,47 +70,28 @@ Maggie Cheung _(brother’s wife)_
 Collin Chou _(swordsman)_  
 Bai Li _(Hong Qi’s wife)_
 
-Hong Kong 2008  93 mins
+Hong Kong 2008<br>
+ 93 mins
 
-_With a pre-recorded introduction by season programmer Ann Lee (Sat 10 July only)_
+_With a pre-recorded introduction by season programmer Ann Lee (Sat 10 July only)_<br>
 
-WORLD OF WONG KAR WAI
-
+**WORLD OF WONG KAR WAI**
 **As Tears Go By (****Wong Gok ka moon)**
-
-Wed 7 Jul 14:30; Sat 17 Jul 20:30;  
-Mon 19 Jul 20:45
-
+Wed 7 Jul 14:30; Sat 17 Jul 20:30;  Mon 19 Jul 20:45
 **Days of Being Wild (Ah Fei jing juen)**
-
-Thu 8 Jul 20:50 (+ pre-recorded intro by season programmer Ann Lee); Mon 12 Jul 14:30;  
-Mon 19 Jul 18:00
-
+Thu 8 Jul 20:50 (+ pre-recorded intro by season programmer Ann Lee); Mon 12 Jul 14:30;  Mon 19 Jul 18:00
 **Fallen Angels (Do lok tin si)**
-
 Fri 9 Jul 20:50; Tue 13 Jul 21:00; Wed 14 Jul 14:30; Sun 25 Jul 18:30
-
 **Ashes of Time Redux (Dung che sai duk)**
-
 Sat 10 Jul 11:20 (+ pre-recorded intro by season programmer Ann Lee); Wed 21 Jul 20:45;  
 Fri 30 Jul 20:45
-
 **Chungking Express (Chung Hing sam lam)**
-
-Sat 10 Jul 18:15; Mon 12 Jul 20:50;  
-Tue 20 Jul 20:45; Thu 29 Jul 14:30
-
+Sat 10 Jul 18:15; Mon 12 Jul 20:50;  Tue 20 Jul 20:45; Thu 29 Jul 14:30
 **Happy Together (Chun gwong cha sit)**
-
 Sun 11 Jul 15:40; Fri 16 Jul 14:30; Fri 23 Jul 18:10
-
 **In the Mood for Love (Fa yeung nin wah)**
-
-Wed 14 Jul 20:45; Sat 17 Jul 13:30;  
-Wed 21 Jul 14:30; Thu 29 Jul 20:45
-
+Wed 14 Jul 20:45; Sat 17 Jul 13:30;  Wed 21 Jul 14:30; Thu 29 Jul 20:45
 **2046**
-
 Thu 15 Jul 20:20; Sat 17 Jul 16:10; Sat 31 Jul 14:30
 
 **The Grandmaster (Yi dai zong shi)**
@@ -140,5 +110,5 @@ Fri 23 Jul 20:50; Wed 28 Jul 20:40
 Presented in partnership with Janus Films  
 and the ICA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTQ4NDMxMl19
+eyJoaXN0b3J5IjpbMTE0NDI2NDQwNl19
 -->
