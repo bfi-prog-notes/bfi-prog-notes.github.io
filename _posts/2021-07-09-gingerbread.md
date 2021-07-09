@@ -1,6 +1,17 @@
+---
+layout: post
+title: The Gingerbread Man
+published: true
+date: 2021-07-09
+readtime: true
+categories: ['ROBERT ALTMAN - AMERICAN OUTSIDER']
+tags: [Thriller, Crime]
+metadata: 'USA 1997, 114 mins<br> Director: Robert Altman'
+pdf: '2021-07-09-gingerbread-man.pdf'
+---
+
 **A contemporary review**<br>
-John Grisham is a true publishing phenomenon and Hollywood has been eager to turn his stories into movies, especially after the massive success of Sydney Pollack’s version of _The Firm_ in 1993. Since then there have been: _The Pelican Brief_ (Alan J. Pakula, 1993), _The Client_ (Joel Schumacher, 1994), _A Time to Kill_ (Joel Schumacher, 1996), _The Chamber_ (James Foley, 1996) _John Grisham’s The Rainmaker_ (Francis Ford Coppola, 1997) as well as a TV series based on _The Client_. Although a version of _The Runaway Jury_ (to be directed by _auteur manqué_ Philip Kaufman) is promised, the last so far is _The Gingerbread Man_.  In it Kenneth Branagh plays Rick Magruder, a successful lawyer who gets involved in the problems of a young woman who is being stalked by her father, a religious fanatic. Things escalate when the father escapes from the asylum where Magruder had had him committed and then threatens the lawyer and his children. If one throws in the inevitable chases, rescues, murders, courtroom manoeuvring and such, this will not seem very different from the other ﬁlms mentioned above. All in fact are reasonably faithful adaptations, with Coppola’s clearly being the most effective and Schumacher’s the shoddiest, but  
-_The Gingerbread Man_ stands out in many ways, not least because it is not strictly canon.
+John Grisham is a true publishing phenomenon and Hollywood has been eager to turn his stories into movies, especially after the massive success of Sydney Pollack’s version of _The Firm_ in 1993. Since then there have been: _The Pelican Brief_ (Alan J. Pakula, 1993), _The Client_ (Joel Schumacher, 1994), _A Time to Kill_ (Joel Schumacher, 1996), _The Chamber_ (James Foley, 1996) _John Grisham’s The Rainmaker_ (Francis Ford Coppola, 1997) as well as a TV series based on _The Client_. Although a version of _The Runaway Jury_ (to be directed by _auteur manqué_ Philip Kaufman) is promised, the last so far is _The Gingerbread Man_.  In it Kenneth Branagh plays Rick Magruder, a successful lawyer who gets involved in the problems of a young woman who is being stalked by her father, a religious fanatic. Things escalate when the father escapes from the asylum where Magruder had had him committed and then threatens the lawyer and his children. If one throws in the inevitable chases, rescues, murders, courtroom manoeuvring and such, this will not seem very different from the other ﬁlms mentioned above. All in fact are reasonably faithful adaptations, with Coppola’s clearly being the most effective and Schumacher’s the shoddiest, but _The Gingerbread Man_ stands out in many ways, not least because it is not strictly canon.
 
 Robert Altman’s 1997 ﬁlm is in fact not taken from a novel but is based on an original screenplay that Grisham had written many years previously. Although its protagonist is a lawyer, as with all his books, this story is actually closer in feeling to _ﬁlm noir_ with its dark atmosphere (literally and metaphorically-speaking) and with a _femme fatale_ ably manipulating the hero, and it relies less on courtroom procedure for its plot twists and turns. It is however also hard to know how much of this is Grisham’s doing as, by the time the ﬁlm was released, his screenplay credit had been reduced to merely one for ‘original story’. When speaking with _Entertainment Weekly_ Robert Altman stated that he had never even talked to Grisham ‘..or met him. I wouldn’t know him if he fell in my soup’. Indeed, the production itself was beset with problems and setbacks almost as tortuous as the ﬁlm’s plot.
 
@@ -15,11 +26,9 @@ While Altman’s adaptation of Chandler’s classic _The Long Goodbye_ is an ext
 Though obviously an uneasy alliance, the ﬁlm provides enough of Grisham’s plotting and Altman’s trademark skill with actors and assured style to provide a ﬁlm that is both entertaining on a purely narrative level and altogether more satisfying on an aesthetic and emotional one.<br>
 **Sergio Angelini**<br>
 <br>
-**The Gingerbread Man**<br>
+**THE GINGERBREAD MAN**<br>
 _Director_: Robert Altman  
-_Production Companies_: Island Pictures,  
-Enchanter Entertainment,  
-PolyGram Filmed Entertainment  
+_Production Companies_: Island Pictures, Enchanter Entertainment, PolyGram Filmed Entertainment  
 _Production Company_: Gingerbread Productions *  
 _Executive Producers_: Mark Burg, Glen A. Tobias, Todd Baker  
 _Producer_: Jeremy Tannenbaum  
@@ -107,8 +116,7 @@ Natalie Hendrix, Gregg Jarrett, Doug Weathers _(television anchorpersons)_
 Jeremy Cooper, Beth Eckard, Brad Huffines,  
 Patrick Prokop, Mike Manhattan,  David Jordan,  
 George Lyndel Brannen, Gregory F. Pallone,  
-Alice Stewart, Vanessa Young  
-_(television field reporters)_  
+Alice Stewart, Vanessa Young  _(television field reporters)_  
 Alyson E. Beasley, Angela Beasley _(puppeteers)_  
 Scott Troughton _(dredge worker)_  
 Grace Tootle _(gas station attendant)_  
@@ -119,6 +127,57 @@ USA 1997<br>
 114 mins<br>
 
 \* Uncredited
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDM5NTUwNV19
--->
+<br><br>
+
+
+**ROBERT ALTMAN: AMERICAN OUTSIDER**  
+
+**The Gingerbread Man**  
+Fri 9 Jul 20:40; Sat 17 Jul 17:50  
+**Dr T & The Women**  
+Sat 10 Jul 15:00; Mon 26 Jul 20:30  
+**Gosford Park**  
+ Sun 11 Jul 15:20; Sun 18 Jul 18:20; Fri 23 Jul 14:30  
+**The Player**  
+Mon 12 Jul 17:45; Wed 28 Jul 20:30  
+**The Company**  
+Tue 13 Jul 17:50; Sat 31 Jul 11:50  
+**Vincent and Theo**  
+Tue 13 Jul 20:30  
+**Kansas City**  
+Thu 15 Jul 17:40  
+**Short Cuts**  
+Sat 17 Jul 19:30  
+**Prêt-à-porter**   
+Mon 19 Jul 17:40  
+**A Prairie Home Companion**  
+Sun 25 Jul 12:00; Sat 31 Jul 17:50  
+**Cookie’s Fortune**  
+Tue 27 Jul 17:40  
+<br>
+**Promotional partners**  
+<img style="float: left;" src="/img/partner/yeastie-boys-logo.png" alt="Yeastie Boys" title="Yeastie Boys">
+<br><br><br><br><br><br><br><br>
+**A deliciously irreverent brewing company**  
+
+<img style="float: left;" src="/img/partner/scala-radio-logo.png" alt="Scala Radio" title="Scala Radio">
+<br><br><br><br><br><br><br><br><br><br>
+**planetradio.co.uk/scala-radio**  
+<br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
