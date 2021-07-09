@@ -9,7 +9,7 @@ Despite its sharp, lightly satirical snapshot of a scruffy, smoky, broke-ass art
 
 The great problem is that the films cost so much now; in America it’s almost impossible to make a good film – which means you have to spend a certain amount of time on it, and have good technicians and good actors – that aren’t very, very expensive. This film that Claudia Weill did, I think she did on an amateur basis; she shot it for about a year, two or three days a week.  
 Of course she had a great advantage, because she had all the time she needed to think about it, to see what she had done. I thought she made the film extremely well.  
-**Extract from interview by Vicente Molina Foix in 1980, compiled by Nick Wrigley, bfi.org.uk, October 2013*
+**Extract from interview by Vicente Molina Foix in 1980, compiled by Nick Wrigley, bfi.org.uk, October 2013**
 
 **Allison Anders:** I’ll never forget seeing Claudia’s timeless, incredible movie in the theatres in 1978. It was the first time I had ever seen a female friendship presented in all its complexity: warmth, humour, sisterhood, competition, jealousy, longing, rage and absolute acceptance and trust. The fact that a woman had written and directed it was not lost on me: Claudia became a role model. A beacon.
 
@@ -19,8 +19,7 @@ Melanie Mayron and Anita Skinner are so beautifully cast as roommates Susan (a p
 
 Susan’s face, when she smiles, is filled with such sheer joy it makes me actually smile back.
 
-Painting the red wall by herself. The way time jumps and then stalls.  
-When Susan goes to see the rabbi for what she thinks is an afternoon fling, she takes off her glasses. Then when he can’t do it because his family is there, she hustles out of his office. Crying, she re-puts on her glasses.
+Painting the red wall by herself. The way time jumps and then stalls.  When Susan goes to see the rabbi for what she thinks is an afternoon fling, she takes off her glasses. Then when he can’t do it because his family is there, she hustles out of his office. Crying, she re-puts on her glasses.
 
 How success doesn’t come all at once, it’s in fits and starts: ‘I’ll never do another bar mitzvah or wedding!’ Susan says. Later, of course, she photographs another wedding.
 
@@ -30,36 +29,21 @@ The two gallerists both wearing never-explained neck braces. When you’re young
 
 The amount of time we get to be alone with our heroine.
 
-The last shot, when Anne’s husband comes home. Even though she’s sitting there making fun of him with her old friend, she still gets up and leaves Susan alone when he calls her name.
+The last shot, when Anne’s husband comes home. Even though she’s sitting there making fun of him with her old friend, she still gets up and leaves Susan alone when he calls her name.  
+**_Sight & Sound_, October 2015**
+<br><br>
 
-_Sight & Sound_, October 2015
 
-<![endif]-->
-
-**Girlfriends**
-
+**GIRLFRIENDS**  
 _Director_: Claudia Weill  
-_Production Companies_: Claudia Weill,
-
-New York State Council on the Arts,
-
-National Endowment for the Arts,
-
-Creative Artist Programs Service,
-
-American Film Institute  
+_Production Companies_: Claudia Weill, New York State Council on the Arts, National Endowment for the Arts, Creative Artist Programs Service, American Film Institute  
 _Producers_: Claudia Weill, Jan Saunders  
 _Associate Producers_: Pat Churchill, Lilly Kilvert  
 _Unit Manager_: Monty Diamond  
 _Production Manager_: Jan Saunders  
 _Production Co-ordinator_: Shelley Houis  
-_Production Assistants_: Caila Abedon, Artie Agin, Carl Baldasso, Doug Block, Howard Gladstone, Susan Hathaway, Andrea Kirsch, Chi Lee,  
-Barbara Lewis, Chris Rodin, Carol Ritter,
-
-Barry Strugatz, Tina Valensky, Cat Walker,  
-Patricia Weill  
-_Assistant Director_: David Streit
-
+_Production Assistants_: Caila Abedon, Artie Agin, Carl Baldasso, Doug Block, Howard Gladstone, Susan Hathaway, Andrea Kirsch, Chi Lee,  Barbara Lewis, Chris Rodin, Carol Ritter, Barry Strugatz, Tina Valensky, Cat Walker, Patricia Weill  
+_Assistant Director_: David Streit  
 _Written by_: Vicki Polon  
 _Original Story_: Claudia Weill, Vicki Polon  
 _Director of Photography_: Fred Murphy  
@@ -107,5 +91,5 @@ USA 1978
 
 A Park Circus release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5NTYyNTkwXX0=
+eyJoaXN0b3J5IjpbOTQ3NjI3MDE5XX0=
 -->
