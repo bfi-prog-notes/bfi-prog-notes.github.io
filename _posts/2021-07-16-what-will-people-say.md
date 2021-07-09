@@ -65,34 +65,25 @@ _Written by:_ Iram Haq<br>
 _Cinematographer:_ Nadim Carlsen<br>
 _Editors:_ Janus Billeskov Jansen, Anne Østerud _Production Designers:_ Ann Kristin Talleraas,  Vintee Bansal<br>
 _Music:_ Martin Pedersen, Lorenz Dange<br>
-
 _Sound:_ Tormod Ringnes<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Maria Mozhdah _(Nisha)_<br>
-
 Adil Hussain _(Mirza)_<br>
-
 Rohit Saraf _(Amir)_<br>
-
 Ekavali Khanna _(mother)_<br>
-
 Ali Arfan _(Asif)_<br>
-
 Sheeba Chaddha _(aunt)_<br>
-
 Lalit Parimoo _(uncle)_<br>
-
 Jannat Zubair Rehmani _(Salima)_<br>
-
 Isak Lie Harr _(Daniel)_<br>
-
 Nokokure Dah _(Emily)_<br>
 
 Norway/Germany/Sweden/France/Denmark 2017<br>
-
 106 mins
+<br><br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNzQzOTI0XX0=
+eyJoaXN0b3J5IjpbLTExOTc1ODY3MzZdfQ==
 -->
