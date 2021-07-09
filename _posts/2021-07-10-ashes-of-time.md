@@ -100,8 +100,8 @@ Thu 22 Jul 18:30; Fri 30 Jul 18:20<br>
 **My Blueberry Nights**<br>
 Fri 23 Jul 20:50; Wed 28 Jul 20:40<br>
 
-Presented in partnership with Janus Films  <br>
+Presented in partnership with Janus Films 
 and the ICA<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE0NDMxNjRdfQ==
+eyJoaXN0b3J5IjpbMTUyMjQyMDIyOF19
 -->
