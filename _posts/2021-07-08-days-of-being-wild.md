@@ -44,7 +44,7 @@ _Production Manager:_ Jacky Pang Yee-Wah
 _Assistant Production Manager:_ Candy Leung Fung-Ying  
 _Post-production Manager:_ Siu Wing  
 _Production Assistant:_ Rocky Tang  
-_Assistant Directors:_ Rosanna Ng Wai-San,Johnny Kong Yeuk-Shing  
+_Assistant Directors:_ Rosanna Ng Wai-San, Johnny Kong Yeuk-Shing  
 _Continuity:_ Wong Wai-Hung, Chan Bo-Shun  
 _Director of Photography:_ Christopher Doyle  
 _2nd Unit Photographers:_ Ngai Chi-Kwan, Lau Wai-Keung  
@@ -113,7 +113,8 @@ Thu 15 Jul 20:20; Sat 17 Jul 16:10; Sat 31 Jul 14:30<br>
 Tue 20 Jul 18:00; Thu 22 Jul 20:50;  Mon 26 Jul 20:50<br>
 **The Hand (Extended Cut)**<br>
 Thu 22 Jul 18:30; Fri 30 Jul 18:20<br>
-**My Blueberry Nights**Fri 23 Jul 20:50; Wed 28 Jul 20:40<br>
+**My Blueberry Nights**<br>
+Fri 23 Jul 20:50; Wed 28 Jul 20:40<br>
 
 
 **Media partner**<br>
@@ -137,5 +138,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1OTQ3NzQ2LC0xNDIxOTY4MTQ0XX0=
+eyJoaXN0b3J5IjpbLTQ1MDU2NjA4MCw4MTU5NDc3NDYsLTE0Mj
+E5NjgxNDRdfQ==
 -->
