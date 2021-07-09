@@ -30,28 +30,22 @@ _Do you see the film’s characters as having the same kind of symbolic dimensio
 
 _Days of Being Wild_ centres on various feelings about staying in or leaving Hong Kong. That’s less of an issue now that we’re so close to 1997. _Chungking Express_ is more about the way people feel now. In _Days_, the characters are not happy with their solitude; it’s the same with the characters in _Ashes of Time_. The people in _Chungking Express_ know how to entertain themselves, even if it’s just by talking to a bar of soap. They know how to live in a city.  
 **Wong Kar Wai interviewed by Tony Rayns, _Sight and Sound_, September 1995**
+<br><br>
 
 
-
-**Chungking Express (Chung Hing sam lam)**
-
+**CHUNGKING EXPRESS (CHUNG HING SAM LAM)**  
 _Director:_ Wong Kar Wai  
 _Production Company:_ Jet Tone Production  
 _Executive Producer:_ Chan Pui-Wah  
 _Producer:_ Chan Yi-Kan  
-_Production Supervisors:_ Jacky Pang,  
-Jiang Yuecheng  
+_Production Supervisors:_ Jacky Pang,  Jiang Yuecheng  
 _Production Manager:_ Jacky Pang  
 _Post-production Supervisor:_ Xiao Rong  
-_Assistant Directors:_ Jiang Yuecheng,  
-Zeng Shaoting  
+_Assistant Directors:_ Jiang Yuecheng,  Zeng Shaoting  
 _Screenplay:_ Wong Kar Wai  
-_Directors of Photography:_ Christopher Doyle,
-
-Andrew Lau Wai-Keung  
+_Directors of Photography:_ Christopher Doyle, Andrew Lau Wai-Keung  
 _2nd Unit Photographer:_ Chen Guanghong  
-_Stills Photography:_  
-‘Piggy’ Chan [Chen Jinquan]  
+_Stills Photography:_  ‘Piggy’ Chan [Chen Jinquan]  
 _Visual Effects:_ Cheng Xiaolong  
 _Special Effects:_ Ding Yunda, Deng Weijue  
 _Editors:_ William Chang, Hai Kit-Wai  
@@ -61,27 +55,24 @@ _Costume Designer:_ Yao Huiming
 _Make-up:_ Guan Lina  
 _Hairstylists:_ Wu Yuhao, Li Zhenglin  
 _Music:_ Frankie Chan Fan-Kei, Roel A. Garcia  
-_Sound Recording:_ Liang Da, Liang Lizhi,
+_Sound Recording:_ Liang Da, Liang Lizhi, Chen Weixiong  
 
-Chen Weixiong  
-_Cast:_
-
+**Cast**  
 Brigitte Lin Ching-Hsia _(the drug dealer)_  
 Takeshi Kaneshiro _(He Qiwu, Cop 223)_  
 Tony Leung Chiu-Wai _(Cop 663)_  
 Faye Wong Ching-Man _(Faye)_  
 Valerie Chow _(air hostess)_  
-Chen Jinquan  
-_(manager of ‘Midnight Express’)_  
+Chen Jinquan  _(manager of ‘Midnight Express’)_  
 Guan Lina _(Richard)_  
 Huang Zhiming _(man)_  
 Liang Zhen  
 Zuo Songshen  
-Hong Kong 1994
 
+Hong Kong 1994  
 102 mins
 
 This 4K digital restoration was undertaken from the 35mm original camera negative by the Criterion Collection in collaboration with L’Immagine Ritrovata, Jet Tone, One Cool, and 3H Sound Studio. It was supervised and approved by Wong Kar Wai.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDQ1OTQ3MV19
+eyJoaXN0b3J5IjpbLTQyNzE1ODc2N119
 -->
