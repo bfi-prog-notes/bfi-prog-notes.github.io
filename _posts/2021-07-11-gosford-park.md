@@ -46,19 +46,17 @@ _Production Co-ordinator_: Winnie Wishart
 _Production Accountant_: Alistair Thompson  
 _Location Manager_: Sue Quinn  
 _1st Assistant Director_: Richard Styles  
-_2nd Assistant Director_: Sara Desmond
+_2nd Assistant Director_: Sara Desmond  
 _3rd Assistant Director_: Carlos Fidel  
 _Director’s Assistant_: May Chu  
 _Script Supervisor_: Penny Eyles  
 _Casting_: Mary Selway  
 _Written by_: Julian Fellowes  
-_Based upon an idea by_: Robert Altman,  
-Bob Balaban  
+_Based upon an idea by_: Robert Altman,  Bob Balaban  
 _Director of Photography_: Andrew Dunn  
 _Camera Operator_: Peter Taylor  
 _Focus Pullers_: Brad Larner, Mikael Allen  
-_Clapper Loaders_: Paul Wheeldon,  
-Richard Sion Carroll  
+_Clapper Loaders_: Paul Wheeldon,  Richard Sion Carroll  
 _Gaffer_: Pat Grosswendt  
 _Grips_: Pat Garrett, Malcolm Huse  
 _Video Operator_: Stephen Lee  
@@ -85,36 +83,28 @@ _Costume Supervisor_: Clare Spragge
 _Chief Make-up Artist_: Sallie Jaye  
 _Make-up Artists_: Deborah Jarvis, Sharon Martin, Kate J. Thompson, Norma Webb  
 _Hair Designer_: Jan Archibald  
-_Hairdressers_: Anita Burger, Astrid Schikorra,
-
-Loulia Shepherd  
-_Titles/Opticals_: Cineimage, Steve Boag,  
-Martin Bullard, Matthew Symonds  
+_Hairdressers_: Anita Burger, Astrid Schikorra, Loulia Shepherd  
+_Titles/Opticals_: Cineimage, Steve Boag,  Martin Bullard, Matthew Symonds  
 _Music_: Patrick Doyle  
 _Music Conducted by_: James Shearman  
-_Music Orchestrated by_: Patrick Doyle,  
-James Shearman, Lawrence Ashmore  
+_Music Orchestrated by_: Patrick Doyle,  James Shearman, Lawrence Ashmore  
 _Sound Mixer_: Peter Glossop  
 _Boom Operators_: Shaun Mills, Benjamin Bober  
-_Re-recording Mixers_: Robin O’Donoghue,  
-Richard Street  
+_Re-recording Mixers_: Robin O’Donoghue,  Richard Street  
 _Supervising Sound Editor_: Nigel Mills  
 _Supervising Dialogue Editor_: Nina Hartstone  
 _Stunt Co-ordinator_: Dinny Powell  
 _Studio_: Shepperton Studios
 
-_Cast:_
-
-_Above Stairs_
-
+**Cast**  
+_Above Stairs_  
 Maggie Smith _(Constance Trentham)_  
 Michael Gambon _(William McCordle)_  
 Kristin Scott Thomas _(Sylvia McCordle)_  
 Camilla Rutherford _(Isobel McCordle)_  
 Charles Dance _(Raymond Stockbridge)_  
 Geraldine Somerville _(Louisa Stockbridge)_  
-Tom Hollander_  
-(Lieutenant Commander Anthony Meredith)_  
+Tom Hollander _(Lieutenant Commander Anthony Meredith)_  
 Natasha Wightman _(Lavinia Meredith)_  
 Jeremy Northam _(Ivor Novello)_  
 Bob Balaban _(Morris Weissman)_  
@@ -122,15 +112,13 @@ James Wilby _(Freddie Nesbitt)_
 Claudie Blakley _(Mabel Nesbitt)_  
 Laurence Fox _(Rupert Standish)_  
 Trent Ford _(Jeremy Blond)_  
-Ryan Phillippe _(Henry Denton)_
+Ryan Phillippe _(Henry Denton)_  
 
-_Visitors_
-
+_Visitors_  
 Stephen Fry _(Inspector Thompson)_  
 Ron Webster _(Constable Dexter)_
 
-_Below Stairs_
-
+_Below Stairs_  
 Kelly Macdonald _(Mary MacEachran)_  
 Clive Owen _(Robert Parks)_  
 Helen Mirren _(Mrs Wilson)_  
@@ -159,14 +147,12 @@ John Atterbury _(Merriman)_
 Frank Thornton _(Mr Burkett)_  
 Ron Puttock _(Strutt)_  
 Adrian Preater _(McCordle’s loader)_  
-John Cox, Ken Davies, Tony Davies,  
-Steve Markham, Terry Sturmey, Julian Such _(loaders)_  
+John Cox, Ken Davies, Tony Davies,  Steve Markham, Terry Sturmey, Julian Such _(loaders)_  
 Alan Bland, Peter Champion, Geoff Double, Robin Devereux, John Fountain, Richard Gamble, Brian Rumsey, George Sherman _(beaters)_  
 Widget _(Pip the dog)_
 
-UK/USA 2001©
-
+UK/USA 2001©  
 137 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzNzA1ODE5XX0=
+eyJoaXN0b3J5IjpbLTE2NjY0NTM2NzldfQ==
 -->
