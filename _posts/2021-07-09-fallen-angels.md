@@ -21,6 +21,57 @@ Unlike the idealistic, escapist dreaming of the _Chungking Express_ soundtrack, 
 
 Closing out the film is The Flying Pickets’ ‘Only You’, perhaps the only track to express hopefulness, as two lovelorn characters find a chance to escape from the film’s seemingly perpetual night.<br>
 **Kambole Campbell, bfi.org.uk, 20 February 2021**
+<br>
+**FALLEN ANGELS (DO l tin si)**<br>
+_Director:_ Wong Kar Wai  
+_Production Company:_ Jet Tone Production  
+_A Presentation by:_ Chan Ye-Cheng  
+_Executive Producer:_ Wong Kar Wai  
+_Producer:_ Jeff Lau Chun-Wai  
+_Line Producer/Production Manager:_ Jacky Pang Yee-Wah  
+_Associate Producer:_ Norman Law  
+_Excecutive Production Manager:_ Carly Wong  
+_Assistant Production Manager:_ Agnes Leung  
+_Assistant Director:_ Johnnie Kwong  
+_Screenplay:_ Wong Kar Wai  
+_Director of Photography:_ Christopher Doyle  
+_2nd Unit Camera:_ Mark Li P’ing-Pin, Joe Chan Gong-Hung  
+_Lighting:_ Wong Chi-Ming  
+_Lighting Assistants:_ Li Yahui, Guan Yongxiang  
+_2nd Unit Camera Assistants:_ He Baorong, Jeng Jingzhong  
+_Editors:_ William Chang Suk-Ping, Wong Ming-Lam  
+_Assistant Editor:_ Zeng Zewen  
+_Art Director:_ William Chang Suk-Ping  
+_Assistant Art Director:_ Wen Nianzhong  
+_Props:_ Tan Yongchang  
+_Wardrobe Assistant:_ Tian Zhibin  
+_Make-up:_ Kwan Lee-Na  
+_Hair:_ Wu Xuhao  
+_Music:_ Frankie Chan Fan-Kei, Roel A. Garcia  
+_African Vocal:_ Robison Randriaharimalala  
+_Sound Recording:_ Leung Tat  
+_Sound Mixer:_ Raymond Mak  
+_Assistant Sound Recording:_ Li Xingqiang  
+_Sound Effects:_ Ching Siu-Lung  
+_Stunt Co-ordinator:_ Poon Kin-Kwan  
+
+**Cast**<br>
+Leon Lai Ming _(Wong Chi-Ming, the killer)_  
+Michèle Reis _(the killer’s agent)_  
+Kaneshiro Takeshi _(He Zhiwu)_  
+Charlie Young _(Charlie Young)_  
+Karen Mok Man-Wai _(Baby)_  
+Chan Fai-Hung _(the man forced to eat ice-cream)_  
+Chen Wanlei _(He Zhiwu’s father)_  
+Toru Saito _(Sato, the sushi restaurant manager)_  
+Kong To-Hoi  _(Ah-Hoi, the killer’s childhood classmate)_  
+Kwan Lee-Na  _(the woman pressed to buy vegetables)_  
+Wu Yuk-Ho _(the man forced to have his clothes washed)_  
+
+Hong Kong 1995©<br>
+96 mins<br>
+
+This 4K digital restoration was undertaken from the 35mm original camera negative by the Criterion Collection in collaboration with L’Immagine Ritrovata, Jet Tone, and One Cool. It was supervised and approved by Wong Kar Wai.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc5MjAxMDhdfQ==
+eyJoaXN0b3J5IjpbMTk4OTUxMjc5OV19
 -->
