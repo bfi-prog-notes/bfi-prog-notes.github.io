@@ -7,8 +7,7 @@ Despite its sharp, lightly satirical snapshot of a scruffy, smoky, broke-ass art
 
 **Stanley Kubrick:** I think one of the most interesting Hollywood films, well not Hollywood – American films – that I’ve seen in a long time is Claudia Weill’s _Girlfriends_. That film, I thought, was one of the very rare American films that I would compare with the serious, intelligent, sensitive writing and filmmaking that you find in the best directors in Europe. It wasn’t a success, I don’t know why; it should have been. Certainly I thought it was a wonderful film. It seemed to make no compromise to the inner truth of the story, you know, the theme and everything else.
 
-The great problem is that the films cost so much now; in America it’s almost impossible to make a good film – which means you have to spend a certain amount of time on it, and have good technicians and good actors – that aren’t very, very expensive. This film that Claudia Weill did, I think she did on an amateur basis; she shot it for about a year, two or three days a week.  
-Of course she had a great advantage, because she had all the time she needed to think about it, to see what she had done. I thought she made the film extremely well.  
+The great problem is that the films cost so much now; in America it’s almost impossible to make a good film – which means you have to spend a certain amount of time on it, and have good technicians and good actors – that aren’t very, very expensive. This film that Claudia Weill did, I think she did on an amateur basis; she shot it for about a year, two or three days a week.  Of course she had a great advantage, because she had all the time she needed to think about it, to see what she had done. I thought she made the film extremely well.  
 **Extract from interview by Vicente Molina Foix in 1980, compiled by Nick Wrigley, bfi.org.uk, October 2013**
 
 **Allison Anders:** I’ll never forget seeing Claudia’s timeless, incredible movie in the theatres in 1978. It was the first time I had ever seen a female friendship presented in all its complexity: warmth, humour, sisterhood, competition, jealousy, longing, rage and absolute acceptance and trust. The fact that a woman had written and directed it was not lost on me: Claudia became a role model. A beacon.
@@ -97,6 +96,10 @@ A Park Circus release
 Available online from 10:00 Saturday 17 July**  
 Director Claudia Weill joins us to discuss her landmark 1978 _Girlfriends_, one of the first (and still one of the best) films to authentically portray the complexities of female friendship and life in your early 20s. The underrated classic is a true ‘godmother’ to _Girls_, _Frances Ha_, _Broad City_ and many other film and TV shows about young women trying to find their way.  
 Host: Anna Smith
+<br><br>
+
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNTg2MTY1MjBdfQ==
 -->
