@@ -1,3 +1,15 @@
+---
+layout: post
+title: Fallen Angels<br> (Do lok tin si)
+published: true
+date: 2021-07-09
+readtime: true
+categories: ['WORLD OF WONG KAR WAI']
+tags: [Drama, Crime, Romance]
+metadata: 'Hong Kong, 1995, 93 mins<br> Director: Wong Kar Wai'
+pdf: '2021-07-09-fallen-angels.pdf'
+---
+
 Initially developed as part of _Chungking Express_, _Fallen Angels_ shares a similar freewheeling spirit but it’s a much darker and moodier affair, exploring the nocturnal lives of assassins, femme fatales and mute ex-cons. Shot with frenetic verve by Wong’s frequent cinematographer Christopher Doyle, it’s a stylish drama laced with quirky humour that glimmers with the neon magic of Hong Kong at night.<br>
 **bfi.org.uk**<br>
 
@@ -20,7 +32,7 @@ his job.
 Unlike the idealistic, escapist dreaming of the _Chungking Express_ soundtrack, _Fallen Angels_ is more interested in ethereal pieces, such as Laurie Anderson’s ‘Speak My Language’, a moody track speaking of the living and the dead, which plays in full over abstract imagery. Along with Shirley Kwan’s ‘Wang Ji Ta’, these tracks emphasise the bleak circumstances of the characters, who seem more like spectres haunting the city than people with lives of their own.
 
 Closing out the film is The Flying Pickets’ ‘Only You’, perhaps the only track to express hopefulness, as two lovelorn characters find a chance to escape from the film’s seemingly perpetual night.<br>
-**Kambole Campbell, bfi.org.uk, 20 February 2021**
+**Kambole Campbell, bfi.org.uk, 20 February 2021**<br>
 <br>
 **FALLEN ANGELS (DO LOK TIN SI)**<br>
 _Director:_ Wong Kar Wai  
@@ -76,7 +88,7 @@ This 4K digital restoration was undertaken from the 35mm original camera negativ
 
 
 **WORLD OF WONG KAR WAI**<br>
-**As Tears Go By (****Wong Gok ka moon)**<br>
+**As Tears Go By (Wong Gok ka moon)**<br>
 Wed 7 Jul 14:30; Sat 17 Jul 20:30;  Mon 19 Jul 20:45<br>
 **Days of Being Wild (Ah Fei jing juen)**<br>
 Thu 8 Jul 20:50 (+ pre-recorded intro by season programmer Ann Lee); Mon 12 Jul 14:30;  Mon 19 Jul 18:00<br>
@@ -98,6 +110,24 @@ Tue 20 Jul 18:00; Thu 22 Jul 20:50;  Mon 26 Jul 20:50<br>
 Thu 22 Jul 18:30; Fri 30 Jul 18:20<br>
 **My Blueberry Nights**<br>
 Fri 23 Jul 20:50; Wed 28 Jul 20:40<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDAxMDUxXX0=
--->
+
+**Media partner**<br>
+<img style="float: left;" src="/img/F Far out Logo.png" width="40%" height="40%"><br>
+<br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
