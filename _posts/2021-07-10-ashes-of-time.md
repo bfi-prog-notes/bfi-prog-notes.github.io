@@ -1,4 +1,3 @@
-<![endif]-->
 
 In all its reincarnations between 1994 and today, Wong Kar Wai’s martial-arts genre-project _Ashes of Time_, a tale of soured love and swordsmen, has always been a film about change, and the trials and hold of memory, so it’s fitting that its own history eludes easy grasp. The print I saw at London’s ICA in the late 1990s seemed in poor condition and was edited in a deliberately confusing fashion. Whereas _Chungking Express_, made the same year, was a hip, lurching glide through present-day big-city anomie, _Ashes_ was compelling largely because on first viewing it seemed so indifferent to making sense or even relying on chic allure. It was baffling to those unfamiliar with the source material.
 
@@ -11,58 +10,37 @@ Gunplay in the frontier dust (so very American) is largely about the moral compl
 
 Huang, a capricious and selfish heartbreaker, comes between Peach Blossom and her husband, a near-blind swordsman, casting them both into desperate misery and rage. The narcissistic Murong Yin/Yang, a giggly princess unable to decide if she’s a boy or a girl, spends a night dreaming that Ouyang is Huang (whom she both loves and wants to kill), while Ouyang dreams she’s someone else; Yin/Yang both loves and wants to kill herself and ends up duelling with her water reflection in an explosive and bizarre fantasy sequence. The near-blind swordsman forces a kiss from a peasant girl who wants her brother’s death avenged, then frees himself from hurt by suicidally facing the brother’s killers, a seemingly endless sea of bandits. Hong Qi, a swordsman in search of glory, wants to shake off his wife, who pads after him with sunhat and wicker backpack, but finds deeper satisfaction and a sense of honour helping the peasant girl in return for a single egg. Ouyang’s bruised attempt to lose himself as a cynical mercenary is increasingly challenged. He gazes enviously after Hong Qi, who is now reconciled with his wife. Finally Ouyang intervenes in his own story as he informs Peach Blossom of her husband’s death and at last grasps the truth about the woman he loved. All of these micro-tales act as prisms through which Ouyang begins to see the dynamics of his own story, which we learn about only in the fifth and final season, the return of spring.
 
-All this could easily be exhaustingly overwrought – the women in particular act out a fair amount of mute, slow-motion agony. Two elements balance it out: the first is Cheung’s sardonic performance as Ouyang; the second is Christopher Doyle’s typically extraordinary camerawork, as the demands of capturing light in the desert push him outside his own, albeit extremely daring, comfort zone. The splash and glint of the fight scenes is mesmerising and the blurred-yet-detailed fluid-jerky style familiar in Doyle’s city-based films is a heart-stopping representation of time slowed during violent action, the simultaneous precision and distance of life-and-death decisions made during battle. The colour of remembered (or dreamt) peach blossom, when it arrives, is hallucinatory in its sharpness. When Franky Chan’s attempt to concoct a Morricone-style soundtrack is in danger of seeming pleadingly earnest, Doyle’s camera supplies exactly the right amount of whipcrack estrangement.  
-If Cheung seems impressively undemonstrative, despite the turbulence of his hidden emotions, the landscape is pitilessly indifferent. The backdrop of desert and eclipse may be pathetic fallacy, but their startling, confrontational beauty represents everything that Ouyang hides from: as he begins at last to face his feelings, he admits he has never really taken in the view.
+All this could easily be exhaustingly overwrought – the women in particular act out a fair amount of mute, slow-motion agony. Two elements balance it out: the first is Cheung’s sardonic performance as Ouyang; the second is Christopher Doyle’s typically extraordinary camerawork, as the demands of capturing light in the desert push him outside his own, albeit extremely daring, comfort zone. The splash and glint of the fight scenes is mesmerising and the blurred-yet-detailed fluid-jerky style familiar in Doyle’s city-based films is a heart-stopping representation of time slowed during violent action, the simultaneous precision and distance of life-and-death decisions made during battle. The colour of remembered (or dreamt) peach blossom, when it arrives, is hallucinatory in its sharpness. When Franky Chan’s attempt to concoct a Morricone-style soundtrack is in danger of seeming pleadingly earnest, Doyle’s camera supplies exactly the right amount of whipcrack estrangement.  If Cheung seems impressively undemonstrative, despite the turbulence of his hidden emotions, the landscape is pitilessly indifferent. The backdrop of desert and eclipse may be pathetic fallacy, but their startling, confrontational beauty represents everything that Ouyang hides from: as he begins at last to face his feelings, he admits he has never really taken in the view.
 
-_Ashes of Time_ isn’t about what happens onscreen, it’s about human disconnection; how we choose, for the sake of honour, love or greed, to avoid the physical present. The film’s style, its pacing and philosophy, place what hasn’t happened, offscreen, at the centre of the viewer’s awareness. This goes some way to explain the profusion of interrupted timelines in the original version, in which memory is a bewildering delirium of unintended schisms, of wounding breaks with reason and clarity. The simplifications of _Redux_ diminish this argument-by-edit. Now that we know less about Ouyang’s backstory, we may not twig how wrongheaded he is as a narrator or the extent to which his steady tone is an extended joke against himself. We may be left feeling that the visual aspects are more melodramatic surface trickery than emotional insight, but on the other hand the reduced demands on our memory (to make sense of the stories for ourselves) no longer distracts from much that remains extraordinary in this film.
+_Ashes of Time_ isn’t about what happens onscreen, it’s about human disconnection; how we choose, for the sake of honour, love or greed, to avoid the physical present. The film’s style, its pacing and philosophy, place what hasn’t happened, offscreen, at the centre of the viewer’s awareness. This goes some way to explain the profusion of interrupted timelines in the original version, in which memory is a bewildering delirium of unintended schisms, of wounding breaks with reason and clarity. The simplifications of _Redux_ diminish this argument-by-edit. Now that we know less about Ouyang’s backstory, we may not twig how wrongheaded he is as a narrator or the extent to which his steady tone is an extended joke against himself. We may be left feeling that the visual aspects are more melodramatic surface trickery than emotional insight, but on the other hand the reduced demands on our memory (to make sense of the stories for ourselves) no longer distracts from much that remains extraordinary in this film.<br>
+**Mark Sinker, _Sight & Sound_, October 2008**
+<br>
 
-Mark Sinker, _Sight & Sound_, October 2008
-<![endif]-->
-
-**Ashes of Time Redux (Dung che sai duk)**
-
+**Ashes of Time Redux (Dung che sai duk)**<br>
 _Directed by_: Wong Kar Wai  
-_Production Companies_: Scholar Films Co Ltd,
-
-Jet Tone Production, Beijing Film Studio  
-_In association with_:
-
-Tsui Siu Ming Productions Ltd., Pony Canyon  
+_Production Companies_: Scholar Films Co Ltd, Jet Tone Production, Beijing Film Studio  
+_In association with_: Tsui Siu Ming Productions Ltd., Pony Canyon  
 _Executive Producer_: Chan Ye Cheng  
 _Producer_: Tsai Mu-ho  
 _Producer (Beijing Production Crew)_: Cai Rubin  
 _Associate Producer (HK Production Crew)_: Shu Kei  
 _Chief Production Manager (HK Production Crew)_: Chan Pui Wah  
-_Production Accountant (Beijing Production Crew)_:
-
-Han Xiaojing  
-_Unit Managers (Beijing Production Crew)_:
-
-Shi Fangqun, Chen Hui, Ge Tianyuan, Qin Dawei  
+_Production Accountant (Beijing Production Crew)_: Han Xiaojing  
+_Unit Managers (Beijing Production Crew)_: Shi Fangqun, Chen Hui, Ge Tianyuan, Qin Dawei  
 _Unit Manager (HK Production Crew)_: Chan Keung  
-_Assistant Directors (HK Production Crew)_:
-
-Catherine Sie, Fanny Lee  
-_Assistant Directors (Beijing Production Crew)_:
-
-Li Shijiang, Huang Xiaoyun  
-_Continuity (Beijing Production Crew)_:
-
-Yang Yongguang, Tian Yulan  
+_Assistant Directors (HK Production Crew)_: Catherine Sie, Fanny Lee  
+_Assistant Directors (Beijing Production Crew)_: Li Shijiang, Huang Xiaoyun  
+_Continuity (Beijing Production Crew)_: Yang Yongguang, Tian Yulan  
 _Written by_: Wong Kar Wai  
 _Based on the story by_: Louis Cha  
 _Director of Photography_: Christopher Doyle  
 _2nd Unit Cameramen (HK Production Crew)_: Andrew Lau, Chan Yuen Kai  
 _Camera Assistant (Beijing Production Crew)_: Li Jiyu  
 _Gaffers (Beijing Production Crew)_: Zhao Shuping, Xu Desbeng  
-_Still Photographer (HK Production Crew)_:
-
-Lai Chi Hung  
+_Still Photographer (HK Production Crew)_: Lai Chi Hung  
 _Explosion FX Supervisors (Beijing Production Crew)_: Chen Jiakun, Huang Jianhua  
 _Edited by_: William Chang Suk Ping, Patrick Tam  
-_Editors (Hong Kong Production Crew)_:
-
-Hai Kit Wai, Kong Chi Leung  
+_Editors (Hong Kong Production Crew)_: Hai Kit Wai, Kong Chi Leung  
 _Production Design by_: William Chang Suk Ping  
 _Art Director (Hong Kong Production Crew)_:
 
@@ -162,5 +140,5 @@ Fri 23 Jul 20:50; Wed 28 Jul 20:40
 Presented in partnership with Janus Films  
 and the ICA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwMTc4NF19
+eyJoaXN0b3J5IjpbMTQxMTQ4NDMxMl19
 -->
