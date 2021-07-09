@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Man about Town
+published: true
+date: 2021-07-13
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Romance, Comedy, Period]
+metadata: 'France/USA, 1947, 100 mins<br> Director: René Clair'
+pdf: '2021-07-13-man-about-town.pdf'
+---
 
 René Clair excelled at clever filmmaking at a time when the film industry needed it most, during the transition to sound. He was also a thoughtful director who liked film history – liked looking backwards and forwards across the sweep of this relatively young art. Born in 1898, he lived through major transitions, from the heroic pioneer days to the coming of sound, and survived well into the age of television. He even predicted the demise of the cinema as he knew it: ‘Before cinema is 100 years old things will have changed completely – we are unable to know today what it will be.’ The digital revolution that is affecting cinema so profoundly was just beginning at its centenary  in 1995.
 
@@ -37,6 +47,52 @@ Roland Armontel _(Celestin)_
 
 France/USA 1947  
 100 mins
+<br><br>
+
+**BIG SCREEN CLASSICS**<br>
+**Battleship Potemkin (Bronenosets Potemkin)**<br>
+Thu 1 Jul 14:30; Thu 15 Jul 18:00; Sat 24 Jul 11:50<br>
+**Hope and Glory**<br>
+Thu 1 Jul 17:30; Mon 5 Jul 14:30; Fri 23 Jul 18:00<br>
+**Casablanca**<br>
+Fri 2 Jul 14:30; Sat 17 Jul 13:00; Sat 24 Jul 14:40; Thu 29 Jul 18:00<br>
+**All about My Mother (Todo sobre mi madre)**<br>
+Fri 2 Jul 20:40; Tue 6 Jul 20:45; Sat 10 Jul 21:00; Thu 22 Jul 14:30<br>
+**How Green Was My Valley**<br>
+Sat 3 Jul 11:30; Thu 8 Jul 14:15; Fri 16 Jul 17:50<br>
+**Wild Strawberries (Smultronstället)**<br>
+Sat 3 Jul 18:10; Mon 5 Jul 20:45; Sun 11 Jul 12:50; Wed 21 Jul 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Tue 27 Jul 14:30<br>
+**All the President’s Men**<br>
+Sun 4 Jul 11:50; Tue 20 Jul 14:15; Sat 31 Jul 20:20<br>
+**Rear Window**<br>
+Sun 4 Jul 15:40; Fri 9 Jul 14:30; Tue 20 Jul 17:50; Mon 26 Jul 18:00; Sat 31 Jul 11:10<br>
+**The Magnificent Ambersons**<br>
+Mon 5 Jul 20:50; Wed 14 Jul 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Sun 25 Jul 15:00<br>
+**Distant Voices, Still Lives**<br>
+Wed 7 Jul 18:00 (+ pre-recorded intro by film critic Thirza Wakefield); Sun 18 Jul 12:45; Mon 19 Jul 20:50; Fri 30 Jul 14:30<br>
+**35 Shots of Rum (35 Rhums)**<br>
+Mon 12 Jul 20:45; Wed 28 Jul 17:40 (+ pre-recorded intro by Be Manzini, poet and director of Caramel Film Club)<br>
+**Man About Town (Le Silence est d’or)**<br>
+Tue 13 Jul 14:15; Sun 18 Jul 12:30; Mon 26 Jul 14:20<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2OTQxNzcwNzZdfQ==
 -->
