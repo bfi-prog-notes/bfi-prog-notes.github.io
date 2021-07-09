@@ -25,51 +25,48 @@ The film is directed by Joel Crawford, who has worked on multiple DreamWorks Ani
 
 **THE CROODS: A NEW AGE**<br>
 _Director:_ Joel Crawford<br>
-
 _Production Companies:_ DreamWorks Animation<br>
-
 _Producer:_ Mark Swift<br>
-
-_Screenplay:_ Kevin Hageman, Dan Hageman,  
-Paul Fisher, Bob Logan<br>
-
+_Screenplay:_ Kevin Hageman, Dan Hageman,  Paul Fisher, Bob Logan<br>
 _Story:_ Kirk DeMicco, Chris Sanders<br>
-
 _Casting:_ Christi Soper<br>
-
 _Editor:_ James Ryan<br>
-
 _Production Designer:_ Nate Wragg<br>
-
 _Art Director:_ Peter Zaslav<br>
-
 _Music:_ Mark Mothersbaugh<br>
 
-_Voice Cast:_<br>
-
+**Voice Cast**<br>
 Nicolas Cage _(Grug)_<br>
-
 Emma Stone _(Eep)_<br>
-
 Ryan Reynolds _(Guy)_<br>
-
 Catherine Keener _(Ugga)_<br>
-
 Cloris Leachman _(Gran)_<br>
-
 Clark Duke _(Thunk)_<br>
-
 Leslie Mann _(Hope Betterman)_<br>
-
 Peter Dinklage _(Phil Betterman)_<br>
-
 Kelly Marie Tran _(Dawn Betterman)_<br>
 
 USA 2020<br>
-
 95 mins
 
 Courtesy of Universal
+<br><br>
+
+
+**BFI FAMILIES**<br>
+**Preview: The Croods: A New Age**<br>
+Sunday 11 Jul 12:00<br>
+**Pinocchio**<br>
+Sunday 25 Jul 11:50<br>
+**Ernest and Celestine**<br>
+Sat 1 Aug 12:00; Sat 7 Aug 15:10; Tue 31 Aug 14:15<br>
+**Earwig and the Witch**<br>
+Tue 3 – Tue 24 Aug<br>
+
+**The Watcher in the Woods**<br>
+
+Sun 22 Aug 13:00; Sun 29 Aug 12:40<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODk4MjEzNzFdfQ==
+eyJoaXN0b3J5IjpbLTgxNTI2MzY1XX0=
 -->
