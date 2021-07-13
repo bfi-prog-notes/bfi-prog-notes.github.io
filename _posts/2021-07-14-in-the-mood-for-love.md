@@ -98,20 +98,20 @@ Mon 12 Jul 20:50; Tue 20 Jul 20:45;  Thu 29 Jul 14:30<br>
 Wed 14 Jul 14:30; Sun 25 Jul 18:30<br>
 **In the Mood for Love (Fa yeung nin wah)**<br>
 Wed 14 Jul 20:45; Sat 17 Jul 13:30;  Wed 21 Jul 14:30; Thu 29 Jul 20:45<br>
-**2046**
-Thu 15 Jul 20:20; Sat 17 Jul 16:10; Sat 31 Jul 14:30
-**As Tears Go By (Wong Gok ka moon)**
-Sat 17 Jul 20:30; Mon 19 Jul 20:45
-**The Grandmaster (Yi dai zong shi)**
-Tue 20 Jul 18:00; Thu 22 Jul 20:50;  Mon 26 Jul 20:50
-**Ashes of Time Redux (Dung che sai duk)**
-Wed 21 Jul 20:45; Fri 30 Jul 20:45
-**The Hand (Extended Cut)**
-Thu 22 Jul 18:30; Fri 30 Jul 18:20
-**My Blueberry Nights**
-Fri 23 Jul 20:50; Wed 28 Jul 20:40
+**2046**<br>
+Thu 15 Jul 20:20; Sat 17 Jul 16:10; Sat 31 Jul 14:30<br>
+**As Tears Go By (Wong Gok ka moon)**<br>
+Sat 17 Jul 20:30; Mon 19 Jul 20:45<br>
+**The Grandmaster (Yi dai zong shi)**<br>
+Tue 20 Jul 18:00; Thu 22 Jul 20:50;  Mon 26 Jul 20:50<br>
+**Ashes of Time Redux (Dung che sai duk)**<br>
+Wed 21 Jul 20:45; Fri 30 Jul 20:45<br>
+**The Hand (Extended Cut)**<br>
+Thu 22 Jul 18:30; Fri 30 Jul 18:20<br>
+**My Blueberry Nights**<br>
+Fri 23 Jul 20:50; Wed 28 Jul 20:40<br>
 
 Presented in partnership with Janus Films and the ICA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjkzNDg1NzddfQ==
+eyJoaXN0b3J5IjpbMTcyNTQ0NzQ5MV19
 -->
