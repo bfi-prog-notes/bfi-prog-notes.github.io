@@ -30,33 +30,17 @@ However, she is far from being a conventional victim, given Lili Monori’s perf
 The film’s other triumph, appropriately enough for Ms Mészáros first essay in colour, is the golden, Breughelesque brilliance of the photography by János Kende, with its magnificent long shots of the misty landscapes of industrial Hungary. The style, fortunately, owes nothing to Jancsó (bar one intricately serpentine movement inside the house that reveals decorators in every room), but the eye for detail is as acute. As a result, this account of bleak loneliness contains a reassuring array of consolations.<br>
 **Philip Strick, _Monthly Film Bulletin_, November 1979**<br>
 <br>
-<![endif]-->
 
-**<![endif]-->
-
-**NINE MONTHS (KILENC HÓNAP)****
-
+**NINE MONTHS (KILENC HÓNAP)**
 _Director_: Márta Mészáros  
 _Production Company_: Hunnia Játekfilmstudió  
 _UK Distributor:_ Essential
-
 _Production Manager_: József Bajusz  
 _Production Supervisor_: Ferenc Szohár  
-_Production Assistant_: Imre Vargo,
-
-Gyula Szóvári, Ágnes Sarkadi, György Fék,
-
-Sándor Ducsay, Krisztina Szöllösy, Mária Papp, Péter Brill, Mihály Sütton, Jeno Habermann, Adrienn KarÅly, Klári Farkas, Ferenc Ormos,
-
-István Kudela, Marek Sieranski,
-
-Valdemar Wieckowski, Márta Jankovits,
-
+_Production Assistant_: Imre Vargo, Gyula Szóvári, Ágnes Sarkadi, György Fék, Sándor Ducsay, Krisztina Szöllösy, Mária Papp, Péter Brill, Mihály Sütton, Jeno Habermann, Adrienn KarÅly, Klári Farkas, Ferenc Ormos, István Kudela, Marek Sieranski, Valdemar Wieckowski, Márta Jankovits,
 Ádám Csillag, Ottó Mesterics, Jozsef Nedobai  
 _Assistant Director_: Ferenc Jeli  
-_Screenplay_: Gyula Hernádi, Ildikó Kóródy,
-
-Márta Mészáros  
+_Screenplay_: Gyula Hernádi, Ildikó Kóródy, Márta Mészáros  
 _Story Editor_: Miklós Vásárhelyi  
 _Director of Photography_: János Kende  
 _Lighting_: Károly Ledniczky  
@@ -130,5 +114,5 @@ Sat 24 Jul 20:45; Sat 31 Jul 14:40
 
 **Nine Months (Kilenc hónap)** Sun 25 Jul 12:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyMTA3NDk2XX0=
+eyJoaXN0b3J5IjpbLTEyNjE3ODY4XX0=
 -->
