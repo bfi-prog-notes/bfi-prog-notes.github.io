@@ -36,7 +36,7 @@ The film’s other triumph, appropriately enough for Ms Mészáros first essay i
 **Philip Strick, _Monthly Film Bulletin_, November 1979**<br>
 <br>
 
-**NINE MONTHS (KILENC HÓNAP)**
+**NINE MONTHS (KILENC HÓNAP)**<br>
 _Director_: Márta Mészáros  
 _Production Company_: Hunnia Játekfilmstudió  
 _UK Distributor:_ Essential  
