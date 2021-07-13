@@ -1,3 +1,14 @@
+---
+layout: post
+title: In the Mood for Love<br> (Fa yeung nin wa)
+published: true
+date: 2021-07-14
+readtime: true
+categories: ['WORLD OF WONG KAR WAI']
+tags: [Drama, Romance]
+metadata: 'Hong Kong, 2000, 99 mins<br> Director: Wong Kar Wai'
+pdf: '2021-07-14-in-the-mood-for-love.pdf'
+---
 
 **Wong Kar-Wai on ‘In the Mood for Love’**
 
@@ -28,7 +39,7 @@ _You’ve tackled the 60s once before, in_ Days of Being Wild_, and you’ve sug
 _Days of Being Wild_ was for me a very personal reinvention of the 60s. Here, though, we consciously tried to recreate the actuality. I wanted to say something about daily life then, about domestic conditions, neighbours, everything. I even worked out a menu for the period of the shoot, with distinctive dishes for different seasons, and found a Shanghainese lady to cook them so that the cast would be eating them as we shot. I wanted the film to contain all those flavours that are so familiar to me. The audience probably won’t notice a thing, but it meant a lot to me emotionally. When we started filming the 1962 scenes, William Chang asked me if we were finally making _Days of Being Wild, Part II_. I’ll never make Part II as originally envisaged because that story doesn’t mean the same to me any more. But this is in some sense Part II as I might conceive it now.<br>
 **Interview with Wong Kar-Wai by Tony Rayns, _Sight and Sound_, August 2000**
 
-**IN THE MOOD FOR LOVE (FA YEUNG NIN WA)**
+**IN THE MOOD FOR LOVE (FA YEUNG NIN WA)**<br>
 _Director/Producer/Screenplay:_ Wong Kar-Wai  
 _©/Presented by:_ Block 2 Pictures  
 _Production Company:_ Jet Tone Production  
@@ -38,7 +49,7 @@ _Assistant Producer:_ Chan Wai-Si
 _Associate Producer:_ Jacky Pang Yee-Wah  
 _Production Supervisor:_ Wong Lai-Tak
 _Production Managers:_ Law Kam-Chuen, Choi Suk-Yin  
-_Thai Crew Production Manager:_Parichart Khumrod  
+_Thai Crew Production Manager:_ Parichart Khumrod  
 _Thai Crew Assistant Production Manager:_ Rattana Pulsawan  
 _Thai Crew Assistant Location Manager:_ Satt Thepsawad
 _Assistant Directors:_ Siu Wai-Keung, Kong Yeuk-Sing  
@@ -111,7 +122,28 @@ Thu 22 Jul 18:30; Fri 30 Jul 18:20<br>
 **My Blueberry Nights**<br>
 Fri 23 Jul 20:50; Wed 28 Jul 20:40<br>
 
-Presented in partnership with Janus Films and the ICA
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTQ0NzQ5MV19
--->
+Presented in partnership with Janus Films and the ICA<br>
+
+Visit Youtube.com/bfi for a dizzying tour in the World of Wong Kar Wai, guided by season programmer Ann Lee<br>
+
+
+**Media partner**<br>
+<img style="float: left;" src="/img/F Far out Logo.png" width="40%" height="40%"><br>
+<br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
