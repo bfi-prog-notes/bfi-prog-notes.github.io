@@ -28,8 +28,7 @@ _You’ve tackled the 60s once before, in_ Days of Being Wild_, and you’ve sug
 _Days of Being Wild_ was for me a very personal reinvention of the 60s. Here, though, we consciously tried to recreate the actuality. I wanted to say something about daily life then, about domestic conditions, neighbours, everything. I even worked out a menu for the period of the shoot, with distinctive dishes for different seasons, and found a Shanghainese lady to cook them so that the cast would be eating them as we shot. I wanted the film to contain all those flavours that are so familiar to me. The audience probably won’t notice a thing, but it meant a lot to me emotionally. When we started filming the 1962 scenes, William Chang asked me if we were finally making _Days of Being Wild, Part II_. I’ll never make Part II as originally envisaged because that story doesn’t mean the same to me any more. But this is in some sense Part II as I might conceive it now.<br>
 **Interview with Wong Kar-Wai by Tony Rayns, _Sight and Sound_, August 2000**
 
-
-**In the Mood for Love (Fa yeung nin wa)**
+**IN THE MOOD FOR LOVE (FA YEUNG NIN WA)**
 _Director/Producer/Screenplay:_ Wong Kar-Wai  
 _©/Presented by:_ Block 2 Pictures  
 _Production Company:_ Jet Tone Production  
@@ -70,8 +69,8 @@ _Original Music:_ Michael Galasso
 _Spanish songs sung by:_ Nat King Cole  
 _Sound Recordists:_ Kuo Li-Chi, Tang Shiang-Chu, Liang Chih-Da
 
-**Cast**
-Maggie Cheung Man-Yuk _(Mrs Chan, née Su Lizhen)_  
+**Cast**<br>
+Maggie Cheung Man-Yuk _(Mrs Chan, née Su Lizhen)_<br>
 Tony Leung Chiu-Wai _(Chow Mo-Wan)_  
 Rebecca Pan _(Mrs Suen)_  
 Lui Chun _(Mr Ho)_  
@@ -81,13 +80,15 @@ Chan Man-Lui
 Koo Kam-Wah  
 Yu Hsien  
 Chow Po-Chun  
-Hong Kong/France 2000©
 
-99 mins
+Hong Kong/France 2000©<br>
+99 mins<br>
 
-This 4K digital restoration was undertaken from the 35mm original camera negative by the Criterion Collection in collaboration with Jet Tone Films, L’Immagine Ritrovata, One Cool, and Robert Mackenzie Sound. Supervised and approved by Wong Kar Wai.
+This 4K digital restoration was undertaken from the 35mm original camera negative by the Criterion Collection in collaboration with Jet Tone Films, L’Immagine Ritrovata, One Cool, and Robert Mackenzie Sound. Supervised and approved by Wong Kar Wai.<br>
+<br>
 
-WORLD OF WONG KAR WAI
+
+**WORLD OF WONG KAR WAI
 
 **Happy Together (Chun gwong cha sit)**
 
@@ -140,5 +141,5 @@ Presented in partnership with Janus Films
 
 and the ICA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTU2MTI5M119
+eyJoaXN0b3J5IjpbLTExNTc5OTgyOTVdfQ==
 -->
