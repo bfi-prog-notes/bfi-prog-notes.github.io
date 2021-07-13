@@ -1,16 +1,13 @@
-<![endif]-->
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
-Márta Mészáros’ first film in colour shocked some contemporary audiences with its final documentary scene. Pushing the boundaries of traditional family, Juli (Monori) has to be resourceful to juggle study, work and single parenthood. Jan Nowicki plays János, whose love might be guided more by social compliance than personal passion. This often uncompromising drama of mismatched aspirations places domesticity and work as characters alongside the individuals.
-
-bfi.org.uk
+Márta Mészáros’ first film in colour shocked some contemporary audiences with its final documentary scene. Pushing the boundaries of traditional family, Juli (Monori) has to be resourceful to juggle study, work and single parenthood. Jan Nowicki plays János, whose love might be guided more by social compliance than personal passion. This often uncompromising drama of mismatched aspirations places domesticity and work as characters alongside the individuals.<br>
+**bfi.org.uk**
 
 With the international acclaim that followed _Adoption_’s Berlin Film Festival Golden Bear, Márta Mészáros then made international co-productions, shot in colour and starring non-Hungarians like Jan Nowicki (with whom Mészáros had a lengthy relationship), Marina Vlady and Isabelle Huppert. A common factor in _Nine Months_ (1976), _The Two of Them_ (1977) and _The Heiresses_ (1980) is the extraordinary Lili Monori, who became the quintessential Mészáros protagonist via riveting studies of complicated, conflicted and frequently unsympathetic young women.
 
-Monori’s fearlessness as a performer extended to her giving birth for real in _Nine Months_ (Mészáros, having gone through the process more than once herself, was disinclined to soft-pedal its treatment here), and her often stormy relationships with Nowicki’s characters (her boss in _Nine Months_, an alcoholic in _The Two of Them_, a principled army officer in _The Heiresses_) are counterpointed by electrifying double-acts with her female co-stars.
-
-Michael Brooke, _Sight & Sound,_ Summer 2021. With thanks to Márta Mészáros, Jákob Ladányi and the Hungarian National Film Archive.
+Monori’s fearlessness as a performer extended to her giving birth for real in _Nine Months_ (Mészáros, having gone through the process more than once herself, was disinclined to soft-pedal its treatment here), and her often stormy relationships with Nowicki’s characters (her boss in _Nine Months_, an alcoholic in _The Two of Them_, a principled army officer in _The Heiresses_) are counterpointed by electrifying double-acts with her female co-stars.<br>
+**Michael Brooke, _Sight & Sound,_ Summer 2021. With thanks to Márta Mészáros, Jákob Ladányi and the Hungarian National Film Archive.**
 
 Lili Monori represented a completely different style of acting, she acted differently, she existed differently to other actresses. She is unchecked, she lives with every fibre of her being, she suffers or delights if needs be – it’s not acting. I feel very close to this style of play. I like it when an actor can cry and laugh in the same scene. … When I told her that I wanted to make a film with her it turned out she was pregnant. This is exactly what the film is about. I wanted her to give birth in front of the camera. It came as no surprise when she agreed.
 
@@ -100,5 +97,6 @@ Sat 24 Jul 20:45; Sat 31 Jul 14:40
 **Nine Months (Kilenc hónap)** 
 Sun 25 Jul 12:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTM4OTMxNiwtMTI2MTc4NjhdfQ==
+eyJoaXN0b3J5IjpbMzUxNTU0NzM1LDE0MDkzODkzMTYsLTEyNj
+E3ODY4XX0=
 -->
