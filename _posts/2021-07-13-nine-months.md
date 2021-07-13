@@ -20,11 +20,9 @@ With the international acclaim that followed _Adoption_’s Berlin Film Festival
 Monori’s fearlessness as a performer extended to her giving birth for real in _Nine Months_ (Mészáros, having gone through the process more than once herself, was disinclined to soft-pedal its treatment here), and her often stormy relationships with Nowicki’s characters (her boss in _Nine Months_, an alcoholic in _The Two of Them_, a principled army officer in _The Heiresses_) are counterpointed by electrifying double-acts with her female co-stars.<br>
 **Michael Brooke, _Sight & Sound,_ Summer 2021. With thanks to Márta Mészáros, Jákob Ladányi and the Hungarian National Film Archive.**
 
-Lili Monori represented a completely different style of acting, she acted differently, she existed differently to other actresses. She is unchecked, she lives with every fibre of her being, she suffers or delights if needs be – it’s not acting. I feel very close to this style of play. I like it when an actor can cry and laugh in the same scene. … When I told her that I wanted to make a film with her it turned out she was pregnant. This is exactly what the film is about. I wanted her to give birth in front of the camera. It came as no surprise when she agreed.<br>
-**Marta Meszaros: _My Diary_. Budapest, Pelikan Konyvek, 1993 quoted in Eszter Fazekas, _Restored Films of Márta Mészáros_, National Film Institute Hungary – Film Archive**
+Lili Monori represented a completely different style of acting, she acted differently, she existed differently to other actresses. She is unchecked, she lives with every fibre of her being, she suffers or delights if needs be – it’s not acting. I feel very close to this style of play. I like it when an actor can cry and laugh in the same scene. … When I told her that I wanted to make a film with her it turned out she was pregnant. This is exactly what the film is about. I wanted her to give birth in front of the camera. It came as no surprise when she agreed.<br>Marta Meszaros: _My Diary_. Budapest, Pelikan Konyvek, 1993 quoted in Eszter Fazekas, _Restored Films of Márta Mészáros_, National Film Institute Hungary – Film Archive**
 
-**A contemporary review**<br>
-Beginning with shots of a blazing furnace and ending with a full-frontal birth sequence, _Nine Months_ provides a sensitive but unequivocal illustration of the forces that determine the female condition.
+**A contemporary review**<br>Beginning with shots of a blazing furnace and ending with a full-frontal birth sequence, _Nine Months_ provides a sensitive but unequivocal illustration of the forces that determine the female condition.
 
 Its dumpy, phlegmatic heroine, veering from the passionate to the rational with weary stoicism, finds scant comfort in solitude but even less in the company of the man who insists she abandon it for his sake. Yet in the icy courtyard where he begs her to come for a drink, a side of meat, recently butchered, steams with red warmth; it is flesh, as usual, that wins the battle, and the film’s love scenes, intense and intimate in persistent close-up, directly communicate the girl’s physical needs. Undoubtedly she is right to avoid matrimonial imprisonment with the charming but limited János and his vindictive family, but the film doesn’t deny the raw reality of the new baby, its birth punctuated by the memory of János and his furnaces; the final images of motherhood have a frozen neutrality.
 
@@ -130,3 +128,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTkyNjU5NTczMl19
+-->
