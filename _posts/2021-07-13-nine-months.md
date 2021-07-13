@@ -1,3 +1,14 @@
+---
+layout: post
+title: Nine Months<br> (Kilenc hónap)
+published: true
+date: 2021-07-13
+readtime: true
+categories: ['ORDINARY PEOPLE, EXTRAORDINARY LIVES<br>THE CINEMA OF MÁRTA MÉSZÁROS']
+tags: [Drama]
+metadata: 'Hungary, 1976, 90 mins<br> Director: Márta Mészáros'
+pdf: '2021-07-13-nine-months.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -10,10 +21,9 @@ Monori’s fearlessness as a performer extended to her giving birth for real in 
 **Michael Brooke, _Sight & Sound,_ Summer 2021. With thanks to Márta Mészáros, Jákob Ladányi and the Hungarian National Film Archive.**
 
 Lili Monori represented a completely different style of acting, she acted differently, she existed differently to other actresses. She is unchecked, she lives with every fibre of her being, she suffers or delights if needs be – it’s not acting. I feel very close to this style of play. I like it when an actor can cry and laugh in the same scene. … When I told her that I wanted to make a film with her it turned out she was pregnant. This is exactly what the film is about. I wanted her to give birth in front of the camera. It came as no surprise when she agreed.
-**Marta Meszaros: _My Diary_. Budapest, Pelikan Konyvek, 1993 quoted in Eszter Fazekas,  
-_Restored Films of Márta Mészáros_, National Film Institute Hungary – Film Archive**
+**Marta Meszaros: _My Diary_. Budapest, Pelikan Konyvek, 1993 quoted in Eszter Fazekas, _Restored Films of Márta Mészáros_, National Film Institute Hungary – Film Archive**
 
-**A contemporary review**
+**A contemporary review**<br>
 Beginning with shots of a blazing furnace and ending with a full-frontal birth sequence, _Nine Months_ provides a sensitive but unequivocal illustration of the forces that determine the female condition.
 
 Its dumpy, phlegmatic heroine, veering from the passionate to the rational with weary stoicism, finds scant comfort in solitude but even less in the company of the man who insists she abandon it for his sake. Yet in the icy courtyard where he begs her to come for a drink, a side of meat, recently butchered, steams with red warmth; it is flesh, as usual, that wins the battle, and the film’s love scenes, intense and intimate in persistent close-up, directly communicate the girl’s physical needs. Undoubtedly she is right to avoid matrimonial imprisonment with the charming but limited János and his vindictive family, but the film doesn’t deny the raw reality of the new baby, its birth punctuated by the memory of János and his furnaces; the final images of motherhood have a frozen neutrality.
@@ -29,7 +39,7 @@ The film’s other triumph, appropriately enough for Ms Mészáros first essay i
 **NINE MONTHS (KILENC HÓNAP)**
 _Director_: Márta Mészáros  
 _Production Company_: Hunnia Játekfilmstudió  
-_UK Distributor:_ Essential
+_UK Distributor:_ Essential  
 _Production Manager_: József Bajusz  
 _Production Supervisor_: Ferenc Szohár  
 _Production Assistant_: Imre Vargo, Gyula Szóvári, Ágnes Sarkadi, György Fék, Sándor Ducsay, Krisztina Szöllösy, Mária Papp, Péter Brill, Mihály Sütton, Jeno Habermann, Adrienn KarÅly, Klári Farkas, Ferenc Ormos, István Kudela, Marek Sieranski, Valdemar Wieckowski, Márta Jankovits,
@@ -68,33 +78,55 @@ János Szili
 Gyongyi Vigh _(Juli’s friend)_
 
 Hungary 1976<br>
- 90 mins<br>
+90 mins<br>
 
-**ORDINARY PEOPLE, EXTRAORDINARY LIVES THE CINEMA OF MÁRTA MÉSZÁROS**
+**ORDINARY PEOPLE, EXTRAORDINARY LIVES THE CINEMA OF MÁRTA MÉSZÁROS**<br>
+**The Two of Them/Two Women (Ök ketten)**<br>
+Wed 14 Jul 20:50; Mon 26 Jul 18:10<br>
+**The Girl (Eltávozott nap)**<br>
+Fri 16 Jul 20:50<br>
+**Binding Sentiments (Holdudvar)**<br>
+Sat 17 Jul 15:20<br>
+**The Heiresses (Örökség)**<br>
+Sun 18 Jul 15:20; Tue 27 Jul 20:30<br>
+**Don’t Cry, Pretty Girls! (Szép lányok, ne sírjatok!)**<br>
+Sun 18 Jul 18:40<br>
+**Riddance (Szabad lélegzet)**<br>
+Wed 21 Jul 21:00<br>
+**Adoption (Örökbefogadás)**<br>
+Thu 22 Jul 20:30<br>
+**Diary for My Children (Napló gyermekeimnek)**<br>
+Sat 24 Jul 14:10 (+ pre-recorded extended intro by Márta Mészáros); Wed 28 Jul 17:50<br>
+**Diary for My Loves (Napló szerelmeimnek)**<br>
+Sat 24 Jul 17:30; Sat 31 Jul 20:30<br>
+**Diary for My Father and Mother (Napló apámnak, anyámnak)**<br>
+Sat 24 Jul 20:45; Sat 31 Jul 14:40<br>
+**Nine Months (Kilenc hónap)**<br>
+Sun 25 Jul 12:30<br>
 
-**The Two of Them/Two Women (Ök ketten)**
-Wed 14 Jul 20:50; Mon 26 Jul 18:10
-**The Girl (Eltávozott nap)** 
-Fri 16 Jul 20:50
-**Binding Sentiments (Holdudvar)** 
-Sat 17 Jul 15:20
-**The Heiresses (Örökség)**
-Sun 18 Jul 15:20; Tue 27 Jul 20:30
-**Don’t Cry, Pretty Girls! (Szép lányok, ne sírjatok!)**
-Sun 18 Jul 18:40
-**Riddance (Szabad lélegzet)** 
-Wed 21 Jul 21:00
-**Adoption (Örökbefogadás)** 
-Thu 22 Jul 20:30
-**Diary for My Children (Napló gyermekeimnek)**
-Sat 24 Jul 14:10 (+ pre-recorded extended intro by Márta Mészáros); Wed 28 Jul 17:50
-**Diary for My Loves (Napló szerelmeimnek)**
-Sat 24 Jul 17:30; Sat 31 Jul 20:30
-**Diary for My Father and Mother (Napló apámnak, anyámnak)**
-Sat 24 Jul 20:45; Sat 31 Jul 14:40
-**Nine Months (Kilenc hónap)** 
-Sun 25 Jul 12:30
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTcwMTY2OTMsMTQwOTM4OTMxNiwtMT
-I2MTc4NjhdfQ==
--->
+The restorations in this season were made from the original camera negatives, original magnetic tape sounds and positive prints, supervised and presented by the National Film Institute Hungary – Film Archive. The restorations were carried out at the NFI Film Archive and Filmlab.<br>
+<br>
+<img style="float: left;" src="/img/nfi-hungary-logo-01.png"><br>
+<br><br><br>
+
+**Promotional partner**<br>
+<img style="float: left;" src="/img/hungarian-cultural-centre-logo-01.png">
+<br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+**A selection of titles from this season will be available on BFI Player from 22 July**<br>
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
