@@ -10,12 +10,10 @@ Monori’s fearlessness as a performer extended to her giving birth for real in 
 **Michael Brooke, _Sight & Sound,_ Summer 2021. With thanks to Márta Mészáros, Jákob Ladányi and the Hungarian National Film Archive.**
 
 Lili Monori represented a completely different style of acting, she acted differently, she existed differently to other actresses. She is unchecked, she lives with every fibre of her being, she suffers or delights if needs be – it’s not acting. I feel very close to this style of play. I like it when an actor can cry and laugh in the same scene. … When I told her that I wanted to make a film with her it turned out she was pregnant. This is exactly what the film is about. I wanted her to give birth in front of the camera. It came as no surprise when she agreed.
-
-Marta Meszaros: _My Diary_. Budapest, Pelikan Konyvek, 1993 quoted in Eszter Fazekas,  
-_Restored Films of Márta Mészáros_, National Film Institute Hungary – Film Archive
+**Marta Meszaros: _My Diary_. Budapest, Pelikan Konyvek, 1993 quoted in Eszter Fazekas,  
+_Restored Films of Márta Mészáros_, National Film Institute Hungary – Film Archive**
 
 **A contemporary review**
-
 Beginning with shots of a blazing furnace and ending with a full-frontal birth sequence, _Nine Months_ provides a sensitive but unequivocal illustration of the forces that determine the female condition.
 
 Its dumpy, phlegmatic heroine, veering from the passionate to the rational with weary stoicism, finds scant comfort in solitude but even less in the company of the man who insists she abandon it for his sake. Yet in the icy courtyard where he begs her to come for a drink, a side of meat, recently butchered, steams with red warmth; it is flesh, as usual, that wins the battle, and the film’s love scenes, intense and intimate in persistent close-up, directly communicate the girl’s physical needs. Undoubtedly she is right to avoid matrimonial imprisonment with the charming but limited János and his vindictive family, but the film doesn’t deny the raw reality of the new baby, its birth punctuated by the memory of János and his furnaces; the final images of motherhood have a frozen neutrality.
@@ -97,6 +95,6 @@ Sat 24 Jul 20:45; Sat 31 Jul 14:40
 **Nine Months (Kilenc hónap)** 
 Sun 25 Jul 12:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxNTU0NzM1LDE0MDkzODkzMTYsLTEyNj
-E3ODY4XX0=
+eyJoaXN0b3J5IjpbLTIxMTcwMTY2OTMsMTQwOTM4OTMxNiwtMT
+I2MTc4NjhdfQ==
 -->
