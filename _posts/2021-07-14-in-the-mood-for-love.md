@@ -87,59 +87,31 @@ Hong Kong/France 2000©<br>
 This 4K digital restoration was undertaken from the 35mm original camera negative by the Criterion Collection in collaboration with Jet Tone Films, L’Immagine Ritrovata, One Cool, and Robert Mackenzie Sound. Supervised and approved by Wong Kar Wai.<br>
 <br>
 
-
-**WORLD OF WONG KAR WAI
-
-**Happy Together (Chun gwong cha sit)**
-
-Sun 11 Jul 15:40; Fri 16 Jul 14:30; Fri 23 Jul 18:10
-
-**Days of Being Wild (Ah Fei jing juen)**
-
-Thu Mon 12 Jul 14:30;  Mon 19 Jul 18:00
-
-**Chungking Express (Chung Hing sam lam)**
-
-Mon 12 Jul 20:50; Tue 20 Jul 20:45;  
-Thu 29 Jul 14:30
-
-**Fallen Angels (Do lok tin si)**
-
-Wed 14 Jul 14:30; Sun 25 Jul 18:30
-
-**In the Mood for Love (Fa yeung nin wah)**
-
-Wed 14 Jul 20:45; Sat 17 Jul 13:30;  
-Wed 21 Jul 14:30; Thu 29 Jul 20:45
-
+**WORLD OF WONG KAR WAI**<br>
+**Happy Together (Chun gwong cha sit)**<br>
+Sun 11 Jul 15:40; Fri 16 Jul 14:30; Fri 23 Jul 18:10<br>
+**Days of Being Wild (Ah Fei jing juen)**<br>
+Thu Mon 12 Jul 14:30;  Mon 19 Jul 18:00<br>
+**Chungking Express (Chung Hing sam lam)**<br>
+Mon 12 Jul 20:50; Tue 20 Jul 20:45;  Thu 29 Jul 14:30<br>
+**Fallen Angels (Do lok tin si)**<br>
+Wed 14 Jul 14:30; Sun 25 Jul 18:30<br>
+**In the Mood for Love (Fa yeung nin wah)**<br>
+Wed 14 Jul 20:45; Sat 17 Jul 13:30;  Wed 21 Jul 14:30; Thu 29 Jul 20:45<br>
 **2046**
-
 Thu 15 Jul 20:20; Sat 17 Jul 16:10; Sat 31 Jul 14:30
-
-**As Tears Go By (****Wong Gok ka moon)**
-
+**As Tears Go By (Wong Gok ka moon)**
 Sat 17 Jul 20:30; Mon 19 Jul 20:45
-
 **The Grandmaster (Yi dai zong shi)**
-
-Tue 20 Jul 18:00; Thu 22 Jul 20:50;  
-Mon 26 Jul 20:50
-
+Tue 20 Jul 18:00; Thu 22 Jul 20:50;  Mon 26 Jul 20:50
 **Ashes of Time Redux (Dung che sai duk)**
-
 Wed 21 Jul 20:45; Fri 30 Jul 20:45
-
 **The Hand (Extended Cut)**
-
 Thu 22 Jul 18:30; Fri 30 Jul 18:20
-
 **My Blueberry Nights**
-
 Fri 23 Jul 20:50; Wed 28 Jul 20:40
 
-Presented in partnership with Janus Films
-
-and the ICA
+Presented in partnership with Janus Films and the ICA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc5OTgyOTVdfQ==
+eyJoaXN0b3J5IjpbLTIwMjkzNDg1NzddfQ==
 -->
