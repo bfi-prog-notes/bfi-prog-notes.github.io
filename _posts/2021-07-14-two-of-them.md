@@ -28,31 +28,15 @@ As Mari says, ‘It’s not truth, but loneliness I fear most’. She has achiev
 But if _The Two of Them_ is less persuasive in its dissatisfactions than the very direct malaise of _Nine Months_, it is handled with equal assurance in style. Once again, Janós Kende’s photography is superb, and the conversation pieces, face-to-face in stark close-up reminiscent of Bergman’s sessions of psychoanalysis, are crisply and emphatically written and edited. There’s a splendid single-shot scene in which Marina Vlady, brewing up a quarrel with her husband, cooks him a breakfast omelette and at crisis point hurls it, frying-pan and all, through the kitchen window – wish-fulfilment with a vengeance for many a galley-slave. The Vlady performance, in fact, is probably the best guide to the film’s elusive centre – it’s a performance, no hair misplaced, no eyebrow incautiously lifted. Watch, for instance, her Garboesque scene with an admirer in the snow, all subtle smiles and lingering glances. As Zsuzsi would say, nothing’s true...<br>
 **Philip Strick, _Monthly Film Bulletin_, November 1979**
 
-<![endif]-->
 
-**The Two of Them/Two Women (Ők ketten)**
-
+**THE TWO OF THEM/TWO WOMEN (ŐK KETTEN)**
 _Director_: Márta Mészáros  
 _Production Company_: Dialóg Filmstudió  
 _Production Manager_: József Bajusz  
-_Production Supervisor_: Ferenc Szohár,
-
-Sándor Ducsay  
-_Production Assistant_: Imre Vargo,
-
-Gyula Szóvári, Ágnes Sardaki, János Gonda,
-
-Margit Balázs, Péter Brill, Ferenc Ormos,
-
-Ágnes Petrovics, Mihály Sütton, Julia Jávor,
-
-Merek Sieranski, Zoltán Pataki, Ottó Mesterics, Mária Papp, Bertalan Beck, György Kovács,
-
-Klára Iványi, Klári Farkas  
+_Production Supervisor_: Ferenc Szohár,Sándor Ducsay  
+_Production Assistant_: Imre Vargo, Gyula Szóvári, Ágnes Sardaki, János Gonda, Margit Balázs, Péter Brill, Ferenc Ormos, Ágnes Petrovics, Mihály Sütton, Julia Jávor, Merek Sieranski, Zoltán Pataki, Ottó Mesterics, Mária Papp, Bertalan Beck, György Kovács, Klára Iványi, Klári Farkas  
 _Assistant Director_: András Sipos  
-_Screenplay_: Ildikó Kóródy, József Balázs,
-
-Géza Bereményi  
+_Screenplay_: Ildikó Kóródy, József Balázs, Géza Bereményi  
 _Story Editor_: Miklós Vásárhelyi  
 _Photography_: János Kende  
 _Lighting_: Károly Ledniczky  
@@ -64,7 +48,7 @@ _Make-up_: Adrienne Király
 _Music_: György Kovács  
 _Sound Recording_: György Kovács
 
-_Cast:_  
+**Cast** 
 Marina Vlady _(Mari)_  
 Lili Monori _(Juli)_  
 Jan Nowicki _(János)_  
@@ -80,9 +64,8 @@ Gyongyi Vigh
 Mónika Kubinyi  
 Vladimir Vysotsky
 
-Hungary/France 1977
-
-92 mins
+Hungary/France 1977<br>
+92 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Njg0OTcwOF19
+eyJoaXN0b3J5IjpbLTMwNzY5OTA1N119
 -->
