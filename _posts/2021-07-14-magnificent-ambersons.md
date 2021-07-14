@@ -13,40 +13,16 @@ poor performances at the US box office. A crisis in mid-1941 had necessitated bo
 
 At the top of the studio’s scale you would expect to find starry properties packed with commercially promising ingredients and supplied, above all, with  
 a clear and gripping emotional line. Tarkington’s novel tells a story of failure and frustration; its key events are deaths, and disappointments passively  
-endured. His text carries a warning against dramatisation; a young audience in the theatre would, he says, be ‘not only scornfully amused but vaguely angered’ by his tale of middle-aged romance between the prospering car manufacturer Eugene Morgan and the widowed Isabel Minafer (née  
-Amberson), heiress to a declining fortune.
+endured. His text carries a warning against dramatisation; a young audience in the theatre would, he says, be ‘not only scornfully amused but vaguely angered’ by his tale of middle-aged romance between the prospering car manufacturer Eugene Morgan and the widowed Isabel Minafer (née Amberson), heiress to a declining fortune.
 
-While that is the novel’s most appealing relationship the main thread of the  
-narrative is carried by Isabel’s only child, George, the product of her loveless  
-marriage to the pallidly respectable Wilbur Minafer. Adored and indulged by  
-his mother George grows up in idleness with an arrogant conviction of  
-superiority that makes the townsfolk long for his ‘come-upance’ [_sic_]. As a  
-young man, George falls for Eugene’s daughter Lucy. But when his father’s  
-death frees Isabel to respond to Eugene’s love, George is outraged. On a  
-pretext supplied by Aunt Fanny Minafer’s report of a gossiping slight on  
-Isabel’s reputation, he turns Eugene from the house, and breaks with Lucy to  
-take his mother abroad, away from Eugene and from the imagined interest of  
-the townsfolk. Thwarted in this late hope of romantic fulfilment, Isabel wastes  
-away. She dies essentially of a broken heart.
+While that is the novel’s most appealing relationship the main thread of the narrative is carried by Isabel’s only child, George, the product of her loveless marriage to the pallidly respectable Wilbur Minafer. Adored and indulged by his mother George grows up in idleness with an arrogant conviction of superiority that makes the townsfolk long for his ‘come-upance’ [_sic_]. As a young man, George falls for Eugene’s daughter Lucy. But when his father’s death frees Isabel to respond to Eugene’s love, George is outraged. On a pretext supplied by Aunt Fanny Minafer’s report of a gossiping slight on Isabel’s reputation, he turns Eugene from the house, and breaks with Lucy to  
+take his mother abroad, away from Eugene and from the imagined interest of  the townsfolk. Thwarted in this late hope of romantic fulfilment, Isabel wastes away. She dies essentially of a broken heart.
 
-There are two unavoidable issues. Why is Isabel’s union with Eugene so vile  
-a prospect for her son? Why can Isabel, threatened with heartbreak, not  
-bring herself to face George down and insist on her own right to happiness?  
-Answering these questions in ways that adequately motivate the key events  
-required the clear and forceful presentation of the bond between a young  
-man and his mother in its least attractive and potentially most embarrassing  
-aspects. The actions and motives are not hard to credit. The threat was that  
-audiences might not be willing to understand, and might retreat from  
-discomfort into impatience or contempt.
+There are two unavoidable issues. Why is Isabel’s union with Eugene so vile a prospect for her son? Why can Isabel, threatened with heartbreak, not  
+bring herself to face George down and insist on her own right to happiness?  Answering these questions in ways that adequately motivate the key events required the clear and forceful presentation of the bond between a young  man and his mother in its least attractive and potentially most embarrassing aspects. The actions and motives are not hard to credit. The threat was that audiences might not be willing to understand, and might retreat from discomfort into impatience or contempt.
 
-In addition a time span of about 25 years presented difficulties in casting,  
-performance and make-up to compound the awkwardness of a bumpy  
-construction whose stops and starts might break, or kill, dramatic  
-momentum. It may have been reasonable to rely on Welles’ genius to solve  
-these problems. But the ending of Tarkington’s novel was another matter, a  
-desperate patch-up that had to bring Isabel’s voice across from the Spirit  
-World in order to promote a reconciliation between Eugene and a George  
-ennobled by adversity. Tarkington had contrived the semblance of a happy  
+In addition a time span of about 25 years presented difficulties in casting, performance and make-up to compound the awkwardness of a bumpy construction whose stops and starts might break, or kill, dramatic momentum. It may have been reasonable to rely on Welles’ genius to solve  
+these problems. But the ending of Tarkington’s novel was another matter, a desperate patch-up that had to bring Isabel’s voice across from the Spirit World in order to promote a reconciliation between Eugene and a George  ennobled by adversity. Tarkington had contrived the semblance of a happy  
 ending, for a story whose logic would not go that way […] It seems  
 extraordinary that any studio head would schedule a major production  
 without having satisfied himself that solutions had been found for his  
@@ -54,5 +30,5 @@ Tarkington Problem.
 
 V.F. Perkins, _The Magnificent Ambersons_: BFI Film Classics (Bloomsbury Publishing, 1999),**© V. F. Perkins**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjY1Nzk1NzhdfQ==
+eyJoaXN0b3J5IjpbNzkzNTY3Mzk4XX0=
 -->
