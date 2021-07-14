@@ -44,78 +44,78 @@ _Sound Recording:_ Bailey Fesler, James G. Stewart<br>
 
 _uncredited_<br>
 _Executive Producer:_ George J. Schaefer<br>
-_Producer:_ Orson Welles
-_Unit Business Manager:_ Fred A. Fleck
-_Production Assistant:_ Richard Wilson
-_Additional Scenes Directors:_ Fred A. Fleck, Robert Wise, Jack Moss
-_Assistant Director:_ Harry Mancke
-_Additional Photography:_ Russell Metty
-_Camera Operator:_ James Daly
-_Assistant Camera:_ Howard Schwartz
-_Gaffer:_ James Almond
-_Stills:_ Alexander Kahle
-_Process Photography:_ Clifford Stine
-_Additional Editors:_ Mark Robson, Jack Moss
-_Art Director:_ Albert S. D’Agostino
-_Properties:_ Charles Sayers
-_Make-up:_ Mel Berns
-_Music:_ Bernard Herrmann
-_Additional Music:_ Roy Webb
-_Sound:_ Earl Mounce, John Tribby, Terry Kellum
-_Stunt Double for Anne Baxter:_ Helen Thurston
-_Stunt Double for Tim Holt:_ Dave Sharpe
+_Producer:_ Orson Welles<br>
+_Unit Business Manager:_ Fred A. Fleck<br>
+_Production Assistant:_ Richard Wilson<br>
+_Additional Scenes Directors:_ Fred A. Fleck, Robert Wise, Jack Moss<br>
+_Assistant Director:_ Harry Mancke<br>
+_Additional Photography:_ Russell Metty<br>
+_Camera Operator:_ James Daly<br>
+_Assistant Camera:_ Howard Schwartz<br>
+_Gaffer:_ James Almond<br>
+_Stills:_ Alexander Kahle<br>
+_Process Photography:_ Clifford Stine<br>
+_Additional Editors:_ Mark Robson, Jack Moss<br>
+_Art Director:_ Albert S. D’Agostino<br>
+_Properties:_ Charles Sayers<br>
+_Make-up:_ Mel Berns<br>
+_Music:_ Bernard Herrmann<br>
+_Additional Music:_ Roy Webb<br>
+_Sound:_ Earl Mounce, John Tribby, Terry Kellum<br>
+_Stunt Double for Anne Baxter:_ Helen Thurston<br>
+_Stunt Double for Tim Holt:_ Dave Sharpe<br>
 
 **Cast**<br>
-Joseph Cotten _(Eugene Morgan)_
-Dolores Costello _(Isabel Amberson Minafer)_
-Anne Baxter _(Lucy Morgan)_
-Tim Holt _(George Amberson Minafer)_
-Agnes Moorehead _(Fanny Minafer)_
-Ray Collins _(Jack Amberson)_
-Erskine Sanford _(Roger Bronson)_
-Richard Bennett _(Major Amberson)_
+Joseph Cotten _(Eugene Morgan)_<br>
+Dolores Costello _(Isabel Amberson Minafer)_<br>
+Anne Baxter _(Lucy Morgan)_<br>
+Tim Holt _(George Amberson Minafer)_<br>
+Agnes Moorehead _(Fanny Minafer)_<br>
+Ray Collins _(Jack Amberson)_<br>
+Erskine Sanford _(Roger Bronson)_<br>
+Richard Bennett _(Major Amberson)_<br>
 
-_uncredited_
-Orson Welles _(narrator)_
-Donald Dillaway _(Wilbur Minafer)_
-Charles Phipps _(Uncle John)_
-Dorothy Vaughan, Elmer Jerome, Sam Rice  _(funeral spectators)_
-Olive Ball _(Mary)_
-Nina Guilbert, John Elliott _(guests)_
-Anne O’Neal _(Mrs Foster)_
-Georgia Backus, Kathryn Sheldon _(matrons)_
-Henry Roquemore _(hardware man)_
-Hilda Plowright _(nurse)_
-Billy Elmer _(house servant)_
-Edward Howard _(chauffeur/citizen)_
-Harry Humphrey, Lew Kelly, Maynard Holmes _(citizens)_
-Sada Simmons _(wife)_
-Gus Schilling _(drug clerk)_
-Bobby Cooper _(George as a boy)_
-Drew Roddy _(Elijah)_
-Jack Baxley _(Reverend Smith)_
-Heenan Elliott _(labourer)_
-John Maguire _(young man)_
-Lyle Clement _(man in barber shop)_
-William Blees _(youth at accident)_
-James Westerfield _(cop at accident)_
-Philip Morris _(policeman)_
-Jack Santoro _(barber)_
-J. Louis Johnson _(Sam the butler)_
-Mel Ford _(Fred Kinney)_
-Robert Pittard _(Charles Johnson)_
-Lillian Nicholson _(landlady)_
-Louis Hayward _(ballroom extra)_
-Nancy Gates _(girl)_
-Joe Whitehead
-Del Lawrence
-Harry Bailey
-Edwin August
+_uncredited_<br>
+Orson Welles _(narrator)_<br>
+Donald Dillaway _(Wilbur Minafer)_<br>
+Charles Phipps _(Uncle John)_<br>
+Dorothy Vaughan, Elmer Jerome, Sam Rice  <br>_(funeral spectators)_<br>
+Olive Ball _(Mary)_<br>
+Nina Guilbert, John Elliott _(guests)_<br>
+Anne O’Neal _(Mrs Foster)_<br>
+Georgia Backus, Kathryn Sheldon _(matrons)_<br>
+Henry Roquemore _(hardware man)_<br>
+Hilda Plowright _(nurse)_<br>
+Billy Elmer _(house servant)_<br>
+Edward Howard _(chauffeur/citizen)_<br>
+Harry Humphrey, Lew Kelly, Maynard Holmes _(citizens)_<br>
+Sada Simmons _(wife)_<br>
+Gus Schilling _(drug clerk)_<br>
+Bobby Cooper _(George as a boy)_<br>
+Drew Roddy _(Elijah)_<br>
+Jack Baxley _(Reverend Smith)_<br>
+Heenan Elliott _(labourer)_<br>
+John Maguire _(young man)_<br>
+Lyle Clement _(man in barber shop)_<br>
+William Blees _(youth at accident)_<br>
+James Westerfield _(cop at accident)_<br>
+Philip Morris _(policeman)_<br>
+Jack Santoro _(barber)_<br>
+J. Louis Johnson _(Sam the butler)_<br>
+Mel Ford _(Fred Kinney)_<br>
+Robert Pittard _(Charles Johnson)_<br>
+Lillian Nicholson _(landlady)_<br>
+Louis Hayward _(ballroom extra)_<br>
+Nancy Gates _(girl)_<br>
+Joe Whitehead<br>
+Del Lawrence<br>
+Harry Bailey<br>
+Edwin August<br>
 
-USA 1942©
-88 mins
+USA 1942©<br>
+88 mins<br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5MjY2NDI1LDE1OTU5MzM2MDUsLTE1OT
-AxNTcwMzldfQ==
+eyJoaXN0b3J5IjpbMTM3Mjc3NDAzMSwxNTk1OTMzNjA1LC0xNT
+kwMTU3MDM5XX0=
 -->
