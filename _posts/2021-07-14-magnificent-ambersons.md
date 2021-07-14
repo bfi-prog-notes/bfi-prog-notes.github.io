@@ -106,19 +106,15 @@ Robert Pittard _(Charles Johnson)_
 Lillian Nicholson _(landlady)_
 Louis Hayward _(ballroom extra)_
 Nancy Gates _(girl)_
-
 Joe Whitehead
-
 Del Lawrence
-
 Harry Bailey
-
 Edwin August
 
 USA 1942©
-
 88 mins
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTkzMzYwNSwtMTU5MDE1NzAzOV19
+eyJoaXN0b3J5IjpbLTE4OTc5MzUwNDksMTU5NTkzMzYwNSwtMT
+U5MDE1NzAzOV19
 -->
