@@ -66,47 +66,26 @@ Vladimir Vysotsky<br>
 
 Hungary/France 1977<br>
 92 mins<br>
+<br><br>
 
-<![endif]-->
-
-**ORDINARY PEOPLE, EXTRAORDINARY LIVES**
-
-**THE CINEMA OF MÁRTA MÉSZÁROS**
-
+**ORDINARY PEOPLE, EXTRAORDINARY LIVES  THE CINEMA OF MÁRTA MÉSZÁROS**
 **The Two of Them/Two Women (Ök ketten)**
-
 Wed 14 Jul 20:50; Mon 26 Jul 18:10
-
 **The Girl (Eltávozott nap)**
-
 Fri 16 Jul 20:50
-
 **Binding Sentiments (Holdudvar)**
-
 Sat 17 Jul 15:20
-
-**The Heiresses (****Örökség)**
-
+**The Heiresses (Örökség)**
 Sun 18 Jul 15:20; Tue 27 Jul 20:30
-
 **Don’t Cry, Pretty Girls! (Szép lányok, ne sírjatok!)**
-
 Sun 18 Jul 18:40
-
 **Riddance (Szabad lélegzet)**
-
 Wed 21 Jul 21:00
-
 **Adoption (Örökbefogadás)**
-
 Thu 22 Jul 20:30
-
 **Diary for My Children (Napló gyermekeimnek)**
-
 Sat 24 Jul 14:10 (+ pre-recorded extended intro by Márta Mészáros); Wed 28 Jul 17:50
-
 **Diary for My Loves (Napló szerelmeimnek)**
-
 Sat 24 Jul 17:30; Sat 31 Jul 20:30
 
 **Diary for My Father and Mother**
@@ -119,5 +98,5 @@ Sat 24 Jul 20:45; Sat 31 Jul 14:40
 
 Sun 25 Jul 12:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2NjMzNjY5XX0=
+eyJoaXN0b3J5IjpbLTE3Mzk3NjYxMjQsODY2NjMzNjY5XX0=
 -->
