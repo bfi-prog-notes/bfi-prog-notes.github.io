@@ -120,10 +120,10 @@ USA 1942©<br>
 Thu 1 Jul 14:30; Thu 15 Jul 18:00; Sat 24 Jul 11:50<br>
 **Hope and Glory**<br>
 Thu 1 Jul 17:30; Mon 5 Jul 14:30; Fri 23 Jul 18:00<br>
-**Casablanca**
-Fri 2 Jul 14:30; Sat 17 Jul 13:00; Sat 24 Jul 14:40; Thu 29 Jul 18:00
-**All about My Mother (Todo sobre mi madre)**
-Fri 2 Jul 20:40; Tue 6 Jul 20:45; Sat 10 Jul 21:00; Thu 22 Jul 14:30
+**Casablanca**<br>
+Fri 2 Jul 14:30; Sat 17 Jul 13:00; Sat 24 Jul 14:40; Thu 29 Jul 18:00<br>
+**All about My Mother (Todo sobre mi madre)**<br>
+Fri 2 Jul 20:40; Tue 6 Jul 20:45; Sat 10 Jul 21:00; Thu 22 Jul 14:30<br>
 **How Green Was My Valley**
 Sat 3 Jul 11:30; Thu 8 Jul 14:15; Fri 16 Jul 17:50
 **Wild Strawberries (Smultronstället)**
@@ -144,6 +144,6 @@ Tue 13 Jul 14:15; Sun 18 Jul 12:30;
 Mon 26 Jul 14:20
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjE5MDcyMDIsMTU5NTkzMzYwNSwtMT
-U5MDE1NzAzOV19
+eyJoaXN0b3J5IjpbMTY4OTMzNTA3NCwtMTIyMTkwNzIwMiwxNT
+k1OTMzNjA1LC0xNTkwMTU3MDM5XX0=
 -->
