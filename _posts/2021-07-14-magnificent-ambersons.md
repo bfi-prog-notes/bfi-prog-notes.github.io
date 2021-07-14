@@ -116,16 +116,14 @@ USA 1942©<br>
 88 mins<br>
 <br><br>
 **BIG SCREEN CLASSICS**<br>
-**Casablanca**<br>
-Sat 17 Jul 13:00; Sat 24 Jul 14:40; Thu 29 Jul 18:00<br>
-**All about My Mother (Todo sobre mi madre)**<br>
-Thu 22 Jul 14:30<br>
 **The Magnificent Ambersons**<br>
 Wed 14 Jul 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large);  Sun 25 Jul 15:00<br>
 **Battleship Potemkin (Bronenosets Potemkin)**<br>
 Thu 15 Jul 18:00; Sat 24 Jul 11:50<br>
 **How Green Was My Valley**<br>
 Fri 16 Jul 17:50<br>
+**Casablanca**<br>
+Sat 17 Jul 13:00; Sat 24 Jul 14:40; Thu 29 Jul 18:00<br>
 **Man About Town (Le Silence est d’or)**<br>
 Sun 18 Jul 12:30;  Mon 26 Jul 14:20<br>
 **Distant Voices, Still Lives**<br>
@@ -136,11 +134,13 @@ Tue 20 Jul 14:15; Sat 31 Jul 20:20<br>
 Tue 20 Jul 17:50; Mon 26 Jul 18:00; Sat 31 Jul 11:10<br>
 **Wild Strawberries (Smultronstället)**<br>
 Wed 21 Jul 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Tue 27 Jul 14:30<br>
+**All about My Mother (Todo sobre mi madre)**<br>
+Thu 22 Jul 14:30<br>
 **Hope and Glory**<br>
 Fri 23 Jul 18:00<br>
 **35 Shots of Rum (35 Rhums)**<br>
 Wed 28 Jul 17:40 (+ pre-recorded intro by Be Manzini, poet and director of Caramel Film Club)<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODU4NDM2NywtMTIyMTkwNzIwMiwxNT
-k1OTMzNjA1LC0xNTkwMTU3MDM5XX0=
+eyJoaXN0b3J5IjpbLTEwMzkwMjI0MzcsLTEyMjE5MDcyMDIsMT
+U5NTkzMzYwNSwtMTU5MDE1NzAzOV19
 -->
