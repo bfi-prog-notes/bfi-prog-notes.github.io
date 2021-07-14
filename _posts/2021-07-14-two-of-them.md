@@ -48,7 +48,7 @@ _Make-up_: Adrienne Király
 _Music_: György Kovács  
 _Sound Recording_: György Kovács<br>
 
-**Cast** <br>
+**Cast**<br>
 Marina Vlady _(Mari)_  
 Lili Monori _(Juli)_  
 Jan Nowicki _(János)_  
@@ -68,35 +68,29 @@ Hungary/France 1977<br>
 92 mins<br>
 <br><br>
 
-**ORDINARY PEOPLE, EXTRAORDINARY LIVES  THE CINEMA OF MÁRTA MÉSZÁROS**
-**The Two of Them/Two Women (Ök ketten)**
-Wed 14 Jul 20:50; Mon 26 Jul 18:10
-**The Girl (Eltávozott nap)**
-Fri 16 Jul 20:50
-**Binding Sentiments (Holdudvar)**
-Sat 17 Jul 15:20
-**The Heiresses (Örökség)**
-Sun 18 Jul 15:20; Tue 27 Jul 20:30
-**Don’t Cry, Pretty Girls! (Szép lányok, ne sírjatok!)**
-Sun 18 Jul 18:40
-**Riddance (Szabad lélegzet)**
-Wed 21 Jul 21:00
-**Adoption (Örökbefogadás)**
-Thu 22 Jul 20:30
-**Diary for My Children (Napló gyermekeimnek)**
-Sat 24 Jul 14:10 (+ pre-recorded extended intro by Márta Mészáros); Wed 28 Jul 17:50
-**Diary for My Loves (Napló szerelmeimnek)**
-Sat 24 Jul 17:30; Sat 31 Jul 20:30
-
-**Diary for My Father and Mother**
-
-**(Napló apámnak, anyámnak)**
-
-Sat 24 Jul 20:45; Sat 31 Jul 14:40
-
-**Nine Months (Kilenc hónap)**
-
-Sun 25 Jul 12:30
+**ORDINARY PEOPLE, EXTRAORDINARY LIVES  THE CINEMA OF MÁRTA MÉSZÁROS**<br>
+**The Two of Them/Two Women (Ök ketten)**<br>
+Wed 14 Jul 20:50; Mon 26 Jul 18:10<br>
+**The Girl (Eltávozott nap)**<br>
+Fri 16 Jul 20:50<br>
+**Binding Sentiments (Holdudvar)**<br>
+Sat 17 Jul 15:20<br>
+**The Heiresses (Örökség)**<br>
+Sun 18 Jul 15:20; Tue 27 Jul 20:30<br>
+**Don’t Cry, Pretty Girls! (Szép lányok, ne sírjatok!)**<br>
+Sun 18 Jul 18:40<br>
+**Riddance (Szabad lélegzet)**<br>
+Wed 21 Jul 21:00<br>
+**Adoption (Örökbefogadás)**<br>
+Thu 22 Jul 20:30<br>
+**Diary for My Children (Napló gyermekeimnek)**<br>
+Sat 24 Jul 14:10 (+ pre-recorded extended intro by Márta Mészáros); Wed 28 Jul 17:50<br>
+**Diary for My Loves (Napló szerelmeimnek)**<br>
+Sat 24 Jul 17:30; Sat 31 Jul 20:30<br>
+**Diary for My Father and Mother (Napló apámnak, anyámnak)**<br>
+Sat 24 Jul 20:45; Sat 31 Jul 14:40<br>
+**Nine Months (Kilenc hónap)**<br>
+Sun 25 Jul 12:30<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk3NjYxMjQsODY2NjMzNjY5XX0=
+eyJoaXN0b3J5IjpbMjA1NDk5MTgyMCw4NjY2MzM2NjldfQ==
 -->
