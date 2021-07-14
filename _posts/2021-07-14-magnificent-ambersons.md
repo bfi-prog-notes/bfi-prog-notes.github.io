@@ -124,14 +124,14 @@ Thu 1 Jul 17:30; Mon 5 Jul 14:30; Fri 23 Jul 18:00<br>
 Fri 2 Jul 14:30; Sat 17 Jul 13:00; Sat 24 Jul 14:40; Thu 29 Jul 18:00<br>
 **All about My Mother (Todo sobre mi madre)**<br>
 Fri 2 Jul 20:40; Tue 6 Jul 20:45; Sat 10 Jul 21:00; Thu 22 Jul 14:30<br>
-**How Green Was My Valley**
-Sat 3 Jul 11:30; Thu 8 Jul 14:15; Fri 16 Jul 17:50
-**Wild Strawberries (Smultronstället)**
-Sat 3 Jul 18:10; Mon 5 Jul 20:45; Sun 11 Jul 12:50; Wed 21 Jul 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Tue 27 Jul 14:30
-**All the President’s Men**
-Sun 4 Jul 11:50; Tue 20 Jul 14:15; Sat 31 Jul 20:20
-**Rear Window**
-Sun 4 Jul 15:40; Fri 9 Jul 14:30; Tue 20 Jul 17:50; Mon 26 Jul 18:00; Sat 31 Jul 11:10
+**How Green Was My Valley**<br>
+Sat 3 Jul 11:30; Thu 8 Jul 14:15; Fri 16 Jul 17:50<br>
+**Wild Strawberries (Smultronstället)**<br>
+Sat 3 Jul 18:10; Mon 5 Jul 20:45; Sun 11 Jul 12:50; Wed 21 Jul 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Tue 27 Jul 14:30<br>
+**All the President’s Men**<br>
+Sun 4 Jul 11:50; Tue 20 Jul 14:15; Sat 31 Jul 20:20<br>
+**Rear Window**<br>
+Sun 4 Jul 15:40; Fri 9 Jul 14:30; Tue 20 Jul 17:50; Mon 26 Jul 18:00; Sat 31 Jul 11:10<br>
 **The Magnificent Ambersons**
 Mon 5 Jul 20:50; Wed 14 Jul 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large);  
 Sun 25 Jul 15:00
@@ -144,6 +144,6 @@ Tue 13 Jul 14:15; Sun 18 Jul 12:30;
 Mon 26 Jul 14:20
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTMzNTA3NCwtMTIyMTkwNzIwMiwxNT
+eyJoaXN0b3J5IjpbMjA0NTMxODUyNiwtMTIyMTkwNzIwMiwxNT
 k1OTMzNjA1LC0xNTkwMTU3MDM5XX0=
 -->
