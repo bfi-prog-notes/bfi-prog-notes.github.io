@@ -22,13 +22,171 @@ There are two unavoidable issues. Why is Isabel’s union with Eugene so vile a 
 bring herself to face George down and insist on her own right to happiness?  Answering these questions in ways that adequately motivate the key events required the clear and forceful presentation of the bond between a young  man and his mother in its least attractive and potentially most embarrassing aspects. The actions and motives are not hard to credit. The threat was that audiences might not be willing to understand, and might retreat from discomfort into impatience or contempt.
 
 In addition a time span of about 25 years presented difficulties in casting, performance and make-up to compound the awkwardness of a bumpy construction whose stops and starts might break, or kill, dramatic momentum. It may have been reasonable to rely on Welles’ genius to solve  
-these problems. But the ending of Tarkington’s novel was another matter, a desperate patch-up that had to bring Isabel’s voice across from the Spirit World in order to promote a reconciliation between Eugene and a George  ennobled by adversity. Tarkington had contrived the semblance of a happy  
-ending, for a story whose logic would not go that way […] It seems  
-extraordinary that any studio head would schedule a major production  
-without having satisfied himself that solutions had been found for his  
-Tarkington Problem.
+these problems. But the ending of Tarkington’s novel was another matter, a desperate patch-up that had to bring Isabel’s voice across from the Spirit World in order to promote a reconciliation between Eugene and a George ennobled by adversity. Tarkington had contrived the semblance of a happy ending, for a story whose logic would not go that way […] It seems extraordinary that any studio head would schedule a major production  
+without having satisfied himself that solutions had been found for his Tarkington Problem.<br>
+**V.F. Perkins, _The Magnificent Ambersons_: BFI Film Classics (Bloomsbury Publishing, 1999), © V. F. Perkins**<br>
 
-V.F. Perkins, _The Magnificent Ambersons_: BFI Film Classics (Bloomsbury Publishing, 1999),**© V. F. Perkins**
+
+**THE MAGNIFICENT AMBERSONS**
+_Director:_ Orson Welles
+©_/Production Company:_ RKO Radio Pictures
+_Production Company:_ Mercury Productions
+_Assistant Director:_ Freddie Fleck
+_Screenplay:_ Orson Welles
+_Based on the novel by:_ Booth Tarkington
+_Director of Photography:_ Stanley Cortez
+_Special Effects:_ Vernon L. Walker
+_Editor:_ Robert Wise
+
+_Design of Sets:_ Mark-Lee Kirk
+
+_Set Decorator:_ Al Fields
+
+_Ladies’ Wardrobe Design:_ Edward Stevenson
+
+_Sound Recording:_ Bailey Fesler, James G. Stewart
+
+_uncredited_
+
+_Executive Producer:_ George J. Schaefer
+
+_Producer:_ Orson Welles
+
+_Unit Business Manager:_ Fred A. Fleck
+
+_Production Assistant:_ Richard Wilson
+
+_Additional Scenes Directors:_ Fred A. Fleck,
+
+Robert Wise, Jack Moss
+
+_Assistant Director:_ Harry Mancke
+
+_Additional Photography:_ Russell Metty
+
+_Camera Operator:_ James Daly
+
+_Assistant Camera:_ Howard Schwartz
+
+_Gaffer:_ James Almond
+
+_Stills:_ Alexander Kahle
+
+_Process Photography:_ Clifford Stine
+
+_Additional Editors:_ Mark Robson, Jack Moss
+
+_Art Director:_ Albert S. D’Agostino
+
+_Properties:_ Charles Sayers
+
+_Make-up:_ Mel Berns
+
+_Music:_ Bernard Herrmann
+
+_Additional Music:_ Roy Webb
+
+_Sound:_ Earl Mounce, John Tribby, Terry Kellum
+
+_Stunt Double for Anne Baxter:_ Helen Thurston
+
+_Stunt Double for Tim Holt:_ Dave Sharpe
+
+_Cast:_
+
+Joseph Cotten _(Eugene Morgan)_
+
+Dolores Costello _(Isabel Amberson Minafer)_
+
+Anne Baxter _(Lucy Morgan)_
+
+Tim Holt _(George Amberson Minafer)_
+
+Agnes Moorehead _(Fanny Minafer)_
+
+Ray Collins _(Jack Amberson)_
+
+Erskine Sanford _(Roger Bronson)_
+
+Richard Bennett _(Major Amberson)_
+
+_uncredited_
+
+Orson Welles _(narrator)_
+
+Donald Dillaway _(Wilbur Minafer)_
+
+Charles Phipps _(Uncle John)_
+
+Dorothy Vaughan, Elmer Jerome, Sam Rice  
+_(funeral spectators)_
+
+Olive Ball _(Mary)_
+
+Nina Guilbert, John Elliott _(guests)_
+
+Anne O’Neal _(Mrs Foster)_
+
+Georgia Backus, Kathryn Sheldon _(matrons)_
+
+Henry Roquemore _(hardware man)_
+
+Hilda Plowright _(nurse)_
+
+Billy Elmer _(house servant)_
+
+Edward Howard _(chauffeur/citizen)_
+
+Harry Humphrey, Lew Kelly, Maynard Holmes _(citizens)_
+
+Sada Simmons _(wife)_
+
+Gus Schilling _(drug clerk)_
+
+Bobby Cooper _(George as a boy)_
+
+Drew Roddy _(Elijah)_
+
+Jack Baxley _(Reverend Smith)_
+
+Heenan Elliott _(labourer)_
+
+John Maguire _(young man)_
+
+Lyle Clement _(man in barber shop)_
+
+William Blees _(youth at accident)_
+
+James Westerfield _(cop at accident)_
+
+Philip Morris _(policeman)_
+
+Jack Santoro _(barber)_
+
+J. Louis Johnson _(Sam the butler)_
+
+Mel Ford _(Fred Kinney)_
+
+Robert Pittard _(Charles Johnson)_
+
+Lillian Nicholson _(landlady)_
+
+Louis Hayward _(ballroom extra)_
+
+Nancy Gates _(girl)_
+
+Joe Whitehead
+
+Del Lawrence
+
+Harry Bailey
+
+Edwin August
+
+USA 1942©
+
+88 mins
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzNTY3Mzk4XX0=
+eyJoaXN0b3J5IjpbLTE4NjAzMDkzMzVdfQ==
 -->
