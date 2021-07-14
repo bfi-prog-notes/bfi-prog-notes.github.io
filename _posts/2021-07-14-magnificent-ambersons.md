@@ -84,49 +84,27 @@ Nina Guilbert, John Elliott _(guests)_
 Anne O’Neal _(Mrs Foster)_
 Georgia Backus, Kathryn Sheldon _(matrons)_
 Henry Roquemore _(hardware man)_
-
 Hilda Plowright _(nurse)_
-
 Billy Elmer _(house servant)_
-
 Edward Howard _(chauffeur/citizen)_
-
 Harry Humphrey, Lew Kelly, Maynard Holmes _(citizens)_
-
 Sada Simmons _(wife)_
-
 Gus Schilling _(drug clerk)_
-
 Bobby Cooper _(George as a boy)_
-
 Drew Roddy _(Elijah)_
-
 Jack Baxley _(Reverend Smith)_
-
 Heenan Elliott _(labourer)_
-
 John Maguire _(young man)_
-
 Lyle Clement _(man in barber shop)_
-
 William Blees _(youth at accident)_
-
 James Westerfield _(cop at accident)_
-
 Philip Morris _(policeman)_
-
 Jack Santoro _(barber)_
-
 J. Louis Johnson _(Sam the butler)_
-
 Mel Ford _(Fred Kinney)_
-
 Robert Pittard _(Charles Johnson)_
-
 Lillian Nicholson _(landlady)_
-
 Louis Hayward _(ballroom extra)_
-
 Nancy Gates _(girl)_
 
 Joe Whitehead
@@ -142,5 +120,5 @@ USA 1942©
 88 mins
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTAxNTcwMzldfQ==
+eyJoaXN0b3J5IjpbMTU5NTkzMzYwNSwtMTU5MDE1NzAzOV19
 -->
