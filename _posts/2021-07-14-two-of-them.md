@@ -29,11 +29,11 @@ But if _The Two of Them_ is less persuasive in its dissatisfactions than the ver
 **Philip Strick, _Monthly Film Bulletin_, November 1979**
 
 
-**THE TWO OF THEM/TWO WOMEN (ŐK KETTEN)**
-_Director_: Márta Mészáros  
-_Production Company_: Dialóg Filmstudió  
+**THE TWO OF THEM/TWO WOMEN (ŐK KETTEN)**<br>
+_Director_: Márta Mészáros<br>
+_Production Company_: Dialóg Filmstudió<br>
 _Production Manager_: József Bajusz  
-_Production Supervisor_: Ferenc Szohár,Sándor Ducsay  
+_Production Supervisor_: Ferenc Szohár, Sándor Ducsay  
 _Production Assistant_: Imre Vargo, Gyula Szóvári, Ágnes Sardaki, János Gonda, Margit Balázs, Péter Brill, Ferenc Ormos, Ágnes Petrovics, Mihály Sütton, Julia Jávor, Merek Sieranski, Zoltán Pataki, Ottó Mesterics, Mária Papp, Bertalan Beck, György Kovács, Klára Iványi, Klári Farkas  
 _Assistant Director_: András Sipos  
 _Screenplay_: Ildikó Kóródy, József Balázs, Géza Bereményi  
@@ -46,9 +46,9 @@ _Construction_: Éva Martin
 _Costumes_: Ildikó Szabó  
 _Make-up_: Adrienne Király  
 _Music_: György Kovács  
-_Sound Recording_: György Kovács
+_Sound Recording_: György Kovács<br>
 
-**Cast** 
+**Cast** <br>
 Marina Vlady _(Mari)_  
 Lili Monori _(Juli)_  
 Jan Nowicki _(János)_  
@@ -62,10 +62,10 @@ Eva Szabó
 Éva Gúlányi  
 Gyongyi Vigh  
 Mónika Kubinyi  
-Vladimir Vysotsky
+Vladimir Vysotsky<br>
 
 Hungary/France 1977<br>
 92 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzY5OTA1N119
+eyJoaXN0b3J5IjpbLTQyMTA4OTgyOV19
 -->
