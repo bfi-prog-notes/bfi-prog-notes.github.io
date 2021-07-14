@@ -37,62 +37,34 @@ _Based on the novel by:_ Booth Tarkington
 _Director of Photography:_ Stanley Cortez
 _Special Effects:_ Vernon L. Walker
 _Editor:_ Robert Wise
-
 _Design of Sets:_ Mark-Lee Kirk
-
 _Set Decorator:_ Al Fields
-
 _Ladies’ Wardrobe Design:_ Edward Stevenson
-
 _Sound Recording:_ Bailey Fesler, James G. Stewart
-
 _uncredited_
-
 _Executive Producer:_ George J. Schaefer
-
 _Producer:_ Orson Welles
-
 _Unit Business Manager:_ Fred A. Fleck
-
 _Production Assistant:_ Richard Wilson
-
-_Additional Scenes Directors:_ Fred A. Fleck,
-
-Robert Wise, Jack Moss
-
+_Additional Scenes Directors:_ Fred A. Fleck, Robert Wise, Jack Moss
 _Assistant Director:_ Harry Mancke
-
 _Additional Photography:_ Russell Metty
-
 _Camera Operator:_ James Daly
-
 _Assistant Camera:_ Howard Schwartz
-
 _Gaffer:_ James Almond
-
 _Stills:_ Alexander Kahle
-
 _Process Photography:_ Clifford Stine
-
 _Additional Editors:_ Mark Robson, Jack Moss
-
 _Art Director:_ Albert S. D’Agostino
-
 _Properties:_ Charles Sayers
-
 _Make-up:_ Mel Berns
-
 _Music:_ Bernard Herrmann
-
 _Additional Music:_ Roy Webb
-
 _Sound:_ Earl Mounce, John Tribby, Terry Kellum
-
 _Stunt Double for Anne Baxter:_ Helen Thurston
-
 _Stunt Double for Tim Holt:_ Dave Sharpe
 
-_Cast:_
+**Cast
 
 Joseph Cotten _(Eugene Morgan)_
 
@@ -188,5 +160,5 @@ USA 1942©
 88 mins
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjAzMDkzMzVdfQ==
+eyJoaXN0b3J5IjpbLTcxOTI1MzI4MV19
 -->
