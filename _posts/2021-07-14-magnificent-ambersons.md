@@ -64,43 +64,25 @@ _Sound:_ Earl Mounce, John Tribby, Terry Kellum
 _Stunt Double for Anne Baxter:_ Helen Thurston
 _Stunt Double for Tim Holt:_ Dave Sharpe
 
-**Cast
-
+**Cast**<BR>
 Joseph Cotten _(Eugene Morgan)_
-
 Dolores Costello _(Isabel Amberson Minafer)_
-
 Anne Baxter _(Lucy Morgan)_
-
 Tim Holt _(George Amberson Minafer)_
-
 Agnes Moorehead _(Fanny Minafer)_
-
 Ray Collins _(Jack Amberson)_
-
 Erskine Sanford _(Roger Bronson)_
-
 Richard Bennett _(Major Amberson)_
 
 _uncredited_
-
 Orson Welles _(narrator)_
-
 Donald Dillaway _(Wilbur Minafer)_
-
 Charles Phipps _(Uncle John)_
-
-Dorothy Vaughan, Elmer Jerome, Sam Rice  
-_(funeral spectators)_
-
+Dorothy Vaughan, Elmer Jerome, Sam Rice  _(funeral spectators)_
 Olive Ball _(Mary)_
-
 Nina Guilbert, John Elliott _(guests)_
-
 Anne O’Neal _(Mrs Foster)_
-
 Georgia Backus, Kathryn Sheldon _(matrons)_
-
 Henry Roquemore _(hardware man)_
 
 Hilda Plowright _(nurse)_
@@ -160,5 +142,5 @@ USA 1942©
 88 mins
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTI1MzI4MV19
+eyJoaXN0b3J5IjpbLTE1OTAxNTcwMzldfQ==
 -->
