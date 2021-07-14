@@ -27,22 +27,23 @@ without having satisfied himself that solutions had been found for his Tarkingto
 **V.F. Perkins, _The Magnificent Ambersons_: BFI Film Classics (Bloomsbury Publishing, 1999), © V. F. Perkins**<br>
 
 
-**THE MAGNIFICENT AMBERSONS**
-_Director:_ Orson Welles
-©_/Production Company:_ RKO Radio Pictures
-_Production Company:_ Mercury Productions
-_Assistant Director:_ Freddie Fleck
-_Screenplay:_ Orson Welles
-_Based on the novel by:_ Booth Tarkington
-_Director of Photography:_ Stanley Cortez
-_Special Effects:_ Vernon L. Walker
-_Editor:_ Robert Wise
-_Design of Sets:_ Mark-Lee Kirk
-_Set Decorator:_ Al Fields
-_Ladies’ Wardrobe Design:_ Edward Stevenson
-_Sound Recording:_ Bailey Fesler, James G. Stewart
-_uncredited_
-_Executive Producer:_ George J. Schaefer
+**THE MAGNIFICENT AMBERSONS**<br>
+_Director:_ Orson Welles<br>
+©_/Production Company:_ RKO Radio Pictures<br>
+_Production Company:_ Mercury Productions<br>
+_Assistant Director:_ Freddie Fleck<br>
+_Screenplay:_ Orson Welles<br>
+_Based on the novel by:_ Booth Tarkington<br>
+_Director of Photography:_ Stanley Cortez<br>
+_Special Effects:_ Vernon L. Walker<br>
+_Editor:_ Robert Wise<br>
+_Design of Sets:_ Mark-Lee Kirk<br>
+_Set Decorator:_ Al Fields<br>
+_Ladies’ Wardrobe Design:_ Edward Stevenson<br>
+_Sound Recording:_ Bailey Fesler, James G. Stewart<br>
+
+_uncredited_<br>
+_Executive Producer:_ George J. Schaefer<br>
 _Producer:_ Orson Welles
 _Unit Business Manager:_ Fred A. Fleck
 _Production Assistant:_ Richard Wilson
@@ -64,7 +65,7 @@ _Sound:_ Earl Mounce, John Tribby, Terry Kellum
 _Stunt Double for Anne Baxter:_ Helen Thurston
 _Stunt Double for Tim Holt:_ Dave Sharpe
 
-**Cast**<BR>
+**Cast**<br>
 Joseph Cotten _(Eugene Morgan)_
 Dolores Costello _(Isabel Amberson Minafer)_
 Anne Baxter _(Lucy Morgan)_
@@ -115,6 +116,6 @@ USA 1942©
 88 mins
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc5MzUwNDksMTU5NTkzMzYwNSwtMT
-U5MDE1NzAzOV19
+eyJoaXN0b3J5IjpbNDY5MjY2NDI1LDE1OTU5MzM2MDUsLTE1OT
+AxNTcwMzldfQ==
 -->
