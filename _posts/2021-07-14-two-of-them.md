@@ -93,15 +93,11 @@ Sun 18 Jul 18:40<br>
 **Riddance (Szabad lélegzet)**<br>
 Wed 21 Jul 21:00<br>
 **Adoption (Örökbefogadás)**<br>
-Thu 22 Jul 20:30<br>
-**Diary for My Children (Napló gyermekeimnek)**<br>
+Thu 22 Jul 20:30<br>**Diary for My Children (Napló gyermekeimnek)**<br>
 Sat 24 Jul 14:10 (+ pre-recorded extended intro by Márta Mészáros); Wed 28 Jul 17:50<br>
 **Diary for My Loves (Napló szerelmeimnek)**<br>
 Sat 24 Jul 17:30; Sat 31 Jul 20:30<br>
-**Diary for My Father and Mother (Napló apámnak, anyámnak)**<br>
-Sat 24 Jul 20:45; Sat 31 Jul 14:40<br>
-**Nine Months (Kilenc hónap)**<br>
-Sun 25 Jul 12:30<br>
+**Diary for My Father and Mother(Napló apámnak, anyámnak)**<br>Sat 24 Jul 20:45; Sat 31 Jul 14:40<br>**Nine Months (Kilenc hónap)**<br>Sun 25 Jul 12:30<br>
 
 The restorations in this season were made from the original camera negatives, original magnetic tape sounds and positive prints, supervised and presented by the National Film Institute Hungary – Film Archive. The restorations were carried out at the NFI Film Archive and Filmlab.<br>
 <br>
@@ -129,3 +125,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM1NjE1NTI0NF19
+-->
