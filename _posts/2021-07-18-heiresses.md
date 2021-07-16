@@ -49,36 +49,30 @@ Szokolay, Ottó _(colonel)_<br>
 Éva Gyulányi<br>
 
 Hungary/France 1980<br>
-109 mins
+109 mins<br>
+<br>
 
-<![endif]-->
-
-**ORDINARY PEOPLE, EXTRAORDINARY LIVES**
-
-**THE CINEMA OF MÁRTA MÉSZÁROS**
-
-**The Heiresses (****Örökség)**
-
-Sun 18 Jul 15:20; Tue 27 Jul 20:30
-
-**Don’t Cry, Pretty Girls! (Szép lányok, ne sírjatok!)**
-
-Sun 18 Jul 18:40
-
-**Riddance (Szabad lélegzet)**
-
-Wed 21 Jul 21:00
-
-**Adoption (Örökbefogadás)**
-
+**ORDINARY PEOPLE, EXTRAORDINARY LIVES  THE CINEMA OF MÁRTA MÉSZÁROS**<br>
+**The Heiresses (Örökség)**<br>
+Sun 18 Jul 15:20; Tue 27 Jul 20:30<br>
+**Don’t Cry, Pretty Girls! (Szép lányok, ne sírjatok!)**<br>
+Sun 18 Jul 18:40<br>
+**Riddance (Szabad lélegzet)**<br>
+Wed 21 Jul 21:00<br>
+**Adoption (Örökbefogadás)**<br>
 Thu 22 Jul 20:30
-
 **Diary for My Children (Napló gyermekeimnek)**
-
 Sat 24 Jul 14:10 (+ pre-recorded extended intro by
-
 Márta Mészáros); Wed 28 Jul 17:50
+**Diary for My Loves (Napló szerelmeimnek)**
+Sat 24 Jul 17:30; Sat 31 Jul 20:30
+**Diary for My Father and Mother (Napló apámnak, anyámnak)**
+Sat 24 Jul 20:45; Sat 31 Jul 14:40
+**Nine Months (Kilenc hónap)**
+Sun 25 Jul 12:30
+**The Two of Them/Two Women (Ök ketten)**
+Mon 26 Jul 18:10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyNzk2Njc0LDgxMzMxNTE1OSwtMTQyMz
-Y4Mzg4XX0=
+eyJoaXN0b3J5IjpbLTkzNzk4OTkyOSw4MTMzMTUxNTksLTE0Mj
+M2ODM4OF19
 -->
