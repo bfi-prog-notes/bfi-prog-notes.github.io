@@ -26,52 +26,31 @@ Anikó Gervai
 _Screenplay:_ Márta Mészáros, Ildikó Kóródy
 _Story Editor:_ Miklós Vásárhelyi
 _Cinematographer:_ Elemér Ragályi
-
 _Camera Operator:_ Géza Gonda
-
 _Editor:_ Annamária Komlóssy
-
 _Art Director:_ József Romvári
-
 _Costume Designer:_ Fanny Kemenes
-
 _Wardrobe:_ Zsuzsa Balai
+_Music:_ Zsolt Döme, Johann  Strauss, Szabolcs Fényes
+_Sound Director:_ György  Kovács<br>
 
-_Music:_ Zsolt Döme, Johann  Strauss,
-
-Szabolcs Fényes
-
-_Sound Director:_ György  Kovács
-
-_Cast:_
-
+**Cast**<br>
 Lili Monori _(Szilvia)_
-
 Sándor Szabó _(Komáromi)_
-
-Isabelle Huppert _(__Irén__)_
-
+Isabelle Huppert _(Irén)_
 Jan Nowicki _(Ákos)_
-
 Zita Perczel _(Teréz)_
-
 Piotr Skrzinecki _(Uncle Fülöp)_
-
 Witold Holtz _(Jenö)_
-
 Zsolt Körtvélyessy _(Tamás)_
-
 Judit Hernádi _(Zita)_
-
 Károly Mécs _(Szorondy)_
-
 Szokolay, Ottó _(colonel)_
-
-Gyulányi, Éva
+ÉvaGyulányi
 
 Hungary/France 1980
 
 109
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDcwNDY0MzZdfQ==
+eyJoaXN0b3J5IjpbLTE0MjM2ODM4OF19
 -->
