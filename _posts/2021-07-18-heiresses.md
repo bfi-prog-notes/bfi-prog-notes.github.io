@@ -17,21 +17,21 @@ After the world hit of _Nine Months_, Márta Mészáros had the opportunity to s
 
 
 **THE HEIRESSES (ÖRÖKSÉG)**
-_Director:_ Márta Mészáros
-_Production Companies:_ Gaumont, Hunnia Filmstúdió
-_Studio Head:_ Miklós  Köllő
-_Production Managers:_ Ferenc  Szohár, Evelyne July
+_Director:_ Márta Mészáros<br>
+_Production Companies:_ Gaumont, Hunnia Filmstúdió<br>
+_Studio Head:_ Miklós  Köllő<br>
+_Production Managers:_ Ferenc  Szohár, Evelyne July<br>
 _Assistant Directors:_ Tibor Puszt, Mihály Sárdi,
-Anikó Gervai
-_Screenplay:_ Márta Mészáros, Ildikó Kóródy
-_Story Editor:_ Miklós Vásárhelyi
-_Cinematographer:_ Elemér Ragályi
-_Camera Operator:_ Géza Gonda
-_Editor:_ Annamária Komlóssy
-_Art Director:_ József Romvári
-_Costume Designer:_ Fanny Kemenes
-_Wardrobe:_ Zsuzsa Balai
-_Music:_ Zsolt Döme, Johann  Strauss, Szabolcs Fényes
+Anikó Gervai<br>
+_Screenplay:_ Márta Mészáros, Ildikó Kóródy<br>
+_Story Editor:_ Miklós Vásárhelyi<br>
+_Cinematographer:_ Elemér Ragályi<br>
+_Camera Operator:_ Géza Gonda<br>
+_Editor:_ Annamária Komlóssy<br>
+_Art Director:_ József Romvári<br>
+_Costume Designer:_ Fanny Kemenes<br>
+_Wardrobe:_ Zsuzsa Balai<br>
+_Music:_ Zsolt Döme, Johann  Strauss, Szabolcs Fényes<br>
 _Sound Director:_ György  Kovács<br>
 
 **Cast**<br>
@@ -46,11 +46,11 @@ Zsolt Körtvélyessy _(Tamás)_
 Judit Hernádi _(Zita)_
 Károly Mécs _(Szorondy)_
 Szokolay, Ottó _(colonel)_
-ÉvaGyulányi
+Éva Gyulányi
 
 Hungary/France 1980
 
 109
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjM2ODM4OF19
+eyJoaXN0b3J5IjpbMTk3NzQ3NzkyMCwtMTQyMzY4Mzg4XX0=
 -->
