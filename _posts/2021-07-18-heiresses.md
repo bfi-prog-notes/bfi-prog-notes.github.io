@@ -60,19 +60,19 @@ Sun 18 Jul 18:40<br>
 **Riddance (Szabad lélegzet)**<br>
 Wed 21 Jul 21:00<br>
 **Adoption (Örökbefogadás)**<br>
-Thu 22 Jul 20:30
-**Diary for My Children (Napló gyermekeimnek)**
+Thu 22 Jul 20:30<br>
+**Diary for My Children (Napló gyermekeimnek)**<br>
 Sat 24 Jul 14:10 (+ pre-recorded extended intro by
-Márta Mészáros); Wed 28 Jul 17:50
-**Diary for My Loves (Napló szerelmeimnek)**
-Sat 24 Jul 17:30; Sat 31 Jul 20:30
-**Diary for My Father and Mother (Napló apámnak, anyámnak)**
-Sat 24 Jul 20:45; Sat 31 Jul 14:40
-**Nine Months (Kilenc hónap)**
-Sun 25 Jul 12:30
-**The Two of Them/Two Women (Ök ketten)**
-Mon 26 Jul 18:10
+Márta Mészáros); Wed 28 Jul 17:50<br>
+**Diary for My Loves (Napló szerelmeimnek)**<br>
+Sat 24 Jul 17:30; Sat 31 Jul 20:30<br>
+**Diary for My Father and Mother (Napló apámnak, anyámnak)**<br>
+Sat 24 Jul 20:45; Sat 31 Jul 14:40<br>
+**Nine Months (Kilenc hónap)**<br>
+Sun 25 Jul 12:30<br>
+**The Two of Them/Two Women (Ök ketten)**<br>
+Mon 26 Jul 18:10<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzk4OTkyOSw4MTMzMTUxNTksLTE0Mj
-M2ODM4OF19
+eyJoaXN0b3J5IjpbLTE2NzA0NTU0MDcsODEzMzE1MTU5LC0xND
+IzNjgzODhdfQ==
 -->
