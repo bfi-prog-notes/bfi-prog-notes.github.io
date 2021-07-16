@@ -2,12 +2,12 @@
 layout: post
 title: The Heiresses (Örökség)
 published: true
-date: 2021-07-16 
+date: 2021-07-18 
 readtime: true
 categories: ['ORDINARY PEOPLE, EXTRAORDINARY LIVES<br>THE CINEMA OF MÁRTA MÉSZÁROS']
 tags: [Drama]
 metadata: 'Hungary/France, 1980, 109 mins<br> Director: Márta Mészáros'
-pdf: '2021-07-16-heiresses.pdf'
+pdf: '2021-07-18-heiresses.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
