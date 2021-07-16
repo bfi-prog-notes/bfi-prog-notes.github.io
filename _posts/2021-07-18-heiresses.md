@@ -50,6 +50,35 @@ Szokolay, Ottó _(colonel)_<br>
 
 Hungary/France 1980<br>
 109 mins
+
+<![endif]-->
+
+**ORDINARY PEOPLE, EXTRAORDINARY LIVES**
+
+**THE CINEMA OF MÁRTA MÉSZÁROS**
+
+**The Heiresses (****Örökség)**
+
+Sun 18 Jul 15:20; Tue 27 Jul 20:30
+
+**Don’t Cry, Pretty Girls! (Szép lányok, ne sírjatok!)**
+
+Sun 18 Jul 18:40
+
+**Riddance (Szabad lélegzet)**
+
+Wed 21 Jul 21:00
+
+**Adoption (Örökbefogadás)**
+
+Thu 22 Jul 20:30
+
+**Diary for My Children (Napló gyermekeimnek)**
+
+Sat 24 Jul 14:10 (+ pre-recorded extended intro by
+
+Márta Mészáros); Wed 28 Jul 17:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzMzE1MTU5LC0xNDIzNjgzODhdfQ==
+eyJoaXN0b3J5IjpbMjUyNzk2Njc0LDgxMzMxNTE1OSwtMTQyMz
+Y4Mzg4XX0=
 -->
