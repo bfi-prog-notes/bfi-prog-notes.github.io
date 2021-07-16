@@ -35,22 +35,21 @@ _Music:_ Zsolt Döme, Johann  Strauss, Szabolcs Fényes<br>
 _Sound Director:_ György  Kovács<br>
 
 **Cast**<br>
-Lili Monori _(Szilvia)_
-Sándor Szabó _(Komáromi)_
-Isabelle Huppert _(Irén)_
-Jan Nowicki _(Ákos)_
-Zita Perczel _(Teréz)_
-Piotr Skrzinecki _(Uncle Fülöp)_
-Witold Holtz _(Jenö)_
-Zsolt Körtvélyessy _(Tamás)_
-Judit Hernádi _(Zita)_
-Károly Mécs _(Szorondy)_
-Szokolay, Ottó _(colonel)_
-Éva Gyulányi
+Lili Monori _(Szilvia)_<br>
+Sándor Szabó _(Komáromi)_<br>
+Isabelle Huppert _(Irén)_<br>
+Jan Nowicki _(Ákos)_<br>
+Zita Perczel _(Teréz)_<br>
+Piotr Skrzinecki _(Uncle Fülöp)_<br>
+Witold Holtz _(Jenö)_<br>
+Zsolt Körtvélyessy _(Tamás)_<br>
+Judit Hernádi _(Zita)_<br>
+Károly Mécs _(Szorondy)_<br>
+Szokolay, Ottó _(colonel)_<br>
+Éva Gyulányi<br>
 
-Hungary/France 1980
-
-109
+Hungary/France 1980<br>
+109 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzQ3NzkyMCwtMTQyMzY4Mzg4XX0=
+eyJoaXN0b3J5IjpbODEzMzE1MTU5LC0xNDIzNjgzODhdfQ==
 -->
