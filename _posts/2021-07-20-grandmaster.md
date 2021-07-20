@@ -5,7 +5,7 @@ published: true
 date: 2021-07-20
 readtime: true
 categories: ['WORLD OF WONG KAR WAI']
-tags: [Action, Drama, Biography]
+tags: [Action, Drama, Biopic]
 metadata: 'Hong Kong/China, 2013, 108 mins<br> Director: Wong Kar Wai'
 pdf: '2021-07-20-grandmaster.pdf'
 ---
