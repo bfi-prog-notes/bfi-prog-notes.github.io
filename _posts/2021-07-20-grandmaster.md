@@ -79,40 +79,29 @@ Wang Qingxiang _(Master Gong Yutian)_<br>
 
 Hong Kong/China 2013<br>
 108 mins<br>
+<br>
 
-
-**WORLD OF WONG KAR WAI**
-**The Grandmaster (Yi dai zong shi)**
-Tue 20 Jul 18:00; Thu 22 Jul 20:50;   Mon 26 Jul 20:50
-**Chungking Express (Chung Hing sam lam)**
-Tue 20 Jul 20:45; Thu 29 Jul 14:30
-**In the Mood for Love (Fa yeung nin wah)**
-
-Wed 21 Jul 14:30; Thu 29 Jul 20:45
-
-**Ashes of Time Redux (Dung che sai duk)**
-
-Wed 21 Jul 20:45; Fri 30 Jul 20:45
-
-**The Hand (Extended Cut)**
-
-Thu 22 Jul 18:30; Fri 30 Jul 18:20
-
-**Happy Together (Chun gwong cha sit)**
-
-Fri 23 Jul 18:10
-
-**My Blueberry Nights**
-
-Fri 23 Jul 20:50; Wed 28 Jul 20:40
-
-**Fallen Angels (Do lok tin si)**  
-Sun 25 Jul 18:30
-
-**2046**  
-Sat 31 Jul 14:30
+**WORLD OF WONG KAR WAI**<br>
+**The Grandmaster (Yi dai zong shi)**<br>
+Tue 20 Jul 18:00; Thu 22 Jul 20:50;  Mon 26 Jul 20:50<br>
+**Chungking Express (Chung Hing sam lam)**<br>
+Tue 20 Jul 20:45; Thu 29 Jul 14:30<br>
+**In the Mood for Love (Fa yeung nin wah)**<br>
+Wed 21 Jul 14:30; Thu 29 Jul 20:45<br>
+**Ashes of Time Redux (Dung che sai duk)**<br>
+Wed 21 Jul 20:45; Fri 30 Jul 20:45<br>
+**The Hand (Extended Cut)**<br>
+Thu 22 Jul 18:30; Fri 30 Jul 18:20<br>
+**Happy Together (Chun gwong cha sit)**<br>
+Fri 23 Jul 18:10<br>
+**My Blueberry Nights**<br>
+Fri 23 Jul 20:50; Wed 28 Jul 20:40<br>
+**Fallen Angels (Do lok tin si)** <br>
+Sun 25 Jul 18:30<br>
+**2046**<br>
+Sat 31 Jul 14:30<br>
 
 Presented in partnership with Janus Films and the ICA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDg0MzMxMF19
+eyJoaXN0b3J5IjpbLTkxOTI5MTEwOF19
 -->
