@@ -63,10 +63,9 @@ _Costume Designer_: Shandy Lui
 _Original Score_: Shigeru Umebayashi, Nathaniel Mechaly  
 _Sound Design_: Robert Mackenzie  
 _Stunt Co-ordinators_: Yuen Shun Yi, Tony Ling  
-_Action Choreographer_: Yuen Wo Ping
+_Action Choreographer_: Yuen Wo Ping<br>
 
-Cast:_
-
+**Cast**<br>
 Tony Leung _(Ip Man)_  
 Zhang Ziyi _(Gong Er)_  
 Chang Chen _(The Razor)_  
@@ -76,11 +75,44 @@ Song Hye Kyo _(Zhang Yongcheng)_
 Yuen Wo Ping _(Chan Wah-shun)_  
 Lau Ka Yung _(Yong)_  
 Le Cung _(Iron Shoes)_  
-Wang Qingxiang _(Master Gong Yutian)_
+Wang Qingxiang _(Master Gong Yutian)_<br>
 
-Hong Kong/China 2013
+Hong Kong/China 2013<br>
+108 mins<br>
 
-108 mins
+
+**WORLD OF WONG KAR WAI**
+**The Grandmaster (Yi dai zong shi)**
+Tue 20 Jul 18:00; Thu 22 Jul 20:50;   Mon 26 Jul 20:50
+**Chungking Express (Chung Hing sam lam)**
+Tue 20 Jul 20:45; Thu 29 Jul 14:30
+**In the Mood for Love (Fa yeung nin wah)**
+
+Wed 21 Jul 14:30; Thu 29 Jul 20:45
+
+**Ashes of Time Redux (Dung che sai duk)**
+
+Wed 21 Jul 20:45; Fri 30 Jul 20:45
+
+**The Hand (Extended Cut)**
+
+Thu 22 Jul 18:30; Fri 30 Jul 18:20
+
+**Happy Together (Chun gwong cha sit)**
+
+Fri 23 Jul 18:10
+
+**My Blueberry Nights**
+
+Fri 23 Jul 20:50; Wed 28 Jul 20:40
+
+**Fallen Angels (Do lok tin si)**  
+Sun 25 Jul 18:30
+
+**2046**  
+Sat 31 Jul 14:30
+
+Presented in partnership with Janus Films and the ICA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI2Njc3Ml19
+eyJoaXN0b3J5IjpbLTk5MDg0MzMxMF19
 -->
