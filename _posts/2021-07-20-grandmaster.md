@@ -43,7 +43,44 @@ I was lucky to collaborate with two great writers on this film [Zou Jingzhi and 
 _In the light of the extended production period on_ The Grandmaster_, would you prefer to return to the fast methods of your earlier films? Could you still make a film as quickly as you did then?_
 
 It really depends on the type of film you’re making and the subject matter. It’s like in cooking where it takes hours to make a stew and only a few minutes to fry something.<br>
-**Wong Kar Wai interviewed by James Bell, _Sight & Sound_, January 2015**<
+**Wong Kar Wai interviewed by James Bell, _Sight & Sound_, January 2015**<br>
+
+**THE GRANDMASTER (YI DAI ZONG SHI)**<br>
+_Director_: Wong Kar Wai  
+_©_: Block 2 Pictures Inc.  
+_Production Companies_: Jet Tone Films, Sil-Metropole Organisation Limited  
+_This film benefited from the_: Tax Rebate for International Production  
+_Presented by_: The Weinstein Company, Annapurna Pictures, Block 2 Pictures, Sil-Metropole Organisation Limited  
+_Executive Producers_: Song Dai, Chan Ye-cheng, Megan Ellison  
+_Producers_: Wong Kar Wai, Jacky Pang Yee Wah  
+_Screenplay by_: Zou Jingzhi, Xu Haofeng, Wong Kar Wai  
+_Story by_: Wong Kar Wai  
+_Director of Photography_: Philippe Le Sourd  
+_Edited by_: William Chang Suk Ping, Benjamin Courtines, Poon Hung Yiu  
+_Production Designers_: William Chang Suk Ping,
+Alfred Yau Wai Ming  
+_Costume Designer_: Shandy Lui  
+_Original Score_: Shigeru Umebayashi, Nathaniel Mechaly  
+_Sound Design_: Robert Mackenzie  
+_Stunt Co-ordinators_: Yuen Shun Yi, Tony Ling  
+_Action Choreographer_: Yuen Wo Ping
+
+Cast:_
+
+Tony Leung _(Ip Man)_  
+Zhang Ziyi _(Gong Er)_  
+Chang Chen _(The Razor)_  
+Zhao Benshan _(Ding Lianshan)_  
+Xiao Shenyang _(San Jiang Shui)_  
+Song Hye Kyo _(Zhang Yongcheng)_  
+Yuen Wo Ping _(Chan Wah-shun)_  
+Lau Ka Yung _(Yong)_  
+Le Cung _(Iron Shoes)_  
+Wang Qingxiang _(Master Gong Yutian)_
+
+Hong Kong/China 2013
+
+108 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDIwNDY3Nl19
+eyJoaXN0b3J5IjpbLTE4NjI2Njc3Ml19
 -->
