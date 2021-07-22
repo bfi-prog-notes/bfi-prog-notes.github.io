@@ -28,33 +28,22 @@ _Director_: Lizzie Borden
 _Production Company_: Lizzie Borden  
 _Assistance_: Jerome Foundation, CAPS,  Young Filmmakers  
 _Producer_: Lizzie Borden  
-_Production Assistants_: Steve Cohen,  
-Rosemary Hochschild, Tom Bills,  
-Cathy Campbell, Allan Tannenbaum,  
-Jeff Rathus, Roberta Raeburn, Ryan, Bill Stokes,  
-Ed Friedman, Becky High, Suzanne Fletcher,  
-Vinnie Arevalo, Karen Achenbach  
+_Production Assistants_: Steve Cohen,  Rosemary Hochschild, Tom Bills,  Cathy Campbell, Allan Tannenbaum,  Jeff Rathus, Roberta Raeburn, Ryan, Bill Stokes, Ed Friedman, Becky High, Suzanne Fletcher,  Vinnie Arevalo, Karen Achenbach   
 _Screenplay_: Lizzie Borden  
 _Story Consultant_: Ed Bowes  
 _Directors of Photography_: Ed Bowes, Al Santana  
-_Additional Photography_: Chris Hegedus,  
-Jacki Ochs, Gary Hill, Michael Oblowitz,  
-Becky Johnston, Peter Hunton, Lizzie Borden,  
-Johanna Heer, Sheila McLaughlin, Greta Schiller  
+_Additional Photography_: Chris Hegedus,  Jacki Ochs, Gary Hill, Michael Oblowitz,  Becky Johnston, Peter Hunton, Lizzie Borden,  Johanna Heer, Sheila McLaughlin, Greta Schiller  
 _Video (women in desert)_: Phil O’Reilly  
-_Video Camera_: Phil O’Reilly, Tom Bowes,  
-Kirsten Bates, Jack Walworth, Richard Tiernan, DeeDee Halleck  
+_Video Camera_: Phil O’Reilly, Tom Bowes,  Kirsten Bates, Jack Walworth, Richard Tiernan, DeeDee Halleck  
 _Special Photographic Effects_: Hisao Taya  
 _Special Effects Graphics_: Dirk Zimmer  
 _Special Effects_: Hisao Taya  
 _Video Graphics_: Jo Bonney  
 _Editor_: Lizzie Borden  
 _Editorial Consultant_: Ed Bowes  
-_Sound Recording_: Tom Crawford,  
-Rachel Reichman, Rachel Field, Dan Edelman
+_Sound Recording_: Tom Crawford,  Rachel Reichman, Rachel Field, Dan Edelman
 
-_Cast:_
-
+**Cast**  
 Honey _(Honey)_  
 Adele Bertei _(Isabel)_  
 Jeanne Satterfield _(Adelaide Norris)_  
@@ -81,11 +70,7 @@ Jerry Nixon _(Adelaide’s boss)_
 Gary Valdes, Dirk Zimmer _(co-workers)_  
 Jacques Sandulescu _(foreman at 2nd site)_  
 Gary Hill _(man in truck)_  
-Sis McQuade, Susan Sawyer, Sherry Rosso,  
-Donna Allegra Simms, Valerie Jones,  
-Ramona Galindez, Katy Taylor, Marion Benjamin,  
-Joan Ellis, Carolyn Fitzgerald,  
-Alice Sullivan _(women at site)_  
+Sis McQuade, Susan Sawyer, Sherry Rosso,  Donna Allegra Simms, Valerie Jones,  Ramona Galindez, Katy Taylor, Marion Benjamin,  Joan Ellis, Carolyn Fitzgerald,  Alice Sullivan _(women at site)_  
 Belle Chevigny _(Bella Gayle)_  
 Paul Zonghetti _(2nd agent)_  
 Alexa Evans _(woman arguing with Honey)_  
@@ -93,8 +78,7 @@ Malick N’Diaye _(African man)_
 Dolly Udemezue _(African woman)_  
 Barbara Scott _(woman with machine gun)_  
 Hanita _(voice of woman in desert)_  
-Diane Jacobs, Felice Rosser_  
-(women at secretary strike)_  
+Diane Jacobs, Felice Rosser _(women at secretary strike)_  
 Hal Miller _(cop at precinct)_  
 Peg Brennan _(lawyer with Zella)_  
 Michael Sullivan _(2nd FBI chief)_  
@@ -115,5 +99,5 @@ USA 1983
 
 Preserved by Anthology Film Archives with restoration funding from the Hollywood Foreign Press Association and The Film Foundation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTE0NTEzXX0=
+eyJoaXN0b3J5IjpbOTU3MTMxOTldfQ==
 -->
