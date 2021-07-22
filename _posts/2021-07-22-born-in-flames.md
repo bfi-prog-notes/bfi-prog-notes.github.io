@@ -2,9 +2,7 @@
 
 _We are delighted to present a pre-recorded post-screening discussion with film programmer and academic Karen Alexander as well as film writer and curator So Mayer, hosted by film critic and programmer Tara Brown._
 
-‘Do you expect people who see the piece to understand the conceptual decisions that have gone into it?’ the filmmaker Lizzie Borden asked the artist Richard Serra in an interview about his drawings for a 2011 retrospective. Serra could have returned the question to Borden (his former video editor).  
-Her oeuvre, four predominantly narrative features and a handful of commercial TV episodes, pushes at the limits of the conceptual. Simultaneously intellectually and sensorially exhilarating, Borden’s work puts the conceptual into the corporeal and vice versa, clearly emerging from the downtown  
-New York scene that she charted in her first film _Re-grouping_ (1976).
+‘Do you expect people who see the piece to understand the conceptual decisions that have gone into it?’ the filmmaker Lizzie Borden asked the artist Richard Serra in an interview about his drawings for a 2011 retrospective. Serra could have returned the question to Borden (his former video editor).  Her oeuvre, four predominantly narrative features and a handful of commercial TV episodes, pushes at the limits of the conceptual. Simultaneously intellectually and sensorially exhilarating, Borden’s work puts the conceptual into the corporeal and vice versa, clearly emerging from the downtown  New York scene that she charted in her first film _Re-grouping_ (1976).
 
 Having moved to New York to pursue visual arts in the early 1970s, the young Borden wrote for _Artforum_ about the conceptual art scene around Serra and about performance artists such as Yvonne Rainer and Joan Jonas. Already a rebel – her teenage decision to change her birth name Linda to that of the notorious supposed murderer was ‘the best rebellion I could make’ – she found herself radicalised by this aesthetic experimentation and by leftist feminism; she channelled that admixture into a curiosity about film, inspired by the work of Jean-Luc Godard and Gillo Pontecorvo. What resulted was a filmmaking career unique even in the fluid zone of 1970s New York independent cinema. One marker is a comparison with her friend and early collaborator Kathryn Bigelow, who borrowed Borden’s car to shoot her first short _The Set-up_ (1978) between her cameo appearances in _Re-grouping_ and Borden’s second, and best-known, feature _Born in Flames_ (1983). Bigelow, who emerged from a similar educational background in visual art and critical theory, went on to become the premier feminist filmmaker reimagining Hollywood genre movies; by contrast, Borden has only recently seen interest in her work revived on an international scale with Anthology Film Archive’s restoration of a 35mm print of _Born in Flames_.
 
@@ -95,6 +93,8 @@ USA 1983
 
 Preserved by Anthology Film Archives with restoration funding from the Hollywood Foreign Press Association and The Film Foundation
 <br><br>
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTcyOTM4MzcyNV19
 -->
