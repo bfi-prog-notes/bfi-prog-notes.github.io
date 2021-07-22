@@ -110,25 +110,16 @@ Thu 12 Aug 17:45<br>
 **Silent Cinema: The Wit and Wisdom of  A.A. Milne + intro by Bryony Dixon, BFI Curator**<br>
 Sun 15 Aug 12:40<br>
 **Experimenta: Thundercrack! + intro by  Jane Giles, author of ‘Scala Cinema 1978-1993’**<br>
-
 Sat 21 Aug 17:00<br>
-
-**Relaxed Screening:  
-Stand Clear of the Closing Doors**<br>
-
+**Relaxed Screening:  Stand Clear of the Closing Doors**<br>
 Tue 24 Aug 18:00<br>
-
-**Woman with a Movie Camera Preview: Souad  
-+ pre-recorded Q&A with director Ayten Amin**<br>
-
+**Woman with a Movie Camera Preview: Souad  + pre-recorded Q&A with director Ayten Amin**<br>
 Tue 24 Aug 18:00<br>
-
 **Terror Vision: Dr Terror’s House of Horrors**<br>
-
 Thu 26 Aug 20:40<br>
 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDE4NTU1OCwxNzI5MzgzNzI1XX0=
+eyJoaXN0b3J5IjpbMjk5MTEyMzY4LDE3MjkzODM3MjVdfQ==
 -->
