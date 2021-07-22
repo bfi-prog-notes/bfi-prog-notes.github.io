@@ -82,22 +82,19 @@ Diane Jacobs, Felice Rosser _(women at secretary strike)_
 Hal Miller _(cop at precinct)_  
 Peg Brennan _(lawyer with Zella)_  
 Michael Sullivan _(2nd FBI chief)_  
-Nancy Reilly, Sheila Carr_  
-(women in jail/women breaking into CBS)_  
-Rosemary Hochschild, Vanessa Zannis_  
-(women in jail)_  
+Nancy Reilly, Sheila Carr _(women in jail/women breaking into CBS)_  
+Rosemary Hochschild, Vanessa Zannis _(women in jail)_  
 Ed Bowes _(socialist editor)_  
 Allan Ryan _(handgun demo)_  
-Kathy Gunst, Amy Chen_  
-(women breaking into CBS)_  
+Kathy Gunst, Amy Chen _(women breaking into CBS)_  
 Dan Edelman, Mike Bencivenga, Eric Bogosian, Gregory Samuels _(CBS technicians)_  
-Walter Scheuer _(President)_
+Walter Scheuer _(President)_  
 
-USA 1983
-
+USA 1983  
 80 mins
 
 Preserved by Anthology Film Archives with restoration funding from the Hollywood Foreign Press Association and The Film Foundation
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3MTMxOTldfQ==
+eyJoaXN0b3J5IjpbMTcyOTM4MzcyNV19
 -->
