@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Swimming Out Till the Sea Turns Blue
+published: true
+date: 2021-07-24
+readtime: true
+categories: ['CHINESE VISUAL FESTIVAL']
+tags: [Documentary]
+metadata: 'China, 2020, 112 mins<br> Director: Jia Zhangke'
+pdf: '2021-07-24-swimming-out-till-the-sea-turns-blue.pdf'
+---
 
 **Jia Zhangke on ‘Swimming Out Till the Sea Turns Blue’**
 
@@ -43,8 +53,7 @@ My film _Platform_ opens with a group of peasants chatting and smoking in front 
 **SWIMMING OUT TILL THE SEA TURNS BLUE**  
 _Director:_ Jia Zhangke  
 _Production Companies:_  Xstream Pictures (Shanxi),  Huaxia Film Distribution Co., Ltd.  
-_In co-production with:_  Shanghai Film Studio,  Shanxi Film and Television Group,  Huaxin Kylin Culture Media Co., Ltd.,  Wishart Media Co., Ltd.,  
-Huayi Brother Pictures Limited,  Shi Dian (Tianjin) Culture Communication Co., Ltd., We Entertainment Iqiyi Pictures (Beijing) Co., Ltd., Alibaba Pictures (Beijing) Co., Ltd.  
+_In co-production with:_  Shanghai Film Studio,  Shanxi Film and Television Group,  Huaxin Kylin Culture Media Co., Ltd.,  Wishart Media Co., Ltd.,  Huayi Brother Pictures Limited,  Shi Dian (Tianjin) Culture Communication Co., Ltd., We Entertainment Iqiyi Pictures (Beijing) Co., Ltd., Alibaba Pictures (Beijing) Co., Ltd.  
 _Producer:_ Zhao Tao  
 _Written by:_ Jia Zhangke, Wan Jiahuan  
 _Director of Photography:_ Yu Lik-Wai  
@@ -55,6 +64,8 @@ China 2020
 112 mins
 <br><br>
 
+<img style="float: left;" src="/img/cvf-logo-01.png" width="40%" height="40%"><br>
+<br><br><br><br><br><br><br>
 
 
 **WORLD OF WONG KAR WAI**<br>
@@ -94,6 +105,23 @@ Mon 9 Aug 17:50<br>
 **BFI & Radio Times Television Festival presents: TV Preview: Vigil + Q&A with cast and creatives**<br>
 Mon 23 Aug 18:10<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbODMzMDEyNjA0LC04Njg4NzUwNDNdfQ==
