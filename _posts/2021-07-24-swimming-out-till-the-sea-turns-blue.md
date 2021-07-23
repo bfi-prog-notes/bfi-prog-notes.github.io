@@ -58,77 +58,43 @@ China 2020
 
 
 **WORLD OF WONG KAR WAI**<br>
-
 **In the Mood for Love (Fa yeung nin wah)**<br>
-
-Sat 24 Jul 20:35; Tue 27 Jul 14:40;  
-Thu 29 Jul 20:45, 20:55<br>
-
+Sat 24 Jul 20:35; Tue 27 Jul 14:40;  Thu 29 Jul 20:45, 20:55<br>
 **Fallen Angels (Do lok tin si)**<br>
-
 Sun 25 Jul 18:30; Mon 26 Jul 14:30<br>
-
 **The Grandmaster (Yi dai zong shi)**<br>
-
 Mon 26 Jul 20:50<br>
-
 **2046**<br>
-
 Wed 28 Jul 14:30; Sat 31 Jul 14:30<br>
-
 **Happy Together (Chun gwong cha sit)**<br>
-
 Wed 28 Jul 18:00<br>
-
 **My Blueberry Nights**<br>
-
 Wed 28 Jul 20:40<br>
-
 **Chungking Express (Chung Hing sam lam)**<br>
-
 Thu 29 Jul 14:30, 14:45<br>
-
 **The Hand (Extended Cut)**<br>
-
 Fri 30 Jul 18:20<br>
-
 **Ashes of Time Redux (Dung che sai duk)**<br>
-
 Fri 30 Jul 20:45<br>
+<br>
 
-IN PERSON & PREVIEWS**
-
-**Sonic Cinema World Premiere:  
-What The Hell Is It This Time? Sparks Live in London+ intro by Edgar Wright**
-
-Tue 3 Aug 17:10
-
-**Preview: The Sparks Brothers + Q&A with director Edgar Wright**
-
-Tue 3 Aug 19:45
-
-**BFI & Radio Times Television Festival presents: TV Preview: The North Water + Q&A with director Andrew Haigh and cast**
-
-Wed 4 Aug 18:15
-
-**The Alan Whicker Centenary:  
-Welcome to Whicker’s World + intro**
-
-Sat 7 Aug 14:30
-
-**The Alan Whicker Centenary:  
-The Life and Legacy of Alan Whicker**
-
-Sat 7 Aug 17:40
-
-**Preview: I’m Your Man (Ich bin dein Mensch) + pre-recorded Q&A with director Maria Schrader**
-
-Mon 9 Aug 17:50
-
-**BFI & Radio Times Television Festival presents: TV Preview: Vigil + Q&A with cast and creatives**
-
-Mon 23 Aug 18:10
+**IN PERSON & PREVIEWS**<br>
+**Sonic Cinema World Premiere:  What The Hell Is It This Time? Sparks Live in London+ intro by Edgar Wright**<br>
+Tue 3 Aug 17:10<br>
+**Preview: The Sparks Brothers + Q&A with director Edgar Wright**<br>
+Tue 3 Aug 19:45<br>
+**BFI & Radio Times Television Festival presents: TV Preview: The North Water + Q&A with director Andrew Haigh and cast**<br>
+Wed 4 Aug 18:15<br>
+**The Alan Whicker Centenary:  Welcome to Whicker’s World + intro**<br>
+Sat 7 Aug 14:30<br>
+**The Alan Whicker Centenary:  The Life and Legacy of Alan Whicker**<br>
+Sat 7 Aug 17:40<br>
+**Preview: I’m Your Man (Ich bin dein Mensch) + pre-recorded Q&A with director Maria Schrader**<br>
+Mon 9 Aug 17:50<br>
+**BFI & Radio Times Television Festival presents: TV Preview: Vigil + Q&A with cast and creatives**<br>
+Mon 23 Aug 18:10<br>
+<br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5NTg0MDQ2LC04Njg4NzUwNDNdfQ==
+eyJoaXN0b3J5IjpbODMzMDEyNjA0LC04Njg4NzUwNDNdfQ==
 -->
