@@ -31,69 +31,69 @@ _Producers:_ Robert Altman, Wren Arthur, Joshua Astrachan, Tony Judge, David Lev
 _Associate Producer:_ Lowell Dubrinsky<br>
 _For Sandcastle 5: Production:_ Timothy McDowell<br>
 _For GreeneStreet Films: Head of Production:_ Tim Williams<br>
-_For Prairie Home Productions: General Manager:_ Kate Gustafson Sanderson; _Technical Director:_ Scott Rivard; _Stage Manager:_ Albert Webster
-_Unit Production Manager:_ Julie Hartley
-_Production Co-ordinator:_ Christopher K. Grap
-_Production Accountant:_ Maeve Mannion
+_For Prairie Home Productions: General Manager:_ Kate Gustafson Sanderson; _Technical Director:_ Scott Rivard; _Stage Manager:_ Albert Webster<br>
+_Unit Production Manager:_ Julie Hartley<br>
+_Production Co-ordinator:_ Christopher K. Grap<br>
+_Production Accountant:_ Maeve Mannion<br>
 _For The Fitzgerald Theater: General Manager:_  
-Brian G. Sanderson; _Production Manager:_  Thomas Campbell
-_1st Assistant Director:_ Vebe Borge
-_2nd Assistant Director:_ Dave Halls
-_Script Supervisor:_ Drucilla Carlson
-_Casting:_ Pam Dixon Mickelson
-_Screenplay:_ Garrison Keillor
-_Story by:_ Garrison Keillor, Ken Lazebnik
-_Director of Photography:_ Ed Lachman
-_Stage Lighting (Fitzgerald Theater):_ Michael Wangen
-_Camera Operators:_ Robert Reed Altman, Pete Biagi
-_Additional Camera Operator:_ Michael St. Hilaire
-_1st Assistant Cameras:_ Steve Speers, Julie Donovan
-_Additional 1st Assistant Camera:_ David Schnack
-_2nd Assistant Cameras:_ Randall Smith, Michael Lindquist
-_Gaffer:_ John W. Deblau
-_Key Grip:_ James McMillan
-_Still Photographer:_ Melinda Sue Gordon
-_Special Effects:_ Steve Hintz
-_Graphic Design:_ Kelly Rae Hemenway
-_Editor:_ Jacob Craycroft
-_On-line Editor:_ Anthony Kounouklos
-_1st Assistant Editor:_ Jane Rizzo
-_2nd Assistant Editor:_ Matthew Giordano
-_Production Design:_ Dina Goldman
-_Art Director:_ Jeffrey Schoen
-_Art Department Co-ordinator:_ S. Catrin Magnusson
-_Set Decorator:_ Tora Peterson
-_Sign Writer:_ Phil Vandevaart
-_Property Master:_ Ben Barraud
-_Costumes:_ Catherine Marie Thomas
-_Assistant Costume Designer:_ Mickey Carleton
-_Costume Supervisor:_ Jane Myers-Williams
-_Make-up Artist/Department Head:_ Kimberly Greene
-_Key Make-up Artist:_ Natalie A. Hale
-_Hairstylist/Department Head:_ Bridget Cook
-_Key Hairstylist:_ Roxanne Wightman
-_Title Design by:_ Big Film Design (_Designers:_ Randall Balsmeyer, J. John Corbett)
-_Digital Intermediate:_ Technicolor New York
-_Lab Timer:_ Don Ciana
-_Additional Musical Score:_ Richard Dworsky
-_Additional Lyrics by:_ Garrison Keillor
-_Music Conducted and Arranged by:_ Richard Dworsky
-_Supervising Music Editor:_ Annette Kudrak
-_Production Music Mixer:_ Samuel Hudson
-_Post-music Mixers:_ Samuel Hudson, Martin Czembor
-_Post-music Recordist:_ Thomas Scheuzger
-_Production Sound:_ Drew Kunin
-_Boom Operator:_ Michael Primmer
-_Re-recording Mixers:_ Michael Barry, Martin Czembor
-_Recordist:_ John Sims
-_Re-recordist:_ Terrance Laudermilch
-_Post-production Facility/Sound:_ Sound One
-_Supervising Sound Editor:_ Eliza Paley
-_Sound Editors:_ Dan Korintus, Mariusz Glabinski, Bruce Kitzmeyer
-_Sound Effects Recordist:_ Michael De Mark
-_ADR Mixer:_ Bobby Johanson
-_ADR Editor:_ Gina R. Alfano
-_Foley Supervisor:_ Andy Malcolm
+Brian G. Sanderson; _Production Manager:_  Thomas Campbell<br>
+_1st Assistant Director:_ Vebe Borge<br>
+_2nd Assistant Director:_ Dave Halls<br>
+_Script Supervisor:_ Drucilla Carlson<br>
+_Casting:_ Pam Dixon Mickelson<br>
+_Screenplay:_ Garrison Keillor<br>
+_Story by:_ Garrison Keillor, Ken Lazebnik<br>
+_Director of Photography:_ Ed Lachman<br>
+_Stage Lighting (Fitzgerald Theater):_ Michael Wangen<br>
+_Camera Operators:_ Robert Reed Altman, Pete Biagi<br>
+_Additional Camera Operator:_ Michael St. Hilaire<br>
+_1st Assistant Cameras:_ Steve Speers, Julie Donovan<br>
+_Additional 1st Assistant Camera:_ David Schnack<br>
+_2nd Assistant Cameras:_ Randall Smith, Michael Lindquist<br>
+_Gaffer:_ John W. Deblau<br>
+_Key Grip:_ James McMillan<br>
+_Still Photographer:_ Melinda Sue Gordon<br>
+_Special Effects:_ Steve Hintz<br>
+_Graphic Design:_ Kelly Rae Hemenway<br>
+_Editor:_ Jacob Craycroft<br>
+_On-line Editor:_ Anthony Kounouklos<br>
+_1st Assistant Editor:_ Jane Rizzo<br>
+_2nd Assistant Editor:_ Matthew Giordano<br>
+_Production Design:_ Dina Goldman<br>
+_Art Director:_ Jeffrey Schoen<br>
+_Art Department Co-ordinator:_ S. Catrin Magnusson<br>
+_Set Decorator:_ Tora Peterson<br>
+_Sign Writer:_ Phil Vandevaart<br>
+_Property Master:_ Ben Barraud<br>
+_Costumes:_ Catherine Marie Thomas<br>
+_Assistant Costume Designer:_ Mickey Carleton<br>
+_Costume Supervisor:_ Jane Myers-Williams<br>
+_Make-up Artist/Department Head:_ Kimberly Greene<br>
+_Key Make-up Artist:_ Natalie A. Hale<br>
+_Hairstylist/Department Head:_ Bridget Cook<br>
+_Key Hairstylist:_ Roxanne Wightman<br>
+_Title Design by:_ Big Film Design (_Designers:_ Randall Balsmeyer, J. John Corbett)<br>
+_Digital Intermediate:_ Technicolor New York<br>
+_Lab Timer:_ Don Ciana<br>
+_Additional Musical Score:_ Richard Dworsky<br>
+_Additional Lyrics by:_ Garrison Keillor<br>
+_Music Conducted and Arranged by:_ Richard Dworsky<br>
+_Supervising Music Editor:_ Annette Kudrak<br>
+_Production Music Mixer:_ Samuel Hudson<br>
+_Post-music Mixers:_ Samuel Hudson, Martin Czembor<br>
+_Post-music Recordist:_ Thomas Scheuzger<br>
+_Production Sound:_ Drew Kunin<br>
+_Boom Operator:_ Michael Primmer<br>
+_Re-recording Mixers:_ Michael Barry, Martin Czembor<br>
+_Recordist:_ John Sims<br>
+_Re-recordist:_ Terrance Laudermilch<br>
+_Post-production Facility/Sound:_ Sound One<br>
+_Supervising Sound Editor:_ Eliza Paley<br>
+_Sound Editors:_ Dan Korintus, Mariusz Glabinski, Bruce Kitzmeyer<br>
+_Sound Effects Recordist:_ Michael De Mark<br>
+_ADR Mixer:_ Bobby Johanson<br>
+_ADR Editor:_ Gina R. Alfano<br>
+_Foley Supervisor:_ Andy Malcolm<br>
 _Foley Artist:_ Goro Koyama
 _Recording Foley Mixer:_ Don White
 _Dolby Sound Consultant:_ Steve F.B. Smith
@@ -130,5 +130,5 @@ Pop Wagner _(musician extras)_<br>
 USA 2006©<br>
 106 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg2NjIyNDVdfQ==
+eyJoaXN0b3J5IjpbMjMzMTIyOTk1XX0=
 -->
