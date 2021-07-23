@@ -52,46 +52,28 @@ Pál Zolnay _(grandpa)_
 Adél Kováts _(Natasha)_  
 Erzsébet Kútvölgyi _(Erzsi)_  
 Tamás Tóth _(András)_<br>
+Jerzy Bincyczki _(professor)_<br>
 
-Jerzy Bincyczki _(professor)_
-
-Hungary 1987
-
-128 mins
-
+Hungary 1987<br>
+128 mins<br>
+<br>
   
-<![if !supportLineBreakNewLine]>  
-<![endif]>
-
 **ORDINARY PEOPLE, EXTRAORDINARY LIVES**
+**THE CINEMA OF MÁRTA MÉSZÁROS**<br>
+**Diary for My Loves (Napló szerelmeimnek)**<br>
+Sat 24 Jul 17:30; Sat 31 Jul 20:30<br>
+**Diary for My Father and Mother (Napló apámnak, anyámnak)**<br>
+Sat 24 Jul 20:45; Sat 31 Jul 14:40<br>
+**Nine Months (Kilenc hónap)**<br>
+Sun 25 Jul 12:30<br>
+**The Two of Them/Two Women (Ök ketten)**<br>
+Mon 26 Jul 18:10<br>
+**The Heiresses (Örökség)**<br>
+Tue 27 Jul 20:30<br>
+**Diary for My Children (Napló gyermekeimnek)**<br>
+Wed 28 Jul 17:50<br>
 
-**THE CINEMA OF MÁRTA MÉSZÁROS**
-
-**Diary for My Loves (Napló szerelmeimnek)**
-
-Sat 24 Jul 17:30; Sat 31 Jul 20:30
-
-**Diary for My Father and Mother (Napló apámnak, anyámnak)**
-
-Sat 24 Jul 20:45; Sat 31 Jul 14:40
-
-**Nine Months (Kilenc hónap)**
-
-Sun 25 Jul 12:30
-
-**The Two of Them/Two Women (Ök ketten)**
-
-Mon 26 Jul 18:10
-
-**The Heiresses (****Örökség)**
-
-Tue 27 Jul 20:30
-
-**Diary for My Children (Napló gyermekeimnek)**
-
-Wed 28 Jul 17:50
-
-The restorations in this season were made from the original camera negatives, original magnetic tape sounds and positive prints, supervised and presented by the National Film Institute Hungary – Film Archive. The restorations were carried out at the NFI Film Archive and Filmlab.
+The restorations in this season were made from the original camera negatives, original magnetic tape sounds and positive prints, supervised and presented by the National Film Institute Hungary – Film Archive. The restorations were carried out at the NFI Film Archive and Filmlab.<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg3MjEzNjhdfQ==
+eyJoaXN0b3J5IjpbLTIxMTQwNDQzMzZdfQ==
 -->
