@@ -19,18 +19,18 @@ In strictly Altmanesque terms, though, one might wonder at the role of these sec
 Whether or not it’s the entry to a ‘land of delight’, death is an inevitable and unavoidable kind of altered state. And while it’s not exactly an uncommon occurrence in cinema as a whole, it has certain striking and peculiar functions in Altman. For one thing, it’s an altered state that is often welcomed through suicide. ‘Suicide is painless,’ declares the title song of _MASH_, which later forms the basis for the Last Supper interlude. The suicide of Cookie (Patricia Neal) in _Cookie’s Fortune_ convulses her family, and Lola (Lindsay Lohan), Yolanda’s disaffected teen daughter in _A Prairie Home Companion_, writes poetically about doing it to yourself with a car exhaust and hose pipe: ‘Death is easy, like jumping in the big blue air and waving hello to God’ or ‘Don’t expect to wake up and get toast for breakfast/The toast is you.’ ‘Suicide is painless’ isn’t in it.<br>
 **Richard Combs, _Sight & Sound_, February 2007**
 
-**A PRAIRIE HOME COMPANION**
-_Directed by:_ Robert Altman
-_©:_ Powdermilk Pictures, LLC
-_Production Companies:_ Sandcastle 5 Productions, Prairie Home
-_Presented by:_ GreeneStreet Films, River Road Productions
-_Distribution Advisory Services:_ Cinetic Media
-_Executive Producers:_ John Penotti, Fisher Stevens, William Pohlad, George Sheanshang
-_Co-executive Producers:_ Frederick W. Green, Patty Payne Green, Gerard L. Cafesjian, Armenia Film Studio, John H. Stout
-_Producers:_ Robert Altman, Wren Arthur, Joshua Astrachan, Tony Judge, David Levy
-_Associate Producer:_ Lowell Dubrinsky
-_For Sandcastle 5: Production:_ Timothy McDowell
-_For GreeneStreet Films: Head of Production:_ Tim Williams
+**A PRAIRIE HOME COMPANION**<br>
+_Directed by:_ Robert Altman<br>
+_©:_ Powdermilk Pictures, LLC<br>
+_Production Companies:_ Sandcastle 5 Productions, Prairie Home<br>
+_Presented by:_ GreeneStreet Films, River Road Productions<br>
+_Distribution Advisory Services:_ Cinetic Media<br>
+_Executive Producers:_ John Penotti, Fisher Stevens, William Pohlad, George Sheanshang<br>
+_Co-executive Producers:_ Frederick W. Green, Patty Payne Green, Gerard L. Cafesjian, Armenia Film Studio, John H. Stout<br>
+_Producers:_ Robert Altman, Wren Arthur, Joshua Astrachan, Tony Judge, David Levy<br>
+_Associate Producer:_ Lowell Dubrinsky<br>
+_For Sandcastle 5: Production:_ Timothy McDowell<br>
+_For GreeneStreet Films: Head of Production:_ Tim Williams<br>
 _For Prairie Home Productions: General Manager:_ Kate Gustafson Sanderson; _Technical Director:_ Scott Rivard; _Stage Manager:_ Albert Webster
 _Unit Production Manager:_ Julie Hartley
 _Production Co-ordinator:_ Christopher K. Grap
@@ -83,89 +83,52 @@ _Production Music Mixer:_ Samuel Hudson
 _Post-music Mixers:_ Samuel Hudson, Martin Czembor
 _Post-music Recordist:_ Thomas Scheuzger
 _Production Sound:_ Drew Kunin
-
 _Boom Operator:_ Michael Primmer
-
-_Re-recording Mixers:_ Michael Barry,
-
-Martin Czembor
-
+_Re-recording Mixers:_ Michael Barry, Martin Czembor
 _Recordist:_ John Sims
-
 _Re-recordist:_ Terrance Laudermilch
-
 _Post-production Facility/Sound:_ Sound One
-
 _Supervising Sound Editor:_ Eliza Paley
-
 _Sound Editors:_ Dan Korintus, Mariusz Glabinski, Bruce Kitzmeyer
-
 _Sound Effects Recordist:_ Michael De Mark
-
 _ADR Mixer:_ Bobby Johanson
-
 _ADR Editor:_ Gina R. Alfano
-
 _Foley Supervisor:_ Andy Malcolm
-
 _Foley Artist:_ Goro Koyama
-
 _Recording Foley Mixer:_ Don White
-
 _Dolby Sound Consultant:_ Steve F.B. Smith
-
 _Special Thanks:_ Paul Thomas Anderson
 
-_Cast:_
-
+**Cast**<br>
 Marylouise Burke _(Evelyn, the lunch lady)_
-
 Woody Harrelson _(Dusty)_
-
 L.Q. Jones _(Chuck Akers)_
-
 Tommy Lee Jones _(the axeman)_
-
 Garrison Keillor _(Garrison Keillor, ‘G.K.’)_
-
 Kevin Kline _(Guy Noir)_
-
 Lindsay Lohan _(Lola Johnson)_
-
 Virginia Madsen _(Asphodel, dangerous woman)_
-
 John C. Reilly _(Lefty)_
-
 Maya Rudolph _(Molly, assistant stage manager)_
-
 Tim Russell _(Al, stage manager)_
-
 Sue Scott _(Donna, makeup lady)_
-
 Meryl Streep _(Yolanda Johnson)_
-
 Lily Tomlin _(Rhonda Johnson)_
-
 Tom Keith _(himself, sound effects man)_
-
 Jearlyn Steele _(herself, gospel singer)_
-
 Robin Williams _(himself)_
-
 Linda Williams _(herself)_
-
 Prudence Johnson _(herself)_
-
 The Guys All-Star Shoe Band: Richard Dworsky _(piano/organ/bandleader);_ Pat Donohue _(guitar);_ Andy Stein _(violin/saxophone);_ Gary Raynor _(bass);_ Arnie Kinsella _(drums); with featured musicians:_ Peter Ostroushko _(mandolin/fiddle);_ Butch Thompson _(clarinet)_
 Christopher K. Grap _(axeman’s chauffeur)_
 Debbie Delisi _(lobby usher)_
 Bob Douglas_,_ Adam Granger_,_ Bill Hinkley_,_
 John Koerner_,_ Judy Larson_,_ Dan Newton_,_
 Jon Pankake_,_ Dick Rees_,_ Becky Schlegel_,_
-Pop Wagner _(musician extras)_
+Pop Wagner _(musician extras)_<br>
 
 USA 2006©<br>
 106 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDgzMzgyNDFdfQ==
+eyJoaXN0b3J5IjpbLTExMTg2NjIyNDVdfQ==
 -->
