@@ -35,117 +35,53 @@ _For Prairie Home Productions: General Manager:_ Kate Gustafson Sanderson; _Tech
 _Unit Production Manager:_ Julie Hartley
 _Production Co-ordinator:_ Christopher K. Grap
 _Production Accountant:_ Maeve Mannion
-
 _For The Fitzgerald Theater: General Manager:_  
-Brian G. Sanderson; _Production Manager:_  
-Thomas Campbell
-
+Brian G. Sanderson; _Production Manager:_  Thomas Campbell
 _1st Assistant Director:_ Vebe Borge
-
 _2nd Assistant Director:_ Dave Halls
-
 _Script Supervisor:_ Drucilla Carlson
-
 _Casting:_ Pam Dixon Mickelson
-
 _Screenplay:_ Garrison Keillor
-
 _Story by:_ Garrison Keillor, Ken Lazebnik
-
 _Director of Photography:_ Ed Lachman
-
-_Stage Lighting (Fitzgerald Theater):_
-
-Michael Wangen
-
-_Camera Operators:_ Robert Reed Altman,
-
-Pete Biagi
-
+_Stage Lighting (Fitzgerald Theater):_ Michael Wangen
+_Camera Operators:_ Robert Reed Altman, Pete Biagi
 _Additional Camera Operator:_ Michael St. Hilaire
-
-_1st Assistant Cameras:_ Steve Speers,
-
-Julie Donovan
-
+_1st Assistant Cameras:_ Steve Speers, Julie Donovan
 _Additional 1st Assistant Camera:_ David Schnack
-
-_2nd Assistant Cameras:_ Randall Smith,
-
-Michael Lindquist
-
+_2nd Assistant Cameras:_ Randall Smith, Michael Lindquist
 _Gaffer:_ John W. Deblau
-
 _Key Grip:_ James McMillan
-
 _Still Photographer:_ Melinda Sue Gordon
-
 _Special Effects:_ Steve Hintz
-
 _Graphic Design:_ Kelly Rae Hemenway
-
 _Editor:_ Jacob Craycroft
-
 _On-line Editor:_ Anthony Kounouklos
-
 _1st Assistant Editor:_ Jane Rizzo
-
 _2nd Assistant Editor:_ Matthew Giordano
-
 _Production Design:_ Dina Goldman
-
 _Art Director:_ Jeffrey Schoen
-
-_Art Department Co-ordinator:_
-
-S. Catrin Magnusson
-
+_Art Department Co-ordinator:_ S. Catrin Magnusson
 _Set Decorator:_ Tora Peterson
-
 _Sign Writer:_ Phil Vandevaart
-
 _Property Master:_ Ben Barraud
-
 _Costumes:_ Catherine Marie Thomas
-
 _Assistant Costume Designer:_ Mickey Carleton
-
 _Costume Supervisor:_ Jane Myers-Williams
-
-_Make-up Artist/Department Head:_
-
-Kimberly Greene
-
+_Make-up Artist/Department Head:_ Kimberly Greene
 _Key Make-up Artist:_ Natalie A. Hale
-
 _Hairstylist/Department Head:_ Bridget Cook
-
 _Key Hairstylist:_ Roxanne Wightman
-
 _Title Design by:_ Big Film Design (_Designers:_ Randall Balsmeyer, J. John Corbett)
-
 _Digital Intermediate:_ Technicolor New York
-
 _Lab Timer:_ Don Ciana
-
 _Additional Musical Score:_ Richard Dworsky
-
 _Additional Lyrics by:_ Garrison Keillor
-
-_Music Conducted and Arranged by:_
-
-Richard Dworsky
-
+_Music Conducted and Arranged by:_ Richard Dworsky
 _Supervising Music Editor:_ Annette Kudrak
-
 _Production Music Mixer:_ Samuel Hudson
-
-_Post-music Mixers:_ Samuel Hudson,
-
-Martin Czembor
-
+_Post-music Mixers:_ Samuel Hudson, Martin Czembor
 _Post-music Recordist:_ Thomas Scheuzger
-
 _Production Sound:_ Drew Kunin
 
 _Boom Operator:_ Michael Primmer
@@ -231,5 +167,5 @@ Pop Wagner _(musician extras)_
 USA 2006©<br>
 106 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzUyNjg4OTFdfQ==
+eyJoaXN0b3J5IjpbLTEyMDgzMzgyNDFdfQ==
 -->
