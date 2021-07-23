@@ -62,23 +62,17 @@ Nino Scardina _(coachman)_
 
 Italy/France/UK 2019©  
 125 mins
+<br><br>
 
 
-
-BFI FAMILIES
-
-**Ernest and Celestine**
-
-Sat 1 Aug 12:00; Sat 7 Aug 15:10;  
-Tue 31 Aug 14:15
-
-**Earwig and the Witch**
-
-Tue 3 – Tue 24 Aug
-
-**The Watcher in the Woods**
-
-Sun 22 Aug 13:00; Sun 29 Aug 12:40
+**BFI FAMILIES**<br>
+**Ernest and Celestine**<br>
+Sat 1 Aug 12:00; Sat 7 Aug 15:10;  Tue 31 Aug 14:15<br>
+**Earwig and the Witch**<br>
+Tue 3 – Tue 24 Aug<br>
+**The Watcher in the Woods**<br>
+Sun 22 Aug 13:00; Sun 29 Aug 12:40<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4MDgxODI2XX0=
+eyJoaXN0b3J5IjpbLTEwMDcxMjIxNDJdfQ==
 -->
