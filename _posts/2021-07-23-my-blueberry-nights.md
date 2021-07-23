@@ -146,10 +146,10 @@ Thu 29 Jul 20:45<br>
 Fri 30 Jul 18:20<br>
 **Ashes of Time Redux (Dung che sai duk)**<br>
 Fri 30 Jul 20:45<br>
-**2046** <br>
-Sat 31 Jul 14:30
+**2046**<br>
+Sat 31 Jul 14:30<br>
 
 Presented in partnership with Janus Films and the ICA<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk5MDI1NF19
+eyJoaXN0b3J5IjpbODQ2NDgwMTY2XX0=
 -->
