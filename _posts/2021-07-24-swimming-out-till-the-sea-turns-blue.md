@@ -34,8 +34,7 @@ _Yu Hua is in some ways the film’s odd-man-out, less rooted in a rural environ
 
 Yu Hua emerged in the 1980s as a pioneering writer. Unlike preceding generations, he was never forced to sacrifice his literary practice on the altar of ‘revolutionary literature and art’. When he began, other Chinese writers were already striving for more openness and diversity in Chinese literature. He was an individualist from the very start, using his personal feelings to describe Chinese society. He looks like an odd-man-out in the film because he brings a different ideology to his literary world; he’s even something of a post-modernist. So his work brings an ironic attitude into play, something that earlier writers wouldn’t have attempted; he sets out to dispel hypocrisy and challenge authority, facing the darkness deep down by cutting through the sugar-coating. He represents a generation that respects individual experience and rejects the image of an idealised society. He often sets his work in townships precisely because those are the places where urban and rural traits intersect. Townships themselves are structured by their relationship with the countryside, country people and old traditions, much more so than cities are. It’s not that one is more important than the other, but rather that urban and rural characteristics co-exist in the same space.
 
-_Your chapter titles stress the importance of family relationships and personal experiences in a way which echoes the stories you wrote for the acted characters in  
-_24 City_. How do you see the relationships between lived experiences and larger socio-political developments in China?_
+_Your chapter titles stress the importance of family relationships and personal experiences in a way which echoes the stories you wrote for the acted characters in_ 24 City _. How do you see the relationships between lived experiences and larger socio-political developments in China?_
 
 The film is divided into 18 chapters, a quasi-musical structure of a kind that classic Chinese novels also often used. I can classify them like this. First, each of the four featured writers is given his or her own chapter. Liang Hong’s chapter, towards the end, is extended in three more chapters of – ‘Mother’, ‘Father’ and ‘Son’ – which cover the basic family relationship in human society. The other chapter titles refer to common life issues which confront every one of us: ‘Eating’, ‘Love’, ‘Disease’ and so on. My main interest in the film is not simply to reveal larger socio-political developments, but to understand how these changes have affected individuals. Individual experiences, especially detailed descriptions of individual memories, are crucial for understanding history. Only by exploring them can I feel that I have truly made inroads into history.
 
@@ -64,7 +63,7 @@ China 2020
 112 mins
 <br><br>
 
-<img style="float: left;" src="/img/cvf-logo-01.png" width="20%" height="20%"><br>
+<img style="float: left;" src="/img/cvf-logo-01.png" width="40%" height="40%"><br>
 <br><br><br><br><br><br><br>
 
 
