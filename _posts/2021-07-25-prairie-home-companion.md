@@ -137,6 +137,18 @@ USA 2006©<br>
 106 mins<br>
 <br><br>
 
+**ROBERT ALTMAN: AMERICAN OUTSIDER**<br>
+**A Prairie Home Companion**  
+Sun 25 Jul 12:00; Sat 31 Jul 17:50  
+**Dr T & The Women**  
+Mon 26 Jul 20:30  
+**Cookie’s Fortune**  
+Tue 27 Jul 17:40  
+**The Player**  
+Wed 28 Jul 20:30  
+**The Company**  
+Sat 31 Jul 11:50  
+
 **Promotional partners**  
 <img style="float: left;" src="/img/partner/yeastie-boys-logo.png" alt="Yeastie Boys" title="Yeastie Boys">
 <br><br><br><br><br><br><br><br>
