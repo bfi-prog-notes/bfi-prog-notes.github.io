@@ -64,7 +64,7 @@ China 2020
 112 mins
 <br><br>
 
-<img style="float: left;" src="/img/cvf-logo-01.png" width="40%" height="40%"><br>
+<img style="float: left;" src="/img/cvf-logo-01.png" width="20%" height="20%"><br>
 <br><br><br><br><br><br><br>
 
 
