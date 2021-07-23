@@ -17,47 +17,30 @@ Mészáros’ _Diary_ trilogy, spanning two decades of Hungary’s transition fr
 **Catherine Portuges, _Hungarian Cinema of Márta Mészáros – Screen Memories_ (Indiana University Press,1993) quoted in: Eszter Fazekas, _Restored Films of Márta Mészáros_, National Film Institute Hungary – Film Archive**<br>
 <br>
 
-
-
-**DIARY FOR MY FATHER AND MOTHER**
-
-**(NAPLÓ APÁMNAK, ANYÁMNAK)**
-
+**DIARY FOR MY FATHER AND MOTHER**<br>
+**(NAPLÓ APÁMNAK, ANYÁMNAK)**<br>
 _Director_: Márta Mészáros  
 _Production Companies_: Budapest Film Studio, Budapest Hungarofilm  
 _Producer_: Gábor Hanák  
-_Production Manager:_ Ferenc Szohár
-
-_Studio Head:_ Gábor Hanák
-
-_Screenplay_: Márta Mészáros, Éva Pataki
-
-_Cinematographers:_ Nyika Jancsó, Loránd Mertz
-
+_Production Manager:_ Ferenc Szohár  
+_Studio Head:_ Gábor Hanák<br>
+_Screenplay_: Márta Mészáros, Éva Pataki<br>
+_Cinematographers:_ Nyika Jancsó, Loránd Mertz<br>
 _Camera Operators:_ Árpád Tóth, Rudolf Grátzer
-
 _Assistant Director:_ Margit Torzsa
-
 _Editor:_ Éva Kármentö
-
 _Art Director:_ Éva Martin
-
 _Costume Designer:_ Fanny Kemenes
-
 _Composer:_ Zsolt Döme
-
 _Sound:_ István Sipos
 
-_Cast:_
-
+**Cast**
 Zsuzsa Czinkóczi _(Juli)_  
 Jan Nowicki _(János)_  
 Mari Töröcsik _(Vera)_  
 Ildikó Bánsági _(Ildi)_  
 Anna Polony _(Magda)_
-
 Irina Kuberszkaja _(Anna Pavlovna)_
-
 Tamás Tóth _(András)_  
 Lajos Balázsovits
 
@@ -96,5 +79,5 @@ Sat 31 Jul 20:30
 
 The restorations in this season were made from the original camera negatives, original magnetic tape sounds and positive prints, supervised and presented by the National Film Institute Hungary – Film Archive. The restorations were carried out at the NFI Film Archive and Filmlab.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzEwNTc2Nl19
+eyJoaXN0b3J5IjpbMjA2NDgzNDU2NCwtOTE3MTA1NzY2XX0=
 -->
