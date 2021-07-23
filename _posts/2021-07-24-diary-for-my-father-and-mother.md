@@ -26,58 +26,44 @@ _Production Manager:_ Ferenc Szohár
 _Studio Head:_ Gábor Hanák<br>
 _Screenplay_: Márta Mészáros, Éva Pataki<br>
 _Cinematographers:_ Nyika Jancsó, Loránd Mertz<br>
-_Camera Operators:_ Árpád Tóth, Rudolf Grátzer
-_Assistant Director:_ Margit Torzsa
-_Editor:_ Éva Kármentö
-_Art Director:_ Éva Martin
-_Costume Designer:_ Fanny Kemenes
-_Composer:_ Zsolt Döme
-_Sound:_ István Sipos
+_Camera Operators:_ Árpád Tóth, Rudolf Grátzer<br>
+_Assistant Director:_ Margit Torzsa<br>
+_Editor:_ Éva Kármentö<br>
+_Art Director:_ Éva Martin<br>
+_Costume Designer:_ Fanny Kemenes<br>
+_Composer:_ Zsolt Döme<br>
+_Sound:_ István Sipos<br>
 
-**Cast**
+**Cast**<br>
 Zsuzsa Czinkóczi _(Juli)_  
 Jan Nowicki _(János)_  
 Mari Töröcsik _(Vera)_  
 Ildikó Bánsági _(Ildi)_  
-Anna Polony _(Magda)_
-Irina Kuberszkaja _(Anna Pavlovna)_
+Anna Polony _(Magda)_  
+Irina Kuberszkaja _(Anna Pavlovna)_  
 Tamás Tóth _(András)_  
-Lajos Balázsovits
+Lajos Balázsovits<br>
 
-Hungary 1990
+Hungary 1990<br>
+115 mins<br>
 
-115 mins
-
-**ORDINARY PEOPLE, EXTRAORDINARY LIVES**
-
-**THE CINEMA OF MÁRTA MÉSZÁROS**
-
+**ORDINARY PEOPLE, EXTRAORDINARY LIVES**<br>
+**THE CINEMA OF MÁRTA MÉSZÁROS**<br>
 **Diary for My Father and Mother  
 (Napló apámnak, anyámnak)**
-
 Sat 24 Jul 20:45; Sat 31 Jul 14:40
-
 **Nine Months (Kilenc hónap)**
-
 Sun 25 Jul 12:30
-
 **The Two of Them/Two Women (Ök ketten)**
-
 Mon 26 Jul 18:10
-
-**The Heiresses (****Örökség)**
-
+**The Heiresses (Örökség)**
 Tue 27 Jul 20:30
-
 **Diary for My Children (Napló gyermekeimnek)**
-
 Wed 28 Jul 17:50
-
 **Diary for My Loves (Napló szerelmeimnek)**
+Sat 31 Jul 20:30<br>
 
-Sat 31 Jul 20:30
-
-The restorations in this season were made from the original camera negatives, original magnetic tape sounds and positive prints, supervised and presented by the National Film Institute Hungary – Film Archive. The restorations were carried out at the NFI Film Archive and Filmlab.
+The restorations in this season were made from the original camera negatives, original magnetic tape sounds and positive prints, supervised and presented by the National Film Institute Hungary – Film Archive. The restorations were carried out at the NFI Film Archive and Filmlab.<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDgzNDU2NCwtOTE3MTA1NzY2XX0=
+eyJoaXN0b3J5IjpbNjQ0NDYzNjcwLC05MTcxMDU3NjZdfQ==
 -->
