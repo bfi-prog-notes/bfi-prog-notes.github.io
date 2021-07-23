@@ -13,17 +13,23 @@ pdf: '2021-07-23-my-blueberry-nights.pdf'
 
 _What was the primary impulse behind the film?_
 
-I was in New York, doing some research for _Lady from Shanghai_, a project I have with Nicole Kidman, and I somehow got the chance to meet Norah Jones. We sat and talked in a cafe in SoHo. I found her character very straightforward and confident, and so I asked her if she’d ever thought about acting. She didn’t ask why I was asking, she just said, ‘You think I can act?’ So I said, ‘Why not?’ I suggested that we should work together and told her I had a story I’d come up with a few years ago that might be the idea we could start from.
+I was in New York, doing some research for _Lady from Shanghai_, a project I have with Nicole Kidman, and I somehow got the chance to meet Norah Jones. We sat and talked in a cafe in SoHo. I found her character very straightforward and confident, and so I asked her if she’d ever thought about acting. She didn’t ask why I was asking, she just said, ‘You think I can act?’ So I said, ‘Why not?’  
+I suggested that we should work together and told her I had a story I’d come up with a few years ago that might be the idea we could start from.
 
 The story was one I used in a short film called _In the Mood for Love 2001_, which was screened in Cannes that year but hasn’t really been seen since. It’s about a chance encounter in a convenience store in Hong Kong between two people, played by Tony Leung and Maggie Cheung, who may or may not have a relationship. I showed Norah Jones the short film and we started thinking about moving it to the United States and expanding it. So the main reason to make the film in English was that Norah obviously couldn’t do it in Chinese. And I guess some of her attitude rubbed off on me: that ‘why shouldn’t I give it a try?’
 
 _Was it very intimidating to work in the US?_
 
-I know I’m not the first foreign director to make a film that looks at America. I think the way I work is quite well known: I don’t build stories, I build characters. I always have to know all about the people in the film, so even if we see this woman only in a café, I have to know where she came from, what she was doing yesterday. I need all that background. If I shoot with Tony and Maggie in Hong Kong, I can easily imagine what’s around them and what’s behind their characters. But I needed to be able to do that with my American characters too. When I look at an Edward Hopper painting, I can feel the existence of the people he shows. The question I need to ask is always, ‘What impression do I get from this face, this gesture?’
+I know I’m not the first foreign director to make a film that looks at America. I think the way I work is quite well known: I don’t build stories, I build characters. I always have to know all about the people in the film, so even if we see this woman only in a café, I have to know where she came from, what she was doing yesterday.  
+I need all that background. If I shoot with Tony and Maggie in Hong Kong, I can easily imagine what’s around them and what’s behind their characters. But I needed to be able to do that with my American characters too. When I look at an Edward Hopper painting, I can feel the existence of the people he shows.  
+The question I need to ask is always, ‘What impression do I get from this face,  
+this gesture?’
 
 _How did you settle on the novelist Lawrence Block as your script collaborator?_
 
-Since the film was going to be in English, I knew I’d need help to write the script. I can’t be the one telling the story myself; I have to be behind someone else, outside looking in. I knew Larry’s novels and short stories from long ago, but I hadn’t met him. I especially liked his character Matt Scudder, a private eye in New York who has a drink problem. He used to be a cop but he accidentally killed someone so he had to quit the force and become a private detective. Knowing those stories made me think I should try to get Larry to help me.
+Since the film was going to be in English, I knew I’d need help to write the script.  
+I can’t be the one telling the story myself; I have to be behind someone else, outside looking in. I knew Larry’s novels and short stories from long ago, but I hadn’t met him. I especially liked his character Matt Scudder, a private eye in  
+New York who has a drink problem. He used to be a cop but he accidentally killed someone so he had to quit the force and become a private detective. Knowing those stories made me think I should try to get Larry to help me.
 
 Actually my first thought was to get a different writer for each ‘chapter’ of the film: one for the first and last chapters in New York, one for the chapter in Memphis, Tennessee, and one for the chapter set in a small town in Nevada. But Larry is very fast, and he understood immediately what I was trying to do, so I asked him if he could write it all. It was only about two months from the time we had the idea to the start of shooting.
 
@@ -39,13 +45,15 @@ _And Elizabeth’s emotional trajectory? How did you determine that?_
 
 I always have books with me when I travel and I had three on these trips, all of which influenced my thinking. One was Sophie Calle’s _Exquisite Pain_, which is a kind of photo album with texts that chronicles the most unhappy days of her life from a vantage point of 15 years later. She has been stood up by a man. She keeps repeating her story to different people, and each time she tells it, it becomes less detailed until by the end it’s very vague. The book is full of things I like. At one point she wanders around an unfamiliar city, goes into a diner and orders sausage – a dish she hates! – and she doesn’t know why.
 
-Another book (I’ve forgotten the title) was a guide to quitting addictions –smoking, drinking, bad relationships, everything. It’s very schematic: the writer says that when you reach this stage, you can expect to have this symptom, and so on. I found myself using this book like a menu, with the chapters in the film becoming like the stages in the writer’s analysis of withdrawal from addiction.
+Another book (I’ve forgotten the title) was a guide to quitting addictions –smoking, drinking, bad relationships, everything. It’s very schematic: the writer says that when you reach this stage, you can expect to have this symptom, and so on.  
+I found myself using this book like a menu, with the chapters in the film becoming like the stages in the writer’s analysis of withdrawal from addiction.
 
 And the third book was a collection of Lawrence Block’s stories. All his recurrent characters appear in it and I came to see that many of them are variations on Larry himself. That got me thinking that one of our characters should be a cop. And since we were going to shoot in Memphis, I found myself also thinking about Tennessee Williams and that we should maybe do a tribute to him. So I proposed that to Larry: ‘I want to have a story about a cop and his problem with his wife.’ Larry didn’t travel with us, but I drew a lot of inspiration from him. For instance, he’s an active marathon runner and that ended up becoming part of the background of Jeremy, the Jude Law character.
 
 _I know the actual shoot was fairly tight, so I wonder if you found any time for the ‘trying out ideas’ approach you bring to your Chinese films?_
 
-In some ways there was even more of that than in the Chinese films. I had to involve all the cast and crew. At the start of the shoot I told everybody: ‘We’ve seen so many films about Chinese people made by foreigners which look very weird to us, and I don’t want to repeat that mistake! Even if I spent three years here working on this film, I’d never see things as an American does. So I need all of you to be involved in commenting and giving advice.’ They were a bit shocked at first, because of course they’re used to having directors tell them exactly what they want. But they got into it, and we ended up having a lot of fun together. They were surprised when I gave them a script; they thought I didn’t work with one at all. And we did make changes as we went along, often in response to their suggestions, though all of the changes were to bring us closer to the characters.<br>
+In some ways there was even more of that than in the Chinese films. I had to involve all the cast and crew. At the start of the shoot I told everybody: ‘We’ve seen so many films about Chinese people made by foreigners which look very weird to us, and I don’t want to repeat that mistake! Even if I spent three years here working on this film, I’d never see things as an American does. So I need all of you to be involved in commenting and giving advice.’ They were a bit shocked at first, because of course they’re used to having directors tell them exactly what they want. But they got into it, and we ended up having a lot of fun together.  
+They were surprised when I gave them a script; they thought I didn’t work with one at all. And we did make changes as we went along, often in response to their suggestions, though all of the changes were to bring us closer to the characters.<br>
 **Wong Kar Wai interviewed by Tony Rayns, _Sight & Sound_, March 2008**<br>
 <br>
 **MY BLUEBERRY NIGHTS**
@@ -176,3 +184,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUyODIyODY2Ml19
+-->
