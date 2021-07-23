@@ -123,11 +123,10 @@ The Guys All-Star Shoe Band: Richard Dworsky _(piano/organ/bandleader);_ Pat Don
 Christopher K. Grap _(axeman’s chauffeur)_<br>
 Debbie Delisi _(lobby usher)_<br>
 Bob Douglas, Adam Granger, Bill Hinkley,
-John Koerner, Judy Larson, Dan Newton, Jon Pankake, Dick Rees,_ Becky Schlegel_,_
-Pop Wagner _(musician extras)_<br>
+John Koerner, Judy Larson, Dan Newton, Jon Pankake, Dick Rees, Becky Schlegel, Pop Wagner _(musician extras)_<br>
 
 USA 2006©<br>
 106 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Mzg3MTk1Ml19
+eyJoaXN0b3J5IjpbLTg1NTQyMTQ0MV19
 -->
