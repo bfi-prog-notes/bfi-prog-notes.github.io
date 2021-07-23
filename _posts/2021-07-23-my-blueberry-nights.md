@@ -44,50 +44,33 @@ _I know the actual shoot was fairly tight, so I wonder if you found any time for
 
 In some ways there was even more of that than in the Chinese films. I had to involve all the cast and crew. At the start of the shoot I told everybody: ‘We’ve seen so many films about Chinese people made by foreigners which look very weird to us, and I don’t want to repeat that mistake! Even if I spent three years here working on this film, I’d never see things as an American does. So I need all of you to be involved in commenting and giving advice.’ They were a bit shocked at first, because of course they’re used to having directors tell them exactly what they want. But they got into it, and we ended up having a lot of fun together.  
 They were surprised when I gave them a script; they thought I didn’t work with one at all. And we did make changes as we went along, often in response to their suggestions, though all of the changes were to bring us closer to the characters.<br>
-**Wong Kar Wai interviewed by Tony Rayns, _Sight & Sound_, March 2008**
+**Wong Kar Wai interviewed by Tony Rayns, _Sight & Sound_, March 2008**<br>
 
-<![endif]-->
-
-**My Blueberry Nights**
-
+**MY BLUEBERRY NIGHTS**
 _Directed by_: Wong Kar Wai  
 _©/Presented by_: Block 2 Pictures  
-_Production Companies_: Jet Tone Films,
-
-Lou Yi Limited  
-_With the participation of_:
-
-Shanghai Film Group Corporation  
+_Production Companies_: Jet Tone Films, Lou Yi Limited  
+_With the participation of_: Shanghai Film Group Corporation  
 _Presented by_: StudioCanal  
 _Executive Producer_: Chan Ye Cheng  
 _Produced by_: Wong Kar Wai, Jean-Louis Piel  
 _Producers_: Jacky Pang Yee Wah, Wang Wei  
 _Line Producers_: Alice Chan, Pamela Thur-weir  
 _Unit Production Manager_: Pamela Thur-weir  
-_Production Supervisors_: Andy Wheeler,
-
-Kim Surowicz  
+_Production Supervisors_: Andy Wheeler, Kim Surowicz  
 _Production Accountant_: Andy Wheeler  
-_Location Managers (NY City)_:
-
-Patty Carey Perrazzo, Sam Hutchins,  
+_Location Managers (NY City)_: Patty Carey Perrazzo, Sam Hutchins,  
 Tom Yeager  
 _Location Manager (Memphis)_: Diego Prange  
-_Location Manager (Nevada)_:
-
-Kristi Frankenheimer  
-_1st Assistant Directors_: H.H. Cooper,
-
-Glen Trotiner  
+_Location Manager (Nevada)_: Kristi Frankenheimer  
+_1st Assistant Directors_: H.H. Cooper, Glen Trotiner  
 _Script Supervisor_: Massoumeh Emami  
 _Casting_: Avy Kaufman  
 _Screenplay by_: Wong Kar Wai, Lawrence Block  
 _Story by_: Wong Kar Wai  
 _Director of Photography_: Darius Khondji  
 _2nd Unit Director of Photography_: Gene Engels  
-_Hong Kong Director of Photography_:
-
-Kwan Pun-leung  
+_Hong Kong Director of Photography_: Kwan Pun-leung  
 _1st Assistant Camera_: Felipe Reinheimer  
 _Gaffer_: Gene Engels  
 _Key Grip_: Michael Coo  
@@ -96,9 +79,7 @@ _Visual Effects by_: Oriental Post
 _Additional Visual Effects by_: Big Film Design  
 _Edited by_: William Chang Suk Ping  
 _Assistant Editor_: Andy Chan Chi Wai  
-_Digital On-line Editor_:
-
-Suwit Tiwakornkul, Narathorn Hemratanathorn  
+_Digital On-line Editor_: Suwit Tiwakornkul, Narathorn Hemratanathorn  
 _Production Design by_: William Chang Suk Ping  
 _Art Director_: Judy Rhee  
 _Property Master_: Jill Alexander  
@@ -114,18 +95,14 @@ _Supervising Sound Designer_: Michael Baird
 _Sound Designer_: Claude Letessier  
 _Production Sound Mixer_: Drew Kunin  
 _Boom Operator_: Kira Smith  
-_Sound Mixed by_: Jonathan Wales,
-
-Scott Hinkley  
+_Sound Mixed by_: Jonathan Wales, Scott Hinkley  
 _Supervising Dialogue Editor_: Walter Spencer  
 _Dialogue Editor_: Michael Ferdie  
-_Sound Effects Recordists_: Duane Estill,
-
-Smith Long  
+_Sound Effects Recordists_: Duane Estill, Smith Long  
 _Stunt Co-ordinators_: Max Maxwell, Brian Smyj  
 _Dialogue Consultant_: Telly Wong
 
-_Cast_:  
+**Cast**<br>
 Norah Jones _(Elizabeth)_  
 Jude Law _(Jeremy)_  
 David Strathairn _(Arnie)_  
@@ -150,9 +127,8 @@ Bill Hollis _(doctor)_
 Charles Clayton Blackwell _(used car salesman)_  
 Hector Leguillow _(cook)_
 
-China/France/USA/Hong Kong 2007
-
-95 mins
+China/France/USA/Hong Kong 2007<br>
+95 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyNzAyMDI2XX0=
+eyJoaXN0b3J5IjpbLTkzODkzOTM5N119
 -->
