@@ -1,9 +1,18 @@
+---
+layout: post
+title: Diary for My Father and Mother<br>(Napló apámnak, anyámnak) 
+published: true
+date: 2021-07-24 
+readtime: true
+categories: ['ORDINARY PEOPLE, EXTRAORDINARY LIVES<br>THE CINEMA OF MÁRTA MÉSZÁROS']
+tags: [Drama]
+metadata: 'Hungary, 1990, 115 mins<br> Director: Márta Mészáros'
+pdf: '2021-07-24-diary-for-my-father-and-mother.pdf'
+---
 
 ‘Why do we have to lie?’ Juli asks friends in Moscow. Initially prevented from returning to Budapest during the 1956 uprising, she urgently wants to connect with those she loves.
 
-Márta Mészáros’ camera observes ordinary people becoming victims of circumstance; in particular, caught between family and politics, János  
-(Jan Nowicki) shows the fragility of survival. Watch out for the outstanding  
-New Year party scene full of artifice, denial and hope.<br>
+Márta Mészáros’ camera observes ordinary people becoming victims of circumstance; in particular, caught between family and politics, János (Jan Nowicki) shows the fragility of survival. Watch out for the outstanding New Year party scene full of artifice, denial and hope.<br>
 **bfi.org.uk**
 
 _Diary for My Father and Mother_ is particularly striking for its full-blown assault on the Soviet Union (albeit from a historical perspective) in a way that would previously have been unthinkable in anything from a Warsaw Pact country.
@@ -64,6 +73,28 @@ Wed 28 Jul 17:50<br>
 Sat 31 Jul 20:30<br>
 
 The restorations in this season were made from the original camera negatives, original magnetic tape sounds and positive prints, supervised and presented by the National Film Institute Hungary – Film Archive. The restorations were carried out at the NFI Film Archive and Filmlab.<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTkwMzAzNiwtOTE3MTA1NzY2XX0=
--->
+<br>
+<img style="float: left;" src="/img/nfi-hungary-logo-01.png"><br>
+<br><br><br>
+
+**Promotional partner**<br>
+<img style="float: left;" src="/img/hungarian-cultural-centre-logo-01.png">
+<br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+**A selection of titles from this season will be available on BFI Player from 22 July**<br>
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
