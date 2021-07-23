@@ -37,38 +37,24 @@ _People often speak of literature and cinema as opposites, although some of the 
 
 My film _Platform_ opens with a group of peasants chatting and smoking in front of a wall painting outside a village theatre in 1979. We shot that scene in Jia Family Village; the painting on the theatre wall was called ‘Plan for the New Village’. We returned to Jia Family Village for _Swimming Out_, hoping to find the old painting. But it was gone.  Later, we found a new painting in the Village History Museum. It was another plan, but it showed high-rise buildings and electronic communication technologies, none of which appeared on the old one. When I saw tourists taking photos of it on their iPhones, I reflected how different the people in _Platform_ were. I cut together shots of both wall paintings in _Swimming Out_, the one from _Platform_ in 1979 and the new one, and the changes of the last 40 years are immediately apparent and clear. Some feelings can be triggered only by moving images, while others are triggered by the written word.  
 **Jia Zhangke interviewed by Tony Rayns, production notes**
-<br>>
+<br><br>
 
 
-**Swimming Out Till the Sea Turns Blue**
+**SWIMMING OUT TILL THE SEA TURNS BLUE**  
+_Director:_ Jia Zhangke  
+_Production Companies:_  Xstream Pictures (Shanxi),  Huaxia Film Distribution Co., Ltd.  
+_In co-production with:_  Shanghai Film Studio,  Shanxi Film and Television Group,  Huaxin Kylin Culture Media Co., Ltd.,  Wishart Media Co., Ltd.,  
+Huayi Brother Pictures Limited,  Shi Dian (Tianjin) Culture Communication Co., Ltd., We Entertainment Iqiyi Pictures (Beijing) Co., Ltd., Alibaba Pictures (Beijing) Co., Ltd.  
+_Producer:_ Zhao Tao  
+_Written by:_ Jia Zhangke, Wan Jiahuan  
+_Director of Photography:_ Yu Lik-Wai  
+_Editing:_ Kong Jing-Lei  
+_Sound Mixing:_ Zhang Yang  
 
-_Director:_ Jia Zhangke
-
-_Production Companies:_  
-Xstream Pictures (Shanxi),  
-Huaxia Film Distribution Co., Ltd.
-
-_In co-production with:_  
-Shanghai Film Studio,  
-Shanxi Film and Television Group,  
-Huaxin Kylin Culture Media Co., Ltd.,  
-Wishart Media Co., Ltd.,  
-Huayi Brother Pictures Limited,  
-Shi Dian (Tianjin) Culture Communication Co., Ltd., We Entertainment Iqiyi Pictures (Beijing) Co., Ltd., Alibaba Pictures (Beijing) Co., Ltd.
-
-_Producer:_ Zhao Tao
-
-_Written by:_ Jia Zhangke, Wan Jiahuan
-
-_Director of Photography:_ Yu Lik-Wai
-
-_Editing:_ Kong Jing-Lei
-
-_Sound Mixing:_ Zhang Yang
-
-China 2020
-
+China 2020  
 112 mins
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcwMTE2NzddfQ==
+eyJoaXN0b3J5IjpbLTg2ODg3NTA0M119
 -->
