@@ -129,6 +129,27 @@ Hector Leguillow _(cook)_
 
 China/France/USA/Hong Kong 2007<br>
 95 mins<br>
+<br><br>
+
+**WORLD OF WONG KAR WAI**<br>
+**My Blueberry Nights**<br>
+Fri 23 Jul 20:50; Wed 28 Jul 20:40<br>
+**Fallen Angels (Do lok tin si)**  <br>
+Sun 25 Jul 18:30<br>
+**The Grandmaster (Yi dai zong shi)**<br>
+Mon 26 Jul 20:50<br>
+**Chungking Express (Chung Hing sam lam)**<br>
+Thu 29 Jul 14:30<br>
+**In the Mood for Love (Fa yeung nin wah)**<br>
+Thu 29 Jul 20:45<br>
+**The Hand (Extended Cut)**<br>
+Fri 30 Jul 18:20<br>
+**Ashes of Time Redux (Dung che sai duk)**<br>
+Fri 30 Jul 20:45<br>
+**2046** <br>
+Sat 31 Jul 14:30
+
+Presented in partnership with Janus Films and the ICA<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODkzOTM5N119
+eyJoaXN0b3J5IjpbLTE1Mzk5MDI1NF19
 -->
