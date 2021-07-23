@@ -49,21 +49,21 @@ Hungary 1990<br>
 
 **ORDINARY PEOPLE, EXTRAORDINARY LIVES**<br>
 **THE CINEMA OF MÁRTA MÉSZÁROS**<br>
-**Diary for My Father and Mother  
-(Napló apámnak, anyámnak)**
-Sat 24 Jul 20:45; Sat 31 Jul 14:40
-**Nine Months (Kilenc hónap)**
-Sun 25 Jul 12:30
-**The Two of Them/Two Women (Ök ketten)**
-Mon 26 Jul 18:10
-**The Heiresses (Örökség)**
-Tue 27 Jul 20:30
-**Diary for My Children (Napló gyermekeimnek)**
-Wed 28 Jul 17:50
-**Diary for My Loves (Napló szerelmeimnek)**
+**Diary for My Father and Mother
+(Napló apámnak, anyámnak)**<br>
+Sat 24 Jul 20:45; Sat 31 Jul 14:40<br>
+**Nine Months (Kilenc hónap)**<br>
+Sun 25 Jul 12:30<br>
+**The Two of Them/Two Women (Ök ketten)**<br>
+Mon 26 Jul 18:10<br>
+**The Heiresses (Örökség)**<br>
+Tue 27 Jul 20:30<br>
+**Diary for My Children (Napló gyermekeimnek)**<br>
+Wed 28 Jul 17:50<br>
+**Diary for My Loves (Napló szerelmeimnek)**<br>
 Sat 31 Jul 20:30<br>
 
 The restorations in this season were made from the original camera negatives, original magnetic tape sounds and positive prints, supervised and presented by the National Film Institute Hungary – Film Archive. The restorations were carried out at the NFI Film Archive and Filmlab.<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0NDYzNjcwLC05MTcxMDU3NjZdfQ==
+eyJoaXN0b3J5IjpbLTY4MTkwMzAzNiwtOTE3MTA1NzY2XX0=
 -->
