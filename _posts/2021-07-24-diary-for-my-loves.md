@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Diary for My Loves<br> (Napló szerelmeimnek) 
+published: true
+date: 2021-07-24 
+readtime: true
+categories: ['ORDINARY PEOPLE, EXTRAORDINARY LIVES<br>THE CINEMA OF MÁRTA MÉSZÁROS']
+tags: [Drama]
+metadata: 'Hungary, 1987, 128 mins<br> Director: Márta Mészáros'
+pdf: '2021-07-24-diary-for-my-loves.pdf'
+---
 
 Juli (Zsuzsa Czinkóczi) is determined to be a film director and wants to engage with the new society. This second, inspirational entry in Márta Mészáros’ triumphant _Diary_ trilogy tells of her life as a factory worker, and her witnessing of the turbulence of Hungarian and Soviet history post-World War II in Moscow. Documentary footage intensifies the drama with characters at the centre of real events.<br>
 **bfi.org.uk**
@@ -16,7 +26,7 @@ Setting aside the historical punctuation, the main evolution of Juli’s story i
 Disinclined to overstate her case, Mészáros often seems content with this kind of vagueness, plunging into a scene without explanation (an unknown figure hustling up some stairs, a succession of office-door numbers in a corridor) and leaving her audience to catch up as best it can. Sometimes her images are impenetrable (as when Juli fiddles with a bag of sunflower seeds), indulgent (as when three toddlers pose smugly for the camera), obscure (like the silently staring apparition of László Szabó who promptly vanishes into tropical undergrowth), or plainly mis-staged (like the venomous snowball fight), although almost without fail they are also beautiful (like the overhead shot of the cotton pickers).
 
 The importance of cinema in Juli’s life also seems to have dwindled by comparison with the Garbo glimpses of _Diary for My Children_; the Odessa Steps sequence from _Potemkin_ is studied without much sign of excitement, and Juli’s own ventures as a filmmaker, which one would imagine to be of immense interest given her subsequent career, have no place at all except for being roundly condemned when they reach the screen. It is as if Mészáros sternly has no redeeming virtues to offer for her student years or indeed for any of her contemporaries, all of whom, male or female, come across as weak and misguided (even the merriest, Natasha, is discreetly extinguished under a heap of autumn leaves), but would prefer to forget the whole melancholy business if only she could. Perhaps she feels that _Diary for My Loves_, with its rich texture and confident photography, is adequate testimony that she, if not Hungary, was heading in the right direction all the time, and that a triumph is now valid compensation for the inadequacies of the past. If so, following the film’s victory at Berlin (it won a Silver Bear in 1987), one hopes the director allowed herself a fleeting moment of satisfaction.<br>
-**Philip Strick, _Monthly Film Bulletin_, March 1989**
+**Philip Strick, _Monthly Film Bulletin_, March 1989**<br>
 
  **DIARY FOR MY LOVES (NAPLÓ SZERELMEIMNEK)**<br>
 _Director_: Márta Mészáros  
@@ -74,6 +84,28 @@ Tue 27 Jul 20:30<br>
 Wed 28 Jul 17:50<br>
 
 The restorations in this season were made from the original camera negatives, original magnetic tape sounds and positive prints, supervised and presented by the National Film Institute Hungary – Film Archive. The restorations were carried out at the NFI Film Archive and Filmlab.<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQwNDQzMzZdfQ==
--->
+<br>
+<img style="float: left;" src="/img/nfi-hungary-logo-01.png"><br>
+<br><br><br>
+
+**Promotional partner**<br>
+<img style="float: left;" src="/img/hungarian-cultural-centre-logo-01.png">
+<br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+**A selection of titles from this season will be available on BFI Player from 22 July**<br>
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
