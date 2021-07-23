@@ -1,4 +1,3 @@
-<![endif]-->
 
 ‘Somewhere there’s another land, different from this world below… We shall never find that lovely land of might have been…’ So goes one of the Ivor Novello songs that make up the soundtrack, and the on-screen musical entertainment, of Robert Altman’s _Gosford Park_ (2001). The same vision emerges, turned in a more explicitly religious direction by a country-and-western rendering, in Altman’s last film _A Prairie Home Companion_ (2006). There’s the two surviving Johnson Girls, Yolanda (Meryl Streep) and Rhonda (Lily Tomlin), remembering their family in song, ‘and I know there’s peace in the land of delight’, then a finale from the whole company of ‘In the Sweet By and By’, which evokes ‘a land that is fairer than this.’
 
@@ -17,9 +16,220 @@ The doubleness of performance already suggests some alternative ‘land of might
 But parody (and visual gags involving light bulbs/haloes) aside, this Death does have her sting, a lyrical, longing one. By the time the cast have reached their ensemble performance of ‘Red River Valley’ it’s possible to imagine New Hollywood Altman merging with the shade of Old Hollywood John Ford.  
 In strictly Altmanesque terms, though, one might wonder at the role of these security guards – Guy Noir, the Fred Ward character in _The Player_ (1992) – which is peripheral-seeming but still pressingly central, as they patrol the precincts of fantasy, keeping the players’ noses clean.
 
-Whether or not it’s the entry to a ‘land of delight’, death is an inevitable and unavoidable kind of altered state. And while it’s not exactly an uncommon occurrence in cinema as a whole, it has certain striking and peculiar functions in Altman. For one thing, it’s an altered state that is often welcomed through suicide. ‘Suicide is painless,’ declares the title song of _MASH_, which later forms the basis for the Last Supper interlude. The suicide of Cookie (Patricia Neal) in _Cookie’s Fortune_ convulses her family, and Lola (Lindsay Lohan), Yolanda’s disaffected teen daughter in _A Prairie Home Companion_, writes poetically about doing it to yourself with a car exhaust and hose pipe: ‘Death is easy, like jumping in the big blue air and waving hello to God’ or ‘Don’t expect to wake up and get toast for breakfast/The toast is you.’ ‘Suicide is painless’ isn’t in it.
+Whether or not it’s the entry to a ‘land of delight’, death is an inevitable and unavoidable kind of altered state. And while it’s not exactly an uncommon occurrence in cinema as a whole, it has certain striking and peculiar functions in Altman. For one thing, it’s an altered state that is often welcomed through suicide. ‘Suicide is painless,’ declares the title song of _MASH_, which later forms the basis for the Last Supper interlude. The suicide of Cookie (Patricia Neal) in _Cookie’s Fortune_ convulses her family, and Lola (Lindsay Lohan), Yolanda’s disaffected teen daughter in _A Prairie Home Companion_, writes poetically about doing it to yourself with a car exhaust and hose pipe: ‘Death is easy, like jumping in the big blue air and waving hello to God’ or ‘Don’t expect to wake up and get toast for breakfast/The toast is you.’ ‘Suicide is painless’ isn’t in it.<br>
+**Richard Combs, _Sight & Sound_, February 2007**
 
-Richard Combs, _Sight & Sound_, February 2007**
+**A PRAIRIE HOME COMPANION**
+_Directed by:_ Robert Altman
+_©:_ Powdermilk Pictures, LLC
+_Production Companies:_ Sandcastle 5 Productions, Prairie Home
+_Presented by:_ GreeneStreet Films, River Road Productions
+_Distribution Advisory Services:_ Cinetic Media
+_Executive Producers:_ John Penotti, Fisher Stevens, William Pohlad, George Sheanshang
+_Co-executive Producers:_ Frederick W. Green, Patty Payne Green, Gerard L. Cafesjian, Armenia Film Studio, John H. Stout
+_Producers:_ Robert Altman, Wren Arthur, Joshua Astrachan, Tony Judge, David Levy
+_Associate Producer:_ Lowell Dubrinsky
+_For Sandcastle 5: Production:_ Timothy McDowell
+_For GreeneStreet Films: Head of Production:_ Tim Williams
+_For Prairie Home Productions: General Manager:_ Kate Gustafson Sanderson; _Technical Director:_ Scott Rivard; _Stage Manager:_ Albert Webster
+_Unit Production Manager:_ Julie Hartley
+_Production Co-ordinator:_ Christopher K. Grap
+_Production Accountant:_ Maeve Mannion
+
+_For The Fitzgerald Theater: General Manager:_  
+Brian G. Sanderson; _Production Manager:_  
+Thomas Campbell
+
+_1st Assistant Director:_ Vebe Borge
+
+_2nd Assistant Director:_ Dave Halls
+
+_Script Supervisor:_ Drucilla Carlson
+
+_Casting:_ Pam Dixon Mickelson
+
+_Screenplay:_ Garrison Keillor
+
+_Story by:_ Garrison Keillor, Ken Lazebnik
+
+_Director of Photography:_ Ed Lachman
+
+_Stage Lighting (Fitzgerald Theater):_
+
+Michael Wangen
+
+_Camera Operators:_ Robert Reed Altman,
+
+Pete Biagi
+
+_Additional Camera Operator:_ Michael St. Hilaire
+
+_1st Assistant Cameras:_ Steve Speers,
+
+Julie Donovan
+
+_Additional 1st Assistant Camera:_ David Schnack
+
+_2nd Assistant Cameras:_ Randall Smith,
+
+Michael Lindquist
+
+_Gaffer:_ John W. Deblau
+
+_Key Grip:_ James McMillan
+
+_Still Photographer:_ Melinda Sue Gordon
+
+_Special Effects:_ Steve Hintz
+
+_Graphic Design:_ Kelly Rae Hemenway
+
+_Editor:_ Jacob Craycroft
+
+_On-line Editor:_ Anthony Kounouklos
+
+_1st Assistant Editor:_ Jane Rizzo
+
+_2nd Assistant Editor:_ Matthew Giordano
+
+_Production Design:_ Dina Goldman
+
+_Art Director:_ Jeffrey Schoen
+
+_Art Department Co-ordinator:_
+
+S. Catrin Magnusson
+
+_Set Decorator:_ Tora Peterson
+
+_Sign Writer:_ Phil Vandevaart
+
+_Property Master:_ Ben Barraud
+
+_Costumes:_ Catherine Marie Thomas
+
+_Assistant Costume Designer:_ Mickey Carleton
+
+_Costume Supervisor:_ Jane Myers-Williams
+
+_Make-up Artist/Department Head:_
+
+Kimberly Greene
+
+_Key Make-up Artist:_ Natalie A. Hale
+
+_Hairstylist/Department Head:_ Bridget Cook
+
+_Key Hairstylist:_ Roxanne Wightman
+
+_Title Design by:_ Big Film Design (_Designers:_ Randall Balsmeyer, J. John Corbett)
+
+_Digital Intermediate:_ Technicolor New York
+
+_Lab Timer:_ Don Ciana
+
+_Additional Musical Score:_ Richard Dworsky
+
+_Additional Lyrics by:_ Garrison Keillor
+
+_Music Conducted and Arranged by:_
+
+Richard Dworsky
+
+_Supervising Music Editor:_ Annette Kudrak
+
+_Production Music Mixer:_ Samuel Hudson
+
+_Post-music Mixers:_ Samuel Hudson,
+
+Martin Czembor
+
+_Post-music Recordist:_ Thomas Scheuzger
+
+_Production Sound:_ Drew Kunin
+
+_Boom Operator:_ Michael Primmer
+
+_Re-recording Mixers:_ Michael Barry,
+
+Martin Czembor
+
+_Recordist:_ John Sims
+
+_Re-recordist:_ Terrance Laudermilch
+
+_Post-production Facility/Sound:_ Sound One
+
+_Supervising Sound Editor:_ Eliza Paley
+
+_Sound Editors:_ Dan Korintus, Mariusz Glabinski, Bruce Kitzmeyer
+
+_Sound Effects Recordist:_ Michael De Mark
+
+_ADR Mixer:_ Bobby Johanson
+
+_ADR Editor:_ Gina R. Alfano
+
+_Foley Supervisor:_ Andy Malcolm
+
+_Foley Artist:_ Goro Koyama
+
+_Recording Foley Mixer:_ Don White
+
+_Dolby Sound Consultant:_ Steve F.B. Smith
+
+_Special Thanks:_ Paul Thomas Anderson
+
+_Cast:_
+
+Marylouise Burke _(Evelyn, the lunch lady)_
+
+Woody Harrelson _(Dusty)_
+
+L.Q. Jones _(Chuck Akers)_
+
+Tommy Lee Jones _(the axeman)_
+
+Garrison Keillor _(Garrison Keillor, ‘G.K.’)_
+
+Kevin Kline _(Guy Noir)_
+
+Lindsay Lohan _(Lola Johnson)_
+
+Virginia Madsen _(Asphodel, dangerous woman)_
+
+John C. Reilly _(Lefty)_
+
+Maya Rudolph _(Molly, assistant stage manager)_
+
+Tim Russell _(Al, stage manager)_
+
+Sue Scott _(Donna, makeup lady)_
+
+Meryl Streep _(Yolanda Johnson)_
+
+Lily Tomlin _(Rhonda Johnson)_
+
+Tom Keith _(himself, sound effects man)_
+
+Jearlyn Steele _(herself, gospel singer)_
+
+Robin Williams _(himself)_
+
+Linda Williams _(herself)_
+
+Prudence Johnson _(herself)_
+
+The Guys All-Star Shoe Band: Richard Dworsky _(piano/organ/bandleader);_ Pat Donohue _(guitar);_ Andy Stein _(violin/saxophone);_ Gary Raynor _(bass);_ Arnie Kinsella _(drums); with featured musicians:_ Peter Ostroushko _(mandolin/fiddle);_ Butch Thompson _(clarinet)_
+Christopher K. Grap _(axeman’s chauffeur)_
+Debbie Delisi _(lobby usher)_
+Bob Douglas_,_ Adam Granger_,_ Bill Hinkley_,_
+John Koerner_,_ Judy Larson_,_ Dan Newton_,_
+Jon Pankake_,_ Dick Rees_,_ Becky Schlegel_,_
+Pop Wagner _(musician extras)_
+
+USA 2006©<br>
+106 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTUzNzY2NjRdfQ==
+eyJoaXN0b3J5IjpbLTE2MzUyNjg4OTFdfQ==
 -->
