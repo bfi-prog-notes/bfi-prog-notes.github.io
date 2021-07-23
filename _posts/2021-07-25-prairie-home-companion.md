@@ -1,3 +1,14 @@
+---
+layout: post
+title: A Prairie Home Companion
+published: true
+date: 2021-07-25
+readtime: true
+categories: ['ROBERT ALTMAN - AMERICAN OUTSIDER']
+tags: [Comedy, Drama, Music]
+metadata: 'USA 2008, 106 mins<br> Director: Robert Altman'
+pdf: '2021-07-25-prairie-home-companion.pdf'
+---
 
 ‘Somewhere there’s another land, different from this world below… We shall never find that lovely land of might have been…’ So goes one of the Ivor Novello songs that make up the soundtrack, and the on-screen musical entertainment, of Robert Altman’s _Gosford Park_ (2001). The same vision emerges, turned in a more explicitly religious direction by a country-and-western rendering, in Altman’s last film _A Prairie Home Companion_ (2006). There’s the two surviving Johnson Girls, Yolanda (Meryl Streep) and Rhonda (Lily Tomlin), remembering their family in song, ‘and I know there’s peace in the land of delight’, then a finale from the whole company of ‘In the Sweet By and By’, which evokes ‘a land that is fairer than this.’
 
@@ -13,11 +24,10 @@ Perhaps it helps that this is Death conceived in parodic terms, introduced throu
 
 The doubleness of performance already suggests some alternative ‘land of might have been’, while theatrical realities conversely might put one in touch with eternal verities – ‘It was curtains, and everybody knew it,’ as Guy Noir pronounces, in best Sam Spade mode, talking about the imminent arrival from Texas of an executive known as ‘The Axeman’ Cruett (Tommy Lee Jones), representative of the corporation that now owns the Fitzgerald and intends to tear it down to make way for a parking lot. But having a good relationship with Death, hardboiled dame that she is, Guy Noir enlists her help, and before the night is out Cruett will also be sped on his way to ‘another land’. Not that his end will avert the end of the Fitzgerald.
 
-But parody (and visual gags involving light bulbs/haloes) aside, this Death does have her sting, a lyrical, longing one. By the time the cast have reached their ensemble performance of ‘Red River Valley’ it’s possible to imagine New Hollywood Altman merging with the shade of Old Hollywood John Ford.  
-In strictly Altmanesque terms, though, one might wonder at the role of these security guards – Guy Noir, the Fred Ward character in _The Player_ (1992) – which is peripheral-seeming but still pressingly central, as they patrol the precincts of fantasy, keeping the players’ noses clean.
+But parody (and visual gags involving light bulbs/haloes) aside, this Death does have her sting, a lyrical, longing one. By the time the cast have reached their ensemble performance of ‘Red River Valley’ it’s possible to imagine New Hollywood Altman merging with the shade of Old Hollywood John Ford. In strictly Altmanesque terms, though, one might wonder at the role of these security guards – Guy Noir, the Fred Ward character in _The Player_ (1992) – which is peripheral-seeming but still pressingly central, as they patrol the precincts of fantasy, keeping the players’ noses clean.
 
 Whether or not it’s the entry to a ‘land of delight’, death is an inevitable and unavoidable kind of altered state. And while it’s not exactly an uncommon occurrence in cinema as a whole, it has certain striking and peculiar functions in Altman. For one thing, it’s an altered state that is often welcomed through suicide. ‘Suicide is painless,’ declares the title song of _MASH_, which later forms the basis for the Last Supper interlude. The suicide of Cookie (Patricia Neal) in _Cookie’s Fortune_ convulses her family, and Lola (Lindsay Lohan), Yolanda’s disaffected teen daughter in _A Prairie Home Companion_, writes poetically about doing it to yourself with a car exhaust and hose pipe: ‘Death is easy, like jumping in the big blue air and waving hello to God’ or ‘Don’t expect to wake up and get toast for breakfast/The toast is you.’ ‘Suicide is painless’ isn’t in it.<br>
-**Richard Combs, _Sight & Sound_, February 2007**
+**Richard Combs, _Sight & Sound_, February 2007**<br>
 
 **A PRAIRIE HOME COMPANION**<br>
 _Directed by:_ Robert Altman<br>
@@ -35,8 +45,7 @@ _For Prairie Home Productions: General Manager:_ Kate Gustafson Sanderson; _Tech
 _Unit Production Manager:_ Julie Hartley<br>
 _Production Co-ordinator:_ Christopher K. Grap<br>
 _Production Accountant:_ Maeve Mannion<br>
-_For The Fitzgerald Theater: General Manager:_  
-Brian G. Sanderson; _Production Manager:_  Thomas Campbell<br>
+_For The Fitzgerald Theater: General Manager:_ Brian G. Sanderson; _Production Manager:_  Thomas Campbell<br>
 _1st Assistant Director:_ Vebe Borge<br>
 _2nd Assistant Director:_ Dave Halls<br>
 _Script Supervisor:_ Drucilla Carlson<br>
@@ -122,11 +131,35 @@ Prudence Johnson _(herself)_<br>
 The Guys All-Star Shoe Band: Richard Dworsky _(piano/organ/bandleader);_ Pat Donohue _(guitar);_ Andy Stein _(violin/saxophone);_ Gary Raynor _(bass);_ Arnie Kinsella _(drums); with featured musicians:_ Peter Ostroushko _(mandolin/fiddle);_ Butch Thompson _(clarinet)_<br>
 Christopher K. Grap _(axeman’s chauffeur)_<br>
 Debbie Delisi _(lobby usher)_<br>
-Bob Douglas, Adam Granger, Bill Hinkley,
-John Koerner, Judy Larson, Dan Newton, Jon Pankake, Dick Rees, Becky Schlegel, Pop Wagner _(musician extras)_<br>
+Bob Douglas, Adam Granger, Bill Hinkley, John Koerner, Judy Larson, Dan Newton, Jon Pankake, Dick Rees, Becky Schlegel, Pop Wagner _(musician extras)_<br>
 
 USA 2006©<br>
 106 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTQyMTQ0MV19
--->
+<br><br>
+
+**Promotional partners**  
+<img style="float: left;" src="/img/partner/yeastie-boys-logo.png" alt="Yeastie Boys" title="Yeastie Boys">
+<br><br><br><br><br><br><br><br>
+**A deliciously irreverent brewing company**  
+
+<img style="float: left;" src="/img/partner/scala-radio-logo.png" alt="Scala Radio" title="Scala Radio">
+<br><br><br><br><br><br><br><br><br><br>
+**planetradio.co.uk/scala-radio**  
+<br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
