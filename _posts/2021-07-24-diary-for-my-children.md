@@ -34,15 +34,10 @@ Yet, while Mészáros’ hatred of the post-war Communist regime and her insiste
 **Susan Barrowclough, _Monthly Film Bulletin_, June 1985**<br>
 
 **DIARY FOR MY CHILDREN (NAPLÓ GYERMEKEIMNEK)**<br>
-
 _Director_: Márta Mészáros  
 _Production Companies_: Magyar Filmgyártó Vallalat, Budapest Hungarofilm  
 _Production Manager_: Ferenc Szohár  
-_Collaborators_: Béla Balázs, Melinda Csönge, Katalin Guelminó, László Janicsek, Andrea Kormos, Lóránt Mertz, László Nagy, Gabriella Okolicsányi, Sára Szakáts, Roland Tavi, János Csáki,
-
-Rudolf Grätzer, Klára Iványi, Katalin Juhász,
-
-Miklós Lepedáth, Eva Molnár, Jolán Niederhoffer, Antal Szabó, Krisztina Szöllösy, Péter Timár  
+_Collaborators_: Béla Balázs, Melinda Csönge, Katalin Guelminó, László Janicsek, Andrea Kormos, Lóránt Mertz, László Nagy, Gabriella Okolicsányi, Sára Szakáts, Roland Tavi, János Csáki, Rudolf Grätzer, Klára Iványi, Katalin Juhász, Miklós Lepedáth, Eva Molnár, Jolán Niederhoffer, Antal Szabó, Krisztina Szöllösy, Péter Timár  
 _Assistant Directors_: Dezsö Koza, Kálmán Balogh  
 _Screenplay_: Márta Mészáros  
 _Adaptation_: Balázs Fakan  
@@ -56,9 +51,9 @@ _Costume Designer_: Fanni Kemenes
 _Wardrobe_: Zsuzsa Balai  
 _Music_: Zsolt Döme  
 _Sound Editor_: György Fék  
-_Literary Consultant_: Endre Vészi
+_Literary Consultant_: Endre Vészi<br>
 
-_Cast:_  
+**Cast**  
 Zsuzsa Czinkóczi _(Juli)_  
 Anna Polony _(Magda)_  
 Jan Nowicki _(János)_  
@@ -96,39 +91,25 @@ Gyöngyi Polónyi
 Imre Surányi  
 Valéria Wágner
 
-Hungary 1984
-
-109 mins
+Hungary 1984<br>
+109 mins<br>
 
 **ORDINARY PEOPLE, EXTRAORDINARY LIVES**
-
-**THE CINEMA OF MÁRTA MÉSZÁROS**
-
-**Diary for My Children (Napló gyermekeimnek)**
-
-Sat 24 Jul 14:10 (+ pre-recorded extended intro by Márta Mészáros); Wed 28 Jul 17:50
-
-**Diary for My Loves (Napló szerelmeimnek)**
-
-Sat 24 Jul 17:30; Sat 31 Jul 20:30
-
-**Diary for My Father and Mother (Napló apámnak, anyámnak)**
-
+**THE CINEMA OF MÁRTA MÉSZÁROS**<br>
+**Diary for My Children (Napló gyermekeimnek)**<br>
+Sat 24 Jul 14:10 (+ pre-recorded extended intro by Márta Mészáros); Wed 28 Jul 17:50<br>
+**Diary for My Loves (Napló szerelmeimnek)**<br>
+Sat 24 Jul 17:30; Sat 31 Jul 20:30<br>
+**Diary for My Father and Mother (Napló apámnak, anyámnak)**<br>
 Sat 24 Jul 20:45; Sat 31 Jul 14:40
-
 **Nine Months (Kilenc hónap)**
-
 Sun 25 Jul 12:30
-
 **The Two of Them/Two Women (Ök ketten)**
-
 Mon 26 Jul 18:10
+**The Heiresses (Örökség)**
+Tue 27 Jul 20:30<br>
 
-**The Heiresses (****Örökség)**
-
-Tue 27 Jul 20:30
-
-The restorations in this season were made from the original camera negatives, original magnetic tape sounds and positive prints, supervised and presented by the National Film Institute Hungary – Film Archive. The restorations were carried out at the NFI Film Archive and Filmlab.
+The restorations in this season were made from the original camera negatives, original magnetic tape sounds and positive prints, supervised and presented by the National Film Institute Hungary – Film Archive. The restorations were carried out at the NFI Film Archive and Filmlab.<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDEyMTgwODJdfQ==
+eyJoaXN0b3J5IjpbLTExMjA0MTk3NThdfQ==
 -->
