@@ -16,32 +16,31 @@ As Naoki so poetically puts it, ‘if, by our being here, we could help the peop
 of the world remember what truly matters for the earth, that would give us a  
 quiet pleasure.’  
 **Benjamin Brown, Series Curator**
+<br><br>
 
-<![endif]-->
-
+**THE HORSE BOY**
 _Director_: Michel Orion Scott  
 _Producer_: Rupert Isaacson  
 _Cinematographer_: Michel Orion Scott  
 _Editor_: Rita K. Sanders  
 _Original Music_: Kim Carroll, Lili Haydn  
 _Location Sound_: Justin Hennard  
-_Sound Mixer_: Matt LudwickUSA 200993 mins
+_Sound Mixer_: Matt Ludwick  
 
-**This screening is presented  
-in collaboration with  
-Citizen Autistic: The London Autism Film Club, a welcoming neuro-diverse space bringing together like-minded individuals through a shared love of cinema.**
+USA 2009  
+93 mins
 
-**Find out more at  
-bfi.org.uk/relaxed**
+**This screening is presented  in collaboration with  Citizen Autistic: The London Autism Film Club, a welcoming neuro-diverse space bringing together like-minded individuals through a shared love of cinema.**
+
+**Find out more at  bfi.org.uk/relaxed**
 
 **BFI Southbank has been awarded the National Autistic Society's Autism Friendly Award.**
 
-**The next relaxed screening is<br> 
-STAND CLEAR OF THE  CLOSING DOORS**
-
+**The next relaxed screening is**<br> 
+**STAND CLEAR OF THE  CLOSING DOORS**<br>
 **Tue 24 Aug 18:00 NFT3**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc3MTkwMzNdfQ==
+eyJoaXN0b3J5IjpbLTE4MTQyMjIxNTJdfQ==
 -->
