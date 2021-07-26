@@ -12,6 +12,9 @@ pdf: '2021-07-27-horse-boy-relaxed-screening.pdf'
 
 Reaching the end of their tether, Texas couple Rupert and Kristin whisk their troublesome four-year-old autistic son Rowan across the world in a desperate bid to restore balance to their disorderly lives. A film where nature’s limitless healing properties are foregrounded, the Outer Mongolian steppes serve as the perfect, Zen backdrop for an emotional, near transcendental rite of passage for the family.
 
+<img style="float: left;" src="/img/horse-boy-01.jpg">
+<br><br>
+
 This is the first of three relaxed screenings presented in response to _The Reason I Jump_, programmed by independent curator, Benjamin Brown.
 
 ‘Really, our vision of the world can be incredible, just incredible …’ – Naoki Higashida, _The Reason I Jump_
@@ -26,8 +29,6 @@ quiet pleasure.’
 **Benjamin Brown, Series Curator**
 <br><br>
 
-<img style="float: left;" src="/img/horse-boy-01.jpg">
-<br><br><br><br>
 
 **THE HORSE BOY**
 _Director_: Michel Orion Scott  
