@@ -23,14 +23,11 @@ Whether neuro-diverse or neurotypical, as human beings we are all born with our 
 
 Channelling several themes explored so effectively by _The Reason I Jump_, the season expresses the key role of the senses in our everyday lives and the transcendent power of nature to provide consolation to the inconsolable. It also conveys the vital importance of giving autistic people a say in how we are treated, and to extend us our rightful seat at society’s table.
 
-As Naoki so poetically puts it, ‘if, by our being here, we could help the people  
-of the world remember what truly matters for the earth, that would give us a  
-quiet pleasure.’  
-**Benjamin Brown, Series Curator**
+As Naoki so poetically puts it, ‘if, by our being here, we could help the people  of the world remember what truly matters for the earth, that would give us a  quiet pleasure.’<br>**Benjamin Brown, Series Curator**
 <br><br>
 
 
-**THE HORSE BOY**
+**THE HORSE BOY**  
 _Director_: Michel Orion Scott  
 _Producer_: Rupert Isaacson  
 _Cinematographer_: Michel Orion Scott  
