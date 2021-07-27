@@ -10,6 +10,8 @@ metadata: 'USA 2009, 93 mins<br> Director: Michel Orion Scott'
 pdf: '2021-07-27-horse-boy-relaxed-screening.pdf'
 ---
 
+**Before the film we will screen a short pre-recorded discussion between Rupert Isaacson (Producer/narrator) and Benjamin Brown, series curator.** 
+
 Reaching the end of their tether, Texas couple Rupert and Kristin whisk their troublesome four-year-old autistic son Rowan across the world in a desperate bid to restore balance to their disorderly lives. A film where nature’s limitless healing properties are foregrounded, the Outer Mongolian steppes serve as the perfect, Zen backdrop for an emotional, near transcendental rite of passage for the family.
 
 <img style="float: left;" src="/img/horse-boy-01.jpg">
