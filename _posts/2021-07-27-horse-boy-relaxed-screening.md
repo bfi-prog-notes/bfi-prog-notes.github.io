@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Horse Boy<br>(Relaxed Screening)
+title: The Horse Boy
 published: true
 date: 2021-07-27
 readtime: true
