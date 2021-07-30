@@ -11,7 +11,22 @@ But Celestine does not want to become a dentist and collect milk teeth, she is a
 **Mythical Creatures: Tooth Fairy and Tooth Mouse**
 
 The starting point of the story is the myth about the Tooth Fairy. The custom of leaving lost milk teeth for the Tooth Fairy, who collects them in exchange for a small present or a coin, is picked up in this story. Celestine, the protagonist, is one of those tooth fairies who, in France, as well as in other countries, is embodied by a mouse. The Tooth Fairy will be familiar to many children, perhaps some of them have also exchanged their milk teeth for small gifts.<br>
-**bfi.org.uk**
+**bfi.org.uk**<br>
+
+
+**Ernest and Celestine (Ernest et Célestine)**_Directors:_ Stéphane Aubier, Vincent Patar, Benjamin Renner_Production Company:_ La Parti Production_Production Manager:_ Ivan Rouveure_Screenplay:_ Daniel Pennac_Based on the books by:_ Gabrielle Vincent_Music:_ Goran Bregovich
+
+_Voice cast:_
+
+Lambert Wilson _(Ernest)_  
+Pauline Brunner _(Célestine)_
+
+Anne-Marie Loop  
+Patrice Melennec _(Georges)_
+
+France 2012
+
+79 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzc0Njg3NCwtMTg0MjQ5Mjk0OF19
+eyJoaXN0b3J5IjpbMjA3NjIzODgzMCwtMTg0MjQ5Mjk0OF19
 -->
