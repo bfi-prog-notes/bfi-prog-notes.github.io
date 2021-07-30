@@ -48,16 +48,14 @@ We meet Björn today in the film, but we also find him in the archives.
 
 Björn’s motivation to regain his self-respect is the core of this film. It is a process of discovery, where he goes back into the past in order to regain something that has been lost. It was interesting to me that this story about beauty and objectification is about a man. To explore this topic, which is often centred around women, from a different gender perspective felt right.  
 **Production notes**
-<
+<br><br>
 
 
-**The Most Beautiful Boy in the World**
-
+**THE MOST BEAUTIFUL BOY IN THE WORLD**  
 _Directors_: Kristina Lindström, Kristian Petri  
 ©: Mantaray Film AB, Sveriges Television AB, ZDF/Arte, Jonas Gardell Produktion  
 _Produced by_: Mantaray Film  
-_A co-production with_: Sveriges Television,  
-ZDF-Arte, Jonas Gardell Produktion, Filminvestering i Örebro  
+_A co-production with_: Sveriges Television,  ZDF-Arte, Jonas Gardell Produktion, Filminvestering i Örebro  
 _With support from_: The Swedish Film Institute, Creative Europe Media, Nordisk Film & TV Fond  
 _In collaboration with_: YLE  
 _Presented by_: Mantaray Film  
@@ -70,11 +68,9 @@ _Controller_: Pär Lindström
 _Post-production Co-ordinator_: Sam Trelje  
 _Script_: Kristina Lindström, Kristian Petri  
 _Director of Photography_: Erik Vallsten  
-_Additional Photography_: Iván Blanco,  
-Moa Lichtenstein  
+_Additional Photography_: Iván Blanco,  Moa Lichtenstein  
 _Editing_: Hanna Lejonqvist, Dino Jonsäter  
-_Additional Editing_: Charlotte Landelius,  
-Kalle Lindberg  
+_Additional Editing_: Charlotte Landelius,  Kalle Lindberg  
 _Editing Consultant_: Lena Runge  
 _Graphic Design_: Martin Hultman  
 _Music_: Anna von Hausswolff, Filip Leyman  
@@ -82,12 +78,10 @@ _Audio Design/Sound Design and Mix_: Brian Dyrby, Kristoffer Salting
 _Voice-over Recordist_: Niklas Antonell  
 _Sound Technician_: Jonas Goldmann
 
-_With:_
-
+**With**  
 Björn Andrésen  
 Robine Román  
-Annike Andresen
-
+Annike Andresen  
 Jessica Vennberg  
 Ann Lagerström  
 Miriam Sambol  
@@ -99,11 +93,10 @@ Hajime Sawatari
 Riyoko Ikeda  
 Johanna Lidén
 
-Sweden/Germany 2021©
-
+Sweden/Germany 2021©  
 98 mins
 
 A Dogwoof release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTY2NjEzNV19
+eyJoaXN0b3J5IjpbNzc2NTA0Mjc5XX0=
 -->
