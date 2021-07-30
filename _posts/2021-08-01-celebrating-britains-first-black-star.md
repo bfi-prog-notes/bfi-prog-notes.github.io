@@ -1,6 +1,3 @@
-
-<![endif]-->
-
 _Actor-director Burt Caesar presents an illustrated overview of the unique seven-decade career in film and television of this modest pioneer. Panel discussions featuring guests such as Esther Anderson, Carmen Monroe, Corrina Antrobus and Baroness Lola Young will consider Earl Cameron’s skill, achievement and legacy._
 
 In 2001, Thomas Baptiste attended an audition for a role in an episode of BBC1’s _EastEnders_. However, when he arrived at Elstree, he immediately recognised another veteran screen actor, Earl Cameron, who was also up for the part. Embracing his old friend, Thomas said: ‘If I’d known you were going to be here today, I would have stayed at home!’ This was Thomas’s personal tribute to an actor he respected. Cameron had been a professional actor since 1941, and in 2001 he was still in demand. Cameron got  
@@ -19,8 +16,7 @@ When Cameron was working on _Flame in the Streets_, he became an unofficial ‘c
 Throughout the 1960s, television viewers became familiar with Earl in a range of popular dramas including _Armchair Theatre_, _Danger Man_, _Emergency – Ward 10_, _Doctor Who_ (_The Tenth Planet_), _Theatre 625_ and the cult favourite _The Prisoner_. He gave an outstanding portrayal of a jazz musician falsely accused of murder in Leon Griffiths’s explosive psychological two-hander _Drama ‘64: A Fear of Strangers_ (1964) with Stanley Baker. That same year he gave one of his best film performances, as the army captain in _Guns at Batasi_, a gripping drama about a revolution in post-colonial Africa. Cameron was also proud of his work in three BBC television plays by black dramatists: John Hearne’s  
 _A World Inside_ (1962), Errol John’s _The Dawn_ (1963) and Obi Egbuna’s _Wind Versus Polygamy_ (1968).
 
-Cameron quit acting in 1979 and made a new home for his family in the Solomon Islands. On returning to Britain in 1994, he resumed his acting career and remained in work until 2013 when he played the grandfather in Nour Wazzi’s award-winning short _Up on the Roof_. Along the way he made some memorable film appearances in such films as  
-_The Queen_ (2006), as the portrait artist, and Christopher Nolan’s _Inception_ (2010).
+Cameron quit acting in 1979 and made a new home for his family in the Solomon Islands. On returning to Britain in 1994, he resumed his acting career and remained in work until 2013 when he played the grandfather in Nour Wazzi’s award-winning short _Up on the Roof_. Along the way he made some memorable film appearances in such films as  _The Queen_ (2006), as the portrait artist, and Christopher Nolan’s _Inception_ (2010).
 
 When I interviewed Cameron in 1997 for my book _Black in the British Frame: The Black Experience in British Film and Television_, he told me that, in the 1950s, he had ambitions: ‘I wanted to play big parts in films but black film actors in this country were not given any promotion. Our names did not appear on film posters. I lost count of the times we met with Equity to try and stop black Americans being brought over to take roles in British films like _The L-Shaped Room_, _Heaven’s Above_ and _The Hill_. Roles that I, and many others, could have played. This happened because casting directors didn’t believe we – black British actors – could act. But, in spite of this, I did work consistently throughout the 1950s and 1960s.’
 
@@ -28,19 +24,60 @@ Regarding his role as James Bond’s chauffeur in _Thunderball_ (1965), he said 
 
 In 1997 he reflected on his long and eventful career as an actor: ‘My experiences of theatre, television, films has been wonderful. I’ve enjoyed every minute of it.’ In 2002 the National Film Theatre (now BFI Southbank) paid tribute to Cameron and he returned in 2017 for another tribute, for his 100th birthday, with an on-stage interview in NFT1 organised by Screen Nation. It was packed and he received a standing ovation.
 
-Not long before he passed away, he said: ‘Actors don’t retire. They live in hope – hope that the phone will still ring.’
+Not long before he passed away, he said: ‘Actors don’t retire. They live in hope – hope that the phone will still ring.’<br>
+**Stephen Bourne, bfi.org.uk, 7 July 2020**
 
-Stephen Bourne, bfi.org.uk, 7 July 2020
+**Burt Caesar** is a British actor, broadcaster and director for stage and television, who was born in St Kitts and migrated to England with his family as a child.  His career has encompassed acting in Bond films (_Skyfall_, 2012), stage performances including in Shakespearian roles, and many plays for BBC Radio 4. Caesar regularly works as a director and is an artistic advisor at the Royal Academy of Dramatic Art (RADA). He is also a commentator on theatre and literature.<br>
 
-**Burt Caesar** is a British actor, broadcaster and director for stage and television, who was born in St Kitts and migrated to England with his family as a child.  His career has encompassed acting in Bond films (_Skyfall_, 2012), stage performances including in Shakespearian roles, and many plays for BBC Radio 4. Caesar regularly works as a director and is an artistic advisor at the Royal Academy of Dramatic Art (RADA). He is also a commentator on theatre and literature.
+**Esther Anderson** is a Jamaican filmmaker, photographer and actress. Anderson helped to develop the Jamaican music label Island Records from the early 1960s. In parallel with her photography and work with Island Records, Anderson steadily developed a career as an actress and a filmmaker.<br>
 
-**Esther Anderson** is a Jamaican filmmaker, photographer and actress. Anderson helped to develop the Jamaican music label Island Records from the early 1960s. In parallel with her photography and work with Island Records, Anderson steadily developed a career as an actress and a filmmaker.
+**Carmen Munroe**  **OBE** was born in Berbice, British Guiana as Carmen Steele. She is an actress, known for _Doctor Who_ (1963), _Desmond’s_ (1989) and _From a Bird’s Eye View_ (1970). Munroe is one of the founders of Talawa, UK’s black theatre company.<br>
 
-**Carmen Munroe**  **OBE** was born in Berbice, British Guiana as Carmen Steele. She is an actress, known for _Doctor Who_ (1963), _Desmond’s_ (1989) and _From a Bird’s Eye View_ (1970). Munroe is one of the founders of Talawa, UK’s black theatre company.
+**Corinna Antrobus** is Arts and Culture Communications Officer for Hackney. Channel 4’s _Sunday Brunch Film_ presenter and freelance film critic, she was Communications Manager for Picturehouse 26 cinemas and independent film distribution company. Founder of Bechdel Test Fest – an ongoing celebration of films that hail positive representation for women in film, programming film events at various locations in London since 2014.<br>
 
-**Corinna Antrobus** is Arts and Culture Communications Officer for Hackney. Channel 4’s _Sunday Brunch Film_ presenter and freelance film critic, she was Communications Manager for Picturehouse 26 cinemas and independent film distribution company. Founder of Bechdel Test Fest – an ongoing celebration of films that hail positive representation for women in film, programming film events at various locations in London since 2014.
+**Margaret Omolola Young, Baroness Young of Hornsey**  **OBE** is a British actress, author, crossbench peer and Chancellor of the University of Nottingham. Young worked as a professional actress from 1976 to 1984, and from 1990 to 1992 was lecturer in media studies at the Polytechnic of West London. Following this she was lecturer, senior lecturer, principal lecturer, professor of cultural studies and in the end emeritus professor at Middlesex University. Young became project director of the Archives and Museum of Black Heritage in 1997, she was Commissioner in the Royal Commission on Historical Manuscripts in the years 2000 and 2001, and Chair at Nitro Theatre Company in 2004.<br>
 
-**Margaret Omolola Young, Baroness Young of Hornsey**  **OBE** is a British actress, author, crossbench peer and Chancellor of the University of Nottingham. Young worked as a professional actress from 1976 to 1984, and from 1990 to 1992 was lecturer in media studies at the Polytechnic of West London. Following this she was lecturer, senior lecturer, principal lecturer, professor of cultural studies and in the end emeritus professor at Middlesex University. Young became project director of the Archives and Museum of Black Heritage in 1997, she was Commissioner in the Royal Commission on Historical Manuscripts in the years 2000 and 2001, and Chair at Nitro Theatre Company in 2004.
+
+**EARL CAMERON BRITAIN’S FIRST BLACK SCREEN STAR**
+
+**Celebrating Britain’s First Black  
+Screen Star**
+
+Sun 1 Aug 14:00
+
+**African Odysseys present:  
+A Warm December**
+
+Sun 1 Aug 17:30 (+ intro by actor  
+Esther Anderson); Wed 18 Aug 20:40
+
+**Pool of London**
+
+Mon 2 Aug 14:00 (+intro);  
+Wed 25 Aug 20:50
+
+**Two Gentlemen Sharing**
+
+Fri 6 Aug 17:10 (+ intro by season curator Burt Caesar); Mon 23 Aug 20:30
+
+**Flame in the Streets**
+
+Sun 8 Aug 15:00; Sat 28 Aug 17:10
+
+**Sapphire**
+
+Tue 10 Aug 20:20 (+ discussion);  
+Sat 28 Aug 13:00
+
+**The Fear of Strangers** (+ intro) +
+
+**The Chocolate Tree**
+
+Sat 14 July 14:10
+
+**Thunder on Sycamore Street** + discussion with Actor Ashley Walters (schedule permitting) and playwright Stephen S Thompson)
+
+Sat 14 Aug 17:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Nzg0NDUzM119
+eyJoaXN0b3J5IjpbLTE4NTY3MTMyMTYsLTc3Nzg0NDUzM119
 -->
