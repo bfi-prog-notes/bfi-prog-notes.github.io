@@ -17,22 +17,20 @@ The starting point of the story is the myth about the Tooth Fairy. The custom of
 **ERNEST AND CELESTINE (ERNEST ET CÉLESTINE)**<br>
 _Directors:_ Stéphane Aubier, Vincent Patar, Benjamin Renner<br>
 _Production Company:_ La Parti Production<br>
-_Production Manager:_ Ivan Rouveure
-_Screenplay:_ Daniel Pennac
-_Based on the books by:_ Gabrielle Vincent
-_Music:_ Goran Bregovich
+_Production Manager:_ Ivan Rouveure<br>
+_Screenplay:_ Daniel Pennac<br>
+_Based on the books by:_ Gabrielle Vincent<br>
+_Music:_ Goran Bregovich<br>
 
-**Voice cast**
-Lambert Wilson _(Ernest)_  
-Pauline Brunner _(Célestine)_
+**Voice cast**<br>
+Lambert Wilson _(Ernest)_  <br>
+Pauline Brunner _(Célestine)_<br>
+Anne-Marie Loop<br>
+Patrice Melennec _(Georges)_<br>
 
-Anne-Marie Loop  
-Patrice Melennec _(Georges)_
-
-France 2012
-
+France 2012<br>
 79 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3ODM5MzI4LDE3MDA1MDA2NTgsMjA3Nj
-IzODgzMCwtMTg0MjQ5Mjk0OF19
+eyJoaXN0b3J5IjpbLTQ3MzM0MjQwLDgxNzgzOTMyOCwxNzAwNT
+AwNjU4LDIwNzYyMzg4MzAsLTE4NDI0OTI5NDhdfQ==
 -->
