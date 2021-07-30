@@ -98,92 +98,46 @@ USA 1934©
 
 
 **BETTE DAVIS: HOLLYWOOD REBEL**<br>
-
 **Of Human Bondage**<br>
-
 Sun 1 Aug 12:40; Thu 12 Aug 18:00<br>
-
 **Dangerous**<br>
-
-Mon 2 Aug 18:15; Fri 13 Aug 21:00;  
-Wed 18 Aug 18:10<br>
-
+Mon 2 Aug 18:15; Fri 13 Aug 21:00;  Wed 18 Aug 18:10<br>
 **All about Eve**<br>
-
-Tue 3 Aug 14:30; Sat 14 Aug 20:25;  
-Sun 29 Aug 15:00<br>
-
+Tue 3 Aug 14:30; Sat 14 Aug 20:25;  Sun 29 Aug 15:00<br>
 **Marked Woman**<br>
-
-Tue 3 Aug 18:10; Thu 12 Aug 20:40;  
-Sat 14 Aug 14:45<br>
-
+Tue 3 Aug 18:10; Thu 12 Aug 20:40;  Sat 14 Aug 14:45<br>
 **What Ever Happened to Baby Jane?**<br>
-
-Wed 4 Aug 14:15; Wed 11 Aug 20:30;  
-Mon 16 Aug 18:00; Sat 28 Aug 17:20<br>
-
+Wed 4 Aug 14:15; Wed 11 Aug 20:30;  Mon 16 Aug 18:00; Sat 28 Aug 17:20<br>
 **Jezebel**<br>
-
-Wed 4 Aug 20:40; Sun 15 Aug 15:30;  
-Fri 27 Aug 18:00<br>
-
+Wed 4 Aug 20:40; Sun 15 Aug 15:30;  Fri 27 Aug 18:00<br>
 **Hush… Hush, Sweet Charlotte**<br>
-
-Thu 5 Aug 14:15; Fri 13 Aug 17:40;  
-Wed 18 Aug 14:30; Sat 28 Aug 20:30<br>
-
+Thu 5 Aug 14:15; Fri 13 Aug 17:40;  Wed 18 Aug 14:30; Sat 28 Aug 20:30<br>
 **All about Bette Davis**<br>
-
 Thu 5 Aug 18:10<br>
-
 **Dark Victory**<br>
-
 Fri 6 Aug 14:15; Mon 23 Aug 18:00<br>
-
 **The Private Lives of Elizabeth and Essex**<br>
-
 Sat 7 Aug 15:00; Sat 21 Aug 11:40<br>
-
 **The Letter**<br>
-
 Sun 8 Aug 15:45; Tue 17 Aug 17:50<br>
-
 **The Man Who Came to Dinner**<br>
-
 Sun 8 Aug 18:20; Thu 19 Aug 20:40<br>
-
 **The Little Foxes**<br>
-
-Mon 9 Aug 18:00; Mon 16 Aug 20:30;  
-Thu 19 Aug 17:40<br>
-
+Mon 9 Aug 18:00; Mon 16 Aug 20:30;  Thu 19 Aug 17:40<br>
 **The Whales of August**<br>
-
-Wed 11 Aug 14:30; Thu 26 Aug 20:30;  
-Tue 31 Aug 18:10<br>
-
+Wed 11 Aug 14:30; Thu 26 Aug 20:30;  Tue 31 Aug 18:10<br>
 **Old Acquaintance**<br>
-
 Wed 11 Aug 17:40; Sun 22 Aug 15:30<br>
-
 **Mr. Skeffington**<br>
-
-Sat 14 Aug 17:10; Sun 29 Aug 11:30
-
-**The Star**
-
-Sun 15 Aug 18:30; Wed 25 Aug 20:45
-
-**Dead Ringer**
-
-Fri 20 Aug 17:45; Mon 30 Aug 15:20
-
-**The Nanny**
-
-Tue 24 Aug 20:45; Mon 30 Aug 12:40
+Sat 14 Aug 17:10; Sun 29 Aug 11:30<br>
+**The Star**<br>
+Sun 15 Aug 18:30; Wed 25 Aug 20:45<br>
+**Dead Ringer**<br>
+Fri 20 Aug 17:45; Mon 30 Aug 15:20<br>
+**The Nanny**<br>
+Tue 24 Aug 20:45; Mon 30 Aug 12:40<br>
 
 With thanks to Martin Shingler
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTE0OTE0N119
+eyJoaXN0b3J5IjpbLTM4NTcwODc3OV19
 -->
