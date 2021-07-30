@@ -6,7 +6,7 @@ date: 2021-07-30
 readtime: true
 categories: ['NEW RELEASES']
 tags: [Documentary]
-metadata: 'Sweden/Germany, 2021, 98 mins<br> Directors: Kristina Lindström and Kristian Petri'
+metadata: 'Sweden/Germany, 2021, 98 mins<br> Directors: Kristina Lindström, Kristian Petri'
 pdf: '2021-07-30-most-beautiful-boy-in-the-world.pdf'
 ---
 
