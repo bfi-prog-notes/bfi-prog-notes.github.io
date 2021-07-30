@@ -57,30 +57,109 @@ _Music:_ Ennio Morricone, Gillo Pontecorvo<br>
 _Music Director:_ Bruno Nicolai *<br>
 
 **Cast**<br>
-
 Brahim Haggiag _(Ali la Pointe)_<br>
-
 Jean Martin _(Colonel Mathieu)_<br>
-
 Saadi Yacef _(El-hadi Jaffar)_<br>
-
 Samia Kerbash _(Fathia)_<br>
-
 Ugo Paletti _(the commissioner)_<br>
-
 Fusia El Kader _(Halima)_<br>
-
 Mohamed Ben Kassen _(little Omar)_<br>
-
 Tommaso Neri _(Captain Dubois)_ *<br>
-
 Franco Morici<br>
 
 Italy/Algeria 1966<br>
-
 121 mins
 
-* Uncredited
+*Uncredited
+<br><br>
+
+
+
+**MORRICONE**<br>
+
+**The Battle of Algiers (La battaglia di Algeri)**<br>
+
+Sun 1 Aug 15:10; Wed 25 Aug 14:30<br>
+
+**The Sounds of Ennio Morricone**<br>
+
+Mon 2 Aug 18:10<br>
+
+**A Fistful of Dollars (Per un pugno di dollari)**<br>
+
+Mon 2 Aug 20:45; Sat 7 Aug 11:30;  
+Tue 10 Aug 20:50; Mon 30 12:20<br>
+
+**Two Mules for Sister Sara**<br>
+
+Wed 4 Aug 18:00; Sat 21 Aug 20:30<br>
+
+**Salò, or the 120 Days of Sodom  
+(Salò o Le 120 giornate di Sodoma)**<br>
+
+Thu 5 Aug 20:45; Tue 10 Aug 17:45;  
+Wed 25 Aug 17:50<br>
+
+**The Untouchables**<br>
+
+Fri 6 Aug 17:45; Tue 24 Aug 14:30<br>
+
+**The Thing**<br>
+
+Fri 6 Aug 20:50; Tue 24 Aug 20:50<br>
+
+**For a Few Dollars More  
+(Per qualche dollaro in più)**
+
+Sat 7 Aug 14:00; Sun 22 Aug 12:10;  
+Mon 30 Aug 15:00
+
+**The Good, the Bad and the Ugly  
+(Il buono, il brutto, il cattivo)**
+
+Sat 7 Aug 17:10; Sun 29 Aug 18:20;  
+Mon 30 Aug 18:15
+
+**White Dog**
+
+Sat 7 Aug 20:50; Fri 20 Aug 18:10; Fri 27 Aug 20:45
+
+**Once upon a Time in the West  
+(C’era una volta il west)**
+
+Sun 8 Aug 12:00; Fri 27 Aug 14:00;  
+Tue 31 Aug 14:00
+
+**The Mission**
+
+Sun 8 Aug 15:10; Thu 12 Aug 20:30;  
+Thu 26 Aug 18:00
+
+**Days of Heaven**
+
+Mon 9 Aug 21:00; Tue 31 Aug 17:50
+
+**Tie Me Up, Tie Me Down (Atame!)**
+
+Wed 11 Aug 20:50; Thu 19 Aug 14:15;  
+Mon 23 Aug 21:00; Tue 31 Aug 20:45
+
+**The Hateful Eight**
+
+Sun 15 Aug 15:00; Sun 22 Aug 18:00
+
+**Once upon a Time in America**
+
+Tue 17 Aug 17:40; Sat 28 Aug 11:20
+
+**The Legend of 1900  
+(La leggenda del pianista sull’oceano)**
+
+Sat 21 Aug 11:50; Sun 29 Aug 15:10
+
+**Cinema Paradiso (Nuovo Cinema Paradiso)**
+
+Sat 21 Aug 14:30; Thu 26 Aug 14:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTk1Mzk1MjhdfQ==
+eyJoaXN0b3J5IjpbNjU0MjgwMTM0XX0=
 -->
