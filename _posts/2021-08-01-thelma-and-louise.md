@@ -102,7 +102,7 @@ USA/UK/France 1991<br>
 
 _Thelma & Louise BFI Film Classics_ by Marita Sturken  (Bloomsbury Publishing) is available to buy in the BFI Shop. **shop.bfi.org.uk**
 
-<img style="float: left;" src="/img/thelma.png"><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/Thelma.jpg" width="40%" height="40%"><br><br><br><br><br><br><br>
 
 
 **BFI SOUTHBANK**  
