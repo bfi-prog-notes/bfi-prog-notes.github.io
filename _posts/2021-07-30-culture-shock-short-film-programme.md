@@ -1,1 +1,60 @@
+<![endif]-->
 
+UNDR LNDN and T A P E present a programme of short films selected from submissions responding to the theme of ‘But Where Are You Really From?’ The screening will be followed by a Q&A with UNDR LNDN’s Caroline Wilson and Nellie Alston from T A P E, who will discuss the power of short films as an exploration of home and one’s identity.
+
+The selected short films are:
+
+**Look at Us**  
+UK, Hussina Raja, 4min  
+Acknowledging Partition and the early arrival of Pakistani migrants to the UK, the film examines the journey of the South Asian diaspora and their history through archive material and a spoken word poem centred around a racial slur.
+
+**When I Was a Younger**  
+UK, Noella Mingo, 9min  
+We meet four older women who consider themselves Londoners but come from Grenada, Jamaica, Sri Lanka and Manchester.
+
+**Fragments**  
+UK, Adekemi Roluga, 10min  
+An animated, autobiographical story documenting the journey of a young girl trying to navigate her biracial identity, broken home and the society that doesn’t accept her.
+
+**I Was Told There’s Freedom Here  
+**Awate Abdalla, 6min  
+A human refugee from another planet describes their family's experiences facing discrimination, gentrification and the violence of British bureaucracy.
+
+**Home**  
+Ndrika Anyika, 12min  
+Angst-ridden teenager Miri is desperate to escape her mother. Following yet another argument, she seeks refuge in her best friend, the beautiful and rebellious Elle. Whilst out meeting some boys, Miri finds herself alone with the handsome Ricky, anticipating a kiss. But reality bites in more ways than one, leading Miri to re-evaluate her identity.
+
+**Rice & Bread  
+**UK 2019, Greta Griniute, 5min  
+A monotonous night in a south London takeaway is ‘enlightened’ when a delivery driver is reminded of a contentious theory he learnt on YouTube.
+
+**Mrs El Araby**  
+May Ziadé, 1min  
+An experimental film that explores the restricted space within which Arab women are allowed to exist in white Western media.
+
+**More Than Other**  
+Romano Pizzichini, 9min  
+In the UK, there is currently no official recognition of Latin American people being their own ethnic minority. The quarter of a million Latin Americans that call the UK home are simply considered to be ‘Other’. As the biggest-ever generation of British-born Latin Americans now comes of age, they must face this lack of visibility.
+
+**Without Warning**  
+UK 2020, Emily Macrander, 7min  
+_Without Warning_ is about a girl who struggles to understand her heritage and identity as a sperm donor baby that grew up not looking like her parents. In an attempt to get to the bottom of ‘where she’s really from’, Ria approaches her Pakistani sperm donor father and hopes to learn more about her heritage through him.
+
+**Aismir**  
+Bridie O’Sullivan, 13min  
+This poetic documentary aims to explore Irish identity, immigration and the idea of home through mythology, folklore and poems, using the poetic Gaelic language.
+<br><br>
+
+
+**T A P E PRESENTS:  BUT WHERE ARE YOU  REALLY FROM?**<br>
+**Culture Shock: Short Film Programme  + Q&A with UNDR LNDN**<br>
+Fri 30 Jul 17:40<br>
+**Lilting**<br>
+Fri 30 Jul 20:40<br>
+**What Will People Say (Hva vil folk si)**<br>
+Sat 31 Jul 17:30<br>
+
+T A P E was founded in 2015 as a response to the lack of representation on screen. Find out more about this curatorial collective at **tapecollective.co.uk**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc0NDc0NjI1NV19
+-->
