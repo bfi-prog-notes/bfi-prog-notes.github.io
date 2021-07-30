@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Most Beautiful Boy in the World
+published: true
+date: 2021-07-30
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Documentary]
+metadata: 'Sweden/Germany, 2021, 98 mins<br> Directors: Kristina Lindström and Kristian Petri'
+pdf: '2021-07-30-most-beautiful-boy-in-the-world.pdf'
+---
 
 _‘His face recalled the noblest moment of Greek sculpture – pale, with a sweet reserve, with clustering honey-coloured ringlets, the brow and nose descending in one line, the winning mouth, the expression of pure and godlike serenity. Yet with all this chaste perfection of form it was of such unique personal charm that the observer thought he had never seen, either in nature or art, anything so utterly happy and consummate.’_ – Description of the young character Tadzio in Thomas Mann’s novel, _Death in Venice_.
 
@@ -7,8 +17,7 @@ _‘The boy was exquisitely beautiful. He is fragile. And that is beautiful… o
 In 1970, filmmaker Luchino Visconti travelled throughout Europe looking for the perfect boy to personify absolute beauty in his adaptation for the screen of Thomas Mann’s _Death in Venice_. In Stockholm, he discovered Björn Andrésen, a shy 15-year-old teenager whom he brought to international fame overnight and led to spend a short but intense part of his turbulent youth between the Lido in Venice, London, the Cannes Film Festival and the so distant Japan.  Fifty years after the premiere of _Death in Venice_, Björn takes us on a remarkable journey made of personal memories, cinema history, stardust and tragic events in what could be Bjorn’s last attempt for him to finally get his life back on track.
 
 **Directors’ note (Kristina Lindström and Kristian Petri)**  
-_The Most Beautiful Boy in the World_ is a story about obsession with beauty, about desire and sacrifice, about a boy whose life was changed forever when the film director Luchino Visconti declared him to be the ‘world’s most  
-beautiful boy.’
+_The Most Beautiful Boy in the World_ is a story about obsession with beauty, about desire and sacrifice, about a boy whose life was changed forever when the film director Luchino Visconti declared him to be the ‘world’s most  beautiful boy.’
 
 Who was this boy and what happened to him? This is the story of a film that destroyed someone’s life.
 
@@ -18,8 +27,7 @@ We filmed _The Most Beautiful Boy in the World_ during five years in Stockholm, 
 
 We searched for people who had crossed his path over the decades. It was naturally difficult to find some of them after 50 years, but miraculously many of them were available and willing to talk on camera. The rich archive material which we found throughout the process was also a big source of joy.
 
-The base for everything has been trust and Björn’s courage and wish to tell  
-his story.
+The base for everything has been trust and Björn’s courage and wish to tell  his story.
 
 We believe in interesting questions more than in simple answers. This is not an easy story. We hope it is gripping. We hope that Björn will come forward as the complex and interesting person that he is. This is a story with many layers, a box within a box within a box.
 
@@ -97,6 +105,41 @@ Sweden/Germany 2021©
 98 mins
 
 A Dogwoof release
+<br><br>
+
+**NEW RELEASES &  RE-RELEASES**<br>
+**Limbo**<br>
+From Fri 30 Jul<br>
+**The Most Beautiful Boy in the World**<br>
+From Fri 30 Jul<br>
+**Now, Voyager**<br>
+From Fri 6 Aug<br>
+**The Story of a Three Day Pass**<br>
+From Sat 7 Aug<br>
+**CODA**<br>
+From Fri 13 Aug<br>
+**Censor**<br>
+From Fri 20 Aug<br>
+**Souad**<br>
+From Fri 27 Aug<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzc2NTA0Mjc5XX0=
 -->
