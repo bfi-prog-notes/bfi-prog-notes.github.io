@@ -1,11 +1,9 @@
 
 
-In Gillo Pontecorvo’s dazzling reconstruction of Algerian nationalist opposition to the French occupation in the mid-1950s, guerrilla fighters venture from the Casbah to attack the colonial new city – and meet with brutal reprisals. Pontecorvo collaborated closely with Morricone, who used a multitude of sound effects and different motifs to distinguish between the French and Algerian forces. A masterpiece of political cinema.
+In Gillo Pontecorvo’s dazzling reconstruction of Algerian nationalist opposition to the French occupation in the mid-1950s, guerrilla fighters venture from the Casbah to attack the colonial new city – and meet with brutal reprisals. Pontecorvo collaborated closely with Morricone, who used a multitude of sound effects and different motifs to distinguish between the French and Algerian forces. A masterpiece of political cinema.  
+**bfi.org.uk**
 
-bfi.org.uk
-
-There are few classic films with as much relevance to the early 21st century as Gillo Pontecorvo’s 1966 re-enactment of the Algerian liberation struggle of the preceding decade. _The Battle of Algiers_ is a singular film, celebrated on the one hand as a paradigm of political cinema, and on the other studied by the military for clues about the problems of confronting urban guerrillas. Writing in the  
-_New York Times_ in 2003, when it was released on DVD in the US, Michael T. Kaufman reported a screening at the Pentagon where ‘40 officers and civilian experts … were urged to consider and discuss the implicit issues at the core of the film – the problematic but alluring efficacy of brutal and repressive means in fighting clandestine terrorists in places like Algeria and Iraq. Or more specifically, the advantages and costs of resorting to torture and intimidation in seeking vital human intelligence about enemy plans.’ This was not the first time the film had been paid such compliments. Other reports speak of its use as a training film for the troops in Northern Ireland during the Troubles.
+There are few classic films with as much relevance to the early 21st century as Gillo Pontecorvo’s 1966 re-enactment of the Algerian liberation struggle of the preceding decade. _The Battle of Algiers_ is a singular film, celebrated on the one hand as a paradigm of political cinema, and on the other studied by the military for clues about the problems of confronting urban guerrillas. Writing in the  _New York Times_ in 2003, when it was released on DVD in the US, Michael T. Kaufman reported a screening at the Pentagon where ‘40 officers and civilian experts … were urged to consider and discuss the implicit issues at the core of the film – the problematic but alluring efficacy of brutal and repressive means in fighting clandestine terrorists in places like Algeria and Iraq. Or more specifically, the advantages and costs of resorting to torture and intimidation in seeking vital human intelligence about enemy plans.’ This was not the first time the film had been paid such compliments. Other reports speak of its use as a training film for the troops in Northern Ireland during the Troubles.
 
 The paradox here is that as a piece of political cinema, _The Battle of Algiers_ belongs to the left. Specifically, to the new left of the 1960s, which broke with Soviet communism after the Russian tanks went into Hungary in 1956 (though Pontecorvo was still a Party member at the time he made the film), and then, inspired by the Cuban revolution and Algeria’s victory against the French, took up a third-world perspective and made solidarity with Vietnam. The film was indeed a touchstone for that most politicised of decades, and in France it was banned. But then the French authorities were notoriously sensitive about the representation of anti-colonial sentiments even before their defeat at Dien Bien Phu in 1954.
 
@@ -14,12 +12,8 @@ Both films are clearly political, but in very different ways. On an ideological 
 
 _The Battle of Algiers_ defies description as propaganda because of the way it presents both sides of the conflict, Algerian and French, locked in a dialectical relation with each other. There is no false objectivity, and the film doesn’t hide its fundamental sympathy for the insurgents, but neither does it obscure the contradictions of the liberation struggle. The parallel storytelling also answers to the film’s classical narrative construction as what Peter Sainsbury back in 1971 called ‘a suspenseful battle of tactics between hunters and hunted, action and counteraction’ – and this is precisely what made it such a good film for the military analysts to get their teeth into. But this also sets _The Battle of Algiers_ squarely within a particularly Italian predilection for the political thriller, a current that includes Elio Petri’s _Investigation of a Citizen above Suspicion_ (1970) and Giuliano Montaldo’s _Sacco and Vanzetti_ (1971), not to mention various films by Francesco Rosi.
 
-The way you understand the renewed contemporary significance of _The Battle of Algiers_ revolves around the question of the political culture of the viewer – and here the text of the flier inviting guests to the Pentagon screening is highly revealing: ‘How to win a battle against terrorism and lose the war of ideas. Children shoot soldiers at point-blank range. Women plant bombs in cafes. Soon the entire Arab population builds to a mad fervour. Sound familiar?’  
-And the film indeed suggests certain parallels. As Michael T. Kaufman puts it, the events re-enacted in Pontecorvo’s film demonstrate the effective use of the tactics of a ‘people’s war’, ‘where fighters emerge from seemingly ordinary lives to mount attacks and then retreat to the cover of their everyday identities.’ But go back to the passage from Kaufman with which I began, where he speaks of ‘fighting clandestine terrorists in places like Algeria and Iraq’.  
-By calling both groups terrorists, all historical distinctions are elided to leave only one essential element: that in both cases the insurgents are Muslim.  
-The liberation struggle of the FLN is reduced to the religious sectarianism of competing strands of Islamic fundamentalism 50 years later. To avoid this trap, the trick is to see _The Battle of Algiers_ as both a contemporary and a historical film at the same time, which is not about the myth of the clash of civilisations, but about the incomprehension of the imperial hegemon.
-
-Michael Chanan, _Sight & Sound_, June 2007
+The way you understand the renewed contemporary significance of _The Battle of Algiers_ revolves around the question of the political culture of the viewer – and here the text of the flier inviting guests to the Pentagon screening is highly revealing: ‘How to win a battle against terrorism and lose the war of ideas. Children shoot soldiers at point-blank range. Women plant bombs in cafes. Soon the entire Arab population builds to a mad fervour. Sound familiar?’  And the film indeed suggests certain parallels. As Michael T. Kaufman puts it, the events re-enacted in Pontecorvo’s film demonstrate the effective use of the tactics of a ‘people’s war’, ‘where fighters emerge from seemingly ordinary lives to mount attacks and then retreat to the cover of their everyday identities.’ But go back to the passage from Kaufman with which I began, where he speaks of ‘fighting clandestine terrorists in places like Algeria and Iraq’.  By calling both groups terrorists, all historical distinctions are elided to leave only one essential element: that in both cases the insurgents are Muslim.  The liberation struggle of the FLN is reduced to the religious sectarianism of competing strands of Islamic fundamentalism 50 years later. To avoid this trap, the trick is to see _The Battle of Algiers_ as both a contemporary and a historical film at the same time, which is not about the myth of the clash of civilisations, but about the incomprehension of the imperial hegemon.  
+**Michael Chanan, _Sight & Sound_, June 2007**
 
 **Critical reception for ‘The Battle of Algiers’**
 
@@ -36,11 +30,11 @@ Not just in the stirring eloquence of its music, but above all in the collective
 
 ‘It may be a deeper film experience than many audiences can withstand: too cynical, too true, too cruel and too heartbreaking. It is about the Algerian war, but those not interested in Algeria may substitute another war; _The Battle of Algiers_ has a universal frame of reference.’ – Roger Ebert, _Chicago Sun-Times_
 
-_Sight & Sound_, June 2007
+**_Sight & Sound_, June 2007**
+<br><br>
 
-<![endif]-->
 
-**The Battle of Algiers (La battaglia di Algeri)**
+**THE BATTLE OF ALGIERS (LA BATTAGLIA DI Algeri)**
 
 _Director:_ Gillo Pontecorvo
 
@@ -112,5 +106,5 @@ Italy/Algeria 1966
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjY5MTc5M119
+eyJoaXN0b3J5IjpbLTEzOTg3NjU5NDBdfQ==
 -->
