@@ -145,7 +145,7 @@ Tue 24 Aug 20:45; Mon 30 Aug 12:40<br>
 With thanks to Martin Shingler
 
 **Promotional drinks partner**  
-<img style="float: left;" src="/img/partner/Sipsmith London Logo-Black-Vector-01 (1).jpg">
+<img style="float: left;" src="/img/partner/Sipsmith London Logo-Black-Vector-01 (1).jpg" width="40%" height="40%">
 <br><br><br><br><br><br><br><br><br><br>
 
 
