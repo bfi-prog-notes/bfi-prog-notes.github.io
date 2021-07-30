@@ -38,46 +38,25 @@ Not long before he passed away, he said: ‘Actors don’t retire. They live in 
 **Margaret Omolola Young, Baroness Young of Hornsey**  **OBE** is a British actress, author, crossbench peer and Chancellor of the University of Nottingham. Young worked as a professional actress from 1976 to 1984, and from 1990 to 1992 was lecturer in media studies at the Polytechnic of West London. Following this she was lecturer, senior lecturer, principal lecturer, professor of cultural studies and in the end emeritus professor at Middlesex University. Young became project director of the Archives and Museum of Black Heritage in 1997, she was Commissioner in the Royal Commission on Historical Manuscripts in the years 2000 and 2001, and Chair at Nitro Theatre Company in 2004.<br>
 
 
-**EARL CAMERON BRITAIN’S FIRST BLACK SCREEN STAR**
+**EARL CAMERON
+BRITAIN’S FIRST BLACK SCREEN STAR**<br>
 
-**Celebrating Britain’s First Black  
-Screen Star**
-
-Sun 1 Aug 14:00
-
-**African Odysseys present:  
-A Warm December**
-
-Sun 1 Aug 17:30 (+ intro by actor  
-Esther Anderson); Wed 18 Aug 20:40
-
-**Pool of London**
-
-Mon 2 Aug 14:00 (+intro);  
-Wed 25 Aug 20:50
-
-**Two Gentlemen Sharing**
-
+**Celebrating Britain’s First Black Screen Star**<br>
+Sun 1 Aug 14:00<br>
+**African Odysseys present:  A Warm December**<br>
+Sun 1 Aug 17:30 (+ intro by actor Esther Anderson); Wed 18 Aug 20:40<br>
+**Pool of London**<br>
+Mon 2 Aug 14:00 (+intro);  Wed 25 Aug 20:50<br>
+**Two Gentlemen Sharing**<br>
 Fri 6 Aug 17:10 (+ intro by season curator Burt Caesar); Mon 23 Aug 20:30
-
 **Flame in the Streets**
-
 Sun 8 Aug 15:00; Sat 28 Aug 17:10
-
 **Sapphire**
-
-Tue 10 Aug 20:20 (+ discussion);  
-Sat 28 Aug 13:00
-
-**The Fear of Strangers** (+ intro) +
-
-**The Chocolate Tree**
-
+Tue 10 Aug 20:20 (+ discussion);  Sat 28 Aug 13:00
+**The Fear of Strangers** (+ intro) + **The Chocolate Tree**
 Sat 14 July 14:10
-
 **Thunder on Sycamore Street** + discussion with Actor Ashley Walters (schedule permitting) and playwright Stephen S Thompson)
-
 Sat 14 Aug 17:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTY3MTMyMTYsLTc3Nzg0NDUzM119
+eyJoaXN0b3J5IjpbMTA3ODQxMzM0NCwtNzc3ODQ0NTMzXX0=
 -->
