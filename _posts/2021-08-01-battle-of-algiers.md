@@ -105,26 +105,17 @@ Sun 8 Aug 15:10; Thu 12 Aug 20:30;  Thu 26 Aug 18:00<br>
 Mon 9 Aug 21:00; Tue 31 Aug 17:50<br>
 **Tie Me Up, Tie Me Down (Atame!)**<br>
 Wed 11 Aug 20:50; Thu 19 Aug 14:15;  Mon 23 Aug 21:00; Tue 31 Aug 20:45<br>
-
 **The Hateful Eight**<br>
-
 Sun 15 Aug 15:00; Sun 22 Aug 18:00<br>
-
 **Once upon a Time in America**<br>
-
 Tue 17 Aug 17:40; Sat 28 Aug 11:20<br>
-
-**The Legend of 1900  
-(La leggenda del pianista sull’oceano)**<br>
-
+**The Legend of 1900  (La leggenda del pianista sull’oceano)**<br>
 Sat 21 Aug 11:50; Sun 29 Aug 15:10<br>
-
 **Cinema Paradiso (Nuovo Cinema Paradiso)**<br>
-
 Sat 21 Aug 14:30; Thu 26 Aug 14:30<br>
 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzQ1NzAyXX0=
+eyJoaXN0b3J5IjpbMTg3NTgxNDg5Nl19
 -->
