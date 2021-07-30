@@ -1,7 +1,18 @@
+---
+layout: post
+title: Celebrating Britain's First Black Screen Star
+published: true
+date: 2021-08-01
+readtime: true
+categories: ['EARL CAMERON']
+tags: [Talks]
+metadata: 
+pdf: '2021-08-01-celebrating-britains-first-black-screen-star.pdf'
+---
+
 _Actor-director Burt Caesar presents an illustrated overview of the unique seven-decade career in film and television of this modest pioneer. Panel discussions featuring guests such as Esther Anderson, Carmen Monroe, Corrina Antrobus and Baroness Lola Young will consider Earl Cameron’s skill, achievement and legacy._
 
-In 2001, Thomas Baptiste attended an audition for a role in an episode of BBC1’s _EastEnders_. However, when he arrived at Elstree, he immediately recognised another veteran screen actor, Earl Cameron, who was also up for the part. Embracing his old friend, Thomas said: ‘If I’d known you were going to be here today, I would have stayed at home!’ This was Thomas’s personal tribute to an actor he respected. Cameron had been a professional actor since 1941, and in 2001 he was still in demand. Cameron got  
-the part.
+In 2001, Thomas Baptiste attended an audition for a role in an episode of BBC1’s _EastEnders_. However, when he arrived at Elstree, he immediately recognised another veteran screen actor, Earl Cameron, who was also up for the part. Embracing his old friend, Thomas said: ‘If I’d known you were going to be here today, I would have stayed at home!’ This was Thomas’s personal tribute to an actor he respected. Cameron had been a professional actor since 1941, and in 2001 he was still in demand. Cameron got the part.
 
 For several decades, generations of black actors have been paying tribute to Cameron. Nadia Cattouse, who co-starred with Cameron in several TV dramas of the 1950s and 1960s, described him as someone that black actors in Britain had the highest regard for: ‘We all liked and admired him. He worked all the time, and gave each role tremendous dignity and humanity.’ When Cameron passed away at the age of 102 on 3 July 2020, Paterson Joseph tweeted: ‘His generation’s pioneering shoulders are what my generation of actors stand on. No shoulders were broader than this gentleman with the voice of god and the heart of a kindly prince.’
 
@@ -13,8 +24,7 @@ In the 1950s, British cinema continued its glorification of the British Empire a
 
 When Cameron was working on _Flame in the Streets_, he became an unofficial ‘consultant’ to the film’s director, Roy Ward Baker. Cameron expressed his concern to Baker that the interiors of the homes of the black characters looked dirty and shabby. He diplomatically informed Baker that working-class black families on low incomes kept their homes nice. Baker immediately made changes to the sets and asked Earl to consult with him on other aspects of the lives of black people for the film.
 
-Throughout the 1960s, television viewers became familiar with Earl in a range of popular dramas including _Armchair Theatre_, _Danger Man_, _Emergency – Ward 10_, _Doctor Who_ (_The Tenth Planet_), _Theatre 625_ and the cult favourite _The Prisoner_. He gave an outstanding portrayal of a jazz musician falsely accused of murder in Leon Griffiths’s explosive psychological two-hander _Drama ‘64: A Fear of Strangers_ (1964) with Stanley Baker. That same year he gave one of his best film performances, as the army captain in _Guns at Batasi_, a gripping drama about a revolution in post-colonial Africa. Cameron was also proud of his work in three BBC television plays by black dramatists: John Hearne’s  
-_A World Inside_ (1962), Errol John’s _The Dawn_ (1963) and Obi Egbuna’s _Wind Versus Polygamy_ (1968).
+Throughout the 1960s, television viewers became familiar with Earl in a range of popular dramas including _Armchair Theatre_, _Danger Man_, _Emergency – Ward 10_, _Doctor Who_ (_The Tenth Planet_), _Theatre 625_ and the cult favourite _The Prisoner_. He gave an outstanding portrayal of a jazz musician falsely accused of murder in Leon Griffiths’s explosive psychological two-hander _Drama ‘64: A Fear of Strangers_ (1964) with Stanley Baker. That same year he gave one of his best film performances, as the army captain in _Guns at Batasi_, a gripping drama about a revolution in post-colonial Africa. Cameron was also proud of his work in three BBC television plays by black dramatists: John Hearne’s _A World Inside_ (1962), Errol John’s _The Dawn_ (1963) and Obi Egbuna’s _Wind Versus Polygamy_ (1968).
 
 Cameron quit acting in 1979 and made a new home for his family in the Solomon Islands. On returning to Britain in 1994, he resumed his acting career and remained in work until 2013 when he played the grandfather in Nour Wazzi’s award-winning short _Up on the Roof_. Along the way he made some memorable film appearances in such films as  _The Queen_ (2006), as the portrait artist, and Christopher Nolan’s _Inception_ (2010).
 
@@ -57,6 +67,25 @@ Tue 10 Aug 20:20 (+ discussion);  Sat 28 Aug 13:00<br>
 Sat 14 July 14:10<br>
 **Thunder on Sycamore Street** + discussion with Actor Ashley Walters (schedule permitting) and playwright Stephen S Thompson)<br>
 Sat 14 Aug 17:30<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDcxMzUxOCwtNzc3ODQ0NTMzXX0=
--->
+
+<img style="float: left;" src="/img/partner/Black Cultural Archives.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
+<br>
+<br>
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+>
