@@ -131,7 +131,7 @@ Prudence Johnson _(herself)_<br>
 The Guys All-Star Shoe Band: Richard Dworsky _(piano/organ/bandleader);_ Pat Donohue _(guitar);_ Andy Stein _(violin/saxophone);_ Gary Raynor _(bass);_ Arnie Kinsella _(drums); with featured musicians:_ Peter Ostroushko _(mandolin/fiddle);_ Butch Thompson _(clarinet)_<br>
 Christopher K. Grap _(axeman’s chauffeur)_<br>
 Debbie Delisi _(lobby usher)_<br>
-Bob Douglas, Adam Granger, Bill Hinkley, John Koerner, Judy Larson, Dan Newton, Jon Pankake, Dick Rees, Becky Schlegel, Pop Wagner _(musician extras)_<br>
+Bob Douglas, Adam Granger, Bill Hinkley, John Koerner, Judy Larson, Dan Newton, Jon Pankake, Dick Rees, Becky Schlegel,Pop Wagner _(musician extras)_<br>
 
 USA 2006©<br>
 106 mins<br>
@@ -175,3 +175,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0Mzk5MzUzOTddfQ==
+-->
