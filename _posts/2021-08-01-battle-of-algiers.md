@@ -92,8 +92,7 @@ Mon 2 Aug 18:10<br>
 Mon 2 Aug 20:45; Sat 7 Aug 11:30;  Tue 10 Aug 20:50; Mon 30 12:20<br>
 **Two Mules for Sister Sara**<br>
 Wed 4 Aug 18:00; Sat 21 Aug 20:30<br>
-**Salò, or the 120 Days of Sodom  
-(Salò o Le 120 giornate di Sodoma)**<br>
+**Salò, or the 120 Days of Sodom  (Salò o Le 120 giornate di Sodoma)**<br>
 Thu 5 Aug 20:45; Tue 10 Aug 17:45;  Wed 25 Aug 17:50<br>
 **The Untouchables**<br>
 Fri 6 Aug 17:45; Tue 24 Aug 14:30<br>
