@@ -14,15 +14,15 @@ The starting point of the story is the myth about the Tooth Fairy. The custom of
 **bfi.org.uk**<br>
 
 
-**ERNEST AND CELESTINE (ERNEST ET CÉLESTINE)***
-_Directors:_ Stéphane Aubier, Vincent Patar, Benjamin Renner
-_Production Company:_ La Parti Production _Production Manager:_ Ivan Rouveure
+**ERNEST AND CELESTINE (ERNEST ET CÉLESTINE)**<br>
+_Directors:_ Stéphane Aubier, Vincent Patar, Benjamin Renner<br>
+_Production Company:_ La Parti Production<br>
+_Production Manager:_ Ivan Rouveure
 _Screenplay:_ Daniel Pennac
 _Based on the books by:_ Gabrielle Vincent
 _Music:_ Goran Bregovich
 
-_Voice cast:_
-
+**Voice cast**
 Lambert Wilson _(Ernest)_  
 Pauline Brunner _(Célestine)_
 
@@ -33,6 +33,6 @@ France 2012
 
 79 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDUwMDY1OCwyMDc2MjM4ODMwLC0xOD
-QyNDkyOTQ4XX0=
+eyJoaXN0b3J5IjpbODE3ODM5MzI4LDE3MDA1MDA2NTgsMjA3Nj
+IzODgzMCwtMTg0MjQ5Mjk0OF19
 -->
