@@ -46,11 +46,10 @@ Not long before he passed away, he said: ‘Actors don’t retire. They live in 
 **Corinna Antrobus** is Arts and Culture Communications Officer for Hackney. Channel 4’s _Sunday Brunch Film_ presenter and freelance film critic, she was Communications Manager for Picturehouse 26 cinemas and independent film distribution company. Founder of Bechdel Test Fest – an ongoing celebration of films that hail positive representation for women in film, programming film events at various locations in London since 2014.<br>
 
 **Margaret Omolola Young, Baroness Young of Hornsey**  **OBE** is a British actress, author, crossbench peer and Chancellor of the University of Nottingham. Young worked as a professional actress from 1976 to 1984, and from 1990 to 1992 was lecturer in media studies at the Polytechnic of West London. Following this she was lecturer, senior lecturer, principal lecturer, professor of cultural studies and in the end emeritus professor at Middlesex University. Young became project director of the Archives and Museum of Black Heritage in 1997, she was Commissioner in the Royal Commission on Historical Manuscripts in the years 2000 and 2001, and Chair at Nitro Theatre Company in 2004.<br>
-
+<br>
 
 **EARL CAMERON
 BRITAIN’S FIRST BLACK SCREEN STAR**<br>
-
 **Celebrating Britain’s First Black Screen Star**<br>
 Sun 1 Aug 14:00<br>
 **African Odysseys present:  A Warm December**<br>
