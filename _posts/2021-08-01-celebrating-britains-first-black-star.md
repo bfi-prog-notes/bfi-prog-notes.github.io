@@ -48,15 +48,15 @@ Sun 1 Aug 17:30 (+ intro by actor Esther Anderson); Wed 18 Aug 20:40<br>
 **Pool of London**<br>
 Mon 2 Aug 14:00 (+intro);  Wed 25 Aug 20:50<br>
 **Two Gentlemen Sharing**<br>
-Fri 6 Aug 17:10 (+ intro by season curator Burt Caesar); Mon 23 Aug 20:30
-**Flame in the Streets**
-Sun 8 Aug 15:00; Sat 28 Aug 17:10
-**Sapphire**
-Tue 10 Aug 20:20 (+ discussion);  Sat 28 Aug 13:00
-**The Fear of Strangers** (+ intro) + **The Chocolate Tree**
-Sat 14 July 14:10
-**Thunder on Sycamore Street** + discussion with Actor Ashley Walters (schedule permitting) and playwright Stephen S Thompson)
-Sat 14 Aug 17:30
+Fri 6 Aug 17:10 (+ intro by season curator Burt Caesar); Mon 23 Aug 20:30<br>
+**Flame in the Streets**<br>
+Sun 8 Aug 15:00; Sat 28 Aug 17:10<br>
+**Sapphire**<br>
+Tue 10 Aug 20:20 (+ discussion);  Sat 28 Aug 13:00<br>
+**The Fear of Strangers** (+ intro) + **The Chocolate Tree**<br>
+Sat 14 July 14:10<br>
+**Thunder on Sycamore Street** + discussion with Actor Ashley Walters (schedule permitting) and playwright Stephen S Thompson)<br>
+Sat 14 Aug 17:30<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODQxMzM0NCwtNzc3ODQ0NTMzXX0=
+eyJoaXN0b3J5IjpbMjA0MDcxMzUxOCwtNzc3ODQ0NTMzXX0=
 -->
