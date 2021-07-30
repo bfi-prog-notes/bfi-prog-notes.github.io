@@ -10,31 +10,22 @@ It is remarkable how the film’s style and story do not seem dated. This can be
 The debate over _Thelma & Louise_ revealed that the film touched a nerve not only in its depiction of women breaking free of the law, but also in its depiction of loutish male behaviour, male violence, sexism and misogyny. In her 2018 book _Empowered: Popular Feminism and Popular Misogyny_, Sarah Banet-Weiser examines how the surge of popular feminist representation, media products, commodities and movements in this era have been shadowed by a rise of virulent misogyny, filled with rage and a sense of victimhood.  The popular feminism that Banet-Weiser writes about is networked, circulating through social media channels. This media environment makes the 1991 world of _Thelma & Louise_ debate seem distant by comparison, taking place in newspaper and magazine articles and film reviews, rather than on Facebook and Twitter. Indeed, it is perhaps mostly the changed media landscape that demarcates the 1990s from today. We see this perhaps most conspicuously in the film itself, with the importance of pay phones (and the quarter needed to use them) in the plot. Yet, the attacks on the film’s daring depictions of misogyny, sexual violence and women’s empowerment (calling it a paean to violence that would sway impressionable young viewers to kill) can be seen, sadly, as a precursor to the extreme conflict today of feminism and misogyny.
 
 Social change moves forward and is pushed back with virulence, and moves forward again. That _Thelma & Louise_, one might say, aged particularly well is both testimony to the power of the film and to the struggle over gender power relations that continues in new extremes today. Let’s keep watching it.<br>
-**Marita Sturken, _Thelma & Louise_ (‎Bloomsbury/BFI, 2020) ©Marita Sturken**
+**Marita Sturken, _Thelma & Louise_ (‎Bloomsbury/BFI, 2020) ©Marita Sturken**<br>
 
 
 
-**Thelma & Louise**
-
+**Thelma & Louise**<br>
 _Directed by_: Ridley Scott  
 _©_: Pathé Entertainment Inc  
-_Production Companies_: Percy Main,
-
-Pathé Entertainment  
+_Production Companies_: Percy Main, Pathé Entertainment  
 _From_: Metro-Goldwyn-Mayer  
 _Produced by_: Ridley Scott, Mimi Polk  
 _Co-producers_: Dean O'Brien, Callie Khouri  
-_Unit Production Managers_: Dean O'Brien,
-
-Mel Dellar  
-_Production Co-ordinators_: Christine Baer,
-
-Tracy Defreitas  
+_Unit Production Managers_: Dean O'Brien, Mel Dellar  
+_Production Co-ordinators_: Christine Baer, Tracy Defreitas  
 _Production Accountant_: Sam Bernstein  
 _Location Manager (California)_: Michael Neale  
-_Location Managers (Utah)_: Kenneth Haber,
-
-James M. Kelly  
+_Location Managers (Utah)_: Kenneth Haber, James M. Kelly  
 _2nd Unit Crew Director_: Bobby Bass  
 _1st Assistant Director_: Steve Danton  
 _Script Supervisor_: Luca Kouimelis  
@@ -46,9 +37,7 @@ _Camera Operators_: Alexander Witt, Michael Scott
 _Clapper Loader_: J. Steven Matzinger  
 _Key Grip_: Bobby Rose  
 _Still Photographer_: Roland Neveu  
-_Special Effects Co-ordinators_: Stan Parks,
-
-Kevin S. Quibell, Todd K. Jensen, Tim J. Moran, Martin J. Gibbons, Paul Stewart  
+_Special Effects Co-ordinators_: Stan Parks, Kevin S. Quibell, Todd K. Jensen, Tim J. Moran, Martin J. Gibbons, Paul Stewart  
 _Film Editor_: Thom Noble  
 _Production Designer_: Norris Spencer  
 _Art Director_: Lisa Dean  
@@ -56,12 +45,8 @@ _Set Designer_: Alan Kaye
 _Property Master_: Vic Petrotta Jr  
 _Costume Design_: Elizabeth McBride  
 _Key Costumer_: Taneia Lednicky  
-_Make-up Artists_: Richard Arrington,
-
-Bonita DeHaven  
-_Hair Stylists_: Leslie Anne Anderson,
-
-Anthony Cortino, Karl Wesson  
+_Make-up Artists_: Richard Arrington, Bonita DeHaven  
+_Hair Stylists_: Leslie Anne Anderson, Anthony Cortino, Karl Wesson  
 _Title Design_: Anthony Goldschmidt  
 _Titles/Opticals_: Pacific Title  
 _Colour Timer_: David Orr  
@@ -70,9 +55,7 @@ _Solo Guitar_: Pete Haycock
 _Music Supervisor_: Kathy Nelson  
 _Production Sound Mixer_: Keith A. Wester  
 _Boom Operator_: Timothy P. Salmon  
-_Re-recording Mixers_: Graham Hartstone,
-
-Nicolas Le Messurier, Michael Carter  
+_Re-recording Mixers_: Graham Hartstone, Nicolas Le Messurier, Michael Carter  
 _Supervising Sound Editor_: Jimmy Shields  
 _Negative Cutter_: Bobby Hart  
 _Sound Effects Editor_: Bob Risk  
@@ -80,7 +63,7 @@ _Stunt Co-ordinator_: Bobby Bass
 _Dialect Coach_: Timothy Monich  
 _Animal Trainer_: Grisco's Animals
 
-_Cast__:_  
+**Cast**  
 Susan Sarandon _(Louise Sawyer)_  
 Geena Davis _(Thelma Dickinson)_  
 Harvey Keitel _(Hal Slocombe)_  
@@ -101,18 +84,12 @@ Rob Roy Fitzgerald _(plainclothes cop)_
 Jack Lindine _(I.D. tech)_  
 Michael Delman _(Silver Bullet dancer)_  
 Kristel L. Rose _(girl smoker)_  
-Noel Walcott _(mountain bike rider)_
+Noel Walcott _(mountain bike rider)_<br>
 
-USA/UK/France 1991
-130 mins
+USA/UK/France 1991<br>
+130 mins<br>
 
-_Thelma & Louise BFI Film Classics_ by
-
-Marita Sturken  (Bloomsbury Publishing)
-
-is available to buy in the BFI Shop.
-
-**shop.bfi.org.uk**
+_Thelma & Louise BFI Film Classics_ by Marita Sturken  (Bloomsbury Publishing) is available to buy in the BFI Shop. **shop.bfi.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDAxMjg3MjRdfQ==
+eyJoaXN0b3J5IjpbMTM5MDU3MDcwNl19
 -->
