@@ -34,77 +34,53 @@ Not just in the stirring eloquence of its music, but above all in the collective
 <br><br>
 
 
-**THE BATTLE OF ALGIERS (LA BATTAGLIA DI Algeri)**
+**THE BATTLE OF ALGIERS (LA BATTAGLIA DI ALGERI)**<br>
+_Director:_ Gillo Pontecorvo<br>
+_Production Companies:_ Igor Film,  Casbah Film (Algiers)<br>
+_Producers:_ Antonio Musu, Yacef Sâadi<br>
+_Unit Managers:_ Lakhdar-Toumi Edine,  Abdenour Essed<br>
+_Production Managers:_ Sergio Merolle,  Nour-Eddine Brahimi<br>
+_2nd Unit Director:_ Giuliano Montaldo<br>
+_Collaborating Director:_ Fernando Morandi<br>
+_Assistant Director:_ Moussa Haddad<br>
+_Screenplay:_ Franco Solinas<br>
+_Based on a story by:_ Gillo Pontecorvo,  Franco Solinas *<br>
+_Director of Photography:_ Marcello Gatti<br>
+_Camera Operator:_ Silvano Mancini *<br>
+_Camera Assistant:_ Ali Maroc *<br>
+_Editors:_ Mario Serandrei, Mario Morra<br>
+_Assistant Editor:_ Lina Caterini *<br>
+_Art Director/Set Decorator:_ Sergio Canevari<br>
+_Make-up:_ Maurizio Giustini<br>
+_Hairstyles:_ Hamdi Mohamed<br>
+_Music:_ Ennio Morricone, Gillo Pontecorvo<br>
+_Music Director:_ Bruno Nicolai *<br>
 
-_Director:_ Gillo Pontecorvo
+**Cast**<br>
 
-_Production Companies:_ Igor Film,  
-Casbah Film (Algiers)
+Brahim Haggiag _(Ali la Pointe)_<br>
 
-_Producers:_ Antonio Musu, Yacef Sâadi
+Jean Martin _(Colonel Mathieu)_<br>
 
-_Unit Managers:_ Lakhdar-Toumi Edine,  
-Abdenour Essed
+Saadi Yacef _(El-hadi Jaffar)_<br>
 
-_Production Managers:_ Sergio Merolle,  
-Nour-Eddine Brahimi
+Samia Kerbash _(Fathia)_<br>
 
-_2nd Unit Director:_ Giuliano Montaldo
+Ugo Paletti _(the commissioner)_<br>
 
-_Collaborating Director:_ Fernando Morandi
+Fusia El Kader _(Halima)_<br>
 
-_Assistant Director:_ Moussa Haddad
+Mohamed Ben Kassen _(little Omar)_<br>
 
-_Screenplay:_ Franco Solinas
+Tommaso Neri _(Captain Dubois)_ *<br>
 
-_Based on a story by:_ Gillo Pontecorvo,  
-Franco Solinas *
+Franco Morici<br>
 
-_Director of Photography:_ Marcello Gatti
-
-_Camera Operator:_ Silvano Mancini *
-
-_Camera Assistant:_ Ali Maroc *
-
-_Editors:_ Mario Serandrei, Mario Morra
-
-_Assistant Editor:_ Lina Caterini *
-
-_Art Director/Set Decorator:_ Sergio Canevari
-
-_Make-up:_ Maurizio Giustini
-
-_Hairstyles:_ Hamdi Mohamed
-
-_Music:_ Ennio Morricone, Gillo Pontecorvo
-
-_Music Director:_ Bruno Nicolai *
-
-_Cast:_
-
-Brahim Haggiag _(Ali la Pointe)_
-
-Jean Martin _(Colonel Mathieu)_
-
-Saadi Yacef _(El-hadi Jaffar)_
-
-Samia Kerbash _(Fathia)_
-
-Ugo Paletti _(the commissioner)_
-
-Fusia El Kader _(Halima)_
-
-Mohamed Ben Kassen _(little Omar)_
-
-Tommaso Neri _(Captain Dubois)_ *
-
-Franco Morici
-
-Italy/Algeria 1966
+Italy/Algeria 1966<br>
 
 121 mins
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTg3NjU5NDBdfQ==
+eyJoaXN0b3J5IjpbLTExNTk1Mzk1MjhdfQ==
 -->
