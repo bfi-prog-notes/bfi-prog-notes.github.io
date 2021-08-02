@@ -17,7 +17,60 @@ But in spirit the film is plainly different from the more familiar, more neuroti
 
 So the film may even represent something of a capitulation in Hollywood’s derisory attitude to the hippie movement, and such tenets of ‘flower power’ as the achievement of inner serenity through pot, free love, non-violence, etc.  
 A change based perhaps on the simple conclusion that the wish to dissolve inner tensions and live at peace with oneself and the world is a fairly common hope, as proved by the actual popularity of those courses in ‘confrontation psychology’ – which seems to be group therapy commando-fashion, a sudden sharp onslaught on the members’ inhibitions and preconceptions in the belief that it can stimulate a more spontaneous, responsive outlook.<br>
-**Richard Combs, _Monthly Film Bulletin_, January 1970**
+**Richard Combs, _Monthly Film Bulletin_, January 1970**<br>
+
+**BOB & CAROL & TED & ALICE**<br>
+_Director:_ Paul Mazursky  
+©: Columbia Pictures Corporation
+_Production Companies:_ Frankovich Productions, Coriander Productions  
+_Executive Producer:_ M.J. Frankovich  
+_Producer:_ Larry Tucker  
+_Executive Production Manager:_ William O’Sullivan  
+_Assistant Director:_ Anthony Ray  
+_Screenplay:_ Paul Mazursky, Larry Tucker  
+_Director of Photography:_ Charles Lang  
+_Editor:_ Stuart H. Pappé  
+_Art Director:_ Pato Guzmán  
+_Set Decorator:_ Frank Tuttle  
+_Prop Master:_ Max Frankel  
+_Costume Designer:_ Moss Mabry  
+_Make-up Supervisor:_ Ben Lane  
+_Hairstyles:_ Virginia Jones  
+_Music:_ Quincy Jones  
+_Choreography:_ Miriam Nelson  
+_Sound Supervisor:_ Charles J. Rice  
+_Sound:_ Dean Thomas, Arthur Piantadosi  
+
+**Cast**
+Natalie Wood _(Carol Sanders)_  
+Robert Culp _(Bob Sanders)_  
+Elliott Gould _(Ted Henderson)_  
+Dyan Cannon _(Alice Henderson)_  
+Horst Ebersberg _(Horst)_  
+Lee Bergere _(Emilio)_  
+Donald F. Muhich _(psychiatrist)_  
+Noble Lee Holderread Jr. _(Sean)_  
+K.T. Stevens _(Phyllis)_  
+Celeste Yarnall _(Susan)_  
+Lynn Borden _(Cutter)_  
+Linda Burton _(stewardess)_  
+Greg Mullavey _(group leader)_  
+André Philippe _(Oscar)_  
+Diane Berghoff _(Myrna)_  
+John Halloran _(Conrad)_  
+Susan Merin _(Toby)_  
+Jeffrey Walker _(Roger)_  
+Vicki Thal _(Jane)_  
+Joyce Easton _(Wendy)_  
+Howard Dayton _(Howard)_  
+Alida Ihle _(Alida)_  
+John Brent _(Dave)_  
+Garry Goodrow _(Bert)_  
+Carol O’Leary _(Sue)_  
+Constance Egan _(Norma)_  
+
+USA 1969©<br>
+101 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTk2MjIwNV19
+eyJoaXN0b3J5IjpbOTkyMzUyMjA2XX0=
 -->
