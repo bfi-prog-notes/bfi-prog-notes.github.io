@@ -117,40 +117,25 @@ UK 1950©<br>
 
 **EARL CAMERON<br>
 BRITAIN’S FIRST BLACK SCREEN STAR**<br>
-
-**African Odysseys present:  A Warm December**
-Sun 1 Aug 17:30 (+ intro by actor Esther Anderson); Wed 18 Aug 20:40
-**Pool of London**
-Mon 2 Aug 14:00 (+intro); Wed 25 Aug 20:50
-**Two Gentlemen Sharing**
-
-Fri 6 Aug 17:10 (+ intro by season curator  
-Burt Caesar); Mon 23 Aug 20:30
-
-**Flame in the Streets**
-
-Sun 8 Aug 15:00; Sat 28 Aug 17:10
-
-**Sapphire**
-
-Tue 10 Aug 20:20 (+ discussion);  
-Sat 28 Aug 13:00
-
-**The Fear of Strangers** (+ intro)  
-+ **The Chocolate Tree**
-
-Sat 14 July 14:10
-
-**Thunder on Sycamore Street** + discussion with Actor Ashley Walters (schedule permitting) and playwright Stephen S Thompson)
-
-Sat 14 Aug 17:30
-
+**Pool of London**<br>
+Mon 2 Aug 14:00 (+intro); Wed 25 Aug 20:50<br>
+**Two Gentlemen Sharing**<br>
+Fri 6 Aug 17:10 (+ intro by season curator  Burt Caesar); Mon 23 Aug 20:30<br>
+**Flame in the Streets**<br>
+Sun 8 Aug 15:00; Sat 28 Aug 17:10<br>
+**Sapphire**<br>
+Tue 10 Aug 20:20 (+ discussion);  Sat 28 Aug 13:00<br>
+**The Fear of Strangers** (+ intro)  + **The Chocolate Tree**<br>
+Sat 14 July 14:10<br>
+**Thunder on Sycamore Street** + discussion with Actor Ashley Walters (schedule permitting) and playwright Stephen S Thompson)<br>
+Sat 14 Aug 17:30<br>
+**African Odysseys present:  A Warm December**<br>
+Wed 18 Aug 20:40<br>
 Promotional partner <br>
 
-Season co-curated by actor-director  
-Burt Caesar and the BFI’s Marcus Prince and David Somerset.
+Season co-curated by actor-director Burt Caesar and the BFI’s Marcus Prince and David Somerset.
 
 **Please note:** many of these films contain language, images or other content that reflect views prevalent in its time, but that may cause offence today. The titles are included here for historical, cultural or aesthetic reasons and these views are in no way endorsed by the BFI or its partners.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzQ0MTk1XX0=
+eyJoaXN0b3J5IjpbODQ4NTYzNjYwXX0=
 -->
