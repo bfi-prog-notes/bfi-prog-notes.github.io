@@ -66,15 +66,15 @@ _Made at_: Ealing Studios
 
 _uncredited_<br>
 _Focus Pullers_: Herbert Smith, Hugh Wilson  
-_Clapper Loaders_: Ken Westbury,  
-Michael Shepherd  
+_Clapper Loaders_: Ken Westbury,  Michael Shepherd  
 _Stills_: Jack Dooley, Bob Penn  
 _Assistant Editors_: Gordon Stone, Roy Baker  
 _Assistant Art Director_: Len Wills  
 _Set Dresser_: Andrew Low  
 _Wardrobe Masters_: Ernest Farrar, Lily Payne, Ron Beck  
-_Boom Operator_: Cyril Swern
-**Cast**
+_Boom Operator_: Cyril Swern<BR>
+
+**Cast**<BR>
 Bonar Colleano _(Dan MacDonald)_  
 Susan Shaw _(Pat)_  
 Renée Asherson _(Sally)_  
@@ -82,17 +82,14 @@ Moira Lister _(Maisie)_
 Earl Cameron _(Johnny)_  
 Max Adrian _(Vince Vernon/George Vernon)_  
 Joan Dowling _(Pamela)_  
-James Robertson Justice
-
-_(Trotter, chief engineer)_  
+James Robertson Justice _(Trotter, chief engineer)_  
 Michael Golden _(Andrews, customs official)_  
 John Longden _(Inspector Williamson)_  
 Alfie Bass _(Alf)_  
 Christopher Hewett _(Mike)_  
 Leslie Phillips _(Harry)_
 
-_uncredited_
-
+_uncredited_<BR>
 George Benson _(George)_  
 Mai Bacon _(Ethel, barmaid)_  
 Mavis Villiers _(blonde in drinking club)_  
@@ -114,27 +111,17 @@ Ellis Irving _(superintendent)_
 James Liggat  
 Sharon Raye
 
-UK 1950©
+UK 1950©<br>
+85 mins<br>
+<br>
 
-85 mins
+**EARL CAMERON<br>
+BRITAIN’S FIRST BLACK SCREEN STAR**<br>
 
-EARL CAMERON
-
-BRITAIN’S FIRST BLACK SCREEN STAR
-
-**Celebrating Britain’s First Black Screen Star**
-
-Sun 1 Aug 14:00
-
-**African Odysseys present:  
-A Warm December**
-
+**African Odysseys present:  A Warm December**
 Sun 1 Aug 17:30 (+ intro by actor Esther Anderson); Wed 18 Aug 20:40
-
 **Pool of London**
-
 Mon 2 Aug 14:00 (+intro); Wed 25 Aug 20:50
-
 **Two Gentlemen Sharing**
 
 Fri 6 Aug 17:10 (+ intro by season curator  
@@ -165,5 +152,5 @@ Burt Caesar and the BFI’s Marcus Prince and David Somerset.
 
 **Please note:** many of these films contain language, images or other content that reflect views prevalent in its time, but that may cause offence today. The titles are included here for historical, cultural or aesthetic reasons and these views are in no way endorsed by the BFI or its partners.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4Nzk5MTI4XX0=
+eyJoaXN0b3J5IjpbMTU3NzQ0MTk1XX0=
 -->
