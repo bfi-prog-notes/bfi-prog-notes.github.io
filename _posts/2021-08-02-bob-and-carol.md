@@ -1,8 +1,19 @@
+---
+layout: post
+title: Bob & Carol & Ted & Alice
+published: true
+date: 2021-08-02
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Comedy, Drama, Romance]
+metadata: 'USA, 1969, 101 mins<br> Director: Paul Mazursky'
+pdf: '2021-08-02-bob-and-carol-and-ted-and-alice.pdf'
+---
 
 While monogamy remains the secular religion, Mazursky’s ambling satire, exploring a bourgeois 60s LA foursome both electrified and terrified by the possibilities of sexual freedom, retains a curious relevance. Triggered by his own brush with self-actualisation counter-culture at Esalen in California, Mazursky saw his first feature (he’d been shunted aside from the 1968 hippie rom-com _I Love You, Alice B. Toklas!_) as a ‘comedy of manners played with as much reality as possible’. Delivering its deliciously awkward marital exchanges in long scenes whose moods shift and tilt Cassavetes-style, it’s a compassionate relationship comedy, sidestepping the cynicism of later, harsher sex-culture bulletins like _Carnal Knowledge_ (1971) and _Shampoo_ (1975).
 
 Sympathetic both to the boundary-pushing Bob and Carol, and the curious-but-wary Ted and Alice, it also has an ambiguity that means it can read equally as a celebratory or cautionary tale. Salacious rather than misogynistic in tone, Mazursky and co-writer Larry Tucker’s script ensures that Dyan Cannon’s comic chops and Natalie Wood’s wide-eyed self-discovery get generous amounts of screen-time. The key component, however, is still Elliott Gould’s troubled-but-tempted Ted, whose snack-spraying confession of adultery and panicked pre-orgy bathroom primping mix fear and desire to hilarious effect.<br>
-**Kate Stables, _Sight & Sound_, March 2019**
+**Kate Stables, _Sight & Sound_, March 2019**<br>
 
 **A contemporary review**<br>
 Looking like a tempting offering to be either praised or damned as another highly original or desperately competitive slice of ‘New Cinema’, _Bob & Carol & Ted & Alice_ is more than usually interesting for its success in shifting ground in one of those surprising, but quite characteristic switches by which Hollywood not so much moves as lurches with the times. It would be cynical to treat the film as old wine in a new bottle, but it adroitly accommodates some well matured ingredients with fresh attitudes and an uncommon style in one of the most shrewdly calculated, original and effervescently funny American comedies for some time.
@@ -15,8 +26,7 @@ The scene where ‘nothing happens’ is hardly new, but producer Frankovich and
 
 But in spirit the film is plainly different from the more familiar, more neurotic views of American mores; the characters, for instance, are more obviously in harmony with their times and their environment than, say, Anne Jackson in Axelrod’s _The Secret Life of an American Wife_, yearning in her Connecticut-look kitchen for the more traditional values of college days and reading Proust, all eight volumes, in French. Bob and Carol obviously experience no such hang-ups about their equally plush surroundings; Bob himself is a documentary filmmaker (as played by Robert Culp, in dark glasses and with greying mane, looking like nothing so much as an ageing Peter Fonda), at one point shouting to Horst: ‘There isn’t going to be any hitting. We’re a non-violent household. We don’t even allow war toys in the house.’
 
-So the film may even represent something of a capitulation in Hollywood’s derisory attitude to the hippie movement, and such tenets of ‘flower power’ as the achievement of inner serenity through pot, free love, non-violence, etc.  
-A change based perhaps on the simple conclusion that the wish to dissolve inner tensions and live at peace with oneself and the world is a fairly common hope, as proved by the actual popularity of those courses in ‘confrontation psychology’ – which seems to be group therapy commando-fashion, a sudden sharp onslaught on the members’ inhibitions and preconceptions in the belief that it can stimulate a more spontaneous, responsive outlook.<br>
+So the film may even represent something of a capitulation in Hollywood’s derisory attitude to the hippie movement, and such tenets of ‘flower power’ as the achievement of inner serenity through pot, free love, non-violence, etc. A change based perhaps on the simple conclusion that the wish to dissolve inner tensions and live at peace with oneself and the world is a fairly common hope, as proved by the actual popularity of those courses in ‘confrontation psychology’ – which seems to be group therapy commando-fashion, a sudden sharp onslaught on the members’ inhibitions and preconceptions in the belief that it can stimulate a more spontaneous, responsive outlook.<br>
 **Richard Combs, _Monthly Film Bulletin_, January 1970**<br>
 
 **BOB & CAROL & TED & ALICE**<br>
@@ -98,6 +108,21 @@ Wed 11 Aug 17:50 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large); Tu
 Thu 12 Aug 14:30; Sun 22 Aug 12:00<br>
 **Big Wednesday**<br>
 Thu 19 Aug 17:50; Sun 29 Aug 18:10<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDEwNTMxNV19
--->
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
