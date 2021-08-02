@@ -1,3 +1,14 @@
+---
+layout: post
+title: Pool of London
+published: true
+date: 2021-08-02
+readtime: true
+categories: ['EARL CAMERON']
+tags: [Drama, Crime]
+metadata: 'UK, 1950, 85 mins<br> Director: Basil Dearden'
+pdf: '2021-08-02-pool-of-london.pdf'
+---
 
 1951 was something of a vintage year for Ealing Studios: two of its best remembered comedies, Alexander Mackendrick’s _The Man in the White Suit_ and Charles Crichton’s _The Lavender Hill Mob_, and the first of Harry Watt’s African excursions, _Where No Vultures Fly_, were released that year. Which may be why the fourth Ealing movie of 1951, Basil Dearden’s _Pool of London_, has been largely neglected. If it’s mentioned at all, it’s often as the seed from which _Lavender Hill Mob_ unexpectedly germinated.
 
@@ -26,43 +37,37 @@ This came in the wake of a long hiatus in Cameron’s acting career. ‘I was aw
 Hollywood has never attracted him. ‘It’s a very decadent place,’ he’s been quoted as saying. ‘There’s drugs and sex and alcohol; I didn’t need that kind of life.’ Instead, he built his career as one of the most consistently cast black actors in Britain; but of all his screen roles, the one he’s still proudest of is _Pool_ _of London_. ‘It’s such a lovely part and a very good film, very well directed. So that gives me the greatest pleasure to watch now.’ Recognition has gradually come his way: he was awarded the CBE in 2009, in 2012 a theatre was named in his honour in his native Bermuda, and in 2013 he was awarded an honorary doctorate by the University of Warwick. And in 2016 he gave an onstage interview at London’s BFI Southbank before receiving the Screen Nation Hall of Fame award.
 
 Cameron also holds the distinction of being the oldest surviving _Doctor Who_ actor – he appeared alongside the Cybermen in _The Tenth Planet_ in 1966. If the series offered him a cameo now, would he take it? He laughs. ‘I’d love to – so long as there weren’t too many heavy lines!’<br>
-**Philip Kemp, _Sight & Sound_, December 2016**
+**Philip Kemp, _Sight & Sound_, December 2016**<br>
 
 
-**POOL OF LONDON**
+**POOL OF LONDON**<br>
 _Directed by_: Basil Dearden  
 _©_: Ealing Studios  
 _Production Company_: Ealing Studios  
 _Presented by_: The J. Arthur Rank Organisation  
 _Produced by_: Michael Balcon  
 _Associate Producer_: Michael Relph  
-_Unit Production Managers_: Ralph D. Hogg,  
-L.C. Rudkin  
+_Unit Production Managers_: Ralph D. Hogg, L.C. Rudkin  
 _Production Supervisor_: Hal Mason  
-_Assistant Directors_: Harry Kratz, John Assig,  
-Jim O’Connolly, Norman Priggen,  
-John Meadows  
+_Assistant Directors_: Harry Kratz, John Assig,  Jim O’Connolly, Norman Priggen, John Meadows  
 _Continuity_: Jean Graham, Susan Carbutt  
-_Original Screenplay by_: Jack Whittingham,  
-John Eldridge  
+_Original Screenplay by_: Jack Whittingham, John Eldridge  
 _Director of Photography_: Gordon Dines  
 _Additional Photography_: Lionel Banes  
-_Camera Operators_: Chic Waterson,  
-Jeff Seaholme  
+_Camera Operators_: Chic Waterson, Jeff Seaholme  
 _Special Processes_: Geoffrey Dickinson  
 _Special Effects_: Sydney Pearson  
 _Editor_: Peter Tanner  
 _Art Director_: Jim Morahan  
 _Costume Designer_: Anthony Mendleson  
-_Make-up_: Ernest Taylor, Harry Frampton,  
-Harry Wilton  
+_Make-up_: Ernest Taylor, Harry Frampton, Harry Wilton  
 _Hairdressing_: Barbara Barnard, Daphne Martin  
 _Music Composed by_: John Addison, Ernest Irving  
 _Played by_: The Philharmonia Orchestra  
 _Sound Supervisor_: Stephen Dalby  
 _Recordist_: Arthur Bradburn  
 _Sound System_: RCA Sound System  
-_Made at_: Ealing Studios
+_Made at_: Ealing Studios<br>
 
 _uncredited_<br>
 _Focus Pullers_: Herbert Smith, Hugh Wilson  
@@ -72,9 +77,9 @@ _Assistant Editors_: Gordon Stone, Roy Baker
 _Assistant Art Director_: Len Wills  
 _Set Dresser_: Andrew Low  
 _Wardrobe Masters_: Ernest Farrar, Lily Payne, Ron Beck  
-_Boom Operator_: Cyril Swern<BR>
+_Boom Operator_: Cyril Swern<br>
 
-**Cast**<BR>
+**Cast**<br>
 Bonar Colleano _(Dan MacDonald)_  
 Susan Shaw _(Pat)_  
 Renée Asherson _(Sally)_  
@@ -87,9 +92,9 @@ Michael Golden _(Andrews, customs official)_
 John Longden _(Inspector Williamson)_  
 Alfie Bass _(Alf)_  
 Christopher Hewett _(Mike)_  
-Leslie Phillips _(Harry)_
+Leslie Phillips _(Harry)_<br>
 
-_uncredited_<BR>
+_uncredited_<br>
 George Benson _(George)_  
 Mai Bacon _(Ethel, barmaid)_  
 Mavis Villiers _(blonde in drinking club)_  
@@ -131,11 +136,30 @@ Sat 14 July 14:10<br>
 Sat 14 Aug 17:30<br>
 **African Odysseys present:  A Warm December**<br>
 Wed 18 Aug 20:40<br>
-Promotional partner <br>
 
 Season co-curated by actor-director Burt Caesar and the BFI’s Marcus Prince and David Somerset.<br>
+<br>
+Promotional partner <br>
+<img style="float: left;" src="/img/partner/Black Cultural Archives.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
+<br>
+<br>
 
 **Please note:** many of these films contain language, images or other content that reflect views prevalent in its time, but that may cause offence today. The titles are included here for historical, cultural or aesthetic reasons and these views are in no way endorsed by the BFI or its partners.<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjU5Nzk5Ml19
--->
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
