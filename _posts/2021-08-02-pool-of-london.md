@@ -133,9 +133,9 @@ Sat 14 Aug 17:30<br>
 Wed 18 Aug 20:40<br>
 Promotional partner <br>
 
-Season co-curated by actor-director Burt Caesar and the BFI’s Marcus Prince and David Somerset.
+Season co-curated by actor-director Burt Caesar and the BFI’s Marcus Prince and David Somerset.<br>
 
-**Please note:** many of these films contain language, images or other content that reflect views prevalent in its time, but that may cause offence today. The titles are included here for historical, cultural or aesthetic reasons and these views are in no way endorsed by the BFI or its partners.
+**Please note:** many of these films contain language, images or other content that reflect views prevalent in its time, but that may cause offence today. The titles are included here for historical, cultural or aesthetic reasons and these views are in no way endorsed by the BFI or its partners.<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NTYzNjYwXX0=
+eyJoaXN0b3J5IjpbMTQ4NjU5Nzk5Ml19
 -->
