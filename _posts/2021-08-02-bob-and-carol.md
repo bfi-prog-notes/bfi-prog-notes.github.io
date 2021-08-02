@@ -39,9 +39,9 @@ _Hairstyles:_ Virginia Jones
 _Music:_ Quincy Jones  
 _Choreography:_ Miriam Nelson  
 _Sound Supervisor:_ Charles J. Rice  
-_Sound:_ Dean Thomas, Arthur Piantadosi  
+_Sound:_ Dean Thomas, Arthur Piantadosi<br> 
 
-**Cast**
+**Cast**<br>
 Natalie Wood _(Carol Sanders)_  
 Robert Culp _(Bob Sanders)_  
 Elliott Gould _(Ted Henderson)_  
@@ -70,7 +70,34 @@ Carol O’Leary _(Sue)_
 Constance Egan _(Norma)_  
 
 USA 1969©<br>
-101 mins
+101 mins<br>
+<br>
+
+**BIG SCREEN CLASSICS**<br>
+**Thelma and Louise**<br>
+Sun 1 Aug 18:00; Sat 14 Aug 20:35; Sat 28 Aug 20:20<br>
+**Bob & Carol & Ted & Alice**<br>
+Mon 2 Aug 20:40; Fri 13 Aug 20:45; Wed 18 Aug 17:50 (+ pre-recorded intro by Julie Lobalzo Wright, University of Warwick); Mon 23 Aug 14:30<br>
+**Bright Star**
+Tue 3 Aug 20:30; Fri 27 Aug 17:50; Mon 30 Aug 18:10
+**Boyz N the Hood**
+Wed 4 Aug 17:45 (+ pre-recorded intro by film critic Leila Latif); Mon 9 Aug 20:50
+**Les Demoiselles de Rochefort (The Young Ladies of Rochefort)**
+Thu 5 Aug 17:50; Thu 26 Aug 17:40
+**The Big Lebowski**
+Fri 6 Aug 20:45; Mon 16 Aug 20:50; Wed 25 Aug 14:15
+**Only Angels Have Wings**
+Sat 7 Aug 12:00; Tue 24 Aug 14:15; Tue 31 Aug 20:30
+**A Farewell to Arms**
+Sun 8 Aug 12:20; Fri 20 Aug 14:30; Wed 25 Aug 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large)
+**Matewan**
+Tue 10 Aug 14:15; Sun 15 Aug 18:20; Sat 21 Aug 12:20
+**Cutter’s Way**
+Wed 11 Aug 17:50 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large); Tue 17 Aug 14:30; Fri 20 Aug 20:50; Fri 27 Aug 20:50
+**The New World**
+Thu 12 Aug 14:30; Sun 22 Aug 12:00
+**Big Wednesday**
+Thu 19 Aug 17:50; Sun 29 Aug 18:10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyMzUyMjA2XX0=
+eyJoaXN0b3J5IjpbLTk5ODAxODkzN119
 -->
