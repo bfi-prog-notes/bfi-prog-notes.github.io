@@ -37,118 +37,66 @@ The voice can do anything and that’s why I love it as the principal instrument
 _Director:_ Bob Robertson [Sergio Leone]<br>
 _Production Companies:_ Jolly Film (Rome), Constantin Film, Ocean Films, Madrid<br>
 _Produced by:_ Harry Colombo [Arrigo Colombo], George Papi [Giorgio Papi]<br>
-
-_Production Managers:_ Frank Palance
-
-[Franco Palaggi], Günter Raguse<br>
-
+_Production Managers:_ Frank Palance [Franco Palaggi], Günter Raguse<br>
 _Unit Manager:_ Fred Ross [Fernando Rossi]<br>
-
 _Assistant Producer:_ Peter Saint [Pietro Santini]<br>
-
 _Assistant Director:_ Frank Prestland [Franco Giraldi]<br>
-
 _Script Girl:_ Tilde Watson<br>
-
-_Photographed by:_  
-Jack Dalmas [Massimo Dallamano]<br>
-
+_Photographed by:_  Jack Dalmas [Massimo Dallamano]<br>
 _Cameraman:_ Steve Rock [Stelvio Massi]<br>
-
 _Special Effects:_ John Speed [Giovanni Corridori]<br>
-
 _Editor:_ Bob Quintle [Roberto Cinquini]<br>
-
 _Art Director:_ Charles Simons [Carlo Simi]<br>
-
 _Set Decorator:_ Charles Simons [Carlo Simi]<br>
-
 _Costumes:_ Charles Simons [Carlo Simi]<br>
-
 _Make-up:_ Sam Watkins<br>
-
 _Music by:_ Dan Savio [Ennio Morricone]<br>
-
 _Sound:_ Edy Simson<br>
-
 _Sound System:_ Western Electric<br>
-
 _Technical Adviser:_ W.R. Thompkins<br>
-
 _Music Edition [Publishers]:_ R.C.A.<br>
-
 _Studio:_ Elios Film (Rome)<br>
 
 _uncredited_<br>
-
 _Screenplay:_ Sergio Leone, Duccio Tessari<br>
-
 _Dialogue [English Version]:_ Mark Lowell<br>
-
 _Titles:_ Lardani<br>
-
 _English Lyrics:_ Robert Mellin<br>
-
 _Trumpet:_ Michele Lacerenza<br>
-
 _Whistling:_ Alessandro Alessandroni<br>
-
 _Guitar:_ Bruno Battisti D’Amario<br>
-
 _Sound:_ Elio Pacella<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Clint Eastwood _(The Stranger)_<br>
-
 Marianne Koch _(Marisol, Ramón’s woman)_<br>
-
 Johnny Wels [Gian Maria Volonté] _(Ramón Rojo)_<br>
-
 W. [Wolfgang] Lukschy _(Sheriff John Baxter)_<br>
-
 S. [Sieghardt] Rupp _(Estebán Rojo)_<br>
-
 Joe Edger _(Piripero, coffin maker)_<br>
-
 Antonio Prieto _(Don Miguel Rojo)_<br>
-
 José Calvo _(Silvanito, bar owner)_<br>
-
 Margherita Lozano _(Consuelo Baxter, John’s wife)_<br>
-
 Daniel Martín _(Julio, Marisol’s husband)_<br>
-
-Benny Reeves [Benito Stefanelli]  
-_(Rubio, Ramón’s right-hand man)_<br>
-
-Richard Stuyvesant [Mario Brega]  
-_(Chico, Rojo’s trusted aide)_<br>
-
+Benny Reeves [Benito Stefanelli]  _(Rubio, Ramón’s right-hand man)_<br>
+Richard Stuyvesant [Mario Brega]  _(Chico, Rojo’s trusted aide)_<br>
 Carol Brown [Bruno Carotenuto] _(Antonio Baxter)_<br>
-
 Aldo Sambreli _(Ramón gunman with scar)_<br>
 
 _uncredited_<br>
-
 Freddy Arco _(Jesús, Marisol’s son)_<br>
-
 Luis Barboo _(Baxter man sitting on gate)_<br>
-
-Raffaele Baldassarre  
-_(man descending saloon stairs)_<br>
-
+Raffaele Baldassarre  _(man descending saloon stairs)_<br>
 Edmondo Tieghi _(man watching Joe’s beating)_<br>
-
 José Orjas<br>
-
 Umberto Spadaro _(Miguel, Rojo gunman)_<br>
-
 Antonio Vico _(Baxter gang member)_<br>
 
 Italy/German Federal Republic/Spain 1964©<br>
-
 100 mins
+<br><br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTcxODczMDFdfQ==
+eyJoaXN0b3J5IjpbLTE5NDk4MzY4NDddfQ==
 -->
