@@ -36,39 +36,27 @@ _I loved the final shot of the grieving Fanny walking through the wood reciting_
 That was actually [cinematographer] Greig Fraser’s idea. We talked a lot about how simple we wanted to keep everything. He said, ‘I think you should just do a really, really long track. We can do it in one shot and we’ll avoid getting too close to her until this point. And then, because we’ve been very intimate with her during the story, we’ll just bring it into a close-up and stay with her as long as we can.’ I didn’t know how Abbie was going to read the poem. I thought it would be a brittle, stumbling affair. We compromised. She thought she was going to just read it and I said, ‘No, it’s a lifebuoy at this point.’ So we’re discussing it and it’s getting darker and we’ve got five minutes. They are wonderful, these young actors. They really want to give you what you want, but they also want to be free, they don’t want to be anyone’s pet. It’s that tension all the time of ‘Go away, I’m independent,’ and ‘I really want to please you.’ That’s really moving.<br>
 **Interview by Nick James, _Sight & Sound_, December 2009**<br>
 
-<![endif]-->
 
-**Bright Star**
-
+**Bright Star**<br>
 _Directed by_: Jane Campion  
 ©: Pathé Productions Ltd., Screen Australia, BBC, UK Film Council, New South Wales Film and Television Office, Jan Chapman Productions  
 _a_ Jan Chapman _production_  
 _In association with_: Caroline Hewitt  
-_Production Companies_: Brightstar Films Ltd,
-
-Jan Chapman Productions  
+_Production Companies_: Brightstar Films Ltd, Jan Chapman Productions  
 _Presented by_: Pathé, Screen Australia, BBC Films, UK Film Council  
 _In association with_: New South Wales Film and Television Office, Hopscotch  
 _Italian Service Company_: Panorama Films S.R.L.  
-_Made with the support of_:  
-UK Film Council New Cinema Fund  
-_Produced with assistance from_:  
-New South Wales Film and Television Office  
+_Made with the support of_:  UK Film Council New Cinema Fund  
+_Produced with assistance from_:  New South Wales Film and Television Office  
 _Financed with the assistance of_: Screen Australia  
-_Executive Producers_: François Ivernel,
-
-Cameron McCracken, Christine Langan,  
+_Executive Producers_: François Ivernel, Cameron McCracken, Christine Langan,  
 David M. Thompson  
 _Produced by_: Jan Chapman, Caroline Hewitt  
 _Line Producer_: Emma Mager  
-_Unit Managers_: Lee Robertson, Tim Davies,
-
-Dan Whitty  
+_Unit Managers_: Lee Robertson, Tim Davies, Dan Whitty  
 _Unit/Location Manager (Italian Unit)_: Robin Melville  
 _Production Co-ordinator_: Donald Sabourin  
-_Production Co-ordinator (Italian Unit)_:
-
-Benedetta Von Norman  
+_Production Co-ordinator (Italian Unit)_: Benedetta Von Norman  
 _Assistant Production Co-ordinators_: Layla Mall, Geraldine Serafini  
 _Production Accountant (UK)_: Trevor Stanley  
 _Production Accountant (Australia)_: Kat Slowik  
@@ -76,9 +64,7 @@ _Location Manager_: Michael Harm
 _Location Manager (Italian Unit)_: Stefania Antonini  
 _Post-production Supervisor_: Helen Lovelock  
 _1st Assistant Director_: Mike Elliott  
-_1st Assistant Director (Italian Unit)_:
-
-Alessandro Trapani  
+_1st Assistant Director (Italian Unit)_: Alessandro Trapani  
 _2nd Assistant Director_: Anthony Wilcox  
 _2nd Assistant Director (Crowd)_: Candy Marlowe  
 _2nd Assistant Director (Italian Unit)_: Luca Padrini  
@@ -86,9 +72,7 @@ _3rd Assistant Director_: Zoe Liang
 _Script Supervisor_: Heather Storr  
 _Casting Director_: Nina Gold  
 _Written by:_ Jane Campion  
-_With research from the biography by_:
-
-Andrew Motion  
+_With research from the biography by_: Andrew Motion  
 _Script Consultant_: Jan Chapman  
 _Director of Photography_: Greig Fraser  
 _Steadicam_: Grant Adams  
@@ -122,9 +106,7 @@ _Assistant Costume Designer_: Debbie Scott
 _Make-up/Hair Designer_: Konnie Daniel  
 _Make-up/Hair Artists_: Loz Schiavo, Jane Logan  
 _Crowd Make-up Supervisor_: Emma Sheldrick  
-_Hair Research/Consultation_: Raphael Salley,
-
-Renya Xydis  
+_Hair Research/Consultation_: Raphael Salley, Renya Xydis  
 _Wigs Supplied by_: London Wigs  
 _Title Design by_: FSM  
 _Music by_: Mark Bradshaw  
@@ -136,15 +118,12 @@ _Re-recording Mixers_: Tony Vaccher, John Dennison
 _Sound Effects Designer_: Craig Butters  
 _Stunt Co-ordinator_: Glenn Marks  
 _Adviser_: Andrew Motion  
-_Calligraphy Consultants_: Cherrell Avery,
-
-Mark L’Argent  
+_Calligraphy Consultants_: Cherrell Avery, Mark L’Argent  
 _Animals Supplied by_: Animals O Kay  
 _Unit Publicist_: Emma Davie  
 _Filmed at_: Elstree Studios
 
-_Cast:_
-
+**Cast**
 Abbie Cornish _(Fanny Brawne)_  
 Ben Whishaw _(John Keats)_  
 Paul Schneider _(Charles Brown)_  
@@ -174,5 +153,5 @@ Topper _(the cat)_<br>
 UK/Australia 2009©<br>
 119 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Mjc5Njc0OF19
+eyJoaXN0b3J5IjpbLTEzODMxNTU0NDddfQ==
 -->
