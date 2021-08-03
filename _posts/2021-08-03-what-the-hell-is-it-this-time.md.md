@@ -30,6 +30,87 @@ In 2018, Wright and Park set up production company Complete Fiction Pictures wit
 Wright’s latest film, _Last Night in Soho_, which he co-wrote with Krysty Wilson-Cairns, will be released in 2021. The film stars Thomasin McKenzie & Anya Taylor-Joy. Wright’s first documentary, _The Sparks Brothers_, covering the entire 50 year legacy of Ron and Russell Mael of California pop band Sparks, premiered at Sundance and will also be released in 2021.<br>
 **Production notes**<br>
 
+
+**WHAT THE HELL IS IT THIS TIME?  
+SPARKS LIVE IN LONDON**<br>
+_Director_ Edgar Wright
+
+UK 2021<br>
+95 mins <br>
+
+Courtesy of Focus Features<br>
+
+IN PERSON & PREVIEWS
+
+**Sonic Cinema World Premiere: What The Hell Is It This Time? Sparks Live in London+ intro by Edgar Wright**
+
+Tue 3 Aug 17:10
+
+**Preview: The Sparks Brothers + Q&A with director Edgar Wright**
+
+Tue 3 Aug 19:45
+
+**BFI & Radio Times Television Festival presents: TV Preview: The North Water + Q&A with director Andrew Haigh and cast**
+
+Wed 4 Aug 18:15
+
+**The Alan Whicker Centenary: Welcome to Whicker’s World + intro**
+
+Sat 7 Aug 14:30
+
+**The Alan Whicker Centenary: The Life and Legacy of Alan Whicker**
+
+Sat 7 Aug 17:40
+
+**Preview: I’m Your Man (Ich bin dein Mensch) + pre-recorded Q&A with director Maria Schrader**
+
+Mon 9 Aug 17:50
+
+**BFI & Radio Times Television Festival presents: TV Preview: Vigil + Q&A with cast and creatives**
+
+Mon 23 Aug 18:10
+
+REGULAR PROGRAMME
+
+**Seniors’ Free Matinee: Personal Services + intro and Q&A with author, Graham Rinaldi**
+
+Mon 9 Aug 14:00
+
+**Projecting the Archive: The Blue Lagoon + intro by actor Susan Stranks (young Emmeline)**
+
+Tue 10 Aug 18:00
+
+**Member Picks: Almost Famous**
+
+Thu 12 Aug 17:45
+
+**Silent Cinema: The Wit and Wisdom of A.A. Milne + intro by Bryony Dixon, BFI Curator**
+
+Sun 15 Aug 12:40
+
+**DVD Launch: Great Noises That Fill the Air: Music, Poetry and Performance on Film**
+
+Mon 16 Aug 17:50
+
+**S.O.U.L. Fest 2021**
+
+Fri 20-Sun 22 Aug
+
+**Experimenta: Thundercrack! + intro by Jane Giles, author of ‘Scala Cinema 1987-1993**
+
+Sat 21 Aug 17:00
+
+**Relaxed Screening: Stand Clear of the Closing Doors**
+
+Tue 24 Aug 18:00
+
+**Woman with a Movie Camera: Preview: Souad + pre-recorded Q&A with director Ayten Amin**
+
+Tue 24 Aug 18:00
+
+**Terror Vision: Dr Terror’s House of Horrors**
+
+Thu 26 Aug 20:40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzQ2NzE5OCwtMzQzNjM5Mjk0XX0=
+eyJoaXN0b3J5IjpbMTQwMDY1MjU4NSwtMzQzNjM5Mjk0XX0=
 -->
