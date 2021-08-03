@@ -40,7 +40,7 @@ Wright’s latest film, _Last Night in Soho_, which he co-wrote with Krysty Wils
 
 **WHAT THE HELL IS IT THIS TIME?  
 SPARKS LIVE IN LONDON**<br>
-_Director_ Edgar Wright
+_Director:_ Edgar Wright
 
 UK 2021<br>
 95 mins <br>
