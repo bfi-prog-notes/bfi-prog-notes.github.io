@@ -29,14 +29,10 @@ _All about Eve_ is in essence a play fabricated into celluloid with absolutely n
 **Richard Winnington, _Sight & Sound_, January 1951**
 <br><br>
 
-<![endif]-->
 
-**All about Eve**
-
+**ALL ABOUT EVE**  
 _Directed by:_ Joseph L. Mankiewicz  
-_©/Production Company:_
-
-Twentieth Century-Fox Film Corporation  
+_©/Production Company:_ Twentieth Century-Fox Film Corporation  
 _Produced by:_ Darryl F. Zanuck  
 _Written for the screen by:_ Joseph L. Mankiewicz  
 _Based on the short story ‘The Wisdom of Eve’ by:_ Mary Orr  
@@ -46,16 +42,13 @@ _Editor:_ Barbara McLean
 _Art Direction:_ Lyle Wheeler, George W. Davis  
 _Set Decorations:_ Thomas Little, Walter M. Scott  
 _Wardrobe Direction:_ Charles LeMaire  
-_Costumes for Miss Bette Davis Designed by:_
-
-Edith Head  
+_Costumes for Miss Bette Davis Designed by:_ Edith Head  
 _Make-up Artist:_ Ben Nye  
 _Music:_ Alfred Newman  
 _Orchestration:_ Edward Powell  
 _Sound:_ W.D. Flick, Roger Heman
 
-_uncredited_
-
+_uncredited_  
 _Production Manager:_ Max Golden  
 _Unit Production Manager:_ Robert Snody  
 _Location Manager:_ W.F. Fitzgerald  
@@ -71,12 +64,10 @@ _Crane Grips:_ Jack Richter, Rex Turnmire
 _Gaffer:_ Vaughn Ashen  
 _Best Boy:_ Charles Edler  
 _Electrician:_ Jack Dimmack  
-_Stills Photography:_ Ray Nolan
-
+_Stills Photography:_ Ray Nolan  
 _Effects:_ Jess Wolf  
 _Property Master:_ Fred Simpson  
-_Wardrobe:_ Merle Williams,  
-Josephine Brown, Ann Landers  
+_Wardrobe:_ Merle Williams,  Josephine Brown, Ann Landers  
 _Make-up:_ Frank Prehoda, Gene Romer  
 _Body Make-up:_ Beatrice Gardell  
 _Hairstylists:_ Gladys Witten, Kay Reed  
@@ -85,8 +76,7 @@ _Boom Operator:_ Paul Gilbert
 _Cable:_ Harry Roberts  
 _Publicity:_ Grady Johnson
 
-_Cast:_
-
+**Cast**  
 Bette Davis _(Margo Channing)_  
 Anne Baxter _(Eve Harrington)_  
 George Sanders _(Addison DeWitt)_  
@@ -109,9 +99,11 @@ Eugene Borden _(Frenchman)_
 Helen Mowery _(reporter)_  
 Steve Geray _(captain of waiters)_  
 Bess Flowers _(woman congratulating Eve)_ *  
-USA 1950©  138 mins
 
-* Uncredited
+USA 1950©  
+138 mins
+
+*Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTA4NDM5N119
+eyJoaXN0b3J5IjpbLTk4MDc4NTA4Nl19
 -->
