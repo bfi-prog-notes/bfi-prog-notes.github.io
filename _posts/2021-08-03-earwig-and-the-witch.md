@@ -55,12 +55,12 @@ Japan/USA 2020<br>
 Tue 3 – Tue 24 Aug<br>
 **The Watcher in the Woods**<br>
 Sun 22 Aug 13:00; Sun 29 Aug 12:40<br>
-**The Great Mouse Detective**
-Sat 18 Sep 12:30
-**Chicken Run**
-Sat 25 Sep 12:00
-**The Muppets Take Manhattan**
-Sat 2 Oct 11:45
+**The Great Mouse Detective**<br>
+Sat 18 Sep 12:30<br>
+**Chicken Run**<br>
+Sat 25 Sep 12:00<br>
+**The Muppets Take Manhattan**<br>
+Sat 2 Oct 11:45<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA4NzQ5NzRdfQ==
+eyJoaXN0b3J5IjpbLTM5OTUzNTc3NF19
 -->
