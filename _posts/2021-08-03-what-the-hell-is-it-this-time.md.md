@@ -19,8 +19,7 @@ Growing up in the UK, Edgar Wright began crafting his distinct visual style dire
 This led to a foray into television, directing comedy shows including both seasons of the award-winning cult classic, _Spaced_. It was here that Wright began his iconic collaboration with Simon Pegg and Nick Frost as well as his producing partner, Nira Park, with whom he has worked with on everything he has directed since.
 
 _Spaced_ served as a launching pad for the 2004 film _Shaun of the Dead_ which became a sleeper box office hit. This was followed by _Hot Fuzz_ and  
-_The World’s End_. These films became known as the ‘Three Flavours Cornetto Trilogy’, all of which were co-written by Wright and Pegg. In between _Fuzz_ and _World’s End_, Wright co-wrote and directed the acclaimed _Scott Pilgrim vs.  
-The World_.
+_The World’s End_. These films became known as the ‘Three Flavours Cornetto Trilogy’, all of which were co-written by Wright and Pegg. In between _Fuzz_ and _World’s End_, Wright co-wrote and directed the acclaimed _Scott Pilgrim vs.  The World_.
 
 Wright has also collaborated with many acclaimed filmmakers: he co-wrote _The Adventures of Tintin_ for director Steven Spielberg and producer Peter Jackson and directed the faux trailer for _Don’t_, which played between Quentin Tarantino and Robert Rodriguez’s _Grindhouse_ double-bill. As an executive producer, Wright championed Joe Cornish’s _Attack the Block_ and Ben Wheatley’s _Sightseers_.
 
@@ -31,5 +30,5 @@ In 2018, Wright and Park set up production company Complete Fiction Pictures wit
 Wright’s latest film, _Last Night in Soho_, which he co-wrote with Krysty Wilson-Cairns, will be released in 2021. The film stars Thomasin McKenzie & Anya Taylor-Joy. Wright’s first documentary, _The Sparks Brothers_, covering the entire 50 year legacy of Ron and Russell Mael of California pop band Sparks, premiered at Sundance and will also be released in 2021.<br>
 **Production notes**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1Njg1OTZdfQ==
+eyJoaXN0b3J5IjpbLTM0MzYzOTI5NF19
 -->
