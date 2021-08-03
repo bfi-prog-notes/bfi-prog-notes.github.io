@@ -9,19 +9,14 @@ I received _Earwig and the Witch_ from publisher Tokuma Shoten, which sends me c
 Earwig’s charm comes from her indomitable spirit. She has an unflappable strength and formidableness, and at the same time, she’s an adaptive and tenacious fighter. They’re the same qualities you need when making your way in the world, and those aspects of her character are particularly endearing. When people around us display hostility, we often tend to lose our nerve, shrink, and give up, but we can still somehow find a niche to cling on to, by our fingernails if need be, and use it to lift ourselves up. That’s the definition of formidableness. When times get hard, it enables you to maintain a positive outlook and endure hardship with a smile on your face.
 
 The use of CG was impressive. That’s thanks to the truly wonderful team that came together for this project. Once the decision was made to work with CG, I wondered how it would be done, but when I saw the finished product, I had no complaints. Because it was drawn using CG, not pencils, it has a more deliberate quality. My praise comes with no reservations. It must have been a tough film to make. Earwig’s formidable ability to never give up and to dig her heels in permeates the picture.<br>
-**Production notes**
+**Production notes**<br>
 
-<![endif]-->
-
-**Earwig and the Witch (Âya to majo)**  
+**EARWIG AND THE WITCH (ÂYA TO MAJO)**  
 _Directed by_: Goro Miyazaki  
 _Production_: Studio Ghibli  
 _Chief Executive Producer_: Isao Yoshikuni,
-
 Keisuke Tsuchihashi  
-_Executive Producer_: Koji Hoshino,
-
-Kiyofumi Nakajima  
+_Executive Producer_: Koji Hoshino, Kiyofumi Nakajima  
 _Producer_: Toshio Suzuki  
 _Line Producer_: Kentaro Morishita  
 _Planning_: Hayao Miyazaki  
@@ -29,19 +24,12 @@ _Screenplay_: Keiko Niwa, Emi Gunji
 _Based on the novel by_: Diana Wynne Jones  
 _Animation Supervisor_: Tan Se Ri  
 _CG Supervisor_: Yukinori Nakamura  
-_Layouts_: Nobuo Hosoyama, Yusuke Hirota,
-
-Shota Deguchi  
+_Layouts_: Nobuo Hosoyama, Yusuke Hirota, Shota Deguchi  
 _Art Director_: Yuhki Takeuchi  
 _Character Designer_: Katsuya Kondo  
-_Original Character and Setting Design_:
-
-Miho Satake  
+_Original Character and Setting Design_: Miho Satake  
 _Music_: Satoshi Takebe  
-_Sound Designer/Sound Re-recording Mixer_:
-
-Koji Kasamatsu
-<![endif]-->
+_Sound Designer/Sound Re-recording Mixer_: Koji Kasamatsu
 
 _Voice cast:_
 
@@ -69,6 +57,30 @@ JB Blanc _(Mr Jenkins)_
 Japan/USA 2020
 
 83 mins
+
+<![endif]-->
+
+BFI FAMILIES
+
+**Earwig and the Witch**
+
+Tue 3 – Tue 24 Aug
+
+**The Watcher in the Woods**
+
+Sun 22 Aug 13:00; Sun 29 Aug 12:40
+
+**The Great Mouse Detective**
+
+Sat 18 Sep 12:30
+
+**Chicken Run**
+
+Sat 25 Sep 12:00
+
+**The Muppets Take Manhattan**
+
+Sat 2 Oct 11:45
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTkzNTkzMV19
+eyJoaXN0b3J5IjpbLTE2ODA4Nzk5MTBdfQ==
 -->
