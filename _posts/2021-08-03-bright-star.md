@@ -1,3 +1,14 @@
+---
+layout: post
+title: Bright Star
+published: true
+date: 2021-08-03
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Biopic, Period, Romance]
+metadata: 'UK/Australia, 2009, 119 mins<br> Director: Jane Campion'
+pdf: '2021-08-03-bright-star.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -49,8 +60,7 @@ _Italian Service Company_: Panorama Films S.R.L.
 _Made with the support of_:  UK Film Council New Cinema Fund  
 _Produced with assistance from_:  New South Wales Film and Television Office  
 _Financed with the assistance of_: Screen Australia  
-_Executive Producers_: François Ivernel, Cameron McCracken, Christine Langan,  
-David M. Thompson  
+_Executive Producers_: François Ivernel, Cameron McCracken, Christine Langan, David M. Thompson  
 _Produced by_: Jan Chapman, Caroline Hewitt  
 _Line Producer_: Emma Mager  
 _Unit Managers_: Lee Robertson, Tim Davies, Dan Whitty  
@@ -123,7 +133,7 @@ _Animals Supplied by_: Animals O Kay
 _Unit Publicist_: Emma Davie  
 _Filmed at_: Elstree Studios
 
-**Cast**
+**Cast**<br>
 Abbie Cornish _(Fanny Brawne)_  
 Ben Whishaw _(John Keats)_  
 Paul Schneider _(Charles Brown)_  
