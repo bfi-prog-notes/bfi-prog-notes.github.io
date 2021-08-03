@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: All about Eve
+published: true
+date: 2021-08-03
+readtime: true
+categories: ['BETTE DAVIS – HOLLYWOOD REBEL']
+tags: [Drama]
+metadata: 'USA 1950, 138 mins<br> Director: Joseph L. Mankiewicz'
+pdf: '2021-08-03-all-about-eve.pdf'
+---
 
 Davis is on prime, imperious form in _All about Eve_, imbuing acclaimed stage actress Margo Channing with the imposing resilience of a woman who’s made it to middle age in an industry that reveres youth. She’s the glamorous sun around which all her friends and fans orbit, commanding attention both off-stage and on. When the youthful, seemingly sweet aspiring actress Eve (Anne Baxter) enters the picture, loudly idolising Margo while quietly trying to claim her life as her own, the older actress is among the first to see what’s going on.
 
@@ -16,8 +26,7 @@ This first sequence of the recapitulation is promising. Margo, removing her make
 
 Present and equally affected by this pathetic confession are Margo’s director and lover (Gary Merrill) her playwright (Hugh Marlowe) and his wife (Celeste Holm), the discoverer of Eve. Sole abstainer and heretic is Thelma Ritter, now typed for ever as a distiller of hard-bitten female repartee. Eve is established as Margo’s friend, secretary and helpmeet and it is clear to the initiated eye that she is a slut who will bite every hand that feeds her.
 
-In next to no time she is attempting to seduce the director and getting herself fixed up as Margo’s understudy by a system of lying and blackmail that could hardly suffice in a milieu so jealously alerted to the stab-in-the-back.  
-To substantiate the hypnotic powers of deception to which all her hardboiled victims pay such ready tribute, she should have for the audience something of the morbid lure of a Becky Sharp. Miss Baxter’s guile, after its first exposure, is transparent, tedious and repetitive. It is not within her power to salvage the part as Bette Davis so brilliantly does with that of Margo.
+In next to no time she is attempting to seduce the director and getting herself fixed up as Margo’s understudy by a system of lying and blackmail that could hardly suffice in a milieu so jealously alerted to the stab-in-the-back.  To substantiate the hypnotic powers of deception to which all her hardboiled victims pay such ready tribute, she should have for the audience something of the morbid lure of a Becky Sharp. Miss Baxter’s guile, after its first exposure, is transparent, tedious and repetitive. It is not within her power to salvage the part as Bette Davis so brilliantly does with that of Margo.
 
 As the ageing actress fearful of losing her younger lover, the latter is jealous, tormented, hysterical and vain, full of theatrical emotion but always warmly sympathetic; perhaps too consciously ‘courageous’ in lending herself to unflattering lighting and make-up, but always in absolute command of a very great talent. This she demonstrates at its fullest when, without a word but with a whole range of expression, she moves about in the theatre foyer while the villainous dramatic critic maliciously extols the brilliance of the understudy she rightly suspects of designs on her lover as on her career.
 
@@ -104,6 +113,71 @@ USA 1950©
 138 mins
 
 *Uncredited
+<br><br>
+
+**BETTE DAVIS: HOLLYWOOD REBEL**<br>
+**Of Human Bondage**<br>
+Sun 1 Aug 12:40; Thu 12 Aug 18:00<br>
+**Dangerous**<br>
+Mon 2 Aug 18:15; Fri 13 Aug 21:00;  Wed 18 Aug 18:10<br>
+**All about Eve**<br>
+Tue 3 Aug 14:30; Sat 14 Aug 20:25;  Sun 29 Aug 15:00<br>
+**Marked Woman**<br>
+Tue 3 Aug 18:10; Thu 12 Aug 20:40;  Sat 14 Aug 14:45<br>
+**What Ever Happened to Baby Jane?**<br>
+Wed 4 Aug 14:15; Wed 11 Aug 20:30;  Mon 16 Aug 18:00; Sat 28 Aug 17:20<br>
+**Jezebel**<br>
+Wed 4 Aug 20:40; Sun 15 Aug 15:30;  Fri 27 Aug 18:00<br>
+**Hush… Hush, Sweet Charlotte**<br>
+Thu 5 Aug 14:15; Fri 13 Aug 17:40;  Wed 18 Aug 14:30; Sat 28 Aug 20:30<br>
+**All about Bette Davis**<br>
+Thu 5 Aug 18:10<br>
+**Dark Victory**<br>
+Fri 6 Aug 14:15; Mon 23 Aug 18:00<br>
+**The Private Lives of Elizabeth and Essex**<br>
+Sat 7 Aug 15:00; Sat 21 Aug 11:40<br>
+**The Letter**<br>
+Sun 8 Aug 15:45; Tue 17 Aug 17:50<br>
+**The Man Who Came to Dinner**<br>
+Sun 8 Aug 18:20; Thu 19 Aug 20:40<br>
+**The Little Foxes**<br>
+Mon 9 Aug 18:00; Mon 16 Aug 20:30;  Thu 19 Aug 17:40<br>
+**The Whales of August**<br>
+Wed 11 Aug 14:30; Thu 26 Aug 20:30;  Tue 31 Aug 18:10<br>
+**Old Acquaintance**<br>
+Wed 11 Aug 17:40; Sun 22 Aug 15:30<br>
+**Mr. Skeffington**<br>
+Sat 14 Aug 17:10; Sun 29 Aug 11:30<br>
+**The Star**<br>
+Sun 15 Aug 18:30; Wed 25 Aug 20:45<br>
+**Dead Ringer**<br>
+Fri 20 Aug 17:45; Mon 30 Aug 15:20<br>
+**The Nanny**<br>
+Tue 24 Aug 20:45; Mon 30 Aug 12:40<br>
+
+With thanks to Martin Shingler
+
+**Promotional drinks partner**  
+<img style="float: left;" src="/img/partner/Sipsmith London Logo-Black-Vector-01 (1).jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTk4MDc4NTA4Nl19
 -->
