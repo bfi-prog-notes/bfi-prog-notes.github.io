@@ -29,15 +29,12 @@ _Art Director_: Yuhki Takeuchi
 _Character Designer_: Katsuya Kondo  
 _Original Character and Setting Design_: Miho Satake  
 _Music_: Satoshi Takebe  
-_Sound Designer/Sound Re-recording Mixer_: Koji Kasamatsu
+_Sound Designer/Sound Re-recording Mixer_: Koji Kasamatsu<br>
 
-_Voice cast:_
-
-Richard E. Grant _(The Mandrake)_
-
+**Voice cast**<br>
+Richard E. Grant _(The Mandrake)_<br>
 Kacey Musgraves _(Earwig’s mother)_
-
-Dan Stevens _(Thomas_
+Dan Stevens _(Thomas)_
 
 Taylor Paige Henderson _(Earwig)_
 
@@ -82,5 +79,5 @@ Sat 25 Sep 12:00
 
 Sat 2 Oct 11:45
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA4Nzk5MTBdfQ==
+eyJoaXN0b3J5IjpbNzE3MTU5NDgzXX0=
 -->
