@@ -1,6 +1,16 @@
+---
+layout: post
+title: Earwig and the Witch
+published: true
+date: 2021-08-03
+readtime: true
+categories: ['BFI FAMILIES']
+tags: [Animation, Children]
+metadata: 'Japan/USA 2020, 63 mins<br> Director: Goro Miyazaki'
+pdf: '2021-08-03-earwig-and-the-witch.pdf'
+---
 
 **What’s it about?**<br>
-
 Ten-year-old orphan Earwig is taken in by a witch, who teaches her how to cast magic spells in return for helping around the house. With the aid of a talking cat, Earwig starts to learn about her true family. The latest film from Studio Ghibli is directed by Gorô Miyazaki (_Tales from Earthsea_) and sees the studio revisit the books of Diana Wynne Jones (_Howl’s Moving Castle_) while venturing into computer animation for the first time.<br>
 
 **Hayao Miyazaki on ‘Earwig and the Witch’**<br>
@@ -14,8 +24,7 @@ The use of CG was impressive. That’s thanks to the truly wonderful team that c
 **EARWIG AND THE WITCH (ÂYA TO MAJO)**  
 _Directed by_: Goro Miyazaki  
 _Production_: Studio Ghibli  
-_Chief Executive Producer_: Isao Yoshikuni,
-Keisuke Tsuchihashi  
+_Chief Executive Producer_: Isao Yoshikuni, Keisuke Tsuchihashi  
 _Executive Producer_: Koji Hoshino, Kiyofumi Nakajima  
 _Producer_: Toshio Suzuki  
 _Line Producer_: Kentaro Morishita  
@@ -61,6 +70,20 @@ Sat 18 Sep 12:30<br>
 Sat 25 Sep 12:00<br>
 **The Muppets Take Manhattan**<br>
 Sat 2 Oct 11:45<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTUzNTc3NF19
--->
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
