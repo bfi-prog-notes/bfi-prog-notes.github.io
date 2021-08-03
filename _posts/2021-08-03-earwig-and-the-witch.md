@@ -33,51 +33,34 @@ _Sound Designer/Sound Re-recording Mixer_: Koji Kasamatsu<br>
 
 **Voice cast**<br>
 Richard E. Grant _(The Mandrake)_<br>
-Kacey Musgraves _(Earwig’s mother)_
-Dan Stevens _(Thomas)_
+Kacey Musgraves _(Earwig’s mother)_  
+Dan Stevens _(Thomas)_<br>
+Taylor Paige Henderson _(Earwig)_<br>
+Vanessa Marshall _(Bella Yaga)_<br>
+Pandora Colin _(matron)_<br>
+Logan Hannan _(Custard)_ <br>
+Summer Jenkins _(Phyllis)_<br>
+Vivienne Rutherford _(Sally)_<br> 
+Alex Cartañá _(assistant matron)_<br>
+Tom Bromhead _(cook)_<br>
+Eva Kaminsky _(assistant cook)_<br>
+JB Blanc _(Mr Jenkins)_<br>
 
-Taylor Paige Henderson _(Earwig)_
+Japan/USA 2020<br>
+83 mins<br>
 
-Vanessa Marshall _(Bella Yaga)_
 
-Pandora Colin _(matron)_
-
-Logan Hannan _(Custard)_  
-Summer Jenkins _(Phyllis)_  
-Vivienne Rutherford _(Sally)_  
-Alex Cartañá _(assistant matron)_
-
-Tom Bromhead _(cook)_  
-Eva Kaminsky _(assistant cook)_  
-JB Blanc _(Mr Jenkins)_
-
-Japan/USA 2020
-
-83 mins
-
-<![endif]-->
-
-BFI FAMILIES
-
-**Earwig and the Witch**
-
-Tue 3 – Tue 24 Aug
-
-**The Watcher in the Woods**
-
-Sun 22 Aug 13:00; Sun 29 Aug 12:40
-
+**BFI FAMILIES**<br>
+**Earwig and the Witch**<br>
+Tue 3 – Tue 24 Aug<br>
+**The Watcher in the Woods**<br>
+Sun 22 Aug 13:00; Sun 29 Aug 12:40<br>
 **The Great Mouse Detective**
-
 Sat 18 Sep 12:30
-
 **Chicken Run**
-
 Sat 25 Sep 12:00
-
 **The Muppets Take Manhattan**
-
 Sat 2 Oct 11:45
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3MTU5NDgzXX0=
+eyJoaXN0b3J5IjpbLTEwNDA4NzQ5NzRdfQ==
 -->
