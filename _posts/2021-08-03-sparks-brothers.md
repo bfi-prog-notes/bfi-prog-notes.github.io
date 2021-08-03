@@ -41,7 +41,107 @@ The archival material unearths many seldom-seen, or never-seen treasures, from c
 Perhaps the most touching section, though, is Wright’s own footage of the modern-day Mael brothers going about their repetitive and mundane daily routines, recalling the famous Gustave Flaubert dictum, ‘Be ordinary and bourgeois in your life so that you may be violent and original in your work.’
 
 That violently original work is mirrored immaculately by _The Sparks Brothers_.<br>
-**Production notes
+**Production notes**<br>
+
+**THE SPARKS BROTHERS**<br>
+_Directed by_: Edgar Wright  
+©: MRC II Distribution Company LP  
+_a_ Complete Fiction _production_  
+_Presented by_: Focus Features  
+_In association with_: MRC  
+_Produced by_: Nira Park, Edgar Wright, George Hencken, Laura Richardson  
+_Archive Producer_: Kate Griffiths  
+_Line Producer_: Serena Kennedy  
+_Post Production Supervisor - Delivery_: Rachael Havercroft  
+_Researchers_: Holly Gorne, Mike Griffiths  
+_Archive Consultant_: Neil Storey  
+_Archive Researcher_: Tess McNally-Watson  
+_Director of Photography_: Jake Polonsky  
+_Visual Effects_: Robin Doelly  
+_Stop Motion Animations Created & Designed by_: Joseph Wallace  
+_Editor_: Paul Trewartha  
+_Titles_: Matt Curtis  
+_Music Supervisor_: Gary Welch  
+_Re-recording Mixer_: Nigel Heath  
+_Digital Intermediate by_:  
+Technicolor Production Services London
+
+**With**<br>
+Ron Mael  
+Russell Mael<br>
+
+UK/USA 2021<br>
+135 mins
+
+Courtesy of Universal Pictures
+
+IN PERSON & PREVIEWS
+
+**Preview: The Sparks Brothers + Q&A with director Edgar Wright**
+
+Tue 3 Aug 19:45
+
+**BFI & Radio Times Television Festival presents: TV Preview: The North Water + Q&A with director Andrew Haigh and cast**
+
+Wed 4 Aug 18:15
+
+**The Alan Whicker Centenary: Welcome to Whicker’s World + intro**
+
+Sat 7 Aug 14:30
+
+**The Alan Whicker Centenary: The Life and Legacy of Alan Whicker**
+
+Sat 7 Aug 17:40
+
+**Preview: I’m Your Man (Ich bin dein Mensch) + pre-recorded Q&A with director Maria Schrader**
+
+Mon 9 Aug 17:50
+
+**BFI & Radio Times Television Festival presents: TV Preview: Vigil + Q&A with cast and creatives**
+
+Mon 23 Aug 18:10
+
+REGULAR PROGRAMME
+
+**Seniors’ Free Matinee: Personal Services + intro and Q&A with author, Graham Rinaldi**
+
+Mon 9 Aug 14:00
+
+**Projecting the Archive: The Blue Lagoon + intro by actor Susan Stranks (young Emmeline)**
+
+Tue 10 Aug 18:00
+
+**Member Picks: Almost Famous**
+
+Thu 12 Aug 17:45
+
+**Silent Cinema: The Wit and Wisdom of A.A. Milne + intro by Bryony Dixon, BFI Curator**
+
+Sun 15 Aug 12:40
+
+**DVD Launch: Great Noises That Fill the Air: Music, Poetry and Performance on Film**
+
+Mon 16 Aug 17:50
+
+**S.O.U.L. Fest 2021**
+
+Fri 20-Sun 22 Aug
+
+**Experimenta: Thundercrack! + intro by Jane Giles, author of ‘Scala Cinema 1987-1993**
+
+Sat 21 Aug 17:00
+
+**Relaxed Screening: Stand Clear of the Closing Doors**
+
+Tue 24 Aug 18:00
+
+**Woman with a Movie Camera: Preview: Souad + pre-recorded Q&A with director Ayten Amin**
+
+Tue 24 Aug 18:00
+
+**Terror Vision: Dr Terror’s House of Horrors**
+
+Thu 26 Aug 20:40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTAzMDAyNF19
+eyJoaXN0b3J5IjpbNDQ4MjM5NDcyXX0=
 -->
