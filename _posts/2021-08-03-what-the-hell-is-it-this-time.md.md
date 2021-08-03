@@ -28,7 +28,8 @@ Wright’s 2017 film, _Baby Driver_, starring Ansel Elgort, Lily James, Jon Hamm
 In 2018, Wright and Park set up production company Complete Fiction Pictures with long-time collaborators Joe Cornish and Rachael Prior.
 
 Wright’s latest film, _Last Night in Soho_, which he co-wrote with Krysty Wilson-Cairns, will be released in 2021. The film stars Thomasin McKenzie & Anya Taylor-Joy. Wright’s first documentary, _The Sparks Brothers_, covering the entire 50 year legacy of Ron and Russell Mael of California pop band Sparks, premiered at Sundance and will also be released in 2021.<br>
-**Production notes**
+**Production notes**<br>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzYzOTI5NF19
+eyJoaXN0b3J5IjpbMTMzMzQ2NzE5OCwtMzQzNjM5Mjk0XX0=
 -->
