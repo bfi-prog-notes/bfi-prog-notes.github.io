@@ -37,7 +37,7 @@ That was actually [cinematographer] Greig Fraser’s idea. We talked a lot about
 **Interview by Nick James, _Sight & Sound_, December 2009**<br>
 
 
-**Bright Star**<br>
+**BRIGHT STAR**<br>
 _Directed by_: Jane Campion  
 ©: Pathé Productions Ltd., Screen Australia, BBC, UK Film Council, New South Wales Film and Television Office, Jan Chapman Productions  
 _a_ Jan Chapman _production_  
@@ -153,5 +153,5 @@ Topper _(the cat)_<br>
 UK/Australia 2009©<br>
 119 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODMxNTU0NDddfQ==
+eyJoaXN0b3J5IjpbNTc4OTY1NzY5LC0xMzgzMTU1NDQ3XX0=
 -->
