@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Sparks Brothers
+published: true
+date: 2021-08-03
+readtime: true
+categories: ['PREVIEWS']
+tags: [Music]
+metadata: 'UK/USA, 2021, 135 mins<br> Director: Edgar Wright'
+pdf: '2021-08-03-sparks-brothers.pdf'
+---
 
 _+ Q&A with director Edgar Wright_
 
@@ -110,6 +120,20 @@ Tue 24 Aug 18:00<br>
 Tue 24 Aug 18:00<br>
 **Terror Vision: Dr Terror’s House of Horrors**<br>
 Thu 26 Aug 20:40<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjI3NTI0MF19
--->
+
+**BECOME A BFI MEMBER**  
+ Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](https://www.bfi.org.uk/become-bfi-member)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)  
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We're also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**Programme notes and credits compiled by the BFI Documentation Unit**  
+**Notes may be edited or abridged. Questions/comments? Email prognotes@bfi.org.uk**  
+**The British Film Institute is a charity registered in England and Wales No. 287780**  
