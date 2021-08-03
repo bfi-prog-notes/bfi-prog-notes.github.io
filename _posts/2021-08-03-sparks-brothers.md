@@ -101,15 +101,15 @@ Sun 15 Aug 12:40<br>
 **DVD Launch: Great Noises That Fill the Air: Music, Poetry and Performance on Film**<br>
 Mon 16 Aug 17:50<br>
 **S.O.U.L. Fest 2021**<br>
-Fri 20-Sun 22 Aug
-**Experimenta: Thundercrack! + intro by Jane Giles, author of ‘Scala Cinema 1987-1993**
-Sat 21 Aug 17:00
-**Relaxed Screening: Stand Clear of the Closing Doors**
-Tue 24 Aug 18:00
-**Woman with a Movie Camera: Preview: Souad + pre-recorded Q&A with director Ayten Amin**
-Tue 24 Aug 18:00
-**Terror Vision: Dr Terror’s House of Horrors**
-Thu 26 Aug 20:40
+Fri 20-Sun 22 Aug<br>
+**Experimenta: Thundercrack! + intro by Jane Giles, author of ‘Scala Cinema 1987-1993**<br>
+Sat 21 Aug 17:00<br>
+**Relaxed Screening: Stand Clear of the Closing Doors**<br>
+Tue 24 Aug 18:00<br>
+**Woman with a Movie Camera: Preview: Souad + pre-recorded Q&A with director Ayten Amin**<br>
+Tue 24 Aug 18:00<br>
+**Terror Vision: Dr Terror’s House of Horrors**<br>
+Thu 26 Aug 20:40<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzE4OTE0Nl19
+eyJoaXN0b3J5IjpbMTI1NjI3NTI0MF19
 -->
