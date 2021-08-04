@@ -31,127 +31,66 @@ and pathetic.
 
 
 **BOYZ N THE HOOD**<br>
-
 _Directed by:_ John Singleton<br>
-
 _©:_ Columbia Pictures Industries, Inc.<br>
-
 _Presented by:_ Columbia Pictures<br>
-
 _A_ Columbia Pictures _release_<br>
-
 _Produced by:_ Steve Nicolaides<br>
-
 _Production Associate:_ Kendrick J. Wallace<br>
-
 _Production Accountant:_ Katha Jones<br>
-
 _Production Co-ordinator:_ Linda Allan-Folsom<br>
-
 _Unit Production Manager:_ Steve Nicolaides<br>
-
 _Location Manager:_ Ernest Kojo Lewis<br>
-
 _1st Assistant Director:_ Don Wilkerson<br>
-
 _Script Supervisor:_ Dawn Gilliam<br>
-
 _Casting by:_ Jaki Brown<br>
-
 _Screenplay:_ John Singleton<br>
-
 _Director of Photography:_ Charles Mills<br>
-
 _Camera Operator:_ Tony Gaudioz<br>
-
 _1st Assistant Camera:_ Robert A. Torres<br>
-
 _Key Grip:_ Chuck Wells<br>
-
 _Still Photographer:_ D. Stevens<br>
-
 _Special Effects:_ Special Effects Unlimited<br>
-
 _Edited by:_ Bruce Cannon<br>
-
 _Art Director:_ Bruce Bellamy<br>
-
 _Set Decorator:_ Kathryn Peters<br>
-
 _Property Master:_ Willie J. Thompson<br>
-
 _Men’s Wardrobe:_ Darryle Johnson<br>
-
 _Women’s Wardrobe:_ Shirlene Williams<br>
-
 _Make-up:_ Marietta A. Carter<br>
-
 _Hairstylist:_ Sterfon Demings<br>
-
 _Titles/Opticals by:_ Cinema Research Corporation<br>
-
 _Original Music Score by:_ Stanley Clarke<br>
-
 _Music Supervisor:_ Raoul Roach<br>
-
 _Music Editor:_ Jamie Gelb<br>
-
 _Sound Mixer:_ Veda Campbell<br>
-
 _Boom Operator:_ Michael Anthony Patillo<br>
-
-_Re-recording Mixers:_ Paul Massey,
-
-Don DiGirolamo, Bob Glass<br>
-
+_Re-recording Mixers:_ Paul Massey, Don DiGirolamo, Bob Glass<br>
 _Supervising Sound Editor:_ Patrick Drummond<br>
-
 _Drive-by Sequence/Beats:_ DJ Pooh<br>
-
 _Stunt Co-ordinator:_ Bob Minor<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Larry Fishburne _(Furious Styles)_<br>
-
 Ice Cube _(Doughboy Baker)_<br>
-
 Cuba Gooding Jr _(Tre Styles)_<br>
-
 Nia Long _(Brandi)_<br>
-
 Morris Chestnut _(Ricky Baker)_<br>
-
 Tyra Ferrell _(Mrs Baker)_<br>
-
 Angela Bassett _(Reva Styles)_<br>
-
 Meta King _(Brandi’s mom)_<br>
-
 Whitman Mayo _(the old man)_<br>
-
 Hudhail Al-Amir _(Scholastic Aptitude Test man)_<br>
-
-Lloyd Avery Ii _(knucklehead 2)_<br>
-
+Lloyd Avery II _(knucklehead 2)_<br>
 Mia Bell _(female club member)_<br>
-
 Lexie Bigham _(Mad Dog)_<br>
-
 Kenneth A. Brown _(little Chris)_<br>
-
 Nicole Brown _(Brandi aged 10)_<br>
-
 Ceal _(Sheryl)_<br>
-
 Darneicea Corley _(Keisha)_<br>
-
 John Cothran Jr _(Lewis Crump)_<br>
-
 Na’ Blonka Durden _(Trina)_<br>
-
 Ousaun Elam _(utility stunt 1)_<br>
-
 Susan Falcon _(Mrs Olaf)_<br>
 
 Jesse Ferguson _(Officer Coffey)_<br>
@@ -172,39 +111,39 @@ Baha Jackson _(Doughboy age 10)_<br>
 
 Dee Dee Jacobs _(Renee)_<br>
 
-Kirk Kinder _(Officer Graham)_
+Kirk Kinder _(Officer Graham)_<br>
 
-Regina King _(Shalika)_
+Regina King _(Shalika)_<br>
 
-Leanear Lane _(gangster 2)_
+Leanear Lane _(gangster 2)_<br>
 
-Donovan McCrary _(Ricky age 10)_
+Donovan McCrary _(Ricky age 10)_<br>
 
-Don Nelson _(gangster 1)_
+Don Nelson _(gangster 1)_<br>
 
-Jimmy Lee Newman _(kid)_
+Jimmy Lee Newman _(kid)_<br>
 
-Malcolm Norrington _(knucklehead 1)_
+Malcolm Norrington _(knucklehead 1)_<br>
 
-Alysia M. Rogers _(Shanice)_
+Alysia M. Rogers _(Shanice)_<br>
 
-Esther Scott _(Tisha’s grandmother)_
+Esther Scott _(Tisha’s grandmother)_<br>
 
-Leonette Scott _(Tisha)_
+Leonette Scott _(Tisha)_<br>
 
-Vonte Sweet _(Ric Rock)_
+Vonte Sweet _(Ric Rock)_<br>
 
-Baldwin C. Sykes _(Monster)_
+Baldwin C. Sykes _(Monster)_<br>
 
-Raymond D. Turner _(Ferris)_
+Raymond D. Turner _(Ferris)_<br>
 
-Yolanda Whittaker _(Yo-Yo)_
+Yolanda Whittaker _(Yo-Yo)_<br>
 
-Gerard Williams _(utility stunt 2)_
+Gerard Williams _(utility stunt 2)_<br>
 
-USA 1991©
+USA 1991©<br>
 
 112 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTMyODYzM119
+eyJoaXN0b3J5IjpbLTE0MTUzMDM0MV19
 -->
