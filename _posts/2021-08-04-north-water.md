@@ -42,69 +42,40 @@ Born and raised in Castleknock in the Republic of Ireland, Farrell attended the 
 <br><br>
 
 
-**THE NORTH WATER (Episodes 1 and 2)**
+**THE NORTH WATER (Episodes 1 and 2)**<br>
+_Director/Writer:_ Andrew Haigh<br>
+_Production Company:_ See-Saw Films<br>
+_In co-production with:_ Rhombus Media<br>
+_Executive Producers:_ Jamie Laurenson,  Hakan Kousetta, Iain Canning, Emile Sherman,  Niv Fichman, Jo McClellan<br>
+_Producer:_ Kate Ogborn<br>
+_Cinematographer:_ Nicolas Bolduc<br>
+_Editors:_ Jonathan Alberts, Matthew Hannam<br>
+_Production Designer:_ Emmanuel Fréchette<br>
+_Costume Designer:_ Sarah Blenkinsop<br>
+_Hair and Make-up Designer:_ Karen Hartley Thomas<br>
 
-_Director/Writer:_ Andrew Haigh
+**Cast**<br>
+Jack O’Connell _(Patrick Sumner)_<br>
+Colin Farrell _(Henry Drax)_<br>
+Stephen Graham _(Captain Brownlee)_<br>
+Tom Courtenay _(Baxter)_<br>
+Sam Spruell _(Cavendish)_<br>
+Roland Møller _(Otto)_<br>
+Peter Mullan _(priest)_<br>
+Philip Hill Pearson _(McKendrick)_<br>
+Kieran Urquhart _(Jones)_<br>
+Jonathan Aris _(Corbyn)_<br>
+Stephen McMillan _(Joseph Hannah)_<br>
+Eliza Butterworth _(Hester)_<br>
+Nive Nielsen _(Anna)_<br>
+Natar Ungalaaq _(elder Inuk)_<br>
+Jerry Laisa _(younger Inuk)_<br>
+Ipeelie Ootoova _(Urgang)_<br>
+Keenan Carpenter _(Merok)_<br>
 
-_Production Company:_ See-Saw Films
-
-_In co-production with:_ Rhombus Media
-
-_Executive Producers:_ Jamie Laurenson,  
-Hakan Kousetta, Iain Canning, Emile Sherman,  
-Niv Fichman, Jo McClellan
-
-_Producer:_ Kate Ogborn
-
-_Cinematographer:_ Nicolas Bolduc
-
-_Editors:_ Jonathan Alberts, Matthew Hannam
-
-_Production Designer:_ Emmanuel Fréchette
-
-_Costume Designer:_ Sarah Blenkinsop
-
-_Hair and Make-up Designer:_ Karen Hartley Thomas
-
-_Cast:_
-
-Jack O’Connell _(Patrick Sumner)_
-
-Colin Farrell _(Henry Drax)_
-
-Stephen Graham _(Captain Brownlee)_
-
-Tom Courtenay _(Baxter)_
-
-Sam Spruell _(Cavendish)_
-
-Roland Møller _(Otto)_
-
-Peter Mullan _(priest)_
-
-Philip Hill Pearson _(McKendrick)_
-
-Kieran Urquhart _(Jones)_
-
-Jonathan Aris _(Corbyn)_
-
-Stephen McMillan _(Joseph Hannah)_
-
-Eliza Butterworth _(Hester)_
-
-Nive Nielsen _(Anna)_
-
-Natar Ungalaaq _(elder Inuk)_
-
-Jerry Laisa _(younger Inuk)_
-
-Ipeelie Ootoova _(Urgang)_
-
-Keenan Carpenter _(Merok)_
-
-UK 2021
-
+UK 2021<br>
 Total runtime 120 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzYwNTY4OV19
+eyJoaXN0b3J5IjpbOTg4MDcyNTA5XX0=
 -->
