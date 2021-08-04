@@ -26,151 +26,151 @@ Furious Styles is the name of the role model/father figure in John Singleton's _
 
 Singleton is the most successful of the new directors at translating the swing and heat of hip-hop culture into cinematic language. Set in the culture of gang war and hardcore rap of strife-ridden South Central Los Angeles, _Boyz N the Hood_ follows four males from their pre-teen years to post-adolescence. One of the stars is Ice Cube (a former member of the rap group NWA), whose manner, both folksy and surly, is a key to the film’s matter-of-fact view of suffering. Singleton turns the sexual confession of lead character Tre (Cuba Gooding Jr), a ‘nice boy’, into a leering, hyped-up fantasy; the scene of older boys intimidating younger boys becomes a primal male myth, both intense  
 and pathetic.  
-**_Sight & Sound_, August 1991
+**_Sight & Sound_, August 1991**
+<br><br>
 
-<![endif]-->
 
-**Boyz N the Hood**
+**BOYZ N THE HOOD**<br>
 
-_Directed by:_ John Singleton
+_Directed by:_ John Singleton<br>
 
-_©:_ Columbia Pictures Industries, Inc.
+_©:_ Columbia Pictures Industries, Inc.<br>
 
-_Presented by:_ Columbia Pictures
+_Presented by:_ Columbia Pictures<br>
 
-_A_ Columbia Pictures _release_
+_A_ Columbia Pictures _release_<br>
 
-_Produced by:_ Steve Nicolaides
+_Produced by:_ Steve Nicolaides<br>
 
-_Production Associate:_ Kendrick J. Wallace
+_Production Associate:_ Kendrick J. Wallace<br>
 
-_Production Accountant:_ Katha Jones
+_Production Accountant:_ Katha Jones<br>
 
-_Production Co-ordinator:_ Linda Allan-Folsom
+_Production Co-ordinator:_ Linda Allan-Folsom<br>
 
-_Unit Production Manager:_ Steve Nicolaides
+_Unit Production Manager:_ Steve Nicolaides<br>
 
-_Location Manager:_ Ernest Kojo Lewis
+_Location Manager:_ Ernest Kojo Lewis<br>
 
-_1st Assistant Director:_ Don Wilkerson
+_1st Assistant Director:_ Don Wilkerson<br>
 
-_Script Supervisor:_ Dawn Gilliam
+_Script Supervisor:_ Dawn Gilliam<br>
 
-_Casting by:_ Jaki Brown
+_Casting by:_ Jaki Brown<br>
 
-_Screenplay:_ John Singleton
+_Screenplay:_ John Singleton<br>
 
-_Director of Photography:_ Charles Mills
+_Director of Photography:_ Charles Mills<br>
 
-_Camera Operator:_ Tony Gaudioz
+_Camera Operator:_ Tony Gaudioz<br>
 
-_1st Assistant Camera:_ Robert A. Torres
+_1st Assistant Camera:_ Robert A. Torres<br>
 
-_Key Grip:_ Chuck Wells
+_Key Grip:_ Chuck Wells<br>
 
-_Still Photographer:_ D. Stevens
+_Still Photographer:_ D. Stevens<br>
 
-_Special Effects:_ Special Effects Unlimited
+_Special Effects:_ Special Effects Unlimited<br>
 
-_Edited by:_ Bruce Cannon
+_Edited by:_ Bruce Cannon<br>
 
-_Art Director:_ Bruce Bellamy
+_Art Director:_ Bruce Bellamy<br>
 
-_Set Decorator:_ Kathryn Peters
+_Set Decorator:_ Kathryn Peters<br>
 
-_Property Master:_ Willie J. Thompson
+_Property Master:_ Willie J. Thompson<br>
 
-_Men’s Wardrobe:_ Darryle Johnson
+_Men’s Wardrobe:_ Darryle Johnson<br>
 
-_Women’s Wardrobe:_ Shirlene Williams
+_Women’s Wardrobe:_ Shirlene Williams<br>
 
-_Make-up:_ Marietta A. Carter
+_Make-up:_ Marietta A. Carter<br>
 
-_Hairstylist:_ Sterfon Demings
+_Hairstylist:_ Sterfon Demings<br>
 
-_Titles/Opticals by:_ Cinema Research Corporation
+_Titles/Opticals by:_ Cinema Research Corporation<br>
 
-_Original Music Score by:_ Stanley Clarke
+_Original Music Score by:_ Stanley Clarke<br>
 
-_Music Supervisor:_ Raoul Roach
+_Music Supervisor:_ Raoul Roach<br>
 
-_Music Editor:_ Jamie Gelb
+_Music Editor:_ Jamie Gelb<br>
 
-_Sound Mixer:_ Veda Campbell
+_Sound Mixer:_ Veda Campbell<br>
 
-_Boom Operator:_ Michael Anthony Patillo
+_Boom Operator:_ Michael Anthony Patillo<br>
 
 _Re-recording Mixers:_ Paul Massey,
 
-Don DiGirolamo, Bob Glass
+Don DiGirolamo, Bob Glass<br>
 
-_Supervising Sound Editor:_ Patrick Drummond
+_Supervising Sound Editor:_ Patrick Drummond<br>
 
-_Drive-by Sequence/Beats:_ DJ Pooh
+_Drive-by Sequence/Beats:_ DJ Pooh<br>
 
-_Stunt Co-ordinator:_ Bob Minor
+_Stunt Co-ordinator:_ Bob Minor<br>
 
-_Cast:_
+_Cast:_<br>
 
-Larry Fishburne _(Furious Styles)_
+Larry Fishburne _(Furious Styles)_<br>
 
-Ice Cube _(Doughboy Baker)_
+Ice Cube _(Doughboy Baker)_<br>
 
-Cuba Gooding Jr _(Tre Styles)_
+Cuba Gooding Jr _(Tre Styles)_<br>
 
-Nia Long _(Brandi)_
+Nia Long _(Brandi)_<br>
 
-Morris Chestnut _(Ricky Baker)_
+Morris Chestnut _(Ricky Baker)_<br>
 
-Tyra Ferrell _(Mrs Baker)_
+Tyra Ferrell _(Mrs Baker)_<br>
 
-Angela Bassett _(Reva Styles)_
+Angela Bassett _(Reva Styles)_<br>
 
-Meta King _(Brandi’s mom)_
+Meta King _(Brandi’s mom)_<br>
 
-Whitman Mayo _(the old man)_
+Whitman Mayo _(the old man)_<br>
 
-Hudhail Al-Amir _(Scholastic Aptitude Test man)_
+Hudhail Al-Amir _(Scholastic Aptitude Test man)_<br>
 
-Lloyd Avery Ii _(knucklehead 2)_
+Lloyd Avery Ii _(knucklehead 2)_<br>
 
-Mia Bell _(female club member)_
+Mia Bell _(female club member)_<br>
 
-Lexie Bigham _(Mad Dog)_
+Lexie Bigham _(Mad Dog)_<br>
 
-Kenneth A. Brown _(little Chris)_
+Kenneth A. Brown _(little Chris)_<br>
 
-Nicole Brown _(Brandi aged 10)_
+Nicole Brown _(Brandi aged 10)_<br>
 
-Ceal _(Sheryl)_
+Ceal _(Sheryl)_<br>
 
-Darneicea Corley _(Keisha)_
+Darneicea Corley _(Keisha)_<br>
 
-John Cothran Jr _(Lewis Crump)_
+John Cothran Jr _(Lewis Crump)_<br>
 
-Na’ Blonka Durden _(Trina)_
+Na’ Blonka Durden _(Trina)_<br>
 
-Ousaun Elam _(utility stunt 1)_
+Ousaun Elam _(utility stunt 1)_<br>
 
-Susan Falcon _(Mrs Olaf)_
+Susan Falcon _(Mrs Olaf)_<br>
 
-Jesse Ferguson _(Officer Coffey)_
+Jesse Ferguson _(Officer Coffey)_<br>
 
-Dedrick D. Gobert _(Dooky)_
+Dedrick D. Gobert _(Dooky)_<br>
 
-Redge Green _(Chris)_
+Redge Green _(Chris)_<br>
 
-Kareen J. Grimes _(ice cream truck kid)_
+Kareen J. Grimes _(ice cream truck kid)_<br>
 
-Tammy Hanson _(Rosa)_
+Tammy Hanson _(Rosa)_<br>
 
-Valentino Harrison _(Bobby age 10)_
+Valentino Harrison _(Bobby age 10)_<br>
 
-Desi Arnez Hines III _(Tre age 10)_
+Desi Arnez Hines III _(Tre age 10)_<br>
 
-Baha Jackson _(Doughboy age 10)_
+Baha Jackson _(Doughboy age 10)_<br>
 
-Dee Dee Jacobs _(Renee)_
+Dee Dee Jacobs _(Renee)_<br>
 
 Kirk Kinder _(Officer Graham)_
 
@@ -206,5 +206,5 @@ USA 1991©
 
 112 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTA5ODkxMF19
+eyJoaXN0b3J5IjpbMjA1MTMyODYzM119
 -->
