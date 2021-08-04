@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Ever Happened to Baby Jane &#63"
+title: "What Ever Happened to Baby Jane&#63"
 published: true
 date: 2021-08-04
 readtime: true
