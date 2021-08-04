@@ -25,12 +25,10 @@ The careers of both actresses are a story of constant battles for better directo
 <br><br>
 
 
-**“WHAT E Happened to Baby Jane?”**
-
+**“WHAT EVER HAPPENED TO BABY JANE?”**  
 _Directed by:_ Robert Aldrich  
 ©_/Production Company:_ Associates and Aldrich  
-_Production Companies:_  
-Seven Arts Productions, Warner Bros.  
+_Production Companies:_  Seven Arts Productions, Warner Bros.  
 _Executive Producer:_ Kenneth Hyman  
 _Produced by:_ Robert Aldrich  
 _Assistant to the Producer:_ Walter Blake  
@@ -51,9 +49,7 @@ _Art Director:_ William Glasgow
 _Set Decorator:_ George Sawley  
 _Props:_ John Orlando  
 _Costume Designer:_ Norma Koch  
-_Wardrobe:_ Angela Alexander,  
-Kathleen McCandless, Vou Lee Giokaris,  
-Eric Seelig  
+_Wardrobe:_ Angela Alexander,  Kathleen McCandless, Vou Lee Giokaris,  Eric Seelig  
 _Make-up:_ Jack Obringer, Monte Westmore  
 _Hairstyles:_ Florence Guernsey, Peggy Shannon  
 _Music:_ Frank De Vol  
@@ -63,8 +59,8 @@ _Sound:_ Jack Solomon
 _Sound Editor:_ Harold McGhan  
 _Stunts:_ Carol Daniels *  
 _Dialogue Supervisor:_ Bob Sherman  
-_Cast:_
 
+**Cast**  
 Bette Davis _(Jane Hudson)_  
 Joan Crawford _(Blanche Hudson)_  
 Victor Buono _(Edwin Flagg)_  
@@ -76,11 +72,12 @@ Dave Willock _(Ray Hudson)_
 Anne Barton _(Cora Hudson)_  
 Julie Allred _(Baby Jane)_  
 Gina Gillespie _(young Blanche)_  
-USA 1962©
 
+USA 1962©  
 132 mins
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTI3NDMyM119
+eyJoaXN0b3J5IjpbNTkwMjk1MzZdfQ==
 -->
