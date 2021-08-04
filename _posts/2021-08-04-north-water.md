@@ -4,7 +4,7 @@ title: The North Water
 published: true
 date: 2021-08-04
 readtime: true
-categories: ['BFI AND RADIO TIMES TELEVISION FESTIVAL PRESENTS<br>TV PREVIEW']
+categories: ['BFI & RADIO TIMES TELEVISION FESTIVAL PRESENTS<br>TV PREVIEW']
 tags: [Drama, Period]
 metadata: 'UK 2021, Total runtime 120 mins<br> Director: Andrew Haigh'
 pdf: '2021-08-04-north-water.pdf'
@@ -83,7 +83,7 @@ UK 2021<br>
 Total runtime 120 mins
 <br><br>
 
-<img style="float: left;" src="/img/bfi-radio-times-tv-festival-logo-01" width="40%" height="40%"><br>
+<img style="float: left;" src="/img/bfi-radio-times-tv-festival-logo-01.png" width="40%" height="40%"><br>
 <br><br><br><br><br><br><br>
 
 **IN PERSON & PREVIEWS**<br>
