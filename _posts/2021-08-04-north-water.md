@@ -48,7 +48,7 @@ Born and raised in Castleknock in the Republic of Ireland, Farrell attended the 
 <br><br>
 
 
-**THE NORTH WATER (Episodes 1 and 2)**<br>
+**THE NORTH WATER<br>(Episodes 1 and 2)**<br>
 _Director/Writer:_ Andrew Haigh<br>
 _Production Company:_ See-Saw Films<br>
 _In co-production with:_ Rhombus Media<br>
