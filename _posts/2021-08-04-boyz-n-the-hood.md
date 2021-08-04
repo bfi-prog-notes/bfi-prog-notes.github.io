@@ -92,58 +92,36 @@ John Cothran Jr _(Lewis Crump)_<br>
 Na’ Blonka Durden _(Trina)_<br>
 Ousaun Elam _(utility stunt 1)_<br>
 Susan Falcon _(Mrs Olaf)_<br>
-
 Jesse Ferguson _(Officer Coffey)_<br>
-
 Dedrick D. Gobert _(Dooky)_<br>
-
 Redge Green _(Chris)_<br>
-
 Kareen J. Grimes _(ice cream truck kid)_<br>
-
 Tammy Hanson _(Rosa)_<br>
-
 Valentino Harrison _(Bobby age 10)_<br>
-
 Desi Arnez Hines III _(Tre age 10)_<br>
-
 Baha Jackson _(Doughboy age 10)_<br>
-
 Dee Dee Jacobs _(Renee)_<br>
-
 Kirk Kinder _(Officer Graham)_<br>
-
 Regina King _(Shalika)_<br>
-
 Leanear Lane _(gangster 2)_<br>
-
 Donovan McCrary _(Ricky age 10)_<br>
-
 Don Nelson _(gangster 1)_<br>
-
 Jimmy Lee Newman _(kid)_<br>
-
 Malcolm Norrington _(knucklehead 1)_<br>
-
 Alysia M. Rogers _(Shanice)_<br>
-
 Esther Scott _(Tisha’s grandmother)_<br>
-
 Leonette Scott _(Tisha)_<br>
-
 Vonte Sweet _(Ric Rock)_<br>
-
 Baldwin C. Sykes _(Monster)_<br>
-
 Raymond D. Turner _(Ferris)_<br>
-
 Yolanda Whittaker _(Yo-Yo)_<br>
-
 Gerard Williams _(utility stunt 2)_<br>
 
 USA 1991©<br>
-
 112 mins
+<br><br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTUzMDM0MV19
+eyJoaXN0b3J5IjpbLTEyMzY3MjAwNTNdfQ==
 -->
