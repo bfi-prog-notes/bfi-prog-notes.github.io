@@ -1,12 +1,10 @@
-<![endif]-->
 
 Nervous spinster Charlotte Vale (Bette Davis) is stunted from growing up under the heel of her puritanical Boston Brahmin mother (_My Fair Lady’_s Gladys Cooper), and remains convinced of her own unworthiness until a kindly psychiatrist (_Notorious_’s Claude Rains) gives her the confidence to venture out into the world on a South American cruise.
 
 Onboard, she finds her footing with the help of an unhappily married man (_Casablanca_’s Paul Henreid). Their thwarted love affair may help Charlotte break free of her mother’s grip— but will she find fulfilment as well as independence?
 
-Made at the height of Davis’s reign as the queen of the women’s picture and bolstered by an Oscar- winning score by Max Steiner (_Gone with the Wind_), _Now, Voyager_ is a melodrama for the ages, both a rapturous Hollywood romance and a poignant saga of self-discovery.
-
-bfi.org.uk
+Made at the height of Davis’s reign as the queen of the women’s picture and bolstered by an Oscar- winning score by Max Steiner (_Gone with the Wind_), _Now, Voyager_ is a melodrama for the ages, both a rapturous Hollywood romance and a poignant saga of self-discovery.<br>
+**bfi.org.uk**
 
 ‘Don’t let’s ask for the moon. We have the stars.’ Bette Davis gave one of her most celebrated performances in this classic from 1942. Charlotte Vale (Davis), a troubled young woman who has been subjected to years of emotional abuse at the hands of her domineering mother, is treated at a Vermont hospital by kindly psychiatrist Dr Jaquith (Davis’ favourite co-star, Claude Rains). Before returning home Charlotte takes a cruise and falls for a married man (Henreid). At the end of the voyage, he must return to his jealous and cruel wife and she must be reunited with her mother – leaving both of them unclear as to whether they can ever be happy.
 
@@ -17,17 +15,12 @@ Justin Johnson, bfi.org.uk
 
 **A contemporary review**
 
-Film version of an American best seller. Charlotte Vale, the repressed and bitterly unhappy daughter of an old and dominant Boston mother, has a serious nervous breakdown and goes to stay at a famous sanatorium run by  
-Dr Jaquith. He sends her on a cruise to finish her convalescence and there she meets Jerry Durrance, a married man with two daughters. Their acquaintance deepens into love though each is aware that nothing can come of it.
+Film version of an American best seller. Charlotte Vale, the repressed and bitterly unhappy daughter of an old and dominant Boston mother, has a serious nervous breakdown and goes to stay at a famous sanatorium run by  Dr Jaquith. He sends her on a cruise to finish her convalescence and there she meets Jerry Durrance, a married man with two daughters. Their acquaintance deepens into love though each is aware that nothing can come of it.
 
-The film is long but interesting throughout and is extremely well directed by Irving Rapper. Bette Davis is at the height of her power as a dramatic actress and in the early scenes when she is in the advanced stages of a breakdown, is moving in her realism. Paul Henreid is warmly sympathetic as Jerry and the cast has no weak link. The child, Janice Wilson, is amazing as Tina. The settings are varied and the problems raised are of interest to most people, particularly to women.
+The film is long but interesting throughout and is extremely well directed by Irving Rapper. Bette Davis is at the height of her power as a dramatic actress and in the early scenes when she is in the advanced stages of a breakdown, is moving in her realism. Paul Henreid is warmly sympathetic as Jerry and the cast has no weak link. The child, Janice Wilson, is amazing as Tina. The settings are varied and the problems raised are of interest to most people, particularly to women.<br>
+**_Monthly Film Bulletin_, September 1943**
 
-_Monthly Film Bulletin_, September 1943
-
-<![endif]-->
-
-**Now, Voyager**
-
+**NOW, VOYAGER**<br>
 _Directed by:_ Irving Rapper  
 _©/Presented by:_ Warner Bros.  
 _Production Company:_ First National  
@@ -41,19 +34,16 @@ _Montages by:_ Don Siegel
 _Art Director:_ Robert Haas  
 _Set Decorations by:_ Fred M. MacLean  
 _Gowns by:_ Orry-Kelly  
-_Wardrobe:_ Rydo Loshak, Marguerite Royce,
-
-Mary Deery  
+_Wardrobe:_ Rydo Loshak, Marguerite Royce, Mary Deery  
 _Make-up Artist:_ Perc Westmore  
 _Music by:_ Max Steiner  
 _Musical Director:_ Leo F. Forbstein  
 _Orchestral Arrangements:_ Hugo Friedhofer  
 _Sound by:_ Robert B. Lee  
 _Sound System:_ RCA Sound System  
-_Dialogue Director:_ Edward Blatt
+_Dialogue Director:_ Edward Blatt<br>
 
-_uncredited crew_
-
+_uncredited crew_<br>
 _Unit Manager:_ Al Alleborn  
 _Assistant Director:_ Sherry Shourds  
 _2nd Assistant Director:_ Emmett Emerson  
@@ -68,10 +58,9 @@ _Props:_ Scotty More
 _Make-up:_ Eddie Allen  
 _Hairdresser:_ Martha Acker  
 _Technical Adviser:_ Gilberto Souto  
-_Stand-ins:_ Phyllis Clark, George Becker
+_Stand-ins:_ Phyllis Clark, George Becker<br>
 
 _Cast:_
-
 Bette Davis _(Charlotte Vale)_  
 Paul Henreid _(Jerry ‘J.D.’ Durrance)_  
 Claude Rains _(Dr Jaquith)_  
@@ -205,5 +194,6 @@ Tue 24 Aug 20:45; Mon 30 Aug 12:40
 
 **Promotional drinks partner**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQ5NDY4ODQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTQyOTY2MjEwOCwtMTQxNDk0Njg4NCw3Mz
+A5OTgxMTZdfQ==
 -->
