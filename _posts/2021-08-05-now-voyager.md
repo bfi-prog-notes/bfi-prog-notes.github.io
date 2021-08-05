@@ -1,5 +1,15 @@
-
-Nervous spinster Charlotte Vale (Bette Davis) is stunted from growing up under the heel of her puritanical Boston Brahmin mother (_My Fair Lady’_s Gladys Cooper), and remains convinced of her own unworthiness until a kindly psychiatrist (_Notorious_’s Claude Rains) gives her the confidence to venture out into the world on a South American cruise.
+---
+layout: post
+title: Now, Voyager
+published: true
+date: 2021-08-05
+readtime: true
+categories: ['RE-RELEASES']
+tags: [Drama, Romance]
+metadata: 'USA 1942, 117 mins<br> Director: Irving Rapper'
+pdf: '2021-08-05-now-voyager.pdf'
+---
+Nervous spinster Charlotte Vale (Bette Davis) is stunted from growing up under the heel of her puritanical Boston Brahmin mother (_My Fair Lady_’s Gladys Cooper), and remains convinced of her own unworthiness until a kindly psychiatrist (_Notorious_’s Claude Rains) gives her the confidence to venture out into the world on a South American cruise.
 
 Onboard, she finds her footing with the help of an unhappily married man (_Casablanca_’s Paul Henreid). Their thwarted love affair may help Charlotte break free of her mother’s grip— but will she find fulfilment as well as independence?
 
@@ -8,13 +18,10 @@ Made at the height of Davis’s reign as the queen of the women’s picture and 
 
 ‘Don’t let’s ask for the moon. We have the stars.’ Bette Davis gave one of her most celebrated performances in this classic from 1942. Charlotte Vale (Davis), a troubled young woman who has been subjected to years of emotional abuse at the hands of her domineering mother, is treated at a Vermont hospital by kindly psychiatrist Dr Jaquith (Davis’ favourite co-star, Claude Rains). Before returning home Charlotte takes a cruise and falls for a married man (Henreid). At the end of the voyage, he must return to his jealous and cruel wife and she must be reunited with her mother – leaving both of them unclear as to whether they can ever be happy.
 
-The film’s depiction of mental health issues and the treatment available is remarkably enlightened for its time, and with Max Steiner’s glorious  
-Oscar®-winning score and great performances all round, _Now, Voyager_ remains one of the standouts of Hollywood’s golden age.
+The film’s depiction of mental health issues and the treatment available is remarkably enlightened for its time, and with Max Steiner’s glorious Oscar®-winning score and great performances all round, _Now, Voyager_ remains one of the standouts of Hollywood’s golden age.<br>
+**Justin Johnson, bfi.org.uk**
 
-Justin Johnson, bfi.org.uk
-
-**A contemporary review**
-
+**A contemporary review**<br>
 Film version of an American best seller. Charlotte Vale, the repressed and bitterly unhappy daughter of an old and dominant Boston mother, has a serious nervous breakdown and goes to stay at a famous sanatorium run by  Dr Jaquith. He sends her on a cruise to finish her convalescence and there she meets Jerry Durrance, a married man with two daughters. Their acquaintance deepens into love though each is aware that nothing can come of it.
 
 The film is long but interesting throughout and is extremely well directed by Irving Rapper. Bette Davis is at the height of her power as a dramatic actress and in the early scenes when she is in the advanced stages of a breakdown, is moving in her realism. Paul Henreid is warmly sympathetic as Jerry and the cast has no weak link. The child, Janice Wilson, is amazing as Tina. The settings are varied and the problems raised are of interest to most people, particularly to women.<br>
@@ -60,7 +67,7 @@ _Hairdresser:_ Martha Acker
 _Technical Adviser:_ Gilberto Souto  
 _Stand-ins:_ Phyllis Clark, George Becker<br>
 
-**Cast**
+**Cast**<br>
 Bette Davis _(Charlotte Vale)_  
 Paul Henreid _(Jerry ‘J.D.’ Durrance)_  
 Claude Rains _(Dr Jaquith)_  
@@ -145,9 +152,26 @@ Sun 15 Aug 18:30; Wed 25 Aug 20:45<br>
 Fri 20 Aug 17:45; Mon 30 Aug 15:20<br>
 **The Nanny**<br>
 Tue 24 Aug 20:45; Mon 30 Aug 12:40<br>
+With thanks to Martin Shingler
 
-**Promotional drinks partner**
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Mzk4NDQxMCwtMTQxNDk0Njg4NCw3Mz
-A5OTgxMTZdfQ==
--->
+**Promotional drinks partner**  
+<img style="float: left;" src="/img/partner/Sipsmith London Logo-Black-Vector-01 (1).jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
