@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Hush...Hush, Sweet Charlotte
+published: true
+date: 2021-08-05
+readtime: true
+categories: ['BETTE DAVIS – HOLLYWOOD REBEL']
+tags: [Horror]
+metadata: 'USA 1964, 133 mins<br> Director: Robert Aldrich'
+pdf: '2021-08-05-hush-hush-sweet-charlotte.pdf'
+---
 
 Following the unexpected success of _What Ever Happened to Baby Jane?_ (1962), Robert Aldrich didn’t look far for a follow-up. Henry Farrell, author of the _Baby Jane_ source novel had an unpublished story called ‘What Ever Happened to Cousin Charlotte?’ that screamed out for a reunion of Bette Davis and Joan Crawford. In 1964’s _Hush…Hush, Sweet Charlotte_, Davis plays the title role, no longer so sweet, but a half-deranged ageing belle cooped up in a decaying Louisiana mansion, tormented by a grisly secret from her youth. Olivia de Havilland, who stepped in when Crawford walked out, plays her manipulative cousin Miriam. The cast is swelled by more eye-catching turns: Joseph Cotten, Mary Astor and most memorably of all, Agnes Moorehead as Charlotte’s housekeeper Velma.
 
@@ -8,8 +18,7 @@ Seven Oscar nominations, including one for Moorehead and another for Joseph Biro
 **Pamela Hutchinson, _Sight & Sound_, March 2019**
 
 **Bette Davis on playing Charlotte Hollis**  
-The obvious question now was what parts, if any, Bette Davis felt she had had a ball with. ‘I don’t know. None, really, in quite that way. I find playing parts I don’t believe in, parts that have to be played on sheer technique, very difficult, and I do it very badly, so I would never choose a part like that just to relax in.  
-I really enjoy myself most in the parts l believe in most – Margo Channing, Regina in _The Little Foxes_ – because if I believe in them the rest is relatively easy. Maxine Faulk in _Night of the Iguana_ was a part like that; it really was a ball, because it is at once so funny and so completely true – I think the most complete and believable woman character Tennessee Williams has ever written.’ (Incredibly, it was not written with Bette Davis in mind: she was approached to play Hannah Jelkes, and it was her own idea after reading the script that she should play the other.)
+The obvious question now was what parts, if any, Bette Davis felt she had had a ball with. ‘I don’t know. None, really, in quite that way. I find playing parts I don’t believe in, parts that have to be played on sheer technique, very difficult, and I do it very badly, so I would never choose a part like that just to relax in.  I really enjoy myself most in the parts l believe in most – Margo Channing, Regina in _The Little Foxes_ – because if I believe in them the rest is relatively easy. Maxine Faulk in _Night of the Iguana_ was a part like that; it really was a ball, because it is at once so funny and so completely true – I think the most complete and believable woman character Tennessee Williams has ever written.’ (Incredibly, it was not written with Bette Davis in mind: she was approached to play Hannah Jelkes, and it was her own idea after reading the script that she should play the other.)
 
 _Hush...Hush, Sweet Charlotte_, it would seem, has provided her with her least ball-like part of late. ‘The role is a _cheat_,’ she says emphatically. ‘To begin with, it’s the sort of film where you can’t give anything away because everything depends on keeping the audience guessing. The part of Charlotte really has to be played dishonestly, because though she didn’t do the murder and knows that she didn’t, she has to keep doing things in such a way that you think she might have, though there is no reason inherent in her situation in the story why she should. I tell you, it was one of the most difficult parts I have ever played; I just had to try to construct some sort of reality for the character in my own mind so that I could do it at all.’
 
@@ -90,6 +99,71 @@ USA 1964©
 
 * Uncredited
 <br><br>
+
+**BETTE DAVIS: HOLLYWOOD REBEL**<br>
+**Of Human Bondage**<br>
+Sun 1 Aug 12:40; Thu 12 Aug 18:00<br>
+**Dangerous**<br>
+Mon 2 Aug 18:15; Fri 13 Aug 21:00;  Wed 18 Aug 18:10<br>
+**All about Eve**<br>
+Tue 3 Aug 14:30; Sat 14 Aug 20:25;  Sun 29 Aug 15:00<br>
+**Marked Woman**<br>
+Tue 3 Aug 18:10; Thu 12 Aug 20:40;  Sat 14 Aug 14:45<br>
+**What Ever Happened to Baby Jane?**<br>
+Wed 4 Aug 14:15; Wed 11 Aug 20:30;  Mon 16 Aug 18:00; Sat 28 Aug 17:20<br>
+**Jezebel**<br>
+Wed 4 Aug 20:40; Sun 15 Aug 15:30;  Fri 27 Aug 18:00<br>
+**Hush… Hush, Sweet Charlotte**<br>
+Thu 5 Aug 14:15; Fri 13 Aug 17:40;  Wed 18 Aug 14:30; Sat 28 Aug 20:30<br>
+**All about Bette Davis**<br>
+Thu 5 Aug 18:10<br>
+**Dark Victory**<br>
+Fri 6 Aug 14:15; Mon 23 Aug 18:00<br>
+**The Private Lives of Elizabeth and Essex**<br>
+Sat 7 Aug 15:00; Sat 21 Aug 11:40<br>
+**The Letter**<br>
+Sun 8 Aug 15:45; Tue 17 Aug 17:50<br>
+**The Man Who Came to Dinner**<br>
+Sun 8 Aug 18:20; Thu 19 Aug 20:40<br>
+**The Little Foxes**<br>
+Mon 9 Aug 18:00; Mon 16 Aug 20:30;  Thu 19 Aug 17:40<br>
+**The Whales of August**<br>
+Wed 11 Aug 14:30; Thu 26 Aug 20:30;  Tue 31 Aug 18:10<br>
+**Old Acquaintance**<br>
+Wed 11 Aug 17:40; Sun 22 Aug 15:30<br>
+**Mr. Skeffington**<br>
+Sat 14 Aug 17:10; Sun 29 Aug 11:30<br>
+**The Star**<br>
+Sun 15 Aug 18:30; Wed 25 Aug 20:45<br>
+**Dead Ringer**<br>
+Fri 20 Aug 17:45; Mon 30 Aug 15:20<br>
+**The Nanny**<br>
+Tue 24 Aug 20:45; Mon 30 Aug 12:40<br>
+
+With thanks to Martin Shingler
+
+**Promotional drinks partner**  
+<img style="float: left;" src="/img/partner/Sipsmith London Logo-Black-Vector-01 (1).jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTYyNDk4NjUyXX0=
 -->
