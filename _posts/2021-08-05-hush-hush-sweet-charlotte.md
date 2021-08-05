@@ -25,11 +25,11 @@ _Hush...Hush, Sweet Charlotte_, it would seem, has provided her with her least b
 Though in general she thinks that as a film _Charlotte_ is incomparably better than _Baby Jane_, she regrets _Charlotte_’s deviations from the original conception of Henry Farrell. Apparently the best scenes in the film – hers with Cecil Kellaway, the dinner, and the Mary Astor scenes (‘Didn’t she do them beautifully!’ says Miss Davis with unaffected enthusiasm) – were precisely the ones taken over unchanged from the original treatment.
 
 **Robert Aldrich on Bette Davis**  
-_Were you pleased with [Davis’] performance in_ Baby Jane_?_
+_Were you pleased with [Davis’] performance in_ Baby Jane _?_
 
 I thought she was wonderful. But I also thought – the public won’t agree, and certainly the critics won’t agree – that the job she did in _Hush…Hush, Sweet Charlotte_, because it was a much more difficult, narrow-edged part, and took much more talent and time and thought and care, was a better performance than _Baby Jane_, which was such a bravura, all-out Gothic eye-catcher that everybody thought it superior.
 
-_What was the origin of_ Hush…Hush, Sweet Charlotte_?_
+_What was the origin of_ Hush…Hush, Sweet Charlotte _?_
 
 It came from a three- or four-page original idea by Henry Farrell, author of the _Baby Jane_ novel, that I found very exciting. I also wanted to re-team Davis and Crawford. Then Miss Crawford fell ill and was replaced by Olivia de Havilland. And Crawford was sick, seriously sick. If she’d been faking, as some reports then suggested, either the insurance company would never have paid the claim or she would never have been insurable again. Insurance companies here are terribly tough, there’s no such thing as a made-up ailment that they pay you  off on.
 
