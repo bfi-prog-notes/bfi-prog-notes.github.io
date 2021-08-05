@@ -5,7 +5,7 @@ published: true
 date: 2021-08-05
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama]
+tags: [Music, Comedy, Drama]
 metadata: 'France, 1967, 126 mins<br> Director: Jacques Demy'
 pdf: '2021-08-05-demoiselles-de-rochefort.pdf'
 ---
