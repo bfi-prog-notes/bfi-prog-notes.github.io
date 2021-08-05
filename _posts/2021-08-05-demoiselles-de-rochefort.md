@@ -1,3 +1,14 @@
+---
+layout: post
+title: Les Demoiselles de Rochefort
+published: true
+date: 2021-08-05
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'France, 1967, 126 mins<br> Director: Jacques Demy'
+pdf: '2021-08-05-demoiselles-de-rochefort.pdf'
+---
 
 Following on from the success of _The Umbrellas of Cherbourg_ comes  _Les Demoiselles de Rochefort_ – Jacques Demy’s large-scale tribute to the Hollywood musical featuring screen legend Gene Kelly. The story centres on twin sisters Delphine and Solange (played by real-life sisters Catherine Deneuve and Francoise Dorléac) who, tired of their humdrum existence, dream of finding success and romance in Paris. The superb ensemble, also featuring Danielle Darrieux, Michel Piccoli, Jacques Perrin, George Chakiris and Grover Dale, weave and wander around the town, looking for and just missing the love of their lives.<br>
 **bfi.org.uk**
@@ -28,8 +39,7 @@ Whatever this dubbed version may indicate, Demy is still capable of prodigious a
 (NOTE: This review was written before the distributors decided to let London see the French version as well as the dubbed one.)<br>
 
 
-**LES DEMOISELLES DE ROCHEFORT
-(THE YOUNG GIRLS OF ROCHEFORT)**<br>
+**LES DEMOISELLES DE ROCHEFORT (THE YOUNG GIRLS OF ROCHEFORT)**<br>
 _Director:_ Jacques Demy  
 _Production Companies:_ Parc Film, Madeleine Films  
 _Executive Producer:_ Mag Bodard  
@@ -180,6 +190,21 @@ Wed 11 Aug 17:50 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large); Tu
 Thu 12 Aug 14:30; Sun 22 Aug 12:00<br>
 **Big Wednesday**<br>
 Thu 19 Aug 17:50; Sun 29 Aug 18:10<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Nzc4OTAzXX0=
--->
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
