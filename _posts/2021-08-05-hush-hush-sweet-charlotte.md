@@ -57,7 +57,7 @@ _Orchestrations by_: Al Woodbury
 _Choreography_: Alex Ruiz *  
 _Sound Mixers_: Herman Lewis, Bernard Freericks
 
-_Cast**  
+**Cast**  
 Bette Davis _(Charlotte Hollis)_  
 Olivia de Havilland _(Miriam Deering)_  
 Joseph Cotten _(Dr Drew Bayliss)_  
@@ -75,11 +75,9 @@ Percy Helton _(funeral director)_
 Kelly Flynn _(2nd boy)_  
 Michael Petit _(gang leader)_  
 Alida Aldrich _(young girl)_  
-Marianne Stewart_,_ Ellen Corby_,_ Helen Kleeb_  
-(town gossips)_  
+Marianne Stewart, Ellen Corby, Helen Kleeb _(town gossips)_  
 Kelly Aldrich _(3rd boy)_  
-Mary Henderson_,_ Lillian Randolph_,  
-_Geraldine West _(cleaning women)_  
+Mary Henderson, Lillian Randolph, Geraldine West _(cleaning women)_  
 William Aldrich _(boy dancer)_  
 Carol De Lay _(Geraldine)_  
 William Walker _(chauffeur)_  
@@ -87,11 +85,11 @@ Idell James _(Ginny Mae)_
 The Teddy Buckner All-Stars _(themselves)_  
 Mary Astor _(Jewel Mayhew)_
 
-USA 1964©
-
+USA 1964©  
 133 mins
 
 * Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzM1ODA4MV19
+eyJoaXN0b3J5IjpbOTYyNDk4NjUyXX0=
 -->
