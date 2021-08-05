@@ -60,7 +60,7 @@ _Hairdresser:_ Martha Acker
 _Technical Adviser:_ Gilberto Souto  
 _Stand-ins:_ Phyllis Clark, George Becker<br>
 
-_Cast:_
+**Cast**
 Bette Davis _(Charlotte Vale)_  
 Paul Henreid _(Jerry ‘J.D.’ Durrance)_  
 Claude Rains _(Dr Jaquith)_  
@@ -100,100 +100,56 @@ Corbet Morris _(Hilary)_
 Hilda Plowright _(Justine)_  
 Tempe Pigott _(Mrs Smith)_  
 Bill Edwards, Isabel Withers, Frank Dae _(passengers)_  
-USA 1942©
 
-117 mins
+USA 1942©<br>
+117 mins<br>
 
 A BFI release
 
-BETTE DAVIS: HOLLYWOOD REBEL
-
+**BETTE DAVIS: HOLLYWOOD REBEL**
 **Of Human Bondage**
-
 Sun 1 Aug 12:40; Thu 12 Aug 18:00
-
 **Dangerous**
-
-Mon 2 Aug 18:15; Fri 13 Aug 21:00;  
-Wed 18 Aug 18:10
-
+Mon 2 Aug 18:15; Fri 13 Aug 21:00;  Wed 18 Aug 18:10
 **All About Eve**
-
-Tue 3 Aug 14:30; Sat 14 Aug 20:25;  
-Sun 29 Aug 15:00
-
+Tue 3 Aug 14:30; Sat 14 Aug 20:25;  Sun 29 Aug 15:00
 **Marked Woman**
-
-Tue 3 Aug 18:10; Thu 12 Aug 20:40;  
-Sat 14 Aug 14:45
-
+Tue 3 Aug 18:10; Thu 12 Aug 20:40;  Sat 14 Aug 14:45
 **What Ever Happened to Baby Jane?**
-
-Wed 4 Aug 14:15; Wed 11 Aug 20:30;  
-Mon 16 Aug 18:00; Sat 28 Aug 17:20
-
+Wed 4 Aug 14:15; Wed 11 Aug 20:30;  Mon 16 Aug 18:00; Sat 28 Aug 17:20
 **Jezebel**
-
-Wed 4 Aug 20:40; Sun 15 Aug 15:30;  
-Fri 27 Aug 18:00
-
+Wed 4 Aug 20:40; Sun 15 Aug 15:30;  Fri 27 Aug 18:00
 **Hush… Hush, Sweet Charlotte**
-
-Thu 5 Aug 14:15; Fri 13 Aug 17:40;  
-Wed 18 Aug 14:30; Sat 28 Aug 20:30
-
+Thu 5 Aug 14:15; Fri 13 Aug 17:40;  Wed 18 Aug 14:30; Sat 28 Aug 20:30
 **All About Bette Davis**
-
 Thu 5 Aug 18:10
-
 **Dark Victory**
-
 Fri 6 Aug 14:15; Mon 23 Aug 18:00
-
 **The Private Lives of Elizabeth and Essex**
-
 Sat 7 Aug 15:00; Sat 21 Aug 11:40
-
 **The Letter**
-
 Sun 8 Aug 15:45; Tue 17 Aug 17:50
-
 **The Man Who Came to Dinner**
-
 Sun 8 Aug 18:20; Thu 19 Aug 20:40
-
 **The Little Foxes**
-
 Mon 9 Aug 18:00; Mon 16 Aug 20:30;  
 Thu 19 Aug 17:40
-
 **The Whales of August**
-
 Wed 11 Aug 14:30; Thu 26 Aug 20:30;  
 Tue 31 Aug 18:10
-
 **Old Acquaintance**
-
 Wed 11 Aug 17:40; Sun 22 Aug 15:30
-
 **Mr. Skeffington**
-
 Sat 14 Aug 17:10; Sun 29 Aug 11:30
-
 **The Star**
-
 Sun 15 Aug 18:30; Wed 25 Aug 20:45
-
 **Dead Ringer**
-
 Fri 20 Aug 17:45; Mon 30 Aug 15:20
-
 **The Nanny**
-
 Tue 24 Aug 20:45; Mon 30 Aug 12:40
 
 **Promotional drinks partner**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTY2MjEwOCwtMTQxNDk0Njg4NCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE2NzgwMDEzNTIsLTE0MTQ5NDY4ODQsNz
+MwOTk4MTE2XX0=
 -->
