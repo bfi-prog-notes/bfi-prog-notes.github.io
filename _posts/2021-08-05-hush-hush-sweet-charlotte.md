@@ -15,36 +15,29 @@ _Hush...Hush, Sweet Charlotte_, it would seem, has provided her with her least b
 
 Though in general she thinks that as a film _Charlotte_ is incomparably better than _Baby Jane_, she regrets _Charlotte_’s deviations from the original conception of Henry Farrell. Apparently the best scenes in the film – hers with Cecil Kellaway, the dinner, and the Mary Astor scenes (‘Didn’t she do them beautifully!’ says Miss Davis with unaffected enthusiasm) – were precisely the ones taken over unchanged from the original treatment.
 
-**Robert Aldrich on Bette Davis**
-
+**Robert Aldrich on Bette Davis**  
 _Were you pleased with [Davis’] performance in_ Baby Jane_?_
 
 I thought she was wonderful. But I also thought – the public won’t agree, and certainly the critics won’t agree – that the job she did in _Hush…Hush, Sweet Charlotte_, because it was a much more difficult, narrow-edged part, and took much more talent and time and thought and care, was a better performance than _Baby Jane_, which was such a bravura, all-out Gothic eye-catcher that everybody thought it superior.
 
 _What was the origin of_ Hush…Hush, Sweet Charlotte_?_
 
-It came from a three- or four-page original idea by Henry Farrell, author of the _Baby Jane_ novel, that I found very exciting. I also wanted to re-team Davis and Crawford. Then Miss Crawford fell ill and was replaced by Olivia de Havilland. And Crawford was sick, seriously sick. If she’d been faking, as some reports then suggested, either the insurance company would never have paid the claim or she would never have been insurable again. Insurance companies here are terribly tough, there’s no such thing as a made-up ailment that they pay you  
-off on.
+It came from a three- or four-page original idea by Henry Farrell, author of the _Baby Jane_ novel, that I found very exciting. I also wanted to re-team Davis and Crawford. Then Miss Crawford fell ill and was replaced by Olivia de Havilland. And Crawford was sick, seriously sick. If she’d been faking, as some reports then suggested, either the insurance company would never have paid the claim or she would never have been insurable again. Insurance companies here are terribly tough, there’s no such thing as a made-up ailment that they pay you  off on.
 
 Eventually the insurance company offered us the alternatives of finding a replacement for Miss Crawford or scrapping the picture. As you can well imagine, there were great arguments about whom we should get. A number of ladies were considered, all of whom for a variety of reasons were not acceptable to all parties. There was also a contractual problem in that Davis had star approval. Until then it had been academic because she had approved Crawford, but it now became vitally important.
 
-Obviously the ideal candidates would have been Vivien Leigh and Katharine Hepburn. Now it’s not necessary that it should become a matter of public record why Davis didn’t want either of those ladies. It is fair to say however that it had nothing to do with their talent. But there are deep-seated personal and historical reasons why she didn’t want them. I won’t say that Olivia was third choice, but Olivia was the first choice that was acceptable.
+Obviously the ideal candidates would have been Vivien Leigh and Katharine Hepburn. Now it’s not necessary that it should become a matter of public record why Davis didn’t want either of those ladies. It is fair to say however that it had nothing to do with their talent. But there are deep-seated personal and historical reasons why she didn’t want them. I won’t say that Olivia was third choice, but Olivia was the first choice that was acceptable.  
+**Interview by Joel Greenberg, _Sight and Sound_, Winter 1968-69**
+<br><br>
 
-Interview by Joel Greenberg, _Sight and Sound_, Winter 1968-69
 
-<![endif]-->
-
-**Hush…Hush, Sweet Charlotte**
-
+**HUSH…HUSH, SWEET CHARLOTTE**  
 _Directed by_: Robert Aldrich  
-_Production Companies_:  
-The Associates and Aldrich,  
-Twentieth Century-Fox Film Corporation  
+_Production Companies_:  The Associates and Aldrich,  Twentieth Century-Fox Film Corporation  
 _Produced by_: Robert Aldrich  
 _Associate Producer_: Walter Blake  
 _Production Supervisor_: Jack R. Berne  
-_Assistant Directors_: William McGarry,  
-Sam Strangis, William F. Sheehan  
+_Assistant Directors_: William McGarry,  Sam Strangis, William F. Sheehan  
 _Dialogue Supervisor_: Robert Sherman  
 _Script Supervisor_: Robert Gary  
 _Script Apprentice_: Adell Aldrich Bravos  
@@ -64,8 +57,7 @@ _Orchestrations by_: Al Woodbury
 _Choreography_: Alex Ruiz *  
 _Sound Mixers_: Herman Lewis, Bernard Freericks
 
-_Cast:_
-
+_Cast**  
 Bette Davis _(Charlotte Hollis)_  
 Olivia de Havilland _(Miriam Deering)_  
 Joseph Cotten _(Dr Drew Bayliss)_  
@@ -101,5 +93,5 @@ USA 1964©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzgwMzMzMzNdfQ==
+eyJoaXN0b3J5IjpbLTcwMzM1ODA4MV19
 -->
