@@ -184,12 +184,7 @@ Sat 7 Aug 12:00; Tue 24 Aug 14:15; Tue 31 Aug 20:30<br>
 Sun 8 Aug 12:20; Fri 20 Aug 14:30; Wed 25 Aug 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large)<br>
 **Matewan**<br>
 Tue 10 Aug 14:15; Sun 15 Aug 18:20; Sat 21 Aug 12:20<br>
-**Cutter’s Way**<br>
-Wed 11 Aug 17:50 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large); Tue 17 Aug 14:30; Fri 20 Aug 20:50; Fri 27 Aug 20:50<br>
-**The New World**<br>
-Thu 12 Aug 14:30; Sun 22 Aug 12:00<br>
-**Big Wednesday**<br>
-Thu 19 Aug 17:50; Sun 29 Aug 18:10<br>
+**Cutter’s Way**<br>Wed 11 Aug 17:50 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large); Tue 17 Aug 14:30; Fri 20 Aug 20:50; Fri 27 Aug 20:50<br>**The New World**<br>Thu 12 Aug 14:30; Sun 22 Aug 12:00<br>**Big Wednesday**<br>Thu 19 Aug 17:50; Sun 29 Aug 18:10<br>
 
 
 **BFI SOUTHBANK**  
@@ -208,3 +203,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY3Nzc2NDQ2Ml19
+-->
