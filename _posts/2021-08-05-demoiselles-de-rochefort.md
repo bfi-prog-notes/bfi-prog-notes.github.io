@@ -29,7 +29,7 @@ Whatever this dubbed version may indicate, Demy is still capable of prodigious a
 
 
 **LES DEMOISELLES DE ROCHEFORT
-(THE YOUNG GIRLS OF ROCHEFORT)**<
+(THE YOUNG GIRLS OF ROCHEFORT)**<br>
 _Director:_ Jacques Demy  
 _Production Companies:_ Parc Film, Madeleine Films  
 _Executive Producer:_ Mag Bodard  
@@ -40,16 +40,12 @@ _Unit Managers:_ Michel Choquet, René Pascal
 _Location Unit Manager:_ Charles Chieusse  
 _2nd Unit Director:_ Charles Chieusse  
 _1st Assistant Director:_ Michel Romanoff  
-_Director’s Assistants:_ Alain Franchet,
-
-Jacques Barratier, Claude Miler, Bernard Gilson  
+_Director’s Assistants:_ Alain Franchet, Jacques Barratier, Claude Miler, Bernard Gilson  
 _Script Girl:_ Annie Maurel  
 _Original Story and Screenplay:_ Jacques Demy  
 _English Adaptation:_ Julian More  
 _Director of Photography:_ Ghislain Cloquet  
-_Camera Assistants:_ Emmanuel Machuel,
-
-Jean-Paul Lemaître  
+_Camera Assistants:_ Emmanuel Machuel, Jean-Paul Lemaître  
 _Key Grip:_ Bernard Largemains  
 _Chief Electrician:_ Pierre Cornier  
 _Stills Photography:_ Hélène Jeanbrau  
@@ -61,27 +57,21 @@ _Assistant Set Design:_ Georges Glon, Claude Pignot
 _Set Dresser:_ Louis Seuret  
 _Tapestry by:_ Roger Fresca, Josette Jover  
 _Properties:_ Angelo Rizzi, Joseph Gerhard  
-_Costumes:_ Jacqueline Moreau,
-
-Marie-Claude Fouquet  
+_Costumes:_ Jacqueline Moreau, Marie-Claude Fouquet  
 _Robes:_ Jean-Marie Armand  
 _Hats:_ Jean Barthet  
 _Dressers:_ Odette Le Barbenchon, Laurence Clairval, Christiane Fageol  
-_Make-up:_ Aïda Carange, Janine Jarreau,
-
-Luc Durand, Christiane Sauvage  
+_Make-up:_ Aïda Carange, Janine Jarreau, Luc Durand, Christiane Sauvage  
 _Hairdressers:_ Carita, Edina Habib  
 _Music Written and Directed by:_ Michel Legrand  
 _Lyrics:_ Jacques Demy  
 _English Lyrics:_ Julian More, W. Earl Brown  
 _Choreography:_ Norman Maen  
-_Assistant Choreographers:_ Pamela Hart,
-
-Maureen Bright  
+_Assistant Choreographers:_ Pamela Hart, Maureen Bright  
 _Sound:_ Jacques Maumont  
 _Boom Operator:_ Jean Gaudelet  
-_Cast:_
 
+**Cast**<br>
 Catherine Deneuve _(Delphine Garnier)_  
 Françoise Dorléac _(Solange Garnier)_  
 George Chakiris _(Etienne)_  
@@ -113,25 +103,18 @@ Claudine Meunier _(Esther)_
 Christiane Legrand _(Judith)_  
 Jean Stout _(Guillaume)_  
 Olivier Bonnet _(Boubou)_  
-Alice Gerald _(Josette)_
+Alice Gerald _(Josette)_<br>
 
 _the dancers_  
-Peter Ardran
-
-Sarah Butler
-
-Jane Darling
-
+Peter Ardran<br>
+Sarah Butler<br>
+Jane Darling<br>
 Lindsay Dolan  
-Keith Drummond
-
-Taira Fernando
-
-Johnny Greenland
-
+Keith Drummond<br>
+Taira Fernando<br>
+Johnny Greenland<br>
 David Hepburn  
-Alix Kirsta
-
+Alix Kirsta<br>
 Tony Manning
 
 Connel Miles
@@ -195,5 +178,5 @@ France 1967
 
 126 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3MzM3MTI4XX0=
+eyJoaXN0b3J5IjpbNjExMzcxNjY2XX0=
 -->
