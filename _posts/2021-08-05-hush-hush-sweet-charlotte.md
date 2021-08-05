@@ -97,7 +97,7 @@ Mary Astor _(Jewel Mayhew)_
 USA 1964©  
 133 mins
 
-* Uncredited
+*Uncredited
 <br><br>
 
 **BETTE DAVIS: HOLLYWOOD REBEL**<br>
