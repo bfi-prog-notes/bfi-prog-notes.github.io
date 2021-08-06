@@ -19,7 +19,7 @@ As a spectacle this film has seldom been matched. The Technicolor is admirable, 
 <br><br>
 
 
-**The Private Lives of Elizabeth and Essex**  
+**THE PRIVATE LIVES OF ELIZABETH AND ESSEX**  
 _Director:_ Michael Curtiz  
 _©/Production Company:_ Warner Bros.  
 _In Charge of Production:_ Jack L. Warner  
@@ -28,11 +28,8 @@ _Associate Producer:_ Robert Lord
 _Unit Manager:_ Frank Mattison *  
 _Dialogue Director:_ Stanley Logan  
 _Assistant Director:_ Sherry Shourds *  
-_Screenplay:_ Norman Reilly Raine,  
-Aeneas MacKenzie  
-_Based on the play_ Elizabeth the Queen _by:_
-
-Maxwell Anderson  
+_Screenplay:_ Norman Reilly Raine,  Aeneas MacKenzie  
+_Based on the play_ Elizabeth the Queen _by:_ Maxwell Anderson  
 _Director of Photography:_ Sol Polito  
 _Associate Photography:_ W. Howard Greene  
 _Colour Director:_ Natalie Kalmus  
@@ -47,8 +44,8 @@ _Music Director:_ Leo F. Forbstein
 _Orchestrations:_ Hugo Friedhofer, Milan Roder  
 _Sound:_ C.A. Riggs  
 _Technical Adviser:_ Ali Hubert  
-_Cast:_
 
+**Cast**  
 Bette Davis _(Queen Elizabeth)_  
 Errol Flynn _(Robert Devereaux, Earl of Essex)_  
 Olivia de Havilland _(Lady Penelope Grey)_  
@@ -64,13 +61,14 @@ Robert Warwick _(Lord Mountjoy)_
 Leo G. Carroll _(Sir Edward Coke)_  
 Guy Bellis _(Lord Charles Howard)_  
 John Sutton _(captain of the guards)_  
-USA 1939©
 
+USA 1939©  
 106 mins
 
-* Uncredited
+*Uncredited
 
 35mm print courtesy of The Library of Congress
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzU5ODEyNl19
+eyJoaXN0b3J5IjpbLTE1MTExMjUwOTZdfQ==
 -->
