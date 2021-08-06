@@ -87,10 +87,10 @@ _Key Grip:_ Franco Tocci<br>
 _Gaffer:_ Alberto Ridolfi<br>
 _Stills:_ Angelo Novi<br>
 _Special Effects:_ Giovanni Corridori<br>
+
 _Assistant Editors:_ Andreina Casini, Carlo Reali<br>
 _Assistant Art Director:_ Enrico Simi<br>
-_Set Decorators:_ Carlo Leva, Rafael Ferri<br>
-_Assistant Set Decorator:_ Antonio Palombi<br>
+_Set Decorators:_ Carlo Leva, Rafael Ferri<br>_Assistant Set Decorator:_ Antonio Palombi<br>
 _Costume Collaborator:_ Marilù Carteny<br>
 _Wardrobe:_ Valeria Sponsali<br>
 _Assistant Make-up:_ Feliziano Ciriaci<br>
@@ -98,7 +98,8 @@ _Assistant Hairdresser:_ Antonietta Caputo<br>
 _Soprano Soloist:_ Edda Dell’Orso<br>
 _Weapons Master:_ Benito Stefanelli<br>
 
-**Cast**<br>
+**_Cast**:_<br>
+
 Claudia Cardinale _(Jill McBain)_<br>
 Henry Fonda _(Frank)_<br>
 Jason Robards _(Cheyenne)_<br>
@@ -206,5 +207,6 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjIwOTg4OTQsLTYwMjg1MTY4XX0=
+eyJoaXN0b3J5IjpbMTg0NjI1NDM0MiwtMTgyMjA5ODg5NCwtNj
+AyODUxNjhdfQ==
 -->
