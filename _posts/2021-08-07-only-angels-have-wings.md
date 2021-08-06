@@ -20,7 +20,167 @@ How are we meant to take this seriously? You may well ask. On paper this sounds 
 Like Carter, Hawks simply gets on with the job that has to be done and, being very versatile, adapts his methods according to the problems at hand. When fog threatens a pilot’s landing, Hawks wisely focuses, mainly in close-up, on worried faces watching the sky, letting the plane engine on the soundtrack do most of the narrative work. Later, a funereal scene is deftly turned into a boisterous singalong by the stark, simple phrase, ‘Who’s Joe?’ – an example of Hawks’ skill at handling quickly shifting moods. Later still, a deathbed scene is handled with a delicacy of tone one would probably never expect from a director known for making movies about (supposedly) rugged masculinity.
 
 But then Hawks, for all that he kept returning to certain situations, phrases, character types and predicaments, was never one to stick to what one would expect – from him or from anyone else. A little like Yasujiro Ozu, he worked wondrously rich variations on a small number of themes. And like Ozu, he used a very light touch to explore, to serio-comic effect, the parameters of life, love and death. Absurd? Hardly. Just great.<br>
-**Geoff Andrew, bfi.org.uk, 12 May 2015**
+**Geoff Andrew, bfi.org.uk, 12 May 2015**<br>
+
+
+
+**ONLY ANGELS HAVE W**
+_Directed by:_ Howard Hawks
+_©/Production Company:_ Columbia Pictures Corporation
+_Presented by:_ Columbia Pictures
+_Screen Play:_ Jules Furthman
+_Photography:_ Joseph Walker
+_Aerial Photography:_ Elmer Dyer
+_Special Effects:_ Roy Davidson
+_Film Editor:_ Viola Lawrence
+_Art Direction:_ Lionel Banks
+_Gowns:_ Kalloch
+_Music by:_ Dimitri Tiomkin
+_Musical Director:_ M.W. Stoloff
+_Technical Adviser/Chief Pilot:_ Paul Mantz
+
+_uncredited_
+_Producer:_ Howard Hawks
+_2nd Unit Directors:_ Sam Nelson, Richard Rosson
+_Assistant Director:_ Arthur S. Black
+_Screenplay Contributions:_ William M. Rankin, Eleanore Griffin
+_Story:_ Howard Hawks  
+
+**Cast**
+Cary Grant _(Geoff Carter)_
+
+Jean Arthur _(Bonnie Lee)_
+
+Richard Barthelmess _(Bat MacPherson)_
+
+Rita Hayworth _(Judith ‘Judy’ MacPherson)_
+
+Thomas Mitchell _(Kid Dabb)_
+
+Allyn Joslyn _(Les Peters)_
+
+Sig Rumann _(‘Dutchy’ van Ryder)_
+
+Victor Kilian _(Sparks)_
+
+John Carroll _(Gent Shelton)_
+
+Donald Barry _(Tex Gordon)_
+
+Noah Beery Jr _(Joe Souther)_
+
+Maciste _(the singing guitarist)_
+
+Milissa Sierra _(Lily)_
+
+Lucio Villegas _(Dr Lagorio)_
+
+Pat Flaherty _(Mike)_
+
+Pedro Regas _(Pancho)_
+
+Pat West _(Baldy)_
+
+_uncredited_
+
+Vernon Dent _(ship’s captain)_
+
+Budd Fine _(first mate)_
+
+Rafael Storm _(Rafael, purser)_
+
+Charles Moore _(servant)_
+
+Forbes Murray _(Harkwright)_
+
+Bud Wolfe, Ky Robinson, Eddie Foster,
+
+Lew Davis, James Millican, Al Rhein,
+
+Curley Dresden, Ed Randolph _(mechanics)_
+
+Elena Duran, Cecilia Callejo _(blonde señoritas)_
+
+Forbes Murray _(Harkwright Sr)_
+
+Stanley Brown _(Harkwright Jr)_
+
+Sammee Tong _(cook)_
+
+Victor Travers, Francisco Maran
+
+_(plantation overseers)_
+
+Tex Higginson, Jack Lowe _(banana foremen)_
+
+Wilson Benge _(assistant purser)_
+
+Enrique Acosta, Raúl Lechuga, Dick Botiller,
+
+Harry Bailey, Aurora Navarro, Tessie Murray _(tourists)_
+
+Cecilia Callejo _(Felice)_
+
+Candy Candido _(musician)_
+
+Inez Palange _(Lily’s aunt)_
+
+Robert Sterling
+
+USA 1939©
+
+120 mins
+
+
+**BIG SCREEN CLASSICS**
+
+**Only Angels Have Wings**
+
+Sat 7 Aug 12:00; Tue 24 Aug 14:15; Tue 31 Aug 20:30
+
+**A Farewell to Arms**
+
+Sun 8 Aug 12:20; Fri 20 Aug 14:30; Wed 25 Aug 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large)
+
+**Boyz N the Hood**
+
+Mon 9 Aug 20:50
+
+**Matewan**
+
+Tue 10 Aug 14:15; Sun 15 Aug 18:20; Sat 21 Aug 12:20
+
+**Cutter’s Way**
+
+Wed 11 Aug 17:50 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large); Tue 17 Aug 14:30; Fri 20 Aug 20:50; Fri 27 Aug 20:50
+
+**The New World**
+
+Thu 12 Aug 14:30; Sun 22 Aug 12:00
+
+**Bob & Carol & Ted & Alice**
+
+Fri 13 Aug 20:45; Wed 18 Aug 17:50 (+ pre-recorded intro by Julie Lobalzo Wright, University of Warwick); Mon 23 Aug 14:30
+
+**Thelma and Louise**
+
+Sat 14 Aug 20:35; Sat 28 Aug 20:20
+
+**The Big Lebowski**
+
+Mon 16 Aug 20:50; Wed 25 Aug 14:15
+
+**Big Wednesday**
+
+Thu 19 Aug 17:50; Sun 29 Aug 18:10
+
+**Les Demoiselles de Rochefort (The Young Ladies of Rochefort)**
+
+Thu 26 Aug 17:40
+
+**Bright Star**
+
+Fri 27 Aug 17:50; Mon 30 Aug 18:10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Mzk2NDA2OF19
+eyJoaXN0b3J5IjpbLTYyMDM0MDNdfQ==
 -->
