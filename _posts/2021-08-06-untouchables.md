@@ -1,9 +1,18 @@
-
+---
+layout: post
+title: The Untouchables
+published: true
+date: 2021-08-06
+readtime: true
+categories: ['MORRICONE']
+tags: [Thriller, Period]
+metadata: 'USA 1987, 119 mins<br> Director: Brian De Palma'
+pdf: '2021-08-06-untouchables.pdf'
+---
 
 **SPOILER WARNING  The following notes give away some of the plot.**
 
-Perhaps the most remarkable moment in Morricone’s collaboration with  
-Brian De Palma is the panpipe air accompanying the death plunge of a Vietnamese woman in _Casualties of War_ (1989). But this rousing account of the pursuit of Al Capone (Robert De Niro) by Eliot Ness (Kevin Costner) is more representative of Morricone’s oeuvre after his whistleable contributions to crime classics like _The Sicilian Clan_ (1969) and Sergio Leone’s _Once upon a Time in America_ (1984).
+Perhaps the most remarkable moment in Morricone’s collaboration with  Brian De Palma is the panpipe air accompanying the death plunge of a Vietnamese woman in _Casualties of War_ (1989). But this rousing account of the pursuit of Al Capone (Robert De Niro) by Eliot Ness (Kevin Costner) is more representative of Morricone’s oeuvre after his whistleable contributions to crime classics like _The Sicilian Clan_ (1969) and Sergio Leone’s _Once upon a Time in America_ (1984).
 
 The scene is 1930s Chicago for De Palma’s big-screen reworking of the cult ABC TV series (1959-63). But Morricone’s score knows no boundaries, as it uses western and _giallo_ motifs in a Prohibition setting. Moreover, it employs instrument combinations that no one else would even contemplate on items like ‘The Strength of the Righteous’. In isolation, each cue is exemplary. Taken together, they are extraordinary. Yet, Morricone had to settle for a Grammy and a BAFTA, as the Oscar eluded him again.  
 **David Parkinson, bfi.org.uk**
@@ -120,6 +129,69 @@ Basil Reale _(hotel clerk)_
 USA 1987  
 119 mins
 <br><br>
+
+**MORRICONE**<br>
+**The Battle of Algiers (La battaglia di Algeri)**<br>
+Sun 1 Aug 15:10; Wed 25 Aug 14:30<br>
+**The Sounds of Ennio Morricone**<br>
+Mon 2 Aug 18:10<br>
+**A Fistful of Dollars (Per un pugno di dollari)**<br>
+Mon 2 Aug 20:45; Sat 7 Aug 11:30;  Tue 10 Aug 20:50; Mon 30 12:20<br>
+**Two Mules for Sister Sara**<br>
+Wed 4 Aug 18:00; Sat 21 Aug 20:30<br>
+**Salò, or the 120 Days of Sodom  (Salò o Le 120 giornate di Sodoma)**<br>
+Thu 5 Aug 20:45; Tue 10 Aug 17:45;  Wed 25 Aug 17:50<br>
+**The Untouchables**<br>
+Fri 6 Aug 17:45; Tue 24 Aug 14:30<br>
+**The Thing**<br>
+Fri 6 Aug 20:50; Tue 24 Aug 20:50<br>
+**For a Few Dollars More  (Per qualche dollaro in più)**<br>
+Sat 7 Aug 14:00; Sun 22 Aug 12:10;  Mon 30 Aug 15:00<br>
+**The Good, the Bad and the Ugly  (Il buono, il brutto, il cattivo)**<br>
+Sat 7 Aug 17:10; Sun 29 Aug 18:20;  Mon 30 Aug 18:15<br>
+**White Dog**<br>
+Sat 7 Aug 20:50; Fri 20 Aug 18:10; Fri 27 Aug 20:45<br>
+**Once upon a Time in the West  (C’era una volta il west)**<br>
+Sun 8 Aug 12:00; Fri 27 Aug 14:00;  Tue 31 Aug 14:00<br>
+**The Mission**<br>
+Sun 8 Aug 15:10; Thu 12 Aug 20:30;  Thu 26 Aug 18:00<br>
+**Days of Heaven**<br>
+Mon 9 Aug 21:00; Tue 31 Aug 17:50<br>
+**Tie Me Up, Tie Me Down (Atame!)**<br>
+Wed 11 Aug 20:50; Thu 19 Aug 14:15;  Mon 23 Aug 21:00; Tue 31 Aug 20:45<br>
+**The Hateful Eight**<br>
+Sun 15 Aug 15:00; Sun 22 Aug 18:00<br>
+**Once upon a Time in America**<br>
+Tue 17 Aug 17:40; Sat 28 Aug 11:20<br>
+**The Legend of 1900  (La leggenda del pianista sull’oceano)**<br>
+Sat 21 Aug 11:50; Sun 29 Aug 15:10<br>
+**Cinema Paradiso (Nuovo Cinema Paradiso)**<br>
+Sat 21 Aug 14:30; Thu 26 Aug 14:30<br>
+<br>
+
+**Promotional partner**  
+<img style="float: left;" src="/img/partner/scala-radio-logo.png" alt="Scala Radio" title="Scala Radio">
+<br><br><br><br><br><br><br><br><br><br>
+**planetradio.co.uk/scala-radio**  
+<br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTYwMDkzNDExXX0=
 -->
