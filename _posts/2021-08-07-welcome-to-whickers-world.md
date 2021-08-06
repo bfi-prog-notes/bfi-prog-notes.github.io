@@ -8,10 +8,11 @@ Whether exploring behind the scenes of the Miss World competition, interviewing 
 Often ahead of his time, Whicker covered a huge range of subjects reflecting all aspects of 20th-century culture, politics and history. His reports on divorce, women’s rights, gay marriage and racial inequality and much else changed attitudes, and, in some cases, changed the law. At the height of his popularity, Whicker’s programmes commanded audiences of 15 million people.<br>
 **bfi.org.uk, 4 August 2021**<br>
 
-**Around Whicker’s World: Money and Power**<br>
+**l W' W  25 Y:
+M  P**<br>
 Alan Whicker remembers some of the most memorable characters and places he has encountered on his globe-trotting adventures: Percy Shaw, inventor of Cat’s Eyes for roads; author Harold Robbins; Peter Sellers; President Alfredo Stroessner of Paraguay; the Hutt River Province Principality in Western Australia; Papa Doc, Haiti. _Money and Power_ is the second of three programmes in which Alan Whicker looked back over his 25 years in television, recalling some of the most memorable incidents, personalities and locations.<br>
 
-**The Lord Is My Shepherd and He Knows I Am Gay**<br>
+**T I M S H Im y**<br>
 Alan Whicker attends the wedding of two homosexuals at a church in  
 San Diego and investigates the development of the ‘Gay Liberation’ movement in the U.S.A.<br>
 
@@ -22,7 +23,7 @@ Explore an extensive new collection of programmes from the BFI National Archive 
 **AROUND WHICKER'S WORLD IN 25 YEARS:
 MONEY AND POWER**<br>
 _Director_: David Green  
-_Production Company_: Yorkshire Television  
+_Production Company_: Yorkshire Television
 _Script_: Alan Whicker  
 _Editors_: Barry Reynolds, Robin McDonell<br>
 
@@ -31,7 +32,7 @@ UK 1982<br>
 60 mins<br>
 
 
-**THE LORD IS MY SHEPHERD AND HE KNOWS I’M GAY**<br>
+**T L IS herd andHHeE KnowsNOWS I’mM GAYayAY****<br>
 _Director_: Michael Deakin  
 _Production Company_: Yorkshire Television  
 _Script:_ Alan Whicker  
@@ -39,9 +40,12 @@ _Researcher_: Nigel Turner
 _Photography_: Frank Pocklington  
 _Editor_: Barry Reynolds<br>
 
-ITV tx 2.10.1973<br> 
-UK 1973<br>
+ITV tx 2.10.1973
+<br> 
+UK 1973
+br>
 52 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1NDM5NzcxLC0yMTQ1MTQyNzIxXX0=
+eyJoaXN0b3J5IjpbLTMxNjExOTExMSw2OTU0Mzk3NzEsLTIxND
+UxNDI3MjFdfQ==
 -->
