@@ -30,18 +30,15 @@ An extreme low-angle shot of Ness (echoing those of Capone), framed against the 
 _Director_: Brian De Palma  
 _Production Company_:  Paramount Pictures Corporation  
 _Producer_: Art Linson  
-_Associate Producer/Unit Production Manager_:  
-Ray Hartwick  
+_Associate Producer/Unit Production Manager_:  Ray Hartwick  
 _Production Co-ordinator_: Shari Leibowitz  
 _Location Manager_: Eric Schwab  
 _Production Assistants_: Cyd Adams, Dan Stillman, Matthew Snyder, Jim Vatis  
 _Research Assistants_: Eve Cauley, Joan R. Johnson  
-_Assistant Directors_: Joe Napolitano,  
-James Skotchdopole, Richard Patrick, Glen Trotiner  
+_Assistant Directors_: Joe Napolitano,  James Skotchdopole, Richard Patrick, Glen Trotiner  
 _Casting_: Lynn Stalmaster & Associates, Mali Finn, Cheryl Collins, Ellen Moses  
 _Screenplay_: David Mamet  
-_Based on the books by_: Oscar Fraley, Eliot Ness,  
-Paul Robsky  
+_Based on the books by_: Oscar Fraley, Eliot Ness,  Paul Robsky  
 _Director of Photography_: Stephen H. Burum  
 _Camera Operators_: Douglas Ryan, Frank Miller  
 _Chapman Crane Operator_: Kendall A. Reed  
@@ -52,8 +49,7 @@ _Editors_: Jerry Greenberg, Bill Pankow
 _Associate Editor_: Ray Hubley  
 _Visual Consultant_: Patrizia Von Brandenstein  
 _Art Director_: William A. Elliott  
-_Set Designers_: E.C. Chen, Steven P. Sardanis,  
-Gil Clayton, Nicholas Laborczy  
+_Set Designers_: E.C. Chen, Steven P. Sardanis,  Gil Clayton, Nicholas Laborczy  
 _Set Decorator_: Hal Gausman  
 _Set Dresser_: Kim S. Hobbs  
 _Costume Designer_: Marilyn Vance-Straker  
@@ -62,8 +58,7 @@ _Men’s Costume Supervisor_: Dan Lester
 _Women’s Costumers_: Cheryl Weber, Tom Dickason  
 _Wardrobe_: Giorgio Armani  
 _Make-Up Artist_: Michael Hancock  
-_Main And End Title Design_:  
-R/Greenberg Associates  
+_Main And End Title Design_:  R/Greenberg Associates  
 _Music Composed/Conducted/Orchestrated by_: Ennio Morricone  
 _Music Supervisor_: Emile Charlap  
 _Music Editor_: Thomas Drescher  
@@ -77,14 +72,11 @@ _ADR Editor_: Harriet Fidlow Winn
 _Foley Supervision_: Foley Artists  
 _Foley Supervisor_: Elisha Birnbaum  
 _Stunt Co-ordinator_: Gary Hymes  
-_Stunts_: Danny Rogers, J.N. Roberts, Eddie Donno, Roy Harrison, Gilbert Combs, Greg Brickman,  
-Rick Lefevour, Stacy Logan, Joe Gilbride,  
-Kay H. Whipple, Frank Ferrara, Robert Herron, James Halty, Justin Derosa, Steve Holladay, Pat J. McNamara, Tim Davison, Jeff Jensen, Gary Epper, Matt Johnston, Ted Barba, Rusty Hendrickson  
+_Stunts_: Danny Rogers, J.N. Roberts, Eddie Donno, Roy Harrison, Gilbert Combs, Greg Brickman,  Rick Lefevour, Stacy Logan, Joe Gilbride,  Kay H. Whipple, Frank Ferrara, Robert Herron, James Halty, Justin Derosa, Steve Holladay, Pat J. McNamara, Tim Davison, Jeff Jensen, Gary Epper, Matt Johnston, Ted Barba, Rusty Hendrickson  
 _Technical Adviser_: Douglas Kraner  
 _Dolby Consultant_: Mike DiCosimo
 
-_Cast:_
-
+**Cast**  
 Kevin Costner _(Eliot Ness)_  
 Sean Connery _(Jim Malone)_  
 Charles Martin Smith _(Oscar Wallace)_  
@@ -119,16 +111,15 @@ Eddie Minasian _(butler)_
 Tony Mockus Sr _(judge)_  
 Will Zahrn _(defence attorney)_  
 Louis Lanciloti _(barber)_  
-Vince Viverito, Valentino Cimo, Joe Greco,  
-Clem Caserta, Bob Martana, Joseph Scianablo, George S. Spataro _(bodyguards)_  
+Vince Viverito, Valentino Cimo, Joe Greco,  Clem Caserta, Bob Martana, Joseph Scianablo, George S. Spataro _(bodyguards)_  
 Melody Rae _(Union Station woman)_  
 Robert Miranda _(gunned head)_  
 James Guthrie _(Pagliacci)_  
 Basil Reale _(hotel clerk)_
 
-USA 1987
-
+USA 1987  
 119 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTg3NzEyM119
+eyJoaXN0b3J5IjpbMTYwMDkzNDExXX0=
 -->
