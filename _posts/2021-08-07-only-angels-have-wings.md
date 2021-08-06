@@ -108,21 +108,7 @@ Mon 9 Aug 20:50<br>
 **Matewan**<br>
 Tue 10 Aug 14:15; Sun 15 Aug 18:20; Sat 21 Aug 12:20<br>
 **Cutter’s Way**<br>
-Wed 11 Aug 17:50 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large); Tue 17 Aug 14:30; Fri 20 Aug 20:50; Fri 27 Aug 20:50<br>
-**The New World**<br>
-Thu 12 Aug 14:30; Sun 22 Aug 12:00<br>
-**Bob & Carol & Ted & Alice**<br>
-Fri 13 Aug 20:45; Wed 18 Aug 17:50 (+ pre-recorded intro by Julie Lobalzo Wright, University of Warwick); Mon 23 Aug 14:30<br>
-**Thelma and Louise**<br>
-Sat 14 Aug 20:35; Sat 28 Aug 20:20<br>
-**The Big Lebowski**<br>
-Mon 16 Aug 20:50; Wed 25 Aug 14:15<br>
-**Big Wednesday**<br>
-Thu 19 Aug 17:50; Sun 29 Aug 18:10<br>
-**Les Demoiselles de Rochefort (The Young Ladies of Rochefort)**<br>
-Thu 26 Aug 17:40<br>
-**Bright Star**<br>
-Fri 27 Aug 17:50; Mon 30 Aug 18:10<br>
+Wed 11 Aug 17:50 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large); Tue 17 Aug 14:30; Fri 20 Aug 20:50; Fri 27 Aug 20:50<br>**The New World**<br>Thu 12 Aug 14:30; Sun 22 Aug 12:00<br>**Bob & Carol & Ted & Alice**<br>Fri 13 Aug 20:45; Wed 18 Aug 17:50 (+ pre-recorded intro by Julie Lobalzo Wright, University of Warwick); Mon 23 Aug 14:30<br>**Thelma and Louise**<br>Sat 14 Aug 20:35; Sat 28 Aug 20:20<br>**The Big Lebowski**<br>Mon 16 Aug 20:50; Wed 25 Aug 14:15<br>**Big Wednesday**<br>Thu 19 Aug 17:50; Sun 29 Aug 18:10<br>**Les Demoiselles de Rochefort (The Young Ladies of Rochefort)**<br>Thu 26 Aug 17:40<br>**Bright Star**<br>Fri 27 Aug 17:50; Mon 30 Aug 18:10<br>
 
 
 
@@ -142,3 +128,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1OTQyMDMzOTVdfQ==
+-->
