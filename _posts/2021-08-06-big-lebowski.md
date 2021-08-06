@@ -22,132 +22,66 @@ _Producer:_ Ethan Coen
 _Co-producer:_ John Cameron
 _Executive in Charge of Production:_ Jane Frazer
 _Production Supervisor:_ Gilly Ruben
-
 _Production Co-ordinator:_ Gregg Edler
-
 _Unit Production Manager:_ John Cameron
-
 _Location Manager:_ Robert Graf
-
 _Post-production Supervisor:_ Charlie Vogel
-
 _1st Assistant Director:_ Jeff Rafner
-
 _Key 2nd Assistant Director:_ Conte Mark Matal
-
 _2nd 2nd Assistant Director:_ Donald Murphy
-
 _Script Supervisor:_ T. Kukowinski
-
 _Casting:_ John Lyons
-
 _Associate Casting:_ Wendy Weidman
-
 _Screenplay:_ Ethan Coen, Joel Coen
-
 _Director of Photography:_ Roger Deakins
-
 _Aerial Cameraman:_ Ron Goodman
-
 _Camera Operator:_ Ted Morris
-
 _Visual Effects Supervisor:_ Janek Sirrs
-
 _Visual Effects:_ Computer Film Company
-
 _Mechanical Effects Designer:_ Peter Chesney
-
 _Graphic Designer:_ Bradford Richardson
-
 _Editors:_ Roderick Jaynes, Tricia Cooke
-
 _Big Associate Editor:_ David Diliberto
-
 _Production Designer:_ Rick Heinrichs
-
 _Art Director:_ John Dexter
-
 _Set Designer:_ Mariko Braswell
-
 _Set Decorator:_ Chris Spellman
-
 _Storyboard Artist:_ J. Todd Anderson
-
 _Costume Designer:_ Mary Zophres
-
 _Costume Supervisor:_ Pam Withers
-
 _Make-up Supervisor:_ Jean Black
-
 _Make-up for Mr Jeff Bridges:_ Edouard Henriques
-
 _Hairstylist:_ Daniel Curet
-
 _Title Sequence / ‘Gutterball’ Titles Design/Production:_ Balsmeyer & Everett Inc
-
-_Opticals:_ John Alagna, Effects House,
-
-János Pilenyi, Cineric Inc
-
+_Opticals:_ John Alagna, Effects House, János Pilenyi, Cineric Inc
 _Music:_ Carter Burwell
-
 _Orchestrations:_ Carter Burwell, Sonny Kompanek
-
 _Music Supervisor:_ Happy Walters
-
 _Executive in Charge of Music for PFE:_ Dawn Solér
-
-_Music Co-ordinators:_ Spring Aspers,
-
-Manish Raval, Tom Wolfe
-
+_Music Co-ordinators:_ Spring Aspers, Manish Raval, Tom Wolfe
 _Music Contractor:_ Emile Charlap
-
 _Music Editor:_ Todd Kasow
-
 _Associate Music Editor:_ Missy Cohen
-
 _Music Engineer:_ Michael Farrow
-
 _Musical Archivist:_ T-Bone Burnett
-
 _Choreography:_ Bill Landrum, Jacqui Landrum
-
 _Sound Mixer:_ Allan Byer
-
 _Re-recording Mixers:_ Michael Barry, Skip Lievsay
-
 _Supervising Sound Editor:_ Skip Lievsay
-
 _Dialogue Editors:_ Magdaline Volaitis, Rick Freeman
-
-_Giggles/Howls/Marmots:_
-
-William Preston Robertson
-
+_Giggles/Howls/Marmots:_ William Preston Robertson
 _Effects Editor:_ Lewis Goldstein
-
 _ADR Editor:_ Kenton Jakub
-
 _Supervisor Foley:_ Ben Cheah
-
 _Foley Artist:_ Marko Costanzo
-
 _Foley Mixer:_ Bruce Pross
-
 _Foley Editors:_ Jennifer Ralston, Frank Kern
-
 _Stunt Co-ordinator:_ Jery Hewitt
-
-_Stunts:_ Jennifer Lamb, Vince Deadrick Jr,
-
-Lloyd Catlett
-
+_Stunts:_ Jennifer Lamb, Vince Deadrick Jr, Lloyd Catlett
 _Baby Wranglers:_ Pattie Cooke, Eileen Sullivan
-
 _Animals:_ Animal Actors of Hollywood
 
-_Cast:_
+**Cast**
 
 Jeff Bridges _(Jeffrey Lebowski, ‘The Dude’)_
 
@@ -249,5 +183,5 @@ USA/UK 1998©
 
 117 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODk5Njc2MDVdfQ==
+eyJoaXN0b3J5IjpbNzY0ODY5NDM5XX0=
 -->
