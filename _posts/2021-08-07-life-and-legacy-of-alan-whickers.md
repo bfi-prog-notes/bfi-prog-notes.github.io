@@ -1,3 +1,14 @@
+---
+layout: post
+title: The LIfe and Legacy of Alan Whicker
+published: true
+date: 2021-08-07
+readtime: true
+categories: ['THE ALAN WHICKER CENTENARY']
+tags: [Talks, Television]
+metadata: 
+pdf: '2021-08-07-life-and-legacy-of-alan-whicker.pdf'
+---
 
 _Jane Ray, Whicker’s radio producer – now Artistic Director of The Whickers, Alan’s charitable Foundation funding the next generation of documentary makers – is joined by Michael Palin, Michael Parkinson and Jon Culshaw, to discuss his career and his legacy. Dick Fiddy, BFI TV Curator, will host the panel._
 
@@ -31,6 +42,25 @@ He was awarded the CBE in 2005 for services to broadcasting. He died in 2013.<br
 
 **Whicker’s World in the Mediatheque**
 Explore an extensive new collection of programmes from the BFI National Archive spanning Alan Whicker’s career. Book a free viewing session online or via the BFI Southbank box office.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQ2MTczMzNdfQ==
--->
+
+**In partnership with**
+ 
+<img style="float: left;" src="/img/whickers.png">
+<br><br><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
