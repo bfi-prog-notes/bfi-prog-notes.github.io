@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, War]
 metadata: 'USA, 1932, 89 mins<br> Director: Frank Borzage'
-pdf: '2021-08-07-farewell-to-arms.pdf'
+pdf: '2021-08-08-farewell-to-arms.pdf'
 ---
 
 Ernest Hemingway’s story of a doomed love affair between an American ambulance driver and a nurse is turned into a full-blown tearjerker by Frank Borzage. With luminous close-ups of Gary Cooper and Helen Hayes, kissing as bombs explode behind them and grand, swooping camerawork, Borzage evokes a glamour and exoticism more in keeping with old-style silent films than early talkies. The formal inventiveness, which helped the film to a Best Cinematography Oscar, is apparent throughout. At one stage, we’re treated to shots of chins and ceilings as the camera takes the point of view of the patient on a stretcher. At another, the lens stands in for Cooper’s mouth – and Hayes plants a wet, sloppy kiss on it. Adolphe Menjou is excellent as Cooper’s world-weary, womanising boss. Cooper himself shows his customary clumsy charm as the besotted lover, and the death-bed ending is guaranteed to melt the stoniest heart.<br>
