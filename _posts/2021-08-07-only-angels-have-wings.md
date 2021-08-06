@@ -24,18 +24,18 @@ But then Hawks, for all that he kept returning to certain situations, phrases, c
 
 
 
-**ONLY ANGELS HAVE W**
-_Directed by:_ Howard Hawks
-_©/Production Company:_ Columbia Pictures Corporation
-_Presented by:_ Columbia Pictures
-_Screen Play:_ Jules Furthman
-_Photography:_ Joseph Walker
-_Aerial Photography:_ Elmer Dyer
-_Special Effects:_ Roy Davidson
-_Film Editor:_ Viola Lawrence
-_Art Direction:_ Lionel Banks
-_Gowns:_ Kalloch
-_Music by:_ Dimitri Tiomkin
+**ONLY ANGELS HAVE WINGS**<br>
+_Directed by:_ Howard Hawks<br>
+_©/Production Company:_ Columbia Pictures Corporation<br>
+_Presented by:_ Columbia Pictures<br>
+_Screen Play:_ Jules Furthman<br>
+_Photography:_ Joseph Walker<br>
+_Aerial Photography:_ Elmer Dyer<br>
+_Special Effects:_ Roy Davidson<br>
+_Film Editor:_ Viola Lawrence<br>
+_Art Direction:_ Lionel Banks<br>
+_Gowns:_ Kalloch<br>
+_Music by:_ Dimitri Tiomkin<br>
 _Musical Director:_ M.W. Stoloff
 _Technical Adviser/Chief Pilot:_ Paul Mantz
 
@@ -48,88 +48,48 @@ _Story:_ Howard Hawks
 
 **Cast**
 Cary Grant _(Geoff Carter)_
-
 Jean Arthur _(Bonnie Lee)_
-
 Richard Barthelmess _(Bat MacPherson)_
-
 Rita Hayworth _(Judith ‘Judy’ MacPherson)_
-
 Thomas Mitchell _(Kid Dabb)_
-
 Allyn Joslyn _(Les Peters)_
-
 Sig Rumann _(‘Dutchy’ van Ryder)_
-
 Victor Kilian _(Sparks)_
-
 John Carroll _(Gent Shelton)_
-
 Donald Barry _(Tex Gordon)_
-
 Noah Beery Jr _(Joe Souther)_
-
 Maciste _(the singing guitarist)_
-
 Milissa Sierra _(Lily)_
-
 Lucio Villegas _(Dr Lagorio)_
-
 Pat Flaherty _(Mike)_
-
 Pedro Regas _(Pancho)_
-
 Pat West _(Baldy)_
 
 _uncredited_
-
 Vernon Dent _(ship’s captain)_
-
 Budd Fine _(first mate)_
-
 Rafael Storm _(Rafael, purser)_
-
 Charles Moore _(servant)_
-
 Forbes Murray _(Harkwright)_
-
 Bud Wolfe, Ky Robinson, Eddie Foster,
-
 Lew Davis, James Millican, Al Rhein,
-
 Curley Dresden, Ed Randolph _(mechanics)_
-
 Elena Duran, Cecilia Callejo _(blonde señoritas)_
-
 Forbes Murray _(Harkwright Sr)_
-
 Stanley Brown _(Harkwright Jr)_
-
 Sammee Tong _(cook)_
-
-Victor Travers, Francisco Maran
-
-_(plantation overseers)_
-
+Victor Travers, Francisco Maran _(plantation overseers)_
 Tex Higginson, Jack Lowe _(banana foremen)_
-
 Wilson Benge _(assistant purser)_
-
 Enrique Acosta, Raúl Lechuga, Dick Botiller,
-
 Harry Bailey, Aurora Navarro, Tessie Murray _(tourists)_
-
 Cecilia Callejo _(Felice)_
-
 Candy Candido _(musician)_
-
 Inez Palange _(Lily’s aunt)_
-
 Robert Sterling
 
-USA 1939©
-
-120 mins
+USA 1939©<br>
+120 mins<br>
 
 
 **BIG SCREEN CLASSICS**
@@ -182,5 +142,5 @@ Thu 26 Aug 17:40
 
 Fri 27 Aug 17:50; Mon 30 Aug 18:10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDM0MDNdfQ==
+eyJoaXN0b3J5IjpbLTE3ODk2MTA4MDBdfQ==
 -->
