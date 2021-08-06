@@ -1,12 +1,21 @@
-
+---
+layout: post
+title: The Private Lives of Elizabeth and Essex
+published: true
+date: 2021-08-07
+readtime: true
+categories: ['BETTE DAVIS – HOLLYWOOD REBEL']
+tags: [Drama, Period]
+metadata: 'USA 1939, 106 mins<br> Director: Michael Curtiz'
+pdf: '2021-08-07-private-lives-of-elizabeth-and-essex.pdf'
+---
 
 This fictional take on the tempestuous and troubled relationship between Queen Elizabeth I and the Duke of Essex chronicles the rise and fall of a privileged and popular member of the royal court. Davis lobbied for Laurence Olivier to play Essex but the role went to Flynn. For her own role as the Queen she researched the Elizabethan period to ensure that her look and accent were as authentic as she could make them in this, her first colour film.  
 **bfi.org.uk**
 
 Maxwell Anderson’s play _Elizabeth the Queen_ was a highly successful vehicle for Alfred Lunt and Lynn Fontanne: their only film together _The Guardsman_, opens with an extended extract from it, showing how effective it could be for an actor and actress able to make believable its many elaborate dialogue sequences where innocuous and courtly conversation must be felt to make a sexual attraction. Laurence Olivier was originally cast to play Essex in this film version, but when he became unavailable, the part was given to the inappropriate Flynn who, though physically wrong for the part, was sufficiently certain of success as to demand a title change in order to accentuate what he felt to be a central role. Curtiz, despairing, gave all his attention to Bette Davis as Elizabeth, and she turned in one of her most memorable performances.
 
-Few of Curtiz’s films are as meticulously elaborate as this, which sacrifices physical action for a flawless technical exercise in historical recreation. Its sets, music score, colour photography, special effects and sound recording were all nominated for Oscars, though the board that year was swept by _Gone with  
-the Wind_.
+Few of Curtiz’s films are as meticulously elaborate as this, which sacrifices physical action for a flawless technical exercise in historical recreation. Its sets, music score, colour photography, special effects and sound recording were all nominated for Oscars, though the board that year was swept by _Gone with  the Wind_.
 
 The film remains one of the lushest of the time, an interesting contrast to current TV versions of Elizabeth’s court which, while they exceed the film in dramatic quality, seem sadly disadvantaged by a lack of the physical resources on which Hollywood could call.
 
@@ -69,6 +78,71 @@ USA 1939©
 
 35mm print courtesy of The Library of Congress
 <br><br>
+
+**BETTE DAVIS: HOLLYWOOD REBEL**<br>
+**Of Human Bondage**<br>
+Sun 1 Aug 12:40; Thu 12 Aug 18:00<br>
+**Dangerous**<br>
+Mon 2 Aug 18:15; Fri 13 Aug 21:00;  Wed 18 Aug 18:10<br>
+**All about Eve**<br>
+Tue 3 Aug 14:30; Sat 14 Aug 20:25;  Sun 29 Aug 15:00<br>
+**Marked Woman**<br>
+Tue 3 Aug 18:10; Thu 12 Aug 20:40;  Sat 14 Aug 14:45<br>
+**What Ever Happened to Baby Jane?**<br>
+Wed 4 Aug 14:15; Wed 11 Aug 20:30;  Mon 16 Aug 18:00; Sat 28 Aug 17:20<br>
+**Jezebel**<br>
+Wed 4 Aug 20:40; Sun 15 Aug 15:30;  Fri 27 Aug 18:00<br>
+**Hush… Hush, Sweet Charlotte**<br>
+Thu 5 Aug 14:15; Fri 13 Aug 17:40;  Wed 18 Aug 14:30; Sat 28 Aug 20:30<br>
+**All about Bette Davis**<br>
+Thu 5 Aug 18:10<br>
+**Dark Victory**<br>
+Fri 6 Aug 14:15; Mon 23 Aug 18:00<br>
+**The Private Lives of Elizabeth and Essex**<br>
+Sat 7 Aug 15:00; Sat 21 Aug 11:40<br>
+**The Letter**<br>
+Sun 8 Aug 15:45; Tue 17 Aug 17:50<br>
+**The Man Who Came to Dinner**<br>
+Sun 8 Aug 18:20; Thu 19 Aug 20:40<br>
+**The Little Foxes**<br>
+Mon 9 Aug 18:00; Mon 16 Aug 20:30;  Thu 19 Aug 17:40<br>
+**The Whales of August**<br>
+Wed 11 Aug 14:30; Thu 26 Aug 20:30;  Tue 31 Aug 18:10<br>
+**Old Acquaintance**<br>
+Wed 11 Aug 17:40; Sun 22 Aug 15:30<br>
+**Mr. Skeffington**<br>
+Sat 14 Aug 17:10; Sun 29 Aug 11:30<br>
+**The Star**<br>
+Sun 15 Aug 18:30; Wed 25 Aug 20:45<br>
+**Dead Ringer**<br>
+Fri 20 Aug 17:45; Mon 30 Aug 15:20<br>
+**The Nanny**<br>
+Tue 24 Aug 20:45; Mon 30 Aug 12:40<br>
+
+With thanks to Martin Shingler
+
+**Promotional drinks partner**  
+<img style="float: left;" src="/img/partner/Sipsmith London Logo-Black-Vector-01 (1).jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE1MTExMjUwOTZdfQ==
 -->
