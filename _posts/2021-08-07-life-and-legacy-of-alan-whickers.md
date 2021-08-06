@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The LIfe and Legacy of Alan Whicker
+title: The Life and Legacy of Alan Whicker
 published: true
 date: 2021-08-07
 readtime: true
