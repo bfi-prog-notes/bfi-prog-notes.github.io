@@ -1,7 +1,7 @@
 
 
 Ernest Hemingway’s story of a doomed love affair between an American ambulance driver and a nurse is turned into a full-blown tearjerker by Frank Borzage. With luminous close-ups of Gary Cooper and Helen Hayes, kissing as bombs explode behind them and grand, swooping camerawork, Borzage evokes a glamour and exoticism more in keeping with old-style silent films than early talkies. The formal inventiveness, which helped the film to a Best Cinematography Oscar, is apparent throughout. At one stage, we’re treated to shots of chins and ceilings as the camera takes the point of view of the patient on a stretcher. At another, the lens stands in for Cooper’s mouth – and Hayes plants a wet, sloppy kiss on it. Adolphe Menjou is excellent as Cooper’s world-weary, womanising boss. Cooper himself shows his customary clumsy charm as the besotted lover, and the death-bed ending is guaranteed to melt the stoniest heart.<br>
-** _Sight & Sound_, May 1997**
+**_Sight & Sound_, May 1997**
 
 Ernest Hemingway – who prided himself in a certain kind of tough-talking, no-nonsense honesty – had little time for Frank Borzage’s _A Farewell to Arms_, adapted from the partly autobiographical novel he’d had published a couple of years previously.
 
@@ -20,11 +20,136 @@ The evocation of the war-gutted landscape is memorable; though the opening scene
 And then there is an astonishing climactic _Liebestod_. Whereas other filmmakers, as noted earlier, have tended to use the prospect of death as a button to produce tears, pity, anxiety or whatever in the viewer, and have avoided confronting the very real finality of a human’s life on earth, Borzage gets in there and grapples with it, rather as a Carl Dreyer, Ingmar Bergman or Terence Davies might do. If they come to different conclusions, that’s not what concerns me here; what matters is that in acknowledging the inevitability of death, their films tend to tell the truth as they see it. In Borzage’s _A Farewell to Arms_, that truth is at once as painful, as regenerative and, finally, as unfathomably mysterious as love itself.
 **Geoff Andrew, bfi.org.uk, 30 May 2014**
 
-**A contemporary review**
+**A contemporary review**<br>
 This picture might well have been made only yesterday. It bears hardly any trace of age. In its total effect it is vivid, thrilling and poignant. The hopelessness of it all; the futility of war; the inevitability of the catastrophe are unerringly conveyed.
 
 The direction is admirable. It has restraint, purpose, and sympathy. The acting is outstandingly good. Gary Cooper has never, before or since, given a better performance. He conveys with his slightly diffident manner a great capacity for suffering, half revealed and half unexpressed, and the bewilderment resentment and despair of the ordinary man caught up in a tragedy beyond his comprehension. Helen Hayes is almost equally good. She brings a gay courage and a wistful charm to her part, and it is a pleasure to listen to her voice. The camera-work is imaginative and interesting, and the war scenes are most effectively staged.<br>
-**_Monthly Film Bulletin_, July 1938**
+**_Monthly Film Bulletin_, July 1938**<br>
+
+<![endif]-->
+
+**A FAREWELL TO ARMS**
+_Directed by_: Frank Borzage  
+_Production Company_: Paramount Productions  
+_Production by_: Frank Borzage  
+_Screen Play by_: Benjamin Glazer,  
+Oliver H.P. Garrett  
+_From the novel by_: Ernest Hemingway  
+_Photographed by_: Charles Lang
+
+_uncredited_
+_Associate Producer_: Benjamin F. Glazer  
+_Business Manager_: Daniel Keefe  
+_Assistant to Benjamin Glazer_: Jean Negulesco  
+_Assistant Directors_: Lew Borzage,  
+Arthur Jacobson, Charles Griffin  
+_Script Clerk_: Grace Dubray  
+_Casting Director_: Fred Datig  
+_Camera Operator_: Robert Pittack  
+_Assistant Camera_: Clifford Shirpser  
+_Stills_: Sherman Clark  
+_Transparencies_: Farciot Edouart  
+_Film Editors_: Otho Lovering, George Nicholls Jr  
+_Art Director_: Roland Anderson  
+_Props_: Joe Thompson, Clem Jones  
+_Costumes_: Travis Banton  
+_Wardrobe_: Ed Gross  
+_Music_: Ralph Rainger, John Leipold,  
+Bernard Kaun, Paul Marquardt, Herman Hand, W. Franke Harling  
+_Sound Recordist_: Harold Lewis  
+_Technical Adviser on War Sequences_:  Charles Griffin  
+_Technical Adviser Hospital Sequences_:  Dr A. Jardini  
+_Transportation/Props_: Joe Robbins  
+_General Press Agent_:
+Robert M. Gillham
+
+_Cast:_
+
+Helen Hayes  _(Catherine Barkley)_  
+Gary Cooper
+
+_(Lieutenant Frederic Henry)_  
+Adolphe Menjou  _(Captain Rinaldi)_  
+Mary Phillips  _(Helen Ferguson)_  
+Jack La Rue  _(the priest)_  
+Blanche Friderici  _(head nurse)_  
+Mary Forbes  _(Miss Van Campen)_  
+Gilbert Emery  _(British major)_
+
+_uncredited_
+
+Henry Armetta  _(Bonello)_  
+Peggy Cunningham  _(Molly)_  
+Doris Lloyd  _(nurse)_  
+George Humbert  _(Piani)_  
+Agostino Borgato  _(Giulio, the porter)_  
+Paul Porcasi  _(Harry, the headwaiter)_  
+Herman Bing  _(post office clerk)_  
+Alice Adair  _(café girl)_  
+Fred Malatesta  _(Manera)_  
+Thomas Ricketts  _(Count Greffi)_  
+Robert Cauterio  _(Gordoni)_  
+Gino Corrado
+
+USA 1932©
+
+90 mins
+
+**BECOME A BFI MEMBER**
+
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at **bfi.org.uk/join**
+
+BIG SCREEN CLASSICS
+
+**A Farewell to Arms**
+
+Sun 8 Aug 12:20; Fri 20 Aug 14:30; Wed 25 Aug 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large)
+
+**Boyz N the Hood**
+
+Mon 9 Aug 20:50
+
+**Matewan**
+
+Tue 10 Aug 14:15; Sun 15 Aug 18:20; Sat 21 Aug 12:20
+
+**Cutter’s Way**
+
+Wed 11 Aug 17:50 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large); Tue 17 Aug 14:30; Fri 20 Aug 20:50; Fri 27 Aug 20:50
+
+**The New World**
+
+Thu 12 Aug 14:30; Sun 22 Aug 12:00
+
+**Bob & Carol & Ted & Alice**
+
+Fri 13 Aug 20:45; Wed 18 Aug 17:50 (+ pre-recorded intro by Julie Lobalzo Wright, University of Warwick); Mon 23 Aug 14:30
+
+**Thelma and Louise**
+
+Sat 14 Aug 20:35; Sat 28 Aug 20:20
+
+**The Big Lebowski**
+
+Mon 16 Aug 20:50; Wed 25 Aug 14:15
+
+**Big Wednesday**
+
+Thu 19 Aug 17:50; Sun 29 Aug 18:10
+
+**Only Angels Have Wings**
+
+Tue 24 Aug 14:15; Tue 31 Aug 20:30
+
+**Les Demoiselles de Rochefort**
+
+**(The Young Ladies of Rochefort)**
+
+Thu 26 Aug 17:40
+
+**Bright Star**
+
+Fri 27 Aug 17:50; Mon 30 Aug 18:10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyNjcxMTY2XX0=
+eyJoaXN0b3J5IjpbMTIxMTY3ODg3OV19
 -->
