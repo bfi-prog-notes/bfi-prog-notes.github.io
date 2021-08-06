@@ -1,9 +1,19 @@
-
+---
+layout: post
+title: Only Angels Have Wings
+published: true
+date: 2021-08-07
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Adventure]
+metadata: 'USA, 1939, 121 mins<br> Director: Howard Hawks'
+pdf: '2021-08-07-only-angels-have-wings.pdf'
+---
 
 Everyone drawn to action cinema is drawn to Howard Hawks. And those who love Hawks love _Only Angels Have Wings_ (1939) in a particularly intense way.  It is a virtual encyclopaedia of his gestures, obsessions, and stylistic manoeuvres, and I think it has defined, in a way still unsurpassed, what Hollywood action cinema has been in the subsequent six decades.
 
 I esteem _Only Angels Have Wings_ to be the central work in the Hawks canon, but with caveats. It’s not as visually beautiful a film as _Scarface_ (1932) or _Red River_ (1947). Its central romantic pairing of stars, Cary Grant and Jean Arthur, is not as charismatic as that of Bogart and Bacall in _The Big Sleep_ (1946) or  _To Have and Have Not_ (1944). Its humorous moments are not as wildly funny as the best moments in his comedies, and its action sequences, while well done, are not particularly memorable by contemporary standards. What _Only Angels_ does have going for it is a unique completeness of vision. Of this film you can say what you can say of few films: that it is a thorough creation of a world, a complete expression of one artist’s programme. To me this is as good a pragmatic definition of a masterpiece as there is.<br>
-**Larry Gross, _Sight & Sound_, February 1997**
+**Larry Gross, _Sight & Sound_, February 1997**<br>
 
 Many fine films screened in last year’s [2014] BFI London Film Festival – indeed, there were some great ones – but of those I saw, none gave me more utter enjoyment than _Only Angels Have Wings_, made 75 years earlier by Howard Hawks. The film was playing in a new 4K digital restoration, and judging by the response of those sitting around me in a packed NFT1 at  BFI Southbank (there was a loud round of spontaneous applause at the end credits), I was far from alone in my happiness.
 
@@ -21,7 +31,6 @@ Like Carter, Hawks simply gets on with the job that has to be done and, being ve
 
 But then Hawks, for all that he kept returning to certain situations, phrases, character types and predicaments, was never one to stick to what one would expect – from him or from anyone else. A little like Yasujiro Ozu, he worked wondrously rich variations on a small number of themes. And like Ozu, he used a very light touch to explore, to serio-comic effect, the parameters of life, love and death. Absurd? Hardly. Just great.<br>
 **Geoff Andrew, bfi.org.uk, 12 May 2015**<br>
-
 
 
 **ONLY ANGELS HAVE WINGS**<br>
@@ -86,7 +95,7 @@ Inez Palange _(Lily’s aunt)_<br>
 Robert Sterling<br>
 
 USA 1939©<br>
-120 mins<br>
+121 mins<br>
 
 
 **BIG SCREEN CLASSICS**<br>
@@ -114,6 +123,22 @@ Thu 19 Aug 17:50; Sun 29 Aug 18:10<br>
 Thu 26 Aug 17:40<br>
 **Bright Star**<br>
 Fri 27 Aug 17:50; Mon 30 Aug 18:10<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM2MjUyMzhdfQ==
--->
+
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
