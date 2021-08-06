@@ -92,8 +92,7 @@ Giovanni Tarallo _(El Paso bank guard)_
 Mario Meniconi _(El Paso bartender)_  
 Mario Brega _(Nino, 1st man, Indio’s gang)_
 
-_uncredited_
-
+_uncredited_  
 A. Molino Rojo _(Indio henchman)_  
 Eduardo Garcia  
 Hans Abrolat _(Slim)_  
@@ -119,9 +118,11 @@ Ricardo Palacios _(Tucumcari bartender)_
 Nazzareno Natale _(Paco, member of Indio’s gang)_  
 Aldo Ricci
 
-Italy/Spain/West Germany 1965
-
+Italy/Spain/West Germany 1965  
 126 mins
+<br><br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjk3Mzg2NzBdfQ==
+eyJoaXN0b3J5IjpbNjA4NDUwODRdfQ==
 -->
