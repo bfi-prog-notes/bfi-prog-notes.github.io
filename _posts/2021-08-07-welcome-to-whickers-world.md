@@ -11,8 +11,7 @@ Often ahead of his time, Whicker covered a huge range of subjects reflecting all
 **Around Whicker’s World: Money and Power**<br>
 Alan Whicker remembers some of the most memorable characters and places he has encountered on his globe-trotting adventures: Percy Shaw, inventor of Cat’s Eyes for roads; author Harold Robbins; Peter Sellers; President Alfredo Stroessner of Paraguay; the Hutt River Province Principality in Western Australia; Papa Doc, Haiti. _Money and Power_ is the second of three programmes in which Alan Whicker looked back over his 25 years in television, recalling some of the most memorable incidents, personalities and locations.<br>
 
-**T I M S H K I m y**<br>
-
+**The Lord Is My Shepherd and He Knows I Am Gay**<br>
 Alan Whicker attends the wedding of two homosexuals at a church in  
 San Diego and investigates the development of the ‘Gay Liberation’ movement in the U.S.A.<br>
 
@@ -32,18 +31,19 @@ ITV tx 14.3.1982<br>
 UK 1982<br>
 60 mins<br>
 
-**The LordHE LORD IsS MyY Shepherd andHEPHERD AND HeE KnowsNOWS I’mM GayAY****<br>
+
+**THE LORD IS MY SHEPHERD AND HE KNOWS I’M GAY**<br>
 _Director_: Michael Deakin  
-_Production Company_: Yorkshire Television
+_Production Company_: Yorkshire Television  
 _Script:_ Alan Whicker  
 _Researcher_: Nigel Turner  
 _Photography_: Frank Pocklington  
 _Editor_: Barry Reynolds<br>
 
-ITV tx 2.10.1973
-<br>UK 1973
-br>
+ITV tx 2.10.1973<br> 
+UK 1973<br>
 52 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDIzMTMyMSwtMjE0NTE0MjcyMV19
+eyJoaXN0b3J5IjpbLTE1NzY5Nzk2MzksLTIxNDUxNDI3MjFdfQ
+==
 -->
