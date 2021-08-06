@@ -21,104 +21,66 @@ Bette Davis’s friend, contrives not to be entirely out-acted by the star.
 
 
 **DARK VICTORY**<br>
-
 _Director:_ Edmund Goulding<br>
+©_/Production Company:_ Warner Bros.<br>
+_Production Company:_ First National Pictures<br>
+_In Charge of Production:_ Jack L. Warner<br>
+_Executive Producer:_ Hal B. Wallis *<br>
+_Associate Producer:_ David Lewis *<br>
+_Unit Manager:_ Robert Ross *<br>
+_Assistant Director:_ Frank Heath *<br>
+_Screenplay:_ Casey Robinson<br>
+_Based on the play by:_ George Emerson Brewer Jr, Bertram Bloch<br>
+_Director of Photography:_ Ernie Haller<br>
+_Editor:_ William Holmes<br>
+_Art Director:_ Robert Haas<br>
+_Gowns:_ Orry-Kelly<br>
+_Music:_ Max Steiner<br>
+_Music Director:_ Leo F. Forbstein<br>
+_Orchestral Arrangements:_ Hugo Friedhofer<br>
+_Sound Recording:_ Robert B. Lee<br>
+_Technical Adviser:_ Leo Schulman *<br>
+_General Press Representative:_ S. Charles Einfeld *<br>
 
-©_/Production Company:_ Warner Bros.
+**Cast**<br>
+Bette Davis _(Judith Traherne)_<br>
+George Brent _(Dr Frederick Steele)_<br>
+Humphrey Bogart _(Michael O’Leary)_<br>
+Geraldine Fitzgerald _(Ann King)_<br>
+Ronald Reagan _(Alec Hamin)_<br>
+Henry Travers _(Dr Parsons)_<br>
+Cora Witherspoon _(Carrie Spottswood)_<br>
+Dorothy Peterson _(Miss Wainwright)_ *<br>
+Virginia Brissac _(Martha)_ *<br>
+Charles Richman _(Colonel Mantle)_ *<br>
+Herbert Rawlinson _(Dr Joe Carter)_ *<br>
+Leonard Mudie _(Dr Driscoll)_ *<br>
+Fay Helm _(Miss Dodd)_ *<br>
+Lottie Williams _(Lucy)_ *<br>
+Diane Bernard _(Agatha)_ *<br>
+Jack Mower _(veterinarian)_ *<br>
+William Worthington _(first specialist)_ *<br>
+Alexander Leftwich _(second specialist)_ *<br>
 
-_Production Company:_ First National Pictures
+Ila Rhodes _(secretary)_ *<br>
 
-_In Charge of Production:_ Jack L. Warner
+Stuart Holmes _(doctor)_ *<br>
 
-_Executive Producer:_ Hal B. Wallis *
+Frank Darien _(anxious little man)_ *<br>
 
-_Associate Producer:_ David Lewis *
+Johnny Harron _(1st man)_ *<br>
 
-_Unit Manager:_ Robert Ross *
+John Ridgely _(2nd man)_ *<br>
 
-_Assistant Director:_ Frank Heath *
+Sidney Bracey _(bartender)_ *<br>
 
-_Screenplay:_ Casey Robinson
+Rosella Towne _(girl in box)_ *<br>
 
-_Based on the play by:_ George Emerson Brewer Jr, Bertram Bloch
-
-_Director of Photography:_ Ernie Haller
-
-_Editor:_ William Holmes
-
-_Art Director:_ Robert Haas
-
-_Gowns:_ Orry-Kelly
-
-_Music:_ Max Steiner
-
-_Music Director:_ Leo F. Forbstein
-
-_Orchestral Arrangements:_ Hugo Friedhofer
-
-_Sound Recording:_ Robert B. Lee
-
-_Technical Adviser:_ Leo Schulman *
-
-_General Press Representative:_ S. Charles Einfeld *
-
-_Cast:_
-
-Bette Davis _(Judith Traherne)_
-
-George Brent _(Dr Frederick Steele)_
-
-Humphrey Bogart _(Michael O’Leary)_
-
-Geraldine Fitzgerald _(Ann King)_
-
-Ronald Reagan _(Alec Hamin)_
-
-Henry Travers _(Dr Parsons)_
-
-Cora Witherspoon _(Carrie Spottswood)_
-
-Dorothy Peterson _(Miss Wainwright)_ *
-
-Virginia Brissac _(Martha)_ *
-
-Charles Richman _(Colonel Mantle)_ *
-
-Herbert Rawlinson _(Dr Joe Carter)_ *
-
-Leonard Mudie _(Dr Driscoll)_ *
-
-Fay Helm _(Miss Dodd)_ *
-
-Lottie Williams _(Lucy)_ *
-
-Diane Bernard _(Agatha)_ *
-
-Jack Mower _(veterinarian)_ *
-
-William Worthington _(first specialist)_ *
-
-Alexander Leftwich _(second specialist)_ *
-
-Ila Rhodes _(secretary)_ *
-
-Stuart Holmes _(doctor)_ *
-
-Frank Darien _(anxious little man)_ *
-
-Johnny Harron _(1st man)_ *
-
-John Ridgely _(2nd man)_ *
-
-Sidney Bracey _(bartender)_ *
-
-Rosella Towne _(girl in box)_ *
-
-Edgar Edwards _(trainer)_ *
+Edgar Edwards _(trainer)_ *<br>
 
 Jeffrey Sayre, Will Morgan, Wedgewood Nowell,
 
-Nat Carr, Ed Graham, Jack Goodrich _(doctors)_ *
+Nat Carr, Ed Graham, Jack Goodrich _(doctors)_ *<br>
 
 Maris Wrixon, Richard Bond, Wilda Bennett,
 
@@ -126,15 +88,15 @@ Leyland Hodgson, Mary Currier, David Newell,
 
 Marian Alden, Paulette Evans, Frank Mayo
 
-_(Judith’s friends)_ *
+_(Judith’s friends)_ *<br>
 
-Speirs Ruskell _(Dr Steele’s assistant)_ *
+Speirs Ruskell _(Dr Steele’s assistant)_ *<br>
 
-USA 1939©
+USA 1939©<br>
 
 104 mins
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NjY4MTM0MF19
+eyJoaXN0b3J5IjpbLTE0MTU1NDMyOThdfQ==
 -->
