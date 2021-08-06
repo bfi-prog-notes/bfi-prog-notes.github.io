@@ -47,47 +47,25 @@ Most major Western themes are there, but, through Leone’s artificial, operatic
 **(C’era una volta il West)**
 
 _Director:_ Sergio Leone<br>
-
 _Production Companies:_ Rafran Cinematografica, San Marco Cinematografica,  
-Euro International Films,  
-Paramount Pictures Corporation<br>
-
+Euro International Films,  Paramount Pictures Corporation<br>
 _Executive Producer:_ Bino Cicogna<br>
-
 _Producer:_ Fulvio Morsella<br>
-
 _Production Supervisor:_ Ugo Tucci<br>
-
 _Production Manager:_ Claudio Mancini<br>
-
 _1st Assistant Director:_ Giancarlo Santi<br>
-
 _Screenplay:_ Sergio Donati, Sergio Leone<br>
-
 _Dialogue:_ Mickey Knox<br>
-
-_Story:_ Dario Argento, Bernardo Bertolucci,  
-Sergio Leone<br>
-
+_Story:_ Dario Argento, Bernardo Bertolucci,  Sergio Leone<br>
 _Director of Photography:_ Tonino Delli Colli<br>
-
 _Special Effects:_ Baciucchi<br>
-
 _Editor:_ Nino Baragli<br>
-
 _Sets/Costumes:_ Carlo Simi<br>
-
 _Make-up Supervisor:_ Alberto De Rossi<br>
-
 _Make-up:_ Giannetto De Rossi<br>
-
 _Hairdresser:_ Grazia De Rossi<br>
-
-_Music Composed and Conducted by:_  
-Ennio Morricone<br>
-
+_Music Composed and Conducted by:_  Ennio Morricone<br>
 _Sound Recording:_ Claudio Maielli, Elio Pacella, Fausto Ancillai<br>
-
 _Sound Effects:_ Luciano Anzellotti,  
 Italo Cameracanna, Roberto Arcangeli<br>
 
@@ -99,136 +77,136 @@ _Producer:_ Sergio Leone<br>
 
 _Administrator:_ Raffaele Forti<br>
 
-_Production Inspector:_ Camillo Teti
+_Production Inspector:_ Camillo Teti<br>
 
-_2nd Production Inspector:_ Manolo Amigo
+_2nd Production Inspector:_ Manolo Amigo<br>
 
-_Production Secretary:_ Glauco Teti
+_Production Secretary:_ Glauco Teti<br>
 
-_2nd Assistant Director:_ Salvatore Basile
+_2nd Assistant Director:_ Salvatore Basile<br>
 
-_Script Supervisor:_ Serena Canevari
+_Script Supervisor:_ Serena Canevari<br>
 
-_Camera Operator:_ Franco Di Giacomo
+_Camera Operator:_ Franco Di Giacomo<br>
 
-_Assistant Operator:_ Giuseppe Lanci
+_Assistant Operator:_ Giuseppe Lanci<br>
 
-_Key Grip:_ Franco Tocci
+_Key Grip:_ Franco Tocci<br>
 
-_Gaffer:_ Alberto Ridolfi
+_Gaffer:_ Alberto Ridolfi<br>
 
-_Stills:_ Angelo Novi
+_Stills:_ Angelo Novi<br>
 
-_Special Effects:_ Giovanni Corridori
+_Special Effects:_ Giovanni Corridori<br>
 
-_Assistant Editors:_ Andreina Casini, Carlo Reali
+_Assistant Editors:_ Andreina Casini, Carlo Reali<br>
 
-_Assistant Art Director:_ Enrico Simi
+_Assistant Art Director:_ Enrico Simi<br>
 
-_Set Decorators:_ Carlo Leva, Rafael Ferri
+_Set Decorators:_ Carlo Leva, Rafael Ferri<br>
 
-_Assistant Set Decorator:_ Antonio Palombi
+_Assistant Set Decorator:_ Antonio Palombi<br>
 
-_Costume Collaborator:_ Marilù Carteny
+_Costume Collaborator:_ Marilù Carteny<br>
 
-_Wardrobe:_ Valeria Sponsali
+_Wardrobe:_ Valeria Sponsali<br>
 
-_Assistant Make-up:_ Feliziano Ciriaci
+_Assistant Make-up:_ Feliziano Ciriaci<br>
 
-_Assistant Hairdresser:_ Antonietta Caputo
+_Assistant Hairdresser:_ Antonietta Caputo<br>
 
-_Soprano Soloist:_ Edda Dell’Orso
+_Soprano Soloist:_ Edda Dell’Orso<br>
 
-_Weapons Master:_ Benito Stefanelli
+_Weapons Master:_ Benito Stefanelli<br>
 
-_Cast:_
+_Cast:_<br>
 
-Claudia Cardinale _(Jill McBain)_
+Claudia Cardinale _(Jill McBain)_<br>
 
-Henry Fonda _(Frank)_
+Henry Fonda _(Frank)_<br>
 
-Jason Robards _(Cheyenne)_
+Jason Robards _(Cheyenne)_<br>
 
-Charles Bronson _(Harmonica)_
+Charles Bronson _(Harmonica)_<br>
 
-Gabriele Ferzetti _(Mr Morton)_
+Gabriele Ferzetti _(Mr Morton)_<br>
 
-Paolo Stoppa _(Sam, Jill’s driver)_
+Paolo Stoppa _(Sam, Jill’s driver)_<br>
 
-Woody Strode _(Stony)_
+Woody Strode _(Stony)_<br>
 
-Jack Elam _(Snakey)_
+Jack Elam _(Snakey)_<br>
 
-Keenan Wynn _(sheriff of the county)_
+Keenan Wynn _(sheriff of the county)_<br>
 
-Frank Wolff _(Brett McBain)_
+Frank Wolff _(Brett McBain)_<br>
 
-Lionel Stander _(tavern proprietor)_
+Lionel Stander _(tavern proprietor)_<br>
 
-_uncredited_
+_uncredited_<br>
 
-Marco Zuanelli _(Wobbles)_
+Marco Zuanelli _(Wobbles)_<br>
 
-John Frederick _(Frank gunman 2 sent to kill Jill)_
+John Frederick _(Frank gunman 2 sent to kill Jill)_<br>
 
-Enzo Santaniello _(Timmy McBain)_
+Enzo Santaniello _(Timmy McBain)_<br>
 
-Dino Mele _(Harmonica as a boy)_
+Dino Mele _(Harmonica as a boy)_<br>
 
-Al Mulock _(Knuckles)_
+Al Mulock _(Knuckles)_<br>
 
-Benito Stefanelli _(Frank’s lieutenant)_
+Benito Stefanelli _(Frank’s lieutenant)_<br>
 
-Aldo Sambrell _(Cheyenne man wearing duster)_
+Aldo Sambrell _(Cheyenne man wearing duster)_<br>
 
-Aldo Berti _(Frank gunman playing poker)_
+Aldo Berti _(Frank gunman playing poker)_<br>
 
-Bruno Corazzari _(Cheyenne man 2)_
+Bruno Corazzari _(Cheyenne man 2)_<br>
 
-Lorenzo Robledo _(Cheyenne man 3)_
+Lorenzo Robledo _(Cheyenne man 3)_<br>
 
-Tullio Palmieri _(Flagstone lumber salesman)_
+Tullio Palmieri _(Flagstone lumber salesman)_<br>
 
-Simonetta Santaniello _(Maureen McBain)_
+Simonetta Santaniello _(Maureen McBain)_<br>
 
 Fabio Testi, Antonio Molino Rojo
 
-_(Frank gang members at auction)_
+_(Frank gang members at auction)_<br>
 
-Marilù Carteny _(Maureen McBain)_
+Marilù Carteny _(Maureen McBain)_<br>
 
-Paolo Figlia _(Frank man at auction)_
+Paolo Figlia _(Frank man at auction)_<br>
 
-Claudio Mancini _(Harmonica’s elder brother)_
+Claudio Mancini _(Harmonica’s elder brother)_<br>
 
-Renato Pinciroli _(first bidder at auction)_
+Renato Pinciroli _(first bidder at auction)_<br>
 
 Luigi Ciavarro  
-_(deputy escorting Cheyenne to station)_
+_(deputy escorting Cheyenne to station)_<br>
 
 Conrado San Martín  
-_(town official at Brett McBain’s funeral)_
+_(town official at Brett McBain’s funeral)_<br>
 
 Spartaco Conversi  
-_(Frank gang member shot through foot)_
+_(Frank gang member shot through foot)_<br>
 
 Francisco Braña  
-_(pipe-smoking Frank gang member)_
+_(pipe-smoking Frank gang member)_<br>
 
-Luana Strode _(Indian woman at station)_
+Luana Strode _(Indian woman at station)_<br>
 
-Giuseppe Anatrelli _(Frank gunman 4)_
+Giuseppe Anatrelli _(Frank gunman 4)_<br>
 
-Robert Spafford _(construction yard owner)_
+Robert Spafford _(construction yard owner)_<br>
 
-Joyce Gordon _(voice of Jill McBain, English version)_
+Joyce Gordon _(voice of Jill McBain, English version)_<br>
 
 Luigi Magnani, Sandra Salvatori, Dino Zamboni, Livio Andronico, Stefano Imparato,  
-Umberto Morsella, Claudio Scarchilli, Salvo Basile, Frank Leslie, Enrico Morsella, Ivan Scratuglia
+Umberto Morsella, Claudio Scarchilli, Salvo Basile, Frank Leslie, Enrico Morsella, Ivan Scratuglia<br>
 
-Italy/USA 1968©
+Italy/USA 1968©<br>
 
 167 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjg1MTY4LC0xNjk3MjU1OTg0XX0=
+eyJoaXN0b3J5IjpbMjAwNDEyNTIyMiwtNjAyODUxNjhdfQ==
 -->
