@@ -63,66 +63,66 @@ _Music Contractor:_ Emile Charlap<br>
 _Music Editor:_ Todd Kasow<br>
 _Associate Music Editor:_ Missy Cohen<br>
 _Music Engineer:_ Michael Farrow<br>
-_Musical Archivist:_ T-Bone Burnett
-_Choreography:_ Bill Landrum, Jacqui Landrum
-_Sound Mixer:_ Allan Byer
-_Re-recording Mixers:_ Michael Barry, Skip Lievsay
-_Supervising Sound Editor:_ Skip Lievsay
-_Dialogue Editors:_ Magdaline Volaitis, Rick Freeman
-_Giggles/Howls/Marmots:_ William Preston Robertson
-_Effects Editor:_ Lewis Goldstein
-_ADR Editor:_ Kenton Jakub
-_Supervisor Foley:_ Ben Cheah
-_Foley Artist:_ Marko Costanzo
-_Foley Mixer:_ Bruce Pross
-_Foley Editors:_ Jennifer Ralston, Frank Kern
-_Stunt Co-ordinator:_ Jery Hewitt
-_Stunts:_ Jennifer Lamb, Vince Deadrick Jr, Lloyd Catlett
-_Baby Wranglers:_ Pattie Cooke, Eileen Sullivan
-_Animals:_ Animal Actors of Hollywood
+_Musical Archivist:_ T-Bone Burnett<br>
+_Choreography:_ Bill Landrum, Jacqui Landrum<br>
+_Sound Mixer:_ Allan Byer<br>
+_Re-recording Mixers:_ Michael Barry, Skip Lievsay<br>
+_Supervising Sound Editor:_ Skip Lievsay<br>
+_Dialogue Editors:_ Magdaline Volaitis, Rick Freeman<br>
+_Giggles/Howls/Marmots:_ William Preston Robertson<br>
+_Effects Editor:_ Lewis Goldstein<br>
+_ADR Editor:_ Kenton Jakub<br>
+_Supervisor Foley:_ Ben Cheah<br>
+_Foley Artist:_ Marko Costanzo<br>
+_Foley Mixer:_ Bruce Pross<br>
+_Foley Editors:_ Jennifer Ralston, Frank Kern<br>
+_Stunt Co-ordinator:_ Jery Hewitt<br>
+_Stunts:_ Jennifer Lamb, Vince Deadrick Jr, Lloyd Catlett<br>
+_Baby Wranglers:_ Pattie Cooke, Eileen Sullivan<br>
+_Animals:_ Animal Actors of Hollywood<br>
 
 **Cast**<br>
-Jeff Bridges _(Jeffrey Lebowski, ‘The Dude’)_
-John Goodman _(Walter Sobchak)_
-Julianne Moore _(Maude Lebowski)_
-Steve Buscemi _(Donny)_
-David Huddleston _(The Big Lebowski)_
-Philip Seymour Hoffman _(Brandt)_
-Tara Reid _(Bunny Lebowski)_
-Philip Moon, Mark Pellegrino _(Treehorn thugs)_
-Peter Stormare _(Uli, nihilist)_
-Flea, Torsten Voges _(nihilists)_
-Jimmie Dale Gilmore _(Smokey)_
-Jack Kehler _(Dude’s landlord)_
-John Turturro _(Jesus Quintana)_
-James G. Hoosier _(Quintana’s partner)_
-Carlos Leon, Terrance Burton _(Maude’s thugs)_
-Richard Gant _(older cop)_
-Christian Clemenson _(younger cop)_
-Dom Irrera _(Tony the chauffeur)_
-Gérard L’Heureux _(Lebowski’s chauffeur)_
-David Thewlis _(Knox Harrington)_
-Lu Elrod _(coffee shop waitress)_
-Michael Gomez _(auto circus cop)_
-Peter Siragusa _(Gary the bartender)_
-Sam Elliott _(the stranger)_
-Marshall Manesh _(doctor)_
-Harry Bugin _(Arthur Digby Sellers)_
-Jesse Flanagan _(little Larry Sellers)_
-Irene Olga López _(Pilar)_
-Luis Colina _(Corvette owner)_
-Ben Gazzara _(Jackie Treehorn)_
-Leon Russom _(Malibu police chief)_
-Ajgie Kirkland _(cab driver)_
-Jon Polito _(private snoop)_
-Aimee Mann _(nihilist woman)_
-Jerry Haleva _(Saddam)_
-Jennifer Lamb _(pancake waitress)_
-Warren David Keith _(Francis Donnelly, funeral director)_
+Jeff Bridges _(Jeffrey Lebowski, ‘The Dude’)_<br>
+John Goodman _(Walter Sobchak)_<br>
+Julianne Moore _(Maude Lebowski)_<br>
+Steve Buscemi _(Donny)_<br>
+David Huddleston _(The Big Lebowski)_<br>
+Philip Seymour Hoffman _(Brandt)_<br>
+Tara Reid _(Bunny Lebowski)_<br>
+Philip Moon, Mark Pellegrino _(Treehorn thugs)_<br>
+Peter Stormare _(Uli, nihilist)_<br>
+Flea, Torsten Voges _(nihilists)_<br>
+Jimmie Dale Gilmore _(Smokey)_<br>
+Jack Kehler _(Dude’s landlord)_<br>
+John Turturro _(Jesus Quintana)_<br>
+James G. Hoosier _(Quintana’s partner)_<br>
+Carlos Leon, Terrance Burton _(Maude’s thugs)_<br>
+Richard Gant _(older cop)_<br>
+Christian Clemenson _(younger cop)_<br>
+Dom Irrera _(Tony the chauffeur)_<br>
+Gérard L’Heureux _(Lebowski’s chauffeur)_<br>
+David Thewlis _(Knox Harrington)_<br>
+Lu Elrod _(coffee shop waitress)_<br>
+Michael Gomez _(auto circus cop)_<br>
+Peter Siragusa _(Gary the bartender)_<br>
+Sam Elliott _(the stranger)_<br>
+Marshall Manesh _(doctor)_<br>
+Harry Bugin _(Arthur Digby Sellers)_<br>
+Jesse Flanagan _(little Larry Sellers)_<br>
+Irene Olga López _(Pilar)_<br>
+Luis Colina _(Corvette owner)_<br>
+Ben Gazzara _(Jackie Treehorn)_<br>
+Leon Russom _(Malibu police chief)_<br>
+Ajgie Kirkland _(cab driver)_<br>
+Jon Polito _(private snoop)_<br>
+Aimee Mann _(nihilist woman)_<br>
+Jerry Haleva _(Saddam)_<br>
+Jennifer Lamb _(pancake waitress)_<br>
+Warren David Keith _(Francis Donnelly, funeral director)_<br>
 Holly Copeland, Karen Christenberry, Natalie Webb, Julie Bond, Kim Yates, Elizabeth A. Eaton, Lori Jo Birdsell, Kelly Sheerin, Kiva Dawson, Lisa C. Boltauzer, Alison Simpson, Lindsay Fellenbaum, Melissa Aggeles, Katherine Slay, Jennifer S. Garett, Danielle Nicole Parish, Jennifer Strovas, Jamie Green, Caitlin McLean, Michelle E. Swanson, Laurel Kitten, Joelle Martinec, Amy Tinkham, Mary Lee, Sandra Plazinic, Bree Turner, Carrie Macy, Jacqui Landrum, Martina Volpp, Danielle Marcus Janssen, Wendy Braun, Amy Warren, Michelle Rudy-Mirkovich _(dancers)_<br>
 
 USA/UK 1998©<br>
 117 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTcyMDcwM119
+eyJoaXN0b3J5IjpbMTQyOTY1NDkxOV19
 -->
