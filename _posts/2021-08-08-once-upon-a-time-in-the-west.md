@@ -35,65 +35,63 @@ It is tempting to see _Once upon a Time in the West_ as the outcome of the meeti
 
 Most major Western themes are there, but, through Leone’s artificial, operatic style, the film becomes a view from Europe, based on American historical mythology but presenting it precisely as an alien mythology. The traditional function of the Western is undercut and its iconography used to say, in effect, that it does not wash any more: that life in the West, past and present, is nasty, brutish and short; ‘heroes’ and villains pursue money; and nobility comes only through preserving personal dignity, avenging evil, and turning one’s back on the world created by corrupt and crazy moneymakers.  
 **David Nicholls, _Sight & Sound_, Winter 1980-81**
+<br><br>
 
-<![endif]-->
 
-**Once upon a Time in the West**
-
-**(C’era una volta il West)**
-
-_Director:_ Sergio Leone
+**ONCE UPON A TIME IN THE WEST**  
+**(C'ERA UNA VOLTA IL WEST)**<br>
+_Director:_ Sergio Leone<br>
 
 _Production Companies:_ Rafran Cinematografica, San Marco Cinematografica,  
 Euro International Films,  
-Paramount Pictures Corporation
+Paramount Pictures Corporation<br>
 
-_Executive Producer:_ Bino Cicogna
+_Executive Producer:_ Bino Cicogna<br>
 
-_Producer:_ Fulvio Morsella
+_Producer:_ Fulvio Morsella<br>
 
-_Production Supervisor:_ Ugo Tucci
+_Production Supervisor:_ Ugo Tucci<br>
 
-_Production Manager:_ Claudio Mancini
+_Production Manager:_ Claudio Mancini<br>
 
-_1st Assistant Director:_ Giancarlo Santi
+_1st Assistant Director:_ Giancarlo Santi<br>
 
-_Screenplay:_ Sergio Donati, Sergio Leone
+_Screenplay:_ Sergio Donati, Sergio Leone<br>
 
-_Dialogue:_ Mickey Knox
+_Dialogue:_ Mickey Knox<br>
 
 _Story:_ Dario Argento, Bernardo Bertolucci,  
-Sergio Leone
+Sergio Leone<br>
 
-_Director of Photography:_ Tonino Delli Colli
+_Director of Photography:_ Tonino Delli Colli<br>
 
-_Special Effects:_ Baciucchi
+_Special Effects:_ Baciucchi<br>
 
-_Editor:_ Nino Baragli
+_Editor:_ Nino Baragli<br>
 
-_Sets/Costumes:_ Carlo Simi
+_Sets/Costumes:_ Carlo Simi<br>
 
-_Make-up Supervisor:_ Alberto De Rossi
+_Make-up Supervisor:_ Alberto De Rossi<br>
 
-_Make-up:_ Giannetto De Rossi
+_Make-up:_ Giannetto De Rossi<br>
 
-_Hairdresser:_ Grazia De Rossi
+_Hairdresser:_ Grazia De Rossi<br>
 
 _Music Composed and Conducted by:_  
-Ennio Morricone
+Ennio Morricone<br>
 
-_Sound Recording:_ Claudio Maielli, Elio Pacella, Fausto Ancillai
+_Sound Recording:_ Claudio Maielli, Elio Pacella, Fausto Ancillai<br>
 
 _Sound Effects:_ Luciano Anzellotti,  
-Italo Cameracanna, Roberto Arcangeli
+Italo Cameracanna, Roberto Arcangeli<br>
 
-_Studio:_ Cinecittà
+_Studio:_ Cinecittà<br>
 
-_uncredited_
+_uncredited_<br>
 
-_Producer:_ Sergio Leone
+_Producer:_ Sergio Leone<br>
 
-_Administrator:_ Raffaele Forti
+_Administrator:_ Raffaele Forti<br>
 
 _Production Inspector:_ Camillo Teti
 
@@ -226,5 +224,5 @@ Italy/USA 1968©
 
 167 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTMwOTAxMjddfQ==
+eyJoaXN0b3J5IjpbLTE2OTcyNTU5ODRdfQ==
 -->
