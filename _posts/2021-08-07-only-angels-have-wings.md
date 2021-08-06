@@ -89,45 +89,31 @@ USA 1939©<br>
 120 mins<br>
 
 
-**BIG SCREEN CLASSICS**
-**Only Angels Have Wings**
-Sat 7 Aug 12:00; Tue 24 Aug 14:15; Tue 31 Aug 20:30
-**A Farewell to Arms**
-Sun 8 Aug 12:20; Fri 20 Aug 14:30; Wed 25 Aug 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large)
-**Boyz N the Hood**
-Mon 9 Aug 20:50
-**Matewan**
-Tue 10 Aug 14:15; Sun 15 Aug 18:20; Sat 21 Aug 12:20
-**Cutter’s Way**
-Wed 11 Aug 17:50 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large); Tue 17 Aug 14:30; Fri 20 Aug 20:50; Fri 27 Aug 20:50
-
-**The New World**
-
-Thu 12 Aug 14:30; Sun 22 Aug 12:00
-
-**Bob & Carol & Ted & Alice**
-
-Fri 13 Aug 20:45; Wed 18 Aug 17:50 (+ pre-recorded intro by Julie Lobalzo Wright, University of Warwick); Mon 23 Aug 14:30
-
-**Thelma and Louise**
-
-Sat 14 Aug 20:35; Sat 28 Aug 20:20
-
-**The Big Lebowski**
-
-Mon 16 Aug 20:50; Wed 25 Aug 14:15
-
-**Big Wednesday**
-
-Thu 19 Aug 17:50; Sun 29 Aug 18:10
-
-**Les Demoiselles de Rochefort (The Young Ladies of Rochefort)**
-
-Thu 26 Aug 17:40
-
-**Bright Star**
-
-Fri 27 Aug 17:50; Mon 30 Aug 18:10
+**BIG SCREEN CLASSICS**<br>
+**Only Angels Have Wings**<br>
+Sat 7 Aug 12:00; Tue 24 Aug 14:15; Tue 31 Aug 20:30<br>
+**A Farewell to Arms**<br>
+Sun 8 Aug 12:20; Fri 20 Aug 14:30; Wed 25 Aug 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large)<br>
+**Boyz N the Hood**<br>
+Mon 9 Aug 20:50<br>
+**Matewan**<br>
+Tue 10 Aug 14:15; Sun 15 Aug 18:20; Sat 21 Aug 12:20<br>
+**Cutter’s Way**<br>
+Wed 11 Aug 17:50 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large); Tue 17 Aug 14:30; Fri 20 Aug 20:50; Fri 27 Aug 20:50<br>
+**The New World**<br>
+Thu 12 Aug 14:30; Sun 22 Aug 12:00<br>
+**Bob & Carol & Ted & Alice**<br>
+Fri 13 Aug 20:45; Wed 18 Aug 17:50 (+ pre-recorded intro by Julie Lobalzo Wright, University of Warwick); Mon 23 Aug 14:30<br>
+**Thelma and Louise**<br>
+Sat 14 Aug 20:35; Sat 28 Aug 20:20<br>
+**The Big Lebowski**<br>
+Mon 16 Aug 20:50; Wed 25 Aug 14:15<br>
+**Big Wednesday**<br>
+Thu 19 Aug 17:50; Sun 29 Aug 18:10<br>
+**Les Demoiselles de Rochefort (The Young Ladies of Rochefort)**<br>
+Thu 26 Aug 17:40<br>
+**Bright Star**<br>
+Fri 27 Aug 17:50; Mon 30 Aug 18:10<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTc4MTg0XX0=
+eyJoaXN0b3J5IjpbLTE2MDM2MjUyMzhdfQ==
 -->
