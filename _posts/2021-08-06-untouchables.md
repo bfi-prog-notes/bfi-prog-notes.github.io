@@ -5,7 +5,7 @@ published: true
 date: 2021-08-06
 readtime: true
 categories: ['MORRICONE']
-tags: [Thriller, Period]
+tags: [Thriller, Crime, Period]
 metadata: 'USA 1987, 119 mins<br> Director: Brian De Palma'
 pdf: '2021-08-06-untouchables.pdf'
 ---
