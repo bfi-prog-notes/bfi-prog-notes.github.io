@@ -14,26 +14,13 @@ Within this world, the Dude – a ‘70s activist with The Seattle Seven and sig
 The casting of Jeff Bridges slyly capitalises on his image as Hollywood’s last good guy, an actor who can convincingly and affably embody nonconformist righteousness. He makes a wonderfully calibrated double act with John Goodman’s irascible Vietnam veteran converted to Judaism – a perfect character pairing for what looks like prime sitcom material. That might be finally what this is – a _Seinfeld_-style ‘film about nothing’, or about nothing more than the in-jokes that make the Coens giggle (the Dude, by all accounts, is based on a real-life acquaintance of theirs, one Jeff ‘the Dude’ Dowd, who really was a member of the activist group The Seattle Seven). But then, to make a film this thick with non-sequiturs, this defiantly slight, looks like a heroic act in contemporary US cinema. _The Big Lebowski_ is at once utterly inconsequential and a blow for a cinematic slacker aesthetic. Its moral payoff is that, like Marlowe, the Dude finally stays the same – he doesn’t need to be redeemed, brought into line with the world he inhabits. Likewise, the Coens, flouting the genre rules and gleefully pursuing their own amusement reserve the right to stay their ineffable, not remotely enigmatic selves.<br>
 **Jonathan Romney, _Sight and Sound_, May 1998**<br>
 
-<![endif]-->
-
-**<![endif]-->
-
-**THE BIG LEBOWSKI****
-
+**THE BIG LEBOWSKI**<br>
 _Director:_ Joel Coen
-
-_Production Companies:_
-
-PolyGram Filmed Entertainment,Working Title Films
-
+_Production Companies:_ PolyGram Filmed Entertainment,Working Title Films
 _Executive Producers:_ Tim Bevan, Eric Fellner
-
 _Producer:_ Ethan Coen
-
 _Co-producer:_ John Cameron
-
 _Executive in Charge of Production:_ Jane Frazer
-
 _Production Supervisor:_ Gilly Ruben
 
 _Production Co-ordinator:_ Gregg Edler
@@ -262,5 +249,5 @@ USA/UK 1998©
 
 117 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjI3NTAwN119
+eyJoaXN0b3J5IjpbLTExODk5Njc2MDVdfQ==
 -->
