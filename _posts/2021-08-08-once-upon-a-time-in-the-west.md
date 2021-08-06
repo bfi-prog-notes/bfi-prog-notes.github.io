@@ -40,6 +40,12 @@ Most major Western themes are there, but, through Leone’s artificial, operatic
 
 **ONCE UPON A TIME IN THE WEST**  
 **(C'ERA UNA VOLTA IL WEST)**<br>
+<![endif]-->
+
+**Once upon a Time in the West**
+
+**(C’era una volta il West)**
+
 _Director:_ Sergio Leone<br>
 
 _Production Companies:_ Rafran Cinematografica, San Marco Cinematografica,  
@@ -224,5 +230,5 @@ Italy/USA 1968©
 
 167 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTcyNTU5ODRdfQ==
+eyJoaXN0b3J5IjpbLTYwMjg1MTY4LC0xNjk3MjU1OTg0XX0=
 -->
