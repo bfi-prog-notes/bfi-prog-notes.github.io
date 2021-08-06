@@ -16,7 +16,6 @@ Alan Whicker attends the wedding of two homosexuals at a church in
 San Diego and investigates the development of the ‘Gay Liberation’ movement in the U.S.A.<br>
 
 **Whicker’s World in the Mediatheque**<br>
-
 Explore an extensive new collection of programmes from the BFI National Archive spanning Alan Whicker’s career. Book a free viewing session online or via the BFI Southbank box office.<br>
 
 
@@ -44,6 +43,5 @@ ITV tx 2.10.1973<br>
 UK 1973<br>
 52 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzY5Nzk2MzksLTIxNDUxNDI3MjFdfQ
-==
+eyJoaXN0b3J5IjpbNjk1NDM5NzcxLC0yMTQ1MTQyNzIxXX0=
 -->
