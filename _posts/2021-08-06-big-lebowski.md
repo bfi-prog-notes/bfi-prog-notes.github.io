@@ -15,54 +15,54 @@ The casting of Jeff Bridges slyly capitalises on his image as Hollywood’s last
 **Jonathan Romney, _Sight and Sound_, May 1998**<br>
 
 **THE BIG LEBOWSKI**<br>
-_Director:_ Joel Coen
-_Production Companies:_ PolyGram Filmed Entertainment,Working Title Films
-_Executive Producers:_ Tim Bevan, Eric Fellner
-_Producer:_ Ethan Coen
-_Co-producer:_ John Cameron
-_Executive in Charge of Production:_ Jane Frazer
-_Production Supervisor:_ Gilly Ruben
-_Production Co-ordinator:_ Gregg Edler
-_Unit Production Manager:_ John Cameron
-_Location Manager:_ Robert Graf
-_Post-production Supervisor:_ Charlie Vogel
-_1st Assistant Director:_ Jeff Rafner
-_Key 2nd Assistant Director:_ Conte Mark Matal
-_2nd 2nd Assistant Director:_ Donald Murphy
-_Script Supervisor:_ T. Kukowinski
-_Casting:_ John Lyons
-_Associate Casting:_ Wendy Weidman
-_Screenplay:_ Ethan Coen, Joel Coen
-_Director of Photography:_ Roger Deakins
-_Aerial Cameraman:_ Ron Goodman
-_Camera Operator:_ Ted Morris
-_Visual Effects Supervisor:_ Janek Sirrs
-_Visual Effects:_ Computer Film Company
-_Mechanical Effects Designer:_ Peter Chesney
-_Graphic Designer:_ Bradford Richardson
-_Editors:_ Roderick Jaynes, Tricia Cooke
-_Big Associate Editor:_ David Diliberto
-_Production Designer:_ Rick Heinrichs
-_Art Director:_ John Dexter
-_Set Designer:_ Mariko Braswell
-_Set Decorator:_ Chris Spellman
-_Storyboard Artist:_ J. Todd Anderson
-_Costume Designer:_ Mary Zophres
-_Costume Supervisor:_ Pam Withers
-_Make-up Supervisor:_ Jean Black
-_Make-up for Mr Jeff Bridges:_ Edouard Henriques
-_Hairstylist:_ Daniel Curet
-_Title Sequence / ‘Gutterball’ Titles Design/Production:_ Balsmeyer & Everett Inc
-_Opticals:_ John Alagna, Effects House, János Pilenyi, Cineric Inc
-_Music:_ Carter Burwell
-_Orchestrations:_ Carter Burwell, Sonny Kompanek
-_Music Supervisor:_ Happy Walters
-_Executive in Charge of Music for PFE:_ Dawn Solér
-_Music Co-ordinators:_ Spring Aspers, Manish Raval, Tom Wolfe
-_Music Contractor:_ Emile Charlap
-_Music Editor:_ Todd Kasow
-_Associate Music Editor:_ Missy Cohen
-_Music Engineer:_ Michael Farrow
+_Director:_ Joel Coen<br>
+_Production Companies:_ PolyGram Filmed Entertainment, Working Title Films<br>
+_Executive Producers:_ Tim Bevan, Eric Fellner<br>
+_Producer:_ Ethan Coen<br>
+_Co-producer:_ John Cameron<br>
+_Executive in Charge of Production:_ Jane Frazer<br>
+_Production Supervisor:_ Gilly Ruben<br>
+_Production Co-ordinator:_ Gregg Edler<br>
+_Unit Production Manager:_ John Cameron<br>
+_Location Manager:_ Robert Graf<br>
+_Post-production Supervisor:_ Charlie Vogel<br>
+_1st Assistant Director:_ Jeff Rafner<br>
+_Key 2nd Assistant Director:_ Conte Mark Matal<br>
+_2nd 2nd Assistant Director:_ Donald Murphy<br>
+_Script Supervisor:_ T. Kukowinski<br>
+_Casting:_ John Lyons<br>
+_Associate Casting:_ Wendy Weidman<br>
+_Screenplay:_ Ethan Coen, Joel Coen<br>
+_Director of Photography:_ Roger Deakins<br>
+_Aerial Cameraman:_ Ron Goodman<br>
+_Camera Operator:_ Ted Morris<br>
+_Visual Effects Supervisor:_ Janek Sirrs<br>
+_Visual Effects:_ Computer Film Company<br>
+_Mechanical Effects Designer:_ Peter Chesney<br>
+_Graphic Designer:_ Bradford Richardson<br>
+_Editors:_ Roderick Jaynes, Tricia Cooke<br>
+_Big Associate Editor:_ David Diliberto<br>
+_Production Designer:_ Rick Heinrichs<br>
+_Art Director:_ John Dexter<br>
+_Set Designer:_ Mariko Braswell<br>
+_Set Decorator:_ Chris Spellman<br>
+_Storyboard Artist:_ J. Todd Anderson<br>
+_Costume Designer:_ Mary Zophres<br>
+_Costume Supervisor:_ Pam Withers<br>
+_Make-up Supervisor:_ Jean Black<br>
+_Make-up for Mr Jeff Bridges:_ Edouard Henriques<br>
+_Hairstylist:_ Daniel Curet<br>
+_Title Sequence / ‘Gutterball’ Titles Design/Production:_ Balsmeyer & Everett Inc<br>
+_Opticals:_ John Alagna, Effects House, János Pilenyi, Cineric Inc<br>
+_Music:_ Carter Burwell<br>
+_Orchestrations:_ Carter Burwell, Sonny Kompanek<br>
+_Music Supervisor:_ Happy Walters<br>
+_Executive in Charge of Music for PFE:_ Dawn Solér<br>
+_Music Co-ordinators:_ Spring Aspers, Manish Raval, Tom Wolfe<br>
+_Music Contractor:_ Emile Charlap<br>
+_Music Editor:_ Todd Kasow<br>
+_Associate Music Editor:_ Missy Cohen<br>
+_Music Engineer:_ Michael Farrow<br>
 _Musical Archivist:_ T-Bone Burnett
 _Choreography:_ Bill Landrum, Jacqui Landrum
 _Sound Mixer:_ Allan Byer
@@ -122,7 +122,7 @@ Warren David Keith _(Francis Donnelly, funeral director)_
 Holly Copeland, Karen Christenberry, Natalie Webb, Julie Bond, Kim Yates, Elizabeth A. Eaton, Lori Jo Birdsell, Kelly Sheerin, Kiva Dawson, Lisa C. Boltauzer, Alison Simpson, Lindsay Fellenbaum, Melissa Aggeles, Katherine Slay, Jennifer S. Garett, Danielle Nicole Parish, Jennifer Strovas, Jamie Green, Caitlin McLean, Michelle E. Swanson, Laurel Kitten, Joelle Martinec, Amy Tinkham, Mary Lee, Sandra Plazinic, Bree Turner, Carrie Macy, Jacqui Landrum, Martina Volpp, Danielle Marcus Janssen, Wendy Braun, Amy Warren, Michelle Rudy-Mirkovich _(dancers)_<br>
 
 USA/UK 1998©<br>
-117 mins
+117 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2Njc5MTUxXX0=
+eyJoaXN0b3J5IjpbMjExOTcyMDcwM119
 -->
