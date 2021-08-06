@@ -18,15 +18,12 @@ In the old days badmen died decently. But in Sergio Leone’s derivative imitati
 <br><br>
 
 
-**FOR A Few Dollars More  (Per qualche dollaro in più)**  
+**FOR A FEW DOLLARS MORE  (PER QUALCHE DOLLARO IN PIÙ)**  
 _Director_: Sergio Leone  
-_Production Companies_:  
-P.E.A. – Produzioni Europee Associate,  
-Arturo González P.C., Constantin Film  
+_Production Companies_:  P.E.A. – Produzioni Europee Associate,  Arturo González P.C., Constantin Film  
 _Producer_: Alberto Grimaldi  
 _Production Manager_: Ottavio Oppo  
-_Production Supervisors_: Norberto Soliño,  
-Manuel Castedo  
+_Production Supervisors_: Norberto Soliño,  Manuel Castedo  
 _Production Secretary_: Antonio Palombi  
 _Assistant Director_: Tonino Valerii  
 _Continuity_: Maria Luisa Rosen  
@@ -40,24 +37,20 @@ _Special Effects_: Giovanni Corridori
 _Chief Editor_: Adriana Novelli  
 _Editors_: Eugenio Alabiso, Giorgio Serralonga  
 _Sets/Costumes_: Carlo Simi  
-_Assistant Art Directors_: Carlo Leva,  
-Raphael Ferri Jorda  
+_Assistant Art Directors_: Carlo Leva,  Raphael Ferri Jorda  
 _Head Make-up Artists_: Rino Carboni, Juan Farsac  
 _Make-up Assistant_: Amedeo Alessi  
 _Music by_: Ennio Morricone  
 _Music Conducted by_: Bruno Nicolai  
 _Sound_: Oscar De Arcangelis, Guido Ortenzi  
 _Sound Recorded at_: R.C.A.  
-_Synchronisation_:  
-International Recording Studios (Rome)  
+_Synchronisation_:  International Recording Studios (Rome)  
 _Music Publisher_: Eureka  
 _Interiors Filmed at_: Cinecittà
 
-_uncredited_
-
+_uncredited_  
 _Executive Producer_: Alfredo Fraile  
-_Assistant Producers_: José Sánchez,  
-Antonio Palombi  
+_Assistant Producers_: José Sánchez,  Antonio Palombi  
 _Production Supervisor_: Fernando Rossi  
 _Assistant Director_: Julio Sempere  
 _Assistant to the Director_: Fernando Di Leo  
@@ -74,12 +67,10 @@ _Make-up Assistant_: Isabel Mellado
 _Laboratory_: Fotofilm Madrid  
 _Guitar/Whistling_: Alessandro Alessandroni  
 _Choir_: Cantori Moderni di Alessandro Alessandroni  
-_Sound Mixer_: Renato Cadueri
-
+_Sound Mixer_: Renato Cadueri  
 _Synchronisation_: Fono España
 
-_Cast:_
-
+**Cast**  
 Clint Eastwood _(Monco)_  
 Lee Van Cleef _(Colonel Douglas Mortimer)_  
 Gian Maria Volonté _(El Indio)_  
@@ -132,5 +123,5 @@ Italy/Spain/West Germany 1965
 
 126 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQ4NzYyODZdfQ==
+eyJoaXN0b3J5IjpbLTEyMjk3Mzg2NzBdfQ==
 -->
