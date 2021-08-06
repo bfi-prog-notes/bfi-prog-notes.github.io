@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: A Farewell to Arms
+published: true
+date: 2021-08-08
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, War]
+metadata: 'USA, 1932, 89 mins<br> Director: Frank Borzage'
+pdf: '2021-08-07-farewell-to-arms.pdf'
+---
 
 Ernest Hemingway’s story of a doomed love affair between an American ambulance driver and a nurse is turned into a full-blown tearjerker by Frank Borzage. With luminous close-ups of Gary Cooper and Helen Hayes, kissing as bombs explode behind them and grand, swooping camerawork, Borzage evokes a glamour and exoticism more in keeping with old-style silent films than early talkies. The formal inventiveness, which helped the film to a Best Cinematography Oscar, is apparent throughout. At one stage, we’re treated to shots of chins and ceilings as the camera takes the point of view of the patient on a stretcher. At another, the lens stands in for Cooper’s mouth – and Hayes plants a wet, sloppy kiss on it. Adolphe Menjou is excellent as Cooper’s world-weary, womanising boss. Cooper himself shows his customary clumsy charm as the besotted lover, and the death-bed ending is guaranteed to melt the stoniest heart.<br>
 **_Sight & Sound_, May 1997**
@@ -17,8 +27,8 @@ _A Farewell to Arms_ is a heartrendingly brilliant example of his artistry. It h
 
 The evocation of the war-gutted landscape is memorable; though the opening scene may now show its age through the use of models, other sequences are distinguished by a nightmarishly strange Expressionism suggestive of a highly physical, agonised brutality. Lighting, composition, camera movement and choreography of the performers contribute to a _mise-en-scène_ of enormously expressive intensity.
 
-And then there is an astonishing climactic _Liebestod_. Whereas other filmmakers, as noted earlier, have tended to use the prospect of death as a button to produce tears, pity, anxiety or whatever in the viewer, and have avoided confronting the very real finality of a human’s life on earth, Borzage gets in there and grapples with it, rather as a Carl Dreyer, Ingmar Bergman or Terence Davies might do. If they come to different conclusions, that’s not what concerns me here; what matters is that in acknowledging the inevitability of death, their films tend to tell the truth as they see it. In Borzage’s _A Farewell to Arms_, that truth is at once as painful, as regenerative and, finally, as unfathomably mysterious as love itself.
-**Geoff Andrew, bfi.org.uk, 30 May 2014**
+And then there is an astonishing climactic _Liebestod_. Whereas other filmmakers, as noted earlier, have tended to use the prospect of death as a button to produce tears, pity, anxiety or whatever in the viewer, and have avoided confronting the very real finality of a human’s life on earth, Borzage gets in there and grapples with it, rather as a Carl Dreyer, Ingmar Bergman or Terence Davies might do. If they come to different conclusions, that’s not what concerns me here; what matters is that in acknowledging the inevitability of death, their films tend to tell the truth as they see it. In Borzage’s _A Farewell to Arms_, that truth is at once as painful, as regenerative and, finally, as unfathomably mysterious as love itself.<br>
+**Geoff Andrew, bfi.org.uk, 30 May 2014**<br>
 
 **A contemporary review**<br>
 This picture might well have been made only yesterday. It bears hardly any trace of age. In its total effect it is vivid, thrilling and poignant. The hopelessness of it all; the futility of war; the inevitability of the catastrophe are unerringly conveyed.
@@ -26,18 +36,15 @@ This picture might well have been made only yesterday. It bears hardly any trace
 The direction is admirable. It has restraint, purpose, and sympathy. The acting is outstandingly good. Gary Cooper has never, before or since, given a better performance. He conveys with his slightly diffident manner a great capacity for suffering, half revealed and half unexpressed, and the bewilderment resentment and despair of the ordinary man caught up in a tragedy beyond his comprehension. Helen Hayes is almost equally good. She brings a gay courage and a wistful charm to her part, and it is a pleasure to listen to her voice. The camera-work is imaginative and interesting, and the war scenes are most effectively staged.<br>
 **_Monthly Film Bulletin_, July 1938**<br>
 
-<![endif]-->
-
-**A FAREWELL TO ARMS**
+**A FAREWELL TO ARMS**<br>
 _Directed by_: Frank Borzage  
 _Production Company_: Paramount Productions  
 _Production by_: Frank Borzage  
-_Screen Play by_: Benjamin Glazer,  
-Oliver H.P. Garrett  
+_Screen Play by_: Benjamin Glazer, Oliver H.P. Garrett  
 _From the novel by_: Ernest Hemingway  
 _Photographed by_: Charles Lang
 
-_uncredited_
+_uncredited_<br>
 _Associate Producer_: Benjamin F. Glazer  
 _Business Manager_: Daniel Keefe  
 _Assistant to Benjamin Glazer_: Jean Negulesco  
@@ -54,11 +61,10 @@ _Art Director_: Roland Anderson
 _Props_: Joe Thompson, Clem Jones  
 _Costumes_: Travis Banton  
 _Wardrobe_: Ed Gross  
-_Music_: Ralph Rainger, John Leipold,  
-Bernard Kaun, Paul Marquardt, Herman Hand, W. Franke Harling  
+_Music_: Ralph Rainger, John Leipold, Bernard Kaun, Paul Marquardt, Herman Hand, W. Franke Harling  
 _Sound Recordist_: Harold Lewis  
-_Technical Adviser on War Sequences_:  Charles Griffin  
-_Technical Adviser Hospital Sequences_:  Dr A. Jardini  
+_Technical Adviser on War Sequences_: Charles Griffin  
+_Technical Adviser Hospital Sequences_: Dr A. Jardini  
 _Transportation/Props_: Joe Robbins  
 _General Press Agent_: Robert M. Gillham
 
@@ -115,6 +121,21 @@ Tue 24 Aug 14:15; Tue 31 Aug 20:30<br>
 Thu 26 Aug 17:40<br>
 **Bright Star**<br>
 Fri 27 Aug 17:50; Mon 30 Aug 18:10<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTU4ODg3Ml19
--->
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
