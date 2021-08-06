@@ -61,42 +61,23 @@ Diane Bernard _(Agatha)_ *<br>
 Jack Mower _(veterinarian)_ *<br>
 William Worthington _(first specialist)_ *<br>
 Alexander Leftwich _(second specialist)_ *<br>
-
 Ila Rhodes _(secretary)_ *<br>
-
 Stuart Holmes _(doctor)_ *<br>
-
 Frank Darien _(anxious little man)_ *<br>
-
 Johnny Harron _(1st man)_ *<br>
-
 John Ridgely _(2nd man)_ *<br>
-
 Sidney Bracey _(bartender)_ *<br>
-
 Rosella Towne _(girl in box)_ *<br>
-
 Edgar Edwards _(trainer)_ *<br>
-
-Jeffrey Sayre, Will Morgan, Wedgewood Nowell,
-
-Nat Carr, Ed Graham, Jack Goodrich _(doctors)_ *<br>
-
-Maris Wrixon, Richard Bond, Wilda Bennett,
-
-Leyland Hodgson, Mary Currier, David Newell,
-
-Marian Alden, Paulette Evans, Frank Mayo
-
-_(Judith’s friends)_ *<br>
-
+Jeffrey Sayre, Will Morgan, Wedgewood Nowell, Nat Carr, Ed Graham, Jack Goodrich _(doctors)_ *<br>
+Maris Wrixon, Richard Bond, Wilda Bennett, Leyland Hodgson, Mary Currier, David Newell, Marian Alden, Paulette Evans, Frank Mayo _(Judith’s friends)_ *<br>
 Speirs Ruskell _(Dr Steele’s assistant)_ *<br>
 
 USA 1939©<br>
-
 104 mins
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU1NDMyOThdfQ==
+eyJoaXN0b3J5IjpbLTg4MTMxOTk4XX0=
 -->
