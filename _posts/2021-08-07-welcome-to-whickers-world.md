@@ -12,10 +12,12 @@ Often ahead of his time, Whicker covered a huge range of subjects reflecting all
 Alan Whicker remembers some of the most memorable characters and places he has encountered on his globe-trotting adventures: Percy Shaw, inventor of Cat’s Eyes for roads; author Harold Robbins; Peter Sellers; President Alfredo Stroessner of Paraguay; the Hutt River Province Principality in Western Australia; Papa Doc, Haiti. _Money and Power_ is the second of three programmes in which Alan Whicker looked back over his 25 years in television, recalling some of the most memorable incidents, personalities and locations.<br>
 
 **The Lord Is My Shepherd and He Knows I Am Gay**<br>
+
 Alan Whicker attends the wedding of two homosexuals at a church in  
 San Diego and investigates the development of the ‘Gay Liberation’ movement in the U.S.A.<br>
 
 **Whicker’s World in the Mediatheque**<br>
+
 Explore an extensive new collection of programmes from the BFI National Archive spanning Alan Whicker’s career. Book a free viewing session online or via the BFI Southbank box office.<br>
 
 
@@ -45,5 +47,5 @@ UK 1973
 
 52 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODExNzgyM119
+eyJoaXN0b3J5IjpbLTIxNDUxNDI3MjEsMTQ4ODExNzgyM119
 -->
