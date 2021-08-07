@@ -1,6 +1,16 @@
+---
+layout: post
+title: Flame in the Streets
+published: true
+date: 2021-08-08
+readtime: true
+categories: ['EARL CAMERON']
+tags: [Drama]
+metadata: 'UK, 1961, 93 mins<br> Director: Roy Baker'
+pdf: '2021-08-08-flame in the street.pdf'
+---
 
-_Flame in the Streets_ originated in a stage play, _Hot Summer Night_, which  
-Ted Willis wrote in 1958 and adapted for television the following year as part of ABC’s Armchair Theatre, which also provided an outlet for playwrights like Harold Pinter, Clive Exton and Alun Owen. The plays were made with tiny budgets, used only two or three sets and were necessarily dependent on good scripts and acting. Willis’ play fitted the format very well.
+_Flame in the Streets_ originated in a stage play, _Hot Summer Night_, which Ted Willis wrote in 1958 and adapted for television the following year as part of ABC’s Armchair Theatre, which also provided an outlet for playwrights like Harold Pinter, Clive Exton and Alun Owen. The plays were made with tiny budgets, used only two or three sets and were necessarily dependent on good scripts and acting. Willis’ play fitted the format very well.
 
 On a hot summer evening Jacko Palmer, a trade union official, returns to his humble home in Wapping, confronts a problem with his subordinates who are reluctant to endorse the promotion of a black man to a chargehand position, and then discovers that his only daughter, who has risen out of the working class to become a teacher, wants to marry a black man. Jacko is not very pleased but is loath to jettison his liberal principles. ‘I can’t support one man in the factory and bar another one from my own home,’ he says, and he is prepared to go along with his daughter’s decision. But for his wife Nell it is a more serious matter. Having fought against poverty and squalor all her life and endured an unsatisfactory marriage to a bullyingly inconsiderate husband for the sake of her daughter, she is not prepared to see her end up ‘in one room with a horde of black children.’ Thus the race theme, though important, is subsumed under general family crisis.
 
@@ -17,8 +27,7 @@ Like most of Willis’ work, _Flame in the Streets_ suffers from being pedantica
 Inevitably in the shift of emphasis from the particular to the general there is a heavier reliance on simplification and stereotyping, but this a price worth paying. In _Hot Summer Night_, where virtually all the action takes place in the Palmer home and the conflict is essential within the family, resolution comes through a simple act of realism and generosity. Jacko, his eyes opened to the needs and desires of his wife and daughter, makes amends for his past blindness by promising that he and Nell will move out of the poky little house which his wife hate, thus leaving it empty for Kathie and her black husband.  
 
 In _Flame in the Streets_, where issues and events are exposed more to the real world (the location shooting in Notting Hill and Alex Vetchinsky’s superb detailed sets give a very solid sense of place), such a solution would be implausible; and matters are more ambiguously resolved with the two couples, battered by the emotional turmoil they have been through, making tentative efforts to find a common ground.<br>
-**Extracted from _Sixties British Cinema_ by Robert Murphy (BFI Publishing, 1992)  
-Reproduced by kind permission of Bloomsbury Publishing. ©Robert Murphy**<br>
+**Extracted from _Sixties British Cinema_ by Robert Murphy (BFI Publishing, 1992) Reproduced by kind permission of Bloomsbury Publishing. ©Robert Murphy**<br>
 
 
 **FLAME IN THE STREETS**<br>
@@ -44,7 +53,7 @@ _Music:_ Philip Green
 _Sound Recording:_ Dudley Messenger, Gordon K. McCallum  
 _Sound Editor:_ Harry Miller  
  
-**Cast**
+**Cast**<br>
 John Mills _(Jacko Palmer)_  
 Sylvia Syms _(Kathie Palmer)_  
 Brenda De Banzie _(Nell Palmer)_  
@@ -77,7 +86,6 @@ UK 1961©<br>
 \* Uncredited<br>
 
 
-
 **EARL CAMERON<br>
 BRITAIN’S FIRST BLACK SCREEN STAR**<br>
 **Flame in the Streets**<br>
@@ -94,6 +102,32 @@ Wed 18 Aug 20:40<br>
 Wed 25 Aug 20:50<br>
 **Two Gentlemen Sharing**<br>
 Mon 23 Aug 20:30<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzg0NDEwNzldfQ==
--->
+
+
+
+Season co-curated by actor-director Burt Caesar and the BFI’s Marcus Prince and David Somerset.<br>
+<br>
+Promotional partner <br>
+<img style="float: left;" src="/img/partner/Black Cultural Archives.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
+<br>
+<br>
+
+**Please note:** many of these films contain language, images or other content that reflect views prevalent in its time, but that may cause offence today. The titles are included here for historical, cultural or aesthetic reasons and these views are in no way endorsed by the BFI or its partners.<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
