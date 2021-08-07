@@ -80,29 +80,20 @@ UK 1961©<br>
 
 **EARL CAMERON<br>
 BRITAIN’S FIRST BLACK SCREEN STAR**<br>
-**Flame in the Streets**
-Sun 8 Aug 15:00; Sat 28 Aug 17:10
-**Sapphire**
-Tue 10 Aug 20:20 (+ discussion); Sat 28 Aug 13:00
-**The Fear of Strangers** (+ intro) + **The Chocolate Tree**
-
-Sat 14 July 14:10
-
-**Thunder on Sycamore Street** + discussion with Actor Ashley Walters (schedule permitting) and playwright Stephen S Thompson)
-
-Sat 14 Aug 17:30
-
-**African Odysseys present: A Warm December**
-
-Wed 18 Aug 20:40
-
-**Pool of London**
-
-Wed 25 Aug 20:50
-
-**Two Gentlemen Sharing**
-
-Mon 23 Aug 20:30
+**Flame in the Streets**<br>
+Sun 8 Aug 15:00; Sat 28 Aug 17:10<br>
+**Sapphire**<br>
+Tue 10 Aug 20:20 (+ discussion); Sat 28 Aug 13:00<br>
+**The Fear of Strangers** (+ intro) + **The Chocolate Tree**<br>
+Sat 14 July 14:10<br>
+**Thunder on Sycamore Street** + discussion with Actor Ashley Walters (schedule permitting) and playwright Stephen S Thompson)<br>
+Sat 14 Aug 17:30<br>
+**African Odysseys present: A Warm December**<br>
+Wed 18 Aug 20:40<br>
+**Pool of London**<br>
+Wed 25 Aug 20:50<br>
+**Two Gentlemen Sharing**<br>
+Mon 23 Aug 20:30<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDY1NzE3OV19
+eyJoaXN0b3J5IjpbLTEwMzg0NDEwNzldfQ==
 -->
