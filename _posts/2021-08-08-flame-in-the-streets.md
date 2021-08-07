@@ -15,9 +15,69 @@ The collapse of her primness and formality into hysterical abuse in her attack o
 Like most of Willis’ work, _Flame in the Streets_ suffers from being pedantically well-meaning, but in contrast to the patrician aloofness of Dearden and Relph, Willis gets much closer to his working-class protagonists. Such characters as Jacko Palmer – a skilled craftsman in furniture factory and a strong unionist – appear much less frequently in British films than their lower middle-class equivalents like Bernard Miles’ Mr Harris (a signwriter with his own small business) in _Sapphire_. As in _Sapphire_, the plot allows for an exploration of an ‘unknown London’ – the racially mixed area of Notting Hill – and an examination of the prejudice and sexual frustration lying beneath the civilised veneer of respectable white society. In this respect Jacko’s family comes out of it rather better than the Harrises. Whereas David Harris is shamefacedly prepared to forgive and forget that the attractive white girl he loves has black blood, Kathie Palmer is fascinated by her black boyfriend’s air of exoticism. She accepts her father’s teachings at face value and sees no reason why other people’s prejudices should come between her and the man she loves. Jacko is exposed less as a bigot than as a man who, living his life according to the union rule book, has lost his capacity for dealing with personal, emotional issues. (As his wily old dad – played by Wilfred Brambell – tells him, ‘You can’t put this on the agenda as “Any other business”.’)
 
 Inevitably in the shift of emphasis from the particular to the general there is a heavier reliance on simplification and stereotyping, but this a price worth paying. In _Hot Summer Night_, where virtually all the action takes place in the Palmer home and the conflict is essential within the family, resolution comes through a simple act of realism and generosity. Jacko, his eyes opened to the needs and desires of his wife and daughter, makes amends for his past blindness by promising that he and Nell will move out of the poky little house which his wife hate, thus leaving it empty for Kathie and her black husband.  
+
 In _Flame in the Streets_, where issues and events are exposed more to the real world (the location shooting in Notting Hill and Alex Vetchinsky’s superb detailed sets give a very solid sense of place), such a solution would be implausible; and matters are more ambiguously resolved with the two couples, battered by the emotional turmoil they have been through, making tentative efforts to find a common ground.<br>
 **Extracted from _Sixties British Cinema_ by Robert Murphy (BFI Publishing, 1992)  
-Reproduced by kind permission of Bloomsbury Publishing. ©Robert Murphy**
+Reproduced by kind permission of Bloomsbury Publishing. ©Robert Murphy**<br>
+
+<![endif]-->
+
+**Flame in the Street**<br>
+_Director:_ Roy Baker  
+_Production Company:_
+
+Rank Organisation Film Productions Ltd  
+_In association with:_ Somerset Productions  
+_Executive Producer:_ Earl St. John  
+_Producer:_ Roy Baker  
+_Associate Producer:_ Jack Hanbury  
+_Production Manager:_ Charles Orme  
+_Assistant Director:_ Stanley Hosgood  
+_Continuity:_ Penny Daniels  
+_Screenplay based on his own story:_ Ted Willis  
+_Director of Photography:_ Christopher Challis  
+_Camera Operator:_ David Harcourt  
+_Editor:_ Roger Cherrill  
+_Art Director:_ Alex Vetchinsky  
+_Set Dresser:_ Arthur Taksen  
+_Costume Designer:_ Yvonne Caffin  
+_Make-up:_ W.T. Partleton  
+_Hairdresser:_ Stella Rivers  
+_Music:_ Philip Green  
+_Sound Recording:_ Dudley Messenger, Gordon K. McCallum  
+_Sound Editor:_ Harry Miller  
+ 
+**Cast**
+John Mills _(Jacko Palmer)_  
+Sylvia Syms _(Kathie Palmer)_  
+Brenda De Banzie _(Nell Palmer)_  
+Earl Cameron _(Gabriel Gomez)_  
+Johnny Sekka _(Peter Lincoln)_  
+Ann Lynn _(Judy Gomez)_  
+Wilfrid Brambell _(Mr Palmer Sr)_  
+Meredith Edwards _(Harry Mitchell)_  
+Newton Blick _(Visser)_  
+Glyn Houston _(Hugh Davies)_  
+Michael Wynne _(Les)_  
+Dan Jackson _(Jubilee)_  
+Cyril Chamberlain _(James Dowell)_  
+Gretchen Franklin _(Mrs Bingham)_  
+Harry Baird _(Billy)_  
+Max Butterfield _(first lout)_  
+Larry Martyn _(second corner boy)_  
+Irvin Allen _(Christie)_  
+Lionel Ngakane _(Sam)_ *  
+Corinne Skinner _(Mrs Jackson)_ *  
+William Ingram _(Gerry)_ *  
+Brian McDermott _(Tim)_ *  
+Bari Johnson _(Mickey)_ *  
+Joan Jason _(second black girl)_ *  
+Sonny McKenzie _(Mrs Jackson)_ *
+
+UK 1961©<br>
+93 min<br>
+
+\* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzMwODM1ODBdfQ==
+eyJoaXN0b3J5IjpbLTU3NzM5ODE0OF19
 -->
