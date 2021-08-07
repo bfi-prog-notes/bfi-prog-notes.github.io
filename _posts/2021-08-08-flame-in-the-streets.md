@@ -20,13 +20,10 @@ In _Flame in the Streets_, where issues and events are exposed more to the real 
 **Extracted from _Sixties British Cinema_ by Robert Murphy (BFI Publishing, 1992)  
 Reproduced by kind permission of Bloomsbury Publishing. ©Robert Murphy**<br>
 
-<![endif]-->
 
-**Flame in the Street**<br>
+**FLAME IN THE STREETS**<br>
 _Director:_ Roy Baker  
-_Production Company:_
-
-Rank Organisation Film Productions Ltd  
+_Production Company:_ Rank Organisation Film Productions Ltd  
 _In association with:_ Somerset Productions  
 _Executive Producer:_ Earl St. John  
 _Producer:_ Roy Baker  
@@ -77,7 +74,35 @@ Sonny McKenzie _(Mrs Jackson)_ *
 UK 1961©<br>
 93 min<br>
 
-\* Uncredited
+\* Uncredited<br>
+
+
+
+**EARL CAMERON<br>
+BRITAIN’S FIRST BLACK SCREEN STAR**<br>
+**Flame in the Streets**
+Sun 8 Aug 15:00; Sat 28 Aug 17:10
+**Sapphire**
+Tue 10 Aug 20:20 (+ discussion); Sat 28 Aug 13:00
+**The Fear of Strangers** (+ intro) + **The Chocolate Tree**
+
+Sat 14 July 14:10
+
+**Thunder on Sycamore Street** + discussion with Actor Ashley Walters (schedule permitting) and playwright Stephen S Thompson)
+
+Sat 14 Aug 17:30
+
+**African Odysseys present: A Warm December**
+
+Wed 18 Aug 20:40
+
+**Pool of London**
+
+Wed 25 Aug 20:50
+
+**Two Gentlemen Sharing**
+
+Mon 23 Aug 20:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzM5ODE0OF19
+eyJoaXN0b3J5IjpbMTk3MDY1NzE3OV19
 -->
