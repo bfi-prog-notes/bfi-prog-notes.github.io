@@ -73,101 +73,51 @@ _Men’s Wardrobe:_ Gerard Green<br>
 _Make-up:_ Jamie Brown<br>
 _Hairstylist:_ Bertine Taylor<br>
 _Title Design:_ Dan Perri<br>
-
 _Music/Music Conductor:_ Ennio Morricone<br>
-
 _Additional Music:_ Leo Kottke<br>
-
 _Harmonica:_ Rick Smith<br>
-
-_Music Co-ordinators:_ Gabriella Belloni,
-
-Enrico Demelis, Denny Bruce<br>
-
+_Music Co-ordinators:_ Gabriella Belloni, Enrico Demelis, Denny Bruce<br>
 _Music Editors:_ Dan Carlin Jr, Ted Roberts<br>
-
 _Music Mixer:_ Robert Glass Jr<br>
-
 _Sound Mixers:_ George Ronconi, Barry Thomas<br>
-
-_Special Audio Assistants:_ Allen Byers,
-
-Robert Burton, Alan Splet<br>
-
+_Special Audio Assistants:_ Allen Byers, Robert Burton, Alan Splet<br>
 _Sound:_ Glen Glenn Sound<br>
-
-_Glen Glenn Sound Crew:_ Robert Thirlwell,
-
-Jean Marler, Peter Gregory, Joe Wachter<br>
-
+_Glen Glenn Sound Crew:_ Robert Thirlwell, Jean Marler, Peter Gregory, Joe Wachter<br>
 _MGM Supervising Engineer:_ Chet Luton<br>
-
-_Dolby Consultants:_ Steve Katz, Philip Boole,
-
-Clyde McKinney<br>
-
+_Dolby Consultants:_ Steve Katz, Philip Boole, Clyde McKinney<br>
 _Boom Men:_ Louie Hogue, Glen Lambert<br>
-
 _Re-recording Mixer:_ John Wilkinson<br>
-
 _Negative Cutter:_ Barbara Morrison<br>
-
 _Special Sound Effects:_ James Cox<br>
-
 _Sound Effects:_ Neiman-Tillar Associates<br>
-
 _Sound Effects Mixer:_ John Reitz<br>
-
-_Sound Effects Editors:_ Colin Mouat,  
-Charles Campbell<br>
-
+_Sound Effects Editors:_ Colin Mouat,  Charles Campbell<br>
 _Stunt Flying:_ Erin Talbott, Joe Watts<br>
-
 _Technical Adviser:_ Clenton Owensby<br>
+_Wranglers:_ John Scott, Isabella Miller, Reg Glass, Bob Wilson, Joe Dodds, Dixie Gray<br>
 
-_Wranglers:_ John Scott, Isabella Miller,
-
-Reg Glass, Bob Wilson, Joe Dodds, Dixie Gray<br>
-
-_Cast:_<br>
-
+**Cast**<br>
 Richard Gere _(Bill)_<br>
-
 Brooke Adams _(Abby)_<br>
-
 Sam Shepard _(the farmer)_<br>
-
 Linda Manz _(Linda)_<br>
-
 Robert Wilke _(farm foreman)_<br>
-
 Jackie Shultis _(Linda’s friend)_<br>
-
 Stuart Margolin _(mill foreman)_<br>
-
 Tim Scott _(harvest hand)_<br>
-
 Gene Bell _(dancer)_<br>
-
 Doug Kershaw _(fiddler)_<br>
-
 Richard Libertini _(vaudeville leader)_<br>
-
 Frenchie Lemond _(vaudeville wrestler)_<br>
-
 Sahbra Markus _(vaudeville dancer)_<br>
-
 Bob Wilson _(accountant)_<br>
-
 Muriel Jolliffe _(headmistress)_<br>
-
 John Wilkinson _(preacher)_<br>
-
 King Cole _(farm worker)_<br>
 
 USA 1978©<br>
-
 94 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2MzMzMzA1XX0=
+eyJoaXN0b3J5IjpbLTQ1MjIzOTI1NV19
 -->
