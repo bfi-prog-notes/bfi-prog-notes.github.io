@@ -1,8 +1,16 @@
+---
+layout: post
+title: Days of Heaven
+published: true
+date: 2021-08-09
+readtime: true
+categories: ['MORRICONE']
+tags: [Drama, Period]
+metadata: 'USA 1978, 94 mins<br> Director: Terrence Malick'
+pdf: '2021-08-09-days-of-heaven.pdf'
+---
 
-
-Despite being second choice after guitarist Leo Kottke opted to write songs rather than the entire score, Morricone received his first Oscar nomination for Terrence Malick’s elegiac tale of the Texas Panhandle in the mid-1910s.  
-In many ways, the rustic themes make this the flipside of a compositional coin with his work on Bernardo Bertolucci’s _1900_ (1976). The ghost of Giuseppe Verdi haunts that epic account of Italy’s descent into fascism, but it’s the  
-7th movement of Camille Saint-Saëns’s _Carnival of the Animals_, that inspired Morricone’s pastoral theme, ‘Aquarium’. It’s complemented by the equally enchanting string serenade, ‘Harvest’; the deft flute piece, ‘Happiness’; and a love theme that contains echoes of the score that Vincent Ward would reject for _What Dreams May Come_ (1998).
+Despite being second choice after guitarist Leo Kottke opted to write songs rather than the entire score, Morricone received his first Oscar nomination for Terrence Malick’s elegiac tale of the Texas Panhandle in the mid-1910s.  In many ways, the rustic themes make this the flipside of a compositional coin with his work on Bernardo Bertolucci’s _1900_ (1976). The ghost of Giuseppe Verdi haunts that epic account of Italy’s descent into fascism, but it’s the  7th movement of Camille Saint-Saëns’s _Carnival of the Animals_, that inspired Morricone’s pastoral theme, ‘Aquarium’. It’s complemented by the equally enchanting string serenade, ‘Harvest’; the deft flute piece, ‘Happiness’; and a love theme that contains echoes of the score that Vincent Ward would reject for _What Dreams May Come_ (1998).
 
 By contrast, there’s dramatic urgency in ‘The Fire’, which swirls around the locust swarm and the billowing blaze. All of which leaves you wondering why Malick kept feeling the need to interfere with the maestro’s process.  
 **David Parkinson, bfi.org.uk**
@@ -12,8 +20,7 @@ At the risk of being accused of repeating himself, Terrence Malick has here virt
 
 Following a black-and-white montage of photographs summing up the legacy of the industrial revolution, two images perfectly describe the totality of the urban inferno: outside, under a bleak sky, women drudge through a mountain of slag in quest of fragments of coal; inside, roasted by hellish flames, men toil like robots to keep the furnaces alive. Then, seen silhouetted against the skyline with people clinging to every inch of its surface, the train looms as a Noah’s ark heading for the promise of a new world, seemingly fulfilled as the paradise of the Texan wheat fields begin to stretch away, golden and lazily waving, as far as the eye can see. ‘All three of us been going places, looking for things, searching for things, going on adventures,’ Linda’s commentary had cheerfully started, almost immediately introducing a note of apocalypse as she describes the forebodings of a stranger on the train. ‘He told me the whole earth was going up in flames ... There’s gonna be creatures running every which way, some of them burned, half their wings burning. People are gonna be screamin’ and hollerin’ for help ...’
 
-Lush and pastoral, with herds of bison tranquilly grazing within reach of the harvesters, the Texan wheat fields seem to deny this vision as absurd.  
-Yet already the farmer’s stately mansion, perched in solitary splendour on the skyline in echo of _Giant_ and apparently devoid of human inhabitants, looms as a House of Usher doomed to fall under the weight of human loneliness and folly. Already steam engines are rumbling in, shaking the earth as they haul in the machinery to make the harvesting easier, quicker, more profitable. Already the animals are cowering in fear as their domain is invaded. And as the harvest reaches its frenzied climax, one shot of a mechanical separator belching choking clouds of chaff and grain into the parched atmosphere is enough to signal the parallel (unnecessarily stressed by a flash cut-in) with the furnaces of Chicago. This, one might say, is the thesis of the film, echoed by Bill’s Horatio Algerish rather than socialistic determination to wage his own war on poverty: ‘We got to do something about it; can’t expect anybody else to.’
+Lush and pastoral, with herds of bison tranquilly grazing within reach of the harvesters, the Texan wheat fields seem to deny this vision as absurd.  Yet already the farmer’s stately mansion, perched in solitary splendour on the skyline in echo of _Giant_ and apparently devoid of human inhabitants, looms as a House of Usher doomed to fall under the weight of human loneliness and folly. Already steam engines are rumbling in, shaking the earth as they haul in the machinery to make the harvesting easier, quicker, more profitable. Already the animals are cowering in fear as their domain is invaded. And as the harvest reaches its frenzied climax, one shot of a mechanical separator belching choking clouds of chaff and grain into the parched atmosphere is enough to signal the parallel (unnecessarily stressed by a flash cut-in) with the furnaces of Chicago. This, one might say, is the thesis of the film, echoed by Bill’s Horatio Algerish rather than socialistic determination to wage his own war on poverty: ‘We got to do something about it; can’t expect anybody else to.’
 
 At which point the film turns the thesis inside out in acknowledgment of the follies and frailties of the human heart. Unexpectedly, the phoney marriage turns into a true one; equally unexpectedly, the hungry intruders on wealth react with grace rather than with acquisitive greed; and against all odds, the quartet are forged momentarily into a tight family unit, imperfect only because the initial lie means that Bill can neither remain nor bow out without destroying it. Almost achieved here, but disrupted from within, is the utopic balance that Linda reaches for in her attempt to explain Bill’s motivation: ‘He figured some people need more than they got, other people got more than they need.’  Man, in other words, is turning in a vicious circle, destroying his earth in quest of the profit by which he is incapable of profiting.
 
@@ -118,6 +125,69 @@ King Cole _(farm worker)_<br>
 USA 1978©<br>
 94 mins
 <br><br>
+
+**MORRICONE**<br>
+**The Battle of Algiers (La battaglia di Algeri)**<br>
+Sun 1 Aug 15:10; Wed 25 Aug 14:30<br>
+**The Sounds of Ennio Morricone**<br>
+Mon 2 Aug 18:10<br>
+**A Fistful of Dollars (Per un pugno di dollari)**<br>
+Mon 2 Aug 20:45; Sat 7 Aug 11:30;  Tue 10 Aug 20:50; Mon 30 12:20<br>
+**Two Mules for Sister Sara**<br>
+Wed 4 Aug 18:00; Sat 21 Aug 20:30<br>
+**Salò, or the 120 Days of Sodom  (Salò o Le 120 giornate di Sodoma)**<br>
+Thu 5 Aug 20:45; Tue 10 Aug 17:45;  Wed 25 Aug 17:50<br>
+**The Untouchables**<br>
+Fri 6 Aug 17:45; Tue 24 Aug 14:30<br>
+**The Thing**<br>
+Fri 6 Aug 20:50; Tue 24 Aug 20:50<br>
+**For a Few Dollars More  (Per qualche dollaro in più)**<br>
+Sat 7 Aug 14:00; Sun 22 Aug 12:10;  Mon 30 Aug 15:00<br>
+**The Good, the Bad and the Ugly  (Il buono, il brutto, il cattivo)**<br>
+Sat 7 Aug 17:10; Sun 29 Aug 18:20;  Mon 30 Aug 18:15<br>
+**White Dog**<br>
+Sat 7 Aug 20:50; Fri 20 Aug 18:10; Fri 27 Aug 20:45<br>
+**Once upon a Time in the West  (C’era una volta il west)**<br>
+Sun 8 Aug 12:00; Fri 27 Aug 14:00;  Tue 31 Aug 14:00<br>
+**The Mission**<br>
+Sun 8 Aug 15:10; Thu 12 Aug 20:30;  Thu 26 Aug 18:00<br>
+**Days of Heaven**<br>
+Mon 9 Aug 21:00; Tue 31 Aug 17:50<br>
+**Tie Me Up, Tie Me Down (Atame!)**<br>
+Wed 11 Aug 20:50; Thu 19 Aug 14:15;  Mon 23 Aug 21:00; Tue 31 Aug 20:45<br>
+**The Hateful Eight**<br>
+Sun 15 Aug 15:00; Sun 22 Aug 18:00<br>
+**Once upon a Time in America**<br>
+Tue 17 Aug 17:40; Sat 28 Aug 11:20<br>
+**The Legend of 1900  (La leggenda del pianista sull’oceano)**<br>
+Sat 21 Aug 11:50; Sun 29 Aug 15:10<br>
+**Cinema Paradiso (Nuovo Cinema Paradiso)**<br>
+Sat 21 Aug 14:30; Thu 26 Aug 14:30<br>
+<br>
+
+**Promotional partner**  
+<img style="float: left;" src="/img/partner/scala-radio-logo.png" alt="Scala Radio" title="Scala Radio">
+<br><br><br><br><br><br><br><br><br><br>
+**planetradio.co.uk/scala-radio**  
+<br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTQ1MjIzOTI1NV19
 -->
