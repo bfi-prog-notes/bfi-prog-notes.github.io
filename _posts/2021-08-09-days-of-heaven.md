@@ -24,120 +24,54 @@ Having conjured the old Eden on its last legs, its course of self-destruction ha
 <br><br>
 
 **DAYS OF HEAVEN**<br>
-
 _Directed by:_ Terrence Malick<br>
-
-_©/Production Company:_  
-Paramount Pictures Corporation<br>
-
+_©/Production Company:_  Paramount Pictures Corporation<br>
 _Production Company:_ O.P. Productions<br>
-
 _Executive Producer:_ Jacob Brackman<br>
-
 _Produced by:_ Bert Schneider, Harold Schneider<br>
-
 _Production Manager:_ Les Kimber<br>
-
 _2nd Unit Manager:_ Coulter Adams<br>
-
 _Senior Accountant:_ Edward Hill<br>
-
 _Location Accountant:_ Heather McIntosh<br>
-
-_Executive Assistant to Bert Schneider:_
-
-Blue André<br>
-
+_Executive Assistant to Bert Schneider:_ Blue André<br>
 _Researchers:_ Irene Malick, Susan Vermazen, Rosalia Purdum, Peter Neufeld, Nathalie Seaver<br>
-
 _2nd Unit Director:_ Jacob Brackman<br>
-
 _Assistant Director:_ Skip Cosper<br>
-
-_2nd Assistant Directors:_ Rob Lockwood,
-
-Martin Walters<br>
-
+_2nd Assistant Directors:_ Rob Lockwood, Martin Walters<br>
 _Special Assistants to the Director:_ Nancy Kaclik, Peter Broderick<br>
-
 _Script Supervisor:_ Wally Bennett<br>
-
 _Casting:_ Dianne Crittenden<br>
-
 _Written by:_ Terrence Malick<br>
-
 _Director of Photography:_ Nestor Almendros<br>
-
 _Additional Photography:_ Haskell Wexler<br>
-
 _2nd Unit Photographer:_ Paul Ryan<br>
-
 _Time Lapse Photography:_ Ken Middleham<br>
-
 _Colour Consultant:_ Bob McMillian<br>
-
 _Camera Operators:_ John Bailey, Rod Parkhurst<br>
-
-_Special Camera Assistants:_ Kent Remington,
-
-Bob Eber<br>
-
+_Special Camera Assistants:_ Kent Remington, Bob Eber<br>
 _Gaffer:_ James Boyle<br>
-
 _Best Boy:_ Malcolm Kendall<br>
-
 _Electrician:_ Andy Wilson<br>
-
 _Key Grip:_ Clyde Hart<br>
-
 _Dolly Grip:_ Frank Merrells<br>
-
-_Title Sequence Photographs:_  
-Lewis Hine, Henry Hamilton Bennett,  
-Frances Benjamin Johnston,
-
-Chansonetta Emmons, William Notman,  
-Edie Baskin<br>
-
+_Title Sequence Photographs:_  Lewis Hine, Henry Hamilton Bennett,  Frances Benjamin Johnston, Chansonetta Emmons, William Notman,  Edie Baskin<br>
 _Special Stills:_ Edie Baskin<br>
-
 _Stills:_ Bruno Engler<br>
-
 _Special Effects:_ John Thomas, Mel Merrells<br>
-
 _Editor:_ Billy Weber<br>
-
-_Additional Editors:_ Caroline Ferriol,
-
-Marion Segal, Susan Martin<br>
-
-_Assistant Editors:_ Roberta Friedman,  
-George Trirogoff<br>
-
-_Editorial Consultants:_ Jeffrey Schneider,
-
-Dessy Markovski, Tikki Goldberg<br>
-
+_Additional Editors:_ Caroline Ferriol, Marion Segal, Susan Martin<br>
+_Assistant Editors:_ Roberta Friedman,  George Trirogoff<br>
+_Editorial Consultants:_ Jeffrey Schneider, Dessy Markovski, Tikki Goldberg<br>
 _Art Director:_ Jack Fisk<br>
-
 _Set Decorator:_ Robert Gould<br>
-
 _Property Master:_ Allan Levine<br>
-
 _Assistant Property Master:_ Barry Merrells<br>
-
 _Set Construction:_ Get Set<br>
-
 _Painter:_ John Lattanzio<br>
-
 _Costume Designer:_ Patricia Norris<br>
-
 _Men’s Wardrobe:_ Gerard Green<br>
-
 _Make-up:_ Jamie Brown<br>
-
 _Hairstylist:_ Bertine Taylor<br>
-
 _Title Design:_ Dan Perri<br>
 
 _Music/Music Conductor:_ Ennio Morricone<br>
@@ -197,43 +131,43 @@ Reg Glass, Bob Wilson, Joe Dodds, Dixie Gray<br>
 
 _Cast:_<br>
 
-Richard Gere _(Bill)_
+Richard Gere _(Bill)_<br>
 
-Brooke Adams _(Abby)_
+Brooke Adams _(Abby)_<br>
 
-Sam Shepard _(the farmer)_
+Sam Shepard _(the farmer)_<br>
 
-Linda Manz _(Linda)_
+Linda Manz _(Linda)_<br>
 
-Robert Wilke _(farm foreman)_
+Robert Wilke _(farm foreman)_<br>
 
-Jackie Shultis _(Linda’s friend)_
+Jackie Shultis _(Linda’s friend)_<br>
 
-Stuart Margolin _(mill foreman)_
+Stuart Margolin _(mill foreman)_<br>
 
-Tim Scott _(harvest hand)_
+Tim Scott _(harvest hand)_<br>
 
-Gene Bell _(dancer)_
+Gene Bell _(dancer)_<br>
 
-Doug Kershaw _(fiddler)_
+Doug Kershaw _(fiddler)_<br>
 
-Richard Libertini _(vaudeville leader)_
+Richard Libertini _(vaudeville leader)_<br>
 
-Frenchie Lemond _(vaudeville wrestler)_
+Frenchie Lemond _(vaudeville wrestler)_<br>
 
-Sahbra Markus _(vaudeville dancer)_
+Sahbra Markus _(vaudeville dancer)_<br>
 
-Bob Wilson _(accountant)_
+Bob Wilson _(accountant)_<br>
 
-Muriel Jolliffe _(headmistress)_
+Muriel Jolliffe _(headmistress)_<br>
 
-John Wilkinson _(preacher)_
+John Wilkinson _(preacher)_<br>
 
-King Cole _(farm worker)_
+King Cole _(farm worker)_<br>
 
-USA 1978©
+USA 1978©<br>
 
 94 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5ODc3MDIzXX0=
+eyJoaXN0b3J5IjpbMjU2MzMzMzA1XX0=
 -->
