@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I’m Your Man (Ich bin dein Mensch)
+title: I’m Your Man<br> (Ich bin dein Mensch)
 published: true
 date: 2021-08-09
 readtime: true
