@@ -23,179 +23,179 @@ Having conjured the old Eden on its last legs, its course of self-destruction ha
 **Tom Milne, _Monthly Film Bulletin_, May 1979**
 <br><br>
 
-**DAYS o Heaven**
+**DAYS OF HEAVEN**<br>
 
-_Directed by:_ Terrence Malick
+_Directed by:_ Terrence Malick<br>
 
 _©/Production Company:_  
-Paramount Pictures Corporation
+Paramount Pictures Corporation<br>
 
-_Production Company:_ O.P. Productions
+_Production Company:_ O.P. Productions<br>
 
-_Executive Producer:_ Jacob Brackman
+_Executive Producer:_ Jacob Brackman<br>
 
-_Produced by:_ Bert Schneider, Harold Schneider
+_Produced by:_ Bert Schneider, Harold Schneider<br>
 
-_Production Manager:_ Les Kimber
+_Production Manager:_ Les Kimber<br>
 
-_2nd Unit Manager:_ Coulter Adams
+_2nd Unit Manager:_ Coulter Adams<br>
 
-_Senior Accountant:_ Edward Hill
+_Senior Accountant:_ Edward Hill<br>
 
-_Location Accountant:_ Heather McIntosh
+_Location Accountant:_ Heather McIntosh<br>
 
 _Executive Assistant to Bert Schneider:_
 
-Blue André
+Blue André<br>
 
-_Researchers:_ Irene Malick, Susan Vermazen, Rosalia Purdum, Peter Neufeld, Nathalie Seaver
+_Researchers:_ Irene Malick, Susan Vermazen, Rosalia Purdum, Peter Neufeld, Nathalie Seaver<br>
 
-_2nd Unit Director:_ Jacob Brackman
+_2nd Unit Director:_ Jacob Brackman<br>
 
-_Assistant Director:_ Skip Cosper
+_Assistant Director:_ Skip Cosper<br>
 
 _2nd Assistant Directors:_ Rob Lockwood,
 
-Martin Walters
+Martin Walters<br>
 
-_Special Assistants to the Director:_ Nancy Kaclik, Peter Broderick
+_Special Assistants to the Director:_ Nancy Kaclik, Peter Broderick<br>
 
-_Script Supervisor:_ Wally Bennett
+_Script Supervisor:_ Wally Bennett<br>
 
-_Casting:_ Dianne Crittenden
+_Casting:_ Dianne Crittenden<br>
 
-_Written by:_ Terrence Malick
+_Written by:_ Terrence Malick<br>
 
-_Director of Photography:_ Nestor Almendros
+_Director of Photography:_ Nestor Almendros<br>
 
-_Additional Photography:_ Haskell Wexler
+_Additional Photography:_ Haskell Wexler<br>
 
-_2nd Unit Photographer:_ Paul Ryan
+_2nd Unit Photographer:_ Paul Ryan<br>
 
-_Time Lapse Photography:_ Ken Middleham
+_Time Lapse Photography:_ Ken Middleham<br>
 
-_Colour Consultant:_ Bob McMillian
+_Colour Consultant:_ Bob McMillian<br>
 
-_Camera Operators:_ John Bailey, Rod Parkhurst
+_Camera Operators:_ John Bailey, Rod Parkhurst<br>
 
 _Special Camera Assistants:_ Kent Remington,
 
-Bob Eber
+Bob Eber<br>
 
-_Gaffer:_ James Boyle
+_Gaffer:_ James Boyle<br>
 
-_Best Boy:_ Malcolm Kendall
+_Best Boy:_ Malcolm Kendall<br>
 
-_Electrician:_ Andy Wilson
+_Electrician:_ Andy Wilson<br>
 
-_Key Grip:_ Clyde Hart
+_Key Grip:_ Clyde Hart<br>
 
-_Dolly Grip:_ Frank Merrells
+_Dolly Grip:_ Frank Merrells<br>
 
 _Title Sequence Photographs:_  
 Lewis Hine, Henry Hamilton Bennett,  
 Frances Benjamin Johnston,
 
 Chansonetta Emmons, William Notman,  
-Edie Baskin
+Edie Baskin<br>
 
-_Special Stills:_ Edie Baskin
+_Special Stills:_ Edie Baskin<br>
 
-_Stills:_ Bruno Engler
+_Stills:_ Bruno Engler<br>
 
-_Special Effects:_ John Thomas, Mel Merrells
+_Special Effects:_ John Thomas, Mel Merrells<br>
 
-_Editor:_ Billy Weber
+_Editor:_ Billy Weber<br>
 
 _Additional Editors:_ Caroline Ferriol,
 
-Marion Segal, Susan Martin
+Marion Segal, Susan Martin<br>
 
 _Assistant Editors:_ Roberta Friedman,  
-George Trirogoff
+George Trirogoff<br>
 
 _Editorial Consultants:_ Jeffrey Schneider,
 
-Dessy Markovski, Tikki Goldberg
+Dessy Markovski, Tikki Goldberg<br>
 
-_Art Director:_ Jack Fisk
+_Art Director:_ Jack Fisk<br>
 
-_Set Decorator:_ Robert Gould
+_Set Decorator:_ Robert Gould<br>
 
-_Property Master:_ Allan Levine
+_Property Master:_ Allan Levine<br>
 
-_Assistant Property Master:_ Barry Merrells
+_Assistant Property Master:_ Barry Merrells<br>
 
-_Set Construction:_ Get Set
+_Set Construction:_ Get Set<br>
 
-_Painter:_ John Lattanzio
+_Painter:_ John Lattanzio<br>
 
-_Costume Designer:_ Patricia Norris
+_Costume Designer:_ Patricia Norris<br>
 
-_Men’s Wardrobe:_ Gerard Green
+_Men’s Wardrobe:_ Gerard Green<br>
 
-_Make-up:_ Jamie Brown
+_Make-up:_ Jamie Brown<br>
 
-_Hairstylist:_ Bertine Taylor
+_Hairstylist:_ Bertine Taylor<br>
 
-_Title Design:_ Dan Perri
+_Title Design:_ Dan Perri<br>
 
-_Music/Music Conductor:_ Ennio Morricone
+_Music/Music Conductor:_ Ennio Morricone<br>
 
-_Additional Music:_ Leo Kottke
+_Additional Music:_ Leo Kottke<br>
 
-_Harmonica:_ Rick Smith
+_Harmonica:_ Rick Smith<br>
 
 _Music Co-ordinators:_ Gabriella Belloni,
 
-Enrico Demelis, Denny Bruce
+Enrico Demelis, Denny Bruce<br>
 
-_Music Editors:_ Dan Carlin Jr, Ted Roberts
+_Music Editors:_ Dan Carlin Jr, Ted Roberts<br>
 
-_Music Mixer:_ Robert Glass Jr
+_Music Mixer:_ Robert Glass Jr<br>
 
-_Sound Mixers:_ George Ronconi, Barry Thomas
+_Sound Mixers:_ George Ronconi, Barry Thomas<br>
 
 _Special Audio Assistants:_ Allen Byers,
 
-Robert Burton, Alan Splet
+Robert Burton, Alan Splet<br>
 
-_Sound:_ Glen Glenn Sound
+_Sound:_ Glen Glenn Sound<br>
 
 _Glen Glenn Sound Crew:_ Robert Thirlwell,
 
-Jean Marler, Peter Gregory, Joe Wachter
+Jean Marler, Peter Gregory, Joe Wachter<br>
 
-_MGM Supervising Engineer:_ Chet Luton
+_MGM Supervising Engineer:_ Chet Luton<br>
 
 _Dolby Consultants:_ Steve Katz, Philip Boole,
 
-Clyde McKinney
+Clyde McKinney<br>
 
-_Boom Men:_ Louie Hogue, Glen Lambert
+_Boom Men:_ Louie Hogue, Glen Lambert<br>
 
-_Re-recording Mixer:_ John Wilkinson
+_Re-recording Mixer:_ John Wilkinson<br>
 
-_Negative Cutter:_ Barbara Morrison
+_Negative Cutter:_ Barbara Morrison<br>
 
-_Special Sound Effects:_ James Cox
+_Special Sound Effects:_ James Cox<br>
 
-_Sound Effects:_ Neiman-Tillar Associates
+_Sound Effects:_ Neiman-Tillar Associates<br>
 
-_Sound Effects Mixer:_ John Reitz
+_Sound Effects Mixer:_ John Reitz<br>
 
 _Sound Effects Editors:_ Colin Mouat,  
-Charles Campbell
+Charles Campbell<br>
 
-_Stunt Flying:_ Erin Talbott, Joe Watts
+_Stunt Flying:_ Erin Talbott, Joe Watts<br>
 
-_Technical Adviser:_ Clenton Owensby
+_Technical Adviser:_ Clenton Owensby<br>
 
 _Wranglers:_ John Scott, Isabella Miller,
 
-Reg Glass, Bob Wilson, Joe Dodds, Dixie Gray
+Reg Glass, Bob Wilson, Joe Dodds, Dixie Gray<br>
 
-_Cast:_
+_Cast:_<br>
 
 Richard Gere _(Bill)_
 
@@ -235,5 +235,5 @@ USA 1978©
 
 94 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTk4Mzg0N119
+eyJoaXN0b3J5IjpbOTI5ODc3MDIzXX0=
 -->
