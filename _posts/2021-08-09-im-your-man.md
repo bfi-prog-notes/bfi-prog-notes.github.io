@@ -8,15 +8,112 @@ The blossoming romance between woman and robot is easy to be swept up in – har
 
 For the most part _I’m Your Man_ seems to want to make the opposite point to _The Stepford Wives_, which satirised suburban housewives becoming increasingly reliant on machines to do the chores and pills to make it through the day. Levin’s book suggested men didn’t care about their wives’ existence beyond their ability to do housework and sexually satisfy them and would be perfectly happy with a robot partner. Schrader’s film instead posits that being happy might itself chip away at a person’s sanity and produce existential chaos. Whether or not that is a price worth paying for being loved and nurtured is something the film isn’t quite confident enough to answer.
 
-_I’m Your Man_ is an enjoyable but essentially lightweight affair; it poses questions about love, freedom of will, and what it means to be human but doesn’t really attempt to answer them. Instead we’re left with something far simpler, and its 105 minutes pass by pleasantly, which according to Tom is all we needed in the first place – just don’t think too hard, and ‘Be happy.’
+_I’m Your Man_ is an enjoyable but essentially lightweight affair; it poses questions about love, freedom of will, and what it means to be human but doesn’t really attempt to answer them. Instead we’re left with something far simpler, and its 105 minutes pass by pleasantly, which according to Tom is all we needed in the first place – just don’t think too hard, and ‘Be happy.’<br>
 **Leila Latif, _Sight and Sound_, September 2021**
 
-**About the director**
-
+**About the director**<br>
 One of Germany’s most acclaimed actresses, Maria Schrader is a two-time winner of the German Film award and three-time winner of the Bavarian Film award. She achieved her international breakthrough with _Aimée & Jaguar_ in 1999. She worked with directors such as Margarethe von Trotta, Peter Greenaway, Max Färberböck and Agnieszka Holland.
 
 Recently, she starred in the Emmy-winning series _Deutschland 83/86/89_.  
-Her directorial debut _Love Life_ premiered at the Festa del Cinema in Rome (2007). Her second film _Stefan Zweig: Farewell to Europe_ premiered at Locarno’s Piazza Grande in 2016. It then became Austria’s Oscar submission and won the People’s Choice Award for Best European Film at the European Film Awards. In 2020 Maria was the first German director to win a Primetime Emmy for the series _Unorthodox_. _Unorthodox_ also received two nominations at the 2021 Golden Globes.
+Her directorial debut _Love Life_ premiered at the Festa del Cinema in Rome (2007). Her second film _Stefan Zweig: Farewell to Europe_ premiered at Locarno’s Piazza Grande in 2016. It then became Austria’s Oscar submission and won the People’s Choice Award for Best European Film at the European Film Awards. In 2020 Maria was the first German director to win a Primetime Emmy for the series _Unorthodox_. _Unorthodox_ also received two nominations at the 2021 Golden Globes.<br>
+
+**I’M YOUR MAN (ICH BIN DEIN MENSCH)**<br>
+_Director_: Maria Schrader  
+_©_: Letterbox Filmproduktion, Südwestrundfunk  
+_Production Company_: SHPG - Studio Hamburg Produktion Group, Letterbox Filmproduktion GmbH  
+_In association with_: SWR  
+_Presented by_: Majestic Filmverleih, Südwestrundfunk  
+_World Sales_: Beta Cinema  
+_Executive Producers_: Dan Stevens, Maria Schrader  
+_Producer_: Lisa Blumenberg  
+_Commissioning Editor for SWR_: Jan Berning, Katharina Dufner  
+_Line Producer_: Marcus Kreuz  
+_Production Manager_: Martin Rohrbeck  
+_Post-production Supervisor_: Petra Kader-Göbel  
+_1st Assistant Director_: Tanja Däberitz  
+_Script Supervisor_: Rosa Schein  
+_Casting_: Anja Dihrberg  
+_Screenplay_: Jan Schomburg, Maria Schrader  
+_Inspired by the short story ‘Ich bin dein Mensch’ [I’m Your Man] by_: Emma Braslavsky  
+_Director of Photography_: Benedict Neuenfels  
+_2nd Unit Director of Photography_: Phillip Wölke  
+_Gaffer_: Benjamin Dreythaler  
+_Stills Photographer_: Christine Fenzl  
+_Visual Effects_: Automatik VFX  
+_Editor_: Hansjörg Weissbrich  
+_Art Director_: Cora Pratz  
+_Costume Designer_: Anette Guther  
+_Make-up Designers_: Barbara Kreuzer, Andrea Allroggen  
+_Title Design_: Martin Eichhorn  
+_Music_: Tobias Wagner  
+_Choreographer/Dance Instructor_: Daniel Stelter  
+_Sound Design_: Daniel Iribarren, Sebastian Morsch  
+_Production Sound Mixer_: Patrick Veigel  
+_Re-recording Mixer_: Adrian Baumeister  
+_Dialogue Editor_: Sabrina Naumann  
+_Stunt Co-ordinator_: Rainer Werner
+
+_Cast:_  
+Maren Eggert _(Dr Alma Felser)_  
+Dan Stevens _(Tom)_  
+Sandra Hüller _(Terrareca host)_  
+Lans Löw _(Julian, Alma’s ex)_  
+Wolfgang Hübsch _(Alma’s father)_  
+Annika Meier _(Cora)_  
+Falilou Seck _(Roger)_  
+Jürgen Tarrach _(Dr Stuber)_  
+Henriette Richter-Röhl _(Steffi)_  
+Monika Oschek _(woman in café)_  
+Karolin Oesterling _(Chloé)_  
+Marlene Sophie Haagen _(Jule)_  
+Victor Pape-Thies _(Leon)_  
+Inga Busch _(Regina)_  
+Amal Keller _(café saleswoman)_  
+Mignon Remé _(Rita)_  
+Gabriel Munoz Munoz _(Barmann)_  
+Franz Schmidt _(Nico)_  
+Christoph Glaubacker _(Stefan)_  
+Sebastian Schwarz
+
+Germany 2021
+
+105 mins
+
+Courtesy of Curzon
+
+NEW RELEASES & RE-RELEASES
+
+**Limbo**
+
+Continues from Fri 30 Jul
+
+**The Most Beautiful Boy in the World**
+
+From Sun 1 Aug
+
+**Now, Voyager**
+
+From Fri 6 Aug
+
+**The Sparks Brothers**
+
+From Fri 6 Aug
+
+**The Story of a Three Day Pass**
+
+From Sat 7 Aug
+
+**CODA**
+
+From Fri 13 Aug
+
+**Censor**
+
+From Fri 20 Aug
+
+**Souad**
+
+From Fri 27 Aug
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDcxNzM5MTIsNDUyODM5OTNdfQ==
+eyJoaXN0b3J5IjpbNzg0NDQwMzQzLDQ1MjgzOTkzXX0=
 -->
