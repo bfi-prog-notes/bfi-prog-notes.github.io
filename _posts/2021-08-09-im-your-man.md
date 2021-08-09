@@ -53,7 +53,7 @@ _Re-recording Mixer_: Adrian Baumeister
 _Dialogue Editor_: Sabrina Naumann  
 _Stunt Co-ordinator_: Rainer Werner
 
-_Cast:_  
+**Cast**<br>  
 Maren Eggert _(Dr Alma Felser)_  
 Dan Stevens _(Tom)_  
 Sandra Hüller _(Terrareca host)_  
@@ -73,47 +73,30 @@ Mignon Remé _(Rita)_
 Gabriel Munoz Munoz _(Barmann)_  
 Franz Schmidt _(Nico)_  
 Christoph Glaubacker _(Stefan)_  
-Sebastian Schwarz
+Sebastian Schwarz<br>
 
-Germany 2021
+Germany 2021<br>
+105 mins<br>
 
-105 mins
+Courtesy of Curzon<br>
 
-Courtesy of Curzon
-
-NEW RELEASES & RE-RELEASES
-
-**Limbo**
-
-Continues from Fri 30 Jul
-
-**The Most Beautiful Boy in the World**
-
-From Sun 1 Aug
-
-**Now, Voyager**
-
-From Fri 6 Aug
-
-**The Sparks Brothers**
-
-From Fri 6 Aug
-
-**The Story of a Three Day Pass**
-
-From Sat 7 Aug
-
-**CODA**
-
-From Fri 13 Aug
-
-**Censor**
-
-From Fri 20 Aug
-
-**Souad**
-
-From Fri 27 Aug
+**NEW RELEASES & RE-RELEASES**<br>
+**Limbo**<br>
+Continues from Fri 30 Jul<br>
+**The Most Beautiful Boy in the World**<br>
+From Sun 1 Aug<br>
+**Now, Voyager**<br>
+From Fri 6 Aug<br>
+**The Sparks Brothers**<br>
+From Fri 6 Aug<br>
+**The Story of a Three Day Pass**<br>
+From Sat 7 Aug<br>
+**CODA**<br>
+From Fri 13 Aug<br>
+**Censor**<br>
+From Fri 20 Aug<br>
+**Souad**<br>
+From Fri 27 Aug<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0NDQwMzQzLDQ1MjgzOTkzXX0=
+eyJoaXN0b3J5IjpbNzA0OTI5NTAxLDQ1MjgzOTkzXX0=
 -->
