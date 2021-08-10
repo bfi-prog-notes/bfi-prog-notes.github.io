@@ -64,7 +64,7 @@ _Re-recording Mixer_: Adrian Baumeister
 _Dialogue Editor_: Sabrina Naumann  
 _Stunt Co-ordinator_: Rainer Werner
 
-**Cast**<br>
+Cast*<br>  
 Maren Eggert _(Dr Alma Felser)_  
 Dan Stevens _(Tom)_  
 Sandra Hüller _(Terrareca host)_  
@@ -86,29 +86,13 @@ Franz Schmidt _(Nico)_
 Christoph Glaubacker _(Stefan)_  
 Sebastian Schwarz<br>
 
-Germany 2021<br>
-105 mins<br>
+Germany 2021<br>105 mins<br>
 
 Courtesy of Curzon<br>
 <br>
 
 **NEW RELEASES & RE-RELEASES**<br>
-**Limbo**<br>
-Continues from Fri 30 Jul<br>
-**The Most Beautiful Boy in the World**<br>
-From Sun 1 Aug<br>
-**Now, Voyager**<br>
-From Fri 6 Aug<br>
-**The Sparks Brothers**<br>
-From Fri 6 Aug<br>
-**The Story of a Three Day Pass**<br>
-From Sat 7 Aug<br>
-**CODA**<br>
-From Fri 13 Aug<br>
-**Censor**<br>
-From Fri 20 Aug<br>
-**Souad**<br>
-From Fri 27 Aug<br>
+**Limbo**<br>Continues from Fri 30 Jul<br>**The Most Beautiful Boy in the World**<br>From Sun 1 Aug<br>**Now, Voyager**<br>From Fri 6 Aug<br>**The Sparks Brothers**<br>From Fri 6 Aug<br>**The Story of a Three Day Pass**<br>From Sat 7 Aug<br>**CODA**<br>From Fri 13 Aug<br>**Censor**<br>From Fri 20 Aug<br>**Souad**<br>From Fri 27 Aug<br>
 <br>
 
 **BFI SOUTHBANK**  
@@ -127,3 +111,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjUwOTc2NTExXX0=
+-->
