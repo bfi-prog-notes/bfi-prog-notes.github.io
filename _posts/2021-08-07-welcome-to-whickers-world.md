@@ -30,8 +30,7 @@ Alan Whicker attends the wedding of two homosexuals at a church in  San Diego an
 Explore an extensive new collection of programmes from the BFI National Archive spanning Alan Whicker’s career. Book a free viewing session online or via the BFI Southbank box office.<br>
 
 
-**AROUND WHICKER'S WORLD IN 25 YEARS: 
-MONEY AND POWER**<br>
+**AROUND WHICKER'S WORLD IN 25 YEARS: MONEY AND POWER**<br>
 _Director_: David Green  
 _Production Company_: Yorkshire Television
 _Script_: Alan Whicker  
@@ -42,7 +41,7 @@ UK 1982<br>
 60 mins<br>
 
 
-**THE LORD IS MY SHEPHERD AND HE K L IS herd andHHeE KnowsNOWS I A’mM GAYayAY****<br>
+**THE LORD IS MY SHEPHERD AND HE K L IS herd andHHeE KnowsNOWS I AM GAYayAY****<br>
 _Director_: Michael Deakin  
 _Production Company_: Yorkshire Television
 _Script:_ Alan Whicker  
@@ -51,8 +50,8 @@ _Photography_: Frank Pocklington
 _Editor_: Barry Reynolds<br>
 
 ITV tx 2.10.1973
-<br> UK 1973<
-52 mins<br>
+<br> UK 1973<br>
+ mis<br>
 
 **In partnership with**<br>
 
@@ -76,5 +75,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTU2ODQ3NF19
+eyJoaXN0b3J5IjpbLTkzMTExODc2NSwxNTgxNTY4NDc0XX0=
 -->
