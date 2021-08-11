@@ -24,9 +24,101 @@ Bone, meanwhile, is the America that skated ever the thin ice of the war, clingi
 
 _Cutter’s Way_ may be the best film made about the ripple effect of the Vietnam War on home front doorsteps, and it achieves this largely by way of characters who don’t represent ‘us’, but are fiercely and unquestionably themselves. They are a gift from Thornburg’s book, but as much as Passer’s movie feels novelistic in its weft of themes, it’s also an achievement of textures. Thornburg’s novel may have offered up some of this steak thick dialogue, filthy with unspoken things and half references, but it didn’t have this light and shadow (cinematography by the redoubtable Jordan Cronenweth), this palpable aura of rueful helplessness – and it didn’t have these people, who linger in four dimensions like neighbours we’ve had, with problems we couldn’t help solve.
 
-‘You can assassinate movies as you can assassinate people. I think UA murdered the film,’ Passer told Richard T. Jameson in that same _Film Comment_ piece. ‘Or at least they tried to murder it.’ Tried but failed: Cutter, Bone and Mo would not be forgotten, and _Cutter’s Way_ is still emerging as its decade’s _The Sun Also Rises_, alive and lovely and sorrowful.
+‘You can assassinate movies as you can assassinate people. I think UA murdered the film,’ Passer told Richard T. Jameson in that same _Film Comment_ piece. ‘Or at least they tried to murder it.’ Tried but failed: Cutter, Bone and Mo would not be forgotten, and _Cutter’s Way_ is still emerging as its decade’s _The Sun Also Rises_, alive and lovely and sorrowful.<br>
+**Michael Atkinson, _Sight & Sound_, July 2011**<br>
 
-Michael Atkinson, _Sight & Sound_, July 2011
+**CUTTER’S WAY****
+
+_Director_: Ivan Passer  
+_©/Production Companies_: United Artists, Gurian Entertainment  
+_Producer_: Paul R. Gurian  
+_Associate Producers_: Barrie Osborne,
+
+Larry Franco  
+_Unit Production Manager_: Barrie Osborne  
+_Production Co-ordinator_: Elise Rohden  
+_Production Accountant_: Kurt Woolner  
+_Location Manager_: Mark A. Radcliffe  
+_First Assistant Directors_: Larry Franco,
+
+Jeffrey Chernov  
+_Script Supervisor_: Joanie Blum  
+_Casting_: Susan Shaw  
+_Screenplay_: Jeffrey Alan Fiskin  
+_Based on the Novel by_: Newton Thornburg  
+_Director of Photography_: Jordan Cronenweth  
+_Camera Operator_: Donald Thorin  
+_First Assistant Camera_: Johnny Jensen  
+_Gaffer_: Richard Hart  
+_Key Grip_: Cary Griffith  
+_Editor_: Caroline Ferriol  
+_Assistant Film Editors_: Paul Dixon,
+
+Mark Winitsky  
+_Negative Cutter_: Donah Bassett  
+_Art Director_: Josan F. Russo  
+_Set Decorator_: Thomas L. Roysden  
+_Property Master_: John Zemansky  
+_Construction Co-ordinator_: Robert E. Scaife  
+_Key Costumers_: Jane Ruhm,
+
+John Dundii Huhn, Christine Goulding  
+_Make-up_: Ben Nye Jr  
+_Hair Stylist_: Lola ‘Skip’ McNalley  
+_Title Design_: Dan Perri  
+_Opticals_: Movie Magic  
+_Music_: Jack Nitzsche  
+_Performed by:_
+
+The Toronto Symphony Orchestra,
+
+Armin Electric Strings
+
+_Music Editors_: Curt Sobel,
+
+La Da Productions  
+_Music Recording_: David Hassinger
+
+_Production Sound Mixer_: Petur Hliddal  
+_Boom Operator_: Hudson Marquez  
+_Sound Re-recording_: William McCaughey, Robert L. Harman, Howard Wollman  
+_Supervising Sound Editors_: Ron Horwitz, Gregg Barbanell  
+_Stunt Co-ordinator_: Bill Burton  
+_Head Wrangler_: Jim Medearis
+
+_Cast:_  
+Jeff Bridges _(Richard Bone)_  
+John Heard _(Alex Cutter)_  
+Lisa Eichhorn _(Maureen ‘Mo’ Cutter)_  
+Ann Dusenberry _(Valerie Duran)_  
+Stephen Elliott _(J.J. Cord)_  
+Arthur Rosenberg _(George Swanson)_  
+Nina Van Pallandt _(woman in hotel)_  
+Patricia Donahue _(Mrs Cord)_  
+Geraldine Baron _(Susie Swanson)_  
+Katherine Pass _(Toyota woman)_  
+Frank McCarthy _(Toyota man)_  
+George Planco _(Toyota cop)_  
+Jay Fletcher _(Cord security guard)_  
+George Dickerson _(mortician)_  
+Jack Murdock _(concession owner)_  
+Essex Smith _(1st black)_  
+Rod Gist _(2nd black)_  
+Leonard Lightfoot _(3rd black)_  
+Julia Duffy _(young girl)_  
+Randy Shepard _(young man)_  
+Roy Hollis _(working stiff)_  
+Billy Drago _(garbage man)_  
+Caesar Cordova _(garbage truck driver)_  
+Jon Terry _(police captain)_  
+William Pelt _(1st detective)_  
+Ron Marcroft _(2nd detective)_  
+Ted White, Tony Epper, Andy Epper,
+
+Chris Howell, H.P. Evetts, Ron Burke _(guards)_<br>
+
+USA 1981<br>
+108 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDc2NzEwMSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMzM4MjczMDkzLDczMDk5ODExNl19
 -->
