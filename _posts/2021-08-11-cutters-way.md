@@ -27,21 +27,16 @@ _Cutter’s Way_ may be the best film made about the ripple effect of the Vietna
 ‘You can assassinate movies as you can assassinate people. I think UA murdered the film,’ Passer told Richard T. Jameson in that same _Film Comment_ piece. ‘Or at least they tried to murder it.’ Tried but failed: Cutter, Bone and Mo would not be forgotten, and _Cutter’s Way_ is still emerging as its decade’s _The Sun Also Rises_, alive and lovely and sorrowful.<br>
 **Michael Atkinson, _Sight & Sound_, July 2011**<br>
 
-**CUTTER’S WAY****
-
+**CUTTER’S WAY**<br>
 _Director_: Ivan Passer  
 _©/Production Companies_: United Artists, Gurian Entertainment  
 _Producer_: Paul R. Gurian  
-_Associate Producers_: Barrie Osborne,
-
-Larry Franco  
+_Associate Producers_: Barrie Osborne, Larry Franco  
 _Unit Production Manager_: Barrie Osborne  
 _Production Co-ordinator_: Elise Rohden  
 _Production Accountant_: Kurt Woolner  
 _Location Manager_: Mark A. Radcliffe  
-_First Assistant Directors_: Larry Franco,
-
-Jeffrey Chernov  
+_First Assistant Directors_: Larry Franco, Jeffrey Chernov  
 _Script Supervisor_: Joanie Blum  
 _Casting_: Susan Shaw  
 _Screenplay_: Jeffrey Alan Fiskin  
@@ -52,41 +47,30 @@ _First Assistant Camera_: Johnny Jensen
 _Gaffer_: Richard Hart  
 _Key Grip_: Cary Griffith  
 _Editor_: Caroline Ferriol  
-_Assistant Film Editors_: Paul Dixon,
-
-Mark Winitsky  
+_Assistant Film Editors_: Paul Dixon, Mark Winitsky  
 _Negative Cutter_: Donah Bassett  
 _Art Director_: Josan F. Russo  
 _Set Decorator_: Thomas L. Roysden  
 _Property Master_: John Zemansky  
 _Construction Co-ordinator_: Robert E. Scaife  
-_Key Costumers_: Jane Ruhm,
-
-John Dundii Huhn, Christine Goulding  
+_Key Costumers_: Jane Ruhm, John Dundii Huhn, Christine Goulding  
 _Make-up_: Ben Nye Jr  
 _Hair Stylist_: Lola ‘Skip’ McNalley  
 _Title Design_: Dan Perri  
 _Opticals_: Movie Magic  
 _Music_: Jack Nitzsche  
-_Performed by:_
-
-The Toronto Symphony Orchestra,
-
-Armin Electric Strings
-
-_Music Editors_: Curt Sobel,
-
-La Da Productions  
+_Performed by:_ The Toronto Symphony Orchestra,
+Armin Electric Strings  
+_Music Editors_: Curt Sobel, La Da Productions  
 _Music Recording_: David Hassinger
-
 _Production Sound Mixer_: Petur Hliddal  
 _Boom Operator_: Hudson Marquez  
 _Sound Re-recording_: William McCaughey, Robert L. Harman, Howard Wollman  
 _Supervising Sound Editors_: Ron Horwitz, Gregg Barbanell  
 _Stunt Co-ordinator_: Bill Burton  
-_Head Wrangler_: Jim Medearis
+_Head Wrangler_: Jim Medearis<br>
 
-_Cast:_  
+**Cast**<br>
 Jeff Bridges _(Richard Bone)_  
 John Heard _(Alex Cutter)_  
 Lisa Eichhorn _(Maureen ‘Mo’ Cutter)_  
@@ -113,12 +97,10 @@ Caesar Cordova _(garbage truck driver)_
 Jon Terry _(police captain)_  
 William Pelt _(1st detective)_  
 Ron Marcroft _(2nd detective)_  
-Ted White, Tony Epper, Andy Epper,
-
-Chris Howell, H.P. Evetts, Ron Burke _(guards)_<br>
+Ted White, Tony Epper, Andy Epper, Chris Howell, H.P. Evetts, Ron Burke _(guards)_<br>
 
 USA 1981<br>
 108 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4MjczMDkzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTI0NjM2OTQwNyw3MzA5OTgxMTZdfQ==
 -->
