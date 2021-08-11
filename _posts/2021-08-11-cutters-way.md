@@ -100,7 +100,31 @@ Ron Marcroft _(2nd detective)_
 Ted White, Tony Epper, Andy Epper, Chris Howell, H.P. Evetts, Ron Burke _(guards)_<br>
 
 USA 1981<br>
-108 mins
+108 mins<br>
+
+**BIG SCREEN CLASSICS**<br>
+**Cutter’s Way**<br>
+Wed 11 Aug 17:50 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large); Tue 17 Aug 14:30; Fri 20 Aug 20:50; Fri 27 Aug 20:50<br>
+**The New World**<br>
+Thu 12 Aug 14:30; Sun 22 Aug 12:00<br>
+**Bob & Carol & Ted & Alice**<br>
+Fri 13 Aug 20:45; Wed 18 Aug 17:50 (+ pre-recorded intro by Julie Lobalzo Wright, University of Warwick); Mon 23 Aug 14:30<br>
+**Thelma and Louise**<br>
+Sat 14 Aug 20:35; Sat 28 Aug 20:20<br>
+**Matewan**<br>
+Sun 15 Aug 18:20; Sat 21 Aug 12:20<br>
+**The Big Lebowski**<br>
+Mon 16 Aug 20:50; Wed 25 Aug 14:15
+**Big Wednesday**
+Thu 19 Aug 17:50; Sun 29 Aug 18:10
+**A Farewell to Arms**
+Fri 20 Aug 14:30; Wed 25 Aug 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-large)
+**Only Angels Have Wings**
+Tue 24 Aug 14:15; Tue 31 Aug 20:30
+**Les Demoiselles de Rochefort (The Young Ladies of Rochefort)**
+Thu 26 Aug 17:40
+**Bright Star**
+Fri 27 Aug 17:50; Mon 30 Aug 18:10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjM2OTQwNyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTc1NzA4MjU5LDczMDk5ODExNl19
 -->
