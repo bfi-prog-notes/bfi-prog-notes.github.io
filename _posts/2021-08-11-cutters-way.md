@@ -1,4 +1,14 @@
-CODA- Draft Production Notes June 28 <![endif]-->
+---
+layout: post
+title: Cutter's Way
+published: true
+date: 2021-08-11
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Crime, Drama, Thriller, Noir]
+metadata: 'USA, 1981, 108 mins<br> Director: Ivan Passer'
+pdf: '2021-08-11-cutters-way.pdf'
+---
 
 The mysteries were always there. From the first trance gestures of the opening credits of Ivan Passer’s _Cutter’s Way_, it was clear something special and hypnotic was happening: the slo-mo dance of the Fiesta Peque parade and its flower-festooned Las Señoritas coming directly at us in the hazy Santa Barbara sunshine, the monochromatic image slowly acquiring colour like a blush, the unforgettable Jack Nitzsche score – a ghostly serenade for bells, xylophone and handsaw – strumming up out of the aural ether with a tentativeness suggesting a sense of unease and lostness that would not, in fact, relent in your mind even after the film was through.
 
@@ -12,9 +22,7 @@ The best of the films from that period still date less than most subsequent Osca
 
 Naturally, the ambivalence and grown-up tenor of _Cutter and Bone_ baffled the UA bigwigs, who gave it a modest US release in a few cities; the savaging it received from (among a few other near-sighted critics) _The New York Times_’ shrugging dope Vincent Canby encouraged the studio to pull it after a single week. A week later, other critics delivered hosannas in the national weeklies, and with that encouragement the film was shuttled over to the company’s ‘arthouse’ wing, United Artist Classics, for a second chance, receiving a title change and exposure in stateside festivals.
 
-Critics can rescue films occasionally, just as they can condemn them to the abyss, and the unmarketable nature of _Cutter’s Way_ was as vulnerable as an orchid.  
-Re-released in the summer of 1981, in the lingering dog days of _Raiders of the Lost Ark_, _Escape from New York_ and _Arthur_, it vanished again, only to reappear like so many blockbuster-steamrollered small films in the low-grade perpetuity of home video. Its reputation as a new American classic has been slowly escalating  
-ever since.
+Critics can rescue films occasionally, just as they can condemn them to the abyss, and the unmarketable nature of _Cutter’s Way_ was as vulnerable as an orchid. Re-released in the summer of 1981, in the lingering dog days of _Raiders of the Lost Ark_, _Escape from New York_ and _Arthur_, it vanished again, only to reappear like so many blockbuster-steamrollered small films in the low-grade perpetuity of home video. Its reputation as a new American classic has been slowly escalating ever since.
 
 The American New Wave connection is important, not merely because of the film’s style and pedigree, but because the American 70s were as much about the legacy of _noir_ as they were a gestalt of Euro New Wavism, Cassavetes realism, film-school freedom and Direct Cinema documentary. In the Nixon/’Nam years, realism and salience translated roughly into a new look at _noir_’s expressive capacity for individual doom, self-destruction and surrender to the road, all the chillier for usually being shot in convincing, unrelenting (if overcast) noonlight. _Cutter’s Way_ grabbed this notion by its threadbare lapels – it’s nothing if not a pungent reinvention of _noir_’s fatalism in the hothouse suburban fringes, dazed by the horrifying damage of a new and sickening war.
 
@@ -125,6 +133,21 @@ Tue 24 Aug 14:15; Tue 31 Aug 20:30<br>
 Thu 26 Aug 17:40<br>
 **Bright Star**<br>
 Fri 27 Aug 17:50; Mon 30 Aug 18:10<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjIzMzg2NTksNzMwOTk4MTE2XX0=
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
