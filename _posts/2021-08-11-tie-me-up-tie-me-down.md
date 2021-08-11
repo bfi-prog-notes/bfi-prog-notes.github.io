@@ -113,38 +113,23 @@ Mon 30 Aug 18:15
 Sat 7 Aug 20:50; Fri 20 Aug 18:10; Fri 27 Aug 20:45
 **Once upon a Time in the West  
 (C’era una volta il west)**
-Sun 8 Aug 12:00; Fri 27 Aug 14:00;  
-Tue 31 Aug 14:00
+Sun 8 Aug 12:00; Fri 27 Aug 14:00;  Tue 31 Aug 14:00
 **The Mission**
-Sun 8 Aug 15:10; Thu 12 Aug 20:30;  
-Thu 26 Aug 18:00
+Sun 8 Aug 15:10; Thu 12 Aug 20:30;  Thu 26 Aug 18:00
 **Days of Heaven**
-
 Mon 9 Aug 21:00; Tue 31 Aug 17:50
-
 **Tie Me Up, Tie Me Down (Atame!)**
-
-Wed 11 Aug 20:50; Thu 19 Aug 14:15;  
-Mon 23 Aug 21:00; Tue 31 Aug 20:45
-
+Wed 11 Aug 20:50; Thu 19 Aug 14:15;  Mon 23 Aug 21:00; Tue 31 Aug 20:45
 **The Hateful Eight**
-
 Sun 15 Aug 15:00; Sun 22 Aug 18:00
-
 **Once upon a Time in America**
-
 Tue 17 Aug 17:40; Sat 28 Aug 11:20
-
 **The Legend of 1900  
 (La leggenda del pianista sull’oceano)**
-
 Sat 21 Aug 11:50; Sun 29 Aug 15:10
-
 **Cinema Paradiso (Nuovo Cinema Paradiso)**
-
 Sat 21 Aug 14:30; Thu 26 Aug 14:30
-
 **Promotional partner**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTAxMjUyODVdfQ==
+eyJoaXN0b3J5IjpbODc0NjUxNDM3XX0=
 -->
