@@ -10,7 +10,84 @@ up women.
 However, credibility has never been a major concern in melodrama, and this, despite its primary-coloured comedy, is essentially an attempt to fuse the battle-of-the-sexes romance with psycho horror. The film-within-the-film, _Midnight Phantom_, in which the girl lassos a scarred muscle man with a telephone cord, is an amusing skit on the Mario Bava-Dario Argento style of cosmopolitan Continental splatter, with Ennio Morricone providing a wittily ominous score that recalls his work on 60s _gialli_, while the sequences detailing Ricky’s obsessive quirkiness are reminiscent of Spanish precedents such as _Bell of Hell_ and _Apartment on the 13th Floor_. Several of the straight Hitchcockian suspense sequences – the intercutting of Marina’s half-hearted escape attempt with Ricky’s pursuit by the drug dealer, in particular – are impressively mounted, and the early scenes between Victoria Abril, who is edgily marvellous throughout, and the brooding Antonio Banderas, have a nice uneasiness as she sullenly falls back on drugs and he subtly realises that this won’t be a simple kidnapping after all.
 
 As with _Women on the Verge of a Nervous Breakdown_, the plot has as many contrivances and coincidences as a classic farce, but here the references are more to the thriller. Given the prevalence of the bondage theme, which has brought the film into ratings troubles in the U.S., Almodóvar surprisingly has refrained from exploiting the fetish in the way that a Hitchcock or an Argento might, reserving his regulation sleaziness for a funny little scene in which Marina plays erotically in the bath with a toy frogman, and rigorously refusing to give any erotic charge to the ropes and gags Ricky uses to keep Marina under control. More surprising, perhaps, is the refusal to make anything of the notion of ‘the ties that bind’, as Ricky’s idea of a perfect marriage, in which he ‘takes care’ of Marina and she has lots of children, is never explicitly equated with his desire to control her physically. Given that Almodóvar, with his habitual distancing, is unlikely to be endorsing Ricky’s idea of women in general and Marina in particular, it is odd that the plot bears the character out without ever providing any explicit criticism of the outmoded and dangerous ideas he represents. The film would be less uncomfortable if Ricky were admirable in the beginning and psychotic at the end, but comfort, perhaps, is beside the point.<br>
-**Kim Newman, _Monthly Film Bulletin_, July 1990**
+**Kim Newman, _Monthly Film Bulletin_, July 1990**<br>
+
+<![endif]-->
+
+**Tie Me Up! Tie Me Down! (Átame!)**
+
+_Director:_ Pedro Almodóvar  
+_Production Company:_ El Deseo  
+_With financial assistance from:_ Ministerio de Cultura  
+_Executive Producer:_ Agustín Almodóvar  
+_Production Manager:_ Esther García  
+_Production Assistants:_ Juan Manuel Sánchez,
+
+Tino Pont, Miguel de Casas, Esther Rodríguez  
+_Assistant Directors:_ José Luis Escolar,  
+Raul De La Morena  
+_Extras Casting:_ Nueva Agencia  
+_Screenplay:_ Pedro Almodóvar  
+_Director of Photography:_ José Luis Alcaine  
+_Camera Operator:_ Alfredo Mayo  
+_Video Transfers:_ Atanor  
+_Special Effects:_ Reyes Abades  
+_Graphic Design:_ Studio Gatti  
+_Additional Graphic Design:_ Juli Capella, Quim,
+
+Larrea Disseny  
+_Editor:_ José Salcedo  
+_Set Decorators:_ Ferrán Sanchez,  
+Carlo García Cambero, Arturo González  
+_Costume Designer:_ José María de Cossío  
+_Wardrobe:_ Peris Hermanos  
+_Make-up:_ Juan Pedro Hernández  
+_Prosthetics:_ Viuda de Ruiz  
+_Titles:_ Optical Film Effects  
+_Titles Layout:_ Story Film/Pablo Nuñez  
+_Music:_ Ennio Morricone  
+_Sound Recording:_ Goldstein & Steinberg  
+_Sound Re-recording:_ Alfonso Pino  
+_Spain Sound Re-recording:_ Francisco Peramos  
+_London Sound Re-recording:_ Graham V. Hartstone  
+Michael A. Carter, Kevin Taylor  
+_Sound Transfers:_ Dacasound  
+_Foley Recordist:_ Luis Castro  
+_Stunt Co-ordinators:_ Alejandro Cobo, Andres Parra  
+_Armourer:_ José L.M. Chinchilla  
+_Livestock:_ Francisco Ardura  
+_Cast:_
+
+Victoria Abril _(Marina)_  
+Antonio Banderas _(Ricki)_  
+Francisco Rabal _(Maximo Espejo)_  
+Loles León _(Lola)_  
+Julieta Serrano _(Alma)_  
+María Barranco _(Berta)_  
+Rossy de Palma _(bike girl)_  
+Lola Cardona _(director psychiatric ward)_  
+Montse G. Romeu _(journalist)_  
+Emiliano Redondo _(set decorator)_  
+Oswaldo Delgado _(midnight phantom)_  
+Concha Rabal _(drugstore attendant)_  
+Alberto Fernández _(film producer)_  
+José María Tasso _(old man in ward)_  
+Angelina Llongueras _(editor)_  
+Manuel Bandera, Virginia Diez _(tango dancers)_  
+Juana Cordero _(candy shop attendant)_  
+Francisca Caballero _(Marina’s mother)_  
+Francisca Pajuela _(Lola’s daughter)_  
+Victor Aparicio, Carlo García Cambero  
+_(Lola’s brothers)_  
+Tamaki _(black man)_  
+Almudena Garcia _(nurse)_  
+Agustín Almodóvar _(drug store attendant)_  
+Rodolfo Montero _(guard)_  
+Miguel Garcia _(old gypsy)_  
+Pedro Losada _(young gypsy)_  
+
+Spain 1989<br>
+101 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDk5MzgxXX0=
+eyJoaXN0b3J5IjpbLTQ0Mjk3MDY2NF19
 -->
