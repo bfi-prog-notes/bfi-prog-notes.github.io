@@ -22,7 +22,7 @@ As with _Women on the Verge of a Nervous Breakdown_, the plot has as many contri
 **Kim Newman, _Monthly Film Bulletin_, July 1990**<br>
 <br>
 
-**TIE ME UP! TIE ME DOWN! (ÁTAME!)**
+**TIE ME UP! TIE ME DOWN! (ÁTAME!)**  
 _Director:_ Pedro Almodóvar  
 _Production Company:_ El Deseo  
 _With financial assistance from:_ Ministerio de Cultura  
