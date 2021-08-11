@@ -12,18 +12,14 @@ However, credibility has never been a major concern in melodrama, and this, desp
 As with _Women on the Verge of a Nervous Breakdown_, the plot has as many contrivances and coincidences as a classic farce, but here the references are more to the thriller. Given the prevalence of the bondage theme, which has brought the film into ratings troubles in the U.S., Almodóvar surprisingly has refrained from exploiting the fetish in the way that a Hitchcock or an Argento might, reserving his regulation sleaziness for a funny little scene in which Marina plays erotically in the bath with a toy frogman, and rigorously refusing to give any erotic charge to the ropes and gags Ricky uses to keep Marina under control. More surprising, perhaps, is the refusal to make anything of the notion of ‘the ties that bind’, as Ricky’s idea of a perfect marriage, in which he ‘takes care’ of Marina and she has lots of children, is never explicitly equated with his desire to control her physically. Given that Almodóvar, with his habitual distancing, is unlikely to be endorsing Ricky’s idea of women in general and Marina in particular, it is odd that the plot bears the character out without ever providing any explicit criticism of the outmoded and dangerous ideas he represents. The film would be less uncomfortable if Ricky were admirable in the beginning and psychotic at the end, but comfort, perhaps, is beside the point.<br>
 **Kim Newman, _Monthly Film Bulletin_, July 1990**<br>
 
-<![endif]-->
 
-**Tie Me Up! Tie Me Down! (Átame!)**
-
+**TIE ME UP! TIE ME DOWN! (ÁTAME!)****
 _Director:_ Pedro Almodóvar  
 _Production Company:_ El Deseo  
 _With financial assistance from:_ Ministerio de Cultura  
 _Executive Producer:_ Agustín Almodóvar  
 _Production Manager:_ Esther García  
-_Production Assistants:_ Juan Manuel Sánchez,
-
-Tino Pont, Miguel de Casas, Esther Rodríguez  
+_Production Assistants:_ Juan Manuel Sánchez, Tino Pont, Miguel de Casas, Esther Rodríguez  
 _Assistant Directors:_ José Luis Escolar,  
 Raul De La Morena  
 _Extras Casting:_ Nueva Agencia  
@@ -33,9 +29,7 @@ _Camera Operator:_ Alfredo Mayo
 _Video Transfers:_ Atanor  
 _Special Effects:_ Reyes Abades  
 _Graphic Design:_ Studio Gatti  
-_Additional Graphic Design:_ Juli Capella, Quim,
-
-Larrea Disseny  
+_Additional Graphic Design:_ Juli Capella, Quim, Larrea Disseny  
 _Editor:_ José Salcedo  
 _Set Decorators:_ Ferrán Sanchez,  
 Carlo García Cambero, Arturo González  
@@ -56,8 +50,8 @@ _Foley Recordist:_ Luis Castro
 _Stunt Co-ordinators:_ Alejandro Cobo, Andres Parra  
 _Armourer:_ José L.M. Chinchilla  
 _Livestock:_ Francisco Ardura  
-_Cast:_
 
+**Cast**<br>
 Victoria Abril _(Marina)_  
 Antonio Banderas _(Ricki)_  
 Francisco Rabal _(Maximo Espejo)_  
@@ -89,5 +83,5 @@ Pedro Losada _(young gypsy)_
 Spain 1989<br>
 101 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Mjk3MDY2NF19
+eyJoaXN0b3J5IjpbMTM5NzkzNDg0MV19
 -->
