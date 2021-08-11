@@ -82,6 +82,69 @@ Pedro Losada _(young gypsy)_
 
 Spain 1989<br>
 101 mins<br>
+
+**MORRICONE**<br>
+**The Battle of Algiers (La battaglia di Algeri)**
+Sun 1 Aug 15:10; Wed 25 Aug 14:30
+**The Sounds of Ennio Morricone**
+Mon 2 Aug 18:10
+**A Fistful of Dollars (Per un pugno di dollari)**
+Mon 2 Aug 20:45; Sat 7 Aug 11:30;  
+Tue 10 Aug 20:50; Mon 30 12:20
+**Two Mules for Sister Sara**
+Wed 4 Aug 18:00; Sat 21 Aug 20:30
+**Salò, or the 120 Days of Sodom  
+(Salò o Le 120 giornate di Sodoma)**
+Thu 5 Aug 20:45; Tue 10 Aug 17:45;  
+Wed 25 Aug 17:50
+**The Untouchables**
+Fri 6 Aug 17:45; Tue 24 Aug 14:30
+**The Thing**
+Fri 6 Aug 20:50; Tue 24 Aug 20:50
+**For a Few Dollars More  
+(Per qualche dollaro in più)**
+Sat 7 Aug 14:00; Sun 22 Aug 12:10;  
+Mon 30 Aug 15:00
+**The Good, the Bad and the Ugly  
+(Il buono, il brutto, il cattivo)**
+Sat 7 Aug 17:10; Sun 29 Aug 18:20;  
+Mon 30 Aug 18:15
+**White Dog**
+Sat 7 Aug 20:50; Fri 20 Aug 18:10; Fri 27 Aug 20:45
+**Once upon a Time in the West  
+(C’era una volta il west)**
+Sun 8 Aug 12:00; Fri 27 Aug 14:00;  
+Tue 31 Aug 14:00
+**The Mission**
+Sun 8 Aug 15:10; Thu 12 Aug 20:30;  
+Thu 26 Aug 18:00
+**Days of Heaven**
+
+Mon 9 Aug 21:00; Tue 31 Aug 17:50
+
+**Tie Me Up, Tie Me Down (Atame!)**
+
+Wed 11 Aug 20:50; Thu 19 Aug 14:15;  
+Mon 23 Aug 21:00; Tue 31 Aug 20:45
+
+**The Hateful Eight**
+
+Sun 15 Aug 15:00; Sun 22 Aug 18:00
+
+**Once upon a Time in America**
+
+Tue 17 Aug 17:40; Sat 28 Aug 11:20
+
+**The Legend of 1900  
+(La leggenda del pianista sull’oceano)**
+
+Sat 21 Aug 11:50; Sun 29 Aug 15:10
+
+**Cinema Paradiso (Nuovo Cinema Paradiso)**
+
+Sat 21 Aug 14:30; Thu 26 Aug 14:30
+
+**Promotional partner**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzkzNDg0MV19
+eyJoaXN0b3J5IjpbLTE4OTAxMjUyODVdfQ==
 -->
