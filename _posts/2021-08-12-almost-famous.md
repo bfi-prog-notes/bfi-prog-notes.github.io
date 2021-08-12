@@ -127,19 +127,13 @@ Julia Schuler _(waving girl)_
 Brian Vaughan _(real Topeka kid)_  
 Anthony Martelli _(poolside provocateur)_  
 Zach Clairville _(acid kid)_  
-Ian Ridgeway, Isaac Curtiss,
-
-Chris Lennon Davis _(Topeka partiers)_  
+Ian Ridgeway, Isaac Curtiss, Chris Lennon Davis _(Topeka partiers)_  
 Scott N. Stevens _(co-pilot)_  
 Kevin Sussman _(Lenny)_  
 Reathel Bean _(Warwick Hotel clerk)_  
 Tom Riis Farrell _(Plaza doctor)_  
 Laura Bastianelli _(nurse)_  
-Samuel Aaron Roberson,  Brian Andreasen_,_
-
-Jared Hren_,_ Mary Dragicevich, Aura Barr
-
-_(high school band)_  
+Samuel Aaron Roberson,  Brian Andreasen, Jared Hren, Mary Dragicevich, Aura Barr _(high school band)_  
 Daniel Wilson _(journalism teacher)_  
 William Barillaro _(bus driver)_  
 Holly Maples _(flight attendant)_  
@@ -148,19 +142,15 @@ Susan Yeagley _(have a nice day stewardess)_
 Nicole Spector _(hippie girl at airport)_  
 Patrick Irmen _(wanna get high guy)_  
 Nick Swardson _(insane Bowie fan)_  
-Cindy Weber, Kris Weber, Kaitlyn Weber,
-
-Kimberly Weber,  Kristin Weber  
+Cindy Weber, Kris Weber, Kaitlyn Weber, Kimberly Weber,  Kristin Weber  
 _(shocked elevator family)_  
 Samer Sourakli _(moustache boy)_  
 Michelle Moretti _(Swingo’s desk clerk)_  
-Ana Maria Quintana_,_ Lisa Buchignani
+Ana Maria Quintana, Lisa Buchignani _(Arizona housekeepers)_
 
-_(Arizona housekeepers)_
-
-USA 2000
-
+USA 2000  
 123 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjE2MTk4MF19
+eyJoaXN0b3J5IjpbLTIwMDQ3ODY3OTJdfQ==
 -->
