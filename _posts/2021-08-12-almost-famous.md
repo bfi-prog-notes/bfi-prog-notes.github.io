@@ -1,3 +1,14 @@
+---
+layout: post
+title: Almost Famous
+published: true
+date: 2021-08-12
+readtime: true
+categories: ['MEMBER PICKS']
+tags: [Drama, Music]
+metadata: 'USA, 2000, 123 mins<br> Director: Cameron Crowe'
+pdf: '2021-08-12-almost-famous.pdf'
+---
 
 It’s been four years since Cameron Crowe’s last – and best – film _Jerry Maguire_. But during that period he hasn’t been idle: returning to his journalistic roots, he found time to put together a 370-page book of interviews with Billy Wilder. Like Truffaut’s famous book on Hitchcock, _Conversations with Wilder_ (1999) offers the curious spectacle of an almost painfully sensitive and humane fan bowing down before a filmmaker with a much darker, more bitter sensibility. Perhaps critics who become filmmakers are destined to admire the qualities which they themselves lack. For one can’t help noticing that Wilder’s key virtues – cynicism, satirical bite, economy – are precisely those missing from Crowe’s new film _Almost Famous_.
 
@@ -151,6 +162,41 @@ Ana Maria Quintana, Lisa Buchignani _(Arizona housekeepers)_
 USA 2000  
 123 mins
 <br><br>
+
+**REGULAR PROGRAMME**<br>
+**Silent Cinema: The Wit and Wisdom of A.A. Milne + intro by Bryony Dixon, BFI Curator**<br>
+Sun 15 Aug 12:40<br>
+**DVD Launch: Great Noises That Fill the Air: Music, Poetry and Performance on Film**<br>
+Mon 16 Aug 17:50<br>
+**S.O.U.L. Fest 2021**<br>
+Fri 20-Sun 22 Aug<br>
+**Experimenta: Thundercrack! + intro by Jane Giles, author of ‘Scala Cinema 1987-1993**<br>
+Sat 21 Aug 17:00<br>
+**Relaxed Screening: Stand Clear of the Closing Doors**<br>
+Tue 24 Aug 18:00<br>
+**Woman with a Movie Camera: Preview: Souad + pre-recorded Q&A with director Ayten Amin**<br>
+Tue 24 Aug 18:00<br>
+**Terror Vision: Dr Terror’s House of Horrors**<br>
+Thu 26 Aug 20:40<br>
+<br>
+
+**BECOME A BFI MEMBER**  
+ Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](https://www.bfi.org.uk/become-bfi-member)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)  
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We're also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwMDQ3ODY3OTJdfQ==
 -->
