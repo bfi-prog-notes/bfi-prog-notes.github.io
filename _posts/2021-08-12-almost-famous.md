@@ -15,29 +15,24 @@ Always a fluent writer of dialogue, Crowe puts some rip-roaring tirades in Bangs
 
 Despite personable performances from Billy Crudup, Kate Hudson and newcomer Patrick Fugit, these characters have none of the passion and incipient mania that made _Jerry Maguire_ – or John Cusack’s Lloyd Dobler in Crowe’s debut _Say Anything_ – so engaging. At one point William gets angry when Penny describes him as ‘sweet’. But all the characters here are sweet, not least the self-destructive Penny. Crowe’s refusal to call a groupie a groupie (the distinction is that band-aids only give blow-jobs) is symptomatic of a very un-Bangsian excess of mercy towards his characters. Crowe’s most overtly ironic, Wilderesque touch – setting the scene in which Penny has her stomach pumped after an overdose to Stevie Wonder’s sickly-sweet ‘My Cherie Amour’ – makes a traumatic event seem almost inconsequential. And sure enough, Penny is last seen heading for Morocco, happy, smiling and unscarred by her ordeal. In this rock ‘n’ roll circus there are, it seems, no casualties.  
 **John Wrathall, _Sight and Sound_, January 2001**
+<br><br>
 
 
-
-**Almost Famous**  
+**ALMOST FAMOUS**    
 _Director_: Cameron Crowe  
-_©_: DreamWorks LLC,  
-Columbia Pictures Industries Inc.  
+_©_: DreamWorks LLC,  Columbia Pictures Industries Inc.  
 _Production Company_: Vinyl Films  
-_Presented by_: DreamWorks SKG,  
-Columbia Pictures Corporation  
+_Presented by_: DreamWorks SKG,  Columbia Pictures Corporation  
 _Producers_: Cameron Crowe, Ian Bryce  
 _Co-producer_: Lisa Stewart  
-_Associate Producers_: Martin P. Ewing,  
-Steven P. Saeta, Jerry Ziesmer, Scott M. Martin  
+_Associate Producers_: Martin P. Ewing,  Steven P. Saeta, Jerry Ziesmer, Scott M. Martin  
 _Executive for Vinyl Films_: Kristen O’Neill  
-_Production Managers_: Martin P. Ewing,  
-Steven P. Saeta  
+_Production Managers_: Martin P. Ewing,  Steven P. Saeta  
 _Production Co-ordinator_: Noelle Chapin-Green  
 _Production Controller_: Jim Turner  
 _Production Accountant_: Stevie Lazo  
 _Supervising Location Manager_: Jim McCabe  
-_Location Managers_: Kristan Wagner,  
-David Thornsberry, Jay Traynor  
+_Location Managers_: Kristan Wagner,  David Thornsberry, Jay Traynor  
 _1st Assistant Director_: Jerry Ziesmer  
 _Script Supervisor_: Ana Maria Quintana  
 _Casting_: Gail Levin  
@@ -52,8 +47,7 @@ _Additional Digital Effects by_: Pacific Title Digital
 _Special Effects (Supervisor)_: John Frazier  
 _Editors_: Joe Hutshing, Saar Klein  
 _Associate Editor_: Mark Livolsi  
-_Art Directors_: Clay A. Griffith, Clayton R. Hartley, Virginia Randolph-Weaver
-
+_Art Directors_: Clay A. Griffith, Clayton R. Hartley, Virginia Randolph-Weaver  
 _Property Master_: David H. Allen  
 _Costume Designer_: Betsy Heimann  
 _Costume Supervisor_: Michael Dennison  
@@ -63,39 +57,31 @@ _Hair (Department Head)_: Kathryn Blondell
 _Titles/Opticals_: Pacific Title  
 _Colour Timer_: David Orr  
 _Music Score_: Nancy Wilson  
-_Original Songs Written by_: Cameron Crowe,
-
-Nancy Wilson, Ann Wilson  
+_Original Songs Written by_: Cameron Crowe, Nancy Wilson, Ann Wilson  
 _Stillwater is (Russell Hammond)_: Billy Crudup  
 _Stillwater is (Jeff Bebe)_: Jason Lee  
 _Stillwater is (Ed Vallencourt)_: John Fedevich  
 _Stillwater is (Larry Fellows)_: Mark Kozelek  
 _Stillwater Vocals Performed by_: Marti Fredericksen  
-_Additional Musicians_: Peter Frampton,
-
-Mike McCready, Jon Bayless, Ben Smith,
-
-Gordon Kennedy  
+_Additional Musicians_: Peter Frampton, Mike McCready, Jon Bayless, Ben Smith, Gordon Kennedy  
 _Music Supervisor_: Danny Bramson  
 _Executive in Charge of Music_: Todd Homme  
 _Original Songs Produced by_: Nancy Wilson  
 _‘Hour of Need’ Co-produced by_: Peter Frampton  
-_‘You Had to Be There’ Co-produced by_:
-
-Peter Frampton  
+_‘You Had to Be There’ Co-produced by_: Peter Frampton  
 _Music Editor_: Carlton Kaller  
 _Guitar Coach_: Danny Jacob  
 _Production Sound Mixer_: Jeff Wexler  
 _Sound Recordists_: Tim Gomillion, Dennis Rogers  
-_Boom Operator_: Don Coufal
-
+_Boom Operator_: Don Coufal  
 _Supervising Sound Editor_: Mike Wilhoit  
 _Sound Effects Editors_: Tony Lamberti, Dino Dimuro, Scott Wolf, Jon Title  
 _Technical Consultants_: Peter Frampton, Kelly Curtis  
 _Researcher_: Lori Ashcraft  
 _Special Thanks to_: Lawrence Kasdan
 
-_Cast:_Billy Crudup _(Russell Hammond)_  
+**Cast**  
+Billy Crudup _(Russell Hammond)_  
 Frances McDormand _(Elaine Miller)_  
 Kate Hudson _(Penny Lane)_  
 Jason Lee _(Jeff Bebe)_  
@@ -176,5 +162,5 @@ USA 2000
 
 123 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5MjMxNzcyXX0=
+eyJoaXN0b3J5IjpbMTU1MjE2MTk4MF19
 -->
