@@ -17,8 +17,7 @@ two-hander,’ but described the earlier live television transmission as
 **Robert Hanks, _Sight & Sound_, October 2019**
 <br><br>
 
-**DRAMA ’64: A FEAR OF STRANGERS**
-
+**DRAMA ’64: A FEAR OF STRANGERS**  
 _Directed by_: Herbert Wise  
 _Production Company_: ATV  
 _Script Consultant_: Lewis Greifer  
@@ -26,8 +25,7 @@ _Screenplay_: Leon Griffiths
 _Designer_: Peter Roden  
 _Music Composed by_: Jack Parnell
 
-_Cast:_
-
+**Cast**  
 Stanley Baker _(Chief Inspector Dyke)_  
 Earl Cameron _(Ramsey)_  
 Garfield Morgan _(Detective Sergeant Miller)_  
@@ -35,22 +33,18 @@ Peter Williams _(Superintendent Willis)_
 Neil Wilson _(Station Sergeant Joyce)_  
 Ray Austin _(Detective Constable Turnbull)_
 
-ITV tx 10.5.1964
-
-UK 1964
-
+ITV tx 10.5.1964  
+UK 1964  
 52 mins
 
-**Armchair Theatre: The Chocolate Tree**
-
+**ARMCHAIR THEATRE: THE CHOCOLATE TREE**  
 _Director_: Alan Cooke  
 _Production Company_: ABC Television  
 _Producer_: Leonard White  
 _Screenplay_: Andrew Sinclair  
 _Settings by_: Assheton Gorton
 
-_Cast:_
-
+**Cast**  
 Paul Rogers _(Israel Strang)_  
 Zena Walker _(Rachel Strang)_  
 Arthur Pentelow _(Peter Strang)_  
@@ -59,11 +53,10 @@ Earl Cameron _(William Jones)_
 Yemi Ajibade _(Jacob Jones)_  
 Willie Payne _(waiter)_
 
-ITV tx 27.10.1963
-
-UK 1963
-
+ITV tx 27.10.1963  
+UK 1963  
 54 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDU2NjQ2N119
+eyJoaXN0b3J5IjpbLTE3MjY5NTE4MDddfQ==
 -->
