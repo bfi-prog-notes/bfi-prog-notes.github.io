@@ -36,20 +36,17 @@ Casting for over 15 years, **Carolyn McLeod** is a freelance Casting Director, w
 **Chair: Burt Caesar** is a director and an actor in film and in theatre. His acting credits in film include _The Amnesty Files_, _Scoop_, and _Exorcist: The Beginning_, directed by Paul Schrader.  He has directed several film shorts and directed extensively in television drama. Recent TV appearances include in _Unforgotten_ and _Death_ _in Paradise_. He has performed in the West End and on Broadway (_Serious_ _Money_), and at the Royal Court Theatre, National Theatre, Edinburgh Lyceum and Theatre Royal Stratford East amongst others, including in some plays of Shakespeare. He is a former Associate Director at the Royal Court Theatre.
 
 As an educator he has taught/directed at BFI, Rada, Central St Martin’s/UAL, Met Film School, Farnham Film School and elsewhere, plus, in the USA, with Tim Reid’s Legacy Media Institute.
+<br><br>
 
-<![endif]-->
 
-**Television Playhouse:  
-Thunder on Sycamore Street**
-
+**TELEVISION PLAYHOUSE:  
+THUNDER ON SYCAMORE STREET**  
 _Director_: Silvio Narizzano  
-_Production Company_:  
-Granada Television Productions  
+_Production Company_:  Granada Television Productions  
 _Additional Dialogue_: Stanley Mann  
 _Based on a script by_: Reginald Rose
 
-_Cast:_
-
+**Cast**  
 Peter Dyneley _(Arthur Hayes)_  
 Gareth Jones _(Frank Morrison)_  
 Earl Cameron _(Joseph Blake)_  
@@ -95,5 +92,5 @@ Granada TV tx 17.10.1973
 
 BBC tx 6.10.2003
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0NDg1NDU2XX0=
+eyJoaXN0b3J5IjpbLTEwOTcwNDk4NTVdfQ==
 -->
