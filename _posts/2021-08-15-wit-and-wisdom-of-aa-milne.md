@@ -55,7 +55,7 @@ _By [Story and Screenplay]_: A.A. Milne
 _Photography_: H.M. Lomas  
 _Title Illustrations_: Carlo Norway
 
-_Cast:_  
+**Cast**  
 Pauline Johnson _(Miranda Pottlebury)_  
 Leslie Howard _(Richard)_  
 Jeff Barlow _(Uncle Josiah Pottlebury)_  
@@ -63,23 +63,22 @@ Henrietta Watson _(Aunt Priscilla Pottlebury)_
 Mrs Richard Podevin _(housekeeper, ‘the dragon’)_  
 Ivan Berlyn _(Ernest)_
 
-UK 1920
-
+UK 1920  
 27 mins
 
-**The King’s Breakfast**  
+**THE KING’S BREAKFAST**  
 _Director_: Lotte Reiniger  
 _Production Company_: Facts and Fantasies  
 _Collaborators_: Martin Battersby, Arthur Neher  
 _Story_: A.A. Milne
 
-UK 1937
-
+UK 1937  
 11 mins
 
-* Uncredited
+*Uncredited
 
 With live piano accompaniment by Neil Brand
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTUyOTk3N119
+eyJoaXN0b3J5IjpbMTA1MDUwNDQwMV19
 -->
