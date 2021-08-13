@@ -36,21 +36,17 @@ _Photography by_: H.M. Lomas
 _Title illustrations and cartoons by_: Carlo Norway  
 _Studio_: Bushey Studios *
 
-*Cast**  
+**Cast**  
 Faith Celli _(Lilian Montrevor)_  
 C. Aubrey Smith _(John Brice, the great explorer)_  
 Douglas Marshall _(Freddy Fane)_  
 Nellie Cooper _(Mrs Montrevor)_ *  
 F.W. Grant _(Mr Montrevor)_ *
 
-UK 1920
-
+UK 1920  
 28 mins
 
-**Bookworms: A Comedy in Two Volumes by**
-
-**A.A. Milne**
-
+**BOOKWORMS: A COMEDY IN TWO VOLUMES BY A.A. MILNE**  
 _Director_: Adrian Brunel *  
 _Production Company_: Minerva Films  
 _Producer_: Adrian Brunel  
@@ -85,5 +81,5 @@ UK 1937
 
 With live piano accompaniment by Neil Brand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0MTM3MDg3XX0=
+eyJoaXN0b3J5IjpbMTAyNTUyOTk3N119
 -->
