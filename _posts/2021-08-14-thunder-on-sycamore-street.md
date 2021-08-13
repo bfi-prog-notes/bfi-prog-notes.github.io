@@ -57,25 +57,20 @@ Redmond Phillips _(Charlie Denton)_
 Charles Rolfe _(Mr Harkness)_  
 Patricia Laffan _(Phyllis Hayes)_  
 Dudley Hunte _(Johnny Blake)_  
-Sylvia Winters [i.e. Sylvia Wynter]_  
-(Anna Blake)_  
+Sylvia Winters [i.e. Sylvia Wynter]_  (Anna Blake)_  
 Constance Smith _(Mrs Blake)_  
 Janet Brandes _(Mrs Carson)_
 
-ITV tx 11.10.1957
-
-UK 1957
-
+ITV tx 11.10.1957  
+UK 1957  
 52 mins
 
 **Featured clips**
 
-**A Man from the Sun**
-
+**A Man from the Sun**  
 BBC 1956
 
-**Play of the Week:  
-The Death of Bessie Smith**  
+**Play of the Week:  The Death of Bessie Smith**  
 Granada TV tx 28.6.1965
 
 **Dangerman: Deadline**  
@@ -84,13 +79,12 @@ ITV tx 4.6.1961
 **Doctor Who: The 10th Planet**  
 BBC tx 8.10.1966
 
-**Crown Court: To Suffer a Witch Part 1**
-
+**Crown Court: To Suffer a Witch Part 1**  
 Granada TV tx 17.10.1973
 
-**Waking the Dead: Final Cut**
-
+**Waking the Dead: Final Cut**  
 BBC tx 6.10.2003
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTcwNDk4NTVdfQ==
+eyJoaXN0b3J5IjpbLTE0NzM2OTc4NTVdfQ==
 -->
