@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Thunder on Sycamore Street
+published: true
+date: 2021-08-14
+readtime: true
+categories: ['EARL CAMERON']
+tags: [Drama]
+metadata: 'UK, 1957, 52 mins<br> Director: Silvio Narizzano'
+pdf: '2021-08-14-thunder-on-sycamore-street.pdf'
+---
 
 _Followed by a discussion with actor Ashley Walters, novelist and screenwriter Stephen S. Thompson, arts producer and TV historian John Wyver, and casting director Carolyn McLeod. Chaired by season curator Burt Caesar._
 
@@ -85,6 +95,53 @@ Granada TV tx 17.10.1973
 **Waking the Dead: Final Cut**  
 BBC tx 6.10.2003
 <br><br>
+
+**EARL CAMERON<br>
+BRITAIN’S FIRST BLACK SCREEN STAR**<br>
+**Flame in the Streets**<br>
+Sun 8 Aug 15:00; Sat 28 Aug 17:10<br>
+**Sapphire**<br>
+Tue 10 Aug 20:20 (+ discussion); Sat 28 Aug 13:00<br>
+**The Fear of Strangers** (+ intro) + **The Chocolate Tree**<br>
+Sat 14 July 14:10<br>
+**Thunder on Sycamore Street** + discussion with Actor Ashley Walters (schedule permitting) and playwright Stephen S Thompson)<br>
+Sat 14 Aug 17:30<br>
+**African Odysseys present: A Warm December**<br>
+Wed 18 Aug 20:40<br>
+**Pool of London**<br>
+Wed 25 Aug 20:50<br>
+**Two Gentlemen Sharing**<br>
+Mon 23 Aug 20:30<br>
+
+
+
+Season co-curated by actor-director Burt Caesar and the BFI’s Marcus Prince and David Somerset.<br>
+<br>
+Promotional partner <br>
+<img style="float: left;" src="/img/partner/Black Cultural Archives.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
+<br>
+<br>
+
+**Please note:** many of these films contain language, images or other content that reflect views prevalent in its time, but that may cause offence today. The titles are included here for historical, cultural or aesthetic reasons and these views are in no way endorsed by the BFI or its partners.<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0NzM2OTc4NTVdfQ==
 -->
