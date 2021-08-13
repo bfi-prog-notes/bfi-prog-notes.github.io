@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Wit and Wisdom of A.A. Milne
+published: true
+date: 2021-08-15
+readtime: true
+categories: ['SILENT CINEMA']
+tags: [Comedy, Silent]
+metadata: 
+pdf: '2021-08-15-wit-and-wisdom-of-aa-milne.pdf'
+---
 
 Most of us know the stories and poems of A.A. Milne, creator of _Winnie the Pooh_. Here is a rare chance to experience more of his unique humour in two silent comedies made a century ago, playing alongside the first film Lotte Reiniger made in England, illustrating Milne’s poem _The King’s Breakfast_.
 
@@ -14,8 +24,7 @@ In _Bookworms_ Leslie Howard plays a young man in love. The object of his affect
 
 The story is presented as a fairy tale, with Miranda as the fair maid imprisoned in a castle and guarded by a dragon in the form of the elderly housekeeper-cum-chaperone.
 
-The titles are decorated with appropriate imagery and, in a foreshadowing of Brunel’s much more obtuse juxtaposition of text and image in his burlesques, set up oppositions through their content. Thus a card announcing that Miranda ‘lived in a lovely Castle’ is followed by a shot of an ivy-covered house. Richard is cast as the ‘Young Knight’ who must defeat the dragon and the Wicked Uncle who protect Miranda, yet he is far from the ideal fairy tale hero. This construction of the plot around fairy-tale references is just one element of the film’s thematic linking with books and reading, the title card announcing it as  _A Comedy in Two Volumes_. The plot itself revolves around reading and visits to the library and books are the means by which the romantic outcome is engineered. Along the way, there are opportunities to mark out the characters by their reading material, so Miranda is shown buried in Adam Smith’s  
-_The Wealth of Nations_, while her uncle and aunt read more sensational fare such as the biographical work _Life in Mormon Bondage_ and _Shadow of a Crime_ by middlebrow author Hall Caine. While the humour here is merely in the choice of existing titles, Brunel would later mock such middlebrow literature further through the use of parodic titles and plays on author names in his burlesque So _This Is Jollygood_.  
+The titles are decorated with appropriate imagery and, in a foreshadowing of Brunel’s much more obtuse juxtaposition of text and image in his burlesques, set up oppositions through their content. Thus a card announcing that Miranda ‘lived in a lovely Castle’ is followed by a shot of an ivy-covered house. Richard is cast as the ‘Young Knight’ who must defeat the dragon and the Wicked Uncle who protect Miranda, yet he is far from the ideal fairy tale hero. This construction of the plot around fairy-tale references is just one element of the film’s thematic linking with books and reading, the title card announcing it as  _A Comedy in Two Volumes_. The plot itself revolves around reading and visits to the library and books are the means by which the romantic outcome is engineered. Along the way, there are opportunities to mark out the characters by their reading material, so Miranda is shown buried in Adam Smith’s  _The Wealth of Nations_, while her uncle and aunt read more sensational fare such as the biographical work _Life in Mormon Bondage_ and _Shadow of a Crime_ by middlebrow author Hall Caine. While the humour here is merely in the choice of existing titles, Brunel would later mock such middlebrow literature further through the use of parodic titles and plays on author names in his burlesque So _This Is Jollygood_.  
 **From a monograph on Adrian Brunel by BFI Curator Josephine Botting, soon to be published by Edinburgh University Press**
 
 **The King’s Breakfast**  
@@ -79,6 +88,39 @@ UK 1937
 
 With live piano accompaniment by Neil Brand
 <br><br>
+
+**REGULAR PROGRAMME**<br>
+**DVD Launch: Great Noises That Fill the Air: Music, Poetry and Performance on Film**<br>
+Mon 16 Aug 17:50<br>
+**S.O.U.L. Fest 2021**<br>
+Fri 20-Sun 22 Aug<br>
+**Experimenta: Thundercrack! + intro by Jane Giles, author of ‘Scala Cinema 1987-1993**<br>
+Sat 21 Aug 17:00<br>
+**Relaxed Screening: Stand Clear of the Closing Doors**<br>
+Tue 24 Aug 18:00<br>
+**Woman with a Movie Camera: Preview: Souad + pre-recorded Q&A with director Ayten Amin**<br>
+Tue 24 Aug 18:00<br>
+**Terror Vision: Dr Terror’s House of Horrors**<br>
+Thu 26 Aug 20:40<br>
+<br>
+
+**BECOME A BFI MEMBER**  
+ Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](https://www.bfi.org.uk/become-bfi-member)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)  
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We're also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA1MDUwNDQwMV19
 -->
