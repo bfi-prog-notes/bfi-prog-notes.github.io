@@ -43,19 +43,15 @@ _Like Morricone and Wray, who are both classic and incredibly experimental and f
 
 Well, _Pulp Fiction_ [1994] and _Reservoir Dogs_ [1991] in particular, and the black suits go a long way to help it out because they give it that timeless quality, which, in their own way, the dusters give Leone or the trench coats give Jean-Pierre Melville, or the sleek sharkskin suit that the yakuza guys wear in the Takakura Ken movies from the 60s and into the 70s.  
 **Interview by Kim Morgan, _Sight & Sound_, February 2016**
+<br><br>
 
-
-
-**The Hateful Eight**
-
+**THE HATEFUL EIGHT**  
 _Directed by_: Quentin Tarantino  
 _©_: Visiona Romantica Inc.  
 _Presented by_: The Weinstein Company  
-_Executive Producers_: Bob Weinstein,  
-Harvey Weinstein, Georgia Kacandes  
+_Executive Producers_: Bob Weinstein,  Harvey Weinstein, Georgia Kacandes  
 _Produced by_: Richard N. Gladstein, Stacey Sher, Shannon McIntosh  
-_Unit Production Managers_: Marc Hammer,  
-Georgia Kacandes  
+_Unit Production Managers_: Marc Hammer,  Georgia Kacandes  
 _Production Accountant_: M. Ross Michaels  
 _Location Manager_: John Minor  
 _Post-production Supervisor_: Tina Anderson  
@@ -78,23 +74,18 @@ _Head of Department, Hair_: Camille Friend
 _Title Designer_: Jay Johnson  
 _65mm/70mm Film Lab_: FotoKem  
 _Colour by_: FotoKem  
-_Music Composed and Orchestrated by_:  
-Ennio Morricone  
-_Score Performed by_:  
-Czech National Symphony Orchestra  
+_Music Composed and Orchestrated by_:  Ennio Morricone  
+_Score Performed by_:  Czech National Symphony Orchestra  
 _Music Supervisor_: Mary Ramos-Oden  
 _Production Sound Mixer_: Mark Ulano  
-_Re-recording Mixers_: Michael Minkler,  
-Christian P. Minkler  
-_Supervising Sound Editors_: Wylie Stateman,  
-Harry Cohen  
+_Re-recording Mixers_: Michael Minkler,  Christian P. Minkler  
+_Supervising Sound Editors_: Wylie Stateman,  Harry Cohen  
 _Stunt Co-ordinator_: Jeff Dashnaw  
 _Weapons Specialist_: Thell Reed  
 _Unit Publicist_: William Casey  
 _Digital Intermediate by_: Shed
 
-_Cast:_
-
+**Cast**  
 Samuel L. Jackson _(Major Marquis Warren)_  
 Kurt Russell _(John ‘The Hangman’ Ruth)_  
 Jennifer Jason Leigh _(Daisy Domergue)_  
@@ -113,9 +104,9 @@ Craig Stark _(Chester Charles Smithers)_
 Belinda Owino _(Gemma)_  
 Channing Tatum _(Jody)_
 
-USA 2015©
-
+USA 2015©  
 167 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4NTQ5ODk3XX0=
+eyJoaXN0b3J5IjpbMjQxMTY3OTQxXX0=
 -->
