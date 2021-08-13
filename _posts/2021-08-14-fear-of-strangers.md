@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Fear of Strangers + The Chocolate Tree
+title: A Fear of Strangers +<br>The Chocolate Tree
 published: true
 date: 2021-08-14
 readtime: true
