@@ -43,51 +43,49 @@ _Additional Photography:_  Richard Greatrex, Steven Alcorn, David Scott<br>
 _Lighting:_  Bruce Kington<br>
 _Editor:_  John Mister<br>
 _Music:_  The Invisible Girls<br>
-_Additional Music:_  Mantovani and his Orchestra, Gordon Raitt
-_Sound Recording:_  Diana Rushton,
-Stuart Edwards
+_Additional Music:_  Mantovani and his Orchestra, Gordon Raitt<br>
+_Sound Recording:_  Diana Rushton, Stuart Edwards<br>
 
 **With**<br>
-John Cooper Clarke
-Linton Kwesi Johnson
-Jules Deelder
-Michèle Roberts
-Attila The Stockbroker
-Seething Wells
-Cyrene Hilary Mason _(mother)_
-Sally Cranfield _(lost woman)_
-Andy de la Tour _(Raoul)_
-Jan Carter, Luke Kelly  _(The Chums)_
-Philip Ward  _(choirboy)_
-Steven Bewley, Darren Ellis, Steve Langton,Mark Luxford _(boys)_
-Andy Buxton, Andrew Constable
-_From_ Melody Maker: Patrick Humphries  _(interviewers)_
+John Cooper Clarke<br>
+Linton Kwesi Johnson<br>
+Jules Deelder<br>
+Michèle Roberts<br>
+Attila The Stockbroker<br>
+Seething Wells<br>
+Cyrene Hilary Mason _(mother)_<br>
+Sally Cranfield _(lost woman)_<br>
+Andy de la Tour _(Raoul)_<br>
+Jan Carter, Luke Kelly  _(The Chums)_<br>
+Philip Ward  _(choirboy)_<br>
+Steven Bewley, Darren Ellis, Steve Langton,Mark Luxford _(boys)_<br>
+Andy Buxton, Andrew Constable<br>
+_From_ Melody Maker: Patrick Humphries  _(interviewers)_<br>
 
 UK 1982<br>
-61 mins
+61 mins<br>
 
-**DREAD BEAT AND BLOOD**
-_Director and Producer:_  Franco Rosso
-_Sponsor:_  Arts Council of Great Britain
-_Production Company:_  Rebel Movies
-_Script:_  Franco Rosso, Linton Kwesi Johnson
-_Camera:_  Ivan Strasburg, Pasco MacFarland
-_Editor:_  David Hope
-_Sound:_  Mike McDuffie, Eddie Tise,
-Steve Shaw, Richard King
+**DREAD BEAT AND BLOOD**<br>
+_Director and Producer:_  Franco Rosso<br>
+_Sponsor:_  Arts Council of Great Britain<br>
+_Production Company:_  Rebel Movies<br>
+_Script:_  Franco Rosso, Linton Kwesi Johnson<br>
+_Camera:_  Ivan Strasburg, Pasco MacFarland<br>
+_Editor:_  David Hope<br>
+_Sound:_  Mike McDuffie, Eddie Tise, Steve Shaw, Richard King<br>
 
-**With**
-Linton Kwesi Johnson
-Poet and the Roots
+**With**<br>
+Linton Kwesi Johnson<br>
+Poet and the Roots<br>
 
-UK 1979
-45 mins
+UK 1979<br>
+45 mins<br>
 
-**Great Noises That Fill the Air**
-**(2-Disc DVD Set)**
-Originally produced for the Arts Council between 1978 and 1996, these rare archive films showcase a diverse range of rich, inventive approaches to the urgent social and political contexts and motivations that trigger music and art making.
+**Great Noises That Fill the Air**<br>
+**(2-Disc DVD Set)**<br>
+Originally produced for the Arts Council between 1978 and 1996, these rare archive films showcase a diverse range of rich, inventive approaches to the urgent social and political contexts and motivations that trigger music and art making.<br>
 
-Available for purchase at the BFI Shop **shop.bfi.org.uk**
+Available for purchase at the BFI Shop **shop.bfi.org.uk**<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTUxNTI0Myw0OTI1NzM3MDFdfQ==
+eyJoaXN0b3J5IjpbNzA0MDc1MDgzLDQ5MjU3MzcwMV19
 -->
