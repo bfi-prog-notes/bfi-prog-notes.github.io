@@ -31,43 +31,24 @@ I once heard my friend, novelist Caryl Phillips, tell an audience that when he w
 
 **Kevin Le Gendre** is a British journalist, broadcaster and author whose work focuses on Black music. He is deputy editor of _Echoes_ magazine, has written for a wide range of publications, including _Jazzwise_, _MusicWeek_, _Vibrations_ and  _The Independent on Sunday_ and is a contributor to such radio programmes as BBC Radio 3’s _J to Z_ and BBC Radio 4’s _Front Row_. At the 2009 Parliamentary Jazz Awards Le Gendre was chosen as ‘Jazz Journalist of the Year’. He is the author of _Soul Unsung: Reflections on the Band in Black Popular Music_ (2012), _Don’t Stop the Carnival: Black British Music: Vol 1 from the Middle Ages to the 1960s_ (2018) and _Hear My Train a Comin’: The Songs of Jimi Hendrix_ (2020).<br>
 
-<![endif]-->
 
-**Ten Years in an Open Necked Shirt**
-
+**Ten Years in an Open Necked Shirt**<br>
 _Director:_  Nick May
-
-_Producers:_  Elizabeth Taylor-Mead,
-
-Peter Berry
-
+_Producers:_  Elizabeth Taylor-Mead, Peter Berry
 _Sponsor:_  Arts Council of Great Britain
-
 _Production Companies:_  Metropolis Pictures, Channel Four Television Company
-
 _Executive Producer:_  Rodney Wilson
-
 _Script:_  Nick May, David Kelly
-
 _Lighting Camera:_  Oliver Stapleton
-
-_Additional Photography:_  Richard Greatrex,
-
-Steven Alcorn, David Scott
-
+_Additional Photography:_  Richard Greatrex, Steven Alcorn, David Scott
 _Lighting:_  Bruce Kington
-
 _Editor:_  John Mister
-
 _Music:_  The Invisible Girls
-
 _Additional Music:_  Mantovani and his Orchestra, Gordon Raitt
-
 _Sound Recording:_  Diana Rushton,
-
 Stuart Edwards
 
-_With:_
+**With**
 
 John Cooper Clarke
 
@@ -139,5 +120,5 @@ Originally produced for the Arts Council between 1978 and 1996, these rare archi
 
 Available for purchase at the BFI Shop **shop.bfi.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjU3NDQ1NF19
+eyJoaXN0b3J5IjpbMTk5MjQ0MDI4M119
 -->
