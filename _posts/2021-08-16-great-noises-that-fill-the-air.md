@@ -31,8 +31,7 @@ I once heard my friend, novelist Caryl Phillips, tell an audience that when he w
 
 **Kevin Le Gendre** is a British journalist, broadcaster and author whose work focuses on Black music. He is deputy editor of _Echoes_ magazine, has written for a wide range of publications, including _Jazzwise_, _MusicWeek_, _Vibrations_ and  _The Independent on Sunday_ and is a contributor to such radio programmes as BBC Radio 3’s _J to Z_ and BBC Radio 4’s _Front Row_. At the 2009 Parliamentary Jazz Awards Le Gendre was chosen as ‘Jazz Journalist of the Year’. He is the author of _Soul Unsung: Reflections on the Band in Black Popular Music_ (2012), _Don’t Stop the Carnival: Black British Music: Vol 1 from the Middle Ages to the 1960s_ (2018) and _Hear My Train a Comin’: The Songs of Jimi Hendrix_ (2020).<br>
 
-
-**Ten Years in an Open Necked Shirt**<br>
+**TEN YEARS IN AN OPEN NECKED SHIRT**<br>
 _Director:_  Nick May
 _Producers:_  Elizabeth Taylor-Mead, Peter Berry
 _Sponsor:_  Arts Council of Great Britain
@@ -48,37 +47,21 @@ _Additional Music:_  Mantovani and his Orchestra, Gordon Raitt
 _Sound Recording:_  Diana Rushton,
 Stuart Edwards
 
-**With**
-
+**With**<br>
 John Cooper Clarke
-
 Linton Kwesi Johnson
-
 Jules Deelder
-
-Michèle Roberts,
-
+Michèle Roberts
 Attila The Stockbroker
-
 Seething Wells
-
 Cyrene Hilary Mason _(mother)_
-
 Sally Cranfield _(lost woman)_
-
-Andy de la Tour **_(_**_Raoul)_
-
+Andy de la Tour _(Raoul)_
 Jan Carter, Luke Kelly  _(The Chums)_
-
 Philip Ward  _(choirboy)_
-
-Steven Bewley, Darren Ellis, Steve Langton,
-
-Mark Luxford _(boys)_
-
+Steven Bewley, Darren Ellis, Steve Langton,Mark Luxford _(boys)_
 Andy Buxton, Andrew Constable
-
-_From_ Melody Maker_:_ Patrick Humphries  _(interviewers)_
+_From_ Melody Maker: Patrick Humphries  _(interviewers)_
 
 UK 1982
 
@@ -120,5 +103,5 @@ Originally produced for the Arts Council between 1978 and 1996, these rare archi
 
 Available for purchase at the BFI Shop **shop.bfi.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjQ0MDI4M119
+eyJoaXN0b3J5IjpbNDkyNTczNzAxXX0=
 -->
