@@ -63,45 +63,31 @@ Steven Bewley, Darren Ellis, Steve Langton,Mark Luxford _(boys)_
 Andy Buxton, Andrew Constable
 _From_ Melody Maker: Patrick Humphries  _(interviewers)_
 
-UK 1982
-
+UK 1982<br>
 61 mins
 
-**Dread Beat and Blood**
-
+**DREAD BEAT AND BLOOD**
 _Director and Producer:_  Franco Rosso
-
 _Sponsor:_  Arts Council of Great Britain
-
 _Production Company:_  Rebel Movies
-
 _Script:_  Franco Rosso, Linton Kwesi Johnson
-
 _Camera:_  Ivan Strasburg, Pasco MacFarland
-
 _Editor:_  David Hope
-
 _Sound:_  Mike McDuffie, Eddie Tise,
-
 Steve Shaw, Richard King
 
-_With:_
-
+**With**
 Linton Kwesi Johnson
-
 Poet and the Roots
 
 UK 1979
-
 45 mins
 
 **Great Noises That Fill the Air**
-
 **(2-Disc DVD Set)**
-
 Originally produced for the Arts Council between 1978 and 1996, these rare archive films showcase a diverse range of rich, inventive approaches to the urgent social and political contexts and motivations that trigger music and art making.
 
 Available for purchase at the BFI Shop **shop.bfi.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyNTczNzAxXX0=
+eyJoaXN0b3J5IjpbLTYyMjg1MjM1Myw0OTI1NzM3MDFdfQ==
 -->
