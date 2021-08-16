@@ -10,7 +10,7 @@ metadata: 'UK 1979, 45 mins<br> Director: Franco Rosso<br> UK 1982, 61 mins<br> 
 pdf: '2021-08-16-great-noises-that-fill-the-air.pdf'
 ---
 
-_Tonight’s DVD launch event will include a post-screening conversation between cultural producer, writer and musician Chardine Taylor-Stone and journalist, broadcaster and author Kevin Le Gendre._<br>
+_Tonight’s DVD launch event will include a post-screening conversation between cultural producer, writer and musician Chardine Taylor Stone and journalist, broadcaster and author Kevin Le Gendre._<br>
 
 **Ten Years in an Open Necked Shirt**<br>
 This was my first film out of film school and it took years to get made. I lived in London but I took a freelance job at Granada TV in Manchester to get to meet John. He once showed me a damp basement full of drafts of his work, which he had constantly refined. He and his friend, the artist Steve Maguire, used to sit working in small notebooks in a pub on the Bury New Road, with Steve sketching the clientele or characters from John’s work. Theirs was a surreal, smoke-filled world reminiscent of the romantic poets. John’s work had been in development for many years but had unexpectedly endowed punk with the fully articulated wit of a performance poet and stand-up comedian.
