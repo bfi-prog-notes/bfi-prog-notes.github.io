@@ -138,11 +138,11 @@ Chuck L. Low _(Deborah Gelly’s father)_ *
 Ron Nummi _(waiter)_ *  
 Ryan Paris  *
 
-USA/Italy 1983©
-
+USA/Italy 1983©  
 255 mins (+ 40min interval)
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTAwNTcxXX0=
+eyJoaXN0b3J5IjpbNDYzNjU3NzM3XX0=
 -->
