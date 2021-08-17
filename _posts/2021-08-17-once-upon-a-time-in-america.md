@@ -16,8 +16,7 @@ All the characteristic elements of Sergio Leone’s cinema are to be found in _O
 **Gian Luca Farinelli, Director of Cineteca di Bologna**
 <br><br>
 
-**ONCE UPON A TIME IN AMERICA**
-
+**ONCE UPON A TIME IN AMERICA**  
 _Directed by_: Sergio Leone  
 ©: Embassy International Pictures  
 _a_ P.S.O. International _release_  
@@ -29,28 +28,22 @@ _Executive in Charge of Production_: Fred Caruso
 _Montreal Crew Production Manager_: Ginette Hardy  
 _Production Supervisor_: Mario Cotone  
 _Unit Manager_: Walter Massi  
-_New York Crew Production Co-ordinator_:  
-Gail Kearns  
+_New York Crew Production Co-ordinator_:  Gail Kearns  
 _Production Auditor_: Gianna Di Michele  
-_Accountants_: Fausto Capozzi, Sergio Rosa,  
-Diana Di Michele  
+_Accountants_: Fausto Capozzi, Sergio Rosa,  Diana Di Michele  
 _New York Crew Accountant_: Dominique Bruballa  
 _Montreal Crew Accountant_: Lucy Drolet  
 _Location Manager_: Attilio Viti  
-_New York Crew Location Manager_:  
-Robert Rothbard  
+_New York Crew Location Manager_:  Robert Rothbard  
 _Montreal Crew Location Manager_: Pierre Laberge  
 _New York Crew Location Controller_: Herb Hetzer  
 _Consultant to the Producer_: Robert Benmussa  
 _Dialogue Director_: Brian Freilino  
 _1st Assistant Director_: Fabrizio Sergenti Castellani  
 _Assistant Director_: Luca Morsella  
-_New York Crew Assistant Directors_:  
-Dennis Benatar, Amy Wells  
+_New York Crew Assistant Directors_:  Dennis Benatar, Amy Wells  
 _Casting_: Cis Corman, Joy Todd  
-_Screenplay by_: Leonardi Benvenuti,  
-Piero De Bernardi, Enrico Medioli,  
-Franco Arcalli, Franco Ferrini, Sergio Leone  
+_Screenplay by_: Leonardi Benvenuti,  Piero De Bernardi, Enrico Medioli, Franco Arcalli, Franco Ferrini, Sergio Leone  
 _Additional Dialogue_: Stuart Kaminsky  
 _Based on the novel_ The Hoods _by_: Harry Grey  
 _Director of Photography_: Tonino Delli Colli  
@@ -66,21 +59,17 @@ _Costume Designer_: Gabriella Pescucci
 _New York Crew Associate Costume Designer_: Richard Bruno  
 _Assistant Costume Designers_: Raffaella Leone, Marina Frassine  
 _Costumes_: Tirelli  
-_Make-up Dept._: Nilo Jacoponi,  
-Manlio Rocchetti, Gino Zamprioli  
-_Hair Dept._: Maria Teresa Corridoni,  
-Renata Magnanti, Enzo Cardella  
+_Make-up Dept._: Nilo Jacoponi,  Manlio Rocchetti, Gino Zamprioli  
+_Hair Dept._: Maria Teresa Corridoni,  Renata Magnanti, Enzo Cardella  
 _Titles and Optical Effects_: Studio 4  
-_Music Composed and Directed by_:  
-Ennio Morricone  
+_Music Composed and Directed by_:  Ennio Morricone  
 _Pan Flute_: Gheorghe Zamfir  
 _Sound Recording Mixer_: Fausto Ancillai  
 _Dubbing Editor_: Robert Rietti  
 _Stunt Co-ordinator_: Benito Stefanelli  
 _Studio and Synchronization_: Cinecittà
 
-_Cast:_
-
+**Cast**  
 Robert De Niro _(David ‘Noodles’ Aaronson)_  
 James Woods _(Maximilian ‘Max’ Bercovicz)_  
 Elizabeth McGovern _(Deborah Gelly)_  
@@ -133,8 +122,7 @@ Marcia Jean Kurtz _(Max’s mother)_
 Estelle Harris _(Peggy’s mother)_  
 Gerritt Debeer _(drunk)_  
 Jennifer Connelly _(young Deborah)_  
-Margherita Pace_  
-(body double for Jennifer Connelly)_  
+Margherita Pace _(body double for Jennifer Connelly)_  
 Alexander Godfrey _(newstand man)_  
 Cliff Cudney _(mounted policeman)_  
 Paul Farentino _(2nd mounted policeman)_  
@@ -156,5 +144,5 @@ USA/Italy 1983©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5NTIwMTE5XX0=
+eyJoaXN0b3J5IjpbLTI1OTAwNTcxXX0=
 -->
