@@ -11,8 +11,48 @@ In Disney’s cult fantasy _The Watcher in the Woods_ the Curtis family – Hele
 Based on a 1976 novel by Florence Engel Randall, and directed by English journeyman John Hough, _The Watcher in the Woods_ is a beautifully shot, well-acted (21-year-old Johnson is especially terrific) curio, an oddball artefact from the period in Disney’s history when the studio was making a bid for relevance in the post-_Star Wars_ landscape of mainstream cinema. This period also produced cult favourites such as _The Black Hole_ and _Tron_, but neither of those can boast the decidedly troubled history – nor the eerie atmosphere – of this production.
 
 Unhappy with its initial reception, Disney recalled the film and embarked on a tortuous process of rewrites (there were reportedly 152 possible conclusions in the running) and reshoots that resulted in two variant endings, one of which made the final cut while the other, which was to utilise special effects to create an alien world, remained unfinished. Meanwhile, tales abound of tension on the set involving an irritable Bette Davis, nervous executives and an embattled director.<br>
+**Joseph Stannard, _Sight & Sound_, March 2011**<br>
 
-Joseph Stannard_, Sight & Sound_, March 2011
+**THE WATCHER IN THE WOODS**<br>
+Directed by:_ John Hough  
+_©:_ Walt Disney Productions  
+_Presented by:_ Walt Disney Productions  
+_Produced by:_ Ron Miller  
+_Co-producer:_ Tom Leetch  
+_Screenplay by:_ Brian Clemens, Harry Spalding, Rosemary Anne Sisson  
+_From the novel_ A Watcher in the Woods _by:_ Florence Engel Randall  
+_Director of Photography:_ Alan Hume  
+_Final Sequence Designed by:_ Harrison Ellenshaw  
+_Photographic Effects:_ Robin Browne  
+_Final Sequence Visual Effects:_ David Mattingly, Richard Kendall, Don Henry  
+_Special Effects:_ John Richardson  
+_Editor:_ Geoffrey Foot  
+_Production Designer:_ Elliot Scott  
+_Art Director:_ Alan Cassie  
+_Costume Designer:_ Emma Porteous  
+_Make-up Chief:_ Ernie Gasser  
+_Hairdressing Chief:_ Joyce James  
+_Music Composed & Conducted by:_ Stanley Myers  
+_Sound Recordists:_ Claude Hitchcock,
+
+Gerry Humphreys_Sound Editor:_ Jim Shields_Stunt Supervisor:_ Vic Armstrong_Filmed at:_ Pinewood Studios<br>
+
+**Cast**  
+Bette Davis _(Mrs Aylwood)_  
+Carroll Baker _(Helen Curtis)_  
+David McCallum _(Paul Curtis)_  
+Lynn-Holly Johnson _(Jan Curtis)_  
+Kyle Richards _(Ellie Curtis)_  
+Ian Bannen _(John Keller)_  
+Richard Pasco _(Tom Colley)_  
+Frances Cuka _(Mary Fleming)_  
+Benedict Taylor _(Mike Fleming)_  
+Eleanor Summerfield _(Mrs Thayer)_  
+Georgina Hale _(young Mrs Aylwood)_
+
+USA/UK 1980
+
+84 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ0NjUyMF19
+eyJoaXN0b3J5IjpbLTEyMTcxNDA1NTddfQ==
 -->
