@@ -1,14 +1,21 @@
-
-<![endif]-->
+---
+layout: post
+title: Rebel Dread
+published: true
+date: 2021-08-20
+readtime: true
+categories: ['S.O.U.L. FEST 2021']
+tags: [Music]
+metadata: 'UK 2020, 86 mins<br> Director: William E. Badgley'
+pdf: '2021-08-20-rebel-dread.pdf'
+---
 
 _+ Pre-recorded Q&A with Don Letts_
 
-S.O.U.L Fest 2021 are proud to present the first UK festival screening of _Rebel Dread_, the story of Don Letts, the iconic cultural mover and shaker, filmmaker, musician and raconteur. Narrated by the man himself, William E. Badgley’s film explores his relationship with the UK’s punk scene in the 70s, his burgeoning career as a music video and filmmaker. Insightful, generous and crackling with energy, _Rebel Dread_ is a must see.
+S.O.U.L Fest 2021 are proud to present the first UK festival screening of _Rebel Dread_, the story of Don Letts, the iconic cultural mover and shaker, filmmaker, musician and raconteur. Narrated by the man himself, William E. Badgley’s film explores his relationship with the UK’s punk scene in the 70s, his burgeoning career as a music video and filmmaker. Insightful, generous and crackling with energy, _Rebel Dread_ is a must see.<br>
+**bfi.org.uk**
 
-bfi.org.uk
-
-**Director’s Notes**
-
+**Director’s Notes**  
 For Don Letts, the instrument is influence… influences from politics, film, fashion and music; influences that you can either play or be played by.
 
 Being first generation British-born-Black in the 1950s, Don was born into a divergent cross section of two different, radically creative and explosive cultures: the Jamaican roots culture of his immigrant parents and the desperate post-war climate of working class British youth. Both were hostile environments where the odds were stacked against you, but as the world would soon see, both unlikely sources held the potential to change the world forever. But at the time, the outlook for both were grim, incredibly separate and seemingly at odds.
@@ -44,16 +51,20 @@ Through it all, Don seemed to know that becoming who you truly are means having 
 
 
 **REBEL DREAD**  
-_Directed by__:_ William E. Badgley_Production Company:_ Molasses  Manifesto_Presented by:_ Hindsight  Media, Bohemia Media, Head Gear Films, Moviehouse Entertainment  
-_Executive Producers__:_ Don Letts, Compton Ross, Gary Phillips, Lucy Fenton, James Swarbick, Christos Michaels  
-_Produced by__:_ Phil Hunt, Mark Vennis_Associate Producer:_ Allyson Baker_Written by:_ William E. Badgley_Directors of Photography:_ Alasdair Oglivie,
-William E. Badgley  
-_Motion Graphics by__:_ Burak N. Kurt  
-_Edited by__:_ Eric Pritchard  
-_Original Score by__:_ Von Wildenhaus_  
-Music Supervisor:_ Samantha Simmons  
+_Directed by:_ William E. Badgley  
+_Production Company:_ Molasses  Manifesto  
+_Presented by:_ Hindsight Media, Bohemia Media, Head Gear Films, Moviehouse Entertainment  
+_Executive Producers:_ Don Letts, Compton Ross, Gary Phillips, Lucy Fenton, James Swarbick, Christos Michaels  
+_Produced by:_ Phil Hunt, Mark Vennis  
+_Associate Producer:_ Allyson Baker  
+_Written by:_ William E. Badgley  
+_Directors of Photography:_ Alasdair Oglivie,William E. Badgley  
+_Motion Graphics by:_ Burak N. Kurt  
+_Edited by:_ Eric Pritchard  
+_Original Score by:_ Von Wildenhaus
+_Music Supervisor:_ Samantha Simmons  
 
-**With**
+**With**<br>
 Don Letts  
 Desmond Coy  
 Norman Jay  
