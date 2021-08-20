@@ -54,7 +54,7 @@ _Lighting:_  Bruce Kington<br>
 _Editor:_  John Mister<br>
 _Music:_  The Invisible Girls<br>
 _Additional Music:_  Mantovani and his Orchestra, Gordon Raitt<br>
-_Sound Recording:_  Diana Rushton, Stuart Edwards<br>
+_Sound Recording:_  Diana Rushton,Stuart Edwards<br>
 
 **With**<br>
 John Cooper Clarke<br>
@@ -82,7 +82,7 @@ _Production Company:_  Rebel Movies<br>
 _Script:_  Franco Rosso, Linton Kwesi Johnson<br>
 _Camera:_  Ivan Strasburg, Pasco MacFarland<br>
 _Editor:_  David Hope<br>
-_Sound:_  Mike McDuffie, Eddie Tise, Steve Shaw, Richard King<br>
+_Sound:_  Mike McDuffie, Eddie Tise,Steve Shaw, Richard King<br>
 
 **With**<br>
 Linton Kwesi Johnson<br>
@@ -91,7 +91,7 @@ Poet and the Roots<br>
 UK 1979<br>
 45 mins<br>
 
-**Great Noises That Fill the Air (2-Disc DVD Set)**<br>
+**Great Noises That Fill the Air *(2-Disc DVD Set)**<br>
 Originally produced for the Arts Council between 1978 and 1996, these rare archive films showcase a diverse range of rich, inventive approaches to the urgent social and political contexts and motivations that trigger music and art making.<br>
 
 Available for purchase at the BFI Shop **shop.bfi.org.uk**<br>
@@ -113,3 +113,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTAyNTcyNzcyNF19
+-->
