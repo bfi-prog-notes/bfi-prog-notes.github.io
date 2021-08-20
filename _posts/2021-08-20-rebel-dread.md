@@ -15,7 +15,8 @@ _+ Pre-recorded Q&A with Don Letts_
 S.O.U.L Fest 2021 are proud to present the first UK festival screening of _Rebel Dread_, the story of Don Letts, the iconic cultural mover and shaker, filmmaker, musician and raconteur. Narrated by the man himself, William E. Badgley’s film explores his relationship with the UK’s punk scene in the 70s, his burgeoning career as a music video and filmmaker. Insightful, generous and crackling with energy, _Rebel Dread_ is a must see.
 **bfi.org.uk**
 
-**Director’s Notes**  For Don Letts, the instrument is influence… influences from politics, film, fashion and music; influences that you can either play or be played by.
+**Director’s Notes**<br>
+For Don Letts, the instrument is influence… influences from politics, film, fashion and music; influences that you can either play or be played by.
 
 Being first generation British-born-Black in the 1950s, Don was born into a divergent cross section of two different, radically creative and explosive cultures: the Jamaican roots culture of his immigrant parents and the desperate post-war climate of working class British youth. Both were hostile environments where the odds were stacked against you, but as the world would soon see, both unlikely sources held the potential to change the world forever. But at the time, the outlook for both were grim, incredibly separate and seemingly at odds.
 
