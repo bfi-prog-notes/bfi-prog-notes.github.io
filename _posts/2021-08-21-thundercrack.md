@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Thundercrack!
+published: true
+date: 2021-08-21
+readtime: true
+categories: ['EXPERIMENTA']
+tags: [Sex, Experimental]
+metadata: 'USA 1975, 159 mins<br> Director: Curt McDowell'
+pdf: '2021-08-21-thundercrack.pdf'
+---
 _+ intro by Jane Giles, author of ‘Scala Cinema 1978-1993’_
 
 A great many Londoners of a certain age remember Curt McDowell’s notorious art/trash/porn crossover with genuine fondness. Made in 1975, it became a monthly staple at the legendary Scala Cinema in King’s Cross throughout the 1980s and early 1990s, usually double- or triple-billed with similarly outré fare by Stephen Sayadian (_Café Flesh_, 1982), Doris Wishman (_Let Me Die a Woman_, 1978) or Edward D. Wood Jr (_Glen or Glenda_, 1953), and attending it became something of a rite of passage for more adventurous cinephiles, who were best advised not to look too closely at what fellow audience members might be doing in neighbouring seats.
@@ -11,7 +21,7 @@ But for those on _Thundercrack!_’s highly individual wavelength, it’s an abs
 
 Until now, _Thundercrack!_ has only been available on video courtesy of VHS and VHS-sourced releases of dubious provenance. A 30th-anniversary DVD was announced in 2004, and five years later Synapse Films promised a high-definition restoration for the 35th. It finally emerged in late 2015, a full 40 years on, but it was well worth the wait. Much of the delay was caused by some considerable restoration challenges. The original negative and magnetic sound recordings vanished decades ago, only five prints were ever struck and only one of them preserved the film at its full length. Much projected, it was in less than optimum condition, but footage and frames from the other prints (one of which contained unique material, duly spliced back in) and additional digital restoration has produced some remarkable results. _Thundercrack!_ will always look like what it is – an extremely low-budget black-and-white 16mm semi-underground film – but unless the negative turns up it’s hard to imagine a better presentation.
 
-In life, McDowell rarely settled for less than an outrageously impressive package, and it’s good to see the same principle being so firmly applied here.
+In life, McDowell rarely settled for less than an outrageously impressive package, and it’s good to see the same principle being so firmly applied here.<br>
 **Michael Brooke, _Sight & Sound_, March 2016**<br>
 
 **A contemporary review**<br>
@@ -34,8 +44,7 @@ _Original story_: Mark Ellinger, Curt McDowell
 _Photography_: Curt McDowell  
 _Lighting_: George Kuchar  
 _Gaffer/Production Photographer_: Gail Lawrence  
-_Miniatures/Special Effects_: Curt McDowell,  
-George Kuchar  
+_Miniatures/Special Effects_: Curt McDowell, George Kuchar  
 _Editor_: Curt McDowell  
 _Coiffure/Make-up for Ms Eaton_: Mr Dominic  
 _Title Design_: Holly Hood  
@@ -45,7 +54,7 @@ _Sound Recording_: Roy Ramsing
 _Music Recording_: Steve Malcolm  
 _Special Sound Effects_: Mark Ellinger
 
-_Cast:_  
+**Cast**<br> 
 Marion Eaton _(Mrs Gert Hammond)_  
 George Kuchar _(Bing)_  
 Melinda McDowell _(Sash)_  
@@ -103,6 +112,21 @@ Sun 26 Sep 12:40<br>
 Tue 28 Sep 18:00<br>
 **Terror Vision: Altered States**<br>
 Thu 30 Sep 21:00<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTg5OTkwMDksMzM1MjA5NDExXX0=
--->
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
