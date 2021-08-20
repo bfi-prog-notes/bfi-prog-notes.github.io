@@ -98,7 +98,7 @@ Sun 22 Aug 18:30
 Sun 22 Aug 16:00  
 
 For updates visit **soulfilmfest.co.uk**  
-<img style="float: left;" src="/img/SOUL.png" width="40%" height="40%"><br><br><br><b<br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/SOUL.png" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br><br><br>
 <br>
 <br>
 <br>
