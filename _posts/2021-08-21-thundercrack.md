@@ -78,8 +78,7 @@ USA 1975<br>
 
 
 **REGULAR PROGRAMME**<br>
-**Experimenta: Thundercrack! + intro by  
-Jane Giles, author of ‘Scala Cinema 1987-1993**<br>
+**Experimenta: Thundercrack! + intro by Jane Giles, author of ‘Scala Cinema 1987-1993**<br>
 Sat 21 Aug 17:00<br>
 **Relaxed Screening:  Stand Clear of the Closing Doors**<br>
 Tue 24 Aug 18:00<br>
