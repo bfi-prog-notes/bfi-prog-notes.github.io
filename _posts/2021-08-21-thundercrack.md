@@ -64,13 +64,10 @@ Laurie Hendricks _(Simon Cassidy’s mother)_
 Billy Paradise _(Mrs Harlan)_  
 John Thomas _(Simon Cassidy)_  
 Pamela Primate _(‘Medusa’)_  
-Margo O’Connor, Gael Sikula, Bernie Boyle,
+Margo O’Connor, Gael Sikula, Bernie Boyle, Billy Paradise _ (guests at cocktail and wedding parties)_<br>
 
-Billy Paradise_  
-(guests at cocktail and wedding parties)_  
-USA 1975
-
-159 mins
+USA 1975<br>
+159 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA4NTE3MzldfQ==
+eyJoaXN0b3J5IjpbODk2ODk2ODAxXX0=
 -->
