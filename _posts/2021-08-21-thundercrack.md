@@ -1,6 +1,4 @@
 
-<![endif]-->
-
 _+ intro by Jane Giles, author of ‘Scala Cinema 1978-1993’_
 
 A great many Londoners of a certain age remember Curt McDowell’s notorious art/trash/porn crossover with genuine fondness. Made in 1975, it became a monthly staple at the legendary Scala Cinema in King’s Cross throughout the 1980s and early 1990s, usually double- or triple-billed with similarly outré fare by Stephen Sayadian (_Café Flesh_, 1982), Doris Wishman (_Let Me Die a Woman_, 1978) or Edward D. Wood Jr (_Glen or Glenda_, 1953), and attending it became something of a rite of passage for more adventurous cinephiles, who were best advised not to look too closely at what fellow audience members might be doing in neighbouring seats.
@@ -14,20 +12,17 @@ But for those on _Thundercrack!_’s highly individual wavelength, it’s an abs
 Until now, _Thundercrack!_ has only been available on video courtesy of VHS and VHS-sourced releases of dubious provenance. A 30th-anniversary DVD was announced in 2004, and five years later Synapse Films promised a high-definition restoration for the 35th. It finally emerged in late 2015, a full 40 years on, but it was well worth the wait. Much of the delay was caused by some considerable restoration challenges. The original negative and magnetic sound recordings vanished decades ago, only five prints were ever struck and only one of them preserved the film at its full length. Much projected, it was in less than optimum condition, but footage and frames from the other prints (one of which contained unique material, duly spliced back in) and additional digital restoration has produced some remarkable results. _Thundercrack!_ will always look like what it is – an extremely low-budget black-and-white 16mm semi-underground film – but unless the negative turns up it’s hard to imagine a better presentation.
 
 In life, McDowell rarely settled for less than an outrageously impressive package, and it’s good to see the same principle being so firmly applied here.
+**Michael Brooke, _Sight & Sound_, March 2016**<br>
 
-Michael Brooke, _Sight & Sound_, March 2016
-
-**A contemporary review**
-
+**A contemporary review**<br>
 Curt McDowell and George Kuchar’s _Thundercrack!_ has become a staple trash/underground/gay cult classic – featured every week at the Saturday midnight special at West Los Angeles’ notorious Nuart Theatre (a venue which also promoted the films of John Waters and Tobe Hooper). From its inception this was a curious and contradictory enterprise: its makers set out to combine an ‘underground’ revamp of _The House on Haunted Hill_ – i.e., to parody a parody – with an ‘underground’ porn film of the hard-core variety. To a degree it succeeds in both ambitions; and although the nature and duration of the porn sequences dictated the choice of a cast whose thespian abilities are to say the least minimal, the movie undeniably has the conviction of its own tastelessness.
 
 Its parodies and burlesques have been taken up second-hand from the cheaper schlock and horror films – inversions of traditional sexuality, of traditional middle-American hospitality, and of the whole syntax of suburban interaction – and these are often hilariously handled. (The tone is set early on when Marion Eaton, drinking alone in a nylon slip, hears her doorbell ring and rushes to ‘dress’ before answering it. She sets a cheap wig on her head, then decides to make herself throw up – lest the unseen guest detect her state of inebriation. In the process, her wig tumbles into the toilet bowl, but she simply slaps it back on her head and staggers to the door, mouthing platitudes of welcome.)
 
-_Thundercrack!_’s particular endeavour – splicing slapstick and hard-core sex scenes into a single viable package – descends directly from the costumed camp repertory of polysexual stage collectives like the Flaming Creatures, the Cockettes, the Cycle Sluts and Les Ballets Trockadero. In _Thundercrack!_, inflatable dolls, French ticklers, suction tubes, salamis, giant vibrators and dildos may conspire to make the viewer feel a relentless voyeur, but what really seals his fate is a pervasive sense that the cast – ripping through their wretched script at a frantic pace – seem to be having a slightly better, more stoned and way-out time than any spectator possibly could.
+_Thundercrack!_’s particular endeavour – splicing slapstick and hard-core sex scenes into a single viable package – descends directly from the costumed camp repertory of polysexual stage collectives like the Flaming Creatures, the Cockettes, the Cycle Sluts and Les Ballets Trockadero. In _Thundercrack!_, inflatable dolls, French ticklers, suction tubes, salamis, giant vibrators and dildos may conspire to make the viewer feel a relentless voyeur, but what really seals his fate is a pervasive sense that the cast – ripping through their wretched script at a frantic pace – seem to be having a slightly better, more stoned and way-out time than any spectator possibly could.<br>
+**Cynthia Rose, _Monthly Film Bulletin_, December 1980**<br>
 
-Cynthia Rose, _Monthly Film Bulletin_, December 1980
-
-**Jane Giles** is a filmmaker and writer currently shooting a feature-length theatrical documentary based on her award-winning book _Scala Cinema 1978-1993_ (FAB Press). She was previously a film distributor and exhibitor at the BFI, ICA and Scala.
+**Jane Giles** is a filmmaker and writer currently shooting a feature-length theatrical documentary based on her award-winning book _Scala Cinema 1978-1993_ (FAB Press). She was previously a film distributor and exhibitor at the BFI, ICA and Scala.<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczOTg2OTk1XX0=
+eyJoaXN0b3J5IjpbLTE5MjE2ODUxNDBdfQ==
 -->
