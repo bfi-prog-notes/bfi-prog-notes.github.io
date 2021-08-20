@@ -24,8 +24,6 @@ _Thundercrack!_’s particular endeavour – splicing slapstick and hard-core se
 
 **Jane Giles** is a filmmaker and writer currently shooting a feature-length theatrical documentary based on her award-winning book _Scala Cinema 1978-1993_ (FAB Press). She was previously a film distributor and exhibitor at the BFI, ICA and Scala.<br>
 
-
-
 **THUNDERCRACK!**<br>
 _Director_: Curt McDowell  
 _Production Company_: Thomas Bros. Film Studio  
@@ -106,5 +104,5 @@ Tue 28 Sep 18:00<br>
 **Terror Vision: Altered States**<br>
 Thu 30 Sep 21:00<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM1MjA5NDExXX0=
+eyJoaXN0b3J5IjpbLTEyNTg5OTkwMDksMzM1MjA5NDExXX0=
 -->
