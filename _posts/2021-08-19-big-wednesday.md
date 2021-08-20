@@ -125,9 +125,9 @@ John Milius *
 USA 1978©<br>
 119 mins<br>
 
-* Uncredited
+\* Uncredited
 
 A BFI National Archive print
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzMwMjc1N119
+eyJoaXN0b3J5IjpbMTAwODk0MDQ1M119
 -->
