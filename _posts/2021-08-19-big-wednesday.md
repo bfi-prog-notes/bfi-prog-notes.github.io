@@ -29,8 +29,7 @@ As one surfing merchandising slogan boasts, ‘only a surfer knows the feeling.�
 But handle it carefully. _Big Wednesday_ has found its way into a lot of people’s blood, even changing lives. How many movies can claim that? I know of at least one ex-London cabbie who never came back, who now sits peering out to sea, mouthing the mantra: ‘That’s just the lemon next to the pie.’<br>
 **Peter Salmi and Carl Prechezer, _Sight and Sound_, November 1996**<br>
 
-**Big Wednesday**
-
+**BIG WEDNESDAY**<br>
 _Director:_ John Milius  
 _©/Production Company:_ Warner Bros.  
 _Production Company:_ A-Team Productions  
@@ -41,15 +40,11 @@ _Unit Production Manager:_ John G. Wilson
 _Water Unit Liaison:_ Fred Hemmings  
 _Land 2nd Unit Director:_ Terry J. Leonard  
 _Assistant Director:_ Richard Hashimoto  
-_2nd Assistant Directors:_ Bill Scott, Victor Hsu,
-
-Carol Jackson  
+_2nd Assistant Directors:_ Bill Scott, Victor Hsu, Carol Jackson  
 _Casting:_ Karen Grossman  
 _Screenplay:_ John Milius, Dennis Aaberg  
 _Director of Photography:_ Bruce Surtees  
-_Photography (Surfing Sequences):_
-
-Greg MacGillivray  
+_Photography (Surfing Sequences):_ Greg MacGillivray  
 _Photography (Special Water Unit):_  
 George Greenough, Dan Merkel  
 _Surfing Photography Consultants:_ Spyder Wills, Roger Brown, Bud Browne  
@@ -75,14 +70,10 @@ _Guitarists:_ Keola Beamer, Kapono Beamer
 _Orchestrations:_ Greig McRitchie  
 _Sound Recording:_ Harlan Riggs  
 _Additional Sound Editor:_ Ross Taylor  
-_Sound Effects Editors:_ Joe von Stroheim,
+_Sound Effects Editors:_ Joe von Stroheim, Marvin I. Kosberg  
+_Surfing Masters:_ Ian Cairns, Peter Townend, Bill Hamilton, Gerry Lopez, J. Riddle, Jackie Dunn  
 
-Marvin I. Kosberg  
-_Surfing Masters:_ Ian Cairns, Peter Townend,
-
-Bill Hamilton, Gerry Lopez, J. Riddle, Jackie Dunn  
-_Cast:_
-
+**Cast**<br>
 Jan-Michael Vincent _(Matt Johnson)_  
 William Katt _(Jack Barlow)_  
 Gary Busey _(Leroy ‘The Masochist’ Smith)_  
@@ -110,11 +101,7 @@ Frank McRae _(sergeant)_
 Perry Lang _(tall kid)_  
 Mike Raden _(Denny)_  
 Pat Beckwith _(Flea)_  
-Kathy McCullen, Charlene Tilton, Terry Bolo,
-
-Kevan Dignam, Sherry Lee Marks, Cindy Daly,
-
-Lynn Theel, Janet Johnson _(party girls)_  
+Kathy McCullen, Charlene Tilton, Terry Bolo, Kevan Dignam, Sherry Lee Marks, Cindy Daly, Lynn Theel, Janet Johnson _(party girls)_  
 Lorie Busk _(Melissa as a child)_  
 Jack Bernardi _(tailor)_  
 Gray Frederickson _(doctor)_  
@@ -122,31 +109,25 @@ Arthur Rosenberg _(official)_
 Stephen Mendillo _(orderly)_  
 Aesop Aquarian _(hippy)_  
 Guy Larry Finley, Richard O’Bryan,  
-Todd Lookinland, Gary Boyle, Sasha Jensen,
-
-Kevin Schultz _(surfers)_  
+Todd Lookinland, Gary Boyle, Sasha Jensen, Kevin Schultz _(surfers)_  
 Christopher Woods _(lifeguard)_  
 Jimmy Bracken _(kid surfer)_  
 Stacy Keach Sr _(old man)_  
 Iris Korn _(old woman)_  
 Ollie O’Toole _(minister)_  
 Celia Kaye _(The Bear’s bride)_  
-Keola Beamer, Kapono Beamer
-
-_(slack-key guitarists)_  
+Keola Beamer, Kapono Beamer _(slack-key guitarists)_  
 Brain Damage Vincent _(Matt’s dog)_  
 Clete Roberts *
-
 Herb Voland *
-
 John Milius *  
-USA 1978©
 
-119 mins
+USA 1978©<br>
+119 mins<br>
 
 * Uncredited
 
 A BFI National Archive print
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDE0MDgzN119
+eyJoaXN0b3J5IjpbMTAyNzMwMjc1N119
 -->
