@@ -1,3 +1,14 @@
+---
+layout: post
+title: Big Wednesday
+published: true
+date: 2021-08-19
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Sport]
+metadata: 'USA, 1978, 120 mins<br> Director: John Milius'
+pdf: '2021-08-19-big-wednesday.pdf'
+---
 
 **SPOILER WARNING  The following notes give away some of the plot.**<br>
 
@@ -9,12 +20,9 @@ So what is it about this tale of the golden youth of California that can so affe
 
 The score is shamelessly epic, all military brass and kettledrums, sweeping crescendos and pounding new Wagnerian overtures. It’s easy to see the connection between director John Milius’ contribution here and to his work as scriptwriter of _Apocalypse Now_ – the helicopter attack set to _Ride of the Valkyries_ that leads to Robert Duvall’s line, ‘Charlie don’t surf.’ There is also the classic image in the title sequence, the same as that used on the original poster. A man stands on the foreshore clutching an upright board that must reach 16 feet into the sky. The camera pulls back to reveal the waves he faces: waves that dwarf the massive board and leave us to wonder at the foolhardy courage it takes to ride those turbulent waters.
 
-It’s a tale of male bonding and camaraderie. The idea that ‘there’s nothing more important than your friends’ runs like a spine through the film. The female characters remain peripheral to the action, waiting on the sideline as the ‘battles’ are fought. The young men, Jack Barlow (William Katt), Matt Johnson (Jan-Michael Vincent) and Leroy ‘The Masochist’ Smith (Gary Busey) learn lessons from the ‘wise man’, Bear, as they progress towards manhood.  
-They move towards their inevitable date with destiny, the big day that Bear prophesies will come, when the three friends will be able to ‘distinguish themselves’.
+It’s a tale of male bonding and camaraderie. The idea that ‘there’s nothing more important than your friends’ runs like a spine through the film. The female characters remain peripheral to the action, waiting on the sideline as the ‘battles’ are fought. The young men, Jack Barlow (William Katt), Matt Johnson (Jan-Michael Vincent) and Leroy ‘The Masochist’ Smith (Gary Busey) learn lessons from the ‘wise man’, Bear, as they progress towards manhood. They move towards their inevitable date with destiny, the big day that Bear prophesies will come, when the three friends will be able to ‘distinguish themselves’.
 
-While the film’s central concerns (and what still endears it to the worldwide wave-riding community) may be what it takes to be a man – and a heroic surfer man at that – _Big Wednesday_ does not ignore the world outside beach culture. Since the film covers a turbulent decade in American history, the characters’ lives are inevitably affected. But it clings to the idea of the constancy of the unchanging waves at its core. Almost from the beginning, the outside world  
-is portrayed as a dangerous place where the certainties of the ocean no  
-longer apply.
+While the film’s central concerns (and what still endears it to the worldwide wave-riding community) may be what it takes to be a man – and a heroic surfer man at that – _Big Wednesday_ does not ignore the world outside beach culture. Since the film covers a turbulent decade in American history, the characters’ lives are inevitably affected. But it clings to the idea of the constancy of the unchanging waves at its core. Almost from the beginning, the outside world is portrayed as a dangerous place where the certainties of the ocean no longer apply.
 
 When gatecrashers invade a surfers’ party, the violence that ensues is almost comic book in nature. Despite the flurry of blows, you never believe that anyone is actually hurt. This contrasts starkly with the next sequence, when the three friends head off down Mexico way and start a barroom brawl that explodes into real and fatal violence.
 
@@ -128,6 +136,21 @@ USA 1978©<br>
 \* Uncredited
 
 A BFI National Archive print
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODk0MDQ1M119
--->
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
