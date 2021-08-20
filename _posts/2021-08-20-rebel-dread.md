@@ -99,4 +99,4 @@ Sun 22 Aug 18:30
 Sun 22 Aug 16:00  
 
 For updates visit **soulfilmfest.co.uk**  
-<img style="float: left;" src="/img/SOUL.jpg" width="40%" height="40%">
+<img style="float: left;" src="/img/SOUL.png" width="40%" height="40%">
