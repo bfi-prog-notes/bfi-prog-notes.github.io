@@ -16,8 +16,7 @@ It probably won’t come again. The news that Crawford, Davis, Astor and Moorehe
 <br><br>
 
 
-**DEAD RINGER (aka Dea Image)**
-
+**DEAD RINGER (aka DEAD IMAGE)**  
 _Director_: Paul Henreid  
 _Production Company_: Warner Bros.  
 _Producer_: William H. Wright  
@@ -36,8 +35,7 @@ _Miss Davis’ Hairstyles_: Florence Guernsey
 _Music_: André Previn  
 _Sound_: Robert B. Lee
 
-_Cast:_
-
+**Cast**  
 Bette Davis _(Margaret de Lorca/Edith Philips)_  
 Karl Malden _(Sergeant Jim Hobbson)_  
 Peter Lawford _(Tony Collins)_  
@@ -53,9 +51,9 @@ Bert Remsen _(Dan)_
 Charles Watts _(apartment manager)_  
 Ken Lynch _(Captain Johnson)_
 
-USA 1964
-
+USA 1964  
 115 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY3NDc2MDFdfQ==
+eyJoaXN0b3J5IjpbMTAxODQzNzM3MV19
 -->
