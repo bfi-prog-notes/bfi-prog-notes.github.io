@@ -15,25 +15,20 @@ Thus, the lottery winner, who will later finance the cinema’s rebuilding, reac
 
 More affectingly than did Ettore Scola at the climax of _Splendor_, with its forced invocation of _It’s a Wonderful Life_, Tornatore, who is still in his early thirties and here making only his second feature, establishes a Capraesque fantasy of communal existence. The fantasy, though, is not the whole story: hardship and poverty are not glossed over, and the coda makes it evident that material conditions have changed for the better, even though the abandoned Paradiso is about to be bulldozed into a car park.
 
-The elegiac quality lies not so much in the cinema’s destruction as in Alfredo’s earlier regretful avowal to his departing protégé that ‘Life isn’t like the movies’. Hearteningly, though, _Cinema Paradiso_ itself possesses enough command and self-conviction to demonstrate that movies can still manage to manifest an alternative universe.
+The elegiac quality lies not so much in the cinema’s destruction as in Alfredo’s earlier regretful avowal to his departing protégé that ‘Life isn’t like the movies’. Hearteningly, though, _Cinema Paradiso_ itself possesses enough command and self-conviction to demonstrate that movies can still manage to manifest an alternative universe.  
+**Tim Pulleine, _Sight & Sound_, Winter 1989-90**
+<br><br>
 
-Tim Pulleine, _Sight & Sound_, Winter 1989-90
 
-<![endif]-->
-
-**CINEMA PARADISO (NUOVO CINEMA PARADISO)**
-
+**CINEMA PARADISO (NUOVO CINEMA PARADISO)**  
 _Director_: Giuseppe Tornatore  
-_Production Companies_: Cristaldi Film,  
-Les Films Ariane  
+_Production Companies_: Cristaldi Film,  Les Films Ariane  
 _In association with_: Rai Tre, TF1 Films Production  
 _In collaboration with_: Forum Pictures  
 _Producer_: Franco Cristaldi  
 _Associate Producer_: Alexandre Mnouchkine *  
-_RAI Representative for the Production_:  
-Gabriella Carosio  
-_Production Managers_: Aldo Buzzanca,  
-Eleonora Comencini  
+_RAI Representative for the Production_:  Gabriella Carosio  
+_Production Managers_: Aldo Buzzanca,  Eleonora Comencini  
 _Production Inspectors_: Salvo Lupo, Aureliano Luppi  
 _Production Organiser_: Mino Barbera  
 _Production Co-ordinator_: Riccardo Caneva  
@@ -41,8 +36,7 @@ _Accountant_: Alba Maria Ruggeri
 _Administration_: Nestore Baratella, Elisabetta Gizzi  
 _Post-production Co-ordinator_: Lillo Capoano  
 _Co-ordinating Secretary_: Carla Pettini  
-_Production Secretaries_: Francesco Liberati,  
-Bruno Morganti  
+_Production Secretaries_: Francesco Liberati,  Bruno Morganti  
 _Assistant Director_: Giuseppe Giglietti  
 _2nd Assistant Director_: Pietra Tornatore  
 _Script Supervisor_: Jacqueline Perrier  
@@ -64,8 +58,7 @@ _Graphics_: Elena Green
 _Lion Animation_: Alvaro Passeri  
 _Editor_: Mario Morra  
 _Assistant Editor_: Ida Cruciani  
-_2nd Assistant Editors_: Luca Montanari,  
-Stefano Quaglia  
+_2nd Assistant Editors_: Luca Montanari,  Stefano Quaglia  
 _Production Designer_: Andrea Crisanti  
 _Assistant Art Directors_: Marina Zalapi, Fabio Bonzi  
 _1st Properties_: Alberto Michettoni  
@@ -87,8 +80,7 @@ _Music Performed by_: Unione Musicisti di Roma
 _Solo Violin_: Franco Tamponi  
 _General Co-ordinator for Music_: Enrico De Melis  
 _Music Editor_: General Music  
-_Music Engineer_: Franco Finetti,  
-Forum Studios (Rome)  
+_Music Engineer_: Franco Finetti,  Forum Studios (Rome)  
 _Direct Sound_: Massimo Loffredi  
 _Boom Operator_: Giulio Viggiani  
 _Sound Re-recording_: Alberto Doni  
@@ -98,8 +90,7 @@ _Sound Effects_: Sound Track
 _Dubbing Assistant_: Anna Bargagli  
 _Repertory Film Research_: Vanna Paoli
 
-_Cast:_
-
+**Cast**  
 Philippe Noiret _(Alfredo)_  
 Jacques Perrin _(Salvatore Di Vitta)_  
 Antonella Attili _(young Maria)_  
@@ -129,17 +120,14 @@ Turi Killer
 Angelo Tosto  
 Concetta Borpagano  
 Franco Catalano  
-Vittorio Di Prima_  
-(Italian voice dubbing/Philippe Noiret)_  
-Cesare Barbetti_  
-(Italian voice dubbing/Jacques Perrin)_  
+Vittorio Di Prima _(Italian voice dubbing/Philippe Noiret)_  
+Cesare Barbetti _(Italian voice dubbing/Jacques Perrin)_  
 Vittoria Febbi _(Italian voice dubbing/Brigitte Fossey)_
 
-Italy/France 1988
-
+Italy/France 1988  
 124 mins
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzMwOTUxN119
+eyJoaXN0b3J5IjpbMTY4MzAyMzQwNF19
 -->
