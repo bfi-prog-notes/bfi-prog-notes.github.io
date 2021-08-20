@@ -99,7 +99,8 @@ Sun 22 Aug 16:00
 
 For updates visit **soulfilmfest.co.uk**  
 <img style="float: left;" src="/img/SOUL.png" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br>r>
+<br><b><br><br><br><
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -118,6 +119,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQ2MDA2ODgsMTM2ODEwMDM5Miw4Mj
-UyMzMxNzhdfQ==
+eyJoaXN0b3J5IjpbLTE1NDk2NTQ1ODQsLTE5NzQ2MDA2ODgsMT
+M2ODEwMDM5Miw4MjUyMzMxNzhdfQ==
 -->
