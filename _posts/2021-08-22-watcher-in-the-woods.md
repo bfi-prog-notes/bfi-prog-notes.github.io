@@ -1,8 +1,16 @@
+---
+layout: post
+title: The Watcher in the Woods
+published: true
+date: 2021-08-22
+readtime: true
+categories: ['BFI FAMILIES']
+tags: [Children]
+metadata: 'USA/UK 1980, 84 mins<br> Director: John Hough'
+pdf: '2021-08-22-watcher-in-the-woods.pdf'
+---
 
-<![endif]-->
-
-**What’s it about?**
-
+**What’s it about?**<br>
 Disney’s supernatural family thriller sees an American family move into a manor in the English countryside. The owner (Davis) now lives in a house next door and notices a resemblance between one of the girls and her own daughter, who disappeared from a chapel in the local woods 30 years earlier. Soon the children become aware of strange goings on in the woods and find themselves in the middle of a spooky adventure.<br>
 
 **The Watcher in the Woods**<br>
@@ -14,7 +22,7 @@ Unhappy with its initial reception, Disney recalled the film and embarked on a t
 **Joseph Stannard, _Sight & Sound_, March 2011**<br>
 
 **THE WATCHER IN THE WOODS**<br>
-Directed by:_ John Hough  
+_Directed by:_ John Hough  
 _©:_ Walt Disney Productions  
 _Presented by:_ Walt Disney Productions  
 _Produced by:_ Ron Miller  
@@ -33,9 +41,10 @@ _Costume Designer:_ Emma Porteous
 _Make-up Chief:_ Ernie Gasser  
 _Hairdressing Chief:_ Joyce James  
 _Music Composed & Conducted by:_ Stanley Myers  
-_Sound Recordists:_ Claude Hitchcock,
-
-Gerry Humphreys_Sound Editor:_ Jim Shields_Stunt Supervisor:_ Vic Armstrong_Filmed at:_ Pinewood Studios<br>
+_Sound Recordists:_ Claude Hitchcock, Gerry Humphreys  
+_Sound Editor:_ Jim Shields  
+_Stunt Supervisor:_ Vic Armstrong  
+_Filmed at:_ Pinewood Studios<br>
 
 **Cast**  
 Bette Davis _(Mrs Aylwood)_  
@@ -50,7 +59,7 @@ Benedict Taylor _(Mike Fleming)_
 Eleanor Summerfield _(Mrs Thayer)_  
 Georgina Hale _(young Mrs Aylwood)_
 
-USA/UK 1980
+USA/UK 1980<br>
 84 mins<br>
 
 **BFI FAMILIES**<br>
@@ -72,6 +81,21 @@ Sat 18 Sep 12:30<br>
 Sat 25 Sep 12:00<br>
 **The Muppets Take Manhattan**<br>
 Sat 2 Oct 11:45<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU4MzgyMDRdfQ==
--->
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
