@@ -23,6 +23,54 @@ _Thundercrack!_’s particular endeavour – splicing slapstick and hard-core se
 **Cynthia Rose, _Monthly Film Bulletin_, December 1980**<br>
 
 **Jane Giles** is a filmmaker and writer currently shooting a feature-length theatrical documentary based on her award-winning book _Scala Cinema 1978-1993_ (FAB Press). She was previously a film distributor and exhibitor at the BFI, ICA and Scala.<br>
+
+
+
+**THUNDERCRACK!**<br>
+_Director_: Curt McDowell  
+_Production Company_: Thomas Bros. Film Studio  
+_Producers_: John Thomas, Charles Thomas  
+_Assistant Director_: Margo O’Connor  
+_Script_: George Kuchar  
+_Original story_: Mark Ellinger, Curt McDowell  
+_Photography_: Curt McDowell  
+_Lighting_: George Kuchar  
+_Gaffer/Production Photographer_: Gail Lawrence  
+_Miniatures/Special Effects_: Curt McDowell,  
+George Kuchar  
+_Editor_: Curt McDowell  
+_Coiffure/Make-up for Ms Eaton_: Mr Dominic  
+_Title Design_: Holly Hood  
+_Optical Printing_: Chuck Hood  
+_Music Composed/Performed by_: Mark Ellinger  
+_Sound Recording_: Roy Ramsing  
+_Music Recording_: Steve Malcolm  
+_Special Sound Effects_: Mark Ellinger
+
+_Cast:_  
+Marion Eaton _(Mrs Gert Hammond)_  
+George Kuchar _(Bing)_  
+Melinda McDowell _(Sash)_  
+Mookie Blodgett _(Chandler)_  
+Moira Benson _(Roo)_  
+Rick Johnson _(Toydy)_  
+Ken Scudder _(Bond)_  
+Maggie Pyle _(Willene)_  
+Bernie Boyle _(Señor Tostada)_  
+Mark Ellinger _(Charlie Hammond)_  
+Virginia Giritlian _(Sarah Lou Phillips)_  
+Michelle Gross _(hula hoop girl)_  
+Laurie Hendricks _(Simon Cassidy’s mother)_  
+Billy Paradise _(Mrs Harlan)_  
+John Thomas _(Simon Cassidy)_  
+Pamela Primate _(‘Medusa’)_  
+Margo O’Connor, Gael Sikula, Bernie Boyle,
+
+Billy Paradise_  
+(guests at cocktail and wedding parties)_  
+USA 1975
+
+159 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjE2ODUxNDBdfQ==
+eyJoaXN0b3J5IjpbLTEyNDA4NTE3MzldfQ==
 -->
