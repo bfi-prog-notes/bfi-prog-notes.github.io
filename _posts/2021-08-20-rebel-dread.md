@@ -99,7 +99,7 @@ Sun 22 Aug 18:30
 Sun 22 Aug 16:00  
 
 For updates visit **soulfilmfest.co.uk**  
-<img style="float: left;" src="/img/SOUL.png" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/SOUL.png" width="40%" height="40%"><br><br><br><b<br><br><br><br><br><br><br><br><br>
 <br>
 <br>
 <br>
@@ -126,6 +126,7 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyMTA3NDQwLC0xNTQ5NjU0NTg0LC0xOT
-c0NjAwNjg4LDEzNjgxMDAzOTIsODI1MjMzMTc4XX0=
+eyJoaXN0b3J5IjpbLTM5Nzg3MjA4OCw2ODIxMDc0NDAsLTE1ND
+k2NTQ1ODQsLTE5NzQ2MDA2ODgsMTM2ODEwMDM5Miw4MjUyMzMx
+NzhdfQ==
 -->
