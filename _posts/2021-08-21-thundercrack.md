@@ -68,6 +68,49 @@ Margo O’Connor, Gael Sikula, Bernie Boyle, Billy Paradise _ (guests at cocktai
 
 USA 1975<br>
 159 mins<br>
+
+
+**REGULAR PROGRAMME**<br>
+**Experimenta: Thundercrack! + intro by  
+Jane Giles, author of ‘Scala Cinema 1987-1993**
+Sat 21 Aug 17:00
+**Relaxed Screening:  Stand Clear of the Closing Doors**
+Tue 24 Aug 18:00
+**Woman with a Movie Camera: Preview: Souad  + pre-recorded Q&A with director Ayten Amin**
+Tue 24 Aug 18:00
+**Terror Vision: Dr Terror’s House of Horrors**
+Thu 26 Aug 20:40
+**Woman with a Movie Camera: UK Premiere: Copilot (Die Frau des Piloten) + Q&A with director Anne Zohra Berrached**
+Mon 6 Sep 20:25
+**African Odysseys: No Place Like Home (Redux) + Q&A with Justine Henzell**
+Sat 11 Sep 14:00
+**Seniors’ Free Matinee: The Fallen Idol  + intro and Q&A**
+Mon 13 Sep 14:00
+**Gallivant + intro by Eden and Andrew Kötting**
+Sat 18 Sep 14:30
+**Short Films by Eden and Andrew Kötting + Andrew Kötting in Conversation with film curator Gareth Evans**
+Sat 18 Sep 18:00
+**Projecting the Archive: Flesh and Blood +  
+intro by Jason Morell, actor and son of  
+Joan Greenwood**
+Tue 21 Sep 18:10
+**Art in the Making: Cinema Architecture and Atmosphere + discussion**
+Thu 23 Sep 18:10
+**Member Picks: Moonstruck**
+Fri 24 Sep 18:05
+**Silent Cinema: Nasty Women: A Comic Tribute  
++ intro by curator Bryony Dixon**
+
+Sun 26 Sep 12:40
+
+**Relaxed Screening: Seeing The Unseen  
+(Að sjá hið ósýnilega)**
+
+Tue 28 Sep 18:00
+
+**Terror Vision: Altered States**
+
+Thu 30 Sep 21:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2ODk2ODAxXX0=
+eyJoaXN0b3J5IjpbLTgyMjU0MzkxM119
 -->
