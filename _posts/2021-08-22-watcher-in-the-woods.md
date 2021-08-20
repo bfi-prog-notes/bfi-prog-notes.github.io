@@ -51,8 +51,27 @@ Eleanor Summerfield _(Mrs Thayer)_
 Georgina Hale _(young Mrs Aylwood)_
 
 USA/UK 1980
+84 mins<br>
 
-84 mins
+**BFI FAMILIES**<br>
+**The Watcher in the Woods**<br>
+Sun 22 Aug 13:00; Sun 29 Aug 12:40<br>
+**Earwig and the Witch**<br>
+Tue 24 Aug<br>
+**Ernest and Celestine**<br>
+Tue 31 Aug 14:15<br>
+**Mini Filmmakers Saturday Club**<br>
+Every Sat from 11 Sep – 16 Oct 10:30-12:30<br>
+**Young Filmmakers Saturday Club**<br>
+Every Sat from 11 Sep – 16 Oct 14:00-16:30<br>
+**Virtual Young Filmmakers Club**<br>
+Every Sat from 11 Sep – 16 Oct 14:00-15:30<br>
+**The Great Mouse Detective (aka Basil the Great Mouse Detective)**<br>
+Sat 18 Sep 12:30<br>
+**Chicken Run**<br>
+Sat 25 Sep 12:00<br>
+**The Muppets Take Manhattan**<br>
+Sat 2 Oct 11:45<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTcxNDA1NTddfQ==
+eyJoaXN0b3J5IjpbLTEzMTU4MzgyMDRdfQ==
 -->
