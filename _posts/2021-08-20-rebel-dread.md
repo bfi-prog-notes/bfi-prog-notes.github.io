@@ -84,10 +84,10 @@ Sat 21 Aug 12:00
 Sat 21 Aug 17:50  
 **Exclusive Preview: Candyman + Pre-recorded cast intro**  
 Sun 22 Aug 18:30  
-**Film4 and Fruit Tree Media present: Foresight**  
+**Film4 and Fruit Tree Media present: Foresight**   
 Sun 22 Aug 16:00  
 
-For updates visit **soulfilmfest.co.uk**
+For updates visit **soulfilmfest.co.uk**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjkyNjg5Ml19
+eyJoaXN0b3J5IjpbMTg3MTYyMjU5MF19
 -->
