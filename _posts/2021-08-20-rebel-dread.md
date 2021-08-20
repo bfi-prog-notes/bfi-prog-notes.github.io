@@ -51,9 +51,9 @@ William E. Badgley
 _Motion Graphics by__:_ Burak N. Kurt  
 _Edited by__:_ Eric Pritchard  
 _Original Score by__:_ Von Wildenhaus_  
-Music Supervisor:_ Samantha Simmons
+Music Supervisor:_ Samantha Simmons  
 
-_With:_
+**With**
 Don Letts  
 Desmond Coy  
 Norman Jay  
@@ -71,33 +71,23 @@ Greg Roberts
 Dennis Bovell  
 Grace Letts
 
-UK 2020
+UK 2020  
+86 mins  
 
-86 mins
+**S.O.U.L. FEST 2021**
 
-S.O.U.L. FEST 2021
-
-**Preview: Rebel Dread + Pre-recorded Q&A with Don Letts**
-
-Fri 20 Aug 20:45
-
-**S.O.U.L Fest Symposium**
-
-Sat 21 Aug 12:00
-
-**UK Premiere: Ailey + pre-recorded Q&A with director Jamila Wignot**
-
-Sat 21 Aug 17:50
-
-**Exclusive Preview: Candyman + Pre-recorded cast intro**
-
-Sun 22 Aug 18:30
-
-**Film4 and Fruit Tree Media present: Foresight**
-
-Sun 22 Aug 16:00
+**Preview: Rebel Dread + Pre-recorded Q&A with Don Letts**  
+Fri 20 Aug 20:45  
+**S.O.U.L Fest Symposium**  
+Sat 21 Aug 12:00  
+**UK Premiere: Ailey + pre-recorded Q&A with director Jamila Wignot**  
+Sat 21 Aug 17:50  
+**Exclusive Preview: Candyman + Pre-recorded cast intro**  
+Sun 22 Aug 18:30  
+**Film4 and Fruit Tree Media present: Foresight**  
+Sun 22 Aug 16:00  
 
 For updates visit **soulfilmfest.co.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDk4MDAwOF19
+eyJoaXN0b3J5IjpbMTAwNjkyNjg5Ml19
 -->
