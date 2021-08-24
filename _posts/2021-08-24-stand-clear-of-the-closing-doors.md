@@ -1,4 +1,6 @@
 
+**Before the films Benjamin Brown, series curator, will introduce the programme and pre-recorded introductions from the directors.**<br>
+
 Showing the city through a documentary-like lens, the film follows Ricky, an autistic teen who loses himself in New York’s sprawling subway system. Based on true events, the film’s authenticity is leant further weight with the casting of Jesus Sanchez-Velez, an actor with Asperger syndrome who powerfully conveys Ricky’s frustrations at being unable to communicate with the outside world.
 
 **+ Overload**<br>
@@ -84,6 +86,6 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 <li>Please ask us if you need help
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxMDkyMzM4LDE5NDE2OTg5NjUsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEyNjE3MjM1NjIsMTk0MTY5ODk2NSw3Mz
+A5OTgxMTZdfQ==
 -->
