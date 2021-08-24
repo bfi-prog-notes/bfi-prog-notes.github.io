@@ -20,22 +20,15 @@ As Naoki so poetically puts it, ‘if, by our being here, we could help the peop
 of the world remember what truly matters for the earth, that would give us a  quiet pleasure.’<br>
 **Benjamin Brown, Series Curator**<br>
 
-<![endif]-->
 
-**Before the films Benjamin Brown, series curator, will introduce the programme and**
-
-**pre-recorded introductions from the directors.**
-
-**OVERLOAD**
-
+**OVERLOAD**<br>
 _Director:_ Joe Blandamer
 
-UK 2020
-
-5 mins
+UK 2020<br>
+5 mins<br>
 
 **STAND CLEAR OF THE CLOSING DOORS  
-**_Directed by:_ Sam Fleischner
+_Directed by:_ Sam Fleischner
 
 _Written by:_ Rose Lichter-Marck
 
@@ -86,6 +79,6 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 <li>Please ask us if you need help
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjE3MjM1NjIsMTk0MTY5ODk2NSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTcxNjEyMzQ2OSwtMTI2MTcyMzU2MiwxOT
+QxNjk4OTY1LDczMDk5ODExNl19
 -->
