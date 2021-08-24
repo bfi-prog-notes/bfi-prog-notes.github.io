@@ -22,39 +22,30 @@ of the world remember what truly matters for the earth, that would give us a  qu
 
 
 **OVERLOAD**<br>
-_Director:_ Joe Blandamer
+_Director:_ Joe Blandamer<br>
 
 UK 2020<br>
 5 mins<br>
 
-**STAND CLEAR OF THE CLOSING DOORS  
-_Directed by:_ Sam Fleischner
+**STAND CLEAR OF THE CLOSING DOORS **<br>
+_Directed by:_ Sam Fleischner<br>
+_Written by:_ Rose Lichter-Marck<br>
+_Screenplay by:_ Micah Bloomberg, Rose Lichter-Marck<br>
+_Cinematographers:_ Adam Jandrup, Ethan Palmer<br>
+_Production Designer:_ Sara K. White<br>
+_Editor:_ Talia Barrett<br>
+_Music by:_ Sarah Lipstate<br>
 
-_Written by:_ Rose Lichter-Marck
+**Cast**<br>
+Jesus Sanchez-Velez _(Ricky)_<br>
+Andrea Suarez Paz _(Mariana)_<br>
+Azul Zorrilla _(Carla)_<br>
+Tenoch Huerta _(Ricardo Sr)_<br>
 
-_Screenplay by:_ Micah Bloomberg,
+USA 2013<br>
+102 mins<br>
 
-Rose Lichter-Marck
-
-_Cinematographers:_ Adam Jandrup, Ethan Palmer
-
-_Production Designer:_ Sara K. White
-
-_Editor:_ Talia Barrett
-
-_Music by:_ Sarah Lipstate
-
-_Cast:_
-
-Jesus Sanchez-Velez _(Ricky)_
-
-Andrea Suarez Paz _(Mariana)_
-
-Azul Zorrilla _(Carla)_
-
-Tenoch Huerta _(Ricardo Sr)_USA 2013102 mins
-
-**This screening is presented in collaboration with Citizen Autistic: The London Autism Film Club, a welcoming neuro-diverse space bringing together like-minded individuals through a shared love of cinema.**
+**This screening is presented in collaboration with Citizen Autistic: The London Autism Film Club, a welcoming neuro-diverse space bringing together like-minded individuals through a shared love of cinema.**<br>
 
 **Relaxed screenings**<br>
 Relaxed screenings are presented each month for those in the neuro-diverse community, their assistants and carers. As a result of our Covid Safety plan our relaxed screening adjustments have changed.
@@ -79,6 +70,6 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 <li>Please ask us if you need help
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjEyMzQ2OSwtMTI2MTcyMzU2MiwxOT
-QxNjk4OTY1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTI4NzEzNjA1LC0xMjYxNzIzNTYyLDE5ND
+E2OTg5NjUsNzMwOTk4MTE2XX0=
 -->
