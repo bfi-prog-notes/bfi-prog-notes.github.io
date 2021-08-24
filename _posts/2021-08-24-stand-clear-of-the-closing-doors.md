@@ -82,8 +82,8 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 <li>There will be a safe space to use if you need to leave the auditorium.
 
-Please ask us if you need help
+<li>Please ask us if you need help
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzAzODUxOSwxOTQxNjk4OTY1LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbOTMxMDkyMzM4LDE5NDE2OTg5NjUsNzMwOT
+k4MTE2XX0=
 -->
