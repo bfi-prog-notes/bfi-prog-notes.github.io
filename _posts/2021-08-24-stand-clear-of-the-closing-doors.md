@@ -1,7 +1,89 @@
 
+Showing the city through a documentary-like lens, the film follows Ricky, an autistic teen who loses himself in New York’s sprawling subway system. Based on true events, the film’s authenticity is leant further weight with the casting of Jesus Sanchez-Velez, an actor with Asperger syndrome who powerfully conveys Ricky’s frustrations at being unable to communicate with the outside world.
 
+**+ Overload**<br>
+Winning the Best Animation at the Into Film Awards 2020, this stop motion animation depicts what it feels like to have autism and ride on a busy train.
 
-> Written with [StackEdit](https://stackedit.io/).
+This is the second of three relaxed screenings presented in response to  
+_The Reason I Jump_, programmed by independent curator, Benjamin Brown.
+
+‘Really, our vision of the world can be incredible, just incredible …’  
+- Naoki Higashida, _The Reason I Jump_
+
+Whether neuro-diverse or neurotypical, as human beings we are all born with our own unique ways of perceiving the world. However, for many on the autism spectrum, the problem comes when trying to impress that unique perspective onto others through words and gestures. Like a detuned radio, the signal is blocked, coming through only as hissing static.
+
+Channelling several themes explored so effectively by _The Reason I Jump_, the season expresses the key role of the senses in our everyday lives and the transcendent power of nature to provide consolation to the inconsolable. It also conveys the vital importance of giving autistic people a say in how we are treated, and to extend us our rightful seat at society’s table.
+
+As Naoki so poetically puts it, ‘if, by our being here, we could help the people  
+of the world remember what truly matters for the earth, that would give us a  quiet pleasure.’<br>
+**Benjamin Brown, Series Curator**<br>
+
+<![endif]-->
+
+**Before the films Benjamin Brown, series curator, will introduce the programme and**
+
+**pre-recorded introductions from the directors.**
+
+**OVERLOAD**
+
+_Director:_ Joe Blandamer
+
+UK 2020
+
+5 mins
+
+**STAND CLEAR OF THE CLOSING DOORS  
+**_Directed by:_ Sam Fleischner
+
+_Written by:_ Rose Lichter-Marck
+
+_Screenplay by:_ Micah Bloomberg,
+
+Rose Lichter-Marck
+
+_Cinematographers:_ Adam Jandrup, Ethan Palmer
+
+_Production Designer:_ Sara K. White
+
+_Editor:_ Talia Barrett
+
+_Music by:_ Sarah Lipstate
+
+_Cast:_
+
+Jesus Sanchez-Velez _(Ricky)_
+
+Andrea Suarez Paz _(Mariana)_
+
+Azul Zorrilla _(Carla)_
+
+Tenoch Huerta _(Ricardo Sr)_USA 2013102 mins
+
+**This screening is presented in collaboration with Citizen Autistic: The London Autism Film Club, a welcoming neuro-diverse space bringing together like-minded individuals through a shared love of cinema.**
+
+Relaxed screenings
+
+Relaxed screenings are presented each month for those in the neuro-diverse community, their assistants and carers. As a result of our Covid Safety plan our relaxed screening adjustments have changed.
+
+<![if !supportLists]>· <![endif]>Customers can select their seats when they arrive in the auditorium. You may sit with your family/friendship group or there are some single seats if you prefer. Please leave space between yourself and other groups and retain your selected seats for the duration of the performance if possible.
+
+<![if !supportLists]>· <![endif]>If you are exempt from wearing a mask please let us know so that we can implement appropriate safety measures for your comfort and that of those around you. If you are able to wear a facemask please do so throughout your visit.
+
+<![if !supportLists]>· <![endif]>Doors will open 30 minutes before the screening.
+
+<![if !supportLists]>· <![endif]>No trailers will be shown.
+
+<![if !supportLists]>· <![endif]>The programme will be introduced.
+
+<![if !supportLists]>· <![endif]>Our house lights will remain on a low level throughout the screening, and the volume will be turned slightly down.
+
+<![if !supportLists]>· <![endif]>You will be able to leave the auditorium and return by following a one-way system within the building.
+
+<![if !supportLists]>· <![endif]>You will be able to make noise.
+
+<![if !supportLists]>· <![endif]>There will be a safe space to use if you need to leave the auditorium.
+
+Please ask us if you need help
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTk0MTY5ODk2NSw3MzA5OTgxMTZdfQ==
 -->
