@@ -47,6 +47,14 @@ USA 2013<br>
 
 **This screening is presented in collaboration with Citizen Autistic: The London Autism Film Club, a welcoming neuro-diverse space bringing together like-minded individuals through a shared love of cinema.**<br>
 
+
+
+
+**The next relaxed screening is** <br>
+**SEEING THE UNSEEN
+28 September 18:00 NFT3**<br>
+
+
 **Relaxed screenings**<br>
 Relaxed screenings are presented each month for those in the neuro-diverse community, their assistants and carers. As a result of our Covid Safety plan our relaxed screening adjustments have changed.
 
@@ -70,6 +78,6 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 <li>Please ask us if you need help
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzEzNjA1LC0xMjYxNzIzNTYyLDE5ND
-E2OTg5NjUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTMwODE1Mzc3MSwtMTI2MTcyMzU2MiwxOT
+QxNjk4OTY1LDczMDk5ODExNl19
 -->
