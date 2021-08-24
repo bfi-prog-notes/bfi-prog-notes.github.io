@@ -61,29 +61,29 @@ Tenoch Huerta _(Ricardo Sr)_USA 2013102 mins
 
 **This screening is presented in collaboration with Citizen Autistic: The London Autism Film Club, a welcoming neuro-diverse space bringing together like-minded individuals through a shared love of cinema.**
 
-Relaxed screenings
-
+**Relaxed screenings**<br>
 Relaxed screenings are presented each month for those in the neuro-diverse community, their assistants and carers. As a result of our Covid Safety plan our relaxed screening adjustments have changed.
 
-<![if !supportLists]>· <![endif]>Customers can select their seats when they arrive in the auditorium. You may sit with your family/friendship group or there are some single seats if you prefer. Please leave space between yourself and other groups and retain your selected seats for the duration of the performance if possible.
+<li>Customers can select their seats when they arrive in the auditorium. You may sit with your family/friendship group or there are some single seats if you prefer. Please leave space between yourself and other groups and retain your selected seats for the duration of the performance if possible.
 
-<![if !supportLists]>· <![endif]>If you are exempt from wearing a mask please let us know so that we can implement appropriate safety measures for your comfort and that of those around you. If you are able to wear a facemask please do so throughout your visit.
+<li>If you are exempt from wearing a mask please let us know so that we can implement appropriate safety measures for your comfort and that of those around you. If you are able to wear a facemask please do so throughout your visit.
 
-<![if !supportLists]>· <![endif]>Doors will open 30 minutes before the screening.
+<li>Doors will open 30 minutes before the screening.
 
-<![if !supportLists]>· <![endif]>No trailers will be shown.
+<li>No trailers will be shown.
 
-<![if !supportLists]>· <![endif]>The programme will be introduced.
+<li>The programme will be introduced.
 
-<![if !supportLists]>· <![endif]>Our house lights will remain on a low level throughout the screening, and the volume will be turned slightly down.
+<li>Our house lights will remain on a low level throughout the screening, and the volume will be turned slightly down.
 
-<![if !supportLists]>· <![endif]>You will be able to leave the auditorium and return by following a one-way system within the building.
+<li>You will be able to leave the auditorium and return by following a one-way system within the building.
 
-<![if !supportLists]>· <![endif]>You will be able to make noise.
+<li>You will be able to make noise.
 
-<![if !supportLists]>· <![endif]>There will be a safe space to use if you need to leave the auditorium.
+<li>There will be a safe space to use if you need to leave the auditorium.
 
 Please ask us if you need help
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTY5ODk2NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTQ1NzAzODUxOSwxOTQxNjk4OTY1LDczMD
+k5ODExNl19
 -->
