@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Finisterre
+published: true
+date: 2021-09-04
+readtime: true
+categories: ['THE FILMS OF SAINT ETIENNE']
+tags: [Documentary]
+metadata: 'UK 2003, 59 mins<br> Directors: Paul Kelly, Kieran Evans'
+pdf: '2021-09-04-finisterre.pdf'
+---
 
 _+ Q&A with Bob Stanley and Pete Wiggs_
 
@@ -33,7 +43,6 @@ _Finisterre_ hasn’t aged a bit. Many of the shop fronts, streetscapes and path
 
 
 **FINISTERRE**<br>
-
 _Filmed and directed by:_ Paul Kelly,  Kieran Evans<br>
 _Executive Producers:_ Bob Stanley,  Martin Kelly<br>
 _Produced by:_ Jason Hocking,  Andrew Hinton<br>
@@ -53,6 +62,39 @@ UK 2003<br>
 _A London Trilogy: The Films of Saint Etienne 2003-2007_ is available to buy in the BFI Shop:  **https://shop.bfi.org.uk/a-london-trilogy-the-films-of-saint-etienne.html**
 <br><br>
 
+**THE FILMS OF SAINT ETIENNE**<br>
+**This Is Tomorrow + intro by Bob Stanley and Paul Kelly**<br>
+Fri 3 Sep 14:30<br>
+**Asunder + intro by Esther Johnson  and Bob Stanley**<br>
+Sat 4 Sep 12:00<br>
+**Finisterre + Q&A with Bob Stanley and  Pete Wiggs**<br>
+Sat 4 Sep 15:00<br>
+**How We Used to Live + Q&A with Pete Wiggs and Travis Elborough**<br>
+Sat 4 Sep 17:20<br>
+**Saint Etienne: Shorts Programme  + intro by Paul Kelly and Pete Wiggs**<br>
+Sun 5 Sep 13:00<br>
+**Lawrence of Belgravia + Q&A with Paul Kelly and Lawrence**<br>
+Sun 5 Sep 15:30<br>
+**What Have You Done Today Mervyn Day?  + Q&A with Pete Wiggs and Paul Kelly**<br>
+Sun 5 Sep 18:30<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMzMxODE4OTFdfQ==
