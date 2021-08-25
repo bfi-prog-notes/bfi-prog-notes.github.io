@@ -2,48 +2,37 @@
 
 _Introduced by Paul Kelly and Pete Wiggs_
 
-**Banksy in London**
-
+**Banksy in London**  
 It would be easy to be sceptical about _Banksy in London_, a video-length assemblage constructed by Paul Kelly and Kieran Evans when they were making _Finisterre_. These days the artist is the subject of international documentaries and identity-revealing exposés in the middle-brow press; his work is as likely to be found in LA as in Bristol or London and the graffiti collections he used to bring out as tiny self-published volumes make big money for international publishers.
 
 So it’s actually all the more valuable to be reminded of a time when Banksy’s street art was just one example – witty and eye-grabbing (and, pre-social media, something to urge friends to look out for the next time they were in East London) – of the ways in which the capital itself is a graphicscape. Forget Martin Amis or Zadie Smith, or whoever is being hailed as the latest exponent of the Great London Novel, Kelly and Evans’ film shows us how the city is the ultimate textual generator: phone-booth call-cards, slogans on political placards, gig flyers, greasy-spoon signage.
 
-Much of this text is fleeting, uncommissioned, borderline invisible. As London’s public spaces become ever more codified and privatised, there’s been a crackdown on such subaltern writing (just as there now is on public libraries). _Banksy in London_ represents less a tribute to Banksy than to the idea of a multi-lettered London.
+Much of this text is fleeting, uncommissioned, borderline invisible. As London’s public spaces become ever more codified and privatised, there’s been a crackdown on such subaltern writing (just as there now is on public libraries). _Banksy in London_ represents less a tribute to Banksy than to the idea of a multi-lettered London.  
+**Sukhdev Sandhu**
 
-Sukhdev Sandhu
-
-**Today’s Special**
-
+**Today’s Special**  
 Broadcast by Channel 4 over three successive evenings in July 2004 this series of brief films offers a glimpse of London’s threatened outposts of independent dining and drinking – the cafés and coffee shops of the mid-20th century. Sandwiched between shots of the capital’s more celebrated sights – the British Museum (‘Tea Rooms’), the ‘Gherkin’ (‘Eldon Street’) and the Eros statue of Piccadilly Circus (‘New Piccadilly’) – the establishments profiled in _Today’s Special_ have all since shut up shop: the Tea Rooms, Copper Grill and Piccolo Sandwich Bar in 2004 and New Piccadilly hanging on till September 2007.
 
 Paul Kelly’s beautifully reflective and witty camerawork – with its echoes of _Finisterre_ – works like a still life, playing on the mortality present in period fixtures. This is most evident in ‘Tea Rooms’: a loving study of the Corsini’s cafe on Museum Street, which opened in 1960. As Mrs Corsini reflects on her retirement we see an empty menu board, an abandoned spider’s web and safety stickers peeling from the equipment they once vouched for. An earlier section juxtaposes the characterful signs of independent cafes with the brash modern frontage of ubiquitous high-street coffee chains, revealing – in the half of the corporate branding we see on screen (BUCKS, COST) – the root cause of the Tea Rooms’ (and others like it) closure.
 
-The Copper Grill and Piccolo Sandwich Bar of the second film ‘Eldon Street’ are, just as New Piccadilly in the third, victims of London’s ever-changing built environment.  
-The proprietor of the Piccolo Sandwich Bar sums it up – ‘we’ve asked if we could come back. They’ve said we could try but during that conversation they did mention Sainsbury’s about ten times’. The Soho site that formerly housed New Piccadilly is, at time of writing, under the management of Firmdale Hotels Plc – the original building has been pulled down and replaced. Decked out in the colours of the Festival of Britain, New Piccadilly’s prices matched its original 1950s décor and its fate provides an interesting contrast to the restored Royal Festival Hall in _This is Tomorrow_.
+The Copper Grill and Piccolo Sandwich Bar of the second film ‘Eldon Street’ are, just as New Piccadilly in the third, victims of London’s ever-changing built environment.  The proprietor of the Piccolo Sandwich Bar sums it up – ‘we’ve asked if we could come back. They’ve said we could try but during that conversation they did mention Sainsbury’s about ten times’. The Soho site that formerly housed New Piccadilly is, at time of writing, under the management of Firmdale Hotels Plc – the original building has been pulled down and replaced. Decked out in the colours of the Festival of Britain, New Piccadilly’s prices matched its original 1950s décor and its fate provides an interesting contrast to the restored Royal Festival Hall in _This is Tomorrow_.  
+**Sonia Mullett**
 
-Sonia Mullett
+**Monty the Lamb**  
+North West London is the setting for this cheerful portrait of Isthmian League team, Hendon FC. Narrated by Dave Garner, who dresses up as the club’s mascot, Monty the Lamb, the film features ‘Soft like Me’ from Saint Etienne’s album _Finisterre_. The club’s motto _Possunt Quia Posse Videntur_ (‘They Can Because They Think They Can’) is a good indication of the pride and positivity of Dave and the team he represents – attributes underscored here by the dynamic editing of the closing sequence and the up-tempo  Saint Etienne track ‘Are We Gonna Be Alright?’ from the 1999 album _Built on Sand_.  
+**Sonia Mullett**
 
-**Monty the Lamb**
-
-North West London is the setting for this cheerful portrait of Isthmian League team, Hendon FC. Narrated by Dave Garner, who dresses up as the club’s mascot, Monty the Lamb, the film features ‘Soft like Me’ from Saint Etienne’s album _Finisterre_. The club’s motto _Possunt Quia Posse Videntur_ (‘They Can Because They Think They Can’) is a good indication of the pride and positivity of Dave and the team he represents – attributes underscored here by the dynamic editing of the closing sequence and the up-tempo  
-Saint Etienne track ‘Are We Gonna Be Alright?’ from the 1999 album _Built on Sand_.
-
-Sonia Mullett
-
-**The Other South Bank**
-
+**The Other South Bank**  
 South Bank, a short distance from the centre of Middlesbrough on the river Tees, is about as far from the riverside leisure and commerce of the Southbank Centre on the Thames as could possibly be imagined. In Paul Kelly and Saint Etienne’s short, quietly angry film it’s a place that has been eviscerated, a panorama of dereliction and blight.
 
 Yet, oddly enough, it’s a place that seems to retain a little of the optimistic socialist and social spirit that animated the creation of the Royal Festival Hall, albeit as a rather more distant memory. As we see the area’s rusting workplaces, the remnants of the once massive employers (steel at Dorman Long, shipbuilding at Cammell Laird), voices tell us about a place where people felt they could share things, where they could leave their doors open, where they had ‘everything necessary for life’, a blasted ‘slaggy island’ whose dramatically unlovely appearance didn’t correspond to unlovely people – even today, the residents tell us, ‘you’ll never feel lonely’. That’s even with half the houses empty, as all we can see, for the most part, is row after row of tinned-up terraces. What happened here?
 
 It happened 20-30 years ago, we’re told: ‘Margaret Thatcher is the most reviled figure in the history of South Bank... there’ll be a mass celebration here when she dies’, says one, and no doubt this was one of the places that did have a street party when she expired. Absentee landlords are the other demon here, partly responsible for a place where the war looks like it ended yesterday, not in 1945.
 
-The only thing we see being repaired is a CCTV camera, though there are flashes of new uses and of life – a ‘Millennium Green’, a mosque and a corner shop still open, a garden full of odd sculptures, plants and _objets d’art_. For the people of the Other South Bank, as one of them tells us, ‘community spirit is alive and kicking’ – he pauses – ‘to some extent’.
+The only thing we see being repaired is a CCTV camera, though there are flashes of new uses and of life – a ‘Millennium Green’, a mosque and a corner shop still open, a garden full of odd sculptures, plants and _objets d’art_. For the people of the Other South Bank, as one of them tells us, ‘community spirit is alive and kicking’ – he pauses – ‘to some extent’.  
+**Owen Hatherley**
 
-Owen Hatherley
-
-**Seven Summers**
-
+**Seven Summers**  
 And then what? Seven summers later Paul Kelly and Saint Etienne returned to this landscape [the Lea Valley from _What Have You Done Today Mervyn Day?_]. It has gone, of course. Completely and utterly, without trace. All that is left on the site is one solitary Victorian warehouse. The 2012 Olympics are about to start.
 
 What is so breathtaking about the transformations in the Lower Lea Valley is the contrast. Here was a patch, futuristic in the 19th century, where social movements and invention took place; but left behind by the end of the 20th; and now yanked with a speed and absoluteness into a future not of its choosing.
@@ -163,5 +152,5 @@ UK 2012
 
 10 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzI5MDM0XX0=
+eyJoaXN0b3J5IjpbNDM3NjE5NjQ4XX0=
 -->
