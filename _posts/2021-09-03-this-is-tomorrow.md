@@ -60,17 +60,14 @@ _Keyboards:_ Bob Stanley, Pete Wiggs
 _Choir:_ Lilian Bayliss Technology School – Year 9 Students, London Centre for Young Musicians  
 _Orchestra:_ Students from Prendergast School, Students from Sydenham School,  Students from Sedgehill School,  Students of Trinity College of Music  
 _Builder interviews:_ Johnny Burke, Lucy Macnab  
-_Architect interviews:_ Elain Harwood 
-
+_Architect interviews:_ Elain Harwood  
 _Featuring the voice of:_ David Wykes _(as ‘The Book’)_
 
-UK 2007©
-
+UK 2007©  
 54 mins
 
-_A London Trilogy: The Films of Saint Etienne  
-2003-2007_ is available to buy in the BFI Shop:  
-**https://shop.bfi.org.uk/a-london-trilogy-the-films-of-saint-etienne.html**
+_A London Trilogy: The Films of Saint Etienne  2003-2007_ is available to buy in the BFI Shop:  **https://shop.bfi.org.uk/a-london-trilogy-the-films-of-saint-etienne.html**
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwMzA5MzY3XX0=
+eyJoaXN0b3J5IjpbODI5MDI0ODldfQ==
 -->
