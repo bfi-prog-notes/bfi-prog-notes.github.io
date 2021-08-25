@@ -64,58 +64,35 @@ Carefully constructed with, seemingly, a thorough knowledge of the insurance bac
 
 *Cast:*<br>
 Fred MacMurray *(Walter Neff)*<br>
-
 Barbara Stanwyck *(Phyllis Dietrichson)*<br>
-
 Edward G. Robinson *(Barton Keyes)*<br>
-
 Porter Hall *(Mr Jackson)*<br>
-
 Jean Heather *(Lola Dietrichson)*<br>
-
 Tom Powers *(Mr Dietrichson)*<br>
-
 Byron Barr *(Nino Zachette)*<br>
-
 Richard Gaines *(Mr Norton)*<br>
-
 Fortunio Bonanova *(Sam Gorlopis)*<br>
-
 John Philliber *(Joe Peters)*<br>
 
 *uncredited*<br>
-
 Bess Flowers *(secretary)*<br>
-
 Kernan Cripps *(conductor)*<br>
-
 Harold Garrison *(red cap)*<br>
-
-Oscar Smith, Frank Billy Mitchell,  
-Floyd Shackleford, James Adamson  
-*(Pullman porters)*<br>
-
+Oscar Smith, Frank Billy Mitchell,  Floyd Shackleford, James Adamson  *(Pullman porters)*<br>
 Betty Farrington *(Mattie, maid)*<br>
-
 Dick Rush *(pullman conductor)*<br>
-
 Edmund Cobb *(train conductor)*<br>
-
 Sam McDaniel *(garage attendant)*<br>
-
 Judith Gibson *(Pacific All-Risk telephone operator)*<br>
-
 Miriam Franklin *(Keyes’ secretary)*<br>
 
 USA 1944©<br>
-
 107 mins
 
-Introduction by Lucy Bolton, Queen Mary  
-University of London (Wed 29 Sep only)
+Introduction by Lucy Bolton, Queen Mary  University of London (Wed 29 Sep only)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTEzMzE1NV19
+eyJoaXN0b3J5IjpbMzkwMTIwMzY3XX0=
 -->
