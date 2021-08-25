@@ -41,6 +41,8 @@ UK 2021
 
 
 **THE FILMS OF SAINT ETIENNE**<br>
+**This Is Tomorrow + intro by Bob Stanley and Paul Kelly**<br>
+Fri 3 Sep 14:30<br>
 **Asunder + intro by Esther Johnson  and Bob Stanley**<br>
 Sat 4 Sep 12:00<br>
 **Finisterre + Q&A with Bob Stanley and  Pete Wiggs**<br>
