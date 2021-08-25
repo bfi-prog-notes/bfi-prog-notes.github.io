@@ -91,13 +91,11 @@ William Post Jr _(police detective)_
 George Melford, Charles Miller, Joe Forte,  Dick Ryan, George L. Spaulding _(parole board members)_  
 Lionel Stander _(Corrigan)_  
 Jonathan Hale _(Robert Winston)_  
-Lew Eckels, George Cisar, Philip Lord,  
-Duke Watson, George Pembroke _(policemen)_  
+Lew Eckels, George Cisar, Philip Lord,  Duke Watson, George Pembroke _(policemen)_  
 Freddie Steele, George Turner _(holdup men)_  
 Jane Crowley _(Anna Felczak)_  
 Robert Karnes _(Spitzer)_  
-Larry Blake, Robert B. Williams, Perry Ivins,  
-Lester Sharpe _(technicians)_  
+Larry Blake, Robert B. Williams, Perry Ivins,  Lester Sharpe _(technicians)_  
 Helen Foster, Dollie Caillet _(secretaries)_  
 Abe Dinovitch, Jack Mannick _(Polish men)_  
 Henry Kulky _(bartender in Drazynski’s place)_  
@@ -113,9 +111,9 @@ Bill Vendetta _(himself, Chicago Times photographer)_
 Joe Ploski  
 Peter Seal
 
-USA 1948
-
+USA 1948  
 111 mins
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg1NTY1NTZdfQ==
+eyJoaXN0b3J5IjpbLTE3MjY3MTM5OTZdfQ==
 -->
