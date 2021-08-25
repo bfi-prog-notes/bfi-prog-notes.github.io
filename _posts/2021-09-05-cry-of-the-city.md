@@ -60,16 +60,35 @@ Fred  Clark _(Lieutenant Jim Collins)_
 Shelley  Winters _(Brenda)_  
 Betty  Garde _(Nurse Frances Pruett)_  
 Berry  Kroeger _(W.A. Niles)_  
-Tommy  Cook _(Tony Roma)_
-Debra  Paget _(Teena Riconti)_Hope  Emerson _(Rose Given)_Roland  Winters _(Ledbetter)_Walter  Baldwin _(Orvy)_
+Tommy  Cook _(Tony Roma)_  
+Debra  Paget _(Teena Riconti)_  
+Hope  Emerson _(Rose Given)_  
+Roland  Winters _(Ledbetter)_  
+Walter  Baldwin _(Orvy)_
 
-_uncredited_
-
-June Storey _(Miss Boone)_Tito Vuolo _(Papa Mario Roma)_Mimi Aguglia _(Mama Roma)_Dolores Castle _(Rosa)_Claudette Ross _(Rosa’s daughter)_Tiny Francone _(Perdita)_Elena Savonarola _(Francesca)_Thomas Ingersoll _(priest)_Vito Scotti _(Julio)_Konstantin Shayne _(Doctor Veroff)_Howard Freeman _(Sullivan)_Robert Karnes,  Charles Tannen, Tom Moore _(doctors)_Oliver Blake _(Caputo)_Antonio Filauri _(Vaselli)_Joan Miller _(Vera)_Kenneth Christy _(Loomis)_Emil Rameau _(Doctor Niklas)_Harry Cheshire _(Hanlon)_Eddie Parks _(Mike)_Charles Wagenheim _(counterman)_Kathleen Howard _(Mrs Pruett)_Jane Nigh,  Ruth Clifford _(nurses)_
+_uncredited_  
+June Storey _(Miss Boone)_  
+Tito Vuolo _(Papa Mario Roma)_  
+Mimi Aguglia _(Mama Roma)_  
+Dolores Castle _(Rosa)_  
+Claudette Ross _(Rosa’s daughter)_  
+Tiny Francone _(Perdita)_  
+Elena Savonarola _(Francesca)_  
+Thomas Ingersoll _(priest)_  
+Vito Scotti _(Julio)_  
+Konstantin Shayne _(Doctor Veroff)_  
+Howard Freeman _(Sullivan)_  
+Robert Karnes,  Charles Tannen, Tom Moore _(doctors)_  
+Oliver Blake _(Caputo)_  
+Antonio Filauri _(Vaselli)_  
+Joan Miller _(Vera)_  
+Kenneth Christy _(Loomis)_  
+Emil Rameau _(Doctor Niklas)_  
+Harry Cheshire _(Hanlon)_Eddie Parks _(Mike)_Charles Wagenheim _(counterman)_Kathleen Howard _(Mrs Pruett)_Jane Nigh,  Ruth Clifford _(nurses)_
 
 USA 1948
 
 95 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzM0NDQ4N119
+eyJoaXN0b3J5IjpbLTU1ODA4NjY2M119
 -->
