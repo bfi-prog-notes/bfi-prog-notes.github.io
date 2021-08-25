@@ -26,14 +26,11 @@ Symmetries give the film an elegant structure and also suggest equivalences betw
 **Imogen Sara Smith, _Sight & Sound_, May 2015**
 <br><br>
 
-**CRY OF THE City**
-
+**CRY OF THE CITY**  
 _Directed by_: Robert Siodmak  
 ©: Twentieth Century-Fox Film Corporation  
 Twentieth Century-Fox _presents_
-
-_Released through_:  
-Twentieth Century-Fox Film Corporation  
+_Released through_:  Twentieth Century-Fox Film Corporation  
 _Produced by_: Sol C. Siegel  
 _Screen Play by_: Richard Murphy  
 _From a novel by_: Henry Edward Helseth  
@@ -47,22 +44,24 @@ _Wardrobe Director_: Charles Lemaire
 _Makeup Artist_: Ben Nye  
 _Music_: Alfred Newman  
 _Musical Direction_: Lionel Newman  
-_Orchestral Arrangements_: Herbert Spencer,  
-Earle Hagen  
+_Orchestral Arrangements_: Herbert Spencer,  Earle Hagen  
 _Sound_: Eugene Grossman, Roger Heman  
 _Sound System_: Western Electric
 
-_uncredited_
-
+_uncredited_  
 _Production Manager_: Sid Bowen  
-_Assistant Director_: Jasper Blystone
-
+_Assistant Director_: Jasper Blystone  
 _Camera Operator_: Paul Lockwood
 
-_Cast:_
-
+**Cast**  
 Victor Mature _(Lieutenant Vittorio Candella)_  
-Richard  Conte _(Martin Rome)_Fred  Clark _(Lieutenant Jim Collins)_Shelley  Winters _(Brenda)_Betty  Garde _(Nurse Frances Pruett)_Berry  Kroeger _(W.A. Niles)_Tommy  Cook _(Tony Roma)_Debra  Paget _(Teena Riconti)_Hope  Emerson _(Rose Given)_Roland  Winters _(Ledbetter)_Walter  Baldwin _(Orvy)_
+Richard  Conte _(Martin Rome)_  
+Fred  Clark _(Lieutenant Jim Collins)_  
+Shelley  Winters _(Brenda)_  
+Betty  Garde _(Nurse Frances Pruett)_  
+Berry  Kroeger _(W.A. Niles)_  
+Tommy  Cook _(Tony Roma)_
+Debra  Paget _(Teena Riconti)_Hope  Emerson _(Rose Given)_Roland  Winters _(Ledbetter)_Walter  Baldwin _(Orvy)_
 
 _uncredited_
 
@@ -72,5 +71,5 @@ USA 1948
 
 95 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzgxNzg5OV19
+eyJoaXN0b3J5IjpbMTk2MzM0NDQ4N119
 -->
