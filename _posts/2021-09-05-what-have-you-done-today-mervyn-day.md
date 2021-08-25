@@ -26,11 +26,10 @@ The inevitable urge, with obituaries, is to romanticise. Faults are forgotten. T
 
 The French political philosopher Henri Lefebvre once wrote that the landscapes we live in are actively constructed, like any other product of culture, their shape the result of complex changes happening every minute of every day, by every person who comes into contact with them, from the allotment holder planting his cabbages to the Olympic strategist poring over masterplans in their office. We all have a relationship with a landscape. But none, said Lefebvre, is more prized or powerful than the relationship between a landscape and the people who live within it every day. Lefebvre called this ‘lived space’. _What Have You Done Today Mervyn Day?_ is a celebration of lived space. The inhabitants of the Lea’s secret garden may not be the most powerful or rich, but they have one great advantage: they know every inch of a place, in their heart. Recording this ordinary, everyday detail is a powerful act. It does not immortalise, I know that – but it does eke out life just a bit longer. It means we remember. It means that stories and histories, easily forgotten, can be told.  
 **Tom Dyckhoff, ‘Catching up with the Future: _What Have You Done Today Mervyn Day?_’, from  _A London Trilogy: The Films of Saint Etienne 2003-2007_ DVD booklet (BFI, 2013)**
+<br><br>
 
 
-
-**WHAT HAVE YOU DONE TODAY MERVYN DAY?**
-
+**WHAT HAVE YOU DONE TODAY MERVYN DAY?**  
 _Filmed and Directed by_: Paul Kelly  
 _Production Company_: CC-Lab  
 _Commissioned by_: The Barbican  
@@ -43,23 +42,20 @@ _Additional Photography_: David Raedeker
 _Edited by_: Mikey Tomkins  
 _Titles_: Rob Jones  
 _Colourist (at Exposure)_: Paul Jones  
-_All Music Written and Performed by_:  
-Saint Etienne, Ian Catt  
+_All Music Written and Performed by_:  Saint Etienne, Ian Catt  
 _Keyboards_: Bob Stanley, Pete Wiggs  
 _Vocals_: Sarah Cracknell, Debsey Wykes  
 _Bass_: Ian Catt  
 _Drums_: Simon Lea  
 _Guitar_: James Walbourne, Noah Kelly  
 _Flute_: Jo Fraser  
-_Saint Etienne are:_  
-Sarah Cracknell, Bob Stanley, Pete Wiggs  
+_Saint Etienne are:_  Sarah Cracknell, Bob Stanley, Pete Wiggs  
 _Musical Direction by_: Ian Catt  
 _All Music Recorded at_: Catt Music  
 _Sound Recordist_: Paul Sheekey  
 _Sound Mixer_: Herb
 
-_Cast:_
-
+**Cast**  
 David Essex _(voice of Mervyn’s grandfather)_  
 Linda Robson _(voice of Mervyn’s mother)_  
 Noah Kelly _(Mervyn Day)_  
@@ -68,24 +64,20 @@ Manny _(newsagent)_
 Sadie Kelly _(girl in newsagent)_  
 Sheena Naylor _(caff lady one)_  
 Deborah Gathercole _(caff lady two)_  
-Billy Gathercole _(caff punter one)_
-
+Billy Gathercole _(caff punter one)_  
 Pete Wiggs _(caff punter two)_  
 Martin Green _(tile factory foreman)_  
 Keith Quinlan _(tile factory worker)_  
 Andy Hackett _(longboatman)_  
-Nick Parrish _(motorcyclist)_
-
+Nick Parrish _(motorcyclist)_  
 Bob Stanley _(diner worker)_  
 Pat Gilbert _(diner customer)_
 
-UK 2005
-
+UK 2005  
 48 mins
 
-_A London Trilogy: The Films of Saint Etienne  
-2003-2007_ is available to buy in the BFI Shop:  
-**https://shop.bfi.org.uk/a-london-trilogy-the-films-of-saint-etienne.html**
+_A London Trilogy: The Films of Saint Etienne  2003-2007_ is available to buy in the BFI Shop:  **https://shop.bfi.org.uk/a-london-trilogy-the-films-of-saint-etienne.html**
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTI3MzA5NjFdfQ==
+eyJoaXN0b3J5IjpbNjcwMTM0MDFdfQ==
 -->
