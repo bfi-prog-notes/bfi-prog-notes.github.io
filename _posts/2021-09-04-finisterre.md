@@ -34,43 +34,26 @@ _Finisterre_ hasn’t aged a bit. Many of the shop fronts, streetscapes and path
 
 **FINISTERRE**<br>
 
-_Filmed and directed by:_ Paul Kelly,  
-Kieran Evans<br>
-
-_Executive Producers:_ Bob Stanley,  
-Martin Kelly<br>
-
-_Produced by:_ Jason Hocking,  
-Andrew Hinton<br>
-
+_Filmed and directed by:_ Paul Kelly,  Kieran Evans<br>
+_Executive Producers:_ Bob Stanley,  Martin Kelly<br>
+_Produced by:_ Jason Hocking,  Andrew Hinton<br>
 _Written by:_ Kevin Pearce, Kieran Evans, Bob Stanley<br>
-
 _Edited by:_ Kieran Evans<br>
-
 _Assistant Editor:_ Nick Parish<br>
-
 _All Music by:_ Saint Etienne<br>
+_With special thanks to:_ Ian Catt<br>
+_Sound Mix by:_  Ian Chattam,  Dan Chapman<br>
+_Assisted by:_ Kimmy Sekel<br>
+_Narrated by:_ Michael Jayston<br>
+_Featuring the voices of:_ Mark Perry,  Julian Opie, Liam Watson, Andy Hackett, Anneliese Midgley-Shukman,  Shena Mackay, Vashti Bunyan,  Isabel Waidner, Nick Sanderson, Lawrence, Vic Godard<br>
 
-_With special thanks to:_ Ian Catt
-
-_Sound Mix by:_  Ian Chattam,  
-Dan Chapman
-
-_Assisted by:_ Kimmy Sekel
-
-_Narrated by:_ Michael Jayston
-
-_Featuring the voices of:_ Mark Perry,  
-Julian Opie, Liam Watson, Andy Hackett, Anneliese Midgley-Shukman,  
-Shena Mackay, Vashti Bunyan,  
-Isabel Waidner, Nick Sanderson, Lawrence, Vic Godard
-
-UK 2003
-
+UK 2003<br>
 59 mins
 
-_A London Trilogy: The Films of Saint Etienne 2003-2007_ is available to buy in the BFI Shop:  
-**https://shop.bfi.org.uk/a-london-trilogy-the-films-of-saint-etienne.html**
+_A London Trilogy: The Films of Saint Etienne 2003-2007_ is available to buy in the BFI Shop:  **https://shop.bfi.org.uk/a-london-trilogy-the-films-of-saint-etienne.html**
+<br><br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjQzMDA0NV19
+eyJoaXN0b3J5IjpbMzMxODE4OTFdfQ==
 -->
