@@ -39,118 +39,117 @@ What is so breathtaking about the transformations in the Lower Lea Valley is the
 
 Architecture can make you forget. It’s very good at it. That’s why powerful people build buildings. In this day and age, you would think that we had means more sophisticated with which to assert one’s authority on a place, something nimble and clever, perhaps, involving drones and Jack Bauer. But you can’t beat good old-fashioned town planning. Architecture, with its weight and might, can rewrite history, at least until the archaeologists return thousands of years later and see the truth marked in the soil beneath.
 
-Film, though, can help you remember. It is better than architecture at telling tales.  
-The fragility of its ephemeral, flickering light makes it perfect for stories of memory and the past. Which is why even _Seven Summers_, this small epilogue to _What Have You Done Today Mervyn Day?_ is so powerful. The clue is in the title. Just seven summers is all it has taken to wipe out the complex ecosystem of the Lower Lea Valley, built up over hundreds of years.
+Film, though, can help you remember. It is better than architecture at telling tales.  The fragility of its ephemeral, flickering light makes it perfect for stories of memory and the past. Which is why even _Seven Summers_, this small epilogue to _What Have You Done Today Mervyn Day?_ is so powerful. The clue is in the title. Just seven summers is all it has taken to wipe out the complex ecosystem of the Lower Lea Valley, built up over hundreds of years.
 
-Architecture, by contrast, always tends towards masking the past. It tries to convince us, with its monumentality, that things will remain the same. That’s why people build monuments. It’s folly. Yet we do it again and again. One day the Olympic buildings, just like the Carpenters estate, will be ruins. ‘My name is Ozymandias, King of Kings: Look on my works, ye mighty, and despair!’
+Architecture, by contrast, always tends towards masking the past. It tries to convince us, with its monumentality, that things will remain the same. That’s why people build monuments. It’s folly. Yet we do it again and again. One day the Olympic buildings, just like the Carpenters estate, will be ruins. ‘My name is Ozymandias, King of Kings: Look on my works, ye mighty, and despair!’  
+**Tom Dyckhoff**
 
-Tom Dyckhoff
+**All text from _A London Trilogy: The Films of Saint Etienne 2003-2007_ DVD booklet (BFI, 2013)**
+<br><br>
 
-All text from _A London Trilogy: The Films of Saint Etienne 2003-2007_ DVD booklet (BFI, 2013)
 
-<![endif]-->
-
-**BANKSY IN LONDON**
+**BANKSY IN LONDON**<br>
 
 _Filmed and Directed by:_ Paul Kelly,  
-Kieran Evans
+Kieran Evans<br>
 
-_Edited by:_ Paul Kelly
+_Edited by:_ Paul Kelly<br>
 
-_Music:_ Saint Etienne
+_Music:_ Saint Etienne<br>
 
-UK 2003
+UK 2003<br>
 
 3 mins
 
 **TODAY’S SPECIAL: TEA ROOMS /  
-ELDON STREET / NEW PICCADILLY**
+ELDON STREET / NEW PICCADILLY**<br>
 
-_Filmed and Directed by:_  Paul Kelly
+_Filmed and Directed by:_  Paul Kelly<br>
 
-_A_ CC-Lab _production_
+_A_ CC-Lab _production_<br>
 
-_Produced by:_  Andrew Hinton
+_Produced by:_  Andrew Hinton<br>
 
-_Edited by:_  Mikey Tomkins
+_Edited by:_  Mikey Tomkins<br>
 
-_Music by:_  Saint Etienne and Ian Catt
+_Music by:_  Saint Etienne and Ian Catt<br>
 
-_Sound Mix by:_  Daniel Herbert
+_Sound Mix by:_  Daniel Herbert<br>
 
-_Titles by:_  Rob Jones
+_Titles by:_  Rob Jones<br>
 
-UK 2004
+UK 2004<br>
 
 9 mins
 
-**MONTY THE LAMB**
+**MONTY THE LAMB**<br>
 
-_Director:_ Paul Kelly
+_Director:_ Paul Kelly<br>
 
-_Producer:_  Bob Stanley
+_Producer:_  Bob Stanley<br>
 
-_Photography:_  Paul Kelly
+_Photography:_  Paul Kelly<br>
 
-_Editor:_  Paul Kelly
+_Editor:_  Paul Kelly<br>
 
-_Music:_  Saint Etienne
+_Music:_  Saint Etienne<br>
 
-_Narrator:_  Dave Garner
+_Narrator:_  Dave Garner<br>
 
-UK 2006
+UK 2006<br>
 
 12 mins
 
-**THE OTHER SOUTH BANK**
+**THE OTHER SOUTH BANK**<br>
 
-_Filmed and Directed by:_  Paul Kelly
+_Filmed and Directed by:_  Paul Kelly<br>
 
-_A_ Pilgrim Films _production for_ Southbank Centre _and_ Northern Film and Media
+_A_ Pilgrim Films _production for_ Southbank Centre _and_ Northern Film and Media<br>
 
-_Produced_  _by_  Andrew Hinton
+_Produced_  _by_  Andrew Hinton<br>
 
-_Edited_  _by_  Paul Kelly
+_Edited_  _by_  Paul Kelly<br>
 
-_Music by_  Saint Etienne
+_Music by_  Saint Etienne<br>
 
 _Filmed with the assistance of:_Jan Williams, Chris Teasdale of  
-The Caravan Gallery
+The Caravan Gallery<br>
 
-_Thanks_  _to:_  Linda Fleetham and all at Golden Boy Green Community Centre, Lucy MacNab and Shan MacLennan at Southbank Centre, Roxy Bramley at Nothern Film and Media, Louise King at Coin Street Community Builders, Terry and Jean Donaghue, Chris and Julie, Dick Fawcett, Cliff and the people of South Bank, Middlesbrough
+_Thanks_  _to:_  Linda Fleetham and all at Golden Boy Green Community Centre, Lucy MacNab and Shan MacLennan at Southbank Centre, Roxy Bramley at Nothern Film and Media, Louise King at Coin Street Community Builders, Terry and Jean Donaghue, Chris and Julie, Dick Fawcett, Cliff and the people of South Bank, Middlesbrough<br>
 
-UK 2008
+UK 2008<br>
 
 9 mins
 
-**SEVEN SUMMERS**
+**SEVEN SUMMERS**<br>
 
-_Filmed and Directed by:_  Paul Kelly
+_Filmed and Directed by:_  Paul Kelly<br>
 
-_A_  Heavenly Films _production_
+_A_  Heavenly Films _production_<br>
 
-_Commissioned_  _by:_  Create
+_Commissioned_  _by:_  Create<br>
 
-_Sponsored by:_  Deutche Bank
+_Sponsored by:_  Deutche Bank<br>
 
-_Supported_  _by:_  The Arts Council of England
+_Supported_  _by:_  The Arts Council of England<br>
 
-_Produced_  _by:_  Andrew Hinton for CC-Lab
+_Produced_  _by:_  Andrew Hinton for CC-Lab<br>
 
-_Produced and Edited by:_  Paul Kelly
+_Produced and Edited by:_  Paul Kelly<br>
 
-_Written_  _by:_  Bob Stanley
+_Written_  _by:_  Bob Stanley<br>
 
-_Original 2005 Lea Valley Footage filmed by:_ Paul Kelly, David Raedeker
+_Original 2005 Lea Valley Footage filmed by:_ Paul Kelly, David Raedeker<br>
 
 _Music_  _by:_  Saint Etienne, Ian Catt,  
-Pete Wiggs
+Pete Wiggs<br>
 
-_Narrated_  _by:_  Sarah Cracknell
+_Narrated_  _by:_  Sarah Cracknell<br>
 
-UK 2012
+UK 2012<br>
 
 10 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3NjE5NjQ4XX0=
+eyJoaXN0b3J5IjpbMTQwNTQxNTY2N119
 -->
