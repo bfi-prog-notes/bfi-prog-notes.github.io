@@ -23,7 +23,7 @@ Carefully constructed with, seemingly, a thorough knowledge of the insurance bac
 
 
 **DOUBLE INDEMNITY**<br>
-<![endif]-->
+
 
 *Director:* Billy Wilder
 
@@ -91,59 +91,59 @@ Carefully constructed with, seemingly, a thorough knowledge of the insurance bac
 
 *Props:* Jack De Golconda, James Cottrell
 
-Make-up: Bob Ewing
+*Make-up:* Bob Ewing
 
-Hair: Hollis Barnes
+*Hair:* Hollis Barnes
 
-Stand-in for Barbara Stanwyck: Dorothy Staten
+*Stand-in for Barbara Stanwyck:* Dorothy Staten
 
-Publicity: John Woolfenden
+*Publicity:* John Woolfenden
 
-Cast:
+*Cast:*
 
-Fred MacMurray (Walter Neff)
+Fred MacMurray *(Walter Neff)*
 
-Barbara Stanwyck (Phyllis Dietrichson)
+Barbara Stanwyck *(Phyllis Dietrichson)*
 
-Edward G. Robinson (Barton Keyes)
+Edward G. Robinson *(Barton Keyes)*
 
-Porter Hall (Mr Jackson)
+Porter Hall *(Mr Jackson)*
 
-Jean Heather (Lola Dietrichson)
+Jean Heather *(Lola Dietrichson)*
 
-Tom Powers (Mr Dietrichson)
+Tom Powers *(Mr Dietrichson)*
 
-Byron Barr (Nino Zachette)
+Byron Barr *(Nino Zachette)*
 
-Richard Gaines (Mr Norton)
+Richard Gaines *(Mr Norton)*
 
-Fortunio Bonanova (Sam Gorlopis)
+Fortunio Bonanova *(Sam Gorlopis)*
 
-John Philliber (Joe Peters)
+John Philliber *(Joe Peters)*
 
-uncredited
+*uncredited*
 
-Bess Flowers (secretary)
+Bess Flowers *(secretary)*
 
-Kernan Cripps (conductor)
+Kernan Cripps *(conductor)*
 
-Harold Garrison (red cap)
+Harold Garrison *(red cap)*
 
 Oscar Smith, Frank Billy Mitchell,  
 Floyd Shackleford, James Adamson  
-(Pullman porters)
+*(Pullman porters)*
 
-Betty Farrington (Mattie, maid)
+Betty Farrington *(Mattie, maid)*
 
-Dick Rush (pullman conductor)
+Dick Rush *(pullman conductor)*
 
-Edmund Cobb (train conductor)
+Edmund Cobb *(train conductor)*
 
-Sam McDaniel (garage attendant)
+Sam McDaniel *(garage attendant)*
 
-Judith Gibson (Pacific All-Risk telephone operator)
+Judith Gibson *(Pacific All-Risk telephone operator)*
 
-Miriam Franklin (Keyes’ secretary)
+Miriam Franklin *(Keyes’ secretary)*
 
 USA 1944©
 
@@ -155,5 +155,5 @@ University of London (Wed 29 Sep only)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjI5NTkzNF19
+eyJoaXN0b3J5IjpbMTc0MDk4ODA5XX0=
 -->
