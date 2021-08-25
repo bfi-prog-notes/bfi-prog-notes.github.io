@@ -33,34 +33,19 @@ _Archive Research_: Paul Kelly, Bob Stanley, Travis Elborough<br>
 _Written by_: Bob Stanley, Travis Elborough<br>
 _Edited by_: Paul Kelly<br>
 _Colourist_: Andy Lee<br>
-_Original Soundtrack Written and Produced by_:Pete Wiggs<br>
-
-_Vocals_: Sarah Cracknell, Debsey Wykes,  
-Sean Read<br>
-
+_Original Soundtrack Written and Produced by_: Pete Wiggs<br>
+_Vocals_: Sarah Cracknell, Debsey Wykes,  Sean Read<br>
 _Vocals recorded by_: Sean Read<br>
-
 _Dubbing Mixer_: Andy Coles<br>
-
-_Narration recorded by_: Gergo Dorozsmai,
-
-Nick Moorbath<br>
-
+_Narration recorded by_: Gergo Dorozsmai, Nick Moorbath<br>
 _Press and PR_: Emma Pettit, Sarah Bemand<br>
-
-_With special thanks to_: _At the BFI:_ Jane Giles,  
-Peter Fydler, Sam Dunn, Tony Dykes, Stuart Brown; _At Peter Werth:_ Peter Lynes, Phil Jones,  
-Andrew Ward<br>
-
-_Special thanks to_: Michael Hayden,  
-Sukhdev Sandhu<br>
-
+_With special thanks to_: _At the BFI:_ Jane Giles,  Peter Fydler, Sam Dunn, Tony Dykes, Stuart Brown; _At Peter Werth:_ Peter Lynes, Phil Jones,  Andrew Ward<br>
+_Special thanks to_: Michael Hayden,  Sukhdev Sandhu<br>
 _Narrated by_: Ian McShane<br>
 
 UK 2013<br>
-
 70 mins
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjczMzAzMF19
+eyJoaXN0b3J5IjpbLTIwMjA4NTY5MTJdfQ==
 -->
