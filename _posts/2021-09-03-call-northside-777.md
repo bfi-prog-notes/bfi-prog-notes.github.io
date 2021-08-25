@@ -18,21 +18,16 @@ Another aspect of the documentary _noir_ that features heavily within the film�
 The result is thus a remarkable tension that has a bearing on how one finally reads the film. McNeal’s shift in _Call Northside 777_ from hard-nosed sensationalist to moral citizen echoes documentary _noir_’s own broader ethical revision of _film noir_’s conventional cynicism, but by having the film’s denouement based on the status of the visual document – Wiecek is freed on the basis of a photograph – the spectator is still also inevitably forced to consider the implications of the way in which the film’s very own claim to truth has, in fact, been managed and fabricated by its makers.  
 **Extracted from _100 Film Noirs_ by Jim Hillier and Alastair Phillips (BFI Screen Guides, 2009).  Reproduced by kind permission of Bloomsbury Publishing. ©Jim Hillier and Alastair Phillips**
 
-**A contemporary review**
+**A contemporary review**  
+This story, like _Boomerang_ and _The House on 92nd Street_, is based on official documents. It is a fact that a Pole called Majczek was wrongly sentenced and after 11 years in jail came out a free man. It is a relief to be able to believe in a story as one does in this one. It is consistent all through, it rings true and maintains an ever-increasing interest to the end. It is exciting, and the twist which provides the denouement is most ingenious. The director has been lucky in his cast. Kasia Orzazewski puts in a lovely performance played with feeling and restraint, and Richard Conte, as Frank, never overacts. It is a clear-cut  film, every piece falling slowly into place; there is nothing superfluous.  
+The newspaper office is authentic-looking and one is led to believe that the photography really does depict Chicago as it is.  
+**_Monthly Film Bulletin_, June 1948**
+<br><br>
 
-This story, like _Boomerang_ and _The House on 92nd Street_, is based on official documents. It is a fact that a Pole called Majczek was wrongly sentenced and after 11 years in jail came out a free man. It is a relief to be able to believe in a story as one does in this one. It is consistent all through, it rings true and maintains an ever-increasing interest to the end. It is exciting, and the twist which provides the denouement is most ingenious. The director has been lucky in his cast. Kasia Orzazewski puts in a lovely performance played with feeling and restraint, and Richard Conte, as Frank, never overacts. It is a clear-cut  
-film, every piece falling slowly into place; there is nothing superfluous.  
-The newspaper office is authentic-looking and one is led to believe that the photography really does depict Chicago as it is.
 
-_Monthly Film Bulletin_, June 1948
-
-<![endif]-->
-
-**CALL NORTHSIDE 777**
-
+**CALL NORTHSIDE 777**  
 _Directed by_: Henry Hathaway  
-_©/Presents/Released through_:  
-Twentieth Century-Fox Film Corporation  
+_©/Presents/Released through_:  Twentieth Century-Fox Film Corporation  
 _Produced by_: Otto Lang  
 _Screen Play by_: Jerome Cady, Jay Dratler  
 _Adaptation by_: Leonard Hoffman, Quentin Reynolds  
@@ -51,13 +46,10 @@ _Sound_: W.D. Flick, Roger Heman
 _Sound System_: Western Electric  
 _Wirephoto by_: Associated Press
 
-_uncredited_
-
+_uncredited_  
 _Executive Producer_: Darryl F. Zanuck  
-_Production Managers_: Sam Wurtzel,  
-Raymond Klune  
-_Assistant Directors_: Abe Steinberg,  
-Joseph E. Rickards  
+_Production Managers_: Sam Wurtzel,  Raymond Klune  
+_Assistant Directors_: Abe Steinberg,  Joseph E. Rickards  
 _Script Supervisor_: Stanley Scheuer  
 _Camera Operator_: Till Gabbani  
 _Grip_: Frank Cory Jr  
@@ -66,8 +58,7 @@ _Make-up_: Dick Smith, Tom Tuttle
 _Hairstylist_: Myrtle Ford  
 _Technical Adviser_: James P. McGuire
 
-_Cast:_
-
+**Cast**  
 James Stewart _(P. James McNeal)_  
 Richard Conte _(Frank Wiecek)_  
 Lee J. Cobb _(Brian Kelly)_  
@@ -80,10 +71,8 @@ Moroni Olsen _(chairman of parole board)_
 John McIntire _(Sam Faxon)_  
 Paul Harvey _(Martin Burns)_
 
-_uncredited_
-
-Truman Bradley _(narrator)_
-
+_uncredited_  
+Truman Bradley _(narrator)_  
 J.M. Kerrigan _(Sullivan, the bailiff)_  
 Samuel S. Hinds _(Judge Charles Moulton)_  
 George Tyne _(Tomek Zaleska)_  
@@ -99,10 +88,7 @@ Charles Lane _(prosecuting attorney)_
 E.G. Marshall _(Rayska)_  
 Norman Mackay, Walter Greaza _(detectives)_  
 William Post Jr _(police detective)_  
-George Melford, Charles Miller, Joe Forte,  
-Dick Ryan, George L. Spaulding
-
-_(parole board members)_  
+George Melford, Charles Miller, Joe Forte,  Dick Ryan, George L. Spaulding _(parole board members)_  
 Lionel Stander _(Corrigan)_  
 Jonathan Hale _(Robert Winston)_  
 Lew Eckels, George Cisar, Philip Lord,  
@@ -131,5 +117,5 @@ USA 1948
 
 111 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDMyOTU1MTVdfQ==
+eyJoaXN0b3J5IjpbLTE4Mjg1NTY1NTZdfQ==
 -->
