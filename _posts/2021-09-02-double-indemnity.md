@@ -23,129 +23,91 @@ Carefully constructed with, seemingly, a thorough knowledge of the insurance bac
 
 
 **DOUBLE INDEMNITY**<br>
+*Director:* Billy Wilder<br>
+©_/Production Company:_ Paramount Pictures<br>
+*Screenplay:* Billy Wilder, Raymond Chandler<br>
+*Based on the novel by:* James M. Cain<br>
+*Director of Photography:* John F. Seitz<br>
+*2nd Camera:* Otto Pierce, Harlow Stengel<br>
+*Process Photography:* Farciot Edouart<br>
+*Editorial Supervision:* Doane Harrison<br>
+*Art Directors:* Hans Dreier, Hal Pereira<br>
+*Set Decorator:* Bertram Granger<br>
+*Costumes:* Edith Head<br>
+*Wardrobe:* Neva Bourne, Bill Rabb<br>
+*Make-up Artist:* Wally Westmore<br>
+*Music Score:* Miklós Rózsa<br>
+*Symphony in D Minor by:* César Franck<br>
+*Sound Recording:* Stanley Cooley, Walter Oberst<br>
 
+*uncredited*<br>
+*Executive Producer:* B.G. De Sylva<br>
+*Producer:* Joseph Sistrom<br>
+*Production Manager:* Hugh Brown<br>
+*Assistant Production Manager:* Al Trosin<br>
+*Dialogue Director:* John Gage<br>
+*Assistant Director:* C.C. Coleman<br>
+*2nd Assistant Director:* Bill Sheehan<br>
+*Screenplay Clerk:* Nancy Lee<br>
+*Casting:* Harvey Clermont<br>
+*Grip:* Walter McLeod<br>
+*Microphone Grip:* Bill Pillar<br>
+*Electrician:* Chet Stafford<br>
+*Cableman:* Jack Duffy<br>
+*Stills:* Ed Henderson<br>
+*Assistant Cutter:* Lee Hall<br>
+*Props:* Jack De Golconda, James Cottrell<br>
+*Make-up:* Bob Ewing<br>
+*Hair:* Hollis Barnes<br>
+*Stand-in for Barbara Stanwyck:* Dorothy Staten<br>
+*Publicity:* John Woolfenden<br>
 
-*Director:* Billy Wilder
+*Cast:*<br>
+Fred MacMurray *(Walter Neff)*<br>
 
-©_/Production Company:_ Paramount Pictures
+Barbara Stanwyck *(Phyllis Dietrichson)*<br>
 
-*Screenplay:* Billy Wilder, Raymond Chandler
+Edward G. Robinson *(Barton Keyes)*<br>
 
-*Based on the novel by:* James M. Cain
+Porter Hall *(Mr Jackson)*<br>
 
-*Director of Photography:* John F. Seitz
+Jean Heather *(Lola Dietrichson)*<br>
 
-*2nd Camera:* Otto Pierce, Harlow Stengel
+Tom Powers *(Mr Dietrichson)*<br>
 
-*Process Photography:* Farciot Edouart
+Byron Barr *(Nino Zachette)*<br>
 
-*Editorial Supervision:* Doane Harrison
+Richard Gaines *(Mr Norton)*<br>
 
-*Art Directors:* Hans Dreier, Hal Pereira
+Fortunio Bonanova *(Sam Gorlopis)*<br>
 
-*Set Decorator:* Bertram Granger
+John Philliber *(Joe Peters)*<br>
 
-*Costumes:* Edith Head
+*uncredited*<br>
 
-*Wardrobe:* Neva Bourne, Bill Rabb
+Bess Flowers *(secretary)*<br>
 
-*Make-up Artist:* Wally Westmore
+Kernan Cripps *(conductor)*<br>
 
-*Music Score:* Miklós Rózsa
-
-*Symphony in D Minor by:* César Franck
-
-*Sound Recording:* Stanley Cooley, Walter Oberst
-
-*uncredited*
-
-*Executive Producer:* B.G. De Sylva
-
-*Producer:* Joseph Sistrom
-
-*Production Manager:* Hugh Brown
-
-*Assistant Production Manager:* Al Trosin
-
-*Dialogue Director:* John Gage
-
-*Assistant Director:* C.C. Coleman
-
-*2nd Assistant Director:* Bill Sheehan
-
-*Screenplay Clerk:* Nancy Lee
-
-*Casting:* Harvey Clermont
-
-*Grip:* Walter McLeod
-
-*Microphone Grip:* Bill Pillar
-
-*Electrician:* Chet Stafford
-
-*Cableman:* Jack Duffy
-
-*Stills:* Ed Henderson
-
-*Assistant Cutter:* Lee Hall
-
-*Props:* Jack De Golconda, James Cottrell
-
-*Make-up:* Bob Ewing
-
-*Hair:* Hollis Barnes
-
-*Stand-in for Barbara Stanwyck:* Dorothy Staten
-
-*Publicity:* John Woolfenden
-
-*Cast:*
-
-Fred MacMurray *(Walter Neff)*
-
-Barbara Stanwyck *(Phyllis Dietrichson)*
-
-Edward G. Robinson *(Barton Keyes)*
-
-Porter Hall *(Mr Jackson)*
-
-Jean Heather *(Lola Dietrichson)*
-
-Tom Powers *(Mr Dietrichson)*
-
-Byron Barr *(Nino Zachette)*
-
-Richard Gaines *(Mr Norton)*
-
-Fortunio Bonanova *(Sam Gorlopis)*
-
-John Philliber *(Joe Peters)*
-
-*uncredited*
-
-Bess Flowers *(secretary)*
-
-Kernan Cripps *(conductor)*
-
-Harold Garrison *(red cap)*
+Harold Garrison *(red cap)*<br>
 
 Oscar Smith, Frank Billy Mitchell,  
 Floyd Shackleford, James Adamson  
-*(Pullman porters)*
+*(Pullman porters)*<br>
 
-Betty Farrington *(Mattie, maid)*
+Betty Farrington *(Mattie, maid)*<br>
 
-Dick Rush *(pullman conductor)*
+Dick Rush *(pullman conductor)*<br>
 
-Edmund Cobb *(train conductor)*
+Edmund Cobb *(train conductor)*<br>
 
-Sam McDaniel *(garage attendant)*
+Sam McDaniel *(garage attendant)*<br>
 
-Judith Gibson *(Pacific All-Risk telephone operator)*
+Judith Gibson *(Pacific All-Risk telephone operator)*<br>
 
-Miriam Franklin *(Keyes’ secretary)*
+Miriam Franklin *(Keyes’ secretary)*<br>
 
-USA 1944©
+USA 1944©<br>
 
 107 mins
 
@@ -155,5 +117,5 @@ University of London (Wed 29 Sep only)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDk4ODA5XX0=
+eyJoaXN0b3J5IjpbLTU1MTEzMzE1NV19
 -->
