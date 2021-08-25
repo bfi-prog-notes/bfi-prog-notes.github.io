@@ -49,107 +49,59 @@ Architecture, by contrast, always tends towards masking the past. It tries to co
 
 
 **BANKSY IN LONDON**<br>
-
-_Filmed and Directed by:_ Paul Kelly,  
-Kieran Evans<br>
-
+_Filmed and Directed by:_ Paul Kelly,  Kieran Evans<br>
 _Edited by:_ Paul Kelly<br>
-
 _Music:_ Saint Etienne<br>
-
 UK 2003<br>
-
 3 mins
 
-**TODAY’S SPECIAL: TEA ROOMS /  
-ELDON STREET / NEW PICCADILLY**<br>
-
+**TODAY’S SPECIAL<br>TEA ROOMS /  ELDON STREET / NEW PICCADILLY**<br>
 _Filmed and Directed by:_  Paul Kelly<br>
-
 _A_ CC-Lab _production_<br>
-
 _Produced by:_  Andrew Hinton<br>
-
 _Edited by:_  Mikey Tomkins<br>
-
 _Music by:_  Saint Etienne and Ian Catt<br>
-
 _Sound Mix by:_  Daniel Herbert<br>
-
 _Titles by:_  Rob Jones<br>
-
 UK 2004<br>
-
 9 mins
 
 **MONTY THE LAMB**<br>
-
 _Director:_ Paul Kelly<br>
-
 _Producer:_  Bob Stanley<br>
-
 _Photography:_  Paul Kelly<br>
-
 _Editor:_  Paul Kelly<br>
-
 _Music:_  Saint Etienne<br>
-
 _Narrator:_  Dave Garner<br>
-
 UK 2006<br>
-
 12 mins
 
 **THE OTHER SOUTH BANK**<br>
-
 _Filmed and Directed by:_  Paul Kelly<br>
-
 _A_ Pilgrim Films _production for_ Southbank Centre _and_ Northern Film and Media<br>
-
 _Produced_  _by_  Andrew Hinton<br>
-
 _Edited_  _by_  Paul Kelly<br>
-
 _Music by_  Saint Etienne<br>
-
-_Filmed with the assistance of:_Jan Williams, Chris Teasdale of  
-The Caravan Gallery<br>
-
+_Filmed with the assistance of:_Jan Williams, Chris Teasdale of  The Caravan Gallery<br>
 _Thanks_  _to:_  Linda Fleetham and all at Golden Boy Green Community Centre, Lucy MacNab and Shan MacLennan at Southbank Centre, Roxy Bramley at Nothern Film and Media, Louise King at Coin Street Community Builders, Terry and Jean Donaghue, Chris and Julie, Dick Fawcett, Cliff and the people of South Bank, Middlesbrough<br>
-
 UK 2008<br>
-
 9 mins
 
 **SEVEN SUMMERS**<br>
-
 _Filmed and Directed by:_  Paul Kelly<br>
-
 _A_  Heavenly Films _production_<br>
-
 _Commissioned_  _by:_  Create<br>
-
 _Sponsored by:_  Deutche Bank<br>
-
 _Supported_  _by:_  The Arts Council of England<br>
-
 _Produced_  _by:_  Andrew Hinton for CC-Lab<br>
-
 _Produced and Edited by:_  Paul Kelly<br>
-
 _Written_  _by:_  Bob Stanley<br>
-
 _Original 2005 Lea Valley Footage filmed by:_ Paul Kelly, David Raedeker<br>
-
-_Music_  _by:_  Saint Etienne, Ian Catt,  
-Pete Wiggs<br>
-
+_Music_  _by:_  Saint Etienne, Ian Catt,  Pete Wiggs<br>
 _Narrated_  _by:_  Sarah Cracknell<br>
-
 UK 2012<br>
-
 10 mins
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTQxNTY2N119
+eyJoaXN0b3J5IjpbLTE4OTIzMjI3NTNdfQ==
 -->
