@@ -15,12 +15,11 @@ We go from these scenes of the Festival – partly illustrated by excerpts from 
 
 This is, though, a portrait of, and eulogy to, a real People’s Palace – a building whose ostensible function as a concert hall sometimes seems to mean less than its status as a free space in the capital: the surviving (and thriving) fragment of the LCC’s soft-socialist South Bank powerhouse now ambiguously – if successfully – neighboured by the later, more theme park-like London Eye, Globe Theatre and Tate Modern. It’s also a very rare film about actual manual labour, interviewing the building workers who are tackling the complex work of restoring this Grade I listed building, and showing the intricate processes of, say, replacing the classic patterned carpet. It’s incredible, one of the building workers tells us, that they managed to achieve a building like this without the technologies we have today. Later parts of the film revel in the bared structure revealed by the works, the building seen truly in the raw.
 
-Interviewees Alain de Botton and Jeremy Deller both draw attention to the way that the Festival Hall sits outside of a more and more commercialised and sold-off city, a unique place that is as welcoming and accommodating for the skateboarders and taggers in the South Bank undercroft, old ladies with thermoses enjoying the view from the foyers and courting and flirting couples, as it is for the ticket-holders and drinks-buyers who have paid to be there. ‘It’s not privatised... you can feel free to go there and not buy expensive coffee’, as Deller puts it. Yet, at this exact point, high-end chain stores were moving into the ground floor, a fate soon to be extended to the QEH and the Hayward Gallery, at least in the current refurbishment proposals. By stressing the seriousness – and achievability – of the ideals of the London County Council and its architects, _This Is Tomorrow_ holds the Festival Hall to its original promises, reminding it of what it was built as, what it is still supposed to be – remembering it as something specific and concrete rather than a hazy, reified memory. We can only hope that it won’t inadvertently stand as an epitaph for it.
+Interviewees Alain de Botton and Jeremy Deller both draw attention to the way that the Festival Hall sits outside of a more and more commercialised and sold-off city, a unique place that is as welcoming and accommodating for the skateboarders and taggers in the South Bank undercroft, old ladies with thermoses enjoying the view from the foyers and courting and flirting couples, as it is for the ticket-holders and drinks-buyers who have paid to be there. ‘It’s not privatised... you can feel free to go there and not buy expensive coffee’, as Deller puts it. Yet, at this exact point, high-end chain stores were moving into the ground floor, a fate soon to be extended to the QEH and the Hayward Gallery, at least in the current refurbishment proposals. By stressing the seriousness – and achievability – of the ideals of the London County Council and its architects, _This Is Tomorrow_ holds the Festival Hall to its original promises, reminding it of what it was built as, what it is still supposed to be – remembering it as something specific and concrete rather than a hazy, reified memory. We can only hope that it won’t inadvertently stand as an epitaph for it.  
+**Owen Hatherley, ‘This Is Tomorrow’, from _A London Trilogy: The Films of Saint Etienne 2003-2007_ DVD booklet (BFI, 2013)**
+<br><br>
 
-Owen Hatherley, ‘This Is Tomorrow’, from _A London Trilogy: The Films of Saint Etienne 2003-2007_ DVD booklet (BFI, 2013)
-
-<![endif]-->
-<![endif]--> **THIS IS TOMORROW**
+**THIS IS TOMORROW**
 _Directed by_: Paul Kelly  
 ©_/Production Company_: Pilgrim  
 ©_/Presented by_: Southbank Centre  
@@ -35,54 +34,33 @@ _Editor_: Mikey Tomkins, Popular Society
 _On-line Editor_: Paul Jones, Exposure  
 _Titles_: Rob Jones, Imperial Leisure  
 _Music by_: Saint Etienne  
-_Saint Etienne are_:  
-Sarah Cracknell, Bob Stanley, Pete Wiggs  
+_Saint Etienne are_:  Sarah Cracknell, Bob Stanley, Pete Wiggs  
 _With_: Ian Catt  
-_Choir/Orchestra Arrangements_:  
-Gerard Johnson, Ian Catt  
+_Choir/Orchestra Arrangements_:  Gerard Johnson, Ian Catt  
 _Vocal Facilitator_: Suzi Zumpe  
 _Repetiteur_: Jonathan Williams  
-_Band Management_:  
-Martin Kelly, Heavenly Management  
+_Band Management_:  Martin Kelly, Heavenly Management  
 _Site Sound Recording_: Byron Blake  
 _Additional Sound_: Rob Mullender  
 _Sound Mix_: Daniel Herbert  
-_Contributors_: Jude Kelly, Trevor Dannatt,  
-Lou Shepherd, Jim Cadbury-Brown,  
-Leonard Manasseh, Mike McCart, Alain de Botton, Michael Lynch, Di Haigh, Larry Kirkegaard,  
-Clive Hollick, Jean Symons, Peter Lecount,  
-Oliver Chapple, Robin Day, Jeremy Deller  
-_Contributors (Festival of Britain Society)_:  
-Fred Peskett, George Simner  
-_Legal Representation_:  
-Ann Harrison, Harrisons Entertainment Law  
+_Contributors_: Jude Kelly, Trevor Dannatt,  Lou Shepherd, Jim Cadbury-Brown,  
+Leonard Manasseh, Mike McCart, Alain de Botton, Michael Lynch, Di Haigh, Larry Kirkegaard,  Clive Hollick, Jean Symons, Peter Lecount,  Oliver Chapple, Robin Day, Jeremy Deller  
+_Contributors (Festival of Britain Society)_:  Fred Peskett, George Simner  
+_Legal Representation_:  Ann Harrison, Harrisons Entertainment Law  
 _Website_: Yunus Akseki, Imperial Leisure  
-_Press_: Emma Pettit, MARGARET
-
-_Vocals:_ Sarah Cracknell
-
+_Press_: Emma Pettit, MARGARET  
+_Vocals:_ Sarah Cracknell  
 _Backing Vocals:_ Debsey Wykes  
-_Guitar:_ James Walbourne
-
-_Bass:_ Ian Catt
-
-_Drums:_ Rob Walbourne
-
-_Piano:_ Tom Cawley
-
-_Flute:_ Jo Fraser
-
+_Guitar:_ James Walbourne  
+_Bass:_ Ian Catt  
+_Drums:_ Rob Walbourne  
+_Piano:_ Tom Cawley  
+_Flute:_ Jo Fraser  
 _Keyboards:_ Bob Stanley, Pete Wiggs  
-_Choir:  
-_Lilian Bayliss Technology School – Year 9 Students, London Centre for Young Musicians
-
-_Orchestra:_ Students from Prendergast School, Students from Sydenham School,  
-Students from Sedgehill School,  
-Students of Trinity College of Music
-
-_Builder interviews:_ Johnny Burke, Lucy Macnab
-
-_Architect interviews:_ Elain Harwood
+_Choir:_ Lilian Bayliss Technology School – Year 9 Students, London Centre for Young Musicians  
+_Orchestra:_ Students from Prendergast School, Students from Sydenham School,  Students from Sedgehill School,  Students of Trinity College of Music  
+_Builder interviews:_ Johnny Burke, Lucy Macnab  
+_Architect interviews:_ Elain Harwood 
 
 _Featuring the voice of:_ David Wykes _(as ‘The Book’)_
 
@@ -94,5 +72,5 @@ _A London Trilogy: The Films of Saint Etienne
 2003-2007_ is available to buy in the BFI Shop:  
 **https://shop.bfi.org.uk/a-london-trilogy-the-films-of-saint-etienne.html**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTE4ODA5NDddfQ==
+eyJoaXN0b3J5IjpbNTgwMzA5MzY3XX0=
 -->
