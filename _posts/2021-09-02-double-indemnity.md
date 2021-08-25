@@ -25,15 +25,15 @@ Carefully constructed with, seemingly, a thorough knowledge of the insurance bac
 **DOUBLE INDEMNITY**<br>
 <![endif]-->
 
-Director: Billy Wilder
+*Director:* Billy Wilder
 
 ©_/Production Company:_ Paramount Pictures
 
-Screenplay: Billy Wilder, Raymond Chandler
+*Screenplay:* Billy Wilder, Raymond Chandler
 
-Based on the novel by: James M. Cain
+*Based on the novel by:* James M. Cain
 
-Director of Photography: John F. Seitz
+*Director of Photography:* John F. Seitz
 
 2nd Camera: Otto Pierce, Harlow Stengel
 
@@ -155,5 +155,5 @@ University of London (Wed 29 Sep only)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTI2NTA4Ml19
+eyJoaXN0b3J5IjpbLTQ3NTE2MzQ3NF19
 -->
