@@ -35,61 +35,61 @@ Carefully constructed with, seemingly, a thorough knowledge of the insurance bac
 
 *Director of Photography:* John F. Seitz
 
-2nd Camera: Otto Pierce, Harlow Stengel
+*2nd Camera:* Otto Pierce, Harlow Stengel
 
-Process Photography: Farciot Edouart
+*Process Photography:* Farciot Edouart
 
-Editorial Supervision: Doane Harrison
+*Editorial Supervision:* Doane Harrison
 
-Art Directors: Hans Dreier, Hal Pereira
+*Art Directors:* Hans Dreier, Hal Pereira
 
-Set Decorator: Bertram Granger
+*Set Decorator:* Bertram Granger
 
-Costumes: Edith Head
+*Costumes:* Edith Head
 
-Wardrobe: Neva Bourne, Bill Rabb
+*Wardrobe:* Neva Bourne, Bill Rabb
 
-Make-up Artist: Wally Westmore
+*Make-up Artist:* Wally Westmore
 
-Music Score: Miklós Rózsa
+*Music Score:* Miklós Rózsa
 
-Symphony in D Minor by: César Franck
+*Symphony in D Minor by:* César Franck
 
-Sound Recording: Stanley Cooley, Walter Oberst
+*Sound Recording:* Stanley Cooley, Walter Oberst
 
-uncredited
+*uncredited*
 
-Executive Producer: B.G. De Sylva
+*Executive Producer:* B.G. De Sylva
 
-Producer: Joseph Sistrom
+*Producer:* Joseph Sistrom
 
-Production Manager: Hugh Brown
+*Production Manager:* Hugh Brown
 
-Assistant Production Manager: Al Trosin
+*Assistant Production Manager:* Al Trosin
 
-Dialogue Director: John Gage
+*Dialogue Director:* John Gage
 
-Assistant Director: C.C. Coleman
+*Assistant Director:* C.C. Coleman
 
-2nd Assistant Director: Bill Sheehan
+*2nd Assistant Director:* Bill Sheehan
 
-Screenplay Clerk: Nancy Lee
+*Screenplay Clerk:* Nancy Lee
 
-Casting: Harvey Clermont
+*Casting:* Harvey Clermont
 
-Grip: Walter McLeod
+*Grip:* Walter McLeod
 
-Microphone Grip: Bill Pillar
+*Microphone Grip:* Bill Pillar
 
-Electrician: Chet Stafford
+*Electrician:* Chet Stafford
 
-Cableman: Jack Duffy
+*Cableman:* Jack Duffy
 
-Stills: Ed Henderson
+*Stills:* Ed Henderson
 
-Assistant Cutter: Lee Hall
+*Assistant Cutter:* Lee Hall
 
-Props: Jack De Golconda, James Cottrell
+*Props:* Jack De Golconda, James Cottrell
 
 Make-up: Bob Ewing
 
@@ -155,5 +155,5 @@ University of London (Wed 29 Sep only)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTE2MzQ3NF19
+eyJoaXN0b3J5IjpbMjA5MjI5NTkzNF19
 -->
