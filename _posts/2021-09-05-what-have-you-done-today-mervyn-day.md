@@ -1,12 +1,20 @@
-
+---
+layout: post
+title: What Have You Done Today Mervyn Day?
+published: true
+date: 2021-09-05
+readtime: true
+categories: ['THE FILMS OF SAINT ETIENNE']
+tags: [Drama, Documentary]
+metadata: 'UK 2005, 48 mins<br> Director: Paul Kelly'
+pdf: '2021-09-05-what-have-you-done-today-mervyn-day.pdf'
+---
 
 _+ Q&A with Pete Wiggs and Paul Kelly_
 
-Once upon a time, most towns and cities had spots like the Lower Lea Valley.  
-It was where the railway sidings were. Look in an old A to Z and the dense parallel stripes of Victorian terraces give way at the Lea to curled lines of terminating railways, to curious white spaces (what, nothing there?) and to blocks marked ‘Works’. For this was where work was carried out, old-style. Things had been manufactured here since medieval mills dipped their waterwheels into the Lea. Astonishing work, too – like the invention of plastic, the discovery of petrol. Humdrum work, mostly, though, such as car repair or serving up bubble and squeak, and dirty work, like the recycling of cooking oil, the transportation of sewage. The Lower Lea Valley was one of those spots in cities where the dirty business that supports civilisation elsewhere was carried out, out of sight.
+Once upon a time, most towns and cities had spots like the Lower Lea Valley.  It was where the railway sidings were. Look in an old A to Z and the dense parallel stripes of Victorian terraces give way at the Lea to curled lines of terminating railways, to curious white spaces (what, nothing there?) and to blocks marked ‘Works’. For this was where work was carried out, old-style. Things had been manufactured here since medieval mills dipped their waterwheels into the Lea. Astonishing work, too – like the invention of plastic, the discovery of petrol. Humdrum work, mostly, though, such as car repair or serving up bubble and squeak, and dirty work, like the recycling of cooking oil, the transportation of sewage. The Lower Lea Valley was one of those spots in cities where the dirty business that supports civilisation elsewhere was carried out, out of sight.
 
-It still was, when Saint Etienne and filmmaker (and one-time band member)  
-Paul Kelly turned up with their cameras in the summer of 2005, to film a place they hardly knew, but which had been dragged staggering, blinking into the limelight as the potential site for the 2012 Olympics; most thought it would stagger right back into obscurity. It’s hard to remember, this side of the Mobot, but on 6 July 2005 few even expected London to win the bid, let alone dreamed that the games might be successful. Just look again at the footage of the International Olympic Committee’s announcement that day in Singapore – the shocked eyes of the London team, the doleful faces of the Parisians. From the moment that envelope opened before the world’s media, the life of the Lower Lea Valley transformed more radically than it had since its birth in the last ice age. Saint Etienne’s film changed, too, into an elegy. As one of the locals interviewed puts it, ‘once they start building, you never get it back’.
+It still was, when Saint Etienne and filmmaker (and one-time band member)  Paul Kelly turned up with their cameras in the summer of 2005, to film a place they hardly knew, but which had been dragged staggering, blinking into the limelight as the potential site for the 2012 Olympics; most thought it would stagger right back into obscurity. It’s hard to remember, this side of the Mobot, but on 6 July 2005 few even expected London to win the bid, let alone dreamed that the games might be successful. Just look again at the footage of the International Olympic Committee’s announcement that day in Singapore – the shocked eyes of the London team, the doleful faces of the Parisians. From the moment that envelope opened before the world’s media, the life of the Lower Lea Valley transformed more radically than it had since its birth in the last ice age. Saint Etienne’s film changed, too, into an elegy. As one of the locals interviewed puts it, ‘once they start building, you never get it back’.
 
 The Lower Lea Valley depicted in the film is a world apart. Geography and town planning had isolated this patch from the body of London, fended off with tendrils of river water, the concrete trenches of the A102(M), and the brick barricades of countless railway viaducts. Even Eastenders didn’t know it well. Only those who worked there, who tended their cabbages at Marshgate Lane allotments, or those who lived in the Clays Lane and Carpenters estates... these people really knew this landlocked island. You can only truly understand a place by touching it, day in, day out. Outsiders were marked from the outset by their inability even to get the name right; this isn’t the Lower Lea Valley, says one inhabitant, ‘Round here we just call it the Wick’.
 
@@ -78,6 +86,41 @@ UK 2005
 
 _A London Trilogy: The Films of Saint Etienne  2003-2007_ is available to buy in the BFI Shop:  **https://shop.bfi.org.uk/a-london-trilogy-the-films-of-saint-etienne.html**
 <br><br>
+
+**THE FILMS OF SAINT ETIENNE**<br>
+**This Is Tomorrow + intro by Bob Stanley and Paul Kelly**<br>
+Fri 3 Sep 14:30<br>
+**Asunder + intro by Esther Johnson  and Bob Stanley**<br>
+Sat 4 Sep 12:00<br>
+**Finisterre + Q&A with Bob Stanley and  Pete Wiggs**<br>
+Sat 4 Sep 15:00<br>
+**How We Used to Live + Q&A with Pete Wiggs and Travis Elborough**<br>
+Sat 4 Sep 17:20<br>
+**Saint Etienne: Shorts Programme  + intro by Paul Kelly and Pete Wiggs**<br>
+Sun 5 Sep 13:00<br>
+**Lawrence of Belgravia + Q&A with Paul Kelly and Lawrence**<br>
+Sun 5 Sep 15:30<br>
+**What Have You Done Today Mervyn Day?  + Q&A with Pete Wiggs and Paul Kelly**<br>
+Sun 5 Sep 18:30<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjcwMTM0MDFdfQ==
 -->
