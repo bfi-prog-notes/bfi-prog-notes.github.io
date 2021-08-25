@@ -31,11 +31,9 @@ Malvin Wald
 **_Sight and Sound_, Summer 1968**
 <br><br>
 
-**The Undercover Man**
-
+**THE UNDERCOVER MAN**  
 _Director_: Joseph H. Lewis  
-_Production Company_:  
-Columbia Pictures Corporation  
+_Production Company_:  Columbia Pictures Corporation  
 _A Production by_: Robert Rossen  
 _Assistant Director_: Wilbur McGaugh  
 _Written for the screen by_: Sydney Boehm  
@@ -51,8 +49,7 @@ _Music_: George Duning
 _Music Director_: M.W. Stoloff  
 _Sound Engineer_: Jack Goodrich
 
-_Cast:_
-
+**Cast**  
 Glenn Ford _(Frank Warren)_  
 Nina Foch _(Judith Warren)_  
 James Whitmore _(George Pappas)_  
@@ -77,11 +74,11 @@ Marcella Cisney _(Alice Ferguson)_ *
 Sidney Dubby _(Harris)_ *  
 William Vedder _(druggist)_ *
 
-USA 1949
-
+USA 1949  
 84 mins
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTEzODE3OF19
+eyJoaXN0b3J5IjpbMTIzOTUxNTk3MF19
 -->
