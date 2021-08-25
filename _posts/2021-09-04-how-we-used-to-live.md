@@ -15,73 +15,52 @@ Other audio comes in the form of music, including new Saint Etienne compositions
 
 Though change is emphasised in parts of the voiceover – economic and political forces are ‘at work behind the landscape, shaping it, forever changing it’; London is ‘continually flickering and fluctuating’ – the film’s closing note emphasises continuity. ‘I came back the other day,’ says our narrator, lightly. ‘Nothing had changed.’ Don’t worry about whatever decay, corruption or silliness you seem to see around you, would seem to be the undercurrent – it will all wash by, like the grubbily lovable Thames, and one day we will look back on it all with loving smiles.  
 **Hannah McGill, _Sight & Sound_,  August 2014**
+<br><br>
 
-<![endif]-->
-
-_Directed by_: Paul Kelly
-
-_Production Company_: Heavenly Films
-
-_In association with_: Bedlam Productions,
-
-BFI National Archive
-
-_Made in association with_: BFI National Archive, Peter Werth London Limited
-
-_Presented by_: Heavenly Films, Bedlam Productions
-
-_In association with_: Peter Werth,  
-BFI National Archive
-
-_Executive Producer_: Simon Egan
-
-_Produced by_: Martin Kelly
-
-_Associate Producers_: Olwyn Silvester, Julie Samuel
-
-_Post Producer_: Ben McGuire
-
-_Archive Supervisor_: John Carino
-
-_Archive Research_: Paul Kelly, Bob Stanley,
-
-Travis Elborough
-
-_Written by_: Bob Stanley, Travis Elborough
-
-_Edited by_: Paul Kelly
-
-_Colourist_: Andy Lee
-
-_Original Soundtrack Written and Produced by_:
-
-Pete Wiggs
+**HOW WE USED TO LIVE**<br>
+_Directed by_: Paul Kelly<br>
+_Production Company_: Heavenly Films<br>
+_In association with_: Bedlam Productions, BFI National Archive<br>
+_Made in association with_: BFI National Archive, Peter Werth London Limited<br>
+_Presented by_: Heavenly Films, Bedlam Productions<br>
+_In association with_: Peter Werth,  BFI National Archive<br>
+_Executive Producer_: Simon Egan<br>
+_Produced by_: Martin Kelly<br>
+_Associate Producers_: Olwyn Silvester, Julie Samuel<br>
+_Post Producer_: Ben McGuire<br>
+_Archive Supervisor_: John Carino<br>
+_Archive Research_: Paul Kelly, Bob Stanley, Travis Elborough<br>
+_Written by_: Bob Stanley, Travis Elborough<br>
+_Edited by_: Paul Kelly<br>
+_Colourist_: Andy Lee<br>
+_Original Soundtrack Written and Produced by_:Pete Wiggs<br>
 
 _Vocals_: Sarah Cracknell, Debsey Wykes,  
-Sean Read
+Sean Read<br>
 
-_Vocals recorded by_: Sean Read
+_Vocals recorded by_: Sean Read<br>
 
-_Dubbing Mixer_: Andy Coles
+_Dubbing Mixer_: Andy Coles<br>
 
 _Narration recorded by_: Gergo Dorozsmai,
 
-Nick Moorbath
+Nick Moorbath<br>
 
-_Press and PR_: Emma Pettit, Sarah Bemand
+_Press and PR_: Emma Pettit, Sarah Bemand<br>
 
 _With special thanks to_: _At the BFI:_ Jane Giles,  
 Peter Fydler, Sam Dunn, Tony Dykes, Stuart Brown; _At Peter Werth:_ Peter Lynes, Phil Jones,  
-Andrew Ward
+Andrew Ward<br>
 
 _Special thanks to_: Michael Hayden,  
-Sukhdev Sandhu
+Sukhdev Sandhu<br>
 
-_Narrated by_: Ian McShane
+_Narrated by_: Ian McShane<br>
 
-UK 2013
+UK 2013<br>
 
 70 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDg4OTQ3XX0=
+eyJoaXN0b3J5IjpbMTQ3MjczMzAzMF19
 -->
