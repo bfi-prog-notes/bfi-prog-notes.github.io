@@ -13,20 +13,17 @@ Imagery is the movie’s other great strength – more immediately apparent to m
 
 Be that as it may, it must be said that the movie’s visual style analogises very well with its literary style. It is no more ‘realistic’ than its dialogue, but it is certainly not expressionistic, either. Perhaps the best way to put it is this: stylistically the film presses firmly against the imagistic conventions of American movies of its time without shattering them by a resort to inflated stylisation. Working this borderline it manages simultaneously to reinforce the most potent quality of Cain’s work – its air of doomy portent – while adding felt realistic substance to a story that was originally written in some haste for magazine serialisation by an author who lacked time, space and perhaps inclination for extended descriptive detail. Put simply, the movie has a very firm sense of place – no movie, documentary or fictional, offers a better sense of how the Los Angeles of its moment looked – but at the same time it energises that reality with a subtle air of menace. And few movies of any era have more deliciously proved the writerly adage that landscape is character. You could charge L.A. as a co-conspirator in the crimes this movie relates.
 
-Dialogue and imagery (and, yes, performance – the actors Allen mentions were never better than they are in this film) transform an essentially banal and in some respects unpersuasive narrative. They impart to Cain’s story something it also did not have in its rather tatty original form, namely weight and conviction. They, more than the tale they tell, are the source of _Double Indemnity_’s original impact, and they remain the basis of its continuing hold on us. To put the point simply, their singular qualities are the source of the film’s singular – no other word will do – authority.
+Dialogue and imagery (and, yes, performance – the actors Allen mentions were never better than they are in this film) transform an essentially banal and in some respects unpersuasive narrative. They impart to Cain’s story something it also did not have in its rather tatty original form, namely weight and conviction. They, more than the tale they tell, are the source of _Double Indemnity_’s original impact, and they remain the basis of its continuing hold on us. To put the point simply, their singular qualities are the source of the film’s singular – no other word will do – authority.  
+**Extracted from _Double Indemnity_ by Richard Schickel (BFI Film Classics, 1993).  Reproduced by kind permission of Bloomsbury Publishing. ©Richard Schickel**
 
-Extracted from _Double Indemnity_ by Richard Schickel (BFI Film Classics, 1993).  
-Reproduced by kind permission of Bloomsbury Publishing. ©Richard Schickel
+**A contemporary review**  
+Carefully constructed with, seemingly, a thorough knowledge of the insurance background, this plot sustains suspense and plausibility throughout. Its main brake is the obtrusive use of the flash-back technique. For the rest the narrative is clearly and smoothly set out, with some sensitive use of camera and lighting. MacMurray’s early characterisation of the insurance salesman is his most thorough work to date. Edward G. Robinson also contributes mightily by getting right inside the part of the insurance company’s claims investigator; and director Wilder has shown how much more effective a Robinson role can be if the long, overemphasised close-ups are eliminated. Barbara Stanwyck does her best with an unconvincing part.  
+**_Monthly Film Bulletin_, August 1944**
+<br><br>
 
-**A contemporary review**
 
-Carefully constructed with, seemingly, a thorough knowledge of the insurance background, this plot sustains suspense and plausibility throughout. Its main brake is the obtrusive use of the flash-back technique. For the rest the narrative is clearly and smoothly set out, with some sensitive use of camera and lighting. MacMurray’s early characterisation of the insurance salesman is his most thorough work to date. Edward G. Robinson also contributes mightily by getting right inside the part of the insurance company’s claims investigator; and director Wilder has shown how much more effective a Robinson role can be if the long, overemphasised close-ups are eliminated. Barbara Stanwyck does her best with an unconvincing part.
-
-_Monthly Film Bulletin_, August 1944
-
+**DOUBLE INDEMNITY**<br>
 <![endif]-->
-
-**DOUBLE INDEMNITY**
 
 Director: Billy Wilder
 
@@ -154,6 +151,7 @@ USA 1944©
 
 Introduction by Lucy Bolton, Queen Mary  
 University of London (Wed 29 Sep only)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3NDAyMDQ0XX0=
+eyJoaXN0b3J5IjpbLTQ4NTYyNDk5NF19
 -->
