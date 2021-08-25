@@ -33,34 +33,21 @@ UK 2021
 
 
 **THE FILMS OF SAINT ETIENNE**<br>
-
-**Asunder + intro by Esther Johnson  
-and Bob Stanley**<br>
-
+**Asunder + intro by Esther Johnson  and Bob Stanley**<br>
 Sat 4 Sep 12:00<br>
-
-**Finisterre + Q&A with Bob Stanley and  
-Pete Wiggs**<br>
-
+**Finisterre + Q&A with Bob Stanley and  Pete Wiggs**<br>
 Sat 4 Sep 15:00<br>
-
 **How We Used to Live + Q&A with Pete Wiggs and Travis Elborough**<br>
+Sat 4 Sep 17:20<br>
+**Saint Etienne: Shorts Programme  + intro by Paul Kelly and Pete Wiggs**<br>
+Sun 5 Sep 13:00<br>
+**Lawrence of Belgravia + Q&A with Paul Kelly and Lawrence**<br>
+Sun 5 Sep 15:30<br>
+**What Have You Done Today Mervyn Day?  + Q&A with Pete Wiggs and Paul Kelly**<br>
+Sun 5 Sep 18:30<br>
+<br>
 
-Sat 4 Sep 17:20
 
-**Saint Etienne: Shorts Programme  
-+ intro by Paul Kelly and Pete Wiggs**
-
-Sun 5 Sep 13:00
-
-**Lawrence of Belgravia + Q&A with Paul Kelly and Lawrence**
-
-Sun 5 Sep 15:30
-
-**What Have You Done Today Mervyn Day?  
-+ Q&A with Pete Wiggs and Paul Kelly**
-
-Sun 5 Sep 18:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxMDY5MTU4XX0=
+eyJoaXN0b3J5IjpbMTIyMDk5MjEwNF19
 -->
