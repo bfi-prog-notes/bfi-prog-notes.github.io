@@ -19,23 +19,16 @@ _In the Bedroom_ (2001). Dread, heralded in the film by the thuddingly obvious �
 **Kate Stables, _Sight & Sound_, November 2013**<br>
 
 
-**PRISONER**
-
+**PRISONERS**<br>
 _Directed by_: Denis Villeneuve  
 _©_: LLC Alcon Entertainment  
 _Production Companies_: 8:38 Productions, Madhouse Entertainment, Music & Digital Entertainment Office Georgia Film  
 _An_ Alcon Entertainment _presentation_
-
 _Executive Producers_: Edward L. McDonnell,
-
-John H. Starke, Robyn Meisinger,
-
-Mark Wahlberg, Stephen Levinson  
+John H. Starke, Robyn Meisinger, Mark Wahlberg, Stephen Levinson  
 _Produced by_: Broderick Johnson, Kira Davis, Andrew A. Kosove, Adam Kolbrenner  
 _Co-producer_: Steven P. Wegner  
-_Unit Production Managers_: Gregor Wilson,
-
-John H. Starke  
+_Unit Production Managers_: Gregor Wilson, John H. Starke  
 _Production Accountant_: Anne Wilson  
 _Location Manager_: Maida Morgan  
 _Post-production Supervisor_: Brad Arensman  
@@ -54,16 +47,12 @@ _Gaffer_: Chris Napolitano
 _Key Grip_: Mitch Lillian  
 _Still Photographer_: Wilson R. Webb  
 _Visual Effects Producer_: Tony Meagher  
-_Visual Effects by_: Pacific Title & Art Studio,
-
-Luma Pictures  
+_Visual Effects by_: Pacific Title & Art Studio, Luma Pictures  
 _Special Effects Co-ordinator_: David Fletcher  
 _Edited by_: Joel Cox, Gary D. Roach  
 _Production Designer_: Patrice Vermette  
 _Art Director_: Paul Kelly  
-_Set Designers_: Mayumi Konishi-Valentine,
-
-Aaron Linker  
+_Set Designers_: Mayumi Konishi-Valentine, Aaron Linker  
 _Set Decorator_: Frank Galline  
 _Property Master_: Shawn M. Gray  
 _Construction Co-ordinator_: Curtis Crowe  
@@ -78,9 +67,7 @@ _Main & End Titles by_: Pacific Title & Art Studio
 _Colour by_: DeLuxe  
 _Prints by_: DeLuxe  
 _Music by_: Jóhann Jóhannsson  
-_Electronics/Percussion/Pipe Organ/Guitar_:
-
-Jóhann Jóhannsson  
+_Electronics/Percussion/Pipe Organ/Guitar_: Jóhann Jóhannsson  
 _Score Conducted by_: Ben Foster  
 _Music Supervisor_: Deva Anderson  
 _Score Recorded at_: AIR Studios (London)  
@@ -94,14 +81,11 @@ _Stunt Co-ordinator_: Steven Ritzi
 _Detective/Police Consultant_: Jaime Fitzsimons  
 _Dialect Coach_: Jess Platt  
 _Armourer_: Derrick Vener  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
-
 _Animal Wrangler_: Greg Tresan  
 _Unit Publicist_: David Linck  
 _Digital Intermediate Provided by_: EFilm
 
-_Cast:_  
+**Cast**<br>
 Hugh Jackman _(Keller Dover)_  
 Jake Gyllenhaal _(Detective Loki)_  
 Viola Davis _(Nancy Birch)_  
@@ -123,42 +107,24 @@ Sandra Ellis Lafferty _(Mrs Milland)_
 Victoria Staley _(check out girl)_  
 Todd Truley _(Detective Chemelinski)_
 
-USA 2013
+USA 2013<br>
+153 mins<br>
 
-153 mins
-
-DENIS VILLENEUVE:
-
-THE PATH TO DUNE
-
+**DENIS VILLENEUVE: THE PATH TO DUNE**
 **Prisoners**
-
 Wed 1 Sep 20:00; Tue 14 Sep 14:15; Sat 25 Sep 17:00
-
 **August 32nd on Earth (Un 32 août sur terre)**
-
 Thu 2 Sep 20:50; Thu 16 Sep 18:20
-
 **Blade Runner 2049**
-
 Sat 4 Sep 20:00; Sat 18 Sep 17:15; Fri 24 Sep 14:15; Sun 3 Oct 17:30
-
 **Maelström**
-
 Mon 6 Sep 18:15; Fri 17 Sep 20:55
-
 **Polytechnique**
-
 Fri 10 Sep 21:20; Sun 19 Sep 12:15; Thu 30 Sep 20:50
-
 **Incendies**
-
 Sat 11 Sep 20:30; Fri 17 Sep 17:50; Sun 19 Sep 14:45
-
 **Sicario**
-
 Sun 12 Sep 18:10; Wed 22 Sep 20:40; Sat 25 Sep 20:40
-
 **Enemy**
 
 Sun 12 Sep 12:20; Tue 21 Sep 20:55
@@ -167,5 +133,5 @@ Sun 12 Sep 12:20; Tue 21 Sep 20:55
 
 Thu 16 Sep 20:45; Tue 28 Sep 14:15; Sat 2 Oct 17:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzE0NTU2NF19
+eyJoaXN0b3J5IjpbLTEyNzQ2NzM5ODldfQ==
 -->
