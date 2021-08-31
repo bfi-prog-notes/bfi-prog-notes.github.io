@@ -1,10 +1,20 @@
-<![endif]-->
+---
+layout: post
+title: Prisoners
+published: true
+date: 2021-09-01
+readtime: true
+categories: ['DENIS VILLENEUVE<br> THE PATH TO DUNE']
+tags: [Drama, Crime, Thriller]
+metadata: 'USA 2013, 153 mins<br> Director: Denis Villeneuve'
+pdf: '2021-09-01-prisoners.pdf'
+---
+
 
 A critical and commercial success, _Prisoners_ saw Denis Villeneuve bring his taut, powerful storytelling style to Hollywood. Detective Loki (Gyllenhaal), who prides himself on never leaving a case unsolved, strives to find two young girls who’ve been abducted, while the father of one of the girls (Jackman) takes the law into his own hands.
 
-Complex, brooding and compelling, this psychological thriller boasts stand-out performances from an all-star cast, and Oscar®-nominated cinematography from Roger Deakins.
-
-bfi.org.uk
+Complex, brooding and compelling, this psychological thriller boasts stand-out performances from an all-star cast, and Oscar®-nominated cinematography from Roger Deakins.<br>
+**bfi.org.uk**<br>
 
 ‘Be ready. All that stands between you and being dead is you.’ This is the grim father-son warning that opens Canadian director Denis Villeneuve’s first English-language movie, a powerful and deftly twisted child-abduction thriller. Fascinated by the growing tension between American individualism and institutions such as the police, it’s a movie that puts its own dark spin on the stock cinema figures of obsessed cop and desperate vigilante parent. Where the _Taken_ series or TV’s _24_ milked the predicament of the law-enforcement figure torn between parental and professional duty, here carpenter Keller Dover (Hugh Jackman) is a principled everyman. His belief in self-reliance combines with primal fear for his abducted daughter and drives him to kidnap and torture, while the film slowly but brazenly turns the screws on his desperation. ‘She’s wondering why I haven’t found her every day. Not you. Me,’ he spits at Detective Loki, his equally intransigent institutional shadow.
 
@@ -110,7 +120,7 @@ Todd Truley _(Detective Chemelinski)_
 USA 2013<br>
 153 mins<br>
 
-**DENIS VILLENEUVE: THE PATH TO DUNE**
+**DENIS VILLENEUVE: THE PATH TO DUNE**<br>
 **Prisoners**<br>
 Wed 1 Sep 20:00; Tue 14 Sep 14:15; Sat 25 Sep 17:00<br>
 **August 32nd on Earth (Un 32 août sur terre)**<br>
@@ -129,6 +139,21 @@ Sun 12 Sep 18:10; Wed 22 Sep 20:40; Sat 25 Sep 20:40<br>
 Sun 12 Sep 12:20; Tue 21 Sep 20:55<br>
 **Arrival**<br>
 Thu 16 Sep 20:45; Tue 28 Sep 14:15; Sat 2 Oct 17:30<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDQ2MzIwOV19
--->
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
