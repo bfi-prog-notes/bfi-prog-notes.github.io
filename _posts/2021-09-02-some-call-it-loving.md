@@ -100,9 +100,9 @@ Wed 22 Sep 20:45; Sat 2 Oct 18:00<br>
 **Brewster’s Millions**<br>
 Thu 23 Sep 20:45; Sun 3 Oct 15:15<br>
 
-A Pryor Engagement was originally programmed by Nellie Killian for BAMcinématek in 2013
+A Pryor Engagement was originally programmed by Nellie Killian for BAMcinématek in 2013<br>
 
-This season is presented in partnership with We Are Parable
+This season is presented in partnership with We Are Parable<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1MzI1ODY2XX0=
+eyJoaXN0b3J5IjpbLTE1NTYxODgzMTBdfQ==
 -->
