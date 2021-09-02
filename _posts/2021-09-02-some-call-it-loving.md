@@ -22,7 +22,43 @@ The film’s final pay-off is interesting but in the end it’s odd details that
 Spectators who like to keep their fairy tales innocent, their pornography sordid, their allegories obvious and their dreams intact are bound to be disconcerted by James B. Harris’ haunting _Some Call It Loving_, which pursues the improbabilities of dream logic to clarify rather than mystify, and toughmindedly concerns itself with the processes and consequences of dreaming as well as its objects. Unique and alone, it remains obstinately and superbly unclassifiable. Its only plausible precedents are the quite dissimilar short story by John Collier, ‘Sleeping Beauty’, which served as its starting point, and the film of _Lolita_, which Harris produced and helped to script.
 
 It was significantly during the production of _Lolita_ that Harris reportedly first located the kernel of his theme, some twelve years before he realised it; and _Some Call It Loving_ bears all the earmarks of an intuitive conception that has been developed, sifted and refined over a long period of time, reduced to a hard algebra of essentials which carries total conviction within its own rather singular terms. Conventionally filmed, acted as though under a glass bell ­–discounting only Pryor’s remarkable disassembled performance ­– and accompanied by a score (by Richard Hazard and Bob Harris) so sensually right that it reverses the usual pattern and seems accompanied by the images, it has a style that can be comfortably described only through musical analogies: one of disenchanted lyricism, or of circular lament. And viewers unable to catch this melody remain stranded on the elements of artifice which compose it, looking for naturalism in a film whose verisimilitude is wholly internal and whose narrative ­– once the threads are properly identified ­– is completely functional.<br>
-**Jonathan Rosenbaum, _Sight and Sound_, Autumn 1975**
+**Jonathan Rosenbaum, _Sight and Sound_, Autumn 1975**<br>
+
+
+**SOME CALL IT LOVING**<br>
+_Director_: James B. Harris  
+_Production Companies_: James B. Harris Productions  
+_Producer_: James B. Harris  
+_Assistant Producer_: Charles Roven  
+_Associate Producer_: Ramzi Thomas  
+_Assistant Directors_: Jerome M. Siegel, Terry Carr  
+_Screenplay_: James B. Harris  
+_Original Story_: John Collier  
+_Director of Photography_: Mario Tosi  
+_Editor_: Paul Jasiukonis  
+_Art Directors_: Rodger Maus, Ray Storey  
+_Sculptures_: Patricia Knop  
+_Costumes_: Jax  
+_Music Composed and Conducted by_: Richard Hazard  
+_Choreography_: Alex Romero, Alex Ruiz  
+_Sound Re-recording_: Lee Alexander
+
+**Cast**<BR> 
+Zalman King _(Robert Troy)_  
+Carol White _(Scarlett)_  
+Tisa Farrow _(Jennifer)_  
+Richard Pryor _(Jeff)_  
+Veronica Anderson _(Angelica)_  
+Logan Ramsey _(Dr. Samuel Clements)_  
+Brandy Herred _(Cheerleader)_  
+Ed Rue _(Mortician)_  
+Pat Priest _(Nurse)_  
+Joseph De Meo _(Bartender)_  
+Leroy Vinnegar _(Band member)_
+
+USA 1973
+
+103 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzkyNjI2MF19
+eyJoaXN0b3J5IjpbNDQ0OTMxNDAxXX0=
 -->
