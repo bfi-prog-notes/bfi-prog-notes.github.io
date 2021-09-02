@@ -8,7 +8,7 @@ categories: ['NFTS AT 50']
 tags: [Horror, Drama]
 metadata: 'UK 2019, 84 mins<br> Director: Rose Glass'
 pdf: '2021-09-02-saint-maud.pdf'
----
+-->
 
 _+ Q&A with director Rose Glass_
 
@@ -159,22 +159,7 @@ Sun 12 Sep 17:00<br>
 Sun 12 Sep 20:30<br>
 **Absolute Beginners + Q&A with director Julian Temple and cinematographer Oliver Stapleton BSC**<br>
 Wed 15 Sep 20:25<br>
-**The Souvenir + Q&A with director Joanna Hogg**<br>
-Fri 17 Sep 17:45<br>
-**The Selfish Giant + Q&A with director Clio Barnard**<br>
-Mon 20 Sep 20:50<br>
-**Oranges Are Not the Only Fruit + Q&A with director Beeban Kidron**<br>
-Thu 23 Sep 18:00<br>
-**Kurt & Courtney + Q&A with director Nick Broomfield**<br>
-Sat 25 Sep 14:30<br>
-**Theatre Girls + Q&A with director Kim Longinotto**<br>
-Sun 26 Sep 15:40<br>
-**Surge + Q&A with director Aneil Karia**<br>
-Tue 28 Sep 17:40<br>
-**Of Time and the City + Q&A with director Terence Davies**<br>
-Sat 2 Oct 14:15<br>
-**Rocks + Q&A with director Sarah Gavron**<br>
-Sat 2 Oct 17:30<br>
+**The Souvenir + Q&A with director Joanna Hogg**<br>Fri 17 Sep 17:45<br>**The Selfish Giant + Q&A with director Clio Barnard**<br>Mon 20 Sep 20:50<br>**Oranges Are Not the Only Fruit + Q&A with director Beeban Kidron**<br>Thu 23 Sep 18:00<br>**Kurt & Courtney + Q&A with director Nick Broomfield**<br>Sat 25 Sep 14:30<br>**Theatre Girls + Q&A with director Kim Longinotto**<br>Sun 26 Sep 15:40<br>**Surge + Q&A with director Aneil Karia**<br>Tue 28 Sep 17:40<br>**Of Time and the City + Q&A with director Terence Davies**<br>Sat 2 Oct 14:15<br>**Rocks + Q&A with director Sarah Gavron**<br>Sat 2 Oct 17:30<br>
 
 <img style="float: left;" src="/img/NFTS.png"><br><br><br><br><br><br><br><br><br><br><br><br>
 <br>
@@ -202,3 +187,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjIwNzI5MDg3XX0=
+-->
