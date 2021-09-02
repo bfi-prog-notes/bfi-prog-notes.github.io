@@ -41,9 +41,9 @@ _Sculptures_: Patricia Knop
 _Costumes_: Jax  
 _Music Composed and Conducted by_: Richard Hazard  
 _Choreography_: Alex Romero, Alex Ruiz  
-_Sound Re-recording_: Lee Alexander
+_Sound Re-recording_: Lee Alexander<br>
 
-**Cast**<BR> 
+**Cast**<br>> 
 Zalman King _(Robert Troy)_  
 Carol White _(Scarlett)_  
 Tisa Farrow _(Jennifer)_  
@@ -54,11 +54,73 @@ Brandy Herred _(Cheerleader)_
 Ed Rue _(Mortician)_  
 Pat Priest _(Nurse)_  
 Joseph De Meo _(Bartender)_  
-Leroy Vinnegar _(Band member)_
+Leroy Vinnegar _(Band member)_<br>
 
-USA 1973
+USA 1973<br>
+103 mins<br>
+<br>
 
-103 mins
+**A PRYOR ENGAGEMENT**
+**Richard Pryor: Live in Concert**
+Wed 1 Sep 20:50; Fri 1 Oct 18:00
+**Some Call It Loving**
+Thu 2 Sep 20:40; Mon 20 Sep 18:00 (+ pre-recorded intro)
+**Lady Sings the Blues**
+Sat 4 Sep 11:30; Wed 15 Sep 13:50; Mon 27 Sep 20:20
+**The Bingo Long Traveling All-Stars & Motor Kings**
+Sat 4 Sep 20:30; Sat 25 Sep 14:45
+**Blue Collar**
+Mon 6 Sep 14:30; Fri 17 Sep 20:40 (+ pre-recorded intro); Tue 5 Oct 17:35
+**Jo Jo Dancer, Your Life Is Calling**
+Tue 7 Sep 18:10 (+ pre-recorded intro); Mon 4 Oct 20:45
+**African Odysseys Presents: The Black History of Comedy**
+Fri 10 Sep 18:15
+**Wattstax**
+Fri 10 Sep 21:00; Tue 14 Sep 18:00; Sat 18 Sep 20:10
+**Car Wash**
+Sat 11 Sep 17:50; Tue 28 Sep 20:50
+**Blazing Saddles**
+Sat 11 Sep 20:45; Wed 22 Sep 18:15
+
+**Silver Streak**
+
+Sun 12 Sep 15:15; Wed 29 Sep 20:45
+
+**Which Way Is Up?**
+
+Wed 15 Sep 21:00; Sun 26 Sep 18:10
+
+**Lost Highway (unconfirmed)**
+
+Thu 16 Sep 17:30; Tue 5 Oct 20:30
+
+**Richard Pryor: A Comedy Genius**
+
+Thu 16 Sep 18:15
+
+**Stir Crazy**
+
+Sun 19 Sep 18:10; Fri 1 Oct 20:30
+
+**Bustin’ Loose**
+
+Mon 20 Sep 21:00; Sun 3 Oct 18:10
+
+**Richard Pryor: Live on the Sunset Strip**
+
+Tue 21 Sep 18:00 (+ discussion); Mon 4 Oct 18:20
+
+**Richard Pryor... Here and Now**
+
+Wed 22 Sep 20:45; Sat 2 Oct 18:00
+
+**Brewster’s Millions**
+
+Thu 23 Sep 20:45; Sun 3 Oct 15:15
+
+A Pryor Engagement was originally programmed by Nellie Killian for BAMcinématek in 2013
+
+This season is presented in partnership with We Are Parable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0OTMxNDAxXX0=
+eyJoaXN0b3J5IjpbMjIxMzQ2MzUyXX0=
 -->
