@@ -41,27 +41,27 @@ _Saint Maud_ is a compelling and impactful film, a remarkable debut, and one of 
 An inhibited television host takes a night off from her structured life in a hotel where all is not what it seems.<br>
 
 
-**ROOM 55**
-_Writer & Director:_ Rose Glass
-_Producer:_ Charlotte Campbell
-_Production Manager:_ Keith Abela
-_Story by:_ Rose Glass, Sarah Gordon
-_Cinematographer:_ James Blann
-_Editor:_ Manuela Lupini
-_Online Editor, Colourist, VFX Supervisor:_ Boyko Stankov
-_SFX and VFX Supervisor:_ Janus Tomczyk
-_Production Designer:_ Agis Pyrlis
-_Composer:_ Arran Price
-_Sound Editor, Dubbing Mixer:_ Rob Hardcastle
-_Sound Recordist:_ James Spurrier
+**ROOM 55**<br>
+_Writer & Director:_ Rose Glass<br>
+_Producer:_ Charlotte Campbell<br>
+_Production Manager:_ Keith Abela<br>
+_Story by:_ Rose Glass, Sarah Gordon<br>
+_Cinematographer:_ James Blann<br>
+_Editor:_ Manuela Lupini<br>
+_Online Editor, Colourist, VFX Supervisor:_ Boyko Stankov<br>
+_SFX and VFX Supervisor:_ Janus Tomczyk<br>
+_Production Designer:_ Agis Pyrlis<br>
+_Composer:_ Arran Price<br>
+_Sound Editor, Dubbing Mixer:_ Rob Hardcastle<br>
+_Sound Recordist:_ James Spurrier<br>
 
 **Cast**<br>
-Charlotte Weston _(Alice Lawson)_
-Alexa Brown _(Marylin)_
+Charlotte Weston _(Alice Lawson)_<br>
+Alexa Brown _(Marylin)_<br>
 Collette Cooper, Tony Ashcroft, Ruby Thompson
-_(room 49)_
-Marie Everett, Takatsuna Mukai _(hotel porters)_
-James McClelland _(stage hand)_
+_(room 49)_<br>
+Marie Everett, Takatsuna Mukai _(hotel porters)_<br>
+James McClelland _(stage hand)_<br>
 Richard Ward _(voice of husband)_<br>
 
 UK 2014<br>
@@ -136,48 +136,33 @@ Nancy _(cockroach)_<br>
 UK 2019<br>
 84 mins<br>
 
-**NFTS AT 50**
-**Saint Maud + Q&A with director Rose Glass**
-Thu 2 Sep 17:45
-**The Last Tree + Q&A with director Shola Amoo**
-Sat 11 Sep 17:00
-**Il Postino (The Postman)+ Q&A with director Michael Radford**
-Sun 12 Sep 17:00
-**An Evening with Roger and James Deakins**
-Sun 12 Sep 20:30
-**Absolute Beginners + Q&A with director Julian Temple and cinematographer Oliver Stapleton BSC**
-Wed 15 Sep 20:25
-**The Souvenir + Q&A with director Joanna Hogg**
-
-Fri 17 Sep 17:45
-
-**The Selfish Giant + Q&A with director Clio Barnard**
-
-Mon 20 Sep 20:50
-
-**Oranges Are Not the Only Fruit + Q&A with director Beeban Kidron**
-
-Thu 23 Sep 18:00
-
-**Kurt & Courtney + Q&A with director Nick Broomfield**
-
-Sat 25 Sep 14:30
-
-**Theatre Girls + Q&A with director Kim Longinotto**
-
-Sun 26 Sep 15:40
-
-**Surge + Q&A with director Aneil Karia**
-
-Tue 28 Sep 17:40
-
-**Of Time and the City + Q&A with director Terence Davies**
-
-Sat 2 Oct 14:15
-
-**Rocks + Q&A with director Sarah Gavron**
-
-Sat 2 Oct 17:30
+**NFTS AT 50**<br>
+**Saint Maud + Q&A with director Rose Glass**<br>
+Thu 2 Sep 17:45<br>
+**The Last Tree + Q&A with director Shola Amoo**<br>
+Sat 11 Sep 17:00<br>
+**Il Postino (The Postman)+ Q&A with director Michael Radford**<br>
+Sun 12 Sep 17:00<br>
+**An Evening with Roger and James Deakins**<br>
+Sun 12 Sep 20:30<br>
+**Absolute Beginners + Q&A with director Julian Temple and cinematographer Oliver Stapleton BSC**<br>
+Wed 15 Sep 20:25<br>
+**The Souvenir + Q&A with director Joanna Hogg**<br>
+Fri 17 Sep 17:45<br>
+**The Selfish Giant + Q&A with director Clio Barnard**<br>
+Mon 20 Sep 20:50<br>
+**Oranges Are Not the Only Fruit + Q&A with director Beeban Kidron**<br>
+Thu 23 Sep 18:00<br>
+**Kurt & Courtney + Q&A with director Nick Broomfield**<br>
+Sat 25 Sep 14:30<br>
+**Theatre Girls + Q&A with director Kim Longinotto**<br>
+Sun 26 Sep 15:40<br>
+**Surge + Q&A with director Aneil Karia**<br>
+Tue 28 Sep 17:40<br>
+**Of Time and the City + Q&A with director Terence Davies**<br>
+Sat 2 Oct 14:15<br>
+**Rocks + Q&A with director Sarah Gavron**<br>
+Sat 2 Oct 17:30<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDgxMDI2M119
+eyJoaXN0b3J5IjpbODc4MjMzMDg5XX0=
 -->
