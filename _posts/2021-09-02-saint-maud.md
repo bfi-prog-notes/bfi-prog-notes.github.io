@@ -55,32 +55,21 @@ _Composer:_ Arran Price
 _Sound Editor, Dubbing Mixer:_ Rob Hardcastle
 _Sound Recordist:_ James Spurrier
 
-**Cast**
-
+**Cast**<br>
 Charlotte Weston _(Alice Lawson)_
-
 Alexa Brown _(Marylin)_
-
 Collette Cooper, Tony Ashcroft, Ruby Thompson
-
 _(room 49)_
-
 Marie Everett, Takatsuna Mukai _(hotel porters)_
-
 James McClelland _(stage hand)_
+Richard Ward _(voice of husband)_<br>
 
-Richard Ward _(voice of husband)_
+UK 2014<br>
+22 mins<br>
 
-UK 2014
-
-22 mins
-
-**Saint Maud**
-
+**SAINT MAUD**<br>
 _Directed by_: Rose Glass  
-_Executive Producers_: Daniel Battsek,
-
-Sam Lavender, Mary Burke  
+_Executive Producers_: Daniel Battsek, Sam Lavender, Mary Burke  
 _Produced by_: Oliver Kassman, Andrea Cornwell  
 _Production Manager_: Anna Jancsó  
 _Production Co-ordinator_: Jessica Moran  
@@ -123,9 +112,9 @@ _Supervising Dialogue Editor_: Andrew Stirk
 _Foley Artist_: Ian Waggott  
 _Foley Mixer_: Ben Cross  
 _Stunt Co-ordinator_: Andy Bennett  
-_Digital Intermediate_: Goldcrest Post Production
+_Digital Intermediate_: Goldcrest Post Production<br>
 
-_Cast:_  
+**Cast** 
 Morfydd Clark _(Maud)_  
 Jennifer Ehle _(Amanda)_  
 Lily Frazer _(Carol)_  
@@ -142,34 +131,22 @@ Faith Edwards _(agency worker)_
 Brian Jackson _(drummer)_  
 Jonathan Milshaw _(handsome man)_  
 Rose Knox-Peebles _(dead patient)_  
-Nancy _(cockroach)_
+Nancy _(cockroach)_<br>
 
-UK 2019
+UK 2019<br>
+84 mins<br>
 
-84 mins
-
-NFTS AT 50
-
+**NFTS AT 50**
 **Saint Maud + Q&A with director Rose Glass**
-
 Thu 2 Sep 17:45
-
 **The Last Tree + Q&A with director Shola Amoo**
-
 Sat 11 Sep 17:00
-
-**Il Postino (The Postman)** **+ Q&A with director** **Michael Radford**
-
+**Il Postino (The Postman)+ Q&A with director Michael Radford**
 Sun 12 Sep 17:00
-
 **An Evening with Roger and James Deakins**
-
 Sun 12 Sep 20:30
-
 **Absolute Beginners + Q&A with director Julian Temple and cinematographer Oliver Stapleton BSC**
-
 Wed 15 Sep 20:25
-
 **The Souvenir + Q&A with director Joanna Hogg**
 
 Fri 17 Sep 17:45
@@ -202,5 +179,5 @@ Sat 2 Oct 14:15
 
 Sat 2 Oct 17:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjE1OTkzN119
+eyJoaXN0b3J5IjpbLTYyNDgxMDI2M119
 -->
