@@ -135,10 +135,7 @@ Fri 10 Sep 21:20; Sun 19 Sep 12:15; Thu 30 Sep 20:50<br>
 Sat 11 Sep 20:30; Fri 17 Sep 17:50; Sun 19 Sep 14:45<br>
 **Sicario**<br>
 Sun 12 Sep 18:10; Wed 22 Sep 20:40; Sat 25 Sep 20:40<br>
-**Enemy**<br>
-Sun 12 Sep 12:20; Tue 21 Sep 20:55<br>
-**Arrival**<br>
-Thu 16 Sep 20:45; Tue 28 Sep 14:15; Sat 2 Oct 17:30<br>
+**Enemy**<br>Sun 12 Sep 12:20; Tue 21 Sep 20:55<br>**Arrival**<br>Thu 16 Sep 20:45; Tue 28 Sep 14:15; Sat 2 Oct 17:30<br>
 
 
 **BFI SOUTHBANK**  
@@ -157,3 +154,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTYyMDY2Mjk5XX0=
+-->
