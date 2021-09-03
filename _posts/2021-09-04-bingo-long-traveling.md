@@ -1,0 +1,167 @@
+<![endif]-->
+
+Richard Pryor joins an all-star cast in this Motown Productions’ charmer set in the waning days of baseball’s segregated Negro League. Billy Dee Williams stars as Bingo Long, a born showman, loosely based on Satchel Paige. Pryor plays Carlos Nevada, a player working on his Spanish in the hopes of passing as Latino for a place in the all-white Major League.<br>
+**bfi.org.uk**<br>
+
+**A Contemporary Review**
+
+In his frenzied assault on the cinema, Motown’s Berry Gordy has hitherto (_Lady Sings the Blues, Mahogany_) been dogged by disastrous scripts, bad direction and a schizophrenic attempt to sell the new black consciousness in time-honoured dream factory wrappings.
+
+With a sharpish and skeptically witty script by Barwood and Robbins (who wrote _The Sugarland Express_) from a factually-based novel, apparently sidestepping racial issues but in fact quietly probing away at old sores in the unforced irony with which it observes how easily the Negro could be conned into making his way in a white world simply by shedding his dignity and becoming a clown, _Bingo Long_ goes some way toward resolving two of these difficulties.
+
+It also boasts some marvellous locations in the back-woods of Georgia, a whole flurry of fine performances (notably from Richard Pryor as an All-Star obsessed by the possibility of infiltrating the white teams as a Red Indian or a Cuban), and several very funny scenes (the best probably being one in which Billy Dee Williams, intent on stealing a car from under the sheriff’s nose and airily using the silver paper from a stick of chewing-gum to turn on the ignition, somehow gets his connections mixed and is rewarded by Shirley Temple and ‘The Good Ship Lollipop’ blaring from the radio).<br>
+**Tom Milne, _Monthly Film Bulletin_, November 1976**<br>
+
+<![endif]-->
+
+**The Bingo Long Traveling All-Stars**
+
+**& Motor Kings**
+
+_Director_: John Badham  
+_Production Companies_: Motown Productions,
+
+Pan Arts Enterprises  
+_Executive Producer_: Berry Gordy  
+_Producer_: Rob Cohen  
+_Associate Producers_: Michael Chinich,
+
+Janet Hubbard, Bennett Tramer  
+_Production Manager_: Wallace Worsley  
+_Assistant Directors_: Tom Joyner, L. Andrew Stone, Richard A. Wells  
+_Screenplay_: Hal Barwood, Matthew Robbins  
+_Original Novel by_: William Brashler  
+_Director of Photography_: Bill Butler  
+_Editor_: David Rawlins  
+_Production Designer_: Lawrence G. Paull  
+_Set Decorator_: Leonard A. Mazzola  
+_Costumes_: Bernard Johnson  
+_Title Design_: Michael Hamilton, N. Lee Lacy  
+_Music_: William Goldstein  
+_Sound_: Willie Burton, Robert L. Hoyt  
+_Sound Editor_: Jim Troutman  
+_Stunt Co-ordinator_: Jophery Brown
+
+_Cast:_  
+Billy Dee Williams _(Bingo Long)_  
+James Earl Jones _(Leon Carter)_  
+Richard Pryor _(Charlie Snow)_  
+Rico Dawson _(Willie Lee)_  
+Sam ‘Birmingham’ Brison _(Louis)_  
+Jophery Brown _(Champ Chambers)_  
+Leon Wagner _(Fat Sam)_  
+Tony Burton _(Isaac)_  
+John McCurry _(Walter Murchman)_  
+Stan Shaw _(Esquire Joe Calloway)_  
+DeWayne Jessie _(Rainbow)_  
+Ted Ross _(Sallie Potter)_  
+Mabel King _(Bertha)_  
+Sam Laws _(Henry)_  
+Alvin Childress _(Horace)_  
+Ken Foree _(Honey)_  
+Carl Gordon _(Mack)_  
+Ahna Capri _(prostitute)_  
+Joel Fluellen _(Mr Holland)_  
+Sarina C. Grant _(Pearline)_  
+Jester Hairston _(Furry Taylor)_  
+Emmett Ashford _(umpire)_  
+Ted Lehmann _(Lars Bostrum)_  
+Fred Covington _(auctioneer)_  
+Greg Oliver _(sheriff)_  
+John R. Mckee _(white stranger)_  
+Brooks Clift _(older gentleman)_  
+Morgan Roberts _(kiosk man)_  
+Marcia McBroom _(Violet)_  
+Lidia Kristen _(nurse)_  
+Steve Anderson _(one-arm ballplayer)_  
+Dero Austin _(midget catcher)_<br>
+
+USA 1976<br>
+110 mins<br>
+
+
+
+A PRYOR ENGAGEMENT
+
+**Richard Pryor: Live in Concert**
+
+Wed 1 Sep 20:50; Fri 1 Oct 18:00
+
+**Some Call It Loving**
+
+Thu 2 Sep 20:40; Mon 20 Sep 18:00 (+ pre-recorded intro)
+
+**Lady Sings the Blues**
+
+Sat 4 Sep 11:30; Wed 15 Sep 13:50; Mon 27 Sep 20:20
+
+**The Bingo Long Traveling All-Stars & Motor Kings**
+
+Sat 4 Sep 20:30; Sat 25 Sep 14:45
+
+**Blue Collar**
+
+Mon 6 Sep 14:30; Fri 17 Sep 20:40 (+ pre-recorded intro); Tue 5 Oct 17:35
+
+**Jo Jo Dancer, Your Life Is Calling**
+
+Tue 7 Sep 18:10 (+ pre-recorded intro); Mon 4 Oct 20:45
+
+**African Odysseys Presents: The Black History of Comedy**
+
+Fri 10 Sep 18:15
+
+**Wattstax**
+
+Fri 10 Sep 21:00; Tue 14 Sep 18:00; Sat 18 Sep 20:10
+
+**Car Wash**
+
+Sat 11 Sep 17:50; Tue 28 Sep 20:50
+
+**Blazing Saddles**
+
+Sat 11 Sep 20:45; Wed 22 Sep 18:15
+
+**Silver Streak**
+
+Sun 12 Sep 15:15; Wed 29 Sep 20:45
+
+**Which Way Is Up?**
+
+Wed 15 Sep 21:00; Sun 26 Sep 18:10
+
+**Lost Highway (unconfirmed)**
+
+Thu 16 Sep 17:30; Tue 5 Oct 20:30
+
+**Richard Pryor: A Comedy Genius**
+
+Thu 16 Sep 18:15
+
+**Stir Crazy**
+
+Sun 19 Sep 18:10; Fri 1 Oct 20:30
+
+**Bustin’ Loose**
+
+Mon 20 Sep 21:00; Sun 3 Oct 18:10
+
+**Richard Pryor: Live on the Sunset Strip**
+
+Tue 21 Sep 18:00 (+ discussion); Mon 4 Oct 18:20
+
+**Richard Pryor... Here and Now**
+
+Wed 22 Sep 20:45; Sat 2 Oct 18:00
+
+**Brewster’s Millions**
+
+Thu 23 Sep 20:45; Sun 3 Oct 15:15
+
+A Pryor Engagement was originally programmed by Nellie Killian for BAMcinématek in 2013
+
+This season is presented in partnership with We Are Parable
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI4MjgzMTc4OV19
+-->
