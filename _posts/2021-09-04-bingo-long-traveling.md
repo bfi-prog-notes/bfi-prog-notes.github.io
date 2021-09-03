@@ -12,21 +12,12 @@ With a sharpish and skeptically witty script by Barwood and Robbins (who wrote _
 It also boasts some marvellous locations in the back-woods of Georgia, a whole flurry of fine performances (notably from Richard Pryor as an All-Star obsessed by the possibility of infiltrating the white teams as a Red Indian or a Cuban), and several very funny scenes (the best probably being one in which Billy Dee Williams, intent on stealing a car from under the sheriff’s nose and airily using the silver paper from a stick of chewing-gum to turn on the ignition, somehow gets his connections mixed and is rewarded by Shirley Temple and ‘The Good Ship Lollipop’ blaring from the radio).<br>
 **Tom Milne, _Monthly Film Bulletin_, November 1976**<br>
 
-<![endif]-->
-
-**The Bingo Long Traveling All-Stars**
-
-**& Motor Kings**
-
+**THE BINGO LONG TRAVELING ALL-STARS & MOTOR KINGS**<br>
 _Director_: John Badham  
-_Production Companies_: Motown Productions,
-
-Pan Arts Enterprises  
+_Production Companies_: Motown Productions, Pan Arts Enterprises  
 _Executive Producer_: Berry Gordy  
 _Producer_: Rob Cohen  
-_Associate Producers_: Michael Chinich,
-
-Janet Hubbard, Bennett Tramer  
+_Associate Producers_: Michael Chinich, Janet Hubbard, Bennett Tramer  
 _Production Manager_: Wallace Worsley  
 _Assistant Directors_: Tom Joyner, L. Andrew Stone, Richard A. Wells  
 _Screenplay_: Hal Barwood, Matthew Robbins  
@@ -40,9 +31,9 @@ _Title Design_: Michael Hamilton, N. Lee Lacy
 _Music_: William Goldstein  
 _Sound_: Willie Burton, Robert L. Hoyt  
 _Sound Editor_: Jim Troutman  
-_Stunt Co-ordinator_: Jophery Brown
+_Stunt Co-ordinator_: Jophery Brown<br>
 
-_Cast:_  
+**Cast**<br>
 Billy Dee Williams _(Bingo Long)_  
 James Earl Jones _(Leon Carter)_  
 Richard Pryor _(Charlie Snow)_  
@@ -78,41 +69,23 @@ Dero Austin _(midget catcher)_<br>
 
 USA 1976<br>
 110 mins<br>
-
-
-
-A PRYOR ENGAGEMENT
-
+<br>
+**A PRYOR ENGAGEMENT**
 **Richard Pryor: Live in Concert**
-
 Wed 1 Sep 20:50; Fri 1 Oct 18:00
-
 **Some Call It Loving**
-
 Thu 2 Sep 20:40; Mon 20 Sep 18:00 (+ pre-recorded intro)
-
 **Lady Sings the Blues**
-
 Sat 4 Sep 11:30; Wed 15 Sep 13:50; Mon 27 Sep 20:20
-
 **The Bingo Long Traveling All-Stars & Motor Kings**
-
 Sat 4 Sep 20:30; Sat 25 Sep 14:45
-
 **Blue Collar**
-
 Mon 6 Sep 14:30; Fri 17 Sep 20:40 (+ pre-recorded intro); Tue 5 Oct 17:35
-
 **Jo Jo Dancer, Your Life Is Calling**
-
 Tue 7 Sep 18:10 (+ pre-recorded intro); Mon 4 Oct 20:45
-
 **African Odysseys Presents: The Black History of Comedy**
-
 Fri 10 Sep 18:15
-
 **Wattstax**
-
 Fri 10 Sep 21:00; Tue 14 Sep 18:00; Sat 18 Sep 20:10
 
 **Car Wash**
@@ -163,5 +136,5 @@ A Pryor Engagement was originally programmed by Nellie Killian for BAMcinématek
 
 This season is presented in partnership with We Are Parable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjgzMTc4OV19
+eyJoaXN0b3J5IjpbMTUwNjIyNjI4XX0=
 -->
