@@ -7,7 +7,7 @@ readtime: true
 categories: ['A PRYOR ENGAGEMENT']
 tags: [Comedy, Sport]
 metadata: 'USA 1976, 110 mins<br> Director: John Badham'
-pdf: '2021-09-04--bingo-long-traveling.pdf'
+pdf: '2021-09-04-bingo-long-traveling.pdf'
 ---
 
 Richard Pryor joins an all-star cast in this Motown Productions’ charmer set in the waning days of baseball’s segregated Negro League. Billy Dee Williams stars as Bingo Long, a born showman, loosely based on Satchel Paige. Pryor plays Carlos Nevada, a player working on his Spanish in the hopes of passing as Latino for a place in the all-white Major League.<br>
