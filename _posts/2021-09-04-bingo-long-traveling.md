@@ -8,7 +8,7 @@ categories: ['A PRYOR ENGAGEMENT']
 tags: [Comedy, Sport]
 metadata: 'USA 1976, 110 mins<br> Director: John Badham'
 pdf: '2021-09-04-bingo-long-traveling.pdf'
----
+-->
 
 Richard Pryor joins an all-star cast in this Motown Productions’ charmer set in the waning days of baseball’s segregated Negro League. Billy Dee Williams stars as Bingo Long, a born showman, loosely based on Satchel Paige. Pryor plays Carlos Nevada, a player working on his Spanish in the hopes of passing as Latino for a place in the all-white Major League.<br>
 **bfi.org.uk**<br>
@@ -96,29 +96,7 @@ Tue 7 Sep 18:10 (+ pre-recorded intro); Mon 4 Oct 20:45<br>
 **African Odysseys Presents: The Black History of Comedy**<br>
 Fri 10 Sep 18:15<br>
 **Wattstax**<br>
-Fri 10 Sep 21:00; Tue 14 Sep 18:00; Sat 18 Sep 20:10<br>
-**Car Wash**<br>
-Sat 11 Sep 17:50; Tue 28 Sep 20:50<br>
-**Blazing Saddles**<br>
-Sat 11 Sep 20:45; Wed 22 Sep 18:15<br>
-**Silver Streak**<br>
-Sun 12 Sep 15:15; Wed 29 Sep 20:45<br>
-**Which Way Is Up?**<br>
-Wed 15 Sep 21:00; Sun 26 Sep 18:10<br>
-**Lost Highway (unconfirmed)**<br>
-Thu 16 Sep 17:30; Tue 5 Oct 20:30<br>
-**Richard Pryor: A Comedy Genius**<br>
-Thu 16 Sep 18:15<br>
-**Stir Crazy**<br>
-Sun 19 Sep 18:10; Fri 1 Oct 20:30<br>
-**Bustin’ Loose**<br>
-Mon 20 Sep 21:00; Sun 3 Oct 18:10<br>
-**Richard Pryor: Live on the Sunset Strip**<br>
-Tue 21 Sep 18:00 (+ discussion); Mon 4 Oct 18:20<br>
-**Richard Pryor... Here and Now**<br>
-Wed 22 Sep 20:45; Sat 2 Oct 18:00<br>
-**Brewster’s Millions**<br>
-Thu 23 Sep 20:45; Sun 3 Oct 15:15<br>
+Fri 10 Sep 21:00; Tue 14 Sep 18:00; Sat 18 Sep 20:10<br>**Car Wash**<br>Sat 11 Sep 17:50; Tue 28 Sep 20:50<br>**Blazing Saddles**<br>Sat 11 Sep 20:45; Wed 22 Sep 18:15<br>**Silver Streak**<br>Sun 12 Sep 15:15; Wed 29 Sep 20:45<br>**Which Way Is Up?**<br>Wed 15 Sep 21:00; Sun 26 Sep 18:10<br>**Lost Highway (unconfirmed)**<br>Thu 16 Sep 17:30; Tue 5 Oct 20:30<br>**Richard Pryor: A Comedy Genius**<br>Thu 16 Sep 18:15<br>**Stir Crazy**<br>Sun 19 Sep 18:10; Fri 1 Oct 20:30<br>**Bustin’ Loose**<br>Mon 20 Sep 21:00; Sun 3 Oct 18:10<br>**Richard Pryor: Live on the Sunset Strip**<br>Tue 21 Sep 18:00 (+ discussion); Mon 4 Oct 18:20<br>**Richard Pryor... Here and Now**<br>Wed 22 Sep 20:45; Sat 2 Oct 18:00<br>**Brewster’s Millions**<br>Thu 23 Sep 20:45; Sun 3 Oct 15:15<br>
 
 A Pryor Engagement was originally programmed by Nellie Killian for BAMcinématek in 2013<br>
 
@@ -141,3 +119,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTkyOTU3ODExXX0=
+-->
