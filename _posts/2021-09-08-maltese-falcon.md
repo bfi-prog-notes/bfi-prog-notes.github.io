@@ -10,137 +10,80 @@ John Huston’s directorial debut, this year celebrating its 80th anniversary, t
 
 
 **THE MALTESE FALCON**<br>
-
 _Directed by:_ John Huston<br>
-
-_©/Production Company/Presented by:_  
-Warner Bros.<br>
-
+_©/Production Company/Presented by:_  Warner Bros.<br>
 _Executive Producer:_ Hal B. Wallis<br>
-
 _Associate Producer:_ Henry Blanke<br>
-
 _Dialogue Director:_ Robert Foulk<br>
-
 _Screen Play by:_ John Huston<br>
-
 _Based upon the novel by:_ Dashiell Hammett<br>
-
 _Director of Photography:_ Arthur Edeson<br>
-
 _Editor:_ Thomas Richards<br>
-
 _Art Director:_ Robert Haas<br>
-
 _Gowns by:_ Orry-Kelly<br>
-
 _Make-up Artist:_ Perc Westmore<br>
-
 _Music by:_ Adolph Deutsch<br>
-
 _Musical Director:_ Leo F. Forbstein<br>
-
 _Sound by:_ Oliver S. Garretson<br>
 
 _uncredited_<br>
-
 _Unit Manager:_ Al Alleborn<br>
-
 _Assistant Directors:_ Jack Sullivan, Claude Archer<br>
-
 _2nd Assistant Director:_ John Prettyman<br>
-
 _Script Clerk:_ Meta Rebner<br>
-
 _Script Editor:_ Allen Rivkin<br>
-
 _Additional Photography:_ Ernest Haller<br>
-
 _1st Assistant Camera:_ Wally Meinardus<br>
-
 _2nd Assistant Camera:_ Michael Joyce<br>
-
 _Grip:_ E.F. Dexter<br>
-
 _Gaffer:_ William Conger<br>
-
 _Best Boy:_ William Steudeman<br>
-
 _Stills Photography:_ Mack Elliott<br>
-
 _Montages:_ Don Siegel<br>
-
 _Scenic Artist:_ William McConnell<br>
-
 _Properties:_ Gilbert Kissel<br>
-
 _Assistant Properties:_ Keefe Malley<br>
-
 _Wardrobe Woman:_ Cora Lobb<br>
-
 _Wardrobe Man:_ B.W. Kring<br>
-
 _Make-up:_ Frank McCoy<br>
-
 _Hair:_ Joan Udko<br>
-
 _Orchestrations:_ Arthur Lange<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Humphrey Bogart _(Samuel ‘Sam’ Spade)_<br>
-
 Mary Astor _(Brigid O’Shaughnessy)_<br>
-
 Gladys George _(Iva Archer)_<br>
-
 Peter Lorre _(Joel Cairo)_<br>
-
 Barton MacLane _(Lieutenant of Detectives Dundy)_<br>
-
 Lee Patrick _(Effie Perine)_<br>
-
 Sydney Greenstreet _(Kasper Gutman)_<br>
-
 Ward Bond _(Detective Tom Polhaus)_<br>
-
 Jerome Cowan _(Miles Archer)_<br>
-
 Elisha Cook Jr _(Wilmer Cook)_<br>
-
 James Burke _(Luke)_<br>
-
 Murray Alper _(Frank Richman)_<br>
-
 John Hamilton _(District Attorney Bryan)_<br>
 
 _uncredited_<br>
+Emory Parnell _(mate of ‘La Paloma’)_<br>
+Robert E. Homans _(policeman)_<br>
+Creighton Hale _(stenographer)_<br>
+Walter Huston _(Captain Jacobi)_<br>
+Charles Drake, William Hopper, Hank Mann _(reporters)_<br>
 
-Emory Parnell _(mate of ‘La Paloma’)_
+Jack Mower _(postal clerk)_<br>
 
-Robert E. Homans _(policeman)_
+Jack Perrin _(policeman)_<br>
 
-Creighton Hale _(stenographer)_
+John Skins Miller _(sign painter)_<br>
 
-Walter Huston _(Captain Jacobi)_
+Paul Panzer, Sidney Bracey _(men on street)_<br>
 
-Charles Drake, William Hopper, Hank Mann
-
-_(reporters)_
-
-Jack Mower _(postal clerk)_
-
-Jack Perrin _(policeman)_
-
-John Skins Miller _(sign painter)_
-
-Paul Panzer, Sidney Bracey _(men on street)_
-
-USA 1941©
+USA 1941©<br>
 
 101 mins
 
 A BFI release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3MTIyMjQyXX0=
+eyJoaXN0b3J5IjpbMTgxMjkzMTc5Ml19
 -->
