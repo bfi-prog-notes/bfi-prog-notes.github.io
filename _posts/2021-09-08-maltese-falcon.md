@@ -70,20 +70,16 @@ Robert E. Homans _(policeman)_<br>
 Creighton Hale _(stenographer)_<br>
 Walter Huston _(Captain Jacobi)_<br>
 Charles Drake, William Hopper, Hank Mann _(reporters)_<br>
-
 Jack Mower _(postal clerk)_<br>
-
 Jack Perrin _(policeman)_<br>
-
 John Skins Miller _(sign painter)_<br>
-
 Paul Panzer, Sidney Bracey _(men on street)_<br>
 
 USA 1941©<br>
-
 101 mins
 
 A BFI release
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjkzMTc5Ml19
+eyJoaXN0b3J5IjpbMTU1MTQ1ODg2MF19
 -->
