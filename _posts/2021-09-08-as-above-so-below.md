@@ -31,47 +31,32 @@ Her first feature film and documentary _Birds of September_ (2013), which she di
 <br><br>
 
 **AS ABOVE, SO BELOW  
-(KAMA FISSAMAA’, KATHALIKA ALA AL-ARD)**
+(KAMA FISSAMAA’, KATHALIKA ALA AL-ARD)**<br>
+_Director/Producer/Writer:_ Sarah Francis<br>
+_Production Manager:_ Jinane Chaaya<br>
+_Casting:_ Roula Sawma<br>
+_Cinematography:_ Bassem Fayad<br>
+_Editing:_ Sarah Francis, Zeina Aboul Hosn<br>
+_Sound Design:_ Victor Bresse<br>
+_Sound:_ Tatiana El Dahdah, Victor Bresse<br>
 
-_Director/Producer/Writer:_ Sarah Francis
+**With**<br>
+Naji Adwan<br>
+Ali Ibrahim<br>
+Abed Abdallah<br>
+Chakib Nassif<br>
+Charly Kamar<br>
+Denise Roukoz<br>
+Jocelynn Karam<br>
+Suzy Kerchian<br>
+George Yaacoub<br>
+Micheline Raad<br>
 
-_Production Manager:_ Jinane Chaaya
-
-_Casting:_ Roula Sawma
-
-_Cinematography:_ Bassem Fayad
-
-_Editing:_ Sarah Francis, Zeina Aboul Hosn
-
-_Sound Design:_ Victor Bresse
-
-_Sound:_ Tatiana El Dahdah, Victor Bresse
-
-_With:_
-
-Naji Adwan
-
-Ali Ibrahim
-
-Abed Abdallah
-
-Chakib Nassif
-
-Charly Kamar
-
-Denise Roukoz
-
-Jocelynn Karam
-
-Suzy Kerchian
-
-George Yaacoub
-
-Micheline Raad
-
-Lebanon 2020
-
+Lebanon 2020<br>
 70 mins
+<br><br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTgwMjEzNjFdfQ==
+eyJoaXN0b3J5IjpbLTE1NDYzNzMyOTVdfQ==
 -->
