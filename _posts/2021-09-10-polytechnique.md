@@ -7,7 +7,7 @@ readtime: true
 categories: ['DENIS VILLENEUVE<br> THE PATH TO DUNE']
 tags: [Drama]
 metadata: 'Canada 2009, 77 mins<br> Director: Denis Villeneuve'
-pdf: '2021-09-10-polytechnique-2049.pdf'
+pdf: '2021-09-10-polytechnique.pdf'
 ---
 
 Versatile French-Canadian director Denis Villeneuve’s eclectic filmography to date has run the gamut from eccentric art films (_Maelström_, 2000) and austere political cinema (_Incendies_, 2010), via cast-heavy Hollywood potboilers (_Prisoners_, 2013), to multi-million dollar blockbusters (_Blade Runner 2049_, 2017). Yet arguably his most controversial and striking film, 2009’s _Polytechnique_, only now reaches UK audiences for the first time since its London Film Festival screenings, in a new Blu-ray package.
