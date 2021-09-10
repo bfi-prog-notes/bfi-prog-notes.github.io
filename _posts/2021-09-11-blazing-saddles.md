@@ -27,8 +27,7 @@ In the midst of such craziness, Cleavon Little and Gene Wilder deserve medals fo
 ‘God darned if the whole fool enterprise is not worth the attention of any moviegoer with a penchant for what one actor, commenting on another’s Gabby Hayes imitation, calls “authentic western gibberish”.’ Richard Schickel, _Time Magazine_<br>
 **Mike Sutton, bfi.org.uk, 22 October 2018**<br>
 
-**BLAZING SADDLES**<br>
-_Director_: Mel Brooks  
+**BLAZING SADDLES**<br>_Director_: Mel Brooks  
 _Production Companies_: Crossbow Productions, Warner Bros.  
 _Producer_: Michael Hertzberg  
 _Production Manager_: William P. Owens  
@@ -144,3 +143,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjcxMzIwOTMxXX0=
+-->
