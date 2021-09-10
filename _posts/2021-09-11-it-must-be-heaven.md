@@ -1,4 +1,3 @@
-<![endif]-->
 
 While some writer-directors give themselves the best lines, Elia Suleiman has uttered three words in his four self-starring, feature-length films.
 
@@ -63,40 +62,25 @@ I wish I were 30 years younger. What the younger generation are doing today, I�
 Other people on the shoot told me Haifa has the most beautiful bars. We went on a tour and I got so slammed. At 3am, at the end of the night, the last bar was a gay and lesbian bar. I kept on drinking and watching. And I thought, ‘This is the last scene of the film, for sure.’ It was great. It was completely in sync with my feeling and sentiment. It came to me like a destined scene.<br>
 **Elia Suleiman interviewed by Nick Chen, _Sight & Sound_, June 2021**<br>
 
-<![endif]-->
-
-**It Must Be Heaven**
-
+**IT MUST BE HEAVEN**<br>
 _Directed by_: Elia Suleiman  
 _©_: Rectangle Productions, Pallas Film, Possibles Media, Zeyno Film, ZDF, Turkish Radio Television Corporation, CN3 Productions  
 _Presented by_: Rectangle Productions, Nazira Films, Pallas Film, Possibles Media, Zeyno Film  
 _In association with_: Doha Film Institute  
-_In co-production with_: ZDF/Arte,
-
-Turkish Radio Television Corporation (TRT)  
-_In association with_: Wild Bunch, Le Pacte,
-
-Shortcut Films, Maison 4:3, The Arab Fund for Arts and Culture, KNM  
+_In co-production with_: ZDF/Arte, Turkish Radio Television Corporation (TRT)  
+_In association with_: Wild Bunch, Le Pacte, Shortcut Films, Maison 4:3, The Arab Fund for Arts and Culture, KNM  
 _With the support of_: Eurimages  
 _Presented by_: Québec crédit d’impôt cinéma et télévision - Gestion SODEC  
-_With the support of_:
-
-Mitteldeutsche Medienförderung  
+_With the support of_: Mitteldeutsche Medienförderung  
 _Presented by_: Canada crédit d’impôt pour la production cinématographique ou magnétoscopique canadienne  
 _With the support of_: Société de développement des entreprises culturelles - Québec, Aide aux Cinémas du Monde, Centre national du cinéma et de l'image animée, Institut Français, Téléfilm Canada, FFA – Filmförderungsanstalt  
 _Executive Producers_: Fatma Hassan Alremaihi, Hanaa Issa  
-_Produced by_: Edouard Weil, Laurine Pelassy,
-
-Elia Suleiman, Thanassis Karathanos,
-
-Martin Hampel, Serge Noël  
+_Produced by_: Edouard Weil, Laurine Pelassy, Elia Suleiman, Thanassis Karathanos, Martin Hampel, Serge Noël  
 _Line Producer_: Serge Catoire  
 _Post-production Supervisor_: Mélanie Karlin  
 _Written by_: Elia Suleiman  
 _Director of Photography_: Sofian El Fani  
-_Visual Effects Supervisors_: Thomas Duval,
-
-Emilien Lazaron  
+_Visual Effects Supervisors_: Thomas Duval, Emilien Lazaron  
 _Visual Effects_: Digital District  
 _Editor_: Véronique Lange  
 _Production Designer_: Caroline Adler  
@@ -105,12 +89,9 @@ _Hairdressing and Make-up_: Grit Hildenbrand
 _Music Consultant_: Yasmine Hamdan  
 _Sound Recording_: Johannes Doberenz  
 _Sound Mixing_: Lars Ginzel  
-_Sound Editing_: Gwennolé Le Borgne,
-
-Olivier Touche, Laure Anne Darras  
-_In memory of_: John Berger, Humbert Balsan
-
-_Cast:_  
+_Sound Editing_: Gwennolé Le Borgne, Olivier Touche, Laure Anne Darras  
+_In memory of_: John Berger, Humbert Balsan<br>
+**Cast:_ 
 Stephen McHattie _(card reader)_  
 Raia Haidar _(femen in park)_  
 Fadi Sakr _(master of ceremony)_  
@@ -137,5 +118,5 @@ Yumi Narita, Kengo Saito _(Japanese couple)_<br>
 France/Qatar/Germany/Canada/Palestine/Turkey 2019<br>
 102 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzI5Mzk0OTVdfQ==
+eyJoaXN0b3J5IjpbOTE4NzY3MDEyXX0=
 -->
