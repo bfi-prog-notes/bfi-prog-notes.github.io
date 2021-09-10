@@ -17,10 +17,7 @@ In the midst of such craziness, Cleavon Little and Gene Wilder deserve medals fo
 ‘God darned if the whole fool enterprise is not worth the attention of any moviegoer with a penchant for what one actor, commenting on another’s Gabby Hayes imitation, calls “authentic western gibberish”.’ Richard Schickel, _Time Magazine_<br>
 **Mike Sutton, bfi.org.uk, 22 October 2018**<br>
 
-
-
-**BLAZING SADD**
-
+**BLAZING SADDLES**<br>
 _Director_: Mel Brooks  
 _Production Companies_: Crossbow Productions, Warner Bros.  
 _Producer_: Michael Hertzberg  
@@ -37,13 +34,11 @@ _Costume Designer_: Nino Novarese
 _Title Design_: Anthony Goldschmidt  
 _Music Composed and Conducted by_: John Morris  
 _Orchestrations_: Jonathan Tunick, John Morris
-
 _Choreography_: Alan Johnson  
 _Sound Recording_: Gene Cantamessa  
-_Sound Re-recording_: Arthur Piantadosi, Dick Tyler, Les Fresholtz
+_Sound Re-recording_: Arthur Piantadosi, Dick Tyler, Les Fresholtz<br>
 
-_Cast:_
-
+**Cast**<br>
 Cleavon Little _(Bart)_  
 Gene Wilder _(Jim, ‘The Waco Kid’)_  
 Slim Pickens _(Taggart)_  
@@ -78,5 +73,5 @@ USA 1974<br>
 
 **Please note: racist language and attitudes pervade the film.**<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzkzNDg4NV19
+eyJoaXN0b3J5IjpbLTQzNTEzMzY5N119
 -->
