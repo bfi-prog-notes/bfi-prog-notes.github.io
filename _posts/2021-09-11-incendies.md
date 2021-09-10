@@ -26,6 +26,66 @@ The wars that have wracked this region sometimes involved as many as 17 differen
 
 To transpose such a dramatic text to the screen while avoiding melodrama, I opted for the sobriety of raw realism, retaining the mythological factor in the play via natural light and shadows. Emotion had to avoid being an end in itself, but instead a means of achieving catharsis. Incendies is also Jeanne and Simon’s journey towards the source of their mother Nawal’s hatred. This is a very universal quest and it touches me deeply. But I admit that it took a long time to achieve the film’s dramatic balance in the screenplay. Each sequence could have inspired a  feature film!<br>
 **_Sight & Sound_, July 2011**<br>
+
+
+**INCENDIES**<br>
+_A film by_: Denis Villeneuve  
+_©_: Incendies inc. (a micro_scope inc. company), TS Productions sarl  
+_Production Company_: micro_scope  
+_In co-production with_: TS Productions  
+_In association with_: Phi Group Inc.  
+_With the financial participation of_: Téléfilm Canada, SODEC, Tax Credit for Film and Television - Administered by SODEC, Mini-treaty Canada-France, Radio-Canada Télévision, COGECO Program Development Fund, Super Écran, The Movie Network, C.N.C., Canadian Film or Video Production Tax Credit, The Harold Greenberg Fund  
+_Presented by_: Christal Films  
+_Produced by_: Luc Déry, Kim McCraw  
+_Co-produced by_: Miléna Poylo, Gilles Sacuto, Anthony Doncque  
+_Line Producers_: Stephen Traynor, Sylvie Trudelle, Sylvie Trudelle _Montreal Crew_, Stephen Traynor _Jordan Crew_  
+_Associate Producers_: Phoebe Greenberg,Penny Mancuso, Ziad Touma  
+_Post-production Supervisor_: Érik Daniel  
+_1st Assistant Director_: Éric Parenteau  
+_Casting_: Lucie Robitaille, Lara Atalla,
+
+Constance Demontoy  
+_Screenplay and Dialogue_: Denis Villeneuve  
+_With the collaboration of_:
+
+Valérie Beaugrand-Champagne  
+_Based on the play by_: Wajdi Mouawad  
+_Cinematography_: André Turpin  
+_Digital Visual Effects_: Rodeo FX  
+_Special Effects Supervisor_: Jacques Langlois  
+_Special Effects_: L’Intrigue  
+_Film Editing_: Monique Dartonne  
+_Production Design_: André-Line Beauparlant  
+_Set Decorator_: Diane Gauthier  
+_Costume Design_: Sophie Lefebvre  
+_Wardrobe_: Martin Tarte  
+_Original Score / Music Composed by_: Grégoire Hetzel  
+_Music Directed by_: Grégoire Hetzel  
+_Electroacoustic Programmings and Realisation_: Grégoire Hetzel  
+_Music Supervisor_: Pascal Mayer  
+_Sound / Sound Engineer_: Jean Umansky  
+_Sound / Re-recording Mixer (Paris)_: Jean-Pierre Laforce  
+_Sound / Supervisor and Sound Editor_: Sylvain Bellemare  
+_Stunt Co-ordinator_: Stéphane Lefebvre<br>
+
+**Cast**
+Lubna Azabal _(Nawal Marwan)_  
+Mélissa Désormeaux-Poulin _(Jeanne Marwan)_  
+Maxim Gaudette _(Simon Marwan)_  
+Rémy Girard _(Jean Lebel, notary)_  
+Abdelghafour Elaaziz _(Abou Tarek)_  
+Allen Altman _(Maddad, notary)_  
+Mohamed Majd _(Chamseddine)_  
+Nabil Sawalha _(Fahim)_  
+Baya Belal _(Maïka)_  
+Mustafa Kamel _(militia barber)_  
+Hussein Sami _(Nihad (5 years old))_  
+Dominique Briand _(Professor Niv Cohen)_  
+Frédéric Paquet _(emergency doctor)_  
+Hamed Najem _(Wahab)_<br>
+
+Canada/France 2010<br>
+131 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI3OTc2NDhdfQ==
+eyJoaXN0b3J5IjpbMzkwNjY4MzI3XX0=
 -->
