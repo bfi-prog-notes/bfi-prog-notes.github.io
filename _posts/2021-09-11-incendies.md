@@ -1,3 +1,14 @@
+---
+layout: post
+title: Incendies
+published: true
+date: 2021-09-11
+readtime: true
+categories: ['DENIS VILLENEUVE<br> THE PATH TO DUNE']
+tags: [Drama]
+metadata: 'Canada/Francia 2010, 131 mins<br> Director: Denis Villeneuve'
+pdf: '2021-09-11-incendies.pdf'
+---
 
 From the outset, _Incendies_ is clearly not going to be your average tale of conflict in the Middle East. We open with a slow, dreamy pan accompanied by a Radiohead song, ‘You and Whose Army?’ We look out of the window on to a scene of pastoral loveliness: palm trees swaying in a warm desert wind, an oasis alive with birdsong and cicadas (Jordan, as immaculately photographed by André Turpin). The camera pulls back as the music wafts, distantly at first – absurd, like a Noel Coward song played at the wrong speed on an old wind-up gramophone. ‘Come on, come on/ Holy Roman Empire/Come on if you think/Come on if you think/ You can take us all on,’ Thom Yorke croons in words you can hardly make out. A series of almost static framings follows; the children in the shot seem to have a sad, ethereal beauty. It’s puzzling, even as it’s affecting, and for a moment the film seems to teeter on the brink of disaster – it really does look like a plausible Radiohead video for the song being played.
 
@@ -19,8 +30,7 @@ In the end, though, we find ourselves not on the battlefields of Lebanon but on 
 **Roger Clarke, _Sight & Sound_, July 2011**<br>
 
 **Denis Villeneuve on negotiating the politics of ‘Incendies’**<br>
-When I saw Wajdi Mouawad’s play _Incendies_ it was like a punch in the jaw.  
-I emerged from the theatre on shaky knees. Right away I knew I was going to make it into a movie. I decided to follow the play’s lead and set my film in an imaginary space like Costa-Gavras’s _Z_ [1969], so as to free it from any political bias. The film is about politics, but is also apolitical. The play’s purpose was to delve into the subject of anger – not to fuel such anger – and the setting of _Incendies_ [the Lebanon] is a historical minefield.
+When I saw Wajdi Mouawad’s play _Incendies_ it was like a punch in the jaw. I emerged from the theatre on shaky knees. Right away I knew I was going to make it into a movie. I decided to follow the play’s lead and set my film in an imaginary space like Costa-Gavras’s _Z_ [1969], so as to free it from any political bias. The film is about politics, but is also apolitical. The play’s purpose was to delve into the subject of anger – not to fuel such anger – and the setting of _Incendies_ [the Lebanon] is a historical minefield.
 
 The wars that have wracked this region sometimes involved as many as 17 different factions, with alliances and betrayals of baffling complexity for neophytes. To remain faithful to this reality, the political situation had to remain complex without undermining the storyline. Viewers of the film need to understand the gist of what can be understood, while accepting that the situation has become too complex to be boiled down to black and white. Wajdi’s staging is riddled with very powerful theatrical images, of a rare beauty. I couldn’t use them because they belonged to the theatrical alphabet, but I was able to go back to their source and translate them into film language. Wajdi provided me some helpful keys.
 
@@ -82,6 +92,43 @@ Hamed Najem _(Wahab)_<br>
 
 Canada/France 2010<br>
 131 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTc4ODA5NjVdfQ==
--->
+
+
+
+**DENIS VILLENEUVE: THE PATH TO DUNE**<br>
+**Incendies**<br>
+Sat 11 Sep 20:30; Fri 17 Sep 17:50; Sun 19 Sep 14:45<br>
+**Enemy**<br>
+Sun 12 Sep 12:20; Tue 21 Sep 20:55<br>
+**Sicario**<br>
+Sun 12 Sep 18:10; Wed 22 Sep 20:40; Sat 25 Sep 20:40<br>
+**Prisoners**<br>
+Tue 14 Sep 14:15; Sat 25 Sep 17:00<br>
+**August 32nd on Earth (Un 32 août sur terre)**<br>
+Thu 16 Sep 18:20<br>
+**Arrival**<br>
+Thu 16 Sep 20:45; Tue 28 Sep 14:15; Sat 2 Oct 17:30<br>
+**Maelström**<br>
+Fri 17 Sep 20:55<br>
+**Blade Runner 2049**<br>
+Sat 18 Sep 17:15; Fri 24 Sep 14:15; Sun 3 Oct 17:30<br>
+**Polytechnique**<br>
+Sun 19 Sep 12:15; Thu 30 Sep 20:50<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
