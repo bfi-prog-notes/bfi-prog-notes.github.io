@@ -39,16 +39,12 @@ _Presented by_: Christal Films
 _Produced by_: Luc Déry, Kim McCraw  
 _Co-produced by_: Miléna Poylo, Gilles Sacuto, Anthony Doncque  
 _Line Producers_: Stephen Traynor, Sylvie Trudelle, Sylvie Trudelle _Montreal Crew_, Stephen Traynor _Jordan Crew_  
-_Associate Producers_: Phoebe Greenberg,Penny Mancuso, Ziad Touma  
+_Associate Producers_: Phoebe Greenberg, Penny Mancuso, Ziad Touma  
 _Post-production Supervisor_: Érik Daniel  
 _1st Assistant Director_: Éric Parenteau  
-_Casting_: Lucie Robitaille, Lara Atalla,
-
-Constance Demontoy  
+_Casting_: Lucie Robitaille, Lara Atalla, Constance Demontoy  
 _Screenplay and Dialogue_: Denis Villeneuve  
-_With the collaboration of_:
-
-Valérie Beaugrand-Champagne  
+_With the collaboration of_: Valérie Beaugrand-Champagne  
 _Based on the play by_: Wajdi Mouawad  
 _Cinematography_: André Turpin  
 _Digital Visual Effects_: Rodeo FX  
@@ -68,7 +64,7 @@ _Sound / Re-recording Mixer (Paris)_: Jean-Pierre Laforce
 _Sound / Supervisor and Sound Editor_: Sylvain Bellemare  
 _Stunt Co-ordinator_: Stéphane Lefebvre<br>
 
-**Cast**
+**Cast**<br>
 Lubna Azabal _(Nawal Marwan)_  
 Mélissa Désormeaux-Poulin _(Jeanne Marwan)_  
 Maxim Gaudette _(Simon Marwan)_  
@@ -87,5 +83,5 @@ Hamed Najem _(Wahab)_<br>
 Canada/France 2010<br>
 131 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwNjY4MzI3XX0=
+eyJoaXN0b3J5IjpbLTE0OTc4ODA5NjVdfQ==
 -->
