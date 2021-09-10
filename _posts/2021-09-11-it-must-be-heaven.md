@@ -91,7 +91,7 @@ _Sound Recording_: Johannes Doberenz
 _Sound Mixing_: Lars Ginzel  
 _Sound Editing_: Gwennolé Le Borgne, Olivier Touche, Laure Anne Darras  
 _In memory of_: John Berger, Humbert Balsan<br>
-**Cast:_ 
+**Cast**<br>
 Stephen McHattie _(card reader)_  
 Raia Haidar _(femen in park)_  
 Fadi Sakr _(master of ceremony)_  
@@ -105,7 +105,6 @@ Tarik Kopty _(father neighbour)_
 Kareem Ghneim _(son neighbour)_  
 George Khleifi _(waiter in restaurant)_  
 Ali Suliman, Faris Muqabaa, Yasmine Haj
-
 _(brothers and sisters in restaurant)_  
 Nael Kanj _(bishop)_  
 Asmaa Azaizy _(bedouin woman)_  
@@ -118,5 +117,5 @@ Yumi Narita, Kengo Saito _(Japanese couple)_<br>
 France/Qatar/Germany/Canada/Palestine/Turkey 2019<br>
 102 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4NzY3MDEyXX0=
+eyJoaXN0b3J5IjpbLTg4ODg0Njc4M119
 -->
