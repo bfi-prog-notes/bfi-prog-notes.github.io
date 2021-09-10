@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: 143 Sahara Street
+published: true
+date: 2021-09-11
+readtime: true
+categories: ['THE TIME IS NEW']
+tags: [Documentary]
+metadata: 'Algeria/France/Qatar 2019, 100 mins<br> Director: Hassen Ferhani'
+pdf: '2021-09-07-200-meters.pdf'
+---
 **Hassen Ferhani on ‘143 Sahara Street’**
 
 _How does one meet a character as singular as Malika?_
@@ -9,8 +19,7 @@ _You did not expect such an intense encounter?_
 
 I already knew that Amari had identified interesting characters for his book but was far from imagining how interesting Malika could be, especially from a cinematographic point of view. As soon as I walked into her place, I knew that’s where my movie was. The idea came to me that, here, we could do an inverted road movie.
 
-A paradoxical idea in appearance, because after all, what is a road movie if not a film that happens on the road? Here we were in a place on the road that exists because of the road and for the road the truckers. I loved this simple place that housed so many things, in addition to the charisma and strength of this woman, who is there in the middle of nowhere. It is incredible what can be said and can occur within a 20 square meter space and in one of the largest deserts in  
-the world.
+A paradoxical idea in appearance, because after all, what is a road movie if not a film that happens on the road? Here we were in a place on the road that exists because of the road and for the road the truckers. I loved this simple place that housed so many things, in addition to the charisma and strength of this woman, who is there in the middle of nowhere. It is incredible what can be said and can occur within a 20 square meter space and in one of the largest deserts in the world.
 
 _In the middle of nowhere, as you say…_
 
@@ -38,10 +47,8 @@ For the first point, it’s both  right and wrong. I am one of the directors who
 
 _You’re often invited to move on to fiction. Does this touch you?_
 
-To tell you the truth, I do not really like the  designation ‘documentary film.’  
-I’m thrilled when my films are  selected for festivals that do not affirm a particular genre. This  compartmentalisation tends to disappear, I hope. Finally, the  difference between a fiction film and a documentary is the work  they are based on. In the first case there is a scenario written in  advance and in the second, the scenario is written while shooting  the film. In any case that’s the way I work, I write while shooting. In documentary  film, the matter of what is real determines the story. I work on what is alive,  which ultimately carries more fiction. With _143 Sahara Street_ the story sweeps  through many aspects of Algerian society. This was also found in your previous  film whose title is becoming a popular expression. Are there any prefigurations  or intuitions of what is happening in Algeria at the moment? I won’t look for  archetypes. I am not into a sociological approach. First and foremost, I try to  do cinema. As for what is happening in Algeria today, it is inevitably something  that was already stirring our entire society but was a bit buried. If we portray  accurately a place or a character, it can become a microcosm that reveals  an entire society or country. So yes, there were signs that are easier to spot  afterwards. But I did not try to reveal them and everyone is free to interpret the  film as they see fit.<br>
+To tell you the truth, I do not really like the  designation ‘documentary film.’ I’m thrilled when my films are  selected for festivals that do not affirm a particular genre. This  compartmentalisation tends to disappear, I hope. Finally, the  difference between a fiction film and a documentary is the work  they are based on. In the first case there is a scenario written in  advance and in the second, the scenario is written while shooting  the film. In any case that’s the way I work, I write while shooting. In documentary  film, the matter of what is real determines the story. I work on what is alive,  which ultimately carries more fiction. With _143 Sahara Street_ the story sweeps  through many aspects of Algerian society. This was also found in your previous  film whose title is becoming a popular expression. Are there any prefigurations  or intuitions of what is happening in Algeria at the moment? I won’t look for  archetypes. I am not into a sociological approach. First and foremost, I try to  do cinema. As for what is happening in Algeria today, it is inevitably something  that was already stirring our entire society but was a bit buried. If we portray  accurately a place or a character, it can become a microcosm that reveals  an entire society or country. So yes, there were signs that are easier to spot  afterwards. But I did not try to reveal them and everyone is free to interpret the  film as they see fit.<br>
 **Hassen Ferhani interviewed by Ameziane Ferhani, Production notes**<br>
-
 
 **143 SAHARA STREET (143 RUE DU DESERT)**<br>
 _A film by:_ Hassen Ferhani<br>
@@ -55,11 +62,60 @@ _Sound:_ Mohamed Ilyas Guetal,  Antoine Morin<br>
 
 **With**<br>
 Malika<br>
-Chawki Amari
+Chawki Amari<br>
 Samir Elhakim<br>
 
 Algeria/France/Qatar 2019<br>
 100 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTM0OTc4Niw4MTc5MTIwMDJdfQ==
--->
+
+
+**THE TIME IS NEW: SELECTIONS FROM CONTEMPORARY ARAB CINEMA**<br>
+
+**200 Meters**<br>
+Tue 7 Sep 20:50; Wed 15 Sep 18:10<br>
+**As Above, So Below  (Kama fissamaa’, kathalika ala al-ard)**<br>
+Wed 8 Sep 20:45; Fri 1 Oct 18:10 (+ pre-recorded Q&A with director Sarah Francis)<br>
+**143 Sahara Street (143 rue du désert)**<br>
+Sat 11 Sep 11:30; Mon 20 Sep 18:15<br>
+**It Must Be Heaven**<br>
+Sat 11 Sep 20:40; Mon 27 Sep 18:00;  Mon 4 Oct 14:30<br>
+**Let’s Talk Ehkeely**<br>
+Mon 13 Sep 18:00 (+ pre-recorded Q&A with director Marianne Khoury); Tue 5 Oct 20:50<br>
+**Tlamess**<br>
+Tue 14 Sep 20:40; Thu 30 Sep 18:00<br>
+**The Man Who Sold His Skin  (L’Homme qui a vendu sa peau)**<br>
+Thu 16 Sep 20:50<br>
+**Talking About Trees**<br>
+Mon 20 Sep 14:30; Mon 27 Sep 20:45;  Sun 3 Oct 18:00<br>
+**You Will Die at Twenty (Satamoto fel eshreen)**<br>
+Thu 23 Sep 20:30 (+ pre-recorded Q&A with director Amjad Abu Alala); Sat 2 Oct 14:20<br>
+**Narrative Encounters: Shorts Programme**<br>
+Fri 24 Sep 20:40; Tue 5 Oct 18:10<br>
+**Adam**<br>
+Sat 25 Sep 14:20; Mon 4 Oct 20:50<br>
+**Abou Leila**<br>
+Sun 26 Sep 18:00; Sat 2 Oct 20:30<br>
+
+**In cultural partnership with**<br>
+<img style="float:left" src="/img/arab-british-centre-logo-01.png"><br>
+<br><br><br><br><br><br><br><br><br><br>
+<img style="float:left" src="/img/zawya.png">
+<br><br><br><br><br><br><br><br><br><br><br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
