@@ -15,19 +15,17 @@ In some respects, it could be seen as an old-fashioned familial mystery story co
 
 Canada’s submission for this year’s Best Foreign Language Film Oscar (it lost out to Denmark’s _In a Better World_), _Incendies_ is what’s known in Hollywood parlance as a breakout film, with which a director lauded on home territory suddenly becomes known to a far wider international audience. Aside from _Lebanon_, one comparison would be with Villeneuve’s Canadian compatriot Atom Egoyan.  In another universe Egoyan might have pulled off something similar with _Ararat_, his anguished 2002 misfire about the legacy of the Armenian Massacres. _Incendies_ acquires its heft from some very deep places – Greek tragedy rather than newsflashes. With its shattering encounters between sons and their long-lost parents, it’s almost an anti-Oedipus. (This intertwining of the archaic and the new was something Pasolini understood very well.)
 
-In the end, though, we find ourselves not on the battlefields of Lebanon but on the grey streets of Canada, where the climax comes with the brother and sister’s final delivery of the sealed letters their mother left them, which turn out to go to the same man – a man with a trinity of dots on his ankle. As a moment of revealed horror it is as startling and bare as any in cinema; the summation of all those years of pain and killing is quiet, disgusting – and true.
+In the end, though, we find ourselves not on the battlefields of Lebanon but on the grey streets of Canada, where the climax comes with the brother and sister’s final delivery of the sealed letters their mother left them, which turn out to go to the same man – a man with a trinity of dots on his ankle. As a moment of revealed horror it is as startling and bare as any in cinema; the summation of all those years of pain and killing is quiet, disgusting – and true.<br>
+**Roger Clarke, _Sight & Sound_, July 2011**<br>
 
-Roger Clarke, _Sight & Sound_, July 2011
-
-**Denis Villeneuve on negotiating the politics of ‘Incendies’**
-
+**Denis Villeneuve on negotiating the politics of ‘Incendies’**<br>
 When I saw Wajdi Mouawad’s play _Incendies_ it was like a punch in the jaw.  
 I emerged from the theatre on shaky knees. Right away I knew I was going to make it into a movie. I decided to follow the play’s lead and set my film in an imaginary space like Costa-Gavras’s _Z_ [1969], so as to free it from any political bias. The film is about politics, but is also apolitical. The play’s purpose was to delve into the subject of anger – not to fuel such anger – and the setting of _Incendies_ [the Lebanon] is a historical minefield.
 
 The wars that have wracked this region sometimes involved as many as 17 different factions, with alliances and betrayals of baffling complexity for neophytes. To remain faithful to this reality, the political situation had to remain complex without undermining the storyline. Viewers of the film need to understand the gist of what can be understood, while accepting that the situation has become too complex to be boiled down to black and white. Wajdi’s staging is riddled with very powerful theatrical images, of a rare beauty. I couldn’t use them because they belonged to the theatrical alphabet, but I was able to go back to their source and translate them into film language. Wajdi provided me some helpful keys.
 
 To transpose such a dramatic text to the screen while avoiding melodrama, I opted for the sobriety of raw realism, retaining the mythological factor in the play via natural light and shadows. Emotion had to avoid being an end in itself, but instead a means of achieving catharsis. Incendies is also Jeanne and Simon’s journey towards the source of their mother Nawal’s hatred. This is a very universal quest and it touches me deeply. But I admit that it took a long time to achieve the film’s dramatic balance in the screenplay. Each sequence could have inspired a  feature film!<br>
-**_Sight & Sound_, July 2011**
+**_Sight & Sound_, July 2011**<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTkzNzU1OTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MTI3OTc2NDhdfQ==
 -->
