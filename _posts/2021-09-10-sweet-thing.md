@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Sweet Thing
+published: true
+date: 2021-09-10
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'USA 2020, 91 mins<br> Director: Alexandre Rockwell'
+pdf: '2021-09-10-sweet-thing.pdf'
+---
 
 Teenager Billie (Lana Rockwell), a 15-year-old girl who fantasises that Billie Holiday is her sort of fairy godmother, and younger brother Nico (Nico Rockwell) share time between their separated parents. They befriend Malik, a boy as equally adrift as they are and the three leave their troubled homes to set off on a trip across Massachusetts, crossing paths with a variety of American eccentrics, angels and desperados. This intimate, personal film from accomplished indie filmmaker Alexandre Rockwell (_In the Soup_, _Little Feet_) features his own children in the two lead roles and is shot in rich monotone (with occasional bursts of colour). Described by Tarantino as one of the most powerful new films he's seen in years, _Sweet Thing_ is an extraordinary and at times poetic rendering of childhood in an intense and also uplifting way.  
 **bfi.org.uk**
@@ -14,12 +24,10 @@ Lana Rockwell’s Billie is named after Billie Holliday, but the film’s real m
 **Three Films by Alexandre Rockwell**
 
 **In the Soup (1992)**  
-An auspicious breakthrough feature, Rockwell’s Sundance winner has  
-Steve Buscemi’s budding filmmaker struggling to get finance for his portentous 500-page screenplay. In desperation he turns to Seymour Cassel’s smalltime gangster for help, only to get embroiled in a life of crime. A link between American independent film’s roots (black-and-white, Cassavetes alumni Cassel) and its 90s talent explosion, it’s a comic charmer that momentarily positioned Rockwell as the Next Big Thing.
+An auspicious breakthrough feature, Rockwell’s Sundance winner has  Steve Buscemi’s budding filmmaker struggling to get finance for his portentous 500-page screenplay. In desperation he turns to Seymour Cassel’s smalltime gangster for help, only to get embroiled in a life of crime. A link between American independent film’s roots (black-and-white, Cassavetes alumni Cassel) and its 90s talent explosion, it’s a comic charmer that momentarily positioned Rockwell as the Next Big Thing.
 
 **Four Rooms (1995)**  
-Rockwell, alongside fellow up-and-comers Allison Anders, Robert Rodriguez and Quentin Tarantino, co-directed this four-part anthology set in a hotel, with Tim Roth’s hapless bellboy its unwitting linchpin. Chock-full of stars (Madonna, Antonio Banderas, an uncredited Bruce Willis), it’s a wildly uneven farce.  
-Sadly, Rockwell’s haranguing infidelity caper ‘The Wrong Man’ might be its weakest link.
+Rockwell, alongside fellow up-and-comers Allison Anders, Robert Rodriguez and Quentin Tarantino, co-directed this four-part anthology set in a hotel, with Tim Roth’s hapless bellboy its unwitting linchpin. Chock-full of stars (Madonna, Antonio Banderas, an uncredited Bruce Willis), it’s a wildly uneven farce.  Sadly, Rockwell’s haranguing infidelity caper ‘The Wrong Man’ might be its weakest link.
 
 **Little Feet (2013)**  
 Something of a self-dare to see if he was still a real filmmaker: Rockwell enlisted his own two young kids for a Kickstarter-funded 60-minute experiment about siblings in a broken home who set out to release their pet goldfish into the Los Angeles River. It’s freestyle and impressionistic, with an eclectic soundtrack, and the Rockwell family’s engaging, playful efforts helped reignite his creative desires.
@@ -49,6 +57,55 @@ USA 2020<br>
 
 A Eureka! release
 <br><br>
+
+**NEW RELEASES &  RE-RELEASES**<br>
+**Souad**<br>
+Continues from Fri 27 Aug<br>
+**Wildfire**<br>
+From Fri 3 Sep<br>
+**Candyman**<br>
+From Fri 3 Sep<br>
+**Annette**<br>
+From Fri 10 Sep<br>
+**Sweet Thing**<br>
+From Fri 10 Sep<br>
+**The Maltese Falcon**<br>
+From Fri 17 Sep<br>
+
+**IN PERSON & PREVIEWS**<br>
+**Doctor Who: The Evil of the Daleks (animated)**<br>
+Sun 12 Sep 12:00<br>
+**Preview: Sweetheart + Q&A with director  Marley Morrison**<br>
+Mon 13 Sep 17:50<br>
+**Prime Suspect: 30th Anniversary (First Series Complete Screening)**<br>
+Sun 19 Sep 14:00<br>
+**Lynda La Plante in Conversation**<br>
+Sun 19 Sep 18:45<br>
+**Preview: Convergence + Q&A with director Orlando von Einsiedel and co-director and film contributor Hassan Akkad**<br>
+Wed 29 Sep 19:00<br>
+**60th Anniversary: Whistle Down the Wind  + actor Hayley Mills in Conversation**<br>
+Sun 3 Oct 12:00<br>
+**Preview: Dune + pre-recorded Q&A  with Denis Villeneuve**<br>
+Tue 5 Oct 18:30<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEwODY3OTgwMzJdfQ==
 -->
