@@ -38,25 +38,14 @@ These sequences, coupled with the brutally matter-of-fact black and white, turn 
 If it lacks the budget and scale of his later work, _Polytechnique_ nevertheless demonstrates a younger filmmaker confidently grappling with edgy material and in strikingly precocious command of performance and style. It provided a showcase for the visual and sonic flamboyance that have characterised his work ever since.<br>
 **Paul Ridd, bfi.org.uk, 9 December 2020**<br>
 
-**POLYTECHNIQUE**<br>![endif]-->
-
-**Polytechnique**
-
+**POLYTECHNIQUE**<br>
 _Directed by_: Denis Villeneuve  
 _A_ Remstar - Don Carmody _production_  
-_Presented by_: Remstar Media Partners, 
-
-Alliance Films  
-_Executive Producers_: Julien Rémillard, 
-
-André Rouleau  
+_Presented by_: Remstar Media Partners, Alliance Films  
+_Executive Producers_: Julien Rémillard, André Rouleau  
 _Produced by_: Maxime Rémillard, Don Carmody  
-_Associate Producers_: Karine Vanasse, 
-
-Nathalie Brigitte Bustos  
-_Production Managers_: André Rouleau, 
-
-Julien Rémillard  
+_Associate Producers_: Karine Vanasse, Nathalie Brigitte Bustos  
+_Production Managers_: André Rouleau, Julien Rémillard  
 _1st Assistant Director_: Benoît Hamel  
 _Casting_: Emmanuelle Beaugrand-Champagne, Nathalie Boutrie  
 _Screenplay by_: Jacques Davidts, Denis Villeneuve  
@@ -72,9 +61,9 @@ _Key Hairstylist_: Martin Rivest
 _Composer_: Benoît Charest  
 _Sound Mixer_: Pierre Blain  
 _Re-recording Mixer_: Stéphane Bergeron  
-_Sound Effects Editor_: Christian Rivest
+_Sound Effects Editor_: Christian Rivest<br>
 
-**_Cast**<br>:_  
+**Cast**<br>  
 Maxim Gaudette _(assassin)_  
 Sébastien Huberdeau _(Jean-François)_  
 Karine Vanasse _(Valérie)_  
@@ -85,7 +74,6 @@ Nathalie Girard
 Marina Eva<br>
 
 Canada 2009<br>
-
 77 mins<br>
 <br>
 
