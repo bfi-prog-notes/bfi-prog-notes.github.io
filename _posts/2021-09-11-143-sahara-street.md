@@ -50,6 +50,7 @@ _You’re often invited to move on to fiction. Does this touch you?_
 To tell you the truth, I do not really like the  designation ‘documentary film.’ I’m thrilled when my films are  selected for festivals that do not affirm a particular genre. This  compartmentalisation tends to disappear, I hope. Finally, the  difference between a fiction film and a documentary is the work  they are based on. In the first case there is a scenario written in  advance and in the second, the scenario is written while shooting  the film. In any case that’s the way I work, I write while shooting. In documentary  film, the matter of what is real determines the story. I work on what is alive,  which ultimately carries more fiction. With _143 Sahara Street_ the story sweeps  through many aspects of Algerian society. This was also found in your previous  film whose title is becoming a popular expression. Are there any prefigurations  or intuitions of what is happening in Algeria at the moment? I won’t look for  archetypes. I am not into a sociological approach. First and foremost, I try to  do cinema. As for what is happening in Algeria today, it is inevitably something  that was already stirring our entire society but was a bit buried. If we portray  accurately a place or a character, it can become a microcosm that reveals  an entire society or country. So yes, there were signs that are easier to spot  afterwards. But I did not try to reveal them and everyone is free to interpret the  film as they see fit.<br>
 **Hassen Ferhani interviewed by Ameziane Ferhani, Production notes**<br>
 
+
 **143 SAHARA STREET (143 RUE DU DESERT)**<br>
 _A film by:_ Hassen Ferhani<br>
 _Producers:_ Narimane Mari,  Olivier Boischot, Michel Haas, Allers Retours Films,
@@ -75,7 +76,7 @@ Algeria/France/Qatar 2019<br>
 Tue 7 Sep 20:50; Wed 15 Sep 18:10<br>
 **As Above, So Below  (Kama fissamaa’, kathalika ala al-ard)**<br>
 Wed 8 Sep 20:45; Fri 1 Oct 18:10 (+ pre-recorded Q&A with director Sarah Francis)<br>
-**143 Sahara Street (143 rue du désert)**<br>
+**143 4 S (143   )**<br>
 Sat 11 Sep 11:30; Mon 20 Sep 18:15<br>
 **It Must Be Heaven**<br>
 Sat 11 Sep 20:40; Mon 27 Sep 18:00;  Mon 4 Oct 14:30<br>
@@ -119,3 +120,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI5ODMwMjU2XX0=
+-->
