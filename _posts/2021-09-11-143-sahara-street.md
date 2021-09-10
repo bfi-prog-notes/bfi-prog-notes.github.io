@@ -42,7 +42,41 @@ _You’re often invited to move on to fiction. Does this touch you?_
 
 To tell you the truth, I do not really like the  designation ‘documentary film.’  
 I’m thrilled when my films are  selected for festivals that do not affirm a particular genre. This  compartmentalisation tends to disappear, I hope. Finally, the  difference between a fiction film and a documentary is the work  they are based on. In the first case there is a scenario written in  advance and in the second, the scenario is written while shooting  the film. In any case that’s the way I work, I write while shooting. In documentary  film, the matter of what is real determines the story. I work on what is alive,  which ultimately carries more fiction. With _143 Sahara Street_ the story sweeps  through many aspects of Algerian society. This was also found in your previous  film whose title is becoming a popular expression. Are there any prefigurations  or intuitions of what is happening in Algeria at the moment? I won’t look for  archetypes. I am not into a sociological approach. First and foremost, I try to  do cinema. As for what is happening in Algeria today, it is inevitably something  that was already stirring our entire society but was a bit buried. If we portray  accurately a place or a character, it can become a microcosm that reveals  an entire society or country. So yes, there were signs that are easier to spot  afterwards. But I did not try to reveal them and everyone is free to interpret the  film as they see fit.<br>
-**Hassen Ferhani interviewed by Ameziane Ferhani, Production notes**
+**Hassen Ferhani interviewed by Ameziane Ferhani, Production notes**<br>
+
+<![endif]-->
+
+**143 Sahara Street (143 rue du desert)**
+
+_A film by:_ Hassen Ferhani
+
+_Producers:_ Narimane Mari,  Olivier Boischot,
+
+Michel Haas, Allers Retours Films,
+
+Centrale Électrique
+
+_Director of Photography_: Hassen Ferhani
+
+_Editors:_ Stéphanie Sicard,  Nadia Ben Rachid,
+
+Nina Khada, Hassen Ferhani
+
+_Sound Mixer:_ Benjamin Laurent
+
+_Sound:_ Mohamed Ilyas Guetal,  Antoine Morin
+
+_With:_
+
+Malika
+
+Chawki Amari
+
+Samir Elhakim
+
+Algeria/France/Qatar 2019
+
+100 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjAxMzM2XX0=
+eyJoaXN0b3J5IjpbODE3OTEyMDAyXX0=
 -->
