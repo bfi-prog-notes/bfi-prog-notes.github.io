@@ -52,9 +52,9 @@ _Line Producers_: Stephen Traynor, Sylvie Trudelle, Sylvie Trudelle _Montreal Cr
 _Associate Producers_: Phoebe Greenberg, Penny Mancuso, Ziad Touma  
 _Post-production Supervisor_: Érik Daniel  
 _1st Assistant Director_: Éric Parenteau  
-_Casting_: Lucie Robitaille, Lara Atalla, Constance Demontoy  
+_Casting_: Lucie Robitaille, Lara Atalla,Constance Demontoy  
 _Screenplay and Dialogue_: Denis Villeneuve  
-_With the collaboration of_: Valérie Beaugrand-Champagne  
+_With the collaboration of_:Valérie Beaugrand-Champagne  
 _Based on the play by_: Wajdi Mouawad  
 _Cinematography_: André Turpin  
 _Digital Visual Effects_: Rodeo FX  
@@ -132,3 +132,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAwNDQwMTVdfQ==
+-->
