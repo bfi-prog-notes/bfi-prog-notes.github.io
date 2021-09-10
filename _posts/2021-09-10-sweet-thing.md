@@ -27,22 +27,15 @@ Something of a self-dare to see if he was still a real filmmaker: Rockwell enlis
 **Leigh Singer, _Sight and Sound_, October 2021**
 <br><br>
 
-**SW THING**
+**SWEET THING**<br>
+_Director:_ Alexandre Rockwell<br>
+_Written by:_ Alexandre Rockwell<br>
+_Cinematography:_ Lasse Tolboll<br>
+_Editing:_ Alan Wu<br>
+_Production Designer:_ Andy Curtin<br>
+_Wardrobe:_ Haley Anderson<br>
 
-_Director:_ Alexandre Rockwell
-
-_Written by:_ Alexandre Rockwell
-
-_Cinematography:_ Lasse Tolboll
-
-_Editing:_ Alan Wu
-
-_Production Designer:_ Andy Curtin
-
-_Wardrobe:_ Haley Anderson
-
-_Cast:_
-
+**Cast**<br>
 Lana Rockwell  
 Nico Rockwell  
 Jabari Watkins  
@@ -51,11 +44,11 @@ Karyn Parsons
 Will Patton  
 Steven Randazzo
 
-USA 2020
-
+USA 2020<br>
 91 mins
 
 A Eureka! release
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDY5MDQzMF19
+eyJoaXN0b3J5IjpbLTEwODY3OTgwMzJdfQ==
 -->
