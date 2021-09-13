@@ -19,7 +19,8 @@ _You did not expect such an intense encounter?_
 
 I already knew that Amari had identified interesting characters for his book but was far from imagining how interesting Malika could be, especially from a cinematographic point of view. As soon as I walked into her place, I knew that’s where my movie was. The idea came to me that, here, we could do an inverted road movie.
 
-A paradoxical idea in appearance, because after all, what is a road movie if not a film that happens on the road? Here we were in a place on the road that exists because of the road and for the road the truckers. I loved this simple place that housed so many things, in addition to the charisma and strength of this woman, who is there in the middle of nowhere. It is incredible what can be said and can occur within a 20 square meter space and in one of the largest deserts in the world.
+A paradoxical idea in appearance, because after all, what is a road movie if not a film that happens on the road? Here we were in a place on the road that exists because of the road and for the road the truckers. I loved this simple place that housed so many things, in addition to the charisma and strength of this woman, who is there in the middle of nowhere. It is incredible what can be said and can occur within a 20 square meter space and in one of the largest deserts in  
+the world.
 
 _In the middle of nowhere, as you say…_
 
@@ -47,7 +48,8 @@ For the first point, it’s both  right and wrong. I am one of the directors who
 
 _You’re often invited to move on to fiction. Does this touch you?_
 
-To tell you the truth, I do not really like the  designation ‘documentary film.’ I’m thrilled when my films are  selected for festivals that do not affirm a particular genre. This  compartmentalisation tends to disappear, I hope. Finally, the  difference between a fiction film and a documentary is the work  they are based on. In the first case there is a scenario written in  advance and in the second, the scenario is written while shooting  the film. In any case that’s the way I work, I write while shooting. In documentary  film, the matter of what is real determines the story. I work on what is alive,  which ultimately carries more fiction. With _143 Sahara Street_ the story sweeps  through many aspects of Algerian society. This was also found in your previous  film whose title is becoming a popular expression. Are there any prefigurations  or intuitions of what is happening in Algeria at the moment? I won’t look for  archetypes. I am not into a sociological approach. First and foremost, I try to  do cinema. As for what is happening in Algeria today, it is inevitably something  that was already stirring our entire society but was a bit buried. If we portray  accurately a place or a character, it can become a microcosm that reveals  an entire society or country. So yes, there were signs that are easier to spot  afterwards. But I did not try to reveal them and everyone is free to interpret the  film as they see fit.<br>
+To tell you the truth, I do not really like the  designation ‘documentary film.’  
+I’m thrilled when my films are  selected for festivals that do not affirm a particular genre. This  compartmentalisation tends to disappear, I hope. Finally, the  difference between a fiction film and a documentary is the work  they are based on. In the first case there is a scenario written in  advance and in the second, the scenario is written while shooting  the film. In any case that’s the way I work, I write while shooting. In documentary  film, the matter of what is real determines the story. I work on what is alive,  which ultimately carries more fiction. With _143 Sahara Street_ the story sweeps  through many aspects of Algerian society. This was also found in your previous  film whose title is becoming a popular expression. Are there any prefigurations  or intuitions of what is happening in Algeria at the moment? I won’t look for  archetypes. I am not into a sociological approach. First and foremost, I try to  do cinema. As for what is happening in Algeria today, it is inevitably something  that was already stirring our entire society but was a bit buried. If we portray  accurately a place or a character, it can become a microcosm that reveals  an entire society or country. So yes, there were signs that are easier to spot  afterwards. But I did not try to reveal them and everyone is free to interpret the  film as they see fit.<br>
 **Hassen Ferhani interviewed by Ameziane Ferhani, Production notes**<br>
 
 
@@ -121,5 +123,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODMwMjU2XX0=
+eyJoaXN0b3J5IjpbMTYwOTY5NzcwLC0yOTgzMDI1Nl19
 -->
