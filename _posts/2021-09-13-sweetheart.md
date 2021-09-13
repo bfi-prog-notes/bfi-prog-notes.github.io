@@ -23,8 +23,66 @@ In 2016 whilst still at UEA, she made her small screen debut as Beatrice Gresham
 **Jo**  **Hartley**  
 Manchester-born Jo Hartley has appeared in some of the UK’s most cutting-edge films and dramas. Starting her professional career in Shane Meadows’ _Dead Man’s Shoes_, her career to date has shown huge range and versatility. Jo was recently seen starring in the BBC Three comedy-drama _In My Skin_.  
 It piloted in 2018 to critical acclaim, with it claiming a BAFTA Wales Award for Best TV Drama. In 2020, Jo also reprised her role as ‘June’ in the second season of Ricky Gervais’ critically acclaimed comedy drama _After Life_ for Netflix. Perhaps best known for her role as the warm and lovable ‘Cynth’ in the multi award-winning _This Is England_, Jo has also appeared in _Eddie the Eagle_, _Life on the Road_, _Slaughterhouse Rulez_, _The Jury_, _Stolen_, _Moving On_, _Bliss_, _Vera_, _The Mimic_, _Not Safe for Work_, _Torvill and Dean_, _Sick of It_, _Temple_ and _Don’t Forget the Driver_.
+<br><br>
+
+**SWEETHEART**  
+_Directed by_: Marley Morrison  
+©: Over A Cliff Ltd.  
+_a_ Hazey Jane Films _and_ Microwave _production_  
+_in association with_: Bohemia Media,  SUMS Film & Media  
+_Made with the support of the_: BFI’s Film Fund  
+_Presented by_: Film London, BBC Films, BFI  
+_Executive Producers_: Phil Hunt, Lucy Fenton,  Anna Antoniou, Safitri Widagdo, Pietro Greppi, Adam Antoniades, Andy Brunskill,  Evan Leighton-Davies  
+_Produced by_: Michelle Antoniades  
+_Line Producer_: Alexa Waugh  
+_1st Assistant Director_: Amber Tordoff-Gibson  
+_Script Supervisor_: Rebecca King  
+_Casting Director_: Carolyn McLeod  
+_Written by_: Marley Morrison  
+_Directors of Photography_: Matt Wicks,  Emily Almond Barr  
+_Unit Photographer_: Chloe Sheppard  
+_Editor_: Keelan Gumbley  
+_Production Designer_: Carys Beard  
+_Costume Designer_: Amy Thompson  
+_Make-up Designer_: Amelia Mara Kildear  
+_Make-up Artist_: Olta Citozzi  
+_Digital Colourist_: Sam Chynoweth  
+_Original Score by_: Toydrum  
+_Music Supervisor_: Jenn Egan  
+_Additional Music Supervision_: James Griffith  
+_Production Sound Recordist_: Paul Caton
+
+**Cast**  
+Nell Barlow _(AJ)_  
+Jo Hartley _(Tina)_  
+Ella-Rae Smith _(Isla)_  
+Sophia Di Martino _(Lucy)_  
+Samuel Anderson _(Steve)_  
+Tabitha Byron _(Dayna)_  
+Steffan Cennydd _(Nathan)_  
+William Andrews _(Phil the magician)_  
+Spike Fearn _(Elvis)_  
+Anna Antoniades _(Gemma G)_  
+Celeste De Veazey _(Bendy Wendy)_  
+Elizabeth Grace Hartley _(cabaret singer)_  
+Davey Hunter Jones _(Christoph)_  
+Jack Hamson _(Jamie)_  
+Kayleigh Brown _(Jemma J)_  
+Keelan Gumbley _(Keith the barman)_  
+Jamie Hagley _(guy in caravan)_  
+Anne Rathbone _(woman in locker room)_  
+Baker Terry, Celeste De Veazey _(TV show actors)_  
+Davey Hunter Jones _(dad’s voice)_  
+Claire Weston _(mum)_  
+Julia Abbiss _(daughter)_
+
+UK 2021©  
+104 mins
+
+Courtesy of Peccadillo Pictures
+<br><br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NjQ4MTMxXX0=
+eyJoaXN0b3J5IjpbLTIxMTk0NDUzODJdfQ==
 -->
