@@ -4,7 +4,7 @@ title: The Fallen Idol
 published: true
 date: 2021-09-13
 readtime: true
-categories: ['SENIORS' FREE MATINEE']
+categories: ['SENIORS FREE MATINEE']
 tags: [Drama]
 metadata: 'UK 1948, 95 mins<br> Director: Carol Reed'
 pdf: '2021-09-13-fallen-idol.pdf'
