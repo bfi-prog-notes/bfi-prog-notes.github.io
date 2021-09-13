@@ -16,8 +16,7 @@ It’s interesting that Greene misremembers his own story. In ‘The Basement Ro
 
 This let-down may explain why _The Fallen Idol_ has never stood as high in critical esteem as _Odd Man Out_ or _The Third Man_. But up to that point _Idol_ is a supremely controlled piece of filmmaking that not even William Alwyn’s heavy-handed score can disrupt. Above all, it shows Reed’s consummate skill as a director of actors. Michael Redgrave described him as ‘the gentlest of directors ... able, with infinite pains and care, to bestow on his actors the feeling that everything was up to them and that all he was doing was to make sure that they were seen to their best advantage.’ His direction of Ralph Richardson and the young Bobby Henrey (who had never acted before) has been rightly praised, but his handling of Sonia Dresdel as Mrs Baines is almost more remarkable, bringing out the desperate loneliness beneath her spite, the frustration of a woman whose husband has long since abandoned her for his private fantasy world.
 
-**Carol Reed: 1906-1976**
-
+**Carol Reed: 1906-1976**  
 Born in Putney, the illegitimate son of actor-manager Sir Herbert Beerbohm Tree, Carol Reed entered the acting profession in 1924. After working as assistant to crime novelist Edgar Wallace at British Lion, he moved in 1932 to Ealing Studios, where he directed his debut feature _Midshipman Easy_ in 1935.
 
 Versatile and unfailingly workmanlike, Reed went on to make a mixed bag of movies, which ranged from social drama (_Bank_ _Holiday_, 1938) to screwball comedy (_Climbing_ _High_, 1939). His first major film, _The Stars Look Down_ (1939), adapted from a novel by A.J. Cronin, brought grim documentary authenticity to its pit-head scenes. Having established himself as a major figure in the British film industry, Reed then directed one of the best wartime propaganda films, _The Way Ahead_ (1944).
@@ -26,27 +25,21 @@ After the war he hit his stride with a trio of films – _Odd Man Out_ (1947),
 _The_ _Fallen_ _Idol_ (1948) and _The_ _Third_ _Man_ (1949) that earned him the status of Britain’s finest director. But then he seemed to lose his way. A Conrad adaptation, _Outcast of the Islands_ (1951), proved a disappointment, and  _The_ _Man Between_ (1953) felt like a tired retread of _The Third Man_.
 
 The rest of his career represented a sad decline, with sentimental whimsy  
-(_A Kid for Two Farthings_, 1954) and routine thrillers (_The Running Man_, 1963) interspersed with overblown international tosh (_Trapeze_, 1956; _The Agony and the Ecstasy_, 1965). Only twice was there something of a return to form:  _Our Man in Havana_ (1959) reunited Reed with Graham Greene in a stylish, sardonic spy comedy; and a stack of Academy Awards, including a best-director Oscar, greeted _Oliver!_ (1968).
+(_A Kid for Two Farthings_, 1954) and routine thrillers (_The Running Man_, 1963) interspersed with overblown international tosh (_Trapeze_, 1956; _The Agony and the Ecstasy_, 1965). Only twice was there something of a return to form:  _Our Man in Havana_ (1959) reunited Reed with Graham Greene in a stylish, sardonic spy comedy; and a stack of Academy Awards, including a best-director Oscar, greeted _Oliver!_ (1968).  
+**Philip Kemp, _Sight & Sound_, August 2006**
+<br><br>
 
-Philip Kemp, _Sight & Sound_, August 2006
-
-<![endif]-->
-
-**The Fallen Idol**
-
+**THE FALLEN IDOL**  
 _Directed by_: Carol Reed  
-_Production Company/Presented by_:  
-London Film Productions  
+_Production Company/Presented by_:  London Film Productions  
 _Produced by_: Carol Reed  
 _Associate Producer_: Phil Brandon  
 _Production Manager_: Hugh Perceval  
 _Assistant Director_: Guy Hamilton  
 _Continuity_: Peggy McClafferty  
 _Screenplay by_: Graham Greene  
-_Additional Dialogue by_: Lesley Storm,  
-William Templeton  
-_Based upon ‘The Basement Room’ by_:  
-Graham Greene  
+_Additional Dialogue by_: Lesley Storm,  William Templeton  
+_Based upon ‘The Basement Room’ by_:  Graham Greene  
 _Photography by_: Georges Périnal  
 _Camera Operator_: Denys Coop  
 _Special Effects by_: W. Percy Day  
@@ -64,8 +57,7 @@ _Sound Recording_: Bert Ross, Red Law
 _Produced at_: London Film Studios Shepperton  
 _Studio_: Worton Hall Studios *
 
-_Cast:_
-
+**Cast**  
 Michèle Morgan _(Julie)_  
 Ralph Richardson _(Baines)_  
 Sonia Dresdel _(Mrs Baines)_  
@@ -90,14 +82,13 @@ Ethel Coleridge _(housekeeper)_
 Ralph Norman _(first policeman)_  
 James Swan _(second policeman)_
 
-UK 1948
-
+UK 1948  
 95 mins
 
-* Uncredited
+*Uncredited
 
-**Please note:** this film contains racially  
-offensive language.
+**Please note:** this film contains racially  offensive language.
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTc0MDQ2N119
+eyJoaXN0b3J5IjpbMTIzNjg3MjA2MF19
 -->
