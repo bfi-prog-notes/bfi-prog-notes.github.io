@@ -19,7 +19,7 @@ The cage that trapped Richard Pryor in many of his films of the early 1980s was 
 
 **SILVER STREAK**<br>
 _Director_: Arthur Hiller  
-_Production Company_: Twentieth Century-Fox Film Corporation  
+_Production Company_:Twentieth Century-Fox Film Corporation  
 _Executive Producers_: Frank Yablans, Martin Ransohoff  
 _Producers_: Edward K. Milkis, Thomas L. Miller  
 _Production Managers_: Jack B. Bernstein, Peter V. Herald  
@@ -139,3 +139,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI0MzM3NjE1OF19
+-->
