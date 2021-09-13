@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Sweetheart
+published: true
+date: 2021-09-13
+readtime: true
+categories: ['PREVIEW']
+tags: [Comedy, Drama]
+metadata: 'UK 2021, 104 mins<br> Director: Marley Morrison'
+pdf: '2021-09-13-sweetheart.pdf'
+---
 
 _+ Q&A with director Marley Morrison and actors Nell Barlow and Jo Hartley_
 
@@ -17,12 +27,10 @@ This complex combination of judgement and concern clearly underpins AJ’s depre
 With a background in music videos, Marley’s first narrative short _Sticks & Stones_ was screened as part of the BFI Future Film RAW shorts scheme in 2014. Marley was one of six filmmakers chosen for the Encounters Film Festival ‘Widening the Lens’ competition 2016, earning 1st Prize for pitching short film _Baby Gravy_, a comedy about same-sex parenting. The short was later chosen as part of Film London’s ‘London Calling’ scheme, premiering at BFI London Film Festival 2017 and nominated for the screenwriting award at Underwire Film Festival 2018. Marley’s crowd-funded short film _Leroy_ starring Nathan Bryon has screened at a number of high profile film festivals including LSFF, Aesthetica and was nominated for the prestigious LGBT Iris Prize Best British Short and Youth Jury Award 2018. _Sweetheart_ is Marley’s debut feature, part of the Film London Microwave scheme, supported by BFI and BBC Films. In 2020 Marley was selected as a Film London ‘Lodestar’ celebrating the capital’s emerging creatives.
 
 **Nell**  **Barlow**  
-_Sweetheart_ is Nell’s first feature and also her first leading role. She graduated from the University of East Anglia with a First Class degree in Drama in 2017.  
-In 2016 whilst still at UEA, she made her small screen debut as Beatrice Gresham in Julian Fellowes’ screen adaptation of Anthony Trollope’s novel _Doctor Thorne_, directed by Niall MacCormick for ITV/Amazon. Her next role was Lucy in Channel 4’s controversial, true life drama _Married to a Paedophile_, directed by Collete Camden for Hat Trick. She also voices Elsa Platt in the upcoming animation _Where Is Anne Frank?_, directed by Oscar-nominee Ari Folman, which is due for release in 2021.
+_Sweetheart_ is Nell’s first feature and also her first leading role. She graduated from the University of East Anglia with a First Class degree in Drama in 2017.  In 2016 whilst still at UEA, she made her small screen debut as Beatrice Gresham in Julian Fellowes’ screen adaptation of Anthony Trollope’s novel _Doctor Thorne_, directed by Niall MacCormick for ITV/Amazon. Her next role was Lucy in Channel 4’s controversial, true life drama _Married to a Paedophile_, directed by Collete Camden for Hat Trick. She also voices Elsa Platt in the upcoming animation _Where Is Anne Frank?_, directed by Oscar-nominee Ari Folman, which is due for release in 2021.
 
 **Jo**  **Hartley**  
-Manchester-born Jo Hartley has appeared in some of the UK’s most cutting-edge films and dramas. Starting her professional career in Shane Meadows’ _Dead Man’s Shoes_, her career to date has shown huge range and versatility. Jo was recently seen starring in the BBC Three comedy-drama _In My Skin_.  
-It piloted in 2018 to critical acclaim, with it claiming a BAFTA Wales Award for Best TV Drama. In 2020, Jo also reprised her role as ‘June’ in the second season of Ricky Gervais’ critically acclaimed comedy drama _After Life_ for Netflix. Perhaps best known for her role as the warm and lovable ‘Cynth’ in the multi award-winning _This Is England_, Jo has also appeared in _Eddie the Eagle_, _Life on the Road_, _Slaughterhouse Rulez_, _The Jury_, _Stolen_, _Moving On_, _Bliss_, _Vera_, _The Mimic_, _Not Safe for Work_, _Torvill and Dean_, _Sick of It_, _Temple_ and _Don’t Forget the Driver_.
+Manchester-born Jo Hartley has appeared in some of the UK’s most cutting-edge films and dramas. Starting her professional career in Shane Meadows’ _Dead Man’s Shoes_, her career to date has shown huge range and versatility. Jo was recently seen starring in the BBC Three comedy-drama _In My Skin_.  It piloted in 2018 to critical acclaim, with it claiming a BAFTA Wales Award for Best TV Drama. In 2020, Jo also reprised her role as ‘June’ in the second season of Ricky Gervais’ critically acclaimed comedy drama _After Life_ for Netflix. Perhaps best known for her role as the warm and lovable ‘Cynth’ in the multi award-winning _This Is England_, Jo has also appeared in _Eddie the Eagle_, _Life on the Road_, _Slaughterhouse Rulez_, _The Jury_, _Stolen_, _Moving On_, _Bliss_, _Vera_, _The Mimic_, _Not Safe for Work_, _Torvill and Dean_, _Sick of It_, _Temple_ and _Don’t Forget the Driver_.
 <br><br>
 
 **SWEETHEART**  
@@ -80,7 +88,39 @@ UK 2021©
 104 mins
 
 Courtesy of Peccadillo Pictures
-<br><br>
+
+<img style="float: left;" src="/img/flare-logo-2020-01.png" width="40%" height="40%"><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+**IN PERSON & PREVIEWS**<br>
+**Prime Suspect: 30th Anniversary (First Series Complete Screening)**<br>
+Sun 19 Sep 14:00<br>
+**Lynda La Plante in Conversation**<br>
+Sun 19 Sep 18:45<br>
+**Preview: Convergence + Q&A with director Orlando von Einsiedel and co-director and film contributor Hassan Akkad**<br>
+Wed 29 Sep 19:00<br>
+**60th Anniversary: Whistle Down the Wind  + actor Hayley Mills in Conversation**<br>
+Sun 3 Oct 12:00<br>
+**Preview: Dune + pre-recorded Q&A  with Denis Villeneuve**<br>
+Tue 5 Oct 18:30<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 
 <!--stackedit_data:
