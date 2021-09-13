@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Fallen Idol
+published: true
+date: 2021-09-13
+readtime: true
+categories: ['SENIORS' FREE MATINEE']
+tags: [Drama]
+metadata: 'UK 1948, 95 mins<br> Director: Carol Reed'
+pdf: '2021-09-13-fallen-idol.pdf'
+---
 
 **SPOILER WARNING  The following notes give away some of the plot.**
 
@@ -21,11 +31,9 @@ Born in Putney, the illegitimate son of actor-manager Sir Herbert Beerbohm Tree,
 
 Versatile and unfailingly workmanlike, Reed went on to make a mixed bag of movies, which ranged from social drama (_Bank_ _Holiday_, 1938) to screwball comedy (_Climbing_ _High_, 1939). His first major film, _The Stars Look Down_ (1939), adapted from a novel by A.J. Cronin, brought grim documentary authenticity to its pit-head scenes. Having established himself as a major figure in the British film industry, Reed then directed one of the best wartime propaganda films, _The Way Ahead_ (1944).
 
-After the war he hit his stride with a trio of films – _Odd Man Out_ (1947),  
-_The_ _Fallen_ _Idol_ (1948) and _The_ _Third_ _Man_ (1949) that earned him the status of Britain’s finest director. But then he seemed to lose his way. A Conrad adaptation, _Outcast of the Islands_ (1951), proved a disappointment, and  _The_ _Man Between_ (1953) felt like a tired retread of _The Third Man_.
+After the war he hit his stride with a trio of films – _Odd Man Out_ (1947),  _The_ _Fallen_ _Idol_ (1948) and _The_ _Third_ _Man_ (1949) that earned him the status of Britain’s finest director. But then he seemed to lose his way. A Conrad adaptation, _Outcast of the Islands_ (1951), proved a disappointment, and  _The_ _Man Between_ (1953) felt like a tired retread of _The Third Man_.
 
-The rest of his career represented a sad decline, with sentimental whimsy  
-(_A Kid for Two Farthings_, 1954) and routine thrillers (_The Running Man_, 1963) interspersed with overblown international tosh (_Trapeze_, 1956; _The Agony and the Ecstasy_, 1965). Only twice was there something of a return to form:  _Our Man in Havana_ (1959) reunited Reed with Graham Greene in a stylish, sardonic spy comedy; and a stack of Academy Awards, including a best-director Oscar, greeted _Oliver!_ (1968).  
+The rest of his career represented a sad decline, with sentimental whimsy  (_A Kid for Two Farthings_, 1954) and routine thrillers (_The Running Man_, 1963) interspersed with overblown international tosh (_Trapeze_, 1956; _The Agony and the Ecstasy_, 1965). Only twice was there something of a return to form:  _Our Man in Havana_ (1959) reunited Reed with Graham Greene in a stylish, sardonic spy comedy; and a stack of Academy Awards, including a best-director Oscar, greeted _Oliver!_ (1968).  
 **Philip Kemp, _Sight & Sound_, August 2006**
 <br><br>
 
@@ -89,6 +97,53 @@ UK 1948
 
 **Please note:** this film contains racially  offensive language.
 <br><br>
+
+**BIG SCREEN CLASSICS**<br>
+**The Stranger**<br>
+Wed 1 Sep 18:00 (+ pre-recorded intro by film critic Farran Smith Nehme); Fri 17 Sep 21:00;  Fri 1 Oct 14:30<br>
+**Detective Story**<br>
+Thu 2 Sep 18:00; Fri 24 Sep 18:00; Sun 3 Oct 12:10<br>
+**Double Indemnity**<br>
+Thu 2 Sep 14:45; Sun 12 Sep 15:00;  Wed 29 Sep 17:45 (+ intro by Lucy Bolton, Queen Mary University of London); Sat 2 Oct 20:50<br>
+**Call Northside 777**<br>
+Fri 3 Sep 20:40; Thu 9 Sep 14:30;  Tue 14 Sep 17:50; Mon 20 Sep 17:50<br>
+**The Hound of the Baskervilles**<br>
+Sat 4 Sep 15:15; Thu 30 Sep 18:15<br>
+**Cry of the City**<br>
+Sun 5 Sep 18:10; Thu 9 Sep 18:10;  Sat 18 Sep 21:00; Tue 21 Sep 14:45<br>
+**The Undercover Man**<br>
+Mon 6 Sep 18:10; Thu 23 Sep 14:45;  Sun 26 Sep 12:00<br>
+**The Big Sleep**<br>
+Tue 7 Sep 20:45; Sun 19 Sep 11:00;  Mon 4 Oct 17:45<br>
+**Laura**<br>
+Wed 8 Sep 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Thu 16 Sep 14:30;  Tue 21 Sep 21:00; Fri 1 Oct 20:50<br>
+**The Third Man**<br>
+Wed 8 Sep 21:00; Fri 10 Sep 14:30;  Tue 14 Sep 20:50; Sat 2 Oct 11:30<br>
+**Rear Window**<br>
+Thu 9 Sep 20:45; Wed 15 Sep 17:20 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Sat 25 Sep 11:30; Tue 28 Sep 20:45;  Tue 5 Oct 14:30<br>
+**The Big Heat**<br>
+Sat 11 Sep 14:30; Mon 13 Sep 21:00;  Wed 22 Sep 18:00 (+ intro by Simran Hans,  writer and film critic for ‘The Observer’);  Mon 27 Sep 17:50<br>
+**Philosophical Screens: Temptation and Coincidence in ‘Double Indemnity’**<br>
+Wed 29 Sep 20:00 Blue Room<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTIzNjg3MjA2MF19
 -->
