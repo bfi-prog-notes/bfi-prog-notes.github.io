@@ -33,23 +33,22 @@ Wed 22 Sep 20:45; Sat 2 Oct 18:00<br>
 Thu 23 Sep 20:45; Sun 3 Oct 15:15<br>
 **The Bingo Long Traveling All-Stars  & Motor Kings**<br>
 Sat 25 Sep 14:45<br>
-**Which Way Is Up?**
-Sun 26 Sep 18:10
-**Lady Sings the Blues**
-Mon 27 Sep 20:20
-**Car Wash**
-Tue 28 Sep 20:50
-**Silver Streak**
-Wed 29 Sep 20:45
-**Richard Pryor: Live in Concert**
-Fri 1 Oct 18:00
-**Jo Jo Dancer, Your Life Is Calling**
+**Which Way Is Up?**<br>
+Sun 26 Sep 18:10<br>
+**Lady Sings the Blues**<br>
+Mon 27 Sep 20:20<br>
+**Car Wash**<br>
+Tue 28 Sep 20:50<br>
+**Silver Streak**<br>
+Wed 29 Sep 20:45<br>
+**Richard Pryor: Live in Concert**<br>
+Fri 1 Oct 18:00<br>
+**Jo Jo Dancer, Your Life Is Calling**<br>
 Mon 4 Oct 20:45<br>
 
-A Pryor Engagement was originally programmed by Nellie Killian for BAMcinématek in 2013
+A Pryor Engagement was originally programmed by Nellie Killian for BAMcinématek in 2013<br>
 
-This season is presented in partnership with  
-We Are Parable
+This season is presented in partnership with  We Are Parable<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4ODEyODEyLDIwODk3OTIzNzddfQ==
+eyJoaXN0b3J5IjpbMTcyNDczMjYwOCwyMDg5NzkyMzc3XX0=
 -->
