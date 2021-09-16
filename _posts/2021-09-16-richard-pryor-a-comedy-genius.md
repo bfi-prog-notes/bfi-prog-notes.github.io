@@ -10,69 +10,46 @@ Join us for a richly illustrated panel discussion, presented in partnership with
 **Host: Anthony Andrews** is a multi-award winning co-founder and creative director of We Are Parable, a film exhibition company which provides audiences across the UK opportunities to experience Black Cinema in culturally relevant and memorable ways. With a decade’s experience in the film industry, Anthony has collaborated with some of the biggest studios in the world, including Netflix, Warner Brothers, Prime Video, Marvel and Disney.  
 Since forming the business, Anthony has worked with Idris Elba, Justin Simien, Amma Asante and Spike Lee and has interviewed Academy Award winners Steve McQueen and Jennifer Hudson. In 2020, Anthony co-curated Who We Are, an unprecedented digital takeover of the BFI, which celebrated the canon of Black British Cinema. Earlier this year, a new iteration of Who We Are was launched, with We Are Parable creating experiences for Black Cinema across the UK, whilst collaborating with some of the UK’s most well-known independent cinemas.<br>
 
-**A PRYOR ENGAGEMENT**
-**Richard Pryor: A Comedy Genius**
-Thu 16 Sep 18:15
-**Blue Collar**
-Fri 17 Sep 20:40 (+ pre-recorded intro);  
-Tue 5 Oct 17:35
-**Wattstax**
-Sat 18 Sep 20:10
-**Stir Crazy**
-Sun 19 Sep 18:10; Fri 1 Oct 20:30
-**Some Call It Loving**
-Mon 20 Sep 18:00 (+ pre-recorded intro)
-**Bustin’ Loose**
-Mon 20 Sep 21:00; Sun 3 Oct 18:10
+**A PRYOR ENGAGEMENT**<br>
+**Richard Pryor: A Comedy Genius**<br>
+Thu 16 Sep 18:15<br>
+**Blue Collar**<br>
+Fri 17 Sep 20:40 (+ pre-recorded intro);  Tue 5 Oct 17:35<br>
+**Wattstax**<br>
+Sat 18 Sep 20:10<br>
+**Stir Crazy**<br>
+Sun 19 Sep 18:10; Fri 1 Oct 20:30<br>
+**Some Call It Loving**<br>
+Mon 20 Sep 18:00 (+ pre-recorded intro)<br>
+**Bustin’ Loose**<br>
+Mon 20 Sep 21:00; Sun 3 Oct 18:10<br>
 **Richard Pryor: Live on the Sunset Strip**
-
-Tue 21 Sep 18:00 (+ discussion); Mon 4 Oct 18:20
-
-**Blazing Saddles**
-
-Wed 22 Sep 18:15
-
-**Richard Pryor... Here and Now**
-
-Wed 22 Sep 20:45; Sat 2 Oct 18:00
-
-**Brewster’s Millions**
-
-Thu 23 Sep 20:45; Sun 3 Oct 15:15
-
-**The Bingo Long Traveling All-Stars  
-& Motor Kings**
-
-Sat 25 Sep 14:45
-
+Tue 21 Sep 18:00 (+ discussion); Mon 4 Oct 18:20<br>
+**Blazing Saddles**<br>
+Wed 22 Sep 18:15<br>
+**Richard Pryor... Here and Now**<br>
+Wed 22 Sep 20:45; Sat 2 Oct 18:00<br>
+**Brewster’s Millions**<br>
+Thu 23 Sep 20:45; Sun 3 Oct 15:15<br>
+**The Bingo Long Traveling All-Stars  & Motor Kings**<br>
+Sat 25 Sep 14:45<br>
 **Which Way Is Up?**
-
 Sun 26 Sep 18:10
-
 **Lady Sings the Blues**
-
 Mon 27 Sep 20:20
-
 **Car Wash**
-
 Tue 28 Sep 20:50
-
 **Silver Streak**
-
 Wed 29 Sep 20:45
-
 **Richard Pryor: Live in Concert**
-
 Fri 1 Oct 18:00
-
 **Jo Jo Dancer, Your Life Is Calling**
-
-Mon 4 Oct 20:45
+Mon 4 Oct 20:45<br>
 
 A Pryor Engagement was originally programmed by Nellie Killian for BAMcinématek in 2013
 
 This season is presented in partnership with  
 We Are Parable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjgzNzUyNTIsMjA4OTc5MjM3N119
+eyJoaXN0b3J5IjpbMzg4ODEyODEyLDIwODk3OTIzNzddfQ==
 -->
