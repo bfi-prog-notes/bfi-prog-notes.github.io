@@ -32,7 +32,7 @@ Sun 19 Sep 18:10; Fri 1 Oct 20:30<br>
 Mon 20 Sep 18:00 (+ pre-recorded intro)<br>
 **Bustin’ Loose**<br>
 Mon 20 Sep 21:00; Sun 3 Oct 18:10<br>
-**Richard Pryor: Live on the Sunset Strip**
+**Richard Pryor: Live on the Sunset Strip**<br>
 Tue 21 Sep 18:00 (+ discussion); Mon 4 Oct 18:20<br>
 **Blazing Saddles**<br>
 Wed 22 Sep 18:15<br>
