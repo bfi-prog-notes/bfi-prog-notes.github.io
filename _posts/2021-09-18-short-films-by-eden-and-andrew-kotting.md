@@ -30,40 +30,35 @@ In 2001 he directed the first of his Earthworks Trilogy; _This Filthy Earth_, in
 
 His 28-year oeuvre to date has moved from early live-art inflected, often absurdist pieces, through darkly comic shorts teasing out the melancholy surrealism at the heart of contemporary Englishness to eight resolutely independent feature films that take biography, landscape and journeys as springboards into the making of visually striking and structurally inventive enquiries into identity, belonging, history and notions of the folkloric.
 
-**Eden Kötting** was born in 1988 with a rare genetic disorder; Joubert Syndrome. She grew up in London and developed a keen interest in drawing and painting.  
-In 1996 she appeared in her father’s experimental feature film _Gallivant_ along with her Great Grandmother Gladys. She had her first solo exhibition in Evelyn Street, Deptford in 1999. In 2002 she collaborated with Dr Mark Lythgoe, Giles Lane and Andrew Kötting on the multi-media SciArt project _Mapping Perception_.
+**Eden Kötting** was born in 1988 with a rare genetic disorder; Joubert Syndrome. She grew up in London and developed a keen interest in drawing and painting.  In 1996 she appeared in her father’s experimental feature film _Gallivant_ along with her Great Grandmother Gladys. She had her first solo exhibition in Evelyn Street, Deptford in 1999. In 2002 she collaborated with Dr Mark Lythgoe, Giles Lane and Andrew Kötting on the multi-media SciArt project _Mapping Perception_.
 
 In 2005 she moved to St Leonards-on-Sea and attended 6th Form College at Glyne Gap where she further developed her drawing and painting skills. In 2006 her work was chosen to be part of a group show at Tate Modern organised by Project Artworks (an artist led collective that works with people who have complex needs who have recently been nominated for the Turner Prize, 2021).
 
-Eden continues to collaborate with her father Andrew on numerous multi-media art projects, which include exhibitions, installations, performances and bookworks.  
-In 2015 they also collaborated with the animator Glenn Whiting, which has seen the production of numerous short films commissioned by Channel 4 Random Acts, HOME in Manchester and most recently the BFI for the short film _Diseased & Disorderly_.
+Eden continues to collaborate with her father Andrew on numerous multi-media art projects, which include exhibitions, installations, performances and bookworks.  In 2015 they also collaborated with the animator Glenn Whiting, which has seen the production of numerous short films commissioned by Channel 4 Random Acts, HOME in Manchester and most recently the BFI for the short film _Diseased & Disorderly_.
 
 Eden is presently part of the Wednesday Mentoring Group at Project Artworks and shares a studio with her father in St Leonards-on-Sea where they are developing a VR project; The Tell-Tale Rooms.
 
 **Gareth Evans** is a London-based writer, editor, film and event producer and Whitechapel Gallery’s Adjunct Moving Image Curator. He hosts the LRB Screen at Home programme and has co-curated the Forum of the Future Porto, Estuary, First Light, Flipside and Swedenborg Film Festivals. He commissioned and co-produced the essay films _Patience (After Sebald)_ by Grant Gee (Artevents, 2011), _Things_ (Ben Rivers, FVU, 2014) and _World Without End_ (Jem Cohen, Estuary, 2016). He has programmed major retrospectives of the films of Jem Cohen, Mike Dibb, Xiaolu Guo, Alexander Kluge, Chris Marker, Jonathan Meades and Laura Mulvey & Peter Wollen, alongside numerous film / event seasons and festivals across the UK.
-
-<![endif]-->
+<br><br>
 
 **Programme**
 
-**Mapping Perception**
-
+**Mapping Perception**  
 2002, 37 mins
 
-**The Sun Came Dripping a  
-Bucket Full of Gold**
-
+**The Sun Came Dripping a  Bucket Full of Gold**  
 2014, 4 mins
 
-**All in the Mind**
-
+**All in the Mind**  
 2015, 4 mins
 
-**In Far Away Land**
-
+**In Far Away Land**  
 2019, 6 mins
 
 Total runtime 100 mins
+<br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1MzExMTk3XX0=
+eyJoaXN0b3J5IjpbLTk3ODI1NzQ3OF19
 -->
