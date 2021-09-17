@@ -94,52 +94,32 @@ Andrew Abrahams _(Tilly)_<br>
 Fionnuala Ellwood _(Joyce)_<br>
 Maria Mescki, Martin Reeve,  John Ireland _(lab assistants)_<br>
 Francesca Ryan _(Marianne)_<br>
-
 Jeremy Warder _(Joey)_<br>
-
 Michael Fleming _(Major Howard)_<br>
-
 Daphne Neville _(Mrs Howard)_<br>
-
 Julie Sumnall _(Karen)_<br>
-
 Ralph Fiennes _(Michael)_<br>
-
 Wilfred Harrison _(Mr Tennison)_<br>
-
 Noël Dyson _(Mrs Tennison)_<br>
-
 Jessica Turner _(Pam)_<br>
-
 Anna Savva _(Mrs Salbanna)_<br>
-
 James Snell _(Arnold Upcher)_<br>
-
 Malcolm Raeburn _(Inspector Sleeth)_<br>
-
 Peter Dennis _(toastmaster)_<br>
-
 Anthony Havering _(barman)_<br>
-
 Mark Anthony Newman _(Doctor Lambton)_<br>
-
 Brian Hayes _(TV presenter)_<br>
-
 Sandra Butterworth _(WPC ‘Karen’)_<br>
-
 Vincent Pickering _(witness)_<br>
-
 Bryonie Pritchard _(WPC Southwood)_<br>
-
 Barbara Dryhurst _(WPC Raeburn)_<br>
-
 Anthony Schaeffer _(uniformed driver)_<br>
 
 ITV tx 7-8.4.1991<br>
-
 UK 1991
 
 207 mins + interval
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyMDg5NjE2XX0=
+eyJoaXN0b3J5IjpbLTE2NjIyNTk4NjBdfQ==
 -->
