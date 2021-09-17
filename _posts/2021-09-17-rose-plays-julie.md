@@ -89,22 +89,17 @@ From Fri 10 Sep<br>
 From Fri 17 Sep<br>
 **Rose Plays Julie**<br>
 From Fri 17 Sep<br>
-**Never Gonna Snow Again  (****S´niegu juz˙ nigdy nie be˛dzie)**<br>
+**Never Gonna Snow Again  (S´niegu juz nigdy nie be dzie)**<br>
 From Fri 22 Oct<br>
-**Seven Samurai (****Shichinin no Samurai)**<br>
+**Seven Samurai (Shichinin no Samurai)**<br>
 From Fri 29 Oct<br>
 **Naked**<br>
-
 From Fri 12 Nov<br>
-
 **Petite Maman**<br>
-
 From Fri 26 Nov<br>
-
 **Rebel Dykes**<br>
-
 From Fri 26 Nov<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTMxNDUxNl19
+eyJoaXN0b3J5IjpbLTExMTk5NjU2OF19
 -->
