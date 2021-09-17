@@ -33,15 +33,11 @@ In one respect the Sam Spade of Huston’s _The Maltese Falcon_, as portrayed by
 **Contemporary reviews**
 
 The son of a famous father – who incidentally plays a very small part in the film, for luck, perhaps – John Huston has used with effective moderation the idea of the camera seeking and emphasising some characteristic, mental or physical or both of its subject rather than its ordinary form. This approach has undoubtedly added to the strength of the very fine performance of Sydney Greenstreet as Kasper Gutman, the arch-crook, and Mr Huston has been wise enough to confine the idea to one character only. His lighting and camera work is unusual in what would normally be unnoticed sequences. For example, a telephone on a bedside table with night-light upon it from the open window plus a side-lamp, the speaker being out of the picture, but the voice heard.  
-In other words, the picture of a telephone conversation. The story is strong of itself with an unusual ending and fine acting, but it is the treatment which makes it the best thriller so far this year.
+In other words, the picture of a telephone conversation. The story is strong of itself with an unusual ending and fine acting, but it is the treatment which makes it the best thriller so far this year.  
+**Evelyn Russell, _Sight and Sound_, Autumn 1942**
 
-Evelyn Russell, _Sight and Sound_, Autumn 1942
-
-This is a brilliantly directed, brilliantly acted and somewhat unusual film of its type. The atmosphere is well-sustained throughout and the casting is excellent. Mary Astor as the lovely but wicked Brigid is uncommonly attractive, and  
-Lee Patrick gives a good performance as Spade’s efficient and understanding secretary. Spade himself is played with aplomb by Humphrey Bogart.  
-Finally the hitherto unknown Sydney Greenstreet gives a magnificent characterisation as the fat arch-villain.
-
-_Monthly Film Bulletin_, April 1942
+This is a brilliantly directed, brilliantly acted and somewhat unusual film of its type. The atmosphere is well-sustained throughout and the casting is excellent. Mary Astor as the lovely but wicked Brigid is uncommonly attractive, and  Lee Patrick gives a good performance as Spade’s efficient and understanding secretary. Spade himself is played with aplomb by Humphrey Bogart.  Finally the hitherto unknown Sydney Greenstreet gives a magnificent characterisation as the fat arch-villain.  
+**_Monthly Film Bulletin_, April 1942**
 <br><br>
 
 
@@ -164,5 +160,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjc2MTQwNSwxNTUxNDU4ODYwXX0=
+eyJoaXN0b3J5IjpbMTMyNzA5NTYxOSwxNTUxNDU4ODYwXX0=
 -->
