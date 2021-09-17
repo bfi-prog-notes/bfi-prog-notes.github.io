@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Rose Plays Julie
+published: true
+date: 2021-09-17
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Thriller]
+metadata: 'Ireland/UK 2019, 100 mins<br> Directors: Christine Molloy, Joe Lawlor'
+pdf: '2021-09-17-rose-plays-julie.pdf'
+---
 
 It’s during a term studying animal euthanasia that veterinary student Rose (Ann Skelly) decides to contact Ellen (Orla Brady), the birth mother who gave her up for adoption. But Ellen, who is now a successful London-based actress, doesn’t want to know. Undeterred, Rose will not be ignored. And curiosity leads her to discoveries that shake the fragile identity she has built for herself. Directors Christine Molloy and Joe Lawlor have spent years making formally rigorous, atmospheric cinema (_Helen_, _Mister John_, _Further Beyond_) that often deals with the uncanny effects of impersonation and the slippery nature of truth. With _Rose Plays Julie_ they have crafted a slow-burn thriller that builds a sense of dread inside an exquisite world of immaculate architecture, rendered through an icy performance style and enveloped by a claustrophobic soundtrack. Skelly and Brady are both exacting and measured in their delivery, as the film takes us through longing and revenge to arrive at the dark places of power and its abuses. This is frank, immersive and decidedly feminist filmmaking.  
 **Kate Taylor, bfi.org.uk**
@@ -15,8 +25,7 @@ Such tonal multiplicities are a defining feature of Desperate Optimists’ work,
 
 Again like _Top of the Lake_, _Rose Plays Julie_ offers a resistant re-interpretation of the poetic trope of the colonised nation as a raped woman, called the _aisling_ in Irish tradition. Rose’s biological father Peter is a television archaeologist, and the author of a popular book on Irish prehistory.
 
-Meanwhile Ellen is playing an English-accented aristocrat in a film shot in Dublin, and when Rose first meets her, is on the set of a historical drama suggestive of _Call the Midwife_. Her face framed by an old-fashioned nurse’s veil, Ellen looks hauntingly reminiscent of Elle, the female protagonist of _Hiroshima mon amour_, who is in Japan to play a nurse. It’s one of a number of subtle details that build to a powerful choral reminder that sexual violence is not just a private issue between individuals, but underlies the nation-state.  
-Playing Julie to get closer to her birth mother, Rose also teaches Ellen a new role, one that extends beyond lover, nurse or even officer of the law: together they enact not vengeance but reparation. No more potent new myth for our times could exist.  
+Meanwhile Ellen is playing an English-accented aristocrat in a film shot in Dublin, and when Rose first meets her, is on the set of a historical drama suggestive of _Call the Midwife_. Her face framed by an old-fashioned nurse’s veil, Ellen looks hauntingly reminiscent of Elle, the female protagonist of _Hiroshima mon amour_, who is in Japan to play a nurse. It’s one of a number of subtle details that build to a powerful choral reminder that sexual violence is not just a private issue between individuals, but underlies the nation-state.  Playing Julie to get closer to her birth mother, Rose also teaches Ellen a new role, one that extends beyond lover, nurse or even officer of the law: together they enact not vengeance but reparation. No more potent new myth for our times could exist.  
 **So Mayer, _Sight and Sound_, October 2021**
 <br><br>
 
@@ -100,6 +109,24 @@ From Fri 26 Nov<br>
 **Rebel Dykes**<br>
 From Fri 26 Nov<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTExMTk5NjU2OF19
 -->
