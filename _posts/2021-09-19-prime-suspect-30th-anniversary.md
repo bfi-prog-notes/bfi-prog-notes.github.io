@@ -1,1 +1,208 @@
 
+
+This year marks the 30th anniversary of the first transmission of Prime Suspect, created by Lynda La Plante and starring Helen Mirren as the tenacious DCI Jane Tennison. Winning both Emmy and BAFTA awards, the show became an iconic hit – famous for its groundbreaking portrayal of a lead female character overcoming sexism and adversity in the workplace. Enjoy this opportunity to relive the first series on the big screen, ahead of Lynda La Plante’s on-stage interview.  
+**bfi.org.uk**
+
+Granada’s BAFTA award-winning police drama is justifiably viewed as a benchmark in British television – the original’s success paving the way for a string of similarly uncompromising TV crime series including _Cracker_ (ITV, 1993-95), as well as five sequels.
+
+Written by Lynda La Plante, the first _Prime Suspect_ is above all a devastatingly effective suspense thriller which seeks to expose the gritty realities behind the supposedly glamorous world of criminal investigation. Along the way, it overturns several accepted conventions of the British police drama, not least by presenting a woman as the head of a high profile murder investigation.
+
+Brilliant, methodical and resilient, the complex personality of DCI Jane Tennison (Helen Mirren) lies at the heart of the series’ appeal. Her struggle to overcome institutionalised sexism within the force, reconcile her professional responsibilities with a strained personal life and still ensure the killer is brought to justice win her our sympathy as well as our respect.
+
+Mirren’s performance is astonishingly detailed, her every movement executed with a tangible intensity and conviction. Tennison may be a flawed character, frequently aping the arrogance and self-absorption of her male colleagues, but Mirren ensures she is never without humanity.
+
+The investigation rarely runs smoothly, with setbacks, mistakes and red herrings contributing to the sense that Tennison’s role is ultimately a thankless one. Crucial to the suspense is the fact that the viewer is never fully convinced of prime suspect George Marlowe’s (John Bowe) guilt – it is to the script’s credit that this sense of ambiguity is allowed to linger even after the closing credits have run.
+
+The emphasis throughout is on authenticity over sensationalism, and the internal dynamics of the police force are placed under heavy scrutiny. The force is portrayed as an unwieldy, inefficient organisation controlled by an elitist old-boys network.
+
+Tennison’s frequent conflicts with the men on the force are chiefly rooted in her ‘outsider’ status, and the perceived threat she poses to the authority of the male clique: a concern highlighted when her boss DCS Kernan (John Benfield) warns DS Otley (Tom Bell) that ‘she’s wiping the floor with the lot of you.’
+
+Tennison’s character went on to feature in six subsequent _Prime Suspect_ dramas, each distinguished by outstanding performances from Mirren. The series continued to tackle hard-hitting social issues including racism, child abuse and homophobia, though subsequent scripts lacked the vision and impact of the original.  
+**Darren Lee, BFI Screenonline, screenonline.org.uk**
+
+_Prime Suspect_’s original brilliance lay in the way it cleverly advanced a two-pronged narrative, examining the institution of the police itself at the same time as delivering a classically suspenseful thriller. Within this the drama centred both on Tennison’s workplace battle for survival and the investigation’s race to lock up a misogynistic serial killer, showing the issues at stake in each to be intricately entwined. Polite, amiable George Marlow, the likeable ‘Everyman’ under suspicion for the women’s murders, is actually far less menacing than Tennison’s nemesis, DS Otley, a detective who has little patience with the ‘tarts’ he has to deal with on the case. The resonances of such a murder inquiry would have been keenly felt among many UK audiences still conscious of the West Yorkshire Police’s infamous mismanagement of the ‘Yorkshire Ripper’ case in the 1970s to early 1980s. Amy Taubin’s _Village Voice_ review shrewdly evoked the parallels between this real-life case and its fictional counterpart when she observed, ‘The dramatic conflict in _Prime Suspect_ is twofold: Tennison is up against both criminal and institutionalised hatred of women.’ On a further front, one might also add to this that she is ‘up against’ the history of the male-dominated crime series itself.
+
+In no sense was _Prime Suspect_ a series that spoke only to British audiences.  
+It gained worldwide distribution and in the US was broadcast from its inception on public television as part of the prestigious ‘Masterpiece Theatre’ series. Following the first miniseries it was produced by Granada in association with WGBH, the Boston-based non-commercial TV and radio broadcast service and leading producer of US PBS primetime programming. The fact that the ensuing acclaim was won by an ITV drama brought valuable kudos to this commercial channel. _Prime Suspect_ confirmed ITV’s capacity for producing ‘quality’ drama during a period when such standards were highly contested across British television, doing much to demonstrate that it could deliver original, thought-provoking and highly exportable programming. Filmed by turns to evoke the shadowy criminal world of _film noir_ one moment and the starkness of a quasi-documentary the next, the first _Prime Suspect_ established the series as one which was just as rich aesthetically as it was thematically. Looking more like a feature film than a TV cop show at times, its intermittent use of deep-focus photography and startling camera angles alongside its respected theatre- and film-star lead all underscored _Prime Suspect_’s standing as quality television.
+
+In recognition of this, the series would go on to win numerous awards in the US, including three Emmys for ‘Outstanding Miniseries’ and two for ‘Outstanding Lead Actress in a Miniseries or a Special’. Series creator Lynda La Plante would become known as one of the leading TV dramatists in Britain, winning BAFTAs for ‘Best Drama Serial’ in both 1992 and 1994. Over the course of its lifetime, as critics and fans argued in the press and on the Internet about whether Tennison should or shouldn’t attain a happy home life, should or shouldn’t make it to the top brass, should or shouldn’t slip steadily into alcoholism, she would refuse to be bullied out of her profession. Instead she would go on to make the rank of Detective Superintendent, investigating a series of harrowing cases while fighting her own personal demons, losing lovers and family in the process, and somewhere along the way entering the annals of television history as a TV cop who broke the mould.  
+**Extracted from _Prime Suspect_ by Deborah Jermyn (BFI TV Classics, 2010).  
+Reproduced by kind permission of Bloomsbury Publishing. ©Deborah Jermyn**
+<br><br>
+
+**PRIME Suspect**
+
+_Directed by_: Christopher Menaul
+
+_©/Production Company_: Granada Television
+
+_For_: ITV
+
+_Executive Producer_: Sally Head
+
+_Producer_: Don Leaver
+
+_Production Executive_: Craig McNeil
+
+_Production Manager_: David Meddick
+
+_Co-ordinator_: Sue Whitley
+
+_Location Manager_: Lynne Marriott
+
+_1st Assistant Director_: David Weir
+
+_2nd Assistant Director_: Tania Normand
+
+_PA/Continuity_: Hilda Miller
+
+_Casting Director_: Doreen Jones
+
+_Written by_: Lynda La Plante
+
+_Script Associate_: Jenny Sheridan
+
+_Director of Photography_: Ken Morgan
+
+_Camera Operator_: Howard Somers
+
+_Steadicam_: Alf Tramontin
+
+_Focus_: David Bell, Graham Hazard
+
+_Lighting Gaffer_: Jim Camp
+
+_Grip_: Bob Gregory
+
+_Graphic Designer_: Peter Terry
+
+_Film Editor_: Edward Mansell
+
+_Production Designer_: Roy Stonehouse
+
+_Design Assistant_: Chris Stevenson
+
+_Production Buyer_: Trevor Devoy
+
+_Chargehand ASM_: Tony Mills
+
+_Costume Designer_: Sheelagh Killeen
+
+_Wardrobe Supervisor_: Anthony Black
+
+_Make-up Supervisor_: Jane Hatch
+
+_Make-up Assistant_: Tracey Dilly
+
+_Prosthetics_: Mike Moustafi, Colin Ware
+
+_Music_: Stephen Warbeck
+
+_Sound Mixer_: Ray French
+
+_Boom Operator_: Ian Hills
+
+_Dubbing Editors_: David Rees, Simon Walton
+
+_Dubbing Mixer_: Brian Saunders
+
+_Fight Arranger_: Peter Brayham
+
+_Cast:_
+
+Helen Mirren _(DCI Jane Tennison)_
+
+Tom Bell _(DS Bill Otley)_
+
+John Benfield _(DCS Michael Kernan)_
+
+John Bowe _(George Marlow)_
+
+Bryan Pringle _(Felix Norman)_
+
+Zoë Wanamaker _(Moyra Henson)_
+
+Tom Wilkinson _(Peter Rawlins)_
+
+John Forgeham _(DCI John Shefford)_
+
+Craig Fairbrass _(DI Frank Burkin)_
+
+Jack Ellis _(DI Tony Muddyman)_
+
+Mossie Smith _(WPC Maureen Havers)_
+
+Ian Fitzgibbon _(DC Jones)_
+
+Andrew Tiernan _(DC Rosper)_
+
+Philip Wright _(DC Lillie)_
+
+Richard Hawley _(DC Haskons)_
+
+Mark Spalding _(DC Oakhill)_
+
+Dave Bond _(DC Eastel)_
+
+Terry Taplin _(Commander Trayner)_
+
+Gareth Tudor Price _(Willy Chang)_
+
+Andrew Abrahams _(Tilly)_
+
+Fionnuala Ellwood _(Joyce)_
+
+Maria Mescki_,_ Martin Reeve_,_ John Ireland
+
+_(lab assistants)_
+
+Francesca Ryan _(Marianne)_
+
+Jeremy Warder _(Joey)_
+
+Michael Fleming _(Major Howard)_
+
+Daphne Neville _(Mrs Howard)_
+
+Julie Sumnall _(Karen)_
+
+Ralph Fiennes _(Michael)_
+
+Wilfred Harrison _(Mr Tennison)_
+
+Noël Dyson _(Mrs Tennison)_
+
+Jessica Turner _(Pam)_
+
+Anna Savva _(Mrs Salbanna)_
+
+James Snell _(Arnold Upcher)_
+
+Malcolm Raeburn _(Inspector Sleeth)_
+
+Peter Dennis _(toastmaster)_
+
+Anthony Havering _(barman)_
+
+Mark Anthony Newman _(Doctor Lambton)_
+
+Brian Hayes _(TV presenter)_
+
+Sandra Butterworth _(WPC ‘Karen’)_
+
+Vincent Pickering _(witness)_
+
+Bryonie Pritchard _(WPC Southwood)_
+
+Barbara Dryhurst _(WPC Raeburn)_
+
+Anthony Schaeffer _(uniformed driver)_
+
+ITV tx 7-8.4.1991
+
+UK 1991
+
+207 mins + interval
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwMzU4NDgzNTBdfQ==
+-->
