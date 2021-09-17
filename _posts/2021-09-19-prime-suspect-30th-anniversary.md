@@ -30,171 +30,170 @@ In recognition of this, the series would go on to win numerous awards in the US,
 Reproduced by kind permission of Bloomsbury Publishing. ©Deborah Jermyn**
 <br><br>
 
-**PRIME Suspect**
+**PRIME SUSPECT**<br>
+_Directed by_: Christopher Menaul<br>
 
-_Directed by_: Christopher Menaul
+_©/Production Company_: Granada Television<br>
 
-_©/Production Company_: Granada Television
+_For_: ITV<br>
 
-_For_: ITV
+_Executive Producer_: Sally Head<br>
 
-_Executive Producer_: Sally Head
+_Producer_: Don Leaver<br>
 
-_Producer_: Don Leaver
+_Production Executive_: Craig McNeil<br>
 
-_Production Executive_: Craig McNeil
+_Production Manager_: David Meddick<br>
 
-_Production Manager_: David Meddick
+_Co-ordinator_: Sue Whitley<br>
 
-_Co-ordinator_: Sue Whitley
+_Location Manager_: Lynne Marriott<br>
 
-_Location Manager_: Lynne Marriott
+_1st Assistant Director_: David Weir<br>
 
-_1st Assistant Director_: David Weir
+_2nd Assistant Director_: Tania Normand<br>
 
-_2nd Assistant Director_: Tania Normand
+_PA/Continuity_: Hilda Miller<br>
 
-_PA/Continuity_: Hilda Miller
+_Casting Director_: Doreen Jones<br>
 
-_Casting Director_: Doreen Jones
+_Written by_: Lynda La Plante<br>
 
-_Written by_: Lynda La Plante
+_Script Associate_: Jenny Sheridan<br>
 
-_Script Associate_: Jenny Sheridan
+_Director of Photography_: Ken Morgan<br>
 
-_Director of Photography_: Ken Morgan
+_Camera Operator_: Howard Somers<br>
 
-_Camera Operator_: Howard Somers
+_Steadicam_: Alf Tramontin<br>
 
-_Steadicam_: Alf Tramontin
+_Focus_: David Bell, Graham Hazard<br>
 
-_Focus_: David Bell, Graham Hazard
+_Lighting Gaffer_: Jim Camp<br>
 
-_Lighting Gaffer_: Jim Camp
+_Grip_: Bob Gregory<br>
 
-_Grip_: Bob Gregory
+_Graphic Designer_: Peter Terry<br>
 
-_Graphic Designer_: Peter Terry
+_Film Editor_: Edward Mansell<br>
 
-_Film Editor_: Edward Mansell
+_Production Designer_: Roy Stonehouse<br>
 
-_Production Designer_: Roy Stonehouse
+_Design Assistant_: Chris Stevenson<br>
 
-_Design Assistant_: Chris Stevenson
+_Production Buyer_: Trevor Devoy<br>
 
-_Production Buyer_: Trevor Devoy
+_Chargehand ASM_: Tony Mills<br>
 
-_Chargehand ASM_: Tony Mills
+_Costume Designer_: Sheelagh Killeen<br>
 
-_Costume Designer_: Sheelagh Killeen
+_Wardrobe Supervisor_: Anthony Black<br>
 
-_Wardrobe Supervisor_: Anthony Black
+_Make-up Supervisor_: Jane Hatch<br>
 
-_Make-up Supervisor_: Jane Hatch
+_Make-up Assistant_: Tracey Dilly<br>
 
-_Make-up Assistant_: Tracey Dilly
+_Prosthetics_: Mike Moustafi, Colin Ware<br>
 
-_Prosthetics_: Mike Moustafi, Colin Ware
+_Music_: Stephen Warbeck<br>
 
-_Music_: Stephen Warbeck
+_Sound Mixer_: Ray French<br>
 
-_Sound Mixer_: Ray French
+_Boom Operator_: Ian Hills<br>
 
-_Boom Operator_: Ian Hills
+_Dubbing Editors_: David Rees, Simon Walton<br>
 
-_Dubbing Editors_: David Rees, Simon Walton
+_Dubbing Mixer_: Brian Saunders<br>
 
-_Dubbing Mixer_: Brian Saunders
+_Fight Arranger_: Peter Brayham<br>
 
-_Fight Arranger_: Peter Brayham
+_Cast:_<br>
 
-_Cast:_
+Helen Mirren _(DCI Jane Tennison)_<br>
 
-Helen Mirren _(DCI Jane Tennison)_
+Tom Bell _(DS Bill Otley)_<br>
 
-Tom Bell _(DS Bill Otley)_
+John Benfield _(DCS Michael Kernan)_<br>
 
-John Benfield _(DCS Michael Kernan)_
+John Bowe _(George Marlow)_<br>
 
-John Bowe _(George Marlow)_
+Bryan Pringle _(Felix Norman)_<br>
 
-Bryan Pringle _(Felix Norman)_
+Zoë Wanamaker _(Moyra Henson)_<br>
 
-Zoë Wanamaker _(Moyra Henson)_
+Tom Wilkinson _(Peter Rawlins)_<br>
 
-Tom Wilkinson _(Peter Rawlins)_
+John Forgeham _(DCI John Shefford)_<br>
 
-John Forgeham _(DCI John Shefford)_
+Craig Fairbrass _(DI Frank Burkin)_<br>
 
-Craig Fairbrass _(DI Frank Burkin)_
+Jack Ellis _(DI Tony Muddyman)_<br>
 
-Jack Ellis _(DI Tony Muddyman)_
+Mossie Smith _(WPC Maureen Havers)_<br>
 
-Mossie Smith _(WPC Maureen Havers)_
+Ian Fitzgibbon _(DC Jones)_<br>
 
-Ian Fitzgibbon _(DC Jones)_
+Andrew Tiernan _(DC Rosper)_<br>
 
-Andrew Tiernan _(DC Rosper)_
+Philip Wright _(DC Lillie)_<br>
 
-Philip Wright _(DC Lillie)_
+Richard Hawley _(DC Haskons)_<br>
 
-Richard Hawley _(DC Haskons)_
+Mark Spalding _(DC Oakhill)_<br>
 
-Mark Spalding _(DC Oakhill)_
+Dave Bond _(DC Eastel)_<br>
 
-Dave Bond _(DC Eastel)_
+Terry Taplin _(Commander Trayner)_<br>
 
-Terry Taplin _(Commander Trayner)_
+Gareth Tudor Price _(Willy Chang)_<br>
 
-Gareth Tudor Price _(Willy Chang)_
+Andrew Abrahams _(Tilly)_<br>
 
-Andrew Abrahams _(Tilly)_
-
-Fionnuala Ellwood _(Joyce)_
+Fionnuala Ellwood _(Joyce)_<br>
 
 Maria Mescki_,_ Martin Reeve_,_ John Ireland
 
-_(lab assistants)_
+_(lab assistants)_<br>
 
-Francesca Ryan _(Marianne)_
+Francesca Ryan _(Marianne)_<br>
 
-Jeremy Warder _(Joey)_
+Jeremy Warder _(Joey)_<br>
 
-Michael Fleming _(Major Howard)_
+Michael Fleming _(Major Howard)_<br>
 
-Daphne Neville _(Mrs Howard)_
+Daphne Neville _(Mrs Howard)_<br>
 
-Julie Sumnall _(Karen)_
+Julie Sumnall _(Karen)_<br>
 
-Ralph Fiennes _(Michael)_
+Ralph Fiennes _(Michael)_<br>
 
-Wilfred Harrison _(Mr Tennison)_
+Wilfred Harrison _(Mr Tennison)_<br>
 
-Noël Dyson _(Mrs Tennison)_
+Noël Dyson _(Mrs Tennison)_<br>
 
-Jessica Turner _(Pam)_
+Jessica Turner _(Pam)_<br>
 
-Anna Savva _(Mrs Salbanna)_
+Anna Savva _(Mrs Salbanna)_<br>
 
-James Snell _(Arnold Upcher)_
+James Snell _(Arnold Upcher)_<br>
 
-Malcolm Raeburn _(Inspector Sleeth)_
+Malcolm Raeburn _(Inspector Sleeth)_<br>
 
-Peter Dennis _(toastmaster)_
+Peter Dennis _(toastmaster)_<br>
 
-Anthony Havering _(barman)_
+Anthony Havering _(barman)_<br>
 
-Mark Anthony Newman _(Doctor Lambton)_
+Mark Anthony Newman _(Doctor Lambton)_<br>
 
-Brian Hayes _(TV presenter)_
+Brian Hayes _(TV presenter)_<br>
 
-Sandra Butterworth _(WPC ‘Karen’)_
+Sandra Butterworth _(WPC ‘Karen’)_<br>
 
-Vincent Pickering _(witness)_
+Vincent Pickering _(witness)_<br>
 
-Bryonie Pritchard _(WPC Southwood)_
+Bryonie Pritchard _(WPC Southwood)_<br>
 
-Barbara Dryhurst _(WPC Raeburn)_
+Barbara Dryhurst _(WPC Raeburn)_<br>
 
 Anthony Schaeffer _(uniformed driver)_
 
@@ -204,5 +203,5 @@ UK 1991
 
 207 mins + interval
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzU4NDgzNTBdfQ==
+eyJoaXN0b3J5IjpbLTE1MTUwMzY5MDhdfQ==
 -->
