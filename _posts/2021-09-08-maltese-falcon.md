@@ -2,19 +2,16 @@
 layout: post
 title: The Maltese Falcon
 published: true
-date: 2021-09-08
+date: 2021-09-17
 readtime: true
-categories: ['PREVIEW']
+categories: ['RE-RELEASES']
 tags: [Mystery, Film Noir]
 metadata: 'USA 1941, 101 mins<br> Director: John Huston'
-pdf: '2021-09-08-maltese-falcon-intro.pdf'
+pdf: '2021-09-17-maltese-falcon.pdf'
 ---
-
-_Join Adrian Wootton OBE, CEO of Film London, for a richly illustrated introduction and a fascinating look at some of the key figures behind this classic noir, including author Dashiell Hammett, director John Huston and the film’s unforgettable stars._
 
 John Huston’s directorial debut, this year celebrating its 80th anniversary, turned Bogart into a major star. Adapted from Dashiell Hammett’s novel about a San Francisco detective’s investigations into the murder of his business partner, Huston’s snappily witty script retains the plot’s labyrinthine complexity while revelling in colourful characterisations of the villains Sam Spade encounters during his quest. Inspired casting includes Lorre as volatile Joel Cairo, Greenstreet as menacingly amiable Kasper Gutman, and Cook as his gunman. But it’s the fraught, febrile relationship between Bogart’s Spade and Mary Astor’s femme fatale – who persuaded his partner to take on her case – that shapes the deep, dark core of desire, doubt and duplicity pervading the film from beginning to memorable end.  
 **Geoff Andrew, Programmer-at-large**
-
 
 John Huston’s career started erratically; the son of Walter Huston, he began as an actor himself. After several false starts it was not until 1938 that his career in films got under way. For the next four years he worked with Warners on such scripts as _Juarez_, _Dr. Ehrlich’s Magic Bullet_, _High Sierra_; his first chance as writer-director came in 1941 with _The Maltese Falcon_.
 
@@ -32,8 +29,7 @@ In one respect the Sam Spade of Huston’s _The Maltese Falcon_, as portrayed by
 
 **Contemporary reviews**
 
-The son of a famous father – who incidentally plays a very small part in the film, for luck, perhaps – John Huston has used with effective moderation the idea of the camera seeking and emphasising some characteristic, mental or physical or both of its subject rather than its ordinary form. This approach has undoubtedly added to the strength of the very fine performance of Sydney Greenstreet as Kasper Gutman, the arch-crook, and Mr Huston has been wise enough to confine the idea to one character only. His lighting and camera work is unusual in what would normally be unnoticed sequences. For example, a telephone on a bedside table with night-light upon it from the open window plus a side-lamp, the speaker being out of the picture, but the voice heard.  
-In other words, the picture of a telephone conversation. The story is strong of itself with an unusual ending and fine acting, but it is the treatment which makes it the best thriller so far this year.  
+The son of a famous father – who incidentally plays a very small part in the film, for luck, perhaps – John Huston has used with effective moderation the idea of the camera seeking and emphasising some characteristic, mental or physical or both of its subject rather than its ordinary form. This approach has undoubtedly added to the strength of the very fine performance of Sydney Greenstreet as Kasper Gutman, the arch-crook, and Mr Huston has been wise enough to confine the idea to one character only. His lighting and camera work is unusual in what would normally be unnoticed sequences. For example, a telephone on a bedside table with night-light upon it from the open window plus a side-lamp, the speaker being out of the picture, but the voice heard.  In other words, the picture of a telephone conversation. The story is strong of itself with an unusual ending and fine acting, but it is the treatment which makes it the best thriller so far this year.  
 **Evelyn Russell, _Sight and Sound_, Autumn 1942**
 
 This is a brilliantly directed, brilliantly acted and somewhat unusual film of its type. The atmosphere is well-sustained throughout and the casting is excellent. Mary Astor as the lovely but wicked Brigid is uncommonly attractive, and  Lee Patrick gives a good performance as Spade’s efficient and understanding secretary. Spade himself is played with aplomb by Humphrey Bogart.  Finally the hitherto unknown Sydney Greenstreet gives a magnificent characterisation as the fat arch-villain.  
