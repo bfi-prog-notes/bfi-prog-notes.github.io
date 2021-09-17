@@ -12,7 +12,7 @@ pdf: '2021-09-18-gallivant.pdf'
 
 _Introduced by Eden and Andrew Kötting._
 
-_Andrew Kötting will sign copies his of new book_ Quantum Shenanigans_, available from the  BFI Shop, after the screening._
+_Andrew Kötting will sign copies his of new book_ Quantum Shenanigans _, available from the  BFI Shop, after the screening._
 
 **Big Granny and Little Eden**
 
