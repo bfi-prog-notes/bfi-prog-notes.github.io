@@ -122,45 +122,36 @@ Marian Parker _(met in Kells)_
 Edward Caley-Knowles, George Parker _(met in Whitehaven)_  
 A.H. Henson _(met in Egremont)_  
 George Hounslow _(met in Silloth)_  
-John Johnstone, Hodgson Dixon_  
-(met in Port Carlisle)_  
+John Johnstone, Hodgson Dixon _(met in Port Carlisle)_  
 Vilma McFadzean _(met in Troon)_  
 Jørgen Rasmussen _(met in Oban)_  
 William Jack _(met in Kyle of Lochalsh)_  
 Brian McLaine _(met in Gairloch)_  
-Elza Dundas, Robert George Dundas_  
-(met in John O’Groats)_  
-Edna Morrison, David Morrison_  
-(met in Wick)_  
+Elza Dundas, Robert George Dundas _(met in John O’Groats)_  
+Edna Morrison, David Morrison _(met in Wick)_  
 Benji Ming _(met in Clooty Well)_  
 Tom McClean _(met in Morar)_  
 Rosey Cadona _(met in Aberdeen)_  
 P.C. Greenshields _(met in St. Abbs)_  
 K. Thompson _(met in Goathland)_  
 Martin Carthy _(met in Robin Hoods Bay)_  
-John Conolly, Mrs P. Dahiell-Ball_  
-(met in Grimsby)_  
+John Conolly, Mrs P. Dahiell-Ball _(met in Grimsby)_  
 Mrs Oldman _(met in Lowestoft)_  
-Leslie Woolford, Thelma Woolford_  
-(met in Orwell Bridge)_  
+Leslie Woolford, Thelma Woolford _(met in Orwell Bridge)_  
 J. Cox, T. Shapp _(met in Camber)_  
-Andy Hemsley, Marshall Coombs,  
-Robyn Rimmel, Andy McDuffy,  
-Keith Leech, Brian Chainey_  
-(met in Hastings)_  
-Mrs J. Luck _(met in Bexhill)_
+Andy Hemsley, Marshall Coombs,  Robyn Rimmel, Andy McDuffy,  Keith Leech, Brian Chainey _(met in Hastings)_  
+Mrs J. Luck _(met in Bexhill)_  
 
-UK 1996
-
+UK 1996  
 103 mins
 
 35mm print from the BFI National Archive
 
 This is a relaxed screening, see **bfi.org.uk/relaxed** for details, and for more relaxed screenings.
 
-<![endif]-->
 
-RELAXED SCREENINGS
+
+**RELAXED SCREENINGS**
 
 **Seeing The Unseen  
 (Að sjá hið ósýnilega)**
@@ -311,5 +302,5 @@ The Amazing Mr Blunden + Q&A**
 
 Mon 29 Nov 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxNzA4MjcxXX0=
+eyJoaXN0b3J5IjpbMTgyNDM2NjQwMl19
 -->
