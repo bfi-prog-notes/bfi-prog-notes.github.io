@@ -31,8 +31,7 @@ This was special. A privileged use of time and occasion. The great-grandmother, 
 
 The old woman is near the end of her life journey, so that Kötting’s circular voyage becomes a leave-taking of places she has never visited. She’s sharp, bright, opinionated – experienced. The child is direct, pure in all her responses, guileless and unlikely to linger in this world she is touring. Ethically dubious provocations are not dodged by the director, but neither are they exploited. Because the third member of the mythological trio is Kötting himself. He is the one who has to come to terms with probable loss, and with the delivery of a film that will do justice to the presence of two remarkable females.
 
-The clockwise excursion, heart on sleeve, up for it, is something more than another state-of-the-nation Philippic. The journey is a memorial, a premature obituary. It allows Kötting to come to terms with the inevitable, to draw on the historiographic richness of the great-grandmother’s well-lived life and to relish the pantomimed urgency in the child’s responses to place, and to cold and hunger. They are special and they are good company, for themselves and for us.  
-On their occasional absences, retreats to base, the film loses its centre.
+The clockwise excursion, heart on sleeve, up for it, is something more than another state-of-the-nation Philippic. The journey is a memorial, a premature obituary. It allows Kötting to come to terms with the inevitable, to draw on the historiographic richness of the great-grandmother’s well-lived life and to relish the pantomimed urgency in the child’s responses to place, and to cold and hunger. They are special and they are good company, for themselves and for us.  On their occasional absences, retreats to base, the film loses its centre.
 
 **An idiot cubism**  
 _Gallivant_, having set out from the De La Warr Pavilion in Bexhill, takes itself off to Beachy Head, a crumbling chalk monument to Englishness, where Gladys can talk suicide with a huddle of bemused tourists. (‘You’re not English and we can’t understand you. Threw hisself over, finished.’) Eden babbles at the camera: ‘Dadda’. Production methods are rapidly established: the family party on their high perch (filmed on video from a tripod) are cut against wilder footage (Super 8) in a boat, under the cliffs, bucking on the tide. Fragments of black and white are also dropped in, to change the narrative temperature. Clouds swirl in time-lapse photography. Undercranking and lurching pans break up the temporal flow. There’s no nonsense about synch speech. The frantic television cop show _Homicide_ looks elegant and restrained in comparison with Kötting’s buoyantly choreaic spasms: bother-boy jump cuts that frolic in an idiot cubism. Paradoxically the effect of these abbreviations, stuttering frames, macro inserts, is to give a truer and more solid sense of passing time and the unravelling journey.
@@ -43,8 +42,7 @@ Death is a genial sponsor. There is a nicely orchestrated scene in a tethered ro
 
 The journey spirals away, in largely chronological order, through Cornwall (erosion at Hallsands, a procession of giants on the slopes of St Agnes’ Head) and into Wales. Sometimes the camera favours a statuette of the Virgin Mary on the dashboard as the road unreels, at pace. Sometimes bashful locals are coaxed into singing their song. The director has a soft spot for trams, lighthouses, lugworms.
 
-It’s not laboured, but we understand that the coastline is being constantly nibbled at by tides, by developers, by the indifference of central government. A distrust of metropolitan domination is universal. The white, ducklike flocks of female bowls players in Cornwall, in their fanciful hats, know that ‘in London they’re all too busy’. Disabused recidivists, killing time with a football in a Swansea carpark, assert that ‘you don’t see a lot of Wales on telly’. But Wales, for its part, sees all too much of telly. Terminal, pebbledash estates, breeze-block reservations, are barnacled with satellite dishes. Telly is a dim addiction, a source of tranquilising light.  
-Battery-farmed estate prisoners bask under a sickly glow, incubating ancient tribal grievances.
+It’s not laboured, but we understand that the coastline is being constantly nibbled at by tides, by developers, by the indifference of central government. A distrust of metropolitan domination is universal. The white, ducklike flocks of female bowls players in Cornwall, in their fanciful hats, know that ‘in London they’re all too busy’. Disabused recidivists, killing time with a football in a Swansea carpark, assert that ‘you don’t see a lot of Wales on telly’. But Wales, for its part, sees all too much of telly. Terminal, pebbledash estates, breeze-block reservations, are barnacled with satellite dishes. Telly is a dim addiction, a source of tranquilising light.  Battery-farmed estate prisoners bask under a sickly glow, incubating ancient tribal grievances.
 
 Kötting is a dab hand at opening out the cast of deviants who cling to the dying ports and seaside towns. There’s a splendid military-looking chap on the Gower peninsula who confounds our prejudices by being in favour of tent-dwelling eco warriors (range-war clips from old Westerns), and who dismisses central government as ‘layabouts’. Anti-urbanism with a nice bite: ‘Keep out of Swansea on a Saturday night. It’s like a Wild West town.’
 
@@ -54,12 +52,9 @@ By this stage in the journey, darker themes are beginning to emerge. We’ve see
 
 Now, in Scotland, it’s time to take stock. The director confronts his emotional difficulties, his investment in putting the old woman and the child through the rigours of the trip, by reverting to his roots in Performance Art – throwing himself, fully clothed, off a rock into a cold Northern sea. ‘You silly bugger, daft as they make ’em,’ is Gladys’ unimpressed response. (In some senses Kötting’s desperate acting-out is a parallel to Werner Herzog’s walk, as recorded in his book _Of Walking in Ice_, 1991; where the German director believed that a journey on foot from Munich to Paris would save Lotte Eisner from death. The elective masochism of late-century pilgrimages.)
 
-The weird trio – Gladys game but gasping for breath, Kötting bearing an armchair on his head – set off across the moors towards John O’Groats, on the promise of a spectacular view. Cape Wrath had been too bleak. Gladys and Eden were forced to return home for another break.  
-The child weeps. Kötting responds with further clowning, pulling faces while hanging on to the outside of the camper van. He falls, smashes an ankle. ‘Now,’ you can almost hear him say, ‘we’re getting somewhere.’ Just what the film needed. Sacrifice. Pain. Winds filled with pebbles. The bite of Ultima Thule.
+The weird trio – Gladys game but gasping for breath, Kötting bearing an armchair on his head – set off across the moors towards John O’Groats, on the promise of a spectacular view. Cape Wrath had been too bleak. Gladys and Eden were forced to return home for another break.  The child weeps. Kötting responds with further clowning, pulling faces while hanging on to the outside of the camper van. He falls, smashes an ankle. ‘Now,’ you can almost hear him say, ‘we’re getting somewhere.’ Just what the film needed. Sacrifice. Pain. Winds filled with pebbles. The bite of Ultima Thule.
 
-The return home down the east coast, with strange continuity shuffles that shift Aldeburgh to the north of the Humber bridge, has a different tone. The dramas are over, the demons confronted – what’s left? A near-naked man who leaves his clothes in a sacred wood, hung with rags, and clumps off for his tea – refusing to take his shoes, but happy to pick up a newspaper. A pastiche of _Cul-de-Sac_ at Holy Island, and of _Jaws_ at Walton-on-the-Naze.  
-Wet feet on beaches, a fetishistic interest in lollipop ladies. Some kind of wacky sacerdotal agenda is attempted: Kötting, increasingly hairy, wants to be taken for a monk. The soundman, rushing towards the action with his long pole, comes to look more and more like a Spanish penitent. The procession around Britain has become so peculiar, swerving between pagan survivals and a Jurassic park of industrial dereliction. Middlesbrough (home of the Latin mercenary) is particularly unforgiving: ‘Is this for the telly or your own benefit? You can fuck off back down south again.’ Eden Kötting is dressed as the Virgin for a cod nativity scene; Gladys as a lollipop lady, with the director in Franciscan habit to complete this blasphemous holy family. A Jack-on-the-Green fire ceremony at Hastings finishes with a call for the Pope to be burned and dismembered. Reportage disintegrates into millennial tremors. ‘Mystical thematic threads’ are brokered with the voice of Stephen Hawking. Time has started to play tricks.  
-Light dances in rock pools. We can’t be sure if we’re watching an aerial shot or a hand-held trawl over a sewage beach. And so they stagger back, these incorruptible tourists, great grandmother and child in vivid red coats, to Bexhill.
+The return home down the east coast, with strange continuity shuffles that shift Aldeburgh to the north of the Humber bridge, has a different tone. The dramas are over, the demons confronted – what’s left? A near-naked man who leaves his clothes in a sacred wood, hung with rags, and clumps off for his tea – refusing to take his shoes, but happy to pick up a newspaper. A pastiche of _Cul-de-Sac_ at Holy Island, and of _Jaws_ at Walton-on-the-Naze.  Wet feet on beaches, a fetishistic interest in lollipop ladies. Some kind of wacky sacerdotal agenda is attempted: Kötting, increasingly hairy, wants to be taken for a monk. The soundman, rushing towards the action with his long pole, comes to look more and more like a Spanish penitent. The procession around Britain has become so peculiar, swerving between pagan survivals and a Jurassic park of industrial dereliction. Middlesbrough (home of the Latin mercenary) is particularly unforgiving: ‘Is this for the telly or your own benefit? You can fuck off back down south again.’ Eden Kötting is dressed as the Virgin for a cod nativity scene; Gladys as a lollipop lady, with the director in Franciscan habit to complete this blasphemous holy family. A Jack-on-the-Green fire ceremony at Hastings finishes with a call for the Pope to be burned and dismembered. Reportage disintegrates into millennial tremors. ‘Mystical thematic threads’ are brokered with the voice of Stephen Hawking. Time has started to play tricks.  Light dances in rock pools. We can’t be sure if we’re watching an aerial shot or a hand-held trawl over a sewage beach. And so they stagger back, these incorruptible tourists, great grandmother and child in vivid red coats, to Bexhill.
 
 **Quests and cut-ups**  
 Kötting has created a glorious apotheosis for the home movie, making great play with seaside traditions: funfair surrealism, brightly coloured monsters on piers, rude postcards. At Land’s End the pay-for-view telescope flaunts a sepia peepshow nude. _Gallivant_ is a Chaucerian pilgrimage with talk of ‘sheep’s bollocks’, sword-dances, and novelty pens which offer a Will Carling striptease. Gladys is a willing accomplice to this well-seasoned discourse. ‘Did you ever get pregnant, Gladys?’ Kötting asks on the trek to John O’Groats. ‘Dunno. I forgot,’ the old bird chortles with typically stoic gaiety.
@@ -74,37 +69,30 @@ He transubstantiates gross matter. He is the most patrician of these filmmakers,
 The most extreme Petit project is an assembly (not resolved enough to call a film) put together for a particular viewing in a particular gallery, in January 1997, and called (as a flag of convenience) _The Slaughterhouse Tapes_. This one really sorted the punters out. Even the thesis writers put away their notebooks and headed back up the stairs. A few old lags, nostalgic for underground cinema, lounged on a balcony swilling complimentary wine and talking throughout. Improvised out-takes, image clusters that come back, time and again, drives through Suffolk (a wonderfully tense creature at the wheel), minatory skies, a girl dyeing her hair, snatched city footage; a thumping loop of sound by Bruce Gilbert, snatches of half-heard conversation, bent motorway poles like some endless Spartacus crucifixion. A Trappist doctrine that lies in parallel to Kötting but which cannot be resolved by returning to the point of origin. Without the humour or the humanity, Petit uses boredom – road time, surveillance time, river drift – as a way of slowing light, _of allowing his audience to make their own contribution to the world_ as he presents it. The agenda is whatever you want it to be: what you see is what you get. And it can be edited in any order to fit any occasion. Orthodox chronology is unknown to him. Petit’s KyIe of Lochalsh is a very different place to Kötting’s: no jaunty lavatory attendants, just remorseless, ice-scoured landscapes and shifting cloud masses, road accidents. If a concrete bunker were for hire with a good view of Sellafield, Petit would be first in line. If Jarman hadn’t beaten him to it, he’d be dug into the Dungeness shingle. His is a world dominated by aesthetics, ideas of arrangement and displacement. Kötting solves his difficulties by a Zen act, madcap physicality, a leap into the sea. Petit will outstare Permian rock forms. Kötting clog dances, Keiller stares with autistic steadiness, and Petit reproves reality (worries it into ethically satisfying arrangements).
 
 **Signing her desire**  
-Signs and shapes (broken sentences, graffiti) are important markers for the psychogeographers. _Gallivant_ is blitzed with found texts, hints, signifiers. The yellow lettering of a Spastics charity shop, swastikas on walls, the madcap calligraphy of fairgrounds and piers. Eden, the child, strokes an empty belly, or signs her desire for home, with soft, quick fingers. Gladys learns to ‘read’ her. Kötting mimes through the window of the camper van, before falling off and shattering his ankle. The various camera-eyes are hungry for guidance. The furry sound-stick is an unsatisfied predator. ‘Tell me a story, sing me a song.’ When the anarchic crew arrive in South Wales at the old steel dock of Port Talbot, they find a notice in the mud, in front of all that apocalyptic industrial squalor; a message that seems precisely to define their case. DO NOT ANCHOR BETWEEN SIGNS. Keep moving, get out of town. The road’s end is its beginning.
+Signs and shapes (broken sentences, graffiti) are important markers for the psychogeographers. _Gallivant_ is blitzed with found texts, hints, signifiers. The yellow lettering of a Spastics charity shop, swastikas on walls, the madcap calligraphy of fairgrounds and piers. Eden, the child, strokes an empty belly, or signs her desire for home, with soft, quick fingers. Gladys learns to ‘read’ her. Kötting mimes through the window of the camper van, before falling off and shattering his ankle. The various camera-eyes are hungry for guidance. The furry sound-stick is an unsatisfied predator. ‘Tell me a story, sing me a song.’ When the anarchic crew arrive in South Wales at the old steel dock of Port Talbot, they find a notice in the mud, in front of all that apocalyptic industrial squalor; a message that seems precisely to define their case. DO NOT ANCHOR BETWEEN SIGNS. Keep moving, get out of town. The road’s end is its beginning.  
+**Iain Sinclair, _Sight and Sound_, September 1997**
+<br><br>
 
-Iain Sinclair, _Sight and Sound_, September 1997
-
-<![endif]-->
-
-**Gallivant**
-
+**GALLIVANT**  
 _Director_: Andrew Kötting  
 _Production Company_: Tall Stories  
 _In association with_: British Film Institute, Channel Four  
-_Production Company_:  
-Arts Council of England  
-_Executive Producers_: Ben Gibson,  
-Andy Powell  
+_Production Company_:  Arts Council of England  
+_Executive Producers_: Ben Gibson,  Andy Powell  
 _Producer_: Ben Woolford  
 _In Charge of Production_: Angela Topping  
 _Production Manager_: Janni Perton  
 _Cast Co-ordinator_: Leila McMillan  
 _Screenplay_: Andrew Kötting  
 _Director of Photography_: N.G. Smith  
-_Additional Camera_: Lynda Hall,  
-David Leister  
+_Additional Camera_: Lynda Hall,  David Leister  
 _Super 8/Stills_: Gary Parker  
 _Editor_: Cliff West  
 _Title Graphics_: Big Hand Design  
 _Titles_: Damson Studios  
 _Opticals_: Howell Opticals (London)  
 _Music_: David Burnand  
-_Piano/Synths/Accordion/Concertina_:  
-David Burnand  
+_Piano/Synths/Accordion/Concertina_:  David Burnand  
 _Oboe_: Louise Coombes  
 _Trombone_: Keith Harrison, Jane Murrill  
 _Violin_: Claire Nelson  
@@ -115,8 +103,7 @@ _Clarinet_: Sarah Thurlow
 _Sound Recordist_: Douglas Templeton  
 _Re-recording Mixer_: Aad Wirtz
 
-_With:_
-
+**With**  
 Gladys Morris _(herself)_  
 Eden Kötting _(herself)_  
 Trevor Landell, Helico van der Ploeug _(weathermen)_  
@@ -125,9 +112,7 @@ Douglas Templeton _(himself)_
 Gary Parker _(himself)_  
 Greg Bance _(additional voice-over)_  
 Peter Kiddle _(met in Hallsands)_  
-‘bolster Giants’, Trevor Cuthbertson, Soozie Tinn, Bill Henthorn, Mark Craze, ‘Snowy’ Snowden, Helen Hopkins,  
-Peter Spence, Martin Chapman,  
-Carey Morgan, Ian Doble, Polly Marchant, Lian Doble _(met in St. Agnes)_  
+‘bolster Giants’, Trevor Cuthbertson, Soozie Tinn, Bill Henthorn, Mark Craze, ‘Snowy’ Snowden, Helen Hopkins,  Peter Spence, Martin Chapman,  Carey Morgan, Ian Doble, Polly Marchant, Lian Doble _(met in St. Agnes)_  
 Mrs I. Morgan _(met in Redruth)_  
 Les _(met in Pembroke)_  
 Steve Ryan, Tony Williams, Carl Crouch _(met in Swansea)_  
@@ -326,5 +311,5 @@ The Amazing Mr Blunden + Q&A**
 
 Mon 29 Nov 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDA1OTYwXX0=
+eyJoaXN0b3J5IjpbODgxNzA4MjcxXX0=
 -->
