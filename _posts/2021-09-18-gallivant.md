@@ -151,131 +151,131 @@ This is a relaxed screening, see **bfi.org.uk/relaxed** for details, and for mor
 
 
 
-**RELAXED SCREENINGS**
+**RELAXED SCREENINGS**<br>
 
 **Seeing The Unseen  
-(Að sjá hið ósýnilega)**
+(Að sjá hið ósýnilega)**<br>
 
-Tue 28 Sep 18:00
+Tue 28 Sep 18:00<br>
 
-**Summer of Soul (... Or, When The Revolution Could Not Be Televised)**
+**Summer of Soul (... Or, When The Revolution Could Not Be Televised)**<br>
 
-Tue 26 Oct 18:00
+Tue 26 Oct 18:00<br>
 
-**Petite Maman**
+**Petite Maman**<br>
 
-Tue 30 Nov 18:00
+Tue 30 Nov 18:00<br>
 
-REGULAR PROGRAMME
+**REGULAR PROGRAMME**<br>
 
 **Short Films by Eden and Andrew Kötting + Andrew Kötting in Conversation with film curator  
-Gareth Evans**
+Gareth Evans**<br>
 
-Sat 18 Sep 18:00
+Sat 18 Sep 18:00<br>
 
-**Projecting the Archive: Flesh and Blood + intro by Jason Morell, actor and son of Joan Greenwood**
+**Projecting the Archive: Flesh and Blood + intro by Jason Morell, actor and son of Joan Greenwood**<br>
 
-Tue 21 Sep 18:10
+Tue 21 Sep 18:10<br>
 
-**Art in the Making: Cinema Architecture and Atmosphere + discussion**
+**Art in the Making: Cinema Architecture and Atmosphere + discussion**<br>
 
-Thu 23 Sep 18:10
+Thu 23 Sep 18:10<br>
 
-**Member Picks: Moonstruck**
+**Member Picks: Moonstruck**<br>
 
-Fri 24 Sep 18:05
+Fri 24 Sep 18:05<br>
 
-**Silent Cinema: Nasty Women: A Comic Tribute + intro by curator Bryony Dixon**
+**Silent Cinema: Nasty Women: A Comic Tribute + intro by curator Bryony Dixon**<br>
 
-Sun 26 Sep 12:40
+Sun 26 Sep 12:40<br>
 
-**Terror Vision: Altered States**
+**Terror Vision: Altered States**<br>
 
-Thu 30 Sep 21:00
+Thu 30 Sep 21:00<br>
 
 **Projecting the Archive:  
-Dutchman + intro and panel discussion**
+Dutchman + intro and panel discussion**<br>
 
-Tue 19 Oct 18:15
+Tue 19 Oct 18:15<br>
 
-**BFI Flare: Tongues Untied + intro by programmer Rico Johnson-Sinclair**
+**BFI Flare: Tongues Untied + intro by programmer Rico Johnson-Sinclair**<br>
 
-Wed 20 Oct 20:30
+Wed 20 Oct 20:30<br>
 
-**Experimenta: Frantz Fanon: Black Skin White Mask + discussion**
+**Experimenta: Frantz Fanon: Black Skin White Mask + discussion**<br>
 
-Thu 21 Oct 18:00
+Thu 21 Oct 18:00<br>
 
-**BFI Flare: Black Is... Black Ain’t + intro by programmer Rico Johnson-Sinclair**
+**BFI Flare: Black Is... Black Ain’t + intro by programmer Rico Johnson-Sinclair**<br>
 
-Thu 21 Oct 20:40
+Thu 21 Oct 20:40<br>
 
-**Art in the Making: The Black Arts Movement on Film + discussion**
+**Art in the Making: The Black Arts Movement on Film + discussion**<br>
 
-Wed 27 Oct 20:40
+Wed 27 Oct 20:40<br>
 
-**Woman with a Movie Camera Preview: Anatomy of Wings + pre-recorded Q&A**
+**Woman with a Movie Camera Preview: Anatomy of Wings + pre-recorded Q&A**<br>
 
-Thu 28 Oct 18:15
+Thu 28 Oct 18:15<br>
 
-**Silent Cinema: Body and Soul + intro**
+**Silent Cinema: Body and Soul + intro**<br>
 
-Sun 31 Oct 14:20
+Sun 31 Oct 14:20<br>
 
-**Member Picks: Moonlight**
+**Member Picks: Moonlight**<br>
 
-Fri 5 Nov 18:10
+Fri 5 Nov 18:10<br>
 
-**African Odysseys: Black History Walks Presents: Cause for Concern: Equal Before the Law**
+**African Odysseys: Black History Walks Presents: Cause for Concern: Equal Before the Law**<br>
 
-Fri 5 Nov 18:30-21:30 Blue Room
+Fri 5 Nov 18:30-21:30 Blue Room<br>
 
-**African Odysseys: A Date with the Devil: Darcus Howe’s Journey from Black Power to Broadcasting**
+**African Odysseys: A Date with the Devil: Darcus Howe’s Journey from Black Power to Broadcasting**<br>
 
-Sat 6 Nov 12:00-18:00
+Sat 6 Nov 12:00-18:00<br>
 
-**African Odysseys: Travels with my Camera: Is This My Country? + White Tribe**
+**African Odysseys: Travels with my Camera: Is This My Country? + White Tribe**<br>
 
-Tue 9 Nov 18:10
+Tue 9 Nov 18:10<br>
 
 **African Odysseys: Trouble in Paradise  
-+ Darcus Howe: Son of Mine**
++ Darcus Howe: Son of Mine**<br>
 
-Sun 14 Nov 15:30
+Sun 14 Nov 15:30<br>
 
-**Terror Vision: Tales from the Hood**
+**Terror Vision: Tales from the Hood**<br>
 
-Thu 25 Nov 20:40
+Thu 25 Nov 20:40<br>
 
-**Seniors’ Free Matinee, in partnership with African Odysseys: Once Upon a Time… When We Were Colored + intro**
+**Seniors’ Free Matinee, in partnership with African Odysseys: Once Upon a Time… When We Were Colored + intro**<br>
 
-Mon 29 Nov 14:00
+Mon 29 Nov 14:00<br>
 
-IN PERSON & PREVIEWS
+**IN PERSON & PREVIEWS**<br>
 
 **Prime Suspect: 30th Anniversary  
-(First Series Complete Screening)**
+(First Series Complete Screening)**<br>
 
-Sun 19 Sep 14:00
+Sun 19 Sep 14:00<br>
 
-**Lynda La Plante in Conversation**
+**Lynda La Plante in Conversation**<br>
 
-Sun 19 Sep 18:45
+Sun 19 Sep 18:45<br>
 
 **Preview: Convergence + Q&A with director Orlando von Einsiedel and  
 co-director and film contributor  
-Hassan Akkad**
+Hassan Akkad**<br>
 
-Wed 29 Sep 19:00
+Wed 29 Sep 19:00<br>
 
-**60th Anniversary: Whistle Down the Wind + actor Hayley Mills in Conversation**
+**60th Anniversary: Whistle Down the Wind + actor Hayley Mills in Conversation**<br>
 
-Sun 3 Oct 12:00
+Sun 3 Oct 12:00<br>
 
 **Preview: Dune + pre-recorded Q&A  
-with Denis Villeneuve**
+with Denis Villeneuve**<br>
 
-Tue 5 Oct 18:30
+Tue 5 Oct 18:30<br>
 
 **Mark Kermode Live in 3D at the BFI**
 
@@ -302,5 +302,5 @@ The Amazing Mr Blunden + Q&A**
 
 Mon 29 Nov 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDM2NjQwMl19
+eyJoaXN0b3J5IjpbMTY4NzE4MjM2NF19
 -->
