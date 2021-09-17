@@ -217,24 +217,15 @@ Tue 5 Oct 18:30<br>
 Mon 18 Oct 18:15; Mon 8 Nov 18:10<br>
 **Preview: Last Night in Soho**<br>
 Thu 21 Oct 17:50<br>
-
 **Screen Epiphany: Adjoa Andoh**<br>
-
 Sun 24 Oct 18:30<br>
-
 **Mike Leigh in Conversation**<br>
-
 Thu 28 Oct 20:40<br>
-
 **Preview: Drive My Car (Doraibu mai kâ)**<br>
-
 Mon 15 Nov 19:40<br>
-
-**TV Preview:  
-The Amazing Mr Blunden + Q&A**<br>
-
+**TV Preview:  The Amazing Mr Blunden + Q&A**<br>
 Mon 29 Nov 18:15<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTgxNzkzMF19
+eyJoaXN0b3J5IjpbMTIwNDYxMTA1Nl19
 -->
