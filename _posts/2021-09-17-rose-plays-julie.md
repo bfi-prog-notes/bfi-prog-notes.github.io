@@ -20,7 +20,65 @@ Playing Julie to get closer to her birth mother, Rose also teaches Ellen a new r
 **So Mayer, _Sight and Sound_, October 2021**
 <br><br>
 
+**ROSE PLAYS JULIE**  
+_Directed by_: Christine Molloy, Joe Lawlor  
+©: Samson Films, Desperate Optimists  
+_A_ Samson Films/Desperate Optimists _production_  
+_Presented by_: Fís Éireann/Screen Ireland  
+_With the participation of_:  Broadcasting Authority of Ireland, RTÉ  
+_Executive Producer for Fís Éireann/Screen Ireland_: Celine Haddad  
+_Produced by_: David Collins, Joe Lawlor  
+_Co-producer_: Eoin O’Faolain  
+_Line Producer_: Cathleen Dore  
+_Supervising Accountant_: Ashifa Lalini  
+_Production Accountant_: Orla Collins  
+_Location Manager_: Karl Daly  
+_1st Assistant Director_: Jules Benoiton  
+_Script Supervisor_: Christine Dilworth  
+_Casting Director_: Emma Gunnery  
+_Written by_: Christine Molloy, Joe Lawlor  
+_Director of Photography_: Tom Comerford  
+_Editor_: Christine Molloy  
+_Production Designer_: Emma Lowney  
+_Art Director_: Mark Kelly  
+_Graphic Designer_: Melanie Downes  
+_Costume Designer_: Joan O’Cleary  
+_Make-up Designer_: Caroline McCurdy  
+_Hair Designer_: Lyndsey Herron  
+_Colourist_: Adam Dolniak  
+_Composer_: Stephen McKeon  
+_Sound Recordist_: Niall O’Sullivan  
+_Stunt Co-ordinator_: Joe Condren  
+_Animal Wrangler_: Eddie Drew
+
+**Cast**  
+Orla Brady _(Ellen)_  
+Ann Skelly _(Rose)_  
+Aidan Gillen _(Peter)_  
+Annabell Rickerby _(Molly)_  
+Catherine Walker _(Teresa)_  
+Joanne Crawford _(Valerie)_  
+Alan Howley _(Dr Langan)_  
+Sadie Soverall _(Eva)_  
+Jack McEvoy _(young man)_  
+Hannah Behan _(young woman)_  
+Esosa Ighodaro _(archaeologist)_  
+Sarah-Jane Scott _(hotel receptionist)_  
+Molly Rose Lawlor _(oldest child)_  
+Lochlann O’Mearain _(farm hand)_  
+Jules Benoiton _(director)_  
+Lily Brand _(vampire)_  
+Derry Lawlor _(Derry)_  
+Louis Skelding _(child 1)_  
+Brenda Skelding _(child 2)_  
+Georgina Skelding _(child 3)_  
+Chloe Vos _(young Rose)_
+
+Ireland/UK 2019©  
+100 mins
+
+A New Wave Films release
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTc5MDUwNTldfQ==
+eyJoaXN0b3J5IjpbLTg3Nzg3NTI3NV19
 -->
