@@ -32,129 +32,67 @@ Reproduced by kind permission of Bloomsbury Publishing. ©Deborah Jermyn**
 
 **PRIME SUSPECT**<br>
 _Directed by_: Christopher Menaul<br>
-
 _©/Production Company_: Granada Television<br>
-
 _For_: ITV<br>
-
 _Executive Producer_: Sally Head<br>
-
 _Producer_: Don Leaver<br>
-
 _Production Executive_: Craig McNeil<br>
-
 _Production Manager_: David Meddick<br>
-
 _Co-ordinator_: Sue Whitley<br>
-
 _Location Manager_: Lynne Marriott<br>
-
 _1st Assistant Director_: David Weir<br>
-
 _2nd Assistant Director_: Tania Normand<br>
-
 _PA/Continuity_: Hilda Miller<br>
-
 _Casting Director_: Doreen Jones<br>
-
 _Written by_: Lynda La Plante<br>
-
 _Script Associate_: Jenny Sheridan<br>
-
 _Director of Photography_: Ken Morgan<br>
-
 _Camera Operator_: Howard Somers<br>
-
 _Steadicam_: Alf Tramontin<br>
-
 _Focus_: David Bell, Graham Hazard<br>
-
 _Lighting Gaffer_: Jim Camp<br>
-
 _Grip_: Bob Gregory<br>
-
 _Graphic Designer_: Peter Terry<br>
-
 _Film Editor_: Edward Mansell<br>
-
 _Production Designer_: Roy Stonehouse<br>
-
 _Design Assistant_: Chris Stevenson<br>
-
 _Production Buyer_: Trevor Devoy<br>
-
 _Chargehand ASM_: Tony Mills<br>
-
 _Costume Designer_: Sheelagh Killeen<br>
-
 _Wardrobe Supervisor_: Anthony Black<br>
-
 _Make-up Supervisor_: Jane Hatch<br>
-
 _Make-up Assistant_: Tracey Dilly<br>
-
 _Prosthetics_: Mike Moustafi, Colin Ware<br>
-
 _Music_: Stephen Warbeck<br>
-
 _Sound Mixer_: Ray French<br>
-
 _Boom Operator_: Ian Hills<br>
-
 _Dubbing Editors_: David Rees, Simon Walton<br>
-
 _Dubbing Mixer_: Brian Saunders<br>
-
 _Fight Arranger_: Peter Brayham<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Helen Mirren _(DCI Jane Tennison)_<br>
-
 Tom Bell _(DS Bill Otley)_<br>
-
 John Benfield _(DCS Michael Kernan)_<br>
-
 John Bowe _(George Marlow)_<br>
-
 Bryan Pringle _(Felix Norman)_<br>
-
 Zoë Wanamaker _(Moyra Henson)_<br>
-
 Tom Wilkinson _(Peter Rawlins)_<br>
-
 John Forgeham _(DCI John Shefford)_<br>
-
 Craig Fairbrass _(DI Frank Burkin)_<br>
-
 Jack Ellis _(DI Tony Muddyman)_<br>
-
 Mossie Smith _(WPC Maureen Havers)_<br>
-
 Ian Fitzgibbon _(DC Jones)_<br>
-
 Andrew Tiernan _(DC Rosper)_<br>
-
 Philip Wright _(DC Lillie)_<br>
-
 Richard Hawley _(DC Haskons)_<br>
-
 Mark Spalding _(DC Oakhill)_<br>
-
 Dave Bond _(DC Eastel)_<br>
-
 Terry Taplin _(Commander Trayner)_<br>
-
 Gareth Tudor Price _(Willy Chang)_<br>
-
 Andrew Abrahams _(Tilly)_<br>
-
 Fionnuala Ellwood _(Joyce)_<br>
-
-Maria Mescki_,_ Martin Reeve_,_ John Ireland
-
-_(lab assistants)_<br>
-
+Maria Mescki, Martin Reeve,  John Ireland _(lab assistants)_<br>
 Francesca Ryan _(Marianne)_<br>
 
 Jeremy Warder _(Joey)_<br>
@@ -195,13 +133,13 @@ Bryonie Pritchard _(WPC Southwood)_<br>
 
 Barbara Dryhurst _(WPC Raeburn)_<br>
 
-Anthony Schaeffer _(uniformed driver)_
+Anthony Schaeffer _(uniformed driver)_<br>
 
-ITV tx 7-8.4.1991
+ITV tx 7-8.4.1991<br>
 
 UK 1991
 
 207 mins + interval
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTUwMzY5MDhdfQ==
+eyJoaXN0b3J5IjpbODMyMDg5NjE2XX0=
 -->
