@@ -1,5 +1,4 @@
 
-<![endif]-->
 
 _+ Q&A with director Clio Barnard_
 
@@ -25,15 +24,174 @@ Like Billy Casper in _Kes_, Arbor embodies the capacity of the young soul to end
 
 Conner Chapman and Shaun Thomas are terrific fresh finds for Barnard, and the film is a triumph in the direction of young untried actors. Thomas’s less demonstrative role shouldn’t blind us to the depth of emotive power that he finds in the quietly tenacious, ethically stalwart Swifty, while Chapman is one of those force-of-nature young talents (as David Bradley was in _Kes_, and Katie Jarvis in _Fish Tank_) who seem to find their personal apotheosis in one perfect role, whether or not they have screen futures ahead of them.
 
-Arbor’s perfect, irrepressible defiance emerges in a superb moment in which this pugnacious shrimp of a lad, possibly destined for a successful entrepreneurial career on one side of the law or another, welcomes police officers to his house with a peremptory bark of ‘Shoes – off!’<br
-
-Jonathan Romney, _Sight & Sound_, November 2013
+Arbor’s perfect, irrepressible defiance emerges in a superb moment in which this pugnacious shrimp of a lad, possibly destined for a successful entrepreneurial career on one side of the law or another, welcomes police officers to his house with a peremptory bark of ‘Shoes – off!’<br>
+**Jonathan Romney, _Sight & Sound_, November 2013**
 
 The key to Clio Barnard’s work is a radical pursuit of truth, by whatever means necessary. In the ground-shifting documentary _The Arbor_ (2010), about the young playwright Andrea Dunbar, she had actors lip-sync to real-life testimony. In _The Selfish Giant_, the drama grew out of the meticulous documenting of a teenager’s life in the  underbelly of a Bradford estate. Both films are inspired  by spirited lives lived in dispiriting circumstances. As  a director, Barnard brings a fresh sensibility to British  Loachian social realism: _The Selfish Giant_ is not merely  kitchen sink drama but an examination of the foul smelling, leaky plumbing beneath. While a harrowing picture of Britain’s lost underclass, the film also  celebrates the funny, lunatic energy of a friendship between two  
 13-year-old boys, and their entrepreneurial  entry into the scrap metal business.
 
 Perhaps because Yorkshire-raised Barnard comes from an artist filmmaker background – her earlier shorts were shown at London’s Tate Modern and New York’s MoMA – her Northern grit is delivered in an often elegiac and exquisitely photographed package. In _The Selfish Giant_, the moors beyond Bradford’s Buttershaw Estate are populated by wild horses and dark, satanic pylons looming in the dusk. The film shows none of the wobbles of a first feature. At 48, Barnard seems to have landed here, fully formed as a filmmaker: _The Arbor_ won awards at the BIFAs and the BFI London Film Festival, while _The Selfish Giant_ played to critical acclaim in the Directors’ Fortnight section at this year’s [2013] Cannes.<br>
-**Kate Muir, _Sight & Sound_, November 2013**
+**Kate Muir, _Sight & Sound_, November 2013**<br>
+
+**The Selfish Giant**
+
+_Directed by_: Clio Barnard  
+_©_: Selfish Giant Film Ltd, The British Film Institute,
+
+Channel Four Television Corporation  
+_A_ Moonspun Films _production_  
+_Presented by_: BFI, Film4  
+_Made with the support of_: BFI Film Fund  
+_Executive Producers_: Katherine Butler,
+
+Lizzie Francke  
+_Developed with the assistance of_: Film4  
+_Produced by_: Tracy O’Riordan  
+_Production Manager_: Ameenah Ayub Allen  
+_Production Co-ordinator_: Emma Kayee  
+_Unit Manager_: Gary Preston  
+_Location Manager_: Jonathan Davies
+
+_Additional Location Finding_: Beverley Lamb,
+
+Anna Lee  
+_Post-production Supervisor_: Meg Clark  
+_1st Assistant Director_: Tony Aherne
+
+_2nd Assistant Directors_: Reshma Makan,
+
+Richard Harris
+
+_Script Supervisor_: Sylvia Parker  
+_Casting Director_: Amy Hubbard  
+_Written by_: Clio Barnard  
+_Inspired by Oscar Wilde’s ‘The Selfish Giant’_
+
+_Story Development_: Lila Rawlings  
+_Director of Photography_: Mike Eley  
+_B Camera Operator_: Hamish Doyne-Ditmas
+
+_Steadicam Operator_: Simon Wood  
+_1st Assistant Camera_: Iwan Prys Reynolds
+
+_Gaffer_: Paul Murphy  
+_Grip_: Mark Jones  
+_Still and Specials Photographer_: Agatha A. Nitecka  
+_Visual Effects Supervisors_: Tom Debenham, Dominic Parker  
+_Visual Effects_: One of Us  
+_Digital Artist_: Mike Pope  
+_Special Effects Supervisor_: Scott MacIntyre  
+_Editor_: Nick Fenton  
+_Assembly Editor_: Andrew MacRitchie  
+_Assistant Editor_: Steve Mercer  
+_Production Designer_: Helen Scott  
+_Art Director_: David Bowes  
+_Storyboard Artist_: Douglas Ingram  
+_Production Buyer_: Helen Jones  
+_Props Master_: Neil O’Rourke  
+_Costume Designer_: Matthew Price  
+_Costume Supervisor_: Sophie O’Neil  
+_Make-up and Hair Designer_: Sue Wyburgh  
+_Make-up and Hair Artist_: Alice Hopkins
+_Titles Designed by_: Matt Curtis  
+_Film Laboratory_: Technicolor Pinewood  
+_Composer_: Harry Escott  
+_Guitars_: Craig Fortnam  
+_Flugelhorn_: Joe Auckland  
+_Euphonium_: Trevor Mires  
+_Tenor Horn_: Arthur Lea  
+_Percussion_: Hugh Wilkinson  
+_Music Recorded and Mixed by_: Ian Wood  
+_Sound Designer_: Tim Barker  
+_Sound Recordist_: Tim Barker  
+_Boom Operator_: Chinna Udenze  
+_Re-recording Mixers_: Martin Peter Jensen, Forbes Noonan  
+_Sound Re-recorded at_: Boom Post  
+_Dialogue Editor_: Dan Green  
+_Foley Supervisor_: Juraj Mravec  
+_Foley Artists_: Sue Harding, Andi Derrick  
+_Foley Editor_: Philip Clements  
+_Stunt Co-ordinator_: Abbi Collins  
+_Horse Master_: Abbi Collins  
+_Additional Horse Master_: Paul Murphy  
+_Digital Intermediate_: Molinare
+
+_Cast:_
+
+Conner Chapman _(Arbor Fenton)_  
+Shaun Thomas _(Swifty)_  
+Sean Gilder
+
+_(Chris Kane, ‘Kitten’, ‘The Selfish Giant’)_  
+Lorraine Ashbourne _(Mary)_  
+Ian Burfield _(Mick Brazil)_  
+Steve Evets _(‘Price Drop’ Swift)_  
+Siobhan Finneran _(Mrs Swift)_  
+Ralph Ineson _(Johnny Jones)_  
+Rebecca Manley _(Michelle ‘Shelly’ Fenton)_  
+Rhys McCoy _(Daniel)_  
+Elliott Tittensor _(Martin Fenton)_  
+Everal A. Walsh _(railway man)_  
+John Wall _(school nurse)_  
+Mohammed Ali _(Mo)_  
+Jamie Michie _(teacher)_  
+Bailey Clapham_,_ Jake Gibson_,_  
+Sofina-Rose Hussain_,_ Peter-Lee Lowther_,_
+
+Aron Ryan_,_ Macy Shackleton _(Swift children)_  
+Patrick McCann _(neighbour)_  
+Joshua Foulds _(Josh)_  
+Blake Atkinson _(Blake)_  
+James Booth _(Jay)_  
+Dougie Rooks _(deputy headteacher)_  
+Reece Andrews _(headteacher)_  
+William Fox _(passerby)_  
+Kayle Stephens _(Chip ‘n’ Pin sulky rider)_  
+Michael Cahill _(Smart Price Drop man)_  
+Paul Chapman _(caretaker)_  
+Beverly Higgins _(school secretary)_  
+Harry Calvert _(scrap yard worker)_  
+Robert Hudson_,_ Rob Snell_,_ Max Smith_,_
+
+Chris Yates _(power station workers)_  
+Ken Christiansen _(policeman)_  
+Vicki Hackett _(WPC Hayward)_  
+Matty Bailey _(Kevin)_  
+Steven ‘Peanut’ Walker _(Wizz)_  
+Robert Emms _(Phil the barman)_  
+Garry Page _(Garry)_  
+Tim Paley _(driver)_  
+David J. Peel _(Huddersfield scrapyard man)_  
+Joshua Haase_,_ Simon Hearn_,_ Mark Pitts _(policemen)_  
+Ragdoll _(Tarmac Tommy)_  
+Junior _(Diesel)_  
+Princess Bush _(Chip ‘n’ Pin)_  
+Queenie _(Mare)_  
+Duchess _(Foal)_
+
+UK 2013©
+
+91 mins
+
+NFTS AT 50
+
+**The Selfish Giant + Q&A with director Clio Barnard** Mon 20 Sep 20:50
+
+**Oranges Are Not the Only Fruit + Q&A with director Beeban Kidron** Thu 23 Sep 18:00
+
+**Kurt & Courtney + Q&A with director Nick Broomfield** Sat 25 Sep 14:30
+
+**Theatre Girls + Q&A with director Kim Longinotto** Sun 26 Sep 15:40
+
+**Surge + Q&A with director Aneil Karia**
+
+Tue 28 Sep 17:40
+
+**Of Time and the City + Q&A with director Terence Davies** Sat 2 Oct 14:15
+
+**Rocks + Q&A with director Sarah Gavron**
+
+Sat 2 Oct 17:30<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODk3MjgwNDRdfQ==
+eyJoaXN0b3J5IjpbMTgzMjkzMjg2N119
 -->
