@@ -33,47 +33,32 @@ The key to Clio Barnard’s work is a radical pursuit of truth, by whatever mean
 Perhaps because Yorkshire-raised Barnard comes from an artist filmmaker background – her earlier shorts were shown at London’s Tate Modern and New York’s MoMA – her Northern grit is delivered in an often elegiac and exquisitely photographed package. In _The Selfish Giant_, the moors beyond Bradford’s Buttershaw Estate are populated by wild horses and dark, satanic pylons looming in the dusk. The film shows none of the wobbles of a first feature. At 48, Barnard seems to have landed here, fully formed as a filmmaker: _The Arbor_ won awards at the BIFAs and the BFI London Film Festival, while _The Selfish Giant_ played to critical acclaim in the Directors’ Fortnight section at this year’s [2013] Cannes.<br>
 **Kate Muir, _Sight & Sound_, November 2013**<br>
 
-**The Selfish Giant**
-
+**THE SELFISH GIANT**
 _Directed by_: Clio Barnard  
-_©_: Selfish Giant Film Ltd, The British Film Institute,
-
-Channel Four Television Corporation  
+_©_: Selfish Giant Film Ltd, The British Film Institute, Channel Four Television Corporation  
 _A_ Moonspun Films _production_  
 _Presented by_: BFI, Film4  
 _Made with the support of_: BFI Film Fund  
-_Executive Producers_: Katherine Butler,
-
-Lizzie Francke  
+_Executive Producers_: Katherine Butler, Lizzie Francke  
 _Developed with the assistance of_: Film4  
 _Produced by_: Tracy O’Riordan  
 _Production Manager_: Ameenah Ayub Allen  
 _Production Co-ordinator_: Emma Kayee  
 _Unit Manager_: Gary Preston  
 _Location Manager_: Jonathan Davies
-
-_Additional Location Finding_: Beverley Lamb,
-
-Anna Lee  
+_Additional Location Finding_: Beverley Lamb, Anna Lee  
 _Post-production Supervisor_: Meg Clark  
 _1st Assistant Director_: Tony Aherne
-
-_2nd Assistant Directors_: Reshma Makan,
-
-Richard Harris
-
+_2nd Assistant Directors_: Reshma Makan, Richard Harris  
 _Script Supervisor_: Sylvia Parker  
 _Casting Director_: Amy Hubbard  
 _Written by_: Clio Barnard  
 _Inspired by Oscar Wilde’s ‘The Selfish Giant’_
-
 _Story Development_: Lila Rawlings  
 _Director of Photography_: Mike Eley  
 _B Camera Operator_: Hamish Doyne-Ditmas
-
 _Steadicam Operator_: Simon Wood  
 _1st Assistant Camera_: Iwan Prys Reynolds
-
 _Gaffer_: Paul Murphy  
 _Grip_: Mark Jones  
 _Still and Specials Photographer_: Agatha A. Nitecka  
@@ -114,15 +99,12 @@ _Foley Editor_: Philip Clements
 _Stunt Co-ordinator_: Abbi Collins  
 _Horse Master_: Abbi Collins  
 _Additional Horse Master_: Paul Murphy  
-_Digital Intermediate_: Molinare
+_Digital Intermediate_: Molinare  
 
-_Cast:_
-
+**Cast**  
 Conner Chapman _(Arbor Fenton)_  
 Shaun Thomas _(Swifty)_  
-Sean Gilder
-
-_(Chris Kane, ‘Kitten’, ‘The Selfish Giant’)_  
+Sean Gilder _(Chris Kane, ‘Kitten’, ‘The Selfish Giant’)_  
 Lorraine Ashbourne _(Mary)_  
 Ian Burfield _(Mick Brazil)_  
 Steve Evets _(‘Price Drop’ Swift)_  
@@ -135,8 +117,7 @@ Everal A. Walsh _(railway man)_
 John Wall _(school nurse)_  
 Mohammed Ali _(Mo)_  
 Jamie Michie _(teacher)_  
-Bailey Clapham_,_ Jake Gibson_,_  
-Sofina-Rose Hussain_,_ Peter-Lee Lowther_,_
+Bailey Clapham, Jake Gibson, Sofina-Rose Hussain_,_ Peter-Lee Lowther_,_
 
 Aron Ryan_,_ Macy Shackleton _(Swift children)_  
 Patrick McCann _(neighbour)_  
@@ -193,5 +174,5 @@ Tue 28 Sep 17:40
 
 Sat 2 Oct 17:30<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjkzMjg2N119
+eyJoaXN0b3J5IjpbLTE1MzA5ODg2NTVdfQ==
 -->
