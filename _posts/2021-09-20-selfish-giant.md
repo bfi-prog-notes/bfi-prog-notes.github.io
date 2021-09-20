@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Selfish Giant
+published: true
+date: 2021-09-20
+readtime: true
+categories: ['NFTS AT 50']
+tags: [Drama]
+metadata: 'UK 2013, 91 mins<br> Director: Clio Barnard'
+pdf: '2021-09-20-selfish-giant.pdf'
+---
 
 
 _+ Q&A with director Clio Barnard_
@@ -33,7 +44,7 @@ The key to Clio Barnard’s work is a radical pursuit of truth, by whatever mean
 Perhaps because Yorkshire-raised Barnard comes from an artist filmmaker background – her earlier shorts were shown at London’s Tate Modern and New York’s MoMA – her Northern grit is delivered in an often elegiac and exquisitely photographed package. In _The Selfish Giant_, the moors beyond Bradford’s Buttershaw Estate are populated by wild horses and dark, satanic pylons looming in the dusk. The film shows none of the wobbles of a first feature. At 48, Barnard seems to have landed here, fully formed as a filmmaker: _The Arbor_ won awards at the BIFAs and the BFI London Film Festival, while _The Selfish Giant_ played to critical acclaim in the Directors’ Fortnight section at this year’s [2013] Cannes.<br>
 **Kate Muir, _Sight & Sound_, November 2013**<br>
 
-**THE SELFISH GIANT**
+**THE SELFISH GIANT**  
 _Directed by_: Clio Barnard  
 _©_: Selfish Giant Film Ltd, The British Film Institute, Channel Four Television Corporation  
 _A_ Moonspun Films _production_  
@@ -45,20 +56,20 @@ _Produced by_: Tracy O’Riordan
 _Production Manager_: Ameenah Ayub Allen  
 _Production Co-ordinator_: Emma Kayee  
 _Unit Manager_: Gary Preston  
-_Location Manager_: Jonathan Davies
+_Location Manager_: Jonathan Davies<br>
 _Additional Location Finding_: Beverley Lamb, Anna Lee  
 _Post-production Supervisor_: Meg Clark  
-_1st Assistant Director_: Tony Aherne
+_1st Assistant Director_: Tony Aherne<br>
 _2nd Assistant Directors_: Reshma Makan, Richard Harris  
 _Script Supervisor_: Sylvia Parker  
 _Casting Director_: Amy Hubbard  
 _Written by_: Clio Barnard  
-_Inspired by Oscar Wilde’s ‘The Selfish Giant’_
+_Inspired by Oscar Wilde’s ‘The Selfish Giant’_<br>
 _Story Development_: Lila Rawlings  
 _Director of Photography_: Mike Eley  
-_B Camera Operator_: Hamish Doyne-Ditmas
+_B Camera Operator_: Hamish Doyne-Ditmas<br>
 _Steadicam Operator_: Simon Wood  
-_1st Assistant Camera_: Iwan Prys Reynolds
+_1st Assistant Camera_: Iwan Prys Reynolds<br>
 _Gaffer_: Paul Murphy  
 _Grip_: Mark Jones  
 _Still and Specials Photographer_: Agatha A. Nitecka  
@@ -77,12 +88,12 @@ _Props Master_: Neil O’Rourke
 _Costume Designer_: Matthew Price  
 _Costume Supervisor_: Sophie O’Neil  
 _Make-up and Hair Designer_: Sue Wyburgh  
-_Make-up and Hair Artist_: Alice Hopkins
+_Make-up and Hair Artist_: Alice Hopkins<br>
 _Titles Designed by_: Matt Curtis  
 _Film Laboratory_: Technicolor Pinewood  
 _Composer_: Harry Escott  
 _Guitars_: Craig Fortnam  
-_Flugelhorn_: Joe Auckland  
+_Flugelhorn_: Joe Auckland   
 _Euphonium_: Trevor Mires  
 _Tenor Horn_: Arthur Lea  
 _Percussion_: Hugh Wilkinson  
@@ -165,6 +176,30 @@ Tue 28 Sep 17:40<br>
 Sat 2 Oct 14:15<br>
 **Rocks + Q&A with director Sarah Gavron**<br>
 Sat 2 Oct 17:30<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDcyOTQwM119
--->
+
+<img style="float: left;" src="/img/NFTS.png"><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+ 
+ 
+ 
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
