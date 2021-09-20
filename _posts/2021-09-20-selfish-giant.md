@@ -117,9 +117,7 @@ Everal A. Walsh _(railway man)_
 John Wall _(school nurse)_  
 Mohammed Ali _(Mo)_  
 Jamie Michie _(teacher)_  
-Bailey Clapham, Jake Gibson, Sofina-Rose Hussain_,_ Peter-Lee Lowther_,_
-
-Aron Ryan_,_ Macy Shackleton _(Swift children)_  
+Bailey Clapham, Jake Gibson, Sofina-Rose Hussain, Peter-Lee Lowther, Aron Ryan, Macy Shackleton _(Swift children)_  
 Patrick McCann _(neighbour)_  
 Joshua Foulds _(Josh)_  
 Blake Atkinson _(Blake)_  
@@ -132,9 +130,7 @@ Michael Cahill _(Smart Price Drop man)_
 Paul Chapman _(caretaker)_  
 Beverly Higgins _(school secretary)_  
 Harry Calvert _(scrap yard worker)_  
-Robert Hudson_,_ Rob Snell_,_ Max Smith_,_
-
-Chris Yates _(power station workers)_  
+Robert Hudson,  Rob Snell, Max Smith, Chris Yates _(power station workers)_  
 Ken Christiansen _(policeman)_  
 Vicki Hackett _(WPC Hayward)_  
 Matty Bailey _(Kevin)_  
@@ -143,23 +139,22 @@ Robert Emms _(Phil the barman)_
 Garry Page _(Garry)_  
 Tim Paley _(driver)_  
 David J. Peel _(Huddersfield scrapyard man)_  
-Joshua Haase_,_ Simon Hearn_,_ Mark Pitts _(policemen)_  
+Joshua Haase, Simon Hearn, Mark Pitts _(policemen)_  
 Ragdoll _(Tarmac Tommy)_  
 Junior _(Diesel)_  
 Princess Bush _(Chip ‘n’ Pin)_  
 Queenie _(Mare)_  
-Duchess _(Foal)_
+Duchess _(Foal)_<br>
 
-UK 2013©
+UK 2013©<br>
+91 mins<br>
 
-91 mins
+**NFTS AT 50**
 
-NFTS AT 50
-
-**The Selfish Giant + Q&A with director Clio Barnard** Mon 20 Sep 20:50
-
-**Oranges Are Not the Only Fruit + Q&A with director Beeban Kidron** Thu 23 Sep 18:00
-
+**The Selfish Giant + Q&A with director Clio Barnard** <br>
+Mon 20 Sep 20:50<br>
+**Oranges Are Not the Only Fruit + Q&A with director Beeban Kidron** <br>
+Thu 23 Sep 18:00<br>
 **Kurt & Courtney + Q&A with director Nick Broomfield** Sat 25 Sep 14:30
 
 **Theatre Girls + Q&A with director Kim Longinotto** Sun 26 Sep 15:40
@@ -174,5 +169,5 @@ Tue 28 Sep 17:40
 
 Sat 2 Oct 17:30<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzA5ODg2NTVdfQ==
+eyJoaXN0b3J5IjpbLTgxNDYwNjY1N119
 -->
