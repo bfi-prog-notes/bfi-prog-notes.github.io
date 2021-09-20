@@ -34,24 +34,20 @@ Ibrahim studied filmmaking at the Filmuniversität Babelsberg Konrad Wolf (at th
 **Manar Al-Hilo**  
 Manar graduated from the Cairo Higher Institute for Cinema in 1977. He was always dedicated to championing the works of his other friends. He worked on the production of all their films produced in Sudan. His smart wit persuasively found miraculous solutions to overcome production obstacles in a country without production means. He is a radical dreamer who loves cinema but does not cease to question the usefulness of its actions and the moral legitimacy of wanting to talk about cinema in a time of assassins and atrocities.
 
-**Suliman Ibrahim**Suliman studied documentary filmmaking at the VGIK Institute of Cinematography in Moscow from 1973 to 1978. He was awarded the Silver Prize for his short film _It Still Rotates_ at the Moscow International Film Festival 1979. He is the driving force of the group, very disciplined and inventive; he finds the answers to all the practical questions. He refused to go into exile following the military coup in 1989.
+**Suliman Ibrahim**  
+Suliman studied documentary filmmaking at the VGIK Institute of Cinematography in Moscow from 1973 to 1978. He was awarded the Silver Prize for his short film _It Still Rotates_ at the Moscow International Film Festival 1979. He is the driving force of the group, very disciplined and inventive; he finds the answers to all the practical questions. He refused to go into exile following the military coup in 1989.
 
-**El Tayeb Mahdi**El Tayeb graduated from the Cairo Higher Institute for Cinema in 1977. He has directed several artistically daring short films such as _The Station_ (1988), _Four Times for Children_ (1979), _The Tomb_ (1976). El Tayeb is a man of few words but his brevity will always deliver the missing thought.
+**El Tayeb Mahdi**  
+El Tayeb graduated from the Cairo Higher Institute for Cinema in 1977. He has directed several artistically daring short films such as _The Station_ (1988), _Four Times for Children_ (1979), _The Tomb_ (1976). El Tayeb is a man of few words but his brevity will always deliver the missing thought.
 
-Production notes
+**Production notes**
+<br><br>
 
-<![endif]-->
-
-**Talking about Trees**
-
+**TALKING ABOUT TREES**  
 _Directed by_: Suhaib Gasmelbari  
-©: Agat Films & Cie, Doha Film Institute,  
-Sudanese Film Group, MADE IN GERMANY Filmproduktion, Goï-Goï Productions,  
-Vidéo de Poche  
+©: Agat Films & Cie, Doha Film Institute,  Sudanese Film Group, MADE IN GERMANY Filmproduktion, Goï-Goï Productions,  Vidéo de Poche  
 _Production Company_: Agat Films & Cie  
-_In co-production with_: Goï-Goï Productions,  
-MADE IN GERMANY Filmproduktion,  
-Vidéo de Poche, Doha Film Institute  
+_In co-production with_: Goï-Goï Productions,  MADE IN GERMANY Filmproduktion,  Vidéo de Poche, Doha Film Institute  
 _In association with the_: Sudanese Film Group (SFG)  
 _With the support of_: L’Aide aux cinémas du monde - Centre national du cinéma et de l'image animée  
 _With the support of_: Ministère de l'Europe et des Affaires étrangères - Institut Français  
@@ -59,25 +55,22 @@ _Realised with the support of the_: IDFA Bertha Fund, Creative Europe MEDIA, La 
 _Presented by_: Agat Films & Cie  
 _International Sales_: Wide House  
 _Produced by_: Marie Balducchi  
-_Co-produced by_: Mahamat Saleh Haroun,  
-Melanie Andernach  
+_Co-produced by_: Mahamat Saleh Haroun,  Melanie Andernach  
 _Written by_: Suhaib Gasmelbari  
 _Photography_: Suhaib Gasmelbari  
 _Editors_: Nelly Quettier, Gladys Joujou  
 _Sound_: ElSadig Kamal, Katharina Von Schroeder
 
-_With:_
-
+**With**  
 Ibrahim Shaddad  
 Suliman Ibrahim  
 El Tayeb Mahdi  
-Manar Al-Hilo
-
+Manar Al-Hilo  
 Hana Abdelrahman Suliman
 
-France/Sudan/Germany/Chad/Qatar/Netherlands/ Lebanon/United Arab Emirates/Italy 2019©
-
+France/Sudan/Germany/Chad/Qatar/Netherlands/ Lebanon/United Arab Emirates/Italy 2019©  
 93 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDM1MDI2MzVdfQ==
+eyJoaXN0b3J5IjpbOTc5MjE4NzQ2XX0=
 -->
