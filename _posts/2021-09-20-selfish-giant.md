@@ -155,19 +155,16 @@ UK 2013©<br>
 Mon 20 Sep 20:50<br>
 **Oranges Are Not the Only Fruit + Q&A with director Beeban Kidron** <br>
 Thu 23 Sep 18:00<br>
-**Kurt & Courtney + Q&A with director Nick Broomfield** Sat 25 Sep 14:30
-
-**Theatre Girls + Q&A with director Kim Longinotto** Sun 26 Sep 15:40
-
-**Surge + Q&A with director Aneil Karia**
-
-Tue 28 Sep 17:40
-
-**Of Time and the City + Q&A with director Terence Davies** Sat 2 Oct 14:15
-
-**Rocks + Q&A with director Sarah Gavron**
-
+**Kurt & Courtney + Q&A with director Nick Broomfield** <br>
+Sat 25 Sep 14:30<br>
+**Theatre Girls + Q&A with director Kim Longinotto**<br>
+Sun 26 Sep 15:40<br>
+**Surge + Q&A with director Aneil Karia**<br>
+Tue 28 Sep 17:40<br>
+**Of Time and the City + Q&A with director Terence Davies** <br>
+Sat 2 Oct 14:15<br>
+**Rocks + Q&A with director Sarah Gavron**<br>
 Sat 2 Oct 17:30<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDYwNjY1N119
+eyJoaXN0b3J5IjpbMjAxNDcyOTQwM119
 -->
