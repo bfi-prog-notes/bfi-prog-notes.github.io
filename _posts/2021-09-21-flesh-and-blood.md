@@ -33,10 +33,9 @@ Now that costume pictures are out of fashion, it may be a long time again before
 _The Women_.) No doubt she was delightful on Broadway in _The Confidential Clerk_; certainly she was in London during the time she played in _Bell Book and Candle_. This was a comedy in which she was cast as a witch – and there was another, never brought to the West End, in which she changed into a cat…  
 And this, of course, is the alarming thing. Whenever she has been absent for some time, the element of fantastic speculation enters in and strange visions fill the mind; the actress may be holidaying on a broomstick, or relaxing as a lovely blue-point Siamese in some adoring, enslaved household, or, having simply played a Dunne-like trick of time upon herself, be enjoying a characteristic foray in some vanished elegant society. One knows she will come back, because she can obviously manage this kind of thing with ease. But one hopes it will be soon.  
 **‘People of Talent: Joan Greenwood’, _Sight and Sound_, Spring 1956**
-<
+<br><br>
 
-**Flesh and Blood**
-
+**FLESH AND BLOOD**  
 _Directed by_: Anthony Kimmins  
 _Production Companies_: London Film Productions, Harefield Productions  
 _Producer_: Anatole de Grunwald  
@@ -61,10 +60,8 @@ _Sound_: A.E. Rudolph
 _Dubbing_: Lee Doig  
 _Studio_: Teddington Studios
 
-_Cast:_
-
-Richard Todd_  
-(Charles Cameron/Ch. Cameron Sutherland)_  
+**Cast**  
+Richard Todd _(Charles Cameron/Ch. Cameron Sutherland)_  
 Glynis Johns _(Katherine)_  
 Joan Greenwood _(Wilhelmina)_  
 André Morell _(Dr Marshall)_  
@@ -103,13 +100,14 @@ Sally Owen _(the doll)_
 William Chappell _(the dancer)_  
 Jock McKay _(baker)_
 
-UK 1951
-
+UK 1951  
 96 mins
 
-* Uncredited
+*Uncredited
 
 A BFI National Archive print
+<br><br>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTg2NTczMDVdfQ==
+eyJoaXN0b3J5IjpbMTcxNDcxMTYxOV19
 -->
