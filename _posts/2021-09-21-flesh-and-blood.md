@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Flesh and Blood
+published: true
+date: 2021-09-21
+readtime: true
+categories: ['PROJECTING THE ARCHIVE']
+tags: [Drama]
+metadata: 'UK 1951, 96 mins<br> Director: Anthony Kimmins'
+pdf: '2021-09-21-flesh-and-blood.pdf'
+---
 
 _Introduced by Jason Morell, actor and son of Joan Greenwood_
 
@@ -19,19 +29,13 @@ She did better in America than some of her contemporaries (cf. _Moonfleet_, d. F
 
 **From the archives: a 1956 profile of Joan Greenwood**
 
-It is less than a year since _Moonfleet_; and already one misses her.  
-The Hollywood journey, besides, had been preceded by one to Paris, where she appeared as a cat-burglar in a minor film with Bourvil. It seems that the British cinema, which developed her, is in danger of losing this extraordinary actress; but she is the kind of exquisite, idiosyncratic luxury that it can ill afford to lose.
+It is less than a year since _Moonfleet_; and already one misses her.  The Hollywood journey, besides, had been preceded by one to Paris, where she appeared as a cat-burglar in a minor film with Bourvil. It seems that the British cinema, which developed her, is in danger of losing this extraordinary actress; but she is the kind of exquisite, idiosyncratic luxury that it can ill afford to lose.
 
-First of all, Joan Greenwood demands a surrender to personality. Her use of deliberate ironic mannerism, her method of speaking lines of dialogue as if, as one critic has remarked, ‘she dimly suspected some hidden menace in them’, reflects a nature which can best be described as beautifully eccentric.  
-The eccentricity is not wholly of our time, and for this reason it flowered most fully in _Kind Hearts and Coronets_ and _Father Brown_ (the latter, though technically present-day, seemed really to be masquerading in modern dress). Her work with Robert Hamer brought out a _fin-de-siècle_ perverseness and elegance, a joy in the refined but outrageous gesture; and in her feline, purring yet deadly Sybilla, her playful widowed Lady Warren (she must have poisoned Lord Warren, one thought immediately), there was a suggestion of the leisure, the _outré_ sophistication of another age. The same love of the deliciously freakish links two other performances with these: her Gwendolen in Anthony Asquith’s adaptation of _The Importance of Being Earnest_, supercilious, wickedly affected – above all in her display of lorgnette, and her insolent filling of Cecily Cardew’s cup of tea with innumerable lumps of sugar – and her  
-Lady Clarissa, the drawling, mocking but somehow formidable villainess  
-of _Moonfleet_.
+First of all, Joan Greenwood demands a surrender to personality. Her use of deliberate ironic mannerism, her method of speaking lines of dialogue as if, as one critic has remarked, ‘she dimly suspected some hidden menace in them’, reflects a nature which can best be described as beautifully eccentric.  The eccentricity is not wholly of our time, and for this reason it flowered most fully in _Kind Hearts and Coronets_ and _Father Brown_ (the latter, though technically present-day, seemed really to be masquerading in modern dress). Her work with Robert Hamer brought out a _fin-de-siècle_ perverseness and elegance, a joy in the refined but outrageous gesture; and in her feline, purring yet deadly Sybilla, her playful widowed Lady Warren (she must have poisoned Lord Warren, one thought immediately), there was a suggestion of the leisure, the _outré_ sophistication of another age. The same love of the deliciously freakish links two other performances with these: her Gwendolen in Anthony Asquith’s adaptation of _The Importance of Being Earnest_, supercilious, wickedly affected – above all in her display of lorgnette, and her insolent filling of Cecily Cardew’s cup of tea with innumerable lumps of sugar – and her  Lady Clarissa, the drawling, mocking but somehow formidable villainess  of _Moonfleet_.
 
 Yet this is not the whole truth. Though the extraordinariness is always there, in the quizzical scoop of the voice and the faintly derisive air of astonishment at wherever – and with whoever – she happens to be, she is by no means as limited an actress as one might expect. Coming down to earth, she knows at once, really, where she is. Her Scots girl in _Whisky Galore!_, her industrialist’s daughter in _The Man in the White Suit_, her suburban girl in _Knave of Hearts_, were all genuinely felt and observed creations. Whether slanted to comedy (the delicious moment in _Whisky Galore!_ when she refuses to admit the customs officials in the middle of the night with the simple announcement, ‘Post Office is closed’) or to drama (the beautifully played scene with Gérard Philipe in _Knave of Hearts_ when she suspects he is going to desert her), they have a subtle individual truth. And they are never simple: the reward, perhaps, of the eccentric’s temperament.
 
-Now that costume pictures are out of fashion, it may be a long time again before we see her superbly frilled, parasolled and hatted, moving through a comedy of manners with that perfect, ruthless fastidiousness. But the contemporary scene also has need of her, with her special, unexpected intuitions of character, and it would be sad if she were lost to the stage. (Devotees, incidentally, may remember her in 1939 as Little Mary in  
-_The Women_.) No doubt she was delightful on Broadway in _The Confidential Clerk_; certainly she was in London during the time she played in _Bell Book and Candle_. This was a comedy in which she was cast as a witch – and there was another, never brought to the West End, in which she changed into a cat…  
-And this, of course, is the alarming thing. Whenever she has been absent for some time, the element of fantastic speculation enters in and strange visions fill the mind; the actress may be holidaying on a broomstick, or relaxing as a lovely blue-point Siamese in some adoring, enslaved household, or, having simply played a Dunne-like trick of time upon herself, be enjoying a characteristic foray in some vanished elegant society. One knows she will come back, because she can obviously manage this kind of thing with ease. But one hopes it will be soon.  
+Now that costume pictures are out of fashion, it may be a long time again before we see her superbly frilled, parasolled and hatted, moving through a comedy of manners with that perfect, ruthless fastidiousness. But the contemporary scene also has need of her, with her special, unexpected intuitions of character, and it would be sad if she were lost to the stage. (Devotees, incidentally, may remember her in 1939 as Little Mary in  _The Women_.) No doubt she was delightful on Broadway in _The Confidential Clerk_; certainly she was in London during the time she played in _Bell Book and Candle_. This was a comedy in which she was cast as a witch – and there was another, never brought to the West End, in which she changed into a cat…  And this, of course, is the alarming thing. Whenever she has been absent for some time, the element of fantastic speculation enters in and strange visions fill the mind; the actress may be holidaying on a broomstick, or relaxing as a lovely blue-point Siamese in some adoring, enslaved household, or, having simply played a Dunne-like trick of time upon herself, be enjoying a characteristic foray in some vanished elegant society. One knows she will come back, because she can obviously manage this kind of thing with ease. But one hopes it will be soon.  
 **‘People of Talent: Joan Greenwood’, _Sight and Sound_, Spring 1956**
 <br><br>
 
@@ -107,6 +111,83 @@ UK 1951
 
 A BFI National Archive print
 <br><br>
+
+**REGULAR PROGRAMME**<br>
+**Art in the Making: Cinema Architecture and Atmosphere + discussion**<br>
+Thu 23 Sep 18:10<br>
+**Member Picks: Moonstruck**<br>
+Fri 24 Sep 18:05<br>
+**Silent Cinema: Nasty Women: A Comic Tribute + intro by curator Bryony Dixon**<br>
+Sun 26 Sep 12:40<br>
+**Terror Vision: Altered States**<br>
+Thu 30 Sep 21:00<br>
+**Projecting the Archive:  Dutchman + intro and panel discussion**<br>
+Tue 19 Oct 18:15<br>
+**BFI Flare: Tongues Untied + intro by programmer Rico Johnson-Sinclair**<br>
+Wed 20 Oct 20:30<br>
+**Experimenta: Frantz Fanon: Black Skin White Mask + discussion**<br>
+Thu 21 Oct 18:00<br>
+**BFI Flare: Black Is... Black Ain’t + intro by programmer Rico Johnson-Sinclair**<br>
+Thu 21 Oct 20:40<br>
+**Art in the Making: The Black Arts Movement on Film + discussion**<br>
+Wed 27 Oct 20:40<br>
+**Woman with a Movie Camera Preview: Anatomy of Wings + pre-recorded Q&A**<br>
+Thu 28 Oct 18:15<br>
+**Silent Cinema: Body and Soul + intro**<br>
+Sun 31 Oct 14:20<br>
+**Member Picks: Moonlight**<br>
+Fri 5 Nov 18:10<br>
+**African Odysseys: Black History Walks Presents: Cause for Concern: Equal Before the Law**<br>
+Fri 5 Nov 18:30-21:30 Blue Room<br>
+**African Odysseys: A Date with the Devil: Darcus Howe’s Journey from Black Power to Broadcasting**<br>
+Sat 6 Nov 12:00-18:00<br>
+**African Odysseys: Travels with my Camera: Is This My Country? + White Tribe**<br>
+Tue 9 Nov 18:10<br>
+**African Odysseys: Trouble in Paradise  + Darcus Howe: Son of Mine**<br>
+Sun 14 Nov 15:30<br>
+**Terror Vision: Tales from the Hood**<br>
+Thu 25 Nov 20:40<br>
+**Seniors’ Free Matinee, in partnership with African Odysseys: Once Upon a Time… When We Were Colored + intro**<br>
+Mon 29 Nov 14:00<br>
+
+**IN PERSON & PREVIEWS**<br>
+**Preview: Convergence + Q&A with director Orlando von Einsiedel and  
+co-director and film contributor  Hassan Akkad**<br>
+Wed 29 Sep 19:00<br>
+**60th Anniversary: Whistle Down the Wind + actor Hayley Mills in Conversation**<br>
+Sun 3 Oct 12:00<br>
+**Preview: Dune + pre-recorded Q&A  with Denis Villeneuve**<br>
+Tue 5 Oct 18:30<br>
+**Mark Kermode Live in 3D at the BFI**<br>
+Mon 18 Oct 18:15; Mon 8 Nov 18:10<br>
+**Preview: Last Night in Soho**<br>
+Thu 21 Oct 17:50<br>
+**Screen Epiphany: Adjoa Andoh**<br>
+Sun 24 Oct 18:30<br>
+**Mike Leigh in Conversation**<br>
+Thu 28 Oct 20:40<br>
+**Preview: Drive My Car (Doraibu mai kâ)**<br>
+Mon 15 Nov 19:40<br>
+**TV Preview:  The Amazing Mr Blunden + Q&A**<br>
+Mon 29 Nov 18:15<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTcxNDcxMTYxOV19
