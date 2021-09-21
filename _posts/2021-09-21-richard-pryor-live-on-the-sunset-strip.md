@@ -7,7 +7,7 @@ readtime: true
 categories: ['A PRYOR ENGAGEMENT']
 tags: [Comedy]
 metadata: 'USA 1982, 82 mins<br> Director: Joe Layton'
-pdf: '2021-09-16-richard-pryor-live-on-the-sunset-strip.pdf'
+pdf: '2021-09-21-richard-pryor-live-on-the-sunset-strip.pdf'
 ---
 
 In his return to the stage after a highly publicised, drugged-fuelled accident, Pryor somehow outdoes himself, oscillating between some of his best-loved riffs and characters and a confessional mode as he lays bare many of his demons, from his relationships with women to his struggle with addiction.<br>
