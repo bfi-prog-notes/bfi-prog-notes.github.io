@@ -7,7 +7,7 @@ readtime: true
 categories: ['THE TIME IS NEW']
 tags: [Drama]
 metadata: 'Algeria/France/Qatar 2019, 135 mins<br> Director: Amin Sidi-Boumédiène'
-pdf: '2021-09-14-tlamess.pdf'
+pdf: '2021-09-26-abou-lelia.pdf'
 ---
 
 Algeria, 1994. S. and Lotfi, two childhood friends, cross the desert in search of Abou Leila, a dangerous terrorist. The quest seems absurd in the immensity of the Sahara. But S., whose mental health is vacillating, is convinced to find Abou Leila there. Lotfi has only one idea in mind: to move S. away from the capital. It is by sinking into the desert that they will confront their own violence.<br>
