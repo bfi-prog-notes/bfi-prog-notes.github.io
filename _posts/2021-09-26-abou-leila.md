@@ -6,7 +6,7 @@ date: 2021-09-26
 readtime: true
 categories: ['THE TIME IS NEW']
 tags: [Drama]
-metadata: 'Algeria/France/Qatar 2019, 135 mins<br> Director: Amin Sidi-Boumédiène'
+metadata: 'Algeria/France/Qatar 2019, 135 mins<br> Director: Amin Sidi-Boumediene'
 pdf: '2021-09-26-abou-lelia.pdf'
 ---
 
