@@ -27,44 +27,28 @@ There are, however, very interesting personalities that are emerging more and mo
 **Production notes**<br>
 
 
-**Abou Leila**
-
-_Director:_ Amin Sidi-Boumédiène
-
+**ABOU LEILA**<br>
+_Director:_ Amin Sidi-Boumédiène<br>
 _Producers:_ Fayçal Hammoum, Yacine Bouaziz,
+Louise Bellicaud, Claire Charles-Gervais<br>
+_Screenplay:_ Amin Sidi-Boumédiène<br>
+_Photography:_ Kanamé Onoyama<br>
+_Editing:_ Amin Sidi-Boumédiène<br>
+_Set Design:_ Hamid Boughrara, Laurent Le Corre<br>
+_Sound:_ Mohamed Amine Teggar,  <br>
+Nassim El Mounabbih, Benjamin Lec<br>
 
-Louise Bellicaud, Claire Charles-Gervais
+**Cast**<br>
+Slimane Benouari<br>
+Lyes Salem<br>
+Azouz Abdelkader<br>
+Fouad Megiraga<br>
+Meryem Medjkane<br>
+Hocine Mokhtar<br>
+Samir El Hakim<br>
 
-_Screenplay:_ Amin Sidi-Boumédiène
-
-_Photography:_ Kanamé Onoyama
-
-_Editing:_ Amin Sidi-Boumédiène
-
-_Set Design:_ Hamid Boughrara, Laurent Le Corre
-
-_Sound:_ Mohamed Amine Teggar,  
-Nassim El Mounabbih, Benjamin Lec
-
-_Cast:_
-
-Slimane Benouari
-
-Lyes Salem
-
-Azouz Abdelkader
-
-Fouad Megiraga
-
-Meryem Medjkane
-
-Hocine Mokhtar
-
-Samir El Hakim
-
-Algeria/France/Qatar 2019
-
-135 mins
+Algeria/France/Qatar 2019<br>
+135 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjQzODMyMV19
+eyJoaXN0b3J5IjpbLTE0NzkwNjM1NzNdfQ==
 -->
