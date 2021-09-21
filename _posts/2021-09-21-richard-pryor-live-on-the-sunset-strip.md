@@ -32,22 +32,16 @@ _Make-up Consultant_: Guy Astier
 _Make-up Artists_: Sirlord Donl Morse, Harry Thomas  
 _Opticals_: Pacific Title  
 _Main title music_: Harry Betts  
-_Sound Recording_: Biff Dawes, Bud Maffett,
-
-Lee Strosnider  
-_Sound Re-recording_: Les Fresholtz,
-
-Arthur Piantadosi, Dick Alexander  
+_Sound Recording_: Biff Dawes, Bud Maffett, Lee Strosnider  
+_Sound Re-recording_: Les Fresholtz, Arthur Piantadosi, Dick Alexander  
 _Sound Editors_: Jeff Bushelman, Pat Somerset, Burbank Editorial and Sound Service  
 _Creative Consultant_: Paul Mooney
 
-_With:_
+**With**
+Richard Pryor<br>
 
-Richard Pryor
-
-USA 1982
-
-82 mins
+USA 1982<br>
+82 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwMzE1NzU3XX0=
+eyJoaXN0b3J5IjpbLTEzNjcxOTMyNjVdfQ==
 -->
