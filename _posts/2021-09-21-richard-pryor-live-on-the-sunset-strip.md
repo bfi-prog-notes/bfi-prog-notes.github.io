@@ -42,8 +42,8 @@ _Make-up Consultant_: Guy Astier
 _Make-up Artists_: Sirlord Donl Morse, Harry Thomas  
 _Opticals_: Pacific Title  
 _Main title music_: Harry Betts  
-_Sound Recording_: Biff Dawes, Bud Maffett, Lee Strosnider  
-_Sound Re-recording_: Les Fresholtz, Arthur Piantadosi, Dick Alexander  
+_Sound Recording_: Biff Dawes, Bud Maffett,Lee Strosnider  
+_Sound Re-recording_: Les Fresholtz,Arthur Piantadosi, Dick Alexander  
 _Sound Editors_: Jeff Bushelman, Pat Somerset, Burbank Editorial and Sound Service  
 _Creative Consultant_: Paul Mooney
 
@@ -115,3 +115,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3MjgyNzE3NDZdfQ==
+-->
