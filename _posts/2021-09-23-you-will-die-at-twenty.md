@@ -51,68 +51,66 @@ There is no cinema industry in Sudan, therefore almost no cinema actors.
 But I only needed professional actors for the Sakina and Suleiman parts.  
 For Muzamil, I met 150 boys, and at the end of the second day, Mustafa appeared…
 
-I gathered an international crew. But if the heads of departments were foreigners, their assistants were Sudanese: I wanted Sudanese technicians to learn how a film is made. I deeply wish the rebirth of a Sudanese film industry. My film is only the eighth feature fiction film ever produced in Sudan!
+I gathered an international crew. But if the heads of departments were foreigners, their assistants were Sudanese: I wanted Sudanese technicians to learn how a film is made. I deeply wish the rebirth of a Sudanese film industry. My film is only the eighth feature fiction film ever produced in Sudan!  
+**Production notes**
+<br><br>
 
-Production notes
 
-<![endif]-->
+**YOU WILL DIE AT TWENTY<br>(SATAMOTO FEL ESHREEN)**  
+_Director:_ Amjad Abu Alala<br>
 
-**YOU WILL DIE AT TWENTY (SATAMOTO FEL ESHREEN)**
+_Production Companies:_ Andolfi, Transit Films, Duofilm, Die Gesellschaft DGS<br>
 
-_Director:_ Amjad Abu Alala
+_In co-production with:_ Station Films, Film Clinic<br>
 
-_Production Companies:_ Andolfi, Transit Films, Duofilm, Die Gesellschaft DGS
-
-_In co-production with:_ Station Films, Film Clinic
-
-_With the support of:_ Aide aux Cinémas du Monde of the CNC, Institut Français, Doha Film Institute, Sørfond+, Creative Europe Media, Arri International Support Program, Berlinale World Cinema Fund, Film- und Medienstiftung NRW, Sudan Film Factory, Arab Fund for Arts and Culture
+_With the support of:_ Aide aux Cinémas du Monde of the CNC, Institut Français, Doha Film Institute, Sørfond+, Creative Europe Media, Arri International Support Program, Berlinale World Cinema Fund, Film- und Medienstiftung NRW, Sudan Film Factory, Arab Fund for Arts and Culture<br>
 
 _In co-production with:_ Canal+ International, Sunnyland Film as a member of ART group,  
-The Cell Post Production
+The Cell Post Production<br>
 
-_Producers:_ Arnaud Dommerc, Hossam Elouan, Ingrid Lill Høgtun, Michael Henrichs
+_Producers:_ Arnaud Dommerc, Hossam Elouan, Ingrid Lill Høgtun, Michael Henrichs<br>
 
 _Co-producers:_ Amjad Abu Alala,  
 Mohammed Alomda, Linda Bolstad Strønen,  
-Marie Fuglestein Lægreid, Mohamed Hefzy
+Marie Fuglestein Lægreid, Mohamed Hefzy<br>
 
-_Screenplay:_ Yousef Ibrahim, Amjad Abu Alala
+_Screenplay:_ Yousef Ibrahim, Amjad Abu Alala<br>
 
-_Director of Photography:_ Sébastien Goepfert
+_Director of Photography:_ Sébastien Goepfert<br>
 
-_Editor:_ Heba Othman
+_Editor:_ Heba Othman<br>
 
-_Colourist:_ Brice Pancot
+_Colourist:_ Brice Pancot<br>
 
-_Original Music:_ Amine Bouhafa
+_Original Music:_ Amine Bouhafa<br>
 
-_Sound Designer:_ Rana Eid
+_Sound Designer:_ Rana Eid<br>
 
-_Sound Mixer:_ Rawad Hobeika
+_Sound Mixer:_ Rawad Hobeika<br>
 
-_Re-Recording Mixer:_ Florent Lavallée
+_Re-Recording Mixer:_ Florent Lavallée<br>
 
-_Cast:_
+_Cast:_<br>
 
-Mustafa Shehata _(Muzamil)_
+Mustafa Shehata _(Muzamil)_<br>
 
-Islam Mubarak _(Sakina)_
+Islam Mubarak _(Sakina)_<br>
 
-Mahmoud Elsaraj _(Sulaiman)_
+Mahmoud Elsaraj _(Sulaiman)_<br>
 
-Bunna Khalid _(Naima)_
+Bunna Khalid _(Naima)_<br>
 
-Talal Afifi _(Alnoor)_
+Talal Afifi _(Alnoor)_<br>
 
-Amal Mustafa _(Set Alnesea)_
+Amal Mustafa _(Set Alnesea)_<br>
 
-Moatasem Rashid _(young Muzamil)_
+Moatasem Rashid _(young Muzamil)_<br>
 
-Asjad Mohamed _(young Naima)_
+Asjad Mohamed _(young Naima)_<br>
 
 Sudan/Egypt/Qatar/Germany/Norway/France 2019
 
 103 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0NDIzNzg1XX0=
+eyJoaXN0b3J5IjpbLTE5MDQyOTc4OTZdfQ==
 -->
