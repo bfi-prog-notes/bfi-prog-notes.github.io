@@ -52,36 +52,26 @@ _Sound_: Michael Lax, Tony Anscombe
 UK 1973  
 36 mins
 
-**CINEMA IN EAST LONDON**
-
-_Directors:_ Wilf Thust, Ron Peck, Joanna Davis,  
-Mary Pat Leece, Paul Hallam
-
-_Production Company:_ Four Corners
-
-UK 1979
-
+**CINEMA IN EAST LONDON**  
+_Directors:_ Wilf Thust, Ron Peck, Joanna Davis,  Mary Pat Leece, Paul Hallam  
+_Production Company:_ Four Corners  
+UK 1979  
 28 mins
 
-**Unveiling Eros and West End Cinemas**
-
-UK 1985
-
+**UNVEILING EROS AND WEST END CINEMAS**  
+UK 1985  
 3 mins
 
-**Opening of Whitehaven Film Theatre**
-
-UK 1972
-
+**OPENING OF WHITEHAVEN FILM THEATRE**  
+UK 1972  
 5 mins
 
-**Opening of Chingford Odeon**
-
-UK 1935
+**OPENING OF CHINGFORD ODEON**  
+UK 1935  
 
 1 min
 
 Total runtime 73 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI3NjY3NzFdfQ==
+eyJoaXN0b3J5IjpbMTgxNTQxNTExM119
 -->
