@@ -58,59 +58,35 @@ I gathered an international crew. But if the heads of departments were foreigner
 
 **YOU WILL DIE AT TWENTY<br>(SATAMOTO FEL ESHREEN)**  
 _Director:_ Amjad Abu Alala<br>
-
 _Production Companies:_ Andolfi, Transit Films, Duofilm, Die Gesellschaft DGS<br>
-
 _In co-production with:_ Station Films, Film Clinic<br>
-
 _With the support of:_ Aide aux Cinémas du Monde of the CNC, Institut Français, Doha Film Institute, Sørfond+, Creative Europe Media, Arri International Support Program, Berlinale World Cinema Fund, Film- und Medienstiftung NRW, Sudan Film Factory, Arab Fund for Arts and Culture<br>
-
-_In co-production with:_ Canal+ International, Sunnyland Film as a member of ART group,  
-The Cell Post Production<br>
-
+_In co-production with:_ Canal+ International, Sunnyland Film as a member of ART group,  The Cell Post Production<br>
 _Producers:_ Arnaud Dommerc, Hossam Elouan, Ingrid Lill Høgtun, Michael Henrichs<br>
-
-_Co-producers:_ Amjad Abu Alala,  
-Mohammed Alomda, Linda Bolstad Strønen,  
+_Co-producers:_ Amjad Abu Alala,  Mohammed Alomda, Linda Bolstad Strønen,  
 Marie Fuglestein Lægreid, Mohamed Hefzy<br>
-
 _Screenplay:_ Yousef Ibrahim, Amjad Abu Alala<br>
-
 _Director of Photography:_ Sébastien Goepfert<br>
-
 _Editor:_ Heba Othman<br>
-
 _Colourist:_ Brice Pancot<br>
-
 _Original Music:_ Amine Bouhafa<br>
-
 _Sound Designer:_ Rana Eid<br>
-
 _Sound Mixer:_ Rawad Hobeika<br>
-
 _Re-Recording Mixer:_ Florent Lavallée<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Mustafa Shehata _(Muzamil)_<br>
-
 Islam Mubarak _(Sakina)_<br>
-
 Mahmoud Elsaraj _(Sulaiman)_<br>
-
 Bunna Khalid _(Naima)_<br>
-
 Talal Afifi _(Alnoor)_<br>
-
 Amal Mustafa _(Set Alnesea)_<br>
-
 Moatasem Rashid _(young Muzamil)_<br>
-
 Asjad Mohamed _(young Naima)_<br>
 
-Sudan/Egypt/Qatar/Germany/Norway/France 2019
-
+Sudan/Egypt/Qatar/Germany/Norway/France 2019<br>
 103 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQyOTc4OTZdfQ==
+eyJoaXN0b3J5IjpbMTk0Njc0NjQ0Ml19
 -->
