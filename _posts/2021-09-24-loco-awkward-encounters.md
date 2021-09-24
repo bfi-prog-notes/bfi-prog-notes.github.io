@@ -47,11 +47,11 @@ Dir/Wri. Amelia Dimoldenberg
 **The Priest**  
 Dir/Wri. Jim Owen
 
-**Hamsbury Book Club**
+**Hamsbury Book Club**  
 Dir. Nick Collett  
 Wri. Chris Hayward
 
-**Pollie Has the Keys**
+**Pollie Has the Keys**  
 Dir. Liz Kingsman  
 Wri. Sophia Broido
 <br><br>
