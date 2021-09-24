@@ -62,40 +62,25 @@ _Additional Music_: Steve Jablonsky,  James McKee Smith, Geoff Zanelli
 _Orchestrations_: Bruce Fowler, Harry Kim  
 _Music Supervisor_: Marylata E. Jacob  
 _Re-recording Mixer_: Adrian Rhodes  
-_Supervising Sound Editors_: Graham Headicar,  James Mathe  
-<![endif]-->
+_Supervising Sound Editors_: Graham Headicar,  James Mather  
 
-_Voice Cast:_
+**Voice Cast**<br>
+Phil Daniels _(Fetcher)_<br>
+Lynn Ferguson _(Mac)_<br>
+Mel Gibson _(Rocky)_<br>
+Tony Haygarth _(Mr Tweedy)_<br>
+Jane Horrocks _(Babs)_<br>
+Miranda Richardson _(Mrs Tweedy)_<br>
+Julia Sawalha _(Ginger)_<br>
+Timothy Spall _(Nick)_<br>
+Imelda Staunton _(Bunty)_<br>
+Benjamin Whitrow _(Fowler)_<br>
+John Sharian _(circus man)_<br>
+Jo Allen, Lisa Kay, Laura Strachan _(additional chickens)_<br>
 
-Phil Daniels _(Fetcher)_
-
-Lynn Ferguson _(Mac)_
-
-Mel Gibson _(Rocky)_
-
-Tony Haygarth _(Mr Tweedy)_
-
-Jane Horrocks _(Babs)_
-
-Miranda Richardson _(Mrs Tweedy)_
-
-Julia Sawalha _(Ginger)_
-
-Timothy Spall _(Nick)_
-
-Imelda Staunton _(Bunty)_
-
-Benjamin Whitrow _(Fowler)_
-
-John Sharian _(circus man)_
-
-Jo Allen, Lisa Kay, Laura Strachan
-
-_(additional chickens)_
-
-USA/UK 2000©
-
+USA/UK 2000©<br>
 84 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI4ODk4MDRdfQ==
+eyJoaXN0b3J5IjpbLTUyMDMzMTM4MV19
 -->
