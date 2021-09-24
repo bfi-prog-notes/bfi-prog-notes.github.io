@@ -18,23 +18,22 @@ The film itself was made by 40 animators who were split into two teams and guide
 
 The models are made of a special blend of plasticine called the Aardman Mix. This is tougher and more durable than ordinary plasticine. Aardman is the name of the studios that made the film Chicken Run along with the Wallace and Gromit films.
 
-**Justin Johnson**
+**Notes by Justin Johnson**
+<br><br>
 
-<![endif]-->
 
-**Chicken Run**_Directors_: Peter Lord, Nick Park  
-©_/Production Companies_: DreamWorks LLC, Aardman Chicken Run Limited, Pathé Image  
+**CHICKEN RUN**  
+_Directors_: Peter Lord, Nick Park  
+©/_Production Companies_: DreamWorks LLC, Aardman Chicken Run Limited, Pathé Image  
 _Production Company_: Aardman Animations  
-_Executive Producers_: Jake Eberts,  
-Jeffrey Katzenberg, Michael Rose  
+_Executive Producers_: Jake Eberts,  Jeffrey Katzenberg, Michael Rose  
 _Producers_: Peter Lord, David Sproxton, Nick Park  
 _Line Producer_: Carla Shelley  
 _Associate Producer_: Lenny Young  
 _Production Manager_: Harry Linden  
 _Post-production Supervisor_: Mike Solinger  
 _1st Assistant Director_: Fred De Bradeny  
-_2nd Assistant Directors_: Robert Hurley,  
-Rich Priestley  
+_2nd Assistant Directors_: Robert Hurley,  Rich Priestley  
 _3rd Assistant Director_: Will Norie  
 _Story/Continuity Supervisor_: Bridget Mazzey  
 _Casting_: Patsy Pollock  
@@ -43,17 +42,13 @@ _Storyboard Supervisor_: David Bowers
 _Storyboard Artist_: Michael Salter  
 _Script Collaborator_: Pete Atkin  
 _Additional Dialogue_: Mark Burton, John O’Farrell  
-_Based on an original story by_: Nick Park,  
-Peter Lord
-<![endif]--> _Supervising Director of Photography_: Dave Alex Riddett  
-_Directors of Photography_: Tristan Oliver,  
-Frank Passingham  
-_Lighting Cameramen_: Simon Jacobs, Andy Mack,  
-Paul Smith  
+_Based on an original story by_: Nick Park,  Peter Lord  
+_Supervising Director of Photography_: Dave Alex Riddett  
+_Directors of Photography_: Tristan Oliver,  Frank Passingham  
+_Lighting Cameramen_: Simon Jacobs, Andy Mack,  Paul Smith  
 _Digital Visual Effects_: The Computer Film Company  
 _Model Production Designer_: Jan Sanger  
-_Graphic Artists_: John Davey, Alastair Green,  
-Joanne Smith  
+_Graphic Artists_: John Davey, Alastair Green,  Joanne Smith  
 _Supervising Animator_: Loyd Price  
 _Editor_: Mark Solomon  
 _Film Editors_: Robert Francis, Tamsin Parry  
@@ -63,13 +58,11 @@ _Props Supervisor_: Jane Kite
 _Pie Machine and Flying Machine by_: Farrington Lewis  
 _Title Design_: The Picture Mill  
 _Music_: John Powell, Harry Gregson-Williams  
-_Additional Music_: Steve Jablonsky,  
-James McKee Smith, Geoff Zanelli  
+_Additional Music_: Steve Jablonsky,  James McKee Smith, Geoff Zanelli  
 _Orchestrations_: Bruce Fowler, Harry Kim  
 _Music Supervisor_: Marylata E. Jacob  
 _Re-recording Mixer_: Adrian Rhodes  
-_Supervising Sound Editors_: Graham Headicar,  
-James Mather
+_Supervising Sound Editors_: Graham Headicar,  James Mathe  
 <![endif]-->
 
 _Voice Cast:_
@@ -104,5 +97,5 @@ USA/UK 2000©
 
 84 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Mjc0NjgxMF19
+eyJoaXN0b3J5IjpbLTExNTI4ODk4MDRdfQ==
 -->
