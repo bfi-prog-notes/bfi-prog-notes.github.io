@@ -31,47 +31,31 @@ Egypt 2019
 21 mins  
 
 **I AM AFRAID TO FORGET YOUR FACE**  
-_Director:_ Sameh Alaa 
-Egypt 2020
-
+_Director:_ Sameh Alaa  
+Egypt 2020  
 15 mins  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
 
-**AZIZA**  
-_Director:_ Soudade Kaadan
-
-Syria 2019
-
+**AZIZA**    
+_Director:_ Soudade Kaadan  
+Syria 2019  
 13 mins  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
 
 **THE BATH**  
-_Director:_ Anissa Daoud
-
-Tunisia 2020
-
+_Director:_ Anissa Daoud  
+Tunisia 2020  
 15 mins  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
 
 **DROUGHT**  
-_Director:_ Remi Itani
-
-Lebanon 2020
-
+_Director:_ Remi Itani  
+Lebanon 2020  
 15 mins  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
 
 **MARADONA’S LEGS**  
-_Director:_ Firas Khoury
-
-Palestine 2019
-
+_Director:_ Firas Khoury  
+Palestine 2019  
 20 mins
+<br><br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODgxMjM4NV19
+eyJoaXN0b3J5IjpbNDIxNzA2MTUzXX0=
 -->
