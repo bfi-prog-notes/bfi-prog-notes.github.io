@@ -10,33 +10,42 @@ Where would comedy be without those embarrassing and difficult moments in life? 
 Dirs/Wris. Behnam Taheri & Gideon Beresford
 
 **Emotional**  **Baggage**  
-Dir. Jack HowardWris. Dean Dobbs & Jack Howard
+Dir. Jack Howard  
+Wris. Dean Dobbs & Jack Howard
 
 **Just Agree Then**  
 Dirs/Wris. Duncan Cowles & Ross Hogg
 
-**Ascending Grace**Dir. Claire ByrneWri. Karen Healy
+**Ascending Grace**  
+Dir. Claire Byrne  
+Wri. Karen Healy
 
-**Behind the Mask**Dir. Simon K MatthewsWris. Amar Chadha-Patel & Elena Saurel
+**Behind the Mask**  
+Dir. Simon K Matthews  
+Wris. Amar Chadha-Patel & Elena Saurel
 
-**Cut Off**Dir/Wri. Nick Flugge
+**Cut Off**  
+Dir/Wri. Nick Flugge
 
-**Breakdown**Dir. Dominic O’RiordanWris. Oliver Britten & Sy Thomas
+**Breakdown**  
+Dir. Dominic O’Riordan  
+Wris. Oliver Britten & Sy Thomas
 
-**Simon Is a Pr*ck**Dir/Wri. Amelia Dimoldenberg
+**Simon Is a Pr*ck**  
+Dir/Wri. Amelia Dimoldenberg
 
-**The Priest  
-**Dir/Wri. Jim Owen
+**The Priest**  
+Dir/Wri. Jim Owen
 
-**Hamsbury Book Club  
-**Dir. Nick Collett  
+**Hamsbury Book Club**
+Dir. Nick Collett  
 Wri. Chris Hayward
 
-**Pollie Has the Keys  
-**Dir. Liz Kingsman  
+**Pollie Has the Keys**
+Dir. Liz Kingsman  
 Wri. Sophia Broido
+<br><br>
 
-<![endif]-->
 
 LOCO SHORTS WEEKENDER  
 IN PARTNERSHIP WITH MINDSEYE
@@ -63,5 +72,5 @@ Sun 26 Sep 15:30
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4NDk2OTQ4XX0=
+eyJoaXN0b3J5IjpbOTQ1NTUyNTQ1XX0=
 -->
