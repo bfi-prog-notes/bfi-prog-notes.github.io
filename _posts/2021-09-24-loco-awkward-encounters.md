@@ -47,30 +47,21 @@ Wri. Sophia Broido
 <br><br>
 
 
-LOCO SHORTS WEEKENDER  
-IN PARTNERSHIP WITH MINDSEYE
-
-**Awkward Encounters**
-
-Fri 24 Sep 20:50
-
-**Intimate Details**
-
-Sat 25 Sep 18:10
-
-**Dark Turns**
-
-Sat 25 Sep 20:40
-
-**Old Pals**
-
-Sun 26 Sep 12:10
-
-**LOCO: BAFTA-recognised Best of 2020**
-
-Sun 26 Sep 15:30
+**LOCO SHORTS WEEKENDER  
+IN PARTNERSHIP WITH MINDSEYE**<br>
+**Awkward Encounters**<br>
+Fri 24 Sep 20:50<br>
+**Intimate Details**<br>
+Sat 25 Sep 18:10<br>
+**Dark Turns**<br>
+Sat 25 Sep 20:40<br>
+**Old Pals**<br>
+Sun 26 Sep 12:10<br>
+**LOCO: BAFTA-recognised Best of 2020**<br>
+Sun 26 Sep 15:30<br>
+<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1NTUyNTQ1XX0=
+eyJoaXN0b3J5IjpbLTEzODgzMDY1MTddfQ==
 -->
