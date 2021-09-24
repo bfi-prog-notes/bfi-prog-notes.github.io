@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Chicken Run
+published: true
+date: 2021-09-25
+readtime: true
+categories: ['BFI FAMILIES']
+tags: [Animation, Family]
+metadata: 'USA/UK 2000, 84 mins<br> Directors: Peter Lord, Nick Park'
+pdf: '2021-09-25-chicken-run.pdf'
+---
 
 **What’s it about?**  
 A group of chickens living on an egg farm find themselves in hot water when the farmer decides that a new line of chicken pies might be good for business. Before long, an escape plan is hatched! This fun take on _The Great Escape_ was Aardman’s first feature film and is still just as fresh, plucky and creative as it was 21 years ago.
@@ -81,6 +91,24 @@ Jo Allen, Lisa Kay, Laura Strachan _(additional chickens)_<br>
 USA/UK 2000©<br>
 84 mins
 <br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTUyMDMzMTM4MV19
 -->
