@@ -12,8 +12,7 @@ pdf: '2021-09-25-loco-intimate-details.pdf'
 
 BAFTA-recognised festival LOCO aka The London Comedy Film Festival is back to share the best comedy short films rescued from the madness of 2020 in this Comedy Shorts Weekender, in partnership with MindsEye.
 
-We turn to the personal parts of life with this selection of short comedy films about sex, romance and friendship. There is no topic too private, no matter  
-too confidential. Delight in the funny side of parental examinations, saving species from extinction, finding out startling family truths and catching up with old friends.
+We turn to the personal parts of life with this selection of short comedy films about sex, romance and friendship. There is no topic too private, no matter  too confidential. Delight in the funny side of parental examinations, saving species from extinction, finding out startling family truths and catching up with old friends.
 
 **Programme**
 
