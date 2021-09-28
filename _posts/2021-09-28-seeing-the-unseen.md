@@ -10,7 +10,7 @@ metadata: 'Iceland 2019, 82 mins<br> Directors: Bjarney Lúðvíksdóttir, Krist
 pdf: '2021-09-28-seeing-the-unseen.pdf'
 ---
 
-**Before the film, series curator Benjamin Brown will introduce the programme and and a short pre-recorded interview with co-director Bjarney Lúðvíksdóttir.**<br>
+**Before the film, series curator Benjamin Brown will introduce the programme and a short pre-recorded interview with co-director Bjarney Lúðvíksdóttir.**<br>
 
 The Kristy Forbes poem ‘We Are Proud Autistic Women’ is vigorously performed in the film’s opening by Kristín Vilhjálmsdóttir, one especially proud autistic woman. An unashamed celebration of the joys of autism and womanhood, the documentary also touches on darker themes such as domestic abuse and exploitation – how these women are, as one beautifully puts it, both ‘stable and instable’.
 
@@ -29,9 +29,8 @@ As Naoki so poetically puts it, ‘if, by our being here, we could help the peop
 **Benjamin Brown, Series Curator**<br><br>
 
 **SEEING THE UNSEEN (AÐ SJÁ HIÐ ÓSÝNILEGA)**<br>
-_Directors:_ Bjarney Lúðvíksdóttir, Kristján Kristjánsson
-_In co-operation with:_ Icelandic Autism Society
-
+_Directors:_ Bjarney Lúðvíksdóttir, Kristján Kristjánsson  
+_In co-operation with:_ Icelandic Autism Society  
 Iceland 2019  
 82 mins
 <br>
@@ -49,17 +48,12 @@ We welcome your feedback on this screening. **Relaxedscreeningsfeedback@bfi.org.
 
 The film-makers would welcome your thoughts on the film on **https://www.facebook.com/unseenautism**
 
-**The next relaxed screening is** <br>
+**The next relaxed screenings are** <br>
 **SUMMER OF SOUL (... OR, WHEN THE REVOLUTION COULD NOT BE TELEVISED)**<br>
 Tue 26 Oct 18:00 NFT3
 
 **PETITE MAMAN**<br>
 Tue 30 Nov 18:15 NFT3
-
-We welcome your feedback on this screening. **Relaxedscreeningsfeedback@bfi.org.uk**
-
-The film-makers would welcome your thoughts on the film on **https://www.facebook.com/unseenautism**
-
 
 
 **Relaxed screenings**<br>
