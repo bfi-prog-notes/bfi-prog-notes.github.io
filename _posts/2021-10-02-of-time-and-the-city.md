@@ -25,6 +25,92 @@ Matthew Gandy (Professor of Cultural and Historical Geography and Fellow of King
 **Madonna and Child**<br>
 
 The centrepiece of Davies’ Liverpool-set Trilogy focuses on his fictional alter-ego in middle age.<br>
+
+<![endif]-->
+
+**MADONNA AND CHILD**
+
+_Directed by__:_ Terence Davies  
+_©/Production Company__:_ National Film School_Production:_ Mike Maloney  
+_Assistant Director__:_ Kees Ryninks_Continuity:_ Victoria McBain_Written by:_ Terence Davies_Cameraman:_ William Diver_Assistant Cameraman:_ Sergio Leon_Grip:_ Tim Rolt_Editor:_ Mick Audsley_Sound Recordist:_ Antoinette de Bromhead_Dubbing Editor:_ Geoff Hogg_With special thanks to:_ Sacred Heart Parish  Church,  H.A. Harben & Co._,_ The Harold Ackerley Studio_,_ Canon Kennedy Primary School
+
+_Cast_:  
+Terry O’Sullivan _(Robert Tucker)_  
+Sheila Raynor _(Robert’s mother)_  
+Paul Barber  
+John Meynell  
+Brian Ward  
+Dave Cooper  
+Mark Walton  
+Mal Jefferson  
+Lovette Edwards  
+Rita Thatchery  
+Eddie Ross
+
+UK 1980
+
+30 mins
+
+**OF TIME AND THE CITY**
+
+_Directed by:_ Terence Davies
+
+_©:_ Hurricane City Limited, Digital Departures
+
+Northwest Vision and Media _&_ Digital Departures _presented in association with the_ Liverpool Culture Company _and_ BBC Films
+
+_Made with the support of_ Northwest Vision + Media _through the_ Merseyside Film and Television Fund _a project part-funded by the_ European Regional Development Fund, Northwest Regional Development Agency _through_ The Regional Attraction Fund, the UK Film Council, the Liverpool Culture Company
+
+_Executive Producers:_ Christopher Moll,
+
+Lisa-Marie Russo
+
+_Produced by:_ Solon Papadopoulos, Roy Boulter
+
+_For Digital Departures: Production Executive:_ Tracy O’Riordan; _Production Co-ordinator:_ Barbara Kirby; _Pre-production Co-ordinator:_ Sian Hilton-Parry; _Production Accountants:_ Joanne Bendon, Jason Potter; _Post-production Supervisor:_ Shuna Frood
+
+_For Northwest Vision and Media: Head of Development/Production:_ Helen Bingham; _Finance Manager:_ Colin Phillips
+
+_For The Liverpool Culture Company: Executive Producer:_ Fiona Gasper
+
+_For BBC Films: Head of Programme Acquisition:_ Steve Jenkins
+
+_Production Manager:_ Karen Radford
+
+_Archive Producer:_ Jim Anderson
+
+_Archive Researchers:_ Mike McKibbin, Angela Byrne
+
+_Written by:_ Terence Davies
+
+_Director of Photography:_ Tim Pollard
+
+_Camera Assistant:_ Dominic O’Keeffe
+
+_Lighting Gaffer:_ Colin Sage
+
+_Editor:_ Liza Ryan-Carter
+
+_Colourist:_ Jamie Parry
+
+_Camera Hire:_ Fact Media Services
+
+_Track/Dolly:_ Panavision Manchester
+
+_Lighting Hire:_ Pro-Vision Manchester
+
+_Music Supervisor (for DNA Music/Quantum Noise):_ Ian Neil
+
+_Dubbing Mixer:_ Adam Ryan-Carter
+
+_Sound Engineers:_ David Coyle, Steven Guy
+
+_EPK:_ Krishna Stott, Philip Shotton
+
+_Unit Publicity:_ Keeley Naylor, Zoe Flower, emfoundation
+
+UK 2008©<br>
+74 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzkyNzg4N119
+eyJoaXN0b3J5IjpbMjAwMDcyMDc3Ml19
 -->
