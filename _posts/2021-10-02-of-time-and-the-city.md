@@ -88,6 +88,13 @@ _EPK:_ Krishna Stott, Philip Shotton
 _Unit Publicity:_ Keeley Naylor, Zoe Flower, emfoundation<br>
 UK 2008©<br>
 74 mins<br>
+
+
+**NFTS AT 50**<br>
+**Of Time and the City + Q&A with director Terence Davies**
+Sat 2 Oct 14:15
+**Rocks + Q&A with director Sarah Gavron**
+Sat 2 Oct 17:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Mzc5OTM0MV19
+eyJoaXN0b3J5IjpbMjExODI0Mzk1NV19
 -->
