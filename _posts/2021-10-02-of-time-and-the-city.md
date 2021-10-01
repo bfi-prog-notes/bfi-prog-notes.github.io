@@ -26,15 +26,23 @@ Matthew Gandy (Professor of Cultural and Historical Geography and Fellow of King
 
 The centrepiece of Davies’ Liverpool-set Trilogy focuses on his fictional alter-ego in middle age.<br>
 
-<![endif]-->
 
-**MADONNA AND CHILD**
 
+**MADONNA AND CHILD**<br>
 _Directed by__:_ Terence Davies  
 _©/Production Company__:_ National Film School_Production:_ Mike Maloney  
-_Assistant Director__:_ Kees Ryninks_Continuity:_ Victoria McBain_Written by:_ Terence Davies_Cameraman:_ William Diver_Assistant Cameraman:_ Sergio Leon_Grip:_ Tim Rolt_Editor:_ Mick Audsley_Sound Recordist:_ Antoinette de Bromhead_Dubbing Editor:_ Geoff Hogg_With special thanks to:_ Sacred Heart Parish  Church,  H.A. Harben & Co._,_ The Harold Ackerley Studio_,_ Canon Kennedy Primary School
+_Assistant Director_: Kees Ryninks
+_Continuity:_ Victoria McBain
+_Written by:_ Terence Davies
+_Cameraman:_ William Diver
+_Assistant Cameraman:_ Sergio Leo
+_Grip:_ Tim Rolt
+_Editor:_ Mick Audsley
+_Sound Recordist:_ Antoinette de Bromhead
+_Dubbing Editor:_ Geoff Hogg
+_With special thanks to:_ Sacred Heart Parish  Church,  H.A. Harben & Co., The Harold Ackerley Studio, Canon Kennedy Primary School
 
-_Cast_:  
+**Cast**
 Terry O’Sullivan _(Robert Tucker)_  
 Sheila Raynor _(Robert’s mother)_  
 Paul Barber  
@@ -107,10 +115,10 @@ _Sound Engineers:_ David Coyle, Steven Guy
 
 _EPK:_ Krishna Stott, Philip Shotton
 
-_Unit Publicity:_ Keeley Naylor, Zoe Flower, emfoundation
+_Unit Publicity:_ Keeley Naylor, Zoe Flower, emfoundation<br>
 
 UK 2008©<br>
 74 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDcyMDc3Ml19
+eyJoaXN0b3J5IjpbMTYyMDI4NDk4N119
 -->
