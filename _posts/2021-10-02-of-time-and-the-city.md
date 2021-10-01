@@ -91,10 +91,10 @@ UK 2008©<br>
 
 
 **NFTS AT 50**<br>
-**Of Time and the City + Q&A with director Terence Davies**
-Sat 2 Oct 14:15
-**Rocks + Q&A with director Sarah Gavron**
-Sat 2 Oct 17:30
+**Of Time and the City + Q&A with director Terence Davies**<br>
+Sat 2 Oct 14:15<br>
+**Rocks + Q&A with director Sarah Gavron**<br>
+Sat 2 Oct 17:30<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODI0Mzk1NV19
+eyJoaXN0b3J5IjpbLTE0MjAzODMzNzNdfQ==
 -->
