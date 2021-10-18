@@ -101,107 +101,55 @@ Fritzi Burr _(Mulwray’s secretary)_
 Charles Knapp _(Maury, mortician)_
 Claudio Martinez _(boy on horseback)_
 John Holland, Jesse Vint, Jim Burke,
-
 Denny Arnold _(farmers in the valley)_
-
 Elizabeth Harding _(Curly’s wife)_
+Paul Jenkins, Lee De Broux, Bob Golden _(policemen)_<br>
 
-Paul Jenkins, Lee De Broux, Bob Golden _(policemen)_
+USA 1974©<br>
+130 mins<br>
 
-USA 1974©
 
-130 mins
-
-<![endif]-->
-
-BIG SCREEN CLASSICS
-
+**BIG SCREEN CLASSICS**
 **Chinatown**
-
-Mon 18 Oct 14:15; Sun 24 Oct 11:50;  
-Wed 27 Oct 14:15; Sat 20 Nov 20:30
-
+Mon 18 Oct 14:15; Sun 24 Oct 11:50;  Wed 27 Oct 14:15; Sat 20 Nov 20:30
 **Inside Man**
-
-Mon 18 Oct 17:50; Mon 8 Nov 20:30;  
-Thu 25 Nov 14:30; Tue 30 Nov 20:20
-
+Mon 18 Oct 17:50; Mon 8 Nov 20:30;  Thu 25 Nov 14:30; Tue 30 Nov 20:20
 **House of Bamboo**
-
-Mon 18 Oct 18:00; Thu 4 Nov 20:50;  
-Thu 11 Nov 14:30; Mon 15 Nov 18:10
-
+Mon 18 Oct 18:00; Thu 4 Nov 20:50;  Thu 11 Nov 14:30; Mon 15 Nov 18:10
 **Heat**
-
-Tue 19 Oct 14:00; Sun 24 Oct 14:30;  
-Sat 13 Nov 16:30; Mon 15 Nov 13:40
-
+Tue 19 Oct 14:00; Sun 24 Oct 14:30;  Sat 13 Nov 16:30; Mon 15 Nov 13:40
 **Kiss Me Deadly**
-
-Tue 19 Oct 18:00; Fri 5 Nov 20:40;  
-Sat 20 Nov 18:00; Sat 28 Nov 12:15
-
+Tue 19 Oct 18:00; Fri 5 Nov 20:40;  Sat 20 Nov 18:00; Sat 28 Nov 12:15
 **Devil in a Blue Dress**
-
-Wed 20 Oct 17:55; Thu 28 Oct 20:50;  
-Wed 17 Nov 18:00 (+ intro by _Empire Magazine_ Contributing Editor Amon Warmann)
-
+Wed 20 Oct 17:55; Thu 28 Oct 20:50;  Wed 17 Nov 18:00 (+ intro by _Empire Magazine_ Contributing Editor Amon Warmann)
 **Un Flic**
-
-Wed 20 Oct 18:10 (+ pre-recorded introduction by film critic Christina Newland); Fri 22 Oct 14:20;  
-Tue 23 Nov 20:45; Mon 29 Nov 20:55
-
+Wed 20 Oct 18:10 (+ pre-recorded introduction by film critic Christina Newland); Fri 22 Oct 14:20;  Tue 23 Nov 20:45; Mon 29 Nov 20:55
 **The Long Goodbye**
-
-Wed 20 Oct 20:50; Wed 10 Nov 17:50 (+ intro by Geoff Andrew, Programmer-at-Large);  
-Sat 27 Nov 20:40
-
+Wed 20 Oct 20:50; Wed 10 Nov 17:50 (+ intro by Geoff Andrew, Programmer-at-Large);  Sat 27 Nov 20:40
 **The Manchurian Candidate**
-
 Thu 21 Oct 14:15; Sun 21 Nov 14:50
-
 **Illustrious Corpses (Cadaveri eccellenti)**
-
 Thu 21 Oct 20:30; Mon 25 Oct 14:15;  
 Fri 19 Nov 20:40; Sat 27 Nov 18:10
-
 **Murder on the Orient Express**
-
-Sat 23 Oct 17:30; Sun 7 Nov 18:10;  
-Tue 16 Nov 14:15
-
+Sat 23 Oct 17:30; Sun 7 Nov 18:10;  Tue 16 Nov 14:15
 **Blue Velvet**
-
-Tue 26 Oct 14:30; Tue 2 Nov 18:00;  
-Sat 13 Nov 20:45; Sun 21 Nov 17:40
-
+Tue 26 Oct 14:30; Tue 2 Nov 18:00;  Sat 13 Nov 20:45; Sun 21 Nov 17:40
 **Dirty Harry**
-
 Wed 27 Oct 18:00 (+ pre-recorded intro by film scholar Hannah Hamad, Cardiff University);  
 Sun 14 Nov 18:20; Fri 26 Nov 20:45
-
 **The Silence of the Lambs**
-
-Fri 29 Oct 20:40; Wed 3 Nov 19:00 (+ pre-recorded intro by Professor Yvonne Tasker, author of BFI Film Classics _The Silence of the Lambs_);  
-Thu 18 Nov 14:40
-
+Fri 29 Oct 20:40; Wed 3 Nov 19:00 (+ pre-recorded intro by Professor Yvonne Tasker, author of BFI Film Classics _The Silence of the Lambs_);  Thu 18 Nov 14:40
 **No Country for Old Men**
-
 Sat 30 Oct 11:00; Mon 1 Nov 20:30;  
 Wed 24 Nov 18:00 (+ intro by Geoff Andrew, Programmer-at-Large)
-
 **In the Cut**
-
 Sun 31 Oct 18:30; Tue 30 Nov 18:10
-
 **Zero Dark Thirty**
-
 Sat 6 Nov 17:30; Tue 9 Nov 14:15;  
 Sun 28 Nov 15:20
-
 **Shaft**
-
 Fri 12 Nov 20:50; Tue 23 Nov 18:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjE3NTUyOCw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbNTAzMzkxNDMzLDQ5NzgxODgxMF19
 -->
