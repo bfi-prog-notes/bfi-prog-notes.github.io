@@ -36,13 +36,20 @@ The cast play their stock characters with gusto. Owen in particular, masked by a
 In spite of the gloss, _Inside Man_ still displays intriguing hints of the truly gritty movie that’s lying just below its polished surface – a movie that Lee might have made for a less mainstream producer. The director intermittently picks at the racial and political sores of post-9/11 metropolitan life. A Sikh security guard, for instance, is forced from the bank and pinned to the ground by a panicked New York policeman who screams, ‘Shit! It’s a fuckin’ Arab!’ The security guard’s muffled cries of, ‘I’m a Sikh!’ remain, naturally, unheard by the cop. The hostages who eventually emerge from the bank are treated to rough racial profiling, with darker skins falling under immediate suspicion. The political tenor of the war on terror also surfaces in the heavy-handed interrogation scenes, with the interviewees cuffed, hooded and boiler-suited Guantanamo-style: everyone in the bank – both hostage and criminal is guilty by association just by being there.<br>
 **Kevin Maher, _Sight & Sound_, May 2006**<br>
 
-**INSIDE MAN**<br>
+**INSIDE MAN**<br><![endif]-->
+
+**Inside Man**
+
 _Directed by_: Spike Lee  
 _©_: Universal Studios, GH Two LLC  
 _Production Company_: Brian Grazer Productions  
-_Presented by_: Universal Pictures, Imagine Entertainment  
+_Presented by_: Universal Pictures, 
+
+Imagine Entertainment  
 _Logo_: 40 Acres and a Mule Filmworks  
-_Executive Producers_: Daniel M. Rosenberg, Jon Kilik, Karen Kehela Sherwood, Kim Roth  
+_Executive Producers_: Daniel M. Rosenberg, 
+
+Jon Kilik, Karen Kehela Sherwood, Kim Roth  
 _Produced by_: Brian Grazer  
 _Co-producer_: Jonathan Filley  
 _Unit Production Manager_: Jonathan Filley  
@@ -92,11 +99,15 @@ _Sound Effects Editor_: Allan Zaleski
 _Stunt Co-ordinator_: Jeff Ward  
 _NYPD Detective Consultant_: Detective Neil Carter  
 _MCC Consultant_: Timothy Kane  
-_ESU Special Consultant_: Detective Ed Bogdanowicz  
+_ESU Special Consultant_: 
+
+Detective Ed Bogdanowicz  
 _Dolby Sound Consultant_: Steve F.B. Smith  
 _Dialect Coach_: Carla Meyer, Howard Samuelsohn<br>
 
-**Cast**   
+**
+
+_Cast** :_  
 Denzel Washington _(Detective Keith Frazier)_  
 Clive Owen _(Dalton Russell)_  
 Jodie Foster _(Madeleine White)_  
@@ -129,7 +140,10 @@ Samantha Ivers _(Nancy Mann)_
 Peter Kybart _(mayor)_  
 Jason Manuel Olazábal _(ESU Officer Hernandez)_  
 Jeff Ward _(ESU Officer Jesus)_  
-Anthony Mangano, Michael Devine, Ed Bogdanowicz, Aaron Vexler, Anthony Borowiec, Joe Coots _(ESU officers)_  
+Anthony Mangano,_,_ Michael Devine,  
+Ed Bogdanowicz,_,_ Aaron Vexler, 
+
+Anthony Borowiec, Joe Coots _(ESU officers)_  
 Lionel Pina _(cop with pizzas)_  
 Ken Ferrigni _(redheaded detective)_  
 Frank Hopf, Robert Testut _(barricade officers)_  
@@ -176,3 +190,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM5MzkxNjgyMV19
+-->
