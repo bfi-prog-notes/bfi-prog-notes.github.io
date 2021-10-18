@@ -1,3 +1,15 @@
+---
+layout: post
+title: Chinatown
+published: true
+date: 2021-10-18
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Noir, Thriller]
+metadata: 'USA 1974, 130 mins<br> Director: Roman Polanski'
+pdf: '2021-10-18-chinatown.pdf'
+---
+
 **SPOILER WARNING  The following notes give away some of the plot.**<br>
 
 **Roman Polanski on ‘Chinatown’**<br>
@@ -147,6 +159,22 @@ Sun 31 Oct 18:30; Tue 30 Nov 18:10
 Sat 6 Nov 17:30; Tue 9 Nov 14:15;  Sun 28 Nov 15:20
 **Shaft**
 Fri 12 Nov 20:50; Tue 23 Nov 18:20
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM0MTY0NTcsNDk3ODE4ODEwXX0=
--->
+
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
