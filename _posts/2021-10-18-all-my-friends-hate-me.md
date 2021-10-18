@@ -57,39 +57,25 @@ UK 2021<br>
 
 Courtesy of BFI Distribution<br>
 
-**IN PERSON & PREVIEWS**>br?
 
+**IN PERSON & PREVIEWS**<br>
 **Kermode Live in 3D at the BFI**
-
 Mon 18 Oct 18:15; Mon 8 Nov 18:10
-
 **Preview: Last Night in Soho**
-
 Thu 21 Oct 17:50; 31 Oct 17:40 (+ Q&A with Edgar Wright)
-
-**Screen Epiphany: Adjoa Andoh introduces Mandabi  
-**Sun 24 Oct 18:30
-
+**Screen Epiphany: Adjoa Andoh introduces Mandabi** 
+Sun 24 Oct 18:30
 **Mike Leigh in Conversation**
-
 Thu 28 Oct 20:40
-
 **Doctor Who: Galaxy 4 (animated)**
-
 Sun 7 Nov 12:00
-
 **Preview: Drive My Car (Doraibu mai kâ)**
-
 Mon 15 Nov 19:40
-
 **Preview: The Hand of God (È stata la mano di Dio)**
-
 Thu 18 Nov 18:30
-
 **TV Preview: The Amazing Mr Blunden + Q&A with writer-director-actor Mark Gatiss and actor Tamsin Greig**
-
 Mon 29 Nov 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5OTExNDk4LDY2Nzc5Nzc4NSw0NjMwMj
-IzNDJdfQ==
+eyJoaXN0b3J5IjpbMTkwODU5OTAwMSw2Njc3OTc3ODUsNDYzMD
+IyMzQyXX0=
 -->
