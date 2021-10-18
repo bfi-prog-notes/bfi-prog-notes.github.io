@@ -1,12 +1,20 @@
-<![endif]-->
-
+---
+layout: post
+title: The Flavour of Green Tea over Rice
+published: true
+date: 2021-10-18
+readtime: true
+categories: ['JAPAN 2021<br> 100 YEARS OF JAPANESE CINEMA']
+tags: [Drama]
+metadata: 'Japan 1952, 115 mins<br> Director: Yasujiro Ozu'
+pdf: '2021-10-18-flavour-of-green-tea-over-rice.pdf'
+---
 Well into the master’s post-war golden age, this often overlooked _shoshimin-eiga_ (contemporary domestic drama) explores once again the generational divide Ozu was so interested in. A typically precise, almost Chekhovian screenplay, co-written as always with Kogo Noda, dissects a traditional marriage, which is fraying silently in the conflict between _omiai_ (‘arranged’ marriage, as translated here) and modern sensibilities.
 
 Keiko Tsushima is the errant niece who rebels against the matchmaking, a dilemma confronted mostly by her aunt and uncle (Michiyo Kogure and Shin Saburi), whose own childless arranged union is marked by spite, lies, bullying and avoidance. In a rich and organic interweaving of supporting voices and perspectives, the primary dramatic crisis comes down to weighty silences and suddenly empty rooms – always Ozu’s most resonant visual flourish – but tied into the gender war are eloquent critiques of the Japanese bourgeoisie (even the marriage in question boils down to class difference) and of the modern era’s loss of respect and meaning.
 
-Of course, Ozu leavens the dynamic with ambivalence, understanding and grey regions of doubt, and the ending reaches an awkward state of happy/sad we may feel within our rights to doubt, but the master’s steady gaze alone can absolve us from cynicism.
-
-Michael Atkinson, _Sight & Sound_, Summer 2020
+Of course, Ozu leavens the dynamic with ambivalence, understanding and grey regions of doubt, and the ending reaches an awkward state of happy/sad we may feel within our rights to doubt, but the master’s steady gaze alone can absolve us from cynicism.<br>
+**Michael Atkinson, _Sight & Sound_, Summer 2020**
 
 ‘I took this script out of storage where it had been since it was censored by the Army, because there was no reason for it to stay there. In the original version the main character departs for the war. But because times had changed, I rewrote it so that he departed for South America. But this weakened the dramatic development. I just wanted to reveal some qualities of a man from the viewpoint of a woman, such as a man being good-looking or having good taste.’ – Ozu on Ozu, from _Cinema_
 
@@ -14,8 +22,7 @@ Ozu did not seem to be very fond of this film which is surprising for, although 
 **John Gillett, National Film Theatre programme notes**
 
 
-**THE FLAVOUR OF GREEN TEA OVER RICE  
-(OCHAZUKE NO AJI)**<br>
+**THE FLAVOUR OF GREEN TEA OVER RICE (OCHAZUKE NO AJI)**<br>
 _Director:_ Yasujiro Ozu<br>
 ©: Shochiku Co. Ltd.<br>
 _Production Company:_ Shochiku Co. Ltd.<br>
@@ -51,6 +58,39 @@ Japan 1952©<br>
 115 mins<br>
 
 \* Uncredited<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4MTY2NTgxXX0=
--->
+
+
+**Supported by**  
+<img style="float: left;" src="/img/Grand Seiko.png">
+<br><br><br><br><br><br><br><br><br>
+
+**In partnership wtih**  
+<img style="float: left;" src="/img/Japan Foundation.JPG" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+
+**With special thanks to**
+<img style="float: left;" src="/img/NFAJ.png">
+<br><br><br><br><br><br><br><br><br><br><br>
+
+
+**With the kind support of:**<br>
+Janus Films/The Criterion Collection, Kadokawa Corporation, Kawakita Memorial Film Institute, Kokusai Hoei Co. Ltd, Nikkatsu Corporation, Toei Co. Ltd<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
