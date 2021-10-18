@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Bleak Moments
+published: true
+date: 2021-10-18
+readtime: true
+categories: ['MIKE LEIGH']
+tags: [Comedy, Drama]
+metadata: 'UK, 1971, 111 mins<br> Director: Mike Leigh'
+pdf: '2021-10-18-bleak-moments.pdf'
+---
 
 There is nothing quite like English suburbia, and a solid tradition of literary commentators, from Arnold Bennett to William Cooper, has ventured down the tree-lined avenues to unmask the mysteries of life behind the chintz curtains. Film attitudes to suburban life have ranged from that quintessentially British stance of bemused tolerance (possession is nine-tenths of happiness) to vituperative, and sometimes intolerant, rejection of all those lovingly sustained semi-detached values, a critical line extending from the generalised hostility of _Look Back in Anger_ to the particular commitment of _Family Life_. In Mike Leigh’s _Bleak Moments_, which seldom ventures beyond the dowdy claustrophobia of red brick and brown sofas, suburbia is hell on earth.
 
@@ -13,23 +23,20 @@ Far from being sociological types of human behaviour (perennial stumbling block 
 The highlight, if that is the word, of the film’s observation of this war of nerves is Sylvia’s confrontation (and that is the word) with Peter, whose own bottled aggression is characterised in maybe the film’s one unsympathetic moment when he stumbles through McLuhan’s theory of communication. ‘I find it easier watching radio,’ Sylvia counters to his frustratingly irrelevant question about the relative merits of radio and television. There is one scene, a disastrous dinner in an almost deserted Chinese restaurant with a supercilious waiter dancing non-attendance, which is pure Olmi, even to the long shot isolating the two of them against a forest of tablecloths. And when Sylvia takes her feckless suitor home to ply him with sherry and finally ask him point-blank to drop his trousers, Leigh’s patient, almost immaculately classical editing communicates the embarrassment with a familiarity which makes one shift nervously in one’s seat.
 
 _Bleak Moments_ is perhaps a little too long and in a sense trapped by its own claustrophobia, in that what one misses is a counterpoint with the world outside; Leigh’s theatre background may account for this. But as a first film it is an entirely original and (yes) highly promising work, shot in appropriately muted colour by Bahram Manoochehri. It was made, amazingly, for about £18,000, and shot at a 7:1 ratio. Suffice it to say that this only goes to demonstrate what you can do if you want to.<br>
-**David Wilson, _Sight and Sound_, Summer 1972**
-
+**David Wilson, _Sight and Sound_, Summer 1972**<br>
 
 
 **BLEAK MOMENTS**<br>
 _Directed by_: Mike Leigh  
 ©: Autumn Productions  
 _Presented by_: Autumn Productions  
-_In association with_: Memorial Enterprises,  
-British Film Institute Production Board  
+_In association with_: Memorial Enterprises, British Film Institute Production Board  
 _Produced by_: Leslie Blair  
 _Production Manager_: Pat O’Donnell  
 _Production Assistants_: Giles Camplin, Alison Read *  
 _Continuity_: Sue Vester  
 _Scenario_: Mike Leigh  
-_Photography/Camera Operator_:  
-Bahram Manoochehri  
+_Photography/Camera Operator_: Bahram Manoochehri  
 _Assistant [Camera]_: Roger Pratt  
 _Grips_: Michel Préfontaine  
 _Graphics_: Esther Rowley  
@@ -75,7 +82,6 @@ UK 1971©<br>
 111 mins<br>
 
 * Uncredited<br>
-
 
 
 **MIKE LEIGH A COMPLETE FILM SEASON**<br>
@@ -129,6 +135,21 @@ Mon 29 Nov 17:40<br>
 Sun 21 Nov 13:10 (+ Q&A with Mike Leigh, Marion Bailey and Dorothy Atkinson); Sat 27 Nov 17:30<br>
 **Who’s Who + A Sense of History  + A Running Jump**<br>
 Sat 30 Nov 14:00<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDc5MTI1XX0=
--->
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
