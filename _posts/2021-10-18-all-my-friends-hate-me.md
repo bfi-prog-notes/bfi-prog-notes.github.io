@@ -20,36 +20,36 @@ Our audience will be completely in sync with Pete’s desperation to be liked. P
 **Production notes**<br>
 
 
-**ALL MY FRIENDS HATE ME****
-_Directed by:_ Andrew Gaynord
-_Presented by:_ Ravanburn, Totally Tom Films
-_Executive Producers:_ Jon Plowman, George Cave, P.K. Fellowes
-_Produced by:_ Tom Palmer
-_Co-producer:_ Esme Hicks
-_Casting:_ Lucy Rands
-_Location Manager:_ George Cave
-_Script Supervisor:_ Linda Gibson
-_Written by:_ Tom Palmer, Tom Stourton
-_Director of Photography:_ Ben Moulden
-_Edited by:_ Saam Hodivala
-_Production Designer:_ Frederick Allsop
-_Costume Designer:_ Helen Bolter
-_Make-up Designer:_ Sarah Jane Marks
-_Composer:_ Will Lowes, Joe Robbins
-_Sound Recordist:_ Blai Escayola Bosch
-_Re-recording Mixer:_ Christopher Swaine
-_Dialogue Editor, ADR Supervisor, Sound Effects Editor:_ Tim Bamber
+**ALL MY FRIENDS HATE ME**<br>
+_Directed by:_ Andrew Gaynord<br>
+_Presented by:_ Ravanburn, Totally Tom Films<br>
+_Executive Producers:_ Jon Plowman, George Cave, P.K. Fellowes<br>
+_Produced by:_ Tom Palmer<br>
+_Co-producer:_ Esme Hicks<br>
+_Casting:_ Lucy Rands<br>
+_Location Manager:_ George Cave<br>
+_Script Supervisor:_ Linda Gibson<br>
+_Written by:_ Tom Palmer, Tom Stourton<br>
+_Director of Photography:_ Ben Moulden<br>
+_Edited by:_ Saam Hodivala<br>
+_Production Designer:_ Frederick Allsop<br>
+_Costume Designer:_ Helen Bolter<br>
+_Make-up Designer:_ Sarah Jane Marks<br>
+_Composer:_ Will Lowes, Joe Robbins<br>
+_Sound Recordist:_ Blai Escayola Bosch<br>
+_Re-recording Mixer:_ Christopher Swaine<br>
+_Dialogue Editor, ADR Supervisor, Sound Effects Editor:_ Tim Bamber<br>
 _Stunt Co-ordinator:_ Dan ‘DJ’ Johnson<br>
 
 **Cast**<br>
-Tom Stourton _(Pete)_
-Charly Clive _(Sonia)_
-Georgina Campbell _(Fig)_
-Antonia Clarke _(Claire)_
-Joshua McGuire _(George)_
-Graham Dickson _(Archie)_
-Christopher Fairbank _(Norman)_
-Dustin Demri-Burns _(Harry)_
+Tom Stourton _(Pete)_<br>
+Charly Clive _(Sonia)_<br>
+Georgina Campbell _(Fig)_<br>
+Antonia Clarke _(Claire)_<br>
+Joshua McGuire _(George)_<br>
+Graham Dickson _(Archie)_<br>
+Christopher Fairbank _(Norman)_<br>
+Dustin Demri-Burns _(Harry)_<br>
 Kieran Hodgson _(Graham)_<br>
 
 UK 2021<br>
@@ -59,23 +59,23 @@ Courtesy of BFI Distribution<br>
 
 
 **IN PERSON & PREVIEWS**<br>
-**Kermode Live in 3D at the BFI**
-Mon 18 Oct 18:15; Mon 8 Nov 18:10
-**Preview: Last Night in Soho**
-Thu 21 Oct 17:50; 31 Oct 17:40 (+ Q&A with Edgar Wright)
-**Screen Epiphany: Adjoa Andoh introduces Mandabi** 
-Sun 24 Oct 18:30
-**Mike Leigh in Conversation**
-Thu 28 Oct 20:40
-**Doctor Who: Galaxy 4 (animated)**
-Sun 7 Nov 12:00
-**Preview: Drive My Car (Doraibu mai kâ)**
-Mon 15 Nov 19:40
-**Preview: The Hand of God (È stata la mano di Dio)**
-Thu 18 Nov 18:30
-**TV Preview: The Amazing Mr Blunden + Q&A with writer-director-actor Mark Gatiss and actor Tamsin Greig**
-Mon 29 Nov 18:15
+**Kermode Live in 3D at the BFI**<br>
+Mon 18 Oct 18:15; Mon 8 Nov 18:10<br>
+**Preview: Last Night in Soho**<br>
+Thu 21 Oct 17:50; 31 Oct 17:40 (+ Q&A with Edgar Wright)<br>
+**Screen Epiphany: Adjoa Andoh introduces Mandabi**<br>
+Sun 24 Oct 18:30<br>
+**Mike Leigh in Conversation**<br>
+Thu 28 Oct 20:40<br>
+**Doctor Who: Galaxy 4 (animated)**<br>
+Sun 7 Nov 12:00<br>
+**Preview: Drive My Car (Doraibu mai kâ)**<br>
+Mon 15 Nov 19:40<br>
+**Preview: The Hand of God (È stata la mano di Dio)**<br>
+Thu 18 Nov 18:30<br>
+**TV Preview: The Amazing Mr Blunden + Q&A with writer-director-actor Mark Gatiss and actor Tamsin Greig**<br>
+Mon 29 Nov 18:15<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODU5OTAwMSw2Njc3OTc3ODUsNDYzMD
-IyMzQyXX0=
+eyJoaXN0b3J5IjpbLTEwMzE4NjU4NTksMTkwODU5OTAwMSw2Nj
+c3OTc3ODUsNDYzMDIyMzQyXX0=
 -->
