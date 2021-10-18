@@ -23,7 +23,142 @@ Working with mainstream producer Brian Grazer (last year’s _Flightplan_) for t
 The cast play their stock characters with gusto. Owen in particular, masked by a white scarf for over half the movie, keeps a tonal intensity to his delivery that never falters while Jodie Foster, in perhaps the movie’s weakest role, playing a high-flying corporate fixer, explores a hitherto unseen smugness that provides a surprising counterbalance to the saintly mom persona she’s perfected in recent roles (see _Panic Room_, _Flightplan_, _Anna and the King_).
 
 In spite of the gloss, _Inside Man_ still displays intriguing hints of the truly gritty movie that’s lying just below its polished surface – a movie that Lee might have made for a less mainstream producer. The director intermittently picks at the racial and political sores of post-9/11 metropolitan life. A Sikh security guard, for instance, is forced from the bank and pinned to the ground by a panicked New York policeman who screams, ‘Shit! It’s a fuckin’ Arab!’ The security guard’s muffled cries of, ‘I’m a Sikh!’ remain, naturally, unheard by the cop. The hostages who eventually emerge from the bank are treated to rough racial profiling, with darker skins falling under immediate suspicion. The political tenor of the war on terror also surfaces in the heavy-handed interrogation scenes, with the interviewees cuffed, hooded and boiler-suited Guantanamo-style: everyone in the bank – both hostage and criminal is guilty by association just by being there.<br>
-**Kevin Maher, _Sight & Sound_, May 2006**
+**Kevin Maher, _Sight & Sound_, May 2006**<br>
+
+<![endif]-->
+
+**Inside Man**
+
+_Directed by_: Spike Lee  
+_©_: Universal Studios, GH Two LLC  
+_Production Company_: Brian Grazer Productions  
+_Presented by_: Universal Pictures,
+
+Imagine Entertainment  
+_Logo_: 40 Acres and a Mule Filmworks  
+_Executive Producers_: Daniel M. Rosenberg,
+
+Jon Kilik, Karen Kehela Sherwood, Kim Roth  
+_Produced by_: Brian Grazer  
+_Co-producer_: Jonathan Filley  
+_Unit Production Manager_: Jonathan Filley  
+_Production Supervisor_: Colin Cumberbatch  
+_Production Accountant_: Mike Phillips  
+_Location Manager_: Joseph White  
+_Post-production Supervisor_: Susan Lazarus  
+_1st Assistant Director_: Mike Ellis  
+_Continuity_: Shari L. Carpenter  
+_Casting_: Kim Taylor-Coleman  
+_Written by_: Russell Gewirtz  
+_Director of Photography_: Matthew Libatique  
+_A Camera Operator_: Stephen Consentino  
+_Camera Operator_: Ricardo Sarmiento  
+_Steadicam Operator_: Stephen Consentino  
+_Gaffer_: John Velez  
+_Key Grip_: Lamont Crawford  
+_Video Camera Operator_: Kerwin Devonish  
+_Still Photographer_: David C. Lee  
+_Visual Effects_: Big Film Design  
+_Special Effects Supervisor_: Steve Kirshoff  
+_Graphic Artist_: Leo Holder  
+_Editor_: Barry Alexander Brown  
+_Additional Editor_: Sam Pollard  
+_Production Design_: Wynn Thomas  
+_Art Director_: Chris Shriver  
+_Set Decorator_: George Detitta Jr  
+_Property Master_: Michael A. Saccio  
+_Costume Design_: Donna Berwick  
+_Key Make-up Artist_: Anita Gibson  
+_Key Hairstylist_: Kenneth Walker  
+_Title Design_: Big Film Design  
+_Negative Cutter_: Paul Tanzillo  
+_Film Colour Timer_: Terry Hager  
+_Digital Intermediate_: EFilm  
+_Music_: Terence Blanchard  
+_Conductor_: Terence Blanchard  
+_Orchestrators_: Terence Blanchard, Howard Drossin  
+_Production Sound Mixer_: William Sarokin  
+_Boom Operator_: George Leong  
+_Supervising Sound Mixer_: Tom Fleischman  
+_Additional Re-recording Mixer_: Bob Chefalas  
+_Re-recordist_: Dave Bihldorf  
+_Supervising Sound Editor_: Philip Stockton  
+_Sound Effects Design_: Eugene Gearty  
+_Sound Effects Editor_: Allan Zaleski  
+_Stunt Co-ordinator_: Jeff Ward  
+_NYPD Detective Consultant_: Detective Neil Carter  
+_MCC Consultant_: Timothy Kane  
+_ESU Special Consultant_:
+
+Detective Ed Bogdanowicz  
+_Dolby Sound Consultant_: Steve F.B. Smith  
+_Dialect Coach_: Carla Meyer, Howard Samuelsohn
+
+_Cast:_  
+Denzel Washington _(Detective Keith Frazier)_  
+Clive Owen _(Dalton Russell)_  
+Jodie Foster _(Madeleine White)_  
+Christopher Plummer _(Arthur Case)_  
+Willem Dafoe _(Captain John Darius)_  
+Chiwetel Ejiofor _(Detective Bill Mitchell)_  
+Carlos Andrés Gómez _(Steve)_  
+Kim Director _(Stevie)_  
+James Ransone _(Steve-O)_  
+Bernard Rachelle _(Chaim)_  
+Peter Gerety _(Captain Coughlin)_  
+Victor Colicchio _(Sergeant Collins)_  
+Cassandra Freeman _(Sylvia)_  
+Peter Frechette _(Peter Hammond)_  
+Gerry Vichi _(Herman Gluck)_  
+Waris Ahluwalia _(Vikram Walia)_  
+Rafael Osorio _(bank guard)_  
+Rodney ‘Bear’ Jackson _(bank guard)_  
+Daryl Mitchell _(Mobile Command Officer Rourke)_  
+Ashlie Atkinson _(Mobile Command Officer Berk)_  
+David Brown _(Mobile Command Officer Carnow)_  
+Robert C. Kirk _(Mobile Command Officer Borinsky)_  
+Frank Stellato _(Mobile Command detective)_  
+Ken Leung _(Wing)_  
+Marcia Jean Kurtz _(Miriam Douglas)_  
+Ed Onipede Blunt _(Ray Robinson)_  
+Amir Ali Said _(Brian Robinson)_  
+Lemon Andersen _(Paul Guitierez)_  
+Samantha Ivers _(Nancy Mann)_  
+Peter Kybart _(mayor)_  
+Jason Manuel Olazábal _(ESU Officer Hernandez)_  
+Jeff Ward _(ESU Officer Jesus)_  
+Anthony Mangano_,_ Michael Devine,  
+Ed Bogdanowicz_,_ Aaron Vexler,
+
+Anthony Borowiec, Joe Coots _(ESU officers)_  
+Lionel Pina _(cop with pizzas)_  
+Ken Ferrigni _(redheaded detective)_  
+Frank Hopf, Robert Testut _(barricade officers)_  
+Craig Marcus Spitzer _(Seth Greenblatt)_  
+Lily Agosto _(Gladys Perez)_  
+Patrick Illig _(Brad Stone)_  
+Frank Composto _(Eric Dodge)_  
+Rozanne Sher _(hostage woman)_  
+Rachel Matthews Black _(Katherine)_  
+Gregory Dann _(Case’s bodyguard)_  
+Ben Crowley _(White’s assistant)_  
+Shon Gables _(CBS news reporter)_  
+Dominic Carter _(NY1 news anchor)_  
+Sandra Endo _(NY1 news reporter)_  
+Kandiss Edmundson _(Madge)_  
+Al Palagonia _(Kevin)_  
+Florina Petcu _(Ilina)_  
+Agim Coma _(Borova)_  
+John Speredakos _(Porcario)_  
+Baktash Khadem Zaher _(Zahir)_  
+Ernest Rayford _(men’s club attendant)_  
+Vincent DiMartino _(barber)_  
+Julian Niccolini _(Four Seasons maître d’)_  
+Ed Crescimanni _(Edwin)_  
+Bradley Williams _(Ronnie)_<br>
+
+USA 2006<br>
+129 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxMzM4NjI3XX0=
+eyJoaXN0b3J5IjpbLTU3MDY2MDAyMF19
 -->
