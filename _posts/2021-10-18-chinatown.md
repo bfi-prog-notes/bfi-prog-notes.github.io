@@ -129,8 +129,7 @@ Wed 20 Oct 20:50; Wed 10 Nov 17:50 (+ intro by Geoff Andrew, Programmer-at-Large
 **The Manchurian Candidate**
 Thu 21 Oct 14:15; Sun 21 Nov 14:50
 **Illustrious Corpses (Cadaveri eccellenti)**
-Thu 21 Oct 20:30; Mon 25 Oct 14:15;  
-Fri 19 Nov 20:40; Sat 27 Nov 18:10
+Thu 21 Oct 20:30; Mon 25 Oct 14:15;  Fri 19 Nov 20:40; Sat 27 Nov 18:10
 **Murder on the Orient Express**
 Sat 23 Oct 17:30; Sun 7 Nov 18:10;  Tue 16 Nov 14:15
 **Blue Velvet**
@@ -141,15 +140,13 @@ Sun 14 Nov 18:20; Fri 26 Nov 20:45
 **The Silence of the Lambs**
 Fri 29 Oct 20:40; Wed 3 Nov 19:00 (+ pre-recorded intro by Professor Yvonne Tasker, author of BFI Film Classics _The Silence of the Lambs_);  Thu 18 Nov 14:40
 **No Country for Old Men**
-Sat 30 Oct 11:00; Mon 1 Nov 20:30;  
-Wed 24 Nov 18:00 (+ intro by Geoff Andrew, Programmer-at-Large)
+Sat 30 Oct 11:00; Mon 1 Nov 20:30;  Wed 24 Nov 18:00 (+ intro by Geoff Andrew, Programmer-at-Large)
 **In the Cut**
 Sun 31 Oct 18:30; Tue 30 Nov 18:10
 **Zero Dark Thirty**
-Sat 6 Nov 17:30; Tue 9 Nov 14:15;  
-Sun 28 Nov 15:20
+Sat 6 Nov 17:30; Tue 9 Nov 14:15;  Sun 28 Nov 15:20
 **Shaft**
 Fri 12 Nov 20:50; Tue 23 Nov 18:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzMzkxNDMzLDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTE1NTM0MTY0NTcsNDk3ODE4ODEwXX0=
 -->
