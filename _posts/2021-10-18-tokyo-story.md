@@ -73,7 +73,16 @@ Toshinosuke Nagao _(other doctor)_<br>
 Japan 1953<br>
 136 mins<br>
 
-\* Uncredited
+\* Uncredited<br>
+
+
+**Supported by**  
+<img style="float: left;" src="/img/Grand Seiko.png">
+<br><br><br>
+
+**In partnership wtih**  
+<img style="float: left;" src="/img/Japan Foundation.JPG" width="40%" height="40%">
+<br><br><br>
 
 
 **With the kind support of:**<br>
