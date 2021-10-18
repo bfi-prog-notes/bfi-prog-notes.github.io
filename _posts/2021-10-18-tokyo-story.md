@@ -12,10 +12,10 @@ Aside from Taizo Saito’s lush but sparingly used Hollywood-style score, the fi
 **Tony Rayns, _Sight & Sound_, February 1994**<br>
 
 **TOKYO STORY (TÔKYÔ MONOGATARI)**<br>
-_Director:_ Yasujiro Ozu
-_Production Company:_ Shochiku Co. Ltd.
-_Producer:_ Takeshi Yamamoto
-_Production Manager:_ Tomiji Shimizu
+_Director:_ Yasujiro Ozu<br>
+_Production Company:_ Shochiku Co. Ltd.<br>
+_Producer:_ Takeshi Yamamoto<br>
+_Production Manager:_ Tomiji Shimizu<br>
 _Assistant:_ Shohei Imamura *
 _Assistant Director:_ Kozo Yamamoto
 _Screenplay:_ Kogo Noda, Yasujiro Ozu
@@ -23,95 +23,55 @@ _Director of Photography:_ Yuharu Atsuta
 _Assistant Cinematographer:_ Takashi Kawamata
 _Lighting:_ Itsuo Takashita
 _Editor:_ Yoshiyasu Hamamura
-
 _Art Director:_ Tatsuo Hamada
-
 _Set Designer:_ Toshio Takahashi
-
 _Set Decorator:_ Setsutaro Moriya
-
 _Costume Designer:_ Taizo Saito
-
 _Music:_ Kojun Saito
-
 _Sound Recording:_ Yoshisaburo Senoo
-
 _Studio:_ Shochiku Ofuna
 
-_Cast:_
-
+**Cast**<br>
 Chishu Ryu _(Shukichi Hirayama)_
-
 Chieko Higashiyama _(Tomi, Hirayama’s wife)_
-
 Setsuko Hara _(Noriko, Hirayama’s daughter-in-law)_
-
-Haruko Sugimura  
-_(Shige, Hirayama’s elder daughter)_
-
+Haruko Sugimura  _(Shige, Hirayama’s elder daughter)_
 Sô Yamamura _(Koichi, Hirayama’s elder son)_
-
 Kuniko Miyake _(Fumiko, Koichi’s wife)_
-
-Kyôko Kagawa  
-_(Kyôko, Hirayama’s younger daughter)_
-
+Kyôko Kagawa  _(Kyôko, Hirayama’s younger daughter)_
 Eijirô Tono _(Sanpei Numata, Hirayama’s friend)_
-
-Nobuo Nakamura  
-_(Kurazo Kaneko, Shige’s husband)_
-
+Nobuo Nakamura  _(Kurazo Kaneko, Shige’s husband)_
 Shirô Osaki _(Keizo, Hirayama’s younger son)_
-
 Hisao Toake _(Osamu Hattori, Hirayama’s friend)_
-
 Teruko Nagaoka _(Yone)_
-
 Mutsuko Sakura _(woman at oden counter)_
-
 Toyo Takahashi _(Noriko’s neighbour)_
-
 Toru Abe _(railway clerk)_
-
 Sachiko Mitani _(woman at Noriko’s apartment)_
-
 Zen Murase _(Minoru, Koichi’s elder son)_
-
 Mitsuhiro Mori _(Isamu, Koichi’s younger son)_
-
 Junko Anan _(hair salon assistant)_
-
 Ryoko Mizuki, Yoshiko Togawa  
 _(hair salon customers)_
-
 Kazuhiro Itokawa _(tenant)_
-
 Fumio Toyama _(patient)_
-
 Keijiro Morozumi _(policeman)_
-
 Tsutomu Niijima  
 _(company section chief at Noriko’s office)_
-
 Akira Suzuki _(clerk at Noriko’s office)_
-
 Yoshiko Tashiro, Haruko Chichibu _(maids at inn)_
-
 Takashi Miki _(singer at inn)_
+Toshinosuke Nagao _(other doctor)_<br>
 
-Toshinosuke Nagao _(other doctor)_
-
-Japan 1953
-
-136 mins
+Japan 1953<br>
+136 mins<br>
 
 \* Uncredited
 
 
-
 **With the kind support of:**<br>
 Janus Films/The Criterion Collection, Kadokawa Corporation, Kawakita Memorial Film Institute, Kokusai Hoei Co. Ltd, Nikkatsu Corporation,  
-Toei Co. Ltd
+Toei Co. Ltd<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyNDEyMzY3XX0=
+eyJoaXN0b3J5IjpbMjAyNzUzNDYwM119
 -->
