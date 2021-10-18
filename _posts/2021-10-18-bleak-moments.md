@@ -12,8 +12,70 @@ Far from being sociological types of human behaviour (perennial stumbling block 
 
 The highlight, if that is the word, of the film’s observation of this war of nerves is Sylvia’s confrontation (and that is the word) with Peter, whose own bottled aggression is characterised in maybe the film’s one unsympathetic moment when he stumbles through McLuhan’s theory of communication. ‘I find it easier watching radio,’ Sylvia counters to his frustratingly irrelevant question about the relative merits of radio and television. There is one scene, a disastrous dinner in an almost deserted Chinese restaurant with a supercilious waiter dancing non-attendance, which is pure Olmi, even to the long shot isolating the two of them against a forest of tablecloths. And when Sylvia takes her feckless suitor home to ply him with sherry and finally ask him point-blank to drop his trousers, Leigh’s patient, almost immaculately classical editing communicates the embarrassment with a familiarity which makes one shift nervously in one’s seat.
 
-_Bleak Moments_ is perhaps a little too long and in a sense trapped by its own claustrophobia, in that what one misses is a counterpoint with the world outside; Leigh’s theatre background may account for this. But as a first film it is an entirely original and (yes) highly promising work, shot in appropriately muted colour by Bahram Manoochehri. It was made, amazingly, for about £18,000, and shot at a 7:1 ratio. Suffice it to say that this only goes to demonstrate what you can do if you want to.<br<
+_Bleak Moments_ is perhaps a little too long and in a sense trapped by its own claustrophobia, in that what one misses is a counterpoint with the world outside; Leigh’s theatre background may account for this. But as a first film it is an entirely original and (yes) highly promising work, shot in appropriately muted colour by Bahram Manoochehri. It was made, amazingly, for about £18,000, and shot at a 7:1 ratio. Suffice it to say that this only goes to demonstrate what you can do if you want to.<br>
 **David Wilson, _Sight and Sound_, Summer 1972**
+
+
+
+**BLEAK MOMENTS**<br>
+_Directed by_: Mike Leigh  
+©: Autumn Productions  
+_Presented by_: Autumn Productions  
+_In association with_: Memorial Enterprises,  
+British Film Institute Production Board  
+_Produced by_: Leslie Blair  
+_Production Manager_: Pat O’Donnell  
+_Production Assistants_: Giles Camplin, Alison Read *  
+_Continuity_: Sue Vester  
+_Scenario_: Mike Leigh  
+_Photography/Camera Operator_:  
+Bahram Manoochehri  
+_Assistant [Camera]_: Roger Pratt  
+_Grips_: Michel Préfontaine  
+_Graphics_: Esther Rowley  
+_Film Editor_: Leslie Blair  
+_Assistant Editor_: Sidney Holden  
+_Art Director_: Richard Rambaut  
+_Assistant [Art Director]_: Liz Dallas-Ross  
+_Processed by_: Rank Film Laboratories  
+_Original Songs Written by_: Mike Bradwell  
+_Sound Recordist_: Bob Withey  
+_Assistant [Sound Recordist]_: Bob Bentley  
+_Post-production Recording_: Charles B. Frater
+
+**Cast**<br>
+Anne Raitt _(Sylvia)_  
+Sarah Stephenson _(Hilda)_  
+Eric Allan _(Peter)_  
+Joolia Cappleman _(Pat)_  
+Mike Bradwell _(Norman)_  
+Linda Beckett, Sandra Bolton, Stephen Churchett _(remedial trainees)_  
+Una Brandon-Jones _(supervisor)_  
+Joanna Dickens _(stout teacher)_  
+Ronald Eng _(waiter)_  
+Susan Glanville _(enthusiastic teacher)_  
+Christopher Leaver _(wine merchant)_  
+Christopher Martin _(Sylvia’s boss)_  
+Liz Smith _(Pat’s mother)_  
+Malcolm Smith, Donald Sumpter _(Norman’s friends)_  
+Reginald Stewart _(man in restaurant)_  
+Peter Chandler  
+Brian Chenley  
+Ina Clough  
+Pat Farrand  
+Sandra Jewell  
+Lin Layram  
+Ruth Lesirge  
+David Marigold  
+Marion Turner  
+Ken Wheatcroft  
+P.A. Rowley
+
+UK 1971©<br>
+111 mins<br>
+
+* Uncredited<br>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTY1MzgzMF19
+eyJoaXN0b3J5IjpbMTIzMDY0OTcyOV19
 -->
