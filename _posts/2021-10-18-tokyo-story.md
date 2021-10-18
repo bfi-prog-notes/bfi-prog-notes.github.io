@@ -78,7 +78,7 @@ Japan 1953<br>
 
 **Supported by**  
 <img style="float: left;" src="/img/Grand Seiko.png">
-<br><br><br>
+<br><br><br><br><br><br><br>
 
 **In partnership wtih**  
 <img style="float: left;" src="/img/Japan Foundation.JPG" width="40%" height="40%">
@@ -87,7 +87,7 @@ Japan 1953<br>
 
 **With special thanks to**
 <img style="float: left;" src="/img/NFAJ.png">
-<br><br><br>
+<br><br><br><br><br><br><br>
 
 
 **With the kind support of:**<br>
