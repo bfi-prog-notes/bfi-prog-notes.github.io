@@ -57,7 +57,7 @@ UK 2021<br>
 
 Courtesy of BFI Distribution<br>
 
-**IN PERSON & PREVIEWS**
+**IN PERSON & PREVIEWS**>br?
 
 **Kermode Live in 3D at the BFI**
 
@@ -90,5 +90,6 @@ Thu 18 Nov 18:30
 
 Mon 29 Nov 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3Nzk3Nzg1LDQ2MzAyMjM0Ml19
+eyJoaXN0b3J5IjpbNjA5OTExNDk4LDY2Nzc5Nzc4NSw0NjMwMj
+IzNDJdfQ==
 -->
