@@ -1,3 +1,14 @@
+---
+layout: post
+title: Inside Man
+published: true
+date: 2021-10-18
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Thriller, Drama, Crime]
+metadata: 'USA 2006, 129 mins<br> Director: Spike Lee'
+pdf: '2021-10-18-inside-man.pdf'
+---
 
 A dark secret lies at the heart of _Inside Man_, Spike Lee’s otherwise upbeat take on the heist genre. The film casts Denzel Washington, reunited with Lee for their fourth collaboration, as an NYPD detective tasked with handling a hostage crisis and bank robbery. With its wisecracking script and twisting plot, _Inside Man_ bears comparison to such heist films as _The Anderson Tapes_ (1971) and _Dog Day Afternoon_ (1975) – both of which Lee screened to his cast during rehearsals. The true valuable in the vaults, however, is a document that threatens to undo bank chairman Christopher Plummer’s life of good deeds. ‘He’s been trying to wash that blood off his hands but he can’t do it,’ says Lee. ‘There are some crimes for which atonement is impossible.’
 
@@ -25,20 +36,13 @@ The cast play their stock characters with gusto. Owen in particular, masked by a
 In spite of the gloss, _Inside Man_ still displays intriguing hints of the truly gritty movie that’s lying just below its polished surface – a movie that Lee might have made for a less mainstream producer. The director intermittently picks at the racial and political sores of post-9/11 metropolitan life. A Sikh security guard, for instance, is forced from the bank and pinned to the ground by a panicked New York policeman who screams, ‘Shit! It’s a fuckin’ Arab!’ The security guard’s muffled cries of, ‘I’m a Sikh!’ remain, naturally, unheard by the cop. The hostages who eventually emerge from the bank are treated to rough racial profiling, with darker skins falling under immediate suspicion. The political tenor of the war on terror also surfaces in the heavy-handed interrogation scenes, with the interviewees cuffed, hooded and boiler-suited Guantanamo-style: everyone in the bank – both hostage and criminal is guilty by association just by being there.<br>
 **Kevin Maher, _Sight & Sound_, May 2006**<br>
 
-<![endif]-->
-
-**Inside Man**
-
+**INSIDE MAN**<br>
 _Directed by_: Spike Lee  
 _©_: Universal Studios, GH Two LLC  
 _Production Company_: Brian Grazer Productions  
-_Presented by_: Universal Pictures,
-
-Imagine Entertainment  
+_Presented by_: Universal Pictures, Imagine Entertainment  
 _Logo_: 40 Acres and a Mule Filmworks  
-_Executive Producers_: Daniel M. Rosenberg,
-
-Jon Kilik, Karen Kehela Sherwood, Kim Roth  
+_Executive Producers_: Daniel M. Rosenberg, Jon Kilik, Karen Kehela Sherwood, Kim Roth  
 _Produced by_: Brian Grazer  
 _Co-producer_: Jonathan Filley  
 _Unit Production Manager_: Jonathan Filley  
@@ -88,13 +92,11 @@ _Sound Effects Editor_: Allan Zaleski
 _Stunt Co-ordinator_: Jeff Ward  
 _NYPD Detective Consultant_: Detective Neil Carter  
 _MCC Consultant_: Timothy Kane  
-_ESU Special Consultant_:
-
-Detective Ed Bogdanowicz  
+_ESU Special Consultant_: Detective Ed Bogdanowicz  
 _Dolby Sound Consultant_: Steve F.B. Smith  
-_Dialect Coach_: Carla Meyer, Howard Samuelsohn
+_Dialect Coach_: Carla Meyer, Howard Samuelsohn<br>
 
-_Cast:_  
+**Cast**   
 Denzel Washington _(Detective Keith Frazier)_  
 Clive Owen _(Dalton Russell)_  
 Jodie Foster _(Madeleine White)_  
@@ -127,10 +129,7 @@ Samantha Ivers _(Nancy Mann)_
 Peter Kybart _(mayor)_  
 Jason Manuel Olazábal _(ESU Officer Hernandez)_  
 Jeff Ward _(ESU Officer Jesus)_  
-Anthony Mangano_,_ Michael Devine,  
-Ed Bogdanowicz_,_ Aaron Vexler,
-
-Anthony Borowiec, Joe Coots _(ESU officers)_  
+Anthony Mangano, Michael Devine, Ed Bogdanowicz, Aaron Vexler, Anthony Borowiec, Joe Coots _(ESU officers)_  
 Lionel Pina _(cop with pizzas)_  
 Ken Ferrigni _(redheaded detective)_  
 Frank Hopf, Robert Testut _(barricade officers)_  
@@ -159,6 +158,21 @@ Bradley Williams _(Ronnie)_<br>
 
 USA 2006<br>
 129 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDY2MDAyMF19
--->
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
