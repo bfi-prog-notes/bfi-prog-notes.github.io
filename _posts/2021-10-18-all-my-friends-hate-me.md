@@ -5,7 +5,7 @@ _+ intro and Q&A with Tom Palmer and Tom Stourton_
 Just because you’re paranoid, Joseph Heller noted, doesn’t mean they aren’t after you. This is birthday boy Pete’s own Catch-22: invited by his old university crew to a country mansion celebration, from the outset something feels off. He’s constantly the butt of strangely pointed jokes. And what about the local chancer who has latched onto the group and seems to be studying him rather too closely?
 
 Andrew Gaynord’s feature debut, scripted by lead actor Tom Stourton and Tom Palmer, is a stiletto-sharp comedy nightmare. There’s misunderstandings, micro-aggressions and the fear that our youthful friendships aren’t – or maybe never were – what we thought. Imagine _The Big Chill_ as a psychological horror, with an expert ensemble of rising British talent making us squirm with dread and laughter.<br>
-**Leigh Singer, BFI London Film Festival**
+**Leigh Singer, BFI London Film Festival**<
 
 **Director’s statement**
 
@@ -20,5 +20,5 @@ We’ll also be occasionally harnessing film’s powers to slowly induce paranoi
 Our audience will be completely in sync with Pete’s desperation to be liked. Pete feels alone, lost, and wanting to connect. He just wants to have a good birthday party, guys! To me, this is funny.<br>
 **Production notes**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMDIyMzQyXX0=
+eyJoaXN0b3J5IjpbNTQwNDUzNzU2LDQ2MzAyMjM0Ml19
 -->
