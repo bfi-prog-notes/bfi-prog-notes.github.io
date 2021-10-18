@@ -78,8 +78,33 @@ Gareth Tandy  *
 UK 1958©<br>
 90 mins<br>
 
-\* Uncredited
+\* Uncredited<br>
 
+
+**EDGAR WRIGHT’S  LONDON AFTER DARK**<br>
+**Passport to Shame (aka Room 43)**<br>
+Mon 18 Oct 20:50; Sat 13 Nov 18:10<br>
+**Peeping Tom**<br>
+Tue 19 Oct 20:30; Sat 6 Nov 18:20<br>
+**Beat Girl**<br>
+Fri 22 Oct 20:40; Sun 31 Oct 16:20<br>
+**West End Jungle + Look at Life: Market Place  + Look at Life: Rising to High Office**<br>
+Sat 23 Oct 20:40; Sat 20 Nov 14:40
+**The Pleasure Girls + Look at Life: Members Only**
+Mon 25 Oct 20:50; Mon 29 Nov 18:20
+**Frenzy**
+Wed 27 Oct 20:45; Fri 19 Nov 18:30
+**Darling**
+Thu 28 Oct 20:30; Sat 20 Nov 13:20
+**Bitter Harvest + Look at Life: Coffee Bar**
+Fri 29 Oct 18:00; Tue 9 Nov 20:45
+**The Small World of Sammy Lee  + Look at Life: In Gear**
+Sat 30 Oct 20:30; Sat 6 Nov 20:45;  
+Tue 23 Nov 14:30
+**Primitive London  + Look at Life: Goodbye Piccadilly**
+Mon 1 Nov 20:50; Thu 25 Nov 20:50
+
+**Promotional partners**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjU0MjkyNF19
+eyJoaXN0b3J5IjpbMTc2Nzk5NDM4OV19
 -->
