@@ -28,7 +28,7 @@ Some now-familiar faces make fleeting appearances: _Carry On_ icon Joan Sims as 
 This wildly incredible story, introduced as a social document by Fabian of the Yard, must be the most wholeheartedly absurd prostitute drama yet. Motivations are mysterious and characterisations grotesque. Connoisseurs of the bizarre may relish some of the production’s most ambitious moments, notably the conclusion, which features Herbert Lom scattering hundreds of bank notes from a blazing brothel in an endeavour to hasten the approaching firemen.<br>
 **_Monthly Film Bulletin_, March 1959**
 
-**PASSPORT TO SHAME (AKA ROOM 43)**
+**PASSPORT TO SHAME (AKA ROOM 43)**<br>
 _Directed by_: Alvin Rakoff  
 _©/Production Company_: United Co-Productions  
 _Presented by_: British Lion Films  
@@ -115,3 +115,22 @@ Mon 1 Nov 20:50; Thu 25 Nov 20:50<br>
 <img style="float: left;" src="/img/fopp-40th-anniv-logo-01.png">
 
 <img style="float: left;" src="/img/Soho Radio Circle No Background.png" width="20%" height="20%">
+<br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
