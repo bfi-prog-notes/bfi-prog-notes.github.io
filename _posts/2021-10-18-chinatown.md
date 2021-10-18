@@ -32,141 +32,74 @@ _Directed by:_ Roman Polanski
 _©:_ Long Road Productions
 _A_ Paramount _picture_
 _A_ Paramount-Penthouse _presentation_
-
 _A_ Robert Evans _production_
-
 _Associate Producer:_ C.O. Erickson
-
 _Unit Production Manager:_ C.O. Erickson
-
 _Assistant to the Producer:_ Gary Chazan
-
 _Assistant Director:_ Howard W. Koch Jr
-
 _2nd Assistant Director:_ Michele Ader
-
 _Script Supervisor:_ May Wale Brown
-
 _Casting by:_ Mike Fenton, Jane Feinberg
-
 _Screenplay:_ Robert Towne
-
 _Director of Photography:_ John A. Alonzo
-
 _Camera Operator:_ Hugh Gagnier
-
 _Key Grip:_ Bernie Schwartz
-
 _Gaffer:_ Earl Gilbert
-
 _Special Effects:_ Logan Frazee
-
 _Editor:_ Sam O’Steen
-
 _Assistant Editor:_ Flo Williamson
-
 _Production Designer:_ Richard Sylbert
-
 _Art Director:_ W. Stewart Campbell
-
 _Set Designers:_ Gabe Resh, Robert Resh
-
 _Set Decorator:_ Ruby Levitt
-
 _Property Master:_ Bill Mac Sems
-
 _Costume Designer:_ Anthea Sylbert
-
 _Wardrobe:_ Richard Bruno, Jean Merrick
-
 _Jewels by:_ Family Jewels
-
 _Makeup:_ Hank Edds, Lee Harmon
-
 _Hairstylists:_ Susan Germaine, Vivienne Walker
-
 _Titles:_ Wayne Fitzgerald
-
 _Colour by:_ Technicolor
-
 _Filmed in:_ Panavision
-
 _Music:_ Jerry Goldsmith
-
 _Music Editor:_ John C. Hammell
-
 _Sound Mixer:_ Larry Jost
-
 _Boom Man:_ Clint Althaus
-
 _Re-recording:_ Bud Grenzbach
+_Sound Editor:_ Robert Cornett<br>
 
-_Sound Editor:_ Robert Cornett
-
-_Cast:_
-
+**Cast**
 Jack Nicholson _(J.J. Gittes)_
-
 Faye Dunaway _(Evelyn Cross Mulwray)_
-
 John Hillerman _(Yelburton)_
-
 Perry Lopez _(Lieutenant Lou Escobar)_
-
 Burt Young _(Curly)_
-
 Bruce Glover _(Duffy)_
-
 Joe Mantell _(Walsh)_
-
 Roy Jenson _(Claude Mulvihill)_
-
 Diane Ladd _(Ida Sessions)_
-
 Dick Bakalyan _(Loach)_
-
 John Huston _(Noah Cross)_
-
 Darrell Zwerling _(Hollis I. Mulwray)_
-
 James Hong _(Evelyn’s butler)_
-
 Cecil Elliott _(Emma Dill)_
-
 Beulah Quo _(maid)_
-
 Federico Roberto _(Cross’ butler)_
-
 Allan Warnick _(clerk)_
-
 John Rogers _(Mr Palmer)_
-
 Roman Polanski _(man with knife)_
-
 Nandu Hinds _(Sophie)_
-
 James O’Reare _(lawyer)_
-
 Jerry Fujikawa _(the gardener)_
-
 Belinda Palmer _(Katherine)_
-
 Roy Roberts _(Mayor Bagby)_
-
 Noble Willingham, Elliott Montgomery _(councilmen)_
-
 Rance Howard _(irate farmer)_
-
 George Justin _(barber)_
-
 Doc Erickson _(customer)_
-
 Fritzi Burr _(Mulwray’s secretary)_
-
 Charles Knapp _(Maury, mortician)_
-
 Claudio Martinez _(boy on horseback)_
-
 John Holland, Jesse Vint, Jim Burke,
 
 Denny Arnold _(farmers in the valley)_
@@ -270,5 +203,5 @@ Sun 28 Nov 15:20
 
 Fri 12 Nov 20:50; Tue 23 Nov 18:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjAzOTk0OTYsNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTYxNjE3NTUyOCw0OTc4MTg4MTBdfQ==
 -->
