@@ -20,6 +20,73 @@ Some now-familiar faces make fleeting appearances: _Carry On_ icon Joan Sims as 
 **A contemporary review**<br>
 This wildly incredible story, introduced as a social document by Fabian of the Yard, must be the most wholeheartedly absurd prostitute drama yet. Motivations are mysterious and characterisations grotesque. Connoisseurs of the bizarre may relish some of the production’s most ambitious moments, notably the conclusion, which features Herbert Lom scattering hundreds of bank notes from a blazing brothel in an endeavour to hasten the approaching firemen.<br>
 **_Monthly Film Bulletin_, March 1959**
+
+<![endif]-->
+
+**PASSPORT TO SHAME (AKA ROOM 43)**
+
+_Directed by_: Alvin Rakoff  
+_©/Production Company_: United Co-Productions  
+_Presented by_: British Lion Films  
+_Produced by_: John Clein  
+_Production Manager_: Barry Delmaine  
+_Location Manager_: Albert Pearl  
+_Assistant Director_: Peter Crowhurst  
+_Continuity_: Pamela Carlton  
+_Screenplay by_: Patrick Alexander  
+_Director of Photography_: Jack Asher  
+_Camera Operator_: Nick Roeg  
+_Editor_: Lee Doig  
+_Art Director_: George Beech  
+_Wardrobe_: Evelyn Gibbs  
+_Make-up_: Jim Hydes  
+_Hairdresser_: Ann Box  
+_Music Composed, Arranged and Directed by_:  
+Ken Jones  
+_‘Never, Never More’ Music by_: Jeff Davis  
+_‘Never, Never More’ Lyric by_: Geoffrey Parsons  
+_Sound Recording_: Claude Hitchcock  
+_Recorded on_: RCA Sound System  
+_Dubbing Editor_: John Glen  
+_Made at_: Walton Studios
+
+_Cast:_
+
+Odile Versois _(Malou Beaucaire)_  
+Herbert Lom _(Nick Biaggi)_  
+Eddie Constantine _(Johnny McVay)_  
+Brenda De Banzie _(Aggie)_  
+Robert Brown _(Mike)_  
+Diana Dors _(Vicki)_  
+Elwyn Brook-Jones _(Heath)_  
+Cyril Shaps _(Willie)_  
+Percy Cartwright _(registrar)_  
+James Ottaway _(assistant registrar)_  
+Denis Shaw _(Mac)_  
+Joan Sims _(Miriam, telephonist)_  
+Pat Pleasance _(Sally)_  
+Steve Plytas _(café boss)_  
+Charles Price _(Nick’s chauffeur)_  
+Lana Morris _(a girl)_  
+Jackie Collins _(English girl)_  
+Margaret Tyzack _(June, Heath’s secretary)_  
+Robert Fabian _(himself, introduction)_  
+Michael Caine _(bridegroom)_ *
+
+Anne Reid _(bride)_ *  
+Pauline Stroud _(Maria)_ *  
+Jerold Wells _(taxi driver in office)_ *  
+Rosalie Marshall  *  
+Robert Crewdson  *  
+Yvonne Buckingham  *  
+Gareth Tandy  *
+
+UK 1958©
+
+90 mins
+
+* Uncredited
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA5NDE3MF19
+eyJoaXN0b3J5IjpbMTgwOTMzMzA2M119
 -->
