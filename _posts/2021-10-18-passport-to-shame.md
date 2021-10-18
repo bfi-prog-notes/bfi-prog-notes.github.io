@@ -4,7 +4,7 @@ title: Passport to Shame
 published: true
 date: 2021-10-18
 readtime: true
-categories: ['EDGAR WRIGHT’S LONDON AFTER DARK]
+categories: ['EDGAR WRIGHT’S LONDON AFTER DARK']
 tags: [Crime, Drama]
 metadata: 'UK, 1958, 90 mins<br> Director: Alvin Rakoff'
 pdf: '2021-10-18-passport-to-shame.pdf'
@@ -110,7 +110,8 @@ Sat 30 Oct 20:30; Sat 6 Nov 20:45;  Tue 23 Nov 14:30<br>
 **Primitive London  + Look at Life: Goodbye Piccadilly**<br>
 Mon 1 Nov 20:50; Thu 25 Nov 20:50<br>
 
-**Promotional partners**
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2NTUyNjAxXX0=
--->
+**Promotional partners**<br>
+
+<img style="float: left;" src="/img/fopp-40th-anniv-logo-01.png">
+
+<img style="float: left;" src="/img/Soho Radio Circle No Background.png" width="20%" height="20%">
