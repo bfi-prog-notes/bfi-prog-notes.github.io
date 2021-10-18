@@ -55,9 +55,9 @@ Kieran Hodgson _(Graham)_<br>
 UK 2021<br>
 94 mins<br>
 
-Courtesy of BFI Distribution<
+Courtesy of BFI Distribution<br>
 
-IN PERSON & PREVIEWS
+**IN PERSON & PREVIEWS**
 
 **Kermode Live in 3D at the BFI**
 
@@ -90,5 +90,5 @@ Thu 18 Nov 18:30
 
 Mon 29 Nov 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTA0NjA2NSw0NjMwMjIzNDJdfQ==
+eyJoaXN0b3J5IjpbNjY3Nzk3Nzg1LDQ2MzAyMjM0Ml19
 -->
