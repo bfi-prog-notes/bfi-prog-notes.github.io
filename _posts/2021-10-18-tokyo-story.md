@@ -82,6 +82,11 @@ Japan 1953<br>
 
 **In partnership wtih**  
 <img style="float: left;" src="/img/Japan Foundation.JPG" width="40%" height="40%">
+<br><br><br><br><br><br><br>
+
+
+**With special thanks to**
+<img style="float: left;" src="/img/NFAJ.png">
 <br><br><br>
 
 
