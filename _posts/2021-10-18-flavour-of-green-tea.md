@@ -14,46 +14,43 @@ Ozu did not seem to be very fond of this film which is surprising for, although 
 **John Gillett, National Film Theatre programme notes**
 
 
-
-**The Flavour of Green Tea over Rice  
-(Ochazuke no aji)**<br>
+**THE FLAVOUR OF GREEN TEA OVER RICE  
+(OCHAZUKE NO AJI)**<br>
 _Director:_ Yasujiro Ozu<br>
-©: Shochiku Co. Ltd.
-_Production Company:_ Shochiku Co. Ltd.
-_Producer:_ Takeshi Yamamoto
-_Assistant:_ Shohei Imamura *
-_Assistant Director:_ Kozo Yamamoto
-_Screenplay:_ Kogo Noda, Yasujiro Ozu
-_Director of Photography:_ Yuharu Atsuta
-_Lighting:_ Itsuo Takashita
-_Camera Assistant:_ Takashi Kawamata
-_Editor:_ Yoshiyasu Hamamura
-_Art Director:_ Tatsuo Hamada
-_Music:_ Ichirô Saitô
-_Sound Recording:_ Yoshisaburo Senoo
-_Studio:_ Shochiku Ofuna
+©: Shochiku Co. Ltd.<br>
+_Production Company:_ Shochiku Co. Ltd.<br>
+_Producer:_ Takeshi Yamamoto<br>
+_Assistant:_ Shohei Imamura *<br>
+_Assistant Director:_ Kozo Yamamoto<br>
+_Screenplay:_ Kogo Noda, Yasujiro Ozu<br>
+_Director of Photography:_ Yuharu Atsuta<br>
+_Lighting:_ Itsuo Takashita<br>
+_Camera Assistant:_ Takashi Kawamata<br>
+_Editor:_ Yoshiyasu Hamamura<br>
+_Art Director:_ Tatsuo Hamada<br>
+_Music:_ Ichirô Saitô<br>
+_Sound Recording:_ Yoshisaburo Senoo<br>
+_Studio:_ Shochiku Ofuna<br>
 
 **Cast**<br>
-Shin Saburi _(Mokichi Satake)_
-Michiyo Kogure _(Taeko)_
-Koji Tsuruta _(Noboru)_
-Chishu Ryu _(Sadao Hirayama)_
-Chikage Awashima _(Aya Amamiya)_
-Keiko Tsushima _(Setsuko)_
-Kuniko Miyake
-Eijirô Yanagi
-Hisao Toake
-Yûko Mochizuki
-Koji Shitara
-
-Mie Kitahara
-
-Toshinosuke Nagao
+Shin Saburi _(Mokichi Satake)_<br>
+Michiyo Kogure _(Taeko)_<br>
+Koji Tsuruta _(Noboru)_<br>
+Chishu Ryu _(Sadao Hirayama)_<br>
+Chikage Awashima _(Aya Amamiya)_<br>
+Keiko Tsushima _(Setsuko)_<br>
+Kuniko Miyake<br>
+Eijirô Yanagi<br>
+Hisao Toake<br>
+Yûko Mochizuki<br>
+Koji Shitara<br>
+Mie Kitahara<br>
+Toshinosuke Nagao<br>
 
 Japan 1952©<br>
 115 mins<br>
 
-\* Uncredited
+\* Uncredited<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjE2NzYxMV19
+eyJoaXN0b3J5IjpbODE4MTY2NTgxXX0=
 -->
