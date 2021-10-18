@@ -1,4 +1,14 @@
-<![endif]-->
+---
+layout: post
+title: All My Friends Hate Me
+published: true
+date: 2021-10-18
+readtime: true
+categories: ['PREVIEWS']
+tags: [Comedy, Horror]
+metadata: 'UK 2021, 94 mins<br> Director: Andrew Gaynord'
+pdf: '2021-10-18-all-my-friends-hate-me.pdf'
+---
 
 _+ intro and Q&A with Tom Palmer and Tom Stourton_
 
@@ -75,7 +85,21 @@ Mon 15 Nov 19:40<br>
 Thu 18 Nov 18:30<br>
 **TV Preview: The Amazing Mr Blunden + Q&A with writer-director-actor Mark Gatiss and actor Tamsin Greig**<br>
 Mon 29 Nov 18:15<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE4NjU4NTksMTkwODU5OTAwMSw2Nj
-c3OTc3ODUsNDYzMDIyMzQyXX0=
--->
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
