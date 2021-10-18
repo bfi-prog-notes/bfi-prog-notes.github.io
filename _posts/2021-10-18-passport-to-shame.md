@@ -21,10 +21,7 @@ Some now-familiar faces make fleeting appearances: _Carry On_ icon Joan Sims as 
 This wildly incredible story, introduced as a social document by Fabian of the Yard, must be the most wholeheartedly absurd prostitute drama yet. Motivations are mysterious and characterisations grotesque. Connoisseurs of the bizarre may relish some of the production’s most ambitious moments, notably the conclusion, which features Herbert Lom scattering hundreds of bank notes from a blazing brothel in an endeavour to hasten the approaching firemen.<br>
 **_Monthly Film Bulletin_, March 1959**
 
-<![endif]-->
-
 **PASSPORT TO SHAME (AKA ROOM 43)**
-
 _Directed by_: Alvin Rakoff  
 _©/Production Company_: United Co-Productions  
 _Presented by_: British Lion Films  
@@ -41,17 +38,15 @@ _Art Director_: George Beech
 _Wardrobe_: Evelyn Gibbs  
 _Make-up_: Jim Hydes  
 _Hairdresser_: Ann Box  
-_Music Composed, Arranged and Directed by_:  
-Ken Jones  
+_Music Composed, Arranged and Directed by_:  Ken Jones  
 _‘Never, Never More’ Music by_: Jeff Davis  
 _‘Never, Never More’ Lyric by_: Geoffrey Parsons  
 _Sound Recording_: Claude Hitchcock  
 _Recorded on_: RCA Sound System  
 _Dubbing Editor_: John Glen  
-_Made at_: Walton Studios
+_Made at_: Walton Studios  
 
-_Cast:_
-
+**Cast**  
 Odile Versois _(Malou Beaucaire)_  
 Herbert Lom _(Nick Biaggi)_  
 Eddie Constantine _(Johnny McVay)_  
@@ -71,8 +66,7 @@ Lana Morris _(a girl)_
 Jackie Collins _(English girl)_  
 Margaret Tyzack _(June, Heath’s secretary)_  
 Robert Fabian _(himself, introduction)_  
-Michael Caine _(bridegroom)_ *
-
+Michael Caine _(bridegroom)_ *  
 Anne Reid _(bride)_ *  
 Pauline Stroud _(Maria)_ *  
 Jerold Wells _(taxi driver in office)_ *  
@@ -81,12 +75,11 @@ Robert Crewdson  *
 Yvonne Buckingham  *  
 Gareth Tandy  *
 
-UK 1958©
+UK 1958©<br>
+90 mins<br>
 
-90 mins
-
-* Uncredited
+\* Uncredited
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTMzMzA2M119
+eyJoaXN0b3J5IjpbLTk2MjU0MjkyNF19
 -->
