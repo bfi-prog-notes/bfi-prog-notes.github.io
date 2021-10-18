@@ -1,14 +1,21 @@
+---
+layout: post
+title: Passport to Shame
+published: true
+date: 2021-10-18
+readtime: true
+categories: ['EDGAR WRIGHT’S LONDON AFTER DARK]
+tags: [Crime, Drama]
+metadata: 'UK, 1958, 90 mins<br> Director: Alvin Rakoff'
+pdf: '2021-10-18-passport-to-shame.pdf'
+---
 
-<![endif]-->
-
-One of those rare B-movies that manages to live up to or even exceed the lurid promise of its title and poster. It finds an (American) London cabbie on a dangerous mission to rescue an innocent French girl tricked into prostitution, and also packs in Herbert Lom as a murderous pimp, Man Ray-style dream sequences and the first onscreen appearance of Michael Caine and Anne Reid (in a registry scene). Highly entertaining Soho hokum.
-
-Edgar Wright
+One of those rare B-movies that manages to live up to or even exceed the lurid promise of its title and poster. It finds an (American) London cabbie on a dangerous mission to rescue an innocent French girl tricked into prostitution, and also packs in Herbert Lom as a murderous pimp, Man Ray-style dream sequences and the first onscreen appearance of Michael Caine and Anne Reid (in a registry scene). Highly entertaining Soho hokum.<br>
+**Edgar Wright**
 
 Opening with a solemn introduction by Inspector Robert Fabian (of _Fabian of the Yard_ fame) in which he expresses his disgust at the rise of organised prostitution rackets, or ‘the white slave trade’, _Passport to Shame_ is in fact a typical piece of 1950s (s)exploitation, claiming to expose a pressing social evil while rarely missing an opportunity to show ‘guest star’ Diana Dors parading in basque and suspenders.
 
-She plays prostitute Vicki, trying to raise enough money to pay hospital bills for her sister Maria, scarred for life in an acid attack by the vicious Nick Biaggi (Herbert Lom), a dapper gangster whose surname hints at the Italian and Maltese dominance of the Soho sex trade of the time. Shortly after the film was released, the 1959 Street Offences Act attempted a crackdown on street prostitution, but this had hardly any effect on operations like Nick’s, where the prettiest girls would be ‘groomed’ to service high-profile clients behind  
-the scenes.
+She plays prostitute Vicki, trying to raise enough money to pay hospital bills for her sister Maria, scarred for life in an acid attack by the vicious Nick Biaggi (Herbert Lom), a dapper gangster whose surname hints at the Italian and Maltese dominance of the Soho sex trade of the time. Shortly after the film was released, the 1959 Street Offences Act attempted a crackdown on street prostitution, but this had hardly any effect on operations like Nick’s, where the prettiest girls would be ‘groomed’ to service high-profile clients behind the scenes.
 
 Malou (Odile Versois) is doubly trapped: wanted by the police in France for (framed) theft, her arranged marriage lets her work legally, but also makes her wholly dependent on her new masters. Depressingly, the mechanics of her enslavement are virtually identical to the scenario depicted in Lukas Moodysson’s _Lilja 4-Ever_ (2002), suggesting that little has changed in nearly half a century.
 
