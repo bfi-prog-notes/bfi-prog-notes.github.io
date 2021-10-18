@@ -19,73 +19,43 @@ We’ll also be occasionally harnessing film’s powers to slowly induce paranoi
 Our audience will be completely in sync with Pete’s desperation to be liked. Pete feels alone, lost, and wanting to connect. He just wants to have a good birthday party, guys! To me, this is funny.<br>
 **Production notes**<br>
 
-<![endif]-->
 
-**All My Friends Hate Me**
-
+**ALL MY FRIENDS HATE ME****
 _Directed by:_ Andrew Gaynord
-
 _Presented by:_ Ravanburn, Totally Tom Films
-
 _Executive Producers:_ Jon Plowman, George Cave, P.K. Fellowes
-
 _Produced by:_ Tom Palmer
-
 _Co-producer:_ Esme Hicks
-
 _Casting:_ Lucy Rands
-
 _Location Manager:_ George Cave
-
 _Script Supervisor:_ Linda Gibson
-
 _Written by:_ Tom Palmer, Tom Stourton
-
 _Director of Photography:_ Ben Moulden
-
 _Edited by:_ Saam Hodivala
-
 _Production Designer:_ Frederick Allsop
-
 _Costume Designer:_ Helen Bolter
-
 _Make-up Designer:_ Sarah Jane Marks
-
 _Composer:_ Will Lowes, Joe Robbins
-
 _Sound Recordist:_ Blai Escayola Bosch
-
 _Re-recording Mixer:_ Christopher Swaine
-
 _Dialogue Editor, ADR Supervisor, Sound Effects Editor:_ Tim Bamber
+_Stunt Co-ordinator:_ Dan ‘DJ’ Johnson<br>
 
-_Stunt Co-ordinator:_ Dan ‘DJ’ Johnson
-
-_Cast:_
-
+**Cast**<br>
 Tom Stourton _(Pete)_
-
 Charly Clive _(Sonia)_
-
 Georgina Campbell _(Fig)_
-
 Antonia Clarke _(Claire)_
-
 Joshua McGuire _(George)_
-
 Graham Dickson _(Archie)_
-
 Christopher Fairbank _(Norman)_
-
 Dustin Demri-Burns _(Harry)_
+Kieran Hodgson _(Graham)_<br>
 
-Kieran Hodgson _(Graham)_
+UK 2021<br>
+94 mins<br>
 
-UK 2021
-
-94 mins
-
-Courtesy of BFI Distribution
+Courtesy of BFI Distribution<
 
 IN PERSON & PREVIEWS
 
@@ -120,5 +90,5 @@ Thu 18 Nov 18:30
 
 Mon 29 Nov 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg0ODc3NTYsNDYzMDIyMzQyXX0=
+eyJoaXN0b3J5IjpbMTMzNTA0NjA2NSw0NjMwMjIzNDJdfQ==
 -->
