@@ -46,9 +46,8 @@ _Sound Recording_: Gen Otani
 _Sound Effects_: Noburu Kurashima  
 _Collaborators_: Kazuo Ikehiro, Senkichiro Takeda, Hiroyo Kato
 
-_Cast:_
-Kazuo Hasegawa_  
-(Yukinojô Nakamura/Yamitaro the thief)_  
+**Cast**  
+Kazuo Hasegawa _(Yukinojô Nakamura/Yamitaro the thief)_  
 Fujiko Yamamoto _(Ohatsu)_  
 Ayako Wakao _(Lady Namiji)_  
 Eiji Funakoshi _(Heima Kadokura)_  
@@ -79,11 +78,11 @@ Jun Arimura
 Akira Konami  
 Keiko Koyanagi
 
-Japan 1963
-
+Japan 1963  
 113 mins
 
 The screening on Thu 11 Nov will be introduced by Jennifer Coates, The University of Sheffield
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzY3MTY5M119
+eyJoaXN0b3J5IjpbMTI1NDY4NDM3MV19
 -->
