@@ -22,8 +22,98 @@ I tried to show everything using the full-shot. Japanese almost never make films
 
 It was a very hard film to make. We decided that the main castle set had to be built on the slope of Mount Fuji, not because I wanted to show this mountain but because it has precisely the stunted landscape that I wanted. And it is usually foggy. I had decided I wanted lots of fog for this film. [Kurosawa has said elsewhere that since he was very young the idea of samurai galloping out of the fog much appealed to him. At the beginning of the original version of this film, Mifune and Minoru gallop in and out of the fog eight times.] Also I wanted a low, squat castle. Kohei Ezaki, who was the art director, wanted a towering castle, but I had my way. Making the set was very difficult because we didn’t have enough people and the location was so far from Tokyo. Fortunately, there was a US Marine Corps base nearby and they helped a great deal; also a whole MP battalion helped us out.  We all worked very hard indeed, clearing the ground, building the set. Our labour on this steep fog-bound slope, I remember, absolutely exhausted us – we almost got sick.  
 **Akira Kurosawa interviewed by Donald Richie, _Sight and Sound_, Autumn 1964**
+<br><br>
 
+**THRONE OF BLOOD (KUMONOSU-JÔ)**<br>
+_Director:_ Akira Kurosawa<br>
+©: Toho Co. Ltd.<br>
+_Production Company:_ Toho Co. Ltd.<br>
+_Producers:_ Akira Kurosawa, Sojiro Motoki<br>
 
+_Production Supervisor:_ Hiroshi Nezu<br>
+
+_1st Assistant Directors:_ Hiromichi Horikawa, Mimachi Norase<br>
+
+_2nd Assistant Directors:_ Yasuyoshi Tajitsu,  
+Michio Yamamoto, Kan Sano<br>
+
+_Script Supervisor:_ Teruyo Nogami<br>
+
+_Screenplay:_ Hideo Oguni, Shinobu Hashimoto, Ryuzo Kikushima, Akira Kurosawa<br>
+
+_Based on the play_ Macbeth _by:_
+
+William Shakespeare<br>
+
+_Director of Photography:_ Asaichi Nakai<br>
+
+_Lighting:_ Kuichiro Kishida<br>
+
+_Camera Assistant:_ Takao Saito<br>
+
+_Stills Photography:_ Masao Fukuda<br>
+
+_Editor:_ Chozo Obata<br>
+
+_Art Supervision:_ Kohei Ezaki<br>
+
+_Art Director:_ Yoshiro Muraki<br>
+
+_Assistant Art Director:_ Yoshifumi Honda<br>
+
+_Properties:_ Koichi Hamamura<br>
+
+_Hair:_ Yoshiko Matsumoto, Junjiro Yamada<br>
+
+_Music:_ Masaru Sato<br>
+
+_Sound Recording:_ Fumio Yanoguchi<br>
+
+_Sound Effects:_ Ichiro Minawa<br>
+
+_Cast:_<br>
+
+Toshiro Mifune _(Taketoki Washizu)_<br>
+
+Isuzu Yamada _(Asaji, his wife)_<br>
+
+Takashi Shimura _(Noriyasu Odagura)_<br>
+
+Minoru Chiaki _(Yoshiaki Miki)_<br>
+
+Akira Kubo _(Yoshiteru Miki, his son)_<br>
+
+Takamaru Sasaki _(Kuniharu Tsuzuki)_<br>
+
+Yôichi Tachikawa _(Kunimaru Tsuzuki, his son)_<br>
+
+Chieko Naniwa _(sorceress)_<br>
+
+Isao Kimura _(phantom soldier)_<br>
+
+Eiko Miyoshi _(old servant)_<br>
+
+Kokuten Kodo _(commanding officer)_<br>
+
+Seiji Miyaguchi, Nobuo Nakamura _(ghosts)_<br>
+
+Yoshio Inaba<br>
+
+Gen Shimizu<br>
+
+Yoshio Tsuchiya<br>
+
+Kichijiro Ueda<br>
+
+Nakajiro Tomita<br>
+
+Seijiro Onda<br>
+
+Japan 1957<br>
+
+110 mins
+
+The screenings on Thu 21 Oct and Fri 12 Nov include a screening of **Inside Cinema: Akira Kurosawa**  (2021, 6 mins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDM2NjE0NV19
+eyJoaXN0b3J5IjpbMTQ1NjYzNDA5Nl19
 -->
