@@ -8,7 +8,7 @@ categories: ['EDGAR WRIGHT’S LONDON AFTER DARK']
 tags: [Crime, Drama]
 metadata: 'UK, 1958, 90 mins<br> Director: Alvin Rakoff'
 pdf: '2021-10-18-passport-to-shame.pdf'
----
+-->
 
 One of those rare B-movies that manages to live up to or even exceed the lurid promise of its title and poster. It finds an (American) London cabbie on a dangerous mission to rescue an innocent French girl tricked into prostitution, and also packs in Herbert Lom as a murderous pimp, Man Ray-style dream sequences and the first onscreen appearance of Michael Caine and Anne Reid (in a registry scene). Highly entertaining Soho hokum.<br>
 **Edgar Wright**
@@ -134,3 +134,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjEzOTUwODY1MV19
+-->
