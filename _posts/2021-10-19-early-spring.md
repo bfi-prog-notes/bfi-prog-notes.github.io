@@ -41,8 +41,7 @@ _Music_: Takanobu Saito
 _Sound Recording_: Yoshisaburo Senoo  
 _Studio_: Shochiku Ofuna
 
-_Cast:_
-
+**Cast**  
 Chikage Awashima _(Masako Sugiyama)_  
 Ryo Ikebe _(Shoji)_  
 Teiji Takahashi _(Taizo Aoki)_  
@@ -93,9 +92,9 @@ Chieko Ota
 Junji Nakayama  
 Koichi Yamada
 
-Japan 1956©
-
+Japan 1956©  
 145 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjU3MzU5MTRdfQ==
+eyJoaXN0b3J5IjpbNTkwOTA0OTY2XX0=
 -->
