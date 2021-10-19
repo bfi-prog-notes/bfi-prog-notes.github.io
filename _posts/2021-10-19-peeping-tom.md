@@ -25,7 +25,7 @@ Tinkering with Freudian theories (as Powell and Leo Marks began their collaborat
 Philip Strick, _Sight & Sound_, November 1994**
 <br><br>
 
-PEEPING TOM
+**PEEPING TOM**
 _Directed by:_ Michael Powell
 _©/Production Company_: 
 Michael Powell (Theatre) Ltd
@@ -89,26 +89,26 @@ Pamela Green _(Milly)_
 
 _uncredited_
 Bartlett Mullins _(Mr Peters)_
-Nigel Davenport (Sgt Miller) 
-Brian Wallace (Tony) 
-Susan Travers (Lorraine) 
-Maurice Durant (publicity chief) 
-Brian Worth (assistant director) 
-Veronica Hurst (Miss Simpson) 
-Alan Rolfe (store detective) 
-John Dunbar (police doctor) 
-Guy Kingsley-Poynter (P. Tate, cameraman) 
-Keith Baxter (Baxter, detective) 
-Peggy Thorpe-Bates (Mrs Partridge) 
-John Barrard (small man) 
-Roland Curram (young man extra) 
-Robert Crewdson (tall shop assistant) 
-John Chappell (clapper boy) 
-Paddy Edwardes (girl extra) 
-Frank Singuineau (first electrician) 
-Margaret Neal (stepmother) 
-Michael Powell (A.N. Lewis, Mark’s father) 
-Columba Powell (Mark as a child) 
+Nigel Davenport _(Sgt Miller)_
+Brian Wallace _(Tony)_ 
+Susan Travers _(Lorraine)_ 
+Maurice Durant _(publicity chief)_ 
+Brian Worth _(assistant director)_ 
+Veronica Hurst _(Miss Simpson)_ 
+Alan Rolfe _(store detective)_ 
+John Dunbar _(police doctor)_ 
+Guy Kingsley-Poynter _(P. Tate, cameraman)_
+Keith Baxter _(Baxter, detective)_ 
+Peggy Thorpe-Bates _(Mrs Partridge)_ 
+John Barrard _(small man)_
+Roland Curram _(young man extra)_ 
+Robert Crewdson _(tall shop assistant)_ 
+John Chappell _(clapper boy)_ 
+Paddy Edwardes _(girl extra)_ 
+Frank Singuineau _(first electrician)_ 
+Margaret Neal _(stepmother)_ 
+Michael Powell _(A.N. Lewis, Mark’s father)_ 
+Columba Powell _(Mark as a child)_ 
 
 UK 1960©
 102 mins
@@ -117,6 +117,6 @@ UK 1960©
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExNzYzNzc0LC01ODc4ODE4MjcsLTEyMz
-A1ODIwMjJdfQ==
+eyJoaXN0b3J5IjpbLTQ1NTg4ODQzNCwtNTg3ODgxODI3LC0xMj
+MwNTgyMDIyXX0=
 -->
