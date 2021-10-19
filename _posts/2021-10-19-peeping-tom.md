@@ -87,36 +87,37 @@ Jack Watson _(Inspector Gregg)_<br>
 Shirley Ann Field _(Diane Ashley)_<br>
 Pamela Green _(Milly)_<br>
 
-_uncredited_
-Bartlett Mullins _(Mr Peters)_
-Nigel Davenport _(Sgt Miller)_
-Brian Wallace _(Tony)_ 
-Susan Travers _(Lorraine)_ 
-Maurice Durant _(publicity chief)_ 
-Brian Worth _(assistant director)_ 
-Veronica Hurst _(Miss Simpson)_ 
-Alan Rolfe _(store detective)_ 
-John Dunbar _(police doctor)_ 
-Guy Kingsley-Poynter _(P. Tate, cameraman)_
-Keith Baxter _(Baxter, detective)_ 
-Peggy Thorpe-Bates _(Mrs Partridge)_ 
-John Barrard _(small man)_
-Roland Curram _(young man extra)_ 
-Robert Crewdson _(tall shop assistant)_ 
-John Chappell _(clapper boy)_ 
-Paddy Edwardes _(girl extra)_ 
-Frank Singuineau _(first electrician)_ 
-Margaret Neal _(stepmother)_ 
-Michael Powell _(A.N. Lewis, Mark’s father)_ 
-Columba Powell _(Mark as a child)_ 
+_uncredited_<br>
+Bartlett Mullins _(Mr Peters)_<br>
+Nigel Davenport _(Sgt Miller)_<br>
+Brian Wallace _(Tony)_<br>
+Susan Travers _(Lorraine)_<br>
+Maurice Durant _(publicity chief)_<br> 
+Brian Worth _(assistant director)_<br>
+Veronica Hurst _(Miss Simpson)_<br>
+Alan Rolfe _(store detective)_<br> 
+John Dunbar _(police doctor)_<br> 
+Guy Kingsley-Poynter _(P. Tate, cameraman)_<br>
+Keith Baxter _(Baxter, detective)_<br> 
+Peggy Thorpe-Bates _(Mrs Partridge)_<br> 
+John Barrard _(small man)_<br>
+Roland Curram _(young man extra)_<br> 
+Robert Crewdson _(tall shop assistant)_<br> 
+John Chappell _(clapper boy)_<br> 
+Paddy Edwardes _(girl extra)_<br> 
+Frank Singuineau _(first electrician)_<br> 
+Margaret Neal _(stepmother)_<br> 
+Michael Powell _(A.N. Lewis, Mark’s father)_<br> 
+Columba Powell _(Mark as a child)_<br> 
 
-UK 1960©
+UK 1960©<br>
 102 mins
+<br><br>
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg2MDA3MDgsLTU4Nzg4MTgyNywtMT
+eyJoaXN0b3J5IjpbLTEwMDg0MDg5MzgsLTU4Nzg4MTgyNywtMT
 IzMDU4MjAyMl19
 -->
