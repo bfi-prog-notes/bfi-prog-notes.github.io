@@ -50,34 +50,28 @@ _Dune_ is the next chapter in the career of a director who has been shaping his 
 
 **Denis Villeneuve**<br>
 
-**Born in Bécancour, Quebec, Canada, 1967**
+**Born in Bécancour, Quebec, Canada, 1967**<br>
 
-**As Director**
+**As Director**<br>
 
-**2021  Dune** (USA) also Producer and Writer
-**2017  Blade Runner 2049** (USA)
-**2016  Arrival** (USA/Canada)
-**2015  Sicario** (USA/Mexico/Hong Kong)
-**2013  Enemy** (Canada/Spain/France)
-**2013  Prisoners** (USA)
-**2011  Etude empirique sur l’influence du son sur la persistance rétinienne** (Short, Canada) also Cinematographer, Editor and Writer
-**2011  Rated R for Nudity** (Short, Canada) also Editor
-**2010  Incendies**(Canada) also Writer
-**2009  Polytechnique** (Canada) also Writer
-**2008  Next Floor** (Short, Canada)
-**2007  Un cri au Bonheur** (Documentary, Canada)
-
-**2006  120 Seconds to Get Elected** (Short, Canada) also Writer
-
-**2000  Maelström** (Canada) also Writer
-
-**1998  August 32nd on Earth** **(Un 32 août sur terre)** (Canada) also Writer
-
-**1996  Cosmos** (segment: **Le technétium**) (Canada) also Writer
-
-**1994  REW FFWD** (Short, Canada) also Writer
-
-**1994  Daniel Bélanger: Ensorcelée** (Video, Canada) also Editor
+**2021  Dune** (USA) also Producer and Writer<br>
+**2017  Blade Runner 2049** (USA)<br>
+**2016  Arrival** (USA/Canada)<br>
+**2015  Sicario** (USA/Mexico/Hong Kong)<br>
+**2013  Enemy** (Canada/Spain/France)<br>
+**2013  Prisoners** (USA)<br>
+**2011  Etude empirique sur l’influence du son sur la persistance rétinienne** (Short, Canada) also Cinematographer, Editor and Writer<br>
+**2011  Rated R for Nudity** (Short, Canada) also Editor<br>
+**2010  Incendies**(Canada/France) also Writer<br>
+**2009  Polytechnique** (Canada) also Writer<br>
+**2008  Next Floor** (Short, Canada)<br>
+**2007  Un cri au Bonheur** (Documentary, Canada)<br>
+**2006  120 Seconds to Get Elected** (Short, Canada) also Writer<br>
+**2000  Maelström** (Canada) also Writer<br>
+**1998  August 32nd on Earth** **(Un 32 août sur terre)** (Canada) also Writer<br>
+**1996  Cosmos** (segment: **Le technétium**) (Canada) also Writer<br>
+**1994  REW FFWD** (Short, Canada) also Writer<br>
+**1994  Daniel Bélanger: Ensorcelée** (Video, Canada) also Editor<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2NTcyMjAyXX0=
+eyJoaXN0b3J5IjpbODY4NjY0OTU2XX0=
 -->
