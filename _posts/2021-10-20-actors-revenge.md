@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: An Actor's Revenge
+published: true
+date: 2021-10-20
+readtime: true
+categories: ['JAPAN 2021<br> 100 YEARS OF JAPANESE CINEMA']
+tags: [Drama]
+metadata: 'Japan 1963, 113 mins<br> Director: Kon Ichikawa'
+pdf: '2021-10-20-actors-revenge.pdf'
+---
 
 Kon Ichikawa is often seen as a key modernist figure, bridging the gap from the classical golden age of the 1950s to the more formally experimental 60s. Alongside literary adaptations (notably 1955’s _Kokoro_ and 1958’s _Conflagration_) and contemporary satires, he made abrasive youth movies (_Punishment Room_, 1956), period gangster movies (_The Wanderers_, 1973) and commercial thrillers (_The Noh Mask Murders_, 1991). He was also appointed to such prestigious commissions as the official chronicle of the 1964 Tokyo Olympics, _Tokyo Olympiad_ (1965), and the multiscreen work _Japan and Japanese_ for the 1970 Osaka Expo.
 
@@ -6,8 +16,7 @@ Some of these were hugely successful at the box office, but the lack of distinct
 
 And yet, looking more closely, you’ll be sure to notice his painterly eye for a strong image (he’d started his career as an illustrator). There’s also the frequent dramatic focus on the psychology of the solitary individual who, by choice or by accident, is set apart from Japanese society.
 
-Ichikawa’s most visually distinctive film is 1963’s _An Actor’s Revenge_.  
-A remake of a 1930s Teinosuke Kinugasa serial of the same name, this was produced to celebrate the 300th film appearance by star Kazuo Hasegawa, who reprises his role as the ‘oyama’ female impersonator and toast of the kabuki theatre world who takes revenge against those responsible for his parents’ death.
+Ichikawa’s most visually distinctive film is 1963’s _An Actor’s Revenge_.  A remake of a 1930s Teinosuke Kinugasa serial of the same name, this was produced to celebrate the 300th film appearance by star Kazuo Hasegawa, who reprises his role as the ‘oyama’ female impersonator and toast of the kabuki theatre world who takes revenge against those responsible for his parents’ death.
 
 For his version, Ichikawa goes all out with a startling representational approach that both celebrates and parodies Japan’s artistic and theatrical conventions. He fills the ’Scope screen with bold colours, simple geometric abstractions and de-centred compositions, teasingly leaving vast areas plunged into pitch darkness and nudging our attention to the action that might be unfolding outside of the frame. Even so, it’s Hasegawa’s gleefully exaggerated, effete performance that steals the show.  
 **Jasper Sharp, bfi.org.uk**
@@ -83,6 +92,42 @@ Japan 1963
 
 The screening on Thu 11 Nov will be introduced by Jennifer Coates, The University of Sheffield
 <br><br>
+
+**Supported by**  
+<img style="float: left;" src="/img/Grand Seiko.png">
+<br><br><br><br><br><br><br><br><br>
+
+**In partnership wtih**  
+<img style="float: left;" src="/img/Japan Foundation.JPG" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+
+**With special thanks to**
+<img style="float: left;" src="/img/NFAJ.png">
+<br><br><br><br><br><br><br><br><br><br><br>
+
+
+**With the kind support of:**<br>
+Janus Films/The Criterion Collection, Kadokawa Corporation, Kawakita Memorial Film Institute, Kokusai Hoei Co. Ltd, Nikkatsu Corporation, Toei Co. Ltd<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTI1NDY4NDM3MV19
 -->
