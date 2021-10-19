@@ -45,61 +45,36 @@ USA 1912
 6 mins
 
 **PLAY FOR TODAY: NUTS IN MAY**<br>
-
 _Director:_ Mike Leigh<br>
-
 _Production Company:_ BBC Birmingham<br>
-
 _Producer:_ David Rose<br>
-
 _Production Unit Manager:_ Dawn Robertson<br>
+_Production Assistants:_ Cyril Gates,  Gerard Patterson<br>
+_Devised by:_ Mike Leigh<br>
+_Director of Photography:_ Michael Williams<br>
+_Editor:_ Oliver White<br>
+_Designer:_ David Crozier<br>
+_Costumes:_ Gini Hardy<br>
+_Make-up:_ Gwen Arthy<br>
+_Sound Recording:_ John Gilbert<br>
+_Dubbing Mixer:_ David Baumber<br>
 
-_Production Assistants:_ Cyril Gates,  
-Gerard Patterson<br>
+**Cast**<br>
+Roger Sloman _(Keith Pratt)_<br>
+Alison Steadman _(Candice-Marie Pratt)_<br>
+Anthony O’Donnell _(Ray)_<br>
+Sheila Kelley _(Honky)_<br>
+Stephen Bill _(Finger)_<br>
+Richenda Carey _(Miss Beale)_<br>
+Eric Allan _(quarryman)_<br>
+Matthew Guinness _(farmer)_<br>
+Sally Watts _(farm girl)_<br>
+Richard Ireson _(policeman)_<br>
 
-_Devised by:_ Mike Leigh
-
-_Director of Photography:_ Michael Williams
-
-_Editor:_ Oliver White
-
-_Designer:_ David Crozier
-
-_Costumes:_ Gini Hardy
-
-_Make-up:_ Gwen Arthy
-
-_Sound Recording:_ John Gilbert
-
-_Dubbing Mixer:_ David Baumber
-
-_Cast:_
-
-Roger Sloman _(Keith Pratt)_
-
-Alison Steadman _(Candice-Marie Pratt)_
-
-Anthony O’Donnell _(Ray)_
-
-Sheila Kelley _(Honky)_
-
-Stephen Bill _(Finger)_
-
-Richenda Carey _(Miss Beale)_
-
-Eric Allan _(quarryman)_
-
-Matthew Guinness _(farmer)_
-
-Sally Watts _(farm girl)_
-
-Richard Ireson _(policeman)_
-
-BBC1 tx 13.1.1976
-
-UK 1976
-
+BBC1 tx 13.1.1976<br>
+UK 1976<br>
 83 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjcxNzcyOTldfQ==
+eyJoaXN0b3J5IjpbMTg2MTk1NzkzMV19
 -->
