@@ -32,30 +32,30 @@ Michael Powell (Theatre) Ltd
 Nat Cohen _and_ Stuart Levy _present_
 _a_ Michael Powell _production_
 _Production Manager:_ Al Marcus
--Production Assistants: Judith Coxhead, 
+_Production Assistants:_ Judith Coxhead, 
 William J. Paton
-1st Assistant Director: Ted Sturgis
-Continuity: Rita Davison
-An Original Story and Screenplay by: Leo Marks
-Photographed in Eastmancolor by: Otto Heller
-Camera Operator: Gerry Turpin
-Chief Electrician: Victor E. Smith
-Editor: Noreen Ackland
-Art Director: Arthur Lawson
-Assistant Art Director: Ivor Beddoes
-Set Dresser: Don Picton
-Construction Manager: Ronald Udell
-Miss Anna Massey’s Dresses by: Polly Peck
-Miss Moira Shearer’s Dresses by: 
+_1st Assistant Director:_ Ted Sturgis
+_Continuity:_ Rita Davison
+_An Original Story and Screenplay by:_ Leo Marks
+_Photographed in Eastmancolor by:_ Otto Heller
+_Camera Operator:_ Gerry Turpin
+_Chief Electrician:_ Victor E. Smith
+_Editor:_ Noreen Ackland
+_Art Director:_ Arthur Lawson
+_Assistant Art Director:_ Ivor Beddoes
+_Set Dresser:_ Don Picton
+_Construction Manager:_ Ronald Udell
+_Miss Anna Massey’s Dresses by:_ Polly Peck
+_Miss Moira Shearer’s Dresses by:_ 
 John Tullis of Horrockses
-Wardrobe: Dickie Richardson
-Make-up: W.J. Partleton
-Hairdressing: Pearl Orton
-Hats by: Millinery Guild
-Music Composed and Directed by: Brian Easdale
-Percussion Number by: Wally Stott
-Dance Music by: Freddie Phillips
-Solo Piano: Gordon Watson
+_Wardrobe:_ Dickie Richardson
+_Make-up:_ W.J. Partleton
+_Hairdressing:_ Pearl Orton
+_Hats by:_ Millinery Guild
+_Music Composed and Directed by:_ Brian Easdale
+_Percussion Number by:_ Wally Stott
+_Dance Music by:_ Freddie Phillips
+_Solo Piano:_ Gordon Watson
 Sound Recordists: C.C. Stevens, Gordon McCallum
 Sound Editor: Malcolm Cooke
 	
@@ -117,6 +117,6 @@ UK 1960©
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ4MDI0MywtNTg3ODgxODI3LC0xMj
-MwNTgyMDIyXX0=
+eyJoaXN0b3J5IjpbOTU1OTA0NDIsLTU4Nzg4MTgyNywtMTIzMD
+U4MjAyMl19
 -->
