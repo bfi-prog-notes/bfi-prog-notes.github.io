@@ -16,45 +16,84 @@ What belongs undeniably and unmistakably to Truffaut is the film’s sense of mo
 **Richard Roud, _Sight & Sound_, Summer 1962**<br>
 
 
-**JULES ET JIM**
-_Director:_ François Truffaut
-_©/Production Company:_ Films du Carrosse
-_Production Company:_ SEDIF
-_Adaptation/Dialogue:_ François Truffaut, Jean Gruault
-_Based on the novel by:_ Henri-Pierre Roché
-_Publisher:_ Editions Gallimard
-_Director of Photography:_ Raoul Coutard
-_Editor:_ Claudine Bouché
-_Laboratory:_ GTC Joinville France
-_Music:_ Georges Delerue
-_Song ‘Le Tourbillon’ Lyrics/Music by:_ Bassiak
-_Sound Recording:_ Studio Marignan
-_Narrator:_ Michel Subor
-_uncredited_
-_Producer:_ Marcel Berbert
-_Production Manager:_ Maurice Urbain
-_Assistant Directors:_ Florence Malraux, Georges Pellegrin, Robert Bober
-_Script Supervisor:_ Suzanne Schiffman
-_Camera Operator:_ Claude Beausoleil
-_Gaffer:_ Fernand Coquet
-_Stills Photography:_ Raymond Cauchetier
-_Art Director:_ Fred Capel
-_Costume Designer:_ Fred Capel
-_Hair/Make-up:_ Simone Knapp
+**JULES ET JIM**<br>
+_Director:_ François Truffaut<br>
+_©/Production Company:_ Films du Carrosse<br>
+_Production Company:_ SEDIF<br>
+_Adaptation/Dialogue:_ François Truffaut, Jean Gruault<br>
+_Based on the novel by:_ Henri-Pierre Roché<br>
+_Publisher:_ Editions Gallimard<br>
+_Director of Photography:_ Raoul Coutard<br>
+_Editor:_ Claudine Bouché<br>
+_Laboratory:_ GTC Joinville France<br>
+_Music:_ Georges Delerue<br>
+_Song ‘Le Tourbillon’ Lyrics/Music by:_ Bassiak<br>
+_Sound Recording:_ Studio Marignan<br>
+_Narrator:_ Michel Subor<br>
+_uncredited_<br>
+_Producer:_ Marcel Berbert<br>
+_Production Manager:_ Maurice Urbain<br>
+_Assistant Directors:_ Florence Malraux, Georges Pellegrin, Robert Bober<br>
+_Script Supervisor:_ Suzanne Schiffman<br>
+_Camera Operator:_ Claude Beausoleil<br>
+_Gaffer:_ Fernand Coquet<br>
+_Stills Photography:_ Raymond Cauchetier<br>
+_Art Director:_ Fred Capel<br>
+_Costume Designer:_ Fred Capel<br>
+_Hair/Make-up:_ Simone Knapp<br>
 
 **Cast**<br>
-Jeanne Moreau _(Catherine)_
-Oskar Werner _(Jules)_
-Henri Serre _(Jim)_
-Vanna Urbino _(Gilberte)_
-Bassiak _(Albert)_
-Anny Nelsen _(Lucie)_
-Sabine Haudepin _(Sabine)_
-Marie Dubois _(Thérèse)_
+Jeanne Moreau _(Catherine)_<br>
+Oskar Werner _(Jules)_<br>
+Henri Serre _(Jim)_<br>
+Vanna Urbino _(Gilberte)_<br>
+Bassiak _(Albert)_<br>
+Anny Nelsen _(Lucie)_<br>
+Sabine Haudepin _(Sabine)_<br>
+Marie Dubois _(Thérèse)_<br>
 
-France 1962©
+France 1962©<br>
+106 mins<br>
 
-106 mins
+
+
+MIKE LEIGH’S CHOICES
+
+**Tokyo Story (Tôkyô monogatari)**
+
+Mon 18 Oct 20:20; Thu 21 Oct 14:30;  
+Sat 13 Nov 14:10; Tue 30 Nov 14:00
+
+**Jules et Jim**
+
+Tue 19 Oct 20:50; Wed 10 Nov 14:30
+
+**The Tree of Wooden Clogs  
+(L’albero degli zoccoli)**
+
+Wed 20 Oct 14:00; Fri 29 Oct 13:30;  
+Sun 7 Nov 13:50
+
+**I Am Cuba (Soy Cuba)**
+
+Wed 20 Oct 14:30; Sat 13 Nov 20:10
+
+**Radio Days**
+
+Sat 23 Oct 13:20; Tue 16 Nov 18:10
+
+**H3**
+
+Mon 25 Oct 18:00 (+ Q&A with director Les Blair); Wed 24 Nov 20:50
+
+**A Blonde in Love (AKA Loves of a Blonde)  
+(Lásky jedné plavovlásky)**
+
+Mon 25 Oct 20:40; Fri 19 Nov 21:00
+
+**The Story of Gilbert and Sullivan**
+
+Sun 14 Nov 14:40; Sun 28 Nov 14:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMjk1NTcwXX0=
+eyJoaXN0b3J5IjpbOTA1OTAxMjE5XX0=
 -->
