@@ -25,175 +25,98 @@ Tinkering with Freudian theories (as Powell and Leo Marks began their collaborat
 Philip Strick, _Sight & Sound_, November 1994**
 <br><br>
 
-
-
-
-<![endif]-->
-
-**PEEPING TOM**
-
-Directed by: Michael Powell
-
-©/Production Company:  
+PEEPING TOM
+_Directed by:_ Michael Powell
+_©/Production Company_: 
 Michael Powell (Theatre) Ltd
-
-Nat Cohen and Stuart Levy _present_
-
+Nat Cohen _and_ Stuart Levy _present_
 _a_ Michael Powell _production_
-
-Production Manager: Al Marcus
-
-Production Assistants: Judith Coxhead,
-
+_Production Manager:_ Al Marcus
+-Production Assistants: Judith Coxhead, 
 William J. Paton
-
 1st Assistant Director: Ted Sturgis
-
 Continuity: Rita Davison
-
 An Original Story and Screenplay by: Leo Marks
-
 Photographed in Eastmancolor by: Otto Heller
-
 Camera Operator: Gerry Turpin
-
 Chief Electrician: Victor E. Smith
-
 Editor: Noreen Ackland
-
 Art Director: Arthur Lawson
-
 Assistant Art Director: Ivor Beddoes
-
 Set Dresser: Don Picton
-
 Construction Manager: Ronald Udell
-
 Miss Anna Massey’s Dresses by: Polly Peck
-
-Miss Moira Shearer’s Dresses by:
-
+Miss Moira Shearer’s Dresses by: 
 John Tullis of Horrockses
-
 Wardrobe: Dickie Richardson
-
 Make-up: W.J. Partleton
-
 Hairdressing: Pearl Orton
-
 Hats by: Millinery Guild
-
 Music Composed and Directed by: Brian Easdale
-
 Percussion Number by: Wally Stott
-
 Dance Music by: Freddie Phillips
-
 Solo Piano: Gordon Watson
-
 Sound Recordists: C.C. Stevens, Gordon McCallum
-
 Sound Editor: Malcolm Cooke
-
-_uncredited_
-
-Producer: Michael Powell
-
-Associate Producer: Albert Fennell
-
-_2nd Assistant Director:_ Denis Johnson
-
-3rd Assistant Director: Carl Mannin
-
-Focus Puller: Derek Browne
-
-Clapper Loader: Jim Hopewell
-
-Stills: Norman Gryspeerdt
-
-1st Assistant Editor: Alma Godfrey
-
-2nd Assistant Editor: John Rushton
-
-Draughtsman: Maurice Pelling
-
-Wardrobe Assistant: Vi Garnham
-
-_Studio_: Pinewood Studios
+	
+uncredited
+Producer: Michael Powell 
+Associate Producer: Albert Fennell 
+2nd Assistant Director: Denis Johnson 
+3rd Assistant Director: Carl Mannin 
+Focus Puller: Derek Browne 
+Clapper Loader: Jim Hopewell 
+Stills: Norman Gryspeerdt 
+1st Assistant Editor: Alma Godfrey 
+2nd Assistant Editor: John Rushton 
+Draughtsman: Maurice Pelling 
+Wardrobe Assistant: Vi Garnham 
+Studio: Pinewood Studios
 
 Cast:
-
 Carl Boehm (Mark Lewis)
-
 Moira Shearer (Vivian)
-
 Anna Massey (Helen Stephens)
-
 Maxine Audley (Mrs Stephens)
-
 Brenda Bruce (Dora)
-
 Miles Malleson (elderly gentleman)
-
 Esmond Knight (Arthur Baden)
-
 Martin Miller (Dr Rosan)
-
 Michael Goodliffe (Don Jarvis)
-
 Jack Watson (Inspector Gregg)
-
 Shirley Ann Field (Diane Ashley)
-
 Pamela Green (Milly)
 
 uncredited
-
-Bartlett Mullins (Mr Peters)
-
-Nigel Davenport (Sgt Miller)
-
-Brian Wallace (Tony)
-
-Susan Travers (Lorraine)
-
-Maurice Durant (publicity chief)
-
-Brian Worth (assistant director)
-
-Veronica Hurst (Miss Simpson)
-
-Alan Rolfe (store detective)
-
-John Dunbar (police doctor)
-
-Guy Kingsley-Poynter (P. Tate, cameraman)
-
-Keith Baxter (Baxter, detective)
-
-Peggy Thorpe-Bates (Mrs Partridge)
-
-John Barrard (small man)
-
-Roland Curram (young man extra)
-
-Robert Crewdson (tall shop assistant)
-
-John Chappell (clapper boy)
-
-Paddy Edwardes (girl extra)
-
-Frank Singuineau (first electrician)
-
-Margaret Neal (stepmother)
-
-Michael Powell (A.N. Lewis, Mark’s father)
-
-Columba Powell (Mark as a child)
+Bartlett Mullins (Mr Peters) 
+Nigel Davenport (Sgt Miller) 
+Brian Wallace (Tony) 
+Susan Travers (Lorraine) 
+Maurice Durant (publicity chief) 
+Brian Worth (assistant director) 
+Veronica Hurst (Miss Simpson) 
+Alan Rolfe (store detective) 
+John Dunbar (police doctor) 
+Guy Kingsley-Poynter (P. Tate, cameraman) 
+Keith Baxter (Baxter, detective) 
+Peggy Thorpe-Bates (Mrs Partridge) 
+John Barrard (small man) 
+Roland Curram (young man extra) 
+Robert Crewdson (tall shop assistant) 
+John Chappell (clapper boy) 
+Paddy Edwardes (girl extra) 
+Frank Singuineau (first electrician) 
+Margaret Neal (stepmother) 
+Michael Powell (A.N. Lewis, Mark’s father) 
+Columba Powell (Mark as a child) 
 
 UK 1960©
-
 102 mins
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Nzg4MTgyNywtMTIzMDU4MjAyMl19
+eyJoaXN0b3J5IjpbLTExMzQ4MDI0MywtNTg3ODgxODI3LC0xMj
+MwNTgyMDIyXX0=
 -->
