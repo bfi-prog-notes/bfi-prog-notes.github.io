@@ -25,99 +25,39 @@ Tinkering with Freudian theories (as Powell and Leo Marks began their collaborat
 Philip Strick, _Sight & Sound_, November 1994**
 <br><br>
 
-**PEEPING TOM**<br>
-_Directed by:_ Michael Powell<br>
-_©/Production Company_: 
-Michael Powell (Theatre) Ltd<br>
-Nat Cohen _and_ Stuart Levy _present_<br>
-_a_ Michael Powell _production_<br>
-_Production Manager:_ Al Marcus<br>
-_Production Assistants:_ Judith Coxhead, 
-William J. Paton<br>
-_1st Assistant Director:_ Ted Sturgis<br>
-_Continuity:_ Rita Davison<br>
-_An Original Story and Screenplay by:_ Leo Marks<br>
-_Photographed in Eastmancolor by:_ Otto Heller<br>
-_Camera Operator:_ Gerry Turpin<br>
-_Chief Electrician:_ Victor E. Smith<br>
-_Editor:_ Noreen Ackland<br>
-_Art Director:_ Arthur Lawson<br>
-_Assistant Art Director:_ Ivor Beddoes<br>
-_Set Dresser:_ Don Picton<br>
-_Construction Manager:_ Ronald Udell<br>
-_Miss Anna Massey’s Dresses by:_ Polly Peck<br>
-_Miss Moira Shearer’s Dresses by:_ 
-John Tullis of Horrockses<br>
-_Wardrobe:_ Dickie Richardson<br>
-_Make-up:_ W.J. Partleton<br>
-_Hairdressing:_ Pearl Orton<br>
-_Hats by:_ Millinery Guild<br>
-_Music Composed and Directed by:_ Brian Easdale<br>
-_Percussion Number by:_ Wally Stott<br>
-_Dance Music by:_ Freddie Phillips<br>
-_Solo Piano:_ Gordon Watson<br>
-_Sound Recordists:_ C.C. Stevens, Gordon McCallum<br>
-_Sound Editor:_ Malcolm Cooke<br>
+**PEEPING TOM**<br>Directed by:_ Michael Powell<br>©/Production Company_: 
+Michael Powell (Theatre) Ltd<br>Nat Cohen _and_ Stuart Levy _present_<br>_a_ Michael Powell _production_
+_Production Manager:_ Al Marcus
+_Production Assistants:_ Judith Coxhead, William J. Paton<br>1st Assistant Director:_ Ted Sturgis<br>Continuity:_ Rita Davison
+_An Original Story and Screenplay by:_ Leo Marks
+_Photographed in Eastmancolor by:_ Otto Heller<br>Camera Operator:_ Gerry Turpin<br>Chief Electrician:_ Victor E. Smith<br>Editor:_ Noreen Ackland<br>Art Director:_ Arthur Lawson
+_Assistant Art Director:_ Ivor Beddoes<br>Set Dresser:_ Don Picton<br>Construction Manager:_ Ronald Udell
+_Miss Anna Massey’s Dresses by:_ Polly Peck
+_Miss Moira Shearer’s Dresses by:_ John Tullis of Horrockses<br>Wardrobe:_ Dickie Richardson<br>Make-up:_ W.J. Partleton
+_Hairdressing:_ Pearl Orton
+_Hats by:_ Millinery Guild
+_Music Composed and Directed by:_ Brian Easdale<br>Percussion Number by:_ Wally Stott<br>Dance Music by:_ Freddie Phillips<br>Solo Piano:_ Gordon Watson
+_Sound Recordists:_ C.C. Stevens, Gordon McCallum<br>Sound Editor:_ Malcolm Cooke<br>
 	
-_uncredited_<br>
-_Producer:_ Michael Powell<br>
-_Associate Producer:_ Albert Fennell<br>
-_2nd Assistant Director:_ Denis Johnson<br> 
-_3rd Assistant Director:_ Carl Mannin<br>
-_Focus Puller:_ Derek Browne<br> 
-_Clapper Loader:_ Jim Hopewell<br> 
-_Stills:_ Norman Gryspeerdt<br> 
-_1st Assistant Editor:_ Alma Godfrey<br> 
-_2nd Assistant Editor:_ John Rushton<br> 
-_Draughtsman:_ Maurice Pelling<br> 
-_Wardrobe Assistant:_ Vi Garnham<br> 
-_Studio:_ Pinewood Studios<br>
+_uncredited_<br>Producer:_ Michael Powell
+_Associate Producer:_ Albert Fennell<br>_2nd Assistant Director:_ Denis Johnson
+_3rd Assistant Director:_ Carl Mannin<br>Focus Puller:_ Derek Browne<br> Clapper Loader:_ Jim Hopewell<br> Stills:_ Norman Gryspeerdt
+_1st Assistant Editor:_ Alma Godfrey
+_2nd Assistant Editor:_ John Rushton
+_Draughtsman:_ Maurice Pelling
+_Wardrobe Assistant:_ Vi Garnham<br> _Studio_ Pinewood Studios<br>
 
-Cast:<br>
-Carl Boehm _(Mark Lewis)_<br>
-Moira Shearer _(Vivian)_<br>
-Anna Massey _(Helen Stephens)_<br>
-Maxine Audley _(Mrs Stephens)_<br>
-Brenda Bruce _(Dora)_<br>
-Miles Malleson _(elderly gentleman)_<br>
-Esmond Knight _(Arthur Baden)_<br>
-Martin Miller _(Dr Rosan)_<br>
-Michael Goodliffe _(Don Jarvis)_<br>
-Jack Watson _(Inspector Gregg)_<br>
-Shirley Ann Field _(Diane Ashley)_<br>
-Pamela Green _(Milly)_<br>
+Cast:<br>Carl Boehm _(Mark Lewis)_<br>Moira Shearer _(Vivian)_<br>Anna Massey _(Helen Stephens)_<br>Maxine Audley _(Mrs Stephens)_<br>Brenda Bruce _(Dora)_<br>Miles Malleson _(elderly gentleman)_<br>Esmond Knight _(Arthur Baden)_<br>Martin Miller _(Dr Rosan)_<br>Michael Goodliffe _(Don Jarvis)_<br>Jack Watson _(Inspector Gregg)_<br>Shirley Ann Field _(Diane Ashley)_<br>Pamela Green _(Milly)_<br>
 
-_uncredited_<br>
-Bartlett Mullins _(Mr Peters)_<br>
-Nigel Davenport _(Sgt Miller)_<br>
-Brian Wallace _(Tony)_<br>
-Susan Travers _(Lorraine)_<br>
-Maurice Durant _(publicity chief)_<br> 
-Brian Worth _(assistant director)_<br>
-Veronica Hurst _(Miss Simpson)_<br>
-Alan Rolfe _(store detective)_<br> 
-John Dunbar _(police doctor)_<br> 
-Guy Kingsley-Poynter _(P. Tate, cameraman)_<br>
-Keith Baxter _(Baxter, detective)_<br> 
-Peggy Thorpe-Bates _(Mrs Partridge)_<br> 
-John Barrard _(small man)_<br>
-Roland Curram _(young man extra)_<br> 
-Robert Crewdson _(tall shop assistant)_<br> 
-John Chappell _(clapper boy)_<br> 
-Paddy Edwardes _(girl extra)_<br> 
-Frank Singuineau _(first electrician)_<br> 
-Margaret Neal _(stepmother)_<br> 
-Michael Powell _(A.N. Lewis, Mark’s father)_<br> 
-Columba Powell _(Mark as a child)_<br> 
+_uncredited_<br>Bartlett Mullins _(Mr Peters)_<br>Nigel Davenport _(Sgt Miller)_<br>Brian Wallace _(Tony)_<br> Susan Travers _(Lorraine)_<br> Maurice Durant _(publicity chief)_<br> Brian Worth _(assistant director)_<br> Veronica Hurst _(Miss Simpson)_<br> Alan Rolfe _(store detective)_<br> John Dunbar _(police doctor)_<br> Guy Kingsley-Poynter _(P. Tate, cameraman)_<br>Keith Baxter _(Baxter, detective)_<br> Peggy Thorpe-Bates _(Mrs Partridge)_<br> John Barrard _(small man)_<br>Roland Curram _(young man extra)_<br> Robert Crewdson _(tall shop assistant)_<br> John Chappell _(clapper boy)_<br> Paddy Edwardes _(girl extra)_<br> Frank Singuineau _(first electrician)_<br> Margaret Neal _(stepmother)_<br> Michael Powell _(A.N. Lewis, Mark’s father)_<br> Columba Powell _(Mark as a child)_<br> 
 
-UK 1960©<br>
-102 mins
+UK 1960©<br>102 mins
 <br><br>
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg0MDg5MzgsLTU4Nzg4MTgyNywtMT
-IzMDU4MjAyMl19
+eyJoaXN0b3J5IjpbOTg2MTM1MjE4LC0xMDA4NDA4OTM4LC01OD
+c4ODE4MjcsLTEyMzA1ODIwMjJdfQ==
 -->
