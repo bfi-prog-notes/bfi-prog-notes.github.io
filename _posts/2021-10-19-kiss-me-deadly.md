@@ -21,7 +21,62 @@ When it comes to women Christina, his assistant Velda (Maxine Cooper), Lily, the
 Interestingly enough, Rodgers revealed in a 2002 interview that Aldrich told her to play Lily as a lesbian. As Soberin’s mistress, pimped out by him to Hammer as Hammer pimps out Velda to frame errant husbands, Lily has no qualms about killing him in order to acquire the ‘whatsit’. Though it moves from phallocentrism to gynaecentrism, _Kiss Me Deadly_ doesn’t encourage a positive feminist analysis. At the morgue where Christina’s body is held Hammer and Lily learn that the key to the locker where the atomic box is hidden has been retrieved from the corpse. Caryl Flinn has noted: ‘By placing the literal “key” of the narrative inside of Christina Bailey’s body, women’s sexuality (her own ‘hot box’) is constructed as the film’s final object of inquiry and ultimate source of terror... _Kiss Me Deadly_’s morbid conclusion successfully fuses the widespread fear of atomic destruction in the 1950s with the equally widespread fear of women, effectively mapping the former onto the latter.’
 
 For 40 years _Kiss Me Deadly_ was mostly seen with a false ending: Soberin’s beach house explodes with Hammer and Velda inside. But detective work by Silver and film editor Glenn Erickson led to the discovery of the ending Aldrich had filmed from Bezzerides’ script. In 1997 they were granted permission to view Aldrich’s personal print, which had been donated to the Directors Guild of America after he died in 1983. This version, which shows the distraught Hammer rescuing Velda and staggering into the Malibu surf as they watch the beach house go up, was issued on home video in 1997. It softens Hammer’s character by hinting that he does care about Velda, while showing him the consequences of the havoc he has wrought through his reactionary agenda. Erickson asserts: ‘By dwelling on Hammer’s powerlessness against the fiery evil he has released, the film’s original final statement now firmly reinforces Bezzerides’ condemnation of the whole Spillane ethos and what it says about American arrogance and greed.’ That message won’t be lost on anyone who sees _Kiss Me Deadly_ today, nor will the existential wisdom that Velda imparts to her unthinking lover/boss: ‘They. A wonderful word. And who are they? They are the nameless ones who kill people for the great whatsit. Does it exist? Who cares? Everyone everywhere is so involved in the fruitless search for what?’<br>
-**Graham Fuller, _Sight & Sound_, July 2006**
+**Graham Fuller, _Sight & Sound_, July 2006**<br>
+
+**KISSME DEADLY**<br>
+_Director_: Robert Aldrich  
+_Production Company_: Parklane Pictures  
+_A Presentation by_: Victor Saville  
+_Producer_: Robert Aldrich  
+_Production Supervisor_: Jack R. Berne  
+_Assistant to the Producer_: Robert Sherman  
+_Assistant Director_: Robert Justman  
+_Casting Supervisor_: Jack Murton  
+_Screenplay_: A.I. Bezzerides  
+_Based on the novel by_: Mickey Spillane  
+_Director of Photography_: Ernest Laszlo  
+_Photographic Effects/Titles_: Complete Film Service  
+_Editor_: Michael Luciano  
+_Art Director_: William Glasgow  
+_Set Decorator_: Howard Bristol  
+_Make-up_: Bob Schiffer  
+_Music/Music Conductor_: Frank Devol  
+_Orchestral Arranger_: Albert Harris  
+_Sound_: Jack Solomon<br>
+
+**Cast**<br>
+Ralph Meeker _(Mike Hammer)_  
+Albert Dekker _(Dr G.E. Soberin)_
+Cloris Leachman _(Christina Bailey)_
+Wesley Addy _(Pat Murphy)_  
+Paul Stewart _(Carl Evello)_
+Maxine Cooper _(Velda)_  
+Juano Hernandez _(Eddie Yeager)_  
+Marion Carr _(Friday)_  
+Fortunio Bonanova _(Trivaco, opera fan)_  
+Madi Comfort _(night club singer)_  
+Nick Dennis _(Nick, the garage owner)_  
+Jack Elam _(Charlie Max)_  
+Jesslyn Fax _(Mrs Super)_  
+Percy Helton _(Doc Kennedy, morgue attendant)_  
+Jack Lambert _(Sugar Smallhouse)_  
+Mort Marshall _(Ray Diker)_  
+Strother Martin _(truck driver)_  
+James McCallion _(Horace, apartment super)_  
+Silvio Minciotti _(old man with load)_  
+Paul Richards _(hood with knife)_  
+James Seay, Robert Cornthwaite _(Crime Commission men)_  
+Leigh Snowden _(girl at pool)_  
+Jerry Zinneman _(Sammy, Nick’s assistant)_  
+Gaby Rodgers _(Gabrielle, ‘Lily Carver’)_
+Joe Hernandez, Sam Balter, Marjorie Bennett, Ben Morris _(radio announcers)_  
+Mara McAfee _(nurse)_ *  
+Charles Lane _(doctor)_ *
+
+USA 1955<br>
+106 mins<br>
+
+\* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTA1OTUxMV19
+eyJoaXN0b3J5IjpbMTI0NTg5NDk4MV19
 -->
