@@ -56,39 +56,39 @@ _Music Composed and Directed by:_ Brian Easdale
 _Percussion Number by:_ Wally Stott
 _Dance Music by:_ Freddie Phillips
 _Solo Piano:_ Gordon Watson
-Sound Recordists: C.C. Stevens, Gordon McCallum
-Sound Editor: Malcolm Cooke
+_Sound Recordists:_ C.C. Stevens, Gordon McCallum
+_Sound Editor:_ Malcolm Cooke
 	
-uncredited
-Producer: Michael Powell 
-Associate Producer: Albert Fennell 
-2nd Assistant Director: Denis Johnson 
-3rd Assistant Director: Carl Mannin 
-Focus Puller: Derek Browne 
-Clapper Loader: Jim Hopewell 
-Stills: Norman Gryspeerdt 
-1st Assistant Editor: Alma Godfrey 
-2nd Assistant Editor: John Rushton 
-Draughtsman: Maurice Pelling 
-Wardrobe Assistant: Vi Garnham 
-Studio: Pinewood Studios
+_uncredited_
+_Producer:_ Michael Powell 
+_Associate Producer:_ Albert Fennell 
+_2nd Assistant Director:_ Denis Johnson 
+_3rd Assistant Director:_ Carl Mannin 
+_Focus Puller:_ Derek Browne 
+_Clapper Loader:_ Jim Hopewell 
+_Stills:_ Norman Gryspeerdt 
+_1st Assistant Editor:_ Alma Godfrey 
+_2nd Assistant Editor:_ John Rushton 
+_Draughtsman:_ Maurice Pelling 
+_Wardrobe Assistant:_ Vi Garnham 
+_Studio:_ Pinewood Studios
 
 Cast:
-Carl Boehm (Mark Lewis)
-Moira Shearer (Vivian)
-Anna Massey (Helen Stephens)
-Maxine Audley (Mrs Stephens)
-Brenda Bruce (Dora)
-Miles Malleson (elderly gentleman)
-Esmond Knight (Arthur Baden)
-Martin Miller (Dr Rosan)
-Michael Goodliffe (Don Jarvis)
-Jack Watson (Inspector Gregg)
-Shirley Ann Field (Diane Ashley)
-Pamela Green (Milly)
+Carl Boehm _(Mark Lewis)_
+Moira Shearer _(Vivian)_
+Anna Massey _(Helen Stephens)_
+Maxine Audley _(Mrs Stephens)_
+Brenda Bruce _(Dora)_
+Miles Malleson _(elderly gentleman)_
+Esmond Knight _(Arthur Baden)_
+Martin Miller _(Dr Rosan)_
+Michael Goodliffe _(Don Jarvis)_
+Jack Watson _(Inspector Gregg)_
+Shirley Ann Field _(Diane Ashley)_
+Pamela Green _(Milly)_
 
-uncredited
-Bartlett Mullins (Mr Peters) 
+_uncredited_
+Bartlett Mullins _(Mr Peters)_
 Nigel Davenport (Sgt Miller) 
 Brian Wallace (Tony) 
 Susan Travers (Lorraine) 
@@ -117,6 +117,6 @@ UK 1960©
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1OTA0NDIsLTU4Nzg4MTgyNywtMTIzMD
-U4MjAyMl19
+eyJoaXN0b3J5IjpbODExNzYzNzc0LC01ODc4ODE4MjcsLTEyMz
+A1ODIwMjJdfQ==
 -->
