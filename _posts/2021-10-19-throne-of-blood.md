@@ -29,91 +29,51 @@ _Director:_ Akira Kurosawa<br>
 ©: Toho Co. Ltd.<br>
 _Production Company:_ Toho Co. Ltd.<br>
 _Producers:_ Akira Kurosawa, Sojiro Motoki<br>
-
 _Production Supervisor:_ Hiroshi Nezu<br>
-
 _1st Assistant Directors:_ Hiromichi Horikawa, Mimachi Norase<br>
-
-_2nd Assistant Directors:_ Yasuyoshi Tajitsu,  
-Michio Yamamoto, Kan Sano<br>
-
+_2nd Assistant Directors:_ Yasuyoshi Tajitsu,  Michio Yamamoto, Kan Sano<br>
 _Script Supervisor:_ Teruyo Nogami<br>
-
 _Screenplay:_ Hideo Oguni, Shinobu Hashimoto, Ryuzo Kikushima, Akira Kurosawa<br>
-
-_Based on the play_ Macbeth _by:_
-
-William Shakespeare<br>
-
+_Based on the play_ Macbeth _by:_ William Shakespeare<br>
 _Director of Photography:_ Asaichi Nakai<br>
-
 _Lighting:_ Kuichiro Kishida<br>
-
 _Camera Assistant:_ Takao Saito<br>
-
 _Stills Photography:_ Masao Fukuda<br>
-
 _Editor:_ Chozo Obata<br>
-
 _Art Supervision:_ Kohei Ezaki<br>
-
 _Art Director:_ Yoshiro Muraki<br>
-
 _Assistant Art Director:_ Yoshifumi Honda<br>
-
 _Properties:_ Koichi Hamamura<br>
-
 _Hair:_ Yoshiko Matsumoto, Junjiro Yamada<br>
-
 _Music:_ Masaru Sato<br>
-
 _Sound Recording:_ Fumio Yanoguchi<br>
-
 _Sound Effects:_ Ichiro Minawa<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Toshiro Mifune _(Taketoki Washizu)_<br>
-
 Isuzu Yamada _(Asaji, his wife)_<br>
-
 Takashi Shimura _(Noriyasu Odagura)_<br>
-
 Minoru Chiaki _(Yoshiaki Miki)_<br>
-
 Akira Kubo _(Yoshiteru Miki, his son)_<br>
-
 Takamaru Sasaki _(Kuniharu Tsuzuki)_<br>
-
 Yôichi Tachikawa _(Kunimaru Tsuzuki, his son)_<br>
-
 Chieko Naniwa _(sorceress)_<br>
-
 Isao Kimura _(phantom soldier)_<br>
-
 Eiko Miyoshi _(old servant)_<br>
-
 Kokuten Kodo _(commanding officer)_<br>
-
 Seiji Miyaguchi, Nobuo Nakamura _(ghosts)_<br>
-
 Yoshio Inaba<br>
-
 Gen Shimizu<br>
-
 Yoshio Tsuchiya<br>
-
 Kichijiro Ueda<br>
-
 Nakajiro Tomita<br>
-
 Seijiro Onda<br>
 
 Japan 1957<br>
-
 110 mins
 
 The screenings on Thu 21 Oct and Fri 12 Nov include a screening of **Inside Cinema: Akira Kurosawa**  (2021, 6 mins)
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjYzNDA5Nl19
+eyJoaXN0b3J5IjpbLTIwNTk3MjE3NTRdfQ==
 -->
