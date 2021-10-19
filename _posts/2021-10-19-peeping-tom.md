@@ -25,67 +25,67 @@ Tinkering with Freudian theories (as Powell and Leo Marks began their collaborat
 Philip Strick, _Sight & Sound_, November 1994**
 <br><br>
 
-**PEEPING TOM**
-_Directed by:_ Michael Powell
+**PEEPING TOM**<br>
+_Directed by:_ Michael Powell<br>
 _©/Production Company_: 
-Michael Powell (Theatre) Ltd
-Nat Cohen _and_ Stuart Levy _present_
-_a_ Michael Powell _production_
-_Production Manager:_ Al Marcus
+Michael Powell (Theatre) Ltd<br>
+Nat Cohen _and_ Stuart Levy _present_<br>
+_a_ Michael Powell _production_<br>
+_Production Manager:_ Al Marcus<br>
 _Production Assistants:_ Judith Coxhead, 
-William J. Paton
-_1st Assistant Director:_ Ted Sturgis
-_Continuity:_ Rita Davison
-_An Original Story and Screenplay by:_ Leo Marks
-_Photographed in Eastmancolor by:_ Otto Heller
-_Camera Operator:_ Gerry Turpin
-_Chief Electrician:_ Victor E. Smith
-_Editor:_ Noreen Ackland
-_Art Director:_ Arthur Lawson
-_Assistant Art Director:_ Ivor Beddoes
-_Set Dresser:_ Don Picton
-_Construction Manager:_ Ronald Udell
-_Miss Anna Massey’s Dresses by:_ Polly Peck
+William J. Paton<br>
+_1st Assistant Director:_ Ted Sturgis<br>
+_Continuity:_ Rita Davison<br>
+_An Original Story and Screenplay by:_ Leo Marks<br>
+_Photographed in Eastmancolor by:_ Otto Heller<br>
+_Camera Operator:_ Gerry Turpin<br>
+_Chief Electrician:_ Victor E. Smith<br>
+_Editor:_ Noreen Ackland<br>
+_Art Director:_ Arthur Lawson<br>
+_Assistant Art Director:_ Ivor Beddoes<br>
+_Set Dresser:_ Don Picton<br>
+_Construction Manager:_ Ronald Udell<br>
+_Miss Anna Massey’s Dresses by:_ Polly Peck<br>
 _Miss Moira Shearer’s Dresses by:_ 
-John Tullis of Horrockses
-_Wardrobe:_ Dickie Richardson
-_Make-up:_ W.J. Partleton
-_Hairdressing:_ Pearl Orton
-_Hats by:_ Millinery Guild
-_Music Composed and Directed by:_ Brian Easdale
-_Percussion Number by:_ Wally Stott
-_Dance Music by:_ Freddie Phillips
-_Solo Piano:_ Gordon Watson
-_Sound Recordists:_ C.C. Stevens, Gordon McCallum
-_Sound Editor:_ Malcolm Cooke
+John Tullis of Horrockses<br>
+_Wardrobe:_ Dickie Richardson<br>
+_Make-up:_ W.J. Partleton<br>
+_Hairdressing:_ Pearl Orton<br>
+_Hats by:_ Millinery Guild<br>
+_Music Composed and Directed by:_ Brian Easdale<br>
+_Percussion Number by:_ Wally Stott<br>
+_Dance Music by:_ Freddie Phillips<br>
+_Solo Piano:_ Gordon Watson<br>
+_Sound Recordists:_ C.C. Stevens, Gordon McCallum<br>
+_Sound Editor:_ Malcolm Cooke<br>
 	
-_uncredited_
-_Producer:_ Michael Powell 
-_Associate Producer:_ Albert Fennell 
-_2nd Assistant Director:_ Denis Johnson 
-_3rd Assistant Director:_ Carl Mannin 
-_Focus Puller:_ Derek Browne 
-_Clapper Loader:_ Jim Hopewell 
-_Stills:_ Norman Gryspeerdt 
-_1st Assistant Editor:_ Alma Godfrey 
-_2nd Assistant Editor:_ John Rushton 
-_Draughtsman:_ Maurice Pelling 
-_Wardrobe Assistant:_ Vi Garnham 
-_Studio:_ Pinewood Studios
+_uncredited_<br>
+_Producer:_ Michael Powell<br>
+_Associate Producer:_ Albert Fennell<br>
+_2nd Assistant Director:_ Denis Johnson<br> 
+_3rd Assistant Director:_ Carl Mannin<br>
+_Focus Puller:_ Derek Browne<br> 
+_Clapper Loader:_ Jim Hopewell<br> 
+_Stills:_ Norman Gryspeerdt<br> 
+_1st Assistant Editor:_ Alma Godfrey<br> 
+_2nd Assistant Editor:_ John Rushton<br> 
+_Draughtsman:_ Maurice Pelling<br> 
+_Wardrobe Assistant:_ Vi Garnham<br> 
+_Studio:_ Pinewood Studios<br>
 
-Cast:
-Carl Boehm _(Mark Lewis)_
-Moira Shearer _(Vivian)_
-Anna Massey _(Helen Stephens)_
-Maxine Audley _(Mrs Stephens)_
-Brenda Bruce _(Dora)_
-Miles Malleson _(elderly gentleman)_
-Esmond Knight _(Arthur Baden)_
-Martin Miller _(Dr Rosan)_
-Michael Goodliffe _(Don Jarvis)_
-Jack Watson _(Inspector Gregg)_
-Shirley Ann Field _(Diane Ashley)_
-Pamela Green _(Milly)_
+Cast:<br>
+Carl Boehm _(Mark Lewis)_<br>
+Moira Shearer _(Vivian)_<br>
+Anna Massey _(Helen Stephens)_<br>
+Maxine Audley _(Mrs Stephens)_<br>
+Brenda Bruce _(Dora)_<br>
+Miles Malleson _(elderly gentleman)_<br>
+Esmond Knight _(Arthur Baden)_<br>
+Martin Miller _(Dr Rosan)_<br>
+Michael Goodliffe _(Don Jarvis)_<br>
+Jack Watson _(Inspector Gregg)_<br>
+Shirley Ann Field _(Diane Ashley)_<br>
+Pamela Green _(Milly)_<br>
 
 _uncredited_
 Bartlett Mullins _(Mr Peters)_
@@ -117,6 +117,6 @@ UK 1960©
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTg4ODQzNCwtNTg3ODgxODI3LC0xMj
-MwNTgyMDIyXX0=
+eyJoaXN0b3J5IjpbLTE5NDg2MDA3MDgsLTU4Nzg4MTgyNywtMT
+IzMDU4MjAyMl19
 -->
