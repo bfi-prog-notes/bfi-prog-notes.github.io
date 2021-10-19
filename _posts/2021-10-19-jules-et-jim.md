@@ -1,3 +1,14 @@
+---
+layout: post
+title: Jules et Jim
+published: true
+date: 2021-10-19
+readtime: true
+categories: ['MIKE LEIGH’S CHOICES']
+tags: [Drama]
+metadata: 'France 1962, 106 mins<br> Director: François Truffaut'
+pdf: '2021-10-19-jules-et-jim.pdf'
+---
 
 **A contemporary review**
 
@@ -54,14 +65,14 @@ Marie Dubois _(Thérèse)_<br>
 
 France 1962©<br>
 106 mins<br>
-
+<br>
 
 **MIKE LEIGH’S CHOICES**<br>
 **Tokyo Story (Tôkyô monogatari)**<br>
 Mon 18 Oct 20:20; Thu 21 Oct 14:30;  Sat 13 Nov 14:10; Tue 30 Nov 14:00<br>
 **Jules et Jim**<br>
 Tue 19 Oct 20:50; Wed 10 Nov 14:30<br>
-**The Tree of Wooden Clogs  (L’albero degli zoccoli)**<br>
+**The Tree of Wooden Clogs (L’albero degli zoccoli)**<br>
 Wed 20 Oct 14:00; Fri 29 Oct 13:30;  Sun 7 Nov 13:50<br>
 **I Am Cuba (Soy Cuba)**<br>
 Wed 20 Oct 14:30; Sat 13 Nov 20:10<br>
@@ -69,11 +80,25 @@ Wed 20 Oct 14:30; Sat 13 Nov 20:10<br>
 Sat 23 Oct 13:20; Tue 16 Nov 18:10<br>
 **H3**<br>
 Mon 25 Oct 18:00 (+ Q&A with director Les Blair); Wed 24 Nov 20:50<br>
-**A Blonde in Love (AKA Loves of a Blonde)  
-(Lásky jedné plavovlásky)**<br>
+**A Blonde in Love (AKA Loves of a Blonde) (Lásky jedné plavovlásky)**<br>
 Mon 25 Oct 20:40; Fri 19 Nov 21:00<br>
 **The Story of Gilbert and Sullivan**<br>
 Sun 14 Nov 14:40; Sun 28 Nov 14:50<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk4MzIzOTldfQ==
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
