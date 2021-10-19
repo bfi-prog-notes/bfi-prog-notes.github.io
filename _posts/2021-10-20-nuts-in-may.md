@@ -50,7 +50,7 @@ He’s admitting more here than he perhaps realises.
 
 
 **HOW A MOSQUITO OPERATES**  
-_Director:_ Winsor McCay
+_Director:_ Winsor McCay  
 USA 1912  
 6 mins
 
@@ -86,7 +86,7 @@ UK 1976<br>
 83 mins
 <br><br>
 
-**MIKE LEIGH A COMPLETE FILM SEASON**<br>
+**MIKE LEIGH<br>A COMPLETE FILM SEASON**<br>
 **Bleak Moments**<br>
 Mon 18 Oct 20:40; Thu 28 Oct 18:00<br>
 **Nuts in May**<br>
@@ -124,8 +124,8 @@ Fri 5 Nov 20:50; Fri 12 Nov 18:15; Tue 23 Nov 18:00 (+ Q&A with Mike Leigh)<br>
 Fri 12 Nov 20:40; Fri 26 Nov 17:40 (+ Q&A with Mike Leigh, Imelda Staunton and Phil Davis)<br>
 **Topsy-Turvy**<br>
 Sun 14 Nov 17:30 (+ Q&A with Mike Leigh and  
-Jim Broadbent); Sun 28 Nov 17:40
-**Another Year**
+Jim Broadbent); Sun 28 Nov 17:40<br>
+**Another Year**<br>
 Fri 19 Nov 17:30 (+ Q&A with Mike Leigh, Ruth Sheen and Lesley Manville); Mon 29 Nov 20:30<br>
 **Four Days in July**<br>
 Sat 20 Nov 11:50 (+ Q&A with Mike Leigh and  
