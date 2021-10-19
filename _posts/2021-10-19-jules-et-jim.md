@@ -72,7 +72,7 @@ France 1962©<br>
 Mon 18 Oct 20:20; Thu 21 Oct 14:30;  Sat 13 Nov 14:10; Tue 30 Nov 14:00<br>
 **Jules et Jim**<br>
 Tue 19 Oct 20:50; Wed 10 Nov 14:30<br>
-**The Tree of Wooden Clogs (L’albero degli zoccoli)**<br>
+**The Tree of Wooden Clogs  (L’albero degli zoccoli)**<br>
 Wed 20 Oct 14:00; Fri 29 Oct 13:30;  Sun 7 Nov 13:50<br>
 **I Am Cuba (Soy Cuba)**<br>
 Wed 20 Oct 14:30; Sat 13 Nov 20:10<br>
@@ -80,7 +80,8 @@ Wed 20 Oct 14:30; Sat 13 Nov 20:10<br>
 Sat 23 Oct 13:20; Tue 16 Nov 18:10<br>
 **H3**<br>
 Mon 25 Oct 18:00 (+ Q&A with director Les Blair); Wed 24 Nov 20:50<br>
-**A Blonde in Love (AKA Loves of a Blonde) (Lásky jedné plavovlásky)**<br>
+**A Blonde in Love (AKA Loves of a Blonde)  
+(Lásky jedné plavovlásky)**<br>
 Mon 25 Oct 20:40; Fri 19 Nov 21:00<br>
 **The Story of Gilbert and Sullivan**<br>
 Sun 14 Nov 14:40; Sun 28 Nov 14:50<br>
@@ -102,3 +103,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjE0NjM2MDJdfQ==
+-->
