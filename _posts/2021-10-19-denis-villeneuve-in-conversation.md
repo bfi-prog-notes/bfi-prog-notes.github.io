@@ -1,6 +1,4 @@
 
-<![endif]-->
-
 As Canadian filmmaker Denis Villeneuve welcomes audiences to his version of the planet Arrakis – the setting for his adaptation of Frank Herbert’s 1965 novel _Dune_ (previously adapted for the screen by David Lynch in 1984) – he cements his reputation both as a director with a far-reaching vision of what cinema can be, and one with a true mastery of the craft.
 
 Villeneuve has an intuitive understanding of how best to wield the tools of his trade – editing, cinematography, lighting, sound design – and, crucially, he surrounds himself with innovative craftspeople. His films fully immerse his audience in the story he’s telling. And that’s not just true of his more recent, bombastic science fiction, like _Dune_ or, before it, _Blade Runner 2049_ (2017) and _Arrival_ (2016). It’s been evident right from his low-budget beginnings.
@@ -44,11 +42,10 @@ Think of those concrete greys of Los Angeles, a city shaped by climate change an
 That quest is painted in shades of yellow – a deliberate nod to _The Wizard of Oz_’s yellow brick road – which is deployed any time K receives enlightening information: the headquarters of replicant manufacturer the Wallace Corporation is lit in artificial sunlight; rippling lights cast a sickly yellow glow across the reuniting of Deckard and Rachael (Sean Young); K’s discovery of a yellow flower on a barren patch of land leads him to make an unimaginable discovery. And white – the purest colour of all but the one most easily sullied – comes into play whenever K gets close to the truth of who he is, most notably during the climactic sequence which takes place in the snow.
 
 _Dune_ is the next chapter in the career of a director who has been shaping his creative vision for over two decades. The budgets may now be bigger, but Villeneuve’s confidence and talent have been in evidence since he first stepped behind a camera. It’s his inventive approach to the craft elements of filmmaking that have made the road to Arrakis such a rewarding journey.<br>
-**Nikki Baughan, bfi.org.uk, 22 September 2021**
+**Nikki Baughan, bfi.org.uk, 22 September 2021**<br>
 
 
-
-**Denis Villeneuve**<br>
+**DENIS VILLENEUVE**<br>
 
 **Born in Bécancour, Quebec, Canada, 1967**<br>
 
@@ -73,5 +70,5 @@ _Dune_ is the next chapter in the career of a director who has been shaping his 
 **1994  REW FFWD** (Short, Canada) also Writer<br>
 **1994  Daniel Bélanger: Ensorcelée** (Video, Canada) also Editor<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4NjY0OTU2XX0=
+eyJoaXN0b3J5IjpbMTU2NTY1MTMzMSw4Njg2NjQ5NTZdfQ==
 -->
