@@ -38,44 +38,43 @@ _Screenplay:_ Carl Franklin<br>
 _Based on the book by:_ Walter Mosley<br>
 _Director of Photography:_ Tak Fujimoto<br>
 _Chief Lighting Technician:_ Gary B. Tandrow<br>
-_Lenses and Panaflex Camera by:_ Panavision
-_Camera Operator:_ P. Scott Sakamoto
-_B Camera Operator:_ Malcolm M. Brown Jr
-_1st Assistant Camera:_ Baird Steptoe
-_2nd Assistant Camera:_ S. Beth Horton
-_Key Grip:_ Bob Rose
-_Steadicam Operator:_ P. Scott Sakamoto
-_Rigging Gaffer:_ Jerry Enright
-_Stills Photography:_ Bruce W. Talamon, D. Stevens
-_Visual and Digital Effects by:_ D-Rez
-_Special Effects Supervisor:_ Thomas R. Ward
-_Graphic Designer:_ Martin Charles
-_Editor:_ Carole Kravetz
-_Production Designer:_ Gary Frutkoff
-_Art Director:_ Dan Webster
-_Set Designers:_ Lauren Polizzi, Cheryl Smith
-_Set Decorator:_ Kathryn Peters
-_Costume Designer:_ Sharen Davis
-_Costume Supervisor:_ Mira Zavidowsky
-_Key Make-up Artist:_ Edna M. Sheen
-_Key Hairstylist:_ Ken Walker
-_Titles:_ Pablo Ferro
-_Music:_ Elmer Bernstein
-_Orchestrations:_ Emilie A. Bernstein
-_Choreography:_ Tony Selznick, Russell Clark
-_Sound Mixer:_ Ken Segal
-_Re-recording Mixers:_ Gary Bourgeois,  
-Dan Sherman
-_Supervising Sound Editor:_ Robert Grieve
-_Stunt Co-ordinator:_ Tony Brubaker
+_Lenses and Panaflex Camera by:_ Panavision<br>
+_Camera Operator:_ P. Scott Sakamoto<br>
+_B Camera Operator:_ Malcolm M. Brown Jr<br>
+_1st Assistant Camera:_ Baird Steptoe<br>
+_2nd Assistant Camera:_ S. Beth Horton<br>
+_Key Grip:_ Bob Rose<br>
+_Steadicam Operator:_ P. Scott Sakamoto<br>
+_Rigging Gaffer:_ Jerry Enright<br>
+_Stills Photography:_ Bruce W. Talamon, D. Stevens<br>
+_Visual and Digital Effects by:_ D-Rez<br>
+_Special Effects Supervisor:_ Thomas R. Ward<br>
+_Graphic Designer:_ Martin Charles<br>
+_Editor:_ Carole Kravetz<br>
+_Production Designer:_ Gary Frutkoff<br>
+_Art Director:_ Dan Webster<br>
+_Set Designers:_ Lauren Polizzi, Cheryl Smith<br>
+_Set Decorator:_ Kathryn Peters<br>
+_Costume Designer:_ Sharen Davis<br>
+_Costume Supervisor:_ Mira Zavidowsky<br>
+_Key Make-up Artist:_ Edna M. Sheen<br>
+_Key Hairstylist:_ Ken Walker<br>
+_Titles:_ Pablo Ferro<br>
+_Music:_ Elmer Bernstein<br>
+_Orchestrations:_ Emilie A. Bernstein<br>
+_Choreography:_ Tony Selznick, Russell Clark<br>
+_Sound Mixer:_ Ken Segal<br>
+_Re-recording Mixers:_ Gary Bourgeois,  Dan Sherman<br>
+_Supervising Sound Editor:_ Robert Grieve<br>
+_Stunt Co-ordinator:_ Tony Brubaker<br>
 
 **Cast**<br>
-Denzel Washington _(Ezekiel ‘Easy’ Rawlins)_
-Jennifer Beals _(Daphne Monet/Ruby Hanks)_
-Tom Sizemore _(Dewitt Albright)_
-Don Cheadle _(Mouse)_
-Maury Chaykin _(Matthew Terell)_
-Terry Kinney _(Todd Carter)_
+Denzel Washington _(Ezekiel ‘Easy’ Rawlins)_<br>
+Jennifer Beals _(Daphne Monet/Ruby Hanks)_<br>
+Tom Sizemore _(Dewitt Albright)_<br>
+Don Cheadle _(Mouse)_<br>
+Maury Chaykin _(Matthew Terell)_<br>
+Terry Kinney _(Todd Carter)_<br>
 Mel Winkler _(Joppy Shag)_
 Lisa Nicole Carson _(Coretta James)_
 Albert Hall _(Odell)_
@@ -116,5 +115,5 @@ USA 1995©<br>
 The screening on Wed 17 Nov will be introduced  
 by _Empire Magazine_ Contributing Editor  Amon Warmann<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDMwMTU3ODddfQ==
+eyJoaXN0b3J5IjpbLTEwMTAwMTE2MDNdfQ==
 -->
