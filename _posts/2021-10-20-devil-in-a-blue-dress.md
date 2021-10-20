@@ -19,25 +19,25 @@ Such characters and concerns are new to the American screen but for all of its c
 The second wears a sky blue dress; the third a crisp fedora and a neatly pressed suit and then there’s the devil who stares back when things go sour, and the one who comes up from Texas with two cocked guns and a swallowing grin – a Southern Gothic gone north to remind Easy where he’s come from. ‘They thought I was some kind of new fool,’ says Easy at one point of his voice over, ‘and I guess I was.’ For better and sometimes worse, Easy has left Joppy’s bar for good. He’s put the noir back into film _noir_ and crossed over into the world; there’s no turning back.<br>
 **Manohla Dargis, _Sight & Sound_, January 1996**<br>
 
-**DEVIL IN A BLUE DRESS**
-_Director:_ Carl Franklin
-_©:_ TriStar Pictures, Inc.
-_Production Companies:_ Clinica Estetico, Mundy Lane Entertainment
-_Executive Producers:_ Jonathan Demme, Edward Saxon, Denzel Washington
-_Producers:_ Gary Goetzman, Jesse Beaton
-_Associate Producers:_ Walter Mosley, Donna Gigliotti, Thomas Imperato
-_Production Accountant:_ Steven Shareshian
-_Production Co-ordinator:_ Christa Vausbinder
-_Unit Production Manager:_ Charles Skouras III
-_Location Manager:_ Wayne Middleton
-_1st Assistant Director:_ Katterli Frauenfelder
-_2nd Assistant Director:_ Mark Cotone
-_Script Supervisor:_ Annie Welles
-_Casting:_ Victoria Thomas
-_Screenplay:_ Carl Franklin
-_Based on the book by:_ Walter Mosley
-_Director of Photography:_ Tak Fujimoto
-_Chief Lighting Technician:_ Gary B. Tandrow
+**DEVIL IN A BLUE DRESS**<br>
+_Director:_ Carl Franklin<br>
+_©:_ TriStar Pictures, Inc.<br>
+_Production Companies:_ Clinica Estetico, Mundy Lane Entertainment<br>
+_Executive Producers:_ Jonathan Demme, Edward Saxon, Denzel Washington<br>
+_Producers:_ Gary Goetzman, Jesse Beaton<br>
+_Associate Producers:_ Walter Mosley, Donna Gigliotti, Thomas Imperato<br>
+_Production Accountant:_ Steven Shareshian<br>
+_Production Co-ordinator:_ Christa Vausbinder<br>
+_Unit Production Manager:_ Charles Skouras III<br>
+_Location Manager:_ Wayne Middleton<br>
+_1st Assistant Director:_ Katterli Frauenfelder<br>
+_2nd Assistant Director:_ Mark Cotone<br>
+_Script Supervisor:_ Annie Welles<br>
+_Casting:_ Victoria Thomas<br>
+_Screenplay:_ Carl Franklin<br>
+_Based on the book by:_ Walter Mosley<br>
+_Director of Photography:_ Tak Fujimoto<br>
+_Chief Lighting Technician:_ Gary B. Tandrow<br>
 _Lenses and Panaflex Camera by:_ Panavision
 _Camera Operator:_ P. Scott Sakamoto
 _B Camera Operator:_ Malcolm M. Brown Jr
@@ -71,90 +71,50 @@ _Stunt Co-ordinator:_ Tony Brubaker
 
 **Cast**<br>
 Denzel Washington _(Ezekiel ‘Easy’ Rawlins)_
-
 Jennifer Beals _(Daphne Monet/Ruby Hanks)_
-
 Tom Sizemore _(Dewitt Albright)_
-
 Don Cheadle _(Mouse)_
-
 Maury Chaykin _(Matthew Terell)_
-
 Terry Kinney _(Todd Carter)_
-
 Mel Winkler _(Joppy Shag)_
-
 Lisa Nicole Carson _(Coretta James)_
-
 Albert Hall _(Odell)_
-
 Jernard Burks _(Dupree Brouchard)_
-
 David Fonteno _(Junior Fornay)_
-
 John Roselius _(Detective Jackie Mason)_
-
 Beau Starr _(Detective Miller)_
-
 Steven Randazzo _(Benny Giacomo)_
-
 Scott Lincoln _(Richard McGee)_
-
 L. Scott Caldwell _(Hattie Parsons)_
-
 Barry ‘Shabaka’ Henley _(woodcutter)_
-
 Nicky Corello _(Shariff)_
-
 Kenny Endoso _(Manny)_
-
 Joseph Latimore _(Frank Green)_
-
 Renée Humphrey _(Barbara)_
-
 Robert J. Knoll _(Herman)_
-
 Kai Lennox _(Football)_
-
 Poppy Montgomery _(Barbara’s sister)_
-
 Brendan Kelly _(Norman, Terell’s chauffeur)_
-
 Peggy Rea _(Carter’s secretary)_
-
 Vinny Argiro _(Baxter, Carter’s valet)_
-
 Deborah Lacey _(Sophie)_
-
 Brazylia Kotere _(neighbourhood woman)_
-
 Jeris Lee Poindexter _(Alphonso Jenkins)_
-
 Frank Davis _(butcher)_
-
 Matt Barry _(cop in car)_
-
 Mark Cotone _(cop in station)_
-
 Brian E. O’Neal _(John’s band singer)_
-
 G. Smokey Campbell _(nightclub owner)_
-
 Alan Craig Schwartz _(Johnny)_
-
 Steve Sekely _(Abe)_
-
 J.D. Smith _(pool hall owner)_
+Nigel Gibbs _(bootlegger)_<br>
 
-Nigel Gibbs _(bootlegger)_
-
-USA 1995©
-
-101 mins
+USA 1995©<br>
+101 mins<br>
 
 The screening on Wed 17 Nov will be introduced  
-by _Empire Magazine_ Contributing Editor  
-Amon Warmann
+by _Empire Magazine_ Contributing Editor  Amon Warmann<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTM0NDIzM119
+eyJoaXN0b3J5IjpbLTE4MDMwMTU3ODddfQ==
 -->
