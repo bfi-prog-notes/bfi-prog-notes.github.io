@@ -22,7 +22,70 @@ Olmi’s cinema, from the very beginning, has been of the kind that avoids the d
 There are no ‘big’ moments. Olmi is far more interested, for example, in an old man and his little granddaughter growing their tomatoes, or in a widow coping with her sick cow, than he is in climactic battles and confrontations, In this sense he captures the moments ‘in between’, in a de-dramatised structure that is none the less the fruit of a most complex set of interweaving ‘little plots’.
 
 World box-office reaction is predictable. What with the years of conditioning that have produced the mass audience with its insatiable desire for well-made action plots, Olmi’s kind of cinema is hard put to survive. And yet, the end result for those willing to experience his films is of a far superior order.  This cinema is immersed in life. One feels he has been touched by reality.<br>
-**Marc Gervais, _Sight and Sound_, Autumn 1978**
+**Marc Gervais, _Sight and Sound_, Autumn 1978**<br>
+
+**THE TREE OF WOODEN CLOGS (L'ALBERO DEGLI ZOCCOLI)**  
+_Directed by_: Ermanno Olmi  
+_Production Companies_: RAI, Ital-Noleggio Cinematografico, G.P.C. Gruppo Produzione Cinema - Milano  
+_RAI Producer_: Giulio Mandelli  
+_Production Inspector_: Domenico Di Parigi  
+_Production Manager_: Attilio Torricelli  
+_Production Co-ordinator_: Alessandro Calosci  
+_Administrator/Book-keeper_: Archimede Orlando  
+_Production Secretary_: Enrico Leoni  
+_Script Supervisor_: Fiorella Lugli  
+_Written by_: Ermanno Olmi  
+_Photography_: Ermanno Olmi  
+_Operator_: Carlo Petriccioli  
+_Assistant Operator_: Ercole Visconti  
+_Key Grips_: Giovanni Spinelli, Antonio Calzavara  
+_Editor_: Ermanno Olmi  
+_Assistant Editor_: Emma Rigoni  
+_Art Director_: Enrico Tovaglieri  
+_Assistant Art Director_: Rossella Guarna  
+_Set Decorator_: Franco Gambarana  
+_Costumes_: Francesca Zucchelli  
+_Seamstress_: Valeria Mariani  
+_Costumes Provided by_: Costumi d’Arte  
+_Make-up_: Giuliana De Carli  
+_Music_: J.S. Bach  
+_Performed on Organ by_: Fernando Germani  
+_Sound Recording_: Amedeo Casati  
+_Sound Effects_: Italo Cameracanna, Aldo Ciorba<br>
+
+**Cast** 
+Luigi Ornaghi _(Batistì)_  
+Francesca Moriggi _(Batistina, his wife)_  
+Omar Brignoli _(Minek)_  
+Antonio Ferrari _(Tunì)_  
+Teresa Brescianini _(Widow Runk)_  
+Giuseppe Brignoli _(Grandpa Anselmo)_  
+Carlo Rota _(Peppino)_  
+Pasqualina Brolis _(Teresina)_  
+Massimo Fratus _(Pierino)_  
+Francesca Villa _(Annetta)_  
+Maria Grazia Caroli _(Bettina)_  
+Battista Trevaini _(Finard)_  
+Giuseppina Sangaletti _(Finarda, his wife)_  
+Lorenzo Pedroni _(Grandpa Finard)_  
+Felice Cervi _(Ustì)_  
+Pierangelo Bertoli _(Secondo)_  
+Brunella Migliaccio _(Olga)_  
+Giacomo Cavalleri _(Brena)_  
+Lorenza Frigeni _(Brena’s wife)_  
+Lucia Pezzoli _(Maddalena)_  
+Franco Pilenga _(Stefano)_  
+Guglielmo Padoni _(Stefano’s father)_  
+Laura Locatelli _(Stefano’s mother)_  
+Carmelo Silva _(Don Carlo)_  
+Mario Brignoli _(the master)_  
+Emilio Pedroni _(bailiff)_  
+Vittorio Capelli _(Frikì)_  
+Francesca Bassurini _(Sister Maria)_  
+Lina Ricci _(sign woman)_<br>
+
+Italy 1978<br>
+186 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjE3MzM1MTddfQ==
+eyJoaXN0b3J5IjpbMTE5NzM2MjY2N119
 -->
