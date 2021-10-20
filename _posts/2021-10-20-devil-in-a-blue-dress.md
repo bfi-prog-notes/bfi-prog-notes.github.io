@@ -19,113 +19,57 @@ Such characters and concerns are new to the American screen but for all of its c
 The second wears a sky blue dress; the third a crisp fedora and a neatly pressed suit and then there’s the devil who stares back when things go sour, and the one who comes up from Texas with two cocked guns and a swallowing grin – a Southern Gothic gone north to remind Easy where he’s come from. ‘They thought I was some kind of new fool,’ says Easy at one point of his voice over, ‘and I guess I was.’ For better and sometimes worse, Easy has left Joppy’s bar for good. He’s put the noir back into film _noir_ and crossed over into the world; there’s no turning back.<br>
 **Manohla Dargis, _Sight & Sound_, January 1996**<br>
 
-
-
-**Devil in a Blue Dress**
-
+**DEVIL IN A BLUE DRESS**
 _Director:_ Carl Franklin
-
 _©:_ TriStar Pictures, Inc.
-
-_Production Companies:_ Clinica Estetico,
-
-Mundy Lane Entertainment
-
-_Executive Producers:_ Jonathan Demme,
-
-Edward Saxon, Denzel Washington
-
+_Production Companies:_ Clinica Estetico, Mundy Lane Entertainment
+_Executive Producers:_ Jonathan Demme, Edward Saxon, Denzel Washington
 _Producers:_ Gary Goetzman, Jesse Beaton
-
-_Associate Producers:_ Walter Mosley,
-
-Donna Gigliotti, Thomas Imperato
-
+_Associate Producers:_ Walter Mosley, Donna Gigliotti, Thomas Imperato
 _Production Accountant:_ Steven Shareshian
-
 _Production Co-ordinator:_ Christa Vausbinder
-
 _Unit Production Manager:_ Charles Skouras III
-
 _Location Manager:_ Wayne Middleton
-
 _1st Assistant Director:_ Katterli Frauenfelder
-
 _2nd Assistant Director:_ Mark Cotone
-
 _Script Supervisor:_ Annie Welles
-
 _Casting:_ Victoria Thomas
-
 _Screenplay:_ Carl Franklin
-
 _Based on the book by:_ Walter Mosley
-
 _Director of Photography:_ Tak Fujimoto
-
 _Chief Lighting Technician:_ Gary B. Tandrow
-
 _Lenses and Panaflex Camera by:_ Panavision
-
 _Camera Operator:_ P. Scott Sakamoto
-
 _B Camera Operator:_ Malcolm M. Brown Jr
-
 _1st Assistant Camera:_ Baird Steptoe
-
 _2nd Assistant Camera:_ S. Beth Horton
-
 _Key Grip:_ Bob Rose
-
 _Steadicam Operator:_ P. Scott Sakamoto
-
 _Rigging Gaffer:_ Jerry Enright
-
 _Stills Photography:_ Bruce W. Talamon, D. Stevens
-
 _Visual and Digital Effects by:_ D-Rez
-
 _Special Effects Supervisor:_ Thomas R. Ward
-
 _Graphic Designer:_ Martin Charles
-
 _Editor:_ Carole Kravetz
-
 _Production Designer:_ Gary Frutkoff
-
 _Art Director:_ Dan Webster
-
 _Set Designers:_ Lauren Polizzi, Cheryl Smith
-
 _Set Decorator:_ Kathryn Peters
-
 _Costume Designer:_ Sharen Davis
-
 _Costume Supervisor:_ Mira Zavidowsky
-
 _Key Make-up Artist:_ Edna M. Sheen
-
 _Key Hairstylist:_ Ken Walker
-
 _Titles:_ Pablo Ferro
-
 _Music:_ Elmer Bernstein
-
 _Orchestrations:_ Emilie A. Bernstein
-
 _Choreography:_ Tony Selznick, Russell Clark
-
 _Sound Mixer:_ Ken Segal
-
 _Re-recording Mixers:_ Gary Bourgeois,  
 Dan Sherman
-
 _Supervising Sound Editor:_ Robert Grieve
-
 _Stunt Co-ordinator:_ Tony Brubaker
 
-_Cast:_
-
+**Cast**<br>
 Denzel Washington _(Ezekiel ‘Easy’ Rawlins)_
 
 Jennifer Beals _(Daphne Monet/Ruby Hanks)_
@@ -212,5 +156,5 @@ The screening on Wed 17 Nov will be introduced
 by _Empire Magazine_ Contributing Editor  
 Amon Warmann
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Mjc0NTQ0N119
+eyJoaXN0b3J5IjpbLTUxOTM0NDIzM119
 -->
