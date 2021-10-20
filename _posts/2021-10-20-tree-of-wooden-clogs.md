@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Tree of Wooden Clogs
+published: true
+date: 2021-10-20
+readtime: true
+categories: ['MIKE LEIGH’S CHOICES']
+tags: [Drama]
+metadata: 'Italy 1978, 186 mins<br> Director: Ermanno Olmi'
+pdf: '2021-10-20-tree-of-wooden-clogs.pdf'
+---
 
 Peasant life in rural Lombardy in 1898. The eternal struggle of living and surviving from day to day, from season to season. Spiritual, infuriating, tender, moving and profound. The ultimate location film, and no professional actors involved. Olmi writes, directs, photographs and edits his epic masterpiece. Remarkable. How does he do it?<br>
 **Mike Leigh**
@@ -5,8 +16,7 @@ Peasant life in rural Lombardy in 1898. The eternal struggle of living and survi
 **A contemporary review**<br>
 Since Ermanno Olmi is still not very widely known, almost every article written about him repeats the data considered basic: for example, his peasant roots, the fact that his father was an anti-Fascist railway worker (sacked by the Fascists) and that young Ermanno and his mother worked for years at the Edison Company in Milan.
 
-Olmi’s deeply lived Catholicism, in contrast to the more or less lapsed Catholicism (qua cultural heritage – still more or less operative) of certain other renowned Italian directors, is equally often cited. Such considerations need explaining and nuancing, to be sure; but they do help in understanding, for example, why when Olmi embarks on a historical movie he ends up making  
-_The Tree of Wooden Clogs_, whereas a Bertolucci, say, creates a _1900_.
+Olmi’s deeply lived Catholicism, in contrast to the more or less lapsed Catholicism (qua cultural heritage – still more or less operative) of certain other renowned Italian directors, is equally often cited. Such considerations need explaining and nuancing, to be sure; but they do help in understanding, for example, why when Olmi embarks on a historical movie he ends up making _The Tree of Wooden Clogs_, whereas a Bertolucci, say, creates a _1900_.
 
 Olmi’s method of making films testifies to a series of consistent and deliberate aesthetic choices. Even a cursory analysis of his films reveals how far they correspond to a classic understanding of neo-realism as practised in its early great period. The cheap production methods, location shooting and use of non-professional players are of course part of it. But there is a more fundamental and essential notion that points the link: Olmi’s remarkable respect for the time/space continuum.
 
@@ -86,7 +96,6 @@ Lina Ricci _(sign woman)_<br>
 
 Italy 1978<br>
 186 mins<br>
-
 <br>
 
 **MIKE LEIGH’S CHOICES**<br>
@@ -107,6 +116,22 @@ Mon 25 Oct 18:00 (+ Q&A with director Les Blair); Wed 24 Nov 20:50<br>
 Mon 25 Oct 20:40; Fri 19 Nov 21:00<br>
 **The Story of Gilbert and Sullivan**<br>
 Sun 14 Nov 14:40; Sun 28 Nov 14:50<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTI3MjQ4MF19
--->
+
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
