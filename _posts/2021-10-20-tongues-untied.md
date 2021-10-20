@@ -22,17 +22,13 @@ That all this takes place under the shadow of AIDS hardly needs to be mentioned.
 _Tongues Untied_ is rough around the edges and often inelegant in style, but it courageously points out the woeful gaps in American cinema’s dealings with the black experience.<br>
 **Farrah Anwar, _Sight & Sound_, July 1991**<br>
 
-<![endif]-->
-
-**Beyond ‘There’s always a black issue Dear’**
-
-_Director:_ Claire Lawrie
+**BEYOND ‘THERE’S ALWAYS A BLACK ISSUE DEAR’**<br>
+_Director:_ Claire Lawrie<br>
 
 UK 2018
-
 30 min
 
-**Tongues Untied**
+**TONGUES UNTIED**
 
 _Director_: Marlon T. Riggs  
 _Production Company_: MTR Productions  
@@ -42,9 +38,7 @@ _Associate Producer_: Brian Freeman
 _Production Assistant_: Donald Woods  
 _Screenplay_: Joseph Bream, Craig Harris, Reginald Jackson, Steve Langley, Alan Miller  
 _Director of Photography_: Marlon T. Riggs  
-_Additional Photography_: Rick Cooper,
-Nestor Davidson, Vivian Kleiman,
-Alex Langford, Calvin Roberts, Scott Sinkler  
+_Additional Photography_: Rick Cooper, Nestor Davidson, Vivian Kleiman, Alex Langford, Calvin Roberts, Scott Sinkler  
 _Graphics_: Robert Kinnard  
 _Editor_: Marlon T. Riggs  
 _On-line Editor_: Vince Casalaina  
@@ -93,5 +87,5 @@ USA 1989
 
 55 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTI5MDIzXX0=
+eyJoaXN0b3J5IjpbNDI1NjgzMzcyXX0=
 -->
