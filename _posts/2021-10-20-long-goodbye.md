@@ -18,16 +18,127 @@ The oddest reaction to Altman’s film, expressed in almost all contemporary rev
 
 Altman lacks Chandler’s puritanism, but his Los Angeles is closer to the author’s city than any other director. It’s a world of all-night thrift markets that don’t stock the brand of cat food Marlowe’s choosy pet insists on, freeways stretching between distant nowhere-in-particular locales, enclaves of the unhappy and violent rich, crooked drying-out clinics where alibis can be purchased for a cash down-payment, crowded and scuffed police stations full of irritable folk (including David Carradine, busted for possession and ranting, ‘Someday all the pigs gonna be in here and all the people gonna be out there’).
 
-John Williams (before he went over to the Dark Side) and Johnny Mercer provide a song that is literally heard throughout, in arrangements from muzak to Mexican funeral band, creating an unshakable earworm. An indulgence in the novel is Chandler’s self-portrait in the person of alcoholic novelist Roger Wade. Altman compounds this by casting Sterling Hayden – an actor who was also a drunk, a novelist and a seaman, and who was wracked with lasting guilt over his showing before the House Un-American Activities Committee – and allowing him to write or improvise his own scenes, hijacking a section of the film for an unflinching  
-self-portrait.
+John Williams (before he went over to the Dark Side) and Johnny Mercer provide a song that is literally heard throughout, in arrangements from muzak to Mexican funeral band, creating an unshakable earworm. An indulgence in the novel is Chandler’s self-portrait in the person of alcoholic novelist Roger Wade. Altman compounds this by casting Sterling Hayden – an actor who was also a drunk, a novelist and a seaman, and who was wracked with lasting guilt over his showing before the House Un-American Activities Committee – and allowing him to write or improvise his own scenes, hijacking a section of the film for an unflinching  self-portrait.
 
-Altman teases readers familiar with the book by pausing briefly in a party scene where Chandler has Marlowe meet the major characters Linda and Dr Loring.  
-The director holds the camera on two extras (one is Carl Gottlieb, screenwriter of _Jaws_) we might take to be the Lorings, only to move on before they get a word in, shedding another whole strand of Marlowe’s life (in _Poodle Springs_, Marlowe is married to Linda) while Wade/Hayden makes a scene. Gangster Marty Augustine (Mark Rydell) makes a point by smashing a bottle in his girlfriend’s face and telling Marlowe, ‘That’s someone I love. And you I don’t even like,’ while diminutive quack Dr Verringer (Henry Gibson) slaps six-foot-six hulk Wade across the face in public and cows the bullish giant into paying a debt... these instances of facial assault, practically the only violent moments in the film before the punchline, echo the photos we don’t see of what was done to the murder victim Sylvia Lennox and serve to ground the movie, making it hard to enjoy in the way we all love _The_ _Big_ _Sleep_. Hawks could poison Elisha Cook Jr, but he’d never have smashed a bottle into Dorothy Malone’s face, forcing her to be masked and braced in later scenes. Jo Ann Brody, bleeding profusely, drifts through, not understanding what has happened, like some refugee from _Carrie_.
+Altman teases readers familiar with the book by pausing briefly in a party scene where Chandler has Marlowe meet the major characters Linda and Dr Loring.  The director holds the camera on two extras (one is Carl Gottlieb, screenwriter of _Jaws_) we might take to be the Lorings, only to move on before they get a word in, shedding another whole strand of Marlowe’s life (in _Poodle Springs_, Marlowe is married to Linda) while Wade/Hayden makes a scene. Gangster Marty Augustine (Mark Rydell) makes a point by smashing a bottle in his girlfriend’s face and telling Marlowe, ‘That’s someone I love. And you I don’t even like,’ while diminutive quack Dr Verringer (Henry Gibson) slaps six-foot-six hulk Wade across the face in public and cows the bullish giant into paying a debt... these instances of facial assault, practically the only violent moments in the film before the punchline, echo the photos we don’t see of what was done to the murder victim Sylvia Lennox and serve to ground the movie, making it hard to enjoy in the way we all love _The_ _Big_ _Sleep_. Hawks could poison Elisha Cook Jr, but he’d never have smashed a bottle into Dorothy Malone’s face, forcing her to be masked and braced in later scenes. Jo Ann Brody, bleeding profusely, drifts through, not understanding what has happened, like some refugee from _Carrie_.
 
-And yet, 40 years changes things. _The Long Goodbye_ is a key film in Thom Andersen’s montage movie _Los Angeles Plays Itself_ and Gould’s lost world has accrued its own nostalgic appeal – the apartment Augustine sneers at seems a desirable space, even without the sweet hippie neighbours – which mingles with nostalgia for a Hollywood that would greenlight such an odd project. Glimpsed among Augustine’s gang of hoods is a young, unbilled Arnold Schwarzenegger – he strips off his shirt to show his pecs to balance the scenes in which Marlowe’s neighbours do nude yoga in long-shots. Along with Williams and Gottlieb, the body-builder would ride changes in the movie business that made films like  
-_The Long Goodbye_ much harder to find within a few years of its release.
+And yet, 40 years changes things. _The Long Goodbye_ is a key film in Thom Andersen’s montage movie _Los Angeles Plays Itself_ and Gould’s lost world has accrued its own nostalgic appeal – the apartment Augustine sneers at seems a desirable space, even without the sweet hippie neighbours – which mingles with nostalgia for a Hollywood that would greenlight such an odd project. Glimpsed among Augustine’s gang of hoods is a young, unbilled Arnold Schwarzenegger – he strips off his shirt to show his pecs to balance the scenes in which Marlowe’s neighbours do nude yoga in long-shots. Along with Williams and Gottlieb, the body-builder would ride changes in the movie business that made films like _The Long Goodbye_ much harder to find within a few years of its release.<br>
+**Kim Newman, _Sight & Sound_, February 2014**<br>
 
-Kim Newman, _Sight & Sound_, February 2014
+<![endif]-->
+
+**The Long Goodbye**
+
+_Directed by:_ Robert Altman
+
+_©:_ United Artists Corporation
+
+_Production Companies:_  
+United Artists Corporation, Lion’s Gate Films
+
+_Presented by/Executive Producer:_ Elliott Kastner
+
+_Produced by:_ Jerry Bick
+
+_Associate Producer:_ Robert Eggenweiler
+
+_Production Assistant:_ Jean D’Oncieu
+
+_Assistant Director:_ Tommy Thompson
+
+_2nd Assistant Director:_ Alan Rudolph
+
+_Script Supervisor:_ Adele Bravos
+
+_Screenplay by:_ Leigh Brackett
+
+_From the novel by:_ Raymond Chandler
+
+_Photographed by:_ Vilmos Zsigmond
+
+_Camera Operator:_ Joe Wilcots
+
+_Key Grip:_ Ken Adams
+
+_Electrical Gaffer:_ Randy Glass
+
+_Edited by:_ Lou Lombardo
+
+_Assistant Film Editors:_ Scott Conrad,  
+Tony Lombardo
+
+_Property Master:_ Sidney Greenwood
+
+_Make-up:_ Bill Miller
+
+_Music by:_ John Williams
+
+_Sound Engineer:_ John V. Speak
+
+_Dubbing Mixer:_ Richard J. Vorisek
+
+_With Special Remembrance for:_ Dan Blocker
+
+_uncredited_
+
+_Production Company:_ Elliott Kastner Corporation
+
+_Casting Director:_ Joan Tewkesbury
+
+_Men’s Wardrobe:_ Kent James
+
+_Women’s Wardrobe:_ Marjorie Wahl
+
+_Hairstylist:_ Lynda Gurasich
+
+_Cast:_
+
+Elliott Gould _(Philip Marlowe)_
+
+Nina Van Pallandt _(Eileen Wade)_
+
+Sterling Hayden _(Roger Wade)_
+
+Mark Rydell _(Marty Augustine)_
+
+Henry Gibson _(Dr Verringer)_
+
+David Arkin _(Harry)_
+
+Warren Berlinger _(Morgan)_
+
+Jo Ann Brody _(Jo Ann Eggenweiler)_
+
+Jim Bouton _(Terry Lennox)_
+
+Steve Coit _(Detective Farmer)_
+
+Jack Knight _(Mabel)_
+
+Pepe Callahan _(Pepe)_
+Vince Palmieri _(Vince)_
+Pancho Cordoba _(doctor)_
+Enrique Lucero _(Jefe)_
+Rutanya Alda _(Rutanya Sweet)_
+Tammy Shaw _(dancer)_
+Jack Riley _(Riley, piano player)_
+Ken Sansom _(Colony guard)_
+Jerry Jones _(Detective Green)_
+John Davies _(Detective Dayton)_
+Rodney Moss _(supermarket clerk)_
+Sybil Scotford _(Sybil Tooksbury, real estate lady)_  
+Hubie Kerns _(Herbie)_
+_uncredited_
+Leslie Simms _(Olive)_
+Leslie McRay _(Lucille)_
+David Carradine _(prison cellmate)_
+Arnold Schwarzenegger _(muscle man)_
+Kate Murtagh _(nurse)_
+Danny Goldman _(bartender)_
+Tracy Harris _(detective)_
+
+USA 1973©
+112 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU0MzIzNV19
+eyJoaXN0b3J5IjpbLTExMDczMTg0NDVdfQ==
 -->
