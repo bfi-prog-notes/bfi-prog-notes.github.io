@@ -75,38 +75,38 @@ Tom Sizemore _(Dewitt Albright)_<br>
 Don Cheadle _(Mouse)_<br>
 Maury Chaykin _(Matthew Terell)_<br>
 Terry Kinney _(Todd Carter)_<br>
-Mel Winkler _(Joppy Shag)_
-Lisa Nicole Carson _(Coretta James)_
-Albert Hall _(Odell)_
-Jernard Burks _(Dupree Brouchard)_
-David Fonteno _(Junior Fornay)_
-John Roselius _(Detective Jackie Mason)_
-Beau Starr _(Detective Miller)_
-Steven Randazzo _(Benny Giacomo)_
-Scott Lincoln _(Richard McGee)_
-L. Scott Caldwell _(Hattie Parsons)_
-Barry ‘Shabaka’ Henley _(woodcutter)_
-Nicky Corello _(Shariff)_
-Kenny Endoso _(Manny)_
-Joseph Latimore _(Frank Green)_
-Renée Humphrey _(Barbara)_
-Robert J. Knoll _(Herman)_
-Kai Lennox _(Football)_
-Poppy Montgomery _(Barbara’s sister)_
-Brendan Kelly _(Norman, Terell’s chauffeur)_
-Peggy Rea _(Carter’s secretary)_
-Vinny Argiro _(Baxter, Carter’s valet)_
-Deborah Lacey _(Sophie)_
-Brazylia Kotere _(neighbourhood woman)_
-Jeris Lee Poindexter _(Alphonso Jenkins)_
-Frank Davis _(butcher)_
-Matt Barry _(cop in car)_
-Mark Cotone _(cop in station)_
-Brian E. O’Neal _(John’s band singer)_
-G. Smokey Campbell _(nightclub owner)_
-Alan Craig Schwartz _(Johnny)_
-Steve Sekely _(Abe)_
-J.D. Smith _(pool hall owner)_
+Mel Winkler _(Joppy Shag)_<br>
+Lisa Nicole Carson _(Coretta James)_<br>
+Albert Hall _(Odell)_<br>
+Jernard Burks _(Dupree Brouchard)_<br>
+David Fonteno _(Junior Fornay)_<br>
+John Roselius _(Detective Jackie Mason)_<br>
+Beau Starr _(Detective Miller)_<br>
+Steven Randazzo _(Benny Giacomo)_<br>
+Scott Lincoln _(Richard McGee)_<br>
+L. Scott Caldwell _(Hattie Parsons)_<br>
+Barry ‘Shabaka’ Henley _(woodcutter)_<br>
+Nicky Corello _(Shariff)_<br>
+Kenny Endoso _(Manny)_<br>
+Joseph Latimore _(Frank Green)_<br>
+Renée Humphrey _(Barbara)_<br>
+Robert J. Knoll _(Herman)_<br>
+Kai Lennox _(Football)_<br>
+Poppy Montgomery _(Barbara’s sister)_<br>
+Brendan Kelly _(Norman, Terell’s chauffeur)_<br>
+Peggy Rea _(Carter’s secretary)_<br>
+Vinny Argiro _(Baxter, Carter’s valet)_<br>
+Deborah Lacey _(Sophie)_<br>
+Brazylia Kotere _(neighbourhood woman)_<br>
+Jeris Lee Poindexter _(Alphonso Jenkins)_<br>
+Frank Davis _(butcher)_<br>
+Matt Barry _(cop in car)_<br>
+Mark Cotone _(cop in station)_<br>
+Brian E. O’Neal _(John’s band singer)_<br>
+G. Smokey Campbell _(nightclub owner)_<br>
+Alan Craig Schwartz _(Johnny)_<br>
+Steve Sekely _(Abe)_<br>
+J.D. Smith _(pool hall owner)_<br>
 Nigel Gibbs _(bootlegger)_<br>
 
 USA 1995©<br>
@@ -115,5 +115,5 @@ USA 1995©<br>
 The screening on Wed 17 Nov will be introduced  
 by _Empire Magazine_ Contributing Editor  Amon Warmann<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTAwMTE2MDNdfQ==
+eyJoaXN0b3J5IjpbLTkyNzkwMTQ1MV19
 -->
