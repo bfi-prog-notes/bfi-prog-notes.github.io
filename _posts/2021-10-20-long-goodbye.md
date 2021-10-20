@@ -25,96 +25,50 @@ Altman teases readers familiar with the book by pausing briefly in a party scene
 And yet, 40 years changes things. _The Long Goodbye_ is a key film in Thom Andersen’s montage movie _Los Angeles Plays Itself_ and Gould’s lost world has accrued its own nostalgic appeal – the apartment Augustine sneers at seems a desirable space, even without the sweet hippie neighbours – which mingles with nostalgia for a Hollywood that would greenlight such an odd project. Glimpsed among Augustine’s gang of hoods is a young, unbilled Arnold Schwarzenegger – he strips off his shirt to show his pecs to balance the scenes in which Marlowe’s neighbours do nude yoga in long-shots. Along with Williams and Gottlieb, the body-builder would ride changes in the movie business that made films like _The Long Goodbye_ much harder to find within a few years of its release.<br>
 **Kim Newman, _Sight & Sound_, February 2014**<br>
 
-<![endif]-->
-
-**The Long Goodbye**
-
-_Directed by:_ Robert Altman
-
-_©:_ United Artists Corporation
-
-_Production Companies:_  
-United Artists Corporation, Lion’s Gate Films
-
+**THE LONG GOODBYE**<br>
+_Directed by:_ Robert Altman<br>
+_©:_ United Artists Corporation<br>
+_Production Companies:_ United Artists <br>Corporation, Lion’s Gate Films<br>
 _Presented by/Executive Producer:_ Elliott Kastner
-
 _Produced by:_ Jerry Bick
-
 _Associate Producer:_ Robert Eggenweiler
-
 _Production Assistant:_ Jean D’Oncieu
-
 _Assistant Director:_ Tommy Thompson
-
 _2nd Assistant Director:_ Alan Rudolph
-
 _Script Supervisor:_ Adele Bravos
-
 _Screenplay by:_ Leigh Brackett
-
 _From the novel by:_ Raymond Chandler
-
 _Photographed by:_ Vilmos Zsigmond
-
 _Camera Operator:_ Joe Wilcots
-
 _Key Grip:_ Ken Adams
-
 _Electrical Gaffer:_ Randy Glass
-
 _Edited by:_ Lou Lombardo
-
-_Assistant Film Editors:_ Scott Conrad,  
-Tony Lombardo
-
+_Assistant Film Editors:_ Scott Conrad,  Tony Lombardo
 _Property Master:_ Sidney Greenwood
-
 _Make-up:_ Bill Miller
-
 _Music by:_ John Williams
-
 _Sound Engineer:_ John V. Speak
-
 _Dubbing Mixer:_ Richard J. Vorisek
-
 _With Special Remembrance for:_ Dan Blocker
-
 _uncredited_
-
 _Production Company:_ Elliott Kastner Corporation
-
 _Casting Director:_ Joan Tewkesbury
-
 _Men’s Wardrobe:_ Kent James
-
 _Women’s Wardrobe:_ Marjorie Wahl
-
 _Hairstylist:_ Lynda Gurasich
 
-_Cast:_
-
+**Cast**
 Elliott Gould _(Philip Marlowe)_
-
 Nina Van Pallandt _(Eileen Wade)_
-
 Sterling Hayden _(Roger Wade)_
-
 Mark Rydell _(Marty Augustine)_
-
 Henry Gibson _(Dr Verringer)_
-
 David Arkin _(Harry)_
-
 Warren Berlinger _(Morgan)_
-
 Jo Ann Brody _(Jo Ann Eggenweiler)_
-
 Jim Bouton _(Terry Lennox)_
-
 Steve Coit _(Detective Farmer)_
-
 Jack Knight _(Mabel)_
-
 Pepe Callahan _(Pepe)_
 Vince Palmieri _(Vince)_
 Pancho Cordoba _(doctor)_
@@ -140,5 +94,5 @@ Tracy Harris _(detective)_
 USA 1973©
 112 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDczMTg0NDVdfQ==
+eyJoaXN0b3J5IjpbLTMyMTM3Njc0OF19
 -->
