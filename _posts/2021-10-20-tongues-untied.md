@@ -25,12 +25,11 @@ _Tongues Untied_ is rough around the edges and often inelegant in style, but it 
 **BEYOND ‘THERE’S ALWAYS A BLACK ISSUE DEAR’**<br>
 _Director:_ Claire Lawrie<br>
 
-UK 2018
-30 min
+UK 2018<br>
+30 min<br>
 
-**TONGUES UNTIED**
-
-_Director_: Marlon T. Riggs  
+**TONGUES UNTIED**<br>
+_Director_: Marlon T. Riggs  <br>
 _Production Company_: MTR Productions  
 _Producer_: Marlon T. Riggs  
 _Field Producer_: Colin Robinson, Ron Simmons  
@@ -48,8 +47,7 @@ _Music Performer (Saxophone)_: Idris Ackamoor
 _Music Performer (Drums)_: Josh Piagentini  
 _Sound_: Robert Berke Sound
 
-_With:_
-
+**With**<br>
 Kerrigan Black  
 Blackberri  
 Michael Bell  
@@ -81,11 +79,10 @@ Ron Simmons
 Taalib-Din Shakir  
 Robert D. Taylor  
 Britt Tennell  
-Arvid Williams
+Arvid Williams<br>
 
-USA 1989
-
-55 mins
+USA 1989<br>
+55 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1NjgzMzcyXX0=
+eyJoaXN0b3J5IjpbLTYzMjcyOTQyMF19
 -->
