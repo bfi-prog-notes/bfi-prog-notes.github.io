@@ -28,71 +28,71 @@ And yet, 40 years changes things. _The Long Goodbye_ is a key film in Thom Ander
 **THE LONG GOODBYE**<br>
 _Directed by:_ Robert Altman<br>
 _©:_ United Artists Corporation<br>
-_Production Companies:_ United Artists <br>Corporation, Lion’s Gate Films<br>
-_Presented by/Executive Producer:_ Elliott Kastner
-_Produced by:_ Jerry Bick
-_Associate Producer:_ Robert Eggenweiler
-_Production Assistant:_ Jean D’Oncieu
-_Assistant Director:_ Tommy Thompson
-_2nd Assistant Director:_ Alan Rudolph
-_Script Supervisor:_ Adele Bravos
-_Screenplay by:_ Leigh Brackett
-_From the novel by:_ Raymond Chandler
-_Photographed by:_ Vilmos Zsigmond
-_Camera Operator:_ Joe Wilcots
-_Key Grip:_ Ken Adams
-_Electrical Gaffer:_ Randy Glass
-_Edited by:_ Lou Lombardo
-_Assistant Film Editors:_ Scott Conrad,  Tony Lombardo
-_Property Master:_ Sidney Greenwood
-_Make-up:_ Bill Miller
-_Music by:_ John Williams
-_Sound Engineer:_ John V. Speak
-_Dubbing Mixer:_ Richard J. Vorisek
+_Production Companies:_ United Artists Corporation, Lion’s Gate Films<br>
+_Presented by/Executive Producer:_ Elliott Kastner<br>
+_Produced by:_ Jerry Bick<br>
+_Associate Producer:_ Robert Eggenweiler<br>
+_Production Assistant:_ Jean D’Oncieu<br>
+_Assistant Director:_ Tommy Thompson<br>
+_2nd Assistant Director:_ Alan Rudolph<br>
+_Script Supervisor:_ Adele Bravos<br>
+_Screenplay by:_ Leigh Brackett<br>
+_From the novel by:_ Raymond Chandler<br>
+_Photographed by:_ Vilmos Zsigmond<br>
+_Camera Operator:_ Joe Wilcots<br>
+_Key Grip:_ Ken Adams<br>
+_Electrical Gaffer:_ Randy Glass<br>
+_Edited by:_ Lou Lombardo<br>
+_Assistant Film Editors:_ Scott Conrad,  Tony Lombardo<br>
+_Property Master:_ Sidney Greenwood<br>
+_Make-up:_ Bill Miller<br>
+_Music by:_ John Williams<br>
+_Sound Engineer:_ John V. Speak<br>
+_Dubbing Mixer:_ Richard J. Vorisek<br>
 _With Special Remembrance for:_ Dan Blocker
-_uncredited_
-_Production Company:_ Elliott Kastner Corporation
-_Casting Director:_ Joan Tewkesbury
-_Men’s Wardrobe:_ Kent James
-_Women’s Wardrobe:_ Marjorie Wahl
-_Hairstylist:_ Lynda Gurasich
+_uncredited_<br>
+_Production Company:_ Elliott Kastner Corporation<br>
+_Casting Director:_ Joan Tewkesbury<br>
+_Men’s Wardrobe:_ Kent James<br>
+_Women’s Wardrobe:_ Marjorie Wahl<br>
+_Hairstylist:_ Lynda Gurasich<br>
 
-**Cast**
-Elliott Gould _(Philip Marlowe)_
-Nina Van Pallandt _(Eileen Wade)_
-Sterling Hayden _(Roger Wade)_
-Mark Rydell _(Marty Augustine)_
-Henry Gibson _(Dr Verringer)_
-David Arkin _(Harry)_
-Warren Berlinger _(Morgan)_
-Jo Ann Brody _(Jo Ann Eggenweiler)_
-Jim Bouton _(Terry Lennox)_
-Steve Coit _(Detective Farmer)_
-Jack Knight _(Mabel)_
-Pepe Callahan _(Pepe)_
-Vince Palmieri _(Vince)_
-Pancho Cordoba _(doctor)_
-Enrique Lucero _(Jefe)_
-Rutanya Alda _(Rutanya Sweet)_
-Tammy Shaw _(dancer)_
-Jack Riley _(Riley, piano player)_
-Ken Sansom _(Colony guard)_
-Jerry Jones _(Detective Green)_
-John Davies _(Detective Dayton)_
-Rodney Moss _(supermarket clerk)_
-Sybil Scotford _(Sybil Tooksbury, real estate lady)_  
-Hubie Kerns _(Herbie)_
-_uncredited_
-Leslie Simms _(Olive)_
-Leslie McRay _(Lucille)_
-David Carradine _(prison cellmate)_
-Arnold Schwarzenegger _(muscle man)_
-Kate Murtagh _(nurse)_
-Danny Goldman _(bartender)_
-Tracy Harris _(detective)_
+**Cast**<br>
+Elliott Gould _(Philip Marlowe)_<br>
+Nina Van Pallandt _(Eileen Wade)_<br>
+Sterling Hayden _(Roger Wade)_<br>
+Mark Rydell _(Marty Augustine)_<br>
+Henry Gibson _(Dr Verringer)_<br>
+David Arkin _(Harry)_<br>
+Warren Berlinger _(Morgan)_<br>
+Jo Ann Brody _(Jo Ann Eggenweiler)_<br>
+Jim Bouton _(Terry Lennox)_<br>
+Steve Coit _(Detective Farmer)_<br>
+Jack Knight _(Mabel)_<br>
+Pepe Callahan _(Pepe)_<br>
+Vince Palmieri _(Vince)_<br>
+Pancho Cordoba _(doctor)_<br>
+Enrique Lucero _(Jefe)_<br>
+Rutanya Alda _(Rutanya Sweet)_<br>
+Tammy Shaw _(dancer)_<br>
+Jack Riley _(Riley, piano player)_<br>
+Ken Sansom _(Colony guard)_<br>
+Jerry Jones _(Detective Green)_<br>
+John Davies _(Detective Dayton)_<br>
+Rodney Moss _(supermarket clerk)_<br>
+Sybil Scotford _(Sybil Tooksbury, real estate lady)_  <br>
+Hubie Kerns _(Herbie)_<br>
+_uncredited_<br>
+Leslie Simms _(Olive)_<br>
+Leslie McRay _(Lucille)_<br>
+David Carradine _(prison cellmate)_<br>
+Arnold Schwarzenegger _(muscle man)_<br>
+Kate Murtagh _(nurse)_<br>
+Danny Goldman _(bartender)_<br>
+Tracy Harris _(detective)_<br>
 
-USA 1973©
-112 mins
+USA 1973©<br>
+112 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTM3Njc0OF19
+eyJoaXN0b3J5IjpbMTMwNDAyNDg4XX0=
 -->
