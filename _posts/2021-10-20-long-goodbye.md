@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Long Goodbye
+published: true
+date: 2021-10-20
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Crime, Thriller]
+metadata: 'USA 1973, 112 mins<br> Director: Robert Altman'
+pdf: '2021-10-20-long-goodbye.pdf'
+---
 
 **SPOILER WARNING  The following notes give away some of the plot.**
 
@@ -93,6 +103,59 @@ Tracy Harris _(detective)_<br>
 
 USA 1973©<br>
 112 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDAyNDg4XX0=
--->
+
+**BIG SCREEN CLASSICS**<br>
+**Chinatown**<br>
+Mon 18 Oct 14:15; Sun 24 Oct 11:50;  Wed 27 Oct 14:15; Sat 20 Nov 20:30<br>
+**Inside Man**<br>
+Mon 18 Oct 17:50; Mon 8 Nov 20:30;  Thu 25 Nov 14:30; Tue 30 Nov 20:20<br>
+**House of Bamboo**<br>
+Mon 18 Oct 18:00; Thu 4 Nov 20:50;  Thu 11 Nov 14:30; Mon 15 Nov 18:10<br>
+**Heat**<br>
+Tue 19 Oct 14:00; Sun 24 Oct 14:30;  Sat 13 Nov 16:30; Mon 15 Nov 13:40<br>
+**Kiss Me Deadly**<br>
+Tue 19 Oct 18:00; Fri 5 Nov 20:40;  Sat 20 Nov 18:00; Sat 28 Nov 12:15<br>
+**Devil in a Blue Dress**<br>
+Wed 20 Oct 17:55; Thu 28 Oct 20:50;  Wed 17 Nov 18:00 (+ intro by _Empire Magazine_ Contributing Editor Amon Warmann)<br>
+**Un Flic**<br>
+Wed 20 Oct 18:10 (+ pre-recorded introduction by film critic Christina Newland); Fri 22 Oct 14:20;  Tue 23 Nov 20:45; Mon 29 Nov 20:55<br>
+**The Long Goodbye**<br>
+Wed 20 Oct 20:50; Wed 10 Nov 17:50 (+ intro by Geoff Andrew, Programmer-at-Large);  Sat 27 Nov 20:40<br>
+**The Manchurian Candidate**<br>
+Thu 21 Oct 14:15; Sun 21 Nov 14:50<br>
+**Illustrious Corpses (Cadaveri eccellenti)**<br>
+Thu 21 Oct 20:30; Mon 25 Oct 14:15;  Fri 19 Nov 20:40; Sat 27 Nov 18:10<br>
+**Murder on the Orient Express**<br>
+Sat 23 Oct 17:30; Sun 7 Nov 18:10;  Tue 16 Nov 14:15<br>
+**Blue Velvet**<br>
+Tue 26 Oct 14:30; Tue 2 Nov 18:00;  Sat 13 Nov 20:45; Sun 21 Nov 17:40<br>
+**Dirty Harry**
+Wed 27 Oct 18:00 (+ pre-recorded intro by film scholar Hannah Hamad, Cardiff University); Sun 14 Nov 18:20; Fri 26 Nov 20:45<br>
+**The Silence of the Lambs**<br>
+Fri 29 Oct 20:40; Wed 3 Nov 19:00 (+ pre-recorded intro by Professor Yvonne Tasker, author of BFI Film Classics _The Silence of the Lambs_); Thu 18 Nov 14:40<br>
+**No Country for Old Men**<br>
+Sat 30 Oct 11:00; Mon 1 Nov 20:30;  Wed 24 Nov 18:00 (+ intro by Geoff Andrew, Programmer-at-Large)<br>
+**In the Cut**<br>
+Sun 31 Oct 18:30; Tue 30 Nov 18:10<br>
+**Zero Dark Thirty**<br>
+Sat 6 Nov 17:30; Tue 9 Nov 14:15;  Sun 28 Nov 15:20<br>
+**Shaft**<br>
+Fri 12 Nov 20:50; Tue 23 Nov 18:20<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
