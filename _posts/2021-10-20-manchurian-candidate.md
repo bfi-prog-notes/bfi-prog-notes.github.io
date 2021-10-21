@@ -14,19 +14,19 @@ Like the john Birch Society ‘Black Book’, _The Manchurian Candidate_ offered
 Sinatra’s alleged reasons for suppressing _The Manchurian Candidate_ have become incorporated in the film’s meaning. He was, it was said, disturbed at having produced so prophetic a vision. (At the same time that Sinatra pulled _The Manchurian Candidate_ from circulation, he also withdrew _Suddenly_ – an obscure 1954 movie in which he played a would-be presidential assassin and which Marina Oswald told the Warren Commission her husband had seen on Dallas television shortly before Kennedy was shot.) When _The Manchurian Candidate_ was finally reissued, after a well-publicised showing at the 1987 New York Film Festival, it was explained that Sinatra had taken the movie out of circulation in a dispute with United Artists over money. But although it has since become a part of _The Manchurian Candidate_’s mythology that it was a popular failure, the movie had supplanted _The Longest Day_ as the national box-office champion by Election Day 1962. Nor was it critically misunderstood. _The New Yorker_ seconded _Variety_’s enthusiasm, beginning a rave review with ‘many loud hurrahs’: _The New York Times_ was less than amused, charging Sinatra with ‘a grave sort of irresponsibility’. Referring to other unnamed Sinatra films where ‘truth has been distorted and angled to get wild effects’, the _Times_ compared his technique with that of ‘the ‘big lie’, concluding that ‘this does not do credit to American films’. When _The Manchurian Candidate_ opened in Paris in December the critic for _L’Express_ wrote that she left the theatre praying that something of Europe would be able to survive the impending clash between the two superpowers. _Le Monde_ concurred. Although the movie was ‘incoherent’, it would certainly help to fuel ‘anti-American propaganda’.<br>
 **J. Hoberman, _Sight & Sound_, December 1993**<br>
 
-**THE MANCHURIAN CANDIDATE**
-_Directed by:_ John Frankenheimer
-_©:_ M.C. Productions
-_Released thru:_ United Artists
-_Executive Producer:_ Howard W. Koch
-_Produced by:_ George Axelrod, John Frankenheimer
-_Assistant Director:_ Joseph Behm
-_Script Supervisor:_ Amalia Wade
-_Screenplay by:_ George Axelrod
-_Based upon a novel by:_ Richard Condon
-_Director of Photography:_ Lionel Lindon
-_Photographic Effects:_ Howard Anderson Co.
-_Operative Cameraman:_ John Mehl
+**THE MANCHURIAN CANDIDATE**<br>
+_Directed by:_ John Frankenheimer<br>
+_©:_ M.C. Productions<br>
+_Released thru:_ United Artists<br>
+_Executive Producer:_ Howard W. Koch<br>
+_Produced by:_ George Axelrod, John Frankenheimer<br>
+_Assistant Director:_ Joseph Behm<br>
+_Script Supervisor:_ Amalia Wade<br>
+_Screenplay by:_ George Axelrod<br>
+_Based upon a novel by:_ Richard Condon<br>
+_Director of Photography:_ Lionel Lindon<br>
+_Photographic Effects:_ Howard Anderson Co.<br>
+_Operative Cameraman:_ John Mehl<br>
 _Special Effects:_ Paul Pollard
 _Editor:_ Ferris Webster
 _Assistant Film Editor:_ Carl Mahakian
@@ -120,5 +120,5 @@ James Yagi, Lee Tung Foo, Raynum Tsukamoto _(Chinese gentlemen in hotel lobby)_<
 USA 1962©<br>
 126 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTY4ODY3MzZdfQ==
+eyJoaXN0b3J5IjpbLTI3NTcyNTQ2XX0=
 -->
