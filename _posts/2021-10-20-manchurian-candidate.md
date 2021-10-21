@@ -16,85 +16,42 @@ Sinatra’s alleged reasons for suppressing _The Manchurian Candidate_ have beco
 
 **THE MANCHURIAN CANDIDATE**
 _Directed by:_ John Frankenheimer
-
 _©:_ M.C. Productions
-
 _Released thru:_ United Artists
-
 _Executive Producer:_ Howard W. Koch
-
 _Produced by:_ George Axelrod, John Frankenheimer
-
 _Assistant Director:_ Joseph Behm
-
 _Script Supervisor:_ Amalia Wade
-
 _Screenplay by:_ George Axelrod
-
 _Based upon a novel by:_ Richard Condon
-
 _Director of Photography:_ Lionel Lindon
-
 _Photographic Effects:_ Howard Anderson Co.
-
 _Operative Cameraman:_ John Mehl
-
 _Special Effects:_ Paul Pollard
-
 _Editor:_ Ferris Webster
-
 _Assistant Film Editor:_ Carl Mahakian
-
 _Production Designer:_ Richard Sylbert
-
 _Assistant Art Director:_ Philip M. Jefferies
-
 _Set Decorator:_ George R. Nelson
-
 _Property Master:_ Arden Cripe
-
 _Costumes by:_ Moss Mabry
-
 _Costumer:_ Wesley V. Jefferies
-
 _Jewels by:_ Ruser of Beverly Hills
-
-_Makeup Artists:_ Bernard Ponedel,
-
-Jack Freeman, Ron Berkeley
-
+_Makeup Artists:_ Bernard Ponedel, Jack Freeman, Ron Berkeley
 _Hair Stylist:_ Mary Westmoreland
-
 _Janet Leigh’s Hair Styles by:_ Gene Shacove
-
 _Music Composed and Conducted by:_ David Amram
-
 _Music Editor:_ Richard Carruth
-
 _Music Recording:_ Vinton Vernon
-
 _Sound Mixer:_ Joe Edmondson
-
 _Re-recording:_ Buddy Myers
-
 _Sound System:_ Westrex Recording System
-
 _Sound Effects Editor:_ Del Harris
-
-_Maps provided through the courtesy of:_
-
-American Map Company, Inc.
-
+_Maps provided through the courtesy of:_ American Map Company, Inc.
 _Dialogue Coach:_ Thom Conroy
-
 _uncredited_
-
 _Production Assistant:_ Gene Martell
-
-_2nd Assistant Directors:_ David Salven,
-
-Read Killgore
-
+_2nd Assistant Directors:_ David Salven, Read Killgore
 _Script Supervisors:_ Molly Kent, Grace Dubray
 
 _Camera Assistants:_ Felix Barlow, Eugene Levitt
@@ -235,5 +192,5 @@ USA 1962©
 
 126 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzODI0MzI2XX0=
+eyJoaXN0b3J5IjpbMTQ1MjcyNTIzMl19
 -->
