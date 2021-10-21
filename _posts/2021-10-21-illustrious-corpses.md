@@ -29,15 +29,9 @@ Rogas’ unspoken idealism in his respect is also a clue to the direction of Ros
 It is this which sets _Illustrious Corpses_ apart from other films on like conspiracies though there are certainly similarities with Alan Pakula’s two essays in political paranoia. Where the myths of the American hero are skittled one by one in _The Parallax View_, _Illustrious Corpses_ tilts at the awesome panoply and impartial wisdom of the law.<br>
 **Richard Combs, _Monthly Film Bulletin_, June 1977**<br>
 
-<![endif]-->
-
-**Illustrious Corpses (Cadaveri eccellenti)**  
+**ILLUSTRIOUS CORPSES (CADAVERI ECCELLENTI)**  
 _Director_: Francesco Rosi  
-_Production Companies_:
-
-P.E.A. - Produzioni Europee Associate,
-
-Les Productions Artistes Associés  
+_Production Companies_: P.E.A. - Produzioni Europee Associate, Les Productions Artistes Associés  
 _Producer_: Alberto Grimaldi  
 _Production Secretaries_: Paolo Fabbri, Lynn Kamern  
 _Unit Production Manager_: Franco Ballati  
@@ -45,15 +39,11 @@ _Production Supervisor_: Alessandro von Normann
 _Administration_: Sergio Giussani, Anna Maria Novelli  
 _Assistant Directors_: Gianni Arduini, Bruno Cortini  
 _Continuity_: Franca Santi  
-_Screenplay_: Francesco Rosi, Tonino Guerra,
-
-Lino Jannuzzi  
+_Screenplay_: Francesco Rosi, Tonino Guerra, Lino Jannuzzi  
 _Based on_ Il contesto _by_: Leonardo Sciascia  
 _Director of Photography_: Pasqualino De Santis  
 _Camera Operator_: Mario Cimini  
-_Assistant Camera Operators_:
-
-Marcello Mastrogirolamo, Adolfo Bartoli  
+_Assistant Camera Operators_: Marcello Mastrogirolamo, Adolfo Bartoli  
 _Editor_: Ruggero Mastroianni  
 _Assistant Editors_: Lea Mazzocchi, Ugo De Rossi  
 _Art Director_: Andrea Crisanti  
@@ -70,9 +60,9 @@ _Music_: Piero Piccioni
 _Sound Recording_: Mario Bramonti  
 _Microphone Operator_: Giuseppe Muratori  
 _Sound Mix_: Romano Checcacci  
-_Sound Effects_: Renato Marinelli
+_Sound Effects_: Renato Marinelli<br>
 
-_Cast:  
+**Cast**<br>
 _Lino Ventura _(Inspector Amerigo Rogas)_  
 Alain Cuny _(Judge Rasto)_  
 Paolo Bonacelli _(Dr Maxia)_  
@@ -86,8 +76,7 @@ Tino Carraro _(chief of police)_
 Maria Carta _(Signora Cres)_  
 Luigi Pistilli _(Cusani)_  
 Paolo Graziosi _(Galano, leftist at Patto’s party)_  
-Anna Proclemer
-_(wife of author Nocio at Patto’s party)_  
+Anna Proclemer _(wife of author Nocio at Patto’s party)_  
 Carlo Tamberlani _(archibishop)_  
 Enrico Ragusa _(capuchin monk)_  
 Corrado Gaipa _(supposed mafioso)_  
@@ -107,5 +96,5 @@ Felice Fulchignoni _(mayor)_<br
 Italy/France 1976<br>
 120 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5Njc5MV19
+eyJoaXN0b3J5IjpbMTc0ODQxNjg5MV19
 -->
