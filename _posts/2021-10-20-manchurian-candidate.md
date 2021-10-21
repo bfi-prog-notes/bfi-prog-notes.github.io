@@ -53,63 +53,33 @@ _uncredited_
 _Production Assistant:_ Gene Martell
 _2nd Assistant Directors:_ David Salven, Read Killgore
 _Script Supervisors:_ Molly Kent, Grace Dubray
-
 _Camera Assistants:_ Felix Barlow, Eugene Levitt
-
 _Grips:_ Richard Borland, Gaylin Schultz
-
-_Gaffer:_ Robert Campbell
-
-_Stills:_ Bill Creamer
-
+_Gaffer:_ Robert Campbel
+_Stills:_ Bill Creame
 _Set Designers:_ Lucius O. Croxton, Seymour Klate, John M. Elliott, Joseph S. Tolby
-
 _Props:_ Richard M. Rubin
-
-_Wardrobe:_ Morris Brown, Ron Talsky,
-
-Angela Alexander, Rose Viebeck
-
+_Wardrobe:_ Morris Brown, Ron Talsky, Angela Alexander, Rose Viebeck
 _Makeup:_ Dorothy Parkinson
-
 _Sound Recording:_ Paul Wolfe
-
 _Boom Operator:_ William Flannery
 
-_Cast:_
-
+**Cast**
 Frank Sinatra _(Bennet Marco)_
-
 Laurence Harvey _(Raymond Shaw)_
-
 Janet Leigh _(Eugénie Rose ‘Rosie’ Cheyney)_
-
-Angela Lansbury
-
-_(Eleanor Shaw Iselin, Raymond’s mother)_
-
+Angela Lansbury _(Eleanor Shaw Iselin, Raymond’s mother)_
 Henry Silva _(Chunjin)_
-
 James Gregory _(Senator John Yerkes Iselin)_
-
 Leslie Parrish _(Jocie Jordon)_
-
 John McGiver _(Senator Thomas Jordon)_
-
 Khigh Dhiegh _(Yen Lo)_
-
 James Edwards _(Corporal Al Melvin)_
-
 Douglas Henderson _(colonel)_
-
 Albert Paulsen _(Zilkov)_
-
 Barry Kelley _(Secretary of Defense)_
-
 Lloyd Corrigan _(Holborn Gaines)_
-
 Madame Spivy _(Berezovo’s lady counterpart)_
-
 _uncredited_
 
 Joe Adams _(psychiatrist)_
@@ -192,5 +162,5 @@ USA 1962©
 
 126 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjcyNTIzMl19
+eyJoaXN0b3J5IjpbMTE2MjYzNTU5OF19
 -->
