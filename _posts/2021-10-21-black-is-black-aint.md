@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Black Is... Black Ain't
+published: true
+date: 2021-10-21
+readtime: true
+categories: ['BFI FLARE']
+tags: [Documentary]
+metadata: 'USA, 1994, 87 mins<br> Director: Marlon T. Riggs'
+pdf: '2021-10-21-blac-is-black-aint.pdf'
+---
 
 _+ intro by programmer Rico Johnson-Sinclair_
 
@@ -18,7 +28,7 @@ In the name of cultural decolonisation, Cuban filmmaker Jose Garcia Espinosa cal
 ‘At the end of _Tongues Untied_ I flash a number of photos of black men who have died of AIDS. These images initially signify death. Eventually, the photos start to turn into a number of ancestral figures that have been so important to my life: Harriet Tubman, Frederick Douglass, Martin Luther King Jr. For me, these faces have transcended death. We continually remember these people; they resonate in our lives from generation to generation. I believe in humanity, in our ability to connect over generations and even beyond death to move forward as black people. And this defines my spiritual perspective, too. My connection is not to some invisible, overbearing God – it is to other human beings. Through this, I believe, lies our ultimate possibility of redemption.’<br>
 **Kobena Mercer, _Sight & Sound_, August 1994**<br>
 
-**BLACK IS.. BLACK AIN'T**
+**BLACK IS.. BLACK AIN'T**<br>
 _Director_: Marlon Riggs  
 _Co-director_: Christiane Badgley  
 _Production Company_: California Newsreel  
@@ -26,50 +36,63 @@ _Producer_: Marlon Riggs
 _Co-producer_: Nicole Atkinson  
 _Associate Producer_: Jasmine Dellal  
 _Photography_: Robert Shepard  
-_Editors_: Christiane Badgley, Bob Paris
+_Editors_: Christiane Badgley, Bob Paris<br>
 
-USA 1994
+USA 1994<br>
+87 mins<br>
+<br>
 
-87 mins
+<img style="float: left;" src="/img/flare-logo-2020-01.png">
+<br><br><br><br><br><br><br><br><br>
 
-**REGULAR PROGRAMME*
-**Relaxed Screening: Summer of Soul (... Or, When the Revolution Could Not Be Televised)**
-Tue 26 Oct 18:00
-**BFI Blu-ray Launch:  
-Short Sharp Shocks II + intro**
-Wed 27 Oct 18:10
-**Art in the Making: The Black Arts Movement on Film + discussion**
-Wed 27 Oct 20:40
-**Woman with a Movie Camera Preview:  
-Anatomy of Wings + pre-recorded Q&A**
-Thu 28 Oct 18:15
-**Silent Cinema: Body and Soul + intro**
-Sun 31 Oct 14:20
-**20-22 Omega**
-Sun 31 Oct 14:30; Thu 4 Nov 18:10
-**Member Picks: Moonlight**
-Fri 5 Nov 18:10
-**African Odysseys: Black History Walks Presents: Cause for Concern: Equal Before the Law**
-Fri 5 Nov 18:30-21:30
-**African Odysseys: A Date with the Devil:  
-Darcus Howe’s Journey from Black Power to Broadcasting**
-Sat 6 Nov 12:00-18:00
-**African Odysseys: Travels with my Camera:  
-Is This My Country? + White Tribe**
-Tue 9 Nov 18:10
-**African Odysseys: Trouble in Paradise  + Darcus Howe: Son of Mine**
-Sun 14 Nov 15:30
-**Terror Vision: Tales from the Hood**
-Thu 25 Nov 20:40
-**Missing Believed Wiped Session 1:  
-The London Palladium Show**
-Sat 27 Nov 13:00
-**Missing Believed Wiped Session 2: Introducing ‘The Precious Things’: Holiday Startime**
-Sat 27 Nov 15:50
-**Seniors’ Free Matinee, in partnership with African Odysseys: Once Upon a Time... When We Were Colored + intro**
-Mon 29 Nov 14:00
-**Relaxed Screening: Petite Maman**
-Tue 30 Nov 18:15
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg1MTc2NjhdfQ==
--->
+**REGULAR PROGRAMME**<br>
+**Relaxed Screening: Summer of Soul (... Or, When the Revolution Could Not Be Televised)**<br>
+Tue 26 Oct 18:00<br>
+**BFI Blu-ray Launch: Short Sharp Shocks II + intro**<br>
+Wed 27 Oct 18:10<br>
+**Art in the Making: The Black Arts Movement on Film + discussion**<br>
+Wed 27 Oct 20:40<br>
+**Woman with a Movie Camera Preview: Anatomy of Wings + pre-recorded Q&A**<br>
+Thu 28 Oct 18:15<br>
+**Silent Cinema: Body and Soul + intro**<br>
+Sun 31 Oct 14:20<br>
+**20-22 Omega**<br>
+Sun 31 Oct 14:30; Thu 4 Nov 18:10<br>
+**Member Picks: Moonlight**<br>
+Fri 5 Nov 18:10<br>
+**African Odysseys: Black History Walks Presents: Cause for Concern: Equal Before the Law**<br>
+Fri 5 Nov 18:30-21:30<br>
+**African Odysseys: A Date with the Devil: Darcus Howe’s Journey from Black Power to Broadcasting**<br>
+Sat 6 Nov 12:00-18:00<br>
+**African Odysseys: Travels with my Camera: Is This My Country? + White Tribe**<br>
+Tue 9 Nov 18:10<br>
+**African Odysseys: Trouble in Paradise  + Darcus Howe: Son of Mine**<br>
+Sun 14 Nov 15:30<br>
+**Terror Vision: Tales from the Hood**<br>
+Thu 25 Nov 20:40<br>
+**Missing Believed Wiped Session 1: The London Palladium Show**<br>
+Sat 27 Nov 13:00<br>
+**Missing Believed Wiped Session 2: Introducing ‘The Precious Things’: Holiday Startime**<br>
+Sat 27 Nov 15:50<br>
+**Seniors’ Free Matinee, in partnership with African Odysseys: Once Upon a Time... When We Were Colored + intro**<br>
+Mon 29 Nov 14:00<br>
+**Relaxed Screening: Petite Maman**<br>
+Tue 30 Nov 18:15<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
