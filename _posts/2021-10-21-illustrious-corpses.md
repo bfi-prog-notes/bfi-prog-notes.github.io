@@ -1,8 +1,18 @@
-
+---
+layout: post
+title: Illustrious Corpses
+published: true
+date: 2021-10-21
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Thriller]
+metadata: 'Italy/France 1976, 120 mins<br> Director: Francesco Rosi'
+pdf: '2021-10-21-illustrious-corpses.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
-During his peak years Rosi was one of Europe’s premier explorers of criminal-political rot and social anxiety. This key film is a rich and resonant expression of Years of Lead tension, and one of the best political thrillers since _Z_ (1969).
+During his peak years Francesco Rosi was one of Europe’s premier explorers of criminal-political rot and social anxiety. This key film is a rich and resonant expression of Years of Lead tension, and one of the best political thrillers since _Z_ (1969).
 
 It begins in the Capuchin Catacombs in Palermo – a sanctified shrine of desiccated flesh and bone – where a judge (a dialogue-free Charles Vanel) is assassinated. More judges get shot in public, and weary straight-arrow detective Lino Ventura is assigned the case, initially suspecting the Mafia, and then eventually falling down a rabbit hole of official conspiracies and government plotting, all set against a broiling background of strikes, student protests and violent state repression.
 
@@ -19,8 +29,7 @@ _Illustrious Corpses_ was dismissed by some leftist critics in Italy as being to
 **Peter Cowie, _Sight & Sound_, May 2013**
 
 **A contemporary review**<br>
-Nothing is so impressive in _Illustrious Corpses_, Rosi’s latest essay in political conspiracy theory, as the way it looks. In place of the journalistic roughness, drive and urgency of _The Mattei Affair_, this film has the air of a pageant – a mythically foreboding, politically obscure spectacle which seems, with dreamlike inevitability, to be unfolding some secret process in the affairs of men. What makes that process appear so ineluctable yet so indefinable – and testifies simultaneously to Rosi’s powers as a stylist – is its ability to compel belief that everything on the screen, not just the people but the landscapes and architecture they inhabit, have some assigned role in the grand design.  
-The film’s peculiarly bleached appearance, which drains away any strong colours but seems to highlight qualities of design and texture, conspires to suggest secret affinities which together make up the totalitarian style of whoever is stage-managing such diverse events as the assassination of high officials, garbage men’s strikes, demonstrations by young Leftists, and finally the disembodied roarings and clankings which come to afflict the System’s paranoid victims. It is this sinister interconnectedness which Rosi’s highly controlled method conjures up, most complexly when it involves an intersection of styles, the old and the new (usually old ideals and new corruptions), as in the final assassination in a gallery full of classical Greco-Roman sculpture, or the pompous funeral oration and procession for the first murdered justice that take place in an old city square dominated by heroic statuary.
+Nothing is so impressive in _Illustrious Corpses_, Rosi’s latest essay in political conspiracy theory, as the way it looks. In place of the journalistic roughness, drive and urgency of _The Mattei Affair_, this film has the air of a pageant – a mythically foreboding, politically obscure spectacle which seems, with dreamlike inevitability, to be unfolding some secret process in the affairs of men. What makes that process appear so ineluctable yet so indefinable – and testifies simultaneously to Rosi’s powers as a stylist – is its ability to compel belief that everything on the screen, not just the people but the landscapes and architecture they inhabit, have some assigned role in the grand design. The film’s peculiarly bleached appearance, which drains away any strong colours but seems to highlight qualities of design and texture, conspires to suggest secret affinities which together make up the totalitarian style of whoever is stage-managing such diverse events as the assassination of high officials, garbage men’s strikes, demonstrations by young Leftists, and finally the disembodied roarings and clankings which come to afflict the System’s paranoid victims. It is this sinister interconnectedness which Rosi’s highly controlled method conjures up, most complexly when it involves an intersection of styles, the old and the new (usually old ideals and new corruptions), as in the final assassination in a gallery full of classical Greco-Roman sculpture, or the pompous funeral oration and procession for the first murdered justice that take place in an old city square dominated by heroic statuary.
 
 The film’s use of geography and design to cross-reference attitudes and ideologies works as well with people as with architecture. Lino Ventura’s craggy, earthy features – clearly outlined like some natural, fissured formation in the stark colour scheme – suggest reassuringly stolid, imperturbable qualities in the investigator Rogas; qualities that are emphasised when a physiognomical pairing takes place in the scene where Rogas questions a peasant with similarly watchful leathern features (asked about one of the dead judges, the peasant waves his hand at a crowded hillside of high-rise buildings in reference to the less than pristine public servant: ‘He was made of cement and smoke’). The sense of violation is thus all the greater when even Rogas, carried uncaring into high places by his enquiries, is gradually beset by an unnameable dread and finds the justice in which he had so implicitly believed beginning to disappear around him.
 
@@ -63,7 +72,7 @@ _Sound Mix_: Romano Checcacci
 _Sound Effects_: Renato Marinelli<br>
 
 **Cast**<br>
-_Lino Ventura _(Inspector Amerigo Rogas)_  
+Lino Ventura _(Inspector Amerigo Rogas)_  
 Alain Cuny _(Judge Rasto)_  
 Paolo Bonacelli _(Dr Maxia)_  
 Marcel Bozzuffi _(indolent man)_  
@@ -95,6 +104,60 @@ Felice Fulchignoni _(mayor)_<br
 
 Italy/France 1976<br>
 120 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODQxNjg5MV19
--->
+
+
+**BIG SCREEN CLASSICS**<br>
+**Chinatown**<br>
+Mon 18 Oct 14:15; Sun 24 Oct 11:50;  Wed 27 Oct 14:15; Sat 20 Nov 20:30<br>
+**Inside Man**<br>
+Mon 18 Oct 17:50; Mon 8 Nov 20:30;  Thu 25 Nov 14:30; Tue 30 Nov 20:20<br>
+**House of Bamboo**<br>
+Mon 18 Oct 18:00; Thu 4 Nov 20:50;  Thu 11 Nov 14:30; Mon 15 Nov 18:10<br>
+**Heat**<br>
+Tue 19 Oct 14:00; Sun 24 Oct 14:30;  Sat 13 Nov 16:30; Mon 15 Nov 13:40<br>
+**Kiss Me Deadly**<br>
+Tue 19 Oct 18:00; Fri 5 Nov 20:40;  Sat 20 Nov 18:00; Sat 28 Nov 12:15<br>
+**Devil in a Blue Dress**<br>
+Wed 20 Oct 17:55; Thu 28 Oct 20:50;  Wed 17 Nov 18:00 (+ intro by _Empire Magazine_ Contributing Editor Amon Warmann)<br>
+**Un Flic**<br>
+Wed 20 Oct 18:10 (+ pre-recorded introduction by film critic Christina Newland); Fri 22 Oct 14:20;  Tue 23 Nov 20:45; Mon 29 Nov 20:55<br>
+**The Long Goodbye**<br>
+Wed 20 Oct 20:50; Wed 10 Nov 17:50 (+ intro by Geoff Andrew, Programmer-at-Large);  Sat 27 Nov 20:40<br>
+**The Manchurian Candidate**<br>
+Thu 21 Oct 14:15; Sun 21 Nov 14:50<br>
+**Illustrious Corpses (Cadaveri eccellenti)**<br>
+Thu 21 Oct 20:30; Mon 25 Oct 14:15;  Fri 19 Nov 20:40; Sat 27 Nov 18:10<br>
+**Murder on the Orient Express**<br>
+Sat 23 Oct 17:30; Sun 7 Nov 18:10;  Tue 16 Nov 14:15<br>
+**Blue Velvet**<br>
+Tue 26 Oct 14:30; Tue 2 Nov 18:00;  Sat 13 Nov 20:45; Sun 21 Nov 17:40<br>
+**Dirty Harry**
+Wed 27 Oct 18:00 (+ pre-recorded intro by film scholar Hannah Hamad, Cardiff University); Sun 14 Nov 18:20; Fri 26 Nov 20:45<br>
+**The Silence of the Lambs**<br>
+Fri 29 Oct 20:40; Wed 3 Nov 19:00 (+ pre-recorded intro by Professor Yvonne Tasker, author of BFI Film Classics _The Silence of the Lambs_); Thu 18 Nov 14:40<br>
+**No Country for Old Men**<br>
+Sat 30 Oct 11:00; Mon 1 Nov 20:30;  Wed 24 Nov 18:00 (+ intro by Geoff Andrew, Programmer-at-Large)<br>
+**In the Cut**<br>
+Sun 31 Oct 18:30; Tue 30 Nov 18:10<br>
+**Zero Dark Thirty**<br>
+Sat 6 Nov 17:30; Tue 9 Nov 14:15;  Sun 28 Nov 15:20<br>
+**Shaft**<br>
+Fri 12 Nov 20:50; Tue 23 Nov 18:20<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
