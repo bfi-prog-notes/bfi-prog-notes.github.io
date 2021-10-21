@@ -64,61 +64,61 @@ _Makeup:_ Dorothy Parkinson<br>
 _Sound Recording:_ Paul Wolfe<br>
 _Boom Operator:_ William Flannery<br>
 
-**Cast**
-Frank Sinatra _(Bennet Marco)_
-Laurence Harvey _(Raymond Shaw)_
-Janet Leigh _(Eugénie Rose ‘Rosie’ Cheyney)_
-Angela Lansbury _(Eleanor Shaw Iselin, Raymond’s mother)_
-Henry Silva _(Chunjin)_
-James Gregory _(Senator John Yerkes Iselin)_
-Leslie Parrish _(Jocie Jordon)_
-John McGiver _(Senator Thomas Jordon)_
-Khigh Dhiegh _(Yen Lo)_
-James Edwards _(Corporal Al Melvin)_
-Douglas Henderson _(colonel)_
-Albert Paulsen _(Zilkov)_
-Barry Kelley _(Secretary of Defense)_
-Lloyd Corrigan _(Holborn Gaines)_
-Madame Spivy _(Berezovo’s lady counterpart)_
-_uncredited_
-Joe Adams _(psychiatrist)_
-Whit Bissell _(medical officer)_
-Mimi Dillard _(Mrs Melvin)_
-Anton Van Stralen _(officer)_
-John Laurence _(Gossfeld)_
-Tom Lowell _(Bobby Lembeck)_
-Richard LaPore _(Ed Navole)_
-Nick Bolin _(Berezovo)_
-Nicky Blair _(Silvers)_
-William Thourlby _(Little)_
-Irving Steinberg _(Freeman)_
-John Francis _(Haiken)_
-Robert Riordon _(Benjamin K. Arthur, the nominee)_
-Reggie Nalder _(Gomel)_
-Miyoshi Jingu _(Miss Gertrude)_
-Anna Shin _(Korean girl)_
-Helen Kleeb, Maye Henderson _(charladies)_
-Mickey Finn, Richard Norris, John Indrisano _(reporters)_
-Lou Krugg _(manager)_
-Mike Masters, Tom Harris _(FBI men)_
-Mariquita Moll _(soprano)_
-Robert Burton _(convention chairman)_
-Karen Norris _(secretary)_
-Bess Flowers _(Gomel’s lady counterpart)_
-Jean Vaughn _(nurse)_
-Ray Spiker _(policeman)_
-Merritt Bohn _(Jilly)_
-Frank Basso _(photographer)_
-Harry Holcombe _(general)_
-Julie Payne, Lana Crawford, Evelyn Byrd _(guests at party)_
-Ray Dailey _(page boy)_
+**Cast**<br>
+Frank Sinatra _(Bennet Marco)_<br>
+Laurence Harvey _(Raymond Shaw)_<br>
+Janet Leigh _(Eugénie Rose ‘Rosie’ Cheyney)_<br>
+Angela Lansbury _(Eleanor Shaw Iselin, Raymond’s mother)_<br>
+Henry Silva _(Chunjin)_<br>
+James Gregory _(Senator John Yerkes Iselin)_<br>
+Leslie Parrish _(Jocie Jordon)_<br>
+John McGiver _(Senator Thomas Jordon)_<br>
+Khigh Dhiegh _(Yen Lo)_<br>
+James Edwards _(Corporal Al Melvin)_<br>
+Douglas Henderson _(colonel)_<br>
+Albert Paulsen _(Zilkov)_<br>
+Barry Kelley _(Secretary of Defense)_<br>
+Lloyd Corrigan _(Holborn Gaines)_<br>
+Madame Spivy _(Berezovo’s lady counterpart)_<br>
+_uncredited_<br>
+Joe Adams _(psychiatrist)_<br>
+Whit Bissell _(medical officer)_<br>
+Mimi Dillard _(Mrs Melvin)_<br>
+Anton Van Stralen _(officer)_<br>
+John Laurence _(Gossfeld)_<br>
+Tom Lowell _(Bobby Lembeck)_<br>
+Richard LaPore _(Ed Navole)_<br>
+Nick Bolin _(Berezovo)_<br>
+Nicky Blair _(Silvers)_<br>
+William Thourlby _(Little)_<br>
+Irving Steinberg _(Freeman)_<br>
+John Francis _(Haiken)_<br>
+Robert Riordon _(Benjamin K. Arthur, the nominee)_<br>
+Reggie Nalder _(Gomel)_<br>
+Miyoshi Jingu _(Miss Gertrude)_<br>
+Anna Shin _(Korean girl)_<br>
+Helen Kleeb, Maye Henderson _(charladies)_<br>
+Mickey Finn, Richard Norris, John Indrisano _(reporters)_<br>
+Lou Krugg _(manager)_<br>
+Mike Masters, Tom Harris _(FBI men)_<br>
+Mariquita Moll _(soprano)_<br>
+Robert Burton _(convention chairman)_<br>
+Karen Norris _(secretary)_<br>
+Bess Flowers _(Gomel’s lady counterpart)_<br>
+Jean Vaughn _(nurse)_<br>
+Ray Spiker _(policeman)_<br>
+Merritt Bohn _(Jilly)_<br>
+Frank Basso _(photographer)_<br>
+Harry Holcombe _(general)_<br>
+Julie Payne, Lana Crawford, Evelyn Byrd _(guests at party)_<br>
+Ray Dailey _(page boy)_<br>
 Estelle Etterre, Mary Benoit, Rita Kenaston,
-Maggie Hathaway, Joan Douglas, Frances Nealy, Evelyn Byrd _(women in hotel lobby)_
-Ralph Gambina, Sam ‘Kid’ Hogan _(men in hotel lobby)_
+Maggie Hathaway, Joan Douglas, Frances Nealy, Evelyn Byrd _(women in hotel lobby)_<br>
+Ralph Gambina, Sam ‘Kid’ Hogan _(men in hotel lobby)_<br>
 James Yagi, Lee Tung Foo, Raynum Tsukamoto _(Chinese gentlemen in hotel lobby)_<br>
 
 USA 1962©<br>
 126 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5NzkzMDMwLC0yNzU3MjU0Nl19
+eyJoaXN0b3J5IjpbLTE3Mjg4ODgzODIsLTI3NTcyNTQ2XX0=
 -->
