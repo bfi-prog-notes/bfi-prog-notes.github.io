@@ -27,42 +27,42 @@ _Based upon a novel by:_ Richard Condon<br>
 _Director of Photography:_ Lionel Lindon<br>
 _Photographic Effects:_ Howard Anderson Co.<br>
 _Operative Cameraman:_ John Mehl<br>
-_Special Effects:_ Paul Pollard
-_Editor:_ Ferris Webster
-_Assistant Film Editor:_ Carl Mahakian
-_Production Designer:_ Richard Sylbert
-_Assistant Art Director:_ Philip M. Jefferies
-_Set Decorator:_ George R. Nelson
-_Property Master:_ Arden Cripe
-_Costumes by:_ Moss Mabry
-_Costumer:_ Wesley V. Jefferies
-_Jewels by:_ Ruser of Beverly Hills
-_Makeup Artists:_ Bernard Ponedel, Jack Freeman, Ron Berkeley
-_Hair Stylist:_ Mary Westmoreland
-_Janet Leigh’s Hair Styles by:_ Gene Shacove
-_Music Composed and Conducted by:_ David Amram
-_Music Editor:_ Richard Carruth
-_Music Recording:_ Vinton Vernon
-_Sound Mixer:_ Joe Edmondson
-_Re-recording:_ Buddy Myers
-_Sound System:_ Westrex Recording System
-_Sound Effects Editor:_ Del Harris
-_Maps provided through the courtesy of:_ American Map Company, Inc.
-_Dialogue Coach:_ Thom Conroy
+_Special Effects:_ Paul Pollard<br>
+_Editor:_ Ferris Webster<br>
+_Assistant Film Editor:_ Carl Mahakian<br>
+_Production Designer:_ Richard Sylbert<br>
+_Assistant Art Director:_ Philip M. Jefferies<br>
+_Set Decorator:_ George R. Nelson<br>
+_Property Master:_ Arden Cripe<br>
+_Costumes by:_ Moss Mabry<br>
+_Costumer:_ Wesley V. Jefferies<br>
+_Jewels by:_ Ruser of Beverly Hills<br>
+_Makeup Artists:_ Bernard Ponedel, Jack Freeman, Ron Berkeley<br>
+_Hair Stylist:_ Mary Westmoreland<br>
+_Janet Leigh’s Hair Styles by:_ Gene Shacove<br>
+_Music Composed and Conducted by:_ David Amram<br>
+_Music Editor:_ Richard Carruth<br>
+_Music Recording:_ Vinton Vernon<br>
+_Sound Mixer:_ Joe Edmondson<br>
+_Re-recording:_ Buddy Myers<br>
+_Sound System:_ Westrex Recording System<br><br>
+_Sound Effects Editor:_ Del Harris<br>
+_Maps provided through the courtesy of:_ American Map Company, Inc.<br>
+_Dialogue Coach:_ Thom Conroy<br>
 _uncredited_
-_Production Assistant:_ Gene Martell
-_2nd Assistant Directors:_ David Salven, Read Killgore
-_Script Supervisors:_ Molly Kent, Grace Dubray
-_Camera Assistants:_ Felix Barlow, Eugene Levitt
-_Grips:_ Richard Borland, Gaylin Schultz
-_Gaffer:_ Robert Campbel
-_Stills:_ Bill Creame
-_Set Designers:_ Lucius O. Croxton, Seymour Klate, John M. Elliott, Joseph S. Tolby
-_Props:_ Richard M. Rubin
-_Wardrobe:_ Morris Brown, Ron Talsky, Angela Alexander, Rose Viebeck
-_Makeup:_ Dorothy Parkinson
-_Sound Recording:_ Paul Wolfe
-_Boom Operator:_ William Flannery
+_Production Assistant:_ Gene Martell<br>
+_2nd Assistant Directors:_ David Salven, Read Killgore<br>
+_Script Supervisors:_ Molly Kent, Grace Dubray<br>
+_Camera Assistants:_ Felix Barlow, Eugene Levitt<br>
+_Grips:_ Richard Borland, Gaylin Schultz<br>
+_Gaffer:_ Robert Campbel<br>
+_Stills:_ Bill Creame<br>
+_Set Designers:_ Lucius O. Croxton, Seymour Klate, John M. Elliott, Joseph S. Tolby<br>
+_Props:_ Richard M. Rubin<br>
+_Wardrobe:_ Morris Brown, Ron Talsky, Angela Alexander, Rose Viebeck<br>
+_Makeup:_ Dorothy Parkinson<br>
+_Sound Recording:_ Paul Wolfe<br>
+_Boom Operator:_ William Flannery<br>
 
 **Cast**
 Frank Sinatra _(Bennet Marco)_
@@ -120,5 +120,5 @@ James Yagi, Lee Tung Foo, Raynum Tsukamoto _(Chinese gentlemen in hotel lobby)_<
 USA 1962©<br>
 126 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTcyNTQ2XX0=
+eyJoaXN0b3J5IjpbNDM5NzkzMDMwLC0yNzU3MjU0Nl19
 -->
