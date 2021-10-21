@@ -15,9 +15,95 @@ In the name of cultural decolonisation, Cuban filmmaker Jose Garcia Espinosa cal
 
 ‘I am a black gay man living with AIDS. My work is expanding the way we use film and video to tell stories about our lives as black people.’ In his commitment to an ethics of honesty that owed everything to the communal love and wisdom embodied in the Afro-Christian tradition in which he was raised (he once told me his parents thought he might become a preacher), Riggs created a rich legacy of work that is a valuable contribution to a fully inclusive cinematic vision of what our identities might be. Moving images are inherently about loss and memory. In the painful acknowledgment of his passing, there is a joyful obligation to treasure his memory in a way that Riggs’ own words best reveal:
 
-‘At the end of _Tongues Untied_ I flash a number of photos of black men who have died of AIDS. These images initially signify death. Eventually, the photos start to turn into a number of ancestral figures that have been so important to my life: Harriet Tubman, Frederick Douglass, Martin Luther King Jr. For me, these faces have transcended death. We continually remember these people; they resonate in our lives from generation to generation. I believe in humanity, in our ability to connect over generations and even beyond death to move forward as black people. And this defines my spiritual perspective, too. My connection is not to some invisible, overbearing God – it is to other human beings. Through this, I believe, lies our ultimate possibility of redemption.’
+‘At the end of _Tongues Untied_ I flash a number of photos of black men who have died of AIDS. These images initially signify death. Eventually, the photos start to turn into a number of ancestral figures that have been so important to my life: Harriet Tubman, Frederick Douglass, Martin Luther King Jr. For me, these faces have transcended death. We continually remember these people; they resonate in our lives from generation to generation. I believe in humanity, in our ability to connect over generations and even beyond death to move forward as black people. And this defines my spiritual perspective, too. My connection is not to some invisible, overbearing God – it is to other human beings. Through this, I believe, lies our ultimate possibility of redemption.’<br>
+**Kobena Mercer, _Sight & Sound_, August 1994**<br>
 
-Kobena Mercer, _Sight & Sound_, August 1994
+**BLACK IS.. Bl**
+
+_Director_: Marlon Riggs  
+_Co-director_: Christiane Badgley  
+_Production Company_: California Newsreel  
+_Producer_: Marlon Riggs  
+_Co-producer_: Nicole Atkinson  
+_Associate Producer_: Jasmine Dellal  
+_Photography_: Robert Shepard  
+_Editors_: Christiane Badgley, Bob Paris
+
+USA 1994
+
+87 mins
+
+REGULAR PROGRAMME
+
+**Relaxed Screening: Summer of Soul (... Or, When the Revolution Could Not Be Televised)**
+
+Tue 26 Oct 18:00
+
+**BFI Blu-ray Launch:  
+Short Sharp Shocks II + intro**
+
+Wed 27 Oct 18:10
+
+**Art in the Making: The Black Arts Movement on Film + discussion**
+
+Wed 27 Oct 20:40
+
+**Woman with a Movie Camera Preview:  
+Anatomy of Wings + pre-recorded Q&A**
+
+Thu 28 Oct 18:15
+
+**Silent Cinema: Body and Soul + intro**
+
+Sun 31 Oct 14:20
+
+**20-22 Omega**
+
+Sun 31 Oct 14:30; Thu 4 Nov 18:10
+
+**Member Picks: Moonlight**
+
+Fri 5 Nov 18:10
+
+**African Odysseys: Black History Walks Presents: Cause for Concern: Equal Before the Law**
+
+Fri 5 Nov 18:30-21:30
+
+**African Odysseys: A Date with the Devil:  
+Darcus Howe’s Journey from Black Power to Broadcasting**
+
+Sat 6 Nov 12:00-18:00
+
+**African Odysseys: Travels with my Camera:  
+Is This My Country? + White Tribe**
+
+Tue 9 Nov 18:10
+
+**African Odysseys: Trouble in Paradise  
++ Darcus Howe: Son of Mine**
+
+Sun 14 Nov 15:30
+
+**Terror Vision: Tales from the Hood**
+
+Thu 25 Nov 20:40
+
+**Missing Believed Wiped** **Session 1:  
+The London Palladium Show**
+
+Sat 27 Nov 13:00
+
+**Missing Believed Wiped** **Session 2: Introducing ‘The Precious Things’: Holiday Startime**
+
+Sat 27 Nov 15:50
+
+**Seniors’ Free Matinee, in partnership with African Odysseys: Once Upon a Time... When We Were Colored + intro**
+
+Mon 29 Nov 14:00
+
+**Relaxed Screening: Petite Maman**
+
+Tue 30 Nov 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4MTU4NzIxXX0=
+eyJoaXN0b3J5IjpbMTE5NTY2MDI4XX0=
 -->
