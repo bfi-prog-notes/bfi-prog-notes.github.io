@@ -27,7 +27,85 @@ The film’s use of geography and design to cross-reference attitudes and ideolo
 Rogas’ unspoken idealism in his respect is also a clue to the direction of Rosi’s political attack: notions of justice, democracy and open government are not just fictions in the context of the real mechanics of power, but fictions which have the power of myth in men’s minds. Hence the sense of earthquake as they slowly tumble in Rogas’ mind – best summarised by the odd scene in which he is bothered by an inexplicable rumbling outside his apartment in the early morning.
 
 It is this which sets _Illustrious Corpses_ apart from other films on like conspiracies though there are certainly similarities with Alan Pakula’s two essays in political paranoia. Where the myths of the American hero are skittled one by one in _The Parallax View_, _Illustrious Corpses_ tilts at the awesome panoply and impartial wisdom of the law.<br>
-**Richard Combs, _Monthly Film Bulletin_, June 1977
+**Richard Combs, _Monthly Film Bulletin_, June 1977**<br>
+
+<![endif]-->
+
+**Illustrious Corpses (Cadaveri eccellenti)**  
+_Director_: Francesco Rosi  
+_Production Companies_:
+
+P.E.A. - Produzioni Europee Associate,
+
+Les Productions Artistes Associés  
+_Producer_: Alberto Grimaldi  
+_Production Secretaries_: Paolo Fabbri, Lynn Kamern  
+_Unit Production Manager_: Franco Ballati  
+_Production Supervisor_: Alessandro von Normann  
+_Administration_: Sergio Giussani, Anna Maria Novelli  
+_Assistant Directors_: Gianni Arduini, Bruno Cortini  
+_Continuity_: Franca Santi  
+_Screenplay_: Francesco Rosi, Tonino Guerra,
+
+Lino Jannuzzi  
+_Based on_ Il contesto _by_: Leonardo Sciascia  
+_Director of Photography_: Pasqualino De Santis  
+_Camera Operator_: Mario Cimini  
+_Assistant Camera Operators_:
+
+Marcello Mastrogirolamo, Adolfo Bartoli  
+_Editor_: Ruggero Mastroianni  
+_Assistant Editors_: Lea Mazzocchi, Ugo De Rossi  
+_Art Director_: Andrea Crisanti  
+_Assistant Art Director_: Aurelio Crugnola  
+_Collaboration on the Casa Patto sets_: Mario Ceroli, Renato Guttuso, Mario Schifano  
+_Set Decorators_: Arrigo Breschi, Marco Dentici  
+_Costumes_: Enrico Sabbatini  
+_Costumes Assistant_: Gianni Viti  
+_Wardrobe_: Adriana Masseroni  
+_Make-up_: Franco Freda  
+_Hair_: Adalgisa Favella  
+_Titles_: Studio 4  
+_Music_: Piero Piccioni  
+_Sound Recording_: Mario Bramonti  
+_Microphone Operator_: Giuseppe Muratori  
+_Sound Mix_: Romano Checcacci  
+_Sound Effects_: Renato Marinelli
+
+_Cast:  
+_Lino Ventura _(Inspector Amerigo Rogas)_  
+Alain Cuny _(Judge Rasto)_  
+Paolo Bonacelli _(Dr Maxia)_  
+Marcel Bozzuffi _(indolent man)_  
+Tina Aumont _(prostitute)_  
+Max von Sydow _(Chief Magistrate Riches)_  
+Fernando Rey _(minister of justice)_  
+Charles Vanel _(Prosecutor Varga)_  
+Renato Salvatori _(Police Inspector, Roga’s Friend)_  
+Tino Carraro _(chief of police)_  
+Maria Carta _(Signora Cres)_  
+Luigi Pistilli _(Cusani)_  
+Paolo Graziosi _(Galano, leftist at Patto’s party)_  
+Anna Proclemer
+_(wife of author Nocio at Patto’s party)_  
+Carlo Tamberlani _(archibishop)_  
+Enrico Ragusa _(capuchin monk)_  
+Corrado Gaipa _(supposed mafioso)_  
+Claudio Nicastro _(General)_  
+Francesco Callari _(Judge Sanza)_  
+Mario Meniconi _(homosexual mechanic)_  
+Accursio Di Leo _(Roga’s assistant)_  
+Alfonso Gatto _(Nocio)_  
+Silverio Blasi _(chief of political police)_  
+Renato Turi _(television announcer)_  
+Giorgio Zampa _(Amar)_  
+Florestano Vancini _(Amar’s successor)_  
+Ernesto Colli _(agent)_  
+Alexandre Mnouchkine _(Patto)_  
+Felice Fulchignoni _(mayor)_<br
+
+Italy/France 1976<br>
+120 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTE4ODIwNF19
+eyJoaXN0b3J5IjpbNDA5Njc5MV19
 -->
