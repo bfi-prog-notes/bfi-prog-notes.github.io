@@ -7,7 +7,7 @@ readtime: true
 categories: ['BFI FLARE']
 tags: [Documentary]
 metadata: 'USA, 1994, 87 mins<br> Director: Marlon T. Riggs'
-pdf: '2021-10-21-blac-is-black-aint.pdf'
+pdf: '2021-10-21-black-is-black-aint.pdf'
 ---
 
 _+ intro by programmer Rico Johnson-Sinclair_
