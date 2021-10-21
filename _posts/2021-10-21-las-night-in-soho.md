@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Last Night in Soho
+published: true
+date: 2021-10-21
+readtime: true
+categories: ['PREVIEWS']
+tags: [Drama, Horror, Thriller]
+metadata: 'UK 2021, 155 mins<br> Director: Edgar Wright'
+pdf: '2021-10-21-last-night-in-soho.pdf'
+---
 
 _This preview will feature a pre-recorded intro from director Edgar Wright and Q&A with Paul Machliss, Marcus Rowland, Odile Dicks-Mireaux and Steven Price._
 
@@ -10,8 +20,7 @@ As Tarantino did with Los Angeles in _Once upon a Time in Hollywood_, Wright and
 
 However, the fantasy turns into a nightmare as Sandy takes up with a manager, Jack (Matt Smith), who promises to make her a star but then leads her into a life of sexual exploitation and abuse. The past begins to bleed into Ellie’s waking life as Sandy’s life becomes more and more intolerable, and the men who abused Sandy haunt her, their faces a horrible blur. It is a testament to Thomasin McKenzie’s performance that she manages to maintain a lightness while at the same time suggesting a woman who could also be slipping into madness. As she tells her grandmother before leaving for London, she’s a scrapper.
 
-_Last Night in Soho_ has the energy of a Jacques Demy musical, with a cavalcade of period hits and musical sequences, including a breathtaking a cappella performance of ‘Downtown’ and a thrilling dance scene that has Sandy and Ellie swap places as Jack spins them across the floor. Mixed in are references to George Romero, Michael Powell’s _Peeping Tom_ (1960) and _10 Rillington Place_ (1971). Wright has created a fascinating melange, a mix tape of different genres, light and dark, pop and profound. It has the exhilaration of an old fairground ride, where there’s always a risk that the rackety contraption might fly to pieces.  
-But somehow Wright and co-screenwriter Krysty Wilson-Cairns manage to hold things together, even as they spin faster and faster.
+_Last Night in Soho_ has the energy of a Jacques Demy musical, with a cavalcade of period hits and musical sequences, including a breathtaking a cappella performance of ‘Downtown’ and a thrilling dance scene that has Sandy and Ellie swap places as Jack spins them across the floor. Mixed in are references to George Romero, Michael Powell’s _Peeping Tom_ (1960) and _10 Rillington Place_ (1971). Wright has created a fascinating melange, a mix tape of different genres, light and dark, pop and profound. It has the exhilaration of an old fairground ride, where there’s always a risk that the rackety contraption might fly to pieces. But somehow Wright and co-screenwriter Krysty Wilson-Cairns manage to hold things together, even as they spin faster and faster.
 
 The past might be idealised but it isn’t as if the present is perfect. On arriving in London, Ellie is harassed by a taxi driver whose patter quickly turns threatening. The appeal of the past is partly to escape the feeling that, as Blur once told us, modern life is rubbish. But if, as Freud argued, nightmares can be disguised fantasies, so it makes sense that fantasies can also hide nightmares. Wright’s film reminds us that the past may have looked and sounded great, but it had bad breath and a dangerous temper.<br>
 **John Bleasdale, _Sight and Sound,_ November 2021**<br>
@@ -133,6 +142,21 @@ USA/UK 2021<br>
 116 mins<br>
 
 Courtesy of Universal Pictures<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDU4NTE4OF19
--->
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
