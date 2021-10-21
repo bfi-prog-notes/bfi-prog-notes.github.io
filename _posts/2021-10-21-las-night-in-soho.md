@@ -128,15 +128,12 @@ Wayne Cater _(punter 4)_
 Sam Parks _(punter 6)_  
 Alan Ruscoe _(punter 7)_  
 Margaret Nolan _(Sage barmaid)_  
-Christopher Carrico, Ian Harrod, Ian Hartley,  
-Luke Hope,  Kent Goldfinch, Daniel Maggott,  
-Richard O’Sullivan _(additional punters)_  
+Christopher Carrico, Ian Harrod, Ian Hartley, Luke Hope, Kent Goldfinch, Daniel Maggott, Richard O’Sullivan _(additional punters)_  
 Michael Jibson _(male detective)_  
 Lisa McGrillis _(female detective)_  
 Al Roberts _(librarian)_  
 Derek Lea _(taxi driver 2)_  
-Melissa Fox, Jodie Hassell, Stephanie Lamey,  
-Amy Andrea Murray, Alison Parsons, Ashley Shaw _(Rialto dancers)_<br>
+Melissa Fox, Jodie Hassell, Stephanie Lamey, Amy Andrea Murray, Alison Parsons, Ashley Shaw _(Rialto dancers)_<br>
 
 USA/UK 2021<br>
 116 mins<br>
