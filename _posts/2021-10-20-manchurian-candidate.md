@@ -81,86 +81,44 @@ Barry Kelley _(Secretary of Defense)_
 Lloyd Corrigan _(Holborn Gaines)_
 Madame Spivy _(Berezovo’s lady counterpart)_
 _uncredited_
-
 Joe Adams _(psychiatrist)_
-
 Whit Bissell _(medical officer)_
-
 Mimi Dillard _(Mrs Melvin)_
-
 Anton Van Stralen _(officer)_
-
 John Laurence _(Gossfeld)_
-
 Tom Lowell _(Bobby Lembeck)_
-
 Richard LaPore _(Ed Navole)_
-
 Nick Bolin _(Berezovo)_
-
 Nicky Blair _(Silvers)_
-
 William Thourlby _(Little)_
-
 Irving Steinberg _(Freeman)_
-
 John Francis _(Haiken)_
-
-Robert Riordon
-
-_(Benjamin K. Arthur, the nominee)_
-
+Robert Riordon _(Benjamin K. Arthur, the nominee)_
 Reggie Nalder _(Gomel)_
-
 Miyoshi Jingu _(Miss Gertrude)_
-
 Anna Shin _(Korean girl)_
-
 Helen Kleeb, Maye Henderson _(charladies)_
-
 Mickey Finn, Richard Norris, John Indrisano _(reporters)_
-
 Lou Krugg _(manager)_
-
 Mike Masters, Tom Harris _(FBI men)_
-
 Mariquita Moll _(soprano)_
-
 Robert Burton _(convention chairman)_
-
 Karen Norris _(secretary)_
-
 Bess Flowers _(Gomel’s lady counterpart)_
-
 Jean Vaughn _(nurse)_
-
 Ray Spiker _(policeman)_
-
 Merritt Bohn _(Jilly)_
-
 Frank Basso _(photographer)_
-
 Harry Holcombe _(general)_
-
-Julie Payne, Lana Crawford, Evelyn Byrd
-
-_(guests at party)_
-
+Julie Payne, Lana Crawford, Evelyn Byrd _(guests at party)_
 Ray Dailey _(page boy)_
-
 Estelle Etterre, Mary Benoit, Rita Kenaston,
-
 Maggie Hathaway, Joan Douglas, Frances Nealy, Evelyn Byrd _(women in hotel lobby)_
+Ralph Gambina, Sam ‘Kid’ Hogan _(men in hotel lobby)_
+James Yagi, Lee Tung Foo, Raynum Tsukamoto _(Chinese gentlemen in hotel lobby)_<br>
 
-Ralph Gambina, Sam ‘Kid’ Hogan
-
-_(men in hotel lobby)_
-
-James Yagi, Lee Tung Foo, Raynum Tsukamoto _(Chinese gentlemen in hotel lobby)_
-
-USA 1962©
-
-126 mins
+USA 1962©<br>
+126 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MjYzNTU5OF19
+eyJoaXN0b3J5IjpbLTE1MTY4ODY3MzZdfQ==
 -->
