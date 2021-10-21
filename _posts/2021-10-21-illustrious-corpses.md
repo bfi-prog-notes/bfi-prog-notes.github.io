@@ -40,7 +40,7 @@ It is this which sets _Illustrious Corpses_ apart from other films on like consp
 
 **ILLUSTRIOUS CORPSES (CADAVERI ECCELLENTI)**  
 _Director_: Francesco Rosi  
-_Production Companies_: P.E.A. - Produzioni Europee Associate, Les Productions Artistes Associés  
+_Production Companies_:P.E.A. - Produzioni Europee Associate,Les Productions Artistes Associés  
 _Producer_: Alberto Grimaldi  
 _Production Secretaries_: Paolo Fabbri, Lynn Kamern  
 _Unit Production Manager_: Franco Ballati  
@@ -48,11 +48,11 @@ _Production Supervisor_: Alessandro von Normann
 _Administration_: Sergio Giussani, Anna Maria Novelli  
 _Assistant Directors_: Gianni Arduini, Bruno Cortini  
 _Continuity_: Franca Santi  
-_Screenplay_: Francesco Rosi, Tonino Guerra, Lino Jannuzzi  
+_Screenplay_: Francesco Rosi, Tonino Guerra,Lino Jannuzzi  
 _Based on_ Il contesto _by_: Leonardo Sciascia  
 _Director of Photography_: Pasqualino De Santis  
 _Camera Operator_: Mario Cimini  
-_Assistant Camera Operators_: Marcello Mastrogirolamo, Adolfo Bartoli  
+_Assistant Camera Operators_:Marcello Mastrogirolamo, Adolfo Bartoli  
 _Editor_: Ruggero Mastroianni  
 _Assistant Editors_: Lea Mazzocchi, Ugo De Rossi  
 _Art Director_: Andrea Crisanti  
@@ -72,7 +72,7 @@ _Sound Mix_: Romano Checcacci
 _Sound Effects_: Renato Marinelli<br>
 
 **Cast**<br>
-Lino Ventura _(Inspector Amerigo Rogas)_  
+_Lino Ventura _(Inspector Amerigo Rogas)_  
 Alain Cuny _(Judge Rasto)_  
 Paolo Bonacelli _(Dr Maxia)_  
 Marcel Bozzuffi _(indolent man)_  
@@ -85,7 +85,7 @@ Tino Carraro _(chief of police)_
 Maria Carta _(Signora Cres)_  
 Luigi Pistilli _(Cusani)_  
 Paolo Graziosi _(Galano, leftist at Patto’s party)_  
-Anna Proclemer _(wife of author Nocio at Patto’s party)_  
+Anna Proclemer_(wife of author Nocio at Patto’s party)_  
 Carlo Tamberlani _(archibishop)_  
 Enrico Ragusa _(capuchin monk)_  
 Corrado Gaipa _(supposed mafioso)_  
@@ -125,7 +125,7 @@ Wed 20 Oct 18:10 (+ pre-recorded introduction by film critic Christina Newland);
 Wed 20 Oct 20:50; Wed 10 Nov 17:50 (+ intro by Geoff Andrew, Programmer-at-Large);  Sat 27 Nov 20:40<br>
 **The Manchurian Candidate**<br>
 Thu 21 Oct 14:15; Sun 21 Nov 14:50<br>
-**Illustrious Corpses (Cadaveri eccellenti)**<br>
+**Illustri**I C (C )**<br>
 Thu 21 Oct 20:30; Mon 25 Oct 14:15;  Fri 19 Nov 20:40; Sat 27 Nov 18:10<br>
 **Murder on the Orient Express**<br>
 Sat 23 Oct 17:30; Sun 7 Nov 18:10;  Tue 16 Nov 14:15<br>
@@ -161,3 +161,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTc3MDM3MDddfQ==
+-->
