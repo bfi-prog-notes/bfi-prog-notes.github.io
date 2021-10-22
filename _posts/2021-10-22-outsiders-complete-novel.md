@@ -18,12 +18,10 @@ Which leaves one with the constant feeling that events are being evoked (fantasi
 This sense of loss is played through, too, in the leitmotif of the Tulsa sunsets that stand both for the characters’ cosmic yearnings (an approximation of _Rebel’s_ planetarium?) and for their intimations of mortality. ‘Even as we look at a sunset’, Coppola attests, ‘we are aware that it is already starting to die. Youth, too, is like that; at its very moment of perfection you can already see the forces that are undoing it’. Hence the poignancy of Johnny’s dying invocation to his friend to stay gold, for it is heard in the certain knowledge that ‘nothing gold can stay’ – _ars longa, vita brevis_ is apparently the sole consolation offered. Clearly Coppola, himself a sort of Hollywood outsider, has got beneath the skin of his characters, and the performances – perhaps with the partial exception of Dillon – are very fine. Whether his intended audience will, for its part, buy his romantic melancholia is more questionable. Still, it is encouraging to find a youth movie that views its rites of passage in loftier terms than simply  getting laid.<br>
 **Sheila Johnston, _Monthly Film Bulletin_, September 1983**<br>
 
- **THE OUTSIDERS: THE COMPLETE NOVEL**
+ **THE OUTSIDERS: THE COMPLETE NOVEL**<br>
 _Director_: Francis Coppola  
 _©_: Pony Boy  
-_Production Companies_: Zoetrope Studios,
-
-Warner Bros.  
+_Production Companies_: Zoetrope Studios, Warner Bros.  
 _Producers_: Fred Roos, Gray Frederickson  
 _Associate Producer_: Gian-Carlo Coppola  
 _Unit Production Manager_: Ronald Colby  
@@ -44,9 +42,7 @@ _Gaffer_: Lou Tobin
 _Key Grip_: Emmett Brown  
 _Stills Photography_: Jim Zenk  
 _Special Visual Effects_: Robert Swarthe  
-_Visual Effects Unit Project Manager_:
-
-Millie Z. Alexich  
+_Visual Effects Unit Project Manager_: Millie Z. Alexich  
 _Visual Effects Unit Photography_: Dave Stewart  
 _Visual Effects Unit Camera Operator_: Don Baker  
 _Special Effects_: Dennis Dion  
@@ -64,9 +60,7 @@ _Wardrobe Supervisors_: Ernie Misko, Kathleen Gore
 _Make-up_: Jack Petty  
 _Hairstyles_: Dee Dee Petty  
 _Title Design_: Wayne Fitzgerald, David Oliver  
-_Opticals_: Modern Film Effects,
-
-The Optical House, Pacific Title  
+_Opticals_: Modern Film Effects, The Optical House, Pacific Title  
 _Electronic Cinema_: Brian Lee, Michael Lehmann, David Smith, C. Mitchell Amundsen  
 _Zoetrope Film/Video Transition_: Moviola  
 _Colour Timer_: Dick Ritchie  
@@ -76,9 +70,7 @@ _Sound Design_: Richard Beggs
 _Production Mixer_: Jim Webb  
 _Boom Men_: Chris Mclaughlin, Jim Steube  
 _Mixing Co-ordinator_: Karen Brocco  
-_Re-recording Mixers_: Richard Beggs,
-
-James Austin, Michael Minkler  
+_Re-recording Mixers_: Richard Beggs, James Austin, Michael Minkler  
 _Re-recording Chief Engineer_: Wayne Wagner  
 _Supervising Sound Editor_: Gordon Ecker Jr  
 _Negative Cutter_: Cathy Carr  
@@ -86,13 +78,12 @@ _Sound Editor_: Richard Hymns
 _Sound Editing_: wallaWorks  
 _ADR Editors_: Vince Melandri, Norman Schwartz  
 _Stunt Co-ordinator_: Buddy Joe Hooker  
-_Stunts_: Steve M. Davison, Reid Rondell,
-
-Scott Wilder  
+_Stunts_: Steve M. Davison, Reid Rondell, Scott Wilder  
 _Special Consultant to Francis Coppola_: S.E. Hinton  
 _Transportation_: J. William Hunt, Ernie Foster  
 _Dialogue Coach_: Dan Suhart  
-_Cast_:  
+
+**Cast**  
 Matt Dillon _(Dallas Winston)_  
 Ralph Macchio _(Johnny Cade)_  
 C. Thomas Howell _(Ponyboy Curtis)_  
@@ -116,13 +107,12 @@ Linda Nystedt, S.E. Hinton _(nurses)_
 Brent Beesley _(suburb guy)_  
 John C. Meier _(Paul)_  
 Ed Jackson _(motorcycle cop)_  
-Dan Suhart _(orderly)_
+Dan Suhart _(orderly)_<br>
 
-USA 1983
+USA 1983<br>
+114 mins<br>
 
-114 mins
-
-Courtesy of Studiocanal
+Courtesy of Studiocanal<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjgzMDQ4ODFdfQ==
+eyJoaXN0b3J5IjpbLTkxNTYwNzIxMV19
 -->
