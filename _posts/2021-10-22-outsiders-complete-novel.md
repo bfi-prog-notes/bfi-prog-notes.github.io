@@ -1,12 +1,10 @@
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
-Coppola’s inspired adaptation of SE Hinton’s classic novel captures how it feels to be caught between childhood innocence and adulthood’s disillusionment, and he assembled an impressive and talented young cast: Dillon, Cruise, Estevez, Howell, Lane, Swayze, Lowe and Macchio. Set in a divided Tulsa, where teenage life is either experienced as the ‘socs’, who go to college, have cars and a future, and the ‘greasers’, who come from the wrong side of the tracks. When a soc is knifed, three greasers go on the run before returning home to negotiate a tenuous truce. The collaborative work of the young cast serves as a testament to Coppola’s skill as director, making their struggle engaging and unforgettable.
+Coppola’s inspired adaptation of SE Hinton’s classic novel captures how it feels to be caught between childhood innocence and adulthood’s disillusionment, and he assembled an impressive and talented young cast: Dillon, Cruise, Estevez, Howell, Lane, Swayze, Lowe and Macchio. Set in a divided Tulsa, where teenage life is either experienced as the ‘socs’, who go to college, have cars and a future, and the ‘greasers’, who come from the wrong side of the tracks. When a soc is knifed, three greasers go on the run before returning home to negotiate a tenuous truce. The collaborative work of the young cast serves as a testament to Coppola’s skill as director, making their struggle engaging and unforgettable.<br>
+**Julie Pearce, Head of Distribution and Programme Operations**<br>
 
-Julie Pearce, Head of Distribution and Programme Operations
-
-**A contemporary review**
-
+**A contemporary review**<br>
 ‘Why shouldn’t kids have art films too?’: thus Coppola’s rhetorical question, quoted recently in _American Film_ (April 1983), to which _The Outsiders_ would seem to be an initial response (his upcoming _Rumble Fish_, also based on a ‘classic novel’ by S.E. Hinton, is by all accounts another). Its theme of 11 disaffected youth, solidly generic, is lifted into something altogether different from the run of recent teen movies. Like Coppola’s working-class characters in _One from the Heart_, his juvenile delinquents – above all Ponyboy, but also his cohorts – are endowed with an unaccustomed romanticism that feeds eclectically off cultural sources ranging from _Beach Blanket Bingo_ to Robert Frost, but definitely inclining towards the latter as the story goes on.
 
 Different, too, from the older ‘problem youth’ picture in its diffuse sense of period and social context. Ostensibly set in 1966, its iconography seems to owe more to the 50s and to the movies of that decade: the Ponyboy/Johnny relationship recalls that between Jim and Plato in _Rebel without a Cause_, while teenzine idol Matt Dillon’s Method mannerisms suggest the actor’s – or the character’s – emotional debt to Dean and early Brando. One may also discern echoes of _Gone with the Wind_, visually underlined in some of the sunset vistas of the rural interlude, thematically in the notion (more explicit in Hinton’s novel) that these kids are Southern gentlemen in the guise of white trash.
@@ -17,10 +15,114 @@ Here then, is a world unto itself, sealed off by the unfinished sentence (taken 
 
 Which leaves one with the constant feeling that events are being evoked (fantasised?) rather than actually lived through. The dreamy graphics of the film’s poster accurately indicate that this will be a film of meditation rather than of action-spectacle: even at the moment of the crucial playground killing, the image is obliterated by blood as Ponyboy passes out. For the narrative is filtered through the sensibility of this passive hero, who seems forever lost in a reverie or a swoon: dreaming of his parents, drowning in a pool, deep in a coma after the fire, immersed in memories of his dead friends … It is presented as a remembrance of things past, a remembrance which heightens sounds – the train horns that hauntingly promise escape ‘to some place without greasers or socs, with just plain ordinary people’, or the preternaturally loud birdsong that greets the runaways once they get there. And which heightens the images: ‘We wanted to show the things you remember’, recalls cinematographer Stephen Burum, ‘because they have a greater impact – a large shot of a knife opening up, the glow of a girl’s swinging red hair’.
 
-This sense of loss is played through, too, in the leitmotif of the Tulsa sunsets that stand both for the characters’ cosmic yearnings (an approximation of _Rebel’s_ planetarium?) and for their intimations of mortality. ‘Even as we look at a sunset’, Coppola attests, ‘we are aware that it is already starting to die. Youth, too, is like that; at its very moment of perfection you can already see the forces that are undoing it’. Hence the poignancy of Johnny’s dying invocation to his friend to stay gold, for it is heard in the certain knowledge that ‘nothing gold can stay’ – _ars longa, vita brevis_ is apparently the sole consolation offered. Clearly Coppola, himself a sort of Hollywood outsider, has got beneath the skin of his characters, and the performances – perhaps with the partial exception of Dillon – are very fine. Whether his intended audience will, for its part, buy his romantic melancholia is more questionable. Still, it is encouraging to find a youth movie that views its rites of passage in loftier terms than simply  
-getting laid.
+This sense of loss is played through, too, in the leitmotif of the Tulsa sunsets that stand both for the characters’ cosmic yearnings (an approximation of _Rebel’s_ planetarium?) and for their intimations of mortality. ‘Even as we look at a sunset’, Coppola attests, ‘we are aware that it is already starting to die. Youth, too, is like that; at its very moment of perfection you can already see the forces that are undoing it’. Hence the poignancy of Johnny’s dying invocation to his friend to stay gold, for it is heard in the certain knowledge that ‘nothing gold can stay’ – _ars longa, vita brevis_ is apparently the sole consolation offered. Clearly Coppola, himself a sort of Hollywood outsider, has got beneath the skin of his characters, and the performances – perhaps with the partial exception of Dillon – are very fine. Whether his intended audience will, for its part, buy his romantic melancholia is more questionable. Still, it is encouraging to find a youth movie that views its rites of passage in loftier terms than simply  getting laid.<br>
+**Sheila Johnston, _Monthly Film Bulletin_, September 1983**<br>
 
-Sheila Johnston, _Monthly Film Bulletin_, September 1983
+ **THE OUTSIDERS: THE COMPLETE NOVEL**
+_Director_: Francis Coppola  
+_©_: Pony Boy  
+_Production Companies_: Zoetrope Studios,
+
+Warner Bros.  
+_Producers_: Fred Roos, Gray Frederickson  
+_Associate Producer_: Gian-Carlo Coppola  
+_Unit Production Manager_: Ronald Colby  
+_Production Supervisor_: Michelle Manning  
+_Production Co-ordinator_: Teri Fettis  
+_Location Auditor_: Jean Autrey  
+_Location Manager_: Jim Clark  
+_Location Co-ordinator_: Tony Dingman  
+_1st Assistant Director_: David Valdes  
+_Script Supervisor_: Lloyd Nelson  
+_Casting_: Janet Hirshenson  
+_Screenplay_: Kathleen Knutsen Rowell  
+_Based on the novel by_: S.E. Hinton  
+_Director of Photography_: Stephen H. Burum  
+_Camera Operator_: Elliot Davis  
+_1st Assistant Camera_: Dustin Blauvelt  
+_Gaffer_: Lou Tobin  
+_Key Grip_: Emmett Brown  
+_Stills Photography_: Jim Zenk  
+_Special Visual Effects_: Robert Swarthe  
+_Visual Effects Unit Project Manager_:
+
+Millie Z. Alexich  
+_Visual Effects Unit Photography_: Dave Stewart  
+_Visual Effects Unit Camera Operator_: Don Baker  
+_Special Effects_: Dennis Dion  
+_Mechanical Effects_: Robert Spurlock  
+_Pyrotechnic Effects_: Martin Bresin  
+_Editor_: Anne Goursaud  
+_1st Assistant Editor_: Christopher Lebenzon  
+_Production Designer_: Dean Tavoularis  
+_Set Decorator_: Gary Fettis  
+_Set Artist_: Roger Dietz  
+_Prop Master_: Doug Madison  
+_Construction Co-ordinator_: John Rutchland  
+_Costumes_: Marge Bowers  
+_Wardrobe Supervisors_: Ernie Misko, Kathleen Gore  
+_Make-up_: Jack Petty  
+_Hairstyles_: Dee Dee Petty  
+_Title Design_: Wayne Fitzgerald, David Oliver  
+_Opticals_: Modern Film Effects,
+
+The Optical House, Pacific Title  
+_Electronic Cinema_: Brian Lee, Michael Lehmann, David Smith, C. Mitchell Amundsen  
+_Zoetrope Film/Video Transition_: Moviola  
+_Colour Timer_: Dick Ritchie  
+_Music_: Carmine Coppola  
+_Music Editors_: Robert Badami, Robert Randles  
+_Sound Design_: Richard Beggs  
+_Production Mixer_: Jim Webb  
+_Boom Men_: Chris Mclaughlin, Jim Steube  
+_Mixing Co-ordinator_: Karen Brocco  
+_Re-recording Mixers_: Richard Beggs,
+
+James Austin, Michael Minkler  
+_Re-recording Chief Engineer_: Wayne Wagner  
+_Supervising Sound Editor_: Gordon Ecker Jr  
+_Negative Cutter_: Cathy Carr  
+_Sound Editor_: Richard Hymns  
+_Sound Editing_: wallaWorks  
+_ADR Editors_: Vince Melandri, Norman Schwartz  
+_Stunt Co-ordinator_: Buddy Joe Hooker  
+_Stunts_: Steve M. Davison, Reid Rondell,
+
+Scott Wilder  
+_Special Consultant to Francis Coppola_: S.E. Hinton  
+_Transportation_: J. William Hunt, Ernie Foster  
+_Dialogue Coach_: Dan Suhart  
+_Cast_:  
+Matt Dillon _(Dallas Winston)_  
+Ralph Macchio _(Johnny Cade)_  
+C. Thomas Howell _(Ponyboy Curtis)_  
+Patrick Swayze _(Darrel Curtis)_  
+Rob Lowe _(Sodapop Curtis)_  
+Emilio Estevez _(Two-Bit Matthews)_  
+Tom Cruise _(Steve Randle)_  
+Glenn Withrow _(Tim Shepard)_  
+Diane Lane _(Cherry Valance)_  
+Leif Garrett _(Bob Sheldon)_  
+Darren Dalton _(Randy Anderson)_  
+Michelle Meyrink _(Marcia)_  
+Gailard Sartain _(Jerry)_  
+Tom Waits _(Buck Merrill)_  
+William Smith _(store clerk)_  
+Tom Hillman _(greaser in concession stand)_  
+Hugh Walkinshaw _(soc in concession stand)_  
+Domino _(little girl)_  
+Teresa Wilkerson Hunt _(woman at fire)_  
+Linda Nystedt, S.E. Hinton _(nurses)_  
+Brent Beesley _(suburb guy)_  
+John C. Meier _(Paul)_  
+Ed Jackson _(motorcycle cop)_  
+Dan Suhart _(orderly)_
+
+USA 1983
+
+114 mins
+
+Courtesy of Studiocanal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDcyMzQwMF19
+eyJoaXN0b3J5IjpbLTExNjgzMDQ4ODFdfQ==
 -->
