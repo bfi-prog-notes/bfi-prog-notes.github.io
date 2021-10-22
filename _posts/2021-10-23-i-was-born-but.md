@@ -10,85 +10,78 @@ This charming film demonstrates Ozu’s wonderful handling of child performers a
 Although the first successful Japanese talkie was made in 1931, conversion to the new was by no means immediate. For the following three years, the nation’s highest film award, the annual _Kinema Jumpo_ Best One prize, went to a trio of silent pictures all directed by the same man: Yasujiro Ozu. The director has explained his reluctance to make the change: ‘With everyone everywhere rushing into sound, I wanted to stage a last-ditch struggle for the silent film.  I knew talkies would win when it was all over, but I wanted to hold off until the end so as to show how good silent films could be.’
 
 _I Was Born, But..._, the _Kinema Jumpo_ Best One for 1932, shows the degree of Ozu’s success. Without qualification, this film belongs to the great silent comedy tradition, but its approach is very different from that of most well-known Western artists of the period. Ozu took his humour from everyday life, untouched by a comic’s hands; his films were built not around the antics of a comedian but out of the unconscious comedy of ordinary people.  
-**J. L. Anderson, ‘Seven from the Past: Aspects of the Pre-war Japanese Cinema’,  
-_Sight and Sound_, Autumn 1957**
+**J. L. Anderson, ‘Seven from the Past: Aspects of the Pre-war Japanese Cinema’,  _Sight and Sound_, Autumn 1957**
 
 During the home movie projection which marks the critical turning point in  
 _I Was Born, But..._ from comedy to tragedy, and shortly before Yoshii’s antics appear on the inner screen, Ryoichi and Keiji break into a debate about the zebra they see – does it have black stripes on white, or white stripes on black? – creating a disturbance that momentarily halts the screening. In comparable fashion, a spurious, distracting and no less innocent debate has been persisting for years about Ozu: is he a realist or a formalist? The naivete of such a question (and the related fallacy that ‘realism’ and ‘stylisation’ are somehow alternative choices) has effectively blinded many to Ozu’s genius, as well as Tati’s: whether uncritically embraced for their ‘simple’ humanism or dismissed for their ‘cold’, ‘boring’ or elusive’ formalism, the brilliance of both is lost on a one-eyed public that wants to keep its pleasure simple.
 
 If a demonstration is needed that cinematic and social forms are so interrelated for Ozu that they become indistinguishable, _I Was Born, But..._ is there to supply it – along with strong counter-evidence to the charge that his total absorption in the commonplaces of middle-class suburbia reflects a reactionary endorsement of its principal values. Because the society that Ozu depicts is essentially bound up in formality, it naturally follows that his sense of this society’s boundaries and limitations is intimately related to its ritual social gestures: _Ohayo_ (_Good Morning_), his 1959 ‘remake’, pivots around the boys’ questioning of why people say ‘Good morning’ to one another. And even more clearly in this 1932 silent version, Ozu is implicitly offering a radical critique of prevailing social as well as cinematic forms, although the boundaries of his world – like those of Oshima’s in _Boy_ – ultimately make it a tragic vision.
 
-Learning to master their immediate social environment by establishing their power to humiliate others, Ryoichi and Keiji are brought to the chilling realisation that their father’s power – which hangs over and determines their very existence – is based on his capacity to be humiliated. Every formal aspect of the film expresses the equivalence of and continuity between the separate worlds inhabited by Yoshii and his sons: two lateral tracking shots in opposite directions across a line of schoolboys marched through drills is followed by another one proceeding back and forth across desks of yawning employees in Yoshii’s office, with teacher and boss playing comparable roles in the compositions. Low-angle shots from the boys’ eye level are intercut with higher shots favouring Yoshii as he lectures them (while undressing) on getting high marks; this ‘authoritarian’ view is undercut and counterpointed by a less heroic shot of his ungainly socks as seen by his sons. The routes to work and school partially coincide as he walks with them beside railroad tracks to the crossing (a path traversed many times in the film), where he departs in his boss’ sedan and the kids (including Taro) join the others. The field crossed on the latter’s route is where the boys do their schoolwork when playing hookey, and parallel tracking shots link the two there with the arrival of the delivery boy, from whom they ask help in forging their high marks – an emissary between their world and their parents’ who later protects them against the local bully in ‘exchange’ for the news that their mother will order beer because it’s Father’s payday.  
-And this same bully, moreover, is glimpsed running ahead of his schoolmates in the film’s penultimate shot, going out of his way to greet his teacher a second time.
+Learning to master their immediate social environment by establishing their power to humiliate others, Ryoichi and Keiji are brought to the chilling realisation that their father’s power – which hangs over and determines their very existence – is based on his capacity to be humiliated. Every formal aspect of the film expresses the equivalence of and continuity between the separate worlds inhabited by Yoshii and his sons: two lateral tracking shots in opposite directions across a line of schoolboys marched through drills is followed by another one proceeding back and forth across desks of yawning employees in Yoshii’s office, with teacher and boss playing comparable roles in the compositions. Low-angle shots from the boys’ eye level are intercut with higher shots favouring Yoshii as he lectures them (while undressing) on getting high marks; this ‘authoritarian’ view is undercut and counterpointed by a less heroic shot of his ungainly socks as seen by his sons. The routes to work and school partially coincide as he walks with them beside railroad tracks to the crossing (a path traversed many times in the film), where he departs in his boss’ sedan and the kids (including Taro) join the others. The field crossed on the latter’s route is where the boys do their schoolwork when playing hookey, and parallel tracking shots link the two there with the arrival of the delivery boy, from whom they ask help in forging their high marks – an emissary between their world and their parents’ who later protects them against the local bully in ‘exchange’ for the news that their mother will order beer because it’s Father’s payday.  And this same bully, moreover, is glimpsed running ahead of his schoolmates in the film’s penultimate shot, going out of his way to greet his teacher a second time.
 
-Indeed, if the climactic family crisis registers with an explosive force – Ryoichi screaming ‘I’m not afraid of you. You’re a nothing, you’re a nobody,’ and getting brutally spanked after further violence, followed by Yoshii telling his wife ‘I give up’, and taking out his liquor bottle – this is partially because everything preceding it has led to this awful impasse. The extraordinary unity of Ozu’s conception lends relevance and resonance to every fleeting detail, so that neither the above synopsis nor any abbreviated charting of relationships can begin to describe the film’s richness, or the potential impact of its theme. Writing in _Moviegoer_, James Stoller remarked that ‘it invites comparisons to Vigo, but has charm and physical grace and density that eluded the Frenchman; it surpasses Vigo’s schoolboy anarchy with its sad, Olympian intimations not only of the spirit but of the closing in of the culture upon it, of the absolute necessity of compromise and the denial of animal will.’
+Indeed, if the climactic family crisis registers with an explosive force – Ryoichi screaming ‘I’m not afraid of you. You’re a nothing, you’re a nobody,’ and getting brutally spanked after further violence, followed by Yoshii telling his wife ‘I give up’, and taking out his liquor bottle – this is partially because everything preceding it has led to this awful impasse. The extraordinary unity of Ozu’s conception lends relevance and resonance to every fleeting detail, so that neither the above synopsis nor any abbreviated charting of relationships can begin to describe the film’s richness, or the potential impact of its theme. Writing in _Moviegoer_, James Stoller remarked that ‘it invites comparisons to Vigo, but has charm and physical grace and density that eluded the Frenchman; it surpasses Vigo’s schoolboy anarchy with its sad, Olympian intimations not only of the spirit but of the closing in of the culture upon it, of the absolute necessity of compromise and the denial of animal will.’  
+**Jonathan Rosenbaum, _Monthly Film Bulletin_, March 1975**
+<br><br>
 
-Jonathan Rosenbaum, _Monthly Film Bulletin_, March 1975
+**I WAS BORN, BUT…<br>(OTONA NO MIRU EHON – UMARETE WA MITA KEREDO)**<br>
 
-<![endif]-->
+_Director:_ Yasujiro Ozu<br>
 
-**<![endif]-->
+©: Shochiku Co. Ltd.<br>
 
-**I WAS BORN, BUT…  
-(OTONA NO MIRU EHON – UMARETE WA MITA KEREDO)****
+_Production Company:_ Shochiku Co. Ltd.<br>
 
-_Director:_ Yasujiro Ozu
+_Assistant Directors:_ Kenkichi Hara, Akira Kiyosuke<br>
 
-©: Shochiku Co. Ltd.
+_Screenplay:_ Akira Fushimi<br>
 
-_Production Company:_ Shochiku Co. Ltd.
+_Screenplay Collaborator:_ Geibei Ibusuya<br>
 
-_Assistant Directors:_ Kenkichi Hara, Akira Kiyosuke
+_Based on an idea by:_ James Maki<br>
 
-_Screenplay:_ Akira Fushimi
+_Director of Photography:_ Hideo Mohara<br>
 
-_Screenplay Collaborator:_ Geibei Ibusuya
+_Lighting:_ Toshimitsu Nakajimav
 
-_Based on an idea by:_ James Maki
+_Camera Assistants:_ Yuharu Atsuta, Masao Irie<br>
 
-_Director of Photography:_ Hideo Mohara
+_Editor:_ Hideo Mohara<br>
 
-_Lighting:_ Toshimitsu Nakajima
+_Art Director:_ Takeshi Kawano<br>
 
-_Camera Assistants:_ Yuharu Atsuta, Masao Irie
+_Set Designers:_ Takejiro Tsunoda, Yoshiro Kimurav
 
-_Editor:_ Hideo Mohara
+_Set Decorators:_ Shintarô Mimura, Tsunetaro Inoue<br>
 
-_Art Director:_ Takeshi Kawano
+_Studio:_ Shochiku Kamata<br>
 
-_Set Designers:_ Takejiro Tsunoda, Yoshiro Kimura
+_Cast:_<br>
 
-_Set Decorators:_ Shintarô Mimura, Tsunetaro Inoue
+Tatsuo Saitô _(Yoshii)_<br>
 
-_Studio:_ Shochiku Kamata
+Mitsuko Yoshikawa _(Yoshii’s wife)_<br>
 
-_Cast:_
+Hideo Sugawara _(Ryoichi, Yoshii’s elder son)_<br>
 
-Tatsuo Saitô _(Yoshii)_
+Kozo Tokkan _(Keiji, Yoshii’s younger son)_<br>
 
-Mitsuko Yoshikawa _(Yoshii’s wife)_
+Takeshi Sakamoto _(Iwasaki, Yoshii’s boss)_<br>
 
-Hideo Sugawara _(Ryoichi, Yoshii’s elder son)_
+Teruyo Hayami _(Iwasaki’s wife)_<br>
 
-Kozo Tokkan _(Keiji, Yoshii’s younger son)_
+Seiichi Kato _(Taro, Iwasaki’s son)_<br>
 
-Takeshi Sakamoto _(Iwasaki, Yoshii’s boss)_
+Shoichi Kofujita _(delivery boy)_<br>
 
-Teruyo Hayami _(Iwasaki’s wife)_
-
-Seiichi Kato _(Taro, Iwasaki’s son)_
-
-Shoichi Kofujita _(delivery boy)_
-
-Seiji Nishimura _(schoolmaster)_
+Seiji Nishimura _(schoolmaster)_<br>
 
 Zentaro Ijima, Shojaro Fujimatsu,
 
-Masao Hayama, Michiyo Sato Kuniyasu, Hayashi, Akio Nomura, Teruaki Ishiwatari
+Masao Hayama, Michiyo Sato Kuniyasu, Hayashi, Akio Nomura, Teruaki Ishiwatari<br>
 
-Chishu Ryu _(projectionist)_ *
+Chishu Ryu _(projectionist)_ *<br>
 
-Japan 1932©
+Japan 1932©<br>
 
 90 mins
 
@@ -101,5 +94,5 @@ With live musical accompaniment by Meg Morley (Sun 28 Nov)
 Introduction by Bryony Dixon,  
 BFI National Archive curator (Sun 28 Nov)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTk2ODk5NjZdfQ==
+eyJoaXN0b3J5IjpbMTc0Mjc0ODY0Ml19
 -->
