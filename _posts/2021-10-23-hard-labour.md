@@ -141,8 +141,7 @@ Pauline Moran _(the teacher)_<br>
 Julia North _(the newly-wed)_<br>
 
 BBC2 tx September 1982:<br>
-5th: ‘The Birth of the Goalie of the  
-2001 F.A. Cup Final’<br>
+5th: ‘The Birth of the Goalie of the 2001 F.A. Cup Final’<br>
 6th: ‘Old Chums’<br>
 7th: ‘Probation’<br>
 8th: ‘A Light Snack’<br>
