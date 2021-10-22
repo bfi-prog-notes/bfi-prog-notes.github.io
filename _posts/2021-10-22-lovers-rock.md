@@ -6,7 +6,7 @@ date: 2021-10-22
 readtime: true
 categories: ['SMALL AXE']
 tags: [Drama, Music]
-metadata: 'UK 2020, 170 mins<br> Director: Steve McQueen'
+metadata: 'UK 2020, 70 mins<br> Director: Steve McQueen'
 pdf: '2021-10-22-lovers-rock.pdf'
 ---
 
