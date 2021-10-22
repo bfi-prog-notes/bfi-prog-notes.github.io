@@ -105,15 +105,7 @@ Fri 22 Oct 17:30<br>
 **Lovers Rock + Q&A with director Steve McQueen and actor Dennis Bovell**<br>
 Fri 22 Oct 20:50<br>
 **Sonic Cinema Presents: Lovers Rock After Party**<br>
-Fri 22 Oct (Spiritland in Royal Festival Hall) 22:00-02:00<br>
-**Talk: The Making of Small Axe with Steve McQueen, Tracey Scoffield, David Tanner and guests**<br>
-Sat 23 Oct 16:00<br>
-**Red, White and Blue**<br>
-Sat 23 Oct 18:30<br>
-**Alex Wheatle**<br>
-Sat 23 Oct 20:45<br>
-**Education**<br>
-Sun 24 Oct 18:10<br>
+Fri 22 Oct (Spiritland in Royal Festival Hall) 22:00-02:00<br>**Talk: The Making of Small Axe with Steve McQueen, Tracey Scoffield, David Tanner and guests**<br>Sat 23 Oct 16:00<br>**Red, White and Blue**<br>Sat 23 Oct 18:30<br>**Alex Wheatle**<br>Sat 23 Oct 20:45<br>**Education**<br>Sun 24 Oct 18:10<br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -131,3 +123,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk4MDQ1ODMxNl19
+-->
