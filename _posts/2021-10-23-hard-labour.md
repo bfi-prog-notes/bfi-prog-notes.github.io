@@ -93,87 +93,53 @@ BBC1 tx 12.3.1973<br>
 UK 1973  
 70 mins
 
-**The Five Minute Films**<br>
-
+**THE FIVE MINUTE FILMS**<br>
 _Director/Devised by:_ Mike Leigh<br>
-
 _Production Company:_ BBC<br>
-
 _Producer:_ Tony Garnett<br>
-
 _Production Assistant:_ Bernadette Boyle<br>
-
 _Director of Photography:_ Brian Tufano<br>
-
 _Editor:_ Chris Lovett<br>
-
-_Costumes:_ Robin Fraser-Paye, Judy Allen,
-
-Susan Wheal<br>
-
+_Costumes:_ Robin Fraser-Paye, Judy Allen, Susan Wheal<br>
 _Sound:_ Andrew Boulton<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 _The Birth of the Goalie of the 2001 F.A. Cup Final_<br>
-
 Richard Ireson _(father)_<br>
-
 Celia Quicke _(mother)_<br>
 
 _Old Chums_<br>
-
 Tim Stern _(Brian)_<br>
-
 Robert Putt _(Terry)_<br>
 
 _A Light Snack_<br>
-
 Margaret Heery _(Mrs. White)_<br>
-
 Richard Griffiths _(the window cleaner)_<br>
-
 Alan Gaunt _(the talker)_<br>
-
 David Casey _(the listener)_<br>
 
 _Probation_<br>
-
 Herbert Norville _(Arbley)_<br>
-
 Bill Colville _(Sid)_<br>
-
 Antony Carrick _(Mr Davies)_<br>
-
 Theresa Watson _(secretary)_<br>
-
 Lally Percy _(Victoria)_<br>
 
 _Afternoon_<br>
-
 Rachel Davies _(the hostess)_<br>
-
 Pauline Moran _(the teacher)_<br>
-
 Julia North _(the newly-wed)_<br>
 
 BBC2 tx September 1982:<br>
-
 5th: ‘The Birth of the Goalie of the  
 2001 F.A. Cup Final’<br>
-
 6th: ‘Old Chums’<br>
-
 7th: ‘Probation’<br>
-
 8th: ‘A Light Snack’<br>
-
 9th: ‘Afternoon’<br>
-
 UK 1975<br>
-
 5 x 5 mins
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI1MTE1NjRdfQ==
+eyJoaXN0b3J5IjpbMjAxNDgxNTM2LC0xMjEyNTExNTY0XX0=
 -->
