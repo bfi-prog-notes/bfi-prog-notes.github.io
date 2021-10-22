@@ -1,10 +1,20 @@
+---
+layout: post
+title: Lovers Rock
+published: true
+date: 2021-10-22
+readtime: true
+categories: ['SMALL AXE']
+tags: [Drama, Music]
+metadata: 'UK 2020, 170 mins<br> Director: Steve McQueen'
+pdf: '2021-10-22-lovers-rock.pdf'
+---
 
 _+ Q&A with director Steve McQueen and actor Dennis Bovell_
 
 _Lovers Rock_, which premiered at the London Film Festival before heading to BBC Two and HBO, is a 70-minute-long hypnotic immersion into a West Indian house party in Notting Hill, where we follow Martha (Amarah-Jae St Aubyn) and her friend Patty (Shaniqua Okwok).
 
-In a directorial tour de force, for most of the film Steve McQueen holds us in the single central room where the party takes place, without making us feel cramped or claustrophobic. To the contrary, as bodies gyrate to the softened reggae sounds played by DJ Samson (Kadeem Ramsay), the room seems imbued with a kind of infinite spatial and temporal expansiveness. The revellers’ refusal to let Janet Kay’s 1979 hit ‘Silly Games’ end, instead starting to sing it  
-a cappella, is one such instance of musical rapture and outstretched time. Cinematographer Shabier Kirchner’s drifting, lingering and wandering camerawork captures fleeting encounters and the thrill of the night as people move on and off the dance floor.
+In a directorial tour de force, for most of the film Steve McQueen holds us in the single central room where the party takes place, without making us feel cramped or claustrophobic. To the contrary, as bodies gyrate to the softened reggae sounds played by DJ Samson (Kadeem Ramsay), the room seems imbued with a kind of infinite spatial and temporal expansiveness. The revellers’ refusal to let Janet Kay’s 1979 hit ‘Silly Games’ end, instead starting to sing it a cappella, is one such instance of musical rapture and outstretched time. Cinematographer Shabier Kirchner’s drifting, lingering and wandering camerawork captures fleeting encounters and the thrill of the night as people move on and off the dance floor.
 
 There isn’t much of a narrative. Events emerge like sudden eruptions on the baseline that is the intoxicating atmosphere of the house party, in a beautiful homage to the vibrant Black subculture of the London of the 1980s.
 
@@ -12,9 +22,8 @@ The house party feels like a world of its own, but we are also reminded of the f
 
 _Lovers Rock_ is part of the BBC-commissioned Small Axe series of five films documenting the lives, struggles and hopes of London’s West Indian community from the 1960s to the 1980s. As the only fiction-based instalment, _Lovers_ _Rock_’s contagious joy and lack of narrative contrasts with the other episodes, addressing more directly historical instances of racial brutality and Black resistance. It comes after _Mangrove_, which told the true story of how a Notting Hill Trinidadian restaurant of the same name was targeted by the racist Metropolitan police, and how an entire community mobilised to defend it.
 
-While _Mangrove_ and _Lovers Rock_ have contrasting tones, from resistance to police brutality on one side to the exhilaration of nightlife on the other, they both offer a deep interrogation of paradigmatic sites of Black life and survival. Indeed the two settings – a restaurant which also serves as a nightclub and an improvised house party which compensates for the lack of Black nightclubs – give a sense of the sites and temporalities of Black life in the city. In a context of global calls for abolition, both films affirm the extent to which the edge of the ‘small axe’ Bob Marley sang about is sharpened by these Black sites of refuge where otherwise worlds are imagined.
-
-Chrystel Oloukoï, bfi.org.uk, 26 October 2020
+While _Mangrove_ and _Lovers Rock_ have contrasting tones, from resistance to police brutality on one side to the exhilaration of nightlife on the other, they both offer a deep interrogation of paradigmatic sites of Black life and survival. Indeed the two settings – a restaurant which also serves as a nightclub and an improvised house party which compensates for the lack of Black nightclubs – give a sense of the sites and temporalities of Black life in the city. In a context of global calls for abolition, both films affirm the extent to which the edge of the ‘small axe’ Bob Marley sang about is sharpened by these Black sites of refuge where otherwise worlds are imagined.<br>
+**Chrystel Oloukoï, bfi.org.uk, 26 October 2020**
 
 Steve McQueen’s _Lovers Rock_ – one of five films in his _Small Axe_ anthology – is an undeniable triumph, in which the milieu of a 1980s house party in West London is beautifully rendered with a realism that affirms the significance of Black lives. A study in Black joy, it submerges the audience in an alcohol- and weed-fuelled, sweat-soaked snapshot, against the backdrop of Thatcher’s London, of a Black Britain where love, music, and dance reign. The heart of the story is the meeting of two young lovers, Martha (Amarah-Jae St Aubyn) and Franklyn (Micheal Ward), as they attend an incredible all-nighter on Ladbroke Road. Bursts of tension interweave the riotous party when Martha’s cousin, Clifton (Kedar Williams-Stirling), crashes the event, and a young woman Cynthia (Ellis George) is assaulted by Bammy (Daniel Francis-Swaby), who is searching for a sexual partner.
 
@@ -69,7 +78,7 @@ _Hair and Make-up Designer_: Jojo Williams
 _Original Score by_: Mica Levi  
 _Sound Mixer_: Ronald Bailey<br>
 
-**Cast**<br>  
+**Cast**<br>
 Amarah-Jae St Aubyn _(Martha)_  
 Micheal Ward _(Franklyn)_  
 Dennis Bovell _(Milton)_  
@@ -105,6 +114,20 @@ Sat 23 Oct 18:30<br>
 Sat 23 Oct 20:45<br>
 **Education**<br>
 Sun 24 Oct 18:10<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzE2NTFdfQ==
--->
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
