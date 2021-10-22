@@ -24,75 +24,46 @@ Indeed, if the climactic family crisis registers with an explosive force – Ryo
 <br><br>
 
 **I WAS BORN, BUT…<br>(OTONA NO MIRU EHON – UMARETE WA MITA KEREDO)**<br>
-
 _Director:_ Yasujiro Ozu<br>
-
 ©: Shochiku Co. Ltd.<br>
-
 _Production Company:_ Shochiku Co. Ltd.<br>
-
 _Assistant Directors:_ Kenkichi Hara, Akira Kiyosuke<br>
-
 _Screenplay:_ Akira Fushimi<br>
-
 _Screenplay Collaborator:_ Geibei Ibusuya<br>
-
 _Based on an idea by:_ James Maki<br>
-
 _Director of Photography:_ Hideo Mohara<br>
-
 _Lighting:_ Toshimitsu Nakajimav
-
 _Camera Assistants:_ Yuharu Atsuta, Masao Irie<br>
-
 _Editor:_ Hideo Mohara<br>
-
 _Art Director:_ Takeshi Kawano<br>
-
 _Set Designers:_ Takejiro Tsunoda, Yoshiro Kimurav
-
 _Set Decorators:_ Shintarô Mimura, Tsunetaro Inoue<br>
-
 _Studio:_ Shochiku Kamata<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Tatsuo Saitô _(Yoshii)_<br>
-
 Mitsuko Yoshikawa _(Yoshii’s wife)_<br>
-
 Hideo Sugawara _(Ryoichi, Yoshii’s elder son)_<br>
-
 Kozo Tokkan _(Keiji, Yoshii’s younger son)_<br>
-
 Takeshi Sakamoto _(Iwasaki, Yoshii’s boss)_<br>
-
 Teruyo Hayami _(Iwasaki’s wife)_<br>
-
 Seiichi Kato _(Taro, Iwasaki’s son)_<br>
-
 Shoichi Kofujita _(delivery boy)_<br>
-
 Seiji Nishimura _(schoolmaster)_<br>
-
-Zentaro Ijima, Shojaro Fujimatsu,
-
-Masao Hayama, Michiyo Sato Kuniyasu, Hayashi, Akio Nomura, Teruaki Ishiwatari<br>
-
+Zentaro Ijima, Shojaro Fujimatsu, Masao Hayama, Michiyo Sato Kuniyasu, Hayashi, Akio Nomura, Teruaki Ishiwatari<br>
 Chishu Ryu _(projectionist)_ *<br>
 
 Japan 1932©<br>
-
 90 mins
 
-* Uncredited
+*Uncredited
 
 With Ed Hughes and New Music Ensemble score (Sat 23 Oct)
 
 With live musical accompaniment by Meg Morley (Sun 28 Nov)
 
-Introduction by Bryony Dixon,  
-BFI National Archive curator (Sun 28 Nov)
+Introduction by Bryony Dixon,  BFI National Archive curator (Sun 28 Nov)
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Mjc0ODY0Ml19
+eyJoaXN0b3J5IjpbLTkzOTU2ODg0Nl19
 -->
