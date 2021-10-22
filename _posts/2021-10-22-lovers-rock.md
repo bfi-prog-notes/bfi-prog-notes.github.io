@@ -96,23 +96,15 @@ Fri 22 Oct 17:30<br>
 **Lovers Rock + Q&A with director Steve McQueen and actor Dennis Bovell**<br>
 Fri 22 Oct 20:50<br>
 **Sonic Cinema Presents: Lovers Rock After Party**<br>
-Fri 22 Oct (Spiritland in Royal Festival Hall) 22:00-02:00
-
-**Talk: The Making of Small Axe with Steve McQueen, Tracey Scoffield, David Tanner and guests**
-
-Sat 23 Oct 16:00
-
-**Red, White and Blue**
-
-Sat 23 Oct 18:30
-
-**Alex Wheatle**
-
-Sat 23 Oct 20:45
-
-**Education**
-
-Sun 24 Oct 18:10
+Fri 22 Oct (Spiritland in Royal Festival Hall) 22:00-02:00<br>
+**Talk: The Making of Small Axe with Steve McQueen, Tracey Scoffield, David Tanner and guests**<br>
+Sat 23 Oct 16:00<br>
+**Red, White and Blue**<br>
+Sat 23 Oct 18:30<br>
+**Alex Wheatle**<br>
+Sat 23 Oct 20:45<br>
+**Education**<br>
+Sun 24 Oct 18:10<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2NzQ3MjQ3XX0=
+eyJoaXN0b3J5IjpbLTg1NzE2NTFdfQ==
 -->
