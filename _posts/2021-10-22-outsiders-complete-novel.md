@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Outsiders<br> The Complete Novel
+published: true
+date: 2021-10-22
+readtime: true
+categories: ['RE-RELEASES']
+tags: [Drama, Crime]
+metadata: 'USA 1983, 114 mins<br> Director: Francis Coppola'
+pdf: '2021-10-22-outsiders-complete-novel.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -113,6 +124,38 @@ USA 1983<br>
 114 mins<br>
 
 Courtesy of Studiocanal<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTYwNzIxMV19
--->
+
+**NEW RELEASES**<br>
+**Never Gonna Snow Again  
+(Sniegu juz nigdy nie bedzie)**<br>
+From Fri 22 Oct<br>
+**Petite Maman**<br>
+From Fri 26 Nov<br>
+**Rebel Dykes**<br>
+From Fri 26 Nov (+ Q&A Fri 26 Nov 18:20)<br>
+
+**RE-RELEASES**<br>
+**The Outsiders The Complete Novel**<br>
+From Fri 22 Oct<br>
+**Seven Samurai (Shichinin no Samurai)**<br>
+From Fri 29 Oct<br>
+**Naked**<br>
+From Fri 12 Nov; Sat 13 Nov 17:20 (+ Q&A with director Mike Leigh, David Thewlis and Lesley Sharp)<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
