@@ -20,7 +20,8 @@ As Tarantino did with Los Angeles in _Once upon a Time in Hollywood_, Wright and
 
 However, the fantasy turns into a nightmare as Sandy takes up with a manager, Jack (Matt Smith), who promises to make her a star but then leads her into a life of sexual exploitation and abuse. The past begins to bleed into Ellie’s waking life as Sandy’s life becomes more and more intolerable, and the men who abused Sandy haunt her, their faces a horrible blur. It is a testament to Thomasin McKenzie’s performance that she manages to maintain a lightness while at the same time suggesting a woman who could also be slipping into madness. As she tells her grandmother before leaving for London, she’s a scrapper.
 
-_Last Night in Soho_ has the energy of a Jacques Demy musical, with a cavalcade of period hits and musical sequences, including a breathtaking a cappella performance of ‘Downtown’ and a thrilling dance scene that has Sandy and Ellie swap places as Jack spins them across the floor. Mixed in are references to George Romero, Michael Powell’s _Peeping Tom_ (1960) and _10 Rillington Place_ (1971). Wright has created a fascinating melange, a mix tape of different genres, light and dark, pop and profound. It has the exhilaration of an old fairground ride, where there’s always a risk that the rackety contraption might fly to pieces. But somehow Wright and co-screenwriter Krysty Wilson-Cairns manage to hold things together, even as they spin faster and faster.
+_Last Night in Soho_ has the energy of a Jacques Demy musical, with a cavalcade of period hits and musical sequences, including a breathtaking a cappella performance of ‘Downtown’ and a thrilling dance scene that has Sandy and Ellie swap places as Jack spins them across the floor. Mixed in are references to George Romero, Michael Powell’s _Peeping Tom_ (1960) and _10 Rillington Place_ (1971). Wright has created a fascinating melange, a mix tape of different genres, light and dark, pop and profound. It has the exhilaration of an old fairground ride, where there’s always a risk that the rackety contraption might fly to pieces.  
+But somehow Wright and co-screenwriter Krysty Wilson-Cairns manage to hold things together, even as they spin faster and faster.
 
 The past might be idealised but it isn’t as if the present is perfect. On arriving in London, Ellie is harassed by a taxi driver whose patter quickly turns threatening. The appeal of the past is partly to escape the feeling that, as Blur once told us, modern life is rubbish. But if, as Freud argued, nightmares can be disguised fantasies, so it makes sense that fantasies can also hide nightmares. Wright’s film reminds us that the past may have looked and sounded great, but it had bad breath and a dangerous temper.<br>
 **John Bleasdale, _Sight and Sound,_ November 2021**<br>
@@ -111,7 +112,7 @@ Pauline McLynn _(Carol)_
 Josh Zare _(student at party)_  
 Jacqui-Lee Pryce _(college administrator)_  
 Elizabeth Berrington _(Ms Tobin)_  
-James Phelps, Oliver Phelps _(cloakroom attendants)_  
+James Phelps, Oliver Phelps _ (cloakroom attendants)_  
 Beth Singh _(Cilla Black)_  
 Paul Brightwell _(Cubby)_  
 Will Rogers _(Café de Paris bartender)_  
@@ -128,12 +129,15 @@ Wayne Cater _(punter 4)_
 Sam Parks _(punter 6)_  
 Alan Ruscoe _(punter 7)_  
 Margaret Nolan _(Sage barmaid)_  
-Christopher Carrico, Ian Harrod, Ian Hartley, Luke Hope, Kent Goldfinch, Daniel Maggott, Richard O’Sullivan _(additional punters)_  
+Christopher Carrico, Ian Harrod, Ian Hartley,  
+Luke Hope,  Kent Goldfinch, Daniel Maggott,  
+Richard O’Sullivan _(additional punters)_  
 Michael Jibson _(male detective)_  
 Lisa McGrillis _(female detective)_  
 Al Roberts _(librarian)_  
 Derek Lea _(taxi driver 2)_  
-Melissa Fox, Jodie Hassell, Stephanie Lamey, Amy Andrea Murray, Alison Parsons, Ashley Shaw _(Rialto dancers)_<br>
+Melissa Fox, Jodie Hassell, Stephanie Lamey,  
+Amy Andrea Murray, Alison Parsons, Ashley Shaw _(Rialto dancers)_<br>
 
 USA/UK 2021<br>
 116 mins<br>
@@ -157,3 +161,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NzcwMzkxNF19
+-->
