@@ -49,136 +49,135 @@ I often wonder if the BBC now is of a mind to do the same for the young, uncateg
 
 **The Five Minute Films**  
 _The Five Minute Films_ have some lovely gems: female afternoon drinkers, a glum goalkeeper, Richard Griffiths as a window cleaner eyeing up a sausage roll...
+<br><br>
 
-<![endif]-->
 
-**Play for Today: Hard Labour**
+**PLAY FOR TODAY: HARD LABOUR**<br>
+_Director/Devised by:_ Mike Leigh<br>
 
-_Director/Devised by:_ Mike Leigh
+_Production Company:_ BBC<br>
 
-_Production Company:_ BBC
-
-_Producer:_ Tony Garnett
+_Producer:_ Tony Garnett<br>
 
 _Production Team:_ Roger Bamford, Roy Baker,
 
-Spike Hughes, Irene East
+Spike Hughes, Irene East<br>
 
-_Film Cameraman:_ Tony Pierce-Roberts
+_Film Cameraman:_ Tony Pierce-Roberts<br>
 
-_Editor:_ Christopher Rowlands
+_Editor:_ Christopher Rowlands<br>
 
-_Design:_ Paul Munting
+_Design:_ Paul Munting<br>
 
-_Costumes:_ Sally Nieper
+_Costumes:_ Sally Nieper<br>
 
-_Sound:_ Dick Manton
+_Sound:_ Dick Manton<br>
 
-_Cast:_
+_Cast:_<br>
 
-Liz Smith _(Mrs Thornley)_
+Liz Smith _(Mrs Thornley)_<br>
 
-Clifford Kershaw _(Jim Thornley)_
+Clifford Kershaw _(Jim Thornley)_<br>
 
-Polly Hemingway _(Ann Thornley)_
+Polly Hemingway _(Ann Thornley)_<br>
 
-Bernard Hill _(Edward Thornley)_
+Bernard Hill _(Edward Thornley)_<br>
 
-Alison Steadman _(Veronica)_
+Alison Steadman _(Veronica)_<br>
 
-Vanessa Harris _(Mrs Lily Stone)_
+Vanessa Harris _(Mrs Lily Stone)_<br>
 
-Cyril Varley _(Mr Stone)_
+Cyril Varley _(Mr Stone)_<br>
 
-Linda Beckett _(Julie)_
+Linda Beckett _(Julie)_<br>
 
-Ben Kingsley _(Naseem)_
+Ben Kingsley _(Naseem)_<br>
 
-Alan Erasmus _(Barry)_
+Alan Erasmus _(Barry)_<br>
 
-Rowena Parr _(June)_
+Rowena Parr _(June)_<br>
 
-June Whitaker _(Mrs Rigby)_
+June Whitaker _(Mrs Rigby)_<br>
 
-Paula Tilbrook _(Mrs Thornley’s friend)_
+Paula Tilbrook _(Mrs Thornley’s friend)_<br>
 
-Keith Washington _(Mr Shaw)_
+Keith Washington _(Mr Shaw)_<br>
 
-Louis Raynes _(tallyman)_
+Louis Raynes _(tallyman)_<br>
 
-Alan Gerrard _(Harry, greengrocer)_
+Alan Gerrard _(Harry, greengrocer)_<br>
 
-Diana Flacks _(Mrs Betty Rubens)_
+Diana Flacks _(Mrs Betty Rubens)_<br>
 
-Patrick Durkin _(Frank)_
+Patrick Durkin _(Frank)_<br>
 
-Ian East _(Dick)_
+Ian East _(Dick)_<br>
 
-Dennis Barry _(old man)_
+Dennis Barry _(old man)_<br>
 
-Sonny Farrar _(publican)_
+Sonny Farrar _(publican)_<br>
 
-Surya Kumari _(Sikh lady)_
+Surya Kumari _(Sikh lady)_<br>
 
-Irene Gawne _(sister)_
+Irene Gawne _(sister)_<br>
 
-Hal Jeayes _(priest)_
+Hal Jeayes _(priest)_<br>
 
-BBC1 tx 12.3.1973
+BBC1 tx 12.3.1973<br>
 
 UK 1973
 
 70 mins
 
-**The Five Minute Films**
+**The Five Minute Films**<br>
 
-_Director/Devised by:_ Mike Leigh
+_Director/Devised by:_ Mike Leigh<br>
 
-_Production Company:_ BBC
+_Production Company:_ BBC<br>
 
-_Producer:_ Tony Garnett
+_Producer:_ Tony Garnett<br>
 
-_Production Assistant:_ Bernadette Boyle
+_Production Assistant:_ Bernadette Boyle<br>
 
-_Director of Photography:_ Brian Tufano
+_Director of Photography:_ Brian Tufano<br>
 
-_Editor:_ Chris Lovett
+_Editor:_ Chris Lovett<br>
 
 _Costumes:_ Robin Fraser-Paye, Judy Allen,
 
-Susan Wheal
+Susan Wheal<br>
 
-_Sound:_ Andrew Boulton
+_Sound:_ Andrew Boulton<br>
 
-_Cast:_
+_Cast:_<br>
 
-_The Birth of the Goalie of the 2001 F.A. Cup Final_
+_The Birth of the Goalie of the 2001 F.A. Cup Final_<br>
 
-Richard Ireson _(father)_
+Richard Ireson _(father)_<br>
 
-Celia Quicke _(mother)_
+Celia Quicke _(mother)_<br>
 
-_Old Chums_
+_Old Chums_<br>
 
-Tim Stern _(Brian)_
+Tim Stern _(Brian)_<br>
 
-Robert Putt _(Terry)_
+Robert Putt _(Terry)_<br>
 
-_A Light Snack_
+_A Light Snack_<br>
 
-Margaret Heery _(Mrs. White)_
+Margaret Heery _(Mrs. White)_<br>
 
-Richard Griffiths _(the window cleaner)_
+Richard Griffiths _(the window cleaner)_<br>
 
-Alan Gaunt _(the talker)_
+Alan Gaunt _(the talker)_<br>
 
-David Casey _(the listener)_
+David Casey _(the listener)_<br>
 
-_Probation_
+_Probation_<br>
 
-Herbert Norville _(Arbley)_
+Herbert Norville _(Arbley)_<br>
 
-Bill Colville _(Sid)_
+Bill Colville _(Sid)_<br>
 
 Antony Carrick _(Mr Davies)_
 
@@ -211,5 +210,5 @@ UK 1975
 
 5 x 5 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTA0NzQ1XX0=
+eyJoaXN0b3J5IjpbMTE5NDU3OTc3Ml19
 -->
