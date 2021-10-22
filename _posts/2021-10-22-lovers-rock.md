@@ -22,30 +22,22 @@ McQueen is expert at immersing audiences in his characters’ experiences; as th
 
 One scene of particular brilliance involves a long take of a heaving dancefloor, the DJ playing Janet Kay’s 1979 hit ‘Silly Games’. The crowd knows the song word for word, and after it ends, there is a communal a capella. The shuffling of feet and swinging of arms become graceful, balletic, and the camera’s close attention pulls the viewer into this world, to experience it through the Black gaze. As Kay’s honeyed tones are replaced by those of the dancing crowd – eyes closed and smiles beaming – it feels as though one is in the room.  The immense house, where most of the drama occurs, is a haven: as the party develops, it is clear that beyond its walls the threat of violence is never far off. However, McQueen is not afraid to critique Black patriarchy here, as sexual assault creeps into the frame. Both joyful and at times sinister, the raucous and adrenaline-fuelled celebration in _Lovers Rock_ depicts a microcosm of different Black lives in Britain’s past.
 
-The focal point though, is Martha and Franklyn’s instant magnetism, which develops into an all-night romance as they dance and converse. Through their storyline, McQueen shows us a life-like, yet magical, relationship between two young people. It is uncommon to see such an accurate depiction of conversations in patois, which highlight the sense of significance and community in finding one’s kindred. In one striking scene, when the two lovers are interrupted as they retreat to his workplace, Franklyn’s speech slips from his usual musical, almost Shakespearean patois into a cockneyfied accent to appease his white boss. This may sound mundane – in a way it is – but it emphasises how exceptional this film is, making my heart swell with joy, recognition, and sadness. It arrives at a high point, the vivacity of the house party giving way to an oasis of calm. One sequence in particular endures, a morning bike ride that becomes an emblem of bliss and sanctuary in a divided city. In this lovely film, Steve McQueen proudly declares that Black love rocks.
+The focal point though, is Martha and Franklyn’s instant magnetism, which develops into an all-night romance as they dance and converse. Through their storyline, McQueen shows us a life-like, yet magical, relationship between two young people. It is uncommon to see such an accurate depiction of conversations in patois, which highlight the sense of significance and community in finding one’s kindred. In one striking scene, when the two lovers are interrupted as they retreat to his workplace, Franklyn’s speech slips from his usual musical, almost Shakespearean patois into a cockneyfied accent to appease his white boss. This may sound mundane – in a way it is – but it emphasises how exceptional this film is, making my heart swell with joy, recognition, and sadness. It arrives at a high point, the vivacity of the house party giving way to an oasis of calm. One sequence in particular endures, a morning bike ride that becomes an emblem of bliss and sanctuary in a divided city. In this lovely film, Steve McQueen proudly declares that Black love rocks.<br>
+**Nadine Deller, _Sight & Sound_, December 2020**
 
-Nadine Deller, _Sight & Sound_, December 2020
-
-<![endif]-->
-
-**Lovers Rock**
-
+**LOVERS ROCK**<br>
 _Directed by_: Steve McQueen  
 _©_: Small Axe Productions Ltd  
 _A_ Turbine Studios _production_  
 _A_ Lammas Park _production_  
 _In association with_: Amazon Studios, Emu Films, BBC Studios Distribution, Six Temple Productions  
 _Presented by_: BBC Films  
-_Executive Producers_: Tracey Scoffield,
-
-David Tanner, Steve McQueen, Lucy Richer  
+_Executive Producers_: Tracey Scoffield, David Tanner, Steve McQueen, Lucy Richer  
 _Executive Producer_: Rose Garnett  
 _Produced by_: Anita Overland, Michael Elliott  
 _Line Producer_: Robyn Forsythe  
 _Associate Producer_: Helen Bart  
-_Associate Producer for Turbine Studios_:
-
-Charlotte Andrews  
+_Associate Producer for Turbine Studios_: Charlotte Andrews  
 _Associate Producer for Lammas Park_: Susan Dolan  
 _Production Co-ordinator_: Liane Escorza  
 _Supervising Location Manager_: Elliott Meddings  
@@ -75,9 +67,9 @@ _Costume Supervisor_: Hannah Warren
 _Hair and Make-up Supervisor_: Sally Tynan  
 _Hair and Make-up Designer_: Jojo Williams  
 _Original Score by_: Mica Levi  
-_Sound Mixer_: Ronald Bailey
+_Sound Mixer_: Ronald Bailey<br>
 
-_Cast__:_  
+**Cast**<br>  
 Amarah-Jae St Aubyn _(Martha)_  
 Micheal Ward _(Franklyn)_  
 Dennis Bovell _(Milton)_  
@@ -92,28 +84,18 @@ Francis Lovehall _(Reggie)_
 Shaniqua Okwok _(Patty)_  
 Kadeem Ramsay _(Samson)_  
 Kedar Williams-Stirling _(Clifton)_  
-Romario Simpson _(Lizard)_
+Romario Simpson _(Lizard)_<br>
 
-UK 2020
+UK 2020<br>
+70 mins<br>
 
-70 mins
 
-<![endif]-->
-
-SMALL AXE
-
-A COLLECTION OF FIVE FILMS
-
-**Mangrove + Q&A with director Steve McQueen and Small Axe Consultant Paul Gilroy**
-
-Fri 22 Oct 17:30
-
-**Lovers Rock + Q&A with director Steve McQueen and actor Dennis Bovell**
-
-Fri 22 Oct 20:50
-
-**Sonic Cinema Presents: Lovers Rock After Party**
-
+**SMALL AXE A COLLECTION OF FIVE FILMS**<br>
+**Mangrove + Q&A with director Steve McQueen and Small Axe Consultant Paul Gilroy**<br>
+Fri 22 Oct 17:30<br>
+**Lovers Rock + Q&A with director Steve McQueen and actor Dennis Bovell**<br>
+Fri 22 Oct 20:50<br>
+**Sonic Cinema Presents: Lovers Rock After Party**<br>
 Fri 22 Oct (Spiritland in Royal Festival Hall) 22:00-02:00
 
 **Talk: The Making of Small Axe with Steve McQueen, Tracey Scoffield, David Tanner and guests**
@@ -132,5 +114,5 @@ Sat 23 Oct 20:45
 
 Sun 24 Oct 18:10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Mjc0NTEwNV19
+eyJoaXN0b3J5IjpbMjM2NzQ3MjQ3XX0=
 -->
