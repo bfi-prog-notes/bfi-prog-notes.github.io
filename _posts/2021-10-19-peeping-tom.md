@@ -35,12 +35,13 @@ Tinkering with Freudian theories (as Powell and Leo Marks began their collaborat
 	
 _uncredited_Producer:_ Michael Powell<br>Associate Producer:_ Albert Fennell_2nd Assistant Director:_ Denis Johnson<br> 3rd Assistant Director:_ Carl ManninFocus Puller:_ Derek BrowneClapper Loader:_ Jim Hopewell<Stills:_ Norman Gryspeerdt<br> 1st Assistant Editor:_ Alma Godfrey<br> 2nd Assistant Editor:_ John Rushton<br> Draughtsman:_ Maurice Pelling<br> Wardrobe Assistant:_ Vi Garnham_Studio:_ Piewood Studios<br>
 
-**Cast**:<br>
+**Cast**<br>
 Carl Boehm _(Mark Lewis)Moira Shearer _(Vivian)Anna Massey _(Helen Stephens)Maxine Audley _(Mrs Stephens)Brenda Bruce _(Dora)Miles Malleson _(elderly gentleman)Esmond Knight _(Arthur Baden)Martin Miller _(Dr Rosan)Michael Goodliffe _(Don Jarvis)Jack Watson _(Inspector Gregg)Shirley Ann Field _(Diane Ashley)Pamela Green _(Milly)_<br>
 
 _uncreditedBartlett Mullins _(Mr Peters)Nigel Davenport _(Sgt Miller)Brian Wallace _(Tony)Susan Travers _(Lorraine)Maurice Durant _(publicity chief)Brian Worth _(assistant director)Veronica Hurst _(Miss Simpson)Alan Rolfe _(store detective)John Dunbar _(police doctor)Guy Kingsley-Poynter _(P. Tate, cameraman)Keith Baxter _(Baxter, detective)Peggy Thorpe-Bates _(Mrs Partridge)John Barrard _(small man)Roland Curram _(young man extra)Robert Crewdson _(tall shop assistant)John Chappell _(clapper boy)Paddy Edwardes _(girl extra)Frank Singuineau _(first electrician)Margaret Neal _(stepmother)Michael Powell _(A.N. Lewis, Mark’s father)Columba Powell _(Mark as a child)_<br> 
 
-UK 1960©102 mins
+UK 1960©<br>
+102 mins
 <br><br>
 
 **EDGAR WRIGHT’S  LONDON AFTER DARK**<br>
@@ -94,6 +95,6 @@ Questions/comments? Contact the Programme Notes team by [email](mailto: prognote
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Mjk5NTkyMiwtMTAwODQwODkzOCwtNT
-g3ODgxODI3LC0xMjMwNTgyMDIyXX0=
+eyJoaXN0b3J5IjpbLTE1MDY2NTYzNzYsLTI2Mjk5NTkyMiwtMT
+AwODQwODkzOCwtNTg3ODgxODI3LC0xMjMwNTgyMDIyXX0=
 -->
