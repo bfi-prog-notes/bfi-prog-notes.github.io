@@ -1,3 +1,14 @@
+---
+layout: post
+title: Never Gonna Snow Again
+published: true
+date: 2021-10-22
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Comedy, Drama, Mystery]
+metadata: 'Poland-Germany-Netherlands 2020, 113 mins<br> Director: Małgorzata Szumowska'
+pdf: '2021-10-22-never-gonna-snow-again.pdf'
+---
 
 To visit Małgorzata Szumowska’s Warsaw apartment is to meet one of the stars of the Polish director’s latest film, _Never Gonna Snow Again_: a charismatic British bulldog named Borys, who, having made his appearance, heads straight to the sofa for a snooze. ‘Borys was very happy making the film,’ Szumowska says, laughing. ‘He had amazing companions in his bulldog costars. And everyone gave him their lunch.’
 
@@ -7,11 +18,9 @@ The ‘problems and issues’ explored in _Never Gonna Snow Again_ by Szumowska 
 
 Its gated community of McMansions is inhabited by various types of competitive and consumerist middle- and upper-middle-class characters who are burdened by illness, dissatisfaction and malaise. Shot in steely tones, with windows and reflections used particularly expressively to convey a sense of both the physical proximity of the neighbours’ houses and the emotional distance of the inhabitants themselves, the film continues the concern with community dynamics that permeates _Mug_ and Szumowska’s English-language debut, the cult drama _The Other Lamb_ (2019). It also develops what critic Savina Petkova has previously identified as the director’s preoccupation with ‘individual suffering and the social significance of care’.
 
-On her very first visit to the estate where the film was shot, Szumowska was surprised by the scale of the development, which has become popular among some members of a Polish generation caught between memories of the communist past and wholesale embracing of the capitalist present. ‘These residents really want to be cut off from social problems, from poverty.  
-The paradox is that we’re hearing stories that kids there are having major issues with alcohol and drugs,’ says Szumowska who, with characteristic wit, casts her own son, Maciej Drosio, in the film – as a chemistry prodigy putting his skills to use with some neighbourhood drug-dealing. ‘Perhaps it looks like freedom, but I think they’re creating a trap for themselves.’
+On her very first visit to the estate where the film was shot, Szumowska was surprised by the scale of the development, which has become popular among some members of a Polish generation caught between memories of the communist past and wholesale embracing of the capitalist present. ‘These residents really want to be cut off from social problems, from poverty. The paradox is that we’re hearing stories that kids there are having major issues with alcohol and drugs,’ says Szumowska who, with characteristic wit, casts her own son, Maciej Drosio, in the film – as a chemistry prodigy putting his skills to use with some neighbourhood drug-dealing. ‘Perhaps it looks like freedom, but I think they’re creating a trap for themselves.’
 
-Into this moneyed milieu, _Never Gonna Snow Again_ introduces an outsider figure, Zhenia, a Russian-speaking Ukrainian masseur (played by Alec Utgoff, who was cast after Drosio encouraged his mother to watch the actor as  
-Dr Alexei in Season 3 of _Stranger Things_). He provides his services mostly to the estate’s eager women but also to a couple of its men – Łukasz Simlat’s cancer-sufferer and Andrzej Chyra’s belligerent ex-soldier – as well as to one of Borys’s canine co-stars, a flatulent bulldog diagnosed by his highly strung owner (Katarzyna Figura) as ‘apathetic’.
+Into this moneyed milieu, _Never Gonna Snow Again_ introduces an outsider figure, Zhenia, a Russian-speaking Ukrainian masseur (played by Alec Utgoff, who was cast after Drosio encouraged his mother to watch the actor as Dr Alexei in Season 3 of _Stranger Things_). He provides his services mostly to the estate’s eager women but also to a couple of its men – Łukasz Simlat’s cancer-sufferer and Andrzej Chyra’s belligerent ex-soldier – as well as to one of Borys’s canine co-stars, a flatulent bulldog diagnosed by his highly strung owner (Katarzyna Figura) as ‘apathetic’.
 
 Zhenia, it becomes clear, has ‘magic hands’ in a literal sense, possessing special skills of empathy and awareness that enable him to take others ‘deep inside themselves’ and alleviate their pain. Spread out on his folding bed, the clients find themselves hypnotised into a contemplative dream state – visualised as a forest space similar to the one from which we see the protagonist mysteriously emerge in the film’s sci-fi-tinged opening sequence.
 
@@ -34,8 +43,7 @@ _Production Companies_: Lava Films, Match Factory Productions
 _In co-production with_: Kino Swiat, Mazowieckim I Warszawskim Funduszem Filmowym, DI Factory, Bayerischer Rundfunk  
 _In association with_: ARTE  
 _And the financial support of_: Polskiego Instytutu Sztuki Filmowej, Film- und Medienstiftung NRW, Deutscher Filmförderfonds, Polsko-Niemieckiego Funduszu Filmowego, Cinecopro Award  
-_Producers_: Agnieszka Wasiak, Mariusz Włodarski,  Viola Fügen Michael Weber,
-Małgorzata Szumowska, Michał Englert  
+_Producers_: Agnieszka Wasiak, Mariusz Włodarski,  Viola Fügen Michael Weber, Małgorzata Szumowska, Michał Englert  
 _Casting_: Magdalena Szwarcbart  
 _Written by_: Małgorzata Szumowska, Michał Englert  
 _Director of Photography_: Michał Englert  
@@ -81,6 +89,21 @@ From Fri 22 Oct<br>
 From Fri 29 Oct<br>
 **Naked**<br>
 From Fri 12 Nov; Sat 13 Nov 17:20 (+ Q&A with director Mike Leigh, David Thewlis and Lesley Sharp)<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0MzYyMzkwLDIwMjUyNzMyMjZdfQ==
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
