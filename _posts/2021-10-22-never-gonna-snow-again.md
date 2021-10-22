@@ -62,6 +62,25 @@ Krzysztof Czeczot _(Maria’s husband)_<br>
 
 Poland-Germany-Netherlands 2020<br>
 113 mins<br>
+<br>
+
+
+**NEW RELEASES**<br>
+**Never Gonna Snow Again  
+(Sniegu juz nigdy nie bedzie)**<br>
+From Fri 22 Oct<br>
+**Petite Maman**<br>
+From Fri 26 Nov<br>
+**Rebel Dykes**<br>
+From Fri 26 Nov (+ Q&A Fri 26 Nov 18:20)<br>
+
+**RE-RELEASES**<br>
+**The Outsiders The Complete Novel**<br>
+From Fri 22 Oct<br>
+**Seven Samurai (Shichinin no Samurai)**<br>
+From Fri 29 Oct<br>
+**Naked**<br>
+From Fri 12 Nov; Sat 13 Nov 17:20 (+ Q&A with director Mike Leigh, David Thewlis and Lesley Sharp)<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDY4MzEwMiwyMDI1MjczMjI2XX0=
+eyJoaXN0b3J5IjpbOTk0MzYyMzkwLDIwMjUyNzMyMjZdfQ==
 -->
