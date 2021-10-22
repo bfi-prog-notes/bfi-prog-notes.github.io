@@ -23,45 +23,34 @@ In this way, the film highlights and satirises – and perhaps also endorses –
 
 _Never Gonna Snow Again_ has been charged with easy mockery of its suburban subjects, too. But despite its wintry setting, the new film emerges as one of Szumowska’s warmest works, boasting a beautiful Kieślowski-like climax that plays out to the strains of Polish pianist Hania Rani’s luminous composition ‘Glass’. Szumowska previously used the piece in ‘Nightwalk’, her queer-themed 2020 contribution to _Women’s Tales_, a series of short films produced by the fashion brand Miu Miu, and in _Never Gonna Snow Again_ it serves as the culmination of a dreamy classical soundscape, one that contrasts with the pop and rock more frequently employed in Szumowska’s films. ‘I love pop music and the energy it can bring to a scene,’ Szumowska says. ‘My son will catch me listening to Justin Bieber! But pop wasn’t right for this film, which needed something more contemplative.’
 
-Citing her ongoing creative partnership with her ex-husband Englert (her cinematographer and co-screenwriter since the pair met at Łódź Film School in the 1990s) as an example of productive male/female collaboration, Szumowska believes that the current emphasis on female filmmakers has become ‘a bit artificial’ but that ‘it’s better that this wave is happening than not’. She is positive, too, about contemporary Polish cinema generally, highlighting the provocative work of Agnieszka Smoczyńska, Jan Komasa and Jagoda Szelc as among its brightest hopes. ‘We’re part of Europe, whatever the current government might want to do about that,’ Szumowska says. ‘So it’s important that filmmakers here have a broad outlook, telling universal stories with roots in Poland. That’s our power.’
+Citing her ongoing creative partnership with her ex-husband Englert (her cinematographer and co-screenwriter since the pair met at Łódź Film School in the 1990s) as an example of productive male/female collaboration, Szumowska believes that the current emphasis on female filmmakers has become ‘a bit artificial’ but that ‘it’s better that this wave is happening than not’. She is positive, too, about contemporary Polish cinema generally, highlighting the provocative work of Agnieszka Smoczyńska, Jan Komasa and Jagoda Szelc as among its brightest hopes. ‘We’re part of Europe, whatever the current government might want to do about that,’ Szumowska says. ‘So it’s important that filmmakers here have a broad outlook, telling universal stories with roots in Poland. That’s our power.’<br>
+**Alex Ramon_, Sight and Sound_, November 2021**<br>
 
-Alex Ramon_, Sight and Sound_, November 2021
-
-
-**NEVER GONNA SNOW AGAIN (ŚNIEGU JUŻ NIGDY NIE BĘDZIE)**
-
+**NEVER GONNA SNOW AGAIN (ŚNIEGU JUŻ NIGDY NIE BĘDZIE)**<br>
 _Director_: Małgorzata Szumowska  
 _In collaboration with_: Michałem Englertem  
 _©_: Z.o.o. Lava Films Sp, Match Factory GmbH, Mazowiecki Instytut Kultury, Kino Swiat Sp. z.o.o.  
-_Production Companies_: Lava Films,
-
-Match Factory Productions  
+_Production Companies_: Lava Films, Match Factory Productions  
 _In co-production with_: Kino Swiat, Mazowieckim I Warszawskim Funduszem Filmowym, DI Factory, Bayerischer Rundfunk  
 _In association with_: ARTE  
 _And the financial support of_: Polskiego Instytutu Sztuki Filmowej, Film- und Medienstiftung NRW, Deutscher Filmförderfonds, Polsko-Niemieckiego Funduszu Filmowego, Cinecopro Award  
-_Producers_: Agnieszka Wasiak, Mariusz Włodarski,  
-Viola Fügen Michael Weber,
-
+_Producers_: Agnieszka Wasiak, Mariusz Włodarski,  Viola Fügen Michael Weber,
 Małgorzata Szumowska, Michał Englert  
 _Casting_: Magdalena Szwarcbart  
 _Written by_: Małgorzata Szumowska, Michał Englert  
 _Director of Photography_: Michał Englert  
-_Stills Photography_: Jacek Drygala,
-
-Wolfgang Ennenbach  
+_Stills Photography_: Jacek Drygala, Wolfgang Ennenbach  
 _Special Effects Co-ordinator_: Janusz Bykowski, Volker Lorig  
 _Editors_: Agata Cierniak, Jaroslaw Kaminski  
 _Art Director_: Jagna Janicka  
 _Costume Designer_: Katarzyna Lewinska  
 _Make-up_: Waldemar Pokromski  
 _Hair_: Kaeper Raczkowski  
-_Sound_: Marcin Jachyra, Marcin Kasinski,
-
-Kacper Habisiak  
+_Sound_: Marcin Jachyra, Marcin Kasinski, Kacper Habisiak  
 _Re-recording Mixer_: Filip Krzemien  
-_Stunt Co-ordinator_: Grzegorz Jurek
+_Stunt Co-ordinator_: Grzegorz Jurek<br>
 
-_Cast:_  
+**Cast**<br>  
 Alec Utgoff _(Zhenia)_  
 Maja Ostaszewska _(Maria)_  
 Agata Kulesza _(Ewa)_  
@@ -69,11 +58,10 @@ Weronika Rosati _(Wika)_
 Katarzyna Figura _(Gucci)_  
 Lukasz Simlat _(Wika’s husband)_  
 Andrzej Chyra _(captain)_  
-Krzysztof Czeczot _(Maria’s husband)_
+Krzysztof Czeczot _(Maria’s husband)_<br>
 
-Poland-Germany-Netherlands 2020
-
-113 mins
+Poland-Germany-Netherlands 2020<br>
+113 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTI3MzIyNl19
+eyJoaXN0b3J5IjpbMTAxMDY4MzEwMiwyMDI1MjczMjI2XX0=
 -->
