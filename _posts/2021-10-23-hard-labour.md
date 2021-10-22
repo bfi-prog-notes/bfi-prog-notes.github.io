@@ -54,79 +54,43 @@ _The Five Minute Films_ have some lovely gems: female afternoon drinkers, a glum
 
 **PLAY FOR TODAY: HARD LABOUR**<br>
 _Director/Devised by:_ Mike Leigh<br>
-
 _Production Company:_ BBC<br>
-
 _Producer:_ Tony Garnett<br>
-
-_Production Team:_ Roger Bamford, Roy Baker,
-
-Spike Hughes, Irene East<br>
-
+_Production Team:_ Roger Bamford, Roy Baker, Spike Hughes, Irene East<br>
 _Film Cameraman:_ Tony Pierce-Roberts<br>
-
 _Editor:_ Christopher Rowlands<br>
-
 _Design:_ Paul Munting<br>
-
 _Costumes:_ Sally Nieper<br>
-
 _Sound:_ Dick Manton<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Liz Smith _(Mrs Thornley)_<br>
-
 Clifford Kershaw _(Jim Thornley)_<br>
-
 Polly Hemingway _(Ann Thornley)_<br>
-
 Bernard Hill _(Edward Thornley)_<br>
-
 Alison Steadman _(Veronica)_<br>
-
 Vanessa Harris _(Mrs Lily Stone)_<br>
-
 Cyril Varley _(Mr Stone)_<br>
-
 Linda Beckett _(Julie)_<br>
-
 Ben Kingsley _(Naseem)_<br>
-
 Alan Erasmus _(Barry)_<br>
-
 Rowena Parr _(June)_<br>
-
 June Whitaker _(Mrs Rigby)_<br>
-
 Paula Tilbrook _(Mrs Thornley’s friend)_<br>
-
 Keith Washington _(Mr Shaw)_<br>
-
 Louis Raynes _(tallyman)_<br>
-
 Alan Gerrard _(Harry, greengrocer)_<br>
-
 Diana Flacks _(Mrs Betty Rubens)_<br>
-
 Patrick Durkin _(Frank)_<br>
-
 Ian East _(Dick)_<br>
-
 Dennis Barry _(old man)_<br>
-
 Sonny Farrar _(publican)_<br>
-
 Surya Kumari _(Sikh lady)_<br>
-
 Irene Gawne _(sister)_<br>
-
 Hal Jeayes _(priest)_<br>
 
 BBC1 tx 12.3.1973<br>
-
-UK 1973
-
+UK 1973  
 70 mins
 
 **The Five Minute Films**<br>
@@ -179,36 +143,37 @@ Herbert Norville _(Arbley)_<br>
 
 Bill Colville _(Sid)_<br>
 
-Antony Carrick _(Mr Davies)_
+Antony Carrick _(Mr Davies)_<br>
 
-Theresa Watson _(secretary)_
+Theresa Watson _(secretary)_<br>
 
-Lally Percy _(Victoria)_
+Lally Percy _(Victoria)_<br>
 
-_Afternoon_
+_Afternoon_<br>
 
-Rachel Davies _(the hostess)_
+Rachel Davies _(the hostess)_<br>
 
-Pauline Moran _(the teacher)_
+Pauline Moran _(the teacher)_<br>
 
-Julia North _(the newly-wed)_
+Julia North _(the newly-wed)_<br>
 
-BBC2 tx September 1982:
+BBC2 tx September 1982:<br>
 
 5th: ‘The Birth of the Goalie of the  
-2001 F.A. Cup Final’
+2001 F.A. Cup Final’<br>
 
-6th: ‘Old Chums’
+6th: ‘Old Chums’<br>
 
-7th: ‘Probation’
+7th: ‘Probation’<br>
 
-8th: ‘A Light Snack’
+8th: ‘A Light Snack’<br>
 
-9th: ‘Afternoon’
+9th: ‘Afternoon’<br>
 
-UK 1975
+UK 1975<br>
 
 5 x 5 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDU3OTc3Ml19
+eyJoaXN0b3J5IjpbLTEyMTI1MTE1NjRdfQ==
 -->
