@@ -1,3 +1,14 @@
+---
+layout: post
+title: Red, White and Blue
+published: true
+date: 2021-10-23
+readtime: true
+categories: ['SMALL AXE']
+tags: [Drama]
+metadata: 'UK 2020, 80 mins<br> Director: Steve McQueen'
+pdf: '2021-10-23-red-white-and-blue.pdf'
+---
 
 Reject existing systems, or change them from within? Opt out, or risk selling out? This chapter in Steve McQueen’s _Small Axe_ anthology approaches this most pivotal conundrum for social and political movements in a manner at once uncompromising and warmly humane.
 
@@ -128,6 +139,38 @@ Assad Zaman _(Asif)_
 
 UK 2020  
 80 mins  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODAwNTc4NV19
--->
+<br>
+
+
+**SMALL AXE A COLLECTION OF FIVE FILMS**<br>
+**Mangrove + Q&A with director Steve McQueen and Small Axe Consultant Paul Gilroy**<br>
+Fri 22 Oct 17:30<br>
+**Lovers Rock + Q&A with director Steve McQueen and actor Dennis Bovell**<br>
+Fri 22 Oct 20:50<br>
+**Sonic Cinema Presents: Lovers Rock After Party**<br>
+Fri 22 Oct (Spiritland in Royal Festival Hall) 22:00-02:00<br>
+**Talk: The Making of Small Axe with Steve McQueen, Tracey Scoffield, David Tanner and guests**<br>
+Sat 23 Oct 16:00<br>
+**Red, White and Blue**<br>
+Sat 23 Oct 18:30<br>
+**Alex Wheatle**<br>
+Sat 23 Oct 20:45<br>
+**Education**<br>
+Sun 24 Oct 18:10<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
