@@ -49,25 +49,15 @@ _Wardrobe:_ Brenda Dabbs
 _Make-up:_ Charles Parker, Stuart Freeborn,
 John O’Gorman
 _Hairdressing Supervisor:_ Ramon Gow
-_Ms Bergman’s & Mr Finney’s Hair by:_
-
-Leonard of London
-
+_Ms Bergman’s & Mr Finney’s Hair by:_ Leonard of London
 _Music Composed by:_ Richard Rodney Bennett
-
-_Music Played by:_
-
-Orchestra of the Royal Opera House
-
+_Music Played by:_ Orchestra of the Royal Opera House
 _Conducted by:_ Marcus Dods
-
 _Sound:_ Peter Handford, Bill Rowe
-
 _Sound Editor:_ Jonathan Bates
-
 _Studio:_ Elstree Studios
 
-_uncredited_
+_uncedited_
 
 _Screenplay:_ Anthony Shaffer
 
@@ -141,5 +131,5 @@ UK 1974©
 
 131 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI5ODUyODhdfQ==
+eyJoaXN0b3J5IjpbNDQ4NzkxNzU4LC0xMjYyOTg1Mjg4XX0=
 -->
