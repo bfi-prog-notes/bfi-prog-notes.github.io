@@ -1,5 +1,4 @@
 
-<![endif]-->
 
 **SPOILER WARNING  The following notes give away some of the plot.**
 
@@ -24,9 +23,8 @@ But the signal success in the casting is Ingrid Bergman, dowdy, tremulous and ve
 
 Penelope Houston, _Monthly Film Bulletin_, December 1974
 
-<![endif]-->
 
-**Murder on the Orient Express**
+**MURDER ON THE ORIENT EXPRESS**
 
 _Directed by:_ Sidney Lumet
 
@@ -180,5 +178,5 @@ UK 1974©
 
 131 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDMzMTkxNl19
+eyJoaXN0b3J5IjpbNDk3NzAyNTcwXX0=
 -->
