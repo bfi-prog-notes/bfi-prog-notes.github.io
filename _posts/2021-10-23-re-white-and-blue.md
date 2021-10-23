@@ -1,4 +1,3 @@
-<![endif]-->
 
 Reject existing systems, or change them from within? Opt out, or risk selling out? This chapter in Steve McQueen’s _Small Axe_ anthology approaches this most pivotal conundrum for social and political movements in a manner at once uncompromising and warmly humane.
 
@@ -14,9 +13,8 @@ Boyega – a global star thanks to his appearances in _Episodes VII_, _VIII_ and
 
 Boyega’s control and quietude allow breathing space to a production that makes impeccable use of sound, music and physical detail – be it the happily overstuffed living rooms and dinner tables of Leroy’s extended family, the strip-lit grimness of the hospital room in which he almost fails to recognise his bruised and battered father, or the squeak of trainers on gymnasium floor as he systematically outruns the rest of his training cohort.
 
-In a scene that feels like the emotional centre of the whole film, McQueen lets music do the talking, Al Green’s extraordinary interpretation of the Bee Gees’ ‘How Can You Mend a Broken Heart?’ playing as Kenneth drops his son off to begin his officer training. _Red, White and Blue_ offers no easy answers with regard to the mending of hearts, relationships or broken social structures. And it opts not to remind us that, before the close of his career, the real Leroy Logan covered himself in establishment glory. Instead, it sits stoically with awkwardness – that of belonging and not belonging; of achieving and compromising; of being unjustly hated and imperfectly loved.
-
-Hannah McGill, _Sight & Sound_, Winter 2020-2021
+In a scene that feels like the emotional centre of the whole film, McQueen lets music do the talking, Al Green’s extraordinary interpretation of the Bee Gees’ ‘How Can You Mend a Broken Heart?’ playing as Kenneth drops his son off to begin his officer training. _Red, White and Blue_ offers no easy answers with regard to the mending of hearts, relationships or broken social structures. And it opts not to remind us that, before the close of his career, the real Leroy Logan covered himself in establishment glory. Instead, it sits stoically with awkwardness – that of belonging and not belonging; of achieving and compromising; of being unjustly hated and imperfectly loved.<br>
+**Hannah McGill, _Sight & Sound_, Winter 2020-2021**<br>
 
 In the space between photo opportunities and equal opportunities stands PC Leroy Logan. Tall and proud, shoulders back, eyes front, he outwardly betrays nothing of the inner turmoil and external contradictions he faces: a genuine aspiration in search of the good faith, an individual within an institution, the embodiment of both promise and betrayal.
 
@@ -30,19 +28,15 @@ Logan, who has a degree, is more educated than his colleagues. But, despite grad
 
 Logan’s dad, Kenneth, does not conceal his dismay at his son’s career choice. And when Kenneth is badly beaten up by the police when challenging a bogus parking violation, those instincts appear confirmed. In this relationship, which plays a central role in the film, we see the baton pass from the migrant generation to their children.
 
-The precise period in which the film is set matters but remains unclear. The decor, music and occasional dance moves suggest the late 1970s. Logan’s reference to his friend Leee John’s success as a pop singer in ‘Imagination’ points to  
-early 1981.
+The precise period in which the film is set matters but remains unclear. The decor, music and occasional dance moves suggest the late 1970s. Logan’s reference to his friend Leee John’s success as a pop singer in ‘Imagination’ points to early 1981.
 
 It matters because by the end of that year Britain’s cities would go up in flames in a series of rebellions against police harassment within the broader context of Thatcherite austerity. One of Logan’s white colleagues warns him: ‘It’s a jungle out there.’ Another tells him: ‘It’s us or them,’ but since no one mentions the riots, one must assume they haven’t happened yet. So the space in which Logan operates and seeks to expand, attempting to effect reform and build community confidence, is already small and about to shrink even further. In another part of the city a smart young boy full of promise, Stephen Lawrence, is about to start primary school.
 
-We leave Logan struggling to work out whether his mission is worth it, uncertain whether the bridge he seeks to build is a viable proposition, or whether he will descend to the depths of despair beneath him. Not knowing whether his task is Sisyphean or merely Herculean, and weighing the cost to himself and the society he wishes to create if he walks away – unaware that things are about to get a whole lot worse before they get better.
-
-Gary Younge, bfi.org.uk, 25 November 2020
-
+We leave Logan struggling to work out whether his mission is worth it, uncertain whether the bridge he seeks to build is a viable proposition, or whether he will descend to the depths of despair beneath him. Not knowing whether his task is Sisyphean or merely Herculean, and weighing the cost to himself and the society he wishes to create if he walks away – unaware that things are about to get a whole lot worse before they get better.<br>
+**Gary Younge, bfi.org.uk, 25 November 2020**<br>
 
 
-**Red, White and Blue**
-
+**RED, WHITE AND BLUE**  
 _Directed by_: Steve McQueen  
 _©_: Small Axe Films Ltd  
 _a_ Turbine Studios and Lammas Park _production_  
@@ -135,5 +129,5 @@ Assad Zaman _(Asif)_
 UK 2020  
 80 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODc3MjMzOF19
+eyJoaXN0b3J5IjpbMTY0ODAwNTc4NV19
 -->
