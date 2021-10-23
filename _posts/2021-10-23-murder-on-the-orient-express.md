@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Murder on the Orient Express
+published: true
+date: 2021-10-23
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Thriller]
+metadata: 'USA 1974, 132 mins<br> Director: Sidney Lumet'
+pdf: '2021-10-23-murder-on-the-orient-express.pdf'
+---
 
 **SPOILER WARNING  The following notes give away some of the plot.**
 
@@ -46,8 +56,7 @@ _2nd Assistant Editor:_ Mick Monks<br>
 _Production Design and Costumes by:_ Tony Walton<br>
 _Art Director:_ Jack Stephens<br>
 _Wardrobe:_ Brenda Dabbs<br>
-_Make-up:_ Charles Parker, Stuart Freeborn,
-John O’Gorman<br>
+_Make-up:_ Charles Parker, Stuart Freeborn, John O’Gorman<br>
 _Hairdressing Supervisor:_ Ramon Gow<br>
 _Ms Bergman’s & Mr Finney’s Hair by:_ Leonard of London<br>
 _Music Composed by:_ Richard Rodney Bennett<br>
