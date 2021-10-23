@@ -1,5 +1,16 @@
+---
+layout: post
+title: Radio Days
+published: true
+date: 2021-10-23
+readtime: true
+categories: ['MIKE LEIGH’S CHOICES']
+tags: [Comedy]
+metadata: 'USA 1987, 88 mins<br> Director: Woody Allen'
+pdf: '2021-10-23-radio-days.pdf'
+---
 
-I’m not a fan of all Woody Allen’s films, but I love this one. It’s my go-to comfort movie. Savour its joyous kaleidoscopic cornucopia of characters and its feast of 1940s popular music. For me, it resonates with my lifetime in showbiz, as well as my post-war provincial Jewish childhood. Stanley Kubrick said it was like watching a home movie.
+I’m not a fan of all Woody Allen’s films, but I love this one. It’s my go-to comfort movie. Savour its joyous kaleidoscopic cornucopia of characters and its feast of 1940s popular music. For me, it resonates with my lifetime in showbiz, as well as my post-war provincial Jewish childhood. Stanley Kubrick said it was like watching a home movie.<br>
 **Mike Leigh**<br>
 
 _Radio Days_ could be seen as another version of _The Purple Rose of Cairo_, in which the creations of popular fiction not only light up humdrum lives but themselves take on a kind of humdrum reality, become part of the family.  One could even see the new film as being the raw material out of which the earlier film had been developed: a sketchbook of (semi-) autobiography, Jewish family comedy and show-biz parody, all loosely related to the ambience of radio entertainment in the 30s and 40s, and out of which the movie-ambience joke, the Pirandellian whimsy, of _Purple Rose_ might have been distilled. The back-to-front chronology of this would certainly be in keeping with the backwards-developing logic of Woody Allen’s career, the way in which all his recent films seem to define themselves by refusing to define themselves in movie terms, unravelling the conventions of film comedy not in order to reinvent them but in order to preserve something essential about Allen’s own comedy and persona that he doesn’t quite trust to the safekeeping of the cinema. The ‘disappearing’ conceits of _Purple Rose_ and _Zelig_ are symptoms of a cinema that is itself always looking for a back exit, and might have found it in such a defiantly non-film, such a compendium of gags and period snapshots, as _Radio Days_.
@@ -95,7 +106,7 @@ David Mosberg _(Arnold)_
 Ross Morgenstern _(Ross)_  
 Andy Clark _(Sidney Manulis)_  
 Lee Erwin _(roller rink organist)_  
-Terry Lee Swarts, Margaret Thomson _(night-club customers)_
+Terry Lee Swarts, Margaret Thomson _(night-club customers)_  
 Tito Puente _(Latin bandleader)_  
 Denise Dummont _(Latin singer)_  
 Dimitri Vassilopoulos _(Porfirio)_  
@@ -135,11 +146,45 @@ Ivan Kronenfeld _(on-the-spot newsman)_
 Frank O’Brien _(fireman)_  
 Yolanda Childress _(Polly’s mother)_  
 Artie Bulter _(new year’s bandleader)_  
-Gregg Almquist, Jackson Beck, Wendell Craig,  
-William H. Macy, Ken Roberts, Norman Rose, Kenneth Welsh _(radio voices)_<br>
+Gregg Almquist, Jackson Beck, Wendell Craig,  William H. Macy, Ken Roberts, Norman Rose, Kenneth Welsh _(radio voices)_<br>
 
 USA 1987<br>
 88 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDA4NjM2N119
--->
+<br>
+
+**MIKE LEIGH’S CHOICES**<br>
+**Tokyo Story (Tôkyô monogatari)**<br>
+Mon 18 Oct 20:20; Thu 21 Oct 14:30;  Sat 13 Nov 14:10; Tue 30 Nov 14:00<br>
+**Jules et Jim**<br>
+Tue 19 Oct 20:50; Wed 10 Nov 14:30<br>
+**The Tree of Wooden Clogs  (L’albero degli zoccoli)**<br>
+Wed 20 Oct 14:00; Fri 29 Oct 13:30;  Sun 7 Nov 13:50<br>
+**I Am Cuba (Soy Cuba)**<br>
+Wed 20 Oct 14:30; Sat 13 Nov 20:10<br>
+**Radio Days**<br>
+Sat 23 Oct 13:20; Tue 16 Nov 18:10<br>
+**H3**<br>
+Mon 25 Oct 18:00 (+ Q&A with director Les Blair); Wed 24 Nov 20:50<br>
+**A Blonde in Love (AKA Loves of a Blonde)  
+(Lásky jedné plavovlásky)**<br>
+Mon 25 Oct 20:40; Fri 19 Nov 21:00<br>
+**The Story of Gilbert and Sullivan**<br>
+Sun 14 Nov 14:40; Sun 28 Nov 14:50<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
