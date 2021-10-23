@@ -62,39 +62,122 @@ _Focus Puller:_ John Campbell<br>
 _Assistant Camera:_ Cedric James<br>
 _Stills:_ Joe Pearce<br>
 _Assistant Art Director:_ Simon Holland<br>
-_Draughtsman:_ John Siddall
-_Scenic Artists:_ Tony Strong, E.W. Brister
-_Sound Camera Operator:_ Trevor Rutherford
-_Sound Maintenance:_ Nick Flowers
-_Boom Operator:_ David Stephenson
-_Unit Publicist:_ Catherine O’Brien
+_Draughtsman:_ John Siddall<br>
+_Scenic Artists:_ Tony Strong, E.W. Brister<br>
+_Sound Camera Operator:_ Trevor Rutherford<br>
+_Sound Maintenance:_ Nick Flowers<br>
+_Boom Operator:_ David Stephenson<br>
+_Unit Publicist:_ Catherine O’Brien<br>
 
-**Cast**
-Albert Finney _(Hercule Poirot)_
-Lauren Bacall _(Mrs Hubbard)_
-Martin Balsam _(Bianchi)_
-Ingrid Bergman _(Greta Ohlsson)_
-Jacqueline Bisset _(Countess Andrenyi)_
-Jean Pierre Cassel _(Pierre Paul Michel)_
-Sean Connery _(Colonel Arbuthnot)_
-John Gielgud _(Beddoes)_
-Wendy Hiller _(Princess Dragomiroff)_
-Anthony Perkins _(Hector McQueen)_
-Vanessa Redgrave _(Mary Debenham)_
-Rachel Roberts _(Hildegarde Schmidt)_
-Richard Widmark _(Ratchett)_
-Michael York _(Count Andrenyi)_
-Colin Blakely _(Hardman)_
-George Coulouris _(Dr Constantine)_
-Denis Quilley _(Gino Foscarelli)_
-Vernon Dobtcheff _(concierge)_
-Jeremy Lloyd _(ADC)_
-John Moffatt _(chief attendant)_
-_uncredited_
-George Silver _(chef)_
+**Cast**<br>
+Albert Finney _(Hercule Poirot)_<br>
+Lauren Bacall _(Mrs Hubbard)_<br>
+Martin Balsam _(Bianchi)_<br>
+Ingrid Bergman _(Greta Ohlsson)_<br>
+Jacqueline Bisset _(Countess Andrenyi)_<br>
+Jean Pierre Cassel _(Pierre Paul Michel)_<br>
+Sean Connery _(Colonel Arbuthnot)_<br>
+John Gielgud _(Beddoes)_<br>
+Wendy Hiller _(Princess Dragomiroff)_<br>
+Anthony Perkins _(Hector McQueen)_<br>
+Vanessa Redgrave _(Mary Debenham)_<br>
+Rachel Roberts _(Hildegarde Schmidt)_<br>
+Richard Widmark _(Ratchett)_<br>
+Michael York _(Count Andrenyi)_<br>
+Colin Blakely _(Hardman)_<br>
+George Coulouris _(Dr Constantine)_<br>
+Denis Quilley _(Gino Foscarelli)_<br>
+Vernon Dobtcheff _(concierge)_<br>
+Jeremy Lloyd _(ADC)_<br>
+John Moffatt _(chief attendant)_<br>
+_uncredited_<br>
+George Silver _(chef)_<br>
 
 UK 1974©<br>
 131 mins<br>
+<br>
+
+
+**BIG SCREEN CLASSICS**<br>
+**Murder on the Orient Express**
+Sat 23 Oct 17:30; Sun 7 Nov 18:10; Tue 16 Nov 14:15
+**Chinatown**
+Sun 24 Oct 11:50; Wed 27 Oct 14:15;  Sat 20 Nov 20:30
+
+**Heat**
+
+Sun 24 Oct 14:30; Sat 13 Nov 16:30;  
+Mon 15 Nov 13:40
+
+**Illustrious Corpses (Cadaveri eccellenti)**
+
+Mon 25 Oct 14:15; Fri 19 Nov 20:40;
+
+Sat 27 Nov 18:10
+
+**Blue Velvet**
+
+Tue 26 Oct 14:30; Tue 2 Nov 18:00;  
+Sat 13 Nov 20:45; Sun 21 Nov 17:40
+
+**Dirty Harry**
+
+Wed 27 Oct 18:00 (+ pre-recorded intro by film scholar Hannah Hamad, Cardiff University);  
+Sun 14 Nov 18:20; Fri 26 Nov 20:45
+
+**Devil in a Blue Dress**
+
+Thu 28 Oct 20:50; Wed 17 Nov 18:00 (+ intro by _Empire Magazine_ Contributing Editor Amon Warmann)
+
+**The Silence of the Lambs**
+
+Fri 29 Oct 20:40; Wed 3 Nov 19:00 (+ pre-recorded intro by Professor Yvonne Tasker, author of BFI Film Classics _The Silence of the Lambs_);  
+Thu 18 Nov 14:40
+
+**No Country for Old Men**
+
+Sat 30 Oct 11:00; Mon 1 Nov 20:30;  
+Wed 24 Nov 18:00 (+ intro by Geoff Andrew, Programmer-at-Large)
+
+**In the Cut**
+
+Sun 31 Oct 18:30; Tue 30 Nov 18:10
+
+**House of Bamboo**
+
+Thu 4 Nov 20:50; Thu 11 Nov 14:30;  
+Mon 15 Nov 18:10
+
+**Kiss Me Deadly**
+
+Fri 5 Nov 20:40; Sat 20 Nov 18:00;  
+Sat 28 Nov 12:15
+
+**Zero Dark Thirty**
+
+Sat 6 Nov 17:30; Tue 9 Nov 14:15;  
+Sun 28 Nov 15:20
+
+**Inside Man**
+
+Mon 8 Nov 20:30; Thu 25 Nov 14:30;  
+Tue 30 Nov 20:20
+
+**The Long Goodbye**
+
+Wed 10 Nov 17:50 (+ intro by Geoff Andrew, Programmer-at-Large); Sat 27 Nov 20:40
+
+**Shaft**
+
+Fri 12 Nov 20:50; Tue 23 Nov 18:20
+
+**The Manchurian Candidate**
+
+Sun 21 Nov 14:50
+
+**Un Flic**
+
+Tue 23 Nov 20:45;Mon 29 Nov 20:55
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzYzMzQ2LC0xMjYyOTg1Mjg4XX0=
+eyJoaXN0b3J5IjpbMTAzNzM1OTAzOSwtMTI2Mjk4NTI4OF19
 -->
