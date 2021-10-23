@@ -27,33 +27,25 @@ The irony of these lyrics is that we see Alex on the floor of a cell several tim
 
 It’s as though history is not enough. We must see literal death before we can hold our institutions to account. But even then we still see corrupt judges, murderous police officers, faceless bureaucrats who call the shots and are never held to account.
 
-And so I return to my initial question: what are we not seeing? We believe we have progressed as a society, yet films, histories and even TV programming from the 1980s still have the power to shock us. So what is happening today that is too taboo, too difficult, too confronting? Do we have the courage to confront it?
+And so I return to my initial question: what are we not seeing? We believe we have progressed as a society, yet films, histories and even TV programming from the 1980s still have the power to shock us. So what is happening today that is too taboo, too difficult, too confronting? Do we have the courage to confront it?<br>
+**Jay Bernard, bfi.org.uk, 2 December 2020**<br>
 
-Jay Bernard, bfi.org.uk, 2 December 2020
 
-<![endif]-->
-
-**Alex Wheatle**
-
+**ALEX WHEATLE**<br>
 _Directed by_: Steve McQueen  
 _©_: Small Axe Films Ltd  
 _a_ Turbine Studios and Lammas Park _production_  
 _In association with_: Small Axe Films, EMU Films  
 _Supported by_: Creative England  
 _A project part financed by the_: European Regional Development Fund programme 2007-2013  
-_In association with_: BBC Studios Distribution,
-
-Six Temple Productions  
+_In association with_: BBC Studios Distribution, Six Temple Productions  
 _For_: BBC, Amazon Studios  
 _Presented by_: BBC, BBC Films  
-_Executive Producers_: Tracey Scoffield,
-
-David Tanner, Steve McQueen  
+_Executive Producers_: Tracey Scoffield, David Tanner, Steve McQueen  
 _Produced by_: Michael Elliott, Anita Overland  
 _Archive Producers_: Sam Dwyer, Zosia Alchimowicz  
 _Line Producer_: Robyn Forsythe  
 _Associate Producers_: Susan Dolan, Helen Bart, Charlotte Andrews
-
 _Production Accountant_: Spencer Pawson  
 _Unit Manager_: Rohan Halley  
 _Location Manager_: Graeme MacKenzie  
@@ -68,9 +60,7 @@ _Stills Photographers_: Parisa Taghizadeh,
 
 Will Robson-Scott  
 _Visual Effects Supervisor_: Marc Hutchings  
-_Special Effects Supervisors_: Steve Bowman,
-
-Elly Dunsire  
+_Special Effects Supervisors_: Steve Bowman, Elly Dunsire  
 _Supervising Editor_: Chris Dickens  
 _Editors_: Chris Dickens, Steve McQueen  
 _Production Designer_: Helen Scott  
@@ -82,20 +72,17 @@ _Production Buyer_: Aoife Flynn
 _Props Master_: Nick Walker  
 _Costume Designer_: Jacqueline Durran  
 _Hair and Make-up Designer_: Jojo Williams  
-_Title Design_: Howard Watkins, Julia Hall,
-
-Tom Burke, Chloe Tetu  
+_Title Design_: Howard Watkins, Julia Hall, Tom Burke, Chloe Tetu  
 _Digital Colourist_: Tom Poole
-
 _Music Supervisors_: Ed Bailie, Abi Leland  
 _Sound Mixer_: Ronald Bailey  
 _Re-recording Mixers_: Paul Cotterell,  
 James Harrison  
 _Dialogue Editor_: Paul Cotterell  
 _Stunt Co-ordinators_: Tom Lucy, Nrinder Dhudwar  
-_Consultant_: Alex Wheatle
+_Consultant_: Alex Wheatle<br>
 
-_Cast:_  
+**Cast** 
 Sheyi Cole _(Alex Wheatle)_  
 Robbie Gee _(Simeon)_  
 Khali Best _(Breadstick)_  
@@ -114,11 +101,10 @@ Xavien Russell _(friend at Lincoln’s)_
 Lennox Tuitt _(Lincoln)_  
 Leah Walker _(Beverley)_  
 Shanelle Young _(Gloria Isaacs)_  
-William Hanson _(schoolboy)_
+William Hanson _(schoolboy)_<br>
 
-UK 2020
-
-65 mins
+UK 2020<br>
+65 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTEzMDE1MDRdfQ==
+eyJoaXN0b3J5IjpbMTczMjk0MzYyN119
 -->
