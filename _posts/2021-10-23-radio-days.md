@@ -139,7 +139,7 @@ Gregg Almquist, Jackson Beck, Wendell Craig,
 William H. Macy, Ken Roberts, Norman Rose, Kenneth Welsh _(radio voices)_<br>
 
 USA 1987<br>
-88 mins
+88 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODEzNzkzN119
+eyJoaXN0b3J5IjpbMTMxMDA4NjM2N119
 -->
