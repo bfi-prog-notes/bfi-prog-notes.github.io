@@ -16,9 +16,137 @@ Far from coming of age, Little Joe doesn’t change at all in the some six years
 
 In some cases, the radio programmes and personalities are allowed a life of their own within the film, their interest again lying mostly in the way they fill in Allen’s creative hinterland, suggesting how the corniest conventions of this pre-pubescent entertainment might have supplied the inspiration for some of his later films. The most neatly turned of these sequences, the Sports Legends account of pitcher Kirby Kyle, whose loss of limbs in no way diminished his ‘heart’, has the epigrammatic absurdity of _Zelig_. And the most extended, the rise to radio stardom of Mia Farrow’s cigarette girl, ending with the New Year’s party she hosts with such immortals as the Masked Avenger and Biff Baxter, is a good-natured ‘lives of the entertainers’ parody like _Broadway Danny Rose_.
 
-These sequences also have a ‘finished’ quality that makes much of the surrounding material to do with the family look rather desultory and pointless – even such a potentially nice joke as Bea’s ardent date being frightened off by Orson Welles’ _War of the Worlds_ broadcast never really seems to arrive at its punch-line. It is perhaps no accident that Allen begins the film with one of his best – though most tangential – jokes, about the burglars who bring their victims an unexpected windfall. Nor that this depends on their guessing three tunes that neatly illustrate the musical range of the soundtrack accompaniment that follows – the Big Band sound of ‘Dancing in the Dark’, the jazzy ‘Chinatown, My Chinatown’, the folksy ‘Sailor’s Hornpipe’ – and that is itself one of the film’s best and most cohesive features.
+These sequences also have a ‘finished’ quality that makes much of the surrounding material to do with the family look rather desultory and pointless – even such a potentially nice joke as Bea’s ardent date being frightened off by Orson Welles’ _War of the Worlds_ broadcast never really seems to arrive at its punch-line. It is perhaps no accident that Allen begins the film with one of his best – though most tangential – jokes, about the burglars who bring their victims an unexpected windfall. Nor that this depends on their guessing three tunes that neatly illustrate the musical range of the soundtrack accompaniment that follows – the Big Band sound of ‘Dancing in the Dark’, the jazzy ‘Chinatown, My Chinatown’, the folksy ‘Sailor’s Hornpipe’ – and that is itself one of the film’s best and most cohesive features.<br>
 
-Richard Combs, _Monthly Film Bulletin_, July 1987
+**Richard Combs, _Monthly Film Bulletin_, July 1987**<br>
+
+**RADIO DAYS**  
+_Director_: Woody Allen  
+_©/Production Company_: Orion Pictures Corporation  
+_Executive Producers_: Jack Rollins, Charles H. Joffe  
+_Producers_: Robert Greenhut, Gail Sicilia  
+_Associate Producer_: Ezra Swerdlow  
+_Production Associate_: Joseph Hartwick  
+_Production Manager_: Thomas Reilly  
+_Production Co-ordinator_: Helen Robin  
+_Art Department Research_: Glenn Lloyd  
+_Assistant Directors_: Ezra Swerdlow, Ken Ornstein  
+_Casting_: Juliet Taylor  
+_Associate Casting_: Ellen Lewis  
+_Additional Casting_: Todd Thaler  
+_Screenplay_: Woody Allen  
+_Director of Photography_: Carlo Di Palma  
+_Camera Operator_: Dick Mingalone  
+_Optical Effects_: R/Greenberg Associates  
+_Editor_: Susan E. Morse  
+_Production Designer_: Santo Loquasto  
+_Art Director_: Speed Hopkins  
+_Set Decorators_: Carol Joffe, Leslie Bloom  
+_Set Dresser_: David Weinman  
+_Master Scenic Artist_: James Sorice  
+_Costume Designer_: Jeffrey Kurland  
+_Men’s Wardrobe Supervisor_: Bill Christians  
+_Women’s Wardrobe Supervisor_: Patricia Eiben  
+_Make-up_: Fern Buchner  
+_Titles_: The Optical House  
+_Music Supervisor_: Dick Hyman  
+_Musicians Co-ordinator_: Joe Malin  
+_Music Recording_: Roy B. Yokelson  
+_Music Recording Supervisors_: Walt Levinsky, Sam Parkins  
+_Vocal Coach for Ms Keaton & Ms Farrow_: Janet Frank  
+_Sound Recording_: James Sabat, Frank Graziadei  
+_Sound Re-recording_: Lee Dichter, Sound One  
+_Supervising Sound Editor_: Bob Hein  
+_Sound Editor_: Michael Moyse
+
+**Cast**  
+Seth Green _(Little Joe)_  
+Julie Kavner _(mother)_  
+Michael Tucker _(father)_  
+Dianne Wiest _(Aunt Bea)_  
+Josh Mostel _(Uncle Abe)_  
+Renee Lippin _(Aunt Ceil)_  
+William Magerman _(grandpa)_  
+Leah Carrey _(grandma)_  
+Joy Newman _(Ruthie)_  
+Mia Farrow _(Sally White)_  
+Julie Kurnitz _(Irene)_  
+David Warrilow _(Roger)_  
+Wallace Shawn _(Masked Avenger)_  
+Kenneth Mars _(Rabbi Baumel)_  
+Jeff Daniels _(Biff Baxter)_  
+Danny Aiello _(Rocco)_  
+Gina Deangelis _(Rocco’s mother)_  
+Tony Roberts _(‘Silver Dollar’ Emcee)_  
+Diane Keaton _(New Year’s Singer)_  
+Guy Lebow _(Bill Kern)_  
+Marc Colner _(whiz kid)_  
+Richard Portnow _(Sy)_  
+Roger Hammer _(Richard)_  
+Mike Starr, Paul Herman _(burglars)_  
+Don Pardo _(‘Guess That Tune’ Host)_  
+Martin Rosenblatt _(Mr Needleman)_  
+Helen Miller _(Mrs Needleman)_  
+Danielle Ferland _(child star)_  
+Michael Murray _(Avenger Crook)_  
+William Flanagan _(Avenger announcer)_  
+Hy Anzell _(Mr Waldbaum)_  
+Judith Malina _(Mrs Waldbaum)_  
+Fletcher Farrow Previn _(Andrew)_  
+Oliver Block _(Nick)_  
+Maurice Toueg _(Dave)_  
+Sal Tuminello _(Burt)_  
+Rebecca Nickels _(Evelyn Goorwitz)_  
+Mindy Morgenstern _(‘Show and Tell’ teacher)_  
+David Mosberg _(Arnold)_  
+Ross Morgenstern _(Ross)_  
+Andy Clark _(Sidney Manulis)_  
+Lee Erwin _(roller rink organist)_  
+Terry Lee Swarts, Margaret Thomson _(night-club customers)_
+Tito Puente _(Latin bandleader)_  
+Denise Dummont _(Latin singer)_  
+Dimitri Vassilopoulos _(Porfirio)_  
+Larry David _(communist neighbour)_  
+Rebecca Schaeffer _(communist’s daughter)_  
+Belle Berger _(Mrs Silverman)_  
+Brian Mannain _(Kirby Kyle)_  
+Stan Burns _(ventriloquist)_  
+Todd Field _(crooner)_  
+Peter Lombard _(Abercrombie host)_  
+Martin Sherman _(Mr Abercrombie)_  
+Crystal Field _(Abercrombie couple)_  
+Roberta Bennett _(teacher with carrot)_  
+Joel Eidelsberg _(Mr Zipsky)_  
+Peter Castellotti _(Mr Davis)_  
+Shelley Delaney _(Chekhov actress)_  
+Dwight Weist _(Pearl Harbour announcer)_  
+Ken Levinsky, Ray Marchica _(USO Musicians)_  
+J.R. Horne _(Biff announcer)_  
+Kuno Sponholz _(German)_  
+Henry Yuk _(Japanese)_  
+Sydney A. Blake _(Miss Gordon)_  
+Kitty Carlisle Hart _(radio singer)_  
+Robert Joy _(Fred)_  
+Henry Cowen _(principal)_  
+Philip Shultz _(whistler)_  
+Mercedes Ruehl, Bruce Jarchow _(ad men)_  
+Greg Gerard _(songwriter)_  
+David Cale _(director)_  
+Ira B. Wheeler _(sponsor)_  
+Hannah Rabinowitz _(sponsor’s wife)_  
+Edward S. Kotkin _(diction teacher)_  
+Ruby Payne, Jaqui Safra _(diction students)_  
+Paul Berman _(‘Gay White Way’ announcer)_  
+Barbara Gallo, Jane Jarvis, Liz Vochecowizc _(Dance Palace musician)_  
+Ivan Kronenfeld _(on-the-spot newsman)_  
+Frank O’Brien _(fireman)_  
+Yolanda Childress _(Polly’s mother)_  
+Artie Bulter _(new year’s bandleader)_  
+Gregg Almquist, Jackson Beck, Wendell Craig,  
+William H. Macy, Ken Roberts, Norman Rose, Kenneth Welsh _(radio voices)_
+
+USA 1987
+88 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTU4MzA1OV19
+eyJoaXN0b3J5IjpbLTE1NjM2ODU3ODRdfQ==
 -->
