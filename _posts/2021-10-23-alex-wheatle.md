@@ -1,13 +1,10 @@
-<![endif]-->
 
-The biopic _Alex Wheatle_, directed by Steve McQueen, is a thoroughly pleasing work of televisual cinema, part of his new anthology series _Small Axe_ which focuses on West Indian communities in England. This episode deals with the early life of the writer Alex Wheatle, who was awarded an MBE in 2008 for services to literature for his hard-hitting stories of Black peoples, and who now writes books for young adults. McQueen explores Wheatle’s coming of age in Brixton, south London – infatuated with sound system culture, lured in by the excitements of street life, he becomes involved in the Brixton riots of 1981.  
-This leads to Wheatle spending time in prison, which is where he is introduced to literature.
+The biopic _Alex Wheatle_, directed by Steve McQueen, is a thoroughly pleasing work of televisual cinema, part of his new anthology series _Small Axe_ which focuses on West Indian communities in England. This episode deals with the early life of the writer Alex Wheatle, who was awarded an MBE in 2008 for services to literature for his hard-hitting stories of Black peoples, and who now writes books for young adults. McQueen explores Wheatle’s coming of age in Brixton, south London – infatuated with sound system culture, lured in by the excitements of street life, he becomes involved in the Brixton riots of 1981.  This leads to Wheatle spending time in prison, which is where he is introduced to literature.
 
 The film’s narrative structure is classical, in that we have a protagonist who tells his tale to an inquisitive listener – in this case the Rastafarian with whom Wheatle shares a prison cell, and who encourages him to appreciate reading. We see Wheatle’s life play out in nonlinear fashion as we cut back and forth between him growing up in a children’s home, his adolescence on the streets of London, and his maturation as an adult in prison. The beats through which Wheatle progresses are also classical, as we follow his development from awkward kid in the city who must be taught the ways of urban life to confident hustler taking his destiny into his own hands.
 
-Speaking of beats, McQueen’s film is animated by the sounds and cultural specificity of West Indian peoples, particularly their patois and their reggae music. Young Wheatle soon decides that he wants to form his own sound system, which he names Crucial Rocker. For that he needs money, and the only way to get it in his neighbourhood is through marijuana distribution. As this tale of underground life unfolds, the film begins to resemble Franco Rosso’s south-east London-set masterwork _Babylon_ (1980), which also explored urban life from a West Indian perspective, including vivid depictions of sound system culture. At 60 minutes, McQueen does not really have the canvas upon which to expand and fully explore his material, and he does not advance very far beyond the benchmark set by Rosso’s pioneering film. Still, one has to consider _Alex Wheatle_ as part of a larger whole, judging the whole series _Small Axe_ as an integral work. And even regarded in isolation, _Alex Wheatle_ is a solidly crafted and engrossing piece of drama.
-
-Greg de Cuir Jr,  _Sight & Sound_, December 2020
+Speaking of beats, McQueen’s film is animated by the sounds and cultural specificity of West Indian peoples, particularly their patois and their reggae music. Young Wheatle soon decides that he wants to form his own sound system, which he names Crucial Rocker. For that he needs money, and the only way to get it in his neighbourhood is through marijuana distribution. As this tale of underground life unfolds, the film begins to resemble Franco Rosso’s south-east London-set masterwork _Babylon_ (1980), which also explored urban life from a West Indian perspective, including vivid depictions of sound system culture. At 60 minutes, McQueen does not really have the canvas upon which to expand and fully explore his material, and he does not advance very far beyond the benchmark set by Rosso’s pioneering film. Still, one has to consider _Alex Wheatle_ as part of a larger whole, judging the whole series _Small Axe_ as an integral work. And even regarded in isolation, _Alex Wheatle_ is a solidly crafted and engrossing piece of drama.<br>
+**Greg de Cuir Jr,  _Sight & Sound_, December 2020**<br>
 
 The takeaway from the _Small Axe_ series is surely this: Steve McQueen is doing the cultural work of narrating the histories of Black British people that for too long have remained in a cultural embargo. But what is happening now, in the current moment, that is too taboo, too hot, too politically charged, too dangerous to be shown on screen?
 
@@ -56,9 +53,7 @@ _Script Supervisor_: Phoebe Billington
 _Casting by_: Gary Davy  
 _Screenplay by_: Alastair Siddons, Steve McQueen  
 _Director of Photography_: Shabier Kirchner  
-_Stills Photographers_: Parisa Taghizadeh,
-
-Will Robson-Scott  
+_Stills Photographers_: Parisa Taghizadeh, Will Robson-Scott  
 _Visual Effects Supervisor_: Marc Hutchings  
 _Special Effects Supervisors_: Steve Bowman, Elly Dunsire  
 _Supervising Editor_: Chris Dickens  
@@ -106,5 +101,5 @@ William Hanson _(schoolboy)_<br>
 UK 2020<br>
 65 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjk0MzYyN119
+eyJoaXN0b3J5IjpbMTYzNzg1NTc5MF19
 -->
