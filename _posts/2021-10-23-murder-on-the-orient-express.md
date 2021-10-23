@@ -56,32 +56,20 @@ _Conducted by:_ Marcus Dods
 _Sound:_ Peter Handford, Bill Rowe
 _Sound Editor:_ Jonathan Bates
 _Studio:_ Elstree Studios
-
-_uncedited_
-
+_uncredited_
 _Screenplay:_ Anthony Shaffer
-
 _Focus Puller:_ John Campbell
-
 _Assistant Camera:_ Cedric James
-
 _Stills:_ Joe Pearce
-
 _Assistant Art Director:_ Simon Holland
-
 _Draughtsman:_ John Siddall
-
 _Scenic Artists:_ Tony Strong, E.W. Brister
-
 _Sound Camera Operator:_ Trevor Rutherford
-
 _Sound Maintenance:_ Nick Flowers
-
 _Boom Operator:_ David Stephenson
-
 _Unit Publicist:_ Catherine O’Brien
 
-_Cast:_
+**Cast**
 
 Albert Finney _(Hercule Poirot)_
 
@@ -131,5 +119,6 @@ UK 1974©
 
 131 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NzkxNzU4LC0xMjYyOTg1Mjg4XX0=
+eyJoaXN0b3J5IjpbLTE2MTgzOTA3MzAsLTEyNjI5ODUyODhdfQ
+==
 -->
