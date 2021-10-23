@@ -1,4 +1,4 @@
-<![endif]-->
+
 
 Like many small boys, 12-year-old Kingsley dreams of the stars. Absorbed by astronomy and the careful drawing of rockets, he harbours dreams of becoming an astronaut. Yet his ambitions are routinely grounded by the fact that he lives on a dour estate in Haringey, North London, in the early 1970s, and his hardworking parents are in no position to support such lofty ambitions. And the cold reality is that, as a child of West Indian immigrants, Kingsley’s future prospects barely stretch to the end of the estate, let alone above the clouds.
 
@@ -14,26 +14,20 @@ And so, when local activists open Kingsley’s mother’s eyes to the realities 
 
 In line with the intimate narrative, the cinematographer Shabier Kirchner (who has shot all of the _Small Axe_ films) keeps the focus contained, the colour muted. The hugely endearing Kenyah Sandy often fills the screen, his young features full of innocent joy or abject confusion about things he doesn’t understand. When, at film’s end, he joins a lively and passionate local Saturday school, full of kids like him, Kingsley begins to unfurl and fresh air rushes into the film.
 
-‘What do we know about our ancestors?,’ asks the teacher. ‘That we were slaves,’ is the answer. ‘That is what they want us to know,’ she retorts, before launching into a lesson about ancient kings and queens in Africa. The message is clear; the teaching of Black history, as well as of Black children, has been woefully inadequate, and it is our collective responsibility to expand our education on this subject.
+‘What do we know about our ancestors?,’ asks the teacher. ‘That we were slaves,’ is the answer. ‘That is what they want us to know,’ she retorts, before launching into a lesson about ancient kings and queens in Africa. The message is clear; the teaching of Black history, as well as of Black children, has been woefully inadequate, and it is our collective responsibility to expand our education on this subject.<br>
+**Nikki Baughan, _Sight & Sound_, Winter 2020-2021**<br>
 
-Nikki Baughan, _Sight & Sound_, Winter 2020-2021
-
-**Black Britain Historian David Olusoga talks to Steve McQueen**
-
+**Black Britain Historian David Olusoga talks to Steve McQueen**<br>
 _If I can speak personally, I left watching_ Education _till last, and it’s the one that’s impacted me the most. You mentioned your education; I was diagnosed special educational needs. I was in a remedial class. There was myself and the kids who’d just come from Vietnam who couldn’t speak English._
 
 _I remember being aware that this was the road to disaster – that I wasn’t being educated; I was being warehoused. My mother was terrified for me, she was agitating and pushing, and I was being educated at home, because we knew that schools weren’t happening. And only latterly realising that that was a common phenomenon. There are a lot of people out there for whom_ Education _is going to be a punch in the guts. You had similar experiences?_
 
-Very much. My school was sectioned to houses. And at 14 you’re put into either 3C1, which is, say, the normal kids’ education, or 3C2, which is the people who are going to be the labourers or bricklayers, you know, the manual workers. And above and below were 3X, which were the brightest kids; and 3Y, which were all the kids who weren’t particularly bright. So I was cast aside really, and the journey of my life was drawn in the sand when I was 14  
-years old.
+Very much. My school was sectioned to houses. And at 14 you’re put into either 3C1, which is, say, the normal kids’ education, or 3C2, which is the people who are going to be the labourers or bricklayers, you know, the manual workers. And above and below were 3X, which were the brightest kids; and 3Y, which were all the kids who weren’t particularly bright. So I was cast aside really, and the journey of my life was drawn in the sand when I was 14  years old.
 
-I went back to my school in 2000, handing out achievement awards, and the headmaster [told me that] when I was there, the school was institutionally racist. But I knew that. Some of my friends had recently bumped into my old deputy head, and he said that he realised the school was failing Black children and said to the headmaster: ‘We need to do something.’ And the headmaster said: ‘You do know what this will mean? More Black children will go to the school because it will be successful.’ So, basically, the school was investing in Black failure.
+I went back to my school in 2000, handing out achievement awards, and the headmaster [told me that] when I was there, the school was institutionally racist. But I knew that. Some of my friends had recently bumped into my old deputy head, and he said that he realised the school was failing Black children and said to the headmaster: ‘We need to do something.’ And the headmaster said: ‘You do know what this will mean? More Black children will go to the school because it will be successful.’ So, basically, the school was investing in Black failure.<br>
+**_Sight & Sound_, Winter 2020-2021**<br>
 
-_Sight & Sound_, Winter 2020-2021<br>
-
-<![endif]-->
-
-**EDUCATION**  
+**EDUCATION**<br>
 _Directed by_: Steve McQueen  
 _©_: Small Axe Films Ltd  
 _A_ Turbine Studios _and_ Lammas Park _production_  
@@ -120,5 +114,5 @@ Stewart Wright _(Mr Baines)_<br>
 UK 2020<br>
 63 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTMwMjQ5NF19
+eyJoaXN0b3J5IjpbMTU2MzM0MTg2Nl19
 -->
