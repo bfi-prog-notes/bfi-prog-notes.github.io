@@ -70,45 +70,25 @@ _Boom Operator:_ David Stephenson
 _Unit Publicist:_ Catherine O’Brien
 
 **Cast**
-
 Albert Finney _(Hercule Poirot)_
-
 Lauren Bacall _(Mrs Hubbard)_
-
 Martin Balsam _(Bianchi)_
-
 Ingrid Bergman _(Greta Ohlsson)_
-
 Jacqueline Bisset _(Countess Andrenyi)_
-
 Jean Pierre Cassel _(Pierre Paul Michel)_
-
 Sean Connery _(Colonel Arbuthnot)_
-
 John Gielgud _(Beddoes)_
-
 Wendy Hiller _(Princess Dragomiroff)_
-
 Anthony Perkins _(Hector McQueen)_
-
 Vanessa Redgrave _(Mary Debenham)_
-
 Rachel Roberts _(Hildegarde Schmidt)_
-
 Richard Widmark _(Ratchett)_
-
 Michael York _(Count Andrenyi)_
-
 Colin Blakely _(Hardman)_
-
 George Coulouris _(Dr Constantine)_
-
 Denis Quilley _(Gino Foscarelli)_
-
 Vernon Dobtcheff _(concierge)_
-
 Jeremy Lloyd _(ADC)_
-
 John Moffatt _(chief attendant)_
 
 _uncredited_
@@ -119,6 +99,6 @@ UK 1974©
 
 131 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTgzOTA3MzAsLTEyNjI5ODUyODhdfQ
+eyJoaXN0b3J5IjpbLTEwNzYyMzU0MjIsLTEyNjI5ODUyODhdfQ
 ==
 -->
