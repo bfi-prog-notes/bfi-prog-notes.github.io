@@ -1,7 +1,5 @@
 
-<![endif]-->
-
-_We’re delighted to welcome director Steve McQueen alongside his producers Tracey Scoffield and Mike Elliot, and Associate Producer Helen Bart for an insightful look at the making of_ Small Axe_._
+_We’re delighted to welcome director Steve McQueen alongside his producers Tracey Scoffield and Mike Elliot, and Associate Producer Helen Bart for an insightful look at the making of _ Small Axe_.
 
 _In this lively conversation, we’ll explore the origins of the series, the creative process and approach to each of the five films, the challenges the team encountered when telling the different stories, and the key elements that shaped the anthology._
 
@@ -39,5 +37,5 @@ _Alex Wheatle_, a biopic of the novelist, fluctuated tones and covered the scope
 _Education_, about a young boy named Kingsley (Kenyah Sandy) who’s tossed around the educational system, was shot on 16mm like the BBC films of the 70s. The impetus was ‘not rewriting history, but writing us into history,’ Kirchner explains. ‘When you ask Steve why he made _Small Axe_ for television, he says it’s because he wanted his mum to see it. He wants her to switch on the BBC and see our stories there on the screen in the living room. That is something that Black people got robbed of the chance of seeing.’<br>
 **Aaron E. Hunt, _Sight & Sound_, 1 December 2020**<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwMDE2NDIxXX0=
+eyJoaXN0b3J5IjpbLTEwODU4ODkxNzldfQ==
 -->
