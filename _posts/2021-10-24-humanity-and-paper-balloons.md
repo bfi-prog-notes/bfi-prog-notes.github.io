@@ -23,16 +23,13 @@ Yamanaka, like almost every major Japanese director who got his start before the
 
 **HUMANITY AND PAPER BALLOONS<br>(NINJÔ KAMI FÛSEN)**  
 _Director_: Sadao Yamanaka  
-_Production Companies_:  
-Photography Chemical Laboratory,  
-Zenshin-Za Corporation  
+_Production Companies_:  Photography Chemical Laboratory,  Zenshin-Za Corporation  
 _Screenplay_: Shintarô Mimura  
 _Director of Photography_: Akira Mimura  
 _Set Designers_: Sentaro Iwata, Kazuo Kubo  
 _Music_: Tadashi Ôta
 
-_Cast:_
-
+**Cast**  
 Chojuro Kawarazaki  
 Ganemon Nakamura  
 Tsuruzo Nakamura  
@@ -42,9 +39,9 @@ Shizue Yamagishi
 Noboru Kiritachi  
 Emitaro Ichikawa
 
-Japan 1937
-
+Japan 1937  
 86 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1MjE2OTcwXX0=
+eyJoaXN0b3J5IjpbLTE1NTgxODIzNjJdfQ==
 -->
