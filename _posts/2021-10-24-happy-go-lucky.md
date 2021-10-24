@@ -109,98 +109,53 @@ _Flutes:_ Andy Findon, Nina Robertson<br>
 _Oboe:_ Richard Simpson<br>
 _Clarinet:_ Tim Lines<br>
 _Bassoon:_ Richard Skinner<br>
-
 _French Horn:_ Tim Jones<br>
-
 _Trumpet:_ Derek Watkinson<br>
-
 _Euphoniums:_ Patrick Herrild, Owen Slade<br>
-
 _Classical Guitar:_ John Parricelli<br>
-
 _Music Conducted by:_ Terry Davies<br>
-
 _Orchestra Contractor:_ Isobel Griffiths<br>
-
 _Music Editor:_ Andy Glen<br>
-
 _Music Recorded/Mixed at:_ Angel Studios, London<br>
-
 _Music Recording Engineer:_ Gary Thomas<br>
-
-_Choreographer/Flamenco Dance Consultant:_
-
-Isabel Baquero<br>
-
+_Choreographer/Flamenco Dance Consultant:_ Isabel Baquero<br>
 _Sound Recordist:_ Tim Fraser<br>
-
 _Re-recording Mixers:_ Robert Farr, Mark Paterson<br>
-
 _Supervising Sound Editor:_ Nigel Stone<br>
-
 _Dialogue Editor:_ Jason Canovas<br>
-
 _Recordist ADR:_ Anthony Bayman<br>
-
 _ADR Mixer:_ Andy Thompson<br>
-
 _Foley Editor:_ Steve Schwalbe<br>
-
 _Action Vehicles:_ Reel Vehicles<br>
-
 _Publicity:_ Jonathan Rutter, Premier PR<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Sally Hawkins _(Poppy)_<br>
-
 Eddie Marsan _(Scott)_<br>
-
 Alexis Zegerman _(Zoe)_<br>
-
 Sylvestra Le Touzel _(Heather)_<br>
-
 Stanley Townsend _(tramp)_<br>
-
 Kate O’Flynn _(Suzy)_<br>
-
 Caroline Martin _(Helen)_<br>
-
 Oliver Maltman _(Jamie)_<br>
-
 Sarah Niles _(Tash)_<br>
-
 Samuel Roukin _(Tim)_<br>
-
 Karina Fernandez _(flamenco teacher)_<br>
-
 Nonso Anozie _(Ezra)_<br>
-
 Sinéad Matthews _(Alice)_<br>
-
 Andrea Riseborough _(Dawn)_<br>
-
 Elliot Cowan _(bookshop assistant)_<br>
-
 Joseph Kloska _(Suzy’s boyfriend)_<br>
-
 Anna Reynolds _(receptionist)_<br>
-
 Trevor Cooper _(patient)_<br>
-
-Philip Arditti, Viss Elliot, Rebekah Staton  
-_(flamenco students)_<br>
-
+Philip Arditti, Viss Elliot, Rebekah Staton  _(flamenco students)_<br>
 Jack MacGeachin _(Nick)_<br>
-
 Charlie Duffield _(Charlie)_<br>
-
 Ayotunde Williams _(Ayotunde)_<br>
 
 UK/USA 2007©<br>
-
 118 mins
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg0NzU4NzddfQ==
+eyJoaXN0b3J5IjpbLTM5NTc0ODk4N119
 -->
