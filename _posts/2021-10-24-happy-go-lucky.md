@@ -1,9 +1,8 @@
-<![endif]-->
+
 
 _+ Q&A with Mike Leigh and Alexis Zegerman_
 
-Let me tell you something about teaching,’ snaps bitter, lost Scott (Eddie Marsan) to bubbly, glass-half-full Poppy (Sally Hawkins) in Mike Leigh’s new film _Happy-Go-Lucky_. Both are teachers of a sort: 30-year-old Poppy works at a local primary school while Scott is a driving instructor. But that’s where the similarities between these two Londoners end: their attitudes to life are worlds apart and they would be unlikely to meet if the confinement of a driving lesson had not thrust them together in a hermetic dramatic space comparable to the living rooms of Leigh films from _Bleak Moments_ (1971) through _Life Is Sweet_ (1990) to _Secrets & Lies_ (1996).  
-Put simply, Poppy sees the best in people, while Scott sees the worst.
+Let me tell you something about teaching,’ snaps bitter, lost Scott (Eddie Marsan) to bubbly, glass-half-full Poppy (Sally Hawkins) in Mike Leigh’s new film _Happy-Go-Lucky_. Both are teachers of a sort: 30-year-old Poppy works at a local primary school while Scott is a driving instructor. But that’s where the similarities between these two Londoners end: their attitudes to life are worlds apart and they would be unlikely to meet if the confinement of a driving lesson had not thrust them together in a hermetic dramatic space comparable to the living rooms of Leigh films from _Bleak Moments_ (1971) through _Life Is Sweet_ (1990) to _Secrets & Lies_ (1996).  Put simply, Poppy sees the best in people, while Scott sees the worst.
 
 The word is that _Happy-Go-Lucky_ is a departure for Leigh, a comedy that’s unashamedly optimistic. But that analysis only works on a superficial level and for those with short memories. Leigh himself, speaking to me about the film, is already tired of some of the more lazy reactions. ‘It’s said to be ‘extraordinary from this miserabilist’,’ he quotes, paraphrasing some of the reviews written when _Happy-Go-Lucky_ played at this year’s Berlin, where Sally Hawkins won the Silver Bear for acting. ‘To be honest, it’s so ludicrous that I’m beyond being cross about it.’
 
@@ -23,117 +22,112 @@ But perhaps we shouldn’t get too carried away by Poppy’s effervescent nature
 
 Poppy reacts with striking intuition, nodding and agreeing. ‘You know?’ he asks, stumbling to a halt. ‘Yeah, I do,’ says Poppy with an empathy that suggests real understanding. Does her refusal to share the details of this encounter with her friends hint that Poppy is hiding a buried unhappiness she doesn’t fully comprehend? Certainly it’s an episode that shines new light on her scenes of comic banter, as at the osteopath’s surgery where she deflects her pain with a stream of gags.
 
-Some of Leigh’s films are explicitly of the moment: _Meantime_ investigates early-1980s unemployment; the television play _Four Days in July_ (1984) focuses on the Northern Irish religious divide; _High Hopes_ riffs on the fading flame of socialism;  
-_Life Is Sweet_ draws attention to the absurdities of Thatcherite entrepreneurialism.  
-But there are others where the sense of contemporaneity is more ingrained in the characters, their attitudes and their relations to the people around them.  
-_Happy-Go-Lucky_ belongs to this category: we have to step back from the story to consider what Poppy’s character and behaviour say about the zeitgeist. She’s a modern, urban woman, as comfortable with her friends as with her family, able to balance pleasure with work, and confident in being single while retaining romantic ideals. Leigh teases the political out of the personal. ‘I don’t think _Happy-Go-Lucky_ is any less political than my other films,’ he insists. ‘It’s as much about dealing with life and coping with issues as anything I’ve made.’
+Some of Leigh’s films are explicitly of the moment: _Meantime_ investigates early-1980s unemployment; the television play _Four Days in July_ (1984) focuses on the Northern Irish religious divide; _High Hopes_ riffs on the fading flame of socialism;  _Life Is Sweet_ draws attention to the absurdities of Thatcherite entrepreneurialism.  But there are others where the sense of contemporaneity is more ingrained in the characters, their attitudes and their relations to the people around them.  _Happy-Go-Lucky_ belongs to this category: we have to step back from the story to consider what Poppy’s character and behaviour say about the zeitgeist. She’s a modern, urban woman, as comfortable with her friends as with her family, able to balance pleasure with work, and confident in being single while retaining romantic ideals. Leigh teases the political out of the personal. ‘I don’t think _Happy-Go-Lucky_ is any less political than my other films,’ he insists. ‘It’s as much about dealing with life and coping with issues as anything I’ve made.’  
+**Dave Calhoun, _Sight & Sound_, May 2008**
+<br><br>
 
-Dave Calhoun, _Sight & Sound_, May 2008
+**HAPPY-GO-LUCKY**<br>
 
-<![endif]-->
-
-**HAPPY-GO-LUCKY**
-
-_Directed by:_ Mike Leigh
+_Directed by:_ Mike Leigh<br>
 
 ©  Untitled 06 Distribution Limited,
 
-Channel Four, UK Film Council
+Channel Four, UK Film Council<br>
 
 _Production Companies:_ Thin Man Films,  
-Ingenious Film Partners
+Ingenious Film Partners<br>
 
-_For:_ Film4
+_For:_ Film4<br>
 
 _Made with the support of:_  
-UK Film Council Premiere Fund
+UK Film Council Premiere Fund<br>
 
-_Produced by:_ Ingenious Film Partners 2 LLP
+_Produced by:_ Ingenious Film Partners 2 LLP<br>
 
-_On behalf of:_ Untitled 06 Distribution Limited
+_On behalf of:_ Untitled 06 Distribution Limited<br>
 
-_Distribution by:_ Summit Entertainment
+_Distribution by:_ Summit Entertainment<br>
 
-_Executive Producers:_ James Clayton, David Garrett, Duncan Reid, Tessa Ross, Gail Egan
+_Executive Producers:_ James Clayton, David Garrett, Duncan Reid, Tessa Ross, Gail Egan<br>
 
-_Produced by:_ Simon Channing Williams
+_Produced by:_ Simon Channing Williams<br>
 
-_Co-producer:_ Georgina Lowe
+_Co-producer:_ Georgina Lowe<br>
 
 _Commercial Executive for IFP:_  
-Guillaume de Chalendar
+Guillaume de Chalendar<br>
 
-_Production Executive For IFP:_ Nik Bower
+_Production Executive For IFP:_ Nik Bower<br>
 
-_Distribution For IFP:_ Jane Moore
+_Distribution For IFP:_ Jane Moore<br>
 
-_Finance For IFP:_ Mark Fielding
+_Finance For IFP:_ Mark Fielding<br>
 
-_Operations:_ Peter Touche
+_Operations:_ Peter Touche<br>
 
-_For Ingenious Media Services:_ Ellen Fraser
+_For Ingenious Media Services:_ Ellen Fraser<br>
 
 _Head of Business Affairs for Film Four:_  
-Paul Grindley
+Paul Grindley<br>
 
-_Legal Services for Film Four:_ Gretta Finer
+_Legal Services for Film Four:_ Gretta Finer<br>
 
-_Head of Premiere Fund for UKFC:_ Sally Caplan
+_Head of Premiere Fund for UKFC:_ Sally Caplan<br>
 
-_Head of Business Affairs for UKFC:_ Will Evans
+_Head of Business Affairs for UKFC:_ Will Evans<br>
 
 _Head of Production Finance for UKFC:_  
-Vince Holden
+Vince Holden<br>
 
-_Head of Production for UKFC:_ Fiona Morham
+_Head of Production for UKFC:_ Fiona Morham<br>
 
 _Completion Bond:_ Graham Easton,  
-Film Finances Ltd
+Film Finances Ltd<br>
 
-_Production Supervisor:_ Danielle Brandon
+_Production Supervisor:_ Danielle Brandon<br>
 
-_Production Accountant:_ Will Tyler
+_Production Accountant:_ Will Tyler<br>
 
-_Thin Man Films Accountant:_ Bek Leigh
+_Thin Man Films Accountant:_ Bek Leigh<br>
 
-_Production Co-ordinator:_ Sarah McBryde
+_Production Co-ordinator:_ Sarah McBryde<br>
 
-_Location Manager:_ Jonah Coombes
+_Location Manager:_ Jonah Coombes<br>
 
 _Assistant Location Managers:_ Josh Yudkin,
 
-Amy McCombe
+Amy McCombe<br>
 
-_Location Assistant:_ Amie Tridgell
+_Location Assistant:_ Amie Tridgell<br>
 
-_Location Trainee:_ Hannah Lamb
+_Location Trainee:_ Hannah Lamb<br>
 
-_Post-production Supervisor:_ Polly Duval
+_Post-production Supervisor:_ Polly Duval<br>
 
-_Producer’s Assistant:_ Edith Kähler
+_Producer’s Assistant:_ Edith Kähler<br>
 
-_Producer’s Secretary:_ Tessa Morgan
+_Producer’s Secretary:_ Tessa Morgan<br>
 
-_1st Assistant Director:_ Josh Robertson
+_1st Assistant Director:_ Josh Robertson<br>
 
 _2nd Assistant Directors:_ Chloe Chesterton,
 
-Abbie Browne
+Abbie Browne<br>
 
 _3rd Assistant Directors:_ Melanie Heseltine,  
-Serena Plunkett
+Serena Plunkett<br>
 
-_Script Supervisor:_ Heather Storr
+_Script Supervisor:_ Heather Storr<br>
 
-_Casting:_ Nina Gold
+_Casting:_ Nina Gold<br>
 
-_Casting Assistant:_ Robert Sterne
+_Casting Assistant:_ Robert Sterne<br>
 
-_Screenplay:_ Mike Leigh
+_Screenplay:_ Mike Leigh<br>
 
-_Director of Photography:_ Dick Pope
+_Director of Photography:_ Dick Pope<br>
 
-_Camera Operator:_ Dick Pope
+_Camera Operator:_ Dick Pope<br>
 
 _Focus Puller:_ Gordon Segrove
 
@@ -305,5 +299,5 @@ UK/USA 2007©
 
 118 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4MTA1ODczXX0=
+eyJoaXN0b3J5IjpbNzAxNDIzNTA1XX0=
 -->
