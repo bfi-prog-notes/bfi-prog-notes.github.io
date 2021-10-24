@@ -29,179 +29,85 @@ Some of Leigh’s films are explicitly of the moment: _Meantime_ investigates ea
 **HAPPY-GO-LUCKY**<br>
 _Directed by:_ Mike Leigh<br>
 ©  Untitled 06 Distribution Limited, Channel Four, UK Film Council<br>
-
-_Production Companies:_ Thin Man Films,  
-Ingenious Film Partners<br>
-
+_Production Companies:_ Thin Man Films,  Ingenious Film Partners<br>
 _For:_ Film4<br>
-
-_Made with the support of:_  
-UK Film Council Premiere Fund<br>
-
+_Made with the support of:_  UK Film Council Premiere Fund<br>
 _Produced by:_ Ingenious Film Partners 2 LLP<br>
-
 _On behalf of:_ Untitled 06 Distribution Limited<br>
-
 _Distribution by:_ Summit Entertainment<br>
-
 _Executive Producers:_ James Clayton, David Garrett, Duncan Reid, Tessa Ross, Gail Egan<br>
-
 _Produced by:_ Simon Channing Williams<br>
-
 _Co-producer:_ Georgina Lowe<br>
-
-_Commercial Executive for IFP:_  
-Guillaume de Chalendar<br>
-
+_Commercial Executive for IFP:_  Guillaume de Chalendar<br>
 _Production Executive For IFP:_ Nik Bower<br>
-
 _Distribution For IFP:_ Jane Moore<br>
-
 _Finance For IFP:_ Mark Fielding<br>
-
 _Operations:_ Peter Touche<br>
-
 _For Ingenious Media Services:_ Ellen Fraser<br>
-
-_Head of Business Affairs for Film Four:_  
-Paul Grindley<br>
-
+_Head of Business Affairs for Film Four:_  Paul Grindley<br>
 _Legal Services for Film Four:_ Gretta Finer<br>
-
 _Head of Premiere Fund for UKFC:_ Sally Caplan<br>
-
 _Head of Business Affairs for UKFC:_ Will Evans<br>
-
-_Head of Production Finance for UKFC:_  
-Vince Holden<br>
-
+_Head of Production Finance for UKFC:_  Vince Holden<br>
 _Head of Production for UKFC:_ Fiona Morham<br>
-
-_Completion Bond:_ Graham Easton,  
-Film Finances Ltd<br>
-
+_Completion Bond:_ Graham Easton,  Film Finances Ltd<br>
 _Production Supervisor:_ Danielle Brandon<br>
-
 _Production Accountant:_ Will Tyler<br>
-
 _Thin Man Films Accountant:_ Bek Leigh<br>
-
 _Production Co-ordinator:_ Sarah McBryde<br>
-
 _Location Manager:_ Jonah Coombes<br>
-
-_Assistant Location Managers:_ Josh Yudkin,
-
-Amy McCombe<br>
-
+_Assistant Location Managers:_ Josh Yudkin, Amy McCombe<br>
 _Location Assistant:_ Amie Tridgell<br>
-
 _Location Trainee:_ Hannah Lamb<br>
-
 _Post-production Supervisor:_ Polly Duval<br>
-
 _Producer’s Assistant:_ Edith Kähler<br>
-
 _Producer’s Secretary:_ Tessa Morgan<br>
-
 _1st Assistant Director:_ Josh Robertson<br>
-
-_2nd Assistant Directors:_ Chloe Chesterton,
-
-Abbie Browne<br>
-
-_3rd Assistant Directors:_ Melanie Heseltine,  
-Serena Plunkett<br>
-
+_2nd Assistant Directors:_ Chloe Chesterton, Abbie Browne<br>
+_3rd Assistant Directors:_ Melanie Heseltine,  Serena Plunkett<br>
 _Script Supervisor:_ Heather Storr<br>
-
 _Casting:_ Nina Gold<br>
-
 _Casting Assistant:_ Robert Sterne<br>
-
 _Screenplay:_ Mike Leigh<br>
-
 _Director of Photography:_ Dick Pope<br>
-
 _Camera Operator:_ Dick Pope<br>
-
 _Focus Puller:_ Gordon Segrove<br>
-
 _Clapper Loader:_ John Evans<br>
-
 _Camera Trainee:_ Pearse Crowley<br>
-
 _Grip:_ Colin Strachan<br>
-
 _Gaffer:_ Matthew Moffatt<br>
-
 _Stills Photographer:_ Simon Mein<br>
-
 _Special Effects:_ Special Effects GB Ltd<br>
-
 _Editor:_ Jim Clark<br>
-
 _1st Assistant Editor:_ Gavin Buckley<br>
-
 _Production Designer:_ Mark Tildesley<br>
-
 _Supervising Art Director:_ Patrick Rolfe<br>
-
 _Art Director:_ Denis Schnegg<br>
-
 _Assistant Art Director:_ Katrina Dunn<br>
-
 _Standby Art Director:_ Arwel Evans<br>
-
 _Set Decorator:_ Michelle Day<br>
-
 _Art Department Assistant:_ Nadine Herrmann<br>
-
 _Production Buyer:_ Kathryn Pyle<br>
-
 _Property Master:_ Nick Thomas<br>
-
 _Construction Manager:_ Dan Crandon<br>
-
 _Costume Designer:_ Jacqueline Durran<br>
-
 _Assistant Costume Designer:_ Holly Waddington<br>
-
 _Wardrobe Supervisor:_ David Crossman<br>
-
 _Wardrobe Mistress:_ Tamsin Wright<br>
-
 _Make-up/Hair Design:_ Christine Blundell<br>
-
 _Make-up Artist:_ Lesa Warrener<br>
-
 _Make-up Assistant:_ Chloë Meddings<br>
-
 _Title Design:_ Chris Allies<br>
-
 _Originated on:_ Fuji Film<br>
-
 _Rushes/Prints by:_ DeLuxe<br>
-
 _Music Composed by:_ Gary Yershon<br>
-
 _Orchestra Leader:_ Sonia Slany<br>
-
-_Violins:_ Rita Manning, Mark Berrow,
-
-Calina De La Mare, Liz Edwards, Julian Leaper<br>
-
-_Violas:_ Clare Finnimore, Bill Hawkes,  
-George Robertson<br>
-
+_Violins:_ Rita Manning, Mark Berrow, Calina De La Mare, Liz Edwards, Julian Leaper<br>
+_Violas:_ Clare Finnimore, Bill Hawkes,  George Robertson<br>
 _Bass:_ Mary Scully<br>
-
 _Flutes:_ Andy Findon, Nina Robertson<br>
-
 _Oboe:_ Richard Simpson<br>
-
 _Clarinet:_ Tim Lines<br>
-
 _Bassoon:_ Richard Skinner<br>
 
 _French Horn:_ Tim Jones<br>
@@ -296,5 +202,5 @@ UK/USA 2007©<br>
 118 mins
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU2NzMxNDNdfQ==
+eyJoaXN0b3J5IjpbLTIwNTg0NzU4NzddfQ==
 -->
