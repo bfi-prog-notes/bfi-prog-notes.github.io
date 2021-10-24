@@ -27,12 +27,8 @@ Some of Leigh’s films are explicitly of the moment: _Meantime_ investigates ea
 <br><br>
 
 **HAPPY-GO-LUCKY**<br>
-
 _Directed by:_ Mike Leigh<br>
-
-©  Untitled 06 Distribution Limited,
-
-Channel Four, UK Film Council<br>
+©  Untitled 06 Distribution Limited, Channel Four, UK Film Council<br>
 
 _Production Companies:_ Thin Man Films,  
 Ingenious Film Partners<br>
@@ -129,175 +125,176 @@ _Director of Photography:_ Dick Pope<br>
 
 _Camera Operator:_ Dick Pope<br>
 
-_Focus Puller:_ Gordon Segrove
+_Focus Puller:_ Gordon Segrove<br>
 
-_Clapper Loader:_ John Evans
+_Clapper Loader:_ John Evans<br>
 
-_Camera Trainee:_ Pearse Crowley
+_Camera Trainee:_ Pearse Crowley<br>
 
-_Grip:_ Colin Strachan
+_Grip:_ Colin Strachan<br>
 
-_Gaffer:_ Matthew Moffatt
+_Gaffer:_ Matthew Moffatt<br>
 
-_Stills Photographer:_ Simon Mein
+_Stills Photographer:_ Simon Mein<br>
 
-_Special Effects:_ Special Effects GB Ltd
+_Special Effects:_ Special Effects GB Ltd<br>
 
-_Editor:_ Jim Clark
+_Editor:_ Jim Clark<br>
 
-_1st Assistant Editor:_ Gavin Buckley
+_1st Assistant Editor:_ Gavin Buckley<br>
 
-_Production Designer:_ Mark Tildesley
+_Production Designer:_ Mark Tildesley<br>
 
-_Supervising Art Director:_ Patrick Rolfe
+_Supervising Art Director:_ Patrick Rolfe<br>
 
-_Art Director:_ Denis Schnegg
+_Art Director:_ Denis Schnegg<br>
 
-_Assistant Art Director:_ Katrina Dunn
+_Assistant Art Director:_ Katrina Dunn<br>
 
-_Standby Art Director:_ Arwel Evans
+_Standby Art Director:_ Arwel Evans<br>
 
-_Set Decorator:_ Michelle Day
+_Set Decorator:_ Michelle Day<br>
 
-_Art Department Assistant:_ Nadine Herrmann
+_Art Department Assistant:_ Nadine Herrmann<br>
 
-_Production Buyer:_ Kathryn Pyle
+_Production Buyer:_ Kathryn Pyle<br>
 
-_Property Master:_ Nick Thomas
+_Property Master:_ Nick Thomas<br>
 
-_Construction Manager:_ Dan Crandon
+_Construction Manager:_ Dan Crandon<br>
 
-_Costume Designer:_ Jacqueline Durran
+_Costume Designer:_ Jacqueline Durran<br>
 
-_Assistant Costume Designer:_ Holly Waddington
+_Assistant Costume Designer:_ Holly Waddington<br>
 
-_Wardrobe Supervisor:_ David Crossman
+_Wardrobe Supervisor:_ David Crossman<br>
 
-_Wardrobe Mistress:_ Tamsin Wright
+_Wardrobe Mistress:_ Tamsin Wright<br>
 
-_Make-up/Hair Design:_ Christine Blundell
+_Make-up/Hair Design:_ Christine Blundell<br>
 
-_Make-up Artist:_ Lesa Warrener
+_Make-up Artist:_ Lesa Warrener<br>
 
-_Make-up Assistant:_ Chloë Meddings
+_Make-up Assistant:_ Chloë Meddings<br>
 
-_Title Design:_ Chris Allies
+_Title Design:_ Chris Allies<br>
 
-_Originated on:_ Fuji Film
+_Originated on:_ Fuji Film<br>
 
-_Rushes/Prints by:_ DeLuxe
+_Rushes/Prints by:_ DeLuxe<br>
 
-_Music Composed by:_ Gary Yershon
+_Music Composed by:_ Gary Yershon<br>
 
-_Orchestra Leader:_ Sonia Slany
+_Orchestra Leader:_ Sonia Slany<br>
 
 _Violins:_ Rita Manning, Mark Berrow,
 
-Calina De La Mare, Liz Edwards, Julian Leaper
+Calina De La Mare, Liz Edwards, Julian Leaper<br>
 
 _Violas:_ Clare Finnimore, Bill Hawkes,  
-George Robertson
+George Robertson<br>
 
-_Bass:_ Mary Scully
+_Bass:_ Mary Scully<br>
 
-_Flutes:_ Andy Findon, Nina Robertson
+_Flutes:_ Andy Findon, Nina Robertson<br>
 
-_Oboe:_ Richard Simpson
+_Oboe:_ Richard Simpson<br>
 
-_Clarinet:_ Tim Lines
+_Clarinet:_ Tim Lines<br>
 
-_Bassoon:_ Richard Skinner
+_Bassoon:_ Richard Skinner<br>
 
-_French Horn:_ Tim Jones
+_French Horn:_ Tim Jones<br>
 
-_Trumpet:_ Derek Watkinson
+_Trumpet:_ Derek Watkinson<br>
 
-_Euphoniums:_ Patrick Herrild, Owen Slade
+_Euphoniums:_ Patrick Herrild, Owen Slade<br>
 
-_Classical Guitar:_ John Parricelli
+_Classical Guitar:_ John Parricelli<br>
 
-_Music Conducted by:_ Terry Davies
+_Music Conducted by:_ Terry Davies<br>
 
-_Orchestra Contractor:_ Isobel Griffiths
+_Orchestra Contractor:_ Isobel Griffiths<br>
 
-_Music Editor:_ Andy Glen
+_Music Editor:_ Andy Glen<br>
 
-_Music Recorded/Mixed at:_ Angel Studios, London
+_Music Recorded/Mixed at:_ Angel Studios, London<br>
 
-_Music Recording Engineer:_ Gary Thomas
+_Music Recording Engineer:_ Gary Thomas<br>
 
 _Choreographer/Flamenco Dance Consultant:_
 
-Isabel Baquero
+Isabel Baquero<br>
 
-_Sound Recordist:_ Tim Fraser
+_Sound Recordist:_ Tim Fraser<br>
 
-_Re-recording Mixers:_ Robert Farr, Mark Paterson
+_Re-recording Mixers:_ Robert Farr, Mark Paterson<br>
 
-_Supervising Sound Editor:_ Nigel Stone
+_Supervising Sound Editor:_ Nigel Stone<br>
 
-_Dialogue Editor:_ Jason Canovas
+_Dialogue Editor:_ Jason Canovas<br>
 
-_Recordist ADR:_ Anthony Bayman
+_Recordist ADR:_ Anthony Bayman<br>
 
-_ADR Mixer:_ Andy Thompson
+_ADR Mixer:_ Andy Thompson<br>
 
-_Foley Editor:_ Steve Schwalbe
+_Foley Editor:_ Steve Schwalbe<br>
 
-_Action Vehicles:_ Reel Vehicles
+_Action Vehicles:_ Reel Vehicles<br>
 
-_Publicity:_ Jonathan Rutter, Premier PR
+_Publicity:_ Jonathan Rutter, Premier PR<br>
 
-_Cast:_
+_Cast:_<br>
 
-Sally Hawkins _(Poppy)_
+Sally Hawkins _(Poppy)_<br>
 
-Eddie Marsan _(Scott)_
+Eddie Marsan _(Scott)_<br>
 
-Alexis Zegerman _(Zoe)_
+Alexis Zegerman _(Zoe)_<br>
 
-Sylvestra Le Touzel _(Heather)_
+Sylvestra Le Touzel _(Heather)_<br>
 
-Stanley Townsend _(tramp)_
+Stanley Townsend _(tramp)_<br>
 
-Kate O’Flynn _(Suzy)_
+Kate O’Flynn _(Suzy)_<br>
 
-Caroline Martin _(Helen)_
+Caroline Martin _(Helen)_<br>
 
-Oliver Maltman _(Jamie)_
+Oliver Maltman _(Jamie)_<br>
 
-Sarah Niles _(Tash)_
+Sarah Niles _(Tash)_<br>
 
-Samuel Roukin _(Tim)_
+Samuel Roukin _(Tim)_<br>
 
-Karina Fernandez _(flamenco teacher)_
+Karina Fernandez _(flamenco teacher)_<br>
 
-Nonso Anozie _(Ezra)_
+Nonso Anozie _(Ezra)_<br>
 
-Sinéad Matthews _(Alice)_
+Sinéad Matthews _(Alice)_<br>
 
-Andrea Riseborough _(Dawn)_
+Andrea Riseborough _(Dawn)_<br>
 
-Elliot Cowan _(bookshop assistant)_
+Elliot Cowan _(bookshop assistant)_<br>
 
-Joseph Kloska _(Suzy’s boyfriend)_
+Joseph Kloska _(Suzy’s boyfriend)_<br>
 
-Anna Reynolds _(receptionist)_
+Anna Reynolds _(receptionist)_<br>
 
-Trevor Cooper _(patient)_
+Trevor Cooper _(patient)_<br>
 
 Philip Arditti, Viss Elliot, Rebekah Staton  
-_(flamenco students)_
+_(flamenco students)_<br>
 
-Jack MacGeachin _(Nick)_
+Jack MacGeachin _(Nick)_<br>
 
-Charlie Duffield _(Charlie)_
+Charlie Duffield _(Charlie)_<br>
 
-Ayotunde Williams _(Ayotunde)_
+Ayotunde Williams _(Ayotunde)_<br>
 
-UK/USA 2007©
+UK/USA 2007©<br>
 
 118 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxNDIzNTA1XX0=
+eyJoaXN0b3J5IjpbLTEzMjU2NzMxNDNdfQ==
 -->
