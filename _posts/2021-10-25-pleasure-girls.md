@@ -82,7 +82,7 @@ _Sound Mixer_: John Mitchell
 _Publicity_: Dora Dobson  
 _Made at_: Twickenham Film Studios
 
-**Cast**
+**Cast**  
 Ian McShane _(Keith Dexter)_  
 Francesca Annis _(Sally Feathers)_  
 Klaus Kinski _(Nikko Stalmar)_  
