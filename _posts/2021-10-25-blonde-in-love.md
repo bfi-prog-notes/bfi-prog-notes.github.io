@@ -1,17 +1,13 @@
 
-<![endif]-->
 
-Many of us were inspired by the Czech New Wave cinema, most especially by this seminal study of working-class life. Forman shot entirely on location in a documentary style, with a mixed cast of actors and non-professionals, and involving substantial improvisation, and he tells his story without sentimentality, and with irrepressible wit. Love and dreams. Youth and growing old. And sex. Glorious.
-
-Mike Leigh
+Many of us were inspired by the Czech New Wave cinema, most especially by this seminal study of working-class life. Forman shot entirely on location in a documentary style, with a mixed cast of actors and non-professionals, and involving substantial improvisation, and he tells his story without sentimentality, and with irrepressible wit. Love and dreams. Youth and growing old. And sex. Glorious.<br>
+**Mike Leigh**
 
 The Czech writer-director Ivan Passer (who co-scripted _A Blonde in Love_) tells some very colourful stories about his school days at the King George College in Podebrady, a small spa town to the east of Prague. Here, a 13th-century fortress was turned into a boarding school. In 1948 the founder was Lady Baden-Powell, wife of the man who started the Scout Movement, and the 70 pupils included problem kids, war orphans and the sons of foreign diplomats. Milos Forman was there, as was Václav Havel (future president of the Czech Republic but a keen student boxer in those days), the Polish filmmaker Jerzy Skolimowski and the animator Paul Fierlinger. Forman, Passer recalls, was a ferociously competitive child who once challenged him to a duel to see who could stand in a corner with a book on their head for the longest. They stood for hours, neither one prepared to lose.
 
 Watching _A Blonde in Love_, it’s easy to be reminded of Passer’s yarns about the young Forman. It plays like a cross between a 1960s New Wave film and an Ealing comedy. As in Ealing films, there is a wry, subversive attitude towards bureaucracy: Zruc, the factory town where the story is largely set, has a ratio of 16 women to every man. In a wonderful early scene, pettifogging civil servants discuss the town’s problems – two thousand girls live there, all without boyfriends. ‘Girls, rosebuds! You understand? Youth,’ an official explains to the Comrade Mayor. That’s why a consignment of soldiers is sent to the town for a special dance. To the girls’ disappointment, however, they are all reservists – middle-aged, overweight and tending to baldness.
 
-Cinematographer Miroslav Ondricek shoots the dance in _vérité_ style. The camera darts between the tables where soldiers and girls sit warily opposite one another.  
-At one point, a bespectacled and very tubby soldier takes off his wedding ring and hides it in his pocket as he prepares to dance with one of the girls; almost inevitably, the ring falls out of his pocket, and the camera follows it as it rolls across the dance floor, through a sea of legs, and ends up under the chair of one of the women.  
-The soldier crawls after it and ends up beneath the table, rummaging around beside the women’s feet – the humour is wonderfully deadpan and understated.
+Cinematographer Miroslav Ondricek shoots the dance in _vérité_ style. The camera darts between the tables where soldiers and girls sit warily opposite one another.  At one point, a bespectacled and very tubby soldier takes off his wedding ring and hides it in his pocket as he prepares to dance with one of the girls; almost inevitably, the ring falls out of his pocket, and the camera follows it as it rolls across the dance floor, through a sea of legs, and ends up under the chair of one of the women.  The soldier crawls after it and ends up beneath the table, rummaging around beside the women’s feet – the humour is wonderfully deadpan and understated.
 
 It’s just one example of Forman’s genius for homing in on seemingly minor and banal details that turn out to be both comic and very revealing. The scene in which the ‘blonde’, Andula (Hana Brejchovâ), makes love with the young quaffed-up musician Milda (Vladimir Pucholt) is shot in a surprisingly frank way, but there is nothing overwrought or voyeuristic about it. Forman leavens what could have seemed an awkward moment by putting as much emphasis on Milda’s hapless attempts to close the blinds as on the lovemaking. ‘It was,’ Ken Loach has said, describing what enraptured him about the films of Forman and his contemporaries, ‘the unmelodramatic way they observed people with some sense of shared humanity.’
 
@@ -21,13 +17,10 @@ Forman first had the idea for the movie in the late 1950s after meeting a girl c
 
 In the 1960s, when the Czech film industry was under Soviet control, filmmakers such as Forman and Jiri Menzel deliberately made intimate and comical dramas about everyday characters. Forman proclaimed that he wasn’t interested in ‘grand manner’ or ‘operatic emotion’, and that the best stories were rooted in ordinary behaviour. His films were cherished by Czech audiences – Passer claimed that when he and Forman went into exile in the late 1960s they didn’t have the proper papers, but the border guard was such a fan of Forman’s that he waved them through.
 
-Forman has gone on to make some very distinguished films in the west (most recently 2006’s underrated _Goya’s Ghosts_). Nonetheless, films such as _Ragtime_ (1981), _Amadeus_ (1984), _Valmont_ (1989) and even the celebrated _One Flew over the Cuckoo’s Nest_ (1975) don’t have the simplicity or arguably the perceptiveness of  
-_A Blonde in Love_. Sometimes, in his work in the US, Forman has indulged in ‘grand manner’ and ‘operatic emotion’, and the mischief and playfulness that Passer spotted in him when they were schoolchildren haven’t been a hallmark of his Hollywood career. _A Blonde in Love_, like Menzel’s _Closely Observed Trains_ (1966), hasn’t dated at all, and its humour, finely honed social observation, eroticism and mild subversiveness remain as fresh today as in the mid-1960s.
+Forman has gone on to make some very distinguished films in the west (most recently 2006’s underrated _Goya’s Ghosts_). Nonetheless, films such as _Ragtime_ (1981), _Amadeus_ (1984), _Valmont_ (1989) and even the celebrated _One Flew over the Cuckoo’s Nest_ (1975) don’t have the simplicity or arguably the perceptiveness of  _A Blonde in Love_. Sometimes, in his work in the US, Forman has indulged in ‘grand manner’ and ‘operatic emotion’, and the mischief and playfulness that Passer spotted in him when they were schoolchildren haven’t been a hallmark of his Hollywood career. _A Blonde in Love_, like Menzel’s _Closely Observed Trains_ (1966), hasn’t dated at all, and its humour, finely honed social observation, eroticism and mild subversiveness remain as fresh today as in the mid-1960s.<br>
+**Geoffrey Macnab, _Sight & Sound_, April 2011**<br>
 
-Geoffrey Macnab, _Sight & Sound_, April 2011
-
-**A contemporary review**
-
+**A contemporary review**<br>
 Forman has said that he likes _A Blonde in Love_ more than any of his first three films. Two of these, _The Competition_ and _If There Were No Bands_, have yet to be seen in Britain, but his preference over _Peter and Pavla_ is logical enough. Always a semi-documentarist, Forman appears previously to have depended largely upon the improvisations of his non-professional performers; with _A Blonde in Love_, he has imposed a stronger framework, with the result that his own part in it as director is more apparent. While his affection for inconsequential details is still generously indulged, scripting appears to have been more precise before shooting actually began. The full circle from opening to closing shots – discounting the lively guitar prologue – is more tidy, if perhaps less interesting in its predictability, than the amiably loose construction of _Peter and Pavla_, while the artfully composed love scenes and such jokes as the runaway ring and the falling blind have touches of contrivance which were never apparent in the earlier film.
 
 In theme, _A Blonde in Love_ could even be termed conventional; in style, fortunately, it demonstrates that Forman’s talent for observation is still remarkable – and it is when his performers are fending for themselves, seemingly unconscious of his inquisitive camera, that _A Blonde in Love_ is at its best. Particularly successful are the three soldiers, their faces haunted by a desperately ageing lechery, their actions by the need to maintain the appearance of worldly dignity even when their gift of wine is delivered to the wrong group of girls.
@@ -36,10 +29,7 @@ Best of all are the scenes at Milda’s home, with his parents gradually being a
 **_Monthly Film Bulletin_, June 1966**<br>
 
 
-**A BLONDE IN LOVE (LÁSKY JEDNÉ PLAVOVLÁSKY)**<br><![endif]-->
-
-**A Blonde in Love**
-**(Lásky Jedné Plavovlásky)**
+**A BLONDE IN LOVE (LÁSKY JEDNÉ PLAVOVLÁSKY)**<br>
 _Director:_ Milos Forman<br>
 _Production Companies:_ Filmové Studio Barrandov, Sebor-Bor, Ceskoslovensky Film<br>
 _Producer:_ Rudolf Hájek<br>
@@ -51,23 +41,17 @@ _Editor:_ Miroslav Hájek<br>
 _Art Director:_ Karel Cerny<br>
 _Music:_ Evzed Illín<br>
 
-**Cast**:<br>
-Hana Brejchová _(Andula)_
-<br>
-Vladimír Pucholt _(Milda)_
-<br>
-Vladimír Mensík _(Vacovsky)_
-<br>
-Antonin Blazejovsky _(Tonda)_
-<br>
-Milada Jezkova _(Mila’s mother)_
-<br>
-Josef Sebánek _(Milda’s father)_
-<br>
+**Cast**<br>
+Hana Brejchová _(Andula)_<br>
+Vladimír Pucholt _(Milda)_<br>
+Vladimír Mensík _(Vacovsky)_<br>
+Antonin Blazejovsky _(Tonda)_<br>
+Milada Jezkova _(Mila’s mother)_<br>
+Josef Sebánek _(Milda’s father)_<br>
 Jana Novakova _(Jaruska)_<br>
 
-Czechoslovakia 1965
-<br>82 mins<br>
+Czechoslovakia 1965<br>
+82 mins<br>
 
 **MIKE LEIGH’S CHOICES**
 
@@ -104,6 +88,6 @@ Tue 16 Nov 18:10
 
 Wed 24 Nov 20:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODMwOTY0NTQsMTEzNTE1MjAxMiw4Mj
+eyJoaXN0b3J5IjpbLTEwMDcyNjM5OTMsMTEzNTE1MjAxMiw4Mj
 EzMjE0NTJdfQ==
 -->
