@@ -34,45 +34,28 @@ In theme, _A Blonde in Love_ could even be termed conventional; in style, fortun
 
 Best of all are the scenes at Milda’s home, with his parents gradually being awoken from mournful contemplation of the television set to the realisation that perhaps for the first time ever they have the chance of finding out what their son is really like. Improvisation or no, the mother’s grumbling monologue when she finds that Andula knows even less than she does, is a gem of insight into aggrieved parenthood. And as one expects from Forman, the dance-hall sequences are beautifully put together, the first with its solemn clumps of watchful guests being chivvied into action by the imperturbable master-of-ceremonies, the second with its opening shot of an empty floor gradually filling with an exuberant celebration of dancing, music-and cinema. What one finally remembers of _A Blonde in Love_, for all the quietly appropriate playing by Hana Brejchova and Vladimir Pucholt, is the sheer enjoyment of scenes like these.<br>
 **_Monthly Film Bulletin_, June 1966**<br>
-<![endif]-->
 
-**A Blonde in Love**
-**(Lásky Jedné Plavovlásky)**
-_Director:_ Milos Forman
+
+**A BLONDE IN LOVE (LÁSKY JEDNÉ PLAVOVLÁSKY)**<br>
+_Director:_ Milos Forman<br>
 _Production Companies:_ Filmové Studio Barrandov, Sebor-Bor, Ceskoslovensky Film
-
 _Producer:_ Rudolf Hájek
-
 _Assistant Director:_ Ivan Passer
-
-_Screenplay:_ Milos Forman,  
-Jaroslav Papousek,
-
+_Screenplay:_ Milos Forman,  Jaroslav Papousek,
 Ivan Passer
-
 _Photography:_ Miroslav Ondrícek
-
 _Editor:_ Miroslav Hájek
-
 _Art Director:_ Karel Cerny
+_Music:_ Evzed Illín<br>
 
-_Music:_ Evzed Illín
-
-_Cast:_
-
+**Cast**
 Hana Brejchová _(Andula)_
-
 Vladimír Pucholt _(Milda)_
-
 Vladimír Mensík _(Vacovsky)_
-
 Antonin Blazejovsky _(Tonda)_
-
 Milada Jezkova _(Mila’s mother)_
-
 Josef Sebánek _(Milda’s father)_
-
-Jana Novakova _(Jaruska)_
+Jana Novakova _(Jaruska)_<br>
 
 Czechoslovakia 1965
 
@@ -113,5 +96,5 @@ Tue 16 Nov 18:10
 
 Wed 24 Nov 20:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg5NDgzMDddfQ==
+eyJoaXN0b3J5IjpbLTIwNDg2OTU3OThdfQ==
 -->
