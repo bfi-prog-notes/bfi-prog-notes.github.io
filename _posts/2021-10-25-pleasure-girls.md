@@ -36,19 +36,14 @@ The critics saw through the promotional mush and I got some marvellous reviews �
 One of the contracts I turned down was an offer from Charles Feldman, the ex-VIP agent in Hollywood, who decided to produce _Casino Royale_ with assorted directors. The offer via a big London agency was to be a sort of ‘director-in-waiting’ in case someone came unstuck. But after a couple of grandiose meetings with Charlie at The Dorchester I smelled a rat and declined. I think I was intended to be some sort of informer – a particularly unpleasant word in those post-McCarthy days – on what was actually happening at Shepperton studios. Charlie’s last words were ‘You’ll be back’, but he was wrong.
 
 _The Pleasure Girls_ played endlessly on black-and-white television, but there were no residuals in those days. As always in the movie business you win some and you lose some… but it was great fun!  
-**Gerry O’Hara, March 2010**  
-Extracted from booklet notes for _The Pleasure Girls_ Blu-ray/DVD release (BFI, 2010)
+**Gerry O’Hara, March 2010**<br>**Extracted from booklet notes for _The Pleasure Girls_ Blu-ray/DVD release (BFI, 2010)**
+<br><br>
 
-<![endif]-->
-
-**LOOK AT LIFE: MEMBERS ONLY**
-
-UK 1965
-
+**LOOK AT LIFE: MEMBERS ONLY**  
+UK 1965  
 9 mins
 
-**THE PLEASURE GIRLS**
-
+**THE PLEASURE GIRLS**  
 _Directed by_: Gerry O’Hara  
 ©: Compton-Tekli Film Productions Ltd  
 Michael Klinger and Tony Tenser _present  
@@ -70,16 +65,14 @@ _Victor Josselyn ‘Pleasure Girls’ Clothes Designed by_: Lee Landau
 _Wardrobe Mistress_: Joyce Stoneman  
 _Make-up_: Ken Mackay  
 _Hairdressers_: Henry Montsash, Bobbie Smith  
-_Music Composed and Conducted by_:  
-Malcolm Lockyer  
+_Music Composed and Conducted by_:  Malcolm Lockyer  
 _Sound Supervisor_: Stephen Dalby  
 _Sound Recordist_: Gerry Humphreys  
 _Sound Mixer_: John Mitchell  
 _Publicity_: Dora Dobson  
 _Made at_: Twickenham Film Studios
 
-_Cast:_
-
+**Cast**  
 Ian McShane _(Keith Dexter)_  
 Francesca Annis _(Sally Feathers)_  
 Klaus Kinski _(Nikko Stalmar)_  
@@ -101,9 +94,9 @@ Yvonne Antrobus _(waitress)_
 Kate Binchy _(nurse)_  
 Peter Diamond _(‘rat-face’)_
 
-UK 1965©
-
+UK 1965©  
 87 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTA3NzE3MV19
+eyJoaXN0b3J5IjpbNjczNDMyMjc2XX0=
 -->
