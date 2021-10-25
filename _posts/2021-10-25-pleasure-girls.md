@@ -43,9 +43,9 @@ The critics saw through the promotional mush and I got some marvellous reviews �
 One of the contracts I turned down was an offer from Charles Feldman, the ex-VIP agent in Hollywood, who decided to produce _Casino Royale_ with assorted directors. The offer via a big London agency was to be a sort of ‘director-in-waiting’ in case someone came unstuck. But after a couple of grandiose meetings with Charlie at The Dorchester I smelled a rat and declined. I think I was intended to be some sort of informer – a particularly unpleasant word in those post-McCarthy days – on what was actually happening at Shepperton studios. Charlie’s last words were ‘You’ll be back’, but he was wrong.
 
 _The Pleasure Girls_ played endlessly on black-and-white television, but there were no residuals in those days. As always in the movie business you win some and you lose some… but it was great fun!  
-**Gerry O’Hara, March 2010**<br>**  
+**Gerry O’Hara, March 2010**  
 **Extracted from booklet notes for _The Pleasure Girls_ Blu-ray/DVD release (BFI, 2010)**
-<br><br
+<br><br>
 
 
 **LOOK AT LIFE: MEMBERS ONLY**  
