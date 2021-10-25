@@ -1,9 +1,18 @@
-
+---
+layout: post
+title: A Time of Change and How Japanese Film Bore Witness to It
+published: true
+date: 2021-10-25
+readtime: true
+categories: ['JAPAN 2021<br> 100 YEARS OF JAPANESE CINEMA']
+tags: [Talks]
+metadata: 
+pdf: '2021-10-25-time-of-change.pdf'
+---
 
 The mid-20th-century golden age of Japanese cinema emerged from a country in the throes of dramatic and irreversible transformation. In this richly illustrated talk, season co-programmer Alexander Jacoby will explore how Japanese filmmakers dramatised and commented on the changing circumstances, lifestyles, values and norms of a nation as it endured the traumas of the war period, before emerging into an increasingly prosperous post-war era.
 
-**Alexander Jacoby** lectures on the arts and culture of Japan, including film, manga and anime, at Oxford Brookes University. He is the author of _A Critical Handbook of Japanese Film Directors_ (2008, Stone Bridge Press) and of a forthcoming monograph on Hirokazu Koreeda, to be published by the BFI and Bloomsbury in 2022. His scholarly essays include contributions to _Japanese Cinema: Texts and Contexts_ (2007, ed. Phillips and Stringer) and  
-_The Japanese Cinema Book_ (2020, ed. Fujiki and Phillips), and his journalism on film and other topics has appeared in various publications including _Sight and Sound_, _The Times_ and _The Japan Times_. He has curated film programmes at the BFI, Il Cinema Ritrovato, Bologna, the Giornate del Cinema Muto, Pordenone, and the Museum of Modern Art, New York.
+**Alexander Jacoby** lectures on the arts and culture of Japan, including film, manga and anime, at Oxford Brookes University. He is the author of _A Critical Handbook of Japanese Film Directors_ (2008, Stone Bridge Press) and of a forthcoming monograph on Hirokazu Koreeda, to be published by the BFI and Bloomsbury in 2022. His scholarly essays include contributions to _Japanese Cinema: Texts and Contexts_ (2007, ed. Phillips and Stringer) and  _The Japanese Cinema Book_ (2020, ed. Fujiki and Phillips), and his journalism on film and other topics has appeared in various publications including _Sight and Sound_, _The Times_ and _The Japan Times_. He has curated film programmes at the BFI, Il Cinema Ritrovato, Bologna, the Giornate del Cinema Muto, Pordenone, and the Museum of Modern Art, New York.
 <br><br>
 
 
@@ -87,7 +96,40 @@ Sun 31 Oct 15:20<br>
 Sun 31 Oct 18:00<br>
 <br>
 
+**Supported by**  
+<img style="float: left;" src="/img/Grand Seiko.png">
+<br><br><br><br><br><br><br><br><br>
 
+**In partnership wtih**  
+<img style="float: left;" src="/img/Japan Foundation.JPG" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+
+**With special thanks to**
+<img style="float: left;" src="/img/NFAJ.png">
+<br><br><br><br><br><br><br><br><br><br><br>
+
+
+**With the kind support of:**<br>
+Janus Films/The Criterion Collection, Kadokawa Corporation, Kawakita Memorial Film Institute, Kokusai Hoei Co. Ltd, Nikkatsu Corporation, Toei Co. Ltd<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjI3OTUyMTM5XX0=
