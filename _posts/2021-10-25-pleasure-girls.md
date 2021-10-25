@@ -14,8 +14,7 @@ A most entertaining example of the ‘young girl moves to the big city’ genre 
 **Edgar Wright**
 
 **Writer/director Gerry O’Hara on ‘The Pleasure Girls’**  
-In the early 1960s I was having a great time as a freelance assistant director.  
-I had had the good luck to get the job of assisting Laurence Olivier on _Richard III_ (1955). That alone lifted me out of the Old Mother Riley zone and on to big-budget movies. Anatole Litvak came over from LA and simply said to the production manager, ‘Get me the guy who worked for Larry!’ After that came Robert Rossen, Otto Preminger, Carol Reed, Vincente Minnelli, Bryan Forbes and the irrepressible Tony Richardson for _Tom Jones_ (1963).
+In the early 1960s I was having a great time as a freelance assistant director.  I had had the good luck to get the job of assisting Laurence Olivier on _Richard III_ (1955). That alone lifted me out of the Old Mother Riley zone and on to big-budget movies. Anatole Litvak came over from LA and simply said to the production manager, ‘Get me the guy who worked for Larry!’ After that came Robert Rossen, Otto Preminger, Carol Reed, Vincente Minnelli, Bryan Forbes and the irrepressible Tony Richardson for _Tom Jones_ (1963).
 
 Somewhere along the line I had a stint on the never-ending _Cleopatra_ in Rome. At first I was on the rehearsal unit ministering to the needs of Hermes Pan’s stunning group of chorus girls for the big parade. I managed to spend some time cultivating a wily old pachyderm in the elephant tent who seemed to take great pleasure in removing my handkerchief from my pants pocket until Walter Wanger and Joe Mankiewicz had me take on the job of trouble-shooter, or ‘ramrod’ in LA parlance. This was fun until Jimmy Woolf hauled me back to London for _The L-Shaped Room_. Jimmy was a wonderful character. I was told he died in bed at the Beverley Hills Hotel with an open script in his lap! Not a bad way to go…
 
@@ -23,11 +22,9 @@ By then I had got the ‘directing bug’ – something of a curse one way or an
 
 Less than a week after the shoot I was back assisting Otto in New York, preparing for _The Cardinal_.
 
-But the ‘bug’ was creeping up on me! I started writing spec scripts in my  
-spare time, printing off, say, 25 copies and bombarding various companies. Mostly they ended up on the ‘slush pile’ with very few even bothering to send a rejection slip.
+But the ‘bug’ was creeping up on me! I started writing spec scripts in my  spare time, printing off, say, 25 copies and bombarding various companies. Mostly they ended up on the ‘slush pile’ with very few even bothering to send a rejection slip.
 
-Luckily I had been sending them to Raymond Stross’s company – he had produced _The Leather Boys_ (1963) and similar medium-budget movies.  
-He happened to be in hospital for a spell, and told his secretary to send him some scripts to pass the time. He read a couple of mine and called me early one morning from St Mary Abbots hospital in west London. He didn’t want to buy the scripts, but liked some of the dialogue. He invited me to tea – served by his beautiful wife Anne Heywood – and gave me the idea for _The Pleasure Girls_.
+Luckily I had been sending them to Raymond Stross’s company – he had produced _The Leather Boys_ (1963) and similar medium-budget movies.  He happened to be in hospital for a spell, and told his secretary to send him some scripts to pass the time. He read a couple of mine and called me early one morning from St Mary Abbots hospital in west London. He didn’t want to buy the scripts, but liked some of the dialogue. He invited me to tea – served by his beautiful wife Anne Heywood – and gave me the idea for _The Pleasure Girls_.
 
 It had been staring me in the face and I had completely missed it. He gathered that I lived in Chelsea and was part of the ‘Swinging Sixties’ scene as it was then called. I did spend a lot of time in the clubs and discos, and regularly hobnobbed with the notorious landlord Peter Rachman and Mandy Rice-Davies over afternoon tea at the Kardomah coffee house on the Kings Road. So Raymond said ‘Write about what you know.’ I went home and told my flatmate that I didn’t much like the idea, but he gave me a hard time – a producer suggesting something and me too dim to take him up on it.
 
@@ -47,19 +44,15 @@ One of the contracts I turned down was an offer from Charles Feldman, the ex-VIP
 
 _The Pleasure Girls_ played endlessly on black-and-white television, but there were no residuals in those days. As always in the movie business you win some and you lose some… but it was great fun!  
 **Gerry O’Hara, March 2010**<br>**  
-Extracted from booklet notes for _The Pleasure Girls_ Blu-ray/DVD release (BFI, 2010)**
+**Extracted from booklet notes for _The Pleasure Girls_ Blu-ray/DVD release (BFI, 2010)**
 <br><br
 
-<![endif]-->
 
 **LOOK AT LIFE: MEMBERS ONLY**  
-
 UK 1965  
-
 9 mins
 
 **THE PLEASURE GIRLS**  
-
 _Directed by_: Gerry O’Hara  
 ©: Compton-Tekli Film Productions Ltd  
 Michael Klinger and Tony Tenser _present  
@@ -89,8 +82,7 @@ _Sound Mixer_: John Mitchell
 _Publicity_: Dora Dobson  
 _Made at_: Twickenham Film Studios
 
-**_Cast**  :_
-
+**Cast**
 Ian McShane _(Keith Dexter)_  
 Francesca Annis _(Sally Feathers)_  
 Klaus Kinski _(Nikko Stalmar)_  
@@ -113,7 +105,6 @@ Kate Binchy _(nurse)_
 Peter Diamond _(‘rat-face’)_
 
 UK 1965©  
-
 87 mins
 <br><br>
 
