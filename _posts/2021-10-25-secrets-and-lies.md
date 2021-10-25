@@ -64,11 +64,10 @@ _Dubbing Editor_: Sue Baker
 _Dialogue Editor_: Derek Lomas  
 _ADR/Foley Mixer_: Ted Swanscott  
 _ADR Editor_: Derek Holding  
-_Foley Walkers_: Dianne Greaves,  
-Michelle Greaves  
+_Foley Walkers_: Dianne Greaves,  Michelle Greaves  
 _Foley Editor_: Bill Trent
 
-_Cast:_  
+**Cast**  
 Timothy Spall _(Maurice)_  
 Brenda Blethyn _(Cynthia)_  
 Phyllis Logan _(Monica)_  
@@ -80,11 +79,9 @@ Lee Ross _(Paul)_
 Lesley Manville _(social worker)_  
 Ron Cook _(Stuart)_  
 Emma Amos _(girl with scar)_  
-Brian Bovell_,_ Trevor Laird_  
-(Hortense’s brothers)_  
+Brian Bovell, Trevor Laird _(Hortense’s brothers)_  
 Clare Perkins _(Hortense’s sister-in-law)_  
-Elias Perkins McCook_  
-(Hortense’s nephew)_  
+Elias Perkins McCook _(Hortense’s nephew)_  
 June Mitchell _(senior optometrist)_  
 Janice Acquah _(junior optician)_  
 Keeley Flanders _(girl in optician’s)_  
@@ -100,16 +97,12 @@ Daniel Smith _(teenage son)_
 Lucy Sheen _(nurse)_  
 Frances Ruffelle _(young mother)_  
 Felix Manley _(baby)_  
-Nitin Chandra Ganatra_  
-(Ramesh, potential husband)_  
+Nitin Chandra Ganatra _(Ramesh, potential husband)_  
 Metin Marlow _(conjuror)_  
-Amanda Crossley_,_ Su Elliott_,_ Di Sherlock_  
-(raunchy women)_  
-Alex Squires_,_ Lauren Squires_,_  
-Sade Squires _(triplets)_  
+Amanda Crossley, Su Elliott, Di Sherlock _(raunchy women)_  
+Alex Squires, Lauren Squires, Sade Squires _(triplets)_  
 Dominic Curran _(little boy)_  
-Stephen Churchett, David Neilson,  
-Peter Stockbridge, Peter Waddington _(men in suits)_  
+Stephen Churchett, David Neilson,  Peter Stockbridge, Peter Waddington _(men in suits)_  
 Rachel Lewis _(graduate)_  
 Paul Trussell _(grinning husband)_  
 Denise Orita _(uneasy woman)_  
@@ -136,5 +129,5 @@ UK 1996
 
 141 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTQ5MTE4N119
+eyJoaXN0b3J5IjpbMTc5NTY3Mjk3XX0=
 -->
