@@ -17,7 +17,7 @@ The mid-20th-century golden age of Japanese cinema emerged from a country in the
 
 
 **JAPAN 2021**<br>
-**100 YEARS OF JAPANESE CINEMA**
+**100 YEARS OF JAPANESE CINEMA**<br>
 **Early Summer (Bakushû)**<br>
 Mon 18 Oct 14:30; Tue 19 Oct 20:35; Wed 20 Oct 17:50; Thu 18 Nov 20:20 (+ intro by Professor Alastair Phillips, University of Warwick); Sun 21 Nov 11:30<br>
 **The Flavour of Green Tea over Rice (Ochazuke no aji)**<br>
