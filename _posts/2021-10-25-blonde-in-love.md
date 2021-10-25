@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: A Blonde in Love
+published: true
+date: 2021-10-25
+readtime: true
+categories: ['MIKE LEIGH’S CHOICES']
+tags: [Drama]
+metadata: 'Czechoslovakia 1965, 82 mins<br> Director: Milos Forman'
+pdf: '2021-10-25-blonde-in-love.pdf'
+---
 
 Many of us were inspired by the Czech New Wave cinema, most especially by this seminal study of working-class life. Forman shot entirely on location in a documentary style, with a mixed cast of actors and non-professionals, and involving substantial improvisation, and he tells his story without sentimentality, and with irrepressible wit. Love and dreams. Youth and growing old. And sex. Glorious.<br>
 **Mike Leigh**
@@ -52,6 +62,7 @@ Jana Novakova _(Jaruska)_<br>
 
 Czechoslovakia 1965<br>
 82 mins<br>
+<br>
 
 **MIKE LEIGH’S CHOICES**<br>
 **A Blonde in Love (AKA Loves of a Blonde) (Lásky jedné plavovlásky)**<br>
@@ -70,7 +81,21 @@ Sun 14 Nov 14:40; Sun 28 Nov 14:50<br>
 Tue 16 Nov 18:10<br>
 **H3**<br>
 Wed 24 Nov 20:50<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyNzExMDc5LDExMzUxNTIwMTIsODIxMz
-IxNDUyXX0=
--->
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
