@@ -53,41 +53,24 @@ Jana Novakova _(Jaruska)_<br>
 Czechoslovakia 1965<br>
 82 mins<br>
 
-**MIKE LEIGH’S CHOICES**
-
-**A Blonde in Love (AKA Loves of a Blonde) (Lásky jedné plavovlásky)**
-
-Mon 25 Oct 20:40; Fri 19 Nov 21:00
-
-**The Tree of Wooden Clogs  
-(L’albero degli zoccoli)**
-
-Fri 29 Oct 13:30; Sun 7 Nov 13:50
-
-**Jules et Jim**
-
-Wed 10 Nov 14:30
-
-**Tokyo Story (Tôkyô monogatari)**
-
-Sat 13 Nov 14:10; Tue 30 Nov 14:00
-
-**I Am Cuba (Soy Cuba)**
-
-Sat 13 Nov 20:10
-
-**The Story of Gilbert and Sullivan**
-
-Sun 14 Nov 14:40; Sun 28 Nov 14:50
-
-**Radio Days**
-
-Tue 16 Nov 18:10
-
-**H3**
-
-Wed 24 Nov 20:50
+**MIKE LEIGH’S CHOICES**<br>
+**A Blonde in Love (AKA Loves of a Blonde) (Lásky jedné plavovlásky)**<br>
+Mon 25 Oct 20:40; Fri 19 Nov 21:00<br>
+**The Tree of Wooden Clogs  (L’albero degli zoccoli)**<br>
+Fri 29 Oct 13:30; Sun 7 Nov 13:50<br>
+**Jules et Jim**<br>
+Wed 10 Nov 14:30<br>
+**Tokyo Story (Tôkyô monogatari)**<br>
+Sat 13 Nov 14:10; Tue 30 Nov 14:00<br>
+**I Am Cuba (Soy Cuba)**<br>
+Sat 13 Nov 20:10<br>
+**The Story of Gilbert and Sullivan**<br>
+Sun 14 Nov 14:40; Sun 28 Nov 14:50<br>
+**Radio Days**<br>
+Tue 16 Nov 18:10<br>
+**H3**<br>
+Wed 24 Nov 20:50<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDcyNjM5OTMsMTEzNTE1MjAxMiw4Mj
-EzMjE0NTJdfQ==
+eyJoaXN0b3J5IjpbMzQyNzExMDc5LDExMzUxNTIwMTIsODIxMz
+IxNDUyXX0=
 -->
