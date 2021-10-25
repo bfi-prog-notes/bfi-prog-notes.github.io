@@ -42,47 +42,46 @@ Best of all are the scenes at Milda’s home, with his parents gradually being a
 **(Lásky Jedné Plavovlásky)**
 _Director:_ Milos Forman<br>
 _Production Companies:_ Filmové Studio Barrandov, Sebor-Bor, Ceskoslovensky Film
-
+<br>
 _Producer:_ Rudolf Hájek
-
+<br>
 _Assistant Director:_ Ivan Passer
-
+<br>
 _Screenplay:_ Milos Forman,  
 Jaroslav Papousek,
 
 Ivan Passer
-
+<br>
 _Photography:_ Miroslav Ondrícek
-
+<br>
 _Editor:_ Miroslav Hájek
-
+<br>
 _Art Director:_ Karel Cerny
-
-_Music:_ Evzed Illín<br>
+<br>
+_Music:_ Evzed Illín<br><br>
 
 **
 
 _Cast**:_
-
+<br>
 Hana Brejchová _(Andula)_
-
+<br>
 Vladimír Pucholt _(Milda)_
-
+<br>
 Vladimír Mensík _(Vacovsky)_
-
+<br>
 Antonin Blazejovsky _(Tonda)_
-
+<br>
 Milada Jezkova _(Mila’s mother)_
-
+<br>
 Josef Sebánek _(Milda’s father)_
-
+<br>
 Jana Novakova _(Jaruska)_<br>
 
 Czechoslovakia 1965
+<br>82 mins<br>
 
-82 mins
-
-MIKE LEIGH’S CHOICES
+**MIKE LEIGH’S CHOICES**
 
 **A Blonde in Love (AKA Loves of a Blonde) (Lásky jedné plavovlásky)**
 
@@ -117,5 +116,5 @@ Tue 16 Nov 18:10
 
 Wed 24 Nov 20:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxMzIxNDUyLC0yMDQ4Njk1Nzk4XX0=
+eyJoaXN0b3J5IjpbMTEzNTE1MjAxMiw4MjEzMjE0NTJdfQ==
 -->
