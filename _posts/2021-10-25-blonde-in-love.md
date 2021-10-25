@@ -41,29 +41,17 @@ Best of all are the scenes at Milda’s home, with his parents gradually being a
 **A Blonde in Love**
 **(Lásky Jedné Plavovlásky)**
 _Director:_ Milos Forman<br>
-_Production Companies:_ Filmové Studio Barrandov, Sebor-Bor, Ceskoslovensky Film
-<br>
-_Producer:_ Rudolf Hájek
-<br>
-_Assistant Director:_ Ivan Passer
-<br>
-_Screenplay:_ Milos Forman,  
-Jaroslav Papousek,
+_Production Companies:_ Filmové Studio Barrandov, Sebor-Bor, Ceskoslovensky Film<br>
+_Producer:_ Rudolf Hájek<br>
+_Assistant Director:_ Ivan Passer<br>
+_Screenplay:_ Milos Forman,  Jaroslav Papousek,
+Ivan Passer<br>
+_Photography:_ Miroslav Ondrícek<br>
+_Editor:_ Miroslav Hájek<br>
+_Art Director:_ Karel Cerny<br>
+_Music:_ Evzed Illín<br>
 
-Ivan Passer
-<br>
-_Photography:_ Miroslav Ondrícek
-<br>
-_Editor:_ Miroslav Hájek
-<br>
-_Art Director:_ Karel Cerny
-<br>
-_Music:_ Evzed Illín<br><br>
-
-**
-
-_Cast**:_
-<br>
+**Cast**:<br>
 Hana Brejchová _(Andula)_
 <br>
 Vladimír Pucholt _(Milda)_
@@ -116,5 +104,6 @@ Tue 16 Nov 18:10
 
 Wed 24 Nov 20:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTE1MjAxMiw4MjEzMjE0NTJdfQ==
+eyJoaXN0b3J5IjpbLTE5ODMwOTY0NTQsMTEzNTE1MjAxMiw4Mj
+EzMjE0NTJdfQ==
 -->
