@@ -36,25 +36,46 @@ Best of all are the scenes at Milda’s home, with his parents gradually being a
 **_Monthly Film Bulletin_, June 1966**<br>
 
 
-**A BLONDE IN LOVE (LÁSKY JEDNÉ PLAVOVLÁSKY)**<br>
+**A BLONDE IN LOVE (LÁSKY JEDNÉ PLAVOVLÁSKY)**<br><![endif]-->
+
+**A Blonde in Love**
+**(Lásky Jedné Plavovlásky)**
 _Director:_ Milos Forman<br>
 _Production Companies:_ Filmové Studio Barrandov, Sebor-Bor, Ceskoslovensky Film
+
 _Producer:_ Rudolf Hájek
+
 _Assistant Director:_ Ivan Passer
-_Screenplay:_ Milos Forman,  Jaroslav Papousek,
+
+_Screenplay:_ Milos Forman,  
+Jaroslav Papousek,
+
 Ivan Passer
+
 _Photography:_ Miroslav Ondrícek
+
 _Editor:_ Miroslav Hájek
+
 _Art Director:_ Karel Cerny
+
 _Music:_ Evzed Illín<br>
 
-**Cast**
+**
+
+_Cast**:_
+
 Hana Brejchová _(Andula)_
+
 Vladimír Pucholt _(Milda)_
+
 Vladimír Mensík _(Vacovsky)_
+
 Antonin Blazejovsky _(Tonda)_
+
 Milada Jezkova _(Mila’s mother)_
+
 Josef Sebánek _(Milda’s father)_
+
 Jana Novakova _(Jaruska)_<br>
 
 Czechoslovakia 1965
@@ -96,5 +117,5 @@ Tue 16 Nov 18:10
 
 Wed 24 Nov 20:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg2OTU3OThdfQ==
+eyJoaXN0b3J5IjpbODIxMzIxNDUyLC0yMDQ4Njk1Nzk4XX0=
 -->
