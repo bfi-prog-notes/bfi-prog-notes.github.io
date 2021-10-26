@@ -29,19 +29,14 @@ We welcome your feedback on this screening. **Relaxedscreeningsfeedback@bfi.org.
 **The next relaxed screenings is** <br>
 
 **PETITE MAMAN**<br>
-Tue 30 Nov 18:15 NFT3
+**Tue 30 Nov 18:15 NFT3**<br>
 
-
-
-**Look out for information 
-BUSTING THE BIAS**
-**BFI Southbank 3 – 5 Dec**
-
-**Including**
-
-**Love + Q&A**
-
-**Sat 4 Dec  13:30 NFT3**
+**Look out for information** <br>
+**BUSTING THE BIAS**<br>
+**BFI Southbank 3 – 5 Dec**<br>
+**Including**<br>
+**Love + Q&A**<br>
+**Sat 4 Dec  13:30 NFT3**<br>
 
 
 **Relaxed screenings**<br>
@@ -73,5 +68,5 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg1MDc5NTldfQ==
+eyJoaXN0b3J5IjpbOTkwODI5MzE3XX0=
 -->
