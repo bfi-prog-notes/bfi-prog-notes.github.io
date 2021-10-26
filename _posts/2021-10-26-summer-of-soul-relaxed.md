@@ -2,7 +2,7 @@
 
 _The screening will be introduced by Emma Dalmayne, autistic activist and campaigner for autistic rights, mother to wonderful big and little people, CEO of Autistic Inclusive Meets and author of_ It’s An Autism Thing... I’ll Help You Understand It_._
 
-<img style="float: left;" src="/img/seeing-the-unseen-01.jpg"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/Summer of Soul.jpg"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 Experience the joyous 1969 Harlem Music Festival in this new award-winning documentary, featuring Gladys Knight, Stevie Wonder, Nina Simone and more.  
 
@@ -18,7 +18,7 @@ USA 2021<br>
 
 **Find out more at  bfi.org.uk/relaxed**<br>
 
-<img style="float: left;" src="/img/Summer of soul.png"><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br>
 
 **BFI Southbank has been awarded the National Autistic Society's Autism Friendly Award.**<br>
 
@@ -26,10 +26,22 @@ We welcome your feedback on this screening. **Relaxedscreeningsfeedback@bfi.org.
 
 
 
-**The next relaxed screenings are** <br>
+**The next relaxed screenings is** <br>
 
 **PETITE MAMAN**<br>
 Tue 30 Nov 18:15 NFT3
+
+
+
+**Look out for information 
+BUSTING THE BIAS**
+**BFI Southbank 3 – 5 Dec**
+
+**Including**
+
+**Love + Q&A**
+
+**Sat 4 Dec  13:30 NFT3**
 
 
 **Relaxed screenings**<br>
@@ -61,5 +73,5 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODIyNDk5MV19
+eyJoaXN0b3J5IjpbLTIwNDg1MDc5NTldfQ==
 -->
