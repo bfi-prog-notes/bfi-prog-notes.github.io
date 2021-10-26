@@ -1,28 +1,15 @@
 
 
-<img style="float: left;" src="/img/seeing-the-unseen-01.jpg">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+_The screening will be introduced by Emma Dalmayne, autistic activist and campaigner for autistic rights, mother to wonderful big and little people, CEO of Autistic Inclusive Meets and author of_ It’s An Autism Thing... I’ll Help You Understand It_._
 
-This is the third of three relaxed screenings presented in response to _The Reason I Jump_, programmed by independent curator, Benjamin Brown.
+<img style="float: left;" src="/img/seeing-the-unseen-01.jpg"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-‘Really, our vision of the world can be incredible, just incredible …’ - Naoki Higashida, _The Reason I Jump_
-
-Whether neuro-diverse or neurotypical, as human beings we are all born with our own unique ways of perceiving the world. However, for many on the autism spectrum, the problem comes when trying to impress that unique perspective onto others through words and gestures. Like a detuned radio, the signal is blocked, coming through only as hissing static.
-
-Channelling several themes explored so effectively by _The Reason I Jump_, the season expresses the key role of the senses in our everyday lives and the transcendent power of nature to provide consolation to the inconsolable. It also conveys the vital importance of giving autistic people a say in how we are treated, and to extend us our rightful seat at society’s table.
-
-As Naoki so poetically puts it, ‘if, by our being here, we could help the people of the world remember what truly matters for the earth, that would give us a quiet pleasure.’<br>
-**Benjamin Brown, Series Curator**<br><br>
-
-**SEEING THE UNSEEN (AÐ SJÁ HIÐ ÓSÝNILEGA)**<br>
-_Directors:_ Bjarney Lúðvíksdóttir, Kristján Kristjánsson  
-_In co-operation with:_ Icelandic Autism Society  
-Iceland 2019  
-82 mins
-<br>
+Experience the joyous 1969 Harlem Music Festival in this new award-winning documentary, featuring Gladys Knight, Stevie Wonder, Nina Simone and more.  
+This unearthed footage highlights outstanding musical talent and places these groundbreaking concerts in the context of the politics and civil rights movements of  
+the time.
 
 
-**This screening is presented in collaboration with Citizen Autistic: The London Autism Film Club, a welcoming neuro-diverse space bringing together like-minded individuals through a shared love of cinema.**<br>
+
 
 **Find out more at  bfi.org.uk/relaxed**<br>
 
@@ -71,5 +58,5 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDgyNTUyMl19
+eyJoaXN0b3J5IjpbLTM0MTIwMTAxNl19
 -->
