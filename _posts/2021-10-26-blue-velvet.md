@@ -81,82 +81,43 @@ _Sound Mixer:_ Ann Kroeber<br>
 _Boom Operator:_ Patrick Moriarty<br>
 _Re-recording Mixers:_ Mark Berger, David Parker<br>
 _Sound Editors:_ Rob Fruchtman, Pat Jackson<br>
-_Dialogue Editors:_ Vivien Gilliam, John Nutt,
-
-Michael Silvers<br>
-
+_Dialogue Editors:_ Vivien Gilliam, John Nutt, Michael Silvers<br>
 _Sound Effects Editor:_ Richard Hyams<br>
-
 _Foley Artist:_ Dennie Thorpe<br>
-
 _Stunt Co-ordinator:_ Richard Langdon<br>
+_Filmed at:_ De Laurentiis Entertainment Group Studios<br>
 
-_Filmed at:_
-
-De Laurentiis Entertainment Group Studios<br>
-
-_Cast:_<br>
-
+**Cast**<br>
 Kyle MacLachlan _(Jeffrey Beaumont)_<br>
-
 Isabella Rossellini _(Dorothy Vallens)_<br>
-
 Dennis Hopper _(Frank Booth)_<br>
-
 Laura Dern _(Sandy Williams)_<br>
-
 Hope Lange _(Mrs Williams)_<br>
-
 Priscilla Pointer _(Mrs Beaumont)_<br>
-
 George Dickerson _(Detective Williams)_<br>
-
 Frances Bay _(Aunt Barbara)_<br>
-
 Ken Stovitz _(Mike)_<br>
-
 Brad Dourif _(Raymond)_<br>
-
 Jack Nance _(Paul)_<br>
-
 Dean Stockwell _(Ben)_<br>
-
 Jack Harvey _(Tom Beaumont)_<br>
-
 J. Michael Hunter _(Hunter)_<br>
-
 Dick Green _(Don Vallens)_<br>
-
 Fred Pickler _(yellow man)_<br>
-
 Philip Markert _(Dr Gynde)_v
-
-Leonard Watkins, Moses Gibson
-
-_(Double Ed)_<br>
-
+Leonard Watkins, Moses Gibson _(Double Ed)_<br>
 Selden Smith _(Nurse Cindy)_<br>
-
 Peter Carew _(coroner)_<br>
-
 Jon Jon Snipes _(little Donny)_<br>
-
 Andy Badale _(piano player)_<br>
-
 Jean-Pierre Viale _(master of ceremonies)_<br>
-
 Donald Moore _(desk sergeant)_<br>
-
-A. Michelle Depland, Michell Sasser,
-
-Katie Reid _(party girls)_<br>
-
+A. Michelle Depland, Michell Sasser, Katie Reid _(party girls)_<br>
 Sparky _(the dog)_<br>
 
 USA 1986<br>
-
 120 mins
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5NDg0Njg2XX0=
+eyJoaXN0b3J5IjpbMTk1ODE5NjkzNF19
 -->
