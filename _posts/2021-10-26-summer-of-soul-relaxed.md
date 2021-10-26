@@ -16,13 +16,15 @@ USA 2021<br>
 117 mins<br>
 
 
-**Find out more at  bfi.org.uk/relaxed**<br>
+
 
 <img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br>
 
 **BFI Southbank has been awarded the National Autistic Society's Autism Friendly Award.**<br>
 
-We welcome your feedback on this screening. **Relaxedscreeningsfeedback@bfi.org.uk**
+
+**Find out more at  bfi.org.uk/relaxed**<br>
+**We welcome your feedback on this screening.****Relaxedscreeningsfeedback@bfi.org.uk**<br>
 
 
 
@@ -68,5 +70,5 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwODI5MzE3XX0=
+eyJoaXN0b3J5IjpbLTMxNzg2NTE4N119
 -->
