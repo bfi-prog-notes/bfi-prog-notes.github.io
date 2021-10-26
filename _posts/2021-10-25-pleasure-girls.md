@@ -6,7 +6,7 @@ date: 2021-10-25
 readtime: true
 categories: ['EDGAR WRIGHT’S LONDON AFTER DARK']
 tags: [Drama]
-metadata: 'UK, 1965, 87 mins<br> Director: Gerry O’Hara'
+metadata: 'UK, 1965, 87 mins<br> Director: Gerry OHara'
 pdf: '2021-10-25-pleasure-girls.pdf'
 ---
 
@@ -156,5 +156,6 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY3NDE1OTAsNjczNDMyMjc2XX0=
+eyJoaXN0b3J5IjpbMTAwNzAzNTM0LC0xMzQ2NzQxNTkwLDY3Mz
+QzMjI3Nl19
 -->
