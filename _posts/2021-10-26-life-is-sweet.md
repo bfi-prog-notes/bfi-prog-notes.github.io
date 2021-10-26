@@ -26,21 +26,18 @@ The singularity of _Life Is Sweet_, however, is that it has no moral and is just
 **LIFE IS SWEET**  
 _Directed by_: Mike Leigh  
 ©: Channel Four Television Company  
-_Production Companies_: Thin Man Films,  
-Film Four International  
+_Production Companies_: Thin Man Films,  Film Four International  
 _Presented by_: British Screen  
 _Produced by_: Simon Channing-Williams  
 _Production Supervisor_: Lorraine Goodman  
 _Production Co-ordinator_: Deborah Harding  
-_Production Accountants_: William Tyler,  
-Juanita Parker  
+_Production Accountants_: William Tyler,  Juanita Parker  
 _Location Manager_: Peter Tullo  
 _Producer’s Assistant_: Lynne Cruddas  
 _Production Runners_: James Bloom, Nicholas Shaw  
 _1st Assistant Director_: Gus Maclean  
 _2nd Assistant Director_: Simon Moseley  
-_3rd Assistant Directors_: David Gilchrist,  
-Hedda Moore  
+_3rd Assistant Directors_: David Gilchrist,  Hedda Moore  
 _Script Supervisors_: Heather Storr, Joan Atkinson  
 _Casting Director_: Sue Whatmough  
 _Written by_: Mike Leigh  
@@ -60,8 +57,7 @@ _Thin Man Logo Design_: Eve Stewart
 _Standby Rigger_: Bill Howe  
 _Jobfit Trainee_: Fiona Walsh  
 _Edited by_: Jon Gregory  
-_First Assistant Editors_: Stephen Evans,  
-Jackie Vance  
+_First Assistant Editors_: Stephen Evans,  Jackie Vance  
 _Post-production_: De Lane Lea Sound Centre  
 _Production Designer_: Alison Chitty  
 _Art Director_: Sophie Becher  
@@ -75,14 +71,11 @@ _Standby Painter_: Bob Starrett
 _Standby Carpenter_: Kevin Hoar  
 _Costume Designer_: Lindy Hemming  
 _Assistant Costume Designer_: Debbie Scott  
-_Wardrobe Supervisor_: Anthony Black
-
+_Wardrobe Supervisor_: Anthony Black  
 _Make-up/Hair_: Carolyne Walsh, Chris Blundell  
 _Titles_: Chris Allies, Peerless Camera Company  
-_Originated on_: Agfa Colour Film,  
-Metrocolor (London)  
-_Music by_: Rachel Portman, Julian Wastall
-
+_Originated on_: Agfa Colour Film,  Metrocolor (London)  
+_Music by_: Rachel Portman, Julian Wastall  
 _Song ‘Happy Holidays’ by_: Rachel Portman  
 _Conductor_: David Snell  
 _Music Recorded at_: CTS Studios (Wembley)  
@@ -104,8 +97,7 @@ _Camera Equipment_: Joe Dunton Cameras
 _Catering_: J & J Film Foods  
 _Food Adviser_: Sandy Garfield
 
-_Cast:_
-
+**Cast**  
 Alison Steadman _(Wendy)_  
 Jim Broadbent _(Andy)_  
 Timothy Spall _(Aubrey)_  
@@ -119,9 +111,9 @@ Harriet Thorpe _(customer)_
 Paul Trussel _(chef)_  
 Jack Thorpe Baker _(Nigel)_
 
-UK 1990©
-
+UK 1990©  
 103 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODg0NzUyODBdfQ==
+eyJoaXN0b3J5IjpbLTIwOTMwNjc2MDhdfQ==
 -->
