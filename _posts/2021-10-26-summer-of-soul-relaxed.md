@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Summer of Soul<br> (... Or, When the Revolution Could Not Be Televised)
+published: true
+date: 2021-10-26
+readtime: true
+categories: ['RELAXED SCREENING']
+tags: [Documentary]
+metadata: 'USA 2021, 117 mins<br> Director: Questlove'
+pdf: '2021-10-26-summer-of-soul-relaxed.pdf'
+---
 
 _The screening will be introduced by Emma Dalmayne, autistic activist and campaigner for autistic rights, mother to wonderful big and little people, CEO of Autistic Inclusive Meets and author of_ It’s An Autism Thing... I’ll Help You Understand It.<br><br>
 
