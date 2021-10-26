@@ -29,143 +29,58 @@ When you make a film like _Blue Velvet_, there’s a danger that Dorothy becomes
 <br><br>
 
 **BLUE VELVET**<br>
-
 _Directed by:_ David Lynch<br>
-
 _©:_ De Laurentiis Entertainment Group, Inc.<br>
-
-_Presented by:_
-
-De Laurentiis Entertainment Group<br>
-
+_Presented by:_ De Laurentiis Entertainment Group<br>
 _Executive Producer:_ Richard Roth<br>
-
 _Produced by:_ Fred Caruso<br>
-
 _Production Manager:_ Fred Caruso<br>
-
 _Production Supervisor:_ Gail M. Kearns<br>
-
-_Production Office Co-ordinator:_
-
-Kathryn Colbert<br>
-
+_Production Office Co-ordinator:_ Kathryn Colbert<br>
 _Location Co-ordinator:_ Morris Atkins<br>
-
-_Key Production Assistant:_
-
-John Wildermuth<br>
-
+_Key Production Assistant:_ John Wildermuth<br>
 _1st Assistant Director:_ Ellen Rauch<br>
-
 _2nd Assistant Director:_ Ian Woolf<br>
-
 _Script Supervisor:_ Rina Sternfeld<br>
-
 _Casting by:_ Johanna Ray, Pat Golden<br>
-
 _Casting Associate:_ Pamela Rack<br>
-
-_Extras/Additional Casting:_
-
-Marc Fincannon and Associates<br>
-
+_Extras/Additional Casting:_ Marc Fincannon and Associates<br>
 _Screenplay by:_ David Lynch<br>
-
 _Director of Photography:_ Frederick Elmes<br>
-
 _1st Assistant Camera:_ Lex Dupont<br>
-
 _Camera Assistant:_ David Rudd<br>
-
 _Gaffer:_ Michael Katz<br>
-
 _Key Grip:_ Donne Daniels<br>
-
 _Still Photographer:_ Umberto Montiroli<br>
-
 _Special Effects:_ Greg Hull, George Hill<br>
-
 _Edited by:_ Duwayne Dunham<br>
-
-_Assistant Editors:_ Jonathan Shaw,
-
-Mary Sweeney<br>
-
+_Assistant Editors:_ Jonathan Shaw, Mary Sweeney<br>
 _Production Designer:_ Patricia Norris<br>
-
 _Art Department Assistant:_ Catherine David<br>
-
-_Set Dressers:_ Michael Anderson,
-
-Vernon Harrell, Loren McNamara,
-
-Paul Sebastian, Arron Waitz,
-
-Doug White<br>
-
+_Set Dressers:_ Michael Anderson, Vernon Harrell, Loren McNamara, Paul Sebastian, Arron Waitz, Doug White<br>
 _Draughtsperson:_ Dawn Serody<br>
-
 _Chief Scenic Artist:_ Robert Testerman<br>
-
 _Scenic Artist:_ Tanya Lowe<br>
-
 _Property Master:_ Tantar Leviseur<br>
-
 _Construction Co-ordinator:_ Les Pendleton<br>
-
-_Costume Shop Supervisor:_
-
-Gloria Laughride<br>
-
+_Costume Shop Supervisor:_ Gloria Laughride<br>
 _Set Wardrobe:_ Henry Earl Lewis<br>
-
 _Make-up Supervisor:_ Jeff Goodwin<br>
-
 _Special Make-up Effects:_ Dean Jones<br>
-
 _Hair Stylist:_ Barbara Page<br>
-
-_Titles/Opticals:_
-
-Van Der Veer Photo Company<br>
-
-_Cameras/Lenses by:_
-
-Joe Dunton Camera America, Inc.<br>
-
+_Titles/Opticals:_ Van Der Veer Photo Company<br>
+_Cameras/Lenses by:_ Joe Dunton Camera America, Inc.<br>
 _Negative Cutter:_ Donah Bassett<br>
-
 _Colour by:_ Technicolor<br>
-
-_Music Composed and Conducted by:_
-
-Angelo Badalamenti<br>
-
-_Music Score Performed by:_
-
-Film Symphony Orchestra of Prague<br>
-
+_Music Composed and Conducted by:_ Angelo Badalamenti<br>
+_Music Score Performed by:_ Film Symphony Orchestra of Prague<br>
 _Music Editor:_ Mark Adler<br>
-
-_Music Re-recording Mixer:_
-
-Todd Boekelheide<br>
-
+_Music Re-recording Mixer:_ Todd Boekelheide<br>
 _Sound Designer:_ Alan Splet<br>
-
 _Sound Mixer:_ Ann Kroeber<br>
-
 _Boom Operator:_ Patrick Moriarty<br>
-
-_Re-recording Mixers:_ Mark Berger,
-
-David Parker<br>
-
-_Sound Editors:_ Rob Fruchtman,
-
-Pat Jackson<br>
-
+_Re-recording Mixers:_ Mark Berger, David Parker<br>
+_Sound Editors:_ Rob Fruchtman, Pat Jackson<br>
 _Dialogue Editors:_ Vivien Gilliam, John Nutt,
 
 Michael Silvers<br>
@@ -243,5 +158,5 @@ USA 1986<br>
 120 mins
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQzNzgzNTRdfQ==
+eyJoaXN0b3J5IjpbODY5NDg0Njg2XX0=
 -->
