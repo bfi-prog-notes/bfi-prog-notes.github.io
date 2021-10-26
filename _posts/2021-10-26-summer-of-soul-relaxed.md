@@ -18,7 +18,7 @@ USA 2021<br>
 
 **Find out more at  bfi.org.uk/relaxed**<br>
 
-<img style="float: left;" src="/img/summer-ofsoul.png"><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/Summer of soul.png"><br><br><br><br><br><br><br>
 
 **BFI Southbank has been awarded the National Autistic Society's Autism Friendly Award.**<br>
 
@@ -61,5 +61,5 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTYzNDc4OF19
+eyJoaXN0b3J5IjpbMTIxODIyNDk5MV19
 -->
