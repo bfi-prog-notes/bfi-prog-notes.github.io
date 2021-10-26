@@ -5,15 +5,20 @@ _The screening will be introduced by Emma Dalmayne, autistic activist and campai
 <img style="float: left;" src="/img/seeing-the-unseen-01.jpg"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 Experience the joyous 1969 Harlem Music Festival in this new award-winning documentary, featuring Gladys Knight, Stevie Wonder, Nina Simone and more.  
-This unearthed footage highlights outstanding musical talent and places these groundbreaking concerts in the context of the politics and civil rights movements of  
-the time.
+
+This unearthed footage highlights outstanding musical talent and places these groundbreaking concerts in the context of the politics and civil rights movements of  the time.<br>
 
 
+**SUMMER OF SOUL (... OR, WHEN THE REVOLUTION COULD NOT BE TELEVISED)**
+_Director:_ Questlove<br>
+
+USA 2021<br>
+117 mins<br>
 
 
 **Find out more at  bfi.org.uk/relaxed**<br>
 
-<img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/summer-ofsoul.png"><br><br><br><br><br><br><br>
 
 **BFI Southbank has been awarded the National Autistic Society's Autism Friendly Award.**<br>
 
@@ -56,5 +61,5 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTAyMTk1MF19
+eyJoaXN0b3J5IjpbMTgyNTYzNDc4OF19
 -->
