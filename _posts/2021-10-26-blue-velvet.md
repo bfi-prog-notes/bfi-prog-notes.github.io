@@ -42,59 +42,59 @@ _Executive Producer:_ Richard Roth<br>
 
 _Produced by:_ Fred Caruso<br>
 
-_Production Manager:_ Fred Caruso
+_Production Manager:_ Fred Caruso<br>
 
-_Production Supervisor:_ Gail M. Kearns
+_Production Supervisor:_ Gail M. Kearns<br>
 
 _Production Office Co-ordinator:_
 
-Kathryn Colbert
+Kathryn Colbert<br>
 
-_Location Co-ordinator:_ Morris Atkins
+_Location Co-ordinator:_ Morris Atkins<br>
 
 _Key Production Assistant:_
 
-John Wildermuth
+John Wildermuth<br>
 
-_1st Assistant Director:_ Ellen Rauch
+_1st Assistant Director:_ Ellen Rauch<br>
 
-_2nd Assistant Director:_ Ian Woolf
+_2nd Assistant Director:_ Ian Woolf<br>
 
-_Script Supervisor:_ Rina Sternfeld
+_Script Supervisor:_ Rina Sternfeld<br>
 
-_Casting by:_ Johanna Ray, Pat Golden
+_Casting by:_ Johanna Ray, Pat Golden<br>
 
-_Casting Associate:_ Pamela Rack
+_Casting Associate:_ Pamela Rack<br>
 
 _Extras/Additional Casting:_
 
-Marc Fincannon and Associates
+Marc Fincannon and Associates<br>
 
-_Screenplay by:_ David Lynch
+_Screenplay by:_ David Lynch<br>
 
-_Director of Photography:_ Frederick Elmes
+_Director of Photography:_ Frederick Elmes<br>
 
-_1st Assistant Camera:_ Lex Dupont
+_1st Assistant Camera:_ Lex Dupont<br>
 
-_Camera Assistant:_ David Rudd
+_Camera Assistant:_ David Rudd<br>
 
-_Gaffer:_ Michael Katz
+_Gaffer:_ Michael Katz<br>
 
-_Key Grip:_ Donne Daniels
+_Key Grip:_ Donne Daniels<br>
 
-_Still Photographer:_ Umberto Montiroli
+_Still Photographer:_ Umberto Montiroli<br>
 
-_Special Effects:_ Greg Hull, George Hill
+_Special Effects:_ Greg Hull, George Hill<br>
 
-_Edited by:_ Duwayne Dunham
+_Edited by:_ Duwayne Dunham<br>
 
 _Assistant Editors:_ Jonathan Shaw,
 
-Mary Sweeney
+Mary Sweeney<br>
 
-_Production Designer:_ Patricia Norris
+_Production Designer:_ Patricia Norris<br>
 
-_Art Department Assistant:_ Catherine David
+_Art Department Assistant:_ Catherine David<br>
 
 _Set Dressers:_ Michael Anderson,
 
@@ -102,145 +102,146 @@ Vernon Harrell, Loren McNamara,
 
 Paul Sebastian, Arron Waitz,
 
-Doug White
+Doug White<br>
 
-_Draughtsperson:_ Dawn Serody
+_Draughtsperson:_ Dawn Serody<br>
 
-_Chief Scenic Artist:_ Robert Testerman
+_Chief Scenic Artist:_ Robert Testerman<br>
 
-_Scenic Artist:_ Tanya Lowe
+_Scenic Artist:_ Tanya Lowe<br>
 
-_Property Master:_ Tantar Leviseur
+_Property Master:_ Tantar Leviseur<br>
 
-_Construction Co-ordinator:_ Les Pendleton
+_Construction Co-ordinator:_ Les Pendleton<br>
 
 _Costume Shop Supervisor:_
 
-Gloria Laughride
+Gloria Laughride<br>
 
-_Set Wardrobe:_ Henry Earl Lewis
+_Set Wardrobe:_ Henry Earl Lewis<br>
 
-_Make-up Supervisor:_ Jeff Goodwin
+_Make-up Supervisor:_ Jeff Goodwin<br>
 
-_Special Make-up Effects:_ Dean Jones
+_Special Make-up Effects:_ Dean Jones<br>
 
-_Hair Stylist:_ Barbara Page
+_Hair Stylist:_ Barbara Page<br>
 
 _Titles/Opticals:_
 
-Van Der Veer Photo Company
+Van Der Veer Photo Company<br>
 
 _Cameras/Lenses by:_
 
-Joe Dunton Camera America, Inc.
+Joe Dunton Camera America, Inc.<br>
 
-_Negative Cutter:_ Donah Bassett
+_Negative Cutter:_ Donah Bassett<br>
 
-_Colour by:_ Technicolor
+_Colour by:_ Technicolor<br>
 
 _Music Composed and Conducted by:_
 
-Angelo Badalamenti
+Angelo Badalamenti<br>
 
 _Music Score Performed by:_
 
-Film Symphony Orchestra of Prague
+Film Symphony Orchestra of Prague<br>
 
-_Music Editor:_ Mark Adler
+_Music Editor:_ Mark Adler<br>
 
 _Music Re-recording Mixer:_
 
-Todd Boekelheide
+Todd Boekelheide<br>
 
-_Sound Designer:_ Alan Splet
+_Sound Designer:_ Alan Splet<br>
 
-_Sound Mixer:_ Ann Kroeber
+_Sound Mixer:_ Ann Kroeber<br>
 
-_Boom Operator:_ Patrick Moriarty
+_Boom Operator:_ Patrick Moriarty<br>
 
 _Re-recording Mixers:_ Mark Berger,
 
-David Parker
+David Parker<br>
 
 _Sound Editors:_ Rob Fruchtman,
 
-Pat Jackson
+Pat Jackson<br>
 
 _Dialogue Editors:_ Vivien Gilliam, John Nutt,
 
-Michael Silvers
+Michael Silvers<br>
 
-_Sound Effects Editor:_ Richard Hyams
+_Sound Effects Editor:_ Richard Hyams<br>
 
-_Foley Artist:_ Dennie Thorpe
+_Foley Artist:_ Dennie Thorpe<br>
 
-_Stunt Co-ordinator:_ Richard Langdon
+_Stunt Co-ordinator:_ Richard Langdon<br>
 
 _Filmed at:_
 
-De Laurentiis Entertainment Group Studios
+De Laurentiis Entertainment Group Studios<br>
 
-_Cast:_
+_Cast:_<br>
 
-Kyle MacLachlan _(Jeffrey Beaumont)_
+Kyle MacLachlan _(Jeffrey Beaumont)_<br>
 
-Isabella Rossellini _(Dorothy Vallens)_
+Isabella Rossellini _(Dorothy Vallens)_<br>
 
-Dennis Hopper _(Frank Booth)_
+Dennis Hopper _(Frank Booth)_<br>
 
-Laura Dern _(Sandy Williams)_
+Laura Dern _(Sandy Williams)_<br>
 
-Hope Lange _(Mrs Williams)_
+Hope Lange _(Mrs Williams)_<br>
 
-Priscilla Pointer _(Mrs Beaumont)_
+Priscilla Pointer _(Mrs Beaumont)_<br>
 
-George Dickerson _(Detective Williams)_
+George Dickerson _(Detective Williams)_<br>
 
-Frances Bay _(Aunt Barbara)_
+Frances Bay _(Aunt Barbara)_<br>
 
-Ken Stovitz _(Mike)_
+Ken Stovitz _(Mike)_<br>
 
-Brad Dourif _(Raymond)_
+Brad Dourif _(Raymond)_<br>
 
-Jack Nance _(Paul)_
+Jack Nance _(Paul)_<br>
 
-Dean Stockwell _(Ben)_
+Dean Stockwell _(Ben)_<br>
 
-Jack Harvey _(Tom Beaumont)_
+Jack Harvey _(Tom Beaumont)_<br>
 
-J. Michael Hunter _(Hunter)_
+J. Michael Hunter _(Hunter)_<br>
 
-Dick Green _(Don Vallens)_
+Dick Green _(Don Vallens)_<br>
 
-Fred Pickler _(yellow man)_
+Fred Pickler _(yellow man)_<br>
 
-Philip Markert _(Dr Gynde)_
+Philip Markert _(Dr Gynde)_v
 
 Leonard Watkins, Moses Gibson
 
-_(Double Ed)_
+_(Double Ed)_<br>
 
-Selden Smith _(Nurse Cindy)_
+Selden Smith _(Nurse Cindy)_<br>
 
-Peter Carew _(coroner)_
+Peter Carew _(coroner)_<br>
 
-Jon Jon Snipes _(little Donny)_
+Jon Jon Snipes _(little Donny)_<br>
 
-Andy Badale _(piano player)_
+Andy Badale _(piano player)_<br>
 
-Jean-Pierre Viale _(master of ceremonies)_
+Jean-Pierre Viale _(master of ceremonies)_<br>
 
-Donald Moore _(desk sergeant)_
+Donald Moore _(desk sergeant)_<br>
 
 A. Michelle Depland, Michell Sasser,
 
-Katie Reid _(party girls)_
+Katie Reid _(party girls)_<br>
 
-Sparky _(the dog)_
+Sparky _(the dog)_<br>
 
-USA 1986
+USA 1986<br>
 
 120 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTg3ODQ2ODJdfQ==
+eyJoaXN0b3J5IjpbLTE0OTQzNzgzNTRdfQ==
 -->
