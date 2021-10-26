@@ -24,8 +24,9 @@ USA 2021<br>
 
 
 **Find out more at  bfi.org.uk/relaxed**<br>
-**We welcome your feedback on this screening.****Relaxedscreeningsfeedback@bfi.org.uk**<br>
 
+**We welcome your feedback on this screening.**<br>
+**Relaxedscreeningsfeedback@bfi.org.uk**<br>
 
 
 **The next relaxed screenings is** <br>
@@ -70,5 +71,5 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzg2NTE4N119
+eyJoaXN0b3J5IjpbMTc0NDIyNzA2OV19
 -->
