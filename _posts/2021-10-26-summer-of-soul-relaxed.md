@@ -19,11 +19,9 @@ the time.
 
 We welcome your feedback on this screening. **Relaxedscreeningsfeedback@bfi.org.uk**
 
-The film-makers would welcome your thoughts on the film on **https://www.facebook.com/unseenautism**
+
 
 **The next relaxed screenings are** <br>
-**SUMMER OF SOUL (... OR, WHEN THE REVOLUTION COULD NOT BE TELEVISED)**<br>
-Tue 26 Oct 18:00 NFT3
 
 **PETITE MAMAN**<br>
 Tue 30 Nov 18:15 NFT3
@@ -58,5 +56,5 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTIwMTAxNl19
+eyJoaXN0b3J5IjpbMTc5OTAyMTk1MF19
 -->
