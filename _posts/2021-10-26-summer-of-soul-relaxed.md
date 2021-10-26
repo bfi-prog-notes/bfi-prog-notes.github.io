@@ -1,15 +1,16 @@
 
 
-_The screening will be introduced by Emma Dalmayne, autistic activist and campaigner for autistic rights, mother to wonderful big and little people, CEO of Autistic Inclusive Meets and author of_ It’s An Autism Thing... I’ll Help You Understand It_._
+_The screening will be introduced by Emma Dalmayne, autistic activist and campaigner for autistic rights, mother to wonderful big and little people, CEO of Autistic Inclusive Meets and author of_ It’s An Autism Thing... I’ll Help You Understand It.<br><br>
 
-<img style="float: left;" src="/img/Summer of Soul.jpg"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<img style="float: left;" src="/img/Summer of Soul.png"><br><br>
 
 Experience the joyous 1969 Harlem Music Festival in this new award-winning documentary, featuring Gladys Knight, Stevie Wonder, Nina Simone and more.  
 
 This unearthed footage highlights outstanding musical talent and places these groundbreaking concerts in the context of the politics and civil rights movements of  the time.<br>
 
 
-**SUMMER OF SOUL (... OR, WHEN THE REVOLUTION COULD NOT BE TELEVISED)**
+**SUMMER OF SOUL (... OR, WHEN THE REVOLUTION COULD NOT BE TELEVISED)**<br>
 _Director:_ Questlove<br>
 
 USA 2021<br>
@@ -69,7 +70,3 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 <li>Please ask us if you need help.
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDIyNzA2OV19
--->
