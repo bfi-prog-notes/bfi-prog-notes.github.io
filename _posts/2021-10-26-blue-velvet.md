@@ -114,7 +114,7 @@ Jack Harvey _(Tom Beaumont)_<br>
 J. Michael Hunter _(Hunter)_<br>
 Dick Green _(Don Vallens)_<br>
 Fred Pickler _(yellow man)_<br>
-Philip Markert _(Dr Gynde)_v
+Philip Markert _(Dr Gynde)_<br>
 Leonard Watkins, Moses Gibson _(Double Ed)_<br>
 Selden Smith _(Nurse Cindy)_<br>
 Peter Carew _(coroner)_<br>
