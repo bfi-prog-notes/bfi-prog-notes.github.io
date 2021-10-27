@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Short Sharp Shock II
+title: Short Sharp Shocks II
 published: true
 date: 2021-10-27
 readtime: true
 categories: ['BFI BLU-RAY LAUNCH']
 tags: [Horror]
 metadata: 
-pdf: '2021-10-27-short-sharp-shock-ii.pdf'
+pdf: '2021-10-27-short-sharp-shocks-ii.pdf'
 ---
 
 Celebrate BFI Flipside’s second scintillating collection of strange, spooky British films lovingly remastered in 2K resolution from rare original archive materials. ‘The Politician who reached beyond the Grave for the Power of Hell’ emerges in _The Face of Darkness_ (Ian F H Lloyd, 1976); a mysterious phone call provokes a knife-edge night of horror in _The Dumb Waiter_ (Robert Bierman, 1979); and _The Mark of Lilith_ (Polly Gladwin, Zachary Mack-Nataf, Bruna Fionda, 1986) dismantles the traditional image of the vampire when Black lesbian filmmaker Zena encounters Lillia, a white, undead wraith.<br>
