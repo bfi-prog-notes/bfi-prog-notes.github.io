@@ -131,15 +131,8 @@ UK 1979<br>
 **THE MARK OF LILITH**<br>
 _Directors_: Bruna Fionda, Polly Gladwin, Isiling Mack-Nataf  
 _Production Company_: Re-Vamp Productions, London College of Printing  
-_Production Team_: Paolo Bazzoni, Sara Chambers, Paul Clarke, Victoria Chapman, Paul Denby,
-
-Sheila Eaton, Jimmy Edmonds, Ohna Felby,
-
-Bruna Fionda, Linda Flint, Sandy Gilmour,
-
-Polly Gladwin, Rachel Gladwin, Sally Hall,
-
-Jane Harris, Rosalind Hewitt, Miriam Ludbrook, Zuni Luni, Isiling Mack-Nataf, Cassie McFarlane, Susan Morse, Barbara Nicholls, Claire Palmer, Ingrid Pollard, Paul Preece, Pauline Stride, Hrafnhildur Thorsteinsdottir, Sue Underwood, Wendy Williams, Veronica Wilson  
+_Production Team_: Paolo Bazzoni, Sara Chambers, Paul Clarke, Victoria Chapman, Paul Denby, Sheila Eaton, Jimmy Edmonds, Ohna Felby, Bruna Fionda, Linda Flint, Sandy Gilmour,
+Polly Gladwin, Rachel Gladwin, Sally Hall, Jane Harris, Rosalind Hewitt, Miriam Ludbrook, Zuni Luni, Isiling Mack-Nataf, Cassie McFarlane, Susan Morse, Barbara Nicholls, Claire Palmer, Ingrid Pollard, Paul Preece, Pauline Stride, Hrafnhildur Thorsteinsdottir, Sue Underwood, Wendy Williams, Veronica Wilson<br> 
 _Music_: Miriam Ludbrook, Zuni Luni  
 _Post-production_: Paul Clarke, Bruna Fionda, Polly Gladwin, Miriam Ludbrook, Zuni Luni, Isiling Mack-Nataf, Paul Preece, Pauline Stride<br>
 
@@ -181,5 +174,5 @@ UK 1986<br>
 
 The two-disc Blu-ray of _Short Sharp Shocks II_ is available to buy from 25 October.<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg3ODMzMjksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4MDUzODg0NzksNzMwOTk4MTE2XX0=
 -->
