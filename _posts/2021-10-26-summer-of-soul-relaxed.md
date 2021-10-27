@@ -13,7 +13,7 @@ pdf: '2021-10-26-summer-of-soul-relaxed.pdf'
 _The screening will be introduced by Emma Dalmayne, autistic activist and campaigner for autistic rights, mother to wonderful big and little people, CEO of Autistic Inclusive Meets and author of_ It’s An Autism Thing... I’ll Help You Understand It.<br><br>
 
 
-<img style="float: left;" src="/img/Summer of Soul.png"><br><br>
+<img style="float: left;" src="/img/Summer of Soul.><br><br><br>
 
 Experience the joyous 1969 Harlem Music Festival in this new award-winning documentary, featuring Gladys Knight, Stevie Wonder, Nina Simone and more.  
 
@@ -80,3 +80,6 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 <li>Please ask us if you need help.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyNTk0MjQ1MTZdfQ==
+-->
