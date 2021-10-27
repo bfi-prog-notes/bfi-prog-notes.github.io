@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Black Arts Movement on Film
+published: true
+date: 2021-10-27
+readtime: true
+categories: ['ART IN THE MAKING']
+tags: [Experimental, Art]
+metadata: 
+pdf: '2021-10-27-black-arts-movement-on-film.pdf'
+---
 
 Enjoy these radical and hugely creative films from pioneering Black artists.
 
@@ -23,8 +34,7 @@ His interests lie in multicultural television, government communications, docume
 Xavier is a graduate of the National Film and Television School and  McGill University.<br>
 
 
-**EMPLOYING THE IMAGE -  
-MAKING SPACE FOR OURSELVES**<br>
+**EMPLOYING THE IMAGE - MAKING SPACE FOR OURSELVES**<br>
 _Director_: Amanda Holiday<br>
 _Production Company_: Black Arts Video Project<br>
 _Sponsor_: Black Arts Video Project Arts Council of Great Britain<br>
@@ -94,6 +104,21 @@ Mon 29 Nov 14:00<br>
 **Relaxed Screening: Petite Maman**<br>
 Tue 30 Nov 18:15<br>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2ODk5MDgwXX0=
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
