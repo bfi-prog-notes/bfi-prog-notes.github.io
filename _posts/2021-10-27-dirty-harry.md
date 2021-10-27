@@ -59,85 +59,84 @@ _Supervising Hairstylist:_ Jean Burt Reilly<br>
 _Filmed in:_ Panavision, Technicolor<br>
 _Music:_ Lalo Schifrin<br>
 _Sound by:_ William Randall<br>
-_Dialogue Supervisor:_ Scott Hale
-_Publicist:_ Carl Combs *
+_Dialogue Supervisor:_ Scott Hale<br>
+_Publicist:_ Carl Combs *<br>
 
 **Cast**<br>
-Clint Eastwood _(Harry Callahan)_
-Harry Guardino _(Lieutenant Bressler)_
-Reni Santoni _(Chico Gonzales)_
-Andy Robinson _(‘Scorpio’, the killer)_
-John Larch _(the chief)_
-John Mitchum _(DeGeorgio)_
-Lyn Edgington _(Norma)_
-Mae Mercer _(Mrs Russell)_
-Ruth Kobart _(Marcella Platt, bus driver)_
-Woodrow Parfrey _(Mr Jaffe)_
-Josef Sommer _(William T. Rothko, the D.A.)_
-Maurice S. Argent _(Sid Kleinman)_
-William Paterson _(Judge Bannerman)_
-Jo De Winter _(Miss Willis)_
-James Nolan _(liquor shop owner)_
-Craig G. Kelly _(Sergeant Reineke)_
-John Vernon _(the mayor)_
-Kristoffer Tabori _(hippie)_ *
-Diana Davidson _(girl swimmer)_ *
-Raymond Johnson _(huge black man)_ *
-Diane Darnell _(mayor’s secretary)_ *
-James Joyce _(thug)_ *
-Bill Couch _(building jumper)_ *
+Clint Eastwood _(Harry Callahan)_<br>
+Harry Guardino _(Lieutenant Bressler)_<br>
+Reni Santoni _(Chico Gonzales)_<br>
+Andy Robinson _(‘Scorpio’, the killer)_<br>
+John Larch _(the chief)_<br>
+John Mitchum _(DeGeorgio)_<br>
+Lyn Edgington _(Norma)_<br>
+Mae Mercer _(Mrs Russell)_<br>
+Ruth Kobart _(Marcella Platt, bus driver)_<br>
+Woodrow Parfrey _(Mr Jaffe)_<br>
+Josef Sommer _(William T. Rothko, the D.A.)_<br>
+Maurice S. Argent _(Sid Kleinman)_<br>
+William Paterson _(Judge Bannerman)_<br>
+Jo De Winter _(Miss Willis)_<br>
+James Nolan _(liquor shop owner)_<br>
+Craig G. Kelly _(Sergeant Reineke)_<br>
+John Vernon _(the mayor)_<br>
+Kristoffer Tabori _(hippie)_ *<br>
+Diana Davidson _(girl swimmer)_ *<br>
+Raymond Johnson _(huge black man)_ *<br>
+Diane Darnell _(mayor’s secretary)_ *<br>
+James Joyce _(thug)_ *<br>
+Bill Couch _(building jumper)_ *<br>
 
-USA 1971©
-102 mins
+USA 1971©<br>
+102 mins<br>
 
-\* Uncredited
+\* Uncredited<br>
+<br>
 
-
-**BIG SCREEN CLASSICS**
-**Dirty Harry**
+**BIG SCREEN CLASSICS**<br>
+**Dirty Harry**<br>
 Wed 27 Oct 18:00 (+ pre-recorded intro by film scholar Hannah Hamad, Cardiff University);  
-Sun 14 Nov 18:20; Fri 26 Nov 20:45
-**Devil in a Blue Dress**
-Thu 28 Oct 20:50; Wed 17 Nov 18:00 (+ intro by _Empire Magazine_ Contributing Editor Amon Warmann)
-**The Silence of the Lambs**
-Fri 29 Oct 20:40; Wed 3 Nov 19:00 (+ pre-recorded intro by Professor Yvonne Tasker, author of BFI Film Classics _The Silence of the Lambs_);  
-Thu 18 Nov 14:40
-**No Country for Old Men**
+Sun 14 Nov 18:20; Fri 26 Nov 20:45<br>
+**Devil in a Blue Dress**<br>
+Thu 28 Oct 20:50; Wed 17 Nov 18:00 (+ intro by _Empire Magazine_ Contributing Editor Amon Warmann)<br>
+**The Silence of the Lambs**<br>
+Fri 29 Oct 20:40; Wed 3 Nov 19:00 (+ pre-recorded intro by Professor Yvonne Tasker, author of BFI Film Classics _The Silence of the Lambs_);  Thu 18 Nov 14:40<br>
+**No Country for Old Men**<br>
 Sat 30 Oct 11:00; Mon 1 Nov 20:30;  
-Wed 24 Nov 18:00 (+ intro by Geoff Andrew, Programmer-at-Large)
-**In the Cut**
-Sun 31 Oct 18:30; Tue 30 Nov 18:10
-**Blue Velvet**
+Wed 24 Nov 18:00 (+ intro by Geoff Andrew, Programmer-at-Large)<br>
+**In the Cut**<br>
+Sun 31 Oct 18:30; Tue 30 Nov 18:10<br>
+**Blue Velvet**<br>
 Tue 2 Nov 18:00; Sat 13 Nov 20:45;
-Sun 21 Nov 17:40
-**House of Bamboo**
+Sun 21 Nov 17:40<br>
+**House of Bamboo**<br>
 Thu 4 Nov 20:50; Thu 11 Nov 14:30;  
-Mon 15 Nov 18:10
-**Kiss Me Deadly**
+Mon 15 Nov 18:10<br>
+**Kiss Me Deadly**<br>
 Fri 5 Nov 20:40; Sat 20 Nov 18:00;  
-Sat 28 Nov 12:15
-**Zero Dark Thirty**
+Sat 28 Nov 12:15<br>
+**Zero Dark Thirty**<br>
 Sat 6 Nov 17:30; Tue 9 Nov 14:15;  
-Sun 28 Nov 15:20
-**Murder on the Orient Express**
-Sun 7 Nov 18:10; Tue 16 Nov 14:15
-**Inside Man**
+Sun 28 Nov 15:20<br>
+**Murder on the Orient Express**<br>
+Sun 7 Nov 18:10; Tue 16 Nov 14:15<br>
+**Inside Man**<br>
 Mon 8 Nov 20:30; Thu 25 Nov 14:30;  
-Tue 30 Nov 20:20
-**The Long Goodbye**
-Wed 10 Nov 17:50 (+ intro by Geoff Andrew, Programmer-at-Large); Sat 27 Nov 20:40
-**Shaft**
-Fri 12 Nov 20:50; Tue 23 Nov 18:20
-**Heat**
-Sat 13 Nov 16:30; Mon 15 Nov 13:40
-**Illustrious Corpses (Cadaveri eccellenti)**
-Fri 19 Nov 20:40; Sat 27 Nov 18:10
-**Chinatown**  
-Sat 20 Nov 20:30
-**The Manchurian Candidate**
-Sun 21 Nov 14:50
-**Un Flic**
-Tue 23 Nov 20:45;Mon 29 Nov 20:55
+Tue 30 Nov 20:20<br>
+**The Long Goodbye**<br>
+Wed 10 Nov 17:50 (+ intro by Geoff Andrew, Programmer-at-Large); Sat 27 Nov 20:40<br>
+**Shaft**<br>
+Fri 12 Nov 20:50; Tue 23 Nov 18:20<br>
+**Heat**<br>
+Sat 13 Nov 16:30; Mon 15 Nov 13:40<br>
+**Illustrious Corpses (Cadaveri eccellenti)**<br>
+Fri 19 Nov 20:40; Sat 27 Nov 18:10<br>
+**Chinatown**<br>
+Sat 20 Nov 20:30<br>
+**The Manchurian Candidate**<br>
+Sun 21 Nov 14:50<br>
+**Un Flic**<br>
+Tue 23 Nov 20:45;Mon 29 Nov 20:55<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTg0NDgwOF19
+eyJoaXN0b3J5IjpbMzI4OTA5OTBdfQ==
 -->
