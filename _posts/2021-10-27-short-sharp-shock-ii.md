@@ -68,9 +68,125 @@ The classic vampire sequence was shot at Nunhead Cemetery, a Victorian burial gr
 
 We are all listed as directors because we all made the decisions about the direction of the film. While we divided tasks on the shoot, decisions were made collectively. Collaborative working was based on our feminist ideals.
 
-Making _The Mark of Lilith_ was exciting. It was a learning process, including working with a budget and schedule that were too tight. Nevertheless, it was well received at the time. It won the Arts Council Student Film and Video Arts Prize, which meant the film toured nationally and internationally. Screenings were organised by our distributors, including at several film festivals. Academics have written, and continue to write, about the film. _Lilith_ has a life of its own and a place in the history of feminist filmmaking.
-
+Making _The Mark of Lilith_ was exciting. It was a learning process, including working with a budget and schedule that were too tight. Nevertheless, it was well received at the time. It won the Arts Council Student Film and Video Arts Prize, which meant the film toured nationally and internationally. Screenings were organised by our distributors, including at several film festivals. Academics have written, and continue to write, about the film. _Lilith_ has a life of its own and a place in the history of feminist filmmaking.<br>
 **Extracts from _Short Sharp Shocks II_, Blu-ray booklet, BFI 2021**<br>
+
+**The Face of Darkness**  
+_Director_: Ian F.H. Lloyd  
+_Production Company_: Cromdale Films  
+_Producer_: Ian F.H. Lloyd  
+_Production Manager_: Mark Heather  
+_Assistant Director_: Peter Van Praagh  
+_Script_: Ian F.H. Lloyd  
+_Photography_: Peter Harvey  
+_Editor_: Charles Lewis-Serreau  
+_Art Director_: Margaret Audsley  
+_Mediaeval costumes_: Lynda Cooper, Ian Sellar  
+_Title Design_: Ed Brennan  
+_Music_: Martin Jacklin  
+_Sound Recording_: Claire Bourne  
+_Sound Editor_: Charles Ware
+
+_Cast:_  
+Lennard Pearce _(Edward Langdon)_  
+John Bennett _(inquisitor/psychiatrist)_  
+David Allister _(The Undead)_  
+Gwyneth Powell _(Eileen)_  
+Roger Bizley _(peasant/fish porter)_  
+Jonathan Elsom _(Philip)_  
+Susan Banahan _(Angie)_
+
+UK 1976
+
+57 mins
+
+**The Dumb Waiter**
+
+_Directed by_: Robert Bierman  
+_Production Company_: Bierman and Randall  
+_Produced by_: Maggi Randall  
+_Assistant Director_: Jonathan Benson  
+_Continuity_: Jean Winter  
+_Written by_: Robert Bierman  
+_Lighting Cameraman_: Billy Williams  
+_Camera Operator_: Bob Boyle  
+_Focus Puller_: Roddy Barron  
+_Clapper Loader_: Richard Garland  
+_Grip_: Tony Cridlin  
+_Editor_: Maurice Hamblin  
+_Assistant Editor_: John Smith  
+_Art Director_: Evan Hercules  
+_Prop Buyer_: Belinda Edwards  
+_Prop Man_: Bruce Vincent  
+_Music_: Colin Towns  
+_Sound Mixer_: Neil Kingsbury
+
+_Sound Dubbing:_  John Wood
+
+_Cast__:_  
+Geraldine James _(girl)_  
+John White _(man)_  
+David Casey, Hilary Gasson _(telephone voices)_
+
+UK 1979
+
+17 mins
+
+**The Mark of Lilith**
+
+_Directors_: Bruna Fionda, Polly Gladwin,
+
+Isiling Mack-Nataf  
+_Production Company_: Re-Vamp Productions, London College of Printing  
+_Production Team_: Paolo Bazzoni, Sara Chambers, Paul Clarke, Victoria Chapman, Paul Denby,
+
+Sheila Eaton, Jimmy Edmonds, Ohna Felby,
+
+Bruna Fionda, Linda Flint, Sandy Gilmour,
+
+Polly Gladwin, Rachel Gladwin, Sally Hall,
+
+Jane Harris, Rosalind Hewitt, Miriam Ludbrook, Zuni Luni, Isiling Mack-Nataf, Cassie McFarlane, Susan Morse, Barbara Nicholls, Claire Palmer, Ingrid Pollard, Paul Preece, Pauline Stride, Hrafnhildur Thorsteinsdottir, Sue Underwood, Wendy Williams, Veronica Wilson  
+_Music_: Miriam Ludbrook, Zuni Luni  
+_Post-production_: Paul Clarke, Bruna Fionda, Polly Gladwin, Miriam Ludbrook, Zuni Luni, Isiling Mack-Nataf, Paul Preece, Pauline Stride<br>
+
+**Cast**  
+Pamela Lofton _(Zena)_  
+Susan Franklyn _(Lillia)_  
+Jeremy Peters _(Luke)_  
+Patricia St. Hilaire _(waitress)_  
+Michael Cudlip _(man in mac)_  
+Faye Chang  
+Nallia Chang-hilliman  
+Victoria Chapman  
+Nigel Court  
+Mick Dwyer  
+Sheila Eaton  
+Jimmy Edmonds  
+Bruna Fionda  
+Linda Flint  
+Steve Forster  
+Angi Friday  
+Patti Gibson  
+Polly Gladwin  
+Sally Hall  
+Jane Harrris  
+Richard Humphries  
+Earlly Jennings  
+Isiling Mack-Nataf  
+Laura Mulvey  
+Claire Palmer  
+Ingrid Pollard  
+Hedra Sarid  
+Pauline Stride  
+Sue Taylor  
+Hrafnhildur Thorsteinsdottir  
+Wendy Williams<br>
+
+UK 1986<br>
+33 mins<br>
+
+The two-disc Blu-ray of _Short Sharp Shocks II_ is available to buy from 25 October.<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3OTcxMTg5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTI4NzM3NTQ4Myw3MzA5OTgxMTZdfQ==
 -->
