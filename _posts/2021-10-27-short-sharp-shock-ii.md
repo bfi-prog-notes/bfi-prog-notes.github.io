@@ -71,7 +71,7 @@ We are all listed as directors because we all made the decisions about the direc
 Making _The Mark of Lilith_ was exciting. It was a learning process, including working with a budget and schedule that were too tight. Nevertheless, it was well received at the time. It won the Arts Council Student Film and Video Arts Prize, which meant the film toured nationally and internationally. Screenings were organised by our distributors, including at several film festivals. Academics have written, and continue to write, about the film. _Lilith_ has a life of its own and a place in the history of feminist filmmaking.<br>
 **Extracts from _Short Sharp Shocks II_, Blu-ray booklet, BFI 2021**<br>
 
-**The Face of Darkness**  
+**THE FACE OF DARKENSS**<br>
 _Director_: Ian F.H. Lloyd  
 _Production Company_: Cromdale Films  
 _Producer_: Ian F.H. Lloyd  
@@ -85,23 +85,21 @@ _Mediaeval costumes_: Lynda Cooper, Ian Sellar
 _Title Design_: Ed Brennan  
 _Music_: Martin Jacklin  
 _Sound Recording_: Claire Bourne  
-_Sound Editor_: Charles Ware
+_Sound Editor_: Charles Ware<br>
 
-_Cast:_  
+**Cast**<br>
 Lennard Pearce _(Edward Langdon)_  
 John Bennett _(inquisitor/psychiatrist)_  
 David Allister _(The Undead)_  
 Gwyneth Powell _(Eileen)_  
 Roger Bizley _(peasant/fish porter)_  
 Jonathan Elsom _(Philip)_  
-Susan Banahan _(Angie)_
+Susan Banahan _(Angie)_<br>
 
-UK 1976
+UK 1976<br>
+57 mins<br>
 
-57 mins
-
-**The Dumb Waiter**
-
+**THE DUMB WAITER**<br>
 _Directed by_: Robert Bierman  
 _Production Company_: Bierman and Randall  
 _Produced by_: Maggi Randall  
@@ -119,24 +117,19 @@ _Art Director_: Evan Hercules
 _Prop Buyer_: Belinda Edwards  
 _Prop Man_: Bruce Vincent  
 _Music_: Colin Towns  
-_Sound Mixer_: Neil Kingsbury
+_Sound Mixer_: Neil Kingsbury<br>
+_Sound Dubbing:_  John Wood<br>
 
-_Sound Dubbing:_  John Wood
-
-_Cast__:_  
+**Cast*<br>  
 Geraldine James _(girl)_  
 John White _(man)_  
-David Casey, Hilary Gasson _(telephone voices)_
+David Casey, Hilary Gasson _(telephone voices)_<br>
 
-UK 1979
+UK 1979<br>
+17 mins<br>
 
-17 mins
-
-**The Mark of Lilith**
-
-_Directors_: Bruna Fionda, Polly Gladwin,
-
-Isiling Mack-Nataf  
+**THE MARK OF LILITH**<br>
+_Directors_: Bruna Fionda, Polly Gladwin, Isiling Mack-Nataf  
 _Production Company_: Re-Vamp Productions, London College of Printing  
 _Production Team_: Paolo Bazzoni, Sara Chambers, Paul Clarke, Victoria Chapman, Paul Denby,
 
@@ -188,5 +181,5 @@ UK 1986<br>
 
 The two-disc Blu-ray of _Short Sharp Shocks II_ is available to buy from 25 October.<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzM3NTQ4Myw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE5NDg3ODMzMjksNzMwOTk4MTE2XX0=
 -->
