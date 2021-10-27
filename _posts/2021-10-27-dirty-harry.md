@@ -1,9 +1,18 @@
-<![endif]-->
+---
+layout: post
+title: Dirty Harry
+published: true
+date: 2021-10-27
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Thriller]
+metadata: 'USA 1971, 102 mins<br> Director: Don Siegel'
+pdf: '2021-10-27-dirty-harry.pdf'
+---
 
 _+ pre-recorded intro by film scholar Hannah Hamad, Cardiff University (Wednesday 27 October only)_
 
-Inspector Harry Callahan, aka Dirty Harry, came along as the conclusive step on Clint Eastwood’s path to global superstardom. He’d first made his name on the TV western series _Rawhide_ (1959-65), which led him to Italy and his iconic roles as the Man with No Name in Sergio Leone’s _Dollars_ trilogy (1964-66).  
-As Quentin Tarantino pointed out in _Once upon a Time… in Hollywood_ (2019), appearing in Italian genre flicks was seen as an elephant’s graveyard for America’s faded stars. For Eastwood, it was the exact opposite. The sojourn to Rome was the making of him. More crucially, master stylist Leone laid the groundwork for Eastwood’s persona as a new type of masculine hero in the post-studio age. _A Fistful of Dollars’_ ‘My mule…’ speech is the precursor of every Eastwood one-liner or retort heard since.
+Inspector Harry Callahan, aka Dirty Harry, came along as the conclusive step on Clint Eastwood’s path to global superstardom. He’d first made his name on the TV western series _Rawhide_ (1959-65), which led him to Italy and his iconic roles as the Man with No Name in Sergio Leone’s _Dollars_ trilogy (1964-66). As Quentin Tarantino pointed out in _Once upon a Time… in Hollywood_ (2019), appearing in Italian genre flicks was seen as an elephant’s graveyard for America’s faded stars. For Eastwood, it was the exact opposite. The sojourn to Rome was the making of him. More crucially, master stylist Leone laid the groundwork for Eastwood’s persona as a new type of masculine hero in the post-studio age. _A Fistful of Dollars’_ ‘My mule…’ speech is the precursor of every Eastwood one-liner or retort heard since.
 
 A new breed of cop thriller, _Dirty Harry_ (1971) was originally touted as a project for Paul Newman, and then Frank Sinatra. When the script landed on Eastwood’s desk via Warners, it marked the beginnings of a beautiful friendship between star and studio. He made the canny decision to again hire rebel talent Don Siegel, who he’d worked with on _Coogan’s Bluff_ (1968), _Two Mules for Sister Sara_ (1970) and _The Beguiled_ (1971). The rest is violence.
 
@@ -137,6 +146,20 @@ Sat 20 Nov 20:30<br>
 Sun 21 Nov 14:50<br>
 **Un Flic**<br>
 Tue 23 Nov 20:45;Mon 29 Nov 20:55<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4OTA5OTBdfQ==
--->
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
