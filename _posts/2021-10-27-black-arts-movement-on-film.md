@@ -50,13 +50,71 @@ _Photography_: Mike Duffield
 _Editors_: James Edmonds, Bill Ogden<br>
 
 UK 1995<br>
-22 mins
+22 mins<br>
 
-**CLAUDETTE'S STAR**
-_Director:_ Ayo Akingbade
+**CLAUDETTE'S STAR**<br>
+_Director:_ Ayo Akingbade<br>
 
-UK 2020
-6 mins
+UK 2020<br>
+6 mins<br>
+<br>
+
+**REGULAR PROGRAMME**<br>
+**Art in the Making:  The Black Arts Movement on Film + discussion**<br>
+Wed 27 Oct 20:40<br>
+**Woman with a Movie Camera Preview:  
+Anatomy of Wings + pre-recorded Q&A**
+Thu 28 Oct 18:15
+**Silent Cinema: Body and Soul + intro**
+Sun 31 Oct 14:20
+**20-22 Omega**
+
+Mon 1 Nov 14:30; Thu 4 Nov 18:10
+
+**Member Picks: Moonlight**
+
+Fri 5 Nov 18:10
+
+**African Odysseys: Black History Walks Presents: Cause for Concern: Equal Before the Law**
+
+Fri 5 Nov 18:30-21:30
+
+**African Odysseys: A Date with the Devil:  
+Darcus Howe’s Journey from Black Power  
+to Broadcasting**
+
+Sat 6 Nov 12:00-18:00
+
+**African Odysseys: Travels with my Camera:  
+Is This My Country? + White Tribe**
+
+Tue 9 Nov 18:10
+
+**African Odysseys: Trouble in Paradise + Darcus Howe: Son of Mine**
+
+Sun 14 Nov 15:30
+
+**Terror Vision: Tales from the Hood**
+
+Thu 25 Nov 20:40
+
+**Missing Believed Wiped** **Session 1:  
+The London Palladium Show**
+
+Sat 27 Nov 13:00
+
+**Missing Believed Wiped** **Session 2: Introducing ‘The Precious Things’: Holiday Startime**
+
+Sat 27 Nov 15:50
+
+**Seniors’ Free Matinee, in partnership with African Odysseys: Once Upon a Time... When We Were Colored + intro**
+
+Mon 29 Nov 14:00
+
+**Relaxed Screening: Petite Maman**
+
+Tue 30 Nov 18:15
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDI0MTE3ODNdfQ==
+eyJoaXN0b3J5IjpbMzE4NjMyNDMwXX0=
 -->
