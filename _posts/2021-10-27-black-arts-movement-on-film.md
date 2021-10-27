@@ -12,8 +12,7 @@ Her chapbook ‘The Art Poems’ was published in April 2018 as part of _New Gen
 
 **Richard Hylton** is a researcher, lecturer, curator and artist. He is currently a lecturer in contemporary art at SOAS, London.
 
-His writing has featured in a number of British and US-based journals and books including in the _Routledge Companion to African American Art History_, _Nka: Journal of Contemporary African Art_, _the International Review of African American Art_, _Critical Interventions: Journal of African Art and Visual Culture_, _Art Monthly_, _Art Review_, _Burlington Magazine_ and _Panorama: Journal of the Association of Historians of American Art_. His book-length study,  _The Nature of the Beast: Cultural Diversity and the Visual Arts Sector, A Study of Policies, Initiatives and Attitudes 1976-2006_, was published by University  
-of Bath.
+His writing has featured in a number of British and US-based journals and books including in the _Routledge Companion to African American Art History_, _Nka: Journal of Contemporary African Art_, _the International Review of African American Art_, _Critical Interventions: Journal of African Art and Visual Culture_, _Art Monthly_, _Art Review_, _Burlington Magazine_ and _Panorama: Journal of the Association of Historians of American Art_. His book-length study,  _The Nature of the Beast: Cultural Diversity and the Visual Arts Sector, A Study of Policies, Initiatives and Attitudes 1976-2006_, was published by University  of Bath.
 
 Hylton is currently researching aspects of Black diasporic art and art history including a monographic study on British art history, race and the body politic, African American art in the international arena, and an exploration of the relationships between contemporary art, ethnography and the western museum.
 
@@ -25,34 +24,32 @@ Xavier is a graduate of the National Film and Television School and  McGill Univ
 
 
 **EMPLOYING THE IMAGE -  
-MAKING SPACE FOR OURSELVES**
-_Director_: Amanda Holiday  
-_Production Company_: Black Arts Video Project  
-_Sponsor_: Black Arts Video Project Arts Council of Great Britain  
-_Producer_: Jennie Russell
+MAKING SPACE FOR OURSELVES**<br>
+_Director_: Amanda Holiday<br>
+_Production Company_: Black Arts Video Project<br>
+_Sponsor_: Black Arts Video Project Arts Council of Great Britain<br>
+_Producer_: Jennie Russell<br>
 
-**Cast**
-Simone Alexander  
-Zarina Bhimji  
-Sonia Boyce  
-Allan De Souza  
-Keith Piper
+**Cast**<br>
+Simone Alexander<br>
+Zarina Bhimji<br>
+Sonia Boyce<br>
+Allan De Souza<br>
+Keith Piper<br>
 
-UK 1989
+UK 1989<br>
+28 mins<br>
 
-28 mins
-
-**THREE SONGS ON PAIN LIGHT AND TIME**
+**THREE SONGS ON PAIN LIGHT AND TIME**<br>
 _Directors_: Edward George, Trevor Mathison  
 _Production Company_: Black Audio Film Collective  
-_Sponsor_:  
-Black Arts Video Project Arts Council of England  
+_Sponsor_:  Black Arts Video Project Arts Council of England  
 _Producer_: David Lawson  
 _Script_: Edward George  
 _Photography_: Mike Duffield  
-_Editors_: James Edmonds, Bill Ogden
+_Editors_: James Edmonds, Bill Ogden<br>
 
-UK 1995
+UK 1995<br>
 22 mins
 
 **CLAUDETTE'S STAR**
@@ -61,5 +58,5 @@ _Director:_ Ayo Akingbade
 UK 2020
 6 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDQzMDE5N119
+eyJoaXN0b3J5IjpbLTE2MDI0MTE3ODNdfQ==
 -->
