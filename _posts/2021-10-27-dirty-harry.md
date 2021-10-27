@@ -35,31 +35,30 @@ Inspector Harry Callahan allowed us to participate in the make believe thrill of
 **Martyn Conterio, bfi.org.uk, 29 May 2020**<br>
 
 
-**DIRTY HARRY**
-_Directed by:_ Don Siegel
-_©:_ Warner Bros, Inc., Malpaso Company
-_A_ Malpaso Company _production_
-_Distributed by:_ Warner Bros.
-_Executive Producer:_ Robert Daley
-_Produced by:_ Don Siegel
-_Associate Producer:_ Carl Pingitore
-_Unit Production Manager:_ Jim Henderling
-_Assistant to the Producer:_ George Fargo
-_Assistant Director:_ Robert Rubin
-_Screenplay by:_ Harry Julian Fink, R.M. Fink,  
-Dean Riesner
-_Screenplay by:_ John Milius *
-_Story by:_ Harry Julian Fink, R.M. Fink
-_Director of Photography:_ Bruce Surtees
-_Editor:_ Carl Pingitore
-_Art Director:_ Dale Hennesy
-_Set Decorator:_ Robert DeVestel
-_Wardrobe:_ Glenn Wright
-_Make-up Supervisor:_ Gordon Bau
-_Supervising Hairstylist:_ Jean Burt Reilly
-_Filmed in:_ Panavision, Technicolor
-_Music:_ Lalo Schifrin
-_Sound by:_ William Randall
+**DIRTY HARRY**<br>
+_Directed by:_ Don Siegel<br>
+_©:_ Warner Bros, Inc., Malpaso Company<br>
+_A_ Malpaso Company _production_<br>
+_Distributed by:_ Warner Bros.<br>
+_Executive Producer:_ Robert Daley<br>
+_Produced by:_ Don Siegel<br>
+_Associate Producer:_ Carl Pingitore<br>
+_Unit Production Manager:_ Jim Henderling<br>
+_Assistant to the Producer:_ George Fargo<br>
+_Assistant Director:_ Robert Rubin<br>
+_Screenplay by:_ Harry Julian Fink, R.M. Fink, Dean Riesner<br>
+_Screenplay by:_ John Milius *<br>
+_Story by:_ Harry Julian Fink, R.M. Fink<br>
+_Director of Photography:_ Bruce Surtees<br>
+_Editor:_ Carl Pingitore<br>
+_Art Director:_ Dale Hennesy<br>
+_Set Decorator:_ Robert DeVestel<br>
+_Wardrobe:_ Glenn Wright<br>
+_Make-up Supervisor:_ Gordon Bau<br>
+_Supervising Hairstylist:_ Jean Burt Reilly<br>
+_Filmed in:_ Panavision, Technicolor<br>
+_Music:_ Lalo Schifrin<br>
+_Sound by:_ William Randall<br>
 _Dialogue Supervisor:_ Scott Hale
 _Publicist:_ Carl Combs *
 
@@ -93,63 +92,38 @@ USA 1971©
 
 \* Uncredited
 
-<![endif]-->
 
-BIG SCREEN CLASSICS
-
+**BIG SCREEN CLASSICS**
 **Dirty Harry**
-
 Wed 27 Oct 18:00 (+ pre-recorded intro by film scholar Hannah Hamad, Cardiff University);  
 Sun 14 Nov 18:20; Fri 26 Nov 20:45
-
 **Devil in a Blue Dress**
-
 Thu 28 Oct 20:50; Wed 17 Nov 18:00 (+ intro by _Empire Magazine_ Contributing Editor Amon Warmann)
-
 **The Silence of the Lambs**
-
 Fri 29 Oct 20:40; Wed 3 Nov 19:00 (+ pre-recorded intro by Professor Yvonne Tasker, author of BFI Film Classics _The Silence of the Lambs_);  
 Thu 18 Nov 14:40
-
 **No Country for Old Men**
-
 Sat 30 Oct 11:00; Mon 1 Nov 20:30;  
 Wed 24 Nov 18:00 (+ intro by Geoff Andrew, Programmer-at-Large)
-
 **In the Cut**
-
 Sun 31 Oct 18:30; Tue 30 Nov 18:10
-
 **Blue Velvet**
-
 Tue 2 Nov 18:00; Sat 13 Nov 20:45;
-
 Sun 21 Nov 17:40
-
 **House of Bamboo**
-
 Thu 4 Nov 20:50; Thu 11 Nov 14:30;  
 Mon 15 Nov 18:10
-
 **Kiss Me Deadly**
-
 Fri 5 Nov 20:40; Sat 20 Nov 18:00;  
 Sat 28 Nov 12:15
-
 **Zero Dark Thirty**
-
 Sat 6 Nov 17:30; Tue 9 Nov 14:15;  
 Sun 28 Nov 15:20
-
 **Murder on the Orient Express**
-
 Sun 7 Nov 18:10; Tue 16 Nov 14:15
-
 **Inside Man**
-
 Mon 8 Nov 20:30; Thu 25 Nov 14:30;  
 Tue 30 Nov 20:20
-
 **The Long Goodbye**
 Wed 10 Nov 17:50 (+ intro by Geoff Andrew, Programmer-at-Large); Sat 27 Nov 20:40
 **Shaft**
@@ -165,5 +139,5 @@ Sun 21 Nov 14:50
 **Un Flic**
 Tue 23 Nov 20:45;Mon 29 Nov 20:55
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY3MTg3ODVdfQ==
+eyJoaXN0b3J5IjpbMTYwNTg0NDgwOF19
 -->
