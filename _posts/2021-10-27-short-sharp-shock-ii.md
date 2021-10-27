@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Short Sharp Shock II
+published: true
+date: 2021-10-27
+readtime: true
+categories: ['BFI BLU-RAY LAUNCH']
+tags: [Horror]
+metadata: 
+pdf: '2021-10-27-short-sharp-shock-ii.pdf'
+---
 
 Celebrate BFI Flipside’s second scintillating collection of strange, spooky British films lovingly remastered in 2K resolution from rare original archive materials. ‘The Politician who reached beyond the Grave for the Power of Hell’ emerges in _The Face of Darkness_ (Ian F H Lloyd, 1976); a mysterious phone call provokes a knife-edge night of horror in _The Dumb Waiter_ (Robert Bierman, 1979); and _The Mark of Lilith_ (Polly Gladwin, Zachary Mack-Nataf, Bruna Fionda, 1986) dismantles the traditional image of the vampire when Black lesbian filmmaker Zena encounters Lillia, a white, undead wraith.<br>
 **bfi.org.uk**
@@ -18,8 +28,7 @@ In his _Lives of the Artists_, Vasari tells the story of how the Pope hoped to h
 
 Observe then David Allister, The Undead, draw such a circle in chalk on the school playground as part of the ritual he uses to ensnare the little girl, Angie, as his victim. Perhaps only one of the greatest artists of the early Renaissance, or one who has lain in the ground after being interred alive for a few hundred years, could achieve such precision.
 
-A good number of our locations we simply stole. The one which resulted in the greatest nervousness was a spiral staircase up from the old London Docklands incarnation of Clink Street to the southern end of the railway bridge across the Thames to Cannon Street railway station. There was a wonderful background of a derelict building with every window broken, giving a fractured reflection of the river, for the pursuit of The Undead by the Fish Porter, Roger Bizley.  
-My anonymous enquiry about how much it would cost to use for filming revealed that all railway property was billed at a flat rate, which would be equivalent to our using, say, Waterloo station. Occasionally, during pre-filming checks, the street door to the staircase would be locked but generally not.  On filming day, a sigh of relief greeted the discovery that the door was open.
+A good number of our locations we simply stole. The one which resulted in the greatest nervousness was a spiral staircase up from the old London Docklands incarnation of Clink Street to the southern end of the railway bridge across the Thames to Cannon Street railway station. There was a wonderful background of a derelict building with every window broken, giving a fractured reflection of the river, for the pursuit of The Undead by the Fish Porter, Roger Bizley. My anonymous enquiry about how much it would cost to use for filming revealed that all railway property was billed at a flat rate, which would be equivalent to our using, say, Waterloo station. Occasionally, during pre-filming checks, the street door to the staircase would be locked but generally not.  On filming day, a sigh of relief greeted the discovery that the door was open.
 
 The market sequence where The Undead is following Gwyneth Powell’s Eileen (the victim-to-be’s mother) was in Clapham. As we prepared to film, cameraman Peter Harvey recalled that the last time he’d tried to shoot in a market, when one of the traders had obstructed the shot with the mantra,  ‘’Ere I stays and ’ere I stands, ’til I ’as a fiver in me ’ands.’ Fortunately, the stallholders of Northcote Road reacted with benign neglect, except for the occasional glance at the camera.
 
@@ -43,22 +52,19 @@ The directors write: Bruna Fionda and Polly Biswas Gladwin met at  The London Fi
 
 In 1985 we collaborated to make our graduation film, _The Mark of Lilith_.  The idea germinated while on holiday in Italy. Zach had a thing for vampires; it turned out we all did. We had loved Tony Scott’s _The Hunger_ (1983) starring Catherine Deneuve, Susan Sarandon and David Bowie. We also paid homage to other vampire films, including _Daughters of Darkness_ (1971), based on the prodigious 16th-century serial killer Countess Elizabeth Bathory.
 
-The vampire genre felt open to lesbian feminist subversion, able to tackle and incorporate notions of the ‘Other’, and a great vehicle for looking at sexuality, race and gender issues. Barbara Creed’s article ‘Horror and the Monstrous-Feminine: An Imaginary Abjection’, (_Screen_, 1986), was a strong influence.  
-We explored the notion of patriarchy and the control of women’s sexuality in film and mythology through demonising and marginalising the transgressive woman.
+The vampire genre felt open to lesbian feminist subversion, able to tackle and incorporate notions of the ‘Other’, and a great vehicle for looking at sexuality, race and gender issues. Barbara Creed’s article ‘Horror and the Monstrous-Feminine: An Imaginary Abjection’, (_Screen_, 1986), was a strong influence. We explored the notion of patriarchy and the control of women’s sexuality in film and mythology through demonising and marginalising the transgressive woman.
 
 Lilith, in Jewish folklore, was the predecessor of Eve. She was Adam’s first, very unsatisfactory and unsatisfied, wife who refused to lie beneath Adam during sexual intercourse. Lilith ended up as the Lamia demon-woman, entering men’s dreams, sucking their lifeblood and sending them ‘terrible’ fantasies.
 
 We aimed to deconstruct and rescue the vampire from the status of purely aberrant, shifting the onus back onto society and audience expectations. Only in a misogynist society could female power and sexuality be seen as a threat demanding repression. Our film portrays Lillia’s journey to self-awareness.
 
-We found the queer, erotic pleasure of horror enjoyable, but tired of seeing the female as victim and wanted our heroines to challenge that. Lillia had to define her own sexuality. We wanted our audience to feel empowered by our female protagonists. Subverting and challenging the rules of genre was crucial.  
-We latched onto the idea of ‘revamping’ the vampire genre. ‘ReVamp Productions’ was born.
+We found the queer, erotic pleasure of horror enjoyable, but tired of seeing the female as victim and wanted our heroines to challenge that. Lillia had to define her own sexuality. We wanted our audience to feel empowered by our female protagonists. Subverting and challenging the rules of genre was crucial. We latched onto the idea of ‘revamping’ the vampire genre. ‘ReVamp Productions’ was born.
 
 We had long conversations with our tutor Laura Mulvey regarding her work on the ‘male gaze’ and the ‘mirror phase’. (see her ‘Visual Pleasure and Narrative Cinema’, _Screen_, 1975). Mirrors are a familiar trope in the vampire genre. Lillia’s journey to define her own needs and desires begins when she first glimpses her own reflection.
 
 We borrowed ideas from Brecht and Godard, such as breaking the fourth wall for an alienation effect – to hinder the audience from identifying with underlying dominant ideologies and points of view of mainstream cinematic production.
 
-Within the film the ‘Man in the Mac’ represents the male gaze and its drive to look at and fetishise. We visually stressed his voyeuristic threat to Lillia. We also hoped to give the female audience ‘back their pleasure’ (re: Sally Potter’s  
-_The Gold Diggers_, 1983) through our counter-storytelling while smashing that fourth wall. Zena, our intrepid researcher, speaks directly to camera to reveal how patriarchy informs the language of cinema. The viewer can actively choose to reject those ideologies on a conscious, critical, political level.
+Within the film the ‘Man in the Mac’ represents the male gaze and its drive to look at and fetishise. We visually stressed his voyeuristic threat to Lillia. We also hoped to give the female audience ‘back their pleasure’ (re: Sally Potter’s _The Gold Diggers_, 1983) through our counter-storytelling while smashing that fourth wall. Zena, our intrepid researcher, speaks directly to camera to reveal how patriarchy informs the language of cinema. The viewer can actively choose to reject those ideologies on a conscious, critical, political level.
 
 The film was made on a tiny budget but we brought in some decent film equipment by an extensive process of begging letters. We ran videomaking courses for women and used our income on the film. We also received a grant from Lambeth Council. Our main actors were paid! And we paid expenses and fed everyone on set.
 
@@ -120,7 +126,7 @@ _Music_: Colin Towns
 _Sound Mixer_: Neil Kingsbury<br>
 _Sound Dubbing:_  John Wood<br>
 
-**Cast*<br>  
+**Cast**<br>  
 Geraldine James _(girl)_  
 John White _(man)_  
 David Casey, Hilary Gasson _(telephone voices)_<br>
