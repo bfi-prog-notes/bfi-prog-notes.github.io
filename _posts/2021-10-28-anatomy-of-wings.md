@@ -26,7 +26,10 @@ Then on the eve of the girls’ high school graduations, at a bi-annual retreat 
 Now 2014 and removed from the lives they lived in high school, the ‘Wings’ group continues to work on their documentary. Though doing so has mostly shifted to inviting Kirsten to film important moments since most of the young women have chosen to put their cameras down. Brittany prepares for nursing in the medical field. Quandra navigates motherhood while attending college classes for pre-nursing. Tywana navigates her pregnancy while being briefly incarcerated. At a potluck gathering Danisha, who returned to Baltimore to study filmmaking, affectionately addresses Kirsten’s skin color as the inside of a hotdog bun. The ‘Wings’ second-family is closer than ever but the completion of their documentary feels uncertain just as the lives of the young women feel uncertain. We then learn that Danisha is not going to make it to her second year of college. She simply cannot give up her core identity as a young Black woman to acclimate to a white-normative curriculum. Kirsten grieves the loss of what Danisha worked so hard for.
 
 Then in 2016, Tazz who was thirteen when ‘Wings’ began, turns twenty-two and decides to film an update with everyone who appears in Anatomy of Wings. Kirsten accompanies Tazz hoping for connection with everyone in the ‘Wings’ second-family. As Tazz interviews each of the ‘Wings’ women the audience learns that those who have become young mothers are very loving to their children. Tazz also asks how the documentary should end? Danisha, now working as a mentor to middle school girls says the film should end the way it began, with a group of women getting ready to go through some stuff, but equipped with a lifetime support system. Then returning to celebrate the 2019 New Year, the group lovingly questions if they are actually done filming? Maybe? Maybe not.  
-**Production notes**
+**Production notes**<br>
+
+
+
 <br><br>
 
 <img style="float:left" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC"  width="40%" height="40%">
@@ -49,3 +52,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY1OTI3MTU5M119
+-->
