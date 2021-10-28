@@ -1,3 +1,14 @@
+---
+layout: post
+title: Mike Leigh in Conversation
+published: true
+date: 2021-10-28
+readtime: true
+categories: ['IN PERSON & PREVIEWS']
+tags: [Talk]
+metadata: 
+pdf: '2021-10-28-mike-leigh-in-conversation.pdf'
+---
 
 _As we celebrate the extensive career of Mike Leigh this month, here’s a unique chance for you to hear the director reflect upon his body of work for film and television, the ensemble teams he employed both in front of and behind the camera, and his thoughts for the future as he plans his next film._
 
@@ -16,10 +27,11 @@ He does not work with stars. He tends, rather, to help create them. In addition,
 After a lifetime of dedication and struggle, he is now recognised as one of the world’s great directors. And he only makes films about life in little old Britain. No battles. No big studios. He’s a genuine auteur in a sea of mediocrity.  
 His process of improvisation with actors is always rooted in objective critical appraisal and his own manipulative instincts. Leigh knows more than his actors about what might happen. But their ‘empowerment’ as creative colleagues means that they always do so much more than actors recycling lines on a page. By the time Leigh shoots, the script is fixed. It then involves the collaboration of such notable Leigh regulars as cinematographer Dick Pope, designers Alison Chitty and Eve Stewart, make-up artist Chris Blundell and many other expert technicians. For what Leigh really does, in a pure sense, is go out and ‘make up a film’. I think I now see his artistry, aside from his technical prowess, as a means of liberating actors to the ends of celebrating their own human nature. It is, and continues to be, a most remarkable campaign.<br>
 **Michael Coveney**<br>
-
+<br>
 
 **MIKE LEIGH**<br>
 **Born 20 February 1943, Salford, Lancashire**<br>
+
 **As Director**<br>
 **1971  Bleak Moments** (UK)  + scenario<br>
 **1972  A Mug’s Game** (BBC Schools Television)<br>
@@ -49,7 +61,7 @@ His process of improvisation with actors is always rooted in objective critical 
 **2004  Vera Drake** (UK/France) + written by<br>
 **2007  Happy-Go-Lucky** (UK/US)  + written by<br>
 **2010  Another Year** (UK)  + written by<br>
-**A Running Jump** (UK short)  + written by<br>
+**2010  A Running Jump** (UK short)  + written by<br>
 **2014  Mr. Turner** (UK/France/Germany) + written by<br>
 **2018  Peterloo** (USA/UK) + written by<br>
 
@@ -98,6 +110,20 @@ Sat 20 Nov 16:20 (+ Q&A with Mike Leigh); Mon 29 Nov 17:40<br>
 Sun 21 Nov 13:10 (+ Q&A with Mike Leigh, Marion Bailey and Dorothy Atkinson); Sat 27 Nov 17:30<br>
 **Who’s Who + A Sense of History + A Running Jump**<br>
 Sat 30 Nov 14:00<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDgxNTE1MiwtMTIxMjYyMTU3NF19
--->
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
