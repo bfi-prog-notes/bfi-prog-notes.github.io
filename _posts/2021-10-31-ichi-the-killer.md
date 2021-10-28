@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Ichi the Killer
+published: true
+date: 2021-10-31
+readtime: true
+categories: ['J-HORROR WEEKENDER']
+tags: [Crime, Horror]
+metadata: 'Japan 2001, 128 mins<br> Director: Takashi Miike'
+pdf: '2021-10-31-ichi-the-killer.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -56,6 +66,62 @@ Sabu _(Kaneko)_
 Japan 2001  
 128 mins
 <br><br>
+
+**J-HORROR WEEKENDER**<br>
+**Ring (Ringu)**<br>
+Fri 29 Oct 18:10<br>
+**Dark Water (Honogurai mizu no soko kara)**<br>
+Fri 29 Oct 20:30<br>
+**Cure (Kyua)**<br>
+Sat 30 Oct 18:00<br>
+**Pulse (Kairo)**<br>
+Sat 30 Oct 20:40<br>
+**Audition (Ôdishon)**<br>
+Sun 31 Oct 15:20<br>
+**Ichi the Killer (Koroshiya 1)**<br>
+Sun 31 Oct 18:00<br>
+<br>
+
+**Supported by**  
+<img style="float: left;" src="/img/Grand Seiko.png">
+<br><br><br><br><br><br><br><br><br>
+
+**In partnership wtih**  
+<img style="float: left;" src="/img/Japan Foundation.JPG" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+
+**With special thanks to**
+<img style="float: left;" src="/img/NFAJ.png">
+<br><br><br><br><br><br><br><br><br><br><br>
+
+
+**With the kind support of:**<br>
+Janus Films/The Criterion Collection, Kadokawa Corporation, Kawakita Memorial Film Institute, Kokusai Hoei Co. Ltd, Nikkatsu Corporation, Toei Co. Ltd<br>
+
+_100 Cult Films_ by Ernest Mathijs and Xavier Mendik is available to buy from the BFI Shop: **https://shop.bfi.org.uk/100-cult-films.html**
+
+<img style="float: left;" src="/img/100_cult_films.jpg" width="40%" height="40%"><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTM3NTU3Mjg0OV19
 -->
