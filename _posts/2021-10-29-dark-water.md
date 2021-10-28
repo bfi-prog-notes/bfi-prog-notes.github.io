@@ -1,11 +1,20 @@
-
+---
+layout: post
+title: Dark Water
+published: true
+date: 2021-10-29
+readtime: true
+categories: ['J-HORROR WEEKENDER']
+tags: [Horror]
+metadata: 'Japan 2002, 101 mins<br> Director: Hideo Nakata'
+pdf: '2021-10-29-dark-water.pdf'
+---
 
 According to Alfred Hitchcock’s oft-quoted ‘bomb-under-the-table’ theory, the key to screen thrills is the _anticipation_, rather than the _realisation_, of an approaching terror. It is a lesson well proven by the Japanese chiller _Dark_ _Water_, a splendidly derivative frightener whose air of creeping anxiety and out-of-the-corner-of-your-eye unease almost strangles the viewer into breathless rigidity. Time and again we are offered visual fragments (was that a figure at the half-opened door? the face of a child in a pool of water?) drenched in the uncanny allure of sights unseen yet hazily recognised. That such a film should also deliver not one, but two (and possibly even three) moments of skin-crawling revelation testifies to its generic roadworthiness; as a horror shocker, both suggestive and demonstrative, _Dark_ _Water_ is one of the most satisfyingly scary pictures of the year.
 
 Returning to the novels of Kôji Suzuki, whose writings provided the basis of _Ringu_ (and its sequel _Ringu 2_), director Hideo Nakata draws again from the wellsprings of modern urban anxiety and timeless human terror. Fans of _Ringu_ will recognise recurrent leitmotifs, from the specific figure of the faceless child lost in water (Mitsuko, the mysterious missing child in this story, bears an uncanny resemblance to the ghostly Sadako from _Ringu_) and the use of blurry televisual information (CCTV footage mirroring _Ringu_’s cursed videotape) to the more general spectres of parental grief and abandonment, and the unstoppable resurfacing of long-sunken guilt. _Dark_ _Water_ serves as a thematic companion piece to _Ringu_ – even more so than some of that film’s ostensible sequels – revisiting the psychodramas which lurked therein. Stylistically, too, the re-teaming of composer Kenji Kawai and cinematographer Junichirô Hayashi (ably aided by lighting director Meicho Tomiyama) thaws us back into the murky depths of Nakata’s breakthrough feature, with Hayashi’s extraordinary eye for the everyday uncanny once again well complemented by Kawai’s atonal screechings and rumblings; the sound of a quiet, ordered urban lifestyle gradually falling apart.
 
-Familiar too are the nods to classic western shockers, with the ghost of Nic Roeg’s _Don’t Look Now_ (1973) stalking the edges of the waterlogged drama, and casual asides toward such films as Robert Wise’s _Audrey Rose_ (1977), John Irvin’s _Ghost Story_ (1981), Adrian Lyne’s _Fatal Attraction_ (1987) and  
-M. Night Shyamalan’s _The Sixth Sense_ (1999). The relationship between newly single mother Yoshimi and her increasingly haunted daughter Ikuko, who may or may not be the victim of something more eerie than parental divorce, also mirrors that between Chris and Regan MacNeil in _The Exorcist_ (1973). None of which is intended to suggest that _Dark Water_ is simply a work of imitation or ‘homage’; on the contrary, by creating such a generically literate movie, the filmmakers can toy with the audience’s expectations, employing these readily identifiable signifiers to chilling effect.
+Familiar too are the nods to classic western shockers, with the ghost of Nic Roeg’s _Don’t Look Now_ (1973) stalking the edges of the waterlogged drama, and casual asides toward such films as Robert Wise’s _Audrey Rose_ (1977), John Irvin’s _Ghost Story_ (1981), Adrian Lyne’s _Fatal Attraction_ (1987) and  M. Night Shyamalan’s _The Sixth Sense_ (1999). The relationship between newly single mother Yoshimi and her increasingly haunted daughter Ikuko, who may or may not be the victim of something more eerie than parental divorce, also mirrors that between Chris and Regan MacNeil in _The Exorcist_ (1973). None of which is intended to suggest that _Dark Water_ is simply a work of imitation or ‘homage’; on the contrary, by creating such a generically literate movie, the filmmakers can toy with the audience’s expectations, employing these readily identifiable signifiers to chilling effect.
 
 Framed in chilly blue and green hues, with flashbacks drenched in melancholic ochre, _Dark_ _Water_ inhabits a cine-literate environment in which everything seems ominous, from the angular shape of Ikuko’s kindergarten to the garish colours of Mitsuko’s coat and bag which seem designed to tear cracks in Yoshimi’s sense of fragile sanity. While the revelation that she was once driven half-mad by proof-reading graphically sadistic novels may be a knowing reference to Suzuki’s literary reputation, it also sheds light on her fractured character, casting her as one who becomes drowned by stories, unable to establish boundaries between fantasy and reality.
 
@@ -69,6 +78,42 @@ Sun 31 Oct 15:20<br>
 **Ichi the Killer (Koroshiya 1)**<br>
 Sun 31 Oct 18:00<br>
 <br>
+
+**Supported by**  
+<img style="float: left;" src="/img/Grand Seiko.png">
+<br><br><br><br><br><br><br><br><br>
+
+**In partnership wtih**  
+<img style="float: left;" src="/img/Japan Foundation.JPG" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+
+**With special thanks to**
+<img style="float: left;" src="/img/NFAJ.png">
+<br><br><br><br><br><br><br><br><br><br><br>
+
+
+**With the kind support of:**<br>
+Janus Films/The Criterion Collection, Kadokawa Corporation, Kawakita Memorial Film Institute, Kokusai Hoei Co. Ltd, Nikkatsu Corporation, Toei Co. Ltd<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTgxNjkzMjUwNl19
 -->
