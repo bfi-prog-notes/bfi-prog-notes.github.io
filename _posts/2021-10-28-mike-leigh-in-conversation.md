@@ -81,23 +81,23 @@ Sat 30 Oct 17:15 (+ Q&A with Mike Leigh); Tue 30 Nov 14:15<br>
 **Home Sweet Home**<br>
 Mon 1 Nov 17:50 (+ Q&A with Mike Leigh); Sat 6 Nov 11:45<br>
 **All or Nothing**<br>
-Wed 3 Nov 20:30; Wed 10 Nov 20:30; Sun 21 Nov 17:10 (+ Q&A with Mike Leigh, Lesley Manville and Marion Bailey)
-**Career Girls**
-Fri 5 Nov 20:50; Fri 12 Nov 18:15; Tue 23 Nov 18:00 (+ Q&A with Mike Leigh)
-**Vera Drake**
-Fri 12 Nov 20:40; Fri 26 Nov 17:40 (+ Q&A with Mike Leigh, Imelda Staunton and Phil Davis)
-**Topsy-Turvy**
-Sun 14 Nov 17:30 (+ Q&A with Mike Leigh and Jim Broadbent); Sun 28 Nov 17:40
-**Another Year**
-Fri 19 Nov 17:30 (+ Q&A with Mike Leigh, Ruth Sheen and Lesley Manville); Mon 29 Nov 20:30
-**Four Days in July**
-Sat 20 Nov 11:50 (+ Q&A with Mike Leigh and Bríd Brennan); Wed 24 Nov 14:15
-**Peterloo**
-Sat 20 Nov 16:20 (+ Q&A with Mike Leigh); Mon 29 Nov 17:40
-**Mr. Turner**
-Sun 21 Nov 13:10 (+ Q&A with Mike Leigh, Marion Bailey and Dorothy Atkinson); Sat 27 Nov 17:30
-**Who’s Who + A Sense of History + A Running Jump**
-Sat 30 Nov 14:00
+Wed 3 Nov 20:30; Wed 10 Nov 20:30; Sun 21 Nov 17:10 (+ Q&A with Mike Leigh, Lesley Manville and Marion Bailey)<br>
+**Career Girls**<br>
+Fri 5 Nov 20:50; Fri 12 Nov 18:15; Tue 23 Nov 18:00 (+ Q&A with Mike Leigh)<br>
+**Vera Drake**<br>
+Fri 12 Nov 20:40; Fri 26 Nov 17:40 (+ Q&A with Mike Leigh, Imelda Staunton and Phil Davis)<br>
+**Topsy-Turvy**<br>
+Sun 14 Nov 17:30 (+ Q&A with Mike Leigh and Jim Broadbent); Sun 28 Nov 17:40<br>
+**Another Year**<br>
+Fri 19 Nov 17:30 (+ Q&A with Mike Leigh, Ruth Sheen and Lesley Manville); Mon 29 Nov 20:30<br>
+**Four Days in July**<br>
+Sat 20 Nov 11:50 (+ Q&A with Mike Leigh and Bríd Brennan); Wed 24 Nov 14:15<br>
+**Peterloo**<br>
+Sat 20 Nov 16:20 (+ Q&A with Mike Leigh); Mon 29 Nov 17:40<br>
+**Mr. Turner**<br>
+Sun 21 Nov 13:10 (+ Q&A with Mike Leigh, Marion Bailey and Dorothy Atkinson); Sat 27 Nov 17:30<br>
+**Who’s Who + A Sense of History + A Running Jump**<br>
+Sat 30 Nov 14:00<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzNzA5NzUwLC0xMjEyNjIxNTc0XX0=
+eyJoaXN0b3J5IjpbMTE0MDgxNTE1MiwtMTIxMjYyMTU3NF19
 -->
