@@ -28,7 +28,42 @@ Now 2014 and removed from the lives they lived in high school, the ‘Wings’ g
 Then in 2016, Tazz who was thirteen when ‘Wings’ began, turns twenty-two and decides to film an update with everyone who appears in Anatomy of Wings. Kirsten accompanies Tazz hoping for connection with everyone in the ‘Wings’ second-family. As Tazz interviews each of the ‘Wings’ women the audience learns that those who have become young mothers are very loving to their children. Tazz also asks how the documentary should end? Danisha, now working as a mentor to middle school girls says the film should end the way it began, with a group of women getting ready to go through some stuff, but equipped with a lifetime support system. Then returning to celebrate the 2019 New Year, the group lovingly questions if they are actually done filming? Maybe? Maybe not.  
 **Production notes**<br>
 
+**ANATOMY OF WINGS**
+_Directed by:_ Nikiea Redmond,  Kirsten D’Andrea Hollander
+_Presented by:_ Raw Honey Films
+_Production Companies:_ Raw Honey Films,  The Annie E. Casey Foundation, Geneviève McMillan Foundation, MICA, HEBCAC, Fusion Partnerships, Inc.
+_Produced by:_ Nikiea Redmond, Kirsten D’Andrea Hollander
+_Associate Producers:_ Alison Welch, Charlton Hughes, Trinidad Rodriguez
+_Contributing Producer:_ Scot Hollander
+_Segment Producer:_ Jane Cottis
+_Cinematography:_ The Wings Collective
+_Contributing Cinematographer:_ Allen Moore
+_Editor:_ Trinidad Rodriguez
+_Consulting Editor:_ Richard Hankin
+_Graphic Designer:_ Katty Huertas
+_Colourists:_ Jeffrey Chance, Jimmy Powell
+_Original Music Score:_ Ellen Cherry
+_Additional Original Music:_ Danisha Harris
+_En-face Interview Audio:_ James P. Duffy
+_Additional Voiceover Audio:_ Camila Franco Ribeiro Gomide
 
+**With**
+Brittany Backmon
+Brienna Brown
+Sheila Butler
+Quanisha Carmichael
+Kata Frederick
+Danisha Harris
+Quandra Jones
+Cami McCrief
+Teshavionna ‘Tazz’ Mitchell
+Tywana Reid
+Cinnamon Triano
+Marquise Weems
+
+USA 2020
+
+84 mins
 
 <br><br>
 
@@ -53,5 +88,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTI3MTU5M119
+eyJoaXN0b3J5IjpbMTAzMDgzNzFdfQ==
 -->
