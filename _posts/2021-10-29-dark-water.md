@@ -49,9 +49,26 @@ Hitomi Kuroki _(Yoshimi Matsubara)_
 Rio Kanno _(Ikuko aged 6)_  
 Mirei Oguchi _(Mitsuko Kawai)_  
 Asami Mizukawa _(Ikuko Hamada aged 16)_  
-Japan 2002©
 
+Japan 2002©  
 101 mins
+<br><br>
+
+
+**J-HORROR WEEKENDER**<br>
+**Ring (Ringu)**<br>
+Fri 29 Oct 18:10<br>
+**Dark Water (Honogurai mizu no soko kara)**<br>
+Fri 29 Oct 20:30<br>
+**Cure (Kyua)**<br>
+Sat 30 Oct 18:00<br>
+**Pulse (Kairo)**<br>
+Sat 30 Oct 20:40<br>
+**Audition (Ôdishon)**<br>
+Sun 31 Oct 15:20<br>
+**Ichi the Killer (Koroshiya 1)**<br>
+Sun 31 Oct 18:00<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5Mzg0MjM0XX0=
+eyJoaXN0b3J5IjpbLTgxNjkzMjUwNl19
 -->
