@@ -80,8 +80,7 @@ _Dubbing Editor_: Peter Joly
 _Assistant Dubbing Editor_: Paul Newson  
 _Dog Supplied_: Animals Okay
 
-_Cast:_
-
+**Cast**  
 Philip Davis _(Cyril Bender)_  
 Ruth Sheen _(Shirley)_  
 Edna Doré _(Mrs Bender)_  
@@ -96,9 +95,9 @@ Diane-Louise Jordan _(chemist-shop assistant)_
 Linda Beckett _(receptionist)_  
 Ali _(Baby, the dog)_
 
-UK 1988©
-
+UK 1988©  
 112 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTc4MzI3NF19
+eyJoaXN0b3J5IjpbLTQyNjIwMTk4Ml19
 -->
