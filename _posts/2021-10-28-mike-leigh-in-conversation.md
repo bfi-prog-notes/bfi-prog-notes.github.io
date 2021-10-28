@@ -1,33 +1,26 @@
 
-<![endif]-->
-
 _As we celebrate the extensive career of Mike Leigh this month, here’s a unique chance for you to hear the director reflect upon his body of work for film and television, the ensemble teams he employed both in front of and behind the camera, and his thoughts for the future as he plans his next film._
 
 _This event will be hosted by Amy Raphael, author of_ Mike Leigh on Mike Leigh _(Faber – new, revised edition now available in the BFI shop)._
 
 It is proof of making your mark as an artist that people know exactly what you mean when your name is invoked. ‘Like a Mike Leigh film, or play’ has become shorthand for a certain kind of grungey domestic scenario, with pop-up toasters and cups of tea, fake-fur coats and rugs, pink bobble carpet slippers, bad haircuts, domestic arguments on leatherette sofas, and adolescent anxieties. Welcome to the slump, the outer London anomie, the china animals, the flying geese on brown wallpaper, the smoky pub, the cold light of dawn and the cheerless laundrette. But Leigh’s pictures of ordinary life are given extraordinary resonance by the thoroughness of their presentation, the brilliance of the acting, the sureness of the atmospheres and the classical structure to which most of his work aspires, often successfully. Imagine _Così fan tutte_, said Clive James, without the music, and without the words, plus cheap furniture: you have a Mike Leigh film.
 
-Quite a lot of Leigh’s creations are fumbling for words, struggling to express inexpressible feelings and catching at phrases like drowning men looking for rafts. Clive James, reviewing _Home Sweet Home_, averred that Leigh was ‘conducting the most daring raid on the inarticulate yet. Harold Pinter is Christopher Fry beside him.’ The art of evasion and failure in communication certainly comes from Pinter, whom Leigh acknowledges as an important influence. He especially admires Pinter’s earliest work, and directed  
-_The Caretaker_ while still at RADA. Ben Jonson’s comedy of humours lies behind the fact that Leigh’s characters are wound up and unleashed on the world; they don’t change or develop all that much, but the situation around them does, farcically and sometimes catastrophically. Alan Ayckbourn’s increasingly dark and wry middle-class chronicles of social unease and embarrassment are comparable to Leigh’s rougher, noisier essays in snobbery and violence and misguided social aspiration. But the world of Mike Leigh reaches even deeper into the contemporary cultural consciousness for two reasons: he makes films, and so takes those theatrical elements of class comedy and speech patterns into the popular mainstream; and those films, for an audience now extending way beyond the enclosures of cineastes and critical trend-setters, define, in a peculiar and disturbing manner, the way we live today.
+Quite a lot of Leigh’s creations are fumbling for words, struggling to express inexpressible feelings and catching at phrases like drowning men looking for rafts. Clive James, reviewing _Home Sweet Home_, averred that Leigh was ‘conducting the most daring raid on the inarticulate yet. Harold Pinter is Christopher Fry beside him.’ The art of evasion and failure in communication certainly comes from Pinter, whom Leigh acknowledges as an important influence. He especially admires Pinter’s earliest work, and directed  _The Caretaker_ while still at RADA. Ben Jonson’s comedy of humours lies behind the fact that Leigh’s characters are wound up and unleashed on the world; they don’t change or develop all that much, but the situation around them does, farcically and sometimes catastrophically. Alan Ayckbourn’s increasingly dark and wry middle-class chronicles of social unease and embarrassment are comparable to Leigh’s rougher, noisier essays in snobbery and violence and misguided social aspiration. But the world of Mike Leigh reaches even deeper into the contemporary cultural consciousness for two reasons: he makes films, and so takes those theatrical elements of class comedy and speech patterns into the popular mainstream; and those films, for an audience now extending way beyond the enclosures of cineastes and critical trend-setters, define, in a peculiar and disturbing manner, the way we live today.
 
 Mike Leigh was born in 1943. He went to Salford Grammar School, whose alumni include the actor Albert Finney and the director Les Blair, Leigh’s friend and immediate contemporary, who produced Leigh’s first feature film, _Bleak Moments_, in 1971. Leigh astonished and alarmed his family by devising an escape route to London in 1960, aged 17: he won a scholarship to the Royal Academy of Dramatic Art. After RADA, he took further courses in stage design and film technique, in life drawing on a foundation course at art college, and then served an apprenticeship in the theatre simply because it was easier to break into than the cinema. Leigh is a brilliant, naturally gifted, satirical cartoonist, and could easily have made his living by the broad-nibbed pen, or brush; he is an unreconstructed northerner who came south to ‘make it’ in London, slightly chippy, fiercely proud (and critical) of his roots and his Jewish background, an instinctive maverick and non-joiner; and he is a child of the 1960s, the decade of the first British teenagers, of the Beatles and student unrest, and of the explosion of interest in the European cinema and the possibilities of television.
 
 In his formative young-adult years (1965-70), Leigh worked in drama schools, in an arts centre in Birmingham and a youth theatre in Manchester. During this time he gradually evolved a rigorous and scientific method of working and writing with actors in rehearsals which is unique, unprecedented and frequently misunderstood as a form of random, or casual, ‘improvisation’. He also worked as a small-part actor in films and on the stage, and as an assistant director to both Peter Hall and Trevor Nunn at the Royal Shakespeare Company. Between 1971, when he made _Bleak Moments_, and 1988, when he made his second feature film, _High Hopes_, Leigh’s career oscillated between the theatre (the Royal Shakespeare Company, the London fringe, Hampstead Theatre, the West End) and BBC Television. His films for the BBC, taken together with such memorable stage plays as _Babies Grow Old_ (1974), _Abigail’s Party_ (1977), _Ecstasy_ (1979) and _Goose-pimples_ (1981), comprise a distinctive, homogeneous body of work which stands comparison with anyone’s in the British theatre and cinema over the same period.
 
-He does not work with stars. He tends, rather, to help create them. In addition, the roster of actors who have worked with him over the years comprises an impressive, almost representative, nucleus of outstanding British acting talent. The price of Leigh’s artistic integrity has been high. Like one of his heroes, Robert Altman, he has never sought Hollywood’s approval, so has never minded not going there. He works on his own terms, and no one else’s.  
-Every project, on stage or film, is a blank page until he starts casting and piecing together his ideas with what the actors bring him. He rehearses all day and night for two or three months. He does not have an outline, or a script, to show any producers or potential backers. He makes life very hard – interesting, exhausting, demanding, but hard – for almost everyone who works with him. But he makes it hardest of all for himself.
+He does not work with stars. He tends, rather, to help create them. In addition, the roster of actors who have worked with him over the years comprises an impressive, almost representative, nucleus of outstanding British acting talent. The price of Leigh’s artistic integrity has been high. Like one of his heroes, Robert Altman, he has never sought Hollywood’s approval, so has never minded not going there. He works on his own terms, and no one else’s.  Every project, on stage or film, is a blank page until he starts casting and piecing together his ideas with what the actors bring him. He rehearses all day and night for two or three months. He does not have an outline, or a script, to show any producers or potential backers. He makes life very hard – interesting, exhausting, demanding, but hard – for almost everyone who works with him. But he makes it hardest of all for himself.
 
 After a lifetime of dedication and struggle, he is now recognised as one of the world’s great directors. And he only makes films about life in little old Britain. No battles. No big studios. He’s a genuine auteur in a sea of mediocrity.  
 His process of improvisation with actors is always rooted in objective critical appraisal and his own manipulative instincts. Leigh knows more than his actors about what might happen. But their ‘empowerment’ as creative colleagues means that they always do so much more than actors recycling lines on a page. By the time Leigh shoots, the script is fixed. It then involves the collaboration of such notable Leigh regulars as cinematographer Dick Pope, designers Alison Chitty and Eve Stewart, make-up artist Chris Blundell and many other expert technicians. For what Leigh really does, in a pure sense, is go out and ‘make up a film’. I think I now see his artistry, aside from his technical prowess, as a means of liberating actors to the ends of celebrating their own human nature. It is, and continues to be, a most remarkable campaign.<br>
 **Michael Coveney**<br>
 
-<![endif]-->
 
-**Mike Leigh**
-
-**Born 20 February 1943, Salford, Lancashire**
-
-**As Director**
+**MIKE LEIGH**<br>
+**Born 20 February 1943, Salford, Lancashire**<br>
+**As Director**<br>
 
 **1971  Bleak Moments** (UK)  + scenario
 
@@ -89,13 +82,13 @@ His process of improvisation with actors is always rooted in objective critical 
 
 **A Running Jump** (UK short)  + written by
 
-**2014  Mr Turner** (UK/France/Germany) + written by
+**2014  Mr. Turner** (UK/France/Germany) + written by
 
 **2018  Peterloo** (USA/UK) + written by
 
 Please note that Mike Leigh and Amy Raphael will be signing copies of their new, revised edition of _Mike Leigh on Mike Leigh_ (Faber) at 5:30pm on Saturday 6 November at the BFI shop. This signing is only available to customers purchasing books from the shop on the day.
 
-MIKE LEIGH A COMPLETE FILM SEASON
+**MIKE LEIGH A COMPLETE FILM SEASON88
 **Bleak Moments**
 Mon 18 Oct 20:40; Thu 28 Oct 18:00
 **Nuts in May**
@@ -139,6 +132,5 @@ Sun 21 Nov 13:10 (+ Q&A with Mike Leigh, Marion Bailey and Dorothy Atkinson); Sa
 **Who’s Who + A Sense of History + A Running Jump**
 Sat 30 Nov 14:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg5MTU4ODgsLTEyMTI2MjE1NzRdfQ
-==
+eyJoaXN0b3J5IjpbMjA5NjUyNDUxNiwtMTIxMjYyMTU3NF19
 -->
