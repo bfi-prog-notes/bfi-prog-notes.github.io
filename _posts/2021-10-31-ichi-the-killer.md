@@ -31,14 +31,13 @@ _Director_: Takashi Miike
 _Presented by_: Omega Project, Omega Micott  
 _In co-production with_: EMG Distribution, Starmax, Spike, Alpha Group  
 _In association with_: Excellent Films  
-_Executive Producers_: Albert Yeung Sau-shing, Toyoyuki Yokohama, SumijiMiyake  
+_Executive Producers_: Albert Yeung Sau-shing, Toyoyuki Yokohama, Sumiji Miyake  
 _Producers_: Dai Miyazaki, Akiko Funatsu  
 _Co-producers_: Elliot Tong, Yuchul Cho  
 _Associate Producer_: Toshiki Kimura  
 _Casting_: Mitsuyo Ishigaki  
 _Screenplay_: Sakichi Sato  
-_Based on the_ Weekly Young Sunday _comics by_:  
-Hideo Yamamoto  
+_Based on the_ Weekly Young Sunday _comics by_:  Hideo Yamamoto  
 _Director of Photography_: Hideo Yamamoto  
 _Visual Effects Supervisor_: Misako Saka  
 _Editor_: Yashushi Shimamura  
@@ -47,17 +46,16 @@ _Costume Designer_: Michiko Kitamura
 _Special Make-up_: Yuichi Matsu  
 _Music_: Karera Musication
 
-_Cast:_
-
+**Cast**  
 Tadanobu Asano _(Kakihara)_  
 Nao Omori _(Ichi)_  
 Shinya Tsukamoto _(Jijii)_  
 Alien Sun _(Karen)_  
 Sabu _(Kaneko)_
 
-Japan 2001
-
+Japan 2001  
 128 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDMzMDIwNjldfQ==
+eyJoaXN0b3J5IjpbMTM3NTU3Mjg0OV19
 -->
