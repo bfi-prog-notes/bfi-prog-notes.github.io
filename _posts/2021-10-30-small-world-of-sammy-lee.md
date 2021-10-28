@@ -31,21 +31,15 @@ As Sammy dashes about the curvy, cobbly, intricate, increasingly distant streets
 
 Which may be just one of the reasons why Anthony Newley is so exceptional in this role. Newley, though at home on stage, oft gave the impression of a man unsettled, with love, with life, and always on the run – perhaps from himself – despite his success. Certainly that’s the conclusion you might draw if you allow yourself to believe the words of his signature song – perhaps the most lugubriously theatrical ballad he ever wrote with Bricusse, the tears-of-a-clown show-closer ‘What Kind of Fool Am I?’
 
-Could it be that offstage, despite fame’s glitziest trappings, Tony considered himself a man alone at the heart of a crowd – something like Sammy? Was it, perhaps, the part he was born to play? Certainly, London is a lonely place when you’re down on your luck; and certainly, here, Anthony Newley, thoroughly convincing in his supremely lonely portrayal of sad Sammy, gives what might be  his greatest and most affecting performance, in what is perhaps Ken Hughes’  
-finest film.
+Could it be that offstage, despite fame’s glitziest trappings, Tony considered himself a man alone at the heart of a crowd – something like Sammy? Was it, perhaps, the part he was born to play? Certainly, London is a lonely place when you’re down on your luck; and certainly, here, Anthony Newley, thoroughly convincing in his supremely lonely portrayal of sad Sammy, gives what might be  his greatest and most affecting performance, in what is perhaps Ken Hughes’  finest film.  
+**Vic Pratt, bfi.org.uk, 12 October 2016**
+<br><br>
 
-Vic Pratt, bfi.org.uk, 12 October 2016
-
-<![endif]-->
-
-**LOOK AT LIFE: IN GEAR**
-
-UK 1967
-
+**LOOK AT LIFE: IN GEAR**  
+UK 1967  
 9 mins
 
-**THE SMALL WORLD OF SAMMY LEE**
-
+**THE SMALL WORLD OF SAMMY LEE**  
 _Director_: Ken Hughes  
 ©: Elgin Films Ltd  
 _Production Company_: Elgin Films Ltd  
@@ -72,8 +66,7 @@ _Sound Recording_: Leslie Hammond, Hugh Strain
 _Sound Editor_: Jim Roddan  
 _Studio_: Shepperton Studios
 
-_uncredited_
-
+_uncredited_  
 _Production Secretary_: Jill Langley  
 _2nd Assistant Director_: Gordon Gilbert  
 _3rd Assistant Director_: Ray Freeborn  
@@ -90,8 +83,7 @@ _Sound Maintenance_: L. James Gubbins
 _Assistant Sound Editor_: John Black  
 _Publicity Director_: Jackie Ward
 
-_Cast:_
-
+**Cast**  
 Anthony Newley _(Sammy ‘Lee’ Leeman)_  
 Robert Stephens _(Gerry Sullivan)_  
 Wilfrid Brambell _(Harry)_  
@@ -120,15 +112,14 @@ Alberto Cardinali _(Italian singer)_
 Patti Dalton, Pamela Law, Sara Lesley,  
 Brenda Fagan, Margherita Lopez _(girls)_
 
-_uncredited_
-
+_uncredited_  
 Rita Webb _(cleaning lady)_  
 Coleridge Goode _(bassist)_  
 Joe Temperley
 
-UK 1962©
-
+UK 1962©  
 107 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4MzY3NTA0XX0=
+eyJoaXN0b3J5IjpbMTM5NTM5OTc5MV19
 -->
