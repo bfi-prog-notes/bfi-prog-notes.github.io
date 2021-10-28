@@ -10,7 +10,7 @@ metadata: 'USA 2020, 84 mins<br> Directors: Kirsten D’Andrea Hollander, Nikiea
 pdf: '2021-10-28-anatomy-of-wings.pdf'
 ---
 
-_+ pre-recorded Q&A_
+_+ pre-recorded Q&A_ 
 
 In 2008 a group of Black girls in Baltimore signed up to an after-school programme, Wings, where they were taught filmmaking. Over the next eleven years it became not just a learning experience for them, but also a second family, where they were able to have honest conversations about their lives. As we follow the girls through their teens and into adulthood, we’re given a frank and authentic look not just at the experiences of young Black women, but at the way in which filmmaking becomes an outlet for them to tell their stories. A completely collaborative project between the Wings coordinators and participants, Anatomy of Wings is a touching and powerful story of community and authorship.  
 **Programmed by Grace Barber-Plentie**
@@ -86,5 +86,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjE5MTU5M119
+eyJoaXN0b3J5IjpbLTExNjc0NTk4OTYsMTYxNjE5MTU5M119
 -->
