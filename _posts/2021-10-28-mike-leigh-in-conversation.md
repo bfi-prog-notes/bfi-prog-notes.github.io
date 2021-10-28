@@ -95,56 +95,30 @@ His process of improvisation with actors is always rooted in objective critical 
 
 Please note that Mike Leigh and Amy Raphael will be signing copies of their new, revised edition of _Mike Leigh on Mike Leigh_ (Faber) at 5:30pm on Saturday 6 November at the BFI shop. This signing is only available to customers purchasing books from the shop on the day.
 
-MIKE LEIGH
-
-A COMPLETE FILM SEASON
-
+MIKE LEIGH A COMPLETE FILM SEASON
 **Bleak Moments**
-
 Mon 18 Oct 20:40; Thu 28 Oct 18:00
-
 **Nuts in May**
-
 Wed 20 Oct 18:00; Sun 31 Oct 11:20 (+ Q&A with Mike Leigh, Alison Steadman, Roger Sloman, Anthony O’Donnell, Stephen Bill and Sheila Kelley)
-
 **The Kiss of Death + The Permissive Society**
-
 Sat 23 Oct 12:50
-
 **Hard Labour**
-
 Sat 23 Oct 15:10
-
 **Happy-Go-Lucky**
-
 Sun 24 Oct 14:50 (+ Q&A with Mike Leigh, Sally Hawkins, Alexis Zegerman and Kate O’Flynn); Mon 15 Nov 20:40
-
 **Meantime**
-
 Sun 24 Oct 18:00 (+ Q&A with Mike Leigh,  Marion Bailey and Phil Daniels); Thu 11 Nov 20:45
-
 **Secrets & Lies**
-
 Mon 25 Oct 14:30; Sat 6 Nov 19:00 (+ Q&A with Mike Leigh); Sat 27 Nov 15:00
-
 **Abigail’s Party**
-
 Tue 26 Oct 20:50; Sun 14 Nov 12:00 (+ Q&A with Mike Leigh)
-
 **High Hopes**
-
 Thu 28 Oct 14:30; Tue 2 Nov 18:45 (+ Q&A with Mike Leigh, Ruth Sheen and Phil Davis); Thu 11 Nov 18:00; Sat 20 Nov 20:30
-
 **Life Is Sweet**
-
 Tue 28 Oct 17:50 (+ Q&A with Mike Leigh); Thu 4 Nov 18:15; Tue 23 Nov 20:50
-
 **Grown-Ups + The Short and Curlies**
-
 Sat 30 Oct 17:15 (+ Q&A with Mike Leigh); Tue 30 Nov 14:15
-
 **Home Sweet Home**
-
 Mon 1 Nov 17:50 (+ Q&A with Mike Leigh); Sat 6 Nov 11:45
 **All or Nothing**
 Wed 3 Nov 20:30; Wed 10 Nov 20:30; Sun 21 Nov 17:10 (+ Q&A with Mike Leigh, Lesley Manville and Marion Bailey)
@@ -165,5 +139,6 @@ Sun 21 Nov 13:10 (+ Q&A with Mike Leigh, Marion Bailey and Dorothy Atkinson); Sa
 **Who’s Who + A Sense of History + A Running Jump**
 Sat 30 Nov 14:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTYxNjg1NCwtMTIxMjYyMTU3NF19
+eyJoaXN0b3J5IjpbLTIwOTg5MTU4ODgsLTEyMTI2MjE1NzRdfQ
+==
 -->
