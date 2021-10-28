@@ -21,74 +21,41 @@ His process of improvisation with actors is always rooted in objective critical 
 **MIKE LEIGH**<br>
 **Born 20 February 1943, Salford, Lancashire**<br>
 **As Director**<br>
-
-**1971  Bleak Moments** (UK)  + scenario
-
+**1971  Bleak Moments** (UK)  + scenario<br>
 **1972  A Mug’s Game** (BBC Schools Television)
-
 **1973  Hard Labour: Play for Today** (TV play; tx BBC 12.3.73) + devised by
-
 **1975  The Permissive Society: Second City Firsts** (TV play recorded live in studio; tx 10.4.75) + devised by
-
 **1976  Nuts in May: Play for Today** (TV play; tx BBC 13.1.76_)_ + devised by
-
 **Knock for Knock: Second City Firsts** (TV play recorded live in studio; tx BBC 21.11.76) + devised by
-
 **Plays for Britain** [title sequence] (TV series, tx 6.4.76)
-
 **1977  The Kiss of Death: Play for Today** (TV play; tx BBC 11.1.77) + devised by
-
 **Abigail’s Party: Play for Today** (TV play recorded live in studio; tx BBC 1.11.77) + devised by
-
 **1979  Who’s Who: Play for Today** (TV play; tx BBC 5.2.79) + devised by
-
 **1980  Grown-Ups: Playhouse** (TV play; tx BBC 28.11.80) + devised by
-
 **1982  Home Sweet Home: Play for Today** (TV play; tx BBC 16.3.82) + devised by
-
 **The Birth of the Goalie of the 2001 F.A. Cup Final/Old Chums/Probation/ A Light Snack/Afternoon** (shorts collectively known as ‘The Five Minute Films’, made in 1975, shown on BBC on consecutive nights 5-9.9.82) + devised by
-
 **1983  Meantime** (TV play; tx Channel 4 1.12.83) + devised by
-
 **1985  Four Days in July** (TV play; tx BBC 29.1.85)  + devised by
-
-**1987  The Short & Curlies** (GB; short)
-
-+ devised by
-
+**1987  The Short & Curlies** (GB; short) + devised by
 **1988  High Hopes** (UK) + script
-
 **1990  Life Is Sweet** (UK) + screenplay
-
 **1991  35th London Film Festival** (UK; trailer) + script
-
 **1992  A Sense of History** (TV, tx Channel 4 26.4.92)
-
 **1993  Naked** (UK) + written by
-
 **1996  Secrets & Lies** (UK) + writer
-
 **1997  Career Girls** (UK)  + screenplay
-
 **1999  Topsy-Turvy** (UK/US) + screenplay
-
 **2002  All or Nothing** (UK/France) + written by
-
 **2004  Vera Drake** (UK/France) + written by
-
 **2007  Happy-Go-Lucky** (UK/US)  + written by
-
 **2010  Another Year** (UK)  + written by
-
 **A Running Jump** (UK short)  + written by
-
 **2014  Mr. Turner** (UK/France/Germany) + written by
+**2018  Peterloo** (USA/UK) + written by<br>
 
-**2018  Peterloo** (USA/UK) + written by
-
-Please note that Mike Leigh and Amy Raphael will be signing copies of their new, revised edition of _Mike Leigh on Mike Leigh_ (Faber) at 5:30pm on Saturday 6 November at the BFI shop. This signing is only available to customers purchasing books from the shop on the day.
-
-**MIKE LEIGH A COMPLETE FILM SEASON88
+Please note that Mike Leigh and Amy Raphael will be signing copies of their new, revised edition of _Mike Leigh on Mike Leigh_ (Faber) at 5:30pm on Saturday 6 November at the BFI shop. This signing is only available to customers purchasing books from the shop on the day.<br>
+<br>
+**MIKE LEIGH A COMPLETE FILM SEASON**
 **Bleak Moments**
 Mon 18 Oct 20:40; Thu 28 Oct 18:00
 **Nuts in May**
@@ -132,5 +99,5 @@ Sun 21 Nov 13:10 (+ Q&A with Mike Leigh, Marion Bailey and Dorothy Atkinson); Sa
 **Who’s Who + A Sense of History + A Running Jump**
 Sat 30 Nov 14:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NjUyNDUxNiwtMTIxMjYyMTU3NF19
+eyJoaXN0b3J5IjpbLTMyNzc5NDg1NiwtMTIxMjYyMTU3NF19
 -->
