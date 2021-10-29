@@ -55,63 +55,63 @@ _Written for the Screen by:_ Joel Coen, Ethan Coen<br>
 _Based on the novel by:_ Cormac McCarthy<br>
 _Director of Photography:_ Roger Deakins<br>
 _2nd Unit Director of Photography:_ Paul Elliott<br>
-_Camera Operator:_ Roger Deakins
-_2nd Unit Camera Operator:_ Andy Graham
-_1st Assistant Camera A:_ Andy Harris
-_1st Assistant Camera B:_ Joshua Blakeslee
-_2nd Unit 1st Assistant Camera:_ Thomas Bango, Chris Mack
-_2nd Assistant Camera A:_ Liza ‘Wintapants’ Bambenek
-_Chief Lighting Technician:_ Chris Napolitano
-_2nd Unit Chief Lighting Technician:_ Scott Kidner
-_Video Assist:_ ‘Rogers’ W. Basquette
-_Still Photographer:_ Richard Foreman Jr
-_Visual Effects by:_ Luma
-_Special Effects Co-ordinator:_ Peter Chesney
-_Graphic Designer:_ Gregory L. Hill
-_Edited by:_ Roderick Jaynes [i.e., Joel Coen, Ethan Coen]
-_Associate Film Editor:_ Neil A. Stelzner
-_Assistant Editor:_ Katharine McQuerrey
-_Production Designer:_ Jess Gonchor
-_Visual Consultant:_ J. Todd Anderson
+_Camera Operator:_ Roger Deakins<br>
+_2nd Unit Camera Operator:_ Andy Graham<br>
+_1st Assistant Camera A:_ Andy Harris<br>
+_1st Assistant Camera B:_ Joshua Blakeslee<br>
+_2nd Unit 1st Assistant Camera:_ Thomas Bango, Chris Mack<br>
+_2nd Assistant Camera A:_ Liza ‘Wintapants’ Bambenek<br>
+_Chief Lighting Technician:_ Chris Napolitano<br>
+_2nd Unit Chief Lighting Technician:_ Scott Kidner<br>
+_Video Assist:_ ‘Rogers’ W. Basquette<br>
+_Still Photographer:_ Richard Foreman Jr<br>
+_Visual Effects by:_ Luma<br>
+_Special Effects Co-ordinator:_ Peter Chesney<br>
+_Graphic Designer:_ Gregory L. Hill<br>
+_Edited by:_ Roderick Jaynes [i.e., Joel Coen, Ethan Coen]<br>
+_Associate Film Editor:_ Neil A. Stelzner<br>
+_Assistant Editor:_ Katharine McQuerrey<br>
+_Production Designer:_ Jess Gonchor<br>
+_Visual Consultant:_ J. Todd Anderson<br><br>
 _Art Director:_ John P. Goldsmith
-_Set Decorator:_ Nancy Haigh
-_Property Master:_ Keith Walters
-_Construction Co-ordinator:_ Christopher Windisch
-_Costume Designer:_ Mary Zophres
-_Costume Supervisor:_ Lori DeLapp
-_Assistant Costume Designer:_ Jenny Eagan
-_Key Costumer:_ Aleah Ames
-_Make-up Department Head:_ Jean A. Black
-_Special Make-up Effects:_ Christien Tinsley
-_Hair Department Head:_ Paul LeBlanc
-_Titles Designed by:_ Big Film Design
-_Digital Intermediate:_ EFilm
-_Digital Colour Timer:_ Mike Hatse
-_Negative Cutter:_ Executive Cutting
-_Opticals:_ Plethorafx
-_Music:_ Carter Burwell
-_Orchestra Contractor:_ Sandy Park
-_Music Executive:_ Linda Cohen
-_Music Editor:_ Todd Kasow
-_Music Recorded/Mixed by:_ Michael Farrow
-_Sound Designer:_ Craig Berkey
-_Sound Mixer:_ Peter Kurland
-_Boom Operators:_ Randy Johnson, Joe Brennan
-_Re-recording Mixers:_ Skip Lievsay, Craig Berkey, Greg Orloff
-_Supervising Sound Editor:_ Skip Lievsay
-_Dialogue Editor:_ Byron Wilson
-_Stunt Co-ordinator:_ Jery Hewitt
-_Animal Trainers:_ Cheryl Shawver, Janine L. Aines, Melinda Eichberg, Khary Lee, Tom Roach, Victoria M. Vopni
-_Wrangler:_ Mark Brooks
-_Unit Publicist:_ Louise A. Spencer
+_Set Decorator:_ Nancy Haigh<br>
+_Property Master:_ Keith Walters<br>
+_Construction Co-ordinator:_ Christopher Windisch<br>
+_Costume Designer:_ Mary Zophres<br>
+_Costume Supervisor:_ Lori DeLapp<br>
+_Assistant Costume Designer:_ Jenny Eagan<br>
+_Key Costumer:_ Aleah Ames<br>
+_Make-up Department Head:_ Jean A. Black<br>
+_Special Make-up Effects:_ Christien Tinsley<br>
+_Hair Department Head:_ Paul LeBlanc<br>
+_Titles Designed by:_ Big Film Design<br>
+_Digital Intermediate:_ EFilm<br>
+_Digital Colour Timer:_ Mike Hatse<br>
+_Negative Cutter:_ Executive Cutting<br>
+_Opticals:_ Plethorafx<br>
+_Music:_ Carter Burwell<br>
+_Orchestra Contractor:_ Sandy Park<br>
+_Music Executive:_ Linda Cohen<br>
+_Music Editor:_ Todd Kasow<br>
+_Music Recorded/Mixed by:_ Michael Farrow<br>
+_Sound Designer:_ Craig Berkey<br>
+_Sound Mixer:_ Peter Kurland<br>
+_Boom Operators:_ Randy Johnson, Joe Brennan<br>
+_Re-recording Mixers:_ Skip Lievsay, Craig Berkey, Greg Orloff<br>
+_Supervising Sound Editor:_ Skip Lievsay<br>
+_Dialogue Editor:_ Byron Wilson<br>
+_Stunt Co-ordinator:_ Jery Hewitt<br>
+_Animal Trainers:_ Cheryl Shawver, Janine L. Aines, Melinda Eichberg, Khary Lee, Tom Roach, Victoria M. Vopni<br>
+_Wrangler:_ Mark Brooks<br>
+_Unit Publicist:_ Louise A. Spencer<br>
 
 **Cast**<br>
-Tommy Lee Jones _(Sheriff Ed Tom Bell)_
-Javier Bardem _(Anton Chigurh)_
-Josh Brolin _(Llewelyn Moss)_
-Woody Harrelson _(Carson Wells)_
-Kelly Macdonald _(Carla Jean Moss)_
-Garret Dillahunt _(Wendell)_
+Tommy Lee Jones _(Sheriff Ed Tom Bell)_<br>
+Javier Bardem _(Anton Chigurh)_<br>
+Josh Brolin _(Llewelyn Moss)_<br>
+Woody Harrelson _(Carson Wells)_<br>
+Kelly Macdonald _(Carla Jean Moss)_<br>
+Garret Dillahunt _(Wendell)_<br>
 Tess Harper _(Loretta Bell)_
 Barry Corbin _(Ellis)_
 Stephen Root _(man who hires Wells)_
@@ -150,5 +150,5 @@ Milton Hernandez, John Mancha _(Norteño bands)_<br>
 USA 2007©<br>
 122 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzM2NjUzOF19
+eyJoaXN0b3J5IjpbLTE3NTk4MTUzMl19
 -->
