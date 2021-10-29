@@ -79,45 +79,29 @@ _Special Effects Supervisor_:
 Jean-Christophe Magnaud  
 _Special Effects_: Big Bang SFX  
 _Miniatures Supervisor_: Simon Weisse  
-_Animation Design/Supervisor_:
-
-Gwenn Germain  
+_Animation Design/Supervisor_:Gwenn Germain  
 _Editor_: Andrew Weisblum  
 _Associate Editor_: Stephen Perkins  
 _Production Designer_: Adam Stockhausen  
 _Supervising Art Director_: Stéphane Cressend  
-_Art Directors_: Loïc Chavanon,
-
-Kevin Timon Hill, Alice Leconte  
+_Art Directors_: Loïc Chavanon, Kevin Timon Hill, Alice Leconte  
 _Set Decorator_: Rena De Angelo  
 _Lead Graphic Designer_: Erica Dorn  
-_Rosenthaler Paintings by_: Sandro Kopp
-
+_Rosenthaler Paintings by_: Sandro Kopp<br>
 _Hermès Jones Drawings by_: Javi Aznarez  
-_Berensen Slide Photographs by_:
-
-Katerina Jebb  
+_Berensen Slide Photographs by_: Katerina Jebb  
 _Storyboard Artist_: Jay Clarke  
 _Property Master_: Eckart Friz  
 _Costume Designer_: Milena Canonero  
-_Assistant Costume Designer_:
-
-Raffaella Fantasia  
+_Assistant Costume Designer_: Raffaella Fantasia  
 _Costume Supervisor_: Patricia Colin  
 _Hair and Make-up Designer_: Frances Hannon  
 _Music by_: Alexandre Desplat  
-_Piano Solos Performed by_:
-
-Jean Yves Thibaudet  
+_Piano Solos Performed by_: Jean Yves Thibaudet  
 _‘Aline’ Sung as ‘Tip-top’ by:_ Jarvis Cocker  
 _Original Music Orchestrated and Conducted by_: Conrad Pope  
-_Simone Poses Choreographer_:
-
-Philippe Decouflé
-
-‘_Sans Blague’ Choreographer_:
-
-Laura Bachman  
+_Simone Poses Choreographer_: Philippe Decouflé<br>
+‘_Sans Blague’ Choreographer_: Laura Bachman  
 _Sound Mixer_: Jean-Paul Mugel  
 _Boom Operator_: Damien Luquet  
 _Re-recording Mixers_: Wayne Lemmer, Christopher Scarabosio  
@@ -131,26 +115,25 @@ _Literary Consultant_: David Brendel<br>
 **Cast**<br>
 _‘The Concrete Masterpiece’_<br>
 Benicio Del Toro _(Moses Rosenthaler)_<br>
-Adrien Brody _(Julian Cadazio)_
-Tilda Swinton _(J.K.L. Berensen_
+Adrien Brody _(Julian Cadazio)_<br>
+Tilda Swinton _(J.K.L. Berensen_<br>
 Léa Seydoux _(Simone)_<br>
 
-_‘Revisions to a Manifesto’_
+_‘Revisions to a Manifesto’_<br>
 Frances McDormand _(Lucinda Krementz)_  
-Timothée Chalamet _(Zeffirelli)_
+Timothée Chalamet _(Zeffirelli)_<br>
 Lyna Khoudri _(Juliette)_<br>
 
-_‘The Private Dining Room of the Police Commissioner’_
+_‘The Private Dining Room of the Police Commissioner’_<br>
 Jeffrey Wright _(Roebuck Wright)_  
-Mathieu Amalric _(The Commissaire)_
-Steve Park _(Lieutenant Nescaffier)_
+Mathieu Amalric _(The Commissaire)_<br>
+Steve Park _(Lieutenant Nescaffier)_<br>
 
-_‘Obituary’_
-Bill Murray _(Arthur Howitzer Jr)_
+_‘Obituary’_<br>
+Bill Murray _(Arthur Howitzer Jr)_<br>
 
 _‘The Cycling Reporter’_  
-Owen Wilson
-_(Herbsaint Sazerac, cycling report)_
+Owen Wilson _(Herbsaint Sazerac, cycling report)_
 
 Bob Balaban _(Uncle Nick)_  
 Henry Winkler _(Uncle Joe)_  
@@ -195,5 +178,5 @@ USA 2020<br>
 
 A Fox Searchlight Pictures release<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg2MTY1MzddfQ==
+eyJoaXN0b3J5IjpbLTIxNzk4NTI4M119
 -->
