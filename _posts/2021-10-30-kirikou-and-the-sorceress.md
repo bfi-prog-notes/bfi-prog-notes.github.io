@@ -23,12 +23,12 @@ _Production Companies:_ Armateurs, Odec Kid Cartoons, Monipoly Productions, Tran
 _Producers:_ Didier Brunner, Jacques Vercruyssen, Paul Thiltges<br>
 _Screenplay:_ Michel Ocelot<br>
 _Director of Photography:_ Daniel Borenstein<br>
-_Layout Chief:_ Pascal Lemaire
-_Head Animator:_ Inga Riba
-_Colouring Directors:_ Benedicte Galup, Marie-Paule Paturand, Philippe Vercruyssen
-_Editor:_ Dominique Lefever
-_Production Designer:_ Thierry Million
-_Music:_ Youssou N’dour
+_Layout Chief:_ Pascal Lemaire<br>
+_Head Animator:_ Inga Riba<br><br>
+_Colouring Directors:_ Benedicte Galup, Marie-Paule Paturand, Philippe Vercruyssen<br>
+_Editor:_ Dominique Lefever<br>
+_Production Designer:_ Thierry Million<br>
+_Music:_ Youssou N’dour<br>
 
 **Voice cast**<br>
 Tshilombo Lubambu _(uncle)_<br><br>
@@ -54,5 +54,5 @@ Sun 14 Nov 12:00<br>
 **Preview: Buladó**
 Sat 27 Nov 15:10<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzA4NDg4Ml19
+eyJoaXN0b3J5IjpbMTUwOTA2NTE3Nl19
 -->
