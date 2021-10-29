@@ -29,84 +29,46 @@ Which is why the final image of Lecter after his murderous escape, sauntering do
 **Amy Taubin, _Sight & Sound_, June 1991**<br>
 
 
-**THE SILENCE OF THE LAMBS**
-_Director:_ Jonathan Demme
-_©:_ Orion Pictures Corporation
-_A_ Strong Heart/Demme _production_
-_An_ Orion Pictures _release_
-_Executive Producer:_ Gary Goetzman
-
-_Producers:_ Edward Saxon, Kenneth Utt,
-
-Ron Bozman
-
-_Associate Producer:_ Grace Blake
-
-_Unit Production Manager:_ Kenneth Utt
-
-_Stage Manager:_ Paul Giorgi
-
-_Financial Representative:_ Thomas A. Imperato
-
-_Production Auditor:_ Vicki Dee Rock
-
-_Assistant Production Auditor:_ Steven Shareshian
-
-_Location Manager:_ Neri Kyle Tannenbaum
-
-_Post-production Supervisor:_ Marshall Persinger
-
-_1st Assistant Director:_ Ron Bozman
-
-_2nd Assistant Director:_ Kyle McCarthy
-
-_2nd 2nd Assistant Director:_ Gina Leonetti
-
-_Continuity:_ Mary A. Kelly
-
-_Casting:_ Howard Feuer
-
-_Screenplay:_ Ted Tally
-
-_Based on the novel by:_ Thomas Harris
-
-_Director of Photography:_ Tak Fujimoto
-
-_Camera Operator:_ Tony Jannelli
-
-_Steadicam Operator:_ Larry McConkey
-
-_1st Assistant Camera:_ Bruce MacCallum
-
-_2nd Assistant Camera:_ Tom O’Halloran
-
-_Gaffer:_ Rusty Engels
-
-_Key Grip:_ Bill Miller
-
-_Still Photographs by:_ Ken Regan
-
-_Special Effects:_ Dwight Benjamin-Creel
-
-_Editor:_ Craig McKay
-
-_Associate Editor:_ Lisa Bromwell
-
-_Production Designer:_ Kristi Zea
-
-_Art Director:_ Tim Galvin
-
-_Art Department Co-ordinator:_ Francine Byrne
-
-_Set Decorator:_ Karen O’Hara
-
-_Storyboard Artists:_ Kalina Ivanov,
-
-Karl Shefelman
-
-_Property Master:_ Ann Miller
-
-_Construction Co-ordinator:_ S. Bruce Wineinger
+**THE SILENCE OF THE LAMBS**<br>
+_Director:_ Jonathan Demme<br>
+_©:_ Orion Pictures Corporation<br>
+_A_ Strong Heart/Demme _production_<br>
+_An_ Orion Pictures _release_<br>
+_Executive Producer:_ Gary Goetzman<br>
+_Producers:_ Edward Saxon, Kenneth Utt, Ron Bozman<br>
+_Associate Producer:_ Grace Blake<br>
+_Unit Production Manager:_ Kenneth Utt<br>
+_Stage Manager:_ Paul Giorgi<br>
+_Financial Representative:_ Thomas A. Imperato<br>
+_Production Auditor:_ Vicki Dee Rock<br>
+_Assistant Production Auditor:_ Steven Shareshian<br>
+_Location Manager:_ Neri Kyle Tannenbaum<br>
+_Post-production Supervisor:_ Marshall Persinger<br>
+_1st Assistant Director:_ Ron Bozman<br>
+_2nd Assistant Director:_ Kyle McCarthy<br>
+_2nd 2nd Assistant Director:_ Gina Leonetti<br>
+_Continuity:_ Mary A. Kelly<br>
+_Casting:_ Howard Feuer<br>
+_Screenplay:_ Ted Tally<br>
+_Based on the novel by:_ Thomas Harris<br>
+_Director of Photography:_ Tak Fujimoto<br>
+_Camera Operator:_ Tony Jannelli<br>
+_Steadicam Operator:_ Larry McConkey<br>
+_1st Assistant Camera:_ Bruce MacCallum<br>
+_2nd Assistant Camera:_ Tom O’Halloran<br>
+_Gaffer:_ Rusty Engels<br>
+_Key Grip:_ Bill Miller<br>
+_Still Photographs by:_ Ken Regan<br>
+_Special Effects:_ Dwight Benjamin-Creel<br>
+_Editor:_ Craig McKay<br>
+_Associate Editor:_ Lisa Bromwell<br>
+_Production Designer:_ Kristi Zea<br>
+_Art Director:_ Tim Galvin<br>
+_Art Department Co-ordinator:_ Francine Byrne<br>
+_Set Decorator:_ Karen O’Hara<br>
+_Storyboard Artists:_ Kalina Ivanov, Karl Shefelman<br>
+_Property Master:_ Ann Miller<br>
+_Construction Co-ordinator:_ S. Bruce Wineinger<br>
 
 _Costume Designer:_ Colleen Atwood
 
@@ -286,5 +248,5 @@ USA 1990©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY4MjQ1NzBdfQ==
+eyJoaXN0b3J5IjpbMTM3NTMyNzM1Nl19
 -->
