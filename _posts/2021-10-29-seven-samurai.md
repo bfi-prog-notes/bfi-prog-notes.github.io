@@ -89,14 +89,14 @@ Atsushi Watanabe _(vendor)_<br>
 Yukiko Shimazaki _(Rikichi’s wife)_<br>
 Shinpei Takagi _(Bandit Chief)_<br>
 Jiro Kumagai, Haruko Toyama, Tsuneo Katagiri, Yasuhisa Tsutsumi _(peasants)_<br>
-Kichijiro Ueda, Akira Tani, Haruo Nakajima, Takashi Narita, Senkichi Omura, Shuno Takahara, Masanobu Okubo _(bandits)_
+Kichijiro Ueda, Akira Tani, Haruo Nakajima, Takashi Narita, Senkichi Omura, Shuno Takahara, Masanobu Okubo _(bandits)_<br>
 
 Japan 1954©<br>
 207 mins + intervals<br>
 
 A BFI release<br>
 
-The screenings on Fri 29 Oct and Sun 7 Nov include a screening of **Inside Cinema: Akira Kurosawa**  (2021, 6 mins)
+The screenings on Fri 29 Oct and Sun 7 Nov include a screening of **Inside Cinema: Akira Kurosawa**  (2021, 6 mins)<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTMwMzE0NF19
+eyJoaXN0b3J5IjpbLTE3MDU4MzExMjhdfQ==
 -->
