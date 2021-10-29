@@ -6,7 +6,7 @@ date: 2021-10-29
 readtime: true
 categories: ['NEW RELEASES']
 tags: [Comedy, Drama]
-metadata: 'USA 2020, 108 mins<br> Director: Wes Anderson'
+metadata: 'USA/Germany/France 2020, 108 mins<br> Director: Wes Anderson'
 pdf: '2021-10-29-french-dispatch.pdf'
 ---
 
