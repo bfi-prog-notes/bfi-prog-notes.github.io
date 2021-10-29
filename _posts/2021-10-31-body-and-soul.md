@@ -1,22 +1,16 @@
 
-<![endif]-->
-
-_+ intro by Kevin Le Gendre, author, broadcaster and deputy editor of  
-_Echoes _magazine._
+_+ intro by Kevin Le Gendre, author, broadcaster and deputy editor of _Echoes _magazine._
 
 _Body and Soul_, made for a segregated Black audience, is a key work of pioneering African American filmmaker Oscar Micheaux, although it’s perhaps more famous for being the film debut of Paul Robeson (and it’s quite a debut). Robeson plays Rev Isaiah T Jenkins, a scheming convict impersonating a minister who mesmerises and attempts to swindle his congregation, and Robeson also plays his alter ego, Isaiah’s long-lost twin brother Sylvester.  
-The unusual structure explores the use of memory and dreams in dealing with violence and immorality.
+The unusual structure explores the use of memory and dreams in dealing with violence and immorality.<br>
+**Bryony Dixon, BFI Silent Film Curator, bfi.org.uk**
 
-Bryony Dixon, BFI Silent Film Curator, bfi.org.uk
-
-**Neil Brand on ‘Body and Soul’**
-
+**Neil Brand on ‘Body and Soul’**<br>
 I have to say, that _Body and Soul_ means a great deal to me for a very important reason – one which has affected my whole attitude towards silent cinema since a memorable night a decade or so ago…
 
 In the 35 years that I have been a silent film accompanist, I have been privileged to have a front-row seat for all the major discoveries of early cinema during that time. I have seen films come and go, attitudes shift, and loyalties become challenged, and never more so than at Le Giornate del Cinema Muto, Pordenone, the spiritual home and trade show of our industry. There and elsewhere, I have tried never to stop learning, hearing from people vastly more experienced than me about films I thought I would never get to see, and, from time to time, films I should avoid.
 
-It’s fair to say that, in my early days, Oscar Micheaux was recognised as a groundbreaking showman and fascinating figure, but the consensus was that his films weren’t as exciting. He was a self-taught writer/director and his films travelled at their own pace which, for some modern critics, was too slow.  
-He had helped to create the Lincoln Motion Picture Company, the first film company owned and controlled entirely by African-Americans, and made films specifically for that audience that he understood so well. It didn’t help that the films had not been restored, looked a mess, and seemed, at first glance, amateurish. That’s how I left it… until fine historians such as Eileen Bowser and Charles Musser reappraised Micheaux’s work, and the films were restored… and the Lincoln Center Orchestra played _Body and Soul_ at the Barbican with a specially composed score by trombonist Wycliffe Gordon. Finally, that night, I saw what I (and most people who hadn’t seen it under these circumstances) had been missing all these years.
+It’s fair to say that, in my early days, Oscar Micheaux was recognised as a groundbreaking showman and fascinating figure, but the consensus was that his films weren’t as exciting. He was a self-taught writer/director and his films travelled at their own pace which, for some modern critics, was too slow. He had helped to create the Lincoln Motion Picture Company, the first film company owned and controlled entirely by African-Americans, and made films specifically for that audience that he understood so well. It didn’t help that the films had not been restored, looked a mess, and seemed, at first glance, amateurish. That’s how I left it… until fine historians such as Eileen Bowser and Charles Musser reappraised Micheaux’s work, and the films were restored… and the Lincoln Center Orchestra played _Body and Soul_ at the Barbican with a specially composed score by trombonist Wycliffe Gordon. Finally, that night, I saw what I (and most people who hadn’t seen it under these circumstances) had been missing all these years.
 
 The audience.
 
@@ -36,6 +30,34 @@ And maybe, just maybe, if you’ve had a tough week… this may be all the thera
 **Neil Brand, silentlondon.co.uk (Published with permission from the author)**<br>
 
 **Kevin Le Gendre** is a British journalist, broadcaster and author whose work focuses on Black music. He is deputy editor of _Echoes_ magazine, has written for a wide range of publications, including _Jazzwise_, _MusicWeek_, _Vibrations_ and _The Independent on Sunday_ and is a contributor to such radio programmes as BBC Radio 3’s _J to Z_ and BBC Radio 4’s _Front Row_. At the 2009 Parliamentary Jazz Awards Le Gendre was chosen as ‘Jazz Journalist of the Year’. His latest book is _Hear My Train A Comin’: The Songs of Jimi Hendrix_.<br>
+
+<![endif]-->
+
+**BODY AND SOUL  
+**_Director_: Oscar Micheaux  
+_Production Company_:  
+Micheaux Pictures Corporation  
+_Screenplay_: Oscar Micheaux
+
+**Cast**<br>
+Paul Robeson _ (Rt Reverend Isiaah Jenkins/Sylvester)_  
+Marshall Rodgers _(Negro in business)_  
+Lawrence Chenault _(Yellow ‘Curley’ Hinds of Atlanta)_  
+Chester A. Alexander _(Deacon Simpkins)_  
+Walter Conick _(Brother Amos, church elder)_  
+Lillian Johnson _(Sis Ca’line)_  
+Madame Robinson _(Sis Lucy)_  
+Julia Theresa Russell _(Isabelle)_  
+Mercedes Gilbert _(Sis Martha)_  
+Tom Fletcher
+
+USA 1925
+
+102 mins
+
+**With live piano accompaniment**
+
+**by Neil Brand**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODU5MjI5OF19
+eyJoaXN0b3J5IjpbLTU2MzExNDI0OF19
 -->
