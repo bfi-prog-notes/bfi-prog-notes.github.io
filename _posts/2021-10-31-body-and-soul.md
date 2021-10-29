@@ -1,8 +1,18 @@
+---
+layout: post
+title: Body and Soul
+published: true
+date: 2021-10-31
+readtime: true
+categories: ['SILENT CINEMA']
+tags: [Drama]
+metadata: 'USA 1925, 102 mins<br> Director: Oscar Micheaux'
+pdf: '2021-10-31-body-and-soul.pdf'
+---
 
-_+ intro by Kevin Le Gendre, author, broadcaster and deputy editor of _Echoes _magazine._
+_+ intro by Kevin Le Gendre, author, broadcaster and deputy editor of_ Echoes _magazine._
 
-_Body and Soul_, made for a segregated Black audience, is a key work of pioneering African American filmmaker Oscar Micheaux, although it’s perhaps more famous for being the film debut of Paul Robeson (and it’s quite a debut). Robeson plays Rev Isaiah T Jenkins, a scheming convict impersonating a minister who mesmerises and attempts to swindle his congregation, and Robeson also plays his alter ego, Isaiah’s long-lost twin brother Sylvester.  
-The unusual structure explores the use of memory and dreams in dealing with violence and immorality.<br>
+_Body and Soul_, made for a segregated Black audience, is a key work of pioneering African American filmmaker Oscar Micheaux, although it’s perhaps more famous for being the film debut of Paul Robeson (and it’s quite a debut). Robeson plays Rev Isaiah T Jenkins, a scheming convict impersonating a minister who mesmerises and attempts to swindle his congregation, and Robeson also plays his alter ego, Isaiah’s long-lost twin brother Sylvester. The unusual structure explores the use of memory and dreams in dealing with violence and immorality.<br>
 **Bryony Dixon, BFI Silent Film Curator, bfi.org.uk**
 
 **Neil Brand on ‘Body and Soul’**<br>
@@ -26,7 +36,7 @@ Now, thankfully, attitudes towards silent cinema and Micheaux have changed vastl
 
 So, the best I can do for this great and wondrously satisfying movie from the BFI Southbank piano is to try to put us all in a cinema in the Deep South where Gospel music and call-and-response are the language spoken – to try to conjure up what Oscar Micheaux wanted for his film and his audience.
 
-And maybe, just maybe, if you’ve had a tough week… this may be all the therapy you need…
+And maybe, just maybe, if you’ve had a tough week… this may be all the therapy you need…<br>
 **Neil Brand, silentlondon.co.uk (Published with permission from the author)**<br>
 
 **Kevin Le Gendre** is a British journalist, broadcaster and author whose work focuses on Black music. He is deputy editor of _Echoes_ magazine, has written for a wide range of publications, including _Jazzwise_, _MusicWeek_, _Vibrations_ and _The Independent on Sunday_ and is a contributor to such radio programmes as BBC Radio 3’s _J to Z_ and BBC Radio 4’s _Front Row_. At the 2009 Parliamentary Jazz Awards Le Gendre was chosen as ‘Jazz Journalist of the Year’. His latest book is _Hear My Train A Comin’: The Songs of Jimi Hendrix_.<br>
@@ -38,7 +48,7 @@ _Production Company_:  Micheaux Pictures Corporation
 _Screenplay_: Oscar Micheaux<br>
 
 **Cast**<br>
-Paul Robeson _ (Rt Reverend Isiaah Jenkins/Sylvester)_  
+Paul Robeson _(Rt Reverend Isiaah Jenkins/Sylvester)_  
 Marshall Rodgers _(Negro in business)_  
 Lawrence Chenault _(Yellow ‘Curley’ Hinds of Atlanta)_  
 Chester A. Alexander _(Deacon Simpkins)_  
@@ -80,6 +90,20 @@ Sat 27 Nov 15:50<br>
 Mon 29 Nov 14:00<br>
 **Relaxed Screening: Petite Maman**<br>
 Tue 30 Nov 18:15<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTUzMjEyMV19
--->
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
