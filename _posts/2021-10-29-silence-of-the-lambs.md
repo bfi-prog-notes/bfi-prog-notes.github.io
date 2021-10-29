@@ -69,83 +69,42 @@ _Set Decorator:_ Karen O’Hara<br>
 _Storyboard Artists:_ Kalina Ivanov, Karl Shefelman<br>
 _Property Master:_ Ann Miller<br>
 _Construction Co-ordinator:_ S. Bruce Wineinger<br>
+_Costume Designer:_ Colleen Atwood<br>
+_Wardrobe Supervisors:_ Mark Burchard, Hartsell Taylor<br>
+_Make-up Created by:_ Allen Weisinger<br>
+_Special Make-up Effects Created by:_ Carl Fullerton, Neal Martz<br>
+_Hair Styles Designed by:_ Alan D’Angerio<br>
+_Main Titles Designed by:_ M & Company<br>
+_Titles/Optical Effects:_ R/Greenberg Associates<br>
+_Music:_ Howard Shore<br>
+_Orchestrations by:_ Homer Denison<br>
+_Music Supervisor:_ Sharon Boyle<br>
+_Music Editor:_ Suzana Peric<br>
+_Recording Engineer:_ Alan Snelling<br>
+_Sound Design:_ Skip Lievsay<br>
+_Sound Recording:_ John Fundus<br>
+_Production Sound Mixer:_ Christopher Newman<br>
+_Boom Operator:_ Dennis Maitland II<br>
+_Sound Re-recording:_ Tom Fleischman<br>
+_Re-recordists:_ Douglas L. Murray, Sean Squires<br>
+_Dialogue Editors:_ Fred Rosenberg, Jeffrey Stern, Marissa Littlefield, Phil Stockton<br>
+_Effects Editor:_ Ron Bochar<br>
+_ADR Recordist:_ David Boulton<br>
+_Boom Operator ADR:_ Kay Denmark<br>
+_ADR Editors:_ Gail Showalter, Deborah Wallach<br>
+_Foley Artist:_ Marko Costanzo<br>
+_Foley Editors:_ Bruce Pross, Frank Kern, Steven Visscher<br>
+_Stunt Co-ordinator:_ John Robotham<br>
 
-_Costume Designer:_ Colleen Atwood
-
-_Wardrobe Supervisors:_ Mark Burchard,
-
-Hartsell Taylor
-
-_Make-up Created by:_ Allen Weisinger
-
-_Special Make-up Effects Created by:_
-
-Carl Fullerton, Neal Martz
-
-_Hair Styles Designed by:_ Alan D’Angerio
-
-_Main Titles Designed by:_ M & Company
-
-_Titles/Optical Effects:_ R/Greenberg Associates
-
-_Music:_ Howard Shore
-
-_Orchestrations by:_ Homer Denison
-
-_Music Supervisor:_ Sharon Boyle
-
-_Music Editor:_ Suzana Peric
-
-_Recording Engineer:_ Alan Snelling
-
-_Sound Design:_ Skip Lievsay
-
-_Sound Recording:_ John Fundus
-
-_Production Sound Mixer:_ Christopher Newman
-
-_Boom Operator:_ Dennis Maitland II
-
-_Sound Re-recording:_ Tom Fleischman
-
-_Re-recordists:_ Douglas L. Murray, Sean Squires
-
-_Dialogue Editors:_ Fred Rosenberg, Jeffrey Stern, Marissa Littlefield, Phil Stockton
-
-_Effects Editor:_ Ron Bochar
-
-_ADR Recordist:_ David Boulton
-
-_Boom Operator ADR:_ Kay Denmark
-
-_ADR Editors:_ Gail Showalter, Deborah Wallach
-
-_Foley Artist:_ Marko Costanzo
-
-_Foley Editors:_ Bruce Pross, Frank Kern,
-
-Steven Visscher
-
-_Stunt Co-ordinator:_ John Robotham
-
-_Cast:_
-
+**Cast**<br>
 Jodie Foster _(Clarice Starling)_
-
 Anthony Hopkins _(Dr Hannibal Lecter)_
-
 Scott Glenn _(Jack Crawford)_
-
 Ted Levine _(Jame Gumb)_
-
 Anthony Heald _(Dr Frederick Chilton)_
-
 Brooke Smith _(Catherine Martin)_
-
 Diane Baker _(Senator Ruth Martin)_
-
 Kasi Lemmons _(Ardelia Mapp)_
-
 Charles Napier _(Lieutenant Boyle)_
 
 Tracey Walter _(Lamar)_
@@ -248,5 +207,5 @@ USA 1990©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTMyNzM1Nl19
+eyJoaXN0b3J5IjpbLTQyMzUzOTQwNF19
 -->
