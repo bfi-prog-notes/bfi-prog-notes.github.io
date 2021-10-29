@@ -1,5 +1,4 @@
 
-<![endif]-->
 
 Laconic is the word. Say little but say it well. Write in sentences sand-blasted by time, words sucked to stone before they’re spoken. Such is the prose of Cormac McCarthy, a beauteous thing winnowed down over a long career from the supple effusion of _All the Pretty Horses_ to the stripped-bone clarity of _The Road._ It’s the way people say only what they have to in the places where his books are set, the way images are cut in simple strokes, each word axing clean the apt description. _No Country for Old Men_ unfolds in the Texas borderlands of the 1980s, near the Rio Grande. It’s a quasi-thriller laced with regret for the way things are going, for how plain-speaking integrity is being destroyed by the encroaching violence of the drugs trade.
 
@@ -23,71 +22,36 @@ Those of us who have long thought of the Coens as superb technicians, comedians 
 _No Country for Old Men_ they’ve stopped being smirking nerds – there’s nothing here that smacks of ‘look at what we just did’. Rather, this is a mature film about the US hinterland that can be put beside the likes of John Ford and Clint Eastwood.<br>
 **Nick James, _Sight & Sound_, July 2007**<br>
 
-<![endif]-->
-
 **NO COUNTRY FOR OLD MEN**
-
 _Directed by:_ Joel Coen, Ethan Coen
-
 © Miramax Film Corp.
-
 ©_/Presented by:_ Paramount Vantage
-
-_Production Companies:_ Scott Rudin Productions,  
-Mike Zoss Productions
-
+_Production Companies:_ Scott Rudin Productions,  Mike Zoss Productions
 _Presented by:_ Miramax Films
-
 _Executive Producers:_ Robert Graf, Mark Roybal
-
 _Produced by:_ Scott Rudin, Ethan Coen, Joel Coen
-
 _Associate Producer:_ David Diliberto
-
 _Production Supervisor:_ Karen Ruth Getchell
-
 _Production Accountant:_ Cheryl Kurk
-
 _Production Co-ordinator:_ Rachael Lin Gallaghan
-
-_Production Co-ordinator (Mexico Unit):_
-
-Gabriel Perez
-
+_Production Co-ordinator (Mexico Unit):_ Gabriel Perez
 _Production Manager (Mexico Unit):_ Omar Veytia
-
 _Unit Production Manager:_ Robert Graf
-
 _Location Manager:_ Michael Dellheim
-
 _Post-production Co-ordinator:_ Catherine Farrell
-
 _2nd Unit Director:_ Jery Hewitt
-
 _1st Assistant Director:_ Betsy Magruder
-
 _2nd Assistant Director:_ Bac DeLorme
-
 _2nd 2nd Assistant Director:_ Jai James
-
 _2nd Unit 1st Assistant Director:_ Donald Murphy
-
 _2nd Unit 2nd Assistant Director:_ Pete Dress
-
 _2nd Unit 2nd 2nd Assistant Director:_ Taylor Phillips
-
 _Script Supervisor:_ Thomas Johnston
-
 _2nd Unit Script Supervisor:_ Mamie Mitchell
-
 _Casting:_ Ellen Chenoweth
-
 _Location Casting:_ Jo Edna Boldin
-
 _Additional Casting:_ Tracy Kilpatrick
-
 _Voice Casting:_ Barbara Harris
-
 _Written for the Screen by:_ Joel Coen, Ethan Coen
 _Based on the novel by:_ Cormac McCarthy
 _Director of Photography:_ Roger Deakins
@@ -187,5 +151,5 @@ Milton Hernandez, John Mancha _(Norteño bands)_<br>
 USA 2007©<br>
 122 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzNzM5NTg2XX0=
+eyJoaXN0b3J5IjpbLTIzMDI3Mzg0XX0=
 -->
