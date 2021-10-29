@@ -112,43 +112,42 @@ Josh Brolin _(Llewelyn Moss)_<br>
 Woody Harrelson _(Carson Wells)_<br>
 Kelly Macdonald _(Carla Jean Moss)_<br>
 Garret Dillahunt _(Wendell)_<br>
-Tess Harper _(Loretta Bell)_
-Barry Corbin _(Ellis)_
-Stephen Root _(man who hires Wells)_
-Rodger Boyce _(El Paso sheriff)_
-Beth Grant _(Carla Jean’s mother)_
-Ana Reeder _(poolside woman)_
-Kit Gwin _(Sheriff Bell’s secretary)_
-Zach Hopkins _(strangled deputy)_
-Chip Love _(man in Ford)_
-Eduardo Antonio Garcia _(‘agua’ man)_
-Gene Jones _(gas station proprietor)_
-Myk Watford, Boots Southerland _(‘managerial’ victims)_
-Kathy Lamkin _(Desert Aire manager)_
-Johnnie Hector _(cabbie at bus station)_
-Margaret Bowman _(Del Rio motel clerk)_
-Thomas Kopache _(boot salesman)_
-Jason Douglas _(cabbie at motel)_
-Doris Hargrave _(waitress)_
-Rutherford Cravens _(gun store clerk)_
-Matthew Posey _(sporting goods clerk)_
-George Adelo _(Mexican in bathtub)_
-Mathew Greer _(hitchhiking driver)_
-Trent Moore _(nervous accountant)_
-Marc Miles _(Hotel Eagle clerk)_
-Luce Rains _(pickup driver)_
-Philip Bentham, Eric Reeves, Josh Meyer _(border bridge youths)_
-Chris Warner _(flatbed driver)_
-Brandon Smith _(INS Official)_
-H. Roland Uribe _(well dressed Mexican)_
-Richard Jackson _(chicken farmer)_
-Josh Blaylock, Caleb Jones _(boys on bike)_
-Dorsey Ray _(Odessa cabbie)_
-Angel H. Alvarado Jr, David A. Gomez,
-Milton Hernandez, John Mancha _(Norteño bands)_<br>
+Tess Harper _(Loretta Bell)_<br>
+Barry Corbin _(Ellis)_<br>
+Stephen Root _(man who hires Wells)_<br>
+Rodger Boyce _(El Paso sheriff)_<br>
+Beth Grant _(Carla Jean’s mother)_<br>
+Ana Reeder _(poolside woman)_<br>
+Kit Gwin _(Sheriff Bell’s secretary)_<br>
+Zach Hopkins _(strangled deputy)_<br>
+Chip Love _(man in Ford)_<br>
+Eduardo Antonio Garcia _(‘agua’ man)_<br>
+Gene Jones _(gas station proprietor)_<br>
+Myk Watford, Boots Southerland _(‘managerial’ victims)_<br>
+Kathy Lamkin _(Desert Aire manager)_<br>
+Johnnie Hector _(cabbie at bus station)_<br>
+Margaret Bowman _(Del Rio motel clerk)_<br>
+Thomas Kopache _(boot salesman)_<br>
+Jason Douglas _(cabbie at motel)_<br>
+Doris Hargrave _(waitress)_<br>
+Rutherford Cravens _(gun store clerk)_<br>
+Matthew Posey _(sporting goods clerk)_<br>
+George Adelo _(Mexican in bathtub)_<br>
+Mathew Greer _(hitchhiking driver)_<br>
+Trent Moore _(nervous accountant)_<br>
+Marc Miles _(Hotel Eagle clerk)_<br>
+Luce Rains _(pickup driver)_<br>
+Philip Bentham, Eric Reeves, Josh Meyer _(border bridge youths)_<br>
+Chris Warner _(flatbed driver)_<br>
+Brandon Smith _(INS Official)_<br>
+H. Roland Uribe _(well dressed Mexican)_<br>
+Richard Jackson _(chicken farmer)_<br>
+Josh Blaylock, Caleb Jones _(boys on bike)_<br>
+Dorsey Ray _(Odessa cabbie)_<br>
+Angel H. Alvarado Jr, David A. Gomez, Milton Hernandez, John Mancha _(Norteño bands)_<br>
 
 USA 2007©<br>
 122 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTk4MTUzMl19
+eyJoaXN0b3J5IjpbMTY1NTMwNDY1Nl19
 -->
