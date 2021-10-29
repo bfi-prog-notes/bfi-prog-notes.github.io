@@ -1,4 +1,14 @@
-<![endif]-->
+---
+layout: post
+title: Seven Samurai
+published: true
+date: 2021-10-29
+readtime: true
+categories: ['RE-RELEASES']
+tags: [Action, Period, Drama]
+metadata: 'Japan 1954, 207 mins<br> Director: Akira Kurosawa'
+pdf: '2021-10-29-seven-samurai.pdf'
+---
 
 When Akira Kurosawa’s _Seven Samurai_ premiered in Japan on 26 April 1954, it was the most expensive domestic production ever, costing 125 million Yen (approximately $350,000), almost five times the then 26 million Yen ($63,000) average for a typical Japanese studio picture.
 
@@ -18,11 +28,9 @@ In the final assessment, _Variety_ claimed _Seven Samurai_’s ‘lone drawback 
 
 Most reviews drew attention to the influence of the western on Kurosawa, particularly the films of John Ford, with _Monthly Film Bulletin_ surmising, ‘If all this attests to the way Kurosawa has assimilated the influence of Western directors for his own purposes, it also explains, perhaps, the detached attitude of _Seven Samurai_. Here is a deliberately modern, sophisticated eye looking at the past – in contrast to, say, the films of Mizoguchi, which are overdue for showing in this country.’
 
-When the film went out on its US release some 18 months later, under the title of  
-_The Magnificent Seven_, in his review dated 20 November 1956, _New York Times_ critic Bosley Crowther was quick to pick up on this western connection, claiming this ‘extraordinary film, which matches his first [_Rashomon_] for cinema brilliance… bears cultural comparison with our own popular western _High Noon_. That is to say, it is a solid, naturalistic, he-man outdoor action film, wherein the qualities of human strength and weakness are discovered in a crisis taut with peril. And although the occurrence of this crisis is set in the 16th century in a village in Japan, it could be transposed without surrendering a basic element to the 19th century and a town on our own frontier.’
+When the film went out on its US release some 18 months later, under the title of _The Magnificent Seven_, in his review dated 20 November 1956, _New York Times_ critic Bosley Crowther was quick to pick up on this western connection, claiming this ‘extraordinary film, which matches his first [_Rashomon_] for cinema brilliance… bears cultural comparison with our own popular western _High Noon_. That is to say, it is a solid, naturalistic, he-man outdoor action film, wherein the qualities of human strength and weakness are discovered in a crisis taut with peril. And although the occurrence of this crisis is set in the 16th century in a village in Japan, it could be transposed without surrendering a basic element to the 19th century and a town on our own frontier.’
 
-And this is effectively what happened, when Lou Morheim picked up the remake rights from Toho for a pittance and John Sturges hopped on board as producer-director for an all-American version. When _The Magnificent Seven_ remake was released in 1960, Kurosawa’s film reverted back to its original title of _Seven Samurai_ in the US, but ultimately it was this Hollywood reworking that came to be seen by the most viewers across  
-the world.
+And this is effectively what happened, when Lou Morheim picked up the remake rights from Toho for a pittance and John Sturges hopped on board as producer-director for an all-American version. When _The Magnificent Seven_ remake was released in 1960, Kurosawa’s film reverted back to its original title of _Seven Samurai_ in the US, but ultimately it was this Hollywood reworking that came to be seen by the most viewers across the world.
 
 Throughout the following decades, viewers of the Japanese original saw it only in its heavily truncated export version, and most assumed it a typical example of Japan’s popular _jidaigeki_ (historical drama) genre. Most were unaware of just how revolutionary Kurosawa’s approach to historical realism actually was, with the film’s action sequences shot using multiple-camera setups, meticulously researched sets and costumes, and masterful deployment of natural lighting and weather conditions to enhance the drama.
 
@@ -32,9 +40,7 @@ Kurosawa’s fall from grace on his home turf, following _Red Beard_ (1965), his
 
 In the meantime, Richie’s monograph notwithstanding, _Seven Samurai_ had rather fallen out of critical purview. In 1982, however, it made its first appearance in _Sight & Sound_’s once-a-decade poll of the greatest films ever made, in joint third position with _Singin’ in the Rain_ (1952). In subsequent polls, it has jostled for attention with _Tokyo Story_ (1953) as representatives of Japanese cinema, with Kurosawa’s film the more popular among directors and Ozu’s among critics.
 
-Despite airing in a 198-minute restored version nearest approaching Kurosawa’s original vision at the BFI’s National Film Theatre in November 1994, it was conspicuous by its absence in the 2002 critics poll, but voted joint ninth by directors (alongside Renoir’s  
-_La Règle du jeu_ and Kurosawa’s own _Rashomon_). In the most recent poll, conducted in 2012, it had dropped down to joint 17th position, with _Tokyo Story_ positioned at  
-number four.
+Despite airing in a 198-minute restored version nearest approaching Kurosawa’s original vision at the BFI’s National Film Theatre in November 1994, it was conspicuous by its absence in the 2002 critics poll, but voted joint ninth by directors (alongside Renoir’s _La Règle du jeu_ and Kurosawa’s own _Rashomon_). In the most recent poll, conducted in 2012, it had dropped down to joint 17th position, with _Tokyo Story_ positioned at number four.
 
 In Japan, by contrast, the signature film by that ‘most Japanese of directors’ has now been supplanted in critical opinion by the magnum opus of the least: in the 1995 poll by _Kinema Junpo_ held to mark the centenary of cinema, _Seven Samurai_ was ranked in second place behind _Tokyo Story_ as the best Japanese film ever made, but rose to the top of the list in the 1999 poll, where it remained for the 2009 recount.
 
@@ -59,7 +65,7 @@ _Art Consultation:_ Seiton Maeda, Kohei Ezaki<br>
 _Music:_ Fumio Hayasaka<br>
 _Sound Recording:_ Fumio Yanoguchi<br>
 _Sound Effects:_ Ichiro Minawa<br>
-_Fencing Director:_ Yushio Sugino<br><br>
+_Fencing Director:_ Yushio Sugino<br>
 _Archery Directors:_ Ienori Kaneko, Shigeru Endo<br>
 
 **Cast**<br>
