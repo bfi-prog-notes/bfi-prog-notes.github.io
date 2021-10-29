@@ -71,15 +71,15 @@ Tue 9 Nov 18:10<br>
 **African Odysseys: Trouble in Paradise + Darcus Howe: Son of Mine**<br>
 Sun 14 Nov 15:30<br>
 **Terror Vision: Tales from the Hood**<br>
-Thu 25 Nov 20:40
-**Missing Believed Wiped** **Session 1: The London Palladium Show**
-Sat 27 Nov 13:00
-**Missing Believed Wiped** **Session 2: Introducing ‘The Precious Things’: Holiday Startime**
-Sat 27 Nov 15:50
-**Seniors’ Free Matinee, in partnership with African Odysseys: Once Upon a Time... When We Were Colored + intro**
-Mon 29 Nov 14:00
-**Relaxed Screening: Petite Maman**
-Tue 30 Nov 18:15
+Thu 25 Nov 20:40<br>
+**Missing Believed Wiped Session 1: The London Palladium Show**<br>
+Sat 27 Nov 13:00<br>
+**Missing Believed Wiped Session 2: Introducing ‘The Precious Things’: Holiday Startime**<br>
+Sat 27 Nov 15:50<br>
+**Seniors’ Free Matinee, in partnership with African Odysseys: Once Upon a Time... When We Were Colored + intro**<br>
+Mon 29 Nov 14:00<br>
+**Relaxed Screening: Petite Maman**<br>
+Tue 30 Nov 18:15<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTE2MTM5N119
+eyJoaXN0b3J5IjpbMTk4OTUzMjEyMV19
 -->
