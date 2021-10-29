@@ -1,3 +1,14 @@
+---
+layout: post
+title: No Country for Old Men
+published: true
+date: 2021-10-30
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Crime, Thriller]
+metadata: 'USA 2007, 122 mins<br> Directors: Joel Coen, Ethan Coen'
+pdf: '2021-10-30-no-country-for-old-men.pdf'
+---
 
 Laconic is the word. Say little but say it well. Write in sentences sand-blasted by time, words sucked to stone before they’re spoken. Such is the prose of Cormac McCarthy, a beauteous thing winnowed down over a long career from the supple effusion of _All the Pretty Horses_ to the stripped-bone clarity of _The Road._ It’s the way people say only what they have to in the places where his books are set, the way images are cut in simple strokes, each word axing clean the apt description. _No Country for Old Men_ unfolds in the Texas borderlands of the 1980s, near the Rio Grande. It’s a quasi-thriller laced with regret for the way things are going, for how plain-speaking integrity is being destroyed by the encroaching violence of the drugs trade.
 
@@ -17,14 +28,13 @@ Maybe the Coens are even guilty of being too faithful. For there are endings her
 
 Certainly the cast seem as if they’ve been steeped for years in McCarthyite atmosphere. Jones might have ducked another Texan law enforcement role but could hardly have resisted this; Brolin is the most natural leading man for this sort of thing that Hollywood has unearthed in a long time; Bardem is creepy and implacable as a nemesis inured to reason; Macdonald is so plausibly Texan as to seem separated at birth from a Scots twin.
 
-Those of us who have long thought of the Coens as superb technicians, comedians and offbeat entertainers rather than makers of probing works will have to concede a breakthrough here. With  
-_No Country for Old Men_ they’ve stopped being smirking nerds – there’s nothing here that smacks of ‘look at what we just did’. Rather, this is a mature film about the US hinterland that can be put beside the likes of John Ford and Clint Eastwood.<br>
+Those of us who have long thought of the Coens as superb technicians, comedians and offbeat entertainers rather than makers of probing works will have to concede a breakthrough here. With _No Country for Old Men_ they’ve stopped being smirking nerds – there’s nothing here that smacks of ‘look at what we just did’. Rather, this is a mature film about the US hinterland that can be put beside the likes of John Ford and Clint Eastwood.<br>
 **Nick James, _Sight & Sound_, July 2007**<br>
 
 **NO COUNTRY FOR OLD MEN**<br>
 _Directed by:_ Joel Coen, Ethan Coen<br>
 © Miramax Film Corp.<br>
-©_/Presented by:_ Paramount Vantage<br>
+_©/Presented by:_ Paramount Vantage<br>
 _Production Companies:_ Scott Rudin Productions,  Mike Zoss Productions<br>
 _Presented by:_ Miramax Films<br>
 _Executive Producers:_ Robert Graf, Mark Roybal<br>
@@ -72,8 +82,8 @@ _Edited by:_ Roderick Jaynes [i.e., Joel Coen, Ethan Coen]<br>
 _Associate Film Editor:_ Neil A. Stelzner<br>
 _Assistant Editor:_ Katharine McQuerrey<br>
 _Production Designer:_ Jess Gonchor<br>
-_Visual Consultant:_ J. Todd Anderson<br><br>
-_Art Director:_ John P. Goldsmith
+_Visual Consultant:_ J. Todd Anderson<br>
+_Art Director:_ John P. Goldsmith<br>
 _Set Decorator:_ Nancy Haigh<br>
 _Property Master:_ Keith Walters<br>
 _Construction Co-ordinator:_ Christopher Windisch<br>
@@ -148,6 +158,65 @@ Angel H. Alvarado Jr, David A. Gomez, Milton Hernandez, John Mancha _(Norteño b
 
 USA 2007©<br>
 122 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTMwNDY1Nl19
--->
+<br>
+
+**BIG SCREEN CLASSICS**<br>
+**No Country for Old Men**<br>
+Sat 30 Oct 11:00; Mon 1 Nov 20:30;  
+Wed 24 Nov 18:00 (+ intro by Geoff Andrew, Programmer-at-Large)<br>
+**In the Cut**<br>
+Sun 31 Oct 18:30; Tue 30 Nov 18:10<br>
+**Blue Velvet**<br>
+Tue 2 Nov 18:00; Sat 13 Nov 20:45;
+Sun 21 Nov 17:40<br>
+**The Silence of the Lambs**<br>
+Wed 3 Nov 19:00 (+ pre-recorded intro by Professor Yvonne Tasker, author of BFI Film Classics _The Silence of the Lambs_); Thu 18 Nov 14:40<br>
+**House of Bamboo**<br>
+Thu 4 Nov 20:50; Thu 11 Nov 14:30;  
+Mon 15 Nov 18:10<br>
+**Kiss Me Deadly**<br>
+Fri 5 Nov 20:40; Sat 20 Nov 18:00;  
+Sat 28 Nov 12:15<br>
+**Zero Dark Thirty**<br>
+Sat 6 Nov 17:30; Tue 9 Nov 14:15;  
+Sun 28 Nov 15:20<br>
+**Murder on the Orient Express**<br>
+Sun 7 Nov 18:10; Tue 16 Nov 14:15<br>
+**Inside Man**<br>
+Mon 8 Nov 20:30; Thu 25 Nov 14:30;  
+Tue 30 Nov 20:20<br>
+**The Long Goodbye**<br>
+Wed 10 Nov 17:50 (+ intro by Geoff Andrew, Programmer-at-Large); Sat 27 Nov 20:40<br>
+**Shaft**<br>
+Fri 12 Nov 20:50; Tue 23 Nov 18:20<br>
+**Heat**<br>
+Sat 13 Nov 16:30; Mon 15 Nov 13:40<br>
+**Dirty Harry**<br>
+Sun 14 Nov 18:20; Fri 26 Nov 20:45<br>
+**Devil in a Blue Dress**<br>
+Wed 17 Nov 18:00 (+ intro by _Empire Magazine_ Contributing Editor Amon Warmann)<br>
+**Illustrious Corpses (Cadaveri eccellenti)**<br>
+Fri 19 Nov 20:40; Sat 27 Nov 18:10<br>
+**Chinatown**<br>
+Sat 20 Nov 20:30<br>
+**The Manchurian Candidate**<br>
+Sun 21 Nov 14:50<br>
+**Un Flic**<br>
+Tue 23 Nov 20:45;Mon 29 Nov 20:55<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
