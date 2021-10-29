@@ -1,4 +1,3 @@
-<![endif]-->
 
 **SPOILER WARNING The following notes give away some of the plot.**
 
@@ -16,8 +15,7 @@ And to get it right. And to do it all herself. When Lecter points out her limita
 But it’s because she hasn’t lived up to her own expectations, not because he thinks less of her. Crawford gets in her way too and his paternalism annoys her. He never gets it more wrong than when he congratulates Clarice by saying, ‘Your father would have been proud of you’. She doesn’t care  
 about that.
 
-In terms of the frightening fairy-tale world that Demme’s Grimm gothic imagery suggests and Lecter’s locutions zing home, Clarice’s mission is not to marry the prince but to rescue the maiden (actually the Senator’s daughter who has become Buffalo Bill’s ‘next special lady’). On that reversal her identity rests. It’s also what fascinates Lecter and what wins him to her cause: unlike most heroes of either sex, she’s more moved by vulnerability than she is attracted  
-to power.
+In terms of the frightening fairy-tale world that Demme’s Grimm gothic imagery suggests and Lecter’s locutions zing home, Clarice’s mission is not to marry the prince but to rescue the maiden (actually the Senator’s daughter who has become Buffalo Bill’s ‘next special lady’). On that reversal her identity rests. It’s also what fascinates Lecter and what wins him to her cause: unlike most heroes of either sex, she’s more moved by vulnerability than she is attracted  to power.
 
 In its aching romanticism, Howard Shore’s score is reminiscent of Bernard Herrmann’s for _Psycho_. In the opening scene, where Clarice, alone in the woods, is running an FBI school obstacle course, it is tied to her yearning and terror and sense of loss. Demme punctuates it with sound effects that have enormous threatening presence. There are the piercing bird calls of the opening and the clanging gates as Clarice descends into the dungeons where Lecter is locked away. And there are the whirring death-head moths that Buffalo Bill breeds in his oozing basement, the way the US, as Lecter puts it, breeds serial killers.
 
@@ -28,7 +26,265 @@ Detective stories and psychoanalysis both investigate traumas of the past. Here 
 Near the end of the film, in the aftermath of Clarice’s battle with Buffalo Bill, the camera lingers for a moment in a corner of the killer’s lair, now lit with a shaft of light from a window broken in the struggle. First, there’s a medium shot of a child’s-size American flag leaning against a dusty army helmet and then a close-up of a sea-blue paper mobile with a butterfly design – a bit of Chinatown interior decoration or a trophy from Vietnam, Bill’s inheritance and his legacy.
 
 Which is why the final image of Lecter after his murderous escape, sauntering down a crowded main street in Haiti resplendent in his creamy tourist suit, is more disturbing than anything that has come before. The serial killer, an American gift to the third world, a fragmentation bomb, ready to explode.<br>
-**Amy Taubin, _Sight & Sound_, June 1991
+**Amy Taubin, _Sight & Sound_, June 1991**<br>
+
+
+**THE SILENCE OF THE LAMBS**
+_Director:_ Jonathan Demme
+_©:_ Orion Pictures Corporation
+_A_ Strong Heart/Demme _production_
+_An_ Orion Pictures _release_
+_Executive Producer:_ Gary Goetzman
+
+_Producers:_ Edward Saxon, Kenneth Utt,
+
+Ron Bozman
+
+_Associate Producer:_ Grace Blake
+
+_Unit Production Manager:_ Kenneth Utt
+
+_Stage Manager:_ Paul Giorgi
+
+_Financial Representative:_ Thomas A. Imperato
+
+_Production Auditor:_ Vicki Dee Rock
+
+_Assistant Production Auditor:_ Steven Shareshian
+
+_Location Manager:_ Neri Kyle Tannenbaum
+
+_Post-production Supervisor:_ Marshall Persinger
+
+_1st Assistant Director:_ Ron Bozman
+
+_2nd Assistant Director:_ Kyle McCarthy
+
+_2nd 2nd Assistant Director:_ Gina Leonetti
+
+_Continuity:_ Mary A. Kelly
+
+_Casting:_ Howard Feuer
+
+_Screenplay:_ Ted Tally
+
+_Based on the novel by:_ Thomas Harris
+
+_Director of Photography:_ Tak Fujimoto
+
+_Camera Operator:_ Tony Jannelli
+
+_Steadicam Operator:_ Larry McConkey
+
+_1st Assistant Camera:_ Bruce MacCallum
+
+_2nd Assistant Camera:_ Tom O’Halloran
+
+_Gaffer:_ Rusty Engels
+
+_Key Grip:_ Bill Miller
+
+_Still Photographs by:_ Ken Regan
+
+_Special Effects:_ Dwight Benjamin-Creel
+
+_Editor:_ Craig McKay
+
+_Associate Editor:_ Lisa Bromwell
+
+_Production Designer:_ Kristi Zea
+
+_Art Director:_ Tim Galvin
+
+_Art Department Co-ordinator:_ Francine Byrne
+
+_Set Decorator:_ Karen O’Hara
+
+_Storyboard Artists:_ Kalina Ivanov,
+
+Karl Shefelman
+
+_Property Master:_ Ann Miller
+
+_Construction Co-ordinator:_ S. Bruce Wineinger
+
+_Costume Designer:_ Colleen Atwood
+
+_Wardrobe Supervisors:_ Mark Burchard,
+
+Hartsell Taylor
+
+_Make-up Created by:_ Allen Weisinger
+
+_Special Make-up Effects Created by:_
+
+Carl Fullerton, Neal Martz
+
+_Hair Styles Designed by:_ Alan D’Angerio
+
+_Main Titles Designed by:_ M & Company
+
+_Titles/Optical Effects:_ R/Greenberg Associates
+
+_Music:_ Howard Shore
+
+_Orchestrations by:_ Homer Denison
+
+_Music Supervisor:_ Sharon Boyle
+
+_Music Editor:_ Suzana Peric
+
+_Recording Engineer:_ Alan Snelling
+
+_Sound Design:_ Skip Lievsay
+
+_Sound Recording:_ John Fundus
+
+_Production Sound Mixer:_ Christopher Newman
+
+_Boom Operator:_ Dennis Maitland II
+
+_Sound Re-recording:_ Tom Fleischman
+
+_Re-recordists:_ Douglas L. Murray, Sean Squires
+
+_Dialogue Editors:_ Fred Rosenberg, Jeffrey Stern, Marissa Littlefield, Phil Stockton
+
+_Effects Editor:_ Ron Bochar
+
+_ADR Recordist:_ David Boulton
+
+_Boom Operator ADR:_ Kay Denmark
+
+_ADR Editors:_ Gail Showalter, Deborah Wallach
+
+_Foley Artist:_ Marko Costanzo
+
+_Foley Editors:_ Bruce Pross, Frank Kern,
+
+Steven Visscher
+
+_Stunt Co-ordinator:_ John Robotham
+
+_Cast:_
+
+Jodie Foster _(Clarice Starling)_
+
+Anthony Hopkins _(Dr Hannibal Lecter)_
+
+Scott Glenn _(Jack Crawford)_
+
+Ted Levine _(Jame Gumb)_
+
+Anthony Heald _(Dr Frederick Chilton)_
+
+Brooke Smith _(Catherine Martin)_
+
+Diane Baker _(Senator Ruth Martin)_
+
+Kasi Lemmons _(Ardelia Mapp)_
+
+Charles Napier _(Lieutenant Boyle)_
+
+Tracey Walter _(Lamar)_
+
+Roger Corman _(FBI Director Hayden Burke)_
+
+Ron Vawter _(Paul Krendler)_
+
+Danny Darst _(Sergeant Tate)_
+
+Frankie Faison _(Barney)_
+
+Paul Lazar _(Pilcher)_
+
+Dan Butler _(Roden)_
+
+Chris Isaak _(SWAT commander)_
+
+Lawrence A. Bonney _(FBI instructor)_
+
+Lawrence T. Wrentz _(Agent Burroughs)_
+
+Don Brockett _(friendly psychopath)_
+
+Frank Seals Jr _(brooding psychopath)_
+
+Stuart Rudin _(Miggs)_
+
+Masha Skorobogatov _(young Clarice)_
+
+Jeffrie Lane _(Clarice’s father)_
+
+Leib Lensky _(Mr Lang)_
+
+Red Schwartz _(Mr Lang’s driver)_
+
+Jim Roche _(TV evangelist)_
+
+James B. Howard _(boxing instructor)_
+
+Ben Miller _(Mr Brigham)_
+
+Chuck Aber _(Agent Terry)_
+
+Gene Borkan _(Oscar)_
+
+Pat McNamara _(Sheriff Perkins)_
+
+Kenneth Utt _(Dr Akin)_
+
+Darla _(Precious, Jame Gumb’s dog)_
+
+Adelle Lutz _(TV anchor woman)_
+
+Obba Babatundé _(TV anchor man)_
+
+George Michael _(TV sportscaster)_
+
+Jim Dratfield _(Senator Martin’s aide)_
+
+Stanton-Miranda _(reporter 1)_
+
+Rebecca Saxon _(reporter 2)_
+
+Cynthia Ettinger _(Officer Jacobs)_
+
+Brent Hinkley _(Officer Murray)_
+
+Steve Wyatt _(airport flirt)_
+
+Alex Coleman _(Sergeant Pembry)_
+
+David Early _(spooked Memphis cop)_
+
+André Blake _(tall Memphis cop)_
+
+Bill Dalzell III _(distraught Memphis cop)_
+
+Daniel Von Bargen _(SWAT communicator)_
+
+Tommy Lafitte _(SWAT shooter)_
+
+Josh Broder _(EMS attendant)_
+
+Buzz Kilman _(EMS driver)_
+
+Harry Northup _(Mr Bimmel)_
+
+Lauren Roselli _(Stacy Hubka)_
+
+Lamont Arnold _(flower delivery man)_
+
+George A. Romero
+
+_(walkie talkie detective in Memphis)_ *
+
+USA 1990©
+
+119 mins
+
+* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODU0OTE4MF19
+eyJoaXN0b3J5IjpbLTEzOTY4MjQ1NzBdfQ==
 -->
