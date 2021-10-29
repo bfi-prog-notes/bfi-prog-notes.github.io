@@ -97,94 +97,54 @@ _Foley Editors:_ Bruce Pross, Frank Kern, Steven Visscher<br>
 _Stunt Co-ordinator:_ John Robotham<br>
 
 **Cast**<br>
-Jodie Foster _(Clarice Starling)_
-Anthony Hopkins _(Dr Hannibal Lecter)_
-Scott Glenn _(Jack Crawford)_
-Ted Levine _(Jame Gumb)_
-Anthony Heald _(Dr Frederick Chilton)_
-Brooke Smith _(Catherine Martin)_
-Diane Baker _(Senator Ruth Martin)_
-Kasi Lemmons _(Ardelia Mapp)_
-Charles Napier _(Lieutenant Boyle)_
-
-Tracey Walter _(Lamar)_
-
-Roger Corman _(FBI Director Hayden Burke)_
-
-Ron Vawter _(Paul Krendler)_
-
-Danny Darst _(Sergeant Tate)_
-
-Frankie Faison _(Barney)_
-
-Paul Lazar _(Pilcher)_
-
-Dan Butler _(Roden)_
-
-Chris Isaak _(SWAT commander)_
-
-Lawrence A. Bonney _(FBI instructor)_
-
-Lawrence T. Wrentz _(Agent Burroughs)_
-
-Don Brockett _(friendly psychopath)_
-
-Frank Seals Jr _(brooding psychopath)_
-
-Stuart Rudin _(Miggs)_
-
-Masha Skorobogatov _(young Clarice)_
-
-Jeffrie Lane _(Clarice’s father)_
-
-Leib Lensky _(Mr Lang)_
-
-Red Schwartz _(Mr Lang’s driver)_
-
-Jim Roche _(TV evangelist)_
-
-James B. Howard _(boxing instructor)_
-
-Ben Miller _(Mr Brigham)_
-
-Chuck Aber _(Agent Terry)_
-
-Gene Borkan _(Oscar)_
-
-Pat McNamara _(Sheriff Perkins)_
-
-Kenneth Utt _(Dr Akin)_
-
-Darla _(Precious, Jame Gumb’s dog)_
-
-Adelle Lutz _(TV anchor woman)_
-
-Obba Babatundé _(TV anchor man)_
-
-George Michael _(TV sportscaster)_
-
-Jim Dratfield _(Senator Martin’s aide)_
-
-Stanton-Miranda _(reporter 1)_
-
-Rebecca Saxon _(reporter 2)_
-
-Cynthia Ettinger _(Officer Jacobs)_
-
-Brent Hinkley _(Officer Murray)_
-
-Steve Wyatt _(airport flirt)_
-
-Alex Coleman _(Sergeant Pembry)_
-
-David Early _(spooked Memphis cop)_
-
-André Blake _(tall Memphis cop)_
-
+Jodie Foster _(Clarice Starling)_<br>
+Anthony Hopkins _(Dr Hannibal Lecter)_<br>
+Scott Glenn _(Jack Crawford)_<br>
+Ted Levine _(Jame Gumb)_<br>
+Anthony Heald _(Dr Frederick Chilton)_<br>
+Brooke Smith _(Catherine Martin)_<br>
+Diane Baker _(Senator Ruth Martin)_<br>
+Kasi Lemmons _(Ardelia Mapp)_<br>
+Charles Napier _(Lieutenant Boyle)_<br>
+Tracey Walter _(Lamar)_<br>
+Roger Corman _(FBI Director Hayden Burke)_<br>
+Ron Vawter _(Paul Krendler)_<br>
+Danny Darst _(Sergeant Tate)_<br>
+Frankie Faison _(Barney)_<br>
+Paul Lazar _(Pilcher)_<br>
+Dan Butler _(Roden)_<br>
+Chris Isaak _(SWAT commander)_<br>
+Lawrence A. Bonney _(FBI instructor)_<br>
+Lawrence T. Wrentz _(Agent Burroughs)_<br>
+Don Brockett _(friendly psychopath)_<br>
+Frank Seals Jr _(brooding psychopath)_<br>
+Stuart Rudin _(Miggs)_<br>
+Masha Skorobogatov _(young Clarice)_<br>
+Jeffrie Lane _(Clarice’s father)_<br>
+Leib Lensky _(Mr Lang)_<br>
+Red Schwartz _(Mr Lang’s driver)_<br>
+Jim Roche _(TV evangelist)_<br>
+James B. Howard _(boxing instructor)_<br>
+Ben Miller _(Mr Brigham)_<br>
+Chuck Aber _(Agent Terry)_<br>
+Gene Borkan _(Oscar)_<br>
+Pat McNamara _(Sheriff Perkins)_<br>
+Kenneth Utt _(Dr Akin)_<br>
+Darla _(Precious, Jame Gumb’s dog)_<br>
+Adelle Lutz _(TV anchor woman)_<br>
+Obba Babatundé _(TV anchor man)_<br>
+George Michael _(TV sportscaster)_<br>
+Jim Dratfield _(Senator Martin’s aide)_<br>
+Stanton-Miranda _(reporter 1)_<br>
+Rebecca Saxon _(reporter 2)_<br>
+Cynthia Ettinger _(Officer Jacobs)_<br>
+Brent Hinkley _(Officer Murray)_<br>
+Steve Wyatt _(airport flirt)_<br>
+Alex Coleman _(Sergeant Pembry)_<br>
+David Early _(spooked Memphis cop)_<br>
+André Blake _(tall Memphis cop)_<br>
 Bill Dalzell III _(distraught Memphis cop)_
-
 Daniel Von Bargen _(SWAT communicator)_
-
 Tommy Lafitte _(SWAT shooter)_
 
 Josh Broder _(EMS attendant)_
@@ -207,5 +167,5 @@ USA 1990©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzUzOTQwNF19
+eyJoaXN0b3J5IjpbMTQ1MDExNjE0OF19
 -->
