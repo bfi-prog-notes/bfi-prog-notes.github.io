@@ -192,104 +192,54 @@ _Dialogue Editor:_ Byron Wilson
 
 _Stunt Co-ordinator:_ Jery Hewitt
 
-_Animal Trainers:_ Cheryl Shawver,
-
-Janine L. Aines, Melinda Eichberg, Khary Lee,
-
-Tom Roach, Victoria M. Vopni
-
+_Animal Trainers:_ Cheryl Shawver, Janine L. Aines, Melinda Eichberg, Khary Lee, Tom Roach, Victoria M. Vopni
 _Wrangler:_ Mark Brooks
-
 _Unit Publicist:_ Louise A. Spencer
 
-_Cast:_
-
+**Cast**<br>
 Tommy Lee Jones _(Sheriff Ed Tom Bell)_
-
 Javier Bardem _(Anton Chigurh)_
-
 Josh Brolin _(Llewelyn Moss)_
-
 Woody Harrelson _(Carson Wells)_
-
 Kelly Macdonald _(Carla Jean Moss)_
-
 Garret Dillahunt _(Wendell)_
-
 Tess Harper _(Loretta Bell)_
-
 Barry Corbin _(Ellis)_
-
 Stephen Root _(man who hires Wells)_
-
 Rodger Boyce _(El Paso sheriff)_
-
 Beth Grant _(Carla Jean’s mother)_
-
 Ana Reeder _(poolside woman)_
-
 Kit Gwin _(Sheriff Bell’s secretary)_
-
 Zach Hopkins _(strangled deputy)_
-
 Chip Love _(man in Ford)_
-
 Eduardo Antonio Garcia _(‘agua’ man)_
-
 Gene Jones _(gas station proprietor)_
-
-Myk Watford, Boots Southerland
-
-_(‘managerial’ victims)_
-
+Myk Watford, Boots Southerland _(‘managerial’ victims)_
 Kathy Lamkin _(Desert Aire manager)_
-
 Johnnie Hector _(cabbie at bus station)_
-
 Margaret Bowman _(Del Rio motel clerk)_
-
 Thomas Kopache _(boot salesman)_
-
 Jason Douglas _(cabbie at motel)_
-
 Doris Hargrave _(waitress)_
-
 Rutherford Cravens _(gun store clerk)_
-
 Matthew Posey _(sporting goods clerk)_
-
 George Adelo _(Mexican in bathtub)_
-
 Mathew Greer _(hitchhiking driver)_
-
 Trent Moore _(nervous accountant)_
-
 Marc Miles _(Hotel Eagle clerk)_
-
 Luce Rains _(pickup driver)_
-
-Philip Bentham, Eric Reeves, Josh Meyer
-
-_(border bridge youths)_
-
+Philip Bentham, Eric Reeves, Josh Meyer _(border bridge youths)_
 Chris Warner _(flatbed driver)_
-
 Brandon Smith _(INS Official)_
-
 H. Roland Uribe _(well dressed Mexican)_
-
 Richard Jackson _(chicken farmer)_
-
 Josh Blaylock, Caleb Jones _(boys on bike)_
-
 Dorsey Ray _(Odessa cabbie)_
-
 Angel H. Alvarado Jr, David A. Gomez,
+Milton Hernandez, John Mancha _(Norteño bands)_<br>
 
-Milton Hernandez, John Mancha _(Norteño bands)_
-
-USA 2007©
+USA 2007©<br>
 122 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxNDk2MjE4XX0=
+eyJoaXN0b3J5IjpbLTkyNjkzMzMyOF19
 -->
