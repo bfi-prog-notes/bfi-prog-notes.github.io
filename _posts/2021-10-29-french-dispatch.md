@@ -126,39 +126,30 @@ _Supervising Sound Editors_: Wayne Lemmer,
 Christopher Scarabosio  
 _Dialogue Editor_: Susan Dawes  
 _Stunt Co-ordinator_: Dominique Fouassier  
-_Literary Consultant_: David Brendel
+_Literary Consultant_: David Brendel<br>
 
-_Cast:_  
+**Cast**<br>
 _‘The Concrete Masterpiece’_
-
 Benicio Del Toro _(Moses Rosenthaler)_  
 Adrien Brody _(Julian Cadazio)_
-
 Tilda Swinton _(J.K.L. Berensen_
-
-Léa Seydoux _(Simone)_
+Léa Seydoux _(Simone)_<br>
 
 _‘Revisions to a Manifesto’_
-
 Frances McDormand _(Lucinda Krementz)_  
 Timothée Chalamet _(Zeffirelli)_
-
-Lyna Khoudri _(Juliette)_
+Lyna Khoudri _(Juliette)_<br>
 
 _‘The Private Dining Room of the Police Commissioner’_
-
 Jeffrey Wright _(Roebuck Wright)_  
 Mathieu Amalric _(The Commissaire)_
-
 Steve Park _(Lieutenant Nescaffier)_
 
 _‘Obituary’_
-
 Bill Murray _(Arthur Howitzer Jr)_
 
 _‘The Cycling Reporter’_  
 Owen Wilson
-
 _(Herbsaint Sazerac, cycling report)_
 
 Bob Balaban _(Uncle Nick)_  
@@ -190,9 +181,7 @@ Damien Bonnard _(police detective)_
 Rodolphe Pauly _(Patrolman Maupassant)_  
 Antonia Desplat _(junkie/showgirl 2)_  
 Elisabeth Moss _(Alumna, copy editor)_  
-Jason Schwartzman
-
-_(Hermès Jones, cartoonist)_  
+Jason Schwartzman _(Hermès Jones, cartoonist)_  
 Fisher Stevens _(story editor)_  
 Griffin Dunne _(legal adviser)_  
 Pablo Pauly _(waiter)_  
@@ -202,10 +191,9 @@ Anjelica Huston _(narrator)_
 Gilles Gauthier _(man with camera)_
 
 USA 2020<br>
+108  mins<br>
 
-108  mins
-
-A Fox Searchlight Pictures release
+A Fox Searchlight Pictures release<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODgwMDk4N119
+eyJoaXN0b3J5IjpbMTY0OTQ2NjYzNV19
 -->
