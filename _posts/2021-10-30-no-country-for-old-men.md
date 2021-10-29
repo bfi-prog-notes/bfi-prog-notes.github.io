@@ -1,5 +1,4 @@
 
-
 Laconic is the word. Say little but say it well. Write in sentences sand-blasted by time, words sucked to stone before they’re spoken. Such is the prose of Cormac McCarthy, a beauteous thing winnowed down over a long career from the supple effusion of _All the Pretty Horses_ to the stripped-bone clarity of _The Road._ It’s the way people say only what they have to in the places where his books are set, the way images are cut in simple strokes, each word axing clean the apt description. _No Country for Old Men_ unfolds in the Texas borderlands of the 1980s, near the Rio Grande. It’s a quasi-thriller laced with regret for the way things are going, for how plain-speaking integrity is being destroyed by the encroaching violence of the drugs trade.
 
 Joel and Ethan Coen, too, are on neighbourly terms with the laconic. Given to deadpan avoidance of the serious in interviews, they produce screenplays that show a po-faced passion for pith. Characters in _Blood Simple_ (1983), _Fargo_ (1995) and _O Brother Where Art Thou?_ (2000), to take just three of their films, practise a verbal exactitude that is an essential part of the texture we expect from a Coen brothers movie.
@@ -22,40 +21,40 @@ Those of us who have long thought of the Coens as superb technicians, comedians 
 _No Country for Old Men_ they’ve stopped being smirking nerds – there’s nothing here that smacks of ‘look at what we just did’. Rather, this is a mature film about the US hinterland that can be put beside the likes of John Ford and Clint Eastwood.<br>
 **Nick James, _Sight & Sound_, July 2007**<br>
 
-**NO COUNTRY FOR OLD MEN**
-_Directed by:_ Joel Coen, Ethan Coen
-© Miramax Film Corp.
-©_/Presented by:_ Paramount Vantage
-_Production Companies:_ Scott Rudin Productions,  Mike Zoss Productions
-_Presented by:_ Miramax Films
-_Executive Producers:_ Robert Graf, Mark Roybal
-_Produced by:_ Scott Rudin, Ethan Coen, Joel Coen
-_Associate Producer:_ David Diliberto
-_Production Supervisor:_ Karen Ruth Getchell
-_Production Accountant:_ Cheryl Kurk
-_Production Co-ordinator:_ Rachael Lin Gallaghan
-_Production Co-ordinator (Mexico Unit):_ Gabriel Perez
-_Production Manager (Mexico Unit):_ Omar Veytia
-_Unit Production Manager:_ Robert Graf
-_Location Manager:_ Michael Dellheim
-_Post-production Co-ordinator:_ Catherine Farrell
-_2nd Unit Director:_ Jery Hewitt
-_1st Assistant Director:_ Betsy Magruder
-_2nd Assistant Director:_ Bac DeLorme
-_2nd 2nd Assistant Director:_ Jai James
-_2nd Unit 1st Assistant Director:_ Donald Murphy
-_2nd Unit 2nd Assistant Director:_ Pete Dress
-_2nd Unit 2nd 2nd Assistant Director:_ Taylor Phillips
-_Script Supervisor:_ Thomas Johnston
-_2nd Unit Script Supervisor:_ Mamie Mitchell
-_Casting:_ Ellen Chenoweth
-_Location Casting:_ Jo Edna Boldin
-_Additional Casting:_ Tracy Kilpatrick
-_Voice Casting:_ Barbara Harris
-_Written for the Screen by:_ Joel Coen, Ethan Coen
-_Based on the novel by:_ Cormac McCarthy
-_Director of Photography:_ Roger Deakins
-_2nd Unit Director of Photography:_ Paul Elliott
+**NO COUNTRY FOR OLD MEN**<br>
+_Directed by:_ Joel Coen, Ethan Coen<br>
+© Miramax Film Corp.<br>
+©_/Presented by:_ Paramount Vantage<br>
+_Production Companies:_ Scott Rudin Productions,  Mike Zoss Productions<br>
+_Presented by:_ Miramax Films<br>
+_Executive Producers:_ Robert Graf, Mark Roybal<br>
+_Produced by:_ Scott Rudin, Ethan Coen, Joel Coen<br>
+_Associate Producer:_ David Diliberto<br>
+_Production Supervisor:_ Karen Ruth Getchell<br>
+_Production Accountant:_ Cheryl Kurk<br>
+_Production Co-ordinator:_ Rachael Lin Gallaghan<br>
+_Production Co-ordinator (Mexico Unit):_ Gabriel Perez<br>
+_Production Manager (Mexico Unit):_ Omar Veytia<br>
+_Unit Production Manager:_ Robert Graf<br>
+_Location Manager:_ Michael Dellheim<br>
+_Post-production Co-ordinator:_ Catherine Farrell<br>
+_2nd Unit Director:_ Jery Hewitt<br>
+_1st Assistant Director:_ Betsy Magruder<br>
+_2nd Assistant Director:_ Bac DeLorme<br>
+_2nd 2nd Assistant Director:_ Jai James<br>
+_2nd Unit 1st Assistant Director:_ Donald Murphy<br>
+_2nd Unit 2nd Assistant Director:_ Pete Dress<br>
+_2nd Unit 2nd 2nd Assistant Director:_ Taylor Phillips<br>
+_Script Supervisor:_ Thomas Johnston<br>
+_2nd Unit Script Supervisor:_ Mamie Mitchell<br>
+_Casting:_ Ellen Chenoweth<br>
+_Location Casting:_ Jo Edna Boldin<br>
+_Additional Casting:_ Tracy Kilpatrick<br>
+_Voice Casting:_ Barbara Harris<br>
+_Written for the Screen by:_ Joel Coen, Ethan Coen<br>
+_Based on the novel by:_ Cormac McCarthy<br>
+_Director of Photography:_ Roger Deakins<br>
+_2nd Unit Director of Photography:_ Paul Elliott<br>
 _Camera Operator:_ Roger Deakins
 _2nd Unit Camera Operator:_ Andy Graham
 _1st Assistant Camera A:_ Andy Harris
@@ -151,5 +150,5 @@ Milton Hernandez, John Mancha _(Norteño bands)_<br>
 USA 2007©<br>
 122 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDI3Mzg0XX0=
+eyJoaXN0b3J5IjpbMTU3NzM2NjUzOF19
 -->
