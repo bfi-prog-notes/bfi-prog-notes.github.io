@@ -31,13 +31,11 @@ And maybe, just maybe, if you’ve had a tough week… this may be all the thera
 
 **Kevin Le Gendre** is a British journalist, broadcaster and author whose work focuses on Black music. He is deputy editor of _Echoes_ magazine, has written for a wide range of publications, including _Jazzwise_, _MusicWeek_, _Vibrations_ and _The Independent on Sunday_ and is a contributor to such radio programmes as BBC Radio 3’s _J to Z_ and BBC Radio 4’s _Front Row_. At the 2009 Parliamentary Jazz Awards Le Gendre was chosen as ‘Jazz Journalist of the Year’. His latest book is _Hear My Train A Comin’: The Songs of Jimi Hendrix_.<br>
 
-<![endif]-->
 
-**BODY AND SOUL  
-**_Director_: Oscar Micheaux  
-_Production Company_:  
-Micheaux Pictures Corporation  
-_Screenplay_: Oscar Micheaux
+**BODY AND SOUL**<br> 
+_Director_: Oscar Micheaux  
+_Production Company_:  Micheaux Pictures Corporation  
+_Screenplay_: Oscar Micheaux<br>
 
 **Cast**<br>
 Paul Robeson _ (Rt Reverend Isiaah Jenkins/Sylvester)_  
@@ -49,15 +47,56 @@ Lillian Johnson _(Sis Ca’line)_
 Madame Robinson _(Sis Lucy)_  
 Julia Theresa Russell _(Isabelle)_  
 Mercedes Gilbert _(Sis Martha)_  
-Tom Fletcher
+Tom Fletcher<br>
 
-USA 1925
+USA 1925<br>
+102 mins<br>
 
-102 mins
+**With live piano accompaniment by Neil Brand**<br>
 
-**With live piano accompaniment**
+<br>
+<![endif]-->
 
-**by Neil Brand**
+REGULAR PROGRAMME
+
+**Silent Cinema: Body and Soul + intro**
+
+Sun 31 Oct 14:20
+
+**20-22 Omega**
+
+Sun 31 Oct 14:30; Thu 4 Nov 18:10
+
+**Member Picks: Moonlight**
+
+Fri 5 Nov 18:10
+
+**African Odysseys: Black History Walks Presents: Cause for Concern: Equal Before the Law**
+
+Fri 5 Nov 18:30-21:30
+
+**African Odysseys: A Date with the Devil: Darcus Howe’s Journey from Black Power to Broadcasting**
+
+Sat 6 Nov 12:00-18:00
+
+**African Odysseys: Travels with my Camera: Is This My Country? + White Tribe**
+
+Tue 9 Nov 18:10
+
+**African Odysseys: Trouble in Paradise + Darcus Howe: Son of Mine**
+
+Sun 14 Nov 15:30
+
+**Terror Vision: Tales from the Hood**
+Thu 25 Nov 20:40
+**Missing Believed Wiped** **Session 1: The London Palladium Show**
+Sat 27 Nov 13:00
+**Missing Believed Wiped** **Session 2: Introducing ‘The Precious Things’: Holiday Startime**
+Sat 27 Nov 15:50
+**Seniors’ Free Matinee, in partnership with African Odysseys: Once Upon a Time... When We Were Colored + intro**
+Mon 29 Nov 14:00
+**Relaxed Screening: Petite Maman**
+Tue 30 Nov 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzExNDI0OF19
+eyJoaXN0b3J5IjpbLTIzODc1MzI0XX0=
 -->
