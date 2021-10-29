@@ -1,3 +1,14 @@
+---
+layout: post
+title: French Dispatch
+published: true
+date: 2021-10-29
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Comedy, Drama]
+metadata: 'USA 2020, 108 mins<br> Director: Wes Anderson'
+pdf: '2021-10-29-french-dispatch.pdf'
+---
 
 Wes Anderson’s films have always had a Russian doll quality, containing tales within tales within tales, but his new anthology film _The French Dispatch_ takes his love of storytelling to another level. ‘I had three different things I wanted to do,’ Anderson tells me on a windy rooftop terrace in Cannes after the film’s premiere, which was delayed for more than a year due to the pandemic. ‘One, I wanted to do a collection of short stories. Two, I wanted to do a movie about a magazine. Three, I wanted to make a French movie, set in France, with some of my favourite French actors. So I put them all together.’
 
@@ -33,8 +44,7 @@ _©_: Twentieth Century Fox Film Corporation, TSG Entertainment Finance LLC, TFD
 _An_ American Empirical _picture_<br>
 _Presented by_: Searchlight Pictures, Indian Paintbrush  
 _Executive Producers_: Roman Coppola, Henning Molfenter, Christoph Fisser, Charlie Woebcken  
-_Produced by_: Wes Anderson, Steven Rales,  
-Jeremy Dawson  
+_Produced by_: Wes Anderson, Steven Rales, Jeremy Dawson  
 _Co-producer_: Octavia Peissel  
 _Line Producer_: Frédéric Blum  
 _Associate Producers_: John Peet, Ben Adler  
@@ -51,7 +61,7 @@ _US Casting by_: Douglas Aibel
 _French Casting by_: Antoinette Boulat  
 _UK Casting by_: Jina Jay  
 _Screenplay by_: Wes Anderson  
-_Story by_: Wes Anderson, Roman Coppola, Hugo Guinness_,_ Jason Schwartzman  
+_Story by_: Wes Anderson, Roman Coppola, Hugo Guinness, Jason Schwartzman  
 _Director of Photography_: Robert Yeoman  
 _Miniature Unit Cinematographer_: Tristan Oliver  
 _Steadicam Operator_: Sanjay Sami  
@@ -91,8 +101,7 @@ _Sound Mixer_: Jean-Paul Mugel
 _Boom Operator_: Damien Luquet  
 _Re-recording Mixers_: Wayne Lemmer, Christopher Scarabosio  
 _Re-recording Mixer_: Craig Berkey  
-_Supervising Sound Editors_: Wayne Lemmer,  
-Christopher Scarabosio  
+_Supervising Sound Editors_: Wayne Lemmer, Christopher Scarabosio  
 _Dialogue Editor_: Susan Dawes  
 _Stunt Co-ordinator_: Dominique Fouassier  
 _Literary Consultant_: David Brendel<br>
@@ -158,10 +167,24 @@ Anjelica Bette Fellini _(proofreader)_
 Anjelica Huston _(narrator)_  
 Gilles Gauthier _(man with camera)_
 
-USA 2020<br>
+USA/Germany/France 2020<br>
 108  mins<br>
 
 A Fox Searchlight Pictures release<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTcwMTYwODNdfQ==
--->
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
