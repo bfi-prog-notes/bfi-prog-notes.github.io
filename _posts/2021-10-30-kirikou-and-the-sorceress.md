@@ -17,7 +17,74 @@ Wanting the music to be equally authentic, Ocelot commissioned Youssou N’dour,
 This resolutely non-Disney stance of Ocelot’s meant that the project of producing an animated feature-film mainly in France was a big gamble. Fortunately his producer is, like him, a man of faith: ‘I believe that European audiences demand diversity in films and are culturally more sensitive than some other audiences. We never really had enough money, so for over five years minor miracles were needed on almost a daily basis. Nevertheless, nothing that was of creative importance to the film was left out or sacrificed.’<br>
 **Notes by Terry Staples, adapted from information on www.kirikou.net**
 
-KIRIKOU AND THE SORCERESS
+<![endif]-->
+
+**KIRIKOU AND THE SORCERESS**
+
+**(KIRIKOU ET LA SORCIERE)**
+
+_Director:_ Michel Ocelot
+
+_Production Companies:_ Armateurs,
+
+Odec Kid Cartoons, Monipoly Productions,
+
+Trans Europ Productions, Studio O,
+
+France 3 Cinéma, RTBF, Exposure
+
+_Producers:_ Didier Brunner, Jacques Vercruyssen, Paul Thiltges
+
+_Screenplay:_ Michel Ocelot
+
+_Director of Photography:_ Daniel Borenstein
+
+_Layout Chief:_ Pascal Lemaire
+
+_Head Animator:_ Inga Riba
+
+_Colouring Directors:_ Benedicte Galup,
+
+Marie-Paule Paturand, Philippe Vercruyssen
+
+_Editor:_ Dominique Lefever
+
+_Production Designer:_ Thierry Million
+
+_Music:_ Youssou N’dour
+
+
+_Voice cast:_
+
+Tshilombo Lubambu _(uncle)_
+
+Maimouna Ndiaye _(mother)_
+
+Doudou Gueye Thiaw _(Kirikou as a baby)_
+
+Awa Sene Sarr _(Karaba)_
+
+Robert Lionsol, Marie Augustine Diatta, Isseu Niang, Adjoua Barry, Samba Wane
+
+Sidney Kotto, Wéré Wéré Liking *
+
+France/Luxembourg/Belgium 1998
+
+70 mins
+
+\* Uncredited
+
+<![endif]-->
+
+**FAMILIES
+**Kirikou and the Sorceress (Kirikou et la sorciere)**
+Sat 30 Oct 12:50; Sat 28 Nov 13:15
+**Funday Workshop: Harry Potter and the Philosopher’s Stone**
+Sun 14 Nov 10:30
+**Family Funday: Harry Potter and the Philosopher’s Stone, 20th Anniversary Screening**
+Sun 14 Nov 12:00
+**Preview: Buladó**
+Sat 27 Nov 15:10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODE1MDM2OV19
+eyJoaXN0b3J5IjpbLTEzMzAyNjc3OTJdfQ==
 -->
