@@ -129,8 +129,8 @@ _Stunt Co-ordinator_: Dominique Fouassier
 _Literary Consultant_: David Brendel<br>
 
 **Cast**<br>
-_‘The Concrete Masterpiece’_
-Benicio Del Toro _(Moses Rosenthaler)_  
+_‘The Concrete Masterpiece’_<br>
+Benicio Del Toro _(Moses Rosenthaler)_<br>
 Adrien Brody _(Julian Cadazio)_
 Tilda Swinton _(J.K.L. Berensen_
 Léa Seydoux _(Simone)_<br>
@@ -195,5 +195,5 @@ USA 2020<br>
 
 A Fox Searchlight Pictures release<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTQ2NjYzNV19
+eyJoaXN0b3J5IjpbLTE4Mjg2MTY1MzddfQ==
 -->
