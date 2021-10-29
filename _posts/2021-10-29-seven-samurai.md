@@ -66,92 +66,48 @@ _Director of Photography:_ Asakazu Nakai
 _Lighting:_ Shigeru Mori
 
 _Art Director:_ So Matsuyama
-
 _Art Consultation:_ Seiton Maeda, Kohei Ezaki
-
 _Music:_ Fumio Hayasaka
-
 _Sound Recording:_ Fumio Yanoguchi
-
 _Sound Effects:_ Ichiro Minawa
-
 _Fencing Director:_ Yushio Sugino
+_Archery Directors:_ Ienori Kaneko, Shigeru Endo
 
-_Archery Directors:_ Ienori Kaneko,
-
-Shigeru Endo
-
-_Cast:_
-
-Takashi Shimura
-
-_(Kambei Shimada, leader of samurai)_
-
-Toshiro Mifune  
-_(Kikuchiyo, would-be samurai)_
-
+**Cast**<br>
+Takashi Shimura _(Kambei Shimada, leader of samurai)_
+Toshiro Mifune  _(Kikuchiyo, would-be samurai)_
 Seiji Miyaguchi _(Kyuzo, swordsman)_
-
 Ko Kimura _(Katsushiro, young samurai)_
-
 Daisuke Katô _(Shichiroji, Kambei’s friend)_
-
-Minoru Chiaki  
-_(Heihachi, good-natured samurai)_
-
+Minoru Chiaki  _(Heihachi, good-natured samurai)_
 Yoshio Inaba _(Gorobei, wise warrior)_
-
 Yoshio Tsuchiya _(Rikichi, militant villager)_
-
 Keiko Tsushima _(Shino, Manzo’s daughter)_
-
 Kamatari Fujiwara _(Manzo, Shino’s father)_
-
 Bokuzen Hidari _(Yohei, frightened villager)_
-
 Kuninori Kodo _(Gisaku, village elder)_
-
 Yoshio Kosugi _(Mosuke)_
-
 Keiji Sakakida _(Gosaku)_
-
 Fumiko Homma _(peasant woman)_
-
 Sojin Kamiyama _(minstrel-priest)_
-
 Toranosuke Ogawa _(grandfather)_
-
 Yu Akitsu _(husband)_
-
 Noriko Sengoku _(wife)_
-
 Ichiro Chiba _(priest)_
-
 Gen Shimizu _(masterless samurai)_
-
 Jun Tatari _(coolie)_
-
 Atsushi Watanabe _(vendor)_
-
 Yukiko Shimazaki _(Rikichi’s wife)_
-
 Shinpei Takagi _(Bandit Chief)_
+Jiro Kumagai, Haruko Toyama, Tsuneo Katagiri, Yasuhisa Tsutsumi _(peasants)_
+Kichijiro Ueda, Akira Tani, Haruo Nakajima, Takashi Narita, Senkichi Omura, Shuno Takahara, Masanobu Okubo _(bandits)_
 
-Jiro Kumagai, Haruko Toyama,
+Japan 1954©<br>
+207 mins + intervals<br>
 
-Tsuneo Katagiri, Yasuhisa Tsutsumi _(peasants)_
-
-Kichijiro Ueda, Akira Tani, Haruo Nakajima, Takashi Narita, Senkichi Omura_,_
-
-Shuno Takahara, Masanobu Okubo _(bandits)_
-
-Japan 1954©
-
-207 mins + intervals
-
-A BFI release
+A BFI release<br>
 
 The screenings on Fri 29 Oct and Sun 7 Nov include a screening of **Inside Cinema: Akira Kurosawa**  (2021, 6 mins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzgwMTEzM119
+eyJoaXN0b3J5IjpbLTE1ODEwMDYxNTVdfQ==
 -->
