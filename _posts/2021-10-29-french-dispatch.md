@@ -1,28 +1,23 @@
 
-<![endif]-->
-
 Wes Anderson’s films have always had a Russian doll quality, containing tales within tales within tales, but his new anthology film _The French Dispatch_ takes his love of storytelling to another level. ‘I had three different things I wanted to do,’ Anderson tells me on a windy rooftop terrace in Cannes after the film’s premiere, which was delayed for more than a year due to the pandemic. ‘One, I wanted to do a collection of short stories. Two, I wanted to do a movie about a magazine. Three, I wanted to make a French movie, set in France, with some of my favourite French actors. So I put them all together.’
 
 The result is an issue-turned-film of the titular _French Dispatch of the Liberty, Kansas Sun_ – a weekly magazine published from the Paris-inspired but Andersonian fictional city of Ennui-sur-Blasé. The magazine within the film comprises an ‘Obituary, a Travel Guide and Three Features’. But in reality, each feature darts off into other stories, be they capers, reports of kidnappings or profiles of larger-than-life characters.
 
 _The French Dispatch_ itself is inspired by the _New Yorker_, of which Anderson has been a devoted reader since his teens. Each feature is told through the eyes of a different journalist: Tilda Swinton’s art writer J.K.L. Berensen; Frances McDormand’s reporter Lucinda Krementz, who captures the 1968-pastiched protests in the film; and the James Baldwin-esque Roebuck Wright, played by a melancholy Jeffrey Wright. Each segment has its own ensemble cast, with many Anderson regulars (Owen Wilson, Adrien Brody) and just as many newcomers (Timothée Chalamet, Benicio Del Toro, Léa Seydoux and more). Meanwhile, _The French_ _Dispatch_’s zealous editor Arthur Howitzer Jr (Bill Murray) is modelled on the _New Yorker_’s  mercurial caretaker Harold Ross, although Howitzer’s motto, ‘no crying’, could equally refer to a certain director who carefully rations sentiment and emotion. ‘Cut it!’ Howitzer orders in one scene about a line in an article: ‘It makes me too sad.’
 
-The anthology format has given Anderson a new sense of freedom: ‘At a certain point I decided: we can do whatever we want. If we want to tell part of the story in black and white, we’ll do it. If we want to switch back to colour for a scene – because it tells us something – well, then, we’ll go back to colour.’ In addition to the palette changes, there are moments when the film switches into widescreen (inspired by French anamorphic format Franscope) and, in some of the most dazzling scenes, turns completely animated in a nod to the film’s shooting location, Angoulême, and its status as the French ‘capital of cartoons’ (the scenes were created by local animators). ‘Audiences are used to so many different formats and images [being] presented to them in so many different ways now,’ says Anderson. ‘I feel they can take in a lot of information and changes. Maybe I overdo it? I’m sure I overdo it.’
+The anthology format has given Anderson a new sense of freedom: ‘At a certain point I decided: we can do whatever we want. If we want to tell part of the story in black and white, we’ll do it. If we want to switch back to colour for a scene – because it tells us something – well, then, we’ll go back to colour.’ In addition to the palette changes, there are moments when the film switches into widescreen (inspired by French anamorphic format Franscope) and, in some of the most dazzling scenes, turns completely animated in a nod to the film’s shooting location, Angoulême, and its status as the French ‘capital of cartoons’ (the scenes were created by local animators). ‘Audiences are used to so many different formats and images [being] presented to them in so many different ways now,’ says Anderson. ‘I feel they can take in a lot of information and changes. Maybe I overdo it? I’m sure I overdo it.’<br>
+**Isabel Stevens, _Sight and Sound_, November 2021**<br>
 
-Isabel Stevens, _Sight and Sound_, November 2021
-
-**Constructing the fictional city of Ennui-sur-Blasé**
-
+**Constructing the fictional city of Ennui-sur-Blasé**<br>
 From the island of New Penzance (_Moonrise Kingdom_, 2012) to the Republic of Zubrowka (_The Grand Budapest Hotel_, 2014) and the Japanese city Megasaki (_Isle of Dogs_, 2018), the fictional worlds of Wes Anderson have only increased in scale and ambition over the last decade. His latest is the imaginary city of Ennui-sur-Blasé, a name that translates literally as ‘Boredom-on-Jaded’. Reportedly, the name was Jason Schwartzman’s idea: ‘He just said it’. Ennui is a seedy, noir-ish metropolis heavily inspired by Paris, but the film’s actual setting is the Roman city of Angoulême in the south-west. Anderson stumbled on it while travelling around France in June 2018, looking for locations with his regular production designer Adam Stockhausen. ‘What’s great about the city is all the different levels. It’s an old city on a hill with steps and steep roads, and places where one road goes up above all the others, while another road dips down below and you can see them all in the same frame. You can look at the city not just on a map, but vertically. You can see different levels of it all at once.’
 
 The district of Paris that Ennui was based on wasn’t, as you might assume, hilly Montmartre with its belle époque artistic associations, but Ménilmontant, a few kilometres to the south-east, the setting of _The Red Balloon_ (1956): ‘The area still exists but the whole neighbourhood was more or less razed,’ Anderson explains. ‘All the old buildings were knocked down and replaced by a park.’
 
 _The French Dispatch_ starts with a report from cycling correspondent Sazerac (Owen Wilson), who takes us on a tour of Ennui. ‘There are so many different moments in the city that he shows us,’ Anderson says, ‘and they are inspired by the street photography of Eugène Atget and Charles Marville and by movies, like those by Tati. We looked at old pictures of Angoulême, of parts of the town that had changed a bit, and we used existing places and built around them, or often we used spaces that we saw and made something completely different in them. We made storefronts and we arranged buildings in the foreground and the background. Often we were designing sets based on existing bits of civic architecture – streets and staircases and bridges. Sometimes we did things like build a bridge up on a scaffolding, so that the camera sees something at eye level that normally you have to look up at.’
 
-A central source of inspiration for Ennuisur-Blasé – and particularly Sazerac’s opening tour – was Luc Sante’s 2015 book _The Other Paris_, which explores a near-vanished bohemian Paris. Looking at the images of the French capital in the early 19th century made him think of French movies: ‘Sometimes you see something in an old movie and you actually don’t really understand what kind of place you’re in or what it means. It’s taken for granted you would understand, but in fact all these years later it doesn’t exist in our lives. It reminded me of a scene in one of Marcel Pagnol’s movies where a character is selling “violet”. I thought, “That’s odd that she’s selling flowers on a dock by a fish market.” But violet are actually a type of seafood, a bit like oysters. I’ve asked people in France about them but they haven’t heard of them. They aren’t eaten much any more. I tried one once and they’re very strange and strong.’
+A central source of inspiration for Ennuisur-Blasé – and particularly Sazerac’s opening tour – was Luc Sante’s 2015 book _The Other Paris_, which explores a near-vanished bohemian Paris. Looking at the images of the French capital in the early 19th century made him think of French movies: ‘Sometimes you see something in an old movie and you actually don’t really understand what kind of place you’re in or what it means. It’s taken for granted you would understand, but in fact all these years later it doesn’t exist in our lives. It reminded me of a scene in one of Marcel Pagnol’s movies where a character is selling “violet”. I thought, “That’s odd that she’s selling flowers on a dock by a fish market.” But violet are actually a type of seafood, a bit like oysters. I’ve asked people in France about them but they haven’t heard of them. They aren’t eaten much any more. I tried one once and they’re very strange and strong.’<br>
 
-**Wes Anderson on French Movie Influences**
-
+**Wes Anderson on French Movie Influences**<br>
 Lots of French movies came into the mix for this. The Benicio Del Toro and Léa Seydoux story was influenced by early French talking cinema going back to _David Golder_ [1931] and other Julien Duvivier movies, and Jean Grémillon’s _La Petite Lise_ [1930], which Leos Carax refers to in _Mauvais sang_ [1986]. Michel Simon in _Boudu Saved from Drowning_ [1932] was a key inspiration for Benicio Del Toro in the first story as well. The middle part, with Frances McDormand and Timothée Chamalet, we were thinking of the _nouvelle vague_ but also _cinéma du look_; early Leos Carax but also Luc Besson and Jean-Jacques Beineix (who are obviously quite different from Carax, but there was a moment when they were all making something that we hadn’t seen in French cinema before). And then I knew I wanted to make a French noir.
 
 That’s I think what the last part of the film is, the Jeffrey Wright/Mathieu Amalric part. There I was thinking of French crime movies and _policiers_ like Jacques Becker’s _Touchez pas au grisbi_ [1954], and Clouzot’s _L’Assassin habite au 21_ [1942], and the Maigret [the fictional French police detective created by Georges Simenon] that’s a Duvivier, _La Tête d’un homme_ [1933]. Michel Simon I love so much, especially in _Boudu_, which Benicio loved, too; but also _L’Atalante_ [1934] and _Panique_ [1946] and _La Chienne_ [1931]. Who can you compare him to? He’s hysterically funny, and he’s a powerhouse. In _Boudu_, he’s not guileless, but he’s not sly; he’s almost completely selfish, but he’s not unkind; he’s charming, but he’s a wrecking machine; he’s cheery, but he’s very moody.
@@ -30,20 +25,14 @@ That’s I think what the last part of the film is, the Jeffrey Wright/Mathieu A
 French cinema invited me to France, and I’ve sort of stayed there ever since.<br>
 **_Sight and Sound_, November 2021**<br>
 
-<![endif]-->
 
-**THE FRENCH DISPATCH OF THE LIBERTY KANSAS EVENING SUN**
 
+**THE FRENCH DISPATCH OF THE LIBERTY KANSAS EVENING SUN**<br>
 _Directed by_: Wes Anderson  
 _©_: Twentieth Century Fox Film Corporation, TSG Entertainment Finance LLC, TFD Productions LLC  
-_An_ American Empirical _picture_
-
-_Presented by_: Searchlight Pictures,
-
-Indian Paintbrush  
-_Executive Producers_: Roman Coppola, Henning Molfenter, Christoph Fisser,
-
-Charlie Woebcken  
+_An_ American Empirical _picture_<br>
+_Presented by_: Searchlight Pictures, Indian Paintbrush  
+_Executive Producers_: Roman Coppola, Henning Molfenter, Christoph Fisser, Charlie Woebcken  
 _Produced by_: Wes Anderson, Steven Rales,  
 Jeremy Dawson  
 _Co-producer_: Octavia Peissel  
@@ -64,9 +53,7 @@ _UK Casting by_: Jina Jay
 _Screenplay by_: Wes Anderson  
 _Story by_: Wes Anderson, Roman Coppola, Hugo Guinness_,_ Jason Schwartzman  
 _Director of Photography_: Robert Yeoman  
-_Miniature Unit Cinematographer_:
-
-Tristan Oliver  
+_Miniature Unit Cinematographer_: Tristan Oliver  
 _Steadicam Operator_: Sanjay Sami  
 _1st Assistant Camera_: Vincent Scotet  
 _Gaffer_: Grégory Fromentin  
@@ -74,12 +61,10 @@ _Key Grip_: Sanjay Sami
 _Visual Effects Producer_: Wendy Garfinkle  
 _Visual Effects by_: Rise Visual Effects  
 _Animatic Editor_: Edward Bursch  
-_Special Effects Supervisor_:
-
-Jean-Christophe Magnaud  
+_Special Effects Supervisor_: Jean-Christophe Magnaud  
 _Special Effects_: Big Bang SFX  
 _Miniatures Supervisor_: Simon Weisse  
-_Animation Design/Supervisor_:Gwenn Germain  
+_Animation Design/Supervisor_: Gwenn Germain  
 _Editor_: Andrew Weisblum  
 _Associate Editor_: Stephen Perkins  
 _Production Designer_: Adam Stockhausen  
@@ -178,5 +163,5 @@ USA 2020<br>
 
 A Fox Searchlight Pictures release<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzk4NTI4M119
+eyJoaXN0b3J5IjpbLTExMTcwMTYwODNdfQ==
 -->
