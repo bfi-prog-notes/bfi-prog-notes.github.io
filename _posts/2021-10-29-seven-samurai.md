@@ -43,63 +43,52 @@ Upon its original American release, Bosley Crowther had questioned ‘whether th
 _Seven Samurai_ is now by far the best known and influential film ever to hail from Japan. After all, what do critics know?<br>
 **Jasper Sharp, bfi.org.uk, 26 April 2014**<br>
 
-<![endif]-->
 
-**SEVEN SAMURAI (SHICHININ NO SAMURAI)**
 
-_Director:_ Akira Kurosawa
-
-_©:_ Toho Co. Ltd.
-
-_Production Company:_ Toho Co. Ltd.
-
-_Producer:_ Sojiro Motoki
-
-_Assistant Directors:_ Hiromichi Horikawa, Katsuya Shimizu, Sakae Hirosawa, Yasuyoshi Tajitsu, Toshi Kaneko
-
-_Screenplay:_ Shinobu Hashimoto,
-
-Hideo Oguni, Akira Kurosawa
-
-_Director of Photography:_ Asakazu Nakai
-
-_Lighting:_ Shigeru Mori
-
-_Art Director:_ So Matsuyama
-_Art Consultation:_ Seiton Maeda, Kohei Ezaki
-_Music:_ Fumio Hayasaka
-_Sound Recording:_ Fumio Yanoguchi
-_Sound Effects:_ Ichiro Minawa
-_Fencing Director:_ Yushio Sugino
-_Archery Directors:_ Ienori Kaneko, Shigeru Endo
+**SEVEN SAMURAI (SHICHININ NO SAMURAI)**<br>
+_Director:_ Akira Kurosawa<br>
+_©:_ Toho Co. Ltd.<br>
+_Production Company:_ Toho Co. Ltd.<br>
+_Producer:_ Sojiro Motoki<br>
+_Assistant Directors:_ Hiromichi Horikawa, Katsuya Shimizu, Sakae Hirosawa, Yasuyoshi Tajitsu, Toshi Kaneko<br>
+_Screenplay:_ Shinobu Hashimoto, Hideo Oguni, Akira Kurosawa<br>
+_Director of Photography:_ Asakazu Nakai<br>
+_Lighting:_ Shigeru Mori<br>
+_Art Director:_ So Matsuyama<br>
+_Art Consultation:_ Seiton Maeda, Kohei Ezaki<br>
+_Music:_ Fumio Hayasaka<br>
+_Sound Recording:_ Fumio Yanoguchi<br>
+_Sound Effects:_ Ichiro Minawa<br>
+_Fencing Director:_ Yushio Sugino<br><br>
+_Archery Directors:_ Ienori Kaneko, Shigeru Endo<br>
 
 **Cast**<br>
-Takashi Shimura _(Kambei Shimada, leader of samurai)_
-Toshiro Mifune  _(Kikuchiyo, would-be samurai)_
-Seiji Miyaguchi _(Kyuzo, swordsman)_
-Ko Kimura _(Katsushiro, young samurai)_
-Daisuke Katô _(Shichiroji, Kambei’s friend)_
-Minoru Chiaki  _(Heihachi, good-natured samurai)_
-Yoshio Inaba _(Gorobei, wise warrior)_
-Yoshio Tsuchiya _(Rikichi, militant villager)_
-Keiko Tsushima _(Shino, Manzo’s daughter)_
-Kamatari Fujiwara _(Manzo, Shino’s father)_
-Bokuzen Hidari _(Yohei, frightened villager)_
-Kuninori Kodo _(Gisaku, village elder)_
-Yoshio Kosugi _(Mosuke)_
-Keiji Sakakida _(Gosaku)_
-Fumiko Homma _(peasant woman)_
-Sojin Kamiyama _(minstrel-priest)_
-Toranosuke Ogawa _(grandfather)_
-Yu Akitsu _(husband)_
-Noriko Sengoku _(wife)_
-Ichiro Chiba _(priest)_
-Gen Shimizu _(masterless samurai)_
-Jun Tatari _(coolie)_
-Atsushi Watanabe _(vendor)_
-Yukiko Shimazaki _(Rikichi’s wife)_
-Shinpei Takagi _(Bandit Chief)_
-Jiro Kumagai, Haruko Toyama, Tsuneo Katagiri, Yasuhisa Tsutsumi _(peasants)_
+Takashi Shimura _(Kambei Shimada, leader of samurai)_<br>
+Toshiro Mifune  _(Kikuchiyo, would-be samurai)_<br>
+Seiji Miyaguchi _(Kyuzo, swordsman)_<br>
+Ko Kimura _(Katsushiro, young samurai)_<br>
+Daisuke Katô _(Shichiroji, Kambei’s friend)_<br>
+Minoru Chiaki  _(Heihachi, good-natured samurai)_<br>
+Yoshio Inaba _(Gorobei, wise warrior)_<br>
+Yoshio Tsuchiya _(Rikichi, militant villager)_<br>
+Keiko Tsushima _(Shino, Manzo’s daughter)_<br>
+Kamatari Fujiwara _(Manzo, Shino’s father)_<br>
+Bokuzen Hidari _(Yohei, frightened villager)_<br>
+Kuninori Kodo _(Gisaku, village elder)_<br>
+Yoshio Kosugi _(Mosuke)_<br>
+Keiji Sakakida _(Gosaku)_<br>
+Fumiko Homma _(peasant woman)_<br>
+Sojin Kamiyama _(minstrel-priest)_<br>
+Toranosuke Ogawa _(grandfather)_<br>
+Yu Akitsu _(husband)_<br>
+Noriko Sengoku _(wife)_<br>
+Ichiro Chiba _(priest)_<br>
+Gen Shimizu _(masterless samurai)_<br>
+Jun Tatari _(coolie)_<br>
+Atsushi Watanabe _(vendor)_<br>
+Yukiko Shimazaki _(Rikichi’s wife)_<br>
+Shinpei Takagi _(Bandit Chief)_<br>
+Jiro Kumagai, Haruko Toyama, Tsuneo Katagiri, Yasuhisa Tsutsumi _(peasants)_<br>
 Kichijiro Ueda, Akira Tani, Haruo Nakajima, Takashi Narita, Senkichi Omura, Shuno Takahara, Masanobu Okubo _(bandits)_
 
 Japan 1954©<br>
@@ -109,5 +98,5 @@ A BFI release<br>
 
 The screenings on Fri 29 Oct and Sun 7 Nov include a screening of **Inside Cinema: Akira Kurosawa**  (2021, 6 mins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODEwMDYxNTVdfQ==
+eyJoaXN0b3J5IjpbMTE1OTMwMzE0NF19
 -->
