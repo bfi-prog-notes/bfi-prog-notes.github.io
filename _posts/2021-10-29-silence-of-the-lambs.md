@@ -143,29 +143,20 @@ Steve Wyatt _(airport flirt)_<br>
 Alex Coleman _(Sergeant Pembry)_<br>
 David Early _(spooked Memphis cop)_<br>
 André Blake _(tall Memphis cop)_<br>
-Bill Dalzell III _(distraught Memphis cop)_
-Daniel Von Bargen _(SWAT communicator)_
-Tommy Lafitte _(SWAT shooter)_
+Bill Dalzell III _(distraught Memphis cop)_<br>
+Daniel Von Bargen _(SWAT communicator)_<br>
+Tommy Lafitte _(SWAT shooter)_<br>
+Josh Broder _(EMS attendant)_<br>
+Buzz Kilman _(EMS driver)_<br>
+Harry Northup _(Mr Bimmel)_<br>
+Lauren Roselli _(Stacy Hubka)_<br>
+Lamont Arnold _(flower delivery man)_<br>
+George A. Romero _(walkie talkie detective in Memphis)_ *<br>
 
-Josh Broder _(EMS attendant)_
+USA 1990©<br>
+119 mins<br>
 
-Buzz Kilman _(EMS driver)_
-
-Harry Northup _(Mr Bimmel)_
-
-Lauren Roselli _(Stacy Hubka)_
-
-Lamont Arnold _(flower delivery man)_
-
-George A. Romero
-
-_(walkie talkie detective in Memphis)_ *
-
-USA 1990©
-
-119 mins
-
-* Uncredited
+\* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDExNjE0OF19
+eyJoaXN0b3J5IjpbLTg4NzIxMjE2Ml19
 -->
