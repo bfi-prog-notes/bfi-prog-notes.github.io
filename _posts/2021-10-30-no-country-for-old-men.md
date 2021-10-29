@@ -89,109 +89,55 @@ _Additional Casting:_ Tracy Kilpatrick
 _Voice Casting:_ Barbara Harris
 
 _Written for the Screen by:_ Joel Coen, Ethan Coen
-
 _Based on the novel by:_ Cormac McCarthy
-
 _Director of Photography:_ Roger Deakins
-
 _2nd Unit Director of Photography:_ Paul Elliott
-
 _Camera Operator:_ Roger Deakins
-
 _2nd Unit Camera Operator:_ Andy Graham
-
 _1st Assistant Camera A:_ Andy Harris
-
 _1st Assistant Camera B:_ Joshua Blakeslee
-
 _2nd Unit 1st Assistant Camera:_ Thomas Bango, Chris Mack
-
-_2nd Assistant Camera A:_
-
-Liza ‘Wintapants’ Bambenek
-
+_2nd Assistant Camera A:_ Liza ‘Wintapants’ Bambenek
 _Chief Lighting Technician:_ Chris Napolitano
-
 _2nd Unit Chief Lighting Technician:_ Scott Kidner
-
 _Video Assist:_ ‘Rogers’ W. Basquette
-
 _Still Photographer:_ Richard Foreman Jr
-
 _Visual Effects by:_ Luma
-
 _Special Effects Co-ordinator:_ Peter Chesney
-
 _Graphic Designer:_ Gregory L. Hill
-
-_Edited by:_ Roderick Jaynes [i.e., Joel Coen,
-
-Ethan Coen]
-
+_Edited by:_ Roderick Jaynes [i.e., Joel Coen, Ethan Coen]
 _Associate Film Editor:_ Neil A. Stelzner
-
 _Assistant Editor:_ Katharine McQuerrey
-
 _Production Designer:_ Jess Gonchor
-
 _Visual Consultant:_ J. Todd Anderson
-
 _Art Director:_ John P. Goldsmith
-
 _Set Decorator:_ Nancy Haigh
-
 _Property Master:_ Keith Walters
-
 _Construction Co-ordinator:_ Christopher Windisch
-
 _Costume Designer:_ Mary Zophres
-
 _Costume Supervisor:_ Lori DeLapp
-
 _Assistant Costume Designer:_ Jenny Eagan
-
 _Key Costumer:_ Aleah Ames
-
 _Make-up Department Head:_ Jean A. Black
-
 _Special Make-up Effects:_ Christien Tinsley
-
 _Hair Department Head:_ Paul LeBlanc
-
 _Titles Designed by:_ Big Film Design
-
 _Digital Intermediate:_ EFilm
-
-_Digital Colour Timer:_ Mike Hatser
-
+_Digital Colour Timer:_ Mike Hatse
 _Negative Cutter:_ Executive Cutting
-
 _Opticals:_ Plethorafx
-
 _Music:_ Carter Burwell
-
 _Orchestra Contractor:_ Sandy Park
-
 _Music Executive:_ Linda Cohen
-
 _Music Editor:_ Todd Kasow
-
 _Music Recorded/Mixed by:_ Michael Farrow
-
 _Sound Designer:_ Craig Berkey
-
 _Sound Mixer:_ Peter Kurland
-
 _Boom Operators:_ Randy Johnson, Joe Brennan
-
 _Re-recording Mixers:_ Skip Lievsay, Craig Berkey, Greg Orloff
-
 _Supervising Sound Editor:_ Skip Lievsay
-
 _Dialogue Editor:_ Byron Wilson
-
 _Stunt Co-ordinator:_ Jery Hewitt
-
 _Animal Trainers:_ Cheryl Shawver, Janine L. Aines, Melinda Eichberg, Khary Lee, Tom Roach, Victoria M. Vopni
 _Wrangler:_ Mark Brooks
 _Unit Publicist:_ Louise A. Spencer
@@ -241,5 +187,5 @@ Milton Hernandez, John Mancha _(Norteño bands)_<br>
 USA 2007©<br>
 122 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjkzMzMyOF19
+eyJoaXN0b3J5IjpbNDYzNzM5NTg2XX0=
 -->
