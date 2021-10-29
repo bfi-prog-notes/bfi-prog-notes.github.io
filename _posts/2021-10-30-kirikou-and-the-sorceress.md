@@ -54,37 +54,29 @@ _Production Designer:_ Thierry Million
 _Music:_ Youssou N’dour
 
 
-_Voice cast:_
-
-Tshilombo Lubambu _(uncle)_
-
+**Voice cast**<br>
+Tshilombo Lubambu _(uncle)_<br><br>
 Maimouna Ndiaye _(mother)_
+Doudou Gueye Thiaw _(Kirikou as a baby)_<br>
+Awa Sene Sarr _(Karaba)_<br><br>
+Robert Lionsol, Marie Augustine Diatta, Isseu Niang, Adjoua Barry, Samba Wane, Sidney Kotto<br>
+Wéré Wéré Liking *<br>
 
-Doudou Gueye Thiaw _(Kirikou as a baby)_
+France/Luxembourg/Belgium 1998<br>
+70 mins<br>
 
-Awa Sene Sarr _(Karaba)_
+\* Uncredited<br>
 
-Robert Lionsol, Marie Augustine Diatta, Isseu Niang, Adjoua Barry, Samba Wane
 
-Sidney Kotto, Wéré Wéré Liking *
-
-France/Luxembourg/Belgium 1998
-
-70 mins
-
-\* Uncredited
-
-<![endif]-->
-
-**FAMILIES
-**Kirikou and the Sorceress (Kirikou et la sorciere)**
-Sat 30 Oct 12:50; Sat 28 Nov 13:15
-**Funday Workshop: Harry Potter and the Philosopher’s Stone**
-Sun 14 Nov 10:30
-**Family Funday: Harry Potter and the Philosopher’s Stone, 20th Anniversary Screening**
-Sun 14 Nov 12:00
+**FAMILIES**<br>
+**Kirikou and the Sorceress (Kirikou et la sorciere)**<br>
+Sat 30 Oct 12:50; Sat 28 Nov 13:15<br>
+**Funday Workshop: Harry Potter and the Philosopher’s Stone**<br>
+Sun 14 Nov 10:30<br>
+**Family Funday: Harry Potter and the Philosopher’s Stone, 20th Anniversary Screening**<br>
+Sun 14 Nov 12:00<br>
 **Preview: Buladó**
-Sat 27 Nov 15:10
+Sat 27 Nov 15:10<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzAyNjc3OTJdfQ==
+eyJoaXN0b3J5IjpbMTIxMjA0ODkxXX0=
 -->
