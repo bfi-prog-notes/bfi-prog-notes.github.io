@@ -28,63 +28,52 @@ Footage of battery chickens being killed still retains the power to shock, and v
 
 9. The corn removal scene was a man in Brixton, South London. I’ve never heard of anyone who does this since.
 
-10. The strippers running about the West End were a common sight.  
-They used to earn 10 shillings (50p) for each club. They could do about 20  
-a day.
+10. The strippers running about the West End were a common sight.  They used to earn 10 shillings (50p) for each club. They could do about 20  a day.
 
-11. Topless fashion show: in the final print this did not appear as such.  
-The censor once again produced his scissors and no topless dresses appeared in the film which was released in the cinemas.
+11. Topless fashion show: in the final print this did not appear as such.  The censor once again produced his scissors and no topless dresses appeared in the film which was released in the cinemas.
 
 12. Key parties were all the rage in sixties London and were the forerunner of the craze of wife swapping – a subject which I was to return to in 1970…
 
 13. Notice all the collar and ties?
+<br><br>
 
-<![endif]-->
-
-**LOOK AT LIFE: GOODBYE PICCADILLY**
-
-UK 1967
-
+**LOOK AT LIFE: GOODBYE PICCADILLY**<br>
+UK 1967<br>
 9 mins
 
-**PRIMITIVE LONDON**
-
-_Director:_ Arnold Louis Miller
-
-_©/Production Company:_ Searchlight Films
-
-_Presented by:_ Troubadour Films
-
-_Executive Producers:_ Tony Tenser, Michael Klinger
-
-_Producers:_ Arnold Louis Miller, Stanley A. Long
+**PRIMITIVE LONDON**<br>
+_Director:_ Arnold Louis Miller<br>
+_©/Production Company:_ Searchlight Films<br>
+_Presented by:_ Troubadour Films<br>
+_Executive Producers:_ Tony Tenser, Michael Klinger<br>
+_Producers:_ Arnold Louis Miller, Stanley A.Long<br>
 
 _Production Secretaries:_ Sheila Miller,  
-Patricia Preece
+Patricia Preece<br>
 
-_Screenplay:_ Arnold Louis Miller
+_Screenplay:_ Arnold Louis Miller<br>
 
-_Director of Photography:_ Stanley A. Long
+_Director of Photography:_ Stanley A. Long<br>
 
-_Electricians:_ Pax Electric
+_Electricians:_ Pax Electric<br>
 
 _Assistant Cameramen:_ Don Lord, Keith Jones,  
-Terry Winfield
+Terry Winfield<br>
 
-_Editor:_ Stephen Cross
+_Editor:_ Stephen Cross<br>
 
-_Music Composed/Arranged by:_ Basil Kirchin, Johnny Coleman
+_Music Composed/Arranged by:_ Basil Kirchin, Johnny Coleman<br>
 
-_Orchestra Directors:_ Basil Kirchin, Johnny Coleman
+_Orchestra Directors:_ Basil Kirchin, Johnny Coleman<br>
 
 _Sound:_ Dudley Plummer, Edgar Vetter,  
-Robert Allen, Derek Rolls
+Robert Allen, Derek Rolls<br>
 
-_Research:_ Robert Gaddes, Phillip Steen
+_Research:_ Robert Gaddes, Phillip Steen<br>
 
-_Narrator:_ David Gell
+_Narrator:_ David Gell<br>
 
-_Cast:_
+_Cast:<br>_
 
 MacDonald Hobley _(in TV studio)_
 
@@ -107,5 +96,5 @@ UK 1965©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Mjk1MDY0XX0=
+eyJoaXN0b3J5IjpbLTkxMzkyNDg5M119
 -->
