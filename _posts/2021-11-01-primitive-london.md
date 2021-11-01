@@ -70,7 +70,7 @@ _Sound:_ Dudley Plummer, Edgar Vetter,  Robert Allen, Derek Rolls<br>
 _Research:_ Robert Gaddes, Phillip Steen<br>
 _Narrator:_ David Gell<br>
 
-**Cast**<br>_
+**Cast**<br>
 MacDonald Hobley _(in TV studio)_  
 Billy J. Kramer _(at record shop)_<br>
 Diana Noble, Bobby Chandler, Vicki Grey,  
