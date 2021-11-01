@@ -47,54 +47,34 @@ _©/Production Company:_ Searchlight Films<br>
 _Presented by:_ Troubadour Films<br>
 _Executive Producers:_ Tony Tenser, Michael Klinger<br>
 _Producers:_ Arnold Louis Miller, Stanley A.Long<br>
-
-_Production Secretaries:_ Sheila Miller,  
-Patricia Preece<br>
-
+_Production Secretaries:_ Sheila Miller,  Patricia Preece<br>
 _Screenplay:_ Arnold Louis Miller<br>
-
 _Director of Photography:_ Stanley A. Long<br>
-
 _Electricians:_ Pax Electric<br>
-
 _Assistant Cameramen:_ Don Lord, Keith Jones,  
 Terry Winfield<br>
-
 _Editor:_ Stephen Cross<br>
-
 _Music Composed/Arranged by:_ Basil Kirchin, Johnny Coleman<br>
-
 _Orchestra Directors:_ Basil Kirchin, Johnny Coleman<br>
-
-_Sound:_ Dudley Plummer, Edgar Vetter,  
-Robert Allen, Derek Rolls<br>
-
+_Sound:_ Dudley Plummer, Edgar Vetter,  Robert Allen, Derek Rolls<br>
 _Research:_ Robert Gaddes, Phillip Steen<br>
-
 _Narrator:_ David Gell<br>
 
-_Cast:<br>_
-
-MacDonald Hobley _(in TV studio)_
-
-Billy J. Kramer _(at record shop)_
-
+**Cast**<br>_
+MacDonald Hobley _(in TV studio)_  
+Billy J. Kramer _(at record shop)_<br>
 Diana Noble, Bobby Chandler, Vicki Grey,  
-John Lee _(at Churchills)_
+John Lee _(at Churchills)_<br>
+Ray Martine _(at Establishment Club)_<br>
+Barry Cryer _(advertising executive in TV studio)_ *<br>
+The Zephyrs _(at nightclub)_ *<br>
+Terry Dene _(at record shop)_ *<br>
 
-Ray Martine _(at Establishment Club)_
-
-Barry Cryer _(advertising executive in TV studio)_ *
-
-The Zephyrs _(at nightclub)_ *
-
-Terry Dene _(at record shop)_ *
-
-UK 1965©
-
+UK 1965©<br>
 84 mins
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzkyNDg5M119
+eyJoaXN0b3J5IjpbNjQzNzUyMzc4XX0=
 -->
