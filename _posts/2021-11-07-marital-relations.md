@@ -17,47 +17,32 @@ Toyoda believed in the well-made film – visually eloquent and intelligently wr
 **MARITAL RELATIONS (MEOTO ZENZAI)**<br>
 _Director_: Shiro Toyoda  
 _Production Company_: Toho Co. Ltd.<br>
-
 _Producer:_ Ichirô Satô<br>
-
 _Screenplay:_ Toshio Yasumi<br>
-
 _Based on the novel by:_ Sakunosuke Oda<br>
-
 _Photography:_ Mitsuo Miura<br>
-
 _Editor:_ Kôichi Iwashita<br>
+_Art Director:_ Kisaku Itô<br>
+_Music:_ Ikuma Dan<br>
+_Sound:_ Masao Fujiyoshi<br>
 
-_Art Director:_ Kisaku Itô
+**Cast**<br>
+Hisaya Morishige _(Ryukichi)_<br>  
+Chikage Awashima _(Choko)_<br> 
+Yôko Tsukasa<br>
+Haruo Tanaka<br>
+Eiko Miyoshi<br>
+Yoshiko Morikawa<br>
+Isao Yamagata<br>
+Kichijirô Ueda<br>
 
-_Music:_ Ikuma Dan
-
-_Sound:_ Masao Fujiyoshi
-
-_Cast:_
-
-Hisaya Morishige _(Ryukichi)_  
-Chikage Awashima _(Choko)_  
-Yôko Tsukasa
-
-Haruo Tanaka
-
-Eiko Miyoshi
-
-Yoshiko Morikawa
-
-Isao Yamagata
-
-Kichijirô Ueda
-
-Japan 1955
-
+Japan 1955<br>
 120 mins
 
 Print courtesy National Film Archive of Japan
 
-The screening on Mon 7 Nov will feature a  
-pre-recorded intro by Professor Hideaki Fujiki, Nagoya University
+The screening on Mon 7 Nov will feature a  pre-recorded intro by Professor Hideaki Fujiki, Nagoya University
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY0NTE2OTFdfQ==
+eyJoaXN0b3J5IjpbLTM4NjA4MTcwM119
 -->
