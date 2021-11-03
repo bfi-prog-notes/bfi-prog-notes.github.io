@@ -27,47 +27,30 @@ In this and other ways, Gosho succeeds in making his characters completely human
 <br><br>
 
 **AN INN AT OSAKA (ÔSAKA NO YADO)**<br>
-
 _Director:_ Heinosuke Gosho<br>
-
 _Production Company:_ Shintoho<br>
-
 _Producers:_ Ryosuke Okamoto, Katsuzô Shino<br>
-
 _Screenplay:_ Heinosuke Gosho<br>
-
 _Based on the novel by:_ Takitarô Minakami<br>
-
 _Director of Photography:_ Jôji Ohara<br>
-
 _Editor:_ Shin Nagata<br>
-
 _Art Director:_ Takashi Matsuyama<br>
-
 _Music:_ Yasushi Akutagawa<br>
-
 _Sound:_ Yûji Dôgen<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Shûji Sano _(Mita)_<br>
-
 Hiroko Kawasaki _(Otsugi)_<br>
-
 Mitsuko Mito _(Orika)_<br>
-
 Sachiko Hidari _(Oyone)_<br>
-
 Nobuko Otowa _(Uwabami)_<br>
-
 Kyôko Anzai _(Omitsu)_<br>
 
 Japan 1954<br>
-
 122 mins
 
 Print courtesy of National Film Archive of Japan
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4MTU5NjM4XX0=
+eyJoaXN0b3J5IjpbMTY1MDQzMDYxMF19
 -->
