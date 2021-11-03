@@ -24,7 +24,7 @@ The funny and strange thing is, if I think of all my characters, I suddenly find
 
 As a storyteller and artist, I am concerned with Us, with the relations between men and women and the way we are, and all these things are important to me. There’s no way that I can specifically tell you that I have a particular reason for being concerned with female relations as such. It’s just something that’s as important to me as everything else, really. I’m a gregarious, sophisticated, experienced person who’s known a lot of people and actually known various kinds of women ranging from my grandmother and my mother through to my sister, and all kinds of other women that I’ve known in various other capacities, some biblical and some not. But mainly I’m a person whose job as an artist is to explore, discuss and tell stories about the human condition.
 
-_You call your movie_ Career Girls_, and yet what we really see are the characters away from work, and never at their jobs._
+_You call your movie_ Career Girls _, and yet what we really see are the characters away from work, and never at their jobs._
 
 Well, there’s a certain irony in that. We see them a lot of the time in the film when they’re students, and they’re very much not career girls. And here they are in these official roles of career women, they’ve got it together. But actually it’s not working in the strict sense for either of them, it’s fractured in some ways. So they’re playing this role, this career girl role, but again underneath it all, it’s still the same old them a few years up the line. So that’s why I’ve called it _Career Girls_. You don’t see them in their work situation, because obviously I’m concerned with exploring their relationship with each other.
 
@@ -76,7 +76,7 @@ _Dubbing Editor:_ Peter Joly
 _Foley Walkers:_ Dianne Greaves, Jack Stew  
 _Foley Editor:_ Julian Rodd  
 
-**Cast**
+**Cast**  
 Katrin Cartlidge _(Hannah Mills)_  
 Lynda Steadman _(Annie)_  
 Mark Benton _(Richard ‘Ricky’ Burton)_  
