@@ -53,8 +53,7 @@ _4th Assistant Director:_ Hannah Titley
 _Script Supervisor:_ Heather Storr  
 _Casting:_ Stern and Parriss  
 _Screenplay:_ Mike Leigh  
-_Director of Photography/Camera Operator:_  
-Dick Pope  
+_Director of Photography/Camera Operator:_  Dick Pope  
 _Editor:_ Robin Sales  
 _Production Designer:_ Eve Stewart  
 _Art Director:_ Helen Scott  
@@ -69,8 +68,8 @@ _Re-recording Mixers:_ Peter Maxwell, Mick Boggis
 _Dubbing Editor:_ Peter Joly  
 _Foley Walkers:_ Dianne Greaves, Jack Stew  
 _Foley Editor:_ Julian Rodd  
-_Cast:_
 
+**Cast**
 Katrin Cartlidge _(Hannah Mills)_  
 Lynda Steadman _(Annie)_  
 Mark Benton _(Richard ‘Ricky’ Burton)_  
@@ -79,9 +78,10 @@ Andy Serkis _(Mr Evans)_
 Joe Tucker _(Adrian Spinks)_  
 Margo Stanley _(Ricky’s nan)_  
 Michael Healy _(lecturer)_  
-UK 1997
 
+UK 1997  
 87 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwNDQ1NDM4XX0=
+eyJoaXN0b3J5IjpbLTE4Mjg5NDAyNTRdfQ==
 -->
