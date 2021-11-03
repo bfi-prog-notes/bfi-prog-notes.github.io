@@ -27,9 +27,7 @@ _The Ballad of Narayama_ (_Narayama bushiko_). To bring verisimilitude to the ha
 **Alexander Jacoby, _Sight & Sound_, November 2017**
 <br><br>
 
-**MY LOVE HAS BEEN BURNING  
-(AKA FLAME OF MY LOVE) (WAGA KOI WA MOENU)**
-
+**MY LOVE HAS BEEN BURNING  (AKA FLAME OF MY LOVE)<br>(WAGA KOI WA MOENU)**  
 _Director_: Kenji Mizoguchi  
 _Production Company_: Shochiku Co. Ltd.  
 _Producers_: Hisao Itoya, Kiyoshi Shimazu  
@@ -38,22 +36,19 @@ _Historical Research_: Sunao Kai
 _Assistant Directors_: Tatsuo Sakai, Mitsuo Okada  
 _Screenplay_: Yoshikata Yoda, Kaneto Shindo  
 _Based on the novel by_: Kogo Noda  
-_Based on_ Mekake no Hanshogai _by_:  
-Hideko Kageyama  
+_Based on_ Mekake no Hanshogai _by_:  Hideko Kageyama  
 _Directors of Photography_: Kohei Sugiyama, Tomotaro Nashiki  
 _Lighting_: Shigeo Terada, Minoru Yoshikawa  
 _Back Projection_: Shozo Kotsuji  
 _Art Directors_: Hiroshi Mizutani, Dai Arakawa, Junichiro Osumi  
-_Set Decorators_: Kiyoharu Matsuno,  
-Sueyoshi Yamaguchi  
+_Set Decorators_: Kiyoharu Matsuno,  Sueyoshi Yamaguchi  
 _Costumes_: Tsuma Nakamura  
 _Hairstyles_: Yoshiko Kimura  
 _Wigs_: Rikizo Inoue  
 _Music_: Senji Ito  
 _Sound_: Taro Takahashi, Takeo Kawakita
 
-_Cast:_
-
+**Cast**  
 Kinuyo Tanaka _(Eiko Hirayama)_  
 Mitsuko Mito _(Chiyo)_  
 Eitarô Ozawa _(Ryuzo Hayase)_  
@@ -78,23 +73,18 @@ Torahiko Hamada _(Silk-Mill factory owner)_
 Kenji Izumi _(Silk-Mill factory superintendent)_  
 Miyoko Shinobu _(Tomii)_  
 Kenzo Tanaka, Hideki Kato _(policemen)_  
-Akio Miyajima, Mokutaro Minakami_  
-(men who buy Chiyo)_  
+Akio Miyajima, Mokutaro Minakami _(men who buy Chiyo)_  
 Ryuji Tosa, Koji Nadada, Ichiro Katayama _(Okayama Jiyuto supporters)_  
-Aizo Tamashima, Kanichi Kato, Sentaro Daito,  
-Koji Tsuruta _(Tokyo Jiyuto supporters)_  
-Shiro Niizuma, Fujio Sasagawa, Jiro Mori,  
-Toru Maruno _(Chichibu Jiyuto supporters)_  
+Aizo Tamashima, Kanichi Kato, Sentaro Daito,  Koji Tsuruta _(Tokyo Jiyuto supporters)_  
+Shiro Niizuma, Fujio Sasagawa, Jiro Mori,  Toru Maruno _(Chichibu Jiyuto supporters)_  
 Hisako Araki, Kiyo Murakami, Yoshiko Sekiya, Michiko Murata, Junko Hara, Kazuko Satomi, Shizue Hiraku, Teruko Yasaka, Fumiko Yamada _(Silk-Mill factory employees)_  
-Kimie Kawakami, Junko Kagami,  
-Toshimi Nishikawa, Kazuko Aoyama,  
-Fusako Suzuki, Mitsue Takigawa, Chigusa Maki _(prisoners)_  
-Zeya Chida
-
+Kimie Kawakami, Junko Kagami,  Toshimi Nishikawa, Kazuko Aoyama,  Fusako Suzuki, Mitsue Takigawa, Chigusa Maki _(prisoners)_  
+Zeya Chida  
 Shochiku Kyoto Orchestra  
-Japan 1949
 
+Japan 1949  
 84 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODE4OTA5NThdfQ==
+eyJoaXN0b3J5IjpbNzcwMjYxNzEyXX0=
 -->
