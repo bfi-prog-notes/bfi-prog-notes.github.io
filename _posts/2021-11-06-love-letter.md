@@ -21,48 +21,32 @@ She worked with female scriptwriters such as Sumie Tanaka on _The Eternal Breast
 <br><br>
 
 **LOVE LETTER (KOIBUMI)**<br>
-
 _Director:_ Kinuyo Tanaka<br>
+_Production Company:_ Shintoho<br>
+_Producer:_ Ichiro Nagashima<br>
+_Screenplay:_ Keisuke Kinoshita<br>
+_Based on the novel by:_ Fumio Niwa<br>
+_Photography:_ Hiroshi Suzuki<br>
+_Editor:_ Toshio Gotô<br>
+_Art Director:_ Seigo Shindô<br>
+_Music:_ Ichirô Saitô<br>
+_Sound:_ Yûji Dôgen<br>
 
-_Production Company:_ Shintoho
+**Cast**<br>
+Masayuki Mori _(Reikichi Mayumi)_<br>
+Yoshiko Kuga _(Michiko Kubota)_<br>
+Jûkichi Uno _(Naoto Yamaji)_<br>
+Jûzô Dôsan _(Hiroshi)_<br>
+Chieko Seki _(office lady)_<br>
+Shizue Natsukawa _(Reikichi’s mother)_<br>
 
-_Producer:_ Ichiro Nagashima
-
-_Screenplay:_ Keisuke Kinoshita
-
-_Based on the novel by:_ Fumio Niwa
-
-_Photography:_ Hiroshi Suzuki
-
-_Editor:_ Toshio Gotô
-
-_Art Director:_ Seigo Shindô
-
-_Music:_ Ichirô Saitô
-
-_Sound:_ Yûji Dôgen
-
-_Cast:_
-
-Masayuki Mori _(Reikichi Mayumi)_
-
-Yoshiko Kuga _(Michiko Kubota)_
-
-Jûkichi Uno _(Naoto Yamaji)_
-
-Jûzô Dôsan _(Hiroshi)_
-
-Chieko Seki _(office lady)_
-
-Shizue Natsukawa _(Reikichi’s mother)_
-
-Japan 1953
-
+Japan 1953<br>
 97 mins
 
 Print courtesy National Film Archive of Japan
 
 The screening on Sun 21 Nov will be introduced by Irene González-López, co-editor of ‘Tanaka Kinuyo: Nation, Stardom and Female Subjectivity’
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTc3Mjk2MF19
+eyJoaXN0b3J5IjpbLTgwNjQ0NDg4NF19
 -->
