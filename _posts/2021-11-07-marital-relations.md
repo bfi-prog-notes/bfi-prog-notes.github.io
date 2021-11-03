@@ -37,8 +37,8 @@ _Music:_ Ikuma Dan<br>
 _Sound:_ Masao Fujiyoshi<br>
 
 **Cast**<br>
-Hisaya Morishige _(Ryukichi)_<br>  
-Chikage Awashima _(Choko)_<br> 
+Hisaya Morishige _(Ryukichi)_<br>
+Chikage Awashima _(Choko)_<br>
 Yôko Tsukasa<br>
 Haruo Tanaka<br>
 Eiko Miyoshi<br>
