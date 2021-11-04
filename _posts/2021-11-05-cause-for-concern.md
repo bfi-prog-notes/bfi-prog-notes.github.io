@@ -1,6 +1,16 @@
+---
+layout: post
+title: Black History Walks Presents<br> Cause for Concern<br> Equal Before the Law
+published: true
+date: 2021-11-05
+readtime: true
+categories: ['AFRICAN ODYSSEYS']
+tags:
+metadata:
+pdf: '2021-11-05-cause-for-concern.pdf'
+---
 
-In the summer of 1969 a documentary was broadcast by the BBC series _Cause for Concern_, which set out in detail a number of shocking cases of police brutality and corruption against members of the Black community.  
-In the ensuing controversy, and after a lengthy campaign, Darcus Howe and other members of the public were invited to participate in a live panel discussion – his first brush with broadcast media.
+In the summer of 1969 a documentary was broadcast by the BBC series _Cause for Concern_, which set out in detail a number of shocking cases of police brutality and corruption against members of the Black community. In the ensuing controversy, and after a lengthy campaign, Darcus Howe and other members of the public were invited to participate in a live panel discussion – his first brush with broadcast media.<br>
 
 Join Tony Warner to learn more about the programme that inadvertently began Darcus Howe’s engagement with TV.<br>
 
@@ -30,6 +40,19 @@ Mon 29 Nov 14:00<br>
 **Relaxed Screening: Petite Maman**<br>
 Tue 30 Nov 18:15<br>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTI1NTI4M119
--->
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
