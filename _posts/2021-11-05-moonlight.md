@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Moonlight
+published: true
+date: 2021-11-05
+readtime: true
+categories: ['MEMBER PICKS']
+tags: [Drama]
+metadata: 'USA 2016, 111 mins<br> Director: Barry Jenkins'
+pdf: '2021-11-05-moonlight.pdf'
+---
 
 You stand, wrapped in that strange communal spell during the thunderous ovation, as the memory of cinema floods back. Not the explosive, momentarily gratifying, empty-bellied franchise juggernaut that has run roughshod across the plains of American cinema in recent decades. No, the memory of a medium that lovingly takes a small life and makes the experience of that life epic. In _Moonlight_ we watch as a vulnerable young boy nicknamed Little (Alex Hibbert) becomes an adolescent (Ashton Sanders) and then finally a man, now known as Black (Trevante Rhodes), against the wilds of a poor black community in Miami.
 
@@ -9,9 +18,8 @@ At some point, you are surprised that this is the first time you have seen a cin
 
 On first viewing, _Moonlight_ hypnotises. Set in Miami, to the visual and sonic echoes of the ocean, this coming-of-age odyssey plays out within a landscape of deeply protected emotions. On second viewing, you have to fight the seduction to study the craft. From the first prowling single take, reminiscent of the opening of Orson Welles’s _Touch of Evil_ (1958), to the isolating wide-angle shots butting up against extreme close-ups, colour-saturated tableaux and an immersive soundscape, this is a film designed to speak to your subconscious.
 
-_Moonlight_’s director Barry Jenkins first broke through in 2008 with the smart, stylish _Medicine for Melancholy_. The film picked up an Independent Spirit Award, but Jenkins then vanished. In certain circles, especially those hungering for complex cinematic depictions of black life, Jenkins’s name would be whispered reverently: ‘Whatever happened to Barry Jenkins?’ So his reappearance with _Moonlight_, partnering with the playwright Tarell Alvin McCraney on an adaptation of the latter’s semi-autobiographical play _In Moonlight Black Boys Look_ _Blue_, drew immediate attention. It was a meeting of souls, Jenkins says, especially when he discovered that both he and McCraney had grown up in the same part of Miami, where the film is set. Little did Jenkins know how personal this project was to become or how acclaimed it would be – the film went on to pick up a Best Picture Golden Globe, as well as eight Oscar nominations (including Best Picture, Best Director, Best Supporting Actor for Ali and Best Supporting Actress for Harris) and four BAFTA nominations.
-
-Gaylene Gould, _Sight & Sound_, March 2017
+_Moonlight_’s director Barry Jenkins first broke through in 2008 with the smart, stylish _Medicine for Melancholy_. The film picked up an Independent Spirit Award, but Jenkins then vanished. In certain circles, especially those hungering for complex cinematic depictions of black life, Jenkins’s name would be whispered reverently: ‘Whatever happened to Barry Jenkins?’ So his reappearance with _Moonlight_, partnering with the playwright Tarell Alvin McCraney on an adaptation of the latter’s semi-autobiographical play _In Moonlight Black Boys Look_ _Blue_, drew immediate attention. It was a meeting of souls, Jenkins says, especially when he discovered that both he and McCraney had grown up in the same part of Miami, where the film is set. Little did Jenkins know how personal this project was to become or how acclaimed it would be – the film went on to pick up a Best Picture Golden Globe, as well as eight Oscar nominations (including Best Picture, Best Director, Best Supporting Actor for Ali and Best Supporting Actress for Harris) and four BAFTA nominations.<br>
+**Gaylene Gould, _Sight & Sound_, March 2017**
 
 The process by which a small movie like _Moonlight_ comes to loom large over global film culture is a complicated one. The most admirable thing about Barry Jenkins’s adaptation of playwright Tarell Alvin McCraney’s _In Moonlight Black Boys_ _Look Blue_ is its commitment to intimacy; this strength is manifested in the skilful proximity of James Laxton’s cinematography and the small-scale parameters of the storyline, which follows a single character as he ages from a child to a young adult. But _Moonlight_ has come to symbolise something bigger: perhaps more than any other release of the past year, Jenkins’s film has been anointed a Movie of the Moment. Whether or not that designation refers triumphally to its status as an artwork describing contemporary African-American life through the eyes of one of its own or, more tenderly, as a final, valedictory exercise in Obama-era identity politics before America Makes Itself Great Again, it’s a lot of significance for one film to bear.
 
@@ -96,6 +104,21 @@ Sat 27 Nov 15:50<br>
 Mon 29 Nov 14:00<br>
 **Relaxed Screening: Petite Maman**<br>
 Tue 30 Nov 18:15<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY3MDE1NzNdfQ==
--->
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
