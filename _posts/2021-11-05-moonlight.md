@@ -31,11 +31,9 @@ _Production Company_: Plan B, Pastel
 _Presented by:_ A24, Plan B Entertainment  
 _Executive Producers_: Brad Pitt, Sarah Esberg, Tarell Alvin McCraney  
 _Produced by_: Adele Romanski, Dede Gardner, Jeremy Kleiner  
-_Co-producers_: Andrew Hevia,Veronica Nickel  
+_Co-producers_: Andrew Hevia, Veronica Nickel  
 _Line Producer_: Veronica Nickel  
-_Unit Production Manager_:
-
-Jennifer Radzikowski  
+_Unit Production Manager_: Jennifer Radzikowski  
 _Location Manager_: Faren Humes  
 _Script Supervisor_: Melinda Taksen  
 _Casting by_: Yesi Ramirez  
@@ -58,12 +56,10 @@ _Score Produced by_: Nicholas Britell
 _Production Sound Mixer_: Christopher Giles  
 _Re-recording Mixer_: Chris David  
 _Supervising Sound Editor_: Joshua Adeniji  
-_Stunt Co-ordinators_: Alexander Edlin,
-
-Artie Malesci<br>
+_Stunt Co-ordinators_: Alexander Edlin, Artie Malesci<br>
 
 **Cast**<br>
-Trevante Rhodes _(Chiron, ‘Black’)_ 
+Trevante Rhodes _(Chiron, ‘Black’)_<br>
 André Holland _(Kevin)_  
 Janelle Monáe _(Teresa)_  
 Ashton Sanders _(Chiron aged 16)_  
@@ -72,12 +68,42 @@ Naomie Harris _(Paula)_
 Mahershala Ali _(Juan)_  
 Shariff Earp _(Terrence)_  
 Duan ‘Sandy’ Sanderson _(Azu)_  
-Alex Hibbert _(Chiron aged 10, ‘Little’)_
+Alex Hibbert _(Chiron aged 10, ‘Little’)_<br>
 Jaden Piner _(Kevin aged 10)_  
-Patrick Decile _(Terrel)_
+Patrick Decile _(Terrel)_<br>
 
-USA 2016©
-111 mins
+USA 2016©<br>
+111 mins<br>
+
+<![endif]-->
+
+REGULAR PROGRAMME
+
+**Member Picks: Moonlight**
+
+Fri 5 Nov 18:10
+
+**African Odysseys: Black History Walks Presents: Cause for Concern: Equal Before the Law**
+
+Fri 5 Nov 18:30-21:30
+
+**African Odysseys: A Date with the Devil: Darcus Howe’s Journey from Black Power to Broadcasting**
+
+Sat 6 Nov 12:00-18:00
+**African Odysseys: Travels with my Camera: Is This My Country? + White Tribe**
+Tue 9 Nov 18:10
+**African Odysseys: Trouble in Paradise + Darcus Howe: Son of Mine**
+Sun 14 Nov 15:30
+**Terror Vision: Tales from the Hood**
+Thu 25 Nov 20:40
+**Missing Believed Wiped Session 1: The London Palladium Show**
+Sat 27 Nov 13:00
+**Missing Believed Wiped Session 2: Introducing ‘The Precious Things’: Holiday Startime**
+Sat 27 Nov 15:50
+**Seniors’ Free Matinee, in partnership with African Odysseys: Once Upon a Time... When We Were Colored + intro**
+Mon 29 Nov 14:00
+**Relaxed Screening: Petite Maman**
+Tue 30 Nov 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3ODQ0Njc0XX0=
+eyJoaXN0b3J5IjpbLTc5MzIwMzg3Nl19
 -->
