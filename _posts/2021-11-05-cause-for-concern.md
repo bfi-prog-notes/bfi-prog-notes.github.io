@@ -12,40 +12,24 @@ As a management consultant specialising in diversity, he has trained various cor
 
 Tony is the author of _Black History Walks in London Volume 1_. The book explores the African/Caribbean presence in London over the last 2000 years.  It is due to be published by Jacaranda Books in October 2021. He is currently working on a GCSE history book on migration and Black British Civil Rights for use in schools.<br>
 
-REGULAR PROGRAMME
-
-**African Odysseys: A Date with the Devil: Darcus Howe’s Journey from Black Power to Broadcasting**
-
-Sat 6 Nov 12:00-18:00
-
-**African Odysseys: Travels with my Camera: Is This My Country? + White Tribe**
-
-Tue 9 Nov 18:10
-
-**African Odysseys: Trouble in Paradise + Darcus Howe: Son of Mine**
-
-Sun 14 Nov 15:30
-
-**Terror Vision: Tales from the Hood**
-
-Thu 25 Nov 20:40
-
-**Missing Believed Wiped** **Session 1: The London Palladium Show**
-
-Sat 27 Nov 13:00
-
-**Missing Believed Wiped** **Session 2: Introducing ‘The Precious Things’: Holiday Startime**
-
-Sat 27 Nov 15:50
-
-**Seniors’ Free Matinee, in partnership with African Odysseys: Once Upon a Time... When We Were Colored + intro**
-
-Mon 29 Nov 14:00
-
-**Relaxed Screening: Petite Maman**
-
-Tue 30 Nov 18:15
+**REGULAR PROGRAMME**<br>
+**African Odysseys: A Date with the Devil: Darcus Howe’s Journey from Black Power to Broadcasting**<br>
+Sat 6 Nov 12:00-18:00<br>
+**African Odysseys: Travels with my Camera: Is This My Country? + White Tribe**<br>
+Tue 9 Nov 18:10<br>
+**African Odysseys: Trouble in Paradise + Darcus Howe: Son of Mine**<br>
+Sun 14 Nov 15:30<br>
+**Terror Vision: Tales from the Hood**<br>
+Thu 25 Nov 20:40<br>
+**Missing Believed Wiped Session 1: The London Palladium Show**<br>
+Sat 27 Nov 13:00<br>
+**Missing Believed Wiped Session 2: Introducing ‘The Precious Things’: Holiday Startime**<br>
+Sat 27 Nov 15:50<br>
+**Seniors’ Free Matinee, in partnership with African Odysseys: Once Upon a Time... When We Were Colored + intro**<br>
+Mon 29 Nov 14:00<br>
+**Relaxed Screening: Petite Maman**<br>
+Tue 30 Nov 18:15<br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4ODk2MzU3XX0=
+eyJoaXN0b3J5IjpbMTM2OTI1NTI4M119
 -->
