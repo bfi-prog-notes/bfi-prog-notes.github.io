@@ -21,9 +21,63 @@ _Moonlight_’s uniqueness as a film about a queer black youth cannot be oversta
 
 _Moonlight_ is awash with these kinds of visual and dramatic rhymes. Jenkins builds each section around a close encounter on or near a beach, and there’s an exhilarating symmetry between the early scene where Juan teaches Little how to swim by holding him steady in the surf and teenage Chiron (Ashton Sanders) kissing his friend Kevin (Jharrel Jerome) in the dark on the sand: paternal intimacy and adolescent experimentation each rendered with fleshy, tactile eroticism. Jenkins has cited Wong Kar Wai and Claire Denis as inspirations, and both are duly evoked, although an even more apropos reference point might be the Hou Hsiao-Hsien of _Three Times_ (2005), another triptych designed as a series of interlacing motifs (and similarly pivoting on the theme of repressed desire).
 
-In addition to his agile formalism, Jenkins has a real sensitivity for actors, and _Moonlight_ boasts a superb ensemble. Not only the three Chirons, who have been carefully guided along a continuum of shared cadences and gestures, but also Ali, whose handsomely hard-lined face is alternately a tough-guy mask and an open book; and André Holland, perfectly cast as the wary, regretful older version of high-school peacock Kevin, a character whose gradual movement to the story’s very heart is beautifully engineered. In the closing encounter between Black and Kevin, the actors’ gently shape-shifting rapport in a dimly lit diner has the uncanny feel of a surreptitiously overheard conversation. Even as the two old friends talk cautiously around their shared history, the emotions between them cut loud and clear through the background clatter, proving that _Moonlight_ is at its most eloquent when its subtext is soft-spoken.
+In addition to his agile formalism, Jenkins has a real sensitivity for actors, and _Moonlight_ boasts a superb ensemble. Not only the three Chirons, who have been carefully guided along a continuum of shared cadences and gestures, but also Ali, whose handsomely hard-lined face is alternately a tough-guy mask and an open book; and André Holland, perfectly cast as the wary, regretful older version of high-school peacock Kevin, a character whose gradual movement to the story’s very heart is beautifully engineered. In the closing encounter between Black and Kevin, the actors’ gently shape-shifting rapport in a dimly lit diner has the uncanny feel of a surreptitiously overheard conversation. Even as the two old friends talk cautiously around their shared history, the emotions between them cut loud and clear through the background clatter, proving that _Moonlight_ is at its most eloquent when its subtext is soft-spoken.<br>
+**Adam Nayman, _Sight & Sound_, March 2017**<br>
 
-Adam Nayman, _Sight & Sound_, March 2017
+**MOONLIGHT**  
+_Directed by_: Barry Jenkins  
+_©_: Dos Hermanas LLC  
+_Production Company_: Plan B, Pastel  
+_Presented by:_ A24, Plan B Entertainment  
+_Executive Producers_: Brad Pitt, Sarah Esberg, Tarell Alvin McCraney  
+_Produced by_: Adele Romanski, Dede Gardner, Jeremy Kleiner  
+_Co-producers_: Andrew Hevia,Veronica Nickel  
+_Line Producer_: Veronica Nickel  
+_Unit Production Manager_:
+
+Jennifer Radzikowski  
+_Location Manager_: Faren Humes  
+_Script Supervisor_: Melinda Taksen  
+_Casting by_: Yesi Ramirez  
+_Screenplay by_: Barry Jenkins  
+_Story by_: Tarell Alvin McCraney  
+_Cinematography by_: James Laxton  
+_Steadicam Operators_: James Baldanza, Osvaldo Silvera  
+_Visual Effects Provided by_: Significant Others  
+_Edited by_: Nat Sanders, Joi McMillon  
+_Production Designer_: Hannah Beachler  
+_Costume Designer_: Caroline Eselin-Schaefer  
+_Head Make-up_: Doniella Davy  
+_Head Hair_: Gianna Sparacino  
+_Title Design_: Sebastian Pardo, MEMORY  
+_Music by_: Nicholas Britell  
+_Violin Soloist_: Tim Fain  
+_Pianist_: Nicholas Britell  
+_Score Orchestrated by_: Nicholas Britell  
+_Score Produced by_: Nicholas Britell  
+_Production Sound Mixer_: Christopher Giles  
+_Re-recording Mixer_: Chris David  
+_Supervising Sound Editor_: Joshua Adeniji  
+_Stunt Co-ordinators_: Alexander Edlin,
+
+Artie Malesci<br>
+
+**Cast**<br>
+Trevante Rhodes _(Chiron, ‘Black’)_ 
+André Holland _(Kevin)_  
+Janelle Monáe _(Teresa)_  
+Ashton Sanders _(Chiron aged 16)_  
+Jharrel Jerome _(Kevin aged 16)_  
+Naomie Harris _(Paula)_  
+Mahershala Ali _(Juan)_  
+Shariff Earp _(Terrence)_  
+Duan ‘Sandy’ Sanderson _(Azu)_  
+Alex Hibbert _(Chiron aged 10, ‘Little’)_
+Jaden Piner _(Kevin aged 10)_  
+Patrick Decile _(Terrel)_
+
+USA 2016©
+111 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM2MjUyMjldfQ==
+eyJoaXN0b3J5IjpbODg3ODQ0Njc0XX0=
 -->
