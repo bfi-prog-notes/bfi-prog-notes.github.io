@@ -1,3 +1,14 @@
+---
+layout: post
+title: A Date with the Devil<br> Darcus Howe’s Journey from Black Power to Broadcasting
+published: true
+date: 2021-11-06
+readtime: true
+categories: ['AFRICAN ODYSSEYS']
+tags: [Talks]
+metadata:
+pdf: '2021-11-05-cause-for-concern.pdf'
+---
 
 Born in Trinidad during the dying days of British colonialism, Darcus Howe settled in the UK in the 1960s. As an activist he was central to organising political campaigns, including the historic Mangrove Nine trial and The Black Peoples’ Day of Action, 1981. Howe also became a household name with a career in broadcasting that spanned three decades from the 1980s. His politically provocative and penetrating stance was richly imbued with his passion for literature and the arts, and he brought poets, musicians and his mentor CLR James to the fore. Changing the face of TV, Howe created stimulating programming that stands as a landmark in enlightened broadcasting.
 
@@ -5,16 +16,13 @@ Join Tony Warner, of Black History Walks, and assorted special guests for a day 
 
 **Dotun Adebayo**  is a British radio presenter, writer, and publisher. He is best known for his work on _Up All Night_ on BBC Radio 5 Live, as well as the obituary programme _Brief Lives_.
 
-His columns and articles have been published in _Pride Magazine_ and the  _New Nation_, as well as broadsheet and tabloid newspapers such as  
-_The Guardian_, _The Independent_, _The Times_, _London Evening Standard_ and the _News of the World_. Some of these columns were compiled into _Can I Have My Balls Back Please_ (2000) and its sequel _Sperm Bandits_ (2002).
+His columns and articles have been published in _Pride Magazine_ and the  _New Nation_, as well as broadsheet and tabloid newspapers such as _The Guardian_, _The Independent_, _The Times_, _London Evening Standard_ and the _News of the World_. Some of these columns were compiled into _Can I Have My Balls Back Please_ (2000) and its sequel _Sperm Bandits_ (2002).
 
 Adebayo’s television work includes writing and presenting the docudrama _Sperm Bandits_, the documentary _White Girls Are Easy_ (both for Channel 4), and the weekly show _Heavy TV_. Adebayo is co-founder of Colourtelly, Britain’s first general-interest black internet television station.
 
-Adebayo founded the publishing company X Press, producing black fiction such as _Baby Father_, Victor Headley’s _Yardie_ and _Cop Killer_. He is also responsible for the Nia imprint of literary black fiction, including titles such as  
-J. California Cooper’s _In Search of Satisfaction_, and the 20/20 imprint for current generic fiction such as the best-seller _Curvy Lovebox_. Adebayo also published the comic magazine _Skank_.<br>
+Adebayo founded the publishing company X Press, producing black fiction such as _Baby Father_, Victor Headley’s _Yardie_ and _Cop Killer_. He is also responsible for the Nia imprint of literary black fiction, including titles such as J. California Cooper’s _In Search of Satisfaction_, and the 20/20 imprint for current generic fiction such as the best-seller _Curvy Lovebox_. Adebayo also published the comic magazine _Skank_.<br>
 
-**Tariq Ali**  is a writer, journalist and filmmaker. He was educated at Oxford University, where he became involved in student politics, in particular with the movement against the war in Vietnam. On graduating he led the Vietnam Solidarity Campaign. He owned his own independent television production company, Bandung, which produced programmes for Channel 4 in the UK during the 1980s. He is a regular broadcaster on BBC Radio and contributes articles and journalism to magazines and newspapers including  
-_The Guardian_ and the _London Review of Books_. He is editorial director of London publishers Verso and is on the board of the _New Left Review_, for whom he is also an editor.
+**Tariq Ali**  is a writer, journalist and filmmaker. He was educated at Oxford University, where he became involved in student politics, in particular with the movement against the war in Vietnam. On graduating he led the Vietnam Solidarity Campaign. He owned his own independent television production company, Bandung, which produced programmes for Channel 4 in the UK during the 1980s. He is a regular broadcaster on BBC Radio and contributes articles and journalism to magazines and newspapers including _The Guardian_ and the _London Review of Books_. He is editorial director of London publishers Verso and is on the board of the _New Left Review_, for whom he is also an editor.
 
 His fiction includes a series of historical novels about Islam: _Shadows of the Pomegranate Tree_ (1992), _The Book of Saladin_ (1998), _The Stone Woman_ (2000), _A Sultan in Palermo_ (2005), and _Night of the Golden Butterfly_ (2010). These five books are collectively known as ‘The Islam Quintet’.
 
@@ -165,6 +173,20 @@ when yuh laugh
 yuh blind yuh eye to it?  
 But mi know yuh believe it  
 mi know yuh believe it
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4NDYxMjg5XX0=
--->
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
