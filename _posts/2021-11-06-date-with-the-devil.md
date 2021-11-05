@@ -1,13 +1,11 @@
-<![endif]-->
 
 Born in Trinidad during the dying days of British colonialism, Darcus Howe settled in the UK in the 1960s. As an activist he was central to organising political campaigns, including the historic Mangrove Nine trial and The Black Peoples’ Day of Action, 1981. Howe also became a household name with a career in broadcasting that spanned three decades from the 1980s. His politically provocative and penetrating stance was richly imbued with his passion for literature and the arts, and he brought poets, musicians and his mentor CLR James to the fore. Changing the face of TV, Howe created stimulating programming that stands as a landmark in enlightened broadcasting.
 
-Join Tony Warner, of Black History Walks, and assorted special guests for a day in which we explore Howe’s activist years and examine how they connect to his work in TV through talks, interviews and a wealth of clips with contributions from key figures including writer and exec producer Farrukh Dhondy, and Race Today Collective founding member and fellow activist, Leila Hassan.
+Join Tony Warner, of Black History Walks, and assorted special guests for a day in which we explore Howe’s activist years and examine how they connect to his work in TV through talks, interviews and a wealth of clips with contributions from key figures including writer and exec producer Farrukh Dhondy, and Race Today Collective founding member and fellow activist, Leila Hassan.<br>
 
 **Dotun Adebayo**  is a British radio presenter, writer, and publisher. He is best known for his work on _Up All Night_ on BBC Radio 5 Live, as well as the obituary programme _Brief Lives_.
 
-His columns and articles have been published in _Pride Magazine_ and the  
-_New Nation_, as well as broadsheet and tabloid newspapers such as  
+His columns and articles have been published in _Pride Magazine_ and the  _New Nation_, as well as broadsheet and tabloid newspapers such as  
 _The Guardian_, _The Independent_, _The Times_, _London Evening Standard_ and the _News of the World_. Some of these columns were compiled into _Can I Have My Balls Back Please_ (2000) and its sequel _Sperm Bandits_ (2002).
 
 Adebayo’s television work includes writing and presenting the docudrama _Sperm Bandits_, the documentary _White Girls Are Easy_ (both for Channel 4), and the weekly show _Heavy TV_. Adebayo is co-founder of Colourtelly, Britain’s first general-interest black internet television station.
@@ -168,5 +166,5 @@ yuh blind yuh eye to it?
 But mi know yuh believe it  
 mi know yuh believe it
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTEyNzgyNF19
+eyJoaXN0b3J5IjpbNTA4NDYxMjg5XX0=
 -->
