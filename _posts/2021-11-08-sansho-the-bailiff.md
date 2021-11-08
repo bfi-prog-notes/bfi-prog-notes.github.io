@@ -77,8 +77,7 @@ Kanji Koshiba _(Kaikudo Naito, finance minister’s envoy)_
 Ryônosuke Azuma _(owner of brothel on Sado)_  
 Yukio Horikita _(Jirô of Sado)_  
 Hachirô Ôkuni _(Saburo Miyazaki)_  
-Rôsuke Kagawa_  
-(Donmô, priest of Nakayama temple)_  
+Rôsuke Kagawa _(Donmô, priest of Nakayama temple)_  
 Jun’nosuke Hayama _(old priest)_  
 Kazuyoshi Tamachi _(justice of the peace)_  
 Akiyoshi Kikuno _(prison guard)_  
@@ -94,9 +93,9 @@ Gôro Nakanishi _(guard)_
 Keiko Koyanagi, Kazuko Maeda _(prostitutes)_  
 Eiji Ishikura, Akira Shiga, Shirô Osaki _(farmers)_
 
-Japan 1954
-
+Japan 1954  
 124 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0NDIyMTg3XX0=
+eyJoaXN0b3J5IjpbLTY4ODk2MjQxNV19
 -->
