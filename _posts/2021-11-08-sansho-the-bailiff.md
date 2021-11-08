@@ -19,11 +19,9 @@ Mizoguchi denounced the wrongs of the Japanese military but also put forth the c
 Mizoguchi’s legacy comes full circle in Kore-eda’s 2018 masterpiece _Shoplifters_ (_Nambiki kazoku_), winner of the Cannes Film Festival Palme d’Or.  
 Its French title is _Une affaire de famille_ and asks the twin questions Mizoguchi posed over 60 years ago: What is a family? And is it jeopardised or strengthened by compassion for those outside it? Neither director has the answers but both share a fear similar to our own when we find ourselves riveted to the latest news of violence on our borders. The family is a microcosm of the nation, these films seem to say, and without governance based on an ethics of compassion, the threat is not outside us but within ourselves.  
 **Foreword to the 2020 edition of _Sansho Dayu_ (Dudley Andrew and Carole Cavanaugh,  BFI Film Classics). Reproduced by kind permission of Bloomsbury Publishing.  ©Dudley Andrew and Carole Cavanaugh**
+<br><br>
 
-<![endif]-->
-
-**SANSHO THE BAILIFF (SANSHO DAYU)**
-
+**SANSHO THE BAILIFF (SANSHO DAYU)**  
 _Director_: Kenji Mizoguchi  
 _Production Company_: Daiei  
 _Producer_: Masaichi Nagata  
@@ -37,7 +35,7 @@ _Lighting_: Kenichi Okamoto
 _Lighting Assistant_: Yasuo Iwaki  
 _Assistant Photographer_: Shozo Tanaka  
 _Editor_: Mitsuzô Miyata  
-_Art Director_: Kisaku Itô, Kozaburô Nakajima  
+_Art Directors_: Kisaku Itô, Kozaburô Nakajima  
 _Assistant Art Director_: Akira Naitô  
 _Set Decorator_: Uichirô Yamamoto  
 _Paintings_: Tazaburô Ôta  
@@ -46,22 +44,16 @@ _Costumes_: Yoshio Ueno, Yoshima Shima
 _Make-up_: Masanori Kobayashi  
 _Hairstyles_: Ritsu Hanai  
 _Music_: Fumio Hayasaka  
-_Traditional Music_: Kinshichi Kodera,  
-Tamezô Mochizuki  
+_Traditional Music_: Kinshichi Kodera,  Tamezô Mochizuki  
 _Music Director_: Kisaku Mizoguchi  
 _Sound Recording_: Iwao Ôtani  
 _Assistant Sound Recording_: Kyôichi Emura  
 _Fight Consultant_: Shôhei Miyauchi
 
-_Cast:_
-
-Kinuyo Tanaka_  
-(Tamaki, Lady Taira, later ‘Nakagimi’)_  
-Yoshiaki Hanayaki
-
-_(Zushiô, Tamaki’s son, later ‘Mutsu-Waka’)_  
-Kyôko Kagawa_  
-(Anju, Tamaki’s daughter, later ‘Shinobu’)_  
+**Cast**  
+Kinuyo Tanaka _(Tamaki, Lady Taira, later ‘Nakagimi’)_  
+Yoshiaki Hanayaki _(Zushiô, Tamaki’s son, later ‘Mutsu-Waka’)_  
+Kyôko Kagawa _(Anju, Tamaki’s daughter, later ‘Shinobu’)_  
 Eitarô Shindô _(Sansho the bailiff)_  
 Akitake Kôno _(Tarô, Sansho’s son)_  
 Ken Mitsuda _(Morozane Fujiwara, prime minister)_  
@@ -81,8 +73,7 @@ Yôko Kosono _(Kohagi, young slave)_
 Kimiko Tachibana _(Namiji, old slave)_  
 Ichiro Sugai _(Nio, old slave who tries to escape)_  
 Yukiko Soma _(Kayano, slave)_  
-Kanji Koshiba_  
-(Kaikudo Naito, finance minister’s envoy)_  
+Kanji Koshiba _(Kaikudo Naito, finance minister’s envoy)_  
 Ryônosuke Azuma _(owner of brothel on Sado)_  
 Yukio Horikita _(Jirô of Sado)_  
 Hachirô Ôkuni _(Saburo Miyazaki)_  
@@ -107,5 +98,5 @@ Japan 1954
 
 124 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzU3ODY4N119
+eyJoaXN0b3J5IjpbNjc0NDIyMTg3XX0=
 -->
