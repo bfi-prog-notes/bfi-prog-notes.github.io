@@ -107,7 +107,7 @@ Japan 1954
 
 _Sansho Dayu_ (new edition) by Dudley Andrew and Carole Cavanaugh is available to buy from the BFI Shop: **https://shop.bfi.org.uk/sansho-dayu-sansho-the-bailiff-bfi-film-classics.html**
 
-<img style="float: left;" src="/img/sansho_dayu_bfi_film_classics.jpg" width="40%" height="40%"><br>
+<img style="float: left;" src="/img/sanshu_dayo_bfi_film_classics.jpg" width="40%" height="40%"><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 **JAPAN 2021**<br>
