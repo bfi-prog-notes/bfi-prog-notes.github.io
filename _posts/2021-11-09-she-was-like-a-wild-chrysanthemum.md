@@ -13,43 +13,30 @@ Such then is the art of Kinoshita. Far from the violence or the fascinated perce
 **National Film Theatre programme notes**
 <br><br>
 
-**SHE WAS LIKE A WILD CHRYSANTHEMUM**<br>**(NOGIKU NO GOTOKI KIMI NARIKI)**
-
+**SHE WAS LIKE A WILD CHRYSANTHEMUM**<br>**(NOGIKU NO GOTOKI KIMI NARIKI)**<br>
 _Director_: Keisuke Kinoshita  
-_Production Company_: Shochiku Co. Ltd.
+_Production Company_: Shochiku Co. Ltd.<br>
+_Producer:_ Kiyoshi Takamura<br>
+_Screenplay:_ Keisuke Kinoshita<br>
+_From a novel by:_ Sachio Ito<br>
+_Director of Photography:_ Hiroyuki Kusada<br>
+_Art Director:_ Kisaku Ito<br>
+_Music:_ Chuji Kinoshita<br>
 
-_Producer:_ Kiyoshi Takamura
-
-_Screenplay:_ Keisuke Kinoshita
-
-_From a novel by:_ Sachio Ito
-
-_Director of Photography:_ Hiroyuki Kusada
-
-_Art Director:_ Kisaku Ito
-
-_Music:_ Chuji Kinoshita
-
-_Cast:_
-
-Shinji Tanaka _(Masao)_  
-Noriko Arita _(Tamiko)_
-
-Haruko Sugimura _(Masao’s mother)_
-
+**Cast**<br>
+Shinji Tanaka _(Masao)_<br>  
+Noriko Arita _(Tamiko)_<br>
+Haruko Sugimura _(Masao’s mother)_<br>
 Kasuko Yamamoto _(Sada)_  
-Chishu Ryu _(Masao as an old man)_
-
-Keiko Yukishiro
-
-Kumeko Urabe
-
-Takahiro Tamura
-
+Chishu Ryu _(Masao as an old man)_<br>
+Keiko Yukishiro<br>
+Kumeko Urabe<br>
+Takahiro Tamura<br>
 Toshiko Kobayashi  
-Japan 1955
 
+Japan 1955<br>
 92 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTQ2NTYyOF19
+eyJoaXN0b3J5IjpbMTE5NTYzNTE3Ml19
 -->
