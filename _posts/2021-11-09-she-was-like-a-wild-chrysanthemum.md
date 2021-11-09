@@ -34,7 +34,7 @@ _Art Director:_ Kisaku Ito<br>
 _Music:_ Chuji Kinoshita<br>
 
 **Cast**<br>
-Shinji Tanaka _(Masao)_<br>  
+Shinji Tanaka _(Masao)_<br>
 Noriko Arita _(Tamiko)_<br>
 Haruko Sugimura _(Masao’s mother)_<br>
 Kasuko Yamamoto _(Sada)_  
