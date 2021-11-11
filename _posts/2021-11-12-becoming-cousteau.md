@@ -22,7 +22,47 @@ our planet.’
 ‘Famously, Cousteau said that people only protect what they love, and that was the greatest gift he gave us,’ Garbus says. ‘He showed us the sea and inspired us to love all that was in it, and in so doing, he created generations of conservationists.’
 
 In _Becoming Cousteau_, two-time Academy Award nominee Liz Garbus (_All In: The Fight for Democracy_, _What Happened, Miss Simone?_ and _The Farm: Angola, USA_) worked with almost 550 hours of archival footage. This included over 240 hours of Cousteau’s videos as well as footage from The Cousteau Society, which contains nearly 100 hours of rarely-seen footage from before he became one of the most important environmental figures of the 20th century. Additionally, over 100 hours of Cousteau’s audio journals, interviews and conversations with cohorts and friends help make _Becoming Cousteau_ an intimate and immersive experience into the life of the French explorer. Garbus eschews talking-head interviews in favour of an intricately knit pastiche of Cousteau’s own words with archival and present-day audio interviews of those who knew him best in order to live and breathe in his visual world for the entirety of the film.<br>
-**Production notes**
+**Production notes**<br>
+
+
+**BECOMING COUSTEAU**<br>
+_Directed by_: Liz Garbus  
+©: NGC Network US LLC  
+_A_ Story Syndicate _production_  
+_In association with_: The Cousteau Society, ACE Content, Diamond Docs  
+_Presented by_:  
+National Geographic Documentary Films  
+_Executive Producers_: Julie Gaither,  
+Carolyn Bernstein, Ryan Harrington  
+_Produced by_: Liz Garbus, Dan Cogan,  
+Mridu Chandra_,_ Evan Hayes  
+_Co-producers_: Francine Cousteau, Pierre-Yves Cousteau, Diane Cousteau  
+_Archival Producer_: Briana Bierman  
+_Line Producer_: Elyse Hughes  
+_Post-production Supervisor_: Samantha Gordon Stoyanovich  
+_Written by_: Mark Monroe, Pax Wassermann  
+_Motion Graphics & Visual Effects by_: Design Syndicate  
+_Edited by_: Pax Wassermann  
+_Associate Editor_: Shelby Hougui  
+_Music by_: Danny Bensi, Saunder Jurriaans  
+_Music Supervisor_: Heather Kreamer  
+_Sound Design_: Daniel Timmons  
+_Interview Recordists_: Eber Pinheiro, Mike Fowler, Michaël Dravigny, Emilie Haterrer, Julien Basseres, Dylan Schwartz  
+_Chief Sound Engineer_: Avi Laniado  
+_Sound Engineer_: Joel Schueneman  
+_Re-recording Mixer_: Tony Volante  
+_Sound Editorial and Mix Services_: Harbor  
+_Co-supervising Sound Editors_: Tony Volante, Daniel Timmons  
+_Assistant Sound Editor_: Giuseppe Cappello
+
+_With the voice of:_  
+Vincent Cassel
+
+USA 2021
+
+94 mins
+
+A Dogwoof release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzY0ODUzMl19
+eyJoaXN0b3J5IjpbMTU5OTc2MzMxOF19
 -->
