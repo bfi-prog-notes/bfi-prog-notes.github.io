@@ -54,15 +54,37 @@ _Re-recording Mixer_: Tony Volante
 _Sound Editorial and Mix Services_: Harbor  
 _Co-supervising Sound Editors_: Tony Volante, Daniel Timmons  
 _Assistant Sound Editor_: Giuseppe Cappello
-
 _With the voice of:_  
-Vincent Cassel
+Vincent Cassel<br>
 
-USA 2021
+USA 2021<br>
+94 mins<br>
+<br>
 
-94 mins
+**NEW RELEASES**<br>
+**Never Gonna Snow Again**
+**(Sniegu juz nigdy nie bedzie)**
+From Fri 22 Oct
+**The French Dispatch**
+From Fri 29 Oct
+**Becoming Cousteau**
+From Fri 12 Nov 14:40
+**Petite Maman**
+From Fri 26 Nov
+**Rebel Dykes**
+From Fri 26 Nov (+ Q&A Fri 26 Nov 18:20)
+**Swan Song**
+From Fri 17 Dec
 
-A Dogwoof release
+**RE-RELEASES**
+**Seven Samurai (Shichinin no Samurai)**
+From Fri 29 Oct
+**Naked**
+From Fri 12 Nov; Sat 13 Nov 17:20 (+ Q&A with director Mike Leigh, David Thewlis and Lesley Sharp)
+**The Shop around the Corner**
+From 3 December<br>
+
+A Dogwoof release<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTc2MzMxOF19
+eyJoaXN0b3J5IjpbMjAyODIxMTc1NV19
 -->
