@@ -52,24 +52,18 @@ I’ve always thought it a good thing if you can make a film that works commerci
 _It’s rare to see a film about such a singularly good person as Vera that  
 remains engaging._
 
-For me that was the biggest challenge. I’m quite good at characters who are quirky and complicated, though I’ve dealt with characters who are good people too – for instance, Maurice in _Secrets & Lies_ is a precursor to Vera. Though Vera is an organic creation, her character is driven by the morality of the film: this is a good person whom society casts in the role of a criminal.
+For me that was the biggest challenge. I’m quite good at characters who are quirky and complicated, though I’ve dealt with characters who are good people too – for instance, Maurice in _Secrets & Lies_ is a precursor to Vera. Though Vera is an organic creation, her character is driven by the morality of the film: this is a good person whom society casts in the role of a criminal.  
+**Interview by Edward Lawrenson, _Sight & Sound_, January 2005**
+<br><br>
 
-Interview by Edward Lawrenson, _Sight & Sound_, January 2005
-
-<![endif]-->
-
-**VERA DRAKE**
-
+**VERA DRAKE**  
 _Director_: Mike Leigh  
 ©: Untitled 03 Limited, Les Films Alain Sarde  
 ©_/Presented by_: UK Film Council  
-_Production Companies_: Thin Man Films,  
-Les Films Alain Sarde  
+_Production Companies_: Thin Man Films,  Les Films Alain Sarde  
 _For_: Inside Track 1 LLP  
 _Production Company_: Inside Track  
-_Made with the support of_:  
-National Lottery through UK Film Council,  
-UK Film Council Premiere Fund  
+_Made with the support of_:  National Lottery through UK Film Council,  UK Film Council Premiere Fund  
 _Presented by_: Fine Line Features, Alain Sarde  
 _International Sales_: StudioCanal  
 _Executive Producers_: Robert Jones, Gail Egan, Duncan Reid, Christine Gozlan  
@@ -88,8 +82,7 @@ _2nd Assistant Directors_: Dan John, Hayley Williams
 _3rd Assistant Directors_: Sarah Coombs, Merry Irwin  
 _Set 3rd Assistant Director_: Darren Price  
 _Additional 2nd Assistant Director_: Nick Shuttleworth  
-_Additional 3rd Assistant Directors_:  
-Robert Burgess, Sam Smith, Toby Leigh  
+_Additional 3rd Assistant Directors_:  Robert Burgess, Sam Smith, Toby Leigh  
 _Script Supervisor_: Heather Storr  
 _Casting_: Nina Gold  
 _Written by_: Mike Leigh  
@@ -207,5 +200,5 @@ UK/France/USA 2004©
 
 125 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODAwNDI5OF19
+eyJoaXN0b3J5IjpbODg1MTU2OTE3XX0=
 -->
