@@ -134,8 +134,7 @@ _World War II Adviser_: Terry Charman
 _Motor Car Adviser_: Clive Loveless  
 _Publicity (McDonald & Rutter)_: Jonathan Rutter
 
-_Cast:_
-
+**Cast**  
 Imelda Staunton _(Vera Drake)_  
 Phil Davis _(Stan Drake)_  
 Peter Wight _(Detective Inspector Webster)_  
@@ -196,9 +195,9 @@ Stephan Dunbar _(usher)_
 Angela Curran, Jane Wood _(prisoners)_  
 Eileen Davies _(prison officer)_
 
-UK/France/USA 2004©
-
+UK/France/USA 2004©  
 125 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1MTU2OTE3XX0=
+eyJoaXN0b3J5IjpbLTIzMjA5NjgyOV19
 -->
