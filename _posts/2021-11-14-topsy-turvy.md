@@ -75,7 +75,7 @@ _Foley Walker_: Pauline Griffiths
 _Foley Mixer_: Ed Colyer  
 _Foley Editor_: Paul Wrightson
 
-_Cast**  
+**Cast**  
 Jim Broadbent _(William Schwenck Gilbert)_  
 Allan Corduner _(Arthur Sullivan)_  
 Timothy Spall _(Richard Temple)_  
@@ -166,7 +166,9 @@ Nicola Wainwright _(Miss Betts)_
 Angie Wallis _(Miss Wilkinson)_  
 Kevin Walton _(Mr Evans)_
 
-UK 1999©  160 mins
+UK 1999©  
+160 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjM5OTk5M119
+eyJoaXN0b3J5IjpbLTIwNDc1NzMyOTRdfQ==
 -->
