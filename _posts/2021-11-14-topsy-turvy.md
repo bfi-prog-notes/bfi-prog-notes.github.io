@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Topsy-Turvy<br>+ Q&A with Mike Leigh
+published: true
+date: 2021-11-14
+readtime: true
+categories: ['MIKE LEIGH']
+tags: [Drama, Period, Musical]
+metadata: 'UK, 1999, 160 mins<br> Director: Mike Leigh'
+pdf: '2021-11-14-topsy-turvy.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -6,18 +16,15 @@ Imagine how startled you’d be to discover that Krzysztof Kieslowski had secret
 
 Mercifully not, though there are a few stretches in this film where he teeters on the brink. Leigh’s appetite for the music is evidently immense, resulting in too many indulgent performances of their songs. Yet there’s still plenty here to satisfy Leigh devotees, if they can peer past the aspidistras. The staging is as rich and complex as one would expect, there is the typically judicious balance of heartbreak and farce, and there are several diamond-sharp moments when an apparently casual observation illuminates a whole architecture of social assumptions.
 
-Nonetheless, the film marks an inarguable departure. Leigh is dealing with real historical figures, flirting with traditional genres (the biopic, the backstage musical, the dreaded heritage movie), and shedding his trademark heightened naturalism for a full-blooded plunge into thespian excess. Theatricality is not just the hallmark of the film’s method, it forms one of its principal subjects.  
-This allows Leigh (who is also, let’s not forget, a seasoned stage director) and his actors to have great fun recreating a world of backstage bitching and production politics while simultaneously indicating how people’s egos, health and relationships suffer in such a hothouse atmosphere. Timothy Spall’s performance as the ageing star Richard Temple, for example, is a perfectly judged study of juxtaposed fragility and bombast. Throughout the film, Leigh contrasts on-stage polish with private insecurity, the latter manifesting itself in alcoholism, drug dependency and dangerous levels of vanity.
+Nonetheless, the film marks an inarguable departure. Leigh is dealing with real historical figures, flirting with traditional genres (the biopic, the backstage musical, the dreaded heritage movie), and shedding his trademark heightened naturalism for a full-blooded plunge into thespian excess. Theatricality is not just the hallmark of the film’s method, it forms one of its principal subjects.  This allows Leigh (who is also, let’s not forget, a seasoned stage director) and his actors to have great fun recreating a world of backstage bitching and production politics while simultaneously indicating how people’s egos, health and relationships suffer in such a hothouse atmosphere. Timothy Spall’s performance as the ageing star Richard Temple, for example, is a perfectly judged study of juxtaposed fragility and bombast. Throughout the film, Leigh contrasts on-stage polish with private insecurity, the latter manifesting itself in alcoholism, drug dependency and dangerous levels of vanity.
 
-He’s also keen to explore the dynamics of creativity, setting the happily repetitive librettist Gilbert (Jim Broadbent) in conflict with composer Sullivan’s loftier ideals. Gilbert finds it both perplexing and hurtful that Sullivan (Allan Corduner) wishes to dispense with a hit formula, while Sullivan is terrified of being so seduced by a profitable rut he might never fulfil his true potential.  
-This tension between them is so fundamental Sullivan’s abrupt change of heart to embrace _The Mikado_ strikes one of the film’s few false notes. It’s tempting to speculate how their dispute relates to Leigh himself. Following the huge success of _Secrets & Lies_ (after which _Career Girls_, for all its deft pleasures, did little more than mark time), should he choose a Gilbertian path of more-of-the-same, or follow Sullivan towards ambition and risk? In such a context, _Topsy-Turvy_’s unexpected lurch into costume territory seems a bold move, paradoxically lending a dash of daring to this usually ultra-conservative format.
+He’s also keen to explore the dynamics of creativity, setting the happily repetitive librettist Gilbert (Jim Broadbent) in conflict with composer Sullivan’s loftier ideals. Gilbert finds it both perplexing and hurtful that Sullivan (Allan Corduner) wishes to dispense with a hit formula, while Sullivan is terrified of being so seduced by a profitable rut he might never fulfil his true potential.  This tension between them is so fundamental Sullivan’s abrupt change of heart to embrace _The Mikado_ strikes one of the film’s few false notes. It’s tempting to speculate how their dispute relates to Leigh himself. Following the huge success of _Secrets & Lies_ (after which _Career Girls_, for all its deft pleasures, did little more than mark time), should he choose a Gilbertian path of more-of-the-same, or follow Sullivan towards ambition and risk? In such a context, _Topsy-Turvy_’s unexpected lurch into costume territory seems a bold move, paradoxically lending a dash of daring to this usually ultra-conservative format.
 
 On the surface, Leigh’s script urges us to root for Sullivan, not so much because he is particularly admirable but because Gilbert is such a buffoon. Broadbent, however, is so magnificent as Gilbert we can see beneath the gruff foolishness of the facade to the emotionally stunted man underneath. The son of two clearly deranged parents and the husband in a stilted marriage, Gilbert clings to his formulaic writing because formulas offer certainty, a certainty unattainable in the destabilising realm of emotions. This fear of feeling provides the film with an emotional climax that’s one of the greatest scenes in any Leigh film, as Gilbert’s wife Kitty (Lesley Manville, hitherto underused) finally, if obliquely, confesses her longing for children. Gilbert listens as she hovers on the edge of a breakdown but can offer her nothing but bluff masculine evasion. The English dread of open emotion is one of Leigh’s abiding obsessions (it forms the core of his excruciatingly precise first film _Bleak Moments_), and his ability to locate it even here, amid all those galumphingly good-humoured songs, is another reason why _Topsy-Turvy_ is more than just another  costume outing.
 
 It’s this attention to the anxious underbelly of Victorian culture that does most to save _Topsy-Turvy_ from descending into pictorialism. The film leaves us in no doubt that 19th-century England was a society founded on sexual hypocrisy and funded by imperial exploitation. The first threads through the film in various guises: Sullivan’s trips to overseas brothels, the Gilberts’ barren marriage, the fine lines actresses must tread between propriety and scandal, the repression and hysteria in the home of Gilbert’s mother and unmarried sisters. Imperialism emerges in the unadorned racism prompted by the news of General Gordon’s defeat at Khartoum and the greedy appropriation that twists the nuances of Japanese culture into the slant-eyed pantomime of _The Mikado_.
 
-There are other, more tantalising asides which further underline how the gathering momentum of modernity was unsettling the texture of the times.  
-A running joke concerns the impact of new-fangled technologies such as the electric doorbell, the fountain pen and the telephone, but it’s a joke with darker implications about how older ways of communicating were being sidelined. These social comments are never crassly driven home, but they resonate strongly in the mind afterwards. _Topsy-Turvy_, like _Life Is Sweet_ or _Meantime_, steeps you in a culture so deeply it’s only by looking back and peering closely you can detect how wider forces have cruelly impinged on individual lives.  In that sense, despite its initially disorienting costume trappings, it’s very much ‘a Mike Leigh film’ after all.  
+There are other, more tantalising asides which further underline how the gathering momentum of modernity was unsettling the texture of the times.  A running joke concerns the impact of new-fangled technologies such as the electric doorbell, the fountain pen and the telephone, but it’s a joke with darker implications about how older ways of communicating were being sidelined. These social comments are never crassly driven home, but they resonate strongly in the mind afterwards. _Topsy-Turvy_, like _Life Is Sweet_ or _Meantime_, steeps you in a culture so deeply it’s only by looking back and peering closely you can detect how wider forces have cruelly impinged on individual lives.  In that sense, despite its initially disorienting costume trappings, it’s very much ‘a Mike Leigh film’ after all.  
 **Andy Medhurst, _Sight and Sound_, March 2000**
 <br><br>
 
@@ -169,6 +176,77 @@ Kevin Walton _(Mr Evans)_
 UK 1999©  
 160 mins
 <br><br>
+
+**MIKE LEIGH<br>A COMPLETE FILM SEASON**<br>
+**Bleak Moments**<br>
+Mon 18 Oct 20:40; Thu 28 Oct 18:00<br>
+**Nuts in May**<br>
+Wed 20 Oct 18:00; Sun 31 Oct 11:20 (+ Q&A with Mike Leigh, Alison Steadman, Roger Sloman, Anthony O’Donnell, Stephen Bill and Sheila Kelley)<br>
+**The Kiss of Death + The Permissive Society**<br>
+Sat 23 Oct 12:50<br>
+**Hard Labour**<br>
+Sat 23 Oct 15:10<br>
+**Happy-Go-Lucky**<br>
+Sun 24 Oct 14:50 (+ Q&A with Mike Leigh, Sally Hawkins, Alexis Zegerman and Kate O’Flynn);  
+Mon 15 Nov 20:40<br>
+**Meantime**<br>
+Sun 24 Oct 18:00 (+ Q&A with Mike Leigh,  
+Marion Bailey and Phil Daniels); Thu 11 Nov 20:45<br>
+**Secrets & Lies**<br>
+Mon 25 Oct 14:30; Sat 6 Nov 19:00 (+ Q&A with Mike Leigh); Sat 27 Nov 15:00<br>
+**Abigail’s Party**<br>
+Tue 26 Oct 20:50; Sun 14 Nov 12:00 (+ Q&A with Mike Leigh)<br>
+**High Hopes**<br>
+Thu 28 Oct 14:30; Tue 2 Nov 18:45 (+ Q&A with Mike Leigh, Ruth Sheen and Phil Davis);  Thu 11 Nov 18:00; Sat 20 Nov 20:30<br>
+**Life Is Sweet**<br>
+Tue 28 Oct 17:50 (+ Q&A with Mike Leigh);  
+Thu 4 Nov 18:15; Tue 23 Nov 20:50<br>
+**Grown-Ups + The Short and Curlies**<br>
+Sat 30 Oct 17:15 (+ Q&A with Mike Leigh);  
+Tue 30 Nov 14:15<br>
+**Home Sweet Home**<br>
+Mon 1 Nov 17:50 (+ Q&A with Mike Leigh);  
+Sat 6 Nov 11:45<br>
+**All or Nothing**<br>
+Wed 3 Nov 20:30; Wed 10 Nov 20:30; Sun 21 Nov 17:10 (+ Q&A with Mike Leigh, Lesley Manville and Marion Bailey)<br>
+**Career Girls**<br>
+Fri 5 Nov 20:50; Fri 12 Nov 18:15; Tue 23 Nov 18:00 (+ Q&A with Mike Leigh)<br>
+**Vera Drake**<br>
+Fri 12 Nov 20:40; Fri 26 Nov 17:40 (+ Q&A with Mike Leigh, Imelda Staunton and Phil Davis)<br>
+**Topsy-Turvy**<br>
+Sun 14 Nov 17:30 (+ Q&A with Mike Leigh and  
+Jim Broadbent); Sun 28 Nov 17:40<br>
+**Another Year**<br>
+Fri 19 Nov 17:30 (+ Q&A with Mike Leigh, Ruth Sheen and Lesley Manville); Mon 29 Nov 20:30<br>
+**Four Days in July**<br>
+Sat 20 Nov 11:50 (+ Q&A with Mike Leigh and  
+Bríd Brennan); Wed 24 Nov 14:15<br>
+**Peterloo**<br>
+Sat 20 Nov 16:20 (+ Q&A with Mike Leigh);  
+Mon 29 Nov 17:40<br>
+**Mr. Turner**<br>
+Sun 21 Nov 13:10 (+ Q&A with Mike Leigh, Marion Bailey and Dorothy Atkinson); Sat 27 Nov 17:30<br>
+**Who’s Who + A Sense of History  + A Running Jump**<br>
+Sat 30 Nov 14:00<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwNDc1NzMyOTRdfQ==
 -->
