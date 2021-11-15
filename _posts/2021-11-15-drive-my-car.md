@@ -111,8 +111,8 @@ Sat 27 Nov 15:50<br>
 **Seniors’ Free Matinee, in partnership with African Odysseys: Once Upon a Time... When We Were Colored + intro**<br>
 Mon 29 Nov 14:00<br>
 **Relaxed Screening: Petite Maman**<br>
-Tue 30 Nov 18:15
+Tue 30 Nov 18:15<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTMwMjQzNywtNDA1ODAxNjY3LC0xNT
+eyJoaXN0b3J5IjpbLTM5NjIxOTY3MSwtNDA1ODAxNjY3LC0xNT
 gzMzg1MDk5XX0=
 -->
