@@ -16,12 +16,10 @@ Role play and performance fascinate Hamaguchi, as evidenced in _Happy Hour_ and,
 _Uncle Vanya_ comprises actors who use Japanese, Korean, Mandarin and Korean  
 Sign Language.
 
-Like Hamaguchi, Mr Kafuku is interested in what can be said, emoted, translated and felt. Perhaps therein lies the key to his melancholy – Mr Kafuku’s difficulty in expressing feelings breeds an interest in studying ways of expressing them. His late wife was called Oto; the written character for her name means ‘sound’, Mr Kafuku tells Misaki. Even after Oto’s death her sound resonates through Mr Kafuku and Misaki’s days, by way of the cassette recordings she made to help him learn scripts. As the Saab glides north, one gets the feeling that Mr Kafuku is growing closer not only to Misaki but also to Oto, the one woman driving his car, the other delivering him his lines.
+Like Hamaguchi, Mr Kafuku is interested in what can be said, emoted, translated and felt. Perhaps therein lies the key to his melancholy – Mr Kafuku’s difficulty in expressing feelings breeds an interest in studying ways of expressing them. His late wife was called Oto; the written character for her name means ‘sound’, Mr Kafuku tells Misaki. Even after Oto’s death her sound resonates through Mr Kafuku and Misaki’s days, by way of the cassette recordings she made to help him learn scripts. As the Saab glides north, one gets the feeling that Mr Kafuku is growing closer not only to Misaki but also to Oto, the one woman driving his car, the other delivering him his lines.<br>
+**Becca Voelcker, _Sight and Sound_, December 2021**
 
-Becca Voelcker, _Sight and Sound_, December 2021
-
-**Ryusuke Hamaguchi on ‘Drive My Car’**
-
+**Ryusuke Hamaguchi on ‘Drive My Car’**<br>
 _Can you drive a car?_
 
 Not at all. (Laughs) I do have a licence, but I don’t drive on my own. In my entire life I think I drove a car three times and that’s it.
@@ -48,5 +46,5 @@ _The play in the film is in different languages. Where did that come from?_
 I actually thought of using that for a different project. That was supposed to be a story of a Japanese actress going to France. There she acts to people from different countries, but her performance is entirely in Japanese so that people don’t understand the words, only her expressions. The project probably won’t happen but the idea stayed with me.  And since I was thinking about a unique method of work for Kafuku, I realised it suits him well. The method has a sense of avant-garde approach but, above all else, it’s very simplistic. Aside from the meaning of words we use, there is also a sense of connection, attention towards the texture of voice or body language. Our body starts to send us a spectrum of feelings. This is when our receptivity invites us to observe and listen. And while we do that simple performance, it starts to pile up, and we are allowed to feel the natural flow of emotions. It seemed to be a simple method from the start, but once I tried it, I realised it does indeed do wonders.<br>
 **Interview by Łukasz Mańkowski, _Sight and Sound_, December 2021**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI3OTAzMzldfQ==
+eyJoaXN0b3J5IjpbMTE4MjIyNTkxN119
 -->
