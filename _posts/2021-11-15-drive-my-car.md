@@ -85,6 +85,34 @@ Japan 2021<br>
 \* Uncredited<br>
 
 Courtesy of Modern Films<br>
+<br>
+
+**IN PERSON & PREVIEWS**<br>
+**Preview: Drive My Car (Doraibu mai kâ)**<br>
+Mon 15 Nov 19:40<br>
+**Preview: The Hand of God (È stata la mano di Dio)**<br>
+Thu 18 Nov 18:30<br>
+**Preview: Pirates + Q&A with writer-director Reggie Yates and actors Elliot Edusah, Jordan Peters and Reda Elazouar**<br>
+Sat 20 Nov 20:40<br>
+**Preview: Encanto + Q&A with director Jared Bush, co-director Charise Castro Smith, producer Clark Spencer and Yvett Marino**<br>
+Sun 21 Nov 11:30<br>
+**Preview: Boxing Day + Q&A with writer-director Aml Ameen**<br>
+Sat 27 Nov 18:30<br>
+**TV Preview: The Amazing Mr Blunden + Q&A with writer-director-actor Mark Gatiss and actor Tamsin Greig**<br>
+Mon 29 Nov 18:15<br>
+
+**REGULAR PROGRAMME**<br>
+**Terror Vision: Tales from the Hood**<br>
+Thu 25 Nov 20:40<br>
+**Missing Believed Wiped Session 1: The London Palladium Show**<br>
+Sat 27 Nov 13:00<br>
+**Missing Believed Wiped Session 2: Introducing ‘The Precious Things’: Holiday Startime**<br>
+Sat 27 Nov 15:50<br>
+**Seniors’ Free Matinee, in partnership with African Odysseys: Once Upon a Time... When We Were Colored + intro**<br>
+Mon 29 Nov 14:00<br>
+**Relaxed Screening: Petite Maman**<br>
+Tue 30 Nov 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTgwMTY2NywtMTU4MzM4NTA5OV19
+eyJoaXN0b3J5IjpbLTg0OTMwMjQzNywtNDA1ODAxNjY3LC0xNT
+gzMzg1MDk5XX0=
 -->
