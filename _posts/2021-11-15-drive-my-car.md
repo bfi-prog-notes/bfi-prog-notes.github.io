@@ -46,14 +46,12 @@ _The play in the film is in different languages. Where did that come from?_
 I actually thought of using that for a different project. That was supposed to be a story of a Japanese actress going to France. There she acts to people from different countries, but her performance is entirely in Japanese so that people don’t understand the words, only her expressions. The project probably won’t happen but the idea stayed with me.  And since I was thinking about a unique method of work for Kafuku, I realised it suits him well. The method has a sense of avant-garde approach but, above all else, it’s very simplistic. Aside from the meaning of words we use, there is also a sense of connection, attention towards the texture of voice or body language. Our body starts to send us a spectrum of feelings. This is when our receptivity invites us to observe and listen. And while we do that simple performance, it starts to pile up, and we are allowed to feel the natural flow of emotions. It seemed to be a simple method from the start, but once I tried it, I realised it does indeed do wonders.<br>
 **Interview by Łukasz Mańkowski, _Sight and Sound_, December 2021**<br>
 
-**Drive My Car (Doraibu mai kâ**)<br>
+**DRIVE MY CAR (DORAIBU MAI KÂ)**<br>
 _Directed by_: Ryusuke Hamaguchi  
-_Production Companies_:  
-C&I Entertainment Inc., Culture Entertainment Co. Ltd, Bitters End Inc.  
+_Production Companies_:  C&I Entertainment Inc., Culture Entertainment Co. Ltd, Bitters End Inc.  
 _With the support of_: The Agency for Cultural Affairs  
 _Through_: Japan Arts Council  
-_With the support of_:  
-J-LOD Subsidy Program  
+_With the support of_:  J-LOD Subsidy Program  
 _For:_ Japan Content  
 _Executive Producers_: Kazuo Nakanishi, Yuji Sadaï  
 _Producer_: Teruhisa Yamamoto  
@@ -88,5 +86,5 @@ Japan 2021<br>
 
 Courtesy of Modern Films<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTExNzQxNSwtMTU4MzM4NTA5OV19
+eyJoaXN0b3J5IjpbLTQwNTgwMTY2NywtMTU4MzM4NTA5OV19
 -->
