@@ -64,33 +64,25 @@ _Through_: Japan Arts Council
 _With the support of_:  
 J-LOD Subsidy Program  
 _For:_ Japan Content  
-_Executive Producers_: Kazuo Nakanishi,
-
-Yuji Sadaï  
+_Executive Producers_: Kazuo Nakanishi, Yuji Sadaï  
 _Producer_: Teruhisa Yamamoto  
-_Co-producers_: Tamon Kondo,
-
-Eunkyoung Lee  
+_Co-producers_: Tamon Kondo, Eunkyoung Lee  
 _Korean Coordinator_: Mizy Kwon  
 _1st Assistant Directors_: Watanabe Naoki, Oe Takamasa  
 _Written by_: Ryusuke Hamaguchi, Takamasa Oe  
 _Based on the Story by_: Haruki Murakami  
-_Director of Photography_:
-
-Hidetoshi Shinomiya  
+_Director of Photography_: Hidetoshi Shinomiya  
 _Camera Operator_: Takai Taiki  
 _Editor_: Azusa Yamazaki  
 _Production Designer_: Seo Hyeonsun  
 _Art Director_: Kagamoto Mami  
 _Costume Designer_: Haruki Koketsu  
-_Hair and Make-up Designer_:
-
-Ichikawa Haruko  
+_Hair and Make-up Designer_: Ichikawa Haruko  
 _Music_: Ishibashi Eiko  
 _Sound Recordist_: Kadoaki Izuta  
-_Sound Mixer_: Nomura Miki
+_Sound Mixer_: Nomura Miki<br>
 
-**Cast
+**Cast**<br>
 Hidetoshi Nishijima _(Yusuke Kafuku)_  
 Tôko Miura _(Misaki Watari)_  
 Masaki Okada _(Koshi Takasuki)_  
@@ -98,13 +90,12 @@ Reika Kirishima _(Oto Kafuku)_
 Park Yurim _(Lee Yoon-a)_  
 Jin Daeyeon _(Yoon-su)_
 
-Japan 2021
+Japan 2021<br>
+179 mins<br>
 
-179 mins
+\* Uncredited<br>
 
-* Uncredited
-
-Courtesy of Modern Films
+Courtesy of Modern Films<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE3MTE0ODZdfQ==
+eyJoaXN0b3J5IjpbLTYwODUxNjA5OF19
 -->
