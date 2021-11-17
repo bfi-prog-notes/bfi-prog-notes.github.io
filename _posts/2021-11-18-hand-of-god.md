@@ -48,73 +48,38 @@ He gained global renown as a vivid stylist given to a wildly kinetic camera and 
 
 <![endif]-->
 
-**The Hand Of God**
-
-**(È Stata La Mano Di Dio)**
-
+**THE hAND OF GOD (È Stata La Mano Di Dio)**<br>
 _Written and Directed by:_ Paolo Sorrentino
-
 _A_ The Apartment _production_
-
 _Presented by:_ Netflix
-
-_Executive Producers:_ Riccardo Neri,
-
-Elena Recchia, Gennaro Formisano
-
+_Executive Producers:_ Riccardo Neri, Elena Recchia, Gennaro Formisano
 _Produced by:_ Lorenzo Mieli, Paolo Sorrentino
-
 _1st Assistant Director:_ Jacopo Bonvicini
-
-_Casting:_ Annamaria Sambucco,
-
-Massimo Appolloni
-
+_Casting:_ Annamaria Sambucco, Massimo Appolloni
 _Director of Photography:_ Daria D’Antonio
-
 _Editor:_ Cristiano Travaglioli
-
 _Production Designer:_ Carmine Guarino
-
 _Set Decorator:_ Iole Autero
-
 _Costume Designer:_ Mariano Tufano
+_Sound:_ Emanuele Cecere, Silvia Moraes, Mirko Perri<br>
 
-_Sound:_ Emanuele Cecere, Silvia Moraes,
-
-Mirko Perri
-
-_Cast:_
-
+**Cast**<br>
 Filippo Scotti _(Fabietto Schisa)_
-
 Toni Servillo _(Saverio Schisa)_
-
 Teresa Saponangelo _(Maria Schisa)_
-
 Marlon Joubert _(Marchino Schisa)_
-
 Luisa Ranieri _(Patrizia)_
-
 Renato _Carpentieri (Alfredo)_
-
 Massimiliano Gallo _(Franco)_
-
 Betti Pedrazzi _(Baronessa Focale)_
-
 Enzo Decaro _(San Gennaro)_
-
 Sofya Gershevich _(Yulia)_
-
 Lino Musella _(Mariettiello)_
-
 Biagio Manna _(Armando)_
+Dora Romano _(Signora Gentile)_<br>
 
-Dora Romano _(Signora Gentile)_
-
-Italy 2021
-
-130 mins
+Italy 2021<br>
+130 mins<br>
 
 Courtesy of Netflix<br>
 
@@ -149,5 +114,5 @@ Thu 16 Dec 18:00
 **Preview: Wheel of Fortune and Fantasy (Guzen to sozo)**
 Wed 29 Dec 18:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTkwODQxMTYsMTM4NTQ2NDAwMF19
+eyJoaXN0b3J5IjpbODYyOTM2ODYyLDEzODU0NjQwMDBdfQ==
 -->
