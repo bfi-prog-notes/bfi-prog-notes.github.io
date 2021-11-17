@@ -116,7 +116,38 @@ Italy 2021
 
 130 mins
 
-Courtesy of Netflix
+Courtesy of Netflix<br>
+
+
+
+**IN PERSON & PREVIEWS**
+**Preview: The Hand of God  
+(È stata la mano di Dio)**
+Thu 18 Nov 18:30
+**Preview: Pirates + Q&A with writer-director Reggie Yates and actors Elliot Edusah, Jordan Peters and Reda Elazouar**
+Sat 20 Nov 20:40
+**Preview: Encanto + Q&A with director Jared Bush, co-director Charise Castro Smith, producer Clark Spencer and Yvett Marino**
+Sun 21 Nov 11:30
+**Preview: Boxing Day + Q&A with writer-director Aml Ameen**
+Sat 27 Nov 18:30
+**TV Preview: The Amazing Mr Blunden + Q&A with writer-director-actor Mark Gatiss and actor Tamsin Greig**
+Mon 29 Nov 18:15
+**Doctor Who: City of Death**
+Sun 5 Dec 12:00
+**Mark Kermode Live in 3D at the BFI**
+Mon 6 Dec 18:10
+**TV Preview: The Mezzotint + Q&A with director Mark Gatiss**
+Tue 7 Dec 18:10
+**TV Preview: The Tourist + Q&A with actors Jamie Dornan, Danielle Macdonald, Shalom Brune-Franklin and creatives**
+Tue 7 Dec 20:30
+**TV Preview: Ghosts Christmas Special + Q&A (guests TBA)**
+Thu 9 Dec 18:10
+**Patti Boulaye**
+Sun 12 Dec 15:30
+**Woman with a Movie Camera: Bridget Jones’s Diary at 20 + Q&A with director Sharon Maguire**
+Thu 16 Dec 18:00
+**Preview: Wheel of Fortune and Fantasy (Guzen to sozo)**
+Wed 29 Dec 18:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTQ2NDAwMF19
+eyJoaXN0b3J5IjpbLTEwOTkwODQxMTYsMTM4NTQ2NDAwMF19
 -->
