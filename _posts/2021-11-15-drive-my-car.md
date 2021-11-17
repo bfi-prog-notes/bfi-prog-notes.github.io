@@ -8,7 +8,7 @@ categories: ['PREVIEWS']
 tags: [Drama]
 metadata: 'Japan 2021, 179 mins<br> Director: Ryusuke Hamaguchi'
 pdf: '2021-11-15-drive-my-car.pdf'
----
+-->
 
 There’s a moment in Seamus Heaney’s poem ‘Clearances’ when he recalls peeling potatoes with his mother. Neither looked at one another, or paused. But their shared task offered intimacy – they were ‘Never closer’, Heaney writes, ‘the whole rest of our lives’.
 
@@ -135,3 +135,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk4NTc1MTU3XX0=
+-->
