@@ -46,62 +46,58 @@ From then on, Sorrentino wrote and directed his own films, including _The Great 
 He gained global renown as a vivid stylist given to a wildly kinetic camera and exuberant storytelling. But when it came to _The Hand of_ _God_, all that feverishness fell away, leaving behind something more exposed, and more accessible, than any experience he’s created.<br>
 **Production notes**<br>
 
-<![endif]-->
-
-**THE hAND OF GOD (È Stata La Mano Di Dio)**<br>
-_Written and Directed by:_ Paolo Sorrentino
-_A_ The Apartment _production_
-_Presented by:_ Netflix
-_Executive Producers:_ Riccardo Neri, Elena Recchia, Gennaro Formisano
-_Produced by:_ Lorenzo Mieli, Paolo Sorrentino
-_1st Assistant Director:_ Jacopo Bonvicini
-_Casting:_ Annamaria Sambucco, Massimo Appolloni
-_Director of Photography:_ Daria D’Antonio
-_Editor:_ Cristiano Travaglioli
-_Production Designer:_ Carmine Guarino
-_Set Decorator:_ Iole Autero
-_Costume Designer:_ Mariano Tufano
+**THE HAND OF GOD (È STATA LA MANO DI DIO)**<br>
+_Written and Directed by:_ Paolo Sorrentino<br>
+_A_ The Apartment _production_<br>
+_Presented by:_ Netflix<br>
+_Executive Producers:_ Riccardo Neri, Elena Recchia, Gennaro Formisano<br>
+_Produced by:_ Lorenzo Mieli, Paolo Sorrentino<br>
+_1st Assistant Director:_ Jacopo Bonvicini<br>
+_Casting:_ Annamaria Sambucco, Massimo Appolloni<br>
+_Director of Photography:_ Daria D’Antonio<br>
+_Editor:_ Cristiano Travaglioli<br>
+_Production Designer:_ Carmine Guarino<br>
+_Set Decorator:_ Iole Autero<br>
+_Costume Designer:_ Mariano Tufano<br>
 _Sound:_ Emanuele Cecere, Silvia Moraes, Mirko Perri<br>
 
 **Cast**<br>
-Filippo Scotti _(Fabietto Schisa)_
-Toni Servillo _(Saverio Schisa)_
-Teresa Saponangelo _(Maria Schisa)_
-Marlon Joubert _(Marchino Schisa)_
-Luisa Ranieri _(Patrizia)_
-Renato _Carpentieri (Alfredo)_
-Massimiliano Gallo _(Franco)_
-Betti Pedrazzi _(Baronessa Focale)_
-Enzo Decaro _(San Gennaro)_
-Sofya Gershevich _(Yulia)_
-Lino Musella _(Mariettiello)_
-Biagio Manna _(Armando)_
+Filippo Scotti _(Fabietto Schisa)_<br>
+Toni Servillo _(Saverio Schisa)_<br>
+Teresa Saponangelo _(Maria Schisa)_<br>
+Marlon Joubert _(Marchino Schisa)_<br>
+Luisa Ranieri _(Patrizia)_<br>
+Renato _Carpentieri (Alfredo)_<br>
+Massimiliano Gallo _(Franco)_<br>
+Betti Pedrazzi _(Baronessa Focale)_<br>
+Enzo Decaro _(San Gennaro)_<br>
+Sofya Gershevich _(Yulia)_<br>
+Lino Musella _(Mariettiello)_<br>
+Biagio Manna _(Armando)_<br>
 Dora Romano _(Signora Gentile)_<br>
 
 Italy 2021<br>
 130 mins<br>
 
 Courtesy of Netflix<br>
+<br>
 
-
-
-**IN PERSON & PREVIEWS**
-**Preview: The Hand of God  
-(È stata la mano di Dio)**
-Thu 18 Nov 18:30
-**Preview: Pirates + Q&A with writer-director Reggie Yates and actors Elliot Edusah, Jordan Peters and Reda Elazouar**
-Sat 20 Nov 20:40
-**Preview: Encanto + Q&A with director Jared Bush, co-director Charise Castro Smith, producer Clark Spencer and Yvett Marino**
-Sun 21 Nov 11:30
-**Preview: Boxing Day + Q&A with writer-director Aml Ameen**
-Sat 27 Nov 18:30
-**TV Preview: The Amazing Mr Blunden + Q&A with writer-director-actor Mark Gatiss and actor Tamsin Greig**
-Mon 29 Nov 18:15
-**Doctor Who: City of Death**
-Sun 5 Dec 12:00
-**Mark Kermode Live in 3D at the BFI**
-Mon 6 Dec 18:10
-**TV Preview: The Mezzotint + Q&A with director Mark Gatiss**
+**IN PERSON & PREVIEWS**<br>
+**Preview: The Hand of God  (È stata la mano di Dio)**<br>
+Thu 18 Nov 18:30<br>
+**Preview: Pirates + Q&A with writer-director Reggie Yates and actors Elliot Edusah, Jordan Peters and Reda Elazouar**<br>
+Sat 20 Nov 20:40<br>
+**Preview: Encanto + Q&A with director Jared Bush, co-director Charise Castro Smith, producer Clark Spencer and Yvett Marino**<br>
+Sun 21 Nov 11:30<br>
+**Preview: Boxing Day + Q&A with writer-director Aml Ameen**<br>
+Sat 27 Nov 18:30<br>
+**TV Preview: The Amazing Mr Blunden + Q&A with writer-director-actor Mark Gatiss and actor Tamsin Greig**<br>
+Mon 29 Nov 18:15<br>
+**Doctor Who: City of Death**<br>
+Sun 5 Dec 12:00<br>
+**Mark Kermode Live in 3D at the BFI**<br>
+Mon 6 Dec 18:10<br>
+**TV Preview: The Mezzotint + Q&A with director Mark Gatiss**<br>
 Tue 7 Dec 18:10
 **TV Preview: The Tourist + Q&A with actors Jamie Dornan, Danielle Macdonald, Shalom Brune-Franklin and creatives**
 Tue 7 Dec 20:30
@@ -114,5 +110,6 @@ Thu 16 Dec 18:00
 **Preview: Wheel of Fortune and Fantasy (Guzen to sozo)**
 Wed 29 Dec 18:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYyOTM2ODYyLDEzODU0NjQwMDBdfQ==
+eyJoaXN0b3J5IjpbMTc1NjE1MDQ5MSw4NjI5MzY4NjIsMTM4NT
+Q2NDAwMF19
 -->
