@@ -45,6 +45,78 @@ From then on, Sorrentino wrote and directed his own films, including _The Great 
 
 He gained global renown as a vivid stylist given to a wildly kinetic camera and exuberant storytelling. But when it came to _The Hand of_ _God_, all that feverishness fell away, leaving behind something more exposed, and more accessible, than any experience he’s created.<br>
 **Production notes**<br>
+
+<![endif]-->
+
+**The Hand Of God**
+
+**(È Stata La Mano Di Dio)**
+
+_Written and Directed by:_ Paolo Sorrentino
+
+_A_ The Apartment _production_
+
+_Presented by:_ Netflix
+
+_Executive Producers:_ Riccardo Neri,
+
+Elena Recchia, Gennaro Formisano
+
+_Produced by:_ Lorenzo Mieli, Paolo Sorrentino
+
+_1st Assistant Director:_ Jacopo Bonvicini
+
+_Casting:_ Annamaria Sambucco,
+
+Massimo Appolloni
+
+_Director of Photography:_ Daria D’Antonio
+
+_Editor:_ Cristiano Travaglioli
+
+_Production Designer:_ Carmine Guarino
+
+_Set Decorator:_ Iole Autero
+
+_Costume Designer:_ Mariano Tufano
+
+_Sound:_ Emanuele Cecere, Silvia Moraes,
+
+Mirko Perri
+
+_Cast:_
+
+Filippo Scotti _(Fabietto Schisa)_
+
+Toni Servillo _(Saverio Schisa)_
+
+Teresa Saponangelo _(Maria Schisa)_
+
+Marlon Joubert _(Marchino Schisa)_
+
+Luisa Ranieri _(Patrizia)_
+
+Renato _Carpentieri (Alfredo)_
+
+Massimiliano Gallo _(Franco)_
+
+Betti Pedrazzi _(Baronessa Focale)_
+
+Enzo Decaro _(San Gennaro)_
+
+Sofya Gershevich _(Yulia)_
+
+Lino Musella _(Mariettiello)_
+
+Biagio Manna _(Armando)_
+
+Dora Romano _(Signora Gentile)_
+
+Italy 2021
+
+130 mins
+
+Courtesy of Netflix
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3MTY0MDYxXX0=
+eyJoaXN0b3J5IjpbMTM4NTQ2NDAwMF19
 -->
