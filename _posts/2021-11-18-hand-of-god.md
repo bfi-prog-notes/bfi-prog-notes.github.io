@@ -98,18 +98,18 @@ Sun 5 Dec 12:00<br>
 **Mark Kermode Live in 3D at the BFI**<br>
 Mon 6 Dec 18:10<br>
 **TV Preview: The Mezzotint + Q&A with director Mark Gatiss**<br>
-Tue 7 Dec 18:10
-**TV Preview: The Tourist + Q&A with actors Jamie Dornan, Danielle Macdonald, Shalom Brune-Franklin and creatives**
-Tue 7 Dec 20:30
-**TV Preview: Ghosts Christmas Special + Q&A (guests TBA)**
-Thu 9 Dec 18:10
-**Patti Boulaye**
-Sun 12 Dec 15:30
-**Woman with a Movie Camera: Bridget Jones’s Diary at 20 + Q&A with director Sharon Maguire**
-Thu 16 Dec 18:00
-**Preview: Wheel of Fortune and Fantasy (Guzen to sozo)**
-Wed 29 Dec 18:00
+Tue 7 Dec 18:10<br>
+**TV Preview: The Tourist + Q&A with actors Jamie Dornan, Danielle Macdonald, Shalom Brune-Franklin and creatives**<br>
+Tue 7 Dec 20:30<br>
+**TV Preview: Ghosts Christmas Special + Q&A (guests TBA)**<br>
+Thu 9 Dec 18:10<br>
+**Patti Boulaye**<br>
+Sun 12 Dec 15:30<br>
+**Woman with a Movie Camera: Bridget Jones’s Diary at 20 + Q&A with director Sharon Maguire**<br>
+Thu 16 Dec 18:00<br>
+**Preview: Wheel of Fortune and Fantasy (Guzen to sozo)**<br>
+Wed 29 Dec 18:00<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjE1MDQ5MSw4NjI5MzY4NjIsMTM4NT
-Q2NDAwMF19
+eyJoaXN0b3J5IjpbMjE3NTE2NTg1LDg2MjkzNjg2MiwxMzg1ND
+Y0MDAwXX0=
 -->
