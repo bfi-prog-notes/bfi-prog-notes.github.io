@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Hand of God
+published: true
+date: 2021-11-18
+readtime: true
+categories: ['PREVIEWS']
+tags: [Drama]
+metadata: 'Italy 2021, 130 mins<br> Director: Paolo Sorrentino'
+pdf: '2021-11-18-hand-of-god.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -11,8 +22,7 @@ And then the tragic accident, so sudden and strange: the death of Fabietto’s p
 
 The grief is crippling at first. It doesn’t make you cry or think or feel. Instead it takes you home, all alone, staring at familiar objects that have suddenly become meaningless, like dead bodies. Then, out of the blue, the realisation that he is free prompts Fabietto to look to the future. The discovery of cinema, which, in those years in Naples, was starting to be made with adventure and enthusiasm.
 
-He longs to make movies – cinema being that celebrated monument that saves the sad lives of people like Fabietto, deluding both those who make it and those who watch it to recover the world they’ve lost. But delusions fill up our lives.  
-Which is why cinema will never die.
+He longs to make movies – cinema being that celebrated monument that saves the sad lives of people like Fabietto, deluding both those who make it and those who watch it to recover the world they’ve lost. But delusions fill up our lives. Which is why cinema will never die.
 
 The brief, bewildering, decisive encounter with an older director named Antonio Capuano, a vivacious, provocative intellectual who is both sentimental and contrary.
 
@@ -29,8 +39,7 @@ So what exactly is _The Hand of God_? A coming-of-age story that aims, stylistic
 
 In _The Hand of God_, Paolo Sorrentino returns to the Naples of his youth to tell a story of a boy’s turbulent coming-of-age – a story charged by its intimate link to Sorrentino’s own past. It is a story more personal and more starkly emotional than any he has told. It dives into a living memory, an immersion into a beautiful, imperfect world that could not last. But it is also a soul-stirring tale about the drive to move forward, to create, to take any mystifying chances that you get, even amid immense sorrow.
 
-It is the 1980s. Everyone in Naples is talking feverishly about Maradona, the illustrious soccer legend who it seems, almost miraculously, might come to play for the underdog local team. Promise is in the air, and teenaged Fabietto Schisa is drinking it all in. He might be an awkward outsider at school, but life is alright.  
-His parents are volatile, flawed, yet still in love. Their family is boisterous, sometimes troubled, yet great fun. Lunches are long, family dramas play out daily, laughter is constant, and the future still seems far away.
+It is the 1980s. Everyone in Naples is talking feverishly about Maradona, the illustrious soccer legend who it seems, almost miraculously, might come to play for the underdog local team. Promise is in the air, and teenaged Fabietto Schisa is drinking it all in. He might be an awkward outsider at school, but life is alright. His parents are volatile, flawed, yet still in love. Their family is boisterous, sometimes troubled, yet great fun. Lunches are long, family dramas play out daily, laughter is constant, and the future still seems far away.
 
 Then, an inexplicable accident overturns it all. And, as Sorrentino once did in his own youth, Fabietto must find an escape from the depths of tragedy and grapple with the strange touch of fate that has left him alive. With the past shattered, yet his entire life before him, he charts his own course through loss and into the new.
 
@@ -38,8 +47,7 @@ This mix of devastation and liberation is something Sorrentino experienced at th
 
 Born in 1970, Sorrentino was raised in the Vomero Quarter of Naples, on the hill overlooking the port city’s sprawling panorama. When he was 16, both his parents passed away suddenly, wholly unexpectedly, of carbon monoxide poisoning from a faulty heater in the family’s vacation home. By all rights, Sorrentino should have been with his parents that weekend. The only reason he wasn’t also killed in the catastrophe is that he had been granted permission, for the first time in his life, to stay home alone to go see Maradona play away for Naples.
 
-Sorrentino came to perceive Maradona, a man already tinged with divinity on the soccer field, as a force that protected his life. But it was also cinema that became a means of salvation for him, a detour from anguish. Escaping into filmmaking with a passion, Sorrentino started working as an assistant director. He made his screenwriting debut co-writing _The Dust of Naples_ with Italian writer-director Antonio Capuano, himself a key character in _The Hand of God_. Soon after Sorrentino made his directorial debut with the comedy _One Man Up_ starring  
-Toni Servillo – the last film he made in Naples until he returned  to direct _The Hand of God_.
+Sorrentino came to perceive Maradona, a man already tinged with divinity on the soccer field, as a force that protected his life. But it was also cinema that became a means of salvation for him, a detour from anguish. Escaping into filmmaking with a passion, Sorrentino started working as an assistant director. He made his screenwriting debut co-writing _The Dust of Naples_ with Italian writer-director Antonio Capuano, himself a key character in _The Hand of God_. Soon after Sorrentino made his directorial debut with the comedy _One Man Up_ starring Toni Servillo – the last film he made in Naples until he returned  to direct _The Hand of God_.
 
 From then on, Sorrentino wrote and directed his own films, including _The Great Beauty_, which won the Academy Award for Best Foreign Film, and the Oscar-nominated _Youth_, as well as the acclaimed HBO series _The Young Pope_ and its successor _The New Pope_.
 
@@ -109,7 +117,20 @@ Sun 12 Dec 15:30<br>
 Thu 16 Dec 18:00<br>
 **Preview: Wheel of Fortune and Fantasy (Guzen to sozo)**<br>
 Wed 29 Dec 18:00<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3NTE2NTg1LDg2MjkzNjg2MiwxMzg1ND
-Y0MDAwXX0=
--->
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
