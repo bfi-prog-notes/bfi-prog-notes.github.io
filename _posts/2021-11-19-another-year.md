@@ -118,31 +118,20 @@ Michele Austin _(Tanya)_<br>
 Phil Davis _(Jack)_<br>
 Imelda Staunton _(Janet)_<br>
 Stuart McQuarrie _(Tom’s colleague)_<br>
-
 Eileen Davies _(mourner)_<br>
-
 Mary Jo Randle _(mourner)_<br>
-
 Ben Roberts _(mourner)_<br>
-
 David Hobbs _(vicar)_<br>
-
 Badi Uzzaman _(Mr Gupta)_<br>
-
 Meneka Das _(Mr Gupta’s friend)_<br>
-
 Ralph Ineson _(drill worker)_<br>
-
 Edna Doré _(allotment lady)_<br>
-
 Gary Powell _(man in bar)_<br>
-
 Lisa Mcdonald _(girl in bar)_<br>
 
 UK 2010©<br>
-
 130 mins
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjE2MDQ2MV19
+eyJoaXN0b3J5IjpbLTUxNTc1NzQwN119
 -->
