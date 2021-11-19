@@ -35,9 +35,9 @@ _Music_: Toshiro Mayuzumi
 _Sound_: Toshihiko Inoue  
 _Technical Director_: Michio Midorikawa
 
-Japan 1964
-
+Japan 1964  
 170 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTMxMTYyXX0=
+eyJoaXN0b3J5IjpbLTc4NDY5NzQ3MF19
 -->
