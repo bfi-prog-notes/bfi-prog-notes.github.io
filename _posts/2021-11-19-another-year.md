@@ -50,149 +50,73 @@ _ML:_ When it comes to the precision of scripting, Lesley is impeccable. I can g
 **ANOTHER YEAR**<br>
 _Directed by:_ Mike Leigh<br>
 ©: Untitled 09 Limited, UK Film Council,  Channel Four Television Corporation<br>
-
 _Production Company:_ Thin Man Films<br>
-
 _a Simon Channing Williams production_<br>
-
 _For:_ Film4<br>
-
 _Produced by:_ Untitled 09 Limited<br>
-
-_Presented by:_ Focus Features International,
-
-UK Film Council<br>
-
-_Made with the support of:_
-
-The UK Film Council’s Premiere Fund<br>
-
-_International Sales and Distribution by:_
-
-Focus Features International<br>
-
+_Presented by:_ Focus Features International, UK Film Council<br>
+_Made with the support of:_ The UK Film Council’s Premiere Fund<br>
+_International Sales and Distribution by:_ Focus Features International<br>
 _Executive Producers:_ Gail Egan, Tessa Ross<br>
-
 _Developed by:_ Film4<br>
-
 _Producer:_ Georgina Lowe<br>
-
 _Line Producer:_ Danielle Brandon<br>
-
 _Developed with the support of:_ Nicholas Marple, Sophie Roberts<br>
-
 _For Focus Features: International President, Sales and Distribution:_ Alison Thompson; _International Executive Vice President, Marketing and Distribution:_ Heta Paarte; _International Director, Delivery and Post-production:_ Jerry Melichar<br>
-
 _For Film4: Head of Business Affairs:_ Paul Grindey; _Head of Production:_ Tracey Josephs; _Head of Commercial Development:_ Sue Bruce-Smith<br>
-
 _For UK Film Council: Head of Premiere Fund:_ Sally Caplan; _Head of Business Affairs:_ Will Evans; _Head of Production Finance:_ Vincent Holden; _Head of Physical Production:_ Fiona Morham; _Diversity Scheme Executive:_ Steve Morley<br>
-
 _Production Manager:_ Sarah McBryde<br>
-
 _Production Accountant:_ Will Tyler<br>
-
 _Unit Manager:_ Iain Smith<br>
-
 _Location Manager:_ Henry Woolley<br>
-
 _Post-production Supervisor:_ Polly Duval<br>
-
 _1st Assistant Director:_ Josh Robertson<br>
-
-_2nd Assistant Directors:_ Toby Hosking,
-
-Melanie Heseltine<br>
-
+_2nd Assistant Directors:_ Toby Hosking, Melanie Heseltine<br>
 _Script Supervisor:_ Heather Storr<br>
-
 _Casting:_ Nina Gold<br>
-
 _Written by:_ Mike Leigh<br>
-
 _Cinematography:_ Dick Pope<br>
-
 _Camera Operator:_ Dick Pope<br>
-
 _Gaffer:_ Andy Long<br>
-
 _Stills Photographer:_ Simon Mein<br>
-
 _Special Effects:_ Derek Langley Special Effects, Snow Business International<br>
-
 _Film Editor:_ Jon Gregory<br>
-
 _Production Designer:_ Simon Beresford<br>
-
 _Art Director:_ Andrew Rothschild<br>
-
 _Set Decorator:_ Sophia Chowdhury<br>
-
 _Graphic Artist:_ Rowanna Lacey<br>
-
 _Property Master:_ Steve Wheeler<br>
-
 _Costume Designer:_ Jacqueline Durran<br>
-
 _Make-up & Hair Designer:_ Christine Blundell<br>
-
 _Senior Make-up Stylist:_ Lesa Warrener<br>
-
 _Make-up & Hair Artist:_ Chloë Meddings<br>
-
 _Title Design:_ Chris Allies<br>
-
 _Originated on:_ Fuji Film<br>
-
 _Rushes and Prints by:_ DeLuxe Laboratories<br>
-
 _Music Composer:_ Gary Yershon<br>
-
 _Music Conducted by:_ Terry Davies<br>
-
 _Musicians’ Contractor:_ Isobel Griffiths<br>
-
 _Sound Recordist:_ Tim Fraser<br>
-
 _Boom Operators:_ Loveday Harding, Will Towers<br>
-
-_Re-recording Mixers:_ Andy Thompson,
-
-Mark Paterson, Nigel Stone<br>
-
+_Re-recording Mixers:_ Andy Thompson, Mark Paterson, Nigel Stone<br>
 _Supervising Sound Editor:_ Nigel Stone<br>
-
 _Publicity:_ Premier PR, Jonathan Rutter<br>
-
 _EPK:_ Special Treats<br>
-
 _Digital Intermediate by:_ Pepper Post<br>
-
 _In Loving Memory:_ Simon Channing Williams<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Jim Broadbent _(Tom)_<br>
-
 Lesley Manville _(Mary)_<br>
-
 Ruth Sheen _(Gerri)_<br>
-
 Oliver Maltman _(Joe)_<br>
-
 Peter Wight _(Ken)_<br>
-
 David Bradley _(Ronnie)_<br>
-
 Martin Savage _(Carl)_<br>
-
 Karina Fernandez _(Katie)_<br>
-
 Michele Austin _(Tanya)_<br>
-
 Phil Davis _(Jack)_<br>
-
 Imelda Staunton _(Janet)_<br>
-
 Stuart McQuarrie _(Tom’s colleague)_<br>
 
 Eileen Davies _(mourner)_<br>
@@ -220,5 +144,5 @@ UK 2010©<br>
 130 mins
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzYwMjE0MjldfQ==
+eyJoaXN0b3J5IjpbLTUwMjE2MDQ2MV19
 -->
