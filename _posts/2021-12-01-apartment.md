@@ -23,93 +23,70 @@ As Wilder once said of Audrey Hepburn, ‘there is only one’. But his lessons 
 <br><br>
 
 **THE APARTMENT**<br>
-
 _Directed by:_ Billy Wilder<br>
-
 ©_/Production Company:_ Mirisch Company<br>
-
 _Produced by:_ Billy Wilder<br>
-
-_Associate Producers:_ I.A.L. Diamond,  
-Doane Harrison<br>
-
+_Associate Producers:_ I.A.L. Diamond,  Doane Harrison<br>
 _Production Manager:_ Allen K. Wood<br>
-
 _Assistant Director:_ Hal Polaire<br>
-
 _Script Continuity:_ May Wale<br>
-
 _Written by:_ Billy Wilder, I.A.L. Diamond<br>
-
 _Director of Photography:_ Joseph LaShelle<br>
-
 _Special Effects:_ Milt Rice<br>
-
 _Editor:_ Daniel Mandell<br>
-
 _Art Director:_ Alexander Trauner<br>
-
 _Set Decorator:_ Edward G. Boyle<br>
-
 _Property:_ Tom Plews<br>
-
 _Make-up:_ Harry Ray<br>
-
 _Music by:_ Adolph Deutsch<br>
-
 _Music Editor:_ Sid Sidney<br>
-
 _Sound:_ Fred Lau<br>
-
 _Sound Effects Editor:_ Del Harris<br>
 
 _uncredited_<br>
-
 _Wardrobe:_ Forrest T. Butler<br>
-
 _Hairstylist:_ Alice Monte<br>
 
-_Cast:_<br>
-
+_Cast:<br>
 Jack Lemmon _(C.C. ‘Bud’ Baxter)_<br>
 
-Shirley MacLaine _(Fran Kubelik)_
+Shirley MacLaine _(Fran Kubelik)_<br>
 
-Fred MacMurray _(Jeff D. Sheldrake)_
+Fred MacMurray _(Jeff D. Sheldrake)_<br>
 
-Ray Walston _(Joe Dobisch)_
+Ray Walston _(Joe Dobisch)_<br>
 
-Jack Kruschen _(Dr Dreyfuss)_
+Jack Kruschen _(Dr Dreyfuss)_<br>
 
-David Lewis _(Al Kirkeby)_
+David Lewis _(Al Kirkeby)_<br>
 
-Hope Holiday _(Margie MacDougall)_
+Hope Holiday _(Margie MacDougall)_<br>
 
-Joan Shawlee _(Sylvia)_
+Joan Shawlee _(Sylvia)_<br>
 
-Naomi Stevens _(Mrs Dreyfuss)_
+Naomi Stevens _(Mrs Dreyfuss)_<br>
 
-Johnny Seven _(Karl Matuschka)_
+Johnny Seven _(Karl Matuschka)_<br>
 
-Joyce Jameson _(blonde)_
+Joyce Jameson _(blonde)_<br>
 
-Willard Waterman _(Vanderhof)_
+Willard Waterman _(Vanderhof)_<br>
 
-David White _(Eichelberger)_
+David White _(Eichelberger)_<br>
 
-Edie Adams _(Miss Olsen)_
+Edie Adams _(Miss Olsen)_<br>
 
-_uncredited_
+_uncredited_<br>
 
-Frances Weintraub Lax _(Mrs Lieberman)_
+Frances Weintraub Lax _(Mrs Lieberman)_<br>
 
-Benny Burt _(bartender)_
+Benny Burt _(bartender)_<br>
 
-Hal Smith _(Santa Claus)_
+Hal Smith _(Santa Claus)_<br>
 
-Dorothy Abbott _(office worker)_
+Dorothy Abbott _(office worker)_<br>
 
-USA 1960©
+USA 1960©<br>
 
 125 mins
 
@@ -119,55 +96,58 @@ Tara Judah
 
 <![endif]-->
 
-BIG SCREEN CLASSICS
+BIG SCREEN CLASSICS<br>
 
-**The Apartment**
+**The Apartment**<br>
 
-Wed 1 Dec 18:00 (+ pre-recorded intro by critic and improviser Tara Judah); Mon 13 Dec 14:30; Wed 22 Dec 20:40; Tue 28 Dec 18:10; Thu 30 Dec 20:30
+Wed 1 Dec 18:00 (+ pre-recorded intro by critic and improviser Tara Judah); Mon 13 Dec 14:30; Wed 22 Dec 20:40; Tue 28 Dec 18:10; Thu 30 Dec 20:30<br>
 
-**Remember the Night**
+**Remember the Night**<br>
 
-Thu 2 Dec 14:30; Mon 27 Dec 13:00; Thu 30 Dec 18:00
+Thu 2 Dec 14:30; Mon 27 Dec 13:00; Thu 30 Dec 18:00<br>
 
-**Meet Me in St Louis**
+**Meet Me in St Louis**<br>
 
-Fri 3 Dec 20:45; Sun 19 Dec 12:20; Wed 22 Dec 18:00; Tue 28 Dec 12:20
+Fri 3 Dec 20:45; Sun 19 Dec 12:20; Wed 22 Dec 18:00; Tue 28 Dec 12:20<br>
 
-**Miracle on 34th Street**
+**Miracle on 34th Street**<br>
 
-Sat 4 Dec 15:50; Sat 11 Dec 18:00; Fri 17 Dec 14:30
+Sat 4 Dec 15:50; Sat 11 Dec 18:00; Fri 17 Dec 14:30<br>
 
-**A Christmas Tale (Un conte de Noël)**
+**A Christmas Tale (Un conte de Noël)**<br>
 
-Sun 5 Dec 17:50; Tue 28 Dec 15:15
+Sun 5 Dec 17:50; Tue 28 Dec 15:15<br>
 
-**Scrooge (aka A Christmas Carol)**
+**Scrooge (aka A Christmas Carol)**<br>
 
-Mon 6 Dec 18:30; Thu 16 Dec 21:00; Fri 17 Dec 18:20; Sat 18 Dec 18:10; Sun 19 Dec 15:40; Mon 20 Dec 18:10; Tue 21 Dec 14:30
+Mon 6 Dec 18:30; Thu 16 Dec 21:00; Fri 17 Dec 18:20; Sat 18 Dec 18:10; Sun 19 Dec 15:40; Mon 20 Dec 18:10; Tue 21 Dec 14:30<br>
 
-**Tim Burton’s The Nightmare Before Christmas**
+**Tim Burton’s The Nightmare Before Christmas**<br>
 
-Tue 7 Dec 18:30; Sat 11 Dec 16:00; Tue 21 Dec 21:00; Thu 23 Dec 20:45
+Tue 7 Dec 18:30; Sat 11 Dec 16:00; Tue 21 Dec 21:00; Thu 23 Dec 20:45<br>
 
-**Gremlins**
+**Gremlins**<br>
 
-Wed 8 Dec 17:50 (+ intro by Justin Johnson, Lead Programmer); Sat 18 Dec 20:45; Wed 22 Dec 20:45; Wed 29 Dec 20:50
+Wed 8 Dec 17:50 (+ intro by Justin Johnson, Lead Programmer); Sat 18 Dec 20:45; Wed 22 Dec 20:45; Wed 29 Dec 20:50<br>
 
-**Bad Santa**
+**Bad Santa**<br>
 
-Fri 10 Dec 20:45; Mon 13 Dec 20:50; Fri 17 Dec 21:00
+Fri 10 Dec 20:45; Mon 13 Dec 20:50; Fri 17 Dec 21:00<br>
 
-**It’s a Wonderful Life**
+**It’s a Wonderful Life**<br>
 
-From Sun 12 Dec – Thu 23 Dec
+From Sun 12 Dec – Thu 23 Dec<br>
 
-**Tokyo Godfathers (Tokyo goddofazazu)**
+**Tokyo Godfathers (Tokyo goddofazazu)**<br>
 
-Tue 14 Dec 20:45; Mon 20 Dec 20:45
+Tue 14 Dec 20:45; Mon 20 Dec 20:45<br>
 
-**Carol**
+**Carol**<br>
 
-Wed 15 Dec 17:50; Mon 27 Dec 18:00; Thu 30 Dec 14:20
+Wed 15 Dec 17:50; Mon 27 Dec 18:00; Thu 30 Dec 14:20<br>
+<br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODg1ODg4Ml19
+eyJoaXN0b3J5IjpbLTEyNjM5MDcyMV19
 -->
