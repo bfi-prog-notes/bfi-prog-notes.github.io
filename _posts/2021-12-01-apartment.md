@@ -78,53 +78,31 @@ The screening on Wed 1 Dec features a  pre-recorded intro by critic and improvis
 **BIG SCREEN CLASSICS**<br>
 **The Apartment**<br>
 Wed 1 Dec 18:00 (+ pre-recorded intro by critic and improviser Tara Judah); Mon 13 Dec 14:30; Wed 22 Dec 20:40; Tue 28 Dec 18:10; Thu 30 Dec 20:30<br>
-
 **Remember the Night**<br>
-
 Thu 2 Dec 14:30; Mon 27 Dec 13:00; Thu 30 Dec 18:00<br>
-
 **Meet Me in St Louis**<br>
-
 Fri 3 Dec 20:45; Sun 19 Dec 12:20; Wed 22 Dec 18:00; Tue 28 Dec 12:20<br>
-
 **Miracle on 34th Street**<br>
-
 Sat 4 Dec 15:50; Sat 11 Dec 18:00; Fri 17 Dec 14:30<br>
-
 **A Christmas Tale (Un conte de Noël)**<br>
-
 Sun 5 Dec 17:50; Tue 28 Dec 15:15<br>
-
 **Scrooge (aka A Christmas Carol)**<br>
-
 Mon 6 Dec 18:30; Thu 16 Dec 21:00; Fri 17 Dec 18:20; Sat 18 Dec 18:10; Sun 19 Dec 15:40; Mon 20 Dec 18:10; Tue 21 Dec 14:30<br>
-
 **Tim Burton’s The Nightmare Before Christmas**<br>
-
 Tue 7 Dec 18:30; Sat 11 Dec 16:00; Tue 21 Dec 21:00; Thu 23 Dec 20:45<br>
-
 **Gremlins**<br>
-
 Wed 8 Dec 17:50 (+ intro by Justin Johnson, Lead Programmer); Sat 18 Dec 20:45; Wed 22 Dec 20:45; Wed 29 Dec 20:50<br>
-
 **Bad Santa**<br>
-
 Fri 10 Dec 20:45; Mon 13 Dec 20:50; Fri 17 Dec 21:00<br>
-
 **It’s a Wonderful Life**<br>
-
 From Sun 12 Dec – Thu 23 Dec<br>
-
 **Tokyo Godfathers (Tokyo goddofazazu)**<br>
-
 Tue 14 Dec 20:45; Mon 20 Dec 20:45<br>
-
 **Carol**<br>
-
 Wed 15 Dec 17:50; Mon 27 Dec 18:00; Thu 30 Dec 14:20<br>
 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk5OTUwNjddfQ==
+eyJoaXN0b3J5IjpbLTY3MDk2OTYwMywtMTYzOTk5NTA2N119
 -->
