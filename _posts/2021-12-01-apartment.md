@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Apartment
+published: true
+date: 2021-12-01
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Comedy, Romance]
+metadata: 'USA, 1960, 125 mins<br> Director: Billy Wilder'
+pdf: '2021-12-01-apartment.pdf'
+---
 
 _The Apartment_ may be set during the Christmas holidays but, despite its sophistication and peerless wit, it offers little in the way of festive cheer. This is a romantic comedy macerated in moral corruption and director Billy Wilder’s trademark cynicism. Inspired by the British weepie _Brief Encounter_ (1945), but transferred to mid-century Manhattan, _The Apartment_ is as much about loneliness and self-loathing as it is about love. And yet, the joy of its airtight script by Wilder and I.A.L. Diamond, its bittersweet score by Adolph Deutsch, and Joseph LaShelle’s gleaming monochrome widescreen cinematography make it a film to savour – not to mention the famous forced-perspective sets by Alexandre Trauner, which transform an office block into an anonymous dystopia.
 
@@ -14,9 +24,7 @@ Part of the great fun of being a fan of Billy Wilder is that your favourite Wild
 
 In my experience of interviewing him, Wilder usually chose _Some Like It Hot_ or _The Apartment_ as his personal favourite. His reasons he said, were mostly script-based. He just loved the structure and the successful collaborations with his writing partner Izzy Diamond. He often mentioned the ‘cracked mirror’ scene in _The Apartment_ as one of his favourite moments in any of his films. He explained that these pictures and _Sunset Blvd._ ‘just worked’. Of his audience favourites, the only one that seemed to displease him was _Irma la Douce_. As for his favourite actors, he always mentioned Lemmon and Matthau and, with an extra twinkle, Charles Laughton.
 
-_Double Indemnity_ survives because of its masterful victory of tone and performance and direction. For a still young director, it was a work of sly bravura. And Wilder’s favourite element – the inner ‘love story’ between Fred MacMurray and Edward G. Robinson – gives the movie its freshness and a dark kick. Many try for this tone; few get there. Wilder used to say that a masterful comic actor like Cary Grant would forever be beaten at the Oscars by a less talented, furrow-browed serious actor with a ‘physical ailment of some kind’. It was his way, I think, of waving the flag for what he felt to be a far more difficult exercise – comedy. He was a great fan of modern pictures that had a certain graceful comic perfection, like the Japanese film _Shall We Dance?_  He also loved the deep-tissue satire of _American Beauty_. As for his own legacy, Wilder sometimes scoffed, ‘Why would anyone care about me?’  
-But, in fact, he’d noticed the parade of younger filmmakers who cited him and made a point of telling me it genuinely surprised and touched him. ‘A lot?’  
-‘A little,’ he’d answer with a trademark flick of his eyebrow that indicated the opposite might also be true.
+_Double Indemnity_ survives because of its masterful victory of tone and performance and direction. For a still young director, it was a work of sly bravura. And Wilder’s favourite element – the inner ‘love story’ between Fred MacMurray and Edward G. Robinson – gives the movie its freshness and a dark kick. Many try for this tone; few get there. Wilder used to say that a masterful comic actor like Cary Grant would forever be beaten at the Oscars by a less talented, furrow-browed serious actor with a ‘physical ailment of some kind’. It was his way, I think, of waving the flag for what he felt to be a far more difficult exercise – comedy. He was a great fan of modern pictures that had a certain graceful comic perfection, like the Japanese film _Shall We Dance?_  He also loved the deep-tissue satire of _American Beauty_. As for his own legacy, Wilder sometimes scoffed, ‘Why would anyone care about me?’  But, in fact, he’d noticed the parade of younger filmmakers who cited him and made a point of telling me it genuinely surprised and touched him. ‘A lot?’  ‘A little,’ he’d answer with a trademark flick of his eyebrow that indicated the opposite might also be true.
 
 As Wilder once said of Audrey Hepburn, ‘there is only one’. But his lessons to other modern directors are clear: protect your script and your characters; observe the values of script structure… Take a look at the work of Wilder’s own heroes, from Ernst Lubitsch to William Wyler, and then go out there with a camera and tell your stories with glee and a ferocious lack of false sentimentality. But most of all, ‘don’t bore them’.  
 **Cameron Crowe, _Sight & Sound_, December 2005**
@@ -102,6 +110,22 @@ Tue 14 Dec 20:45; Mon 20 Dec 20:45<br>
 Wed 15 Dec 17:50; Mon 27 Dec 18:00; Thu 30 Dec 14:20<br>
 <br>
 
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTY3MDk2OTYwMywtMTYzOTk5NTA2N119
