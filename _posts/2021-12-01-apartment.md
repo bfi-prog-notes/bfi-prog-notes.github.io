@@ -14,67 +14,64 @@ Part of the great fun of being a fan of Billy Wilder is that your favourite Wild
 
 In my experience of interviewing him, Wilder usually chose _Some Like It Hot_ or _The Apartment_ as his personal favourite. His reasons he said, were mostly script-based. He just loved the structure and the successful collaborations with his writing partner Izzy Diamond. He often mentioned the ‘cracked mirror’ scene in _The Apartment_ as one of his favourite moments in any of his films. He explained that these pictures and _Sunset Blvd._ ‘just worked’. Of his audience favourites, the only one that seemed to displease him was _Irma la Douce_. As for his favourite actors, he always mentioned Lemmon and Matthau and, with an extra twinkle, Charles Laughton.
 
-_Double Indemnity_ survives because of its masterful victory of tone and performance and direction. For a still young director, it was a work of sly bravura. And Wilder’s favourite element – the inner ‘love story’ between Fred MacMurray and Edward G. Robinson – gives the movie its freshness and a dark kick. Many try for this tone; few get there. Wilder used to say that a masterful comic actor like Cary Grant would forever be beaten at the Oscars by a less talented, furrow-browed serious actor with a ‘physical ailment of some kind’. It was his way, I think, of waving the flag for what he felt to be a far more difficult exercise – comedy. He was a great fan of modern pictures that had a certain graceful comic perfection, like the Japanese film _Shall We Dance__?_  
-He also loved the deep-tissue satire of _American Beauty_. As for his own legacy, Wilder sometimes scoffed, ‘Why would anyone care about me?’  
+_Double Indemnity_ survives because of its masterful victory of tone and performance and direction. For a still young director, it was a work of sly bravura. And Wilder’s favourite element – the inner ‘love story’ between Fred MacMurray and Edward G. Robinson – gives the movie its freshness and a dark kick. Many try for this tone; few get there. Wilder used to say that a masterful comic actor like Cary Grant would forever be beaten at the Oscars by a less talented, furrow-browed serious actor with a ‘physical ailment of some kind’. It was his way, I think, of waving the flag for what he felt to be a far more difficult exercise – comedy. He was a great fan of modern pictures that had a certain graceful comic perfection, like the Japanese film _Shall We Dance?_  He also loved the deep-tissue satire of _American Beauty_. As for his own legacy, Wilder sometimes scoffed, ‘Why would anyone care about me?’  
 But, in fact, he’d noticed the parade of younger filmmakers who cited him and made a point of telling me it genuinely surprised and touched him. ‘A lot?’  
 ‘A little,’ he’d answer with a trademark flick of his eyebrow that indicated the opposite might also be true.
 
-As Wilder once said of Audrey Hepburn, ‘there is only one’. But his lessons to other modern directors are clear: protect your script and your characters; observe the values of script structure… Take a look at the work of Wilder’s own heroes, from Ernst Lubitsch to William Wyler, and then go out there with a camera and tell your stories with glee and a ferocious lack of false sentimentality. But most of all, ‘don’t bore them’.
+As Wilder once said of Audrey Hepburn, ‘there is only one’. But his lessons to other modern directors are clear: protect your script and your characters; observe the values of script structure… Take a look at the work of Wilder’s own heroes, from Ernst Lubitsch to William Wyler, and then go out there with a camera and tell your stories with glee and a ferocious lack of false sentimentality. But most of all, ‘don’t bore them’.  
+**Cameron Crowe, _Sight & Sound_, December 2005**
+<br><br>
 
-Cameron Crowe, _Sight & Sound_, December 2005
+**THE APARTMENT**<br>
 
-<![endif]-->
+_Directed by:_ Billy Wilder<br>
 
-**THE APARTMENT**
+©_/Production Company:_ Mirisch Company<br>
 
-_Directed by:_ Billy Wilder
-
-©_/Production Company:_ Mirisch Company
-
-_Produced by:_ Billy Wilder
+_Produced by:_ Billy Wilder<br>
 
 _Associate Producers:_ I.A.L. Diamond,  
-Doane Harrison
+Doane Harrison<br>
 
-_Production Manager:_ Allen K. Wood
+_Production Manager:_ Allen K. Wood<br>
 
-_Assistant Director:_ Hal Polaire
+_Assistant Director:_ Hal Polaire<br>
 
-_Script Continuity:_ May Wale
+_Script Continuity:_ May Wale<br>
 
-_Written by:_ Billy Wilder, I.A.L. Diamond
+_Written by:_ Billy Wilder, I.A.L. Diamond<br>
 
-_Director of Photography:_ Joseph LaShelle
+_Director of Photography:_ Joseph LaShelle<br>
 
-_Special Effects:_ Milt Rice
+_Special Effects:_ Milt Rice<br>
 
-_Editor:_ Daniel Mandell
+_Editor:_ Daniel Mandell<br>
 
-_Art Director:_ Alexander Trauner
+_Art Director:_ Alexander Trauner<br>
 
-_Set Decorator:_ Edward G. Boyle
+_Set Decorator:_ Edward G. Boyle<br>
 
-_Property:_ Tom Plews
+_Property:_ Tom Plews<br>
 
-_Make-up:_ Harry Ray
+_Make-up:_ Harry Ray<br>
 
-_Music by:_ Adolph Deutsch
+_Music by:_ Adolph Deutsch<br>
 
-_Music Editor:_ Sid Sidney
+_Music Editor:_ Sid Sidney<br>
 
-_Sound:_ Fred Lau
+_Sound:_ Fred Lau<br>
 
-_Sound Effects Editor:_ Del Harris
+_Sound Effects Editor:_ Del Harris<br>
 
-_uncredited_
+_uncredited_<br>
 
-_Wardrobe:_ Forrest T. Butler
+_Wardrobe:_ Forrest T. Butler<br>
 
-_Hairstylist:_ Alice Monte
+_Hairstylist:_ Alice Monte<br>
 
-_Cast:_
+_Cast:_<br>
 
-Jack Lemmon _(C.C. ‘Bud’ Baxter)_
+Jack Lemmon _(C.C. ‘Bud’ Baxter)_<br>
 
 Shirley MacLaine _(Fran Kubelik)_
 
@@ -172,5 +169,5 @@ Tue 14 Dec 20:45; Mon 20 Dec 20:45
 
 Wed 15 Dec 17:50; Mon 27 Dec 18:00; Thu 30 Dec 14:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4ODA5NTEzXX0=
+eyJoaXN0b3J5IjpbMTc5ODg1ODg4Ml19
 -->
