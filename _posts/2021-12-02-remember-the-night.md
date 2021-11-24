@@ -31,8 +31,7 @@ Beulah Bondi _(Mrs Sargent)_
 Elizabeth Patterson _(Aunt Emma)_  
 Sterling Holloway _(Willie)_  
 Paul Guilfoyle _(District Attorney Garvin)_  
-Willard Robertson_  
-(Francis X. O’Leary, Lee’s defence lawyer)_  
+Willard Robertson _(Francis X. O’Leary, Lee’s defence lawyer)_  
 Charles D. Waldron _(judge – New York)_  
 Charles Arnt _(Tom)_  
 John Wray _(Hank, owner of field)_  
@@ -43,9 +42,9 @@ Thomas W. Ross _(Mr Emory)_
 Virginia Brissac _(Mrs Emory)_  
 Spencer Charters _(judge at rummage sale)_
 
-USA 1940
-
+USA 1940  
 94 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4OTc2MzI4XX0=
+eyJoaXN0b3J5IjpbMTM5NjkxODU2Ml19
 -->
