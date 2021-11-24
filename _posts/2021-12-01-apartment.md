@@ -47,59 +47,36 @@ _uncredited_<br>
 _Wardrobe:_ Forrest T. Butler<br>
 _Hairstylist:_ Alice Monte<br>
 
-_Cast:<br>
+**Cast**<br>
 Jack Lemmon _(C.C. ‘Bud’ Baxter)_<br>
-
 Shirley MacLaine _(Fran Kubelik)_<br>
-
 Fred MacMurray _(Jeff D. Sheldrake)_<br>
-
 Ray Walston _(Joe Dobisch)_<br>
-
 Jack Kruschen _(Dr Dreyfuss)_<br>
-
 David Lewis _(Al Kirkeby)_<br>
-
 Hope Holiday _(Margie MacDougall)_<br>
-
 Joan Shawlee _(Sylvia)_<br>
-
 Naomi Stevens _(Mrs Dreyfuss)_<br>
-
 Johnny Seven _(Karl Matuschka)_<br>
-
 Joyce Jameson _(blonde)_<br>
-
 Willard Waterman _(Vanderhof)_<br>
-
 David White _(Eichelberger)_<br>
-
 Edie Adams _(Miss Olsen)_<br>
 
 _uncredited_<br>
-
 Frances Weintraub Lax _(Mrs Lieberman)_<br>
-
 Benny Burt _(bartender)_<br>
-
 Hal Smith _(Santa Claus)_<br>
-
 Dorothy Abbott _(office worker)_<br>
 
 USA 1960©<br>
-
 125 mins
 
-The screening on Wed 1 Dec features a  
-pre-recorded intro by critic and improviser  
-Tara Judah
+The screening on Wed 1 Dec features a  pre-recorded intro by critic and improviser  Tara Judah
+<br><br>
 
-<![endif]-->
-
-BIG SCREEN CLASSICS<br>
-
+**BIG SCREEN CLASSICS**<br>
 **The Apartment**<br>
-
 Wed 1 Dec 18:00 (+ pre-recorded intro by critic and improviser Tara Judah); Mon 13 Dec 14:30; Wed 22 Dec 20:40; Tue 28 Dec 18:10; Thu 30 Dec 20:30<br>
 
 **Remember the Night**<br>
@@ -149,5 +126,5 @@ Wed 15 Dec 17:50; Mon 27 Dec 18:00; Thu 30 Dec 14:20<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjM5MDcyMV19
+eyJoaXN0b3J5IjpbLTE2Mzk5OTUwNjddfQ==
 -->
