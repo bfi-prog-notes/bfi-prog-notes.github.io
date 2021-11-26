@@ -26,13 +26,12 @@ It cross-breeds the following genres-or-strings (each of which overlaps with sev
 (_The Exorcist_, _Carrie_); (b) Apocalyptic scenery-shaking (_Ghostbusters_): _Ghostbusters_ is 3 men vs. female demon-carrier; this is ‘Devil-busters’ (3 women vs. male demon-incarnation).  
 **2. Gross-Out Comedy:** With its piggish-sleazy male and cascading vomit, this = ‘National Lampoon’s Animal Coven’.  
 **3. Romantic Fantasy:** Frustrated people meet Super-Being: _Splash_ (high-IQ mermaid), _Weird Science_ (computer-perfected female totem), _Cocoon_, _E.T._, _Back to the Future_. This film contrives a triple shuffle: the Super-Being is a slob, the mere humans become lightning-conducting, flying Wonder-Women, _and_ suffer a lot.  
-**4. The Capitalist-Daydream Life de Luxe:** As in _Arthur_, _Trading Places_,  
-_The Toy_, spoiled-rotten rich brats move through palatial-domestic environments. (Premature prototype: _Cinderfella_, 1960).  
+**4. The Capitalist-Daydream Life de Luxe:** As in _Arthur_, _Trading Places_,  _The Toy_, spoiled-rotten rich brats move through palatial-domestic environments. (Premature prototype: _Cinderfella_, 1960).  
 **5. Feminist Themes:** (a) As in _Nine to Five_, feminine trio dethrone unworthy male (but basically different types, settings, issues); (b) Sisterhood is strength (_The Turning Point_, _Julia_); (c) Superwoman flies out (see under 3 + _Supergirl_); (d) Liberating female sexuality: Daryl Van Horne (Jack Nicholson) looks like a handy sex-and-soul stimulus-object for female sharing.  
 N.B., Situations (a) and (c) look contradictory but are compatible: this devil _seems_ amenable but _becomes_ dominant.
 
-**B. Traditional Genres:  
-6. Women’s Drama** (competing term, **7, Soap Opera**; **8, Melodrama**): Whichever term we adopt, can this co-genre with, for example, _Our Mother’s House_, _The Pumpkin Eater_, to name two other ‘weird maternity’ stories?  
+**B. Traditional Genres:**  
+**6. Women’s Drama** (competing term, **7, Soap Opera**; **8, Melodrama**): Whichever term we adopt, can this co-genre with, for example, _Our Mother’s House_, _The Pumpkin Eater_, to name two other ‘weird maternity’ stories?  
 **9. Horror Film** (in the sense of ‘Supernatural Melodrama’).  
 **10. Supernatural Comedy:** _I Married a Witch_, _Bewitched_, both transparently metaphoric for secular-sex comedy.  
 **11. Small-town Comedy:** After Capra’s good angel in _It’s a Wonderful Life_, this is ‘It’s a Diabolical Life’.  
