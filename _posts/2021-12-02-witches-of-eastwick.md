@@ -80,22 +80,17 @@ _Art Directors_: Mark Mansbridge, Dave Carson
 _Set Designers_: Robert Sessa, Stan Tropp  
 _Set Decorator_: Joe D. Mitchell  
 _Production Illustrator_: Sherman Labby  
-_Costume Designers_: Aggie Guerard Rodgers,  
-Linda Henrikson  
+_Costume Designers_: Aggie Guerard Rodgers,  Linda Henrikson  
 _Men’s Costumers_: Eddie Marks, Eric H. Sandberg  
-_Women’s Costumers_: Robin Borman,  
-Pamela Havens  
+_Women’s Costumers_: Robin Borman,  Pamela Havens  
 _Make-up_: Ben Nye III, Leonard Engelman  
-_Special Make-up Effects Designed/Created by_:  
-Rob Bottin, Fernando Favila  
+_Special Make-up Effects Designed/Created by_:  Rob Bottin, Fernando Favila  
 _Bottin Effects Crew_: Richard White, Henry Alvarez, Art Pimentel, Vincent Prentice, Tammy Fites  
 _Title Design_: Anthony Goldschmidt  
-_Tennis Sequence Optical Co-ordinator (ILM)_:  
-Lori J. Nelson  
+_Tennis Sequence Optical Co-ordinator (ILM)_:  Lori J. Nelson  
 _Tennis Sequence Optical Line-up (ILM)_: Brad Kuehn  
 _Opticals_: Pacific Title  
-_Music Composed and Conducted by_:  
-John Williams  
+_Music Composed and Conducted by_:  John Williams  
 _Orchestrations_: Herbert W. Spencer  
 _Music Supervisor_: Keith Holzman  
 _Music Editor_: Ken Wannberg  
@@ -105,8 +100,7 @@ _Cello Coach_: Virginia Burward-Hoy
 _Sound Recording_: Art Rochester  
 _Sound Re-recording_: Wayne Artman, Tom Beckert, Tom E. Dahl  
 _Supervising Sound Editor_: Robert R. Rutledge  
-_Sound Effects Editors_: John R. Newlan,  
-Charles E. Smith, Robert Waxman, Susan Dudeck, Jerry Stanford  
+_Sound Effects Editors_: John R. Newlan,  Charles E. Smith, Robert Waxman, Susan Dudeck, Jerry Stanford  
 _Supervising ADR Editor_: James Beshears  
 _ADR Editors_: Lauren Palmer, Mary E. Andrews  
 _Supervising Foley Editor_: David B. Cohen  
@@ -115,8 +109,7 @@ _Stunt Co-ordinator_: Alan Gibbs
 _Stunts_: Paula Moody, Spike Silver, Donna Evans, Christine Baur  
 _Animal Handler_: Paul Calabria
 
-_Cast:_
-
+**Cast**  
 Jack Nicholson _(Daryl Van Horne)_  
 Cher _(Alexandra Medford)_  
 Susan Sarandon _(Jane Spofford)_  
@@ -128,8 +121,7 @@ Carel Struycken _(Fidel)_
 Helen Lloyd Breed _(Mrs Biddle)_  
 Caroline Struzik _(Carol Medford)_  
 Michele Sincavage, Nicol Sincavage, Heather Coleman, Carolyn Ditmars, Cynthia Ditmars, Christine Ditmars _(Ridgemont children)_  
-Craig Burket, Abraham Mishkind,  
-Christopher Verrette _(string quartet)_  
+Craig Burket, Abraham Mishkind,  Christopher Verrette _(string quartet)_  
 Becca Lish _(Mrs Neff)_  
 Ruth Maynard _(Mrs Biddle’s friend)_  
 Lansdale Chatfield _(1st doctor)_  
@@ -142,9 +134,9 @@ Ron Campbell _(ice-cream counterman)_
 Eugene Boles _(minister)_  
 Corey Carrier, Kate Barret, Dan Edson, Anthony Falco, Kevin Goodwin, Tara Halfpenny, David Hazel, Melanie Hewitt, Matt Kane, Anne Lindgren, Jessica Macdonald, Corinna Minnar, Scott Nickerson, Stephen Oakes, Ann Senechal, James Staunton, Amy Warner _(Lenox school band)_
 
-USA 1987
-
+USA 1987  
 118 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjcyMzMwMDksOTMwMDU3N119
+eyJoaXN0b3J5IjpbLTg3MTYxNjg4OSw5MzAwNTc3XX0=
 -->
