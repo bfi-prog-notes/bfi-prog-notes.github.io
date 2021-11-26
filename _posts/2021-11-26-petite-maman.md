@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Petite maman
+published: True
+date: 2021-11-26
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'France, 2021, 73 mins<br> Director: Céline Sciamma'
+pdf: '2021-11-26-petite-maman.pdf'
+---
 An extremely small and exactly perfect film, Céline Sciamma’s _Petite maman_ might at first appear dwarfed by her last title, _Portrait of a Lady of Fire_. But come closer – and this is a film that beckons like a forest path – and there is much that is similar. There’s the luminosity of the filmmaking – an introvert radiance made extrovert by the unshakable assurance of Claire Mathon’s camerawork and Sciamma’s own directorial certitude. And there’s a kinship between the stories, one about romantic love, the other about a mother-daughter bond. Both are really about the beautiful tragedy of love, even when fully reciprocated: that you can never truly know anyone, however much you care for them. _Portrait_, more epic though it was, hinged on the tiny revelation of a finger marking a significant place in a book, and _Petite Maman_ may yet turn out to be the page 28 in the ongoing novel of Sciamma’s career.
 
 Nelly (Joséphine Sanz) is eight, and her maternal grandmother has just died. With her mother, Marion (Nina Meurisse), and her father (Stéphane Varupenne), Nelly has taken leave of the other residents of her grandmother’s care home, and is being driven to her grandmother’s old house, where Marion grew up. From the backseat, Nelly wordlessly pops snacks into her mother’s mouth while she drives, even offering her a sip from her juice box – mute acts of care that speak volumes about their closeness, and about Nelly’s unusual empathy for her grieving _maman_.
@@ -116,6 +126,21 @@ From Fri 29 Oct<br>
 From Fri 12 Nov; Sat 13 Nov 17:20 (+ Q&A with director Mike Leigh, David Thewlis and Lesley Sharp)<br>
 **The Shop around the Corner**<br>
 From 3 December<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzMwNDAxMl19
--->
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
