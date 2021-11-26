@@ -1,4 +1,3 @@
-<![endif]-->
 
 _Rebel Dykes_ is a rabble-rousing documentary set in 1980s post-punk London. The unheard story of a community of dykes who met doing art, music, politics and sex, and how they went on to change their world.
 
@@ -35,6 +34,6 @@ Rebel Dykes History Project focuses on the heritage of a group of young lesbians
 Our project has inspired a host of art activities from sound to textiles to drag performance. We have worked with a number of academics to ensure these stories get into the history book. We are working with filmmakers to create a Feature Length Documentary. We run occasional events, including Gatherings and Online Film Club.  We work with numerous partners, including Bishopsgate Institute and On The Record. We inspire, we develop community, we have fun. We are The Rebel Dykes, and we believe anything is possible!<br>
 **rebeldykeshistoryproject.com**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDkwNzIsMjAwOTg5Mjg4MCw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbMjAxMzk2NzM2NSwyMDA5ODkyODgwLDczMD
+k5ODExNl19
 -->
