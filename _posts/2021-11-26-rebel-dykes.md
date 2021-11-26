@@ -1,3 +1,14 @@
+---
+layout: post
+title: Rebel Dykes
+published: True
+date: 2021-11-26
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Documentary]
+metadata: 'UK 2021, 89 mins<br> Directors: Sîan A. Williams, Harri Shanahan'
+pdf: '2021-11-26-rebel-dykes.pdf'
+---
 
 _Rebel Dykes_ is a rabble-rousing documentary set in 1980s post-punk London. The unheard story of a community of dykes who met doing art, music, politics and sex, and how they went on to change their world.
 
@@ -40,9 +51,7 @@ Our project has inspired a host of art activities from sound to textiles to drag
 _Directed by_: Sîan A. Williams, Harri Shanahan  
 _Recreation_: Sîan A. Williams  
 _©_: Riot Productions  
-_Executive Producers_: Charlotte Knowles,
-
-Michelle Mangan, Melanie Iredale, Phil Hunt  
+_Executive Producers_: Charlotte Knowles, Michelle Mangan, Melanie Iredale, Phil Hunt  
 _Producer_: Siobhan Fahey  
 _Archive Producer_: Siobhan Fahey  
 _Production Co-ordinators_: Harri Shanahan, Sîan A. Williams  
@@ -67,7 +76,45 @@ Cat, Hebe, Vanessa, Yenni _(recreation actors)_<br>
 
 UK 2021<br>
 89 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzQwODQ2OCwyMDA5ODkyODgwLDczMD
-k5ODExNl19
--->
+
+
+<img style="float: left;" src="/img/flare-logo-2020-01.png"><br><br><br><br><br><br><br>
+
+**NEW RELEASES**<br>
+**The French Dispatch**<br>
+From Fri 29 Oct<br>
+**Becoming Cousteau**<br>
+From Fri 12 Nov<br>
+**Petite Maman**<br>
+From Fri 26 Nov<br>
+**Rebel Dykes**<br>
+From Fri 26 Nov (+ Q&A Fri 26 Nov 18:20)<br>
+**Swan Song**<br>
+From Fri 17 Dec<br>
+
+**RE-RELEASES**<br>
+**Seven Samurai (Shichinin no Samurai)**<br>
+From Fri 29 Oct<br>
+**Naked**<br>
+From Fri 12 Nov; Sat 13 Nov 17:20 (+ Q&A with director Mike Leigh, David Thewlis and Lesley Sharp)<br>
+**The Shop around the Corner**<br>
+From 3 December<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
