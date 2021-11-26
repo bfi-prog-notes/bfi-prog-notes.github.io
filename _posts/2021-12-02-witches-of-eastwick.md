@@ -36,19 +36,15 @@ With special emphasis on Scandal/Embarrassment/Spectacular Public Humiliation/Gr
 
 **Deconstructing the Devil**
 
-**Tricky Old Nicky or, That New Devil, Inconsequence:  
-**Jack Nicholson’s Van Horne = Jerry Lewis + Bill Murray (who = John Wayne + cynical slob). And what a bundle of contradictions, what a compact of incoherences, is his weirdly changing bodyshape, his crazy-quilt costumes, his corkscrewy spiel! He’s (1) ‘Your average horny little devil’ (the mere male); (2) every kind of rebel against conformity (his wardrobe is a gaudy kaleidoscope of non-grey flannel); (3) snob Old America (Dutch name); (4) vulgar millionaire; (5) plush-pad hippy; (6) Hugh Hefner-ish _Playboy_ philosopher; (7) The Spirit of Consumer Hedonism; (8) the lonely male single who needs mothering; (9) the peacefully sensuous liberated male who’d be quite happy to be a woman; (10) the Sugar-Nobodaddy bearing gifts; (11) the shame-free brat; and more yet ... He’s a whirligig of styles and norms; the confusion of Everything-Is-Permitted-If-You-Think-So. He’s the All-American Screwtape ...
+**Tricky Old Nicky or, That New Devil, Inconsequence:**  
+Jack Nicholson’s Van Horne = Jerry Lewis + Bill Murray (who = John Wayne + cynical slob). And what a bundle of contradictions, what a compact of incoherences, is his weirdly changing bodyshape, his crazy-quilt costumes, his corkscrewy spiel! He’s (1) ‘Your average horny little devil’ (the mere male); (2) every kind of rebel against conformity (his wardrobe is a gaudy kaleidoscope of non-grey flannel); (3) snob Old America (Dutch name); (4) vulgar millionaire; (5) plush-pad hippy; (6) Hugh Hefner-ish _Playboy_ philosopher; (7) The Spirit of Consumer Hedonism; (8) the lonely male single who needs mothering; (9) the peacefully sensuous liberated male who’d be quite happy to be a woman; (10) the Sugar-Nobodaddy bearing gifts; (11) the shame-free brat; and more yet ... He’s a whirligig of styles and norms; the confusion of Everything-Is-Permitted-If-You-Think-So. He’s the All-American Screwtape ...
 
-Raymond Durgnat, _Monthly Film Bulletin_, September 1987
+**Raymond Durgnat, _Monthly Film Bulletin_, September 1987**
+<br><br>
 
-<![endif]-->
-
-**THE WITCHES OF EASTWICK**
-
+**THE WITCHES OF EASTWICK**  
 _Director_: George Miller  
-_Production Companies_: Warner Bros.,  
-Guber-Peters Company,  
-Kennedy Miller Productions  
+_Production Companies_: Warner Bros.,  Guber-Peters Company,  Kennedy Miller Productions  
 _Executive Producers_: Rob Cohen, Don Devlin  
 _Producers_: Neil Canton, Peter Guber, Jon Peters  
 _Unit Production Manager_: Michael S. Glick  
@@ -161,5 +157,5 @@ USA 1987
 
 118 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTk3MzAyMl19
+eyJoaXN0b3J5IjpbOTMwMDU3N119
 -->
