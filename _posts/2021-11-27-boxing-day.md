@@ -35,6 +35,141 @@ For Leigh-Anne Pinnock, who plays Melvin’s ex, Georgia, the fact that _Boxing 
 ‘We say black rom-com, and it is, but it’s also a universal story,’ insists Ameen. ‘Everyone can relate to it, cause it’s about family and love and friendship and set at that time of year we all enjoy. It’s also a particularly British story. Because, having lived in different countries for the past decade, there’s no place like London when it comes to representing deep and dynamic multi-cultural influences.’
 
 Production notes<br>
+
+<![endif]-->
+
+**Boxing Day**
+
+_Director_: Aml Ameen  
+_©_: Boxing Day Productions Ltd, Channel Four Television Corporation, The British Film Institute  
+_A_ DJ Films _and_ Studio 13 _production_
+
+_In association with_: Warner Bros. Pictures  
+_This production was made possible by the support of_: HM Treasury & DCMS’ Film and TV Production Restart Scheme  
+_Developed in association with_: Film4  
+_Made with the support of the_: BFI’s Film Fund  
+_Presented by_: Warner Bros. Pictures, BFI, Film4  
+_International Sales_: Rocket Science  
+_Executive Producers_: Lauren Dark,
+
+Thorsten Schumacher, Ollie Madden,
+
+Daniel Battsek, Farhana Bhula  
+_Produced by_: Matthew G. Zamias, Aml Ameen,
+
+Joy Gharoro-Akpojotor, Damian Jones,
+
+Dominique Telson  
+_Producers_: Damian Jones, Joy Gharoro-Akpojotor,  
+Matthew Zamias  
+_Co-producers_: Bruce Purnell, Dylan Rees  
+_Production Manager_: Juliette Cerceau  
+_Production Co-ordinator_: Shane Abbott  
+_Production Accountant_: Jade-Elizabeth Masters  
+_Unit Manager_: Paul Young  
+_Location Manager_: Ben Lee  
+_Post-production Supervisor_: Hashim Alsaraf  
+_1st Assistant Director_: Jeroen Bogaert  
+_2nd Assistant Director_: Erin Morris-Large  
+_Script Supervisor_: Annetta Laufer  
+_Casting by_: Isabella Odoffin  
+_Written by_: Aml Ameen  
+_Screenplay by_: Aml Ameen, Bruce Purnell  
+_Director of Photography_: David Pimm  
+_2nd Unit Director of Photography_: Alistair Little  
+_Steadicam Operator_: Junior Agyeman  
+_Stills Photographers_: Rekha Garton, Laura Radford  
+_VFX Created @ Frame by_: Frame Rome  
+_Edited by_: Rebecca Lloyd  
+_Production Designer_: Gini Godwin  
+_Art Director_: Jack Paul Hawthorn  
+_Set Decorator_: Jessamy Hadfield  
+_Graphic Designer_: Graeme Peacock  
+_Production Buyer_: Sakara Dawson-Marsh  
+_Props Master_: Andie Vining  
+_Costume Designer_: Buki Ebiesuwa  
+_Hair and Make-up Designer_: Nora Robertson  
+_Make-up Supervisor_: Amy De Rees  
+_Hair Stylist_: Joyce Iwuozo  
+_Colourist_: Duncan Russell  
+_Music by_: James Poyser  
+_Orchestrations_: Ella Feingold  
+_Music Supervisor_: David Fish  
+_Production Sound Mixer_: Sara De Oliveira Lima  
+_Re-recording Mixers_: Simon Hill, Jonathan Rush  
+_Supervising Sound Editor_: Lee Herrick  
+_Stunt Co-ordinators_: Frank Faulkner Henson,
+
+John Street  
+_COVID Supervisor_: Mel Brown  
+_Unit Publicist_: Laura Petit
+
+_Cast:_  
+Aml Ameen _(Melvin McKenzie)_  
+Aja Naomi King _(Lisa)_  
+Leigh-Anne Pinnock _(Georgia, ‘Miss Pocahontas’)_  
+Tamara Lawrance _(Boobsy McKenzie)_  
+Sheyi Cole _(Josh McKenzie)_  
+Robbie Gee _(Bilal)_  
+Samson Kayo _(Joseph)_  
+Stephen Dillane _(Richard)_  
+Marianne Jean-Baptiste _(Shirley McKenzie)_  
+Joshua Maloney _(Jermaine)_
+
+  
+_The Aunties:_
+
+Lisa Davina Philip _(Auntie Valerie)_  
+Claire Skinner _(Caroline)_  
+Martina Laird _(Janet)_
+
+_The Uncles:_
+
+Frazer James _(Billy)_  
+Derek Ezenagu _(Clint)_  
+Ricky Fearon _(Kirk)_
+
+Tim Ahern _(Dave)_  
+Melvin Gregg _(Ian Gorgeous)_  
+Caroline Langrishe _(Brenda)_  
+Harry Long _(concierge)_  
+Chris Nørskov-Jensen _(busker)_  
+Solly Mcleod _(bellman)_  
+Zeze Millz _(herself)_  
+Yasmin Monet Prince _(Alison)_  
+Alibe Parsons _(Mrs Sherman)_  
+Rochelle Rose _(Ms London)_  
+Karl Wilson _(driver)_  
+Jason Barrett _(Georgia’s driver)_
+
+UK 2021
+
+110 mins
+
+Courtesy of Warner Bros
+
+**IN PERSON & PREVIEWS
+
+**Doctor Who: City of Death**
+Sun 5 Dec 12:00
+**Mark Kermode Live in 3D at the BFI**
+Mon 6 Dec 18:10
+**Preview: Titane + Q&A with director Julia Ducournau**
+Mon 6 Dec 20:30
+**TV Preview: The Mezzotint + Q&A with director Mark Gatiss**
+Tue 7 Dec 18:10
+**TV Preview: The Tourist + Q&A with actors Jamie Dornan, Danielle Macdonald, Shalom Brune-Franklin and creatives**
+Tue 7 Dec 20:30
+**Exclusive Preview: Swan Song + Q&A with director Benjamin Cleary and actors Mahershala Ali and Naomie Harris**
+Wed 8 Dec 17:15
+**TV Preview: Ghosts Christmas Special + Q&A (guests TBA)**
+Thu 9 Dec 18:10
+**Patti Boulaye**
+Sun 12 Dec 15:30
+**Woman with a Movie Camera: Bridget Jones’s Diary at 20 + Q&A with director Sharon Maguire**
+Thu 16 Dec 18:00
+**Preview: Wheel of Fortune and Fantasy (Guzen to sozo)**
+Wed 29 Dec 18:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkxMjI2NTldfQ==
+eyJoaXN0b3J5IjpbMjY2MzQ0Nzg1LC0xMTA5MTIyNjU5XX0=
 -->
