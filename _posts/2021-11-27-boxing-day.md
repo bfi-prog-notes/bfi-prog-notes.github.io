@@ -1,4 +1,3 @@
-<![endif]-->
 
 _+ Q&A with writer-director Aml Ameen_
 
@@ -32,18 +31,14 @@ And while the film’s structure is pure rom-com – with his character, Melvin,
 
 For Leigh-Anne Pinnock, who plays Melvin’s ex, Georgia, the fact that _Boxing Day_ is the first all-black, British rom-com is hugely significant. ‘This is something that’s never been seen before, and it’s just so important to have these things on our screens,’ she says. ‘Black culture is not celebrated enough on our screens, so to be part of something that’s going to create history is incredible. And the fact we’ve got West Indian families, we’ve got African families, it’s so vibrant, it’s so beautiful, it’s so exciting.’
 
-‘We say black rom-com, and it is, but it’s also a universal story,’ insists Ameen. ‘Everyone can relate to it, cause it’s about family and love and friendship and set at that time of year we all enjoy. It’s also a particularly British story. Because, having lived in different countries for the past decade, there’s no place like London when it comes to representing deep and dynamic multi-cultural influences.’
+‘We say black rom-com, and it is, but it’s also a universal story,’ insists Ameen. ‘Everyone can relate to it, cause it’s about family and love and friendship and set at that time of year we all enjoy. It’s also a particularly British story. Because, having lived in different countries for the past decade, there’s no place like London when it comes to representing deep and dynamic multi-cultural influences.’<br>
+**Production notes**<br>
 
-Production notes<br>
 
-<![endif]-->
-
-**Boxing Day**
-
+**BOXING DAY**<br>
 _Director_: Aml Ameen  
 _©_: Boxing Day Productions Ltd, Channel Four Television Corporation, The British Film Institute  
 _A_ DJ Films _and_ Studio 13 _production_
-
 _In association with_: Warner Bros. Pictures  
 _This production was made possible by the support of_: HM Treasury & DCMS’ Film and TV Production Restart Scheme  
 _Developed in association with_: Film4  
@@ -170,6 +165,5 @@ Thu 16 Dec 18:00
 **Preview: Wheel of Fortune and Fantasy (Guzen to sozo)**
 Wed 29 Dec 18:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzg3NDk3MjUsLTExMDkxMjI2NTldfQ
-==
+eyJoaXN0b3J5IjpbMTMwMTUwODE0OSwtMTEwOTEyMjY1OV19
 -->
