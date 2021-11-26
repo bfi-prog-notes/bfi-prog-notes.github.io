@@ -143,12 +143,11 @@ Karl Wilson _(driver)_
 Jason Barrett _(Georgia’s driver)_
 
 UK 2021
-
 110 mins
 
 Courtesy of Warner Bros
 
-**IN PERSON & PREVIEWS
+**IN PERSON & PREVIEWS**
 
 **Doctor Who: City of Death**
 Sun 5 Dec 12:00
@@ -171,5 +170,6 @@ Thu 16 Dec 18:00
 **Preview: Wheel of Fortune and Fantasy (Guzen to sozo)**
 Wed 29 Dec 18:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2MzQ0Nzg1LC0xMTA5MTIyNjU5XX0=
+eyJoaXN0b3J5IjpbLTE5Nzg3NDk3MjUsLTExMDkxMjI2NTldfQ
+==
 -->
