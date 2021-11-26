@@ -8,12 +8,10 @@ A heady mash-up of animation, archive footage and interviews tells the story of 
 
 **Meet the Directors**
 
-**Harri Shanahan**
-
+**Harri Shanahan**<br>
 I’m an artist, filmmaker and animator from Manchester. I studied filmmaking at university but before _Rebel Dykes_, I mostly made post punk/experimental music videos and artist moving images. I began teaching myself to animate because of the narrative needs of _Rebel Dykes_ and fell in love with the art form. In 2019 I gained a Master’s degree in animation and now create animation for the education sector. I wanted to tell the story of the Rebel Dykes because I felt a kinship with their punk rebelliousness and their DIY approach to art and culture (having fronted my own feminist queer post-punk group ILL for some years). It has been an amazing experience to meet these amazing, trailblazing, kickass people and to have the opportunity to be part of telling their story.
 
-**Siân A. Williams**
-
+**Siân A. Williams**<br>
 I’m a filmmaker and professional archivist based in Manchester. For this project we used creative recreation sequences, animation and unseen personal archive to bring the ephemeral queer histories of 1980s dyke subcultures to life. I trained in photography and artist moving image at University of Wales and have also gained masters in critical theory and digital heritage, informing both my practice and archives career. I have over a decade of experience working in audio visual preservation and archive post-production, working at the BFI National Archive and Archives+ Manchester. I wanted to make the film because I’ve always felt a connection to the ethos of the Rebel Dykes. Their art and music was a formative influence when I was playing in DIY post-punk bands, and I was especially excited by the Rebel Dyke photographers that play with gender and identity and documented queer communities, all of which inspired my own visual art practice at the time. I devoured books like Del LaGrace Volcano’s _Love Bites_, _Nothing But the Girl: the Blatant Lesbian Image_ by Susie Bright and Jill Posener, and Tessa Boffin’s _Stolen Glances: Lesbians Take Photographs_. Sex, desire and politics are all really important in the film, and especially the creative worlds and family that they build around them.<br>
 
 **Siobhan Fahey**<br>
@@ -37,5 +35,6 @@ Rebel Dykes History Project focuses on the heritage of a group of young lesbians
 Our project has inspired a host of art activities from sound to textiles to drag performance. We have worked with a number of academics to ensure these stories get into the history book. We are working with filmmakers to create a Feature Length Documentary. We run occasional events, including Gatherings and Online Film Club.  We work with numerous partners, including Bishopsgate Institute and On The Record. We inspire, we develop community, we have fun. We are The Rebel Dykes, and we believe anything is possible!<br>
 **rebeldykeshistoryproject.com**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTg5Mjg4MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTg2MDkwNzIsMjAwOTg5Mjg4MCw3MzA5OT
+gxMTZdfQ==
 -->
