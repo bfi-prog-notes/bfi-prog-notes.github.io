@@ -1,9 +1,20 @@
+---
+layout: post
+title: Boxing Day
+published: true
+date: 2021-11-27
+readtime: true
+categories: ['PREVIEWS']
+tags: [Comedy]
+metadata: 'UK 2021, 110 mins<br> Director: Aml Ameen'
+pdf: '2021-11-27-boxing-day.pdf'
+---
 
 _+ Q&A with writer-director Aml Ameen_
 
 The first ever Black British rom-com, _Boxing Day_ marks the ground-breaking directorial debut of acclaimed actor Aml Ameen.
 
-After making a splash in 2006’s _Kidulthood_, and as the headstrong PC Lewis Hardy on ITV’s _The Bill_, Ameen made the move to America in 2009 where he starred in David Kelly’s legal drama _Harry’s Law_, the George Lucas-produced WWII feature _Red Tails_, opposite Oprah Winfrey in Lee Daniels’ _The Butler_, and the hit YA adaptation _The_ _Maze Runner._
+After making a splash in 2006’s _Kidulthood_, and as the headstrong PC Lewis Hardy on ITV’s _The Bill_, Ameen made the move to America in 2009 where he starred in David Kelly’s legal drama _Harry’s Law_, the George Lucas-produced WWII feature _Red Tails_, opposite Oprah Winfrey in Lee Daniels’ _The Butler_, and the hit YA adaptation _The Maze Runner._
 
 In 2018, Ameen returned to the UK to star in Idris Elba’s directorial debut _Yardie_, which premiered at the Sundance film festival. More recently, he starred in the science fiction thriller _Parallel_ and played Simon in Michaela Coel’s award-winning TV series _I May Destroy You_.
 
@@ -15,7 +26,7 @@ Ameen says his family’s Boxing Day celebrations start small. ‘It’s 20 peop
 
 It was during his family’s 2016 Boxing Day celebrations when something happened that made Ameen sit up, take note, and think his family has the material needed to be a movie. ‘I have the exact moment on video. We’re dancing to a song called _In Her Heart_. It’s a Jamaican dance hall song, and my cousin Joshua, who is in the movie as Jermaine, is dancing it as if he’s resuscitating someone, and at that moment, I was like, “That’s how I’m starting my movie.” It’s not how I started it in the end. But it was Josh who prompted it. And I remember thinking, my life is fantastic. No matter how far I go, my career or whatever happens in my life, I’m so rich at home. I have such a wealthy home life with my family.’
 
-For Ameen, the script was both a way to celebrate his family’s joy, as well as an opportunity to reflect his cultural and sociological background on the big screen — something he hadn’t seen before. ‘As I grew older, I was like, I really want to see something that represents how I grew up. Cause I didn’t grow up in the streets. I grew up in a middle-class background. My mum’s a psychologist, my dad’s a businessman, so I grew up very differently to what was being represented in films or TV, or what I had the opportunity to represent as an actor. And so, I was, “ want to see _my_ story.” I also come from a multicultural family, there’s Africans, Caribbean, Jamaican, Eastern Caribbean. My dad is Vincentian, my mum is Jamaican. And then there are other cultures, be it English white, that are a part of our family. We’ve got quite a mixed batch. But the thing that, ultimately, made me want to make a movie was the joy of what those parties mean to our family every year.’
+For Ameen, the script was both a way to celebrate his family’s joy, as well as an opportunity to reflect his cultural and sociological background on the big screen – something he hadn’t seen before. ‘As I grew older, I was like, I really want to see something that represents how I grew up. Cause I didn’t grow up in the streets. I grew up in a middle-class background. My mum’s a psychologist, my dad’s a businessman, so I grew up very differently to what was being represented in films or TV, or what I had the opportunity to represent as an actor. And so, I was, “ want to see _my_ story.” I also come from a multicultural family, there’s Africans, Caribbean, Jamaican, Eastern Caribbean. My dad is Vincentian, my mum is Jamaican. And then there are other cultures, be it English white, that are a part of our family. We’ve got quite a mixed batch. But the thing that, ultimately, made me want to make a movie was the joy of what those parties mean to our family every year.’
 
 And so, as Ameen sat down to write the script, he began mining his own life for characters and inspiration, drawing from ‘the diary of my life’. ‘Initially it was coming from writing from the heart, writing about my family and my experiences,’ he admits. ‘My experience of love. My experience of being British but having American girlfriends. And then my American girlfriend comes and meets the family. These are all my experiences. From a romance perspective, I don’t have an ex-girlfriend who’s a famous pop star. But I did draw from an ex-girlfriend who is a famous actress. I just played around with the truth a little bit and drew from moments of my life.’
 
@@ -46,8 +57,7 @@ _Made with the support of the_: BFI’s Film Fund
 _Presented by_: Warner Bros. Pictures, BFI, Film4  
 _International Sales_: Rocket Science  
 _Executive Producers_: Lauren Dark, Thorsten Schumacher, Ollie Madden, Daniel Battsek, Farhana Bhula  
-_Produced by_: Matthew G. Zamias, Aml Ameen,
-Joy Gharoro-Akpojotor, Damian Jones, Dominique Telson  
+_Produced by_: Matthew G. Zamias, Aml Ameen, Joy Gharoro-Akpojotor, Damian Jones, Dominique Telson  
 _Producers_: Damian Jones, Joy Gharoro-Akpojotor,  Matthew Zamias  
 _Co-producers_: Bruce Purnell, Dylan Rees  
 _Production Manager_: Juliette Cerceau  
@@ -99,7 +109,7 @@ Robbie Gee _(Bilal)_
 Samson Kayo _(Joseph)_  
 Stephen Dillane _(Richard)_  
 Marianne Jean-Baptiste _(Shirley McKenzie)_  
-Joshua Maloney _(Jermaine)_
+Joshua Maloney _(Jermaine)_<br>
 
 _The Aunties:_<br>
 Lisa Davina Philip _(Auntie Valerie)_  
@@ -122,7 +132,7 @@ Yasmin Monet Prince _(Alison)_
 Alibe Parsons _(Mrs Sherman)_  
 Rochelle Rose _(Ms London)_  
 Karl Wilson _(driver)_  
-Jason Barrett _(Georgia’s driver)_
+Jason Barrett _(Georgia’s driver)_<br>
 
 UK 2021<br>
 110 mins<br>
@@ -150,7 +160,20 @@ Sun 12 Dec 15:30<br>
 Thu 16 Dec 18:00<br>
 **Preview: Wheel of Fortune and Fantasy (Guzen to sozo)**<br>
 Wed 29 Dec 18:00<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODIwNzQ3OTcsLTExMDkxMjI2NTldfQ
-==
--->
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
