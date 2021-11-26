@@ -139,47 +139,27 @@ USA 1987
 <br><br>
 
 **REGULAR PROGRAMME**<br>
-
-**Art in the Making:  
-Kites, Paper Aeroplanes and the Allure of Flight**<br>
-
+**Art in the Making:  Kites, Paper Aeroplanes and the Allure of Flight**<br>
 Fri 3 Dec 18:15<br>
-
 **Projecting the Archive: Hunted (aka The Stranger in Between) + intro by BFI Curator Josephine Botting**<br>
-
 Tue 7 Dec 18:20<br>
-
 **Bogarde at 100: The Servant**<br>
-
-Thu 9 Dec 18:15; Thu 16 Dec 20:45;  
-Mon 20 Dec 14:00 (Seniors’ matinee + Q&A TBC); Tue 28 Dec 18:30; Wed 29 Dec 17:55<br>
-
+Thu 9 Dec 18:15; Thu 16 Dec 20:45;  Mon 20 Dec 14:00 (Seniors’ matinee + Q&A TBC); Tue 28 Dec 18:30; Wed 29 Dec 17:55<br>
 **African Odysseys: Billy Bang Lucky Man + intro by author Kevin Le Gendre, and Q&A with directors Markus Hansen and Jean-Marie Boulet (work permitting)**<br>
-
 Sat 11 Dec 17:30<br>
-<![endif]-->
-
-**Silent Cinema: The Virginian + intro by  
-BFI Curator Bryony Dixon**<br>
-
+**Silent Cinema: The Virginian + intro by  BFI Curator Bryony Dixon**<br>
 Sun 12 Dec 13:00<br>
-
-**Seniors’ Free Archive Matinee:  
-So Long at the Fair + Q&A (TBC)**<br>
-
+**Seniors’ Free Archive Matinee:  So Long at the Fair + Q&A (TBC)**<br>
 Mon 13 Dec 14:00<br>
-
 **Relaxed Screening: The Black Balloon**<br>
-
 Tue 14 Dec 18:10<br>
+**Projecting the Archive: I Could Go On Singing + intro by BFI Curator Josephine Botting**<br>
+Thu 16 Dec 18:15<br>
+**Terror Vision: The Shout**<br>
+Thu 30 Dec 20:50<br>
+<br>
 
-**Projecting the Archive: I Could Go On Singing + intro by BFI Curator Josephine Botting**
 
-Thu 16 Dec 18:15
-
-**Terror Vision: The Shout**
-
-Thu 30 Dec 20:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MjgyODY0OCw5MzAwNTc3XX0=
+eyJoaXN0b3J5IjpbLTE4OTc5MzU0MDcsOTMwMDU3N119
 -->
