@@ -139,8 +139,7 @@ UK 2021<br>
 
 Courtesy of Warner Bros<br>
 
-**IN PERSON & PREVIEWS**<br>
-**Doctor Who: City of Death**<br>
+**IN PERSON & PREVIEWS**<br>**Doctor Who: City of Death**<br>
 Sun 5 Dec 12:00<br>
 **Mark Kermode Live in 3D at the BFI**<br>
 Mon 6 Dec 18:10<br>
@@ -177,3 +176,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTUwNDk5OTA2M119
+-->
