@@ -34,10 +34,9 @@ Rebel Dykes History Project focuses on the heritage of a group of young lesbians
 Our project has inspired a host of art activities from sound to textiles to drag performance. We have worked with a number of academics to ensure these stories get into the history book. We are working with filmmakers to create a Feature Length Documentary. We run occasional events, including Gatherings and Online Film Club.  We work with numerous partners, including Bishopsgate Institute and On The Record. We inspire, we develop community, we have fun. We are The Rebel Dykes, and we believe anything is possible!<br>
 **rebeldykeshistoryproject.com**<br>
 
-<![endif]-->
 
-**Rebel Dykes**
 
+**REBEL DYKES**<br>
 _Directed by_: Sîan A. Williams, Harri Shanahan  
 _Recreation_: Sîan A. Williams  
 _©_: Riot Productions  
@@ -46,19 +45,13 @@ _Executive Producers_: Charlotte Knowles,
 Michelle Mangan, Melanie Iredale, Phil Hunt  
 _Producer_: Siobhan Fahey  
 _Archive Producer_: Siobhan Fahey  
-_Production Co-ordinators_: Harri Shanahan,
-
-Sîan A. Williams  
-_Post-production Managers_: Harri Shanahan,
-
-Sîan A. Williams  
+_Production Co-ordinators_: Harri Shanahan, Sîan A. Williams  
+_Post-production Managers_: Harri Shanahan, Sîan A. Williams  
 _Production Secretary_: Siobhan Fahey  
 _Archive Consultant_: Jo Stones  
 _Archive Research Consultant_: Stephanie Ashcroft  
 _Camera_: Harri Shanahan, Sîan A. Williams  
-_Animation/Animation & Compositing_:
-
-Harri Shanahan  
+_Animation/Animation & Compositing_: Harri Shanahan  
 _Editors_: Harri Shanahan, Sîan A. Williams  
 _Graphic Design_: Hannah McLennan-Jones  
 _Colourist_: Sîan A. Williams  
@@ -75,6 +68,6 @@ Cat, Hebe, Vanessa, Yenni _(recreation actors)_<br>
 UK 2021<br>
 89 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA0MzQ2NDcsMjAwOTg5Mjg4MCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTIzMzQwODQ2OCwyMDA5ODkyODgwLDczMD
+k5ODExNl19
 -->
