@@ -32,8 +32,49 @@ We use the Rebel Dykes archive to: stimulate intergenerational debate and commun
 Rebel Dykes History Project focuses on the heritage of a group of young lesbians who lived in London in the 1980s. This loose grouping was made up of young punk women on the edge of society. The areas of London that the heritage focuses on is Brixton, Vauxhall, Peckham, Soho, Forest Gate and Hackney. The young women were involved in political movements of the period 1983-1991, including Greenham Common, South London Women’s Hospital Occupation, anti-censorship, sex-positive feminism, sex workers rights, anti-Section 28, ACT-UP and the Poll Tax Riots. As a movement they were heavily involved in art and culture, creating bands, art, club nights, zines and festivals.
 
 Our project has inspired a host of art activities from sound to textiles to drag performance. We have worked with a number of academics to ensure these stories get into the history book. We are working with filmmakers to create a Feature Length Documentary. We run occasional events, including Gatherings and Online Film Club.  We work with numerous partners, including Bishopsgate Institute and On The Record. We inspire, we develop community, we have fun. We are The Rebel Dykes, and we believe anything is possible!<br>
-**rebeldykeshistoryproject.com**
+**rebeldykeshistoryproject.com**<br>
+
+<![endif]-->
+
+**Rebel Dykes**
+
+_Directed by_: Sîan A. Williams, Harri Shanahan  
+_Recreation_: Sîan A. Williams  
+_©_: Riot Productions  
+_Executive Producers_: Charlotte Knowles,
+
+Michelle Mangan, Melanie Iredale, Phil Hunt  
+_Producer_: Siobhan Fahey  
+_Archive Producer_: Siobhan Fahey  
+_Production Co-ordinators_: Harri Shanahan,
+
+Sîan A. Williams  
+_Post-production Managers_: Harri Shanahan,
+
+Sîan A. Williams  
+_Production Secretary_: Siobhan Fahey  
+_Archive Consultant_: Jo Stones  
+_Archive Research Consultant_: Stephanie Ashcroft  
+_Camera_: Harri Shanahan, Sîan A. Williams  
+_Animation/Animation & Compositing_:
+
+Harri Shanahan  
+_Editors_: Harri Shanahan, Sîan A. Williams  
+_Graphic Design_: Hannah McLennan-Jones  
+_Colourist_: Sîan A. Williams  
+_Original Music/Original Composition_: Ellyott  
+_Sound Design_: Alexia Charoud  
+_Sound Recording_: Whitney Bluzma, Harri Shanahan, Michael-Jon Mizra, Nat Sutcliffe, Matty Simpson  
+_Audio Post-production Manager_: Harri Shanahan  
+_Impact Producer_: Siobhan Fahey<br>
+
+**Cast**<br>
+Indigo Azidahaka _(BBC invader actor)_  
+Cat, Hebe, Vanessa, Yenni _(recreation actors)_<br>
+
+UK 2021<br>
+89 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzk2NzM2NSwyMDA5ODkyODgwLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTE0NjA0MzQ2NDcsMjAwOTg5Mjg4MCw3Mz
+A5OTgxMTZdfQ==
 -->
