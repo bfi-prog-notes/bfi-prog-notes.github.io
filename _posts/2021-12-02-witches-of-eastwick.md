@@ -50,41 +50,30 @@ _Producers_: Neil Canton, Peter Guber, Jon Peters
 _Unit Production Manager_: Michael S. Glick  
 _Production Supervisor (ILM)_: Chrissie England  
 _Production Co-ordinator (Boston)_: Spencer Howard  
-_Location Managers_: Sam Mercer,  
-Charles Harrington  
-_Production Aides_: Robin Wilf, William Messing,  
-Leo Murphy, Laurie Balton, Lisa Niedenthal,  
-Antonia Bogdanovich, Andrew Herman Weltman, James Chessanthis  
-_Production Support (ILM)_: Jenny Fulle,  
-Leigh Blicher, Chris Duddy, Greg Beaumonte, Lanny Cermak, Mike Mackenzie, Scott Squires, Udo Pampel, Vincent Tilker, Cheryl Durham,  
-Bob Fernley, Karen Dube, Pamela J. Kaye  
+_Location Managers_: Sam Mercer,  Charles Harrington  
+_Production Aides_: Robin Wilf, William Messing,  Leo Murphy, Laurie Balton, Lisa Niedenthal,  Antonia Bogdanovich, Andrew Herman Weltman, James Chessanthis  
+_Production Support (ILM)_: Jenny Fulle,  Leigh Blicher, Chris Duddy, Greg Beaumonte, Lanny Cermak, Mike Mackenzie, Scott Squires, Udo Pampel, Vincent Tilker, Cheryl Durham,  Bob Fernley, Karen Dube, Pamela J. Kaye  
 _Assistant Directors_: Chris Soldo, Robert Yannetti  
 _Casting_: Wallis Nicita  
 _Screenplay_: Michael Cristofer  
 _Based on the novel by_: John Updike  
 _Director of Photography_: Vilmos Zsigmond  
 _Optical Photography Supervisor (ILM)_: Ed Jones  
-_Camera Operators_: Ray De La Motte,  
-Harald Ortenburger, Peter Norman  
+_Camera Operators_: Ray De La Motte,  Harald Ortenburger, Peter Norman  
 _Tennis Sequence Motion Control Camera Operators (ILM)_: Bruce Walters, Jon Alexander  
-_Visual Effects Supervisors_: Michael Owens,  
-Kathryn Witte, Warren Franklin  
-_Visual Effects Photography (ILM)_: Kim Marks,  
-Pat Turner  
+_Visual Effects Supervisors_: Michael Owens,  Kathryn Witte, Warren Franklin  
+_Visual Effects Photography (ILM)_: Kim Marks,  Pat Turner  
 _Matte Photography Supervisor (ILM)_: Craig Barron  
 _Matte Artist (ILM)_: Sean Joyce  
 _Special Effects Supervisor_: Michael Lanteri  
-_Special Effects_: Clay Pinney, Thomas Ryba,  
-Robert Spurlock, Donald R. Elliot, Louis Lanteri  
-_Tennis Sequence Creature Construction_:  
-Eben Stromquist  
+_Special Effects_: Clay Pinney, Thomas Ryba,  Robert Spurlock, Donald R. Elliot, Louis Lanteri  
+_Tennis Sequence Creature Construction_:  Eben Stromquist  
 _Model Shop Supervisors (ILM)_: Barbara Affonso, John Reed  
 _Tennis Sequence Model Maker (ILM)_: Victoria Lewis  
 _Tennis Sequence Animation Department Supervisor (ILM)_: Ellen Lichtwardt  
 _Tennis Sequence Animation (ILM)_: John Armstrong, Chris Green  
 _Tennis Sequence Roto (ILM)_: Sandy Houston, Rebecca Heskes, Sandy Ford  
-_Editors_: Richard Francis-Bruce,  
-Hubert C. de La Bouillerie  
+_Editors_: Richard Francis-Bruce,  Hubert C. de La Bouillerie  
 _Visual Effects Editor (ILM)_: Howard Stein  
 _Production Designer_: Polly Platt  
 _Art Directors_: Mark Mansbridge, Dave Carson  
@@ -157,5 +146,5 @@ USA 1987
 
 118 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwMDU3N119
+eyJoaXN0b3J5IjpbLTE1MjcyMzMwMDksOTMwMDU3N119
 -->
