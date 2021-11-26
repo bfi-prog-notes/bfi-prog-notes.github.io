@@ -30,7 +30,109 @@ That last question, Sciamma says, is why she decided to cast siblings. She put o
 As for their extraordinary, no-frills performance style, it came about partly through Sciamma’s very specific instructions. ‘I was not asking for their emotion, ever. I was always talking about emotions in cinema. For example, when Nelly goes into the room as a spy to check on the mother, I wouldn’t say, “You’re scared”, I’d say, “This is a spy film.” It was always about cinema. “When you’re running in the forest, it’s an action scene, you’re like James Bond.” I think it’s a great way to work with kids – and with actors in general.’
 
 The very personal dimension of _Petite maman_ comes from the film’s design and its shooting, which reconnected Sciamma with her own past. The two girls’ identical houses, their interiors created in the studio, were a fusion of the homes of Sciamma’s own grandmothers, while the exteriors were shot in the woods of her childhood home Cergy, where she herself once built a treehouse. Cergy is a 1960s new town, its specific style of implantation in the landscape giving it a particular filmic quality that made it a memorable location in Éric Rohmer’s 1987 film _My Girlfriend’s Boyfriend_. ‘I was as old as the town I grew up in,’ says Sciamma. ‘It was a very special childhood, to live in a place that’s brand new, with no past – it’s like you’re inventing it. It was a very experimental town, I had an experimental childhood in a way.’<br>
-**Céline Sciamma talking to Jonathan Romney, _Sight and Sound_, December 2021**
+**Céline Sciamma talking to Jonathan Romney, _Sight and Sound_, December 2021**<br>
+
+
+**PETITE MAMAN**  
+_Directed by_: Céline Sciamma  
+_©_: Lilies Films, France 3 Cinéma  
+_Production Company_: Lilies Films  
+_In co-production with_: France 3 Cinéma  
+_With the support of La_: Région Île-de-France  
+_With the participation of_: Canal+, France Télévisions, Ciné+  
+_In association with_: Pyramide Distribution, MK2, P28  
+_Presented by_: Lilies Films  
+_Produced by_: Bénédicte Couvreur  
+_Unit Production Manager_: Claire Langmann  
+_Production Manager_: Monica Taverna  
+_Unit Manager_: Gary Spinelli  
+_Location Manager_: Alissia Blanchard  
+_1st Assistant Director_: Delphine Daull  
+_2nd Assistant Director_: Jérémie Debord  
+_Script Supervisor_: Cécile Rodolakis  
+_Casting_: Christel Baras  
+_Assisted by_: Lola Diane  
+_Written by_: Céline Sciamma  
+_Director of Photography_: Claire Mathon  
+_1st Assistant Operator_: Fabienne Octobre  
+_2nd Assistant Operator_: Nathalie Lao  
+_Gaffer_: Ernesto Giolitti  
+_Key Grip_: Marc Wilhelm  
+_Visual Effects_: La Compagnie Générale des Effets Visuels  
+_Special Effects Supervisor_: Benoît Talenton  
+_Editing_: Julien Lacheray  
+_1st Assistant Editor_: Charlotte Bouché  
+_2nd Assistant Editor_: Fanny Klingler  
+_Art Director_: Lionel Brison  
+_Set Dresser_: Dan Bevan  
+_Properties_: Géraldine Scaramèla-Vallet  
+_Visual Researcher_: Pierre-Emmanuel Lyet  
+_Costumes_: Céline Sciamma  
+_Wardrobe_: Agathe Meinnemare  
+_Key Make-up_: Marie Luiset  
+_Titles_: Guillaume Sciamma  
+_Original Music_: Para One  
+_Music Recording_: Diane Prieur  
+_Music Mixer_: Daniel Sobrino  
+_Production Sound Mixer_: Julien Sicart  
+_Sound Editor_: Valérie De Loof  
+_Dialogue Editor_: Sarah Lelu  
+_Foley Artist_: Vincent Milner  
+_Foley Recordist_: Xavier Thieulin  
+_Post-synchronization_: Daniel Sobrino<br>
+
+**Cast**<br>
+Joséphine Sanz _(Nelly)_  
+Gabrielle Sanz _(Marion)_  
+Nina Meurisse _(mother)_  
+Stéphane Varupenne _(father)_  
+Margot Abascal _(grandmother)_  
+Flores Cardo _(1st old lady)_  
+Josée Schuller _(2nd old lady)_  
+Guylène Péan _(3rd old lady)_
+
+France 2021<br>
+73 mins<br>
+
+A MUBI release<br>
+
+<![endif]-->
+
+NEW RELEASES
+
+**The French Dispatch**
+
+From Fri 29 Oct
+
+**Becoming Cousteau**
+
+From Fri 12 Nov
+
+**Petite Maman**
+
+From Fri 26 Nov
+
+**Rebel Dykes**
+
+From Fri 26 Nov (+ Q&A Fri 26 Nov 18:20)
+
+**Swan Song**
+
+From Fri 17 Dec
+
+RE-RELEASES
+
+**Seven Samurai (Shichinin no Samurai)**
+
+From Fri 29 Oct
+
+**Naked**
+
+From Fri 12 Nov; Sat 13 Nov 17:20 (+ Q&A with director Mike Leigh, David Thewlis and Lesley Sharp)
+
+**The Shop around the Corner**
+
+From 3 December
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzODc3MzM1XX0=
+eyJoaXN0b3J5IjpbLTEyMjM0Nzg4M119
 -->
