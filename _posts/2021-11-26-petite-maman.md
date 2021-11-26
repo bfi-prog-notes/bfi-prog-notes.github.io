@@ -95,44 +95,27 @@ France 2021<br>
 73 mins<br>
 
 A MUBI release<br>
+<br>
 
-<![endif]-->
+**NEW RELEASES**<br>
+**The French Dispatch**<br>
+From Fri 29 Oct<br>
+**Becoming Cousteau**<br>
+From Fri 12 Nov<br>
+**Petite Maman**<br>
+From Fri 26 Nov<br>
+**Rebel Dykes**<br>
+From Fri 26 Nov (+ Q&A Fri 26 Nov 18:20)<br>
+**Swan Song**<br>
+From Fri 17 Dec<br>
 
-NEW RELEASES
-
-**The French Dispatch**
-
-From Fri 29 Oct
-
-**Becoming Cousteau**
-
-From Fri 12 Nov
-
-**Petite Maman**
-
-From Fri 26 Nov
-
-**Rebel Dykes**
-
-From Fri 26 Nov (+ Q&A Fri 26 Nov 18:20)
-
-**Swan Song**
-
-From Fri 17 Dec
-
-RE-RELEASES
-
-**Seven Samurai (Shichinin no Samurai)**
-
-From Fri 29 Oct
-
-**Naked**
-
-From Fri 12 Nov; Sat 13 Nov 17:20 (+ Q&A with director Mike Leigh, David Thewlis and Lesley Sharp)
-
-**The Shop around the Corner**
-
-From 3 December
+**RE-RELEASES**<br>
+**Seven Samurai (Shichinin no Samurai)**<br>
+From Fri 29 Oct<br>
+**Naked**<br>
+From Fri 12 Nov; Sat 13 Nov 17:20 (+ Q&A with director Mike Leigh, David Thewlis and Lesley Sharp)<br>
+**The Shop around the Corner**<br>
+From 3 December<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjM0Nzg4M119
+eyJoaXN0b3J5IjpbLTI4MzMwNDAxMl19
 -->
