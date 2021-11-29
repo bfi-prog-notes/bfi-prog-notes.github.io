@@ -66,74 +66,42 @@ _Voice Doubles for Mary Astor:_  Rose Paidar, Eileen Wilson<br>
 **Cast**<br>
 Judy Garland _(Esther Smith)_<br>
 Margaret O’Brien _(‘Tootie’ Smith)_<br>
-
 Mary Astor _(Mrs Anna Smith)_<br>
-
 Lucille Bremer _(Rose Smith)_<br>
-
 Leon Ames _(Mr Alzonzo ‘Lon’ Smith)_<br>
-
 Tom Drake _(John Truett)_<br>
-
 Marjorie Main _(Katie, the maid)_<br>
-
 Harry Davenport _(Grandpa Prophater)_<br>
-
 June Lockhart _(Lucille Ballard)_<br>
-
 Henry Daniels Jr _(Lon Smith Jr)_<br>
-
 Joan Carroll _(Agnes Smith)_<br>
-
 Hugh Marlowe _(Colonel Darly)_<br>
-
 Robert Sully _(Warren Sheffield)_<br>
-
 Chill Wills _(Mr Neely)_<br>
 
 _uncredited_<br>
-
 Donald Curtis _(Dr Girard)_<br>
-
 Mary Jo Ellis _(Ida Boothby)_<br>
-
 Ken Wilson _(Quentin)_<br>
-
 Robert Emmett O’Connor _(motorman)_<br>
-
 Darryl Hickman _(Johnny Tevis)_<br>
-
 Dr Leonard Walker _(conductor)_<br>
-
 Victor Kilian _(baggage man)_<br>
-
 John Phipps _(mailman)_<br>
-
 Sam Harris _(Mr March)_<br>
-
 Mayo Newhall _(Mr Braukoff)_<br>
-
 Belle Mitchell _(Mrs Braukoff)_<br>
-
 Sidney Barnes _(Hugo Borvis)_<br>
-
 Myron Tobias _(George)_<br>
-
 Victor Cox _(driver)_<br>
-
-Kenneth Donner, Buddy Gorman,  
-Joe Cobb _(Clinton Badgers)_<br>
-
+Kenneth Donner, Buddy Gorman,  Joe Cobb _(Clinton Badgers)_<br>
 Helen Gilbert _(girl on trolley)_<br>
-
 Music Maids<br>
-
 Seckler Group
 
 USA 1944©<br>
-
 113 mins
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDcwMzg1N119
+eyJoaXN0b3J5IjpbLTM3MTM4MTc3NV19
 -->
