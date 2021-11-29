@@ -40,74 +40,45 @@ _Recording Director:_ Douglas Shearer<br>
 
 **Cast**<br>
 Margaret Sullavan _(Klara Novak)_<br>
-
 James Stewart _(Alfred Kralik)_<br>
-
 Frank Morgan _(Hugo Matuschek)_<br>
-
 Joseph Schildkraut _(Ferencz Vadas)_<br>
-
 Sara Haden _(Flora Kaczek)_<br>
-
 Felix Bressart _(Pirovitch)_<br>
-
 William Tracy _(Pepi Katona)_<br>
-
 Inez Courtney _(Ilona Novotni)_<br>
-
 Sarah Edwards _(woman customer buying a belt)_<br>
-
 Edwin Maxwell _(doctor)_<br>
-
 Charles Halton _(detective)_<br>
-
 Charles Smith _(Rudy, new errand boy)_<br>
-
 Grace Hayle _(plump cigar box customer)_ *<br>
-
 Charles Arnt _(policeman)_ *<br>
-
 Renie Riano _(customer for bags with zippers)_ *<br>
-
 William Edmunds _(waiter)_ *<br>
-
 Mary Carr _(grandmother)_ *<br>
-
 Mabel Colcord _(Aunt Anna)_ *<br>
-
-Claire DuBrey, Ruth Warren, Joan Blair,  
-Mira McKinney, Gertrude Simpson _(customers)_ *<br>
+Claire DuBrey, Ruth Warren, Joan Blair,  Mira McKinney, Gertrude Simpson _(customers)_ *<br>
 
 USA 1940©<br>
-
 99 mins
 
 *Uncredited
 
 A BFI release
 
-The screening on Fri 3 Dec 18:10 will feature a  
-pre-recorded introduction by Geoff Andrew, Programmer-at-Large
+The screening on Fri 3 Dec 18:10 will feature a  pre-recorded introduction by Geoff Andrew, Programmer-at-Large
+<br><br>
 
-<![endif]-->
-
-NEW & RE-RELEASES
-
-**Petite Maman**
-
-Continues from Fri 26 Nov
-
-**Rebel Dykes**
-
-Continues from Fri 26 Nov
-
-**The Shop around the Corner**
-
-From 3 December
-
-**Swan Song**
-
-From Fri 17 Dec
+**NEW & RE-RELEASES**<br>
+**Petite Maman**<br>
+Continues from Fri 26 Nov<br>
+**Rebel Dykes**<br>
+Continues from Fri 26 Nov<br>
+**The Shop around the Corner**<br>
+From 3 December<br>
+**Swan Song**<br>
+From Fri 17 Dec<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTQwMDM2MF19
+eyJoaXN0b3J5IjpbNTIyMzA3Njc1XX0=
 -->
