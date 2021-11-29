@@ -70,7 +70,7 @@ _Miniatures Assistant:_ Donald Jahraus<br>
 _Music Adaptation:_ Roger Edens<br>
 _Music Mixers:_ Mike McLaughlin,  Herbert Stahlberg<br>
 _Unit Mixer:_ Joe Edmondson<br>
-_Re-recording/Effects Mixers:_  Standish J. Lambert, Frank Mackenzie, Robert Shirley, Newell Sparks,William Steinkamp, Michael Steinore,  John A. Williams<br>
+_Re-recording/Effects Mixers:_  Standish J. Lambert, Frank Mackenzie, Robert Shirley, Newell Sparks, William Steinkamp, Michael Steinore,  John A. Williams<br>
 _Voice Doubles for Mary Astor:_  Rose Paidar, Eileen Wilson<br>
 
 **Cast**<br>
