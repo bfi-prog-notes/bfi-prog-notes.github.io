@@ -22,84 +22,67 @@ This is a yet more sophisticated version of Lubitsch’s famous propensity for m
 <br><br>
 
 **THE SHOP AROUND THE CORNER**<br>
-
 _Directed by:_ Ernst Lubitsch<br>
-
-_Production Companies:_ Loew’s Incorporated,  
-Metro-Goldwyn-Mayer<br>
-
+_Production Companies:_ Loew’s Incorporated,  Metro-Goldwyn-Mayer<br>
 _Produced by:_ Ernst Lubitsch<br>
-
 _Unit Manager:_ Arthur Rose *<br>
+_Assistant Director:_ Horace Hough *<br>
+_Screen Play by:_ Samson Raphaelson<br>
+_Based on a play by:_ Nikolaus Laszlo<br>
+_Director of Photography:_ William Daniels<br>
+_Editor:_ Gene Ruggiero<br>
+_Art Director:_ Cedric Gibbons<br>
+_Associate:_ Wade B. Rubottom<br>
+_Set Decorations:_ Edwin B. Willis<br>
+_Hair Styles for Miss Sullavan:_ Sydney Guilaroff<br>
+_Musical Score:_ Werner R. Heymann<br>
+_Recording Director:_ Douglas Shearer<br>
 
-_Assistant Director:_ Horace Hough *
+**Cast**<br>
+Margaret Sullavan _(Klara Novak)_<br>
 
-_Screen Play by:_ Samson Raphaelson
+James Stewart _(Alfred Kralik)_<br>
 
-_Based on a play by:_ Nikolaus Laszlo
+Frank Morgan _(Hugo Matuschek)_<br>
 
-_Director of Photography:_ William Daniels
+Joseph Schildkraut _(Ferencz Vadas)_<br>
 
-_Editor:_ Gene Ruggiero
+Sara Haden _(Flora Kaczek)_<br>
 
-_Art Director:_ Cedric Gibbons
+Felix Bressart _(Pirovitch)_<br>
 
-_Associate:_ Wade B. Rubottom
+William Tracy _(Pepi Katona)_<br>
 
-_Set Decorations:_ Edwin B. Willis
+Inez Courtney _(Ilona Novotni)_<br>
 
-_Hair Styles for Miss Sullavan:_ Sydney Guilaroff
+Sarah Edwards _(woman customer buying a belt)_<br>
 
-_Musical Score:_ Werner R. Heymann
+Edwin Maxwell _(doctor)_<br>
 
-_Recording Director:_ Douglas Shearer
+Charles Halton _(detective)_<br>
 
-_Cast:_
+Charles Smith _(Rudy, new errand boy)_<br>
 
-Margaret Sullavan _(Klara Novak)_
+Grace Hayle _(plump cigar box customer)_ *<br>
 
-James Stewart _(Alfred Kralik)_
+Charles Arnt _(policeman)_ *<br>
 
-Frank Morgan _(Hugo Matuschek)_
+Renie Riano _(customer for bags with zippers)_ *<br>
 
-Joseph Schildkraut _(Ferencz Vadas)_
+William Edmunds _(waiter)_ *<br>
 
-Sara Haden _(Flora Kaczek)_
+Mary Carr _(grandmother)_ *<br>
 
-Felix Bressart _(Pirovitch)_
-
-William Tracy _(Pepi Katona)_
-
-Inez Courtney _(Ilona Novotni)_
-
-Sarah Edwards _(woman customer buying a belt)_
-
-Edwin Maxwell _(doctor)_
-
-Charles Halton _(detective)_
-
-Charles Smith _(Rudy, new errand boy)_
-
-Grace Hayle _(plump cigar box customer)_ *
-
-Charles Arnt _(policeman)_ *
-
-Renie Riano _(customer for bags with zippers)_ *
-
-William Edmunds _(waiter)_ *
-
-Mary Carr _(grandmother)_ *
-
-Mabel Colcord _(Aunt Anna)_ *
+Mabel Colcord _(Aunt Anna)_ *<br>
 
 Claire DuBrey, Ruth Warren, Joan Blair,  
-Mira McKinney, Gertrude Simpson _(customers)_ *
+Mira McKinney, Gertrude Simpson _(customers)_ *<br>
 
-USA 1940©
+USA 1940©<br>
 
 99 mins
 
-* Uncredited
+*Uncredited
 
 A BFI release
 
@@ -126,5 +109,5 @@ From 3 December
 
 From Fri 17 Dec
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyNDc3MTU2XX0=
+eyJoaXN0b3J5IjpbMTY4MTQwMDM2MF19
 -->
