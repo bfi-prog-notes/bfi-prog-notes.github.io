@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Meet Me in St. Louis
+published: true
+date: 2021-12-03
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Musical]
+metadata: 'USA, 1944, 113 mins<br> Director: Vincente Minnelli'
+pdf: '2021-12-03-meet-me-in-st-louis.pdf'
+---
 
 The closer you look at most famous Hollywood productions, the harder it is to see how they turned out all right – let alone to believe that anyone was in charge. Just as on any set the crew trusts that the film will go through the camera without jamming, so you come to credit a kind of providence ensuring that the big mess will get finished. Once it’s done, you’ve only the public, and they’re so daft you never know whether they’ll call the picture un-ironed (or unwashed) laundry or smooth as silk. But with _Meet Me in St. Louis_ just about everyone involved reckoned it was an unlikely project from the start. The only way you could have faith in it was to tell yourself that Arthur Freed was a man of immense taste and refinement. End of joke. Arthur Freed might have been the production chief on Metro musicals, with more talent at his disposal than any executive had ever seen. But he was the proverbial slob and arse-kisser. So trust Arthur! Except that Arthur was always asking Mr Mayer, ‘Whaddya you think, boss?’ And LB didn’t think this one would fly.
 
@@ -102,6 +112,51 @@ Seckler Group
 USA 1944©<br>
 113 mins
 <br><br>
+
+**BIG SCREEN CLASSICS**<br>
+**The Apartment**<br>
+Wed 1 Dec 18:00 (+ pre-recorded intro by critic and improviser Tara Judah); Mon 13 Dec 14:30; Wed 22 Dec 20:40; Tue 28 Dec 18:10; Thu 30 Dec 20:30<br>
+**Remember the Night**<br>
+Thu 2 Dec 14:30; Mon 27 Dec 13:00; Thu 30 Dec 18:00<br>
+**Meet Me in St Louis**<br>
+Fri 3 Dec 20:45; Sun 19 Dec 12:20; Wed 22 Dec 18:00; Tue 28 Dec 12:20<br>
+**Miracle on 34th Street**<br>
+Sat 4 Dec 15:50; Sat 11 Dec 18:00; Fri 17 Dec 14:30<br>
+**A Christmas Tale (Un conte de Noël)**<br>
+Sun 5 Dec 17:50; Tue 28 Dec 15:15<br>
+**Scrooge (aka A Christmas Carol)**<br>
+Mon 6 Dec 18:30; Thu 16 Dec 21:00; Fri 17 Dec 18:20; Sat 18 Dec 18:10; Sun 19 Dec 15:40; Mon 20 Dec 18:10; Tue 21 Dec 14:30<br>
+**Tim Burton’s The Nightmare Before Christmas**<br>
+Tue 7 Dec 18:30; Sat 11 Dec 16:00; Tue 21 Dec 21:00; Thu 23 Dec 20:45<br>
+**Gremlins**<br>
+Wed 8 Dec 17:50 (+ intro by Justin Johnson, Lead Programmer); Sat 18 Dec 20:45; Wed 22 Dec 20:45; Wed 29 Dec 20:50<br>
+**Bad Santa**<br>
+Fri 10 Dec 20:45; Mon 13 Dec 20:50; Fri 17 Dec 21:00<br>
+**It’s a Wonderful Life**<br>
+From Sun 12 Dec – Thu 23 Dec<br>
+**Tokyo Godfathers (Tokyo goddofazazu)**<br>
+Tue 14 Dec 20:45; Mon 20 Dec 20:45<br>
+**Carol**<br>
+Wed 15 Dec 17:50; Mon 27 Dec 18:00; Thu 30 Dec 14:20<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTM3MTM4MTc3NV19
 -->
