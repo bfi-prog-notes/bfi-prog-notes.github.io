@@ -1,4 +1,3 @@
-<![endif]-->
 
 _+ Q&A with writer-director-actor Mark Gatiss and actors Tamsin Greig and Simon Callow, hosted by Mark Kermode._
 
@@ -8,67 +7,50 @@ Christmas adventure arrives for London teenagers Jamie and Lucy Allen in the for
 
 Jon Mountague, Director of Comedy, Sky Studios, said: ‘When we learnt that the incomparable Mark Gatiss wanted to update this absolute classic for the 21st century, we thought all our Christmases had come at once. The Amazing Mr Simon Callow and Tamsin Greig complete a trio of national treasures, and introducing an incredible young cast alongside, we couldn’t be prouder – roll on Christmas!’
 
-Mark Gatiss, director, said: ‘To me, everything about _The Amazing Mr Blunden_ is magical. A ghost story with a sentimental heart. A costume drama with a time-travelling twist. Scary villains, melancholy, laughter and joy. I first came across the wonderful original film at primary school when it was shown on a battered old projector on that most hallowed of occasions – the last Friday before the Christmas holidays. In our new version, as in the book, the Allen family are very much from the modern world. I can’t wait to share the adventure with a whole new audience’.
+Mark Gatiss, director, said: ‘To me, everything about _The Amazing Mr Blunden_ is magical. A ghost story with a sentimental heart. A costume drama with a time-travelling twist. Scary villains, melancholy, laughter and joy. I first came across the wonderful original film at primary school when it was shown on a battered old projector on that most hallowed of occasions – the last Friday before the Christmas holidays. In our new version, as in the book, the Allen family are very much from the modern world. I can’t wait to share the adventure with a whole new audience’.<br>
+skygroup.sky<br>
 
-skygroup.sky
-<![endif]-->
-
-**THE AMAZING MR BLUNDEN**
-
-_Director:_ Mark Gatiss
-
+**THE AMAZING MR BLUNDEN**<br>
+_Director:_ Mark Gatiss<br>
 _Executive Produced by:_  Adorable Media,
+Can Do Productions, Handmade Films, Jon Mountague<br>
+_Producers:_ Isibéal Balance, Richelle Wilder<br>
+_Written by:_ Mark Gatiss<br>
+_Director or Photography:_ David Higgs<br>
+_Editor:_ Mark Everson<br>
+_Production Designer:_ Chris Richmond<br>
+_Costume Designer:_ Helen Bolter<br>
+_Make-up Designer:_ Jutta Russell<br>
+_Composer:_ Blair Mowat<br>
 
-Can Do Productions, Handmade Films,
+**Cast**<br>
+Simon Callow _(Mr Blunden)_<br>
+Tamsin Greig _(Mrs Wickens)_<br>
+Mark Gatiss _(Mr Wickens)_<br>
+Tsion Habte _(Lucy Allen)_<br>
+Jason Rennie _(Jamie Allen)_<br>
+Xavier Wilkins _(Georgie Latimer)_<br>
+India Fowler _(Sara Latimer)_<br>
+Spike Fearn _(Tom)_<br>
+Vinette Robinson _(Christine Allen)_<br>
+Sam Spruell _(Uncle Bertie)_<br>
+Kitty Archer _(Bella Wickens)_<br>
+Amanda Lawrence _(Meakin)_<br>
+Elliott Levey _(Claverton)_<br>
+Sam Barnett _(Smith)_<br>
+Liz White _(Jill Tucker)_<br>
+Sean Gilder _(Dave Tucker)_<br>
+Katherine Jackways _(Julie)_<br>
+Raj Ghatak _(Dr Hugh)_<br>
 
-Jon Mountague
+UK 2021<br>
+90 mins<br>
 
-_Producers:_ Isibéal Balance, Richelle Wilder
+A Sky Max production<br>
 
-_Written by:_ Mark Gatiss
-
-_Director or Photography:_ David Higgs
-
-_Editor:_ Mark Everson
-
-_Production Designer:_ Chris Richmond
-
-_Costume Designer:_ Helen Bolter
-
-_Make-up Designer:_ Jutta Russell
-
-_Composer:_ Blair Mowat
-
-_Cast:_
-
-Simon Callow _(Mr Blunden)_
-
-Tamsin Greig _(Mrs Wickens)_
-Mark Gatiss _(Mr Wickens)_
-Tsion Habte _(Lucy Allen)_
-Jason Rennie _(Jamie Allen)_
-Xavier Wilkins _(Georgie Latimer)_
-India Fowler _(Sara Latimer)_
-Spike Fearn _(Tom)_
-Vinette Robinson _(Christine Allen)_
-Sam Spruell _(Uncle Bertie)_
-Kitty Archer _(Bella Wickens)_
-Amanda Lawrence _(Meakin)_
-Elliott Levey _(Claverton)_
-Sam Barnett _(Smith)_
-Liz White _(Jill Tucker)_
-Sean Gilder _(Dave Tucker)_
-Katherine Jackways _(Julie)_
-Raj Ghatak _(Dr Hugh)_
-
-UK 2021
-90 mins
-
-A Sky Max production
-
-**IN PERSON & PREVIEWS**
-**Doctor Who: City of Death**
-Sun 5 Dec 12:00
+**IN PERSON & PREVIEWS**<br>
+**Doctor Who: City of Death**<br>
+Sun 5 Dec 12:00<br>
 **Mark Kermode Live in 3D at the BFI**
 Mon 6 Dec 18:10
 **Preview: Titane + Q&A with director Julia Ducournau**
@@ -92,5 +74,5 @@ Thu 16 Dec 18:00
 **Preview: Wheel of Fortune and Fantasy (Guzen to sozo)  **
 Wed 29 Dec 18:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1OTI4MTYyXX0=
+eyJoaXN0b3J5IjpbMTYyMTQ5NDMwNF19
 -->
