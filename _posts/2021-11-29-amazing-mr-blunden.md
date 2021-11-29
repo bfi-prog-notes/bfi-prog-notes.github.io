@@ -77,11 +77,11 @@ Wed 8 Dec 20:30<br>
 Thu 9 Dec 18:10<br>
 **tick, tick… BOOM! + Q&A with director Lin-Manuel Miranda, actors Alexandra Shipp and Robin de Jesús and producer Julie Oh**<br>
 Thu 9 Dec 20:30<br>
-**Patti Boulaye **<br>
+**Patti Boulaye**<br>
 Sun 12 Dec 15:30<br>
 **Woman with a Movie Camera: Bridget Jones’s Diary at 20 + Q&A with director Sharon Maguire**<br>
 Thu 16 Dec 18:00<br>
-**Preview: Wheel of Fortune and Fantasy (Guzen to sozo)  **<br>
+**Preview: Wheel of Fortune and Fantasy (Guzen to sozo)**<br>
 Wed 29 Dec 18:00<br>
 
 
