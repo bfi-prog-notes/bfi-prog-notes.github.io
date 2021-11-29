@@ -51,28 +51,28 @@ A Sky Max production<br>
 **IN PERSON & PREVIEWS**<br>
 **Doctor Who: City of Death**<br>
 Sun 5 Dec 12:00<br>
-**Mark Kermode Live in 3D at the BFI**
-Mon 6 Dec 18:10
-**Preview: Titane + Q&A with director Julia Ducournau**
-Mon 6 Dec 20:30
-**TV Preview: The Mezzotint + Q&A with director Mark Gatiss**
-Tue 7 Dec 18:10
-**TV Preview: The Tourist + Q&A with actors Jamie Dornan, Danielle Macdonald, Shalom Brune-Franklin and creatives**
-Tue 7 Dec 20:30
-**Exclusive Preview: Swan Song + Q&A with director Benjamin Cleary, producer Rebecca Bourke and actors Mahershala Ali and Naomie Harris**
-Wed 8 Dec 17:15
-**Preview: Boiling Point + Q&A with director Philip Barantini and actors Ray Panthaki and Lauryn Ajufo**
-Wed 8 Dec 20:30
-**TV Preview: Ghosts Christmas Special + Q&A (guests TBA)**
-Thu 9 Dec 18:10
-**tick, tick… BOOM! + Q&A with director Lin-Manuel Miranda, actors Alexandra Shipp and Robin de Jesús and producer Julie Oh**
-Thu 9 Dec 20:30
-**Patti Boulaye **
-Sun 12 Dec 15:30
-**Woman with a Movie Camera: Bridget Jones’s Diary at 20 + Q&A with director Sharon Maguire**
-Thu 16 Dec 18:00
-**Preview: Wheel of Fortune and Fantasy (Guzen to sozo)  **
-Wed 29 Dec 18:00
+**Mark Kermode Live in 3D at the BFI**<br>
+Mon 6 Dec 18:10<br>
+**Preview: Titane + Q&A with director Julia Ducournau**<br>
+Mon 6 Dec 20:30<br>
+**TV Preview: The Mezzotint + Q&A with director Mark Gatiss**<br>
+Tue 7 Dec 18:10<br>
+**TV Preview: The Tourist + Q&A with actors Jamie Dornan, Danielle Macdonald, Shalom Brune-Franklin and creatives**<br>
+Tue 7 Dec 20:30<br>
+**Exclusive Preview: Swan Song + Q&A with director Benjamin Cleary, producer Rebecca Bourke and actors Mahershala Ali and Naomie Harris**<br>
+Wed 8 Dec 17:15<br>
+**Preview: Boiling Point + Q&A with director Philip Barantini and actors Ray Panthaki and Lauryn Ajufo**<br>
+Wed 8 Dec 20:30<br>
+**TV Preview: Ghosts Christmas Special + Q&A (guests TBA)**<br>
+Thu 9 Dec 18:10<br>
+**tick, tick… BOOM! + Q&A with director Lin-Manuel Miranda, actors Alexandra Shipp and Robin de Jesús and producer Julie Oh**<br>
+Thu 9 Dec 20:30<br>
+**Patti Boulaye **<br>
+Sun 12 Dec 15:30<br>
+**Woman with a Movie Camera: Bridget Jones’s Diary at 20 + Q&A with director Sharon Maguire**<br>
+Thu 16 Dec 18:00<br>
+**Preview: Wheel of Fortune and Fantasy (Guzen to sozo)  **<br>
+Wed 29 Dec 18:00<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTQ5NDMwNF19
+eyJoaXN0b3J5IjpbLTE2OTM2NjU5ODhdfQ==
 -->
