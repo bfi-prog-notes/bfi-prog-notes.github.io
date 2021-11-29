@@ -2,15 +2,11 @@
 
 The closer you look at most famous Hollywood productions, the harder it is to see how they turned out all right – let alone to believe that anyone was in charge. Just as on any set the crew trusts that the film will go through the camera without jamming, so you come to credit a kind of providence ensuring that the big mess will get finished. Once it’s done, you’ve only the public, and they’re so daft you never know whether they’ll call the picture un-ironed (or unwashed) laundry or smooth as silk. But with _Meet Me in St. Louis_ just about everyone involved reckoned it was an unlikely project from the start. The only way you could have faith in it was to tell yourself that Arthur Freed was a man of immense taste and refinement. End of joke. Arthur Freed might have been the production chief on Metro musicals, with more talent at his disposal than any executive had ever seen. But he was the proverbial slob and arse-kisser. So trust Arthur! Except that Arthur was always asking Mr Mayer, ‘Whaddya you think, boss?’ And LB didn’t think this one would fly.
 
-Look at it cold on paper, and he had his reasons. Sally Benson’s charming sketches of family life in turn-of-the-century St. Louis had played very well in the _New Yorker_ as nostalgia. And in 1943 there were obvious advantages to cultivating fondness for Americana and the good old days.  
-To be charitable, the material had something of Louisa May Alcott strained through a Midwestern catsup that would have erred, heavily, on the side of sweetness. But all that really happened in those pieces was that the family did eventually leave St. Louis for New York. It wasn’t enough. There wasn’t a story. And Louis B. Mayer had some notion in his head that even a musical needed a story. So he backed Judy Garland when she said it was high time for her to stop playing teenagers and be grown up. (And anyway Judy could see as well as anyone that the whole Halloween sequence was just a vehicle for that scene-stealing little Margaret O’Brien, one of her onscreen sisters, while everyone knew that Mr Freed favoured Lucille Bremer, who would be the other sister Rose, so how would you like to be Judy squeezed between the two?)  
-But then something changed Mr Mayer’s mind. And since no one dared contemplate the inner mind of Mr Mayer, it wasn’t easy to guess what it had been. But it was wartime and people have a habit of saying that everything goes crazy then – and maybe it does, or maybe it’s just the excuse we grab at.
+Look at it cold on paper, and he had his reasons. Sally Benson’s charming sketches of family life in turn-of-the-century St. Louis had played very well in the _New Yorker_ as nostalgia. And in 1943 there were obvious advantages to cultivating fondness for Americana and the good old days.  To be charitable, the material had something of Louisa May Alcott strained through a Midwestern catsup that would have erred, heavily, on the side of sweetness. But all that really happened in those pieces was that the family did eventually leave St. Louis for New York. It wasn’t enough. There wasn’t a story. And Louis B. Mayer had some notion in his head that even a musical needed a story. So he backed Judy Garland when she said it was high time for her to stop playing teenagers and be grown up. (And anyway Judy could see as well as anyone that the whole Halloween sequence was just a vehicle for that scene-stealing little Margaret O’Brien, one of her onscreen sisters, while everyone knew that Mr Freed favoured Lucille Bremer, who would be the other sister Rose, so how would you like to be Judy squeezed between the two?)  But then something changed Mr Mayer’s mind. And since no one dared contemplate the inner mind of Mr Mayer, it wasn’t easy to guess what it had been. But it was wartime and people have a habit of saying that everything goes crazy then – and maybe it does, or maybe it’s just the excuse we grab at.
 
-There was always enough dementedness looking for excuses. For instance, late in 1943 Judy was 21. She was married still, to musical arranger David Rose, but she wasn’t involved with him. In fact, she was about to be as gracefully dropped as Joe Mankiewicz could manage from the affair he and Judy had been having. This was to coincide with Joe’s wife Rosa getting home from the psychiatric clinic. And it was in a spirit of therapeutic optimism that Joe sought to arrange for Judy to have some sessions with a good shrink. (The doctor grew bored with her because she didn’t always turn up, and when she did she told him streams of lies about herself.) Well, you’re going to say, artists are like that. But Joe hadn’t actually directed a picture yet. He was merely a writer and a producer, a brother and very ambitious and horny. You see, it’s _people_ who are like that. So he was urging Judy to be more mature so that he might move on with a clear conscience from screwing a disturbed kid. Mr Mayer was like that too, and here we come to  
-his mind.
+There was always enough dementedness looking for excuses. For instance, late in 1943 Judy was 21. She was married still, to musical arranger David Rose, but she wasn’t involved with him. In fact, she was about to be as gracefully dropped as Joe Mankiewicz could manage from the affair he and Judy had been having. This was to coincide with Joe’s wife Rosa getting home from the psychiatric clinic. And it was in a spirit of therapeutic optimism that Joe sought to arrange for Judy to have some sessions with a good shrink. (The doctor grew bored with her because she didn’t always turn up, and when she did she told him streams of lies about herself.) Well, you’re going to say, artists are like that. But Joe hadn’t actually directed a picture yet. He was merely a writer and a producer, a brother and very ambitious and horny. You see, it’s _people_ who are like that. So he was urging Judy to be more mature so that he might move on with a clear conscience from screwing a disturbed kid. Mr Mayer was like that too, and here we come to  his mind.
 
-Mr Mayer had been married to his Margaret since 1904. This had been in Boston, though Mayer then was not long out of Canada and St. Johns, New Brunswick. Before that he was from somewhere in the Ukraine. Ahead of Boston, he faced Los Angeles. He shared the basic life of the Smith family in St. Louis in that he had kept moving on, even if the last big city he had in mind would depend for its size on his success. By then he had become a titan in the new picture business, a man who knew presidents and movie stars, who presided over the dreams sold to the public and the niceties of ‘good-looking’ that got some people on the screen and kept  
-others off.
+Mr Mayer had been married to his Margaret since 1904. This had been in Boston, though Mayer then was not long out of Canada and St. Johns, New Brunswick. Before that he was from somewhere in the Ukraine. Ahead of Boston, he faced Los Angeles. He shared the basic life of the Smith family in St. Louis in that he had kept moving on, even if the last big city he had in mind would depend for its size on his success. By then he had become a titan in the new picture business, a man who knew presidents and movie stars, who presided over the dreams sold to the public and the niceties of ‘good-looking’ that got some people on the screen and kept  others off.
 
 But as he got larger, in the public’s imagination and his own mind, Margaret stayed the same – except that she broke down gradually, having to see her Louis reconcile his power, his need and his opportunity to be an emperor with his wish to preserve domestic propriety and familial white lies in front of her and their two daughters. Some people asked why LB was always either angry or in tears. Some said he was made that way. Others said it was the battle going on in him: a way for him to manipulate and destroy the feeble beautiful creatures he owned, while thinking well of himself. And if you haven’t picked up yet on that seething dynamic behind the American movie... well, you could start now.
 
@@ -26,32 +22,28 @@ You could say that _Meet Me in St. Louis_ is all about the older Smith girls fin
 
 Suppose that Minnelli saw or felt that line, and then suppose that he held to it against every problem. This was far from a happy set. Sixteen days were lost completely due to illness. Mary Astor (the girls’ mother) had troubles, Margaret O’Brien was whisked back East. Judy fretted over this and that – not just Drake, but minor illnesses, sleeping late, the simple urge to be difficult and the confused reaction of her mind and body to the recipe of uppers and downers her mother and the studio had instituted. She even began to soften in her feelings towards Minnelli.
 
-You can almost hear her laughing at herself, because of course she knew the talk that he was gay. But he liked her. He had made her look like a lovely woman. And he had put her up there on screen caring for someone else. Years later, in her other great performance, she would have Norman Maine to care for. Now don’t get sentimental here. No one ever said that Judy Garland was anyone you’d want to have taking care of you in life. But on the screen... Watching over Tootie (and ignoring Margaret O’Brien) and singing ‘Merry Little Christmas’ like a mother, and in a way that releases the yearning in Tootie (the little conservative tyrant) so that the father hears her grief and smothers his own ambition and says why, surely, the Smiths must stay home in  
-St. Louis ‘till we rot’. This was a picture that played in the last winter of the war, when in their dreams at least, so many people only wanted to get home and find that it was the same, and hadn’t betrayed them.
+You can almost hear her laughing at herself, because of course she knew the talk that he was gay. But he liked her. He had made her look like a lovely woman. And he had put her up there on screen caring for someone else. Years later, in her other great performance, she would have Norman Maine to care for. Now don’t get sentimental here. No one ever said that Judy Garland was anyone you’d want to have taking care of you in life. But on the screen... Watching over Tootie (and ignoring Margaret O’Brien) and singing ‘Merry Little Christmas’ like a mother, and in a way that releases the yearning in Tootie (the little conservative tyrant) so that the father hears her grief and smothers his own ambition and says why, surely, the Smiths must stay home in  St. Louis ‘till we rot’. This was a picture that played in the last winter of the war, when in their dreams at least, so many people only wanted to get home and find that it was the same, and hadn’t betrayed them.
 
-So _Meet Me in St. Louis_ got done, and Judy and Vincente somehow persuaded themselves that the screen’s light could be theirs too. So they got married, in June 1945. As for the picture, which has lasted so much longer, it cost $1.7 million (a lot – Metro built a whole block of  
-St. Louis) and made $7.5 million on its first run, a studio record after _Gone with the Wind_. So LB was right again. But he was always right in those days, or lucky enough to have that reputation.
+So _Meet Me in St. Louis_ got done, and Judy and Vincente somehow persuaded themselves that the screen’s light could be theirs too. So they got married, in June 1945. As for the picture, which has lasted so much longer, it cost $1.7 million (a lot – Metro built a whole block of  St. Louis) and made $7.5 million on its first run, a studio record after _Gone with the Wind_. So LB was right again. But he was always right in those days, or lucky enough to have that reputation.  
+**David Thomson, _Sight and Sound_, December 2001**
+<br><br>
 
-David Thomson, _Sight and Sound_, December 2001
+**MEET ME IN ST. LOUIS**<br>
 
-<![endif]-->
-
-**MEET ME IN ST. LOUIS**
-
-_Director:_ Vincente Minnelli
+_Director:_ Vincente Minnelli<br>
 
 _Production Companies:_  
 Loew’s Incorporated,  
-Metro-Goldwyn-Mayer
+Metro-Goldwyn-Mayer<br>
 
-_Producer:_ Arthur Freed
+_Producer:_ Arthur Freed<br>
 
 _Screenplay:_ Irving Brecher,  
-Fred F. Finklehoffe
+Fred F. Finklehoffe<br>
 
-_Based on the novel by:_ Sally Benson
+_Based on the novel by:_ Sally Benson<br>
 
-_Director of Photography:_ George Folsey
+_Director of Photography:_ George Folsey<br>
 
 _Technicolor Colour Director:_  
 Natalie Kalmus
@@ -188,5 +180,5 @@ USA 1944©
 
 113 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDk5NTQzMF19
+eyJoaXN0b3J5IjpbODI5NDY5MzQxXX0=
 -->
