@@ -1,11 +1,20 @@
-
+---
+layout: post
+title: The Shop around the Corner
+published: true
+date: 2021-12-03
+readtime: true
+categories: ['RE-RELEASES']
+tags: [Comedy, Romance]
+metadata: 'USA, 1940, 99 mins<br> Director: Ernst Lubitsch'
+pdf: '2021-12-03-shop-around-the-corner.pdf'
+---
 
 Ernst Lubitsch grew up in Berlin as the son of the Russian Jewish émigré owner of a dressmaking company. He knew the world of shops and they feature often in his films. Perhaps witnessing the patter of his father’s employees – the centrality of role play to the life of a salesman – encouraged the young Lubitsch to play roles, and drew him towards acting as a profession. Before he became a director, he was a successful self-mocking character actor, first on the German stage for Max Reinhardt and later in films. That he should end up in Hollywood seems a natural progression for a Jewish sophisticate trying to escape his trade roots.
 
 Jewish traders of European extraction, such as Adolph Zukor (furs), Carl Laemmle (retail clothing) and Louis B. Mayer (scrap metal), founded the Hollywood studio business. There was always an affinity between ‘putting on a show’ to sell shop items and ‘putting on a show’ in movies. In his seminal 1988 book _An Empire of Their Own_, Neal Gabler says that the Jewish traders made ‘a sustained attempt to live a fiction and to cast its spell over the minds of others’. Lubitsch moved to Hollywood at the invitation of Mary Pickford after the international success of his historical dramas _Madame DuBarry_ (1919) and _Anna Boleyn_ (1920). She hired him to direct her in _Rosita_ (1923), and though they didn’t get on that well, Lubitsch remained in Hollywood and flourished as one of its most accomplished artists.
 
-In the context of _The Shop around the Corner_, it is easy to imagine the young Lubitsch as Pepi, the teenage errand boy of Matuschek and Co. played so brilliantly by William Tracy as the sharpest Budapest street kid turned legit.  
-Pepi constantly complains that the pampered wife of proprietor Mr Matuschek runs his legs off after hours, so his favourite occupation is to imitate her in a high voice: ‘Pepi, go to the dressmaker. Oh Pepi, will you please pick up a package at the drugstore?’
+In the context of _The Shop around the Corner_, it is easy to imagine the young Lubitsch as Pepi, the teenage errand boy of Matuschek and Co. played so brilliantly by William Tracy as the sharpest Budapest street kid turned legit.  Pepi constantly complains that the pampered wife of proprietor Mr Matuschek runs his legs off after hours, so his favourite occupation is to imitate her in a high voice: ‘Pepi, go to the dressmaker. Oh Pepi, will you please pick up a package at the drugstore?’
 
 Of course, Lubitsch’s father did not work in a leather-goods store, and in any case the film was based not on any Lubitsch autobiographical matter but on Nikolaus Laszlo’s 1936 play _Parfumerie_, but we know that one essential ingredient of what came to be known as ‘the Lubitsch touch’ is that the director would act out every role for every actor he was directing. This is what accounts for the extraordinary consistency of tone in his films, including those that he produced but were directed by the likes of Frank Borzage and Otto Preminger. A talent for mimicry, pretence and persuasion was the foundation of his approach.
 
@@ -79,6 +88,51 @@ From 3 December<br>
 **Swan Song**<br>
 From Fri 17 Dec<br>
 <br>
+
+**BIG SCREEN CLASSICS**<br>
+**The Apartment**<br>
+Wed 1 Dec 18:00 (+ pre-recorded intro by critic and improviser Tara Judah); Mon 13 Dec 14:30; Wed 22 Dec 20:40; Tue 28 Dec 18:10; Thu 30 Dec 20:30<br>
+**Remember the Night**<br>
+Thu 2 Dec 14:30; Mon 27 Dec 13:00; Thu 30 Dec 18:00<br>
+**Meet Me in St Louis**<br>
+Fri 3 Dec 20:45; Sun 19 Dec 12:20; Wed 22 Dec 18:00; Tue 28 Dec 12:20<br>
+**Miracle on 34th Street**<br>
+Sat 4 Dec 15:50; Sat 11 Dec 18:00; Fri 17 Dec 14:30<br>
+**A Christmas Tale (Un conte de Noël)**<br>
+Sun 5 Dec 17:50; Tue 28 Dec 15:15<br>
+**Scrooge (aka A Christmas Carol)**<br>
+Mon 6 Dec 18:30; Thu 16 Dec 21:00; Fri 17 Dec 18:20; Sat 18 Dec 18:10; Sun 19 Dec 15:40; Mon 20 Dec 18:10; Tue 21 Dec 14:30<br>
+**Tim Burton’s The Nightmare Before Christmas**<br>
+Tue 7 Dec 18:30; Sat 11 Dec 16:00; Tue 21 Dec 21:00; Thu 23 Dec 20:45<br>
+**Gremlins**<br>
+Wed 8 Dec 17:50 (+ intro by Justin Johnson, Lead Programmer); Sat 18 Dec 20:45; Wed 22 Dec 20:45; Wed 29 Dec 20:50<br>
+**Bad Santa**<br>
+Fri 10 Dec 20:45; Mon 13 Dec 20:50; Fri 17 Dec 21:00<br>
+**It’s a Wonderful Life**<br>
+From Sun 12 Dec – Thu 23 Dec<br>
+**Tokyo Godfathers (Tokyo goddofazazu)**<br>
+Tue 14 Dec 20:45; Mon 20 Dec 20:45<br>
+**Carol**<br>
+Wed 15 Dec 17:50; Mon 27 Dec 18:00; Thu 30 Dec 14:20<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNTIyMzA3Njc1XX0=
 -->
