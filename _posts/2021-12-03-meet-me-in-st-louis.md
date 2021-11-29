@@ -29,88 +29,42 @@ So _Meet Me in St. Louis_ got done, and Judy and Vincente somehow persuaded them
 <br><br>
 
 **MEET ME IN ST. LOUIS**<br>
-
 _Director:_ Vincente Minnelli<br>
-
-_Production Companies:_  
-Loew’s Incorporated,  
-Metro-Goldwyn-Mayer<br>
-
+_Production Companies:_  Loew’s Incorporated,  Metro-Goldwyn-Mayer<br>
 _Producer:_ Arthur Freed<br>
-
-_Screenplay:_ Irving Brecher,  
-Fred F. Finklehoffe<br>
-
+_Screenplay:_ Irving Brecher,  Fred F. Finklehoffe<br>
 _Based on the novel by:_ Sally Benson<br>
-
 _Director of Photography:_ George Folsey<br>
-
-_Technicolor Colour Director:_  
-Natalie Kalmus<br>
-
+_Technicolor Colour Director:_  Natalie Kalmus<br>
 _Film Editor:_ Albert Akst<br>
-
-_Art Directors:_ Cedric Gibbons,  
-Lemuel Ayers, Jack Martin Smith<br>
-
+_Art Directors:_ Cedric Gibbons,  Lemuel Ayers, Jack Martin Smith<br>
 _Set Decorator:_ Edwin B. Willis<br>
-
 _Associate:_ Paul Huldschinsky<br>
-
 _Costume Designer:_ Sharaff<br>
-
 _Costume Supervisor:_ Irene<br>
-
 _Make-up Created by:_ Jack Dawn<br>
-
 _Music Director:_ Georgie Stoll<br>
-
 _Orchestrations:_ Conrad Salinger<br>
-
 _Dance Director:_ Charles Walters<br>
-
 _Recording Director:_ Douglas Shearer<br>
 
 _uncredited_<br>
-
 _Unit Manager:_ Dave Friedman<br>
-
-_Assistant Directors:_ J.E. Jennings,  
-Wallace Worsley<br>
-
+_Assistant Directors:_ J.E. Jennings,  Wallace Worsley<br>
 _Associate Technicolor Colour Director:_ Henri Jaffa<br>
-
 _2nd Camera:_ Robert Bronner<br>
-
 _Matte Paintings Camera:_ Mark H. Davis<br>
-
-_Miniature/Transparency Projection Shots:_  
-A. Arnold Gillespie<br>
-
+_Miniature/Transparency Projection Shots:_  A. Arnold Gillespie<br>
 _Matte Paintings:_ Warren Newcombe<br>
-
 _Miniatures Assistant:_ Donald Jahraus<br>
-
 _Music Adaptation:_ Roger Edens<br>
-
-_Music Mixers:_ Mike McLaughlin,  
-Herbert Stahlberg<br>
-
+_Music Mixers:_ Mike McLaughlin,  Herbert Stahlberg<br>
 _Unit Mixer:_ Joe Edmondson<br>
+_Re-recording/Effects Mixers:_  Standish J. Lambert, Frank Mackenzie, Robert Shirley, Newell Sparks,William Steinkamp, Michael Steinore,  John A. Williams<br>
+_Voice Doubles for Mary Astor:_  Rose Paidar, Eileen Wilson<br>
 
-_Re-recording/Effects Mixers:_  
-Standish J. Lambert, Frank Mackenzie, Robert Shirley, Newell Sparks,
-
-William Steinkamp, Michael Steinore,  
-John A. Williams<br>
-
-_Voice Doubles for Mary Astor:_  
-Rose Paidar, Eileen Wilson<br>
-
-_Cast:_<br>
-
+**Cast**<br>
 Judy Garland _(Esther Smith)_<br>
-
 Margaret O’Brien _(‘Tootie’ Smith)_<br>
 
 Mary Astor _(Mrs Anna Smith)_<br>
@@ -181,5 +135,5 @@ USA 1944©<br>
 113 mins
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTgxOTUyM119
+eyJoaXN0b3J5IjpbMTc4MDcwMzg1N119
 -->
