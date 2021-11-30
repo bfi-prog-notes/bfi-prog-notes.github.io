@@ -49,10 +49,10 @@ Sun 5 Dec 16:00<br>
 
 
 **Find out more at**<br>
-**www.whatson.bfi.org.uk**<br>
+**bit.ly/bustingthebias**<br>
 
 **and**<br>
 **bfi.org.uk/relaxed**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0NTU5MjUyXX0=
+eyJoaXN0b3J5IjpbMTE0OTAyMzkwNV19
 -->
