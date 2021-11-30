@@ -70,7 +70,7 @@ Sun 5 Dec 16:00<br>
 
 
 **Find out more at**<br>
-**bit.ly/bustingthebias**<br>
+**<a href="https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=bustingthebias&BOparam::WScontent::loadArticle::context_id=">Busting the Bias</a>** <br>
 
 
 **Relaxed screenings**<br>
