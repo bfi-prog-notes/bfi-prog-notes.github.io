@@ -27,44 +27,32 @@ France 2021
 
 
 
-**The next relaxed screening is:**
+**The next relaxed screening is:**<br>
 
-**THE BLACK BALLOON**
+**THE BLACK BALLOON**<br>
+Tue 14 Dec 18:10 NFT3<br>
+<br>
 
-**Tue 14 Dec 18:10 NFT3**
+**BUSTING THE BIAS**<br>
+**Press Reset on Ableism and pre-recorded keynote by Andrew Miller MBE + Disability On Screen: Past, Present and Future**<br>
+Fri 3 Dec 12:45<br>
+**TAPE Community Music and Film panel discussion + UK Premiere: Approaching Shadows**<br>
+Fri 3 Dec 15:00<br>
+**Love + Q&A**<br>
+Sat 4 Dec 13:30<br>
+**It’s Personal + Q&A**<br>
+Sat 4 Dec 15:15<br>
+**Talking Bodies: A Rehearsed Reading & Q&A**<br>
+Sun 5 Dec 14:00<br>
+**Aimee Victoria + Q&A + The Multi**<br>
+Sun 5 Dec 16:00<br>
 
-**BUSTING THE BIAS**
 
-**Press Reset on Ableism and pre-recorded keynote by Andrew Miller MBE + Disability On Screen: Past, Present and Future**
+**Find out more at**<br>
+**www.whatson.bfi.org.uk**<br>
 
-Fri 3 Dec 12:45
-
-**TAPE Community Music and Film panel discussion + UK Premiere: Approaching Shadows**
-
-Fri 3 Dec 15:00
-
-**Love + Q&A**
-
-Sat 4 Dec 13:30
-
-**It’s Personal + Q&A**
-
-Sat 4 Dec 15:15
-
-**Talking Bodies: A Rehearsed Reading & Q&A**
-
-Sun 5 Dec 14:00
-
-**Aimee Victoria + Q&A + The Multi**
-
-Sun 5 Dec 16:00
-
-**Find out more at**
-
-**www.whatson.bfi.org.uk**
-
-**and  
-bfi.org.uk/relaxed**
+**and**<br>
+**bfi.org.uk/relaxed**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTQ4NDI0OF19
+eyJoaXN0b3J5IjpbMzk0NTU5MjUyXX0=
 -->
