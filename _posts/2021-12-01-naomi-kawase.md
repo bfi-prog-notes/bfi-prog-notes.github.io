@@ -32,52 +32,44 @@ The break-up that led to their divorce in March 2000 occurred during the product
 Kawase’s willingness to place herself or an obvious stand-in at the centre of her films, and the nakedness with which she has used her art to work through her own obsessions, go against the grain with local audiences. Some argue the pictures Kawase presents to the world are mannered and self-consciously exotic – more Japonesque than Japanese. But they can be beautiful and represent a soft-spoken alternative voice in a national industry that has too often traded on bombast and eccentricity. And, crucially, it is this international profile that has laid the groundwork for many young independent filmmakers, especially female ones, to follow.<br>
 **Jasper Sharp, _Sight & Sound_, August 2014**<br>
 
-**SKY, WIND, FIRE, WATER, EARTH (KYA KA RA BA A)**
-_Directed by:_ Naomi Kawase
-_Presented by:_ Visual Arts College, Arte France
-_Production:_ Sent Inc., KUMIE
-_Producer:_ Luciano Rigolini
-_Cinematography:_ Masami Inomoto
-_Sound Recordist:_ Nobuyuki Kikuchi
+**SKY, WIND, FIRE, WATER, EARTH (KYA KA RA BA A)**<br>
+_Directed by:_ Naomi Kawase<br>
+_Presented by:_ Visual Arts College, Arte France<br>
+_Production:_ Sent Inc., KUMIE<br>
+_Producer:_ Luciano Rigolini<br>
+_Cinematography:_ Masami Inomoto<br>
+_Sound Recordist:_ Nobuyuki Kikuchi<br>
 
-**With**
-Uno Kawase
-Naomi Kawase
+**With**<br>
+Uno Kawase<br>
+Naomi Kawase<br>
 
-Japan 2021
-50 mins
+Japan 2021<br>
+50 mins<br>
 
-**BIRTH/MOTHER (TARACHIME)**
-_Directed by:_ Naomi Kawase
-_Production:_ KUMIE, Sent Inc.
-_Co-produced by_: Arte France
+**BIRTH/MOTHER (TARACHIME)**<br>
+_Directed by:_ Naomi Kawase<br>
+_Production:_ KUMIE, Sent Inc.<br>
+_Co-produced by_: Arte France<br>
 
-**Cast**
-Uno Kawase
-Mitsuki
-Naomi Kawase
+**Cast**<br>
+Uno Kawase<br>
+Mitsuki<br>
+Naomi Kawase<br>
 
-Japan 2006
+Japan 2006<br>
+40 mins<br>
 
-40 mins
 
-JAPAN 2021: ANOTHER GAZE
-
-**0.5mm (0.5 miri)**
-
-Sat 4 Dec 18:30; Mon 27 Dec 16:30
-
-**Dear Pyongyang**
-
-Sat 11 Dec 20:40 (+ pre-recorded intro by director Yang Yong-hi); Thu 23 Dec 18:10
-
-**Restoration Premiere: The Far Road (****Toi ippon no michi)** **+ intro**
-
+**JAPAN 2021: ANOTHER GAZE**<br>
+**0.5mm (0.5 miri)**<br>
+Sat 4 Dec 18:30; Mon 27 Dec 16:30<br>
+**Dear Pyongyang**<br>
+Sat 11 Dec 20:40 (+ pre-recorded intro by director Yang Yong-hi); Thu 23 Dec 18:10<br>
+**Restoration Premiere: The Far Road (Toi ippon no michi) + intro**<br>
 Tue 14 Dec 20:40 (+ intro); Tue 28 Dec 15:00
-
 **Experimenta presents: A selection of video and film works by experimental filmmaker Mako Idemitsu**
-
 Wed 15 Dec 18:10 (+ intro by Another Gaze’s Daniella Shreir); Wed 29 Dec 20:40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTEwNzk1MzBdfQ==
+eyJoaXN0b3J5IjpbMTA1MjE0MDQ3NCwtMTQxMTA3OTUzMF19
 -->
