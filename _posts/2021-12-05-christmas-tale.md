@@ -31,7 +31,102 @@ What interests her in a part is what she calls cruelty. I’m not sure I would c
 
 Interview by Kieron Corless, _Sight & Sound_, February 2009
 
+<![endif]-->
 
+**A CHRISTMAS TALE (UN CONTE DE NOËL)**
+
+_Un film de_: Arnaud Desplechin  
+©_/Production Companies_:  
+Why Not Productions (France),  
+France 2 Cinéma, Wild Bunch, BAC Films  
+_Presented by_: Why Not Productions (France)  
+_With the participation of_: Canal+, CinéCinéma,  
+CNC – Centre national de la cinématographie  
+_With the support of_: CRRAV Nord-Pas de Calais, Région Nord-Pas de Calais  
+_In association with_: Sofica UGC 1  
+_International Sales_: Wild Bunch  
+_Executive Producer_: Martine Cassinelli  
+_For Why Not Productions_: Pascal Caucheteux, Dany Sorlach’ti  
+_Unit Manager_: Cristobal Matheron  
+_Production Managers_: Benoît Pilot, Isabelle Tillou  
+_Administration_: Sylvia Pain  
+_Post-production Supervisor_: Béatrice Mauduit  
+_Assistant Director_: Gabrièle Roux  
+_Script Supervisor_: Agnès Feuvre  
+_Child Casting_: Astrid Mouget  
+_Scenario/Dialogue_: Arnaud Desplechin,  
+Emmanuel Bourdieu  
+_Script inspired by_ La Greffe _by_: J. Asher, J.P. Jouet  
+_Director of Photography_: Éric Gautier  
+_Camera Operators_: Newine Béhi, Arnaud Carney, Raphaël Douge, Fabienne Octobre, Nathalie Lao  
+_Steadicam Operator_: Kareem La Vaullée  
+_Stills Photographer_: Jean-Claude Lother  
+_Visual Effects_: Mac Guff Ligne (Paris)  
+_Special Effects_: Sfxworks, Olivier de Laveleye, Marie-Pierre Franckx  
+_Pyrotechnics_: Serge Gasparollo, Amar Lakroum  
+_Editor_: Laurence Briaud  
+_Assistant Editor_: Tuong-vi Nguyen-long  
+_Art Director_: Dan Bevan  
+_Costume Designer_: Nathalie Raoul  
+_Costumes_: Isabelle Blanc, Mahemiti Deregnaucourt, Geneviève Danguis, Charlotte Dubois  
+_Make-up_: Sylvie Aïd, Mina Matsumura,  
+Helen Murphy  
+_Hairstylists_: Eric Monteil, Frédéric Souquet,  
+Jean-Marie Cuvilo  
+_Titles_: Mac Guff Ligne (Paris)  
+_Colour Timer_: Isabelle Julien  
+_Music_: Grégoire Hetzel  
+_Electronic Music_: Max Guiguet  
+_Arranged by_: Grégoire Hetzel  
+_Music Consultant_: Max Guiguet  
+_Sound [Recordist]_: Nicolas Cantin  
+_Sound Mixer_: Jean-Pierre Laforce  
+_Sound [Editor]_: Sylvain Malbrant  
+_Additional Post-synchro/Sound Effects_:  
+Jean-Max Morise, Lionel Le Bras,  
+Jean-Louis Le Bras  
+_Foley Artists_: Philippe Penot, Jacques de France  
+_Foley Recordist_: Didier Lesage  
+_Stunts_: Daniel Vérité, Pascal Guégan  
+_Publicity_: Agnès Chabot
+
+_Cast:_
+
+Catherine Deneuve _(Junon Vuillard)_  
+Jean-Paul Roussillon_  
+(Abel Vuillard, Junon’s husband)_  
+Anne Consigny _(Elizabeth, their oldest child)_  
+Mathieu Amalric _(Henri, their middle child)_  
+Chiara Mastroianni _(Sylvia, Ivan’s wife)_  
+Melvil Poupaud _(Ivan, their youngest child)_  
+Emmanuelle Devos _(Faunia, Henri’s lover)_  
+Hippolyte Girardot _(Claude, Elizabeth’s husband)_  
+  
+Laurent Capelluto _(Simon, Junon’s nephew)_  
+Emile Berling _(Paul, Elizabeth and Claude’s son)_  
+Françoise Bertin _(Rosaimée, Abel’s mother’s friend)_  
+Samir Guesmi _(Spatafora, family friend at Roubaix)_  
+Thomas Obled _(Basile, Ivan and Sylvia’s son)_  
+Clément Obled _(Baptiste, Ivan and Sylvia’s son)_  
+Azize Kabouche _(Doctor Zraïdi, oncologist)_  
+François Regnault _(analyst)_  
+Thierry Bosc _(prosecutor)_  
+Hélène Roussel _(judge)_  
+Miglem Mirtchev _(Henri’s lawyer)_  
+David Frenkel _(Elisabeth’s lawyer)_  
+Romain Goupil _(psychiatrist friend)_  
+Beata Nilska _(anaesthetist)_  
+Philippe Morier-Genou _(freemason friend)_  
+Père Mathieu Bakanina _(priest)_  
+Marie-France Jaskula _(member of congregation)_  
+Jean-Pierre Jouet _(‘Experts’ president)_  
+Stéphane Touitou  *
+
+France 2008©
+
+152 mins
+
+* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0NDI1ODIxXX0=
+eyJoaXN0b3J5IjpbLTE1MDk2MzI5NDcsNTc0NDI1ODIxXX0=
 -->
