@@ -21,119 +21,118 @@ Studio recording commenced on Monday 21 May in TC3 at the BBC’s Television Cen
 The second and final recording block saw cast and crew moving over to TC6 between the 3rd and 5th of June, the final scenes being those recreating the interior of the Louvre and the destruction of the laboratory set.
 
 The BBC’s publicity department made great play of the Paris location shooting and in September 1979, ahead of the broadcast of Part One on the 29th, started sending out photographs of Baker and Ward in costume at various tourist spots around the city. The BBC already had the playing field all to itself as ITV had been off the air since August due to extended industrial action – the result was record-breaking viewing figures for _City of Death_, which peaked at 16.1 million for the final episode, though the Joint Industry Committee for Television Audience Research (JICTAR) later gave the actual highest figure as 19.6 million for both parts three and four.  
-**Kevin Lyons, eofftv.com**  
-https://www.eofftv.com/index.php?title=Doctor_Who:_City_of_Death_(1979)**
+**Kevin Lyons, eofftv.com**    
+**https://www.eofftv.com/index.phptitle=Doctor_Who:_City_of_Death_(1979)**
+<br><br>
 
-<![endif]-->
+**DOCTOR WHO: CITY OF DEATH**<br>
 
-**DOCTOR WHO: CITY OF DEATH**
+_Directed by_: Michael Hayes<br>
 
-_Directed by_: Michael Hayes
+©: BBC<br>
 
-©: BBC
+_Producer_: Graham Williams<br>
 
-_Producer_: Graham Williams
+_Production Unit Manager_: John Nathan-Turner<br>
 
-_Production Unit Manager_: John Nathan-Turner
+_Assistant Floor Manager_: Carol Scott<br>
 
-_Assistant Floor Manager_: Carol Scott
+_Technical Manager_: John Dean<br>
 
-_Technical Manager_: John Dean
+_Production Assistant_: Rosemary Crowson<br>
 
-_Production Assistant_: Rosemary Crowson
+_Director’s Assistant_: Jane Wellesley<br>
 
-_Director’s Assistant_: Jane Wellesley
-
-_Script Editor_: Douglas Adams
+_Script Editor_: Douglas Adams<br>
 
 _[Written] By_: David Agnew [real names:
 
-Douglas Adams, Graham Williams]
+Douglas Adams, Graham Williams]<br>
 
-_Senior Cameraman_: Alec Wheal
+_Senior Cameraman_: Alec Wheal<br>
 
-_Studio Lighting_: Mike Jefferies
+_Studio Lighting_: Mike Jefferies<br>
 
-_Vision Mixer_: Nigel Finnis
+_Vision Mixer_: Nigel Finnis<br>
 
-_Visual Effects Designer_: Ian Scoones
+_Visual Effects Designer_: Ian Scoones<br>
 
-_Electronic Effects_: Dave Jervis
+_Electronic Effects_: Dave Jervis<br>
 
-_Film Editor_: John Gregory
+_Film Editor_: John Gregory<br>
 
-_Videotape Editor_: Rod Waldron
+_Videotape Editor_: Rod Waldron<br>
 
-_Designer_: Richard McManan-Smith
+_Designer_: Richard McManan-Smith<br>
 
-_Costume Designer_: Doreen James
+_Costume Designer_: Doreen James<br>
 
-_Make-up Artist_: Jean Steward
+_Make-up Artist_: Jean Steward<br>
 
 _Title Music by_: Ron Grainer and the  
-BBC Radiophonic Workshop *
+BBC Radiophonic Workshop *<br>
 
-_Title Music Arranged by_: Delia Derbyshire *
+_Title Music Arranged by_: Delia Derbyshire *<br>
 
-_Incidental Music by_: Dudley Simpson
+_Incidental Music by_: Dudley Simpson<br>
 
-_Film Recordist_: Graham Bedwell
+_Film Recordist_: Graham Bedwell<br>
 
-_Special Sound_: Dick Mills
+_Special Sound_: Dick Mills<br>
 
-_Studio Sound_: Anthony Philpott
+_Studio Sound_: Anthony Philpott<br>
 
-_Cast:_
+_Cast:_<br>
 
-Tom Baker _(Doctor Who)_
+Tom Baker _(Doctor Who)_<br>
 
-Lalla Ward _(Romana)_
+Lalla Ward _(Romana)_<br>
 
 Julian Glover  
-_(Count Scarliono/Captain Tancredi – Scaroth)_
+_(Count Scarliono/Captain Tancredi – Scaroth)_<br>
 
-Catherine Schell _(Countess Scarlioni)_
+Catherine Schell _(Countess Scarlioni)_<br>
 
-Tom Chadbon _(Duggan)_
+Tom Chadbon _(Duggan)_<br>
 
-David Graham _(Professor Kerensky)_
+David Graham _(Professor Kerensky)_<br>
 
-Kevin Flood _(Hermann)_
+Kevin Flood _(Hermann)_<br>
 
-Pamela Stirling _(Louvre guide)_
+Pamela Stirling _(Louvre guide)_<br>
 
-Peter Halliday _(soldier)_
+Peter Halliday _(soldier)_<br>
 
-Eleanor Bron, John Cleese _(art gallery visitors)_
+Eleanor Bron, John Cleese _(art gallery visitors)_<br>
 
 Mike Finbar, Pat Gorman, Peter Kodak,
 
-Anthony Powell _(thugs)_ *
+Anthony Powell _(thugs)_ *<br>
 
 Lewis Pirella, Harold Shields, Colin Thomas,
 
-Elaine Williams _(customers in café)_ *
+Elaine Williams _(customers in café)_ *<br>
 
-Bruce Callender, Maureen Mason _(Louvre guards)_ *
+Bruce Callender, Maureen Mason _(Louvre guards)_ *<br>
 
-Richard Sheekey _(double for Scaroth)_ *
+Richard Sheekey _(double for Scaroth)_ *<br>
 
-Tom Chadbon, Peter Halliday _(Jagaroth voices)_ *
+Tom Chadbon, Peter Halliday _(Jagaroth voices)_ *<br>
 
-Walter Henry _(café patron)_ *
+Walter Henry _(café patron)_ *<br>
 
-James Charlton _(artist)_ *
+James Charlton _(artist)_ *<br>
 
 Christian Foucat, Robert Jouhier  
-_(gendarmes outside Louvre)_ *
+_(gendarmes outside Louvre)_ *<br>
 
-Jane Bough _(maid)_ *
+Jane Bough _(maid)_ *<br>
 
 Iris Everson, Juliette James, Leon Maybank,
 
-Terry Sartain _(customers in art gallery)_ *
+Terry Sartain _(customers in art gallery)_ *<br>
 
-David Glen, Alfred Moore, James Muir, Mike Mungarvan _(plain clothes detectives in Louvre)_ *
+David Glen, Alfred Moore, James Muir, Mike Mungarvan _(plain clothes detectives in Louvre)_ *<br>
 
 Michael Brydon, Karen Cooper, David Glen,
 
@@ -141,9 +140,9 @@ Philip Grant, David Harris, Kevin Hudson,
 
 Michael Josephs, Mike Mungarvan, Jenny Persiva, Maggie Pilleau, Helen Raye, Shane Ricco,
 
-Lee Richards, Graham Smith, Kevin Sullivan, Frances Tanner, Geoffrey Whitestone, Sue Winkler, Cathy Winter _(tourists in Louvre)_ *
+Lee Richards, Graham Smith, Kevin Sullivan, Frances Tanner, Geoffrey Whitestone, Sue Winkler, Cathy Winter _(tourists in Louvre)_ *<br>
 
-UK 1979
+UK 1979<br>
 
 4 x 25 mins
 
@@ -154,5 +153,5 @@ Courtesy of BBC Studios
 _Doctor Who: The Collection – Season 17_  
 is released on Blu-ray soon
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTUxMzY4Ml19
+eyJoaXN0b3J5IjpbNjkyMTI0MDM4XX0=
 -->
