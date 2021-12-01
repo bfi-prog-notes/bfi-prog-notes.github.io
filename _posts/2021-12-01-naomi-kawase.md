@@ -67,9 +67,10 @@ Sat 4 Dec 18:30; Mon 27 Dec 16:30<br>
 **Dear Pyongyang**<br>
 Sat 11 Dec 20:40 (+ pre-recorded intro by director Yang Yong-hi); Thu 23 Dec 18:10<br>
 **Restoration Premiere: The Far Road (Toi ippon no michi) + intro**<br>
-Tue 14 Dec 20:40 (+ intro); Tue 28 Dec 15:00
-**Experimenta presents: A selection of video and film works by experimental filmmaker Mako Idemitsu**
-Wed 15 Dec 18:10 (+ intro by Another Gaze’s Daniella Shreir); Wed 29 Dec 20:40
+Tue 14 Dec 20:40 (+ intro); Tue 28 Dec 15:00<br>
+**Experimenta presents: A selection of video and film works by experimental filmmaker Mako Idemitsu**<br>
+Wed 15 Dec 18:10 (+ intro by Another Gaze’s Daniella Shreir); Wed 29 Dec 20:40<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjE0MDQ3NCwtMTQxMTA3OTUzMF19
+eyJoaXN0b3J5IjpbLTEzOTQ1MjI0ODgsLTE0MTEwNzk1MzBdfQ
+==
 -->
