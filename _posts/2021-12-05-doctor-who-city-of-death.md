@@ -75,19 +75,17 @@ Christian Foucat, Robert Jouhier  _(gendarmes outside Louvre)_ *<br>
 Jane Bough _(maid)_ *<br>
 Iris Everson, Juliette James, Leon Maybank, Terry Sartain _(customers in art gallery)_ *<br>
 David Glen, Alfred Moore, James Muir, Mike Mungarvan _(plain clothes detectives in Louvre)_ *<br>
-Michael Brydon, Karen Cooper, David Glen, Philip Grant, David Harris, Kevin Hudson, Michael Josephs, Mike Mungarvan, Jenny Persiva, Maggie Pilleau, Helen Raye, Shane Ricco,Lee Richards, Graham Smith, Kevin Sullivan, Frances Tanner, Geoffrey Whitestone, Sue Winkler, Cathy Winter _(tourists in Louvre)_ *<br>
+Michael Brydon, Karen Cooper, David Glen, Philip Grant, David Harris, Kevin Hudson, Michael Josephs, Mike Mungarvan, Jenny Persiva, Maggie Pilleau, Helen Raye, Shane Ricco, Lee Richards, Graham Smith, Kevin Sullivan, Frances Tanner, Geoffrey Whitestone, Sue Winkler, Cathy Winter _(tourists in Louvre)_ *<br>
 
 UK 1979<br>
-
 4 x 25 mins
 
-* Uncredited
+*Uncredited
 
 Courtesy of BBC Studios
 
-_Doctor Who: The Collection – Season 17_  
-is released on Blu-ray soon
+_Doctor Who: The Collection – Season 17_  is released on Blu-ray soon
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5MjUzMTk2XX0=
+eyJoaXN0b3J5IjpbLTEyNzc5NjE3NjBdfQ==
 -->
