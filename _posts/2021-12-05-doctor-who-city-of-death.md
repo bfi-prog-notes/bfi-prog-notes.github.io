@@ -1,14 +1,22 @@
-
+---
+layout: post
+title: Doctor Who<br>City of Death
+published: true
+date: 2021-12-05
+readtime: true
+categories: ['IN PERSON & PREVIEWS']
+tags: [Sci-Fi]
+metadata: 'UK 1979, 4x 25 mins<br> Director: Michael Hayes'
+pdf: '2021-12-05-doctor-who-city-of-death.pdf'
+---
 
 _We are delighted to welcome actor Julian Glover, who will be joining us for a Q&A and will be doing a signing after the screening._
 
 David Fisher had impressed producer Graham Williams with his two scripts for series 16, _The Stones of Blood_ and _The Androids of Tara_, and Williams was keen to have him back on board as preparation got under way for the next series. Encouraged by outgoing script editor Anthony Read, Fisher submitted two proposals – one would become _The Creature from the Pit_ and the other, like _Tara_, would be a literary parody. Where Tara had spoofed _The Prisoner of Zenda_, his new idea, titled _A Gamble with Time_, would send up the two-fisted action-adventure stories involving Sapper’s adventurer Bulldog Drummond. Initially, the idea pitted The Doctor and Romana against a villain rigging the casinos of Las Vegas to fund his time travel experiments, though the location was quickly switched to 1920s Monte Carlo which felt more in keeping with Sapper’s stories.
 
-With the story now set closer to home, Williams began wondering if it might be possible to justify location shooting – _Doctor Who_ had never been filmed outside the UK before – and tasked unit production manager John Nathan-Turner to look into the possibility. But while he was working the figures, Williams was dealing with the fact that Fisher’s scripts had not only arrived late but weren’t what he was looking for at all. He was particularly concerned that the story spent more time focused on gambling than he’d anticipated, something that didn’t sit well with the programme’s target family audience – the script contained a scene in which The Doctor cheats at the roulette table which was a particular no-no. Something needed doing with the scripts  
-and quickly.
+With the story now set closer to home, Williams began wondering if it might be possible to justify location shooting – _Doctor Who_ had never been filmed outside the UK before – and tasked unit production manager John Nathan-Turner to look into the possibility. But while he was working the figures, Williams was dealing with the fact that Fisher’s scripts had not only arrived late but weren’t what he was looking for at all. He was particularly concerned that the story spent more time focused on gambling than he’d anticipated, something that didn’t sit well with the programme’s target family audience – the script contained a scene in which The Doctor cheats at the roulette table which was a particular no-no. Something needed doing with the scripts  and quickly.
 
-In the meantime, Nathan-Turner had worked out that filming in Paris would make far more economic sense, and to save even more money that the story should now be set in the modern day instead of the 1920s. Fisher met with Williams and the new script editor, Douglas Adams, to talk about rewrites but discussions broke down as Fisher was going through a divorce at the time and was unable to devote as much time to the work as was needed. Over the course of a weekend, Williams and Adams knuckled down and revamped the scripts, turning the Bulldog Drummond character Pug Farquharson into a British police inspector, Duggan, moving the action to late 1970s Paris, removing entirely the gambling element, and retitling it _Curse of Sephiroth_.  
-The idea of an alien, a Jagaroth being scattered across time and its attempts to fund research into a time machine was retained but now the alien, Count Scarlioni, would be using art forgery to raise the money instead.
+In the meantime, Nathan-Turner had worked out that filming in Paris would make far more economic sense, and to save even more money that the story should now be set in the modern day instead of the 1920s. Fisher met with Williams and the new script editor, Douglas Adams, to talk about rewrites but discussions broke down as Fisher was going through a divorce at the time and was unable to devote as much time to the work as was needed. Over the course of a weekend, Williams and Adams knuckled down and revamped the scripts, turning the Bulldog Drummond character Pug Farquharson into a British police inspector, Duggan, moving the action to late 1970s Paris, removing entirely the gambling element, and retitling it _Curse of Sephiroth_.  The idea of an alien, a Jagaroth being scattered across time and its attempts to fund research into a time machine was retained but now the alien, Count Scarlioni, would be using art forgery to raise the money instead.
 
 The bulk of the work had been done by Adams which, as with _The Invasion of Time_ two years earlier, raised potential problems with the Writers’ Guild – they would have been unhappy with the producer and script editor writing scripts and thus putting a writer out of work. To avoid complications, Williams and Adams opted to sign the scripts David Agnew, a BBC in-house pseudonym.
 
@@ -86,6 +94,48 @@ Courtesy of BBC Studios
 
 _Doctor Who: The Collection – Season 17_  is released on Blu-ray soon
 <br><br>
+
+**IN PERSON & PREVIEWS**<br>
+**Mark Kermode Live in 3D at the BFI**<br>
+Mon 6 Dec 18:10<br>
+**TV Preview: The Mezzotint + Q&A with director Mark Gatiss**<br>
+Tue 7 Dec 18:10<br>
+**TV Preview: The Tourist + Q&A with actors Jamie Dornan, Danielle Macdonald, Shalom Brune-Franklin and creatives**<br>
+Tue 7 Dec 20:30<br>
+**Exclusive Preview: Swan Song + Q&A with director Benjamin Cleary, producer Rebecca Bourke and actors Mahershala Ali and Naomie Harris**<br>
+Wed 8 Dec 17:15<br>
+**Preview: Boiling Point + Q&A with director Philip Barantini and actors Ray Panthaki and Lauryn Ajufo**<br>
+Wed 8 Dec 20:30<br>
+**TV Preview: Ghosts Christmas Special + Q&A (guests TBA)**<br>
+Thu 9 Dec 18:10<br>
+**tick, tick… BOOM! + Q&A with director Lin-Manuel Miranda, actors Alexandra Shipp and Robin de Jesús and producer Julie Oh**<br>
+Thu 9 Dec 20:30<br>
+**Patti Boulaye**<br>
+Sun 12 Dec 15:30<br>
+**Woman with a Movie Camera: Bridget Jones’s Diary at 20 + Q&A with director Sharon Maguire**<br>
+Thu 16 Dec 18:00<br>
+**Preview: Wheel of Fortune and Fantasy (Guzen to sozo)**<br>
+Wed 29 Dec 18:00<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEyNzc5NjE3NjBdfQ==
 -->
