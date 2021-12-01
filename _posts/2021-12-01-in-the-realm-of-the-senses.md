@@ -1,10 +1,7 @@
 
-<![endif]-->
-
 **SPOILER WARNING** The following notes give away some of the plot.
 
-**A contemporary review**
-
+**A contemporary review**<br>
 Perhaps it’s the fact that so few of Oshima’s films have been released here (twelve of the thirteen features made before 1969 have still to be seen in the West) which explains the reluctance of critics from other continents than his own to hazard any attempt at a synthesis of his work. Even though their reaction to his previous individual films has been, for the most part, laudatory, reviewers have maintained a certain respectful distance, as if dealing with a visiting foreign dignitary to whom they had not been properly introduced; and now the sudden onslaught of knowing familiarity with which they are greeting _In the Realm of the Senses_ and his apparent shift from seemingly oblique historical references to seemingly explicit sexual material, while better for the box-office, is equally unhelpful.
 
 For Oshima’s films, despite their deceptive differences of idiom (naturalism in _Boy_, surrealism in _Death by Hanging_, formalism in _The Ceremony_), have a remarkable continuity of theme and tactic. And while his _Empire of the Senses_ can stand unsupported by any feats of scholarship, it is considerably enriched when related to his previous attempts to elucidate the traditionally inscrutable. In a newspaper article in 1971, Oshima declared, ‘I feel that unless we make clear the secret spirit of the Japanese, who hurry to live and hurry to die, Japan will soon be led to war again’; and from first to last, his films function as metaphors for a Japan whose spirit is represented as more at ease with death than with life, which spirit he closely identifies with that of imperialism. (All his films are, on one level, meditations on empire, experienced or remembered.)
@@ -21,24 +18,24 @@ And although, in synopsis, the film may not sound much like a political movie, t
 
 **IN THE REALM OF THE SENSES  
 (AI NO CORRIDA/L’EMPIRE DES SENS)**<br>
-_Director:_ Nagisa Oshima
-_Production Companies:_ Oshima Productions, Shibata Organisation, Argos-Films
-_Producer:_ Anatole Dauman
-_Production Manager:_ Koji Wakamatsu
-_Assistant Director:_ Yoichi Sai
-_Screenplay:_ Nagisa Oshima
-_Director of Photography:_ Hideo Ito
-_Lighting:_ Kenichi Okamoto
-_Stills Photography:_ Yukio Oymada
-_Editor:_ Keiichi Uraoka
-_Art Director:_ Jusho Toda
-_Set Decorators:_ Shigenori Shimoishizaka, Dai Arakawa
-_Costumes:_ Masahiro Kato
-_Make-up:_ Koji Takemura
-_Music:_ Minoru Miki
-_Sound Recording:_ Tetsuo Yasuda
-_Sound Mixer:_ Alex Pront
-_Sound Effects:_ Henri Humbert
+_Director:_ Nagisa Oshima<br>
+_Production Companies:_ Oshima Productions, Shibata Organisation, Argos-Films<br>
+_Producer:_ Anatole Dauman<br>
+_Production Manager:_ Koji Wakamatsu<br>
+_Assistant Director:_ Yoichi Sai<br>
+_Screenplay:_ Nagisa Oshima<br>
+_Director of Photography:_ Hideo Ito<br>
+_Lighting:_ Kenichi Okamoto<br>
+_Stills Photography:_ Yukio Oymada<br>
+_Editor:_ Keiichi Uraoka<br>
+_Art Director:_ Jusho Toda<br>
+_Set Decorators:_ Shigenori Shimoishizaka, Dai Arakawa<br>
+_Costumes:_ Masahiro Kato<br>
+_Make-up:_ Koji Takemura<br>
+_Music:_ Minoru Miki<br>
+_Sound Recording:_ Tetsuo Yasuda<br>
+_Sound Mixer:_ Alex Pront<br>
+_Sound Effects:_ Henri Humbert<br>
 _Voiceover:_ Nagisa Oshima<br>
 
 **Cast**<br>
@@ -52,13 +49,13 @@ Naomi Shiraishi _(Geisha Yaeji)_<br>
 Kyoko Okada _(Hangyoku)_<br>
 Kikuhei Matsunoya _(Hohkan)_<br>
 Yasuko Matsui _(manageress of inn)_<br>
-Kyoji Kokonoe _(Ohmiya)_
-Kazue Tomiyama _(fat maid)_
-Kanae Kobayashi _(Old Geisha Kikuryu)_
+Kyoji Kokonoe _(Ohmiya)_<br>
+Kazue Tomiyama _(fat maid)_<br>
+Kanae Kobayashi _(Old Geisha Kikuryu)_<br>
 Akiko Koyama _(geisha)_<br>
 
 Japan/France 1976<br>
 101 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQxMDkxMDJdfQ==
+eyJoaXN0b3J5IjpbLTExNTUzNDU2NDldfQ==
 -->
