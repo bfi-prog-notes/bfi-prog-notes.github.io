@@ -22,35 +22,25 @@ _In association with:_ Narrativia<br>
 _For:_ Channel 4<br>
 _Executive Producers:_ Tess Cuming, Rob Wilkins<br>
 
-_Voice Cast  
+**Voice Cast**  
 Julie Walters _(Granny)_<br>
-
 Hugh Dancy _(Albert)_<br>
-
 David Harewood _(narrator)_<br>
 
 UK 2021<br>
-
 30 mins
+<br><br>
 
-<![endif]-->
-
-FAMILIES<br>
-
+**FAMILIES**<br>
 **Funday TV preview: Terry Pratchett’s The Abominable Snow Baby + Q&A**<br>
-
 Sat 4 Dec 12:00<br>
-
 **The Muppet Christmas Carol**<br>
-
 Sat 18 Dec 11:45<br>
-
 **Frozen**<br>
-
 Sun 19 Dec 12:50<br>
 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODcyNjQ1NF19
+eyJoaXN0b3J5IjpbLTEwNDAzOTg0NThdfQ==
 -->
