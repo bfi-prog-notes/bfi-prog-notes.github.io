@@ -26,121 +26,56 @@ The BBC’s publicity department made great play of the Paris location shooting 
 <br><br>
 
 **DOCTOR WHO: CITY OF DEATH**<br>
-
 _Directed by_: Michael Hayes<br>
-
 ©: BBC<br>
-
 _Producer_: Graham Williams<br>
-
 _Production Unit Manager_: John Nathan-Turner<br>
-
 _Assistant Floor Manager_: Carol Scott<br>
-
 _Technical Manager_: John Dean<br>
-
 _Production Assistant_: Rosemary Crowson<br>
-
 _Director’s Assistant_: Jane Wellesley<br>
-
 _Script Editor_: Douglas Adams<br>
-
-_[Written] By_: David Agnew [real names:
-
-Douglas Adams, Graham Williams]<br>
-
+_[Written] By_: David Agnew [real names: Douglas Adams, Graham Williams]<br>
 _Senior Cameraman_: Alec Wheal<br>
-
 _Studio Lighting_: Mike Jefferies<br>
-
 _Vision Mixer_: Nigel Finnis<br>
-
 _Visual Effects Designer_: Ian Scoones<br>
-
 _Electronic Effects_: Dave Jervis<br>
-
 _Film Editor_: John Gregory<br>
-
 _Videotape Editor_: Rod Waldron<br>
-
 _Designer_: Richard McManan-Smith<br>
-
 _Costume Designer_: Doreen James<br>
-
 _Make-up Artist_: Jean Steward<br>
-
-_Title Music by_: Ron Grainer and the  
-BBC Radiophonic Workshop *<br>
-
+_Title Music by_: Ron Grainer and the  BBC Radiophonic Workshop *<br>
 _Title Music Arranged by_: Delia Derbyshire *<br>
-
 _Incidental Music by_: Dudley Simpson<br>
-
 _Film Recordist_: Graham Bedwell<br>
-
 _Special Sound_: Dick Mills<br>
-
 _Studio Sound_: Anthony Philpott<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Tom Baker _(Doctor Who)_<br>
-
 Lalla Ward _(Romana)_<br>
-
-Julian Glover  
-_(Count Scarliono/Captain Tancredi – Scaroth)_<br>
-
+Julian Glover _(Count Scarliono/Captain Tancredi – Scaroth)_<br>
 Catherine Schell _(Countess Scarlioni)_<br>
-
 Tom Chadbon _(Duggan)_<br>
-
 David Graham _(Professor Kerensky)_<br>
-
 Kevin Flood _(Hermann)_<br>
-
 Pamela Stirling _(Louvre guide)_<br>
-
 Peter Halliday _(soldier)_<br>
-
 Eleanor Bron, John Cleese _(art gallery visitors)_<br>
-
-Mike Finbar, Pat Gorman, Peter Kodak,
-
-Anthony Powell _(thugs)_ *<br>
-
-Lewis Pirella, Harold Shields, Colin Thomas,
-
-Elaine Williams _(customers in café)_ *<br>
-
+Mike Finbar, Pat Gorman, Peter Kodak, Anthony Powell _(thugs)_ *<br>
+Lewis Pirella, Harold Shields, Colin Thomas, Elaine Williams _(customers in café)_ *<br>
 Bruce Callender, Maureen Mason _(Louvre guards)_ *<br>
-
 Richard Sheekey _(double for Scaroth)_ *<br>
-
 Tom Chadbon, Peter Halliday _(Jagaroth voices)_ *<br>
-
 Walter Henry _(café patron)_ *<br>
-
 James Charlton _(artist)_ *<br>
-
-Christian Foucat, Robert Jouhier  
-_(gendarmes outside Louvre)_ *<br>
-
+Christian Foucat, Robert Jouhier  _(gendarmes outside Louvre)_ *<br>
 Jane Bough _(maid)_ *<br>
-
-Iris Everson, Juliette James, Leon Maybank,
-
-Terry Sartain _(customers in art gallery)_ *<br>
-
+Iris Everson, Juliette James, Leon Maybank, Terry Sartain _(customers in art gallery)_ *<br>
 David Glen, Alfred Moore, James Muir, Mike Mungarvan _(plain clothes detectives in Louvre)_ *<br>
-
-Michael Brydon, Karen Cooper, David Glen,
-
-Philip Grant, David Harris, Kevin Hudson,
-
-Michael Josephs, Mike Mungarvan, Jenny Persiva, Maggie Pilleau, Helen Raye, Shane Ricco,
-
-Lee Richards, Graham Smith, Kevin Sullivan, Frances Tanner, Geoffrey Whitestone, Sue Winkler, Cathy Winter _(tourists in Louvre)_ *<br>
+Michael Brydon, Karen Cooper, David Glen, Philip Grant, David Harris, Kevin Hudson, Michael Josephs, Mike Mungarvan, Jenny Persiva, Maggie Pilleau, Helen Raye, Shane Ricco,Lee Richards, Graham Smith, Kevin Sullivan, Frances Tanner, Geoffrey Whitestone, Sue Winkler, Cathy Winter _(tourists in Louvre)_ *<br>
 
 UK 1979<br>
 
@@ -152,6 +87,7 @@ Courtesy of BBC Studios
 
 _Doctor Who: The Collection – Season 17_  
 is released on Blu-ray soon
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyMTI0MDM4XX0=
+eyJoaXN0b3J5IjpbNzM5MjUzMTk2XX0=
 -->
