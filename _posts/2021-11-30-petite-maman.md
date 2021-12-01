@@ -42,10 +42,12 @@ France 2021
 **BFI Southbank has been awarded the National Autistic Society's Autism Friendly Award.**<br>
 
 
-**Find out more at  bfi.org.uk/relaxed**<br>
+**Find out more at  bfi.**<br>
+
+**<br>
 
 **We welcome your feedback on this screening.**<br>
-**Relaxedscreeningsfeedback@bfi.org.uk**<br>
+**Relaxedscreeningsfeedb<br>
 
 
 **The next relaxed screening is:**<br>
@@ -70,7 +72,7 @@ Sun 5 Dec 16:00<br>
 
 
 **Find out more at**<br>
-**<a href="https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=bustingthebias&BOparam::WScontent::loadArticle::context_id=">Busting the Bias</a>** <br>
+**<a href="https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=bustingthebias&BOparam::WScontent::loadArticle::context_id=">Busting the Bias</a>bit.ly/bustingthebias** <br>
 
 
 **Relaxed screenings**<br>
@@ -99,4 +101,8 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 <li>There will be a safe space for customers to use if you need to leave the auditorium.
 
 <li>Please ask us if you need help.
-
+and**<br>
+**bfi.org.uk/relaxed**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTc3NDg5NDQwNl19
+-->
