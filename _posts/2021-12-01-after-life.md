@@ -42,28 +42,19 @@ _I got the sense that Mochizuki was in some ways your self-portrait. Is that so?
 Yes, but I’m not reflected only in Mochizuki. Parts of me are also carried by the other counsellors – they all have little burdens of me to carry! And of course in my own biography there are also ‘fictional’ elements.<br>
 **Interview by Tony Rayns, _Sight & Sound_, March 1999<br>**
 
-<![endif]-->
 
-**After Life (Wandafuru Raifu)**
 
+**After Life (Wandafuru Raifu)**<br>
 _Director_: Hirokazu Koreeda  
-_Production Companies_: TV Man Union,
-
-Engine Film  
+_Production Companies_: TV Man Union, Engine Film  
 _Executive Producer_: Yutaka Shigenobu  
 _Planning Producer_: Masahiro Yasuda  
 _Producers_: Shiho Sato, Masayuki Akieda  
 _Line Producer_: Osamu Shiraishi  
-_Post-production Supervisor_:
-
-Shuichi Kakesu  
-_Researchers_: Yu Nakamura,
-
-Takahiro Mitsuyoshi, Yuka Tashiro  
+_Post-production Supervisor_: Shuichi Kakesu  
+_Researchers_: Yu Nakamura, Takahiro Mitsuyoshi, Yuka Tashiro  
 _1st Assistant Director_: Iwao Takahashi  
-_2nd Assistant Directors_: Naohiro Asano,
-
-Miwa Nishikawa, Teiitsu Kin  
+_2nd Assistant Directors_: Naohiro Asano, Miwa Nishikawa, Teiitsu Kin  
 _Screenplay_: Hirokazu Koreeda  
 _Director of Photography_: Yutaka Yamazaki  
 _Director of Photography (Re-creation)_: Masayoshi Sukita  
@@ -71,39 +62,31 @@ _Lighting_: Yuzuru Sato
 _Lighting (Re-creation)_: Shigeki Nakamura  
 _Editor_: Hirokazu Koreeda  
 _Art Directors_: Toshihiro Isomi, Hideo Gunji  
-_Stylists_: Koichiro Yamamoto,
-
-Kazuko Yamamoto  
+_Stylists_: Koichiro Yamamoto, Kazuko Yamamoto  
 _Wardrobe_: Shigeru Aoki  
 _Hair/Make-up_: Mutsuki Sakai  
 _Titles_: Hideki Takeuchi  
 _Colour Timer_: Masayuki Mitsuhashi  
 _Opticals_: Tetsuo Kaneko  
 _Music_: Yasuhiro Kasamatsu  
-_Sound Design/Recording Engineer_:
-
-Osamu Takizawa  
+_Sound Design/Recording Engineer_: Osamu Takizawa  
 _Sound Effects_: Kenji Shibasaki
 
-_Cast__:_  
+**Cast**<br>
 Arata _(Takashi Mochizuki)_  
 Erika Oda _(Shiori Satonaka)_  
 Susumu Terajima _(Satoru Kawashima)_  
 Takashi Naito _(Takuro Sugie)_  
 Kei Tani _(Ken-nosuke Nakamura)_  
 Taketoshi Naito _(Ichiro Watanabe)_  
-Sadao Abe
-
-_(Ichiro Watanabe, student days)_  
+Sadao Abe _(Ichiro Watanabe, student days)_  
 Toru Yuri _(Kisuke Shoda)_  
 Kazuko Shirakawa _(Nobuko Amano)_  
 Yusuke Iseya _(Yusuke Iseya)_  
 Hisako Hara _(Kiyo Nishimura)_  
 Sayaka Yoshino _(Kana Yoshimoto)_  
 Kotaro Shiga _(Kenji Yamamoto)_  
-Natsuo Ishido
-
-_(Kyoko Tsukamoto, student days)_  
+Natsuo Ishido _(Kyoko Tsukamoto, student days)_  
 Kyôko Kagawa _(Kyoko Watanabe)_  
 Akio Yokoyama _(doorkeeper)_  
 Tomomi Hiraiwa _(announcer)_  
@@ -139,10 +122,10 @@ Takashi Nakagawa
 Takuya Nishimura  
 Masayuki Hagiwara  
 Kazuyuki Haneda  
-Kaoru Mashimo
+Kaoru Mashimo<br>
 
 Japan 1998<br>
-118 mins
+118 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzUzMDU3NF19
+eyJoaXN0b3J5IjpbNzIxNDQ1MTk3XX0=
 -->
