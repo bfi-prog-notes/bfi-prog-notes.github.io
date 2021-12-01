@@ -16,7 +16,49 @@ Thus, while _In the Realm of the Senses_ is the first Oshima film to break throu
 Although the film may be viewed as the choreography of an all-consuming passion (an approach encouraged by the symbiotic performances of its two principals), the dance of death in which the insatiable lovers wrestle their way towards the perfect consummation is not devoid of metaphoric value, and on more than one level. Not just the claustrophobic rooms (emphasised by low camera angles) but the couple’s bodies, too, become prisons in which their quest for freedom is doomed in advance. Sada and Kichi are doubly restricted, first by the society which outlaws their union, and then by their bodies – the limited means through which they endeavour to express their virtually boundless desire. Their constant love-making is less an imperative need (though it’s plainly that as well) than a rite through which they endeavour to express an ineffable emotion and a sense of one-ness which their human condition belies.
 
 And although, in synopsis, the film may not sound much like a political movie, there is no reason, beyond our own inhibitions, why love-making should not provide a potent metaphor for the Japanese spirit. Oshima’s title is not idly chosen: the sensuality he depicts is effectively suppressed (or confined to a professional house) by that other Empire whose troops are seen mobilising in the streets in one of Kichi-zo’s rare moments out of doors. The fusing of roles and identities to which the lovers aspire (at different moments, each by a kind of erotic osmosis, ’becomes’ the other making love to a third party) is a subversive value in a hierarchical society. While the chorus of embarrassed chambermaids and geishas, besides breaking up any audience illusions of sharing in a privileged, private moment, also serve to bring home the fact that such an overriding passion is still, socially, out of place. Almost literally for most of the film, it is balanced on a knife edge. To object to the anatomical region on which the great axe falls is merest hypocrisy. By the final sequence, we are all implicated in the continuing social system which makes such love impossible. It is not Sada, but the censor in all of us who ultimately wields the knife.<br>
-**Jan Dawson, _Monthly Film Bulletin_, May 1978**
+**Jan Dawson, _Monthly Film Bulletin_, May 1978**<br>
+
+
+**IN THE REALM OF THE SENSES  
+(AI NO CORRIDA/L’EMPIRE DES SENS)**<br>
+_Director:_ Nagisa Oshima
+_Production Companies:_ Oshima Productions, Shibata Organisation, Argos-Films
+_Producer:_ Anatole Dauman
+_Production Manager:_ Koji Wakamatsu
+_Assistant Director:_ Yoichi Sai
+_Screenplay:_ Nagisa Oshima
+_Director of Photography:_ Hideo Ito
+_Lighting:_ Kenichi Okamoto
+_Stills Photography:_ Yukio Oymada
+_Editor:_ Keiichi Uraoka
+_Art Director:_ Jusho Toda
+_Set Decorators:_ Shigenori Shimoishizaka, Dai Arakawa
+_Costumes:_ Masahiro Kato
+_Make-up:_ Koji Takemura
+_Music:_ Minoru Miki
+_Sound Recording:_ Tetsuo Yasuda
+_Sound Mixer:_ Alex Pront
+_Sound Effects:_ Henri Humbert
+_Voiceover:_ Nagisa Oshima<br>
+
+**Cast**<br>
+Tatsuya Fuji _(Kichizo Ishida)_<br>
+Eiko Matsuda _(Sada Abe)_<br>
+Aoi Nakajima _(Toku, Kichizo’s wife)_<br>
+Meika Seri _(maid Matsuko)_<br>
+Taiji Tonoyama _(old beggar)_<br>
+Hiroko Fuji _(maid Tsune)_<br>
+Naomi Shiraishi _(Geisha Yaeji)_<br>
+Kyoko Okada _(Hangyoku)_<br>
+Kikuhei Matsunoya _(Hohkan)_<br>
+Yasuko Matsui _(manageress of inn)_<br>
+Kyoji Kokonoe _(Ohmiya)_
+Kazue Tomiyama _(fat maid)_
+Kanae Kobayashi _(Old Geisha Kikuryu)_
+Akiko Koyama _(geisha)_<br>
+
+Japan/France 1976<br>
+101 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTA2MDQ3MV19
+eyJoaXN0b3J5IjpbLTE0NDQxMDkxMDJdfQ==
 -->
