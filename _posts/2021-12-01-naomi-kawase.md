@@ -1,12 +1,8 @@
 
-<![endif]-->
+The youngest Cannes Camera d’Or winner at 28 with her debut feature _Suzaku_ (1997), Naomi Kawase maintains the highest international profile among the new wave of Japanese female directors who arrived in her wake. She began her career with a series of experimental documentaries – and these two later works from her body of lyrical, first-person Super8 films both cite and reconfigure her earlier, more tender attempts at confronting the pain around her unconventional upbringing. In _Sky, Wind, Fire, Water, Earth_ (2001) Kawase forces herself to confront her reaction to the death of the father she barely knew, while in _Birth/Mother_ (2006), as the filmmaker prepares to give birth, she asks difficult questions of the ailing great-aunt who raised her.<br>
+**bfi.org.uk**<br>
 
-The youngest Cannes Camera d’Or winner at 28 with her debut feature _Suzaku_ (1997), Naomi Kawase maintains the highest international profile among the new wave of Japanese female directors who arrived in her wake. She began her career with a series of experimental documentaries – and these two later works from her body of lyrical, first-person Super8 films both cite and reconfigure her earlier, more tender attempts at confronting the pain around her unconventional upbringing. In _Sky, Wind, Fire, Water, Earth_ (2001) Kawase forces herself to confront her reaction to the death of the father she barely knew, while in _Birth/Mother_ (2006), as the filmmaker prepares to give birth, she asks difficult questions of the ailing great-aunt who raised her.
-
-bfi.org.uk
-
-**Naomi Kawase**
-
+**Naomi Kawase**<br>
 Japanese cinema is typically viewed as a masculine domain. Until the 1980s, the studio system’s structure presented a formidable barrier for women hoping to enter the industry in a creative capacity. Barring Japan’s first woman director, Tazuko Sakane, who made a single feature in 1936, the long-lost _Hatsu sugata_, the few who chalked up a directing credit generally hailed from an acting background.
 
 Only in the past decade have Japanese women filmmakers made real headway. Their swelling ranks and the acclaim, both domestic and international, for such names as Miwa Nishikawa (_Dear Doctor_, 2009; _Dreams for Sale_, 2012), Yuki Tanada (_Moon & Cherry_, 2004; _The Cowards Who Looked to the Sky_, 2012), Naoko Ogigami (_Kamome Diner_, 2006) and Satoko Yokohama (_Bare Essence of Life_, 2009) suggest an industry keen to redress past imbalances.
@@ -34,7 +30,65 @@ The pressure Kawase faced to be seen not only as an ambassador for Japan but als
 The break-up that led to their divorce in March 2000 occurred during the production of a pivotal work in Kawase’s filmography, fuelling much of its content. Beautifully shot in the villages and farmlands of Nara over a year and, like _Suzaku_, improvised by a mostly nonprofessional cast, _Hotaru_ (2000), meaning ‘firefly’, depicts the intense, turbulent relationship of two emotionally scarred people.
 
 Kawase’s willingness to place herself or an obvious stand-in at the centre of her films, and the nakedness with which she has used her art to work through her own obsessions, go against the grain with local audiences. Some argue the pictures Kawase presents to the world are mannered and self-consciously exotic – more Japonesque than Japanese. But they can be beautiful and represent a soft-spoken alternative voice in a national industry that has too often traded on bombast and eccentricity. And, crucially, it is this international profile that has laid the groundwork for many young independent filmmakers, especially female ones, to follow.<br>
-**Jasper Sharp, _Sight & Sound_, August 2014**
+**Jasper Sharp, _Sight & Sound_, August 2014**<br>
+
+
+
+**Sky, Wind, Fire, Water, Earth (Kya ka ra ba a)**
+_Directed by:_ Naomi Kawase
+_Presented by:_ Visual Arts College, Arte France
+_Production:_ Sent Inc., KUMIE
+_Producer:_ Luciano Rigolini
+_Cinematography:_ Masami Inomoto
+_Sound Recordist:_ Nobuyuki Kikuchi
+
+**With*
+
+Uno Kawase
+
+Naomi Kawase
+
+Japan 2021
+
+50 mins
+
+**Birth/Mother (Tarachime)**
+
+_Directed by:_ Naomi Kawase
+
+_Production:_ KUMIE, Sent Inc.
+
+_Co-produced by_: Arte France
+
+_Cast:_
+
+Uno Kawase
+
+Mitsuki
+
+Naomi Kawase
+
+Japan 2006
+
+40 mins
+
+JAPAN 2021: ANOTHER GAZE
+
+**0.5mm (0.5 miri)**
+
+Sat 4 Dec 18:30; Mon 27 Dec 16:30
+
+**Dear Pyongyang**
+
+Sat 11 Dec 20:40 (+ pre-recorded intro by director Yang Yong-hi); Thu 23 Dec 18:10
+
+**Restoration Premiere: The Far Road (****Toi ippon no michi)** **+ intro**
+
+Tue 14 Dec 20:40 (+ intro); Tue 28 Dec 15:00
+
+**Experimenta presents: A selection of video and film works by experimental filmmaker Mako Idemitsu**
+
+Wed 15 Dec 18:10 (+ intro by Another Gaze’s Daniella Shreir); Wed 29 Dec 20:40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTQ1NTQ1MV19
+eyJoaXN0b3J5IjpbMTk5Mjg4MzEyOF19
 -->
