@@ -43,8 +43,7 @@ Yes, but I’m not reflected only in Mochizuki. Parts of me are also carried by 
 **Interview by Tony Rayns, _Sight & Sound_, March 1999<br>**
 
 
-
-**After Life (Wandafuru Raifu)**<br>
+**AFTER LIFE (WANDAFURU RAIFU)**<br>
 _Director_: Hirokazu Koreeda  
 _Production Companies_: TV Man Union, Engine Film  
 _Executive Producer_: Yutaka Shigenobu  
@@ -127,5 +126,5 @@ Kaoru Mashimo<br>
 Japan 1998<br>
 118 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxNDQ1MTk3XX0=
+eyJoaXN0b3J5IjpbMTY0NTM0ODM3OV19
 -->
