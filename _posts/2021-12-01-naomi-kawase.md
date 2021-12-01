@@ -32,9 +32,7 @@ The break-up that led to their divorce in March 2000 occurred during the product
 Kawase’s willingness to place herself or an obvious stand-in at the centre of her films, and the nakedness with which she has used her art to work through her own obsessions, go against the grain with local audiences. Some argue the pictures Kawase presents to the world are mannered and self-consciously exotic – more Japonesque than Japanese. But they can be beautiful and represent a soft-spoken alternative voice in a national industry that has too often traded on bombast and eccentricity. And, crucially, it is this international profile that has laid the groundwork for many young independent filmmakers, especially female ones, to follow.<br>
 **Jasper Sharp, _Sight & Sound_, August 2014**<br>
 
-
-
-**Sky, Wind, Fire, Water, Earth (Kya ka ra ba a)**
+**SKY, WIND, FIRE, WATER, EARTH (KYA KA RA BA A)**
 _Directed by:_ Naomi Kawase
 _Presented by:_ Visual Arts College, Arte France
 _Production:_ Sent Inc., KUMIE
@@ -42,30 +40,21 @@ _Producer:_ Luciano Rigolini
 _Cinematography:_ Masami Inomoto
 _Sound Recordist:_ Nobuyuki Kikuchi
 
-**With*
-
+**With**
 Uno Kawase
-
 Naomi Kawase
 
 Japan 2021
-
 50 mins
 
-**Birth/Mother (Tarachime)**
-
+**BIRTH/MOTHER (TARACHIME)**
 _Directed by:_ Naomi Kawase
-
 _Production:_ KUMIE, Sent Inc.
-
 _Co-produced by_: Arte France
 
-_Cast:_
-
+**Cast**
 Uno Kawase
-
 Mitsuki
-
 Naomi Kawase
 
 Japan 2006
@@ -90,5 +79,5 @@ Tue 14 Dec 20:40 (+ intro); Tue 28 Dec 15:00
 
 Wed 15 Dec 18:10 (+ intro by Another Gaze’s Daniella Shreir); Wed 29 Dec 20:40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Mjg4MzEyOF19
+eyJoaXN0b3J5IjpbLTE0MTEwNzk1MzBdfQ==
 -->
