@@ -1,10 +1,10 @@
-<![endif]-->
+
 
 **Arnaud Desplechin on ‘A Christmas Tale’**
 
 Arnaud Desplechin’s new film _A Christmas Tale_ is another addition to the currently  burgeoning French family-drama cycle,  assembling a heavyweight cast which  includes mother and daughter Catherine  Deneuve and Chiara Mastroianni,  Jean-Paul Roussillon, Mathieu Amalric and  Emmanuelle Devos, among others, for a  fraught family reunion at Christmas  in Roubaix (the provincial town where  Desplechin grew up). Junon (Deneuve)  and Abel (Roussillon) have three children,  but lost an earlier one to a rare genetic  condition. It now transpires Junon is dying  of the same disease, and only a bone  marrow transplant from one of her family  members is likely to save her. Will that  be Henri (Amalric), the feckless son  unaccountably ‘banished’ years earlier  by his solemn sister Elizabeth (Anne  Consigny), or Elizabeth’s own anguished  adolescent son Paul? Desplechin unleashes  a battery of formal devices and references  to frame the ensuing entanglements and  harsh reckonings, making _A Christmas Tale_ one of his richest works to date.
 
-_What was the starting point for_ A Christmas Tale_?_
+_What was the starting point for_ A Christmas Tale _?_
 
 Often I start with things that I don’t understand intellectually, but which are good material for an actor. A while ago I was reading Emerson on the death of his child. A man in a cemetery says, ‘My son detached himself from me as a leaf falls from a tree’ – I thought, that’s good. Then in order for me to try and understand what I’m doing, I like to tell myself my film belongs to a genre.  
 I thought we’ll have this house, and it’ll be a Thanksgiving movie. And all these strange sentences and this material that I don’t quite understand, I’ll put into this house. Sometimes it’s a question of shape as well; in this case I thought it a good idea for the film to be structured as an Advent calendar so that all the characters are locked up in this house, and every time you open a window, it’s like a little present – a character trapped in there.
@@ -27,18 +27,13 @@ I can’t write for actors. If I could, it would mean that I know the character.
 
 _It seems a classically subversive Deneuve role, the unsentimental mother?_
 
-What interests her in a part is what she calls cruelty. I’m not sure I would call it that; it’s more the power of scandal, the power of subversion. It’s a question of generations, that’s the impression I have. For example, it was important for her to say the maternal instinct does not exist. It’s a very strong thing from the 1960s; it means freedom for women, to say we are allowed not to love our kids, just like men. She never crushes the part with her performance. She just looks at the whole movie and says, okay, this is what I need to give. She’s not choosing films for the sake of performing, even though she is a terrific performer.
+What interests her in a part is what she calls cruelty. I’m not sure I would call it that; it’s more the power of scandal, the power of subversion. It’s a question of generations, that’s the impression I have. For example, it was important for her to say the maternal instinct does not exist. It’s a very strong thing from the 1960s; it means freedom for women, to say we are allowed not to love our kids, just like men. She never crushes the part with her performance. She just looks at the whole movie and says, okay, this is what I need to give. She’s not choosing films for the sake of performing, even though she is a terrific performer.  
+**Interview by Kieron Corless, _Sight & Sound_, February 2009**
+<br><br>
 
-Interview by Kieron Corless, _Sight & Sound_, February 2009
-
-<![endif]-->
-
-**A CHRISTMAS TALE (UN CONTE DE NOËL)**
-
+**A CHRISTMAS TALE (UN CONTE DE NOËL)**  
 _Un film de_: Arnaud Desplechin  
-©_/Production Companies_:  
-Why Not Productions (France),  
-France 2 Cinéma, Wild Bunch, BAC Films  
+©_/Production Companies_:  Why Not Productions (France),  France 2 Cinéma, Wild Bunch, BAC Films  
 _Presented by_: Why Not Productions (France)  
 _With the participation of_: Canal+, CinéCinéma,  
 CNC – Centre national de la cinématographie  
@@ -128,5 +123,5 @@ France 2008©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk2MzI5NDcsNTc0NDI1ODIxXX0=
+eyJoaXN0b3J5IjpbLTE1NTM5Njc2NDksNTc0NDI1ODIxXX0=
 -->
