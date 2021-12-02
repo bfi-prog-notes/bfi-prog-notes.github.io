@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Innocents
+published: true
+date: 2021-12-04
+readtime: true
+categories: ['A CLASS OF HIS OWN<br>THE FILMS OF JACK CLAYTON']
+tags: [Drama]
+metadata: 'UK 1961, 100 mins<br> Director: Jack Clayton'
+pdf: '2021-12-04-innocents.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -9,8 +20,7 @@ It is not only James’s rejection of supernatural machinery, and his decision t
 
 But the difficulty remains: James gives us a narrator who is not a detached observer but a participant; and he leaves her, as critics such as H.G. Wells pointed out to him, under-characterised. Her ‘relation to her own nature,’ he said, was too much to go into within his framework. Put the governess (whom the film calls Miss Giddens) on the screen, however, and one needs more. Deborah Kerr plays her with a good deal of sensibility, within the limits imposed, but all that ‘relation to her own nature’ cannot be ignored. She is our main witness, and how far can we trust her? Once the story is detached from James’s artful context – a narrative within a narrative – the character is over-exposed.
 
-These are the problems the script, by John Mortimer and William Archibald (adaptation) and Truman Capote (shooting script) intelligently faces. It is full of hints which anyone familiar with the novel will pick up, and anyone coming fresh to the film can easily disregard. The only real departure comes when  
-Mrs Grose (Megs Jenkins), before leaving with Flora for London, rounds on Miss Giddens with her own desperate accusation. But Mrs Grose has earlier been given a wonderful line – ‘rooms used by broad daylight as though they were dark woods’ – which catches the whole shuddering curiosity of their conversations about Quint and Miss Jessel. And her final fears prepare the ground for the climax, when Quint and Miss Giddens fight it out, in the centre of a ring of statues, for Miles’s soul.
+These are the problems the script, by John Mortimer and William Archibald (adaptation) and Truman Capote (shooting script) intelligently faces. It is full of hints which anyone familiar with the novel will pick up, and anyone coming fresh to the film can easily disregard. The only real departure comes when Mrs Grose (Megs Jenkins), before leaving with Flora for London, rounds on Miss Giddens with her own desperate accusation. But Mrs Grose has earlier been given a wonderful line – ‘rooms used by broad daylight as though they were dark woods’ – which catches the whole shuddering curiosity of their conversations about Quint and Miss Jessel. And her final fears prepare the ground for the climax, when Quint and Miss Giddens fight it out, in the centre of a ring of statues, for Miles’s soul.
 
 This last scene – in which Quint’s clutching hand echoes the twisting hands of Miss Giddens which accompany the credits – is managed with full bravura effect: thunderous, lightning-lit, with desperate laughter from Quint. Generally, Clayton brings rather a lot of weather to the business of the ghosts’ appearances – sheets of rain, flapping curtains, thunder-claps mean less than the first, quiet glimpse of Quint, looking over the parapet with clouds of dark behind him. He smiles from outside the window, the black figure of Miss Jessel seen from across the lake or sobbing at the schoolroom table, the long shot from, high up, of Flora solemnly dancing in the little pavilion by the water, find the film at its most effective. But restraint falters in a sequence which begins with Deborah Kerr, clutching her candle, wandering along the night corridors, hearing her enemies whispering and laughing behind every door, and ends with a worked-up flurry of wild yells and whirling images.
 
@@ -88,6 +98,42 @@ Eric Woodburn _(coachman)_<br>
 
 USA/UK 1961©<br>
 100 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5OTg5Nzg0XX0=
--->
+<br>
+
+**A CLASS OF HIS OWN: THE FILMS OF JACK CLAYTON**<br>
+**Room at the Top**<br>
+Thu 2 Dec 18:10 (+ intro by BFI Curator Josephine Botting); Sat 18 Dec 14:10; Wed 22 Dec 18:10; Wed 29 Dec 14:30<br>
+**The Innocents**<br>
+Sat 4 Dec 20:40; Thu 9 Dec 20:45; Mon 13 Dec 18:10; Thu 23 Dec 14:20; Mon 27 Dec 15:20; Thu 30 Dec 14:30<br>
+**Our Mother’s House**<br>
+Tue 7 Dec 20:40 (+ intro); Mon 20 Dec 18:15<br>
+**The Passions of Jack Clayton**<br>
+Wed 8 Dec 18:10<br>
+**The Pumpkin Eater**<br>
+Wed 8 Dec 20:40; Sat 18 Dec 12:50 (+ pre-recorded intro by critic Lucy Scholes); Tue 28 Dec 12:15; Thu 30 Dec 18:10<br>
+**The Lonely Passion of Judith Hearne**<br>
+Fri 10 Dec 20:30; Tue 21 Dec 14:20; Wed 29 Dec 17:50<br>
+**The Great Gatsby**<br>
+Sat 11 Dec 20:20; Mon 27 Dec 12:45<br>
+**Something Wicked This Way Comes**<br>
+Sun 12 Dec 18:30; Tue 21 Dec 20:40<br>
+**Memento Mori + The Bespoke Overcoat**<br>
+Sun 19 Dec 18:00<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
