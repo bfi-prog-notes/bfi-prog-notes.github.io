@@ -21,7 +21,40 @@ Teasingly opaque, broodingly erotic, with its suspiciously comprehensive symbol 
 The theme might be characterised, very roughly, as a set of sardonic and paradoxical glosses on the Marxist definition of freedom as the recognition of necessity, thought the attempt to reduce the film’s complex visual poetry to simple verbal formula is a self-defeating exercise that will attract only the literal-minded. The extraordinary visual appeal of the film lies in the fascinating textures conjured up out of sand, sea and human flesh, and in the pictorially striking and emotionally suggestive pattern of contrasts, and also of weirdly disturbing resemblances, it creates. The oppressive claustrophobia of the cluttered shack is set against the limitless expanses sand, sea and sky; the gloom of the night-scenes and interiors gives way to the blinding glare of the day-time sun; human skin suggests the cratered surface of the moon or becomes indistinguishable from the sand itself. Appearances are both delusive and alarmingly unstable: the sand, at times deceptively solid-looking cliff, at others resembles a river in spate. For the most part, Teshigahara adopts an appropriately tight probing shooting style, with considerable reliance on close-up, but any risk of monotony is avoided not only by the clever set-ups and often striking camerawork but also, and less expectedly, by flashes of dry, oblique humour. Actually, the film succeeds even when judged on the simplest level of character development and human interest, and here much credit is due to the sensitive playing of the two principals. Eiji Okada admirably conveys the transition from brash discontent to tranquil resignation, and Kyoko Kishida gives a haunting portrayal of the woman, with her obsessive attachment to her wretched home and paltry possession, her troubled humility and her sudden moods of fear and gaiety. The feeling of sexual tension too is disturbingly tangible, and the erotic scenes have a charged and compelling intensity.
 
 Above all, Teshigahara strikes a nice balance between the mundane and the portentous; by anchoring his parable in the fascinating details of day-to-day life in this strange environment, and in the man’s attempts to escape, he ensure that, like all good allegories, the film works on the primary level of fact and incident. From the remarkable sequence accompanying the credits, with grains of sand magnified to the size of boulders, which casts a menacing shadow over the apparent normality of the opening scene and perfectly prepares us for the peculiar happenings to follow, the director’s control falters only once, in the scene of the public rape. In a curious way, this is at once to melodramatic and too reticent: the prancing villagers seem less like an evil nightmare thank so much local colour, and the scene lacks genuine horror. The film quickly recovers from this lapse, however, and the moving final scene have an air of wry, unsentimental acceptance that, far-fetched as the comparison might seem, is not so far removed from the spirit that pervades Ozu’s elegiac domestic dramas. The fact that it is not annihilated by this comparison is perhaps the best tribute one can pay to this distinguished and absorbing film.<br>
-**_Monthly Film Bulletin,_ June 1965** 
+** _Monthly Film Bulletin,_ June 1965**<br>
+
+**WOMAN OF THE DUNES (SUNA NO ONNA)  ** _Director:_ Hiroshi Teshigahara  
+_Production Company:_ Teshigahara Productions  
+_Producers:_ Kiichi Ichikawa, Tadashi Ono  
+_Production Manager:_ Iwao Yoshida  
+_Assistant Director:_ Masuo Ogawa  
+_Script Supervisor:_ Eiko Yoshida  
+_Screenplay/Adaptation:_ Kôbô Abe  
+_Original Novel:_ Kôbô Abe  
+_Director of Photography:_ Hiroshi Segawa  
+_Lighting:_ Mitsuo Kume  
+_Stills Photography:_ Yasuhiro Yoshiyoka  
+_Editor:_ Fusako Shuzui  
+_Designer:_ Kiyoshi Awazu  
+_Art Directors:_ Totetsu Hirakawa, Masao Yamazaki  
+_Title Designer:_ Kiyoshi Awazu  
+_Music:_ Toru Takemitsu  
+_Sound Recording:_ Ichiro Kato, Jyunosuke Okuyama  
+_Sound Effects Editor:_ Keiji Mori  
+
+**Cast**<br>
+Eiji Okada _(entomologist Junpei Niki, the man)_  
+Kyoko Kishida _(the woman)_<br> 
+Hiroko Ito _(entomologist’s wife – in flashbacks)_<br>
+Koji Mitsui<br>
+Sen Yano<br>
+Ginzo Sekiguchi<br>
+Kiyohiko Ichihara<br>
+Tamotsu Tamora<br>
+Hiroyuki Nishimuti<br>
+  
+Japan 1964<br>
+124 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDIxNTk2M119
+eyJoaXN0b3J5IjpbNjk4Mzk5OTY0XX0=
 -->
