@@ -21,6 +21,7 @@ We want to be part of this change, making reality TV to engage and entertain. Ex
 
 2. ‘Nearly six out of every ten people who died with coronavirus in England last year were disabled. Some 30,296 of the 50,888 deaths between January and November were people with a disability, Office for National Statistics (ONS) data shows.’  
 **BBC NEWS**
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODU0NzgxMl19
+eyJoaXN0b3J5IjpbMTc0ODA5OTUwMl19
 -->
