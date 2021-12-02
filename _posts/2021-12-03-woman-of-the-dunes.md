@@ -23,7 +23,7 @@ The theme might be characterised, very roughly, as a set of sardonic and paradox
 Above all, Teshigahara strikes a nice balance between the mundane and the portentous; by anchoring his parable in the fascinating details of day-to-day life in this strange environment, and in the man’s attempts to escape, he ensure that, like all good allegories, the film works on the primary level of fact and incident. From the remarkable sequence accompanying the credits, with grains of sand magnified to the size of boulders, which casts a menacing shadow over the apparent normality of the opening scene and perfectly prepares us for the peculiar happenings to follow, the director’s control falters only once, in the scene of the public rape. In a curious way, this is at once to melodramatic and too reticent: the prancing villagers seem less like an evil nightmare thank so much local colour, and the scene lacks genuine horror. The film quickly recovers from this lapse, however, and the moving final scene have an air of wry, unsentimental acceptance that, far-fetched as the comparison might seem, is not so far removed from the spirit that pervades Ozu’s elegiac domestic dramas. The fact that it is not annihilated by this comparison is perhaps the best tribute one can pay to this distinguished and absorbing film.<br>
 ** _Monthly Film Bulletin,_ June 1965**<br>
 
-**WOMAN OF THE DUNES (SUNA NO ONNA)  ** _Director:_ Hiroshi Teshigahara  
+**WOMAN OF THE DUNES (SUNA NO ONNA)**<br> _Director:_ Hiroshi Teshigahara  
 _Production Company:_ Teshigahara Productions  
 _Producers:_ Kiichi Ichikawa, Tadashi Ono  
 _Production Manager:_ Iwao Yoshida  
@@ -56,5 +56,5 @@ Hiroyuki Nishimuti<br>
 Japan 1964<br>
 124 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4Mzk5OTY0XX0=
+eyJoaXN0b3J5IjpbLTg4NTgyNTExMF19
 -->
