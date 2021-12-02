@@ -4,9 +4,7 @@ Tackling the damaging impacts of Ableism, Press Reset aims to inspire decision m
 
 With pre-recorded keynote by Andrew Miller MBE.  
 
-**Disability On Screen: Past, Present and Future<br>  
-A film by Daisy Powell**
-
+**Disability On Screen: Past, Present and Future<br>A film by Daisy Powell**  
 Daisy joined the School of English at the University of Leeds in October 2019 as a postgraduate researcher. Her PhD explores depictions of disability, class and resistance in contemporary austerity Britain, with a focus on 21st century literature and film. It is funded by the Arts and Humanities Research Council through the White Rose College of the Arts & Humanities (WRoCAH).
 
 Daisy holds a Master of Arts by Research also from the University of Leeds, titled _Challenging Ableist Perceptions of Disability and Cure Through Contemporary Cultural Narratives._
@@ -39,43 +37,23 @@ We would be grateful if you are able to complete the short survey below. We hope
 
 You can complete this survey online: **https://www.smartsurvey.co.uk/s/TR4170/**
 
-Or use the QR Code:
-
 Thank you
 <br><br>
 
-<![endif]-->
-
-BUSTING THE BIAS
-
-**Press Reset on Ableism  
-and pre-recorded keynote by Andrew Miller MBE + Disability On Screen: Past, Present and Future**
-
-Fri 3 Dec 12:45
-
-**TAPE Community Music and Film panel discussion  
-+ UK Premiere: Approaching Shadows**
-
-Fri 3 Dec 15:00
-
-**Love + Q&A**
-
-Sat 4 Dec 13:30
-
-**It’s Personal + Q&A**
-
-Sat 4 Dec 15:15
-
-**Talking Bodies:  
-A Rehearsed Reading  
-& Q&A**
-
-Sun 5 Dec 14:00
-
-**Aimee Victoria + Q&A  
-+ The Multi**
-
-Sun 5 Dec 16:00
+**BUSTING THE BIAS**<br>
+**Press Reset on Ableism  and pre-recorded keynote by Andrew Miller MBE + Disability On Screen: Past, Present and Future**<br>
+Fri 3 Dec 12:45<br>
+**TAPE Community Music and Film panel discussion  + UK Premiere: Approaching Shadows**<br>
+Fri 3 Dec 15:00<br>
+**Love + Q&A**<br>
+Sat 4 Dec 13:30<br>
+**It’s Personal + Q&A**<br>
+Sat 4 Dec 15:15<br>
+**Talking Bodies:  A Rehearsed Reading  & Q&A**<br>
+Sun 5 Dec 14:00<br>
+**Aimee Victoria + Q&A  + The Multi**<br>
+Sun 5 Dec 16:00<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDIzMDI3NzFdfQ==
+eyJoaXN0b3J5IjpbMTEyMjI0MjU2NV19
 -->
