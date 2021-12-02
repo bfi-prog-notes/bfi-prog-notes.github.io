@@ -77,17 +77,17 @@ Takaomi Miura _(boy)_<br>
 Hiromi Yasui _(second village woman)_<br>
 Toru Iwasaki _(Nojima’s stepfather)_<br>
 Nobuko Tani _(Nojima’s stepmother)_<br>
-Shinichi Hibino _(Dr Ando)_V
-Tessui Tada _(Buddhist monk)_
-Toshiko Yokota _(woman throwing roof tiles)_
-Yoshiro Hori _(wood seller)_
-Hitomi Ishihara, Junko Hori _(women of the Nojima family)_
-Tetsuhiko Miyoshi _(Takeo Takamaru)_
-Kazuko Kawakami _(Takamaru’s second wife)_
-Junko Takahashi _(middle-aged woman at station)_
+Shinichi Hibino _(Dr Ando)_<br>
+Tessui Tada _(Buddhist monk)_<br>
+Toshiko Yokota _(woman throwing roof tiles)_<br>
+Yoshiro Hori _(wood seller)_<br>
+Hitomi Ishihara, Junko Hori _(women of the Nojima family)_<br>
+Tetsuhiko Miyoshi _(Takeo Takamaru)_<br>
+Kazuko Kawakami _(Takamaru’s second wife)_<br>
+Junko Takahashi _(middle-aged woman at station)_<br>
 
 Japan 1988©<br>
 123 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyOTMzMTE1XX0=
+eyJoaXN0b3J5IjpbNzk2NTE2MDAxXX0=
 -->
