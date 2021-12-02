@@ -19,76 +19,75 @@ The key to any ghost story is knowing when to stop, when to suggest without stat
 _The Innocents_ has ideas to play with: the house filled with flowers, so that a swirl of a crinoline sends the rose petals flying; the shifts in attitudes to the children (Martin Stephens and Pamela Franklin), so that their happiness in playing together gradually becomes a sinister opportunity for secret consultation; the juxtaposition of charm and corruption. A bush conceals a decaying statue, with a beetle dribbling from its mouth; and Miss Giddens, expecting to find Quint on the turret-top, encounters only Miles, fondling his white pigeons. On the sound track, a bluebottle buzzes, a slate-pencil squeaks; noises to play on the nerves. Yet, ingenious and apt as these devices are, effects which should be deft and easy too often come across as over-calculated. One is aware of effort as well as intelligence behind the film; and it’s the cold daylight intensity of _The Turn of the Screw_ that finally eludes this graceful, studied adaptation.<br>
 **Penelope Houston, _Sight and Sound,_ Winter 1961/62**<br>
 
-**The Innocents**
-_Director:_ Jack Clayton
-_©/Production Company:_ Twentieth Century-Fox Film Corporation
-_Executive Producer:_ Albert Fennell
-_Producer:_ Jack Clayton
-_Production Manager:_ James Ware
-_Unit Manager:_ Claude Watson
-_Assistant Director:_ Michael Birkett
-_Continuity:_ Pamela Mann
-_Script Editor:_ Jeanie Sims
-_Screenplay:_ William Archibald, Truman Capote
-_Additional Scenes/Dialogue:_ John Mortimer
-_Based on the story ‘The Turn of the Screw’ by:_ Henry James
-_Director of Photography:_ Freddie Francis
-_Camera Operator:_ Ronnie Taylor
-_Camera Grip:_ Ray Jones
-_Supervising Floor Electrician:_ Maurice Gillett
-_Editor:_ James Clark
-_Assistant Editor:_ Mary Kessel
-_Art Director:_ Wilfrid Shingleton
-_Set Dresser:_ Peter James
-_Costume Designer:_ Motley
-_Make-up:_ Harold Fletcher
-_Hairdresser:_ Gordon Bond
-_Music:_ Georges Auric
-_Lyrics of ‘O Willow Waly’:_ Paul Dehn
-_Conductor:_ Lambert Williamson
-_Sound Recording:_ A.G. Ambler, John Cox
-_Boom Operator:_ Ken Ritchie
-_Dubbing Editor:_ Peter Musgrave
+**THE INNOCENTS**<br>
+_Director:_ Jack Clayton<br>
+_©/Production Company:_ Twentieth Century-Fox Film Corporation<br>
+_Executive Producer:_ Albert Fennell<br>
+_Producer:_ Jack Clayton<br>
+_Production Manager:_ James Ware<br>
+_Unit Manager:_ Claude Watson<br>
+_Assistant Director:_ Michael Birkett<br>
+_Continuity:_ Pamela Mann<br>
+_Script Editor:_ Jeanie Sims<br>
+_Screenplay:_ William Archibald, Truman Capote<br>
+_Additional Scenes/Dialogue:_ John Mortimer<br>
+_Based on the story ‘The Turn of the Screw’ by:_ Henry James<br>
+_Director of Photography:_ Freddie Francis<br>
+_Camera Operator:_ Ronnie Taylor<br>
+_Camera Grip:_ Ray Jones<br>
+_Supervising Floor Electrician:_ Maurice Gillett<br>
+_Editor:_ James Clark<br>
+_Assistant Editor:_ Mary Kessel<br>
+_Art Director:_ Wilfrid Shingleton<br>
+_Set Dresser:_ Peter James<br>
+_Costume Designer:_ Motley<br>
+_Make-up:_ Harold Fletcher<br>
+_Hairdresser:_ Gordon Bond<br>
+_Music:_ Georges Auric<br>
+_Lyrics of ‘O Willow Waly’:_ Paul Dehn<br>
+_Conductor:_ Lambert Williamson<br>
+_Sound Recording:_ A.G. Ambler, John Cox<br>
+_Boom Operator:_ Ken Ritchie<br>
+_Dubbing Editor:_ Peter Musgrave<br>
 
-_uncredited_
-_Production Company:_ Achilles Film Productions Ltd.
-_Production Accountant:_ Charles Wilder
-_Assistant Accountant/Cashier:_ Bob Blues
-_Secretary to Mr Clayton:_ Ann Travis
-_Production Secretary:_ Joan Williams
-_2nd Assistant Director:_ Claude Watson
-_3rd Assistant Director:_ Ken Softley
-_Focus Pullers:_ Ronnie Maasz, Bernard Ford
-_Clapper Loader:_ Simon Ransley
-_Stills:_ Ted Reed
-_2nd Assistant Editor:_ Pamela Gardner
-_Assistant Art Director:_ Martin Atkinson
-_Draughtsmen:_ Tony Woollard, James Sawyer, Anthony Pratt
-_Scenic Artist:_ Alan Evans
-_Production Buyer:_ Marjory Whittington
-_Construction Manager:_ Gus Walker
-_Dress Designer:_ Sophie Devine
-_Wardrobe Mistress:_ Brenda Gardner
-_Wardrobe Assistant:_ Lily Lynch
-_Publicity:_ Paul Grocott
-_Publicity Secretary:_ Jean Barnett
+_uncredited_<br>
+_Production Company:_ Achilles Film Productions Ltd.<br>
+_Production Accountant:_ Charles Wilder<br>
+_Assistant Accountant/Cashier:_ Bob Blues<br>
+_Secretary to Mr Clayton:_ Ann Travis<br>
+_Production Secretary:_ Joan Williams<br>
+_2nd Assistant Director:_ Claude Watson<br>
+_3rd Assistant Director:_ Ken Softley<br>
+_Focus Pullers:_ Ronnie Maasz, Bernard Ford<br>
+_Clapper Loader:_ Simon Ransley<br>
+_Stills:_ Ted Reed<br>
+_2nd Assistant Editor:_ Pamela Gardner<br>
+_Assistant Art Director:_ Martin Atkinson<br>
+_Draughtsmen:_ Tony Woollard, James Sawyer, Anthony Pratt<br>
+_Scenic Artist:_ Alan Evans<br>
+_Production Buyer:_ Marjory Whittington<br>
+_Construction Manager:_ Gus Walker<br>
+_Dress Designer:_ Sophie Devine<br>
+_Wardrobe Mistress:_ Brenda Gardner<br>
+_Wardrobe Assistant:_ Lily Lynch<br>
+_Publicity:_ Paul Grocott<br>
+_Publicity Secretary:_ Jean Barnett<br>
 
-**Cast**
-Deborah Kerr _(Miss Giddens)_
-Peter Wyngarde _(Peter Quint)_
-Megs Jenkins _(Mrs Grose)_
-Michael Redgrave _(the uncle)_
-Martin Stephens _(Miles)_
-Pamela Franklin _(Flora)_
-Clytie Jessop _(Miss Jessel)_
-Isla Cameron _(Anna)_
+**Cast**<br>
+Deborah Kerr _(Miss Giddens)_<br>
+Peter Wyngarde _(Peter Quint)_<br>
+Megs Jenkins _(Mrs Grose)_<br>
+Michael Redgrave _(the uncle)_<br>
+Martin Stephens _(Miles)_<br>
+Pamela Franklin _(Flora)_<br>
+Clytie Jessop _(Miss Jessel)_<br>
+Isla Cameron _(Anna)_<br>
 
-_uncredited_
-Eric Woodburn _(coachman)_
+_uncredited_<br>
+Eric Woodburn _(coachman)_<br>
 
-USA/UK 1961©
-
-100 mins
+USA/UK 1961©<br>
+100 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzM5Njk2XX0=
+eyJoaXN0b3J5IjpbNjM5OTg5Nzg0XX0=
 -->
