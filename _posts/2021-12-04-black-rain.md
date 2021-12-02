@@ -17,137 +17,71 @@ Perhaps the underlying problem is that Imamura wants to have it both ways, tradi
 **Tony Rayns, _Monthly Film Bulletin_, August 1990**<br>
 
 
-**BLACK RAIN (Kuroi Ame)**
-
+**BLACK RAIN (KUROI AME )**
 _Director:_ Shohei Imamura
-
-_Production Companies:_ Imamura Productions, Hayashibara Group,
-
-Tohokushinsha Film Corporation, Toei
-
+_Production Companies:_ Imamura Productions, Hayashibara Group, Tohokushinsha Film Corporation, Toei
 _Executive Producer:_ Shohei Imamura
-
 _Producer:_ Hisa Iino
-
 _Production Supervisor:_ Yasushi Matsuda
-
 _Production Manager:_ Kunihide Hiramasu
-
 _Assistant Directors:_ Kitaka Tsukino, Takashi Miike,
-
 Nobuaki Ito
-
-_Screenplay:_ Shohei Imamura, Toshiro Ishido
-
+_Screenplay:_ Shohei Imamura, Toshiro Ishid
 _Based on the novel by:_ Masuji Ibuse
-
 _Director of Photography:_ Takashi Kawamata
-
 _Assistant Photographers:_ Masashi Chikamori, Mazakazu Oka, Junichi Watanabe
-
 _Lighting:_ Yasuo Iwaki
-
 _Editor:_ Hajime Okayasu
-
 _Art Director:_ Hisao Inagaki
-
 _Set Decorator:_ Akira Kanda
-
 _Yuichi’s Stone Carvings:_ Yoichi Shimizu
-
 _Make-up:_ Shigeko Igawa
-
 _Special Make-up:_ Isao Haruyama
-
 _Title Calligraphy:_ Hirohide Watanabe
-
 _Music/Music Conductor:_ Toru Takemitsu
-
 _Music Performed by:_ Tokyo Concerts
-
 _Sound Recording:_ Senichi Benitani
-
 _Sound Effects:_ Masatoshi Saito
-
 _Dialect Adviser:_ Shigeko Ohara
 
-_Cast:_
-
+**Cast**
 Yoshiko Tanaka _(Yasuko)_
-
 Kazuo Kitamura _(Shigematsu Shizuma)_
-
 Etsuko Ichihara _(Shigeko Shizuma)_
-
 Shoichi Ozawa _(Shokichi)_
-
 Norihei Miki _(Kotaro)_
-
 Keisuke Ishida _(Yuichi)_
-
 Hisako Hara _(Kin)_
-
 Masa Yamada _(Tatsu)_
-
 Tamaki Sawa _(middle-aged woman in Ikemoto-ya)_
-
 Shoji Kobayashi _(Katayama)_
-
 Kazuko Shirakawa _(old woman with white flag)_
-
 Kenjiro Ishimaru _(Aono)_
-
 Mayumi Tateishi _(Fumiko of Ikemoto-ya)_
-
 Taiji Tonoyama _(old priest)_
-
 Fujio Tsuneta _(40-year old man with burns)_
-
 Toshie Kusunoki _(Kane)_
-
 Reiko Nanao _(Rui)_
-
 Satoshi Iinuma _(Takamaru)_
-
 Toshihiko Miki _(Factory Foreman Fujita)_
-
 Yohachi Fuji _(cab driver)_
-
 Sabu Kawahara _(Kanemaru)_
-
 Mitsunori Fukamizu _(Nojima)_
-
 Noboru Mitani _(post office clerk)_
-
 Shuji Otaki _(Dr Fujita)_
-
 Isayoshi Yamazaki _(young Yakuza)_
-
 Mari Kamei _(nurse)_
-
 Tatsuya Irie _(young man)_
-
 Kazue Minami _(first village woman)_
-
 Takaomi Miura _(boy)_
-
 Hiromi Yasui _(second village woman)_
-
 Toru Iwasaki _(Nojima’s stepfather)_
-
 Nobuko Tani _(Nojima’s stepmother)_
-
 Shinichi Hibino _(Dr Ando)_
-
 Tessui Tada _(Buddhist monk)_
-
 Toshiko Yokota _(woman throwing roof tiles)_
-
 Yoshiro Hori _(wood seller)_
-
-Hitomi Ishihara, Junko Hori
-
-_(women of the Nojima family)_
+Hitomi Ishihara, Junko Hori_(women of the Nojima family)_
 
 Tetsuhiko Miyoshi _(Takeo Takamaru)_
 
@@ -159,5 +93,5 @@ Japan 1988©
 
 123 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3MjU0NDE4XX0=
+eyJoaXN0b3J5IjpbODMzNjU5NDU3XX0=
 -->
