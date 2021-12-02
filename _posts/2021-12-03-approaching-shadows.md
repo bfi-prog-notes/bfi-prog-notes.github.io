@@ -34,6 +34,8 @@ Rooted in the Social Model, TAPE’s core aim has been the same since its format
 **01492 512 109**
 
 **hello@tapemusicandfilm.co.uk**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDM5MjIxXX0=
+eyJoaXN0b3J5IjpbLTEwOTk0ODgzMDNdfQ==
 -->
