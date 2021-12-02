@@ -13,7 +13,34 @@ This degree of flagrant and rapturous artifice is in perfect synch with the way 
 Two interpolated fight scenes (the clash between two factions of Niigata bumpkins who fancy themselves as latterday samurai, and the brawl that demolishes the Saloon Western) are comic set-pieces that have nothing to do with the plot but everything to contribute to the tone of disrespect. And each of ‘Viper’ Tatsu’s duels with Tetsuya is more oblique and unresolved than the one before.
 
 What is finally so remarkable about Suzuki’s film is that it attains this level of abstraction, colour expressionism and spatial and narrative disorientation without losing touch with its own identity as a B-feature thriller. It’s as if Powell and Pressburger and Jean-Luc Godard had collaborated on a Joseph H. Lewis movie. Amazing that an unsung genre movie made nearly 30 years ago [55 years ago, by now] in Japan still has such freshness and vitality, and that it still radiates such a strong sense of the cinema’s latent possibilities.<br>
-**Tony Rayns, _Sight & Sound_, April 1994**
+**Tony Rayns, _Sight & Sound_, April 1994**<br>
+<br>
+
+**TOKYO DRIFTER (TOKYO NAGAREMONO)**<br>
+_Director:_ Seijun Suzuki<br>
+_Production Company:_ Nikkatsu<br>
+_Producer:_ Tetsuro Nakagawa<br>
+_Screenplay:_ Yasunori Kawauchi<br>
+_Director of Photography:_ Shigeyoshi Mine<br>
+_Editor:_ Shinya Inoue<br>
+_Production Designer:_ Takeo Kimura<br>
+_Music:_ So Kaburagi<br>
+_Singer:_ Tetsuya Watari<br>
+_Sound:_ Yoshinobu Akino<br>
+
+**Cast**<br>
+Tetsuya Watari<br>
+Chieko Matsubara<br>
+Tsuyoshi Yoshida<br>
+Hideaki Nitani<br>
+Hideaki Esumi<br>
+Ryuji Kita<br>
+Tamio Kawachi<br>
+Isao Tamagawa<br>
+Michio Hino<br>
+
+Japan 1966<br>
+83 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzc3MDM5N119
+eyJoaXN0b3J5IjpbMzY2MDAyNjYyXX0=
 -->
