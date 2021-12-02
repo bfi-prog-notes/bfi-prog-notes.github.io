@@ -108,63 +108,37 @@ Honora Burke _(plump woman)_
 Allan Bracewell _(middle-aged woman)_  
 Brian Worth _(man in sports car)_  
 Ann Gunning _(girl in sports car)_  
-Linda Leo, Mandy Priestly
-
-_(children on bomb site)_  
+Linda Leo, Mandy Priestly _(children on bomb site)_  
 Robert Palmer, Bill Morgan, Eric Louro _(toughs)_  
-Pamela Manson, Ruth Kettlewell,
-
-Isla Cameron _(thespians members)_  
-Derek Benfield, Kendrick Owen
-
-_(men in bar)_  
+Pamela Manson, Ruth Kettlewell, Isla Cameron _(thespians members)_  
+Derek Benfield, Kendrick Owen _(men in bar)_  
 Sandra Thompson, Bonita Bridgeman, Kathleen Fox, Angela Culbert _(bridesmaids at wedding)_  
 John Moulder-Brown _(urchin)_  
-Wilfred Lawson _(Uncle Nat)_
+Wilfred Lawson _(Uncle Nat)_<br>
 
-UK 1958©
+UK 1958©<br>
+117 mins<br>
+<br>
 
-117 mins
-
-A CLASS OF HIS OWN:
-
-THE FILMS OF JACK CLAYTON
-
-**Room at the Top**
-
-Thu 2 Dec 18:10 (+ intro by BFI Curator Josephine Botting); Sat 18 Dec 14:10; Wed 22 Dec 18:10; Wed 29 Dec 14:30
-
-**The Innocents**
-
-Sat 4 Dec 20:40; Thu 9 Dec 20:45; Mon 13 Dec 18:10; Thu 23 Dec 14:20; Mon 27 Dec 15:20; Thu 30 Dec 14:30
-
-**Our Mother’s House**
-
-Tue 7 Dec 20:40 (+ intro); Mon 20 Dec 18:15
-
-**The Passions of Jack Clayton**
-
-Wed 8 Dec 18:10
-
-**The Pumpkin Eater**
-
-Wed 8 Dec 20:40; Sat 18 Dec 12:50 (+ pre-recorded intro by critic Lucy Scholes); Tue 28 Dec 12:15; Thu 30 Dec 18:10
-
-**The Lonely Passion of Judith Hearne**
-
-Fri 10 Dec 20:30; Tue 21 Dec 14:20; Wed 29 Dec 17:50
-
-**The Great Gatsby**
-
-Sat 11 Dec 20:20; Mon 27 Dec 12:45
-
-**Something Wicked This Way Comes**
-
-Sun 12 Dec 18:30; Tue 21 Dec 20:40
-
-**Memento Mori + The Bespoke Overcoat**
-
-Sun 19 Dec 18:00
+**A CLASS OF HIS OWN: THE FILMS OF JACK CLAYTON**<br>
+**Room at the Top**<br>
+Thu 2 Dec 18:10 (+ intro by BFI Curator Josephine Botting); Sat 18 Dec 14:10; Wed 22 Dec 18:10; Wed 29 Dec 14:30<br>
+**The Innocents**<br>
+Sat 4 Dec 20:40; Thu 9 Dec 20:45; Mon 13 Dec 18:10; Thu 23 Dec 14:20; Mon 27 Dec 15:20; Thu 30 Dec 14:30<br>
+**Our Mother’s House**<br>
+Tue 7 Dec 20:40 (+ intro); Mon 20 Dec 18:15<br>
+**The Passions of Jack Clayton**<br>
+Wed 8 Dec 18:10<br>
+**The Pumpkin Eater**<br>
+Wed 8 Dec 20:40; Sat 18 Dec 12:50 (+ pre-recorded intro by critic Lucy Scholes); Tue 28 Dec 12:15; Thu 30 Dec 18:10<br>
+**The Lonely Passion of Judith Hearne**<br>
+Fri 10 Dec 20:30; Tue 21 Dec 14:20; Wed 29 Dec 17:50<br>
+**The Great Gatsby**<br>
+Sat 11 Dec 20:20; Mon 27 Dec 12:45<br>
+**Something Wicked This Way Comes**<br>
+Sun 12 Dec 18:30; Tue 21 Dec 20:40<br>
+**Memento Mori + The Bespoke Overcoat**<br>
+Sun 19 Dec 18:00<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk0OTQxOTRdfQ==
+eyJoaXN0b3J5IjpbLTE2Nzc4MjE5NDhdfQ==
 -->
