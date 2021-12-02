@@ -19,128 +19,64 @@ The key to any ghost story is knowing when to stop, when to suggest without stat
 _The Innocents_ has ideas to play with: the house filled with flowers, so that a swirl of a crinoline sends the rose petals flying; the shifts in attitudes to the children (Martin Stephens and Pamela Franklin), so that their happiness in playing together gradually becomes a sinister opportunity for secret consultation; the juxtaposition of charm and corruption. A bush conceals a decaying statue, with a beetle dribbling from its mouth; and Miss Giddens, expecting to find Quint on the turret-top, encounters only Miles, fondling his white pigeons. On the sound track, a bluebottle buzzes, a slate-pencil squeaks; noises to play on the nerves. Yet, ingenious and apt as these devices are, effects which should be deft and easy too often come across as over-calculated. One is aware of effort as well as intelligence behind the film; and it’s the cold daylight intensity of _The Turn of the Screw_ that finally eludes this graceful, studied adaptation.<br>
 **Penelope Houston, _Sight and Sound,_ Winter 1961/62**<br>
 
-<![endif]-->
-
 **The Innocents**
-
 _Director:_ Jack Clayton
-
-_©/Production Company:_
-
-Twentieth Century-Fox Film Corporation
-
+_©/Production Company:_ Twentieth Century-Fox Film Corporation
 _Executive Producer:_ Albert Fennell
-
 _Producer:_ Jack Clayton
-
 _Production Manager:_ James Ware
-
 _Unit Manager:_ Claude Watson
-
 _Assistant Director:_ Michael Birkett
-
 _Continuity:_ Pamela Mann
-
 _Script Editor:_ Jeanie Sims
-
 _Screenplay:_ William Archibald, Truman Capote
-
 _Additional Scenes/Dialogue:_ John Mortimer
-
-_Based on the story ‘The Turn of the Screw’ by:_
-
-Henry James
-
+_Based on the story ‘The Turn of the Screw’ by:_ Henry James
 _Director of Photography:_ Freddie Francis
-
 _Camera Operator:_ Ronnie Taylor
-
 _Camera Grip:_ Ray Jones
-
 _Supervising Floor Electrician:_ Maurice Gillett
-
 _Editor:_ James Clark
-
 _Assistant Editor:_ Mary Kessel
-
 _Art Director:_ Wilfrid Shingleton
-
 _Set Dresser:_ Peter James
-
 _Costume Designer:_ Motley
-
 _Make-up:_ Harold Fletcher
-
 _Hairdresser:_ Gordon Bond
-
 _Music:_ Georges Auric
-
 _Lyrics of ‘O Willow Waly’:_ Paul Dehn
-
 _Conductor:_ Lambert Williamson
-
 _Sound Recording:_ A.G. Ambler, John Cox
-
 _Boom Operator:_ Ken Ritchie
-
 _Dubbing Editor:_ Peter Musgrave
 
 _uncredited_
-
-_Production Company:_
-
-Achilles Film Productions Ltd.
-
+_Production Company:_ Achilles Film Productions Ltd.
 _Production Accountant:_ Charles Wilder
-
 _Assistant Accountant/Cashier:_ Bob Blues
-
 _Secretary to Mr Clayton:_ Ann Travis
-
 _Production Secretary:_ Joan Williams
-
 _2nd Assistant Director:_ Claude Watson
-
 _3rd Assistant Director:_ Ken Softley
-
 _Focus Pullers:_ Ronnie Maasz, Bernard Ford
-
 _Clapper Loader:_ Simon Ransley
-
 _Stills:_ Ted Reed
-
 _2nd Assistant Editor:_ Pamela Gardner
-
 _Assistant Art Director:_ Martin Atkinson
-
-_Draughtsmen:_ Tony Woollard, James Sawyer,
-
-Anthony Pratt
-
+_Draughtsmen:_ Tony Woollard, James Sawyer, Anthony Pratt
 _Scenic Artist:_ Alan Evans
-
 _Production Buyer:_ Marjory Whittington
-
 _Construction Manager:_ Gus Walker
-
 _Dress Designer:_ Sophie Devine
-
 _Wardrobe Mistress:_ Brenda Gardner
-
 _Wardrobe Assistant:_ Lily Lynch
-
 _Publicity:_ Paul Grocott
-
 _Publicity Secretary:_ Jean Barnett
 
-_Cast:_
-
+**Cast**
 Deborah Kerr _(Miss Giddens)_
-
 Peter Wyngarde _(Peter Quint)_
-
 Megs Jenkins _(Mrs Grose)_
-
 Michael Redgrave _(the uncle)_
 Martin Stephens _(Miles)_
 Pamela Franklin _(Flora)_
@@ -154,5 +90,5 @@ USA/UK 1961©
 
 100 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODkyNjA5M119
+eyJoaXN0b3J5IjpbLTQ4MzM5Njk2XX0=
 -->
