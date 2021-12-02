@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UK Premiere - Approaching Shadows
+title: UK Premiere<br>Approaching Shadows
 published: true
 date: 2021-12-03
 readtime: true
@@ -10,7 +10,7 @@ metadata: 'UK 2021, 84 mins<br>Directors: TAPE Community Film and Music'
 pdf: '2021-12-03-approaching-shadows.pdf'
 ---
 
-+ Panel discussion by TAPE Community Music and Film
+_+ Panel discussion by TAPE Community Music and Film_
 
 **_Approaching Shadows_: The 2nd feature film from  TAPE Community Music and Film**  
 During their golden wedding weekend away, Edward and Violet Knights are brutally separated, triggering a wife’s desperate pursuit of her abducted husband, through an increasingly frightening and unfamiliar world.
