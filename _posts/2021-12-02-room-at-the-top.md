@@ -27,12 +27,10 @@ But social mobility is not a prize easily attained, or universally welcomed, and
 The critical and box-office success of _Room at the Top_ was justifiably acknowledged at various awards ceremonies in 1959. At the Academy Awards, in the year that _Ben-Hur_ largely swept all before it, _Room at the Top_ was one of only two other films to win more than one award, with Simone Signoret winning Best Actress and the Best Screenplay (Adaptation) award going to Neil Paterson. The film was also nominated for Best Picture, Best Director, Best Actor, and Hermione Baddeley for Best Supporting Actress. Signoret also won the Best Actress award at the Cannes Film Festival, while the Woolf brothers collected the award for Best Film from the British Film Academy.
 
 Dilys Powell, in her _Sunday Times_ review of _Room at the Top_, said of the film that ‘it gives one faith all over again in a renaissance of the British cinema’. Whether or not the New Wave films that came in its wake can be classed as being that renaissance, the critical and popular approval of _Room at the Top_ certainly helped to pave the way for their production, with the film’s examination of the lives and concerns of ‘real’ people, the foregrounding of a working-class hero figure and the extensive use of northern locations serving as a template for those films. Yet the film’s influence actually went far beyond the New Wave, its mature representation of relationships setting a precedent for the relaxed censorship of adult themes in British cinema. As John Trevelyan would later observe in his book _What the Censor Saw_, _Room at the Top_ was, quite simply, ‘a milestone in the history of British films’.<br>
-**John Oliver, extract from ‘Real People’, booklet essay for _Room at the Top_, Blu-ray (BFI, 2019)**
+**John Oliver, extract from ‘Real People’, booklet essay for _Room at the Top_, Blu-ray (BFI, 2019)**<br>
 
-<![endif]-->
 
-**Room at the Top**
-
+**ROOM AT THE TOP**<br>
 _Directed by:_ Jack Clayton  
 _Production Company:_ Remus Films  
 _Produced by:_ John Woolf, James Woolf  
@@ -42,32 +40,23 @@ _Assistant Director:_ Ronald Spencer
 _Continuity:_ Doreen Francis  
 _Screenplay by:_ Neil Paterson  
 _Adapted from the novel by:_ John Braine  
-_Director of Photography:_
-
-Freddie Francis  
+_Director of Photography:_ Freddie Francis  
 _Camera Operator:_ Ronald Taylor  
 _Camera Assistant:_ Derek Brown  
 _Camera Grip:_ Ray Jones  
-_Supervising Floor Electrician:_
-
-Maurice Gillett  
+_Supervising Floor Electrician:_ Maurice Gillett  
 _Editor:_ Ralph Kemplen  
 _Art Director:_ Ralph Brinton  
 _Heather Sears’ Dresses:_ Rahvis  
 _Make-up:_ Tony Sforzini  
-_Music Composed by:_
-
-Mario Nascimbene  
+_Music Composed by:_ Mario Nascimbene  
 _Conducted by:_ Lambert Williamson  
 _Sound Supervisor:_ John Cox  
 _Sound Recordist:_ Peter Handford  
 _Sound Boom Operator:_ Ken Ritchie  
-_Dubbing Editors:_ Stan Hawkes,
+_Dubbing Editors:_ Stan Hawkes, Alastair McIntyre<br>
 
-Alastair McIntyre
-
-_Cast:_
-
+**Cast**<br>
 Simone Signoret _(Alice Aisgill)_  
 Laurence Harvey _(Joe Lampton)_  
 Heather Sears _(Susan Brown)_  
@@ -87,10 +76,8 @@ Mary Peach _(June Samson)_
 Anthony Newlands _(Bernard)_  
 Avril Elgar _(Miss Gilchrist)_  
 Thelma Ruby _(Miss Breith)_  
-Paul Whitsun-Jones
-
-_(laughing man at bar)_  
-Derren Nesbitt _(Bert, Mavis’ boyfriend)_
+Paul Whitsun-Jones _(laughing man at bar)_  
+Derren Nesbitt _(Bert, Mavis’ boyfriend)_<br>
 
 _uncredited_  
 Prunella Scales _(Meg)_  
@@ -113,10 +100,7 @@ Edward Palmer _(porter)_
 Michael Atkinson _(Grant)_  
 Julian Somers _(landlord, St. Clair)_  
 Richard Caldicot _(taxi driver)_  
-Pat Lanski _(girl guide leader)_  
-Yvonne Buckingham
-
-_(girl at tote window)_  
+Pat Lanski _(girl guide leader)_  Yvonne Buckingham _(girl at tote window)_  
 Doreen Dawn _(high stepping girl)_  
 Harry Moore _(1st thespian)_  
 Joan Leake _(2nd thespian)_  
@@ -182,5 +166,5 @@ Sun 12 Dec 18:30; Tue 21 Dec 20:40
 
 Sun 19 Dec 18:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjU2ODI0MV19
+eyJoaXN0b3J5IjpbLTEzMDk0OTQxOTRdfQ==
 -->
