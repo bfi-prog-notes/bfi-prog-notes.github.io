@@ -12,7 +12,8 @@ pdf: '2021-12-02-shifting-spaces.pdf'
 
 The 1960s brought seismic changes to Japanese cinema. In this richly illustrated panel discussion, our special guests will consider how the landscape of Japanese cinema changed between the 1960s and the 1990s. Our invited speakers will explore what films, directors, actors, genres and social and political developments defined each decade, and comment on their impact on Japanese cinema of the 21st century.
 
-**Host: Alexander Jacoby** lectures on the arts and culture of Japan, including film, manga and anime, at Oxford Brookes University. He is the author of _A Critical Handbook of Japanese Film Directors_ (2008, Stone Bridge Press) and of a forthcoming monograph on Hirokazu Koreeda, to be published by the BFI and Bloomsbury in 2022. His scholarly essays include contributions to _Japanese Cinema: Texts and Contexts_ (2007, ed. Phillips and Stringer) and _The Japanese Cinema Book_ (2020, ed. Fujiki and Phillips), and his journalism on film and other topics has appeared in various publications including _Sight and Sound_, _The Times_ and _The Japan Times_. He has curated film programmes at the BFI, Il Cinema Ritrovato, Bologna, the Giornate del Cinema Muto, Pordenone, and the Museum of Modern Art, New York.
+**Host: Alexander Jacoby** lectures on the arts and culture of Japan, including film, manga and anime, at Oxford Brookes University. He is the author of  
+_A Critical Handbook of Japanese Film Directors_ (2008, Stone Bridge Press) and of a forthcoming monograph on Hirokazu Koreeda, to be published by the BFI and Bloomsbury in 2022. His scholarly essays include contributions to _Japanese Cinema: Texts and Contexts_ (2007, ed. Phillips and Stringer) and _The Japanese Cinema Book_ (2020, ed. Fujiki and Phillips), and his journalism on film and other topics has appeared in various publications including _Sight and Sound_, _The Times_ and _The Japan Times_. He has curated film programmes at the BFI, Il Cinema Ritrovato, Bologna, the Giornate del Cinema Muto, Pordenone, and the Museum of Modern Art, New York.
 
 **Jasper Sharp** is an author, filmmaker and curator known for his work on Asian cinema and the co-founder of the Japanese film website Midnight Eye. His books include _The Midnight Eye Guide to New Japanese Film_ (2004), joint-written with Tom Mes, _Behind the Pink Curtain_ (2008) and _The Historical Dictionary of Japanese Cinema_ (2011). His work has appeared in publications including _Sight and Sound_, _The Guardian_, _The Japan Times_, _Kateigaho_ and _Film International_, and on numerous home video releases. He has a PhD on ‘Japanese Widescreen Cinema: Commerce, Technology and Aesthetics’, examining the introduction of widescreen cinema technologies to Japan during the 1950s. He is the co-director with Tim Grabham of _The Creeping Garden_ (2014), a documentary about plasmodial slime moulds and currently works as a disc producer for Arrow Films.
 
@@ -117,3 +118,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAxMTYyMTY2M119
+-->
