@@ -39,7 +39,113 @@ The only real concession to the American audience is the casting of Renée Zellw
 <br><br>
 
 **BRIDGET JONES'S DIARY**<br>
+_Directed by_: Sharon Maguire  
+©: Universal Studios, StudioCanal  
+©_/Presented by_: Miramax Film Corp.  
+_Production Company_: Working Title Films  
+_Presented by_: Universal Pictures  
+_Executive Producer_: Helen Fielding  
+_Producers_: Tim Bevan, Eric Fellner,  Jonathan Cavendish  
+_Co-producers_: Debra Hayward, Liza Chasin  
+_Line Producer_: Peter McAleese  
+_Chief Operating Officers (Working Title)_ Angela Morrison, Sarah-Jane Wright  
+_Unit Manager_: Claire Tovey  
+_Production Supervisor_: Brian Donovan  
+_Company Co-ordinators (Working Film)_:  Emily Stewart, Hermione Ninnim  
+_Head of Business Affairs (Working Title)_:  Rachel Holroyd  
+_Finance Director (Working Film)_: Julian Tomlin  
+_Location Manager (Helicopter Unit)_: David Seaton  
+_Location Managers_: Adam Richards,  Ben Greenacre  
+_Post-production Supervisor_: Jeanette Haley  
+_2nd Unit Director_: Cilla Ware  
+_1st Assistant Director_: Stuart Renfrew  
+_2nd Assistant Director_: Finn McGrath  
+_3rd Assistant Director_: Eddie Raymond  
+_Co-3rd Assistant Director_: Spencer Dodd  
+_Script Supervisors_: Pat Rambaut, Carol Thompson, Laura Gwynne  
+_Casting_: Michelle Guish  
+_Screenplay_: Helen Fielding, Andrew Davies,  Richard Curtis  
+_Based on the novel by_: Helen Fielding  
+_Director of Photography_: Stuart Dryburgh  
+_2nd Unit Director of Photography_: Nigel Willoughby  
+_Aerial Unit Director_: Marc Wolff  
+_Aerial Cameraman_: Adam Dale  
+_A Camera Operator_: Peter Robertson  
+_2nd Camera Operator_: Nic Milner  
+_Steadicam Operator_: Peter Robertson  
+_Digital Visual Effects_: Double Negative  
+_Visual Effects Supervisor_: Frazer Churchill
+_Visual Effects Producers_: Fay McConkey,  Matthew Holben, Alex Hope  
+_Additional Digital Effects_:  The Computer Film Company  
+_Special Effects Supervisor_: David Harris  
+_Graphic Designer_: Carol Kupisz  
+_Editor_: Martin Walsh  
+_Additional Editing_: Paul Knight  
+_Production Designer_: Gemma Jackson  
+_Supervising Art Director_: David Warren  
+_Art Director_: Paul Cross  
+_Set Decorator_: Shirley Lixenberg  
+_Costume Designer_: Rachael Fleming  
+_Wardrobe Supervisor_: Natalie Ward  
+_Chief Make-up/Hair Designers_: Graham Johnston, Carmel Jackson  
+_Make-up Artiste_: Lorna McGowan  
+_Main Titles Design_: Michael Ellis  
+_Titles/Opticals_: General Screen Enterprises  
+_Original Score by_: Patrick Doyle  
+_Music Conductor_: James Shearman  
+_Music Supervisor_: Nick Angel  
+_Choreography_: Alice Mahoney  
+_Sound Mixers_: David Crozier, David John  
+_Re-recording Mixers_: John Hayward,  Nic Lemessurier, Richard Pryke, Ray Merrin  
+_Supervising Sound Editor_: Glenn Freemantle  
+_Stunt Co-ordinator_: Peter Brayham  
+_Studio_: Shepperton Studios
 
+**Cast**  
+Renée Zellweger _(Bridget Jones)_  
+Colin Firth _(Mark Darcy)_  
+Hugh Grant _(Daniel Cleaver)_  
+Jim Broadbent _(Bridget’s dad)_  
+Gemma Jones _(Bridget’s mum)_  
+Sally Phillips _(Shazza)_  
+Shirley Henderson _(Jude)_  
+James Callis _(Tom)_  
+Embeth Davidtz _(Natasha)_  
+Celia Imrie _(Una Alconbury)_  
+Honor Blackman _(Penny Husbands-Bosworth)_  
+James Faulkner _(Uncle Geoffrey)_  
+Charmian May _(Mrs Darcy)_  
+Paul Brooke _(Mr Fitzherbert)_  
+Felicity Montagu _(Perpetua)_  
+Charlie Caine _(handsome stranger)_  
+Gareth Marks _(Simon in marketing)_  
+John Clegg _(elderly man)_  
+Salman Rushdie _(himself)_  
+Matthew Bates _(Kafka author)_  
+Jeffrey Archer _(himself)_  
+Patrick Barlow _(Julian)_  
+Rebecca Charles _(receptionist)_  
+Dominic McHale _(Bernard)_  
+Joan Blackman _(Shirley)_  
+Lisa Barbuscia _(Lara)_  
+Joseph Alessi _(interviewer 1)_  
+Rhydian Jai-Persad _(interviewer 2)_  
+Neil Pearson _(Richard Finch)_  
+Paul Ross _(Mr Sit Up Britain)_  
+Stewart Wright _(stage manager)_  
+Claire Skinner _(Magda)_  
+Dolly Wells _(Woney)_  
+Mark Lingwood _(Cosmo)_  
+Toby Whithouse _(Alastair)_  
+David Cann _(cameraman)_  
+Lisa Kay _(Eleanor Ross Heaney)_  
+Sulayman al-Bassam _(Kafir Aghani)_  
+Millennia Strings _(the musicians)_  
+Donald Douglas _(Mr Darcy)_  
+Renu Setna _(Mr Ramdas)_
+
+USA/France/UK 2001©  
+97 mins
 <br><br>
 
 <img style="float:left" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC"  width="40%" height="40%">
@@ -63,6 +169,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NjU3MzEzMCwtMTE2NzQ1OTg5NiwxNj
-E2MTkxNTkzXX0=
+eyJoaXN0b3J5IjpbLTEyNzUzMjc0NjMsLTExNjc0NTk4OTYsMT
+YxNjE5MTU5M119
 -->
