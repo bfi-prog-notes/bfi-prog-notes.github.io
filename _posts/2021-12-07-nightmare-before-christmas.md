@@ -66,8 +66,7 @@ _Director of Photography_: Pete Kozachik
 _Camera Operators_: Jo Carson, Pat Sweeney,  Jim Aupperle, Ray Gilberti, Richard E. Lehmann, Eric Swenson, Dave Hanks, Selwyn Eddy III  
 _Stills Photography_: Richard Downing  
 _Visual Effects Supervisor_: Pete Kozachik  
-_Digital Effects Provided by_:  
-Walt Disney Feature Animation  
+_Digital Effects Provided by_:  Walt Disney Feature Animation  
 _Model Shop Supervisor_: Mitch Romanauski  
 _Animation Supervisor_: Eric Leighton  
 _Editor_: Stan Webb  
@@ -77,15 +76,13 @@ _Consulting Editor_: Chris Lebenzon
 _Visual Consultant_: Rick Heinrichs  
 _Artistic Co-ordinator_: Allison Abbate  
 _Art Director_: Deane Taylor  
-_Assistant Art Directors_: Kendal Cronkhite,  
-Kelly Adam Asbury, Bill Boes  
+_Assistant Art Directors_: Kendal Cronkhite,  Kelly Adam Asbury, Bill Boes  
 _Set Designer/Dressing Supervisor_: Gregg Olsson  
 _Background Design_: B.J. Fredrickson  
 _Lead Scenic Artist_: B.J. Fredrickson  
 _Scenic Artists_: Linda Overbey, Jennifer Clinard, Peggy Hrastar, Loren Hillman  
 _Storyboard Supervisor_: Joe Ranft  
-_Sculptors_: Norm Decarlo, Shelley Daniels,  
-Greg Dykstra, Randal M. Dutra  
+_Sculptors_: Norm Decarlo, Shelley Daniels,  Greg Dykstra, Randal M. Dutra  
 _Titles_: Buena Vista Optical  
 _Music/Lyrics/Original Score_: Danny Elfman  
 _Song Conductor_: Chris Boardman  
@@ -95,8 +92,7 @@ _Re-recording Mixers_: Terry Porter, Shawn Murphy, Greg P. Russell
 _Dubbing Recordist_: Tim Webb, Tony Araki  
 _Supervising Sound Editors_: Richard L. Anderson, John Pospisil
 
-_Voice Cast:_
-
+**Voice Cast**  
 Danny Elfman _(Jack Skellington singing/clown with the tear away face/Barrel)_  
 Chris Sarandon _(Jack Skellington speaking)_  
 Catherine O’Hara _(Sally/Shock)_  
@@ -113,13 +109,11 @@ Randy Crenshaw _(Mr Hyde/behemoth/vampire)_
 Sherwood Ball _(mummy/vampire)_  
 Carmen Twillie _(undersea gal/man under stairs)_  
 Glenn Walters _(voice of wolfman)_  
-Doris Hess, Daamen Krall, Christina MacGregor, David McCharen, Gary Raff, David Randolph,
+Doris Hess, Daamen Krall, Christina MacGregor, David McCharen, Gary Raff, David Randolph, Gary Schwartz  
 
-Gary Schwartz
-
-USA 1993©
-
+USA 1993©  
 76 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjUwMDQxNzNdfQ==
+eyJoaXN0b3J5IjpbLTExMTc5NjYxNjddfQ==
 -->
