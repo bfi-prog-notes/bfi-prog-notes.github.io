@@ -2,13 +2,13 @@
 
 **Director Henry Selick on ‘The Nightmare before Christmas’**
 
-_The film has been marketed as_ Tim Burton’s The Nightmare before Christmas _, but you’re the director. What do you think is distinctively yours about the film?_
+_The film has been marketed as_ Tim Burton’s The Nightmare before Christmas, _ but you’re the director. What do you think is distinctively yours about the film?_
 
 It’s as though he laid the egg, but I sat on it and hatched it, so it came out looking a bit like both of us. He wasn’t involved in a hands-on way, but his hand is in it. It was my job in a way to make it look like a ‘Tim Burton film’, which is not so different from my own films. We can collaborate because we often think of the same solution to a problem. It’s why we hit it off at Disney – we were not having fun drawing cute foxes and little animals. But I would wager that in _The Nightmare before Christmas_ most of the lines you laugh at are mine. I did most sequences like the battle, or any action sequences – Tim always gives live action to a second-unit director. Every shot of the movie is something I looked at through a camera and composed.
 
-I don’t want to take away from·Tim, but he was not here in San Francisco when we made it. He came up five times over two years, and spent no more than eight or ten days here in total. It’s more like he wrote a children’s book and gave it to us and we went from there. But the bottom line was that Tim Burton’s name before the title was going to bring in more people than mine would.
+I don’t want to take away from Tim, but he was not here in San Francisco when we made it. He came up five times over two years, and spent no more than eight or ten days here in total. It’s more like he wrote a children’s book and gave it to us and we went from there. But the bottom line was that Tim Burton’s name before the title was going to bring in more people than mine would.
 
-Nightmare _centres on three different worlds: those of Halloweentown, Christmastown and the ‘real world’. You have the same contrast of worlds in one of your earlier films,_ Slow Bob in the Lower Dimensions_. Is this a concern of yours?_
+Nightmare _centres on three different worlds: those of Halloweentown, Christmastown and the ‘real world’. You have the same contrast of worlds in one of your earlier films,_ Slow Bob in the Lower Dimensions._ Is this a concern of yours?_
 
 It’s pure coincidence – in fact, the idea of different holiday worlds came from Tim. But most of my other personal work, including several short films, is about the collision of worlds. For example, a 9-minute film I made in 1981, _Seepage_, depicts stop-motion animated life-size figures by a pool who experience a collision between their world and an imaginary world they speak of.
 
@@ -127,5 +127,5 @@ USA 1993©
 
 76 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Njg1MzgwM119
+eyJoaXN0b3J5IjpbLTY1MTAzMDUwMl19
 -->
