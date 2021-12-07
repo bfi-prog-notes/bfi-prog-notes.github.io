@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Mezzotint
+published: true
+date: 2021-12-07
+readtime: true
+categories: ['TV PREVIEW']
+tags: [Horror]
+metadata: 'UK 2021, 30 mins<br> Director: Mark Gatiss'
+pdf: '2021-12-07-mezzotint.pdf'
+---
 
 _+ Q&A with director Mark Gatiss and cast members Frances Barber, Robert Bathurst  and Nikesh Patel. Hosted by Matthew Sweet._
 
@@ -25,8 +36,7 @@ He had a childhood passion for _Doctor Who_ and both wrote for and starred in th
 
 Mark is the co-creator and executive producer of _Sherlock_, the hit BBC series starring Benedict Cumberbatch and Martin Freeman which has seen unprecedented global success and in which he also plays Sherlock’s brother Mycroft Holmes. The show has won a total of nine Emmys and twelve BAFTAs across its four series.
 
-Mark’s other writing credits for television include episodes of _Nighty Night_ (2004 – 2005) _Crooked House_ (2008), two episodes of Agatha Christie’s _Poirot_, his adaptation of HG Wells’s _The First Men in the Moon_ (2010) and all three episodes of the documentary series _A History of Horror_ (2010) and its one-off sequel _Horror Europa_ (2012), all of which he presented as well.  
-Most recently he wrote and presented two art documentaries for BBC4 – one on John Minton and the other on Aubrey Beardsley.
+Mark’s other writing credits for television include episodes of _Nighty Night_ (2004 – 2005) _Crooked House_ (2008), two episodes of Agatha Christie’s _Poirot_, his adaptation of HG Wells’s _The First Men in the Moon_ (2010) and all three episodes of the documentary series _A History of Horror_ (2010) and its one-off sequel _Horror Europa_ (2012), all of which he presented as well.  Most recently he wrote and presented two art documentaries for BBC4 – one on John Minton and the other on Aubrey Beardsley.
 
 In 2017, he curated and directed _Queers_ – a series of eight monologues for BBC Four to mark the 50th Anniversary of the 1967 Sexual Offences Act which saw the partial decriminalisation of male homosexuality.
 
@@ -34,8 +44,7 @@ Recent acting roles include The Duke of Marlborough in the BAFTA-winning and Osc
 
 On stage, he has starred alongside Tom Hiddleston in Coriolanus (2013), as Harold in Mart Crowley’s _The Boys in the Band_ (2016) and as Doctor Shpigelsky in Patrick Marber’s adaptation of Turgenev’s _Three Days in the Countr__y_ for which he received the Olivier Award for Best Actor in a Supporting Role. In November 2018 he took the titular role in _The Madness of George III_ at the Nottingham Playhouse – the best-selling show in the theatre’s history.
 
-Most recently he co-created and executive produced the BBC and Netflix drama _Dracula_.  In addition to _The Mezzotint_, for Christmas 2021 he has written and directed _The Amazing Mr Blunden_ for Sky One, which he stars alongside Simon Callow and Tamsin Greig. He will also be starring as Jacob Marley in a new adaptation of _A Christmas Carol_ which he has written for  
-the Nottingham Playhouse and Alexandra Palace, due to open later this year.
+Most recently he co-created and executive produced the BBC and Netflix drama _Dracula_.  In addition to _The Mezzotint_, for Christmas 2021 he has written and directed _The Amazing Mr Blunden_ for Sky One, which he stars alongside Simon Callow and Tamsin Greig. He will also be starring as Jacob Marley in a new adaptation of _A Christmas Carol_ which he has written for  the Nottingham Playhouse and Alexandra Palace, due to open later this year.
 
 **Frances Barber** is an award-winning actress whose work has combined leading roles in  theatre, film & TV in the UK.
 
@@ -45,8 +54,7 @@ On film, she has worked with Mike Leigh, in Stephen Frears’ _Prick Up Your Ear
 
 She played the title role in Phyllida Lloyd’s ground-breaking all female production of _Julius Caesar_ at the Donmar Warehouse which transferred to the St Ann’s Warehouse in New York. Recent theatre includes _What the Butler Saw_ at the Mark Taper Forum, L.A; _The School for Scandal_ at the Lucille Lortel Theatre, New York, _Madame Rubinstein_ at the Park Theatre and _An Ideal Husband_ at The Vaudeville Theatre. In 2019/2020 Frances enjoyed a sold-out run-In Edinburgh and then a transfer to Leicester Square Theatre of The Pet Shop Boys and Jonathan Harvey’s one woman show _MUSIK_, in which she reprised the role of Bille Trix, which was created for her in their musical _Closer To Heaven_. Frances was awarded Best Lead Performance in a Musical in the 2021 OFFIEs awards. Most recently Frances has completed a sell-out run as Polonius opposite Sir Ian McKellen’s _Hamlet_ at Windsor Theatre Royal.
 
-**Robert Bathurst**’s many series on television include _Cold Feet_, _Toast of London, Downton Abbey, Joking Apart, Emma, Wild at Heart_ and _My Dad’s The Prime Minister_. Theatre performances in London and the UK include plays by Shaw, Shakespeare, Coward, Frayn, Ibsen, Chekhov, Wilde and Aphra Behn; he co-devised and produced _Love, Loss & Chianti_, a stage performance for two actors, musicians and cartoon animation based on narrative poems by Christopher Reid. He played the title role in Mike Bartlett’s _King Charles III_ at the Chicago Shakespeare Theatre. His reading of Louise Penny’s Inspector Gamache novels for MacMillan Audio won him the 2020 Audie Award for Best Male Narrator. This year he co-directed a film about jockeys, _The Fall_, which is currently available on SkySports. He writes for _The Oldie_ magazine on showbiz and horseracing. In addition to _The Mezzotint_ recent TV includes  
-_The Larkins_ (ITV), _Munich – The Edge Of War_ (Netflix), _Dr Who_ (BBC) and the new series of  _Toast of London_ (BBC).
+**Robert Bathurst**’s many series on television include _Cold Feet_, _Toast of London, Downton Abbey, Joking Apart, Emma, Wild at Heart_ and _My Dad’s The Prime Minister_. Theatre performances in London and the UK include plays by Shaw, Shakespeare, Coward, Frayn, Ibsen, Chekhov, Wilde and Aphra Behn; he co-devised and produced _Love, Loss & Chianti_, a stage performance for two actors, musicians and cartoon animation based on narrative poems by Christopher Reid. He played the title role in Mike Bartlett’s _King Charles III_ at the Chicago Shakespeare Theatre. His reading of Louise Penny’s Inspector Gamache novels for MacMillan Audio won him the 2020 Audie Award for Best Male Narrator. This year he co-directed a film about jockeys, _The Fall_, which is currently available on SkySports. He writes for _The Oldie_ magazine on showbiz and horseracing. In addition to _The Mezzotint_ recent TV includes  _The Larkins_ (ITV), _Munich – The Edge Of War_ (Netflix), _Dr Who_ (BBC) and the new series of  _Toast of London_ (BBC).
 
 **Nikesh Patel** is currently shooting _The Devil’s Hour_ for Amazon. He was recently seen opposite Rose Matafeo in her new BBC Three/HBO Max series _Starstruck_, playing the lead role of ‘Tom Kapoor’, season 2 of which will be out soon. Before that he most recently starred as ‘Kash’ in Mindy Kaling’s ten-part _Four Weddings and a Funeral_ for Hulu and played ‘Foaly’ in Disney feature _Artemis Fowl_, directed by Kenneth Branagh. Nikesh trained at the Guildhall School of Drama and was named as the 2010 Screen’s UK Stars of Tomorrow.
 
@@ -76,6 +84,41 @@ Tommaso Di Vincenzo _(Gawdy)_<br>
 UK 2021<br>
 30 mins
 <br><br>
+
+**IN PERSON & PREVIEWS**<br>
+**Exclusive Preview: Swan Song + pre-recorded Q&A with director Benjamin Cleary, producer Rebecca Bourke and actors Mahershala Ali and Naomie Harris**<br>
+Wed 8 Dec 17:15<br>
+**Preview: Boiling Point + Q&A with director Philip Barantini and actors Ray Panthaki, Lauryn Ajufo and Alice Feetham**<br>
+Wed 8 Dec 20:30<br>
+**TV Preview: Ghosts Christmas Special + Q&A (guests TBA)**<br>
+Thu 9 Dec 18:10<br>
+**tick, tick… BOOM! + (TBC) pre-recorded Q&A with director Lin-Manuel Miranda, actors Alexandra Shipp and Robin de Jesús and producer Julie Oh**<br>
+Thu 9 Dec 20:30<br>
+**Patti Boulaye**<br>
+Sun 12 Dec 15:30<br>
+**Woman with a Movie Camera: Bridget Jones’s Diary at 20 + Q&A with director Sharon Maguire**<br>
+Thu 16 Dec 18:00<br>
+**Preview: Wheel of Fortune and Fantasy (Guzen to sozo)**<br>
+Wed 29 Dec 18:00<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTIyNDE2NTc1NV19
 -->
