@@ -46,57 +46,36 @@ On film, she has worked with Mike Leigh, in Stephen Frears’ _Prick Up Your Ear
 She played the title role in Phyllida Lloyd’s ground-breaking all female production of _Julius Caesar_ at the Donmar Warehouse which transferred to the St Ann’s Warehouse in New York. Recent theatre includes _What the Butler Saw_ at the Mark Taper Forum, L.A; _The School for Scandal_ at the Lucille Lortel Theatre, New York, _Madame Rubinstein_ at the Park Theatre and _An Ideal Husband_ at The Vaudeville Theatre. In 2019/2020 Frances enjoyed a sold-out run-In Edinburgh and then a transfer to Leicester Square Theatre of The Pet Shop Boys and Jonathan Harvey’s one woman show _MUSIK_, in which she reprised the role of Bille Trix, which was created for her in their musical _Closer To Heaven_. Frances was awarded Best Lead Performance in a Musical in the 2021 OFFIEs awards. Most recently Frances has completed a sell-out run as Polonius opposite Sir Ian McKellen’s _Hamlet_ at Windsor Theatre Royal.
 
 **Robert Bathurst**’s many series on television include _Cold Feet_, _Toast of London, Downton Abbey, Joking Apart, Emma, Wild at Heart_ and _My Dad’s The Prime Minister_. Theatre performances in London and the UK include plays by Shaw, Shakespeare, Coward, Frayn, Ibsen, Chekhov, Wilde and Aphra Behn; he co-devised and produced _Love, Loss & Chianti_, a stage performance for two actors, musicians and cartoon animation based on narrative poems by Christopher Reid. He played the title role in Mike Bartlett’s _King Charles III_ at the Chicago Shakespeare Theatre. His reading of Louise Penny’s Inspector Gamache novels for MacMillan Audio won him the 2020 Audie Award for Best Male Narrator. This year he co-directed a film about jockeys, _The Fall_, which is currently available on SkySports. He writes for _The Oldie_ magazine on showbiz and horseracing. In addition to _The Mezzotint_ recent TV includes  
-_The Larkins_ (ITV), _Munich – The Edge Of War_ (Netflix), _Dr Who_ (BBC) and the new series of  
-_Toast of London_ (BBC).
+_The Larkins_ (ITV), _Munich – The Edge Of War_ (Netflix), _Dr Who_ (BBC) and the new series of  _Toast of London_ (BBC).
 
 **Nikesh Patel** is currently shooting _The Devil’s Hour_ for Amazon. He was recently seen opposite Rose Matafeo in her new BBC Three/HBO Max series _Starstruck_, playing the lead role of ‘Tom Kapoor’, season 2 of which will be out soon. Before that he most recently starred as ‘Kash’ in Mindy Kaling’s ten-part _Four Weddings and a Funeral_ for Hulu and played ‘Foaly’ in Disney feature _Artemis Fowl_, directed by Kenneth Branagh. Nikesh trained at the Guildhall School of Drama and was named as the 2010 Screen’s UK Stars of Tomorrow.
 
-**Matthew Sweet, Writer and Broadcaster**  is author of _Inventing the Victorians_ (2001), _Shepperton Babylon_ (2005) and _The West End Front_ (2011). A familiar voice in British broadcasting, he presents _Free Thinking_ and _Sound of Cinema_ on BBC Radio 3 and  
-_The Philosopher’s Arms_ on BBC Radio 4. He has judged the Costa Book Award, edited  
-_The Woman in White_ for Penguin Classics and was Series Consultant on the Showtime/Sky Atlantic series _Penny Dreadful_. In the BBC2 drama _An Adventure in Space and Time_ he played a moth from the planet Vortis. His fashion history column, _The Line of Beauty_, appears in _1843_ magazine. His latest book, _Operation Chaos: The Vietnam Deserters Who Fought the CIA, the Brainwashers and Themselves_ is published by Picador.
+**Matthew Sweet, Writer and Broadcaster**  is author of _Inventing the Victorians_ (2001), _Shepperton Babylon_ (2005) and _The West End Front_ (2011). A familiar voice in British broadcasting, he presents _Free Thinking_ and _Sound of Cinema_ on BBC Radio 3 and  _The Philosopher’s Arms_ on BBC Radio 4. He has judged the Costa Book Award, edited  _The Woman in White_ for Penguin Classics and was Series Consultant on the Showtime/Sky Atlantic series _Penny Dreadful_. In the BBC2 drama _An Adventure in Space and Time_ he played a moth from the planet Vortis. His fashion history column, _The Line of Beauty_, appears in _1843_ magazine. His latest book, _Operation Chaos: The Vietnam Deserters Who Fought the CIA, the Brainwashers and Themselves_ is published by Picador.
+<br><br>
 
-<![endif]-->
+**THE MEZZOTINT**<br>
+_Director:_ Mark Gatiss<br>
+_Producer:_ Isibeal Ballance<br>
+_Adapted by:_ Mark Gatiss<br>
+_Written by:_ M. R. James<br>
+_Director of Photography:_  Kieran McGuigan<br>
+_Production Designer:_ Bobbie Cousins<br>
+_Costume Designer:_ Claire Finlay<br>
+_Make-Up Designer:_ Claudia Cavalli<br>
+_Composer:_ Blair Mowat<br>
 
-**THE MEZZOTINT**
+**Cast**<br>
+Rory Kinnear _(Williams)_<br>
+Robert Bathurst _(Garwood)_<br>
+Frances Barber _(Mrs Ambrigail)_<br>
+John Hopkins _(Binks)_<br>
+Emma Cunniffe _(Mrs Filcher)_<br>
+Nikesh Patel _(Nisbet)_<br>
+Tommaso Di Vincenzo _(Gawdy)_<br>
 
-_Director:_ Mark Gatiss
-
-_Producer:_ Isibeal Ballance
-
-_Adapted by:_ Mark Gatiss
-
-_Written by:_ M. R. James
-
-_Director of Photography:_  
-Kieran McGuigan
-
-_Production Designer:_ Bobbie Cousins
-
-_Costume Designer:_ Claire Finlay
-
-_Make-Up Designer:_ Claudia Cavalli
-
-_Composer:_ Blair Mowat
-
-_Cast:_
-
-Rory Kinnear _(Williams)_
-
-Robert Bathurst _(Garwood)_
-
-Frances Barber _(Mrs Ambrigail)_
-
-John Hopkins _(Binks)_
-
-Emma Cunniffe _(Mrs Filcher)_
-
-Nikesh Patel _(Nisbet)_
-
-Tommaso Di Vincenzo _(Gawdy)_
-
-UK 2021
-
+UK 2021<br>
 30 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDYxMzA4OF19
+eyJoaXN0b3J5IjpbMTIyNDE2NTc1NV19
 -->
