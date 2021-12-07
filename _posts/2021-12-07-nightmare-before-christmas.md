@@ -36,17 +36,13 @@ _How did that feed into the design of the nightmare landscape in the film?_
 
 One of our criteria was to make the Halloween characters look really scary, though they weren’t bad people except for Oogie Boogie, and even with him it was just his nature to be voracious. When Tim was a lad he watched a lot of films like the original _Frankenstein_ or _The Creature from the Black Lagoon_. Those creatures weren’t inherently bad, they were just misunderstood and people were terrified of them and tried to destroy them. Tim had sympathy for them and it’s something he wanted to carry through to the denizens of Halloween town.
 
-_Did you break new ground technically with_ Nightmare_?_
+_Did you break new ground technically with_ Nightmare _?_
 
-We took an old technique and did the highest-quality stop-motion that has ever been done for that many minutes. I think we moved stop-motion up to a high level of performance in timing, lighting and computer-aided camera moves.  
-We made it a serious contender rather than things that look like toys on a table top with two glaring lights.
+We took an old technique and did the highest-quality stop-motion that has ever been done for that many minutes. I think we moved stop-motion up to a high level of performance in timing, lighting and computer-aided camera moves.  We made it a serious contender rather than things that look like toys on a table top with two glaring lights.  
+**Interview by Leslie Felperin, _Sight and Sound_, December 1994**
+<br><br>
 
-Interview by Leslie Felperin, _Sight and Sound_, December 1994
-
-<![endif]-->
-
-**TIM BURTON’S THE NIGHTMARE BEFORE CHRISTMAS**
-
+**TIM BURTON’S THE NIGHTMARE BEFORE CHRISTMAS**  
 _Director_: Henry Selick  
 ©: Touchstone Pictures  
 _Production Company_: Burton/DiNovi  
@@ -62,14 +58,12 @@ _Production Co-ordinator (Art Dept)_: Jill Ruzicka
 _Production Accountant_: Kevin Reher  
 _Post-production (Supervisor)_: Sara Duran  
 _Casting_: Mary Gail Artz, Barbara Cohen  
-_Casting (San Francisco)_:  
-Hayes & Van Horn Casting, Davia Nelson  
+_Casting (San Francisco)_:  Hayes & Van Horn Casting, Davia Nelson  
 _Screenplay_: Caroline Thompson  
 _Adaptation_: Michael McDowell  
 _Based on a story and characters by_: Tim Burton  
 _Director of Photography_: Pete Kozachik  
-_Camera Operators_: Jo Carson, Pat Sweeney,  
-Jim Aupperle, Ray Gilberti, Richard E. Lehmann, Eric Swenson, Dave Hanks, Selwyn Eddy III  
+_Camera Operators_: Jo Carson, Pat Sweeney,  Jim Aupperle, Ray Gilberti, Richard E. Lehmann, Eric Swenson, Dave Hanks, Selwyn Eddy III  
 _Stills Photography_: Richard Downing  
 _Visual Effects Supervisor_: Pete Kozachik  
 _Digital Effects Provided by_:  
@@ -127,5 +121,5 @@ USA 1993©
 
 76 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTAzMDUwMl19
+eyJoaXN0b3J5IjpbLTE5NjUwMDQxNzNdfQ==
 -->
