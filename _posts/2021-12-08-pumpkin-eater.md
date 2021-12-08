@@ -17,7 +17,74 @@ Penelope Mortimer’s novel, which unfolds as a series of imaginary missives fro
 The ending, where Jo is woken by the voices of her husband and children advancing on the old windmill she has retreated to, is moving not because it is a ‘happy end’ but because it embodies a matter-of-factness about life going on, that losses and compromise and betrayals are something one has to live with.<br>
 
 **Extracted from _Sixties British Cinema_ by Robert Murphy (BFI, 1992)  
-Reproduced by kind permission of Bloomsbury Publishing. ©Robert Murphy**
+Reproduced by kind permission of Bloomsbury Publishing. ©Robert Murphy**<br>
+
+
+
+**THE PUMPKIN EATER**<br>
+_Director_: Jack Clayton  
+_Production Company_: Romulus Films  
+_Producer_: James Woolf  
+_Associate Producer_: James Ware  
+_Production Manager_: Charles Blair  
+_Assistant Director_: Claude Watson  
+_Continuity_: Pamela Davies  
+_Casting_: Jenia Reissar  
+_Script Editor_: Jeanie Sims  
+_Screenplay_: Harold Pinter  
+_From the novel by_: Penelope Mortimer  
+_Director of Photography_: Oswald Morris  
+_Camera Operator_: Brian West  
+_Supervising Floor Electrician_: Maurice Gillett  
+_Camera Grip_: Ray Jones  
+_Editor_: James Clark  
+_Art Director_: Edward Marshall  
+_Art Department Liaison_: David Ffolkes  
+_Set Dresser_: Peter James  
+_Costume Designer_: Motley  
+_Miss Bancroft’s Furs by_: Deanfields  
+_Make-up Supervisor_: George Frost  
+_Hairdresser_: Gordon Bond  
+_Music_: Georges Delerue  
+_Sound Recording_: Peter Handford, John Aldred  
+_Boom Operator_: Ken Ritchie  
+_Dubbing Editor_: Peter Musgrave  
+_Trained Animals_: John Holmes  
+_Studio_: Shepperton Studios<br>
+
+**Cast**<br>
+Anne Bancroft  _(Jo)_  
+Peter Finch  _(Jake)_  
+James Mason  _(Bob Conway)_  
+Janine Gray  _(Beth Conway)_  
+Cedric Hardwicke  _(Mr James, Jo’s father)_  
+Rosalind Atkinson  _(Mrs James, Jo’s mother)_  
+Alan Webb  _(Mr Armitage, Jake’s father)_  
+Richard Johnson  _(Giles)_  
+Maggie Smith  _(Philpot)_  
+Eric Porter  _(the psychiatrist)_  
+Cyril Luckham  _(the doctor)_  
+Anthony Nicholls  _(the surgeon)_  
+John Franklin Robbins  _(the parson)_  
+John Junkin  _(the undertaker)_  
+Yootha Joyce  _(woman in hairdresser’s)_  
+Lesley Nunnerley  _(the zoo waitress)_  
+Gerald Sim  _(man at party)_  
+Frank Singuineau  _(King of Israel)_  
+Faith Kent  _(the nanny)_<br>
+
+_the children_
+Gregory Phillips, Rupert Osborn  _(Pete)_  
+Michael Ridgeway, Martin Norton  _(Jack)_  
+Frances White, Kate Nicholls  _(Dinah)_  
+Fergus McClelland, Christopher Ellis  _(Fergus)_  
+Elizabeth Dear, Sarah Nicholls  _(Elizabeth)_  
+Sharon Maxwell, Mimosa Annis  _(Sharon)_  
+Kash Dewar  _(Mark)_  
+Mark Crader  _(youngest child)_<br>
+
+UK 1964<br>
+112 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTE5MDQ1Nl19
+eyJoaXN0b3J5IjpbMTQzMjM0MzQ2M119
 -->
