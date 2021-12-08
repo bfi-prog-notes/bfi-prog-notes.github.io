@@ -16,20 +16,14 @@ The actors play everything with absolute authenticity. Barantini was an actor fo
 
 The foul-mouthed and red-faced chef barking at his staff is a cliché we are all too familiar with, and Andy explodes with anger on multiple occasions during the film, often having to apologise to the target of his rage shortly afterwards, but Graham ensures these rapid emotional gear-changes always feel organic and rooted in his own internal pain and frustration. The outstanding Vinette Robinson matches Graham as the level-headed sous-chef whose loyalty to Andy has been stretched to the limit, and Alice Feetham impresses as the restaurant manager who is out of her depth, but it doesn’t seem entirely fair to single out individuals from such a remarkable ensemble piece. _Boiling Point_ is a virtuoso filmmaking feat, and one that could only have been achieved through an extraordinary team effort on both sides of the camera.  
 **Philip Concannon, _Sight and Sound_, bfi.org.uk/sight-and-sound, 11 October 2021**
+<br><br>
 
-<![endif]-->
-
-**BOILING POINT**
-
+**BOILING POINT**  
 _Directed by_: Philip Barantini  
 ©: Ascendant Films Ltd  
-_Production Companies_: Ascendant Films,  
-Burton Fox Films  
-_In association with_: Matriarch Productions,  
-White Hot Productions, Three Little Birds,  
-Alpine Films, Bromantics, Insight Media Fund, Urban Way, The Electric Shadow Company  
-_Executive Producers_: Stephen Graham,  
-Hannah Walters, Ian Kirk, Sara Sehdev, Ming Zhu, Michael Gilmore, Philip Barantini, Ray Panthaki, Bob Clarke, Gareth Jones, John Jencks, Jay Taylor, Angus Henderson, Charlotte Henderson,  
+_Production Companies_: Ascendant Films,  Burton Fox Films  
+_In association with_: Matriarch Productions,  White Hot Productions, Three Little Birds,  Alpine Films, Bromantics, Insight Media Fund, Urban Way, The Electric Shadow Company  
+_Executive Producers_: Stephen Graham,  Hannah Walters, Ian Kirk, Sara Sehdev, Ming Zhu, Michael Gilmore, Philip Barantini, Ray Panthaki, Bob Clarke, Gareth Jones, John Jencks, Jay Taylor, Angus Henderson, Charlotte Henderson,  
 William Henderson, Paul Mellor, Peter Maddock, Samantha Warham, Ward Trowman, Anthony Jabre, Oscar Veronese, Adrian Foulger, Wei Xu  
 _Produced by_: Bart Ruspoli, Hester Ruoff  
 _Co-producer_: Stefan D’Bart  
@@ -59,18 +53,15 @@ _Construction_: Bill Milner, Ibby Injoya
 _Costume Designer_: Karen Smyth  
 _Costume Supervisor_: Nick Flynn  
 _Hair and Make-up Designer_: Julia S. Merino  
-_Hair & Make-up Artists_: Sofi Keenan,  
-Rebecca Wheeler  
+_Hair & Make-up Artists_: Sofi Keenan,  Rebecca Wheeler  
 _Titles_: Alex Fountain  
 _Colourist_: Tom Alexander  
-_Original Music Composed by_: David Ridley,  
-Aaron May  
+_Original Music Composed by_: David Ridley,  Aaron May  
 _Sound Designer_: Blair Jollands  
 _Sound Recordist_: Nick Olorenshaw  
 _Production Mixers_: Kiff McManus, Rob Entwistle  
 _Re-recording Mixer_: James Drake  
-_Supervising Sound Editors_: James Drake,  
-James Drake  
+_Supervising Sound Editors_: James Drake,  James Drake  
 _Dialogue Editor_: Oscar Bloomfield-Crowe  
 _Sound Effects Editor_: Vicente Villaescusa  
 _Foley Artist_: Javi Delgado  
@@ -78,8 +69,7 @@ _Foley Recordist_: Amaya Soler
 _Stunt Co-ordinator_: Eddie Lee  
 _Digital Intermediate Technician_: Shahidul Khan
 
-_Cast:_
-
+**Cast**  
 Stephen Graham _(Andy Jones)_  
 Vinette Robinson _(Carly)_  
 Alice Feetham _(Beth)_  
@@ -118,13 +108,11 @@ George Hawkins _(Sean)_
 John McHale _(Owen)_  
 Caroline Garnell _(Gloria)_
 
-UK/Australia 2020©
-
+UK/Australia 2020©  
 95 mins
 
-<![endif]-->
-
 Courtesy of Vertigo Releasing
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTg1NjIzOF19
+eyJoaXN0b3J5IjpbLTE0NDkzMzM0NzZdfQ==
 -->
