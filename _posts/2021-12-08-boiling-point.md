@@ -1,7 +1,18 @@
+---
+layout: post
+title: Boiling Point
+published: true
+date: 2021-12-08
+readtime: true
+categories: ['PREVIEW']
+tags: [Drama]
+metadata: 'UK/Australia 2020, 95 mins<br> Director: Philip Barantini'
+pdf: '2021-12-08-boiling-point.pdf'
+---
 
 _+ Q&A with director Philip Barantini and actors Ray Panthaki, Lauryn Ajufo and Alice Feetham_
 
-Actor-turned-director Philip Barantini follows his award winning short of the same name and feature debut _Villain_ (2020) with this breathlessly kinetic, formally dazzling and ultimately moving single-take thriller set in an elite London restaurant. We follow Andy, an emotionally damaged and drug addicted chef, played by an electrifying Stephen Graham, across one crazily busy night in his top London restaurant. He has to deal with acrimonious staff, difficult customers, an old adversary and the pressures of keeping a frenetic kitchen and busy restaurant floor going. A smart character study, a realistic slice of life and a vivid window into a highly pressurised and strange working world, Barantini’s film makes superb use of its formal conceit, an excellent ensemble cast and terrific central performance to deliver something genuinely nerve-jangling and exciting.  
+Actor-turned-director Philip Barantini follows his award winning short of the same name and feature debut _Villain_ (2020) with this breathlessly kinetic, formally dazzling and ultimately moving single-take thriller set in an elite London restaurant. We follow Andy, an emotionally damaged and drug addicted chef, played by an electrifying Stephen Graham, across one crazily busy night in his top London restaurant. He has to deal with acrimonious staff, difficult customers, an old adversary and the pressures of keeping a frenetic kitchen and busy restaurant floor going. A smart character study, a realistic slice of life and a vivid window into a highly pressurised and strange working world, Barantini’s film makes superb use of its formal conceit, an excellent ensemble cast and terrific central performance to deliver something genuinely nerve-jangling and exciting.   
 **Paul Ridd, BFI London Film Festival 2021**
 
 Expanding on the BIFA-nominated short film of the same name that he made in 2019, Philip Barantini’s exhilarating _Boiling Point_ takes us behind the scenes at a busy east London restaurant in the run-up to Christmas, on a night when seemingly everything is going wrong for head chef Andy Jones (Stephen Graham). When the film opens on Andy he is already stressed and running late, and when he arrives at Jones & Sons in Dalston, the news that a visiting hygiene inspector has downgraded his restaurant from a five-star rating to a three (largely as a result of Andy’s failure to maintain proper paperwork) sets the tone for the evening. Tensions in the kitchen continue to rise when it is revealed that Andy has also forgotten to make a substantial meat order, and by the time celebrity chef and former colleague Alastair Skye (Jason Flemyng) has turned up for dinner with a notorious food critic (Lourdes Faberes) on his arm, we can see what the film’s title is getting at.
@@ -113,6 +124,37 @@ UK/Australia 2020©
 
 Courtesy of Vertigo Releasing
 <br><br>
+
+**IN PERSON & PREVIEWS**<br>
+**TV Preview: Ghosts Christmas Special + Q&A with actors Simon Farnaby, Martha Howe-Douglas, Jim Howick, Lolly Adefope and Kiell Smith-Bynoe**<br>
+Thu 9 Dec 18:10<br>
+**tick, tick… BOOM! + pre-recorded Q&A with director Lin-Manuel Miranda, producer Julie Yoh, executive producer Julie Larson, writer Steven Levenson and actors Andrew Garfield, Vanessa Hudgens, Alexandra Shipp, Robin de Jesus and Judith Light**<br>
+Thu 9 Dec 20:30<br>
+**Patti Boulaye**<br>
+Sun 12 Dec 15:30<br>
+**Woman with a Movie Camera: Bridget Jones’s Diary at 20 + Q&A with director Sharon Maguire**<br>
+Thu 16 Dec 18:00<br>
+**Preview: Wheel of Fortune and Fantasy (Guzen to sozo)**<br>
+Wed 29 Dec 18:00<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0NDkzMzM0NzZdfQ==
 -->
