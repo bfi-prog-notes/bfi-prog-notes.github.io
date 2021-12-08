@@ -11,14 +11,10 @@ Shinoda’s achievement, though, is less psychological than cultural – the fil
 As the movie rolls inexorably towards its date with hopelessness and death, which is another mob hit performed in a crowded room with a huge knife and scored to an opera aria (the composition of this scene, Chuck Stephens maintains in his essay, explicitly recalls the 1960 assassination of socialist politician Asanuma Inejiro, caught on television during a rally), _Pale Flower_ becomes a film that crystallises a generational moment, without excess or irony.<br>
 **Michael Atkinson, _Sight and Sound_, July 2011**<br>
 
-<![endif]-->
 
-**PALE FLOWER (KAWAITA HANA)**
-
+**PALE FLOWER (KAWAITA HANA)**<br>
 _Director:_ Masahiro Shinoda  
-_Production Companies:_ Ninjin Club,
-
-Shochiku Co. Ltd.  
+_Production Companies:_ Ninjin Club, Shochiku Co. Ltd.  
 _Producers:_ Masao Shirai, Shigeru Wakatsuki  
 _Screenplay:_ Ataru Baba, Masahiro Shinoda  
 _Based on the short story by:_ Shintaro Ishihara  
@@ -27,7 +23,6 @@ _Art Director:_ Jusho Toda
 _Music:_ Toru Takemitsu  
 
 **Cast**<br>
-
 Ryo Ikebe _(Muraki, the yakuza)_  
 Mariko Kaga _(the girl)_  
 Takashi Fujiki _(the killer)_  
@@ -42,5 +37,5 @@ Muga Takewaki
 Japan 1964<br>
 96 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDk4MDY5NzRdfQ==
+eyJoaXN0b3J5IjpbMTE1OTEzNjgzOV19
 -->
