@@ -6,11 +6,11 @@ _The Pumpkin Eater_ takes its title from the nursery rhyme: ‘Peter, Peter, pum
 One could read the film as a proto-feminist protest against women’s second-class status and limited opportunities, no matter which class they belong to. Certainly, Penelope Mortimer’s original novel is animated by a sense of frustration and anger at patriarchal values: ‘A womb isn’t all that important. It’s only the seat of life... At school the word “womb” used to make them snigger. Women aren’t important.’ However, Harold Pinter’s adaptation has the effect of making the film less about Jo (the novel had been written in the first person from her point of view) and more about the relationship between Jo and her husband Jake: it offers a complete portrait of a marriage from first meeting and initial romantic idyll through betrayals and bitter disputes to a tentative reconciliation between the estranged couple. As the director Jack Clayton put it, the film investigates ‘the infinitely simple idea of the difficulties in any married relationship while at the same time showing the tremendously strong relationship that grows almost inevitably.’
 
 The film’s treatment of angst among the sophisticated metropolitan bourgeoisie lead to a comparison with the work of the director Michelangelo Antonioni, chronicler of Italy’s idle (and anxious) rich. Indeed, one review of  _The Pumpkin Eater_ was entitled (sarcastically) ‘Keeping Up with the Antonionis’, unfairly implying that the British film was nothing but a superficial copy of the European art film, lacking its profundity. Looked at today,  _The Pumpkin Eater_’s achievement can be seen more clearly: a remarkably honest film about love, sex, marriage, infidelity, reproduction and parenthood made by a director, writer and group of actors all at the height of their powers.<br>
-**Melanie Williams, BFI Screenonline, screenonline.org.uk**
+**Melanie Williams, BFI Screenonline, screenonline.org.uk**<br>
 
 Jack Clayton’s _The Pumpkin Eater_, a film about the mid-life crisis of a middle class woman, received lengthy and in several quarters sympathetic critical treatment. But for _Sight and Sound_’s editor, Penelope Houston, it was altogether too modish: ‘Clayton inaugurated the whole British back-to-the-provinces movement with _Room at the Top_, and in _The Pumpkin Eater_ I suspect that he is showing the same freakish instinct for the mood of the times. Probably with no more deliberate intention on his part, he would seem here to be ratifying the British cinema’s entente with Europe.’
 
-Houston’s accusation that Clayton was unduly influenced by Antonioni and that _The Pumpkin Eater_ is a shallow copy of a European art film now seems misplaced. Despite the casting of Anne Bancroft in the central role,  _The Pumpkin Eater_ looks quintessentially English and Clayton has proved to be the least fashionable of directors. He refused to repeat the success of _Room at_ _the Top_ with another Kitchen Sink subject and instead chose to make_The Innocents_ for Twentieth Century-Fox. _The Pumpkin Eater_, though it reunited him with Romulus, turns its back completely on poverty and the working class. Its heroine is troubled by the malaise of affluence which causes her children to be tidied away in nurseries and boarding schools, and drives her to a nervous breakdown in Harrods.
+Houston’s accusation that Clayton was unduly influenced by Antonioni and that _The Pumpkin Eater_ is a shallow copy of a European art film now seems misplaced. Despite the casting of Anne Bancroft in the central role,  _The Pumpkin Eater_ looks quintessentially English and Clayton has proved to be the least fashionable of directors. He refused to repeat the success of _Room at_ _the Top_ with another Kitchen Sink subject and instead chose to make _The Innocents_ for Twentieth Century-Fox. _The Pumpkin Eater_, though it reunited him with Romulus, turns its back completely on poverty and the working class. Its heroine is troubled by the malaise of affluence which causes her children to be tidied away in nurseries and boarding schools, and drives her to a nervous breakdown in Harrods.
 
 Penelope Mortimer’s novel, which unfolds as a series of imaginary missives from Jo to a school friend, is at times trite and one-dimensional. Jo’s parents, friends, even her husband, are seen only through her eyes and are hardly more than ciphers. In the film Maggie Smith, Yootha Joyce, Richard Johnson, Cedric Hardwicke, Rosalind Atkinson, and Peter Finch give them solid substance and make Jo’s crisis more real and less neurotic. And Harold Pinter’s script retains the content of the novel but gives it a spiky and disturbing edge. Two incidents, the plea for help from a desperately unhappy middle-aged woman who has seen Jo’s photograph in a glossy magazine and assumes her life must be perfect; and Jo’s visit from an itinerant prophet, ‘the New King of Israel’, which in the book are little more than whimsical details, are used by Pinter to capture that opening out on to a world of pain and sorrow which occurs when one is jolted out of the rut of routine existence. Clayton is able to reconstruct Jo’s life from the empty shell of her dreams. Her grief, her suffering, rather than her psychotherapy, cause her to heal herself.
 
@@ -73,7 +73,7 @@ Gerald Sim  _(man at party)_
 Frank Singuineau  _(King of Israel)_  
 Faith Kent  _(the nanny)_<br>
 
-_the children_
+_the children_<br>
 Gregory Phillips, Rupert Osborn  _(Pete)_  
 Michael Ridgeway, Martin Norton  _(Jack)_  
 Frances White, Kate Nicholls  _(Dinah)_  
@@ -86,5 +86,5 @@ Mark Crader  _(youngest child)_<br>
 UK 1964<br>
 112 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1Njk1NjY3XX0=
+eyJoaXN0b3J5IjpbNjIxODExODQ5XX0=
 -->
