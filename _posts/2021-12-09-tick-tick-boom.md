@@ -68,8 +68,7 @@ _Supervising Sound Editor_: Paul Hsu
 _Stunt Co-ordinator_: Scott Burik  
 _Unit Publicist_: Julie Kuehndorf
 
-_Cast:_
-
+**Cast**  
 Andrew Garfield _(Jonathan Larson, Jon)_  
 Alexandra Shipp _(Susan Wilson)_  
 Robin de Jesús _(Michael)_  
@@ -90,11 +89,11 @@ Kate Rockwell _(Lauren)_
 Aneesa Folds _(Danya)_  
 Joel Perez _(Lincoln)_
 
-USA 2021©
-
+USA 2021©  
 120 mins
 
 Courtesy of Netflix
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTU5NDUzOV19
+eyJoaXN0b3J5IjpbNjg5MTg3NDQzXX0=
 -->
