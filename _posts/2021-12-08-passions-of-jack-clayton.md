@@ -34,13 +34,7 @@ Wed 8 Dec 18:10<br>
 **The Pumpkin Eater**<br>
 Wed 8 Dec 20:40; Sat 18 Dec 12:50 (+ pre-recorded intro by critic Lucy Scholes); Tue 28 Dec 12:15; Thu 30 Dec 18:10<br>
 **The Lonely Passion of Judith Hearne**<br>
-Fri 10 Dec 20:30; Tue 21 Dec 14:20; Wed 29 Dec 17:50<br>
-**The Great Gatsby**<br>
-Sat 11 Dec 20:20; Mon 27 Dec 12:45<br>
-**Something Wicked This Way Comes**<br>
-Sun 12 Dec 18:30; Tue 21 Dec 20:40<br>
-**Memento Mori + The Bespoke Overcoat**<br>
-Sun 19 Dec 18:00<br>
+Fri 10 Dec 20:30; Tue 21 Dec 14:20; Wed 29 Dec 17:50<br>**The Great Gatsby**<br>Sat 11 Dec 20:20; Mon 27 Dec 12:45<br>**Something Wicked This Way Comes**<br>Sun 12 Dec 18:30; Tue 21 Dec 20:40<br>**Memento Mori + The Bespoke Overcoat**<br>Sun 19 Dec 18:00<br>
 <br>
 
 **BFI SOUTHBANK**  
@@ -59,3 +53,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5NTA0MDMyMTVdfQ==
+-->
