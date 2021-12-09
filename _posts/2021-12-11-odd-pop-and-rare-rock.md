@@ -25,10 +25,9 @@ Terry-Thomas)
 
 **Rock of Ages** (LWT series featuring pop artists in performance and in interview)
 
-The majority of clips come from ITV programmes and there are two reasons for this. Firstly the BBC pop and rock archives have been quite comprehensively plundered over the years whereas the ITV archives, split as they are between various ex-franchises, are harder to negotiate. Secondly the BFI is the official archivist for ITV and so holds a massive amount of ITV material from all  
-the regions.
+The majority of clips come from ITV programmes and there are two reasons for this. Firstly the BBC pop and rock archives have been quite comprehensively plundered over the years whereas the ITV archives, split as they are between various ex-franchises, are harder to negotiate. Secondly the BFI is the official archivist for ITV and so holds a massive amount of ITV material from all  the regions.
 
-Dick Fiddy, December 2021
+**Dick Fiddy, December 2021**
 <br><br>
 
 **THE PRECIOUS THINGS**<br>
@@ -42,5 +41,5 @@ Fri 17 Dec 18:10<br>
 Sat 18 Dec 18:20<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTI1OTA0MF19
+eyJoaXN0b3J5IjpbLTgwNDA1NTA5MF19
 -->
