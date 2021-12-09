@@ -1,4 +1,3 @@
-<![endif]-->
 
 Made with a cast of 35-year-old cowboys, soldiers or gangsters, _Battle Royale_ would be no more shocking than any other post-Peckinpah bloodbath, and many violent dystopian satires – from Peter Watkins’ _Punishment Park_ (1971) through _Turkey Shoot_ (1981) and _No Escape_ (1994) to _Series 7: The Contenders_ (2001) – have covered roughly the same ground. In this case, however, the kill-or-be-killed situation is Battle Royale, a game backed by a Japanese government of the near future, in which a group of schoolchildren are left on an island and given three days to try to kill each other off.
 
@@ -20,9 +19,58 @@ The film keeps count of who has died, with print-outs on screen and regular anno
 
 Perhaps because it’s impossible to rationalise the situation as credible, and perhaps because taking it deadly seriously would make the film unwatchably grim, veteran director Kenji Fukasaku mines a seam of very black humour, with the wry, impassive, hard-to-fathom Kitano acting as if this were a normal school activity, as classical music is played over the Tannoy and updates on the classes’ progress are read out.
 
-As the scrambling of character name and actor suggests, Kitano is our anchor in this picture, a familiar presence with an inimitable stance, and his poised, perfect death scene tells us that we must take _Battle Royale_ seriously but not literally.
+As the scrambling of character name and actor suggests, Kitano is our anchor in this picture, a familiar presence with an inimitable stance, and his poised, perfect death scene tells us that we must take _Battle Royale_ seriously but not literally.<br>
+**Kim Newman, _Sight and Sound_, September 2001**<br>
 
-Kim Newman, _Sight and Sound_, September 2001
+**Battle Royale**
+_Director_: Kenji Fukasaku  
+_Production Company_:
+
+Battle Royal Production Committee  
+_Presented by_: Toei  
+_Executive Producer_: Ikuro Takano  
+_Producers_: Masao Sato, Masumi Okada,
+
+Teruo Kamaya, Tetsu Kayama  
+_Co-producers_: Kimio Kataoka, Chie Kobayashi,
+
+Kenta Fukasaku, Hisao Nabeshima  
+_Assistant Director_: Toru Harada  
+_Screenplay_: Kenta Fukasaku  
+_Based on the novel by_: Koshun Takami  
+_Director of Photography_: Katsumi Yanagijima  
+_Lighting_: Akira Ono  
+_Editor_: Hirohide Abe  
+_Production Designer_: Kyoko Heya  
+_Original Painting_: Takeshi Kitano  
+_Music_: Masamichi Amano  
+_Sound_: Kunio Ando<br>
+
+**Cast**
+‘Beat’ Takeshi _(Kitano)_  
+Taro Yamamoto _(Shogo Kawada, male student 5)_  
+Masanobu Ando _(Kazuo Kiriyama, male student 6)_  
+Sosuke Takaoka _(Hiroki Sugimura, male student 11)_  
+Tatsuya Fujiwara _(Shuya Nanahara, male student 15)_  
+Hirohito Honda _(Niida Yoriyuki, male student 16)_  
+Eri Ishikawa _(Yukie Utsumi, female student 2)_  
+Sayaka Ikeda _(Megumi Eto, female student 3)_  
+Tomomi Shimaki _(Sakura Ogawa, female student 4)_  
+Tamaki Mihara _(Izumi Kanai, female student 5)_  
+Yukari Kanazawa _(Yukiko Kitano, female student 6)_  
+Yasuyo Mimura _(Kayoko Kotodan, female student 8)_  
+Hitomi Hinata _(Yuko Sakaki, female student 9)_  
+Ko Shibasaki _(Mitsuko Soma, female student 11)_  
+Satomi Ishii _(Haruka Yazawa, female student 12)_  
+Chiaki Kuriyama _(Takako Chigusa, female student 13)_  
+Haruka Nomiyama _(Mayumi Tendo, female student 14)_  
+Aki Maeda _(Noriko Nakagawa, female student 15)_  
+Satomi Hanamura _(Yuka Nakagawa, female student 16)_  
+Ryo Kamiya _(Satomi Noda, female student 17)_  
+Aki Inoue _(Fumiyo Fujiyoshi, female student 18)_
+
+Japan 2000<br>
+114 mins<br>
 
 
 
@@ -110,5 +158,5 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Njg0MzExNF19
+eyJoaXN0b3J5IjpbMjk4Nzk0NTA5XX0=
 -->
