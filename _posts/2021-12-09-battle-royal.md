@@ -1,3 +1,14 @@
+---
+layout: post
+title: Battle Royale
+published: true
+date: 2021-12-09
+readtime: true
+categories: ['JAPAN 2021 AT THE BFI IMAX']
+tags: [Action, Drama]
+metadata: 'Japan 2000, 114 mins<br> Director: Kenji Fukasaku'
+pdf: '2021-12-09-battle-royale.pdf'
+---
 
 Made with a cast of 35-year-old cowboys, soldiers or gangsters, _Battle Royale_ would be no more shocking than any other post-Peckinpah bloodbath, and many violent dystopian satires – from Peter Watkins’ _Punishment Park_ (1971) through _Turkey Shoot_ (1981) and _No Escape_ (1994) to _Series 7: The Contenders_ (2001) – have covered roughly the same ground. In this case, however, the kill-or-be-killed situation is Battle Royale, a game backed by a Japanese government of the near future, in which a group of schoolchildren are left on an island and given three days to try to kill each other off.
 
