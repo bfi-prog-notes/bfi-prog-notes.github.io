@@ -22,19 +22,13 @@ Perhaps because it’s impossible to rationalise the situation as credible, and 
 As the scrambling of character name and actor suggests, Kitano is our anchor in this picture, a familiar presence with an inimitable stance, and his poised, perfect death scene tells us that we must take _Battle Royale_ seriously but not literally.<br>
 **Kim Newman, _Sight and Sound_, September 2001**<br>
 
-**Battle Royale**
+**BATTLE ROYALE**<br>
 _Director_: Kenji Fukasaku  
-_Production Company_:
-
-Battle Royal Production Committee  
+_Production Company_: Battle Royal Production Committee  
 _Presented by_: Toei  
 _Executive Producer_: Ikuro Takano  
-_Producers_: Masao Sato, Masumi Okada,
-
-Teruo Kamaya, Tetsu Kayama  
-_Co-producers_: Kimio Kataoka, Chie Kobayashi,
-
-Kenta Fukasaku, Hisao Nabeshima  
+_Producers_: Masao Sato, Masumi Okada, Teruo Kamaya, Tetsu Kayama  
+_Co-producers_: Kimio Kataoka, Chie Kobayashi, Kenta Fukasaku, Hisao Nabeshima  
 _Assistant Director_: Toru Harada  
 _Screenplay_: Kenta Fukasaku  
 _Based on the novel by_: Koshun Takami  
@@ -46,7 +40,7 @@ _Original Painting_: Takeshi Kitano
 _Music_: Masamichi Amano  
 _Sound_: Kunio Ando<br>
 
-**Cast**
+**Cast**<br>
 ‘Beat’ Takeshi _(Kitano)_  
 Taro Yamamoto _(Shogo Kawada, male student 5)_  
 Masanobu Ando _(Kazuo Kiriyama, male student 6)_  
@@ -71,8 +65,7 @@ Aki Inoue _(Fumiyo Fujiyoshi, female student 18)_
 
 Japan 2000<br>
 114 mins<br>
-
-
+<br>
 
 **JAPAN 2021**<br>
 **100 YEARS OF JAPANESE CINEMA**<br>
@@ -158,5 +151,5 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4Nzk0NTA5XX0=
+eyJoaXN0b3J5IjpbLTg4NTgyNDcyNV19
 -->
