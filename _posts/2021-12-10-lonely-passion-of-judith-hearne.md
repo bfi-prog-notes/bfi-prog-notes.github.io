@@ -1,0 +1,20 @@
+
+**SPOILER WARNING** The following notes give away some of the plot.
+
+Jack Clayton’s first British film in twenty years, and his last cinema feature, was adapted from Brian Moore’s 1956 novel, its action relocated from Moore’s native Belfast to Dublin. This process simplified the critique of religious repression and removed all mention of the sectarian divide.
+
+Instead, the film focuses even more on the central figure of Judith Hearne, a lonely spinster of indeterminate middle age who has spent her youth caring for a cantankerous aunt (Wendy Hiller) and scrapes a living giving piano lessons to a dwindling band of pupils. Though she maintains a façade of respectable propriety, this is mistaken for concealed wealth. When her landlady’s brother James Madden (Bob Hoskins) shows an interest in her, it’s as a potential business partner, not the great romance she’s been craving for decades. This misunderstanding, occurring on both sides (Miss Hearne thinks that the Dublin-born Madden’s adopted New York accent and confident bearing make him a successful embodiment of the American Dream), sets the central story in motion and all but guarantees that it will end badly.
+
+In the title role, Maggie Smith gives a screen acting masterclass in what was widely acclaimed as her most memorable performance since her Oscar-winning turn in _The Prime of Miss Jean Brodie_ (1969). The merest twitch of a facial muscle or near-imperceptible tonal shift in her voice conveys an entire lexicon of emotional information, her delicate bird-like frame suggesting a life of perpetual disappointment long before we find out the truth. The audience is informed, as she is not, that the landlady’s family is riddled with hypocrisy: in one repellent scene, Madden, after having chastised his nephew Bernard for sleeping with the sixteen-year-old maid, decides to take advantage of her himself.
+
+But Clayton also lays bare the wider hypocrisies of 1950s Dublin. The Catholic Church professes to help the downtrodden, yet prefers simplistic chastisement to profound soul-searching: Miss Hearne is devout, yet gets nothing in return besides empty promises of a better time in the hereafter. Charity is given reluctantly – Miss Hearne’s visits to the O’Neill family are a convenient social arrangement that’s gone on so long that no-one can quite remember the original point. This is the story of Judith Hearne’s life, and while the bittersweet ending gives her back some measure of dignity, we are under no illusions that she has much more to look forward to. <br>
+**Michael Brooke, BFI Screenonline, screenonline.org.uk**<br>
+
+**A contemporary review**<br>
+Brian Moore published _The Lonely Passion of Judith Hearne_, his first, award-winning novel, in 1955, 14 years before the start of the present Troubles. This adaptation has, on balance wisely, transferred the action from Belfast to Dublin: somehow, one cannot now comfortably imagine Miss Hearne going about peaceful Belfast streets calling at the homes of respectable, middle-class pupils. In Dublin – or at least in cinema Dublin – things have not really changed. This is an old-fashioned, crafted picture on those great Irish themes: drunkenness, the Church, pious sanctimony and willed, tragic self-destruction. It brings to mind, curiously, another all-star ‘literary’ adaptation, John Ford and Jack Cardiff’s _Young Cassidy_, in which, it will be remembered, the shapely calf of young Maggie Smith was admired by Rod Taylor’s burly Sean O’Casey.
+
+In both films, the players outshine the material, though in _Judith Hearne_ they are not playing star personages. Maggie Smith, from her shy appearance as the girl O’Casey left behind in his flight from the suffocation and hypocrisy of Dublin, has developed into a truly durable asset: her wrists break as effectively for tragedy as they do for comedy. As Brian Moore’s racked heroine (the first of several), she gives a performance of wide-eyed, twisted pain; she is particularly fine, as usual, when expressing resolute propriety under fire.<br>
+**John Pym, _Monthly Film Bulletin_, May 1988**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg3MzAxMTY0XX0=
+-->
