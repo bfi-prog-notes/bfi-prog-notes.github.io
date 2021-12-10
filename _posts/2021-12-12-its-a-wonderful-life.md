@@ -29,91 +29,81 @@ Is it stretching the conceit to suggest that these myths feature the pharmaceuti
 
 One sees the post-war myth of _It’s a Wonderful Life_ and smiles warily at the notion that all one needs is a kindly banker. One sees the visions of ltalian neorealist Vittorio De Sica and perhaps wonders what one can do to strengthen one’s Union. In De Sica’s films the poor are not the ‘other’, as they are in _It’s a Wonderful Life_; they are people like ourselves, but without money.
 
-Bob Cratchit is happy without money and it seems that George Bailey is happy without money, but the punchline of the film (disregarding the short epilogue, in which ‘an angel gets his wings’) is George’s brother’s toast. Upon the restoration of order, George is saved, by the intervention of a rich friend. He is apprised of the community’s love for him and his brother Harry toasts him: ‘To my brother George, the Richest Man in town.’ We are, of course, to understand the toast as metaphor, but we should perhaps note our unremarked acceptance of the metaphor of happiness as wealth.
+Bob Cratchit is happy without money and it seems that George Bailey is happy without money, but the punchline of the film (disregarding the short epilogue, in which ‘an angel gets his wings’) is George’s brother’s toast. Upon the restoration of order, George is saved, by the intervention of a rich friend. He is apprised of the community’s love for him and his brother Harry toasts him: ‘To my brother George, the Richest Man in town.’ We are, of course, to understand the toast as metaphor, but we should perhaps note our unremarked acceptance of the metaphor of happiness as wealth.  
+**David Mamet, _Sight and Sound_, January 2002**
+<br><br>
 
-David Mamet, _Sight and Sound_, January 2002
-
-<![endif]-->
-
-**It’s a Wonderful Life**
-
-_Directed by:_ Frank Capra
-
-_©/Presented by:_ Liberty Films
-
-_Produced by:_ Frank Capra
-
-_Assistant Director:_ Arthur S. Black
-
-_Screen Play by:_ Frances Goodrich, Albert Hackett, Frank Capra
-
-_Additional Scenes by:_ Jo Swerling
-
-_Based on the story ‘The Greatest Gift’ by:_
-
-Philip Van Doren Stern
+**IT'S A WONDERFUL LIFE**<br>
+_Directed by:_ Frank Capra<br>
+_©/Presented by:_ Liberty Films<br>
+_Produced by:_ Frank Capra<br>
+_Assistant Director:_ Arthur S. Black<br>
+_Screen Play by:_ Frances Goodrich, Albert Hackett, Frank Capra<br>
+_Additional Scenes by:_ Jo Swerling<br>
+_Based on the story ‘The Greatest Gift’ by:_ Philip Van Doren Stern<br>
 
 _Directors of Photography:_ Joseph Walker,
 
-Joseph Biroc
+Joseph Biroc<br>
 
-_Special Photographic Effects:_ Russell A. Cully
+_Special Photographic Effects:_ Russell A. Cully<br>
 
-_Film Editor:_ William Hornbeck
+_Film Editor:_ William Hornbeck<br>
 
-_Art Director:_ Jack Okey
+_Art Director:_ Jack Okey<br>
 
-_Set Decorations:_ Emile Kuri
+_Set Decorations:_ Emile Kuri<br>
 
-_Costumes by:_ Edward Stevenson
+_Costumes by:_ Edward Stevenson<br>
 
-_Make-up Supervision:_ Gordon Bau
+_Make-up Supervision:_ Gordon Bau<br>
 
 _Musical Score Written and Directed by:_
 
-Dimitri Tiomkin
+Dimitri Tiomkin<br>
 
-_Sound by:_ Richard Van Hessen, Clem Portman
+_Sound by:_ Richard Van Hessen, Clem Portman<br>
 
-_uncredited_
+_uncredited_<br>
 
-_Contributor to Screenplay:_ Michael Wilson
+_Contributor to Screenplay:_ Michael Wilson<br>
 
-_Director of Photography:_ Victor Milner
+_Director of Photography:_ Victor Milner<br>
 
-_Cast:_
+_Cast:_<br>
 
-James Stewart _(George Bailey)_
+James Stewart _(George Bailey)_<br>
 
-Donna Reed _(Mary Hatch)_
+Donna Reed _(Mary Hatch)_<br>
 
-Lionel Barrymore _(Henry F. Potter)_
+Lionel Barrymore _(Henry F. Potter)_<br>
 
-Thomas Mitchell _(Uncle Billy)_
+Thomas Mitchell _(Uncle Billy)_<br>
 
-Henry Travers _(Clarence)_
+Henry Travers _(Clarence)_<br>
 
-Beulah Bondi _(Mrs Bailey)_
+Beulah Bondi _(Mrs Bailey)_<br>
 
-Frank Faylen _(Ernie Bishop)_
+Frank Faylen _(Ernie Bishop)_<br>
 
-Ward Bond _(Bert)_
+Ward Bond _(Bert)_<br>
 
-Gloria Grahame _(Violet Bick)_
+Gloria Grahame _(Violet Bick)_<br>
 
-H.B. Warner _(Mr Gower)_
+H.B. Warner _(Mr Gower)_<br>
 
-Frank Albertson _(Sam Wainwright)_
+Frank Albertson _(Sam Wainwright)_<br>
 
-Todd Karns _(Harry Bailey)_
+Todd Karns _(Harry Bailey)_<br>
 
-Samuel S. Hinds _(Pa Peter Bailey)_
+Samuel S. Hinds _(Pa Peter Bailey)_<br>
 
-Mary Treen _(Cousin Tilly)_
+Mary Treen _(Cousin Tilly)_<br>
 
-USA 1947©
+USA 1947©<br>
 
-129 mins
+129 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTYyMjk5MTBdfQ==
+eyJoaXN0b3J5IjpbMTI4NDAzNzY2N119
 -->
