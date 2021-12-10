@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Great Gatsby
+published: true
+date: 2021-12-11
+readtime: true
+categories: ['A CLASS OF HIS OWN<br>THE FILMS OF JACK CLAYTON']
+tags: [Drama]
+metadata: 'UK 1974, 144 mins<br> Director: Jack Clayton'
+pdf: '2021-12-11-great-gatsby.pdf'
+---
 
 Jack Clayton active involvement with _The Great Gatsby_ began in the autumn of 1971, though his interest goes a long way further back. ‘I first read the book when I was 15, and I read it at about the same time as another American novel that I was also insane about – _They Shoot Horses, Don’t They?._ I always wanted to do them both as pictures. I nearly did do _They Shoot Horses_, and then actually did this one.’ He fields diplomatically any question about letting an English director loose on one of the quintessential expressions of American temperament. Didn’t any Americans – including perhaps his own scriptwriter, Francis Ford Coppola regret that they had let the big one get away? ‘I wouldn’t feel qualified to do a story set in the Bronx, let’s say. But apart from the romantic side of the film, and Gatsby’s obsession (and I think I understand obsession quite well), it is a story about class. Which is something I love. Didn’t Marx say that there are differences between classes but basically very little difference between nationalities – between the English rich and the American rich’ Scott Fitzgerald of course said it too: the rich are different from us.
 
@@ -43,9 +53,9 @@ _Music Supervision/Additional Music_: Nelson Riddle
 _Choreography_: Tony Stevens  
 _Sound Recording_: Ken Barker  
 _Sound Re-recording_: Brian Simmons  
-_Sound Editor and Technical Consultant_:  Terry Rawlings<br>
+_Sound Editor and Technical Consultant_: Terry Rawlings<br>
 
-**Cast**
+**Cast**<br>
 Robert Redford _(Jay Gatsby)_  
 Mia Farrow _(Daisy Buchanan)_  
 Bruce Dern _(Tom Buchanan)_  
@@ -72,6 +82,42 @@ Sammy Smith _(comic)_<br>
 
 USA 1974<br>
 144 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjA4MjgyMl19
--->
+<br>
+
+**A CLASS OF HIS OWN: THE FILMS OF JACK CLAYTON**<br>
+**Room at the Top**<br>
+Thu 2 Dec 18:10 (+ intro by BFI Curator Josephine Botting); Sat 18 Dec 14:10; Wed 22 Dec 18:10; Wed 29 Dec 14:30<br>
+**The Innocents**<br>
+Sat 4 Dec 20:40; Thu 9 Dec 20:45; Mon 13 Dec 18:10; Thu 23 Dec 14:20; Mon 27 Dec 15:20; Thu 30 Dec 14:30<br>
+**Our Mother’s House**<br>
+Tue 7 Dec 20:40 (+ intro); Mon 20 Dec 18:15<br>
+**The Passions of Jack Clayton**<br>
+Wed 8 Dec 18:10<br>
+**The Pumpkin Eater**<br>
+Wed 8 Dec 20:40; Sat 18 Dec 12:50 (+ pre-recorded intro by critic Lucy Scholes); Tue 28 Dec 12:15; Thu 30 Dec 18:10<br>
+**The Lonely Passion of Judith Hearne**<br>
+Fri 10 Dec 20:30; Tue 21 Dec 14:20; Wed 29 Dec 17:50<br>
+**The Great Gatsby**<br>
+Sat 11 Dec 20:20; Mon 27 Dec 12:45<br>
+**Something Wicked This Way Comes**<br>
+Sun 12 Dec 18:30; Tue 21 Dec 20:40<br>
+**Memento Mori + The Bespoke Overcoat**<br>
+Sun 19 Dec 18:00<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
