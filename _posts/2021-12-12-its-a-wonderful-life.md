@@ -41,69 +41,39 @@ _Assistant Director:_ Arthur S. Black<br>
 _Screen Play by:_ Frances Goodrich, Albert Hackett, Frank Capra<br>
 _Additional Scenes by:_ Jo Swerling<br>
 _Based on the story ‘The Greatest Gift’ by:_ Philip Van Doren Stern<br>
-
-_Directors of Photography:_ Joseph Walker,
-
-Joseph Biroc<br>
-
+_Directors of Photography:_ Joseph Walker, Joseph Biroc<br>
 _Special Photographic Effects:_ Russell A. Cully<br>
-
 _Film Editor:_ William Hornbeck<br>
-
 _Art Director:_ Jack Okey<br>
-
 _Set Decorations:_ Emile Kuri<br>
-
 _Costumes by:_ Edward Stevenson<br>
-
 _Make-up Supervision:_ Gordon Bau<br>
-
-_Musical Score Written and Directed by:_
-
-Dimitri Tiomkin<br>
-
+_Musical Score Written and Directed by:_ Dimitri Tiomkin<br>
 _Sound by:_ Richard Van Hessen, Clem Portman<br>
 
 _uncredited_<br>
-
 _Contributor to Screenplay:_ Michael Wilson<br>
-
 _Director of Photography:_ Victor Milner<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 James Stewart _(George Bailey)_<br>
-
 Donna Reed _(Mary Hatch)_<br>
-
 Lionel Barrymore _(Henry F. Potter)_<br>
-
 Thomas Mitchell _(Uncle Billy)_<br>
-
 Henry Travers _(Clarence)_<br>
-
 Beulah Bondi _(Mrs Bailey)_<br>
-
 Frank Faylen _(Ernie Bishop)_<br>
-
 Ward Bond _(Bert)_<br>
-
 Gloria Grahame _(Violet Bick)_<br>
-
 H.B. Warner _(Mr Gower)_<br>
-
 Frank Albertson _(Sam Wainwright)_<br>
-
 Todd Karns _(Harry Bailey)_<br>
-
 Samuel S. Hinds _(Pa Peter Bailey)_<br>
-
 Mary Treen _(Cousin Tilly)_<br>
 
 USA 1947©<br>
-
 129 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDAzNzY2N119
+eyJoaXN0b3J5IjpbMjA5OTg3MDExMV19
 -->
