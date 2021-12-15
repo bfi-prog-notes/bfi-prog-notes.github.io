@@ -7,7 +7,7 @@ readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Drama]
 metadata: 'Australia/UK 2008, 97 mins<br> Director: Elissa Down'
-pdf: '2021-12-14-Black Balloon.pdf'
+pdf: '2021-12-14-black-balloon.pdf'
 ---
 Today’s screening will have a pre-recorded introduction by autistic actor Jules Robertson (_Holby Cit_ and star of new short film _Love_).<br>
 
