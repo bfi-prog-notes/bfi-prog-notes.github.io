@@ -1,4 +1,4 @@
-<![endif]-->
+
 
 ‘Excuse me, can you go back the same way?’ The taxi turns around. This is the first manoeuvre in a film whose English title anticipates its narrative twists. Except this isn’t the same way, this isn’t quite repetition. The film is slippery with such divergencies. Premiering in this year’s Berlinale Competition, Ryusuke Hamaguchi’s _Wheel of Fortune and Fantasy_ continues the director’s interest in doublings, coincidences and duplicity that has earned him comparisons with Rivette and Rohmer since his debut melodrama, _Passion_, in 2008.
 
@@ -10,9 +10,8 @@ Hamaguchi’s method of improvisatory workshopping (sometimes with non-professio
 
 Something like this happens in an extended scene where the student tries to trap her professor. She reads aloud from his recent novel (an explicit section, as awkwardly prosaic as Murakami’s sex writing). Her delivery is flat, her face unmoving. The professor’s scalp twitches – in discomfort? In arousal? Moving around these characters and their nervous dynamic, Hamaguchi’s cameras palpate precisely that weight and thickness he talks about. It is the weight of desire and discomfort. The professor inches towards the student, lowering himself as he nears her. To reach for…? The door. He pushes the door wide open now.
 
-What if things were different? Although this film’s charm is in its resolutely domestic, romantic subject matter, arriving on our (home) screens this year it inevitably presents an allegory for larger forms of speculation. When Hamaguchi zooms in on someone only to pan out again, restarting the scene and giving her a chance to do things over, it made me think. I watched _Wheel of Fortune and Fantasy_ and imagined what the past year might look like, if it too could start over.
-
-Becca Voelcker, _Sight and Sound_, bfi.org.uk/sight-and-sound, 5 March 2021
+What if things were different? Although this film’s charm is in its resolutely domestic, romantic subject matter, arriving on our (home) screens this year it inevitably presents an allegory for larger forms of speculation. When Hamaguchi zooms in on someone only to pan out again, restarting the scene and giving her a chance to do things over, it made me think. I watched _Wheel of Fortune and Fantasy_ and imagined what the past year might look like, if it too could start over.  
+**Becca Voelcker, _Sight and Sound_, bfi.org.uk/sight-and-sound, 5 March 2021**
 
 **Ryusuke Hamaguchi on ‘Wheel of Fortune and Fantasy’**
 
@@ -31,9 +30,9 @@ _Almost every film deals with time in some way, but here it seems an even more i
 
 As you saw, I have occasional long takes within the film. And the reason why long takes appear in my films is that these moments are when I feel that the acting is great, when I feel the actors are giving a great performance. The way we shot this film is, we shot from many different angles – and it’s kind of a stupid way to go about shooting, in that sense, but it actually leaves a lot of editing possibilities. When I do leave a long take it really is me deciding that I want to stay on this acting. I really hope that the audience, when they see a long take, can also feel that way.
 
-I think the idea of the passage of time is in relation to coincidence, which is a big theme in this film. And I believe that coincidences rarely happen; you can’t have too many coincidences happen at once. And that’s why, in the second story, you jump to five years ahead, because coincidences only happen sometimes. Since this film was about coincidences, yet these are short films, I had to think about how much time should pass in order to differentiate some of these coincidences.
-
-Production notes
+I think the idea of the passage of time is in relation to coincidence, which is a big theme in this film. And I believe that coincidences rarely happen; you can’t have too many coincidences happen at once. And that’s why, in the second story, you jump to five years ahead, because coincidences only happen sometimes. Since this film was about coincidences, yet these are short films, I had to think about how much time should pass in order to differentiate some of these coincidences.  
+**Production notes**
+<br><br>
 
 <![endif]-->
 
@@ -132,5 +131,5 @@ Sat 22 Jan 14:00
 
 Thu 27 Jan 19:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDg3ODM1N119
+eyJoaXN0b3J5IjpbMTAzNzI1NTY4Ml19
 -->
