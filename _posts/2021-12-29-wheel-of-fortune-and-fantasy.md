@@ -34,59 +34,36 @@ I think the idea of the passage of time is in relation to coincidence, which is 
 **Production notes**
 <br><br>
 
-<![endif]-->
-
-**WHEEL OF FORTUNE AND FANTASY (GUZEN TO SOZO)**
-
+**WHEEL OF FORTUNE AND FANTASY (GUZEN TO SOZO)**<br>
 _Director_: Ryusuke Hamaguchi  
-_Production Company_: Rachele Parietti
-
-_Executive Producers:_ Sho Harada,  
-Katsumi Tokuyama  
-_Producer_: Satoshi Takata
-
-_Production Manager:_ Hitoshi Omika
-
+_Production Company_: Rachele Parietti<br>
+_Executive Producers:_ Sho Harada,  Katsumi Tokuyama  
+_Producer_: Satoshi Takata<br>
+_Production Manager:_ Hitoshi Omika<br>
 _Assistant Directors:_ Toru Takano, Takayuki Fukata  
-_Screenplay_: Ryusuke Hamaguchi
+_Screenplay_: Ryusuke Hamaguchi<br>
+_Cinematography:_ Yukiko Iioka<br>
+_Production Design:_ Masato Nunobe<br>
+_Costumes:_ Fuminori Usui<br>
+_Make-up:_ Yukiko Sumi<br>
+_Sound Design:_ Akihiko Suzuki<br>
+_Sound:_ Naoki Jono<br>
 
-_Cinematography:_ Yukiko Iioka
-
-_Production Design:_ Masato Nunobe
-
-_Costumes:_ Fuminori Usui
-
-_Make-up:_ Yukiko Sumi
-
-_Sound Design:_ Akihiko Suzuki
-
-_Sound:_ Naoki Jono
-
-_Cast:_
-
-Kotone Furukawa _(Meiko)_
-
-Kiyohiko Shibukawa _(Segawa)_
-
-Katsuki Mori _(Nao)_
-
-Fusako Urabe _(Moka)_
-
+**Cast**<br>
+Kotone Furukawa _(Meiko)_<br>
+Kiyohiko Shibukawa _(Segawa)_<br>
+Katsuki Mori _(Nao)_<br>
+Fusako Urabe _(Moka)_<br>
 Aoba Kawai _(Nana)_  
 Ayumu Nakajima _(Kazuaki)_  
-Hyunri _(Tsugumi)_
-
+Hyunri _(Tsugumi)_<br>
 Shouma Kai _(Sasaki)_
 
-Japan 2021
-
+Japan 2021<br>
 121 mins
 
 Courtesy of Modern Films  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
-
-<![endif]-->
+<br>
 
 **IN PERSON & PREVIEWS**
 
@@ -131,5 +108,5 @@ Sat 22 Jan 14:00
 
 Thu 27 Jan 19:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzI1NTY4Ml19
+eyJoaXN0b3J5IjpbLTI4Mzc4Nzc0Ml19
 -->
