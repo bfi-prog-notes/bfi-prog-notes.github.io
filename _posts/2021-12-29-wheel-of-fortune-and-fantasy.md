@@ -65,48 +65,26 @@ Japan 2021<br>
 Courtesy of Modern Films  
 <br>
 
-**IN PERSON & PREVIEWS**
-
-**TV Preview: Afterlife Season 3 + Q&A with  
-Ricky Gervais and cast**
-
-Thu 6 Jan 18:15
-
-**Oliver Stone in Conversation**
-
-Fri 14 Jan 18:20
-
-**Natural Born Killers**
-
-Fri 14 Jan 20:30
-
-**Fresh Meat 10th Anniversary: Q&A with  
-cast and creatives**
-
-Sat 15 Jan 18:15
-
-**Mark Kermode Live in 3D at the BFI**
-
-Mon 17 Jan 18:10
-
-**Preview: The Souvenir Part II + Q&A with  
-writer-director Joanna Hogg**
-
-Mon 17 Jan 20:30
-
-**Woman with a Movie Camera Preview: Amulet  
-+ Q&A with writer-director Romola Garai**
-
-Fri 21 Jan 18:00
-
-**African Odysseys presents: UK Premiere:  
-A Bruddah’s Mind Cabeça de Nego + Q&A with director Déo Cardoso**
-
-Sat 22 Jan 14:00
-
-**Silent Cinema presents: South: Sir Ernest Shackleton’s Glorious Epic of the Antarctic + live score**
-
-Thu 27 Jan 19:00
+**IN PERSON & PREVIEWS**<br>
+**TV Preview: Afterlife Season 3 + Q&A with  Ricky Gervais and cast**<br>
+Thu 6 Jan 18:15<br>
+**Oliver Stone in Conversation**<br>
+Fri 14 Jan 18:20<br>
+**Natural Born Killers**<br>
+Fri 14 Jan 20:30<br>
+**Fresh Meat 10th Anniversary: Q&A with  cast and creatives**<br>
+Sat 15 Jan 18:15<br>
+**Mark Kermode Live in 3D at the BFI**<br>
+Mon 17 Jan 18:10<br>
+**Preview: The Souvenir Part II + Q&A with  writer-director Joanna Hogg**<br>
+Mon 17 Jan 20:30<br>
+**Woman with a Movie Camera Preview: Amulet  + Q&A with writer-director Romola Garai**<br>
+Fri 21 Jan 18:00<br>
+**African Odysseys presents: UK Premiere:  A Bruddah’s Mind Cabeça de Nego + Q&A with director Déo Cardoso**<br>
+Sat 22 Jan 14:00<br>
+**Silent Cinema presents: South: Sir Ernest Shackleton’s Glorious Epic of the Antarctic + live score**<br>
+Thu 27 Jan 19:00<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Mzc4Nzc0Ml19
+eyJoaXN0b3J5IjpbLTcwMzA1NDg5NF19
 -->
