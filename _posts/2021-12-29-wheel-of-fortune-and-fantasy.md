@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Wheel of Fortune and Fantasy
+published: true
+date: 2021-12-29
+readtime: true
+categories: ['PREVIEW']
+tags: [Drama]
+metadata: 'Japan 2021, 121 mins<br> Director: Ryusuke Hamaguchi'
+pdf: '2021-12-29-wheel-of-fortune-and-fantasy.pdf'
+---
 
 ‘Excuse me, can you go back the same way?’ The taxi turns around. This is the first manoeuvre in a film whose English title anticipates its narrative twists. Except this isn’t the same way, this isn’t quite repetition. The film is slippery with such divergencies. Premiering in this year’s Berlinale Competition, Ryusuke Hamaguchi’s _Wheel of Fortune and Fantasy_ continues the director’s interest in doublings, coincidences and duplicity that has earned him comparisons with Rivette and Rohmer since his debut melodrama, _Passion_, in 2008.
 
@@ -21,8 +31,7 @@ The Japanese title directly translates into something more like _Coincidence and
 
 _You mention other worlds. The final section of the film dips into the realm of science fiction, but in this quiet kind of way. What was your thought process for including sci-fi in this story, and what is your own relationship with sci-fi?_
 
-So, in terms of the sci-fi element in story three, I was thinking about Covid.  
-The first two stories in this collection of shorts were shot in 2019, so I didn’t have anything with Covid in mind. However, the third story was actually shot in July 2020 and in Japan; that was after the first state of emergency was over, so that element of Covid was definitely in my mind. I’m no expert in sci-fi, but when I was a student I studied under director Kiyoshi Kurosawa, and when I was studying under him he gave us this impossible assignment – which was to remake _Solaris_. So when I was tasked with this, I read a lot of sci-fi, and in doing that I realised that sci-fi is often rooted in some kind of reality. However, it’s seeing reality in a different way.
+So, in terms of the sci-fi element in story three, I was thinking about Covid.  The first two stories in this collection of shorts were shot in 2019, so I didn’t have anything with Covid in mind. However, the third story was actually shot in July 2020 and in Japan; that was after the first state of emergency was over, so that element of Covid was definitely in my mind. I’m no expert in sci-fi, but when I was a student I studied under director Kiyoshi Kurosawa, and when I was studying under him he gave us this impossible assignment – which was to remake _Solaris_. So when I was tasked with this, I read a lot of sci-fi, and in doing that I realised that sci-fi is often rooted in some kind of reality. However, it’s seeing reality in a different way.
 
 So I wanted to do something similar to that through this third story. In today’s world, right now, there’s the lockdown happening under COVID-19. However, in my story – for the third one – what I had was to almost have the opposite of what’s going on today. So the virtual is locked down, as opposed to today, where we’re living on the opposite spectrum, where everything is happening virtually. So in this sense I felt like I would still be able to work with the original story and the original concept whilst not ignoring the situation of COVID-19. And I felt that the audience can also maybe experience that as well.
 
@@ -85,6 +94,24 @@ Sat 22 Jan 14:00<br>
 **Silent Cinema presents: South: Sir Ernest Shackleton’s Glorious Epic of the Antarctic + live score**<br>
 Thu 27 Jan 19:00<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTcwMzA1NDg5NF19
 -->
