@@ -115,66 +115,37 @@ UK/Japan/New Zealand 1983<br>
 <br><br>
 
 **BOWIE: STARMAN AND THE SILVER SCREEN**<br>
-
 **The Prestige**<br>
-
 Sat 1 Jan 17:30, Tue 11 Jan 20:30<br>
-
 **Merry Christmas Mr. Lawrence**<br>
-
 Sat 1 Jan 20:30, Sat 8 Jan 18:20, Thu 20 Jan 20:30<br>
-
 **Christiane F. (Wir Kinder vom Bahnhof Zoo)**<br>
-
 Sun 2 Jan 15:00, Fri 21 Jan 20:30<br>
-
 **Absolute Beginners**<br>
-
 Sun 2 Jan 18:00, Fri 14 Jan 20:40 (+ Inside Cinema: David Bowie), Fri 28 Jan 20:45<br>
-
 **Twin Peaks: Fire Walk with Me**<br>
-
 Tue 4 Jan 17:50, Mon 10 Jan 20:20<br>
-
 **Basquiat**<br>
-
 Wed 5 Jan 18:10, Sun 16 Jan 15:20 (+ Inside Cinema: David Bowie)<br>
-
 **Bug Special: David Bowie**<br>
-
 Thu 6 Jan 20:50, Fri 7 Jan 20:50<br>
-
 **Labyrinth**<br>
-
 Sat 8 Jan 12:00, Sun 9 Jan 13:00, Wed 26 Jan 18:10<br>
-
 **BFI Course: David Bowie: So I Felt like an Actor**<br>
-
 Sat 8 Jan 15:45<br>
-
 **The Man Who Fell to Earth**<br>
-
-Sat 8 Jan 20:10, Mon 17 Jan 14:30, Sun 30 Jan 18:10
-
-**Cracked Actor + Oddities + Inside Cinema: David Bowie**
-
-Sun 9 Jan 16:10
-
-**Ziggy Stardust & The Spiders from Mars**
-
-Sun 9 Jan 18:10 (+ Inside Cinema: David Bowie), Mon 24 Jan 20:30
-
-**The Hunger**
-
-Mon 10 Jan 18:10, Sat 22 Jan 20:50
-
-**Baal** + extended intro by Adrian Wootton **+ Pierrot in Turquoise or The Looking Glass Murders**
-
-Wed 19 Jan 18:00
-
-**Bowie at Glastonbury 2000**
-
-Sat 22 Jan 18:00
+Sat 8 Jan 20:10, Mon 17 Jan 14:30, Sun 30 Jan 18:10<br>
+**Cracked Actor + Oddities + Inside Cinema: David Bowie**<br>
+Sun 9 Jan 16:10<br>
+**Ziggy Stardust & The Spiders from Mars**<br>
+Sun 9 Jan 18:10 (+ Inside Cinema: David Bowie), Mon 24 Jan 20:30<br>
+**The Hunger**<br>
+Mon 10 Jan 18:10, Sat 22 Jan 20:50<br>
+**Baal** + extended intro by Adrian Wootton **+ Pierrot in Turquoise or The Looking Glass Murders**<br>
+Wed 19 Jan 18:00<br>
+**Bowie at Glastonbury 2000**<br>
+Sat 22 Jan 18:00<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDM4NzQ3NF19
+eyJoaXN0b3J5IjpbMTI0MjA2MTc2MF19
 -->
