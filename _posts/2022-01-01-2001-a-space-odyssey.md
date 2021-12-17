@@ -74,131 +74,70 @@ Gary Lockwood _(Astronaut Frank Poole)_<br>
 William Sylvester _(Dr Heywood Floyd)_<br>
 Daniel Richter _(moonwatcher)_<br>
 Leonard Rossiter _(Smyslov)_<br>
-
 Margaret Tyzack _(Elena)_<br>
-
 Robert Beatty _(Halvorsen)_<br>
-
 Sean Sullivan _(Michaels)_<br>
-
 Douglas Rain _(voice of HAL 9000)_<br>
-
 Frank Miller _(mission controller)_<br>
-
 Bill Weston _(spacewalker)_<br>
-
 Edward Bishop<br>
-
 Glenn Beck<br>
-
 Alan Gifford _(Poole’s father)_<br>
-
 Ann Gillis<br>
-
 Edwina Carroll _(Aries stewardess)_<br>
-
 Penny Brahms, Heather Downham _(stewardess)_<br>
-
 Mike Lovell<br>
-
 John Ashley _(astronaut)_<br>
-
 Jimmy Bell<br>
-
 David Charkham<br>
-
 Simon Davis<br>
-
 Jonathan Daw<br>
-
 Peter Delmar<br>
-
 Terry Duggan<br>
-
 David Fleetwood<br>
-
 Danny Grover<br>
-
 Brian Hawley<br>
-
 David Hines<br>
-
 Tony Jackson<br>
-
 John Jordan<br>
-
 Scott MacKee<br>
-
 Laurence Marchant<br>
-
 Darryl Paes<br>
-
 Joe Refalo<br>
-
 Andy Wallace<br>
-
 Bob Wilyman<br>
-
 Richard Wood<br>
 
 _uncredited_<br>
-
 Vivian Kubrick _(Floyd’s daughter)_<br>
-
 Burnell Tucker _(photographer)_<br>
-
 John Swindells _(first technician)_<br>
-
 John Clifford _(second technician)_<br>
-
 Martin Amor _(interviewer)_<br>
-
 Kevin Scott _(Miller)_<br>
-
 Krystyna Marr _(Russian scientist)_<br>
-
 Kenneth Kendall _(BBC-12 announcer)_<br>
-
 Ann Boman, Penny Pearl, Julie Croft<br>
-
 Keith Denny _(ape)_<br>
 
 UK 1968©<br>
-
 149 mins<br>
 <br>
 
-<![endif]-->
-
 **HOOKED TO THE SILVER SCREEN: BOWIE AT THE MOVIES**<br>
-
 **2001: A Space Odyssey**<br>
-
-Sat 1 Jan 14:20, Sun 23 Jan 18:00,  
-Wed 26 Jan 14:00, 17:30 (IMAX)<br>
-
+Sat 1 Jan 14:20, Sun 23 Jan 18:00,  Wed 26 Jan 14:00, 17:30 (IMAX)<br>
 **Metropolis**<br>
-
 Sun 2 Jan 12:00, Tue 4 Jan 14:30, Sun 30 Jan 12:00 (with live piano accompaniment)<br>
-
 **A Clockwork Orange**<br>
-
-Mon 3 Jan 13:10, Wed 12 Jan 20:25,  
-Sun 23 Jan 15:00, Wed 26 Jan 20:40 (IMAX)<br>
-
+Mon 3 Jan 13:10, Wed 12 Jan 20:25,  Sun 23 Jan 15:00, Wed 26 Jan 20:40 (IMAX)<br>
 **Querelle**<br>
-
 Tue 4 Jan 20:20, Tue 18 Jan 18:00<br>
-
 **Taxi Driver**<br>
-
-Fri 7 Jan 18:00, Sun 16 Jan 18:20,  
-Thu 27 Jan 20:45<br>
-
+Fri 7 Jan 18:00, Sun 16 Jan 18:20,  Thu 27 Jan 20:45<br>
 **The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) + Un chien andalou**<br>
-
 Sat 15 Jan 12:30 (+ Inside Cinema: David Bowie), Sat 22 Jan 15:15<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk0NjU0MzcxXX0=
+eyJoaXN0b3J5IjpbLTE2NzY0NTY5NzJdfQ==
 -->
