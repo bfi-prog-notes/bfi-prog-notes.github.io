@@ -148,7 +148,7 @@ Sat 15 Jan 12:30 (+ Inside Cinema: David Bowie), Sat 22 Jan 15:15<br>
 <br>
 
 **In association with**  
-<img style="float: left;" src="/img/bowie-75.png">
+<img style="float: left;" src="/img/bowie-75.png" width="40%" height="40%">
 <br><br><br><br><br><br><br><br><br>
 The Bowie75™ logo is a trademark of Jones/Tintoretto Entertainment Company LLC
 
