@@ -149,14 +149,12 @@ Sat 15 Jan 12:30 (+ Inside Cinema: David Bowie), Sat 22 Jan 15:15<br>
 
 **In association with**  
 <img style="float: left;" src="/img/bowie-75.png" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br><br><br>
-The Bowie75™ logo is a trademark of Jones/Tintoretto Entertainment Company LLC
+<br><br><br><br><br><br><br><br><br>
 
 **Promotional partner**  
 <img style="float: left;" src="/img/brixton-brewery.png" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br><br><br>
-Bold, modern & easy-drinking beers inspired by the neighbourhood we call home. Find us @brixtonbrewery
-<br><br>
+<br><br><br><br><br><br><br><br><br>
+<br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
