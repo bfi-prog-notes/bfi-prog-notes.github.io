@@ -1,3 +1,14 @@
+---
+layout: post
+title: Merry Christmas Mr. Lawrence
+published: true
+date: 2022-01-01
+readtime: true
+categories: ['BOWIE: STARMAN AND THE SILVER SCREEN']
+tags: [War]
+metadata: 'UK/Japan/New Zealand 1983, 123 mins<br> Director: Nagisa Oshima'
+pdf: '2022-01-01-merry-christmas-mr-lawrence.pdf'
+---
 
 In 1983 Bowie starred in two major films: as part of the love-triangle vampire drama with Catherine Deneuve and Susan Sarandon in Tony Scott’s  _The Hunger_, and as Major Jack Celliers in Nagisa Oshima’s prisoner-of-war film _Merry Christmas Mr. Lawrence_. With an evocative score by Ryuichi Sakamoto, this powerful epic was based on the experiences of Sir Laurens van der Post in a Japanese PoW camp during the Second World War. Van der Post’s memoirs were adapted into a screenplay by Paul Mayersberg, who had also written _The Man Who Fell to Earth_, though it was Oshima who selected Bowie for the lead role, after being impressed by the star’s stage turn in  _The Elephant Man_.  
 **Samuel Wigley, bfi.org.uk**
@@ -5,8 +16,7 @@ In 1983 Bowie starred in two major films: as part of the love-triangle vampire d
 **Jeremy Thomas on ‘Merry Christmas Mr. Lawrence’**  
 I sat next to Oshima at a function in Cannes in 1978 when _The Shout_ was there. We could hardly communicate, just smiled, and passed bread rolls and butter to each other, and admired Bibi Andersson who was sitting opposite. Then, a year later, I was contacted through a Japanese woman who lives in London, an associate of Oshima’s, asking if I would be interested in his script. Again, I had admired Oshima’s films a lot, so I met him in Paris. He spoke very little English and I said, I’d love to work with you, and you should learn English. So he learned English in a year, and we made the film. There was a lot of heart-searching over where to shoot it, whether in the Philippines or in Java, where it’s set. Finally, we decided to shoot it in the Cook Islands because it was possible to service it from New Zealand, which made it attractive for financial reasons.
 
-The first script was long, a translation of Oshima’s Japanese adaptation of the book by Laurens van der Post. The main attraction was that here was a book about a Japanese POW camp, written by a notable and weighty writer on the subject, which would be tackled by a very radical director in Japan. Not only was the script about cultures, East and West, in a confined and very dramatic situation, but the film would be made in a confined and dramatic situation.  
-I thought this is too good to miss, something extraordinary will come out of this chemistry. One of the fascinating things was that we were culturally at sea, there was no fixed area for the thing.
+The first script was long, a translation of Oshima’s Japanese adaptation of the book by Laurens van der Post. The main attraction was that here was a book about a Japanese POW camp, written by a notable and weighty writer on the subject, which would be tackled by a very radical director in Japan. Not only was the script about cultures, East and West, in a confined and very dramatic situation, but the film would be made in a confined and dramatic situation.  I thought this is too good to miss, something extraordinary will come out of this chemistry. One of the fascinating things was that we were culturally at sea, there was no fixed area for the thing.
 
 The book has many things within it, and the key elements have been taken out and used in the script, but not necessarily in the same order. So the flashbacks to David Bowie’s childhood, which in the book are set in South Africa, were shot in New Zealand. But it could be some strange idea of what England’s like. If one thinks of films having a life of their own, that’s a good example. Something has come out of those scenes, giving them a peculiar quality, where they feel very off-the-wall England, something unusual and rather surrealistic. The garden, for instance: it looks like an English house, but it’s got tropical flowers. Everything is just a bit off. The garden is an idealised vision on the part of Celliers, the David Bowie character; he’s in extremis himself, after beatings and so on. We decided to use the same actor as Celliers’ younger brother in the different scenes and try to get away with it. Try to age him up a little bit. It doesn’t really matter, nobody’s that upset that Bowie has aged and the little boy hasn’t. That little boy was a wonderful piece of casting, his voice was so extraordinary.
 
@@ -16,8 +26,7 @@ The only similarity between Oshima and Nic [Roeg] is that they are both director
 
 Nic’s films are much more mosaic in texture and layer, richer in that area. It’s a completely different style of filmmaking. Nic loves putting book titles in his films. It gives texture to the characters, if they’re reading a book whose title you can see. I think that’s one of Nic’s great strengths as a director, that he picks out those things like nobody else. It’s attention to detail, which is why he needs to shoot in a different style to Oshima.
 
-There’s been no real conscious yardstick by which I’ve chosen projects or directors. It comes down to personal taste, and what you want to spend your time on. Exotic is the word I would use, I think the films are very exotic. I don’t think there’s any political link between them. It’s just style I think which attracts me. And as I have aspirations to direct myself, I’ve been working with filmmakers I wanted to get something from as well as to produce their films.  
-It’s a two-way street; I was looking and learning as well. I suppose I’m in awe of great directors, knowing how difficult it is to make a really fine picture.  
+There’s been no real conscious yardstick by which I’ve chosen projects or directors. It comes down to personal taste, and what you want to spend your time on. Exotic is the word I would use, I think the films are very exotic. I don’t think there’s any political link between them. It’s just style I think which attracts me. And as I have aspirations to direct myself, I’ve been working with filmmakers I wanted to get something from as well as to produce their films.  It’s a two-way street; I was looking and learning as well. I suppose I’m in awe of great directors, knowing how difficult it is to make a really fine picture.  
 **Interview by Richard Combs, _Monthly Film Bulletin_, May 1983**
 <br><br>
 
@@ -146,6 +155,33 @@ Wed 19 Jan 18:00<br>
 **Bowie at Glastonbury 2000**<br>
 Sat 22 Jan 18:00<br>
 <br>
+
+**In association with**  
+<img style="float: left;" src="/img/bowie-75.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+**Promotional partner**  
+<img style="float: left;" src="/img/brixton-brewery.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTI0MjA2MTc2MF19
 -->
