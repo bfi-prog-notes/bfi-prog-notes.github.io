@@ -24,105 +24,55 @@ The day I watched Kubrick on set he was shooting a scene in which Gary Lockwood 
 <br><br>
 
 **2001: A SPACE ODYSSEY**<br>
-
 _Directed by:_ Stanley Kubrick<br>
-
 ©_/Presented by:_ Metro-Goldwyn-Mayer<br>
-
 _Production Company:_ Stanley Kubrick Productions<br>
-
 _Produced by:_ Stanley Kubrick<br>
-
 _Associate Producer:_ Victor Lyndon<br>
-
 _1st Assistant Director:_ Derek Cracknell<br>
-
 _Screenplay:_ Stanley Kubrick, Arthur C. Clarke<br>
-
 _Based on the short story by:_ Arthur C. Clarke<br>
-
 _Director of Photography:_ Geoffrey Unsworth<br>
-
 _Additional Photography:_ John Alcott<br>
-
 _Camera Operator:_ Kelvin Pike<br>
-
 _Special Photographic FX Designed and Directed by:_ Stanley Kubrick<br>
-
 _Special Effects Supervisors:_ Wally Veevers, Douglas Trumbull, Con Pederson, Tom Howard<br>
-
-_Special Photographic Effects Unit:  
-_Colin J. Cantwell, Bruce Logan, Bryan Loftus,  
-David Osborne, Frederick Martin, John Jack Malick<br>
-
+_Special Photographic Effects Unit:_ Colin J. Cantwell, Bruce Logan, Bryan Loftus,  David Osborne, Frederick Martin, John Jack Malick<br>
 _Editor:_ Ray Lovejoy<br>
-
 _Editorial Assistant:_ David De Wilde<br>
-
-_Production Designed by:_ Tony Masters,  
-Harry Lange, Ernest Archer<br>
-
+_Production Designed by:_ Tony Masters,  Harry Lange, Ernest Archer<br>
 _Art Director:_ John Hoesli<br>
-
 _Wardrobe:_ Hardy Amies<br>
-
 _Make-up:_ Stuart Freeborn<br>
-
 _Filmed in:_ Cinerama, Super Panavision<br>
-
-_Music:_ Aram Khachaturian, György Ligeti,  
-Johann Strauss Jr, Richard Strauss<br>
-
+_Music:_ Aram Khachaturian, György Ligeti,  Johann Strauss Jr, Richard Strauss<br>
 _Sound Supervisor:_ A.W. Watkins<br>
-
 _Sound Mixer:_ H.L. Bird<br>
-
 _Chief Dubbing Mixer:_ J.B. Smith<br>
-
 _Sound Editor:_ Winston Ryder<br>
-
 _Scientific Consultant:_ Frederick I. Ordway III<br>
-
 _Studio_: MGM British Studios<br>
 
 _uncredited_<br>
-
 _Production Co-ordinator:_ Merle Chamberlin<br>
-
 _2nd Assistant Director:_ Richard Jenkins<br>
-
 _Casting:_ James Liggat<br>
-
 _Additional Photography:_ Michael Wilson<br>
-
 _Rostrum Cameraman:_ Dennis Hall<br>
-
 _Additional Matte Cinematography:_ Richard Yuricich<br>
-
 _Aerial Photography:_ Robert Gaffney<br>
-
 _Assistant Camera:_ Peter MacDonald<br>
-
 _Unit Stills Photographer:_ John Jay<br>
-
 _Stills - MGM:_ Ken Bray<br>
-
 _Music Editor:_ Frank J. Urioste<br>
-
 _‘Dawn of Man’ Choreography:_ Daniel Richter, Adrian Haggard, Roy Simpson<br>
-
 _Boom Operators:_ Bill Cook, Don Wortham<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Keir Dullea _(Mission Commander David Bowman)_<br>
-
 Gary Lockwood _(Astronaut Frank Poole)_<br>
-
 William Sylvester _(Dr Heywood Floyd)_<br>
-
 Daniel Richter _(moonwatcher)_<br>
-
 Leonard Rossiter _(Smyslov)_<br>
 
 Margaret Tyzack _(Elena)_<br>
@@ -243,11 +193,12 @@ Tue 4 Jan 20:20, Tue 18 Jan 18:00<br>
 **Taxi Driver**<br>
 
 Fri 7 Jan 18:00, Sun 16 Jan 18:20,  
-Thu 27 Jan 20:45
+Thu 27 Jan 20:45<br>
 
-**The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) + Un chien andalou**
+**The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) + Un chien andalou**<br>
 
-Sat 15 Jan 12:30 (+ Inside Cinema: David Bowie), Sat 22 Jan 15:15
+Sat 15 Jan 12:30 (+ Inside Cinema: David Bowie), Sat 22 Jan 15:15<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQyMzczNzddfQ==
+eyJoaXN0b3J5IjpbODk0NjU0MzcxXX0=
 -->
