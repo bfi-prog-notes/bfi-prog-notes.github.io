@@ -30,10 +30,9 @@ _Project Conceived by_: Shohei Imamura
 _Director of Photography_: Kazuo Hara  
 _Assistant Photographers_: Toshiaki Takamura, Satoru Hirasawa  
 _Editor_: Jun Nabeshima  
-_Sound_: Toyohiko Kuribayashi
+_Sound_: Toyohiko Kuribayashi<br>
 
-_With:_
-
+**With**<br>
 Kenzo Okuzaki  
 Shizumi Okuzaki  
 Kichitaro Yamada  
@@ -48,11 +47,10 @@ Taro Maruyama
 Shichiro Kojima  
 Masao Koshimizu  
 Riichi Aikawa  
-Eizaburo Oshima
+Eizaburo Oshima<br>
 
 Japan 1987<br>
-
-122 mins
+122 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjcwOTE0NDhdfQ==
+eyJoaXN0b3J5IjpbLTExNTAzMjQ3MzBdfQ==
 -->
