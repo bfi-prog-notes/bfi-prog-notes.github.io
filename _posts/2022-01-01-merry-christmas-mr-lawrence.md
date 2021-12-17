@@ -25,163 +25,81 @@ It’s a two-way street; I was looking and learning as well. I suppose I’m in 
 **(SENJO NO MERRY CHRISTMAS)**<br>
 _Directed by:_ Nagisa Oshima<br>
 _©:_ National Film Trustee Company Ltd.<br>
-_Made in association with:_ Antares-Nova N.V., Recorded Picture Company, Oshima Productions,Asahi National Broadcasting,  
-Broadbank Investments Limited<br>
-
+_Made in association with:_ Antares-Nova N.V., Recorded Picture Company, Oshima Productions, Asahi National Broadcasting,  Broadbank Investments Limited<br>
 _Executive Producers:_ Masato Hara, Eiko Oshima, Geoffrey Nethercott, Terry Glinwood<br>
-
 _Producer:_ Jeremy Thomas<br>
-
 _Producer’s Assistant:_ Sevilla Delofski<br>
-
 _Associate Producers:_ Joyce Herlihy, Larry Parr<br>
-
 _Production Accountant:_ Tony Hedges<br>
-
-_Assistant Accountants:_ Lynne Newport,
-
-Mitsue Fujita<br>
-
+_Assistant Accountants:_ Lynne Newport, Mitsue Fujita<br>
 _Production Co-ordinator:_ Margaret Hilliard<br>
-
 _Location Manager:_ Takashi Shirai<br>
-
 _Production Assistant:_ Kuniko Usui<br>
-
 _Production Secretary:_ Vivien Bridgewater<br>
-
 _1st Assistant Director:_ Lee Tamahori<br>
-
 _2nd Assistant Director:_ Jonty Barraud<br>
-
 _3rd Assistant Director:_ Geoff Hill<br>
-
 _Assistant to the Director:_ Roger Pulvers<br>
-
 _Continuity:_ Raijin Nakahata<br>
-
 _Japan Casting:_ Takashi Ueno<br>
-
 _New Zealand Casting:_ Diana Rowan<br>
-
 _Screenplay by:_ Nagisa Oshima<br>
-
 _Screenplay with:_ Paul Mayersberg<br>
-
-_Based on The Seed and the Sower by:_
-
-Sir Laurens van der Post<br>
-
+_Based on The Seed and the Sower by:_ Sir Laurens van der Post<br>
 _Director of Photography:_ Tôichirô Narushima<br>
-
 _Camera Operator:_ Hiroaki Sugimura<br>
-
 _Focus Puller:_ Andy Roelants<br>
-
 _Clapper/Loader:_ Rick Allender<br>
-
 _Key Grip:_ Brian Harris<br>
-
 _Grips:_ Dennis Cullen, Jeff O’Donnell<br>
-
 _Gaffer:_ Warren Mearns<br>
-
 _Best Boy:_ Don Jowsey<br>
-
 _Stills Photography:_ Takashi Ueno<br>
-
 _Special Effects:_ Akira Houma<br>
-
 _Editor:_ Tomoyo Oshima<br>
-
 _Assistant Editor:_ Kenichi Takashima<br>
-
 _Negative Cutting:_ Kimie Kawagishi<br>
-
 _Production Designer:_ Jusho Toda<br>
-
 _Art Director:_ Andrew Sanders<br>
-
-_Assistant Art Directors:_ Tetsuya Hataya,  
-Kazumasa Normura<br>
-
+_Assistant Art Directors:_ Tetsuya Hataya,  Kazumasa Normura<br>
 _Set Dresser:_ Masaru Arakawa<br>
-
 _Properties:_ Shoichi Yasuda<br>
-
 _Properties Buyer:_ Lyn Bergquist<br>
-
 _Stand-by Props:_ Chris Paulger<br>
-
 _Construction Manager:_ Kyoichi Hashimoto<br>
-
-_Construction Technicians:_ Ryoichi Kamon,  
-Masaaki Kobayashi, Yutaka Wakase<br>
-
+_Construction Technicians:_ Ryoichi Kamon,  Masaaki Kobayashi, Yutaka Wakase<br>
 _Wardrobe Supervisor:_ Christine West<br>
-
 _Wardrobe Master:_ Kazuo Matsuda<br>
-
 _Makeup Supervisor:_ Anthony Clavet<br>
-
 _Makeup Chief:_ Robern Pickering<br>
-
 _Hair:_ Glenis Daly<br>
-
 _Music:_ Ryuichi Sakamoto<br>
-
 _Brother’s Song Composed by:_ Stephen McCurdy<br>
-
 _Sound Recordist:_ Mike Westgate<br>
-
 _Boom Operator:_ Eugene Arts<br>
-
 _Sound Re-recording:_ Tetsuya Ohashi, Aoi Studio<br>
-
-_Dolby Stereo Consultants:_ Mikio Mori,  
-Continental Far East Inc<br>
-
+_Dolby Stereo Consultants:_ Mikio Mori,  Continental Far East Inc<br>
 _Sound Effects:_ Akira Honma<br>
-
 _Dubbing Mixer:_ Akira Honma<br>
-
 _Armourer:_ Ralph Gardiner<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 David Bowie _(Major Jack ‘Straffer’ Celliers)_<br>
-
 Tom Conti _(Colonel John Lawrence)_<br>
-
 Ryuichi Sakamoto _(Captain Yonoi)_<br>
-
 Takeshi _(Sergeant Gengo Hara)_<br>
-
 Jack Thompson _(Group Captain Hicksley)_<br>
-
 Johnny Okura _(Kanemoto)_<br>
-
 Alistair Browning _(De Jong)_<br>
-
 James Malcolm _(Celliers’ brother)_<br>
-
 Chris Broun _(Jack Celliers, aged 12)_<br>
-
 Yuya Uchida _(commandant of military prison)_<br>
-
-Ryunosuke Kaneda  
-_(Colonel Fujimura, President of the Court)_<br>
-
+Ryunosuke Kaneda  _(Colonel Fujimura, President of the Court)_<br>
 Takeshi Naito _(Lieutenant Iwata)_<br>
-
 Tamio Ishikura _(prosecutor)_<br>
-
 Rokko Toura _(interpreter)_<br>
-
 Kan Mikami _(Lieutenant Ito)_<br>
-
 Yuji Honma _(PFC Yajima)_<br>
-
 Daisuke Iijima _(Corporal Ueki)_<br>
 
 Hideo Murota _(new commandant of the camp)_<br>
@@ -209,5 +127,5 @@ UK/Japan/New Zealand 1983<br>
 123 mins
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODgxNTg5OV19
+eyJoaXN0b3J5IjpbMjIwNjM0NTczXX0=
 -->
