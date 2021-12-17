@@ -1,15 +1,8 @@
-<![endif]-->
 
-<![endif]-->
+In 1983 Bowie starred in two major films: as part of the love-triangle vampire drama with Catherine Deneuve and Susan Sarandon in Tony Scott’s  _The Hunger_, and as Major Jack Celliers in Nagisa Oshima’s prisoner-of-war film _Merry Christmas Mr. Lawrence_. With an evocative score by Ryuichi Sakamoto, this powerful epic was based on the experiences of Sir Laurens van der Post in a Japanese PoW camp during the Second World War. Van der Post’s memoirs were adapted into a screenplay by Paul Mayersberg, who had also written _The Man Who Fell to Earth_, though it was Oshima who selected Bowie for the lead role, after being impressed by the star’s stage turn in  _The Elephant Man_.  
+**Samuel Wigley, bfi.org.uk**
 
-In 1983 Bowie starred in two major films: as part of the love-triangle vampire drama with Catherine Deneuve and Susan Sarandon in Tony Scott’s  
-_The Hunger_, and as Major Jack Celliers in Nagisa Oshima’s prisoner-of-war film _Merry Christmas Mr. Lawrence_. With an evocative score by Ryuichi Sakamoto, this powerful epic was based on the experiences of Sir Laurens van der Post in a Japanese PoW camp during the Second World War. Van der Post’s memoirs were adapted into a screenplay by Paul Mayersberg, who had also written _The Man Who Fell to Earth_, though it was Oshima who selected Bowie for the lead role, after being impressed by the star’s stage turn in  
-_The Elephant Man_.
-
-Samuel Wigley, bfi.org.uk
-
-**Jeremy Thomas on ‘Merry Christmas Mr. Lawrence’**
-
+**Jeremy Thomas on ‘Merry Christmas Mr. Lawrence’**  
 I sat next to Oshima at a function in Cannes in 1978 when _The Shout_ was there. We could hardly communicate, just smiled, and passed bread rolls and butter to each other, and admired Bibi Andersson who was sitting opposite. Then, a year later, I was contacted through a Japanese woman who lives in London, an associate of Oshima’s, asking if I would be interested in his script. Again, I had admired Oshima’s films a lot, so I met him in Paris. He spoke very little English and I said, I’d love to work with you, and you should learn English. So he learned English in a year, and we made the film. There was a lot of heart-searching over where to shoot it, whether in the Philippines or in Java, where it’s set. Finally, we decided to shoot it in the Cook Islands because it was possible to service it from New Zealand, which made it attractive for financial reasons.
 
 The first script was long, a translation of Oshima’s Japanese adaptation of the book by Laurens van der Post. The main attraction was that here was a book about a Japanese POW camp, written by a notable and weighty writer on the subject, which would be tackled by a very radical director in Japan. Not only was the script about cultures, East and West, in a confined and very dramatic situation, but the film would be made in a confined and dramatic situation.  
@@ -24,30 +17,27 @@ The only similarity between Oshima and Nic [Roeg] is that they are both director
 Nic’s films are much more mosaic in texture and layer, richer in that area. It’s a completely different style of filmmaking. Nic loves putting book titles in his films. It gives texture to the characters, if they’re reading a book whose title you can see. I think that’s one of Nic’s great strengths as a director, that he picks out those things like nobody else. It’s attention to detail, which is why he needs to shoot in a different style to Oshima.
 
 There’s been no real conscious yardstick by which I’ve chosen projects or directors. It comes down to personal taste, and what you want to spend your time on. Exotic is the word I would use, I think the films are very exotic. I don’t think there’s any political link between them. It’s just style I think which attracts me. And as I have aspirations to direct myself, I’ve been working with filmmakers I wanted to get something from as well as to produce their films.  
-It’s a two-way street; I was looking and learning as well. I suppose I’m in awe of great directors, knowing how difficult it is to make a really fine picture.
+It’s a two-way street; I was looking and learning as well. I suppose I’m in awe of great directors, knowing how difficult it is to make a really fine picture.  
+**Interview by Richard Combs, _Monthly Film Bulletin_, May 1983**
+<br><br>
 
-Interview by Richard Combs, _Monthly Film Bulletin_, May 1983
+**MERRY CHRISTMAS MR. LAWRENCE**<br>
+**(SENJO NO MERRY CHRISTMAS)**<br>
 
-<![endif]-->
+_Directed by:_ Nagisa Oshima<br>
 
-**MERRY CHRISTMAS MR. LAWRENCE**
-
-**(SENJO NO MERRY CHRISTMAS)**
-
-_Directed by:_ Nagisa Oshima
-
-_©:_ National Film Trustee Company Ltd.
+_©:_ National Film Trustee Company Ltd.<br>
 
 _Made in association with:_ Antares-Nova N.V., Recorded Picture Company, Oshima Productions,
 
 Asahi National Broadcasting,  
-Broadbank Investments Limited
+Broadbank Investments Limited<br>
 
-_Executive Producers:_ Masato Hara, Eiko Oshima, Geoffrey Nethercott, Terry Glinwood
+_Executive Producers:_ Masato Hara, Eiko Oshima, Geoffrey Nethercott, Terry Glinwood<br>
 
-_Producer:_ Jeremy Thomas
+_Producer:_ Jeremy Thomas<br>
 
-_Producer’s Assistant:_ Sevilla Delofski
+_Producer’s Assistant:_ Sevilla Delofski<br>
 
 _Associate Producers:_ Joyce Herlihy, Larry Parr
 
@@ -223,5 +213,5 @@ UK/Japan/New Zealand 1983
 
 123 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTA1NzgxNl19
+eyJoaXN0b3J5IjpbODgyNzc3MjFdfQ==
 -->
