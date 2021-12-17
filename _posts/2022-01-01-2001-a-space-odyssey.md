@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2001: A Space Odyssey
+title: 2001 - A Space Odyssey
 published: true
 date: 2022-01-01
 readtime: true
