@@ -151,6 +151,7 @@ Sat 15 Jan 12:30 (+ Inside Cinema: David Bowie), Sat 22 Jan 15:15<br>
 <img style="float: left;" src="/img/bowie-75.png" width="40%" height="40%">
 <br><br><br><br><br><br><br><br><br><br><br>
 
+
 **Promotional partner**  
 <img style="float: left;" src="/img/brixton-brewery.png" width="40%" height="40%">
 <br><br><br><br><br><br><br><br><br><br><br>
