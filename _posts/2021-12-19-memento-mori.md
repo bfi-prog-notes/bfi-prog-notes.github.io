@@ -1,17 +1,22 @@
-
-
-<![endif]-->
-
+---
+layout: post
+title: Memento Mori
+published: true
+date: 2021-12-19
+readtime: true
+categories: ['A CLASS OF HIS OWN<br>THE FILMS OF JACK CLAYTON']
+tags: [Drama]
+metadata: 'UK 1992, 98 mins<br> Director: Jack Clayton'
+pdf: '2021-12-19-memento-mori.pdf'
+---
 This was Jack Clayton’s last film, his first comedy, and his most critically acclaimed work since his sensational 1959 feature-film debut, _Room at the Top_. That same year, Muriel Spark had published _Memento Mori_, which Clayton had read and resolved someday to film. Finally encouraged by the success of _Driving Miss Daisy_ (1989), which proved that the theme of old age need not be box-office poison, Clayton offered the project to the BBC. In turn encouraged by the theatrical success of its own television films such as _Truly Madly Deeply_ (1990) and _Enchanted April_ (1991), the Corporation accepted. _Memento Mori_ was shown at festivals worldwide, and won several prestigious awards, including the screenplay award from the Writers Guild of Great Britain.
 
 The film’s assurance comes from Clayton’s empathy with the theme. Having lost friends during his RAF experience in the war, he genuinely felt that people should remember the inevitability of death, for it would stimulate an appetite for life. Although given a schedule and budget more restricted than he was used to, he seems in his element, and there is an abundance of cinematic expertise on display: for example, the moment when Mrs Pettigrew enters the room to interrupt a conversation between Charmian and Mortimer, and the subtle framing signals a shift in the balance of power; or the battle of wills over Charmian’s medication between her and Mrs Pettigrew, where the camera focuses on the latter’s painted nails as she does a sinister finger-ballet over the pills like a spider enticing a victim into its web.
 
-Producer Louis Marks calculated that the cast had about a thousand years’ worth of acting experience between them, and the performances of, for example, Michael Hordern, Maggie Smith, John Wood, Renée Asherson, Thora Hird and Stephanie Cole are outstanding. Georges Delerue’s score (sadly, his last before his death) is perfectly attuned to the film’s contrasting moods. Indeed, while respecting the novel’s macabre tone, Clayton brings an additional perspective that, without sentimentality, understands and accepts human foible and folly. There is snobbery, greed, even violence here, but also a humorous and humane observation of disappointed lives, and the way the ravages of time can reduce crotchety adults to behaving like spiteful children. _Memento Mori_ has something of the mellow maturity that distinguished another great film about ageing, _The Dead_ (1987), by Clayton’s mentor, John Huston.
+Producer Louis Marks calculated that the cast had about a thousand years’ worth of acting experience between them, and the performances of, for example, Michael Hordern, Maggie Smith, John Wood, Renée Asherson, Thora Hird and Stephanie Cole are outstanding. Georges Delerue’s score (sadly, his last before his death) is perfectly attuned to the film’s contrasting moods. Indeed, while respecting the novel’s macabre tone, Clayton brings an additional perspective that, without sentimentality, understands and accepts human foible and folly. There is snobbery, greed, even violence here, but also a humorous and humane observation of disappointed lives, and the way the ravages of time can reduce crotchety adults to behaving like spiteful children. _Memento Mori_ has something of the mellow maturity that distinguished another great film about ageing, _The Dead_ (1987), by Clayton’s mentor, John Huston.<br>
+**Neil Sinyard, BFI Screenonline, screenoline.org.uk**<br>
 
-Neil Sinyard, BFI Screenonline, screenoline.org.uk
-
-**A contemporary review**
-
+**A contemporary review**<br>
 Jack Clayton has wanted to ﬁlm Muriel Spark’s novel since it was ﬁrst published in 1959, and had Maggie Smith in mind for the project since she ﬁrst worked with him in 1964. The intervening delay has been unusual even for a director with a reputation for pausing between ﬁlms, but according to Clayton it was not until _Driving Miss Daisy_ established a compatibility between old age and the box ofﬁce that he was at last able to make some headway. First offers came from Hollywood, but he wanted to preserve the unequivocally English spirit of the piece; the BBC was ﬁnally the answer, resulting in Clayton’s ﬁrst ﬁlm for television. Ironically, he made _Memento Mori_ after turning 70, the age at which, according to one of the elders of the story, ‘you become one of us.’
 
 The unexpected pleasure of the ﬁlm is that Clayton has made it as an affectionate comedy. The established Clayton theme, not exactly a laughing matter, offers a baleful collusion between women on the verge of nervous breakdown and children on the verge of excessive enlightenment, and extends across the years from _The Innocents_ to _The Lonely Passion of Judith Hearne_. But aside from its lightness of touch, _Memento Mori_ is remarkably consistent with those dark carnivals, another reﬂection on a bright age overtaken by autumn, another outcry on behalf of lives that have achieved too little and must now exhaust their strength in the losing battle against decay.
@@ -53,7 +58,7 @@ _Assistant Dubbing Mixer_: Peter T. Davies
 _Sound System_: Western Electric  
 _Filmed at_: Marylebone Studios<br>
 
-**Cast**<br>  
+**Cast**<br>
 David Kossoff _(Morry)_  
 Alfie Bass _(Fender)_  
 Alan Tilvern _(Ranting)_  
@@ -71,8 +76,7 @@ _Associate Producers_: Carolyn Montagu, Derek Nelson
 _Production Manager_: Michael Jackley  
 _Finance Assistant_: Jackie Wright  
 _Location Manager_: Susannah Maclean  
-_Assistant Directors_: Theresa MacInnes,  
-Emma Bridgeman-Williams, Andy Jackson  
+_Assistant Directors_: Theresa MacInnes, Emma Bridgeman-Williams, Andy Jackson  
 _Continuity_: Thelma Helsby  
 _Casting Consultant_: Irene Lamb  
 _Screenplay_: Alan Kelley, Jeanie Sims, Jack Clayton  
@@ -142,6 +146,42 @@ Hilda Sachs, Brenda Cullity, Brigitte Loesser _(tea room trio)_<br>
 BBC2 tx 19.4.1992<br>
 UK 1992<br>
 98 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDE0MDk2OV19
--->
+<br>
+
+**A CLASS OF HIS OWN: THE FILMS OF JACK CLAYTON**<br>
+**Room at the Top**<br>
+Thu 2 Dec 18:10 (+ intro by BFI Curator Josephine Botting); Sat 18 Dec 14:10; Wed 22 Dec 18:10; Wed 29 Dec 14:30<br>
+**The Innocents**<br>
+Sat 4 Dec 20:40; Thu 9 Dec 20:45; Mon 13 Dec 18:10; Thu 23 Dec 14:20; Mon 27 Dec 15:20; Thu 30 Dec 14:30<br>
+**Our Mother’s House**<br>
+Tue 7 Dec 20:40 (+ intro); Mon 20 Dec 18:15<br>
+**The Passions of Jack Clayton**<br>
+Wed 8 Dec 18:10<br>
+**The Pumpkin Eater**<br>
+Wed 8 Dec 20:40; Sat 18 Dec 12:50 (+ pre-recorded intro by critic Lucy Scholes); Tue 28 Dec 12:15; Thu 30 Dec 18:10<br>
+**The Lonely Passion of Judith Hearne**<br>
+Fri 10 Dec 20:30; Tue 21 Dec 14:20; Wed 29 Dec 17:50<br>
+**The Great Gatsby**<br>
+Sat 11 Dec 20:20; Mon 27 Dec 12:45<br>
+**Something Wicked This Way Comes**<br>
+Sun 12 Dec 18:30; Tue 21 Dec 20:40<br>
+**Memento Mori + The Bespoke Overcoat**<br>
+Sun 19 Dec 18:00<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
