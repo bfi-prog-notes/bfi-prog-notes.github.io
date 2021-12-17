@@ -10,20 +10,14 @@ Whether this is rational or not, Okuzaki’s barnstorming style makes him an ide
 Partly, as befits a documentary of this sort, this is a matter of distance. The real subject of _The Emperor’s Naked Army Marches On_ is Kenzo Okuzaki himself, not the revelations about cannibalism in 1945. Hara uses Okuzaki’s enquiries as a pretext for giving his portrait a ‘dramatic’ shape, but it remains a portrait for all that. Okuzaki commands attention not as a freak who may or may not be deranged, but as a man whose attitudes and actions express much that is repressed in Japanese society. He stands against all the bulwarks of conservative Japan – the Emperor, patriotism, family values – but does so from the perspective of a common man concerned for the fate of his fellow common men. In his way, Okuzaki is a real-life equivalent of one of Imamura’s fictional peasant characters: disrespectful of ‘authority’ but driven by a sense of higher laws and values. Hara’s camera consistently finds the optimum distance between engagement and detachment, allowing the central portrait to take shape in more than two dimensions. Okuzaki’s performance may not be expertly judged, but Hara’s is.<br>
 **Tony Rayns, _Monthly Film Bulletin_, April 1991**<br>
 
-<![endif]-->
 
-**The Emperor’s Naked Army Marches On  
-(Yuki yukite shingun)**
-
+**THE EMPEROR’S NAKED ARMY MARCHES ON  
+(YUKI YUKITE SHINGUN)**<br>
 _Director_: Kazuo Hara  
 _Production Company_: Shisso Productions  
-_In association with_: Imamura Productions,
-
-Zanzou-sha  
+_In association with_: Imamura Productions, Zanzou-sha  
 _Producer_: Sachiko Kobayashi  
-_Associate Producers_: Yasuko Tokunaga,
-
-Yunoshin Miyoshi  
+_Associate Producers_: Yasuko Tokunaga, Yunoshin Miyoshi  
 _Assistant Directors_: Takuji Yasuoka, Koichi Omiya  
 _Written by_: Kazuo Hara  
 _Project Conceived by_: Shohei Imamura  
@@ -52,5 +46,5 @@ Eizaburo Oshima<br>
 Japan 1987<br>
 122 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTAzMjQ3MzBdfQ==
+eyJoaXN0b3J5IjpbNzY0OTQyMDUzLC0xMTUwMzI0NzMwXX0=
 -->
