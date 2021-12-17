@@ -101,31 +101,80 @@ Rokko Toura _(interpreter)_<br>
 Kan Mikami _(Lieutenant Ito)_<br>
 Yuji Honma _(PFC Yajima)_<br>
 Daisuke Iijima _(Corporal Ueki)_<br>
-
 Hideo Murota _(new commandant of the camp)_<br>
-
 Barry Dorking _(chief doctor)_<br>
-
 Geoff Clendon _(Australian doctor)_<br>
-
 Grant Bridger _(POW officer)_<br>
-
-Richard Adams, Geoff Allen, Michael Baxter-Lax, Marc Berg, Marcus Campbell, Colin Francis,
-
-Richard Hensby, Richard Hoare, Martin Ibbertson, Rob Jayne, Richard Mills, Mark Penrose, Arthur Ranford, Steve Smith, Stephen Taylor, Richard Zimmerman _(POWs)_<br>
-
+Richard Adams, Geoff Allen, Michael Baxter-Lax, Marc Berg, Marcus Campbell, Colin Francis, Richard Hensby, Richard Hoare, Martin Ibbertson, Rob Jayne, Richard Mills, Mark Penrose, Arthur Ranford, Steve Smith, Stephen Taylor, Richard Zimmerman _(POWs)_<br>
 Ian Miller _(English guard)_<br>
-
 Don Stevens _(pastor)_<br>
-
-Yoichi Iijima, Satoshi Ito, Masaki Kusakabe, Kunihide Kuruma, Hiroshi Mikami, Akihiro Masuda, Tokuhisa Masuda, Takeshi Nagasawa, Takeshi Odashima, Masanori Okada, Shoetsu Sato,
-
-Rintaro Shibata, Masamichi Shibasaki, Kaname Shimura, Kenzo Shirahama, Hisao Takeda, Hidenobu Togo, Atsuo Yamashita, Heiwa Yoshihara, Takeshi Yu (_Japanese soldiers)_<br>
+Yoichi Iijima, Satoshi Ito, Masaki Kusakabe, Kunihide Kuruma, Hiroshi Mikami, Akihiro Masuda, Tokuhisa Masuda, Takeshi Nagasawa, Takeshi Odashima, Masanori Okada, Shoetsu Sato, Rintaro Shibata, Masamichi Shibasaki, Kaname Shimura, Kenzo Shirahama, Hisao Takeda, Hidenobu Togo, Atsuo Yamashita, Heiwa Yoshihara, Takeshi Yu (_Japanese soldiers)_<br>
 
 UK/Japan/New Zealand 1983<br>
-
 123 mins
-<br>
+<br><br>
+
+**BOWIE: STARMAN AND THE SILVER SCREEN**<br>
+
+**The Prestige**<br>
+
+Sat 1 Jan 17:30, Tue 11 Jan 20:30<br>
+
+**Merry Christmas Mr. Lawrence**<br>
+
+Sat 1 Jan 20:30, Sat 8 Jan 18:20, Thu 20 Jan 20:30<br>
+
+**Christiane F. (Wir Kinder vom Bahnhof Zoo)**<br>
+
+Sun 2 Jan 15:00, Fri 21 Jan 20:30<br>
+
+**Absolute Beginners**<br>
+
+Sun 2 Jan 18:00, Fri 14 Jan 20:40 (+ Inside Cinema: David Bowie), Fri 28 Jan 20:45<br>
+
+**Twin Peaks: Fire Walk with Me**<br>
+
+Tue 4 Jan 17:50, Mon 10 Jan 20:20<br>
+
+**Basquiat**<br>
+
+Wed 5 Jan 18:10, Sun 16 Jan 15:20 (+ Inside Cinema: David Bowie)<br>
+
+**Bug Special: David Bowie**<br>
+
+Thu 6 Jan 20:50, Fri 7 Jan 20:50<br>
+
+**Labyrinth**<br>
+
+Sat 8 Jan 12:00, Sun 9 Jan 13:00, Wed 26 Jan 18:10<br>
+
+**BFI Course: David Bowie: So I Felt like an Actor**<br>
+
+Sat 8 Jan 15:45<br>
+
+**The Man Who Fell to Earth**<br>
+
+Sat 8 Jan 20:10, Mon 17 Jan 14:30, Sun 30 Jan 18:10
+
+**Cracked Actor + Oddities + Inside Cinema: David Bowie**
+
+Sun 9 Jan 16:10
+
+**Ziggy Stardust & The Spiders from Mars**
+
+Sun 9 Jan 18:10 (+ Inside Cinema: David Bowie), Mon 24 Jan 20:30
+
+**The Hunger**
+
+Mon 10 Jan 18:10, Sat 22 Jan 20:50
+
+**Baal** + extended intro by Adrian Wootton **+ Pierrot in Turquoise or The Looking Glass Murders**
+
+Wed 19 Jan 18:00
+
+**Bowie at Glastonbury 2000**
+
+Sat 22 Jan 18:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNjM0NTczXX0=
+eyJoaXN0b3J5IjpbMTEzNDM4NzQ3NF19
 -->
