@@ -1,13 +1,21 @@
-
+---
+layout: post
+title: 2001: A Space Odyssey
+published: true
+date: 2022-01-01
+readtime: true
+categories: ['HOOKED TO THE SILVER SCREEN<br>BOWIE AT THE MOVIES']
+tags: [Sci-Fi]
+metadata: 'UK 1968, 149 mins<br> Director: Stanley Kubrick'
+pdf: '2022-01-01-2001-a-space-odyssey.pdf'
+---
 
 Stanley Kubrick’s cosmic sci-fi masterpiece was cited by Bowie as the inspiration for ‘Space Oddity’, his first hit. Opening with the dawn of man before voyaging to the limits of the known universe in the company of Dr David Bowman and a sentient computer called HAL, _2001_ is now established as a landmark in cinema. Young audiences with a taste for the psychedelic were the ones who first took the film to their heart – perhaps inspired by a marketing campaign that branded it the ‘Ultimate Trip’.
 
 **David and His Goliaths: on set with Stanley Kubrick**  
-The sets spectacularly monopolise most of the stages at MGM Elstree studios... The space lounge set is almost 150 feet long; and the floor is constructed in an arc which gives strange, giddying effects if you attempt to walk up or down it. There are moon-stations and spacecraft of equally daunting scale. The most staggering set constructed for the film is, however, the great centrifuge, designed and built for the film by Vickers Armstrong.  
-It looks rather like a fairground big wheel of exceptional bulk, heavily studded with arc lights and back projection devices and festooned with swags of cable. The wheel itself stands 36 feet high – half as tall again, roughly, as the rooftop of a reasonably sized two-storey house. The working area of the set is the inner part of the wheel or drum, which can be rotated in either direction at a pretty fair pace. This operation is quite alarming. Movement is at all times heralded by a warning hooter of eerie pitch and piercing volume; and the wheel picks up speed with disconcerting muted creaks and grunts. Clearly it could be dangerous; and to add to the menace of the thing, the technicians who work inside it wear heavy crash helmets. The actors are not so protected.
+The sets spectacularly monopolise most of the stages at MGM Elstree studios... The space lounge set is almost 150 feet long; and the floor is constructed in an arc which gives strange, giddying effects if you attempt to walk up or down it. There are moon-stations and spacecraft of equally daunting scale. The most staggering set constructed for the film is, however, the great centrifuge, designed and built for the film by Vickers Armstrong.  It looks rather like a fairground big wheel of exceptional bulk, heavily studded with arc lights and back projection devices and festooned with swags of cable. The wheel itself stands 36 feet high – half as tall again, roughly, as the rooftop of a reasonably sized two-storey house. The working area of the set is the inner part of the wheel or drum, which can be rotated in either direction at a pretty fair pace. This operation is quite alarming. Movement is at all times heralded by a warning hooter of eerie pitch and piercing volume; and the wheel picks up speed with disconcerting muted creaks and grunts. Clearly it could be dangerous; and to add to the menace of the thing, the technicians who work inside it wear heavy crash helmets. The actors are not so protected.
 
-Kubrick at work on his stages has rather the air of a David embattled with several Goliaths, or, perhaps, Quixote tilting at the windmills. Sometimes the machines seem to be getting the upper hand. Shooting was held up for nearly a fortnight because the centrifuge, it seemed, simply _would_ not be finished.  
-But if Kubrick seems to be battling with his machinery, it is at least a contest of his own setting-up; and probably one that excites and extends him.
+Kubrick at work on his stages has rather the air of a David embattled with several Goliaths, or, perhaps, Quixote tilting at the windmills. Sometimes the machines seem to be getting the upper hand. Shooting was held up for nearly a fortnight because the centrifuge, it seemed, simply _would_ not be finished.  But if Kubrick seems to be battling with his machinery, it is at least a contest of his own setting-up; and probably one that excites and extends him.
 
 Kubrick, currently wearing a beard, looks rather like Orson Welles playing a short man, or else Buñuel’s younger brother. On the set he is quiet, severe, giving an impression of being rather forbearing than actually patient (which is his reputation) and keeping himself, for the most part, to himself. It seems no accident that he has an assistant director of NCO firmness. _The New York Times Magazine_ made great play of the ‘awe’ in which his collaborators hold him; and you feel that this is the sort of relationship that he encourages. Only occasional small jokes break the intensity of his concentration and suggest that his work actually gives him pleasure. In between attending to everything else, he is forever snatching up a Polaroid camera and snapping off photographs, some apparently for immediate reference, but others, it seems, simply as stills.
 
@@ -138,6 +146,35 @@ Fri 7 Jan 18:00, Sun 16 Jan 18:20,  Thu 27 Jan 20:45<br>
 **The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) + Un chien andalou**<br>
 Sat 15 Jan 12:30 (+ Inside Cinema: David Bowie), Sat 22 Jan 15:15<br>
 <br>
+
+**In association with**  
+<img style="float: left;" src="/img/bowie-75.png">
+<br><br><br><br><br><br><br><br><br>
+The Bowie75™ logo is a trademark of Jones/Tintoretto Entertainment Company LLC
+
+**Promotional partner**  
+<img style="float: left;" src="/img/brixton-brewery.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+Bold, modern & easy-drinking beers inspired by the neighbourhood we call home. Find us @brixtonbrewery
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2NzY0NTY5NzJdfQ==
 -->
