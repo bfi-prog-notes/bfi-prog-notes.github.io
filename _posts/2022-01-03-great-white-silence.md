@@ -52,8 +52,7 @@ _Restoration:_ Matt Watson, Neil Stenhouse, Tom Wiltshire, Clayton Baker, David 
 _Film Scanning and Recording:_  Paul Doogan, Bob Roach<br>
 _Technical Production:_ Jonathan Dixon,  John Pegg, Richard Fish
 
-_Thanks to:_ Elif Rongen, Catherine Cormon,  Mark-Paul Meyer (EYE Film Institute, Netherlands) Michael Harvey (National Media Museum),  
-Dr Elizabeth Watkins (Victoria University of Wellington), Brian Prichard
+_Thanks to:_ Elif Rongen, Catherine Cormon,  Mark-Paul Meyer (EYE Film Institute, Netherlands) Michael Harvey (National Media Museum),  Dr Elizabeth Watkins (Victoria University of Wellington), Brian Prichard
 
 With special thanks to the Eric Anker-Peterson Charity and the Scott Polar Research Institute
 
