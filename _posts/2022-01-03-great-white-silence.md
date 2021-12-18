@@ -42,7 +42,7 @@ _Curator:_ Bryony Dixon<br>
 
 _Restoration Supervised by:_ Kieron Webb,
 
-David Gurney, Angelo Lucatello, Peter Marshall
+David Gurney, Angelo Lucatello, Peter Marshall<br>
 
 _Film Lab and Optical Effects:_ Richard Cory,
 
@@ -50,16 +50,16 @@ Ian Lawman, Rick Pearce, Phil Sheward,
 
 Chris Stenner
 
-_Deluxe Digital_
+_Deluxe Digital_<br>
 
-_Colourist:_ Steve Bearman
+_Colourist:_ Steve Bearman<br>
 
 _Restoration:_ Matt Watson, Neil Stenhouse,
 
-Tom Wiltshire, Clayton Baker, David Burt
+Tom Wiltshire, Clayton Baker, David Burt<br>
 
 _Film Scanning and Recording:_  
-Paul Doogan, Bob Roach
+Paul Doogan, Bob Roach<br>
 
 _Technical Production:_ Jonathan Dixon,  
 John Pegg, Richard Fish
@@ -70,55 +70,54 @@ Dr Elizabeth Watkins (Victoria University of Wellington), Brian Prichard
 
 With special thanks to the Eric Anker-Peterson Charity and the Scott Polar Research Institute
 
-_Music by:_ Simon Fisher Turner
+_Music by:_ Simon Fisher Turner<br>
 
-_Strings:_ The Elysian Quartet
+_Strings:_ The Elysian Quartet<br>
 
-_Musical Saw, Bones:_ David Coulter
+_Musical Saw, Bones:_ David Coulter<br>
 
-_Sound Recordist. Scott’s ‘Terra Nova’ Hut Recording:_ Chris Watson
+_Sound Recordist. Scott’s ‘Terra Nova’ Hut Recording:_ Chris Watson<br>
 
-_Bass Clarinet:_ Sarah Scutt
+_Bass Clarinet:_ Sarah Scutt<br>
 
-_Vocals:_ Alexander L’Estrange
+_Vocals:_ Alexander L’Estrange<br>
 
 _Mac, Forester, all Pianos, Fender Rhodes, Standing Treatments and Edirol Life Recordings:_ SFT
 
 The score also includes a remix of NETWORK by SFT. This remix is by Rupert Lally and features  
-The Elysian Quartet
+The Elysian Quartet<br>
 
-_Produced by:_ SFT
+_Produced by:_ SFT<br>
 
-_Recorded and Mixed by:_ James Aparicio
+_Recorded and Mixed by:_ James Aparicio<br>
+<br>
 
-<![endif]-->
+**TO THE ENDS OF THE EARTH**<br>
 
-**TO THE ENDS OF THE EARTH**
+**Scott of the Antarctic**<br>
 
-**Scott of the Antarctic**
+Sun 2 Jan 12:30, Mon 24 Jan 18:00<br>
 
-Sun 2 Jan 12:30, Mon 24 Jan 18:00
+**The Conquest of Everest**<br>
 
-**The Conquest of Everest**
+Mon 3 Jan 16:10, Wed 12 Jan 20:40 (+ intro by explorer Mark Wood)<br>
 
-Mon 3 Jan 16:10, Wed 12 Jan 20:40 (+ intro by explorer Mark Wood)
+**The Great White Silence**<br>
 
-**The Great White Silence**
+Mon 3 Jan 18:20, Sun 23 Jan 12:10<br>
 
-Mon 3 Jan 18:20, Sun 23 Jan 12:10
+**Touching the Void**<br>
 
-**Touching the Void**
-
-Wed 5 Jan 20:30, Sun 23 Jan 18:30
+Wed 5 Jan 20:30, Sun 23 Jan 18:30<br>
 
 **The Fight for the Matterhorn  
-(Der Kampf ums Matterhorn)**
+(Der Kampf ums Matterhorn)**<br>
 
-Thu 6 Jan 18:00 (+ intro by BFI curator Bryony Dixon), Sun 23 Jan 15:20
+Thu 6 Jan 18:00 (+ intro by BFI curator Bryony Dixon), Sun 23 Jan 15:20<br>
 
-**The Red Tent (Krasnaya Palatka)**
+**The Red Tent (Krasnaya Palatka)**<br>
 
-Tue 11 Jan 18:00 (+ intro by BFI curator Simon McCallum), Sun 30 Jan 18:00
+Tue 11 Jan 18:00 (+ intro by BFI curator Simon McCallum), Sun 30 Jan 18:00<br>
 
 **YES & NO Salon: Exploration Now**
 
@@ -145,5 +144,5 @@ Simon Fisher Turner**
 
 Sat 29 Jan 19:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDQ4Njc5MF19
+eyJoaXN0b3J5IjpbLTE3OTExNDYxNTVdfQ==
 -->
