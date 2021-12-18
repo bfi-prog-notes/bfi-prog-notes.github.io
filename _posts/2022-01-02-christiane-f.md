@@ -19,26 +19,21 @@ Close-ups, it follows, have a specific function in the _mise-en-scène_ beyond t
 At the moment when the kids come back on the street after withdrawal, the film reaches its most overt formal crisis, unsure of its next move and having to choose between following the unstructured life-style of the ‘blank generation’ it has so successfully depicted earlier, or pursuing the convention of the Christiane/Detlef love story to some kind of conclusion. From this point, the movie revolves more round the theme of prostitution and strays dangerously close to moralising. Thankfully, it eschews a straight happy ending and leaves the situation open, simultaneously hopeful (Christiane’s ‘escape’) and cautious (Detlef’s continuing struggle).
 
 Given the extraordinary nature of the undertaking, the ‘lived-in’ research, and the casting of unknown, first-time actors, Edel may have been grateful for ‘the participation of David Bowie’ as some kind of advance box-office guarantee (although, in the event, Bowie contributes only a few numbers from his super-Aryan ‘Heroes/Helden’ era). Edel, a first-time director from German TV, has impressively mounted an anti-heroin movie that neither sensationalises  
-nor patronises.
+nor patronises.  
+**Martyn Auty, _Monthly Film Bulletin_, January 1982**
+<br><br>
 
-Martyn Auty, _Monthly Film Bulletin_, January 1982
-
-<![endif]-->
-
-**CHRISTIANE F. (WIR KINDER VOM BAHNHOF ZOO)**
-
+**CHRISTIANE F. <br>(WIR KINDER VOM BAHNHOF ZOO)**  
 _Director_: Ulrich Edel  
 _Production Companies_: Solaris Film, Maran-Film, Popular-Film, Hans H. Kaden, CLV Filmproduktion  
 _Producers_: Bernd Eichinger, Hans Weth  
 _Production Managers_: Peter Rothkopf, Edgar Hinz  
 _Production Supervisors_: Harald Muchametow, Sabine Eichinger  
-_Assistant Directors_: Petra Materne,  
-Babette Kirchhof  
+_Assistant Directors_: Petra Materne,  Babette Kirchhof  
 _Screenplay_: Herman Weigel  
 _Original book_: Kai Hermann, Horst Rieck  
 _Photography_: Justus Pankau, Jürgen Jürges  
-_Assistant Photographers_: Achim Poulheim,  
-Hans-Günther Bücking  
+_Assistant Photographers_: Achim Poulheim,  Hans-Günther Bücking  
 _Editor_: Jane Seitz  
 _Props_: Udo Gaidosch  
 _Costumes_: Myrella Bordt  
@@ -46,12 +41,10 @@ _Wardrobe_: Christel Braake
 _Make-up_: Colin Arthur  
 _Title Design_: Sickerts  
 _Music_: Jürgen Knieper  
-_Sound Recording_: Lothar Mankewitz,  
-Hieronymus Würden  
+_Sound Recording_: Lothar Mankewitz,  Hieronymus Würden  
 _Sound Re-recording_: Hans-Dieter Schwarz
 
-_Cast:_
-
+**Cast**  
 Natja Brunckhorst _(Christiane F.)_  
 Thomas Haustein _(Detlef)_  
 Jens Kuphal _(Axel)_  
@@ -73,9 +66,9 @@ Stanislaus Solotar _(Max the stammerer)_
 Eberhart Auriga _(other drug addict)_  
 David Bowie _(himself)_
 
-West Germany 1981
-
+West Germany 1981  
 131 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY0NDY3MzNdfQ==
+eyJoaXN0b3J5IjpbMTU5NDcwNzI5Nl19
 -->
