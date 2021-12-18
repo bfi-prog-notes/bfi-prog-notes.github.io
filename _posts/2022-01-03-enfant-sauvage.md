@@ -43,111 +43,62 @@ France 1958
 18 mins
 
 **L’ENFANT SAUVAGE (THE WILD CHILD)**<br>
-
 _Director:_ François Truffaut<br>
-
 ©: Les Films du Carrosse<br>
-
-_Production Companies:_ Les Films du Carrosse,
-
-Les Productions Artistes Associés<br>
-
+_Production Companies:_ Les Films du Carrosse, Les Productions Artistes Associés<br>
 _Presented by:_ Les Artistes Associés<br>
-
 _Producer:_ Marcel Berbert<br>
-
 _Associate Producer:_ Christian Lentretien<br>
-
 _Production Manager:_ Claude Miler<br>
-
 _Production Supervisor:_ Roland Thénot<br>
-
 _Assistant Director:_ Suzanne Schiffman<br>
-
 _Continuity:_ Christine Pellé<br>
-
-_Scenario/Adaptation /Dialogue:_  
-François Truffaut, Jean Gruault<br>
-
+_Scenario/Adaptation /Dialogue:_  François Truffaut, Jean Gruault<br>
 _Based on the memoir and conversations about Victor de l’Aveyron by:_ Dr Jean Itard<br>
-
 _Director of Photography:_ Nestor Almendros<br>
-
 _Assistant Photographer:_ Philippe Théaudière<br>
-
 _Editor:_ Agnès Guillemot<br>
-
 _Assistant Editor:_ Yann Dedet<br>
-
 _Art Director:_ Jean Mandaroux<br>
-
 _Properties:_ Jean-Claude Dolbert<br>
-
 _Costumes:_ Gitt Magrini<br>
-
 _Make-up:_ Nicole Félix<br>
-
 _Laboratory:_ Franay L.T.C. Saint-Cloud<br>
-
 _Music by:_ Antonio Vivaldi<br>
-
 _Mandolin Performed by:_ André Saint-Clivier<br>
-
 _Flute Performed by:_ Michel Sanvoisin<br>
-
 _Musical Director:_ Antoine Duhamel<br>
-
 _Sound:_ René Levert<br>
-
 _Sound Re-recording:_ SIS La Garenne<br>
-
 _Sound Mixer:_ Alex Pront<br>
-
 _For:_ Jean-Pierre Léaud<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Jean-Pierre Cargol _(Victor, the boy)_<br>
-
 Françoise Seigner _(Madame Guérin)_<br>
-
 François Truffaut _(Dr Jean Itard)_<br>
-
 Paul Villé _(Rémy)_<br>
-
 Pierre Fabre _(orderly)_<br>
-
 Jean Dasté _(Professor Pinel)_<br>
 
 _uncredited_<br>
-
 Claude Miller _(Monsieur Lémeri)_<br>
-
 Annie Miller _(Madame Lémeri)_<br>
-
 René Levert _(police official)_<br>
-
 Jean Mandaroux _(Itard’s doctor)_<br>
-
 Nathan Miller _(Lémeri baby)_<br>
-
 Matthieu Schiffman _(Mathieu)_<br>
-
 Jean Gruault _(visitor at institute)_<br>
-
 Robert Cambourakis _(countryman)_<br>
-
 Gitt Magrini _(countrywoman)_<br>
-
 Jean-François Stévenin _(countryman)_<br>
-
 Laura Truffaut, Eva Truffaut, Frédérique Dolbert _(girls at farm)_<br>
-
 Guillaume Schiffman, Eric Dolbert, Tournet Cargol _(boys at farm)_<br>
+Dominique Levert _(child at farm)_<br>
 
-Dominique Levert _(child at farm)_
-
-France 1969©, 83 mins
+France 1969©<br>
+83 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzg3OTM5Nl19
+eyJoaXN0b3J5IjpbLTEwNDQxODE3MzBdfQ==
 -->
