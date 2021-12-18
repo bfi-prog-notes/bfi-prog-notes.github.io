@@ -113,13 +113,10 @@ Sat 8 Jan 17:10, Fri 21 Jan 17:50, Sat 22 Jan 20:30, Wed 26 Jan 20:30<br>
 **Pocket Money (L’Argent de poche)**<br>
 Sat 8 Jan 20:55, Sat 29 Jan 18:00<br>
 **The Man Who Loved Women  (L’Homme qui aimait les femmes)**<br>
-
 Sun 9 Jan 18:20, Mon 24 Jan 20:40<br>
-
 **BFI Course: François Truffaut**<br>
-
 Every Tue from 18 Jan-22 Feb 18:30-20:30<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTI5MDAwMzJdfQ==
+eyJoaXN0b3J5IjpbMTAxMjI3MzgxMF19
 -->
