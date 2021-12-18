@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stolen Kisses + Antoine et Colette
+title: Stolen Kisses
 published: true
 date: 2022-01-01
 readtime: true
