@@ -132,7 +132,7 @@ From Fri 7 Jan<br>
 
 
 **In cultural partnership with**  
-<img style="float: left;" src="/img/institut-francais.jpg">
+<img style="float: left;" src="/img/institut-francais.jpg" width="40%" height="40%">
 <br><br><br><br><br><br><br><br><br>
 
 
