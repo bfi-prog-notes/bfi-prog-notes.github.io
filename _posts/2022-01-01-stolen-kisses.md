@@ -4,7 +4,7 @@ title: Stolen Kisses
 published: true
 date: 2022-01-01
 readtime: true
-categories: ['FRANÇOIS TRUFFAUT: FOR THE LOVE OF FILMS']
+categories: ['FRANÇOIS TRUFFAUT - FOR THE LOVE OF FILMS']
 tags: [Comedy, Drama]
 metadata: 'France 1968, 92 mins<br> Director: François Truffaut'
 pdf: '2022-01-01-stolen-kisses.pdf'
