@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Metropolis
+published: true
+date: 2022-01-02
+readtime: true
+categories: ['HOOKED TO THE SILVER SCREEN<br>BOWIE AT THE MOVIES']
+tags: [Sci-Fi]
+metadata: 'Germany 1927, 149 mins<br> Director: Fritz Lang'
+pdf: '2022-01-02-metropolis.pdf'
+---
 
 Urban Modernity, Berlin’s ‘Golden 20s’, the Cinematic City: no film evokes these clichés of the past century more vividly than _Metropolis_, Fritz Lang’s flawed masterpiece from 1926-7. Feeding on its own contradictions, this film classic has, from its own time to the present, trailed as many clouds of glory as frowns of disapproval. Lang’s fatal UFA suicide mission in the studio’s fierce battle with Hollywood became a monster-film the critics loved to hate. Some 60 years later, it took on the status of an _Ur-text_ of cinematic postmodernity, the epitome of a sensibility its authors probably would have disapproved of, and thus the archetype of a movie genre they could not have imagined, the sci-fi _noir_ disaster movie. Generally recognised as the fetish-image of all city and cyborg futures, the once dystopian _Metropolis_ now speaks of vitality and the body electric, fusing human and machine energy, its sleek figures animated more by high-voltage fluorescence than Expressionism’s dark demonic urges.
 
@@ -69,6 +79,48 @@ Germany 1927<br>
 
 The screening on Sun 30 Jan will feature a  live piano accompaniment.
 <br><br>
+
+**HOOKED TO THE SILVER SCREEN: BOWIE AT THE MOVIES**<br>
+**2001: A Space Odyssey**<br>
+Sat 1 Jan 14:20, Sun 23 Jan 18:00,  Wed 26 Jan 14:00, 17:30 (IMAX)<br>
+**Metropolis**<br>
+Sun 2 Jan 12:00, Tue 4 Jan 14:30, Sun 30 Jan 12:00 (with live piano accompaniment)<br>
+**A Clockwork Orange**<br>
+Mon 3 Jan 13:10, Wed 12 Jan 20:25,  Sun 23 Jan 15:00, Wed 26 Jan 20:40 (IMAX)<br>
+**Querelle**<br>
+Tue 4 Jan 20:20, Tue 18 Jan 18:00<br>
+**Taxi Driver**<br>
+Fri 7 Jan 18:00, Sun 16 Jan 18:20,  Thu 27 Jan 20:45<br>
+**The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) + Un chien andalou**<br>
+Sat 15 Jan 12:30 (+ Inside Cinema: David Bowie), Sat 22 Jan 15:15<br>
+<br>
+
+**In association with**  
+<img style="float: left;" src="/img/bowie-75.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+**Promotional partner**  
+<img style="float: left;" src="/img/brixton-brewery.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQyMjMzNjQzM119
 -->
