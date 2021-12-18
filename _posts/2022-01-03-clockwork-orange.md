@@ -63,146 +63,77 @@ _Assistant Editors:_ Gary Shepherd,  Peter Burgess, David Beesley<br>
 _Production Designer:_ John Barry<br>
 _Art Directors:_ Russell Hagg, Peter Sheilds<br>
 _Special Paintings/Sculptures:_ Herman Makkink, Cornelius Makkink, Liz Moore, Christiane Kubrick<br>
-
 _Prop Master:_ Frank Bruton<br>
-
-_Propmen:_ Peter Hancock, Tommy Ibbetson,
-
-John Oliver<br>
-
+_Propmen:_ Peter Hancock, Tommy Ibbetson, John Oliver<br>
 _Construction Manager:_ Bill Welch<br>
-
 _Costume Designer:_ Milena Canonero<br>
-
 _Wardrobe Supervisor:_ Ron Beck<br>
-
 _Make-up:_ Fred Williamson, George Partleton, Barbara Daly<br>
-
 _Hairdresser:_ Olga Angelinetta<br>
-
-_Consultant on Hair and Colouring:_  
-Leonard of London<br>
-
-_Electronic Music Composed/Realised by:_  
-Walter Carlos<br>
-
+_Consultant on Hair and Colouring:_  Leonard of London<br>
+_Electronic Music Composed/Realised by:_  Walter Carlos<br>
 _Sound Recordist:_ John Jordan<br>
-
 _Boom Operator:_ Peter Glossop<br>
-
 _Dubbing Mixers:_ Bill Rowe, Eddie Haben<br>
-
 _Sound Editor:_ Brian Blamey<br>
-
 _Technical Adviser:_ Jon Marshall<br>
-
 _Stunt Arranger:_ Roy Scammell<br>
-
 _Promotion Co-ordinator:_ Michael Kaplan<br>
+_Studios:_ Pinewood Studios,  EMI-MGM Elstree Studios<br>
 
-_Studios:_ Pinewood Studios,  
-EMI-MGM Elstree Studios<br>
-
-_Cast:_<br>
-
+**Cast**<br>
 Malcolm McDowell _(Alex DeLarge)_<br>
-
 Patrick Magee _(Frank Alexander)_<br>
-
 Michael Bates _(chief guard)_<br>
-
 Warren Clarke _(Dim)_<br>
-
 John Clive _(stage actor)_<br>
-
 Adrienne Corri _(Mrs Alexander)_<br>
-
 Carl Duering _(Dr Brodsky)_<br>
-
 Paul Farrell _(tramp)_<br>
-
 Clive Francis _(Joe, the lodger)_<br>
-
 Michael Gover _(prison governor)_<br>
-
 Miriam Karlin _(cat lady)_<br>
-
 James Marcus _(Georgie)_<br>
-
 Aubrey Morris _(Deltoid, P.R.)_<br>
-
 Godfrey Quigley _(prison chaplain)_<br>
-
 Sheila Raynor _(Em, mum)_<br>
-
 Madge Ryan _(Dr Branom)_<br>
-
 John Savident _(Dolin, conspirator)_<br>
-
 Anthony Sharp _(minister of interior)_<br>
-
 Philip Stone _(Pee, dad)_<br>
-
 Pauline Taylor _(psychiatrist)_<br>
-
 Margaret Tyzack _(Rubinstein, conspirator)_<br>
-
 Steven Berkoff _(constable)_<br>
-
 Lindsay Campbell _(inspector)_<br>
-
 Michael Tarn _(Pete)_<br>
-
 David Prowse _(Julian)_<br>
-
 Barrie Cookson<br>
-
 Jan Adair _(handmaiden)_<br>
-
 Gaye Brown<br>
-
 Peter Burton<br>
-
 John J. Carney _(C.I.D. man)_<br>
-
 Vivienne Chandler _(handmaiden)_<br>
-
 Richard Connaught _(Billyboy)_<br>
-
 Prudence Drage _(handmaiden)_<br>
-
 Carol Drinkwater _(Nurse Feeley)_<br>
-
 Lee Fox<br>
-
 Cheryl Grunwald _(rape girl)_<br>
-
 Gillian Hills _(Sonietta)_<br>
-
 Craig Hunter _(Dr Friendly)_<br>
-
 Shirley Jaffe<br>
-
 Virginia Wetherell _(stage actress)_<br>
-
 Neil Wilson<br>
-
 Katya Wyeth _(girl in Ascot fantasy)_<br>
-
 Barbara Scott _(Marty)_ *<br>
-
 George O’Gorman _(Bootick clerk)_ *<br>
-
 Pat Roach, Robert Bruce _(milkbar bouncers)_ *<br>
-
 Steven Counterman _(running teenager)_ *<br>
 
 USA/UK 1971©<br>
-
 136 mins
 
 * Uncredited
 * <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDg5OTUyMDZdfQ==
+eyJoaXN0b3J5IjpbLTcwMzA4NDg1Ml19
 -->
