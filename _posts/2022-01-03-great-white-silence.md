@@ -26,80 +26,45 @@ I went to school near Plymouth and have a great love of the sea. I still have a 
 <br><br>
 
 **THE GREAT WHITE SILENCE**<br>
-
 _Director:_ Herbert Ponting<br>
-
 UK 1924<br>
-
 108 mins
 
 Restoration supported by the  
 Eric Anker-Petersen Charity
 
 _BFI National Archive_<br>
-
 _Curator:_ Bryony Dixon<br>
-
-_Restoration Supervised by:_ Kieron Webb,
-
-David Gurney, Angelo Lucatello, Peter Marshall<br>
-
-_Film Lab and Optical Effects:_ Richard Cory,
-
-Ian Lawman, Rick Pearce, Phil Sheward,
-
-Chris Stenner
+_Restoration Supervised by:_ Kieron Webb, David Gurney, Angelo Lucatello, Peter Marshall<br>
+_Film Lab and Optical Effects:_ Richard Cory, Ian Lawman, Rick Pearce, Phil Sheward, Chris Stenner
 
 _Deluxe Digital_<br>
-
 _Colourist:_ Steve Bearman<br>
+_Restoration:_ Matt Watson, Neil Stenhouse, Tom Wiltshire, Clayton Baker, David Burt<br>
+_Film Scanning and Recording:_  Paul Doogan, Bob Roach<br>
+_Technical Production:_ Jonathan Dixon,  John Pegg, Richard Fish
 
-_Restoration:_ Matt Watson, Neil Stenhouse,
-
-Tom Wiltshire, Clayton Baker, David Burt<br>
-
-_Film Scanning and Recording:_  
-Paul Doogan, Bob Roach<br>
-
-_Technical Production:_ Jonathan Dixon,  
-John Pegg, Richard Fish
-
-_Thanks to:_ Elif Rongen, Catherine Cormon,  
-Mark-Paul Meyer (EYE Film Institute, Netherlands) Michael Harvey (National Media Museum),  
+_Thanks to:_ Elif Rongen, Catherine Cormon,  Mark-Paul Meyer (EYE Film Institute, Netherlands) Michael Harvey (National Media Museum),  
 Dr Elizabeth Watkins (Victoria University of Wellington), Brian Prichard
 
 With special thanks to the Eric Anker-Peterson Charity and the Scott Polar Research Institute
 
 _Music by:_ Simon Fisher Turner<br>
-
 _Strings:_ The Elysian Quartet<br>
-
 _Musical Saw, Bones:_ David Coulter<br>
-
 _Sound Recordist. Scott’s ‘Terra Nova’ Hut Recording:_ Chris Watson<br>
-
 _Bass Clarinet:_ Sarah Scutt<br>
-
 _Vocals:_ Alexander L’Estrange<br>
-
-_Mac, Forester, all Pianos, Fender Rhodes, Standing Treatments and Edirol Life Recordings:_ SFT
-
-The score also includes a remix of NETWORK by SFT. This remix is by Rupert Lally and features  
-The Elysian Quartet<br>
-
+_Mac, Forester, all Pianos, Fender Rhodes, Standing Treatments and Edirol Life Recordings:_ SFT<br>
+The score also includes a remix of NETWORK by SFT. This remix is by Rupert Lally and features  The Elysian Quartet<br>
 _Produced by:_ SFT<br>
-
 _Recorded and Mixed by:_ James Aparicio<br>
 <br>
 
 **TO THE ENDS OF THE EARTH**<br>
-
 **Scott of the Antarctic**<br>
-
 Sun 2 Jan 12:30, Mon 24 Jan 18:00<br>
-
 **The Conquest of Everest**<br>
-
 Mon 3 Jan 16:10, Wed 12 Jan 20:40 (+ intro by explorer Mark Wood)<br>
 
 **The Great White Silence**<br>
@@ -119,30 +84,31 @@ Thu 6 Jan 18:00 (+ intro by BFI curator Bryony Dixon), Sun 23 Jan 15:20<br>
 
 Tue 11 Jan 18:00 (+ intro by BFI curator Simon McCallum), Sun 30 Jan 18:00<br>
 
-**YES & NO Salon: Exploration Now**
+**YES & NO Salon: Exploration Now**<br>
 
-Wed 12 Jan 18:30
+Wed 12 Jan 18:30<br>
 
-**Encounters at the End of the World**
+**Encounters at the End of the World**<br>
 
-Sat 15 Jan 15:00, Tue 25 Jan 20:30
+Sat 15 Jan 15:00, Tue 25 Jan 20:30<br>
 
-**Talk: Silent Cinema: Intrepid Women**
+**Talk: Silent Cinema: Intrepid Women**<br>
 
-Sun 16 Jan 15:30
+Sun 16 Jan 15:30<br>
 
-**To the Ends of the Earth: The Transglobe Expedition + Q&A with Ranulph Fiennes**
+**To the Ends of the Earth: The Transglobe Expedition + Q&A with Ranulph Fiennes**<br>
 
-Tue 18 Jan 17:45
+Tue 18 Jan 17:45<br>
 
-**Antarctic Crossings: Postwar shorts + intro by BFI curator Patrick Russell**
+**Antarctic Crossings: Postwar shorts + intro by BFI curator Patrick Russell**<br>
 
-Tue 25 Jan 18:00
+Tue 25 Jan 18:00<br>
 
 **The Epic of Everest + live score by  
-Simon Fisher Turner**
+Simon Fisher Turner**<br>
 
-Sat 29 Jan 19:00
+Sat 29 Jan 19:00<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTExNDYxNTVdfQ==
+eyJoaXN0b3J5IjpbLTEwMDgyOTIyNDVdfQ==
 -->
