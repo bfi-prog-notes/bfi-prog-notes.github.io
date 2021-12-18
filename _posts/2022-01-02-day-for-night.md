@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Day for Night
+published: true
+date: 2022-01-02
+readtime: true
+categories: ['FRANÇOIS TRUFFAUT<br>FOR THE LOVE OF FILMS']
+tags: [Comedy, Drama]
+metadata: 'France/Italy 1973, 116 mins<br> Director: François Truffaut'
+pdf: '2022-01-02-day-for-night.pdf'
+---
 
 **SPOILER WARNING  The following notes give away some of the plot.**
 
@@ -20,8 +30,7 @@ It takes the death of the character played by Aumont in a car accident to rally 
 
 After the release of _La Nuit américaine_ Truffaut defended the film within the film, claiming a nostalgia for films that are not afraid to tell a story and that have no qualms about being melodramatic. Indeed he also said that if anything ‘profound’ is in the film he preferred to think it had got there in spite of him.
 
-The most revealing of Truffaut’s comments about cinematic mayonnaise is:  
-‘An idiotic but energetic film can be better cinema than an intelligent but flabby film’, because it shows his overriding concern for what he called ‘dynamic’ films. Of course he would have preferred to make intelligent films that were energetic, but it is interesting that he says ‘better cinema’ rather than more successful. This makes his definition of good cinema dependent on energy rather than intelligence.
+The most revealing of Truffaut’s comments about cinematic mayonnaise is:  ‘An idiotic but energetic film can be better cinema than an intelligent but flabby film’, because it shows his overriding concern for what he called ‘dynamic’ films. Of course he would have preferred to make intelligent films that were energetic, but it is interesting that he says ‘better cinema’ rather than more successful. This makes his definition of good cinema dependent on energy rather than intelligence.
 
 With _La Nuit américaine_ he need not have worried, but worry he did, as always. In a letter to Jean Hugo in April 1973 he wrote that he had just completed a particularly difficult film. Perhaps it was caution that made him decide to offer the film for the opening at Cannes rather than enter it in competition, but I prefer to believe it was an instinctive decision, made in the knowledge that such a celebration of cinema could not fail to please in that context.
 
@@ -31,9 +40,7 @@ The triumph was to continue, reaching its zenith in Hollywood where Truffaut rec
 
 The story back home was, however, rather different; both publicly and privately. When released in Paris the critics were full of praise, forgetting the failure of Truffaut’s two previous films: _Deux Anglaises et le Continent_ (1971) and _Une belle fille comme moi_ (1972). Although there were 300,000 admissions in Paris, the response in the provinces was only lukewarm.
 
-Industry pundits felt that the man in the street imagined it to be either a documentary on the cinema or an overtly intellectual film. The idea of the film within the film was a conceit which, it was felt, would put many people off.  
-The publicity had subsequently to drop all mention of ‘story of a shoot’.  
-Even the title was a problem and the preferred approach to publicity was summed up by ‘A Franco-Hollywood night of love between Jean-Pierre Léaud and Jacqueline Bisset’.  
+Industry pundits felt that the man in the street imagined it to be either a documentary on the cinema or an overtly intellectual film. The idea of the film within the film was a conceit which, it was felt, would put many people off.  The publicity had subsequently to drop all mention of ‘story of a shoot’.  Even the title was a problem and the preferred approach to publicity was summed up by ‘A Franco-Hollywood night of love between Jean-Pierre Léaud and Jacqueline Bisset’.  
 **Extracted from _La Nuit américaine_ _(Day for Night)_ by Roger Crittenden (BFI Film Classics, 1998).  Reproduced by kind permission of Bloomsbury Publishing. ©Roger Crittenden**
 <br><br>
 
@@ -117,6 +124,34 @@ Sun 9 Jan 18:20, Mon 24 Jan 20:40<br>
 **BFI Course: François Truffaut**<br>
 Every Tue from 18 Jan-22 Feb 18:30-20:30<br>
 <br>
+
+**In cultural partnership with**  
+<img style="float: left;" src="/img/institut-francais.jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+
+**Promotional partner**  
+<img style="float: left;" src="/img/brasserie-blanc.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTAxMjI3MzgxMF19
 -->
