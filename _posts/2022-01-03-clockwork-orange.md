@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: A Clockwork Orange
+published: true
+date: 2022-01-03
+readtime: true
+categories: ['HOOKED TO THE SILVER SCREEN<br>BOWIE AT THE MOVIES']
+tags: [Drama]
+metadata: 'USA/UK 1971, 136 mins<br> Director: Stanley Kubrick'
+pdf: '2022-01-03-clockwork-orange.pdf'
+---
 
 In the week that _A Clockwork Orange_ first lurched into UK cinemas in January 1972, the song dominating the top of the charts was The New Seekers’ ‘I’d Like to Teach the World to Sing’, an ode to multicultural peace and harmony that had begun life as a jingle for the Coca Cola company. Sold off the back of the drink’s famous ‘hilltop’ commercial, the song was the era-perfect synthesis of hippie idealism, MOR square culture and corporatised good vibrations.
 
@@ -132,8 +142,48 @@ Steven Counterman _(running teenager)_ *<br>
 USA/UK 1971©<br>
 136 mins
 
-* Uncredited
-* <br><br>
+* Uncredited*<br><br>
+
+**HOOKED TO THE SILVER SCREEN: BOWIE AT THE MOVIES**<br>
+**2001: A Space Odyssey**<br>
+Sat 1 Jan 14:20, Sun 23 Jan 18:00,  Wed 26 Jan 14:00, 17:30 (IMAX)<br>
+**Metropolis**<br>
+Sun 2 Jan 12:00, Tue 4 Jan 14:30, Sun 30 Jan 12:00 (with live piano accompaniment)<br>
+**A Clockwork Orange**<br>
+Mon 3 Jan 13:10, Wed 12 Jan 20:25,  Sun 23 Jan 15:00, Wed 26 Jan 20:40 (IMAX)<br>
+**Querelle**<br>
+Tue 4 Jan 20:20, Tue 18 Jan 18:00<br>
+**Taxi Driver**<br>
+Fri 7 Jan 18:00, Sun 16 Jan 18:20,  Thu 27 Jan 20:45<br>
+**The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) + Un chien andalou**<br>
+Sat 15 Jan 12:30 (+ Inside Cinema: David Bowie), Sat 22 Jan 15:15<br>
+<br>
+
+**In association with**  
+<img style="float: left;" src="/img/bowie-75.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+**Promotional partner**  
+<img style="float: left;" src="/img/brixton-brewery.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTcwMzA4NDg1Ml19
 -->
