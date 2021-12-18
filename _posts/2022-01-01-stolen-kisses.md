@@ -4,7 +4,7 @@ title: Stolen Kisses
 published: true
 date: 2022-01-01
 readtime: true
-categories: ['FRANÇOIS TRUFFAUT FOR THE LOVE OF FILMS']
+categories: ['FRANÇOIS TRUFFAUT: FOR THE LOVE OF FILMS']
 tags: [Comedy, Drama]
 metadata: 'France 1968, 92 mins<br> Director: François Truffaut'
 pdf: '2022-01-01-stolen-kisses.pdf'
@@ -129,6 +129,17 @@ Mon 3 Jan 13:00, Thu 13 Jan 20:45,  Wed 19 Jan 14:30<br>
 Wed 5 Jan 20:40, Sat 15 Jan 15:30,  Mon 31 Jan 20:40<br>
 **The 400 Blows (Les Quatre cents coups)**<br>
 From Fri 7 Jan<br>
+
+
+**In cultural partnership with**  
+<img style="float: left;" src="/img/institut-francais.jpg">
+<br><br><br><br><br><br><br><br><br>
+
+
+**Promotional partner**  
+<img style="float: left;" src="/img/brasserie-blanc.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
