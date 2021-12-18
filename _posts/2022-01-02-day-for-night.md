@@ -38,158 +38,81 @@ Even the title was a problem and the preferred approach to publicity was summed 
 <br><br>
 
 **DAY FOR NIGHT (LA NUIT AMÉRICAINE)**<br>
-
 _Director:_ François Truffaut<br>
-
 ©: Les Films du Carrosse<br>
-
-_A co-production:_ Les Films du Carrosse,  
-P.E.C.F. (Paris), P.I.C. (Rome)<br>
-
+_A co-production:_ Les Films du Carrosse,  P.E.C.F. (Paris), P.I.C. (Rome)<br>
 _Unit Managers:_ Roland Thénot, Alex Maineri<br>
-
-_Production Managers:_ Marcel Berbert,  
-Claude Miller<br>
-
+_Production Managers:_ Marcel Berbert,  Claude Miller<br>
 _Production Administrator:_ Christian Lentretien<br>
-
 _Assistant Director:_ Suzanne Schiffman<br>
-
 _2nd Assistant Director:_ Jean-François Stévenin<br>
-
 _Script Girl:_ Christine Pellé<br>
-
-_Original Screenplay:_ François Truffaut,
-
-Jean-Louis Richard, Suzanne Schiffman<br>
-
+_Original Screenplay:_ François Truffaut, Jean-Louis Richard, Suzanne Schiffman<br>
 _Director of Photography:_ Pierre-William Glenn<br>
-
 _Camera Operator:_ Walter Bal<br>
-
-_Assistant Camera:_ Dominique Chapuis,
-
-Jean-Francis Gondre<br>
-
+_Assistant Camera:_ Dominique Chapuis, Jean-Francis Gondre<br>
 _Editors:_ Yann Dedet, Martine Barraque<br>
-
 _Art Director:_ Damien Lanfranchi<br>
-
 _Costumes:_ Monique Dury<br>
-
 _Make-up:_ Fernande Hugi, Thi-Loan N’Guyen<br>
-
 _Hairdresser:_ Malou Rossignol<br>
-
 _Titles:_ CTR<br>
-
 _Laboratory:_ GTC<br>
-
 _Colour by:_ Eastmancolor<br>
-
 _Music:_ Georges Delerue<br>
-
 _Sound Recording:_ René Levert, Harrik Maury<br>
-
 _Sound Mixer:_ Antoine Bonfanti<br>
-
-_Sound Studio:_  
-Paris Studio Cinéma (Studios de Billancourt)<br>
-
+_Sound Studio:_  Paris Studio Cinéma (Studios de Billancourt)<br>
 _Studio:_ Les Studios de la Victorine (Nice)<br>
 
 _uncredited_<br>
+_Publicity:_ Hunt Downs, Andy Pilgrim,  Christine Brièrre<br>
 
-_Publicity:_ Hunt Downs, Andy Pilgrim,  
-Christine Brièrre<br>
-
-_Cast:_<br>
-
+**Cast**<br>
 Jacqueline Bisset _(Julie Baker, the star)_<br>
-
 Valentina Cortese _(Séverine)_<br>
-
 Dani _(Liliane, the script girl)_<br>
-
 Alexandra Stewart _(Stacey)_<br>
-
 Jean-Pierre Aumont _(Alexandre)_<br>
-
 Jean Champion _(Bertrand, the producer)_<br>
-
 Jean-Pierre Léaud _(Alphonse)_<br>
-
 François Truffaut _(Ferrand, the director)_<br>
-
 Nike Arrighi _(Odile, the costumer)_<br>
-
 Nathalie Baye _(Joelle, the assistant)_<br>
-
 Maurice Séveno _(TV reporter)_<br>
-
 David Markham _(Dr Michael Nelson)_<br>
-
 Bernard Menez _(Bernard, the prop man)_<br>
-
 Gaston Joly _(Lajoie)_<br>
-
 Zenaïde Rossi _(Mme Lajoie)_<br>
-
 Xavier Macary<br>
-
 Marc Boyle<br>
-
 Walter Bal _(W. William, the cameraman)_<br>
-
 Jean-François Stévenin<br>
-
 Pierre Zucca _(stills photographer)_<br>
 
 _uncredited_<br>
-
 Christophe Vesque _(boy in dream)_<br>
-
-Graham Greene  
-_(Johanson, insurance representative)_<br>
-
+Graham Greene  _(Johanson, insurance representative)_<br>
 Marcel Berbert _(2nd insurance representative)_<br>
-
 Georges Delerue _(composer’s voice on phone)_<br>
-
 Yann Dedet _(Yann, the editor)_<br>
 
 France/Italy 1973©<br>
-
 116 mins
 <br><br>
 
 **THE RENOIR TRUFFAUT**<br>
-
-**Une belle fille comme moi  
-(A Gorgeous Kid like Me)**<br>
-
+**Une belle fille comme moi  (A Gorgeous Kid like Me)**<br>
 Sat 1 Jan 20:40, Tue 4 Jan 20:40, Sat 22 Jan 18:10<br>
-
 **Day for Night (La Nuit américaine)**<br>
-
 Sun 2 Jan 18:30, Fri 7 Jan 18:10, Sat 15 Jan 20:45, Tue 25 Jan 20:45<br>
-
-**L’Enfant sauvage (The Wild Child)  
-+ Une histoire d’eau**<br>
-
-Mon 3 Jan 18:10, Mon 10 Jan 20:40,  
-Mon 24 Jan 18:10<br>
-
+**L’Enfant sauvage (The Wild Child)  + Une histoire d’eau**<br>
+Mon 3 Jan 18:10, Mon 10 Jan 20:40,  Mon 24 Jan 18:10<br>
 **The Last Metro (Le Dernier metro)**<br>
-
 Sat 8 Jan 17:10, Fri 21 Jan 17:50, Sat 22 Jan 20:30, Wed 26 Jan 20:30<br>
-
 **Pocket Money (L’Argent de poche)**<br>
-
 Sat 8 Jan 20:55, Sat 29 Jan 18:00<br>
-
-**The Man Who Loved Women  
-(L’Homme qui aimait les femmes)**<br>
+**The Man Who Loved Women  (L’Homme qui aimait les femmes)**<br>
 
 Sun 9 Jan 18:20, Mon 24 Jan 20:40<br>
 
@@ -198,5 +121,5 @@ Sun 9 Jan 18:20, Mon 24 Jan 20:40<br>
 Every Tue from 18 Jan-22 Feb 18:30-20:30<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjcyMDA4NF19
+eyJoaXN0b3J5IjpbLTE2OTI5MDAwMzJdfQ==
 -->
