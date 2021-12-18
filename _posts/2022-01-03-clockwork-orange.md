@@ -29,215 +29,180 @@ David Bowie was also taking fashion tips. Before even seeing the film itself, he
 <br><br>
 
 **A CLOCKWORK ORANGE**<br>
-
 _Directed by:_ Stanley Kubrick<br>
-
 ©: Warner Bros, Inc., Polaris Productions<br>
-
 _Presented by:_ Warner Bros.<br>
-
 _Made on Location by:_ Hawk Films<br>
-
 _Executive Producers:_ Max L. Raab, Si Litvinoff<br>
-
 _Produced by:_ Stanley Kubrick<br>
-
 _Associate Producer:_ Bernard Williams<br>
-
 _Production Accountant:_ Len Barnard<br>
-
 _Unit Production Manager:_ Eddie Frewin *<br>
-
 _Location Manager:_ Terence Clegg<br>
-
 _Location Liaison:_ Arthur Morgan<br>
-
 _Production Assistant:_ Andros Epaminondas<br>
-
 _Production Assistant:_ Margaret Adams *<br>
-
 _Assistant to the Producer:_ Jan Harlan<br>
-
 _Production Secretary:_ Loretta Ordewer<br>
-
 _Director’s Secretary:_ Kay Johnson<br>
-
-_Assistant Directors:_ Derek Cracknell,  
-Dusty Symonds<br>
-
+_Assistant Directors:_ Derek Cracknell,  Dusty Symonds<br>
 _Continuity:_ June Randall<br>
-
 _Casting:_ Jimmy Liggat<br>
-
 _Screenplay by:_ Stanley Kubrick<br>
-
 _Based on the novel by:_ Anthony Burgess<br>
-
 _Lighting Cameraman:_ John Alcott<br>
-
 _Additional Photography:_ Stanley Kubrick *<br>
-
 _Camera Operators:_ Ernie Day, Mike Molloy<br>
-
 _Focus Puller:_ Ron Drinkwater<br>
-
 _Camera Assistants:_ Laurie Frost, David Lenham<br>
-
 _Grips:_ Don Budge, Tony Cridlin<br>
-
 _Supervising Electrician:_ Frank Wardale<br>
-
 _Electricians:_ Louis Bogue, Derek Gatrell<br>
-
 _Editor:_ Bill Butler<br>
-
-_Assistant Editors:_ Gary Shepherd,  
-Peter Burgess, David Beesley<br>
-
+_Assistant Editors:_ Gary Shepherd,  Peter Burgess, David Beesley<br>
 _Production Designer:_ John Barry<br>
-
 _Art Directors:_ Russell Hagg, Peter Sheilds<br>
-
 _Special Paintings/Sculptures:_ Herman Makkink, Cornelius Makkink, Liz Moore, Christiane Kubrick<br>
 
-_Prop Master:_ Frank Bruton
+_Prop Master:_ Frank Bruton<br>
 
 _Propmen:_ Peter Hancock, Tommy Ibbetson,
 
-John Oliver
+John Oliver<br>
 
-_Construction Manager:_ Bill Welch
+_Construction Manager:_ Bill Welch<br>
 
-_Costume Designer:_ Milena Canonero
+_Costume Designer:_ Milena Canonero<br>
 
-_Wardrobe Supervisor:_ Ron Beck
+_Wardrobe Supervisor:_ Ron Beck<br>
 
-_Make-up:_ Fred Williamson, George Partleton, Barbara Daly
+_Make-up:_ Fred Williamson, George Partleton, Barbara Daly<br>
 
-_Hairdresser:_ Olga Angelinetta
+_Hairdresser:_ Olga Angelinetta<br>
 
 _Consultant on Hair and Colouring:_  
-Leonard of London
+Leonard of London<br>
 
 _Electronic Music Composed/Realised by:_  
-Walter Carlos
+Walter Carlos<br>
 
-_Sound Recordist:_ John Jordan
+_Sound Recordist:_ John Jordan<br>
 
-_Boom Operator:_ Peter Glossop
+_Boom Operator:_ Peter Glossop<br>
 
-_Dubbing Mixers:_ Bill Rowe, Eddie Haben
+_Dubbing Mixers:_ Bill Rowe, Eddie Haben<br>
 
-_Sound Editor:_ Brian Blamey
+_Sound Editor:_ Brian Blamey<br>
 
-_Technical Adviser:_ Jon Marshall
+_Technical Adviser:_ Jon Marshall<br>
 
-_Stunt Arranger:_ Roy Scammell
+_Stunt Arranger:_ Roy Scammell<br>
 
-_Promotion Co-ordinator:_ Michael Kaplan
+_Promotion Co-ordinator:_ Michael Kaplan<br>
 
 _Studios:_ Pinewood Studios,  
-EMI-MGM Elstree Studios
+EMI-MGM Elstree Studios<br>
 
-_Cast:_
+_Cast:_<br>
 
-Malcolm McDowell _(Alex DeLarge)_
+Malcolm McDowell _(Alex DeLarge)_<br>
 
-Patrick Magee _(Frank Alexander)_
+Patrick Magee _(Frank Alexander)_<br>
 
-Michael Bates _(chief guard)_
+Michael Bates _(chief guard)_<br>
 
-Warren Clarke _(Dim)_
+Warren Clarke _(Dim)_<br>
 
-John Clive _(stage actor)_
+John Clive _(stage actor)_<br>
 
-Adrienne Corri _(Mrs Alexander)_
+Adrienne Corri _(Mrs Alexander)_<br>
 
-Carl Duering _(Dr Brodsky)_
+Carl Duering _(Dr Brodsky)_<br>
 
-Paul Farrell _(tramp)_
+Paul Farrell _(tramp)_<br>
 
-Clive Francis _(Joe, the lodger)_
+Clive Francis _(Joe, the lodger)_<br>
 
-Michael Gover _(prison governor)_
+Michael Gover _(prison governor)_<br>
 
-Miriam Karlin _(cat lady)_
+Miriam Karlin _(cat lady)_<br>
 
-James Marcus _(Georgie)_
+James Marcus _(Georgie)_<br>
 
-Aubrey Morris _(Deltoid, P.R.)_
+Aubrey Morris _(Deltoid, P.R.)_<br>
 
-Godfrey Quigley _(prison chaplain)_
+Godfrey Quigley _(prison chaplain)_<br>
 
-Sheila Raynor _(Em, mum)_
+Sheila Raynor _(Em, mum)_<br>
 
-Madge Ryan _(Dr Branom)_
+Madge Ryan _(Dr Branom)_<br>
 
-John Savident _(Dolin, conspirator)_
+John Savident _(Dolin, conspirator)_<br>
 
-Anthony Sharp _(minister of interior)_
+Anthony Sharp _(minister of interior)_<br>
 
-Philip Stone _(Pee, dad)_
+Philip Stone _(Pee, dad)_<br>
 
-Pauline Taylor _(psychiatrist)_
+Pauline Taylor _(psychiatrist)_<br>
 
-Margaret Tyzack _(Rubinstein, conspirator)_
+Margaret Tyzack _(Rubinstein, conspirator)_<br>
 
-Steven Berkoff _(constable)_
+Steven Berkoff _(constable)_<br>
 
-Lindsay Campbell _(inspector)_
+Lindsay Campbell _(inspector)_<br>
 
-Michael Tarn _(Pete)_
+Michael Tarn _(Pete)_<br>
 
-David Prowse _(Julian)_
+David Prowse _(Julian)_<br>
 
-Barrie Cookson
+Barrie Cookson<br>
 
-Jan Adair _(handmaiden)_
+Jan Adair _(handmaiden)_<br>
 
-Gaye Brown
+Gaye Brown<br>
 
-Peter Burton
+Peter Burton<br>
 
-John J. Carney _(C.I.D. man)_
+John J. Carney _(C.I.D. man)_<br>
 
-Vivienne Chandler _(handmaiden)_
+Vivienne Chandler _(handmaiden)_<br>
 
-Richard Connaught _(Billyboy)_
+Richard Connaught _(Billyboy)_<br>
 
-Prudence Drage _(handmaiden)_
+Prudence Drage _(handmaiden)_<br>
 
-Carol Drinkwater _(Nurse Feeley)_
+Carol Drinkwater _(Nurse Feeley)_<br>
 
-Lee Fox
+Lee Fox<br>
 
-Cheryl Grunwald _(rape girl)_
+Cheryl Grunwald _(rape girl)_<br>
 
-Gillian Hills _(Sonietta)_
+Gillian Hills _(Sonietta)_<br>
 
-Craig Hunter _(Dr Friendly)_
+Craig Hunter _(Dr Friendly)_<br>
 
-Shirley Jaffe
+Shirley Jaffe<br>
 
-Virginia Wetherell _(stage actress)_
+Virginia Wetherell _(stage actress)_<br>
 
-Neil Wilson
+Neil Wilson<br>
 
-Katya Wyeth _(girl in Ascot fantasy)_
+Katya Wyeth _(girl in Ascot fantasy)_<br>
 
-Barbara Scott _(Marty)_ *
+Barbara Scott _(Marty)_ *<br>
 
-George O’Gorman _(Bootick clerk)_ *
+George O’Gorman _(Bootick clerk)_ *<br>
 
-Pat Roach, Robert Bruce _(milkbar bouncers)_ *
+Pat Roach, Robert Bruce _(milkbar bouncers)_ *<br>
 
-Steven Counterman _(running teenager)_ *
+Steven Counterman _(running teenager)_ *<br>
 
-USA/UK 1971©
+USA/UK 1971©<br>
 
 136 mins
 
 * Uncredited
+* <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjU1NzA1Ml19
+eyJoaXN0b3J5IjpbLTE0NDg5OTUyMDZdfQ==
 -->
