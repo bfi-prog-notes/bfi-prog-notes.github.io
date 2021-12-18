@@ -32,7 +32,7 @@ nor patronises.
 **Martyn Auty, _Monthly Film Bulletin_, January 1982**
 <br><br>
 
-**CHRISTIANE F. <br>(WIR KINDER VOM BAHNHOF ZOO)**  
+**CHRISTIANE F.<br>(WIR KINDER VOM BAHNHOF ZOO)**  
 _Director_: Ulrich Edel  
 _Production Companies_: Solaris Film, Maran-Film, Popular-Film, Hans H. Kaden, CLV Filmproduktion  
 _Producers_: Bernd Eichinger, Hans Weth  
