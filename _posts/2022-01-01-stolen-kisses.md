@@ -30,147 +30,79 @@ Now 16, Antoine (Leáud) works for a record company and frequents classical conc
 <br><br>
 
 **ANTOINE ET COLETTE**<br>
-
 (episode of _L’Amour à vingt ans)_<br>
-
 _Director:_ François Truffaut<br>
-
 _Production Company:_ Ulysse Productions<br>
-
 _Scenario:_ François Truffaut<br>
-
 _Director of Photography:_ Raoul Coutard<br>
-
 _Editor:_ Claudine Bouché<br>
-
 _Music:_ Georges Delerue<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Henri Serre _(narrator)_<br>
-
 Jean-Pierre Léaud _(Antoine Doinel)_<br>
-
 Marie-France Pisier _(Colette)_<br>
-
 Patrick Auffay _(René)_<br>
-
 Rosy Varte _(Colette’s mother)_<br>
-
 François Darbon _(Colette’s stepfather)_<br>
-
 Jean-François Adam _(Albert Tazzi)_<br>
 
 France 1962<br>
-
 31 mins
 
 **STOLEN KISSES (BAISERS VOLÉS)**<br>
-
 _Director:_ François Truffaut<br>
-
 _©:_ Les Films du Carrosse S.A.<br>
-
-_Production Companies:_ Les Films du Carrosse,  
-Les Productions Artistes Associés<br>
-
+_Production Companies:_ Les Films du Carrosse,  Les Productions Artistes Associés<br>
 _Producer:_ Marcel Berbert<br>
-
 _Production Manager:_ Claude Miller<br>
-
 _Assistant Director:_ Jean-José Richer<br>
-
 _Script Supervisor:_ Suzanne Schiffman<br>
-
 _Scenario:_ François Truffaut, Claude de Givray, Bernard Révon<br>
-
 _Dialogue:_ François Truffaut, Claude de Givray, Bernard Révon<br>
-
 _Director of Photography:_ Denys Clerval<br>
-
 _Camera Operator:_ Jean Chiabaut<br>
-
 _Editor:_ Agnès Guillemot<br>
-
 _Art Director:_ Claude Pignot<br>
-
 _Laboratory:_ L.T.C. Franay Saint-Cloud<br>
-
 _Music:_ Antoine Duhamel<br>
-
 _Song ‘Que reste-t-il de nos amours’ written and performed by_: Charles Trenet<br>
-
 _Sound:_ René Levert<br>
-
-_Dedicated to the Cinémathèque Française of_
-
-_Henri Langlois_<br>
-
+_Dedicated to the Cinémathèque Française of_ _Henri Langlois_<br>
 _Thanks to the Private Detective Agency:_ Dubly<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Jean-Pierre Léaud _(Antoine Doinel)_<br>
-
 Delphine Seyrig _(Fabienne Tabard)_<br>
-
 Claude Jade _(Christine Darbon)_<br>
-
 Michel Lonsdale _(Monsieur Tabard)_<br>
-
 Harry Max _(Henri)_<br>
-
 André Falcon _(Monsieur Blady)_<br>
-
 Daniel Ceccaldi _(Monsieur Darbon)_<br>
-
 Claire Duhamel _(Madame Darbon)_<br>
-
 Serge Rousseau _(the man)_<br>
-
 Cathérine Lutz _(Madame Catherine)_<br>
-
 Paul Pavel _(Julien)_<br>
-
 Martine Ferrière _(head shop assistant)_<br>
-
 François Darbon _(boss aid)_<br>
-
 Jacques Rispal _(Monsieur Colin)_<br>
-
 Simono _(Monsieur Albani)_<br>
-
 Jacques Delord _(magician)_<br>
 
 _uncredited_<br>
-
 Marie-France Pisier _(Colette Tazzi)_<br>
-
 Karine Jeantet _(shop assistant)_<br>
-
 Christine Pellé _(agency’s secretary)_<br>
-
 Martine Brochard _(Madame Colin)_<br>
-
 Pascale Dauman _(Parisian woman being followed)_<br>
-
 Carole Noë _(big girl)_<br>
-
 Chantal Banlier _(shop assistant)_<br>
-
-Madeleine Parard, France Monthell,  
-Liza Bracconier _(prostitutes)_<br>
-
+Madeleine Parard, France Monthell,  Liza Bracconier _(prostitutes)_<br>
 Jacques Robiolles _(unemployed man on TV)_<br>
-
 Robert Cambourakis _(Madame Colin’s lover)_<br>
-
 Marcel Mercier, Joseph Mériau _(mechanics)_<br>
-
 Jean-François Adam _(Albert Tazzi)_<br>
-
 Roger Trapp _(employer)_<br>
-
 Léon Elkenbaum _(dentist)_<br>
 
 Marcel Berbert<br>
@@ -180,5 +112,5 @@ France 1968©<br>
 92 mins
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Mjc0ODc1MF19
+eyJoaXN0b3J5IjpbMTY1NDY4NTY3OF19
 -->
