@@ -18,16 +18,13 @@ Truffaut-Itard also introduces a nice ambiguity about how we should interpret th
 
 The end of the film, with the boy returning from a brief sortie into a freedom he can no longer enjoy, seems at first sight to offer a pessimistic gloss on the antithesis Truffaut has proposed (‘You are no longer a savage, even if you are not yet a man,’ Itard tells him). In fact, Truffaut is unequivocal about whether the boy would have been happier left in the forest. The lessons will continue, Itard says, as the boy shuffles off to bed. It’s a romantic notion perhaps; but the alternative, Truffaut implies, would be like the end of _Les Quatre Cents Coups_ without a _Baisers volés_ to follow. The film, after all, is dedicated to Jean-Pierre Léaud.  
 **David Wilson, _Sight and Sound_, Winter 1970-71**
-<br><br>
 
 **Une Histoire d’eau**  
 Truffaut shot scenes of a couple caught in a Paris deluge, on 16mm. Thereafter Godard took over the project, editing the footage and writing and delivering  
 the voiceover.
+<br><br>
 
-<![endif]-->
-
-**UNE HISTOIRE D’EAU (A STORY OF WATER)**
-
+**UNE HISTOIRE D’EAU (A STORY OF WATER)**  
 _Directors_: Jean-Luc Godard, François Truffaut  
 _Production Company_: Les Films de la Pléiade  
 _Producer_: Pierre Braunberger  
@@ -37,120 +34,120 @@ _Director of Photography_: Michel Latouche
 _Editor_: Jean-Luc Godard  
 _Sound_: Jacques Maumont
 
-_Cast:_
-
+**Cast**  
 Jean-Luc Godard _(narrator)_  
 Jean-Claude Brialy _(man)_  
 Caroline Dim _(girl)_
 
-France 1958, 18 mins
+France 1958  
+18 mins
 
-**L’ENFANT SAUVAGE (THE WILD CHILD)**
+**L’ENFANT SAUVAGE (THE WILD CHILD)**<br>
 
-_Director:_ François Truffaut
+_Director:_ François Truffaut<br>
 
-©: Les Films du Carrosse
+©: Les Films du Carrosse<br>
 
 _Production Companies:_ Les Films du Carrosse,
 
-Les Productions Artistes Associés
+Les Productions Artistes Associés<br>
 
-_Presented by:_ Les Artistes Associés
+_Presented by:_ Les Artistes Associés<br>
 
-_Producer:_ Marcel Berbert
+_Producer:_ Marcel Berbert<br>
 
-_Associate Producer:_ Christian Lentretien
+_Associate Producer:_ Christian Lentretien<br>
 
-_Production Manager:_ Claude Miler
+_Production Manager:_ Claude Miler<br>
 
-_Production Supervisor:_ Roland Thénot
+_Production Supervisor:_ Roland Thénot<br>
 
-_Assistant Director:_ Suzanne Schiffman
+_Assistant Director:_ Suzanne Schiffman<br>
 
-_Continuity:_ Christine Pellé
+_Continuity:_ Christine Pellé<br>
 
 _Scenario/Adaptation /Dialogue:_  
-François Truffaut, Jean Gruault
+François Truffaut, Jean Gruault<br>
 
-_Based on the memoir and conversations about Victor de l’Aveyron by:_ Dr Jean Itard
+_Based on the memoir and conversations about Victor de l’Aveyron by:_ Dr Jean Itard<br>
 
-_Director of Photography:_ Nestor Almendros
+_Director of Photography:_ Nestor Almendros<br>
 
-_Assistant Photographer:_ Philippe Théaudière
+_Assistant Photographer:_ Philippe Théaudière<br>
 
-_Editor:_ Agnès Guillemot
+_Editor:_ Agnès Guillemot<br>
 
-_Assistant Editor:_ Yann Dedet
+_Assistant Editor:_ Yann Dedet<br>
 
-_Art Director:_ Jean Mandaroux
+_Art Director:_ Jean Mandaroux<br>
 
-_Properties:_ Jean-Claude Dolbert
+_Properties:_ Jean-Claude Dolbert<br>
 
-_Costumes:_ Gitt Magrini
+_Costumes:_ Gitt Magrini<br>
 
-_Make-up:_ Nicole Félix
+_Make-up:_ Nicole Félix<br>
 
-_Laboratory:_ Franay L.T.C. Saint-Cloud
+_Laboratory:_ Franay L.T.C. Saint-Cloud<br>
 
-_Music by:_ Antonio Vivaldi
+_Music by:_ Antonio Vivaldi<br>
 
-_Mandolin Performed by:_ André Saint-Clivier
+_Mandolin Performed by:_ André Saint-Clivier<br>
 
-_Flute Performed by:_ Michel Sanvoisin
+_Flute Performed by:_ Michel Sanvoisin<br>
 
-_Musical Director:_ Antoine Duhamel
+_Musical Director:_ Antoine Duhamel<br>
 
-_Sound:_ René Levert
+_Sound:_ René Levert<br>
 
-_Sound Re-recording:_ SIS La Garenne
+_Sound Re-recording:_ SIS La Garenne<br>
 
-_Sound Mixer:_ Alex Pront
+_Sound Mixer:_ Alex Pront<br>
 
-_For:_ Jean-Pierre Léaud
+_For:_ Jean-Pierre Léaud<br>
 
-_Cast:_
+_Cast:_<br>
 
-Jean-Pierre Cargol _(Victor, the boy)_
+Jean-Pierre Cargol _(Victor, the boy)_<br>
 
-Françoise Seigner _(Madame Guérin)_
+Françoise Seigner _(Madame Guérin)_<br>
 
-François Truffaut _(Dr Jean Itard)_
+François Truffaut _(Dr Jean Itard)_<br>
 
-Paul Villé _(Rémy)_
+Paul Villé _(Rémy)_<br>
 
-Pierre Fabre _(orderly)_
+Pierre Fabre _(orderly)_<br>
 
-Jean Dasté _(Professor Pinel)_
+Jean Dasté _(Professor Pinel)_<br>
 
-_uncredited_
+_uncredited_<br>
 
-Claude Miller _(Monsieur Lémeri)_
+Claude Miller _(Monsieur Lémeri)_<br>
 
-Annie Miller _(Madame Lémeri)_
+Annie Miller _(Madame Lémeri)_<br>
 
-René Levert _(police official)_
+René Levert _(police official)_<br>
 
-Jean Mandaroux _(Itard’s doctor)_
+Jean Mandaroux _(Itard’s doctor)_<br>
 
-Nathan Miller _(Lémeri baby)_
+Nathan Miller _(Lémeri baby)_<br>
 
-Matthieu Schiffman _(Mathieu)_
+Matthieu Schiffman _(Mathieu)_<br>
 
-Jean Gruault _(visitor at institute)_
+Jean Gruault _(visitor at institute)_<br>
 
-Robert Cambourakis _(countryman)_
+Robert Cambourakis _(countryman)_<br>
 
-Gitt Magrini _(countrywoman)_
+Gitt Magrini _(countrywoman)_<br>
 
-Jean-François Stévenin _(countryman)_
+Jean-François Stévenin _(countryman)_<br>
 
-Laura Truffaut, Eva Truffaut, Frédérique Dolbert _(girls at farm)_
+Laura Truffaut, Eva Truffaut, Frédérique Dolbert _(girls at farm)_<br>
 
-Guillaume Schiffman, Eric Dolbert, Tournet Cargol _(boys at farm)_
+Guillaume Schiffman, Eric Dolbert, Tournet Cargol _(boys at farm)_<br>
 
 Dominique Levert _(child at farm)_
 
 France 1969©, 83 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQ2OTQzNzddfQ==
+eyJoaXN0b3J5IjpbMTIxMzg3OTM5Nl19
 -->
