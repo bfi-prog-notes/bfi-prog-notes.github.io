@@ -142,7 +142,8 @@ Steven Counterman _(running teenager)_ *<br>
 USA/UK 1971©<br>
 136 mins
 
-* Uncredited*<br><br>
+*Uncredited
+<br><br>
 
 **HOOKED TO THE SILVER SCREEN: BOWIE AT THE MOVIES**<br>
 **2001: A Space Odyssey**<br>
