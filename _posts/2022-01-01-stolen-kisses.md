@@ -111,26 +111,17 @@ France 1968©<br>
 <br><br>
 
 **THE ANTOINE DOINEL CYCLE**<br>
-
 **Antoine et Colette (**from **L’Amour à vingt ans) + Stolen Kisses (Baisers volés)**<br>
-
-Sat 1 Jan 17:50, Tue 11 Jan 20:35,  
-Sat 15 Jan 12:10, Sun 23 Jan 15:30<br>
-
+Sat 1 Jan 17:50, Tue 11 Jan 20:35,  Sat 15 Jan 12:10, Sun 23 Jan 15:30<br>
 **Bed and Board (Domicile conjugale)**<br>
-
-Mon 3 Jan 13:00, Thu 13 Jan 20:45,  
-Wed 19 Jan 14:30<br>
-
+Mon 3 Jan 13:00, Thu 13 Jan 20:45,  Wed 19 Jan 14:30<br>
 **Love on the Run (L’Amour en fuite)**<br>
-
-Wed 5 Jan 20:40, Sat 15 Jan 15:30,  
-Mon 31 Jan 20:40<br>
+Wed 5 Jan 20:40, Sat 15 Jan 15:30,  Mon 31 Jan 20:40<br>
 **The 400 Blows (Les Quatre cents coups)**<br>
 From Fri 7 Jan<br>
 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTAxODg0LDE1MjY0MDUxNThdfQ==
+eyJoaXN0b3J5IjpbMTcxMjgyOTYyNiwxNTI2NDA1MTU4XX0=
 -->
