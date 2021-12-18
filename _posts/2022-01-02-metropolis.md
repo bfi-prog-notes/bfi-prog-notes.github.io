@@ -1,1 +1,124 @@
 
+
+Urban Modernity, Berlin’s ‘Golden 20s’, the Cinematic City: no film evokes these clichés of the past century more vividly than _Metropolis_, Fritz Lang’s flawed masterpiece from 1926-7. Feeding on its own contradictions, this film classic has, from its own time to the present, trailed as many clouds of glory as frowns of disapproval. Lang’s fatal UFA suicide mission in the studio’s fierce battle with Hollywood became a monster-film the critics loved to hate. Some 60 years later, it took on the status of an _Ur-text_ of cinematic postmodernity, the epitome of a sensibility its authors probably would have disapproved of, and thus the archetype of a movie genre they could not have imagined, the sci-fi _noir_ disaster movie. Generally recognised as the fetish-image of all city and cyborg futures, the once dystopian _Metropolis_ now speaks of vitality and the body electric, fusing human and machine energy, its sleek figures animated more by high-voltage fluorescence than Expressionism’s dark demonic urges.
+
+Among the many creative hands and minds that have had the wit to put some heart back into _Metropolis_, a fair share of credit must go to Giorgio Moroder, the Italian composer of Hollywood hit songs and famous soundtracks from the late 1970s and early 80s. In his mimetic admiration for the film he was, however, preceded by two English directors: Ridley Scott, who in _Blade Runner_ (1982) gave both story and setting of _Metropolis_ an unforgettably vivid makeover, and Alan Parker, who was the first to spot the music video that had been slumbering undetected in Lang’s opening scene all along, pastiching it to good effect in the ‘We Don’t Need No Education’ number of _Pink Floyd The Wall_ (also 1982).
+
+Dipped in the neon-Gothic light of _fin du vingtième siècle_ decadence, there is indeed much for contemporary anxieties to thrill to: the troglodyte workers remind us not only of docile-looking but inwardly rebellious adolescents in school-uniforms, they also recall the drill-routines of boot-camp basic training. The metallic figure of the robot Maria now takes on features of ‘girl power’ where its original audience might only have sensed misogynist projections of malevolence. The boldly outlandish sets of _Metropolis_’s cityscape pulsate with consumerist life, compared to the stark modernist high-rises gone soulless and drab that once were its real-life contemporaries. In the contrast between the master of the city’s high-tech office – the penthouse dream of every yuppie trader with a view to kill for – and the alchemist’s lab that is home to the wizard Rotwang, multinational corporate culture meets new-age ecology and internet hacker culture. Meanwhile, down in the catacombs of _Metropolis_, with their secret mass-sermons of the saviour to come, the sweatshops of Asia and Latin America are only a shout and a prayer away from the religious fundamentalisms, the media evangelisms and voodoo revivalisms that have been fevering towards the Millennium.
+
+Reviewing the six decades of reviews of _Metropolis_, one is struck by how many of their critical points and perspectives were already raised in the 20s, leaving the impression that Fritz Lang’s film has both absorbed into itself and reflected back most of the responses it subsequently helped to provoke. Does this confirm that _Metropolis_ is not quite the same kind of classic as _Hamlet_ or _Ulysses_, where successive interpretations plumb new depths of meaning in works of infinite scope and inexhaustible richness of design? Probably yes, but _Metropolis_ is also not quite their low-culture opposite: shallow and superficial, kitschy and ‘deeply dishonest’. If the most frequent judgment, ever since its Berlin opening, has been: ‘great movie, shame about the story’, this cannot be the whole truth, seeing how many ‘readings’ the story has by itself provoked. The potpourri of motifs may well have been opportunist and calculating, gathering up many pseudo-philosophical, social-romantic, decadent-dystopic clichés that in the 20s were ‘in the air’.
+
+Yet despite this apparently self-inflicted handicap, von Harbou’s plotting and Lang’s visualisation must have structured these banal and sentimental commonplaces in ways that successfully imparted the illusion if not exactly of ‘depth’ then of archetypal resonance, reaching down into shared sensibilities and widely-felt anxieties as only myths and fairytales tend to do. There, it was the eclectic-encyclopaedic scope of the film that made it such fertile ground also for the postmodern fantasies it has subsequently inspired, putting it at some distance from the mostly disapproving scholarly analyses. Their U-turns in the course of time as well as the anachronisms cheerfully risked by pop appropriations suggest that any critical (ideological, political, gender-based) reading misses its target, pushing in open doors that only lead into more echo chambers of cultural-historical received ideas. In the Rorschach test that the film appears to have become, it is no longer _Metropolis_, but its critics that have come to look, if not incoherent, then somehow selective in their evidence and arbitrary in their assumptions.
+
+Faced with the commercial, critical, archival and performative afterlives of _Metropolis_, one is tempted to conclude that this emblem of Weimar culture was not so much ‘anticipating’ postmodernism, as already taking a critical, self-critical but also perhaps, in the philosopher Peter Sloterdijk’s sense ‘cynical’ view of postmodernism. For it displays a kind of relativising ‘knowledge’ about itself that must affect all ‘ideological’ critiques of Lang’s film, some of which would seem to ‘have remained more naive than the ideology they set out to unmask.’ They turn the interpretations, along with Moroder’s adaptation and Ridley Scott’s, Tim Burton’s or Terry Gilliam’s pastiche appropriations, into mere ‘extension’ of Lang and von Harbou’s work, projected into (reception) history.
+
+Writing about _Metropolis_ one cannot help feeling that one becomes yet another of Fritz Lang’s pre-programmed ‘readymades’, to take up a phrase which Marcel Duchamp – another modernist of ‘cynical reason’ – once applied, only half in jest, not only to his found _objets_, but to the efforts of his more assiduous archivists, gallerists and tea-leaves reading interpreters. The ‘rocker’ Fritz Lang, after first ‘turning in his grave’ at the sight of Moroder, Bowie, Madonna or Freddie Mercury strutting their stuff and striking a pose, might be content to join in the fun. As the first and last man of Weimar cinema, he surely has the last laugh also on modernist critics, deconstructivists and postmodern pasticheurs alike: so far, it seems that _Metropolis_ is still leading the field, with Lang always already back from where we are heading.  
+**Extracted from _Metropolis_ by Thomas Elsaesser (BFI Film Classics, 2012, 2nd edition).  Reproduced by kind permission of Bloomsbury Publishing. ©Thomas Elsaesser**
+<br><br>
+
+**METROPOLIS**<br>
+
+_Director:_ Fritz Lang<br>
+
+_Production Company:_ UFA<br>
+
+_Producer:_ Erich Pommer<br>
+
+_Screenplay:_ Thea von Harbou<br>
+
+_‘Metropolis’, a story by_ Thea von Harbou _appeared in the publication ‘Illustriertes Blatt’, Frankfurt and in book form from August Scherl Verlag GmbH_<br>
+
+_At the Camera:_ Karl Freund, Günther Rittau
+
+_Schüfftan Process Photography:_ Helmar Lerski
+
+_Model Photography:_ Konstantin Irmen-Tschet
+
+_Art Directors:_ Otto Hunte, Erich Kettelhut,  
+Karl Vollbrecht
+
+_Sculptor:_ Walter Schulze-Mittendorf
+
+_Costumes:_ Aenne Willkomm
+
+_Music:_ Gottfried Huppertz
+
+_Studio:_ Ufa-Ateliers
+
+_2010 restoration credits_
+
+_A film by:_ F.W. Murnau Stiftung
+
+_In co-operation with:_ ZDF, ARTE, Museo del Cine Pablo C. Ducros Hicken (Buenos Aires)
+
+_Restoration:_ Friedrich-Wilhelm-Murnau-Stiftung (Wiesbaden)
+
+_Jointly with:_ Deutsche Kinemathek - Museum für Film und Fernsehen (Berlin)
+
+_In co-operation with:_ ZDF, ARTE, Museo del Cine Pablo C. Ducros Hicken (Buenos Aires)
+
+_Supported by:_ Beauftragten der Bundesregierung für Kultur und Medien, Gemeinnütziger Kulturfons Frankfurt RheinMain GmbH, VGF Verwertungsgesellschaft für Nutzungsrechte an Filmwerken
+
+_Editors:_ Martin Koerber, Frank Strobel,  
+Anke Wilkening
+
+_Digital Visual Restoration:_ Alpha-Omega Digital
+
+_16mm Scan:_ Arri Film & TV Services
+
+_Film Recording and Digital Cinema Mastering:_ LISTO Videofilm GmbH Vienna
+
+_Inserts:_ trick Wilk
+
+_Graphics:_ scientific | Media
+
+_Thanks particularly to:_ Paula Félix-Didier,  
+Fernando Martín Peña
+
+_Cast:_
+
+Brigitte Helm _(Maria/Robot Maria)_
+
+Alfred Abel _(Jon Fredersen)_
+
+Gustav Fröhlich _(Freder Fredersen)_
+
+Rudolf Klein-Rogge _(Rotwang)_
+
+Fritz Rasp _(the slim one)_
+
+Theodor Loos _(Josaphat)_
+
+Erwin Biswanger _(No 11811)_
+
+Heinrich George _(Grot, machine foreman)_
+
+Olaf Storm _(Jan)_
+
+Hanns Leo Reich _(Marinus)_
+
+Heinrich Gotho _(master of ceremonies)_
+
+Margarete Lanner  
+_(woman in car/woman in Eternal Garden)_
+
+Max Dietze_,_ Georg John_,_ Walter Kühle_,  
+_Arthur Reinhard_,_ Erwin Vater_,_ Grete Berger_,  
+_Olly Böheim_,_ Ellen Frey_,_ Lisa Gray_,  
+_Rose Lichtenstein_,_ Helene Weigel _(workers)_
+
+Beatrice Garga, Anny Hintze,  
+Helen Von Münchhofen, Hilde Woitscheff  
+_(women in Eternal Garden)_
+
+Fritz Alberti _(robot)_
+
+Germany 1927
+
+149 mins
+
+The screening on Sun 30 Jan will feature a  
+live piano accompaniment.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwOTIyOTI5NjNdfQ==
+-->
