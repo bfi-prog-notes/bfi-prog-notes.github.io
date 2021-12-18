@@ -66,49 +66,27 @@ _Recorded and Mixed by:_ James Aparicio<br>
 Sun 2 Jan 12:30, Mon 24 Jan 18:00<br>
 **The Conquest of Everest**<br>
 Mon 3 Jan 16:10, Wed 12 Jan 20:40 (+ intro by explorer Mark Wood)<br>
-
 **The Great White Silence**<br>
-
 Mon 3 Jan 18:20, Sun 23 Jan 12:10<br>
-
 **Touching the Void**<br>
-
 Wed 5 Jan 20:30, Sun 23 Jan 18:30<br>
-
-**The Fight for the Matterhorn  
-(Der Kampf ums Matterhorn)**<br>
-
+**The Fight for the Matterhorn  (Der Kampf ums Matterhorn)**<br>
 Thu 6 Jan 18:00 (+ intro by BFI curator Bryony Dixon), Sun 23 Jan 15:20<br>
-
 **The Red Tent (Krasnaya Palatka)**<br>
-
 Tue 11 Jan 18:00 (+ intro by BFI curator Simon McCallum), Sun 30 Jan 18:00<br>
-
 **YES & NO Salon: Exploration Now**<br>
-
 Wed 12 Jan 18:30<br>
-
 **Encounters at the End of the World**<br>
-
 Sat 15 Jan 15:00, Tue 25 Jan 20:30<br>
-
 **Talk: Silent Cinema: Intrepid Women**<br>
-
 Sun 16 Jan 15:30<br>
-
 **To the Ends of the Earth: The Transglobe Expedition + Q&A with Ranulph Fiennes**<br>
-
 Tue 18 Jan 17:45<br>
-
 **Antarctic Crossings: Postwar shorts + intro by BFI curator Patrick Russell**<br>
-
 Tue 25 Jan 18:00<br>
-
-**The Epic of Everest + live score by  
-Simon Fisher Turner**<br>
-
+**The Epic of Everest + live score by  Simon Fisher Turner**<br>
 Sat 29 Jan 19:00<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgyOTIyNDVdfQ==
+eyJoaXN0b3J5IjpbLTExNDI4MDE3MDVdfQ==
 -->
