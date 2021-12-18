@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Christiane F
+title: Christiane F.
 published: true
 date: 2022-01-02
 readtime: true
