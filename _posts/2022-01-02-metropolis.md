@@ -17,108 +17,83 @@ Writing about _Metropolis_ one cannot help feeling that one becomes yet another 
 <br><br>
 
 **METROPOLIS**<br>
-
 _Director:_ Fritz Lang<br>
-
 _Production Company:_ UFA<br>
-
 _Producer:_ Erich Pommer<br>
-
 _Screenplay:_ Thea von Harbou<br>
-
 _‘Metropolis’, a story by_ Thea von Harbou _appeared in the publication ‘Illustriertes Blatt’, Frankfurt and in book form from August Scherl Verlag GmbH_<br>
+_At the Camera:_ Karl Freund, Günther Rittau<br>
+_Schüfftan Process Photography:_ Helmar Lerski<br>
+_Model Photography:_ Konstantin Irmen-Tschet<br>
+_Art Directors:_ Otto Hunte, Erich Kettelhut,  Karl Vollbrecht<br>
+_Sculptor:_ Walter Schulze-Mittendorf<br>
+_Costumes:_ Aenne Willkomm<br>
+_Music:_ Gottfried Huppertz<br>
+_Studio:_ Ufa-Ateliers<br>
 
-_At the Camera:_ Karl Freund, Günther Rittau
+_2010 restoration credits_<br>
+_A film by:_ F.W. Murnau Stiftung<br>
+_In co-operation with:_ ZDF, ARTE, Museo del Cine Pablo C. Ducros Hicken (Buenos Aires)<br>
+_Restoration:_ Friedrich-Wilhelm-Murnau-Stiftung (Wiesbaden)<br>
+_Jointly with:_ Deutsche Kinemathek - Museum für Film und Fernsehen (Berlin)<br>
+_In co-operation with:_ ZDF, ARTE, Museo del Cine Pablo C. Ducros Hicken (Buenos Aires)<br>
+_Supported by:_ Beauftragten der Bundesregierung für Kultur und Medien, Gemeinnütziger Kulturfons Frankfurt RheinMain GmbH, VGF Verwertungsgesellschaft für Nutzungsrechte an Filmwerken<br>
+_Editors:_ Martin Koerber, Frank Strobel,  Anke Wilkening<br>
+_Digital Visual Restoration:_ Alpha-Omega Digital<br>
+_16mm Scan:_ Arri Film & TV Services<br>
+_Film Recording and Digital Cinema Mastering:_ LISTO Videofilm GmbH Vienna<br>
 
-_Schüfftan Process Photography:_ Helmar Lerski
+_Inserts:_ trick Wilk<br>
 
-_Model Photography:_ Konstantin Irmen-Tschet
-
-_Art Directors:_ Otto Hunte, Erich Kettelhut,  
-Karl Vollbrecht
-
-_Sculptor:_ Walter Schulze-Mittendorf
-
-_Costumes:_ Aenne Willkomm
-
-_Music:_ Gottfried Huppertz
-
-_Studio:_ Ufa-Ateliers
-
-_2010 restoration credits_
-
-_A film by:_ F.W. Murnau Stiftung
-
-_In co-operation with:_ ZDF, ARTE, Museo del Cine Pablo C. Ducros Hicken (Buenos Aires)
-
-_Restoration:_ Friedrich-Wilhelm-Murnau-Stiftung (Wiesbaden)
-
-_Jointly with:_ Deutsche Kinemathek - Museum für Film und Fernsehen (Berlin)
-
-_In co-operation with:_ ZDF, ARTE, Museo del Cine Pablo C. Ducros Hicken (Buenos Aires)
-
-_Supported by:_ Beauftragten der Bundesregierung für Kultur und Medien, Gemeinnütziger Kulturfons Frankfurt RheinMain GmbH, VGF Verwertungsgesellschaft für Nutzungsrechte an Filmwerken
-
-_Editors:_ Martin Koerber, Frank Strobel,  
-Anke Wilkening
-
-_Digital Visual Restoration:_ Alpha-Omega Digital
-
-_16mm Scan:_ Arri Film & TV Services
-
-_Film Recording and Digital Cinema Mastering:_ LISTO Videofilm GmbH Vienna
-
-_Inserts:_ trick Wilk
-
-_Graphics:_ scientific | Media
+_Graphics:_ scientific | Media<br>
 
 _Thanks particularly to:_ Paula Félix-Didier,  
-Fernando Martín Peña
+Fernando Martín Peña<br>
 
-_Cast:_
+_Cast:_<br>
 
-Brigitte Helm _(Maria/Robot Maria)_
+Brigitte Helm _(Maria/Robot Maria)_<br>
 
-Alfred Abel _(Jon Fredersen)_
+Alfred Abel _(Jon Fredersen)_<br>
 
-Gustav Fröhlich _(Freder Fredersen)_
+Gustav Fröhlich _(Freder Fredersen)_<br>
 
-Rudolf Klein-Rogge _(Rotwang)_
+Rudolf Klein-Rogge _(Rotwang)_<br>
 
-Fritz Rasp _(the slim one)_
+Fritz Rasp _(the slim one)_<br>
 
-Theodor Loos _(Josaphat)_
+Theodor Loos _(Josaphat)_<br>
 
-Erwin Biswanger _(No 11811)_
+Erwin Biswanger _(No 11811)_<br>
 
-Heinrich George _(Grot, machine foreman)_
+Heinrich George _(Grot, machine foreman)_<br>
 
-Olaf Storm _(Jan)_
+Olaf Storm _(Jan)_<br>
 
-Hanns Leo Reich _(Marinus)_
+Hanns Leo Reich _(Marinus)_<br>
 
-Heinrich Gotho _(master of ceremonies)_
+Heinrich Gotho _(master of ceremonies)_<br>
 
 Margarete Lanner  
-_(woman in car/woman in Eternal Garden)_
+_(woman in car/woman in Eternal Garden)_<br>
 
 Max Dietze_,_ Georg John_,_ Walter Kühle_,  
 _Arthur Reinhard_,_ Erwin Vater_,_ Grete Berger_,  
 _Olly Böheim_,_ Ellen Frey_,_ Lisa Gray_,  
-_Rose Lichtenstein_,_ Helene Weigel _(workers)_
+_Rose Lichtenstein_,_ Helene Weigel _(workers)_<br>
 
 Beatrice Garga, Anny Hintze,  
 Helen Von Münchhofen, Hilde Woitscheff  
-_(women in Eternal Garden)_
+_(women in Eternal Garden)_<br>
 
-Fritz Alberti _(robot)_
+Fritz Alberti _(robot)_<br>
 
-Germany 1927
+Germany 1927<br>
 
 149 mins
 
 The screening on Sun 30 Jan will feature a  
 live piano accompaniment.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTIyOTI5NjNdfQ==
+eyJoaXN0b3J5IjpbLTIwNTA0MDYwNzVdfQ==
 -->
