@@ -59,20 +59,16 @@ Olaf Storm _(Jan)_<br>
 Hanns Leo Reich _(Marinus)_<br>
 Heinrich Gotho _(master of ceremonies)_<br>
 Margarete Lanner  _(woman in car/woman in Eternal Garden)_<br>
-Max Dietze, Georg John, Walter Kühle,  Arthur Reinhard, Erwin Vater, Grete Berger, Olly Böheim, Ellen Frey, Lisa Gray, Rose Lichtenstein, Helene Weigel(workers)_<br>
-
-Beatrice Garga, Anny Hintze,  
-Helen Von Münchhofen, Hilde Woitscheff  
+Max Dietze, Georg John, Walter Kühle,  Arthur Reinhard, Erwin Vater, Grete Berger, Olly Böheim, Ellen Frey, Lisa Gray, Rose Lichtenstein, Helene Weigel _(workers)_<br>
+Beatrice Garga, Anny Hintze,  Helen Von Münchhofen, Hilde Woitscheff  
 _(women in Eternal Garden)_<br>
-
 Fritz Alberti _(robot)_<br>
 
 Germany 1927<br>
-
 149 mins
 
-The screening on Sun 30 Jan will feature a  
-live piano accompaniment.
+The screening on Sun 30 Jan will feature a  live piano accompaniment.
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjU0OTk4Ml19
+eyJoaXN0b3J5IjpbMTQyMjMzNjQzM119
 -->
