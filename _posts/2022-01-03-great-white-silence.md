@@ -1,7 +1,16 @@
+---
+layout: post
+title: The Great White Silence
+published: true
+date: 2022-01-03
+readtime: true
+categories: ['TO THE ENDS OF THE EARTH']
+tags: [Documentary]
+metadata: 'UK 1924, 108 mins<br> Director: Herbert Ponting'
+pdf: '2022-01-03-great-white-silence.pdf'
+---
 
-
-The race to the South Pole in 1910 is one of those great national stories – we all know how Captain Robert Falcon Scott and his companions met their tragic end after being beaten to the Pole by the Norwegian Roald Amundsen.  
-The subject has spawned a vast literature and acquired considerable baggage, so it comes as some relief to be able to return to the primary sources: the words of the men themselves, the real objects – and best of all the actual film footage taken on the expedition.
+The race to the South Pole in 1910 is one of those great national stories – we all know how Captain Robert Falcon Scott and his companions met their tragic end after being beaten to the Pole by the Norwegian Roald Amundsen.  The subject has spawned a vast literature and acquired considerable baggage, so it comes as some relief to be able to return to the primary sources: the words of the men themselves, the real objects – and best of all the actual film footage taken on the expedition.
 
 The centenary of the British Antarctic (Terra Nova) Expedition to the South Pole in 1910-13 has triggered a range of activities centred on just such authentic material. The Scott Polar Research Institute in Cambridge, which celebrates and builds on the expedition’s scientific legacy, has just opened the Polar Museum to display original artefacts from the expedition. These include a letter written by Scott that was retrieved from his tent by the rescue party. It also offers an embarrassment of online riches, including all of the expeditions photographs and Scott’s diaries.
 
@@ -21,8 +30,7 @@ The part-improvised score includes some pre-recorded elements and Fisher Turner 
 
 This collage of musical archaeology aims to create a sense of the place, the people and the poetry of the film, a precious record of this tragic expedition. The participating musicians are also singers and the score will include some sung elements including some for counter-tenor. Some verses from Tennyson’s ‘Ulysses’ which were read at Captain Scott’s memorial service in St. Paul’s Cathedral will also be used.
 
-Simon Fisher Turner said, ‘This is a project which is very close to my heart.  
-I went to school near Plymouth and have a great love of the sea. I still have a vivid memory of watching the film _Scott of the Antarctic_ as a child and I particularly loved the stirring melodies of Vaughan Williams’ dramatic score. We’re doing something different for _The Great White Silence_, but something that I hope will be just as memorable.’
+Simon Fisher Turner said, ‘This is a project which is very close to my heart.  I went to school near Plymouth and have a great love of the sea. I still have a vivid memory of watching the film _Scott of the Antarctic_ as a child and I particularly loved the stirring melodies of Vaughan Williams’ dramatic score. We’re doing something different for _The Great White Silence_, but something that I hope will be just as memorable.’
 <br><br>
 
 **THE GREAT WHITE SILENCE**<br>
@@ -87,6 +95,24 @@ Tue 25 Jan 18:00<br>
 **The Epic of Everest + live score by  Simon Fisher Turner**<br>
 Sat 29 Jan 19:00<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTExNDI4MDE3MDVdfQ==
 -->
