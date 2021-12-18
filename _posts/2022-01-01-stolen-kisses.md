@@ -133,8 +133,7 @@ From Fri 7 Jan<br>
 
 **In cultural partnership with**  
 <img style="float: left;" src="/img/institut-francais.jpg" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br>
-
+<br><br><br><br><br><br><br><br>
 
 **Promotional partner**  
 <img style="float: left;" src="/img/brasserie-blanc.png" width="40%" height="40%">
@@ -156,5 +155,9 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
-Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**<br>
 
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTYzOTUxNTU5N119
+-->
