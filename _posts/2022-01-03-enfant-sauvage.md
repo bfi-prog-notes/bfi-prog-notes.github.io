@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: L'Enfant sauvage
+published: true
+date: 2022-01-03
+readtime: true
+categories: ['FRANÇOIS TRUFFAUT<br>FOR THE LOVE OF FILMS']
+tags: [Drama]
+metadata: 'France 1969, 83 mins<br> Director: François Truffaut'
+pdf: '2022-01-03-enfant-sauvage.pdf'
+---
 
 When Jean-Pierre Léaud turned his accusatory glance on the world in that last frozen frame of _Quatre Cents Coups_, he was asking the question Truffaut keeps returning to in his films. When innocence is sullied by a world with a passion for normality and escape into fantasy offers only an illusory freedom, what then? Antoine Doinel turned his back on the sea and has since opted, via the sentimental education of _Baisers volés_, for a kind of conformity. His is the safe middle course, reconciliation with a world made tolerable by Truffaut’s celebration of the infinite variety of human experience. The other options seem like opposite poles of extremism. Montag, the fireman of _Fahrenheit 451_, hesitantly rejects the comfortable conformity of universal illiteracy and seeks refuge in the rearguard optimism of the book people; at the other extreme, Catherine in _Jules et Jim_, herself the embodiment of fantasy, destroys her lovers’ fantasy with the ultimate _acte gratuit_.
 
@@ -20,8 +30,7 @@ The end of the film, with the boy returning from a brief sortie into a freedom h
 **David Wilson, _Sight and Sound_, Winter 1970-71**
 
 **Une Histoire d’eau**  
-Truffaut shot scenes of a couple caught in a Paris deluge, on 16mm. Thereafter Godard took over the project, editing the footage and writing and delivering  
-the voiceover.
+Truffaut shot scenes of a couple caught in a Paris deluge, on 16mm. Thereafter Godard took over the project, editing the footage and writing and delivering  the voiceover.
 <br><br>
 
 **UNE HISTOIRE D’EAU (A STORY OF WATER)**  
@@ -99,6 +108,51 @@ Dominique Levert _(child at farm)_<br>
 France 1969©<br>
 83 mins
 <br><br>
+
+**THE RENOIR TRUFFAUT**<br>
+**Une belle fille comme moi  (A Gorgeous Kid like Me)**<br>
+Sat 1 Jan 20:40, Tue 4 Jan 20:40, Sat 22 Jan 18:10<br>
+**Day for Night (La Nuit américaine)**<br>
+Sun 2 Jan 18:30, Fri 7 Jan 18:10, Sat 15 Jan 20:45, Tue 25 Jan 20:45<br>
+**L’Enfant sauvage (The Wild Child)  + Une histoire d’eau**<br>
+Mon 3 Jan 18:10, Mon 10 Jan 20:40,  Mon 24 Jan 18:10<br>
+**The Last Metro (Le Dernier metro)**<br>
+Sat 8 Jan 17:10, Fri 21 Jan 17:50, Sat 22 Jan 20:30, Wed 26 Jan 20:30<br>
+**Pocket Money (L’Argent de poche)**<br>
+Sat 8 Jan 20:55, Sat 29 Jan 18:00<br>
+**The Man Who Loved Women  (L’Homme qui aimait les femmes)**<br>
+Sun 9 Jan 18:20, Mon 24 Jan 20:40<br>
+**BFI Course: François Truffaut**<br>
+Every Tue from 18 Jan-22 Feb 18:30-20:30<br>
+<br>
+
+**In cultural partnership with**  
+<img style="float: left;" src="/img/institut-francais.jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+
+**Promotional partner**  
+<img style="float: left;" src="/img/brasserie-blanc.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEwNDQxODE3MzBdfQ==
 -->
