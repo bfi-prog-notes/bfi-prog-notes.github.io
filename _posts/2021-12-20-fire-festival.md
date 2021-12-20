@@ -25,6 +25,54 @@ My next film will be different, but all three fiction films I’ve made so far a
 
 Japan is no longer isolated. It used to be difficult to travel from Tokyo to Edinburgh, but it’s now easy. I find that many of my former certainties are challenged when I go abroad. But there have always been values that I wanted to cling to. Two cultures are always both similar and different, and it’s the difference that I want to go on exploring.<br>
 **Mitsuo Yanagimachi interviewed by Tony Rayns, _Monthly Film Bulletin_, February 1986**<br>
+
+
+**FIRE FESTIVAL (HIMATSURI)**<br>
+_Director_: Mitsuo Yanagimachi  
+_Production Companies_: Gunro Productions, Seibu Group, Cine Saison  
+_Executive Producer_: Kazuo Shimizu  
+_Production Managers_: Shinji Komiya, Shima Anzai  
+_Assistant Director_: Yusuke Narita  
+_Screenplay_: Kenji Nakagami  
+_Based on the story by_: Kenji Nakagami  
+_Photography_: Masaki Tamura  
+_Lighting_: Hisashi Takaya  
+_Visual effects_: Minoru Nakano  
+_Editor_: Sachiko Yamaji  
+_Art Director_: Takeo Kimura  
+_Set Decorator_: Akiyoshi Kanda  
+_Costumes_: Daiichi Costumes  
+_Make-up_: Yamada Katsura Company  
+_Music_: Toru Takemitsu  
+_Choreography_: Shinichi Ikeda  
+_Sound Recording_: Yukio Kubota  
+_Sound Effects_: Yukio Hokari  
+_Fight Director_: Tadahiro Kunii  
+_Stunts_: Masao Takahashi<br>
+
+**Cast**<br>
+Kinya Kitaoji _(Tatsuo)_  
+Kiwako Taichi _(Kimiko)_  
+Ryota Najamoto _(Ryota)_  
+Norihei Miki _(Yamakawa)_  
+Rikiya Yasuoka _(Toshio)_  
+Seiji Kurasaki _(Koji)_  
+Maiko Kawakami _(Maiko)_  
+Junko Miyashita _(Sachiko, Tatsuo’s Wife)_  
+Kin Sugai _(Tatsuo’s Mother)_  
+Sachiko Matsushita, Masako Yagi _(Tatsuo’s sisters)_  
+Jukei Fujioka, Nenji Kobayashi, Ippei Sooda _(lumberjacks)_  
+Aoi Nakajima _(Kimiko’s sister)_  
+Kenzô Kaneko _(sister’s husband)_  
+Ban Kojika _(ironmonger)_  
+Masato Ibu _(mobile shop owner)_  
+Kosanji Yanagiya _(boatman)_  
+Aiko Morishita _(child minder)_  
+Eiichi Kudo _(lumberjacks’ driver)_  
+Yosuke Naka, Gozo Sooma, Koji Miemachi, Yuzuko Kinoshita_,_ Mitsuyo Inomata, Reiko Nanao, Shiro Shimomoto, Yuhei Kurachi,  Remon Hori, Baiken Jukkanji,  Akira Sakai,  Atsushi Imaizumi_(fishermen)_<br>
+
+Japan 1984<br>
+120 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTgzNzE3NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNjk5OTc5MDIzLDczMDk5ODExNl19
 -->
