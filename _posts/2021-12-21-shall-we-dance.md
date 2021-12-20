@@ -1,9 +1,6 @@
 
-<![endif]-->
-
-Despite having a wife, a daughter and a successful career, Shohei Sugiyama (Yakusho) is depressed. But the sight of a beautiful woman through a window inspires him to embrace a new hobby: ballroom dancing. This delightful comedy proved a huge international hit, and ultimately spawned a Hollywood remake starring Richard Gere. The charm and flair of the original, however, remain unsurpassed.
-
-bfi.org.uk
+Despite having a wife, a daughter and a successful career, Shohei Sugiyama (Yakusho) is depressed. But the sight of a beautiful woman through a window inspires him to embrace a new hobby: ballroom dancing. This delightful comedy proved a huge international hit, and ultimately spawned a Hollywood remake starring Richard Gere. The charm and flair of the original, however, remain unsurpassed.<br>
+**bfi.org.uk**<br>
 
 References to _Shall We Dance?_ as ‘a Japanese _Strictly Ballroom_’  are misleading – all the two ﬁlms really have in common is their fascination with the arcane conventions of ballroom dancing. Where Baz Luhrmann’s _tour de force_ was all Cuban heels, embroidered bolero jackets and brash Aussie extroversion, Masayuki Suo’s comedy – which has become the highest-grossing Japanese ﬁlm ever in the US – is sober suits and acute social embarrassment. As the introductory voice-over (in English) explains, in a country ‘where married couples don’t go out arm in arm, much less say “I love you” in public’, ballroom dancing has taken on the allure of a secret vice. What to most British – or indeed Australians – seems absurdly old-fashioned in its formality looks daring in a society where public physical contact is taboo.
 
@@ -11,14 +8,10 @@ In some ways _Shall We Dance?_ has more in common with Fridrik Thor Fridriksson�
 
 Aoki’s extravagant double act serves as a burlesque variant of the transformation experienced by Shohei – drawn out of himself, learning to let go, but only fully liberated once he’s renounced his hopeless passion for the graceful Mai and begun to love dance for its own sake. Though even then he’s too embarrassed to tell his wife what he’s doing, let alone invite her to join him at the classes, while she in turn is too embarrassed to ask questions, and assumes he’s having an affair. (As indeed he is, but with dance.) For all the genuine affection between them, they spend most of the ﬁlm hopelessly out of step. It takes their daughter, more forthright and less inhibited than her parents, to persuade them to make the obvious move and dance together. The responsiveness to one’s partner Shohei has learnt on the danceﬂoor can at last be applied to his marriage.
 
-As well as two previous features, Suo has directed documentaries on Juzo Itami (director of _Death Japanese Style_ and _Tampopo_).  The afﬁnity is evident: Suo shares Itami’s fascination with the Japanese concern for social ritual, the fear of becoming conspicuous by failing to do the right thing. He also shares Itami’s generosity towards his characters. There are no villains in _Shall We Dance?,_ and its sense of the ridiculous never precludes sympathy. This is a warm, immensely likeable ﬁlm. And besides, how can you resist a movie where the ultimate in exoticism and sophistication is represented by Blackpool?
+As well as two previous features, Suo has directed documentaries on Juzo Itami (director of _Death Japanese Style_ and _Tampopo_).  The afﬁnity is evident: Suo shares Itami’s fascination with the Japanese concern for social ritual, the fear of becoming conspicuous by failing to do the right thing. He also shares Itami’s generosity towards his characters. There are no villains in _Shall We Dance?,_ and its sense of the ridiculous never precludes sympathy. This is a warm, immensely likeable ﬁlm. And besides, how can you resist a movie where the ultimate in exoticism and sophistication is represented by Blackpool?<br>
+**Philip Kemp, _Sight and Sound_, May 1998**<br>
 
-Philip Kemp, _Sight and Sound_, May 1998
-
-<![endif]-->
-
-**Shall We Dance? (Shall we dansu?)**
-
+**Shall We Dance? (Shall we dansu?)**<br>
 _Director:_ Masayuki Suo  
 _Production Companies:_ Daiei, Nippon Television Network Corporation, Hakuhodo, Nippon Shuppan, Altamira Pictures  
 _Executive Producers:_ Hiroyuki Kato, Seiji Urushido, Shigeru Ôno, Kazuhiro Igarashi  
@@ -26,19 +19,15 @@ _Producer:_ Yasuyoshi Tokuma
 _Line Producer_: Tetsuya Ikeda  
 _Associate Producer_: Shoji Masui, Yuji Ogata  
 _Production Manager_: Yoshino Sasaki  
-_Production Consultants_: Kazuhiko Seta,
-
-Tatsuya Osada  
+_Production Consultants_: Kazuhiko Seta, Tatsuya Osada  
 _Production Accountant_: Teisuke Shimizu  
 _1st Assistant Director_: Gen Yamakawa  
 _Script Supervisor_: Tetsuko Kai  
-_Casting_: Tetsu Maeda
-
+_Casting_: Tetsu Maeda  
 _Screenplay:_ Masayuki Suo  
 _Director of Photography:_ Naoki Kayano  
 _Lighting:_ Tatsuya Osada  
-_Editor:_ Junichi Kikuchi
-
+_Editor:_ Junichi Kikuchi  
 _Assistant Editor_: Masahiro Onaga  
 _Production Designer:_ Kyoko Heya  
 _Set Decorators_: Yoshihito Akatsuka, Noboru Ishida, Yoichi Kitamura  
@@ -46,12 +35,11 @@ _Property Master_: Junko Nakajima
 _Competition Dress Designers_: Kazushi Yamaguchi, Hiroko Yamaguchi, Masahiro Yanagida  
 _Costume Supervisor_: Kunio Nakayama  
 _Hair/Make-up_: Mikiko Hayama
-
 _Music:_ Yoshikazu Suo  
 _Dance Director:_ Toshio Watari  
-_Sound Recordist:_ Kiyoshi Yoneyama
+_Sound Recordist:_ Kiyoshi Yoneyama<br>
 
-**Cast**
+**Cast**<br>
 Koji Yakusho _(Shohei Sugiyama)_  
 Tamiyo Kusakari _(Mai Kishikawa)_  
 Naoto Takenaka _(Tomio Aoki)_  
@@ -104,5 +92,5 @@ Misa Shimizu _(Natsuko)_<br>
 Japan 1995<br>
 119 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA5MjM1MzVdfQ==
+eyJoaXN0b3J5IjpbMzE5Mzk0OTE3LC0xODIwOTIzNTM1XX0=
 -->
