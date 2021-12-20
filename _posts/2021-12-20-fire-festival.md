@@ -69,10 +69,10 @@ Masato Ibu _(mobile shop owner)_
 Kosanji Yanagiya _(boatman)_  
 Aiko Morishita _(child minder)_  
 Eiichi Kudo _(lumberjacks’ driver)_  
-Yosuke Naka, Gozo Sooma, Koji Miemachi, Yuzuko Kinoshita_,_ Mitsuyo Inomata, Reiko Nanao, Shiro Shimomoto, Yuhei Kurachi,  Remon Hori, Baiken Jukkanji,  Akira Sakai,  Atsushi Imaizumi_(fishermen)_<br>
+Yosuke Naka, Gozo Sooma, Koji Miemachi, Yuzuko Kinoshita, Mitsuyo Inomata, Reiko Nanao, Shiro Shimomoto, Yuhei Kurachi,  Remon Hori, Baiken Jukkanji,  Akira Sakai,  Atsushi Imaizumi _(fishermen)_<br>
 
 Japan 1984<br>
 120 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5OTc5MDIzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTkyMTU0NTQ2Myw3MzA5OTgxMTZdfQ==
 -->
