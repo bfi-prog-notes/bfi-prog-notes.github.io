@@ -45,43 +45,41 @@ _Music/Music Conductor:_ Bernard Herrmann
 _[Sound] Recorders:_ Bailey Fesler, James G. Stewart  
 
 _uncredited_
-_Associate Producer:_ Richard Baer; _Editorial Supervisor:_ John Houseman; _Production Assistants:_ William Alland, Richard Wilson; _Assistant Directors:_ Edward Donahoe, Fred A. Fleck; _Continuity:_ Amalia Kent; _Camera Operator:_ Bert Shipman; _Assistant Camera:_ Eddie Garvin; _Camera for Early Make-up/ Wardrobe Tests:_ Russell Metty; _Retakes/ Additional Shooting:_ Harry J. Wild; _Grip:_ Ralph Hoge; _Gaffer:_ William J. McClellan; _Stills:_ Alexander Kahle; _Matte Artist:_ Mario Larrinaga; _Effects Camera:_ Russell A. Cully; _Montage Effects:_ Douglas Travers; _Assistant Editor:_ Mark Robson; _Assistant Art Director:_ Hilyard Brown; _Set Decorator:_ Darrell Silvera; _Assistant Set Decorator:_ Al Fields; _Principal Sketch Artist:_ Charles Ohmann; _Sketches/Graphics:_ Al Abbott, Claude Gillingwater Jr, Albert Pyke, Maurice Zuberano; _Property Manager:_ Charles Sayers; _Newspaper Props:_ Harry Reitz; _Wardrobe:_ Earl Leas, Margaret Van Horn; _Make-up:_ Maurice Seiderman; _Assistant Make-up:_ Layne Britton; _Make-up Department Head:_ Mel Berns; _Optical Printing:_ Linwood G. Dunn; _‘Charlie Kane’ Lyrics:_ Herman Ruby; _Dance Choreography:_ Arthur Appel; _Sound Department Head:_ John Aalberg; _Boom Operator:_ Jimmy Thompson; _Sound Effects:_ Harry Essman; _Publicity for Mercury Theatre:_ Herbert Drake; _General Press Representative:_ Barret McCormick
+_Associate Producer:_ Richard Baer; _Editorial Supervisor:_ John Houseman; _Production Assistants:_ William Alland, Richard Wilson; _Assistant Directors:_ Edward Donahoe, Fred A. Fleck; _Continuity:_ Amalia Kent; _Camera Operator:_ Bert Shipman; _Assistant Camera:_ Eddie Garvin; _Camera for Early Make-up/ Wardrobe Tests:_ Russell Metty; _Retakes/ Additional Shooting:_ Harry J. Wild; _Grip:_ Ralph Hoge; _Gaffer:_ William J. McClellan; _Stills:_ Alexander Kahle; _Matte Artist:_ Mario Larrinaga; _Effects Camera:_ Russell A. Cully; _Montage Effects:_ Douglas Travers; _Assistant Editor:_ Mark Robson; _Assistant Art Director:_ Hilyard Brown; _Set Decorator:_ Darrell Silvera; _Assistant Set Decorator:_ Al Fields; _Principal Sketch Artist:_ Charles Ohmann; _Sketches/Graphics:_ Al Abbott, Claude Gillingwater Jr, Albert Pyke, Maurice Zuberano; _Property Manager:_ Charles Sayers; _Newspaper Props:_ Harry Reitz; _Wardrobe:_ Earl Leas, Margaret Van Horn; _Make-up:_ Maurice Seiderman; _Assistant Make-up:_ Layne Britton; _Make-up Department Head:_ Mel Berns; _Optical Printing:_ Linwood G. Dunn; _‘Charlie Kane’ Lyrics:_ Herman Ruby; _Dance Choreography:_ Arthur Appel; _Sound Department Head:_ John Aalberg; _Boom Operator:_ Jimmy Thompson; _Sound Effects:_ Harry Essman; _Publicity for Mercury Theatre:_ Herbert Drake; _General Press Representative:_ Barret McCormick<br>
 
-**Cast**
+**Cast**<br>
+Joseph Cotten _(Jedediah Leland/newsreel journalist)_<br>
+Dorothy Comingore _(Susan Alexander Kane)_<br>
+Agnes Moorehead _(Mary Kane)_<br>
+Ruth Warrick _(Emily Norton Kane)_<br>
+Ray Collins _(James ‘Boss’ W. Gettys)_<br>
+Erskine Sanford _(Herbert Carter/newsreel journalist)_<br>
+Everett Sloane _(Mr Bernstein)_<br>
+William Alland _(Jerry Thompson/narrator)_<br>
+Paul Stewart _(Raymond)_<br>
+George Coulouris _(Walter Parks Thatcher)_<br>
+Fortunio Bonanova _(Matiste)_<br>
+Gus Schilling _(John, El Rancho headwaiter/ newsreel journalist)_<br>
+Philip Van Zandt _(Mr Rawlston)_<br>
+Georgia Backus _(Bertha Anderson)_<br>
+Harry Shannon _(James Kane)_<br>
+Sonny Bupp _(Kane III)_<br>
+Buddy Swan _(Kane, aged 8)_<br>
+Orson Welles _(Charles Foster Kane)_<br>
 
-Joseph Cotten _(Jedediah Leland/newsreel journalist)_
-Dorothy Comingore _(Susan Alexander Kane)_
-Agnes Moorehead _(Mary Kane)_
-Ruth Warrick _(Emily Norton Kane)_
-Ray Collins _(James ‘Boss’ W. Gettys)_
-Erskine Sanford _(Herbert Carter/newsreel journalist)_
-Everett Sloane _(Mr Bernstein)_
-William Alland _(Jerry Thompson/narrator)_
-Paul Stewart _(Raymond)_
-George Coulouris _(Walter Parks Thatcher)_
-Fortunio Bonanova _(Matiste)_
-Gus Schilling _(John, El Rancho headwaiter/ newsreel journalist)_
-Philip Van Zandt _(Mr Rawlston)_
-Georgia Backus _(Bertha Anderson)_
-Harry Shannon _(James Kane)_
-Sonny Bupp _(Kane III)_
-Buddy Swan _(Kane, aged 8)_
-Orson Welles _(Charles Foster Kane)_
-
-_uncredited_
-Al Eben _(Solly)_
-Ellen Lowe _(Miss Townsend)_
-Charles Bennett _(entertainer)_
-Irving Mitchell _(Doctor Corey)_
-Joe Manz _(Jennings)_
-
-Alan Ladd, Harriet Brandon, Jack Santoro, Louise Currie, Eddie Coke, Walter Sande, Arthur O’Connell, Richard Wilson, Katherine Trosper, Milton Kibbee _(reporters)_
-Bruce Sidney _(newsman)_
-Lew Harvey _(newspaper man)_
-Louis Natheaux _(reporter)_
-Thomas A. Curran _(Teddy Roosevelt)_
-Edward Peil, Charles Meakin _(civic leaders)_
-Mitchell Ingraham, Francis Sayles _(politicians)_
+_uncredited_<br>
+Al Eben _(Solly)_<br>
+Ellen Lowe _(Miss Townsend)_<br>
+Charles Bennett _(entertainer)_<br>
+Irving Mitchell _(Doctor Corey)_<br>
+Joe Manz _(Jennings)_<br>
+Alan Ladd, Harriet Brandon, Jack Santoro, Louise Currie, Eddie Coke, Walter Sande, Arthur O’Connell, Richard Wilson, Katherine Trosper, Milton Kibbee _(reporters)_<br>
+Bruce Sidney _(newsman)_<br>
+Lew Harvey _(newspaper man)_<br>
+Louis Natheaux _(reporter)_<br>
+Thomas A. Curran _(Teddy Roosevelt)_<br>
+Edward Peil, Charles Meakin _(civic leaders)_<br>
+Mitchell Ingraham, Francis Sayles _(politicians)_<br>
 Louise Franklin _(maid)_
 Edith Evanson _(nurse)_
 Arthur Kay _(orchestra leader)_
@@ -122,5 +120,5 @@ USA 1941©
 
 119 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0Mzc5NjQ0XX0=
+eyJoaXN0b3J5IjpbLTgxNjc1MjE2Ml19
 -->
