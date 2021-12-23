@@ -79,18 +79,14 @@ _Construction Co-ordinator_: Joe Alfieri Sr
 _Costume Designer_: Paul Tazewell  
 _Make-up Department Head_: Judy Chin  
 _Hair Department Head_: Kay Georgiou  
-_End Title Design_: Steven Spielberg,
-
-Adam Stockhausen  
+_End Title Design_: Steven Spielberg, Adam Stockhausen  
 _Titles Development_: Edward Bursch  
 _Title Sequence Finishing_: The Mill  
 _End Crawl by_: Scarlet Letters  
 _Music by:_ Leonard Bernstein  
 _Lyrics by_: Stephen Sondheim  
 _Music Performed by_: The New York Philharmonic  
-_Additional Music Performed by_:
-
-The Los Angeles Philharmonic  
+_Additional Music Performed by_: The Los Angeles Philharmonic  
 _Music Conducted by_: Gustavo Dudamel  
 _Additional Orchestrations by_: Garth Sunderland  
 _Original Orchestrations by_: Leonard Bernstein  
@@ -100,21 +96,15 @@ _Original Choreography by_: Jerome Robbins
 _Sound Designer_: Gary Rydstrom  
 _Sound Mixer_: Tod Maitland  
 _Re-recording Mixers_: Andy Nelson, Gary Rydstrom  
-_Supervising Sound Editors_: Gary Rydstrom,
-
-Brian Chumney  
+_Supervising Sound Editors_: Gary Rydstrom, Brian Chumney  
 _Dialogue Editors_: Marshall Winn, Richard Quinn, Marilyn McCoppen  
 _Sound Effects Recordist_: Andy Aaron  
-_Sound Effects Editors_: Steve Bissinger,
-
-André Fenley, Teresa Eckton, E.J. Holowicki  
+_Sound Effects Editors_: Steve Bissinger, André Fenley, Teresa Eckton, E.J. Holowicki  
 _Stunt Co-ordinator_: Mark Fichera  
-_Consultant on Puerto Rican Culture & History_:
+_Consultant on Puerto Rican Culture & History_: Julio Monge  
+_Filmed at_: Brooklyn Steiner Studios, NY  
 
-Julio Monge  
-_Filmed at_: Brooklyn Steiner Studios, NY
-
-_Cast_:  
+**Cast**
 Ansel Elgort _(Tony)_  
 Ariana DeBose _(Anita)_  
 David Alvarez _(Bernardo)_  
@@ -124,21 +114,19 @@ Corey Stoll _(Lieutenant Schrank)_
 Josh Andrés Rivera _(Chino)_  
 Rita Moreno _(Valentina)_  
 Rachel Zegler _(María)_  
-Iris Menas _(Anybodys)_
+Iris Menas _(Anybodys)_  
 
-_Sharks:_
+_Sharks:_  
+David Avilés Morales _(Aníbal)_, Sebastián Serra _(Braulio)_, Ricardo A. Zayas _(Chago)_, Carlos E. Gonzalez _(Chucho)_, Ricky Ubeda _(Flaco)_, Andrei Chagas _(Jochi)_, Adriel Flete _(Julito)_, Jacob Guzman _(Junior)_, Kelvin Delgado _(Manolo)_, Carlos Sánchez Falú _(Pipo)_, Julius Anthony Rubio _(Quique)_, Yurel Echezarreta _(Sebas)_, David Guzman _(Tino)_  
 
-David Avilés Morales _(Aníbal)_, Sebastián Serra _(Braulio)_, Ricardo A. Zayas _(Chago)_, Carlos E. Gonzalez _(Chucho)_, Ricky Ubeda _(Flaco)_, Andrei Chagas _(Jochi)_, Adriel Flete _(Julito)_, Jacob Guzman _(Junior)_, Kelvin Delgado _(Manolo)_, Carlos Sánchez Falú _(Pipo)_, Julius Anthony Rubio _(Quique)_, Yurel Echezarreta _(Sebas)_, David Guzman _(Tino)_
-
-_Jets_:
-
+_Jets_:  
 Sean Harrison Jones _(Action)_, Jess LeProtto_  
-(A-Rab)_, Patrick Higgins _(Baby John)_, Kyle Allen _(Balkan)_, John Michael Fiumara _(Big Deal)_, Kevin Csolak _(Diesel)_, Kyle Coffman _(Ice)_, Daniel Patrick Russell _(Little Moly)_, Ben Cook _(Mouthpiece)_, Harrison Coll _(Numbers)_, Garett Hawe _(Skink)_, Myles Erlick _(Snowboy)_, Julian Elia _(Tiger)_ 
+(A-Rab)_, Patrick Higgins _(Baby John)_, Kyle Allen _(Balkan)_, John Michael Fiumara _(Big Deal)_, Kevin Csolak _(Diesel)_, Kyle Coffman _(Ice)_, Daniel Patrick Russell _(Little Moly)_, Ben Cook _(Mouthpiece)_, Harrison Coll _(Numbers)_, Garett Hawe _(Skink)_, Myles Erlick _(Snowboy)_, Julian Elia _(Tiger)_  
 
-_Shark Girls_:
-Tanairi Sade Vazquez _(Charita)_, Yesenia Ayala _(Clary)_, Gabriela M. Soto _(Conchi)_, Juliette Feliciano _(Cuca)_, Jessica Delgado _(Ili)_, Maria Alexis Rodriguez _(Isa)_, Edriz E. Rosa Pérez _(Jacinta)_, Ilda Mason _(Luz)_, Jennifer Florentino _(Montse)_, Melody Martí _(Pili)_, Ana Isabelle _(Rosalía)_, Gaby Diaz _(Tati)_, Isabella Ward _(Tere)_
+_Shark Girls_:  
+Tanairi Sade Vazquez _(Charita)_, Yesenia Ayala _(Clary)_, Gabriela M. Soto _(Conchi)_, Juliette Feliciano _(Cuca)_, Jessica Delgado _(Ili)_, Maria Alexis Rodriguez _(Isa)_, Edriz E. Rosa Pérez _(Jacinta)_, Ilda Mason _(Luz)_, Jennifer Florentino _(Montse)_, Melody Martí _(Pili)_, Ana Isabelle _(Rosalía)_, Gaby Diaz _(Tati)_, Isabella Ward _(Tere)_<br>
 
-_Jet Girls:_
+_Jet Girls:_  
 Eloise Kropp _(Dot)_, Paloma Garcia-Lee _(Graziella)_, Leigh-Ann Esty _(Gussie)_, Lauren Leach _(Karen)_, Brittany Pollack _(Mack)_, Kellie Drobnick _(Mamie)_, Skye Mattox _(Maxie)_, Adriana Pierce _(Natalie)_, Jonalyn Saxer _(Rhonda)_, Brianna Abruzzo _(Sorella)_, Halli Toland _(Sweden)_, Sara Esty _(Tat)_, Talia Ryder _(Tessa)_, Maddie Ziegler _(Velma)_  
 Andréa Burns _(Fausta)_  
 Mike Iveson _(Glad Hand)_  
@@ -156,5 +144,5 @@ USA 2021<br>
 
 A Walt Disney Studios release<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjI2OTQxNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0NjY5NzcwNjgsNzMwOTk4MTE2XX0=
 -->
