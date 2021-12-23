@@ -29,22 +29,22 @@ This is unquestionably one of the most intelligent films to appear for many year
 
 
 
-**Citizen Kane**
-_Director:_ Orson Welles
-_©/Production Company:_ RKO Radio Pictures
-_Production Company:_ Mercury Productions
-_Producer:_ Orson Welles
-_Screenplay:_ Herman J. Mankiewicz, Orson Welles
-_Director of Photography:_ Gregg Toland
-_Special Effects:_ Vernon L. Walker
-_Editor:_ Robert Wise
-_Art Director:_ Van Nest Polglase
-_Associate Art Director:_ Perry Ferguson
-_Costumes:_ Edward Stevenson
-_Music/Music Conductor:_ Bernard Herrmann
-_[Sound] Recorders:_ Bailey Fesler, James G. Stewart  
+**Citizen Kane**<br>
+_Director:_ Orson Welles<br>
+_©/Production Company:_ RKO Radio Pictures<br>
+_Production Company:_ Mercury Productions<br>
+_Producer:_ Orson Welles<br>
+_Screenplay:_ Herman J. Mankiewicz, Orson Welles<br>
+_Director of Photography:_ Gregg Toland<br>
+_Special Effects:_ Vernon L. Walker<br>
+_Editor:_ Robert Wise<br>
+_Art Director:_ Van Nest Polglase<br>
+_Associate Art Director:_ Perry Ferguson<br>
+_Costumes:_ Edward Stevenson<br>
+_Music/Music Conductor:_ Bernard Herrmann<br>
+_[Sound] Recorders:_ Bailey Fesler, James G. Stewart  <br>
 
-_uncredited_
+_uncredited_<br>
 _Associate Producer:_ Richard Baer; _Editorial Supervisor:_ John Houseman; _Production Assistants:_ William Alland, Richard Wilson; _Assistant Directors:_ Edward Donahoe, Fred A. Fleck; _Continuity:_ Amalia Kent; _Camera Operator:_ Bert Shipman; _Assistant Camera:_ Eddie Garvin; _Camera for Early Make-up/ Wardrobe Tests:_ Russell Metty; _Retakes/ Additional Shooting:_ Harry J. Wild; _Grip:_ Ralph Hoge; _Gaffer:_ William J. McClellan; _Stills:_ Alexander Kahle; _Matte Artist:_ Mario Larrinaga; _Effects Camera:_ Russell A. Cully; _Montage Effects:_ Douglas Travers; _Assistant Editor:_ Mark Robson; _Assistant Art Director:_ Hilyard Brown; _Set Decorator:_ Darrell Silvera; _Assistant Set Decorator:_ Al Fields; _Principal Sketch Artist:_ Charles Ohmann; _Sketches/Graphics:_ Al Abbott, Claude Gillingwater Jr, Albert Pyke, Maurice Zuberano; _Property Manager:_ Charles Sayers; _Newspaper Props:_ Harry Reitz; _Wardrobe:_ Earl Leas, Margaret Van Horn; _Make-up:_ Maurice Seiderman; _Assistant Make-up:_ Layne Britton; _Make-up Department Head:_ Mel Berns; _Optical Printing:_ Linwood G. Dunn; _‘Charlie Kane’ Lyrics:_ Herman Ruby; _Dance Choreography:_ Arthur Appel; _Sound Department Head:_ John Aalberg; _Boom Operator:_ Jimmy Thompson; _Sound Effects:_ Harry Essman; _Publicity for Mercury Theatre:_ Herbert Drake; _General Press Representative:_ Barret McCormick<br>
 
 **Cast**<br>
@@ -80,45 +80,44 @@ Louis Natheaux _(reporter)_<br>
 Thomas A. Curran _(Teddy Roosevelt)_<br>
 Edward Peil, Charles Meakin _(civic leaders)_<br>
 Mitchell Ingraham, Francis Sayles _(politicians)_<br>
-Louise Franklin _(maid)_
-Edith Evanson _(nurse)_
-Arthur Kay _(orchestra leader)_
-Tudor Williams _(chorus master)_
-James Mack _(prompter)_
-Gohr Van Vleck, Jack Raymond _(stagehands)_
-Herbert Corthell _(city editor of Chicago Inquirer)_
-Shimen Ruskin, George Sherwood, Eddie Cobb _(hirelings)_
-Olin Francis _(expressman)_
-Frances Neal _(Ethel)_
-Robert Dudley _(photographer)_
-Tim Davis, George Noisom _(copy boys)_
-Jack Curtis _(chief printer)_
-Landers Stevens _(investigator)_
-John Dilson, Walter James _(ward heelers)_
-Joe North, William O’Brien _(Thatcher’s secretaries)_
-Dona Dax _(housemaid)_
-Myrtle Rischell _(governess)_
-Petra De Silva _(newswoman)_
-Gino Corrado _(Gino, waiter at El Rancho)_
-Suzanne Dulier _(Marie, French maid)_
-Major McBride _(shadowgraph man)_
-Karl Thomas _(Jetsam)_
-Glen Turnbull _(Flotsam)_
-Harry J. Vejar _(Portuguese labourer)_
-Captain Garcia _(general)_
-Art Yeoman _(speaker at Union Square)_
-Philip Morris _(politician)_
-Albert Frazier _(gorilla man)_
-Guy Repp, Buck Mack _(men)_
-Jack Morton _(butler)_
-Carmen La Roux _(maid in Xanadu corridor)_
-Edward Hemmer
-Marie Day  
-Jean Forward _(Dorothy Comingore’s singing voice)_
+Louise Franklin _(maid)_<br>
+Edith Evanson _(nurse)_<br>
+Arthur Kay _(orchestra leader)_<br>
+Tudor Williams _(chorus master)_<br>
+James Mack _(prompter)_<br>
+Gohr Van Vleck, Jack Raymond _(stagehands)_<br>
+Herbert Corthell _(city editor of Chicago Inquirer)_<br>
+Shimen Ruskin, George Sherwood, Eddie Cobb _(hirelings)_<br>
+Olin Francis _(expressman)_<br>
+Frances Neal _(Ethel)_<br>
+Robert Dudley _(photographer)_<br>
+Tim Davis, George Noisom _(copy boys)_<br>
+Jack Curtis _(chief printer)_<br>
+Landers Stevens _(investigator)_<br>
+John Dilson, Walter James _(ward heelers)_<br>
+Joe North, William O’Brien _(Thatcher’s secretaries)_<br>
+Dona Dax _(housemaid)_<br>
+Myrtle Rischell _(governess)_<br>
+Petra De Silva _(newswoman)_<br>
+Gino Corrado _(Gino, waiter at El Rancho)_<br>
+Suzanne Dulier _(Marie, French maid)_<br>
+Major McBride _(shadowgraph man)_<br>
+Karl Thomas _(Jetsam)_<br>
+Glen Turnbull _(Flotsam)_<br>
+Harry J. Vejar _(Portuguese labourer)_<br>
+Captain Garcia _(general)_<br>
+Art Yeoman _(speaker at Union Square)_<br>
+Philip Morris _(politician)_<br>
+Albert Frazier _(gorilla man)_<br>
+Guy Repp, Buck Mack _(men)_<br>
+Jack Morton _(butler)_<br>
+Carmen La Roux _(maid in Xanadu corridor)_<br>
+Edward Hemmer<br>
+Marie Day<br>
+Jean Forward _(Dorothy Comingore’s singing voice)_<br>
 
-USA 1941©
-
-119 mins
+USA 1941©<br>
+119 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjc1MjE2Ml19
+eyJoaXN0b3J5IjpbMTQ1NTkwMDUwMF19
 -->
