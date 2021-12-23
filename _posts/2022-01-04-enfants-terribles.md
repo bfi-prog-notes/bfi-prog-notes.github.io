@@ -69,8 +69,8 @@ Annabel Buffet _(mannequin)_
 Roger Gaillard _(Gérard’s uncle)_  
 Jean Cocteau _(voice/train passenger/Paul’s heartbeat)_  
 Jean-Pierre Melville _(train passenger in dining car)_ *  
-Rachel Devirys *
-Hélène Rémy *
+Rachel Devirys *  
+Hélène Rémy *  
 Etienne Aubray *  
 
 France 1949<br>
