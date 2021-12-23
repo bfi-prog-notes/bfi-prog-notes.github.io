@@ -1,7 +1,19 @@
+---
+layout: post
+title: La Grande illusion
+published: true
+date: 2022-01-01
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, War]
+metadata: 'France 1937, 113 mins<br> Director: Jean Renoir'
+pdf: '2022-01-01-grande-illusion.pdf'
+---
+
 **SPOILER WARNING** The following notes give away some of the plot.
 
 Truffaut considered Renoir the world’s greatest filmmaker and wrote that this classic – about WWI prisoners of war – dealt with ‘waging war politely’; he understood that it was as much about class divisions and allegiances as it was about rival nations. Did it influence _Jules et Jim_ or _The Last Metro_? Regardless, one member of this film’s extraordinary cast – Jean Dasté – became a Truffaut regular.<br>
-**bfi.org.uk**
+**bfi.org.uk**<br>
 
 Like all enduring classics, Jean Renoir’s _La Grande Illusion_ comes to us encumbered with a lot of baggage. A resounding success in its time made by the most canonical French filmmaker of the interwar era, it has been laden with prizes, consistently screened and much written about. This is a film with a legend. Yet at the same time it has not been untouched by controversy, while its status in the film canon is less secure than it might seem. The release of a digital print is a good opportunity to look at the reception of this mythic work both in its 1930s context and via its fluctuating reputation since, as a test not just of how a great work can mean so many different things to different people at different times, but also of the variability of critical agendas.
 
@@ -20,13 +32,9 @@ Much more controversial was the film’s French reception on its reissue in 1946
 It’s clear that the critical debates that have shaped the reception of _La Grande Illusion_ are, as ever, historically grounded. The film has ridden waves of critical approval and disapproval, yet through them continued to meet popular success. As a viewer’s comment on IMDb put it when _La Grande Illusion_ dropped out of the website’s top 250 films in 2010 (typically, comparing it to _La Règle du jeu_), ‘This is a film that you can both appreciate AND enjoy!’ While the immediate topic of the film is a specific war, the virulent debates in 1946 show its significance to a later war – and, consequently, its ability to speak to us today; issues of war, class and national conflicts have, sadly, not lost their relevance. In its ensemble perfection, _La Grande Illusion_ is also a snapshot of French cinema of the late 1930s at its absolute best. It is a classic in the terms defined by Frank Kermode: that is, a film not frozen in time, but open to different readings across times and cultures. In all these senses, then, Bazin’s verdict is as true today as it was when he wrote it in the late 1950s: ‘It is not enough to say that it has retained its power... the stature of the film remained undiminished by the passage of time.’<br>
 **Ginette Vincendeau, _Sight & Sound_, May 2012**<br>
 
-<![endif]-->
-
-**LA GRANDE ILLUSION**
-
+**LA GRANDE ILLUSION**<br>
 _Director:_ Jean Renoir  
-_Production Company:_  
-Réalisations d’art cinématographique  
+_Production Company:_ Réalisations d’art cinématographique  
 _Producers:_ Albert Pinkevitch, Frank Rollmer *  
 _Production Manager:_ Raymond Blondy  
 _Unit Manager:_ Pierre Blondy  
@@ -54,14 +62,11 @@ _Laboratory:_ Franay LTC
 _Filmed at:_ Tobis Klangfilm, Epinay,  
 Studios d’Epinay
 
-_Cast:_
-
+**Cast**<br>
 Jean Gabin _(Lieutenant Maréchal)_  
 Dita Parlo _(Elsa)_  
 Pierre Fresnay _(Captain de Boeldieu)_  
-Eric [i.e. Erich] von Stroheim
-
-_(Captain von Rauffenstein)_  
+Eric [i.e. Erich] von Stroheim _(Captain von Rauffenstein)_  
 Julien Carette _(the actor)_  
 Georges Péclet _(Cartier, French soldier)_  
 Werner Florian _(Arthur Krantz)_  
@@ -82,7 +87,8 @@ Michel Salina *
 France 1937<br>
 113 mins<br>
 
-\* Uncredited
+\* Uncredited<br>
+<br>
 
 **BIG SCREEN CLASSICS**<br>
 **La Grande Illusion**<br>
@@ -109,6 +115,20 @@ Sun 9 Jan 13:20, Tue 18 Jan 20:30<br>
 Sun 9 Jan 16:00, Thu 20 Jan 20:50, Tue 25 Jan 18:10<br>
 **Bigger Than Life**<br>
 Mon 10 Jan 14:30, Wed 19 Jan 18:05 (+ intro by Geoff Andrew, Programmer-at-Large), Wed 26 Jan 20:50<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc0MzQyMzRdfQ==
--->
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+<br>
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
