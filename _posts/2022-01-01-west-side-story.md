@@ -25,12 +25,10 @@ This is one production I never wanted to see end,’ Spielberg says. ‘I had th
 
 ‘This has been a journey without precedence: a joyful, stunningly moving, endlessly surprising encounter with the story and the score of one of the world’s greatest musicals. My brilliantly talented, fiercely committed, generous and apparently inexhaustible cast and crew of hundreds have given our film everything they’ve got, and already I can say that the film owes everything to them, as does its immensely grateful director.
 
-‘And while I’m on the subject of gratitude: on every day of the past four years during which we’ve been preparing, casting, imagining _West Side Story_, I, and my team, cast and crew have been walking in the footsteps of four giants: Leonard Bernstein, Arthur Laurents, Jerome Robbins and Stephen Sondheim. For the light they’d shed on the world, for Stephen Sondheim’ insight, guidance and support, and for the openhearted support of the Bernstein, Laurents and Robbins estates, I owe them more than I can possibly express.’<br>
+‘And while I’m on the subject of gratitude: on every day of the past four years during which we’ve been preparing, casting, imagining _West Side Story_, I, and my team, cast and crew have been walking in the footsteps of four giants: Leonard Bernstein, Arthur Laurents, Jerome Robbins and Stephen Sondheim. For the light they’d shed on the world, for Stephen Sondheim’ insight, guidance and support, and for the openhearted support of the Bernstein, Laurents and Robbins estates, I owe them more than I can possibly express.’  
 **Production notes**<br>
 
-<![endif]-->
-
-**West Side Story**  
+**WEST SIDE STORY**   
 _Directed by_: Steven Spielberg  
 _©_: 20th Century Studios  
 _©_: TSG Entertainment Finance LLC  
@@ -38,9 +36,7 @@ _Made in Association with_: TSG Entertainment
 _Presented by_: 20th Century Studios  
 _Filmed with the support of the_: New York State Governor’s Office of Motion Picture & Television Development  
 _Executive Producers_: Rita Moreno, Daniel Lupi, Adam Somner, Tony Kushner  
-_Produced by_: Steven Spielberg,
-
-Kristie Macosko Krieger, Kevin McCollum  
+_Produced by_: Steven Spielberg, Kristie Macosko Krieger, Kevin McCollum  
 _Co-producer_: Carla Raij  
 _Associate Producer_: David Saint  
 _Unit Production Managers_: Carla Raij, Daniel Lupi  
@@ -53,12 +49,8 @@ _Script Supervisor_: Jessica Lichtner
 _Casting by_: Cindy Tolan  
 _Screenplay by_: Tony Kushner  
 _Based on the Stage Play (Book by)_: Arthur Laurents  
-_Based on the Stage Play (Music by)_:
-
-Leonard Bernstein  
-_Based on the Stage Play (Lyrics by)_:
-
-Stephen Sondheim  
+_Based on the Stage Play (Music by)_: Leonard Bernstein  
+_Based on the Stage Play (Lyrics by)_: Stephen Sondheim  
 _Based on the Stage Play (Play Conceived, Directed and Choreographed by)_: Jerome Robbins  
 _Director of Photography_: Janusz Kaminski  
 _A Camera Operator_: Mitch Dubin  
@@ -144,5 +136,5 @@ USA 2021<br>
 
 A Walt Disney Studios release<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjY5NzcwNjgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTk0MjYwNjg2MSw3MzA5OTgxMTZdfQ==
 -->
