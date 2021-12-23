@@ -79,7 +79,7 @@ France 1949<br>
 \* Uncredited<br>
 
 _Jean-Pierre Melville ‘An American in Paris’_ by Ginette Vincendeau is available to buy from the BFI Shop: **https://shop.bfi.org.uk/jean-pierre-melville-an-american-in-paris.html**<br>
-<img style="float: left;" src="/img/melville.png" width="20%" height="20%">
+<img style="float: left;" src="/img/melville.jpg" width="30%" height="30%">
 <br><br><br><br><br><br><br><br><br>
 <br>
 
