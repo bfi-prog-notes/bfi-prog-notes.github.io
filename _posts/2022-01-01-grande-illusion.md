@@ -78,11 +78,37 @@ Geo Forster _(Maison-Neuve)_ *
 Habib Benglia _(Senegalese prisoner)_ *  
 Claude Vernier _(Prussian officer)_ *  
 Michel Salina *  
-France 1937<
 
-113 mins
+France 1937<br>
+113 mins<br>
 
-* Uncredited
+\* Uncredited
+
+**BIG SCREEN CLASSICS**<br>
+**La Grande Illusion**
+Sat 1 Jan 14:30, Tue 11 Jan 18:15, Sun 16 Jan 12:40
+**Citizen Kane**
+Sun 2 Jan 15:30, Tue 11 Jan 17:50, Thu 27 Jan 18:00
+**Twelve Angry Men**
+Mon 3 Jan 12:50, Fri 14 Jan 14:40, Mon 24 Jan 18:20, Fri 28 Jan 18:20
+**Shadow of a Doubt**
+Mon 3 Jan 15:40, Sat 22 Jan 12:10, Tue 25 Jan 14:30
+**Les Enfants terribles**
+Tue 4 Jan 18:00, Sun 30 Jan 15:15
+**Rome, Open City (Roma, città aperta)**
+Wed 5 Jan 17:50, Wed 26 Jan 18:00 (+ intro by lecturer and writer Dr Julia Wagner), Sat 29 Jan 13:00
+**Letter from an Unknown Woman**
+Thu 6 Jan 20:40, Sat 15 Jan 15:40, Mon 31 Jan 20:45
+**Casque d’or**
+Fri 7 Jan 20:45, Wed 12 Jan 17:50 (+ pre-recorded intro by film critic and historian Pamela Hutchinson), Sun 23 Jan 13:10
+**Gentlemen Prefer Blondes**
+Sat 8 Jan 16:00, Thu 13 Jan 18:10, Mon 17 Jan 18:20
+**Ordet (The Word)**
+Sun 9 Jan 13:20, Tue 18 Jan 20:30
+**Smiles of a Summer Night**
+Sun 9 Jan 16:00, Thu 20 Jan 20:50, Tue 25 Jan 18:10
+**Bigger Than Life**
+Mon 10 Jan 14:30, Wed 19 Jan 18:05 (+ intro by Geoff Andrew, Programmer-at-Large), Wed 26 Jan 20:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5ODYxMjk5XX0=
+eyJoaXN0b3J5IjpbMTI1NjgzMzg5MF19
 -->
