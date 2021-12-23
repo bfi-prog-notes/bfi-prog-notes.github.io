@@ -1,3 +1,14 @@
+---
+layout: post
+title: West Side Story
+published: true
+date: 2022-01-01
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Musical, Drama]
+metadata: 'USA 2021, 156 mins<br> Director: Steven Spielberg'
+pdf: '2022-01-01-west-side-story.pdf'
+---
 
 After completing his film _The Post_, Spielberg felt the moment was right to embark on _West Side Story_. Although it was still very much in the planning stage, the director’s vision was cohering: a fresh, original, unique perspective on the material.
 
@@ -96,7 +107,7 @@ _Stunt Co-ordinator_: Mark Fichera
 _Consultant on Puerto Rican Culture & History_: Julio Monge  
 _Filmed at_: Brooklyn Steiner Studios, NY  
 
-**Cast**
+**Cast**  
 Ansel Elgort _(Tony)_  
 Ariana DeBose _(Anita)_  
 David Alvarez _(Bernardo)_  
@@ -120,6 +131,7 @@ Tanairi Sade Vazquez _(Charita)_, Yesenia Ayala _(Clary)_, Gabriela M. Soto _(Co
 
 _Jet Girls:_  
 Eloise Kropp _(Dot)_, Paloma Garcia-Lee _(Graziella)_, Leigh-Ann Esty _(Gussie)_, Lauren Leach _(Karen)_, Brittany Pollack _(Mack)_, Kellie Drobnick _(Mamie)_, Skye Mattox _(Maxie)_, Adriana Pierce _(Natalie)_, Jonalyn Saxer _(Rhonda)_, Brianna Abruzzo _(Sorella)_, Halli Toland _(Sweden)_, Sara Esty _(Tat)_, Talia Ryder _(Tessa)_, Maddie Ziegler _(Velma)_  
+
 Andréa Burns _(Fausta)_  
 Mike Iveson _(Glad Hand)_  
 Jamila Velazquez _(Meche)_  
@@ -135,6 +147,38 @@ USA 2021<br>
 156 mins<br>
 
 A Walt Disney Studios release<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MjYwNjg2MSw3MzA5OTgxMTZdfQ==
--->
+<br>
+
+**NEW RELEASES**<br>
+**Titane**<br>
+From Sat 1 Jan<br>
+**West Side Story**<br>
+From Sat 1 Jan<br>
+**Memoria**<br>
+From Fri 14 Jan<br>
+**Parallel Mothers (Madres paralelas)**<br>
+From Fri 28 Jan<br>
+
+**RE-RELEASES**<br>
+**The 400 Blows (Les Quatre cents coups)**<br>
+From Fri 7 Jan<br>
+**South: Sir Ernest Shackleton’s Glorious Epic of the Antarctic**<br>
+From Fri 28 Jan<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
