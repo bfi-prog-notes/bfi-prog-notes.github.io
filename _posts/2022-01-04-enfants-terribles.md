@@ -16,10 +16,7 @@ _Les Enfants terribles_ was Truffaut, who wrote in 1974: ‘When this Cocteau-Me
 **Extracted from _Jean-Pierre Melville ‘An American in Paris’_ by Ginette Vincendeau (BFI, 2003)  
 Reproduced by kind permission of Bloomsbury Publishing. ©Ginette Vincendeau**<br>
 
-<![endif]-->
-
-**Les Enfants terribles**
-
+**LES ENFANTS TERRIBLES**<br>
 _Director:_ Jean-Pierre Melville  
 _Production Companies:_ Melville Productions, Organisation Générale Cinématographique  
 _Producer:_ Jean-Pierre Melville  
@@ -29,9 +26,7 @@ _Unit Manager:_ J. Boussard
 _Stage Manager:_ M. Dagonneau  
 _1st Assistant Director:_ Claude Pinoteau  
 _2nd Assistant Director:_ Jacques Guymont  
-_Trainee Directors:_ Michel Drach,
-
-Serge Bourguignon  
+_Trainee Directors:_ Michel Drach, Serge Bourguignon  
 _Screenplay:_ Jean Cocteau, Jean-Pierre Melville  
 _Dialogue:_ Jean Cocteau  
 _Based on the novel by:_ Jean Cocteau  
@@ -52,7 +47,7 @@ _Sound Recording:_ R. Durand
 _Sound Mixers:_ Jacques Gallois, Jacques Carrère  
 _Voiceover:_ Jean Cocteau  
 
-Cast:_
+**Cast**
 Nicole Stéphane _(Elisabeth)_  
 Edouard Dermithe _(Paul)_  
 Renée Cosima _(Agathe/Dargelos)_  
@@ -74,7 +69,9 @@ France 1949
 
 117 mins
 
-* Uncredited
+* Uncredited<br>
+
+_Jean-Pierre Melville ‘An American in Paris’_ by Ginette Vincendeau is available to buy from the BFI Shop: **https://shop.bfi.org.uk/jean-pierre-melville-an-american-in-paris.html**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0NzQ4NDU4XX0=
+eyJoaXN0b3J5IjpbLTE5MjIyODk2OTFdfQ==
 -->
