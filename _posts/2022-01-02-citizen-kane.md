@@ -31,92 +31,51 @@ This is unquestionably one of the most intelligent films to appear for many year
 
 **Citizen Kane**
 _Director:_ Orson Welles
-
 _©/Production Company:_ RKO Radio Pictures
-
 _Production Company:_ Mercury Productions
-
 _Producer:_ Orson Welles
-
 _Screenplay:_ Herman J. Mankiewicz, Orson Welles
-
 _Director of Photography:_ Gregg Toland
-
 _Special Effects:_ Vernon L. Walker
-
 _Editor:_ Robert Wise
-
 _Art Director:_ Van Nest Polglase
-
 _Associate Art Director:_ Perry Ferguson
-
 _Costumes:_ Edward Stevenson
-
 _Music/Music Conductor:_ Bernard Herrmann
-
-_[Sound] Recorders:_ Bailey Fesler, James G. Stewart
+_[Sound] Recorders:_ Bailey Fesler, James G. Stewart  
 
 _uncredited_
-
 _Associate Producer:_ Richard Baer; _Editorial Supervisor:_ John Houseman; _Production Assistants:_ William Alland, Richard Wilson; _Assistant Directors:_ Edward Donahoe, Fred A. Fleck; _Continuity:_ Amalia Kent; _Camera Operator:_ Bert Shipman; _Assistant Camera:_ Eddie Garvin; _Camera for Early Make-up/ Wardrobe Tests:_ Russell Metty; _Retakes/ Additional Shooting:_ Harry J. Wild; _Grip:_ Ralph Hoge; _Gaffer:_ William J. McClellan; _Stills:_ Alexander Kahle; _Matte Artist:_ Mario Larrinaga; _Effects Camera:_ Russell A. Cully; _Montage Effects:_ Douglas Travers; _Assistant Editor:_ Mark Robson; _Assistant Art Director:_ Hilyard Brown; _Set Decorator:_ Darrell Silvera; _Assistant Set Decorator:_ Al Fields; _Principal Sketch Artist:_ Charles Ohmann; _Sketches/Graphics:_ Al Abbott, Claude Gillingwater Jr, Albert Pyke, Maurice Zuberano; _Property Manager:_ Charles Sayers; _Newspaper Props:_ Harry Reitz; _Wardrobe:_ Earl Leas, Margaret Van Horn; _Make-up:_ Maurice Seiderman; _Assistant Make-up:_ Layne Britton; _Make-up Department Head:_ Mel Berns; _Optical Printing:_ Linwood G. Dunn; _‘Charlie Kane’ Lyrics:_ Herman Ruby; _Dance Choreography:_ Arthur Appel; _Sound Department Head:_ John Aalberg; _Boom Operator:_ Jimmy Thompson; _Sound Effects:_ Harry Essman; _Publicity for Mercury Theatre:_ Herbert Drake; _General Press Representative:_ Barret McCormick
 
-_Cast:_
+**Cast**
 
-Joseph Cotten
-
-_(Jedediah Leland/newsreel journalist)_
-
+Joseph Cotten _(Jedediah Leland/newsreel journalist)_
 Dorothy Comingore _(Susan Alexander Kane)_
-
 Agnes Moorehead _(Mary Kane)_
-
 Ruth Warrick _(Emily Norton Kane)_
-
 Ray Collins _(James ‘Boss’ W. Gettys)_
-
 Erskine Sanford _(Herbert Carter/newsreel journalist)_
-
 Everett Sloane _(Mr Bernstein)_
-
 William Alland _(Jerry Thompson/narrator)_
-
 Paul Stewart _(Raymond)_
-
 George Coulouris _(Walter Parks Thatcher)_
-
 Fortunio Bonanova _(Matiste)_
-
-Gus Schilling
-
-_(John, El Rancho headwaiter/ newsreel journalist)_
-
+Gus Schilling _(John, El Rancho headwaiter/ newsreel journalist)_
 Philip Van Zandt _(Mr Rawlston)_
-
 Georgia Backus _(Bertha Anderson)_
-
 Harry Shannon _(James Kane)_
-
 Sonny Bupp _(Kane III)_
-
 Buddy Swan _(Kane, aged 8)_
-
 Orson Welles _(Charles Foster Kane)_
 
 _uncredited_
-
 Al Eben _(Solly)_
-
 Ellen Lowe _(Miss Townsend)_
-
 Charles Bennett _(entertainer)_
-
 Irving Mitchell _(Doctor Corey)_
-
 Joe Manz _(Jennings)_
 
-Alan Ladd, Harriet Brandon, Jack Santoro, Louise Currie, Eddie Coke, Walter Sande,
-
-Arthur O’Connell, Richard Wilson, Katherine Trosper, Milton Kibbee _(reporters)_
+Alan Ladd, Harriet Brandon, Jack Santoro, Louise Currie, Eddie Coke, Walter Sande, Arthur O’Connell, Richard Wilson, Katherine Trosper, Milton Kibbee _(reporters)_
 
 Bruce Sidney _(newsman)_
 
@@ -201,5 +160,5 @@ USA 1941©
 
 119 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjI3NDQzNl19
+eyJoaXN0b3J5IjpbLTQ0NzQ3NTQwXX0=
 -->
