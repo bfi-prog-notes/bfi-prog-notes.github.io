@@ -21,155 +21,153 @@ The angel that finally adds a touch of hope in Laura’s after life, and which c
 **Kim Newman, _Sight & Sound_, November 1992**
 <br><br>
 
-**TWIN PEAKS  FIRE WALK WITH ME**
-
-_Directed by:_ David Lynch
-
-©: Twin Peaks Productions, Inc.
-
+**TWIN PEAKS: FIRE WALK WITH ME**<br>
+_Directed by:_ David Lynch<br>
+©: Twin Peaks Productions, Inc.<br>
 _Production Companies:_ CiBy 2000,
 
-Lynch/Frost Productions
+Lynch/Frost Productions<br>
 
-_Presented by:_ Francis Bouygues
+_Presented by:_ Francis Bouygues<br>
 
-_Executive Producers:_ Mark Frost, David Lynch
+_Executive Producers:_ Mark Frost, David Lynch<br>
 
-_Produced by:_ Gregg Fienberg
+_Produced by:_ Gregg Fienberg<br>
 
-_Co-producer:_ John Wentworth
+_Co-producer:_ John Wentworth<br>
 
-_Associate Producers:_ Johanna Ray, Tim Harbert
+_Associate Producers:_ Johanna Ray, Tim Harbert<br>
 
-_Unit Production Manager:_ Gregg Fienberg
+_Unit Production Manager:_ Gregg Fienberg<br>
 
-_Supervising Co-ordinator:_ Joseph Montrone
+_Supervising Co-ordinator:_ Joseph Montrone<br>
 
-_Production Controller:_ Nowell B. Grossman
+_Production Controller:_ Nowell B. Grossman<br>
 
-_Location Liaison:_ Julie Duvic
+_Location Liaison:_ Julie Duvic<br>
 
-_Post-production Co-ordinator:_ Elizabeth Fox
+_Post-production Co-ordinator:_ Elizabeth Fox<br>
 
-_1st Assistant Director:_ Deepak Nayar
+_1st Assistant Director:_ Deepak Nayar<br>
 
-_Script Supervisor:_ Cori Glazer
+_Script Supervisor:_ Cori Glazer<br>
 
-_Casting by:_ Johanna Ray
+_Casting by:_ Johanna Ray<br>
 
-_Written by:_ David Lynch, Robert Engels
+_Written by:_ David Lynch, Robert Engels<br>
 
-_Director of Photography:_ Ron Garcia
+_Director of Photography:_ Ron Garcia<br>
 
-_Additional Photography:_ Sean Doyle
+_Additional Photography:_ Sean Doyle<br>
 
-_Steadicam Operators:_ Dan Kneece, Bruce Greene
+_Steadicam Operators:_ Dan Kneece, Bruce Greene<br>
 
-_Special Effects Co-ordinator:_ Robert E. McCarthy
+_Special Effects Co-ordinator:_ Robert E. McCarthy<br>
 
-_Edited by:_ Mary Sweeney
+_Edited by:_ Mary Sweeney<br>
 
-_Production Designed by:_ Patricia Norris
+_Production Designed by:_ Patricia Norris<br>
 
-_Costumes Designed by:_ Patricia Norris
+_Costumes Designed by:_ Patricia Norris<br>
 
-_Key Make-up Artist:_ Katharina Hirsch-Smith
+_Key Make-up Artist:_ Katharina Hirsch-Smith<br>
 
-_Hair Stylist:_ Brent Lavett
+_Hair Stylist:_ Brent Lavett<br>
 
-_Titles/Opticals:_ Pacific Title, CFI
+_Titles/Opticals:_ Pacific Title, CFI<br>
 
 _Music Composed and Conducted by:_
 
-Angelo Badalamenti
+Angelo Badalamenti<br>
 
-_Sound Designer:_ David Lynch
+_Sound Designer:_ David Lynch<br>
 
-_Sound Mixer:_ Jon Huck
+_Sound Mixer:_ Jon Huck<br>
 
 _Re-recording Mixers:_ David Parker,
 
-Michael Semanick, David Lynch
+Michael Semanick, David Lynch<br>
 
-_Supervising Sound Editor:_ Douglas Murray
+_Supervising Sound Editor:_ Douglas Murray<br>
 
-_Stunt Co-ordinator:_ Jeff Smolek
+_Stunt Co-ordinator:_ Jeff Smolek<br>
 
-_Cast:_
+_Cast:_<br>
 
-Sheryl Lee _(Laura Palmer)_
+Sheryl Lee _(Laura Palmer)_<br>
 
-Ray Wise _(Leland Palmer)_
+Ray Wise _(Leland Palmer)_<br>
 
-Mädchen Amick _(Shelly Johnson)_
+Mädchen Amick _(Shelly Johnson)_<br>
 
-Dana Ashbrook _(Bobby Briggs)_
+Dana Ashbrook _(Bobby Briggs)_<br>
 
-Phoebe Augustine _(Ronette Pulaski)_
+Phoebe Augustine _(Ronette Pulaski)_<br>
 
-David Bowie _(Phillip Jeffries)_
+David Bowie _(Phillip Jeffries)_<br>
 
-Eric DaRe _(Leo Johnson)_
+Eric DaRe _(Leo Johnson)_<br>
 
-Miguel Ferrer _(Albert Rosenfeld)_
+Miguel Ferrer _(Albert Rosenfeld)_<br>
 
-Pamela Gidley _(Teresa Banks)_
+Pamela Gidley _(Teresa Banks)_<br>
 
-Heather Graham _(Annie Blackburn)_
+Heather Graham _(Annie Blackburn)_<br>
 
-Chris Isaak _(Special Agent Chester Desmond)_
+Chris Isaak _(Special Agent Chester Desmond)_<br>
 
-Moira Kelly _(Donna Hayward)_
+Moira Kelly _(Donna Hayward)_<br>
 
-Peggy Lipton _(Norma Jennings)_
+Peggy Lipton _(Norma Jennings)_<br>
 
-David Lynch _(Gordon Cole)_
+David Lynch _(Gordon Cole)_<br>
 
-James Marshall _(James Hurley)_
+James Marshall _(James Hurley)_<br>
 
-Jürgen Prochnow _(woodsman)_
+Jürgen Prochnow _(woodsman)_<br>
 
-Harry Dean Stanton _(Carl Rodd)_
+Harry Dean Stanton _(Carl Rodd)_<br>
 
-Kiefer Sutherland _(Sam Stanley)_
+Kiefer Sutherland _(Sam Stanley)_<br>
 
-Lenny Von Dohlen _(Harold Smith)_
+Lenny Von Dohlen _(Harold Smith)_<br>
 
-Grace Zabriskie _(Sarah Palmer)_
+Grace Zabriskie _(Sarah Palmer)_<br>
 
-Kyle MacLachlan _(Special Agent Dale Cooper)_
+Kyle MacLachlan _(Special Agent Dale Cooper)_<br>
 
-Frances Bay _(Mrs Tremond (Chalfont))_
+Frances Bay _(Mrs Tremond (Chalfont))_<br>
 
-Catherine E. Coulson _(the log lady)_
+Catherine E. Coulson _(the log lady)_<br>
 
-Michael J. Anderson _(Man From Another Place)_
+Michael J. Anderson _(Man From Another Place)_<br>
 
-Frank Silva _(Bob)_
+Frank Silva _(Bob)_<br>
 
-Walter Olkewicz _(Jacques Renault)_
+Walter Olkewicz _(Jacques Renault)_<br>
 
-Al Strobel _(Philip Gerard, the one armed man)_
+Al Strobel _(Philip Gerard, the one armed man)_<br>
 
-Gary Hershberger _(Mike Nelson)_
+Gary Hershberger _(Mike Nelson)_<br>
 
-Sandra Kinder _(Irene at Hap’s)_
+Sandra Kinder _(Irene at Hap’s)_<br>
 
-Chris Pedersen _(Tommy)_
+Chris Pedersen _(Tommy)_<br>
 
-Victor Rivers _(Buck)_
+Victor Rivers _(Buck)_<br>
 
-Rick Aiello _(Cliff Howard)_
+Rick Aiello _(Cliff Howard)_<br>
 
-Gary Bullock _(Sheriff Cable)_
+Gary Bullock _(Sheriff Cable)_<br>
 
-Kimberly Ann Cole _(Lil the dancer)_
+Kimberly Ann Cole _(Lil the dancer)_<br>
 
-Julee Cruise _(roadhouse singer)_
+Julee Cruise _(roadhouse singer)_<br>
 
-USA/France 1992©
+USA/France 1992©<br>
 
 134 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODQ5OTI2Ml19
+eyJoaXN0b3J5IjpbOTk5MDc0NDc4XX0=
 -->
