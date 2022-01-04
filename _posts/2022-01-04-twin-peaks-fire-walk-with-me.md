@@ -1,7 +1,16 @@
+---
+layout: post
+title: Twin Peaks<br>Fire Walk with Me
+published: true
+date: 2022-01-04
+readtime: true
+categories: ['BOWIE<br>STARMAN AND THE SILVER SCREEN']
+tags: [Drama, Horror]
+metadata: 'USA/France 1992, 134 mins<br> Director: David Lynch'
+pdf: '2022-01-04-twin-peaks-fire-walk-with-me.pdf'
+---
 
-
-Originally met with universal derision, almost 30 years on _Fire Walk with Me_ has had an exceptional reversal of fortune: the feature-length follow-up to the hit TV series is now heralded as a masterpiece in horror. It features a stunning performance from Sheryl Lee, a short but impactful appearance from Bowie as Agent Jeffries and, of course, Angelo Badalamenti’s score, which undulates with disquiet. _Fire Walk with Me_ is a terrifying fever-dream that lives long in  
-the memory.  
+Originally met with universal derision, almost 30 years on _Fire Walk with Me_ has had an exceptional reversal of fortune: the feature-length follow-up to the hit TV series is now heralded as a masterpiece in horror. It features a stunning performance from Sheryl Lee, a short but impactful appearance from Bowie as Agent Jeffries and, of course, Angelo Badalamenti’s score, which undulates with disquiet. _Fire Walk with Me_ is a terrifying fever-dream that lives long in  the memory.  
 **bfi.org.uk**
 
 Given that _Twin Peaks_, the television series, represents a bizarre fusion of the values of prime-time soap-mystery with the sado-delirium of David Lynch’s evolving vision, it is at once surprising and horrifyingly inevitable that this feature spin-off should pare away all the elements that made the show bearable and cultishly appealing, coming up with what may well be the director’s cruellest film since _Eraserhead_. Refusing to satisfy the series’ fans’ wish to know what happens next by not picking up from the show’s cliffhanger ending – which is referred to obliquely by the momentary appearance of the inexplicable Annie, who refers to a future when Bob has (temporarily?) prevailed over Agent Cooper – the film instead returns to the backstory of Laura Palmer.
@@ -16,8 +25,7 @@ The conventional way of providing a film to cap the cancelled series would have 
 
 After the prologue, there is a flurry of re-establishing touches – micro-cameos from series regulars like Mädchen Amick and Eric DaRe, capsule scenes to recreate plot elements – before the film plunges into Laura Palmer’s degradation. In the monster father figure of Leland/Bob, Lynch has a bogeyman who puts Craven’s Freddie Krueger to shame by bringing into the open the incest, abuse and brutality which the _Elm Street_ movies conceal behind MTV surrealism and flip wisecracks. When Donna is slipped a hallucinogen at the Renault roadhouse, the images (and, as usual with Lynch, the multi-layered and terrifying soundtrack) couldn’t be any more disturbing.
 
-The film’s many moments of horror – an excursion into a drab room in a picture given Laura by a spectral old woman and which turns out to be one of the entrances to the Lodge; Laura’s hysterical and numbed laughter as Bobby is shocked by the murder he has committed; the alternations of the glowering Leland with the insanely evil Bob – demonstrate just how tidy, conventional and domesticated the generic horror movie of the 80s and 90s has become.  
-The angel that finally adds a touch of hope in Laura’s after life, and which could have strayed in from Lynch’s _Wild at Heart_ where she was played by Sheryl Lee, is the single upbeat element in a movie relentlessly concerned with nightmare. While not exactly comfortable or pleasurable viewing, _Fire Walk with Me_ succeeds in showing the sour heart that has always lurked beneath the onion leaves of the show.  
+The film’s many moments of horror – an excursion into a drab room in a picture given Laura by a spectral old woman and which turns out to be one of the entrances to the Lodge; Laura’s hysterical and numbed laughter as Bobby is shocked by the murder he has committed; the alternations of the glowering Leland with the insanely evil Bob – demonstrate just how tidy, conventional and domesticated the generic horror movie of the 80s and 90s has become.  The angel that finally adds a touch of hope in Laura’s after life, and which could have strayed in from Lynch’s _Wild at Heart_ where she was played by Sheryl Lee, is the single upbeat element in a movie relentlessly concerned with nightmare. While not exactly comfortable or pleasurable viewing, _Fire Walk with Me_ succeeds in showing the sour heart that has always lurked beneath the onion leaves of the show.  
 **Kim Newman, _Sight & Sound_, November 1992**
 <br><br>
 
@@ -96,6 +104,66 @@ Julee Cruise _(roadhouse singer)_<br>
 USA/France 1992©<br>
 134 mins
 <br><br>
+
+**BOWIE: STARMAN AND THE SILVER SCREEN**<br>
+**The Prestige**<br>
+Sat 1 Jan 17:30, Tue 11 Jan 20:30<br>
+**Merry Christmas Mr. Lawrence**<br>
+Sat 1 Jan 20:30, Sat 8 Jan 18:20, Thu 20 Jan 20:30<br>
+**Christiane F. (Wir Kinder vom Bahnhof Zoo)**<br>
+Sun 2 Jan 15:00, Fri 21 Jan 20:30<br>
+**Absolute Beginners**<br>
+Sun 2 Jan 18:00, Fri 14 Jan 20:40 (+ Inside Cinema: David Bowie), Fri 28 Jan 20:45<br>
+**Twin Peaks: Fire Walk with Me**<br>
+Tue 4 Jan 17:50, Mon 10 Jan 20:20<br>
+**Basquiat**<br>
+Wed 5 Jan 18:10, Sun 16 Jan 15:20 (+ Inside Cinema: David Bowie)<br>
+**Bug Special: David Bowie**<br>
+Thu 6 Jan 20:50, Fri 7 Jan 20:50<br>
+**Labyrinth**<br>
+Sat 8 Jan 12:00, Sun 9 Jan 13:00, Wed 26 Jan 18:10<br>
+**BFI Course: David Bowie: So I Felt like an Actor**<br>
+Sat 8 Jan 15:45<br>
+**The Man Who Fell to Earth**<br>
+Sat 8 Jan 20:10, Mon 17 Jan 14:30, Sun 30 Jan 18:10<br>
+**Cracked Actor + Oddities + Inside Cinema: David Bowie**<br>
+Sun 9 Jan 16:10<br>
+**Ziggy Stardust & The Spiders from Mars**<br>
+Sun 9 Jan 18:10 (+ Inside Cinema: David Bowie), Mon 24 Jan 20:30<br>
+**The Hunger**<br>
+Mon 10 Jan 18:10, Sat 22 Jan 20:50<br>
+**Baal** + extended intro by Adrian Wootton **+ Pierrot in Turquoise or The Looking Glass Murders**<br>
+Wed 19 Jan 18:00<br>
+**Bowie at Glastonbury 2000**<br>
+Sat 22 Jan 18:00<br>
+<br>
+
+**In association with**  
+<img style="float: left;" src="/img/bowie-75.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+**Promotional partner**  
+<img style="float: left;" src="/img/brixton-brewery.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEzNTQ5MDY0MDJdfQ==
 -->
