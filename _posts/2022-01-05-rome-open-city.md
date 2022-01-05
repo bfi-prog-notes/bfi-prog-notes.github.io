@@ -69,9 +69,9 @@ _Music_: Renzo Rossellini
 _Conductor_: L. Ricci  
 _Sound_: R. Del Monte  
 _Sound Recording_: Fono Roma  
-_Sound System_: Western Electric
+_Sound System_: Western Electric  
 
-**Cast** 
+**Cast**   
 Aldo Fabrizi _(Don Pietro Pellegrini)_  
 Anna Magnani _(Sora Pina)_  
 V. [Vito] Annichiarico _(Marcello, Pina’s son)_  
