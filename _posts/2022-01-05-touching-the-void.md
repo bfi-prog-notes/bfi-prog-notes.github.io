@@ -82,8 +82,7 @@ _Consultants_: Joe Simpson, Simon Yates
 _With Special thanks to_: Paul Webster  
 _Unit Publicity_: Emma Chapman Publicity
 
-_With:_
-
+**With**  
 Brendan Mackey _(Joe Simpson – reconstruction)_  
 Nicholas Aaron _(Simon Yates – reconstruction)_  
 Ollie Ryall _(Richard Hawking – reconstruction)_  
@@ -91,9 +90,9 @@ Joe Simpson
 Simon Yates  
 Richard Hawking
 
-UK/USA 2003©
-
+UK/USA 2003©  
 106 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjY1NjIxXX0=
+eyJoaXN0b3J5IjpbMTU1OTA4Mjg1XX0=
 -->
