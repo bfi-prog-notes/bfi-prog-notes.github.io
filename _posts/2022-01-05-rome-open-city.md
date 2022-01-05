@@ -1,6 +1,3 @@
-
-<![endif]-->
-
 _The screening on Wednesday 29 January will be introduced by lecturer and writer Dr Julia Wagner._
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -27,7 +24,83 @@ Roberto Rossellini’s three war pictures are just as much history as it is cine
 Rossellini fell on hard times just as the Bergman-Fellini-Kurosawa art-film era peaked, with critics such as Pauline Kael shrugging and others hardly noticing at all. But film writers of all stripes in recent decades have come to pantheonise him, often without being capable of clarifying why – after all, his directing can be distracted (a reflection of his methods; co-writer/assistant director Fellini has remarked on how the set of _Paisan_ felt like a party), his visuals could be serviceable and his narratives sometimes seemed preachy. Truly, the circumstances under which _Rome, Open City_ was filmed – shot on piecemeal stock in locations where just two months before the participants in the production had suffered Nazi atrocities and worked in ‘la Resistenza’, and as the northern areas of the country were still fighting the Fascists – lent the film an authentic electricity it might not otherwise have had in such full supply.
 
 But the grace of auteurism is to deflect questions of mere technique and effectiveness, and Rossellini’s achievement has dawned as one of in-the-moment historicisation and sympathetic temperance, an inquiring sensibility that has allowed David Thomson to describe _Paisan_ as ‘the truest Second World War movie’ and made Rossellini one of the key chroniclers of history in general. Spectacle and theatrical drama didn’t interest him; rather, the projection of the film-making’s reality was the ‘truth’ he sought to capture, in a way that paved the way for Godard and more acutely presaged the manner of Kiarostami. Thus, _Rome, Open City_, a fleet and breathless drama about a widow and a priest cornered into helping a Resistance leader, was a film ‘found’ in the ruins, so close to recent catastrophe that it seemed to be non-fiction. Indeed, it was ‘real’, ‘documenting’ its own attempts to show the world what Rossellini and his fellow Romans had seen, which would otherwise vanish into memory.<br>
-**Michael Atkinson, _Sight and Sound_, March 2010**
+**Michael Atkinson, _Sight and Sound_, March 2010**<br>
+
+<![endif]-->
+
+**Rome, Open City (Roma città aperta)**
+
+_Director_: Roberto Rossellini  
+_Production Company_: Excelsa Film  
+_Production Company_: CIS-Nettunia *  
+_Producers_: Chiara Politi, Peppino Amato,
+
+Aldo Venturini, Rod E. Geiger *  
+_Assistant Producers_: Bruno Todini,
+
+Antonio Palumbo  
+_Production Manager_: F. De Martino  
+_Production Managers_: Carlo Civallero,
+
+Angelo Besozzi, Ermanno Donati, Luigi Carpentieri *  
+_Production Secretary_: A. Manni  
+_Assistant Director_: S. Amidei  
+_Assistant Directors_: Angela Fellini, Mario Chiari, Alberto Manni, Bruno Todini *  
+_Continuity_: J. Tuzzi  
+_Screenplay/Dialogue_: Sergio Amidei  
+_Screenplay/Dialogue in collaboration with_:
+
+Federico Fellini  
+_From a story by_: Sergio Amidei  
+_From a story by_: Alberto Consiglio *  
+_Director of Photography_: Ubaldo Arata  
+_Camera Operator_: V. Seratrice  
+_Camera:_ Gianni Di Venanzo, Carlo Carlini,
+
+Carlo Di Palma, Giuseppe Berta *  
+_Editor_: Eraldo Da Roma  
+_Assistant Editor_: Jolanda Benvenuti *  
+_Sets_: R. Megna  
+_Furnishings_: Mario Chiari *  
+_Make-up_: Alberto De Rossi *  
+_Torture Scenes Make-up_: Nino Franchina *  
+_Negatives/Positives_: Tecnostampa (Rome)  
+_Tecnostampa Manager_: V. Genesi  
+_Music_: Renzo Rossellini  
+_Conductor_: L. Ricci  
+_Sound_: R. Del Monte  
+_Sound Recording_: Fono Roma  
+_Sound System_: Western Electric
+
+**Cast 
+Aldo Fabrizi _(Don Pietro Pellegrini)_  
+Anna Magnani _(Sora Pina)_  
+V. [Vito] Annichiarico _(Marcello, Pina’s son)_  
+N. [Nando] Bruno _(Agostino, aka Purgatorio, sacristan)_  
+H. [Harry] Feist _(Major Bergmann)_  
+F. [Francesco] Grandjacquet _(Francesco)_  
+M. [Maria] Michi _(Marina Mari)_  
+M. [Marcello] Pagliero_  
+(Giorgio Manfredi, aka Luigi Ferraris)_  
+E. [Eduardo] Passanelli _(policeman)_  
+C. [Carlo] Sindici _(police commissioner)_  
+A. [Akos] Tolnay _(Austrian deserter)_  
+[Joop] Van Hulzen _(Major Hartmann)_  
+Giovanna Galletti _(Ingrid) *_  
+Carla Rovere _(Lauretta, Pina’s sister) *_  
+Amalia Pellegrini _(Manfredi’s landlady) *_  
+Alberto Tavazzi _(priest at execution) *_  
+Ferruccio De Martino _(soldier at execution) *_  
+Alberto Manni _(black marketer) *_  
+Lauro Gazzolo _(dubbed voice of Manfredi) *_  
+Giulio Panicali _(dubbed voice of Major Bergmann)*_  
+Gualtiero De Angelis _(dubbed voice of Francesco) *_  
+Roswitha Schmidt _(dubbed voice of Ingrid) *_<br>
+
+Italy 1946<br>
+103 mins<br>
+
+\* Uncredited<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzcwMDY1N119
+eyJoaXN0b3J5IjpbMTAxNjU0NDczMF19
 -->
