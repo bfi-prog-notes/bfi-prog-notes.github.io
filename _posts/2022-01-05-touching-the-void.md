@@ -21,11 +21,9 @@ _Director_: Kevin Macdonald
 ©: FilmFour, Film Council  
 _Presented by_: FilmFour, Film Council  
 _Production Company_:  Darlow Smithson Productions  
-_Presented in association with/Co-financed by_: Channel Four, PublicBroadcasting Service  
-_Made with the support of_:  
-UK Film Council New Cinema Fund  
-_Executive Producers_: Robin Gutch,  
-Charles Furneaux, Paul Trijbits  
+_Presented in association with/Co-financed by_: Channel Four, Public Broadcasting Service  
+_Made with the support of_:  UK Film Council New Cinema Fund  
+_Executive Producers_: Robin Gutch,  Charles Furneaux, Paul Trijbits  
 _Producer_: John Smithson  
 _Co-producer_: Sue Summers  
 _Line Producer_: Gina Marsh  
@@ -33,10 +31,7 @@ _Associate Producer_: Paul Sowerbutts
 _Production Co-ordinator_: Nion Hazell  
 _Production Accountant_: James Reekie  
 _Post-production Consultant_: Stephen Barker  
-_Production Team_: Christine Baxter-Jones,  
-Lesley Brown, Lucy Daniels, Regine Dura,  
-Deborah McLauchlan, Jesús Montero,  
-Emma Parsons, Faye Richardson, Gillian Strachan  
+_Production Team_: Christine Baxter-Jones,  Lesley Brown, Lucy Daniels, Regine Dura,  Deborah McLauchlan, Jesús Montero,  Emma Parsons, Faye Richardson, Gillian Strachan  
 _Archive Research_: Paul Gardner  
 _1st Assistant Director_: Nick Laws  
 _Casting_: Susie Figgis  
@@ -74,20 +69,14 @@ _Assistant Re-recording Mixer_: Richard Davey
 _Foley Supervisor_: Anthony Faust  
 _Foley Artist_: Felicity Cottrell  
 _Foley Editor_: Robert Brazier  
-_Climbing Double/Stunts (Joe Simpson)_:  
-Dave ‘Cubby’ Cuthbertson  
-_Climbing Double/Stunts (Simon Yates)_:  
-Rory Gregory  
-_Additional Reconstruction_: Joe Simpson,  
-Simon Yates  
+_Climbing Double/Stunts (Joe Simpson)_:  Dave ‘Cubby’ Cuthbertson  
+_Climbing Double/Stunts (Simon Yates)_:  Rory Gregory  
+_Additional Reconstruction_: Joe Simpson,  Simon Yates  
 _Head Mountain Guide_: Brian Hall  
-_Key Mountain Guide/Safety Team_:  
-Dave ‘Cubby’ Cuthbertson, John Falkiner, Rory Gregory, Paul Moores, Harry Taylor, John Whittle  
+_Key Mountain Guide/Safety Team_:  Dave ‘Cubby’ Cuthbertson, John Falkiner, Rory Gregory, Paul Moores, Harry Taylor, John Whittle  
 _Trekking Leader (Peru)_: Néstor Morales Flores  
 _Climbing Support (Peru)_: Jorge Clemente Vargas, Hugo Milla Chinchay, Marcelino Milla Huarac, Pelayo Milla Morales, Greobardo Pascual Cori, Rodolfo Reyes Oropeza, Eloy Salazar Obregón, Juan Sánchez, Eduardo Shaún Caldúa, Pelayo Silverio Pariamachi  
-_Climbing Support (Alps)_: Olly Allen,  
-Christine Barnes, Jim Kerr, François Marsigny,  
-Tim Rhodes, Ollie Ryall  
+_Climbing Support (Alps)_: Olly Allen,  Christine Barnes, Jim Kerr, François Marsigny,  Tim Rhodes, Ollie Ryall  
 _In Memory of (Aerial Photographer)_: Robert Fulton  
 _Consultants_: Joe Simpson, Simon Yates  
 _With Special thanks to_: Paul Webster  
@@ -106,5 +95,5 @@ UK/USA 2003©
 
 106 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDM2ODU4MDNdfQ==
+eyJoaXN0b3J5IjpbLTQ5MjY1NjIxXX0=
 -->
