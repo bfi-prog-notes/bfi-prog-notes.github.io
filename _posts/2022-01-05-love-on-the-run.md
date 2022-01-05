@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Love on the Run
+published: true
+date: 2022-01-05
+readtime: true
+categories: ['FRANÇOIS TRUFFAUT<br>FOR THE LOVE OF FILMS']
+tags: [Drama]
+metadata: 'France 1978, 94 mins<br> Director: François Truffaut'
+pdf: '2022-01-05-love-on-the-run.pdf'
+---
 
 A man in his early thirties, that day finally divorced, takes his son to the station to send him off on a school camping holiday. In order to carry out this assignment he has had to give up a date with his latest girlfriend. From a train standing at the opposite platform a beautiful woman (perhaps a girl still?) smiles and waves her recognition: she flaps a copy of the young man’s only published novel, called _Les Salades d’amour_. He is exquisitely flattered. He turns to his son with a parting word of advice: ‘Always be nice to girls.’  The trains draw out of the station simultaneously. He hesitates a moment and, like a 20th century D’Artagnan, he leaps aboard the train containing the girl who is reading his novel. Antoine Doinel is in flight.
 
@@ -80,6 +90,45 @@ Chantal Zaugg _(child)_<br>
 France 1978©<br>
 94 mins
 <br><br>
+
+**THE ANTOINE DOINEL CYCLE**<br>
+**Antoine et Colette (**from **L’Amour à vingt ans) + Stolen Kisses (Baisers volés)**<br>
+Sat 1 Jan 17:50, Tue 11 Jan 20:35,  Sat 15 Jan 12:10, Sun 23 Jan 15:30<br>
+**Bed and Board (Domicile conjugale)**<br>
+Mon 3 Jan 13:00, Thu 13 Jan 20:45,  Wed 19 Jan 14:30<br>
+**Love on the Run (L’Amour en fuite)**<br>
+Wed 5 Jan 20:40, Sat 15 Jan 15:30,  Mon 31 Jan 20:40<br>
+**The 400 Blows (Les Quatre cents coups)**<br>
+From Fri 7 Jan<br>
+
+
+**In cultural partnership with**  
+<img style="float: left;" src="/img/institut-francais.jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+
+**Promotional partner**  
+<img style="float: left;" src="/img/brasserie-blanc.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTkyNTk4NTQ5Nl19
 -->
