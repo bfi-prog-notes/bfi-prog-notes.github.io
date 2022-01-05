@@ -55,11 +55,11 @@ _Director of Photography_: Ubaldo Arata
 _Camera Operator_: V. Seratrice  
 _Camera:_ Gianni Di Venanzo, Carlo Carlini, Carlo Di Palma, Giuseppe Berta \*  
 _Editor_: Eraldo Da Roma  
-_Assistant Editor_: Jolanda Benvenuti *  
+_Assistant Editor_: Jolanda Benvenuti \*  
 _Sets_: R. Megna  
-_Furnishings_: Mario Chiari *  
-_Make-up_: Alberto De Rossi *  
-_Torture Scenes Make-up_: Nino Franchina *  
+_Furnishings_: Mario Chiari \*  
+_Make-up_: Alberto De Rossi \*  
+_Torture Scenes Make-up_: Nino Franchina \*  
 _Negatives/Positives_: Tecnostampa (Rome)  
 _Tecnostampa Manager_: V. Genesi  
 _Music_: Renzo Rossellini  
@@ -75,20 +75,19 @@ V. [Vito] Annichiarico _(Marcello, Pina’s son)_
 N. [Nando] Bruno _(Agostino, aka Purgatorio, sacristan)_  
 H. [Harry] Feist _(Major Bergmann)_  
 F. [Francesco] Grandjacquet _(Francesco)_  
-M. [Maria] Michi _(Marina Mari)_  
-M. [Marcello] Pagliero_  
-(Giorgio Manfredi, aka Luigi Ferraris)_  
+M. [Maria] Michi _(Marina Mari)  
+M. [Marcello] Pagliero_ (Giorgio Manfredi, aka Luigi Ferraris)  
 E. [Eduardo] Passanelli _(policeman)_  
 C. [Carlo] Sindici _(police commissioner)_  
 A. [Akos] Tolnay _(Austrian deserter)_  
 [Joop] Van Hulzen _(Major Hartmann)_  
-Giovanna Galletti _(Ingrid) *_  
-Carla Rovere _(Lauretta, Pina’s sister) *_  
-Amalia Pellegrini _(Manfredi’s landlady) *_  
-Alberto Tavazzi _(priest at execution) *_  
-Ferruccio De Martino _(soldier at execution) *_  
-Alberto Manni _(black marketer) *_  
-Lauro Gazzolo _(dubbed voice of Manfredi) *_  
+Giovanna Galletti _(Ingrid) *  
+Carla Rovere _(Lauretta, Pina’s sister) \*  
+Amalia Pellegrini _(Manfredi’s landlady) \*_  
+Alberto Tavazzi _(priest at execution) \*_  
+Ferruccio De Martino _(soldier at execution) \*_  
+Alberto Manni _(black marketer) \*_  
+Lauro Gazzolo _(dubbed voice of Manfredi) \*_  
 Giulio Panicali _(dubbed voice of Major Bergmann)*_  
 Gualtiero De Angelis _(dubbed voice of Francesco) *_  
 Roswitha Schmidt _(dubbed voice of Ingrid) *_<br>
@@ -98,5 +97,5 @@ Italy 1946<br>
 
 \* Uncredited<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA2NTEwMjhdfQ==
+eyJoaXN0b3J5IjpbMTM1MjAwNzgxOF19
 -->
