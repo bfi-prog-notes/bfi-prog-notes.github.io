@@ -26,16 +26,13 @@ Rossellini fell on hard times just as the Bergman-Fellini-Kurosawa art-film era 
 But the grace of auteurism is to deflect questions of mere technique and effectiveness, and Rossellini’s achievement has dawned as one of in-the-moment historicisation and sympathetic temperance, an inquiring sensibility that has allowed David Thomson to describe _Paisan_ as ‘the truest Second World War movie’ and made Rossellini one of the key chroniclers of history in general. Spectacle and theatrical drama didn’t interest him; rather, the projection of the film-making’s reality was the ‘truth’ he sought to capture, in a way that paved the way for Godard and more acutely presaged the manner of Kiarostami. Thus, _Rome, Open City_, a fleet and breathless drama about a widow and a priest cornered into helping a Resistance leader, was a film ‘found’ in the ruins, so close to recent catastrophe that it seemed to be non-fiction. Indeed, it was ‘real’, ‘documenting’ its own attempts to show the world what Rossellini and his fellow Romans had seen, which would otherwise vanish into memory.<br>
 **Michael Atkinson, _Sight and Sound_, March 2010**<br>
 
-<![endif]-->
+>
 
-**Rome, Open City (Roma città aperta)**
-
+**ROME, OPEN CITY (ROMA CITTÀ APERTA)**<br>
 _Director_: Roberto Rossellini  
 _Production Company_: Excelsa Film  
 _Production Company_: CIS-Nettunia *  
-_Producers_: Chiara Politi, Peppino Amato,
-
-Aldo Venturini, Rod E. Geiger *  
+_Producers_: Chiara Politi, Peppino Amato, Aldo Venturini, Rod E. Geiger *  
 _Assistant Producers_: Bruno Todini, Antonio Palumbo  
 _Production Manager_: F. De Martino  
 _Production Managers_: Carlo Civallero, Angelo Besozzi, Ermanno Donati, Luigi Carpentieri *  
@@ -93,5 +90,5 @@ Italy 1946<br>
 
 \* Uncredited<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0OTY4MTk4XX0=
+eyJoaXN0b3J5IjpbNTc4ODc1OTYxXX0=
 -->
