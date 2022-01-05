@@ -1,3 +1,15 @@
+---
+layout: post
+title: Rome, Open City
+published: true
+date: 2022-01-05
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'Italy 1946, 103 mins<br> Director: Roberto Rossellini'
+pdf: '2022-01-05-rome-open-city.pdf'
+---
+
 _The screening on Wednesday 29 January will be introduced by lecturer and writer Dr Julia Wagner._
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -26,8 +38,6 @@ Rossellini fell on hard times just as the Bergman-Fellini-Kurosawa art-film era 
 But the grace of auteurism is to deflect questions of mere technique and effectiveness, and Rossellini’s achievement has dawned as one of in-the-moment historicisation and sympathetic temperance, an inquiring sensibility that has allowed David Thomson to describe _Paisan_ as ‘the truest Second World War movie’ and made Rossellini one of the key chroniclers of history in general. Spectacle and theatrical drama didn’t interest him; rather, the projection of the film-making’s reality was the ‘truth’ he sought to capture, in a way that paved the way for Godard and more acutely presaged the manner of Kiarostami. Thus, _Rome, Open City_, a fleet and breathless drama about a widow and a priest cornered into helping a Resistance leader, was a film ‘found’ in the ruins, so close to recent catastrophe that it seemed to be non-fiction. Indeed, it was ‘real’, ‘documenting’ its own attempts to show the world what Rossellini and his fellow Romans had seen, which would otherwise vanish into memory.<br>
 **Michael Atkinson, _Sight and Sound_, March 2010**<br>
 
->
-
 **ROME, OPEN CITY (ROMA CITTÀ APERTA)**<br>
 _Director_: Roberto Rossellini  
 _Production Company_: Excelsa Film  
@@ -43,7 +53,7 @@ _Continuity_: J. Tuzzi
 _Screenplay/Dialogue_: Sergio Amidei  
 _Screenplay/Dialogue in collaboration with_: Federico Fellini  
 _From a story by_: Sergio Amidei  
-_From a story by_: Alberto Consiglio \*
+_From a story by_: Alberto Consiglio \*  
 _Director of Photography_: Ubaldo Arata  
 _Camera Operator_: V. Seratrice  
 _Camera:_ Gianni Di Venanzo, Carlo Carlini, Carlo Di Palma, Giuseppe Berta \*  
@@ -116,6 +126,22 @@ Fri 14 Jan 14:40, Mon 24 Jan 18:20, Fri 28 Jan 18:20<br>
 Sat 22 Jan 12:10, Tue 25 Jan 14:30<br>
 **Les Enfants terribles**<br>
 Sun 30 Jan 15:15<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODk1MzAzNjhdfQ==
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+<br>
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
