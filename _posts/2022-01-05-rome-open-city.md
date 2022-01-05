@@ -89,6 +89,43 @@ Italy 1946<br>
 103 mins<br>
 
 \* Uncredited<br>
+<br>
+
+**BIG SCREEN CLASSICS**<br>
+**Rome, Open City (Roma, città aperta)**<br>
+Wed 5 Jan 17:50, Wed 26 Jan 18:00 (+ intro by lecturer and writer Dr Julia Wagner), Sat 29 Jan 13:00<br>
+**Letter from an Unknown Woman**<br>
+Thu 6 Jan 20:40, Sat 15 Jan 15:40, Mon 31 Jan 20:45<br>
+**Casque d’or**<br>
+Fri 7 Jan 20:45, Wed 12 Jan 17:50 (+ pre-recorded intro by film critic and historian Pamela Hutchinson), Sun 23 Jan 13:10<br>
+**Gentlemen Prefer Blondes**<br>
+Sat 8 Jan 16:00, Thu 13 Jan 18:10, Mon 17 Jan 18:20<br>
+**Ordet (The Word)**<br>
+Sun 9 Jan 13:20, Tue 18 Jan 20:30<br>
+**Smiles of a Summer Night**<br>
+Sun 9 Jan 16:00, Thu 20 Jan 20:50, Tue 25 Jan 18:10<br>
+**Bigger Than Life**<br>
+Mon 10 Jan 14:30, Wed 19 Jan 18:05 (+ intro by Geoff Andrew, Programmer-at-Large), Wed 26 Jan 20:50
+
+**Citizen Kane**
+
+Tue 11 Jan 17:50, Thu 27 Jan 18:00
+
+**La Grande Illusion**
+
+Tue 11 Jan 18:15, Sun 16 Jan 12:40
+
+**Twelve Angry Men**
+
+Fri 14 Jan 14:40, Mon 24 Jan 18:20, Fri 28 Jan 18:20
+
+**Shadow of a Doubt**
+
+Sat 22 Jan 12:10, Tue 25 Jan 14:30
+
+**Les Enfants terribles**
+
+Sun 30 Jan 15:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4ODc1OTYxXX0=
+eyJoaXN0b3J5IjpbMTAyOTYwNTBdfQ==
 -->
