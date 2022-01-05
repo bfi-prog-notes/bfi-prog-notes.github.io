@@ -25,40 +25,25 @@ This sabotage of my favourite picture left me with _Letter from an Unknown Woman
 
 My euphoria was short-lived. In the latter part of April, _Letter from an Unknown Woman_ was given a hurried national release. It was the year of the Korean War and the national mood was violently anti-romantic. With few exceptions, our reviews were terrible. It took several years of European success to restore _Letter_ to its honoured place in the canon of Max Ophuls’ film work. In its day, it was an unmitigated disaster – critically and commercially – and a devastating defeat for us all.<br>
 **Extracted from _Unfinished Business_ by John Houseman, _Sight and Sound_, Autumn 1986**<br>
-<![endif]-->
 
-**Letter from an Unknown Woman**
-
-_Director:_ Max Opuls [Ophuls]
-
+**LETTER FROM AN UNKNOWN WOMAN**<br>
+_Director:_ Max Opuls [Ophuls]<br>
 _Production Company:_ Rampart Productions  
-_Presented by:_ William Dozier
-
+_Presented by:_ William Dozier<br>
 _Producer:_ John Houseman  
-_Co-ordinator of Production:_ John Hambleton
-
-_Assistant Director:_ John F. Sherwood
-
-_Screenplay:_ Howard Koch
-
+_Co-ordinator of Production:_ John Hambleton<br>
+_Assistant Director:_ John F. Sherwood<br>
+_Screenplay:_ Howard Koch<br>
 _Based on the novel by:_ Stefan Zweig  
-_Director of Photography:_ Frank Planer
-
-_Editor:_ Ted J. Kent
-
+_Director of Photography:_ Frank Planer<br>
+_Editor:_ Ted J. Kent<br>
 _Art Director:_ Alexander Golitzen  
-_Set Decorators:_ Russell A. Gausman, Ruby R. Levitt
-
-_Gowns:_ Travis Banton
-
-_Make-up:_ Bud Westmore
-
-_Hairstylist:_ Carmen Dirigo
-
-_Musical Score:_ Daniele Amfitheatrof
-
-_Orchestrations:_ David Tamkin
-
+_Set Decorators:_ Russell A. Gausman, Ruby R. Levitt<br>
+_Gowns:_ Travis Banton<br>
+_Make-up:_ Bud Westmore<br>
+_Hairstylist:_ Carmen Dirigo<br>
+_Musical Score:_ Daniele Amfitheatrof<br>
+_Orchestrations:_ David Tamkin<br>
 _Technical Adviser:_ Paul Elbogen
 
 _uncredited_  
@@ -66,8 +51,7 @@ _Production Manager:_ Edward K. Dodds
 _2nd Assistant Director:_ Les Warner  
 _3rd Assistant Director:_ Mickey Bennett  
 _Script Supervisor:_ Adele Cannon  
-_Casting:_ Mildred Gusse
-
+_Casting:_ Mildred Gusse<br>
 _Special Photography:_ David S. Horsley  
 _Matte Camera:_ Glenn Adams  
 _Matte Camera Assistant:_ Robert Pierce  
@@ -77,8 +61,7 @@ _Dolly Grips:_ Lester Kahn, Arvid Woodin
 _Grips:_ Roland Smith, Ben Hawkins  
 _Gaffer:_ Tom Oulette  
 _Electrician:_ Tex Bellan  
-_Stills:_ Bert Anderson, William Wallace
-
+_Stills:_ Bert Anderson, William Wallace  
 _Supervising Art Director:_ Bernard Herzbrun  
 _Set Decorator:_ Charlie Baker  
 _Props:_ Wally Kirkpatrick, Earl Neal  
@@ -90,10 +73,9 @@ _Choreography:_ Bert Prival
 _Sound:_ Leslie I. Carey, Glenn F. Anderson  
 _Sound Technician:_ Martin Brown  
 _Boom Operator:_ Frank Gorbach  
-_Horses/Carriages:_ Jim Phillips
+_Horses/Carriages:_ Jim Phillips<br>
 
-_Cast:_
-
+**Cast**<br>
 Joan Fontaine _(Lisa Berndle)_  
 Louis Jourdan _(Stefan Brand)_  
 Mady Christians _(Frau Berndle)_  
@@ -110,7 +92,6 @@ Sonja Bryden _(Frau Spitzer)_
 _uncredited_  
 Patricia Alphin _(Pretty)_  
 William Trenk _(Fritzel)_
-
 Fred Nurney _(officer on street)_  
 Torben Meyer _(driver)_  
 Hermine Sterler _(mother superior)_  
@@ -174,5 +155,5 @@ Manuel Paris _(Baron’s second)_<br>
 USA 1948©<br>
 87 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMDk4ODQyM119
+eyJoaXN0b3J5IjpbLTEwODYzODg5ODZdfQ==
 -->
