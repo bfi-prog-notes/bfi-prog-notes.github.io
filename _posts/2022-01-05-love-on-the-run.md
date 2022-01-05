@@ -33,99 +33,53 @@ _2nd Assistant Director:_ Emmanuel Clot<br>
 _3rd Assistant Director:_ Nathalie Seaver<br>
 _Script Supervisor:_ Christine Pellé<br>
 _Screenplay by:_ François Truffaut,  Marie-France Pisier, Jean Aurel, Suzanne Schiffman<br>
-
 _Director of Photography:_ Nestor Almendros<br>
-
-_Camera Assistants:_ Florent Bazin,  
-Emilia Pakull-Latorre<br>
-
+_Camera Assistants:_ Florent Bazin,  Emilia Pakull-Latorre<br>
 _Gaffer:_ Jean-Claude Gasché<br>
-
 _Electricians:_ Serge Valezy, Michel Leclerq<br>
-
 _Key Grip:_ Charles Freess<br>
-
 _Grips:_ Jacques Fréjabue, Gérard Bougeant<br>
-
 _Stills Photography:_ Dominique Le Rigoleur<br>
-
 _Editor:_ Martine Barraqué-Curie<br>
-
-_Assistant Editors:_ Jean Gargonne,  
-Corinne Lapassade<br>
-
+_Assistant Editors:_ Jean Gargonne,  Corinne Lapassade<br>
 _Art Director:_ Jean-Pierre Kohut-Svelko<br>
-
 _Properties:_ Michel Grimaud<br>
-
-_Art Department Crew:_ Pierre Gompertz,
-
-Jean-Louis Povéda<br>
-
+_Art Department Crew:_ Pierre Gompertz, Jean-Louis Povéda<br>
 _Costumes:_ Monique Dury<br>
-
 _Make-up:_ Thi Loan N’Guyen<br>
-
 _Titles and Opticals:_ Euro-Titres<br>
-
 _Laboratory:_ L.T.C. Saint-Cloud<br>
-
 _Film Stock:_ Eastmancolor, Pyral<br>
-
 _Music by:_ Georges Delerue<br>
-
 _Music Publisher:_ Editions Sidonie<br>
-
 _Sound Recordist:_ Michel Laurent<br>
-
 _Sound Mixer:_ Jacques Maumont<br>
-
 _Sound Studio:_ S.I.M.O. (Boulogne)<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Jean-Pierre Léaud _(Antoine Doinel)_<br>
-
 Marie-France Pisier _(Colette Tazzi)_<br>
-
 Claude Jade _(Christine Doinel)_<br>
-
 Dani _(Liliane)_<br>
-
 Julien Bertheau _(Monsieur Lucien)_<br>
-
 Rosy Varte _(Colette’s mother)_<br>
-
 Daniel Mesguich _(Xavier Barnerias, a librarian)_<br>
-
 Dorothée _(Sabine Barnerias)_<br>
-
 Marie Henriau _(divorce judge)_<br>
-
 Jean-Pierre Ducos _(Christine’s lawyer)_<br>
-
 Pierre Dios _(Maître Renard)_<br>
-
 Alain Ollivier _(judge in Aix en Provence)_<br>
-
 Julien Dubois _(Alphonse Doinel)_<br>
-
 Monique Dury _(Madame Ida)_<br>
-
 Emmanuel Clot _(Antoine’s colleague)_<br>
-
 Christian Lentretien _(train attendant)_<br>
-
 Roland Thénot _(angry man on telephone)_<br>
-
 Alexandre Janssen _(child in restaurant car)_<br>
-
 Chantal Zaugg _(child)_<br>
 
 France 1978©<br>
-
 94 mins
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTY3ODY2NF19
+eyJoaXN0b3J5IjpbMTkyNTk4NTQ5Nl19
 -->
