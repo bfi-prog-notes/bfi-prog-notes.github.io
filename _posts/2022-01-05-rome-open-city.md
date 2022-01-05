@@ -105,27 +105,17 @@ Sun 9 Jan 13:20, Tue 18 Jan 20:30<br>
 **Smiles of a Summer Night**<br>
 Sun 9 Jan 16:00, Thu 20 Jan 20:50, Tue 25 Jan 18:10<br>
 **Bigger Than Life**<br>
-Mon 10 Jan 14:30, Wed 19 Jan 18:05 (+ intro by Geoff Andrew, Programmer-at-Large), Wed 26 Jan 20:50
-
-**Citizen Kane**
-
-Tue 11 Jan 17:50, Thu 27 Jan 18:00
-
-**La Grande Illusion**
-
-Tue 11 Jan 18:15, Sun 16 Jan 12:40
-
-**Twelve Angry Men**
-
-Fri 14 Jan 14:40, Mon 24 Jan 18:20, Fri 28 Jan 18:20
-
-**Shadow of a Doubt**
-
-Sat 22 Jan 12:10, Tue 25 Jan 14:30
-
-**Les Enfants terribles**
-
-Sun 30 Jan 15:15
+Mon 10 Jan 14:30, Wed 19 Jan 18:05 (+ intro by Geoff Andrew, Programmer-at-Large), Wed 26 Jan 20:50<br>
+**Citizen Kane**<br>
+Tue 11 Jan 17:50, Thu 27 Jan 18:00<br>
+**La Grande Illusion**<br>
+Tue 11 Jan 18:15, Sun 16 Jan 12:40<br>
+**Twelve Angry Men**<br>
+Fri 14 Jan 14:40, Mon 24 Jan 18:20, Fri 28 Jan 18:20<br>
+**Shadow of a Doubt**<br>
+Sat 22 Jan 12:10, Tue 25 Jan 14:30<br>
+**Les Enfants terribles**<br>
+Sun 30 Jan 15:15<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTYwNTBdfQ==
+eyJoaXN0b3J5IjpbLTEyODk1MzAzNjhdfQ==
 -->
