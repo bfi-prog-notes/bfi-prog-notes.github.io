@@ -36,13 +36,9 @@ _Production Company_: CIS-Nettunia *
 _Producers_: Chiara Politi, Peppino Amato,
 
 Aldo Venturini, Rod E. Geiger *  
-_Assistant Producers_: Bruno Todini,
-
-Antonio Palumbo  
+_Assistant Producers_: Bruno Todini, Antonio Palumbo  
 _Production Manager_: F. De Martino  
-_Production Managers_: Carlo Civallero,
-
-Angelo Besozzi, Ermanno Donati, Luigi Carpentieri *  
+_Production Managers_: Carlo Civallero, Angelo Besozzi, Ermanno Donati, Luigi Carpentieri *  
 _Production Secretary_: A. Manni  
 _Assistant Director_: S. Amidei  
 _Assistant Directors_: Angela Fellini, Mario Chiari, Alberto Manni, Bruno Todini *  
@@ -75,27 +71,27 @@ V. [Vito] Annichiarico _(Marcello, Pina’s son)_
 N. [Nando] Bruno _(Agostino, aka Purgatorio, sacristan)_  
 H. [Harry] Feist _(Major Bergmann)_  
 F. [Francesco] Grandjacquet _(Francesco)_  
-M. [Maria] Michi _(Marina Mari)  
-M. [Marcello] Pagliero_ (Giorgio Manfredi, aka Luigi Ferraris)  
+M. [Maria] Michi _(Marina Mari)_  
+M. [Marcello] Pagliero _(Giorgio Manfredi, aka Luigi Ferraris)_  
 E. [Eduardo] Passanelli _(policeman)_  
 C. [Carlo] Sindici _(police commissioner)_  
 A. [Akos] Tolnay _(Austrian deserter)_  
 [Joop] Van Hulzen _(Major Hartmann)_  
-Giovanna Galletti _(Ingrid) *  
-Carla Rovere _(Lauretta, Pina’s sister) \*  
+Giovanna Galletti _(Ingrid)_ *  
+Carla Rovere _(Lauretta, Pina’s sister)_ \*  
 Amalia Pellegrini _(Manfredi’s landlady) \*_  
 Alberto Tavazzi _(priest at execution) \*_  
 Ferruccio De Martino _(soldier at execution) \*_  
 Alberto Manni _(black marketer) \*_  
 Lauro Gazzolo _(dubbed voice of Manfredi) \*_  
-Giulio Panicali _(dubbed voice of Major Bergmann)*_  
-Gualtiero De Angelis _(dubbed voice of Francesco) *_  
-Roswitha Schmidt _(dubbed voice of Ingrid) *_<br>
+Giulio Panicali _(dubbed voice of Major Bergmann) \*_  
+Gualtiero De Angelis _(dubbed voice of Francesco) \*_  
+Roswitha Schmidt _(dubbed voice of Ingrid) \*_<br>
 
 Italy 1946<br>
 103 mins<br>
 
 \* Uncredited<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjAwNzgxOF19
+eyJoaXN0b3J5IjpbMzg0OTY4MTk4XX0=
 -->
