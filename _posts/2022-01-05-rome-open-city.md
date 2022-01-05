@@ -48,16 +48,12 @@ _Assistant Director_: S. Amidei
 _Assistant Directors_: Angela Fellini, Mario Chiari, Alberto Manni, Bruno Todini *  
 _Continuity_: J. Tuzzi  
 _Screenplay/Dialogue_: Sergio Amidei  
-_Screenplay/Dialogue in collaboration with_:
-
-Federico Fellini  
+_Screenplay/Dialogue in collaboration with_: Federico Fellini  
 _From a story by_: Sergio Amidei  
-_From a story by_: Alberto Consiglio *  
+_From a story by_: Alberto Consiglio \*
 _Director of Photography_: Ubaldo Arata  
 _Camera Operator_: V. Seratrice  
-_Camera:_ Gianni Di Venanzo, Carlo Carlini,
-
-Carlo Di Palma, Giuseppe Berta *  
+_Camera:_ Gianni Di Venanzo, Carlo Carlini, Carlo Di Palma, Giuseppe Berta \*  
 _Editor_: Eraldo Da Roma  
 _Assistant Editor_: Jolanda Benvenuti *  
 _Sets_: R. Megna  
@@ -72,7 +68,7 @@ _Sound_: R. Del Monte
 _Sound Recording_: Fono Roma  
 _Sound System_: Western Electric
 
-**Cast 
+**Cast** 
 Aldo Fabrizi _(Don Pietro Pellegrini)_  
 Anna Magnani _(Sora Pina)_  
 V. [Vito] Annichiarico _(Marcello, Pina’s son)_  
@@ -102,5 +98,5 @@ Italy 1946<br>
 
 \* Uncredited<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjU0NDczMF19
+eyJoaXN0b3J5IjpbLTE3NTA2NTEwMjhdfQ==
 -->
