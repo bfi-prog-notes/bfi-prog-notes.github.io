@@ -16,130 +16,116 @@ This maturing is best exemplified in the most masterly scene in the film in whic
 
 In the scene which follows we see the grave of the mother, with its photographic icon topping the dates of her birth and death. Both lover and son are doubly reconciled. Beyond that the relationships between art and life, between fiction and autobiography, are established as unimportant. We never see the grave of Marguerite Gautier. We, the audience, may decide if it interests us, whether the character on which Dumas based his cocotte is lying beside the late Madame Doinel.
 
-There is evidence of this particular Truffaut-like trust in other scenes. Colette and Christine meet by chance in search of the new girlfriend, Sabine. They are on the staircase of her apartment building, introduce themselves with hesitant politeness – and descend into light to sit on a park bench and at first tentatively, and finally torrentially, discuss and reminisce about the follies of loving Antoine. There is an atmosphere of delighted generosity which is wholly, mysteriously free of sentimentality and which could only be produced by this director. Truffaut may be full of invention and ideas, but he knows first things first – he understands love of any kind. He has a respect for it which many other considerable artists reserve exclusively for pain or ecstasy.
+There is evidence of this particular Truffaut-like trust in other scenes. Colette and Christine meet by chance in search of the new girlfriend, Sabine. They are on the staircase of her apartment building, introduce themselves with hesitant politeness – and descend into light to sit on a park bench and at first tentatively, and finally torrentially, discuss and reminisce about the follies of loving Antoine. There is an atmosphere of delighted generosity which is wholly, mysteriously free of sentimentality and which could only be produced by this director. Truffaut may be full of invention and ideas, but he knows first things first – he understands love of any kind. He has a respect for it which many other considerable artists reserve exclusively for pain or ecstasy.  
+**Julian Jebb, _Sight & Sound_, Winter 1979/80**
+<br><br>
 
-Julian Jebb, _Sight & Sound_, Winter 1979/80
+**LOVE ON THE RUN (L’AMOUR EN FUITE)**<br>
+_Director:_ François Truffaut<br>
+©:  Les Films du Carrosse<br>
+_a_ Les Films du Carrosse _production_<br>
+_Production Manager:_ Marcel Berbert<br>
+_Production Co-ordinator:_ Roland Thénot<br>
+_Unit Manager:_ Geneviève Lefebvre<br>
+_Production Secretary:_ Josiane Couëdel<br>
+_1st Assistant Director:_ Suzanne Schiffman<br>
+_2nd Assistant Director:_ Emmanuel Clot<br>
+_3rd Assistant Director:_ Nathalie Seaver<br>
+_Script Supervisor:_ Christine Pellé<br>
+_Screenplay by:_ François Truffaut,  Marie-France Pisier, Jean Aurel, Suzanne Schiffman<br>
 
-<![endif]-->
-
-**LOVE ON THE RUN (L’AMOUR EN FUITE)**
-
-_Director:_ François Truffaut
-
-©:  Les Films du Carrosse
-
-_a_ Les Films du Carrosse _production_
-
-_Production Manager:_ Marcel Berbert
-
-_Production Co-ordinator:_ Roland Thénot
-
-_Unit Manager:_ Geneviève Lefebvre
-
-_Production Secretary:_ Josiane Couëdel
-
-_1st Assistant Director:_ Suzanne Schiffman
-
-_2nd Assistant Director:_ Emmanuel Clot
-
-_3rd Assistant Director:_ Nathalie Seaver
-
-_Script Supervisor:_ Christine Pellé
-
-_Screenplay by:_ François Truffaut,  
-Marie-France Pisier, Jean Aurel, Suzanne Schiffman
-
-_Director of Photography:_ Nestor Almendros
+_Director of Photography:_ Nestor Almendros<br>
 
 _Camera Assistants:_ Florent Bazin,  
-Emilia Pakull-Latorre
+Emilia Pakull-Latorre<br>
 
-_Gaffer:_ Jean-Claude Gasché
+_Gaffer:_ Jean-Claude Gasché<br>
 
-_Electricians:_ Serge Valezy, Michel Leclerq
+_Electricians:_ Serge Valezy, Michel Leclerq<br>
 
-_Key Grip:_ Charles Freess
+_Key Grip:_ Charles Freess<br>
 
-_Grips:_ Jacques Fréjabue, Gérard Bougeant
+_Grips:_ Jacques Fréjabue, Gérard Bougeant<br>
 
-_Stills Photography:_ Dominique Le Rigoleur
+_Stills Photography:_ Dominique Le Rigoleur<br>
 
-_Editor:_ Martine Barraqué-Curie
+_Editor:_ Martine Barraqué-Curie<br>
 
 _Assistant Editors:_ Jean Gargonne,  
-Corinne Lapassade
+Corinne Lapassade<br>
 
-_Art Director:_ Jean-Pierre Kohut-Svelko
+_Art Director:_ Jean-Pierre Kohut-Svelko<br>
 
-_Properties:_ Michel Grimaud
+_Properties:_ Michel Grimaud<br>
 
 _Art Department Crew:_ Pierre Gompertz,
 
-Jean-Louis Povéda
+Jean-Louis Povéda<br>
 
-_Costumes:_ Monique Dury
+_Costumes:_ Monique Dury<br>
 
-_Make-up:_ Thi Loan N’Guyen
+_Make-up:_ Thi Loan N’Guyen<br>
 
-_Titles and Opticals:_ Euro-Titres
+_Titles and Opticals:_ Euro-Titres<br>
 
-_Laboratory:_ L.T.C. Saint-Cloud
+_Laboratory:_ L.T.C. Saint-Cloud<br>
 
-_Film Stock:_ Eastmancolor, Pyral
+_Film Stock:_ Eastmancolor, Pyral<br>
 
-_Music by:_ Georges Delerue
+_Music by:_ Georges Delerue<br>
 
-_Music Publisher:_ Editions Sidonie
+_Music Publisher:_ Editions Sidonie<br>
 
-_Sound Recordist:_ Michel Laurent
+_Sound Recordist:_ Michel Laurent<br>
 
-_Sound Mixer:_ Jacques Maumont
+_Sound Mixer:_ Jacques Maumont<br>
 
-_Sound Studio:_ S.I.M.O. (Boulogne)
+_Sound Studio:_ S.I.M.O. (Boulogne)<br>
 
-_Cast:_
+_Cast:_<br>
 
-Jean-Pierre Léaud _(Antoine Doinel)_
+Jean-Pierre Léaud _(Antoine Doinel)_<br>
 
-Marie-France Pisier _(Colette Tazzi)_
+Marie-France Pisier _(Colette Tazzi)_<br>
 
-Claude Jade _(Christine Doinel)_
+Claude Jade _(Christine Doinel)_<br>
 
-Dani _(Liliane)_
+Dani _(Liliane)_<br>
 
-Julien Bertheau _(Monsieur Lucien)_
+Julien Bertheau _(Monsieur Lucien)_<br>
 
-Rosy Varte _(Colette’s mother)_
+Rosy Varte _(Colette’s mother)_<br>
 
-Daniel Mesguich _(Xavier Barnerias, a librarian)_
+Daniel Mesguich _(Xavier Barnerias, a librarian)_<br>
 
-Dorothée _(Sabine Barnerias)_
+Dorothée _(Sabine Barnerias)_<br>
 
-Marie Henriau _(divorce judge)_
+Marie Henriau _(divorce judge)_<br>
 
-Jean-Pierre Ducos _(Christine’s lawyer)_
+Jean-Pierre Ducos _(Christine’s lawyer)_<br>
 
-Pierre Dios _(Maître Renard)_
+Pierre Dios _(Maître Renard)_<br>
 
-Alain Ollivier _(judge in Aix en Provence)_
+Alain Ollivier _(judge in Aix en Provence)_<br>
 
-Julien Dubois _(Alphonse Doinel)_
+Julien Dubois _(Alphonse Doinel)_<br>
 
-Monique Dury _(Madame Ida)_
+Monique Dury _(Madame Ida)_<br>
 
-Emmanuel Clot _(Antoine’s colleague)_
+Emmanuel Clot _(Antoine’s colleague)_<br>
 
-Christian Lentretien _(train attendant)_
+Christian Lentretien _(train attendant)_<br>
 
-Roland Thénot _(angry man on telephone)_
+Roland Thénot _(angry man on telephone)_<br>
 
-Alexandre Janssen _(child in restaurant car)_
+Alexandre Janssen _(child in restaurant car)_<br>
 
-Chantal Zaugg _(child)_
+Chantal Zaugg _(child)_<br>
 
-France 1978©
+France 1978©<br>
 
 94 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjkwNDgxOTldfQ==
+eyJoaXN0b3J5IjpbLTYzMTY3ODY2NF19
 -->
