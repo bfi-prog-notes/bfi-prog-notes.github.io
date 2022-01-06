@@ -20,10 +20,10 @@ Writing of Becker in 1947, on the strength of his first three films alone, the F
 **Lindsay Anderson, _Sight and Sound_, October-December 1952**<br>
 
 **CASQUE D'OR**<br
-_Director:_ Jacques Becker
-_Production Companies:_ Spéva Films, Paris Film Production
-_Distributed by:_ Discina
-_Distributed with the collaboration of:_ Eclair Journal
+_Director:_ Jacques Becker<br>
+_Production Companies:_ Spéva Films, Paris Film Production<br>
+_Distributed by:_ Discina<br>
+_Distributed with the collaboration of:_ Eclair Journal<br>
 _Producer:_ Michel Safra<br>
 _Production Manager:_ Henri Baum<br>
 _Unit Manager:_ Louis Theron<br>
@@ -121,5 +121,5 @@ France 1952<br>
 
 \* Uncredited<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODk2MTYyODFdfQ==
+eyJoaXN0b3J5IjpbLTExMzE5MDMwOTNdfQ==
 -->
