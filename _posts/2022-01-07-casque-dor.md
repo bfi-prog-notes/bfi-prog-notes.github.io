@@ -83,82 +83,43 @@ Gaston Modot _(Danard, the old carpenter)_
 William Sabatier _(Roland Dupuis)_
 Fernand Trignol _(proprietor of ‘Ange Gabriel’)_
 Anne Beressy
-
 Marianne Bergue
-
 Jacqueline Canterelle
-
 Gisèle Delzen
-
 Suzanne Grey _(girl)_
-
 Simone Jarnac
-
 Yvette Lucas _(Adele)_
-
 Jacqueline Marbaut
-
 Pâquerette _(grandmother)_
-
 Pomme _(concierge)_
-
-Georgette Talazac
-
-_(middle class woman at restaurant)_
-
+Georgette Talazac _(middle class woman at restaurant)_
 Yvonne Yma _(proprietress of ‘L’Ange Gabriel’)_
-
 Léon Bary _(diner at ‘L’Ange Gabriel’)_
-
 Dalphin
-
 Abel Coulon
-
 Jean Degrave _(diner at ‘L’Ange Gabriel’)_
-
 Max Lancourt
-
 Pierre Le Proux
-
-Roland Lesaffre
-
-_(Anatole, waiter at ‘L’Ange Gabriel’)_
-
+Roland Lesaffre _(Anatole, waiter at ‘L’Ange Gabriel’)_
 Julien Maffre
-
 Marcel Melrac _(customer at ‘guinguette’)_
-
 André Méliès
-
 Bobby Mercier
-
 Louis Moret
-
 René Pascal
-
 Raphaël Patorni _(diner at ‘L’Ange Gabriel’)_
+Léon Pauléon _(driver)_<br>
+Raymond Raynal<br>
+Marcel Rouzé _(policeman at police station)_<br>
+Roger Vincent _(doctor)_<br>
+Daniel Mendaille _(proprietor of riverside ‘guinguette’)_ \*<br>
+Jacques Becker _(blind tramp)_ \*<br>
+Henri Coutet, Jean Berton, Joëlle Bernard, Martine Arden, Christiane Minazzoli  \*<br>
 
-Léon Pauléon _(driver)_
+France 1952<br>
+96 mins<br>
 
-Raymond Raynal
-
-Marcel Rouzé _(policeman at police station)_
-
-Roger Vincent _(doctor)_
-
-Daniel Mendaille
-
-_(proprietor of riverside ‘guinguette’)_ *
-
-Jacques Becker _(blind tramp)_ *
-
-Henri Coutet, Jean Berton, Joëlle Bernard, Martine Arden, Christiane Minazzoli  *
-
-France 1952
-
-96 mins
-
-* Uncredited
+\* Uncredited<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODg3NjIxOV19
+eyJoaXN0b3J5IjpbMTIwNzE0NTU5M119
 -->
