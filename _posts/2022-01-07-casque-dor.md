@@ -24,90 +24,90 @@ _Director:_ Jacques Becker
 _Production Companies:_ Spéva Films, Paris Film Production
 _Distributed by:_ Discina
 _Distributed with the collaboration of:_ Eclair Journal
-_Producer:_ Michel Safra
-_Production Manager:_ Henri Baum
-_Unit Manager:_ Louis Theron
-_Assistant to Production Manager:_ U. Picard
-_1st Assistant Director:_ Marcel Camus
-_2nd Assistant Director:_ Michel Clément
-_Script Supervisor:_ Colette Crochot
-_Scenario by:_ Jacques Becker, Jacques Companeez
-_Adaptation, Dialogue and Découpage:_ Jacques Becker
-_Director of Photography:_ Robert Le Fèbvre
-_Camera Operator:_ Jean-Marie Maillols
-_Camera Assistants:_ Gilbert Sarthre, Gaston Muller
-_Gaffer:_ André Tixier
-_Travelling Matte Operator:_ Francis Rivolan
-_Editor:_ Marguerite Renoir
-_Assistant Editor:_ Geneviève Vaury
-_Art Director:_ J.A. d’Eaubonne
-_Assistant Art Director:_ Marc Frédérix
-_Set Designer:_ F. Marpaux
-_Set Decorator:_ Maurice Barnathan
-_Set Dresser:_ Dechelle
-_Props:_ Terrasse
-_Costumes Designed by:_ Mayo
-_Costumes Made by:_ Marcelle Desvignes
-_Corsets by:_ Marie Rose Le Bigot
-_Key Costumer:_ Georgette Fillon
-_Make-up:_ B. Karabanoff, M. Vernadet
-_Hairstyles:_ Alex Archambault
-_Laboratory:_ LTC St. Clou
-_Music by:_ Georges Van Parys
-_Sound Recording:_ Antoine Petitjean
-_Sound Assistants:_ Auboiroux, Ancessi
-_Sound Recording:_ Optiphone
-_Sound System:_ Western Electric
-_Music Publisher:_ Editions Maurice Vandair
-_Filmed at:_ Paris Studios Billancourt
+_Producer:_ Michel Safra<br>
+_Production Manager:_ Henri Baum<br>
+_Unit Manager:_ Louis Theron<br>
+_Assistant to Production Manager:_ U. Picard<br>
+_1st Assistant Director:_ Marcel Camus<br>
+_2nd Assistant Director:_ Michel Clément<br>
+_Script Supervisor:_ Colette Crochot<br>
+_Scenario by:_ Jacques Becker, Jacques Companeez<br>
+_Adaptation, Dialogue and Découpage:_ Jacques Becker<br>
+_Director of Photography:_ Robert Le Fèbvre<br>
+_Camera Operator:_ Jean-Marie Maillols<br>
+_Camera Assistants:_ Gilbert Sarthre, Gaston Muller<br>
+_Gaffer:_ André Tixier<br>
+_Travelling Matte Operator:_ Francis Rivolan<br>
+_Editor:_ Marguerite Renoir<br>
+_Assistant Editor:_ Geneviève Vaury<br>
+_Art Director:_ J.A. d’Eaubonne<br>
+_Assistant Art Director:_ Marc Frédérix<br>
+_Set Designer:_ F. Marpaux<br>
+_Set Decorator:_ Maurice Barnathan<br>
+_Set Dresser:_ Dechelle<br>
+_Props:_ Terrasse<br>
+_Costumes Designed by:_ Mayo<br>
+_Costumes Made by:_ Marcelle Desvignes<br>
+_Corsets by:_ Marie Rose Le Bigot<br>
+_Key Costumer:_ Georgette Fillon<br>
+_Make-up:_ B. Karabanoff, M. Vernadet<br>
+_Hairstyles:_ Alex Archambault<br>
+_Laboratory:_ LTC St. Clou<br>
+_Music by:_ Georges Van Parys<br>
+_Sound Recording:_ Antoine Petitjean<br>
+_Sound Assistants:_ Auboiroux, Ancessi<br>
+_Sound Recording:_ Optiphone<br>
+_Sound System:_ Western Electric<br>
+_Music Publisher:_ Editions Maurice Vandair<br>
+_Filmed at:_ Paris Studios Billancourt<br>
 
-**Cast**
-Simone Signoret _(Marie)_
-Serge Reggiani _(Georges ‘Jo’ Manda)_
-Claude Dauphin _(Felix Leca)_
-Raymond Bussières _(Raymond)_
-Odette Barancey _(Mère Eugénie)_
-Loleh Bellon
-_(Leonie Danard, the carpenter’s daughter)_
-Solange Certin
-Jacqueline Dane
-Dominique Davray _(Julie)_
-Paul Azaïs _(Ponsard)_
-Paul Barge _(Inspector Juliani)_
-Claude Castaing _(Fredo)_
-Jean Clarieux _(Paul)_
-Tony Corteggiani _(commissioner)_
-Emile Genevois _(Billy)_
-Marc Goutas _(Guillaume)_
-Gaston Modot _(Danard, the old carpenter)_
-William Sabatier _(Roland Dupuis)_
-Fernand Trignol _(proprietor of ‘Ange Gabriel’)_
-Anne Beressy
-Marianne Bergue
-Jacqueline Canterelle
-Gisèle Delzen
-Suzanne Grey _(girl)_
-Simone Jarnac
-Yvette Lucas _(Adele)_
-Jacqueline Marbaut
-Pâquerette _(grandmother)_
-Pomme _(concierge)_
-Georgette Talazac _(middle class woman at restaurant)_
-Yvonne Yma _(proprietress of ‘L’Ange Gabriel’)_
-Léon Bary _(diner at ‘L’Ange Gabriel’)_
-Dalphin
-Abel Coulon
-Jean Degrave _(diner at ‘L’Ange Gabriel’)_
-Max Lancourt
-Pierre Le Proux
-Roland Lesaffre _(Anatole, waiter at ‘L’Ange Gabriel’)_
-Julien Maffre
-Marcel Melrac _(customer at ‘guinguette’)_
-André Méliès
-Bobby Mercier
-Louis Moret
-René Pascal
-Raphaël Patorni _(diner at ‘L’Ange Gabriel’)_
+**Cast**<br>
+Simone Signoret _(Marie)_<br>
+Serge Reggiani _(Georges ‘Jo’ Manda)_<br>
+Claude Dauphin _(Felix Leca)_<br>
+Raymond Bussières _(Raymond)_<br>
+Odette Barancey _(Mère Eugénie)_<br>
+Loleh Bellon<br>
+_(Leonie Danard, the carpenter’s daughter)_<br>
+Solange Certin<br>
+Jacqueline Dane<br>
+Dominique Davray _(Julie)_<br>
+Paul Azaïs _(Ponsard)_<br>
+Paul Barge _(Inspector Juliani)_<br>
+Claude Castaing _(Fredo)_<br>
+Jean Clarieux _(Paul)_<br>
+Tony Corteggiani _(commissioner)_<br>
+Emile Genevois _(Billy)_<br>
+Marc Goutas _(Guillaume)_<br>
+Gaston Modot _(Danard, the old carpenter)_<br>
+William Sabatier _(Roland Dupuis)_<br>
+Fernand Trignol _(proprietor of ‘Ange Gabriel’)_<br>
+Anne Beressy<br>
+Marianne Bergue<br>
+Jacqueline Canterelle<br>
+Gisèle Delzen<br>
+Suzanne Grey _(girl)_<br>
+Simone Jarnac<br>
+Yvette Lucas _(Adele)_<br>
+Jacqueline Marbaut<br>
+Pâquerette _(grandmother)_<br>
+Pomme _(concierge)_<br>
+Georgette Talazac _(middle class woman at restaurant)_<br>
+Yvonne Yma _(proprietress of ‘L’Ange Gabriel’)_<br>
+Léon Bary _(diner at ‘L’Ange Gabriel’)_<br>
+Dalphin<br>
+Abel Coulon<br>
+Jean Degrave _(diner at ‘L’Ange Gabriel’)_<br>
+Max Lancourt<br>
+Pierre Le Proux<br>
+Roland Lesaffre _(Anatole, waiter at ‘L’Ange Gabriel’)_<br>
+Julien Maffre<br>
+Marcel Melrac _(customer at ‘guinguette’)_<br>
+André Méliès<br>
+Bobby Mercier<br>
+Louis Moret<br>
+René Pascal<br>
+Raphaël Patorni _(diner at ‘L’Ange Gabriel’)_<br>
 Léon Pauléon _(driver)_<br>
 Raymond Raynal<br>
 Marcel Rouzé _(policeman at police station)_<br>
@@ -121,5 +121,5 @@ France 1952<br>
 
 \* Uncredited<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzE0NTU5M119
+eyJoaXN0b3J5IjpbLTEyODk2MTYyODFdfQ==
 -->
