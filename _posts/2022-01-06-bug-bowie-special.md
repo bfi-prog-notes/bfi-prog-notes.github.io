@@ -115,7 +115,7 @@ UK 1977
 <br>
 
 <img style="float: left;" src="/img/BUG.jpg" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 Special thanks to:<br>
 Nigel Reeve, Stefan Demetriou (Parlophone), Bryan Younce (Columbia US), Mick Rock,  David Mallet, Julien Temple, Johan Renck, Svana Gisla… and of course, David Bowie.
