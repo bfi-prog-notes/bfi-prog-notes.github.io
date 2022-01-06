@@ -19,9 +19,7 @@ Equally, Becker has been able to present the scenes between Marie and Manda with
 Writing of Becker in 1947, on the strength of his first three films alone, the French critic Roger Régent remarked on the singular purity of his style, and on its power to build sequences to an extreme degree of tension. In _Casque d’or_ this style is more strikingly than ever in evidence. The movement of the whole picture shows a highly developed command of tempo, a rhythm which can accommodate the long, sustained look at a scene (the first set-up of all, for instance), as well as the series of swift, detailed glances. The images are of continuous but simple richness – in particular a poetic use of close-up such as is possible only to an artist who has achieved great sureness of his attitude, as of his _metier_.<br>
 **Lindsay Anderson, _Sight and Sound_, October-December 1952**<br>
 
-<![endif]-->
-
-**Casque d’or**
+**CASQUE D'OR**<br>
 
 _Director:_ Jacques Becker
 
@@ -227,5 +225,5 @@ France 1952
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjgwNzY1ODhdfQ==
+eyJoaXN0b3J5IjpbMTUzNTQ4MjAyOV19
 -->
