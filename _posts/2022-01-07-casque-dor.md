@@ -6,7 +6,7 @@ date: 2022-01-07
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
-metadata: 'France 1952, 196 mins<br> Director: Jacques Becker'
+metadata: 'France 1952, 96 mins<br> Director: Jacques Becker'
 pdf: '2022-01-07-casque-dor.pdf'
 ---
 
