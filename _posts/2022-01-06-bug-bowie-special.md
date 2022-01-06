@@ -101,9 +101,34 @@ _Record company:_ RCA<br>
 UK 1977
 <br>
 
+Special thanks to:<br>
+Nigel Reeve, Stefan Demetriou (Parlophone), Bryan Younce (Columbia US), Mick Rock,  David Mallet, Julien Temple, Johan Renck, Svana Gisla… and of course, David Bowie.
+
+_Hosted by:_ Adam Buxton<br>
+www.adam-buxton.co.uk
+
+_With thanks to:_ BFI Southbank<br>
+_Post-production by:_ LEAP<br>
+_Design Creative by:_ Limited Edition Design<br>
+_Website by_: Fabrik<br>
+_Event Management by:_ Ballistic Events
+
+THE BUG TEAM:<br>
+Chris Blakeston, Stuart Brown, David Knight, Louise Stevens, Miland Suman, Phil Tidy
+
+For general information about BUG, contact Louise Stevens louise@bugvideos.co.uk
+
+For regular updates, check out
+
+www.bugmusicvideos.com www.promonews.tv
+
+www.twitter.com/BUGmusicvideos
+
+www.facebook.com/bugvideos
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQ3Mzc2NDZdfQ==
+eyJoaXN0b3J5IjpbLTE2MzAwNjYyNzZdfQ==
 -->
