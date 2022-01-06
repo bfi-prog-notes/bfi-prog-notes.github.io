@@ -116,19 +116,19 @@ _Event Management by:_ Ballistic Events
 THE BUG TEAM:<br>
 Chris Blakeston, Stuart Brown, David Knight, Louise Stevens, Miland Suman, Phil Tidy
 
-For general information about BUG, contact Louise Stevens louise@bugvideos.co.uk
+For general information about BUG, contact Louise Stevens<br> louise@bugvideos.co.uk
 
-For regular updates, check out
+For regular updates, check out<br>
+www.bugmusicvideos.com www.promonews.tv<br>
+www.twitter.com/BUGmusicvideos<br>
+www.facebook.com/bugvideos<br>
+<br>
 
-www.bugmusicvideos.com www.promonews.tv
 
-www.twitter.com/BUGmusicvideos
-
-www.facebook.com/bugvideos
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzAwNjYyNzZdfQ==
+eyJoaXN0b3J5IjpbMjc1NDAwMDQ4XX0=
 -->
