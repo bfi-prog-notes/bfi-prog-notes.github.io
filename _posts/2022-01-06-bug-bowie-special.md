@@ -1,4 +1,17 @@
+---
+layout: post
+title: BUG Special - David Bowie
+published: true
+date: 2022-01-06
+readtime: true
+categories: ['EVENTS']
+tags: [Events, Music]
+metadata: 
+pdf: '2022-01-06-bug-bowie-special.pdf'
+---
 
+<img style="float: left;" src="/img/bug-bowie-01.jpg">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 Welcome to a very special edition of BUG. We’re here to celebrate the life and work of David Bowie – giant of popular music, creative powerhouse, artistic and cultural pioneer, in sound and vision – on what would have been the eve of his 75th birthday.  Of course, our reason for being here is to honour the memory of the man who was creating great work until the very end. And so, in true BUG fashion, our show will be a wide-ranging look at Bowie’s brilliance delivered with a healthy helping of irreverent humour – courtesy of our host Adam Buxton, whose own personal Bowie obsession extends to having made ‘David Bowie in the 1970s’ his specialist subject on _Celebrity Mastermind_.
 
@@ -100,6 +113,9 @@ _Director:_ Stanley Dorfman<br>
 _Record company:_ RCA<br>
 UK 1977
 <br>
+
+<img style="float: left;" src="/img/BUG.jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
 
 Special thanks to:<br>
 Nigel Reeve, Stefan Demetriou (Parlophone), Bryan Younce (Columbia US), Mick Rock,  David Mallet, Julien Temple, Johan Renck, Svana Gisla… and of course, David Bowie.
