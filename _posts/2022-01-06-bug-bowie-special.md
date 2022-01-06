@@ -31,97 +31,97 @@ And that’s our show. We’ll be back at BFI Southbank later in the year with s
 
 **David Bowie – 1980 Floorshow outtake clip**
 
-**The Jean Genie**
+**The Jean Genie**<br>
 
-_Director:_ Mick Rock
+_Director:_ Mick Rock<br>
 
-_Record company:_ RCA
+_Record company:_ RCA<br>
 
 UK 1972
 
-**Lazarus**
+**Lazarus**<br>
 
-_Director:_ Johan Renck
+_Director:_ Johan Renck<br>
 
-_Production company:_ Gisla & Renck
+_Production company:_ Gisla & Renck<br>
 
-_Record company:_ Columbia
+_Record company:_ Columbia<br>
 
 US/UK/Sweden 2016
 
-**Boys Keep Swinging**
+**Boys Keep Swinging**<br>
 
-_Director:_ David Mallet
+_Director:_ David Mallet<br>
 
-_Record company:_ RCA
+_Record company:_ RCA<br>
 
 UK 1979
 
-**Loving the Alien**
+**Loving the Alien**<br>
 
-_Directors:_ David Bowie & David Mallet
+_Directors:_ David Bowie & David Mallet<br>
 
-_Production company:_ MGMM
+_Production company:_ MGMM<br>
 
-_Record company:_ EMI
-
-UK 1985
-
-**Dancing in the Street**
-
-_Director:_ David Mallet
-
-_Production company:_ MGMM
-
-_Record company:_ EMI
+_Record company:_ EMI<br>
 
 UK 1985
 
-**Dancing in the Street – musicless video**
+**Dancing in the Street**<br>
 
-_Director:_ Mario Wiemerroither
+_Director:_ David Mallet<br>
+
+_Production company:_ MGMM<br>
+
+_Record company:_ EMI<br>
+
+UK 1985
+
+**Dancing in the Street – musicless video**<br>
+
+_Director:_ Mario Wiemerroither<br>
 
 Austria 2014
 
-**Cobbler Bob**
+**Cobbler Bob**<br>
 
-_Animation:_ Chris Salt
+_Animation:_ Chris Salt<br>
 
-_Illustrations:_ Dan Berry
+_Illustrations:_ Dan Berry<br>
 
 UK 2013
 
-**Where Are We Now?**
+**Where Are We Now?**<br>
 
-_Director:_ Tony Oursler
+_Director:_ Tony Oursler<br>
 
-_Record company:_ Columbia US
+_Record company:_ Columbia US<br>
 
 US 2013
 
-**Ashes to Ashes**
+**Ashes to Ashes**<br>
 
-_Directors:_ David Mallet & David Bowie
+_Directors:_ David Mallet & David Bowie<br>
 
-_Production company:_ MGMM
+_Production company:_ MGMM<br>
 
-_Record company:_ RCA
+_Record company:_ RCA<br>
 
 UK 1980
 
-**The Man Who Fell to Earth (**clip)
+**The Man Who Fell to Earth** (clip)<br>
 
-_Director:_ Nicolas Roeg
+_Director:_ Nicolas Roeg<br>
 
 UK/US 1976
 
-**Bowie, Eno & Tony Visconti Record ‘Warszawa’**
+**Bowie, Eno & Tony Visconti Record ‘Warszawa’**<br>
 
-_Directors:_ The Brothers McLeod
+_Directors:_ The Brothers McLeod<br>
 
-_Track:_ Adam Buxton
+_Track:_ Adam Buxton<br>
 
-_Production company:_ Brothers McLeod
+_Production company:_ Brothers McLeod<br>
 
 UK 2014
 
@@ -145,5 +145,5 @@ UK 1977
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwMTUzNzU0XX0=
+eyJoaXN0b3J5IjpbLTEzNTQzODkxNF19
 -->
