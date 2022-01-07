@@ -22,133 +22,80 @@ A hint is perhaps offered in the overhead shot of Newton’s face as he lies dow
 <br><br>
 
 **THE MAN WHO FELL TO EARTH**<br>
-
 _Directed by:_ Nicolas Roeg<br>
-
 ©: Houtsnede Maatschappij N.V.<br>
-
 _Production Company:_ British Lion Films<br>
-
 _Executive Producer:_ Si Litvinoff<br>
-
 _Produced by:_ Michael Deeley, Barry Spikings<br>
-
 _Associate Producer:_ John Peverall<br>
-
 _Production Manager:_ Roy Stevens<br>
-
 _Production Accountant:_ Ronald Cook<br>
-
 _Location Manager:_ Terence Churcher<br>
-
 _Production Secretary:_ Marilyn Clarke<br>
-
 _Assistant Director:_ Kip Gowans<br>
-
 _Continuity:_ Sue Merry<br>
-
 _Screenplay by:_ Paul Mayersberg<br>
-
 _Initial Development by:_ David Cammell<br>
-
 _From the novel by:_ Walter Tevis<br>
-
 _Director of Photography:_ Anthony Richmond<br>
-
 _Camera Operator:_ Gordon Hayman<br>
-
 _Gaffer:_ Martin Evans<br>
-
-_Electricians:_ Derek Suter, Michael Thomas,  
-Harry Jackson<br>
-
+_Electricians:_ Derek Suter, Michael Thomas,  Harry Jackson<br>
 _Stills Photographer:_ David James<br>
-
 _Special Photographic Effects:_ P.S. Ellenshaw, Camera Effects<br>
-
-_Special Electronic and Oceanic Effects:_
-
-Desmond Briscoe, Woods Hole<br>
-
+_Special Electronic and Oceanic Effects:_ Desmond Briscoe, Woods Hole<br>
 _Film Editor:_ Graeme Clifford<br>
-
 _Assistant Editors:_ Rodney Glenn, Melinda Rees<br>
-
 _Production Designer:_ Brian Eatwell<br>
-
 _Property Master:_ Tommy Raeburn<br>
-
 _Costume Designer:_ May Routh<br>
-
 _Wardrobe Master:_ Mike Jarvis<br>
-
 _Wardrobe Mistress:_ Janet Tebrooke<br>
-
 _Mr Bowie’s Suits Made by:_ Ola Hudson<br>
-
 _Chief Make-up Artist:_ Linda De Vetta<br>
-
 _Hairdresser:_ Martin Samuel<br>
-
 _Musical Director:_ John Phillips<br>
-
-_Original Music Recording at C.T.S. Studio:_
-
-John Phillips<br>
-
+_Original Music Recording at C.T.S. Studio:_ John Phillips<br>
 _Sound Recordist:_ Robin Gregory<br>
-
 _Dubbing Mixer:_ Bob Jones<br>
-
 _Dubbing Editors:_ Alan Bell, Colin Miller<br>
-
 _Stunt Arranger:_ Dickie Graydon<br>
-
 _Studio:_ Shepperton Studios<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 David Bowie _(Thomas Jerome Newton)_<br>
-
 Rip Torn _(Nathan Bryce)_<br>
-
 Candy Clark _(Mary-Lou)_<br>
-
 Buck Henry _(Oliver Farnsworth)_<br>
-
 Bernie Casey _(Peters)_<br>
-
 Jackson D. Kane _(Professor Canutti)_<br>
-
 Rick Riccardo _(Trevor)_<br>
-
 Tony Mascia _(Arthur)_<br>
-
 Linda Hutton _(Elaine)_<br>
+Hilary Holland _(Jill)_<br>
 
-Hilary Holland _(Jill)_
+Adrienne Larussa _(Helen)_<br>
 
-Adrienne Larussa _(Helen)_
+Lilybelle Crawford _(jewellery store owner)_<br>
 
-Lilybelle Crawford _(jewellery store owner)_
+Richard Breeding _(receptionist)_<br>
 
-Richard Breeding _(receptionist)_
+Albert Nelson _(waiter)_<br>
 
-Albert Nelson _(waiter)_
+Peter Prouse _(Peters’ associate)_<br>
 
-Peter Prouse _(Peters’ associate)_
+Captain James Lovell _(himself)_<br>
 
-Captain James Lovell _(himself)_
-
-Presbyterian Church Artesia N.M. _(themselves)_
+Presbyterian Church Artesia N.M. _(themselves)_<br>
 
 Claudia Jennings _(Mrs Peters)_ *
 
-UK 1976©
+UK 1976©<br>
 
 139 mins
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgzOTk2MjFdfQ==
+eyJoaXN0b3J5IjpbLTM5MzExNzkzN119
 -->
