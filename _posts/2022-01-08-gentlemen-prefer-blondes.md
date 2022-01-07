@@ -25,40 +25,38 @@ Central to the achievement of _Gentlemen Prefer Blondes_ is the extraordinary ra
 It is worth noting, therefore, that Monroe and Russell actually became friends while working on _Gentlemen Prefer Blondes_ – despite the fact that Russell was paid $200,000 for her part (and got top billing), while Monroe, on her Fox salary and not yet a star, got only $500 a week. Hawks once explained their unusual ‘chemistry’ as screen presences by describing Monroe as a fantasy and Russell as ‘real’.<br>
 **Jonathan Rosenbaum, _Sight and Sound_, Winter 1984-85**<br>
 
+**GENTLEMEN PREFER BLONDES**<br>
+_Directed by_: Howard Hawks<br>
+_©/Produced and Released by_: Twentieth Century-Fox Film Corporation<br>
+_Produced by_: Sol C. Siegel<br>
+_Assistant Director_: Paul Helmick<br>
+_Screen Play by_: Charles Lederer<br>
+_Based on the musical comedy by_: Joseph Fields, Anita Loos<br>
+_[Play] Presented on the stage by_: Herman Levin, Oliver Smith<br>
+_Director of Photography_: Harry J. Wild<br>
+_Technicolor Colour Consultant_: Leonard Doss<br>
+_Special Photographic Effects_: Ray Kellogg<br>
+_Film Editor_: Hugh S. Fowler<br>
+_Art Direction_: Lyle Wheeler, Joseph C. Wright<br>
+_Set Decorations_: Claude Carpenter<br>
+_Costumes Designed by_: Travilla<br>
+_Wardrobe Direction_: Charles Le Maire<br>
+_Makeup Artist_: Ben Nye<br>
+_Colour by_: Technicolor<br>
+_Music and Lyrics by_: Jule Styne, Leo Robin<br>
+_Musical Direction_: Lionel Newman<br>
+_Vocal Direction_: Eliot Daniel<br>
+_Orchestration_: Herbert Spencer, Earle Hagen, Bernard Mayers<br>
+_Choreography by_: Jack Cole<br>
+_Sound_: E. Clayton Ward, Roger Heman<br>
+_Sound System_: Western Electric<br>
 
-
-**GENTLEMEN PREFER BLONDES**
-_Directed by_: Howard Hawks
-_©/Produced and Released by_: Twentieth Century-Fox Film Corporation
-_Produced by_: Sol C. Siegel
-_Assistant Director_: Paul Helmick
-_Screen Play by_: Charles Lederer
-_Based on the musical comedy by_: Joseph Fields, Anita Loos
-_[Play] Presented on the stage by_: Herman Levin, Oliver Smith
-_Director of Photography_: Harry J. Wild
-_Technicolor Colour Consultant_: Leonard Doss
-_Special Photographic Effects_: Ray Kellogg
-_Film Editor_: Hugh S. Fowler
-_Art Direction_: Lyle Wheeler, Joseph C. Wright
-_Set Decorations_: Claude Carpenter
-_Costumes Designed by_: Travilla
-_Wardrobe Direction_: Charles Le Maire
-_Makeup Artist_: Ben Nye
-_Colour by_: Technicolor
-_Music and Lyrics by_: Jule Styne, Leo Robin
-_Musical Direction_: Lionel Newman
-_Vocal Direction_: Eliot Daniel
-_Orchestration_: Herbert Spencer, Earle Hagen, Bernard Mayers
-_Choreography by_: Jack Cole
-_Sound_: E. Clayton Ward, Roger Heman
-_Sound System_: Western Electric
-
-**Cast**
-Jane Russell _(Dorothy Shaw)_
-Marilyn Monroe _(Lorelei Lee)_
-Charles Coburn _(Sir Francis Beekman)_
-Elliott Reid _(Ernie Malone)_
-Tommy Noonan _(Gus Esmond)_
+**Cast**<br>
+Jane Russell _(Dorothy Shaw)_<br>
+Marilyn Monroe _(Lorelei Lee)_<br>
+Charles Coburn _(Sir Francis Beekman)_<br>
+Elliott Reid _(Ernie Malone)_<br>
+Tommy Noonan _(Gus Esmond)_<br>
 George Winslow _(Henry Spofford III)_
 Marcel Dalio _(magistrate)_
 Taylor Holmes _(Gus Esmond Sr)_
@@ -96,5 +94,5 @@ Sam Harris _(old spectator)_
 USA 1953©
 91 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODg3OTY4MzYsNTgyNjQxMjgzXX0=
+eyJoaXN0b3J5IjpbNjAyMzQyMjIyLDU4MjY0MTI4M119
 -->
