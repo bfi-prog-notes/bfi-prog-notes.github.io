@@ -19,115 +19,81 @@ In case there’s anyone who doesn’t know, _Taxi Driver_ describes one stiflin
 
 The seemingly desultory narrative is rigorously divided into three acts. In the first, Travis’s rage is diffuse; he rides around in his cab, more a witness than a man of action. In the second, he finds a mission and an object for his rage. (‘One day, indistinguishable from the next, a long, continuous chain. And then, suddenly – there is change,’ he writes in his diary.) In the third, he puts his homicidal fantasies into action, taking aim at one father figure (the presidential candidate) and, when that attempt fails, turning his gun on another (Iris’s pimp Sport, played by Harvey Keitel). The carnage that ends _Taxi Driver_ is devastating, but it’s also voluptuous – as voluptuous as anything in American movies – and all the more so because of the sense of repression that pervades the film until this moment. The entire film has been built so that this eruption of violence would seem both inevitable and more horrific than anything we might have imagined.  
 **Extracted from _Taxi Driver_ by Amy Taubin (BFI Film Classics, 2nd edition, 2012).  Reproduced by kind permission of Bloomsbury Publishing. ©Amy Taubin**
-<br><br
+<br><br>
 
-**TAXI DRIVER**
+**TAXI DRIVER**<br>
+_Directed by:_ Martin Scorsese<br>
+©: Columbia Pictures Industries, Inc.<br>
+_a_ Bill/Phillips, Italo-Judeo _production_<br>
+_Presented by:_ Columbia Pictures<br>
+_Produced by:_ Michael Phillips, Julia Phillips<br>
+_Associate Producer:_ Phillip M. Goldfarb<br>
+_Creative Consultant:_ Sandra Weintraub<br>
+_Assistant Director:_ Peter R. Scoppa<br>
+_Script Supervisor:_ Kay Chapin<br>
+_Casting:_ Juliet Taylor<br>
+_Atmosphere Casting:_ Sylvia Faye<br>
+_Written by:_ Paul Schrader<br>
+_Director of Photography:_ Michael Chapman<br>
+_2nd Unit Camera:_ Michael Zingale<br>
+_Camera Operator:_ Fred Schuler<br>
+_Assistant Cameramen:_ Alec Hirschfeld,  Bill Johnson, Ron Zarilla<br>
+_Special Photography:_ Steve Shapiro<br>
+_Special Effects:_ Tony Parmelee<br>
+_Supervising Film Editor:_ Marcia Lucas<br>
+_Editors:_ Tom Rolf, Melvin Shapiro<br>
+_Visual Consultant:_ David Nichols<br>
+_Art Director:_ Charles Rosen<br>
+_Costume Designer:_ Ruth Morley<br>
+_Special Make-up:_ Dick Smith<br>
+_Make-up:_ Irving Buchman<br>
+_Hairdresser:_ Mona Orr<br>
+_Title Design:_ Dan Perri<br>
+_Optical Effects & Colour Prints by:_ M.G.M.<br>
+_Music by:_ Bernard Herrmann<br>
+_Music Arrangers/Conductors:_ Dave Blume,  Bernard Herrmann *<br>
+_Conductor:_ Jack Hayes *<br>
+_Re-recording Supervisor:_ Tex Rudloff<br>
+_Re-recording Mixers:_ Dick Alexander, Vern Poore<br>
 
-_Directed by:_ Martin Scorsese
+_Cast<br>
 
-©: Columbia Pictures Industries, Inc.
+Robert De Niro _(Travis Bickle)_<br>
 
-_a_ Bill/Phillips, Italo-Judeo _production_
+Jodie Foster _(Iris)_<br>
 
-_Presented by:_ Columbia Pictures
+Albert Brooks _(Tom)_<br>
 
-_Produced by:_ Michael Phillips, Julia Phillips
+Harvey Keitel _(Sport)_<br>
 
-_Associate Producer:_ Phillip M. Goldfarb
+Leonard Harris _(Charles Palantine)_<br>
 
-_Creative Consultant:_ Sandra Weintraub
+Peter Boyle _(Wizard)_<br>
 
-_Assistant Director:_ Peter R. Scoppa
+Cybill Shepherd _(Betsy)_<br>
 
-_Script Supervisor:_ Kay Chapin
+Diahnne Abbot _(concession girl)_<br>
 
-_Casting:_ Juliet Taylor
+Frank Adu _(angry black man)_<br>
 
-_Atmosphere Casting:_ Sylvia Faye
+Vic Argo _(Melio)_<br>
 
-_Written by:_ Paul Schrader
+Gino Ardito _(policeman at rally)_<br>
 
-_Director of Photography:_ Michael Chapman
+Garth Avery _(Iris’s friend)_<br>
 
-_2nd Unit Camera:_ Michael Zingale
+Norman Matlock _(Charlie T.)_<br>
 
-_Camera Operator:_ Fred Schuler
+Steven Prince _(Andy, gun salesman)_<br>
 
-_Assistant Cameramen:_ Alec Hirschfeld,  
-Bill Johnson, Ron Zarilla
+Martin Scorsese _(passenger watching silhouette)_<br>
 
-_Special Photography:_ Steve Shapiro
-
-_Special Effects:_ Tony Parmelee
-
-_Supervising Film Editor:_ Marcia Lucas
-
-_Editors:_ Tom Rolf, Melvin Shapiro
-
-_Visual Consultant:_ David Nichols
-
-_Art Director:_ Charles Rosen
-
-_Costume Designer:_ Ruth Morley
-
-_Special Make-up:_ Dick Smith
-
-_Make-up:_ Irving Buchman
-
-_Hairdresser:_ Mona Orr
-
-_Title Design:_ Dan Perri
-
-_Optical Effects & Colour Prints by:_ M.G.M.
-
-_Music by:_ Bernard Herrmann
-
-_Music Arrangers/Conductors:_ Dave Blume,  
-Bernard Herrmann *
-
-_Conductor:_ Jack Hayes *
-
-_Re-recording Supervisor:_ Tex Rudloff
-
-_Re-recording Mixers:_ Dick Alexander, Vern Poore
-
-_Cast:_
-
-Robert De Niro _(Travis Bickle)_
-
-Jodie Foster _(Iris)_
-
-Albert Brooks _(Tom)_
-
-Harvey Keitel _(Sport)_
-
-Leonard Harris _(Charles Palantine)_
-
-Peter Boyle _(Wizard)_
-
-Cybill Shepherd _(Betsy)_
-
-Diahnne Abbot _(concession girl)_
-
-Frank Adu _(angry black man)_
-
-Vic Argo _(Melio)_
-
-Gino Ardito _(policeman at rally)_
-
-Garth Avery _(Iris’s friend)_
-
-Norman Matlock _(Charlie T.)_
-
-Steven Prince _(Andy, gun salesman)_
-
-Martin Scorsese _(passenger watching silhouette)_
-
-USA 1976©
+USA 1976©<br>
 
 114 mins
 
 * Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjgyNjI3XX0=
+eyJoaXN0b3J5IjpbNjE3MDkzOTg2XX0=
 -->
