@@ -82,12 +82,12 @@ Charles de Ravenne _(purser)_
 John Close _(coach)_
 William Cabanne _(Sims)_
 Phil Sylvestre _(steward)_
-Jack Chefe_,_ John Hedloe
+Jack Chefe,_ John Hedloe
 Alfred Paix _(Pierre)_
 Rex Willenz _(court clerk)_
 Rolfe Sedan _(waiter)_
-Robert Foulk_,_ Ralph Peters _(passport officials)_
-Jimmy Saung_,_ George Chakiris, Matt Mattox, Ralph Beaumont, George Dee _(dancers)_
+Robert Foulk, Ralph Peters _(passport officials)_
+Jimmy Saung, George Chakiris, Matt Mattox, Ralph Beaumont, George Dee _(dancers)_
 
 Robert Fuller _(man)_
 
@@ -101,5 +101,5 @@ USA 1953©
 
 91 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjE1MTMyOF19
+eyJoaXN0b3J5IjpbNTgyNjQxMjgzXX0=
 -->
