@@ -94,8 +94,7 @@ Jamie Russell _(athlete)_
 Sam Harris _(old spectator)_
 
 USA 1953©
-
 91 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDg2MjY3NCw1ODI2NDEyODNdfQ==
+eyJoaXN0b3J5IjpbLTEwODg3OTY4MzYsNTgyNjQxMjgzXX0=
 -->
