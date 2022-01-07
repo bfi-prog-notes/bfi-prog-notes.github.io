@@ -1,10 +1,19 @@
-
+---
+layout: post
+title: The Last Metro
+published: true
+date: 2022-01-08
+readtime: true
+categories: ['FRANÇOIS TRUFFAUT<br>FOR THE LOVE OF FILMS']
+tags: [Drama, Period]
+metadata: 'France 1979, 132 mins<br> Director: François Truffaut'
+pdf: '2022-01-08-last-metro.pdf'
+---
 
 **A contemporary review**  
 It is not surprising that _The Last Metro_ has proved François Truffaut’s most popular film to date both in France and the United States. It boasts two of France’s most popular stars, Catherine Deneuve and Gerard Depardieu, the latter proving decisively with his performance in this film, after _Loulou_ and _This Sweet Sickness_ that he is the best leading player on the screen today. It has a host of comic or tragi-comic characters all acted with perfection. Above all it is the most purely thrilling film that Truffaut has yet directed and co-authored, the most tightly plotted and ingeniously made.
 
-Set in the world of theatrical Paris of 1942, it tells the story of how Marion Steiner (Deneuve) is left to carry on as sole manageress and leading lady of the Theatre Montmartre, when her husband has had to flee the country because he is a Jew. Bernard (Depardieu) is a young actor from the Grand Guignol who joins the company as leading man in a racially impeccable play, written by a Norwegian and set at the turn of the century. It is called _Disappearance_.  
-It would be wrong to reveal some of the surprises, but one can say that Lucas Steiner, Marion’s husband, the ‘genius’ who used to run the theatre, is in fact hiding in its cellar and that Bernard is working for the Resistance.
+Set in the world of theatrical Paris of 1942, it tells the story of how Marion Steiner (Deneuve) is left to carry on as sole manageress and leading lady of the Theatre Montmartre, when her husband has had to flee the country because he is a Jew. Bernard (Depardieu) is a young actor from the Grand Guignol who joins the company as leading man in a racially impeccable play, written by a Norwegian and set at the turn of the century. It is called _Disappearance_.  It would be wrong to reveal some of the surprises, but one can say that Lucas Steiner, Marion’s husband, the ‘genius’ who used to run the theatre, is in fact hiding in its cellar and that Bernard is working for the Resistance.
 
 Although I do not think it is Truffaut’s greatest film it is, with _Day for Night_ and _Jules et Jim_, his two other big hits, among his most enjoyable. Its 132 minutes flash by. Part of the ingenuity of its visual construction is rooted in the idea that the scenes off-stage, outside the theatre, have a greater theatricality than those inside the building. The little square where the theatre is situated is very clearly a set; the curtains that swish closed in the local cafe look exactly like tabs on a stage; the biggest melodramatic scene takes place in a Nazified night club. Just as the metaphors about filmmaking were so subtly woven into the texture of _Day for Night_, so in _The Last Metro_ all the world is a stage.
 
@@ -99,6 +108,51 @@ France 1979©<br>
 
 * Uncredited
 <br><br>
+
+**THE RENOIR TRUFFAUT**<br>
+**Une belle fille comme moi  (A Gorgeous Kid like Me)**<br>
+Sat 1 Jan 20:40, Tue 4 Jan 20:40, Sat 22 Jan 18:10<br>
+**Day for Night (La Nuit américaine)**<br>
+Sun 2 Jan 18:30, Fri 7 Jan 18:10, Sat 15 Jan 20:45, Tue 25 Jan 20:45<br>
+**L’Enfant sauvage (The Wild Child)  + Une histoire d’eau**<br>
+Mon 3 Jan 18:10, Mon 10 Jan 20:40,  Mon 24 Jan 18:10<br>
+**The Last Metro (Le Dernier metro)**<br>
+Sat 8 Jan 17:10, Fri 21 Jan 17:50, Sat 22 Jan 20:30, Wed 26 Jan 20:30<br>
+**Pocket Money (L’Argent de poche)**<br>
+Sat 8 Jan 20:55, Sat 29 Jan 18:00<br>
+**The Man Who Loved Women  (L’Homme qui aimait les femmes)**<br>
+Sun 9 Jan 18:20, Mon 24 Jan 20:40<br>
+**BFI Course: François Truffaut**<br>
+Every Tue from 18 Jan-22 Feb 18:30-20:30<br>
+<br>
+
+**In cultural partnership with**  
+<img style="float: left;" src="/img/institut-francais.jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+
+**Promotional partner**  
+<img style="float: left;" src="/img/brasserie-blanc.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNDQ5MDY1MDkwXX0=
 -->
