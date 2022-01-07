@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Man Who Fell to Earth
+published: true
+date: 2022-01-08
+readtime: true
+categories: ['BOWIE<br>STARMAN AND THE SILVER SCREEN']
+tags: [Sci-Fi]
+metadata: 'UK 1976, 139 mins<br> Director: Nicolas Roeg'
+pdf: '2022-01-08-man-who-fell-to-earth.pdf'
+---
 
 Bowie’s first starring role came in Nicolas Roeg’s visionary sci-fi film _The Man Who Fell to Earth_, the story of an alien’s surreal experiences after its spaceship crash lands on Earth. Bowie advances on the otherworldly image of his Ziggy Stardust persona, playing Thomas Jerome Newton as a fragile, increasingly emaciated dandy, evolving the Thin White Duke image of his contemporaneous _Station to Station_ LP. By his own admission, Bowie was heavily using cocaine in this period and the combination of his elegantly wasted performance and Roeg’s fractured, often startling visuals make for one of the strangest sci-fi films of the era – a clear influence on the recent _Under the Skin_ (2013).  An image of Bowie from the film was used on the cover of the artist’s 1977 masterpiece _Low_.  
 **Samuel Wigley, bfi.org.uk**
@@ -87,6 +97,66 @@ UK 1976©<br>
 
 *Uncredited
 <br><br>
+
+**BOWIE: STARMAN AND THE SILVER SCREEN**<br>
+**The Prestige**<br>
+Sat 1 Jan 17:30, Tue 11 Jan 20:30<br>
+**Merry Christmas Mr. Lawrence**<br>
+Sat 1 Jan 20:30, Sat 8 Jan 18:20, Thu 20 Jan 20:30<br>
+**Christiane F. (Wir Kinder vom Bahnhof Zoo)**<br>
+Sun 2 Jan 15:00, Fri 21 Jan 20:30<br>
+**Absolute Beginners**<br>
+Sun 2 Jan 18:00, Fri 14 Jan 20:40 (+ Inside Cinema: David Bowie), Fri 28 Jan 20:45<br>
+**Twin Peaks: Fire Walk with Me**<br>
+Tue 4 Jan 17:50, Mon 10 Jan 20:20<br>
+**Basquiat**<br>
+Wed 5 Jan 18:10, Sun 16 Jan 15:20 (+ Inside Cinema: David Bowie)<br>
+**Bug Special: David Bowie**<br>
+Thu 6 Jan 20:50, Fri 7 Jan 20:50<br>
+**Labyrinth**<br>
+Sat 8 Jan 12:00, Sun 9 Jan 13:00, Wed 26 Jan 18:10<br>
+**BFI Course: David Bowie: So I Felt like an Actor**<br>
+Sat 8 Jan 15:45<br>
+**The Man Who Fell to Earth**<br>
+Sat 8 Jan 20:10, Mon 17 Jan 14:30, Sun 30 Jan 18:10<br>
+**Cracked Actor + Oddities + Inside Cinema: David Bowie**<br>
+Sun 9 Jan 16:10<br>
+**Ziggy Stardust & The Spiders from Mars**<br>
+Sun 9 Jan 18:10 (+ Inside Cinema: David Bowie), Mon 24 Jan 20:30<br>
+**The Hunger**<br>
+Mon 10 Jan 18:10, Sat 22 Jan 20:50<br>
+**Baal** + extended intro by Adrian Wootton **+ Pierrot in Turquoise or The Looking Glass Murders**<br>
+Wed 19 Jan 18:00<br>
+**Bowie at Glastonbury 2000**<br>
+Sat 22 Jan 18:00<br>
+<br>
+
+**In association with**  
+<img style="float: left;" src="/img/bowie-75.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+**Promotional partner**  
+<img style="float: left;" src="/img/brixton-brewery.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMzM3MTA0MzgxXX0=
 -->
