@@ -57,10 +57,10 @@ Marilyn Monroe _(Lorelei Lee)_<br>
 Charles Coburn _(Sir Francis Beekman)_<br>
 Elliott Reid _(Ernie Malone)_<br>
 Tommy Noonan _(Gus Esmond)_<br>
-George Winslow _(Henry Spofford III)_
-Marcel Dalio _(magistrate)_
-Taylor Holmes _(Gus Esmond Sr)_
-Norma Varden _(Lady Beekman)_
+George Winslow _(Henry Spofford III)_<br>
+Marcel Dalio _(magistrate)_<br>
+Taylor Holmes _(Gus Esmond Sr)_<br>
+Norma Varden _(Lady Beekman)_<br>
 _uncredited_
 Henri Letondal _(Grotier)_
 Leo Mostovoy _(Philippe)_
@@ -94,5 +94,5 @@ Sam Harris _(old spectator)_
 USA 1953©
 91 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyMzQyMjIyLDU4MjY0MTI4M119
+eyJoaXN0b3J5IjpbLTE1Mzk1MzAxNjIsNTgyNjQxMjgzXX0=
 -->
