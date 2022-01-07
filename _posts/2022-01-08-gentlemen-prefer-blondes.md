@@ -25,129 +25,69 @@ Central to the achievement of _Gentlemen Prefer Blondes_ is the extraordinary ra
 It is worth noting, therefore, that Monroe and Russell actually became friends while working on _Gentlemen Prefer Blondes_ – despite the fact that Russell was paid $200,000 for her part (and got top billing), while Monroe, on her Fox salary and not yet a star, got only $500 a week. Hawks once explained their unusual ‘chemistry’ as screen presences by describing Monroe as a fantasy and Russell as ‘real’.<br>
 **Jonathan Rosenbaum, _Sight and Sound_, Winter 1984-85**<br>
 
-<![endif]-->
+
 
 **GENTLEMEN PREFER BLONDES**
-
 _Directed by_: Howard Hawks
-
 _©/Produced and Released by_: Twentieth Century-Fox Film Corporation
-
 _Produced by_: Sol C. Siegel
-
 _Assistant Director_: Paul Helmick
-
 _Screen Play by_: Charles Lederer
-
 _Based on the musical comedy by_: Joseph Fields, Anita Loos
-
 _[Play] Presented on the stage by_: Herman Levin, Oliver Smith
-
 _Director of Photography_: Harry J. Wild
-
 _Technicolor Colour Consultant_: Leonard Doss
-
 _Special Photographic Effects_: Ray Kellogg
-
 _Film Editor_: Hugh S. Fowler
-
 _Art Direction_: Lyle Wheeler, Joseph C. Wright
-
 _Set Decorations_: Claude Carpenter
-
 _Costumes Designed by_: Travilla
-
 _Wardrobe Direction_: Charles Le Maire
-
 _Makeup Artist_: Ben Nye
-
 _Colour by_: Technicolor
-
 _Music and Lyrics by_: Jule Styne, Leo Robin
-
 _Musical Direction_: Lionel Newman
-
 _Vocal Direction_: Eliot Daniel
-
 _Orchestration_: Herbert Spencer, Earle Hagen, Bernard Mayers
-
 _Choreography by_: Jack Cole
-
 _Sound_: E. Clayton Ward, Roger Heman
-
 _Sound System_: Western Electric
 
 **Cast**
-
 Jane Russell _(Dorothy Shaw)_
-
 Marilyn Monroe _(Lorelei Lee)_
-
 Charles Coburn _(Sir Francis Beekman)_
-
 Elliott Reid _(Ernie Malone)_
-
 Tommy Noonan _(Gus Esmond)_
-
 George Winslow _(Henry Spofford III)_
-
 Marcel Dalio _(magistrate)_
-
 Taylor Holmes _(Gus Esmond Sr)_
-
 Norma Varden _(Lady Beekman)_
-
 _uncredited_
-
 Henri Letondal _(Grotier)_
-
 Leo Mostovoy _(Philippe)_
-
 Alex Frazer _(Pritchard)_
-
 Harry Carey Jr _(Winslow)_
-
 George Davis _(cab driver)_
-
 Alphonse Martell _(Louie, headwaiter)_
-
-Jimmie Moultrie_,_ Freddie Moultrie _(boy dancers)_
-
+Jimmie Moultri, Freddie Moultrie _(boy dancers)_
 Peter Camlin _(policeman)_
-
 Jean Del Val _(ship’s captain)_
-
 Ray Montgomery _(Peters)_
-
 Alvy Moore _(Anderson)_
-
 Robert Nichols _(Evans)_
-
 Charles Tannen _(Ed)_
-
 James Young _(Stevens)_
-
 Charles de Ravenne _(purser)_
-
 John Close _(coach)_
-
 William Cabanne _(Sims)_
-
 Phil Sylvestre _(steward)_
-
 Jack Chefe_,_ John Hedloe
-
 Alfred Paix _(Pierre)_
-
 Rex Willenz _(court clerk)_
-
 Rolfe Sedan _(waiter)_
-
 Robert Foulk_,_ Ralph Peters _(passport officials)_
-
-Jimmy Saung_,_ George Chakiris, Matt Mattox, Ralph Beaumont,
-
-George Dee _(dancers)_
+Jimmy Saung_,_ George Chakiris, Matt Mattox, Ralph Beaumont, George Dee _(dancers)_
 
 Robert Fuller _(man)_
 
@@ -161,5 +101,5 @@ USA 1953©
 
 91 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTk0NDkwNl19
+eyJoaXN0b3J5IjpbLTMyMjE1MTMyOF19
 -->
