@@ -36,131 +36,69 @@ _1st Assistant Director:_ Suzanne Schiffman<br>
 _2nd Assistant Director:_ Emmanuel Clot<br>
 _Script Supervisor:_ Christine Pellé<br>
 _Screenplay by:_ François Truffaut,  Suzanne Schiffman<br>
-_Dialogue by:_ François Truffaut,
-Suzanne Schiffman, Jean-Claude Grumberg<br>
-
+_Dialogue by:_ François Truffaut, Suzanne Schiffman, Jean-Claude Grumberg<br>
 _Director of Photography:_ Nestor Almendros<br>
-
-_Camera Assistants:_ Florent Bazin,  
-Emilio Pacull-Latorre, Tessa Racine<br>
-
+_Camera Assistants:_ Florent Bazin,  Emilio Pacull-Latorre, Tessa Racine<br>
 _Gaffer:_ Jean-Claude Gasché<br>
-
 _Electricians:_ André Seybald, Serge Valezy<br>
-
 _Key Grip:_ Charles Freess<br>
-
 _Grips:_ Jacques Fréjabue, Gérard Bougeant<br>
-
 _Stills Photography:_ Jean-Pierre Fizet<br>
-
 _Editor:_ Martine Barraqué-Curie<br>
-
-_Assistant Editors:_ Marie-Aimée Debril,  
-Jean-François Giré<br>
-
+_Assistant Editors:_ Marie-Aimée Debril,  Jean-François Giré<br>
 _Art Director:_ Jean-Pierre Kohut-Svelko<br>
-
-_Art Department Crew:_ Pierre Gompertz,
-
-Jacques Leguillon, Roland Jacob<br>
-
+_Art Department Crew:_ Pierre Gompertz, Jacques Leguillon, Roland Jacob<br>
 _Properties:_ Jacques Preisach<br>
-
 _Costumes:_ Lisele Roos<br>
-
 _Costume Assistants:_ Christiane Aumard-Fageol, Edwige Cherel, Françoise Poillot<br>
-
 _Make-up:_ Didier Lavergne<br>
-
-_Make-up Assistants:_ Thi Loan N’Guyen,  
-Françoise Ben Soussan<br>
-
+_Make-up Assistants:_ Thi Loan N’Guyen,  Françoise Ben Soussan<br>
 _Hairdresser:_ Jean-Pierre Berroyer<br>
-
 _Assistant Hairdresser:_ Nadine Leroy<br>
-
 _Titles and Opticals:_ Euro-Titres<br>
-
 _Laboratory:_ L.T.C. Saint-Cloud<br>
-
 _Film Stock:_ Fujicolor, Pyral<br>
-
 _Music:_ Georges Delerue<br>
-
 _Sound Recordist:_ Michel Laurent<br>
-
 _Sound Assistant:_ Michel Mellier<br>
-
 _Sound Mixer:_ Jacques Maumont<br>
-
-_Sound Studio:_  
-Paris Studios Cinéma (Studios de Billancourt)<br>
-
+_Sound Studio:_  Paris Studios Cinéma (Studios de Billancourt)<br>
 _Sound Effects:_ Daniel Couteau<br>
-
 _Studio:_ Studios de Billancourt *<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Catherine Deneuve _(Marion Steiner)_<br>
-
 Gérard Depardieu _(Bernard Granger)_<br>
-
 Jean Poiret _(Jean-Loup Cottins)_<br>
-
 Andréa Ferréol _(Arlette Guillaume)_<br>
-
 Paulette Dubost _(Germaine Fabre)_<br>
-
 Jean-Louis Richard _(Daxiat)_<br>
-
 Sabine Haudepin _(Nadine Marsac)_<br>
-
 Maurice Risch _(Raymond Bousier)_<br>
-
 Heinz Bennent _(Lucas Steiner)_<br>
-
 Christian Baltauss _(Bernard’s replacement)_<br>
-
 Pierre Belot _(hotel desk clerk)_<br>
-
 René Dupré _(M. Valentin)_<br>
-
 Aude Loring<br>
-
 Alain Tasma _(Marc)_<br>
-
 Rose Thierry _(Jacquot’s mother, concierge)_<br>
-
 Jacob Weizbluth _(Rosen)_<br>
-
 Jean-Pierre Klein _(Christian Leglisse)_<br>
-
 Rénata _(Greta Borg, cabaret singer)_<br>
-
 Marcel Berbert _(Merlin)_<br>
-
 Hénia Ziv _(Yvonne)_<br>
-
 László Szabó _(Lieutenant Bergen)_<br>
-
 Martine Simonet _(Martine Sénéchal)_<br>
-
 Jean-José Richer _(René Bernardini)_<br>
-
 Jessica Zucman _(Rosette)_<br>
-
 Richard Bohringer _(Gestapo officer)_<br>
-
 Franck Pasquier _(Jacquot-Eric)_<br>
 
 France 1979©<br>
-
 132 mins
 
 * Uncredited
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjM3Mjc0NF19
+eyJoaXN0b3J5IjpbNDQ5MDY1MDkwXX0=
 -->
