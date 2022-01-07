@@ -1,6 +1,6 @@
 
 Howard Hawks’ marvellous musical comedy, based on Anita Loos’ novel about a pair of gold-digging cabaret artists raising the temperatures of various lamentable males on a transatlantic liner, boasts supremely imaginative song-and-dance set-pieces (shot in sumptuous Technicolor), and unforgettable performances from Monroe and Russell. Truffaut praised its ‘pitiless’ intelligence, its sense of the absurd and its tendency towards excess.<br>
-**bfi.org.uk**
+**bfi.org.uk**<br>
 
 Before even the credit titles can appear, Marilyn Monroe and Jane Russell arrive to a blast of music at screen centre from behind a black curtain, in matching orange-red outfits that sizzle the screen covered with spangles, topped with feathers to look at one another, toss white ermines towards the camera and out of frame and sing robustly in unison. As electrifying as the opening of any Hollywood movie that comes to mind, this jazzy materialisation so catches us by surprise that we are scarcely aware of the scene’s fleeting modulations as the dynamic duo makes it through a single chorus. The black curtain changes to a lurid blue, then a loud purple; the two women twice exchange their positions on stage while gradually dancing down a few steps; and the complex flurry of gestures they make towards each other – all gracefully dovetailed into Jack Cole’s deft choreography – makes the spectator feel assaulted by them as a team as well as individually: a double threat.
 
@@ -61,38 +61,39 @@ George Winslow _(Henry Spofford III)_<br>
 Marcel Dalio _(magistrate)_<br>
 Taylor Holmes _(Gus Esmond Sr)_<br>
 Norma Varden _(Lady Beekman)_<br>
-_uncredited_
-Henri Letondal _(Grotier)_
-Leo Mostovoy _(Philippe)_
-Alex Frazer _(Pritchard)_
-Harry Carey Jr _(Winslow)_
-George Davis _(cab driver)_
-Alphonse Martell _(Louie, headwaiter)_
-Jimmie Moultri, Freddie Moultrie _(boy dancers)_
-Peter Camlin _(policeman)_
-Jean Del Val _(ship’s captain)_
-Ray Montgomery _(Peters)_
-Alvy Moore _(Anderson)_
-Robert Nichols _(Evans)_
-Charles Tannen _(Ed)_
-James Young _(Stevens)_
-Charles de Ravenne _(purser)_
-John Close _(coach)_
-William Cabanne _(Sims)_
-Phil Sylvestre _(steward)_
-Jack Chefe, John Hedloe
-Alfred Paix _(Pierre)_
-Rex Willenz _(court clerk)_
-Rolfe Sedan _(waiter)_
-Robert Foulk, Ralph Peters _(passport officials)_
-Jimmy Saung, George Chakiris, Matt Mattox, Ralph Beaumont, George Dee _(dancers)_
-Robert Fuller _(man)_
-Harry Seymour _(captain of waiters)_
-Jamie Russell _(athlete)_
-Sam Harris _(old spectator)_
 
-USA 1953©
-91 mins
+_uncredited_<br>
+Henri Letondal _(Grotier)_<br>
+Leo Mostovoy _(Philippe)_<br>
+Alex Frazer _(Pritchard)_<br>
+Harry Carey Jr _(Winslow)_<br>
+George Davis _(cab driver)_<br>
+Alphonse Martell _(Louie, headwaiter)_<br>
+Jimmie Moultri, Freddie Moultrie _(boy dancers)_<br>
+Peter Camlin _(policeman)_<br>
+Jean Del Val _(ship’s captain)_<br>
+Ray Montgomery _(Peters)_<br>
+Alvy Moore _(Anderson)_<br>
+Robert Nichols _(Evans)_<br>
+Charles Tannen _(Ed)_<br>
+James Young _(Stevens)_<br>
+Charles de Ravenne _(purser)_<br>
+John Close _(coach)_<br>
+William Cabanne _(Sims)_<br>
+Phil Sylvestre _(steward)_<br>
+Jack Chefe, John Hedloe<br>
+Alfred Paix _(Pierre)_<br>
+Rex Willenz _(court clerk)_<br>
+Rolfe Sedan _(waiter)_<br>
+Robert Foulk, Ralph Peters _(passport officials)_<br>
+Jimmy Saung, George Chakiris, Matt Mattox, Ralph Beaumont, George Dee _(dancers)_<br>
+Robert Fuller _(man)_<br>
+Harry Seymour _(captain of waiters)_<br>
+Jamie Russell _(athlete)_<br>
+Sam Harris _(old spectator)_<br>
+
+USA 1953©<br>
+91 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk1MzAxNjIsNTgyNjQxMjgzXX0=
+eyJoaXN0b3J5IjpbLTE1OTUxODE1NzIsNTgyNjQxMjgzXX0=
 -->
