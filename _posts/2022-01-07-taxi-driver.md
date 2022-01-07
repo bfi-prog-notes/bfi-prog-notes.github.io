@@ -56,44 +56,28 @@ _Conductor:_ Jack Hayes *<br>
 _Re-recording Supervisor:_ Tex Rudloff<br>
 _Re-recording Mixers:_ Dick Alexander, Vern Poore<br>
 
-_Cast<br>
-
+**Cast**<br>
 Robert De Niro _(Travis Bickle)_<br>
-
 Jodie Foster _(Iris)_<br>
-
 Albert Brooks _(Tom)_<br>
-
 Harvey Keitel _(Sport)_<br>
-
 Leonard Harris _(Charles Palantine)_<br>
-
 Peter Boyle _(Wizard)_<br>
-
 Cybill Shepherd _(Betsy)_<br>
-
 Diahnne Abbot _(concession girl)_<br>
-
 Frank Adu _(angry black man)_<br>
-
 Vic Argo _(Melio)_<br>
-
 Gino Ardito _(policeman at rally)_<br>
-
 Garth Avery _(Iris’s friend)_<br>
-
 Norman Matlock _(Charlie T.)_<br>
-
 Steven Prince _(Andy, gun salesman)_<br>
-
 Martin Scorsese _(passenger watching silhouette)_<br>
 
 USA 1976©<br>
-
 114 mins
 
-* Uncredited
+*Uncredited
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3MDkzOTg2XX0=
+eyJoaXN0b3J5IjpbMjAwMDkxMzUxOV19
 -->
