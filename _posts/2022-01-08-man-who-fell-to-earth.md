@@ -73,29 +73,20 @@ Rick Riccardo _(Trevor)_<br>
 Tony Mascia _(Arthur)_<br>
 Linda Hutton _(Elaine)_<br>
 Hilary Holland _(Jill)_<br>
-
 Adrienne Larussa _(Helen)_<br>
-
 Lilybelle Crawford _(jewellery store owner)_<br>
-
 Richard Breeding _(receptionist)_<br>
-
 Albert Nelson _(waiter)_<br>
-
 Peter Prouse _(Peters’ associate)_<br>
-
 Captain James Lovell _(himself)_<br>
-
 Presbyterian Church Artesia N.M. _(themselves)_<br>
-
 Claudia Jennings _(Mrs Peters)_ *
 
 UK 1976©<br>
-
 139 mins
 
 *Uncredited
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MzExNzkzN119
+eyJoaXN0b3J5IjpbMzM3MTA0MzgxXX0=
 -->
