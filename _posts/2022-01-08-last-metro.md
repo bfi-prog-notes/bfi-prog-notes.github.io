@@ -106,7 +106,7 @@ Franck Pasquier _(Jacquot-Eric)_<br>
 France 1979©<br>
 132 mins
 
-* Uncredited
+*Uncredited
 <br><br>
 
 **THE RENOIR TRUFFAUT**<br>
