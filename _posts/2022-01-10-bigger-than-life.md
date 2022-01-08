@@ -1,4 +1,3 @@
-<![endif]-->
 
 A favourite of Truffaut, Godard and Rohmer, Ray repeatedly examined the failings of the American Dream; this searing account of a mild-mannered teacher (Mason) turning egomaniacal after becoming addicted to the cortisone he needs for a heart condition is arguably his masterpiece. Direction, script, camerawork and performance combine to produce a film of enormous anguish; Truffaut applauded its accuracy, honesty and precise intelligence.<br>
 **bfi.org.uk**
@@ -21,89 +20,70 @@ Returning to school after his release from the hospital, Ed tells his wife Lou t
 A general sense that, insofar as He exists at all, ‘God was wrong,’ infuses the world of Ray’s films, from the nervous instability of his compositions to the unrelieved torment of his heroes. In a rare and unprecedented moment of rebellion against Ed’s demands, Lou slams the door of a medicine cabinet and the mirror cracks. Ed sees himself fragmented and duplicated in the broken surface – a crowd of images alienated from one another that gives the lie to his fantasy that he maintains a consistent, logical and continuous identity.<br>
 **Jonathan Rosenbaum, _Sight and Sound_, Autumn 1973**<br>
 
-**BIGGER THAN LIFE**
-_Directed by:_ Nicholas Ray
-_©:_ Twentieth Century Fox Film Corporation
-_Production Company:_ Twentieth Century-Fox Film Corporation
-_Produced by:_ James Mason
-_Assistant Director:_ Eli Dunn
-_Story and Screenplay by:_ Cyril Hume, Richard Maibaum
-_Based on an article in_ The New Yorker _by:_ Berton Roueche
-_Director of Photography:_ Joe MacDonald
-_Colour Consultant:_ Leonard Doss
-_Special Photographic Effects:_ Ray Kellogg
-_Film Editor:_ Louis Loeffler
-_Art Direction:_ Lyle R. Wheeler, Jack Martin Smith
-_Set Decorations:_ Walter M. Scott, Stuart A. Reiss
-_Costumes Designed by:_ Mary Wills
-_Executive Wardrobe Designer:_ Charles Lemaire
-_Makeup by:_ Ben Nye
-_Hair Styles by:_ Helen Turpin
-_CinemaScope Lenses by:_ Bausch & Lomb
-_Music:_ David Raksin
-_Conducted by:_ Lionel Newman
-_Orchestration:_ Edward B. Powell
-_Sound:_ W.D. Flick, Harry M. Leonard
+**BIGGER THAN LIFE**<br>
+_Directed by:_ Nicholas Ray<br>
+_©:_ Twentieth Century Fox Film Corporation<br>
+_Production Company:_ Twentieth Century-Fox Film Corporation<br>
+_Produced by:_ James Mason<br>
+_Assistant Director:_ Eli Dunn<br>
+_Story and Screenplay by:_ Cyril Hume, Richard Maibaum<br>
+_Based on an article in_ The New Yorker _by:_ Berton Roueche<br>
+_Director of Photography:_ Joe MacDonald<br>
+_Colour Consultant:_ Leonard Doss<br>
+_Special Photographic Effects:_ Ray Kellogg<br>
+_Film Editor:_ Louis Loeffler<br>
+_Art Direction:_ Lyle R. Wheeler, Jack Martin Smith<br>
+_Set Decorations:_ Walter M. Scott, Stuart A. Reiss<br>
+_Costumes Designed by:_ Mary Wills<br>
+_Executive Wardrobe Designer:_ Charles Lemaire<br>
+_Makeup by:_ Ben Nye<br>
+_Hair Styles by:_ Helen Turpin<br>
+_CinemaScope Lenses by:_ Bausch & Lomb<br>
+_Music:_ David Raksin<br>
+_Conducted by:_ Lionel Newman<br>
+_Orchestration:_ Edward B. Powell<br>
+_Sound:_ W.D. Flick, Harry M. Leonard<br>
 
-_uncredited_
-_Personal Assistant to Nicholas Ray:_ Gavin Lambert
-_Screenplay Rewrites:_ Gavin Lambert, Clifford Odets
+_uncredited_<br>
+_Personal Assistant to Nicholas Ray:_ Gavin Lambert<br>
+_Screenplay Rewrites:_ Gavin Lambert, Clifford Odets<br>
 
-**Cast**
-James Mason _(Ed Avery)_
-Barbara Rush _(Lou Avery)_
-Walter Matthau _(Wally Gibbs)_
-Robert Simon _(Dr Norton)_
-Christopher Olsen _(Richie Avery)_
-Roland Winters _(Dr Rurie)_
-Rusty Lane _(La Porte)_
-Rachel Stephens _(nurse)_
-Kipp Hamilton _(Pat Wade)_
+**Cast**<br>
+James Mason _(Ed Avery)_<br>
+Barbara Rush _(Lou Avery)_<br>
+Walter Matthau _(Wally Gibbs)_<br>
+Robert Simon _(Dr Norton)_<br>
+Christopher Olsen _(Richie Avery)_<br>
+Roland Winters _(Dr Rurie)_<br>
+Rusty Lane _(La Porte)_<br>
+Rachel Stephens _(nurse)_<br>
+Kipp Hamilton _(Pat Wade)_<br>
 
-_uncredited_
-Betty Caulfield _(Mrs La Porte)_
-Virginia Carroll _(Mrs Jones)_
-Renny McEvoy _(Mr Jones)_
+_uncredited_<br>
+Betty Caulfield _(Mrs La Porte)_<br>
+Virginia Carroll _(Mrs Jones)_<br>
+Renny McEvoy _(Mr Jones)_<br>
+Bill Jones _(Mr Byron)_<br>
+Lee Aaker _(Joe)_<br>
+Jerry Mathers _(Freddie)_<br>
+Portland Mason _(Nancy)_<br>
+Natalie Masters _(Mrs Tyndal)_<br>
+Richard Collier _(Andy, the milkman)_<br>
+Lewis Charles _(Dr MacLennan)_<br>
+William Schallert _(pharmacist)_<br>
+John Monoghan _(cabby)_<br>
+Gus Schilling _(druggist)_<br>
+Alex Frazer _(clergyman)_<br>
+Mary Mcadoo _(Mrs Edwards)_<br>
+Eugenia Paul _(saleslady)_<br>
+Gladys Richards _(lab nurse)_<br>
+David Bedell _(X-ray doctor)_<br>
+Ann Spencer _(nurse)_<br>
+Nan Dolan _(Dr Norton’s nurse)_<br>
+Mary Carver<br>
 
-Bill Jones _(Mr Byron)_
-
-Lee Aaker _(Joe)_
-
-Jerry Mathers _(Freddie)_
-
-Portland Mason _(Nancy)_
-
-Natalie Masters _(Mrs Tyndal)_
-
-Richard Collier _(Andy, the milkman)_
-
-Lewis Charles _(Dr MacLennan)_
-
-William Schallert _(pharmacist)_
-
-John Monoghan _(cabby)_
-
-Gus Schilling _(druggist)_
-
-Alex Frazer _(clergyman)_
-
-Mary Mcadoo _(Mrs Edwards)_
-
-Eugenia Paul _(saleslady)_
-
-Gladys Richards _(lab nurse)_
-
-David Bedell _(X-ray doctor)_
-
-Ann Spencer _(nurse)_
-
-Nan Dolan _(Dr Norton’s nurse)_
-
-Mary Carver
-
-USA 1956©
-
-95 mins
+USA 1956©<br>
+95 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzY5NTA2M119
+eyJoaXN0b3J5IjpbLTU2MTIzNTE5Nl19
 -->
