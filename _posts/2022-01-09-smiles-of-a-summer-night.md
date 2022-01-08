@@ -61,31 +61,31 @@ Harriet Andersson _(Petra)_<br>
 Jullan Kindahl _(Beata, the cook)_<br>
 Gull Natorp _(Malla, Desirée’s maid)_<br>
 Gunnar Nielsen _(Niklas)_<br>
-Bibi Andersson,_ Birgitta Valberg _(actresses)_
-Gösta Prüzelius _(footman)_
-Svea Holst _(maid)_
-Mona Malm_,_ Lena Söderblom _(chambermaids)_
-Josef Norman _(guest at Madame Armfeldt)_
-Yngve Nordwall _(Ferdinand)_
-Hans Strååt _(Adolf Almgren, the photographer)_
-Lisa Lundholm _(Mrs Almgren)_
-Börje Mellvig _(notary)_
-David Erikson _(tobacconist)_
-Arne Lindblad _(actor)_
+Bibi Andersson, Birgitta Valberg _(actresses)_<br>
+Gösta Prüzelius _(footman)_<br>
+Svea Holst _(maid)_<br>
+Mona Malm, Lena Söderblom _(chambermaids)_<br>
+Josef Norman _(guest at Madame Armfeldt)_<br>
+Yngve Nordwall _(Ferdinand)_<br>
+Hans Strååt _(Adolf Almgren, the photographer)_<br>
+Lisa Lundholm _(Mrs Almgren)_<br>
+Börje Mellvig _(notary)_<br>
+David Erikson _(tobacconist)_<br>
+Arne Lindblad _(actor)_<br>
 
-_uncredited_
-Sten Gester_,_ Mille Schmidt _(servants)_
-John Melin _(butler at Madame Armfeldt)_
-Ulf Johanson _(man at lawyer’s office)_
-Anders Wulff _(Fredrik, Desirée’s son)_
-Viveca Heister
-Birgitta Hellerstedt
-Einar Söderbäck
+_uncredited_<br>
+Sten Gester, Mille Schmidt _(servants)_<br>
+John Melin _(butler at Madame Armfeldt)_<br>
+Ulf Johanson _(man at lawyer’s office)_<br>
+Anders Wulff _(Fredrik, Desirée’s son)_<br>
+Viveca Heister<br>
+Birgitta Hellerstedt<br>
+Einar Söderbäck<br>
 
-Sweden 1955
-109 mins
+Sweden 1955<br>
+109 mins<br>
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTE1MjUzN119
+eyJoaXN0b3J5IjpbLTM4MzQ2ODk0XX0=
 -->
