@@ -1,3 +1,14 @@
+---
+layout: post
+title: Bigger than Life
+published: true
+date: 2022-01-10
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'USA 1956, 95 mins<br> Director: Nicholas Ray'
+pdf: '2022-01-10-bigger-than-life.pdf'
+---
 
 A favourite of Truffaut, Godard and Rohmer, Ray repeatedly examined the failings of the American Dream; this searing account of a mild-mannered teacher (Mason) turning egomaniacal after becoming addicted to the cortisone he needs for a heart condition is arguably his masterpiece. Direction, script, camerawork and performance combine to produce a film of enormous anguish; Truffaut applauded its accuracy, honesty and precise intelligence.<br>
 **bfi.org.uk**
@@ -84,6 +95,49 @@ Mary Carver<br>
 
 USA 1956©<br>
 95 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTIzNTE5Nl19
--->
+<br>
+
+**BIG SCREEN CLASSICS**<br>
+**Rome, Open City (Roma, città aperta)**<br>
+Wed 5 Jan 17:50, Wed 26 Jan 18:00 (+ intro by lecturer and writer Dr Julia Wagner), Sat 29 Jan 13:00<br>
+**Letter from an Unknown Woman**<br>
+Thu 6 Jan 20:40, Sat 15 Jan 15:40, Mon 31 Jan 20:45<br>
+**Casque d’or**<br>
+Fri 7 Jan 20:45, Wed 12 Jan 17:50 (+ pre-recorded intro by film critic and historian Pamela Hutchinson), Sun 23 Jan 13:10<br>
+**Gentlemen Prefer Blondes**<br>
+Sat 8 Jan 16:00, Thu 13 Jan 18:10, Mon 17 Jan 18:20<br>
+**Ordet (The Word)**<br>
+Sun 9 Jan 13:20, Tue 18 Jan 20:30<br>
+**Smiles of a Summer Night**<br>
+Sun 9 Jan 16:00, Thu 20 Jan 20:50, Tue 25 Jan 18:10<br>
+**Bigger Than Life**<br>
+Mon 10 Jan 14:30, Wed 19 Jan 18:05 (+ intro by Geoff Andrew, Programmer-at-Large), Wed 26 Jan 20:50<br>
+**Citizen Kane**<br>
+Tue 11 Jan 17:50, Thu 27 Jan 18:00<br>
+**La Grande Illusion**<br>
+Tue 11 Jan 18:15, Sun 16 Jan 12:40<br>
+**Twelve Angry Men**<br>
+Fri 14 Jan 14:40, Mon 24 Jan 18:20, Fri 28 Jan 18:20<br>
+**Shadow of a Doubt**<br>
+Sat 22 Jan 12:10, Tue 25 Jan 14:30<br>
+**Les Enfants terribles**<br>
+Sun 30 Jan 15:15<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+<br>
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
