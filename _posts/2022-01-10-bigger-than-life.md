@@ -21,99 +21,48 @@ Returning to school after his release from the hospital, Ed tells his wife Lou t
 A general sense that, insofar as He exists at all, ‘God was wrong,’ infuses the world of Ray’s films, from the nervous instability of his compositions to the unrelieved torment of his heroes. In a rare and unprecedented moment of rebellion against Ed’s demands, Lou slams the door of a medicine cabinet and the mirror cracks. Ed sees himself fragmented and duplicated in the broken surface – a crowd of images alienated from one another that gives the lie to his fantasy that he maintains a consistent, logical and continuous identity.<br>
 **Jonathan Rosenbaum, _Sight and Sound_, Autumn 1973**<br>
 
-
-**Bigger than Life**
-
+**BIGGER THAN LIFE**
 _Directed by:_ Nicholas Ray
-
 _©:_ Twentieth Century Fox Film Corporation
-
-_Production Company:_
-
-Twentieth Century-Fox Film Corporation
-
+_Production Company:_ Twentieth Century-Fox Film Corporation
 _Produced by:_ James Mason
-
 _Assistant Director:_ Eli Dunn
-
-_Story and Screenplay by:_ Cyril Hume,
-
-Richard Maibaum
-
-_Based on an article in_ The New Yorker _by:_
-
-Berton Roueche
-
+_Story and Screenplay by:_ Cyril Hume, Richard Maibaum
+_Based on an article in_ The New Yorker _by:_ Berton Roueche
 _Director of Photography:_ Joe MacDonald
-
 _Colour Consultant:_ Leonard Doss
-
 _Special Photographic Effects:_ Ray Kellogg
-
 _Film Editor:_ Louis Loeffler
-
-_Art Direction:_ Lyle R. Wheeler,
-
-Jack Martin Smith
-
-_Set Decorations:_ Walter M. Scott,
-
-Stuart A. Reiss
-
+_Art Direction:_ Lyle R. Wheeler, Jack Martin Smith
+_Set Decorations:_ Walter M. Scott, Stuart A. Reiss
 _Costumes Designed by:_ Mary Wills
-
 _Executive Wardrobe Designer:_ Charles Lemaire
-
 _Makeup by:_ Ben Nye
-
 _Hair Styles by:_ Helen Turpin
-
 _CinemaScope Lenses by:_ Bausch & Lomb
-
 _Music:_ David Raksin
-
 _Conducted by:_ Lionel Newman
-
 _Orchestration:_ Edward B. Powell
-
 _Sound:_ W.D. Flick, Harry M. Leonard
 
 _uncredited_
+_Personal Assistant to Nicholas Ray:_ Gavin Lambert
+_Screenplay Rewrites:_ Gavin Lambert, Clifford Odets
 
-_Personal Assistant to Nicholas Ray:_
-
-Gavin Lambert
-
-_Screenplay Rewrites:_ Gavin Lambert,
-
-Clifford Odets
-
-_Cast:_
-
+**Cast**
 James Mason _(Ed Avery)_
-
 Barbara Rush _(Lou Avery)_
-
 Walter Matthau _(Wally Gibbs)_
-
 Robert Simon _(Dr Norton)_
-
 Christopher Olsen _(Richie Avery)_
-
 Roland Winters _(Dr Rurie)_
-
 Rusty Lane _(La Porte)_
-
 Rachel Stephens _(nurse)_
-
 Kipp Hamilton _(Pat Wade)_
 
 _uncredited_
-
 Betty Caulfield _(Mrs La Porte)_
-
 Virginia Carroll _(Mrs Jones)_
-
 Renny McEvoy _(Mr Jones)_
 
 Bill Jones _(Mr Byron)_
@@ -156,5 +105,5 @@ USA 1956©
 
 95 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDMzMzk0M119
+eyJoaXN0b3J5IjpbLTcyNzY5NTA2M119
 -->
