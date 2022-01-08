@@ -27,7 +27,82 @@ Death, so frequent an obsession in Bergman’s films, is for once mostly absent,
 In her 1962 account of Bergman’s films, critic Marianne Höök noted how ‘in its enormous whiteness, _Smiles of a Sumer Night_ possesses all the nuances of a colour movie and a joy in the rendering of the material which is seldom found in film but often in painting’. This ‘enormous whiteness’ and the film’s overall visual elegance can be credited to Gunnar Fischer, cinematographer on all Bergman’s strongest films of this period. Coupled with his sinuously smooth camera technique, the enchantment of his lighting is seen at its finest in the crucial dinner-party sequence, with Mme Armfeldt and her table guests captured in a shimmering pool of light within the shaded subfusc surrounding them where the servants hover discreetly in attendance.
 
 Svensk, evidently pleased with the fruits of their investment, entered _Smiles_ in competition at Cannes, where it won the prize for Best Poetic Humour and Bergman was nominated for the Palme d’Or. According to Bergman’s own account, he had no idea his film had been entered for the Festival until, sitting on the toilet one day, he read in his paper ‘Swedish Success at Cannes’ and discovered what had happened. He immediately borrowed the money for an air fare and, arriving at Cannes, confronted Dymling to insist that SF finance _The Seventh Seal_, about which the company had previously expressed reservations; with that film his international reputation was secured. ‘Ever since the success of _Smiles of a Summer Night_,’ Bergman later wrote, ‘nobody has interfered with my work. I have been able to do as I wished.’<br>
-**Philip Kemp, extract from BFI 5-Disc Blu-ray Box Set _Ingmar Bergman Vol.2_ booklet**
+**Philip Kemp, extract from BFI 5-Disc Blu-ray Box Set _Ingmar Bergman Vol.2_ booklet**<br>
+
+**SMILES O  (Sommarnattens Leende)**
+
+_Director_: Ingmar Bergman
+
+_Production Company_: Svensk Filmindustri
+
+_Unit Production Manager_: Gustav Roger
+
+_Unit Manager_: Ove Kant
+
+_Production Manager_: Allan Ekelund
+
+_Assistant Director_: Lennart Olsson
+
+_Script Supervisor_: Katherina Faragó
+
+_Screenplay_: Ingmar Bergman
+
+_Director of Photography_: Gunnar Fischer
+
+_B-Camera_: Åke Nilsson *
+
+_Editor_: Oscar Rosander
+
+_Art Director_: P.A. Lundgren
+
+_Costumes_: Mago
+
+_Music_: Erik Nordgren
+
+_Music Director_: E. Eckert-lundin
+
+_Sound Recording_: P.O. Pettersson
+
+_B-Sound_: Lennart Wallin *
+
+**Cast**<br>
+Gunnar Björnstrand _(Fredrik Egerman)_
+Ulla Jacobsson _(Anne Egerman)_
+Björn Bjelfvenstam _(Henrik Egerman)_
+Eva Dahlbeck _(Desirée Armfeldt)_
+Naima Wifstrand _(Madame Armfeldt)_
+Jarl Kulle _(Count Carl Magnus Malcolm)_
+Margit Carlquist _(Charlotte Malcolm)_
+Åke Fridell _(Frid, the coachman)_
+Harriet Andersson _(Petra)_
+Jullan Kindahl _(Beata, the cook)_
+Gull Natorp _(Malla, Desirée’s maid)_
+Gunnar Nielsen _(Niklas)_
+Bibi Andersson_,_ Birgitta Valberg _(actresses)_
+Gösta Prüzelius _(footman)_
+Svea Holst _(maid)_
+Mona Malm_,_ Lena Söderblom _(chambermaids)_
+Josef Norman _(guest at Madame Armfeldt)_
+Yngve Nordwall _(Ferdinand)_
+Hans Strååt _(Adolf Almgren, the photographer)_
+Lisa Lundholm _(Mrs Almgren)_
+Börje Mellvig _(notary)_
+David Erikson _(tobacconist)_
+Arne Lindblad _(actor)_
+
+_uncredited_
+Sten Gester_,_ Mille Schmidt _(servants)_
+John Melin _(butler at Madame Armfeldt)_
+Ulf Johanson _(man at lawyer’s office)_
+Anders Wulff _(Fredrik, Desirée’s son)_
+Viveca Heister
+Birgitta Hellerstedt
+Einar Söderbäck
+
+Sweden 1955
+109 mins
+
+\* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxMDc3Mjc4XX0=
+eyJoaXN0b3J5IjpbNzQ5MjE4NF19
 -->
