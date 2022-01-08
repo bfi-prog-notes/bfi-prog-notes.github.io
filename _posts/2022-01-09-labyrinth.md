@@ -67,6 +67,18 @@ Michael Hordern _(voice of the wiseman)_<br>
 
 UK 1986©<br>
 101 mins<br>
+<br>
+
+
+**FAMILIES**<br>
+**Space Jam**<br>
+Sun 16 Jan 13:20<br>
+**Funday Workshop: Sing 2**<br>
+Sun 23 Jan 10:15<br>
+**Funday Preview: Sing 2**<br>
+Sun 23 Jan 11:30<br>
+**Kes**<br>
+Sun 30 Jan 13:00<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg5NTc1MDhdfQ==
+eyJoaXN0b3J5IjpbNzMyNjk4MTcwXX0=
 -->
