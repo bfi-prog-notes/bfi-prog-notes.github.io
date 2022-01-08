@@ -1,6 +1,6 @@
 
 
-**What’s it about?**
+**What’s it about?**<br>
 
 Jim Henson’s cult fantasy fairy tale features David Bowie’s menacing Goblin King, who has taken young Sophie’s baby brother and placed him in the centre of a fiendishly challenging maze populated by creatures of all shapes and sizes.
 
@@ -35,38 +35,38 @@ _Original Story_: Denise Lee, Jim Henson<br>
 _Director of Photography_: Alex Thomson<br>
 _Optical Effects_: Optical Film Effects<br>
 _Special Effects Supervisor_: George Gibbs<br>
-_Special Effects Consultant_: Dennis Lowe
-_Creature Shop Creature Design/Supervisor_: Brian Froud
-_Creature Shop Chief Animatronic Designer_: Tony Dunsterville
-_Animator_: Peter Chiang
-_Conceptual Design_: Brian Froud
-_Production Designer_: Elliot Scott
-_Costume Designers_: Brian Froud, Ellis Flyte
-_Make-up Supervisor_: Wally Schneiderman
-_Puppeteer Co-ordinator_: Brian Henson
-_Music_: Trevor Jones
+_Special Effects Consultant_: Dennis Lowe<br>
+_Creature Shop Creature Design/Supervisor_: Brian Froud<br>
+_Creature Shop Chief Animatronic Designer_: Tony Dunsterville<br>
+_Animator_: Peter Chiang<br>
+_Conceptual Design_: Brian Froud<br>
+_Production Designer_: Elliot Scott<br>
+_Costume Designers_: Brian Froud, Ellis Flyte<br>
+_Make-up Supervisor_: Wally Schneiderman<br>
+_Puppeteer Co-ordinator_: Brian Henson<br>
+_Music_: Trevor Jones<br>
 _Sound Recording_: Peter Sutton<br>
 
-**Cast**
-David Bowie _(Jareth, the Goblin King)_
-Jennifer Connelly _(Sarah)_
-Toby Froud _(Toby)_
-Shelley Thompson _(stepmother)_
-Christopher Malcolm _(father)_
-Natalie Finland _(fairy)_
-Shari Weiser _(Hoggle)_
-Brian Henson _(Hoggle/voice of Hoggle)_
-Ron Mueck _(Ludo/voice of Ludo)_
-Rob Mills _(Ludo)_
-Dave Goelz, David Barclay _(Sir Didymus)_
-David Shaughnessy _(voice of Sir Didymus)_
-Karen Prell _(the worm)_
-Timothy Bateson _(voice of the worm)_
-Frank Oz _(the wiseman)_
-Michael Hordern _(voice of the wiseman)_
+**Cast**<br>
+David Bowie _(Jareth, the Goblin King)_<br>
+Jennifer Connelly _(Sarah)_<br>
+Toby Froud _(Toby)_<br>
+Shelley Thompson _(stepmother)_<br>
+Christopher Malcolm _(father)_<br>
+Natalie Finland _(fairy)_<br>
+Shari Weiser _(Hoggle)_<br>
+Brian Henson _(Hoggle/voice of Hoggle)_<br>
+Ron Mueck _(Ludo/voice of Ludo)_<br>
+Rob Mills _(Ludo)_<br>
+Dave Goelz, David Barclay _(Sir Didymus)_<br>
+David Shaughnessy _(voice of Sir Didymus)_<br>
+Karen Prell _(the worm)_<br>
+Timothy Bateson _(voice of the worm)_<br>
+Frank Oz _(the wiseman)_<br>
+Michael Hordern _(voice of the wiseman)_<br>
 
 UK 1986©<br>
 101 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDAxMjU1Nl19
+eyJoaXN0b3J5IjpbLTEyNDg5NTc1MDhdfQ==
 -->
