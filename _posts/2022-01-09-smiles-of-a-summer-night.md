@@ -29,56 +29,39 @@ In her 1962 account of Bergman’s films, critic Marianne Höök noted how ‘in
 Svensk, evidently pleased with the fruits of their investment, entered _Smiles_ in competition at Cannes, where it won the prize for Best Poetic Humour and Bergman was nominated for the Palme d’Or. According to Bergman’s own account, he had no idea his film had been entered for the Festival until, sitting on the toilet one day, he read in his paper ‘Swedish Success at Cannes’ and discovered what had happened. He immediately borrowed the money for an air fare and, arriving at Cannes, confronted Dymling to insist that SF finance _The Seventh Seal_, about which the company had previously expressed reservations; with that film his international reputation was secured. ‘Ever since the success of _Smiles of a Summer Night_,’ Bergman later wrote, ‘nobody has interfered with my work. I have been able to do as I wished.’<br>
 **Philip Kemp, extract from BFI 5-Disc Blu-ray Box Set _Ingmar Bergman Vol.2_ booklet**<br>
 
-**SMILES O  (Sommarnattens Leende)**
-
-_Director_: Ingmar Bergman
-
-_Production Company_: Svensk Filmindustri
-
-_Unit Production Manager_: Gustav Roger
-
-_Unit Manager_: Ove Kant
-
-_Production Manager_: Allan Ekelund
-
-_Assistant Director_: Lennart Olsson
-
-_Script Supervisor_: Katherina Faragó
-
-_Screenplay_: Ingmar Bergman
-
-_Director of Photography_: Gunnar Fischer
-
-_B-Camera_: Åke Nilsson *
-
-_Editor_: Oscar Rosander
-
-_Art Director_: P.A. Lundgren
-
-_Costumes_: Mago
-
-_Music_: Erik Nordgren
-
-_Music Director_: E. Eckert-lundin
-
-_Sound Recording_: P.O. Pettersson
-
-_B-Sound_: Lennart Wallin *
+**SMILES OF A SUMMER NIGHT  (SOMMARNATTENS LEENDE)**<br>
+_Director_: Ingmar Bergman<br>
+_Production Company_: Svensk Filmindustri<br>
+_Unit Production Manager_: Gustav Roger<br>
+_Unit Manager_: Ove Kant<br>
+_Production Manager_: Allan Ekelund<br>
+_Assistant Director_: Lennart Olsson<br>
+_Script Supervisor_: Katherina Faragó<br>
+_Screenplay_: Ingmar Bergman<br>
+_Director of Photography_: Gunnar Fischer<br>
+_B-Camera_: Åke Nilsson *<br>
+_Editor_: Oscar Rosander<br>
+_Art Director_: P.A. Lundgren<br>
+_Costumes_: Mago<br>
+_Music_: Erik Nordgren<br>
+_Music Director_: E. Eckert-Lundin<br>
+_Sound Recording_: P.O. Pettersson<br>
+_B-Sound_: Lennart Wallin *<br>
 
 **Cast**<br>
-Gunnar Björnstrand _(Fredrik Egerman)_
-Ulla Jacobsson _(Anne Egerman)_
-Björn Bjelfvenstam _(Henrik Egerman)_
-Eva Dahlbeck _(Desirée Armfeldt)_
-Naima Wifstrand _(Madame Armfeldt)_
-Jarl Kulle _(Count Carl Magnus Malcolm)_
-Margit Carlquist _(Charlotte Malcolm)_
-Åke Fridell _(Frid, the coachman)_
-Harriet Andersson _(Petra)_
-Jullan Kindahl _(Beata, the cook)_
-Gull Natorp _(Malla, Desirée’s maid)_
-Gunnar Nielsen _(Niklas)_
-Bibi Andersson_,_ Birgitta Valberg _(actresses)_
+Gunnar Björnstrand _(Fredrik Egerman)_<br>
+Ulla Jacobsson _(Anne Egerman)_<br>
+Björn Bjelfvenstam _(Henrik Egerman)_<br>
+Eva Dahlbeck _(Desirée Armfeldt)_<br>
+Naima Wifstrand _(Madame Armfeldt)_<br>
+Jarl Kulle _(Count Carl Magnus Malcolm)_<br>
+Margit Carlquist _(Charlotte Malcolm)_<br>
+Åke Fridell _(Frid, the coachman)_<br>
+Harriet Andersson _(Petra)_<br>
+Jullan Kindahl _(Beata, the cook)_<br>
+Gull Natorp _(Malla, Desirée’s maid)_<br>
+Gunnar Nielsen _(Niklas)_<br>
+Bibi Andersson,_ Birgitta Valberg _(actresses)_
 Gösta Prüzelius _(footman)_
 Svea Holst _(maid)_
 Mona Malm_,_ Lena Söderblom _(chambermaids)_
@@ -104,5 +87,5 @@ Sweden 1955
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5MjE4NF19
+eyJoaXN0b3J5IjpbMTU2NTE1MjUzN119
 -->
