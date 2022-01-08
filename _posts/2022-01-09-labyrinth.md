@@ -19,6 +19,93 @@ But there is a lot of original Henson as well. Every effort was made to ensure t
 
 To a large extent, the ﬁlm was successful, faring much better at the box-ofﬁce than _The Dark Crystal_. Nonetheless, Henson abandoned cinema features, and original stories, after _Labyrinth_. Instead, he went back to TV and created _The Storyteller_, a blend of showing and telling based on Grimm and other traditional sources. <br>
 **Terry Staples**<br>
+
+
+**Labyrinth**
+
+_Director_: Jim Henson
+
+_©_: Labyrinth Enterprises
+
+_Production Companies_: Jim Henson Organisation, Lucasfilm Ltd.
+
+_Executive Producer_: George Lucas
+
+_Producer_: Eric Rattray
+
+_Executive Supervising Producer_: David Lazer
+
+_2nd Unit Director_: Peter MacDonald
+
+_Assistant Directors_: Ken Baker, Paul Taylor, Nikolas Korda, Simon Haveland, Nigel Gostelow, Patrick Kinney
+
+_Script Supervisor_: Angela Allen
+
+_Screenplay_: Terry Jones
+_Original Story_: Denise Lee, Jim Henson
+
+_Director of Photography_: Alex Thomson
+
+_Optical Effects_: Optical Film Effects
+
+_Special Effects Supervisor_: George Gibbs
+
+_Special Effects Consultant_: Dennis Lowe
+
+_Creature Shop Creature Design/Supervisor_:
+
+Brian Froud
+
+_Creature Shop Chief Animatronic Designer_:
+
+Tony Dunsterville
+
+_Animator_: Peter Chiang
+
+_Conceptual Design_: Brian Froud
+
+_Production Designer_: Elliot Scott
+
+_Costume Designers_: Brian Froud, Ellis Flyte
+
+_Make-up Supervisor_: Wally Schneiderman
+
+_Puppeteer Co-ordinator_: Brian Henson
+
+_Music_: Trevor Jones
+
+_Sound Recording_: Peter Sutton
+
+_Cast:_
+
+David Bowie _(Jareth, the Goblin King)_
+
+Jennifer Connelly _(Sarah)_
+
+Toby Froud _(Toby)_
+
+Shelley Thompson _(stepmother)_
+
+Christopher Malcolm _(father)_
+
+Natalie Finland _(fairy)_
+
+Shari Weiser _(Hoggle)_
+
+Brian Henson _(Hoggle/voice of Hoggle)_
+
+Ron Mueck _(Ludo/voice of Ludo)_
+Rob Mills _(Ludo)_
+
+Dave Goelz, David Barclay _(Sir Didymus)
+David Shaughnessy _(voice of Sir Didymus)_
+Karen Prell _(the worm)_
+Timothy Bateson _(voice of the worm)_
+Frank Oz _(the wiseman)_
+Michael Hordern _(voice of the wiseman)_
+
+UK 1986_©_
+101 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODAwNjM1MV19
+eyJoaXN0b3J5IjpbLTQ0MDMyNzUyN119
 -->
