@@ -16,141 +16,69 @@ At a time when so much writing about movies involves hyperbolic five-star raves 
 <br><br>
 
 **FRANÇOIS TRUFFAUT:  FOR THE LOVE OF FILMS**<br>
-**For the Love of People...  
-The Films of François Truffaut**<br>
-
+**For the Love of People...  The Films of François Truffaut**<br>
 Mon 10 Jan 18:20<br>
-
-**François Truffaut’s Cinematic and  
-Literary Influences**<br>
-
+**François Truffaut’s Cinematic and  Literary Influences**<br>
 Sat 29 Jan 12:00-16:30<br>
-
 **Jules et Jim (****Jules and Jim)**<br>
-
 From Fri 4 Feb<br>
-
 **Philosophical Screens: Jules et Jim**<br>
-
 Thu 10 Feb 20:20<br>
-
-**The Representation of Women in  
-Truffaut’s Films**<br>
-
+**The Representation of Women in  Truffaut’s Films**<br>
 Fri 18 Feb 18:20
 
 **THE ANTOINE DOINEL CYCLE**<br>
-
 **Antoine et Colette (**from **L’Amour à vingt ans) + Stolen Kisses (Baisers volés)**<br>
-
-Sat 1 Jan 17:50, Tue 11 Jan 20:35,  
-Sat 15 Jan 12:10, Sun 23 Jan 15:30<br>
-
+Sat 1 Jan 17:50, Tue 11 Jan 20:35,  Sat 15 Jan 12:10, Sun 23 Jan 15:30<br>
 **Bed and Board (Domicile conjugale)**<br>
-
-Mon 3 Jan 13:00, Thu 13 Jan 20:45,  
-Wed 19 Jan 14:30<br>
-
+Mon 3 Jan 13:00, Thu 13 Jan 20:45,  Wed 19 Jan 14:30<br>
 **Love on the Run (L’Amour en fuite)**<br>
-
-Wed 5 Jan 20:40, Sat 15 Jan 15:30,  
-Mon 31 Jan 20:40<br>
-
+Wed 5 Jan 20:40, Sat 15 Jan 15:30,  Mon 31 Jan 20:40<br>
 **The 400 Blows** **(Les Quatre cents coups)**<br>
-
 From Fri 7 Jan
 
 **THE RENOIR TRUFFAUT**<br>
-
-**Une belle fille comme moi  
-(A Gorgeous Kid like Me)**<br>
-
+**Une belle fille comme moi  (A Gorgeous Kid like Me)**<br>
 Sat 1 Jan 20:40, Tue 4 Jan 20:40, Sat 22 Jan 18:10<br>
-
 **Day for Night (La Nuit américaine)**<br>
-
 Sun 2 Jan 18:30, Fri 7 Jan 18:10, Sat 15 Jan 20:45, Tue 25 Jan 20:45<br>
-
-**L’Enfant sauvage (The Wild Child)  
-+ Une histoire d’eau**<br>
-
-Mon 3 Jan 18:10, Mon 10 Jan 20:40,  
-Mon 24 Jan 18:10<br>
-
+**L’Enfant sauvage (The Wild Child)  + Une histoire d’eau**<br>
+Mon 3 Jan 18:10, Mon 10 Jan 20:40,  Mon 24 Jan 18:10<br>
 **The Last Metro (Le Dernier metro)**<br>
-
-Sat 8 Jan 17:10, Fri 21 Jan 17:50,  
-Sat 22 Jan 20:30, Wed 26 Jan 20:30<br>
-
+Sat 8 Jan 17:10, Fri 21 Jan 17:50,  Sat 22 Jan 20:30, Wed 26 Jan 20:30<br>
 **Pocket Money (L’Argent de poche)**<br>
-
 Sat 8 Jan 20:55, Sat 29 Jan 18:00<br>
-
-**The Man Who Loved Women  
-(L’Homme qui aimait les femmes)**<br>
-
+**The Man Who Loved Women  (L’Homme qui aimait les femmes)**<br>
 Sun 9 Jan 18:20, Mon 24 Jan 20:40<br>
-
 **BFI Course: François Truffaut**<br>
-
 Every Tue from 18 Jan-22 Feb 18:30-20:30
 
 **THE LITERARY TRUFFAUT**<br>
-
-**Anne and Muriel  
-(Les Deux Anglaises et le continent)**<br>
-
+**Anne and Muriel  (Les Deux Anglaises et le continent)**<br>
 Sat 5 Feb 12:20; Thu 17 Feb 17:50 (+ intro by actor Kika Markham); Tue 22 Feb 20:25<br>
-
 **Fahrenheit 451**<br>
-
-Sat 5 Feb 20:45; Sun 13 Feb 12:40;  
-Sun 27 Feb 18:40<br>
-
+Sat 5 Feb 20:45; Sun 13 Feb 12:40;  Sun 27 Feb 18:40<br>
 **The Story of Adèle H (****L’Histoire d’Adèle H)**<br>
-
-Wed 9 Feb 20:55; Sat 12 Feb 20:45;  
-Sat 19 Feb 18:20<br>
-
+Wed 9 Feb 20:55; Sat 12 Feb 20:45;  Sat 19 Feb 18:20<br>
 **The Green Room (****La Chambre verte)**<br>
-
-Thu 10 Feb 18:20; Tue 15 Feb 20:40;  
-Wed 23 Feb 20:40
+Thu 10 Feb 18:20; Tue 15 Feb 20:40;  Wed 23 Feb 20:40
 
 **THE HITCHCOCK TRUFFAUT**<br>
-
 **Shoot the Pianist (****Tirez sur le pianiste)**<br>
-
-Tue 1 Feb 20:50; Fri 11 Feb 18:30;  
-Sat 26 Feb 13:20<br>
-
+Tue 1 Feb 20:50; Fri 11 Feb 18:30;  Sat 26 Feb 13:20<br>
 **The Bride Wore Black (****La Mariée était en noir)**<br>
-
-Fri 4 Feb 20:45; Sun 13 Feb 18:00;  
-Sun 27 Feb 12:00<br>
-
+Fri 4 Feb 20:45; Sun 13 Feb 18:00;  Sun 27 Feb 12:00<br>
 **Finally Sunday! (Vivement dimanche!)**<br>
-
-Sat 5 Feb 17:15; Sat 12 Feb 12:30;  
-Sun 27 Feb 15:30<br>
-
+Sat 5 Feb 17:15; Sat 12 Feb 12:30;  Sun 27 Feb 15:30<br>
 **Mississippi Mermaid (****La Sirène du Mississippi)**<br>
-
-Sun 6 Feb 12:40; Fri 18 Feb 20:35;  
-Wed 23 Feb 20:40; Fri 25 Feb 18:00<br>
-
+Sun 6 Feb 12:40; Fri 18 Feb 20:35;  Wed 23 Feb 20:40; Fri 25 Feb 18:00<br>
 **La Peau douce (****Silken Skin)**<br>
-
-Sun 6 Feb 18:20; Sat 12 Feb 17:20;  
-Sat 26 Feb 15:30<br>
-
+Sun 6 Feb 18:20; Sat 12 Feb 17:20;  Sat 26 Feb 15:30<br>
 **The Woman Next Door (****La Femme d’à côté)**<br>
-
-Tue 8 Feb 20:30; Mon 21 Feb 18:10;  
-Thu 24 Feb 20:30<br>
+Tue 8 Feb 20:30; Mon 21 Feb 18:10;  Thu 24 Feb 20:30<br>
 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTM5NzYxMjldfQ==
+eyJoaXN0b3J5IjpbLTIxMTgwMDU5NjldfQ==
 -->
