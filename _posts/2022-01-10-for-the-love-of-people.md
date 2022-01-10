@@ -1,7 +1,16 @@
+---
+layout: post
+title: For the Love of People... The Films of François Truffaut
+published: true
+date: 2022-01-10
+readtime: true
+categories: ['FRANÇOIS TRUFFAUT<br>FOR THE LOVE OF FILMS']
+tags: [Talks]
+metadata: 
+pdf: '2022-01-10-for-the-love-of-people.pdf'
+---
 
-
-Good evening. First, thank you for coming to this talk on the films of François Truffaut. I hope you will find it interesting. I am no expert on Truffaut, but I greatly enjoyed revisiting his work in order to research the BFI’s retrospective;  
-I hope to share that enjoyment with you this evening, particularly through the clips I have selected, but also in passing on some thoughts I had after watching the films. For those of you who haven’t been to any of my previous talks, I should explain that my concern is with the films themselves, rather than with the biographical details of the man who made them, which I consider pertinent only insofar as they shaped his work. Moreover, what I have to say is certainly not offered up as any kind of definitive reading of some aspect or another of Truffaut’s creative achievements. Rather, the talk is simply my personal response to his body of work, and an expansion of the notes I  wrote about the films for the January and February editions of the BFI Southbank Guide.
+Good evening. First, thank you for coming to this talk on the films of François Truffaut. I hope you will find it interesting. I am no expert on Truffaut, but I greatly enjoyed revisiting his work in order to research the BFI’s retrospective;  I hope to share that enjoyment with you this evening, particularly through the clips I have selected, but also in passing on some thoughts I had after watching the films. For those of you who haven’t been to any of my previous talks, I should explain that my concern is with the films themselves, rather than with the biographical details of the man who made them, which I consider pertinent only insofar as they shaped his work. Moreover, what I have to say is certainly not offered up as any kind of definitive reading of some aspect or another of Truffaut’s creative achievements. Rather, the talk is simply my personal response to his body of work, and an expansion of the notes I  wrote about the films for the January and February editions of the BFI Southbank Guide.
 
 In structuring the retrospective, I would happily have screened the films in the order they were made, but because colleagues suggested a thematic approach, I decided, as you have probably seen, to separate the films into four sections: those centred on the character of Antoine Doinel, those in which the influence of Jean Renoir might be discerned, those in which the influence of Alfred Hitchcock and American genre cinema might be discerned, and those films particularly notable as literary adaptations. We’ll be discussing those different aspects of Truffaut’s work this evening, but I should stress that the categories – and the way I divided up the films – are somewhat arbitrary.  The films I chose to exemplify ‘The Hitchcock Truffaut’, for example, are mostly adapted from books, so could have been filed under ‘The Literary Truffaut’ – except that the process of adaptation is not foregrounded as much in those films as it is in the titles I selected for ‘The Literary Truffaut’. In other words, the categories overlap; with the obvious exception of the Doinel films, where the films ended up being placed was a matter of nuance or emphasis.
 
@@ -78,6 +87,32 @@ Sun 6 Feb 18:20; Sat 12 Feb 17:20;  Sat 26 Feb 15:30<br>
 Tue 8 Feb 20:30; Mon 21 Feb 18:10;  Thu 24 Feb 20:30<br>
 <br>
 
+**In cultural partnership with**  
+<img style="float: left;" src="/img/institut-francais.jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+
+**Promotional partner**  
+<img style="float: left;" src="/img/brasserie-blanc.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIxMTgwMDU5NjldfQ==
