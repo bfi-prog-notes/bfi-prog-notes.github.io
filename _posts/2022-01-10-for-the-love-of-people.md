@@ -15,141 +15,142 @@ At a time when so much writing about movies involves hyperbolic five-star raves 
 **Geoff Andrew** is Programmer-at-large for BFI Southbank. He has written and lectured extensively on the cinema; his books include studies of Nicholas Ray and the American ‘indie’ filmmakers of the 1980s and ‘90s, and BFI Classics on Kieslowski’s _Three Colours Trilogy_ and Kiarostami’s _10_. More recently he edited, for _Sight & Sound_’s ‘Auteurs Series’, anthologies devoted to Jean-Luc Godard, Martin Scorsese and Spike Lee. He writes on film, music and the other arts at **geoffandrew.com**
 <br><br>
 
-**FRANÇOIS TRUFFAUT:  
-FOR THE LOVE OF FILMS**
-
+**FRANÇOIS TRUFFAUT:  FOR THE LOVE OF FILMS**<br>
 **For the Love of People...  
-The Films of François Truffaut**
+The Films of François Truffaut**<br>
 
-Mon 10 Jan 18:20
+Mon 10 Jan 18:20<br>
 
 **François Truffaut’s Cinematic and  
-Literary Influences**
+Literary Influences**<br>
 
-Sat 29 Jan 12:00-16:30
+Sat 29 Jan 12:00-16:30<br>
 
-**Jules et Jim (****Jules and Jim)**
+**Jules et Jim (****Jules and Jim)**<br>
 
-From Fri 4 Feb
+From Fri 4 Feb<br>
 
-**Philosophical Screens: Jules et Jim**
+**Philosophical Screens: Jules et Jim**<br>
 
-Thu 10 Feb 20:20
+Thu 10 Feb 20:20<br>
 
 **The Representation of Women in  
-Truffaut’s Films**
+Truffaut’s Films**<br>
 
 Fri 18 Feb 18:20
 
-**THE ANTOINE DOINEL CYCLE**
+**THE ANTOINE DOINEL CYCLE**<br>
 
-**Antoine et Colette (**from **L’Amour à vingt ans) + Stolen Kisses (Baisers volés)**
+**Antoine et Colette (**from **L’Amour à vingt ans) + Stolen Kisses (Baisers volés)**<br>
 
 Sat 1 Jan 17:50, Tue 11 Jan 20:35,  
-Sat 15 Jan 12:10, Sun 23 Jan 15:30
+Sat 15 Jan 12:10, Sun 23 Jan 15:30<br>
 
-**Bed and Board (Domicile conjugale)**
+**Bed and Board (Domicile conjugale)**<br>
 
 Mon 3 Jan 13:00, Thu 13 Jan 20:45,  
-Wed 19 Jan 14:30
+Wed 19 Jan 14:30<br>
 
-**Love on the Run (L’Amour en fuite)**
+**Love on the Run (L’Amour en fuite)**<br>
 
 Wed 5 Jan 20:40, Sat 15 Jan 15:30,  
-Mon 31 Jan 20:40
+Mon 31 Jan 20:40<br>
 
-**The 400 Blows** **(Les Quatre cents coups)**
+**The 400 Blows** **(Les Quatre cents coups)**<br>
 
 From Fri 7 Jan
 
-**THE RENOIR TRUFFAUT**
+**THE RENOIR TRUFFAUT**<br>
 
 **Une belle fille comme moi  
-(A Gorgeous Kid like Me)**
+(A Gorgeous Kid like Me)**<br>
 
-Sat 1 Jan 20:40, Tue 4 Jan 20:40, Sat 22 Jan 18:10
+Sat 1 Jan 20:40, Tue 4 Jan 20:40, Sat 22 Jan 18:10<br>
 
-**Day for Night (La Nuit américaine)**
+**Day for Night (La Nuit américaine)**<br>
 
-Sun 2 Jan 18:30, Fri 7 Jan 18:10, Sat 15 Jan 20:45, Tue 25 Jan 20:45
+Sun 2 Jan 18:30, Fri 7 Jan 18:10, Sat 15 Jan 20:45, Tue 25 Jan 20:45<br>
 
 **L’Enfant sauvage (The Wild Child)  
-+ Une histoire d’eau**
++ Une histoire d’eau**<br>
 
 Mon 3 Jan 18:10, Mon 10 Jan 20:40,  
-Mon 24 Jan 18:10
+Mon 24 Jan 18:10<br>
 
-**The Last Metro (Le Dernier metro)**
+**The Last Metro (Le Dernier metro)**<br>
 
 Sat 8 Jan 17:10, Fri 21 Jan 17:50,  
-Sat 22 Jan 20:30, Wed 26 Jan 20:30
+Sat 22 Jan 20:30, Wed 26 Jan 20:30<br>
 
-**Pocket Money (L’Argent de poche)**
+**Pocket Money (L’Argent de poche)**<br>
 
-Sat 8 Jan 20:55, Sat 29 Jan 18:00
+Sat 8 Jan 20:55, Sat 29 Jan 18:00<br>
 
 **The Man Who Loved Women  
-(L’Homme qui aimait les femmes)**
+(L’Homme qui aimait les femmes)**<br>
 
-Sun 9 Jan 18:20, Mon 24 Jan 20:40
+Sun 9 Jan 18:20, Mon 24 Jan 20:40<br>
 
-**BFI Course: François Truffaut**
+**BFI Course: François Truffaut**<br>
 
 Every Tue from 18 Jan-22 Feb 18:30-20:30
 
-**THE LITERARY TRUFFAUT**
+**THE LITERARY TRUFFAUT**<br>
 
 **Anne and Muriel  
-(Les Deux Anglaises et le continent)**
+(Les Deux Anglaises et le continent)**<br>
 
-Sat 5 Feb 12:20; Thu 17 Feb 17:50 (+ intro by actor Kika Markham); Tue 22 Feb 20:25
+Sat 5 Feb 12:20; Thu 17 Feb 17:50 (+ intro by actor Kika Markham); Tue 22 Feb 20:25<br>
 
-**Fahrenheit 451**
+**Fahrenheit 451**<br>
 
 Sat 5 Feb 20:45; Sun 13 Feb 12:40;  
-Sun 27 Feb 18:40
+Sun 27 Feb 18:40<br>
 
-**The Story of Adèle H (****L’Histoire d’Adèle H)**
+**The Story of Adèle H (****L’Histoire d’Adèle H)**<br>
 
 Wed 9 Feb 20:55; Sat 12 Feb 20:45;  
-Sat 19 Feb 18:20
+Sat 19 Feb 18:20<br>
 
-**The Green Room (****La Chambre verte)**
+**The Green Room (****La Chambre verte)**<br>
 
 Thu 10 Feb 18:20; Tue 15 Feb 20:40;  
 Wed 23 Feb 20:40
 
-**THE HITCHCOCK TRUFFAUT**
+**THE HITCHCOCK TRUFFAUT**<br>
 
-**Shoot the Pianist (****Tirez sur le pianiste)**
+**Shoot the Pianist (****Tirez sur le pianiste)**<br>
 
 Tue 1 Feb 20:50; Fri 11 Feb 18:30;  
-Sat 26 Feb 13:20
+Sat 26 Feb 13:20<br>
 
-**The Bride Wore Black (****La Mariée était en noir)**
+**The Bride Wore Black (****La Mariée était en noir)**<br>
 
 Fri 4 Feb 20:45; Sun 13 Feb 18:00;  
-Sun 27 Feb 12:00
+Sun 27 Feb 12:00<br>
 
-**Finally Sunday! (Vivement dimanche!)**
+**Finally Sunday! (Vivement dimanche!)**<br>
 
 Sat 5 Feb 17:15; Sat 12 Feb 12:30;  
-Sun 27 Feb 15:30
+Sun 27 Feb 15:30<br>
 
-**Mississippi Mermaid (****La Sirène du Mississippi)**
+**Mississippi Mermaid (****La Sirène du Mississippi)**<br>
 
 Sun 6 Feb 12:40; Fri 18 Feb 20:35;  
-Wed 23 Feb 20:40; Fri 25 Feb 18:00
+Wed 23 Feb 20:40; Fri 25 Feb 18:00<br>
 
-**La Peau douce (****Silken Skin)**
+**La Peau douce (****Silken Skin)**<br>
 
 Sun 6 Feb 18:20; Sat 12 Feb 17:20;  
-Sat 26 Feb 15:30
+Sat 26 Feb 15:30<br>
 
-**The Woman Next Door (****La Femme d’à côté)**
+**The Woman Next Door (****La Femme d’à côté)**<br>
 
 Tue 8 Feb 20:30; Mon 21 Feb 18:10;  
-Thu 24 Feb 20:30
+Thu 24 Feb 20:30<br>
+<br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTA1OTM2M119
+eyJoaXN0b3J5IjpbLTE4OTM5NzYxMjldfQ==
 -->
