@@ -16,9 +16,9 @@ Media Limited.
 Each year the Polar Academy inspires and motivates thousands of young adults, positively demonstrating how, by ‘inspiration through exploration’, anybody can achieve their absolute potential. The Polar Academy offers a selected number of young adults a once-in-a-lifetime opportunity to be part of a major Arctic expedition. These expeditions are beyond anything that they ever thought could be possible and positively change the lives of both the participants and their families. On returning to the UK as true role models the stories about their singular experiences have a wide-ranging and positive impact on their communities and beyond.
 
 **Iona Somerville** is a 19 year-old Polar Academy graduate and role model who recently qualified as a professional Sports Therapist. Somerville’s journey started at age 14 when, in April 2016, she was selected by the Polar Academy to train and take part in an Arctic Expedition to Greenland. Since then, along with the rest of the team, she has gone on to inspire her peers, giving talks and presentations to thousands of other young people about her experiences – demonstrating what is possible and achievable when a goal is set and a team comes together despite having had a lack of personal self-worth or belief. Somerville’s confidence suffered a major blow through the trauma she experienced when she found herself among the crowd at the Ariana Grande concert and bombing in Manchester in 2017. Today, however, she is a determined young role model with an unfailing passion to inspire others with her personal story of developing confidence and overcoming trauma.
-
+<br>
 
 Presented in association with  _YES & NO Magazine_ and The Explorers Club
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjA0NzUwOV19
+eyJoaXN0b3J5IjpbMTg0MTk3Njg2MV19
 -->
