@@ -74,51 +74,34 @@ _On-line Editor:_ Danica Barnes, Alphadogs, Inc.
 _Original Artwork ‘Chimp Riding Goat’:_ Bruce McCall  
 _Colourist:_ Brian Hutchings, Alphadogs, Inc.  
 _Music Composed by:_ Henry Kaiser, David Lindley  
-_Musicians:_ David Lindley, Henry Kaiser,  
-Danielle DeGruttola, Jen Baker, Cheryl Leonard, Damon Smith, William Winant  
+_Musicians:_ David Lindley, Henry Kaiser,  Danielle DeGruttola, Jen Baker, Cheryl Leonard, Damon Smith, William Winant  
 _Sound Design:_ Douglas Quin, D.D. Stenehjem  
 _Production Sound:_ Werner Herzog  
-_Post-production Mixers:_ Michael Klinger,  
-Douglas Quin  
+_Post-production Mixers:_ Michael Klinger,  Douglas Quin  
 _For:_ Roger Ebert  
-_With:_
 
-David Ainley _(marine ecologist)_
-
-Samuel S. Bowser _(cell biologist)_
-
-Regina Eisert _(physiologist)_
-
-Kevin Emery _(survival school instructor)_
-
-Ashrita Furman _(multiple world record holder)_
-
-William Jirsa _(linguist, computer expert)_
-
-Karen Joyce _(traveller, computer expert)_
-
-Douglas MacAyeal _(glaciologist)_
-
-William McIntosh _(volcanologist, geochronologist)_
-
-Olav T. Oftedal _(nutritional ecologist)_
-
-Clive Oppenheimer _(volcanologist)_
-
-David R. Pacheco Jr _(journeyman plumber)_
-
-Stefan Pashov _(philosopher, forklift driver)_
-
-Jan Pawlowski _(zoologist)_
-
-Scott Rowland _(transportation department)_
-
-Libor Zicha _(utility mechanic)_
-
+**With**  
+David Ainley _(marine ecologist)_<br>
+Samuel S. Bowser _(cell biologist)_<br>
+Regina Eisert _(physiologist)_<br>
+Kevin Emery _(survival school instructor)_<br>
+Ashrita Furman _(multiple world record holder)_<br>
+William Jirsa _(linguist, computer expert)_<br>
+Karen Joyce _(traveller, computer expert)_<br>
+Douglas MacAyeal _(glaciologist)_<br>
+William McIntosh _(volcanologist, geochronologist)_<br>
+Olav T. Oftedal _(nutritional ecologist)_<br>
+Clive Oppenheimer _(volcanologist)_<br>
+David R. Pacheco Jr _(journeyman plumber)_<br>
+Stefan Pashov _(philosopher, forklift driver)_<br>
+Jan Pawlowski _(zoologist)_<br>
+Scott Rowland _(transportation department)_<br>
+Libor Zicha _(utility mechanic)_<br>
 Werner Herzog _(narrator)_  
-USA/Canada 2007©
 
+USA/Canada 2007©<br>
 101 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDc3NDg1N119
+eyJoaXN0b3J5IjpbMTExMjAyMjUwMV19
 -->
