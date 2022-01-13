@@ -30,53 +30,40 @@ The first time I encountered cinema was when I was 11 in a little country school
 
 _You sometimes discuss an idea of ‘ecstatic truth’. Do you see yourself as following in a German romantic tradition epitomised by, say, the 19th-century landscape painter Caspar David Friedrich?_
 
-No. Romantic culture has always been foreign to me – something I really did not like that much. Of course, Caspar David Friedrich is the one who shows landscapes as if they were a quality of human beings. The jungle in _Fitzcarraldo_ is a fever dream, as if it were a human quality. In that respect, I feel close to Caspar David Friedrich. But that is about the only connection I could construct between me and romantic culture. My influences are from other corners of culture, such as baroque poets like Andreas Gryphius or – from the time of romantic culture – the writers who are not romantic, like Büchner, Hölderlin  
-and Kleist.
+No. Romantic culture has always been foreign to me – something I really did not like that much. Of course, Caspar David Friedrich is the one who shows landscapes as if they were a quality of human beings. The jungle in _Fitzcarraldo_ is a fever dream, as if it were a human quality. In that respect, I feel close to Caspar David Friedrich. But that is about the only connection I could construct between me and romantic culture. My influences are from other corners of culture, such as baroque poets like Andreas Gryphius or – from the time of romantic culture – the writers who are not romantic, like Büchner, Hölderlin  and Kleist.
 
 _How would you define ‘ecstatic truth’?_
 
 It’s like the mystic transport of late-medieval mystics like Jakob Böhme.  
 My cultural references would be much more the late Middle Ages than romanticism. For me, a quest for truth is hard to articulate. It has very little to do with facts. Otherwise, the phone directory of Manhattan with four million entries would be the book of books – four million correct and truthful statements in the telephone directory. But it doesn’t illuminate you at all.  
-How do you approach such an elusive, strange thing as truth? I believe it is in poetry and music – you sense it immediately when you come across it.
+How do you approach such an elusive, strange thing as truth? I believe it is in poetry and music – you sense it immediately when you come across it.  
+**Article and interview by Geoffrey Macnab, _Sight & Sound_, June 2008**
 
-Article and interview by Geoffrey Macnab, _Sight & Sound_, June 2008
-
-**A Short Film about Ice**
-
+**A Short Film about Ice**  
 A multiple award-winning film-poem documenting the journey of a cinematographer through the fragile landscapes of the Arctic.
+<br><br>
 
-<![endif]-->
-
-**A SHORT FILM ABOUT ICE**
-
-_Director:_ Adam Laity
-
-UK 2020
-
+**A SHORT FILM ABOUT ICE**  
+_Director:_ Adam Laity  
+UK 2020  
 28 mins
 
-**ENCOUNTERS AT THE END OF THE WORLD**
-
+**ENCOUNTERS AT THE END OF THE WORLD**  
 _Directed by:_ Werner Herzog  
 ©/_For:_ Discovery Channel  
 _Produced by:_ Creative Differences Productions  
 _Presented by:_ Discovery Films  
-_This project was supported by:_  
-The National Science Foundation  
+_This project was supported by:_  The National Science Foundation  
 _Executive Producer:_ Erik Nelson  
-_Co-executive Producers:_ Dave Harding,  
-Phil Fairclough  
+_Co-executive Producers:_ Dave Harding,  Phil Fairclough  
 _Produced by:_ Henry Kaiser  
 _Associate Producer:_ Tree Leyburn  
 _For Discovery Channel (Executive Producer, Discovery Films:_ Andrea Meditch; _Executive Producer:_ Julian P. Hobbs; _Executive in Charge of Production:_ Jane Root)  
 _Business Affairs:_ Cynthia Shapiro  
-_Production Co-ordinators:_ Jane Pfeister,  
-Lola Mitchell  
+_Production Co-ordinators:_ Jane Pfeister,  Lola Mitchell  
 _Production Manager:_ Jessica DeJong  
-_Location Manager:_ Patricia Jackson,  
-Raytheon Polar Services  
-_Supervising Producer, Post-production:_  
-Randall Boyd  
+_Location Manager:_ Patricia Jackson,  Raytheon Polar Services  
+_Supervising Producer, Post-production:_  Randall Boyd  
 _Post-production Co-ordinator:_ Colin Hatton  
 _Written by:_ Werner Herzog  
 _Director of Photography:_ Peter Zeitlinger  
@@ -133,5 +120,5 @@ USA/Canada 2007©
 
 101 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTI2NTc5OTJdfQ==
+eyJoaXN0b3J5IjpbMTI1MDc3NDg1N119
 -->
