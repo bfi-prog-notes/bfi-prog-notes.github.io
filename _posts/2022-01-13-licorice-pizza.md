@@ -24,19 +24,14 @@ The sense of shared lived adventure and elemental simplicity is an animating for
 At its core, _Licorice Pizza_ is a romance of a particular kind, set to the stop-go-stop-go rhythm of a couple who keep postponing their coupling thanks to a string of misunderstandings, mistimings, and temperamental and emotional delusions – think the Astaire/Rogers films, _The Philadelphia Story_ (1940) or _Sabrina_ (1954). In this case, the couple is played by two charming, ingenious but untrained first-time actors who bring a lightning-in-a-bottle magic to every stand-off and narrow miss. ‘Somebody said it reminded them of this thing that happens on television. Sometimes, there’s this first season that’s just fantastic because there’s fresh new talent and they’re all stumbling around, not knowing what the hell is going on. Then the second season returns and everybody has a makeover and they’re rich and self-conscious… and all the fun has been sucked out of it. I would do Cooper and Alana a disservice to say that they didn’t know what they were doing. But sometimes I wish there were some alternative reality where you could take them, not even let them see this film emerge, and then get them right back on the floor to do what they do so well.’<br>
 **Paul Thomas Anderson interviewed by Kent Jones, _Sight and Sound_, Winter 2021-2022**<br>
 
-<![endif]-->
-
-**Licorice Pizza**
-
+**Licorice Pizza**<br>
 _Directed by_: Paul Thomas Anderson  
 _©_: Metro-Goldwyn-Mayer Pictures Inc  
 _a_ Ghoulardi Film Company _production_:  
 _Presented by_: Metro Goldwyn Mayer Pictures, Focus Features, Bron Creative  
 _With the participation of the_: State of California, California Film Commission  
 _Executive Producers_: Joanne Sellar, Daniel Lupi, Sue McNamara, Aaron L. Gilbert, Jason Cloth  
-_Produced by_: Sara Murphy, Adam Somner,
-
-Paul Thomas Anderson  
+_Produced by_: Sara Murphy, Adam Somner, Paul Thomas Anderson  
 _Unit Production Manager_: Sue McNamara  
 _Production Supervisor_: Demelza Cronin  
 _Production Accountant_: John Whitley  
@@ -48,9 +43,7 @@ _2nd Assistant Director_: Trevor Tavares
 _Script Supervisor_: Jillian Giacomini  
 _Casting by_: Cassandra Kulukundis  
 _Written by_: Paul Thomas Anderson  
-_Director of Photography_: Mike Bauman,
-
-Paul Thomas Anderson  
+_Director of Photography_: Mike Bauman, Paul Thomas Anderson  
 _Camera Operator_: Colin Anderson  
 _Still Photographer_: Melinda Sue Gordon  
 _Visual Effects by_: Crafty Apes  
@@ -67,9 +60,7 @@ _Hair Designer_: Lori Guidroz
 _Titles_: PictureMill, Scarlet Letters  
 _Digital Intermediate Colourist_: Mike Sowa  
 _Score by_: Jonny Greenwood  
-_Score Performed by_:
-
-London Contemporary Orchestra  
+_Score Performed by_: London Contemporary Orchestra  
 _Harmonica_: Jonny Greenwood  
 _Orchestra Conducted by_: Hugh Brunt  
 _Orchestration by_: Jonny Greenwood  
@@ -77,15 +68,11 @@ _Music Supervisor_: Linda Cohen
 _Choreography_: Michael Arnold  
 _Sound Mixer_: Lisa Piñero  
 _Re-recording Mixers_: Christopher Scarabosio, David Acord  
-_Supervising Sound Editors_:
+_Supervising Sound Editors_: Christopher Scarabosio, David Acord  
+_Stunt Co-ordinators_: Brian Machleit, Craig Frosty Silva  
+_For_: Robert Downey Sr<br>
 
-Christopher Scarabosio, David Acord  
-_Stunt Co-ordinators_: Brian Machleit,
-
-Craig Frosty Silva  
-_For_: Robert Downey Sr
-
-_Cast:_  
+**Cast**<br>
 Alana Haim _(Alana Kane)_  
 Cooper Hoffman _(Gary Valentine)_  
 Sean Penn _(Jack Holden)_  
@@ -104,6 +91,6 @@ USA/Canada 2021<br>
 
 A Universal release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyODI5NTM0LDQ5MTExNjI4MCw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMTEzNDcyOSw0OTExMTYyODAsNzMwOT
+k4MTE2XX0=
 -->
