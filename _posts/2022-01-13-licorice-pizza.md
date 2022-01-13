@@ -9,9 +9,8 @@ In an essay about Anderson’s _The Master_, Geoffrey O’Brien reflected on the
 
 The wider adult world often serves to ramp up the freewheeling energy of the film as it introduces its minor perilous elements. Sean Penn and Bradley Cooper excel in brief roles in bizarre, brilliant interludes that nod towards the glamour and danger of the looming Tinseltown. There’s always a risk with such attention-grabbing cameos – Cooper and Penn are joined by the likes of Maya Rudolph, Harriet Sansom Harris, Benny Safdie, Tom Waits, and John Michael Higgins – that the audience will leave wishing they’d spent more time with the peripheral characters, but in this instance, they complement the leads perfectly. At points, they trigger protective responses in Alana and Gary, bringing them closer together, sometimes literally via a recurring running motif.
 
-This elevates, rather than distracts from, the central pair, and it helps that newcomers Haim and Hoffman both revel in the limelight. Able to range from gawky to sexy, confident to confused, worldly-wise to wide-eyed in a heartbeat, they’re charismatic and each maintains their own idiosyncratic authenticity. While Anderson deftly balances pace, tone, and style, it’s the charm of the central pair that makes the film so easy and joyous. It’s perhaps a rare thing to say nowadays, but _Licorice Pizza_ could stand to meander even more if it meant spending a little longer in its company.
-
-Ben Nicholson, _Sight and Sound_, bfi.org.uk/sight-and-sound, 6 January 2022
+This elevates, rather than distracts from, the central pair, and it helps that newcomers Haim and Hoffman both revel in the limelight. Able to range from gawky to sexy, confident to confused, worldly-wise to wide-eyed in a heartbeat, they’re charismatic and each maintains their own idiosyncratic authenticity. While Anderson deftly balances pace, tone, and style, it’s the charm of the central pair that makes the film so easy and joyous. It’s perhaps a rare thing to say nowadays, but _Licorice Pizza_ could stand to meander even more if it meant spending a little longer in its company.<br>
+**Ben Nicholson, _Sight and Sound_, bfi.org.uk/sight-and-sound, 6 January 2022**<br>
 
 Paul Thomas Anderson’s ninth film – tenth if you count his exhilarating 2015 music documentary _Junun_ – is the fantastical story of Gary, a guileless and endlessly confident young teenager played by Cooper Hoffman (the son of Paul’s late friend and collaborator Philip Seymour Hoffman), and Alana, an older, edgier but not necessarily wiser woman played by Alana Haim of the band Haim (Anderson has directed nine of their videos). The character of Gary and many of the events in _Licorice Pizza_ are either based on or embellished out of episodes from the wild life of one-time child actor and adolescent entrepreneur, now music/TV/film producer Gary Goetzman. Paul’s film is like a series of _Arabian Nights_ tales transposed to the San Fernando Valley and Hollywood in the early 70s, unspooling at the loose, breathable rhythm of Eric Clapton’s ‘Promises’ or J.J. Cale’s 1974 album _Okie_.
 
@@ -23,7 +22,88 @@ _The Ed Sullivan Show_, where he and the rest of the kid cast of the 1968 ‘fam
 The sense of shared lived adventure and elemental simplicity is an animating force in all good movies, I think, taking one form or another. In Paul’s best work it’s fully felt in every frame, and what doubles the wonder is the fact that the majority of his films have been period pieces.
 
 At its core, _Licorice Pizza_ is a romance of a particular kind, set to the stop-go-stop-go rhythm of a couple who keep postponing their coupling thanks to a string of misunderstandings, mistimings, and temperamental and emotional delusions – think the Astaire/Rogers films, _The Philadelphia Story_ (1940) or _Sabrina_ (1954). In this case, the couple is played by two charming, ingenious but untrained first-time actors who bring a lightning-in-a-bottle magic to every stand-off and narrow miss. ‘Somebody said it reminded them of this thing that happens on television. Sometimes, there’s this first season that’s just fantastic because there’s fresh new talent and they’re all stumbling around, not knowing what the hell is going on. Then the second season returns and everybody has a makeover and they’re rich and self-conscious… and all the fun has been sucked out of it. I would do Cooper and Alana a disservice to say that they didn’t know what they were doing. But sometimes I wish there were some alternative reality where you could take them, not even let them see this film emerge, and then get them right back on the floor to do what they do so well.’<br>
-**Paul Thomas Anderson interviewed by Kent Jones, _Sight and Sound_, Winter 2021-2022**
+**Paul Thomas Anderson interviewed by Kent Jones, _Sight and Sound_, Winter 2021-2022**<br>
+
+<![endif]-->
+
+**Licorice Pizza**
+
+_Directed by_: Paul Thomas Anderson  
+_©_: Metro-Goldwyn-Mayer Pictures Inc  
+_a_ Ghoulardi Film Company _production_:  
+_Presented by_: Metro Goldwyn Mayer Pictures, Focus Features, Bron Creative  
+_With the participation of the_: State of California, California Film Commission  
+_Executive Producers_: Joanne Sellar, Daniel Lupi, Sue McNamara, Aaron L. Gilbert, Jason Cloth  
+_Produced by_: Sara Murphy, Adam Somner,
+
+Paul Thomas Anderson  
+_Unit Production Manager_: Sue McNamara  
+_Production Supervisor_: Demelza Cronin  
+_Production Accountant_: John Whitley  
+_Location Manager_: Michael Glaser  
+_Post-production Supervisor_: Erica Frauman  
+_Archive Researcher_: Deborah Ricketts  
+_1st Assistant Director_: Adam Somner  
+_2nd Assistant Director_: Trevor Tavares  
+_Script Supervisor_: Jillian Giacomini  
+_Casting by_: Cassandra Kulukundis  
+_Written by_: Paul Thomas Anderson  
+_Director of Photography_: Mike Bauman,
+
+Paul Thomas Anderson  
+_Camera Operator_: Colin Anderson  
+_Still Photographer_: Melinda Sue Gordon  
+_Visual Effects by_: Crafty Apes  
+_Special Effects Supervisor_: Elia P. Popov  
+_Editor_: Andy Jurgensen  
+_Production Designer_: Florencia Martin  
+_Art Director_: Samantha Englender  
+_Set Decorator_: Ryan Watson  
+_Lead Graphic Designer_: Dianne Chadwick  
+_Property Master_: William R. Potter  
+_Costume Designer_: Mark Bridges  
+_Make-up Designer_: Heba Thorisdottir  
+_Hair Designer_: Lori Guidroz  
+_Titles_: PictureMill, Scarlet Letters  
+_Digital Intermediate Colourist_: Mike Sowa  
+_Score by_: Jonny Greenwood  
+_Score Performed by_:
+
+London Contemporary Orchestra  
+_Harmonica_: Jonny Greenwood  
+_Orchestra Conducted by_: Hugh Brunt  
+_Orchestration by_: Jonny Greenwood  
+_Music Supervisor_: Linda Cohen  
+_Choreography_: Michael Arnold  
+_Sound Mixer_: Lisa Piñero  
+_Re-recording Mixers_: Christopher Scarabosio, David Acord  
+_Supervising Sound Editors_:
+
+Christopher Scarabosio, David Acord  
+_Stunt Co-ordinators_: Brian Machleit,
+
+Craig Frosty Silva  
+_For_: Robert Downey Sr
+
+_Cast:_  
+Alana Haim _(Alana Kane)_  
+Cooper Hoffman _(Gary Valentine)_  
+Sean Penn _(Jack Holden)_  
+Tom Waits _(Rex Blau)_  
+Bradley Cooper _(Jon Peters)_  
+Benny Safdie _(Joel Wachs)_  
+Will Angarola _(Kirk)_  
+Griff Giacchino _(Mark)_  
+James Kelley _(Tim)_  
+Maya Rudolph _(Gale)_  
+Harriet Sansom Harris _(Mary Grady)_  
+John Michael Higgins _(Jerry Frick)_<br>
+
+USA/Canada 2021<br>
+133 mins<br>
+
+A Universal release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxMTE2MjgwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNTkyODI5NTM0LDQ5MTExNjI4MCw3MzA5OT
+gxMTZdfQ==
 -->
