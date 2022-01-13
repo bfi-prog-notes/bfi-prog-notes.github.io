@@ -1,3 +1,14 @@
+---
+layout: post
+title: Licorice Pizza
+published: true
+date: 2022-01-13
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Comedy, Drama]
+metadata: 'USA/Canada 2021, 133 mins<br> Director: Paul Thomas Anderson'
+pdf: '2022-01-13-licorice-pizza.pdf'
+---
 
 To call Paul Thomas Anderson’s latest film, _Licorice Pizza_, meandering could be considered an understatement. On one hand, it feels like a river running lazy and low beneath the golden light of the California sun, but on the other, it has a hustler’s energy, and there’s a sense that anything could drift into view around the next bend. It’s a yarn spun to occupy a space somewhere in the vicinity of the shaggy dog story or the picaresque, though neither descriptor quite hits the mark nor conveys the film’s underlying intricacy. Foregoing any specific narrative thrust, it luxuriates in the drawing of vivid characters and a nostalgic, illusory, and multifaceted portrait of a recurring Anderson locale, the San Fernando Valley in California.
 
@@ -14,8 +25,7 @@ This elevates, rather than distracts from, the central pair, and it helps that n
 
 Paul Thomas Anderson’s ninth film – tenth if you count his exhilarating 2015 music documentary _Junun_ – is the fantastical story of Gary, a guileless and endlessly confident young teenager played by Cooper Hoffman (the son of Paul’s late friend and collaborator Philip Seymour Hoffman), and Alana, an older, edgier but not necessarily wiser woman played by Alana Haim of the band Haim (Anderson has directed nine of their videos). The character of Gary and many of the events in _Licorice Pizza_ are either based on or embellished out of episodes from the wild life of one-time child actor and adolescent entrepreneur, now music/TV/film producer Gary Goetzman. Paul’s film is like a series of _Arabian Nights_ tales transposed to the San Fernando Valley and Hollywood in the early 70s, unspooling at the loose, breathable rhythm of Eric Clapton’s ‘Promises’ or J.J. Cale’s 1974 album _Okie_.
 
-‘I got to know Gary in my twenties, through Jonathan Demme,’ said Paul. ‘I loved Jonathan’s movies, so I knew Gary’s name as production manager and then as producer. More importantly, I knew his face from those movies, where he almost always had a bit part, usually as “Guido Paonessa”, which is his cousin’s name.’ Goetzman was all of 16 when he met the 25-year-old Demme backstage at  
-_The Ed Sullivan Show_, where he and the rest of the kid cast of the 1968 ‘family classic’ _Yours, Mine and Ours_ had come to perform a jaw-dropping promotional production number, lovingly recreated in _Licorice Pizza_. Goetzman can actually be credited with getting his decade-older ‘protégé’ started as a director, on a TV spot for LA politician Joel Wachs (played in the film by Benny Safdie) when he was trying to get construction halted on a Hollywood real estate development.
+‘I got to know Gary in my twenties, through Jonathan Demme,’ said Paul. ‘I loved Jonathan’s movies, so I knew Gary’s name as production manager and then as producer. More importantly, I knew his face from those movies, where he almost always had a bit part, usually as “Guido Paonessa”, which is his cousin’s name.’ Goetzman was all of 16 when he met the 25-year-old Demme backstage at _The Ed Sullivan Show_, where he and the rest of the kid cast of the 1968 ‘family classic’ _Yours, Mine and Ours_ had come to perform a jaw-dropping promotional production number, lovingly recreated in _Licorice Pizza_. Goetzman can actually be credited with getting his decade-older ‘protégé’ started as a director, on a TV spot for LA politician Joel Wachs (played in the film by Benny Safdie) when he was trying to get construction halted on a Hollywood real estate development.
 
 ‘Gary was essentially from where I was from, and we had people in common. My dad was friends with Bob Ridgely, great character actor, voiceover guy, and he was always in Jonathan’s stuff. And if you shared Bob Ridgely in common it cemented your relationship. All the same, it took years before Gary started telling me the details of his life.’ Did Goetzman really make a killing as the waterbed king? Did he and his girlfriend actually drop off a unit at the sumptuous home of a coke-fuelled Jon Peters (the Hollywood hairdresser-turned-producer/studio head, played by Bradley Cooper) and then coast their truck down the hills in reverse because the tank was empty? Did his girlfriend really witness the spectacle of an ageing movie idol (Sean Penn) being egged on by a drinking buddy (Tom Waits) to do a motorcycle jump over a flaming pit on a golf course? Everything in the film has the ring of lived experience refracted through the fabulous prism of the tall, embellished Hollywood tale.
 
@@ -89,8 +99,43 @@ John Michael Higgins _(Jerry Frick)_<br>
 USA/Canada 2021<br>
 133 mins<br>
 
-A Universal release
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTEzNDcyOSw0OTExMTYyODAsNzMwOT
-k4MTE2XX0=
--->
+A Universal release<br>
+<br>
+
+**NEW RELEASES**<br>
+**Titane**<br>
+From Sat 1 Jan<br>
+**West Side Story**<br>
+From Sat 1 Jan<br>
+**Boiling Point**<br>
+From Fri 7 Jan<br>
+**Licorice Pizza**<br>
+From Thu 13 Jan<br>
+**Memoria**<br>
+From Fri 14 Jan<br>
+**Parallel Mothers (Madres paralelas)**<br>
+From Fri 28 Jan<br>
+
+**RE-RELEASES**<br>
+**The 400 Blows (Les Quatre cents coups)**<br>
+From Fri 7 Jan<br>
+**South: Sir Ernest Shackleton’s Glorious Epic of the Antarctic**<br>
+From Fri 28 Jan<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
