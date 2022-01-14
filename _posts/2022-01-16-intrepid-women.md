@@ -1,19 +1,27 @@
-
+---
+layout: post
+title: Intrepid Women
+published: true
+date: 2022-01-16
+readtime: true
+categories: ['TO THE ENDS OF THE EARTH']
+tags: [Shorts, Silent]
+metadata: 
+pdf: '2022-01-16-intrepid-women.pdf'
+---
 
 Six foot in her socks, the glamorous Aloha Wanderwell bestrides the world in jodhpurs: one of the highly visible female adventurers of the early 20th century and the inspiration for later generations of women through film. Join BFI National Archive curator Bryony Dixon and Dr Sarah Evans (Royal Geographical Society) for this illustrated talk introducing some of the early women explorers and their films, including Rosita Forbes, Hettie Dyhrenfurth, Osa Johnson and aviation legend Amy Johnson.
 
 **Clips programme**
 
 **Alpes par le Telescope** (1906)  
-Comic film in which a man and his wife view an Alpine climbing party through  
-a telescope.
+Comic film in which a man and his wife view an Alpine climbing party through  a telescope.
 
 **Red Sea to Blue Nile** (1926)  
 Rosita Forbes’ film of her journey to Abyssinia (Ethiopia Eritrea), photographed by Harold Jones.
 
 **Excelsior**  (1931)  
-English version of the German film _The Himalayas, Throne of the Gods_.  
-Hettie Dyhrenfurth was the  German-Swiss mountaineer wife of famous mountaineer G.O. Dyhrenfurth. A record of the international attempt to climb the mountain Kangchenjunga in the Himalayas in 1930. The ascent approached the summit from the Kangchenjunga Glacier (Sikkim) rather than the Zemu (Nepal) side. The attempt failed but the Jongong Peak was successfully achieved
+English version of the German film _The Himalayas, Throne of the Gods_.  Hettie Dyhrenfurth was the  German-Swiss mountaineer wife of famous mountaineer G.O. Dyhrenfurth. A record of the international attempt to climb the mountain Kangchenjunga in the Himalayas in 1930. The ascent approached the summit from the Kangchenjunga Glacier (Sikkim) rather than the Zemu (Nepal) side. The attempt failed but the Jongong Peak was successfully achieved
 
 **Copenhagen Dock ANGMAGSALIK Greenland** (1927)  
 Isobel Wylie Hutchison’s journeys in Greenland.  
@@ -32,8 +40,7 @@ The Johnsons, Osa and Martin, flew over 60,000 miles in two amphibious planes, t
 The explorer and aviatrix Aloha Wanderwell’s only sound film, covering the trip she and her husband Captain Wanderwell made to the Mato Grosso region of Brazil in the Amazon jungle to try to find traces of British explorer Col. Percival Fawcett. She learned to fly a seaplane and almost lost her life in an emergency landing in the jungle. Walter had to hike out, leaving Aloha and the cameraman behind to stay with an Amazonian tribe.
 
 **Dual Control** (1932)  
-Charming short film with the famous flier Amy Johnson in which her fiancé aviator Jim Mollison lands in a field in rural England, having run out of petrol.  
-He has already attracted a crowd by the time Amy flies in to meet him.  She takes a schoolboy up in the plane, while they wait for fuel. He is impressed enough to admit to having been piloted by a woman.
+Charming short film with the famous flier Amy Johnson in which her fiancé aviator Jim Mollison lands in a field in rural England, having run out of petrol.  He has already attracted a crowd by the time Amy flies in to meet him.  She takes a schoolboy up in the plane, while they wait for fuel. He is impressed enough to admit to having been piloted by a woman.
 
 Johnson and Mollison, never quite at ease with such scripted fare, had announced their engagement in May 1932. They first met during Amy’s victory tour of Australia in 1930, when she achieved international fame by becoming the first woman to fly solo from England. In 1933 the couple completed a transatlantic crossing in their plane Seafarer, surviving a serious crash-landing, but eventually separated in 1936.
 <br><br>
@@ -109,6 +116,51 @@ With live piano accompaniment by Meg Morley
 
 Presented in association with  Royal Geographical Society (with IBG)
 <br><br>
+
+**TO THE ENDS OF THE EARTH**<br>
+**Scott of the Antarctic**<br>
+Sun 2 Jan 12:30, Mon 24 Jan 18:00<br>
+**The Conquest of Everest**<br>
+Mon 3 Jan 16:10, Wed 12 Jan 20:40 (+ intro by explorer Mark Wood)<br>
+**The Great White Silence**<br>
+Mon 3 Jan 18:20, Sun 23 Jan 12:10<br>
+**Touching the Void**<br>
+Wed 5 Jan 20:30, Sun 23 Jan 18:30<br>
+**The Fight for the Matterhorn  (Der Kampf ums Matterhorn)**<br>
+Thu 6 Jan 18:00 (+ intro by BFI curator Bryony Dixon), Sun 23 Jan 15:20<br>
+**The Red Tent (Krasnaya Palatka)**<br>
+Tue 11 Jan 18:00 (+ intro by BFI curator Simon McCallum), Sun 30 Jan 18:00<br>
+**YES & NO Salon: Exploration Now**<br>
+Wed 12 Jan 18:30<br>
+**Encounters at the End of the World**<br>
+Sat 15 Jan 15:00, Tue 25 Jan 20:30<br>
+**Talk: Silent Cinema: Intrepid Women**<br>
+Sun 16 Jan 15:30<br>
+**To the Ends of the Earth: The Transglobe Expedition + Q&A with Ranulph Fiennes**<br>
+Tue 18 Jan 17:45<br>
+**Antarctic Crossings: Postwar shorts + intro by BFI curator Patrick Russell**<br>
+Tue 25 Jan 18:00<br>
+**The Epic of Everest + live score by  Simon Fisher Turner**<br>
+Sat 29 Jan 19:00<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEyNzMxOTY1ODJdfQ==
 -->
