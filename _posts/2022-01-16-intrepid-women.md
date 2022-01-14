@@ -33,72 +33,51 @@ The explorer and aviatrix Aloha Wanderwell’s only sound film, covering the tri
 
 **Dual Control** (1932)  
 Charming short film with the famous flier Amy Johnson in which her fiancé aviator Jim Mollison lands in a field in rural England, having run out of petrol.  
-He has already attracted a crowd by the time Amy flies in to meet him.  
-She takes a schoolboy up in the plane, while they wait for fuel. He is impressed enough to admit to having been piloted by a woman.
+He has already attracted a crowd by the time Amy flies in to meet him.  She takes a schoolboy up in the plane, while they wait for fuel. He is impressed enough to admit to having been piloted by a woman.
 
 Johnson and Mollison, never quite at ease with such scripted fare, had announced their engagement in May 1932. They first met during Amy’s victory tour of Australia in 1930, when she achieved international fame by becoming the first woman to fly solo from England. In 1933 the couple completed a transatlantic crossing in their plane Seafarer, surviving a serious crash-landing, but eventually separated in 1936.
+<br><br>
 
-<![endif]-->
-
-**Clips programme**
-
-**Alpes par le telescope**
-
-_Production Company_: Pathé Frères
-
-France 1906
-
+**Alpes par le telescope**  
+_Production Company_: Pathé Frères  
+France 1906  
 5 mins
 
-**Red Sea to Blue** **Nile**
-
+**Red Sea to Blue Nile**  
 _Production Company_: Britannia Film Company  
 _Producer_: Rosita Forbes  
-_Photography_: Harold Jones
-
-UK 1926
-
+_Photography_: Harold Jones  
+UK 1926  
 5 mins
 
-**Excelsior**
-
+**Excelsior**  
 _Director_: G.O. Dyhrenfurth  
 _Production Company_: Transocean-Film  
 _Script_: G.O. Dyhrenfurth  
 _Photography_: G.O. Dyhrenfurth, Charles-Georges Duvanel, Hermann Hoerlin, Ulrich Wieland  
-_Music_: Wolfgang Zeller
-
-_English introduction and commentary:_ L.S. Amery
-
-Germany 1931
-
+_Music_: Wolfgang Zeller  
+_English introduction and commentary:_ L.S. Amery  
+Germany 1931  
 3 mins
 
-**Copenhagen Dock ANGMAGSALIK Greenland**
-
-UK 1927
-
+**Copenhagen Dock ANGMAGSALIK Greenland**  
+UK 1927  
 13 mins
 
-**Java**
-
-_Filmed by:_ Mrs Patrick Ness
-
-USA 1931
-
+**Java**  
+_Filmed by:_ Mrs Patrick Ness  
+USA 1931  
 4 mins
 
-**Baboona: An Aerial Epic of Africa**
-
+**Baboona: An Aerial Epic of Africa**  
 _Production Company_: Fox Film Corporation  
 _Supervisor_: Truman Talley  
 _Photography_: Martin Johnson  
-_[Photography]_: Osa Johnson *  
+_Photography_: Osa Johnson *  
 _Editors_: Lew Lehr, Russell Shields  
 _Film Cutter_: Lillian Seebach  
 _Sound_: Robert Moreno, Walter Hicks  
-_Chief Pilot_: Vern Carstens
-
+_Chief Pilot_: Vern Carstens  
 _Narrator:_ Martin Johnson  *
 
 USA 1935
@@ -142,5 +121,5 @@ With live piano accompaniment by Meg Morley
 Presented in association with  
 Royal Geographical Society (with IBG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4NTY0NTU0XX0=
+eyJoaXN0b3J5IjpbODYxNTIwODkwXX0=
 -->
