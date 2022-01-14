@@ -41,79 +41,42 @@ France 1928
 
 **THE CABINET OF DR. CALIGARI  
 (DAS CABINET DES DR. CALIGARI)**<br>
-
 _Director:_ Robert Wiene<br>
-
 _Production Company:_ Decla Filmgesellschaft<br>
-
 _Production:_ Erich Pommer, Rudolf Meinert<br>
-
 _Assistant Director:_ Rochus Gliese<br>
-
 _Scenario:_ Carl Mayer, Hans Janowitz<br>
-
 _Original Story:_ Hans Janowitz<br>
-
 _Director of Photography:_ Willy Hameister<br>
-
-_Art Directors:_ Hermann Warm,  
-Walter Reimann, Walter Röhrig<br>
-
+_Art Directors:_ Hermann Warm,  Walter Reimann, Walter Röhrig<br>
 _Costumes:_ Walter Reimann<br>
-
 _Score Produced by:_ Studio for Filmmusik der Hochschule für Musik Freiburg i. Br<br>
-
-_Direction and Musical Guidance:_Sven Thomas Kiebler<br>
-
+_Direction and Musical Guidance:_ Sven Thomas Kiebler<br>
 _Artistic Guidance:_ Cornelius Schwehr<br>
-
-_Music:_  Pablo Beltrán, Martin Bergande,  
-Carlos Cárdenas, Stephan Dick,  
+_Music:_  Pablo Beltrán, Martin Bergande,  Carlos Cárdenas, Stephan Dick,  
 Vasiliki Kourti-Papamoustou, Hong Ting Lai, Seongmin Lee, Cornelius Schwehr,  
 Carlo Philipp Thomsen<br>
-
-_Clarinets:_ Daniela Kohler, Anri Nishiyama,  
-Hannah Seebauer<br>
-
-_Trumpets:_ Gloria Aurbacher, Lukas Fischer,  
-Fabien Müller<br>
-
+_Clarinets:_ Daniela Kohler, Anri Nishiyama,  Hannah Seebauer<br>
+_Trumpets:_ Gloria Aurbacher, Lukas Fischer,  Fabien Müller<br>
 _Trombones:_ Fabian Grabert, Jonathan Riskilly, Johann Schilf, Karoline Stängle<br>
-
 _Percussion:_ Li-Ting Chiu, Teresa Grebtschenko, Jerôme Lepetit<br>
-
 _Barrel Organ:_ Achim Schneider<br>
-
 _Pianos:_ Hazel Beh, Damian Glätzer, Sylvia Loh<br>
-
-_Violins:_ Nitzan Bartana, Hsu-Mo Chien,  
-Sunhee Moon, Shio Ohshita<br>
-
+_Violins:_ Nitzan Bartana, Hsu-Mo Chien,  Sunhee Moon, Shio Ohshita<br>
 _Violoncellos:_ Andreas Köhler, Gaby Schumacher, Marlena Schillinger  
 _Contrabass:_ Juliane Bruckmann, Lutz Gertler, Martina Higuera López<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Werner Krauss _(Dr Caligari/director of asylum)_<br>
-
 Conrad Veidt _(Cesare)_<br>
-
 Lil Dagover _(Jane)_<br>
-
 Friedrich Feher _(Franzis)_<br>
-
 Hans Heinz von Twardowski _(Alan)_<br>
-
 Rudolf Lettinger _(Dr Olsen)_<br>
-
 Ludwig Rex _(a rogue)_<br>
-
 Elsa Wagner _(landlady)_<br>
-
 Rudolf Klein-Rogge _(captured murderer)_<br>
-
 Henri Peters-Arnolds<br>
-
 Hans Lanser-Ludolff<br>
 
 Germany 1920<br>
@@ -121,5 +84,5 @@ Germany 1920<br>
 
 **+ Inside Cinema: David Bowie** (Sat 15 Jan only)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDM2OTg0OV19
+eyJoaXN0b3J5IjpbMTM2MDQ1NDQ2M119
 -->
