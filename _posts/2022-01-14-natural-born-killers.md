@@ -1,3 +1,14 @@
+---
+layout: post
+title: Natural Born Killers
+published: true
+date: 2022-01-14
+readtime: true
+categories: ['PREVIEWS & EVENTS']
+tags: [Drama, Crime]
+metadata: 'USA 1994, 119 mins<br> Director: Oliver Stone'
+pdf: '2022-01-14-natural-born-killers.pdf'
+---
 
 _Natural Born Killers_ follows married couple Mickey (Harrelson) and Mallory (Lewis) across the desert of New Mexico as they embark on an endless killing spree, and in the process become media stars. Unsurprisingly controversial at the time, _Natural Born Killers_ is a powerful viewing experience and remains an accomplished and innovative piece of cinema that will keep you talking about it long after the credits have rolled.<br>
 **bfi.org.uk**<br>
@@ -38,11 +49,9 @@ _Controller_: Barbara Ann Stein
 _Location Manager_: Jacolyn J. Baker  
 _Post-production Supervisor_: Bill Brown  
 _2nd Unit Director_: Philip Pfeiffer  
-_1st Assistant Director_: Herb Gains
-
+_1st Assistant Director_: Herb Gains  
 _Script Supervisors_: Barbara Stoia, Deirdre Horgan  
-_Casting_: Risa Bramon-Garcia, Billy Hopkins,
-Heidi Levitt  
+_Casting_: Risa Bramon-Garcia, Billy Hopkins, Heidi Levitt  
 _Screenplay by_: David Veloz, Richard Rutowski, Oliver Stone  
 _Story by_: Quentin Tarantino  
 _Director of Photography_: Robert Richardson  
@@ -144,6 +153,21 @@ Robert Jordan _(WGN newscaster)_
 
 USA 1994<br>
 119 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxMTI3OTkyXX0=
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
