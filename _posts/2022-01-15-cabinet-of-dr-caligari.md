@@ -36,7 +36,7 @@ _Director of Photography:_ Albert Duverger
 _Editor:_ Luis Buñuel  
 _Sets:_ Pierre Schildknecht  
 
-**Cast**
+**Cast**  
 Simone Mareuil _(the girl)_  
 Pierre Batcheff _(the man)_  
 Jaime Miravilles  
