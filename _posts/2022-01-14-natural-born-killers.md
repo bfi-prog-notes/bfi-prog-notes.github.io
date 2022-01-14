@@ -50,18 +50,14 @@ _First Assistant Camera_: Gregor Tavenner
 _First Assistant Camera (Chicago)_: Robert C. Carlson  
 _Key Grip_: Chris Centrella  
 _Visual Effects by_: PDI  
-_Special Effects_: Steve Luport, Frank L. Pope,
-
-Jim Schwalm, Lucinda Strub  
+_Special Effects_: Steve Luport, Frank L. Pope, Jim Schwalm, Lucinda Strub  
 _Animation Sequences by_: Colossal Pictures  
 _Edited by_: Hank Corwin, Brian Berdan  
 _First Assistant Editor_: Thomas J. Nordberg  
 _Production Designer_: Victor Kempster  
 _Property Master_: Charles Stewart  
 _Costume Designer_: Richard Hornung  
-_Assistant Costume Designers_: Mark Bridges,
-
-Mary Zophres  
+_Assistant Costume Designers_: Mark Bridges, Mary Zophres  
 _Special Effects Make-up and Key Make-up_: Matthew W. Mungle  
 _Special Effects Make-up_: Gordon J. Smith  
 _Hair Designer_: Cydney Cornell  
@@ -72,26 +68,18 @@ _Executive Music Producer_: Budd Carr
 _Music Editors_: Alex Gibson, Carlton Kaller  
 _Sound Mixer_: David MacMillan  
 _Boom Operator_: Steve Bowerman  
-_Re-recording Mixers_: Tom Fleischman,
-
-Michael Minkler, Christian Minkler  
-_Supervising Sound Editors_: Michael Wilhoit,
-
-Wylie Stateman  
+_Re-recording Mixers_: Tom Fleischman, Michael Minkler, Christian Minkler  
+_Supervising Sound Editors_: Michael Wilhoit, Wylie Stateman  
 _Dubbing Editor_: Kelly Oxford  
 _Sound Editors_: Jeff Watts, Robert Batha  
 _Supervising Dialogue Editors_: Dan Rich  
-_Sound Effects Editors_: Randy Kelley,
-
-Mark A. Lanza, Joseph Phillips, Peter J. Lehman  
+_Sound Effects Editors_: Randy Kelley, Mark A. Lanza, Joseph Phillips, Peter J. Lehman  
 _Stunt Co-ordinator_: Phil Neilson  
 _Technical Adviser_: Capt. Dale Dye (ret) Usmc  
 _Dialogue Coach_: Nadia Venesse  
-_Animal Wranglers (Southwest)_: Tom Berto,
+_Animal Wranglers (Southwest)_: Tom Berto, Rick Little<br>
 
-Rick Little
-
-_Cast:_  
+**Cast**<br>
 Woody Harrelson _(Mickey Knox)_  
 Juliette Lewis _(Mallory Knox)_  
 Robert Downey Jr _(Wayne Gale)_  
@@ -157,5 +145,5 @@ Robert Jordan _(WGN newscaster)_
 USA 1994<br>
 119 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0OTEyMzIyXX0=
+eyJoaXN0b3J5IjpbOTAxMTI3OTkyXX0=
 -->
