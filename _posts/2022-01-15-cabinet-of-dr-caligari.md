@@ -16,12 +16,10 @@ theme for _Der Golem_ (1915). In Britain the first of at least ten adaptations o
 The marriage of gothic and Expressionism achieved by _Caligari_ was nevertheless a major step for cinema, even if some critics have echoed Blaise Cendrars’s complaint that it ‘casts discredit on modern Art because the discipline of modern painters (Cubist) is not the hyper sensibility of madmen but equilibrium, intensity and mental geometry.’ It is a criticism that fails to recognise that filmmakers were influenced by Expressionist theatre rather than the pure plastic arts of Expressionism which the theatre had borrowed and processed to suit its own forms and purposes. Karlheinz Martin’s _Von Morgens bis Mitternacht_ (1920) was in fact directly based on the stage production of George Kaiser’s Expressionist play. Robert Wiene made three more films in the Expressionist manner, _Genuine_ (1925) and the more successful _Raskolnikov_ (1923) and _Orlacs Hände_ (1925). Other significant titles that belong to the new gothic-Expressionist school were _Nosferatu_ (1921), Murnau’s unauthorised interpretation of _Dracula_, Fritz Lang’s _Destiny_ (1921), Arthur Robison’s _Warning Shadows_ (1923), Paul Leni’s _Waxworks_ and Henrik Galeen’s _The Student of Prague_ (1926). An intriguing title from the group now lost is _Das Haus des Dr. Gaudeamus_ (1921), co-written by Thea von Harbou, based on her novel _Haus ohne Tür und Fenster_, and directed by the multi-talented Friedrich Feher, who plays Franz in _Caligari_.
 
 Viewed afresh, _The Cabinet of Dr. Caligari_ remains, after nearly a century, a staggeringly effective film. Very few feature-length films of its period are so compellingly watchable. It makes a dazzling merit of its tiny stage and shoestring budget, thanks to its crazy cubist/expressionist decors, and the impudence of the spinning umbrellas which masquerade as a fairground and the descending flight of steps which magically conveys us there from the city. The story is economically told, with its own jagged rhythm and coherent performances. The painted landscapes, the menacing Caligari and the uncanny Cesare – vanishing into his own shadow; agonisingly, mesmerisingly opening the great enchanted eyes – have bequeathed some of the most haunting images of the gothic cinema.  
-**Extracted from _The Cabinet of Dr. Caligari_ by David Robinson (BFI Film Classics, 2nd edition, 2013). Reproduced by kind permission of Bloomsbury Publishing. ©David Robinson
+**Extracted from _The Cabinet of Dr. Caligari_ by David Robinson (BFI Film Classics, 2nd edition, 2013). Reproduced by kind permission of Bloomsbury Publishing. ©David Robinson**
+<br><br>
 
-<![endif]-->
-
-**UN CHIEN ANDALOU**
-
+**UN CHIEN ANDALOU**  
 _Director:_ Luis Buñuel  
 _Production Company:_ Luis Buñuel  
 _Producers:_ Luis Buñuel, Salvador Dalí  
@@ -29,8 +27,8 @@ _Screenplay:_ Luis Buñuel, Salvador Dalí
 _Director of Photography:_ Albert Duverger  
 _Editor:_ Luis Buñuel  
 _Sets:_ Pierre Schildknecht  
-_Cast:_
 
+**Cast**
 Simone Mareuil _(the girl)_  
 Pierre Batcheff _(the man)_  
 Jaime Miravilles  
@@ -38,88 +36,90 @@ Salvador Dalí
 Luis Buñuel  
 Jeanne Rucar
 
-France 1928, 16 mins
+France 1928  
+16 mins
 
 **THE CABINET OF DR. CALIGARI  
-(DAS CABINET DES DR. CALIGARI)**
+(DAS CABINET DES DR. CALIGARI)**<br>
 
-_Director:_ Robert Wiene
+_Director:_ Robert Wiene<br>
 
-_Production Company:_ Decla Filmgesellschaft
+_Production Company:_ Decla Filmgesellschaft<br>
 
-_Production:_ Erich Pommer, Rudolf Meinert
+_Production:_ Erich Pommer, Rudolf Meinert<br>
 
-_Assistant Director:_ Rochus Gliese
+_Assistant Director:_ Rochus Gliese<br>
 
-_Scenario:_ Carl Mayer, Hans Janowitz
+_Scenario:_ Carl Mayer, Hans Janowitz<br>
 
-_Original Story:_ Hans Janowitz
+_Original Story:_ Hans Janowitz<br>
 
-_Director of Photography:_ Willy Hameister
+_Director of Photography:_ Willy Hameister<br>
 
 _Art Directors:_ Hermann Warm,  
-Walter Reimann, Walter Röhrig
+Walter Reimann, Walter Röhrig<br>
 
-_Costumes:_ Walter Reimann
+_Costumes:_ Walter Reimann<br>
 
-_Score Produced by:_ Studio for Filmmusik der Hochschule für Musik Freiburg i. Br
+_Score Produced by:_ Studio for Filmmusik der Hochschule für Musik Freiburg i. Br<br>
 
-_Direction and Musical Guidance:_Sven Thomas Kiebler
+_Direction and Musical Guidance:_Sven Thomas Kiebler<br>
 
-_Artistic Guidance:_ Cornelius Schwehr
+_Artistic Guidance:_ Cornelius Schwehr<br>
 
 _Music:_  Pablo Beltrán, Martin Bergande,  
 Carlos Cárdenas, Stephan Dick,  
 Vasiliki Kourti-Papamoustou, Hong Ting Lai, Seongmin Lee, Cornelius Schwehr,  
-Carlo Philipp Thomsen
+Carlo Philipp Thomsen<br>
 
 _Clarinets:_ Daniela Kohler, Anri Nishiyama,  
-Hannah Seebauer
+Hannah Seebauer<br>
 
 _Trumpets:_ Gloria Aurbacher, Lukas Fischer,  
-Fabien Müller
+Fabien Müller<br>
 
-_Trombones:_ Fabian Grabert, Jonathan Riskilly, Johann Schilf, Karoline Stängle
+_Trombones:_ Fabian Grabert, Jonathan Riskilly, Johann Schilf, Karoline Stängle<br>
 
-_Percussion:_ Li-Ting Chiu, Teresa Grebtschenko, Jerôme Lepetit
+_Percussion:_ Li-Ting Chiu, Teresa Grebtschenko, Jerôme Lepetit<br>
 
-_Barrel Organ:_ Achim Schneider
+_Barrel Organ:_ Achim Schneider<br>
 
-_Pianos:_ Hazel Beh, Damian Glätzer, Sylvia Loh
+_Pianos:_ Hazel Beh, Damian Glätzer, Sylvia Loh<br>
 
 _Violins:_ Nitzan Bartana, Hsu-Mo Chien,  
-Sunhee Moon, Shio Ohshita
+Sunhee Moon, Shio Ohshita<br>
 
 _Violoncellos:_ Andreas Köhler, Gaby Schumacher, Marlena Schillinger  
-_Contrabass:_ Juliane Bruckmann, Lutz Gertler, Martina Higuera López
+_Contrabass:_ Juliane Bruckmann, Lutz Gertler, Martina Higuera López<br>
 
-_Cast:_
+_Cast:_<br>
 
-Werner Krauss _(Dr Caligari/director of asylum)_
+Werner Krauss _(Dr Caligari/director of asylum)_<br>
 
-Conrad Veidt _(Cesare)_
+Conrad Veidt _(Cesare)_<br>
 
-Lil Dagover _(Jane)_
+Lil Dagover _(Jane)_<br>
 
-Friedrich Feher _(Franzis)_
+Friedrich Feher _(Franzis)_<br>
 
-Hans Heinz von Twardowski _(Alan)_
+Hans Heinz von Twardowski _(Alan)_<br>
 
-Rudolf Lettinger _(Dr Olsen)_
+Rudolf Lettinger _(Dr Olsen)_<br>
 
-Ludwig Rex _(a rogue)_
+Ludwig Rex _(a rogue)_<br>
 
-Elsa Wagner _(landlady)_
+Elsa Wagner _(landlady)_<br>
 
-Rudolf Klein-Rogge _(captured murderer)_
+Rudolf Klein-Rogge _(captured murderer)_<br>
 
-Henri Peters-Arnolds
+Henri Peters-Arnolds<br>
 
-Hans Lanser-Ludolff
+Hans Lanser-Ludolff<br>
 
-Germany 1920, 77 mins
+Germany 1920<br>
+77 mins
 
 **+ Inside Cinema: David Bowie** (Sat 15 Jan only)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzNTY0OTRdfQ==
+eyJoaXN0b3J5IjpbMTQxNDM2OTg0OV19
 -->
