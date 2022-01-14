@@ -40,25 +40,19 @@ Since moving to the US, Sam has had two original feature films produced - _Corpo
 **Host: Beth Webb**  is a film and TV journalist and broadcaster. She writes for _Empire_ Magazine, and appears weekly on the Pilot TV podcast.  
 <br>
 
-**IN PERSON & PREVIEWS**
-**Fresh Meat 10th Anniversary: Q&A with cast and creatives**
-Sat 15 Jan 18:15
-**Mark Kermode Live in 3D at the BFI**
-Mon 17 Jan 18:10
-**Preview: The Souvenir Part II + Q&A with writer-director Joanna Hogg**
-Mon 17 Jan 20:30
-
-**Woman with a Movie Camera Preview: Amulet + Q&A with writer-director Romola Garai**
-
-Fri 21 Jan 18:00
-
-**African Odysseys presents: UK Premiere: A Bruddah’s Mind Cabeça de Nego + Q&A with director Déo Cardoso**
-
-Sat 22 Jan 14:00
-
-**Silent Cinema presents: South: Sir Ernest Shackleton’s Glorious Epic of the Antarctic + live score**
-
-Thu 27 Jan 19:00
+**IN PERSON & PREVIEWS**<br>
+**Fresh Meat 10th Anniversary: Q&A with cast and creatives**<br>
+Sat 15 Jan 18:15<br>
+**Mark Kermode Live in 3D at the BFI**<br>
+Mon 17 Jan 18:10<br>
+**Preview: The Souvenir Part II + Q&A with writer-director Joanna Hogg**<br>
+Mon 17 Jan 20:30<br>
+**Woman with a Movie Camera Preview: Amulet + Q&A with writer-director Romola Garai**<br>
+Fri 21 Jan 18:00<br>
+**African Odysseys presents: UK Premiere: A Bruddah’s Mind Cabeça de Nego + Q&A with director Déo Cardoso**<br>
+Sat 22 Jan 14:00<br>
+**Silent Cinema presents: South: Sir Ernest Shackleton’s Glorious Epic of the Antarctic + live score**<br>
+Thu 27 Jan 19:00<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg3MTI3MThdfQ==
+eyJoaXN0b3J5IjpbMzMzMDk2ODUyXX0=
 -->
