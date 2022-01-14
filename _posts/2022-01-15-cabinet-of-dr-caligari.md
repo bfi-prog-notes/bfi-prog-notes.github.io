@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Cabinet of Dr. Caligari
+published: true
+date: 2022-01-15
+readtime: true
+categories: ['HOOKED TO THE SILVER SCREEN<br>BOWIE AT THE MOVIES']
+tags: [Horror, Silent]
+metadata: 'Germany 1920, 77 mins<br> Director: Robert Weine'
+pdf: '2022-01-15-cabinet-of-dr-caligari.pdf'
+---
 
 Even as his rock fame blossomed in the mid-70s, Bowie periodically challenged audiences with his avant-garde film tastes. The 1976 Isolar tour, which introduced the singer’s glacially aloof ‘Thin White Duke’ persona, opened with a screening of the revolutionary silent short _Un chien andalou_ (1929), a collaboration between director Luis Buñuel and artist Salvador Dalí that is full of surreal nightmare imagery, including a notorious eye-slicing shot.
 
@@ -9,9 +19,7 @@ The Isolar tour’s starkly lit monochrome stage design borrowed from another of
 
 Historically, _The Cabinet of Dr. Caligari_ can fairly be reckoned as the beginning of German Expressionist cinema. In terms of the gothic – the potent blend of horror and romance with intent to thrill – it represents only a milestone in a vigorous early century revival of a genre which had somewhat faded since the romantic era. Three seminal manifestations of the new gothic were British: Oscar Wilde’s _The Picture of Dorian Gray_ (1890), Bram Stoker’s _Dracula_ (1897) and W.W. Jacobs’s _The Monkey’s Paw_ (1902), all of which have captivated filmmakers ever since. The ghost stories of M.R. James began to appear in 1904, those of Algernon Blackwood in 1906. Gaston Leroux wrote _Le Mystère de la chambre jaune_ – the first of several adventures of Detective Rouletabille – in 1907 and _The Phantom of the Opera_ in 1911. Most influential for German cinema, however, were the novels and stories of Hanns Heinz Ewers (1871-1943), later to be notorious as the biographer of Horst Wessel, who portrayed himself in the hero of the Frank Braun gothic trilogy (_Der Zauberlehrling_, _Alraune_ and _Vampir_).
 
-Before _Caligari_, German filmmakers had already seized on the new gothic.  
-The first version of _The Phantom of the Opera_ was directed by the young dancer-choreographer and Reinhardt collaborator Ernst Matray in 1916.  _The Picture of Dorian Gray_ was filmed seven times between 1910 and 1918, in Denmark, Russia, Hungary and America, as well as in Germany, where it was directed by Richard Oswald. _The Student of Prague_, freely adapted by Ewers from Poe’s _William Wilson_, was filmed by Paul Wegener and Stellan Rye in 1913; Ewers’s own _Der unsichtbare Mensch_ (_The Invisible Man_) was filmed in 1916, and the scandalous _Alraune_ – frequently to be adapted in later years – in 1918. Old Jewish myth gave Paul Wegener and Henrik Galeen a gothic  
-theme for _Der Golem_ (1915). In Britain the first of at least ten adaptations of _The Monkey’s Paw_ appeared in 1915. America seemed slower to feel the new mood, but turned back to an earlier era with two adaptations of _Frankenstein_, in 1910 (Edison) and in 1915 (Joseph W. Sunley’s _Life without Soul_).
+Before _Caligari_, German filmmakers had already seized on the new gothic.  The first version of _The Phantom of the Opera_ was directed by the young dancer-choreographer and Reinhardt collaborator Ernst Matray in 1916.  _The Picture of Dorian Gray_ was filmed seven times between 1910 and 1918, in Denmark, Russia, Hungary and America, as well as in Germany, where it was directed by Richard Oswald. _The Student of Prague_, freely adapted by Ewers from Poe’s _William Wilson_, was filmed by Paul Wegener and Stellan Rye in 1913; Ewers’s own _Der unsichtbare Mensch_ (_The Invisible Man_) was filmed in 1916, and the scandalous _Alraune_ – frequently to be adapted in later years – in 1918. Old Jewish myth gave Paul Wegener and Henrik Galeen a gothic  theme for _Der Golem_ (1915). In Britain the first of at least ten adaptations of _The Monkey’s Paw_ appeared in 1915. America seemed slower to feel the new mood, but turned back to an earlier era with two adaptations of _Frankenstein_, in 1910 (Edison) and in 1915 (Joseph W. Sunley’s _Life without Soul_).
 
 The marriage of gothic and Expressionism achieved by _Caligari_ was nevertheless a major step for cinema, even if some critics have echoed Blaise Cendrars’s complaint that it ‘casts discredit on modern Art because the discipline of modern painters (Cubist) is not the hyper sensibility of madmen but equilibrium, intensity and mental geometry.’ It is a criticism that fails to recognise that filmmakers were influenced by Expressionist theatre rather than the pure plastic arts of Expressionism which the theatre had borrowed and processed to suit its own forms and purposes. Karlheinz Martin’s _Von Morgens bis Mitternacht_ (1920) was in fact directly based on the stage production of George Kaiser’s Expressionist play. Robert Wiene made three more films in the Expressionist manner, _Genuine_ (1925) and the more successful _Raskolnikov_ (1923) and _Orlacs Hände_ (1925). Other significant titles that belong to the new gothic-Expressionist school were _Nosferatu_ (1921), Murnau’s unauthorised interpretation of _Dracula_, Fritz Lang’s _Destiny_ (1921), Arthur Robison’s _Warning Shadows_ (1923), Paul Leni’s _Waxworks_ and Henrik Galeen’s _The Student of Prague_ (1926). An intriguing title from the group now lost is _Das Haus des Dr. Gaudeamus_ (1921), co-written by Thea von Harbou, based on her novel _Haus ohne Tür und Fenster_, and directed by the multi-talented Friedrich Feher, who plays Franz in _Caligari_.
 
@@ -83,6 +91,56 @@ Germany 1920<br>
 77 mins
 
 **+ Inside Cinema: David Bowie** (Sat 15 Jan only)
+
+_The Cabinet of Dr. Caligari_ by David Robinson is available from the BFI Shop: **https://shop.bfi.org.uk/das-cabinet-des-dr-caligari-bfi-film-classics.html**
+
+<img style="float: left;" src="/img/caligari-bfi-classics.jpg" width="40%" height="40%"><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+**HOOKED TO THE SILVER SCREEN: BOWIE AT THE MOVIES**<br>
+**2001: A Space Odyssey**<br>
+Sat 1 Jan 14:20, Sun 23 Jan 18:00,  Wed 26 Jan 14:00, 17:30 (IMAX)<br>
+**Metropolis**<br>
+Sun 2 Jan 12:00, Tue 4 Jan 14:30, Sun 30 Jan 12:00 (with live piano accompaniment)<br>
+**A Clockwork Orange**<br>
+Mon 3 Jan 13:10, Wed 12 Jan 20:25,  Sun 23 Jan 15:00, Wed 26 Jan 20:40 (IMAX)<br>
+**Querelle**<br>
+Tue 4 Jan 20:20, Tue 18 Jan 18:00<br>
+**Taxi Driver**<br>
+Fri 7 Jan 18:00, Sun 16 Jan 18:20,  Thu 27 Jan 20:45<br>
+**The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) + Un chien andalou**<br>
+Sat 15 Jan 12:30 (+ Inside Cinema: David Bowie), Sat 22 Jan 15:15<br>
+<br>
+
+**In association with**  
+<img style="float: left;" src="/img/bowie-75.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+**Promotional partner**  
+<img style="float: left;" src="/img/brixton-brewery.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTM2MDQ1NDQ2M119
 -->
