@@ -107,8 +107,8 @@ UK 1932
 
 With live piano accompaniment by Meg Morley
 
-Presented in association with  
-Royal Geographical Society (with IBG)
+Presented in association with  Royal Geographical Society (with IBG)
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA4MTQxNzRdfQ==
+eyJoaXN0b3J5IjpbLTEyNzMxOTY1ODJdfQ==
 -->
