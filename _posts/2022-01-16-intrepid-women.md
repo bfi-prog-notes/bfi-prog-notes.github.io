@@ -78,48 +78,37 @@ _Editors_: Lew Lehr, Russell Shields
 _Film Cutter_: Lillian Seebach  
 _Sound_: Robert Moreno, Walter Hicks  
 _Chief Pilot_: Vern Carstens  
-_Narrator:_ Martin Johnson  *
-
-USA 1935
-
+_Narrator:_ Martin Johnson  *  
+USA 1935  
 3 mins
 
-**River of Death**
-
-_Director:_ Aloha Wanderwell
-
-_Photographed by:_ Aloha and Capt. Wandwerwell
-
-USA 1934
-
+**River of Death**  
+_Director:_ Aloha Wanderwell  
+_Photographed by:_ Aloha and Capt. Wandwerwell  
+USA 1934  
 14 mins
 
-**Dual Control**
-
+**Dual Control**  
 _Devised and Directed by_: Walter Summers  
 ©_/Presented by_: British International Pictures  
 _Assistant Director_: Arthur B. Woods  
 _Photography_: James Wilson  
 _Film Edited by_: Walter Moss  
 _Sound Recording_: J.A. Murray  
-_Made and Recorded at_: Elstree Studios
-
-_With:_
-
+_Made and Recorded at_: Elstree Studios  
+_With:_  
 Mollison _(himself)_  
 Amy Johnson _(herself)_  
-Lionel Hoare _(boy)_ *
-
-UK 1932
-
+Lionel Hoare _(boy)_ *  
+UK 1932  
 3 mins
 
-* Uncredited
+*Uncredited
 
 With live piano accompaniment by Meg Morley
 
 Presented in association with  
 Royal Geographical Society (with IBG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxNTIwODkwXX0=
+eyJoaXN0b3J5IjpbLTEwNDA4MTQxNzRdfQ==
 -->
