@@ -27,24 +27,17 @@ Those missed opportunities – ‘ghost films’, Hogg calls them – are someth
 Swinton Byrne’s performance as Julie is one of the great pleasures of the film too. Hogg cast her partly because her interests were not in acting but in working behind the camera, and she consciously preserved her lead actress’s innocence in the first film, not allowing her to know where the story was going to end up. In the second film, she is more in control, both as her director character and as an actress. ‘I thought it would be very exciting in _Part II_ for Julie to break out, and become this more creative, energised being.’ She does so to the point where she can answer Patrick’s question about resisting the obvious with a quietly satisfied affirmative.<br>
 **Pamela Hutchinson, _Sight and Sound_, Winter 2021-22**<br>
 
-<![endif]-->
-
-**The Souvenir Part II**
-
+**THE SOUVENIR PART II**<br>
 _A film by [Director]_: Joanna Hogg  
 _©_: Souvenir 2 Productions Limited, The British Film Institute, British Broadcasting Corporation  
 _Made with the support of the_: BFI Film Fund  
 _Production Companies_: Element Pictures, JWH Films  
 _Presented by_: BBC Film, British Film Institute  
-_In association with_: Sikelia Productions,
-
-Protagonist Pictures  
+_In association with_: Sikelia Productions, Protagonist Pictures  
 _International Sales by_: Protagonist Pictures  
 _Executive Producers_: Rose Garnett, Michael Wood,  
 Lizzie Franke, Martin Scorsese, Emma Tillinger Koskoff, Dave Bishop  
-_Produced by_: Ed Guiney, Emma Norton,
-
-Andrew Lowe, Joanna Hogg, Luke Schiller  
+_Produced by_: Ed Guiney, Emma Norton, Andrew Lowe, Joanna Hogg, Luke Schiller  
 _Line Producer_: Eimhear McMahon  
 _Associate Producer_: Crispin Buxton  
 _Production Co-ordinator_: Elena Santamaria  
@@ -148,7 +141,7 @@ Amber Anderson _(Jim’s girlfriend)_
 UK 2021<br>
 107 mins<br>
 
-Courtesy of Picturehouse Entertainment
+Courtesy of Picturehouse Entertainment<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDE3Njk2MywxMzczNjU4MDc5XX0=
+eyJoaXN0b3J5IjpbMTI1OTQwMDA3NiwxMzczNjU4MDc5XX0=
 -->
