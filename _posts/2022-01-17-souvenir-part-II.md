@@ -1,5 +1,4 @@
 
-<![endif]-->
 
 _+ Q&A with writer-director Joanna Hogg_
 
@@ -14,9 +13,8 @@ Hogg relishes drawing up a range of unsentimental peers, each complete with thei
 
 One man was once her world, but now there is a mini carousel of men in the form of casual relationships. These do not touch her core of solitude, an interiority expressed as she talks to a therapist and implied as she sits in the still of a home previously shared with Anthony. The men in her life now exist along sexual, creative or friendship lines, and each is given a generous dollop of humanity, whether it’s Charlie Heaton showing up to fuck the pain away, Jaygann Ayeh sticking up for Julie in front of a mutinous crew or Joe Alwyn, whose kindness belies his own world of suffering. The biggest scene stealer is Richard Ayoade as an arthouse filmmaker, who delights via a combination of flamboyant outfits and withering lines and who conducts his sets and himself with the petulant grandiosity of a baby king. His outfits include a pink jacket, a fur coat, a cream suit and a gold-flecked tie. Costume designer Grace Snell does stellar work throughout, giving Julie a more sophisticated wardrobe than in _Part I_ to reflect her growth.
 
-The genius of this film, which could have easily displayed the solipsism of grief, is that it goes the opposite way. Julie, freshly burst out of the love bubble, navigates the world and meets people on their own terms, at the distance of a creative person figuring out how to channel grief. Hogg illustrates the concept of ‘sonder’ (the realisation that everyone else has as rich and complex a life as you) with a perspective that Julie will eventually grow into. Evidence of her intention to own this portrait of the artist as a young, bereaved woman arrives in a perfectly judged finale, where Hogg’s own voice has the final word.
-
-Sophie Monks Kaufman, _Sight and Sound_, bfi.org.uk/sight-and-sound 8 July 2021
+The genius of this film, which could have easily displayed the solipsism of grief, is that it goes the opposite way. Julie, freshly burst out of the love bubble, navigates the world and meets people on their own terms, at the distance of a creative person figuring out how to channel grief. Hogg illustrates the concept of ‘sonder’ (the realisation that everyone else has as rich and complex a life as you) with a perspective that Julie will eventually grow into. Evidence of her intention to own this portrait of the artist as a young, bereaved woman arrives in a perfectly judged finale, where Hogg’s own voice has the final word.<br>
+**Sophie Monks Kaufman, _Sight and Sound_, bfi.org.uk/sight-and-sound 8 July 2021**
 
 Joanna Hogg has mastered the alchemy of transforming personal anguish into art, and her new film seems to show us how that magic happens. _The Souvenir_ depicted a young woman in an escalating crisis, a story inspired by an episode from Hogg’s own life when she was studying film and in a relationship with a charismatic man who had a terrible secret. Now its sequel, _The Souvenir Part II_, reveals that woman responding to the trauma by making an astonishing, unexpected film. As answers go, this is a creative response, not a cure-all. Julie, based on Hogg and played exquisitely by Honor Swinton Byrne, investigates the mysterious circumstances surrounding the death of her lover, Anthony (Tom Burke), but she also interrogates her own feelings of grief and her impulse to remake the world on screen – not as it is, but as she imagines it. The film she makes emerges not only from her experiences and influences, but also out of her determination to pursue her own style.
 
@@ -27,7 +25,130 @@ Julie resists that temptation, just as Hogg has been doing for years. _The Souve
 Those missed opportunities – ‘ghost films’, Hogg calls them – are something to mourn. _Part II_ is her best work yet, partly because of its soaring ambition, and its insight into the art of filmmaking, and just possibly because it recalls that blaze of youthful excitement about cinema too. It is a maze of memory and fiction, film and production, whisking us from the soundstage to the screen and back again. It nests one film inside another, and spies on almost every step of Julie’s production process, from the screenplay, to the shoot with its fallings out and failures of communication, on to the relative serenity of the edit. And still her methods are veiled in a certain mystery: Julie constantly surprises us, inventing new scenes and set-ups on the fly, much to the chagrin of her crew, who want to know everything in advance, who push back as hard as her seething filmschool tutors do when they receive her screenplay tied up in red ribbon, without traditional formatting or structure.
 
 Swinton Byrne’s performance as Julie is one of the great pleasures of the film too. Hogg cast her partly because her interests were not in acting but in working behind the camera, and she consciously preserved her lead actress’s innocence in the first film, not allowing her to know where the story was going to end up. In the second film, she is more in control, both as her director character and as an actress. ‘I thought it would be very exciting in _Part II_ for Julie to break out, and become this more creative, energised being.’ She does so to the point where she can answer Patrick’s question about resisting the obvious with a quietly satisfied affirmative.<br>
-**Pamela Hutchinson, _Sight and Sound_, Winter 2021-22**
+**Pamela Hutchinson, _Sight and Sound_, Winter 2021-22**<br>
+
+<![endif]-->
+
+**The Souvenir Part II**
+
+_A film by [Director]_: Joanna Hogg  
+_©_: Souvenir 2 Productions Limited, The British Film Institute, British Broadcasting Corporation  
+_Made with the support of the_: BFI Film Fund  
+_Production Companies_: Element Pictures, JWH Films  
+_Presented by_: BBC Film, British Film Institute  
+_In association with_: Sikelia Productions,
+
+Protagonist Pictures  
+_International Sales by_: Protagonist Pictures  
+_Executive Producers_: Rose Garnett, Michael Wood,  
+Lizzie Franke, Martin Scorsese, Emma Tillinger Koskoff, Dave Bishop  
+_Produced by_: Ed Guiney, Emma Norton,
+
+Andrew Lowe, Joanna Hogg, Luke Schiller  
+_Line Producer_: Eimhear McMahon  
+_Associate Producer_: Crispin Buxton  
+_Production Co-ordinator_: Elena Santamaria  
+_Production Accountant_: Habib Rahman  
+_Location Manager_: Crispin Buxton  
+_Post-production Supervisor_: Deborah Harding  
+_1st Assistant Director_: Paolo Guglielmotti  
+_2nd Assistant Director_: Toby Hosking  
+_3rd Assistant Director_: La’Toyah McDonald  
+_Script Supervisor_: Sara J. Doughty  
+_Casting Director_: Olivia Scott-Webb  
+_Dancers Casting Director_: Nana Tinley  
+_Casting (Norfolk)_: Donna Triggs  
+_Casting Associate_: Nicola Chisholm  
+_Screenplay_: Joanna Hogg  
+_Director of Photography_: David Raedeker  
+_Camera Operator for Musical Sequence_: Erik Wilson  
+_B Camera Operator_: Nick Gordon Smith  
+_Digital Imaging Technician_: Jeremy Balderstone  
+_Gaffer_: Ben Manwaring  
+_Best Boy_: Tim Jordan  
+_Visual Effects_: Technicolor VFX  
+_Editor_: Helle le Fevre  
+_Assistant Editor_: Michael Macleod  
+_Production Designer_: Stéphane Collonge  
+_Supervising Art Director_: Byron Broadbent  
+_Art Director_: Pedro Moura  
+_Standby Art Director_: Tony Boffey  
+_Set Decorator_: Polly Davenport  
+_Additional Set Decorator_: Mimi Winsor  
+_Assistant Set Decorator_: Emily Dyson  
+_Graphic Designer_: Chris Barber  
+_Prop Master_: Lee Martin  
+_Construction Manager_: Antoine Robin  
+_Costume Designer_: Grace Snell  
+_Costume Supervisor_: Kirsty Hanlon  
+_Hair & Make-up Designer_: Siobhán Harper-Ryan  
+_Key Make-up Artist_: Alice Jones  
+_Title Design by_: The Morrison Studio  
+_Film Stock_: Kodak  
+_Music Supervisors_: Maggie Rodford, Ciara Elwis  
+_Patrick’s Choreographer_: Les Child  
+_Jessie’s Choreographer_: Solomon Jessie  
+_Production Sound Mixer_: Howard Peryer  
+_Re-recording Mixer_: Jovan Ajder  
+_Supervising Sound Editor_: Jovan Ajder  
+_Dialogue Editor_: Ruben Aguirre Barba  
+_Creative Adviser_: Tom Shkolnik  
+_Unit Publicist_: Charles McDonald<br>
+
+**Cast**<br>
+Honor Swinton Byrne _(Julie)_  
+Joe Alwyn _(Max)_  
+Jaygann Ayeh _(Marland)_  
+Richard Ayoade _(Patrick)_  
+Harris Dickinson _(Pete)_  
+Charlie Heaton _(Jim)_  
+Ariane Labed _(Garance)_  
+Jack McMullen _(Jack)_  
+James Spencer Ashworth _(William)_  
+Frankie Wilson _(Frankie)_  
+Tilda Swinton _(Rosalind)_  
+Alice McMillan _(Elisa)_  
+Oliver Bauer _(Simon)_  
+Barbara Peirson _(Barbara)_  
+James Dodds _(James)_  
+Gail Ferguson _(parapsychologist)_  
+Yasmin Paige _(Patrick’s assistant)_  
+Erik Wilson _(Patrick’s director of photography)_  
+Alex Robertson _(Patrick’s art director)_  
+Emyr Glyn Rees _(Patrick’s assistant director)_  
+Les Child _(Patrick’s choreographer)_  
+Lydia Fox _(Lydia)_  
+Inés Rau _(Garance’s actress)_  
+Nick Woolgar _(assistant director)_  
+Pedro Moura _(art director)_  
+Gala Botero _(Susi)_  
+Stephen Higgins _(Stephen)_  
+Jack Gregory _(Ray)_  
+Lee Martin _(school handyman)_  
+Jonathan Hourigan _(head of script)_  
+Steve Gough _(head of directing)_  
+Richard Bevan _(head of production)_  
+El Pilkington _(Susan)_  
+Keifer Taylor _(sound recordist)_  
+Ben Hecking _(Ben)_  
+Roscoe Gibson-Denney _(boom operator)_  
+James Barrett _(camera assistant)_  
+James Fox _(narrator, Patrick’s musical)_  
+Lewis Leeson _(Horatio)_  
+Chris Dickens _(Patrick’s editor)_  
+Tosin Cole _(Phil)_  
+Anna Calvi _(Anna Sette)_  
+Grace Snell _(pop video costume)_  
+Alice Jones _(pop video hair & make-up artist)_  
+Solomon Jessie _(pop video choreographer)_  
+Agatha A. Nitecka _(pop video stills photographer)_  
+Amrou Al-Khadi _(Julie’s interviewer)_  
+Amber Anderson _(Jim’s girlfriend)_
+
+UK 2021<br>
+107 mins<br>
+
+Courtesy of Picturehouse Entertainment
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzY1ODA3OV19
+eyJoaXN0b3J5IjpbMTE4NDE3Njk2MywxMzczNjU4MDc5XX0=
 -->
