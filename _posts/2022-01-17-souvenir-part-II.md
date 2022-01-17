@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Souvenir Part II
+published: true
+date: 2022-01-17
+readtime: true
+categories: ['PREVIEWS & EVENTS']
+tags: [Drama]
+metadata: 'UK 2021, 107 mins<br> Director: Joanna Hogg'
+pdf: '2022-01-17-souvenir-part-II.pdf'
+---
 
 _+ Q&A with writer-director Joanna Hogg_
 
@@ -6,8 +16,7 @@ How do you follow a film like _The Souvenir_ (2019)? Joanna Hogg’s unsparing p
 
 The first shot in _The Souvenir Part II_ is of white flowers in the idyllic garden of Julie’s parents’ country pile. Next we see mum Rosalind (Tilda Swinton) carefully carrying a breakfast tray, decorated with a flower, to the room where a grieving Julie has come to convalesce. This mother and daughter relationship, played by a real mother and daughter, is the font of the film’s central tenderness. Ever the queen of understated emotion, Hogg mostly keeps scenes driven by stilted chit-chat but every so often feeds in the most devastating line of dialogue. When Julie presses her mum to reveal how she felt when she took the call informing of Anthony’s death, Rosalind replies ‘I felt through you,’ using a soft, matter-of-fact voice that renders the ineffable power of her maternal love.
 
-If _Part I_ was about Julie losing herself in romance, _Part II_ is about Julie finding herself in grief, as she attempts to process what happened with Anthony through the making of her thesis film, itself as transparently autobiographical as  
-_The Souvenir_ is for Hogg. The making of the film-within-the-film gives rise to excruciating moments that show its creator’s lacerating self-awareness and lack of vanity. Harris Dickinson shows up to play ‘Anthony’ (opposite Ariane Labed’s ‘Julie’), wincing with the pained confusion of a well-meaning actor confronted with a director who has not given him a solid character. As he questions the material, the sense is that he is also questioning whether Julie really knew Anthony. The film expresses the awkward and vulnerable truth that creating something out of raw emotion means total exposure to collaborators, not all of whom will be on side.
+If _Part I_ was about Julie losing herself in romance, _Part II_ is about Julie finding herself in grief, as she attempts to process what happened with Anthony through the making of her thesis film, itself as transparently autobiographical as _The Souvenir_ is for Hogg. The making of the film-within-the-film gives rise to excruciating moments that show its creator’s lacerating self-awareness and lack of vanity. Harris Dickinson shows up to play ‘Anthony’ (opposite Ariane Labed’s ‘Julie’), wincing with the pained confusion of a well-meaning actor confronted with a director who has not given him a solid character. As he questions the material, the sense is that he is also questioning whether Julie really knew Anthony. The film expresses the awkward and vulnerable truth that creating something out of raw emotion means total exposure to collaborators, not all of whom will be on side.
 
 Hogg relishes drawing up a range of unsentimental peers, each complete with their own desires and impulses, no one reduced to being a supporting act in Julie’s emotional drama. Swinton-Byrne brings a new poise to her role, marking her progression from a doe-eyed naif to a determined young artist capable of taking routine blows to her self-esteem while moving forwards.
 
@@ -35,8 +44,7 @@ _Production Companies_: Element Pictures, JWH Films
 _Presented by_: BBC Film, British Film Institute  
 _In association with_: Sikelia Productions, Protagonist Pictures  
 _International Sales by_: Protagonist Pictures  
-_Executive Producers_: Rose Garnett, Michael Wood,  
-Lizzie Franke, Martin Scorsese, Emma Tillinger Koskoff, Dave Bishop  
+_Executive Producers_: Rose Garnett, Michael Wood, Lizzie Franke, Martin Scorsese, Emma Tillinger Koskoff, Dave Bishop  
 _Produced by_: Ed Guiney, Emma Norton, Andrew Lowe, Joanna Hogg, Luke Schiller  
 _Line Producer_: Eimhear McMahon  
 _Associate Producer_: Crispin Buxton  
@@ -136,12 +144,27 @@ Alice Jones _(pop video hair & make-up artist)_
 Solomon Jessie _(pop video choreographer)_  
 Agatha A. Nitecka _(pop video stills photographer)_  
 Amrou Al-Khadi _(Julie’s interviewer)_  
-Amber Anderson _(Jim’s girlfriend)_
+Amber Anderson _(Jim’s girlfriend)_<br>
 
 UK 2021<br>
 107 mins<br>
 
 Courtesy of Picturehouse Entertainment<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTQwMDA3NiwxMzczNjU4MDc5XX0=
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
