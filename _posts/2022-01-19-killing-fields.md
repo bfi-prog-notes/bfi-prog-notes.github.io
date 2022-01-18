@@ -21,7 +21,106 @@ Joffé not only denies the audience the let out that objective images of bomb de
 Like _Under Fire_ and _The Year of Living Dangerously_, _The Killing Fields_ was made by a non-American director with finance raised largely outside Hollywood (it would not, however, have been made without the commitment of a British company, Goldcrest Films). _The Killing Fields_ is unique in the way it combines a foreground story of two individuals with the wider political landscape, but it shares the problems inherent in making an American film on the evils of the American way of international politics. The concessions that had to be made to sensitivities at Warner Brothers could have disembowelled the film of meaning. Instead, by treating the pressures to take the film away from its agitprop beginnings as problems requiring solution, its makers have deepened the political and historical analysis. The studio pressure to produce a picture that would be acceptable to American audiences functioned as only one element in a dialectical process that also involved documented reality and the different perspectives offered by screenwriter, producer and director. The result is a film that diverts the audience from any facile analysis and only proposes conclusions without limiting interpretation. ‘The film was not there,’ Joffé says, ‘to hector people, neither was it meant to wrap everything up in a neat package of anger and discontent. What I wanted to do was to bring people close to the emotional colour of the events, from which they are free to draw off ideas.’
 
 Puttnam has spoken of _The Killing Fields_ as a new film genre: unpackaged political Hollywood. The claim may be exaggerated, but the film’s accomplishment does provide some vindication for the Goldcrest-style way of making British films. It shows that there is scope, given backing from a well-financed British company and a canny producer with a sophisticated approach to American sensitivities, to use the resources of Hollywood for work that is authentic and carries messages that go against the grain of mainstream American filmmaking. ‘The company has to remain distinctive,’ says Goldcrest’s James Lee. ‘The only way that we are going to get any distribution support in America is if our films are sufficiently different.’<br>
-**James Park, _Sight and Sound_, Winter 1984-85**
+**James Park, _Sight and Sound_, Winter 1984-85**<br>
+
+
+**THE KILLING FIELDS**
+_Director_: Roland Joffé  
+_©_: Goldcrest Films and Television Ltd.  
+_Production Company_: Enigma production  
+_Presented by_: Goldcrest Films and Television, International Film Investors  
+_Author_: Enigma (First Casualty) Ltd.  
+_Producer_: David Puttnam  
+_Associate Producer_: Iain Smith  
+_Production Executive (Thailand)_: Santa Pestonji  
+_Unit Production Manager (Thailand)_: Charles Hubbard  
+_Production Supervisor_: Robin Douet  
+_Production Co-ordinator (Thailand)_: Barbara Allen  
+_Production Accountant_: Brian Harris  
+_1st Assistant Director_: Bill Westley  
+_Assistant Directors_: Sompol Sungkawess, Gerry Toomey, David Barron, David Brown, Buranee Rachjaibun  
+_Toronto Assistant Directors_: Alan Goluboff, Howard Rothschild  
+_2nd Unit Assistant Director_: Charles Hubbard  
+_Continuity Person_: Penny Eyles  
+_Casting Directors_: Susie Figgis_Screenplay_: Bruce Robinson  
+_Based on the article by_: Sydney Schanberg  
+_Director of Photography_: Chris Menges  
+_2nd Cameraman_: Ivan Strasburg  
+_Camera Operator_: Mike Roberts  
+_Focus Puller_: Jeremy Gee  
+_Clapper/Loader_: James Ainslie  
+_Gaffer_: Peter Bloor  
+_Key Grip (Toronto)_: Robert Mcrae  
+_Stillsman_: David Appleby  
+_Special Effects Supervisor_: Fred Cramer  
+_Graphic Designers_: John Gorham, Howard Brown  
+_Editor_: Jim Clark  
+_1st Assistant Editor_: Bryan Oates  
+_2nd Assistant Editor_: Anne Sopel  
+_Cutting Room Trainee_: Tony Tromp  
+_Production Designer_: Roy Walker  
+_Art Directors_: Ken Court, Roger Murray-Leach, Steve Spence  
+_Set Dresser_: Tessa Davies  
+_Property Master_: Terry Wells  
+_Costume Designer_: Judy Moorcroft  
+_Wardrobe Supervisor_: Keith Denny  
+_Chief Make-up Supervisor/Prosthetics_: Tommie Manderson  
+_Make-up Artists_: Yvonne Coppard, Kenneth Lintott, Freddie Williamson, Sophy Pradith  
+_Chief Hairdresser_: Ronnie Cogan  
+_Hairdresser_: Chris Taylor  
+_Title Design_: Richard Morrison  
+_Opticals_: Neil Sharp, Camera Effects, Optical Film Effects  
+_Colour by_: Eastmancolor  
+_Music_: Mike Oldfield  
+_Additional Music_: David Bedford  
+_Conductor_: Eberhard Schöner  
+_Orchestrations_: David Bedford  
+_Music/Choral Arrangements_: David Bedford  
+_Sound Mixer_: Clive Winter  
+_Sound Mixer (2nd Camera)_: Bob Taylor  
+_Boom Operator_: Dushan Indjic  
+_Dubbing Mixer_: Bill Rowe  
+_Dubbing Editor_: Ian Fuller  
+_Dialogue Editor_: Eddy Joseph  
+_Footsteps Editor_: Peter Compton  
+_Stunt Arranger_: Terry Forrestal  
+_Voice Coach_: Kate Fitzmaurice  
+_Armourers_: Bapty & Co.  
+_B&C Armourer_: Simon Atherton<br>
+
+**Cast**<br>
+Sam Waterston _(Sydney Schanberg)_  
+Haing S. Ngor _(Dith Pran)_  
+John Malkovich _(Al Rockoff)_  
+Julian Sands _(John Swain)_  
+Craig T. Nelson _(Major Reeves, military attaché)_  
+Spalding Gray _(U.S. consul)_  
+Bill Paterson _(Doctor MacEntire)_  
+Athol Fugard _(Doctor Sudesval)_  
+Graham Kennedy _(Dougal)_  
+Katherine Kragum Chey _(Ser Moeun, Pran’s wife)_  
+Oliver Pierpaoli _(Titony, Pran’s son)_  
+Edward Entero Chey _(Sarun, Sydney’s driver)_  
+Tom Bird _(U.S. military adviser)_  
+Monirak Sisowath _(Phat, Khmer Rouge leader 2nd village)_  
+Lambool Dtangpaibool _(Phat’s son)_  
+Ira B. Wheeler _(Ambassador Wade)_  
+David Henry _(France)_  
+Patrick Malahide _(Morgan)_  
+Nell Cambell _(Beth)_  
+Joan Harris _(TV interviewer)_  
+Joanna Merlin _(Schanberg’s sister)_  
+Jay Barney _(Schanberg’s father)_  
+Mark Long _(Noaks)_  
+Sayo Inaba _(Mrs Noaks)_  
+Mow Leng _(Sirik Matak)_  
+Chinsaure Sar _(arresting officer)_  
+Hout Ming Tran _(Khmer Rouge cadre, 1st village)_  
+Thach Suon _(Sahn)_  
+Neevy Pal _(Rosa)_<br>
+
+UK 1984<br>
+142 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2ODEyNTU5XX0=
+eyJoaXN0b3J5IjpbMTU3Mjk5MjQwMiw4MjY4MTI1NTldfQ==
 -->
