@@ -24,7 +24,7 @@ Puttnam has spoken of _The Killing Fields_ as a new film genre: unpackaged polit
 **James Park, _Sight and Sound_, Winter 1984-85**<br>
 
 
-**THE KILLING FIELDS**
+**THE KILLING FIELDS**<br>
 _Director_: Roland Joffé  
 _©_: Goldcrest Films and Television Ltd.  
 _Production Company_: Enigma production  
@@ -122,5 +122,5 @@ Neevy Pal _(Rosa)_<br>
 UK 1984<br>
 142 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Mjk5MjQwMiw4MjY4MTI1NTldfQ==
+eyJoaXN0b3J5IjpbMTg2Njk0NDAzMiw4MjY4MTI1NTldfQ==
 -->
