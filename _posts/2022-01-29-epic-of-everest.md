@@ -8,8 +8,7 @@ In 1921 Lieutenant Colonel Charles Howard-Bury led a reconnaissance expedition t
 
 Like _The Great White Silence_, Herbert Ponting’s filmed record of Captain Scott’s 1910-13 expedition to the South Pole, Noel’s film served both as an absorbing documentary of an extraordinary journey into the interior of Tibet and as a memorial to a tragedy. The loss of Mallory and Irvine turned the failed expedition into one of the 20th century’s most compelling mysteries. In 1999 Mallory’s body was found on the slopes of Everest. A vest-pocket Kodak camera carried by Mallory is still missing. Fierce speculation continues – would any film it contains solve the mystery of who first conquered Everest?
 
-**Captain John Noel (1890-1989)**
-
+**Captain John Noel (1890-1989)**  
 The son of an army officer and grandson of the 2nd Earl of Gainsborough, Noel had a privileged education. He was sent to school in Switzerland, where he developed a keen interest in mountaineering. At art school in Florence he encountered the work of Vittorio Sella, who specialised in mountain photography.
 
 In 1908 Noel was commissioned from Sandhurst into the East Yorkshire Regiment and posted to India. It was during this five-year posting that he planned and executed his undercover attempt to reach Everest through the forbidden territory of Tibet. Disguised in Tibetan clothes, he came within 40 miles of Everest before being discovered and ejected. After the War, Noel presented a paper describing his exploits to the Royal Geographical Society in London, and so the idea of an expedition to climb Mount Everest took root.
@@ -18,8 +17,7 @@ Noel was unable to take part in 1921’s first reconnaissance of Everest because
 
 With a return to Everest planned for 1924, Noel decided to buy the photographic rights, and set up Explorers Films to raise the required finance. His shareholders included such luminaries as the Aga Khan and the British Army officer and explorer Sir Francis Younghusband. He also planned to protect his investment, learning from his experience of processing film at high altitudes, by building a photographic lab in Darjeeling. Teams of runners and the Indian postal service brought the precious negatives down from the mountains in specially designed waterproof sacks.
 
-Despite the disastrous loss of Mallory and Irvine, Noel set about editing his film  
-_The Epic of Everest_ both as record and as a memorial to the climbers. He arranged for a group of Tibetan lamas to travel to London to accompany the film, performing traditional dances and playing Tibetan horns. An elaborate stage set was built to create a monastery courtyard against a backdrop of snow-covered mountain peaks. The film was a hit – Captain Noel toured the UK and Europe and made no fewer than seven coast-to-coast tours of America.
+Despite the disastrous loss of Mallory and Irvine, Noel set about editing his film  _The Epic of Everest_ both as record and as a memorial to the climbers. He arranged for a group of Tibetan lamas to travel to London to accompany the film, performing traditional dances and playing Tibetan horns. An elaborate stage set was built to create a monastery courtyard against a backdrop of snow-covered mountain peaks. The film was a hit – Captain Noel toured the UK and Europe and made no fewer than seven coast-to-coast tours ofAmerica.
 
 In 1984 Captain Noel wrote to the curator of the National Film and Television Archive (now the BFI National Archive), outlining his wishes for a restoration of the film to make it ‘worthy of a place in the National Archives... I would welcome this destiny for my picture... a sort of maximum attainment in my life.’
 
@@ -72,5 +70,5 @@ _Deluxe Digital London_
 _Restoration:_ Mark Bonnici, Graham Jones,  
 Stephen Bearman, Paul Doogan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NjcyMDYxXX0=
+eyJoaXN0b3J5IjpbLTE5NTM0NjA3MjNdfQ==
 -->
