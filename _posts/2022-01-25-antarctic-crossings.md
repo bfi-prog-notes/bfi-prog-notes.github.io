@@ -11,19 +11,15 @@ This is a good, direct, continuously absorbing account of an expedition which is
 **_Monthly Film Bulletin_, October 1951**
 
 **Foothold on Antarctica**  
-The first stage in the Commonwealth Trans-Antarctic Expedition was the establishment of a base camp on the fringe of the Weddell Sea. This film, sponsored by British Petroleum as part of their contribution to the Expedition, provides an interesting record of the progress and daily routine of the journey of the _Theron_ and her crew to Shackleton Base, which was established in January 1956. A modest, factual approach, excellent photography and an apt musical score give the film a simple eloquence that a more dramatic treatment might have lost. The Expedition’s leaders, Dr Vivian Fuchs and Sir Edmund Hillary, are seen at work and also helped with the shooting as did many other members of the crew. Despite difficult working conditions, the colour is generally effective and there are some exciting shots of the formation of ice on the surface of the Weddell Sea. The film ends with a list of those who remained behind at the base, thus creating a feeling of anticipation for an adventure which is only just beginning.
-_Monthly Film Bulletin_, December 1956
+The first stage in the Commonwealth Trans-Antarctic Expedition was the establishment of a base camp on the fringe of the Weddell Sea. This film, sponsored by British Petroleum as part of their contribution to the Expedition, provides an interesting record of the progress and daily routine of the journey of the _Theron_ and her crew to Shackleton Base, which was established in January 1956. A modest, factual approach, excellent photography and an apt musical score give the film a simple eloquence that a more dramatic treatment might have lost. The Expedition’s leaders, Dr Vivian Fuchs and Sir Edmund Hillary, are seen at work and also helped with the shooting as did many other members of the crew. Despite difficult working conditions, the colour is generally effective and there are some exciting shots of the formation of ice on the surface of the Weddell Sea. The film ends with a list of those who remained behind at the base, thus creating a feeling of anticipation for an adventure which is only just beginning.  
+**_Monthly Film Bulletin_, December 1956**
 
-**Antarctic Crossing**
+**Antarctic Crossing**  
+This unique record of the trans-Antarctic expedition of 1955-1958 was made under appalling difficulties, and sometimes at temperatures well below zero. Skilful editing has resulted in a remarkable picture with moments of humour and despair linked by scenes of grandeur and beauty. The purpose of the expedition was to cross the Antarctic Continent from the Weddell Sea to the Ross Sea via the South Pole, and to carry out a complete programme of scientific research on the way. _Foothold on Antarctica_ took the story from the departure of the advance party from London to their arrival at Shackleton Base in January 1956. _Antarctic Crossing_ continues the story with the main party’s crossing under Sir Vivian Fuchs and the Ross Sea party’s exploration, under Sir Edmund Hillary, of the last continent uncharted by man. This modest and factual film also contains some dramatic sequences from the original films of the Scott and Shackleton expeditions, which provide startling contrast to the often impressive colour photography of the modern parties.  
+**_Monthly Film Bulletin_, January 1959**
+<br><br>
 
-This unique record of the trans-Antarctic expedition of 1955-1958 was made under appalling difficulties, and sometimes at temperatures well below zero. Skilful editing has resulted in a remarkable picture with moments of humour and despair linked by scenes of grandeur and beauty. The purpose of the expedition was to cross the Antarctic Continent from the Weddell Sea to the Ross Sea via the South Pole, and to carry out a complete programme of scientific research on the way. _Foothold on Antarctica_ took the story from the departure of the advance party from London to their arrival at Shackleton Base in January 1956. _Antarctic Crossing_ continues the story with the main party’s crossing under Sir Vivian Fuchs and the Ross Sea party’s exploration, under Sir Edmund Hillary, of the last continent uncharted by man. This modest and factual film also contains some dramatic sequences from the original films of the Scott and Shackleton expeditions, which provide startling contrast to the often impressive colour photography of the modern parties.
-
-_Monthly Film Bulletin_, January 1959
-
-<![endif]-->
-
-**THE WHITE CONTINENT**
-
+**THE WHITE CONTINENT**  
 _Production Company_: Crown Film Unit  
 _Sponsors_: Central Office of Information, Foreign Office  
 _Commentary Written and Spoken by_: Duncan Carse  
@@ -31,30 +27,25 @@ _Director of Photography_: Thomas Stobart
 _Editor_: John Legard  
 _Music_: Peter Racine Fricker
 
-UK 1951
-
+UK 1951  
 20 mins
 
-**FOOTHOLD ON ANTARCTICA**
-
+**FOOTHOLD ON ANTARCTICA**  
 _Director_: Derek Williams  
 _Production Company_: World Wide Pictures  
 _Sponsor_: British Petroleum Company  
 _Produced by_: James Carr  
 _Commentary Written by_: Derek Williams  
 _Photography_: Derek Williams  
-_Additional Photography_: George Lowe,  
-Edmund Hillary, Dr V.E. Fuchs, J.H. Lewis  
+_Additional Photography_: George Lowe,  Edmund Hillary, Dr V.E. Fuchs, J.H. Lewis  
 _Editor_: David Howes  
 _Music Composed by_: Humphrey Searle  
 _Music Directed by_: John Hollingsworth
 
-UK 1956
-
+UK 1956  
 21 mins
 
-**ANTARCTIC CROSSING**
-
+**ANTARCTIC CROSSING**  
 _Production Company_: World Wide Pictures  
 _Sponsor_: British Petroleum Company  
 _Producer_: James Carr  
@@ -64,9 +55,9 @@ _Editor_: Dennis Gurney
 _Prints by_: Technicolor  
 _Music_: Humphrey Searle
 
-UK 1958
-
+UK 1958  
 47 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMwOTg1MzNdfQ==
+eyJoaXN0b3J5IjpbMTQyODY0MDc3NF19
 -->
