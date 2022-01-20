@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Epic of Everest + live score by Simon Fisher Turner
+title: The Epic of Everest<br>+ live score by Simon Fisher Turner
 published: true
 date: 2022-01-29
 readtime: true
