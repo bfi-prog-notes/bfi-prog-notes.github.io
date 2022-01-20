@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Antarctic Crossings – Postwar Shorts
+published: true
+date: 2022-01-25
+readtime: true
+categories: ['TO THE ENDS OF THE EARTH']
+tags: [Documentary, Shorts]
+metadata: 'UK 1951/56/58'
+pdf: '2022-01-25-antarctic-crossings.pdf'
+---
 
 _Introduced by BFI curator Patrick Russell_
 
@@ -58,6 +68,51 @@ _Music_: Humphrey Searle
 UK 1958  
 47 mins
 <br><br>
+
+**TO THE ENDS OF THE EARTH**<br>
+**Scott of the Antarctic**<br>
+Sun 2 Jan 12:30, Mon 24 Jan 18:00<br>
+**The Conquest of Everest**<br>
+Mon 3 Jan 16:10, Wed 12 Jan 20:40 (+ intro by explorer Mark Wood)<br>
+**The Great White Silence**<br>
+Mon 3 Jan 18:20, Sun 23 Jan 12:10<br>
+**Touching the Void**<br>
+Wed 5 Jan 20:30, Sun 23 Jan 18:30<br>
+**The Fight for the Matterhorn  (Der Kampf ums Matterhorn)**<br>
+Thu 6 Jan 18:00 (+ intro by BFI curator Bryony Dixon), Sun 23 Jan 15:20<br>
+**The Red Tent (Krasnaya Palatka)**<br>
+Tue 11 Jan 18:00 (+ intro by BFI curator Simon McCallum), Sun 30 Jan 18:00<br>
+**YES & NO Salon: Exploration Now**<br>
+Wed 12 Jan 18:30<br>
+**Encounters at the End of the World**<br>
+Sat 15 Jan 15:00, Tue 25 Jan 20:30<br>
+**Talk: Silent Cinema: Intrepid Women**<br>
+Sun 16 Jan 15:30<br>
+**To the Ends of the Earth: The Transglobe Expedition + Q&A with Ranulph Fiennes**<br>
+Tue 18 Jan 17:45<br>
+**Antarctic Crossings: Postwar shorts + intro by BFI curator Patrick Russell**<br>
+Tue 25 Jan 18:00<br>
+**The Epic of Everest + live score by  Simon Fisher Turner**<br>
+Sat 29 Jan 19:00<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQyODY0MDc3NF19
 -->
