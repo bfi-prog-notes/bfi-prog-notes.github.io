@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Epic of Everest + live score by Simon Fisher Turner
+published: true
+date: 2022-01-29
+readtime: true
+categories: ['TO THE ENDS OF THE EARTH']
+tags: [Documentary]
+metadata: 'UK 1924, 85 mins<br> Director: Captain John Noel'
+pdf: '2022-01-29-epic-of-everest.pdf'
+---
 
 _The Epic of Everest_ is the official film record, shot by Captain John Noel, of the third British expedition to attempt to reach the summit of the world’s highest peak. We begin with the large contingent of men, animals and equipment gathered to journey across the Tibetan Plateau towards Everest. En route, the film records some of the earliest images of the Tibetan people and their culture, including scenes at the village of Phari (Pagri), Shekar Dzong (Xegar) and the Rongbuk Monastery. On the slopes of Everest we follow each stage of the climb as the mountaineers and Sherpas progress, enduring incredibly harsh conditions. When the camera can go no further, a specially designed telephoto lens, filming at a distance of over two miles, records the final attempts of climbers Mallory and Irvine to reach the summit.
 
@@ -31,8 +41,7 @@ The team then reconstructed the restoration master using the shots with the best
 _The Epic of Everest_ is now fully preserved in the national collection for future generations, on film as well as in digital versions.
 
 **About the score**  
-Simon Fisher Turner’s score for _The Epic of Everest_ was a year in the making.  
-The result is an epic of contemporary music-making, employing a dizzying range of instruments, musicians, found sounds and natural noise, collaged into an evocative homage to mountains and those in thrall to them. The score is a companion piece to the composer’s haunting score for _The Great White Silence_, the official film record of Scott’s last expedition to the South Pole, premiered at the BFI London Film Festival in 2010.
+Simon Fisher Turner’s score for _The Epic of Everest_ was a year in the making.  The result is an epic of contemporary music-making, employing a dizzying range of instruments, musicians, found sounds and natural noise, collaged into an evocative homage to mountains and those in thrall to them. The score is a companion piece to the composer’s haunting score for _The Great White Silence_, the official film record of Scott’s last expedition to the South Pole, premiered at the BFI London Film Festival in 2010.
 
 At the heart of the score are a recurring group of complementary sounds: harsh winds, deep breaths and unexpected frequencies, offering a sonic re-imagining of the emotional highs and lows of the Everest expedition. Sounds of yak bells, sighs, Himalayan silence, typewriter keys striking paper and traditional instruments mix with samples of the original recordings made by Captain John Noel of the Tibetan lamas who accompanied the film at its premiere run at London’s Scala cinema  in 1924.  
 **BFI production notes**
@@ -55,6 +64,51 @@ _Restoration:_ Ben Thompson, Kieron Webb,  David Jones, Peter Marshall, Dave Gur
 _Deluxe Digital London_  
 _Restoration:_ Mark Bonnici, Graham Jones,  Stephen Bearman, Paul Doogan
 <br><br>
+
+**TO THE ENDS OF THE EARTH**<br>
+**Scott of the Antarctic**<br>
+Sun 2 Jan 12:30, Mon 24 Jan 18:00<br>
+**The Conquest of Everest**<br>
+Mon 3 Jan 16:10, Wed 12 Jan 20:40 (+ intro by explorer Mark Wood)<br>
+**The Great White Silence**<br>
+Mon 3 Jan 18:20, Sun 23 Jan 12:10<br>
+**Touching the Void**<br>
+Wed 5 Jan 20:30, Sun 23 Jan 18:30<br>
+**The Fight for the Matterhorn  (Der Kampf ums Matterhorn)**<br>
+Thu 6 Jan 18:00 (+ intro by BFI curator Bryony Dixon), Sun 23 Jan 15:20<br>
+**The Red Tent (Krasnaya Palatka)**<br>
+Tue 11 Jan 18:00 (+ intro by BFI curator Simon McCallum), Sun 30 Jan 18:00<br>
+**YES & NO Salon: Exploration Now**<br>
+Wed 12 Jan 18:30<br>
+**Encounters at the End of the World**<br>
+Sat 15 Jan 15:00, Tue 25 Jan 20:30<br>
+**Talk: Silent Cinema: Intrepid Women**<br>
+Sun 16 Jan 15:30<br>
+**To the Ends of the Earth: The Transglobe Expedition + Q&A with Ranulph Fiennes**<br>
+Tue 18 Jan 17:45<br>
+**Antarctic Crossings: Postwar shorts + intro by BFI curator Patrick Russell**<br>
+Tue 25 Jan 18:00<br>
+**The Epic of Everest + live score by  Simon Fisher Turner**<br>
+Sat 29 Jan 19:00<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTg3NjMyMTkwOF19
 -->
