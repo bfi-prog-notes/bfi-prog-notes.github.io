@@ -17,12 +17,11 @@ Noel was unable to take part in 1921’s first reconnaissance of Everest because
 
 With a return to Everest planned for 1924, Noel decided to buy the photographic rights, and set up Explorers Films to raise the required finance. His shareholders included such luminaries as the Aga Khan and the British Army officer and explorer Sir Francis Younghusband. He also planned to protect his investment, learning from his experience of processing film at high altitudes, by building a photographic lab in Darjeeling. Teams of runners and the Indian postal service brought the precious negatives down from the mountains in specially designed waterproof sacks.
 
-Despite the disastrous loss of Mallory and Irvine, Noel set about editing his film  _The Epic of Everest_ both as record and as a memorial to the climbers. He arranged for a group of Tibetan lamas to travel to London to accompany the film, performing traditional dances and playing Tibetan horns. An elaborate stage set was built to create a monastery courtyard against a backdrop of snow-covered mountain peaks. The film was a hit – Captain Noel toured the UK and Europe and made no fewer than seven coast-to-coast tours ofAmerica.
+Despite the disastrous loss of Mallory and Irvine, Noel set about editing his film  _The Epic of Everest_ both as record and as a memorial to the climbers. He arranged for a group of Tibetan lamas to travel to London to accompany the film, performing traditional dances and playing Tibetan horns. An elaborate stage set was built to create a monastery courtyard against a backdrop of snow-covered mountain peaks. The film was a hit – Captain Noel toured the UK and Europe and made no fewer than seven coast-to-coast tours of America.
 
 In 1984 Captain Noel wrote to the curator of the National Film and Television Archive (now the BFI National Archive), outlining his wishes for a restoration of the film to make it ‘worthy of a place in the National Archives... I would welcome this destiny for my picture... a sort of maximum attainment in my life.’
 
-**The restoration**
-
+**The restoration**  
 The restoration by the BFI National Archive’s restoration team, undertaken in collaboration with Sandra Noel, the director’s daughter, has transformed the quality of the surviving elements of the film and reintroduced the original coloured tints and tones. The team were able to overcome some serious challenges inherent in the material, to do full justice to this heroic feat of exploration cinematography.
 
 The team started with the Archive’s full-length original nitrate print, which included tinted and toned shots, and a shorter nitrate print from Sandra Noel which we think was originally used for Captain Noel’s lecture tour, and which was of superior quality. These were both scanned at very high resolution, using a wet gate to eliminate scratches and a new technique developed by our image quality specialist to scan certain scenes with a selective use of green or blue LEDs. This allowed us to get the best possible results from parts of the image compromised by either deterioration of the blue toning or severe mould damage.
@@ -31,44 +30,31 @@ The team then reconstructed the restoration master using the shots with the best
 
 _The Epic of Everest_ is now fully preserved in the national collection for future generations, on film as well as in digital versions.
 
-**About the score**
-
+**About the score**  
 Simon Fisher Turner’s score for _The Epic of Everest_ was a year in the making.  
 The result is an epic of contemporary music-making, employing a dizzying range of instruments, musicians, found sounds and natural noise, collaged into an evocative homage to mountains and those in thrall to them. The score is a companion piece to the composer’s haunting score for _The Great White Silence_, the official film record of Scott’s last expedition to the South Pole, premiered at the BFI London Film Festival in 2010.
 
-At the heart of the score are a recurring group of complementary sounds: harsh winds, deep breaths and unexpected frequencies, offering a sonic re-imagining of the emotional highs and lows of the Everest expedition. Sounds of yak bells, sighs, Himalayan silence, typewriter keys striking paper and traditional instruments mix with samples of the original recordings made by Captain John Noel of the Tibetan lamas who accompanied the film at its premiere run at London’s Scala cinema  
-in 1924.
+At the heart of the score are a recurring group of complementary sounds: harsh winds, deep breaths and unexpected frequencies, offering a sonic re-imagining of the emotional highs and lows of the Everest expedition. Sounds of yak bells, sighs, Himalayan silence, typewriter keys striking paper and traditional instruments mix with samples of the original recordings made by Captain John Noel of the Tibetan lamas who accompanied the film at its premiere run at London’s Scala cinema  in 1924.  
+**BFI production notes**
+<br><br>
 
-BFI production notes
-
-<![endif]-->
-
-**THE EPIC OF EVEREST**
-
-_Directed by:_ Captain John Noel
-
+**THE EPIC OF EVEREST**  
+_Directed by:_ Captain John Noel  
 _Production Company:_ Explorers Films
 
-UK 1924
-
+UK 1924  
 85 mins
 
-Restoration supported by  
-The Eric Anker-Petersen Charity
+Restoration supported by  The Eric Anker-Petersen Charity
 
-_BFI National Archive_
+_BFI National Archive_  
+_Lead Curator:_ Bryony Dixon  
+_Archive Production Curator:_ Jan Faull  
+_Restoration:_ Ben Thompson, Kieron Webb,  David Jones, Peter Marshall, Dave Gurney
 
-_Lead Curator:_ Bryony Dixon
-
-_Archive Production Curator:_ Jan Faull
-
-_Restoration:_ Ben Thompson, Kieron Webb,  
-David Jones, Peter Marshall, Dave Gurney
-
-_Deluxe Digital London_
-
-_Restoration:_ Mark Bonnici, Graham Jones,  
-Stephen Bearman, Paul Doogan
+_Deluxe Digital London_  
+_Restoration:_ Mark Bonnici, Graham Jones,  Stephen Bearman, Paul Doogan
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTM0NjA3MjNdfQ==
+eyJoaXN0b3J5IjpbMTg3NjMyMTkwOF19
 -->
