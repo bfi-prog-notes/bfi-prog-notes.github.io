@@ -70,34 +70,24 @@ _Casting (Toronto Associate)__:_ Diane Kerbel
 
 _Casting (Halifax Associate)_: Sheila Lane
 
-_Screenplay by__:_ David Hilton, James Watkins
+_Screenplay by_: David Hilton, James Watkins
 
-_Story by__:_ David Hilton
+_Story by_: David Hilton
 
-_Director of Photography__:_ Hubert Taczanowski
+_Director of Photography_: Hubert Taczanowski
 
 _Camera Operator__:_ Warren Jefferies
 
-_Visual Effects by__:_ Double Negative, Matthew Holben, Mark Coleran, Matthew Shaw
-
-_SFX Supervisor__:_ John Laforet
-
-_SFX Technicians__:_ Mark Ahee, Darcy Callaghan, Michael Gagnon
-
-_Model Maker__:_ Nicki Bayard
-
-_Editor__:_ Marguerite Arnold
-
-_Production Designer__:_ Crispian Sallis
-
-_Art Director__:_ Laura Macnutt
-
-_Draftsman__:_ Peter Child
-
-_Key Scenics__:_ Kelly Chamberlain, Tony Owen
-
-_Storyboard Artist__:_ David Cullen
-
+_Visual Effects by_: Double Negative, Matthew Holben, Mark Coleran, Matthew Shaw
+_SFX Supervisor_: John Laforet
+_SFX Technicians_: Mark Ahee, Darcy Callaghan, Michael Gagnon
+_Model Maker_: Nicki Bayard
+_Editor_: Marguerite Arnold
+_Production Designer_: Crispian Sallis
+_Art Director_: Laura Macnutt
+_Draftsman_: Peter Child
+_Key Scenics_: Kelly Chamberlain, Tony Owen
+_Storyboard Artist_: David Cullen
 _Costume Designer__:_ Kate Rose
 
 _[Costume] Set Supervisor__:_ Jim Worthen
@@ -172,5 +162,6 @@ UK-USA-France-Canada 2002
 
 95 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzkzMTMyNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTk5ODAzNTk4OCwxNzgzOTMxMzI2LDczMD
+k5ODExNl19
 -->
