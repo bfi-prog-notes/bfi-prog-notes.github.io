@@ -145,51 +145,29 @@ Sat 5 Feb 12:30; Sun 20 Feb 18:10<br>
 Sun 6 Feb 15:20; Mon 14 Feb 18:00<br>
 **The Watermelon Woman**<br>
 Mon 7 Feb 20:45; Sat 26 Feb 20:30<br>
-
 **Happy Together (Chun gwong cha sit)**<br>
-
 Tue 8 Feb 18:15 (+ intro by Yi Wang, Queer East); Sun 13 Feb 15:20<br>
-
 **My Own Private Idaho**<br>
-
 Tue 8 Feb 20:45; Wed 23 Feb 18:00 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair)<br>
-
 **Brokeback Mountain**<br>
-
 Wed 9 Feb 17:45 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair); Mon 21 Feb 20:25<br>
-
 **Go Fish**<br>
-
 Wed 9 Feb 20:40; Sat 26 Feb 18:20<br>
-
 **Rope**<br>
-
 Thu 10 Feb 18:30; Tue 22 Feb 14:30<br>
-
 **Victim**<br>
-
 Thu 10 Feb 20:40; Sun 13 Feb 13:00; Mon 21 Feb 18:00<br>
-
 **Desert Hearts**<br>
-
 Fri 11 Feb 20:40; Wed 16 Feb 18:20 (+ intro by BFI Head Librarian Emma Smart)<br>
-
 **My Beautiful Laundrette**<br>
-
 Sat 12 Feb 18:20; Tue 15 Feb 20:45; Sat 19 Feb 20:45<br>
-
 **A Fantastic Woman (Una mujer fantástica)**<br>
-
 Sun 13 Feb 18:40; Tue 22 Feb 20:50<br>
-
 **Mädchen in Uniform**<br>
-
 Fri 18 Feb 20:30; Sat 26 Feb 16:00<br>
-
 **Moonlight**<br>
-
 Thu 24 Feb 14:30; Mon 28 Feb 20:45<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzQyNjM3OSwxMzkxMTQ5OTMyXX0=
+eyJoaXN0b3J5IjpbLTE3ODk5MTc4MTMsMTM5MTE0OTkzMl19
 -->
