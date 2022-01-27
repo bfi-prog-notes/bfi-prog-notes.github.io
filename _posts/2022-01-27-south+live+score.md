@@ -7,7 +7,7 @@ readtime: true
 categories: ['SILENT CINEMA PRESENTS']
 tags: [Documentary]
 metadata: 'UK 1919 81 mins<br> Director: Frank Hurley'
-pdf: '2022-01-27-south+live+score.pdf'
+pdf: '2022-01-27-south-live-score.pdf'
 ---
 
 In 2022 we mark the centenary of the death of Sir Ernest Shackleton, which traditionally signalled the end of the ‘heroic age’ of Antarctic exploration. A record of one of the greatest survival stories in the history of exploration, _South_ is the original film – exquisitely photographed by Frank Hurley – of Shackleton’s 1914-16 Endurance expedition to Antarctica, during which the ship was crushed by ice, stranding the crew. Brought to the epic IMAX screen, _South_ has been digitally remastered from the BFI National Archive’s restoration in its original colours with a newly commissioned score by Neil Brand, performed by the Covent Garden Sinfonia, conducted by Ben Palmer.<br>
