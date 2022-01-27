@@ -43,31 +43,18 @@ _Produced with the assistance of:_ Nova Scotia Film Industry Tax Credit
 _Executive Producers_: Tim Bevan, Eric Fellner, Natascha Wharton
 _Co-executive Producer_: Christopher Zimmer
 _Producers_:  Jon Finn, Jane Villiers, David Hilton, Alan Greenspan
-
-_Chief Operating Officer for WT/WT²_:_:_ Angela Morrison
-
-_Head of Production for WT/WT²_:_:_ Michelle Wright
-
-_Production Executive for WT/WT²_:_:_ Sarah-Jane Wright
-
-_Head of Legal/Business Affairs for WT/WT²_:_:_ Sara Curran
-
-_VP Legal/Business Affairs for WT/WT²_:_:_ Sheeraz Shah
-
-_Chief Financial Officer for WT/WT²_:_:_ Shefali Ghosh
-
-_Story Editor for WT/WT²_:_:_ Rachael Prior
-
-_Assistant to Natascha Wharton for WT/WT²__:_ Hannah Farrell
-
-_Production Manager__:_ Margaret Harrison
-
-_WT² Co-ordinator__:_ Amanda Boyle
-
-_Production Co-ordinator__:_ Adele MacDonald
-
-_Location Manager_:_:_ Scott Simpson
-
+_Chief Operating Officer for WT/WT²_: Angela Morrison
+_Head of Production for WT/WT²_: Michelle Wright
+_Production Executive for WT/WT²_: Sarah-Jane Wright
+_Head of Legal/Business Affairs for WT/WT²_: Sara Curran
+_VP Legal/Business Affairs for WT/WT²_: Sheeraz Shah
+_Chief Financial Officer for WT/WT²_: Shefali Ghosh
+_Story Editor for WT/WT²_: Rachael Prior
+_Assistant to Natascha Wharton for WT/WT²_: Hannah Farrell
+_Production Manager_: Margaret Harrison
+_WT² Co-ordinator_: Amanda Boyle
+_Production Co-ordinator_: Adele MacDonald
+_Location Manager_: Scott Simpson
 _Post-production Supervisor_:_:_ Deborah Harding
 
 _1st Assistant Director_:_:_ Stuart Renfrew
@@ -188,6 +175,6 @@ UK-USA-France-Canada 2002
 
 95 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwMTcyODA2LDU0NDg1NzQ2OCwtOTk4MD
-M1OTg4LDE3ODM5MzEzMjYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTUyODMwOTY5Miw1NDQ4NTc0NjgsLTk5OD
+AzNTk4OCwxNzgzOTMxMzI2LDczMDk5ODExNl19
 -->
