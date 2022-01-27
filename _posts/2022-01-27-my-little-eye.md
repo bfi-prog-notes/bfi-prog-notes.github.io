@@ -35,22 +35,14 @@ The Contenders_ or _Battle Royale_ is that they don’t exist in the real world.
 
 
 **MY LITTLE EYE**
-
-_Directed by__:_ Marc Evans
-
-_©_: _:_WT Venture LLC
-
+_Directed by_: Marc Evans
+_©_: WT Venture LLC
 _Presented by:_ Universal Pictures, StudioCanal, Working Title Films
-
 _A_ WT² _production_
-
 _Produced with the assistance of:_ Nova Scotia Film Industry Tax Credit
-
 _Executive Producers_: Tim Bevan, Eric Fellner, Natascha Wharton
-
-_Co-executive Producer__:_ Christopher Zimmer
-
-_Producers__:_ Jon Finn, Jane Villiers, David Hilton, Alan Greenspan
+_Co-executive Producer_: Christopher Zimmer
+_Producers_:  Jon Finn, Jane Villiers, David Hilton, Alan Greenspan
 
 _Chief Operating Officer for WT/WT²_:_:_ Angela Morrison
 
@@ -196,6 +188,6 @@ UK-USA-France-Canada 2002
 
 95 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0ODU3NDY4LC05OTgwMzU5ODgsMTc4Mz
-kzMTMyNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbOTEwMTcyODA2LDU0NDg1NzQ2OCwtOTk4MD
+M1OTg4LDE3ODM5MzEzMjYsNzMwOTk4MTE2XX0=
 -->
