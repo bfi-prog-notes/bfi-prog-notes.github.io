@@ -56,19 +56,12 @@ _Assistant to Natascha Wharton for WT/WT²_: Hannah Farrell
 _Production Manager_: Margaret Harrison
 _WT² Co-ordinator_: Amanda Boyle
 _Production Co-ordinator_: Adele MacDonald
-
-_Location Manager__:_ Scott Simpson
-
-_Post-production Supervisor__:_ Deborah Harding
-
-_1st Assistant Director__:_ Stuart Renfrew
-
-_2nd Assistant Director__:_ Kevin J. Walker
-
-_3rd Assistant Director__:_ Evan Kelly
-
-_Script Supervisor__:_ Maggie Thomas
-
+_Location Manager_: Scott Simpson
+_Post-production Supervisor_: Deborah Harding
+_1st Assistant Director_: Stuart Renfrew
+_2nd Assistant Director_: Kevin J. Walker
+_3rd Assistant Director_: Evan Kelly
+_Script Supervisor_: Maggie Thomas
 _Casting__:_ Billy Hopkins, Suzanne Smith, Kerry Barden, Mark Bennett
 
 _Casting (LA Associate)__:_ Deborah Maxwell Dion
@@ -179,5 +172,5 @@ UK-USA-France-Canada 2002
 
 95 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0NTg0NDA4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTc4MzkzMTMyNiw3MzA5OTgxMTZdfQ==
 -->
