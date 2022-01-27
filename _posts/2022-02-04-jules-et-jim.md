@@ -2,16 +2,18 @@
 layout: post
 title: Jules et Jim
 published: true
-date: 2021-10-19
+date: 2022-02-04
 readtime: true
-categories: ['MIKE LEIGH’S CHOICES']
+categories: ['RE-RELEASES']
 tags: [Drama]
 metadata: 'France 1962, 106 mins<br> Director: François Truffaut'
-pdf: '2021-10-19-jules-et-jim.pdf'
+pdf: '2022-02-04-jules-et-jim.pdf'
 ---
 
-**A contemporary review**
+In 1912, Frenchman Jim (Henri Serre) and the Austrian Jules (Oskar Werner) become firm friends, happily sharing their enjoyment of Paris, art, literature and women, even when their adoration of the divine but sometimes demanding Catherine (Jeanne Moreau) looks set to test their relationship. Then comes war... Truffaut’s adaptation – at once faithful and ebulliently cinematic – of Henri-Pierre Roché’s novel both celebrates its characters’ aspirations to unfettered love and acknowledges the social and psychological obstacles that conspire to undermine such dreams. Accordingly, energetic pre-war passions yield to a deeper awareness of responsibilities and needs: life, Truffaut reminds us, is seldom simple, happiness never absolute.  
+**Geoff Andrew, Programmer-at-large**
 
+**A contemporary review**  
 _Jules et Jim_ is very much a conscious attempt on Truffaut’s part to make a synthesis of his first two films: to combine the ‘big’ subject with obvious human significance of _Les Quatre Cents Coups_ with what he calls the ‘plastic enterprise’ of _Tirez sur le pianiste_. And he has succeeded partly, perhaps, because the novel by Henri-Pierre Roché (best known as ‘the man who introduced Gertrude Stein to Picasso’) from which the film is adapted was already in itself both a ‘plastic enterprise’ and a strikingly honest study of human relationships.
 
 In the Paris of 1910, two young writers, one with a French passport, the other with a German one, but both inhabitants of that pre-1914 Bohemia nourished by letters of credit, meet and become friends for life. Jim, the Frenchman, is tall and successful with women; Jules is neither. Into their lives steps Catherine (Jeanne Moreau). Both are taken with her, but it is Jules she marries. Jealousy scarcely enters into these relationships, for Catherine is a ‘new woman’, more a pal than a girlfriend – ‘Jim always thought of Catherine as _un vrai Jules_’ – and Jules is also slang for a he-man. Like the Scandinavian heroines she admires, Catherine is a force of nature, a cataclysm. On the eve of her marriage, she avenges an imagined slight from Jules’ family – and his failure to back her up – by sleeping with one of her ex-lovers. Like most people who are basically and irredeemably unhappy, she feels that it doesn’t really matter if she hurts other people – they are still better off than she is. And when, after the Armistice, Jim comes to Germany to stay with Jules and Catherine, he finds Jules resigned to Catherine’s periodic bolting. Rather than lose her, he even pushes Jim into her arms: she’ll still be _ours_ that way, he says.
@@ -63,27 +65,16 @@ Sabine Haudepin _(Sabine)_<br>
 Marie Dubois _(Thérèse)_<br>
 
 France 1962©<br>
-106 mins<br>
-<br>
+106 mins
 
-**MIKE LEIGH’S CHOICES**<br>
-**Tokyo Story (Tôkyô monogatari)**<br>
-Mon 18 Oct 20:20; Thu 21 Oct 14:30;  Sat 13 Nov 14:10; Tue 30 Nov 14:00<br>
-**Jules et Jim**<br>
-Tue 19 Oct 20:50; Wed 10 Nov 14:30<br>
-**The Tree of Wooden Clogs  (L’albero degli zoccoli)**<br>
-Wed 20 Oct 14:00; Fri 29 Oct 13:30;  Sun 7 Nov 13:50<br>
-**I Am Cuba (Soy Cuba)**<br>
-Wed 20 Oct 14:30; Sat 13 Nov 20:10<br>
-**Radio Days**<br>
-Sat 23 Oct 13:20; Tue 16 Nov 18:10<br>
-**H3**<br>
-Mon 25 Oct 18:00 (+ Q&A with director Les Blair); Wed 24 Nov 20:50<br>
-**A Blonde in Love (AKA Loves of a Blonde)  
-(Lásky jedné plavovlásky)**<br>
-Mon 25 Oct 20:40; Fri 19 Nov 21:00<br>
-**The Story of Gilbert and Sullivan**<br>
-Sun 14 Nov 14:40; Sun 28 Nov 14:50<br>
+A BFI release<br>
+
+**Promotional partner**
+
+<img style="float: left;" src="/img/SKV.jpg" width="40%" height="40%"><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+‘One of the best vintage shops in London for hidden gems’ – ELLE UK
 <br>
 
 **BFI SOUTHBANK**  
