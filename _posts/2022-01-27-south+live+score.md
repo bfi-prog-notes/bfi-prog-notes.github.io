@@ -1,12 +1,21 @@
+---
+layout: post
+title: South + Live Score
+published: true
+date: 2022-01-27
+readtime: true
+categories: ['SILENT CINEMA PRESENTS']
+tags: [Documentary]
+metadata: 'UK 1919 81 mins<br> Director: Frank Hurley'
+pdf: '2022-01-27-south+live+score.pdf'
+---
 
 In 2022 we mark the centenary of the death of Sir Ernest Shackleton, which traditionally signalled the end of the ‘heroic age’ of Antarctic exploration. A record of one of the greatest survival stories in the history of exploration, _South_ is the original film – exquisitely photographed by Frank Hurley – of Shackleton’s 1914-16 Endurance expedition to Antarctica, during which the ship was crushed by ice, stranding the crew. Brought to the epic IMAX screen, _South_ has been digitally remastered from the BFI National Archive’s restoration in its original colours with a newly commissioned score by Neil Brand, performed by the Covent Garden Sinfonia, conducted by Ben Palmer.<br>
 **bfi.org.uk**<br>
 
-Photographed by Frank Hurley, _South_ is the film record of Sir Ernest Shackleton’s heroic but ill-starred attempt to cross Antarctica in 1914-16.  
-It is both a unique historical document, and a tribute to the indomitable courage of a small party of men who set out on a voyage of discovery that turned into an epic struggle for survival.
+Photographed by Frank Hurley, _South_ is the film record of Sir Ernest Shackleton’s heroic but ill-starred attempt to cross Antarctica in 1914-16. It is both a unique historical document, and a tribute to the indomitable courage of a small party of men who set out on a voyage of discovery that turned into an epic struggle for survival.
 
-When the news broke that Shackleton and his men had survived, there was great demand to hear and see their stories. Hurley spent three months putting together the surviving film footage and photographs from the expedition.  
-He also went back to South Georgia to re-film the wildlife, footage that had not survived from the expedition.
+When the news broke that Shackleton and his men had survived, there was great demand to hear and see their stories. Hurley spent three months putting together the surviving film footage and photographs from the expedition. He also went back to South Georgia to re-film the wildlife, footage that had not survived from the expedition.
 
 Shackleton was restless for another adventure, but had no funds and still owed money to financers of the expedition. In 1919, he launched himself onto the lecture circuit to raise money. He showed Hurley’s film, _South_, and projected glass slides of his photographs, while lecturing the story to the audience. [Hurley’s film was thereafter shown in various forms as both a lecture film and a conventional theatrical release abroad, including in Hurley’s native Australia, where it was released as _In the Grip of Polar Ice_ in 1920.] He had also published his book of the story, _South_, and was being interviewed for various newspapers and magazines.
 
@@ -76,6 +85,19 @@ Thu 24 Feb 18:00<br>
 Fri 25 Feb 19:00 and 20:30<br>
 **Woman with a Movie Camera Preview: Ali & Ava**<br>
 Mon 28 Feb 20:20<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTU2NzEwMTFdfQ==
--->
+<br>
+**BECOME A BFI MEMBER**<br>
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at **[bfi.org.uk/join](https://www.bfi.org.uk/become-bfi-member)**
+
+**BFI SOUTHBANK**<br>
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.<br>
+We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.
+
+**BFI PLAYER**<br>
+We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on **[player.bfi.org.uk](https://player.bfi.org.uk/)**
+
+**Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at **[www.bfi.org.uk/signup](https://player.bfi.org.uk/)**
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
