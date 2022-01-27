@@ -55,6 +55,27 @@ Frank Hurley _(photographer)_<br>
 
 UK 1919<br>
 81 mins<br>
+<br>
+
+**IN PERSON & PREVIEWS**<br>
+**Silent Cinema presents: South: Sir Ernest Shackleton’s Glorious Epic of the Antarctic + live score**<br>
+Thu 27 Jan 19:00<br>
+**African Odysseys UK Premiere: African Redemption: The Life and Legacy of Marcus Garvey + panel discussion**<br>
+Sat 5 Feb 14:00<br>
+**Mark Kermode Live in 3D at the BFI**<br>
+Mon 7 Feb 18:10<br>
+**Preview: The Worst Person in the World (Verdens verste menneske) + Q&A with director Joachim Trier and actor Renate Reinsve**<br>
+Sat 12 Feb 20:15<br>
+**The Proposition + Q&A (special guests TBA)**<br>
+Wed 16 Feb 18:00<br>
+**Preview: La Mif (The Fam) + Q&A with director Fred Baillif**<br>
+Sat 19 Feb 18:00<br>
+**A Tribute to Roger Michell: Preview: The Duke + Q&A (guests TBA)**<br>
+Thu 24 Feb 18:00<br>
+**BFI Expanded: World Premiere: UNIQUE**<br>
+Fri 25 Feb 19:00 and 20:30<br>
+**Woman with a Movie Camera Preview: Ali & Ava**<br>
+Mon 28 Feb 20:20<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzgyNTk3MzZdfQ==
+eyJoaXN0b3J5IjpbLTE2OTU2NzEwMTFdfQ==
 -->
