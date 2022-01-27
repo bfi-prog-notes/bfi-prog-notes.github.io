@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Surviving films of<br> Franciszka and Stefan Themerson
+published: true
+date: 2022-01-27
+readtime: true
+categories: ['EXPERIMENTA']
+tags: [Experimental]
+metadata:
+pdf: '2022-01-27-surviving-films-themersons.pdf'
+---
 
 Polish avant-gardists the Themersons were multi-disciplinary artists who infused their work with a tactile sense of irreverence and wit. Their legendary anti-fascist film _Europa_ (1931), looted by the Nazis, was recently discovered in the Bundesarchiv, Berlin and screened for the first time in nearly 90 years in the 2021 London Film Festival, to great acclaim. To further understand the development of the Themersons’ work +and ideas, we present _Adventures of a Good Citizen_ (1937), the premiere of the newly restored _Calling Mr Smith_ (1943) and _The Eye and Ear_ (1944).
 
@@ -24,7 +34,7 @@ Both Franciszka and Stefan died in 1988, still believing that _Europa_ had not s
 
 The Commission’s research revealed that, after seizure in Paris, the original nitrate film of _Europa_ had entered the Reich Film Archive (Reichsfilmarchiv) in Berlin and by 1959 it was in the holdings of the East German State Film Archive (Staatliches Filmarchiv). After the reunification of Germany in 1990, the Film Archive became part of the German Federal Archives (Bundesarchiv) where the film had remained ever since. The Commission found there were two copies of the film in the Bundesarchiv, the 35 mm nitrate copy left at Vitfer Laboratories in 1940, and a preservation copy made by the Bundesarchiv.
 
-Returned to the UK in July this year, _Europa_ was subsequently restored by Fixafilm in Warsaw with a newly commissioned soundtrack composed by Lodewijk Muns. Both original copies and the restoration film files for _Europa_ were donated by the Themerson Estate to the BFI National Archive, which holds the three surviving films made by the Themersons, two made in England for the Film Unit of the Polish Government-in-Exile: _Calling Mr. Smith_ (1943) and _The Eye and the Ear_ (1945) as well as the Polish-made _The Adventure of a Good Citizen_ (1937). Their four other films seized in Paris in 1940 – The Pharmacy (1930), Moment Musical (1933), Short Circuit (1935) and the Paris copy of The Adventure of a Good Citizen (1937) – remain missing.
+Returned to the UK in July this year, _Europa_ was subsequently restored by Fixafilm in Warsaw with a newly commissioned soundtrack composed by Lodewijk Muns. Both original copies and the restoration film files for _Europa_ were donated by the Themerson Estate to the BFI National Archive, which holds the three surviving films made by the Themersons, two made in England for the Film Unit of the Polish Government-in-Exile: _Calling Mr. Smith_ (1943) and _The Eye and the Ear_ (1945) as well as the Polish-made _The Adventure of a Good Citizen_ (1937). Their four other films seized in Paris in 1940 – The Pharmacy (1930), Moment Musical (1933), Short Circuit (1935) and the Paris copy of The Adventure of a Good Citizen (1937) – remain missing.<br>
 **bfi.org.uk, 14 September 2021**<br>
 
 **Adventures of a Good Citizen**<br>
@@ -107,6 +117,20 @@ Wed 23 Feb 17:50<br>
 Thu 24 Feb 20:40<br>
 **Relaxed Screening: Keep the Change + discussion**<br>
 Mon 28 Feb 20:10<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjU5NDQ1OF19
--->
+<br>
+
+**BECOME A BFI MEMBER**<br>
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at **[bfi.org.uk/join](https://www.bfi.org.uk/become-bfi-member)**
+
+**BFI SOUTHBANK**<br>
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.<br>
+We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.
+
+**BFI PLAYER**<br>
+We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on **[player.bfi.org.uk](https://player.bfi.org.uk/)**
+
+**Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at **[www.bfi.org.uk/signup](https://player.bfi.org.uk/)**
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
