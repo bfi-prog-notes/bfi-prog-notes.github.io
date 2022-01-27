@@ -16,15 +16,12 @@ One could trace a long list of influences, both literary and cinematic, that mad
 
 **Speakers**
 
-**Sonali Joshi** is a curator, writer, subtitler and translator. She founded Day for Night Film & Visual Arts in 2006, seeking to champion underrepresented areas of cinema through curatorial projects, distribution and access. She began her career in film exhibition at Cornerhouse (now HOME, Manchester), before moving into film distribution in Paris and then heading up the translationsubtitling department of a former post-production house in London.Sonali holds a PhD in French Cinema Studies, the focus of which was actorJean-Pierre Léaud.
+**Sonali Joshi** is a curator, writer, subtitler and translator. She founded Day for Night Film & Visual Arts in 2006, seeking to champion underrepresented areas of cinema through curatorial projects, distribution and access. She began her career in film exhibition at Cornerhouse (now HOME, Manchester), before moving into film distribution in Paris and then heading up the translation subtitling department of a former post-production house in London. Sonali holds a PhD in French Cinema Studies, the focus of which was actor Jean-Pierre Léaud.
 
 **Dr Marilyn Mallia**  is a Senior Lecturer in the Department of French at the University of Malta, where she teaches French literature, language and film.  
-Her research focuses on gender politics in 19th-century French Gothic and Romantic literature, as well as on cinematic adaptations of the Gothic. Her doctoral thesis, which was awarded a prize by the George Sand Association, has been published in 2018 with Classiques Garnier, under the title: _Présence du roman gothique anglais dans les premiers romans de George Sand_.  
-Her talk during the BFI event is based on an article which is due to be published in the journal _French Screen Studies_.
+Her research focuses on gender politics in 19th-century French Gothic and Romantic literature, as well as on cinematic adaptations of the Gothic. Her doctoral thesis, which was awarded a prize by the George Sand Association, has been published in 2018 with Classiques Garnier, under the title: _Présence du roman gothique anglais dans les premiers romans de George Sand_.  Her talk during the BFI event is based on an article which is due to be published in the journal _French Screen Studies_.
 
-**Catherine Wheatley** is Reader in Film and Visual Culture at King’s College London. Her books include _Stanley Cavell and Film: Scepticism and Self-Reliance at the Cinema, Michael Haneke’s Cinema: The Ethic of the Image_,  
-the BFI Film Classics book on _Caché_, and, with Lucy Mazdon, _Sex, Art and Cinephilia: French Cinema in Britain._ Catherine also writes regularly for  
-_Sight and Sound_ magazine.
+**Catherine Wheatley** is Reader in Film and Visual Culture at King’s College London. Her books include _Stanley Cavell and Film: Scepticism and Self-Reliance at the Cinema, Michael Haneke’s Cinema: The Ethic of the Image_,  the BFI Film Classics book on _Caché_, and, with Lucy Mazdon, _Sex, Art and Cinephilia: French Cinema in Britain._ Catherine also writes regularly for  _Sight and Sound_ magazine.
 
 **Dr Pasquale Iannone** is Lecturer in Film Studies at the University of Edinburgh. His research interests include European cinema (French and Italian in particular), film sound and film adaptation. He is also a critic and broadcaster, contributing to BBC Radio and _Sight and Sound_ among other outlets. He is currently working on a book on Jean-Pierre Melville’s _L’Armée des ombres_.
 
@@ -34,5 +31,5 @@ The Life, The Legend, The Movies_ (Carlton and Gründ, 2014). She is currently c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzgzNjI5MV19
+eyJoaXN0b3J5IjpbLTIwODM0NTAzNDVdfQ==
 -->
