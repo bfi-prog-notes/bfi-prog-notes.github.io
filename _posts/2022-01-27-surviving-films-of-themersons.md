@@ -67,6 +67,23 @@ _Photography_: Franciszka Themerson, Stefan Themerson
 _Editors_: Franciszka Themerson, Stefan Themerson<br>
 UK 1943<br>
 9 mins<br>
+
+**THE EYE AND EAR**<br>
+_Director_: Stefan Themerson<br>
+_Production Company:_ Film Unit of the Ministry of Information<br>
+_Script:_ Stefan Themerson, Franciszka Themerson<br>
+_Commentary Writer:_ Bruce Graeme<br>
+_Director of Photography:_ Franciszka Themerson<br>
+_Photography:_ Stefan Themerson, Franciszka Themerson  
+_Editors_: Stefan Themerson, Franciszka Themerson<br>
+_Music:_ Karol Szymanowski
+_Soprano:_ Sophie Wyss
+_Music Director:_ Ronald Biggs
+
+**With**
+James McKechnie
+UK 1944
+10 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwOTQxOTgwXX0=
+eyJoaXN0b3J5IjpbLTE2OTE5NTk2ODhdfQ==
 -->
