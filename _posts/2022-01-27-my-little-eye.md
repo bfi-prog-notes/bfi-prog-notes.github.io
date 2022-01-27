@@ -35,33 +35,57 @@ The Contenders_ or _Battle Royale_ is that they don’t exist in the real world.
 
 
 **MY LITTLE EYE**
-_Directed by_: Marc Evans
-_©_: WT Venture LLC
+
+_Directed by__:_ Marc Evans
+
+_©_: _:_WT Venture LLC
+
 _Presented by:_ Universal Pictures, StudioCanal, Working Title Films
+
 _A_ WT² _production_
+
 _Produced with the assistance of:_ Nova Scotia Film Industry Tax Credit
+
 _Executive Producers_: Tim Bevan, Eric Fellner, Natascha Wharton
+
 _Co-executive Producer__:_ Christopher Zimmer
 
 _Producers__:_ Jon Finn, Jane Villiers, David Hilton, Alan Greenspan
 
-_Chief Operating Officer for WT/WT²_: Angela Morrison
-_Head of Production for WT/WT²_: Michelle Wright
-_Production Executive for WT/WT²_: Sarah-Jane Wright
-_Head of Legal/Business Affairs for WT/WT²_: Sara Curran
-_VP Legal/Business Affairs for WT/WT²_: Sheeraz Shah
-_Chief Financial Officer for WT/WT²_: Shefali Ghosh
-_Story Editor for WT/WT²_: Rachael Prior
-_Assistant to Natascha Wharton for WT/WT²_: Hannah Farrell
-_Production Manager_: Margaret Harrison
-_WT² Co-ordinator_: Amanda Boyle
-_Production Co-ordinator_: Adele MacDonald
-_Location Manager_: Scott Simpson
-_Post-production Supervisor_: Deborah Harding
-_1st Assistant Director_: Stuart Renfrew
-_2nd Assistant Director_: Kevin J. Walker
-_3rd Assistant Director_: Evan Kelly
-_Script Supervisor_: Maggie Thomas
+_Chief Operating Officer for WT/WT²_:_:_ Angela Morrison
+
+_Head of Production for WT/WT²_:_:_ Michelle Wright
+
+_Production Executive for WT/WT²_:_:_ Sarah-Jane Wright
+
+_Head of Legal/Business Affairs for WT/WT²_:_:_ Sara Curran
+
+_VP Legal/Business Affairs for WT/WT²_:_:_ Sheeraz Shah
+
+_Chief Financial Officer for WT/WT²_:_:_ Shefali Ghosh
+
+_Story Editor for WT/WT²_:_:_ Rachael Prior
+
+_Assistant to Natascha Wharton for WT/WT²__:_ Hannah Farrell
+
+_Production Manager__:_ Margaret Harrison
+
+_WT² Co-ordinator__:_ Amanda Boyle
+
+_Production Co-ordinator__:_ Adele MacDonald
+
+_Location Manager_:_:_ Scott Simpson
+
+_Post-production Supervisor_:_:_ Deborah Harding
+
+_1st Assistant Director_:_:_ Stuart Renfrew
+
+_2nd Assistant Director_:_:_ Kevin J. Walker
+
+_3rd Assistant Director_:_:_ Evan Kelly
+
+_Script Supervisor_:_:_ Maggie Thomas
+
 _Casting__:_ Billy Hopkins, Suzanne Smith, Kerry Barden, Mark Bennett
 
 _Casting (LA Associate)__:_ Deborah Maxwell Dion
@@ -70,24 +94,34 @@ _Casting (Toronto Associate)__:_ Diane Kerbel
 
 _Casting (Halifax Associate)_: Sheila Lane
 
-_Screenplay by_: David Hilton, James Watkins
+_Screenplay by_:_:_ David Hilton, James Watkins
 
-_Story by_: David Hilton
+_Story by_:_:_ David Hilton
 
-_Director of Photography_: Hubert Taczanowski
+_Director of Photography_:_:_ Hubert Taczanowski
 
 _Camera Operator__:_ Warren Jefferies
 
-_Visual Effects by_: Double Negative, Matthew Holben, Mark Coleran, Matthew Shaw
-_SFX Supervisor_: John Laforet
-_SFX Technicians_: Mark Ahee, Darcy Callaghan, Michael Gagnon
-_Model Maker_: Nicki Bayard
-_Editor_: Marguerite Arnold
-_Production Designer_: Crispian Sallis
-_Art Director_: Laura Macnutt
-_Draftsman_: Peter Child
-_Key Scenics_: Kelly Chamberlain, Tony Owen
-_Storyboard Artist_: David Cullen
+_Visual Effects by__:_ Double Negative, Matthew Holben, Mark Coleran, Matthew Shaw
+
+_SFX Supervisor__:_ John Laforet
+
+_SFX Technicians_:_:_ Mark Ahee, Darcy Callaghan, Michael Gagnon
+
+_Model Maker_:_:_ Nicki Bayard
+
+_Editor_:_:_ Marguerite Arnold
+
+_Production Designer_:_:_ Crispian Sallis
+
+_Art Director_:_:_ Laura Macnutt
+
+_Draftsman_:_:_ Peter Child
+
+_Key Scenics__:_ Kelly Chamberlain, Tony Owen
+
+_Storyboard Artist__:_ David Cullen
+
 _Costume Designer__:_ Kate Rose
 
 _[Costume] Set Supervisor__:_ Jim Worthen
@@ -162,6 +196,6 @@ UK-USA-France-Canada 2002
 
 95 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODAzNTk4OCwxNzgzOTMxMzI2LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbNTQ0ODU3NDY4LC05OTgwMzU5ODgsMTc4Mz
+kzMTMyNiw3MzA5OTgxMTZdfQ==
 -->
