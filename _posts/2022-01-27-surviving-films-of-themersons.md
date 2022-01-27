@@ -76,14 +76,38 @@ _Commentary Writer:_ Bruce Graeme<br>
 _Director of Photography:_ Franciszka Themerson<br>
 _Photography:_ Stefan Themerson, Franciszka Themerson  
 _Editors_: Stefan Themerson, Franciszka Themerson<br>
-_Music:_ Karol Szymanowski
-_Soprano:_ Sophie Wyss
-_Music Director:_ Ronald Biggs
+_Music:_ Karol Szymanowski<br>
+_Soprano:_ Sophie Wyss<br>
+_Music Director:_ Ronald Biggs<br>
 
-**With**
-James McKechnie
-UK 1944
-10 mins
+**With**<br>
+James McKechnie<br>
+UK 1944<br>
+10 mins<br>
+
+<![endif]-->
+
+**REGULAR PROGRAMME**
+**Experimenta: The Surviving Films of Franciszka and Stefan Themerson + intro**
+Thu 27 Jan 18:10
+**Terror Vision: My Little Eye + intro by Mike Muncer, host of The Evolution of Horror podcast**
+Thu 27 Jan 20:30
+**Relaxed Screening: L’Enfant sauvage (The Wild Child) + intro and discussion**
+Mon 31 Jan 18:10
+**Silent Cinema: The Hill Park Mystery (Nedbrudte Nerver) + intro**
+Sun 6 Feb 15:30
+**Projecting the Archive: Jury’s Evidence + intro by writer Ming Ho**
+Tue 8 Feb 18:30
+**BFI Future Film Festival**
+17-20 Feb
+**Seniors’ Free Matinee: The Night of the Hunter + intro by BFI programmer David Somerset**
+Mon 21 Feb 14:00
+**Member Picks: Close Encounters of the Third Kind**
+Wed 23 Feb 17:50
+**Terror Vision: The People under the Stairs**
+Thu 24 Feb 20:40
+**Relaxed Screening: Keep the Change + discussion**
+Mon 28 Feb 20:10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE5NTk2ODhdfQ==
+eyJoaXN0b3J5IjpbLTE1MTk5ODE2MDhdfQ==
 -->
