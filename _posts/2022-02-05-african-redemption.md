@@ -67,9 +67,55 @@ USA 2021<br>
 In collaboration with KOL Social<br>
 <br>
 
+**IN PERSON & PREVIEWS**<br>
+**African Odysseys UK Premiere:  African Redemption: The Life and Legacy of Marcus Garvey + panel discussion**<br>
+Sat 5 Feb 14:00<br>
+**Mark Kermode Live in 3D at the BFI**<br>
+Mon 7 Feb 18:10<br>
+**Preview: The Worst Person in the World (Verdens verste menneske) + Q&A with director Joachim Trier and actor Renate Reinsve**<br>
+Sat 12 Feb 20:15<br>
+**The Proposition + Q&A (special guests TBA)**<br>
+Wed 16 Feb 18:00<br>
+**Preview: La Mif (The Fam)** **+ Q&A with  director Fred Baillif**<br>
+Sat 19 Feb 18:00<br>
+**A Tribute to Roger Michell:  Preview: The Duke + Q&A (guests TBA)**<br>
+Thu 24 Feb 18:00<br>
+**BFI Expanded: World Premiere: UNIQUE**<br>
+Fri 25 Feb 19:00 and 20:30<br>
+**Woman with a Movie Camera Preview: Ali & Ava**<br>
+Mon 28 Feb 20:20<br>
 
+**REGULAR PROGRAMME**<br>
+**Silent Cinema: The Hill Park Mystery  (Nedbrudte Nerver) + intro**<br>
+Sun 6 Feb 15:30<br>
+**Projecting the Archive:  Jury’s Evidence + intro by writer Ming Ho**<br>
+Tue 8 Feb 18:30<br>
+
+**BFI Future Film Festival**<br>
+
+17-20 Feb<br>
+
+**Seniors’ Free Matinee: The Night of the Hunter  
++ intro by BFI programmer David Somerset**<br>
+
+Mon 21 Feb 14:00<br>
+
+**Member Picks:  
+Close Encounters of the Third Kind**<br>
+
+Wed 23 Feb 17:50<br>
+
+**Terror Vision: The People under the Stairs**<br>
+
+Thu 24 Feb 20:40<br>
+
+**Relaxed Screening:  
+Keep the Change + discussion**<br>
+
+Mon 28 Feb 20:10<br>
+<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY1OTk3MjFdfQ==
+eyJoaXN0b3J5IjpbLTEyMTI5Nzk0ODhdfQ==
 -->
