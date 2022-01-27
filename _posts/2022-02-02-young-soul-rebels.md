@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Young Soul Rebels
+published: true
+date: 2022-02-02
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Thriller]
+metadata: 'UK/France/Germany/Spain 1991, 100 mins<br> Director: Isaac Julien'
+pdf: '2022-02-02-young-soul-rebels.pdf'
+---
 
 **Isaac Julien on ‘Young Soul Rebels’**
 
@@ -34,14 +44,10 @@ We pursued a number of different questions and they led us to those particular e
 
 **YOUNG SOUL REBELS**  
 _Director_: Isaac Julien  
-_Production Companies_:  
-British Film Institute Production Board,  
-Sankofa Film and Video  
+_Production Companies_:  British Film Institute Production Board,  Sankofa Film and Video  
 _In association with_: La Sept  
 _Production Companies_: Film Four International, Kinowelt Filmverleih, IberoAmericana Films  
-_Executive Producers_: Colin MacCabe, 
-
-Ben Gibson  
+_Executive Producers_: Colin MacCabe, Ben Gibson  
 _Producer_: Nadine Marsh-Edwards  
 _Production Executive_: Angela Topping  
 _Production Manager_: Joanna Beresford  
@@ -50,15 +56,12 @@ _Location Manager_: Michael Kelk
 _Post-production Co-ordinator_: Eliza Mellor  
 _Technical Supervisor_: Andy Powell  
 _Assistant Directors_: Ian Ferguson, Peter Heslop, Stephen Robinson, Ian Hickinbotham, Bill Rudgard  
-_2nd Unit Assistant Directors_: Jonny Kurzman,  
-John Withers  
+_2nd Unit Assistant Directors_: Jonny Kurzman,  John Withers  
 _Assistant Director (2nd Unit)_: Steve Millson  
 _Casting_: Gilly Poole, Suzanne Crowley  
-_Screenplay_: Paul Hallam,  
-Derrick Saldaan McClintock, Isaac Julien  
+_Screenplay_: Paul Hallam,  Derrick Saldaan McClintock, Isaac Julien  
 _Director of Photography_: Nina Kellgren  
-_2nd Unit Photographers_: Steve Tickner,  
-Mike Metcalfe  
+_2nd Unit Photographers_: Steve Tickner,  Mike Metcalfe  
 _Camera/Steadicam Operator_: Andy Shuttleworth  
 _Special Effects_: Any Effects  
 _Special Effects Supervisor_: Tom Harris  
@@ -76,8 +79,7 @@ _Make-up Artist_: Yvonne Coppard
 _Titles_: Neville Brody, Frameline  
 _Opticals_: Studio 51  
 _Music_: Simon Boswell  
-_Music Supervisors_: Bonnie Greenberg,  
-Ian P. Hierons, Jill Meyers  
+_Music Supervisors_: Bonnie Greenberg,  Ian P. Hierons, Jill Meyers  
 _Choreography_: Foster George  
 _Sound Recordists_: Ronald Bailey, Martine Couche  
 _Sound Re-recording_: Aad Wirtz  
@@ -88,7 +90,7 @@ _ADR Editor_: Shirley Shaw
 _Foley Artist_: Jack Stew  
 _Stunt Co-ordinator_: Clive Curtis  
 
-**_Cast**:_  
+**Cast**    
 Valentine Nonyela _(Chris)_  
 Mo Sesay _(Caz)_  
 Dorian Healy _(Ken)_  
@@ -110,7 +112,7 @@ Mike Mungarvan _(policeman)_
 Sayan Akaddas _(Asian punk girl)_  
 Shyro Chung _(TJ)_  
 Adam Price _(bouncer)_  
-Michael Mascoll,_,_ Freddie Brooks _(soul boys)_  
+Michael Mascoll, Freddie Brooks _(soul boys)_  
 Rodreguez King-Dorset _(Irvine)_  
 Lloyd Anderson _(barber)_  
 Adam Stuatt, Astley Harvey _(men in barber shop)_  
@@ -122,7 +124,6 @@ Verona Marshall _(Trish’s friend)_
 Frankie Palma _(Trish’s friend)_
 
 UK/France/Germany/Spain 1991  
-
 100 mins
 
 The screening on Wed 2 Feb will be introduced by BFI Race Equality Lead Rico Johnson-Sinclair
@@ -168,6 +169,24 @@ Fri 18 Feb 20:30; Sat 26 Feb 16:00<br>
 **Moonlight**<br>
 Thu 24 Feb 14:30; Mon 28 Feb 20:45<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE3ODk5MTc4MTMsMTM5MTE0OTkzMl19
 -->
