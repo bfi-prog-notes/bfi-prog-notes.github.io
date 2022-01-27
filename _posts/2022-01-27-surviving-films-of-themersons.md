@@ -38,7 +38,35 @@ Four types of experimental, interpretative visualisations of four songs by Karol
 
 **Jasia Reichardt** is a writer on art and an exhibition organiser. She was born in Poland, educated in England, and has lived in London for most of her life.  She was Assistant Director of the ICA in London, 1963-71, and Director of the Whitechapel Art Gallery, 1974-76. She has taught at the Architectural Association for 10 years, and other colleges, written many articles, several books, and served on various boards and committees. She is interested in art that encroaches on other fields, be it science or literature, and has spent many years following up the connections between art and technology. After Franciszka and Stefan Themerson died in 1988, she spent many years looking after their work, their exhibitions, and their archive. Together with Nick Wadley, she edited the 3-volume catalogue of their archive, designed by Pedro Cid Proença, which was recently published by the MIT Press.
 
-**Burt Caesar** is an actor/director of film, television drama and theatre. He is a former Associate Director at the Royal Court Theatre and an Artistic Advisor at the Royal Academy of Dramatic Art (RADA). His broadcasts for BBC Radio include the epic poem _The Schooner Flight_ by Nobel Laureate Derek Walcott, Costa Poetry Prize winner Hannah Lowe’s _Borderliners_, readings on _Poetry Please_, and radio features including _To Sir, With Love Revisited_, _Black Students in Red Russia_ and _The John La Rose Story_.
+**Burt Caesar** is an actor/director of film, television drama and theatre. He is a former Associate Director at the Royal Court Theatre and an Artistic Advisor at the Royal Academy of Dramatic Art (RADA). His broadcasts for BBC Radio include the epic poem _The Schooner Flight_ by Nobel Laureate Derek Walcott, Costa Poetry Prize winner Hannah Lowe’s _Borderliners_, readings on _Poetry Please_, and radio features including _To Sir, With Love Revisited_, _Black Students in Red Russia_ and _The John La Rose Story_.<br>
+
+**STEFAN + FRANCISZKA**<br>
+_Director_: Tomasz Pobog-Malinowski  
+_Production Company_: Poland Interpress
+
+Poland 1975<br>
+14 mins extract<br>
+
+**EUROPA**<br>
+_Directors:_ Franciszka Themerson, Stefan Themerson<br>
+Poland 1931<br>
+12 mins<br>
+
+**ADVENTURES OF A GOOD CITIZEN**<br>
+_Directors:_ Franciszka Themerson, Stefan Themerson<br>
+Poland 1937<br>
+9 mins<br>
+
+**CALLING MR SMITH**<br>
+_Director_: Franciszka Themerson  
+_Production Companies_: Concanen Productions, Polish Film Unit  
+_Producer_: E. Cekalski  
+_Dialogue_: Bruce Graeme  
+_Director of Photography_: Stefan Themerson  
+_Photography_: Franciszka Themerson, Stefan Themerson  
+_Editors_: Franciszka Themerson, Stefan Themerson<br>
+UK 1943<br>
+9 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5NDkyNzgzXX0=
+eyJoaXN0b3J5IjpbNTAwOTQxOTgwXX0=
 -->
