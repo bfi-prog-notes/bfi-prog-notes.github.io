@@ -107,17 +107,17 @@ _Head Wrangler_: Lee Phillips<br>
 _Crow Wrangler_: Richard ‘Butch’ Hughes<br>
 
 **Cast**<br>
-Sean CW Johnson _(Matt)_
-Kris Lemche _(Rex)_
-Stephen O’Reilly _(Danny)_
-Laura Regan _(Emma)_
-Jennifer Sky _(Charlie)_
-Bradley Cooper _(Travis Patterson)_
+Sean CW Johnson _(Matt)_<br>
+Kris Lemche _(Rex)_<br>
+Stephen O’Reilly _(Danny)_<br>
+Laura Regan _(Emma)_<br>
+Jennifer Sky _(Charlie)_<br>
+Bradley Cooper _(Travis Patterson)_<br>
 Nick Mennell _(the cop)_<br>
 
 UK-USA-France-Canada 2002<br>
 95 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc0Nzc2NTYsNTQ0ODU3NDY4LC05OT
-gwMzU5ODgsMTc4MzkzMTMyNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNTczMjAxMTAwLDU0NDg1NzQ2OCwtOTk4MD
+M1OTg4LDE3ODM5MzEzMjYsNzMwOTk4MTE2XX0=
 -->
