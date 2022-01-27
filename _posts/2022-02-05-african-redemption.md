@@ -32,62 +32,44 @@ I’m just so thankful to everyone who came together to make this film possible.
 Roy T. Anderson is writer, director and producer of the award-winning films _Akwantu: the Journey_ (2012), on the history of the Jamaican Maroons; and _Queen Nanny: Legendary Maroon Chieftainess_ (2015), his sophomore film which expands on the story of the New World’s first successful freedom fighters, by shedding light on one of the leading figures in that struggle – Nanny of the Maroons.
 
 Roy is a veteran movie and television stuntman/stunt co-ordinator. During his stellar career he’s performed stunts for Hollywood stars like Will Smith, Denzel Washington, Jamie Foxx and Morgan Freeman, to name a few; accumulating more than 400 production credits in the process, working on such hits as  
-_Men in Black 3_, _The Dark Knight Rises_, _Spiderman 2_, _The Bourne Ultimatum_, _American_ _Gangster_, _The Wolf of Wall Street_; and top rated TV series _Blue Bloods_, _Person of Interest_, _Elementary_ and _Gotham_. While continuing stunt work, Anderson aims to bring more under-represented stories to the cinematic landscape through his New Jersey-based production company, Action 4 Reel Filmworks.
-
-Production notes
-
-<![endif]-->
+_Men in Black 3_, _The Dark Knight Rises_, _Spiderman 2_, _The Bourne Ultimatum_, _American_ _Gangster_, _The Wolf of Wall Street_; and top rated TV series _Blue Bloods_, _Person of Interest_, _Elementary_ and _Gotham_. While continuing stunt work, Anderson aims to bring more under-represented stories to the cinematic landscape through his New Jersey-based production company, Action 4 Reel Filmworks.  
+**Production notes**
+<br><br>
 
 **AFRICAN REDEMPTION:  
-THE LIFE AND LEGACY OF MARCUS GARVEY**
+THE LIFE AND LEGACY OF MARCUS GARVEY**<br>
+_Director/Producer/Writer:_ Roy T. Anderson<br>
+_Producer/Narrator:_ Keith David<br>
+_Producer:_ Alison G. Anderson<br>
+_Co-producer:_ Natalie Thompson<br>
+_Associate Producers:_ Dario Bigi, Rolando Gori, David Hinds, Osei Rubie<br>
+_Director of Photography:_ Jahsen Levy<br>
+_Composer:_ Rolando Gori<br>
 
-_Director/Producer/Writer:_ Roy T. Anderson
+**Cast**<br>
+Paul H. Williams _(Marcus Garvey)_<br>
+Charl Baker _(Amy Jacques Garvey)_<br>
+Nardia Scott _(Amy Ashwood)_<br>
+Taje Arnold _(Marcus Garvey 19-22)_<br>
+Sekai Macauley _(Marcus Garvey 13-18)_<br>
+Shavar Haynes _(Marcus Garvey Jr)_<br>
+Zenith Picknight _(Julius Garvey)_<br>
+Vivian Crawford _(Malcus Garvey)_<br>
+Diane Prince _(Sarah Garvey)_<br>
+Seana’Kaye Wright _(Indianna Garvey)_<br>
+Bertina Macauley _(Daisy White)_<br>
+Seya Henzell _(Marcus Garvey’s white playmate)_<br>
+Edward Barbar _(Alfred E. Burrowes)_<br>
 
-_Producer/Narrator:_ Keith David
-
-_Producer:_ Alison G. Anderson
-
-_Co-producer:_ Natalie Thompson
-
-_Associate Producers:_ Dario Bigi, Rolando Gori, David Hinds, Osei Rubie
-
-_Director of Photography:_ Jahsen Levy
-
-_Composer:_ Rolando Gori
-
-_Cast:_
-
-Paul H. Williams _(Marcus Garvey)_
-
-Charl Baker _(Amy Jacques Garvey)_
-
-Nardia Scott _(Amy Ashwood)_
-
-Taje Arnold _(Marcus Garvey 19-22)_
-
-Sekai Macauley _(Marcus Garvey 13-18)_
-
-Shavar Haynes _(Marcus Garvey Jr)_
-
-Zenith Picknight _(Julius Garvey)_
-
-Vivian Crawford _(Malcus Garvey)_
-
-Diane Prince _(Sarah Garvey)_
-
-Seana’Kaye Wright _(Indianna Garvey)_
-
-Bertina Macauley _(Daisy White)_
-
-Seya Henzell _(Marcus Garvey’s white playmate)_
-
-Edward Barbar _(Alfred E. Burrowes)_
-
-USA 2021
-
+USA 2021<br>
 85 mins
 
-In collaboration with KOL Social
+In collaboration with KOL Social<br>
+<br>
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODY2NzcyOF19
+eyJoaXN0b3J5IjpbLTEyNDY1OTk3MjFdfQ==
 -->
