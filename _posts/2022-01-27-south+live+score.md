@@ -1,9 +1,6 @@
 
-<![endif]-->
-
-In 2022 we mark the centenary of the death of Sir Ernest Shackleton, which traditionally signalled the end of the ‘heroic age’ of Antarctic exploration. A record of one of the greatest survival stories in the history of exploration, _South_ is the original film – exquisitely photographed by Frank Hurley – of Shackleton’s 1914-16 Endurance expedition to Antarctica, during which the ship was crushed by ice, stranding the crew. Brought to the epic IMAX screen, _South_ has been digitally remastered from the BFI National Archive’s restoration in its original colours with a newly commissioned score by Neil Brand, performed by the Covent Garden Sinfonia, conducted by Ben Palmer.
-
-**bfi.org.uk**
+In 2022 we mark the centenary of the death of Sir Ernest Shackleton, which traditionally signalled the end of the ‘heroic age’ of Antarctic exploration. A record of one of the greatest survival stories in the history of exploration, _South_ is the original film – exquisitely photographed by Frank Hurley – of Shackleton’s 1914-16 Endurance expedition to Antarctica, during which the ship was crushed by ice, stranding the crew. Brought to the epic IMAX screen, _South_ has been digitally remastered from the BFI National Archive’s restoration in its original colours with a newly commissioned score by Neil Brand, performed by the Covent Garden Sinfonia, conducted by Ben Palmer.<br>
+**bfi.org.uk**<br>
 
 Photographed by Frank Hurley, _South_ is the film record of Sir Ernest Shackleton’s heroic but ill-starred attempt to cross Antarctica in 1914-16.  
 It is both a unique historical document, and a tribute to the indomitable courage of a small party of men who set out on a voyage of discovery that turned into an epic struggle for survival.
@@ -13,8 +10,7 @@ He also went back to South Georgia to re-film the wildlife, footage that had not
 
 Shackleton was restless for another adventure, but had no funds and still owed money to financers of the expedition. In 1919, he launched himself onto the lecture circuit to raise money. He showed Hurley’s film, _South_, and projected glass slides of his photographs, while lecturing the story to the audience. [Hurley’s film was thereafter shown in various forms as both a lecture film and a conventional theatrical release abroad, including in Hurley’s native Australia, where it was released as _In the Grip of Polar Ice_ in 1920.] He had also published his book of the story, _South_, and was being interviewed for various newspapers and magazines.
 
-In 1933 a film with sound was released called _Endurance: The Story of a Glorious Failure_. It was _South_ re-edited, with commentary by Worsley, _Endurance_’s captain. It also contained film of Shackleton’s last expedition on the ship Quest. Shackleton died on Quest, from a heart attack in 1922,  
-aged 47.
+In 1933 a film with sound was released called _Endurance: The Story of a Glorious Failure_. It was _South_ re-edited, with commentary by Worsley, _Endurance_’s captain. It also contained film of Shackleton’s last expedition on the ship Quest. Shackleton died on Quest, from a heart attack in 1922,  aged 47.
 
 **Frank Hurley**<br>
 Photographer Frank Hurley (1885-1962) first made his name on Douglas Mawson’s Australasian Antarctic expedition in 1911-13. His stills and documentary film _Home of the Blizzard_ (1913) secured his position as Shackleton’s photographer.
@@ -40,6 +36,25 @@ Hurley used film stock with a specific mark dating from 1913-14 when he was film
 
 Many of the copies examined had been tinted and/or toned to give them colour. There were versions in blue, green and amber. The tinting and toning processes were authentically recreated to colour the restored version of _South_.<br>
 **bfi.org.uk**<br>
+
+**SOUTH**<br>
+_Production Company:_ Imperial Trans-Antarctic Film Syndicate  
+_Director of Photography:_ Frank Hurley  
+_Restoration [1998]:_ National Film and Television Archive<br>
+
+**With**<br>
+Ernest Shackleton _(expedition leader)_  
+F.A. Worsley _(captain of ‘Endurance’)_  
+J. Stenhouse _(captain of the ‘Aurora’)_  
+L. Hussey _(meterologist)_  
+Dr McIlroy, Mr. Wordie _(scientific staff)_  
+Dr Macklin _(doctor)_  
+Frank Wild _(second in command of the ‘Endurance’)_  
+Tom Crean, Mr. James, Mr. Clark, Mr. Greenstreet _(crewmen)_  
+Frank Hurley _(photographer)_<br>
+
+UK 1919<br>
+81 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTgxMDQxNl19
+eyJoaXN0b3J5IjpbLTE0MzgyNTk3MzZdfQ==
 -->
