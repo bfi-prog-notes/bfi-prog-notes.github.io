@@ -35,44 +35,27 @@ The Contenders_ or _Battle Royale_ is that they don’t exist in the real world.
 
 
 **MY LITTLE EYE**
-
-_Directed by__:_ Marc Evans
-
-_©__:_WT Venture LLC
-
+_Directed by_: Marc Evans
+_©_: WT Venture LLC
 _Presented by:_ Universal Pictures, StudioCanal, Working Title Films
-
 _A_ WT² _production_
-
 _Produced with the assistance of:_ Nova Scotia Film Industry Tax Credit
-
 _Executive Producers_: Tim Bevan, Eric Fellner, Natascha Wharton
-
 _Co-executive Producer__:_ Christopher Zimmer
 
 _Producers__:_ Jon Finn, Jane Villiers, David Hilton, Alan Greenspan
 
-_Chief Operating Officer for WT/WT²__:_ Angela Morrison
-
-_Head of Production for WT/WT²__:_ Michelle Wright
-
-_Production Executive for WT/WT²__:_ Sarah-Jane Wright
-
-_Head of Legal/Business Affairs for WT/WT²__:_ Sara Curran
-
-_VP Legal/Business Affairs for WT/WT²__:_ Sheeraz Shah
-
-_Chief Financial Officer for WT/WT²__:_ Shefali Ghosh
-
-_Story Editor for WT/WT²__:_ Rachael Prior
-
-_Assistant to Natascha Wharton for WT/WT²__:_ Hannah Farrell
-
-_Production Manager__:_ Margaret Harrison
-
-_WT² Co-ordinator__:_ Amanda Boyle
-
-_Production Co-ordinator__:_ Adele MacDonald
+_Chief Operating Officer for WT/WT²_: Angela Morrison
+_Head of Production for WT/WT²_: Michelle Wright
+_Production Executive for WT/WT²_: Sarah-Jane Wright
+_Head of Legal/Business Affairs for WT/WT²_: Sara Curran
+_VP Legal/Business Affairs for WT/WT²_: Sheeraz Shah
+_Chief Financial Officer for WT/WT²_: Shefali Ghosh
+_Story Editor for WT/WT²_: Rachael Prior
+_Assistant to Natascha Wharton for WT/WT²_: Hannah Farrell
+_Production Manager_: Margaret Harrison
+_WT² Co-ordinator_: Amanda Boyle
+_Production Co-ordinator_: Adele MacDonald
 
 _Location Manager__:_ Scott Simpson
 
@@ -196,5 +179,5 @@ UK-USA-France-Canada 2002
 
 95 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzE4MjU0NDQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMzM0NTg0NDA4LDczMDk5ODExNl19
 -->
