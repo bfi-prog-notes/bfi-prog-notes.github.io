@@ -76,40 +76,23 @@ _Editor_: Marguerite Arnold
 _Production Designer_: Crispian Sallis
 _Art Director_: Laura Macnutt
 _Draftsman_: Peter Child
-_Key Scenics__:_ Kelly Chamberlain, Tony Owen
-
-_Storyboard Artist__:_ David Cullen
-
-_Costume Designer__:_ Kate Rose
-
-_[Costume] Set Supervisor__:_ Jim Worthen
-
-_Key Make-up__:_ Cathleen O’Connell
-
-_Key Hair__:_ Barbi Hollota
-
-_Titles Designed by__:_ Mark Coleran
-
-_Digital Film Lab Tape to Film__:_ Duboicolor
-
-_[Duboicolor] Production Manager__:_ Tommaso Vergallo
-
-_[Duboicolor] Executive Producer__:_ Antoine Simkine
-
-_Music by__:_ bias
-
-_Music Written, Mixed and Recorded by__:_ Flood, Alan Moulder, Rob Kirwan
-
-_Music Supervisor__:_ Nick Angel
-
-_Music Editor__:_ Mike Higham
-
-_5./1 Music Mixes by__:_ Andy Richards
-
-_Sound Recordist__:_ Jim Rillie
-
-_Recordist__:_ Lyle Scott-Darling
-
+_Key Scenics_: Kelly Chamberlain, Tony Owen
+_Storyboard Artist_: David Cullen
+_Costume Designer_: Kate Rose
+_[Costume] Set Supervisor_: Jim Worthen
+_Key Make-up_: Cathleen O’Connell
+_Key Hair_: Barbi Hollota
+_Titles Designed by_: Mark Coleran
+_Digital Film Lab Tape to Film_: Duboicolor
+_[Duboicolor] Production Manager_: Tommaso Vergallo
+_[Duboicolor] Executive Producer_: Antoine Simkine
+_Music by_: bias
+_Music Written, Mixed and Recorded by_: Flood, Alan Moulder, Rob Kirwan
+_Music Supervisor_: Nick Angel
+_Music Editor_: Mike Higham
+_5./1 Music Mixes by_: Andy Richards
+_Sound Recordist_: Jim Rillie
+_Recordist_: Lyle Scott-Darling
 _Re-recording Mixers__:_ Ray Merrin, Graham Daniel, Adam Daniel
 
 _Supervising Sound Editor__:_Glenn Freemantle
@@ -154,6 +137,6 @@ UK-USA-France-Canada 2002
 
 95 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDc3NTc4LDU0NDg1NzQ2OCwtOTk4MD
-M1OTg4LDE3ODM5MzEzMjYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMzM2MDY2NjYsNTQ0ODU3NDY4LC05OTgwMz
+U5ODgsMTc4MzkzMTMyNiw3MzA5OTgxMTZdfQ==
 -->
