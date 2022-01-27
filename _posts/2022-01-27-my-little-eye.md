@@ -43,67 +43,67 @@ _Produced with the assistance of:_ Nova Scotia Film Industry Tax Credit<br>
 _Executive Producers_: Tim Bevan, Eric Fellner, Natascha Wharton<br>
 _Co-executive Producer_: Christopher Zimmer<br>
 _Producers_:  Jon Finn, Jane Villiers, David Hilton, Alan Greenspan<br>
-_Chief Operating Officer for WT/WT²_: Angela Morrison
-_Head of Production for WT/WT²_: Michelle Wright
-_Production Executive for WT/WT²_: Sarah-Jane Wright
-_Head of Legal/Business Affairs for WT/WT²_: Sara Curran
-_VP Legal/Business Affairs for WT/WT²_: Sheeraz Shah
-_Chief Financial Officer for WT/WT²_: Shefali Ghosh
-_Story Editor for WT/WT²_: Rachael Prior
-_Assistant to Natascha Wharton for WT/WT²_: Hannah Farrell
-_Production Manager_: Margaret Harrison
-_WT² Co-ordinator_: Amanda Boyle
-_Production Co-ordinator_: Adele MacDonald
-_Location Manager_: Scott Simpson
-_Post-production Supervisor_: Deborah Harding
-_1st Assistant Director_: Stuart Renfrew
-_2nd Assistant Director_: Kevin J. Walker
-_3rd Assistant Director_: Evan Kelly
-_Script Supervisor_: Maggie Thomas
-_Casting_: Billy Hopkins, Suzanne Smith, Kerry Barden, Mark Bennett
-_Casting (LA Associate)_: Deborah Maxwell Dion
-_Casting (Toronto Associate)_: Diane Kerbel
-_Casting (Halifax Associate)_: Sheila Lane
-_Screenplay by_: David Hilton, James Watkins
-_Story by_:  David Hilton
-_Director of Photography_: Hubert Taczanowski
-_Camera Operator_: Warren Jefferies
-_Visual Effects by_: Double Negative, Matthew Holben, Mark Coleran, Matthew Shaw
-_SFX Supervisor_: John Laforet
-_SFX Technicians_: Mark Ahee, Darcy Callaghan, Michael Gagnon
-_Model Maker_: Nicki Bayard
-_Editor_: Marguerite Arnold
-_Production Designer_: Crispian Sallis
-_Art Director_: Laura Macnutt
-_Draftsman_: Peter Child
-_Key Scenics_: Kelly Chamberlain, Tony Owen
-_Storyboard Artist_: David Cullen
-_Costume Designer_: Kate Rose
-_[Costume] Set Supervisor_: Jim Worthen
-_Key Make-up_: Cathleen O’Connell
-_Key Hair_: Barbi Hollota
-_Titles Designed by_: Mark Coleran
-_Digital Film Lab Tape to Film_: Duboicolor
-_[Duboicolor] Production Manager_: Tommaso Vergallo
-_[Duboicolor] Executive Producer_: Antoine Simkine
-_Music by_: bias
-_Music Written, Mixed and Recorded by_: Flood, Alan Moulder, Rob Kirwan
-_Music Supervisor_: Nick Angel
-_Music Editor_: Mike Higham
-_5./1 Music Mixes by_: Andy Richards
-_Sound Recordist_: Jim Rillie
-_Recordist_: Lyle Scott-Darling
-_Re-recording Mixers_: Ray Merrin, Graham Daniel, Adam Daniel
-_Supervising Sound Editor_: Glenn Freemantle
-_Dialogue Editor_: Gillian Dodders
-_Sound Effects Editor_: Mark Heslop
-_ADR (NY Mixer)_: Bill Higley
-_ADR (LA Mixer)_: Matt Beville
-_Foley Artists_: Felicity Cottrell, Ruth Sullivan
-_Foley Mixer_: Kevin Tayler
-_Foley Editor_: Grahame Peters
-_Stunt Co-ordinators:_ Branko Racki, Randy Boliver
-_Head Wrangler_: Lee Phillips
+_Chief Operating Officer for WT/WT²_: Angela Morrison<br>
+_Head of Production for WT/WT²_: Michelle Wright<br>
+_Production Executive for WT/WT²_: Sarah-Jane Wright<br>
+_Head of Legal/Business Affairs for WT/WT²_: Sara Curran<br>
+_VP Legal/Business Affairs for WT/WT²_: Sheeraz Shah<br>
+_Chief Financial Officer for WT/WT²_: Shefali Ghosh<br>
+_Story Editor for WT/WT²_: Rachael Prior<br>
+_Assistant to Natascha Wharton for WT/WT²_: Hannah Farrell<br>
+_Production Manager_: Margaret Harrison<br>
+_WT² Co-ordinator_: Amanda Boyle<br>
+_Production Co-ordinator_: Adele MacDonald<br>
+_Location Manager_: Scott Simpson<br>
+_Post-production Supervisor_: Deborah Harding<br>
+_1st Assistant Director_: Stuart Renfrew<br>
+_2nd Assistant Director_: Kevin J. Walker<br>
+_3rd Assistant Director_: Evan Kelly<br>
+_Script Supervisor_: Maggie Thomas<br>
+_Casting_: Billy Hopkins, Suzanne Smith, Kerry Barden, Mark Bennett<br>
+_Casting (LA Associate)_: Deborah Maxwell Dion<br>
+_Casting (Toronto Associate)_: Diane Kerbel<br>
+_Casting (Halifax Associate)_: Sheila Lane<br>
+_Screenplay by_: David Hilton, James Watkins<br>
+_Story by_:  David Hilton<br>
+_Director of Photography_: Hubert Taczanowski<br>
+_Camera Operator_: Warren Jefferies<br>
+_Visual Effects by_: Double Negative, Matthew Holben, Mark Coleran, Matthew Shaw<br>
+_SFX Supervisor_: John Laforet<br>
+_SFX Technicians_: Mark Ahee, Darcy Callaghan, Michael Gagnon<br>
+_Model Maker_: Nicki Bayard<br>
+_Editor_: Marguerite Arnold<br>
+_Production Designer_: Crispian Sallis<br>
+_Art Director_: Laura Macnutt<br>
+_Draftsman_: Peter Child<br>
+_Key Scenics_: Kelly Chamberlain, Tony Owen<br>
+_Storyboard Artist_: David Cullen<br>
+_Costume Designer_: Kate Rose<br>
+_[Costume] Set Supervisor_: Jim Worthen<br>
+_Key Make-up_: Cathleen O’Connell<br>
+_Key Hair_: Barbi Hollota<br>
+_Titles Designed by_: Mark Coleran<br>
+_Digital Film Lab Tape to Film_: Duboicolor<br>
+_[Duboicolor] Production Manager_: Tommaso Vergallo<br>
+_[Duboicolor] Executive Producer_: Antoine Simkine<br>
+_Music by_: bias<br>
+_Music Written, Mixed and Recorded by_: Flood, Alan Moulder, Rob Kirwan<br>
+_Music Supervisor_: Nick Angel<br>
+_Music Editor_: Mike Higham<br>
+_5./1 Music Mixes by_: Andy Richards<br>
+_Sound Recordist_: Jim Rillie<br>
+_Recordist_: Lyle Scott-Darling<br>
+_Re-recording Mixers_: Ray Merrin, Graham Daniel, Adam Daniel<br>
+_Supervising Sound Editor_: Glenn Freemantle<br>
+_Dialogue Editor_: Gillian Dodders<br>
+_Sound Effects Editor_: Mark Heslop<br>
+_ADR (NY Mixer)_: Bill Higley<br>
+_ADR (LA Mixer)_: Matt Beville<br>
+_Foley Artists_: Felicity Cottrell, Ruth Sullivan<br>
+_Foley Mixer_: Kevin Tayler<br>
+_Foley Editor_: Grahame Peters<br>
+_Stunt Co-ordinators:_ Branko Racki, Randy Boliver<br>
+_Head Wrangler_: Lee Phillips<br>
 _Crow Wrangler_: Richard ‘Butch’ Hughes<br>
 
 **Cast**<br>
@@ -118,6 +118,6 @@ Nick Mennell _(the cop)_<br>
 UK-USA-France-Canada 2002<br>
 95 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzI4OTQyLDU0NDg1NzQ2OCwtOTk4MD
-M1OTg4LDE3ODM5MzEzMjYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEyNjc0Nzc2NTYsNTQ0ODU3NDY4LC05OT
+gwMzU5ODgsMTc4MzkzMTMyNiw3MzA5OTgxMTZdfQ==
 -->
