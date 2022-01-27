@@ -34,14 +34,10 @@ We pursued a number of different questions and they led us to those particular e
 
 **YOUNG SOUL REBELS**  
 _Director_: Isaac Julien  
-_Production Companies_:  
-British Film Institute Production Board,  
-Sankofa Film and Video  
+_Production Companies_:  British Film Institute Production Board,  Sankofa Film and Video  
 _In association with_: La Sept  
 _Production Companies_: Film Four International, Kinowelt Filmverleih, IberoAmericana Films  
-_Executive Producers_: Colin MacCabe,
-
-Ben Gibson  
+_Executive Producers_: Colin MacCabe, Ben Gibson  
 _Producer_: Nadine Marsh-Edwards  
 _Production Executive_: Angela Topping  
 _Production Manager_: Joanna Beresford  
@@ -50,15 +46,12 @@ _Location Manager_: Michael Kelk
 _Post-production Co-ordinator_: Eliza Mellor  
 _Technical Supervisor_: Andy Powell  
 _Assistant Directors_: Ian Ferguson, Peter Heslop, Stephen Robinson, Ian Hickinbotham, Bill Rudgard  
-_2nd Unit Assistant Directors_: Jonny Kurzman,  
-John Withers  
+_2nd Unit Assistant Directors_: Jonny Kurzman,  John Withers  
 _Assistant Director (2nd Unit)_: Steve Millson  
 _Casting_: Gilly Poole, Suzanne Crowley  
-_Screenplay_: Paul Hallam,  
-Derrick Saldaan McClintock, Isaac Julien  
+_Screenplay_: Paul Hallam,  Derrick Saldaan McClintock, Isaac Julien  
 _Director of Photography_: Nina Kellgren  
-_2nd Unit Photographers_: Steve Tickner,  
-Mike Metcalfe  
+_2nd Unit Photographers_: Steve Tickner,  Mike Metcalfe  
 _Camera/Steadicam Operator_: Andy Shuttleworth  
 _Special Effects_: Any Effects  
 _Special Effects Supervisor_: Tom Harris  
@@ -76,8 +69,7 @@ _Make-up Artist_: Yvonne Coppard
 _Titles_: Neville Brody, Frameline  
 _Opticals_: Studio 51  
 _Music_: Simon Boswell  
-_Music Supervisors_: Bonnie Greenberg,  
-Ian P. Hierons, Jill Meyers  
+_Music Supervisors_: Bonnie Greenberg,  Ian P. Hierons, Jill Meyers  
 _Choreography_: Foster George  
 _Sound Recordists_: Ronald Bailey, Martine Couche  
 _Sound Re-recording_: Aad Wirtz  
@@ -87,7 +79,8 @@ _Additional Sound Effects_: Steve Farrer, Nigel Heath, Simon Fisher Turner, Marv
 _ADR Editor_: Shirley Shaw  
 _Foley Artist_: Jack Stew  
 _Stunt Co-ordinator_: Clive Curtis  
-_Cast:_  
+
+**Cast**
 Valentine Nonyela _(Chris)_  
 Mo Sesay _(Caz)_  
 Dorian Healy _(Ken)_  
@@ -109,7 +102,7 @@ Mike Mungarvan _(policeman)_
 Sayan Akaddas _(Asian punk girl)_  
 Shyro Chung _(TJ)_  
 Adam Price _(bouncer)_  
-Michael Mascoll_,_ Freddie Brooks _(soul boys)_  
+Michael Mascoll, Freddie Brooks _(soul boys)_  
 Rodreguez King-Dorset _(Irvine)_  
 Lloyd Anderson _(barber)_  
 Adam Stuatt, Astley Harvey _(men in barber shop)_  
@@ -120,11 +113,11 @@ Joan Harsant _(blue rinse woman)_
 Verona Marshall _(Trish’s friend)_  
 Frankie Palma _(Trish’s friend)_
 
-UK/France/Germany/Spain 1991
-
+UK/France/Germany/Spain 1991  
 100 mins
 
 The screening on Wed 2 Feb will be introduced by BFI Race Equality Lead Rico Johnson-Sinclair
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxMTI5Mjc0XX0=
+eyJoaXN0b3J5IjpbMTM2NTgzNDI3Nl19
 -->
