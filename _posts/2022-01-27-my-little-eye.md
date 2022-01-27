@@ -34,15 +34,15 @@ The Contenders_ or _Battle Royale_ is that they don’t exist in the real world.
 **Kim Newman, _Sight & Sound_, October 2002**<br>
 
 
-**MY LITTLE EYE**
-_Directed by_: Marc Evans
-_©_: WT Venture LLC
-_Presented by:_ Universal Pictures, StudioCanal, Working Title Films
-_A_ WT² _production_
-_Produced with the assistance of:_ Nova Scotia Film Industry Tax Credit
-_Executive Producers_: Tim Bevan, Eric Fellner, Natascha Wharton
-_Co-executive Producer_: Christopher Zimmer
-_Producers_:  Jon Finn, Jane Villiers, David Hilton, Alan Greenspan
+**MY LITTLE EYE**<br>
+_Directed by_: Marc Evans<br>
+_©_: WT Venture LLC<br>
+_Presented by:_ Universal Pictures, StudioCanal, Working Title Films<br>
+_A_ WT² _production_<br>
+_Produced with the assistance of:_ Nova Scotia Film Industry Tax Credit<br>
+_Executive Producers_: Tim Bevan, Eric Fellner, Natascha Wharton<br>
+_Co-executive Producer_: Christopher Zimmer<br>
+_Producers_:  Jon Finn, Jane Villiers, David Hilton, Alan Greenspan<br>
 _Chief Operating Officer for WT/WT²_: Angela Morrison
 _Head of Production for WT/WT²_: Michelle Wright
 _Production Executive for WT/WT²_: Sarah-Jane Wright
@@ -93,50 +93,31 @@ _Music Editor_: Mike Higham
 _5./1 Music Mixes by_: Andy Richards
 _Sound Recordist_: Jim Rillie
 _Recordist_: Lyle Scott-Darling
-_Re-recording Mixers__:_ Ray Merrin, Graham Daniel, Adam Daniel
-
-_Supervising Sound Editor__:_Glenn Freemantle
-
-_Dialogue Editor__:_ Gillian Dodders
-
-_Sound Effects Editor__:_ Mark Heslop
-
-_ADR (NY Mixer)__:_ Bill Higley
-
-_ADR (LA Mixer)__:_ Matt Beville
-
-_Foley Artists__:_ Felicity Cottrell, Ruth Sullivan
-
+_Re-recording Mixers_: Ray Merrin, Graham Daniel, Adam Daniel
+_Supervising Sound Editor_: Glenn Freemantle
+_Dialogue Editor_: Gillian Dodders
+_Sound Effects Editor_: Mark Heslop
+_ADR (NY Mixer)_: Bill Higley
+_ADR (LA Mixer)_: Matt Beville
+_Foley Artists_: Felicity Cottrell, Ruth Sullivan
 _Foley Mixer_: Kevin Tayler
-
 _Foley Editor_: Grahame Peters
+_Stunt Co-ordinators:_ Branko Racki, Randy Boliver
+_Head Wrangler_: Lee Phillips
+_Crow Wrangler_: Richard ‘Butch’ Hughes<br>
 
-_Stunt Co-ordinator__s:_ Branko Racki, Randy Boliver
-
-_Head Wrangler__:_ Lee Phillips
-
-_Crow Wrangler__:_ Richard ‘Butch’ Hughes
-
-**Cast**
-
+**Cast**<br>
 Sean CW Johnson _(Matt)_
-
 Kris Lemche _(Rex)_
-
 Stephen O’Reilly _(Danny)_
-
 Laura Regan _(Emma)_
-
 Jennifer Sky _(Charlie)_
-
 Bradley Cooper _(Travis Patterson)_
+Nick Mennell _(the cop)_<br>
 
-Nick Mennell _(the cop)_
-
-UK-USA-France-Canada 2002
-
-95 mins
+UK-USA-France-Canada 2002<br>
+95 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2MDY2NjYsNTQ0ODU3NDY4LC05OTgwMz
-U5ODgsMTc4MzkzMTMyNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTcyNzI4OTQyLDU0NDg1NzQ2OCwtOTk4MD
+M1OTg4LDE3ODM5MzEzMjYsNzMwOTk4MTE2XX0=
 -->
