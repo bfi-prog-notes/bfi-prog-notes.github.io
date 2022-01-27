@@ -90,32 +90,19 @@ Mon 28 Feb 20:20<br>
 Sun 6 Feb 15:30<br>
 **Projecting the Archive:  Jury’s Evidence + intro by writer Ming Ho**<br>
 Tue 8 Feb 18:30<br>
-
 **BFI Future Film Festival**<br>
-
 17-20 Feb<br>
-
-**Seniors’ Free Matinee: The Night of the Hunter  
-+ intro by BFI programmer David Somerset**<br>
-
+**Seniors’ Free Matinee: The Night of the Hunter  + intro by BFI programmer David Somerset**<br>
 Mon 21 Feb 14:00<br>
-
-**Member Picks:  
-Close Encounters of the Third Kind**<br>
-
+**Member Picks:  Close Encounters of the Third Kind**<br>
 Wed 23 Feb 17:50<br>
-
 **Terror Vision: The People under the Stairs**<br>
-
 Thu 24 Feb 20:40<br>
-
-**Relaxed Screening:  
-Keep the Change + discussion**<br>
-
+**Relaxed Screening:  Keep the Change + discussion**<br>
 Mon 28 Feb 20:10<br>
 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI5Nzk0ODhdfQ==
+eyJoaXN0b3J5IjpbNDM5NjkzMzA2XX0=
 -->
