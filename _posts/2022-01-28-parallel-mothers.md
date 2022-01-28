@@ -1,3 +1,14 @@
+---
+layout: post
+title: Parallel Mothers 
+published: true
+date: 2022-01-28
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'Spain/France/USA 2021, 123 mins<br> Director: Pedro Almodóvar'
+pdf: '2022-01-28-parallel-mothers.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -148,6 +159,20 @@ From Fri 28 Jan<br>
 From Fri 28 Jan<br>
 **Jules et Jim (Jules and Jim)**<br>
 From Fri 4 Feb<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTYxNzQxODhdfQ==
--->
+<br>
+
+**BECOME A BFI MEMBER**<br>
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at **[bfi.org.uk/join](https://www.bfi.org.uk/become-bfi-member)**
+
+**BFI SOUTHBANK**<br>
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.<br>
+We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.
+
+**BFI PLAYER**<br>
+We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on **[player.bfi.org.uk](https://player.bfi.org.uk/)**
+
+**Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at **[www.bfi.org.uk/signup](https://player.bfi.org.uk/)**
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
