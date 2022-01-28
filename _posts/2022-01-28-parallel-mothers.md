@@ -27,10 +27,7 @@ Afterwards I became aware of how it had all happened. Virginia, the second assis
 These things happen at times on shoots.<br>
 **Production notes**<br>
 
-<![endif]-->
-
-**PARALLEL MOTHERS (MADRES PARALELAS)**
-
+**PARALLEL MOTHERS (MADRES PARALELAS)**<br>
 _Direction/A film by_: Pedro Almodóvar  
 _©_: Remotamente Films AIE, El Deseo DASLU  
 _Production Companies_: Remotamente Films AIE, El Deseo DA  
@@ -47,9 +44,7 @@ _Production Manager_: César Pardiñas
 _Production Supervisor_: Federico Rozadillas  
 _Production Co-ordinator_: Covadonga R. Gamboa  
 _Location Manager_: Eduardo García  
-_Post-production Supervisor (Deluxe Content Services España)_:
-
-Noelia Gorrón Álvarez  
+_Post-production Supervisor (Deluxe Content Services España)_: Noelia Gorrón Álvarez  
 _Post-production Co-ordinator_: Inma Fernández-Montes  
 _1st Assistant Director_: Manu Calvo  
 _Script Supervisor_: Yuyi Beringola  
@@ -78,9 +73,7 @@ _Hair Stylist_: Pablo Morillas
 _Music/Music Composed by_: Alberto Iglesias  
 _Music Conducted by_: James Shearman  
 _Music Orchestrated by_: Alberto Iglesias  
-_Music Recordist/Mixer_: José Luis Crespo
-<![endif]-->
-
+_Music Recordist/Mixer_: José Luis Crespo<br>
 _Music Recording Engineer_: Fiona Cruickshank  
 _London Recording Studio_: Air Studios  
 _Madrid Recording Studio_: Small Room  
@@ -91,7 +84,7 @@ _Dialogue Editors_: Anna Harrington, Alejandro López
 _Sound Effects Editor_: Oriol Donat i Martos  
 _Foley Artist_: Marta Monistrol  
 _Foley Recordist_: Xavi Pons  
-_COVID Coordinator_: Covadonga R. Gamboa
+_COVID Coordinator_: Covadonga R. Gamboa<br>
 
 **Cast**  
 Penélope Cruz _(Janis)_  
@@ -126,7 +119,24 @@ Eira Rey Enríquez<br>
 Spain/France/USA 2021<br>
 123 mins<br>
 
-A Pathé release
+A Pathé release<br>
+<br>
+
+**NEW RELEASES**<br>
+**Boiling Point**<br>
+From Fri 7 Jan<br>
+**Licorice Pizza**<br>
+From Thu 13 Jan
+**Memoria**
+From Fri 14 Jan
+**Parallel Mothers (Madres paralelas)**
+From Fri 28 Jan
+**The Souvenir Part II**
+From Fri 18 Feb
+**Flee**
+From Fri 18 Feb
+**La Mif (The Fam)**
+From Fri 25 Feb
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzUxMDczNl19
+eyJoaXN0b3J5IjpbLTE1MDcxMjc4NzhdfQ==
 -->
