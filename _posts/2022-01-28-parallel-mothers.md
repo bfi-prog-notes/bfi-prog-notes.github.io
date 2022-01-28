@@ -126,17 +126,28 @@ A Pathé release<br>
 **Boiling Point**<br>
 From Fri 7 Jan<br>
 **Licorice Pizza**<br>
-From Thu 13 Jan
-**Memoria**
-From Fri 14 Jan
-**Parallel Mothers (Madres paralelas)**
-From Fri 28 Jan
-**The Souvenir Part II**
-From Fri 18 Feb
-**Flee**
-From Fri 18 Feb
-**La Mif (The Fam)**
-From Fri 25 Feb
+From Thu 13 Jan<br>
+**Memoria**<br>
+From Fri 14 Jan<br>
+**Parallel Mothers (Madres paralelas)**<br>
+From Fri 28 Jan<br>
+**The Souvenir Part II**<br>
+From Fri 18 Feb<br>
+**Flee**<br>
+From Fri 18 Feb<br>
+**La Mif (The Fam)**<br>
+From Fri 25 Feb<br>
+
+
+**RE-RELEASES**<br>
+**The 400 Blows (Les Quatre cents coups)**<br>
+From Fri 7 Jan<br>
+**South: Sir Ernest Shackleton’s Glorious Epic of the Antarctic**<br>
+From Fri 28 Jan<br>
+**South: Sir Ernest Shackleton’s Glorious Epic of the Antarctic**<br>
+From Fri 28 Jan<br>
+**Jules et Jim (Jules and Jim)**<br>
+From Fri 4 Feb<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDcxMjc4NzhdfQ==
+eyJoaXN0b3J5IjpbLTEyMTYxNzQxODhdfQ==
 -->
