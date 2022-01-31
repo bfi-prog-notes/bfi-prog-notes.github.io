@@ -2,20 +2,27 @@
 
 ---
 layout: post
-title: The Black Balloon
+title: The Wild Child
 published: true
-date: 2021-12-14
+date: 2022-01-31
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Drama]
-metadata: 'Australia/UK 2008, 97 mins<br> Director: Elissa Down'
+metadata: 'France 2008, 83 mins<br> Director: Elissa Down'
 pdf: '2021-12-14-black-balloon.pdf'
 ---
-Today’s screening will have a pre-recorded introduction by autistic actor Jules Robertson (_Holby Cit_ and star of new short film _Love_).<br>
 
 <img style="float: left;" src="/img/black-balloon.png"><br><br>
 
-Actor Jules Robertson (_Holby City_) selects this coming-of-age drama about the Mollison family, whose oldest son Luke is an autistic teenager. Roberston writes: ‘I think it contains an important and honest message about what it can be like for a family when one of them has additional needs.’<br>
+
+As part of our François Truffaut season we offer you an opportunity to see a landmark film about difference and social acceptance. Based on real events from 1798, informed by research,  
+_L’ Enfant sauvage_ tells of a doctor’s project to educate a non-verbal boy found living alone in the forest.
+
+Presented in partnership with the Film Department, Queen Mary University, London in collaboration with Autism through Cinema Podcast, supported by Wellcome.
+
+The screening will be introduced and there will be a facilitated discussion afterwards.
+
+This event will be led by Janet Harbord (Professor of Film, Queen Mary University of London) and Ethan Lyon (PhD student at University of Southampton researching Gothic Horror cinema and its relationship to autism), both members of the Autism through Cinema podcast.<br>
 
 **THE BLACK BALLOON**<br>
 _Directed by:_ Elissa Down<br>
@@ -86,5 +93,5 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 <li>Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI3MDY0NDddfQ==
+eyJoaXN0b3J5IjpbMTUxMTA4MjQyMywtMjA0MjcwNjQ0N119
 -->
