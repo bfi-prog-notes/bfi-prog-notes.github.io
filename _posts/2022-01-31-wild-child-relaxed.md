@@ -24,7 +24,17 @@ The screening will be introduced and there will be a facilitated discussion afte
 
 This event will be led by Janet Harbord (Professor of Film, Queen Mary University of London) and Ethan Lyon (PhD student at University of Southampton researching Gothic Horror cinema and its relationship to autism), both members of the Autism through Cinema podcast.<br>
 
-<![endif]-->
+
+**THE WILD CHILD (L’ENFANT SAUVAGE)**
+_Directed by:_ François Truffaut
+_Production Company_: Les Films du Carosse
+_Written by_: François Truffaut, Jean Gruault
+_Based on the memoir_ Victor de l’Aveyron _by: Jean Itard_  
+_Director of Photography_:  Nestor Almendros
+
+_Editing_: Agnès Guillemot
+
+_Music_: Antonio Vivaldi
 
 _Cast:_  
 Jean-Pierre Cargol _(Victor)_
@@ -38,7 +48,6 @@ Françoise Seigner _(Madame Guerin)_
 France 1970
 
 83 mins
-
 
 <img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br>
 
@@ -89,5 +98,6 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 <li>Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDE1Njk4NCwtMjA0MjcwNjQ0N119
+eyJoaXN0b3J5IjpbLTE2NTUxMDUzNjAsLTIwNDI3MDY0NDddfQ
+==
 -->
