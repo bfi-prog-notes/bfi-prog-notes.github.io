@@ -50,6 +50,11 @@ France 1970<br>
 
 **Find out more at  bfi.org.uk/relaxed**<br>
 
+
+**Find out more about our Truffaut season at**
+**bit.ly/3ofrsvL**
+
+
 **We welcome your feedback on this screening.**<br>
 **Relaxedscreeningsfeedback@bfi.org.uk**<br>
 
@@ -79,14 +84,15 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 <li>Our house lights will remain on a low level throughout the screening, and the volume will be turned slightly down.
 
-<li>You will be able to leave the auditorium and return by following a one-way system within the building.
-
-<li>You will be able to make some noise.
+<li>You will be able to leave the auditorium and return during the screening.
 
 <li>There will be a safe space for customers to use if you need to leave the auditorium.
+
+<li>You will be able to make some noise.
 
 <li>Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTY1NjE0MiwtMjA0MjcwNjQ0N119
+eyJoaXN0b3J5IjpbLTE5NzMzNDcwNzgsMTUxNTY1NjE0MiwtMj
+A0MjcwNjQ0N119
 -->
