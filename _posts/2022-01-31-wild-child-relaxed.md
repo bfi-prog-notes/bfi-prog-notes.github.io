@@ -12,7 +12,7 @@ metadata: 'France 1970, 83 mins<br> Director:  François Truffaut'
 pdf: '2022-01-31-wild-child.pdf'
 ---
 
-<img style="float: left;" src="/img/black-balloon.png"><br><br>
+<img style="float: left;" src="/img/wild-child.png"><br><br>
 
 
 As part of our François Truffaut season we offer you an opportunity to see a landmark film about difference and social acceptance. Based on real events from 1798, informed by research,  
@@ -93,6 +93,6 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 <li>Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzMzNDcwNzgsMTUxNTY1NjE0MiwtMj
+eyJoaXN0b3J5IjpbLTEzMDI2MzYwNjgsMTUxNTY1NjE0MiwtMj
 A0MjcwNjQ0N119
 -->
