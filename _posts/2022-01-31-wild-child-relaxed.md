@@ -55,12 +55,8 @@ France 1970<br>
 
 
 **The next relaxed screening is:**<br>
-
- 
-**L’ENFANT SAUVAGE**<br>
-Monday 31 January 18:10 NFT3<br>
+**KEEP THE CHANGE Monday 28 February 20:10 NFT3**<br>
 \+ Discussion in Blue Room<br>
-
 
 
 
@@ -71,7 +67,7 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 
 <li>Please leave space between yourself and other groups and retain your selected seats for the duration of the performance if possible.
 
-<li>We encourageyou to wear a face covering if you are able to.
+<li>We encourage you to wear a face covering if you are able to.
 
 <li>You are welcome to take refreshments into the auditorium but no hot food please.
 
@@ -92,5 +88,5 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 <li>Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDk1NjQzOCwtMjA0MjcwNjQ0N119
+eyJoaXN0b3J5IjpbMTUxNTY1NjE0MiwtMjA0MjcwNjQ0N119
 -->
