@@ -8,8 +8,8 @@ date: 2022-01-31
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Drama]
-metadata: 'France 2008, 83 mins<br> Director: Elissa Down'
-pdf: '2021-12-14-black-balloon.pdf'
+metadata: 'France 1970, 83 mins<br> Director:  François Truffaut'
+pdf: '2022-01-31-wild-child.pdf'
 ---
 
 <img style="float: left;" src="/img/black-balloon.png"><br><br>
@@ -24,24 +24,20 @@ The screening will be introduced and there will be a facilitated discussion afte
 
 This event will be led by Janet Harbord (Professor of Film, Queen Mary University of London) and Ethan Lyon (PhD student at University of Southampton researching Gothic Horror cinema and its relationship to autism), both members of the Autism through Cinema podcast.<br>
 
-**THE BLACK BALLOON**<br>
-_Directed by:_ Elissa Down<br>
-_Produced by:_ Tristram Miall<br>
-_Written by:_  Elissa Down<br>
-_Director of Photography:_ Denson Baker<br>
-_Editing:_ Veronika Jenet<br>
-_Original Music:_ Michael Yezerski<br>
+<![endif]-->
 
-**Cast**<br>
-Rhys Wakefield _(Thomas Mollison)_<br>
-Luke Ford _(Charlie Mollison)_<br>
-Gemma Ward _(Jackie Masters)_<br>
-Erik Thomson _(Simon Mollison)_<br>
-Toni Collette _(Maggie Mollison)_<br>
+_Cast:_  
+Jean-Pierre Cargol _(Victor)_
 
-Australia/UK 2008<br>
-97 mins<br>
-<br>
+François Truffaut _(Doctor Jean Itard)_
+
+Jean Dasté _(Professor Philippe Pinel)_
+
+Françoise Seigner _(Madame Guerin)_
+
+France 1970
+
+83 mins
 
 
 <img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br>
@@ -93,5 +89,5 @@ Relaxed screenings are presented each month for those in the neuro-diverse commu
 <li>Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTA4MjQyMywtMjA0MjcwNjQ0N119
+eyJoaXN0b3J5IjpbMTU3MDE1Njk4NCwtMjA0MjcwNjQ0N119
 -->
