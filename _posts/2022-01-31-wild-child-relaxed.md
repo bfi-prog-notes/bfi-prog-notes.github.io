@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: The Wild Child
@@ -15,8 +13,7 @@ pdf: '2022-01-31-wild-child.pdf'
 <img style="float: left;" src="/img/wild-child.png"><br><br>
 
 
-As part of our François Truffaut season we offer you an opportunity to see a landmark film about difference and social acceptance. Based on real events from 1798, informed by research,  
-_L’ Enfant sauvage_ tells of a doctor’s project to educate a non-verbal boy found living alone in the forest.
+As part of our François Truffaut season we offer you an opportunity to see a landmark film about difference and social acceptance. Based on real events from 1798, informed by research, _L’ Enfant sauvage_ tells of a doctor’s project to educate a non-verbal boy found living alone in the forest.
 
 Presented in partnership with the Film Department, Queen Mary University, London in collaboration with Autism through Cinema Podcast, supported by Wellcome.
 
@@ -29,7 +26,7 @@ This event will be led by Janet Harbord (Professor of Film, Queen Mary Universit
 _Directed by:_ François Truffaut<br>
 _Production Company_: Les Films du Carosse<br>
 _Written by_: François Truffaut, Jean Gruault<br>
-_Based on the memoir_ Victor de l’Aveyron _by:_ Jean Itard<br>  
+_Based on the memoir_ Victor de l’Aveyron _by:_ Jean Itard<br>
 _Director of Photography_:  Nestor Almendros<br>
 _Editing_: Agnès Guillemot
 _Music_: Antonio Vivaldi<br>
