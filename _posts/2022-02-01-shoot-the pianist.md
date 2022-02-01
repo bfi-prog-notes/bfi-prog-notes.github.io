@@ -67,6 +67,46 @@ France 1960<br>
 80 mins<br>
 
 \* Uncredited<br>
+
+<![endif]-->
+
+**FRANÇOIS TRUFFAUT: FOR THE LOVE OF FILMS**
+
+**Jules et Jim (****Jules and Jim)**
+
+From Fri 4 Feb
+
+**Philosophical Screens: Jules et Jim**
+
+Thu 10 Feb 20:20
+
+**The Representation of Women in Truffaut’s Films**
+
+Fri 18 Feb 18:20
+
+**THE LITERARY TRUFFAUT**<br>
+**Anne and Muriel (Les Deux Anglaises et le continent)**<br>
+Sat 5 Feb 12:20; Thu 17 Feb 17:50 (+ intro by actor Kika Markham); Tue 22 Feb 20:25<br>
+**Fahrenheit 451**<br>
+Sat 5 Feb 20:45; Sun 13 Feb 12:40; Sun 27 Feb 18:40
+**The Story of Adèle H (L’Histoire d’Adèle H)**
+Wed 9 Feb 20:55; Sat 12 Feb 20:45; Sat 19 Feb 18:20
+**The Green Room (La Chambre verte)**
+Thu 10 Feb 18:20; Tue 15 Feb 20:40; Wed 23 Feb 20:40
+
+**THE HITCHCOCK TRUFFAUT**<br>
+**Shoot the Pianist (Tirez sur le pianiste)**<br>
+Tue 1 Feb 20:50; Fri 11 Feb 18:30; Sat 26 Feb 13:20<br>
+**The Bride Wore Black (La Mariée était en noir)**<br>
+Fri 4 Feb 20:45; Sun 13 Feb 18:00; Sun 27 Feb 12:10<br>
+**Finally Sunday! (Vivement dimanche!)**<br>
+Sat 5 Feb 17:50; Sat 12 Feb 12:30; Sun 27 Feb 15:00<br>
+**Mississippi Mermaid (La Sirène du Mississippi)**<br>
+Sun 6 Feb 12:40; Fri 18 Feb 20:35; Fri 25 Feb 18:00<br>
+**La Peau douce (Silken Skin)**<br>
+Sun 6 Feb 18:20; Sat 12 Feb 17:20; Sat 26 Feb 15:30<br>
+**The Woman Next Door (La Femme d’à côté)**<br>
+Tue 8 Feb 20:30; Mon 21 Feb 18:10; Thu 24 Feb 20:30<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwNjU4NDNdfQ==
+eyJoaXN0b3J5IjpbMTU1OTgxMjU0Nl19
 -->
