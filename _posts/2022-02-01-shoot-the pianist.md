@@ -29,65 +29,44 @@ Ure: But it was such a relief to find a film that didn’t give you everything o
 Marcorelles: In fact Truffaut’s film was shot entirely outside the studio, on a small budget and with complete freedom. I was there, for instance, when he did one of the scenes between Aznavour and Nicole Berger, and he was alone with just the two actors and the cameraman.<br>
 **_Sight and Sound_, Spring 1961**<br>
 
-<![endif]-->
+**SHOOT THE PIANIST (TIREZ SUR LE PIANISTE)**<br>
+_Director:_ François Truffaut<br>
+_Production:_ Films de la Pléiade<br>
+_Presented by:_ Pierre Braunberger<br>
+_Production Manager:_ Serge Komor<br>
+_Production Administration:_ Roger Fleytoux<br>
+_Production Secretary:_ Luce Deuss<br>
+_Assistant Directors:_ Francis Cognany, Robert Bober, Björn Johansen<br>
+_Script Girl:_ Suzanne Schiffman<br>
+_Adaptation:_ F. Truffaut, Marcel Moussy<br>
+_Dialogue:_ François Truffaut<br>
+_Based on the novel_ Down There _by:_ David Goodis<br>
+_Director of Photography:_ Raoul Coutard<br>
+_Editors:_ Claudine Bouché, Cécile Decugis<br>
+_Art Director:_ Jacques Mély *<br>
+_Original Music:_ Georges Delerue<br>
+_Sound:_ Jacques Gallois *<br>
 
-**SHOOT THE PIANIST (TIREZ SUR LE PIANISTE)**
+**Cast**<br>
+Charles Aznavour _(Charlie Koler aka Edouard Saroyan)_<br>
+Marie Dubois _(Lena)_<br>
+Nicole Berger _(Theresa)_<br>
+Michèle Mercier _(Clarisse)_<br>
+Serge Davri _(Plyne)_<br>
+Claude Mansard _(Momo)_<br>
+Richard Kanayan _(Fido Saroyan)_<br>
+Jacques Aslanian _(Richard Saroyan)_<br>
+Daniel Boulanger _(Ernest)_<br>
+Claude Heymann _(Schmeel)_<br>
+Alex Joffé _(passer-by)_<br>
+Boby Lapointe _(singer)_<br>
+Cathérine Lutz _(Mammy)_<br>
+Albert Rémy _(Chico Saroyan)_<br>
 
-_Director:_ François Truffaut
+France 1960<br>
+80 mins<br>
 
-_Production:_ Films de la Pléiade
-
-_Presented by:_ Pierre Braunberger
-
-_Production Manager:_ Serge Komor
-
-_Production Administration:_ Roger Fleytoux
-
-_Production Secretary:_ Luce Deuss
-
-_Assistant Directors:_ Francis Cognany, Robert Bober, Björn Johansen
-
-_Script Girl:_ Suzanne Schiffman
-
-_Adaptation:_ F. Truffaut, Marcel Moussy
-
-_Dialogue:_ François Truffaut
-
-_Based on the novel_ Down There _by:_ David Goodis
-
-_Director of Photography:_ Raoul Coutard
-
-_Editors:_ Claudine Bouché, Cécile Decugis
-
-_Art Director:_ Jacques Mély *
-
-_Original Music:_ Georges Delerue
-
-_Sound:_ Jacques Gallois *
-<![endif]-->
-
-**Cast**
-
-Charles Aznavour _(Charlie Koler aka Edouard Saroyan)_
-
-Marie Dubois _(Lena)_
-Nicole Berger _(Theresa)_
-Michèle Mercier _(Clarisse)_
-Serge Davri _(Plyne)_
-Claude Mansard _(Momo)_
-Richard Kanayan _(Fido Saroyan)_
-Jacques Aslanian _(Richard Saroyan)_
-Daniel Boulanger _(Ernest)_
-Claude Heymann _(Schmeel)_
-Alex Joffé _(passer-by)_
-Boby Lapointe _(singer)_
-Cathérine Lutz _(Mammy)_
-Albert Rémy _(Chico Saroyan)_
-
-France 1960
-80 mins
-
-* Uncredited
+\* Uncredited<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3NTY0OTUxXX0=
+eyJoaXN0b3J5IjpbMjgwNjU4NDNdfQ==
 -->
