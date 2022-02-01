@@ -68,31 +68,25 @@ France 1960<br>
 
 \* Uncredited<br>
 
-<![endif]-->
 
-**FRANÇOIS TRUFFAUT: FOR THE LOVE OF FILMS**
 
-**Jules et Jim (****Jules and Jim)**
-
-From Fri 4 Feb
-
-**Philosophical Screens: Jules et Jim**
-
-Thu 10 Feb 20:20
-
-**The Representation of Women in Truffaut’s Films**
-
-Fri 18 Feb 18:20
+**FRANÇOIS TRUFFAUT: FOR THE LOVE OF FILMS**<br>
+**Jules et Jim (Jules and Jim)**<br>
+From Fri 4 Feb<br>
+**Philosophical Screens: Jules et Jim**<br>
+Thu 10 Feb 20:20<br>
+**The Representation of Women in Truffaut’s Films**<br>
+Fri 18 Feb 18:20<br>
 
 **THE LITERARY TRUFFAUT**<br>
 **Anne and Muriel (Les Deux Anglaises et le continent)**<br>
 Sat 5 Feb 12:20; Thu 17 Feb 17:50 (+ intro by actor Kika Markham); Tue 22 Feb 20:25<br>
 **Fahrenheit 451**<br>
-Sat 5 Feb 20:45; Sun 13 Feb 12:40; Sun 27 Feb 18:40
-**The Story of Adèle H (L’Histoire d’Adèle H)**
-Wed 9 Feb 20:55; Sat 12 Feb 20:45; Sat 19 Feb 18:20
-**The Green Room (La Chambre verte)**
-Thu 10 Feb 18:20; Tue 15 Feb 20:40; Wed 23 Feb 20:40
+Sat 5 Feb 20:45; Sun 13 Feb 12:40; Sun 27 Feb 18:40<br>
+**The Story of Adèle H (L’Histoire d’Adèle H)**<br>
+Wed 9 Feb 20:55; Sat 12 Feb 20:45; Sat 19 Feb 18:20<br>
+**The Green Room (La Chambre verte)**<br>
+Thu 10 Feb 18:20; Tue 15 Feb 20:40; Wed 23 Feb 20:40<br>
 
 **THE HITCHCOCK TRUFFAUT**<br>
 **Shoot the Pianist (Tirez sur le pianiste)**<br>
@@ -107,6 +101,14 @@ Sun 6 Feb 12:40; Fri 18 Feb 20:35; Fri 25 Feb 18:00<br>
 Sun 6 Feb 18:20; Sat 12 Feb 17:20; Sat 26 Feb 15:30<br>
 **The Woman Next Door (La Femme d’à côté)**<br>
 Tue 8 Feb 20:30; Mon 21 Feb 18:10; Thu 24 Feb 20:30<br>
+
+
+
+**In cultural partnership with**
+
+
+
+A selection of 10 Truffaut films will be available on BFI Player Subscription from January, and a selection of Truffaut films will screen around the UK
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTgxMjU0Nl19
+eyJoaXN0b3J5IjpbLTQyNTMyMTIyOF19
 -->
