@@ -1,3 +1,14 @@
+---
+layout: post
+title: Shoot the Pianist
+published: true
+date: 2022-02-01
+readtime: true
+categories: ['FRANÇOIS TRUFFAUT<br>FOR THE LOVE OF FILMS']
+tags: [Drama, Crime]
+metadata: 'France 1960, 80 mins<br> Director: François Truffaut'
+pdf: '2022-02-01-shoot-the-pianist.pdf'
+---
 
 Based on David Goodis’ novel _Down There_, François Truffaut’s second feature is a breezy New Wave concoction of genre pastiche, playful stylistic tricks and romantic reverie. Aznavour is charismatic as the nightclub pianist concealing a secret past who’s tempted to abandon his solitary ways when he falls for a colleague. Sadly, however, his brothers have angered local mobsters... A strain of melancholy pervades the constant narrative invention.<br>
 **bfi.org.uk**<br>
@@ -69,7 +80,6 @@ France 1960<br>
 \* Uncredited<br>
 
 
-
 **FRANÇOIS TRUFFAUT: FOR THE LOVE OF FILMS**<br>
 **Jules et Jim (Jules and Jim)**<br>
 From Fri 4 Feb<br>
@@ -101,14 +111,28 @@ Sun 6 Feb 12:40; Fri 18 Feb 20:35; Fri 25 Feb 18:00<br>
 Sun 6 Feb 18:20; Sat 12 Feb 17:20; Sat 26 Feb 15:30<br>
 **The Woman Next Door (La Femme d’à côté)**<br>
 Tue 8 Feb 20:30; Mon 21 Feb 18:10; Thu 24 Feb 20:30<br>
+<br>
 
+**In cultural partnership with**  
+<img style="float: left;" src="/img/institut-francais.jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
 
+A selection of 10 Truffaut films will be available on BFI Player Subscription from January, and a selection of Truffaut films will screen around the UK<br>
+<br>
 
-**In cultural partnership with**
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
 
-A selection of 10 Truffaut films will be available on BFI Player Subscription from January, and a selection of Truffaut films will screen around the UK
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTMyMTIyOF19
--->
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
