@@ -26,136 +26,77 @@ The subject matter was foreign to me. But when we received letters from young me
 I had just thought it was a beautiful love story.<br>
 **Tony Garnett, 2013**<br>
 
-**A contemporary review**
+**A contemporary review**<br>
 Jonathan Harvey’s shamelessly optimistic drama first appeared as a successful stage play. Describing the love between two boys on a South London estate, its strength lay in its refusal to deliver the urban misery one might expect from such material. Instead, Harvey offered a vision which was both romanticised and truthful. Certainly, there was domestic violence and homophobia, but flowers decorated the concrete and a foul-mouthed communality existed between residents. Most of all, the play worked against the assumption that to be working class is to be automatically less liberal, less capable of tolerance.
 
 Promoted as ‘an urban fairy tale’, this Channel 4 adaptation from debut director Hettie MacDonald captures the feel-good nature of the play. Jamie and Ste’s relationship develops in the cramped rooms and walkways of a Thamesmead estate, but beers on the balcony and the distant sound of outdoor play create a sense of space and holiday relaxation. Harsh architecture basks in the golden glow of an inner city heatwave and characters dress in bold, primary colours. The stylised, low-budget look of the film calls to mind the Stephen Frears/Hanif Kureishi collaboration _My Beautiful Laundrette_, which framed its gay romance with the same sense of theatricality.
 
-As a play, _Beautiful Thing_ received criticism for dodging difficult issues. The same could be argued of the film, but to do so seems to miss the point of Harvey’s project, which is to portray the magically transformative powers of romance. That said, the film is rich in understated realism. Jamie, Leah and Ste all come from single parent families. Ste deals Ecstasy at parties and Sandra’s ex used to beat her up. These details are more effective for going unremarked: this is simply the way things are. It is also worth noting that, while the last 15 years have seen filmmakers escaping conventionally punitive representations of homosexuality, the happy, homosexual love affair at this film’s core remains mildly subversive. That this romance is between two 16-year-old boys (below the legal age of consent) suggests that, rather than ducking controversy, MacDonald and Harvey have, in fact, produced an ‘issue’ film with a remarkably light touch.
+As a play, _Beautiful Thing_ received criticism for dodging difficult issues. The same could be argued of the film, but to do so seems to miss the point of Harvey’s project, which is to portray the magically transformative powers of romance. That said, the film is rich in understated realism. Jamie, Leah and Ste all come from single parent families. Ste deals Ecstasy at parties and Sandra’s ex used to beat her up. These details are more effective for going unremarked: this is simply the way things are. It is also worth noting that, while the last 15 years have seen filmmakers escaping conventionally punitive representations of homosexuality, the happy, homosexual love affair at this film’s core remains mildly subversive. That this romance is between two 16-year-old boys (below the legal age of consent) suggests that, rather than ducking controversy, MacDonald and Harvey have, in fact, produced an ‘issue’ film with a remarkably light touch.<br>
+**Liese Spencer, _Sight and Sound_, June 1996**<br>
 
-**Liese Spencer, _Sight and Sound_, June 1996**
-<![endif]-->
 
 **BEAUTIFUL THING**
-
 _Director_: Hettie MacDonald
-
 _Production Companies_: World Productions, Channel Four
-
 _Producers_: Tony Garnett, Bill Shapter
-
 _Production Supervisor_: Nick O’Hagan
-
 _Production Co-ordinator_: Danielle Brandon
-
 _Location Managers_: Jim Allan, Barry Smith
-
 _1st Assistant Director_: Susie Liggat
-
 _2nd Assistant Director_: James Imber
-
 _3rd Assistant Directors_: Victoria Goodall, Jim Wilkinson
-
 _Script Supervisor_: Susanna Lenton
-
 _Casting_: Andy Pryor, Gail Stevens
-
 _Written by_: Jonathan Harvey
-
 _Based on the play by_: Jonathan Harvey
-
 _Director of Photography_: Chris Seager
-
 _2nd Unit Operator_: Jeremy Hiles
-
 _Steadicam Operators_: Alf Tramontin, Adrian Smith
-
 _Editor_: Don Fairservice
-
 _Production Designer_: Mark Stevenson
-
 _Art Director_: Chrysoula Sofitsi
-
 _Scenic Artist_: Guy Rutter
-
 _Costume Designer_: Pam Tait
-
 _Wardrobe Mistress_: Charlotte Couchman
-
 _Make-up Designer_: Elisa Johnson
-
 _Chief Hairdresser_: Pebbles
-
 _Titles_: Linda Sherwood-Page
-
 _Original Music Composer/Conductor/Arranger_: John Altman
-
 _Sound Mixer_: John Midgley
-
 _2nd Unit Sound Recordist_: Paul Lemare
-
 _Dubbing Mixer_: David Old
-
 _Sound Editors_: Kevin Brazier, Wayne Brooks
-
 _Stunt Co-ordinators_: David Cronnelly, Gabe Cronnelly
 
 **Cast**
-
 Glen Berry _(Jamie Gangel)_
-
 Linda Henry _(Sandra Gangel)_
-
 Scott Neal _(Ste Pearce)_
-
 Ben Daniels _(Tony)_
-
 Tameka Empson _(Leah)_
-
 Meera Syal _(Miss Chauhan)_
-
 Martin Walsh _(Mr Bennett)_
-
 Steven Martin _(Ryan McBride)_
-
 Andrew Fraser _(Jayson)_
-
 John Savage _(Lenny)_
-
 Julie Smith _(Gina)_
-
 Jeillo Edwards _(Rose)_
-
 Anna Karen _(Marlene)_
-
 Garry Cooper _(Ronnie Pearce)_
-
 Daniel Bowers _(Trevor Pearce)_
-
 Terry Duggan _(Kevin)_
-
 Sophie Stanton _(Louise)_
-
 Ozdemir Mamodeally _(Slasher)_
-
 John Benfield _(Rodney Barr)_
-
-Davyd Harries_,_ Beth Goddard _(brewery officials)_
-
+Davyd Harries, Beth Goddard _(brewery officials)_
 Marlene Sidaway _(Betty)_
-
 Liane Ware _(Claire)_
-
 Catherine Sanderson _(Kelly)_
+Dave Lynn _(drag performer)_<br>
 
-Dave Lynn _(drag performer)_
-
-UK 1996
-
-90 mins
-
-<![endif]-->
-
+UK 1996<br>
+90 mins<br>
+<br>
 **BIG SCREEN CLASSICS**
 
 **To Wong Foo, Thanks for Everything! Julie Newmar**
@@ -234,5 +175,5 @@ Sun 13 Feb 18:40; Tue 22 Feb 20:50
 
 Fri 18 Feb 20:30; Sat 26 Feb 16:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDk0NzA5MDZdfQ==
+eyJoaXN0b3J5IjpbLTEwNTc1Nzg3MzZdfQ==
 -->
