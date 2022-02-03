@@ -8,19 +8,13 @@ Find out more about Asta Nielsen in this evening devoted to the indelible Danish
 **So Mayer** is the author of a number of books on film, most recently _A Nazi Word for a Nazi Thing_ (2020), a short essay on how queer cinema fights fascism. Their other books include _Political Animals: The New Feminist Cinema_ (2015) and _The Cinema of Sally Potter: A Politics of Love_ (2009). _Mothers of Invention: Film, Media and Caregiving Labor_, which they co-edited with Corinn Columpar, is due out this April from Wayne State University Press. So is a co-founder of Raising Films, a campaign and community for parents and carers in the screen industries, and a member of queer feminist film curation collective Club Des Femmes, editing CDF’s Culture Club webzine.<br>
 
 **Bryony Dixon** is a curator with responsibility for the BFI National Archive’s extensive silent film collection. She has researched and written on many aspects of early and silent film, as well as programming for a variety of specialist film festivals and events worldwide. Her book _100 Silent Films_, in the BFI Screen Guides series, was published in 2011 and she contributes regularly to _Sight and_ _Sound_’s Primal Screen column. She is lead curator in the BFI National Archive’s series of annual silent film restorations with commissioned live music. She has just completed the BFI’s project to digitise all surviving British Victorian films and will release an accompanying book,  _The Story of Victorian Film_ in 2022.<br>
+<br>
 
-<![endif]-->
-
-**IN THE EYES OF A SILENT STAR: THE FILMS OF ASTA NIELSEN**
-
+**IN THE EYES OF A SILENT STAR: THE FILMS OF ASTA NIELSEN**<br>
 **The ABC of Asta Nielsen**
-
 Thu 3 Feb 18:20
-
 **The Abyss (Afgrunden)** **+ The ABC of Love (Das Liebes ABC)**
-
 Thu 3 Feb 20:30 (+ intro by season curator Pamela Hutchinson); Fri 11 Feb 18:20
-
 **Zapata’s Gang (Zapatas Bande)** **+ The Eskimo Baby (Das Eskimobaby)**
 
 Fri 4 Feb 18:00; Sat 12 Feb 18:00
@@ -45,5 +39,5 @@ Wed 23 Feb 18:10; Sun 27 Feb 15:50
 <img style="float: left;" src="/img/danish film institute.png" width="40%" height="40%">
 <br><br><br><br><br><br><br><br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwODk5OTY0XX0=
+eyJoaXN0b3J5IjpbMTk3OTQyOTUzNV19
 -->
