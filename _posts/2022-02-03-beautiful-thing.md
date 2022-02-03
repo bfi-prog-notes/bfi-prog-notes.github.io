@@ -98,57 +98,44 @@ UK 1996<br>
 90 mins<br>
 <br>
 **BIG SCREEN CLASSICS**<br>
-**To Wong Foo, Thanks for Everything! Julie Newmar**
-Tue 1 Feb 18:20; Fri 25 Feb 20:45
-**Young Soul Rebels**
-Wed 2 Feb 18:20 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair); Thu 17 Feb 20:45
-**All About My Mother (Todo sobre mi madre)**
-Wed 2 Feb 20:45; Wed 16 Feb 21:00
-**Beautiful Thing**
-Thu 3 Feb 20:45; Mon 14 Feb 20:30
-**The Handmaiden (Ah-ga-ssi)**
-Fri 4 Feb 17:50; Sat 12 Feb 20:10; Sun 27 Feb 17:50
-**Rent**
-Sat 5 Feb 12:30; Sun 20 Feb 18:10
-**Maurice**
-Sun 6 Feb 15:20; Mon 14 Feb 18:00
-**The Watermelon Woman**
-Mon 7 Feb 20:45; Sat 26 Feb 20:30
-**Happy Together (Chun gwong cha sit)**
-Tue 8 Feb 18:15 (+ intro by Yi Wang, Queer East); Sun 13 Feb 15:20
-**My Own Private Idaho**
-Tue 8 Feb 20:45; Wed 23 Feb 18:00 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair)
-**Moonlight**
-Thu 24 Feb 14:30; Mon 28 Feb 20:45
-**Brokeback Mountain**
-Wed 9 Feb 17:45 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair); Mon 21 Feb 20:25
-**Go Fish**
-
-Wed 9 Feb 20:40; Sat 26 Feb 18:20
-
-**Rope**
-
-Thu 10 Feb 18:30; Tue 22 Feb 14:30
-
-**Victim**
-
-Thu 10 Feb 20:40; Sun 13 Feb 13:00; Mon 21 Feb 18:00
-
-**Desert Hearts**
-
-Fri 11 Feb 20:40; Wed 16 Feb 18:20 (+ intro by BFI Head Librarian Emma Smart)
-
-**My Beautiful Laundrette**
-
-Sat 12 Feb 18:20; Tue 15 Feb 20:45; Sat 19 Feb 20:45
-
-**A Fantastic Woman (Una mujer fantástica)**
-
-Sun 13 Feb 18:40; Tue 22 Feb 20:50
-
-**Mädchen in Uniform**
-
-Fri 18 Feb 20:30; Sat 26 Feb 16:00
+**To Wong Foo, Thanks for Everything! Julie Newmar**<br>
+Tue 1 Feb 18:20; Fri 25 Feb 20:45<br>
+**Young Soul Rebels**<br>
+Wed 2 Feb 18:20 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair); Thu 17 Feb 20:45<br>
+**All About My Mother (Todo sobre mi madre)**<br>
+Wed 2 Feb 20:45; Wed 16 Feb 21:00<br>
+**Beautiful Thing**<br>
+Thu 3 Feb 20:45; Mon 14 Feb 20:30<br>
+**The Handmaiden (Ah-ga-ssi)**<br>
+Fri 4 Feb 17:50; Sat 12 Feb 20:10; Sun 27 Feb 17:50<br>
+**Rent**<br>
+Sat 5 Feb 12:30; Sun 20 Feb 18:10<br>
+**Maurice**<br>
+Sun 6 Feb 15:20; Mon 14 Feb 18:00<br>
+**The Watermelon Woman**<br>
+Mon 7 Feb 20:45; Sat 26 Feb 20:30<br>
+**Happy Together (Chun gwong cha sit)**<br>
+Tue 8 Feb 18:15 (+ intro by Yi Wang, Queer East); Sun 13 Feb 15:20<br>
+**My Own Private Idaho**<br>
+Tue 8 Feb 20:45; Wed 23 Feb 18:00 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair)<br>
+**Moonlight**<br>
+Thu 24 Feb 14:30; Mon 28 Feb 20:45<br>
+**Brokeback Mountain**<br>
+Wed 9 Feb 17:45 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair); Mon 21 Feb 20:25<br>
+**Go Fish**<br>
+Wed 9 Feb 20:40; Sat 26 Feb 18:20<br>
+**Rope**<br>
+Thu 10 Feb 18:30; Tue 22 Feb 14:30<br>
+**Victim**<br>
+Thu 10 Feb 20:40; Sun 13 Feb 13:00; Mon 21 Feb 18:00<br>
+**Desert Hearts**<br>
+Fri 11 Feb 20:40; Wed 16 Feb 18:20 (+ intro by BFI Head Librarian Emma Smart)<br>
+**My Beautiful Laundrette**<br>
+Sat 12 Feb 18:20; Tue 15 Feb 20:45; Sat 19 Feb 20:45<br>
+**A Fantastic Woman (Una mujer fantástica)**<br>
+Sun 13 Feb 18:40; Tue 22 Feb 20:50<br>
+**Mädchen in Uniform**<br>
+Fri 18 Feb 20:30; Sat 26 Feb 16:00<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUzMTk1MDRdfQ==
+eyJoaXN0b3J5IjpbODA1MTY3NThdfQ==
 -->
