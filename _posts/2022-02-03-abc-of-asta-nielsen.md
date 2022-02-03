@@ -11,33 +11,24 @@ Find out more about Asta Nielsen in this evening devoted to the indelible Danish
 <br>
 
 **IN THE EYES OF A SILENT STAR: THE FILMS OF ASTA NIELSEN**<br>
-**The ABC of Asta Nielsen**
-Thu 3 Feb 18:20
-**The Abyss (Afgrunden)** **+ The ABC of Love (Das Liebes ABC)**
-Thu 3 Feb 20:30 (+ intro by season curator Pamela Hutchinson); Fri 11 Feb 18:20
-**Zapata’s Gang (Zapatas Bande)** **+ The Eskimo Baby (Das Eskimobaby)**
-
-Fri 4 Feb 18:00; Sat 12 Feb 18:00
-
-**The Black Dream (Den sorte Drøm)**
-
-Fri 4 Feb 20:40; Sat 12 Feb 15:40
-
-**Dora Brandes**
-
-Sat 5 Feb 15:20; Thu 17 Feb 18:00 (+ intro)
-
-**The Queen of the Stock Exchange (Die Börsenkönigin) + The Guinea Pig (Das Versuchskaninchen)**
-
-Sat 5 Feb 18:00; Thu 17 Feb 20:40
-
-**Towards the Light (Mod Lyset) + Asta Nielsen**
-
-Wed 23 Feb 18:10; Sun 27 Feb 15:50
-
+**The ABC of Asta Nielsen**<br>
+Thu 3 Feb 18:20<br>
+**The Abyss (Afgrunden) + The ABC of Love (Das Liebes ABC)**<br>
+Thu 3 Feb 20:30 (+ intro by season curator Pamela Hutchinson); Fri 11 Feb 18:20<br>
+**Zapata’s Gang (Zapatas Bande) + The Eskimo Baby (Das Eskimobaby)**<br>
+Fri 4 Feb 18:00; Sat 12 Feb 18:00<br>
+**The Black Dream (Den sorte Drøm)**<br>
+Fri 4 Feb 20:40; Sat 12 Feb 15:40<br>
+**Dora Brandes**<br>
+Sat 5 Feb 15:20; Thu 17 Feb 18:00 (+ intro)<br>
+**The Queen of the Stock Exchange (Die Börsenkönigin) + The Guinea Pig (Das Versuchskaninchen)**<br>
+Sat 5 Feb 18:00; Thu 17 Feb 20:40<br>
+**Towards the Light (Mod Lyset) + Asta Nielsen**<br>
+Wed 23 Feb 18:10; Sun 27 Feb 15:50<br>
+<br>
 **Cultural partner**<br>
 <img style="float: left;" src="/img/danish film institute.png" width="40%" height="40%">
 <br><br><br><br><br><br><br><br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTQyOTUzNV19
+eyJoaXN0b3J5IjpbLTEzNTQzODc5NDFdfQ==
 -->
