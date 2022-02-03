@@ -35,118 +35,93 @@ As a play, _Beautiful Thing_ received criticism for dodging difficult issues. Th
 **Liese Spencer, _Sight and Sound_, June 1996**<br>
 
 
-**BEAUTIFUL THING**
-_Director_: Hettie MacDonald
-_Production Companies_: World Productions, Channel Four
-_Producers_: Tony Garnett, Bill Shapter
-_Production Supervisor_: Nick O’Hagan
-_Production Co-ordinator_: Danielle Brandon
-_Location Managers_: Jim Allan, Barry Smith
-_1st Assistant Director_: Susie Liggat
-_2nd Assistant Director_: James Imber
-_3rd Assistant Directors_: Victoria Goodall, Jim Wilkinson
-_Script Supervisor_: Susanna Lenton
-_Casting_: Andy Pryor, Gail Stevens
-_Written by_: Jonathan Harvey
-_Based on the play by_: Jonathan Harvey
-_Director of Photography_: Chris Seager
-_2nd Unit Operator_: Jeremy Hiles
-_Steadicam Operators_: Alf Tramontin, Adrian Smith
-_Editor_: Don Fairservice
-_Production Designer_: Mark Stevenson
-_Art Director_: Chrysoula Sofitsi
-_Scenic Artist_: Guy Rutter
-_Costume Designer_: Pam Tait
-_Wardrobe Mistress_: Charlotte Couchman
-_Make-up Designer_: Elisa Johnson
-_Chief Hairdresser_: Pebbles
-_Titles_: Linda Sherwood-Page
-_Original Music Composer/Conductor/Arranger_: John Altman
-_Sound Mixer_: John Midgley
-_2nd Unit Sound Recordist_: Paul Lemare
-_Dubbing Mixer_: David Old
-_Sound Editors_: Kevin Brazier, Wayne Brooks
-_Stunt Co-ordinators_: David Cronnelly, Gabe Cronnelly
+**BEAUTIFUL THING**<br>
+_Director_: Hettie MacDonald<br>
+_Production Companies_: World Productions, Channel Four<br>
+_Producers_: Tony Garnett, Bill Shapter<br>
+_Production Supervisor_: Nick O’Hagan<br>
+_Production Co-ordinator_: Danielle Brandon<br>
+_Location Managers_: Jim Allan, Barry Smith<br>
+_1st Assistant Director_: Susie Liggat<br>
+_2nd Assistant Director_: James Imber<br>
+_3rd Assistant Directors_: Victoria Goodall, Jim Wilkinson<br>
+_Script Supervisor_: Susanna Lenton<br>
+_Casting_: Andy Pryor, Gail Stevens<br>
+_Written by_: Jonathan Harvey<br>
+_Based on the play by_: Jonathan Harvey<br>
+_Director of Photography_: Chris Seager<br>
+_2nd Unit Operator_: Jeremy Hiles<br>
+_Steadicam Operators_: Alf Tramontin, Adrian Smith<br>
+_Editor_: Don Fairservice<br>
+_Production Designer_: Mark Stevenson<br>
+_Art Director_: Chrysoula Sofitsi<br>
+_Scenic Artist_: Guy Rutter<br>
+_Costume Designer_: Pam Tait<br>
+_Wardrobe Mistress_: Charlotte Couchman<br>
+_Make-up Designer_: Elisa Johnson<br>
+_Chief Hairdresser_: Pebbles<br>
+_Titles_: Linda Sherwood-Page<br>
+_Original Music Composer/Conductor/Arranger_: John Altman<br>
+_Sound Mixer_: John Midgley<br>
+_2nd Unit Sound Recordist_: Paul Lemare<br>
+_Dubbing Mixer_: David Old<br>
+_Sound Editors_: Kevin Brazier, Wayne Brooks<br>
+_Stunt Co-ordinators_: David Cronnelly, Gabe Cronnelly<br>
 
-**Cast**
-Glen Berry _(Jamie Gangel)_
-Linda Henry _(Sandra Gangel)_
-Scott Neal _(Ste Pearce)_
-Ben Daniels _(Tony)_
-Tameka Empson _(Leah)_
-Meera Syal _(Miss Chauhan)_
-Martin Walsh _(Mr Bennett)_
-Steven Martin _(Ryan McBride)_
-Andrew Fraser _(Jayson)_
-John Savage _(Lenny)_
-Julie Smith _(Gina)_
-Jeillo Edwards _(Rose)_
-Anna Karen _(Marlene)_
-Garry Cooper _(Ronnie Pearce)_
-Daniel Bowers _(Trevor Pearce)_
-Terry Duggan _(Kevin)_
-Sophie Stanton _(Louise)_
-Ozdemir Mamodeally _(Slasher)_
-John Benfield _(Rodney Barr)_
-Davyd Harries, Beth Goddard _(brewery officials)_
-Marlene Sidaway _(Betty)_
-Liane Ware _(Claire)_
-Catherine Sanderson _(Kelly)_
+**Cast**<br>
+Glen Berry _(Jamie Gangel)_<br>
+Linda Henry _(Sandra Gangel)_<br>
+Scott Neal _(Ste Pearce)_<br>
+Ben Daniels _(Tony)_<br>
+Tameka Empson _(Leah)_<br>
+Meera Syal _(Miss Chauhan)_<br>
+Martin Walsh _(Mr Bennett)_<br>
+Steven Martin _(Ryan McBride)_<br>
+Andrew Fraser _(Jayson)_<br>
+John Savage _(Lenny)_<br>
+Julie Smith _(Gina)_<br>
+Jeillo Edwards _(Rose)_<br>
+Anna Karen _(Marlene)_<br>
+Garry Cooper _(Ronnie Pearce)_<br>
+Daniel Bowers _(Trevor Pearce)_<br>
+Terry Duggan _(Kevin)_<br>
+Sophie Stanton _(Louise)_<br>
+Ozdemir Mamodeally _(Slasher)_<br>
+John Benfield _(Rodney Barr)_<br>
+Davyd Harries, Beth Goddard _(brewery officials)_<br>
+Marlene Sidaway _(Betty)_<br>
+Liane Ware _(Claire)_<br>
+Catherine Sanderson _(Kelly)_<br>
 Dave Lynn _(drag performer)_<br>
 
 UK 1996<br>
 90 mins<br>
 <br>
-**BIG SCREEN CLASSICS**
-
+**BIG SCREEN CLASSICS**<br>
 **To Wong Foo, Thanks for Everything! Julie Newmar**
-
 Tue 1 Feb 18:20; Fri 25 Feb 20:45
-
 **Young Soul Rebels**
-
 Wed 2 Feb 18:20 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair); Thu 17 Feb 20:45
-
 **All About My Mother (Todo sobre mi madre)**
-
 Wed 2 Feb 20:45; Wed 16 Feb 21:00
-
 **Beautiful Thing**
-
 Thu 3 Feb 20:45; Mon 14 Feb 20:30
-
 **The Handmaiden (Ah-ga-ssi)**
-
 Fri 4 Feb 17:50; Sat 12 Feb 20:10; Sun 27 Feb 17:50
-
 **Rent**
-
 Sat 5 Feb 12:30; Sun 20 Feb 18:10
-
 **Maurice**
-
 Sun 6 Feb 15:20; Mon 14 Feb 18:00
-
 **The Watermelon Woman**
-
 Mon 7 Feb 20:45; Sat 26 Feb 20:30
-
 **Happy Together (Chun gwong cha sit)**
-
 Tue 8 Feb 18:15 (+ intro by Yi Wang, Queer East); Sun 13 Feb 15:20
-
 **My Own Private Idaho**
-
 Tue 8 Feb 20:45; Wed 23 Feb 18:00 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair)
-
 **Moonlight**
-
 Thu 24 Feb 14:30; Mon 28 Feb 20:45
-
 **Brokeback Mountain**
-
 Wed 9 Feb 17:45 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair); Mon 21 Feb 20:25
-
 **Go Fish**
 
 Wed 9 Feb 20:40; Sat 26 Feb 18:20
@@ -175,5 +150,5 @@ Sun 13 Feb 18:40; Tue 22 Feb 20:50
 
 Fri 18 Feb 20:30; Sat 26 Feb 16:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc1Nzg3MzZdfQ==
+eyJoaXN0b3J5IjpbLTIxMTUzMTk1MDRdfQ==
 -->
