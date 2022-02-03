@@ -41,7 +41,9 @@ Sat 5 Feb 18:00; Thu 17 Feb 20:40
 
 Wed 23 Feb 18:10; Sun 27 Feb 15:50
 
-**Cultural partner**
+**Cultural partner**<br>
+<img style="float: left;" src="/img/danish film institute.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzE0OTE1MV19
+eyJoaXN0b3J5IjpbOTAwODk5OTY0XX0=
 -->
