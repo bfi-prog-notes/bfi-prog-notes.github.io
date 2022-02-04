@@ -22,10 +22,7 @@ The overall shape of _The Handmaiden_ is something like a narratological equival
 In the film’s object-based doll’s-house construction, it might be hard to imagine human actors having a great deal of agency, yet remarkably they do, with Ha Jung-woo’s duplicitous Fujiwara channelling the manipulative cads of English melodrama, while Kim Tae-ri touchingly reveals new emotional reserves, as Tamako shifts from hard-nosed adventurer to born-again innocent, discovering a new self through her ordeal. Most mesmerising, however, is the mercurial Kim Min-hee, putting her Hideko through multiple changes, from trembling neurasthenic gamine to sexually manipulative vamp – and all in a selection of designer Cho Sang-kyung’s extremely elaborate costumes, ranging from quasi-geisha to Victorian-style heroine in anachronistic wedding-cake frocks and vast hats. Anyone who has seen Kim as the decidedly modern Korean woman of recent Hong Sang-soo films (_Right Now, Wrong Then_, _On the Beach at Night Alone_) may be surprised – but perhaps not that surprised, given how protean Hong Sang-soo requires her to be in even such relatively stable roles.<br>
 **Jonathan Romney, _Sight and Sound_, May 2017**<br>
 
-<![endif]-->
-
-**The Handmaiden (Ah-ga-ssi)**
-
+**The Handmaiden (Ah-ga-ssi)**<br>
 _Directed by_: Park Chan-wook  
 _©_: CJ E&M Corporation, Moho Film, Yong Film  
 _Production Companies_: Moho Film, Yong Film  
@@ -37,12 +34,8 @@ _Produced by_: Park Chan-wook, Syd Lim
 _Co-production_: Kim Tae-eun  
 _Co-producers_: Yoon Suk-chan, Kim Jong-dae, Wonjo Jeong  
 _Associate Producer_: Jay Lee  
-_Screenplay by_: Chung Seo-kyung,
-
-Park Chan-wook  
-_Inspired by the novel_ Fingersmith _by_:
-
-Sarah Waters  
+_Screenplay by_: Chung Seo-kyung, Park Chan-wook  
+_Inspired by the novel_ Fingersmith _by_: Sarah Waters  
 _Director of Photography_: Chung Chung-hoon  
 _Gaffer_: Bae Il-hyuck  
 _Visual Effects Supervisor_: Lee Jeon-hyoung  
@@ -52,22 +45,20 @@ _Production Designer_: Ryu Seong-hee
 _Costume Designer_: Cho Sang-kyung  
 _Make-up and Hair Designer_: Song Jong-hee  
 _Music by_: Cho Young-wuk  
-_Orchestra_:
-
-Kammersolisten der Deutschen Oper Berlin  
+_Orchestra_:Kammersolisten der Deutschen Oper Berlin  
 _Sound Design by_: Kim Suk-won  
-_Production Sound Mixer_: Jung Gun
+_Production Sound Mixer_: Jung Gun<br>
 
-_Cast:_  
+**Cast**<br>  
 Kim Min-hee _(Lady Hideko)_  
 Kim Tae-ri _(Nam Sookhee, ‘Tamako’)_  
 Ha Jung-woo _(Fujiwara, ‘count’)_  
 Cho Jin-woong _(Kouzuki)_  
 Kim Hae-sook _(Mrs Sasaki)_  
-Moon So-ri _(Hideko’s aunt)_
+Moon So-ri _(Hideko’s aunt)_<br>
 
 South Korea 2016©<br>
-144 mins
+144 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDg3NzE0NF19
+eyJoaXN0b3J5IjpbMjY5NDUwNTcsMjAyMDg3NzE0NF19
 -->
