@@ -10,58 +10,43 @@ In most of the comedies, the humour springs from an incongruity between the char
 **Robert C. Allen, _Sight and Sound_,  Autumn 1973**<br>
 
 **ZAPATA’S GANG (ZAPATAS BANDE)**<br>
-_Director:_ Urban Gad
-_Production Company:_ Projektions A-G Union
-_Screenplay:_ Urban Gad
-_Directors of Photography:_ Axel Graatkjær, Karl Freund
+_Director:_ Urban Gad<br>
+_Production Company:_ Projektions A-G Union<br>
+_Screenplay:_ Urban Gad<br>
+_Directors of Photography:_ Axel Graatkjær, Karl Freund<br>
+_Production Designer:_ Fritz Seyffert<br>
 
-_Production Designer:_ Fritz Seyffert
+**Cast**<br>
+Asta Nielsen<br>
+Fred Immler<br>
+Senta Eichstaedt<br>
+Adele Reuter-Eichberg<br>
 
-**Cast**
+Germany 1913/14<br>
+42 mins<br>
 
-Asta Nielsen
+Restored in 2006 by the Friedrich-Wilhelm-Murnau-Stiftung, digitised in 2014<br>
 
-Fred Immler
+**THE ESKIMO BABY (DAS ESKIMOBABY)**<br>
 
-Senta Eichstaedt
+_Director:_ Walter Schmidthässler<br>
+_Production Company:_ Neutral-Film GmbH<br>
+_Screenplay:_ Louis Levy, Martin Jørgensen<br>
+_Director of Photography:_ Carl Ferdinand Fischer<br>
 
-Adele Reuter-Eichberg
+**Cast**<br>
+Asta Nielsen _(Eskimo)_<br>
+Freddy Wingardh _(Knud Prätorius)_<br>
 
-Germany 1913/14
+Germany 1916/18<br>
+66 mins<br>
 
-42 mins
+Restored in 2000 by Danske Filminstitut and Deutsche Kinemathek<br>
 
-Restored in 2006 by the Friedrich-Wilhelm-Murnau-Stiftung,
 
-digitised in 2014
-
-**Live piano accompaniment**
-
-**by Cyrus Gabrysch on Fri 4 Feb**
-
-**Costas Fotopoulos on Sat 12 Feb**
-
-**THE ESKIMO BABY (DAS ESKIMOBABY)**
-
-_Director:_ Walter Schmidthässler
-
-_Production Company:_ Neutral-Film GmbH
-
-_Screenplay:_ Louis Levy, Martin Jørgensen
-
-_Director of Photography:_ Carl Ferdinand Fischer
-
-**Cast**
-
-Asta Nielsen _(Eskimo)_
-
-Freddy Wingardh _(Knud Prätorius)_
-
-Germany 1916/18
-
-66 mins
-
-Restored in 2000 by Danske Filminstitut and Deutsche Kinemathek
+**Live piano accompaniment**<br>
+**by Cyrus Gabrysch on Fri 4 Feb**<br>
+**Costas Fotopoulos on Sat 12 Feb**<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzMwMDE5MzVdfQ==
+eyJoaXN0b3J5IjpbNDA5MjgzNDc5XX0=
 -->
