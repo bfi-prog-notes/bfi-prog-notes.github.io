@@ -54,13 +54,10 @@ Gunnar Helsengreen _(Adolf Hirsch, jeweller)_
 Ellen Gottschalch  
 Peter Fjelstrup<br>
 
-Demark 1911
+Demark 1911<br>
+53 mins<br>
 
-53 mins
-
-**With live piano accompaniment by**
-
-**John Sweeney**
+**With live piano accompaniment by John Sweeney**<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDI5MTc0M119
+eyJoaXN0b3J5IjpbLTEwNzcyNTUwNV19
 -->
