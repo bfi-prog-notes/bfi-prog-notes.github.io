@@ -22,7 +22,7 @@ The overall shape of _The Handmaiden_ is something like a narratological equival
 In the film’s object-based doll’s-house construction, it might be hard to imagine human actors having a great deal of agency, yet remarkably they do, with Ha Jung-woo’s duplicitous Fujiwara channelling the manipulative cads of English melodrama, while Kim Tae-ri touchingly reveals new emotional reserves, as Tamako shifts from hard-nosed adventurer to born-again innocent, discovering a new self through her ordeal. Most mesmerising, however, is the mercurial Kim Min-hee, putting her Hideko through multiple changes, from trembling neurasthenic gamine to sexually manipulative vamp – and all in a selection of designer Cho Sang-kyung’s extremely elaborate costumes, ranging from quasi-geisha to Victorian-style heroine in anachronistic wedding-cake frocks and vast hats. Anyone who has seen Kim as the decidedly modern Korean woman of recent Hong Sang-soo films (_Right Now, Wrong Then_, _On the Beach at Night Alone_) may be surprised – but perhaps not that surprised, given how protean Hong Sang-soo requires her to be in even such relatively stable roles.<br>
 **Jonathan Romney, _Sight and Sound_, May 2017**<br>
 
-**The Handmaiden (Ah-ga-ssi)**<br>
+**THE HANDMAIDEN (AH-GA-SSI)**<br>
 _Directed by_: Park Chan-wook  
 _©_: CJ E&M Corporation, Moho Film, Yong Film  
 _Production Companies_: Moho Film, Yong Film  
@@ -60,5 +60,5 @@ Moon So-ri _(Hideko’s aunt)_<br>
 South Korea 2016©<br>
 144 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5NDUwNTcsMjAyMDg3NzE0NF19
+eyJoaXN0b3J5IjpbLTIxMjc5MDUyNzksMjAyMDg3NzE0NF19
 -->
