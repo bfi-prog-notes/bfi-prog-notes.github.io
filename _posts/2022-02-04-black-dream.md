@@ -30,16 +30,37 @@ _Directors of Photography_: Axel Graatkjær, Karl Freund  <br>
 _Production Designer_: Fritz Seyffert<br>
 
 **Cast**<br>
-Asta Nielsen
-Paul Otto
-Fritz Weidemann
-Fred Immler
+Asta Nielsen<br>
+Paul Otto<br>
+Fritz Weidemann<br>
+Fred Immler<br>
 
-Germany 1913
+Germany 1913<br>
+17 mins (fragment)<br>
 
-17 mins (fragment)
+Restored in 2006, combining materials from EYE Filmmuseum and George Eastman Museum<br>
 
-Restored in 2006, combining materials from EYE Filmmuseum and George Eastman Museum
+**THE BLACK DREAM (DEN SORTE DRØM)**<br>
+_Director_: Urban Gad  
+_Production Company_: Fotorama  
+_Screenplay_: Urban Gad  
+_Director of Photography_: Adam Johansen<br>
+_Production Designer_: Emil Poulsen<br>
+
+**Cast**  
+Asta Nielsen _(Stella)_  
+Valdemar Psilander _(Johann Graf von Waldberg)_  
+Gunnar Helsengreen _(Adolf Hirsch, jeweller)_  
+Ellen Gottschalch  
+Peter Fjelstrup<br>
+
+Demark 1911
+
+53 mins
+
+**With live piano accompaniment by**
+
+**John Sweeney**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjYwOTQ5NF19
+eyJoaXN0b3J5IjpbMTkxMDI5MTc0M119
 -->
