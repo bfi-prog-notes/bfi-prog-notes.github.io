@@ -45,30 +45,29 @@ _Sound:_ René Levert<br>
 Jeanne Moreau _(Julie Kohler)_<br>
 Jean-Claude Brialy _(Corey)_<br>
 Michel Bouquet _(Robert Coral)_<br>
-Charles Denner _(Fergus)_
-Claude Rich _(Bliss)_
-Daniel Boulanger _(Holmes)_
-Michel Lonsdale _(René Morane)_
-Serge Rousseau _(David)_
-Jacques Robiolles _(Charlie)_
-Luce Fabiole _(Julie’s mother)_
-Sylvine Delannoy _(Mrs Morane)_
-Jacqueline Rouillard _(maid)_
-Van Doude _(Inspector Fabri)_
-Paul Pavel _(mechanic)_
-Maurice Garell _(plaintiff)_
-Gilles Quéant _(examining magistrate)_
-Alexandra Stewart _(Miss Becker)_
-Frédérique Fontanarosa, Renaud Fontanarosa _(musicians)_
-Christophe Brunot _(Morane’s son)_
-Dominique Robier _(Sabine)_
-Michèle Viborel _(Gilberte, Bliss’s fiancée)_
-Michèle Montfort _(model)_
-Daniel Pommereulle _(Fergus’s friend)_
+Charles Denner _(Fergus)_<br>
+Claude Rich _(Bliss)_<br>
+Daniel Boulanger _(Holmes)_<br>
+Michel Lonsdale _(René Morane)_<br>
+Serge Rousseau _(David)_<br>
+Jacques Robiolles _(Charlie)_<br>
+Luce Fabiole _(Julie’s mother)_<br>
+Sylvine Delannoy _(Mrs Morane)_<br>
+Jacqueline Rouillard _(maid)_<br>
+Van Doude _(Inspector Fabri)_<br>
+Paul Pavel _(mechanic)_<br>
+Maurice Garell _(plaintiff)_<br>
+Gilles Quéant _(examining magistrate)_<br>
+Alexandra Stewart _(Miss Becker)_<br>
+Frédérique Fontanarosa, Renaud Fontanarosa _(musicians)_<br>
+Christophe Brunot _(Morane’s son)_<br>
+Dominique Robier _(Sabine)_<br>
+Michèle Viborel _(Gilberte, Bliss’s fiancée)_<br>
+Michèle Montfort _(model)_<br>
+Daniel Pommereulle _(Fergus’s friend)_<br>
 
-France/Italy 1967
-
-107 mins
+France/Italy 1967<br>
+107 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTQxNjExMV19
+eyJoaXN0b3J5IjpbLTEwOTU3OTM0NzFdfQ==
 -->
