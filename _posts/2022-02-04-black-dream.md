@@ -1,7 +1,18 @@
+---
+layout: post
+title: The Black Dream<br>The Film Primadonna
+published: true
+date: 2022-02-04
+readtime: true
+categories: ['IN THE EYES OF A SILENT STAR<br> THE FILMS OF ASTA NIELSEN']
+tags: [Drama]
+metadata: 'Denmark 1911, 53 mins<br> Director: Urban Gad<br>Germany 1913, 17 mins<br> Director: Urban Gad'
+pdf: '2022-02-04-black-dream.pdf'
+---
 
 In this early role for Asta Nielsen, suited to her mastery of melodrama, she plays Stella, a circus star pursued by two suitors – a handsome count and a creepy jeweller. _The Black Dream_ becomes a high-stakes love triangle as the jeweller’s jealousy threatens to destroy Stella’s chance of happiness. Just like many of Nielsen’s characters, Stella won’t go down without a fight.
 
-**The Film Primadonna**
+**The Film Primadonna**<br>
 Nielsen plays a movie star with a tempestuous love life.<br>
 **bfi.org.uk**
 
@@ -58,6 +69,41 @@ Demark 1911<br>
 53 mins<br>
 
 **With live piano accompaniment by John Sweeney**<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzcyNTUwNV19
--->
+<br>
+
+**IN THE EYES OF A SILENT STAR: THE FILMS OF ASTA NIELSEN**<br>
+**The ABC of Asta Nielsen**<br>
+Thu 3 Feb 18:20<br>
+**The Abyss (Afgrunden) + The ABC of Love (Das Liebes ABC)**<br>
+Thu 3 Feb 20:30 (+ intro by season curator Pamela Hutchinson); Fri 11 Feb 18:20<br>
+**Zapata’s Gang (Zapatas Bande) + The Eskimo Baby (Das Eskimobaby)**<br>
+Fri 4 Feb 18:00; Sat 12 Feb 18:00<br>
+**The Black Dream (Den sorte Drøm)**<br>
+Fri 4 Feb 20:40; Sat 12 Feb 15:40<br>
+**Dora Brandes**<br>
+Sat 5 Feb 15:20; Thu 17 Feb 18:00 (+ intro)<br>
+**The Queen of the Stock Exchange (Die Börsenkönigin) + The Guinea Pig (Das Versuchskaninchen)**<br>
+Sat 5 Feb 18:00; Thu 17 Feb 20:40<br>
+**Towards the Light (Mod Lyset) + Asta Nielsen**<br>
+Wed 23 Feb 18:10; Sun 27 Feb 15:50<br>
+<br>
+**Cultural partner**<br>
+<img style="float: left;" src="/img/danish film institute.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
