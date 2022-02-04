@@ -21,48 +21,54 @@ His problem is the basic one of persuasion – which doesn’t mean that one is 
 
 **Penelope Houston, _Sight and Sound_, Autumn 1968**<br>
 
-<![endif]-->
-
-**THE BRIDE WORE BLACK (LA MARIÉE ÉTAIT EN NOIR)**
-
-_Director:_ François Truffaut
-
+**THE BRIDE WORE BLACK (LA MARIÉE ÉTAIT EN NOIR)**<br>
+_Director:_ François Truffaut<br>
 _Production Companies:_ Les Films du Carrosse,
+Les Productions Artistes Associés, Dino De Laurentiis Cinematografica (Rome)<br>
+_Producer:_ Marcel Berbert<br>
+_Production Manager:_ Georges Charlot<br>
+_Assistant Directors:_ Jean Chayrou, Roland Thénot<br>
+_Screenplay:_ François Truffaut<br>
+_Adaptation/Dialogue:_ Jean-Louis Richard<br>
+_Based on the novel_ The Bride Wore Black _by:_ William Irish<br>
+_Director of Photography:_ Raoul Coutard<br>
+_Camera Operator:_ Georges Liron<br>
+_Stills Photography:_ Marilù Parolini<br>
+_Film Editor:_ Claudine Bouché<br>
+_Art Director:_ Pierre Guffroy<br>
+_Hair:_ Simone Knapp<br>
+_Music:_ Bernard Herrmann<br>
+_Music Director:_ André Girard<br>
+_Sound:_ René Levert<br>
 
-Les Productions Artistes Associés,
+**Cast**<br>
+Jeanne Moreau _(Julie Kohler)_<br>
+Jean-Claude Brialy _(Corey)_<br>
+Michel Bouquet _(Robert Coral)_<br>
+Charles Denner _(Fergus)_
+Claude Rich _(Bliss)_
+Daniel Boulanger _(Holmes)_
+Michel Lonsdale _(René Morane)_
+Serge Rousseau _(David)_
+Jacques Robiolles _(Charlie)_
+Luce Fabiole _(Julie’s mother)_
+Sylvine Delannoy _(Mrs Morane)_
+Jacqueline Rouillard _(maid)_
+Van Doude _(Inspector Fabri)_
+Paul Pavel _(mechanic)_
+Maurice Garell _(plaintiff)_
+Gilles Quéant _(examining magistrate)_
+Alexandra Stewart _(Miss Becker)_
+Frédérique Fontanarosa, Renaud Fontanarosa _(musicians)_
+Christophe Brunot _(Morane’s son)_
+Dominique Robier _(Sabine)_
+Michèle Viborel _(Gilberte, Bliss’s fiancée)_
+Michèle Montfort _(model)_
+Daniel Pommereulle _(Fergus’s friend)_
 
-Dino De Laurentiis Cinematografica (Rome)
+France/Italy 1967
 
-_Producer:_ Marcel Berbert
-
-_Production Manager:_ Georges Charlot
-
-_Assistant Directors:_ Jean Chayrou, Roland Thénot
-
-_Screenplay:_ François Truffaut
-
-_Adaptation/Dialogue:_ Jean-Louis Richard
-
-_Based on the novel_ The Bride Wore Black _by:_ William Irish
-
-_Director of Photography:_ Raoul Coutard
-
-_Camera Operator:_ Georges Liron
-
-_Stills Photography:_ Marilù Parolini
-
-_Film Editor:_ Claudine Bouché
-
-_Art Director:_ Pierre Guffroy
-
-_Hair:_ Simone Knapp
-
-_Music:_ Bernard Herrmann
-
-_Music Director:_ André Girard
-
-_Sound:_ René Levert
-
+107 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTExOTQxNDRdfQ==
+eyJoaXN0b3J5IjpbMTU3MTQxNjExMV19
 -->
