@@ -1,3 +1,14 @@
+---
+layout: post
+title: Zapata's Gang<br>The Eskimo Baby
+published: true
+date: 2022-02-04
+readtime: true
+categories: ['IN THE EYES OF A SILENT STAR<br> THE FILMS OF ASTA NIELSEN']
+tags: [Comedy]
+metadata: 'Germany 1913/14, 42 mins<br> Director: Urban Gad<br>Germany 1916/18, 66 mins<br> Director: Walter Schmidthässler'
+pdf: '2022-02-04-zapatas-gang.pdf'
+---
 
 Asta Nielsen was perhaps surprisingly adept at broad comedy, though there’s always a transgressive twist. In **Zapata’s Gang**, she plays an actor, as she often would, in self-reflexive reference to her own celebrity. On location to shoot a film about bandits, Nielsen and her crew run into a real band of robbers who steal their clothes, forcing them to change into their outlaw costumes. While cross-dressed as a brigand, Nielsen gets involved with admirers of both sexes.
 
@@ -28,7 +39,6 @@ Germany 1913/14<br>
 Restored in 2006 by the Friedrich-Wilhelm-Murnau-Stiftung, digitised in 2014<br>
 
 **THE ESKIMO BABY (DAS ESKIMOBABY)**<br>
-
 _Director:_ Walter Schmidthässler<br>
 _Production Company:_ Neutral-Film GmbH<br>
 _Screenplay:_ Louis Levy, Martin Jørgensen<br>
@@ -47,6 +57,41 @@ Restored in 2000 by Danske Filminstitut and Deutsche Kinemathek<br>
 **Live piano accompaniment**<br>
 **by Cyrus Gabrysch on Fri 4 Feb**<br>
 **Costas Fotopoulos on Sat 12 Feb**<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5MjgzNDc5XX0=
--->
+<br>
+
+**IN THE EYES OF A SILENT STAR: THE FILMS OF ASTA NIELSEN**<br>
+**The ABC of Asta Nielsen**<br>
+Thu 3 Feb 18:20<br>
+**The Abyss (Afgrunden) + The ABC of Love (Das Liebes ABC)**<br>
+Thu 3 Feb 20:30 (+ intro by season curator Pamela Hutchinson); Fri 11 Feb 18:20<br>
+**Zapata’s Gang (Zapatas Bande) + The Eskimo Baby (Das Eskimobaby)**<br>
+Fri 4 Feb 18:00; Sat 12 Feb 18:00<br>
+**The Black Dream (Den sorte Drøm)**<br>
+Fri 4 Feb 20:40; Sat 12 Feb 15:40<br>
+**Dora Brandes**<br>
+Sat 5 Feb 15:20; Thu 17 Feb 18:00 (+ intro)<br>
+**The Queen of the Stock Exchange (Die Börsenkönigin) + The Guinea Pig (Das Versuchskaninchen)**<br>
+Sat 5 Feb 18:00; Thu 17 Feb 20:40<br>
+**Towards the Light (Mod Lyset) + Asta Nielsen**<br>
+Wed 23 Feb 18:10; Sun 27 Feb 15:50<br>
+<br>
+**Cultural partner**<br>
+<img style="float: left;" src="/img/danish film institute.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
