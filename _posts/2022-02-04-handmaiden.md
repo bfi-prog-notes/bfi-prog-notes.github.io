@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Handmaiden
+published: true
+date: 2022-02-04
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'South Korea, 2016, 144 mins<br> Director: Park Chan-wook'
+pdf: '2022-02-04-handmaiden.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -49,7 +60,7 @@ _Orchestra_:Kammersolisten der Deutschen Oper Berlin
 _Sound Design by_: Kim Suk-won  
 _Production Sound Mixer_: Jung Gun<br>
 
-**Cast**<br>  
+**Cast**<br>
 Kim Min-hee _(Lady Hideko)_  
 Kim Tae-ri _(Nam Sookhee, ‘Tamako’)_  
 Ha Jung-woo _(Fujiwara, ‘count’)_  
@@ -59,6 +70,63 @@ Moon So-ri _(Hideko’s aunt)_<br>
 
 South Korea 2016©<br>
 144 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjc5MDUyNzksMjAyMDg3NzE0NF19
--->
+<br>
+
+**BIG SCREEN CLASSICS**<br>
+**To Wong Foo, Thanks for Everything! Julie Newmar**<br>
+Tue 1 Feb 18:20; Fri 25 Feb 20:45<br>
+**Young Soul Rebels**<br>
+Wed 2 Feb 18:20 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair); Thu 17 Feb 20:45<br>
+**All About My Mother (Todo sobre mi madre)**<br>
+Wed 2 Feb 20:45; Wed 16 Feb 21:00<br>
+**Beautiful Thing**<br>
+Thu 3 Feb 20:45; Mon 14 Feb 20:30<br>
+**The Handmaiden (Ah-ga-ssi)**<br>
+Fri 4 Feb 17:50; Sat 12 Feb 20:10; Sun 27 Feb 17:50<br>
+**Rent**<br>
+Sat 5 Feb 12:30; Sun 20 Feb 18:10<br>
+**Maurice**<br>
+Sun 6 Feb 15:20; Mon 14 Feb 18:00<br>
+**The Watermelon Woman**<br>
+Mon 7 Feb 20:45; Sat 26 Feb 20:30<br>
+**Happy Together (Chun gwong cha sit)**<br>
+Tue 8 Feb 18:15 (+ intro by Yi Wang, Queer East); Sun 13 Feb 15:20<br>
+**My Own Private Idaho**<br>
+Tue 8 Feb 20:45; Wed 23 Feb 18:00 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair)<br>
+**Brokeback Mountain**<br>
+Wed 9 Feb 17:45 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair); Mon 21 Feb 20:25<br>
+**Go Fish**<br>
+Wed 9 Feb 20:40; Sat 26 Feb 18:20<br>
+**Rope**<br>
+Thu 10 Feb 18:30; Tue 22 Feb 14:30<br>
+**Victim**<br>
+Thu 10 Feb 20:40; Sun 13 Feb 13:00; Mon 21 Feb 18:00<br>
+**Desert Hearts**<br>
+Fri 11 Feb 20:40; Wed 16 Feb 18:20 (+ intro by BFI Head Librarian Emma Smart)<br>
+**My Beautiful Laundrette**<br>
+Sat 12 Feb 18:20; Tue 15 Feb 20:45; Sat 19 Feb 20:45<br>
+**A Fantastic Woman (Una mujer fantástica)**<br>
+Sun 13 Feb 18:40; Tue 22 Feb 20:50<br>
+**Mädchen in Uniform**<br>
+Fri 18 Feb 20:30; Sat 26 Feb 16:00<br>
+**Moonlight**<br>
+Thu 24 Feb 14:30; Mon 28 Feb 20:45<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
