@@ -15,71 +15,63 @@ The parallels with Hitchcock films are inevitable, explicitly encouraged by Truf
 **Nick Roddick, _Sight and Sound_, Winter 1983-84**<br>
 
 **FINALLY, SUNDAY! (VIVEMENT DIMANCHE!)**<br>
-_Director:_ François Truffaut
-_Production Companies:_ Films du Carrosse, Films A2, Soprofilms
-_Producer:_ Armand Barbault
-_Production Manager:_ Roland Thénot
-_Production Administrators:_ Jean-François Lentretien, Jacqueline Oblin
-_Assistant Directors:_ Suzanne Schiffman, Rosine Robiolle, Pascal Deux
-_Screenplay:_ François Truffaut, Suzanne Schiffman, Jean Aurel
-_Original Novel:_ Charles Williams
-_Director of Photography:_ Nestor Almendros
-_Camera Operators:_ Florent Bazin, Tessa Racine
-_Editor:_ Martine Barraque-Curie
-_Assistant Editors:_ Marie-Aimée Debril, Colette Achouche
-_Production Designer:_ Hilton Mac Connico
-_Assistant Art Directors:_ Jean-Michel Hugon, Frankie Diago, Alain Gambin, Jacques Gaillard
-_Set Dresser:_ Jacques Preisach
-_Costumes:_ Michèle Cerf
-_Wardrobe:_ Christiane Marmande
-_Make-up:_ Thi-Loan N’guyen
-_Titles and Opticals:_ Euro-Titres
-_Music:_ Georges Delerue
-_Sound Recording:_ Pierre Gamet, Bernard Chaumeil
-_Sound Re-recording:_ Jacques Maumont
-_Sound Effects:_ Daniel Couteau
+_Director:_ François Truffaut<br>
+_Production Companies:_ Films du Carrosse, Films A2, Soprofilms<br>
+_Producer:_ Armand Barbault<br>
+_Production Manager:_ Roland Thénot<br>
+_Production Administrators:_ Jean-François Lentretien, Jacqueline Oblin<br>
+_Assistant Directors:_ Suzanne Schiffman, Rosine Robiolle, Pascal Deux<br>
+_Screenplay:_ François Truffaut, Suzanne Schiffman, Jean Aurel<br>
+_Original Novel:_ Charles Williams<br>
+_Director of Photography:_ Nestor Almendros<br>
+_Camera Operators:_ Florent Bazin, Tessa Racine<br>
+_Editor:_ Martine Barraque-Curie<br>
+_Assistant Editors:_ Marie-Aimée Debril, Colette Achouche<br>
+_Production Designer:_ Hilton Mac Connico<br>
+_Assistant Art Directors:_ Jean-Michel Hugon, Frankie Diago, Alain Gambin, Jacques Gaillard<br>
+_Set Dresser:_ Jacques Preisach<br>
+_Costumes:_ Michèle Cerf<br>
+_Wardrobe:_ Christiane Marmande<br>
+_Make-up:_ Thi-Loan N’guyen<br>
+_Titles and Opticals:_ Euro-Titres<br>
+_Music:_ Georges Delerue<br>
+_Sound Recording:_ Pierre Gamet, Bernard Chaumeil<br>
+_Sound Re-recording:_ Jacques Maumont<br>
+_Sound Effects:_ Daniel Couteau<br>
 
-**Cast**
-Fanny Ardant _(Barbara Becker)_
-Jean-Louis Trintignant _(Julien Vercel)_
-Philippe Laudenbach _(maître Clément)_
-Caroline Sihol _(Marie-Christine Vercel)_
-Philippe Morier-Genoud _(Superintendent Santelli)_
-Xavier Saint-Macary _(Bertrand Fabre)_
-Jean-Pierre Kalfon _(Jacques Massoulier)_
-Anik Belaubre _(cashier at the Eden)_
-Jean-Louis Richard _(Louison)_
-Yann Dedet _(Angel Face)_
-Nicole Félix _(scarred woman)_
-Georges Koulouris _(Lablache)_
-Roland Thénot _(Jambrau)_
-Pierre Gare _(Inspector Poivert)_
-Jean-Pierre Kohut-Svelko _(the slav)_
-Pascale Pellegrin _(secretary)_
-Castel Casti
-Michel Aubossu
-Paulina Aubret
-Isabelle Binet
-Dany Castaing
-Alain Gambin
+**Cast**<br>
+Fanny Ardant _(Barbara Becker)_<br>
+Jean-Louis Trintignant _(Julien Vercel)_<br>
+Philippe Laudenbach _(maître Clément)_<br>
+Caroline Sihol _(Marie-Christine Vercel)_<br>
+Philippe Morier-Genoud _(Superintendent Santelli)_<br>
+Xavier Saint-Macary _(Bertrand Fabre)_<br>
+Jean-Pierre Kalfon _(Jacques Massoulier)_<br>
+Anik Belaubre _(cashier at the Eden)_<br>
+Jean-Louis Richard _(Louison)_<br>
+Yann Dedet _(Angel Face)_<br>
+Nicole Félix _(scarred woman)_<br>
+Georges Koulouris _(Lablache)_<br>
+Roland Thénot _(Jambrau)_<br>
+Pierre Gare _(Inspector Poivert)_<br>
+Jean-Pierre Kohut-Svelko _(the slav)_<br>
+Pascale Pellegrin _(secretary)_<br>
+Castel Casti<br>
+Michel Aubossu<br>
+Paulina Aubret<br>
+Isabelle Binet<br>
+Dany Castaing<br>
+Alain Gambin<br>
+Michel Grisoni<br>
+Marie-Noëlle Guilliot<br>
+Pierrette Monticelli<br>
+Adrien Silvio<br>
+Paul Steiger<br>
+Christine Verbèke<br>
+Jacques Vidal<br>
 
-Michel Grisoni
-
-Marie-Noëlle Guilliot
-
-Pierrette Monticelli
-
-Adrien Silvio
-
-Paul Steiger
-
-Christine Verbèke
-
-Jacques Vidal
-
-France 1983
-
+France 1983<br><br>
 110 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzNTYwNjE3XX0=
+eyJoaXN0b3J5IjpbLTEwNDM0NDYzN119
 -->
