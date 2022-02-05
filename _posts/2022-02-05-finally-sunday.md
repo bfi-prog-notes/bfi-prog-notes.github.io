@@ -70,8 +70,8 @@ Paul Steiger<br>
 Christine Verbèke<br>
 Jacques Vidal<br>
 
-France 1983<br><br>
-110 mins
+France 1983<br>
+110 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDM0NDYzN119
+eyJoaXN0b3J5IjpbLTUyNjUyMzQ5XX0=
 -->
