@@ -25,81 +25,58 @@ There’s a startling scene where Muriel at last gives herself to Claude; we see
 _Anne and Muriel_ has remained with me better than most Truffaut films. It is a period piece that feels true, but the period is not laid on like cream. The Georges Delerue score is heartfelt, and not allowed to be ecstatic. Psychologically this is a modern story, despite characters from before World War I. Muriel is more interesting than Anne, but Anne is more natural. Muriel is always laying down the law, then breaking it. Anne is like the flow of water. They are sisters, but from Bresson and Renoir. It is a story about how dangerous love is, and the wounds it leaves.<br>
 **David Thomson, _Sight & Sound_, March 2011**<br>
 
+**ANNE AND MURIEL (DEUX ANGLAISES ET LE CONTINENT)**<br>
+_Director:_ François Truffaut<br>
+_©:_ Les Films du Carrosse S.A.<br>
+_Production Companies:_ Les Films du Carrosse, Cinétel<br>
+_Executive Producer:_ Marcel Berbert<br>
+_Unit Production Manager:_ Roland Thénot<br>
+_Production Manager:_ Claude Miller<br>
+_Production Administrator:_ Christian Lentretien<br>
+_Assistant Director:_ Suzanne Schiffman<br>
+_Script Supervisor:_ Christine Pellé<br>
+_Adaptation and Dialogue:_ François Truffaut, Jean Gruault<br>
+_Based on the novel by:_ Henri-Pierre Roché<br>
+_Director of Photography:_ Nestor Almendros<br>
+_Camera:_ Jean-Claude Rivière<br>
+_Assistant Camera:_ Yves Lafaye<br>
+_Editors:_ Yann Dedet, Martine Barraque<br>
+_Art Director:_ Michel de Broin<br>
+_Assistant Art Director:_ Jean-Pierre Kohut-Svelko<br>
+_Properties:_ Jean-Claude Dolbert<br>
+_Costumes:_ Gitt Magrini<br>
+_Costume Assistant:_ Pierangelo Cicoletti<br>
+_Hair Stylist:_ Simone Knapp<br>
+_Laboratory:_ L.T.C. (Saint-Cloud)<br>
+_Music:_ Georges Delerue<br>
+_Sound:_ René Levert<br>
+_Sound Mixing:_ SIS La Garenne<br>
+_Narrator:_ François Truffaut<br>
 
-**ANNE AND MURIEL (DEUX ANGLAISES ET LE CONTINENT)**
-_Director:_ François Truffaut
-_©:_ Les Films du Carrosse S.A.
-_Production Companies:_ Les Films du Carrosse, Cinétel
-_Executive Producer:_ Marcel Berbert
-_Unit Production Manager:_ Roland Thénot
-_Production Manager:_ Claude Miller
-_Production Administrator:_ Christian Lentretien
-_Assistant Director:_ Suzanne Schiffman
-_Script Supervisor:_ Christine Pellé
-_Adaptation and Dialogue:_ François Truffaut, Jean Gruault
-_Based on the novel by:_ Henri-Pierre Roché
-_Director of Photography:_ Nestor Almendros
-_Camera:_ Jean-Claude Rivière
-_Assistant Camera:_ Yves Lafaye
-_Editors:_ Yann Dedet, Martine Barraque
-_Art Director:_ Michel de Broin
-_Assistant Art Director:_ Jean-Pierre Kohut-Svelko
-_Properties:_ Jean-Claude Dolbert
-_Costumes:_ Gitt Magrini
-_Costume Assistant:_ Pierangelo Cicoletti,
-_Hair Stylist:_ Simone Knapp
-_Laboratory:_ L.T.C. (Saint-Cloud)
-_Music:_ Georges Delerue
-_Sound:_ René Levert
-_Sound Mixing:_ SIS La Garenne
-_Narrator:_ François Truffaut
->
-
-**Cast**
-
-Jean-Pierre Léaud _(Claude Roc)_
-
-Kika Markham _(Anne Brown)_
-
-Stacey Tendeter _(Muriel Brown)_
-
-Sylvia Marriott _(Mrs Brown)_
-
-Philippe Léotard _(Diurka)_
-
-Marie Mansart _(Mme Roc)_
-
-David Markham _(palmist)_
-
-Irène Tunc _(Ruta)_
-
-Mark Peterson _(Mr Flint)_
-
-Georges Delerue _(Claude’s Business Agent)_
-
-Marie Iracane _(Claire and Claude Roc’s maid)_
-
+**Cast**<br>
+Jean-Pierre Léaud _(Claude Roc)_<br>
+Kika Markham _(Anne Brown)_<br>
+Stacey Tendeter _(Muriel Brown)_<br>
+Sylvia Marriott _(Mrs Brown)_<br>
+Philippe Léotard _(Diurka)_<br>
+Marie Mansart _(Mme Roc)_<br>
+David Markham _(palmist)_<br>
+Irène Tunc _(Ruta)_<br>
+Mark Peterson _(Mr Flint)_<br>
+Georges Delerue _(Claude’s Business Agent)_<br>
+Marie Iracane _(Claire and Claude Roc’s maid)_<br>
 Marcel Berbert _(art dealer)_
-
 Jeanne Lobre _(Jeanne)_
-
 _uncredited_
-
 Annie Miller _(Monique de Monferrand)_
-
 Christine Pellé _(Claude’s secretary)_
-
 Anne Levaslot _(Muriel as a child)_
-
 Sophie Jeanne _(Clarisse)_
-
 René Gaillard _(taxi driver)_
-
 Sophie Baker _(friend in café)_
 
-France 1971_©_
-
-130 mins
+France 1971©<br>
+130 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc4MDA1NDJdfQ==
+eyJoaXN0b3J5IjpbLTEyODQzNTY1MzBdfQ==
 -->
