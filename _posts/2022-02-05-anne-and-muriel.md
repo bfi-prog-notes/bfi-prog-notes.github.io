@@ -65,18 +65,18 @@ Irène Tunc _(Ruta)_<br>
 Mark Peterson _(Mr Flint)_<br>
 Georges Delerue _(Claude’s Business Agent)_<br>
 Marie Iracane _(Claire and Claude Roc’s maid)_<br>
-Marcel Berbert _(art dealer)_
-Jeanne Lobre _(Jeanne)_
-_uncredited_
-Annie Miller _(Monique de Monferrand)_
-Christine Pellé _(Claude’s secretary)_
-Anne Levaslot _(Muriel as a child)_
-Sophie Jeanne _(Clarisse)_
-René Gaillard _(taxi driver)_
-Sophie Baker _(friend in café)_
+Marcel Berbert _(art dealer)_<br>
+Jeanne Lobre _(Jeanne)_<br>
+_uncredited_<br>
+Annie Miller _(Monique de Monferrand)_<br>
+Christine Pellé _(Claude’s secretary)_<br>
+Anne Levaslot _(Muriel as a child)_<br>
+Sophie Jeanne _(Clarisse)_<br>
+René Gaillard _(taxi driver)_<br>
+Sophie Baker _(friend in café)_<br>
 
 France 1971©<br>
 130 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQzNTY1MzBdfQ==
+eyJoaXN0b3J5IjpbLTE5NjMzMDYzNjhdfQ==
 -->
