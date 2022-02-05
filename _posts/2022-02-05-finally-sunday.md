@@ -1,3 +1,14 @@
+---
+layout: post
+title: Finally Sunday!
+published: true
+date: 2022-02-05
+readtime: true
+categories: ['FRANÇOIS TRUFFAUT<br>FOR THE LOVE OF FILMS']
+tags: [Thriller, Comedy]
+metadata: 'France 1983, 110 mins<br> Director: François Truffaut'
+pdf: '2022-02-05-finally-sunday.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -11,7 +22,7 @@ _Vivement dimanche!_ has lots of verve: a verve in storytelling (the discovery t
 
 True, much of the energy which characterised the work of the young Truffaut has turned to stylistic devices, almost to the point of self-parody, as in the opening sequence in which a young man tries to pick up Fanny Ardant on the street, but good-naturedly accepts that she is going the other way. On the other hand, one can be grateful that the semi-comic, semi-tragic pursuit of the magic woman which has dogged many of the more recent films has here been reduced to its proper status of McGuffin. Trapped in the phone box at the end, Philippe Laudenbach reveals he did it all for women, but the confession, which has been central to earlier works, here registers about as much as the microfilm in the statuette in _North by Northwest_.
 
-The parallels with Hitchcock films are inevitable, explicitly encouraged by Truffaut himself. And, at the risk of offending one of cinema criticism’s most unquestionable canons, I would say he brings it all off rather better than the master in his recently re-released foray into similar territory with _The Trouble with Harry_. What Hitchcock rather archly does for small-town America there, Truffaut lovingly does for small-town France, artificialised here according to a set of rules as specifically French as those which govern the Hitchcock film are undoubtedly American, with that fascination for the very ordinary eccentric – the diminutive, elderly gentleman who runs the Marseilles detective agency –and the idiosyncratically obsessive behaviour of his more central characters. In a curious kind of way, the film seems to be as much a _hommage_ to a certain kind of French cinema – Autant-Lara’s _La Traversee de_ Paris, perhaps – as to Hitchcock. Above all, though, it remains a doodle, some of its figures skilfully suggestive, others merely decorative, some undoubtedly botched. But for all that, it is Truffaut’s most entertaining and watchable film since _Day for Night_ –which, come to think of it, was also taken to task for being neither angry nor innovative. Who’d be a battle cry?<br>
+The parallels with Hitchcock films are inevitable, explicitly encouraged by Truffaut himself. And, at the risk of offending one of cinema criticism’s most unquestionable canons, I would say he brings it all off rather better than the master in his recently re-released foray into similar territory with _The Trouble with Harry_. What Hitchcock rather archly does for small-town America there, Truffaut lovingly does for small-town France, artificialised here according to a set of rules as specifically French as those which govern the Hitchcock film are undoubtedly American, with that fascination for the very ordinary eccentric – the diminutive, elderly gentleman who runs the Marseilles detective agency –and the idiosyncratically obsessive behaviour of his more central characters. In a curious kind of way, the film seems to be as much a _hommage_ to a certain kind of French cinema – Autant-Lara’s _La Traversee de_ Paris, perhaps – as to Hitchcock. Above all, though, it remains a doodle, some of its figures skilfully suggestive, others merely decorative, some undoubtedly botched. But for all that, it is Truffaut’s most entertaining and watchable film since _Day for Night_ –which, come to think of it, was also taken to task for being neither angry nor innovative. Who’d be<br> a battle cry?<br>
 **Nick Roddick, _Sight and Sound_, Winter 1983-84**<br>
 
 **FINALLY, SUNDAY! (VIVEMENT DIMANCHE!)**<br>
@@ -72,6 +83,61 @@ Jacques Vidal<br>
 
 France 1983<br>
 110 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjUyMzQ5XX0=
--->
+<br>
+
+**FRANÇOIS TRUFFAUT: FOR THE LOVE OF FILMS**<br>
+**Jules et Jim (Jules and Jim)**<br>
+From Fri 4 Feb<br>
+**Philosophical Screens: Jules et Jim**<br>
+Thu 10 Feb 20:20<br>
+**The Representation of Women in Truffaut’s Films**<br>
+Fri 18 Feb 18:20<br>
+
+**THE LITERARY TRUFFAUT**<br>
+**Anne and Muriel (Les Deux Anglaises et le continent)**<br>
+Sat 5 Feb 12:20; Thu 17 Feb 17:50 (+ intro by actor Kika Markham); Tue 22 Feb 20:25<br>
+**Fahrenheit 451**<br>
+Sat 5 Feb 20:45; Sun 13 Feb 12:40; Sun 27 Feb 18:40<br>
+**The Story of Adèle H (L’Histoire d’Adèle H)**<br>
+Wed 9 Feb 20:55; Sat 12 Feb 20:45; Sat 19 Feb 18:20<br>
+**The Green Room (La Chambre verte)**<br>
+Thu 10 Feb 18:20; Tue 15 Feb 20:40; Wed 23 Feb 20:40<br>
+
+**THE HITCHCOCK TRUFFAUT**<br>
+**Shoot the Pianist (Tirez sur le pianiste)**<br>
+Tue 1 Feb 20:50; Fri 11 Feb 18:30; Sat 26 Feb 13:20<br>
+**The Bride Wore Black (La Mariée était en noir)**<br>
+Fri 4 Feb 20:45; Sun 13 Feb 18:00; Sun 27 Feb 12:10<br>
+**Finally Sunday! (Vivement dimanche!)**<br>
+Sat 5 Feb 17:50; Sat 12 Feb 12:30; Sun 27 Feb 15:00<br>
+**Mississippi Mermaid (La Sirène du Mississippi)**<br>
+Sun 6 Feb 12:40; Fri 18 Feb 20:35; Fri 25 Feb 18:00<br>
+**La Peau douce (Silken Skin)**<br>
+Sun 6 Feb 18:20; Sat 12 Feb 17:20; Sat 26 Feb 15:30<br>
+**The Woman Next Door (La Femme d’à côté)**<br>
+Tue 8 Feb 20:30; Mon 21 Feb 18:10; Thu 24 Feb 20:30<br>
+<br>
+
+**In cultural partnership with**  
+<img style="float: left;" src="/img/institut-francais.jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+A selection of 10 Truffaut films will be available on BFI Player Subscription from January, and a selection of Truffaut films will screen around the UK<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
