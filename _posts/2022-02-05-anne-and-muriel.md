@@ -1,11 +1,9 @@
 
-_The screening on Thursday 17 February will be introduced by actor  
-Kika Markham._
+_The screening on Thursday 17 February will be introduced by actor Kika Markham._
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
-**David Thomson on ‘Anne and Muriel’**
-
+**David Thomson on ‘Anne and Muriel’**<br>
 Truffaut called _Anne and Muriel_ ‘a sorrowful film, possibly even wallowing in its own misery, but sincere’. The previous year, his love affair with Catherine Deneuve had ended. Seriously depressed, he entered a clinic for a sleep cure, and took one book with him: Henri-Pierre Roché’s _Les Deux_ _Anglaises et le continent_. He knew the novel already, because he had had such success with Roché’s _Jules et Jim_. He seems to have set out on this new project to wipe away depression, and he shot it in a hurry, falling in love with one of his two British lead actresses, Kika Markham. Still, it’s a dark picture with disturbing emotions, not as poised or pretty as _Jules et Jim_, and the darkness found box office failure.
 
 The girls are the Brown sisters, Anne (Markham) and Muriel (Stacey Tendeter), and they live in north Wales (a location rediscovered in Normandy), in a grey house on a cliff side; it’s pale green outside, with rich blues and browns inside. A French youth, Claude Roc (Jean-Pierre Léaud), visits them. The trio play games indoors and out. They argue over words and ideas. Immense attraction flows. Claude believes he is in love with Muriel. The girls’ mother, Mrs Brown, decides he must lodge in a neighbour’s house, and that separation locks the love in place. But Muriel declines him. ‘No, never,’ she says, and then she withdraws ‘never’. Mrs Brown settles the confusion with Claude’s mother (the fathers are dead). Claude goes back to Paris and breaks off with Muriel. At which point, she decides she was his ‘wife’.
@@ -25,7 +23,83 @@ In 2000, Ian MacKillop published an invaluable book, _Free Spirits: Henri-Pierre
 There’s a startling scene where Muriel at last gives herself to Claude; we see a bed steeped in blood, and the camera sinks into its magma. Truffaut was seldom so explicit, and over the years that scene has become more painful. It matches Muriel’s black vomit when she hears about Anne and Claude. The film’s commercial reception was so poor that Truffaut was persuaded to cut it down, from 132 to 108 minutes, and he was urged to lose the bloody bed. But he would not give it up.
 
 _Anne and Muriel_ has remained with me better than most Truffaut films. It is a period piece that feels true, but the period is not laid on like cream. The Georges Delerue score is heartfelt, and not allowed to be ecstatic. Psychologically this is a modern story, despite characters from before World War I. Muriel is more interesting than Anne, but Anne is more natural. Muriel is always laying down the law, then breaking it. Anne is like the flow of water. They are sisters, but from Bresson and Renoir. It is a story about how dangerous love is, and the wounds it leaves.<br>
-***David Thomson, _Sight & Sound_, March 2011**
+**David Thomson, _Sight & Sound_, March 2011**<br>
+
+
+**ANNE AND MURIEL (DEUX ANGLAISES ET LE CONTINENT)**
+_Director:_ François Truffaut
+_©:_ Les Films du Carrosse S.A.
+_Production Companies:_ Les Films du Carrosse, Cinétel
+_Executive Producer:_ Marcel Berbert
+_Unit Production Manager:_ Roland Thénot
+_Production Manager:_ Claude Miller
+_Production Administrator:_ Christian Lentretien
+_Assistant Director:_ Suzanne Schiffman
+_Script Supervisor:_ Christine Pellé
+_Adaptation and Dialogue:_ François Truffaut, Jean Gruault
+_Based on the novel by:_ Henri-Pierre Roché
+_Director of Photography:_ Nestor Almendros
+_Camera:_ Jean-Claude Rivière
+_Assistant Camera:_ Yves Lafaye
+_Editors:_ Yann Dedet, Martine Barraque
+_Art Director:_ Michel de Broin
+_Assistant Art Director:_ Jean-Pierre Kohut-Svelko
+_Properties:_ Jean-Claude Dolbert
+_Costumes:_ Gitt Magrini
+_Costume Assistant:_ Pierangelo Cicoletti,
+_Hair Stylist:_ Simone Knapp
+_Laboratory:_ L.T.C. (Saint-Cloud)
+_Music:_ Georges Delerue
+_Sound:_ René Levert
+_Sound Mixing:_ SIS La Garenne
+_Narrator:_ François Truffaut
+>
+
+**Cast**
+
+Jean-Pierre Léaud _(Claude Roc)_
+
+Kika Markham _(Anne Brown)_
+
+Stacey Tendeter _(Muriel Brown)_
+
+Sylvia Marriott _(Mrs Brown)_
+
+Philippe Léotard _(Diurka)_
+
+Marie Mansart _(Mme Roc)_
+
+David Markham _(palmist)_
+
+Irène Tunc _(Ruta)_
+
+Mark Peterson _(Mr Flint)_
+
+Georges Delerue _(Claude’s Business Agent)_
+
+Marie Iracane _(Claire and Claude Roc’s maid)_
+
+Marcel Berbert _(art dealer)_
+
+Jeanne Lobre _(Jeanne)_
+
+_uncredited_
+
+Annie Miller _(Monique de Monferrand)_
+
+Christine Pellé _(Claude’s secretary)_
+
+Anne Levaslot _(Muriel as a child)_
+
+Sophie Jeanne _(Clarisse)_
+
+René Gaillard _(taxi driver)_
+
+Sophie Baker _(friend in café)_
+
+France 1971_©_
+
+130 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNDYyMzkzMl19
+eyJoaXN0b3J5IjpbLTIwOTc4MDA1NDJdfQ==
 -->
