@@ -13,60 +13,54 @@ The weaknesses are self-evident. There is a certain lack of conviction in the ba
 **Gilles Jacob, _Sight and Sound_, Autumn 1964**<br>
 
 **LA PEAU DOUCE**<br>
-_Director:_ François Truffaut
-_©:_ Les Films du Carrosse, SEDIF, Simar Films
-_Original Screenplay by:_ F. Truffaut, Jean-Louis Richard
-_Director of Photography:_ Raoul Coutard
-_Editor:_ Claudine Bouché
-_Laboratory:_ Franay L.T.C. St.-Cloud
-_Music:_ Georges Delerue
-_Music Publisher:_ Editions Musicales Hortensia
-_Sound Recording:_ Studio Marignan
-_uncredited_
-_Production Company:_ Producões Cunha Telles
-_Producers:_ François Truffaut, António da Cunha Telles
-_Production Manager:_ Marcel Berbert
-_Assistant Directors:_ Jean-François Adam, Jean-Pierre Léaud, Claude Othnin-Girard
-_Continuity:_ Suzanne Schiffman
-_Camera Operators:_ Georges Liron, Denis Mornet
-_Assistant Camera:_ Claude Beausoleil
-_Still Photographer:_ Raymond Cauchetier
-_Assistant Editor:_ Lila Biro
-_Properties:_ Jean-Claude Dolbert
-_Costumes:_ Renée Rouzot
-_Make-up Artist:_ Nicole Félix
+_Director:_ François Truffaut<br>
+_©:_ Les Films du Carrosse, SEDIF, Simar Films<br>
+_Original Screenplay by:_ F. Truffaut, Jean-Louis Richard<br>
+_Director of Photography:_ Raoul Coutard<br>
+_Editor:_ Claudine Bouché<br>
+_Laboratory:_ Franay L.T.C. St.-Cloud<br>
+_Music:_ Georges Delerue<br>
+_Music Publisher:_ Editions Musicales Hortensia<br>
+_Sound Recording:_ Studio Marignan<br>
+_uncredited_<br>
+_Production Company:_ Producões Cunha Telles<br>
+_Producers:_ François Truffaut, António da Cunha Telles<br>
+_Production Manager:_ Marcel Berbert<br>
+_Assistant Directors:_ Jean-François Adam, Jean-Pierre Léaud, Claude Othnin-Girard<br>
+_Continuity:_ Suzanne Schiffman<br>
+_Camera Operators:_ Georges Liron, Denis Mornet<br>
+_Assistant Camera:_ Claude Beausoleil<br>
+_Still Photographer:_ Raymond Cauchetier<br>
+_Assistant Editor:_ Lila Biro<br>
+_Properties:_ Jean-Claude Dolbert<br>
+_Costumes:_ Renée Rouzot<br>
+_Make-up Artist:_ Nicole Félix<br>
 
-**Cast**
-Jean Desailly _(Pierre Lachenay)_
-Françoise Dorléac _(Nicole Chomette)_
-Nelly Benedetti _(Franca Lachenay)_
-Daniel Ceccaldi _(Clément)_
-Laurence Badie _(Ingrid)_
-Sabine Haudepin _(Sabine)_
-Philippe Dumant _(cinema manager)_
-Dominique Lacarrière _(Pierre’s secretary)_
-Paule Emanuèle _(Odile)_
-Jean Lanier _(Michel)_
-Maurice Garrel _(bookseller)_
-Pierre Risch _(canon)_
-_uncredited_
-François Truffaut _(voice of petrol station attendant)_
-Oliva Poli _(Mme Bontemps)_
-Gérard Poirot _(Franck, co-pilot)_
+**Cast**<br>
+Jean Desailly _(Pierre Lachenay)_<br>
+Françoise Dorléac _(Nicole Chomette)_<br>
+Nelly Benedetti _(Franca Lachenay)_<br>
+Daniel Ceccaldi _(Clément)_<br>
+Laurence Badie _(Ingrid)_<br>
+Sabine Haudepin _(Sabine)_<br>
+Philippe Dumant _(cinema manager)_<br>
+Dominique Lacarrière _(Pierre’s secretary)_<br>
+Paule Emanuèle _(Odile)_<br>
+Jean Lanier _(Michel)_<br>
+Maurice Garrel _(bookseller)_<br>
+Pierre Risch _(canon)_<br>
+_uncredited_<br>
+François Truffaut _(voice of petrol station attendant)_<br>
+Oliva Poli _(Mme Bontemps)_<br>
+Gérard Poirot _(Franck, co-pilot)_<br>
+Maximiliènne Harlaut _(Mme Leloix)_<br>
+Georges de Givray _(Nicole’s father)_<br>
+Catherine-Isabelle Duport _(young girl)_<br>
+Thérèse Renouard _(cashier)_<br>
+Jean-Louis Richard _(man in street)_<br>
 
-Maximiliènne Harlaut _(Mme Leloix)_
-
-Georges de Givray _(Nicole’s father)_
-
-Catherine-Isabelle Duport _(young girl)_
-
-Thérèse Renouard _(cashier)_
-
-Jean-Louis Richard _(man in street)_
-
-France/Portugal 1964©
-
-113 mins
+France/Portugal 1964©<br>
+113 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4NjMzOTk1XX0=
+eyJoaXN0b3J5IjpbLTM4OTM1Mjg1N119
 -->
