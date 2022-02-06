@@ -17,70 +17,43 @@ _La Sirène_, in fact, takes the Hitchcock glazing more successfully than any ot
 **Richard Combs, _Monthly Film Bulletin_, June 1974**<br>
 
 **MISSISSIPPI MERMAID (LA SIRÈNE DU MISSISSIPI)**<br>
-_Director:_ François Truffaut
-_©/Production Company:_ Les Films du Carrosse
-_Production Companies:_ Les Productions Artistes Associés, Produzioni Associate Delphos
-_Producer:_ Marcel Berbert
-_Production Manager:_ Claude Miller
-_General Manager:_ Roland Thénot
+_Director:_ François Truffaut<br>
+_©/Production Company:_ Les Films du Carrosse<br>
+_Production Companies:_ Les Productions Artistes Associés, Produzioni Associate Delphos<br>
+_Producer:_ Marcel Berbert<br>
+_Production Manager:_ Claude Miller<br>
+_General Manager:_ Roland Thénot<br>
+_Assistant Directors:_ Jean-José Richer, Jean-François Detré<br>
+_Script Girl:_ Suzanne Schiffman<br>
+_Screenplay:_ François Truffaut<br>
+_Based on the novel_ Waltz into Darkness _by:_ William Irish<br>
+_Director of Photography:_ Denys Clerval<br>
+_Camera:_ Jean Chiabaut<br>
+_Assistant Camera:_ Jacques Assuérus<br>
+_Chief Electrician:_ Claude Rouxel<br>
+_Key Grip:_ Louis Balthazard<br>
+_Set Photography:_ Léonard de Reamy<br>
+_Film Editor:_ Agnès Guillemot<br>
+_Art Director:_ Claude Pignot<br>
+_Catherine Deneuve’s Costumes by:_ Yves Saint-Laurent<br>
+_Make-up:_ Michel Deruelle, J.P. Eychenne<br>
+_Hairdresser:_ Jacqueline Anatole<br>
+_Music:_ Antoine Duhamel<br>
+_Sound Recording:_ Guy Chichignoud<br>
+_Sound Mixer:_ René Levert<br>
 
-_Assistant Directors:_ Jean-José Richer, Jean-François Detré
+**Cast**<br>
+Jean-Paul Belmondo _(Louis Mahé)_<br>
+Catherine Deneuve _(Julie Roussel/Marion)_<br>
+Michel Bouquet _(Comolli)_<br>
+Nelly Borgeaud _(Berthe Roussel)_<br>
+Marcel Berbert _(Jardine)_<br>
+Martine Ferrière _(landlady)_<br>
+Roland Thénot _(Richard)_<br>
+Yves Drouhet<br>
 
-_Script Girl:_ Suzanne Schiffman
-
-_Screenplay:_ François Truffaut
-
-_Based on the novel_ Waltz into Darkness _by:_ William Irish
-
-_Director of Photography:_ Denys Clerval
-
-_Camera:_ Jean Chiabaut
-
-_Assistant Camera:_ Jacques Assuérus
-
-_Chief Electrician:_ Claude Rouxel
-
-_Key Grip:_ Louis Balthazard
-
-_Set Photography:_ Léonard de Reamy
-
-_Film Editor:_ Agnès Guillemot
-
-_Art Director:_ Claude Pignot
-
-_Catherine Deneuve’s Costumes by:_ Yves Saint-Laurent
-
-_Make-up:_ Michel Deruelle, J.P. Eychenne
-
-_Hairdresser:_ Jacqueline Anatole
-
-_Music:_ Antoine Duhamel
-
-_Sound Recording:_ Guy Chichignoud
-
-_Sound Mixer:_ René Levert
-
-**Cast**
-
-Jean-Paul Belmondo _(Louis Mahé)_
-
-Catherine Deneuve _(Julie Roussel/Marion)_
-
-Michel Bouquet _(Comolli)_
-
-Nelly Borgeaud _(Berthe Roussel)_
-
-Marcel Berbert _(Jardine)_
-
-Martine Ferrière _(landlady)_
-
-Roland Thénot _(Richard)_
-
-Yves Drouhet
-
-France/Italy 1970©
-
-123 mins
+France/Italy 1970©<br>
+123 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzIzODk0M119
+eyJoaXN0b3J5IjpbOTM1NjExMzg1XX0=
 -->
