@@ -1,21 +1,17 @@
-<![endif]-->
 
 _+ intro by Yi Wang, Queer East (on Tuesday 8 February only)_
 
-A trip to Buenos Aires reveals the dark side of love as a gay couple (Tony Leung and Leslie Cheung) struggle with jealousy, co-dependency and possessiveness as their turbulent relationship falls apart. Their growing sense of alienation is lensed with a lush dreaminess, a mix of monochrome and vivid colours. This painfully raw romance delivers a devastating portrait of infatuation in all its irresistible cruelty.
-
-**bfi.org.uk**
+A trip to Buenos Aires reveals the dark side of love as a gay couple (Tony Leung and Leslie Cheung) struggle with jealousy, co-dependency and possessiveness as their turbulent relationship falls apart. Their growing sense of alienation is lensed with a lush dreaminess, a mix of monochrome and vivid colours. This painfully raw romance delivers a devastating portrait of infatuation in all its irresistible cruelty.<br>
+**bfi.org.uk**<br>
 
 Drawn to Argentina by his enthusiasm for Latin-American literature, Wong Kar Wai made a preliminary reconnaissance trip to Buenos Aires in the late spring of 1996 and went back in August to begin production of the film. His working title was _Buenos Aires Affair_. What was originally envisaged as a six-week shoot stretched through to December. As usual, Wong started with an outline, some pieces of music and a set of ideas and images rather than a conventional script. The narrative base was an on-off romance between two gay émigrés from Hong Kong, complicated by encounters with other Chinese on the road.
 
 The central couple are Ho Po-Wing (Leslie Cheung, of _Rouge_, _A Chinese Ghost Story_ and _Farewell My Concubine_) and Lai Yiu-Fei (Tony Leung, of _Hard Boiled_, _A City of Sadness_ and _Cyclo_). A young Taiwanese who drifts into Lai’s orbit is played by Zhang Zhen (_A Brighter Summer_ _Day_, _Mahjong_). The Hong Kong singer Shirley Kwan also shot a number of scenes, but her pans have gone from the finished film.
 
-As edited, _Happy Together_ has lost not only Shirley Kwan but also countless scenes and incidents devised by Wong during the shoot, including an extended episode in which the Leslie Cheung character became a cross-dressing hooker. The finished film is one of the most searing accounts ever made of doomed and destructive love, but also a strong and very moving affirmation of romantic folly.
+As edited, _Happy Together_ has lost not only Shirley Kwan but also countless scenes and incidents devised by Wong during the shoot, including an extended episode in which the Leslie Cheung character became a cross-dressing hooker. The finished film is one of the most searing accounts ever made of doomed and destructive love, but also a strong and very moving affirmation of romantic folly.<br>
+**Tony Rayns, _Sight and Sound_, March 1997**<br>
 
-**Tony Rayns, _Sight and Sound_, March 1997**
-
-Great expectations stalk director Wong Kar Wai. _Chungking Express_, with its oddball conceits and acrobatic camerawork, was a delicate, fluid delight.  
-But _Fallen Angels_, his next effort, was frantic and dislocated. Seemingly desperate to be Melville’s _Le Samouraï_, it played like an upmarket pop video (indeed, a Texas video ripped it off shamelessly). Now, even though it has already won Wong Kar Wai the Best Director prize at the Cannes festival last year, _Happy Together_ begs the question of whether it is as good as _Chungking Express_. The answer is: yes and no.
+Great expectations stalk director Wong Kar Wai. _Chungking Express_, with its oddball conceits and acrobatic camerawork, was a delicate, fluid delight.  But _Fallen Angels_, his next effort, was frantic and dislocated. Seemingly desperate to be Melville’s _Le Samouraï_, it played like an upmarket pop video (indeed, a Texas video ripped it off shamelessly). Now, even though it has already won Wong Kar Wai the Best Director prize at the Cannes festival last year, _Happy Together_ begs the question of whether it is as good as _Chungking Express_. The answer is: yes and no.
 
 An adaptation of Manuel Puig’s little-known novel _The Buenos Aires Affair_, _Happy Together_ is acutely concerned with surfaces. Initially shot in black and white, our two protagonists, Lai (sad-eyed Tony Leung, the second cop in _Chungking Express_) and Ho (spiteful-pretty Leslie Cheung) are low-profile, alcohol-soaked poseurs. The camera peeks and peers through pillars, as if spying on them, but the characters always behave as if they’re being watched anyway. Lai likes to hold himself hunched like Humphrey Bogart; Ho surrounds himself with mirrors. This is a sexualised universe we recognise from Charles Vidor’s _Gilda_ (1946) and Jean Genet’s _Un chant d’amour_ (1950) – hot and yet cold with desire. However, while those films are languorous, _Happy Together_ is desperate (money is in short supply and Lai and Ho have to keep moving to survive). The handheld camera mimics this stale urgency. Like a man throwing stones at a pool of water, Wong breaks his images into pieces, each furious fragment crashing into the next, making the head and eyes ache. Midway through, the movie explodes into colour with glowing squares of strawberry reds and banana yellows, rendering it as edible as Jacques Demy’s Eastmancolor-fest _The Umbrellas of Cherbourg_ (1964). And yet the tension remains (the surface has changed, but not the reality). A paranoid Lai fears Ho will disappear at any moment and, in a hallucinatory sequence, we watch Ho looking up at the sky and disappearing in a flutter of curtains. Puig’s magical realism finds its perfect complement here – the visual world has never seemed less solid or stable.
 
@@ -72,5 +68,5 @@ Chang Chen _(Chang)_<br>
 Hong Kong 1997©<br>
 97 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTI0MDQ3OV19
+eyJoaXN0b3J5IjpbLTEwNzQ0MDIxMjBdfQ==
 -->
