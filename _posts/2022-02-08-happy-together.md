@@ -1,3 +1,14 @@
+---
+layout: post
+title: Happy Together
+published: true
+date: 2022-02-08
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'Hong Kong 1997, 97 mins<br> Director: Wong Kar Wai'
+pdf: '2022-02-08-happy-together.pdf'
+---
 
 _+ intro by Yi Wang, Queer East (on Tuesday 8 February only)_
 
@@ -6,7 +17,7 @@ A trip to Buenos Aires reveals the dark side of love as a gay couple (Tony Leung
 
 Drawn to Argentina by his enthusiasm for Latin-American literature, Wong Kar Wai made a preliminary reconnaissance trip to Buenos Aires in the late spring of 1996 and went back in August to begin production of the film. His working title was _Buenos Aires Affair_. What was originally envisaged as a six-week shoot stretched through to December. As usual, Wong started with an outline, some pieces of music and a set of ideas and images rather than a conventional script. The narrative base was an on-off romance between two gay émigrés from Hong Kong, complicated by encounters with other Chinese on the road.
 
-The central couple are Ho Po-Wing (Leslie Cheung, of _Rouge_, _A Chinese Ghost Story_ and _Farewell My Concubine_) and Lai Yiu-Fei (Tony Leung, of _Hard Boiled_, _A City of Sadness_ and _Cyclo_). A young Taiwanese who drifts into Lai’s orbit is played by Zhang Zhen (_A Brighter Summer_ _Day_, _Mahjong_). The Hong Kong singer Shirley Kwan also shot a number of scenes, but her pans have gone from the finished film.
+The central couple are Ho Po-Wing (Leslie Cheung, of _Rouge_, _A Chinese Ghost Story_ and _Farewell My Concubine_) and Lai Yiu-Fei (Tony Leung, of _Hard Boiled_, _A City of Sadness_ and _Cyclo_). A young Taiwanese who drifts into Lai’s orbit is played by Zhang Zhen (_A Brighter Summer Day_, _Mahjong_). The Hong Kong singer Shirley Kwan also shot a number of scenes, but her pans have gone from the finished film.
 
 As edited, _Happy Together_ has lost not only Shirley Kwan but also countless scenes and incidents devised by Wong during the shoot, including an extended episode in which the Leslie Cheung character became a cross-dressing hooker. The finished film is one of the most searing accounts ever made of doomed and destructive love, but also a strong and very moving affirmation of romantic folly.<br>
 **Tony Rayns, _Sight and Sound_, March 1997**<br>
@@ -59,7 +70,6 @@ _Chinese Subtitles:_ Jimmy Ngai
 _English Subtitles:_ Tony Rayns  
 _Publicity:_ Norman Wang, Sophie Gluck<br>
 
-  
 **Cast**<br>
 Leslie Cheung Kwok-Wing _(Ho Po-Wing)_  
 Tony Leung Chiu-Wai _(Lai Yiu-Fai)_  
@@ -67,6 +77,63 @@ Chang Chen _(Chang)_<br>
 
 Hong Kong 1997©<br>
 97 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ0MDIxMjBdfQ==
--->
+<br>
+
+**BIG SCREEN CLASSICS**<br>
+**To Wong Foo, Thanks for Everything! Julie Newmar**<br>
+Tue 1 Feb 18:20; Fri 25 Feb 20:45<br>
+**Young Soul Rebels**<br>
+Wed 2 Feb 18:20 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair); Thu 17 Feb 20:45<br>
+**All About My Mother (Todo sobre mi madre)**<br>
+Wed 2 Feb 20:45; Wed 16 Feb 21:00<br>
+**Beautiful Thing**<br>
+Thu 3 Feb 20:45; Mon 14 Feb 20:30<br>
+**The Handmaiden (Ah-ga-ssi)**<br>
+Fri 4 Feb 17:50; Sat 12 Feb 20:10; Sun 27 Feb 17:50<br>
+**Rent**<br>
+Sat 5 Feb 12:30; Sun 20 Feb 18:10<br>
+**Maurice**<br>
+Sun 6 Feb 15:20; Mon 14 Feb 18:00<br>
+**The Watermelon Woman**<br>
+Mon 7 Feb 20:45; Sat 26 Feb 20:30<br>
+**Happy Together (Chun gwong cha sit)**<br>
+Tue 8 Feb 18:15 (+ intro by Yi Wang, Queer East); Sun 13 Feb 15:20<br>
+**My Own Private Idaho**<br>
+Tue 8 Feb 20:45; Wed 23 Feb 18:00 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair)<br>
+**Brokeback Mountain**<br>
+Wed 9 Feb 17:45 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair); Mon 21 Feb 20:25<br>
+**Go Fish**<br>
+Wed 9 Feb 20:40; Sat 26 Feb 18:20<br>
+**Rope**<br>
+Thu 10 Feb 18:30; Tue 22 Feb 14:30<br>
+**Victim**<br>
+Thu 10 Feb 20:40; Sun 13 Feb 13:00; Mon 21 Feb 18:00<br>
+**Desert Hearts**<br>
+Fri 11 Feb 20:40; Wed 16 Feb 18:20 (+ intro by BFI Head Librarian Emma Smart)<br>
+**My Beautiful Laundrette**<br>
+Sat 12 Feb 18:20; Tue 15 Feb 20:45; Sat 19 Feb 20:45<br>
+**A Fantastic Woman (Una mujer fantástica)**<br>
+Sun 13 Feb 18:40; Tue 22 Feb 20:50<br>
+**Mädchen in Uniform**<br>
+Fri 18 Feb 20:30; Sat 26 Feb 16:00<br>
+**Moonlight**<br>
+Thu 24 Feb 14:30; Mon 28 Feb 20:45<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
