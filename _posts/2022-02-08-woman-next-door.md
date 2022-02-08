@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Woman Next Door
+published: true
+date: 2022-02-08
+readtime: true
+categories: ['FRANÇOIS TRUFFAUT<br>FOR THE LOVE OF FILMS']
+tags: [Drama]
+metadata: 'France 1981, 106 mins<br> Director: François Truffaut'
+pdf: '2022-02-08-woman-next-door.pdf'
+---
 
 **Mike Figgis on ‘The Woman Next Door’**<br>
 
@@ -11,7 +22,7 @@ She tells him that he and his wife are invited to dinner next week and she hopes
 
 This is a very good film. I’ve seen it twice now. The first time was at the Phoenix in London and again recently on video. Both times it made me sad (which is good). Let’s face it, most films are very boring and vanish quickly from memory.
 
-Wasn’t this Truffaut’s penultimate film? And wasn’t he with the stunning Fanny Ardant at the time? This must have been a tough film for him to make.  I think he must have been pretty sad when he shot it. But that is not why the film is so good. The script is very tight, every scene is about one or both of the lovers; the acting is really good and very believable. It’s not a sentimental film (and here the sparse use of music is a plus). It’s quite erotic but the sex never takes over, it’s just something that lovers need to do, they have to have each other. I don’t think it’s ever funny, but there is a very French scene in which Depardieu cannot get to grips with his car and is very uncool. His job is pretty strange too – he seems to be a driving instructor for supertankers, and we keep seeing him on a scale model of a ship in a scale model of a harbour. It’s not the sort of job Tom Cruise would do.
+Wasn’t this Truffaut’s penultimate film? And wasn’t he with the stunning Fanny Ardant at the time? This must have been a tough film for him to make. I think he must have been pretty sad when he shot it. But that is not why the film is so good. The script is very tight, every scene is about one or both of the lovers; the acting is really good and very believable. It’s not a sentimental film (and here the sparse use of music is a plus). It’s quite erotic but the sex never takes over, it’s just something that lovers need to do, they have to have each other. I don’t think it’s ever funny, but there is a very French scene in which Depardieu cannot get to grips with his car and is very uncool. His job is pretty strange too – he seems to be a driving instructor for supertankers, and we keep seeing him on a scale model of a ship in a scale model of a harbour. It’s not the sort of job Tom Cruise would do.
 
 Other reasons why I love this film: it’s got so much heart, and it seems to be about _something_. Check it out.<br>
 **Mike Figgis, _Sight & Sound_, October 1995**<br>
@@ -68,6 +79,61 @@ Olivier Becquaert _(Thomas Coudray)_<br>
 
 France 1981©<br>
 106 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzNjk2NDQ3XX0=
--->
+<br>
+
+**FRANÇOIS TRUFFAUT: FOR THE LOVE OF FILMS**<br>
+**Jules et Jim (Jules and Jim)**<br>
+From Fri 4 Feb<br>
+**Philosophical Screens: Jules et Jim**<br>
+Thu 10 Feb 20:20<br>
+**The Representation of Women in Truffaut’s Films**<br>
+Fri 18 Feb 18:20<br>
+
+**THE LITERARY TRUFFAUT**<br>
+**Anne and Muriel (Les Deux Anglaises et le continent)**<br>
+Sat 5 Feb 12:20; Thu 17 Feb 17:50 (+ intro by actor Kika Markham); Tue 22 Feb 20:25<br>
+**Fahrenheit 451**<br>
+Sat 5 Feb 20:45; Sun 13 Feb 12:40; Sun 27 Feb 18:40<br>
+**The Story of Adèle H (L’Histoire d’Adèle H)**<br>
+Wed 9 Feb 20:55; Sat 12 Feb 20:45; Sat 19 Feb 18:20<br>
+**The Green Room (La Chambre verte)**<br>
+Thu 10 Feb 18:20; Tue 15 Feb 20:40; Wed 23 Feb 20:40<br>
+
+**THE HITCHCOCK TRUFFAUT**<br>
+**Shoot the Pianist (Tirez sur le pianiste)**<br>
+Tue 1 Feb 20:50; Fri 11 Feb 18:30; Sat 26 Feb 13:20<br>
+**The Bride Wore Black (La Mariée était en noir)**<br>
+Fri 4 Feb 20:45; Sun 13 Feb 18:00; Sun 27 Feb 12:10<br>
+**Finally Sunday! (Vivement dimanche!)**<br>
+Sat 5 Feb 17:50; Sat 12 Feb 12:30; Sun 27 Feb 15:00<br>
+**Mississippi Mermaid (La Sirène du Mississippi)**<br>
+Sun 6 Feb 12:40; Fri 18 Feb 20:35; Fri 25 Feb 18:00<br>
+**La Peau douce (Silken Skin)**<br>
+Sun 6 Feb 18:20; Sat 12 Feb 17:20; Sat 26 Feb 15:30<br>
+**The Woman Next Door (La Femme d’à côté)**<br>
+Tue 8 Feb 20:30; Mon 21 Feb 18:10; Thu 24 Feb 20:30<br>
+<br>
+
+**In cultural partnership with**  
+<img style="float: left;" src="/img/institut-francais.jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+A selection of 10 Truffaut films will be available on BFI Player Subscription from January, and a selection of Truffaut films will screen around the UK<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
