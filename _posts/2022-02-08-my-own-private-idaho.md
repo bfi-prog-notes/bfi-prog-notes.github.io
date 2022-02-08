@@ -122,9 +122,8 @@ Joshua Halladay _(baby Mike)_
 Douglas Tollenen _(little Richard)_  
 Steven Clark Pachosa _(hotel manager)_  
 Lannie Swerdlow _(disco manager)_  
-Wally Gaarsland, Bryan Wilson, Mark Weaver,  
-Conrad ‘Bud’ Montgomery _(rock promoters)_  
-Pat Patterson, Steve Vernelson,Mike Cascadden _(cops)_  
+Wally Gaarsland, Bryan Wilson, Mark Weaver,  Conrad ‘Bud’ Montgomery _(rock promoters)_  
+Pat Patterson, Steve Vernelson, Mike Cascadden _(cops)_  
 Eric Hull _(mayor’s aide)_  
 James A. Arling _(minister)_  
 James Caviezel _(airline clerk)_  
@@ -133,16 +132,14 @@ Melanie Mosely _(lounge hostess)_
 Greg Murphy _(Carl)_  
 David Reppinhagen _(yuppie at Jake’s)_  
 Tiger Warren _(himself)_  
-Massimo De Cataldo, Paolo Pei Andreoli_,_
-
-Robert Egon, Paolo Baiocco _(Italian street boys)_  
+Massimo De Cataldo, Paolo Pei Andreoli, Robert Egon, Paolo Baiocco _(Italian street boys)_  
 Mario Stracciarolo _(Mike’s Italian client)_
 
-USA 1991
-
+USA 1991  
 104 mins
 
 The screening on Wed 23 Feb will be introduced by BFI Race Equality Lead Rico Johnson-Sinclair
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODMwODQ4OV19
+eyJoaXN0b3J5IjpbMTk2MzkyNjIzOV19
 -->
