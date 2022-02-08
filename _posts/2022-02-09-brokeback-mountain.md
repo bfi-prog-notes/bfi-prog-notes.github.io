@@ -17,13 +17,12 @@ The last time Lee and Tichenor generate friction between sound and image comes w
 **Ryan Gilbey, _Sight & Sound_, January 2006**<br>
 
 **BROKEBACK MOUNTAIN**<br>
-_Directed by:_ Ang Lee
-_©/Presented by:_ Focus Features
-_Produced with the participation of:_ Alberta Film Development Program,
-Alberta Foundation for the Arts
-_A co-production with:_ Alberta Film Entertainment
-_Presented by:_ River Road Productions
-_Executive Producers:_ Alberta Film Entertainment, William Pohlad, Larry McMurtry, Michael Costigan, Michael Hausman
+_Directed by:_ Ang Lee<br>
+_©/Presented by:_ Focus Features<br>
+_Produced with the participation of:_ Alberta Film Development Program,Alberta Foundation for the Arts<br>
+_A co-production with:_ Alberta Film Entertainment<br>
+_Presented by:_ River Road Productions<br>
+_Executive Producers:_ Alberta Film Entertainment, William Pohlad, Larry McMurtry, Michael Costigan, Michael Hausman<br>
 _Producers:_ Diana Ossana, James Schamus
 _Co-producer:_ Scott Ferguson
 _Production Accountant:_ Anne Hannan
@@ -83,96 +82,52 @@ Randy Quaid _(Joe Aguirre)_
 Kate Mara _(Alma Jr, age 19)_
 Valerie Planche _(waitress)_
 David Trimble _(Basque)_
-
 Victor Reyes _(Chilean sheepherder 1)_
-
 Lachlan Mackintosh _(Chilean sheepherder 2)_
-
 Larry Reese _(jolly minister)_
-
 Marty Antonini _(Timmy)_
-
 Tom Carey _(rodeo clown)_
-
 Dan McDougall _(bartender 1)_
-
 Don Bland _(biker 1)_
-
 Steven Cree Molison _(biker 2)_
-
 Duval Lang _(announcer)_
-
 Dean Barrett _(bartender 2)_
-
 Hannah Stewart _(Alma Jr, age 3)_
-
 Scott Michael Campbell _(Monroe)_
-
 Mary Liboiron _(Fayette Newsome)_
-
 Graham Beckel _(L.B. Newsome)_
-
 Kade Philps _(Ennis, age 9)_
-
 Steffen Cole Moser _(K.E. Del Mar, age 11)_
-
 Brooklyn Proulx _(Jenny, age 4)_
-
 Keanna Dubé _(Alma Jr, age 5)_
-
 James Baker _(farmer 1)_
-
 Pete Seadon _(farmer 2)_
-
 Sarah Hyslop _(Alma Jr, age 9-12)_
-
 Jacey Kenny _(Jenny, age 7-8)_
-
 Jerry Callaghan _(judge)_
-
 Cayla Wolever _(Jenny, age 11)_
-
 Cheyenne Hill _(Alma Jr, age 13)_
-
 Jake Church _(Bobby, age 10)_
-
 Ken Zilka _(roughneck 1)_
-
 John Tench _(roughneck 2)_
-
 David Harbour _(Randall Malone)_
-
 Will Martin _(Carl)_
-
 Gary Lauder _(killer mechanic)_
-
 Christian Fraser _(grease monkey)_
-
 Cam Sutherland _(assailant)_
-
 Roberta Maxwell _(Jack’s mother)_
-
 Peter McRobbie _(John Twist)_
-
 Chyanne Hodgson _(barrel racer)_
-
 Dave Leader _(bull fighter 1)_
-
 Jory Vine _(bull fighter 2)_
-
 Mark van Tienhoven _(bull fighter 3)_
-
 Greg Schlosser _(bull rider 1)_
-
 Dwayne Wiley _(bull rider 2)_
-
 Shane Pollitt _(bull dogger 1)_
-
 T.J. Bews, Lynn Ivall _(rodeo hazers)_
 
 USA/Canada 2005©
-
 134 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODE4MzU1MywtMTA3NDQ5NTM3OV19
+eyJoaXN0b3J5IjpbMTAyNDQ3Mjk1NywtMTA3NDQ5NTM3OV19
 -->
