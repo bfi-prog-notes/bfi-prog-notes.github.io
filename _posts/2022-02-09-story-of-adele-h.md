@@ -1,6 +1,5 @@
 
-<![endif]-->
-
+ **François Truffaut on ‘The Story of Adele H.’**<br>
 It was in 1969 that I first felt I wanted to make a film whose heroine would be Adèle Hugo. I had just read in the collection ‘Bibliothèque Introuvable’ (Editions Minard) the biography of Adèle as reconstructed by Miss Frances Vernor Guille, professor at Wooster College, Ohio.
 
 While working on the script for _The Wild Child_ from Dr Jean Itard’s memoir, we discovered, Jean Gruault and I, the great pleasure to be had from organising a fictional story on the basis of real events, taking pains to invent nothing and not to alter the truth of the documentary material.
@@ -13,19 +12,19 @@ Yet, I believe it was that solitary aspect that attracted me most in this projec
 
 If I have to sum up in seven points what attracted me in the story of Adèle Hugo, they would be:
 
-1. This girl is alone throughout the story;
+\1. This girl is alone throughout the story;
 
-2. She is the daughter of the most celebrated man in the world;
+\2. She is the daughter of the most celebrated man in the world;
 
-3. That man is spoken about but never seen;
+\3. That man is spoken about but never seen;
 
-4. Adèle lives under false identities;
+\4. Adèle lives under false identities;
 
-5. Driven by a fixed idea, she pursues an unattainable goal;
+\5. Driven by a fixed idea, she pursues an unattainable goal;
 
-6. Not a phrase, not a gesture of Adèle’s has to do with anything else but her fixed idea;
+\6. Not a phrase, not a gesture of Adèle’s has to do with anything else but her fixed idea;
 
-7. Even if she is fighting a losing battle, Adèle shows herself continually active and inventive.
+\7. Even if she is fighting a losing battle, Adèle shows herself continually active and inventive.
 
 I am not unaware that everything one writes, everything one films, has its significance, but I must confess that, as for me, emotion precedes the general idea and it is most often because of what is written about my work that I discover the subterranean reasons that led me to choose one subject or another.
 
@@ -35,58 +34,32 @@ Working in a more instinctive than intellectual manner, I do not understand what
 
 Obviously I am certainly beginning to recognise that I make only films that show what is askew and painful in certain family or love relationships. I am led to go back, for the heart of each film, to the same conflict between definitive feelings and provisional feelings, thus to film always the same heartbreaks. Those interested in that kind of thing – the gentle description of violent emotions – will say that these are all variations on a single theme; those who are bored by such things will say I’m repeating the same drivel.
 
-_The Story of Adele H_., which resembles a piece of music for a single instrument, does not need long preliminary explanations. Let it be said only that, decidedly incapable of making films ‘against,’ I continue to film ‘for’ and that I have the same love for Antoine Doinel, Catherine, Montag, Julie, Muriel Brown, Victor De l’Aveyron or Adèle H.
+_The Story of Adele H_., which resembles a piece of music for a single instrument, does not need long preliminary explanations. Let it be said only that, decidedly incapable of making films ‘against,’ I continue to film ‘for’ and that I have the same love for Antoine Doinel, Catherine, Montag, Julie, Muriel Brown, Victor De l’Aveyron or Adèle H.<br>
+**‘Pourquoi ce film? Pourquoi pas,’ press book of the film**<br>
 
-**‘Pourquoi ce film? Pourquoi pas,’ press book of the film**
-
-**THE STORY OF ADELE H. (L’HISTOIRE D’ADÈLE H.)**
-
+**THE STORY OF ADELE H. (L’HISTOIRE D’ADÈLE H.)**<br>
 _Director:_ François Truffaut
-
 _©/A Co-production:_ Les Films du Carrosse,
-
 Les Productions Artistes Associés
-
 _Presented by:_ Les Artistes Associés
-
 _Production Managers:_ Marcel Berbert, Claude Miller
-
 _Unit Managers:_ Patrick Millet, Roland Thénot,
-
 _1st Assistant Director:_ Suzanne Schiffman
-
 _2nd Assistant Director:_ Carl Hathwell
-
 _Script Supervisor:_ Christine Pellé
-
 _Original Screenplay:_ François Truffaut, Jean Gruault, Suzanne Schiffman
-
 _Script Collaborator:_ Frances Vernor Guille
-
 _Based on the diaries by:_ Adèle Hugo
-
 _Director of Photography:_ Nestor Almendros
-
-_Camera Assistants:_ Jean-Claude Rivière, Dominique Le Rigoleur,
-
-Florent Bazin
-
+_Camera Assistants:_ Jean-Claude Rivière, Dominique Le Rigoleur, Florent Bazin
 _Gaffer:_ Jean-Claude Gasché
-
 _Key Grip:_ Charles Freess
-
 _Editors:_ Yann Dedet, Martine Barraque, Jean Gargonne, Michele Neny, Muriel Zeleny
-
 _Art Director:_ Jean-Pierre Kohut
-
 _Props:_ Daniel Braunschweig
-
 _Costumes:_ Jacqueline Guyot
-
 _Make-up:_ Thi-Loan N’Guyen
-
 _Hair Stylist:_ Chantal Durpoix
-
 _Music:_ Maurice Jaubert
 
 _Solo Saxophone:_ Jacques Noureddine
@@ -145,5 +118,5 @@ France 1975_©_
 
 98 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjE0NjMzOV19
+eyJoaXN0b3J5IjpbMTEyMjczMDg0XX0=
 -->
