@@ -18,131 +18,69 @@ The last time Lee and Tichenor generate friction between sound and image comes w
 
 **BROKEBACK MOUNTAIN**<br>
 _Directed by:_ Ang Lee
-
 _©/Presented by:_ Focus Features
-
 _Produced with the participation of:_ Alberta Film Development Program,
-
 Alberta Foundation for the Arts
-
 _A co-production with:_ Alberta Film Entertainment
-
 _Presented by:_ River Road Productions
-
 _Executive Producers:_ Alberta Film Entertainment, William Pohlad, Larry McMurtry, Michael Costigan, Michael Hausman
-
 _Producers:_ Diana Ossana, James Schamus
-
 _Co-producer:_ Scott Ferguson
-
 _Production Accountant:_ Anne Hannan
-
 _Production Co-ordinator:_ Hudson Cooley
-
 _Unit Production Managers:_ Scott Ferguson, Tom Benz
-
 _Locations Manager:_ Darryl Solly
-
 _Post-production Supervisor:_ Gerry Robert Byrne
-
 _1st Assistant Directors:_ Michael Hausman, Pierre Tremblay
-
 _Script Supervisor:_ Karen Bedard
-
 _Casting:_ Avy Kaufman
-
 _Screenplay:_ Larry McMurtry, Diana Ossana
-
 _Based on the short story by:_ Annie Proulx
-
 _Director of Photography:_ Rodrigo Prieto
-
 _2nd Unit Director of Photography:_ Peter Wunstorf
-
 _A Camera Operator:_ Damon Moreau
-
 _Steadicam Operator:_ Damon Moreau
-
 _Gaffers:_ Christopher Porter, Chris Sprague
-
 _Still Photographer:_ Kimberley French
-
 _Visual Effects:_ Buzz Image Group
-
 _Special Effects Co-ordinator:_ Maurice Routly
-
 _Edited by:_ Geraldine Peroni, Dylan Tichenor
-
 _Production Designer:_ Judy Becker
-
 _Art Directors:_ Tracey Baryski, Laura Ballinger
-
 _Set Decorators:_ Patricia Cuccia, Catherine Davis
-
 _Property Master:_ Ken Wills
-
 _Costume Design:_ Marit Allen
-
 _Assistant Costume Designer:_ Renée Bravener
-
 _Department Head Make-up:_ Manlio Rocchetti
-
 _Department Head Hair:_ Mary Lou Green
-
 _Title Design:_ yU+co.
-
 _Digital Opticals:_ Cine-BYTE Imaging Inc
-
 _Colour Timer:_ Chris Hinton
-
 _Music:_ Gustavo Santaolalla
-
 _Additional Music:_ Marcelo Zarvos
-
 _Orchestrations/Conductor:_ Richard Emerson
-
 _Strings Arranged by:_ David Campbell
-
 _Production Sound Mixer:_ Drew Kunin
-
 _Boom Operator:_ Peter Melnychuk
-
 _Re-recording Mixers:_ Reilly Steele, Eugene Gearty
-
 _Supervising Sound Editors:_ Eugene Gearty, Philip Stockton
-
 _Dolby Sound Consultant:_ Brad Hohle
-
 _In loving memory of:_ Geraldine Peroni
-
 _Stunt Co-ordinator:_ Kirk Jarrett
-
 _Dialect Coach:_ Joy Ellison
-
 _Animal Management:_ Gerry Hornbeck, Wildlife Incorporated
-
 _Animal Co-ordinator:_ T.J. Bews
-
 _Animal Wrangler Captain:_ Ken Zilka
 
-**Cast**
-
+**Cast**<br>
 Heath Ledger _(Ennis Del Mar)_
-
 Jake Gyllenhaal _(Jack Twist)_
-
 Linda Cardellini _(Cassie)_
-
 Anna Faris _(Lashawn Malone)_
-
 Anne Hathaway _(Lureen Newsome)_
-
 Michelle Williams _(Alma)_
-
 Randy Quaid _(Joe Aguirre)_
-
 Kate Mara _(Alma Jr, age 19)_
-
 Valerie Planche _(waitress)_
 
 David Trimble _(Basque)_
@@ -237,5 +175,5 @@ USA/Canada 2005©
 
 134 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3MTI2NjM1XX0=
+eyJoaXN0b3J5IjpbLTEwNzQ0OTUzNzldfQ==
 -->
