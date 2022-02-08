@@ -82,7 +82,6 @@ Michelle Williams _(Alma)_
 Randy Quaid _(Joe Aguirre)_
 Kate Mara _(Alma Jr, age 19)_
 Valerie Planche _(waitress)_
-
 David Trimble _(Basque)_
 
 Victor Reyes _(Chilean sheepherder 1)_
@@ -175,5 +174,5 @@ USA/Canada 2005©
 
 134 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ0OTUzNzldfQ==
+eyJoaXN0b3J5IjpbLTMyODE4MzU1MywtMTA3NDQ5NTM3OV19
 -->
