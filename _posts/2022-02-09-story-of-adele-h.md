@@ -38,11 +38,11 @@ _The Story of Adele H_., which resembles a piece of music for a single instrumen
 **‘Pourquoi ce film? Pourquoi pas,’ press book of the film**<br>
 
 **THE STORY OF ADELE H. (L’HISTOIRE D’ADÈLE H.)**<br>
-_Director:_ François Truffaut
+_Director:_ François Truffaut<br>
 _©/A Co-production:_ Les Films du Carrosse,
-Les Productions Artistes Associés
-_Presented by:_ Les Artistes Associés
-_Production Managers:_ Marcel Berbert, Claude Miller
+Les Productions Artistes Associés<br>
+_Presented by:_ Les Artistes Associés<br>
+_Production Managers:_ Marcel Berbert, Claude Miller<br>
 _Unit Managers:_ Patrick Millet, Roland Thénot,
 _1st Assistant Director:_ Suzanne Schiffman
 _2nd Assistant Director:_ Carl Hathwell
@@ -61,62 +61,35 @@ _Costumes:_ Jacqueline Guyot
 _Make-up:_ Thi-Loan N’Guyen
 _Hair Stylist:_ Chantal Durpoix
 _Music:_ Maurice Jaubert
-
 _Solo Saxophone:_ Jacques Noureddine
-
 _Conductor:_ Patrice Mestral
-
 _Music Consultant:_ François Porcile
-
 _Sound (Recording):_ Jean-Pierre Ruh, Michel Laurent
-
 _Sound Mixer:_ Jacques Maumont
-
-_Thanks:_ Carol Mc Daid Seib, Air France, British Island Airways (BIA),
-
-L.T.C. (Saint-Cloud), SIMO (Boulogne), Eastmancolor,
-
-Panavision Spherique
+_Thanks:_ Carol Mc Daid Seib, Air France, British Island Airways (BIA), L.T.C. (Saint-Cloud), SIMO (Boulogne), Eastmancolor, Panavision Spherique
 
 **Cast**
-
 Isabelle Adjani _(Adèle Hugo)_
-
 Bruce Robinson _(Lieutenant Albert Pinson)_
-
 Sylvia Marriott _(Mrs Saunders)_
-
 Joseph Blatchley _(Whistler)_
-
 Ivry Gitlis _(hypnotist)_
-
 Louise Bourdet _(Victor Hugo’s servant)_
-
 Cecil De Sausmarez _(M. Lenoit, lawyer)_
-
 Ruben Dorey _(Mr Saunders)_
-
 Clive Gillingham _(Keaton, bank clerk)_
-
 Roger Martin _(Doctor Murdock)_
-
 Mr White _(colonel)_
-
 Madame Louise _(Madame Baa)_
-
 Jean-Pierre Leursse _(letter-writer)_
 
 _uncredited_
-
 Carl Hathwell _(Pinson’s Batman)_
-
 Raymond Falla _(judge)_
-
 François Truffaut _(officer)_
 
-France 1975_©_
-
-98 mins
+France 1975©<br>
+98 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjczMDg0XX0=
+eyJoaXN0b3J5IjpbMjIxNjc3ODBdfQ==
 -->
