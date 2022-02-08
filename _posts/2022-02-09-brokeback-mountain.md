@@ -80,54 +80,54 @@ Anne Hathaway _(Lureen Newsome)_<br>
 Michelle Williams _(Alma)_<br>
 Randy Quaid _(Joe Aguirre)_<br>
 Kate Mara _(Alma Jr, age 19)_<br>
-Valerie Planche _(waitress)_
-David Trimble _(Basque)_
-Victor Reyes _(Chilean sheepherder 1)_
-Lachlan Mackintosh _(Chilean sheepherder 2)_
-Larry Reese _(jolly minister)_
-Marty Antonini _(Timmy)_
-Tom Carey _(rodeo clown)_
-Dan McDougall _(bartender 1)_
-Don Bland _(biker 1)_
-Steven Cree Molison _(biker 2)_
-Duval Lang _(announcer)_
-Dean Barrett _(bartender 2)_
-Hannah Stewart _(Alma Jr, age 3)_
-Scott Michael Campbell _(Monroe)_
-Mary Liboiron _(Fayette Newsome)_
-Graham Beckel _(L.B. Newsome)_
-Kade Philps _(Ennis, age 9)_
-Steffen Cole Moser _(K.E. Del Mar, age 11)_
-Brooklyn Proulx _(Jenny, age 4)_
-Keanna Dubé _(Alma Jr, age 5)_
-James Baker _(farmer 1)_
-Pete Seadon _(farmer 2)_
-Sarah Hyslop _(Alma Jr, age 9-12)_
-Jacey Kenny _(Jenny, age 7-8)_
-Jerry Callaghan _(judge)_
-Cayla Wolever _(Jenny, age 11)_
-Cheyenne Hill _(Alma Jr, age 13)_
-Jake Church _(Bobby, age 10)_
-Ken Zilka _(roughneck 1)_
-John Tench _(roughneck 2)_
-David Harbour _(Randall Malone)_
-Will Martin _(Carl)_
-Gary Lauder _(killer mechanic)_
-Christian Fraser _(grease monkey)_
-Cam Sutherland _(assailant)_
-Roberta Maxwell _(Jack’s mother)_
-Peter McRobbie _(John Twist)_
-Chyanne Hodgson _(barrel racer)_
-Dave Leader _(bull fighter 1)_
-Jory Vine _(bull fighter 2)_
-Mark van Tienhoven _(bull fighter 3)_
-Greg Schlosser _(bull rider 1)_
-Dwayne Wiley _(bull rider 2)_
+Valerie Planche _(waitress)_<br>
+David Trimble _(Basque)_<br>
+Victor Reyes _(Chilean sheepherder 1)_<br>
+Lachlan Mackintosh _(Chilean sheepherder 2)_<br>
+Larry Reese _(jolly minister)_<br>
+Marty Antonini _(Timmy)_<br>
+Tom Carey _(rodeo clown)_<br>
+Dan McDougall _(bartender 1)_<br>
+Don Bland _(biker 1)_<br>
+Steven Cree Molison _(biker 2)_<br>
+Duval Lang _(announcer)_<br>
+Dean Barrett _(bartender 2)_<br>
+Hannah Stewart _(Alma Jr, age 3)_<br>
+Scott Michael Campbell _(Monroe)_<br>
+Mary Liboiron _(Fayette Newsome)_<br>
+Graham Beckel _(L.B. Newsome)_<br>
+Kade Philps _(Ennis, age 9)_<br>
+Steffen Cole Moser _(K.E. Del Mar, age 11)_<br>
+Brooklyn Proulx _(Jenny, age 4)_<br>
+Keanna Dubé _(Alma Jr, age 5)_<br>
+James Baker _(farmer 1)_<br>
+Pete Seadon _(farmer 2)_<br>
+Sarah Hyslop _(Alma Jr, age 9-12)_<br>
+Jacey Kenny _(Jenny, age 7-8)_<br>
+Jerry Callaghan _(judge)_<br>
+Cayla Wolever _(Jenny, age 11)_<br>
+Cheyenne Hill _(Alma Jr, age 13)_<br>
+Jake Church _(Bobby, age 10)_<br>
+Ken Zilka _(roughneck 1)_<br>
+John Tench _(roughneck 2)_<br>
+David Harbour _(Randall Malone)_<br>
+Will Martin _(Carl)_<br>
+Gary Lauder _(killer mechanic)_<br>
+Christian Fraser _(grease monkey)_<br>
+Cam Sutherland _(assailant)_<br>
+Roberta Maxwell _(Jack’s mother)_<br>
+Peter McRobbie _(John Twist)_<br>
+Chyanne Hodgson _(barrel racer)_<br>
+Dave Leader _(bull fighter 1)_<br>
+Jory Vine _(bull fighter 2)_<br>
+Mark van Tienhoven _(bull fighter 3)_<br>
+Greg Schlosser _(bull rider 1)_<br>
+Dwayne Wiley _(bull rider 2)_<br>
 Shane Pollitt _(bull dogger 1)_
 T.J. Bews, Lynn Ivall _(rodeo hazers)_
 
 USA/Canada 2005©
 134 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzIxMDM2NSwtMTA3NDQ5NTM3OV19
+eyJoaXN0b3J5IjpbODA4MDE1MzUzLC0xMDc0NDk1Mzc5XX0=
 -->
