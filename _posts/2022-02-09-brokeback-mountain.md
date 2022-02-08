@@ -1,9 +1,20 @@
+---
+layout: post
+title: Brokeback Mountain
+published: true
+date: 2022-02-09
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'USA 2005, 134 mins<br> Director: Ang Lee'
+pdf: '2022-02-09-brokeback-mountain.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
 The prose style of Annie Proulx’s 1997 story ‘Brokeback Mountain’, first published in the _New Yorker_, is doggedly brisk. The moment when two young cowboys, Ennis Del Mar and Jack Twist, who have been herding sheep one summer in 1960s Wyoming, finally have sex is dealt with in three blunt sentences, as though the taciturn Ennis himself had dominion over Proulx’s pen. Despite its brevity, the story has scope: it evokes the passing of decades without aspiring fraudulently to the epic.
 
-Ang Lee’s film adaptation pulls the same trick in reverse. It takes less time to read the story than watch the movie, though each tracks Ennis and Jack from that first summer through the next 20 years, during which they intermittently interrupt their heterosexual family lives to be together. But in Lee’s hands, this lengthy picture zips by. The years are ticked off with changes in facial hair, fashion and interior design, or by the unannounced arrival of a new baby.  (In film time, Jack becomes a father less than a minute after meeting his future wife Lureen.) Vastness is suggested too by the locations, rendered with unfussy curiosity by the cinematographer Rodrigo Prieto. Layers of blue mountain recede into the distance, overlooked by menacing stacks of cloud; a hillside wriggles with sheep; an undisturbed lake that stretches out before Jack as he berates Ennis for failing to act on his feelings seems to represent the future the men will never have together. The screenwriters – the novelist Larry McMurtry (author of _The Last Picture Show_ and _Lonesome Dove_) and Diana Ossana – have carved up the story’s extended motel room dialogue between Ennis and Jack, distributing slices of it throughout the film and introducing the sense of the same dilemma being pointlessly thrashed out over the years.
+Ang Lee’s film adaptation pulls the same trick in reverse. It takes less time to read the story than watch the movie, though each tracks Ennis and Jack from that first summer through the next 20 years, during which they intermittently interrupt their heterosexual family lives to be together. But in Lee’s hands, this lengthy picture zips by. The years are ticked off with changes in facial hair, fashion and interior design, or by the unannounced arrival of a new baby. (In film time, Jack becomes a father less than a minute after meeting his future wife Lureen.) Vastness is suggested too by the locations, rendered with unfussy curiosity by the cinematographer Rodrigo Prieto. Layers of blue mountain recede into the distance, overlooked by menacing stacks of cloud; a hillside wriggles with sheep; an undisturbed lake that stretches out before Jack as he berates Ennis for failing to act on his feelings seems to represent the future the men will never have together. The screenwriters – the novelist Larry McMurtry (author of _The Last Picture Show_ and _Lonesome Dove_) and Diana Ossana – have carved up the story’s extended motel room dialogue between Ennis and Jack, distributing slices of it throughout the film and introducing the sense of the same dilemma being pointlessly thrashed out over the years.
 
 That screenplay is a model of sensitive adaptation. Events referred to in asides by Proulx are unravelled. Ambiguities are both cleared up and renewed. In the story Jack tells Ennis that he is having an affair with a rancher’s wife. That detail is retained and revealed to be a lie within the greater deception of Ennis and Jack’s clandestine meetings: it is the rancher himself with whom Jack, to use the film’s euphemism, ‘goes fishing’. The fight between Ennis and Jack that gets a throwaway mention on the page is played out, beginning with playful lassoing and ending with a bloody nose, but is rendered no less mysterious in the process. McMurtry and Ossana also stage some tense showdowns that place the film squarely in Western territory, but the confrontations occur in living rooms and supermarket aisles, and hinge on whose turn it is to mind the babies, or whether the Superbowl should be on during dinner.
 
@@ -128,6 +139,63 @@ T.J. Bews, Lynn Ivall _(rodeo hazers)_<br>
 
 USA/Canada 2005©<br>
 134 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTYxMzM2MSwtMTA3NDQ5NTM3OV19
--->
+<br>
+
+**BIG SCREEN CLASSICS**<br>
+**To Wong Foo, Thanks for Everything! Julie Newmar**<br>
+Tue 1 Feb 18:20; Fri 25 Feb 20:45<br>
+**Young Soul Rebels**<br>
+Wed 2 Feb 18:20 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair); Thu 17 Feb 20:45<br>
+**All About My Mother (Todo sobre mi madre)**<br>
+Wed 2 Feb 20:45; Wed 16 Feb 21:00<br>
+**Beautiful Thing**<br>
+Thu 3 Feb 20:45; Mon 14 Feb 20:30<br>
+**The Handmaiden (Ah-ga-ssi)**<br>
+Fri 4 Feb 17:50; Sat 12 Feb 20:10; Sun 27 Feb 17:50<br>
+**Rent**<br>
+Sat 5 Feb 12:30; Sun 20 Feb 18:10<br>
+**Maurice**<br>
+Sun 6 Feb 15:20; Mon 14 Feb 18:00<br>
+**The Watermelon Woman**<br>
+Mon 7 Feb 20:45; Sat 26 Feb 20:30<br>
+**Happy Together (Chun gwong cha sit)**<br>
+Tue 8 Feb 18:15 (+ intro by Yi Wang, Queer East); Sun 13 Feb 15:20<br>
+**My Own Private Idaho**<br>
+Tue 8 Feb 20:45; Wed 23 Feb 18:00 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair)<br>
+**Brokeback Mountain**<br>
+Wed 9 Feb 17:45 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair); Mon 21 Feb 20:25<br>
+**Go Fish**<br>
+Wed 9 Feb 20:40; Sat 26 Feb 18:20<br>
+**Rope**<br>
+Thu 10 Feb 18:30; Tue 22 Feb 14:30<br>
+**Victim**<br>
+Thu 10 Feb 20:40; Sun 13 Feb 13:00; Mon 21 Feb 18:00<br>
+**Desert Hearts**<br>
+Fri 11 Feb 20:40; Wed 16 Feb 18:20 (+ intro by BFI Head Librarian Emma Smart)<br>
+**My Beautiful Laundrette**<br>
+Sat 12 Feb 18:20; Tue 15 Feb 20:45; Sat 19 Feb 20:45<br>
+**A Fantastic Woman (Una mujer fantástica)**<br>
+Sun 13 Feb 18:40; Tue 22 Feb 20:50<br>
+**Mädchen in Uniform**<br>
+Fri 18 Feb 20:30; Sat 26 Feb 16:00<br>
+**Moonlight**<br>
+Thu 24 Feb 14:30; Mon 28 Feb 20:45<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
