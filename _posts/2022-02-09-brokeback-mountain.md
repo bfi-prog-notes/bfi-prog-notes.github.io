@@ -123,11 +123,11 @@ Jory Vine _(bull fighter 2)_<br>
 Mark van Tienhoven _(bull fighter 3)_<br>
 Greg Schlosser _(bull rider 1)_<br>
 Dwayne Wiley _(bull rider 2)_<br>
-Shane Pollitt _(bull dogger 1)_
-T.J. Bews, Lynn Ivall _(rodeo hazers)_
+Shane Pollitt _(bull dogger 1)_<br>
+T.J. Bews, Lynn Ivall _(rodeo hazers)_<br>
 
-USA/Canada 2005©
-134 mins
+USA/Canada 2005©<br>
+134 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4MDE1MzUzLC0xMDc0NDk1Mzc5XX0=
+eyJoaXN0b3J5IjpbMTI5MTYxMzM2MSwtMTA3NDQ5NTM3OV19
 -->
