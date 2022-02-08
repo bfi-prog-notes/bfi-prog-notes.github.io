@@ -23,63 +23,63 @@ _Produced with the participation of:_ Alberta Film Development Program,Alberta F
 _A co-production with:_ Alberta Film Entertainment<br>
 _Presented by:_ River Road Productions<br>
 _Executive Producers:_ Alberta Film Entertainment, William Pohlad, Larry McMurtry, Michael Costigan, Michael Hausman<br>
-_Producers:_ Diana Ossana, James Schamus
-_Co-producer:_ Scott Ferguson
-_Production Accountant:_ Anne Hannan
-_Production Co-ordinator:_ Hudson Cooley
-_Unit Production Managers:_ Scott Ferguson, Tom Benz
-_Locations Manager:_ Darryl Solly
-_Post-production Supervisor:_ Gerry Robert Byrne
-_1st Assistant Directors:_ Michael Hausman, Pierre Tremblay
-_Script Supervisor:_ Karen Bedard
-_Casting:_ Avy Kaufman
-_Screenplay:_ Larry McMurtry, Diana Ossana
-_Based on the short story by:_ Annie Proulx
-_Director of Photography:_ Rodrigo Prieto
-_2nd Unit Director of Photography:_ Peter Wunstorf
-_A Camera Operator:_ Damon Moreau
-_Steadicam Operator:_ Damon Moreau
-_Gaffers:_ Christopher Porter, Chris Sprague
-_Still Photographer:_ Kimberley French
-_Visual Effects:_ Buzz Image Group
-_Special Effects Co-ordinator:_ Maurice Routly
-_Edited by:_ Geraldine Peroni, Dylan Tichenor
-_Production Designer:_ Judy Becker
-_Art Directors:_ Tracey Baryski, Laura Ballinger
-_Set Decorators:_ Patricia Cuccia, Catherine Davis
-_Property Master:_ Ken Wills
-_Costume Design:_ Marit Allen
-_Assistant Costume Designer:_ Renée Bravener
-_Department Head Make-up:_ Manlio Rocchetti
-_Department Head Hair:_ Mary Lou Green
-_Title Design:_ yU+co.
-_Digital Opticals:_ Cine-BYTE Imaging Inc
-_Colour Timer:_ Chris Hinton
-_Music:_ Gustavo Santaolalla
-_Additional Music:_ Marcelo Zarvos
-_Orchestrations/Conductor:_ Richard Emerson
-_Strings Arranged by:_ David Campbell
-_Production Sound Mixer:_ Drew Kunin
-_Boom Operator:_ Peter Melnychuk
-_Re-recording Mixers:_ Reilly Steele, Eugene Gearty
-_Supervising Sound Editors:_ Eugene Gearty, Philip Stockton
-_Dolby Sound Consultant:_ Brad Hohle
-_In loving memory of:_ Geraldine Peroni
-_Stunt Co-ordinator:_ Kirk Jarrett
-_Dialect Coach:_ Joy Ellison
-_Animal Management:_ Gerry Hornbeck, Wildlife Incorporated
-_Animal Co-ordinator:_ T.J. Bews
-_Animal Wrangler Captain:_ Ken Zilka
+_Producers:_ Diana Ossana, James Schamus<br>
+_Co-producer:_ Scott Ferguson<br>
+_Production Accountant:_ Anne Hannan<br>
+_Production Co-ordinator:_ Hudson Cooley<br>
+_Unit Production Managers:_ Scott Ferguson, Tom Benz<br>
+_Locations Manager:_ Darryl Solly<br>
+_Post-production Supervisor:_ Gerry Robert Byrne<br>
+_1st Assistant Directors:_ Michael Hausman, Pierre Tremblay<br>
+_Script Supervisor:_ Karen Bedard<br>
+_Casting:_ Avy Kaufman<br>
+_Screenplay:_ Larry McMurtry, Diana Ossana<br>
+_Based on the short story by:_ Annie Proulx<br>
+_Director of Photography:_ Rodrigo Prieto<br>
+_2nd Unit Director of Photography:_ Peter Wunstorf<br>
+_A Camera Operator:_ Damon Moreau<br>
+_Steadicam Operator:_ Damon Moreau<br>
+_Gaffers:_ Christopher Porter, Chris Sprague<br>
+_Still Photographer:_ Kimberley French<br>
+_Visual Effects:_ Buzz Image Group<br>
+_Special Effects Co-ordinator:_ Maurice Routly<br>
+_Edited by:_ Geraldine Peroni, Dylan Tichenor<br>
+_Production Designer:_ Judy Becker<br>
+_Art Directors:_ Tracey Baryski, Laura Ballinger<br>
+_Set Decorators:_ Patricia Cuccia, Catherine Davis<br>
+_Property Master:_ Ken Wills<br>
+_Costume Design:_ Marit Allen<br>
+_Assistant Costume Designer:_ Renée Bravener<br>
+_Department Head Make-up:_ Manlio Rocchetti<br>
+_Department Head Hair:_ Mary Lou Green<br>
+_Title Design:_ yU+co.<br>
+_Digital Opticals:_ Cine-BYTE Imaging Inc<br>
+_Colour Timer:_ Chris Hinton<br>
+_Music:_ Gustavo Santaolalla<br>
+_Additional Music:_ Marcelo Zarvos<br>
+_Orchestrations/Conductor:_ Richard Emerson<br>
+_Strings Arranged by:_ David Campbell<br>
+_Production Sound Mixer:_ Drew Kunin<br>
+_Boom Operator:_ Peter Melnychuk<br>
+_Re-recording Mixers:_ Reilly Steele, Eugene Gearty<br>
+_Supervising Sound Editors:_ Eugene Gearty, Philip Stockton<br>
+_Dolby Sound Consultant:_ Brad Hohle<br>
+_In loving memory of:_ Geraldine Peroni<br>
+_Stunt Co-ordinator:_ Kirk Jarrett<br>
+_Dialect Coach:_ Joy Ellison<br>
+_Animal Management:_ Gerry Hornbeck, Wildlife Incorporated<br>
+_Animal Co-ordinator:_ T.J. Bews<br>
+_Animal Wrangler Captain:_ Ken Zilka<br>
 
 **Cast**<br>
-Heath Ledger _(Ennis Del Mar)_
-Jake Gyllenhaal _(Jack Twist)_
-Linda Cardellini _(Cassie)_
-Anna Faris _(Lashawn Malone)_
-Anne Hathaway _(Lureen Newsome)_
-Michelle Williams _(Alma)_
-Randy Quaid _(Joe Aguirre)_
-Kate Mara _(Alma Jr, age 19)_
+Heath Ledger _(Ennis Del Mar)_<br>
+Jake Gyllenhaal _(Jack Twist)_<br>
+Linda Cardellini _(Cassie)_<br>
+Anna Faris _(Lashawn Malone)_<br>
+Anne Hathaway _(Lureen Newsome)_<br>
+Michelle Williams _(Alma)_<br>
+Randy Quaid _(Joe Aguirre)_<br>
+Kate Mara _(Alma Jr, age 19)_<br>
 Valerie Planche _(waitress)_
 David Trimble _(Basque)_
 Victor Reyes _(Chilean sheepherder 1)_
@@ -129,5 +129,5 @@ T.J. Bews, Lynn Ivall _(rodeo hazers)_
 USA/Canada 2005©
 134 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDQ3Mjk1NywtMTA3NDQ5NTM3OV19
+eyJoaXN0b3J5IjpbLTU3MzIxMDM2NSwtMTA3NDQ5NTM3OV19
 -->
