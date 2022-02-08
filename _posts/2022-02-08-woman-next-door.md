@@ -20,75 +20,57 @@ Other reasons why I love this film: it’s got so much heart, and it seems to be
 **Mike Figgis, _Sight & Sound_, October 1995**<br>
 
 **THE WOMAN NEXT DOOR (LA FEMME D’À COTÉ)**<br>
-_Director:_ François Truffaut
-_©/Production Companies:_ Les Films du Carrosse, TF1 Films Production
-_Executive Producer:_ Armand Barbault
-_Production Manager:_ Roland Thénot
-_Assistant Production Managers:_ Jacques Vidal, François Héberlé
-_Administration:_ Jean-François Lentretien
-_Production Secretaries:_ Josiane Couëdel, Anny Bartanowsky
-_Assistant Director:_ Suzanne Schiffman
-_2nd Assistant Directors:_ Alain Tasma, Gilles Loutfi
-_Script Supervisor:_ Christine Pellé
-_Original Screenplay:_ François Truffaut, Suzanne Schiffman, Jean Aurel
-_Director of Photography:_ William Lubtchansky
-_William Lubtchansky’s Assistants:_ Caroline Champetier, Barcha Bauer
-_Electricians:_ Robert Beulens, Emmanuel Demorgon, Patrick Lemaire
-_Grips:_ André Atellian, Michel Gentils
-_Stills Photography:_ Alain Venisse
-_Editor:_ Martine Barraqué
-_Assistant Editors:_ Marie-Aimée Debril, Catherine Drzymalkowski
-_Art Director:_ Jean-Pierre Kohut-Svelko
-_Assistant Art Director:_ Pierre Gompertz
-_Properties:_ Jacques Preisach
-_Costumes:_ Michèle Cerf
-_Costumes Assistant:_ Malika Brahim
-_Make-up:_ Thi-Loan N’Guyen
-_Hair:_ Catherine Crassac
-_Titles/Opticals:_ Euro-Titres
-_Laboratory:_ L.T.C. Saint-Cloud
-_Prints by:_ Fujicolor, Pyral
-_Music:_ Georges Delerue
+_Director:_ François Truffaut<br>
+_©/Production Companies:_ Les Films du Carrosse, TF1 Films Production<br>
+_Executive Producer:_ Armand Barbault<br>
+_Production Manager:_ Roland Thénot<br>
+_Assistant Production Managers:_ Jacques Vidal, François Héberlé<br>
+_Administration:_ Jean-François Lentretien<br>
+_Production Secretaries:_ Josiane Couëdel, Anny Bartanowsky<br>
+_Assistant Director:_ Suzanne Schiffman<br>
+_2nd Assistant Directors:_ Alain Tasma, Gilles Loutfi<br>
+_Script Supervisor:_ Christine Pellé<br>
+_Original Screenplay:_ François Truffaut, Suzanne Schiffman, Jean Aurel<br>
+_Director of Photography:_ William Lubtchansky<br>
+_William Lubtchansky’s Assistants:_ Caroline Champetier, Barcha Bauer<br>
+_Electricians:_ Robert Beulens, Emmanuel Demorgon, Patrick Lemaire<br>
+_Grips:_ André Atellian, Michel Gentils<br>
+_Stills Photography:_ Alain Venisse<br>
+_Editor:_ Martine Barraqué<br>
+_Assistant Editors:_ Marie-Aimée Debril, Catherine Drzymalkowski<br>
+_Art Director:_ Jean-Pierre Kohut-Svelko<br>
+_Assistant Art Director:_ Pierre Gompertz<br>
+_Properties:_ Jacques Preisach<br>
+_Costumes:_ Michèle Cerf<br>
+_Costumes Assistant:_ Malika Brahim<br>
+_Make-up:_ Thi-Loan N’Guyen<br>
+_Hair:_ Catherine Crassac<br>
+_Titles/Opticals:_ Euro-Titres<br>
+_Laboratory:_ L.T.C. Saint-Cloud<br>
+_Prints by:_ Fujicolor, Pyral<br>
+_Music:_ Georges Delerue<br>
+_Music Publisher:_ Editions Sidonie<br>
+_Sound:_ Michel Laurent, Jacques Maumont<br>
+_Sound Assistant:_ Michel Mellier<br>
+_Sound Studios:_ Paris-Studios-Cinéma<br>
+_Sound Effects:_ Daniel Couteau<br>
+_Subtitles:_ Helen Scott<br>
+_Publicity:_ Simon Mizrahi<br>
 
-_Music Publisher:_ Editions Sidonie
+**Cast**<br>
+Gérard Depardieu _(Bernard Coudray)_<br>
+Fanny Ardant _(Mathilde Bauchard)_<br>
+Henri Garçin _(Philippe Bauchard)_<br>
+Michèle Baumgartner _(Arlette Coudray)_<br>
+Roger Van Hool _(Roland Duguet)_<br>
+Véronique Silver _(Mme. Odile Jouve)_<br>
+Philippe Morier-Genoud _(doctor)_<br>
+Nicole Vauthier<br>
+Muriel Combe<br>
+Olivier Becquaert _(Thomas Coudray)_<br>
 
-_Sound:_ Michel Laurent, Jacques Maumont
-
-_Sound Assistant:_ Michel Mellier
-
-_Sound Studios:_ Paris-Studios-Cinéma
-
-_Sound Effects:_ Daniel Couteau
-
-_Subtitles:_ Helen Scott
-
-_Publicity:_ Simon Mizrahi
-
-**Cast**
-
-Gérard Depardieu _(Bernard Coudray)_
-
-Fanny Ardant _(Mathilde Bauchard)_
-
-Henri Garçin _(Philippe Bauchard)_
-
-Michèle Baumgartner _(Arlette Coudray)_
-
-Roger Van Hool _(Roland Duguet)_
-
-Véronique Silver _(Mme. Odile Jouve)_
-
-Philippe Morier-Genoud _(doctor)_
-
-Nicole Vauthier
-
-Muriel Combe
-
-Olivier Becquaert _(Thomas Coudray)_
-
-France 1981©
-
-106 mins
+France 1981©<br>
+106 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjk0MTM5Nl19
+eyJoaXN0b3J5IjpbLTE4MjIzMzM3MjZdfQ==
 -->
