@@ -31,10 +31,15 @@ It’s about abandonment, yes.
 _What about the Shakespeare? What do you think it does to the film?_
 
 I had three different screenplays and segments of each were mixed and cut together. There was one whole screenplay that was just a modernised version of _Henry IV_. I thought it was interesting that Shakespeare was writing about similar characters to the ones I was writing about – I realised that while I was watching Orson Welles’ _Chimes at Midnight_. Then I also had a short story I had written about Ray and his cousin Little George. Ray was a hustler but Little George was just on the street. The story was told through Little George’s eyes; he had narcolepsy. They went to Mexico and Ray fell in love with a girl and had to ditch Little George. And then there was a third script about Mike and Scott, but with less of Scott – he was Mike’s friend but he wasn’t a rich kid and I don’t think they went on a trip and there wasn’t any Shakespeare. So the three scripts were put together and I thought we’d cast street kids and see if they could connect with the Shakespearean words and make any sense of them. So the final version still had one foot in Shakespeare, but now I’m casting Keanu Reeves. So I thought of it as characters who are speaking in their own secret language when they’re together – it’s their way of having fun.  
-**Article and interview by Amy Taubin, _Sight and Sound_, January 1992**
-<br><br>
+**Article and interview by 
+
+Amy Taubin, _Sight and Sound_, January 1992**
+<br><br
+
+<![endif]-->
 
 **MY OWN PRIVATE IDAHO**  
+
 _Director_: Gus Van Sant  
 _Production Company_: New Line Cinema  
 _Executive Producer_: Gus Van Sant  
@@ -42,7 +47,9 @@ _Co-executive Producer_: Allan Mindel
 _Producer_: Laurie Parker  
 _Line Producer_: Tony Brand  
 _Unit Production Manager_: Paul Hellerman  
-_Production Co-ordinators_: Amanda Brand, Mary Ann Marino  
+_Production Co-ordinators_: Amanda Brand, 
+
+Mary Ann Marino  
 _Location Manager_: Sara Burton  
 _Production Assistants_: John Brown, Matt Ebert, Chris Lowenstein  
 _Post-production Assistant_: Teresa Tamiyasu  
@@ -51,11 +58,13 @@ _Assistant Directors_: Kris Krengel, David Minkowski
 _Casting_: Sandy Collister  
 _Screenplay_: Gus Van Sant  
 _Additional Dialogue_: William Shakespeare  
-_Directors of Photography_: Eric Alan Edwards,  John Campbell  
+_Directors of Photography_: Eric Alan Edwards,  
+John Campbell  
 _Special Photography_: Bruce Weber  
 _Visual Effects Co-ordinator_: Thomas Arndt  
 _Visual Effects Crew_: Chel White, Steve Warner, Janet Karecki, Kathleen Nichols, Laura Di Trapani, Karen E. Hout  
-_Mechanical Effects_: Illusion Works,  Joe Henry Schmeer, Venora Debrowolski  
+_Mechanical Effects_: Illusion Works,  
+Joe Henry Schmeer, Venora Debrowolski  
 _Editor_: Curtiss Clayton  
 _Production Designer_: David Brisbin  
 _Art Director_: Ken Hardy  
@@ -88,14 +97,17 @@ _Sound Recording_: Reinhard Stergar
 _Music Re-recordists_: Paul Sharpe, Bill Sheppard  
 _Supervising Sound Editor_: Kelley Baker  
 _Sound Editors_: Peter Appleton, Patrick Winters, Michael F. Newman  
-_Walla Group_: Scott Patrick Green, Jessie Thomas, Mike Parker, Shaun Jordan, Bryan Wilson,  Kelly Brooks, Wade Evans, Vana O’Brien, Eric Hull  
-_ADR Recordists_: Forrest Brakeman,  W. Wayne Woods  
+_Walla Group_: Scott Patrick Green, Jessie Thomas, Mike Parker, Shaun Jordan, Bryan Wilson,  
+Kelly Brooks, Wade Evans, Vana O’Brien, Eric Hull  
+_ADR Recordists_: Forrest Brakeman,  
+W. Wayne Woods  
 _Foley Recordist_: W. Wayne Woods  
 _Foleys_: Karen Karbo, Steve Miller  
 _Ultra Stereo Consultant_: Bruce Murphy  
 _Animal Handler_: Anne Gordon
 
-**Cast**  
+**_Cast**  :_
+
 River Phoenix _(Mike Waters)_  
 Keanu Reeves _(Scott Favor)_  
 James Russo _(Richard Waters)_  
@@ -114,7 +126,8 @@ Mickey Cottrell _(Daddy Carroll)_
 Wade Evans _(Wade)_  
 Matt Ebert, Scott Patrick Green, Tom Cramer _(coverboys)_  
 Vana O’Brien _(Sharon Waters)_  
-Scott Patrick Green, Shaun Jordan, Shawn Jones _(café kids)_  
+Scott Patrick Green, Shaun Jordan_,  
+_Shawn Jones _(café kids)_  
 George Conner _(Bad George)_  
 Oliver Kirk _(Indian cop)_  
 Stanley Hainesworth _(dirtman)_  
@@ -122,7 +135,8 @@ Joshua Halladay _(baby Mike)_
 Douglas Tollenen _(little Richard)_  
 Steven Clark Pachosa _(hotel manager)_  
 Lannie Swerdlow _(disco manager)_  
-Wally Gaarsland, Bryan Wilson, Mark Weaver,  Conrad ‘Bud’ Montgomery _(rock promoters)_  
+Wally Gaarsland, Bryan Wilson, Mark Weaver,  
+Conrad ‘Bud’ Montgomery _(rock promoters)_  
 Pat Patterson, Steve Vernelson, Mike Cascadden _(cops)_  
 Eric Hull _(mayor’s aide)_  
 James A. Arling _(minister)_  
@@ -132,14 +146,17 @@ Melanie Mosely _(lounge hostess)_
 Greg Murphy _(Carl)_  
 David Reppinhagen _(yuppie at Jake’s)_  
 Tiger Warren _(himself)_  
-Massimo De Cataldo, Paolo Pei Andreoli, Robert Egon, Paolo Baiocco _(Italian street boys)_  
+Massimo De Cataldo, Paolo Pei Andreoli, _,_
+
+Robert Egon, Paolo Baiocco _(Italian street boys)_  
 Mario Stracciarolo _(Mike’s Italian client)_
 
 USA 1991  
+
 104 mins
 
 The screening on Wed 23 Feb will be introduced by BFI Race Equality Lead Rico Johnson-Sinclair
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzkyNjIzOV19
+eyJoaXN0b3J5IjpbMTIyMTYwODU3MiwxOTYzOTI2MjM5XX0=
 -->
