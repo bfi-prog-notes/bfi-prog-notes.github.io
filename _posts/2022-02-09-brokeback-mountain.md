@@ -91,8 +91,7 @@ Anne Hathaway _(Lureen Newsome)_<br>
 Michelle Williams _(Alma)_<br>
 Randy Quaid _(Joe Aguirre)_<br>
 Kate Mara _(Alma Jr, age 19)_<br>
-Valerie Planche _(waitress)_<br>
-David Trimble _(Basque)_<br>
+Valerie Planche _(waitress)_<br>David Trimble _(Basque)_<br>
 Victor Reyes _(Chilean sheepherder 1)_<br>
 Lachlan Mackintosh _(Chilean sheepherder 2)_<br>
 Larry Reese _(jolly minister)_<br>
@@ -199,3 +198,8 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
+
+134 mins
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MjAwMTIzOV19
+-->
