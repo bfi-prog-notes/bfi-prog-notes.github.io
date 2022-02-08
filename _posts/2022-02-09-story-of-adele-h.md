@@ -43,53 +43,52 @@ _©/A Co-production:_ Les Films du Carrosse,
 Les Productions Artistes Associés<br>
 _Presented by:_ Les Artistes Associés<br>
 _Production Managers:_ Marcel Berbert, Claude Miller<br>
-_Unit Managers:_ Patrick Millet, Roland Thénot,
-_1st Assistant Director:_ Suzanne Schiffman
-_2nd Assistant Director:_ Carl Hathwell
-_Script Supervisor:_ Christine Pellé
-_Original Screenplay:_ François Truffaut, Jean Gruault, Suzanne Schiffman
-_Script Collaborator:_ Frances Vernor Guille
-_Based on the diaries by:_ Adèle Hugo
-_Director of Photography:_ Nestor Almendros
-_Camera Assistants:_ Jean-Claude Rivière, Dominique Le Rigoleur, Florent Bazin
-_Gaffer:_ Jean-Claude Gasché
-_Key Grip:_ Charles Freess
-_Editors:_ Yann Dedet, Martine Barraque, Jean Gargonne, Michele Neny, Muriel Zeleny
-_Art Director:_ Jean-Pierre Kohut
-_Props:_ Daniel Braunschweig
-_Costumes:_ Jacqueline Guyot
-_Make-up:_ Thi-Loan N’Guyen
-_Hair Stylist:_ Chantal Durpoix
-_Music:_ Maurice Jaubert
-_Solo Saxophone:_ Jacques Noureddine
-_Conductor:_ Patrice Mestral
-_Music Consultant:_ François Porcile
-_Sound (Recording):_ Jean-Pierre Ruh, Michel Laurent
-_Sound Mixer:_ Jacques Maumont
-_Thanks:_ Carol Mc Daid Seib, Air France, British Island Airways (BIA), L.T.C. (Saint-Cloud), SIMO (Boulogne), Eastmancolor, Panavision Spherique
+_Unit Managers:_ Patrick Millet, Roland Thénot<br>
+_1st Assistant Director:_ Suzanne Schiffman<br>
+_2nd Assistant Director:_ Carl Hathwell<br>
+_Script Supervisor:_ Christine Pellé<br>
+_Original Screenplay:_ François Truffaut, Jean Gruault, Suzanne Schiffman<br>
+_Script Collaborator:_ Frances Vernor Guille<br>
+_Based on the diaries by:_ Adèle Hugo<br>
+_Director of Photography:_ Nestor Almendros<br>
+_Camera Assistants:_ Jean-Claude Rivière, Dominique Le Rigoleur, Florent Bazin<br>
+_Gaffer:_ Jean-Claude Gasché<br>
+_Key Grip:_ Charles Freess<br>
+_Editors:_ Yann Dedet, Martine Barraque, Jean Gargonne, Michele Neny, Muriel Zeleny<br>
+_Art Director:_ Jean-Pierre Kohut<br>
+_Props:_ Daniel Braunschweig<br>
+_Costumes:_ Jacqueline Guyot<br>
+_Make-up:_ Thi-Loan N’Guyen<br>
+_Hair Stylist:_ Chantal Durpoix<br>
+_Music:_ Maurice Jaubert<br>
+_Solo Saxophone:_ Jacques Noureddine<br>
+_Conductor:_ Patrice Mestral<br>
+_Music Consultant:_ François Porcile<br>
+_Sound (Recording):_ Jean-Pierre Ruh, Michel Laurent<br>
+_Sound Mixer:_ Jacques Maumont<br>
+_Thanks:_ Carol Mc Daid Seib, Air France, British Island Airways (BIA), L.T.C. (Saint-Cloud), SIMO (Boulogne), Eastmancolor, Panavision Spherique<br>
 
-**Cast**
-Isabelle Adjani _(Adèle Hugo)_
-Bruce Robinson _(Lieutenant Albert Pinson)_
-Sylvia Marriott _(Mrs Saunders)_
-Joseph Blatchley _(Whistler)_
-Ivry Gitlis _(hypnotist)_
-Louise Bourdet _(Victor Hugo’s servant)_
-Cecil De Sausmarez _(M. Lenoit, lawyer)_
-Ruben Dorey _(Mr Saunders)_
-Clive Gillingham _(Keaton, bank clerk)_
-Roger Martin _(Doctor Murdock)_
-Mr White _(colonel)_
-Madame Louise _(Madame Baa)_
-Jean-Pierre Leursse _(letter-writer)_
-
-_uncredited_
-Carl Hathwell _(Pinson’s Batman)_
-Raymond Falla _(judge)_
-François Truffaut _(officer)_
+**Cast**<br>
+Isabelle Adjani _(Adèle Hugo)_<br>
+Bruce Robinson _(Lieutenant Albert Pinson)_<br>
+Sylvia Marriott _(Mrs Saunders)_<br>
+Joseph Blatchley _(Whistler)_<br>
+Ivry Gitlis _(hypnotist)_<br>
+Louise Bourdet _(Victor Hugo’s servant)_<br>
+Cecil De Sausmarez _(M. Lenoit, lawyer)_<br>
+Ruben Dorey _(Mr Saunders)_<br>
+Clive Gillingham _(Keaton, bank clerk)_<br>
+Roger Martin _(Doctor Murdock)_<br>
+Mr White _(colonel)_<br>
+Madame Louise _(Madame Baa)_<br>
+Jean-Pierre Leursse _(letter-writer)_<br>
+_uncredited_<br>
+Carl Hathwell _(Pinson’s Batman)_<br>
+Raymond Falla _(judge)_<br>
+François Truffaut _(officer)_<br>
 
 France 1975©<br>
 98 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxNjc3ODBdfQ==
+eyJoaXN0b3J5IjpbLTgxODM4MDcyNCwyMjE2Nzc4MF19
 -->
