@@ -1,7 +1,5 @@
 
-<![endif]-->
-
-**Mike Figgis on ‘The Woman Next Door’**
+**Mike Figgis on ‘The Woman Next Door’**<br>
 
 The following scene takes place 19 minutes and 45 seconds into François Truffaut’s 1981 film, _The Woman Next Door_:
 
@@ -13,8 +11,7 @@ She tells him that he and his wife are invited to dinner next week and she hopes
 
 This is a very good film. I’ve seen it twice now. The first time was at the Phoenix in London and again recently on video. Both times it made me sad (which is good). Let’s face it, most films are very boring and vanish quickly from memory.
 
-Wasn’t this Truffaut’s penultimate film? And wasn’t he with the stunning Fanny Ardant at the time? This must have been a tough film for him to make.  
-I think he must have been pretty sad when he shot it. But that is not why the film is so good. The script is very tight, every scene is about one or both of the lovers; the acting is really good and very believable. It’s not a sentimental film (and here the sparse use of music is a plus). It’s quite erotic but the sex never takes over, it’s just something that lovers need to do, they have to have each other. I don’t think it’s ever funny, but there is a very French scene in which Depardieu cannot get to grips with his car and is very uncool. His job is pretty strange too – he seems to be a driving instructor for supertankers, and we keep seeing him on a scale model of a ship in a scale model of a harbour. It’s not the sort of job Tom Cruise would do.
+Wasn’t this Truffaut’s penultimate film? And wasn’t he with the stunning Fanny Ardant at the time? This must have been a tough film for him to make.  I think he must have been pretty sad when he shot it. But that is not why the film is so good. The script is very tight, every scene is about one or both of the lovers; the acting is really good and very believable. It’s not a sentimental film (and here the sparse use of music is a plus). It’s quite erotic but the sex never takes over, it’s just something that lovers need to do, they have to have each other. I don’t think it’s ever funny, but there is a very French scene in which Depardieu cannot get to grips with his car and is very uncool. His job is pretty strange too – he seems to be a driving instructor for supertankers, and we keep seeing him on a scale model of a ship in a scale model of a harbour. It’s not the sort of job Tom Cruise would do.
 
 Other reasons why I love this film: it’s got so much heart, and it seems to be about _something_. Check it out.<br>
 **Mike Figgis, _Sight & Sound_, October 1995**<br>
@@ -72,5 +69,5 @@ Olivier Becquaert _(Thomas Coudray)_<br>
 France 1981©<br>
 106 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjIzMzM3MjZdfQ==
+eyJoaXN0b3J5IjpbODIzNjk2NDQ3XX0=
 -->
