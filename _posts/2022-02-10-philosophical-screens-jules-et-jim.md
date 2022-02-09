@@ -12,7 +12,7 @@ pdf: '2022-02-10-philosophical-screens-jules-et-jim.pdf'
 
 François Truffaut’s lyrical and melancholic journey through the lives of the participants in a love triangle makes for one of his most adored films; _Jules et Jim_ offers a profound and complicated portrait of love. In this session of Philosophical Screens our regular panellists Lucy Bolton and Catherine Wheatley are joined by Professor Fiona Handyside (University of Exeter) to discuss the many facets of love in Truffaut’s film – jealousy and possession, eros and platonic love – as well as contemplating the fleeting nature of happiness, the elusiveness of memories, and the enduring appeal of the feminine enigma.<br>
 
-**Speakers**<br>
+**<ins>Speakers</ins>**<br>
 **Lucy Bolton** is Reader in Film Studies at Queen Mary University of London. She is the author of _Contemporary Cinema and the Philosophy of Iris Murdoch_ (EUP 2019) and is currently writing a book on philosophy and film stardom.<br>
 
 **Fiona Handyside** is Associate Professor in Film Studies at the University of Exeter. She is the author of _Sofia Coppola: A Cinema of Girlhood_ (I.B.Tauris, 2017) and _Cinema at the Shore: The Beach in French Film_ (Peter Lang, 2014). She is the editor of _Eric Rohmer: Interviews_ (University of Mississippi Press, 2013) and co-editor of _International Cinema and the Girl: Local Issues, Transnational Contexts_ (Palgrave, 2016). She is currently working on a study called _Girls’ Hairstories_, analysing hair styles from Elsa’s plait in _Frozen_ (Buck and Lee, 2013) to Arabella’s pink wig and shaved head in _I May Destroy You_ (Coel, 2020).<br>
@@ -20,11 +20,8 @@ François Truffaut’s lyrical and melancholic journey through the lives of the 
 **Catherine Wheatley** is Reader in Film and Visual Culture at King’s College London. Her books include _Stanley Cavell and Film: Scepticism and Self-Reliance at the Cinema, Michael Haneke’s Cinema: The Ethic of the Image_, the BFI Film Classics book on _Caché_, and, with Lucy Mazdon, _Sex, Art and Cinephilia: French Cinema in Britain._ Catherine also writes regularly for _Sight and Sound_ magazine.<br>
 
 **Reading Suggestions:**<br>
-
 Robert Stam, _François Truffaut and Friends_, Rutgers University Press, 2006.
-
 Antoine de Baeque and Serge Toubiana, _Truffaut: A Biography_, University of California Press, 2008.
-
 Tim Scanlon, _What We Owe to Each Other,_ Cambridge, MA: Harvard University Press, 1998.<br>
 
 **Jules et Jim: a contemporary review**<br>
