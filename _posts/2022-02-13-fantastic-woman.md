@@ -1,4 +1,3 @@
-<![endif]-->
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -22,15 +21,13 @@ Lelio and his director of photography Benjamín Echazarreta choose to present th
 
 Lelio’s deployment of fantasy sequences further provides a mode of articulating her state of mind. We watch her physically soar on two occasions: the first battling a windstorm on her way home, her body arching upwards as if walking on air; the second at a nightclub late on in the film, when she floats in the air, leading a choreographed sequence in a magnificent gold and silver tinsel outfit.
 
-The soundtrack merges Matthew Herbert’s luscious score, dominated by long legato string phrases, with melodies that act as a further commentary on the action: Aretha Franklin’s ‘(You Make Me Feel Like) A Natural Woman’ as Marina returns Orlando’s car to his ex-wife; The Alan Parsons Project’s ‘Time’ as Marina and Orlando dance after her birthday dinner; Marina’s soaring rendition of Geminiano Giacomelli’s 1734 ‘_Sposa son disprezzata_’ aria narrated from the point of view of a faithful but insulted wife, and the uplifting ‘_Ombra mai fu_’ aria she sings from Handel’s _Xerxes_, which closes the film. The last functions as a fitting homage to the man she has loved and lost, and is gloriously rendered, like Lelio’s accomplished and deeply moving film, with shifting harmonies, gusto, poise and heartfelt emotion.
+The soundtrack merges Matthew Herbert’s luscious score, dominated by long legato string phrases, with melodies that act as a further commentary on the action: Aretha Franklin’s ‘(You Make Me Feel Like) A Natural Woman’ as Marina returns Orlando’s car to his ex-wife; The Alan Parsons Project’s ‘Time’ as Marina and Orlando dance after her birthday dinner; Marina’s soaring rendition of Geminiano Giacomelli’s 1734 ‘_Sposa son disprezzata_’ aria narrated from the point of view of a faithful but insulted wife, and the uplifting ‘_Ombra mai fu_’ aria she sings from Handel’s _Xerxes_, which closes the film. The last functions as a fitting homage to the man she has loved and lost, and is gloriously rendered, like Lelio’s accomplished and deeply moving film, with shifting harmonies, gusto, poise and heartfelt emotion.<br>
+**Maria Delgado, _Sight & Sound_, March 2018**<br>
 
-**Maria Delgado, _Sight & Sound_, March 2018**
-
-**A FANTASTIC WOMAN (UNA MUJER FANTÁSTICA)**
-
+**A FANTASTIC WOMAN (UNA MUJER FANTÁSTICA)**<br>
 _Director_: Sebastián Lelio  
 _©_: Asesorias y Producciones Fabula Limitada, Participant PanAmerica LLC, Komplizen Film GmbH, Setembro Cine SLU, Lelio y Maza Limitada  
-_Production Companies_: Participant Media, Fabula, Komplizen Film_,_  Consejo Nacional de la Cultura y las Artes, BancoEstado, Corfo, Programa Ibermedia, MBB – Medienboard Berlin-Brandenburg, FFA – Filmförderungsanstalt, DFFF – Deutscher Filmförderfonds, ZDF-Arte  
+_Production Companies_: Participant Media, Fabula, Komplizen Film,  Consejo Nacional de la Cultura y las Artes, BancoEstado, Corfo, Programa Ibermedia, MBB – Medienboard Berlin-Brandenburg, FFA – Filmförderungsanstalt, DFFF – Deutscher Filmförderfonds, ZDF-Arte  
 _Presented by_: Participant Media  
 _Executive Producers_: Jeff Skoll, Jonathan King, Rocio Jadue Z.,  
 Mariane Hartard, Ben Von Dobeneck  
@@ -88,5 +85,5 @@ Paola Lattus _(nurse)_<br>
 Chile/USA/Germany/Spain 2017©<br>
 104 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMDA3NTMzNF19
+eyJoaXN0b3J5IjpbLTIwMzgyNDU4NzVdfQ==
 -->
