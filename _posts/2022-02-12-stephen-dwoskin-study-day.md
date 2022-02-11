@@ -43,7 +43,7 @@ An ‘in-conversation’ with two members of the AHRC funded project,  The Legac
 **14:45 Keynote talk. Adrian Martin: Getting Lost in Dwoskin  (chaired by Alison Butler)**  
 
 <img style="float: left;" src="/img/adrian-martin.jpg">
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 Disorientation, on every level, is a powerful and disconcerting force in the work of Stephen Dwoskin. Focussing on the feature-length films he made in the 1970s, this talk will explore the productive tension (as identified by Raymond Durgnat in the ’80s) between Dwoskin's rigorous ‘plastic aesthetics’ (of space, colour, composition, etc.) and his remarkable experimentation with narrative forms.  Today, artists who work in a similar way are frequently told that their films would best ‘fit into an art gallery context’. Yet Dwoskin, in his time, held on to the project of a complex, hybrid cinema, in which disorientation is a major source of pleasure.
 
