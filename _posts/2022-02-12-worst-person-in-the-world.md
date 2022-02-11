@@ -97,7 +97,30 @@ Norway/France/Sweden/Denmark 2021©
 A MUBI release
 <br><br>
 
+**IN PERSON & PREVIEWS**<br>
+**The Proposition + Q&A with director  John Hillcoat, actors Emily Watson and  Danny Huston and producer Cat Villiers**<br>
+Wed 16 Feb 18:00<br>
+**Preview: La Mif (The Fam)** **+ Q&A with  director Fred Baillif**<br>
+Sat 19 Feb 18:00<br>
+**A Tribute to Roger Michell: Preview:  The Duke + Q&A (guests TBA)**<br>
+Thu 24 Feb 18:00<br>
+**BFI Expanded: World Premiere: UNIQUE**<br>
+Fri 25 Feb 19:00 and 20:30<br>
+**Woman with a Movie Camera Preview: Ali & Ava + Q&A with writer-director Clio Barnard**<br>
+Mon 28 Feb 20:20<br>
 
+**REGULAR PROGRAMME**<br>
+**BFI Future Film Festival**<br>
+17-20 Feb<br>
+**Seniors’ Free Matinee: The Night of the Hunter  + intro by BFI programmer David Somerset**<br>
+Mon 21 Feb 14:00<br>
+**Member Picks:  Close Encounters of the Third Kind**<br>
+Wed 23 Feb 17:50<br>
+**Terror Vision: The People under the Stairs**<br>
+Thu 24 Feb 20:40<br>
+**Relaxed Screening:  Keep the Change + discussion**<br>
+Mon 28 Feb 20:10<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyMDMzOTQ5XX0=
+eyJoaXN0b3J5IjpbLTQ0MTA5MTc1M119
 -->
