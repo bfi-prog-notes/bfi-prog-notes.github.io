@@ -28,16 +28,12 @@ An ‘in-conversation’ with two members of the AHRC funded project,  The Legac
 **14:45 Keynote talk. Adrian Martin: Getting Lost in Dwoskin  (chaired by Alison Butler)**  
 Disorientation, on every level, is a powerful and disconcerting force in the work of Stephen Dwoskin. Focussing on the feature-length films he made in the 1970s, this talk will explore the productive tension (as identified by Raymond Durgnat in the ’80s) between Dwoskin's rigorous ‘plastic aesthetics’ (of space, colour, composition, etc.) and his remarkable experimentation with narrative forms.  Today, artists who work in a similar way are frequently told that their films would best ‘fit into an art gallery context’. Yet Dwoskin, in his time, held on to the project of a complex, hybrid cinema, in which disorientation is a major source of pleasure.
 
-<![endif]-->
-
 **15:45 Comfort Break**
 
-**16:00 Screening of Acting Out: Stephen Dwoskin  
-(dir. Philomène Hoël, 2020)  
-**The day will end with the first in-person screening of artist Philomène Hoël’s film _Acting Out: Stephen Dwoskin_, in which ‘Hoël plays a high-wire game with her fellow researchers, exploring the nature of their mutual obsession; filmmaker Stephen Dwoskin, whose life and fictive world bleeds into their encounter through a series of interventions in disconcerting and hilarious ways’ (Ben Cook).
+**16:00 Screening of Acting Out: Stephen Dwoskin  (dir. Philomène Hoël, 2020)**  
+The day will end with the first in-person screening of artist Philomène Hoël’s film _Acting Out: Stephen Dwoskin_, in which ‘Hoël plays a high-wire game with her fellow researchers, exploring the nature of their mutual obsession; filmmaker Stephen Dwoskin, whose life and fictive world bleeds into their encounter through a series of interventions in disconcerting and hilarious ways’ (Ben Cook).
 
-**  
-Biographies**
+**Biographies**
 
 **Elisa**  **Adami** is Editor and Research Fellow at Afterall, Central Saint Martins (UAL). Previously, Elisa was the Coordinator of Research Residency programmes at UAL’s Decolonising Art Institute, where she was researcher-in-residence on the programme Decolonising Archives in 2020. Elisa completed her PhD in 2019 at the Royal College of Art and she has lectured at the RCA, Kingston University and Central Saint Martins. She is Associate Editor of the book series _Research/Practice_, published by Sternberg Press. Her writing has appeared in various publications, including the _Journal of Visual Culture_ and _Third_ _Text_, and she is a regular contributor to _Art_ _Monthly_.
 
@@ -45,25 +41,21 @@ Biographies**
 
 **Jenny**  **Chamarette** is Senior Research Fellow in Art at the University of Reading and Co-Investigator on the AHRC-funded project, The Legacies of Stephen Dwoskin’s Personal Cinema. A writer, researcher, mentor and curator, she has published widely on film and visual cultures, disability, gender and embodiment, and was part of the research team for screen sector equalities advocacy organisation Raising Films’ recent report, How We Work Now: Learning from the Impact of COVID-19 to Build an Industry that Works for Parents and Carers. Author of _Phenomenology and the Future of Film_ (2012) and co-editor of _Guilt and Shame: Essays in French Literature, Thought and Visual Culture_ (2010), she sits on the editorial boards of _MAI Journal of Feminism and Visual Culture_, and MAI Press, an imprint of Punctum, and on the Film Section of Modern Languages Open. In 2021, her book project on queerness and cultivation, _Q is for Garden_, was shortlisted for the Fitzcarraldo Essay Prize and longlisted for the Nan Shepherd Prize.
 
-**Tom**  **Cuthbertson** is a Leverhulme Trust Research Fellow in the School of Modern Languages at Newcastle University. His research focuses particularly on forms of autobiography in contemporary experimental film and artists’ moving image, and he is currently working on a project entitled ‘Environmental Selves: Film, Autobiography and the Natural World.’ A chapter on Boris Lehman – the filmmaker he will be discussing alongside Dwoskin at the BFI study event – features in his book _Autobiographical Reenactment_ _in_ _French_ _and Belgian Film_ which is forthcoming later this year with the academic  
-press Legenda.
+**Tom**  **Cuthbertson** is a Leverhulme Trust Research Fellow in the School of Modern Languages at Newcastle University. His research focuses particularly on forms of autobiography in contemporary experimental film and artists’ moving image, and he is currently working on a project entitled ‘Environmental Selves: Film, Autobiography and the Natural World.’ A chapter on Boris Lehman – the filmmaker he will be discussing alongside Dwoskin at the BFI study event – features in his book _Autobiographical Reenactment_ _in_ _French_ _and Belgian Film_ which is forthcoming later this year with the academic  press Legenda.
 
 **William**  **Fowler** is Curator of Artists’ Moving Image at the BFI National Archive where he acquires, restores and curates films. His projects have included Queer Pagan Punk: Derek Jarman, the biggest ever UK retrospective of Jarman’s films, and This Is Now: Film and Video After Punk which toured internationally in collaboration with artist moving image agency LUX. He is  
 co-author of _The Bodies Beneath: The Flipside of British Film and Television_ published by Strange Attractor Press in 2019.
 
-**  
-  
-Rachel**  **Garfield** is an artist and Professor in Fine Art at the University of Reading. She is author of _Experimental Filmmaking and Punk: Feminist Audio Visual Culture of the 1970s and 1980s_ (Bloomsbury, 2021) and Principal Investigator of the AHRC-funded (2018–22) research project, The Legacies of Stephen Dwoskin’s Personal Cinema.
+**Rachel**  **Garfield** is an artist and Professor in Fine Art at the University of Reading. She is author of _Experimental Filmmaking and Punk: Feminist Audio Visual Culture of the 1970s and 1980s_ (Bloomsbury, 2021) and Principal Investigator of the AHRC-funded (2018–22) research project, The Legacies of Stephen Dwoskin’s Personal Cinema.
 
 **Philomène**  **Hoël** is an artist living and working in London. She is a practice-based PhD candidate at the University of Reading, in partnership with LUX, with a project titled ‘Is it your hand or is it my hand?’, a dialogue with the artist and filmmaker Stephen Dwoskin (1939–2012). She runs ‘Out of One’s Cinema’, a programme of experimental screenings, and is co-founder of the exhibition program flat deux (since 2015). Recent shows include: ‘Acting Out : Stephen Dwoskin’ (solo exhibition, LUX, 2020); ‘Cherry Pickers’ (collective show, Podium Luxembourg, 2019); ‘Show Me Love’ (solo, Casino Luxembourg, 2018); ‘Linda Linda Linda’ (solo, Carreau du Temple, Paris, 2018); ‘Dynamo Club’ (solo, Chalton Gallery, London, 2018); ‘Déjà vu’ (collective show, Chalton Gallery, London, 2018); ‘The Second Heart’ (solo, Doc Paris, 2017); ‘Keep It Longer’ (solo, Gallery SO, London, 2017). http://philomenehoel.fr
 
 **Adrian**  **Martin** is an arts critic and audiovisual essayist based in Spain, and Adjunct Professor of Film and Screen Studies, Monash University (Australia). He is the author of nine books on cinema, including _Mysteries of Cinema_ (Amsterdam University Press, 2018 & University of Western Australia Publishing, 2020) and _Mise en scène and Film Style_ (Palgrave, 2014).  
 His archive covering over 40 years of work is at http://www.filmcritic.com.au
 
-**Henry K. Miller** is the author of _The First True Hitchcock_, editor of  
-_The_ _Essential Raymond Durgnat_, and co-editor of _DWOSKINO: the gaze of Stephen Dwoskin_, produced in his current role as researcher on the Dwoskin project at the University of Reading. He is an honorary research associate at the Slade School of Fine Art, University College London, and with Brighid Lowe he is co-director of the Slade Film Project.
+**Henry K. Miller** is the author of _The First True Hitchcock_, editor of  _The_ _Essential Raymond Durgnat_, and co-editor of _DWOSKINO: the gaze of Stephen Dwoskin_, produced in his current role as researcher on the Dwoskin project at the University of Reading. He is an honorary research associate at the Slade School of Fine Art, University College London, and with Brighid Lowe he is co-director of the Slade Film Project.
 
 **Darragh O’Donoghue** is completing a PhD on Stephen Dwoskin at the University of Reading, for which he compiled a _catalogue raisonné_ of the artist-filmmaker. He works as an archivist at Tate, is a contributing writer for _Cineaste_, and is currently co-editing a special dossier on popular Hindi film for _Senses of Cinema_.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDg0MTEwXX0=
+eyJoaXN0b3J5IjpbMTE2MDEzODM4OV19
 -->
