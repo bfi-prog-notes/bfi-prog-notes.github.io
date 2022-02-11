@@ -56,6 +56,7 @@ His archive covering over 40 years of work is at http://www.filmcritic.com.au
 **Henry K. Miller** is the author of _The First True Hitchcock_, editor of  _The_ _Essential Raymond Durgnat_, and co-editor of _DWOSKINO: the gaze of Stephen Dwoskin_, produced in his current role as researcher on the Dwoskin project at the University of Reading. He is an honorary research associate at the Slade School of Fine Art, University College London, and with Brighid Lowe he is co-director of the Slade Film Project.
 
 **Darragh O’Donoghue** is completing a PhD on Stephen Dwoskin at the University of Reading, for which he compiled a _catalogue raisonné_ of the artist-filmmaker. He works as an archivist at Tate, is a contributing writer for _Cineaste_, and is currently co-editing a special dossier on popular Hindi film for _Senses of Cinema_.
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDEzODM4OV19
+eyJoaXN0b3J5IjpbLTE1OTczNDc0MjUsMTE2MDEzODM4OV19
 -->
