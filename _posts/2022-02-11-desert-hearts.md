@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Desert Hearts
+published: true
+date: 2022-02-11
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Romance, Drama]
+metadata: 'USA 1985, 91 mins<br> Director: Donna Deitch'
+pdf: '2022-02-11-desert-hearts.pdf'
+---
 
 Although it has become a cult classic due to its explicit lesbian sex, _Desert Hearts_ is a wonderfully well-made film with a host of appealing attributes. Steeped in moody, classic country and western music, it conveys romantic longing and confusion with bittersweet intensity. The casting is superb, starting with Helen Shaver as a primly proper New York professor and Patricia Charbonneau as a charismatic Reno cowgirl, but also extending to a riveting supporting cast, who do humorous, sharply observed vignettes across the spectrum of social class. Crisply edited subplots are effortlessly woven throughout. The gritty, monotonous sense of place is accentuated by Shaver’s endearing disorientation in wide-open Nevada. The film has a beguilingly hypnotic atmosphere, like Shakespeare’s magical green world, where things change shape and identities are transformed. As we contemplate the aching degrees and varieties of love, we must laugh at the eternal muddle of human aspiration and absurdity. With neither cynicism nor sentimentality, _Desert Hearts_ charmingly asserts the centrality of emotion, as well as its prankish surprises.  
 **Camille Paglia, _Sight & Sound_, October 2015**
@@ -122,6 +132,65 @@ USA 1985©
 The screening on Wed 16 Feb will be introduced  
 by BFI Head Librarian Emma Smart
 <br><br>
+
+**BIG SCREEN CLASSICS**<br>
+**To Wong Foo, Thanks for Everything! Julie Newmar**<br>
+Tue 1 Feb 18:20; Fri 25 Feb 20:45<br>
+**Young Soul Rebels**<br>
+Wed 2 Feb 18:20 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair); Thu 17 Feb 20:45<br>
+**All About My Mother (Todo sobre mi madre)**<br>
+Wed 2 Feb 20:45; Wed 16 Feb 21:00<br>
+**Beautiful Thing**<br>
+Thu 3 Feb 20:45; Mon 14 Feb 20:30<br>
+**The Handmaiden (Ah-ga-ssi)**<br>
+Fri 4 Feb 17:50; Sat 12 Feb 20:10; Sun 27 Feb 17:50<br>
+**Rent**<br>
+Sat 5 Feb 12:30; Sun 20 Feb 18:10<br>
+**Maurice**<br>
+Sun 6 Feb 15:20; Mon 14 Feb 18:00<br>
+**The Watermelon Woman**<br>
+Mon 7 Feb 20:45; Sat 26 Feb 20:30<br>
+**Happy Together (Chun gwong cha sit)**<br>
+Tue 8 Feb 18:15 (+ intro by Yi Wang, Queer East); Sun 13 Feb 15:20<br>
+**My Own Private Idaho**<br>
+Tue 8 Feb 20:45; Wed 23 Feb 18:00 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair)<br>
+**Brokeback Mountain**<br>
+Wed 9 Feb 17:45 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair); Mon 21 Feb 20:25<br>
+**Go Fish**<br>
+Wed 9 Feb 20:40; Sat 26 Feb 18:20<br>
+**Rope**<br>
+Thu 10 Feb 18:30; Tue 22 Feb 14:30<br>
+**Victim**<br>
+Thu 10 Feb 20:40; Sun 13 Feb 13:00; Mon 21 Feb 18:00<br>
+**Desert Hearts**<br>
+Fri 11 Feb 20:40; Wed 16 Feb 18:20 (+ intro by BFI Head Librarian Emma Smart)<br>
+**My Beautiful Laundrette**<br>
+Sat 12 Feb 18:20; Tue 15 Feb 20:45; Sat 19 Feb 20:45<br>
+**A Fantastic Woman (Una mujer fantástica)**<br>
+Sun 13 Feb 18:40; Tue 22 Feb 20:50<br>
+**Mädchen in Uniform**<br>
+Fri 18 Feb 20:30; Sat 26 Feb 16:00<br>
+**Moonlight**<br>
+Thu 24 Feb 14:30; Mon 28 Feb 20:45<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTUwNDgwMzRdfQ==
 -->
