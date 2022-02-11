@@ -1,24 +1,20 @@
 An introduction to Dwoskin through talks, a keynote presentation by  Adrian Martin plus a screening of _Acting Out: Stephen Dwoskin_, a film by artist Philomène Hoël.  
 
-Dwoskin’s career, not only as a filmmaker but as a painter, designer, writer, and campaigner, cut across many central questions of the era: disability, sexuality, diaspora, and technology – especially technologies of memory.  
-On his death in 2012 he left behind an extraordinarily rich archive, which for more than three years has been the focus of a multi-institutional research team based at the University of Reading.
+Dwoskin’s career, not only as a filmmaker but as a painter, designer, writer, and campaigner, cut across many central questions of the era: disability, sexuality, diaspora, and technology – especially technologies of memory.  On his death in 2012 he left behind an extraordinarily rich archive, which for more than three years has been the focus of a multi-institutional research team based at the University of Reading.
 
 This Study Day will include presentations from in and outside the project, culminating in a keynote talk from critic Adrian Martin.
 
-The Study Day will be followed by the first live screening of _Acting Out: Stephen Dwoskin_, a film by artist Philomène Hoël starring researchers  
-Henry K. Miller and Darragh O’Donoghue.  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
+The Study Day will be followed by the first live screening of _Acting Out: Stephen Dwoskin_, a film by artist Philomène Hoël starring researchers  Henry K. Miller and Darragh O’Donoghue.  
 
-**Study Day  
-**These talks will introduce Dwoskin from a variety of perspectives, addressing such key themes in his work as disability, diaspora, and memory, and drawing on new research in the Dwoskin archive. The day will include a keynote talk from critic and audiovisual essayist Adrian Martin, on Dwoskin’s project of ‘a complex, hybrid cinema, in which disorientation is a major source of pleasure’.
+**Study Day**  
+These talks will introduce Dwoskin from a variety of perspectives, addressing such key themes in his work as disability, diaspora, and memory, and drawing on new research in the Dwoskin archive. The day will include a keynote talk from critic and audiovisual essayist Adrian Martin, on Dwoskin’s project of ‘a complex, hybrid cinema, in which disorientation is a major source of pleasure’.
 
 **Schedule**
 
 **12:00 Rachel Garfield and Will Fowler introduction**
 
-**12:15 Panel Discussion 1 (chaired by Rachel Garfield)  
-**- Elisa Adami: Between the Archive and Repertoire: Embodied Memory in Stephen Dwoskin’s _Ballet Black_ (1986)
+**12:15 Panel Discussion 1 (chaired by Rachel Garfield)**  
+- Elisa Adami: Between the Archive and Repertoire: Embodied Memory in Stephen Dwoskin’s _Ballet Black_ (1986)
 
 - Darragh O’Donoghue: Inside out and outside in: some thoughts on Dwoskin, Paula Rego, disability, and feminism
 
@@ -26,16 +22,11 @@ Henry K. Miller and Darragh O’Donoghue.
 
 **13:15 Lunch break**
 
-**14:00 Panel Discussion 2. Jenny Chamarette and Henry K. Miller: Intoxicated By My Archive (chaired by Rachel Garfield)  
-**An ‘in-conversation’ with two members of the AHRC funded project,  
-The Legacies of Stephen Dwoskin’s Personal Cinema (2018 – 2022):  
-Henry K. Miller and Jenny Chamarette. Henry, a film historian and critic, and Jenny, a feminist theorist of embodiment, gender and disability will discuss their relationships to Dwoskin’s work and archive, their findings and crossovers during the project, and the various flavours of archival fever and fervour they have encountered during the project.
+**14:00 Panel Discussion 2. Jenny Chamarette and Henry K. Miller: Intoxicated By My Archive (chaired by Rachel Garfield)**  
+An ‘in-conversation’ with two members of the AHRC funded project,  The Legacies of Stephen Dwoskin’s Personal Cinema (2018 – 2022):  Henry K. Miller and Jenny Chamarette. Henry, a film historian and critic, and Jenny, a feminist theorist of embodiment, gender and disability will discuss their relationships to Dwoskin’s work and archive, their findings and crossovers during the project, and the various flavours of archival fever and fervour they have encountered during the project.
 
-**14:45 Keynote talk. Adrian Martin: Getting Lost in Dwoskin  
-(chaired by Alison Butler)**
-
-<![endif]--> Disorientation, on every level, is a powerful and disconcerting force in the work of Stephen Dwoskin. Focussing on the feature-length films he made in the 1970s, this talk will explore the productive tension (as identified by Raymond Durgnat in the ’80s) between Dwoskin's rigorous ‘plastic aesthetics’ (of space, colour, composition, etc.) and his remarkable experimentation with narrative forms.  
-Today, artists who work in a similar way are frequently told that their films would best ‘fit into an art gallery context’. Yet Dwoskin, in his time, held on to the project of a complex, hybrid cinema, in which disorientation is a major source of pleasure.
+**14:45 Keynote talk. Adrian Martin: Getting Lost in Dwoskin  (chaired by Alison Butler)**  
+Disorientation, on every level, is a powerful and disconcerting force in the work of Stephen Dwoskin. Focussing on the feature-length films he made in the 1970s, this talk will explore the productive tension (as identified by Raymond Durgnat in the ’80s) between Dwoskin's rigorous ‘plastic aesthetics’ (of space, colour, composition, etc.) and his remarkable experimentation with narrative forms.  Today, artists who work in a similar way are frequently told that their films would best ‘fit into an art gallery context’. Yet Dwoskin, in his time, held on to the project of a complex, hybrid cinema, in which disorientation is a major source of pleasure.
 
 <![endif]-->
 
@@ -74,5 +65,5 @@ _The_ _Essential Raymond Durgnat_, and co-editor of _DWOSKINO: the gaze of Steph
 
 **Darragh O’Donoghue** is completing a PhD on Stephen Dwoskin at the University of Reading, for which he compiled a _catalogue raisonné_ of the artist-filmmaker. He works as an archivist at Tate, is a contributing writer for _Cineaste_, and is currently co-editing a special dossier on popular Hindi film for _Senses of Cinema_.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMjc0OTVdfQ==
+eyJoaXN0b3J5IjpbLTQyMDg0MTEwXX0=
 -->
