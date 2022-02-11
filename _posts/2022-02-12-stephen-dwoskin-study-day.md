@@ -1,4 +1,19 @@
+---
+layout: post
+title: Study Day + Acting Out - Stephen Dwoskin film screening
+published: true
+date: 2022-02-12
+readtime: true
+categories: ['EXPERIMENTA FOCUS - STEPHEN DWOSKIN']
+tags: [Experimental]
+metadata: 
+pdf: '2022-02-12-stephen-dwoskin-study-day.pdf'
+---
+
 An introduction to Dwoskin through talks, a keynote presentation by  Adrian Martin plus a screening of _Acting Out: Stephen Dwoskin_, a film by artist Philomène Hoël.  
+
+<img style="float: left;" src="/img/study-day-03.jpg">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 Dwoskin’s career, not only as a filmmaker but as a painter, designer, writer, and campaigner, cut across many central questions of the era: disability, sexuality, diaspora, and technology – especially technologies of memory.  On his death in 2012 he left behind an extraordinarily rich archive, which for more than three years has been the focus of a multi-institutional research team based at the University of Reading.
 
@@ -26,6 +41,10 @@ These talks will introduce Dwoskin from a variety of perspectives, addressing su
 An ‘in-conversation’ with two members of the AHRC funded project,  The Legacies of Stephen Dwoskin’s Personal Cinema (2018 – 2022):  Henry K. Miller and Jenny Chamarette. Henry, a film historian and critic, and Jenny, a feminist theorist of embodiment, gender and disability will discuss their relationships to Dwoskin’s work and archive, their findings and crossovers during the project, and the various flavours of archival fever and fervour they have encountered during the project.
 
 **14:45 Keynote talk. Adrian Martin: Getting Lost in Dwoskin  (chaired by Alison Butler)**  
+
+<img style="float: left;" src="/img/adrian-martin.jpg">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 Disorientation, on every level, is a powerful and disconcerting force in the work of Stephen Dwoskin. Focussing on the feature-length films he made in the 1970s, this talk will explore the productive tension (as identified by Raymond Durgnat in the ’80s) between Dwoskin's rigorous ‘plastic aesthetics’ (of space, colour, composition, etc.) and his remarkable experimentation with narrative forms.  Today, artists who work in a similar way are frequently told that their films would best ‘fit into an art gallery context’. Yet Dwoskin, in his time, held on to the project of a complex, hybrid cinema, in which disorientation is a major source of pleasure.
 
 **15:45 Comfort Break**
@@ -57,6 +76,39 @@ His archive covering over 40 years of work is at http://www.filmcritic.com.au
 
 **Darragh O’Donoghue** is completing a PhD on Stephen Dwoskin at the University of Reading, for which he compiled a _catalogue raisonné_ of the artist-filmmaker. He works as an archivist at Tate, is a contributing writer for _Cineaste_, and is currently co-editing a special dossier on popular Hindi film for _Senses of Cinema_.
 <br><br>
+
+**EXPERIMENTA FOCUS: STEPHEN DWOSKIN**<br>
+**Times For + discussion with actor Jenny Runacre and writer Dr Sophia Satchell-Baeza**<br>
+Tue 1 Feb 18:10<br>
+**Outside In (Das Innere Bloss)** **+ intro by  author Allan Sutherland**<br>
+Mon 7 Feb 18:00<br>
+**Stephen Dwoskin Study Day**<br>
+Sat 12 Feb 12:00-17:00<br>
+**Ballet Black + discussion with two of the film’s stars, Jaqueline Boatswain and Colin Charles**<br>
+Tue 15 Feb 18:10<br>
+**The Gaze of Stephen Dwoskin**<br>
+Wed 23 Feb 18:45<br>
+**The Sun and the Moon + intro by  writer Paul Clinton**<br>
+Thu 24 Feb 18:20<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE1OTczNDc0MjUsMTE2MDEzODM4OV19
 -->
