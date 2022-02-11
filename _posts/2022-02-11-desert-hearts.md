@@ -90,7 +90,7 @@ Roberta Doheny, Beth Bergeron, Alia Kahn,  Lars Nelson
 _Loop Group:_ Leigh French  
 _Stand-ins:_ Shirley Barnhart, Russell Cusick,  Terry Perez, Cameron Shilly, Patricia Yeckley  
 
-_Cast**  
+**Cast**  
 Helen Shaver _(Vivian Bell)_  
 Patricia Charbonneau _(Cay Rivvers)_  
 Audra Lindley _(Frances Parker)_  
@@ -115,12 +115,13 @@ Bob Blankman _(croupier)_
 Ron Fisher _(drunk gambler)_  
 Gene Skaug _(announcer)_  
 Donna Deitch _(Hungarian gambler)_  
-USA 1985©
 
+USA 1985©  
 91 mins
 
 The screening on Wed 16 Feb will be introduced  
 by BFI Head Librarian Emma Smart
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDM1NjM4ODFdfQ==
+eyJoaXN0b3J5IjpbMTUwNDgwMzRdfQ==
 -->
