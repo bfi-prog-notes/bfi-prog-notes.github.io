@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Worst Person in the World
+published: true
+date: 2022-02-12
+readtime: true
+categories: ['PREVIEW']
+tags: [Drama, Romance]
+metadata: 'Norway/France/Sweden/Denmark 2021, 127 mins<br> Director: Joachim Trier'
+pdf: '2022-02-12-worst-person-in-the-world.pdf'
+---
 
 _+ Q&A with director Joachim Trier and actor Renate Reinsve_
 
@@ -20,10 +30,7 @@ Making a film about love and calling it _The Worst Person in the world_ obviousl
 
 _Julie settles with Aksel who is nice, intelligent, handsome, caring… But Julie eventually remains unsatisfied with this relationship. Why?_
 
-I think they’re both idealising each other. Aksel is older and accomplished whereas Julie is escaping herself. In a way, she’s filling the role of the smart and funny girl, but after a while, she asks herself: where’s my space to grow? One of the big subjects of the film is the idea of time: the relationship between Aksel and Julie may be a matter of bad timing because of their age difference. Very often, in romantic stories, or in reality, we are brought up to think about meeting the right person, as though there is an essence of the right person! But time and essence are two different things! Even if you can meet the person with whom you have the right connection, in real life, this meeting can have the wrong timing. I have experienced that in my life. The best of romantic  
-comedies can teach us something about being human. If you think about  
-_The Philadelphia Story_ by George Cukor, Katharine Hepburn has to choose between two different lives through two different loves. On her part, Julie has to accept herself and to love herself and not feel so miserable. To quote Virginia Woolf, she has to find ‘a room of her own’, which is as important as an admirable relationship. And this search creates a conflict between Julie  
-and Aksel.
+I think they’re both idealising each other. Aksel is older and accomplished whereas Julie is escaping herself. In a way, she’s filling the role of the smart and funny girl, but after a while, she asks herself: where’s my space to grow? One of the big subjects of the film is the idea of time: the relationship between Aksel and Julie may be a matter of bad timing because of their age difference. Very often, in romantic stories, or in reality, we are brought up to think about meeting the right person, as though there is an essence of the right person! But time and essence are two different things! Even if you can meet the person with whom you have the right connection, in real life, this meeting can have the wrong timing. I have experienced that in my life. The best of romantic  comedies can teach us something about being human. If you think about  _The Philadelphia Story_ by George Cukor, Katharine Hepburn has to choose between two different lives through two different loves. On her part, Julie has to accept herself and to love herself and not feel so miserable. To quote Virginia Woolf, she has to find ‘a room of her own’, which is as important as an admirable relationship. And this search creates a conflict between Julie  and Aksel.
 
 _Does Julie express something concerning love and relationships in our time of internet, social media, dating apps? Are deep and long running love stories more difficult than 30 or 50 years ago?_
 
@@ -121,6 +128,23 @@ Thu 24 Feb 20:40<br>
 **Relaxed Screening:  Keep the Change + discussion**<br>
 Mon 28 Feb 20:10<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTQ0MTA5MTc1M119
 -->
