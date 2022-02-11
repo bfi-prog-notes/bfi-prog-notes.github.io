@@ -33,27 +33,22 @@ _Once again, you film Oslo and we can feel your pleasure in doing so. What do yo
 
 First, the light is very special in Oslo and northern Scandinavia. My editor and my cinematographer are Danish and they were astonished by the lights of Oslo although Denmark is not far from Norway. Second, Oslo is changing a lot, it has grown tremendously as a city, and throughout my films, I try to show the history of the city.
 
-I love that sense of specificity of a place in movies. When I watch a Martin Scorsese or a Spike Lee movie, I like to see the parts of New York that they show. For a filmmaker, it’s a cinematic gift to have a place that you know intimately, that you can film and show to an audience. Oslo is exactly this to me. Making films is about memory, spaces and time. In cinema, you have documentaries which are ‘vérité’ and on the other side, you have the big blockbusters that create everything digitally; I am trying to find my place in cinema in between, where it’s not all digital and synthetic, where it’s true to the faces and light. That’s why I keep shooting on 35mm as well.
-
-Production notes
-
-<![endif]-->
+I love that sense of specificity of a place in movies. When I watch a Martin Scorsese or a Spike Lee movie, I like to see the parts of New York that they show. For a filmmaker, it’s a cinematic gift to have a place that you know intimately, that you can film and show to an audience. Oslo is exactly this to me. Making films is about memory, spaces and time. In cinema, you have documentaries which are ‘vérité’ and on the other side, you have the big blockbusters that create everything digitally; I am trying to find my place in cinema in between, where it’s not all digital and synthetic, where it’s true to the faces and light. That’s why I keep shooting on 35mm as well.  
+**Production notes**
+<br><br>
 
 **THE WORST PERSON IN THE WORLD  
-(VERDENS VERSTE MENNESKE)**
-
+(VERDENS VERSTE MENNESKE)**  
 _Director_: Joachim Trier  
 ©: Oslo Pictures AS, MK Productions, Film i Väst, Snowglobe ApS, BR•F AB, Arte France Cinéma  
-_an_ Oslo Pictures, MK Productions, Film i Väst, Snowglobe, BR•F _production_
-
+_an_ Oslo Pictures, MK Productions, Film i Väst, Snowglobe, BR•F _production_  
 _in co-production with_: Arte France Cinéma  
 _in association with_: Memento Distribution, MK2  
 _with participation of_: ARTE France  
 _with support from_: The Norwegian Film Institute, Eurimages, The Danish Film Institute, Nordic Film & TV Fund, The Swedish Film Institute, Aide aux Cinémas du Monde, Centre national du cinéma et de l’image animée, Institut Français  
 _Presented by_: Oslo Pictures  
 _International Sales_: MK2  
-_Executive Producers_: Dyveke Bjorkly Graver,  
-Ton Erik Kjese, Joachim Trier, Eskil Vogt  
+_Executive Producers_: Dyveke Bjorkly Graver,  Ton Erik Kjese, Joachim Trier, Eskil Vogt  
 _Produced by_: Thomas Robsahm Tognazzi  
 _Producer_: Andrea Berentsen Ottmar  
 _Line Producer_: Magnus Ramsdalen  
@@ -65,10 +60,8 @@ _Script Supervisor_: Aslaug Konradsdóttir
 _Casting Director_: Yngvill Kolset Haga  
 _Written by_: Eskil Vogt, Joachim Trier  
 _Director of Photography_: Kasper Tuxen  
-_Stills Photography_: Sara Marie Ramsoe,  
-Christian Belgaux  
-_Visual Effects_: Baconx, Storyline VFX,  
-Symbiosys VFX  
+_Stills Photography_: Sara Marie Ramsoe,  Christian Belgaux  
+_Visual Effects_: Baconx, Storyline VFX,  Symbiosys VFX  
 _Editor_: Oliver Bugge Coutté  
 _Production Designer_: Roger Rosenberg  
 _Art Director_: Mirjam Veske  
@@ -84,8 +77,7 @@ _Re-recording Mixer_: Gisle Tveito
 _Supervising Sound Editor_: Gisle Tveito  
 _Stunt Co-ordinator_: Kai Kolstad
 
-_Cast:_
-
+**Cast**  
 Renate Reinsve _(Julie)_  
 Anders Danielsen Lie _(Aksel)_  
 Herbert Nordrum _(Eivind)_  
@@ -99,11 +91,13 @@ Marianne Krogh _(Eva)_
 Thea Stabell _(Åse)_  
 Deniz Kaya _(Adil)_
 
-Norway/France/Sweden/Denmark 2021©
-
+Norway/France/Sweden/Denmark 2021©  
 127 mins
 
 A MUBI release
+<br><br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTE2NjY0MF19
+eyJoaXN0b3J5IjpbNTgyMDMzOTQ5XX0=
 -->
