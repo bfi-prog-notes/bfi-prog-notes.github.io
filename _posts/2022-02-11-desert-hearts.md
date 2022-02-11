@@ -18,18 +18,13 @@ At one point in Donna Deitch’s film – her first feature after a number of do
 
 This is at once precise – with the characters’ every move accompanied by a choice selection of high-grade country and western and rock ‘n’ roll – but also quite casual. The soundtrack is not matched by an equal attention to costuming and production design, presumably a matter of budgetary constraints, nor in terms of other characters’ attitudes to the Cay/Vivian pairing. Frances and Darrell may in their different ways be threatened by the two women’s relationship, but there is no sense of the outrage that would be expected ‘in period’. Quite characteristic is the male bemusement inherent in one remark offered to Cay: ‘How you get all that traffic with no equipment beats me’. This may of course have as much to do with geography as history, with Reno marking exactly the point where heterosexual couplings are declared null and void, and where options are reopened.
 
-This air of openness towards its two central characters is certainly the film’s main strength, helped by excellent performances from Helen Shaver and, particularly, Patricia Charbonneau. At the same time, however, it cannot disguise a surprising degree of stereotyping. It seems regrettably predictable that Vivian’s repression should be associated with ‘dry’, respectable academia (she responds to Frances’ enquiry about children by explaining that she and her husband were a ‘professional couple’), while Cay, the freer spirit, is linked with art and horses. This shortcoming is all the more apparent given the nicely quirky quality of surrounding characters such as Walter, Silver, and the latter’s fiancé Joe. One wishes, for example, for more moments akin to Joe’s musing, while watching Cay and Silver share a bath, on the possibility of being reincarnated as ‘a gorgeous woman’. Frances’ character, on the other hand, sometimes seems an overly convenient locus for certain anxieties – familial, social, emotional – which need a more melodramatic edge than the  
-film provides.
+This air of openness towards its two central characters is certainly the film’s main strength, helped by excellent performances from Helen Shaver and, particularly, Patricia Charbonneau. At the same time, however, it cannot disguise a surprising degree of stereotyping. It seems regrettably predictable that Vivian’s repression should be associated with ‘dry’, respectable academia (she responds to Frances’ enquiry about children by explaining that she and her husband were a ‘professional couple’), while Cay, the freer spirit, is linked with art and horses. This shortcoming is all the more apparent given the nicely quirky quality of surrounding characters such as Walter, Silver, and the latter’s fiancé Joe. One wishes, for example, for more moments akin to Joe’s musing, while watching Cay and Silver share a bath, on the possibility of being reincarnated as ‘a gorgeous woman’. Frances’ character, on the other hand, sometimes seems an overly convenient locus for certain anxieties – familial, social, emotional – which need a more melodramatic edge than the  film provides.
 
-When, for instance, Cay tells Frances she is moving out, Frances claims that Vivian has broken Cay’s heart more than she, Frances, could have done.  
-But this suggests an emotional resonance which is actually undermined or left adrift by the film’s understated tone. Similarly, at certain points, song lyrics are used somewhat heavy-handedly to underline rather than counterpoint the subject, suggesting an uncertainty about Deitch’s response to the narrative demands of a feature. Nevertheless, despite these shortcomings, and particularly given its low budget, _Desert Hearts_ is a notable achievement. Certain scenes are handled in exemplary fashion (especially the motel lovemaking, with its neatly observed mix of humour, doubt and desire), and overall the film is a clear-sighted, cool riposte to the confused special (male) pleadings of efforts such as _Personal Best_ and _Lianna_.
+When, for instance, Cay tells Frances she is moving out, Frances claims that Vivian has broken Cay’s heart more than she, Frances, could have done.  But this suggests an emotional resonance which is actually undermined or left adrift by the film’s understated tone. Similarly, at certain points, song lyrics are used somewhat heavy-handedly to underline rather than counterpoint the subject, suggesting an uncertainty about Deitch’s response to the narrative demands of a feature. Nevertheless, despite these shortcomings, and particularly given its low budget, _Desert Hearts_ is a notable achievement. Certain scenes are handled in exemplary fashion (especially the motel lovemaking, with its neatly observed mix of humour, doubt and desire), and overall the film is a clear-sighted, cool riposte to the confused special (male) pleadings of efforts such as _Personal Best_ and _Lianna_.  
+**Steve Jenkins, _Monthly Film Bulletin_, August 1986**
+<br><br>
 
-Steve Jenkins, _Monthly Film Bulletin_, August 1986
-
-<![endif]-->
-
-**DESERT HEARTS**
-
+**DESERT HEARTS**  
 _Director:_ Donna Deitch  
 ©_/Production Company:_ Desert Heart Productions  
 _Producer:_ Donna Deitch  
@@ -41,9 +36,7 @@ _Production Co-ordinator:_ Geralyn Miller
 _Location Manager:_ Michael ‘Doc’ Dill  
 _Location Co-ordinator:_ Shirley Dale  
 _Production Consultant:_ Marsha Koff  
-_Production Assistants:_ Karen Geiger,  
-Jeffrey Jacobsen, Patricia McGuire,  
-Elizabeth Pinkul, Vance Wait  
+_Production Assistants:_ Karen Geiger,  Jeffrey Jacobsen, Patricia McGuire, Elizabeth Pinkul, Vance Wait  
 _Producer’s Representative:_ Jeff Dowd  
 _1st Assistant Director:_ George Perkins  
 _2nd Assistant Director:_ Whitney Hunter  
@@ -53,8 +46,7 @@ _Casting:_ Tim Flack
 _Associate Casting:_ Jeff Oshen  
 _Extras Casting/Reno:_ Sally Lear  
 _Screenplay:_ Natalie Cooper  
-_Based on the novel_ Desert of the Heart _by:_  
-Jane Rule  
+_Based on the novel_ Desert of the Heart _by:_  Jane Rule  
 _Director of Photography:_ Robert Elswit  
 _1st Assistant Camera:_ Marty Layton  
 _2nd Assistant Camera:_ Mitch Marcus  
@@ -80,9 +72,7 @@ _Prop Master:_ Trisha Gallaher
 _Assistant Prop Master:_ Lisa De Alva  
 _Costume Designer:_ Linda Bass  
 _Location Costumer:_ Marjorie Gleed  
-_Assistant Costumers:_ Marina Spadafora,
-
-Reanon Rusk  
+_Assistant Costumers:_ Marina Spadafora, Reanon Rusk  
 _Make-up:_ Richard Arrington  
 _Assistant Make-up:_ Susie De Santo  
 _2nd Assistant Make-up:_ Virginia Jacobson  
@@ -96,16 +86,11 @@ _Production Sound Mixer:_ Austin McKinney
 _Boom Man:_ Jack M. Nietzsche  
 _Sound Mixers:_ John Brasher, Roberta Doheny  
 _Sound Effects:_ J’s Fine Art & Provision Company  
-Roberta Doheny, Beth Bergeron, Alia Kahn,  
-Lars Nelson  
+Roberta Doheny, Beth Bergeron, Alia Kahn,  Lars Nelson  
 _Loop Group:_ Leigh French  
-_Stand-ins:_ Shirley Barnhart, Russell Cusick,  
-Terry Perez, Cameron Shilly, Patricia Yeckley  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
+_Stand-ins:_ Shirley Barnhart, Russell Cusick,  Terry Perez, Cameron Shilly, Patricia Yeckley  
 
-_Cast:_
-
+_Cast**  
 Helen Shaver _(Vivian Bell)_  
 Patricia Charbonneau _(Cay Rivvers)_  
 Audra Lindley _(Frances Parker)_  
@@ -137,5 +122,5 @@ USA 1985©
 The screening on Wed 16 Feb will be introduced  
 by BFI Head Librarian Emma Smart
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI4NDMzMDddfQ==
+eyJoaXN0b3J5IjpbLTE5MDM1NjM4ODFdfQ==
 -->
