@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Ballet Black
+published: true
+date: 2022-02-15
+readtime: true
+categories: ['EXPERIMENTA FOCUS - STEPHEN DWOSKIN']
+tags: [Experimental]
+metadata: 'UK 1986, 83 mins<br> Director: Stephen Dwoskin'
+pdf: '2022-02-15-ballet-black.pdf'
+---
 
 _Followed by a discussion of the making of the film and its legacy by two of its stars, Jaqueline Boatswain (_ Shameless, Cuckoo _) and Colin Charles (_ Cats _– original production, English National Opera)._
 
@@ -19,8 +29,7 @@ The Ballets Nègres’ repertoire itself is brought into the present. Dwoskin en
 
 In another dance, ‘Blood’, she performs opposite Harvey, who reads out the dance’s synopsis to camera even while performing it. As with the rehearsal sequences, what might in other hands be called a distancing effect is not there to lay bare the artifice, but to flaunt it. Pasuka, who drew on disparate sources, West African, Caribbean, Black American, and European, often using highly stereotypical imagery, was not aiming for authenticity, but to forge a new kind of dramatic dance, and it’s this that _Ballet Black_ celebrates.
 
-_Ballet Black_ was a personal film for Dwoskin beyond Harvey’s involvement.  
-He had begun to learn to dance during childhood, but at the age of nine contracted polio and lost the use of his legs. He remained fascinated by dancers – one of his very first films, made in 1962, never exhibited, features Yvonne Rainer, then at the start of her career, rehearsing in a studio in the East Village. Over the course of nearly 40 years, from _Trixi_ (1971) to his late work _The Sun and the Moon_ (2008), one of his most important collaborators was the ballerina Beatrice ‘Trixie’ Cordua. But _Ballet Black_ was his only fully fledged dance film. A salute to artists of a previous generation who had ended up on the margins, _Ballet Black_ was itself given a perfunctory release, and was not shown on television; but now, another generation on, it can be seen.  
+_Ballet Black_ was a personal film for Dwoskin beyond Harvey’s involvement.  He had begun to learn to dance during childhood, but at the age of nine contracted polio and lost the use of his legs. He remained fascinated by dancers – one of his very first films, made in 1962, never exhibited, features Yvonne Rainer, then at the start of her career, rehearsing in a studio in the East Village. Over the course of nearly 40 years, from _Trixi_ (1971) to his late work _The Sun and the Moon_ (2008), one of his most important collaborators was the ballerina Beatrice ‘Trixie’ Cordua. But _Ballet Black_ was his only fully fledged dance film. A salute to artists of a previous generation who had ended up on the margins, _Ballet Black_ was itself given a perfunctory release, and was not shown on television; but now, another generation on, it can be seen.  
 **Henry K. Miller, _Sight and Sound_, March 2022**
 
 **Further reading: Lucy Reynolds, ‘Ballet Black’, _Screen_, Spring 2016**
@@ -69,6 +78,39 @@ Rosalind Stockwell, John Warner, Astley Harvey, Ben Johnson, Leonard Salzedo, Pa
 UK 1986  
 83 mins
 <br><br>
+
+**EXPERIMENTA FOCUS: STEPHEN DWOSKIN**<br>
+**Times For + discussion with actor Jenny Runacre and writer Dr Sophia Satchell-Baeza**<br>
+Tue 1 Feb 18:10<br>
+**Outside In (Das Innere Bloss)** **+ intro by  author Allan Sutherland**<br>
+Mon 7 Feb 18:00<br>
+**Stephen Dwoskin Study Day**<br>
+Sat 12 Feb 12:00-17:00<br>
+**Ballet Black + discussion with two of the film’s stars, Jaqueline Boatswain and Colin Charles**<br>
+Tue 15 Feb 18:10<br>
+**The Gaze of Stephen Dwoskin**<br>
+Wed 23 Feb 18:45<br>
+**The Sun and the Moon + intro by  writer Paul Clinton**<br>
+Thu 24 Feb 18:20<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTc3Nzc4MzUwMV19
 -->
