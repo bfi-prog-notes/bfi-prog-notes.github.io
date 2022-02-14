@@ -1,6 +1,6 @@
 
 
-_Followed by a discussion of the making of the film and its legacy by two of its stars, Jaqueline Boatswain (_ Shameless_,_ Cuckoo_) and Colin Charles (_Cats _– original production, English National Opera)._
+_Followed by a discussion of the making of the film and its legacy by two of its stars, Jaqueline Boatswain (_ Shameless, Cuckoo _) and Colin Charles (_ Cats _– original production, English National Opera)._
 
 There is still no book about the Ballets Nègres. Stephen Dwoskin heard its story from his friend Astley Harvey, who he learned had joined the troupe ‘when he was young and freshly arrived in England’ from Jamaica. It had been founded in 1946 by Berto Pasuka, a Jamaican dancer who had come to London before World War II. The dancers and musicians, almost all Black, were from across the Empire – two years before Windrush – with about a third of them born in Britain. From a first season in a Notting Hill theatre, they performed all over Europe over the next half-dozen years, but by the time of Pasuka’s early death in 1963 the Ballets Nègres was all but forgotten.
 
@@ -20,11 +20,10 @@ The Ballets Nègres’ repertoire itself is brought into the present. Dwoskin en
 In another dance, ‘Blood’, she performs opposite Harvey, who reads out the dance’s synopsis to camera even while performing it. As with the rehearsal sequences, what might in other hands be called a distancing effect is not there to lay bare the artifice, but to flaunt it. Pasuka, who drew on disparate sources, West African, Caribbean, Black American, and European, often using highly stereotypical imagery, was not aiming for authenticity, but to forge a new kind of dramatic dance, and it’s this that _Ballet Black_ celebrates.
 
 _Ballet Black_ was a personal film for Dwoskin beyond Harvey’s involvement.  
-He had begun to learn to dance during childhood, but at the age of nine contracted polio and lost the use of his legs. He remained fascinated by dancers – one of his very first films, made in 1962, never exhibited, features Yvonne Rainer, then at the start of her career, rehearsing in a studio in the East Village. Over the course of nearly 40 years, from _Trixi_ (1971) to his late work _The Sun and the Moon_ (2008), one of his most important collaborators was the ballerina Beatrice ‘Trixie’ Cordua. But _Ballet Black_ was his only fully fledged dance film. A salute to artists of a previous generation who had ended up on the margins, _Ballet Black_ was itself given a perfunctory release, and was not shown on television; but now, another generation on, it can be seen.
+He had begun to learn to dance during childhood, but at the age of nine contracted polio and lost the use of his legs. He remained fascinated by dancers – one of his very first films, made in 1962, never exhibited, features Yvonne Rainer, then at the start of her career, rehearsing in a studio in the East Village. Over the course of nearly 40 years, from _Trixi_ (1971) to his late work _The Sun and the Moon_ (2008), one of his most important collaborators was the ballerina Beatrice ‘Trixie’ Cordua. But _Ballet Black_ was his only fully fledged dance film. A salute to artists of a previous generation who had ended up on the margins, _Ballet Black_ was itself given a perfunctory release, and was not shown on television; but now, another generation on, it can be seen.  
+**Henry K. Miller, _Sight and Sound_, March 2022**
 
-Henry K. Miller, _Sight and Sound_, March 2022
-
-Further reading: Lucy Reynolds, ‘Ballet Black’, _Screen_, Spring 2016
+**Further reading: Lucy Reynolds, ‘Ballet Black’, _Screen_, Spring 2016**
 
 **Jacqueline Boatswain** is an actor, dancer, and singer whose West End roles include _Kiss Me Kate_, _Chicago_, and _Jesus Christ Superstar_. She has numerous television credits, including long-running characters in _Grange_ _Hill_, _Hollyoaks_ and _Doctors_. Her recent roles include _Shameless_, _Vera_, _Bancroft_, _Miracle_ _Workers_, _Shakespeare & Hathaway_, David Hare’s _Collateral_, and alongside Orlando Bloom and Cara Delevingne in _Carnival_ _Row_.
 
@@ -79,5 +78,5 @@ UK 1986
 
 83 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDQ2MDEyNl19
+eyJoaXN0b3J5IjpbMTU3NTMwODQzMl19
 -->
