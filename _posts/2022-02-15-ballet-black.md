@@ -28,11 +28,9 @@ He had begun to learn to dance during childhood, but at the age of nine contract
 **Jacqueline Boatswain** is an actor, dancer, and singer whose West End roles include _Kiss Me Kate_, _Chicago_, and _Jesus Christ Superstar_. She has numerous television credits, including long-running characters in _Grange_ _Hill_, _Hollyoaks_ and _Doctors_. Her recent roles include _Shameless_, _Vera_, _Bancroft_, _Miracle_ _Workers_, _Shakespeare & Hathaway_, David Hare’s _Collateral_, and alongside Orlando Bloom and Cara Delevingne in _Carnival_ _Row_.
 
 **Colin**  **Charles** trained at the Rambert School of Ballet and Contemporary Dance. His West End credits include _We Will Rock You_, _Joseph and the Amazing Technicolor Dreamcoat_, _Miss_ _Saigon_, _Cats_ and _Five Guys Named Moe_; and he has appeared in the English National Opera productions of _Orpheus in the Underworld_, _Faust_ and _Aida_. He is currently performing in _Dirty_ _Dancing_ at the Dominion Theatre.
+<br><br>
 
-<![endif]-->
-
-**BALLET BLACK**
-
+**BALLET BLACK**  
 _Director_: Stephen Dwoskin  
 _Production Company_: Urbane Limited  
 _Sponsor_: Arts Council of Great Britain  
@@ -55,28 +53,22 @@ _Piano_: Steve Halliwell
 _Percussion_: Simon Limbrick  
 _Additional percussion_: Jon Wilkinson  
 _Keyboards_: Schaun Tozer  
-_Original Ballets Nègres music_:  
-Prince Kari-kari & His Tam-tam Orchestra  
+_Original Ballets Nègres music_:  Prince Kari-kari & His Tam-tam Orchestra  
 _Music Arrangers_: Schaun Tozer, Simon Limbrick, Jon Wilkinson  
 _Music Recording_: Jon Wilkinson  
 _Choreography_: Richie Riley, Raymond Maclean  
-_Special Dance Sequences_: Bolaji Adeola,  
-Charles Keele  
-_Sound Recording_: Roger Ollerhead,  
-Anthea Kennedy, Alan Hodge  
-_Consultants_: Astley Harvey, Richie Riley,  
-Leonard Salzedo
+_Special Dance Sequences_: Bolaji Adeola,  Charles Keele  
+_Sound Recording_: Roger Ollerhead,  Anthea Kennedy, Alan Hodge  
+_Consultants_: Astley Harvey, Richie Riley,  Leonard Salzedo
 
-_With:_
-
+**With**  
 Paul Bailey, Jacqui Boatswain, Beaux Bryant, Colin Charles, Raymond Maclean, Michael Noble, Julia De Peyer, Joy Richardson, Marcia Waldron, Desmond Williams, Honeyboy Williams _(dancers)_  
-Ben Johnson, Astley Harvey, Pamela Johnson, Johnny Lagey, Pearl Johnson, Richie Riley, Tony Johnson, Patricia Clover, Leonard Salzedo_  
-(original Ballets Nègres members)_  
+Ben Johnson, Astley Harvey, Pamela Johnson, Johnny Lagey, Pearl Johnson, Richie Riley, Tony Johnson, Patricia Clover, Leonard Salzedo _(original Ballets Nègres members)_  
 Rosalind Stockwell, John Warner, Astley Harvey, Ben Johnson, Leonard Salzedo, Pat Salzedo _(voices)_
 
-UK 1986
-
+UK 1986  
 83 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTMwODQzMl19
+eyJoaXN0b3J5IjpbLTc3Nzc4MzUwMV19
 -->
