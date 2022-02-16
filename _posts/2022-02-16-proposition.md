@@ -34,44 +34,28 @@ So, too, do the central characters: Stanley, Charlie and above all Arthur, a bru
 
 As Hillcoat keeps stressing, the late 19th century in Australia was a violent period – and _The Proposition_ is a violent film. ‘It’s really fucking violent!’ Hillcoat says. ‘The violence is brutal and very real but it’s buried in the thrust of the story, which is why a lot of people don’t have a problem with it.’  
 **John Hillcoat and Nick Cave interviewed by Nick Roddick, _Sight & Sound_, March 2006**
+<br><br>
 
-<![endif]-->
-
-**THE PROPOSITION**
-
+**THE PROPOSITION**  
 _Director_: John Hillcoat  
 _©_: Surefire 3 Film Production LLP  
-_©/With the participation of/Co-financed by_:  
-Pacific Film and Television Commission  
+_©/With the participation of/Co-financed by_:  Pacific Film and Television Commission  
 _©_: UK Film Council  
 _Production Company_: Sure Fire Films  
-_Co-production Companies_: Autonomous,
-
-Jackie O Productions  
+_Co-production Companies_: Autonomous, Jackie O Productions  
 _In association with_: Pictures in Paradise  
 _With the participation of_: The Film Consortium  
-_Developed/Made with the assistance of_:  
-The National Lottery through UK Film Council Premiere Fund  
-_Executive Producers_: Robert Jones, Chris Auty, Norman Humphrey, James Atherton,  
-Michael Henry, Sara Giles, Michael Hamlyn  
-_Producers_: Chiara Menage, Cat Villiers,  
-Chris Brown, Jackie O’Sullivan  
+_Developed/Made with the assistance of_:  The National Lottery through UK Film Council Premiere Fund  
+_Executive Producers_: Robert Jones, Chris Auty, Norman Humphrey, James Atherton,  Michael Henry, Sara Giles, Michael Hamlyn  
+_Producers_: Chiara Menage, Cat Villiers,  Chris Brown, Jackie O’Sullivan  
 _Line Producer_: Gina Black  
 _Associate Producer (Australia)_: Pam Collis  
 _Associate Producer (UK)_: Christopher Simon  
-_For UKFC: Production Executive_: Brock Norman Brock; _Head of Business Affairs_: Will Evans;  
-_Head of Production Finance_: Vince Holden;  
-_Head of Physical Production_: Fiona Morham;  
-_Head of Development_: Jenny Borgars  
-_For The Film Consortium: Head of Production_:  
-Neil Peplow; _Business Affairs_: Andy Ordonez  
-_For Pacific Film and Television Commission_:  
-Robin James, Henry Tefay, Paul O’Kane,
-
-Ian Dennis  
+_For UKFC: Production Executive_: Brock Norman Brock; _Head of Business Affairs_: Will Evans;  _Head of Production Finance_: Vince Holden;  _Head of Physical Production_: Fiona Morham;  _Head of Development_: Jenny Borgars  
+_For The Film Consortium: Head of Production_:  Neil Peplow; _Business Affairs_: Andy Ordonez  
+_For Pacific Film and Television Commission_:  Robin James, Henry Tefay, Paul O’Kane, Ian Dennis  
 _Production Manager (UK)_: Libby Mourant  
-_Production Co-ordinators_:  
-Jennifer Des Champs, Nicki Ellis  
+_Production Co-ordinators_:  Jennifer Des Champs, Nicki Ellis  
 _Financial Controller_: Sophie Siomos  
 _Location Manager_: Tony Clarke  
 _Indigenous Co-ordinator_: Pearl Eatts  
@@ -93,16 +77,14 @@ _Gaffer_: Graham Rutherford
 _Key Grip_: Brett Marks  
 _Special Stills Photographer_: Polly Borland  
 _Stills Photographer_: Kerry Brown  
-_Special Effects/Armourer Supervisor_:  
-Steve Courtney  
+_Special Effects/Armourer Supervisor_:  Steve Courtney  
 _Visual Effects_: Framestore CFC  
 _Graphic Designer_: Wendy Buick  
 _Editor_: Jon Gregory  
 _Associate Editor_: Ian Seymour  
 _Production Designer_: Chris Kennedy  
 _Art Directors_: Marita Mussett, Bill Booth  
-_Set Designers_: Martin Ash, Paula Whiteway,  
-Josh Madrers  
+_Set Designers_: Martin Ash, Paula Whiteway,  Josh Madrers  
 _Set Decorator_: Jill Eden  
 _Prop Master_: Steve Taylor  
 _Costume Designer_: Margot Wilson  
@@ -111,14 +93,12 @@ _Key Hair/Make-up_: Sally Gordon
 _Make-up/Hair_: Lea Dixon, Bronwyn Fitzgerald  
 _Guy Pearce Make-up/Hair_: Zeljka Stanin  
 _Special Effects Prosthetics_: Kym Sainsbury  
-_Title Design_: Murray & Sorrell FUEL,  
-Damon Murray, Stephen Sorrell  
+_Title Design_: Murray & Sorrell FUEL,  Damon Murray, Stephen Sorrell  
 _Digital Film Grade_: Framestore CFC  
 _Negative Cutters_: Tru-cut  
 _Music_: Nick Cave, Warren Ellis  
 _Vocals_: Nick Cave, Martha Murphy Badger  
-_Musicians_: Warren Ellis, Marty Casey,  
-Doug Leitch, Jim White, George Vjestica  
+_Musicians_: Warren Ellis, Marty Casey,  Doug Leitch, Jim White, George Vjestica  
 _Sound Recordist_: Craig Walmsley  
 _Boom Operator_: Jenny Sutcliffe  
 _Re-recording Mixer_: Richard Davey  
@@ -132,11 +112,11 @@ _Stunt Co-ordinator_: Ric Anderson
 _Researcher (UK)_: Lucy Whitton  
 _Researcher (Australia)_: M.L. Hillcoat  
 _Dialogue Coach (Australia)_: Melissa Agnew  
-_Dialogue Coaches (UK)_: Sandra Butterworth,  
-Julia Wilson Dickson  
+_Dialogue Coaches (UK)_: Sandra Butterworth,  Julia Wilson Dickson  
 _Horse Master_: Ric Anderson  
 _Head Wrangler_: Kevin Kasper  
-_Cast:_  
+
+**Cast**  
 Guy Pearce _(Charlie Burns)_  
 Ray Winstone _(Captain Stanley)_  
 Danny Huston _(Arthur Burns)_  
@@ -170,9 +150,9 @@ Ralph Cotterill _(Doctor Bantrey)_
 Max Age _(Thommo)_  
 Jerry Solomon _(Blinky)_
 
-Australia/UK 2005©
-
+Australia/UK 2005©  
 104 mins
+<br
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjQ0MDE3XX0=
+eyJoaXN0b3J5IjpbLTE0MTI4NzM4MzJdfQ==
 -->
