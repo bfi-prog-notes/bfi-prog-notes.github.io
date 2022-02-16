@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Proposition
+published: true
+date: 2022-02-16
+readtime: true
+categories: ['IN PERSON & PREVIEWS']
+tags: [Western]
+metadata: 'Australia/UK 2005, 104 mins<br> Director: John Hillcoat'
+pdf: '2022-02-16-proposition.pdf'
+---
 
 _+ Q&A with director John Hillcoat, actors Emily Watson, Danny Huston, Guy Pearce and Ray Winstone, and producers Cat Villiers and Chiara Menage. John Hillcoat, Danny Huston, Guy Pearce and Ray Winstone will be appearing via Zoom._
 
@@ -153,6 +163,48 @@ Jerry Solomon _(Blinky)_
 Australia/UK 2005©  
 104 mins
 <br><br>
+
+**IN PERSON & PREVIEWS**<br>
+**The Proposition + Q&A with director  John Hillcoat, actors Emily Watson and  Danny Huston and producer Cat Villiers**<br>
+Wed 16 Feb 18:00<br>
+**Preview: La Mif (The Fam)** **+ Q&A with  director Fred Baillif**<br>
+Sat 19 Feb 18:00<br>
+**A Tribute to Roger Michell: Preview:  The Duke + Q&A (guests TBA)**<br>
+Thu 24 Feb 18:00<br>
+**BFI Expanded: World Premiere: UNIQUE**<br>
+Fri 25 Feb 19:00 and 20:30<br>
+**Woman with a Movie Camera Preview: Ali & Ava + Q&A with writer-director Clio Barnard**<br>
+Mon 28 Feb 20:20<br>
+
+**REGULAR PROGRAMME**<br>
+**BFI Future Film Festival**<br>
+17-20 Feb<br>
+**Seniors’ Free Matinee: The Night of the Hunter  + intro by BFI programmer David Somerset**<br>
+Mon 21 Feb 14:00<br>
+**Member Picks:  Close Encounters of the Third Kind**<br>
+Wed 23 Feb 17:50<br>
+**Terror Vision: The People under the Stairs**<br>
+Thu 24 Feb 20:40<br>
+**Relaxed Screening:  Keep the Change + discussion**<br>
+Mon 28 Feb 20:10<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTExNDc0NDU0MjhdfQ==
 -->
