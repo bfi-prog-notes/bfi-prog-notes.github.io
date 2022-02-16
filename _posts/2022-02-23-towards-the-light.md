@@ -18,40 +18,40 @@ But Asta Nielsen, who scarcely had an equal on the screen, is forgotten. For six
 **John H. Winge, _Sight and Sound_, April 1950**
 
 **TOWARDS THE LIGHT (MOD LYSET)**<br>
-_Director:_ Holger-Madsen
-_Production Company:_ Nordisk Films Kompagni
-_Screenplay:_ Holger-Madsen
-_Director of Photography:_ Sophus Wangøe
+_Director:_ Holger-Madsen<br>
+_Production Company:_ Nordisk Films Kompagni<br>
+_Screenplay:_ Holger-Madsen<br>
+_Director of Photography:_ Sophus Wangøe<br>
 
-**Cast**
-Asta Nielsen
-Augusta Blad
-Alf Blütecher
-Frederik Jacobsen
+**Cast**<br>
+Asta Nielsen<br>
+Augusta Blad<br>
+Alf Blütecher<br>
+Frederik Jacobsen<br>
 
-Denmark 1919
-62 mins
+Denmark 1919<br>
+62 mins<br>
 
-With thanks to: Karola Gramann - Kinothek Asta Nielsen
+With thanks to: Karola Gramann - Kinothek Asta Nielsen<br>
 
-Live piano accompaniment by Neil Brand on Wed 23 Feb and Cyrus Gabrysch on Sun 27 Feb
+Live piano accompaniment by Neil Brand on Wed 23 Feb and Cyrus Gabrysch on Sun 27 Feb<br>
 
-**ASTA NIELSEN**
-_Director:_ Asta Nielsen
-_Production Company_: Laterna Film  
-_Screenplay:_ Asta Nielsen
-_Director of Photography:_ Peter Roos
-_Editor:_ Merete Neergaard
-_Composer:_ Morten Slæbo
-_Sound:_ Knud Kristensen
+**ASTA NIELSEN**<br>
+_Director:_ Asta Nielsen<br>
+_Production Company_: Laterna Film  <br>
+_Screenplay:_ Asta Nielsen<br>
+_Director of Photography:_ Peter Roos<br>
+_Editor:_ Merete Neergaard<br>
+_Composer:_ Morten Slæbo<br>
+_Sound:_ Knud Kristensen<br>
 
-**With**
-Asta Nielsen
-Poul Reumert
-Axel Strøbye
+**With**<br>
+Asta Nielsen<br>
+Poul Reumert<br>
+Axel Strøbye<br>
 
-Denmark 1968
-28 mins
+Denmark 1968<br>
+28 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxOTY0NjA5XX0=
+eyJoaXN0b3J5IjpbMTgwOTE2MjY3NV19
 -->
