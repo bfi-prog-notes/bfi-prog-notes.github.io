@@ -1,10 +1,19 @@
-
+---
+layout: post
+title: Moonlight
+published: true
+date: 2022-02-24
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'USA 2016, 111 mins<br> Director: Barry Jenkins'
+pdf: 2022-02-24-moonlight.pdf
+---
 You stand, wrapped in that strange communal spell during the thunderous ovation, as the memory of cinema floods back. Not the explosive, momentarily gratifying, empty-bellied franchise juggernaut that has run roughshod across the plains of American cinema in recent decades. No, the memory of a medium that lovingly takes a small life and makes the experience of that life epic. In _Moonlight_ we watch as a vulnerable young boy nicknamed Little (Alex Hibbert) becomes an adolescent (Ashton Sanders) and then finally a man, now known as Black (Trevante Rhodes), against the wilds of a poor black community in Miami.
 
 Chiron – his given name – is an outcast, abandoned by a drug-addled mother (Naomie Harris) and a father whose presence isn’t even to be expected. He is terrorised by a culture of cruel and aggressive hyper-masculinity embodied by nemesis Terrel (Patrick Decile). So far, so ubiquitous, you might think, and yet this is a story about love – or the dream of love that can be found even in the midst of a nightmare. First, there is local drug kingpin Juan (Mahershala Ali) and his wife Teresa (Janelle Monáe), whose warm, ordered home is a shelter from the horrors of Chiron’s own. Then there is Kevin, his only friend. Chiron grows to love him deeply but the thwarted desire he feels leads to a startling shift in identity.
 
-At some point, you are surprised that this is the first time you have seen a cinematic portrayal of the lonely path many black gay men have walked.  
-You realise with greater surprise that you have rarely seen young black men weep on screen as you do so often in this film. Perhaps the closest cinema has come to creating a vulnerable young black male hero is the Pepto-Bismol-swilling Strike in Spike Lee’s _Clockers_ (1995).
+At some point, you are surprised that this is the first time you have seen a cinematic portrayal of the lonely path many black gay men have walked. You realise with greater surprise that you have rarely seen young black men weep on screen as you do so often in this film. Perhaps the closest cinema has come to creating a vulnerable young black male hero is the Pepto-Bismol-swilling Strike in Spike Lee’s _Clockers_ (1995).
 
 On first viewing, _Moonlight_ hypnotises. Set in Miami, to the visual and sonic echoes of the ocean, this coming-of-age odyssey plays out within a landscape of deeply protected emotions. On second viewing, you have to fight the seduction to study the craft. From the first prowling single take, reminiscent of the opening of Orson Welles’s _Touch of Evil_ (1958), to the isolating wide-angle shots butting up against extreme close-ups, colour-saturated tableaux and an immersive soundscape, this is a film designed to speak to your subconscious.
 
@@ -66,8 +75,8 @@ Naomie Harris _(Paula)_
 Mahershala Ali _(Juan)_  
 Shariff Earp _(Terrence)_  
 Duan ‘Sandy’ Sanderson _(Azu)_  
-Alex Hibbert _(Chiron aged 10, ‘Little’)_
-Jaden Piner _(Kevin aged 10)_
+Alex Hibbert _(Chiron aged 10, ‘Little’)_  
+Jaden Piner _(Kevin aged 10)_  
 Patrick Decile _(Terrel)_<br>
 
 USA 2016©<br>
@@ -102,6 +111,21 @@ Sat 5 Mar 19:45; Wed 9 Mar 14:15; Sun 13 Mar 18:00<br>
 Sun 6 Mar 13:15; Fri 11 Mar 18:05; Tue 15 Mar 18:10<br>
 **Baadasssss!**<br>
 Thu 10 Mar 20:40; SAT 12 Mar 18:10<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzIzMTcxMjJdfQ==
--->
+<br/>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
