@@ -71,7 +71,37 @@ Jaden Piner _(Kevin aged 10)_
 Patrick Decile _(Terrel)_<br>
 
 USA 2016©<br>
-111 mins
+111 mins<br>
+<br>
+
+**BIG SCREEN CLASSICS**<br>
+**Moonlight**<br>
+Thu 24 Feb 14:30; Mon 28 Feb 20:45<br>
+**To Wong Foo, Thanks for Everything! Julie Newmar**<br>
+Fri 25 Feb 20:45<br>
+**Mädchen in Uniform**<br>
+Sat 26 Feb 16:00<br>
+**Go Fish**<br>
+Sat 26 Feb 18:20<br>
+**The Watermelon Woman**<br>
+Sat 26 Feb 20:30<br>
+**The Handmaiden (Ah-ga-ssi)**<br>
+Sun 27 Feb 17:50<br>
+**Le Mépris (Contempt)**<br>
+Tue 1 Mar 18:15; Tue 8 Mar 20:50; Sat 12 Mar 20:50
+**42nd Street**
+Wed 2 Mar 18:00 (+ intro by Miles Eady, BFI Cinema and Events); Fri 4 Mar 20:40; Mon 14 Mar 20:45
+**Cabaret**
+Thu 3 Mar 20:40; Sat 12 Mar 18:15
+**8 1/2 (Otto e mezzo)** Fri 4 Mar 18:00; Mon 7 Mar 20:15; Wed 16 Mar 17:50 (+ intro by Giulia Saccogna,  BFI Programme & Research Coordinator)
+**F for Fake**
+Fri 4 Mar 20:50; Wed 9 Mar 18:10 (+ Intro by Programmer-At-Large, Geoff Andrew); Wed 16 Mar 21:10
+**Nashville**
+Sat 5 Mar 19:45; Wed 9 Mar 14:15; Sun 13 Mar 18:00
+**Les Demoiselles de Rochefort (The Young Ladies of Rochefort)**
+Sun 6 Mar 13:15; Fri 11 Mar 18:05; Tue 15 Mar 18:10
+**Baadasssss!**
+Thu 10 Mar 20:40; SAT 12 Mar 18:10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5NzMxODc1XX0=
+eyJoaXN0b3J5IjpbLTEzNDU5MDAyMThdfQ==
 -->
