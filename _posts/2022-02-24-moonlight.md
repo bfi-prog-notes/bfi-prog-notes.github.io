@@ -22,8 +22,7 @@ _Moonlight_ is awash with these kinds of visual and dramatic rhymes. Jenkins bui
 In addition to his agile formalism, Jenkins has a real sensitivity for actors, and _Moonlight_ boasts a superb ensemble. Not only the three Chirons, who have been carefully guided along a continuum of shared cadences and gestures, but also Ali, whose handsomely hard-lined face is alternately a tough-guy mask and an open book; and André Holland, perfectly cast as the wary, regretful older version of high-school peacock Kevin, a character whose gradual movement to the story’s very heart is beautifully engineered. In the closing encounter between Black and Kevin, the actors’ gently shape-shifting rapport in a dimly lit diner has the uncanny feel of a surreptitiously overheard conversation. Even as the two old friends talk cautiously around their shared history, the emotions between them cut loud and clear through the background clatter, proving that _Moonlight_ is at its most eloquent when its subtext is soft-spoken.<br>
 **Adam Nayman, _Sight & Sound_, March 2017**<br>
 
-**MOONLIGHT**
-
+**MOONLIGHT**<br>
 _Directed by_: Barry Jenkins  
 ©: Dos Hermanas LLC  
 _Production Company_: Plan B, Pastel  
@@ -69,10 +68,10 @@ Shariff Earp _(Terrence)_
 Duan ‘Sandy’ Sanderson _(Azu)_  
 Alex Hibbert _(Chiron aged 10, ‘Little’)_
 Jaden Piner _(Kevin aged 10)_
-Patrick Decile _(Terrel)_
+Patrick Decile _(Terrel)_<br>
 
 USA 2016©<br>
 111 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3MDg0OTQ1XX0=
+eyJoaXN0b3J5IjpbNDM5NzMxODc1XX0=
 -->
