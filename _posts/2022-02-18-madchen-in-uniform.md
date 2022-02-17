@@ -22,81 +22,45 @@ The film ends with the defeated headmistress retreating down the staircase and i
 <br><br>
 
 **MÄDCHEN IN UNIFORM (MAIDENS IN UNIFORM)**<br>
-
 _Director:_ Leontine Sagan<br>
-
 _Production Company:_ Deutsche Film-Gemeinschaft<br>
-
 _Producer:_ Frank Wysbar<br>
-
 _Artistic Supervisor:_ Carl Froelich<br>
-
 _Screenplay:_ Christa Winsloe, F.D. Andam<br>
-
 _Based on the play by:_ Christa Winsloe<br>
-
-_Directors of Photography:_ Reimar Kuntze,  
-Fritz Weihmayr<br>
-
-_Art Directors:_ Fritz Maurischat,
-
-Friedrich Wincker-Tanemberg<br>
-
+_Directors of Photography:_ Reimar Kuntze,  Fritz Weihmayr<br>
+_Art Directors:_ Fritz Maurischat, Friedrich Wincker-Tanemberg<br>
 _Music:_ Hansom Milde-Meissner<br>
-
 _Sound:_ Karl Brodmerker<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Dorothea Wieck _(Fräulein von Bernburg)_<br>
-
 Hertha Thiele _(Manuela von Meinhardis)_<br>
-
 Ellen Schwanneke _(Ilse von Westhagen)_<br>
-
 Emilie Unda _(headmistress)_<br>
-
 Hedwig Schlichter _(Fräulein von Kesten)_<br>
-
 Gertrud de Lalsky _(Manuela’s aunt)_<br>
-
 Marte Hein _(Duchess)_<br>
-
 Lene Berdolt _(Fräulein von Gärschner)_<br>
-
 Lisi Scheerbach _(‘Mlle’ Oeuillet)_<br>
-
 Margory Bodker _(Miss Evans)_<br>
-
 Erika Mann _(Fräulein von Atems)_<br>
-
 Else Ehser _(Elise, wardrobe mistress)_<br>
-
 Ilse Winter _(Marga)_<br>
-
 Charlotte Witthauer _(Erika)_<br>
-
 Erika-Margot Biebrach<br>
-
 Margarethe Reschke<br>
-
 Annemarie von Rochhausen<br>
+Ilse Vigdor<br>
+Barbara Pirk<br>
+Dora Thalmer<br>
+Dolly Mathieu de Padilla<br>
+Lore Schützendorf<br>
+Marieluise Claudius<br>
 
-Ilse Vigdor
-
-Barbara Pirk
-
-Dora Thalmer
-
-Dolly Mathieu de Padilla
-
-Lore Schützendorf
-
-Marieluise Claudius
-
-Germany 1931
-
+Germany 1931<br>
 87 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzcxODE3NV19
+eyJoaXN0b3J5IjpbLTI5ODAwMzI2OV19
 -->
