@@ -80,111 +80,57 @@ _Make-up Supervisor:_ Bob Westmoreland<br>
 _Hairdresser:_ Edie Panda<br>
 _Title Design:_ Dan Perri<br>
 _Music:_ John Williams<br>
-
 _Sound Recording:_ Gene Cantamesa<br>
-
-_Re-recording Mixers:_ Buzz Knudson,  
-Don MacDougall, Robert Glass<br>
-
+_Re-recording Mixers:_ Buzz Knudson,  Don MacDougall, Robert Glass<br>
 _Supervising Dialogue Editor:_ Jack Schrader<br>
-
 _Supervising Sound Effects Editor:_ Frank Warner<br>
-
 _Stunt Co-ordinator:_ Buddy Joe Hooker<br>
-
 _Technical Adviser:_ Dr J. Allen Hynek<br>
-
 _Special Consultants:_ Peter Anderson, Larry Albright, Richard Bennett, Ken Ebert, Paul Huston, David M. Jones, Kevin Kelly, Jim Lutes, George Randle, Jeff Shapiro, Rourke Engineering<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Richard Dreyfuss _(Roy Neary)_<br>
-
 François Truffaut _(Claude Lacombe)_<br>
-
 Teri Garr _(Ronnie Neary)_<br>
-
 Melinda Dillon _(Jillian Guiler)_<br>
-
 Cary Guffey _(Barry Guiler)_<br>
-
 Bob Balaban _(David Laughlin)_<br>
-
 Roberts Blossom _(farmer)_<br>
-
 Merrill Connally _(team leader)_<br>
-
 George Dicenzo _(Major Benchley)_<br>
-
 Lance Henriksen _(Robert)_<br>
-
 Warren Kemmerling _(Wild Bill)_<br>
-
 J. Patrick McNamara _(project leader)_<br>
-
 Philip Dodds _(Jean Claude)_<br>
-
 Shawn Bishop _(Brad Neary)_<br>
-
 Adrienne Campbell _(Silvia Neary)_<br>
-
 Justin Dreyfuss _(Toby Neary)_<br>
-
 Amy Douglass, Alexander Lockwood _(implantees)_<br>
-
 Gene Dynarski _(Ike)_<br>
-
 Mary Gafrey _(Mrs Harris)_<br>
-
 Norman Bartold _(Ohio tolls)_<br>
-
 Josef Sommer _(Larry Butler)_<br>
-
 Rev Michael J. Dyer _(himself)_<br>
-
 Roger Ernest _(highway patrolman)_<br>
-
 Carl Weathers _(military policeman)_<br>
-
 F.J. O’Neil _(ARP project member)_<br>
-
 Philip Dodds _(ARP musician)_<br>
-
-Randy Hermann, Hal Barwood, Matthew Robbins  
-_(returnees from Flight 19)_<br>
-
-David Anderson, Richard L. Hawkins  
-_(air traffic controllers)_<br>
-
+Randy Hermann, Hal Barwood, Matthew Robbins  _(returnees from Flight 19)_<br>
+David Anderson, Richard L. Hawkins  _(air traffic controllers)_<br>
 Craig Shreeve, Bill Thurman _(air traffic)_<br>
-
 Roy E. Richards _(Air East pilot)_<br>
-
 Gene Rader _(hawker)_<br>
-
-Eumenio Blanco, Daniel Nunez, Chuy Franco,  
-Luis Contreras _(federales)_<br>
-
-James Keane, Dennis McMullen, Cy Young,  
-Tom Howard _(radio telescope team)_<br>
-
+Eumenio Blanco, Daniel Nunez, Chuy Franco,  Luis Contreras _(federales)_<br>
+James Keane, Dennis McMullen, Cy Young,  Tom Howard _(radio telescope team)_<br>
 Richard Stuart _(truck dispatcher)_<br>
-
 Bob Westmoreland _(load dispatcher)_<br>
-
 Matt Emery _(support leader)_<br>
-
-Galen Thompson, John Dennis Johnston
-
-_(special forces)_<br>
-
-John Ewing, Keith Atkinson, Robert Broyles,  
-Kirk Raymond _(dirty tricks)_<br>
+Galen Thompson, John Dennis Johnston _(special forces)_<br>
+John Ewing, Keith Atkinson, Robert Broyles,  Kirk Raymond _(dirty tricks)_<br>
 
 USA 1977©<br>
-
 137 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTI1ODQ2MV19
+eyJoaXN0b3J5IjpbLTY5OTA1NDAxNV19
 -->
