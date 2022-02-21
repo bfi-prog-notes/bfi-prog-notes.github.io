@@ -35,164 +35,164 @@ Columbia Pictures Corporation<br>
 
 _In association with:_ EMI Films, Inc.<br>
 
-_Producers:_ Julia Phillips, Michael Phillips
+_Producers:_ Julia Phillips, Michael Phillips<br>
 
-_Associate Producer:_ Clark Paylow
+_Associate Producer:_ Clark Paylow<br>
 
-_Unit Production Manager:_ Clark Paylow
+_Unit Production Manager:_ Clark Paylow<br>
 
-_Project Co-ordinator:_ Mona Thal Benefiel
+_Project Co-ordinator:_ Mona Thal Benefiel<br>
 
-_Location Manager:_ Joe O’Har
+_Location Manager:_ Joe O’Har<br>
 
-_Assistant Director:_ Chuck Myers
+_Assistant Director:_ Chuck Myers<br>
 
-_2nd Assistant Director:_ James Bloom
+_2nd Assistant Director:_ James Bloom<br>
 
-_Script Supervisor:_ Charlsie Bryant
+_Script Supervisor:_ Charlsie Bryant<br>
 
-_Casting:_ Shari Rhodes, Juliette Taylor
+_Casting:_ Shari Rhodes, Juliette Taylor<br>
 
-_Additional Casting:_ Sally Dennison
+_Additional Casting:_ Sally Dennison<br>
 
-_Screenplay:_ Steven Spielberg
+_Screenplay:_ Steven Spielberg<br>
 
-_Technical Dialogue:_ Colin Cantwell
+_Technical Dialogue:_ Colin Cantwell<br>
 
-_Director of Photography:_ Vilmos Zsigmond
+_Director of Photography:_ Vilmos Zsigmond<br>
 
 _Additional Directors of Photography:_  
-John Alonzo, László Kovács
+John Alonzo, László Kovács<br>
 
-_UFO Photography:_ Dave Stewart
+_UFO Photography:_ Dave Stewart<br>
 
-_Mothership Photography:_ Dennis Muren
+_Mothership Photography:_ Dennis Muren<br>
 
-_2nd Unit Director of Photography:_ Steve Poster
+_2nd Unit Director of Photography:_ Steve Poster<br>
 
-_Colour Consultant:_ Robert M. McMillian
+_Colour Consultant:_ Robert M. McMillian<br>
 
-_Optical Photography:_ Robert Hall
+_Optical Photography:_ Robert Hall<br>
 
-_Camera Operator:_ Nick McLean
+_Camera Operator:_ Nick McLean<br>
 
-_Gaffer:_ Earl Gilbert
+_Gaffer:_ Earl Gilbert<br>
 
-_Stills:_ Peter Sorel, Jim Coe, Pete Turner
+_Stills:_ Peter Sorel, Jim Coe, Pete Turner<br>
 
-_Visual Concept:_ Steven Spielberg
+_Visual Concept:_ Steven Spielberg<br>
 
 _Special Photographic Effects Supervisor:_  
-Douglas Trumbull
+Douglas Trumbull<br>
 
-_Photographic Effects Director of Photography:_ Richard Yuricich
+_Photographic Effects Director of Photography:_ Richard Yuricich<br>
 
-_Special Visual Effects Co-ordinator:_ Larry Robinson
+_Special Visual Effects Co-ordinator:_ Larry Robinson<br>
 
-_Matte Photography:_ Don Jarel
+_Matte Photography:_ Don Jarel<br>
 
-_Matte Artist:_ Matthew Yuricich
+_Matte Artist:_ Matthew Yuricich<br>
 
-_Effects Unit Project Manager:_ Robert Shepherd
+_Effects Unit Project Manager:_ Robert Shepherd<br>
 
-_Realisation of ‘Extraterrestrial’:_ Carlo Rambaldi
+_Realisation of ‘Extraterrestrial’:_ Carlo Rambaldi<br>
 
-_Mechanical Effects:_ Roy Arbogast
+_Mechanical Effects:_ Roy Arbogast<br>
 
-_Mechanical Special Effects:_ George Polkinghorne
+_Mechanical Special Effects:_ George Polkinghorne<br>
 
 _Electronics Designs:_ Jerry L. Jeffress,  
-Alvah J. Miller, Peter Regla, Dan Slater
+Alvah J. Miller, Peter Regla, Dan Slater<br>
 
-_Chief Model Maker:_ Gregory Jein
+_Chief Model Maker:_ Gregory Jein<br>
 
-_Model Shop Co-ordinator:_ J. Richard Dow
+_Model Shop Co-ordinator:_ J. Richard Dow<br>
 
-_Model Makers:_ Jor Van Kline, Michael McMillen, Kenneth Swenson, Robert Worthington
+_Model Makers:_ Jor Van Kline, Michael McMillen, Kenneth Swenson, Robert Worthington<br>
 
-_Animation Supervisor:_ Robert Swarthe
+_Animation Supervisor:_ Robert Swarthe<br>
 
-_Animator:_ Harry Moreau
+_Animator:_ Harry Moreau<br>
 
-_Editor:_ Michael Kahn
+_Editor:_ Michael Kahn<br>
 
-_Production Designer:_ Joe Alves
+_Production Designer:_ Joe Alves<br>
 
 _Camera and Mechanical Design:_ Don Trumbull,  
-B/G Engineering, John Russell, Fries Engineering
+B/G Engineering, John Russell, Fries Engineering<br>
 
-_Art Director:_ Dan Lomino
+_Art Director:_ Dan Lomino<br>
 
-_Set Decorator:_ Phil Abramson
+_Set Decorator:_ Phil Abramson<br>
 
-_Production Illustrator:_ George Jensen
+_Production Illustrator:_ George Jensen<br>
 
-_Property Master:_ Sam Gordon
+_Property Master:_ Sam Gordon<br>
 
-_Construction Manager:_ Bill Parks
+_Construction Manager:_ Bill Parks<br>
 
-_Wardrobe Supervisor:_ Jim Linn
+_Wardrobe Supervisor:_ Jim Linn<br>
 
-_Make-up Supervisor:_ Bob Westmoreland
+_Make-up Supervisor:_ Bob Westmoreland<br>
 
-_Hairdresser:_ Edie Panda
+_Hairdresser:_ Edie Panda<br>
 
-_Title Design:_ Dan Perri
+_Title Design:_ Dan Perri<br>
 
-_Music:_ John Williams
+_Music:_ John Williams<br>
 
-_Sound Recording:_ Gene Cantamesa
+_Sound Recording:_ Gene Cantamesa<br>
 
 _Re-recording Mixers:_ Buzz Knudson,  
-Don MacDougall, Robert Glass
+Don MacDougall, Robert Glass<br>
 
-_Supervising Dialogue Editor:_ Jack Schrader
+_Supervising Dialogue Editor:_ Jack Schrader<br>
 
-_Supervising Sound Effects Editor:_ Frank Warner
+_Supervising Sound Effects Editor:_ Frank Warner<br>
 
-_Stunt Co-ordinator:_ Buddy Joe Hooker
+_Stunt Co-ordinator:_ Buddy Joe Hooker<br>
 
-_Technical Adviser:_ Dr J. Allen Hynek
+_Technical Adviser:_ Dr J. Allen Hynek<br>
 
-_Special Consultants:_ Peter Anderson, Larry Albright, Richard Bennett, Ken Ebert, Paul Huston, David M. Jones, Kevin Kelly, Jim Lutes, George Randle, Jeff Shapiro, Rourke Engineering
+_Special Consultants:_ Peter Anderson, Larry Albright, Richard Bennett, Ken Ebert, Paul Huston, David M. Jones, Kevin Kelly, Jim Lutes, George Randle, Jeff Shapiro, Rourke Engineering<br>
 
-_Cast:_
+_Cast:_<br>
 
-Richard Dreyfuss _(Roy Neary)_
+Richard Dreyfuss _(Roy Neary)_<br>
 
-François Truffaut _(Claude Lacombe)_
+François Truffaut _(Claude Lacombe)_<br>
 
-Teri Garr _(Ronnie Neary)_
+Teri Garr _(Ronnie Neary)_<br>
 
-Melinda Dillon _(Jillian Guiler)_
+Melinda Dillon _(Jillian Guiler)_<br>
 
-Cary Guffey _(Barry Guiler)_
+Cary Guffey _(Barry Guiler)_<br>
 
-Bob Balaban _(David Laughlin)_
+Bob Balaban _(David Laughlin)_<br>
 
-Roberts Blossom _(farmer)_
+Roberts Blossom _(farmer)_<br>
 
-Merrill Connally _(team leader)_
+Merrill Connally _(team leader)_<br>
 
-George Dicenzo _(Major Benchley)_
+George Dicenzo _(Major Benchley)_<br>
 
-Lance Henriksen _(Robert)_
+Lance Henriksen _(Robert)_<br>
 
-Warren Kemmerling _(Wild Bill)_
+Warren Kemmerling _(Wild Bill)_<br>
 
-J. Patrick McNamara _(project leader)_
+J. Patrick McNamara _(project leader)_<br>
 
-Philip Dodds _(Jean Claude)_
+Philip Dodds _(Jean Claude)_<br>
 
-Shawn Bishop _(Brad Neary)_
+Shawn Bishop _(Brad Neary)_<br>
 
-Adrienne Campbell _(Silvia Neary)_
+Adrienne Campbell _(Silvia Neary)_<br>
 
-Justin Dreyfuss _(Toby Neary)_
+Justin Dreyfuss _(Toby Neary)_<br>
 
-Amy Douglass, Alexander Lockwood _(implantees)_
+Amy Douglass, Alexander Lockwood _(implantees)_<br>
 
-Gene Dynarski _(Ike)_
+Gene Dynarski _(Ike)_v
 
 Mary Gafrey _(Mrs Harris)_
 
@@ -245,5 +245,5 @@ USA 1977©
 
 137 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTAzNDI3OV19
+eyJoaXN0b3J5IjpbNjU1OTAzMzc3XX0=
 -->
