@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Close Encounters of the Third Kind
+published: true
+date: 2022-02-23
+readtime: true
+categories: ['MEMBER PICKS']
+tags: [Sci-Fi]
+metadata: 'USA 1977, 137 mins<br> Director: Steven Spielberg'
+pdf: '2022-02-23-close-encounters-of-the-third-kind.pdf'
+---
 
 While on first glance it might seem the quintessential Spielberg film, discrepancies place _Close Encounters of the Third Kind_ (1977) slightly apart. When considered in relation to Spielberg’s later science fiction films and their more conservative attitude to family, their overtly pessimistic view of human nature, their ambivalent presentation of the other, the cosmic outlook and wide-eyed optimism of _Close Encounters_ marks it, alongside _2001: A Space Odyssey_ (1968) (one of Spielberg’s primary influences on _Close Encounters_), as utopian – even transcendent – science fiction.
 
@@ -131,6 +141,20 @@ John Ewing, Keith Atkinson, Robert Broyles,  Kirk Raymond _(dirty tricks)_<br>
 USA 1977©<br>
 137 mins<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.    
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTY5OTA1NDAxNV19
 -->
