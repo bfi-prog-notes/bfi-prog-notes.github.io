@@ -25,120 +25,60 @@ If Spielberg hesitates, then, between the childlike and the childish in his own 
 <br><br>
 
 **CLOSE ENCOUNTERS OF THE THIRD KIND**<br>
-
 _Director:_ Steven Spielberg<br>
-
 ©: Columbia Pictures Industries Inc.<br>
-
-_Production Company:_  
-Columbia Pictures Corporation<br>
-
+_Production Company:_  Columbia Pictures Corporation<br>
 _In association with:_ EMI Films, Inc.<br>
-
 _Producers:_ Julia Phillips, Michael Phillips<br>
-
 _Associate Producer:_ Clark Paylow<br>
-
 _Unit Production Manager:_ Clark Paylow<br>
-
 _Project Co-ordinator:_ Mona Thal Benefiel<br>
-
 _Location Manager:_ Joe O’Har<br>
-
 _Assistant Director:_ Chuck Myers<br>
-
 _2nd Assistant Director:_ James Bloom<br>
-
 _Script Supervisor:_ Charlsie Bryant<br>
-
 _Casting:_ Shari Rhodes, Juliette Taylor<br>
-
 _Additional Casting:_ Sally Dennison<br>
-
 _Screenplay:_ Steven Spielberg<br>
-
 _Technical Dialogue:_ Colin Cantwell<br>
-
 _Director of Photography:_ Vilmos Zsigmond<br>
-
-_Additional Directors of Photography:_  
-John Alonzo, László Kovács<br>
-
+_Additional Directors of Photography:_  John Alonzo, László Kovács<br>
 _UFO Photography:_ Dave Stewart<br>
-
 _Mothership Photography:_ Dennis Muren<br>
-
 _2nd Unit Director of Photography:_ Steve Poster<br>
-
 _Colour Consultant:_ Robert M. McMillian<br>
-
 _Optical Photography:_ Robert Hall<br>
-
 _Camera Operator:_ Nick McLean<br>
-
 _Gaffer:_ Earl Gilbert<br>
-
 _Stills:_ Peter Sorel, Jim Coe, Pete Turner<br>
-
 _Visual Concept:_ Steven Spielberg<br>
-
-_Special Photographic Effects Supervisor:_  
-Douglas Trumbull<br>
-
+_Special Photographic Effects Supervisor:_  Douglas Trumbull<br>
 _Photographic Effects Director of Photography:_ Richard Yuricich<br>
-
 _Special Visual Effects Co-ordinator:_ Larry Robinson<br>
-
 _Matte Photography:_ Don Jarel<br>
-
 _Matte Artist:_ Matthew Yuricich<br>
-
 _Effects Unit Project Manager:_ Robert Shepherd<br>
-
 _Realisation of ‘Extraterrestrial’:_ Carlo Rambaldi<br>
-
 _Mechanical Effects:_ Roy Arbogast<br>
-
 _Mechanical Special Effects:_ George Polkinghorne<br>
-
-_Electronics Designs:_ Jerry L. Jeffress,  
-Alvah J. Miller, Peter Regla, Dan Slater<br>
-
+_Electronics Designs:_ Jerry L. Jeffress,  Alvah J. Miller, Peter Regla, Dan Slater<br>
 _Chief Model Maker:_ Gregory Jein<br>
-
 _Model Shop Co-ordinator:_ J. Richard Dow<br>
-
 _Model Makers:_ Jor Van Kline, Michael McMillen, Kenneth Swenson, Robert Worthington<br>
-
 _Animation Supervisor:_ Robert Swarthe<br>
-
 _Animator:_ Harry Moreau<br>
-
 _Editor:_ Michael Kahn<br>
-
 _Production Designer:_ Joe Alves<br>
-
-_Camera and Mechanical Design:_ Don Trumbull,  
-B/G Engineering, John Russell, Fries Engineering<br>
-
+_Camera and Mechanical Design:_ Don Trumbull,  B/G Engineering, John Russell, Fries Engineering<br>
 _Art Director:_ Dan Lomino<br>
-
 _Set Decorator:_ Phil Abramson<br>
-
 _Production Illustrator:_ George Jensen<br>
-
 _Property Master:_ Sam Gordon<br>
-
 _Construction Manager:_ Bill Parks<br>
-
 _Wardrobe Supervisor:_ Jim Linn<br>
-
 _Make-up Supervisor:_ Bob Westmoreland<br>
-
 _Hairdresser:_ Edie Panda<br>
-
 _Title Design:_ Dan Perri<br>
-
 _Music:_ John Williams<br>
 
 _Sound Recording:_ Gene Cantamesa<br>
@@ -192,58 +132,59 @@ Justin Dreyfuss _(Toby Neary)_<br>
 
 Amy Douglass, Alexander Lockwood _(implantees)_<br>
 
-Gene Dynarski _(Ike)_v
+Gene Dynarski _(Ike)_<br>
 
-Mary Gafrey _(Mrs Harris)_
+Mary Gafrey _(Mrs Harris)_<br>
 
-Norman Bartold _(Ohio tolls)_
+Norman Bartold _(Ohio tolls)_<br>
 
-Josef Sommer _(Larry Butler)_
+Josef Sommer _(Larry Butler)_<br>
 
-Rev Michael J. Dyer _(himself)_
+Rev Michael J. Dyer _(himself)_<br>
 
-Roger Ernest _(highway patrolman)_
+Roger Ernest _(highway patrolman)_<br>
 
-Carl Weathers _(military policeman)_
+Carl Weathers _(military policeman)_<br>
 
-F.J. O’Neil _(ARP project member)_
+F.J. O’Neil _(ARP project member)_<br>
 
-Philip Dodds _(ARP musician)_
+Philip Dodds _(ARP musician)_<br>
 
 Randy Hermann, Hal Barwood, Matthew Robbins  
-_(returnees from Flight 19)_
+_(returnees from Flight 19)_<br>
 
 David Anderson, Richard L. Hawkins  
-_(air traffic controllers)_
+_(air traffic controllers)_<br>
 
-Craig Shreeve, Bill Thurman _(air traffic)_
+Craig Shreeve, Bill Thurman _(air traffic)_<br>
 
-Roy E. Richards _(Air East pilot)_
+Roy E. Richards _(Air East pilot)_<br>
 
-Gene Rader _(hawker)_
+Gene Rader _(hawker)_<br>
 
 Eumenio Blanco, Daniel Nunez, Chuy Franco,  
-Luis Contreras _(federales)_
+Luis Contreras _(federales)_<br>
 
 James Keane, Dennis McMullen, Cy Young,  
-Tom Howard _(radio telescope team)_
+Tom Howard _(radio telescope team)_<br>
 
-Richard Stuart _(truck dispatcher)_
+Richard Stuart _(truck dispatcher)_<br>
 
-Bob Westmoreland _(load dispatcher)_
+Bob Westmoreland _(load dispatcher)_<br>
 
-Matt Emery _(support leader)_
+Matt Emery _(support leader)_<br>
 
 Galen Thompson, John Dennis Johnston
 
-_(special forces)_
+_(special forces)_<br>
 
 John Ewing, Keith Atkinson, Robert Broyles,  
-Kirk Raymond _(dirty tricks)_
+Kirk Raymond _(dirty tricks)_<br>
 
-USA 1977©
+USA 1977©<br>
 
-137 mins
+137 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1OTAzMzc3XX0=
+eyJoaXN0b3J5IjpbMTgyNTI1ODQ2MV19
 -->
