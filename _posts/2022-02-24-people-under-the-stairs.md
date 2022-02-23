@@ -24,131 +24,63 @@ Win Rosenfeld (producer of _BlacKkKlansman_ (2018) and the _Candyman_ (2021) rem
 <br><br>
 
 **THE PEOPLE UNDER THE STAIRS**<br>
-
 _Director_: Wes Craven<br>
-
-_Production Companies_:  
-Universal Pictures Company, Alive Films<br>
-
+_Production Companies_:  Universal Pictures Company, Alive Films<br>
 _Executive Producers_: Shep Gordon, Wes Craven<br>
-
 _Producers_: Marianne Maddalena, Stuart M. Besser<br>
-
 _Co-producer_: Dixie Capp<br>
-
 _Associate Producer_: Peter Foster<br>
-
 _Unit Production Manager_: Stuart M. Besser<br>
-
 _Production Co-ordinator_: Sarah James Arbeid<br>
-
 _Location Manager_: Judson Neil Schwartz<br>
-
 _Post-production Co-ordinator_: Yvonne Valdez<br>
-
 _2nd Unit Director_: Peter Chesney<br>
-
-_1st Assistant Directors_: Nick Mastandrea,
-
-Rosemary C. Cremona, Melanie Knox<br>
-
+_1st Assistant Directors_: Nick Mastandrea, Rosemary C. Cremona, Melanie Knox<br>
 _Casting_: Eileen Knight<br>
-
-_Extras Casting_: The Casting Group,  
-Rick Montgomery<br>
-
+_Extras Casting_: The Casting Group,  Rick Montgomery<br>
 _Screenplay_: Wes Craven<br>
-
 _Director of Photography_: Sandi Sissel<br>
-
 _2nd Unit Director of Photography_: Tony Cutrono<br>
-
 _Camera Operator_: George Billinger<br>
-
 _Additional Camera Operator_: Chris Hayes<br>
-
 _Steadicam Operators_: Dan Kneece, Jeff Mart<br>
-
 _Video Playback_: Intervideo<br>
-
 _Special Effects_: Image Engineering<br>
-
 _Image Engineering Supervisors_: Peter Chesney, Gregory Nicotero, Robert Kurtzman, Howard Berger<br>
-
 _Image Engineering Key Co-ordinator_: Dean Miller<br>
-
-_Image Engineering Projects Co-ordinator_:
-
-Kate Steinberg<br>
-
-_Image Engineering Technicians_: J.D. Street,  
-Sandy Stewart<br>
-
+_Image Engineering Projects Co-ordinator_: Kate Steinberg<br>
+_Image Engineering Technicians_: J.D. Street,  Sandy Stewart<br>
 _Image Engineering Keys_: Mark Maitre, Earl Ellis<br>
-
-_Mechanical Dog Effects_: Robert Clark,  
-Roark Productions<br>
-
-_Roark Productions Crew_: Camilla Henneman, , Rikelle Kerr, Mark Goldberg, Jim Mclaughlin,  
-Mark Goodell, Kent Jones<br>
-
+_Mechanical Dog Effects_: Robert Clark,  Roark Productions<br>
+_Roark Productions Crew_: Camilla Henneman, , Rikelle Kerr, Mark Goldberg, Jim Mclaughlin,  Mark Goodell, Kent Jones<br>
 _Fibreglass Moulds_: Make Believe Productions<br>
-
 _Editors_: James Coblentz, Tom Walls<br>
-
 _Production Designer_: Bryan Jones<br>
-
 _Art Director_: Steven Lloyd Shroyer<br>
-
 _Set Decorator_: Molly Flanegin<br>
-
 _On-set Dresser_: Daniel M. Butts<br>
-
 _Storyboard Artist_: Philip Mayor<br>
-
 _Costume Designer_: Ileane Meltzer<br>
-
 _Set Costumer_: Yvette M. Walsh<br>
-
 _Wardrobe Supervisor_: Tim Wegman<br>
-
 _Make-up_: Michelle Bühler<br>
-
 _Special Make-up Effects_: KNB EFX Group Inc<br>
-
 _Title Design_: Kathie Broyles, Jeff Okun<br>
-
 _Opticals_: Howard Anderson Company<br>
-
 _Music_: Don Peake<br>
-
 _Additional Orchestral Music_: Graeme Revell<br>
-
 _Music Editor_: Dick Bernstein<br>
-
 _Sound Recording_: Donald Summer<br>
-
 _Supervising Sound Re-recordists_: Peter Reale, Howarth Wilmarth<br>
-
 _Sound Re-recordist_: Roberta Doheny<br>
-
 _Supervising Sound Editor_: Paul Clay<br>
-
-_Sound Editors_: Carin Rogers, Susan Kurtz,  
-Jeff Sandler, Mike Szackmeister, Richard Bozeat<br>
-
+_Sound Editors_: Carin Rogers, Susan Kurtz,  Jeff Sandler, Mike Szackmeister, Richard Bozeat<br>
 _ADR Recordist_: Tanya Sharp David<br>
-
 _ADR Editors_: Pat Somerset, Ernesto Mas<br>
-
 _Foley Artists_: Diane Marshall, Jerry Trent<br>
-
 _Foley Recordist_: Karen Roulo<br>
-
 _Stunt Co-ordinator_: Tony Cecere<br>
-
-_Stunts_: Linda Arvidson, Marian E. Green,  
-Kelsee Devoreaux, Beth Nufer, Sandy Gimpel, Paula Moody, Birgit K. Schier, Melvin Jones, Lori Lynn Ross, Eric Mansker, Dane Farwell, John Branagan, Dan Rycerz, Rex L. Waddell Jr, Lynn Salvatori, Jeff Habberstad, William R. Perry<br>
+_Stunts_: Linda Arvidson, Marian E. Green,  Kelsee Devoreaux, Beth Nufer, Sandy Gimpel, Paula Moody, Birgit K. Schier, Melvin Jones, Lori Lynn Ross, Eric Mansker, Dane Farwell, John Branagan, Dan Rycerz, Rex L. Waddell Jr, Lynn Salvatori, Jeff Habberstad, William R. Perry<br>
 
 _Stand-ins_: Wanda Welch, David Riggons, Julie Mondin, Sean Lemar, Roxanne 'Rocky' Meyers, Van Johnson<br>
 
@@ -191,19 +123,20 @@ George Parker _(attic cop)_<br>
 
 Yan Birch _(stairmaster)_<br>
 
-Wayne Daniels, Michael Kopelow _(stairpeople)_
+Wayne Daniels, Michael Kopelow _(stairpeople)_<br>
 
-Bubba, Schultz, Zeke _(Prince)_
+Bubba, Schultz, Zeke _(Prince)_<br>
 
 Nick Cramer, Robert Michael, Earl Dax,
 
 David Robinson, Gregory Kavtzer, Daniel Windtree,
 
-Burton Pierce _(people under the stairs)_
+Burton Pierce _(people under the stairs)_<br>
 
-USA 1991
+USA 1991<br>
 
-102 mins
+102 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3OTc0NTk2XX0=
+eyJoaXN0b3J5IjpbMTM2MjEzNzE0XX0=
 -->
