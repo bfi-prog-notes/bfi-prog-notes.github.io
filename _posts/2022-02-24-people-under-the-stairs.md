@@ -23,173 +23,173 @@ Win Rosenfeld (producer of _BlacKkKlansman_ (2018) and the _Candyman_ (2021) rem
 **Kevin Lyons, _The EOFFTV Review_, eofftvreview.wordpress.com**
 <br><br>
 
-**THE PEOPLE UNDER THE STAIRS**
+**THE PEOPLE UNDER THE STAIRS**<br>
 
-_Director_: Wes Craven
+_Director_: Wes Craven<br>
 
 _Production Companies_:  
-Universal Pictures Company, Alive Films
+Universal Pictures Company, Alive Films<br>
 
-_Executive Producers_: Shep Gordon, Wes Craven
+_Executive Producers_: Shep Gordon, Wes Craven<br>
 
-_Producers_: Marianne Maddalena, Stuart M. Besser
+_Producers_: Marianne Maddalena, Stuart M. Besser<br>
 
-_Co-producer_: Dixie Capp
+_Co-producer_: Dixie Capp<br>
 
-_Associate Producer_: Peter Foster
+_Associate Producer_: Peter Foster<br>
 
-_Unit Production Manager_: Stuart M. Besser
+_Unit Production Manager_: Stuart M. Besser<br>
 
-_Production Co-ordinator_: Sarah James Arbeid
+_Production Co-ordinator_: Sarah James Arbeid<br>
 
-_Location Manager_: Judson Neil Schwartz
+_Location Manager_: Judson Neil Schwartz<br>
 
-_Post-production Co-ordinator_: Yvonne Valdez
+_Post-production Co-ordinator_: Yvonne Valdez<br>
 
-_2nd Unit Director_: Peter Chesney
+_2nd Unit Director_: Peter Chesney<br>
 
 _1st Assistant Directors_: Nick Mastandrea,
 
-Rosemary C. Cremona, Melanie Knox
+Rosemary C. Cremona, Melanie Knox<br>
 
-_Casting_: Eileen Knight
+_Casting_: Eileen Knight<br>
 
 _Extras Casting_: The Casting Group,  
-Rick Montgomery
+Rick Montgomery<br>
 
-_Screenplay_: Wes Craven
+_Screenplay_: Wes Craven<br>
 
-_Director of Photography_: Sandi Sissel
+_Director of Photography_: Sandi Sissel<br>
 
-_2nd Unit Director of Photography_: Tony Cutrono
+_2nd Unit Director of Photography_: Tony Cutrono<br>
 
-_Camera Operator_: George Billinger
+_Camera Operator_: George Billinger<br>
 
-_Additional Camera Operator_: Chris Hayes
+_Additional Camera Operator_: Chris Hayes<br>
 
-_Steadicam Operators_: Dan Kneece, Jeff Mart
+_Steadicam Operators_: Dan Kneece, Jeff Mart<br>
 
-_Video Playback_: Intervideo
+_Video Playback_: Intervideo<br>
 
-_Special Effects_: Image Engineering
+_Special Effects_: Image Engineering<br>
 
-_Image Engineering Supervisors_: Peter Chesney, Gregory Nicotero, Robert Kurtzman, Howard Berger
+_Image Engineering Supervisors_: Peter Chesney, Gregory Nicotero, Robert Kurtzman, Howard Berger<br>
 
-_Image Engineering Key Co-ordinator_: Dean Miller
+_Image Engineering Key Co-ordinator_: Dean Miller<br>
 
 _Image Engineering Projects Co-ordinator_:
 
-Kate Steinberg
+Kate Steinberg<br>
 
 _Image Engineering Technicians_: J.D. Street,  
-Sandy Stewart
+Sandy Stewart<br>
 
-_Image Engineering Keys_: Mark Maitre, Earl Ellis
+_Image Engineering Keys_: Mark Maitre, Earl Ellis<br>
 
 _Mechanical Dog Effects_: Robert Clark,  
-Roark Productions
+Roark Productions<br>
 
 _Roark Productions Crew_: Camilla Henneman, , Rikelle Kerr, Mark Goldberg, Jim Mclaughlin,  
-Mark Goodell, Kent Jones
+Mark Goodell, Kent Jones<br>
 
-_Fibreglass Moulds_: Make Believe Productions
+_Fibreglass Moulds_: Make Believe Productions<br>
 
-_Editors_: James Coblentz, Tom Walls
+_Editors_: James Coblentz, Tom Walls<br>
 
-_Production Designer_: Bryan Jones
+_Production Designer_: Bryan Jones<br>
 
-_Art Director_: Steven Lloyd Shroyer
+_Art Director_: Steven Lloyd Shroyer<br>
 
-_Set Decorator_: Molly Flanegin
+_Set Decorator_: Molly Flanegin<br>
 
-_On-set Dresser_: Daniel M. Butts
+_On-set Dresser_: Daniel M. Butts<br>
 
-_Storyboard Artist_: Philip Mayor
+_Storyboard Artist_: Philip Mayor<br>
 
-_Costume Designer_: Ileane Meltzer
+_Costume Designer_: Ileane Meltzer<br>
 
-_Set Costumer_: Yvette M. Walsh
+_Set Costumer_: Yvette M. Walsh<br>
 
-_Wardrobe Supervisor_: Tim Wegman
+_Wardrobe Supervisor_: Tim Wegman<br>
 
-_Make-up_: Michelle Bühler
+_Make-up_: Michelle Bühler<br>
 
-_Special Make-up Effects_: KNB EFX Group Inc
+_Special Make-up Effects_: KNB EFX Group Inc<br>
 
-_Title Design_: Kathie Broyles, Jeff Okun
+_Title Design_: Kathie Broyles, Jeff Okun<br>
 
-_Opticals_: Howard Anderson Company
+_Opticals_: Howard Anderson Company<br>
 
-_Music_: Don Peake
+_Music_: Don Peake<br>
 
-_Additional Orchestral Music_: Graeme Revell
+_Additional Orchestral Music_: Graeme Revell<br>
 
-_Music Editor_: Dick Bernstein
+_Music Editor_: Dick Bernstein<br>
 
-_Sound Recording_: Donald Summer
+_Sound Recording_: Donald Summer<br>
 
-_Supervising Sound Re-recordists_: Peter Reale, Howarth Wilmarth
+_Supervising Sound Re-recordists_: Peter Reale, Howarth Wilmarth<br>
 
-_Sound Re-recordist_: Roberta Doheny
+_Sound Re-recordist_: Roberta Doheny<br>
 
-_Supervising Sound Editor_: Paul Clay
+_Supervising Sound Editor_: Paul Clay<br>
 
 _Sound Editors_: Carin Rogers, Susan Kurtz,  
-Jeff Sandler, Mike Szackmeister, Richard Bozeat
+Jeff Sandler, Mike Szackmeister, Richard Bozeat<br>
 
-_ADR Recordist_: Tanya Sharp David
+_ADR Recordist_: Tanya Sharp David<br>
 
-_ADR Editors_: Pat Somerset, Ernesto Mas
+_ADR Editors_: Pat Somerset, Ernesto Mas<br>
 
-_Foley Artists_: Diane Marshall, Jerry Trent
+_Foley Artists_: Diane Marshall, Jerry Trent<br>
 
-_Foley Recordist_: Karen Roulo
+_Foley Recordist_: Karen Roulo<br>
 
-_Stunt Co-ordinator_: Tony Cecere
+_Stunt Co-ordinator_: Tony Cecere<br>
 
 _Stunts_: Linda Arvidson, Marian E. Green,  
-Kelsee Devoreaux, Beth Nufer, Sandy Gimpel, Paula Moody, Birgit K. Schier, Melvin Jones, Lori Lynn Ross, Eric Mansker, Dane Farwell, John Branagan, Dan Rycerz, Rex L. Waddell Jr, Lynn Salvatori, Jeff Habberstad, William R. Perry
+Kelsee Devoreaux, Beth Nufer, Sandy Gimpel, Paula Moody, Birgit K. Schier, Melvin Jones, Lori Lynn Ross, Eric Mansker, Dane Farwell, John Branagan, Dan Rycerz, Rex L. Waddell Jr, Lynn Salvatori, Jeff Habberstad, William R. Perry<br>
 
-_Stand-ins_: Wanda Welch, David Riggons, Julie Mondin, Sean Lemar, Roxanne 'Rocky' Meyers, Van Johnson
+_Stand-ins_: Wanda Welch, David Riggons, Julie Mondin, Sean Lemar, Roxanne 'Rocky' Meyers, Van Johnson<br>
 
-_Dolby Stereo Consultant_: Steve F.B. Smith
+_Dolby Stereo Consultant_: Steve F.B. Smith<br>
 
-_Head Animal Trainers_: Roger Schumacher, Jim Dew
+_Head Animal Trainers_: Roger Schumacher, Jim Dew<br>
 
-_Animal Trainer_: Angelo Rivers
+_Animal Trainer_: Angelo Rivers<br>
 
 _Cast_  
-Brandon Adams _(Poindexter ‘Fool’ Williams)_
+Brandon Adams _(Poindexter ‘Fool’ Williams)_<br>
 
-Everett McGill _(man, ‘Daddy’)_
+Everett McGill _(man, ‘Daddy’)_<br>
 
-Wendy Robie _(woman, ‘Mummy’)_
+Wendy Robie _(woman, ‘Mummy’)_<br>
 
-A.J. Langer _(Alice)_
+A.J. Langer _(Alice)_<br>
 
-Ving Rhames _(Leroy)_
+Ving Rhames _(Leroy)_<br>
 
-Sean Whalen _(Roach)_
+Sean Whalen _(Roach)_<br>
 
-Bill Cobbs _(Grandpapa Booker)_
+Bill Cobbs _(Grandpapa Booker)_<br>
 
-Kelly Jo Minter _(Ruby)_
+Kelly Jo Minter _(Ruby)_<br>
 
-Jeremy Roberts _(Spenser)_
+Jeremy Roberts _(Spenser)_<br>
 
-Conni Marie Brazelton _(Mary)_
+Conni Marie Brazelton _(Mary)_<br>
 
-Joshua Cox _(young cop)_
+Joshua Cox _(young cop)_<br>
 
-John Hostetter _(veteran cop)_
+John Hostetter _(veteran cop)_<br>
 
-John Mahon _(police sergeant)_
+John Mahon _(police sergeant)_<br>
 
-Teresa Velarde _(social worker)_
+Teresa Velarde _(social worker)_<br>
 
-George Parker _(attic cop)_
+George Parker _(attic cop)_<br>
 
-Yan Birch _(stairmaster)_
+Yan Birch _(stairmaster)_<br>
 
 Wayne Daniels, Michael Kopelow _(stairpeople)_
 
@@ -205,5 +205,5 @@ USA 1991
 
 102 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDU1MjUyXX0=
+eyJoaXN0b3J5IjpbNjg3OTc0NTk2XX0=
 -->
