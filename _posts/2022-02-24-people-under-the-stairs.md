@@ -81,62 +81,35 @@ _Foley Artists_: Diane Marshall, Jerry Trent<br>
 _Foley Recordist_: Karen Roulo<br>
 _Stunt Co-ordinator_: Tony Cecere<br>
 _Stunts_: Linda Arvidson, Marian E. Green,  Kelsee Devoreaux, Beth Nufer, Sandy Gimpel, Paula Moody, Birgit K. Schier, Melvin Jones, Lori Lynn Ross, Eric Mansker, Dane Farwell, John Branagan, Dan Rycerz, Rex L. Waddell Jr, Lynn Salvatori, Jeff Habberstad, William R. Perry<br>
-
 _Stand-ins_: Wanda Welch, David Riggons, Julie Mondin, Sean Lemar, Roxanne 'Rocky' Meyers, Van Johnson<br>
-
 _Dolby Stereo Consultant_: Steve F.B. Smith<br>
-
 _Head Animal Trainers_: Roger Schumacher, Jim Dew<br>
-
 _Animal Trainer_: Angelo Rivers<br>
 
-_Cast_  
+**Cast**  
 Brandon Adams _(Poindexter ‘Fool’ Williams)_<br>
-
 Everett McGill _(man, ‘Daddy’)_<br>
-
 Wendy Robie _(woman, ‘Mummy’)_<br>
-
 A.J. Langer _(Alice)_<br>
-
 Ving Rhames _(Leroy)_<br>
-
 Sean Whalen _(Roach)_<br>
-
 Bill Cobbs _(Grandpapa Booker)_<br>
-
 Kelly Jo Minter _(Ruby)_<br>
-
 Jeremy Roberts _(Spenser)_<br>
-
 Conni Marie Brazelton _(Mary)_<br>
-
 Joshua Cox _(young cop)_<br>
-
 John Hostetter _(veteran cop)_<br>
-
 John Mahon _(police sergeant)_<br>
-
 Teresa Velarde _(social worker)_<br>
-
 George Parker _(attic cop)_<br>
-
 Yan Birch _(stairmaster)_<br>
-
 Wayne Daniels, Michael Kopelow _(stairpeople)_<br>
-
 Bubba, Schultz, Zeke _(Prince)_<br>
-
-Nick Cramer, Robert Michael, Earl Dax,
-
-David Robinson, Gregory Kavtzer, Daniel Windtree,
-
-Burton Pierce _(people under the stairs)_<br>
+Nick Cramer, Robert Michael, Earl Dax, David Robinson, Gregory Kavtzer, Daniel Windtree, Burton Pierce _(people under the stairs)_<br>
 
 USA 1991<br>
-
 102 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjEzNzE0XX0=
+eyJoaXN0b3J5IjpbMTI1NTY2ODM0NF19
 -->
