@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Ali & Ava
+published: true
+date: 2022-02-28
+readtime: true
+categories: ['WOMAN WITH A MOVIE CAMERA<br>POWERED BY JAGUAR']
+tags: [Drama]
+metadata: 'UK 2020, 94 mins<br> Director: Clio Barnard'
+pdf: '2022-02-28-ali-and-ava.pdf'
+---
 
 _+ Q&A with writer-director Clio Barnard and producer Tracy O’Riordan_
 
@@ -10,8 +20,7 @@ While making _The Arbor_ Barnard met and worked with Bradford actor, DJ and land
 
 ‘As a British-Bengali Muslim,’ says Kamal Kaan, ‘having lived and grown up in Bradford, I was keen to work with Clio on _Ali & Ava_, a story which reflects the positive experience of the city, countering the misrepresentation of Bradford, which is often portrayed as a divided, impoverished post-industrial city. For me Bradford offers a sanctuary of love, joy and a sense of rootedness to family.’
 
-‘To me the appeal of Clio’s projects is that they are organic and grow out of a strong connection to people and place,’ says Barnard’s longtime producer, Tracy O’Riordan. ‘The idea for _The Selfish Giant_ sprang out of _The Arbor_ – and in turn the idea for _Ali & Ava_ sprang out of _The Selfish Giant_; thereby cementing long-standing contributor relationships and brokering new ones, all within the Bradford community. In early discussions Clio and I talked a lot about music, love stories and comedy, especially once she began working with Adeel Akhtar, who we cast early on as Ali and who is a great comedic actor.  
-The process consisted of Bradford based interviews, research trips and workshops over a period of about two years in which the story started to take shape and evolved up to rehearsal and beyond. Clio is brilliant at listening, connecting and collaborating with people like Rio, Moey and Kamal – and that’s one of the most fulfilling parts of my job, to really get to know these inspiring people, and hear about the detail of their lives.’
+‘To me the appeal of Clio’s projects is that they are organic and grow out of a strong connection to people and place,’ says Barnard’s longtime producer, Tracy O’Riordan. ‘The idea for _The Selfish Giant_ sprang out of _The Arbor_ – and in turn the idea for _Ali & Ava_ sprang out of _The Selfish Giant_; thereby cementing long-standing contributor relationships and brokering new ones, all within the Bradford community. In early discussions Clio and I talked a lot about music, love stories and comedy, especially once she began working with Adeel Akhtar, who we cast early on as Ali and who is a great comedic actor.  The process consisted of Bradford based interviews, research trips and workshops over a period of about two years in which the story started to take shape and evolved up to rehearsal and beyond. Clio is brilliant at listening, connecting and collaborating with people like Rio, Moey and Kamal – and that’s one of the most fulfilling parts of my job, to really get to know these inspiring people, and hear about the detail of their lives.’
 
 Having met and gelled with _Four Lions_ star Adeel Akhtar, the script began to develop with him in mind as charismatic Bradford landlord, Ali. ‘I really love Adeel’s playful mind – he’s got an amazing imagination,’ says Barnard. ‘We built Ali together. I wrote a sketch for a story, we met, talked it through, then workshopped the idea together.’
 
@@ -73,6 +82,53 @@ UK 2020©<br>
 
 Courtesy of Altitude
 <br><br>
+
+<img style="float:left" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC"  width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br>**Woman with a Movie Camera is powered by Jaguar and generously supported by Jane Stanton**<br><br><br><br><br><br><br><br><br>
+
+**IN PERSON & PREVIEWS**<br>
+**Preview: Paper & Glue + pre-recorded Q&A with director JR**<br>
+Tue 1 Mar 18:00<br>
+**The Power of the Dog + Jane Campion in conversation with Noah Baumbach**<br>
+Tue 1 Mar 19:15<br>
+**GFF Opening Gala: The Outfit + pre-recorded Q&A with director Graham Moore and actor Mark Rylance**<br>
+Wed 2 Mar 20:20<br>
+**Preview: Rebel Dread + Q&A with Don Letts**<br>
+Thu 3 Mar 18:00<br>
+**Doctor Who: Revelation of the Daleks**<br>
+Sat 5 Mar 12:00<br> 
+**Mark Kermode Live in 3D at the BFI**<br>
+Mon 7 Mar 18:10<br>
+**Woman with a Movie Camera Preview: True Things + Q&A with Director Harry Wootliff**<br>
+Mon 7 Mar 20:35<br> 
+**Hive+ pre-recorded Q&A with filmmakers**<br>
+Tue 8 Mar 18:15<br>
+**TV Preview: Gentleman Jack Series 2 + Q&A with writer Sally Wainwright and actors Suranne Jones and Sophie Rundle**<br>
+Wed 9 Mar 18:10<br> 
+**GFF International Women’s Day Gala:  Happening (L’evenement) + Pre-recorded Q&A with Director Audrey Diwan**<br>
+Wed 9 Mar 20:40<br>
+**TV Preview: Inside No. 9 + Q&A with creators Reece Shearsmith and Steve Pemberton, and executive producer Adam Tandy**<br>
+Fri 11 Mar 20:40<br>
+**GFF Closing Gala: Murina**<br>
+Sun 13 Mar 19:00<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE3MDA3MzQ5NTFdfQ==
 -->
