@@ -25,93 +25,73 @@ Revisiting _The Selfish Giant_‘s Holmewood estate, the team also filmed at Ton
 
 That organic sensibility and being open to discovery while shooting characterises Barnard’s style and working method according to her cast. ‘From the very first moment Clio and I met to the workshops and then being on set – it's just a really generous, open, kind way of working,’ says Akhtar. ‘She’s just very interested in what _your_ understanding is.’ Rushbrook agrees, ‘Clio gives very well placed, pertinent notes, but all the time you feel that it’s coming organically from you and in doing that, you feel confident and liberated to be braver or let yourself feel more vulnerable, or try something leftfield... all the things that hopefully make performances a bit different. I think with a love story like this vulnerability and intimacy is required if you want it to be authentic, and that’s scary. But she makes you feel safe.’  
 **Production notes**
+<br><br>
 
+**ALI & AVA**<br>
+_Directed by:_ Clio Barnard<br>
+©: Avali Film Ltd, British Broadcasting Corporation, The British Film Institute<br>
+_a_ Moonspun Films _production_<br>
+_Presented by:_ BBC Film, BFI, Screen Yorkshire<br>
+_In association with:_ Altitude Film Entertainment<br>
+_Developed with the support of:_ BBC Film<br>
+_Made with the support of the_ BFI Film Fund,  BFI Locked Box Initiative<br>
+_Executive Producers:_ Rose Garnett,  Claudia Yusef, Lizzie Francke, Hugo Heppell, Caroline Cooper Charles, Will Clarke, Mike Runagall<br>
+_Produced by:_ Tracy O’Riordan<br>
+_Co-producer:_ Ameenah Ayub Allen<br>
+_Line Producer:_ Joanne Dixon<br>
+_Casting Director:_ Shaheen Baig<br>
+_1st Assistant Director:_ Tony Aherne<br>
+_Post-production Supervisor:_ Meg Clark<br>
+_Written by:_ Clio Barnard<br>
+_Script Consultant:_ Kamal Kaan<br>
+_Character Consultants:_ Moey Hassan, Rio<br>
+_Director of Photography:_ Ole Bratt Birkeland<br>
+_Editor:_ Maya Maffioli<br>
 
-**Ali & Ava**
+_Production Designer:_ Stéphane Collonge<br>
 
-_Directed by:_ Clio Barnard
+_Costume Designer:_ Sophie O’Neill<br>
 
-©: Avali Film Ltd, British Broadcasting Corporation, The British Film Institute
+_Hair and Make-up Designer:_ Fiona Lobo-Cranston<br>
 
-_a_ Moonspun Films _production_
+_Original Music:_ Harry Escott<br>
 
-_Presented by:_ BBC Film, BFI, Screen Yorkshire
+_Music Supervision:_ Connie Farr<br>
 
-_In association with:_ Altitude Film Entertainment
+_Production Sound Mixer:_ Rashad Hall-Heinz<br>
 
-_Developed with the support of:_ BBC Film
+_Re-recording Mixer:_ Martin Jensen<br>
 
-_Made with the support of the_ BFI Film Fund,  
-BFI Locked Box Initiative
+**Cast**<br>
 
-_Executive Producers:_ Rose Garnett,  
-Claudia Yusef, Lizzie Francke, Hugo Heppell, Caroline Cooper Charles, Will Clarke, Mike Runagall
+Adeel Akhtar _(Ali)_<br>
 
-_Produced by:_ Tracy O’Riordan
+Claire Rushbrook _(Ava)_<br>
 
-_Co-producer:_ Ameenah Ayub Allen
+Ellora Torchia _(Runa)_<br>
 
-_Line Producer:_ Joanne Dixon
+Shaun Thomas _(Callum)_<br>
 
-_Casting Director:_ Shaheen Baig
+Natalie Gavin _(Dawn)_<br>
 
-_1st Assistant Director:_ Tony Aherne
+Mona Goodwin _(Michelle)_<br>
 
-_Post-production Supervisor:_ Meg Clark
+Krupa Pattani _(Usma)_<br>
 
-_Written by:_ Clio Barnard
+Vinny Dhillon _(Jameela)_<br>
 
-_Script Consultant:_ Kamal Kaan
+Tasha Connor _(Karen)_<br>
 
-_Character Consultants:_ Moey Hassan, Rio
+Macy Shackleton _(Venice)_<br>
 
-_Director of Photography:_ Ole Bratt Birkeland
+Ariana Bodorova _(Sofia)_<br>
 
-_Editor:_ Maya Maffioli
-
-_Production Designer:_ Stéphane Collonge
-
-_Costume Designer:_ Sophie O’Neill
-
-_Hair and Make-up Designer:_ Fiona Lobo-Cranston
-
-_Original Music:_ Harry Escott
-
-_Music Supervision:_ Connie Farr
-
-_Production Sound Mixer:_ Rashad Hall-Heinz
-
-_Re-recording Mixer:_ Martin Jensen
-
-_Cast:_
-
-Adeel Akhtar _(Ali)_
-
-Claire Rushbrook _(Ava)_
-
-Ellora Torchia _(Runa)_
-
-Shaun Thomas _(Callum)_
-
-Natalie Gavin _(Dawn)_
-
-Mona Goodwin _(Michelle)_
-
-Krupa Pattani _(Usma)_
-
-Vinny Dhillon _(Jameela)_
-
-Tasha Connor _(Karen)_
-
-Macy Shackleton _(Venice)_
-
-Ariana Bodorova _(Sofia)_
-
-UK 2020©
+UK 2020©<br>
 
 94 mins
 
 Courtesy of Altitude
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc3MzMxMDVdfQ==
+eyJoaXN0b3J5IjpbLTIwNDc3MjMxNDVdfQ==
 -->
