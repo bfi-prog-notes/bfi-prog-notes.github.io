@@ -47,51 +47,32 @@ _Script Consultant:_ Kamal Kaan<br>
 _Character Consultants:_ Moey Hassan, Rio<br>
 _Director of Photography:_ Ole Bratt Birkeland<br>
 _Editor:_ Maya Maffioli<br>
-
 _Production Designer:_ Stéphane Collonge<br>
-
 _Costume Designer:_ Sophie O’Neill<br>
-
 _Hair and Make-up Designer:_ Fiona Lobo-Cranston<br>
-
 _Original Music:_ Harry Escott<br>
-
 _Music Supervision:_ Connie Farr<br>
-
 _Production Sound Mixer:_ Rashad Hall-Heinz<br>
-
 _Re-recording Mixer:_ Martin Jensen<br>
 
 **Cast**<br>
-
 Adeel Akhtar _(Ali)_<br>
-
 Claire Rushbrook _(Ava)_<br>
-
 Ellora Torchia _(Runa)_<br>
-
 Shaun Thomas _(Callum)_<br>
-
 Natalie Gavin _(Dawn)_<br>
-
 Mona Goodwin _(Michelle)_<br>
-
 Krupa Pattani _(Usma)_<br>
-
 Vinny Dhillon _(Jameela)_<br>
-
 Tasha Connor _(Karen)_<br>
-
 Macy Shackleton _(Venice)_<br>
-
 Ariana Bodorova _(Sofia)_<br>
 
 UK 2020©<br>
-
 94 mins
 
 Courtesy of Altitude
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDc3MjMxNDVdfQ==
+eyJoaXN0b3J5IjpbLTE3MDA3MzQ5NTFdfQ==
 -->
