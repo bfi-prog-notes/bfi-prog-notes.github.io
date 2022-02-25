@@ -56,7 +56,7 @@ Tuesday 26 April 18:15 NFT3
 
 
 **Relaxed screenings**<br>
-Relaxed screenings are presented each month for those in the neuro-diverse community, their assistants and carers.
+Relaxed screenings are presented each month for those in the neurodiverse community, their assistants and carers.
 
 <li>Customers can select their seats when they arrive in the auditorium. You may sit with your family/friendship group or there are some single seats if you prefer.
 
