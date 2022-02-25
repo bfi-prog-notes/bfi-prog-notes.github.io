@@ -25,30 +25,24 @@ Despite an emerging pattern of predatory and abusive behaviour towards young wom
 
 The 1947 press conference for _Monsieur Verdoux_ – Chaplin’s first film without the beloved Tramp – captures how far the public mood had shifted. Only a fragment of the audio recording had been archived but a long search led us to the original reels in a garage in San Francisco. The scene shows Chaplin under attack for his politics, for his rejection of patriotism, for failing the public. Meanwhile, Joan Barry’s highly publicised court cases against Chaplin – stage-managed by Hopper and the FBI – had brought his private life into the headlines once again. This time, the tide of public opinion finally turns against Chaplin, but the gruelling trials and media sensation have tragic consequences for Joan.
 
-Listening to these recordings, we began to picture the spaces they captured (Effie Wisdom’s kitchen in 1982, Chaplin’s Swiss home in 1966, the 1947 Press Conference in New York) as present tenses within the archival swirl of the film.  
-So we restaged these encounters, with our cast lip-synching to the original recordings. We were interested in using a variety of approaches to disrupt the conventional construction of a biographical documentary. The Tramp’s costume is a kind of collage of disparate elements, which we tried to mimic in the structure of the film. We were wary of settling into a single framework, which felt reductive for such a complex figure. ‘Enjoy any Charlie Chaplin you have the good luck to encounter,’ said Chaplin’s friend Max Eastman. ‘But don’t try to link them to anything you can grasp. There are too many of them.’
+Listening to these recordings, we began to picture the spaces they captured (Effie Wisdom’s kitchen in 1982, Chaplin’s Swiss home in 1966, the 1947 Press Conference in New York) as present tenses within the archival swirl of the film.  So we restaged these encounters, with our cast lip-synching to the original recordings. We were interested in using a variety of approaches to disrupt the conventional construction of a biographical documentary. The Tramp’s costume is a kind of collage of disparate elements, which we tried to mimic in the structure of the film. We were wary of settling into a single framework, which felt reductive for such a complex figure. ‘Enjoy any Charlie Chaplin you have the good luck to encounter,’ said Chaplin’s friend Max Eastman. ‘But don’t try to link them to anything you can grasp. There are too many of them.’
 
 These approaches are tied together by the voice of another South Londoner, our narrator Pearl Mackie, chasing these different Chaplins, real and counterfeit; rooting out imitators, impersonators and imposters. ‘Who is the real Charlie Chaplin?’, asked newspapers as the Chaplin Craze swept through America. He remains elusive, even to those closest to him. ‘I grew up with the icon,’ his daughter Jane told us, ‘but I had no idea who the man was’. Listening to Jane and her siblings Geraldine, Michael and Eugene, it was moving to hear Chaplin alive in their memories, still being reprocessed, still evading grasp.
 
-In the Tramp’s universe, nothing is stable, everything is temporary. Wherever he ends up at the end of the film – whether he’s rich or poor, under a roof or out on the road – it all disappears when the credits roll. As the next film begins, the world resets. And he looks at us, like we’re seeing him for the first time.
+In the Tramp’s universe, nothing is stable, everything is temporary. Wherever he ends up at the end of the film – whether he’s rich or poor, under a roof or out on the road – it all disappears when the credits roll. As the next film begins, the world resets. And he looks at us, like we’re seeing him for the first time.  
+**Production notes**
+<br><br>
 
-Production notes
-
-<![endif]-->
-
-**THE REAL CHARLIE CHAPLIN**
-
+**THE REAL CHARLIE CHAPLIN**  
 _Directed by_: Peter Middleton, James Spinney  
 ©: Manoir Productions Limited, The British Film Institute, Channel Four Television Corporation  
-_Production Companies_: Archer’s Mark,  
-Smaller Biggie, Passion Pictures  
+_Production Companies_: Archer’s Mark,  Smaller Biggie, Passion Pictures  
 _In association with_: Ventureland, Fee Fie Foe  
 _Supported by_: UK Global Screen Fund  
 _Presented by_: Film4, British Film Institute, Showtime Documentary Films  
 _Production Services (Location Crew Switzerland)_: Feit Films AG  
 _International Sales_: Altitude Film Sales Limited  
-_Produced by_: Ben Limberg, John Battsek,  
-Mike Brett, Steve Jamison, Jo-Jo Ellison  
+_Produced by_: Ben Limberg, John Battsek,  Mike Brett, Steve Jamison, Jo-Jo Ellison  
 _Archive Producer_: Paul Gardner  
 _Production Co-ordinator_: Lizzie March  
 _Production Accountant_: Anne Davin  
@@ -69,8 +63,7 @@ _Key Grip_: David Bradshaw
 _Editor_: Julian Quantrill  
 _Chaplin Archive Editor_: Anthony Ing  
 _Production Designer_: Neil Allum  
-_Art Director (Location Crew Switzerland)_:  
-Myriam Kaelin  
+_Art Director (Location Crew Switzerland)_:  Myriam Kaelin  
 _Standby Art Director_: Francesca Margaret Dufort  
 _Set Dressers_: Emma Hosking, Cat Findley  
 _Graphic Designer_: Liam Achaïbou  
@@ -86,8 +79,7 @@ _Piano_: Karl Larson
 _Lap Steel_: Robert Honstein  
 _Music Supervisor_: Bridget Samuels  
 _Music Editor_: Neil Stemp  
-_Original Music Recorded and Mixed by_:  
-Ryan Streber  
+_Original Music Recorded and Mixed by_:  Ryan Streber  
 _Sound Designer_: Joakim Sundström  
 _Sound Recordist_: Jassim Jaffer  
 _Sound Re-recording Mixer_: Per Boström  
@@ -96,8 +88,7 @@ _Sound Effects Editor_: Christer Melén
 _Foley Artist_: Julien Naudin  
 _Foley Mixer_: Patrick Ghislain
 
-_With:_
-
+**With**  
 Pearl Mackie _(narrator)_  
 Jeff Rawle _(Charlie Chaplin 1966)_  
 Paul Ryan _(Charlie Chaplin 1947)_  
@@ -110,13 +101,14 @@ Eben Young _(1st journalist)_
 Antony Eden _(2nd journalist)_  
 Haley Flaherty _(3rd journalist)_
 
-UK 2021
-
+UK 2021  
 114 mins
 
 An Altitude release
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTUxOTI4XX0=
+eyJoaXN0b3J5IjpbMTE3NTYwNjEyN119
 -->
