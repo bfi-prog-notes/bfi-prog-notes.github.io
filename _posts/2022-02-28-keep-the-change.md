@@ -24,13 +24,13 @@ This event will be led by Steven Eastwood, filmmaker and Professor of Film Pract
 
 
 **KEEP THE CHANGE**<br>
-_Director:_ Rachel Israel
-_With:_
-Brandon Polansky
-Samantha Elisofon
-Jessica Walter
-USA 2017
-94 mins
+_Director:_ Rachel Israel<br>
+_With:_<br>
+Brandon Polansky<br>
+Samantha Elisofon<br>
+Jessica Walter<br>
+USA 2017<br>
+94 mins<br>
 <br>
 
 <img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br>
