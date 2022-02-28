@@ -151,8 +151,8 @@ New Zealand/Australia 2021<br>
 _Courtesy of Netflix_<br>
 
 Presented in partnership with Directors UK. Directors UK is the professional association of UK screen directors. It is a membership organisation representing the creative, economic and contractual interests of nearly 8,000 members - the majority of working TV and film directors in the UK.<br>
-<img style="float:left" src="/img/UK_directors.jpg" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br><br>
+<img style="float:left" src="/img/UK_directors.png" width="30%" height="30%">
+<br><br><br><br><br><br><br><br>
 
 
 **IN PERSON & PREVIEWS**<br>
