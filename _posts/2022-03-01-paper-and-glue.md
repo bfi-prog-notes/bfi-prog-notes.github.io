@@ -52,19 +52,19 @@ Fri 4 Mar 17:50<br>
 **Doctor Who: Revelation of the Daleks**<br>
 Sat 5 Mar 12:00<br>
 **Mark Kermode Live in 3D at the BFI**<br>
-Mon 7 Mar 18:10
-**Woman with a Movie Camera Preview: True Things + Q&A with Director Harry Wootliff**
-Mon 7 Mar 20:35
-**Hive+ pre-recorded Q&A with filmmakers**
-Tue 8 Mar 18:15
-**TV Preview: Gentleman Jack Series 2 + Q&A with writer Sally Wainwright and actors Suranne Jones and Sophie Rundle**
-Wed 9 Mar 18:10
-**GFF International Women’s Day Gala: Happening (L’evenement) + Pre-recorded Q&A with Director Audrey Diwan**
-Wed 9 Mar 20:40
-**TV Preview: Inside No. 9 + Q&A with creators Reece Shearsmith and Steve Pemberton, and executive producer Adam Tandy**
-Fri 11 Mar 20:40
-**GFF Closing Gala: Murina**
-Sun 13 Mar 19:00
+Mon 7 Mar 18:10<br>
+**Woman with a Movie Camera Preview: True Things + Q&A with Director Harry Wootliff**<br>
+Mon 7 Mar 20:35<br>
+**Hive+ pre-recorded Q&A with filmmakers**<br>
+Tue 8 Mar 18:15<br>
+**TV Preview: Gentleman Jack Series 2 + Q&A with writer Sally Wainwright and actors Suranne Jones and Sophie Rundle**<br>
+Wed 9 Mar 18:10<br>
+**GFF International Women’s Day Gala: Happening (L’evenement) + Pre-recorded Q&A with Director Audrey Diwan**<br>
+Wed 9 Mar 20:40<br>
+**TV Preview: Inside No. 9 + Q&A with creators Reece Shearsmith and Steve Pemberton, and executive producer Adam Tandy**<br>
+Fri 11 Mar 20:40<br>
+**GFF Closing Gala: Murina**<br>
+Sun 13 Mar 19:00<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzQ0NTYzMywtMTg1Njg4NjcwOV19
+eyJoaXN0b3J5IjpbMjEyNDIyNzgxOSwtMTg1Njg4NjcwOV19
 -->
