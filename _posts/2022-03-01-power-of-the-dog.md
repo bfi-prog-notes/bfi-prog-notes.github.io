@@ -20,19 +20,16 @@ The camera lingers on Phil rubbing down Bronco’s saddle, and communing with hi
 Where it all ends up feels at once cathartic and surprising, a denouement readable as lurid poetic justice and profound tragedy (our ears somehow pricked along the way by the odd high horns in Jonny Greenwood’s score). Palpably curious about this environment, Campion again perches us on an edge of civilisation, as in _The Piano_ (indeed, a piano proves central to Rose’s struggles), one that is more secure yet stricken with its own unresolved tensions and violence.
 
 An early interior pan, tracking the world outside the Burbanks’ house through its windows, is echoed later on in a way that underlines how Campion has drawn out the instability at the heart of the American West’s handed-down myths of projected authority and all-consuming (yet often weirdly chaste) machismo. While the resolution of _The Power of the Dog_ puts a lid on things in a way many past Campion movies don’t, it’s a most welcome return to feature-filmmaking for her after two seasons of _Top of the Lake_ arcs.<br>
-**Nicolas Rapold, _Sight and Sound_, December 2021**
+**Nicolas Rapold, _Sight and Sound_, December 2021**<br>
 
-**THE POWER OF THE DOG**
-
+**THE POWER OF THE DOG**<br>
 _Directed by_: Jane Campion  
 _Production Companies_: See-Saw Films, Bad Girl Creek, Max Films  
 _In association with_: Brightstar  
 _Presented_: NetFlix  
 _In association with_: New Zealand Film Commission, Cross City Films, BBC Film  
 _Executive Producers_: Simon Gillis, Rose Garnett, John Woodward  
-_Produced by_: Jane Campion, Tanya Seghatchian, Emile Sherman,
-
-Iain Canning, Roger Frappier  
+_Produced by_: Jane Campion, Tanya Seghatchian, Emile Sherman, Iain Canning, Roger Frappier  
 _Co-producers_: Libby Sharpe, Chloe Smith  
 _Line Producer_: Chloe Smith  
 _Developed with the Assistance of_: Michelle Pearce  
@@ -101,9 +98,9 @@ _Stunt Co-ordinator_: Mark Harris
 _Dialect Coach US_: Joy Ellison  
 _Dialect Coach New Zealand_: Jim McClarty  
 _Horse Master_: Adrian Stent  
-_Publicist_: Tracey Mair
+_Publicist_: Tracey Mair<br>
 
-**Cast**
+**Cast**<br>
 Benedict Cumberbatch _(Phil Burbank)_  
 Kirsten Dunst _(Rose Gordon)_  
 Jesse Plemons _(George Burbank)_  
@@ -135,14 +132,14 @@ Karl Willetts _(Bill)_
 David T. Lim _(cook)_  
 Adam Beach _(Edward Nappo)_  
 Maeson Stone Skuggedal _(Edward Nappo’s son)_  
-Ian Harcourt _(undertaker assistant)_
+Ian Harcourt _(undertaker assistant)_<br>
 
-New Zealand/Australia 2021
-126 mins
+New Zealand/Australia 2021<br>
+126 mins<br>
 
-_Courtesy of Netflix_
+_Courtesy of Netflix_<br>
 
-Presented in partnership with Directors UK. Directors UK is the professional association of UK screen directors. It is a membership organisation representing the creative, economic and contractual interests of nearly 8,000 members - the majority of working TV and film directors in the UK.
+Presented in partnership with Directors UK. Directors UK is the professional association of UK screen directors. It is a membership organisation representing the creative, economic and contractual interests of nearly 8,000 members - the majority of working TV and film directors in the UK.<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzkyNjg4NjAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTkwNDgwMDkwOCw3MzA5OTgxMTZdfQ==
 -->
