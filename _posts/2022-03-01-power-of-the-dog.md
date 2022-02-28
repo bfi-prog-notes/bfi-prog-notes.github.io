@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Power of the Dog
+published: true
+date: 2022-03-01
+readtime: true
+categories: ['EVENTS & PREVIEWS']
+tags: [Drama, Western]
+metadata: 'New Zealand/Australia 2021, 126 mins<br> Director: Jane Campion'
+pdf: '2022-03-01-power-of-the-dog.pdf'
+---
 
 _Jane Campion in conversation with Noah Baumbach, presented in partnership with Directors UK._
 
@@ -140,6 +151,52 @@ New Zealand/Australia 2021<br>
 _Courtesy of Netflix_<br>
 
 Presented in partnership with Directors UK. Directors UK is the professional association of UK screen directors. It is a membership organisation representing the creative, economic and contractual interests of nearly 8,000 members - the majority of working TV and film directors in the UK.<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDgwMDkwOCw3MzA5OTgxMTZdfQ==
--->
+<img style="float:left" src="/img/UK Directors.jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br>
+
+
+**IN PERSON & PREVIEWS**<br>
+**Preview: Paper & Glue + prerecorded Q&A with director JR**<br>
+Tue 1 Mar 18:00<br>
+**The Power of the Dog+ Jane Campion in conversation with Noah Baumbach**<br>
+Tue 1 Mar 19:15<br>
+**GFF Opening Gala: The Outfit + pre-recorded Q&A with director Graham Moore and actor Mark Rylance**<br>
+Wed 2 Mar 20:20<br>
+**Preview: Rebel Dread + Q&A with Don Letts**<br>
+Thu 3 Mar 18:00<br>
+**Member Picks: Evita**<br>
+Fri 4 Mar 17:50<br>
+**Doctor Who: Revelation of the Daleks**<br>
+Sat 5 Mar 12:00<br>
+**Mark Kermode Live in 3D at the BFI**<br>
+Mon 7 Mar 18:10<br>
+**Woman with a Movie Camera Preview: True Things + Q&A with Director Harry Wootliff**<br>
+Mon 7 Mar 20:35<br>
+**Hive+ pre-recorded Q&A with filmmakers**<br>
+Tue 8 Mar 18:15<br>
+**TV Preview: Gentleman Jack Series 2 + Q&A with writer Sally Wainwright and actors Suranne Jones and Sophie Rundle**<br>
+Wed 9 Mar 18:10<br>
+**GFF International Women’s Day Gala: Happening (L’evenement) + Pre-recorded Q&A with Director Audrey Diwan**<br>
+Wed 9 Mar 20:40<br>
+**TV Preview: Inside No. 9 + Q&A with creators Reece Shearsmith and Steve Pemberton, and executive producer Adam Tandy**<br>
+Fri 11 Mar 20:40<br>
+**GFF Closing Gala: Murina**<br>
+Sun 13 Mar 19:00<br>
+<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
