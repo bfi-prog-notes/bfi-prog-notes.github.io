@@ -36,19 +36,21 @@ Through it all, Don seemed to know that becoming who you truly are means having 
 **William E. Badgley, Production notes**<br>
 
 **REBEL DREAD**<br>
-_Directed by__:_ William E. Badgley
-_Production Company:_ Molasses  Manifesto
+_Directed by_: William E. Badgley<br>
+_Production Company:_ Molasses  Manifesto<br>
 _Presented by:_ Hindsight  Media, Bohemia Media, Head Gear Films, Moviehouse Entertainment  
 _Executive Producers_: Don Letts, Compton Ross, Gary Phillips, Lucy Fenton, James Swarbick, Christos Michaels  
-_Produced by_: Phil Hunt, Mark Vennis
-_Associate Producer:_ Allyson Baker
-_Written by:_ William E. Badgley_Directors of Photography:_ Alasdair Oglivie, William E. Badgley  
-_Motion Graphics by__:_ Burak N. Kurt  
-_Edited by__:_ Eric Pritchard  
-_Original Score by__:_ Von Wildenhaus_  
-Music Supervisor:_ Samantha Simmons
+_Produced by_: Phil Hunt, Mark Vennis<br>
+_Associate Producer:_ Allyson Baker<br>
+_Written by:_ William E. Badgley<br>
+_Directors of Photography:_ Alasdair Oglivie, William E. Badgley  
+_Motion Graphics by_: Burak N. Kurt  
+_Edited by_: Eric Pritchard  
+_Original Score by_: Von Wildenhaus<br>
+_  Music Supervisor:_ Samantha Simmons<br>
 
-**With**Don Letts  
+**With**<br>
+Don Letts  
 Desmond Coy  
 Norman Jay  
 Andrea Oliver  
@@ -63,36 +65,23 @@ Paul Simonon
 Vivien Goldman  
 Greg Roberts  
 Dennis Bovell  
-Grace Letts
+Grace Letts<br>
 
-UK 2020
-
-86 mins
+UK 2020<br>
+86 mins<br>
 
 **IN PERSON & PREVIEWS**
-
 **Preview: Rebel Dread + Q&A with Don Letts**
-
 Thu 3 Mar 18:00
-
 **Member Picks: Evita**
-
 Fri 4 Mar 17:50
-
 **Doctor Who: Revelation of the Daleks**
-
 Sat 5 Mar 12:00
-
 **Mark Kermode Live in 3D at the BFI**
-
 Mon 7 Mar 18:10
-
 **Woman with a Movie Camera Preview: True Things + Q&A with Director Harry Wootliff**
-
 Mon 7 Mar 20:35
-
 **Hive+ pre-recorded Q&A with filmmakers**
-
 Tue 8 Mar 18:15
 
 **TV Preview: Gentleman Jack Series 2 + Q&A with writer Sally Wainwright and actors Suranne Jones and Sophie Rundle**
@@ -133,5 +122,5 @@ Tue 8 Mar 18:00
 
 Thu 10 Mar 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzAwMDY3OV19
+eyJoaXN0b3J5IjpbLTExODI2MjA2MTNdfQ==
 -->
