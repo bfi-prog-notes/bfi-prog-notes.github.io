@@ -70,57 +70,39 @@ Grace Letts<br>
 UK 2020<br>
 86 mins<br>
 
-**IN PERSON & PREVIEWS**
-**Preview: Rebel Dread + Q&A with Don Letts**
-Thu 3 Mar 18:00
-**Member Picks: Evita**
-Fri 4 Mar 17:50
-**Doctor Who: Revelation of the Daleks**
-Sat 5 Mar 12:00
-**Mark Kermode Live in 3D at the BFI**
-Mon 7 Mar 18:10
-**Woman with a Movie Camera Preview: True Things + Q&A with Director Harry Wootliff**
-Mon 7 Mar 20:35
-**Hive+ pre-recorded Q&A with filmmakers**
-Tue 8 Mar 18:15
+**IN PERSON & PREVIEWS**<br>
+**Preview: Rebel Dread + Q&A with Don Letts**<br>
+Thu 3 Mar 18:00<br>
+**Member Picks: Evita**<br>
+Fri 4 Mar 17:50<br>
+**Doctor Who: Revelation of the Daleks**<br>
+Sat 5 Mar 12:00<br>
+**Mark Kermode Live in 3D at the BFI**<br>
+Mon 7 Mar 18:10<br>
+**Woman with a Movie Camera Preview: True Things + Q&A with Director Harry Wootliff**<br>
+Mon 7 Mar 20:35<br>
+**Hive+ pre-recorded Q&A with filmmakers**<br>
+Tue 8 Mar 18:15<br>
+**TV Preview: Gentleman Jack Series 2 + Q&A with writer Sally Wainwright and actors Suranne Jones and Sophie Rundle**<br>
+Wed 9 Mar 18:10<br>
+**GFF International Women’s Day Gala: Happening (L’evenement) + Pre-recorded Q&A with Director Audrey Diwan**<br>
+Wed 9 Mar 20:40<br>
+**TV Preview: Inside No. 9 + Q&A with creators Reece Shearsmith and Steve Pemberton, and executive producer Adam Tandy**<br>
+Fri 11 Mar 20:40<br>
+**GFF Closing Gala: Murina**<br>
+Sun 13 Mar 19:00<br>
 
-**TV Preview: Gentleman Jack Series 2 + Q&A with writer Sally Wainwright and actors Suranne Jones and Sophie Rundle**
-
-Wed 9 Mar 18:10
-
-**GFF International Women’s Day Gala: Happening (L’evenement) + Pre-recorded Q&A with Director Audrey Diwan**
-
-Wed 9 Mar 20:40
-
-**TV Preview: Inside No. 9 + Q&A with creators Reece Shearsmith and Steve Pemberton, and executive producer Adam Tandy**
-
-Fri 11 Mar 20:40
-
-**GFF Closing Gala: Murina**
-
-Sun 13 Mar 19:00
-
-**REGULAR PROGRAMME**
-
-**Projecting the Archive: A Question of Adultery + intro by BFI Curator Josephine Botting**
-
-Tue 1 Mar 18:20
-
-**African Odysseys: From the Caribbean to West Africa: Edric Connor’s Travelogues**
-
-Sun 6 Mar 14:00-16:30
-
-**Silent Cinema: The Joker (Jokeren) + intro by BFI Curator Bryony Dixon**
-
-Sun 6 Mar 15:00
-
-**Experimenta: Ticket of No Return + pre-recorded intro remembering Tabea Blumenschein with Ulrike Ottinger**
-
-Tue 8 Mar 18:00
-
-**Film Wallahs: The Beatles and India + intro by co-director Pete Compton and producer Reynold D’Silva**
-
-Thu 10 Mar 18:15
+**REGULAR PROGRAMME**<br>
+**Projecting the Archive: A Question of Adultery + intro by BFI Curator Josephine Botting**<br>
+Tue 1 Mar 18:20<br>
+**African Odysseys: From the Caribbean to West Africa: Edric Connor’s Travelogues**<br>
+Sun 6 Mar 14:00-16:30<br>
+**Silent Cinema: The Joker (Jokeren) + intro by BFI Curator Bryony Dixon**<br>
+Sun 6 Mar 15:00<br>
+**Experimenta: Ticket of No Return + pre-recorded intro remembering Tabea Blumenschein with Ulrike Ottinger**<br>
+Tue 8 Mar 18:00<br>
+**Film Wallahs: The Beatles and India + intro by co-director Pete Compton and producer Reynold D’Silva**<br>
+Thu 10 Mar 18:15<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI2MjA2MTNdfQ==
+eyJoaXN0b3J5IjpbLTgwMzU5MDU5N119
 -->
