@@ -1,3 +1,14 @@
+---
+layout: post
+title: Rebel Dread + Q&A
+published: true
+date: 2022-03-03
+readtime: true
+categories: ['PREVIEW']
+tags: [Documentary, Music]
+metadata: 'UK 2020, 86 mins<br> Director: William E. Badgley'
+pdf: '2022-03-02-42nd-Street.pdf'
+---
 
 _+ Q&A with Don Letts_
 
@@ -36,18 +47,18 @@ Through it all, Don seemed to know that becoming who you truly are means having 
 **William E. Badgley, Production notes**<br>
 
 **REBEL DREAD**<br>
-_Directed by_: William E. Badgley<br>
+_Directed by:_ William E. Badgley<br>
 _Production Company:_ Molasses  Manifesto<br>
 _Presented by:_ Hindsight  Media, Bohemia Media, Head Gear Films, Moviehouse Entertainment  
-_Executive Producers_: Don Letts, Compton Ross, Gary Phillips, Lucy Fenton, James Swarbick, Christos Michaels  
-_Produced by_: Phil Hunt, Mark Vennis<br>
+_Executive Producers:_ Don Letts, Compton Ross, Gary Phillips, Lucy Fenton, James Swarbick, Christos Michaels  
+_Produced by:_ Phil Hunt, Mark Vennis<br>
 _Associate Producer:_ Allyson Baker<br>
 _Written by:_ William E. Badgley<br>
 _Directors of Photography:_ Alasdair Oglivie, William E. Badgley  
-_Motion Graphics by_: Burak N. Kurt  
-_Edited by_: Eric Pritchard  
-_Original Score by_: Von Wildenhaus<br>
-_  Music Supervisor:_ Samantha Simmons<br>
+_Motion Graphics by:_ Burak N. Kurt  
+_Edited by:_ Eric Pritchard  
+_Original Score by:_ Von Wildenhaus<br>
+_Music Supervisor:_ Samantha Simmons<br>
 
 **With**<br>
 Don Letts  
@@ -103,6 +114,20 @@ Sun 6 Mar 15:00<br>
 Tue 8 Mar 18:00<br>
 **Film Wallahs: The Beatles and India + intro by co-director Pete Compton and producer Reynold D’Silva**<br>
 Thu 10 Mar 18:15<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzU5MDU5N119
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
