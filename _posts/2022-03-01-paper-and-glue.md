@@ -1,3 +1,14 @@
+---
+layout: post
+title: Paper & Glue
+published: true
+date: 2022-03-01
+readtime: true
+categories: ['EVENTS & PREVIEWS']
+tags: [Documentary]
+metadata: 'USA 2021, 95 mins<br> Director: JR'
+pdf: '2022-03-01-paper-and-glue.pdf'
+---
 
 _+ pre-recorded Q&A with director JR_
 
@@ -10,7 +21,7 @@ _Paper & Glue_ is a film that challenges viewers’ perceptions by lifting the v
 
 To have my work come full circle exemplifies the power of film, and the power of _Paper & Glue_. I hope this film further uplifts the essentiality of art and the potential it holds to reshape even our most ingrained beliefs. By challenging our expectations of people and places, I hope to change our greater perceptions of the world.
 
-**Keiko Deguchi (Editor) on ‘Paper & Glue’**
+**Keiko Deguchi (Editor) on ‘Paper & Glue’**<br>
 I have always been fascinated by the artistic process, so working on this film was pure joy for me. JR has amassed a vast archive of his work over the past twenty years, and what I especially enjoyed about watching the archive was seeing how his art affected his subjects, particularly marginalised people, and witnessing their pride and joy. It was infectious as I screened the raw material.
 
 My hope was to create a film that condenses those feelings and weaves them into a coherent feature-length film. Due to Covid-19, we couldn’t do as much new shooting as we initially planned, so we relied heavily on the archive. Fortunately, the archive had many precious moments, such as when Rosiete from the favela in Brazil sees herself on the wall of a prestigious museum in Rio, or when the inmate in Tehachapi realises that the important part of art is the process.
@@ -65,6 +76,21 @@ Wed 9 Mar 20:40<br>
 Fri 11 Mar 20:40<br>
 **GFF Closing Gala: Murina**<br>
 Sun 13 Mar 19:00<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDIyNzgxOSwtMTg1Njg4NjcwOV19
--->
+<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
