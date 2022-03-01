@@ -33,23 +33,18 @@ In fact, skateboarding seems to operate as an emancipatory catalyst for those in
 _Skate Kitchen_ does so by testing the parameters of filmmaking. It’s not entirely a documentation of skate culture, yet the majority of the film’s cast are skilled skaters with hardly any acting experience. This vérité-like approach renders _Skate Kitchen_ daring and timely. By stretching the limits of fiction film, Moselle challenges the conventions of coming-of-age stories, whilst proposing an alternative to skateboarding as a homogenous, masculine subculture.
 
 If anything, then, _Skate Kitchen_ works towards a diverse spectrum of _skateboardings_. This is exceptional within the skate world, let alone cinema. Over the past couple of decades, cinema has fetishised skateboarding as a masculine and turbulent counterculture. _Skate Kitchen_ calls out the toxic consequences of such an approach, echoing recent progressive movements within skate culture. But above all, it’s a tale of mild optimism: skateboarding is slowly changing for the better, and perhaps cinema can, too.  
-**Sander Hölsgens, _Sight & Sound_, bfi.org.uk, 2018
+**Sander Hölsgens, _Sight & Sound_, bfi.org.uk, 2018**
+<br><br>
 
-<![endif]-->
-
-**Skate Kitchen**
-
+**SKATE KITCHEN**  
 _Directed by_: Crystal Moselle  
 ©: Skate Girl Film LLC  
-_Filmed with the support of_:  
-New York State Governor’s Office for Motion Picture and Television Development  
+_Filmed with the support of_:  New York State Governor’s Office for Motion Picture and Television Development  
 _This production participated in_: New York State Governor’s Office for Motion Picture and Television Development Post Production Credit Program  
-_Presented by_: Bow and Arrow Entertainment,  
-RT Features  
+_Presented by_: Bow and Arrow Entertainment,  RT Features  
 _In association with_: Pulse Films, Kotva Films  
 _Sales Agent_: United Talent Agency  
-_Executive Producers_: Lourenço Sant’Anna,  
-Sophie Mas, Thomas Benski  
+_Executive Producers_: Lourenço Sant’Anna,  Sophie Mas, Thomas Benski  
 _Produced by_: Lizzie Nastro, Izabella Tzenkova, Crystal Moselle, Julia Nottingham, Rodrigo Teixeira, Michael Sherman, Matthew Perniciaro  
 _Co-producer_: Alliah Sophia Mourad  
 _Line Producer_: Tyler Ben-Amotz  
@@ -57,8 +52,7 @@ _Executive for Pulse Films_: Oskar Pilmott
 _Unit Production Manager_: Andrew Krasniak  
 _Production Supervisor_: Suzie Jozkowski  
 _Assistant Production Co-ordinator_: Jordan Sirek  
-_Production Accountants_: Lilly Silbert,  
-Cynthia Lerner  
+_Production Accountants_: Lilly Silbert,  Cynthia Lerner  
 _Location Managers_: Jordan Alexander, Philip Prince  
 _Assistant Location Managers_: James Digiacomo, Logan Bonilla  
 _Post Supervisor_: Samuel Gursky  
@@ -88,16 +82,14 @@ _Production Design by_: Fletcher Chancey
 _Art Director_: Ramsey Scott  
 _Set Decorators:_ Britni West, Nora Mendis  
 _Leadperson_: Winston Willingham  
-_Set Dresser_: Henry Boit, Mukunda Angulo,  
-Mia Byrnes Ardito, Jordan Peak, Anthony Reyes  
+_Set Dresser_: Henry Boit, Mukunda Angulo,  Mia Byrnes Ardito, Jordan Peak, Anthony Reyes  
 _On-set Dresser_: Maddy Sadowski  
 _Illustrations by_: Henry Boit  
 _Property Master_: Stephen Phelps  
 _Construction_: Sean Ennis  
 _Costume Design by_: Camille Garmendia  
 _Key Costumer_: Maria Mladenova  
-_Costumers_: Mariana Guerrero,  
-Heather Luscombe, Hannah Lacava  
+_Costumers_: Mariana Guerrero,  Heather Luscombe, Hannah Lacava  
 _Co-key Make-up_: Anouck Sullivan, Kristen Alimena  
 _Key Hair Stylist_: Naomi Raddatz  
 _Assistant Hair Stylists_: Lia Parks, Arielle Williams  
@@ -120,8 +112,8 @@ _Stunt Co-ordinator_: Drew Leary
 _Acting Coach_: Zoey Martinson  
 _Cultural Interpreter_: Alexander Cooper  
 _Dialect Coach_: Mariana Martin Capriles  
-_Cast:_
 
+**Cast**  
 Rachelle Vinberg _(Camille)_  
 Dede Lovelace _(Janay)_  
 Nina Moran _(Kurt)_  
@@ -146,8 +138,7 @@ Malachia Omega _(Isaiah)_
 Anne Carney _(Dr Hunter)_  
 Samuel Smith _(security guard 1)_  
 Thaddeus Daniels _(security guard 2)_  
-Josephine Ventress, Maya Mamak_  
-(kissing girls at party)_  
+Josephine Ventress, Maya Mamak _(kissing girls at party)_  
 Alliah Sophia Mourad _(hot woman)_  
 Aristo Ambatzidis _(UPS delivery man)_  
 Darlene Violette _(customer)_  
@@ -169,5 +160,5 @@ USA/Brazil/UK 2017©
 
 106 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTU0MDM1NzFdfQ==
+eyJoaXN0b3J5IjpbNzgwNjk2MF19
 -->
