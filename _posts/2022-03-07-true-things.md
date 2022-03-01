@@ -38,29 +38,23 @@ Wilson’s first major TV role in the BBC’s 2006 miniseries _Jane Eyre_ earned
 
 Film performances have seen Wilson work with a range of directors including Lenny Abrahamson, Gore Verbinski, Joe Wright, John Cameron Mitchell and Steven Knight. For _Dark River_, directed by Clio Barnard, Wilson received a BIFA Best Actress nomination. Most recently she appeared in the Emmy-nominated HBO film _Oslo_, directed by Bartlett Sher and produced by Steven Spielberg and Marc Platt.
 
-Wilson is a mainstay on the London and Broadway stages and the recipient of three Olivier Award nominations and two Tony Award nominations. Most recently, the Broadway production of _King Lear_ saw her play both Cordelia and The Fool opposite Glenda Jackson. In 2013 Wilson made her debut as a theatre director with _The El Train,_ a series of Eugene O’Neill one-act plays performed at  
-Hoxton Hall.
+Wilson is a mainstay on the London and Broadway stages and the recipient of three Olivier Award nominations and two Tony Award nominations. Most recently, the Broadway production of _King Lear_ saw her play both Cordelia and The Fool opposite Glenda Jackson. In 2013 Wilson made her debut as a theatre director with _The El Train,_ a series of Eugene O’Neill one-act plays performed at  Hoxton Hall.
 
 In 2020 Wilson set up her production company, Lady Lazarus. _True Things_ is the first film to be made under the Lady Lazarus umbrella. Other projects include TV and film productions in partnership with HBO and The Ink Factory.
 
 **Tom Burke** was most recently seen in Netflix’s highly acclaimed series  
 _The Crown_, opposite Helena Bonham Carter, and as Orson Welles in David Fincher’s Oscar-nominated feature _Mank_. Prior to that, he played the lead role of Anthony in Joanna Hogg’s feature _The Souvenir_, which won the World Cinema Grand Jury Prize: Dramatic at Sundance 2019 and for which he was nominated for a BIFA and a Critics’ Circle Award for Best Actor. Other recent credits include onstage as John Rosmer in _Rosmerholm, The Deep Blue Sea_ at The National Theatre; the BBC mini-series _War and Peace_; and as Athos in _The Musketeers_ also for the BBC. Upcoming releases include the independent feature _Klokkenluider_; Sky’s _Extinction_ opposite Paapa Essiedu; and Alan Moore’s _The Show._ Tom is currently filming Sebastian Lelio’s _The Wonder_ opposite Florence Pugh for Netflix, and will shortly be seen reprising his role as Cormoran Strike in the next instalment of JK Rowling’s acclaimed series for the BBC, opposite Holliday Grainger.
 
-Production notes
+**Production notes**
+<br><br>
 
-<![endif]-->
-
-**True Things**
-
+**TRUE THINGS**  
 _Directed by_: Harry Wootliff  
-©: BBC, The British Film Institute,  
-True Things Films Ltd  
-_A production from_: Lady Lazarus, Riff Raff UK,  
-The Bureau  
+©: BBC, The British Film Institute,  True Things Films Ltd  
+_A production from_: Lady Lazarus, Riff Raff UK,  The Bureau  
 _Presented by_: BBC Films, BFI  
 _Executive Producers_: Rose Garnett, Eva Yates, Lizzie Francke, Vincent Gadelle  
-_Produced by_: Tristan Goligher, Ruth Wilson,  
-Ben Jackson, Jude Law  
+_Produced by_: Tristan Goligher, Ruth Wilson,  Ben Jackson, Jude Law  
 _Line Producer_: Eimhear McMahon  
 _Production Co-ordinator_: Elena Santamaria  
 _Production Accountant_: Habib Rahman  
@@ -73,11 +67,9 @@ _Casting Director_: Kahleen Crawford
 _Written by_: Harry Wootliff, Molly Davies  
 _Based on the book_ True Things About Me _by_: Deborah Kay Davies  
 _Director of Photography_: Ashley Connor  
-_Steadicam Operators_: Stamos Triantafyllo,  
-Henry Landgrebe, Svetlana Miko  
+_Steadicam Operators_: Stamos Triantafyllo,  Henry Landgrebe, Svetlana Miko  
 _1st Assistant Camera_: Dave Pearce  
-_2nd Assistant Camera_: Piotr Perliński,  
-Ania Bahadrian  
+_2nd Assistant Camera_: Piotr Perliński,  Ania Bahadrian  
 _VFX by_: Ghost VFX UK  
 _Special Effects_: SPFX Ltd.  
 _Editor_: Tim Fulford  
@@ -91,14 +83,12 @@ _Main Titles by_: Alphabet
 _End Roller by_: Endcrawl  
 _Composer_: Alex Baranowski  
 _Music Supervisor_: Connie Farr  
-_Production Sound Mixers_: William Whale,  
-Steve Haywood  
+_Production Sound Mixers_: William Whale,  Steve Haywood  
 _Sound Re-recording Mixer_: Per Boström  
 _Supervising Sound Editor_: Joakim Sundström  
 _Stunt Co-ordinator_: Paul Heasman
 
-_Cast:_
-
+**Cast**  
 Ruth Wilson _(Kate)_  
 Tom Burke _(Blond)_  
 Hayley Squires _(Alison)_  
@@ -115,11 +105,11 @@ Jordan John _(party man 2)_
 Arthur Cull _(man on beach)_  
 Alice Snow _(kitchen demonstrator)_
 
-UK 2021
-
+UK 2021  
 102 mins
 
 Courtesy of Picturehouse Entertainment
+
 
 <img style="float:left" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC"  width="40%" height="40%">
 <br><br><br><br><br><br><br><br><br><br>**Woman with a Movie Camera is powered by Jaguar and generously supported by Jane Stanton**<br><br><br><br><br><br><br><br><br>
@@ -153,5 +143,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Nzg1NDIzNF19
+eyJoaXN0b3J5IjpbLTE5NjYyMjMyMjVdfQ==
 -->
