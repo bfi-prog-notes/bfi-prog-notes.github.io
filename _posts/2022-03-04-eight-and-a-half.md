@@ -41,93 +41,93 @@ _Assistant Costumes:_ Orietta Nasalli Rocca<br>
 _Wardrobe Mistress:_ Clara Poggi<br>
 _Key Make-up:_ Otello Fava<br>
 _Hairstyles:_ Renata Magnanti<br>
-_Hairdressers:_ Eugenia Filippo<br>
+_Hairdressers:_ Eugenia, Filippo<br>
 _Colour Grader:_ Enzo Verzini<br>
 _Music:_ Nino Rota<br>
 _Sound:_ Mario Faraoni, Alberto Bartolomei<br>
-_Music Publisher:_ CAM
-_Prints/Processing:_ Istituto Nazionale LUCE
-_Negatives:_ Dupont
-_Studio:_ Titanus-Appia
+_Music Publisher:_ CAM<br>
+_Prints/Processing:_ Istituto Nazionale LUCE<br>
+_Negatives:_ Dupont<br>
+_Studio:_ Titanus-Appia<br>
 
-_uncredited_
-_Still Photographer:_ Tazio Secchiaroli
+_uncredited_<br>
+_Still Photographer:_ Tazio Secchiaroli<br>
 
-**Cast**
-Marcello Mastroianni _(Guido Anselmi, the director)_
-Claudia Cardinale _(Claudia, the star-actress)_
-Anouk Aimée _(Luisa Anselmi, Guido’s wife)_
-Sandra Milo _(Carla, Guido’s mistress)_
-Rossella Falk _(Rossella, Luisa’s friend)_
-Barbara Steele _(Gloria Morin, Mario’s fiancée)_
-Madeleine LeBeau _(Madeleine, French actress)_
-Caterina Boratto _(unnamed woman in harem)_
-Edra Gale _(La Saraghina)_
-Guido Alberti _(Commendatore Pace, the producer)_
-Mario Conocchia _(Conocchia, production manager)_
-Bruno Agostini _(Agostini, 2nd production secretary)_
-Cesare Miceli Picardi _(Cesarino, 1st production secretary)_
-Jean Rougeul _(Fabrizio Carini, film critic)_
-Mario Pisu _(Mario Mezzabotta, Gloria’s friend)_
-Yvonne Casadei _(Jacqueline Bon Bon, ageing soubrette)_
-Ian Dallas _(Maurice, the mind-reader)_
-Mino Doro _(Claudia’s agent, ‘Super Tarzan’)_
-Nadine Sanders _(Nadine, air hostess)_
-Georgia Simmons _(Guido’s grandmother)_
-Hedy Vessel _(Hedy, harem woman with costume changes)_
-Tito Masini _(the cardinal)_
-Annie Gorassini _(Pace’s girlfriend)_
-Rossella Como _(Tilde, Luisa & Rossella’s friend)_
-Mark Herron _(Luisa’s timid admirer)_
-Marisa Colomber _(Guido’s aunt)_
-Neil Robinson _(French actress’s agent)_
-Elisabetta Catalano _(Luisa’s sister)_
-Eugene Walter _(American journalist)_
-Hazel Rogers _(dancer in Guido’s harem)_
-Gilda Dahlberg _(American journalist’s wife)_
-Mario Tarchetti _(Poletti, Claudia’s press representative)_
-Mary Indovino _(Maya, mind-reader’s partner)_
-Frazier Rippy _(the cardinal’s lay secretary)_
-Francesco Rigamonti _(Enrico, Luisa’s friend)_
-Giulio Paradisi _(friend)_
-Marco Gemini _(Guido as a boy at school)_
-Giuditta Rissone _(Guido’s mother)_
+**Cast**<br>
+Marcello Mastroianni _(Guido Anselmi, the director)_<br>
+Claudia Cardinale _(Claudia, the star-actress)_<br>
+Anouk Aimée _(Luisa Anselmi, Guido’s wife)_<br>
+Sandra Milo _(Carla, Guido’s mistress)_<br>
+Rossella Falk _(Rossella, Luisa’s friend)_<br>
+Barbara Steele _(Gloria Morin, Mario’s fiancée)_<br>
+Madeleine LeBeau _(Madeleine, French actress)_<br>
+Caterina Boratto _(unnamed woman in harem)_<br>
+Edra Gale _(La Saraghina)_<br>
+Guido Alberti _(Commendatore Pace, the producer)_<br>
+Mario Conocchia _(Conocchia, production manager)_<br>
+Bruno Agostini _(Agostini, 2nd production secretary)_<br>
+Cesare Miceli Picardi _(Cesarino, 1st production secretary)_<br>
+Jean Rougeul _(Fabrizio Carini, film critic)_<br>
+Mario Pisu _(Mario Mezzabotta, Gloria’s friend)_<br>
+Yvonne Casadei _(Jacqueline Bon Bon, ageing soubrette)_<br>
+Ian Dallas _(Maurice, the mind-reader)_<br>
+Mino Doro _(Claudia’s agent, ‘Super Tarzan’)_<br>
+Nadine Sanders _(Nadine, air hostess)_<br>
+Georgia Simmons _(Guido’s grandmother)_<br>
+Hedy Vessel _(Hedy, harem woman with costume changes)_<br>
+Tito Masini _(the cardinal)_<br>
+Annie Gorassini _(Pace’s girlfriend)_<br>
+Rossella Como _(Tilde, Luisa & Rossella’s friend)_<br>
+Mark Herron _(Luisa’s timid admirer)_<br>
+Marisa Colomber _(Guido’s aunt)_<br>
+Neil Robinson _(French actress’s agent)_<br>
+Elisabetta Catalano _(Luisa’s sister)_<br>
+Eugene Walter _(American journalist)_<br>
+Hazel Rogers _(dancer in Guido’s harem)_<br>
+Gilda Dahlberg _(American journalist’s wife)_<br>
+Mario Tarchetti _(Poletti, Claudia’s press representative)_<br>
+Mary Indovino _(Maya, mind-reader’s partner)_<br>
+Frazier Rippy _(the cardinal’s lay secretary)_<br>
+Francesco Rigamonti _(Enrico, Luisa’s friend)_<br>
+Giulio Paradisi _(friend)_<br>
+Marco Gemini _(Guido as a boy at school)_<br>
+Giuditta Rissone _(Guido’s mother)_<br>
 Annibale Ninchi _(Guido’s father)_<br>
 
-_uncredited_
-John Karlsen _(man in car/priest on beach)_
-Roberto Nicolosi _(doctor 1)_
-Alfredo De La Feld _(the cardinal’s 1st secretary)_
-Sebastiano Di Leandro _(the cardinal’s 2nd secretary)_
-Palma Mangini _(ageing relative from the country)_
-John Stacy _(the production accountant)_
-Riccardo Guglielmi _(Guido as a little boy)_
-Roberta Valli _(old man’s grandchild)_
-Maria Raimondi _(Guido’s 2nd aunt)_
-Eva Gioia _(Eva, girl in Cesarino’s bed)_
-Dina De Santis _(Dina, girl in Cesarino’s bed)_
-Maria Tedeschi _(school principal)_
-Luciana Sanseverino _(patient taking waters at the spa)_
-Luciano Bonanni _(fakir Siva announcer)_
-Olimpia Cavalli _(Miss Olympia in screen test)_
-Maria Antonietta Beluzzi _(screen test candidate for La Saraghina)_
-Matilda Calnan _(elderly journalist)_
-Ferdinando Guillaume _(clown in parade)_
-Elisabetta Cini _(the cardinal in sketches)_
-Valentina Lang
-Annarosa Lattuada
-Agnese Bonfanti
-Flaminia Torlonia
-Anna Carimini
-Maria Wertmüller
-Giulio Calí _(man with mushrooms)_
-Antonio Acqua
-Sonia Gessner
-Edward Flemming
-John Francis Lane
+_uncredited_<br>
+John Karlsen _(man in car/priest on beach)_<br>
+Roberto Nicolosi _(doctor 1)_<br>
+Alfredo De La Feld _(the cardinal’s 1st secretary)_<br>
+Sebastiano Di Leandro _(the cardinal’s 2nd secretary)_<br>
+Palma Mangini _(ageing relative from the country)_<br>
+John Stacy _(the production accountant)_<br>
+Riccardo Guglielmi _(Guido as a little boy)_<br>
+Roberta Valli _(old man’s grandchild)_<br>
+Maria Raimondi _(Guido’s 2nd aunt)_<br>
+Eva Gioia _(Eva, girl in Cesarino’s bed)_<br>
+Dina De Santis _(Dina, girl in Cesarino’s bed)_<br>
+Maria Tedeschi _(school principal)_<br>
+Luciana Sanseverino _(patient taking waters at the spa)_<br>
+Luciano Bonanni _(fakir Siva announcer)_<br>
+Olimpia Cavalli _(Miss Olympia in screen test)_<br>
+Maria Antonietta Beluzzi _(screen test candidate for La Saraghina)_<br>
+Matilda Calnan _(elderly journalist)_<br>
+Ferdinando Guillaume _(clown in parade)_<br>
+Elisabetta Cini _(the cardinal in sketches)_<br>
+Valentina Lang<br>
+Annarosa Lattuada<br>
+Agnese Bonfanti<br>
+Flaminia Torlonia<br>
+Anna Carimini<br>
+Maria Wertmüller<br>
+Giulio Calí _(man with mushrooms)_<br>
+Antonio Acqua<br>
+Sonia Gessner<br>
+Edward Flemming<br>
+John Francis Lane<br>
 
 Italy/France 1963<br>
 138 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc0NzQ3MDldfQ==
+eyJoaXN0b3J5IjpbLTE3NDYxNTg2NTNdfQ==
 -->
