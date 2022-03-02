@@ -108,7 +108,7 @@ UK 2021
 102 mins
 
 Courtesy of Picturehouse Entertainment
-
+ and actor Ruth Wilson_
 
 <img style="float:left" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC"  width="40%" height="40%">
 <br><br><br><br><br><br><br><br><br><br>**Woman with a Movie Camera is powered by Jaguar and generously supported by Jane Stanton**<br><br><br><br><br><br><br><br><br>
@@ -142,5 +142,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjYyMjMyMjVdfQ==
+eyJoaXN0b3J5IjpbLTgyMjgzNDE1LC0xOTY2MjIzMjI1XX0=
 -->
