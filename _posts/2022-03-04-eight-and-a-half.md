@@ -14,37 +14,37 @@ Fellini’s own comments on the film weren’t so very different, similarly appe
 **Philip Kemp, _Sight & Sound_, August 2004**  
 
 **8½ (OTTO E MEZZO)**<br>
-_Director:_ Federico Fellini
-_Production Companies:_ Cineriz di Angelo Rizzoli, Francinex
-_Created by:_ Federico Fellini
-_Produced by/Presented by:_ Angelo Rizzoli
-_Production Supervisor:_ Clemente Fracassi
-_Production Manager:_ Nello Menicon
-_Unit Manager:_ Mario Basili
-_Production Secretaries:_ Albino Morandin, Angelo Iacono
-_2nd Unit Director:_ Alessandro von Normann
-_Artistic Collaborator:_ Brunello Rondi
-_Assistant Director:_ Guidarino Guidi
-_2nd Assistant Directors:_ Giulio Paradisi, Francesco Aluigi
-_Continuity:_ Mirella Gamacchio
-_Screenplay:_ Federico Fellini, Tullio Pinelli, Ennio Flaiano, Brunello Rondi
-_Story:_ Federico Fellini, Ennio Flaiano
-_Director of Photography:_ Gianni Di Venanzo
-_Camera Operator:_ Pasqualino De Santis
-_Editor:_ Leo Catozzo
-_Assistant Editor:_ Adriana Olasio
-_Art Director:_ Piero Gherardi
-_Assistant Art Director:_ Luciano Ricceri
-_Set Dresser:_ Vito Anzalone
-_Costumes:_ Piero Gherardi
-_Assistant Costumes:_ Orietta Nasalli Rocca
-_Wardrobe Mistress:_ Clara Poggi
-_Key Make-up:_ Otello Fava
-_Hairstyles:_ Renata Magnanti
-_Hairdressers:_ Eugenia, Filippo
-_Colour Grader:_ Enzo Verzini
-_Music:_ Nino Rota
-_Sound:_ Mario Faraoni, Alberto Bartolomei
+_Director:_ Federico Fellini<br>
+_Production Companies:_ Cineriz di Angelo Rizzoli, Francinex<br>
+_Created by:_ Federico Fellini<br>
+_Produced by/Presented by:_ Angelo Rizzoli<br>
+_Production Supervisor:_ Clemente Fracassi<br>
+_Production Manager:_ Nello Menicon<br>
+_Unit Manager:_ Mario Basili<br>
+_Production Secretaries:_ Albino Morandin, Angelo Iacono<br>
+_2nd Unit Director:_ Alessandro von Normann<br>
+_Artistic Collaborator:_ Brunello Rondi<br>
+_Assistant Director:_ Guidarino Guidi<br>
+_2nd Assistant Directors:_ Giulio Paradisi, Francesco Aluigi<br>
+_Continuity:_ Mirella Gamacchio<br>
+_Screenplay:_ Federico Fellini, Tullio Pinelli, Ennio Flaiano, Brunello Rondi<br>
+_Story:_ Federico Fellini, Ennio Flaiano<br>
+_Director of Photography:_ Gianni Di Venanzo<br>
+_Camera Operator:_ Pasqualino De Santis<br>
+_Editor:_ Leo Catozzo<br>
+_Assistant Editor:_ Adriana Olasio<br>
+_Art Director:_ Piero Gherardi<br>
+_Assistant Art Director:_ Luciano Ricceri<br>
+_Set Dresser:_ Vito Anzalone<br>
+_Costumes:_ Piero Gherardi<br>
+_Assistant Costumes:_ Orietta Nasalli Rocca<br>
+_Wardrobe Mistress:_ Clara Poggi<br>
+_Key Make-up:_ Otello Fava<br>
+_Hairstyles:_ Renata Magnanti<br>
+_Hairdressers:_ Eugenia Filippo<br>
+_Colour Grader:_ Enzo Verzini<br>
+_Music:_ Nino Rota<br>
+_Sound:_ Mario Faraoni, Alberto Bartolomei<br>
 _Music Publisher:_ CAM
 _Prints/Processing:_ Istituto Nazionale LUCE
 _Negatives:_ Dupont
@@ -114,32 +114,20 @@ Maria Antonietta Beluzzi _(screen test candidate for La Saraghina)_
 Matilda Calnan _(elderly journalist)_
 Ferdinando Guillaume _(clown in parade)_
 Elisabetta Cini _(the cardinal in sketches)_
-
 Valentina Lang
-
 Annarosa Lattuada
-
 Agnese Bonfanti
-
 Flaminia Torlonia
-
 Anna Carimini
-
 Maria Wertmüller
-
 Giulio Calí _(man with mushrooms)_
-
 Antonio Acqua
-
 Sonia Gessner
-
 Edward Flemming
-
 John Francis Lane
 
-Italy/France 1963
-
-138 mins
+Italy/France 1963<br>
+138 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDAwNzQzMjddfQ==
+eyJoaXN0b3J5IjpbLTE4OTc0NzQ3MDldfQ==
 -->
