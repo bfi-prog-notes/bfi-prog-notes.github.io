@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: 8½
+published: true
+date: 2022-03-04
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'Italy 1963, 138 mins<br> Director: Federico Fellini'
+pdf: '2022-03-04-eight-and-a-half.pdf'
+---
 
 _The screening on Wednesday 16 March will be introduced by Giulia Saccogna, BFI Programme & Research Coordinator._
 
@@ -128,6 +138,38 @@ John Francis Lane<br>
 
 Italy/France 1963<br>
 138 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDYxNTg2NTNdfQ==
--->
+<br>
+**BIG SCREEN CLASSICS**<br>
+**Le Mépris (Contempt)**<br>
+Tue 1 Mar 18:15; Tue 8 Mar 20:50; Sat 12 Mar 20:50<br>
+**42nd Street**<br>
+Wed 2 Mar 18:00 (+ intro by Miles Eady, BFI Cinema and Events); Fri 4 Mar 20:40; Mon 14 Mar 20:45<br>
+**Cabaret**<br>
+Thu 3 Mar 20:40; Sat 12 Mar 18:15<br>
+**8 1/2 (Otto e mezzo)**<br> 
+Fri 4 Mar 18:00; Mon 7 Mar 20:15; Wed 16 Mar 17:50 (+ intro by Giulia Saccogna,  BFI Programme & Research Coordinator)<br>
+**F for Fake**<br>
+Fri 4 Mar 20:50; Wed 9 Mar 18:10 (+ Intro by Programmer-At-Large, Geoff Andrew); Wed 16 Mar 21:10<br>
+**Nashville**<br>
+Sat 5 Mar 19:45; Wed 9 Mar 14:15; Sun 13 Mar 18:00<br>
+**Les Demoiselles de Rochefort  (The Young Ladies of Rochefort)**<br>
+Sun 6 Mar 13:15; Fri 11 Mar 18:05; Tue 15 Mar 18:10<br>
+**Baadasssss!**<br>
+Thu 10 Mar 20:40; Sat 12 Mar 18:10<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
