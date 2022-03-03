@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: From Beside the Seaside to The English Inn<br>Restoration Programme 1
+published: true
+date: 2022-03-03
+readtime: true
+categories: ['THE CAMERA IS OURS<br>BRITAIN’S WOMEN DOCUMENTARY MAKERS']
+tags: [Documentary, Shorts]
+metadata: 
+pdf: '2022-03-03-from-beside-the-seaside.pdf'
+---
 
 _Introduced by BFI curator Ros Cranston._
 
@@ -85,6 +95,45 @@ UK 1941
 
 Restored by the BFI National Archive and  The Film Foundation. Restoration funding provided by the Hobson/Lucas Family Foundation.
 
+<img style="float: left;" src="/img/film-foundation-01.jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+**THE CAMERA IS OURS: BRITAIN’S WOMEN DOCUMENTARY MAKERS**<br>
+**From Beside the Seaside to the English Inn: Restoration Programme 1 + intro  by BFI curator Ros Cranston**<br>
+Thu 3 Mar 18:15<br>
+**For Sama + intro by director Waad  Al-Kateab + Children of the Ruins**<br>
+Thu 3 Mar 20:30<br>
+**The Camera Is Ours: Study Day + Independent Miss Craigie + Q&A with director Lizzie Thynne and producer Hollie Price**<br>
+Sat 5 Mar 12:00-17:00<br>
+**From the Sea to the Land Beyond**<br>
+Sat 5 Mar 18:15<br>
+**Seniors Free Archive Matinee:  White Riot + discussion**<br>
+Mon 7 Mar 14:00<br>
+**Cow**<br>
+Tue 8 Mar 20:40<br>
+**The Hermit of Treig + Q&A with  director Lizzie MacKenzie**<br>
+Fri 11 Mar 18:10<br>
+**From Birth-Day to Something Nice to Eat: Restoration Programme 2 + intro by  BFI curator Ros Cranston**<br>
+Mon 14 Mar 18:15<br>
+**Hostile + director Sonita Gale in conversation with journalist Jon Snow**<br>
+Tue 15 Mar 18:00<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTc1NzM4Mzg5OV19
