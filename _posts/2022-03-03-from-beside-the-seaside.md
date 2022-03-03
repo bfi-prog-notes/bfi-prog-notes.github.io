@@ -53,35 +53,25 @@ _Photography_: George W. Pocknall,  G.W. Macpherson
 UK 1938  
 19 mins
 
-**BEHIND THE SCENES**
-
+**BEHIND THE SCENES**  
 _Director_: Evelyn Spice  
-_Production Company_:  
-Strand Zoological Productions
-
-_Producer:_ Stuart Legg
-
-_Photography:_ Paul Burnford
-
-UK 1938
-
+_Production Company_:  Strand Zoological Productions  
+_Producer:_ Stuart Legg  
+_Photography:_ Paul Burnford  
+UK 1938  
 17 mins
 
-**THEY ALSO SERVE**
-
+**THEY ALSO SERVE**  
 _Director_: R.I. Grierson  
 _Production Company_: Realist Film Unit  
 _Sponsor_: Ministry of Information  
 _Producer_: John Taylor  
 _Photography_: A.E. Jeakins  
-_Sound_: H. Halsted
-
-UK 1940
-
+_Sound_: H. Halsted  
+UK 1940  
 9 mins
 
-**THE ENGLISH INN**
-
+**THE ENGLISH INN**  
 _Director_: Muriel Baker  
 _Production Company_: Verity Films  
 _Producer_: James Carr  
@@ -89,14 +79,13 @@ _Script_: Thomas Burke, Max Munden
 _Photography_: James Rogers, Reg Wyer  
 _Editor_: John Durst  
 _Music_: William Alwyn  
-_Studio_: Merton Park
-
-UK 1941
-
+_Studio_: Merton Park  
+UK 1941  
 11 mins
 
-Restored by the BFI National Archive and  
-The Film Foundation. Restoration funding provided by the Hobson/Lucas Family Foundation.
+Restored by the BFI National Archive and  The Film Foundation. Restoration funding provided by the Hobson/Lucas Family Foundation.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODk1MDgyOV19
+eyJoaXN0b3J5IjpbMTc1NzM4Mzg5OV19
 -->
