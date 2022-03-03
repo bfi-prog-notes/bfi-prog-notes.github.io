@@ -12,35 +12,28 @@ If any newcomer to the documentary field should require a handy compendium of in
 The impressionism of this method is not without its dangers, but restraint, an eye for characteristic and revealing detail, and a sense of humour, have here kept them admirably in the background. The component shots are often adroitly cut and timed, and the camera positions are varied and well chosen (even the stationary recording of a beach concert-party has purpose behind it). In its surroundings the Military Band accompaniment is unusually apt. One recollects such items as the receding subtitle LONDON, with white lines spreading outwards from it to points on a map, to suggest the exodus to the sea; and the siesta sequence in slow-motion, unfortunately too protracted but amusingly conceived.  
 **_Sight and Sound_, Winter 1935-6**
 
-**King Penguins  
-**This film stands out above all others on the subject of penguins. In the Edinburgh Zoo these birds appear to lead a very natural life, even succeeding in rearing their young, and thus afford excellent material for a serious study of this kind. The photography is very good and covers a great number of aspects of the birds’ behaviour, and the inclusion of a few shots of the Antarctic at the beginning of the film is a useful addition. The underwater sequences in slow-motion show the swimming well. The direction is masterly, resulting in a logically arranged film of great interest and educational value. The commentary also is first class, and in keeping with the high standard of the photography. Altogether an attractive, outstanding, and first-class film.
-
-_Monthly Film Bulletin_, June 1939
+**King Penguins**  
+This film stands out above all others on the subject of penguins. In the Edinburgh Zoo these birds appear to lead a very natural life, even succeeding in rearing their young, and thus afford excellent material for a serious study of this kind. The photography is very good and covers a great number of aspects of the birds’ behaviour, and the inclusion of a few shots of the Antarctic at the beginning of the film is a useful addition. The underwater sequences in slow-motion show the swimming well. The direction is masterly, resulting in a logically arranged film of great interest and educational value. The commentary also is first class, and in keeping with the high standard of the photography. Altogether an attractive, outstanding, and first-class film.  
+**_Monthly Film Bulletin_, June 1939**
 
 **Behind the Scenes**  
 The ‘Animal Kingdom’ series of two-reel films now being issued by Strand Zoological Productions is one of the most important and is likely to prove one of the most popular, series of documentary films produced to date. Stuart Legg, the producer of the series, and all those working on the films have had the full collaboration, in facilities and advice, of Dr Julian Huxley and the staff of the Zoo.
 
-_Behind the Scenes_, directed by Evelyn Spice and photographed by Paul Burnford, is a survey of the routine work at Regent’s Park. A staff of 360, curators, scientists and keepers, is employed to ensure that the animals are properly fed, housed, and cared for in the interests of the animals themselves, the scientist and research worker, and the general public. The film presents the Zoo, not as a collection of cages with animals in them, but as a people’s university and a scientist’s laboratory where the animal kingdom – there are now 6,500 animals in the collection – can be observed and studied under constantly improved conditions.
+_Behind the Scenes_, directed by Evelyn Spice and photographed by Paul Burnford, is a survey of the routine work at Regent’s Park. A staff of 360, curators, scientists and keepers, is employed to ensure that the animals are properly fed, housed, and cared for in the interests of the animals themselves, the scientist and research worker, and the general public. The film presents the Zoo, not as a collection of cages with animals in them, but as a people’s university and a scientist’s laboratory where the animal kingdom – there are now 6,500 animals in the collection – can be observed and studied under constantly improved conditions.  
+**William Farr, _Sight & Sound_, Spring 1938**
 
-William Farr, _Sight & Sound_, Spring 1938
+**They Also Serve**  
+Ruby Grierson was the sister of John Grierson, founder of the 1930s British Documentary Movement. Born in Scotland in 1904, she trained as a teacher but became involved with the documentarists when she worked as an uncredited assistant on the seminal social documentary _Housing Problems_ (1935). Her ability to put the working-class women interviewees at ease has since been credited by her fellow crew members for making the film the remarkable social document it is.
 
-**They Also Serve  
-**Ruby Grierson was the sister of John Grierson, founder of the 1930s British Documentary Movement. Born in Scotland in 1904, she trained as a teacher but became involved with the documentarists when she worked as an uncredited assistant on the seminal social documentary _Housing Problems_ (1935). Her ability to put the working-class women interviewees at ease has since been credited by her fellow crew members for making the film the remarkable social document it is.
+_They Also Serve_, a home front propaganda film, showed the importance to the war effort of the everyday work of the British housewife. Tragically, this was to be Grierson’s final film. While making a film about the evacuation of children to Canada in 1940, the liner she was travelling on was torpedoed and Grierson was killed. Her humanity for her subjects and enthusiasm for the pure documentary style was a great loss to the documentary movement.  
+**Sarah Easen, BFI Screenonline, screenonline.org.uk**
 
-_They Also Serve_, a home front propaganda film, showed the importance to the war effort of the everyday work of the British housewife. Tragically, this was to be Grierson’s final film. While making a film about the evacuation of children to Canada in 1940, the liner she was travelling on was torpedoed and Grierson was killed. Her humanity for her subjects and enthusiasm for the pure documentary style was a great loss to the documentary movement.
+**The English Inn**  
+Muriel Violette Baker was born in New Malden on the outskirts of London in September 1905, the third child of a family she described as Respectable Poor. Influenced by her mother’s progressive, left-wing ideas, Muriel developed a passion for writing, theatre and cinema, attempting unsuccessfully to become a professional actress and ballet dancer. She gained low-level employment in the film industry, including work as a continuity girl for British International Pictures, but the key event was her marriage to Sydney Box in 1935, which nurtured a mutual talent for playwriting. They completed nearly 40 short plays before the outbreak of war in 1939. During the war, Muriel assisted her husband in running Verity Films, gaining her first experience of directing with _The English Inn_, a typical Verity propaganda short produced for the British Council.  
+**Andrew Spicer, BFI Screenonline, screenonline.org.uk**
+<br><br>
 
-Sarah Easen, BFI Screenonline, screenonline.org.uk
-
-**The English Inn  
-**Muriel Violette Baker was born in New Malden on the outskirts of London in September 1905, the third child of a family she described as Respectable Poor. Influenced by her mother’s progressive, left-wing ideas, Muriel developed a passion for writing, theatre and cinema, attempting unsuccessfully to become a professional actress and ballet dancer. She gained low-level employment in the film industry, including work as a continuity girl for British International Pictures, but the key event was her marriage to Sydney Box in 1935, which nurtured a mutual talent for playwriting. They completed nearly 40 short plays before the outbreak of war in 1939. During the war, Muriel assisted her husband in running Verity Films, gaining her first experience of directing with _The English Inn_, a typical Verity propaganda short produced for the  
-British Council.
-
-Andrew Spicer, BFI Screenonline, screenonline.org.uk
-
-<![endif]-->
-
-**BESIDE THE SEASIDE**
-
+**BESIDE THE SEASIDE**  
 _Director_: Marion Grierson  
 _Production Company_: Strand Film Company  
 _Sponsor_: TIDA  
@@ -49,21 +42,15 @@ _Assistant Director_: Alex Shaw
 _Commentary Writer_: W.H. Auden  
 _Camera Operators_: F. Gamage, George Noble  
 _Music Performed by_: 43rd Light Infantry Band  
-_Conductor_: D.J. Plater
-
-UK 1935
-
+_Conductor_: D.J. Plater  
+UK 1935  
 23 mins
 
-**KING PENGUINS**
-
+**KING PENGUINS**  
 _Director_: Mary Field  
 _Production Company_: Gaumont-British Instructional  
-_Photography_: George W. Pocknall,  
-G.W. Macpherson
-
-UK 1938
-
+_Photography_: George W. Pocknall,  G.W. Macpherson  
+UK 1938  
 19 mins
 
 **BEHIND THE SCENES**
@@ -111,5 +98,5 @@ UK 1941
 Restored by the BFI National Archive and  
 The Film Foundation. Restoration funding provided by the Hobson/Lucas Family Foundation.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDExMDg5NF19
+eyJoaXN0b3J5IjpbMTUwODk1MDgyOV19
 -->
