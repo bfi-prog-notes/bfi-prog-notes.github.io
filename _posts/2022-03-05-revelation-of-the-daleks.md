@@ -1,1 +1,148 @@
 
+
+_We are delighted that we will be joined by actors Colin Baker, Nicola Bryant and Colin Spaull._
+
+_There will also be a signing following the screening._
+
+It was inevitable that the desire on the part of producer John Nathan-Turner and script editor Eric Saward to revisit elements of the show’s past throughout series 22 would eventually see the return of the Daleks. Saward took on the task of introducing the sixth Doctor to his arch-enemies for the first time, working up the ominously titled storyline _The End of the Road_ which he formally submitted on 27 March 1984. It was unusual for the BBC to allow script editors to contribute to the programmes they were working on, so Saward had to work on the script while on holiday on the Greek island of Rhodes between contracts, a fact that would have an influence on aspects of the finished scripts.
+
+Saward had originally wanted the Daleks to be working in cooperation with another race, but creator Terry Nation was having none of that, his set of conditions for using his characters expressly forbidding such a team-up. Instead, Saward found inspiration for a very unlikely source – Evelyn Waugh’s 1948 satirical novel _The Loved One: An Anglo-American Tragedy_, set in the oft-unseen world of undertakers and funeral homes in Los Angeles. As well as setting his story in a large, futuristic funeral facility, Saward was inspired by several of Waugh’s character names – Waugh’s Mr Joyboy becomes Mr Jobel here, Vogel is straight from the novel, and Bostock was inspired by the book’s Mrs Komstock. From his stay in Rhodes, Saward took the name Stengos from a ferry owner he met there, and he plundered many Greek words for use in _Revelation of the Daleks_ – Orcini was named for the Knights Hospitaller who had occupied Rhodes in the 14th and 15th centuries, Tasambeker was taken from the monastery Tsambika where infertile women would pray for a child, while the planet Necros takes its name from the Greek word _nekros_, meaning corpse.
+
+_End of the Road_ wasn’t a title that fit well with the long established ‘_something_’ _of the Daleks_ format that had been arrived at as far back as _The Power of the Daleks_ in 1966 (they were only briefly in _Frontier in Space_ (1973) so it doesn’t really count and _Death to the Daleks_ (1974) is only a minor variation on the theme) and so the title was changed to the now more familiar _Revelation of the Daleks_ in late 1984.
+
+With Saward’s scripts taking shape, director Graeme Harper was brought back from the previous year’s _The Caves of Androzani_, which had marked the handover from Peter Davison to Colin Baker. The rest of the cast was assembled, including Terry Molloy, the first actor to play Dalek creator Davros for a second time (he’d been in the previous Dalek story, 1984’s _Resurrection of the Daleks_), and popular alternative comedian Alexei Sayle was cast as the DJ, after the production office had approached The Who’s lead singer Roger Daltrey for the role. Nathan-Turner supposedly tried to get Sir Laurence Olivier to play the mutant, a suggestion he later dismissed as a joke.
+
+The existing Dalek casings dated back to _Planet of the Daleks_ in 1973 and were, by now, looking a little the worse for wear but were spruced up with a new black and grey paint job to portray the forces of the Supreme Dalek. But a new Dalek variant was needed for Davros’ guards and visual effects designer John Brace was able to broker a deal with the BBC’s commercial entity, BBC Enterprises, to fund the construction of four new casings given a rather fetching white and gold livery, after which Enterprises could use them for whatever promotional purposes they saw fit. The budget, as tight as ever, also had to run to the construction of a glass Dalek (actually made from Perspex).
+
+With cast, crew and the all-important Daleks all in place, production began on location in Hampshire on 7 January 1985, filming not helped by freezing temperatures and an unexpected heavy snowfall the night before. Further location filming took place at the Queen Elizabeth Country Park in Horndean the following day, before the production team moved on to the IBM North Harbour Building in Portsmouth. Location shooting ended on 10 January and it marked the last time that 16mm film would be used in _Doctor Who_ for location work – from now on, lightweight outside broadcast cameras made filming on videotape the norm across the BBC’s output and the old days of that sudden change from video for interiors to film for exteriors were at an end.
+
+For now, it was back to the studio where the production set up base in BBC Television Centre Studio 1 in White City, London on 17 and 18 January. At the end of the month, they were on the move again, this time off to Studio 8 for three more days of recording. A work print was assembled and sent to Head of Series and Serials Jonathan Powell, who took an instant dislike to Jenny Tomasin’s portrayal of Tasambeker and instructed that her screen time be reduced, meaning some drastic re-editing.
+
+Episode one was broadcast on 23 March 1985, with part two – the last to be shown in the unsuccessful experiment to switch the show’s format from the traditional 30-minute episodes to 45 – on the 30th. Though season 22 had opened with the highest viewing figures for three years, with the first half of _Attack of the Cybermen_ attracting 8.9 million viewers, the rest of the series had fared less well with figures slumping as low as 6 million for the second episode of _The Two Doctors_. But _Revelation of the Daleks_ left the show in slightly better shape, the second episode closing the series with 7.7 million viewers.  
+**Kevin Lyons, _eofftv.com_**
+
+<![endif]-->
+
+**DOCTOR WHO: REVELATION OF THE DALEKS**
+
+_Director:_ Graeme Harper
+
+_Production Company:_ BBC
+
+_Producer:_ John Nathan-Turner
+
+_Production Manager:_ Michael Cameron
+
+_[Written] By:_ Eric Saward
+
+_Script Editor:_ Eric Saward
+
+_Lighting Director:_ Don Babbage
+
+_Camera Supervisor:_ Alec Wheal
+
+_Film Cameraman:_ John Walker
+
+_Technical Co-Ordinator:_ Alan Arbuthnott
+
+_Videotape Editor:_ Steve Newnham
+
+_Film Editor:_ Ray Wingrove
+
+_Vision Mixer:_ Dinah Long
+
+_Title Music Composed by:_ Ron Grainer
+
+_Title Music Arranger:_ Peter Howell *
+
+_Incidental Music:_ Roger Limb
+
+_Studio Sound:_ Andy Stacey
+
+_Film Sound:_ Steve Gatland
+
+_Special Sound:_ Dick Mills,  
+BBC Radiophonic Workshop
+
+_Costume Designer:_ Pat Godfrey
+
+_Make-Up Designer:_ Dorka Nieradzik
+
+_Visual Effects Designer:_ Dave Chapman
+
+_Video Effects:_ Dave Chapman
+
+_Designer:_ Alan Spalding
+
+_Production Associate:_ Angela Smith
+
+_Production Assistant:_ Elizabeth Sherry
+
+_Assistant Floor Manager:_ Jo O’Leary
+
+_Stunts:_ Steve Emmerson *
+
+_Cast:_
+
+Colin Baker _(The Doctor)_
+
+Nicola Bryant _(Peri)_
+
+Eleanor Bron _(Kara)_
+
+Clive Swift _(Jobel)_
+
+Alexei Sayle _(D.J.)_
+
+Terry Molloy _(Davros)_
+
+Jenny Tomasin _(Tasambeker)_
+
+William Gaunt _(Orcini)_
+
+John Ogwen _(Bostock)_
+
+Stephen Flynn _(Grigory)_
+
+Bridget Lynch-Blosse _(Natasha)_
+
+Trevor Cooper _(Takis)_
+
+Colin Spaull _(Lilt)_
+
+Hugh Walters _(Vogel)_
+
+Alec Linstead _(head of Stengos)_
+
+Ken Barker _(mutant)_
+
+Royce Mills, Roy Skelton _(Dalek voices)_
+
+John Scott Martin, Cy Town, Tony Starr,  
+Toby Byrne _(Daleks)_
+
+Penelope Lee _(computer voice)_
+
+Russell Brook, Jane Clarke, Tricia Clarke,
+
+Judy Cowne, Liz D’Estere, Linda Kent,
+
+Annabel Larkins, Tim Lawrence, Eric Lindsay,
+
+Don Parry _(attendants)_ *
+
+Alan Austen, Richard Bonehill, Michael Fernley, Michael Jeffries, Alan Mock, Jeff Wayne _(guards)_ *
+
+BBC 1985
+
+2 x 45 mins + bonus content
+
+* Uncredited
+
+Courtesy of BBC Studios
+
+_Doctor Who: The Collection – Season 22_ is  
+released on Blu-ray soon
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwMTM4OTgxNF19
+-->
