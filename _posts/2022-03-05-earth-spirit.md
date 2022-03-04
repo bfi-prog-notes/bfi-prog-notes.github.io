@@ -16,14 +16,11 @@ None of this has any bearing on reality, though one can understand how some of t
 
 She was difficult, all right. Difficult as the true artist is, and as the deeply honest person is, and as the combination of the two is to the second degree. Mercilessly clearheaded, sharp, witty and thoroughly incorruptible, she was clearly not cut out to be a popular figure, no matter how far her fame went as a star. She was also one of those rare, wholly independent women who, without regard to prejudices and patterns, run their lives and their careers, with some providential help but not much. If she wanted a child but not a husband, she had it and not him, no matter what the world thought – and it disapproved strongly around 1902. Husbands were dispensable, until at 88 she found one that wasn’t, and knew it. Work was self-chosen and necessary. And on top of it she, the Free Woman, the career monster, the relentless artist who refused to divulge one bit of her private life, was for two decades the ultra-feminine erotic image of Europe, desired and admired as the essence of womanhood, madonna and whore in one.
 
-She _was_ the Tenth Muse, not its handmaiden, the force that shaped the language of the new, raw film medium with her unique blend of intuitive spontaneity and documentary observation. Like no star before or after, she _characterised_ not just the human types she portrayed – from gypsy to _grande dame_, from proletarian girl to upper-class spoilt brat – but also their professions and milieus. Getting into a role was not a matter of learning plots and expressions, but of using her insights as a person continuously observant of life. It was no accident that she spoke so strongly to poets and artists. They could not only admire her as a colleague but passionately identify with her – like Apollinaire, who wrote of her, ‘When hatred flames in her eyes, we clench our fists, and when she lifts her eyelids, the stars shine out.’ That she had had to overcome terrible handicaps – deafness, and having to turn inside out the tastes of an age – only seemed to strengthen the courage that never left her, even in the sad, long years of retirement.
+She _was_ the Tenth Muse, not its handmaiden, the force that shaped the language of the new, raw film medium with her unique blend of intuitive spontaneity and documentary observation. Like no star before or after, she _characterised_ not just the human types she portrayed – from gypsy to _grande dame_, from proletarian girl to upper-class spoilt brat – but also their professions and milieus. Getting into a role was not a matter of learning plots and expressions, but of using her insights as a person continuously observant of life. It was no accident that she spoke so strongly to poets and artists. They could not only admire her as a colleague but passionately identify with her – like Apollinaire, who wrote of her, ‘When hatred flames in her eyes, we clench our fists, and when she lifts her eyelids, the stars shine out.’ That she had had to overcome terrible handicaps – deafness, and having to turn inside out the tastes of an age – only seemed to strengthen the courage that never left her, even in the sad, long years of retirement.  
+**Elsa Gress, _Sight and Sound_, Autumn 1973**
+<br><br>
 
-Elsa Gress, _Sight and Sound_, Autumn 1973
-
-<![endif]-->
-
-**EARTH SPIRIT (ERDGEIST)**
-
+**EARTH SPIRIT (ERDGEIST)**  
 _Director_: Leopold Jessner  
 _Production Company_: Leopold Jessner-Film  
 _Screenplay_: Carl Mayer  
@@ -31,8 +28,7 @@ _From the play by_: Frank Wedekind
 _Photography_: Axel Graatkjær  
 _Art Director_: Robert Neppach
 
-_Cast:_
-
+**Cast**  
 Asta Nielsen _(Lulu)_  
 Rudolf Forster _(Alwa Schoen)_  
 Albert Bassermann _(Dr Schoen)_  
@@ -45,18 +41,17 @@ Julius Falkenstein
 Lucy Kieselhausen  
 Anton Pointner
 
-Germany 1923
-
+Germany 1923  
 68 mins
 
 Piano accompaniment will be by  
 Stephen Horne on Sat 5 Mar and  
 Meg Morley on Wed 9 Mar
 
-Digitisation of the 35mm restored in 2003, reconstructed from Dutch and Russian nitrate sources from EYE Filmmuseum and Gosfilmofond of Russia. Dutch intertitles recreated from  
-German censorship cards.
+Digitisation of the 35mm restored in 2003, reconstructed from Dutch and Russian nitrate sources from EYE Filmmuseum and Gosfilmofond of Russia. Dutch intertitles recreated from  German censorship cards.
 
 Introduction by season curator Pamela Hutchinson (Sat 5 Mar only)
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzIxNzU1MzBdfQ==
+eyJoaXN0b3J5IjpbMTkzMTU2NDEyNV19
 -->
