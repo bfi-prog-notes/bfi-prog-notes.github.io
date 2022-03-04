@@ -26,111 +26,56 @@ Episode one was broadcast on 23 March 1985, with part two – the last to be sho
 _Director:_ Graeme Harper<br>
 _Production Company:_ BBC<br>
 _Producer:_ John Nathan-Turner<br>
-
 _Production Manager:_ Michael Cameron<br>
-
 _[Written] By:_ Eric Saward<br>
-
 _Script Editor:_ Eric Saward<br>
-
 _Lighting Director:_ Don Babbage<br>
-
 _Camera Supervisor:_ Alec Wheal<br>
-
 _Film Cameraman:_ John Walker<br>
-
 _Technical Co-Ordinator:_ Alan Arbuthnott<br>
-
 _Videotape Editor:_ Steve Newnham<br>
-
 _Film Editor:_ Ray Wingrove<br>
-
 _Vision Mixer:_ Dinah Long<br>
-
 _Title Music Composed by:_ Ron Grainer<br>
-
 _Title Music Arranger:_ Peter Howell *<br>
-
 _Incidental Music:_ Roger Limb<br>
-
 _Studio Sound:_ Andy Stacey<br>
-
 _Film Sound:_ Steve Gatland<br>
-
-_Special Sound:_ Dick Mills,  
-BBC Radiophonic Workshop<br>
-
+_Special Sound:_ Dick Mills,  BBC Radiophonic Workshop<br>
 _Costume Designer:_ Pat Godfrey<br>
-
 _Make-Up Designer:_ Dorka Nieradzik<br>
-
 _Visual Effects Designer:_ Dave Chapman<br>
-
 _Video Effects:_ Dave Chapman<br>
-
 _Designer:_ Alan Spalding<br>
-
 _Production Associate:_ Angela Smith<br>
-
 _Production Assistant:_ Elizabeth Sherry<br>
-
 _Assistant Floor Manager:_ Jo O’Leary<br>
-
 _Stunts:_ Steve Emmerson *<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Colin Baker _(The Doctor)_<br>
-
 Nicola Bryant _(Peri)_<br>
-
 Eleanor Bron _(Kara)_<br>
-
 Clive Swift _(Jobel)_<br>
-
 Alexei Sayle _(D.J.)_<br>
-
 Terry Molloy _(Davros)_<br>
-
 Jenny Tomasin _(Tasambeker)_<br>
-
 William Gaunt _(Orcini)_<br>
-
 John Ogwen _(Bostock)_<br>
-
 Stephen Flynn _(Grigory)_<br>
-
 Bridget Lynch-Blosse _(Natasha)_<br>
-
 Trevor Cooper _(Takis)_<br>
-
 Colin Spaull _(Lilt)_<br>
-
 Hugh Walters _(Vogel)_<br>
-
 Alec Linstead _(head of Stengos)_<br>
-
 Ken Barker _(mutant)_<br>
-
 Royce Mills, Roy Skelton _(Dalek voices)_<br>
-
-John Scott Martin, Cy Town, Tony Starr,  
-Toby Byrne _(Daleks)_<br>
-
+John Scott Martin, Cy Town, Tony Starr,  Toby Byrne _(Daleks)_<br>
 Penelope Lee _(computer voice)_<br>
-
-Russell Brook, Jane Clarke, Tricia Clarke,
-
-Judy Cowne, Liz D’Estere, Linda Kent,
-
-Annabel Larkins, Tim Lawrence, Eric Lindsay,
-
-Don Parry _(attendants)_ *<br>
-
+Russell Brook, Jane Clarke, Tricia Clarke, Judy Cowne, Liz D’Estere, Linda Kent, Annabel Larkins, Tim Lawrence, Eric Lindsay, Don Parry _(attendants)_ *<br>
 Alan Austen, Richard Bonehill, Michael Fernley, Michael Jeffries, Alan Mock, Jeff Wayne _(guards)_ *<br>
 
 BBC 1985<br>
-
 2 x 45 mins + bonus content
 
 *Uncredited
@@ -140,5 +85,5 @@ Courtesy of BBC Studios
 _Doctor Who: The Collection – Season 22_ is  released on Blu-ray soon
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjQyMzg1N119
+eyJoaXN0b3J5IjpbMjExNzY0MzUyNV19
 -->
