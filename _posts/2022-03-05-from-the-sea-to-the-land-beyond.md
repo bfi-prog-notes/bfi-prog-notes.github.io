@@ -28,23 +28,16 @@ One hundred years after the first Edwardians marched up to Mitchell & Kenyon, an
 **Penny Woolcock, _From the Sea to the Land Beyond_ BFI DVD booklet (BFI, 2013)**
 <br><br>
 
-**FROM THE SEA TO THE LAND BEYOND**
+**FROM THE SEA TO THE LAND BEYOND**<br>
+_Director:_ Penny Woolcock<br>
+_Executive Producers:_ BFI, BBC, Arts Council of England<br>
+_Producers:_ Mark Atkin, Heather Croall<br>
+_Editor:_ Alex Fry<br>
+_Music:_ British Sea Power<br>
 
-_Director:_ Penny Woolcock
-
-_Executive Producers:_ BFI, BBC,
-
-Arts Council of England
-
-_Producers:_ Mark Atkin, Heather Croall
-
-_Editor:_ Alex Fry
-
-_Music:_ British Sea Power
-
-UK 2012
-
-73 mins
+UK 2012<br>
+73 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQ0MzI2NzBdfQ==
+eyJoaXN0b3J5IjpbLTQ3NTg3MTAzNF19
 -->
