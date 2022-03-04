@@ -1,9 +1,18 @@
-
+---
+layout: post
+title: Earth Spirit
+published: true
+date: 2022-03-05
+readtime: true
+categories: ['IN THE EYES OF A SILENT STAR<br>THE FILMS OF ASTA NIELSEN']
+tags: [Drama]
+metadata: 'Germany 1923, 68 mins<br> Director: Leopold Jessner'
+pdf: '2022-03-05-earth-spirit.pdf'
+---
 
 Another outstanding film of this [early 20s] period was _Erdgeist_, directed by Leopold Jessner. Based on the play by Frank Wedekind, the film features one of the most fascinating characters of the German screen: Lulu, the ultimate _femme fatale_, the heartless siren whose life is spent in gratification of an insatiable physical passion. To those who have only seen her photograph it is perhaps difficult to imagine Asta Nielsen as a sex symbol; but from the fragments of _Erdgeist_ which have been preserved it is easy to understand why some of her admirers regarded her as the most erotic screen actress of her time. True, on appearance alone, she does not have the immediate attraction of a Garbo or a Dietrich; but her not unattractive features, combined with an intense power of expression, make her Lulu just as erotic as Dietrich’s garter-belted Lola Lola. When Lulu yields to the caresses of her ruined lover, we see in her half-opened eyes not only her boredom and disgust with her exhausted lover, but also the attraction which ruined him.
 
-By the mid-1920s, films of the calibre of _Erdgeist_ were becoming scarce.  
-Many studios had fallen into the hands of greedy distributors, and American interests had invaded the German industry, reducing some domestic producers to grinding out ‘quota films’ necessary for American imports. As Asta Nielsen described the situation:
+By the mid-1920s, films of the calibre of _Erdgeist_ were becoming scarce.  Many studios had fallen into the hands of greedy distributors, and American interests had invaded the German industry, reducing some domestic producers to grinding out ‘quota films’ necessary for American imports. As Asta Nielsen described the situation:
 
 ‘The films I was forced to act in for a while were not only pure film-hawking, but were ground out in the studios at breakneck speed for reasons of economy. Often the photographer was not allowed to adjust his lighting and long shots and close-ups whirled among each other in the same constant light. The same decoration served widely different interiors, only from another angle of view. The result ... was technically at the 1908 level.’  
 **Robert C. Allen, ‘Asta Nielsen: The Silent Muse’, _Sight and Sound_, Autumn 1973**
@@ -52,6 +61,43 @@ Digitisation of the 35mm restored in 2003, reconstructed from Dutch and Russian 
 
 Introduction by season curator Pamela Hutchinson (Sat 5 Mar only)
 <br><br>
+
+**IN THE EYES OF A SILENT STAR: THE FILMS OF ASTA NIELSEN**<br>
+**In the Eyes of the Law (Nach dem Gesetz)**<br>
+Tue 1 Mar 20:50; Mon 7 Mar 18:15<br>
+**Hamlet**<br>
+Wed 2 Mar 18:15; Sat 5 Mar 17:00 (+ Intro by Prof Judith Buchanan)<br>
+**Earth Spirit (Erdgeist)**<br>
+Sat 5 Mar 12:10 (+ intro by Season Curator Pamela Hutchinson); Wed 9 Mar 20:50 <br>
+**The Decline (AKA Downfall) (Der Absturz)**<br>
+Sat 5 Mar 14:30 (+ intro by season curator Pamela Hutchinson); Tue 15 Mar 18:20<br>
+**The Joyless Street (Die freudlose Gasse)**<br>
+Sun 6 Mar 17:40 (+ intro by BFI Inclusion Team Coordinator, Miranda Gower-Qian); Wed 16 Mar 18:00<br>
+**Impossible Love (Unmögliche Liebe)**<br>
+Wed 9 Mar 18:20; Tue 15 Mar 20:45<br> 
+<br>
+
+**Cultural partner**<br>
+<img style="float: left;" src="/img/danish film institute.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTkzMTU2NDEyNV19
 -->
