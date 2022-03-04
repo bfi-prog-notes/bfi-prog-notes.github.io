@@ -20,108 +20,104 @@ For now, it was back to the studio where the production set up base in BBC Telev
 
 Episode one was broadcast on 23 March 1985, with part two – the last to be shown in the unsuccessful experiment to switch the show’s format from the traditional 30-minute episodes to 45 – on the 30th. Though season 22 had opened with the highest viewing figures for three years, with the first half of _Attack of the Cybermen_ attracting 8.9 million viewers, the rest of the series had fared less well with figures slumping as low as 6 million for the second episode of _The Two Doctors_. But _Revelation of the Daleks_ left the show in slightly better shape, the second episode closing the series with 7.7 million viewers.  
 **Kevin Lyons, _eofftv.com_**
+<br><br>
 
-<![endif]-->
+**DOCTOR WHO: REVELATION OF THE DALEKS**<br>
+_Director:_ Graeme Harper<br>
+_Production Company:_ BBC<br>
+_Producer:_ John Nathan-Turner<br>
 
-**DOCTOR WHO: REVELATION OF THE DALEKS**
+_Production Manager:_ Michael Cameron<br>
 
-_Director:_ Graeme Harper
+_[Written] By:_ Eric Saward<br>
 
-_Production Company:_ BBC
+_Script Editor:_ Eric Saward<br>
 
-_Producer:_ John Nathan-Turner
+_Lighting Director:_ Don Babbage<br>
 
-_Production Manager:_ Michael Cameron
+_Camera Supervisor:_ Alec Wheal<br>
 
-_[Written] By:_ Eric Saward
+_Film Cameraman:_ John Walker<br>
 
-_Script Editor:_ Eric Saward
+_Technical Co-Ordinator:_ Alan Arbuthnott<br>
 
-_Lighting Director:_ Don Babbage
+_Videotape Editor:_ Steve Newnham<br>
 
-_Camera Supervisor:_ Alec Wheal
+_Film Editor:_ Ray Wingrove<br>
 
-_Film Cameraman:_ John Walker
+_Vision Mixer:_ Dinah Long<br>
 
-_Technical Co-Ordinator:_ Alan Arbuthnott
+_Title Music Composed by:_ Ron Grainer<br>
 
-_Videotape Editor:_ Steve Newnham
+_Title Music Arranger:_ Peter Howell *<br>
 
-_Film Editor:_ Ray Wingrove
+_Incidental Music:_ Roger Limb<br>
 
-_Vision Mixer:_ Dinah Long
+_Studio Sound:_ Andy Stacey<br>
 
-_Title Music Composed by:_ Ron Grainer
-
-_Title Music Arranger:_ Peter Howell *
-
-_Incidental Music:_ Roger Limb
-
-_Studio Sound:_ Andy Stacey
-
-_Film Sound:_ Steve Gatland
+_Film Sound:_ Steve Gatland<br>
 
 _Special Sound:_ Dick Mills,  
-BBC Radiophonic Workshop
+BBC Radiophonic Workshop<br>
 
-_Costume Designer:_ Pat Godfrey
+_Costume Designer:_ Pat Godfrey<br>
 
-_Make-Up Designer:_ Dorka Nieradzik
+_Make-Up Designer:_ Dorka Nieradzik<br>
 
-_Visual Effects Designer:_ Dave Chapman
+_Visual Effects Designer:_ Dave Chapman<br>
 
-_Video Effects:_ Dave Chapman
+_Video Effects:_ Dave Chapman<br>
 
-_Designer:_ Alan Spalding
+_Designer:_ Alan Spalding<br>
 
-_Production Associate:_ Angela Smith
+_Production Associate:_ Angela Smith<br>
 
-_Production Assistant:_ Elizabeth Sherry
+_Production Assistant:_ Elizabeth Sherry<br>
 
-_Assistant Floor Manager:_ Jo O’Leary
+_Assistant Floor Manager:_ Jo O’Leary<br>
 
-_Stunts:_ Steve Emmerson *
+_Stunts:_ Steve Emmerson *<br>
 
-_Cast:_
+_Cast:_<br>
 
-Colin Baker _(The Doctor)_
+Colin Baker _(The Doctor)_<br>
 
-Nicola Bryant _(Peri)_
+Nicola Bryant _(Peri)_<br>
 
-Eleanor Bron _(Kara)_
+Eleanor Bron _(Kara)_<br>
 
-Clive Swift _(Jobel)_
+Clive Swift _(Jobel)_<br>
 
-Alexei Sayle _(D.J.)_
+Alexei Sayle _(D.J.)_<br>
 
-Terry Molloy _(Davros)_
+Terry Molloy _(Davros)_<br>
 
-Jenny Tomasin _(Tasambeker)_
+Jenny Tomasin _(Tasambeker)_<br>
 
-William Gaunt _(Orcini)_
+William Gaunt _(Orcini)_<br>
 
-John Ogwen _(Bostock)_
+John Ogwen _(Bostock)_<br>
 
-Stephen Flynn _(Grigory)_
+Stephen Flynn _(Grigory)_<br>
 
-Bridget Lynch-Blosse _(Natasha)_
+Bridget Lynch-Blosse _(Natasha)_<br>
 
-Trevor Cooper _(Takis)_
+Trevor Cooper _(Takis)_<br>
 
-Colin Spaull _(Lilt)_
+Colin Spaull _(Lilt)_<br>
 
-Hugh Walters _(Vogel)_
+Hugh Walters _(Vogel)_<br>
 
-Alec Linstead _(head of Stengos)_
+Alec Linstead _(head of Stengos)_<br>
 
-Ken Barker _(mutant)_
+Ken Barker _(mutant)_<br>
 
-Royce Mills, Roy Skelton _(Dalek voices)_
+Royce Mills, Roy Skelton _(Dalek voices)_<br>
 
 John Scott Martin, Cy Town, Tony Starr,  
-Toby Byrne _(Daleks)_
+Toby Byrne _(Daleks)_<br>
 
-Penelope Lee _(computer voice)_
+Penelope Lee _(computer voice)_<br>
 
 Russell Brook, Jane Clarke, Tricia Clarke,
 
@@ -129,20 +125,20 @@ Judy Cowne, Liz D’Estere, Linda Kent,
 
 Annabel Larkins, Tim Lawrence, Eric Lindsay,
 
-Don Parry _(attendants)_ *
+Don Parry _(attendants)_ *<br>
 
-Alan Austen, Richard Bonehill, Michael Fernley, Michael Jeffries, Alan Mock, Jeff Wayne _(guards)_ *
+Alan Austen, Richard Bonehill, Michael Fernley, Michael Jeffries, Alan Mock, Jeff Wayne _(guards)_ *<br>
 
-BBC 1985
+BBC 1985<br>
 
 2 x 45 mins + bonus content
 
-* Uncredited
+*Uncredited
 
 Courtesy of BBC Studios
 
-_Doctor Who: The Collection – Season 22_ is  
-released on Blu-ray soon
+_Doctor Who: The Collection – Season 22_ is  released on Blu-ray soon
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTM4OTgxNF19
+eyJoaXN0b3J5IjpbLTkyNjQyMzg1N119
 -->
