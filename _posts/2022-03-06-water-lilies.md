@@ -26,50 +26,47 @@ I wanted to portray universal feelings and sensations rather than doing a genera
 
 _Equally striking is the lack of an adult perspective._
 
-I started writing scenes with the characters’ parents in them but I quickly found it boring. The complex relationship between teenagers and adults lies at the heart of the French tradition of teen movies from Truffaut’s _Les Quatre Cents Coups_ to Pialat’s _A nos amours_. But I decided I’d rather not talk about it at all and so I dispensed with it after the first draft. I also wanted everyone to identify with a 15-year-old girl and adult characters would have allowed them to find refuge elsewhere.
+I started writing scenes with the characters’ parents in them but I quickly found it boring. The complex relationship between teenagers and adults lies at the heart of the French tradition of teen movies from Truffaut’s _Les Quatre Cents Coups_ to Pialat’s _A nos amours_. But I decided I’d rather not talk about it at all and so I dispensed with it after the first draft. I also wanted everyone to identify with a 15-year-old girl and adult characters would have allowed them to find refuge elsewhere.  
+**Interview by Jason Wood, _Sight & Sound_, April 2008**
 
-**Interview by Jason Wood, _Sight & Sound_, April 2008*
+**Timeline: Céline Sciamma**  
+Céline Sciamma is born in Pontoise, a suburb of Paris, in 1978.
 
-**Timeline: Céline Sciamma**
+She studies French literature before enrolling at Paris’s famous film school La Fémis.
 
-<![if !supportLists]>· <![endif]> Céline Sciamma is born in Pontoise, a suburb of Paris, in 1978.
+While at La Fémis, she writes her first script, _Water Lilies_, a coming-of-age tale about a 15-year-old girl and her growing attraction to the star of the local synchronised swimming team. She is encouraged by filmmaker Xavier Beauvois to direct it.
 
-<![if !supportLists]>· <![endif]> She studies French literature before enrolling at Paris’s famous film school La Fémis.
+_Water Lilies_ (2007), starring Adèle Haenel, premieres in the Un Certain Regard sidebar at the 2007 Cannes Film Festival.
 
-<![if !supportLists]>· <![endif]> While at La Fémis, she writes her first script, _Water Lilies_, a coming-of-age tale about a 15-year-old girl and her growing attraction to the star of the local synchronised swimming team. She is encouraged by filmmaker Xavier Beauvois to direct it.
+She directs _Pauline_ (2010) for a government-sponsored collection of five short films dealing with homophobia.
 
-<![if !supportLists]>· <![endif]> _Water Lilies_ (2007), starring Adèle Haenel, premieres in the Un Certain Regard sidebar at the 2007 Cannes Film Festival.
+Sciamma’s second feature, _Tomboy_ (2011), focuses on a ten-year-old girl who moves to a new neighbourhood and presents herself as a boy. Sciamma writes and shoots the film on a small budget in just three months.
 
-<![if !supportLists]>· <![endif]> She directs _Pauline_ (2010) for a government-sponsored collection of five short films dealing with homophobia.
+The last film in her coming-of-age trilogy, _Girlhood_ (2014), premieres at Cannes. ‘_Water Lilies_ was about the beginning of teenage-hood; _Tomboy_, the end of childhood; and this one is about the end of teenage-hood,’ she told _Sight & Sound_ about her _banlieue_-set story about a black teenager who joins an all-girl gang. Sciamma shoots it in CinemaScope, finding her cast on the streets.
 
-<![if !supportLists]>· <![endif]> Sciamma’s second feature, _Tomboy_ (2011), focuses on a ten-year-old girl who moves to a new neighbourhood and presents herself as a boy. Sciamma writes and shoots the film on a small budget in just three months.
+Sciamma writes scripts for André Téchiné’s _Being 17_ (2016) and the French/Swiss stop-motion animation _My Life as a Courgette_ (2016).
 
-<![if !supportLists]>· <![endif]> The last film in her coming-of-age trilogy, _Girlhood_ (2014), premieres at Cannes. ‘_Water Lilies_ was about the beginning of teenage-hood; _Tomboy_, the end of childhood; and this one is about the end of teenage-hood,’ she told _Sight & Sound_ about her _banlieue_-set story about a black teenager who joins an all-girl gang. Sciamma shoots it in CinemaScope, finding her cast on the streets.
+In 2015 she becomes co-president of the French Society of Film Directors, and in 2018 is one of the organisers of the women’s protest against inequality at the Cannes Film Festival.
 
-<![if !supportLists]>· <![endif]> Sciamma writes scripts for André Téchiné’s _Being 17_ (2016) and the French/Swiss stop-motion animation _My Life as a Courgette_ (2016).
+Her fourth feature _Portrait of a Lady on Fire_ wins the Best Screenplay award at Cannes 2019.
 
-<![if !supportLists]>· <![endif]> In 2015 she becomes co-president of the French Society of Film Directors, and in 2018 is one of the organisers of the women’s protest against inequality at the Cannes Film Festival.
+Sciamma’s fifth feature _Petite maman_ premieres at the Berlin Film Festival in March 2021.
 
-<![if !supportLists]>· <![endif]> Her fourth feature _Portrait of a Lady on Fire_ wins the Best Screenplay award at Cannes 2019.
+**_Sight & Sound_, March 2020**
+<br><br>
 
-<![if !supportLists]>· <![endif]> Sciamma’s fifth feature _Petite maman_ premieres at the Berlin Film Festival in March 2021.
+**WATER LILIES (NAISSANCE DES PIEUVRES)**<br>
 
-_Sight & Sound_, March 2020
+Un film de: Céline Sciamma<br>
 
-<![endif]-->
-
-**WATER LILIES (NAISSANCE DES PIEUVRES)**
-
-Un film de: Céline Sciamma
-
-©/Presented by: Productions Balthazar
+©/Presented by: Productions Balthazar<br>
 
 With the participation of:  
-Centre national de la cinématographie, Canal+
+Centre national de la cinématographie, Canal+<br>
 
-With the support of: Région Île de France
+With the support of: Région Île de France<br>
 
-With the participation of: ARTE, Cofinova 3
+With the participation of: ARTE, Cofinova 3<br>
 
 Distributor: Haut et Court Distribution
 
@@ -209,5 +206,5 @@ France 2007©
 
 84 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTcwNzA4OF19
+eyJoaXN0b3J5IjpbNDMyMDk1ODcyXX0=
 -->
