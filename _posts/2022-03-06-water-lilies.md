@@ -56,155 +56,147 @@ Sciamma’s fifth feature _Petite maman_ premieres at the Berlin Film Festival i
 <br><br>
 
 **WATER LILIES (NAISSANCE DES PIEUVRES)**<br>
-
 Un film de: Céline Sciamma<br>
-
 ©/Presented by: Productions Balthazar<br>
-
-With the participation of:  
-Centre national de la cinématographie, Canal+<br>
-
+With the participation of:  Centre national de la cinématographie, Canal+<br>
 With the support of: Région Île de France<br>
-
 With the participation of: ARTE, Cofinova 3<br>
+Distributor: Haut et Court Distribution<br>
+Produced by: Bénédicte Couvreur, Jérôme Dopffer<br>
+Unit Production Manager: Maud Quiffet<br>
 
-Distributor: Haut et Court Distribution
-
-Produced by: Bénédicte Couvreur, Jérôme Dopffer
-
-Unit Production Manager: Maud Quiffet
-
-Unit Manager: Bachir Sareh
+Unit Manager: Bachir Sareh<br>
 
 Pre-/Post-production: Emmanuel Barraux,  
 Virginie Bonneau, Juliette Grandmont,  
-Mani Mortazavi, Emilie Tisné
+Mani Mortazavi, Emilie Tisné<br>
 
-Administration/Financial Controller: Cabinet Roy
+Administration/Financial Controller: Cabinet Roy<br>
 
-Administration: Rémi Roy
+Administration: Rémi Roy<br>
 
-1st Assistant Director: Delphine Daull
+1st Assistant Director: Delphine Daull<br>
 
-2nd Assistant Director: Jérémie Steib
+2nd Assistant Director: Jérémie Steib<br>
 
-Script Supervisor: Roselyne Bellec
+Script Supervisor: Roselyne Bellec<br>
 
-Casting: Christel Baras, Laure Cochener
+Casting: Christel Baras, Laure Cochener<br>
 
-Screenplay: Céline Sciamma
+Screenplay: Céline Sciamma<br>
 
-Director of Photography: Crystel Fournier
+Director of Photography: Crystel Fournier<br>
 
-2nd Unit Director of Photography: Richard Mercier
+2nd Unit Director of Photography: Richard Mercier<br>
 
-Underwater Photographer: Philippe Venne
+Underwater Photographer: Philippe Venne<br>
 
-1st Assistant Camera: François Chevreau
+1st Assistant Camera: François Chevreau<br>
 
-2nd Unit Assistant Camera: Barbara Visser
+2nd Unit Assistant Camera: Barbara Visser<br>
 
-Underwater Assistant Camera: Jacques Ballard
+Underwater Assistant Camera: Jacques Ballard<br>
 
-2nd Assistant Camera: Stéphane Raymond
+2nd Assistant Camera: Stéphane Raymond<br>
 
-Key Grip: Jérémie Leloup
+Key Grip: Jérémie Leloup<br>
 
-Gaffer: Muriel Olivier
+Gaffer: Muriel Olivier<br>
 
-Editor: Julien Lacheray
+Editor: Julien Lacheray<br>
 
 Assistant Editors: Jean-Christophe Bouzy,
 
-Carole Borne
+Carole Borne<br>
 
-Art Director: Gwendal Bescond
+Art Director: Gwendal Bescond<br>
 
-1st Assistant Art Director: Pascal Leguellec
+1st Assistant Art Director: Pascal Leguellec<br>
 
-Set Decorator: Géraldine Laferté
+Set Decorator: Géraldine Laferté<br>
 
-Properties: Olivia Talan
+Properties: Olivia Talan<br>
 
-Construction Manager: Thierry Carini
+Construction Manager: Thierry Carini<br>
 
-Costumes: Marine Chauveau
+Costumes: Marine Chauveau<br>
 
-Wardrobe: Dorine Simon
+Wardrobe: Dorine Simon<br>
 
-Key Make-up: Marie Luiset
+Key Make-up: Marie Luiset<br>
 
-Opening Titles: Eric Delmotte
+Opening Titles: Eric Delmotte<br>
 
-Closing Titles: Ercidan
+Closing Titles: Ercidan<br>
 
-Colour Timer: Christophe Bousquet
+Colour Timer: Christophe Bousquet<br>
 
-Stock: Kodak Motion Picture Film
+Stock: Kodak Motion Picture Film<br>
 
-Laboratory: GTC
+Laboratory: GTC<br>
 
-Original Music: Para One
+Original Music: Para One<br>
 
-Music Recordings: Para One, Vincent Verdoux
+Music Recordings: Para One, Vincent Verdoux<br>
 
-Sound Recording: Pierre André
+Sound Recording: Pierre André<br>
 
-Boom Operator: Franck Duval
+Boom Operator: Franck Duval<br>
 
-Sound Mixer: Daniel Sobrino
+Sound Mixer: Daniel Sobrino<br>
 
-Sound Editor: Pierre André
+Sound Editor: Pierre André<br>
 
-Recordist ADR: Gildas Mercier
+Recordist ADR: Gildas Mercier<br>
 
-Foley Artist: Bertrand Boudaud
+Foley Artist: Bertrand Boudaud<br>
 
-Foley Recordist: Gildas Mercier
+Foley Recordist: Gildas Mercier<br>
 
-Subtitles: L.V.T. (Paris)
+Subtitles: L.V.T. (Paris)<br>
 
-Technical Adviser: Delphine Gleize
+Technical Adviser: Delphine Gleize<br>
 
-Synchronised Swimming Coach: Andréa Conti
+Synchronised Swimming Coach: Andréa Conti<br>
 
-Dialogue Coach: Véronique Ruggia
+Dialogue Coach: Véronique Ruggia<br>
 
 Unit Publicists: François Hassan Guerrar,  
-Julie Tardit
+Julie Tardit<br>
 
-Cast:
+Cast:<br>
 
-Pauline Acquart (Marie)
+Pauline Acquart (Marie)<br>
 
-Louise Blachère (Anne)
+Louise Blachère (Anne)<br>
 
-Adèle Haenel (Floriane)
+Adèle Haenel (Floriane)<br>
 
-Warren Jacquin (François)
+Warren Jacquin (François)<br>
 
-Christel Baras (inspector)
+Christel Baras (inspector)<br>
 
-Marie Gili Pierre (cashier)
+Marie Gili Pierre (cashier)<br>
 
-Alice de Lencquesaing (cloakroom girl)
+Alice de Lencquesaing (cloakroom girl)<br>
 
-Claire Pierrat (cloakroom girl 2)
+Claire Pierrat (cloakroom girl 2)<br>
 
-Barbara Renard (Natacha)
+Barbara Renard (Natacha)<br>
 
-Esther Sironneau (shop assistant)
+Esther Sironneau (shop assistant)<br>
 
   
-Jérémie Steib (masseur)
+Jérémie Steib (masseur)<br>
 
-Yvonne Villemaire (neighbour)
+Yvonne Villemaire (neighbour)<br>
 
-Christophe Vandevelde (nightclub guy)
+Christophe Vandevelde (nightclub guy)<br>
 
-France 2007©
+France 2007©<br>
 
-84 mins
+84 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyMDk1ODcyXX0=
+eyJoaXN0b3J5IjpbODI0MjEyNTRdfQ==
 -->
