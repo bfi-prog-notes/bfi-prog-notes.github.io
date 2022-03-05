@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: From the Caribbean to West Africa<br>Edric Connor’s Travelogues
+published: true
+date: 2022-03-06
+readtime: true
+categories: ['AFRICAN ODYSSEYS']
+tags: [Shorts]
+metadata: 
+pdf: '2022-03-06-edric-connor-travelogues.pdf'
+---
 
 _+ discussion with Kevin Le Gendre and Alex Pascall, chaired by Colin Prescod._
 
@@ -15,8 +25,7 @@ His travelogues were subsequently edited by his wife, Pearl Connor-Mogotsi, with
 **Carly Mattox, _Sight and Sound_, April 2022**
 
 **Kevin Le Gendre**  
-Kevin Le Gendre is a journalist, broadcaster and writer with a special interest  
-in Black music. Deputy editor of _Echoes_, he contributes to a wide range of publications that include _Jazzwise_, _MusicWeek_, _Vibrations_ and _The Independent on Sunday_ and also appears as a commentator and critic on radio programmes such as BBC Radio 3’s _Jazz Line-Up_ and BBC Radio 4’s _Front Row_.
+Kevin Le Gendre is a journalist, broadcaster and writer with a special interest  in Black music. Deputy editor of _Echoes_, he contributes to a wide range of publications that include _Jazzwise_, _MusicWeek_, _Vibrations_ and _The Independent on Sunday_ and also appears as a commentator and critic on radio programmes such as BBC Radio 3’s _Jazz Line-Up_ and BBC Radio 4’s _Front Row_.
 
 **Alex**  **Pascall**  
 Alex Pascall travelled to Britain from Grenada in July 1959 to pursue his goal in communication and music. By 1996 he was awarded the O.B.E. for Services to Community Relations, which he affectionately dubbed the ‘Order for Black Excellence’.
@@ -30,6 +39,23 @@ Alex’s journey was and still is challenging as a pioneer in Black culture, art
 **Colin**  **Prescod**  
 Over some five decades, Colin Prescod has variously worked as an academic, documentary filmmaker, theatre maker, TV (BBC) commissioning editor, cultural animator (specifically in museums, archives, and heritage sector). Most recently he has worked on the exhibitions _No Colour Bar_: _Black British Art in Action 1960–1990_ (2016) and, with the British Library, _Windrush: Songs in a Strange Land_ (2018).
 <br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA3NzE2MDc0OV19
 -->
