@@ -27,11 +27,9 @@ While Alex horned his skills as a communicator, researcher, singer, songwriter, 
 
 Alex’s journey was and still is challenging as a pioneer in Black culture, arts and media. His ‘BAMAAPC’ (Black Audio and Media Archive Alex Pascall Collection), is managed by Good Vibes Records and Music Limited, co-founded with his wife Joyce. Clients include BBC Radio 2,3,4, ITV, TVS, Judita Da Silva Productions, Nigeria, Deutschland Funk Radio Germany, UK Borough Councils, The Smithsonian Museum USA and consultancy to independent feature film and TV production companies.
 
-**Colin**  **Prescod**
-
-Over some five decades, Colin Prescod has variously worked as an academic, documentary filmmaker, theatre maker, TV (BBC) commissioning editor, cultural animator (specifically in museums, archives, and heritage sector).  
-Most recently he has worked on the exhibitions _No Colour Bar_: _Black British Art in Action 1960–1990_ (2016) and, with the British Library, _Windrush: Songs in a Strange Land_ (2018).
+**Colin**  **Prescod**  
+Over some five decades, Colin Prescod has variously worked as an academic, documentary filmmaker, theatre maker, TV (BBC) commissioning editor, cultural animator (specifically in museums, archives, and heritage sector). Most recently he has worked on the exhibitions _No Colour Bar_: _Black British Art in Action 1960–1990_ (2016) and, with the British Library, _Windrush: Songs in a Strange Land_ (2018).
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODI2NTUxM119
+eyJoaXN0b3J5IjpbMTA3NzE2MDc0OV19
 -->
