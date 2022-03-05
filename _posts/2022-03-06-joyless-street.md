@@ -47,7 +47,7 @@ Mario Cusmich _(Colonel Irving, USA)_
 Valeska Gert _(Frau Greifer)_  
 Countess Tolstoi _(Miss Henriette)_  
 Frau Markstein _(Mrs Merkl)_  
-Werner Krauß_  (Josef Gieringer, the butcher)_  
+Werner Krauß _(Josef Gieringer, the butcher)_  
 Hertha von Walther _(Else)_  
 Otto Reinwald _(Else's husband)_  
 Gregory Chmara _(waiter at Hotel Merkl)_  
@@ -57,21 +57,19 @@ Marlene Dietrich _(extra in butcher’s queue)_
 Maria Forescu  
 Eugen Burg
 
-Germany 1925
-
+Germany 1925  
 151 mins
 
-* Uncredited
+*Uncredited
 
-A reconstruction by  
-Filmmuseum München
+A reconstruction by  Filmmuseum München
 
 With live piano accompaniment by  
-John Sweeney (Sun 6 Mar)
-
+John Sweeney (Sun 6 Mar)  
 Costas Fotopoulos (Wed 16 Mar)
 
 The screening on Sun 6 Mar will be introduced by BFI Inclusion Team Coordinator, Miranda Gower-Qian
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTE1MDA0M119
+eyJoaXN0b3J5IjpbLTY3MDYyNTg0MV19
 -->
