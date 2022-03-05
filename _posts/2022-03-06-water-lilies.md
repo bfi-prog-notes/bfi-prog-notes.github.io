@@ -64,139 +64,72 @@ With the participation of: ARTE, Cofinova 3<br>
 Distributor: Haut et Court Distribution<br>
 Produced by: Bénédicte Couvreur, Jérôme Dopffer<br>
 Unit Production Manager: Maud Quiffet<br>
-
 Unit Manager: Bachir Sareh<br>
-
-Pre-/Post-production: Emmanuel Barraux,  
-Virginie Bonneau, Juliette Grandmont,  
-Mani Mortazavi, Emilie Tisné<br>
-
+Pre-/Post-production: Emmanuel Barraux,  Virginie Bonneau, Juliette Grandmont,  Mani Mortazavi, Emilie Tisné<br>
 Administration/Financial Controller: Cabinet Roy<br>
-
 Administration: Rémi Roy<br>
-
 1st Assistant Director: Delphine Daull<br>
-
 2nd Assistant Director: Jérémie Steib<br>
-
 Script Supervisor: Roselyne Bellec<br>
-
 Casting: Christel Baras, Laure Cochener<br>
-
 Screenplay: Céline Sciamma<br>
-
 Director of Photography: Crystel Fournier<br>
-
 2nd Unit Director of Photography: Richard Mercier<br>
-
 Underwater Photographer: Philippe Venne<br>
-
 1st Assistant Camera: François Chevreau<br>
-
 2nd Unit Assistant Camera: Barbara Visser<br>
-
 Underwater Assistant Camera: Jacques Ballard<br>
-
 2nd Assistant Camera: Stéphane Raymond<br>
-
 Key Grip: Jérémie Leloup<br>
-
 Gaffer: Muriel Olivier<br>
-
 Editor: Julien Lacheray<br>
-
-Assistant Editors: Jean-Christophe Bouzy,
-
-Carole Borne<br>
-
+Assistant Editors: Jean-Christophe Bouzy, Carole Borne<br>
 Art Director: Gwendal Bescond<br>
-
 1st Assistant Art Director: Pascal Leguellec<br>
-
 Set Decorator: Géraldine Laferté<br>
-
 Properties: Olivia Talan<br>
-
 Construction Manager: Thierry Carini<br>
-
 Costumes: Marine Chauveau<br>
-
 Wardrobe: Dorine Simon<br>
-
 Key Make-up: Marie Luiset<br>
-
 Opening Titles: Eric Delmotte<br>
-
 Closing Titles: Ercidan<br>
-
 Colour Timer: Christophe Bousquet<br>
-
 Stock: Kodak Motion Picture Film<br>
-
 Laboratory: GTC<br>
-
 Original Music: Para One<br>
-
 Music Recordings: Para One, Vincent Verdoux<br>
-
 Sound Recording: Pierre André<br>
-
 Boom Operator: Franck Duval<br>
-
 Sound Mixer: Daniel Sobrino<br>
-
 Sound Editor: Pierre André<br>
-
 Recordist ADR: Gildas Mercier<br>
-
 Foley Artist: Bertrand Boudaud<br>
-
 Foley Recordist: Gildas Mercier<br>
-
 Subtitles: L.V.T. (Paris)<br>
-
 Technical Adviser: Delphine Gleize<br>
-
 Synchronised Swimming Coach: Andréa Conti<br>
-
 Dialogue Coach: Véronique Ruggia<br>
+Unit Publicists: François Hassan Guerrar,  Julie Tardit<br>
 
-Unit Publicists: François Hassan Guerrar,  
-Julie Tardit<br>
-
-Cast:<br>
-
+**Cast**<br>
 Pauline Acquart (Marie)<br>
-
 Louise Blachère (Anne)<br>
-
 Adèle Haenel (Floriane)<br>
-
 Warren Jacquin (François)<br>
-
 Christel Baras (inspector)<br>
-
 Marie Gili Pierre (cashier)<br>
-
 Alice de Lencquesaing (cloakroom girl)<br>
-
 Claire Pierrat (cloakroom girl 2)<br>
-
 Barbara Renard (Natacha)<br>
-
 Esther Sironneau (shop assistant)<br>
-
-  
 Jérémie Steib (masseur)<br>
-
 Yvonne Villemaire (neighbour)<br>
-
 Christophe Vandevelde (nightclub guy)<br>
 
 France 2007©<br>
-
 84 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0MjEyNTRdfQ==
+eyJoaXN0b3J5IjpbMTM2MjQzNzYxMF19
 -->
