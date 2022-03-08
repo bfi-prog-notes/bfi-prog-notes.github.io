@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Marie Antoinette
+published: true
+date: 2022-03-08
+readtime: true
+categories: ['SEEN & HEARD']
+tags: [Drama, Period]
+metadata: 'USA/France/Japan 2005, 123 mins<br> Director: Sofia Coppola'
+pdf: '2022-03-08-marie-antoinette.pdf'
+---
 
 _The screening on Tuesday 8 March will be introduced by Hannah Strong,  _Little White Lies _Digital Editor and author of_ Sofia Coppola: Forever Young_._
 
@@ -6,8 +16,7 @@ The spirit of fashion as creative reinvention, performance and personal style st
 
 Coppola has based her film on the 2001 biography _Marie Antoinette: The Journey_ by Antonia Fraser, which counters many of the misconceptions surrounding its subject – in particular dispelling forever the myth that she uttered the infamous words with which she is generally identified. Fraser draws a picture of a teenager out of her depth in the French court and its political intrigues, faced with a sexless marriage and under pressure to produce a royal heir, who gradually grew to maturity only to face barbaric retribution at the hands of the revolutionary tribunal. Coppola claims that she was drawn to the idea of Marie Antoinette as a naive and warm-hearted character caught up in circumstances beyond her control. Rather than a sweeping historical epic, she wanted to paint an intimate portrait that gave an impression of the world in which her heroine was cast adrift from the young woman’s own perspective.
 
-While obviously a sympathetic portrayal, Coppola’s film does not entirely let Marie Antoinette (played by Kirsten Dunst) off the hook. Instead it remains true to the contradictions that make her an ambiguous figure. The sequences of her enjoying a chic ‘rustic’ lifestyle at her well-appointed country retreat Le Petit Trianon, or consuming exquisite pastries and buying extravagant designer shoes (some of Manolo Blahnik’s most exotic creations), have an ironic distance that is absent from other scenes. When Marie Antoinette is stripped of her Austrian clothing before entering France, or stands naked and shivering while the pecking order of courtiers who dress her is decided, her vulnerability  
-is palpable.
+While obviously a sympathetic portrayal, Coppola’s film does not entirely let Marie Antoinette (played by Kirsten Dunst) off the hook. Instead it remains true to the contradictions that make her an ambiguous figure. The sequences of her enjoying a chic ‘rustic’ lifestyle at her well-appointed country retreat Le Petit Trianon, or consuming exquisite pastries and buying extravagant designer shoes (some of Manolo Blahnik’s most exotic creations), have an ironic distance that is absent from other scenes. When Marie Antoinette is stripped of her Austrian clothing before entering France, or stands naked and shivering while the pecking order of courtiers who dress her is decided, her vulnerability  is palpable.
 
 Similarly, her emotional devastation that her sister-in-law has delivered a child when she and Louis XVI (played by Coppola’s cousin Jason Schwartzman) are unable to conceive, expressed in private away from the prying eyes of the court, is an insight into her gut-wrenching isolation. Coppola’s strategy is to move between exterior observation and interior perception so viewers experience both empathy with and estrangement from her flawed heroine. Although we witness Marie Antoinette’s progress towards maturity, we are not invited to decide whether she is good or bad. Rather, we are encouraged to respond on an emotional level to her situation.
 
@@ -154,6 +163,41 @@ Joseph Malerba _(queen’s guard)_
 USA/France/Japan 2005©  
 123 mins
 <br><br>
+
+**SEEN & HEARD: DARING FEMALE COMING-OF-AGE FILMS**<br>
+**Skate Kitchen**<br>
+Tue 1 Mar 20:40; Sun 13 Mar 20:45<br>
+**Divines**<br>
+Wed 2 Mar 20:50; Tue 15 Mar 20:50<br> 
+**Jinn**<br>
+Sat 5 Mar 17:45; Tue 8 Mar 21:00<br> 
+**37 Seconds (37 sekanzu)**<br>
+Sat 5 Mar 20:30; Sat 12 Mar 20:45<br> 
+**Water Lilies (Naissance des pieuvres)**<br>
+Sun 6 Mar 18:45; Mon 14 Mar 20:50<br> 
+**Marie Antoinette**<br> 
+Tue 8 Mar 18:10 (+ intro by Hannah Strong, Little White Lies Digital Editor and author of Sofia Coppola: Forever Young); Sun 13 Mar 18:00<br> 
+**Somersault**<br>
+Fri 11 Mar 20:50; Mon 14 Mar 18:10<br>
+<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzk5NTcwNzRdfQ==
 -->
