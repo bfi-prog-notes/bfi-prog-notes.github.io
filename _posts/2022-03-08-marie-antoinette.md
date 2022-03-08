@@ -10,7 +10,7 @@ metadata: 'USA/France/Japan 2005, 123 mins<br> Director: Sofia Coppola'
 pdf: '2022-03-08-marie-antoinette.pdf'
 ---
 
-_The screening on Tuesday 8 March will be introduced by Hannah Strong,  _Little White Lies _Digital Editor and author of_ Sofia Coppola: Forever Young_._
+_The screening on Tuesday 8 March will be introduced by Hannah Strong, Little White Lies Digital Editor and author of Sofia Coppola: Forever Young._
 
 The spirit of fashion as creative reinvention, performance and personal style statement informs Sofia Coppola’s movie, where costume and set design are used in various ways: to capture the essence of the period, to suggest mood, to reinforce and comment on character, to project the state of mind of its heroine, and to visualise the director’s concerns. The young Austrian archduchess who married into the French royal family in the years leading up to the revolution and was beheaded at the height of the Reign of Terror is often remembered for her apparent disregard for the suffering of her starving subjects, encapsulated in her notorious remark, ‘Let them eat cake’. Marie Antoinette has always been the focus of extremes of hostility and sympathy, though even sympathisers find it difficult to come to terms with her lack of interest in the world outside Versailles and her frivolous lifestyle.
 
