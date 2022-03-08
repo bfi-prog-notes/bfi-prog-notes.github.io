@@ -34,11 +34,9 @@ Such insouciance, together with a nonchalant approach to period trappings in des
 **MARIE ANTOINETTE**  
 _Directed by_: Sofia Coppola  
 ©: I Want Candy LLC  
-_Production Company/From_:  
-American Zoetrope  
+_Production Company/From_:  American Zoetrope  
 _Presented by_: Columbia Pictures Corporation  
-_Presented in association with_: Pricel,  
-TFC - Tohokushinsha Film Corporation  
+_Presented in association with_: Pricel,  TFC - Tohokushinsha Film Corporation  
 _Executive Producers_: Paul Rassam, Fred Roos, Francis Ford Coppola  
 _Produced by_: Ross Katz, Sofia Coppola  
 _Co-producer_: Callum Greene  
@@ -48,21 +46,18 @@ _Unit Manager_: Martin Jaubert
 _Production Co-ordinator_: Agnès Berméjo Lainé  
 _Financial Controller_: Chantal Malrat-Atanassian  
 _Location Manager_: Henry Le Turc  
-_Post-production Supervisor_:  
-Jonathan Ferrantelli  
+_Post-production Supervisor_:  Jonathan Ferrantelli  
 _2nd Unit Director_: Roman Coppola  
 _1st Assistant Director_: Christophe Cheysson  
 _2nd Assistant Director_: Emilie Cherpitel  
 _Script Supervisor_: Eva Z. Cabrera  
-_Casting_: Antoinette Boulat,  
-Karen Lindsay-Stewart  
+_Casting_: Antoinette Boulat,  Karen Lindsay-Stewart  
 _Additional French Casting_: Stephanie Hayman  
 _Written by_: Sofia Coppola  
 _Based on the book by_: Antonia Fraser  
 _Director of Photography_: Lance Acord  
 _Camera Operator/B Camera (2nd Unit)_: Berto  
-_Steadicam Operators_: Valentin Monge,  
-Benoît Theynissen  
+_Steadicam Operators_: Valentin Monge,  Benoît Theynissen  
 _Gaffer_: Mikaël Monod  
 _Key Grip_: Bruno Dubet  
 _Still Photography_: Leigh Johnson  
@@ -79,37 +74,29 @@ _Set Decorator_: Véronique Melery
 _Prop Masters_: Michel Conche, Marc Pinquier  
 _Costume Designer_: Milena Canonero  
 _Special Shoes Designed by_: Manolo Blahnik  
-_Wardrobe Costume Supervisor_:  
-Patricia Colin Talandier  
+_Wardrobe Costume Supervisor_:  Patricia Colin Talandier  
 _Key Make-up_: Jean-Luc Russier  
-_Ms Dunst’s Make-up Consultant_:  
-Stéphane Marais  
+_Ms Dunst’s Make-up Consultant_:  Stéphane Marais  
 _Ms Dunst’s Make-up_: Hué Lan Van Duc  
 _Key Hairstylist_: Desiree Corridoni  
 _Ms Dunst’s Hair Design_: Odile Gilbert  
 _Ms Dunst’s Hairdresser_: Raphaël Cornillon  
-_Principal Hairdressers_: Mario Pegoretti,  
-Véronique Boitout, Lorraine Glynn  
+_Principal Hairdressers_: Mario Pegoretti,  Véronique Boitout, Lorraine Glynn  
 _Wigs Co-ordinator_: Carla Indoni  
 _Title Design_: Peter Miles Studio  
 _Music Producer_: Brian Reitzell  
-_Historical Music Consultants_:  
-Roger W. Neill, Karen Hiles  
+_Historical Music Consultants_:  Roger W. Neill, Karen Hiles  
 _Choreographer_: Corinne Devaux  
 _Sound Design_: Richard Beggs  
 _Production Sound Mixer_: Stuart Wilson  
-_Re-recording Mixers_: Richard Beggs,  
-Kent Sparling  
-_Supervising Sound Editors_: Richard Beggs,  
-Michael Kirchberger  
+_Re-recording Mixers_: Richard Beggs,  Kent Sparling  
+_Supervising Sound Editors_: Richard Beggs,  Michael Kirchberger  
 _XVIII Century Meals Conception_: Marc Meneau  
 _Historical Consultant_: Evelyne Lever  
 _Historical Adviser_: Jacques Charles-Gaffiot  
-_Carriages/Horses_: Ecuries Hardy,  
-Frédéric Hardy
+_Carriages/Horses_: Ecuries Hardy,  Frédéric Hardy
 
-_Cast:_
-
+**Cast**  
 Kirsten Dunst _(Marie Antoinette)_  
 Jason Schwartzman _(Louis XVI)_  
 Judy Davis _(Comtesse de Noailles)_  
@@ -129,19 +116,16 @@ James Lance _(Leonard)_
 Al Weaver _(Comte d’Artois)_  
 Tom Hardy _(Raumont)_  
 Steve Coogan _(Ambassador Mercy)_  
-Clara Brajman, Mélodie Berenfeld_  
-(Austrian girlfriends)_  
+Clara Brajman, Mélodie Berenfeld _(Austrian girlfriends)_  
 Jean-Christophe Bouvet _(Duc de Choiseul)_  
 Io Bottoms, Céline Sallette _(ladies-in-waiting)_  
-André Oumansky_  
-(Cardinal de la Roche Aymon)_  
+André Oumansky _(Cardinal de la Roche Aymon)_  
 Jean-Paul Scarpitta _(Baron Scarpitta)_  
 René Lucien Rolland _(archbishop)_  
 Clementine Poidatz _(Comtesse de Provence)_  
 Camille Miceli _(Grand Chambellan)_  
 Paul Fortune _(Duc Fortune)_  
-Natasha Fraser-Cavassoni_  
-(Comtesse de Cavazzoni)_  
+Natasha Fraser-Cavassoni _(Comtesse de Cavazzoni)_  
 Alexia Landeau _(Comtesse de la Londe)_  
 Joe Sheridan _(catty courtier)_  
 Katrine Boorman _(the English duchess)_  
@@ -161,16 +145,15 @@ Gaëlle Bona _(girl at Petit Trianon)_
 William Doherty _(councilman)_  
 Florrie Betts _(Marie Therese 6 years)_  
 Dominic Gould _(count)_  
-Jago Betts, Axel Küng, Driss Hugo-Kalff_  
-(dauphin 2 years)_  
+Jago Betts, Axel Küng, Driss Hugo-Kalff _(dauphin 2 years)_  
 Fabrice Scott _(king’s messenger)_  
 Alain Doutey _(chief valet)_  
 Bo Barrett _(page)_  
 Joseph Malerba _(queen’s guard)_
 
-USA/France/Japan 2005©
-
+USA/France/Japan 2005©  
 123 mins
+<b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Mjc0Nzk1Nl19
+eyJoaXN0b3J5IjpbLTExNDE0NTYzMDRdfQ==
 -->
