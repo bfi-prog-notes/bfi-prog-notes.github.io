@@ -1,0 +1,141 @@
+
+<![endif]-->
+
+_+ Q&A with creator, writer and executive producer Sally Wainwright and stars Suranne Jones and Sophie Rundle. Hosted by Miranda_ _Sawyer._
+
+Yorkshire, 1834. All eyes are on Anne Lister (Suranne Jones) and Ann Walker (Sophie Rundle) as they set up home together at Shibden Hall as wife and wife, determined to combine their estates and become a power couple. Anne Lister’s entrepreneurial spirit frightens the locals as much as her unconventional love life and, with Halifax on the brink of revolution, her refusal to keep a low profile becomes provocative and dangerous.
+
+Series two will again use the real life diaries of Anne Lister – part of which were written in code – as its source, with every part of Lister’s story based in historical fact and the five million words she wrote in her journals.
+
+Returning to Shibden Hall for the new series are Gemma Whelan as Marian Lister, Gemma Jones as Aunt Anne Lister, and Timothy West as Jeremy Lister. They are joined by many returning cast including Lydia Leonard (Mariana Lawton), Jodhi May (Lady Vere Cameron), Katherine Kelly (Elizabeth Sutherland), Derek Riddell (Captain George Sutherland), Stephanie Cole (Aunt Ann Walker), Peter Davison (William Priestley), Amelia Bullmore (Eliza Priestley), Vincent Franklin (Christopher Rawson), Shaun Dooley (Jeremiah Rawson), Rosie Cavaliero (Elizabeth Cordingley), Joe Armstrong (Samuel Washington), Anthony Flanagan (Ben Sowden) and George Costigan (James Holt).
+
+Joanna Scanlan joins as guest cast for series two in the role of Anne Lister’s outrageous former lover Isabella ‘Tib’ Norcliffe.
+
+_Gentleman Jack_ series one was a hit for BBC One and iPlayer, averaging 6.8 million viewers across its eight-episode run. It won the RTS Drama Series award and received BAFTA nominations in the Drama Series category, as well as the Leading Actress category for Suranne Jones’ performance. Internationally the series won the BANFF Rockie Award for Drama Series: English Language.
+
+_Gentleman Jack_ returns to BBC One and BBC iPlayer this Spring. Series one is available to stream in full on BBC iPlayer.
+
+Led by Faith Penhale, Lookout Point is one of the UK’s leading television producers, known for delivering high quality drama series with scale, ambition, and global impact.
+
+Recent titles include the ground-breaking adaptation of _A Suitable Boy_ (2020) directed by Mira Nair, _Les Misérables_ (2019) starring Dominic West, David Oyelowo and Lily Collins and _War & Peace_ (2016) starring Paul Dano, Lilly James and James Norton, all by Andrew Davies and for the BBC. Series 5 of Sally Wainwright’s award-winning and much loved BBC series _Last Tango in Halifax_, starring Anne Reid MBE and Sir Derek Jacobi, aired in 2020.
+
+Coming up will be the second series of BAFTA-nominated and RTS-award winning _Gentleman Jack_ for BBC One and HBO, the eight-part swashbuckling 18th century family adventure _The Ballad of Renegade Nell_ for Disney+, and the third and final series of _Happy Valley_, starring Sarah Lancashire and James Norton. All three series are written and created by Sally Wainwright. In addition, they are in post-production on the co-production with Boffola Pictures _Am I Being Unreasonable?_ written by and starring multi-BAFTA award winning Daisy May Cooper and Selin Hizli for the BBC.
+
+Lookout Point, which is owned by BBC Studios, holds a minority stake in Boffola Pictures Ltd.
+
+**GENTLEMAN JACK – SERIES 2**
+
+_Directors:_ Edward Hall, Amanda Brotchie, Fergus O’Brien
+
+_Produced by:_ Lookout Point
+
+_For:_ BBC One
+
+_Co-produced by:_ HBO
+
+_Executive Producer for BBC:_ Ben Irving
+
+_Producer:_ Stella Merz
+
+_Series Producer:_ Phil Collinson
+
+_Head of Production:_ Louise Mutter
+
+_Line Producer:_ Desmond Hughes
+
+_Production Manager:_ David Mack
+
+_Location Manager:_ Luc Webster
+
+_Production Accountant:_ Rachel Quigley Smith
+
+_Casting by:_ Andy Pryor
+
+_With thanks [for casting] to:_ Beverley Keogh
+
+_Casting Associate:_ Ri McDaid-Wren
+
+_Script Supervisor:_ Angie Pontefract
+
+_1st Assistant Director:_ Nathan Juckes
+
+_Post-production Supervisor:_ Max Caswell
+
+_Post-production Coordinator:_ Jess Pegram
+
+_Written by:_ Sally Wainwright
+
+_Script Editor:_ Emma Blauciak
+
+_Director of Photography:_ Nick Dance
+
+_Camera & Steadicam Operator:_ Chris Hutchinson
+
+_Grip:_ Marcus Moody
+_Gaffer:_ Yurandi Poots
+_Drone Pilot:_ Philip Fearnley
+_Editor:_ Richard Cox
+_Production Designer:_ Anna Pritchard
+_Supervising Art Director:_ Tom Atkins
+_Art Directors:_ Ben Clements,  Richard Downes
+_Set Decorator:_ Ussal Kalyoncu Smithers
+_Prop Master:_ James Baylan
+_Graphic Designer:_ Thomas Love
+_Special Effects:_ Rob Rowley
+_Visual Effects Supervisor:_ Gary Brown
+_Visual Effects Producer:_ Karl Kuehn
+_Visual Effects:_ Ghost VFX
+_Title Design:_ Sarah Rees
+_Costume Designer:_ Tom Pye
+_Assistant Costume Designer:_ Nadine Clifford-Davern
+_Costume Supervisor:_ Tyler Anderson
+_Hair & Make-up Designer:_ Lin Davie
+_Hair & Make-up Supervisor:_ Laura Flynn
+_Music by:_ Murray Gold
+_‘Gentleman Jack’ Song Written and Produced by:_ O’Hooley and Tidow
+_Production Sound Mixer:_ Jonathan Wyatt
+_Dubbing Mixer:_ Mark Briscoe
+_Sound Effects:_ Helen Dickson
+_Dialogue Editor:_ Ben Norrington
+_Series Consultant:_ Anne Choma
+_Diary Researcher:_ George Sherlaw-Johnson
+
+**Cast (in order of appearance in episode one)**
+Suranne  Jones _(Anne Lister)_
+Stephanie  Cole _(Aunt Ann Walker)_
+Thomas  Howes _(John Booth)_
+Mazie  McDonagh _(Charlotte Booth)_
+Niamh  Hustler _(Hannah Booth)_
+Steve  Evets _(Mr Pickels)_
+Felix  Johnson _(Dick)_
+Rosie  Cavaliero _(Elzabeth Cordingley)_
+Gemma  Whelan _(Marian Lister)_
+Gemma Jones _(Aunt Anne Lister)_
+Timothy  West _(Jeremy Lister)_
+Joe  Armstrong _(Samuel Washington)_
+Grant  Burgin _(Joseph Mann)_
+George  Costigan _(James Holt)_
+Bruce  Alexander _(Mr Parker)_
+Albane  Courtois _(Eugénie)_
+Jessica  Baglow _(Rachel Hemingway)_
+Ben  Hunter _(Joseph Booth)_
+Dino Fetscher _(Thomas Beech)_
+Lydia  Leonard _(Mariana Lawton)_
+Sophie  Rundle _(Ann Walker)_
+Michael D.  Xavier _(Doctor Steph Belcombe)_
+James Thackeray _(James Clayton)_
+Robert Wolfe _(Elija Peel)_
+Leo Flanagan _(Matthew Avison)_
+Carol MacReady _(Mrs Norcliffe)_
+Simon Paisley _Day (Major Norcliffe Norcliffe)_
+Jenna Russell _(Charlotte Norcliffe)_
+Amelia Bullmore _(Eliza Priestley)_
+Peter Davison _(William Priestley)_
+Rupert Vansittart _(Charles Lawton)_
+Martin Barrass _(Lawton Hall Butler)_
+
+UK/USA 2022
+Ep1 60 mins
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODMzNTYwODY3XX0=
+-->
