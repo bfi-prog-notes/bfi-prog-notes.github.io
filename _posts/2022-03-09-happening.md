@@ -99,21 +99,21 @@ France 2021©<br>
 
 **IN PERSON & PREVIEWS**<br>
 **TV Preview: Inside No. 9 + Q&A with creators Reece Shearsmith and Steve Pemberton, and executive producer Adam Tandy**<br>
-Fri 11 Mar 20:40
-**GFF Closing Gala: Murina**
-Sun 13 Mar 19:00
+Fri 11 Mar 20:40<br>
+**GFF Closing Gala: Murina**<br>
+Sun 13 Mar 19:00<br>
 
-**REGULAR PROGRAMME**
-**Film Wallahs: The Beatles and India + intro by co-director Pete Compton and producer Reynold D’Silva**
-Thu 10 Mar 18:15
+**REGULAR PROGRAMME**<br>
+**Film Wallahs: The Beatles and India + intro by co-director Pete Compton and producer Reynold D’Silva**<br>
+Thu 10 Mar 18:15<br>
 
-**NEW RELEASES**
-**La Mif (The Fam)**
-Continues from Fri 25 Feb
-**Rebel Dread**
-From Fri 4 Mar
-**Ali & Ava**
-From Fri 11 Mar; Tue 15 March 14:00 Seniors’ matinee + discussion
+**NEW RELEASES**<br>
+**La Mif (The Fam)**<br>
+Continues from Fri 25 Feb<br>
+**Rebel Dread**<br>
+From Fri 4 Mar<br>
+**Ali & Ava**<br>
+From Fri 11 Mar; Tue 15 March 14:00 Seniors’ matinee + discussion<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzQ3NTUyXX0=
+eyJoaXN0b3J5IjpbMTQ4MTQxOTY1OF19
 -->
