@@ -1,6 +1,3 @@
-
-<![endif]-->
-
 _+ Q&A with creator, writer and executive producer Sally Wainwright and stars Suranne Jones and Sophie Rundle. Hosted by Miranda_ _Sawyer._
 
 Yorkshire, 1834. All eyes are on Anne Lister (Suranne Jones) and Ann Walker (Sophie Rundle) as they set up home together at Shibden Hall as wife and wife, determined to combine their estates and become a power couple. Anne Lister’s entrepreneurial spirit frightens the locals as much as her unconventional love life and, with Halifax on the brink of revolution, her refusal to keep a low profile becomes provocative and dangerous.
@@ -21,66 +18,42 @@ Recent titles include the ground-breaking adaptation of _A Suitable Boy_ (2020) 
 
 Coming up will be the second series of BAFTA-nominated and RTS-award winning _Gentleman Jack_ for BBC One and HBO, the eight-part swashbuckling 18th century family adventure _The Ballad of Renegade Nell_ for Disney+, and the third and final series of _Happy Valley_, starring Sarah Lancashire and James Norton. All three series are written and created by Sally Wainwright. In addition, they are in post-production on the co-production with Boffola Pictures _Am I Being Unreasonable?_ written by and starring multi-BAFTA award winning Daisy May Cooper and Selin Hizli for the BBC.
 
-Lookout Point, which is owned by BBC Studios, holds a minority stake in Boffola Pictures Ltd.
+Lookout Point, which is owned by BBC Studios, holds a minority stake in Boffola Pictures Ltd.<br>
 
-**GENTLEMAN JACK – SERIES 2**
-
-_Directors:_ Edward Hall, Amanda Brotchie, Fergus O’Brien
-
-_Produced by:_ Lookout Point
-
-_For:_ BBC One
-
-_Co-produced by:_ HBO
-
-_Executive Producer for BBC:_ Ben Irving
-
-_Producer:_ Stella Merz
-
-_Series Producer:_ Phil Collinson
-
-_Head of Production:_ Louise Mutter
-
-_Line Producer:_ Desmond Hughes
-
-_Production Manager:_ David Mack
-
-_Location Manager:_ Luc Webster
-
-_Production Accountant:_ Rachel Quigley Smith
-
-_Casting by:_ Andy Pryor
-
-_With thanks [for casting] to:_ Beverley Keogh
-
-_Casting Associate:_ Ri McDaid-Wren
-
-_Script Supervisor:_ Angie Pontefract
-
-_1st Assistant Director:_ Nathan Juckes
-
-_Post-production Supervisor:_ Max Caswell
-
-_Post-production Coordinator:_ Jess Pegram
-
-_Written by:_ Sally Wainwright
-
-_Script Editor:_ Emma Blauciak
-
-_Director of Photography:_ Nick Dance
-
-_Camera & Steadicam Operator:_ Chris Hutchinson
-
-_Grip:_ Marcus Moody
-_Gaffer:_ Yurandi Poots
-_Drone Pilot:_ Philip Fearnley
-_Editor:_ Richard Cox
-_Production Designer:_ Anna Pritchard
-_Supervising Art Director:_ Tom Atkins
-_Art Directors:_ Ben Clements,  Richard Downes
-_Set Decorator:_ Ussal Kalyoncu Smithers
-_Prop Master:_ James Baylan
-_Graphic Designer:_ Thomas Love
+**GENTLEMAN JACK – SERIES 2**<br>
+_Directors:_ Edward Hall, Amanda Brotchie, Fergus O’Brien<br>
+_Produced by:_ Lookout Point<br>
+_For:_ BBC One<br>
+_Co-produced by:_ HBO<br>
+_Executive Producer for BBC:_ Ben Irving<br>
+_Producer:_ Stella Merz<br>
+_Series Producer:_ Phil Collinson<br>
+_Head of Production:_ Louise Mutter<br>
+_Line Producer:_ Desmond Hughes<br>
+_Production Manager:_ David Mack<br>
+_Location Manager:_ Luc Webster<br>
+_Production Accountant:_ Rachel Quigley Smith<br>
+_Casting by:_ Andy Pryor<br>
+_With thanks [for casting] to:_ Beverley Keogh<br>
+_Casting Associate:_ Ri McDaid-Wren<br>
+_Script Supervisor:_ Angie Pontefract<br>
+_1st Assistant Director:_ Nathan Juckes<br>
+_Post-production Supervisor:_ Max Caswell<br>
+_Post-production Coordinator:_ Jess Pegram<br>
+_Written by:_ Sally Wainwright<br>
+_Script Editor:_ Emma Blauciak<br>
+_Director of Photography:_ Nick Dance<br>
+_Camera & Steadicam Operator:_ Chris Hutchinson<br>
+_Grip:_ Marcus Moody<br>
+_Gaffer:_ Yurandi Poots<br>
+_Drone Pilot:_ Philip Fearnley<br>
+_Editor:_ Richard Cox<br>
+_Production Designer:_ Anna Pritchard<br>
+_Supervising Art Director:_ Tom Atkins<br>
+_Art Directors:_ Ben Clements,  Richard Downes<br>
+_Set Decorator:_ Ussal Kalyoncu Smithers<br>
+_Prop Master:_ James Baylan<br>
+_Graphic Designer:_ Thomas Love<br>
 _Special Effects:_ Rob Rowley
 _Visual Effects Supervisor:_ Gary Brown
 _Visual Effects Producer:_ Karl Kuehn
@@ -137,5 +110,5 @@ Martin Barrass _(Lawton Hall Butler)_
 UK/USA 2022
 Ep1 60 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzNTYwODY3XX0=
+eyJoaXN0b3J5IjpbLTY1NjYzNjE4OF19
 -->
