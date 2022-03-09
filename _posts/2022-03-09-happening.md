@@ -75,26 +75,45 @@ Luàna Bajrami _(Hélène)_<br>
 Louise Orry-Diquero _(Brigitte)_<br>
 Louise Chevillotte _(Olivia)_<br>
 Pio Marmaï _(Professor Bornec)_<br>
-Sandrine Bonnaire _(Gabrielle)_
-Leonor Oberson _(Claire)_
-Anna Mouglalis _(Rivière)_
-Cyril Metzger _(Gaspard)_
-Éric Verdin _(Jacques)_
-Alice de Lencquesaing _(Laëtitia)_
-Madeleine Baudot _(Lise)_
-Fabrizio Rongione _(Doctor Ravinsky)_
-Isabelle Mazin _(Magda)_
-Julien Frison _(Maxime)_
-Edouard Sulpice _(Patrick)_
-Muse Céline _(Leïla)_
-François Loriquet _(Doctor Guimet)_
-Louis Bédot _(fireman)_
-Emeline Weickmans _(student in telephone booth)_
-Gabriel Washer _(student wearing cap)_
-Lomane De Dietrich _(student at flea market)_
+Sandrine Bonnaire _(Gabrielle)_<br>
+Leonor Oberson _(Claire)_<br>
+Anna Mouglalis _(Rivière)_<br>
+Cyril Metzger _(Gaspard)_<br>
+Éric Verdin _(Jacques)_<br>
+Alice de Lencquesaing _(Laëtitia)_<br>
+Madeleine Baudot _(Lise)_<br>
+Fabrizio Rongione _(Doctor Ravinsky)_<br>
+Isabelle Mazin _(Magda)_<br>
+Julien Frison _(Maxime)_<br>
+Edouard Sulpice _(Patrick)_<br>
+Muse Céline _(Leïla)_<br>
+François Loriquet _(Doctor Guimet)_<br>
+Louis Bédot _(fireman)_<br>
+Emeline Weickmans _(student in telephone booth)_<br>
+Gabriel Washer _(student wearing cap)_<br>
+Lomane De Dietrich _(student at flea market)_<br>
 
-France 2021©
-99 mins
+France 2021©<br>
+99 mins<br>
+<br>
+
+**IN PERSON & PREVIEWS**<br>
+**TV Preview: Inside No. 9 + Q&A with creators Reece Shearsmith and Steve Pemberton, and executive producer Adam Tandy**<br>
+Fri 11 Mar 20:40
+**GFF Closing Gala: Murina**
+Sun 13 Mar 19:00
+
+**REGULAR PROGRAMME**
+**Film Wallahs: The Beatles and India + intro by co-director Pete Compton and producer Reynold D’Silva**
+Thu 10 Mar 18:15
+
+**NEW RELEASES**
+**La Mif (The Fam)**
+Continues from Fri 25 Feb
+**Rebel Dread**
+From Fri 4 Mar
+**Ali & Ava**
+From Fri 11 Mar; Tue 15 March 14:00 Seniors’ matinee + discussion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTg4NDAxN119
+eyJoaXN0b3J5IjpbLTU3NzQ3NTUyXX0=
 -->
