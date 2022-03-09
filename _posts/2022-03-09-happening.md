@@ -1,3 +1,15 @@
+---
+layout: post
+title: Happening
+published: true
+date: 2022-03-09
+readtime: true
+categories: ['GLASGOW FILM FESTIVAL']
+tags: [Drama]
+metadata: 'France 2021, 99 mins<br> Director: Audrey Diwan'
+pdf: '2022-03-09-happening.pdf'
+---
+_+ pre-recorded Q&A with director Audrey Diwan_
 
 _I got knocked up like a poor girl._ This is the story of Anne, a young woman who decides to abort to finish her studies and escape the social constraints of a working-class family. France in 1963: a society that censures women’s desires. And sex in general. This simple but cruel story follows the itinerary of a woman who decides to go against the law. Anne has only a little time before her. Her exams are just around the corner, and her baby bump is growing fast…<br>
 
@@ -114,6 +126,19 @@ Continues from Fri 25 Feb<br>
 From Fri 4 Mar<br>
 **Ali & Ava**<br>
 From Fri 11 Mar; Tue 15 March 14:00 Seniors’ matinee + discussion<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTQxOTY1OF19
--->
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
