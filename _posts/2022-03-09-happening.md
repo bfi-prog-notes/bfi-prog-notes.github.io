@@ -1,23 +1,18 @@
 
-
-<![endif]-->
-
-_I got knocked up like a poor girl._ This is the story of Anne, a young woman who decides to abort to finish her studies and escape the social constraints of a working-class family. France in 1963: a society that censures women’s desires. And sex in general. This simple but cruel story follows the itinerary of a woman who decides to go against the law. Anne has only a little time before her. Her exams are just around the corner, and her baby bump is growing fast…
+_I got knocked up like a poor girl._ This is the story of Anne, a young woman who decides to abort to finish her studies and escape the social constraints of a working-class family. France in 1963: a society that censures women’s desires. And sex in general. This simple but cruel story follows the itinerary of a woman who decides to go against the law. Anne has only a little time before her. Her exams are just around the corner, and her baby bump is growing fast…<br>
 
 **A letter from author Annie Ernaux**
-
 I came out of the screening of _Happening_ very moved. The only thing I could say to Audrey Diwan was: ‘You’ve made a truthful film’.
 
 By truthful I meant as close as possible to what it meant for a girl to become pregnant in the 1960s, when the law forbade and punished abortion. The film does not argue, judge, or even dramatise. It follows Anne’s everyday life as a student from the moment she waits for her period in vain until her pregnancy has been terminated. In other words, it is told via Anne’s point of view; her gestures, her behaviour with others, the way she walks, her silences, all convey this sudden crisis in her life, as her body grows heavier, and she craves foods that will only disgust her. It conveys the unspeakable horror of time passing – as posted on screen in terms of weeks – and the disarray and discouragement when every other solution fails. But it also shows determination to see things through to the end. And when all is said and done, and Anne is once again surrounded by other students, her serene and luminous face reflects her conviction that the future once again belongs to her.
 
 I cannot imagine anyone but Anamaria Vartolomei playing Anne and, in a certain sense, playing me at 23. She is overwhelmingly true and spot-on, as I recall things.
 
-But I do not think that I would have found the film so absolutely true to life, if it had obfuscated what women had recourse to before the passage of the **‘**Loi Veil**’**, the 1975 law decriminalising abortion in France. Audrey Diwan had the courage to show it in all its brutal reality: the knitting needles, the probe introduced into the uterus by an abortionist. Only such disturbing images can make us aware of the horrors that were perpetrated on women’s bodies, and what a step backwards would mean.
+But I do not think that I would have found the film so absolutely true to life, if it had obfuscated what women had recourse to before the passage of the 'Loi Veil', the 1975 law decriminalising abortion in France. Audrey Diwan had the courage to show it in all its brutal reality: the knitting needles, the probe introduced into the uterus by an abortionist. Only such disturbing images can make us aware of the horrors that were perpetrated on women’s bodies, and what a step backwards would mean.
 
 Twenty years ago, at the end of my book, I wrote that what happened to me during those three months in 1964 was my body’s ‘total experience’ of the times and its morals… The prohibition of abortion and then the new legislation. That is just what Audrey Diwan shows and conveys in her film.
 
 **An interview with director Audrey Diwan**
-
 _What prompted you to adapt Annie Ernaux’ novel_ Happening_?_
 
 I’ve known Annie Ernaux’ work for a long time now: the power of her thought and the purity of her style. But I came late to _Happening_. I was impressed by the dichotomy between the hackneyed formula: back-alley abortion, and the concrete reality of the procedure. My first thoughts were for the body of this young woman, what it must have suffered from the moment she was told she was pregnant. And the dilemma she was faced with. Risk her life and abort, or have the baby and sacrifice her future. Body or mind. I would not have wanted to choose. All those questions were raised concretely in the initial text. I tried to translate them into images: a carnal process that would let me turn the narrative into a physical experience. In a voyage that I hope is possible beyond considerations of period or gender.
@@ -35,79 +30,43 @@ _How did you cast Anamaria Vartolomei, who is in every sequence of the film and 
 From our first auditions, Anamaria Vartolomei had the right physique for the role. And then there was something else, mysterious, and powerful: her diaphanous skin, her interiorised vision of the world, difficult to decipher and captivating at the same time. She communicates a great deal using minimal means.
 
 She is a minimalist actor. I am very sensitive to her kind of delicacy. We began by defining the character in terms of her body. Her posture. I kept repeating: ‘Anne is a soldier’, she keeps a low profile, with her feet on the ground, staring straight ahead, ready to take on the world. She needs to live with her renegade status. With what it means to have everyone’s eyes on you, with society weighing you down. Anamaria intelligently forged the armour the character required.
-
 **Production notes**
 
   
-
 **HAPPENING (L’ÉVÉNEMENT)**
 _Directed by:_ Audrey Diwan
 _©:_ Rectangle Productions, France 3 Cinéma, Wild Bunch, Srab Films
-
 _Produced by:_ Rectangle Productions
-
 _In co-production with:_ France 3 Cinéma, Wild Bunch, Srab Films
-
 _With the participation of:_ Canal+, Ciné+, France Télévisions
-
 _With the support of:_ Centre National du cinéma et de l’image animée
-
-_With the support of:_ Région Île-De-France,
-
-Région Nouvelle-Aquitaine Magelis
-
+_With the support of:_ Région Île-De-France, Région Nouvelle-Aquitaine Magelis
 _And:_ Département Charente
-
 _In partnership with:_ CNC
-
 _In association with:_ Palatine Étoile 18, Cofinova 17
-
 _Developed with the support of:_ Cofinova, Développement 16
-
 _With the support of:_ Procirep
-
 _Produced by:_ Édouard Weil, Alice Girard
-
 _Production Manager:_ Monica Taverna
-
 _Post-Production Manager:_ Mélanie Karlin
-
 _Location Manager:_ Gary Spinelli
-
 _Assistant Director:_ Anaïs Couette
-
 _Continuity:_ Diane Brasseur
-
 _Casting:_ Élodie Demey
-
 _Screenplay:_ Audrey Diwan, Marcia Romano
-
 _With the participation of:_ Anne Berest
-
 _Based on the novel by:_ Annie Ernaux
-
 _Director of Photography:_ Laurent Tangy
-
 _Gaffer:_ Olivier Mandrin
-
 _Key Grip:_ Thomas Valaeys
-
 _Editing:_ Géraldine Mangenot
-
 _Set Design:_ Diéné Berete
-
 _Costumes:_ Isabelle Pannetier
-
 _Make-up:_ Amélie Bouilly
-
 _Hairdresser:_ Sarah Mescoff
-
 _Original Music:_ Evgueni Galperine, Sacha Galperine
-
 _Sound Engineers:_ Antoine Mercier, Philippe Welsh
-
 _Sound Editor:_ Thomas Desjonquères
-
 _Mixing:_ Marc Doisne
 
 **Cast**
@@ -136,8 +95,7 @@ Gabriel Washer _(student wearing cap)_
 Lomane De Dietrich _(student at flea market)_
 
 France 2021©
-
 99 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjcwMTc2OV19
+eyJoaXN0b3J5IjpbMTA4OTI0MDc0MV19
 -->
