@@ -54,61 +54,61 @@ _Art Directors:_ Ben Clements,  Richard Downes<br>
 _Set Decorator:_ Ussal Kalyoncu Smithers<br>
 _Prop Master:_ James Baylan<br>
 _Graphic Designer:_ Thomas Love<br>
-_Special Effects:_ Rob Rowley
-_Visual Effects Supervisor:_ Gary Brown
-_Visual Effects Producer:_ Karl Kuehn
-_Visual Effects:_ Ghost VFX
-_Title Design:_ Sarah Rees
-_Costume Designer:_ Tom Pye
-_Assistant Costume Designer:_ Nadine Clifford-Davern
-_Costume Supervisor:_ Tyler Anderson
-_Hair & Make-up Designer:_ Lin Davie
-_Hair & Make-up Supervisor:_ Laura Flynn
-_Music by:_ Murray Gold
-_‘Gentleman Jack’ Song Written and Produced by:_ O’Hooley and Tidow
-_Production Sound Mixer:_ Jonathan Wyatt
-_Dubbing Mixer:_ Mark Briscoe
-_Sound Effects:_ Helen Dickson
-_Dialogue Editor:_ Ben Norrington
-_Series Consultant:_ Anne Choma
-_Diary Researcher:_ George Sherlaw-Johnson
+_Special Effects:_ Rob Rowley<br>
+_Visual Effects Supervisor:_ Gary Brown<br>
+_Visual Effects Producer:_ Karl Kuehn<br>
+_Visual Effects:_ Ghost VFX<br>
+_Title Design:_ Sarah Rees<br>
+_Costume Designer:_ Tom Pye<br>
+_Assistant Costume Designer:_ Nadine Clifford-Davern<br>
+_Costume Supervisor:_ Tyler Anderson<br>
+_Hair & Make-up Designer:_ Lin Davie<br>
+_Hair & Make-up Supervisor:_ Laura Flynn<br>
+_Music by:_ Murray Gold<br>
+_‘Gentleman Jack’ Song Written and Produced by:_ O’Hooley and Tidow<br>
+_Production Sound Mixer:_ Jonathan Wyatt<br>
+_Dubbing Mixer:_ Mark Briscoe<br>
+_Sound Effects:_ Helen Dickson<br>
+_Dialogue Editor:_ Ben Norrington<br>
+_Series Consultant:_ Anne Choma<br>
+_Diary Researcher:_ George Sherlaw-Johnson<br>
 
-**Cast (in order of appearance in episode one)**
-Suranne  Jones _(Anne Lister)_
-Stephanie  Cole _(Aunt Ann Walker)_
-Thomas  Howes _(John Booth)_
-Mazie  McDonagh _(Charlotte Booth)_
-Niamh  Hustler _(Hannah Booth)_
-Steve  Evets _(Mr Pickels)_
-Felix  Johnson _(Dick)_
-Rosie  Cavaliero _(Elzabeth Cordingley)_
-Gemma  Whelan _(Marian Lister)_
-Gemma Jones _(Aunt Anne Lister)_
-Timothy  West _(Jeremy Lister)_
-Joe  Armstrong _(Samuel Washington)_
-Grant  Burgin _(Joseph Mann)_
-George  Costigan _(James Holt)_
-Bruce  Alexander _(Mr Parker)_
-Albane  Courtois _(Eugénie)_
-Jessica  Baglow _(Rachel Hemingway)_
-Ben  Hunter _(Joseph Booth)_
-Dino Fetscher _(Thomas Beech)_
-Lydia  Leonard _(Mariana Lawton)_
-Sophie  Rundle _(Ann Walker)_
-Michael D.  Xavier _(Doctor Steph Belcombe)_
-James Thackeray _(James Clayton)_
-Robert Wolfe _(Elija Peel)_
-Leo Flanagan _(Matthew Avison)_
-Carol MacReady _(Mrs Norcliffe)_
-Simon Paisley _Day (Major Norcliffe Norcliffe)_
-Jenna Russell _(Charlotte Norcliffe)_
-Amelia Bullmore _(Eliza Priestley)_
-Peter Davison _(William Priestley)_
-Rupert Vansittart _(Charles Lawton)_
-Martin Barrass _(Lawton Hall Butler)_
+**Cast (in order of appearance in episode one)**<br>
+Suranne  Jones _(Anne Lister)_<br>
+Stephanie  Cole _(Aunt Ann Walker)_<br>
+Thomas  Howes _(John Booth)_<br>
+Mazie  McDonagh _(Charlotte Booth)_<br>
+Niamh  Hustler _(Hannah Booth)_<br>
+Steve  Evets _(Mr Pickels)_<br>
+Felix  Johnson _(Dick)_<br>
+Rosie  Cavaliero _(Elzabeth Cordingley)_<br>
+Gemma  Whelan _(Marian Lister)_<br>
+Gemma Jones _(Aunt Anne Lister)_<br>
+Timothy  West _(Jeremy Lister)_<br>
+Joe  Armstrong _(Samuel Washington)_<br>
+Grant  Burgin _(Joseph Mann)_<br>
+George  Costigan _(James Holt)_<br>
+Bruce  Alexander _(Mr Parker)_<br>
+Albane  Courtois _(Eugénie)_<br>
+Jessica  Baglow _(Rachel Hemingway)_<br>
+Ben  Hunter _(Joseph Booth)_<br>
+Dino Fetscher _(Thomas Beech)_<br>
+Lydia  Leonard _(Mariana Lawton)_<br>
+Sophie  Rundle _(Ann Walker)_<br>
+Michael D.  Xavier _(Doctor Steph Belcombe)_<br>
+James Thackeray _(James Clayton)_<br>
+Robert Wolfe _(Elija Peel)_<br>
+Leo Flanagan _(Matthew Avison)_<br>
+Carol MacReady _(Mrs Norcliffe)_<br>
+Simon Paisley _Day (Major Norcliffe Norcliffe)_<br>
+Jenna Russell _(Charlotte Norcliffe)_<br>
+Amelia Bullmore _(Eliza Priestley)_<br>
+Peter Davison _(William Priestley)_<br>
+Rupert Vansittart _(Charles Lawton)_<br>
+Martin Barrass _(Lawton Hall Butler)_<br>
 
-UK/USA 2022
-Ep1 60 mins
+UK/USA 2022<br>
+Ep1 60 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjYzNjE4OF19
+eyJoaXN0b3J5IjpbNTE5NjQyMjQ2XX0=
 -->
