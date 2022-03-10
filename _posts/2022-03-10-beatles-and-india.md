@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Beatles and India
+published: true
+date: 2022-03-10
+readtime: true
+categories: ['FILM WALLAHS']
+tags: [Documentary, Music]
+metadata: 'UK/India 2021, 92 mins<br> Directors: Ajoy Bose, Pete Compton'
+pdf: '2022-03-10-beatles-and-india.pdf'
+---
 _+ intro by co-director Pete Compton and producer Reynold D’Silva_
 
 _The Beatles and India_ is a unique historical chronicle of the enduring love affair between The Beatles and India that started more than half a century ago.  
@@ -54,8 +64,34 @@ _Sound (India):_ Anita Khuswaha<br>
 
 UK/India 2021<br>
 92 mins<br>
+<br>
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTY2NTA4Ml19
--->
+**IN PERSON & PREVIEWS**<br>
+**TV Preview: Inside No. 9 + Q&A with creators Reece Shearsmith and Steve Pemberton, and executive producer Adam Tandy**<br>
+Fri 11 Mar 20:40<br>
+**GFF Closing Gala: Murina**<br>
+Sun 13 Mar 19:00<br>
+
+
+**REGULAR PROGRAMME**<br>
+**Film Wallahs: The Beatles and India + intro by co-director Pete Compton and producer Reynold D’Silva**<br>
+Thu 10 Mar 18:15<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
