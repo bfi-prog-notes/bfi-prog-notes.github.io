@@ -22,108 +22,61 @@ Versatile compositions from cinematographer Ole Birkeland seamlessly capture the
 Extreme close-ups enhance the very real intimacy between these two characters. The more time they spend together, the more each learns what the other is going through and the less space there is to hide. Barnard presents a romance that involves not escape from one’s problems but acceptance of another’s.
 
 Lightly threaded around the key events of the film is the question of naming Callum’s baby. Various suggestions are shot down until all agree on Grace – a word that also applies to what Ali and Ava find together.<br>
+**Sophie Monks-Kaufman, _Sight and Sound_, April 2022**<br>
 
-**Sophie Monks-Kaufman, _Sight and Sound_, April 2022**
-
-**Adeel Akhtar Profile**
-
+**Adeel Akhtar Profile**<br>
 After his deeply affecting performance as the happy-go-lucky Ali in _Ali & Ava_, it’s hard to believe Adeel Akhtar’s most well-known film role to date, as the hapless wannabe-terrorist Faisal in Chris Morris’s _Four Lions_, was 12 years ago. But Akhtar is becoming a more recognisable face in British cinema these days, having popped up in smaller roles in recent theatrical releases such as _Everybody’s Talking About Jamie_, _The Electrical Life of Louis Wain_ and _Save the Cinema_; and the actor has been making an impact in TV dramas for almost a decade. He received acclaim for his turn as Wilson Wilson (sic) in the short-lived dystopian thriller series _Utopia_ (2013) and won his first BAFTA for the made-for-TV movie _Murdered by My Father_ (2016). He’s also had a host of supporting roles – as Lestrade in Netflix’s revisionist _Enola Holmes_ (2020) and in BBC1’s _Les Misérables_ (2018-19), in which he played Thénardier alongside David Oyelowo’s Javert.
 
-_Ali & Ava_, while understated, is perhaps the best showcase to date of Akhtar’s range as an actor. Inhabiting the vibrant persona of Ali, he can slip seamlessly from high-energy physical comedy to a quiet, understated grief. As the male romantic lead, it is his charisma and chemistry with Claire Rushbrook that elevate the film. At the 2021 British Independent Film Awards, Akhtar won Best Actor, beating Jude Law, Stephen Graham, James Norton and even _Four Lions_ co-star Riz Ahmed. ‘When I was first starting out, I felt the casting was quite narrow in terms of what I could do, because of my ethnicity,’ Akhtar said in an interview for BAFTA. ‘But now, I generally feel that the challenges I have are the same as any actor, and that’s for a person to look at me and know that acting is my job, and I could probably do more than one thing.’
-
-**Carly Mattox, _Sight and Sound_, April 2022**
+_Ali & Ava_, while understated, is perhaps the best showcase to date of Akhtar’s range as an actor. Inhabiting the vibrant persona of Ali, he can slip seamlessly from high-energy physical comedy to a quiet, understated grief. As the male romantic lead, it is his charisma and chemistry with Claire Rushbrook that elevate the film. At the 2021 British Independent Film Awards, Akhtar won Best Actor, beating Jude Law, Stephen Graham, James Norton and even _Four Lions_ co-star Riz Ahmed. ‘When I was first starting out, I felt the casting was quite narrow in terms of what I could do, because of my ethnicity,’ Akhtar said in an interview for BAFTA. ‘But now, I generally feel that the challenges I have are the same as any actor, and that’s for a person to look at me and know that acting is my job, and I could probably do more than one thing.’<br>
+**Carly Mattox, _Sight and Sound_, April 2022**<br>
 
   
 
-**ALI & AVA**
-
-_Directed by:_ Clio Barnard
-
-©: Avali Film Ltd, British Broadcasting Corporation, The British Film Institute
-
-_a_ Moonspun Films _production_
-
+**ALI & AVA**<br>
+_Directed by:_ Clio Barnard<br>
+©: Avali Film Ltd, British Broadcasting Corporation, The British Film Institute<br>
+_a_ Moonspun Films _production_<br>
 _Presented by:_ BBC Film, BFI, Screen Yorkshire
-
 _In association with:_ Altitude Film Entertainment
-
 _Developed with the support of:_ BBC Film
-
-_Made with the support of the_ BFI Film Fund,
-
-BFI Locked Box Initiative
-
-_Executive Producers:_ Rose Garnett, Claudia Yusef,
-
-Lizzie Francke, Hugo Heppell, Caroline Cooper Charles,
-
-Will Clarke, Mike Runagall
-
+_Made with the support of the_ BFI Film Fund, BFI Locked Box Initiative
+_Executive Producers:_ Rose Garnett, Claudia Yusef, Lizzie Francke, Hugo Heppell, Caroline Cooper Charles, Will Clarke, Mike Runagall
 _Produced by:_ Tracy O’Riordan
-
 _Co-producer:_ Ameenah Ayub Allen
-
 _Line Producer:_ Joanne Dixon
-
 _Casting Director:_ Shaheen Baig
-
 _1st Assistant Director:_ Tony Aherne
-
 _Post-production Supervisor:_ Meg Clark
-
 _Written by:_ Clio Barnard
-
 _Script Consultant:_ Kamal Kaan
-
 _Character Consultants:_ Moey Hassan, Rio
-
 _Director of Photography:_ Ole Bratt Birkeland
-
 _Editor:_ Maya Maffioli
-
 _Production Designer:_ Stéphane Collonge
-
 _Costume Designer:_ Sophie O’Neill
-
 _Hair and Make-up Designer:_ Fiona Lobo-Cranston
-
 _Original Music:_ Harry Escott
-
 _Music Supervision:_ Connie Farr
-
 _Production Sound Mixer:_ Rashad Hall-Heinz
-
 _Re-recording Mixer:_ Martin Jensen
 
 **Cast**
-
 Adeel Akhtar _(Ali)_
-
 Claire Rushbrook _(Ava)_
-
 Ellora Torchia _(Runa)_
-
 Shaun Thomas _(Callum)_
-
 Natalie Gavin _(Dawn)_
-
 Mona Goodwin _(Michelle)_
-
 Krupa Pattani _(Usma)_
-
 Vinny Dhillon _(Jameela)_
-
 Tasha Connor _(Karen)_
-
 Macy Shackleton _(Venice)_
-
 Ariana Bodorova _(Sofia)_
 
 UK 2020©
-
 94 mins
 
 An Altitude Entertainment release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxMjgzODg3XX0=
+eyJoaXN0b3J5IjpbLTc2NzQ0MjIzXX0=
 -->
