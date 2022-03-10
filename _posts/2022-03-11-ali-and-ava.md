@@ -1,5 +1,16 @@
+---
+layout: post
+title: Ali & Ava
+published: true
+date: 2022-03-11
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'UK 2020, 94 mins<br> Director: Clio Barnard'
+pdf: '2022-03-11-ali-and-ava.pdf'
+---
 
-The romance of Clio Barnard’s fourth feature _Ali & Ava_ has a naturalism rarely captured in cinema. Instead of the lovers existing in a bubble, apart from other people, multicultural Bradford is woven into the story. The two leads – drawn from real people Barnard met while making _The Arbor_ (2010) and _The Selfish Giant_ (2013) – are lived-in, with baggage and responsibilities pulling them back to their families and pasts.
+The romance of Clio Barnard’s fourth feature _Ali & Ava_ has a naturalism rarely captured in cinema. Instead of the lovers existing in a bubble, apart from other people, multicultural Bradford is woven into the story. The two leads – drawn from real people Barnard met while making<br> _The Arbor_ (2010) and _The Selfish Giant_ (2013) – are lived-in, with baggage and responsibilities pulling them back to their families and pasts.
 
 Ali (Adeel Akhtar, buzzing with jocular energy) is a Bengal-British Muslim, a local DJ and property manager who treats his tenants like mates. He is estranged from his wife Runa (Ellora Torchia), but they still live together, masquerading as a couple to his family.
 
@@ -29,8 +40,6 @@ After his deeply affecting performance as the happy-go-lucky Ali in _Ali & Ava_,
 
 _Ali & Ava_, while understated, is perhaps the best showcase to date of Akhtar’s range as an actor. Inhabiting the vibrant persona of Ali, he can slip seamlessly from high-energy physical comedy to a quiet, understated grief. As the male romantic lead, it is his charisma and chemistry with Claire Rushbrook that elevate the film. At the 2021 British Independent Film Awards, Akhtar won Best Actor, beating Jude Law, Stephen Graham, James Norton and even _Four Lions_ co-star Riz Ahmed. ‘When I was first starting out, I felt the casting was quite narrow in terms of what I could do, because of my ethnicity,’ Akhtar said in an interview for BAFTA. ‘But now, I generally feel that the challenges I have are the same as any actor, and that’s for a person to look at me and know that acting is my job, and I could probably do more than one thing.’<br>
 **Carly Mattox, _Sight and Sound_, April 2022**<br>
-
-  
 
 **ALI & AVA**<br>
 _Directed by:_ Clio Barnard<br>
@@ -96,6 +105,20 @@ From Fri 11 Mar; Tue 15 March 14:00 Seniors’ matinee + discussion<br>
 From Mon 28 Mar<br>
 **Playground**<br>
 From Fri 15 April<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2MjgzODY2LC0xNTk4MTg0MDUxXX0=
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
