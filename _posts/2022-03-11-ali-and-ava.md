@@ -36,47 +36,47 @@ _Ali & Ava_, while understated, is perhaps the best showcase to date of Akhtar�
 _Directed by:_ Clio Barnard<br>
 ©: Avali Film Ltd, British Broadcasting Corporation, The British Film Institute<br>
 _a_ Moonspun Films _production_<br>
-_Presented by:_ BBC Film, BFI, Screen Yorkshire
-_In association with:_ Altitude Film Entertainment
-_Developed with the support of:_ BBC Film
-_Made with the support of the_ BFI Film Fund, BFI Locked Box Initiative
-_Executive Producers:_ Rose Garnett, Claudia Yusef, Lizzie Francke, Hugo Heppell, Caroline Cooper Charles, Will Clarke, Mike Runagall
-_Produced by:_ Tracy O’Riordan
-_Co-producer:_ Ameenah Ayub Allen
-_Line Producer:_ Joanne Dixon
-_Casting Director:_ Shaheen Baig
-_1st Assistant Director:_ Tony Aherne
-_Post-production Supervisor:_ Meg Clark
-_Written by:_ Clio Barnard
-_Script Consultant:_ Kamal Kaan
-_Character Consultants:_ Moey Hassan, Rio
-_Director of Photography:_ Ole Bratt Birkeland
-_Editor:_ Maya Maffioli
-_Production Designer:_ Stéphane Collonge
-_Costume Designer:_ Sophie O’Neill
-_Hair and Make-up Designer:_ Fiona Lobo-Cranston
-_Original Music:_ Harry Escott
-_Music Supervision:_ Connie Farr
-_Production Sound Mixer:_ Rashad Hall-Heinz
-_Re-recording Mixer:_ Martin Jensen
+_Presented by:_ BBC Film, BFI, Screen Yorkshire<br>
+_In association with:_ Altitude Film Entertainment<br>
+_Developed with the support of:_ BBC Film<br>
+_Made with the support of the_ BFI Film Fund, BFI Locked Box Initiative<br>
+_Executive Producers:_ Rose Garnett, Claudia Yusef, Lizzie Francke, Hugo Heppell, Caroline Cooper Charles, Will Clarke, Mike Runagall<br>
+_Produced by:_ Tracy O’Riordan<br>
+_Co-producer:_ Ameenah Ayub Allen<br>
+_Line Producer:_ Joanne Dixon<br>
+_Casting Director:_ Shaheen Baig<br>
+_1st Assistant Director:_ Tony Aherne<br>
+_Post-production Supervisor:_ Meg Clark<br>
+_Written by:_ Clio Barnard<br>
+_Script Consultant:_ Kamal Kaan<br>
+_Character Consultants:_ Moey Hassan, Rio<br>
+_Director of Photography:_ Ole Bratt Birkeland<br>
+_Editor:_ Maya Maffioli<br>
+_Production Designer:_ Stéphane Collonge<br>
+_Costume Designer:_ Sophie O’Neill<br>
+_Hair and Make-up Designer:_ Fiona Lobo-Cranston<br>
+_Original Music:_ Harry Escott<br>
+_Music Supervision:_ Connie Farr<br>
+_Production Sound Mixer:_ Rashad Hall-Heinz<br>
+_Re-recording Mixer:_ Martin Jensen<br>
 
-**Cast**
-Adeel Akhtar _(Ali)_
-Claire Rushbrook _(Ava)_
-Ellora Torchia _(Runa)_
-Shaun Thomas _(Callum)_
-Natalie Gavin _(Dawn)_
-Mona Goodwin _(Michelle)_
-Krupa Pattani _(Usma)_
-Vinny Dhillon _(Jameela)_
-Tasha Connor _(Karen)_
-Macy Shackleton _(Venice)_
-Ariana Bodorova _(Sofia)_
+**Cast**<br>
+Adeel Akhtar _(Ali)_<br>
+Claire Rushbrook _(Ava)_<br>
+Ellora Torchia _(Runa)_<br>
+Shaun Thomas _(Callum)_<br>
+Natalie Gavin _(Dawn)_<br>
+Mona Goodwin _(Michelle)_<br>
+Krupa Pattani _(Usma)_<br>
+Vinny Dhillon _(Jameela)_<br>
+Tasha Connor _(Karen)_<br>
+Macy Shackleton _(Venice)_<br>
+Ariana Bodorova _(Sofia)_<br>
 
-UK 2020©
-94 mins
+UK 2020©<br>
+94 mins<br>
 
-An Altitude Entertainment release
+An Altitude Entertainment release<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzQ0MjIzXX0=
+eyJoaXN0b3J5IjpbLTE1OTgxODQwNTFdfQ==
 -->
