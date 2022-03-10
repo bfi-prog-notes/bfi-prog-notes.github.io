@@ -77,6 +77,25 @@ UK 2020©<br>
 94 mins<br>
 
 An Altitude Entertainment release<br>
+<br>
+
+**NEW RELEASES**<br>
+**Flee**<br>
+Continues from Feb<br>
+**The Real Charlie Chaplin**<br>
+Continues from Feb<br>
+**Wheel of Fortune and Fantasy**<br>
+Continues from Feb<br>
+**La Mif (The Fam)**<br>
+Continues from Feb<br>
+**Rebel Dread**<br>
+From Fri 4 Mar<br>
+**Ali & Ava**<br>
+From Fri 11 Mar; Tue 15 March 14:00 Seniors’ matinee + discussion<br>
+**The Worst Person in the World**<br>
+From Mon 28 Mar<br>
+**Playground**<br>
+From Fri 15 April<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTgxODQwNTFdfQ==
+eyJoaXN0b3J5IjpbNTM2MjgzODY2LC0xNTk4MTg0MDUxXX0=
 -->
