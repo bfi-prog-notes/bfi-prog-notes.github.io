@@ -50,12 +50,12 @@ _Titles and Graphics:_ El Carousel<br>
 _Score Composed by:_ Benji Merrison<br>
 _Sound:_ Fizz-E-Motion<br>
 _Sound Designer:_ Luke Corradine<br>
-_Sound (India):_ Anita Khuswaha
+_Sound (India):_ Anita Khuswaha<br>
 
-UK/India 2021
-92 mins
+UK/India 2021<br>
+92 mins<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTc4MTIyOF19
+eyJoaXN0b3J5IjpbMTc3MTY2NTA4Ml19
 -->
