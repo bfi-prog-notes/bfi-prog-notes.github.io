@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Hermit of Treig
+published: true
+date: 2022-03-11
+readtime: true
+categories: ['THE CAMERA IS OURS<br>BRITAIN’S WOMEN DOCUMENTARY MAKERS']
+tags: [Documentary]
+metadata: 'UK 2021, 80 mins<br> Director: Lizzie MacKenzie'
+pdf: '2022-03-11-hermit-of-treig.pdf'
+---
 
 _We are delighted to welcome director Lizzie MacKenzie for a Q&A hosted by Jane Ray, Artistic Director for The Whickers and a multi-award winning documentary maker and executive producer in radio and television._
 
