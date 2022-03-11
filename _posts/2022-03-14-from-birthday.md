@@ -7,8 +7,7 @@ _Please note:_ Birth-Day _includes dialogue that reflects harmful racist views._
 There’s some splendid ‘mansplaining’ in _Birth-Day_, a public information film by Brigid ‘Budge’ Cooper, about the mysteries of maternity. Kay Mander’s powerful and radical _Homes for the People_ uses the bold yet simple technique of allowing working-class women to describe their living conditions: ‘I call it a muck-up’. In _Children of the Ruins_ Jill Craigie highlights the ill effects of the chaotic conditions in the aftermath of WWII. Margaret Thomson’s _The Troubled Mind_ is a potent, dramatised documentary featuring Adrienne Corri, made primarily to recruit women for training as nurses in psychiatric hospitals. We round off with the only colour film in the restoration project, _Something Nice to Eat_ directed by Sarah Erulkar (‘cooking is a kind of loving’ ), featuring  
 Jean Shrimpton.
 
-**Brigid ‘Budge’ Cooper  
-**Principled, blunt-speaking and pragmatic, Brigid ‘Budge’ Cooper was temperamentally well qualified to negotiate the pitfalls, compromises and institutional barriers that the Brit film biz was never short of.  Initially a ‘continuity girl’ (such was the term of the time), she assisted several famed Crown Film Unit productions, including _London Can Take It!_ (1940) and _Target for Tonight_ (1941). Moving to Paul Rotha Productions, followed by breakaway company DATA, Cooper soon made the director’s chair. Her versatility encompassed several facets of the MOI, from the informative if unappetising _Rat Destruction_ (1942) to the whimsically diverting _The Magician_ (1942), which demonstrates the lo-fi experimentation possible when making the MOI’s short ‘fillers’.
+**Brigid ‘Budge’ Cooper **Principled, blunt-speaking and pragmatic, Brigid ‘Budge’ Cooper was temperamentally well qualified to negotiate the pitfalls, compromises and institutional barriers that the Brit film biz was never short of.  Initially a ‘continuity girl’ (such was the term of the time), she assisted several famed Crown Film Unit productions, including _London Can Take It!_ (1940) and _Target for Tonight_ (1941). Moving to Paul Rotha Productions, followed by breakaway company DATA, Cooper soon made the director’s chair. Her versatility encompassed several facets of the MOI, from the informative if unappetising _Rat Destruction_ (1942) to the whimsically diverting _The Magician_ (1942), which demonstrates the lo-fi experimentation possible when making the MOI’s short ‘fillers’.
 
 _Children of the City_ (1944) and _Birth-Day_ (1945), by contrast, are substantial applications of the Documentary Movement’s social-democratic commitment to film as an aid in building an improved post-war society. In 1945, Cooper married fellow filmmaker Donald Alexander, later head of film for the National Coal Board, whose _Mining Review_ series Cooper co-produced for several years. Before that, as director of its first aid training films, she battled the board’s ban on women working (in her case filming) underground. Budge took them to court – and won.
 
@@ -122,5 +121,5 @@ John Addey
 
 UK 1967, 21 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTg0NTMwNl19
+eyJoaXN0b3J5IjpbLTc5MDY4MjA0NiwtODE1ODQ1MzA2XX0=
 -->
