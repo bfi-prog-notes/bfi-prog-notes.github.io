@@ -80,20 +80,15 @@ Screening courtesy of Cosmic Cat Films
 **The Camera Is Ours: Britain’s Women Documentary Makers** (two-disc DVD) is  released in March
 
 A collection of shorts and features will soon be available on BFI Player
+<br><br>
 
-<![endif]-->
+**MEZZANINE GALLERY**<br>
+**Jill Craigie: Film Pioneer**<br>
+In the 1940s Jill Craigie tackled subjects new to cinema in a unique blend of documentary, drama and, frequently, humour. One of the most photographed directors of her time, she was dubbed ‘Britain’s first woman filmmaker’ by the press, while she herself championed community voices and performers. This exhibition draws on a variety of sources, including works by leading photographers Lee Miller and Fred Daniels, to explore what made Craigie and her working methods unique.<br>
+From Thu 3 Mar<br>
+Guest curator: Lizzie Thynne<br>
+Supported by the Arts and Humanities Research Council and The University of Sussex<br>
 
-**MEZZANINE GALLERY**
-
-**Jill Craigie: Film Pioneer**
-
-In the 1940s Jill Craigie tackled subjects new to cinema in a unique blend of documentary, drama and, frequently, humour. One of the most photographed directors of her time, she was dubbed ‘Britain’s first woman filmmaker’ by the press, while she herself championed community voices and performers. This exhibition draws on a variety of sources, including works by leading photographers Lee Miller and Fred Daniels, to explore what made Craigie and her working methods unique.
-
-From Thu 3 Mar
-
-Guest curator: Lizzie Thynne
-
-Supported by the Arts and Humanities Research Council and The University of Sussex
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxNzE4ODM5XX0=
+eyJoaXN0b3J5IjpbOTMyNDgzMjk4XX0=
 -->
