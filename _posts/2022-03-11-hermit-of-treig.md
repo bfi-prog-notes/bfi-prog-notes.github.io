@@ -64,18 +64,18 @@ _Associate Producer:_ Rachel Stollery<br>
 _Impact Producer:_ Ged Fitzsimmons<br>
 _Production Manager:_ Naomi Spiro<br>
 _Director’s Assistant:_ Adelaide Pardo<br>
-_Story Consultants:_ Amy Hardie, Karen Kelly<br>  
+_Story Consultants:_ Amy Hardie, Karen Kelly<br>
 _Filmed by_: Lizzie MacKenzie<br>
 _Additional Cinematography:_ Troy Edige<br>
-_Aerial Photography:_ Brodie Hood, Will Hewitt, Austen McCowan<br>  
+_Aerial Photography:_ Brodie Hood, Will Hewitt, Austen McCowan<br>
 _Photographs and Writing by_: Ken Smith<br>
 _Archive Footage:_ William Aikman, Jack Coghill<br>
 _Editors_: Ling Lee, Kieran Gosney<br>
 _Online Editor:_ Will Hewitt<br>
 _Props Assistant:_ Lotte Kravitz<br>
-_Colour Grade_: Stephen Horne<br>  
+_Colour Grade_: Stephen Horne<br>
 _Composers:_ Cameron McLellan, Mischa Stevens<br>
-_Sound Recordist:_ Lizzie MacKenzie<br>  
+_Sound Recordist:_ Lizzie MacKenzie<br>
 _Foley:_ Pete Smith<br>
 _Additional Foley:_ Allan Colthart<br>
 _With:_<br>
