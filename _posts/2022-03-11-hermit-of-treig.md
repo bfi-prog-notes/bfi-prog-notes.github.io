@@ -49,57 +49,35 @@ _Executive Producers for Creative Scotland:_ Benjamin Taylor, Mark Thomas
 _Executive Producer for the BBC:_ Louise Thornton  
 _Executive Producer for BFI Doc Society Fund:_  Lisa-Marie Russo  
 _Executive Producer for The Whickers:_ Jane Ray<br>
-
 _Produced by_: Naomi Spiro<br>
-
 _Producer:_ Lizzie MacKenzie<br>
-
-_Associate Producer:_ Rachel Stollery
-
-_Impact Producer:_ Ged Fitzsimmons
-
-_Production Manager:_ Naomi Spiro
-
-_Director’s Assistant:_ Adelaide Pardo
-
-_Story Consultants:_ Amy Hardie, Karen Kelly  
-_Filmed by_: Lizzie MacKenzie
-
-_Additional Cinematography:_ Troy Edige
-
-_Aerial Photography:_ Brodie Hood, Will Hewitt, Austen McCowan  
-_Photographs and Writing by_: Ken Smith
-
-_Archive Footage:_ William Aikman, Jack Coghill  
-_Editors_: Ling Lee, Kieran Gosney
-
-_Online Editor:_ Will Hewitt
-
-_Props Assistant:_ Lotte Kravitz  
-_Colour Grade_: Stephen Horne  
-_Composers:_ Cameron McLellan, Mischa Stevens
-
-_Sound Recordist:_ Lizzie MacKenzie  
-_Foley:_ Pete Smith
-
-_Additional Foley:_ Allan Colthart
-
-_With:_
-
+_Associate Producer:_ Rachel Stollery<br>
+_Impact Producer:_ Ged Fitzsimmons<br>
+_Production Manager:_ Naomi Spiro<br>
+_Director’s Assistant:_ Adelaide Pardo<br>
+_Story Consultants:_ Amy Hardie, Karen Kelly<br>  
+_Filmed by_: Lizzie MacKenzie<br>
+_Additional Cinematography:_ Troy Edige<br>
+_Aerial Photography:_ Brodie Hood, Will Hewitt, Austen McCowan<br>  
+_Photographs and Writing by_: Ken Smith<br>
+_Archive Footage:_ William Aikman, Jack Coghill<br>
+_Editors_: Ling Lee, Kieran Gosney<br>
+_Online Editor:_ Will Hewitt<br>
+_Props Assistant:_ Lotte Kravitz<br>
+_Colour Grade_: Stephen Horne<br>  
+_Composers:_ Cameron McLellan, Mischa Stevens<br>
+_Sound Recordist:_ Lizzie MacKenzie<br>  
+_Foley:_ Pete Smith<br>
+_Additional Foley:_ Allan Colthart<br>
+_With:_<br>
 Ken Smith
 
-UK 2021©
-
+UK 2021©<br>
 80 mins
-
-<![endif]-->
 
 Screening courtesy of Cosmic Cat Films
 
-<![endif]-->
-
-**The Camera Is Ours: Britain’s Women Documentary Makers** (two-disc DVD) is  
-released in March
+**The Camera Is Ours: Britain’s Women Documentary Makers** (two-disc DVD) is  released in March
 
 A collection of shorts and features will soon be available on BFI Player
 
@@ -117,5 +95,5 @@ Guest curator: Lizzie Thynne
 
 Supported by the Arts and Humanities Research Council and The University of Sussex
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQ0ODQyNDddfQ==
+eyJoaXN0b3J5IjpbODQxNzE4ODM5XX0=
 -->
