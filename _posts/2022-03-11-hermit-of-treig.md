@@ -14,8 +14,7 @@ _Can you tell us about the first time you met Ken?_
 
 I was running a remote restaurant at the time, 17 miles up a dirt track. Our nearest neighbours, friends and most regular customers were the local deer stalkers. They’d prop up the bar in the evenings and were full of stories about an old man who lived at the very edge of the shooting estate in a log cabin he’d built himself 30+ years previously. Obviously I was intrigued, and it didn’t take long for curiosity to get the better of me. His cabin was a two-hour walk from the end of our dirt track. It was January and there was snow on the ground, but I was desperate to learn how to fish properly and thought if anyone could catch a fish in an icy loch in the depths of winter it would be him. I was right! It turns out that fishing was the key to Ken’s heart and we have been friends ever since. What struck me most about him was the sparkle in his eye and _joie de vivre_. I feel like so many people allow life to wear them down and their zest for living diminishes as they age… but here was Ken, nearing his 70s and still deeply engaging with life, full of curiosity and playfulness. I wanted to learn all his secrets of life and the land, and was never able to shake the desire to make a film about him ever since those first encounters.
 
-_You’ve spent several years working on this project, gaining Ken’s trust both in front of and behind the camera. What is the biggest lesson you have learnt  
-so far?_
+_You’ve spent several years working on this project, gaining Ken’s trust both in front of and behind the camera. What is the biggest lesson you have learnt  so far?_
 
 Hmmm… don’t be tempted to drink his homemade wine whilst trying to shoot? That aside, it’s an interesting relationship because we were friends for so many years before I began filming. When I started seriously filming I felt myself contending with the documentary rule of not getting too close to your contributor, of keeping some separation, remaining impartial to their life etc, and while it is easy to do that to an extent because Ken is such an independent spirit, it is also very hard because he _is_ growing more frail and increasingly in need of help and care. So at a certain point I decided that this rule can’t really apply in the case of this film. Ken is first and foremost my friend, and someone who I will help and care for whenever he asks me to do so, and any filming must always come second to that. That process led naturally to my presence being more a part of the film than I had originally intended. This project has taught me to carefully consider and reconsider the ethics of my filmmaking on a regular basis.
 
@@ -27,47 +26,33 @@ _What are your hopes and fears for Ken now?_
 
 Ken always says he’d like to live until he is 102, and I hope he does! But I always worry about him as winter approaches. He has been rescued by helicopter for two winters in a row now, so I only hope that he can gain enough strength and chop enough wood this summer so that he goes into next winter fully prepared and able to battle the elements. I want to finish the film and watch it with him!
 
-The Whickers, whickerawards.com, 2 July 2020
+**The Whickers, whickerawards.com, 2 July 2020**
 
-**Lizzie MacKenzie**
-
+**Lizzie MacKenzie**  
 Since my rather feral childhood on the west coast of Scotland, I’ve always felt drawn to wild places and the creatures (including people) who inhabit them. I’ve led a meandering life thus far, following my curiosities; from training mustang horses in the US, to opening a restaurant up a 17 mile dirt track and, more recently, documentary filmmaking. I’m addicted to the power of visual storytelling and hope that by sharing stories of the wild, I can help people to reconnect to the wildness of the world and of themselves.
 
-**Jane Ray**
-
+**Jane Ray**  
 Jane Ray is a multi-award winning documentary maker with 29 years on staff at the BBC. She started out as a radio reporter and ended up with the title Editorial Guardian before leaving to set up The Whickers in 2015. Jane had been Alan Whicker’s radio producer but had no idea the pioneering broadcaster was planning to leave a generous bequest and unmissable challenge to set up a fund for emerging documentary talent from across the globe. Lizzie MacKenzie, the director of _The Hermit of Treig_, is one such esteemed Whicker awardee. Jane now combines this work with running her own production and training company, Cat Flap Media. She has also led documentary courses at the BFI and lectures at University College London.  
 Her last appearance on stage at BFI was at a tribute event for Alan Whicker in commemoration of what would have been his 100th birthday last August.
+<br><br>
 
-<![endif]-->
-
-**THE HERMIT OF TREIG**
-
-_Directed by_: Lizzie MacKenzie
-
+**THE HERMIT OF TREIG**  
+_Directed by_: Lizzie MacKenzie  
 ©: Aruna Productions  
-_an_ Aruna Productions _production_
-
+_an_ Aruna Productions _production_  
 _in association with_: Of the Wild  
-_Presented by_: Creative Scotland,  
-BFI Doc Society Fund
-
-_in association with_: BBC Scotland
-
+_Presented by_: Creative Scotland,  BFI Doc Society Fund  
+_in association with_: BBC Scotland  
 _Made with the support of:_ The Whickers  
 _Executive Producers_: Robbie Fraser, Amy Hardie  
-_Executive Producers for Creative Scotland:  
-_Benjamin Taylor, Mark Thomas
+_Executive Producers for Creative Scotland:_ Benjamin Taylor, Mark Thomas  
+_Executive Producer for the BBC:_ Louise Thornton  
+_Executive Producer for BFI Doc Society Fund:_  Lisa-Marie Russo  
+_Executive Producer for The Whickers:_ Jane Ray<br>
 
-_Executive Producer for the BBC:_ Louise Thornton
+_Produced by_: Naomi Spiro<br>
 
-_Executive Producer for BFI Doc Society Fund:_  
-Lisa-Marie Russo
-
-_Executive Producer for The Whickers:_ Jane Ray
-
-_Produced by_: Naomi Spiro
-
-_Producer:_ Lizzie MacKenzie
+_Producer:_ Lizzie MacKenzie<br>
 
 _Associate Producer:_ Rachel Stollery
 
@@ -132,5 +117,5 @@ Guest curator: Lizzie Thynne
 
 Supported by the Arts and Humanities Research Council and The University of Sussex
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0OTk2MDZdfQ==
+eyJoaXN0b3J5IjpbLTEwMjQ0ODQyNDddfQ==
 -->
