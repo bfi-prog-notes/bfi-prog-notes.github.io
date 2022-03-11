@@ -34,38 +34,29 @@ Thomson stayed with the Realist Film Unit until 1947. During the war she gained 
 **Sarah Erulkar**  
 As a freelancer, Sarah Erulkar navigated her way through most of the major players in postwar documentary. Snapped up by World Wide Pictures on leaving Shell to direct _District Nurse_ (1952), charting a day in the life of two nurses in the rural Southeast of England, she then joined Donald Alexander and his colleagues at the National Coal Board Film Unit, where she honed her cutting skills. After leaving the NCB she worked almost exclusively as a director until she retired in the early 1980s, running the gauntlet of commissioning bodies, including the British Productivity Council, the Central Office of Information, the Gas Council and the General Post Office. Adaptability was key, and her work over the years extended across the spectrum of non-fiction genres, from classic documentary, travelogue and ‘trigger’ films to children’s features, medical training films and public information films, as well as a swathe of promotional films for various commercial bodies.
 
-Around a fifth of her films (more in the later phase of her career), engage with what might be termed ‘women’s themes’ – notable examples including _Birthright_ (1958) and _Something Nice to Eat_ (1967), on birth control and cooking respectively – but between these she tackled any number of different assignments, including some highly technical or industrial subjects, as in _Spat System_ (1960), promoting its sponsor’s GKN Screws and Fasteners products. Erulkar’s instinctive artistry, combined with a passion for life and people, brought universal appeal to specialist subject matter, and meant that she was always in demand. Her work brought her a plethora of awards, including two BAFTAs, for _Picture to Post_ (1969) and the prescient environmentally-themed _The Air  
-My Enemy_ (1971).
+Around a fifth of her films (more in the later phase of her career), engage with what might be termed ‘women’s themes’ – notable examples including _Birthright_ (1958) and _Something Nice to Eat_ (1967), on birth control and cooking respectively – but between these she tackled any number of different assignments, including some highly technical or industrial subjects, as in _Spat System_ (1960), promoting its sponsor’s GKN Screws and Fasteners products. Erulkar’s instinctive artistry, combined with a passion for life and people, brought universal appeal to specialist subject matter, and meant that she was always in demand. Her work brought her a plethora of awards, including two BAFTAs, for _Picture to Post_ (1969) and the prescient environmentally-themed _The Air  My Enemy_ (1971).  
+**Katy McGahan, BFI Screenonline, screenonline.org.uk**
+<br><br>
 
-Katy McGahan, BFI Screenonline, screenonline.org.uk
-
-<![endif]-->
-
-**BIRTH-DAY**
-
+**BIRTH-DAY**  
 _Director_: Budge Cooper  
 _Assistant_: Mary Beales  
 _Production Company_: Data Film Productions  
-_Sponsors_: Ministry of Information,  
-Department of Health for Scotland  
+_Sponsors_: Ministry of Information,  Department of Health for Scotland  
 _Producer_: Donald Alexander  
 _Script_: Budge Cooper  
 _Photography_: Wolfgang Suschitzky  
 _Diagrams_: Eric Fraser  
 _Animator_: Reginald Jeffryes  
 _Music_: Christian Darnton  
-_Sound Recording_: Harry Reynolds
-
-_With:_
-
+_Sound Recording_: Harry Reynolds  
+_With:_  
 Tom Macguire _(Gunner McBain)_  
 Mollie Weir _(Mrs McBain)_  
-James Smith Campbell _(medical officer)_
-
+James Smith Campbell _(medical officer)_  
 UK 1945, 22 mins
 
-**HOMES FOR THE PEOPLE**
-
+**HOMES FOR THE PEOPLE**  
 _Directed by_: Kay Mander  
 _Production Company_: Basic Films  
 _Sponsor_: Daily Herald  
@@ -74,49 +65,36 @@ _Producer_: Edgar Anstey
 _Photographed by_: Patrick Gay  
 _Music by_: Francis Chagrin  
 _Recorded by_: George Burgess, Leo Wilkins  
-_Sound System_: RCA Sound System
-
+_Sound System_: RCA Sound System  
 UK 1945, 23 mins
 
-**CHILDREN OF THE RUINS**
-
+**CHILDREN OF THE RUINS**  
 _Director_: Jill Craigie  
 _Production Company_: Crown Film Unit  
-_Sponsors_: Central Office of Information,  
-Foreign Office
-
+_Sponsors_: Central Office of Information,  Foreign Office  
 UK 1948, 11 mins
 
-**THE TROUBLED MIND**
-
+**THE TROUBLED MIND**  
 _Director_: Margaret Thomson  
 _Production Company_: Anglo-Scottish  
-_Sponsor_: North West Metropolitan  
-Regional Hospital Board
-
-_With:_
-
-Adrienne Corri
-
+_Sponsor_: North West Metropolitan  Regional Hospital Board  
+_With:_  
+Adrienne Corri  
 UK 1954, 20 mins
 
-**SOMETHING NICE TO EAT**
-
+**SOMETHING NICE TO EAT**  
 _Director_: Sarah Erulkar  
-_Production Company_:  
-Anthony Gilkison Associates  
+_Production Company_:  Anthony Gilkison Associates  
 _Sponsor_: Gas Council  
 _Photography_: Wolfgang Suschitzky  
 _Editor_: Terence Twigg  
-_Music_: Johnny Hawksworth
-
-_With:_
-
+_Music_: Johnny Hawksworth  
+_With:_  
 David De Keyser  
 Jean Shrimpton  
-John Addey
-
+John Addey  
 UK 1967, 21 mins
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDIyNzI1OCwtODE1ODQ1MzA2XX0=
+eyJoaXN0b3J5IjpbMTgzMTg0NjQ2OSwtODE1ODQ1MzA2XX0=
 -->
