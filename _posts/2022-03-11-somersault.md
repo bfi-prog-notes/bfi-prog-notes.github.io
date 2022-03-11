@@ -26,25 +26,19 @@ The script was developed over various rounds of funding whilst Shortland and And
 
 Shortland and Anderson applied for the Aurora script development scheme, which is funded by the New South Wales Film & Television Office. Under the scheme, over a six-month period mentors provide feedback at the beginning and again at the end, after a workshop with actors. Cate and Anthony were successful and joined the inaugural scheme and were mentored by renowned filmmakers including Alison Tilson (_Japanese Story_), Rob Festinger (_In the Bedroom_), Jane Campion (_The Piano_) and Chris Noonan (_Babe_). As a result the script took a great leap forward. Shortland: ‘The script probably changed the most through Aurora. Heidi used to be quite passive and it was suggested that I make her more active in her own destruction. That made Heidi go out and seek what was to destroy her. So Aurora was quite phenomenal with how much it shifted everything.’
 
-Jan Chapman was also a mentor on the inaugural Aurora scheme and was familiar with their short films, and already felt that Shortland had ‘an extraordinarily strong visual confidence’. Chapman: ‘I thought their script for _Somersault_ was incredibly insightful about a young girl testing the boundaries, who she was, in terms of sex and love and friendship. I thought it was particularly truthful. We’ve seen coming-of-age films before, but really this time I thought we were in the mind of an adolescent girl. It was a different approach. It was much more intimate in a very picturesque setting in the mountains of New South Wales.’
+Jan Chapman was also a mentor on the inaugural Aurora scheme and was familiar with their short films, and already felt that Shortland had ‘an extraordinarily strong visual confidence’. Chapman: ‘I thought their script for _Somersault_ was incredibly insightful about a young girl testing the boundaries, who she was, in terms of sex and love and friendship. I thought it was particularly truthful. We’ve seen coming-of-age films before, but really this time I thought we were in the mind of an adolescent girl. It was a different approach. It was much more intimate in a very picturesque setting in the mountains of New South Wales.’  
+**Production notes**
+<br><br>
 
-Production notes
-
-<![endif]-->
-
-**SOMERSAULT**
-
+**SOMERSAULT**  
 _Director_: Cate Shortland  
 ©: Film Finance Corporation Australia Limited  
-©_/Presented in association with_:  
-New South Wales Film and Television Office  
-©_/In association with_:  
-The Premium Movie Partnership  
+©_/Presented in association with_:  New South Wales Film and Television Office  
+©_/In association with_:  The Premium Movie Partnership  
 ©_/Production Company_: Red Carpet Productions  
 _Presented by_: Australian Film Finance Corporation  
 _Presented in association with_: Showtime Australia  
-_Developed with the assistance of_:  
-Australian Film Commission  
+_Developed with the assistance of_:  Australian Film Commission  
 _Produced in association with_: SBS Independent  
 _Developed by_: Aurora  
 _Executive Producer_: Jan Chapman  
@@ -64,23 +58,17 @@ _Casting_: Nikki Barrett
 _Casting Assistant_: Antonia Halse  
 _Script Editors_: Amanda Higgs, Denise Morgan  
 _Written by_: Cate Shortland  
-_Aurora Script Advisers_: Duncan Thompson,  
-Alison Tilson, Rob Festinger, Jan Chapman,  
-Geoff Stier, Sue Murray, Jason Resnick,  
-Tony Safford, Chris Noonan, Jane Campion  
+_Aurora Script Advisers_: Duncan Thompson,  Alison Tilson, Rob Festinger, Jan Chapman,  Geoff Stier, Sue Murray, Jason Resnick,  Tony Safford, Chris Noonan, Jane Campion  
 _Director of Photography_: Robert Humphreys  
-_2nd Unit Director of Photography_:  
-Carolyn Constantine  
+_2nd Unit Director of Photography_:  Carolyn Constantine  
 _Additional Camera Operator (2nd Unit)_: Ben Jasper  
 _Focus Puller_: Kevin Scott  
 _Focus Puller (2nd Unit)_: Bonnie Elliott  
 _Clapper Loader_: Nigel Tomkinson  
 _Gaffer_: Geoff Maine  
 _Key Grip_: Jason Trew  
-_Stills Photographers_: Matt Nettheim,  
-Elise Lockwood  
-_Digital Optical Effects_: Robert Sandeman,  
-Jon Dixon, Rebecca Dunn  
+_Stills Photographers_: Matt Nettheim,  Elise Lockwood  
+_Digital Optical Effects_: Robert Sandeman,  Jon Dixon, Rebecca Dunn  
 _Special Effects Supervisor_: Peter Stubbs, Filmtrix  
 _Special Effects Co-ordinator_: Tim O’Brien  
 _Editor_: Scott Gray  
@@ -93,13 +81,11 @@ _Construction Manager_: Dave Philpott
 _Costume Designer_: Emily Seresin  
 _Costume Supervisor_: Shareen Beringer  
 _Make-up/Hair Supervisor_: Angela Conte  
-_Make-up/Hair Artists_: Helene Glover,  
-Sheldon Wade, Kellie Griffin  
+_Make-up/Hair Artists_: Helene Glover,  Sheldon Wade, Kellie Griffin  
 _Title Design_: +Plus, Andy Canny, Donna McCrum  
 _Colour Grader_: Olivier Fontenay  
 _Music Composed by_: Decoder Ring  
-_Decoder Ringer (Are:)_: Matt Fitzgerald,  
-Tom Schutzinger, Pete Kelly, Ben Ely, Ken Davis  
+_Decoder Ringer (Are:)_: Matt Fitzgerald,  Tom Schutzinger, Pete Kelly, Ben Ely, Ken Davis  
 _Music Supervisor_: Norman Parkhill, Mana Music  
 _Band Manager/Score Co-ordinator_: Liz O’Grady  
 _Choreographer_: Kate Champion  
@@ -114,8 +100,7 @@ _Dolby Sound Consultant_: Bruce Emery
 _Dialogue Coach_: Victoria Mielewska  
 _Unit Publicist_: Fiona Nix
 
-_Cast:_
-
+**Cast**  
 Abbie Cornish _(Heidi)_  
 Sam Worthington _(Joe)_  
 Lynette Curran _(Irene)_  
@@ -143,9 +128,8 @@ Diana Glenn _(Sally)_
 Toby Schmitz _(John)_  
 Henry Nixon _(Nick)_
 
-Australia 2004©
-
+Australia 2004©  
 106 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDk1Nzc5ODldfQ==
+eyJoaXN0b3J5IjpbLTg4MTM2NTQ1MF19
 -->
