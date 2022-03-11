@@ -32,8 +32,7 @@ Ken always says he’d like to live until he is 102, and I hope he does! But I a
 Since my rather feral childhood on the west coast of Scotland, I’ve always felt drawn to wild places and the creatures (including people) who inhabit them. I’ve led a meandering life thus far, following my curiosities; from training mustang horses in the US, to opening a restaurant up a 17 mile dirt track and, more recently, documentary filmmaking. I’m addicted to the power of visual storytelling and hope that by sharing stories of the wild, I can help people to reconnect to the wildness of the world and of themselves.
 
 **Jane Ray**  
-Jane Ray is a multi-award winning documentary maker with 29 years on staff at the BBC. She started out as a radio reporter and ended up with the title Editorial Guardian before leaving to set up The Whickers in 2015. Jane had been Alan Whicker’s radio producer but had no idea the pioneering broadcaster was planning to leave a generous bequest and unmissable challenge to set up a fund for emerging documentary talent from across the globe. Lizzie MacKenzie, the director of _The Hermit of Treig_, is one such esteemed Whicker awardee. Jane now combines this work with running her own production and training company, Cat Flap Media. She has also led documentary courses at the BFI and lectures at University College London.  
-Her last appearance on stage at BFI was at a tribute event for Alan Whicker in commemoration of what would have been his 100th birthday last August.
+Jane Ray is a multi-award winning documentary maker with 29 years on staff at the BBC. She started out as a radio reporter and ended up with the title Editorial Guardian before leaving to set up The Whickers in 2015. Jane had been Alan Whicker’s radio producer but had no idea the pioneering broadcaster was planning to leave a generous bequest and unmissable challenge to set up a fund for emerging documentary talent from across the globe. Lizzie MacKenzie, the director of _The Hermit of Treig_, is one such esteemed Whicker awardee. Jane now combines this work with running her own production and training company, Cat Flap Media. She has also led documentary courses at the BFI and lectures at University College London.  Her last appearance on stage at BFI was at a tribute event for Alan Whicker in commemoration of what would have been his 100th birthday last August.
 <br><br>
 
 **THE HERMIT OF TREIG**  
@@ -77,10 +76,20 @@ UK 2021©<br>
 
 Screening courtesy of Cosmic Cat Films
 
+<img style="float: left;" src="/img/aruna.jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br>
+
+**THE CAMERA IS OURS: BRITAIN’S WOMEN DOCUMENTARY MAKERS**<br>
+**The Hermit of Treig + Q&A with  director Lizzie MacKenzie**<br>
+Fri 11 Mar 18:10<br>
+**From Birth-Day to Something Nice to Eat: Restoration Programme 2 + intro by  BFI curator Ros Cranston**<br>
+Mon 14 Mar 18:15<br>
+**Hostile + director Sonita Gale in conversation with Nitin Sawhney**<br>
+Tue 15 Mar 18:00<br>
+
 **The Camera Is Ours: Britain’s Women Documentary Makers** (two-disc DVD) is  released in March
 
 A collection of shorts and features will soon be available on BFI Player
-<br><br>
 
 **MEZZANINE GALLERY**<br>
 **Jill Craigie: Film Pioneer**<br>
@@ -88,6 +97,24 @@ In the 1940s Jill Craigie tackled subjects new to cinema in a unique blend of do
 From Thu 3 Mar<br>
 Guest curator: Lizzie Thynne<br>
 Supported by the Arts and Humanities Research Council and The University of Sussex<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTMyNDgzMjk4XX0=
