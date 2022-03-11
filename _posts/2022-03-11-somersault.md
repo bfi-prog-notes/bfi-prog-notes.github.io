@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Somersault
+published: true
+date: 2022-03-11
+readtime: true
+categories: ['SEEN & HEARD']
+tags: [Drama]
+metadata: 'Australia 2004, 106 mins<br> Director: Cate Shortland'
+pdf: '2022-03-11-somersault.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -12,8 +22,7 @@ Later, Roy, the stepfather of her friend Bianca, insists on driving Heidi home o
 
 A good example of the complexity of feeling Shortland manages to pack into short exchanges, this scene also shows the director’s predilection for symbolism. Here it’s the story Roy tells Heidi about the drowned village under the lake; elsewhere it’s the hooded coat and red gloves that pick Heidi out as a Freudian fairytale character against the white landscape. Such attempts to convey Heidi’s girl-woman quality can tilt towards the fey – the scrapbook full of glittery unicorns and the nursery rhymes she claps while walking alone in the snow, for instance – but for the most part they evoke a rich emotional seam running beneath the bare landscape and spare screenplay.
 
-Although the action focuses on Heidi, Shortland fleshes out her other characters, rounding out Bianca’s family and making Heidi’s love interest,  Joe, into an intriguing character caught between the country and other less known possibilities. Both leads are excellent, with the doll-like Abbie Cornish portraying Heidi with the right mixture of naivety and spirited sensuality and Sam Worthington making Joe much more than the macho local he might  
-have been.
+Although the action focuses on Heidi, Shortland fleshes out her other characters, rounding out Bianca’s family and making Heidi’s love interest,  Joe, into an intriguing character caught between the country and other less known possibilities. Both leads are excellent, with the doll-like Abbie Cornish portraying Heidi with the right mixture of naivety and spirited sensuality and Sam Worthington making Joe much more than the macho local he might  have been.
 
 Shortland’s theme is intimacy, so the story ends not with these two riding off into the blue, snowy landscape but with an emotional understanding reached between Heidi and those who have helped her: Joe, motel-owner Irene and her mum. Nothing is resolved but everything has changed: the sign of a very sophisticated coming-of-age tale.  
 **Liese Spencer, _Sight & Sound_, March 2005**
@@ -131,6 +140,41 @@ Henry Nixon _(Nick)_
 Australia 2004©  
 106 mins
 <br><br>
+
+**SEEN & HEARD: DARING FEMALE COMING-OF-AGE FILMS**<br>
+**Skate Kitchen**<br>
+Tue 1 Mar 20:40; Sun 13 Mar 20:45<br>
+**Divines**<br>
+Wed 2 Mar 20:50; Tue 15 Mar 20:50<br> 
+**Jinn**<br>
+Sat 5 Mar 17:45; Tue 8 Mar 21:00<br> 
+**37 Seconds (37 sekanzu)**<br>
+Sat 5 Mar 20:30; Sat 12 Mar 20:45<br> 
+**Water Lilies (Naissance des pieuvres)**<br>
+Sun 6 Mar 18:45; Mon 14 Mar 20:50<br> 
+**Marie Antoinette**<br> 
+Tue 8 Mar 18:10 (+ intro by Hannah Strong, Little White Lies Digital Editor and author of Sofia Coppola: Forever Young); Sun 13 Mar 18:00<br> 
+**Somersault**<br>
+Fri 11 Mar 20:50; Mon 14 Mar 18:10<br>
+<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE5NTczNTA0MDBdfQ==
 -->
