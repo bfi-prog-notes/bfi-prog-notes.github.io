@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Phantom of the Open
+published: true
+date: 2022-03-14
+readtime: true
+categories: ['PREVIEWS']
+tags: [Comedy, Biopic]
+metadata: 'UK 2021, 106 mins<br> Director: Craig Roberts'
+pdf: '2022-03-14-phantom-of-the-open.pdf'
+---
 
 _+ Q&A with director Craig Roberts and writer Simon Farnaby_
 
@@ -16,13 +26,11 @@ Miller and Farnaby made some research trips to Barrow-in-Furness, Cumbria, in no
 
 Murray says, ‘Maurice’s story needed to be told properly. It was in danger of being lost in the mists of time, which was absurd really; it’s one of the great jump-the-rope sporting stories, a proper real-life romp – though his heroic, bittersweet battle to achieve something tangible, despite having been dealt a bad hand in life, and his desire to get the better of The Man, transcends mere sport. Maurice was bursting with humanity, and his tale does too.’
 
-Farnaby wrote a treatment for a script, and Murray wrote a long article for  
-_The Guardian_. Miller tried to get a film off the ground, but there wasn’t much traction at that time, so Farnaby and Murray decided to use the material to write an entertaining biographical book instead: Yellow Jersey Press published _The Phantom of the Open_ in 2010 and Maurice once again made headlines.
+Farnaby wrote a treatment for a script, and Murray wrote a long article for _The Guardian_. Miller tried to get a film off the ground, but there wasn’t much traction at that time, so Farnaby and Murray decided to use the material to write an entertaining biographical book instead: Yellow Jersey Press published _The Phantom of the Open_ in 2010 and Maurice once again made headlines.
 
 ‘I find losers more interesting than winners,’ explains Farnaby. ‘Maurice reminds me of Don Quixote tilting at windmills. It was also key that he wasn’t a joke. When Scott and I did the research for the book, we spoke to Maurice’s friends and asked, “Was this a joke for Maurice?” And they said, “No, no no! He genuinely thought he could do it.” Then it became a really interesting story.”
 
-Miller never gave up on his dream of seeing Flitcroft on the big screen, and when he set up his production company Water & Power Productions, he got back in touch with Farnaby, and optioned Farnaby and Murray’s book  
-_The Phantom of the Open_. This time round they were more successful with the pitch, and backed by the BFI, Farnaby started to write the screenplay.
+Miller never gave up on his dream of seeing Flitcroft on the big screen, and when he set up his production company Water & Power Productions, he got back in touch with Farnaby, and optioned Farnaby and Murray’s book _The Phantom of the Open_. This time round they were more successful with the pitch, and backed by the BFI, Farnaby started to write the screenplay.
 
 Miller adds, ‘Simon is a naturally funny guy and he’s always going to bring something that’s slightly quirky and offbeat to a story, but he also marries that with real heart in his writing, he knows how to connect with an audience emotionally.’
 
