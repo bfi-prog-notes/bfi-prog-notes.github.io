@@ -55,11 +55,7 @@ _Made with the support of the_: BFI Film Fund
 _Presented by_: BFI, BBC Film, Ingenious Media  
 _This production was made possible by the support of_: HM Treasury & DCMS’ Film and TV Production Restart Scheme  
 _International Sales_: Cornerstone  
-_Executive Producers_: Christine Langan, James Swarbrick,
-
-Mary Burke, Emma Duffy, Rose Garnett, Peter Touche, Christelle Conan,Mark Gooder, Alison Thompson, Mark Rylance, Simon Farnaby,
-
-Craig Roberts  
+_Executive Producers_: Christine Langan, James Swarbrick, Mary Burke, Emma Duffy, Rose Garnett, Peter Touche, Christelle Conan, Mark Gooder, Alison Thompson, Mark Rylance, Simon Farnaby, Craig Roberts  
 _Produced by_: Kate Glover, Nichola Martin, Tom Miller  
 _Line Producer_: Arabella Gilbert  
 _Production Manager_: Tim Leach  
@@ -96,9 +92,10 @@ _Production Sound Mixer_: Ivor Talbot
 _Re-recording Mixer_: Paul McFadden  
 _Supervising Sound Editor_: Jon Salmon-Joyce  
 _Stunt Co-ordinator_: Tony Lucken  
-_Unit Publicity_: Freuds
+_Unit Publicity_: Freuds<br>
 
-**Cast**Mark Rylance _(Maurice Flitcroft)_  
+**Cast**<br>
+Mark Rylance _(Maurice Flitcroft)_  
 Sally Hawkins _(Jean Flitcroft)_  
 Mark Lewis Jones _(Cliff)_  
 Christian Lees _(Gene Flitcroft)_  
@@ -137,12 +134,12 @@ Orla Cottingham _(Pam)_
 Bianca Tranter _(Mike’s secretary)_  
 Mike Capozzola _(Terry Moore)_  
 Anthony J Abraham _(young golfer)_  
-Matthew McKenna _(Barman Dan)_
+Matthew McKenna _(Barman Dan)_<br>
 
 UK 2021<br>
 106 mins<br>
 
 Courtesy of Entertainment One<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODIzNjU5OTldfQ==
+eyJoaXN0b3J5IjpbLTYzNDkxMDIzXX0=
 -->
