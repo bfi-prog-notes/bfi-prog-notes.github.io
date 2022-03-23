@@ -121,86 +121,51 @@ France/Italy 1961<br>
 117 mins
 
 *Uncredited<br>
+<br>
 
 
-<![endif]-->
-
-**BIG SCREEN CLASSICS**
-
-**Léon Morin, prêtre (Léon Morin, Priest)**
-
-Mon 28 Mar 17:50; Thu 7 Apr 20:40;  
-Sun 24 Apr 12:00
-
-**Lourdes**
-
-Tue 29 Mar 20:50; Thu 7 Apr 18:10;  
-Wed 20 Apr 20:50
-
-**Ordet (The Word)**
-
-Wed 30 Mar 17:45 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 10 Apr 15:30;  
-Fri 15 Apr 18:10; Sat 23 Apr 11:50
-
-**Black Narcissus**
-
-Thu 31 Mar 21:00; Tue 12 Apr 20:45;  
-Tue 19 Apr 18:10; Sat 30 Apr 15:00
-
-**Babette’s Feast (Babettes Gaestebud)**
-
-Fri 1 Apr 18:10; Sun 10 Apr 12:10;  
-Sat 16 Apr 12:20; Tue 26 Apr 20:50
-
-**Aguirre, Wrath of God (Aguirre, der Zorn Gottes)**
-
-Sat 2 Apr 20:40; Fri 8 Apr 18:15; Tue 19 Apr 20:50; Mon 25 Apr 18:10
-
-**The Seventh Seal (Det Sjunde Inseglet)**
-
-Sun 3 Apr 15:20; Mon 18 Apr 15:20;  
-Fri 22 Apr 20:50
-
-**The Miracle Woman**
-
-Mon 4 Apr 18:20; Fri 15 Apr 20:50;  
-Thu 28 Apr 18:10; Fri 29 Apr 18:10
-
-**Stalker**
-
-Tue 5 Apr 20:00; Sat 9 Apr 17:30;  
-Thu 21 Apr 20:00; Sat 23 Apr 20:00
-
-**My Night with Maud (Ma Nuit chez Maud)**
-
-Wed 6 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Thu 14 Apr 20:30;  
-Fri 22 Apr 17:50; Mon 25 Apr 20:45
-
-**Une Femme douce (A Gentle Creature)**
-
-Wed 6 Apr 21:00; Wed 13 Apr 18:20 (+ intro by independent filmmaker and critic Alex Barrett);  
-Mon 18 Apr 13:10
-
-**The New World**
-
-Sun 10 Apr 17:30; Sat 30 Apr 19:50
-
+**BIG SCREEN CLASSICS**<br>
+**Léon Morin, prêtre (Léon Morin, Priest)**<br>
+Mon 28 Mar 17:50; Thu 7 Apr 20:40;  Sun 24 Apr 12:00<br>
+**Lourdes**<br>
+Tue 29 Mar 20:50; Thu 7 Apr 18:10;  Wed 20 Apr 20:50<br>
+**Ordet (The Word)**<br>
+Wed 30 Mar 17:45 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 10 Apr 15:30;  Fri 15 Apr 18:10; Sat 23 Apr 11:50<br>
+**Black Narcissus**<br>
+Thu 31 Mar 21:00; Tue 12 Apr 20:45;  Tue 19 Apr 18:10; Sat 30 Apr 15:00<br>
+**Babette’s Feast (Babettes Gaestebud)**<br>
+Fri 1 Apr 18:10; Sun 10 Apr 12:10;  Sat 16 Apr 12:20; Tue 26 Apr 20:50<br>
+**Aguirre, Wrath of God (Aguirre, der Zorn Gottes)**<br>
+Sat 2 Apr 20:40; Fri 8 Apr 18:15; Tue 19 Apr 20:50; Mon 25 Apr 18:10<br>
+**The Seventh Seal (Det Sjunde Inseglet)**<br>
+Sun 3 Apr 15:20; Mon 18 Apr 15:20;  Fri 22 Apr 20:50<br>
+**The Miracle Woman**<br>
+Mon 4 Apr 18:20; Fri 15 Apr 20:50;  Thu 28 Apr 18:10; Fri 29 Apr 18:10<br>
+**Stalker**<br>
+Tue 5 Apr 20:00; Sat 9 Apr 17:30;  Thu 21 Apr 20:00; Sat 23 Apr 20:00<br>
+**My Night with Maud (Ma Nuit chez Maud)**<br>
+Wed 6 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Thu 14 Apr 20:30;  Fri 22 Apr 17:50; Mon 25 Apr 20:45<br>
+**Une Femme douce (A Gentle Creature)**<br>
+Wed 6 Apr 21:00; Wed 13 Apr 18:20 (+ intro by independent filmmaker and critic Alex Barrett);  Mon 18 Apr 13:10<br>
+**The New World**<br>
+Sun 10 Apr 17:30; Sat 30 Apr 19:50<br>
 **The Gospel According to Matthew  
-(Il vangelo secondo Matteo)**
+(Il vangelo secondo Matteo)**<br>
 
-Mon 11 Apr 18:00; Sun 17 Apr 14:40
+Mon 11 Apr 18:00; Sun 17 Apr 14:40<br>
 
-**The Last Temptation of Christ**
+**The Last Temptation of Christ**<br>
 
-Fri 15 Apr 14:15; Sun 24 Apr 17:40
+Fri 15 Apr 14:15; Sun 24 Apr 17:40<br>
 
-**Sebastiane**
+**Sebastiane**<br>
 
-Sat 16 Apr 14:50; Tue 19 Apr 20:30; Wed 27 Apr 17:45 (+ intro by BFI curator Simon McCallum)
+Sat 16 Apr 14:50; Tue 19 Apr 20:30; Wed 27 Apr 17:45 (+ intro by BFI curator Simon McCallum)<br>
 
-**I Confess**
+**I Confess**<br>
 
-Sun 17 Apr 12:00; Wed 20 Apr 18:00 (+ intro tbc)
+Sun 17 Apr 12:00; Wed 20 Apr 18:00 (+ intro tbc)<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDIwNTA1MV19
+eyJoaXN0b3J5IjpbLTUyNTkxOTY1Ml19
 -->
