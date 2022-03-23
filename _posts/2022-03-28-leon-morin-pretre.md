@@ -4,129 +4,124 @@ Between _Le Silence de la mer_ and _Léon Morin, prêtre_, Melville’s career h
 
 When _Léon Morin, prêtre_ was released on 22 September 1961, the reputation of Béatrix Beck’s Goncourt-winning novel, the film’s stars and its potentially ‘scabrous’ topic all conspired to make it something of an event. A Catholic consultant, Father Lepoutre, was on hand to assist Melville with advice, and the then powerful Centrale Catholique duly gave it its seal of approval, as did the censorship commission. Melville’s relationship with Beck was a lot easier than with Vercors. Although present at the rushes she did not take part in the adaptation and declared herself very happy with the film and its cast.  _Léon Morin, prêtre_ narrowly missed being part of the French selection at Venice that year, but was shown out of competition and was awarded the Venice City prize. Given the film’s subject matter, French critics predictably split in their reactions along ideological lines. The film was highly praised by the Catholic daily _La Croix_ and the right-wing _Le Figaro_ (‘an honest, moving and beautiful film – like the novel which it reproduces so faithfully’) and harshly criticised by left-wing papers like _L’Humanité_ and _Combat_ (‘recalls Bresson, but more vulgar and more insistent’). The majority of critics however hailed the quality of Melville’s filmmaking: as _Le Canard enchaîné_’s Michel Duran put it:  ‘It won’t make me go to Mass, but I like this film.’ Belmondo and Riva’s performances received ecstatic praise.
 
-The casting of two famous New Wave actors – Emmanuelle Riva and  Jean-Paul Belmondo – as the protagonists of _Léon Morin, prêtre_ stirred much interest in 1961 and contributed to the popular success of the film. While the relationship between Melville and the New Wave had already entered a difficult phase, Riva and Belmondo anchored _Léon Morin, prêtre_ in the New Wave canon in the public perception at the time, despite its stylistic hybridity. Riva was (and would be forever) associated with her role as ‘Elle’ in _Hiroshima, mon amour_, in which she plays a French actress who goes to Hiroshima to act in a documentary about the bomb; her affair with a Japanese man helps her recall a traumatic relationship with a German soldier in Nevers during the war. Riva, together with Jeanne Moreau, embodied a new femininity: sexy in a ‘realistic’, less glamorous, and intellectual way (compared with sex symbols like Brigitte Bardot), related to the sensitivity and modernity of the New Wave films.  
-Melville was struck by Riva’s talent and, apparently, resemblance to Beck.  
-He used her screen persona to the full: her ‘new woman’ image as well as her dual association, born of _Hiroshima_, with war and sexual transgression.  
+The casting of two famous New Wave actors – Emmanuelle Riva and  Jean-Paul Belmondo – as the protagonists of _Léon Morin, prêtre_ stirred much interest in 1961 and contributed to the popular success of the film. While the relationship between Melville and the New Wave had already entered a difficult phase, Riva and Belmondo anchored _Léon Morin, prêtre_ in the New Wave canon in the public perception at the time, despite its stylistic hybridity. Riva was (and would be forever) associated with her role as ‘Elle’ in _Hiroshima, mon amour_, in which she plays a French actress who goes to Hiroshima to act in a documentary about the bomb; her affair with a Japanese man helps her recall a traumatic relationship with a German soldier in Nevers during the war. Riva, together with Jeanne Moreau, embodied a new femininity: sexy in a ‘realistic’, less glamorous, and intellectual way (compared with sex symbols like Brigitte Bardot), related to the sensitivity and modernity of the New Wave films.  Melville was struck by Riva’s talent and, apparently, resemblance to Beck.  He used her screen persona to the full: her ‘new woman’ image as well as her dual association, born of _Hiroshima_, with war and sexual transgression.  
 His extensive use of voiceover also showcased Riva’s famous voice, a unique blend of cultured and halting elocution, lyrical yet fragile tones. The very first images of Riva with 1940s hairstyle and clothing riding a bicycle in _Léon Morin, prêtre_ thus place her in the _Hiroshima_ lineage. Later, when the two old ladies who looked after her daughter say jubilantly that they have come to watch the parade of women with their heads shaven, again _Hiroshima_ comes to mind. Reviewer Jean Collet echoed many others when he said ‘she seems never to have left Nevers’. Even some musical passages by Martial Solal evoke Giovanni Fusco’s avant-garde score for Resnais’ film.
 
-Melville says he had waited for a suitable actor for Morin since the publication of the book in 1952. He found him in Jean-Paul Belmondo, the overnight sensation of _A bout de souffle_, who set a new pattern for modern French masculinity: cynical, athletic and nonchalant, unconventionally sexy.  
-The success of _A bout de souffle_ launched Belmondo on a prolific career (nine films in less than two years between _A bout de souffle_ and _Léon Morin, prêtre_) and his currency was high in 1961. Melville’s use of Belmondo is complex.  
-A priest was, to say the least, against type compared to the thrillers and comedies Belmondo was used to; indeed he took some convincing before accepting the part. However, Melville was right, it is precisely the contrast between his _A bout de souffle_ star persona and his identity as priest which creates Morin’s sexual and emotional charge. A survey conducted by the Catholic publication _Les Amis du film_ indicated that Morin had been dubbed a ‘New Wave priest – a priest with a direct, honest and virile attitude, a kind  
+Melville says he had waited for a suitable actor for Morin since the publication of the book in 1952. He found him in Jean-Paul Belmondo, the overnight sensation of _A bout de souffle_, who set a new pattern for modern French masculinity: cynical, athletic and nonchalant, unconventionally sexy.  The success of _A bout de souffle_ launched Belmondo on a prolific career (nine films in less than two years between _A bout de souffle_ and _Léon Morin, prêtre_) and his currency was high in 1961. Melville’s use of Belmondo is complex.  A priest was, to say the least, against type compared to the thrillers and comedies Belmondo was used to; indeed he took some convincing before accepting the part. However, Melville was right, it is precisely the contrast between his _A bout de souffle_ star persona and his identity as priest which creates Morin’s sexual and emotional charge. A survey conducted by the Catholic publication _Les Amis du film_ indicated that Morin had been dubbed a ‘New Wave priest – a priest with a direct, honest and virile attitude, a kind  
 of comrade.’
 
-Together, Riva and Belmondo lent modernity, sex-appeal and ‘New Waveness’ to a story that would otherwise have appeared dusty and old-fashioned, with its theological discussions set in a drab small town. Even the distinguished Catholic novelist François Mauriac was moved to comment on the quality of Belmondo and Riva’s performances in _Le Figaro littéraire_.
+Together, Riva and Belmondo lent modernity, sex-appeal and ‘New Waveness’ to a story that would otherwise have appeared dusty and old-fashioned, with its theological discussions set in a drab small town. Even the distinguished Catholic novelist François Mauriac was moved to comment on the quality of Belmondo and Riva’s performances in _Le Figaro littéraire_.  
+**Ginette Vincendeau, _Jean-Pierre Melville ‘An American in Paris’_ (BFI, 2003)**
+<br><br>
 
-Ginette Vincendeau, _Jean-Pierre Melville ‘An American in Paris’_ (BFI, 2003)
+**LÉON MORIN, PRÊTRE (LÉON MORIN, PRIEST)**<br>
 
-<![endif]-->
-
-**LÉON MORIN, PRÊTRE (LÉON MORIN, PRIEST)**
-
-_Director:_ Jean-Pierre Melville
+_Director:_ Jean-Pierre Melville<br>
 
 _Production Companies:_ Rome-Paris Films (Paris),
 
-Compagnia Cinematografica Champion
+Compagnia Cinematografica Champion<br>
 
-_Producer:_ Georges de Beauregard
+_Producer:_ Georges de Beauregard<br>
 
 _Production Managers:_ Marcel Georges,  
-Edith Tertza, Bruna Drigo
+Edith Tertza, Bruna Drigo<br>
 
 _Assistant Directors:_ Volker Schlöndorff,  
-Jacqueline Parey, Luc Andrieux
+Jacqueline Parey, Luc Andrieux<br>
 
-_Screenplay:_ Jean-Pierre Melville
+_Screenplay:_ Jean-Pierre Melville<br>
 
-_Based on the novel by:_ Béatrix Beck
+_Based on the novel by:_ Béatrix Beck<br>
 
-_Director of Photography:_ Henri Decaë
+_Director of Photography:_ Henri Decaë<br>
 
 _Camera Operators:_ Jean Rabier,  
-Jean-Paul Schwartz, Claude Amiot
+Jean-Paul Schwartz, Claude Amiot<br>
 
-_Stills Photography:_ Raymond Gauchetier
+_Stills Photography:_ Raymond Gauchetier<br>
 
-_Editors:_ Jacqueline Meppiel, Nadine Marquand, Marie-Josèphe Yoyotte
+_Editors:_ Jacqueline Meppiel, Nadine Marquand, Marie-Josèphe Yoyotte<br>
 
-_Art Directors:_ Daniel Guéret, Donald Cardwell
+_Art Directors:_ Daniel Guéret, Donald Cardwell<br>
 
-_Set Decorator:_ Robert Christidès
+_Set Decorator:_ Robert Christidès<br>
 
-_Properties:_ Jean Brunet, Robert Testand
+_Properties:_ Jean Brunet, Robert Testand<br>
 
-_Dresser:_ Paulette Breil
+_Dresser:_ Paulette Breil<br>
 
-_Make-up:_ Christine Fornelli
+_Make-up:_ Christine Fornelli<br>
 
-_Titles:_ Jean Fouchet
+_Titles:_ Jean Fouchet<br>
 
-_Music:_ Martial Solal
+_Music:_ Martial Solal<br>
 
-_Harmonica:_ Albert Raisner
+_Harmonica:_ Albert Raisner<br>
 
 _Sound:_ Guy Villette, Jacques Maumont,
 
-Robert Cambourakis, Jean Gaudelet
+Robert Cambourakis, Jean Gaudelet<br>
 
-_Cast:_
+_Cast:_<br>
 
-Jean-Paul Belmondo _(Léon Morin)_
+Jean-Paul Belmondo _(Léon Morin)_<br>
 
-Emmanuelle Riva _(Barny)_
+Emmanuelle Riva _(Barny)_<br>
 
-Irène Tunc _(Christine)_
+Irène Tunc _(Christine)_<br>
 
-Nicole Mirel _(Sabine)_
+Nicole Mirel _(Sabine)_<br>
 
-Marielle Gozzi _(France)_
+Marielle Gozzi _(France)_<br>
 
-Patricia Gozzi _(France, when older)_
+Patricia Gozzi _(France, when older)_<br>
 
-Gisèle Grimm _(Lucienne)_
+Gisèle Grimm _(Lucienne)_<br>
 
-Marco Béhar _(Edelman)_
+Marco Béhar _(Edelman)_<br>
 
-Monique Bertho _(Marion)_
+Monique Bertho _(Marion)_<br>
 
-Marc Heyraud
+Marc Heyraud<br>
 
-Nina Grégoire
+Nina Grégoire<br>
 
-Monique Hennessy _(Arlette)_
+Monique Hennessy _(Arlette)_<br>
 
-Edith Loria _(Danielle)_
+Edith Loria _(Danielle)_<br>
 
-Micheline Schererrer
+Micheline Schererrer<br>
 
-Renée Liques
+Renée Liques<br>
 
 Simone Vannier, Lucienne Marchand_,  
-_Nelly Pitorre _(secretaries)_
+_Nelly Pitorre _(secretaries)_<br>
 
-Ernest Varial _(director)_
+Ernest Varial _(director)_<br>
 
-Chantal Gozzi
+Chantal Gozzi<br>
 
-Cedric Grant, George Lambert _(GIs)_
+Cedric Grant, George Lambert _(GIs)_<br>
 
-Gérard Buhr _(German soldier)_
+Gérard Buhr _(German soldier)_<br>
 
-Howard Vernon _(German colonel)_
+Howard Vernon _(German colonel)_<br>
 
-Madeleine Ganne _(Betty)_ *
+Madeleine Ganne _(Betty)_ *<br>
 
-Adeline Aucoc _(old lady in church)_ *
+Adeline Aucoc _(old lady in church)_ *<br>
 
-Saint-Eve _(priest)_ *
+Saint-Eve _(priest)_ *<br>
 
-Volker Schlöndorff _(German sentry)_ *
+Volker Schlöndorff _(German sentry)_ *<br>
 
-France/Italy 1961
+France/Italy 1961<br>
 
 117 mins
 
-* Uncredited
+*Uncredited<br>
+
 
 <![endif]-->
 
@@ -207,5 +202,5 @@ Sat 16 Apr 14:50; Tue 19 Apr 20:30; Wed 27 Apr 17:45 (+ intro by BFI curator Sim
 
 Sun 17 Apr 12:00; Wed 20 Apr 18:00 (+ intro tbc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0MjMwMjc2XX0=
+eyJoaXN0b3J5IjpbLTQ1MDIwNTA1MV19
 -->
