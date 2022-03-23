@@ -149,23 +149,15 @@ Wed 6 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Thu 14 Apr 20:30
 Wed 6 Apr 21:00; Wed 13 Apr 18:20 (+ intro by independent filmmaker and critic Alex Barrett);  Mon 18 Apr 13:10<br>
 **The New World**<br>
 Sun 10 Apr 17:30; Sat 30 Apr 19:50<br>
-**The Gospel According to Matthew  
-(Il vangelo secondo Matteo)**<br>
-
+**The Gospel According to Matthew  (Il vangelo secondo Matteo)**<br>
 Mon 11 Apr 18:00; Sun 17 Apr 14:40<br>
-
 **The Last Temptation of Christ**<br>
-
 Fri 15 Apr 14:15; Sun 24 Apr 17:40<br>
-
 **Sebastiane**<br>
-
 Sat 16 Apr 14:50; Tue 19 Apr 20:30; Wed 27 Apr 17:45 (+ intro by BFI curator Simon McCallum)<br>
-
 **I Confess**<br>
-
 Sun 17 Apr 12:00; Wed 20 Apr 18:00 (+ intro tbc)<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTkxOTY1Ml19
+eyJoaXN0b3J5IjpbMTQ5NTg0OTk3Nl19
 -->
