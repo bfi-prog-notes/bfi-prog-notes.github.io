@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Paris, 13th District
+published: true
+date: 2022-03-28
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'France 2021, 105 mins<br> Director: Jacques Audiard'
+pdf: '2022-03-28-paris-13th-district.pdf'
+---
 
 Jacques Audiard is often thought of as making very male films; he’s also widely considered a quintessentially French director (which is sometimes more or less equivalent to saying: a white one). But his career shows a more nuanced picture.  His first features _See How They Fall_ (1993) and _A Self-Made Hero_ (1995) featured male protagonists in darkly revisionist reimaginings of classic French cinema formats, the underworld crime drama and the Occupation-era historical picture. His later _The Beat That My Heart Skipped_ (2005) was a remake of _Fingers_ (1977) – a James Toback movie, which is about as male-angsty as cinema gets.
 
@@ -58,6 +68,39 @@ France 2021
 
 A Curzon release
 <br><br>
+
+**NEW & RE-RELEASES**<br>
+**The Worst Person in the World (Verdens verste menneske)**<br>
+From Mon 28 Mar<br>
+**Paris, 13th District (Les Olympiades)**<br>
+From Mon 28 Mar<br>
+**Hive**<br>
+From Tue 29 Mar<br>
+**Cries and Whispers (Viskningar och rop)**<br>
+From Fri 1 Apr<br>
+**A Night of Knowing Nothing**<br>
+From Fri 1 Apr (+ Q&A with director Payal Kapadia on Sun 3 Apr 17:50)<br>
+**Playground**<br>
+From Fri 15 Apr (+ Q&A with director Laura Wandel on Thu 21 Apr 18:10)<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTc2NTU3ODUzXX0=
 -->
