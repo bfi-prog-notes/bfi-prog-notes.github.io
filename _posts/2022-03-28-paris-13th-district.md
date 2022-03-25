@@ -32,47 +32,32 @@ As for Audiard, he’s heading off next into entirely new territory, and is plan
 **Jonathan Romney, _Sight and Sound_, April 2022**
 <br><br>
 
-**PARIS, 13TH DISTRICT (LES OLYMPIADES)**
+**PARIS, 13TH DISTRICT (LES OLYMPIADES)**<br>
+_Directed by_: Jacques Audiard<br>
+_Production Company:_ Page 114<br>
+_In association with:_ France 2 Cinéma, Canal+, Ciné+, France Télévisions<br>
+_Producers_: Jacques Audiard,  Valérie Schermann<br>
+_Written by:_ Céline Sciamma, Léa Mysius, Jacques Audiard<br>
+_Based on the stories ‘Amber Sweet’,  ‘Killing and Dying’, ‘Hawaiian Getaway’ by:_ Adrian Tomine<br>
+_Cinematography:_ Paul Guilhaume<br>
+_Editor:_ Juliette Welfling<br>
+_Art Director:_ Mila Preli<br>
+_Costume Design:_ Virginie Montel<br>
+_Music:_ Rone<br>
 
-_Directed by_: Jacques Audiard
-
-_Production Company:_ Page 114
-
-_In association with:_ France 2 Cinéma, Canal+, Ciné+, France Télévisions
-
-_Producers_: Jacques Audiard,  
-Valérie Schermann
-
-_Written by:_ Céline Sciamma, Léa Mysius, Jacques Audiard
-
-_Based on the stories ‘Amber Sweet’,  
-‘Killing and Dying’, ‘Hawaiian Getaway’ by:_ Adrian Tomine
-
-_Cinematography:_ Paul Guilhaume
-
-_Editor:_ Juliette Welfling
-
-_Art Director:_ Mila Preli
-
-_Costume Design:_ Virginie Montel
-
-_Music:_ Rone
-
-_Cast:_
-
+**Cast**<br>
 Lucie Zhang _(Émilie Wong)_  
 Makita Samba _(Camille Germain)_  
 Noémie Merlant _(Nora Ligier)_  
 Jehnny Beth _(Amber Sweet)_  
-Camille Léon-Fucien _(Eponine)_
-
+Camille Léon-Fucien _(Eponine)_  
 Oceane Cairaty _(Stéphanie)_
 
-France 2021
-
+France 2021  
 105 mins
 
 A Curzon release
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjE3ODkyMV19
+eyJoaXN0b3J5IjpbMTc2NTU3ODUzXX0=
 -->
