@@ -72,32 +72,21 @@ Bunta Sugawara _(Kamaji)_<br>
 
 Japan 2001©<br>
 124 mins<br>
+<br>
 
-<![endif]-->
+**THE HISTORY OF ANIME**<br>
+**Early Days of Anime Shorts Programme 1917-1946 + intro (tbc)**<br>
+Tue 29 Mar 18:00; Mon 11 Apr 20:40<br>
+**Momotaro’s Divine Sea Warriors (Momotarō: Umi no Shinpei)**<br>
+Wed 30 Mar 21:00; Wed 13 Apr 18:30<br>
+**Exploring Anime: Panel Discussion**<br>
+Thu 31 Mar 18:15<br>
+**Astroboy**<br>
+Fri 1 Apr 18:15; Sun 17 Apr 12:10<br>
+**Kimba the White Lion (Jangaru Taitei)**<br>
+Fri 1 Apr 20:45; Sat 9 Apr 12:40<br>
 
-**THE HISTORY OF ANIME**
-
-**Early Days of Anime Shorts Programme 1917-1946 + intro (tbc)**
-
-Tue 29 Mar 18:00; Mon 11 Apr 20:40
-
-**Momotaro’s Divine Sea Warriors (Momotarō: Umi no Shinpei)**
-
-Wed 30 Mar 21:00; Wed 13 Apr 18:30
-
-**Exploring Anime: Panel Discussion**
-
-Thu 31 Mar 18:15
-
-**Astroboy**
-
-Fri 1 Apr 18:15; Sun 17 Apr 12:10
-
-**Kimba the White Lion (Jangaru Taitei)**
-
-Fri 1 Apr 20:45; Sat 9 Apr 12:40
-
-**Belladonna of Sadness (****Kanashimi no Belladonna)**
+**Belladonna of Sadness (Kanashimi no Belladonna)**<br>
 
 Mon 4 Apr 20:30 (+ intro by Helen McCarthy); Mon 18 Apr 15:30
 
@@ -135,17 +124,13 @@ Thu 14 Apr 20:45; Sat 16 Apr 20:30; Fri 22 Apr 20:40
 
 **Patlabor 2: The Movie (Kidô keisatsu patorebâ: The Movie 2)**
 
-Fri 15 Apr 18:15; Thu 21 Apr 20:30; Thu 28 Apr 20:45
+Fri 15 Apr 18:15; Thu 21 Apr 20:30; Thu 28 Apr 20:45<br>
+**The Case of Hana & Alice (Hana to Arisu Satsujin Jiken)**<br>
+Sat 16 Apr 18:35; Tue 26 Apr 20:55<br>
 
-**The Case of Hana & Alice (****Hana to Arisu Satsujin Jiken)**
+This season was co-programmed by writer and academic Hanako Miyata<br>
 
-Sat 16 Apr 18:35; Tue 26 Apr 20:55
-
-This season was co-programmed by writer and academic Hanako Miyata
-
-<![if !vml]>![](file:///C:/Users/LOCAL_~1/Temp/23/msohtmlclip1/01/clip_image002.png)<![endif]>
-
-**Japan Nakama is an online community for Japanese culture enthusiasts and a marketplace for Japan-made and inspired products.**
+**Japan Nakama is an online community for Japanese culture enthusiasts and a marketplace for Japan-made and inspired products.**<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODI3NDQ4M119
+eyJoaXN0b3J5IjpbNjU1ODM0MzNdfQ==
 -->
