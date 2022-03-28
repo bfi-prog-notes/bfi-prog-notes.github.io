@@ -85,34 +85,22 @@ Thu 31 Mar 18:15<br>
 Fri 1 Apr 18:15; Sun 17 Apr 12:10<br>
 **Kimba the White Lion (Jangaru Taitei)**<br>
 Fri 1 Apr 20:45; Sat 9 Apr 12:40<br>
-
 **Belladonna of Sadness (Kanashimi no Belladonna)**<br>
+Mon 4 Apr 20:30 (+ intro by Helen McCarthy); Mon 18 Apr 15:30<br>
 
-Mon 4 Apr 20:30 (+ intro by Helen McCarthy); Mon 18 Apr 15:30
+**STUDIO GHIBLI**<br>
+**Spirited Away (Sen to Chihiro no Kamikakushi)**<br>
+Mon 28 Mar 20:35; Fri 29 Apr 18:00<br>
+**When Marnie Was There (Omoide No Mani)**<br>
+Tue 29 Mar 20:40<br>
+**My Neighbour Totoro (Tonari no Totoro)**<br>
+Tue 5 Apr 18:20; Fri 8 Apr 20:50<br>
 
-**STUDIO GHIBLI**
-
-**Spirited Away (Sen to Chihiro no Kamikakushi)**
-
-Mon 28 Mar 20:35; Fri 29 Apr 18:00
-
-**When Marnie Was There (Omoide No Mani)**
-
-Tue 29 Mar 20:40
-
-**My Neighbour Totoro (Tonari no Totoro)**
-
-Tue 5 Apr 18:20; Fri 8 Apr 20:50
-
-**ANIME CLASSICS PART 1**
-
-**Steamboy (Suchîmubôi)**
-
-Sat 9 Apr 20:20; Fri 15 Apr 20:30; Wed 20 Apr 18:10
-
-**Royal Space Force: The Wings of Honneamise (****Ōritsu Uchūgun: Oneamisu no Tsubasa)**
-
-Tue 12 Apr 18:00; Sat 23 Apr 20:40
+**ANIME CLASSICS PART 1**<br>
+**Steamboy (Suchîmubôi)**<br>
+Sat 9 Apr 20:20; Fri 15 Apr 20:30; Wed 20 Apr 18:10<br>
+**Royal Space Force: The Wings of Honneamise (Ōritsu Uchūgun: Oneamisu no Tsubasa)**<br>
+Tue 12 Apr 18:00; Sat 23 Apr 20:40<br>
 
 **Patlabor: The Movie (Kidô keisatsu patorebâ: Gekijô-ban)**
 
@@ -132,5 +120,5 @@ This season was co-programmed by writer and academic Hanako Miyata<br>
 
 **Japan Nakama is an online community for Japanese culture enthusiasts and a marketplace for Japan-made and inspired products.**<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1ODM0MzNdfQ==
+eyJoaXN0b3J5IjpbMTA2MTQ1OTQxNV19
 -->
