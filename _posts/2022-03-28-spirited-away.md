@@ -27,40 +27,16 @@ _Colour Design_: Michiyo Yasuda
 _Digital Camera/Composite Operators_: Junji Yabuta, Wataru Takahashi, Atsushi Tamura  
 _Director of Digital Imaging_: Atsushi Okui  
 _Supervising Animators_: Masashi Ando, Kitaro Kosaka, Megumi Kagawa  
-_Key Animation_: Takeshi Inamura, Kenichi Yamada, Masaru Matsuse, Hideaki Yoshio, Eiji Yamamori, Katsutoshi Nakamura, Kazuyoshi Onoda, Makiko Suzuki, Mariko Matsuo, Atsushi Tamura, Hiromasa Yonebayashi, Kaori Fujii, Tamami Yamada, Makiko Futaki, Yoshiyuki Momose, Akihiko Yamashita, Nobuyuki Takeuchi, Shôgo Furuya, Misuzu Kurata, Atsushi Yamagata, Shigeru Kimishima, Kiroomi Yamakawa,
-
-Nobuhiro Osugi, Yuichi Tanaka, Shizue Kaneko, Hideki Hamasu,
-
-Hisaki Furukawa, Kenichi Konishi, Masaru Oshiro, Shinya Ohira,
-
-Shinji Hashimoto, Hisashi Nakayama, Noboru Takano,
-
-Masako Shinohara, Kuniyuki Ishii, Shojuro Yamauchi  
+_Key Animation_: Takeshi Inamura, Kenichi Yamada, Masaru Matsuse, Hideaki Yoshio, Eiji Yamamori, Katsutoshi Nakamura, Kazuyoshi Onoda, Makiko Suzuki, Mariko Matsuo, Atsushi Tamura, Hiromasa Yonebayashi, Kaori Fujii, Tamami Yamada, Makiko Futaki, Yoshiyuki Momose, Akihiko Yamashita, Nobuyuki Takeuchi, Shôgo Furuya, Misuzu Kurata, Atsushi Yamagata, Shigeru Kimishima, Kiroomi Yamakawa, Nobuhiro Osugi, Yuichi Tanaka, Shizue Kaneko, Hideki Hamasu, Hisaki Furukawa, Kenichi Konishi, Masaru Oshiro, Shinya Ohira, Shinji Hashimoto, Hisashi Nakayama, Noboru Takano, Masako Shinohara, Kuniyuki Ishii, Shojuro Yamauchi  
 _Telecom Animation Film_: Atsuko Tanaka  
-_Supporting Animation Studios_: Anime Torotoro, Oh Production,
-
-Studio Cockpit, Studio Takuranke, Group Donguri, Nakamura Production, Gainax, Doga Kobo, Studio Kuma, Production I-G, Studio Musashi, Boomerang, Studio Deen, Studio Hibari, Radical Party, Kiryu, Mugenkan, AIC, Shaft, Liberty Ship, Mad House  
+_Supporting Animation Studios_: Anime Torotoro, Oh Production, Studio Cockpit, Studio Takuranke, Group Donguri, Nakamura Production, Gainax, Doga Kobo, Studio Kuma, Production I-G, Studio Musashi, Boomerang, Studio Deen, Studio Hibari, Radical Party, Kiryu, Mugenkan, AIC, Shaft, Liberty Ship, Mad House  
 _Director of Digital Animation_: Mitsunori Kataama  
-_Digital Animators_: Yoichi Senzui, Masaru Karube, Miki Sato,
-
-Hiroki Yamada, Yuji Tone  
+_Digital Animators_: Yoichi Senzui, Masaru Karube, Miki Sato, Hiroki Yamada, Yuji Tone  
 _CG Engineer_: Masafumi Inoue
-
-_Animation Check_: Hitomi Tateno, Mariko Suzuki, Masaya Saito,
-
-Minoru Ohashi
-
-_Backgrounds_: Kazuo Oga, Sayaka Hirahara, Yoshikazu Fukutome,
-
-Naoya Tanaka, Naomi Kasugai, Ryoko Ina, Masako Osada,
-
-Tomoe Ishihara, Kikuyo Yano, Keiko Itogawa, Osamu Masuyama,
-
-Hisae Saito, Masanori Kikuchi, Kyokko Naganawa, Hiroaki Sasaki,
-
-Studio Fuga, Nizo Yamamoto, Kazuo Nagai, Ogura Kobo, Hiromasa Ogura  
-_Editor_: Takeshi Seyama_  
-Art Director_: Yoji Takeshige  
+_Animation Check_: Hitomi Tateno, Mariko Suzuki, Masaya Saito, Minoru Ohashi
+_Backgrounds_: Kazuo Oga, Sayaka Hirahara, Yoshikazu Fukutome, Naoya Tanaka, Naomi Kasugai, Ryoko Ina, Masako Osada, Tomoe Ishihara, Kikuyo Yano, Keiko Itogawa, Osamu Masuyama, Hisae Saito, Masanori Kikuchi, Kyokko Naganawa, Hiroaki Sasaki, Studio Fuga, Nizo Yamamoto, Kazuo Nagai, Ogura Kobo, Hiromasa Ogura  
+_Editor_: Takeshi Seyama  
+_  Art Director_: Yoji Takeshige  
 _Art Director (Associate)_: Noboru Yoshida  
 _Titles_: Kaoru Mano, Malin Post  
 _Music_: Joe Hisaishi  
@@ -78,9 +54,9 @@ Tetsuya Satake
 _Optical Recording_: Futoshi Ueda  
 _Digital Optical Recording_: Noboru Nishio  
 _Sound Effects_: Michihiro Ito, Toru Noguchi  
-_Sound Effects Support_: Eiko Morikawa, Ayako Ueda, Mayuka Miyazawa, Kazuaki Narita, Toshiaki Abe, Mausu Promotion
+_Sound Effects Support_: Eiko Morikawa, Ayako Ueda, Mayuka Miyazawa, Kazuaki Narita, Toshiaki Abe, Mausu Promotion<br>
 
-**Voice Cast:**
+**Voice Cast:**<br>
 Rumi Hiiragi _(Chihiro)_  
 Miyu Irino _(Haku)_  
 Mari Natsuki _(Yubaba/Zeniba)_  
@@ -92,10 +68,84 @@ Yo Oizumi _(foreman of the frog men)_
 Koba Hayashi _(River God)_  
 Tsunehiko Kamijo _(school principal)_  
 Takehiko Ono _(employee)_  
-Bunta Sugawara _(Kamaji)_
+Bunta Sugawara _(Kamaji)_<br>
 
-Japan 2001©
-124 mins
+Japan 2001©<br>
+124 mins<br>
+
+<![endif]-->
+
+**THE HISTORY OF ANIME**
+
+**Early Days of Anime Shorts Programme 1917-1946 + intro (tbc)**
+
+Tue 29 Mar 18:00; Mon 11 Apr 20:40
+
+**Momotaro’s Divine Sea Warriors (Momotarō: Umi no Shinpei)**
+
+Wed 30 Mar 21:00; Wed 13 Apr 18:30
+
+**Exploring Anime: Panel Discussion**
+
+Thu 31 Mar 18:15
+
+**Astroboy**
+
+Fri 1 Apr 18:15; Sun 17 Apr 12:10
+
+**Kimba the White Lion (Jangaru Taitei)**
+
+Fri 1 Apr 20:45; Sat 9 Apr 12:40
+
+**Belladonna of Sadness (****Kanashimi no Belladonna)**
+
+Mon 4 Apr 20:30 (+ intro by Helen McCarthy); Mon 18 Apr 15:30
+
+**STUDIO GHIBLI**
+
+**Spirited Away (Sen to Chihiro no Kamikakushi)**
+
+Mon 28 Mar 20:35; Fri 29 Apr 18:00
+
+**When Marnie Was There (Omoide No Mani)**
+
+Tue 29 Mar 20:40
+
+**My Neighbour Totoro (Tonari no Totoro)**
+
+Tue 5 Apr 18:20; Fri 8 Apr 20:50
+
+**ANIME CLASSICS PART 1**
+
+**Steamboy (Suchîmubôi)**
+
+Sat 9 Apr 20:20; Fri 15 Apr 20:30; Wed 20 Apr 18:10
+
+**Royal Space Force: The Wings of Honneamise (****Ōritsu Uchūgun: Oneamisu no Tsubasa)**
+
+Tue 12 Apr 18:00; Sat 23 Apr 20:40
+
+**Patlabor: The Movie (Kidô keisatsu patorebâ: Gekijô-ban)**
+
+Wed 13 Apr 20:40; Sun 17 Apr 18:20; Thu 28 Apr 18:15
+
+**Cowboy Bebop: The Movie (****Cowboy Bebop: Tengoku no tobira)**
+
+Thu 14 Apr 20:45; Sat 16 Apr 20:30; Fri 22 Apr 20:40
+
+**Patlabor 2: The Movie (Kidô keisatsu patorebâ: The Movie 2)**
+
+Fri 15 Apr 18:15; Thu 21 Apr 20:30; Thu 28 Apr 20:45
+
+**The Case of Hana & Alice (****Hana to Arisu Satsujin Jiken)**
+
+Sat 16 Apr 18:35; Tue 26 Apr 20:55
+
+This season was co-programmed by writer and academic Hanako Miyata
+
+<![if !vml]>![](file:///C:/Users/LOCAL_~1/Temp/23/msohtmlclip1/01/clip_image002.png)<![endif]>
+
+**Japan Nakama is an online community for Japanese culture enthusiasts and a marketplace for Japan-made and inspired products.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzE2MTA2N119
+eyJoaXN0b3J5IjpbLTM1ODI3NDQ4M119
 -->
