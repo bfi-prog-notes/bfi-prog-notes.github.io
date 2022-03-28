@@ -10,11 +10,9 @@ From here on the audience is at Chihiro’s eye-level, to sink or swim in a fant
 Initially Chihiro stumbles through her world, hurtling down steep stairs and being magically yanked across hallways. Her switch to active protagonist is signalled in the second half, when she hitches up her worker’s uniform, runs along a treacherous metal pipe that nearly drops her to her doom, then climbs the bathhouse to the top. What causes this change? Miyazaki’s answer is hard work, but of a different order from the jovial capitalism of Disney’s dwarves. One of the director’s most popular earlier films, _Kiki’s Delivery Service_ (1989), was about a teen witch making flying deliveries while coping with adolescence. _Spirited Away_ has a similarly offbeat work regime with Chihiro tending Japanese gods and learning responsibility and purpose. This has less to do with stereotypes of the industrious Japanese than with Miyazaki’s own leftist leanings and belief in empowerment through labour. What makes it more than dreary moralism are the witty riffs on the theme. Chihiro’s first trial is to help a soot-sprite carry unnaturally heavy lumps of coal; she succeeds, only for all its co-workers to drop their burdens before her _en masse_.
 
 Western audiences may chafe at the sub-Disney frame rate (much of the animation is done on ‘threes’, or eight distinct frames a second) and the cartoon acting can’t match that of the best US studios. That said, Chihiro’s fearful, clinging behaviour is well observed, while her character design – with a thin gawky body and pipe-cleaner legs – is inspired. In any case, cartoon acting was never the sine qua non of Miyazaki’s films, which are built instead on heightened situations and sublime fantasy landscapes. Even if CG cartoons come to dominate Japan as they do much of the world, there’s a corner of the animation field that will be forever Miyazaki.
-**Andrew Osmond, _Sight & Sound_, September 2003**
+**Andrew Osmond, _Sight & Sound_, September 2003**<br>
 
-  
-
-**SPIRITED AWAY (SEN TO CHIHIRO NO KAMIKAKUSHI)**
+**SPIRITED AWAY (SEN TO CHIHIRO NO KAMIKAKUSHI)**<br>
 _Director_: Hayao Miyazaki  
 _©_: Nibariki TGNDDTM  
 _Presented by_: Tokuma Shoten, Studio Ghibli, Nippon Television Network Corporation, Dentsu, Buena Vista Home Entertainment (Japan), TFC – Tohokushinsha Film Corporation, Mitsubishi Corporation  
@@ -29,9 +27,7 @@ _Colour Design_: Michiyo Yasuda
 _Digital Camera/Composite Operators_: Junji Yabuta, Wataru Takahashi, Atsushi Tamura  
 _Director of Digital Imaging_: Atsushi Okui  
 _Supervising Animators_: Masashi Ando, Kitaro Kosaka, Megumi Kagawa  
-_Key Animation_: Takeshi Inamura, Kenichi Yamada, Masaru Matsuse, Hideaki Yoshio, Eiji Yamamori, Katsutoshi Nakamura, Kazuyoshi Onoda, Makiko Suzuki, Mariko Matsuo, Atsushi Tamura, Hiromasa Yonebayashi, Kaori Fujii, Tamami Yamada, Makiko Futaki, Yoshiyuki Momose,
-
-Akihiko Yamashita, Nobuyuki Takeuchi, Shôgo Furuya, Misuzu Kurata, Atsushi Yamagata, Shigeru Kimishima, Kiroomi Yamakawa,
+_Key Animation_: Takeshi Inamura, Kenichi Yamada, Masaru Matsuse, Hideaki Yoshio, Eiji Yamamori, Katsutoshi Nakamura, Kazuyoshi Onoda, Makiko Suzuki, Mariko Matsuo, Atsushi Tamura, Hiromasa Yonebayashi, Kaori Fujii, Tamami Yamada, Makiko Futaki, Yoshiyuki Momose, Akihiko Yamashita, Nobuyuki Takeuchi, Shôgo Furuya, Misuzu Kurata, Atsushi Yamagata, Shigeru Kimishima, Kiroomi Yamakawa,
 
 Nobuhiro Osugi, Yuichi Tanaka, Shizue Kaneko, Hideki Hamasu,
 
@@ -101,5 +97,5 @@ Bunta Sugawara _(Kamaji)_
 Japan 2001©
 124 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzEzMDg3M119
+eyJoaXN0b3J5IjpbLTY4NzE2MTA2N119
 -->
