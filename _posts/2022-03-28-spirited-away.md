@@ -1,3 +1,14 @@
+---
+layout: post
+title: Spirited Away
+published: true
+date: 2022-03-28
+readtime: true
+categories: ['ANIME']
+tags: [Animation, Adventure]
+metadata: 'Japan 2001, 124 mins<br> Director: Hayao Miyazaki'
+pdf: '2022-03-28-spirited-away.pdf'
+---
 
 _Spirited Away_, a Japanese animated fantasy about a little girl’s adventures in a realm of gods and monsters, invites comparisons to the Alice books,  _The Wizard of Oz_ and even _Harry Potter_. First and foremost, though, this remarkable film is embedded in the personal universe of its auteur-director Hayao Miyazaki, whose standing in Japan is comparable to Steven Spielberg’s or, indeed, J.K. Rowling’s in the west. From its opening in 2001, _Spirited Away_ has become the biggest Japanese release in history. It is also the most successful ‘foreign’ film ever made, with the bulk of its revenue earned in its native country. The film shared the Golden Bear at the 2002 Berlin festival, followed by an Oscar for best animated feature. It is released in Britain both dubbed and subtitled, the dub produced by Disney and directed by Kirk Wise, who co-directed _Beauty and the Beast_ and _Atlantis: The Lost Empire_.
 
@@ -9,7 +20,7 @@ From here on the audience is at Chihiro’s eye-level, to sink or swim in a fant
 
 Initially Chihiro stumbles through her world, hurtling down steep stairs and being magically yanked across hallways. Her switch to active protagonist is signalled in the second half, when she hitches up her worker’s uniform, runs along a treacherous metal pipe that nearly drops her to her doom, then climbs the bathhouse to the top. What causes this change? Miyazaki’s answer is hard work, but of a different order from the jovial capitalism of Disney’s dwarves. One of the director’s most popular earlier films, _Kiki’s Delivery Service_ (1989), was about a teen witch making flying deliveries while coping with adolescence. _Spirited Away_ has a similarly offbeat work regime with Chihiro tending Japanese gods and learning responsibility and purpose. This has less to do with stereotypes of the industrious Japanese than with Miyazaki’s own leftist leanings and belief in empowerment through labour. What makes it more than dreary moralism are the witty riffs on the theme. Chihiro’s first trial is to help a soot-sprite carry unnaturally heavy lumps of coal; she succeeds, only for all its co-workers to drop their burdens before her _en masse_.
 
-Western audiences may chafe at the sub-Disney frame rate (much of the animation is done on ‘threes’, or eight distinct frames a second) and the cartoon acting can’t match that of the best US studios. That said, Chihiro’s fearful, clinging behaviour is well observed, while her character design – with a thin gawky body and pipe-cleaner legs – is inspired. In any case, cartoon acting was never the sine qua non of Miyazaki’s films, which are built instead on heightened situations and sublime fantasy landscapes. Even if CG cartoons come to dominate Japan as they do much of the world, there’s a corner of the animation field that will be forever Miyazaki.
+Western audiences may chafe at the sub-Disney frame rate (much of the animation is done on ‘threes’, or eight distinct frames a second) and the cartoon acting can’t match that of the best US studios. That said, Chihiro’s fearful, clinging behaviour is well observed, while her character design – with a thin gawky body and pipe-cleaner legs – is inspired. In any case, cartoon acting was never the sine qua non of Miyazaki’s films, which are built instead on heightened situations and sublime fantasy landscapes. Even if CG cartoons come to dominate Japan as they do much of the world, there’s a corner of the animation field that will be forever Miyazaki.<br>
 **Andrew Osmond, _Sight & Sound_, September 2003**<br>
 
 **SPIRITED AWAY (SEN TO CHIHIRO NO KAMIKAKUSHI)**<br>
@@ -36,7 +47,7 @@ _CG Engineer_: Masafumi Inoue
 _Animation Check_: Hitomi Tateno, Mariko Suzuki, Masaya Saito, Minoru Ohashi
 _Backgrounds_: Kazuo Oga, Sayaka Hirahara, Yoshikazu Fukutome, Naoya Tanaka, Naomi Kasugai, Ryoko Ina, Masako Osada, Tomoe Ishihara, Kikuyo Yano, Keiko Itogawa, Osamu Masuyama, Hisae Saito, Masanori Kikuchi, Kyokko Naganawa, Hiroaki Sasaki, Studio Fuga, Nizo Yamamoto, Kazuo Nagai, Ogura Kobo, Hiromasa Ogura  
 _Editor_: Takeshi Seyama  
-_  Art Director_: Yoji Takeshige  
+_Art Director_: Yoji Takeshige  
 _Art Director (Associate)_: Noboru Yoshida  
 _Titles_: Kaoru Mano, Malin Post  
 _Music_: Joe Hisaishi  
@@ -49,8 +60,7 @@ _Orchestra Mixing_: Shinichi Tanaka
 _Surround Mixing_: Suminobu Hamada  
 _Audio Director_: Kazuhiro Hayashi  
 _Recording/Sound Mixing_: Shuji Inoue  
-_Recording/Mixing_: Tokyo T.V. Center, Tsukuru Takagi, Takeshi Imaizumi,  
-Tetsuya Satake  
+_Recording/Mixing_: Tokyo T.V. Center, Tsukuru Takagi, Takeshi Imaizumi, Tetsuya Satake  
 _Optical Recording_: Futoshi Ueda  
 _Digital Optical Recording_: Noboru Nishio  
 _Sound Effects_: Michihiro Ito, Toru Noguchi  
@@ -75,7 +85,7 @@ Japan 2001©<br>
 <br>
 
 **THE HISTORY OF ANIME**<br>
-**Early Days of Anime Shorts Programme 1917-1946 + intro (tbc)**<br>
+**Early Days of Anime Shorts Programme 1917-1946 + intro**<br>
 Tue 29 Mar 18:00; Mon 11 Apr 20:40<br>
 **Momotaro’s Divine Sea Warriors (Momotarō: Umi no Shinpei)**<br>
 Wed 30 Mar 21:00; Wed 13 Apr 18:30<br>
@@ -101,24 +111,35 @@ Tue 5 Apr 18:20; Fri 8 Apr 20:50<br>
 Sat 9 Apr 20:20; Fri 15 Apr 20:30; Wed 20 Apr 18:10<br>
 **Royal Space Force: The Wings of Honneamise (Ōritsu Uchūgun: Oneamisu no Tsubasa)**<br>
 Tue 12 Apr 18:00; Sat 23 Apr 20:40<br>
-
-**Patlabor: The Movie (Kidô keisatsu patorebâ: Gekijô-ban)**
-
-Wed 13 Apr 20:40; Sun 17 Apr 18:20; Thu 28 Apr 18:15
-
-**Cowboy Bebop: The Movie (****Cowboy Bebop: Tengoku no tobira)**
-
-Thu 14 Apr 20:45; Sat 16 Apr 20:30; Fri 22 Apr 20:40
-
-**Patlabor 2: The Movie (Kidô keisatsu patorebâ: The Movie 2)**
-
+**Patlabor: The Movie (Kidô keisatsu patorebâ: Gekijô-ban)**  
+Wed 13 Apr 20:40; Sun 17 Apr 18:20; Thu 28 Apr 18:15  
+**Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no tobira)**  
+Thu 14 Apr 20:45; Sat 16 Apr 20:30; Fri 22 Apr 20:40  
+**Patlabor 2: The Movie (Kidô keisatsu patorebâ: The Movie 2)**  
 Fri 15 Apr 18:15; Thu 21 Apr 20:30; Thu 28 Apr 20:45<br>
 **The Case of Hana & Alice (Hana to Arisu Satsujin Jiken)**<br>
 Sat 16 Apr 18:35; Tue 26 Apr 20:55<br>
 
 This season was co-programmed by writer and academic Hanako Miyata<br>
 
+<img style="float: left;" src="/img/japan-nakama.png" width="30%" height="30%">
+<br><br><br><br><br>
+
 **Japan Nakama is an online community for Japanese culture enthusiasts and a marketplace for Japan-made and inspired products.**<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTQ1OTQxNV19
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
