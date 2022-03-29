@@ -1,15 +1,15 @@
+---
+layout: post
+title: When Marnie Was There
+published: true
+date: 2022-03-29
+readtime: true
+categories: ['ANIME']
+tags: [Animation]
+metadata: 'Japan 2014, 103 mins<br> Director: Hiromasa Yonebayashi'
+pdf: '2022-03-29-when-marnie-was-there.pdf'
+---
 
-<![endif]-->
-
-<![if !vml]>
-
-![](file:///C:/Users/LOCAL_~1/Temp/36/msohtmlclip1/01/clip_image002.jpg)
-
-![Text Box: ANIME
-When Marnie Was There (Omoide no Mani)
-](file:///C:/Users/LOCAL_~1/Temp/36/msohtmlclip1/01/clip_image003.png)
-
-<![endif]>  
 Joan G. Robinson’s 1967 children’s classic _When Marnie Was There_ – the story of a solitary and brooding London orphan called Anna who is sent to stay with family friends for a summer on the north Norfolk coast, where she encounters a kindred spirit called Marnie living in the mysterious Marsh House – now comes with a postscript appended by Robinson’s daughter Deborah Sheppard in 2002. In it Sheppard relates the story of a Japanese man, a fan of the book since his youth, who had ventured out on the same coastal bus ride as Anna in hopes of making a pilgrimage to the story’s setting of Little Overton. None of the man’s fellow passengers had heard of the village, however, and he was beginning to get rather anxious when the bus drew into Burnham Overy, and he recognised the very windmill that haunts Marnie’s imagination – and then too the Granary which Robinson fictionalised as the Marsh House, and the marsh path to the beach where Anna and Marnie make their magical trysts. (Sheppard describes him even managing to find a local Japanese resident, who kept in touch and later delivered him a photo of Robinson.)
 
 Given that Japan’s Studio Ghibli has now adapted Marnie at the behest of Hayao Miyazaki, the great animator known for his love of both European landscapes and classic children’s literature, one’s fancies wander. Could this pilgrim possibly have been Miyazaki-san? After all, Marnie appears on his list of 50 great children’s books shortly after _The Borrowers_ (adapted at Ghibli as _Arrietty_ in 2010 by Miyazaki’s former key animator Hiromasa Yonebayashi) and _The Little Prince_ (an influence on Miyazaki’s 2013 film _The Wind Rises_). According to Yonebayashi, who was also tasked with the adaptation of Marnie, the answer is no – but the book’s Japanese translator did know the man, and Yonebayashi had heard of the episode and even seen photos the man had taken of Burnham Overy.
@@ -71,6 +71,63 @@ Vanessa L. Williams _(Hisako)_<br>
 
 Japan 2014<br>
 103 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTcxNTA2NjJdfQ==
--->
+
+**THE HISTORY OF ANIME**<br>
+**Early Days of Anime Shorts Programme 1917-1946 + intro**<br>
+Tue 29 Mar 18:00; Mon 11 Apr 20:40<br>
+**Momotaro’s Divine Sea Warriors (Momotarō: Umi no Shinpei)**<br>
+Wed 30 Mar 21:00; Wed 13 Apr 18:30<br>
+**Exploring Anime: Panel Discussion**<br>
+Thu 31 Mar 18:15<br>
+**Astroboy**<br>
+Fri 1 Apr 18:15; Sun 17 Apr 12:10<br>
+**Kimba the White Lion (Jangaru Taitei)**<br>
+Fri 1 Apr 20:45; Sat 9 Apr 12:40<br>
+**Belladonna of Sadness (Kanashimi no Belladonna)**<br>
+Mon 4 Apr 20:30 (+ intro by Helen McCarthy); Mon 18 Apr 15:30<br>
+
+**STUDIO GHIBLI**<br>
+**Spirited Away (Sen to Chihiro no Kamikakushi)**<br>
+Mon 28 Mar 20:35; Fri 29 Apr 18:00<br>
+**When Marnie Was There (Omoide No Mani)**<br>
+Tue 29 Mar 20:40<br>
+**My Neighbour Totoro (Tonari no Totoro)**<br>
+Tue 5 Apr 18:20; Fri 8 Apr 20:50<br>
+
+**ANIME CLASSICS PART 1**<br>
+**Steamboy (Suchîmubôi)**<br>
+Sat 9 Apr 20:20; Fri 15 Apr 20:30; Wed 20 Apr 18:10<br>
+**Royal Space Force: The Wings of Honneamise (Ōritsu Uchūgun: Oneamisu no Tsubasa)**<br>
+Tue 12 Apr 18:00; Sat 23 Apr 20:40<br>
+**Patlabor: The Movie (Kidô keisatsu patorebâ: Gekijô-ban)**  
+Wed 13 Apr 20:40; Sun 17 Apr 18:20; Thu 28 Apr 18:15  
+**Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no tobira)**  
+Thu 14 Apr 20:45; Sat 16 Apr 20:30; Fri 22 Apr 20:40  
+**Patlabor 2: The Movie (Kidô keisatsu patorebâ: The Movie 2)**  
+Fri 15 Apr 18:15; Thu 21 Apr 20:30; Thu 28 Apr 20:45<br>
+**The Case of Hana & Alice (Hana to Arisu Satsujin Jiken)**<br>
+Sat 16 Apr 18:35; Tue 26 Apr 20:55<br>
+
+This season was co-programmed by writer and academic Hanako Miyata<br>
+
+<img style="float: left;" src="/img/japan-nakama.png" width="30%" height="30%">
+<br><br><br>
+
+**Japan Nakama is an online community for Japanese culture enthusiasts and a marketplace for Japan-made and inspired products.**<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
