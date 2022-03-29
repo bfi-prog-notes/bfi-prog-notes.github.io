@@ -32,9 +32,8 @@ It’s because Miyazaki likes English children’s classic literature. He chose 
 
 _I found the visual styling very evocative, particularly in terms of place and interiors as expressions of states of mind. For example, Anna’s bedroom in Sapporo conveyed a strong sense of the present and what life might be like for a girl in such a city now, and that helped to make the contrast with the sense of something different in the countryside. It’s not something a Miyazaki film would dwell on. I wondered if you were conscious of any attempt to do anything different in visual terms, or develop the Ghibli house style?_
 
-I’m glad you noticed because the background is very significant. It was important to depict Anna indoors: when you see her in her room you can tell what kind of a person she is. And when she enters her room in the country house, it was important that you can see people who lived in it before she moved in. And I took a lot of care to show a difference between the Marsh House past and present. Scenery also depicts Anna’s mood and state of mind: the sky, water or wind. In the novel there is a phrase: the sky is described as grey as a pearl. I interpreted that as an image of Anna’s soul. Ghibli’s films usually have blue skies and white clouds, whereas in this film the sky is cloudy all the time. So there’s a difference.
-
-**Nick Bradshaw, _Sight and Sound_, July 2016**
+I’m glad you noticed because the background is very significant. It was important to depict Anna indoors: when you see her in her room you can tell what kind of a person she is. And when she enters her room in the country house, it was important that you can see people who lived in it before she moved in. And I took a lot of care to show a difference between the Marsh House past and present. Scenery also depicts Anna’s mood and state of mind: the sky, water or wind. In the novel there is a phrase: the sky is described as grey as a pearl. I interpreted that as an image of Anna’s soul. Ghibli’s films usually have blue skies and white clouds, whereas in this film the sky is cloudy all the time. So there’s a difference.<br>
+**Nick Bradshaw, _Sight and Sound_, July 2016**<br>
 
 **WHEN MARNIE WAS THERE (OMOIDE NO MANI)**  
 _Directed by_: Hiromasa Yonebayashi  
@@ -53,10 +52,7 @@ _Director of Digital Imaging_: Atsushi Okui
 _Supervising Animator_: Masashi Ando  
 _Editing_: Rie Matsubara  
 _Production Designer_: Yohei Taneda
-
-_Art Directors_: Yoichi Nishikawa, Yohei Takamatsu, Takashi Omori,
-
-Noboru Yoshida  
+_Art Directors_: Yoichi Nishikawa, Yohei Takamatsu, Takashi Omori, Noboru Yoshida  
 _Titles_: Malin Post  
 _Music_: Takatsugu Muramatsu  
 _Piano_: Takatsugu Muramatsu  
@@ -64,18 +60,17 @@ _Classical Guitar_: Milos
 _Sound Designer_: Koji Kasamatsu  
 _Sound Re-recording Mixer_: Koji Kasamatsu
 
-**Voice Cast:**Kiernan Shipka _(Marnie)_  
+**Voice Cast:**<br>
+Kiernan Shipka _(Marnie)_  
 Geena Davis _(Yoriko Sasaki, 'Auntie)_
-
 John C. Reilly _(Kiyomasa Oiwa)_  
 Grey Griffin _(Setsu Oiwa)_  
 Catherine O'Hara _(old lady)_  
 Ellen Burstyn _(nanny)_  
-Vanessa L. Williams _(Hisako)_
+Vanessa L. Williams _(Hisako)_<br>
 
-Japan 2014
-
-103 mins
+Japan 2014<br>
+103 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MjM4NTYwMl19
+eyJoaXN0b3J5IjpbLTEyMTcxNTA2NjJdfQ==
 -->
