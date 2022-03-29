@@ -58,6 +58,7 @@ A heart-warming tale about a grumpy old man who dislikes Christmas. What happens
 
 
 <img style="float: left;" src="/img/oska-logo.jpg"><br><br><br><br><br><br><br>
+**www.oskabright.org**
 
 <img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br>
 
