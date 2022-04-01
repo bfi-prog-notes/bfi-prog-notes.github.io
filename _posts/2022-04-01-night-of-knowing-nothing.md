@@ -44,8 +44,7 @@ Jordan Mintzer, _The Film Verdict_
 ‘An oneiric, sensory and imaginative journey documenting being young in contemporary India.’  
 Mateusz Tarwacki, _Eye for Film_
 
-‘Payal Kapadia’s extraordinary debut feature _A Night of Knowing Nothing_ is a hypnotic essay about the loss of innocence and the spark that inspires one  
-to fight.’  
+‘Payal Kapadia’s extraordinary debut feature _A Night of Knowing Nothing_ is a hypnotic essay about the loss of innocence and the spark that inspires one to fight.’  
 Pat Mullen, _Point of View Magazine_
 
 ‘Beautifully dispatched through its entanglement of formal hybridity, Payal Kapadia’s _A Night of Knowing Nothing_ burrows her contemplative sensibility into the archiving of a contemporary reality.’  
