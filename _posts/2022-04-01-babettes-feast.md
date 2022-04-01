@@ -19,8 +19,7 @@ _I thought I detected a certain nostalgia for France in the film?_
 
 Perhaps, yes. My father lived in France. I was born in Denmark but when I was two months old I came to France and I went to school in France, so French is almost my first language. Even so, I’ve never felt very French since I was brought up in a Danish household. But in a film studio, I feel more at home in Paris than in Copenhagen. It may be that I was drawn to the story because it’s about an activity that seems typically French. Nevertheless, Karen Blixen makes some mistakes. For example, she refers to Veuve Clicquot 1860.  Now the story takes place in 1885 and champagne doesn’t keep that long. After eight years it begins to deteriorate.
 
-_The meal seemed pretty expensive. How much did Babette win in  
-today’s terms?_
+_The meal seemed pretty expensive. How much did Babette win in  today’s terms?_
 
 200,000 francs. £20,000. Between 12 people. And don’t forget she bought the silver and the dinner service and the linen as well. Any great chef will tell you that 50 per cent of a meal is the presentation.
 
@@ -30,12 +29,9 @@ Not at all. The young lieutenant was unable to explain why he was leaving. After
 
 _Let me ask the question I’m sure everyone asks. Are you a disciple of Dreyer? Some scenes in_ Babette’s Feast _might recall_ Ordet_,_ _for example._
 
-I admire Dreyer for his sense of composition and his rigour. But my real master is Louis Jouvet, whom I admire as a man of the theatre, for his simplicity and total refinement. I worked for four years as a spear-carrier in Jouvet’s company in Paris. I find a similar quality in certain painters, such as Braque or Vermeer. Nothing extraneous, only the essential. In a film, what I look for is the actor’s face. Nothing should detract from the actor’s eyes, in which everything can be read, whether in long-shot or in close-up. In _Babette_ there’s hardly a story.  
-It’s just a series of portraits. And that’s my ultimate aim.
-
-Interview by Jill Forbes, _Sight and Sound_, Spring 1988
-
-<![endif]-->
+I admire Dreyer for his sense of composition and his rigour. But my real master is Louis Jouvet, whom I admire as a man of the theatre, for his simplicity and total refinement. I worked for four years as a spear-carrier in Jouvet’s company in Paris. I find a similar quality in certain painters, such as Braque or Vermeer. Nothing extraneous, only the essential. In a film, what I look for is the actor’s face. Nothing should detract from the actor’s eyes, in which everything can be read, whether in long-shot or in close-up. In _Babette_ there’s hardly a story. It’s just a series of portraits. And that’s my ultimate aim.  
+**Interview by Jill Forbes, _Sight and Sound_, Spring 1988**
+<br><br>
 
 **BABETTE’S FEAST (BABETTES GAESTEBUD)**
 
@@ -105,5 +101,5 @@ Denmark 1987©
 
 103 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzY4NTgyN119
+eyJoaXN0b3J5IjpbNTY1MjA0MjYyXX0=
 -->
