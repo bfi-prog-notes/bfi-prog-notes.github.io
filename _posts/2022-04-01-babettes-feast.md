@@ -44,16 +44,12 @@ _Assistant Director_: Tom Hedegaard
 _Screenplay_: Gabriel Axel  
 _Based on the novella by_: Karen Blixen  
 _Director of Photography_: Henning Kristiansen  
-_B Photography_: Birger Bohm
-
+_B Photography_: Birger Bohm  
 _2nd Unit Photography_: Peter Klitgaard  
 _Editor_: Finn Henriksen  
 _Production Designer_: Sven Wichmann  
 _Costumes_: Annelise Hauberg  
-_Make-up_: Lydia Pujols, Bente Møller,  
-Elisabeth Bukkehave, Birthe Lyngsøe Sørensen,
-
-Sanne Dandanell, Grethe Holleufer, Åse Tarp  
+_Make-up_: Lydia Pujols, Bente Møller,  Elisabeth Bukkehave, Birthe Lyngsøe Sørensen, Sanne Dandanell, Grethe Holleufer, Åse Tarp  
 _Opticals_: Poul Kristensen  
 _Music_: Per Nørgård  
 _Sound Recording_: Michael Dela, John Nielsen, Bjarne Risbjerg, Nalle  
@@ -61,8 +57,7 @@ _Mixer_: Hans Erik Ahrn
 _Sound Re-recording_: Film Teknik  
 _Gastronomic Consultant_: Jan Pedersen
 
-_Cast:_
-
+**Cast**  
 Stéphane Audran _(Babette Hersant)_  
 Bodil Kjer _(old Filippa)_  
 Birgitte Federspiel _(old Martine)_  
@@ -74,8 +69,7 @@ Thomas Antoni _(Swedish lieutenant)_
 Gert Bastian _(poor man)_  
 Viggo Bentzon _(fisherman in rowing boat)_  
 Vibeke Hastrup _(young Martine)_  
-Therese Højgaard Christensen _(Martha)_
-
+Therese Højgaard Christensen _(Martha)_  
 Pouel Kern _(priest)_  
 Cay Kristiansen _(Poul)_  
 Lars Lohmann _(fisherman)_  
@@ -93,9 +87,9 @@ Axel Strøbye _(coachman)_
 Ebba With _(Loren’s aunt)_  
 Gudmar Wivesson _(young Lorens Löwenhielm)_
 
-Denmark 1987©
-
+Denmark 1987©  
 103 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5MDA3NDYyLDU2NTIwNDI2Ml19
+eyJoaXN0b3J5IjpbMTEzOTAwOTkxMiw1NjUyMDQyNjJdfQ==
 -->
