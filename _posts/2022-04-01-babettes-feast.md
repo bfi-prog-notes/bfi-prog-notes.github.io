@@ -37,7 +37,7 @@ _So the meal is an end in itself?_
 
 Not at all. The young lieutenant was unable to explain why he was leaving. After the meal, we repeat the exact same shot but this time the general finds the words he ought to have said when he was young: ‘Every day that remains in my life I shall be with you.’ And he realises that he has wasted his life. So it’s Babette’s meal and her art which liberates their minds and gives them all the strength to be themselves. It’s a film about right and wrong choices in life too.
 
-_Let me ask the question I’m sure everyone asks. Are you a disciple of Dreyer? Some scenes in_ Babette’s Feast _might recall_ Ordet_,_ _for example._
+_Let me ask the question I’m sure everyone asks. Are you a disciple of Dreyer? Some scenes in_ Babette’s Feast _might recall_ Ordet _, for example._
 
 I admire Dreyer for his sense of composition and his rigour. But my real master is Louis Jouvet, whom I admire as a man of the theatre, for his simplicity and total refinement. I worked for four years as a spear-carrier in Jouvet’s company in Paris. I find a similar quality in certain painters, such as Braque or Vermeer. Nothing extraneous, only the essential. In a film, what I look for is the actor’s face. Nothing should detract from the actor’s eyes, in which everything can be read, whether in long-shot or in close-up. In _Babette_ there’s hardly a story. It’s just a series of portraits. And that’s my ultimate aim.  
 **Interview by Jill Forbes, _Sight and Sound_, Spring 1988**
