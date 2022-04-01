@@ -1,3 +1,14 @@
+---
+layout: post
+title: Wuthering Heights
+published: true
+date: 2022-04-02
+readtime: true
+categories: ['NIGHTMARES & DAYDREAMS<br>A CENTENARY CELEBRATION OF SCREENWRITER NIGEL KNEALE']
+tags: [Drama, Period]
+metadata: 'UK 1962, 95 mins<br> Director: Rudolph Cartier'
+pdf: '2022-04-02-wuthering-heights.pdf'
+---
 
 Having both worked on Emily Brontë’s gothic romance for a (lost) 1953 BBC production, Kneale and Cartier revisited the novel for their last collaboration together. Dennis Potter, then television critic on _The Daily Herald_, wrote that the play ‘was like a thunderstorm on the flat, dreary plains of the week’s television’.<br>
 **bfi.org.uk**
@@ -12,8 +23,6 @@ Dennis Potter, then television critic on the _Daily Herald_, wrote that the play
 
 The liberties Kneale takes in reducing _Wuthering Heights_ for the small screen mean that it will never please Brontë purists, but it does offer more casual viewers the effective concentration of its ‘spirit’ that Kneale intended. While this production may not be the definitive adaptation of Brontë’s novel, it remains a surprisingly satisfying one.<br>
 **Oliver Wake, BFI Screenonline, screenonline.org.uk**<br>
-
-  
 
 **WUTHERING HEIGHTS**<br>
 _Director_: Rudolph Cartier *  
@@ -63,6 +72,22 @@ Tue 12 Apr 18:10<br>
 Fri 15 Apr 14:30; Wed 27 Apr 20:50<br>
 **The Woman in Black**<br>
 Sun 24 Apr 14:40<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA2MjMzNDZdfQ==
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+<br>
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
