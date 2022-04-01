@@ -39,61 +39,35 @@ _Costumes:_ Greta Johansson, Karin Johansson<br>
 _Make-up:_ Cecilia Drott, Britt Falkemo, Börje Lundh<br>
 _Musician, Chopin’s ‘Mazurka’:_ Käbi Laretei<br>
 _Musician, Bach’s ‘Saraband’:_ Pierre Fournier<br>
-
 _Sound:_ Owe Svensson<br>
-
 _Sound Assistant:_ Tommy Persson<br>
-
 _Mixings:_ Sven Fahlén, Owe Svensson<br>
-
 _English Subtitles:_ Alan Blair *<br>
-
 _Narrator:_ Ingmar Bergman<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Harriet Andersson _(Agnes)_<br>
-
 Kari Sylwan _(Anna)_<br>
-
 Ingrid Thulin _(Karin)_<br>
-
 Liv Ullmann _(Maria/Maria’s mother)_<br>
-
 Anders Ek _(Isak, the priest)_<br>
-
 Inga Gill _(Aunt Olga)_<br>
-
 Erland Josephson _(doctor)_<br>
-
 Henning Moritzen _(Joakim)_<br>
-
 Georg Årlin _(Fredrik)_<br>
-
 Linn Ullmann _(Maria’s daughter)_ *<br>
-
 Rosanna Mariano _(Agnes as a child)_ *<br>
-
 Malin Gjörup _(Anna’s daughter)_ *<br>
-
 Lena Bergman _(Maria as a child)_ *<br>
-
 Monika Priede _(Karin as a child)_ *<br>
-
 Greta Johansson *<br>
-
 Karin Johansson *<br>
-
 Ingrid Von Rosen *<br>
-
 Ann-Christin Lobråten *<br>
-
 Börje Lundh *<br>
-
 Lars-Owe Carlberg *<br>
 
 Sweden 1972<br>
-
 91 mins
 
 *Uncredited
@@ -105,5 +79,5 @@ The screening on Sun 3 Apr 15:10 will be introduced by Christina Newland, Lead F
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDk0NTk3XX0=
+eyJoaXN0b3J5IjpbMTY1NjE0MTUwMV19
 -->
