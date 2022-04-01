@@ -24,79 +24,71 @@ We had incredible difficulties with _Aguirre_. The footage had to be sent to lab
 
 Word came back that a good deal of the film we had shot was lost somewhere in transit to Mexico, but we kept shooting and hoped. Later the ‘lost’ film was found sitting outside the customs shed in Mexico City. One night I had less than one mark in my pocket, and the next day we had to feed the entire cast and crew. Relationships became strained, and at one point I literally threatened to kill one of the actors if he didn’t behave. I might have done it, too. You see, it finally isn’t the money that makes the film, it is the fire.  
 **Interview by David L. Overbey, _Sight and Sound_, Spring 1975**
+<br><br>
 
-<![endif]-->
-
-**AGUIRRE, WRATH OF GOD (AGUIRRE, DER ZORN GOTTES)**
-
-_Director:_ Werner Herzog
-
-_Production Companies:_  
-Werner Herzog Filmproduktion,  
-Hessischer Rundfunk
-
-_Producer:_ Werner Herzog
-
-_Associate Producer:_ Daniel Carino
-
-_Production Managers:_ Walter Saxer, Wolf Stipetic
-
+**AGUIRRE, WRATH OF GOD**<br>**(AGUIRRE, DER ZORN GOTTES)**<br>
+_Director:_ Werner Herzog<br>
+_Production Companies:_  Werner Herzog Filmproduktion,  Hessischer Rundfunk<br>
+_Producer:_ Werner Herzog<br>
+_Associate Producer:_ Daniel Carino<br>
+_Production Managers:_ Walter Saxer, Wolf Stipetic<br>
 _Collaborators:_ Gustavo Cerff Arbulú,  
-Martje Grohmann, Georg Hagmüller, Ina Fritsche, René Lechleitner, Ovidio Ore
+Martje Grohmann, Georg Hagmüller, Ina Fritsche, René Lechleitner, Ovidio Ore<br>
 
-_Screenplay:_ Werner Herzog
+_Screenplay:_ Werner Herzog<br>
 
-_Directors of Photography:_ Thomas Mauch, Francisco Joán, Orlando Macchiavello
+_Directors of Photography:_ Thomas Mauch, Francisco Joán, Orlando Macchiavello<br>
 
-_Special Effects:_ Juvenal Herrera, Miguel Vazquez
+_Special Effects:_ Juvenal Herrera, Miguel Vazquez<br>
 
-_Editor:_ Beate Mainka-Jellinghaus
+_Editor:_ Beate Mainka-Jellinghaus<br>
 
-_Music:_ Popol Vuh
+_Music:_ Popol Vuh<br>
 
-_Sound:_ Herbert Prasch
+_Sound:_ Herbert Prasch<br>
 
-_Post-synchronisation:_ Bob Oliver
+_Post-synchronisation:_ Bob Oliver<br>
 
-_Cast:_
+_Cast:_<br>
 
-Klaus Kinski _(Don Lope de Aguirre)_
+Klaus Kinski _(Don Lope de Aguirre)_<br>
 
-Cecilia Rivera _(Flores de Aguirre)_
+Cecilia Rivera _(Flores de Aguirre)_<br>
 
-Ruy Guerra _(Don Pedro de Ursua)_
+Ruy Guerra _(Don Pedro de Ursua)_<br>
 
-Helena Rojo _(Inez de Atienza)_
+Helena Rojo _(Inez de Atienza)_<br>
 
-Del Negro _(Brother Gaspar de Carvajal)_
+Del Negro _(Brother Gaspar de Carvajal)_<br>
 
-Peter Berling _(Don Fernando de Guzman)_
+Peter Berling _(Don Fernando de Guzman)_<br>
 
-Daniel Ades _(Perucho)_
+Daniel Ades _(Perucho)_<br>
 
-Armando Polanah _(Armando)_
+Armando Polanah _(Armando)_<br>
 
-Edward Roland _(Okello)_
+Edward Roland _(Okello)_<br>
 
-Daniel Farfan
+Daniel Farfan<br>
 
-Alejandro Chavez
+Alejandro Chavez<br>
 
-Antonio Marquez
+Antonio Marquez<br>
 
-Julio Martínez
+Julio Martínez<br>
 
-Alejandro Repullés
+Alejandro Repullés<br>
 
-Indians of the Lauramarca Co-operative
+Indians of the Lauramarca Co-operative<br>
 
-Justo Gonzalez _(soldier)_ *
+Justo Gonzalez _(soldier)_ *<br>
 
-West Germany 1972
+West Germany 1972<br>
 
 94 mins
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjI2Njk2Nl19
+eyJoaXN0b3J5IjpbMjIwNzE5NTFdfQ==
 -->
