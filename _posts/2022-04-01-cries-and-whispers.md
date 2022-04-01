@@ -19,111 +19,91 @@ Nevertheless, the other differences are there. For a start, _Cries and Whispers_
 <br><br>
 
 **CRIES AND WHISPERS (VISKNINGAR OCH ROP)**<br>
-
 _Director:_ Ingmar Bergman<br>
-
-_Production Companies:_ Cinematograph,
-
-Svenska Filminstitutet<br>
-
+_Production Companies:_ Cinematograph, Svenska Filminstitutet<br>
 _Producer:_ Ingmar Bergman<br>
-
 _Production Manager:_ Lars-Owe Carlberg<br>
-
 _Runners:_ Anders Bergkvist, Ragnar Waaranperä<br>
-
 _Collaborators:_ Arne Carlsson, Hans Rehnberg<br>
-
 _Script Supervisor:_ Katherina Faragó<br>
-
 _Screenplay:_ Ingmar Bergman<br>
-
 _Director of Photography:_ Sven Nykvist<br>
+_Assistant Camera:_ Lars Karlsson<br>
+_Electricians:_ Gerhard Carlsson, Stefan Gustafsson<br>
+_Stills Photography:_ Bo-Erik Gyberg<br>
+_Editor:_ Siv Lundgren<br>
+_Art Director:_ Marik Vos<br>
+_Assistant Art Director:_ Ann-Christin Lobråten<br>
+_Properties:_ Gunilla Hagberg<br>
+_Costumes:_ Greta Johansson, Karin Johansson<br>
+_Make-up:_ Cecilia Drott, Britt Falkemo, Börje Lundh<br>
+_Musician, Chopin’s ‘Mazurka’:_ Käbi Laretei<br>
+_Musician, Bach’s ‘Saraband’:_ Pierre Fournier<br>
 
-_Assistant Camera:_ Lars Karlsson
+_Sound:_ Owe Svensson<br>
 
-_Electricians:_ Gerhard Carlsson, Stefan Gustafsson
+_Sound Assistant:_ Tommy Persson<br>
 
-_Stills Photography:_ Bo-Erik Gyberg
+_Mixings:_ Sven Fahlén, Owe Svensson<br>
 
-_Editor:_ Siv Lundgren
+_English Subtitles:_ Alan Blair *<br>
 
-_Art Director:_ Marik Vos
+_Narrator:_ Ingmar Bergman<br>
 
-_Assistant Art Director:_ Ann-Christin Lobråten
+_Cast:_<br>
 
-_Properties:_ Gunilla Hagberg
+Harriet Andersson _(Agnes)_<br>
 
-_Costumes:_ Greta Johansson, Karin Johansson
+Kari Sylwan _(Anna)_<br>
 
-_Make-up:_ Cecilia Drott, Britt Falkemo, Börje Lundh
+Ingrid Thulin _(Karin)_<br>
 
-_Musician, Chopin’s ‘Mazurka’:_ Käbi Laretei
+Liv Ullmann _(Maria/Maria’s mother)_<br>
 
-_Musician, Bach’s ‘Saraband’:_ Pierre Fournier
+Anders Ek _(Isak, the priest)_<br>
 
-_Sound:_ Owe Svensson
+Inga Gill _(Aunt Olga)_<br>
 
-_Sound Assistant:_ Tommy Persson
+Erland Josephson _(doctor)_<br>
 
-_Mixings:_ Sven Fahlén, Owe Svensson
+Henning Moritzen _(Joakim)_<br>
 
-_English Subtitles:_ Alan Blair *
+Georg Årlin _(Fredrik)_<br>
 
-_Narrator:_ Ingmar Bergman
+Linn Ullmann _(Maria’s daughter)_ *<br>
 
-_Cast:_
+Rosanna Mariano _(Agnes as a child)_ *<br>
 
-Harriet Andersson _(Agnes)_
+Malin Gjörup _(Anna’s daughter)_ *<br>
 
-Kari Sylwan _(Anna)_
+Lena Bergman _(Maria as a child)_ *<br>
 
-Ingrid Thulin _(Karin)_
+Monika Priede _(Karin as a child)_ *<br>
 
-Liv Ullmann _(Maria/Maria’s mother)_
+Greta Johansson *<br>
 
-Anders Ek _(Isak, the priest)_
+Karin Johansson *<br>
 
-Inga Gill _(Aunt Olga)_
+Ingrid Von Rosen *<br>
 
-Erland Josephson _(doctor)_
+Ann-Christin Lobråten *<br>
 
-Henning Moritzen _(Joakim)_
+Börje Lundh *<br>
 
-Georg Årlin _(Fredrik)_
+Lars-Owe Carlberg *<br>
 
-Linn Ullmann _(Maria’s daughter)_ *
-
-Rosanna Mariano _(Agnes as a child)_ *
-
-Malin Gjörup _(Anna’s daughter)_ *
-
-Lena Bergman _(Maria as a child)_ *
-
-Monika Priede _(Karin as a child)_ *
-
-Greta Johansson *
-
-Karin Johansson *
-
-Ingrid Von Rosen *
-
-Ann-Christin Lobråten *
-
-Börje Lundh *
-
-Lars-Owe Carlberg *
-
-Sweden 1972
+Sweden 1972<br>
 
 91 mins
 
-* Uncredited
+*Uncredited
 
 A BFI release
 
-The screening on Sun 3 Apr 15:10 will be introduced by Christina Newland,  
-Lead Film Critic, _The i_ newspaper
+The screening on Sun 3 Apr 15:10 will be introduced by Christina Newland, Lead Film Critic, _The i_ newspaper<br>
+<br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3MDM0ODkxXX0=
+eyJoaXN0b3J5IjpbMjExMDk0NTk3XX0=
 -->
