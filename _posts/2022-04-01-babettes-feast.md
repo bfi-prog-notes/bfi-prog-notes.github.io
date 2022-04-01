@@ -33,17 +33,13 @@ I admire Dreyer for his sense of composition and his rigour. But my real master 
 **Interview by Jill Forbes, _Sight and Sound_, Spring 1988**
 <br><br>
 
-**BABETTE’S FEAST (BABETTES GAESTEBUD)**
-
+**BABETTE’S FEAST (BABETTES GAESTEBUD)**  
 _Director_: Gabriel Axel  
-_Production Companies_:  
-Panorama Film International, Nordisk Film,  
-Det Danske Filminstitut  
+_Production Companies_:  Panorama Film International, Nordisk Film,  Det Danske Filminstitut  
 _Executive Producer_: Claes Kastholm Hansen  
 _Producers_: Just Betzer, Bo Christensen  
 _Unit Manager_: Karen Bentzon  
-_Production Manager_: Lene Nielsen
-
+_Production Manager_: Lene Nielsen  
 _Assistant Director_: Tom Hedegaard  
 _Screenplay_: Gabriel Axel  
 _Based on the novella by_: Karen Blixen  
@@ -101,5 +97,5 @@ Denmark 1987©
 
 103 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1MjA0MjYyXX0=
+eyJoaXN0b3J5IjpbNTU5MDA3NDYyLDU2NTIwNDI2Ml19
 -->
