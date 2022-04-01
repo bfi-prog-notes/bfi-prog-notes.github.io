@@ -45,40 +45,24 @@ UK 1962<br>
 
 \* Uncredited
 
-**NIGHTMARES & DAYDREAMS 
-A CENTENARY CELEBRATION OF SCREENWRITER NIGEL KNEALE**
-
-**The Abominable Snowman**
-
-Mon 28 Mar 20:50; Sat 23 Apr 14:50
-
-**Wuthering Heights**
-
-Sat 2 Apr 15:10
-
-**Missing Believed Wiped: Out of the Unknown: The Chopper**
-
-Sun 3 Apr 18:00
-
-**Nineteen Eighty-Four + Panel Discussion: Nineteen Eighty-Four and the legacy of Nigel Kneale**
-
-Mon 4 Apr 18:30
-
-**Seniors Free Matinee: Quatermass and the Pit + discussion**
-
-Mon 11 Apr 14:00
-
-**The Year of the Sex Olympics**
-
-Tue 12 Apr 18:10
-
-**First Men in the Moon**
-
-Fri 15 Apr 14:30; Wed 27 Apr 20:50
-
-**The Woman in Black**
-
-Sun 24 Apr 14:40
+**NIGHTMARES & DAYDREAMS
+A CENTENARY CELEBRATION OF SCREENWRITER NIGEL KNEALE**<br>
+**The Abominable Snowman**<br>
+Mon 28 Mar 20:50; Sat 23 Apr 14:50<br>
+**Wuthering Heights**<br>
+Sat 2 Apr 15:10<br>
+**Missing Believed Wiped: Out of the Unknown: The Chopper**<br>
+Sun 3 Apr 18:00<br>
+**Nineteen Eighty-Four + Panel Discussion: Nineteen Eighty-Four and the legacy of Nigel Kneale**<br>
+Mon 4 Apr 18:30<br>
+**Seniors Free Matinee: Quatermass and the Pit + discussion**<br>
+Mon 11 Apr 14:00<br>
+**The Year of the Sex Olympics**<br>
+Tue 12 Apr 18:10<br>
+**First Men in the Moon**<br>
+Fri 15 Apr 14:30; Wed 27 Apr 20:50<br>
+**The Woman in Black**<br>
+Sun 24 Apr 14:40<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQ4MTQ5MThdfQ==
+eyJoaXN0b3J5IjpbLTEzNDA2MjMzNDZdfQ==
 -->
