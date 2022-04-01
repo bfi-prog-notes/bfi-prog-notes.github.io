@@ -42,27 +42,22 @@ Pat Mullen, _Point of View Magazine_
 ‘Beautifully dispatched through its entanglement of formal hybridity, Payal Kapadia’s _A Night of Knowing Nothing_ burrows her contemplative sensibility into the archiving of a contemporary reality.’  
 Zachary Goldkind, _In Review Online_
 
-‘An essential film that marries formal inventiveness with the events surrounding the political and social upheaval under Modi’s increasingly nationalistic and authoritarian India through the eyes and experiences of young Indians in  
-public universities.’  
+‘An essential film that marries formal inventiveness with the events surrounding the political and social upheaval under Modi’s increasingly nationalistic and authoritarian India through the eyes and experiences of young Indians in  public universities.’  
 Aditya Shrikrishna, _News Nine_
 
 ‘Kapadia is bold in striking a balance between intimate fabulation and the documentation of these expansive events, always retaining a hold on the former even as her film tilts increasingly towards the latter.’  
 Erika Balsom, _Cinema Scope_
 
-Production notes
+**Production notes**
+<br><br>
 
-<![endif]-->
-
-**A NIGHT OF KNOWING NOTHING**
-
+**A NIGHT OF KNOWING NOTHING**  
 _Directed by_: Payal Kapadia  
 ©: Petit Chaos, Another Birth  
 _A film produced by_: Petit Chaos  
 _In co-production with_: Another Birth  
-_With support from_:  
-Nouvelle-Aquitaine Film Workout  
-_With support from/a grant for this film was generously provided by the_:  
-Sundance Institute Documentary Program  
+_With support from_:  Nouvelle-Aquitaine Film Workout  
+_With support from/a grant for this film was generously provided by the_: Sundance Institute Documentary Program  
 _With support from_: Centre national du cinema et de l’image animée, IDFA Bertha Fund, Ciclic-Région Centre-Val de Loire  
 _With the support of_: Région Nouvelle-Aquitaine  
 _Presented by_: Petit Chaos  
@@ -78,14 +73,13 @@ _Editing Consultant_: Clément Pinteaux
 _[Sound] Mixing_: Romain Ozanne  
 _Sound Editing_: Moinak Bose
 
-France/India/USA/Netherlands 2021©
-
+France/India/USA/Netherlands 2021©  
 97 mins
 
 An ICA Cinema release
 
-The screening on Sun 3 Apr 17:50 features a  
-Q&A with director Payal Kapadia
+The screening on Sun 3 Apr 17:50 features a  Q&A with director Payal Kapadia
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTUzNzQ4NzRdfQ==
+eyJoaXN0b3J5IjpbLTExMDY1MjMxMTVdfQ==
 -->
