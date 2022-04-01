@@ -32,63 +32,38 @@ _Production Companies:_  Werner Herzog Filmproduktion,  Hessischer Rundfunk<br>
 _Producer:_ Werner Herzog<br>
 _Associate Producer:_ Daniel Carino<br>
 _Production Managers:_ Walter Saxer, Wolf Stipetic<br>
-_Collaborators:_ Gustavo Cerff Arbulú,  
-Martje Grohmann, Georg Hagmüller, Ina Fritsche, René Lechleitner, Ovidio Ore<br>
-
+_Collaborators:_ Gustavo Cerff Arbulú,  Martje Grohmann, Georg Hagmüller, Ina Fritsche, René Lechleitner, Ovidio Ore<br>
 _Screenplay:_ Werner Herzog<br>
-
 _Directors of Photography:_ Thomas Mauch, Francisco Joán, Orlando Macchiavello<br>
-
 _Special Effects:_ Juvenal Herrera, Miguel Vazquez<br>
-
 _Editor:_ Beate Mainka-Jellinghaus<br>
-
 _Music:_ Popol Vuh<br>
-
 _Sound:_ Herbert Prasch<br>
-
 _Post-synchronisation:_ Bob Oliver<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Klaus Kinski _(Don Lope de Aguirre)_<br>
-
 Cecilia Rivera _(Flores de Aguirre)_<br>
-
 Ruy Guerra _(Don Pedro de Ursua)_<br>
-
 Helena Rojo _(Inez de Atienza)_<br>
-
 Del Negro _(Brother Gaspar de Carvajal)_<br>
-
 Peter Berling _(Don Fernando de Guzman)_<br>
-
 Daniel Ades _(Perucho)_<br>
-
 Armando Polanah _(Armando)_<br>
-
 Edward Roland _(Okello)_<br>
-
 Daniel Farfan<br>
-
 Alejandro Chavez<br>
-
 Antonio Marquez<br>
-
 Julio Martínez<br>
-
 Alejandro Repullés<br>
-
 Indians of the Lauramarca Co-operative<br>
-
 Justo Gonzalez _(soldier)_ *<br>
 
 West Germany 1972<br>
-
 94 mins
 
 *Uncredited
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNzE5NTFdfQ==
+eyJoaXN0b3J5IjpbMTI2NTAzMTE5NV19
 -->
