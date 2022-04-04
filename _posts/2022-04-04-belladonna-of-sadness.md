@@ -16,13 +16,11 @@ The capstone of the ‘Animerama’ series, a trilogy of erotic fables made in t
 
 Unlike the previous Animerama entries _One Thousand and One Arabian Nights_ (1969) and _Cleopatra: Queen of Sex_ (1970), which draw from fairly well-known historical properties, _Belladonna_ traces its source to _Satanism and Witchcraft_, an 1862 occult study by the historian writer Jules Michelet. It sets its scene Once Upon a Time in a France still under the yoke of the aristocracy, when chaste peasant girls must submit to the _droit de seigneur_ of the local lord on the eve of their weddings. Not long after one such incident, our heroine Jeanne (voiced by Nagayama Aiko and drawn like Catherine Deneuve) begins to commune with the devil, who lends her occult powers with which she leads a revolt against the in-cahoots church and gentry, before finally being brought to heel by sentiment and burnt at the stake. _Belladonna of Sadness_ displays a dazzling plethora of styles, telling its story with images animate, still or some combination of the two – tendrils of blood, smoke and tears in an otherwise static frame, or tracking along unfurling tapestries that do the work of time-passing montages. Bravura passages that feature roiling, lovemaking silhouettes against a field of gold leaf, a Yellow Submarine-esque wig-out and kaleidoscopic stop-motion psychedelia stray very far from the usual tropes of anime, and the visual references here are principally western – the folklore illustrations of Ivan Bilibin, the Viennese Secession, Benjamin Christensen’s _Häxan_ (1922).
 
-I was conscious of being impressed by the film’s myriad techniques, occasionally titillated by the dirty pictures, but never exactly moved by the relentless virtuosity – though I suspect it benefits to be stoned as a bat before popping in the Blu-ray, for _Belladonna_ has all of the gonzo extravagancies that make for a cult rediscovery.<br
-**Nick Pinkerton, _Sight & Sound_, September 2016**
+I was conscious of being impressed by the film’s myriad techniques, occasionally titillated by the dirty pictures, but never exactly moved by the relentless virtuosity – though I suspect it benefits to be stoned as a bat before popping in the Blu-ray, for _Belladonna_ has all of the gonzo extravagancies that make for a cult rediscovery.<br>
+**Nick Pinkerton, _Sight & Sound_, September 2016**<br>
 
 **BELLADONNA OF SADNESS**
-
-**(KANASHIMI NO BERADONNA)**
-
+**(KANASHIMI NO BERADONNA)**<br>
 _Director_: Eiichi Yamamoto  
 _Production Companies_: Mushi Production, Nippon Herald Films  
 _Producer_: Osamu Tezuka  
@@ -31,9 +29,8 @@ _Based on the book_ La Sorcière _by_: Jules Michelet
 _Cinematographer_: Shigeru Yamazaki  
 _Animator_: Gisaburo Sugii  
 _Original Artwork by_: Kuni Fukai  
-_Music_: Masahiko Satô
-
-**Voice cast**
+_Music_: Masahiko Satô<br>
+**Voice cast**<br>
 Aiko Nagayama _(Jeanne/Belladonna)_  
 Tatsuya Nakadai _(Devil)_  
 Katsuyuki Ito _(Jean)_  
@@ -41,10 +38,10 @@ Masaya Takahashi _(lord)_
 Shigako Shimegi _(lord's mistress)_  
 Masakane Yonekura _(priest)_  
 Natsuka Yashiro _(witch)_  
-Takao Inoue
+Takao Inoue<br>
 
-Japan 1973
-87 mins
+Japan 1973<br>
+87 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTUxMzU5MjJdfQ==
+eyJoaXN0b3J5IjpbLTExODI5NjQ5MzJdfQ==
 -->
