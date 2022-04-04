@@ -34,91 +34,36 @@ _Designer:_ Barry Learoyd<br>
 _Incidental Music Composed/Conducted by:_ John Hotchkis<br>
 _Narrator:_ Richard Williams<br>
 
-**Cast**
-Peter Cushing _(Winston Smith)_
-Yvonne Mitchell _(Julia)_
-André Morell _(O’Brien)_
-Arnold Diamond _(Emmanuel Goldstein)_
-Donald Pleasence _(Syme)_
-Campbell Gray _(Parsons)_
-Hilda Fenemore _(Mrs Parsons)_
-Pamela Grant _(Parson’s girl)_
+**Cast**<br>
+Peter Cushing _(Winston Smith)_<br>
+Yvonne Mitchell _(Julia)_<br>
+André Morell _(O’Brien)_<br>
+Arnold Diamond _(Emmanuel Goldstein)_<br>
+Donald Pleasence _(Syme)_<br>
+Campbell Gray _(Parsons)_<br>
+Hilda Fenemore _(Mrs Parsons)_<br>
+Pamela Grant _(Parson’s girl)_<br>
+Keith Davis _(Parson’s boy)_<br>
+Janet Barrow _(woman supervisor)_<br>
+Norman Osborne _(first youth)_<br>
+Tony Lyons _(second youth)_<br>
+Malcolm Knight _(third youth)_<br>
+John Baker _(first man)_<br>
+Victor Platt _(second man)_<br>
+Van Boolen _(barman)_<br>
+Wilfrid Brambell _(old man/thin prisoner)_<br>
+Leonard Sachs _(Mr Charrington)_<br>
+Sydney Bromley _(waiter)_<br>
+Janet Joye _(canteen woman)_<br>
+Harry Lane _(guard)_<br>
+Roy Oxley _(face of ‘Big Brother’)_ *<br>
 
-Keith Davis _(Parson’s boy)_
+United Kingdom / BBC tx 12.12.54<br>
+106 mins<br>
 
-Janet Barrow _(woman supervisor)_
+\* Uncredited<br>
 
-Norman Osborne _(first youth)_
-
-**  
-<![if !supportLineBreakNewLine]>  
-<![endif]>**
-
-Tony Lyons _(second youth)_
-
-Malcolm Knight _(third youth)_
-
-John Baker _(first man)_
-
-Victor Platt _(second man)_
-
-Van Boolen _(barman)_
-
-Wilfrid Brambell _(old man/thin prisoner)_
-
-Leonard Sachs _(Mr Charrington)_
-
-Sydney Bromley _(waiter)_
-
-Janet Joye _(canteen woman)_
-
-Harry Lane _(guard)_
-
-Roy Oxley _(face of ‘Big Brother’)_ *
-
-United Kingdom / BBC tx 12.12.54
-
-106 mins
-
-* Uncredited
-
-Pre-order _Nineteen Eighty-Four_ (Dual Format Edition). Nigel Kneale’s influential adaption of George Orwell’s will be released on 11 April. **www.shop.bfi.org.uk**
-
-**NIGHTMARES & DAYDREAMS**
-
-**A CENTENARY CELEBRATION OF SCREENWRITER NIGEL KNEALE**
-
-**The Abominable Snowman**
-
-Mon 28 Mar 20:50; Sat 23 Apr 14:50
-
-**Wuthering Heights**
-
-Sat 2 Apr 15:10
-
-**Missing Believed Wiped: Out of the Unknown: The Chopper**
-
-Sun 3 Apr 18:00
-
-**Nineteen Eighty-Four + Panel Discussion: Nineteen Eighty-Four and the legacy of Nigel Kneale**
-
-Mon 4 Apr 18:30
-
-**Seniors Free Matinee: Quatermass and the Pit + discussion**
-
-Mon 11 Apr 14:00
-
-**The Year of the Sex Olympics**
-
-Tue 12 Apr 18:10
-
-**First Men in the Moon**
-
-Fri 15 Apr 14:30; Wed 27 Apr 20:50
-
-**The Woman in Black**
-
-Sun 24 Apr 14:40
+Pre-order _Nineteen Eighty-Four_ (Dual Format Edition). Nigel Kneale’s influential adaption of George Orwell’s will be released on 11 April. **www.shop.bfi.org.uk**<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTEzMjY0MiwtMTIxNzg5NTA0Ml19
+eyJoaXN0b3J5IjpbLTU2NjY0NDg4NywtMTIxNzg5NTA0Ml19
 -->
