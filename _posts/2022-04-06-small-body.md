@@ -24,20 +24,15 @@ While researching locations I met the people who have become characters in the f
 
 For various reasons and often unrelated to the story itself, all the people involved found something of themselves in the story and its themes. This is why we often ended up talking more about life than cinema, and learning from each other: at times I was the one directing them and at other times, they were the ones guiding me. Transversality is the best form of creating.
 
-In the film, God is not to be found in miracles or prayer, or in dogma that divides the afterlife into paradise, hell and limbo. God exists on a different level: in Lynx, who believes in nothing and is thus untouched by the initial premise of miracles; in Agata, who harnesses anger in order to redraw the confines of what is possible; and in the relationship between these two solitary views that, for a moment, are less painful. There is a thin line that divides life from death, reality from magic, the possibilities we have hoped for and the time left to us.  
-I hope that this film creates a greater shared space without the presumption of finding absolute answers in order to live in doubt together.
-
-Production notes
+In the film, God is not to be found in miracles or prayer, or in dogma that divides the afterlife into paradise, hell and limbo. God exists on a different level: in Lynx, who believes in nothing and is thus untouched by the initial premise of miracles; in Agata, who harnesses anger in order to redraw the confines of what is possible; and in the relationship between these two solitary views that, for a moment, are less painful. There is a thin line that divides life from death, reality from magic, the possibilities we have hoped for and the time left to us.  I hope that this film creates a greater shared space without the presumption of finding absolute answers in order to live in doubt together.  
+**Production notes**
 
 **Laura Samani** was born in 1989 in Trieste. After graduating in Philosophy & Literature at the University of Pisa, she studied at Centro Sperimentale di Cinematografia (Rome), directing class. Her graduation short movie,  
 _The_ _Sleeping Saint_, premiered at Cannes Cinéfondation in 2016. Since then, it has gained international acclaim and awards in several international festivals.  
-In 2018 she worked for the Maremetraggio Association, conducting the participatory video workshop Città Visibile, financed by Siae Bando SIllumina – Periferie Urbane in Valmaura, Trieste. It is the first laboratory of this type ever conducted in Trieste, involving teenagers living in social marginality with the aim of making a self-narrative documentary. _Small Body_, a raw fairytale, is her  
-first feature.
+In 2018 she worked for the Maremetraggio Association, conducting the participatory video workshop Città Visibile, financed by Siae Bando SIllumina – Periferie Urbane in Valmaura, Trieste. It is the first laboratory of this type ever conducted in Trieste, involving teenagers living in social marginality with the aim of making a self-narrative documentary. _Small Body_, a raw fairytale, is her  first feature.
+<br><br>
 
-<![endif]-->
-
-**SMALL BODY (PICCOLO CORPO)**
-
+**SMALL BODY (PICCOLO CORPO)**  
 _Director_: Laura Samani  
 ©: Nefertiti Film, Tomsa Films, Vertigo  
 _Production Companies_: Nefertiti Film, Rai Cinema, Tomsa Films, Vertigo  
@@ -48,16 +43,12 @@ _International Sales_: Alpha Violet
 _Executive Producer_: Nadia Trevisan  
 _Produced by_: Nadia Trevisan, Alberto Fasulo  
 _Unit Production Manager_: Paolo Bogna  
-_Production Managers_: Davide Lamberti,  
-Paola Pegoraro  
-_Production Manager (Slovenia Unit)_:  
-Matija Kozamernik  
-_Production Manager (Underwater Unit)_:  
-Ermanno Guida  
+_Production Managers_: Davide Lamberti,  Paola Pegoraro  
+_Production Manager (Slovenia Unit)_:  Matija Kozamernik  
+_Production Manager (Underwater Unit)_:  Ermanno Guida  
 _Production Co-ordinator_: Claudia Soranzo  
 _Post-production Supervisor_: Chiara Santo  
-_Screenplay_: Marco Borromei, Elisa Dondi,  
-Laura Samani  
+_Screenplay_: Marco Borromei, Elisa Dondi,  Laura Samani  
 _From an idea by_: Laura Samani  
 _Director of Photography_: Mitja Licen  
 _Underwater Photographer_: Aldo Chessari  
@@ -69,8 +60,7 @@ _Production Sound Mixer_: Luca Bertolin
 _Re-recording Mixer_: Nathalie Vidal  
 _Sound Editor_: Riccardo Spagnol
 
-_Cast:_
-
+**Cast**  
 Celeste Cescutti _(Agata)_  
 Ondina Quadri _(Lince, ‘Lynx’)_  
 Marco Geromin _(Ignac, the wise man)_  
@@ -79,11 +69,11 @@ Anna Pia Bernardis _(sanctuary hermit)_
 Angelo Mattiussi _(wagon worker)_  
 Luca Sera _(island priest)_
 
-Italy/France/Slovenia 2021©
-
+Italy/France/Slovenia 2021©  
 89 mins
 
 Courtesy of Other Parties
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQxMzUyNzldfQ==
+eyJoaXN0b3J5IjpbMTE3Njg2OTgxMF19
 -->
