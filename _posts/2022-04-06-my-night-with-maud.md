@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: My Night with Maud
+published: true
+date: 2022-04-06
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'France 1969, 110 mins<br> Director: Eric Rohmer'
+pdf: '2022-04-06-my-night-with-maud.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -6,8 +16,7 @@ Eric Rohmer had made two features and a sizeable number of shorts and documentar
 
 _My Night with Maud_ follows several young, conversational characters in the provincial French town of Clermont-Ferrand. Jean-Louis (Jean-Louis Trintignant) is a strict Catholic who has taken an engineering job in the town after several years abroad. When at church during mass near Christmas, he chances upon Françoise (Marie-Christine Barrault) who he somehow knows he’ll marry. After a chance meeting with an old school friend, Vidal (Antoine Vitez), he ends up back at the apartment of Maud (Françoise Fabian), the divorcee Vidal is seeing. They discuss the contradictions in their moral, theological and political views. With Vidal leaving Jean-Louis to stay the night at Maud’s after a heavy snowstorm, tensions rise with the potential of a night’s romance. However, the interconnected lives of all of the characters will come back to haunt them many years later.
 
-‘I like people who know what they want,’ suggests Maud after a brief and confused fragment of passionate embrace. Jean-Louis stopped before going further. His clinically rigid doctrine of belief held him back. Rohmer’s film, and its characters generally, are all grappling with a variety of contradictions dictating their actions and desires: reason and instinct, fate and free will, belief and atheism. While Jean-Louis has forced himself into a cage, going full throttle only when his instinct is totally sure (as in the case of deciding, at first sight, that he will marry Françoise), it also means his sense of free will is a masquerade at best. His life, as he sees it, is seemingly as neat as the mathematical formulae on which he works in various cafés. Love, to him, is  
-an equation.
+‘I like people who know what they want,’ suggests Maud after a brief and confused fragment of passionate embrace. Jean-Louis stopped before going further. His clinically rigid doctrine of belief held him back. Rohmer’s film, and its characters generally, are all grappling with a variety of contradictions dictating their actions and desires: reason and instinct, fate and free will, belief and atheism. While Jean-Louis has forced himself into a cage, going full throttle only when his instinct is totally sure (as in the case of deciding, at first sight, that he will marry Françoise), it also means his sense of free will is a masquerade at best. His life, as he sees it, is seemingly as neat as the mathematical formulae on which he works in various cafés. Love, to him, is  an equation.
 
 The film is really about realising the divergent paths that lives and relationships can travel down. But Rohmer’s cinema is also about the needs, fears and desires that influence the decision of which path to take, even when it results in a dead end. That questioning found its form in _My Night with Maud_. The details of relationships, and the sense of inevitability that comes with Rohmer’s ubiquitous pairings, can be seen everywhere in his cinema, from the brutal machinations of _Claire’s Knee_ (1970) to the strange colour-coded jumper-matching conclusion of _My Girlfriend’s Boyfriend_ (1987). This unstoppable momentum of relationships, even when undermined as it is in _My Night with Maud_, is a driving force in Rohmer’s films.
 
@@ -57,6 +66,60 @@ France 1969<br>
 
 The screening on Wed 6 Apr will be introduced  by Geoff Andrew, Programmer-at-Large<br>
 <br>
+
+**BIG SCREEN CLASSICS**<br>
+**Léon Morin, prêtre (Léon Morin, Priest)**<br>
+Mon 28 Mar 17:50; Thu 7 Apr 20:40;  Sun 24 Apr 12:00<br>
+**Lourdes**<br>
+Tue 29 Mar 20:50; Thu 7 Apr 18:10;  Wed 20 Apr 20:50<br>
+**Ordet (The Word)**<br>
+Wed 30 Mar 17:45 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 10 Apr 15:30;  Fri 15 Apr 18:10; Sat 23 Apr 11:50<br>
+**Black Narcissus**<br>
+Thu 31 Mar 21:00; Tue 12 Apr 20:45;  Tue 19 Apr 18:10; Sat 30 Apr 15:00<br>
+**Babette’s Feast (Babettes Gaestebud)**<br>
+Fri 1 Apr 18:10; Sun 10 Apr 12:10;  Sat 16 Apr 12:20; Tue 26 Apr 20:50<br>
+**Aguirre, Wrath of God (Aguirre, der Zorn Gottes)**<br>
+Sat 2 Apr 20:40; Fri 8 Apr 18:15; Tue 19 Apr 20:50; Mon 25 Apr 18:10<br>
+**The Seventh Seal (Det Sjunde Inseglet)**<br>
+Sun 3 Apr 15:20; Mon 18 Apr 15:20;  Fri 22 Apr 20:50<br>
+**The Miracle Woman**<br>
+Mon 4 Apr 18:20; Fri 15 Apr 20:50;  Thu 28 Apr 18:10; Fri 29 Apr 18:10<br>
+**Stalker**<br>
+Tue 5 Apr 20:00; Sat 9 Apr 17:30;  Thu 21 Apr 20:00; Sat 23 Apr 20:00<br>
+**My Night with Maud (Ma Nuit chez Maud)**<br>
+Wed 6 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Thu 14 Apr 20:30;  Fri 22 Apr 17:50; Mon 25 Apr 20:45<br>
+**Une Femme douce (A Gentle Creature)**<br>
+Wed 6 Apr 21:00; Wed 13 Apr 18:20 (+ intro by independent filmmaker and critic Alex Barrett);  Mon 18 Apr 13:10<br>
+**The New World**<br>
+Sun 10 Apr 17:30; Sat 30 Apr 19:50<br>
+**The Gospel According to Matthew  (Il vangelo secondo Matteo)**<br>
+Mon 11 Apr 18:00; Sun 17 Apr 14:40<br>
+**The Last Temptation of Christ**<br>
+Fri 15 Apr 14:15; Sun 24 Apr 17:40<br>
+**Sebastiane**<br>
+Sat 16 Apr 14:50; Tue 19 Apr 20:30; Wed 27 Apr 17:45 (+ intro by BFI curator Simon McCallum)<br>
+**I Confess**<br>
+Sun 17 Apr 12:00; Wed 20 Apr 18:00 (+ intro tbc)<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+<br>
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0MTIxMTkzNTRdfQ==
 -->
