@@ -60,7 +60,8 @@ Jacques Kebadian
 France 1969  
 88 mins
 
-The screening on Wed 13 Apr will be introduced  by independent filmmaker and critic Alex Barrett
+The screening on Wed 13 Apr will be introduced  by independent filmmaker and critic Alex Barrett<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzgwMzEyNzldfQ==
+eyJoaXN0b3J5IjpbMTMxOTE0ODc2M119
 -->
