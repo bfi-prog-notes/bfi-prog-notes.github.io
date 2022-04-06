@@ -41,24 +41,16 @@ _Décors:_ Nicole Rachline<br>
 _Sound:_ Jacques Maumont, Jean-Pierre Ruh<br>
 _Sound [Assistant]:_ Alain Sempé<br>
 
-_Cast<br>
-
+**Cast**<br>
 Jean-Louis Trintignant _(Jean-Louis)_<br>
-
 Françoise Fabian _(Maud)_<br>
-
 Marie-Christine Barrault _(Françoise)_<br>
-
 Antoine Vitez _(Vidal)_<br>
-
 Léonide Kogan _(violinist)_<br>
-
 Guy Léger _(preacher)_<br>
-
 Anne Dubot _(blonde)_<br>
 
 France 1969<br>
-
 110 mins
 
 *Uncredited
@@ -66,5 +58,5 @@ France 1969<br>
 The screening on Wed 6 Apr will be introduced  by Geoff Andrew, Programmer-at-Large<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM2NjMxMjldfQ==
+eyJoaXN0b3J5IjpbLTE0MTIxMTkzNTRdfQ==
 -->
