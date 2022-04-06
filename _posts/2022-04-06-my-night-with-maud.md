@@ -21,73 +21,50 @@ Perhaps this is why Jean-Louis resists, flees and avoids the impulses which, by 
 
 Instead, it’s Françoise who seemingly fulfils his strict codes, based on an almost mathematical assessment of how future relationships will work. Of course, his own fate was blind to him, pure mathematics duping him into believing in a fixed answer to a question in which the raw numbers – the people – are in constant flux. Though Rohmer leaves the film before the conclusion of such a fate can be shown, it is clear that a similar future to Maud’s awaits him: a flawed relationship almost definitely due to end. This is marked by a final, happy run into the warm sea at the film’s conclusion – a tainted happiness.
 
-It’s only five years later, thanks to another chance meeting, that all of this becomes apparent, and Rohmer concludes his film with a brilliant undermining of his main character’s beliefs. Jean-Louis and Françoise, married and with child, make their way down to a summer beach. They bump into Maud on the way, her conversation with Jean-Louis revealing the complex intermingling of Françoise with Maud’s unseen husband in the naive days when snow lay over Clermont-Ferrand. Jean-Louis’ careful and meticulous reasoning, built on a moment of false instinct, comes crumbling down. The questions slowly appear, as if the summer sun had melted the winter’s ice and revealed the truth behind all of their relationships. The weather in the scene may be warmer but the frosty undercurrents remain.
+It’s only five years later, thanks to another chance meeting, that all of this becomes apparent, and Rohmer concludes his film with a brilliant undermining of his main character’s beliefs. Jean-Louis and Françoise, married and with child, make their way down to a summer beach. They bump into Maud on the way, her conversation with Jean-Louis revealing the complex intermingling of Françoise with Maud’s unseen husband in the naive days when snow lay over Clermont-Ferrand. Jean-Louis’ careful and meticulous reasoning, built on a moment of false instinct, comes crumbling down. The questions slowly appear, as if the summer sun had melted the winter’s ice and revealed the truth behind all of their relationships. The weather in the scene may be warmer but the frosty undercurrents remain.  
+**Adam Scovell, bfi.org.uk, 11 June 2019**
+<br><br>
 
-Adam Scovell, bfi.org.uk, 11 June 2019
+**MY NIGHT WITH MAUD (MA NUIT CHEZ MAUD)**<br>
+_Director:_ Eric Rohmer<br>
+_Production Companies:_  Les Films du Losange (Paris),  Firmament Films Productions,  Les Films du Carrosse,  Les Films des Deux Mondes,  Les Films de la Pléiade, Productions de la Guéville, Renn Productions, Simar Films<br>
+_Presented by:_ Barbet Schroeder, Pierre Cottrell<br>
+_Production:_ Alfred de Graaff<br>
+_Production [Assistant]:_ Pierre Grimberg<br>
+_Assistant Director:_ Pierre Cottrell *<br>
+_Screenplay:_ Eric Rohmer<br>
+_Director of Photography:_ Nestor Almendros<br>
+_Photography [Assistants]:_ Emmanuel Machuel, Jean-Claude Gasché, Philippe Rousselot<br>
+_Editor:_ Cécile Decugis<br>
+_[Assistant] Editor:_ Christine Lecouvette<br>
+_Décors:_ Nicole Rachline<br>
+_Sound:_ Jacques Maumont, Jean-Pierre Ruh<br>
+_Sound [Assistant]:_ Alain Sempé<br>
 
-<![endif]-->
+_Cast<br>
 
-**MY NIGHT WITH MAUD (MA NUIT CHEZ MAUD)**
+Jean-Louis Trintignant _(Jean-Louis)_<br>
 
-_Director:_ Eric Rohmer
+Françoise Fabian _(Maud)_<br>
 
-_Production Companies:_  
-Les Films du Losange (Paris),  
-Firmament Films Productions,  
-Les Films du Carrosse,  
-Les Films des Deux Mondes,  
-Les Films de la Pléiade,
+Marie-Christine Barrault _(Françoise)_<br>
 
-Productions de la Guéville, Renn Productions, Simar Films
+Antoine Vitez _(Vidal)_<br>
 
-_Presented by:_ Barbet Schroeder, Pierre Cottrell
+Léonide Kogan _(violinist)_<br>
 
-_Production:_ Alfred de Graaff
+Guy Léger _(preacher)_<br>
 
-_Production [Assistant]:_ Pierre Grimberg
+Anne Dubot _(blonde)_<br>
 
-_Assistant Director:_ Pierre Cottrell *
-
-_Screenplay:_ Eric Rohmer
-
-_Director of Photography:_ Nestor Almendros
-
-_Photography [Assistants]:_ Emmanuel Machuel, Jean-Claude Gasché, Philippe Rousselot
-
-_Editor:_ Cécile Decugis
-
-_[Assistant] Editor:_ Christine Lecouvette
-
-_Décors:_ Nicole Rachline
-
-_Sound:_ Jacques Maumont, Jean-Pierre Ruh
-
-_Sound [Assistant]:_ Alain Sempé
-
-_Cast:_
-
-Jean-Louis Trintignant _(Jean-Louis)_
-
-Françoise Fabian _(Maud)_
-
-Marie-Christine Barrault _(Françoise)_
-
-Antoine Vitez _(Vidal)_
-
-Léonide Kogan _(violinist)_
-
-Guy Léger _(preacher)_
-
-Anne Dubot _(blonde)_
-
-France 1969
+France 1969<br>
 
 110 mins
 
-* Uncredited
+*Uncredited
 
-The screening on Wed 6 Apr will be introduced  
-by Geoff Andrew, Programmer-at-Large
+The screening on Wed 6 Apr will be introduced  by Geoff Andrew, Programmer-at-Large<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjM2NzMyOV19
+eyJoaXN0b3J5IjpbLTIxMzM2NjMxMjldfQ==
 -->
