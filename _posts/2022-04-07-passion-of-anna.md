@@ -7,7 +7,7 @@ readtime: true
 categories: ['LIV ULLMANN - FACE TO FACE']
 tags: [Drama]
 metadata: 'Sweden 1969, 100 mins<br> Director: Ingmar Bergman'
-pdf: '2022-04-05-shame.pdf'
+pdf: '2022-04-07-passion-of-anna.pdf'
 ---
 _+ intro by Geoff Andrew, Programmer at Large, (on Thursday 14 April only)._
 
