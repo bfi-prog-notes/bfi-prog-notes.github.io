@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The PAssion of Anna
+title: The Passion of Anna
 published: true
 date: 2022-04-07
 readtime: true
