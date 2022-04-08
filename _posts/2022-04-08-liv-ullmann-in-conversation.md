@@ -35,15 +35,15 @@ Born in Tokyo, Japan
 
 **As director**
 
-**1982** episode **‘Parting’** in **Love** (Canada) **+ scr**
+**1982** episode **‘Parting’** in **Love** (Canada) **+ scr**<br>
 
-**1992  Sofie** (Norway/Sweden/Denmark)  **+ co-scr**
+**1992  Sofie** (Norway/Sweden/Denmark)  **+ co-scr**<br>
 
-**1995  Kristin Lavransdatter** (Sweden/Norway/Germany) **+ scr**
+**1995  Kristin Lavransdatter** (Sweden/Norway/Germany) **+ scr**<br>
 
-**‘New Lumière Film’** in **Lumière et Compagnie** (France/Spain/Sweden; various directors)
+**‘New Lumière Film’** in **Lumière et Compagnie** (France/Spain/Sweden; various directors)<br>
 
-**1997  Private Confessions (Enskilda samtal)** (Sweden)
+**1997  Private Confessions (Enskilda samtal)** (Sweden)<br>
 
 **2000  Faithless (Trolösa)** (Sweden/Norway/ Italy/Finland/Germany)
 
@@ -95,60 +95,48 @@ Born in Tokyo, Japan
 
 **1975  Léonor** (France/Spain/Italy; d. Juan Buñuel) as Léonor
 
-**Face to Face (Ansikte mot ansikte)** (Sweden; d. Ingmar Bergman) as  
-Dr Jenny Isaksson
+**Face to Face (Ansikte mot ansikte)** (Sweden; d. Ingmar Bergman) as  Dr Jenny Isaksson
 
 **1977  The Serpent’s Egg (Das Schlangenei)** (West Germany/USA; d. Ingmar Bergman) as Manuela Rosenberg
 
 **A Bridge Too Far** (UK; d. Richard Attenborough) as Kate ter Horst
 
-**1978  Autumn Sonata (Herbstsonate)  
-**(West Germany; d. Ingmar Bergman) as Eva
+**1978  Autumn Sonata (Herbstsonate)  **(West Germany; d. Ingmar Bergman) as Eva
 
-**1979  Players** (USA; d. Anthony Harvey)  
-as spectator [uncredited]
+**1979  Players** (USA; d. Anthony Harvey)  as spectator [uncredited]
 
 **1980  Richard’s Things** (UK; d. Anthony Harvey) as Kate Morris
 
 **1983  The Wild Duck** (Australia; d. Henri Safran) as Gina
 
-**La Diagonale du fou** (Switzerland;  
-d. Richard Dembo) as Marina
+**La Diagonale du fou** (Switzerland;  d. Richard Dembo) as Marina
 
 **Jacobo Timerman:** **Prisoner without a Name, Cell without a Number  
-**(USA; TV movie; d. Linda Yellen)  
-as Risha Timerman
+**(USA; TV movie; d. Linda Yellen)  as Risha Timerman
 
 **Jenny** (Norway/West Germany; TV mini-  series; d. Per Bronken) as Jenny Winge
 
-**1984  The Bay Boy** (Canada/France;  
-d. Daniel Petrie) as Mrs Campbell
+**1984  The Bay Boy** (Canada/France;  d. Daniel Petrie) as Mrs Campbell
 
 **1985  Speriamo che sia femmina** (Italy/France; d. Mario Monicelli) as Elena Leonardo
 
 **1987  Gaby – A True Story** (USA; d. Luis Mandoki) as Sari Brimmer
 
-**Farewell Moscow (Mosca Addio)** (Italy; d. Mario Monicelli) as  
-Ida Nudel
+**Farewell Moscow (Mosca Addio)** (Italy; d. Mario Monicelli) as  Ida Nudel
 
-**Gli Indifferenti** (Italy; TV movie;  
-d. Mario Monicelli) as Maria Grazia
+**Gli Indifferenti** (Italy; TV movie;  d. Mario Monicelli) as Maria Grazia
 
 **1988  The Girlfriend (Die Freundin)** (Germany/Argentina; d. Jeanine Meerapfel) as Maria
 
 **1990  The Rose Garden (Der Rosengarten)** (Germany/USA; d. Fons Rademakers) as Gabriele Schlüter-Freund
 
-**Mindwalk** (Austria/Switzerland;  
-d. Bernt Capra) as Sonia Hoffman
+**Mindwalk** (Austria/Switzerland;  d. Bernt Capra) as Sonia Hoffman
 
-**1991  The Ox (Oxen)** (Sweden/Denmark;  
-d. Sven Nykvist) as Maria
+**1991  The Ox (Oxen)** (Sweden/Denmark;  d. Sven Nykvist) as Maria
 
-**The Long Shadow** (USA/Hungary/ Italy; d. Vilmos Zsigmond)  
-as Katherine
+**The Long Shadow** (USA/Hungary/ Italy; d. Vilmos Zsigmond)  as Katherine
 
-**1993  Dreamplay (Drømspel)** (Norway/ Sweden; d. Unni Straume) as  
-ticket seller
+**1993  Dreamplay (Drømspel)** (Norway/ Sweden; d. Unni Straume) as  ticket seller
 
 **1994  Zorn** (Sweden; d. Gunnar Hellström) as Emma Zorn
 
@@ -168,5 +156,5 @@ d.  Edvard Lieber)
 
 **1998  Liv Ullmann: Scenes from a Life** (Norway; d. Edvard Hambro)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1MTc2NjU3XX0=
+eyJoaXN0b3J5IjpbMjEwOTE5MjE5NV19
 -->
