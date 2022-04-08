@@ -40,59 +40,111 @@ When asked if he believes SAIMR is still in operation, Brügger shrugs. ‘I hav
 <br><br>
 
 **COLD CASE HAMMARSKJÖLD**<br>
+
 _Directed by:_ Mads Brügger<br>
-_Production Companies:_ Wingman Media,  Piraya Film, Laika Film & Television<br>
-_In co-production with:_ Associate Directors DR,  SVT, Bertha Foundation, Doc Society Film i Väst, BBC Storyville, RTBF, GEO Television<br>
+
+_Production Companies:_ Wingman Media,  
+Piraya Film, Laika Film & Television<br>
+
+_In co-production with:_ Associate Directors DR,  
+SVT, Bertha Foundation, Doc Society Film i Väst, BBC Storyville, RTBF, GEO Television<br>
+
 _Produced with the support of:_ Danish Film Institute, Nordisk Film & TV Fond, Eurimages, Norsk filminstitutt, Svenska Filminstitutet, Fritt Ord, Filmkraft Rogaland, Flanders Audiovisual Fund (VAF), Flanders Film Funding, Belgian Tax Shelter, Hinterland<br>
+
 _Produced by:_ Peter Engel, Bjarte Mørner Tveit, Andreas Rocksén<br>
+
 _Written by:_ Mads Brügger<br>
+
 _Director of Photography:_ Tore Vollan<br>
+
 _Editor:_ Nicolás Nørgaard Staffolani<br>
+
 _Music:_ Kaada<br>
+
 _Sound Design & Mix:_ Senjan Jansen<br>
 
-**Featuring**<br>
+**
+
+_Featuring**<br>:_
+
 Mads Brügger<br>
+
 Clarinah Mfengu<br>
+
 Saphir Wenzi Mabanza<br>
+
 Göran Björkdahl<br>
+
 Hilding Björkdahl<br>
+
 Margareth Ngulube<br>
+
 Custon Chipoya<br>
+
 Abraham Kunda<br>
+
 Jacob Phiri<br>
+
 John Ngongo<br>
+
 Salomon Mwanza<br>
+
 Safeli Mulenga<br>
+
 Teresa Kankasa<br>
+
 Neddy Banda<br>
+
 Walter Mutukwa<br>
+
 Charles Southall<br>
+
 Norman Kenward<br>
+
 Jan Beuckels<br>
+
 Fons Feayerts<br>
+
 Lydia Sterkendries<br>
+
 Richard Goldstone<br>
+
 Hans Corell<br>
+
 De Wet Potgieter<br>
+
 Diane Maxwell<br>
+
 Ibrahim Karolia<br>
+
 Claude Newbury<br>
+
 René Goor<br>
+
 Tienie Groenewald<br>
+
 Henrik Larsen<br>
+
 Kerryn Macauley<br>
+
 Pierre Coppens<br>
+
 Marion Van Risseghem<br>
+
 Simon Hunt<br>
+
 Clive Jansen Van Vuuren<br>
+
 Robert Cedars Alexander Jones<br>
+
 Karl Feil<br>
+
 Julian Ogilvie Thompson<br>
 
 Denmark/Norway/Sweden/Belgium/UK/Germany 2019<br>
+
 128 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTQwOTQ3Ml19
+eyJoaXN0b3J5IjpbLTQzMTc4ODMxNiwxODQxNDA5NDcyXX0=
 -->
