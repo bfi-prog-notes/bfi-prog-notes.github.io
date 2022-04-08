@@ -20,13 +20,13 @@ Kneales’ concise and witty screenplay is as peppered with subtleties and nuanc
 _Quatermass and the Pit_ is a staggering achievement, well directed by Hammer new-boy Baker, a veteran of TV’s _The Avengers_. His handling of Kneale’s remarkable ideas is spot on, particularly in the apocalyptic finale, a sequence that seems to have inspired much of Tobe Hooper’s _Lifeforce_ (1985). It’s a film of great depth and intelligence, one that rewards repeated viewings. It combines Kneale characteristic attacks on authority and pomposity with his humanitarian attitudes and wide-ranging speculations on the nature of Man, evolution, the development of culture and the growth of religion.<br>
 **Kevin Lyons, eofftv.com**<br>
 
-**QUATERMASS AND THE PIT**
-_Directed by:_ Roy Ward Baker
-_©:_ Hammer Film Productions
-_a_ Hammer Film _production_
-_Presented by:_ Associated British Pathé
-_Executive Producer:_ Anthony Hinds *
-_Produced by:_  Anthony Nelson Keys
+**QUATERMASS AND THE PIT**<br>
+_Directed by:_ Roy Ward Baker<br>
+_©:_ Hammer Film Productions<br>
+_a_ Hammer Film _production_<br>
+_Presented by:_ Associated British Pathé<br>
+_Executive Producer:_ Anthony Hinds *<br>
+_Produced by:_ Anthony Nelson Keys
 _Production Manager:_ Ian Lewis
 _Assistant Director:_ Bert Batt
 _Continuity:_ Doreen Dearnaley
@@ -38,88 +38,49 @@ _Special Effects:_ Bowie Films
 _Special Effects:_ Les Bowie *
 _Supervising Editor:_ James Needs
 _Editor:_ Spencer Reeve
-
 _Supervising Art Director:_ Bernard Robinson
-
 _Art Director:_ Ken Ryan
-
 _Wardrobe Mistress:_ Rosemary Burrows
-
 _Make-up:_ Michael Morris
-
 _Hair Stylist:_ Pearl Tipaldi
-
 _Music Composed by:_ Tristram Cary
-
 _Musical Supervisor:_ Philip Martell
-
 _Sound Recordist:_ Sash Fisher
-
 _Sound Editor:_ Roy Hyde
-
 _Produced at:_ MGM British Studios
 
 **Cast**
-
 James Donald _(Dr Matthew Roney)_
-
 Andrew Keir _(Professor Bernard Quatermass)_
-
 Barbara Shelley _(Barbara Judd)_
-
 Julian Glover _(Colonel Breen)_
-
 Duncan Lamont _(Sladden)_
-
 Bryan Marshall _(Captain Potter)_
-
 Peter Copley _(Howell)_
-
 Edwin Richfield _(Minister of Defence)_
-
 Maurice Good _(Sergeant Cleghorn)_
-
 Grant Taylor _(Police Sergeant Ellis)_
-
 Robert Morris _(Jerry Watson)_
-
 Sheila Steafel _(journalist)_
-
 Hugh Futcher _(Sapper West)_
-
 Hugh Morton _(elderly journalist)_
-
 Thomas Heathcote _(vicar)_
-
 Noel Howlett _(abbey librarian)_
-
 Hugh Manning _(pub customer)_
-
 June Ellis _(blonde)_
-
 Keith Marsh _(Johnson)_
-
 James Culliford _(Corporal Gibson)_
-
 Bee Duffell _(Miss Dobson)_
-
 Roger Avon _(electrician)_
-
 Brian Peck _(technical officer)_
-
 John Graham _(inspector)_
-
 Charles Lamb _(newsvendor)_
-
-Gareth Thomas _(workman who finds skeleton)_ *
-
+Gareth Thomas _(workman who finds skeleton)_
 Anthony Rayner *
-
 UK/USA 1967©
 
 97 mins
-
-* Uncredited
+\* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDIyMDg5MF19
+eyJoaXN0b3J5IjpbMzQ2MDE4NDZdfQ==
 -->
