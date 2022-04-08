@@ -26,61 +26,61 @@ _©:_ Hammer Film Productions<br>
 _a_ Hammer Film _production_<br>
 _Presented by:_ Associated British Pathé<br>
 _Executive Producer:_ Anthony Hinds *<br>
-_Produced by:_ Anthony Nelson Keys
-_Production Manager:_ Ian Lewis
-_Assistant Director:_ Bert Batt
-_Continuity:_ Doreen Dearnaley
-_Casting:_ Irene Lamb
-_Original Story and Screenplay by:_ Nigel Kneale
-_Director of Photography:_ Arthur Grant
-_Camera Operator:_ Moray Grant
-_Special Effects:_ Bowie Films
-_Special Effects:_ Les Bowie *
-_Supervising Editor:_ James Needs
-_Editor:_ Spencer Reeve
-_Supervising Art Director:_ Bernard Robinson
-_Art Director:_ Ken Ryan
-_Wardrobe Mistress:_ Rosemary Burrows
-_Make-up:_ Michael Morris
-_Hair Stylist:_ Pearl Tipaldi
-_Music Composed by:_ Tristram Cary
-_Musical Supervisor:_ Philip Martell
-_Sound Recordist:_ Sash Fisher
-_Sound Editor:_ Roy Hyde
-_Produced at:_ MGM British Studios
+_Produced by:_ Anthony Nelson Keys<br>
+_Production Manager:_ Ian Lewis<br>
+_Assistant Director:_ Bert Batt<br>
+_Continuity:_ Doreen Dearnaley<br>
+_Casting:_ Irene Lamb<br>
+_Original Story and Screenplay by:_ Nigel Kneale<br>
+_Director of Photography:_ Arthur Grant<br>
+_Camera Operator:_ Moray Grant<br>
+_Special Effects:_ Bowie Films<br>
+_Special Effects:_ Les Bowie *<br>
+_Supervising Editor:_ James Needs<br>
+_Editor:_ Spencer Reeve<br>
+_Supervising Art Director:_ Bernard Robinson<br>
+_Art Director:_ Ken Ryan<br>
+_Wardrobe Mistress:_ Rosemary Burrows<br>
+_Make-up:_ Michael Morris<br>
+_Hair Stylist:_ Pearl Tipaldi<br>
+_Music Composed by:_ Tristram Cary<br>
+_Musical Supervisor:_ Philip Martell<br>
+_Sound Recordist:_ Sash Fisher<br>
+_Sound Editor:_ Roy Hyde<br>
+_Produced at:_ MGM British Studios<br>
 
-**Cast**
-James Donald _(Dr Matthew Roney)_
-Andrew Keir _(Professor Bernard Quatermass)_
-Barbara Shelley _(Barbara Judd)_
-Julian Glover _(Colonel Breen)_
-Duncan Lamont _(Sladden)_
-Bryan Marshall _(Captain Potter)_
-Peter Copley _(Howell)_
-Edwin Richfield _(Minister of Defence)_
-Maurice Good _(Sergeant Cleghorn)_
-Grant Taylor _(Police Sergeant Ellis)_
-Robert Morris _(Jerry Watson)_
-Sheila Steafel _(journalist)_
-Hugh Futcher _(Sapper West)_
-Hugh Morton _(elderly journalist)_
-Thomas Heathcote _(vicar)_
-Noel Howlett _(abbey librarian)_
-Hugh Manning _(pub customer)_
-June Ellis _(blonde)_
-Keith Marsh _(Johnson)_
-James Culliford _(Corporal Gibson)_
-Bee Duffell _(Miss Dobson)_
-Roger Avon _(electrician)_
-Brian Peck _(technical officer)_
-John Graham _(inspector)_
-Charles Lamb _(newsvendor)_
-Gareth Thomas _(workman who finds skeleton)_
-Anthony Rayner *
-UK/USA 1967©
+**Cast**<br>
+James Donald _(Dr Matthew Roney)_<br>
+Andrew Keir _(Professor Bernard Quatermass)_<br>
+Barbara Shelley _(Barbara Judd)_<br>
+Julian Glover _(Colonel Breen)_<br>
+Duncan Lamont _(Sladden)_<br>
+Bryan Marshall _(Captain Potter)_<br>
+Peter Copley _(Howell)_<br>
+Edwin Richfield _(Minister of Defence)_<br>
+Maurice Good _(Sergeant Cleghorn)_<br>
+Grant Taylor _(Police Sergeant Ellis)_<br>
+Robert Morris _(Jerry Watson)_<br>
+Sheila Steafel _(journalist)_<br>
+Hugh Futcher _(Sapper West)_<br>
+Hugh Morton _(elderly journalist)_<br>
+Thomas Heathcote _(vicar)_<br>
+Noel Howlett _(abbey librarian)_<br>
+Hugh Manning _(pub customer)_<br>
+June Ellis _(blonde)_<br>
+Keith Marsh _(Johnson)_<br>
+James Culliford _(Corporal Gibson)_<br>
+Bee Duffell _(Miss Dobson)_<br>
+Roger Avon _(electrician)_<br>
+Brian Peck _(technical officer)_<br>
+John Graham _(inspector)_<br>
+Charles Lamb _(newsvendor)_<br>
+Gareth Thomas _(workman who finds skeleton)_<br>
+Anthony Rayner *<br>
+UK/USA 1967©<br>
 
-97 mins
-\* Uncredited
+97 mins<br>
+\* Uncredited<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2MDE4NDZdfQ==
+eyJoaXN0b3J5IjpbNDk5NzI0MzI4XX0=
 -->
