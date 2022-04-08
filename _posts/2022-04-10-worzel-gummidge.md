@@ -1,9 +1,18 @@
-
+---
+layout: post
+title: Worzel Gummidge Restoration Screening
+published: true
+date: 2022-04-10
+readtime: true
+categories: ['IN PERSON & PREVIEWS']
+tags: [Television]
+metadata: 
+pdf: '2022-04-10-worzel-gummidge.pdf'
+---
 
 _We are delighted to announce that the guests at this event will include actors Mike Berry, Lorraine Chase and Jeremy Austin Bullock._
 
-With renewed interest in _Worzel Gummidge_ thanks to Mackenzie Crook’s brilliant re-imagining of the stories, this is an ideal time to revisit the late-70s ITV version, where the loveable scarecrow was portrayed by Jon Pertwee.  
-New copies have been made from the original camera negatives, and we’re delighted to debut these pristine restorations (three episodes), prior to a future HD release from Fabulous Films on Blu-ray.  
+With renewed interest in _Worzel Gummidge_ thanks to Mackenzie Crook’s brilliant re-imagining of the stories, this is an ideal time to revisit the late-70s ITV version, where the loveable scarecrow was portrayed by Jon Pertwee.  New copies have been made from the original camera negatives, and we’re delighted to debut these pristine restorations (three episodes), prior to a future HD release from Fabulous Films on Blu-ray.  
 **bfi.org.uk**
 
 ‘He says and does the things that all of us would like to do, but are too shy, self-conscious and respectful to. Being rude to those in authority, being selfish... there is something of Worzel in all of us.’ So said Jon Pertwee of the character he most loved to play, scarecrow Worzel Gummidge.
@@ -56,6 +65,23 @@ ITV tx 1980-81
 
 Total running time: c130 mins
 <br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjgyODE1NTc4XX0=
 -->
