@@ -1,3 +1,14 @@
+---
+layout: post
+title: Quatermass and the Pit
+published: true
+date: 2022-04-11
+readtime: true
+categories: ['NIGHTMARES & DAYDREAMS<br>A CENTENARY CELEBRATION OF SCREENWRITER NIGEL KNEALE']
+tags: [Sci-Fi, Drama]
+metadata: 'UK-USA 1967, 97 mins<br> Director: Roy Ward Baker'
+pdf: '2022-04-11-quatermass-and-the-pit.pdf'
+---
 
 The third series – and perhaps the best – featuring Nigel Kneale’s hugely successful creation, the steadfast scientific genius Professor Bernard Quatermass, _Quatermass and the Pit_ (BBC) was also the last, until the character was resurrected for one final appearance in _Quatermass_ (ITV, 1979). Running over six Monday evenings between December 1958 and January 1959, the series, like its predecessors, was compulsory viewing.
 
@@ -25,7 +36,7 @@ _Directed by:_ Roy Ward Baker<br>
 _©:_ Hammer Film Productions<br>
 _a_ Hammer Film _production_<br>
 _Presented by:_ Associated British Pathé<br>
-_Executive Producer:_ Anthony Hinds *<br>
+_Executive Producer:_ Anthony Hinds \*<br>
 _Produced by:_ Anthony Nelson Keys<br>
 _Production Manager:_ Ian Lewis<br>
 _Assistant Director:_ Bert Batt<br>
@@ -76,11 +87,48 @@ Brian Peck _(technical officer)_<br>
 John Graham _(inspector)_<br>
 Charles Lamb _(newsvendor)_<br>
 Gareth Thomas _(workman who finds skeleton)_<br>
-Anthony Rayner *<br>
+Anthony Rayner \*<br>
 UK/USA 1967©<br>
 
 97 mins<br>
 \* Uncredited<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5NzI0MzI4XX0=
--->
+
+<br>
+
+**NIGHTMARES & DAYDREAMS<br>
+A CENTENARY CELEBRATION OF SCREENWRITER NIGEL KNEALE**<br>
+**The Abominable Snowman**<br>
+Mon 28 Mar 20:50; Sat 23 Apr 14:50<br>
+**Wuthering Heights**<br>
+Sat 2 Apr 15:10<br>
+**Missing Believed Wiped: Out of the Unknown: The Chopper**<br>
+Sun 3 Apr 18:00<br>
+**Nineteen Eighty-Four + Panel Discussion: Nineteen Eighty-Four and the legacy of Nigel Kneale**<br>
+Mon 4 Apr 18:30<br>
+**Seniors Free Matinee: Quatermass and the Pit + discussion**<br>
+Mon 11 Apr 14:00<br>
+**The Year of the Sex Olympics**<br>
+Tue 12 Apr 18:10<br>
+**First Men in the Moon**<br>
+Fri 15 Apr 14:30; Wed 27 Apr 20:50<br>
+**The Woman in Black**<br>
+Sun 24 Apr 14:40<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+<br>
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
