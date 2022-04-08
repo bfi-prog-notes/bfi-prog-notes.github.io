@@ -57,24 +57,19 @@ Born in Tokyo, Japan
 
 **1962  Kort är sommaren** (Sweden;  d. Bjarne Henning-Jensen) as Eva
 
-**Tonny** (Norway; d. Nils R. Müller)  
-as Kari
+**Tonny** (Norway; d. Nils R. Müller)  as Kari
 
-**1965  De kalte ham Skarven** (Norway;  
-d. Erik Folke Gustavson) as Ragna
+**1965  De kalte ham Skarven** (Norway;  d. Erik Folke Gustavson) as Ragna
 
 **1966  Persona** (Sweden; d. Ingmar Bergman) as Elisabet Vogler
 
-**1968  Hour of the Wolf (Vargtimmen)** (Sweden; d. Ingmar Bergman)  
-as Alma Borg
+**1968  Hour of the Wolf (Vargtimmen)** (Sweden; d. Ingmar Bergman)  as Alma Borg
 
-**Shame (Skammen)** (Sweden;  
-d. Ingmar Bergman) as Eva Rosenberg
+**Shame (Skammen)** (Sweden;  d. Ingmar Bergman) as Eva Rosenberg
 
 **1969  An-Magritt** (Norway; d. Arne Skouen) as An-Magritt
 
-**The Passion of Anna (En passion)** (Sweden; d. Ingmar Bergman)  
-as Anna Fromm
+**The Passion of Anna (En passion)** (Sweden; d. Ingmar Bergman)  as Anna Fromm
 
 **1970  De la part des copains (L’uomo dalle due ombre/Cold Sweat)** (France/Italy d. Terence Young) as Fabienne Martin
 
@@ -82,8 +77,7 @@ as Anna Fromm
 
 **1971  The Emigrants (Utvandrarna)** (Sweden; d. Jan Troell) as Kristina Nilsson
 
-**1972  New Land (Nybyggarna)** (Sweden;  
-d. Jan Troell) as Kristina Nilsson
+**1972  New Land (Nybyggarna)** (Sweden;  d. Jan Troell) as Kristina Nilsson
 
 **Pope Joan** (UK; d. Michael Anderson) as Joan
 
@@ -174,5 +168,5 @@ d.  Edvard Lieber)
 
 **1998  Liv Ullmann: Scenes from a Life** (Norway; d. Edvard Hambro)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODAxNjMxN119
+eyJoaXN0b3J5IjpbNjU1MTc2NjU3XX0=
 -->
