@@ -39,109 +39,88 @@ When asked if he believes SAIMR is still in operation, Brügger shrugs. ‘I hav
 **Production notes**
 <br><br>
 
-**COLD CASE HAMMARSKJÖLD**
+**COLD CASE HAMMARSKJÖLD**<br>
+_Directed by:_ Mads Brügger<br>
+_Production Companies:_ Wingman Media,  Piraya Film, Laika Film & Television<br>
+_In co-production with:_ Associate Directors DR,  SVT, Bertha Foundation, Doc Society Film i Väst, BBC Storyville, RTBF, GEO Television<br>
+_Produced with the support of:_ Danish Film Institute, Nordisk Film & TV Fond, Eurimages, Norsk filminstitutt, Svenska Filminstitutet, Fritt Ord, Filmkraft Rogaland, Flanders Audiovisual Fund (VAF), Flanders Film Funding, Belgian Tax Shelter, Hinterland<br>
+_Produced by:_ Peter Engel, Bjarte Mørner Tveit, Andreas Rocksén<br>
+_Written by:_ Mads Brügger<br>
+_Director of Photography:_ Tore Vollan<br>
+_Editor:_ Nicolás Nørgaard Staffolani<br>
+_Music:_ Kaada<br>
+_Sound Design & Mix:_ Senjan Jansen<br>
 
-_Directed by:_ Mads Brügger
+**Featuring**<br>
+Mads Brügger<br>
+Clarinah Mfengu<br>
+Saphir Wenzi Mabanza<br>
+Göran Björkdahl<br>
+Hilding Björkdahl<br>
+Margareth Ngulube<br>
+Custon Chipoya<br>
+Abraham Kunda<br>
+Jacob Phiri<br>
+John Ngongo<br>
 
-_Production Companies:_ Wingman Media,  
-Piraya Film, Laika Film & Television
+Salomon Mwanza<br>
 
-_In co-production with:_ Associate Directors DR,  
-SVT, Bertha Foundation, Doc Society Film i Väst, BBC Storyville, RTBF, GEO Television
+Safeli Mulenga<br>
 
-_Produced with the support of:_ Danish Film Institute, Nordisk Film & TV Fond, Eurimages, Norsk filminstitutt, Svenska Filminstitutet, Fritt Ord, Filmkraft Rogaland, Flanders Audiovisual Fund (VAF), Flanders Film Funding, Belgian Tax Shelter, Hinterland
+Teresa Kankasa<br>
 
-_Produced by:_ Peter Engel, Bjarte Mørner Tveit, Andreas Rocksén
+Neddy Banda<br>
 
-_Written by:_ Mads Brügger
+Walter Mutukwa<br>
 
-_Director of Photography:_ Tore Vollan
+Charles Southall<br>
 
-_Editor:_ Nicolás Nørgaard Staffolani
+Norman Kenward<br>
 
-_Music:_ Kaada
+Jan Beuckels<br>
 
-_Sound Design & Mix:_ Senjan Jansen
+Fons Feayerts<br>
 
-_Featuring:_
+Lydia Sterkendries<br>
 
-Mads Brügger
+Richard Goldstone<br>
 
-Clarinah Mfengu
+Hans Corell<br>
 
-Saphir Wenzi Mabanza
+De Wet Potgieter<br>
 
-Göran Björkdahl
+Diane Maxwell<br>
 
-Hilding Björkdahl
+Ibrahim Karolia<br>
 
-Margareth Ngulube
+Claude Newbury<br>
 
-Custon Chipoya
+René Goor<br>
 
-Abraham Kunda
+Tienie Groenewald<br>
 
-Jacob Phiri
+Henrik Larsen<br>
 
-John Ngongo
+Kerryn Macauley<br>
 
-Salomon Mwanza
+Pierre Coppens<br>
 
-Safeli Mulenga
+Marion Van Risseghem<br>
 
-Teresa Kankasa
+Simon Hunt<br>
 
-Neddy Banda
+Clive Jansen Van Vuuren<br>
 
-Walter Mutukwa
+Robert Cedars Alexander Jones<br>
 
-Charles Southall
+Karl Feil<br>
 
-Norman Kenward
+Julian Ogilvie Thompson<br>
 
-Jan Beuckels
+Denmark/Norway/Sweden/Belgium/UK/Germany 2019<br>
 
-Fons Feayerts
-
-Lydia Sterkendries
-
-Richard Goldstone
-
-Hans Corell
-
-De Wet Potgieter
-
-Diane Maxwell
-
-Ibrahim Karolia
-
-Claude Newbury
-
-René Goor
-
-Tienie Groenewald
-
-Henrik Larsen
-
-Kerryn Macauley
-
-Pierre Coppens
-
-Marion Van Risseghem
-
-Simon Hunt
-
-Clive Jansen Van Vuuren
-
-Robert Cedars Alexander Jones
-
-Karl Feil
-
-Julian Ogilvie Thompson
-
-Denmark/Norway/Sweden/Belgium/UK/Germany 2019
-
-128 mins
+128 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Nzg4NDI5MF19
+eyJoaXN0b3J5IjpbOTE2NDM0MDBdfQ==
 -->
