@@ -2,12 +2,12 @@
 layout: post
 title: Scenes from a Marriage
 published: true
-date: 2022-04-10
+date: 2022-04-109
 readtime: true
 categories: ['LIV ULLMANN - FACE TO FACE']
 tags: [Drama]
 metadata: 'Sweden 1973, 162 mins<br> Director: Ingmar Bergman'
-pdf: '2022-04-10-scenes-from-a-marriage-intro.pdf'
+pdf: '2022-04-109-scenes-from-a-marriage-intro.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -120,3 +120,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzc2Mzc0MTE5XX0=
+-->
