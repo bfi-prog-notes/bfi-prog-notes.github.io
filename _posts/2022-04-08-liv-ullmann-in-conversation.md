@@ -76,14 +76,13 @@ Born in Tokyo, Japan
 **Face to Face (Ansikte mot ansikte)** (Sweden; d. Ingmar Bergman) as  Dr Jenny Isaksson<br>
 **1977  The Serpent’s Egg (Das Schlangenei)** (West Germany/USA; d. Ingmar Bergman) as Manuela Rosenberg<br>
 **A Bridge Too Far** (UK; d. Richard Attenborough) as Kate ter Horst<br>
-**1978  Autumn Sonata (Herbstsonate)  **(West Germany; d. Ingmar Bergman) as Eva<br>
+**1978  Autumn Sonata (Herbstsonate)** (West Germany; d. Ingmar Bergman) as Eva<br>
 **1979  Players** (USA; d. Anthony Harvey)  as spectator [uncredited]<br>
 **1980  Richard’s Things** (UK; d. Anthony Harvey) as Kate Morris<br>
 **1983  The Wild Duck** (Australia; d. Henri Safran) as Gina<br>
 **La Diagonale du fou** (Switzerland;  d. Richard Dembo) as Marina<br>
-**Jacobo Timerman:** **Prisoner without a Name, Cell without a Number  
-**(USA; TV movie; d. Linda Yellen)  as Risha Timerman<br>
-**Jenny** (Norway/West Germany; TV mini-  series; d. Per Bronken) as Jenny Winge<br>
+**Jacobo Timerman:** **Prisoner without a Name, Cell without a Number** (USA; TV movie; d. Linda Yellen) as Risha Timerman<br>
+**Jenny** (Norway/West Germany; TV mini-series; d. Per Bronken) as Jenny Winge<br>
 **1984  The Bay Boy** (Canada/France;  d. Daniel Petrie) as Mrs Campbell<br>
 **1985  Speriamo che sia femmina** (Italy/France; d. Mario Monicelli) as Elena Leonardo<br>
 **1987  Gaby – A True Story** (USA; d. Luis Mandoki) as Sari Brimmer<br>
@@ -101,7 +100,7 @@ Born in Tokyo, Japan
 
 **Films about Liv Ullmann**
 
-**1973  ‘Liv Ullmann’** episode of **Cinema  **(UK; d. Pauline Shaw)<br>
+**1973  ‘Liv Ullmann’** episode of **Cinema** (UK; d. Pauline Shaw)<br>
 **1977** segment of **Seven Portraits** (USA;  d.  Edvard Lieber)<br>
 **A Look at Liv** (USA; d. Richard Kaplan)<br>
 **1998  Liv Ullmann: Scenes from a Life** (Norway; d. Edvard Hambro)<br>
@@ -138,13 +137,13 @@ Tue 19 Apr 18:20; Sat 30 Apr 20:50<br>
 Sun 24 Apr 17:50; Fri 29 Apr 20:20 (+ intro by Elaine Wong, short film programmer, BFI London Film Festival)<br>
 
 **In cultural partnership with**<br><br>
-<img style="float: left;" src="/img/norwegian embassy.png" width="30%" height="30%"><br><br>
+<img style="float: left;" src="/img/norwegian embassy.png" width="30%" height="30%"><br><br><br><br>
 <img style="float: left;" src="/img/embassy of sweden.jpg" width="30%" height="30%">
 <br><br><br><br><br>
 
 _Faithless_ will be released on BFI Blu-ray on 11 April and is available to pre-order from the BFI Shop:
-**https://shop.bfi.org.uk/faithless-blu-ray.html**
-
+**https://shop.bfi.org.uk/faithless-blu-ray.html**<br>
+<br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
