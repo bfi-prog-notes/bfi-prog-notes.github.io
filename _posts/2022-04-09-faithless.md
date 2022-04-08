@@ -80,8 +80,8 @@ _Upholsterer:_ Karin Sheppard<br>
 
 _Costume Designer:_ Inger Elvira Pehrsson  
 _Costume Assistant:_ Inger Eiserwall  
-_Costume Trainee:_ Einar Bjørge  
-_Costume Runner Assistant:_ Anneli Oscarsson  
+_[Costume] Trainee:_ Einar Bjørge  
+_[Costume] Runner Assistant:_ Anneli Oscarsson  
 _Make-up:_ Cecilia Drott-Norlén  
 _Grading:_ Sten Lindberg  
 _Harmonica Improvisation:_ Love Malmsten  
@@ -167,5 +167,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NzA4Mzc1XX0=
+eyJoaXN0b3J5IjpbLTI3MTcxMjQ4OSwzMDc3MDgzNzVdfQ==
 -->
