@@ -2,12 +2,12 @@
 layout: post
 title: Scenes from a Marriage
 published: true
-date: 2022-04-09
+date: 2022-04-10
 readtime: true
 categories: ['LIV ULLMANN - FACE TO FACE']
 tags: [Drama]
 metadata: 'Sweden 1973, 162 mins<br> Director: Ingmar Bergman'
-pdf: '2022-04-09-scenes-from-a-marriage-intro.pdf'
+pdf: '2022-04-10-scenes-from-a-marriage-intro.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
