@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Cold Case Hammarskjöld
+published: true
+date: 2022-04-09
+readtime: true
+categories: ['AFRICAN ODYSSEYS']
+tags: [Documentary]
+metadata: 'Denmark/Norway/Sweden/Belgium/UK/Germany 2019, 128 mins<br> Director: Mads Brügger'
+pdf: '2022-04-09-cold-case-hammarskjold.pdf'
+---
 
 _Please note: viewers may find allegations in this film deeply upsetting; they will be discussed in the post-screening Q&A._
 
@@ -30,8 +40,7 @@ The Hotel Memling in Kinshasa, capital of the Democratic Republic of the Congo, 
 
 ‘I also thought it would be a unique and effective way of visualising colonialism and racial relations in Africa,’ he adds. ‘I dressed in white primarily because our villain only wore white, but also, in a strange way, white is the colour of power in this story, so it accentuates the interracial relationship in a powerful cinematic effect.’
 
-As he constructed his narrative, Brügger realised he was making a true crime,  
-Cold War-era spy thriller. ‘So I used the tropes of the genre to build my story. Having difficulties at first and having leads go cold is good for the narrative. If everything is perfectly clear from the beginning, that’s not interesting. And that is the way it played out in reality. We did have a lot of difficulties for a while and hit a lot of dead ends, resulting in at least one fairly expensive wild-goose chase.’
+As he constructed his narrative, Brügger realised he was making a true crime,  Cold War-era spy thriller. ‘So I used the tropes of the genre to build my story. Having difficulties at first and having leads go cold is good for the narrative. If everything is perfectly clear from the beginning, that’s not interesting. And that is the way it played out in reality. We did have a lot of difficulties for a while and hit a lot of dead ends, resulting in at least one fairly expensive wild-goose chase.’
 
 Brügger and Björkdahl uncovered a wealth of circumstantial evidence, but the ultimate smoking gun still eludes them, says Brügger. As Björkdahl continues to follow additional leads and track down more witnesses, the U.N. has initiated a new investigation into Hammarskjöld’s  death. The report, expected to come out in July 2019, will include evidence that Brügger and Björkdahl have submitted. ‘If we can contribute anything to that I will be very happy,’ says the filmmaker.
 
@@ -40,111 +49,89 @@ When asked if he believes SAIMR is still in operation, Brügger shrugs. ‘I hav
 <br><br>
 
 **COLD CASE HAMMARSKJÖLD**<br>
-
 _Directed by:_ Mads Brügger<br>
-
-_Production Companies:_ Wingman Media,  
-Piraya Film, Laika Film & Television<br>
-
-_In co-production with:_ Associate Directors DR,  
-SVT, Bertha Foundation, Doc Society Film i Väst, BBC Storyville, RTBF, GEO Television<br>
-
+_Production Companies:_ Wingman Media,  Piraya Film, Laika Film & Television<br>
+_In co-production with:_ Associate Directors DR,  SVT, Bertha Foundation, Doc Society Film i Väst, BBC Storyville, RTBF, GEO Television<br>
 _Produced with the support of:_ Danish Film Institute, Nordisk Film & TV Fond, Eurimages, Norsk filminstitutt, Svenska Filminstitutet, Fritt Ord, Filmkraft Rogaland, Flanders Audiovisual Fund (VAF), Flanders Film Funding, Belgian Tax Shelter, Hinterland<br>
-
 _Produced by:_ Peter Engel, Bjarte Mørner Tveit, Andreas Rocksén<br>
-
 _Written by:_ Mads Brügger<br>
-
 _Director of Photography:_ Tore Vollan<br>
-
 _Editor:_ Nicolás Nørgaard Staffolani<br>
-
 _Music:_ Kaada<br>
-
 _Sound Design & Mix:_ Senjan Jansen<br>
 
-**
-
-_Featuring**<br>:_
-
+**Featuring**<br>
 Mads Brügger<br>
-
 Clarinah Mfengu<br>
-
 Saphir Wenzi Mabanza<br>
-
 Göran Björkdahl<br>
-
 Hilding Björkdahl<br>
-
 Margareth Ngulube<br>
-
 Custon Chipoya<br>
-
 Abraham Kunda<br>
-
 Jacob Phiri<br>
-
 John Ngongo<br>
-
 Salomon Mwanza<br>
-
 Safeli Mulenga<br>
-
 Teresa Kankasa<br>
-
 Neddy Banda<br>
-
 Walter Mutukwa<br>
-
 Charles Southall<br>
-
 Norman Kenward<br>
-
 Jan Beuckels<br>
-
 Fons Feayerts<br>
-
 Lydia Sterkendries<br>
-
 Richard Goldstone<br>
-
 Hans Corell<br>
-
 De Wet Potgieter<br>
-
 Diane Maxwell<br>
-
 Ibrahim Karolia<br>
-
 Claude Newbury<br>
-
 René Goor<br>
-
 Tienie Groenewald<br>
-
 Henrik Larsen<br>
-
 Kerryn Macauley<br>
-
 Pierre Coppens<br>
-
 Marion Van Risseghem<br>
-
 Simon Hunt<br>
-
 Clive Jansen Van Vuuren<br>
-
 Robert Cedars Alexander Jones<br>
-
 Karl Feil<br>
-
 Julian Ogilvie Thompson<br>
 
 Denmark/Norway/Sweden/Belgium/UK/Germany 2019<br>
-
 128 mins<br>
 <br>
+
+**REGULAR PROGRAMME**<br>
+**African Odysseys:  Cold Case Hammarskjöld + discussion**<br>
+Sat 9 Apr 14:00<br>
+**Art in the Making: The Architecture of Frank Lloyd Wright + intro by Adrian Steel, Director of Collections and Programmes at RIBA**<br>
+Tue 12 Apr 18:15<br>
+**Experimenta: Illuminating the Wilderness  + discussion with artists and makers from Project Art Works**<br>
+Tue 26 Apr 18:15<br>
+**Terror Vision: The Funhouse**<br>
+Thu 28 Apr 21:00<br>
+**BUG 62**<br>
+Fri 29 Apr 20:45; Thu 5 May 20:45; Fri 6 May 20:45<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTQzMTc4ODMxNiwxODQxNDA5NDcyXX0=
 -->
