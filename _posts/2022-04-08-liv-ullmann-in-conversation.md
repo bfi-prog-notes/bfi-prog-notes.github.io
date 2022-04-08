@@ -45,116 +45,117 @@ Born in Tokyo, Japan
 
 **1997  Private Confessions (Enskilda samtal)** (Sweden)<br>
 
-**2000  Faithless (Trolösa)** (Sweden/Norway/ Italy/Finland/Germany)
+**2000  Faithless (Trolösa)** (Sweden/Norway/ Italy/Finland/Germany)<br>
 
-**2014  Miss Julie** (Norway/UK/Ireland/ France/Canada/USA) **+ scr**
+**2014  Miss Julie** (Norway/UK/Ireland/ France/Canada/USA) **+ scr**<br>
 
 **As actor**
 
-**1957  Fjols til fjells** (Norway;  d. Edith Carlmar) as hotel guest
+**1957  Fjols til fjells** (Norway;  d. Edith Carlmar) as hotel guest<br>
 
-**1959  Ung flukt** (Norway; d. Edith Carlmar) as Gerd
+**1959  Ung flukt** (Norway; d. Edith Carlmar) as Gerd<br>
 
-**1962  Kort är sommaren** (Sweden;  d. Bjarne Henning-Jensen) as Eva
+**1962  Kort är sommaren** (Sweden;  d. Bjarne Henning-Jensen) as Eva<br>
 
-**Tonny** (Norway; d. Nils R. Müller)  as Kari
+**Tonny** (Norway; d. Nils R. Müller)  as Kari<br>
 
-**1965  De kalte ham Skarven** (Norway;  d. Erik Folke Gustavson) as Ragna
+**1965  De kalte ham Skarven** (Norway;  d. Erik Folke Gustavson) as Ragna<br>
 
-**1966  Persona** (Sweden; d. Ingmar Bergman) as Elisabet Vogler
+**1966  Persona** (Sweden; d. Ingmar Bergman) as Elisabet Vogler<br>
 
-**1968  Hour of the Wolf (Vargtimmen)** (Sweden; d. Ingmar Bergman)  as Alma Borg
+**1968  Hour of the Wolf (Vargtimmen)** (Sweden; d. Ingmar Bergman)  as Alma Borg<br>
 
-**Shame (Skammen)** (Sweden;  d. Ingmar Bergman) as Eva Rosenberg
+**Shame (Skammen)** (Sweden;  d. Ingmar Bergman) as Eva Rosenberg<br>
 
-**1969  An-Magritt** (Norway; d. Arne Skouen) as An-Magritt
+**1969  An-Magritt** (Norway; d. Arne Skouen) as An-Magritt<br>
 
-**The Passion of Anna (En passion)** (Sweden; d. Ingmar Bergman)  as Anna Fromm
+**The Passion of Anna (En passion)** (Sweden; d. Ingmar Bergman)  as Anna Fromm<br>
 
-**1970  De la part des copains (L’uomo dalle due ombre/Cold Sweat)** (France/Italy d. Terence Young) as Fabienne Martin
+**1970  De la part des copains (L’uomo dalle due ombre/Cold Sweat)** (France/Italy d. Terence Young) as Fabienne Martin<br>
 
-**The Night Visitor** (USA; d. Laslo Benedek) as Esther Jenks
+**The Night Visitor** (USA; d. Laslo Benedek) as Esther Jenks<br>
 
-**1971  The Emigrants (Utvandrarna)** (Sweden; d. Jan Troell) as Kristina Nilsson
+**1971  The Emigrants (Utvandrarna)** (Sweden; d. Jan Troell) as Kristina Nilsson<br>
 
-**1972  New Land (Nybyggarna)** (Sweden;  d. Jan Troell) as Kristina Nilsson
+**1972  New Land (Nybyggarna)** (Sweden;  d. Jan Troell) as Kristina Nilsson<br>
 
-**Pope Joan** (UK; d. Michael Anderson) as Joan
+**Pope Joan** (UK; d. Michael Anderson) as Joan<br>
 
-**Lost Horizon** (USA; d. Charles Jarrott) as Catherine
+**Lost Horizon** (USA; d. Charles Jarrott) as Catherine<br>
 
-**Cries and Whispers (Viskningar och rop)** (Sweden; d. Ingmar Bergman) as Maria/Maria’s mother
+**Cries and Whispers (Viskningar och rop)** (Sweden; d. Ingmar Bergman) as Maria/Maria’s mother<br>
 
-**1973  40 Carats** (USA; d. Milton Katselas) as Ann Stanley
+**1973  40 Carats** (USA; d. Milton Katselas) as Ann Stanley<br>
 
-**1974  Scenes from a Marriage (Scener ur ett äktenskap)** (Sweden; d. Ingmar Bergman) as Marianne
+**1974  Scenes from a Marriage (Scener ur ett äktenskap)** (Sweden; d. Ingmar Bergman) as Marianne<br>
 
-**The Abdication** (UK; d. Anthony Harvey) as Queen Christina
+**The Abdication** (UK; d. Anthony Harvey) as Queen Christina<br>
 
-**1974** **Zandy’s Bride** (USA; d. Jan Troell) as Hannah Lund
+**1974** **Zandy’s Bride** (USA; d. Jan Troell) as Hannah Lund<br>
 
-**1975  Léonor** (France/Spain/Italy; d. Juan Buñuel) as Léonor
+**1975  Léonor** (France/Spain/Italy; d. Juan Buñuel) as Léonor<br>
 
-**Face to Face (Ansikte mot ansikte)** (Sweden; d. Ingmar Bergman) as  Dr Jenny Isaksson
+**Face to Face (Ansikte mot ansikte)** (Sweden; d. Ingmar Bergman) as  Dr Jenny Isaksson<br>
 
-**1977  The Serpent’s Egg (Das Schlangenei)** (West Germany/USA; d. Ingmar Bergman) as Manuela Rosenberg
+**1977  The Serpent’s Egg (Das Schlangenei)** (West Germany/USA; d. Ingmar Bergman) as Manuela Rosenberg<br>
 
-**A Bridge Too Far** (UK; d. Richard Attenborough) as Kate ter Horst
+**A Bridge Too Far** (UK; d. Richard Attenborough) as Kate ter Horst<br>
 
-**1978  Autumn Sonata (Herbstsonate)  **(West Germany; d. Ingmar Bergman) as Eva
+**1978  Autumn Sonata (Herbstsonate)  **(West Germany; d. Ingmar Bergman) as Eva<br>
 
-**1979  Players** (USA; d. Anthony Harvey)  as spectator [uncredited]
+**1979  Players** (USA; d. Anthony Harvey)  as spectator [uncredited]<br>
 
-**1980  Richard’s Things** (UK; d. Anthony Harvey) as Kate Morris
+**1980  Richard’s Things** (UK; d. Anthony Harvey) as Kate Morris<br>
 
-**1983  The Wild Duck** (Australia; d. Henri Safran) as Gina
+**1983  The Wild Duck** (Australia; d. Henri Safran) as Gina<br>
 
-**La Diagonale du fou** (Switzerland;  d. Richard Dembo) as Marina
+**La Diagonale du fou** (Switzerland;  d. Richard Dembo) as Marina<br>
 
 **Jacobo Timerman:** **Prisoner without a Name, Cell without a Number  
-**(USA; TV movie; d. Linda Yellen)  as Risha Timerman
+**(USA; TV movie; d. Linda Yellen)  as Risha Timerman<br>
 
-**Jenny** (Norway/West Germany; TV mini-  series; d. Per Bronken) as Jenny Winge
+**Jenny** (Norway/West Germany; TV mini-  series; d. Per Bronken) as Jenny Winge<br>
 
-**1984  The Bay Boy** (Canada/France;  d. Daniel Petrie) as Mrs Campbell
+**1984  The Bay Boy** (Canada/France;  d. Daniel Petrie) as Mrs Campbell<br>
 
-**1985  Speriamo che sia femmina** (Italy/France; d. Mario Monicelli) as Elena Leonardo
+**1985  Speriamo che sia femmina** (Italy/France; d. Mario Monicelli) as Elena Leonardo<br>
 
-**1987  Gaby – A True Story** (USA; d. Luis Mandoki) as Sari Brimmer
+**1987  Gaby – A True Story** (USA; d. Luis Mandoki) as Sari Brimmer<br>
 
-**Farewell Moscow (Mosca Addio)** (Italy; d. Mario Monicelli) as  Ida Nudel
+**Farewell Moscow (Mosca Addio)** (Italy; d. Mario Monicelli) as  Ida Nudel<br>
 
-**Gli Indifferenti** (Italy; TV movie;  d. Mario Monicelli) as Maria Grazia
+**Gli Indifferenti** (Italy; TV movie;  d. Mario Monicelli) as Maria Grazia<br>
 
-**1988  The Girlfriend (Die Freundin)** (Germany/Argentina; d. Jeanine Meerapfel) as Maria
+**1988  The Girlfriend (Die Freundin)** (Germany/Argentina; d. Jeanine Meerapfel) as Maria<br>
 
-**1990  The Rose Garden (Der Rosengarten)** (Germany/USA; d. Fons Rademakers) as Gabriele Schlüter-Freund
+**1990  The Rose Garden (Der Rosengarten)** (Germany/USA; d. Fons Rademakers) as Gabriele Schlüter-Freund<br>
 
-**Mindwalk** (Austria/Switzerland;  d. Bernt Capra) as Sonia Hoffman
+**Mindwalk** (Austria/Switzerland;  d. Bernt Capra) as Sonia Hoffman<br>
 
-**1991  The Ox (Oxen)** (Sweden/Denmark;  d. Sven Nykvist) as Maria
+**1991  The Ox (Oxen)** (Sweden/Denmark;  d. Sven Nykvist) as Maria<br>
 
-**The Long Shadow** (USA/Hungary/ Italy; d. Vilmos Zsigmond)  as Katherine
+**The Long Shadow** (USA/Hungary/ Italy; d. Vilmos Zsigmond)  as Katherine<br>
 
-**1993  Dreamplay (Drømspel)** (Norway/ Sweden; d. Unni Straume) as  ticket seller
+**1993  Dreamplay (Drømspel)** (Norway/ Sweden; d. Unni Straume) as  ticket seller<br>
 
-**1994  Zorn** (Sweden; d. Gunnar Hellström) as Emma Zorn
+**1994  Zorn** (Sweden; d. Gunnar Hellström) as Emma Zorn<br>
 
-**2003  Saraband** (Sweden/Denmark/ Norway/Italy/Finland; d. Ingmar Bergman) as Marianne
+**2003  Saraband** (Sweden/Denmark/ Norway/Italy/Finland; d. Ingmar Bergman) as Marianne<br>
 
-**2012  Two Lives (Zwei leben)** (Germany/ Norway; d. Georg Maas) as Åse
+**2012  Two Lives (Zwei leben)** (Germany/ Norway; d. Georg Maas) as Åse<br>
 
 **Films about Liv Ullmann**
 
-**1973  ‘Liv Ullmann’** episode of **Cinema  
-**(UK; d. Pauline Shaw)
+**1973  ‘Liv Ullmann’** episode of **Cinema  **(UK; d. Pauline Shaw)<br>
 
-**1977** segment of **Seven Portraits** (USA;  
-d.  Edvard Lieber)
+**1977** segment of **Seven Portraits** (USA;  d.  Edvard Lieber)<br>
 
-**A Look at Liv** (USA; d. Richard Kaplan)
+**A Look at Liv** (USA; d. Richard Kaplan)<br>
 
-**1998  Liv Ullmann: Scenes from a Life** (Norway; d. Edvard Hambro)
+**1998  Liv Ullmann: Scenes from a Life** (Norway; d. Edvard Hambro)<br>
+<br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTE5MjE5NV19
+eyJoaXN0b3J5IjpbMTAwNjYxNjk5OV19
 -->
