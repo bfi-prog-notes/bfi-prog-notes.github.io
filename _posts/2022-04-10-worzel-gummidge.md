@@ -16,10 +16,9 @@ The series was broadly a comedy of cake fights and falls into rivers with guest 
 
 Ending after four successful series, Worzel returned six years later in a New Zealand co-production, _Worzel Gummidge Down Under_ (Channel 4, 1987-89) but failed to catch the imagination as before, airing in a Sunday morning slot inaccessible to family audiences.  
 **Alistair McGown, BFI Screenonline, screenonline.org.uk**
-<br><
+<br><br>
 
-**WORZEL GUMMIDGE: Very Good, Worzel / The Jumbly Sale / The Return of Dolly Clothes-Peg**
-
+**WORZEL GUMMIDGE: Very Good, Worzel / The Jumbly Sale / The Return of Dolly Clothes-Peg**  
 _Director_: James Hill  
 _Production Company_: Southern Television  
 _Executive Producers_: Lewis Rudd, Al Burgess  
@@ -29,8 +28,7 @@ _Camera Operator_: Wolfgang Suschitzky
 _Editors_: Alan Waller, Roderic Cooke, Michael Hunt  
 _Designer_: Hazel Peiser
 
-_Cast:_
-
+**Cast**  
 Jon Pertwee _(Worzel Gummidge)_  
 Norman Bird _(Mr Braithwaite)_  
 Jeremy Austin _(John)_  
@@ -43,25 +41,21 @@ Hilary Mason _(Miss Fogg)_
 Beatrix Mackie _(Lady Partington)_  
 John Le Mesurier _(Baines)_  
 Clifford Parrish _(the vicar)_  
-Cherry Morris _(vicar’s wife)_
-
-Mike Berry _(Mr Peters)_
-
+Cherry Morris _(vicar’s wife)_  
+Mike Berry _(Mr Peters)_  
 Geoffrey Bayldon _(Crowman)_  
-Michael Ripper _(Mr Shepherd)_
-
+Michael Ripper _(Mr Shepherd)_  
 Ted Carroll _(Gypsy Joe)_  
 Norman Mitchell _(PC Parsons)_  
-Barbara Ashcroft _(Mrs Mountjoy)_
-
+Barbara Ashcroft _(Mrs Mountjoy)_  
 Lorraine Chase _(Dolly Clothes-Peg)_  
-Gordon Rollings _(postman)_
-
+Gordon Rollings _(postman)_  
 Dave Carter _(removal man)_
 
 ITV tx 1980-81
 
 Total running time: c130 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTA1NzAwXX0=
+eyJoaXN0b3J5IjpbNjgyODE1NTc4XX0=
 -->
