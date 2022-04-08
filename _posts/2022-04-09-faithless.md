@@ -8,7 +8,8 @@ categories: ['LIV ULLMANN - FACE TO FACE']
 tags: [Drama]
 metadata: 'Sweden-Norway-Finland-Italy-Germany 2000, 154 mins<br> Director: Liv Ullmann'
 pdf: '2022-04-09-faithless-intro.pdf'
----
+
+<![endif]--->
 
 _+ extended intro by Liv Ullmann_
 
@@ -29,13 +30,17 @@ Marianne’s luckless daughter Isabelle, to whom Ullmann claims to have devoted 
 It looks just as Bergman might have filmed it: formal, precise and demanding of its cast an astonishing surrender to a gallery of unflinching close-ups. Nothing in the camerawork is overstated, although every lighting change (gold to blue at the flick of a switch, ominous shadows when a window blind is lowered) is of calculated significance. When the camera moves, it’s with reluctance (in keeping with the mature Bergman’s dislike of tracking shots) but with exemplary relevance, as in the prowl around an apartment that ends up in the bedroom or the sudden retreat into the air above the writer as he recognises the full horror of what he’s done.
 
 If Ullmann has unquestionably appropriated from her years with Bergman (and Josephson) a magnificent empathy with her players, she is also rewardingly attentive to visual detail. Note, for instance, the framing of the hospital sequence, the deployment of sculptures in the lawyer’s office, or the timing of the ‘discovery’ as the lovers giggle helplessly in embarrassment and desperation. By design, the final Mozart theme plays to a halt during the end credits, not two shots earlier while the writer wanders towards the sea. It is the project, with all its ambiguities, that has been put to rest, not the troubled spirit that conceived it.<br>
+
 **Philip Strick, _Sight and Sound_, February 2001**<br>
 
 **FAITHLESS (TROLÖSA)**<br>
+
 _Director:_ Liv Ullmann  
 _©/Production Companies:_ Sveriges Television, Svensk Filmindustri  
 _Production Company:_ SVT Kanal 1 Drama  
-_In Co-operation with:_ SF Norge, Norsk Rikskringkasting, YLE, Classic Srl, RAI – Radiotelevisione Italiana, Zweites Deutsches Fernsehen  
+_In Co-operation with:_ SF Norge, Norsk Rikskringkasting, YLE, Classic Srl, 
+
+RAI – Radiotelevisione Italiana, Zweites Deutsches Fernsehen  
 _With the Support of:_ Svenska Filminstitutet, Nordisk Film- och TV-Fond  
 _Executive Producer:_ Maria Curman  
 _Producer:_ Kaj Larsen  
@@ -66,8 +71,13 @@ _Stand-by Prop Man:_ Rasmus Rasmusson
 _Prop Man Assistant:_ Per Eriksson  
 _Construction Co-ordinator:_ Love Malmsten  
 _Carpenters:_ Jerker Malmsten, Lars Görans Kask<br>
+
 _Painters:_ Teddy Holm, Per Johansson  
+<![if !supportLineBreakNewLine]>  
+<![endif]>
+
 _Upholsterer:_ Karin Sheppard<br>
+
 _Costume Designer:_ Inger Elvira Pehrsson  
 _Costume Assistant:_ Inger Eiserwall  
 _Costume Trainee:_ Einar Bjørge  
@@ -86,6 +96,7 @@ _Foley:_ Lars Klettner, Ulf Olausson
 _Publicity:_ Patrik Westman, Jan Erik Westman<br>
 
 **Cast**<br>
+
 Lena Endre _(Marianne Vogler)_  
 Erland Josephson _(Bergman)_  
 Krister Henriksson _(David)_  
@@ -102,6 +113,7 @@ Björn Granath _(Gustav)_
 Gertrud Stenung _(Martha)_<br>
 
 Sweden/Norway/Finland/Italy/Germany 2000©<br>
+
 154 mins<br>
 
 \* Uncredited
@@ -154,3 +166,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzA3NzA4Mzc1XX0=
+-->
