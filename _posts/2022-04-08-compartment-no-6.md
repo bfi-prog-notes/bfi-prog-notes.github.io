@@ -19,24 +19,19 @@ Her growing affection for Lyokha is based partly on drinking moonshine and partl
 Richard Linklater’s _Before Sunrise_ (1995). Lyokha and Laura prefer doing stuff: a stopover with a babushka friend of Lyokha’s, a lot of booze and a lot of horseplay. As for erotic charge, the film is quite chaste – one kiss, which doesn’t lead to anything. The real consummation of their relationship is a mad snowball fight in the middle of a blizzard. It’s almost as if they are a long-lost brother and sister – there’s that kinship again – rather than lovers; a strength of the film is that it presents that relationship as something just as precious.
 
 Kuosmanen – in only his second film – has created a rich emotional journey and a witty comic train movie. The humour is rooted in Borisov’s and Haarla’s note-perfect performances: Lyokha’s puzzlement at drinking champagne and not feeling any kick of alcohol, Laura exasperatedly telling Lyokha the Finnish for ‘I love you’ is ‘Go fuck yourself’. Laura and Lyokha may form a connection, but there will be no long-term relationship or yearly reunion. The film is too clear-eyed and smart to fob us off with romantic tosh. Sometimes a snowball fight is better than sex, and a moment of real empathy matters more than some 10,000-year-old rock carvings.  
-John Bleasdale, _Sight and Sound_, May 2022
+**John Bleasdale, _Sight and Sound_, May 2022**
+<br><br>
 
-<![endif]-->
-
-**COMPARTMENT NO. 6 (HYTTI NRO 6)**
-
+**COMPARTMENT NO. 6 (HYTTI NRO 6)**  
 _Directed by_: Juho Kuosmanen  
-©: AAMU Film Company, Achtung Panda!,  
-Amrion Productions, CTB Film Production  
+©: AAMU Film Company, Achtung Panda!,  Amrion Productions, CTB Film Production  
 _Production Company_: AAMU Film Company  
-_Co-production with_: Achtung Panda!,  
-Amrion Productions, CTB Film Production  
+_Co-production with_: Achtung Panda!,  Amrion Productions, CTB Film Production  
 _in co-production with_: Saarländischer Rundfunk  
 _in collaboration with_: YLE, ARTE  
 _Funded by_: Finnish Film Foundation, Eurimages, Russian Ministry of Culture, Estonian Film Institute, Nordisk Film- och TV-Fond, Medienboard Berlin Brandenburg, Cultural Endowment of Estonia, Creative Europe  
 _Presented by_: AAMU Film Company  
-_Written by_: Andris Feldmanis, Livia Ulman,  
-Juho Kuosmanen  
+_Written by_: Andris Feldmanis, Livia Ulman,  Juho Kuosmanen  
 _Russian Dialogues_: Ljuba Mulmenko  
 _Based on the novel by_: Rosa Liksom  
 _Director of Photography_: J-P Passi  
@@ -44,8 +39,7 @@ _Editor_: Jussi Rautaniemi
 _Production Designer_: Kari Kankaanpää  
 _Costume Designer_: Jaanus Vahtra
 
-_Cast:_
-
+**Cast**  
 Seidi Haarla _(Laura)_  
 Yuriy Borisov _(Lyokha)_  
 Dinara Drukarova _(Irina Mezhinskaya)_  
@@ -58,11 +52,11 @@ Adezhda Kulakova _(Nadia)_
 Denis Pyanov _(queue man)_  
 Polina Aug _(receptionist)_
 
-Finland/Germany/Estonia/Russia/Norway 2021©
-
+Finland/Germany/Estonia/Russia/Norway 2021©  
 108 mins
+<br><br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI0MTY2ODNdfQ==
+eyJoaXN0b3J5IjpbMTc2NTIyNDQ3OF19
 -->
