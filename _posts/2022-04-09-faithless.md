@@ -1,6 +1,4 @@
 
-<![endif]-->
-
 _+ extended intro by Liv Ullmann_
 
 The enigma that is _Faithless_ has been created by at least seven storytellers, none of whom can be trusted. At its simplest, the film consists of the fantasies of an ageing writer who constructs – perhaps from his remembered past – a quartet of recalcitrant fictions: three adults, one child, and their involvement in a series of misdemeanours, in particular an extra marital affair. Although of central concern, the child can be presumed an innocent bystander already garrulous with her own stories but also anxious to learn from example. This scenario offers a painful if open-ended meditation on the pleasures and perils of infidelity and its impact on the next generation. If this were all, the single and singularly unhelpful lesson _Faithless_ appears to offer would be that parents can only be relied on to indulge in strange behaviour which we seldom survive unscathed.
@@ -97,5 +95,5 @@ Sweden/Norway/Finland/Italy/Germany 2000©<br>
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDEzMjE3MTRdfQ==
+eyJoaXN0b3J5IjpbMTc3NTUwMDI0NV19
 -->
