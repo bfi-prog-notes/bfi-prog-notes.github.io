@@ -18,31 +18,26 @@ Mia Hansen-Løve’s _Bergman Island_ (2021) probing the mythology of
 creative coupledom.
 
 **Liv Ullmann on the mystery of performance**  
-I always felt that being an actor was humble, or not real, or whatever – I was ashamed if people knew I was an actor. Then I directed my first movie, _Sofie_ [1992]. There was a big close-up of [Karen-Lise Mynster as] Sofie. She was talking about being in love. And I was thinking to myself, ‘Try not to think what you would have done!’ And then I said, ‘Camera, go’ – and suddenly she was doing so much that I had never even thought of. Because actors are creative. And – this is the truth – it was the first time in my life that I was proud to be an actress. Because I saw that it didn’t come from make-believe, it came  
-from feeling.
+I always felt that being an actor was humble, or not real, or whatever – I was ashamed if people knew I was an actor. Then I directed my first movie, _Sofie_ [1992]. There was a big close-up of [Karen-Lise Mynster as] Sofie. She was talking about being in love. And I was thinking to myself, ‘Try not to think what you would have done!’ And then I said, ‘Camera, go’ – and suddenly she was doing so much that I had never even thought of. Because actors are creative. And – this is the truth – it was the first time in my life that I was proud to be an actress. Because I saw that it didn’t come from make-believe, it came  from feeling.
 
 A film I did with Ingmar, _The Passion of Anna_ (1969) – my character has lost her husband and boy in a traffic accident; she was driving the car. And Ingmar never goes into what you are thinking – the words are there, and the words are tremendously important to him, but he allows your fantasy and your inner life to be very much part of it also. I had a long monologue talking about the accident. He said, ‘You know, when she’s talking about the accident – she’s a murderer.’ And I said, ‘No!’ It was the first time I’d protested. I was like Ingrid Bergman – I said, ‘I can’t do that; I can’t be a murderer!’ He said, ‘Well, do it your way. But when you are describing the accident, just take a pause and think about what you’re going to say.’
 
 The camera rolls, and I say, ‘I had this wonderful, wonderful marriage, and then this accident happened.’ And I took the pause. And I took another pause, and thought about what I was saying, and I started to say it: ‘…while we were driving, my husband was telling me that he wanted to leave me, and take my son with him, and I drove and drove, and I saw a lot of stones in front of me, and I drove right into the stones...’ Suddenly the stones were there. Suddenly, she was a murderer. With this genius little thing – ‘Think about what you’re saying’ – I did it like I had killed them on purpose, which I had never planned  
 to do.
 
-That explains why Ingmar was always working with the same people. I don’t mean it was just us certain ones – if he’d been in LA or in Germany, other people would have done it – but he knew he needed that kind of actor. It comes from somewhere within. I saw today, there was a little girl in a bomb shelter, in the horrible war that’s going on, and she was singing – I’m sure you will see it. That was so real. I believe that in golden moments, that’s what an actor can do.
+That explains why Ingmar was always working with the same people. I don’t mean it was just us certain ones – if he’d been in LA or in Germany, other people would have done it – but he knew he needed that kind of actor. It comes from somewhere within. I saw today, there was a little girl in a bomb shelter, in the horrible war that’s going on, and she was singing – I’m sure you will see it. That was so real. I believe that in golden moments, that’s what an actor can do.  
+**Article and interview by Hannah McGill, _Sight and Sound_, May 2022**
+<br><br>
 
-Article and interview by Hannah McGill, _Sight and Sound_, May 2022
-
-<![endif]-->
-
-**Liv Ullmann**
+**LIV ULLMANN**
 
 Born in Tokyo, Japan
 
 **As director**
 
-**1982** episode **‘Parting’** in **Love** (Canada)  
-**+ scr**
+**1982** episode **‘Parting’** in **Love** (Canada) **+ scr**
 
-**1992  Sofie** (Norway/Sweden/Denmark)  
-**+ co-scr**
+**1992  Sofie** (Norway/Sweden/Denmark)  **+ co-scr**
 
 **1995  Kristin Lavransdatter** (Sweden/Norway/Germany) **+ scr**
 
@@ -56,13 +51,11 @@ Born in Tokyo, Japan
 
 **As actor**
 
-**1957  Fjols til fjells** (Norway;  
-d. Edith Carlmar) as hotel guest
+**1957  Fjols til fjells** (Norway;  d. Edith Carlmar) as hotel guest
 
 **1959  Ung flukt** (Norway; d. Edith Carlmar) as Gerd
 
-**1962  Kort är sommaren** (Sweden;  
-d. Bjarne Henning-Jensen) as Eva
+**1962  Kort är sommaren** (Sweden;  d. Bjarne Henning-Jensen) as Eva
 
 **Tonny** (Norway; d. Nils R. Müller)  
 as Kari
@@ -181,5 +174,5 @@ d.  Edvard Lieber)
 
 **1998  Liv Ullmann: Scenes from a Life** (Norway; d. Edvard Hambro)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjgzMTQ4OF19
+eyJoaXN0b3J5IjpbMTUzODAxNjMxN119
 -->
