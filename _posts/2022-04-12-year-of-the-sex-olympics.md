@@ -23,73 +23,41 @@ There are echoes in this primitive language of Orwell’s Newspeak, intended to 
 The play was lost for 30 years, the original colour tapes wiped; by all accounts, the black-and-white version that survives doesn’t give a fair impression of the visual richness of Michael Elliott’s production – the critic Nancy Banks-Smith wrote at the time: ‘If you didn’t see it in colour, you didn’t really see it.’
 
 As a prophecy of reality TV, and more generally of a screenbound culture,  
-_The Year of the Sex Olympics_ remains impressive; as a drama that engages feeling, its success is more equivocal. There are notable performances – Rossiter, naturally, as the only character who has any kind of perspective, any grasp of why things are as they are, but who is perhaps less cunning than he imagines; likewise, Cox is predictably on top of his part, making Lasar a little too shifty and pleased with himself to be entirely charming: Cox was evidently already en route to becoming Hollywood’s go-to guy for self-serving Machiavellians, in the Jason Bourne and X-Men franchises. The revelation is Turner’s superb Misch, hinting that she’s much less airheaded than she plays. It’s a pity Vogel has trouble negotiating between Nat’s different moods – he’s plausible to begin with, as thrusting TV exec, but when Nat’s ambivalence emerges that persona seems to get dumped rather than inflected, and he seems merely dumb. He does cope well with the play’s most affecting moment, though – outside, on the island, with his daughter Keten, he wants to tell her he loves her, but doesn’t know the word: instead, he can only convey his weight of feeling by repeating again and again, ‘I like you. I like you. I like you. I like you.’ Orwell, you feel, must have got it wrong: without the words, the feelings don’t die; they just get harder to bear.
+_The Year of the Sex Olympics_ remains impressive; as a drama that engages feeling, its success is more equivocal. There are notable performances – Rossiter, naturally, as the only character who has any kind of perspective, any grasp of why things are as they are, but who is perhaps less cunning than he imagines; likewise, Cox is predictably on top of his part, making Lasar a little too shifty and pleased with himself to be entirely charming: Cox was evidently already en route to becoming Hollywood’s go-to guy for self-serving Machiavellians, in the Jason Bourne and X-Men franchises. The revelation is Turner’s superb Misch, hinting that she’s much less airheaded than she plays. It’s a pity Vogel has trouble negotiating between Nat’s different moods – he’s plausible to begin with, as thrusting TV exec, but when Nat’s ambivalence emerges that persona seems to get dumped rather than inflected, and he seems merely dumb. He does cope well with the play’s most affecting moment, though – outside, on the island, with his daughter Keten, he wants to tell her he loves her, but doesn’t know the word: instead, he can only convey his weight of feeling by repeating again and again, ‘I like you. I like you. I like you. I like you.’ Orwell, you feel, must have got it wrong: without the words, the feelings don’t die; they just get harder to bear.<br>
+**Robert Hanks, _Sight & Sound_, Summer 2020**<br>
 
-**Robert Hanks, _Sight & Sound_, Summer 2020**
+**THE YEAR OF THE SEX OLYMPICS**<br>
+_Directed by:_ Michael Elliott<br>
+_Production Company:_ BBC<br>
+_Producer:_ Ronald Travers<br>
+_Story Editor:_ James Brabazon<br>
+_Written By:_ Nigel Kneale<br>
+_Film Cameraman:_ Peter Hall<br>
+_Lighting:_ Sam Barclay<br>
+_Film Editor:_ David Taylor<br>
+_Designer:_ Roger Andrews<br>
+_Costumes:_ Joyce Hammond<br>
+_Make-up:_ Pamela Burns<br>
+_Sound:_ Derek Miller-Timmins<br>
+_Custard pie fight arranged by:_ Trevor Peacock<br>
 
-**THE YEAR OF THE SEX OLYMPICS**
+**Cast**<br>
+Leonard Rossiter _(Co-ordinator Ugo Priest)_<br>
+Suzanne Neve _(Deanie Webb)_<br>
+Tony Vogel _(Nat Mender)_<br>
+Brian Cox _(Laser Opie)_<br>
+Vickery Turner _(Misch)_<br>
+George Murcell _(Grels)_<br>
+Martin Potter _(Kin Hodder)_<br>
+Lesley Roach _(Keten Webb)_<br>
+Hira Talfrey _(Betty)_<br>
+Patricia Maynard _(nurse)_<br>
+Trevor Peacock, Brian Coburn, Derek Fowlds, Wolfe Morris, Braham Murray, Job Stewart _(custard pie experts)_<br>
+Sheila Sands _(Artsex girl)_<br>
 
-_Directed by:_ Michael Elliott
-
-_Production Company:_ BBC
-
-_Producer:_ Ronald Travers
-
-_Story Editor:_ James Brabazon
-
-_Written By:_ Nigel Kneale
-
-_Film Cameraman:_ Peter Hall
-
-_Lighting:_ Sam Barclay
-
-_Film Editor:_ David Taylor
-
-_Designer:_ Roger Andrews
-
-_Costumes:_ Joyce Hammond
-
-_Make-up:_ Pamela Burns
-
-_Sound:_ Derek Miller-Timmins
-
-_Custard pie fight arranged by:_ Trevor Peacock
-
-**Cast**
-
-Leonard Rossiter _(Co-ordinator Ugo Priest)_
-
-Suzanne Neve _(Deanie Webb)_
-
-Tony Vogel _(Nat Mender)_
-
-Brian Cox _(Laser Opie)_
-
-Vickery Turner _(Misch)_
-
-George Murcell _(Grels)_
-
-Martin Potter _(Kin Hodder)_
-
-Lesley Roach _(Keten Webb)_
-
-Hira Talfrey _(Betty)_
-
-Patricia Maynard _(nurse)_
-
-Trevor Peacock, Brian Coburn,
-
-Derek Fowlds, Wolfe Morris, Braham Murray, Job Stewart
-
-_(custard pie experts)_
-
-Sheila Sands _(Artsex girl)_
-
-UK 1968
-
-BBC2 tx 29.7.1968
-
-105 mins
+UK 1968<br>
+BBC2 tx 29.7.1968<br>
+105 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzU3MTgyM119
+eyJoaXN0b3J5IjpbMTAzMTgwMTc4N119
 -->
