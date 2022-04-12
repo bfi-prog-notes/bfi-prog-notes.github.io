@@ -2,7 +2,7 @@
 layout: post
 title: Scenes from a Marriage
 published: true
-date: 2022-04-109
+date: 2022-04-10
 readtime: true
 categories: ['LIV ULLMANN - FACE TO FACE']
 tags: [Drama]
