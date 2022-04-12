@@ -35,39 +35,26 @@ I felt the position of a lesbian woman in 1625 was more important than her looki
 
 _I’m sorry to hear that you and Gerard have parted ways, it was such a strong and long collaboration. So, there is still a lot of Gerard’s work in the finished script?_
 
-Absolutely. My additions to the screenplay of _Benedetta_ are perhaps ten or 15 per cent, basically, but Gerard’s participation I think is 50 or 60 per cent. But he didn’t want his name there. You can see his work in the smallest details, all kinds of stuff. For example, when Bartolomea makes the dildo, and then Virginie says, ‘It’s a bit sharp.’ Bartolomea replies, ‘I will fix it. You take your clothes over there,’ that’s Gerard. Even that kind of detail. I think it was really strange, and a pity. A pity, because I think his name should have been there [in the credits]. But yeah,  
-that’s life.
+Absolutely. My additions to the screenplay of _Benedetta_ are perhaps ten or 15 per cent, basically, but Gerard’s participation I think is 50 or 60 per cent. But he didn’t want his name there. You can see his work in the smallest details, all kinds of stuff. For example, when Bartolomea makes the dildo, and then Virginie says, ‘It’s a bit sharp.’ Bartolomea replies, ‘I will fix it. You take your clothes over there,’ that’s Gerard. Even that kind of detail. I think it was really strange, and a pity. A pity, because I think his name should have been there [in the credits]. But yeah,  that’s life.  
+**_Sight and Sound_, May 2022**
+<br><br>
 
-_Sight and Sound_, May 2022
-
-<![endif]-->
-
-**BENEDETTA**
-
+**BENEDETTA**  
 _Directed by_: Paul Verhoeven  
-©: SBS Productions, Pathé Films,  
-France 2 Cinéma, France 3 Cinéma  
+©: SBS Productions, Pathé Films,  France 2 Cinéma, France 3 Cinéma  
 _Production Companies_: SBS Productions, Pathé  
-_In co-production with_: France 2 Cinéma,  
-France 3 Cinéma, Topkapi Films, Belga Films  
-_With the participation of_: Canal+, Ciné+,  
-France Télévisions  
+_In co-production with_: France 2 Cinéma,  France 3 Cinéma, Topkapi Films, Belga Films  
+_With the participation of_: Canal+, Ciné+,  France Télévisions  
 _In association with_: Cinémage 13, Cofimage 30, Cofinova 15, Indéfilms 7, Palatine Etoile 16  
-_With the support of_:  
-La région Provence-Alpes-Côte d’Azur  
+_With the support of_:  La région Provence-Alpes-Côte d’Azur  
 _In partnership with the_: CNC  
-_With the support of_:  
-Le Centre National du Cinéma et de l’Image Animée  
-_With the support of the_: Netherlands Film Fund,  
-Tax Shelter of the Federal Belgian Government  
+_With the support of_:  Le Centre National du Cinéma et de l’Image Animée  
+_With the support of the_: Netherlands Film Fund,  Tax Shelter of the Federal Belgian Government  
 _Via_: Belga Films Fund  
-_With the support of_:  
-Ministero per i Beni e le Attività Culturali, MiBACT, Regione Lazio  
+_With the support of_:  Ministero per i Beni e le Attività Culturali, MiBACT, Regione Lazio  
 _International Sales_: Pathé International  
-_Executive Producers (for Urania Pictures)_:  
-Laurentina Guidotti, Conchita Airoldi  
-_Produced by_: Saïd Ben Saïd, Michel Merkt,  
-Jérôme Seydoux  
+_Executive Producers (for Urania Pictures)_:  Laurentina Guidotti, Conchita Airoldi  
+_Produced by_: Saïd Ben Saïd, Michel Merkt,  Jérôme Seydoux  
 _Production Manager_: Olivier Hélie  
 _Production Manager (Italian Crew)_: Claudio Vecchio  
 _Production Co-ordinator_: Clémence Nevot  
@@ -78,16 +65,12 @@ _Script Supervisor_: Bénédicte Darblay
 _Casting_: Stéphane Batut  
 _Screenplay by_: David Birke, Paul Verhoeven  
 _Screenplay Collaboration_: Pascal Bonitzer  
-_Based on the book_ Immodest Acts _by_:  
-Judith C. Brown  
-_Translation of the Screenplay into French_:  
-Marc Amfreville  
+_Based on the book_ Immodest Acts _by_:  Judith C. Brown  
+_Translation of the Screenplay into French_:  Marc Amfreville  
 _Director of Photography_: Jeanne Lapoirie  
 _B Camera Operator_: Antoine Struyf  
-_Visual Effects_:  
-Compagnie Générale des Effets Visuels  
-_Special Effects (Italian Crew)_: Paolo Galiano,  
-Bruno Falconi  
+_Visual Effects_:  Compagnie Générale des Effets Visuels  
+_Special Effects (Italian Crew)_: Paolo Galiano,  Bruno Falconi  
 _Editing_: Job ter Burg  
 _Additional Editor_: Peter Alderliesten  
 _Production Designer_: Katia Wyszkop  
@@ -109,8 +92,7 @@ _Sound Mixing_: Cyril Holtz, Damien Lazzerini
 _Stunt Co-ordinator_: Manu Lanzi  
 _Stunt Co-ordinator (Italian Crew)_: Marco Stefanelli
 
-_Cast:_
-
+**Cast**  
 Virginie Efira _(Sister Benedetta Carlini)_  
 Charlotte Rampling _(Sister Felicita, abbess)_  
 Daphné Patakia _(Bartolomea)_  
@@ -122,11 +104,11 @@ Guilaine Londez _(Sister Jacopa)_
 David Clavel _(Giuliano Carlini)_  
 Clotilde Courau _(Midea Carlini)_
 
-France/Netherlands/Belgium 2020©
-
+France/Netherlands/Belgium 2020©  
 131 mins
 
 Courtesy of MUBI
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Njg4MDM0OV19
+eyJoaXN0b3J5IjpbLTc1NzI4NzI4XX0=
 -->
