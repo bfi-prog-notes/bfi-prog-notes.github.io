@@ -1,9 +1,18 @@
-
+---
+layout: post
+title: Benedetta
+published: true
+date: 2022-04-13
+readtime: true
+categories: ['PREVIEW']
+tags: [Drama, Period]
+metadata: 'France/Netherlands/Belgium 2020, 131 mins<br> Director: Paul Verhoeven'
+pdf: '2022-04-13-benedetta.pdf'
+---
 
 **Paul Verhoeven interviewed by Kleber Mendonça Filho**
 
-_When I visited the_ Benedetta _shoot almost four years ago in Italy, on a very hot day, the scene I saw being shot was part of the insurrection at the end of the film.  
-And when I finally saw the film, it felt right to see that revolution, it feels timely._ Benedetta _also felt quite sharp in a number of ways._
+_When I visited the_ Benedetta _shoot almost four years ago in Italy, on a very hot day, the scene I saw being shot was part of the insurrection at the end of the film.  And when I finally saw the film, it felt right to see that revolution, it feels timely._ Benedetta _also felt quite sharp in a number of ways._
 
 Well, basically there is – let’s say – a 6th of January kind of feeling in the revolution at the end, isn’t there? But again, when we did it, we based it on certain things that had happened in the 17th century. Although the revolution at the end, that is really not part of the real historical Benedetta narrative. In the book by Judith C. Brown [_Immodest Acts_], there is no revolution. We added that because we felt we needed something that was really explosive at the end. The rest of the narrative in _Benedetta_ is pretty close to what we know historically about her, which was all found by Judith Brown in the 80s in the archives of Florence. So we used the book really in an abundant way, but added a couple of things like the revolution to make it a movie.
 
@@ -109,6 +118,23 @@ France/Netherlands/Belgium 2020©
 
 Courtesy of MUBI
 <br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTc1NzI4NzI4XX0=
 -->
