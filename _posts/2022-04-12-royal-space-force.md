@@ -30,7 +30,7 @@ On a technical level, _Honneamise_ rates with the best Japanese animation, incli
 **Kim Newman, _Sight & Sound_, December 1994**<br>
 
 **ROYAL SPACE FORCE: THE WINGS OF HONNEAMISE**<br>
-_Director_: Hiroyuki Yamaga<br>
+_Director_: Hiroyuki Yamaga  <br>
 _Production Companies_: Manga Entertainment, Heolo, Animaze  
 _Executive Producers_: Toshio Okada, Shigeru Watanabe  
 _Producers_: Hirohiko Sueyoshi, Hiroaki Inoue  
@@ -121,3 +121,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA4NjAxMTA3Ml19
+-->
