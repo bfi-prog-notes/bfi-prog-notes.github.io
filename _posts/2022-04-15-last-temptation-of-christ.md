@@ -54,27 +54,21 @@ I thought for one second I wasn’t gonna make it. But I did it I did it I did i
 **Richard Corliss interviewing Martin Scorsese**
 <br><br>
 
-**THE LAST TEMPTATION OF CHRIST**
-
+**THE LAST TEMPTATION OF CHRIST**  
 _Director_: Martin Scorsese  
-_Production Companies_: Universal Pictures,
-
-Cineplex Odeon Films  
+_Production Companies_: Universal Pictures, Cineplex Odeon Films  
 _Executive Producer_: Harry Ufland  
 _Producer_: Barbara De Fina  
 _Unit Manager_: Marco Valerio Pugini  
 _Production Accountant_: Paolo Piria  
-_Location Managers_: Antonio Gabrielli,  
-Ahmed Darif  
-_1st Assistant Directors_: Joseph Reidy,  
-Fabio Jephcott, Ahmed Hatimi  
+_Location Managers_: Antonio Gabrielli,  Ahmed Darif  
+_1st Assistant Directors_: Joseph Reidy,  Fabio Jephcott, Ahmed Hatimi  
 _Script Supervisor_: Rachel Griffiths  
 _Casting_: Cis Corman  
 _Screenplay_: Paul Schrader  
 _Based on the novel by_: Nikos Kazantzakis  
 _Director of Photography_: Michael Ballhaus  
-_2nd Camera Operators_: David Slama,  
-David Dunlap  
+_2nd Camera Operators_: David Slama,  David Dunlap  
 _Gaffer_: Mario Schiavone  
 _Key Grip_: Sergio Serantoni  
 _Stills Photography_: Mario Tursi  
@@ -83,12 +77,10 @@ _Editor_: Thelma Schoonmaker
 _Production Designer_: John Beard  
 _Art Director_: Andrew Sanders  
 _Costume Designer_: Jean-Pierre Delifer  
-_Make-up Supervisors_: Manlio Rocchetti,  
-Luigi Rocchetti, Mario Michisanti, Maurizio Silvi  
+_Make-up Supervisors_: Manlio Rocchetti,  Luigi Rocchetti, Mario Michisanti, Maurizio Silvi  
 _Hair Supervisor_: Aldo Signoretti  
 _Title Design_: Lon Kirschner, Joe Caroff  
-_Music_: Peter Gabriel
-
+_Music_: Peter Gabriel  
 _Music Supervisor_: Todd Kasow  
 _Folk Music Research_: Lucy Duran  
 _Choreography_: Lahcen Zinoune  
@@ -96,14 +88,13 @@ _Recordist_: Douglas L. Murray
 _Sound Mixer_: Amelio Verona  
 _Boom Operator_: Aldo De Martini  
 _Re-recording Mixer_: Tom Fleischman  
-_Supervising Sound Editors_: Skip Lievsay,  
-Phillip Stockton  
+_Supervising Sound Editors_: Skip Lievsay,  Phillip Stockton  
 _ADR Editors_: Marc Shaw, Lisa Levine  
 _Foley Artist_: Ron Bochar  
 _Stunt Co-ordinator_: Franco Salamon  
 _Special Thanks_: Boris Leven, Leo Marks
 
-_Cast:_  
+**Cast**  
 Willem Dafoe _(Jesus Christ)_  
 Harvey Keitel _(Judas Iscariot)_  
 Barbara Hershey _(Mary Magdalene)_  
@@ -128,8 +119,7 @@ André Gregory _(John the Baptist)_
 Peggy Gormley _(Martha, sister of Lazarus)_  
 Randy Danson _(Mary, sister of Lazarus)_  
 Robert Spafford _(man at wedding)_  
-Doris von Thury  
-_(woman with Mary, mother of Jesus)_  
+Doris von Thury  _(woman with Mary, mother of Jesus)_  
 Tomas Arana _(Lazarus)_  
 Alan Rosenberg _(Thomas apostle)_  
 Del Russel _(money changer)_  
@@ -138,9 +128,9 @@ Donald Hodson _(Saducee)_
 Peter Berling _(beggar)_  
 Juliette Caton _(girl angel)_
 
-USA 1988
-
+USA 1988  
 164 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDcxNTgyMzFdfQ==
+eyJoaXN0b3J5IjpbLTEwMDAzMjA0NjddfQ==
 -->
