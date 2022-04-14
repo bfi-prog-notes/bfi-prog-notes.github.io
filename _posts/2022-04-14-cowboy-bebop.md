@@ -1,9 +1,7 @@
 
-<![endif]-->
 
-It’s 2071 and Earth has been abandoned for settlements on different moons and planets in the solar system. The spaceship Bepop is home to a group of bounty hunters who are seeking a terrorist threatening to wipe out the population on Mars using a deadly pathogen. This feature version of the successful anime TV series uses live-action camera angles to elevate the animation, and features a cracking score by Yoko Kanno (performed by her band Seatbelts).
-
-**bfi.org.uk**
+It’s 2071 and Earth has been abandoned for settlements on different moons and planets in the solar system. The spaceship Bepop is home to a group of bounty hunters who are seeking a terrorist threatening to wipe out the population on Mars using a deadly pathogen. This feature version of the successful anime TV series uses live-action camera angles to elevate the animation, and features a cracking score by Yoko Kanno (performed by her band Seatbelts).  
+**bfi.org.uk**  
 
 Created as a side-story from a Japanese television cartoon of the same name (screened in the UK on the digital channel CNX), _Cowboy Bebop_ remains accessible to newcomers: though set in a future replete with sci-fi hardware, it’s essentially a hard-boiled detective thriller in animated form. The rather meandering mystery is punctuated with satisfyingly meaty fights and a sprinkling of existential angst, the whole held together by the lanky central figure of Spike, a ‘cowboy’ bounty hunter whose narcoleptic languor and stork-like gait give way to lightning speed and savagery in the main set pieces. Spike brings to mind any number of American gumshoes, but the character also recalls the adventurer-cum-thief Lupin III, a hero of Japanese comics and cartoons, himself partly based on James Bond.
 
@@ -13,7 +11,8 @@ There’s also the suggestion of a link between the film’s cartoon form and it
 
 Vincent is redeemed by recognising the girl he once loved and it’s suggested the same might be true of Spike, who insists he’s ‘just a bounty hunter’ exempt from responsibility, but is still prompted to reminisce about the girl who gave him life and the fear of death. If this sounds corny on page, it feels less so in the mouth of an iconic _anime_ character.
 
-The pace is diluted by extraneous scenes featuring the supporting cast, presumably to satisfy fans of the original series. The film also follows the tendency of other Japanese cartoons by creating redundant action scenes with impersonal sci-fi vehicles, often as tedious as the CG monsters in live-action pictures. Despite this, _Cowboy Bebop_ succeeds as a stylish, enjoyable blend of genres and formats. (The director Shinichiro Watanabe also worked on the high-quality Japanese animations _Escaflowne_ and Macross Plus, both available in the UK on DVD.) It also offers the opportunity to hear music by Yoko Kanno, the most celebrated composer in Japanese animation, though her work here lacks the polymath eclecticism of her best scores. Like the film itself, it’s polished rather than ground breaking, and there’s none of the jazz bebop of the title.  **Andrew Osmond, _Sight & Sound_, September 2003**
+The pace is diluted by extraneous scenes featuring the supporting cast, presumably to satisfy fans of the original series. The film also follows the tendency of other Japanese cartoons by creating redundant action scenes with impersonal sci-fi vehicles, often as tedious as the CG monsters in live-action pictures. Despite this, _Cowboy Bebop_ succeeds as a stylish, enjoyable blend of genres and formats. (The director Shinichiro Watanabe also worked on the high-quality Japanese animations _Escaflowne_ and Macross Plus, both available in the UK on DVD.) It also offers the opportunity to hear music by Yoko Kanno, the most celebrated composer in Japanese animation, though her work here lacks the polymath eclecticism of her best scores. Like the film itself, it’s polished rather than ground breaking, and there’s none of the jazz bebop of the title.  
+**Andrew Osmond, _Sight & Sound_, September 2003**  
 
 **COWBOY BEBOP: THE MOVIE**  
 **(COWBOY BEBOP: TENGOKU NO TOBIRA)**  
@@ -104,5 +103,5 @@ Tsutomu Isobe _(Vincent)_
 Japan 2001  
 115 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzIyMTUxOV19
+eyJoaXN0b3J5IjpbLTE4OTg2NDM4NzZdfQ==
 -->
