@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Emigrants
+published: true
+date: 2022-04-16
+readtime: true
+categories: ['LIV ULLMANN - FACE TO FACE']
+tags: [Drama, Period]
+metadata: 'Sweden 1971, 191 mins<br> Director: Jan Troell'
+pdf: '2022-04-16-emigrants.pdf'
+---
 _+ pre-recorded intro by Sarah Lutton, season programmer_
 
 Lots of films purport to show us what the past was like. Jan Troell’s magnum opus invites us to live there, so all-encompassing is its investment in the lives of its brave souls, who leave 1840s Sweden to make a fresh start in Minnesota’s wide-open territory.
@@ -67,6 +77,51 @@ Ditte Martinsson, Lasse Martinsson, Pelle Martinsson, Annika Nyhammar, Yvonne Op
 
 Sweden 1971<br>
 191 mins + intermission<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjYyNTc3NV19
--->
+
+**LIV ULLMANN: FACE TO FACE**<br>
+**The Wayward Girl (Ung flukt)**<br>
+Mon 28 Mar 18:10 (+ pre-recorded intro by Invisible Women, Archive Activists); Thu 21 Apr 18:20 (+ intro by Anna Smith, film critic and broadcaster)<br>
+**Persona**<br>
+Tue 29 Mar 14:30; Wed 30 Mar 20:50 (+ intro by Tricia Tuttle, BFI Festivals Director); Fri 8 Apr 20:40 (+ intro by Liv Ullmann); Sun 17 Apr 18:40; Mon 25 Apr 20:50<br>
+**Autumn Sonata (Höstsonaten)**<br>
+Sat 2 Apr 20:45; Sat 9 Apr 12:10 (+ Q&A with Liv Ullmann); Mon 18 Apr 18:20; Tue 26 Apr 18:10 (+ extended intro by Melanie Iredale, Director, Birds’ Eye View)<br>
+**Shame (Skammen)**<br>
+Tue 5 Apr 20:45 (+ intro by Catharine Des Forges, Director, Independent Cinema Office); Wed 13 Apr 18:10; Wed 27 Apr 18:00<br>
+**The Passion of Anna (En passion)**<br>
+Thu 7 Apr 18:15; Thu 14 Apr 18:10 (+ intro by Geoff Andrew, Programmer at Large); Sat 23 Apr 14:20<br>
+**Faithless (Trolösa)**<br>
+Sat 9 Apr 18:15 (+ extended intro by Liv Ullmann); Sat 23 Apr 16:40 (+ intro by Nellie Alston, freelance programmer and member of T A P E Collective); Wed 27 Apr 20:00<br>
+**Scenes from a Marriage (Scener ur ett äktenskap)**<br>
+Sun 10 Apr 17:40; Sat 30 Apr 17:15<br>
+**An-Magritt**<br>
+Tue 12 Apr 20:40; Wed 20 Apr 18:20<br>
+**The Emigrants (Utvandrarna)**<br>
+Sat 16 Apr 14:10 (+ intro by Sarah Lutton, season programmer); Sun 24 Apr 13:45<br>
+**The New Land (Nybyggarna)**<br>
+Sat 16 Apr 18:50; Sat 30 Apr 12:40<br>
+**Face to Face (Ansikte mot ansikte) + intro by Sarah Lutton, season programmer**<br>
+Sun 17 Apr 14:15<br>
+**Saraband**<br>
+Tue 19 Apr 18:20; Sat 30 Apr 20:50<br>
+**Miss Julie**<br>
+Sun 24 Apr 17:50; Fri 29 Apr 20:20 (+ intro by Elaine Wong, short film programmer, BFI London Film Festival)<br>
+
+**In cultural partnership with**<br><br>
+<img style="float: left;" src="/img/norwegian embassy.png" width="30%" height="30%"><br><br>
+<img style="float: left;" src="/img/embassy of sweden.jpg" width="30%" height="30%">
+<br><br><br><br><br>
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
