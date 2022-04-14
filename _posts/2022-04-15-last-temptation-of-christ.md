@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Last Temptation of Christ
+published: true
+date: 2022-04-15
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Biblical]
+metadata: 'USA 1988, 164 mins<br> Director: Martin Scorsese'
+pdf: '2022-04-15-last-temptation-of-christ.pdf'
+---
 
 **Scorsese on ‘The Last Temptation of Christ’**
 
@@ -16,15 +26,13 @@ I never thought I could make a movie like this for a place like Universal. They 
 
 _Maybe they fought harder because of the charge that the film would fan the flames  of antisemitism._
 
-Of all the things that come out: antisemitic! I was totally shocked by this turn.  
-I couldn’t believe it. I mean, if they have problems with a businessman trying to make money, then he’s a ‘businessman’! He’s not ‘Jewish’. It’s disgusting. Obviously it just shows them for what they are. And even Rev. Hymers later apologised for his tactics.
+Of all the things that come out: antisemitic! I was totally shocked by this turn.  I couldn’t believe it. I mean, if they have problems with a businessman trying to make money, then he’s a ‘businessman’! He’s not ‘Jewish’. It’s disgusting. Obviously it just shows them for what they are. And even Rev. Hymers later apologised for his tactics.
 
 But the whole point of the movie is that nobody is to blame, not even the Romans. It’s all part of the plan. Otherwise, it’s insane. I mean, the Jewish people give us God, and we persecute them for 2,000 years for it!
 
 _At least the controversy helped bring your film to a wider audience._
 
-I do hope the controversy doesn’t keep this movie from being shown on cable.  
-When even Bravo, the very best cable channel, buckles under to 30 or 40 protest letters and withdraws Godard’s _Hail Mary_ from its schedule, you have to be concerned about the life of your movie. You have to be concerned about a lot of things when that happens.
+I do hope the controversy doesn’t keep this movie from being shown on cable.  When even Bravo, the very best cable channel, buckles under to 30 or 40 protest letters and withdraws Godard’s _Hail Mary_ from its schedule, you have to be concerned about the life of your movie. You have to be concerned about a lot of things when that happens.
 
 _Answer a few points of contention, if you will. Some people, seeing the early scene in Mary Magdalene’s brothel, think that Jesus is watching Magdalene perform in a  
 sex show._
@@ -131,6 +139,59 @@ Juliette Caton _(girl angel)_
 USA 1988  
 164 mins
 <br><br>
+
+**BIG SCREEN CLASSICS**<br>
+**Léon Morin, prêtre (Léon Morin, Priest)**<br>
+Mon 28 Mar 17:50; Thu 7 Apr 20:40;  Sun 24 Apr 12:00<br>
+**Lourdes**<br>
+Tue 29 Mar 20:50; Thu 7 Apr 18:10;  Wed 20 Apr 20:50<br>
+**Ordet (The Word)**<br>
+Wed 30 Mar 17:45 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 10 Apr 15:30;  Fri 15 Apr 18:10; Sat 23 Apr 11:50<br>
+**Black Narcissus**<br>
+Thu 31 Mar 21:00; Tue 12 Apr 20:45;  Tue 19 Apr 18:10; Sat 30 Apr 15:00<br>
+**Babette’s Feast (Babettes Gaestebud)**<br>
+Fri 1 Apr 18:10; Sun 10 Apr 12:10;  Sat 16 Apr 12:20; Tue 26 Apr 20:50<br>
+**Aguirre, Wrath of God (Aguirre, der Zorn Gottes)**<br>
+Sat 2 Apr 20:40; Fri 8 Apr 18:15; Tue 19 Apr 20:50; Mon 25 Apr 18:10<br>
+**The Seventh Seal (Det Sjunde Inseglet)**<br>
+Sun 3 Apr 15:20; Mon 18 Apr 15:20;  Fri 22 Apr 20:50<br>
+**The Miracle Woman**<br>
+Mon 4 Apr 18:20; Fri 15 Apr 20:50;  Thu 28 Apr 18:10; Fri 29 Apr 18:10<br>
+**Stalker**<br>
+Tue 5 Apr 20:00; Sat 9 Apr 17:30;  Thu 21 Apr 20:00; Sat 23 Apr 20:00<br>
+**My Night with Maud (Ma Nuit chez Maud)**<br>
+Wed 6 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Thu 14 Apr 20:30;  Fri 22 Apr 17:50; Mon 25 Apr 20:45<br>
+**Une Femme douce (A Gentle Creature)**<br>
+Wed 6 Apr 21:00; Wed 13 Apr 18:20 (+ intro by independent filmmaker and critic Alex Barrett);  Mon 18 Apr 13:10<br>
+**The New World**<br>
+Sun 10 Apr 17:30; Sat 30 Apr 19:50<br>
+**The Gospel According to Matthew  (Il vangelo secondo Matteo)**<br>
+Mon 11 Apr 18:00; Sun 17 Apr 14:40<br>
+**The Last Temptation of Christ**<br>
+Fri 15 Apr 14:15; Sun 24 Apr 17:40<br>
+**Sebastiane**<br>
+Sat 16 Apr 14:50; Tue 19 Apr 20:30; Wed 27 Apr 17:45 (+ intro by BFI curator Simon McCallum)<br>
+**I Confess**<br>
+Sun 17 Apr 12:00; Wed 20 Apr 18:00 (+ intro tbc)<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEwMDAzMjA0NjddfQ==
 -->
