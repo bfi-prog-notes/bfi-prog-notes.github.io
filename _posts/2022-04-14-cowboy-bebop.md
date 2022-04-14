@@ -13,14 +13,10 @@ There’s also the suggestion of a link between the film’s cartoon form and it
 
 Vincent is redeemed by recognising the girl he once loved and it’s suggested the same might be true of Spike, who insists he’s ‘just a bounty hunter’ exempt from responsibility, but is still prompted to reminisce about the girl who gave him life and the fear of death. If this sounds corny on page, it feels less so in the mouth of an iconic _anime_ character.
 
-The pace is diluted by extraneous scenes featuring the supporting cast, presumably to satisfy fans of the original series. The film also follows the tendency of other Japanese cartoons by creating redundant action scenes with impersonal sci-fi vehicles, often as tedious as the CG monsters in live-action pictures. Despite this, _Cowboy Bebop_ succeeds as a stylish, enjoyable blend of genres and formats. (The director Shinichiro Watanabe also worked on the high-quality Japanese animations _Escaflowne_ and Macross Plus, both available in the UK on DVD.) It also offers the opportunity to hear music by Yoko Kanno, the most celebrated composer in Japanese animation, though her work here lacks the polymath eclecticism of her best scores. Like the film itself, it’s polished rather than ground breaking, and there’s none of the jazz bebop of the title.
+The pace is diluted by extraneous scenes featuring the supporting cast, presumably to satisfy fans of the original series. The film also follows the tendency of other Japanese cartoons by creating redundant action scenes with impersonal sci-fi vehicles, often as tedious as the CG monsters in live-action pictures. Despite this, _Cowboy Bebop_ succeeds as a stylish, enjoyable blend of genres and formats. (The director Shinichiro Watanabe also worked on the high-quality Japanese animations _Escaflowne_ and Macross Plus, both available in the UK on DVD.) It also offers the opportunity to hear music by Yoko Kanno, the most celebrated composer in Japanese animation, though her work here lacks the polymath eclecticism of her best scores. Like the film itself, it’s polished rather than ground breaking, and there’s none of the jazz bebop of the title.  **Andrew Osmond, _Sight & Sound_, September 2003**
 
-**Andrew Osmond, _Sight & Sound_, September 2003**
-
-**COWBOY BEBOP: THE MOVIE**
-
-**(COWBOY BEBOP: TENGOKU NO TOBIRA)**
-
+**COWBOY BEBOP: THE MOVIE**  
+**(COWBOY BEBOP: TENGOKU NO TOBIRA)**  
 _Director_: Shinichiro Watanabe  
 _Co-director_: Yoshiyuki Takei  
 _Unit Director_: Yoshiyuki Takei  
@@ -28,46 +24,23 @@ _3D CG Director_: Tsuyoshi Hanzawa
 _©/Production Companies_: Sunrise, Bones, Bandai Visual  
 _Executive Producer (Sunrise)_: Takayuki Yoshii  
 _Executive Producer (Bandai Visual)_: Ryohei Tsunoda  
-_Producers_: Masuo Ueda, Masahiko Minami, Minoru Takanashi
-
-_Assistant Unit Directors_: Satoshi Toba, Ikuro Sato,
-
-Kiyoshi Fukumoto, Kunihiro Mori  
+_Producers_: Masuo Ueda, Masahiko Minami, Minoru Takanashi  
+_Assistant Unit Directors_: Satoshi Toba, Ikuro Sato, Kiyoshi Fukumoto, Kunihiro Mori  
 _Screenplay_: Keiko Nobumoto  
 _Based on the story by_: Hajime Yatate  
-_Storyboard_: Shinichiro Watanabe
-
+_Storyboard_: Shinichiro Watanabe  
 _Director of Photography_: Yoichi Ogami  
 _Director of CG Photography_: Katsutoshi Sugai  
-_Colour Design_: Shihoko Nakayama
-
-_Camera Operation_: Anime Film, Yoshio Sugisawa, Asami Ogami,
-
-Satoru Ichikawa, Setsuko Maruhashi, Masahiro Kumagai,
-
-Hiroaki Yamada, Koji Suzuki, Yoshimi Kurata, Yoshinori Kitsugi,
-
-Hiroshi Fukuda, Chizuko Tezuka, Shigemi Ogawa, Kumiko Ito, Shuichi Ito  
-_CG Production_: Studio Ipse, Tsutomu Nomoto, Hirohumi Araki,
-
-Kouya Imamura, Youhei Miyahara, Norio Matsuda, Takahiro Shiotani, Ryoma Matsuya, Hajime Suzuki, Junko Anzai, Makoto Shiima,
-
-Yuji Sasada, Nastu Senno, Mitsuhiro Wada, Seishi Otani,
-
-Toshiyuki Nanto, Yumi Honyanagi  
-_Digital Works_: Mikio Odagawa, Chappy
-
-_Special Effects_: Marix, Yutaka Hoshiba, Toshio Hasegawa,
-
-Kumiko Taniguchi, Sachi Suzuki, Toyohiko Sakakibara  
+_Colour Design_: Shihoko Nakayama  
+_Camera Operation_: Anime Film, Yoshio Sugisawa, Asami Ogami, Satoru Ichikawa, Setsuko Maruhashi, Masahiro Kumagai, Hiroaki Yamada, Koji Suzuki, Yoshimi Kurata, Yoshinori Kitsugi, Hiroshi Fukuda, Chizuko Tezuka, Shigemi Ogawa, Kumiko Ito, Shuichi Ito  
+_CG Production_: Studio Ipse, Tsutomu Nomoto, Hirohumi Araki, Kouya Imamura, Youhei Miyahara, Norio Matsuda, Takahiro Shiotani, Ryoma Matsuya, Hajime Suzuki, Junko Anzai, Makoto Shiima, Yuji Sasada, Nastu Senno, Mitsuhiro Wada, Seishi Otani, Toshiyuki Nanto, Yumi Honyanagi  
+_Digital Works_: Mikio Odagawa, Chappy  
+_Special Effects_: Marix, Yutaka Hoshiba, Toshio Hasegawa, Kumiko Taniguchi, Sachi Suzuki, Toyohiko Sakakibara  
 _Character Design/Animation Director_: Toshihiro Kawamoto  
 _Mechanical Animation Director_: Masami Goto  
-_Action Animation Director_: Yutaka Nakamura
-
+_Action Animation Director_: Yutaka Nakamura  
 _Animation Production_: Bones  
-_Key Animation_: Takeshi Ito, Yasushi Muraki, Kenichi Yoshida,
-
-Tsunenori Saito, Takashi Tomioka, Yoshiyuki Ito, Tadaaki Miyata, Akitoshi Yokoyama, Norimitsu Suzuki, Tensai Okamura, Takeaki Bunno, Masahiro Ando, Atsushi Hasebe, Masami Goto, Isamu Imakake,
+_Key Animation_: Takeshi Ito, Yasushi Muraki, Kenichi Yoshida, Tsunenori Saito, Takashi Tomioka, Yoshiyuki Ito, Tadaaki Miyata, Akitoshi Yokoyama, Norimitsu Suzuki, Tensai Okamura, Takeaki Bunno, Masahiro Ando, Atsushi Hasebe, Masami Goto, Isamu Imakake,
 Yoshihiko Umakoshi, Hideki Takahashi, Koichi Arai, Keisuke Masunaga, Masayoshi Sato, Takao Abo, Masahiro Emoto, Ken Otsuka, Hisashi Saito, Takaaki Fukuyo, Tetsuichi Yamagishi, Hiroshi Takeuchi, Yosiharu Kudo, Hiroyuki Kobe, Tatsufumi Tamagawa, Toshiyuki Tsuru, Hisashi Eguchi, Ichiro Itano, Shuko Murase, Hirotoshi Sano, Shiho Takeuchi, Takashi Kawaguchi, Tomoki Mizuno, Hiromitsu Morishita, Toshiyuki Kawano, Eiji Komatsu, Haruo Sotozaki, Ryota Ito  
 _Layout_: Shiho Takeuchi, Shingo Takeba  
 _Editor_: Shuichi Kakesu  
@@ -131,5 +104,5 @@ Tsutomu Isobe _(Vincent)_
 Japan 2001  
 115 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwMzM1MDY3XX0=
+eyJoaXN0b3J5IjpbLTU4NzIyMTUxOV19
 -->
