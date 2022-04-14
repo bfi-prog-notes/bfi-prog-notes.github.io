@@ -43,16 +43,14 @@ _Directed by_: Laura Wandel
 _Production Company_: Dragons Films  
 _A co-production with_: Lunanime  
 _Produced with the support of the_:  Centre du Cinéma et de l’Audiovisuel de la Fédération Wallonie-Bruxelles  
-_With the support of the_:  
-Fonds Audiovisuel de Flandre (VAF)  
+_With the support of the_:  Fonds Audiovisuel de Flandre (VAF)  
 _With the participation of_: Wallimage (La Wallonie)  
 _In co-production with_: VOO, Be TV  
 _In association with_: Indie Sales  
 _With the support of_: Tax Shelter du gouvernement fédéral de Belgique and the Tax Shelter investors  
 _Presented by_: Dragons Films  
 _Produced by_: Stéphane Lhoest  
-_Co-produced by_: Jacques de Clercq,  
-Annemie Degryse  
+_Co-produced by_: Jacques de Clercq,  Annemie Degryse  
 _Associate Producer_: Philippe Logie  
 _Production Manager_: Claudia Navarra  
 _Location Manager_: Vincent Bredael  
@@ -68,14 +66,12 @@ _Art Director_: Philippe Bertin
 _Costumes_: Vanessa Evrard  
 _Key Make-up and Hair_: Katja Piepenstock  
 _Title Design_: Boris Görtz  
-_Production Sound Mixer_:  
-Thomas Grimm-Landsberg  
+_Production Sound Mixer_:  Thomas Grimm-Landsberg  
 _Sound Mixer_: Mathieu Cox  
 _Sound Editors_: David Vranken, Corinne Dubien  
 _Stunt Co-ordinator_: Frédéric Lecointe
 
-_Cast:_
-
+**Cast**  
 Maya Vanderbeque _(Nora)_  
 Günter Doret _(Abel)_  
 Karim Leklou _(father)_  
@@ -92,14 +88,13 @@ Sandrine Blancke _(Madame Franck)_
 Monia Douieb _(Abel’s teacher)_  
 Michel Israël _(headteacher)_
 
-Belgium/France 2021
-
+Belgium/France 2021  
 72 mins
 
 A New Wave release
 
-The screening on Thu 21 Apr 18:10 will feature  
-a Q&A with director Laura Wandel
+The screening on Thu 21 Apr 18:10 will feature  a Q&A with director Laura Wandel
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTYxMDQ4MDldfQ==
+eyJoaXN0b3J5IjpbLTMzMDExNjE1MV19
 -->
