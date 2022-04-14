@@ -22,10 +22,9 @@ As a first film, _Sebastiane_ was a resounding success. It was rejected by Canne
 
 The film has been unjustly criticised for its so-called controversial expression of the historical episode, especially since its imagery is very much at one with the traditional representation of the Sebastian story in paintings. Jarman mimics the _pietà_, while the execution and bathhouse scenes are handled very much in the style of classical art. By and large, though, the film lacks a rich context for its narrative. Jarman’s use of the theatrical and the _tableau vivant_ is limited to the first scene of the orgy, which in its campness makes a larger historical point about the Roman period of Diocletian but which carries no narrative weight. Campness and a postmodern-like bricolage were to become the methods by which Jarman made his political points. But in _Sebastiane_ he is reduced to the narrow canvas and simple actions of a plot centred on the scapegoating of his self-destructive hero.  
 **Michael O’Pray, _Derek Jarman: Dreams of England_ (BFI, 1996)**
-<br><b
+<br><br>
 
-**SEBASTIANE**
-
+**SEBASTIANE**  
 _Directors_: Paul Humfress, Derek Jarman  
 _©/Production Company_: Disctac  
 _Producers_: James Whaley, Howard Malin  
@@ -43,17 +42,14 @@ _Props_: Daniel Egan
 _Title Design_: Barney Wan, José Aguon  
 _Music_: Brian Eno  
 _Dance Sequence Music_: Andrew Wilson  
-_Dance Choreographed and Performed by_:  
-Lindsay Kemp and Troupe  
+_Dance Choreographed and Performed by_:  Lindsay Kemp and Troupe  
 _Sound Recordist_: John Hayes  
 _Dubbing Mixer_: Mike Billing  
 _Sound Assistant_: Hugh Smith  
-_Special thanks to_: Ferdinando Scarfiotti,  
-Louise Walker, Ian Kierney, Andrew Logan  
+_Special thanks to_: Ferdinando Scarfiotti,  Louise Walker, Ian Kierney, Andrew Logan  
 _Latin Translation_: Jack Welch
 
-_Cast:_
-
+**Cast**  
 Leonardo Treviglio  _(Sebastian)_  
 Barney James  _(Severus)_  
 Neil Kennedy  _(Max)_  
@@ -65,17 +61,16 @@ Stefano Massari  _(Marius)_
 Daevid Finbar  _(Julian)_  
 Gerald Incandela  _(leopard boy)_  
 Robert Medley  _(Emperor Diocletian)_  
-Lindsay Kemp and Troupe_(dancers in Diocletian’s court)_  
-Peter Hinwood, Jordan_,_ Christopher Hobbs, Oula, Philip Fayer, Luciana Martinez, Nicholas De Jongh, Norman Rosenthal, James Malin, Peter Logan, Michael Davis, Eric Roberts, Graham Cracker_(guests/courtiers in Diocletian’s court)_
+Lindsay Kemp and Troupe _(dancers in Diocletian’s court)_  
+Peter Hinwood, Jordan, Christopher Hobbs, Oula, Philip Fayer, Luciana Martinez, Nicholas De Jongh, Norman Rosenthal, James Malin, Peter Logan, Michael Davis, Eric Roberts, Graham Cracker _(guests/courtiers in Diocletian’s court)_
 
-UK 1976©
-
+UK 1976©  
 86 mins
 
-* Uncredited
+*Uncredited
 
-The screening on Wed 27 Apr will be introduced  
-by BFI curator Simon McCallum
+The screening on Wed 27 Apr will be introduced  by BFI curator Simon McCallum
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU0MDc4OTRdfQ==
+eyJoaXN0b3J5IjpbLTg4NzAyMzEwXX0=
 -->
