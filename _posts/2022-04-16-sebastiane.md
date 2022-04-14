@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Sebastiane
+published: true
+date: 2022-04-16
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Period]
+metadata: 'UK 1976, 86 mins<br> Directors: Paul Humfress, Derek Jarman'
+pdf: '2022-04-16-sebastiane.pdf'
+---
 
 The mid-1970s were not an auspicious time to launch into feature film production. In 1975 the British film industry was collapsing fast. Cinema admissions had been falling rapidly since the 50s (in 1959 they had totalled 601 million, by 1970 they were down to 193 million and by 1975 to 116 million). The brief heyday of the 60s had gone – and the industry was largely at the mercy of the Americans. The Eady levy system – established in 1947 to assist home-produced films by allocating a proportion of global box-office receipts to British production – was in need of restructuring. Jarman’s three feature films were financed from private sources. _Sebastiane_ was made in 16mm on a budget of £30,000 brought ‘in briefcases from a shipping magnate’.
 
@@ -25,7 +35,6 @@ The film has been unjustly criticised for its so-called controversial expression
 <br><br>
 
 **SEBASTIANE**  
-
 _Directors_: Paul Humfress, Derek Jarman  
 _©/Production Company_: Disctac  
 _Producers_: James Whaley, Howard Malin  
@@ -43,17 +52,14 @@ _Props_: Daniel Egan
 _Title Design_: Barney Wan, José Aguon  
 _Music_: Brian Eno  
 _Dance Sequence Music_: Andrew Wilson  
-_Dance Choreographed and Performed by_:  
-Lindsay Kemp and Troupe  
+_Dance Choreographed and Performed by_:  Lindsay Kemp and Troupe  
 _Sound Recordist_: John Hayes  
 _Dubbing Mixer_: Mike Billing  
 _Sound Assistant_: Hugh Smith  
-_Special thanks to_: Ferdinando Scarfiotti,  
-Louise Walker, Ian Kierney, Andrew Logan  
+_Special thanks to_: Ferdinando Scarfiotti,  Louise Walker, Ian Kierney, Andrew Logan  
 _Latin Translation_: Jack Welch
 
-**_Cast**  :_
-
+**Cast**  
 Leonardo Treviglio  _(Sebastian)_  
 Barney James  _(Severus)_  
 Neil Kennedy  _(Max)_  
@@ -66,17 +72,68 @@ Daevid Finbar  _(Julian)_
 Gerald Incandela  _(leopard boy)_  
 Robert Medley  _(Emperor Diocletian)_  
 Lindsay Kemp and Troupe _(dancers in Diocletian’s court)_  
-Peter Hinwood, Jordan,_,_ Christopher Hobbs, Oula, Philip Fayer, Luciana Martinez, Nicholas De Jongh, Norman Rosenthal, James Malin, Peter Logan, Michael Davis, Eric Roberts, Graham Cracker _(guests/courtiers in Diocletian’s court)_
+Peter Hinwood, Jordan, Christopher Hobbs, Oula, Philip Fayer, Luciana Martinez, Nicholas De Jongh, Norman Rosenthal, James Malin, Peter Logan, Michael Davis, Eric Roberts, Graham Cracker _(guests/courtiers in Diocletian’s court)_
 
 UK 1976©  
-
 86 mins
 
-* Uncredited
+*Uncredited
 
-The screening on Wed 27 Apr will be introduced  
-by BFI curator Simon McCallum
+The screening on Wed 27 Apr will be introduced  by BFI curator Simon McCallum
 <br><br>
+
+**BIG SCREEN CLASSICS**<br>
+**Léon Morin, prêtre (Léon Morin, Priest)**<br>
+Mon 28 Mar 17:50; Thu 7 Apr 20:40;  Sun 24 Apr 12:00<br>
+**Lourdes**<br>
+Tue 29 Mar 20:50; Thu 7 Apr 18:10;  Wed 20 Apr 20:50<br>
+**Ordet (The Word)**<br>
+Wed 30 Mar 17:45 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 10 Apr 15:30;  Fri 15 Apr 18:10; Sat 23 Apr 11:50<br>
+**Black Narcissus**<br>
+Thu 31 Mar 21:00; Tue 12 Apr 20:45;  Tue 19 Apr 18:10; Sat 30 Apr 15:00<br>
+**Babette’s Feast (Babettes Gaestebud)**<br>
+Fri 1 Apr 18:10; Sun 10 Apr 12:10;  Sat 16 Apr 12:20; Tue 26 Apr 20:50<br>
+**Aguirre, Wrath of God (Aguirre, der Zorn Gottes)**<br>
+Sat 2 Apr 20:40; Fri 8 Apr 18:15; Tue 19 Apr 20:50; Mon 25 Apr 18:10<br>
+**The Seventh Seal (Det Sjunde Inseglet)**<br>
+Sun 3 Apr 15:20; Mon 18 Apr 15:20;  Fri 22 Apr 20:50<br>
+**The Miracle Woman**<br>
+Mon 4 Apr 18:20; Fri 15 Apr 20:50;  Thu 28 Apr 18:10; Fri 29 Apr 18:10<br>
+**Stalker**<br>
+Tue 5 Apr 20:00; Sat 9 Apr 17:30;  Thu 21 Apr 20:00; Sat 23 Apr 20:00<br>
+**My Night with Maud (Ma Nuit chez Maud)**<br>
+Wed 6 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Thu 14 Apr 20:30;  Fri 22 Apr 17:50; Mon 25 Apr 20:45<br>
+**Une Femme douce (A Gentle Creature)**<br>
+Wed 6 Apr 21:00; Wed 13 Apr 18:20 (+ intro by independent filmmaker and critic Alex Barrett);  Mon 18 Apr 13:10<br>
+**The New World**<br>
+Sun 10 Apr 17:30; Sat 30 Apr 19:50<br>
+**The Gospel According to Matthew  (Il vangelo secondo Matteo)**<br>
+Mon 11 Apr 18:00; Sun 17 Apr 14:40<br>
+**The Last Temptation of Christ**<br>
+Fri 15 Apr 14:15; Sun 24 Apr 17:40<br>
+**Sebastiane**<br>
+Sat 16 Apr 14:50; Tue 19 Apr 20:30; Wed 27 Apr 17:45 (+ intro by BFI curator Simon McCallum)<br>
+**I Confess**<br>
+Sun 17 Apr 12:00; Wed 20 Apr 18:00 (+ intro tbc)<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjM3MDk1MDU2LC04ODcwMjMxMF19
 -->
