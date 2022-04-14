@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Playground
+published: true
+date: 2022-04-15
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'Belgium/France 2021, 72 mins<br> Director: Laura Wandel'
+pdf: '2022-04-15-playground.pdf'
+---
 
 **Director Laura Wandel on ‘Playground’**
 
@@ -95,6 +105,45 @@ A New Wave release
 
 The screening on Thu 21 Apr 18:10 will feature  a Q&A with director Laura Wandel
 <br><br>
+
+**NEW & RE-RELEASES**<br>
+**The Worst Person in the World (Verdens verste menneske)**<br>
+From Mon 28 Mar<br>
+**Cries and Whispers (Viskningar och rop)**<br>
+From Fri 1 Apr<br>
+**A Night of Knowing Nothing**<br>
+From Fri 1 Apr (+ Q&A with director Payal Kapadia on Sun 3 Apr 17:50)<br>
+**True Things**<br>
+From Sat 2 Apr<br>
+**Compartment No. 6 (Hytti nro 6)**<br>
+From Fri 8 Apr<br>
+**Small Body (Piccolo corpo)**<br>
+From Fri 8 Apr<br>
+**CODA**<br>
+From Sat 9 Apr<br>
+**Playground**<br>
+From Fri 15 Apr (+ Q&A with director Laura Wandel on Thu 21 Apr 18:10)<br>
+**The Northman**<br>
+From Fri 22 Apr<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTMzMDExNjE1MV19
 -->
