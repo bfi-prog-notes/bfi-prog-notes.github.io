@@ -25,6 +25,7 @@ The film has been unjustly criticised for its so-called controversial expression
 <br><br>
 
 **SEBASTIANE**  
+
 _Directors_: Paul Humfress, Derek Jarman  
 _©/Production Company_: Disctac  
 _Producers_: James Whaley, Howard Malin  
@@ -42,14 +43,17 @@ _Props_: Daniel Egan
 _Title Design_: Barney Wan, José Aguon  
 _Music_: Brian Eno  
 _Dance Sequence Music_: Andrew Wilson  
-_Dance Choreographed and Performed by_:  Lindsay Kemp and Troupe  
+_Dance Choreographed and Performed by_:  
+Lindsay Kemp and Troupe  
 _Sound Recordist_: John Hayes  
 _Dubbing Mixer_: Mike Billing  
 _Sound Assistant_: Hugh Smith  
-_Special thanks to_: Ferdinando Scarfiotti,  Louise Walker, Ian Kierney, Andrew Logan  
+_Special thanks to_: Ferdinando Scarfiotti,  
+Louise Walker, Ian Kierney, Andrew Logan  
 _Latin Translation_: Jack Welch
 
-**Cast**  
+**_Cast**  :_
+
 Leonardo Treviglio  _(Sebastian)_  
 Barney James  _(Severus)_  
 Neil Kennedy  _(Max)_  
@@ -62,15 +66,17 @@ Daevid Finbar  _(Julian)_
 Gerald Incandela  _(leopard boy)_  
 Robert Medley  _(Emperor Diocletian)_  
 Lindsay Kemp and Troupe _(dancers in Diocletian’s court)_  
-Peter Hinwood, Jordan, Christopher Hobbs, Oula, Philip Fayer, Luciana Martinez, Nicholas De Jongh, Norman Rosenthal, James Malin, Peter Logan, Michael Davis, Eric Roberts, Graham Cracker _(guests/courtiers in Diocletian’s court)_
+Peter Hinwood, Jordan,_,_ Christopher Hobbs, Oula, Philip Fayer, Luciana Martinez, Nicholas De Jongh, Norman Rosenthal, James Malin, Peter Logan, Michael Davis, Eric Roberts, Graham Cracker _(guests/courtiers in Diocletian’s court)_
 
 UK 1976©  
+
 86 mins
 
-*Uncredited
+* Uncredited
 
-The screening on Wed 27 Apr will be introduced  by BFI curator Simon McCallum
+The screening on Wed 27 Apr will be introduced  
+by BFI curator Simon McCallum
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzAyMzEwXX0=
+eyJoaXN0b3J5IjpbMjM3MDk1MDU2LC04ODcwMjMxMF19
 -->
