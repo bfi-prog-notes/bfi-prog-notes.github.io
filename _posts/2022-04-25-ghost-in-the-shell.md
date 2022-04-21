@@ -76,7 +76,7 @@ Shigeru Chiba _(garbage collector B)_
 Hiroshi Yanaka _(coroner)_
 
 Japan 1995©<br>
-83 mins
+83 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1Mjg0NzQ3XX0=
+eyJoaXN0b3J5IjpbMTkyMzU2MzE2MV19
 -->
