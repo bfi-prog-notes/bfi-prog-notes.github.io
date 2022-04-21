@@ -1,15 +1,24 @@
+---
+layout: post
+title: The Woman in Black
+published: true
+date: 2022-04-24
+readtime: true
+categories: ['NIGHTMARES & DAYDREAMS<br>A CENTENARY CELEBRATION OF SCREENWRITER NIGEL KNEALE']
+tags: [Horror, Drama]
+metadata: 'UK 1989, 103 mins<br> Director: Herbert Wise'
+pdf: '2022-04-24-woman-in-black.pdf'
+---
 
 Nigel Kneale has demonstrated his predilection for ghost stories in such distinctive television dramas as _The Road_ (BBC, tx. 29/9/1963), _Quatermass and the Pit_ (BBC, 1958-59), and _The Stone Tape_ (BBC, tx. 25/12/1972), using science fiction trappings to update and transmogrify the form. _The Woman in Black_ (ITV, tx. 24/12/1989) is a much more traditional effort however, based on Susan Hill’s eponymous novel (a title deliberately evoking Wilkie Collins’ celebrated Victorian mystery ‘The Woman in White’).
 
-Kneale’s script removes the novel’s framing device and transposes its generalised Victorian setting specifically to 1925, while also altering many of the incidental details. His fascination with science and technology is still much in evidence, with references to the cinema, the fact that Eel Marsh House has been electrified (still a comparative novelty in rural areas then) and  
-Mrs Drablow’s use of a sound recording machine. However, many of the other elements of the story, with its naïve protagonist sent to a remote town populated with hostile locals, and the emphasis on churches, graveyards and ancient ruins, are very familiar to the genre.
+Kneale’s script removes the novel’s framing device and transposes its generalised Victorian setting specifically to 1925, while also altering many of the incidental details. His fascination with science and technology is still much in evidence, with references to the cinema, the fact that Eel Marsh House has been electrified (still a comparative novelty in rural areas then) and Mrs Drablow’s use of a sound recording machine. However, many of the other elements of the story, with its naïve protagonist sent to a remote town populated with hostile locals, and the emphasis on churches, graveyards and ancient ruins, are very familiar to the genre.
 
 Pauline Moran, best known as Miss Lemon in Agatha Christie’s _Poirot_ (ITV), proves utterly mesmerising as the grimacing and malevolent ghost, especially in the scene in which she swoops down on the bed-ridden hero, the horror only curtailed through the intervention of a commercial break.
 
 Although the villagers of the evocatively named ‘Crythin Gifford’ believe that the title character is an evil spirit who murders children in revenge for the tragic loss of her son, the film’s focus on the hard life of people in the country and the city turns her into more of a harbinger, a symbol of the cruel fate and economic hardship suffered by many as a result of the war, with the Depression only a few years away.
 
-Hill was reportedly unhappy with some of Kneale’s changes to her novel, preferring the hugely successful stage version, which has been playing to packed houses in the West End since 1989, with no end currently in sight.  
-The ITV adaptation, however, has been repeated only once since its initial transmission, which is a shame as it’s one of the few feature-length ghost stories made for television that is able to sustain its length, thanks also to several fine character studies, an intriguing narrative, some extremely well-executed shocks and a memorably nihilistic finale.<br>
+Hill was reportedly unhappy with some of Kneale’s changes to her novel, preferring the hugely successful stage version, which has been playing to packed houses in the West End since 1989, with no end currently in sight. The ITV adaptation, however, has been repeated only once since its initial transmission, which is a shame as it’s one of the few feature-length ghost stories made for television that is able to sustain its length, thanks also to several fine character studies, an intriguing narrative, some extremely well-executed shocks and a memorably nihilistic finale.<br>
 **Sergio Angelini, BFI Screenonline, screenonline.org.uk**
 
 In Susan Hill’s original story, there is only one way to get to the haunted Eel Marsh House – across the marshes, making sure to beware of the perilous tides that have claimed more than one victim. Through adaptations of the novel there are now several eerie routes to that desolate place where the woman in black resides, including the long-running stage play and the recent film. My favourite dark path to Eel Marsh House is the 1989 television version of the now famous tale.
@@ -26,13 +35,11 @@ Veteran director Herbert Wise manages the manifestations of the woman in black p
 
 Roger Clarke wrote in the BFI Compendium _Gothic: The Dark Heart of Film_ that the notion of a ghostly woman in black runs deep in British culture and, though it’s been with us for centuries, there is still something pleasurable about a tale in which grown men are paralysed with fear at the thought of a malevolent female phantom. As the woman in black herself, Pauline Moran is an electrifying presence with a stare that is Medusa-like in its intensity.
 
-By coincidence, Adrian Rawlins, who turns in a terrific performance in  
-_The Woman in Black_, went on to play James Potter, father of Harry, in the Harry Potter films and Daniel Radcliffe appeared as young Arthur Kipps in the 2012 film version. Arthur is already a haunted and broken man in the film, and writer Jane Goldman uses his experience as a neat mirror to that of the character of the woman in black.
+By coincidence, Adrian Rawlins, who turns in a terrific performance in _The Woman in Black_, went on to play James Potter, father of Harry, in the Harry Potter films and Daniel Radcliffe appeared as young Arthur Kipps in the 2012 film version. Arthur is already a haunted and broken man in the film, and writer Jane Goldman uses his experience as a neat mirror to that of the character of the woman in black.
 
 In its transfer to the big screen the story acquires more jumps and a higher body count but both versions generate their own misty supernatural atmosphere. Film director James Watkins somehow makes his Eel Marsh House as beautiful and alluring as it is menacing. Both adaptations also make good use of that universally sinister setting, a neglected Victorian nursery, complete with creepy toys.
 
-Like the best classic ghost stories and Victorian sensation novels,  
-_The Woman in Black_ revolves around a past that won’t stay buried and people that won’t, or can’t, forget. These tales seem to hold even more fascination as the year closes, providing chills which enhance the festivities. We’re more likely to curl up by the glow of the television than the fireside these days, and there is no finer treat than a ghost story for a winter’s evening.
+Like the best classic ghost stories and Victorian sensation novels, _The Woman in Black_ revolves around a past that won’t stay buried and people that won’t, or can’t, forget. These tales seem to hold even more fascination as the year closes, providing chills which enhance the festivities. We’re more likely to curl up by the glow of the television than the fireside these days, and there is no finer treat than a ghost story for a winter’s evening.
 
 As for the woman in black, unlike everybody else in Crythin Gifford, I can’t wait to see her again. However you call in with her, I would urge you to pay a visit – she will haunt you.<br>
 **Lisa Kerrigan, bfi.org.uk, 9 December 2013**<br>
@@ -118,6 +125,42 @@ Mary Lawlor, Clare Thomson _(gypsy children)_<br>
 ITV tx 24.12.1989<br>
 UK 1989<br>
 103 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDE2MzY2NV19
--->
+
+
+**NIGHTMARES & DAYDREAMS<br>
+A CENTENARY CELEBRATION OF SCREENWRITER NIGEL KNEALE**<br>
+**The Abominable Snowman**<br>
+Mon 28 Mar 20:50; Sat 23 Apr 14:50<br>
+**Wuthering Heights**<br>
+Sat 2 Apr 15:10<br>
+**Missing Believed Wiped: Out of the Unknown: The Chopper**<br>
+Sun 3 Apr 18:00<br>
+**Nineteen Eighty-Four + Panel Discussion: Nineteen Eighty-Four and the legacy of Nigel Kneale**<br>
+Mon 4 Apr 18:30<br>
+**Seniors Free Matinee: Quatermass and the Pit + discussion**<br>
+Mon 11 Apr 14:00<br>
+**The Year of the Sex Olympics**<br>
+Tue 12 Apr 18:10<br>
+**First Men in the Moon**<br>
+Fri 15 Apr 14:30; Wed 27 Apr 20:50<br>
+**The Woman in Black**<br>
+Sun 24 Apr 14:40<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+<br>
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
