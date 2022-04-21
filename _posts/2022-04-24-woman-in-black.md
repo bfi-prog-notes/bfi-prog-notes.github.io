@@ -113,11 +113,11 @@ Alison King _(gypsy woman)_
 Peter Guinness _(stallholder)_  
 Timothy Block _(lorry man)_  
 Albie Woodington _(fireman)_  
-Mary Lawlor_,_ Clare Thomson _(gypsy children)_<br>
+Mary Lawlor, Clare Thomson _(gypsy children)_<br>
 
 ITV tx 24.12.1989<br>
 UK 1989<br>
 103 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM2OTg5MjNdfQ==
+eyJoaXN0b3J5IjpbLTYwMDE2MzY2NV19
 -->
