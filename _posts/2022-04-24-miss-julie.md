@@ -114,8 +114,7 @@ Colin Farrell _(John)_
 Samantha Morton _(Kathleen)_  
 Nora McMenamy _(little Miss Julie)_
 
-Norway-UK-France-Ireland 2014
-
+Norway-UK-France-Ireland 2014<br>
 130 mins
 <br>
 
@@ -148,7 +147,7 @@ Tue 19 Apr 18:20; Sat 30 Apr 20:50<br>
 Sun 24 Apr 17:50; Fri 29 Apr 20:20 (+ intro by Elaine Wong, short film programmer, BFI London Film Festival)<br>
 
 **In cultural partnership with**<br><br>
-<img style="float: left;" src="/img/norwegian embassy.png" width="30%" height="30%"><br><br>
+<img style="float: left;" src="/img/norwegian embassy.png" width="30%" height="30%"><br><br><br>
 <img style="float: left;" src="/img/embassy of sweden.jpg" width="30%" height="30%">
 <br><br><br><br><br>
 **BFI SOUTHBANK**  
