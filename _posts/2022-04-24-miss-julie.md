@@ -115,6 +115,7 @@ Samantha Morton _(Kathleen)_
 Nora McMenamy _(little Miss Julie)_
 
 Norway-UK-France-Ireland 2014<br>
+
 130 mins
 <br>
 
@@ -165,3 +166,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc4NTA5MDc4NV19
+-->
