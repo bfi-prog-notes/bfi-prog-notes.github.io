@@ -23,8 +23,7 @@ _Production Company_: Kodansha
 _In association with_: Bandai Visual, Manga Entertainment  
 _Executive Producers_: Teruo Miyahara, Shigeru Watanabe, Andy Frain  
 _Producers_: Yoshimasa Mizuo, Ken Matsumoto, Ken Iyadomi, Mitsuhisa Ishikawa  
-_Associate Producers_: Laurence Guinness, Hiroshi Yamazaki,
-Yasushi Tsuge, Mana Ibuki  
+_Associate Producers_: Laurence Guinness, Hiroshi Yamazaki, Yasushi Tsuge, Mana Ibuki  
 _Production Management_: Ryuji Mitsumoto  
 _Production Co-ordinator_: Haruo Mizuno  
 _International Co-ordinator_: Tomio Yoshioka  
@@ -32,29 +31,15 @@ _Screenplay_: Kazunori Ito
 _Based on the manga by_: Shirow Masamune  
 _Director of Photography_: Hisao Shirai  
 _Camera Operators_: Studio Cosmos, Hisao Shirai, Motoaki Ikegami, Katsunori Maehara, Noriko Suzuki, Tetuo Ohtou, Yoichi Kuroda,  
-Hiroshi Noguchi, Shinji Ikegami, Naohisa Haijima, Takashi Shimada, Yuuichi Ono, Toshikazu Hisano, Junji Yaitabashi, Natsuki Orihara,  
-Kouichi Furusawa, Shoji Yazawa  
-_Special Effects_: Riku Murakami, Marix, Yutaka Hoshiba,
-
-Toshio Hasegawa, Noriyuki Ohta  
+Hiroshi Noguchi, Shinji Ikegami, Naohisa Haijima, Takashi Shimada, Yuuichi Ono, Toshikazu Hisano, Junji Yaitabashi, Natsuki Orihara, Kouichi Furusawa, Shoji Yazawa  
+_Special Effects_: Riku Murakami, Marix, Yutaka Hoshiba, Toshio Hasegawa, Noriyuki Ohta  
 _Animation Director_: Toshiko Nishikubo  
 _Key Animation Supervisors_: Kazuchika Kise, Hiroyuki Okiura  
-_Key Animation_: Toshiyuki Inoue, Hirotsugu Kawasaki, Tensai Okamura,
-
-Toyoaki Emura, Atsushi Takeuchi, Masahiro Andou, Kouichi Arai,
-
-Hisashi Eguchi, Yasushi Muraki, Mitsuo Iso, Masatsugu Arakawa, Kazunobu Hoshi, Manabu Tanzawa, Yasuhiro Ohshima, Akiharu Ishii, Miyako Yatsu, Kogi Ohkawa, Kumiko Kawana, Yoshiyuki Itou,
-
-Masayuki Yoshihara, Yuichi Tanaka, Tetsuhito Saitou, Kouji Komurakata,
-
-Mamoru Sasaki, Takashi Hashimoto, Hideki Hamasu, Kazuchika Kise, Hiroyuki Okiura  
+_Key Animation_: Toshiyuki Inoue, Hirotsugu Kawasaki, Tensai Okamura, Toyoaki Emura, Atsushi Takeuchi, Masahiro Andou, Kouichi Arai, Hisashi Eguchi, Yasushi Muraki, Mitsuo Iso, Masatsugu Arakawa, Kazunobu Hoshi, Manabu Tanzawa, Yasuhiro Ohshima, Akiharu Ishii, Miyako Yatsu, Kogi Ohkawa, Kumiko Kawana, Yoshiyuki Itou, Masayuki Yoshihara, Yuichi Tanaka, Tetsuhito Saitou, Kouji Komurakata, Mamoru Sasaki, Takashi Hashimoto, Hideki Hamasu, Kazuchika Kise, Hiroyuki Okiura  
 _Computer Animation Unit_: Omnibus Japan  
 _Colour Setting_: Kumiko Yusa  
 _Background Design_: Takashi Watabe  
-_Background Drawings_: Shuichi Hirata, Masatoshi Kai, Hisashi Ikeda,
-
-Yoji Takeshige, Hiromasa Ogura
-
+_Background Drawings_: Shuichi Hirata, Masatoshi Kai, Hisashi Ikeda, Yoji Takeshige, Hiromasa Ogura
 _Editor_: Shuichi Kakesu  
 _Post-production_: Jay Film  
 _Art Director_: Hiromasa Ogura  
@@ -71,10 +56,9 @@ _Sound Director_: Kazuhiro Wakabayashi
 _Re-recording Mixers_: Paul Ratajczak, Kurt Kassulke  
 _Sound Effects_: Kazutoshi Satou  
 _Publicists_: Atsushi Kumagai, Tohru Nozaki  
-_Studio_: 2 Production I.G. (1, 3 & 7 Studios)
+_Studio_: 2 Production I.G. (1, 3 & 7 Studios)<br>
 
-**Voice Cast**
-
+**Voice Cast**<br>
 Akio Otsuka _(Bateau)_  
 Atsuko Tanaka _Kusanagi)_  
 Tamio Oki _(Aramaki)_  
@@ -91,9 +75,8 @@ Kazuhiro Yamaji _(garbage collector A)_
 Shigeru Chiba _(garbage collector B)_  
 Hiroshi Yanaka _(coroner)_
 
-Japan 1995©
-
+Japan 1995©<br>
 83 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTE1MDEyNTVdfQ==
+eyJoaXN0b3J5IjpbNDU1Mjg0NzQ3XX0=
 -->
