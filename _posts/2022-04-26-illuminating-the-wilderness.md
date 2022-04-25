@@ -36,9 +36,9 @@ UK 2016
 2 mins
 
 
-<img style="float: left;" src="/img/explorers.jpg"><br><br><br><br>
+<img style="float: left;" src="/img/explorers.jpg">
 
-<img style="float: left;" src="/img/PAW.jpg"><br><br><br><br>
+<img style="float: left;" src="/img/PAW.jpg">
 [**www.projectartworks.org**](https://projectartworks.org)
 
 <img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br>
