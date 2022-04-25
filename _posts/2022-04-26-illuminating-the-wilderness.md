@@ -37,7 +37,6 @@ UK 2016
 
 
 <img style="float: left;" src="/img/explorers.jpg">
-
 <img style="float: left;" src="/img/PAW.jpg">
 [**www.projectartworks.org**](https://projectartworks.org)
 
