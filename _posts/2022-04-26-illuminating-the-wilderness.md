@@ -18,8 +18,8 @@ _Illuminating the Wilderness_ offers a window onto the experiences of a group of
 
 Our post-screening discussion will consider perceptions of ‘wilderness’, experimental form and cultural inclusion. Screening with short films from Project Art Works. Nominated for both  The Jarman Award 2020 and The Turner Prize 2021, Project Art Works is a collective who work to increase representation of neuro-minorities in art and culture.
 
-We have produced a booklet about _Illuminating the Wilderness_ which gives a transcript and more information about the making of the film. You can download here.
-https://projectartworks.org/wp-content/uploads/2022/04/Illuminating-the-Wilderness-V3-LR41-copy.pdf
+We have produced a booklet about _Illuminating the Wilderness_ which gives a transcript and more information about the making of the film. You can download here.  
+[**https://projectartworks.org/wp-content/uploads/2022/04/Illuminating-the-Wilderness-V3-LR41-copy.pdf**](https://projectartworks.org/wp-content/uploads/2022/04/Illuminating-the-Wilderness-V3-LR41-copy.pdf)
 <br><br>
 
 **Illuminating the Wilderness**  
@@ -36,10 +36,10 @@ UK 2016
 2 mins
 
 
-<img style="float: left;" src="/img/explorers.jpg"><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/explorers.jpg"><br><br><br><br>
 
-<img style="float: left;" src="/img/PAW.jpg"><br><br><br><br><br><br><br><br><br>
-**www.projectartworks.org**
+<img style="float: left;" src="/img/PAW.jpg"><br><br><br><br>
+[**www.projectartworks.org**](https://projectartworks.org)
 
 <img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br>
 
@@ -54,12 +54,12 @@ UK 2016
 
 
 **The next relaxed screenings are:**<br>
-**NATURAL CONNECTIONS SERIES**
-**Frequencies (aka OXV: The Manual) + intro and discussion 
-Monday 30 May 18:10 NFT3 
-In Pursuit of Silence
+**NATURAL CONNECTIONS SERIES**  
+**Frequencies (aka OXV: The Manual) + intro and discussion**   
+Monday 30 May 18:10 NFT3  
+**In Pursuit of Silence**  
 Monday 27 June 18:20 NFT3
-**<br>
+<br>
 
 
 
