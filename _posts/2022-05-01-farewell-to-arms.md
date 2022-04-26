@@ -1,6 +1,4 @@
 
-<![endif]-->
-
 Ernest Hemingway’s story of a doomed love affair between an American ambulance driver and a nurse is turned into a full-blown tearjerker by Frank Borzage. With luminous close-ups of Gary Cooper and Helen Hayes, kissing as bombs explode behind them and grand, swooping camerawork, Borzage evokes a glamour and exoticism more in keeping with old-style silent films than early talkies. The formal inventiveness, which helped the film to a Best Cinematography Oscar, is apparent throughout. At one stage, we’re treated to shots of chins and ceilings as the camera takes the point of view of the patient on a stretcher. At another, the lens stands in for Cooper’s mouth – and Hayes plants a wet, sloppy kiss on it. Adolphe Menjou is excellent as Cooper’s world-weary, womanising boss. Cooper himself shows his customary clumsy charm as the besotted lover, and the death-bed ending is guaranteed to melt the stoniest heart.
 
 **_Sight & Sound_****, May 1997**
@@ -98,5 +96,5 @@ USA 1932©
 
 90 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NTMyNzc1XX0=
+eyJoaXN0b3J5IjpbMTU0MjQxMDQzMiw3Mzg1MzI3NzVdfQ==
 -->
