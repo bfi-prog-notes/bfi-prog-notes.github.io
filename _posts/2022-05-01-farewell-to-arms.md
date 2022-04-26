@@ -1,3 +1,14 @@
+---
+layout: post
+title: A Farewell to Arms
+published: true
+date: 2022-05-01
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'USA 1932, 90 mins<br> Director: Frank Borzage'
+pdf: '2022-05-01-farewell-to-arms.pdf'
+---
 
 Ernest Hemingway’s story of a doomed love affair between an American ambulance driver and a nurse is turned into a full-blown tearjerker by Frank Borzage. With luminous close-ups of Gary Cooper and Helen Hayes, kissing as bombs explode behind them and grand, swooping camerawork, Borzage evokes a glamour and exoticism more in keeping with old-style silent films than early talkies. The formal inventiveness, which helped the film to a Best Cinematography Oscar, is apparent throughout. At one stage, we’re treated to shots of chins and ceilings as the camera takes the point of view of the patient on a stretcher. At another, the lens stands in for Cooper’s mouth – and Hayes plants a wet, sloppy kiss on it. Adolphe Menjou is excellent as Cooper’s world-weary, womanising boss. Cooper himself shows his customary clumsy charm as the besotted lover, and the death-bed ending is guaranteed to melt the stoniest heart.<br>
 **_Sight & Sound_, May 1997**<br>
@@ -111,6 +122,22 @@ Sat 14 May 14:45; Wed 18 May 18:10 + intro by Geoff Andrew, Programmer-at-Large<
 Tue 17 May 14:30; Sun 29 May 11:20<br>
 **The Incredible Shrinking Man**<br>
 Thu 19 May 14:30; Tue 31 May 18:20<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Mjg0Njc1NSw3Mzg1MzI3NzVdfQ==
--->
+
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
