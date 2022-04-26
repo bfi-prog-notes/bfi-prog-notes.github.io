@@ -17,29 +17,22 @@ _A Farewell to Arms_ is a heartrendingly brilliant example of his artistry. It h
 The evocation of the war-gutted landscape is memorable; though the opening scene may now show its age through the use of models, other sequences are distinguished by a nightmarishly strange Expressionism suggestive of a highly physical, agonised brutality. Lighting, composition, camera movement and choreography of the performers contribute to a _mise-en-scène_ of enormously expressive intensity.
 
 And then there is an astonishing climactic _Liebestod_. Whereas other filmmakers, as noted earlier, have tended to use the prospect of death as a button to produce tears, pity, anxiety or whatever in the viewer, and have avoided confronting the very real finality of a human’s life on earth, Borzage gets in there and grapples with it, rather as a Carl Dreyer, Ingmar Bergman or Terence Davies might do. If they come to different conclusions, that’s not what concerns me here; what matters is that in acknowledging the inevitability of death, their films tend to tell the truth as they see it. In Borzage’s _A Farewell to Arms_, that truth is at once as painful, as regenerative and, finally, as unfathomably mysterious as love itself.<br>
-**Geoff Andrew, bfi.org.uk, 30 May 2014**
+**Geoff Andrew, bfi.org.uk, 30 May 2014**<br>
 
-**A contemporary review**
-
+**A contemporary review**<br>
 This picture might well have been made only yesterday. It bears hardly any trace of age. In its total effect it is vivid, thrilling and poignant. The hopelessness of it all; the futility of war; the inevitability of the catastrophe are unerringly conveyed.
 
-The direction is admirable. It has restraint, purpose, and sympathy. The acting is outstandingly good. Gary Cooper has never, before or since, given a better performance. He conveys with his slightly diffident manner a great capacity for suffering, half revealed and half unexpressed, and the bewilderment resentment and despair of the ordinary man caught up in a tragedy beyond his comprehension. Helen Hayes is almost equally good. She brings a gay courage and a wistful charm to her part, and it is a pleasure to listen to her voice. The camera-work is imaginative and interesting, and the war scenes are most effectively staged.
-
-**_Monthly Film Bulletin_****, July 1938**
-
-  
-
-**A FAREWELL TO ARMS**
-
+The direction is admirable. It has restraint, purpose, and sympathy. The acting is outstandingly good. Gary Cooper has never, before or since, given a better performance. He conveys with his slightly diffident manner a great capacity for suffering, half revealed and half unexpressed, and the bewilderment resentment and despair of the ordinary man caught up in a tragedy beyond his comprehension. Helen Hayes is almost equally good. She brings a gay courage and a wistful charm to her part, and it is a pleasure to listen to her voice. The camera-work is imaginative and interesting, and the war scenes are most effectively staged.<br>
+**_Monthly Film Bulletin_, July 1938**<br>
+ 
+**A FAREWELL TO ARMS**<br>
 _Directed by_: Frank Borzage  
 _Production Company_: Paramount Productions  
 _Production by_: Frank Borzage  
 _Screen Play by_: Benjamin Glazer, Oliver H.P. Garrett  
 _From the novel by_: Ernest Hemingway  
-_Photographed by_: Charles Lang
-
-_uncredited_
-
+_Photographed by_: Charles Lang<br>
+_uncredited_<br>
 _Associate Producer_: Benjamin F. Glazer  
 _Business Manager_: Daniel Keefe  
 _Assistant to Benjamin Glazer_: Jean Negulesco  
@@ -55,17 +48,14 @@ _Art Director_: Roland Anderson
 _Props_: Joe Thompson, Clem Jones  
 _Costumes_: Travis Banton  
 _Wardrobe_: Ed Gross  
-_Music_: Ralph Rainger, John Leipold, Bernard Kaun,
-
-Paul Marquardt, Herman Hand, W. Franke Harling  
+_Music_: Ralph Rainger, John Leipold, Bernard Kaun, Paul Marquardt, Herman Hand, W. Franke Harling  
 _Sound Recordist_: Harold Lewis  
 _Technical Adviser on War Sequences_: Charles Griffin  
 _Technical Adviser Hospital Sequences_: Dr A. Jardini  
 _Transportation/Props_: Joe Robbins  
 _General Press Agent_: Robert M. Gillham
 
-**Cast**
-
+**Cast**<br>
 Helen Hayes  _(Catherine Barkley)_  
 Gary Cooper  _(Lieutenant Frederic Henry)_  
 Adolphe Menjou  _(Captain Rinaldi)_  
@@ -73,10 +63,8 @@ Mary Phillips  _(Helen Ferguson)_
 Jack La Rue  _(the priest)_  
 Blanche Friderici  _(head nurse)_  
 Mary Forbes  _(Miss Van Campen)_  
-Gilbert Emery  _(British major)_
-
-_uncredited_
-
+Gilbert Emery  _(British major)_<br>
+_uncredited_<br>
 Henry Armetta  _(Bonello)_  
 Peggy Cunningham  _(Molly)_  
 Doris Lloyd  _(nurse)_  
@@ -88,11 +76,70 @@ Alice Adair  _(café girl)_
 Fred Malatesta  _(Manera)_  
 Thomas Ricketts  _(Count Greffi)_  
 Robert Cauterio  _(Gordoni)_  
-Gino Corrado
+Gino Corrado<br>
 
-USA 1932©
+USA 1932©<br>
+90 mins<br>
 
-90 mins
+
+
+**BIG SCREEN CLASSICS**
+
+**A Farewell to Arms**
+
+Sun 1 May 12:00; Mon 16 May 18:15; Tue 24 May 20:50
+
+**Sunrise: A Song of Two Humans**
+
+Mon 2 May 12:20; Mon 30 May 18:20
+
+**Tokyo Story (Tokyo Monogatari)**
+
+Tue 3 May 14:30; Sat 7 May 15:00; Sat 21 May 11:10; Wed 25 May 18:00
+
+**The River**
+
+Wed 4 May 18:10 + intro by Geoff Andrew, Programmer-at-Large; Sun 15 May 15:10
+
+**El Sur (The South)**
+
+Thu 5 May 14:30; Mon 16 May 18:10
+
+**Daughters of the Dust**
+
+Fri 6 May 20:50; Fri 20 May 14:40; Thu 26 May 20:40
+
+**Syndromes and a Century (Sang sattawaat)**
+
+Sat 7 May 18:10; Thu 12 May 20:50
+
+**Still Walking (Aruitemo aruitemo)**
+
+Sun 8 May 15:15; Wed 11 May 17:50 + intro by Dr Alexander Jacoby, Senior Lecturer in Japanese Studies; Mon 23 May 20:45
+
+**The Long Day Closes**
+
+Mon 9 May 18:30; Sun 22 May 12:30; Thu 26 May 20:50
+
+**Journey to Italy (Viaggio in Italia)**
+
+Tue 10 May 20:50; Thu 19 May 18:10; Wed 25 May 20:50; Fri 27 May 18:20
+
+**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**
+
+Fri 13 May 20:45; Tue 17 May 20:50; Sat 28 May 18:15
+
+**Cleo from 5 to 7 (Cléo de 5 à 7)**
+
+Sat 14 May 14:45; Wed 18 May 18:10 + intro by Geoff Andrew, Programmer-at-Large
+
+**The Miracle Worker**
+
+Tue 17 May 14:30; Sun 29 May 11:20
+
+**The Incredible Shrinking Man**
+
+Thu 19 May 14:30; Tue 31 May 18:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQzNTIxNDIsNzM4NTMyNzc1XX0=
+eyJoaXN0b3J5IjpbNzI1OTA3OTY1LDczODUzMjc3NV19
 -->
