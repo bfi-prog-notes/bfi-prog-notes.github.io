@@ -82,64 +82,35 @@ USA 1932©<br>
 90 mins<br>
 
 
-
-**BIG SCREEN CLASSICS**
-
-**A Farewell to Arms**
-
-Sun 1 May 12:00; Mon 16 May 18:15; Tue 24 May 20:50
-
-**Sunrise: A Song of Two Humans**
-
-Mon 2 May 12:20; Mon 30 May 18:20
-
-**Tokyo Story (Tokyo Monogatari)**
-
-Tue 3 May 14:30; Sat 7 May 15:00; Sat 21 May 11:10; Wed 25 May 18:00
-
-**The River**
-
-Wed 4 May 18:10 + intro by Geoff Andrew, Programmer-at-Large; Sun 15 May 15:10
-
-**El Sur (The South)**
-
-Thu 5 May 14:30; Mon 16 May 18:10
-
-**Daughters of the Dust**
-
-Fri 6 May 20:50; Fri 20 May 14:40; Thu 26 May 20:40
-
-**Syndromes and a Century (Sang sattawaat)**
-
-Sat 7 May 18:10; Thu 12 May 20:50
-
-**Still Walking (Aruitemo aruitemo)**
-
-Sun 8 May 15:15; Wed 11 May 17:50 + intro by Dr Alexander Jacoby, Senior Lecturer in Japanese Studies; Mon 23 May 20:45
-
-**The Long Day Closes**
-
-Mon 9 May 18:30; Sun 22 May 12:30; Thu 26 May 20:50
-
-**Journey to Italy (Viaggio in Italia)**
-
-Tue 10 May 20:50; Thu 19 May 18:10; Wed 25 May 20:50; Fri 27 May 18:20
-
-**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**
-
-Fri 13 May 20:45; Tue 17 May 20:50; Sat 28 May 18:15
-
-**Cleo from 5 to 7 (Cléo de 5 à 7)**
-
-Sat 14 May 14:45; Wed 18 May 18:10 + intro by Geoff Andrew, Programmer-at-Large
-
-**The Miracle Worker**
-
-Tue 17 May 14:30; Sun 29 May 11:20
-
-**The Incredible Shrinking Man**
-
-Thu 19 May 14:30; Tue 31 May 18:20
+**BIG SCREEN CLASSICS**<br>
+**A Farewell to Arms**<br>
+Sun 1 May 12:00; Mon 16 May 18:15; Tue 24 May 20:50<br>
+**Sunrise: A Song of Two Humans**<br>
+Mon 2 May 12:20; Mon 30 May 18:20<br>
+**Tokyo Story (Tokyo Monogatari)**<br>
+Tue 3 May 14:30; Sat 7 May 15:00; Sat 21 May 11:10; Wed 25 May 18:00<br>
+**The River**<br>
+Wed 4 May 18:10 + intro by Geoff Andrew, Programmer-at-Large; Sun 15 May 15:10<br>
+**El Sur (The South)**<br>
+Thu 5 May 14:30; Mon 16 May 18:10<br>
+**Daughters of the Dust**<br>
+Fri 6 May 20:50; Fri 20 May 14:40; Thu 26 May 20:40<br>
+**Syndromes and a Century (Sang sattawaat)**<br>
+Sat 7 May 18:10; Thu 12 May 20:50<br>
+**Still Walking (Aruitemo aruitemo)**<br>
+Sun 8 May 15:15; Wed 11 May 17:50 + intro by Dr Alexander Jacoby, Senior Lecturer in Japanese Studies; Mon 23 May 20:45<br>
+**The Long Day Closes**<br>
+Mon 9 May 18:30; Sun 22 May 12:30; Thu 26 May 20:50<br>
+**Journey to Italy (Viaggio in Italia)**<br>
+Tue 10 May 20:50; Thu 19 May 18:10; Wed 25 May 20:50; Fri 27 May 18:20<br>
+**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**<br>
+Fri 13 May 20:45; Tue 17 May 20:50; Sat 28 May 18:15<br>
+**Cleo from 5 to 7 (Cléo de 5 à 7)**<br>
+Sat 14 May 14:45; Wed 18 May 18:10 + intro by Geoff Andrew, Programmer-at-Large<br>
+**The Miracle Worker**<br>
+Tue 17 May 14:30; Sun 29 May 11:20<br>
+**The Incredible Shrinking Man**<br>
+Thu 19 May 14:30; Tue 31 May 18:20<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1OTA3OTY1LDczODUzMjc3NV19
+eyJoaXN0b3J5IjpbLTk2Mjg0Njc1NSw3Mzg1MzI3NzVdfQ==
 -->
