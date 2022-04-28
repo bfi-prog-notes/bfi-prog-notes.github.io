@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: We're All Going to the World's Fair
+published: true
+date: 2022-04-29
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Horror, Drama]
+metadata: 'USA 2021, 86 mins<br> Director: Jane Schoenbrun'
+pdf: '2022-04-29-were-all-going-to-the-worlds-fair.pdf'
+---
 
 **Director’s Statement**
 
@@ -8,9 +18,7 @@ A 30-something man who posted under the acronym ‘WAJ’ started commenting on 
 
 He told me that vampires were real: that his boyfriend had drunk his blood, and that now he was turning into one. He told me that he could feel the changes starting, that he was afraid of what he was becoming, but that it also felt good...
 
-I remember sitting in math class the next day playing this over in my head.  
-I knew that WAJ’s story wasn’t true, but part of me sort of wished that it was.  
-I thought, ‘Wouldn’t the world be a more exciting place if this sort of transformation were possible?’
+I remember sitting in math class the next day playing this over in my head.  I knew that WAJ’s story wasn’t true, but part of me sort of wished that it was.  I thought, ‘Wouldn’t the world be a more exciting place if this sort of transformation were possible?’
 
 _We’re All Going to the World’s Fair_ is a film about fantasy and intimacy and identity play in the digital realm. It takes inspiration as much from traditional narrative form as it does from the scroll of a newsfeed, and it tries to speak authentically in the language of the internet. It works from the thesis of Poe’s Law, an adage that posits that it is impossible to know if someone is telling the truth or trolling you online.
 
@@ -22,8 +30,7 @@ But I’m not sure I’ve ever seen dysphoria explored in American film in this 
 
 ‘Transgender Cinema as it is understood by cisgender filmmakers is exterior forces and changes, but we understand transness as an internal, textural, abstract energy. Especially in the case of dysphoria. What cisgender filmmakers typically do not understand is that for us, the internal becomes external, not the other way around. Dysphoria manifests itself in real exterior ways, but it originates from an internal place.’
 
-The tones of my film can be quite dark (just like those stories I wrote on that message board decades ago), but I feel that at its core this is a gentle work, and I hope that watching it will be a balm for people like me. I hope certain viewers will see something they recognise in these feelings and images, in my film’s fractured rhythms and narrative obstructions, in its interior world and emotional turbulence, in its hazy aesthetic distortion and oneiric reflections on gendered bodies, ungendered bodies, and bodies in disarray. In its  
-cinematic dysphoria.
+The tones of my film can be quite dark (just like those stories I wrote on that message board decades ago), but I feel that at its core this is a gentle work, and I hope that watching it will be a balm for people like me. I hope certain viewers will see something they recognise in these feelings and images, in my film’s fractured rhythms and narrative obstructions, in its interior world and emotional turbulence, in its hazy aesthetic distortion and oneiric reflections on gendered bodies, ungendered bodies, and bodies in disarray. In its  cinematic dysphoria.
 
 I hope this will make them feel a little less alone.
 
@@ -72,6 +79,24 @@ USA 2021
 
 A Lightbulb release
 <br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNTQwMjc5MDM2XX0=
 -->
