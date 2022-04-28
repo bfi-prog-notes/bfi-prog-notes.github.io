@@ -47,12 +47,10 @@ Jane Schoenbrun is a non-binary filmmaker. _We’re All Going to the World’s F
 **Production notes**
 <br><br>
 
-**WE’RE ALL GOING TO THE WORLD’S FAIR**
-
+**WE’RE ALL GOING TO THE WORLD’S FAIR**  
 _Directed by_: Jane Schoenbrun  
 ©: Love in Winter LLC  
-_Presented by_: Utopia, Dweck Productions,  
-Flies Collective  
+_Presented by_: Utopia, Dweck Productions,  Flies Collective  
 _Executive Producers_: Hannah Dweck, Theodore Schaefer, Daniel Patrick Carbone, Zachary Shedd, Matthew Petock, David Lowery  
 _Produced by_: Sarah Winshall, Carlos Zozaya  
 _Co-producer_: Abby Harri  
@@ -65,16 +63,15 @@ _Costume Designer_: Abby Harri
 _Music_: Alex G  
 _Sound Design_: Eli Cohn
 
-_Cast:_
-
+**Cast**  
 Anna Cobb _(Casey)_  
 Michael J. Rogers _(JLB)_
 
-USA 2021
-
+USA 2021  
 86 mins
 
 A Lightbulb release
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4NjUyNTg0XX0=
+eyJoaXN0b3J5IjpbNTQwMjc5MDM2XX0=
 -->
