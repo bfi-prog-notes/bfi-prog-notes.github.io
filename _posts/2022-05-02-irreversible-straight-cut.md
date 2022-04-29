@@ -42,25 +42,21 @@ _Graphics_: Pontecaille
 _Editors_: Gaspar Noé, Araud, Cauchy  
 _Art Directors_: Alain Juteau, Soler, Bayart, Castello  
 _Costumes_: Fred Cambier, Calandre, Eric Bigot,  Ly Cheng Born Tea  
-_Special Make-up Effects_:  Jean-Christophe Spadaccini, Denis Gastou,  
-Sylvie Ferry, Moreau, Petit  
+_Special Make-up Effects_:  Jean-Christophe Spadaccini, Denis Gastou, Sylvie Ferry, Moreau, Petit  
 _Hairdressers_: Pierre Chavialle, Ghislaine Tortereau  
 _Sound Recording_: Jean-Luc Audy, Olivier Busson  
 _Mixers_: Cyril Holtz, Eric Bonnard, Damien Bera  
-_Sound Editors_: Mac Boucrot,  
-Valérie Deloof, Bonneyrat  
+_Sound Editors_: Mac Boucrot,  Valérie Deloof, Bonneyrat  
 _Stunts_: Ayrola, Arnault
 
-_Cast:_
-
+**Cast**  
 Monica Bellucci _(Alex)_  
 Vincent Cassel _(Marcus)_  
 Albert Dupontel _(Pierre)_  
 Jo Prestia _(Le Ténia)_  
 Philippe Nahon _(Philippe, ex-butcher)_  
 Stéphane Drouot _(Stéphane)_  
-Jean-Louis Costes  
-_(Maso, man beaten to death in club)_  
+Jean-Louis Costes  _(Maso, man beaten to death in club)_  
 Gondouin _(Mike)_  
 Mourad Khima _(Mourad)_  
 Hellal _(Layde)_  
@@ -73,11 +69,11 @@ Adoum _(Fatima)_
 Foulaux _(Janice)_  
 Gaspar Noé _(Rectum Club masturbator)_ *
 
-France 2002©
-
+France 2002©  
 86 mins
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODE4MTYwNzhdfQ==
+eyJoaXN0b3J5IjpbLTEzODYyMDAyMzBdfQ==
 -->
