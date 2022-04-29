@@ -85,39 +85,23 @@ Sun 1 May 14:45; Sat 28 May 14:50<br>
 Sun 1 May 15:15, 20:30 (BFI IMAX)<br>
 **Tokyo Godfathers (Tôkyô Goddofâzâzu)**<br>
 Sun 1 May 18:00; Sat 28 May 12:30<br>
-
 **Perfect Blue (Pâfekuto Burû)**<br>
-
 Mon 2 May 18:40; Sat 14 May 20:45<br>
-
-**The Place Promised in our Early Days  
-(Kumo no Mukô, Yakusoku no Basho)**<br>
-
+**The Place Promised in our Early Days  (Kumo no Mukô, Yakusoku no Basho)**<br>
 Tue 3 May 18:00; Sun 22 May 15:00<br>
-
 **5 Centimeters per Second (Byôsoku 5 Senchimêtoru) + The Garden of Words (Kotonoha no Niwa)**<br>
-
 Tue 3 May 20:45; Sat 21 May 17:50<br>
-
 **Millennium Actress (Sennen Joyû)**<br>
-
-Wed 4 May 20:55; Sat 7 May 11:50;  
-Mon 23 May 18:15 (BFI IMAX)<br>
-
+Wed 4 May 20:55; Sat 7 May 11:50;  Mon 23 May 18:15 (BFI IMAX)<br>
 **Summer Wars (Samâ Uôzu)**<br>
-
 Sat 7 May 20:45; Sat 28 May 18:00<br>
-
 **Paprika (Papurika)**<br>
-
 Fri 13 May 20:40; Wed 18 May 20:45<br>
-
 **Wolf Children (Ôkami kodomo no Ame to Yuki)**<br>
-
 Sat 14 May 17:40; Sat 28 May 20:40<br>
 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTg4ODg3Nl19
+eyJoaXN0b3J5IjpbMTk2NzUwODQwMF19
 -->
