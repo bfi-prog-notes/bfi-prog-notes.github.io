@@ -43,84 +43,48 @@ _CGI Production in association with_: Imagica D-Shop, Animation Stuff Room, Sate
 _Character Designers_: Hideki Hamazu, Satoshi Kon<br>
 _Animation Director_: Hideki Hamazu<br>
 _Animation Studios_: Mad House, Oniro<br>
-_Photography_: Studio Cosmos, Tetsuo Daito, Motoaki Ikegemi, Katsunori Maehara, Yoichi Kuroda, Hiroshi Noguchi, Shinji Ikegami, Naohisa Haijima, Takashi Shimada, Toshikazu Hisano,
-Kouichi Furusawa, Soji Yazawa, Kanae Hirano, Kazumi Miyata, Masafumi Awakara, Tomohiro Nishiyama, Norizaku Yamaguchi, Yuki Katsuta, Kumiko Dei<br>
-
+_Photography_: Studio Cosmos, Tetsuo Daito, Motoaki Ikegemi, Katsunori Maehara, Yoichi Kuroda, Hiroshi Noguchi, Shinji Ikegami, Naohisa Haijima, Takashi Shimada, Toshikazu Hisano, Kouichi Furusawa, Soji Yazawa, Kanae Hirano, Kazumi Miyata, Masafumi Awakara, Tomohiro Nishiyama, Norizaku Yamaguchi, Yuki Katsuta, Kumiko Dei<br>
 _Special Effects_: Shoko Sanada, Visual Workshop<br>
-
 _Editor_: Harutoshi Ogata<br>
-
 _Art Director_: Nobutaka Ike<br>
-
 _Music_: Masahiro Ikumi (Office 93)<br>
-
 _Choreographer_: Izumi<br>
-
 _Sound Director_: Masafumi Mima<br>
-
 _Recorded by_: Fujio Yamada<br>
 
-_Voice Cast:_<br>
-
+**Voice Cast**<br>
 Junko Iwao (_Mima_)<br>
-
 Rika Matsumoto (_Rumi_)<br>
-
 Tsuji Shinpachi (_Takodoro_)<br>
-
 Masaaki Okura (_Uchida_)<br>
-
 Yosuke Akimoto (_Tejima_)<br>
-
 Akira Shioya (_Shibuya_)<br>
-
 Hideyuki Hori (_Sakuragi_)<br>
-
 Emi Shinohara (_Eri_)<br>
-
 Masashi Ehara (_Murano_)<br>
-
 Kiyonobu Harita (_director_)<br>
-
 Toru Hurusawa (_Yada_)<br>
-
 Shiho Niiyama (_Rei_)<br>
-
 Emiko Furukawa (_Yukiko_)<br>
-
 Aya Hara<br>
-
 Shin’ichirô Miki<br>
-
 Hitoshi Yamanoi<br>
-
 Megumi Tano<br>
-
 Takashi Nagasaki<br>
-
 Akio Toyama<br>
-
 Osamu Hosoi<br>
-
 Koichi Tochika<br>
-
 Emi Motoi<br>
-
 Soichiro Hoshi<br>
-
 Noriaki Taniyama<br>
-
 Shocker Ono (_M.C._)<br>
-
 Shocker Ono, Loft Plus, One Brothers (_audience_)<br>
-
 Makoto Kitano (_special appearance_)<br>
-
 Kaori Minami (_special appearance_)<br>
 
 Japan 1998    
 81 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzcxMzg0MjldfQ==
+eyJoaXN0b3J5IjpbMTA3NDQzMjU2N119
 -->
