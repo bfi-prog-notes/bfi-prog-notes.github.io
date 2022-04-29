@@ -23,126 +23,104 @@ The reality-dream divide is memorably worked out in the images. Satoshi – a ma
 <br><br>
 
 **PERFECT BLUE (PÂFEKUTO BURÛ)**<br>
-
 _Directed by_: Satoshi Kon<br>
-
 _Production Company_: Rex Entertainment Co Ltd<br>
-
-_Filmed in association with_:  
-Kotobuki Seihan Printing Co., Ltd.,  
+_Filmed in association with_:  Kotobuki Seihan Printing Co., Ltd.,  
 Asahi National Broadcasting, Fangs Co., Ltd.<br>
-
 _Executive Producers_: Koshiro Kanda, Yuichi Tsurmi<br>
-
 _General Producer_: Takeshi Washitani<br>
-
-_Producers_: Hitomi Nakagaki, Yoshihisa Ishihara, Yutaka Togo, Masao Maruyama, Hiroaki Inoue
-
-_Planning_: Koichi Okamoto, Yoshikazu Takeuchi
-
-_Production Manager_: Mitsusuke Hayakawa
-
-_Project Advisers_: Katsuhiro Otomo,  
-Toshio Funakawa, Atsushi Naito
-
-_Unit Director_: Ko Matsuo
-
-_Screenplay_: Sadayuki Murai
-
-_Based on the novel by_: Yoshikazu Takeuchi
-
-_Based on character design by_: Hisashi Eguchi
-
-_Director of Photography_: Hisao Shirai
-
-_CGI Production_: Iwao Yamaki, Tsuneo Maeda, Masafumi Otsune
-
-_CGI Production in association with_: Imagica D-Shop, Animation Stuff Room, Satellite, Marcus
-
-_Character Designers_: Hideki Hamazu, Satoshi Kon
-
-_Animation Director_: Hideki Hamazu
-
-_Animation Studios_: Mad House, Oniro
-
+_Producers_: Hitomi Nakagaki, Yoshihisa Ishihara, Yutaka Togo, Masao Maruyama, Hiroaki Inoue<br>
+_Planning_: Koichi Okamoto, Yoshikazu Takeuchi<br>
+_Production Manager_: Mitsusuke Hayakawa<br>
+_Project Advisers_: Katsuhiro Otomo,  Toshio Funakawa, Atsushi Naito<br>
+_Unit Director_: Ko Matsuo<br>
+_Screenplay_: Sadayuki Murai<br>
+_Based on the novel by_: Yoshikazu Takeuchi<br>
+_Based on character design by_: Hisashi Eguchi<br>
+_Director of Photography_: Hisao Shirai<br>
+_CGI Production_: Iwao Yamaki, Tsuneo Maeda, Masafumi Otsune<br>
+_CGI Production in association with_: Imagica D-Shop, Animation Stuff Room, Satellite, Marcus<br>
+_Character Designers_: Hideki Hamazu, Satoshi Kon<br>
+_Animation Director_: Hideki Hamazu<br>
+_Animation Studios_: Mad House, Oniro<br>
 _Photography_: Studio Cosmos, Tetsuo Daito, Motoaki Ikegemi, Katsunori Maehara, Yoichi Kuroda, Hiroshi Noguchi, Shinji Ikegami, Naohisa Haijima, Takashi Shimada, Toshikazu Hisano,
+Kouichi Furusawa, Soji Yazawa, Kanae Hirano, Kazumi Miyata, Masafumi Awakara, Tomohiro Nishiyama, Norizaku Yamaguchi, Yuki Katsuta, Kumiko Dei<br>
 
-Kouichi Furusawa, Soji Yazawa, Kanae Hirano, Kazumi Miyata, Masafumi Awakara, Tomohiro Nishiyama, Norizaku Yamaguchi, Yuki Katsuta, Kumiko Dei
+_Special Effects_: Shoko Sanada, Visual Workshop<br>
 
-_Special Effects_: Shoko Sanada, Visual Workshop
+_Editor_: Harutoshi Ogata<br>
 
-_Editor_: Harutoshi Ogata
+_Art Director_: Nobutaka Ike<br>
 
-_Art Director_: Nobutaka Ike
+_Music_: Masahiro Ikumi (Office 93)<br>
 
-_Music_: Masahiro Ikumi (Office 93)
+_Choreographer_: Izumi<br>
 
-_Choreographer_: Izumi
+_Sound Director_: Masafumi Mima<br>
 
-_Sound Director_: Masafumi Mima
+_Recorded by_: Fujio Yamada<br>
 
-_Recorded by_: Fujio Yamada
+_Voice Cast:_<br>
 
-_Voice Cast:_
+Junko Iwao (_Mima_)<br>
 
-Junko Iwao (_Mima_)
+Rika Matsumoto (_Rumi_)<br>
 
-Rika Matsumoto (_Rumi_)
+Tsuji Shinpachi (_Takodoro_)<br>
 
-Tsuji Shinpachi (_Takodoro_)
+Masaaki Okura (_Uchida_)<br>
 
-Masaaki Okura (_Uchida_)
+Yosuke Akimoto (_Tejima_)<br>
 
-Yosuke Akimoto (_Tejima_)
+Akira Shioya (_Shibuya_)<br>
 
-Akira Shioya (_Shibuya_)
+Hideyuki Hori (_Sakuragi_)<br>
 
-Hideyuki Hori (_Sakuragi_)
+Emi Shinohara (_Eri_)<br>
 
-Emi Shinohara (_Eri_)
+Masashi Ehara (_Murano_)<br>
 
-Masashi Ehara (_Murano_)
+Kiyonobu Harita (_director_)<br>
 
-Kiyonobu Harita (_director_)
+Toru Hurusawa (_Yada_)<br>
 
-Toru Hurusawa (_Yada_)
+Shiho Niiyama (_Rei_)<br>
 
-Shiho Niiyama (_Rei_)
+Emiko Furukawa (_Yukiko_)<br>
 
-Emiko Furukawa (_Yukiko_)
+Aya Hara<br>
 
-Aya Hara
+Shin’ichirô Miki<br>
 
-Shin’ichirô Miki
+Hitoshi Yamanoi<br>
 
-Hitoshi Yamanoi
+Megumi Tano<br>
 
-Megumi Tano
+Takashi Nagasaki<br>
 
-Takashi Nagasaki
+Akio Toyama<br>
 
-Akio Toyama
+Osamu Hosoi<br>
 
-Osamu Hosoi
+Koichi Tochika<br>
 
-Koichi Tochika
+Emi Motoi<br>
 
-Emi Motoi
+Soichiro Hoshi<br>
 
-Soichiro Hoshi
+Noriaki Taniyama<br>
 
-Noriaki Taniyama
+Shocker Ono (_M.C._)<br>
 
-Shocker Ono (_M.C._)
+Shocker Ono, Loft Plus, One Brothers (_audience_)<br>
 
-Shocker Ono, Loft Plus, One Brothers (_audience_)
+Makoto Kitano (_special appearance_)<br>
 
-Makoto Kitano (_special appearance_)
+Kaori Minami (_special appearance_)<br>
 
-Kaori Minami (_special appearance_)
-
-Japan 1998  
-81 mins
+Japan 1998    
+81 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzQ1MjQ0MV19
+eyJoaXN0b3J5IjpbLTE2NzcxMzg0MjldfQ==
 -->
