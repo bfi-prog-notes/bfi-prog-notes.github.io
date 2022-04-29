@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Perfect Blue
+published: true
+date: 2022-05-02
+readtime: true
+categories: ['ANIME']
+tags: [Animation]
+metadata: 'Japan 1998, 81 mins<br> Director: Satoshi Kon'
+pdf: '2022-05-02-perfect-blue.pdf'
+---
 
 Satoshi Kon’s feature debut plunges us into Japan’s late 1990s pop idol scene, and surfaces with a fractured tale of psychological and physical brutality. Mima is 21 when she decides to leave CHAM!, the J-pop group in which she rose to fame, to pursue what she hopes will be a more rewarding acting career. Mima’s manager Rumi is against the change – as are her fans. For one in particular, an anonymous figure lurking behind the online persona ‘Me-Mania’, that devotion tips into stalking. But for Mima, escaping the cocoon of her cute idol persona is as urgently felt as an adolescent’s yearning for independence. The transition isn’t easy, though, and from limited options she takes a role as a rape victim on a TV show – a part that distresses her in her ‘real’ life. Before long, Mima’s co-stars and collaborators start turning up murdered, and she finds herself haunted by visions of her former self – and increasingly unable to distinguish fact from fiction.
 
@@ -85,6 +95,56 @@ Kaori Minami (_special appearance_)<br>
 Japan 1998    
 81 mins<br>
 <br>
+
+**CONTEMPORARY ANIME AUTEURS**<br>
+**Your Name (Kimi no Na wa)**<br>
+Sun 1 May 12:30, 18:00 (BFI IMAX)<br>
+**The Girl Who Leapt through Time  (Toki o Kakeru Shôjo)**<br>
+Sun 1 May 14:45; Sat 28 May 14:50<br>
+**Weathering with You (Tenki no Ko)**<br>
+Sun 1 May 15:15, 20:30 (BFI IMAX)<br>
+**Tokyo Godfathers (Tôkyô Goddofâzâzu)**<br>
+Sun 1 May 18:00; Sat 28 May 12:30<br>
+**Perfect Blue (Pâfekuto Burû)**<br>
+Mon 2 May 18:40; Sat 14 May 20:45<br>
+**The Place Promised in our Early Days  (Kumo no Mukô, Yakusoku no Basho)**<br>
+Tue 3 May 18:00; Sun 22 May 15:00<br>
+**5 Centimeters per Second (Byôsoku 5 Senchimêtoru) + The Garden of Words (Kotonoha no Niwa)**<br>
+Tue 3 May 20:45; Sat 21 May 17:50<br>
+**Millennium Actress (Sennen Joyû)**<br>
+Wed 4 May 20:55; Sat 7 May 11:50;  Mon 23 May 18:15 (BFI IMAX)<br>
+**Summer Wars (Samâ Uôzu)**<br>
+Sat 7 May 20:45; Sat 28 May 18:00<br>
+**Paprika (Papurika)**<br>
+Fri 13 May 20:40; Wed 18 May 20:45<br>
+**Wolf Children (Ôkami kodomo no Ame to Yuki)**<br>
+Sat 14 May 17:40; Sat 28 May 20:40<br>
+<br>
+
+This season was co-programmed by writer and academic Hanako Miyata<br>
+
+<img style="float: left;" src="/img/japan-nakama.png" width="30%" height="30%">
+<br><br><br><br><br>
+
+**Japan Nakama is an online community for Japanese culture enthusiasts and a marketplace for Japan-made and inspired products.**<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA3NDQzMjU2N119
 -->
