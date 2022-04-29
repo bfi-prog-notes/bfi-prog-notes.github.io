@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Man Bites Dog
+published: true
+date: 2022-05-02
+readtime: true
+categories: ['CRUEL FLESH<br>FILMS OF THE  NEW FRENCH EXTREMITY']
+tags: [Crime, Satire]
+metadata: 'Belgium 1992, 96 mins<br> Directors: Rémy Belvaux, André Bonzel,  Benoît Poelvoorde'
+pdf: '2022-05-02-man-bites-dog.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -15,8 +25,7 @@ Amid the uncertainty with which one event follows another in the film, there is 
 
 This is humour of a Pythonesque extreme, rescuing its audience from stunned revulsion not only by the absurdity of Ben’s career but also by being a patently fake ‘documentary’ from the moment the first victim is strangled without a glance at the camera hovering in front of her (by contrast with a later postman who asks if he’s on television just before Ben pounces on him). Full of amiable puzzles, the film scatters Ben’s victims around in such quantity that the most persistent question, adding to the fun, must be how he gets away with it for so long. A car chase in pursuit of another gunman seems to be part of an underworld feud about which, uncharacteristically, Ben has little to say – although it leads to his downfall and it seems odd that the Taviers (assuming that they are indeed his nemesis) make no attempt to move the corpse of their henchman, left for weeks where Ben felled him.
 
-But the real joke, justifying the invention of the unseen Tavier gang and their unpleasant habit of skewering rats, is of course that the actor Vincent Tavier (playing one of Rémy’s disposable soundmen) is the last to get shot, after  
-co-writing the script and, like most of the team, filling out a whole range of production roles. This is a family affair, bargain-basement indulgence of the _Wayne’s World_ kind, with space for Ben’s (real) family to crack their usual jokes and for his roguish grandfather to hustle for drinks while telling gleeful tales of his own misspent youth.
+But the real joke, justifying the invention of the unseen Tavier gang and their unpleasant habit of skewering rats, is of course that the actor Vincent Tavier (playing one of Rémy’s disposable soundmen) is the last to get shot, after  co-writing the script and, like most of the team, filling out a whole range of production roles. This is a family affair, bargain-basement indulgence of the _Wayne’s World_ kind, with space for Ben’s (real) family to crack their usual jokes and for his roguish grandfather to hustle for drinks while telling gleeful tales of his own misspent youth.
 
 Although the spectres presiding over this feast of horrors are those fashionably raised by the latest spate of urban-psycho movies, the figure of Ben – unlike, say, the serial-killer Henry, who is malevolently straight-faced – has the ingratiating brutality of Richard III as played by Robert De Niro. Performed by Benoît Poelvoorde with a venomous and self-congratulatory charm, he is fully the contemporary villain, his conceit unhampered by pity or remorse, unless it be over a killing that could have been more efficient in which case, Rémy and his spotlights are usually to blame. His attacks on the dull streets and compliant citizens of his hometown have a flamboyance and bravado with which it is wincingly easy to sympathise. Thanks to him, to encounter _Man Bites Dog_ is to submit to a torrent of hilariously cruel humour, enacted without fuss or rancour, and inconceivably authentic.  
 **Philip Strick, _Sight and Sound_, January 1993**
@@ -129,6 +138,63 @@ Jean-Paul Geets _(client at Malou)_
 Belgium 1992©  
 96 mins<br>
 <br>
+
+**CRUEL FLESH: FILMS OF THE  NEW FRENCH EXTREMITY**<br>
+**Carne + La Bouche de Jean-Pierre**<br>
+Sun 1 May 11:50; Thu 12 May 20:45 (+ Q&A with Lucile Hadžihalilovic)<br>
+**Baise-moi**<br>
+Sun 1 May 18:20; Sat 7 May 20:50<br>
+**The Ordeal (Calvaire)**<br>
+Mon 2 May 12:30; Sun 22 May 18:20<br>
+**Man Bites Dog (C’est arrivé près de chez vous)**<br>
+Mon 2 May 15:10; Tue 10 May 20:55<br>
+**Sex and Death, but Make It Arthouse**<br>
+Tue 3 May 18:10<br>
+**Trouble Every Day**<br>
+Tue 3 May 20:30 (+ intro by writer and creative Sophie Monks Kaufman); Tue 24 May 20:45<br>
+**Criminal Lovers (Les Amants criminels)**<br>
+Wed 4 May 20:50; Sat 14 May 12:00<br>
+**Pola X**<br>
+Thu 5 May 20:25; Sat 28 May 17:50<br>
+**Romance (Romance X)**<br>
+Fri 6 May 18:00 (+ intro by Catherine Wheatley, King’s College London); Tue 17 May 20:45<br>
+**Philosophical Screens: Romance**<br>
+Fri 6 May 20:00<br>
+**In My Skin (Dans ma peau)**<br>
+Sat 7 May 17:50 (+ intro by Catherine Wheatley, King’s College London); Thu 19 May 20:40<br>
+**High Tension (aka Switchblade Romance)  (Haute Tension)**<br>
+Mon 9 May 18:00 (+ pre-recorded intro by author Alexandra West); Sat 28 May 12:20<br>
+**Inside (À l’intérieur)**<br>
+Sat 14 May 20:50; Thu 26 May 18:20<br>
+**Them (Ils)**<br>
+Mon 16 May 20:50; Sun 29 May 18:20<br>
+**Irreversible** **(Irréversible)** (theatrical version)<br>
+Sat 21 May 17:45<br>
+**Martyrs**<br>
+Sat 28 May 20:50; Tue 31 May 20:40<br>
+**Horror à la Française**<br>
+Free to view on the BFI YouTube channel from  11-31 May<br>
+**BFI Courses: City Lit at the BFI:  New French Extremity**<br>
+Every Tue from 10-31 May 18:30-20:30<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEzNDg3MjU0OF19
 -->
