@@ -16,51 +16,33 @@ By the time _Irreversible_ arrives at the notorious rape scene, Noé has conjure
 
 As for the scene itself, the use of a single low-angle shot, which foregrounds the face of Monica Bellucci as she is sodomised by an attacker whose obscenely pornographic rantings battle with her gut-churning cries of pain, clearly highlights _her_ suffering rather than _his_ pleasure – if it can indeed be called such. Crucially, Noé goes out of his way to depict rape as an act of violence rather than of sex, unlike in many more mainstream depictions of such assaults. No wonder the BBFC concluded that this sequence was ‘a harrowing and vivid portrayal of the brutality of rape [which] contains no explicit sexual images and is not designed to titillate.’ When I looked away, I did so not in disgust but in horror; unable to watch (as indeed one should be), but certain of the justification of the display.
 
-While it would be fanciful and naive to claim that _Irreversible_ is a ‘socially responsible’ analysis of sexual violence (it is an extremely tactless movie, designed to inflame rather than investigate its audience’s sensibilities), it perfectly conforms to that peculiar anomaly which so regularly renders lowbrow exploitation fare less morally contemptible than its mainstream counterparts.  
-As every exploitation-film fan knows, it is far easier to defend the grimly relentless horrors of the long-banned _I Spit on Your Grave_, which portrays rape as a protractedly ugly affair, than the glossily palatable assaults of _Jagged Edge_, _Basic Instinct_ or any of the other Hollywood hits that trade on the promise of consumer-packaged, titillating sexual violence.
+While it would be fanciful and naive to claim that _Irreversible_ is a ‘socially responsible’ analysis of sexual violence (it is an extremely tactless movie, designed to inflame rather than investigate its audience’s sensibilities), it perfectly conforms to that peculiar anomaly which so regularly renders lowbrow exploitation fare less morally contemptible than its mainstream counterparts.  As every exploitation-film fan knows, it is far easier to defend the grimly relentless horrors of the long-banned _I Spit on Your Grave_, which portrays rape as a protractedly ugly affair, than the glossily palatable assaults of _Jagged Edge_, _Basic Instinct_ or any of the other Hollywood hits that trade on the promise of consumer-packaged, titillating sexual violence.
 
-What we are left with, then, is a breathtakingly efficient exploitation flick that uses a barrage of incendiary sights and sounds to beat its audience up, then ends ironically with an upbeat opening that serves only to reinforce the sense of tragedy to come. The true meaning of the film’s title lies ultimately in its depiction of the damage of violence as being utterly irreversible, suggesting that (contrary to generic law) a rape-revenge movie can _only_ have a genuinely happy ending if you play it backwards. While directors as diverse as Wes Craven and Abel Ferrara have wrestled with this concept in the past, it is Noé, with his unashamedly simple and derivative narrative device, who manages most succinctly to reveal this basic truth without betraying the visceral thrills for which his audience are ultimately paying. _Irreversible_ is a film which attempts to knock you out, literally, but in doing so also achieves a level of artistic honesty that belies its base motives. For that, we should all be thankful.
+What we are left with, then, is a breathtakingly efficient exploitation flick that uses a barrage of incendiary sights and sounds to beat its audience up, then ends ironically with an upbeat opening that serves only to reinforce the sense of tragedy to come. The true meaning of the film’s title lies ultimately in its depiction of the damage of violence as being utterly irreversible, suggesting that (contrary to generic law) a rape-revenge movie can _only_ have a genuinely happy ending if you play it backwards. While directors as diverse as Wes Craven and Abel Ferrara have wrestled with this concept in the past, it is Noé, with his unashamedly simple and derivative narrative device, who manages most succinctly to reveal this basic truth without betraying the visceral thrills for which his audience are ultimately paying. _Irreversible_ is a film which attempts to knock you out, literally, but in doing so also achieves a level of artistic honesty that belies its base motives. For that, we should all be thankful.  
+**Mark Kermode, _Sight & Sound_, February 2003**
+<br><br>
 
-Mark Kermode, _Sight & Sound_, February 2003
-
-<![endif]-->
-
-**IRREVERSIBLE (IRRÉVERSIBLE)**
-
+**IRREVERSIBLE (IRRÉVERSIBLE)**  
 _Director_: Gaspar Noé  
-©: Nord-Ouest Productions, StudioCanal
-
-_Production Companies:  
-_Nord-Ouest Productions, Eskwad  
-_In co-production with_: StudioCanal,
-
-120 Films, Les Cinémas de la Zone  
+©: Nord-Ouest Productions, StudioCanal  
+_Production Companies:_ Nord-Ouest Productions, Eskwad  
+_In co-production with_: StudioCanal, 120 Films, Les Cinémas de la Zone  
 _With the participation of_: Canal+  
-_Producers_: Christophe Rossignon,
-
-Richard Grandpierre  
-_Co-producers_: Brahim Chioua,  
-Vincent Cassel, Gaspar Noé  
-_Production Managers_: Serge Catoire,  
-Eve Machuel, Duigou, Romero, Naret, Bainouti  
-_Assistant Directors_: Olivier Thery-Lapiney,
-
-Stéphane Derderian  
+_Producers_: Christophe Rossignon, Richard Grandpierre  
+_Co-producers_: Brahim Chioua,  Vincent Cassel, Gaspar Noé  
+_Production Managers_: Serge Catoire,  Eve Machuel, Duigou, Romero, Naret, Bainouti  
+_Assistant Directors_: Olivier Thery-Lapiney, Stéphane Derderian  
 _Casting_: Jacques Grant, Leroux  
 _Screenplay_: Gaspar Noé  
 _Director of Photography_: Benoît Debie  
 _Camera Operator_: Gaspar Noé  
 _Steadicam Operator_: Eric Catelan  
-_Special Effects_: Rodolph Chabrier, Jacques Bled, Ramdam, Delphine Le Roch, Cros, Patrick Rouxel, Alex Kolasinski, Xavier Fourmond, Richard, Loïc Boineau, Allegre, Coureau, Louis-Marie, Machuret, Roussel, Vidal, Charrier, Delcloy, Valdu,
-
-Saïd Hajjioui  
+_Special Effects_: Rodolph Chabrier, Jacques Bled, Ramdam, Delphine Le Roch, Cros, Patrick Rouxel, Alex Kolasinski, Xavier Fourmond, Richard, Loïc Boineau, Allegre, Coureau, Louis-Marie, Machuret, Roussel, Vidal, Charrier, Delcloy, Valdu, Saïd Hajjioui  
 _Graphics_: Pontecaille  
 _Editors_: Gaspar Noé, Araud, Cauchy  
 _Art Directors_: Alain Juteau, Soler, Bayart, Castello  
-_Costumes_: Fred Cambier, Calandre, Eric Bigot,  
-Ly Cheng Born Tea  
-_Special Make-up Effects_:  
-Jean-Christophe Spadaccini, Denis Gastou,  
+_Costumes_: Fred Cambier, Calandre, Eric Bigot,  Ly Cheng Born Tea  
+_Special Make-up Effects_:  Jean-Christophe Spadaccini, Denis Gastou,  
 Sylvie Ferry, Moreau, Petit  
 _Hairdressers_: Pierre Chavialle, Ghislaine Tortereau  
 _Sound Recording_: Jean-Luc Audy, Olivier Busson  
@@ -97,5 +79,5 @@ France 2002©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTI3MzA5OV19
+eyJoaXN0b3J5IjpbLTE5ODE4MTYwNzhdfQ==
 -->
