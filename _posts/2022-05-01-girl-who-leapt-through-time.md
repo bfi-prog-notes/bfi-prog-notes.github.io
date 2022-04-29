@@ -27,16 +27,12 @@ Visually, Hosoda’s aesthetic is defined by clean lines and the use of simple, 
 
 Despite its supernatural concept, the narrative of his breakout film _The Girl Who Leapt through Time_ is completely focused on the emotional journey of its main character, Makoto. In a more modern take on Yasutaka Tsutsui’s book, Makoto finds herself with the power to (literally) leap back through time – a more active power than the time loop of the 1983 Nobuhiko Obayashi adaptation of the same story.
 
-Her newfound power may be outlandish, but Hosoda keeps things grounded by focusing on the frivolous desires she uses it for: retaking exams, repeating karaoke for eight hours, saving face in front of her peers. All until she decides to use it to help her friends. That choice is something that Hosoda is very interested in, empathising with youthful self-centredness and feelings of isolation. The self-understanding required to better connect with others is a theme throughout his films.
+Her newfound power may be outlandish, but Hosoda keeps things grounded by focusing on the frivolous desires she uses it for: retaking exams, repeating karaoke for eight hours, saving face in front of her peers. All until she decides to use it to help her friends. That choice is something that Hosoda is very interested in, empathising with youthful self-centredness and feelings of isolation. The self-understanding required to better connect with others is a theme throughout his films.  
+**Kambole Campbell, bfi.org.uk, 30 July 2020**
+<br><br>
 
-Kambole Campbell, bfi.org.uk, 30 July 2020
-
-<![endif]-->
-
-**THE GIRL WHO LEAPT THROUGH TIME**
-
-**(TOKI O KAKERU SHÔJO)**
-
+**THE GIRL WHO LEAPT THROUGH TIME**  
+**(TOKI O KAKERU SHÔJO)**  
 _Directed by_: Mamoru Hosoda  
 ©: Tokikake Film Partners  
 _Production Company_: Kadokawa Shoten  
@@ -49,8 +45,7 @@ _Screenplay by_: Satoko Okudera
 _Based on the short story by_: Yasutaka Tsutsui  
 _Director of Photography_: Yoshihiro Tomita  
 _Special Effects_: Team Taniguchi, Ayumi Arahata, Keiko Itogawa, Kumiko Taniguchi  
-_Animation Directors_: Hiroyuki Aoyama,  
-Chikai Kubota, Shinji Ishihama  
+_Animation Directors_: Hiroyuki Aoyama,  Chikai Kubota, Shinji Ishihama  
 _Animation Production_: Mad House  
 _Key Animators_: Aiko Wakatsuki, Akira Takata, Atsushi Sekiguchi, Ayako Hata, Chihiro Hayashi, Eriko Kubokawa, Hidehiko Sawada, Hideki Ito, Hideki Takahashi, Hideto Komori, Hiroshi Shimizu, Hisashi Mori, Hitoshi Ueda, Ichiro Uno, Junko Abe, Kanami Sekiguchi, Kanta Kamei, Katsuyoshi Nakatsuru, Kazuaki Imai, Kazuko Shibata, Keiichi Kondo, Keiko Shimizu, Keisuke Masunaga, Kenji Hachizaki, Kumiko Kawana, Kunihiko Sakurai, Mamoru Sasaki, Manabu Nakatake, Mayumi Kitamura, Michio Fukuda, Naoko Ikeuchi, Naoyuki Asano, Nobumasa Shinkawa, Nobuyuki Kitajima, Norihiro Naganuma, Norimoto Tokura, Noriyuki Matsutake, Rei Aoi, Ryoochimo Sawa, Ryousuke Sawa, Shinya Hasegawa, Tadashi Matsuzaki, Tadashi Sakazaki, Takaaki Wada, Takaaki Yamashita, Takahiro Chiba, Takashi Kawaguchi, Takashi Mukouda, Takuo Noda, Tatsuzou Nishida, Tetsuo Hirakawa, Tetsuro Kaku, Tomotaka Shibayama, Toshiharu Sugie, Toshihiko Masuda, Tsugumi Ueno, Yasuhiro Nakura, Yasunori Miyazawa, Yoshiaki Toki, Yuko Yazaki, Yumi Masuda, Yuuji Shigekuni  
 _Editor_: Shigeru Nishiyama  
@@ -62,8 +57,7 @@ _Sound Recording_: Yoshio Ohara
 _Sound Effects_: Shizuo Kurahashi  
 _English Subtitles by_: Paul Bryden
 
-_Voice Cast:_
-
+**Voice Cast**  
 Riisa Naka _(Makoto Konno)_  
 Takuya Ishida _(Chiaki Mamiya)_  
 Mitsutaka Itakura _(Kosuke Tsuda)_  
@@ -78,62 +72,52 @@ Moriko Uesugi _(Shihori Yokohari)_
 Sekimi Nowake _(Sonoka Matsuoka)_  
 Utawaka Katsura _(father)_
 
-Japan 2006©
-
+Japan 2006©  
 98 mins
+<br><br>
 
-<![endif]-->
+**CONTEMPORARY ANIME AUTEURS**<br>
+**Your Name (Kimi no Na wa)**<br>
+Sun 1 May 12:30, 18:00 (BFI IMAX)<br>
+**The Girl Who Leapt through Time  (Toki o Kakeru Shôjo)**<br>
+Sun 1 May 14:45; Sat 28 May 14:50<br>
+**Weathering with You (Tenki no Ko)**<br>
+Sun 1 May 15:15, 20:30 (BFI IMAX)<br>
+**Tokyo Godfathers (Tôkyô Goddofâzâzu)**<br>
+Sun 1 May 18:00; Sat 28 May 12:30<br>
 
-**CONTEMPORARY ANIME AUTEURS**
+**Perfect Blue (Pâfekuto Burû)**<br>
 
-**Your Name (Kimi no Na wa)**
-
-Sun 1 May 12:30, 18:00 (BFI IMAX)
-
-**The Girl Who Leapt through Time  
-(Toki o Kakeru Shôjo)**
-
-Sun 1 May 14:45; Sat 28 May 14:50
-
-**Weathering with You (Tenki no Ko)**
-
-Sun 1 May 15:15, 20:30 (BFI IMAX)
-
-**Tokyo Godfathers (Tôkyô Goddofâzâzu)**
-
-Sun 1 May 18:00; Sat 28 May 12:30
-
-**Perfect Blue (Pâfekuto Burû)**
-
-Mon 2 May 18:40; Sat 14 May 20:45
+Mon 2 May 18:40; Sat 14 May 20:45<br>
 
 **The Place Promised in our Early Days  
-(Kumo no Mukô, Yakusoku no Basho)**
+(Kumo no Mukô, Yakusoku no Basho)**<br>
 
-Tue 3 May 18:00; Sun 22 May 15:00
+Tue 3 May 18:00; Sun 22 May 15:00<br>
 
-**5 Centimeters per Second (Byôsoku 5 Senchimêtoru) + The Garden of Words (Kotonoha no Niwa)**
+**5 Centimeters per Second (Byôsoku 5 Senchimêtoru) + The Garden of Words (Kotonoha no Niwa)**<br>
 
-Tue 3 May 20:45; Sat 21 May 17:50
+Tue 3 May 20:45; Sat 21 May 17:50<br>
 
-**Millennium Actress (Sennen Joyû)**
+**Millennium Actress (Sennen Joyû)**<br>
 
 Wed 4 May 20:55; Sat 7 May 11:50;  
-Mon 23 May 18:15 (BFI IMAX)
+Mon 23 May 18:15 (BFI IMAX)<br>
 
-**Summer Wars (Samâ Uôzu)**
+**Summer Wars (Samâ Uôzu)**<br>
 
-Sat 7 May 20:45; Sat 28 May 18:00
+Sat 7 May 20:45; Sat 28 May 18:00<br>
 
-**Paprika (Papurika)**
+**Paprika (Papurika)**<br>
 
-Fri 13 May 20:40; Wed 18 May 20:45
+Fri 13 May 20:40; Wed 18 May 20:45<br>
 
-**Wolf Children (Ôkami kodomo no Ame to Yuki)**
+**Wolf Children (Ôkami kodomo no Ame to Yuki)**<br>
 
-Sat 14 May 17:40; Sat 28 May 20:40
+Sat 14 May 17:40; Sat 28 May 20:40<br>
+<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjkyNDgyMl19
+eyJoaXN0b3J5IjpbLTgzOTg4ODg3Nl19
 -->
