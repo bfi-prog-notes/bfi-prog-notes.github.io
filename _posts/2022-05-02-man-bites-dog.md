@@ -48,16 +48,13 @@ _Original Music Performed by_: Jean-Marc Chenut, Laurence Dufrêne
 _Original Music Recorded at_: Studio Blue Cry  
 _Original Music Recorded by_: Philippe Malempré, Peter Soldan, Marc Neuttiens, Olivier Gilson, Johnny Maillard  
 _Sound Recording_: Alain Oppezzi, Vincent Tavier  
-_Re-recording Mixers_: Franco Piscopo,  
-Clotilde François  
+_Re-recording Mixers_: Franco Piscopo,  Clotilde François  
 _Sound Editing_: Franco Piscopo, Clotilde François  
 _Sound Effects_: Bertrand Boudaud  
-_Sound Effects Recording_: Clotilde François,  
-Franco Piscopo  
+_Sound Effects Recording_: Clotilde François,  Franco Piscopo  
 _Sound Film_: Agfa
 
-_Cast:_
-
+**Cast**  
 Benoît Poelvoorde _(Ben Patard)_  
 Jacqueline Poelvoorde Pappaert _(Ben’s mother)_  
 Nelly Pappaert _(Ben’s grandmother)_  
@@ -72,8 +69,7 @@ Sylviane Gode _(female rape victim)_
 Zoltan Tobolik _(male rape victim)_  
 Valérie Parent _(Valérie)_  
 Alexandra Fandango _(Kalifa)_  
-Olivier Cotica _(Benichou)_
-
+Olivier Cotica _(Benichou)_  
 Pol Vanderwarren _(lawyer)_  
 Anne Lagrange _(journalist)_  
 Paul Bottemanne _(taxi driver)_  
@@ -83,48 +79,42 @@ Sabine Tavier _(Madame Pipi)_
 Annamaria Szomolanyova _(violinist)_  
 Carlos Campo Miranda _(night watchman)_
 
-_crew_
-
+_crew_  
 Rémy Belvaux _(reporter)_  
 André Bonzel _(cameraman)_
 
-_sound engineers_
-
+_sound engineers_  
 Jean-Marc Chenut _(Patrick)_  
 Alain Oppezzi _(Franco)_  
 Vincent Tavier _(Vincent)_
 
-_Villa’s family_
-
+_Villa’s family_  
 Gina Cotica _(mother)_  
 Ricardo Cotica _(child)_  
 Pierre Vanbraekel _(father)_
 
-_video crew_
-
+_video crew_  
 Marcel Engels _(cameraman)_  
 Franco Piscopo _(sound engineer)_  
 Alain François _(reporter)_
 
-_postmen_
-
+_postmen_  
 Venelin Proikov _(first postman)_  
 Fernard Dubois _(second postman)_
 
-_waiters_
-
+_waiters_  
 Antoine Chapelot _(sommelier)_  
 Hugues Tavier _(buffet waiter)_
 
-_victims_
-
+_victims_  
 Pascal Lebrun _(bullet in the shoulder)_  
 Stéphane Aubier _(bullet in the eye)_  
 Alain Hologne _(right in the chest)_  
 Micheline Hologne _(right in the temple)_  
 Philippe Blasband _(in his bathroom)_  
 Aldo Fostier _(in the left side of the groin)_  
-Jean-Pol Cavillot _(in the right side of the groin)_ Anny Hologne _(with bag)_  
+Jean-Pol Cavillot _(in the right side of the groin)_  
+Anny Hologne _(with bag)_  
 Eliane Léonard _(with lace)_  
 Vincent Merveille _(broken back of the neck)_  
 Marie Tavier _(with bound hands and feet)_  
@@ -132,15 +122,13 @@ Bruno Belvaux _(with a 6.35)_
 Lucien Belvaux _(in the back)_  
 Jean-Claude Moschetti _(with a P38)_
 
-_spared victims_
-
-Laurence Dhondt, Daniel Tursh, Benoît Mariage, Emmanuelle Bada, Pierre Vanbraekel,  
-Stéphane Aubier _(journalists)_  
+_spared victims_  
+Laurence Dhondt, Daniel Tursh, Benoît Mariage, Emmanuelle Bada, Pierre Vanbraekel,  Stéphane Aubier _(journalists)_  
 Jean-Paul Geets _(client at Malou)_
 
-Belgium 1992©
-
-96 mins
+Belgium 1992©  
+96 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3MzAzNTYwXX0=
+eyJoaXN0b3J5IjpbLTEzNDg3MjU0OF19
 -->
