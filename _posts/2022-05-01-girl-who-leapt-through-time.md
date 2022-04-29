@@ -1,20 +1,26 @@
-
+---
+layout: post
+title: The Girl Who Leapt through Time
+published: true
+date: 2022-05-01
+readtime: true
+categories: ['ANIME']
+tags: [Animation]
+metadata: 'Japan 2006, 98 mins<br> Director: Mamoru Hosoda'
+pdf: '2022-05-01-girl-who-leapt-through-time.pdf'
+---
 
 Every sci-fi fan knows that time-travel is never easy. Douglas Adams, the author of _The Hitchhikers Guide to the Galaxy_, compared history to badly plastered wallpaper; push one bubble down and another one pops up somewhere else. In the 1993 film _Groundhog Day_, Bill Murray’s antihero is trapped in an endlessly repeating day. He tries seducing the character played by Andie MacDowell, courting her over and again to correct every _faux pas_ and get her into bed. He gets his face slapped umpteen times, but it’s only once he gives up trying that he gets the girl.
 
 Mamoru Hosoda’s charming anime film _The Girl Who Leapt through Time_ inverts this sequence in what may be a deliberate homage. The protagonists are a teen boy and girl who have an easy, jocular friendship. One drowsy evening, the boy gives the girl a lift on his bicycle and, out of the blue, asks if they might date. The girl is horribly embarrassed. Because she’s a time-traveller, she resets the scene again and again, trying to steer the conversation away from the dreadful subject. But the boy keeps asking her out, and her trans-temporal meddling only spoils their friendship.
 
-It’s a funny, poignant scene, even though desperately shy youngsters are two-a-penny in Japanese cartoons and comics in which halting romances play out at epic length. However, _The Girl Who Leapt through Time_ has much more to say than most, blending witty comedy, can-do optimism, wistful yearning, romantic obsession (one character crosses time just to see a painting) and traumatic tragedy (but with time-travel there’s always the chance of a reset).  
-In Japan the film was a minor sleeper hit, attracting young and old viewers and causing a buzz among cartoon fans. If the films of Studio Ghibli parallel those by Disney or Pixar, then _The Girl Who Leapt through Time_ feels akin to Brad Bird’s poorly-marketed _The Iron Giant_ (1999).
+It’s a funny, poignant scene, even though desperately shy youngsters are two-a-penny in Japanese cartoons and comics in which halting romances play out at epic length. However, _The Girl Who Leapt through Time_ has much more to say than most, blending witty comedy, can-do optimism, wistful yearning, romantic obsession (one character crosses time just to see a painting) and traumatic tragedy (but with time-travel there’s always the chance of a reset).  In Japan the film was a minor sleeper hit, attracting young and old viewers and causing a buzz among cartoon fans. If the films of Studio Ghibli parallel those by Disney or Pixar, then _The Girl Who Leapt through Time_ feels akin to Brad Bird’s poorly-marketed _The Iron Giant_ (1999).
 
-Hosoda’s film had the advantage of being based on a familiar story, which first appeared as a magazine serial for teenagers in 1965. Like _Doctor Who_, it was revamped for successive generations, including a popular live-action film  
-(_The Little Girl Who Conquered Time_, 1983). The anime is a sequel to the original story, though it’s designed so that newcomers shouldn’t notice.  
-The extrovert, outspoken heroine, Makoto, is the niece of the first time-traveller, who shows up as a wise big-sister figure and is gently amused when Makoto babbles about her experiences.
+Hosoda’s film had the advantage of being based on a familiar story, which first appeared as a magazine serial for teenagers in 1965. Like _Doctor Who_, it was revamped for successive generations, including a popular live-action film  (_The Little Girl Who Conquered Time_, 1983). The anime is a sequel to the original story, though it’s designed so that newcomers shouldn’t notice.  The extrovert, outspoken heroine, Makoto, is the niece of the first time-traveller, who shows up as a wise big-sister figure and is gently amused when Makoto babbles about her experiences.
 
 The original story was an early work by the now-feted author Yasutaka Tsutsui, whose later book _Paprika_ was turned into a superb 2006 anime by Satoshi Kon. However, _The Girl Who Leapt through Time_ seems to take notes from another Kon fantasy, _Millennium Actress_ (2001), which was also made by the animation studio Mad House. Both idolise girls who run (rather as Miyazaki idolises girls who fly), and Hosoda’s film culminates in a vivid scene in which Makoto races against the film’s moving ‘camera’, battling her way heroically from one side of the frame to the other. While some of the animation seems broad and rough by Disney standards (especially the exaggerated shots of Makoto laughing), the hand-drawn motion is emphatically energised.
 
-Makoto’s running illustrates the moral of ‘Time waits for no one’ (written prominently in English on a blackboard), as the girl learns to embrace the future with confidence and hope. However, Hosoda cannily has it both ways, sometimes slowing the school scenes down into romanticised reveries and returning again to Makoto’s baseball practices with her friends, letting us share her illusion that such things never change. Like much anime, _The Girl Who Leapt through Time_ treats high school as Lewis Carroll treated childhood,  
-‘Ever drifting down the dream / Lingering in the golden gleam.’  
+Makoto’s running illustrates the moral of ‘Time waits for no one’ (written prominently in English on a blackboard), as the girl learns to embrace the future with confidence and hope. However, Hosoda cannily has it both ways, sometimes slowing the school scenes down into romanticised reveries and returning again to Makoto’s baseball practices with her friends, letting us share her illusion that such things never change. Like much anime, _The Girl Who Leapt through Time_ treats high school as Lewis Carroll treated childhood,  ‘Ever drifting down the dream / Lingering in the golden gleam.’  
 **Andrew Osmond, _Sight & Sound_, October 2008**
 
 It’s all too tempting to draw comparisons between the work of Japanese animation director Mamoru Hosoda and the Studio Ghibli productions of Hayao Miyazaki. The two filmmakers share similar interests in family ties, childhood and the mundane trials of coming of age – all of which they depict unfolding within exquisitely realised fantasy worlds.
@@ -100,6 +106,30 @@ Fri 13 May 20:40; Wed 18 May 20:45<br>
 **Wolf Children (Ôkami kodomo no Ame to Yuki)**<br>
 Sat 14 May 17:40; Sat 28 May 20:40<br>
 <br>
+
+This season was co-programmed by writer and academic Hanako Miyata<br>
+
+<img style="float: left;" src="/img/japan-nakama.png" width="30%" height="30%">
+<br><br><br><br><br>
+
+**Japan Nakama is an online community for Japanese culture enthusiasts and a marketplace for Japan-made and inspired products.**<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 
 <!--stackedit_data:
