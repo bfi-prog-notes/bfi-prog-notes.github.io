@@ -12,24 +12,18 @@ I would suggest that this is not because these films play with assumed cinematic
 
 The point of view at stake, though, is the butcher’s, to whom France is a country of ‘cheese- and Nazi-lovers’ (Noé illustrates this with a photograph of Petain shaking hands with Hitler); of ‘nigger faggots’ (like a bar owner’s son who is probably neither from an ethnic minority nor gay); and of ‘faggots in suits’ (like the abattoir owner who makes him fill out an application form knowing he is not going to give him work). Noé unsettles us with unexpected zooms accompanied by non-diegetic gunshots, with bold captions bearing the legends ‘Morality’, ‘Justice’ or ‘Faggot’. But his central technique is continuously to expose us to the butcher’s hate-filled interior monologue in voice-over. It is this verbal _tour de force_ that reminds French reviewers of the rabidly deep pessimism, grotesque black humour and liberating linguistic intoxication of controversial novelist Céline. Some of this verbal feverishness is necessarily sacrificed in the subtitling, and Noé apparently spent much time with the translator trying to devise an English equivalent of the singular mix of homophobia and racism in the phrase ‘_encule de ta race_’ (Noé’s solution – ‘you buttfuck race’ – was deemed clumsy).
 
-Noé’s butcher is stripped down to his basic needs – food, shelter, sex – and looking as though he will be denied even these, he tries to embrace nihilism as an absolute truth that will guide him to a reason for living for another 20 years. The exaggeration of his truly miserable experience in a world of uncompromising harshness where ‘each man makes his own morality’ permeates Noé’s movie. Noé claims it is a funny film – and indeed there is pitch-black comedy. It is embedded partly in discomforting truths about men and violence which cinema has done more than any other medium to obscure. And there is humour – and not a little fear too – in the moment when a caption appears telling us we have ‘30 seconds to leave the cinema’. It counts down for us, knowing we will stay put, that in the darkness of the cinema, unlike in life, we are unshockable. It is, says Noé, a joke – but what follows is no fun at all. It tests any belief we may have in the possibility of redemption, the existence of love and our own humanity as well as our nostalgia for, and acceptance of, a cinema of transgression to some kind of limit. For now.
+Noé’s butcher is stripped down to his basic needs – food, shelter, sex – and looking as though he will be denied even these, he tries to embrace nihilism as an absolute truth that will guide him to a reason for living for another 20 years. The exaggeration of his truly miserable experience in a world of uncompromising harshness where ‘each man makes his own morality’ permeates Noé’s movie. Noé claims it is a funny film – and indeed there is pitch-black comedy. It is embedded partly in discomforting truths about men and violence which cinema has done more than any other medium to obscure. And there is humour – and not a little fear too – in the moment when a caption appears telling us we have ‘30 seconds to leave the cinema’. It counts down for us, knowing we will stay put, that in the darkness of the cinema, unlike in life, we are unshockable. It is, says Noé, a joke – but what follows is no fun at all. It tests any belief we may have in the possibility of redemption, the existence of love and our own humanity as well as our nostalgia for, and acceptance of, a cinema of transgression to some kind of limit. For now.  
+**Richard Falcon, _Sight and Sound_, January 1999**
+<br><br>
 
-Richard Falcon, _Sight and Sound_, January 1999
-
-<![endif]-->
-
-**I STAND ALONE (SEUL CONTRE TOUS)**
-
+**I STAND ALONE (SEUL CONTRE TOUS)**  
 _Director_: Gaspar Noé  
 _Production Company_: Les Cinémas de la Zone  
-_With the participation of_:  
-Love Streams Productions, Canal+,  
-CNC - Centre national de la cinématographie  
+_With the participation of_:  Love Streams Productions, Canal+,  CNC - Centre national de la cinématographie  
 _And the financial support of_: Procirep  
 _Producer_: Gaspar Noé  
 _Unit Production Manager_: Alain Lefebvre  
-_Unit Production Managers (2nd Unit)_:  
-Pascale Servoz-Gavin, Cécile Fournier,  
+_Unit Production Managers (2nd Unit)_:  Pascale Servoz-Gavin, Cécile Fournier,  
 Jeremie Nicoli  
 _Collaborators_: Dominique Delany, Francis Doré, Nicolas Worms, Henri Moisan, Patrick Bideault, Philippe Bonometti, Gilles Sebbah  
 _Collaboration_: Laurent Tuel  
@@ -42,8 +36,7 @@ _Director of Photography_: Dominique Colin
 _Camera Operator_: Gaspar Noé  
 _Assistant Camera_: Antoine Rabaté  
 _Stills Photography_: Bertrand Etienne  
-_Special Effects_: Jean-Christophe Spadaccini,  
-Julien Poncet De La Grave  
+_Special Effects_: Jean-Christophe Spadaccini,  Julien Poncet De La Grave  
 _Graphics_: Denis Esnault, Ernest Evrard  
 _Editors_: Lucile Hadzihalilovic, Gaspar Noé  
 _Property Master_: Henri Moisan *  
@@ -60,8 +53,7 @@ _Laboratory_: Telcipro
 _Dedicated to..._: Luis Felipe Noé  
 _Dolby Sound Consultant_: Francis Pérreard
 
-_Cast:_
-
+**Cast**  
 Philippe Nahon _(Jean Chevalier, the butcher)_  
 Blandine Lenoir _(Cynthia, his daughter)_  
 Frankye Pain _(his mistress)_  
@@ -105,14 +97,13 @@ Monsieur Billot _(3rd butcher)_
 Tateos Derderian  
 Jean-Max Causse
 
-France 1998©
-
+France 1998©  
 93 mins
 
-* Uncredited
+*Uncredited
 
 35mm print courtesy of the Sundance Collection  
 at the UCLA Film & Television Archive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTU2NTQwMV19
+eyJoaXN0b3J5IjpbMTEwNjMxNDM5Nl19
 -->
