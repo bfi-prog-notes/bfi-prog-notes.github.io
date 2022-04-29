@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Irreversible - The Straight Cut
+published: true
+date: 2022-05-02
+readtime: true
+categories: ['FOCUS ON - GASPAR NOÉ']
+tags: [Drama]
+metadata: 'France 2002, 86 mins<br> Director: Gaspar Noé'
+pdf: '2022-05-02-irreversible-straight-cut.pdf'
+---
 
 In 2019 Gaspar Noé returned to his 2002 film _Irreversible_ to tell the story of Marcus and Pierre’s revenge mission in chronological order. Noé’s clock-wise recut goes beyond a linear reassembling of the narrative. It creates a shift in tone, leading us to relate and empathise with the characters in a different way, while losing none of the original story’s shocking cruelty.  
 **bfi.org.uk**
@@ -11,8 +21,7 @@ According to Noé, _Irreversible_ came into existence when, in true B-movie styl
 
 Most obviously, since the film opens (rather than closes) with a head-crackingly brutal act of violence, the audience is denied the usual retributive pleasures of the genre; we have not yet witnessed the original violation for which this (misguided) act of destruction would traditionally be seen as providing inevitable closure, and thus we are unable to feel justifiably engorged by its excessive wantonness. Instead we are faced with the spectacle of violence in the abstract, uncontextualised by narrative, unjustified by ‘previous’ action. Whereas the traditional _Death Wish_ narrative invites us to rejoice in lawlessness in response to sexual violation, _Irreversible_ causes us to recoil from the almost incomprehensible carnage which constitutes its opening act. This is the realisation of Wes Craven’s dream of creating a movie in which violence is seen as a wholly corrupting force, reducing everyone to their basest level.
 
-From here the film spirals backwards through an increasingly muddled web of retributive frenzy in which the audience is required to endure rather than enjoy the unfolding carnage – which is not to say that there is no pleasure in endurance, but simply that the pleasure is masochistic rather than sadistic.  
-By the time _Irreversible_ arrives at the notorious rape scene, Noé has conjured such a pungent air of disaster that the audience is primed only for unpleasantness and horror. It is significant that, just as Jonathan Kaplan’s overtly ‘moral’ mainstream movie _The Accused_ sought to undermine any sense of titillation in its depiction of rape by portraying the consequences of the assault _before_ the attack, so _Irreversible_ brings us to its central scene of violation with an awareness of the utter catastrophe of this horrendous event. Rather than showing a glamorous woman dancing tantalisingly towards sexual capture (a worrying feature of numerous rape-revenge movies), Noé brings us to his grim underpass with nothing but trepidation and fear.
+From here the film spirals backwards through an increasingly muddled web of retributive frenzy in which the audience is required to endure rather than enjoy the unfolding carnage – which is not to say that there is no pleasure in endurance, but simply that the pleasure is masochistic rather than sadistic.  By the time _Irreversible_ arrives at the notorious rape scene, Noé has conjured such a pungent air of disaster that the audience is primed only for unpleasantness and horror. It is significant that, just as Jonathan Kaplan’s overtly ‘moral’ mainstream movie _The Accused_ sought to undermine any sense of titillation in its depiction of rape by portraying the consequences of the assault _before_ the attack, so _Irreversible_ brings us to its central scene of violation with an awareness of the utter catastrophe of this horrendous event. Rather than showing a glamorous woman dancing tantalisingly towards sexual capture (a worrying feature of numerous rape-revenge movies), Noé brings us to his grim underpass with nothing but trepidation and fear.
 
 As for the scene itself, the use of a single low-angle shot, which foregrounds the face of Monica Bellucci as she is sodomised by an attacker whose obscenely pornographic rantings battle with her gut-churning cries of pain, clearly highlights _her_ suffering rather than _his_ pleasure – if it can indeed be called such. Crucially, Noé goes out of his way to depict rape as an act of violence rather than of sex, unlike in many more mainstream depictions of such assaults. No wonder the BBFC concluded that this sequence was ‘a harrowing and vivid portrayal of the brutality of rape [which] contains no explicit sexual images and is not designed to titillate.’ When I looked away, I did so not in disgust but in horror; unable to watch (as indeed one should be), but certain of the justification of the display.
 
@@ -74,6 +83,43 @@ France 2002©
 
 *Uncredited
 <br><br>
+
+**FOCUS ON: GASPAR NOÉ**<br>
+**I Stand Alone (Seul contre tous)**<br>
+Sun 1 May 18:10; Fri 20 May 20:40<br>
+**Irreversible: The Straight Cut (Irréversible)**<br>
+Mon 2 May 18:30<br>
+**Enter the Void**<br>
+Sun 8 May 14:30; Sat 21 May 20:00<br>
+**Love (3D)**<br>
+Sun 8 May 18:15; Mon 23 May 20:20<br>
+**Gaspar Noé in Conversation**<br>
+Tue 10 May 21:00<br>
+**Gaspar Noé’s Mixtape + Q&A with Gaspar Noé**<br>
+Thu 12 May 18:00<br> 
+**Lux Æterna**<br>
+Fri 20 May 18:40; Mon 23 May 18:40<br> 
+**Climax**<br>
+Fri 27 May 18:15; Mon 30 May 20:50 + extended intro by season programmer Anna Bogutskaya<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEzODYyMDAyMzBdfQ==
 -->
