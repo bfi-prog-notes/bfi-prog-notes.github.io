@@ -28,89 +28,52 @@ _Screenplay:_ Kogo Noda, Yasujiro Ozu
 _Director of Photography:_ Yuharu Atsuta
 _Assistant Cinematographer:_ Takashi Kawamata
 _Lighting Technician:_ Itsuo Takashita
-
 _Lighting Assistant:_  Takeshi Yakuwa
-
 _Editor:_ Yoshiyasu Hamamura
-
 _Art Director:_ Tatsuo Hamada
-
 _Set Designer:_ Toshio Takahashi
-
 _Set Decorator:_ Setsutarô Moriya
-
 _Costume Designer:_ Taizô Saitô
-
 _Music:_ Taizo Saitô
-
 _Sound Engineer:_ Mitsuru Kaneko
-
 _Sound Assistant:_  Yoshiomi Hori
-
-_Sound Recording_**:** Yoshisaburô Senô
-
+_Sound Recording_: Yoshisaburô Senô
 _Film Development:_  Ryûji Hayashi
 
 * Uncredited
-
-**Cast  
+**Cast**
 **Chishû Ryû _(Shûkichi Hirayama)_  
 Chieko Higashiyama  _(Tomi, Hirayama’s wife)_
-
 Setsuko Hara _(Noriko, Hirayama’s daughter-in-law)_
-
 Haruko Sugimura _(Shige Kaneko, Hirayama’s elder daughter)_
-
 Sô Yamamura _(Kôichi, Hirayama’s elder son)_
-
 Kuniko Miyake _(Fumiko, Koichi’s wife)_
-
 Kyôko Kagawa _(Kyôko, Hirayama’s younger daughter)_
-
 Eijirô Tono _(Sanpei Numata, Hirayama’s friend)_
-
 Nobuo Nakamura _(Kurazo Kaneko, Shige’s husband)_
-
 Shirô Ôsaka _(Keizô_  _Hirayama’s younger son)_
-
 Hisao Toake _(Osamu Hattori, Hirayama’s friend)_
-
 Teruko Nagaoka _(Yone Hattori)_
-
 Mutsuko Sakura _(woman at oden counter)_
-
 Toyo Takahashi _(Noriko’s neighbour in Onomichi)_
-
 Tôru  Abe _(railway clerk)_
-
 Sachiko Mitani _(woman at Noriko’s apartment)_
-
 Zen Murase _(Minoru, Koichi’s elder son)_
-
 Mitsuhiro Mori _(Isamu, Koichi’s younger son)_
-
 Junko Anan _(beauty salon assistant)_
-
 Ryôko Mizuki, Yoshiko Togawa _(beauty salon customers)_
-
-Kazuhiro Itokawa _(tenant_ _at the Hattori household__)_
-
+Kazuhiro Itokawa _(tenant at the Hattori household)_
 Fumio Toyama _(patient)_
-
 Keijirô Morozumi _(police officer)_
-
-Tsutomu Niijima _(company section chief at Noriko’s office_
-
+Tsutomu Niijima _(company section chief at Noriko’s office)_
 Shôzô Suzuki _(clerk at Noriko’s office)_  
 Yoshiko Tashiro, Haruko Chichibu _(maids at inn)_
-
 Takashi Miki _(singer at inn)_
-
 Toshinosuke Nagao _(doctor)_
 
 Japan 1953
 
 136 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTE2NzE1MjBdfQ==
+eyJoaXN0b3J5IjpbNjExMzg0NDU1XX0=
 -->
