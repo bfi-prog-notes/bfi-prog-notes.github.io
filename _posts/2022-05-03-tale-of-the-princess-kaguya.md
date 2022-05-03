@@ -35,86 +35,46 @@ But it’s Kaguya’s free spirit that’s most in contention here: the bamboo c
 <br><br>
 
 **THE TALE OF THE PRINCESS KAGUYA**<br>
-
 **(KAGUYA-HIME NO MONOGATARI)**<br>
-
 _Director_: Isao Takahata<br>
-
 ©: Hatake Jimusho, GNDHDDTK<br>
-
 _A_ Studio Ghibli _production_<br>
-
-_Presented by_: Studio Ghibli,  
-Nippon Television Network Corporation, Dentsu, Hakuhodo DY Media Partners, Walt Disney Japan, Mitsubishi, Toho, KDDI<br>
-
-_Producers_: Nishimura Yoshiaki,  
-Toshio Suzuki, Ujiie Seiichiro<br>
-
+_Presented by_: Studio Ghibli,  Nippon Television Network Corporation, Dentsu, Hakuhodo DY Media Partners, Walt Disney Japan, Mitsubishi, Toho, KDDI<br>
+_Producers_: Nishimura Yoshiaki,  Toshio Suzuki, Ujiie Seiichiro<br>
 _Planning_: Toshio Suzuki<br>
-
 _Post-production_: Tamaki Kojo<br>
-
-_Casting_: Queen’s Promotion, Keiko Ogata,  
-Kaori Sakai, Hazuki Yamamura<br>
-
+_Casting_: Queen’s Promotion, Keiko Ogata,  Kaori Sakai, Hazuki Yamamura<br>
 _Written by_: Isao Takahata, Sakaguchi Riko<br>
-
 _Director of Digital Imaging_: Keisuke Nakamura<br>
-
-_Character Design and Directing Animators_:  
-Osamu Tanabe, Kenichi Konishim<br>
-
+_Character Design and Directing Animators_:  Osamu Tanabe, Kenichi Konishim<br>
 _Editing_: Toshihiko Kojima<br>
-
 _Art Director_: Kazuo Oga<br>
-
 _Titles_: Malin Post<br>
-
 _Colour Setting_: Yukiko Kakita<br>
-
 _Music_: Joe Hisaishi<br>
-
 _Music Performed by_: Tokyo Symphony Orchestra<br>
-
 _Conductor_: Joe Hisaishi<br>
-
 _Sound Designer_: Naoko Asari<br>
-
 _Re-recording Mixer_: Koji Kasamatsu<br>
-
 _Digital Lab_: Imagica<br>
 
-_Voice Cast:_<br>
-
+**Voice Cast**<br>
 Asakura Aki _(Princess Kaguya, ‘Li’l Bamboo’)_<br>
-
 Kora Kengo _(Sutemaru)_<br>
-
 Chii Takeo _(Okina, bamboo cutter)_<br>
-
-Miyamoto Nobuko_  
-(Ona, bamboo cutter’s wife/narrator)_<br>
-
+Miyamoto Nobuko _(Ona, bamboo cutter’s wife/narrator)_<br>
 Takahata Atsuko _(Lady Sagami)_<br>
-
 Tomoko Tabata _(Menowarawa)_<br>
-
 Shinosuke Tatekawa _(Inbe no Akita)_<br>
-
 Takaya Kamikawa _(Prince Ishitsukuri)_<br>
-
 Hikaru Ijuin _(Minister of Finance)_<br>
-
 Ryudo Uzaki _(Minister of the Military)_<br>
-
 Shichinosuke Nakamura _(Mikado)_<br>
-
 Isao Hashizume _(Minister of Culture)_<br>
 
 Japan 2013©<br>
-
 137 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTcxOTE3NV19
+eyJoaXN0b3J5IjpbNTc3NDA1MjI1XX0=
 -->
