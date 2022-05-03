@@ -114,8 +114,7 @@ _Transportation Captain_: Bubba Forester
 _Transportation Co-ordinator_: Lee Siler  
 _Craft Services_: Randy Pickett, Linda Pickett
 
-_Cast:_
-
+**Cast**  
 Rosanna Arquette _(Martha Travis)_  
 Jason Robards _(Walter Travis)_  
 Tom Hulce _(Gary Wallace)_  
@@ -160,13 +159,12 @@ Tate Gardiner _(Larry Harley)_
 Christina Taylor _(Lilly Harley)_  
 Jeffrey Taylor _(Mike Harley)_  
 Corbin Gurkin _(Cindy Harley)_  
-Kathleen Williams, Joe Maggard, Mary Moore,  
-Anna Morris, Dale Wright _(audience)_  
+Kathleen Williams, Joe Maggard, Mary Moore,  Anna Morris, Dale Wright _(audience)_  
 Choir of Canon’s Cathedral Charlotte N. _(themselves)_
 
-UK 1989
-
+UK 1989  
 103 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQ2NzkyNV19
+eyJoaXN0b3J5IjpbMjA1MTM2NjcyMV19
 -->
