@@ -22,19 +22,18 @@ _Producer:_ Takeshi Yamamoto<br>
 _Production Manager:_ Tomiji Shimizu<br>
 _Assistant Directors:_ Yamamoto Kôzô, Takahashi Osamu<br>
 _Second Assistant Director:_ Shôhei Imamura *<br>
-_Screenplay:_ Kogo Noda, Yasujiro Ozu<br>
 _Assistant Director:_ Kozo Yamamoto<br>
 _Screenplay:_ Kogo Noda, Yasujiro Ozu<br>
-_Director of Photography:_ Yuharu Atsuta
-_Assistant Cinematographer:_ Takashi Kawamata
-_Lighting Technician:_ Itsuo Takashita
-_Lighting Assistant:_  Takeshi Yakuwa
-_Editor:_ Yoshiyasu Hamamura
-_Art Director:_ Tatsuo Hamada
-_Set Designer:_ Toshio Takahashi
-_Set Decorator:_ Setsutarô Moriya
-_Costume Designer:_ Taizô Saitô
-_Music:_ Taizo Saitô
+_Director of Photography:_ Yuharu Atsuta<br>
+_Assistant Cinematographer:_ Takashi Kawamata<br>
+_Lighting Technician:_ Itsuo Takashita<br>
+_Lighting Assistant:_  Takeshi Yakuwa<br>
+_Editor:_ Yoshiyasu Hamamura<br>
+_Art Director:_ Tatsuo Hamada<br>
+_Set Designer:_ Toshio Takahashi<br>
+_Set Decorator:_ Setsutarô Moriya<br>
+_Costume Designer:_ Taizô Saitô<br>
+_Music:_ Taizo Saitô<br>
 _Sound Engineer:_ Mitsuru Kaneko
 _Sound Assistant:_  Yoshiomi Hori
 _Sound Recording_: Yoshisaburô Senô
@@ -75,5 +74,6 @@ Japan 1953
 
 136 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTMzNTMwMyw2MTEzODQ0NTVdfQ==
+eyJoaXN0b3J5IjpbMjY1MjY4NDI5LDEwMjEzMzUzMDMsNjExMz
+g0NDU1XX0=
 -->
