@@ -34,8 +34,8 @@ _Set Designer:_ Toshio Takahashi<br>
 _Set Decorator:_ Setsutarô Moriya<br>
 _Costume Designer:_ Taizô Saitô<br>
 _Music:_ Takanobu Saitô<br>
-_Sound Engineer:_ Mitsuru Kaneko
-_Sound Assistant:_  Yoshiomi Hori
+_Sound Engineer:_ Mitsuru Kaneko<br>
+_Sound Assistant:_  Yoshiomi Hori<br>
 _Sound Recording_: Yoshisaburô Senô
 _Film Development:_  Ryûji Hayashi
 
@@ -74,6 +74,6 @@ Japan 1953
 
 136 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxNDkyNDg1LDI2NTI2ODQyOSwxMDIxMz
-M1MzAzLDYxMTM4NDQ1NV19
+eyJoaXN0b3J5IjpbMTg2Njg4NTA2MSwyNjUyNjg0MjksMTAyMT
+MzNTMwMyw2MTEzODQ0NTVdfQ==
 -->
