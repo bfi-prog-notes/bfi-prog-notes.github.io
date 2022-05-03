@@ -29,8 +29,9 @@ Hodges has argued that films should have a soul, try to express often-difficult 
 Born Bristol, July 1932<br>
 All UK unless stated<br>
 
-1958  **Once upon a Time** (children’s TV series) writer<br>
-1962  **The Sunday Break** (TV series on religious topics) editor<br>
+**1958**<br>
+**Once upon a Time** (children’s TV series) writer<br>
+**1962****The Sunday Break** (TV series on religious topics) editor<br>
 1963  **Rave!** (TV series, tx 29.6.63-27.7.63) screenplay<br>
 1963-5 **World in Action** (TV doc) producer/ director; including:<br>
 **Goldwater** (tx 30.6.1964)<br>
@@ -125,5 +126,5 @@ Sat 21 May 13:10<br>
 **New Tempo**<br>
 Sun 29 May 11:50<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1ODI4OTYxXX0=
+eyJoaXN0b3J5IjpbLTc5NTg4MDYxMSw5NzU4Mjg5NjFdfQ==
 -->
