@@ -1,4 +1,4 @@
-<![endif]-->
+
 
 The plan was to release _The Tale of The Princess Kaguya_ in Japan on the same day as _The Wind Rises_, 25 years after the double-bill of Isao Takahata’s _Grave of the Fireflies_ and Hayao Miyazaki’s _My Neighbour Totoro_ put their fledgling Studio Ghibli on the map.
 
@@ -18,8 +18,7 @@ Takahata has equivocated about whether to call this his last film. (‘If I stil
 
 Still, as with _The Wind Rises_ there’s certainly a valedictory air to it, a nostalgic genius for reincarnating the moments that, in Miyazaki’s words, make ‘this life worth living’. The film’s first act exalts in a pastoralism, and the alignment of nature and high-spirited youth, the raw ingredients of so many Ghibli movies, as Kaguya grows up hymning ‘birds, bugs, beasts, grass, trees, flowers’, relishing the taste of melons and forest fruits, the company of animals and her peasant friends, who snub her father’s airs and nickname her ‘L’il Bamboo’.
 
-This is what Miyazaki calls Takahata’s everyday-life animation, a move away from the fantasy and fabular heroism of most cartoons – including Takahata’s 1968 feature debut _The Little Norse Prince_ (aka _Horus, Prince of the Sun_), on which Miyazaki worked, and indeed most of Miyazaki’s own movies – towards a realism of setting and narrative, begun with _Heidi, Girl of the Alps_, the 1974 TV series on which the  
-pair collaborated.
+This is what Miyazaki calls Takahata’s everyday-life animation, a move away from the fantasy and fabular heroism of most cartoons – including Takahata’s 1968 feature debut _The Little Norse Prince_ (aka _Horus, Prince of the Sun_), on which Miyazaki worked, and indeed most of Miyazaki’s own movies – towards a realism of setting and narrative, begun with _Heidi, Girl of the Alps_, the 1974 TV series on which the  pair collaborated.
 
 The observational precision and exuberance with which Kaguya’s first baby rolls and steps are animated fully bear out Takahata’s claims for his experimental style, and for building his production around key singular talents. Kazuo Oga’s backgrounds are synonymous with Studio Ghibli productions, but he’d not art-directed for the studio since Miyazaki’s _Princess Mononoke_ in 1997; here, extending the idea of incomplete, piecemeal backgrounds begun in Takahata’s last feature, the newspaper comic strip-adapted _My Neighbours the Yamadas_ (1999), he composes in limpid watercolours and diaphanous backgrounds that fade off into a kind of cartoon negative space, emphasising (in this case) the realism of the foreground actions, and their occasional outbursts of expressionism.
 
@@ -31,11 +30,91 @@ The twist in this first act is that Kaguya grows up inhumanly fast – though he
 
 Which is to say that _Princess Kaguya_ soon leaves behind the bucolic comradeship of _Panda! Go Panda!_ (1972), _Goshu, the Cellist_ (1982) and _Pom Poko_ (1994), Takahata’s fables of nature seeking accommodation with man, for another Ghibli commonplace: the follies of human greed and aggrandisement. The newly enriched, socially aspirational cutter removes his family from the fields to a dedicated palace where he lavishes his princess with robes, and lessons in the arts and graces of Japanese medieval ladyhood at the hands of the humourless Lady Sagami. (‘A lady does not sweat,’ Sagami pronounces, struggling to impose the plucking custom of _hikimayu_ on Kaguya’s eyebrows, as well as the black-dyeing of her teeth through the practice of _ohaguro_.)
 
-But it’s Kaguya’s free spirit that’s most in contention here: the bamboo cutter wants none of her old ‘hillbilly’ friends at her coming-of-age party, designed to show her off to ‘name guests’. And while the style with which she dispatches her five noble suitors to find the impossible objects to which they have compared her will tickle feminist sensibilities, faintly echoing the spunkiness we love in Miyazaki’s heroines, it remains the circumscribed manoeuvre of a girl with only the power of refusal. Never has a Ghibli film strayed so far into the social pessimism of a Kenji Mizoguchi tragedy.
+But it’s Kaguya’s free spirit that’s most in contention here: the bamboo cutter wants none of her old ‘hillbilly’ friends at her coming-of-age party, designed to show her off to ‘name guests’. And while the style with which she dispatches her five noble suitors to find the impossible objects to which they have compared her will tickle feminist sensibilities, faintly echoing the spunkiness we love in Miyazaki’s heroines, it remains the circumscribed manoeuvre of a girl with only the power of refusal. Never has a Ghibli film strayed so far into the social pessimism of a Kenji Mizoguchi tragedy.  
+**Nick Bradshaw, _Sight & Sound_, April 2015**
+<br><br>
 
-Nick Bradshaw, _Sight & Sound_, April 2015
+**THE TALE OF THE PRINCESS KAGUYA**<br>
 
+**(KAGUYA-HIME NO MONOGATARI)**<br>
 
+_Director_: Isao Takahata<br>
+
+©: Hatake Jimusho, GNDHDDTK<br>
+
+_A_ Studio Ghibli _production_<br>
+
+_Presented by_: Studio Ghibli,  
+Nippon Television Network Corporation, Dentsu, Hakuhodo DY Media Partners, Walt Disney Japan, Mitsubishi, Toho, KDDI<br>
+
+_Producers_: Nishimura Yoshiaki,  
+Toshio Suzuki, Ujiie Seiichiro<br>
+
+_Planning_: Toshio Suzuki<br>
+
+_Post-production_: Tamaki Kojo<br>
+
+_Casting_: Queen’s Promotion, Keiko Ogata,  
+Kaori Sakai, Hazuki Yamamura<br>
+
+_Written by_: Isao Takahata, Sakaguchi Riko<br>
+
+_Director of Digital Imaging_: Keisuke Nakamura<br>
+
+_Character Design and Directing Animators_:  
+Osamu Tanabe, Kenichi Konishim<br>
+
+_Editing_: Toshihiko Kojima<br>
+
+_Art Director_: Kazuo Oga<br>
+
+_Titles_: Malin Post<br>
+
+_Colour Setting_: Yukiko Kakita<br>
+
+_Music_: Joe Hisaishi<br>
+
+_Music Performed by_: Tokyo Symphony Orchestra<br>
+
+_Conductor_: Joe Hisaishi<br>
+
+_Sound Designer_: Naoko Asari<br>
+
+_Re-recording Mixer_: Koji Kasamatsu<br>
+
+_Digital Lab_: Imagica<br>
+
+_Voice Cast:_<br>
+
+Asakura Aki _(Princess Kaguya, ‘Li’l Bamboo’)_<br>
+
+Kora Kengo _(Sutemaru)_<br>
+
+Chii Takeo _(Okina, bamboo cutter)_<br>
+
+Miyamoto Nobuko_  
+(Ona, bamboo cutter’s wife/narrator)_<br>
+
+Takahata Atsuko _(Lady Sagami)_<br>
+
+Tomoko Tabata _(Menowarawa)_<br>
+
+Shinosuke Tatekawa _(Inbe no Akita)_<br>
+
+Takaya Kamikawa _(Prince Ishitsukuri)_<br>
+
+Hikaru Ijuin _(Minister of Finance)_<br>
+
+Ryudo Uzaki _(Minister of the Military)_<br>
+
+Shichinosuke Nakamura _(Mikado)_<br>
+
+Isao Hashizume _(Minister of Culture)_<br>
+
+Japan 2013©<br>
+
+137 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODMzODE5MzFdfQ==
+eyJoaXN0b3J5IjpbMTc1MTcxOTE3NV19
 -->
