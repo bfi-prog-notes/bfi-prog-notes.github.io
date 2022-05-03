@@ -1,14 +1,23 @@
+---
+layout: post
+title: Mike Hodges<br> in Conversation
+published: true
+date: 2022-05-03
+readtime: true
+categories: ['EVENTS']
+tags: [Talks, Events]
+metadata:
+pdf: '2022-05-03-mike-hodges-in-conversation.pdf'
+---
 
 With a career that spans film and TV – including highlights such as _Get Carter_, _Flash Gordon_, _Croupier_, _Tempo_ and _World in Action_ – Mike Hodges is an auteur filmmaker who has proved himself adept at making quality films across many genres. Tonight, Samira Ahmed hosts this conversation with Hodges as he reflects on his career to date and looks forward to his next film, an autobiographical documentary.<br>
 **bfi.org.uk**
 
 Mike Hodges’ spasmodic career as a director illustrates many of the besetting problems of the British film industry. Born in Bristol on 29 July 1932, Hodges had a comfortable middle-class upbringing, qualifying as a chartered accountant. But two years National Service prompted a desire for a more creative occupation and he worked in television in the 1960s, producing and directing hard-hitting documentaries for _World in Action_ (ITV, 1963-89), then making profiles of European directors for the arts series _Tempo_ (ITV, 1961-67). This combination of gritty, combative realism and European modernism informs his most important work, the crime thrillers, a genre, which Hodges felt, could delve ‘deep into the underbelly of society. Done well they can be like an autopsy of society.’
 
-Mike Hodges wrote and directed two television thrillers, _Suspect_ (ITV,  
-tx. 17/11/1969) and _Rumour_ (ITV, 2/3/1970), before gaining the opportunity to direct his first feature, _Get Carter_ (1971), for which he also wrote the screenplay. The story of London gangster Jack Carter’s return to his native Newcastle to investigate his brother’s sudden death, is told in a detached, analytical style, matched by Michael Caine’s frightening yet compelling performance. The film evokes a society in the throes of profound change, capturing a mood of disillusionment that signalled the replacement of 1960s’ idealism by the ‘rampant materialism’ of the ‘70s. Carter is an ambivalent figure, a seemingly emotionless killer who weeps at the exploitation of his brother’s daughter, and whose death symbolises the end of an era.  _Get Carter_ has now acquired cult status, regarded as one of the finest, and most influential British crime thrillers, but at the time of its release it was considered soulless and too violent, and was poorly distributed.
+Mike Hodges wrote and directed two television thrillers, _Suspect_ (ITV, tx. 17/11/1969) and _Rumour_ (ITV, 2/3/1970), before gaining the opportunity to direct his first feature, _Get Carter_ (1971), for which he also wrote the screenplay. The story of London gangster Jack Carter’s return to his native Newcastle to investigate his brother’s sudden death, is told in a detached, analytical style, matched by Michael Caine’s frightening yet compelling performance. The film evokes a society in the throes of profound change, capturing a mood of disillusionment that signalled the replacement of 1960s’ idealism by the ‘rampant materialism’ of the ‘70s. Carter is an ambivalent figure, a seemingly emotionless killer who weeps at the exploitation of his brother’s daughter, and whose death symbolises the end of an era.  _Get Carter_ has now acquired cult status, regarded as one of the finest, and most influential British crime thrillers, but at the time of its release it was considered soulless and too violent, and was poorly distributed.
 
-Hodges’ next film, _Pulp_ (1972), was based on his original story of a sleazy pulp fiction writer (Michael Caine), caught up in a real life murder mystery.  
-An intermittently successful comedy-thriller, _Pulp_ was also poorly handled by its distributors who found it hard to market.
+Hodges’ next film, _Pulp_ (1972), was based on his original story of a sleazy pulp fiction writer (Michael Caine), caught up in a real life murder mystery. An intermittently successful comedy-thriller, _Pulp_ was also poorly handled by its distributors who found it hard to market.
 
 Although the film had little impact, Hodges’ reputation was sufficiently well-established for Warner Brothers to invite him to direct _The Terminal Man_ (1974). Hodges’ adaptation of Michael Crichton’s sci-fi thriller, about a computer scientist (George Segal) who becomes psychotic after a brain implant, was too tough and uncompromising to be a commercial success.
 
@@ -28,13 +37,13 @@ Hodges has argued that films should have a soul, try to express often-difficult 
 **Mike Hodges**<br>
 Born Bristol, July 1932<br>
 All UK unless stated<br>
-**1958**<br>
+**-1958-**<br>
 **Once upon a Time** (children’s TV series) writer<br>
-**1962**<br>
+**-1962-**<br>
 **The Sunday Break** (TV series on religious topics) editor<br>
-**1963**<br>
+**-1963-**<br>
 **Rave!** (TV series, tx 29.6.63-27.7.63) screenplay<br>
-**1963-5**<br> 
+**-1963/5-**<br> 
 **World in Action** (TV doc) producer/ director; including:<br>
 **Goldwater** (tx 30.6.1964)<br>
 **The Flip Side** (tx 22.9.1964)<br>
@@ -42,7 +51,7 @@ All UK unless stated<br>
 **Canada** (tx 6.10.1964) collaboration with Douglas Keay<br>
 **Vietnam** (tx 3.11.1964)<br>
 **State of the Unions** (tx 1.12.1964)<br>
-**1965**<br>
+**-1965-**<br>
 **Tempo** (TV arts magazine) executive producer; including:<br>
 **A Successful Failure** (tx 18.7.1965)<br>
 **Harold Pinter** (tx 3.10.1965) producer<br>
@@ -66,7 +75,7 @@ All UK unless stated<br>
 **David, Moffett and Ornette** (tx 26.6.1966)<br>
 **When the War Was Over** (tx 3.7.1966)<br>
 **The Pursuit of Nancy Mitford** (tx 10.7.1966)<br>
-**1967**<br>
+**-1967-**<br>
 **New Tempo** (TV arts magazine) executive producer/ director:<br>
 **The Information Explosion** (tx 1.1.1967)<br>
 **Nostalgia** (tx 8.1.1967)<br>
@@ -76,32 +85,47 @@ All UK unless stated<br>
 **Expendability** (aka **Disposability**, tx 5.2.1967)<br>
 **Stimulants** (tx 12.2.1967)<br>
 **Leisure** (tx 19.2.1967)<br>
-**1968**<br>
+**-1968-**<br>
 **The Tyrant King** (children’s TV serial, tx 3.10.1968-7.11.1968) director/producer/screenplay<br>
-**1969**<br>
+**-1969-**<br>
 **Playhouse: Suspect** (TV, tx 17.11.1969) director/producer/screenplay<br>
-**1970**<br>
+**-1970-**<br>
 **Playhouse: Rumour** (TV, tx 2.3.70) director/producer/screenplay<br>
-1971  **Get Carter** (USA/UK) director/screenplay<br>
-1972  **Pulp** (USA/UK) director/screenplay/production company, Klinger-Caine-Hodges<br>
+**-1971-**<br>
+**Get Carter** (USA/UK) director/screenplay<br>
+**-1972-**<br>
+**Pulp** (USA/UK) director/screenplay/production company, Klinger-Caine-Hodges<br>
 **The Frighteners: The Manipulators** (TV, tx 28.7.1972) director/screenplay<br>
-1974  **The Terminal Man** (USA)  director/producer/screenplay<br>
-1978  **Damien  Omen II** co-screenplay; also uncredited original director, replaced by Don Taylor<br>
-1980  **Flash Gordon** director<br>
-1983  **And the Ship Sails On/E la nave va** (Italy/France, director Federico Fellini) dubbing director of English version<br>
+**-1974-**<br>
+**The Terminal Man** (USA)  director/producer/screenplay<br>
+**-1978-**<br>
+**Damien  Omen II** co-screenplay; also uncredited original director, replaced by Don Taylor<br>
+**-1980-**<br>
+**Flash Gordon** director<br>
+**-1983-**<br>
+**And the Ship Sails On/E la nave va** (Italy/France, director Federico Fellini) dubbing director of English version<br>
 **Missing Pieces** (TV movie, tx 14.5.1983) director<br>
 **The Hitchhiker: WGOD** (episode of TV series, tx 26.11.85) director<br>
-1984  **Squaring the Circle** (TV, tx 31.5.1984) director<br>
-1985  **Morons from Outer Space** director<br>
-1986  **Florida Straits** (TV movie, tx 26.10.1986) director<br>
-1987  **A Prayer for the Dying** director<br>
-1989  **Black Rainbow** director/screenplay<br>
-1994  **Dandelion Dead** (TV, tx 6+13.2.1994) director<br>
-1994  **The Healer** (TV, tx 19+20.9.1994) director<br>
+**-1984-**<br>
+**Squaring the Circle** (TV, tx 31.5.1984) director<br>
+**-1985-**<br>
+**Morons from Outer Space** director<br>
+**-1986-**<br>
+**Florida Straits** (TV movie, tx 26.10.1986) director<br>
+**-1987**<br>
+**A Prayer for the Dying** director<br>
+**-1989-**<br>
+**Black Rainbow** director/screenplay<br>
+**-1994-**<br>
+**Dandelion Dead** (TV, tx 6+13.2.1994) director<br>
+**The Healer** (TV, tx 19+20.9.1994) director<br>
 **The Lifeforce Experiment/ The Breakthrough** (TV, tx 16.4.94, director Piers Haggard) screenplay (written 1992)<br>
-1997  **Croupier** (Eire/Germany/France/UK)  director<br>
-2001  **Murder by Numbers** (co-directed with Paul Carlin)<br>
-2003  **I’ll Sleep When I’m Dead** (UK/USA) director<br>
+**-1997-**<br>
+**Croupier** (Eire/Germany/France/UK)  director<br>
+**-2001-**<br>
+**Murder by Numbers** (co-directed with Paul Carlin)<br>
+**-2003-**<br>
+**I’ll Sleep When I’m Dead** (UK/USA) director<br>
 <br>
 **RETURN OF THE OUTSIDER: THE FILMS OF MIKE HODGES**<br>
 **Suspect + Rumour**<br>
@@ -132,7 +156,19 @@ Thu 19 May 18:30<br>
 Sat 21 May 13:10<br>
 **New Tempo**<br>
 Sun 29 May 11:50<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxMzY4NDAzLDU2NjA3MzgzOSw5NzU4Mj
-g5NjFdfQ==
--->
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
