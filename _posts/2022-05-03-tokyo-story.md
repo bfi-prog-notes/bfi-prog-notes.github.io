@@ -15,16 +15,16 @@ Aside from Taizo Saito’s lush but sparingly used Hollywood-style score, the fi
 **Tony Rayns, _Sight & Sound_, February 1994**<br>
 
 
-**TOKYO STORY** (**TÔKYÔ MONOGATARI)**
-_Director:_ Yasujiro Ozu
-_Production Company:_ Shochiku Co. Ltd.
-_Producer:_ Takeshi Yamamoto
-_Production Manager:_ Tomiji Shimizu
-_Assistant Directors:_ Yamamoto Kôzô, Takahashi Osamu
-_Second Assistant Director:_ Shôhei Imamura *
-_Screenplay:_ Kogo Noda, Yasujiro Ozu
-_Assistant Director:_ Kozo Yamamoto
-_Screenplay:_ Kogo Noda, Yasujiro Ozu
+**TOKYO STORY (TÔKYÔ MONOGATARI)**<br>
+_Director:_ Yasujiro Ozu<br>
+_Production Company:_ Shochiku Co. Ltd.<br>
+_Producer:_ Takeshi Yamamoto<br>
+_Production Manager:_ Tomiji Shimizu<br>
+_Assistant Directors:_ Yamamoto Kôzô, Takahashi Osamu<br>
+_Second Assistant Director:_ Shôhei Imamura *<br>
+_Screenplay:_ Kogo Noda, Yasujiro Ozu<br>
+_Assistant Director:_ Kozo Yamamoto<br>
+_Screenplay:_ Kogo Noda, Yasujiro Ozu<br>
 _Director of Photography:_ Yuharu Atsuta
 _Assistant Cinematographer:_ Takashi Kawamata
 _Lighting Technician:_ Itsuo Takashita
@@ -75,5 +75,5 @@ Japan 1953
 
 136 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3Nzg1NDE1LDYxMTM4NDQ1NV19
+eyJoaXN0b3J5IjpbMTAyMTMzNTMwMyw2MTEzODQ0NTVdfQ==
 -->
