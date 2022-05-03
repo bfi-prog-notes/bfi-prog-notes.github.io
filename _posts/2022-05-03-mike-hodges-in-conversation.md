@@ -109,21 +109,21 @@ Wed 4 May 18:15; Wed 11 May 20:50<br>
 **I’ll Sleep When I’m Dead**<br>
 Thu 5 May 18:00; Mon 30 May 17:50<br>
 **Morons from Outer Space**<br>
-Fri 6 May 18:05; Wed 18 May 20:50 **+ World in Action: The Flipside**
+Fri 6 May 18:05; Wed 18 May 20:50 **+ World in Action: The Flipside**<br>
 **Flash Gordon**<br>
-Sat 7 May 12:00; Thu 19 May 20:20 **+ The Tyrant King: Episode 1: Scarface**
-**Squaring the Circle + World in Action: Goldwater for President? or How to Win Friends and Influence People**
-Sun 8 May 11:50
-**A Prayer for the Dying**
-Sun 8 May 15:20; Sun 15 May 18:10
-**Tempo**
-Tue 17 May 18:00
-**Murder by Numbers + The Hitchhiker: W.G.O.D**
-Thu 19 May 18:30
-**Dandelion Dead**
-Sat 21 May 13:10
-**New Tempo**
-Sun 29 May 11:50
+Sat 7 May 12:00; Thu 19 May 20:20 **+ The Tyrant King: Episode 1: Scarface**<br>
+**Squaring the Circle + World in Action: Goldwater for President? or How to Win Friends and Influence People**<br>
+Sun 8 May 11:50<br>
+**A Prayer for the Dying**<br>
+Sun 8 May 15:20; Sun 15 May 18:10<br>
+**Tempo**<br>
+Tue 17 May 18:00<br>
+**Murder by Numbers + The Hitchhiker: W.G.O.D**<br>
+Thu 19 May 18:30<br>
+**Dandelion Dead**<br>
+Sat 21 May 13:10<br>
+**New Tempo**<br>
+Sun 29 May 11:50<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTUyMTk1XX0=
+eyJoaXN0b3J5IjpbOTc1ODI4OTYxXX0=
 -->
