@@ -40,9 +40,9 @@ _Sound Assistant:_  Yoshiomi Hori
 _Sound Recording_: Yoshisaburô Senô
 _Film Development:_  Ryûji Hayashi
 
-* Uncredited
+\* Uncredited
 **Cast**
-**Chishû Ryû _(Shûkichi Hirayama)_  
+Chishû Ryû _(Shûkichi Hirayama)_  
 Chieko Higashiyama  _(Tomi, Hirayama’s wife)_
 Setsuko Hara _(Noriko, Hirayama’s daughter-in-law)_
 Haruko Sugimura _(Shige Kaneko, Hirayama’s elder daughter)_
@@ -75,5 +75,5 @@ Japan 1953
 
 136 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExMzg0NDU1XX0=
+eyJoaXN0b3J5IjpbNDg3Nzg1NDE1LDYxMTM4NDQ1NV19
 -->
