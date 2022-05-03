@@ -11,7 +11,7 @@ In part, the film’s overt seriousness springs from its persistent undercurrent
 
 The characters are also somewhat less nuanced than in many other Ozu films, even when played by the directors’ favourites from the Shochiku ‘stock company’ of contract actors. Haruko Sugimura’s account of Shige, for example, is a nakedly explicit picture of the death of sentiment: the woman is a cypher for selfishness, opportunism and greed. Ozu allows himself one set-piece of comedy (in an otherwise generally sombre movie) at her expense: the scene in which she is embarrassed to have her drunken father and two equally comatose strangers dumped on her late at night by the police.  The chief exceptions to this tendency towards caricature are Shukichi, the emotionally repressed patriarch played by Chishu Ryu, and Noriko, the more than dutiful daughter-in-law played by Setsuko Hara, Japanese cinema’s ‘perennial virgin’. Shukichi’s feelings for his wife are expressed only silently, in worldless scenes after her death, while his only avenue for open discussion of his frustrations as a parent is while drinking with long-unseen buddies in a bar. Noriko, shown to be both a hyper-efficient ‘office lady’ and a model of selfless consideration, is given dialogue scenes (most notably with Kyoko and Shukichi, in quick succession at the film’s climax) to admit her inner doubts and insecurities, especially in relation to her fidelity or otherwise to her late husband. Both actors achieve the deepening of their characters with practised ease and supreme conviction.
 
-Aside from Taizo Saito’s lush but sparingly used Hollywood-style score, the film’s soundtrack is dominated by three elements: chirping crickets, boats chugging and sounding their sirens, and train noises. The crickets evoke the rural ambience of Onomichi, while the other two sound elements evoke travel and the space between places – and by extension, people. But Ozu is far too subtle and humane an artist to reduce his sound design to a matter of schematic symbols. In a film concerned with constant journeying, it’s significant that the only shot of anyone in the act of travelling is the image of Noriko on the train back to Tokyo in the end. In the shot, she pulls out Tom’s heirloom, the pocket watch, and examines it with deep emotion. The shot mysteriously clinches the association between the idea (or sound) of travel and the motif of evanescence. This may be the least ‘melodramatic’ moment in the film. It is also probably the most truly Ozu-esque.<br>
+Aside from Takanobu Saito’s lush but sparingly used Hollywood-style score, the film’s soundtrack is dominated by three elements: chirping crickets, boats chugging and sounding their sirens, and train noises. The crickets evoke the rural ambience of Onomichi, while the other two sound elements evoke travel and the space between places – and by extension, people. But Ozu is far too subtle and humane an artist to reduce his sound design to a matter of schematic symbols. In a film concerned with constant journeying, it’s significant that the only shot of anyone in the act of travelling is the image of Noriko on the train back to Tokyo in the end. In the shot, she pulls out Tom’s heirloom, the pocket watch, and examines it with deep emotion. The shot mysteriously clinches the association between the idea (or sound) of travel and the motif of evanescence. This may be the least ‘melodramatic’ moment in the film. It is also probably the most truly Ozu-esque.<br>
 **Tony Rayns, _Sight & Sound_, February 1994**<br>
 
 
@@ -33,7 +33,7 @@ _Art Director:_ Tatsuo Hamada<br>
 _Set Designer:_ Toshio Takahashi<br>
 _Set Decorator:_ Setsutarô Moriya<br>
 _Costume Designer:_ Taizô Saitô<br>
-_Music:_ Taizo Saitô<br>
+_Music:_ Takanobu Saitô<br>
 _Sound Engineer:_ Mitsuru Kaneko
 _Sound Assistant:_  Yoshiomi Hori
 _Sound Recording_: Yoshisaburô Senô
@@ -74,6 +74,6 @@ Japan 1953
 
 136 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1MjY4NDI5LDEwMjEzMzUzMDMsNjExMz
-g0NDU1XX0=
+eyJoaXN0b3J5IjpbMjIxNDkyNDg1LDI2NTI2ODQyOSwxMDIxMz
+M1MzAzLDYxMTM4NDQ1NV19
 -->
