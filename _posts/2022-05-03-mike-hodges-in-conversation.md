@@ -28,28 +28,29 @@ Hodges has argued that films should have a soul, try to express often-difficult 
 **Mike Hodges**<br>
 Born Bristol, July 1932<br>
 All UK unless stated<br>
-1958  **Once upon a Time** (children’s TV series) writer
-1962  **The Sunday Break** (TV series on religious topics) editor
-1963  **Rave!** (TV series, tx 29.6.63-27.7.63) screenplay
-1963-5 **World in Action** (TV doc) producer/ director; including:
-**Goldwater** (tx 30.6.1964)
-**The Flip Side** (tx 22.9.1964)
-**US Elections** (tx 29.9.1964)
-**Canada** (tx 6.10.1964) collaboration with Douglas Keay
-**Vietnam** (tx 3.11.1964)
-**State of the Unions** (tx 1.12.1964)
-1965  **Tempo** (TV arts magazine) executive producer; including:
-**A Successful Failure** (tx 18.7.1965)
-**Harold Pinter** (tx 3.10.1965) producer
-**Tempo series on ‘Entertainers’:**
-**A Guided Tour of Zero Mostel** (tx 23.1.1966)
-**Never Whistle in a Dressing Room** (tx 30.1.1966)
-**A Tale of Two Talents** (tx 6.2.1966)
-**You’ve Got a Nerve** (tx 13.2.1966)
-**Stop It, You’re Killing Me** (tx 20.2.1966)
-**Don’t Let the Wig Fool You, Mate** (tx 27.2.1966)
-**Meet the Duke** (tx 6.3.1966)
-**‘Tempo International’:**
+
+1958  **Once upon a Time** (children’s TV series) writer<br>
+1962  **The Sunday Break** (TV series on religious topics) editor<br>
+1963  **Rave!** (TV series, tx 29.6.63-27.7.63) screenplay<br>
+1963-5 **World in Action** (TV doc) producer/ director; including:<br>
+**Goldwater** (tx 30.6.1964)<br>
+**The Flip Side** (tx 22.9.1964)<br>
+**US Elections** (tx 29.9.1964)<br>
+**Canada** (tx 6.10.1964) collaboration with Douglas Keay<br>
+**Vietnam** (tx 3.11.1964)<br>
+**State of the Unions** (tx 1.12.1964)<br>
+1965  **Tempo** (TV arts magazine) executive producer; including:<br>
+**A Successful Failure** (tx 18.7.1965)<br>
+**Harold Pinter** (tx 3.10.1965) producer<br>
+**Tempo series on ‘Entertainers’:**<br>
+**A Guided Tour of Zero Mostel** (tx 23.1.1966)<br>
+**Never Whistle in a Dressing Room** (tx 30.1.1966)<br>
+**A Tale of Two Talents** (tx 6.2.1966)<br>
+**You’ve Got a Nerve** (tx 13.2.1966)<br>
+**Stop It, You’re Killing Me** (tx 20.2.1966)<br>
+**Don’t Let the Wig Fool You, Mate** (tx 27.2.1966)<br>
+**Meet the Duke** (tx 6.3.1966)<br>
+**‘Tempo International’:**<br>
 **In Cold Blood** (tx 1.5.1966)
 **Tativille** (tx 8.5.1966)
 **Girodias Rides Again** (tx 15.5.1966)
@@ -89,71 +90,40 @@ All UK unless stated<br>
 1989  **Black Rainbow** director/screenplay
 1994  **Dandelion Dead** (TV, tx 6+13.2.1994) director
 1994  **The Healer** (TV, tx 19+20.9.1994) director
-**The Lifeforce Experiment/ The Breakthrough**
-(TV, tx 16.4.94, director Piers Haggard) screenplay (written 1992)
-
+**The Lifeforce Experiment/ The Breakthrough** (TV, tx 16.4.94, director Piers Haggard) screenplay (written 1992)
 1997  **Croupier** (Eire/Germany/France/UK)  director
-
 2001  **Murder by Numbers** (co-directed with Paul Carlin)
-
-2003  **I’ll Sleep When I’m Dead** (UK/USA) director
-
+2003  **I’ll Sleep When I’m Dead** (UK/USA) director<br>
+<br>
 **RETURN OF THE OUTSIDER: THE FILMS OF MIKE HODGES**
-
 **Suspect + Rumour**
-
 Sun 1 May 14:20
-
 **The Terminal Man (director’s cut)**
-
 Mon 2 May 14:50; Mon 16 May 20:40
-
-**Mike Hodges in Conversation  
-**Tue 3 May 18:15
-
+**Mike Hodges in Conversation**
+Tue 3 May 18:15
 **Black Rainbow**
-
 Tue 3 May 20:40; Sun 22 May 18:10
-
 **Pulp**
-
 Wed 4 May 18:15; Wed 11 May 20:50
-
 **I’ll Sleep When I’m Dead**
-
 Thu 5 May 18:00; Mon 30 May 17:50
-
 **Morons from Outer Space**
-
 Fri 6 May 18:05; Wed 18 May 20:50 **+ World in Action: The Flipside**
-
 **Flash Gordon**
-
 Sat 7 May 12:00; Thu 19 May 20:20 **+ The Tyrant King: Episode 1: Scarface**
-
-**Squaring the Circle + World in Action: Goldwater for President? or How to Win** **Friends and Influence People**
-
+**Squaring the Circle + World in Action: Goldwater for President? or How to Win Friends and Influence People**
 Sun 8 May 11:50
-
 **A Prayer for the Dying**
-
 Sun 8 May 15:20; Sun 15 May 18:10
-
 **Tempo**
-
 Tue 17 May 18:00
-
 **Murder by Numbers + The Hitchhiker: W.G.O.D**
-
 Thu 19 May 18:30
-
 **Dandelion Dead**
-
 Sat 21 May 13:10
-
 **New Tempo**
-
 Sun 29 May 11:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzNzU1MzQ0XX0=
+eyJoaXN0b3J5IjpbNTU2MzE1OTUyXX0=
 -->
