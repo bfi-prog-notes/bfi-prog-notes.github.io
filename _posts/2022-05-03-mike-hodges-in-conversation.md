@@ -31,16 +31,20 @@ All UK unless stated<br>
 
 **1958**<br>
 **Once upon a Time** (children’s TV series) writer<br>
-**1962****The Sunday Break** (TV series on religious topics) editor<br>
-1963  **Rave!** (TV series, tx 29.6.63-27.7.63) screenplay<br>
-1963-5 **World in Action** (TV doc) producer/ director; including:<br>
+**1962**<br>
+**The Sunday Break** (TV series on religious topics) editor<br>
+**1963**<br>
+**Rave!** (TV series, tx 29.6.63-27.7.63) screenplay<br>
+**1963-5**<br> 
+**World in Action** (TV doc) producer/ director; including:<br>
 **Goldwater** (tx 30.6.1964)<br>
 **The Flip Side** (tx 22.9.1964)<br>
 **US Elections** (tx 29.9.1964)<br>
 **Canada** (tx 6.10.1964) collaboration with Douglas Keay<br>
 **Vietnam** (tx 3.11.1964)<br>
 **State of the Unions** (tx 1.12.1964)<br>
-1965  **Tempo** (TV arts magazine) executive producer; including:<br>
+**1965**<br>
+**Tempo** (TV arts magazine) executive producer; including:<br>
 **A Successful Failure** (tx 18.7.1965)<br>
 **Harold Pinter** (tx 3.10.1965) producer<br>
 **Tempo series on ‘Entertainers’:**<br>
@@ -63,7 +67,8 @@ All UK unless stated<br>
 **David, Moffett and Ornette** (tx 26.6.1966)<br>
 **When the War Was Over** (tx 3.7.1966)<br>
 **The Pursuit of Nancy Mitford** (tx 10.7.1966)<br>
-1967  **New Tempo** (TV arts magazine) executive producer/ director:<br>
+**1967**<br>
+**New Tempo** (TV arts magazine) executive producer/ director:<br>
 **The Information Explosion** (tx 1.1.1967)<br>
 **Nostalgia** (tx 8.1.1967)<br>
 **Noise** (tx 15.1.1967)<br>
@@ -72,8 +77,10 @@ All UK unless stated<br>
 **Expendability** (aka **Disposability**, tx 5.2.1967)<br>
 **Stimulants** (tx 12.2.1967)<br>
 **Leisure** (tx 19.2.1967)<br>
-1968  **The Tyrant King** (children’s TV serial, tx 3.10.1968-7.11.1968) director/producer/screenplay<br>
-1969  **Playhouse: Suspect** (TV, tx 17.11.1969) director/producer/screenplay<br>
+**1968**<br>
+**The Tyrant King** (children’s TV serial, tx 3.10.1968-7.11.1968) director/producer/screenplay<br>
+**1969**
+**Playhouse: Suspect** (TV, tx 17.11.1969) director/producer/screenplay<br>
 1970  **Playhouse: Rumour** (TV, tx 2.3.70) director/producer/screenplay<br>
 1971  **Get Carter** (USA/UK) director/screenplay<br>
 1972  **Pulp** (USA/UK) director/screenplay/production company, Klinger-Caine-Hodges<br>
@@ -126,5 +133,5 @@ Sat 21 May 13:10<br>
 **New Tempo**<br>
 Sun 29 May 11:50<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTg4MDYxMSw5NzU4Mjg5NjFdfQ==
+eyJoaXN0b3J5IjpbNTY2MDczODM5LDk3NTgyODk2MV19
 -->
