@@ -28,7 +28,6 @@ Hodges has argued that films should have a soul, try to express often-difficult 
 **Mike Hodges**<br>
 Born Bristol, July 1932<br>
 All UK unless stated<br>
-
 **1958**<br>
 **Once upon a Time** (children’s TV series) writer<br>
 **1962**<br>
@@ -79,9 +78,10 @@ All UK unless stated<br>
 **Leisure** (tx 19.2.1967)<br>
 **1968**<br>
 **The Tyrant King** (children’s TV serial, tx 3.10.1968-7.11.1968) director/producer/screenplay<br>
-**1969**
+**1969**<br>
 **Playhouse: Suspect** (TV, tx 17.11.1969) director/producer/screenplay<br>
-1970  **Playhouse: Rumour** (TV, tx 2.3.70) director/producer/screenplay<br>
+**1970**<br>
+**Playhouse: Rumour** (TV, tx 2.3.70) director/producer/screenplay<br>
 1971  **Get Carter** (USA/UK) director/screenplay<br>
 1972  **Pulp** (USA/UK) director/screenplay/production company, Klinger-Caine-Hodges<br>
 **The Frighteners: The Manipulators** (TV, tx 28.7.1972) director/screenplay<br>
@@ -133,5 +133,6 @@ Sat 21 May 13:10<br>
 **New Tempo**<br>
 Sun 29 May 11:50<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2MDczODM5LDk3NTgyODk2MV19
+eyJoaXN0b3J5IjpbODMxMzY4NDAzLDU2NjA3MzgzOSw5NzU4Mj
+g5NjFdfQ==
 -->
