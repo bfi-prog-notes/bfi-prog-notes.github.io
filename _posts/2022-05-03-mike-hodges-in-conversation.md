@@ -28,131 +28,68 @@ Hodges has argued that films should have a soul, try to express often-difficult 
 **Mike Hodges**<br>
 Born Bristol, July 1932<br>
 All UK unless stated<br>
-
 1958  **Once upon a Time** (children’s TV series) writer
-
 1962  **The Sunday Break** (TV series on religious topics) editor
-
 1963  **Rave!** (TV series, tx 29.6.63-27.7.63) screenplay
-
 1963-5 **World in Action** (TV doc) producer/ director; including:
-
 **Goldwater** (tx 30.6.1964)
-
 **The Flip Side** (tx 22.9.1964)
-
 **US Elections** (tx 29.9.1964)
-
 **Canada** (tx 6.10.1964) collaboration with Douglas Keay
-
 **Vietnam** (tx 3.11.1964)
-
 **State of the Unions** (tx 1.12.1964)
-
 1965  **Tempo** (TV arts magazine) executive producer; including:
-
 **A Successful Failure** (tx 18.7.1965)
-
 **Harold Pinter** (tx 3.10.1965) producer
-
 **Tempo series on ‘Entertainers’:**
-
 **A Guided Tour of Zero Mostel** (tx 23.1.1966)
-
 **Never Whistle in a Dressing Room** (tx 30.1.1966)
-
 **A Tale of Two Talents** (tx 6.2.1966)
-
 **You’ve Got a Nerve** (tx 13.2.1966)
-
 **Stop It, You’re Killing Me** (tx 20.2.1966)
-
 **Don’t Let the Wig Fool You, Mate** (tx 27.2.1966)
-
 **Meet the Duke** (tx 6.3.1966)
-
 **‘Tempo International’:**
-
 **In Cold Blood** (tx 1.5.1966)
-
 **Tativille** (tx 8.5.1966)
-
 **Girodias Rides Again** (tx 15.5.1966)
-
 **Blood, Sweat and Champagne** (tx 22.5.1966)
-
 **Jazz in Wonderland** (tx 29.5.1966)
-
 **The Offenders** (tx 5.6.1966)
-
 **It Happened in Paris** (tx 12.6.1966)
-
 **The Image-Wizards** (tx 19.6.1966)
-
 **David, Moffett and Ornette** (tx 26.6.1966)
-
 **When the War Was Over** (tx 3.7.1966)
-
 **The Pursuit of Nancy Mitford** (tx 10.7.1966)
-
 1967  **New Tempo** (TV arts magazine) executive producer/ director:
-
 **The Information Explosion** (tx 1.1.1967)
-
 **Nostalgia** (tx 8.1.1967)
-
 **Noise** (tx 15.1.1967)
-
 **Violence** (tx 22.1.1967)
-
 **Heroes** (tx 29.1.1967)
-
 **Expendability** (aka **Disposability**, tx 5.2.1967)
-
 **Stimulants** (tx 12.2.1967)
-
 **Leisure** (tx 19.2.1967)
-
 1968  **The Tyrant King** (children’s TV serial, tx 3.10.1968-7.11.1968 director/producer/screenplay
-
 1969  **Playhouse: Suspect** (TV, tx 17.11.1969) director/producer/screenplay
-
 1970  **Playhouse: Rumour** (TV, tx 2.3.70) director/producer/screenplay
-
 1971  **Get Carter** (USA/UK) director/screenplay
-
 1972  **Pulp** (USA/UK) director/screenplay/production company, Klinger-  Caine-Hodges
-
 **The Frighteners: The Manipulators** (TV, tx 28.7.1972) director/screenplay
-
 1974  **The Terminal Man** (USA)  director/producer/screenplay
-
 1978  **Damien  Omen II** co-screenplay; also uncredited original director, replaced by Don Taylor
-
 1980  **Flash Gordon** director
-
 1983  **And the Ship Sails On/E la nave va** (Italy/France, director Federico Fellini) dubbing director of English version
-
 **Missing Pieces** (TV movie, tx 14.5.1983) director
-
 **The Hitchhiker: WGOD** (episode of TV series, tx 26.11.85) director
-
 1984  **Squaring the Circle** (TV, tx 31.5.1984) director
-
 1985  **Morons from Outer Space** director
-
 1986  **Florida Straits** (TV movie, tx 26.10.1986) director
-
 1987  **A Prayer for the Dying** director
-
 1989  **Black Rainbow** director/screenplay
-
 1994  **Dandelion Dead** (TV, tx 6+13.2.1994) director
-
 1994  **The Healer** (TV, tx 19+20.9.1994) director
-
 **The Lifeforce Experiment/ The Breakthrough**
-
 (TV, tx 16.4.94, director Piers Haggard) screenplay (written 1992)
 
 1997  **Croupier** (Eire/Germany/France/UK)  director
@@ -218,5 +155,5 @@ Sat 21 May 13:10
 
 Sun 29 May 11:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODc5NTMyMl19
+eyJoaXN0b3J5IjpbNTMzNzU1MzQ0XX0=
 -->
