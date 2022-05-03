@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Tale of The Princess Kaguya
+published: true
+date: 2022-05-03
+readtime: true
+categories: ['ANIME']
+tags: [Animation]
+metadata: 'Japan 2013, 137 mins<br> Director: Isao Takahata'
+pdf: '2022-05-03-tale-of-the-princess-kaguya.pdf'
+---
 
 The plan was to release _The Tale of The Princess Kaguya_ in Japan on the same day as _The Wind Rises_, 25 years after the double-bill of Isao Takahata’s _Grave of the Fireflies_ and Hayao Miyazaki’s _My Neighbour Totoro_ put their fledgling Studio Ghibli on the map.
 
@@ -75,6 +85,49 @@ Isao Hashizume _(Minister of Culture)_<br>
 Japan 2013©<br>
 137 mins<br>
 <br>
+
+**ANIME CLASSICS PART 2**<br>
+**Tekkonkinkreet (Tekkon kinkurîto)**<br>
+Sun 1 May 12:10; Thu 5 May 20:50<br>
+**The Tale of The Princess Kaguya (Kaguya-hime no Monogatari)**<br>
+Tue 3 May 14:00; Tue 3 May 17:30 (all BFI IMAX)<br>
+**Akira**<br>
+Tue 3 May 20:30; Mon 23 May 15:00; Mon 23 May 20:30 (all BFI IMAX)<br>
+**Lupin the 3rd: The Castle of Cagliostro (Kariosutoro no Shiro)**<br>
+Wed 4 May 14:30; Tue 31 May 20:45<br> 
+**Fullmetal Alchemist the Movie: Conqueror of Shamballa (Gekijô-ban Hagane no Renkinjutsushi: Shanbara o Yuku Mono)**<br>
+Fri 6 May 21:00; Mon 9 May 20:40<br> 
+**Memories (Memorîzu)**<br>
+Sun 15 May 12:00; Tue 24 May 20:40<br>
+**Grave of the Fireflies (Hotaru no Haka)**<br> 
+Thu 19 May 18:00 + intro by Alex Dudok de Wit, author of BFI Film Classics: Grave of the Fireflies; Fri 27 May 20:45<br>
+<br>
+
+This season was co-programmed by writer and academic Hanako Miyata<br>
+
+<img style="float: left;" src="/img/japan-nakama.png" width="30%" height="30%">
+<br><br><br><br><br>
+
+**Japan Nakama is an online community for Japanese culture enthusiasts and a marketplace for Japan-made and inspired products.**<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNTc3NDA1MjI1XX0=
 -->
