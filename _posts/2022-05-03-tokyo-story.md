@@ -36,44 +36,42 @@ _Costume Designer:_ Taizô Saitô<br>
 _Music:_ Takanobu Saitô<br>
 _Sound Engineer:_ Mitsuru Kaneko<br>
 _Sound Assistant:_  Yoshiomi Hori<br>
-_Sound Recording_: Yoshisaburô Senô
-_Film Development:_  Ryûji Hayashi
+_Sound Recording_: Yoshisaburô Senô<br>
+_Film Development:_  Ryûji Hayashi<br>
 
-\* Uncredited
-**Cast**
-Chishû Ryû _(Shûkichi Hirayama)_  
-Chieko Higashiyama  _(Tomi, Hirayama’s wife)_
-Setsuko Hara _(Noriko, Hirayama’s daughter-in-law)_
-Haruko Sugimura _(Shige Kaneko, Hirayama’s elder daughter)_
-Sô Yamamura _(Kôichi, Hirayama’s elder son)_
-Kuniko Miyake _(Fumiko, Koichi’s wife)_
-Kyôko Kagawa _(Kyôko, Hirayama’s younger daughter)_
-Eijirô Tono _(Sanpei Numata, Hirayama’s friend)_
-Nobuo Nakamura _(Kurazo Kaneko, Shige’s husband)_
-Shirô Ôsaka _(Keizô_  _Hirayama’s younger son)_
-Hisao Toake _(Osamu Hattori, Hirayama’s friend)_
-Teruko Nagaoka _(Yone Hattori)_
-Mutsuko Sakura _(woman at oden counter)_
-Toyo Takahashi _(Noriko’s neighbour in Onomichi)_
-Tôru  Abe _(railway clerk)_
-Sachiko Mitani _(woman at Noriko’s apartment)_
-Zen Murase _(Minoru, Koichi’s elder son)_
-Mitsuhiro Mori _(Isamu, Koichi’s younger son)_
-Junko Anan _(beauty salon assistant)_
-Ryôko Mizuki, Yoshiko Togawa _(beauty salon customers)_
-Kazuhiro Itokawa _(tenant at the Hattori household)_
-Fumio Toyama _(patient)_
-Keijirô Morozumi _(police officer)_
-Tsutomu Niijima _(company section chief at Noriko’s office)_
-Shôzô Suzuki _(clerk at Noriko’s office)_  
-Yoshiko Tashiro, Haruko Chichibu _(maids at inn)_
-Takashi Miki _(singer at inn)_
-Toshinosuke Nagao _(doctor)_
+**Cast**<br>
+Chishû Ryû _(Shûkichi Hirayama)_  <br>
+Chieko Higashiyama  _(Tomi, Hirayama’s wife)_<br>
+Setsuko Hara _(Noriko, Hirayama’s daughter-in-law)_<br>
+Haruko Sugimura _(Shige Kaneko, Hirayama’s elder daughter)_<br>
+Sô Yamamura _(Kôichi, Hirayama’s elder son)_<br>
+Kuniko Miyake _(Fumiko, Koichi’s wife)_<br>
+Kyôko Kagawa _(Kyôko, Hirayama’s younger daughter)_<br>
+Eijirô Tono _(Sanpei Numata, Hirayama’s friend)_<br>
+Nobuo Nakamura _(Kurazo Kaneko, Shige’s husband)_<br>
+Shirô Ôsaka _(Keizô_  _Hirayama’s younger son)_<br>
+Hisao Toake _(Osamu Hattori, Hirayama’s friend)_<br>
+Teruko Nagaoka _(Yone Hattori)_<br>
+Mutsuko Sakura _(woman at oden counter)_<br>
+Toyo Takahashi _(Noriko’s neighbour in Onomichi)_<br>
+Tôru  Abe _(railway clerk)_<br>
+Sachiko Mitani _(woman at Noriko’s apartment)_<br>
+Zen Murase _(Minoru, Koichi’s elder son)_<br>
+Mitsuhiro Mori _(Isamu, Koichi’s younger son)_<br>
+Junko Anan _(beauty salon assistant)_<br>
+Ryôko Mizuki, Yoshiko Togawa _(beauty salon customers)_<br>
+Kazuhiro Itokawa _(tenant at the Hattori household)_<br>
+Fumio Toyama _(patient)_<br>
+Keijirô Morozumi _(police officer)_<br>
+Tsutomu Niijima _(company section chief at Noriko’s office)_<br>
+Shôzô Suzuki _(clerk at Noriko’s office)_  <br>
+Yoshiko Tashiro, Haruko Chichibu _(maids at inn)_<br>
+Takashi Miki _(singer at inn)_<br>
+Toshinosuke Nagao _(doctor)_<br>
 
-Japan 1953
-
-136 mins
+Japan 1953<br>
+136 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Njg4NTA2MSwyNjUyNjg0MjksMTAyMT
+eyJoaXN0b3J5IjpbLTM1NjE0MzI3NCwyNjUyNjg0MjksMTAyMT
 MzNTMwMyw2MTEzODQ0NTVdfQ==
 -->
