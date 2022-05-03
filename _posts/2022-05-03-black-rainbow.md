@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Black Rainbow
+published: true
+date: 2022-05-03
+readtime: true
+categories: ['RETURN OF THE OUTSIDER<br>THE FILMS OF MIKE HODGES']
+tags: [Thriller]
+metadata: 'UK 1989, 103 mins<br> Director: Mike Hodges'
+pdf: '2022-05-03-black-rainbow.pdf'
+---
 
 ‘_Black Rainbow_ is a crossroads of many different ideas,’ says writer/director Mike Hodges. ‘I’m concerned about what we’re doing to our planet and I’m interested in the revival of numerous kinds of religion, evangelism and the new age of spiritualism. We have this wonderful place we call God’s Kingdom – a place of beauty and serenity. But we are destroying it and not looking after what is now rapidly vanishing. I wanted to make a thriller encompassing all these subjects. The idea of a medium gave me the vehicle to carry the various strands I was trying to work into the piece.’
 
@@ -10,8 +20,7 @@ _Black Rainbow_ turned out as a result to be the most personal screenplay Hodges
 
 He continues, ‘After all, our ancestors looked after the earth with care. Its preservation was built into their philosophy. We not only reject their wisdom, we even tried to destroy them with it. Surely there is a direct link between the way we treat our environment and the fact that we have no time to dwell on anything anymore. It’s an age of distractions and we literally end up ignoring the very place we are living in, which could be the important key to understanding ourselves.’
 
-Hodges believes in the power of telepathy, the basis from which he started writing the _Black Rainbow_ script in 1986. He remarks, ‘All I’ve done is put a feeler out for discussion saying there may be things we don’t understand but at least we should be trying. Most of the information that seems to come up at these mass public psychic displays put on by mediums is usually personal trivia. Mediums seem to pick up on people’s thoughts which they then embellish with all their own dreams of what it’s supposed to be like on  
-The Other Side. They act like human radio receivers collecting subconscious wavelengths. But nobody has proved there is an “over there” yet. And that’s as far as I wanted to go with the subject in the script.’
+Hodges believes in the power of telepathy, the basis from which he started writing the _Black Rainbow_ script in 1986. He remarks, ‘All I’ve done is put a feeler out for discussion saying there may be things we don’t understand but at least we should be trying. Most of the information that seems to come up at these mass public psychic displays put on by mediums is usually personal trivia. Mediums seem to pick up on people’s thoughts which they then embellish with all their own dreams of what it’s supposed to be like on  The Other Side. They act like human radio receivers collecting subconscious wavelengths. But nobody has proved there is an “over there” yet. And that’s as far as I wanted to go with the subject in the script.’
 
 Hodges continued, ‘There are all sorts of phenomena we don’t understand: why under hypnosis someone has three or four different personalities; why birds migrate; what causes mass hysteria? We seem scared witless to study extraordinary phenomena because, if we did, it would possibly reveal that it’s our egos that are being threatened. The idea of individuality brings with it the necessity of some sort of God. A deity is necessary to promote the idea of living in the hereafter. Yet all the signs show we’re just particles of matter – and that’s all that probably does matter. Why don’t we want to probe these phenomena? Our ancestors did. The Shamans did. Why are we so afraid to explore them?’
 
@@ -165,6 +174,53 @@ Choir of Canon’s Cathedral Charlotte N. _(themselves)_
 UK 1989  
 103 mins
 <br><br>
+
+**RETURN OF THE OUTSIDER:  THE FILMS OF MIKE HODGES**<br>
+**The Terminal Man (director’s cut)**<br>
+Mon 2 May 14:50; Mon 16 May 20:40<br>
+**Mike Hodges in Conversation**<br>
+Tue 3 May 18:15<br>
+**Black Rainbow**<br>
+Tue 3 May 20:40; Sun 22 May 18:10<br>
+**Pulp**<br>
+Wed 4 May 18:15; Wed 11 May 20:50<br>
+**I’ll Sleep When I’m Dead**<br>
+Thu 5 May 18:00; Mon 30 May 17:50<br>
+**Morons from Outer Space**<br>
+Fri 6 May 18:05; Wed 18 May 20:50 **+ World in Action: The Flipside**<br>
+**Flash Gordon**<br>
+Sat 7 May 12:00; Thu 19 May 20:20 **+ The Tyrant King: Episode 1: Scarface**<br>
+**Squaring the Circle + World in Action:  Goldwater for President? or How to Win Friends and Influence People**<br>
+Sun 8 May 11:50<br>
+**A Prayer for the Dying**<br>
+Sun 8 May 15:20; Sun 15 May 18:10<br>
+**Tempo**<br>
+Tue 17 May 18:00<br>
+**Murder by Numbers + The Hitchhiker: W.G.O.D**<br>
+Thu 19 May 18:30<br>
+**Dandelion Dead**<br>
+Sat 21 May 13:10<br>
+**New Tempo**<br>
+Sun 29 May 11:50<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjA1MTM2NjcyMV19
 -->
