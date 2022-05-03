@@ -51,66 +51,66 @@ All UK unless stated<br>
 **Don’t Let the Wig Fool You, Mate** (tx 27.2.1966)<br>
 **Meet the Duke** (tx 6.3.1966)<br>
 **‘Tempo International’:**<br>
-**In Cold Blood** (tx 1.5.1966)
-**Tativille** (tx 8.5.1966)
-**Girodias Rides Again** (tx 15.5.1966)
-**Blood, Sweat and Champagne** (tx 22.5.1966)
-**Jazz in Wonderland** (tx 29.5.1966)
-**The Offenders** (tx 5.6.1966)
-**It Happened in Paris** (tx 12.6.1966)
-**The Image-Wizards** (tx 19.6.1966)
-**David, Moffett and Ornette** (tx 26.6.1966)
-**When the War Was Over** (tx 3.7.1966)
-**The Pursuit of Nancy Mitford** (tx 10.7.1966)
-1967  **New Tempo** (TV arts magazine) executive producer/ director:
-**The Information Explosion** (tx 1.1.1967)
-**Nostalgia** (tx 8.1.1967)
-**Noise** (tx 15.1.1967)
-**Violence** (tx 22.1.1967)
-**Heroes** (tx 29.1.1967)
-**Expendability** (aka **Disposability**, tx 5.2.1967)
-**Stimulants** (tx 12.2.1967)
-**Leisure** (tx 19.2.1967)
-1968  **The Tyrant King** (children’s TV serial, tx 3.10.1968-7.11.1968 director/producer/screenplay
-1969  **Playhouse: Suspect** (TV, tx 17.11.1969) director/producer/screenplay
-1970  **Playhouse: Rumour** (TV, tx 2.3.70) director/producer/screenplay
-1971  **Get Carter** (USA/UK) director/screenplay
-1972  **Pulp** (USA/UK) director/screenplay/production company, Klinger-  Caine-Hodges
-**The Frighteners: The Manipulators** (TV, tx 28.7.1972) director/screenplay
-1974  **The Terminal Man** (USA)  director/producer/screenplay
-1978  **Damien  Omen II** co-screenplay; also uncredited original director, replaced by Don Taylor
-1980  **Flash Gordon** director
-1983  **And the Ship Sails On/E la nave va** (Italy/France, director Federico Fellini) dubbing director of English version
-**Missing Pieces** (TV movie, tx 14.5.1983) director
-**The Hitchhiker: WGOD** (episode of TV series, tx 26.11.85) director
-1984  **Squaring the Circle** (TV, tx 31.5.1984) director
-1985  **Morons from Outer Space** director
-1986  **Florida Straits** (TV movie, tx 26.10.1986) director
-1987  **A Prayer for the Dying** director
-1989  **Black Rainbow** director/screenplay
-1994  **Dandelion Dead** (TV, tx 6+13.2.1994) director
-1994  **The Healer** (TV, tx 19+20.9.1994) director
-**The Lifeforce Experiment/ The Breakthrough** (TV, tx 16.4.94, director Piers Haggard) screenplay (written 1992)
-1997  **Croupier** (Eire/Germany/France/UK)  director
-2001  **Murder by Numbers** (co-directed with Paul Carlin)
+**In Cold Blood** (tx 1.5.1966)<br>
+**Tativille** (tx 8.5.1966)<br>
+**Girodias Rides Again** (tx 15.5.1966)<br>
+**Blood, Sweat and Champagne** (tx 22.5.1966)<br>
+**Jazz in Wonderland** (tx 29.5.1966)<br>
+**The Offenders** (tx 5.6.1966)<br>
+**It Happened in Paris** (tx 12.6.1966)<br>
+**The Image-Wizards** (tx 19.6.1966)<br>
+**David, Moffett and Ornette** (tx 26.6.1966)<br>
+**When the War Was Over** (tx 3.7.1966)<br>
+**The Pursuit of Nancy Mitford** (tx 10.7.1966)<br>
+1967  **New Tempo** (TV arts magazine) executive producer/ director:<br>
+**The Information Explosion** (tx 1.1.1967)<br>
+**Nostalgia** (tx 8.1.1967)<br>
+**Noise** (tx 15.1.1967)<br>
+**Violence** (tx 22.1.1967)<br>
+**Heroes** (tx 29.1.1967)<br>
+**Expendability** (aka **Disposability**, tx 5.2.1967)<br>
+**Stimulants** (tx 12.2.1967)<br>
+**Leisure** (tx 19.2.1967)<br>
+1968  **The Tyrant King** (children’s TV serial, tx 3.10.1968-7.11.1968) director/producer/screenplay<br>
+1969  **Playhouse: Suspect** (TV, tx 17.11.1969) director/producer/screenplay<br>
+1970  **Playhouse: Rumour** (TV, tx 2.3.70) director/producer/screenplay<br>
+1971  **Get Carter** (USA/UK) director/screenplay<br>
+1972  **Pulp** (USA/UK) director/screenplay/production company, Klinger-Caine-Hodges<br>
+**The Frighteners: The Manipulators** (TV, tx 28.7.1972) director/screenplay<br>
+1974  **The Terminal Man** (USA)  director/producer/screenplay<br>
+1978  **Damien  Omen II** co-screenplay; also uncredited original director, replaced by Don Taylor<br>
+1980  **Flash Gordon** director<br>
+1983  **And the Ship Sails On/E la nave va** (Italy/France, director Federico Fellini) dubbing director of English version<br>
+**Missing Pieces** (TV movie, tx 14.5.1983) director<br>
+**The Hitchhiker: WGOD** (episode of TV series, tx 26.11.85) director<br>
+1984  **Squaring the Circle** (TV, tx 31.5.1984) director<br>
+1985  **Morons from Outer Space** director<br>
+1986  **Florida Straits** (TV movie, tx 26.10.1986) director<br>
+1987  **A Prayer for the Dying** director<br>
+1989  **Black Rainbow** director/screenplay<br>
+1994  **Dandelion Dead** (TV, tx 6+13.2.1994) director<br>
+1994  **The Healer** (TV, tx 19+20.9.1994) director<br>
+**The Lifeforce Experiment/ The Breakthrough** (TV, tx 16.4.94, director Piers Haggard) screenplay (written 1992)<br>
+1997  **Croupier** (Eire/Germany/France/UK)  director<br>
+2001  **Murder by Numbers** (co-directed with Paul Carlin)<br>
 2003  **I’ll Sleep When I’m Dead** (UK/USA) director<br>
 <br>
-**RETURN OF THE OUTSIDER: THE FILMS OF MIKE HODGES**
-**Suspect + Rumour**
-Sun 1 May 14:20
-**The Terminal Man (director’s cut)**
-Mon 2 May 14:50; Mon 16 May 20:40
-**Mike Hodges in Conversation**
-Tue 3 May 18:15
-**Black Rainbow**
-Tue 3 May 20:40; Sun 22 May 18:10
-**Pulp**
-Wed 4 May 18:15; Wed 11 May 20:50
-**I’ll Sleep When I’m Dead**
-Thu 5 May 18:00; Mon 30 May 17:50
-**Morons from Outer Space**
+**RETURN OF THE OUTSIDER: THE FILMS OF MIKE HODGES**<br>
+**Suspect + Rumour**<br>
+Sun 1 May 14:20<br>
+**The Terminal Man (director’s cut)**<br>
+Mon 2 May 14:50; Mon 16 May 20:40<br>
+**Mike Hodges in Conversation**<br>
+Tue 3 May 18:15<br>
+**Black Rainbow**<br>
+Tue 3 May 20:40; Sun 22 May 18:10<br>
+**Pulp**<br>
+Wed 4 May 18:15; Wed 11 May 20:50<br>
+**I’ll Sleep When I’m Dead**<br>
+Thu 5 May 18:00; Mon 30 May 17:50<br>
+**Morons from Outer Space**<br>
 Fri 6 May 18:05; Wed 18 May 20:50 **+ World in Action: The Flipside**
-**Flash Gordon**
+**Flash Gordon**<br>
 Sat 7 May 12:00; Thu 19 May 20:20 **+ The Tyrant King: Episode 1: Scarface**
 **Squaring the Circle + World in Action: Goldwater for President? or How to Win Friends and Influence People**
 Sun 8 May 11:50
@@ -125,5 +125,5 @@ Sat 21 May 13:10
 **New Tempo**
 Sun 29 May 11:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2MzE1OTUyXX0=
+eyJoaXN0b3J5IjpbLTY4OTUyMTk1XX0=
 -->
