@@ -61,29 +61,41 @@ _Stunt Coordinator:_ Timothy Eulich<br>
 **Cast**<br>
 Michelle  Yeoh _(Evelyn Wang)_<br>
 Stephanie  Hsu _(Joy Wang/Jobu Tupaki)_<br>
-Ke  Huy  Quan _(Waymond Wang)_
-James  Hong _(Gong Gong)_
-Jamie  Lee  Curtis _(Deirdre Beaubeirdra)_
-Tallie  Medel _(Becky Sregor)_
-Jenny  Slate _(Big Nose)_
-Harry  Shum _(Jr Chad)_
-Biff  Wiff  Rick _(Sunita Mani TV musical – queen)_
-Aaron  Lazar _(TV musical – soldier)_
-Brian  Le _(Alpha jumper – trophy)_
-Andy  Le _(Alpha jumper – bigger trophy)_
-Neravana  Cabral _(Chelsey Goldsmith)_
-Craig  Henningsen _(security guards)_
-Anthony  Molinari _(police – Confetti)_
-Dan  Brown _(police – salsa)_
-Anthony  Nanakornpanom _(police – luchador)_
-Cara  Marie  Chooljian _(Alpha jumper – jogger)_
-Randall  Archer _(Alpha jumper – edgelord)_
-Efka  Kvaraciejus _(Alpha jumper – SWAT)_
+Ke  Huy  Quan _(Waymond Wang)_<br>
+James  Hong _(Gong Gong)_<br>
+Jamie  Lee  Curtis _(Deirdre Beaubeirdra)_<br>
+Tallie  Medel _(Becky Sregor)_<br>
+Jenny  Slate _(Big Nose)_<br>
+Harry  Shum _(Jr Chad)_<br>
+Biff  Wiff  Rick _(Sunita Mani TV musical – queen)_<br>
+Aaron  Lazar _(TV musical – soldier)_<br>
+Brian  Le _(Alpha jumper – trophy)_<br>
+Andy  Le _(Alpha jumper – bigger trophy)_<br>
+Neravana  Cabral _(Chelsey Goldsmith)_<br>
+Craig  Henningsen _(security guards)_<br>
+Anthony  Molinari _(police – Confetti)_<br>
+Dan  Brown _(police – salsa)_<br>
+Anthony  Nanakornpanom _(police – luchador)_<br>
+Cara  Marie  Chooljian _(Alpha jumper – jogger)_<br>
+Randall  Archer _(Alpha jumper – edgelord)_<br>
+Efka  Kvaraciejus _(Alpha jumper – SWAT)_<br>
 
-USA 2022
-139 mins
+USA 2022<br>
+139 mins<br>
 
-Courtesy of A24
+Courtesy of A24<br>
+
+**IN PERSON & PREVIEWS**<br>
+**Preview: Everything Everywhere All at Once**<br>
+Wed 4 May 19:00
+**Mark Kermode Live in 3D at the BFI  **
+Mon 9 May 18:10  
+**Preview: Benediction + extended introduction with director Terence Davies + actor Jack Lowden**
+Mon 9 May 20:15
+**Gaspar Noé in Conversation  **
+Tue 10 May 21:00
+**Preview: Summer Ghost + Q&A with director Loundraw  **
+Fri 13 May 18:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTIzMjMzMV19
+eyJoaXN0b3J5IjpbMjI5MTI1NjJdfQ==
 -->
