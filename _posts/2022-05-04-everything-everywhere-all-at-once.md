@@ -87,15 +87,15 @@ Courtesy of A24<br>
 
 **IN PERSON & PREVIEWS**<br>
 **Preview: Everything Everywhere All at Once**<br>
-Wed 4 May 19:00
-**Mark Kermode Live in 3D at the BFI  **
-Mon 9 May 18:10  
-**Preview: Benediction + extended introduction with director Terence Davies + actor Jack Lowden**
-Mon 9 May 20:15
-**Gaspar Noé in Conversation  **
-Tue 10 May 21:00
-**Preview: Summer Ghost + Q&A with director Loundraw  **
-Fri 13 May 18:30
+Wed 4 May 19:00<br>
+**Mark Kermode Live in 3D at the BFI  **<br>
+Mon 9 May 18:10  <br>
+**Preview: Benediction + extended introduction with director Terence Davies + actor Jack Lowden**<br>
+Mon 9 May 20:15<br>
+**Gaspar Noé in Conversation  **<br>
+Tue 10 May 21:00<br>
+**Preview: Summer Ghost + Q&A with director Loundraw  **<br>
+Fri 13 May 18:30<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5MTI1NjJdfQ==
+eyJoaXN0b3J5IjpbLTExNjU1NzU5MDhdfQ==
 -->
