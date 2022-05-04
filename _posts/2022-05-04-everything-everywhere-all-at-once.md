@@ -1,7 +1,5 @@
 
-<![endif]-->
-
-_+ Q&A with writer-directors Daniels_
+_+ Q&A with writer-directors Daniels_<br>
 
 Directed by Daniel Kwan and Daniel Scheinert, collectively known as Daniels, _Everything Everywhere All at Once_ is a hilarious and big-hearted sci-fi action adventure about an exhausted Chinese American woman (Michelle Yeoh) who can’t seem to finish her taxes.
 
@@ -29,44 +27,40 @@ The film’s thematic heart helped Daniels to alleviate the some­what itching c
 
 Kwan remembers being inspired specifically by _The Matrix_’s iconic fighting scenes, which harkened back to Daniels’ shared love of kung-fu films. The distinction, Kwan notes, is that ‘we don’t love violence, but we love action movies.’
 
-‘There’s something so entertaining and visceral about it, and we wanted to try to take that kind of energy and satisfying filmmaking and point it towards love and understanding,’ Kwan continues. ‘Which was another fun challenge that we were like, we don’t know how to do that, but we want to see it on the big screen.’
+‘There’s something so entertaining and visceral about it, and we wanted to try to take that kind of energy and satisfying filmmaking and point it towards love and understanding,’ Kwan continues. ‘Which was another fun challenge that we were like, we don’t know how to do that, but we want to see it on the big screen.’<br>
+**Production notes**<br>
 
-**Production notes**
+**EVERYTHING EVERYWHERE ALL AT ONCE**<br>
+A _Daniels_ film<br>
+_Directors:_ Daniel Kwan, Daniel Scheinert<br>
+_Presented by:_ A24 and Jac Films<br>
+A _Gozie Agbo_ and_Year of the Rat_ production<br>
+_In association with:_ Ley Line Entertainment<br>
+_Executive Producers:_ Tim Headington, Theresa Steele Page, Todd Makurath, Josh Rudnik, Michelle Yeoh<br>
+_Produced by:_ Joe Russo,  Anthony Russo,  Mike Larocca<br>
+_Producers:_ Daniel Kwan,  Daniel Scheinert,  Jonathan Wang<br>
+_Co-producers:_ Allison Rose Carter, Jon Read, Sarah Halley Finn<br>
+_Casting by:_ Sarah Halley Finn<br>
+_1st Assistant Director:_ Rod Smith<br>
+_Script Supervisor:_ Julia Schachter<br>
+_Written by:_ Daniel Kwan, Daniel Scheinert<br>
+_Director of Photography:_ Larkin Seiple<br>
+_Edited by:_ Paul Rogers<br>
+_Production Designer:_ Jason Kisvarday<br>
+_Set Designer_: Lia Burton<br>
+_Visual Effects Supervisor:_ Zak Stoltz<br>
+_Costume Designers:_ Shirley Kurata<br>
+_Make-up Department Head:_ Michelle Chung<br>
+_Hair Department Head:_ Anissa Salazar<br>
+_Original Score:_ Son Lux<br>
+_Music Supervisors:_ Laruen Marie Milkus, Bruce Gilbert<br>
+_Sound Supervisor:_ Brent Kiser<br>
+_Sound Mixer:_ Stephen Nelson<br>
+_Stunt Coordinator:_ Timothy Eulich<br>
 
-  
-
-**EVERYTHING EVERYWHERE ALL AT ONCE**
-A _Daniels_ film
-_Directors:_ Daniel Kwan, Daniel Scheinert
-_Presented by:_ A24 and Jac Films
-A _Gozie Agbo_ and_Year of the Rat_ production
-_In association with:_ Ley Line Entertainment
-_Executive Producers:_ Tim Headington, Theresa Steele Page, Todd Makurath, Josh Rudnik, Michelle Yeoh
-_Produced by:_ Joe Russo,  Anthony Russo,  Mike Larocca
-_Producers:_ Daniel Kwan,  Daniel Scheinert,  Jonathan Wang
-_Co-producers:_ Allison Rose Carter, Jon Read, Sarah Halley Finn
-
-_Casting by:_ Sarah Halley Finn
-_1st Assistant Director:_ Rod Smith
-_Script Supervisor:_ Julia Schachter
-_Written by:_ Daniel Kwan, Daniel Scheinert
-_Director of Photography:_ Larkin Seiple
-_Edited by:_ Paul Rogers
-_Production Designer:_ Jason Kisvarday
-_Set Designer_: Lia Burton
-_Visual Effects Supervisor:_ Zak Stoltz
-_Costume Designers:_ Shirley Kurata
-_Make-up Department Head:_ Michelle Chung
-_Hair Department Head:_ Anissa Salazar
-_Original Score:_ Son Lux
-_Music Supervisors:_ Laruen Marie Milkus, Bruce Gilbert
-_Sound Supervisor:_ Brent Kiser
-_Sound Mixer:_ Stephen Nelson
-_Stunt Coordinator:_ Timothy Eulich
-
-**Cast**
-Michelle  Yeoh _(Evelyn Wang)_
-Stephanie  Hsu _(Joy Wang/Jobu Tupaki)_
+**Cast**<br>
+Michelle  Yeoh _(Evelyn Wang)_<br>
+Stephanie  Hsu _(Joy Wang/Jobu Tupaki)_<br>
 Ke  Huy  Quan _(Waymond Wang)_
 James  Hong _(Gong Gong)_
 Jamie  Lee  Curtis _(Deirdre Beaubeirdra)_
@@ -91,5 +85,5 @@ USA 2022
 
 Courtesy of A24
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDk2Mjk2OF19
+eyJoaXN0b3J5IjpbLTg5MTIzMjMzMV19
 -->
