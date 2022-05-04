@@ -1,8 +1,18 @@
-
+---
+layout: post
+title: Criminal Lovers
+published: true
+date: 2022-05-04
+readtime: true
+categories: ['CRUEL FLESH<br>FILMS OF THE  NEW FRENCH EXTREMITY']
+tags: [Crime]
+metadata: 'France 1999, 96 mins<br> Director: François Ozon'
+pdf: '2022-05-04-criminal-lovers.pdf'
+---
 
 **François Ozon on ‘Criminal Lovers’**
 
-_In_ Criminal Lovers _you collide the_ _world's violent reality with the fantasy and symbolism of fairy tales. It’s a daring project._
+_In_ Criminal Lovers _you collide the world's violent reality with the fantasy and symbolism of fairy tales. It’s a daring project._
 
 The idea of this story came to me from a passion for both crime stories and fairy tales. I wanted to combine two genres: a crime film inspired by headlines mixed with the fairy tale, mostly a literary genre. Normally they oppose one another. One is rooted in reality and the other in a fantastic and symbolic universe. Nevertheless, they both have the same dark side, often the same themes – murder, abandonment, incest, suicide... Fairy tales arouse the same kind of fascination in both adults and children. These stories, real or imaginary, speak to us intimately about our doubts, our fears and our worries. Furthermore, everyone has his or her favourite fairy tale, which says something about the individual’s personality.
 
@@ -14,14 +24,13 @@ _What were your sources of inspiration?_
 
 I was interested in accounts of many crimes in which the protagonists were adolescents. Recently, there have been a lot of similar cases in Europe and the US. For example, the story of this young, rich American girl who asked her middle-class boyfriend to kill a homeless man in Central Park. A completely gratuitous crime, just for the pleasure of killing or witnessing death ... And, of course, there’s also the cinema tradition, mostly American, of young criminals on the run – from _They Live by Night_ to _Bonnie and Clyde_, by way of  _The Honeymoon Killers_.
 
-_The character of Alice, although much younger, still evokes the Hollywood praying mantis type female character that seduces her lover to push him toward crime. Like Barbara Stanwyck in_ Double Indemnity _, Lana Turner in  _ The Postman Always Rings Twice _...
+_The character of Alice, although much younger, still evokes the Hollywood praying mantis type female character that seduces her lover to push him toward crime. Like Barbara Stanwyck in_ Double Indemnity _, Lana Turner in_ The Postman Always Rings Twice _...
 
 I’ve always been fascinated by what are referred to as screen ‘bitches’. I enjoy giving to female characters that same cruelty normally seen in men. Feminine manipulation is always much stronger, much more exciting. There is a particular sensuality in a woman’s cruelty. Already, in my short, _See the Sea_, I showed outright the truly evil nature of the character played by Marina de Van without any psychological explication for the cruelty of her acts.
 
 _In_ Criminal Lovers _there is no explained psychological analysis. You don’t show any elements of the criminal pathology of your characters. You also don’t paint a portrait of a disturbed era..._
 
-The criminal act is presented as it is in all its mysterious and frightening brutality, without any psychological explanation or sociological context.  
-One rarely knows the real reasons why someone commits an act. That’s what interests me, to try and get closer to that obscure moment of the murderous impulse. In fact, it seems to me that Alice doesn’t desire Luc, but actually desires Saïd. She doesn’t assume her sexuality. She isn’t ready to have a real love relationship with Saïd. She sticks to fantasy and provocation. She turns him on ... She then has the object of her desire killed so as not to respond to that desire. This delight in killing is her manner of attaining orgasm.
+The criminal act is presented as it is in all its mysterious and frightening brutality, without any psychological explanation or sociological context.  One rarely knows the real reasons why someone commits an act. That’s what interests me, to try and get closer to that obscure moment of the murderous impulse. In fact, it seems to me that Alice doesn’t desire Luc, but actually desires Saïd. She doesn’t assume her sexuality. She isn’t ready to have a real love relationship with Saïd. She sticks to fantasy and provocation. She turns him on ... She then has the object of her desire killed so as not to respond to that desire. This delight in killing is her manner of attaining orgasm.
 
 _Do you think identification with the characters of Alice and Luc might be difficult for the audience?_
 
@@ -29,8 +38,7 @@ The spectator has to choose their own path. I expect the spectator to be active.
 
 _You opted for a story structure based on flashback..._
 
-The screenplay was first written in chronological order. In editing, we realised the succession of situations worked too distinctly. The period of initiation where the young couple are held prisoner in the cellar became stronger, and the beginning was forgotten. The murder was overshadowed. The flashbacks gave more presence to the character of Saïd, thus reinforcing the cruelty of the two adolescents. Furthermore, the cellar imprisonment is suitable to the flashback. In this space, time becomes abstract, similar to what must be felt in prison. One has time to rethink one’s acts, the murder committed, childhood...  
-The film was edited on this idea.
+The screenplay was first written in chronological order. In editing, we realised the succession of situations worked too distinctly. The period of initiation where the young couple are held prisoner in the cellar became stronger, and the beginning was forgotten. The murder was overshadowed. The flashbacks gave more presence to the character of Saïd, thus reinforcing the cruelty of the two adolescents. Furthermore, the cellar imprisonment is suitable to the flashback. In this space, time becomes abstract, similar to what must be felt in prison. One has time to rethink one’s acts, the murder committed, childhood...  The film was edited on this idea.
 
 _The film begins fast-paced, tight and alert like Alice’s nervous rhythm..._
 
@@ -115,6 +123,63 @@ Gil de Murger _(GIGN man)_
 France 1999©  
 96 mins<br>
 <br>
+
+**CRUEL FLESH: FILMS OF THE  NEW FRENCH EXTREMITY**<br>
+**Carne + La Bouche de Jean-Pierre**<br>
+Sun 1 May 11:50; Thu 12 May 20:45 (+ Q&A with Lucile Hadžihalilovic)<br>
+**Baise-moi**<br>
+Sun 1 May 18:20; Sat 7 May 20:50<br>
+**The Ordeal (Calvaire)**<br>
+Mon 2 May 12:30; Sun 22 May 18:20<br>
+**Man Bites Dog (C’est arrivé près de chez vous)**<br>
+Mon 2 May 15:10; Tue 10 May 20:55<br>
+**Sex and Death, but Make It Arthouse**<br>
+Tue 3 May 18:10<br>
+**Trouble Every Day**<br>
+Tue 3 May 20:30 (+ intro by writer and creative Sophie Monks Kaufman); Tue 24 May 20:45<br>
+**Criminal Lovers (Les Amants criminels)**<br>
+Wed 4 May 20:50; Sat 14 May 12:00<br>
+**Pola X**<br>
+Thu 5 May 20:25; Sat 28 May 17:50<br>
+**Romance (Romance X)**<br>
+Fri 6 May 18:00 (+ intro by Catherine Wheatley, King’s College London); Tue 17 May 20:45<br>
+**Philosophical Screens: Romance**<br>
+Fri 6 May 20:00<br>
+**In My Skin (Dans ma peau)**<br>
+Sat 7 May 17:50 (+ intro by Catherine Wheatley, King’s College London); Thu 19 May 20:40<br>
+**High Tension (aka Switchblade Romance)  (Haute Tension)**<br>
+Mon 9 May 18:00 (+ pre-recorded intro by author Alexandra West); Sat 28 May 12:20<br>
+**Inside (À l’intérieur)**<br>
+Sat 14 May 20:50; Thu 26 May 18:20<br>
+**Them (Ils)**<br>
+Mon 16 May 20:50; Sun 29 May 18:20<br>
+**Irreversible** **(Irréversible)** (theatrical version)<br>
+Sat 21 May 17:45<br>
+**Martyrs**<br>
+Sat 28 May 20:50; Tue 31 May 20:40<br>
+**Horror à la Française**<br>
+Free to view on the BFI YouTube channel from  11-31 May<br>
+**BFI Courses: City Lit at the BFI:  New French Extremity**<br>
+Every Tue from 10-31 May 18:30-20:30<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTY2ODM1MDQ5XX0=
 -->
