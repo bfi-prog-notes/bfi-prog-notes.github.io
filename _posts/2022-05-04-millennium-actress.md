@@ -22,7 +22,7 @@ Kon: Chiyoko is an innocent girl whose first love is the most important thing to
 For example, Snow White had a coffin made of glass; Rapunzel was confined to a tower and rescued; Chiyoko is confined to a jail and then escapes.  
 This image is of death and rebirth. Chiyoko is held responsible for being a member of society after escaping from the jail. In terms of a fairy tale or old folk tale, I had an image of Kaguya Hime (Princess Moon), who travels far beyond the moon.
 
-_It seems that numerous images overlap. Describe how you used images to underscore the symbolic messages in_ Millennium Actress_._
+_It seems that numerous images overlap. Describe how you used images to underscore the symbolic messages in Millennium Actress._
 
 Kon: We consider rubble as very significant in terms of symbolic expression. The film studio turns into rubble, and this symbolises old Chiyoko. There are piles of rubble from the Great Tokyo Earthquake when Chiyoko was born.  
 The town is filled with rubble in the post-war, and then rubble from the studio appears again at the end of the film. Rubble is a symbol expressing death and rebirth or something like that. I didn’t clearly intend it from the beginning. I was not aware of seeking it. While I was drawing the storyboard to embody such images, I realised, ‘Oh, I just drew rubble again, I see that’s what it means.’
@@ -32,18 +32,14 @@ This way, I discovered the meaning of the symbols and developed the story while 
 _This is your first original film based on your original story. How challenging  
 was it?_
 
-Kon: I didn’t find the process of creating the story and drawings particularly difficult just because it was my original. But it seemed challenging to be accepted. Everyone in the industry responded very low-key without exception when they heard the story of Chiyoko. After its completion, I heard such comments as ‘it has the true essence of animation,’ and ‘its free-spirited ideas are pleasant.’ No one says it’s extravagant. Since everyone kept asking me, ‘why are you making a film which is not even close to animation?’ I had this perverse idea that I don’t like something if I feel it is like animation’. The response to this film is very encouraging. I feel somewhat like, ‘See, I did it!’
+Kon: I didn’t find the process of creating the story and drawings particularly difficult just because it was my original. But it seemed challenging to be accepted. Everyone in the industry responded very low-key without exception when they heard the story of Chiyoko. After its completion, I heard such comments as ‘it has the true essence of animation,’ and ‘its free-spirited ideas are pleasant.’ No one says it’s extravagant. Since everyone kept asking me, ‘why are you making a film which is not even close to animation?’ I had this perverse idea that I don’t like something if I feel it is like animation’. The response to this film is very encouraging. I feel somewhat like, ‘See, I did it!’  
+**Production notes**
+<br><br>
 
-Production notes
-
-<![endif]-->
-
-**MILLENNIUM ACTRESS (SENNEN JOYÛ)**
-
+**MILLENNIUM ACTRESS (SENNEN JOYÛ)**  
 _Director_: Satoshi Kon  
 ©_/Production Company_: Chiyoko Committee  
-_Production Companies_: WoWow,  
-Kadokawa Shoten, Bandai Visual, Genco  
+_Production Companies_: WoWow,  Kadokawa Shoten, Bandai Visual, Genco  
 _Production Company/Presented by_: Klockworx  
 _International Sales_: Bavaria Film International  
 _Executive Producer_: Taro Maki  
@@ -56,23 +52,19 @@ _Screenplay_: Sadayuki Murai, Satoshi Kon
 _Original story_: Satoshi Kon  
 _Director of Photography_: Hisao Shirai  
 _Camera_: Studio Cosmos, Anime Room  
-_Assistant Directors of Photography_:  
-Takafumi Hirata, Katsunori Maehara  
+_Assistant Directors of Photography_:  Takafumi Hirata, Katsunori Maehara  
 _Special Effects_: Kumiko Taniguchi, Sachiko Suzuki  
 _Character Designers_: Takeshi Honda, Satoshi Kon  
-_Animation Directors_: Takeshi Honda,  
-Toshiyuki Inoue, Kenichi Konishi, Hideki Hamasu, Shôgo Furuya  
+_Animation Directors_: Takeshi Honda,  Toshiyuki Inoue, Kenichi Konishi, Hideki Hamasu, Shôgo Furuya  
 _Animation Production_: Genco  
 _Animation Studio_: Mad House  
 _Colour Stylist_: Satoshi Hashimoto  
-_Key Animation_: Michiyo Suzuki, Yasunori Miyazawa, Tetsuya Nishio, Katsuichi Nakayama, Tetsuya Kumagai, Masahiro Kurio, Hiroyuki Horiuchi, Hiroshi Shimizu, Hitoshi Haga, Minoru Murao, Hirotaka Kinoshita, Masaharu Tada, Michio Mihara, Kohichi Arai, Shinji Otsuka, Masahiro Emoto, Mitsunori Murata, Masahiko Kubo, Jun Takagi, Kumiko Kawana, Yasuhiro Seo, Toshihiro Kikuchi, Yoshimitsu Ohashi, Tatsuhiro Itano,  
-Junko Abe  
+_Key Animation_: Michiyo Suzuki, Yasunori Miyazawa, Tetsuya Nishio, Katsuichi Nakayama, Tetsuya Kumagai, Masahiro Kurio, Hiroyuki Horiuchi, Hiroshi Shimizu, Hitoshi Haga, Minoru Murao, Hirotaka Kinoshita, Masaharu Tada, Michio Mihara, Kohichi Arai, Shinji Otsuka, Masahiro Emoto, Mitsunori Murata, Masahiko Kubo, Jun Takagi, Kumiko Kawana, Yasuhiro Seo, Toshihiro Kikuchi, Yoshimitsu Ohashi, Tatsuhiro Itano,  Junko Abe  
 _In-between Animation_: Mad House, DR Movie  
 _Co-in-between Animation_: Shaft  
 _Ink/Paint_: DR Movie, Kyung Kang Animation  
 _Animation Check_: Cheko Ichimanda  
-_Background_: Kaoru Inoda, Shigeyo Kiriyama,  
-Junko Ina, Masatoshi Kai, Yuko Sugiyama, Takashi Ichikura, Hisashi Ikeda, Masaki Yoshizaki, Kiyomi Ota, Shinichi Uehara, Masako Okada, Nao Karino  
+_Background_: Kaoru Inoda, Shigeyo Kiriyama,  Junko Ina, Masatoshi Kai, Yuko Sugiyama, Takashi Ichikura, Hisashi Ikeda, Masaki Yoshizaki, Kiyomi Ota, Shinichi Uehara, Masako Okada, Nao Karino  
 _Editor_: Satoshi Terauchi  
 _Art Director_: Nobutaka Ike  
 _Co-art Designer_: Yasumitsu Suetake  
@@ -89,8 +81,7 @@ _Recording/Sound Mixing_: Fujio Yamada
 _Sound Effects_: Shizuo Kurahashi  
 _Dolby Sound Consultants_: Tsutomu Kawahigashi, Mikio Mori, Noboru Nishio
 
-_Voice Cast:_
-
+**Voice Cast**  
 Miyoko Shoji, Mami Koyama, Fumiko Orikasa _(Chiyoko Fujiwara)_  
 Shôzô Îzuka _(Genya Tachibana)_  
 Syouko Tsuda _(Eiko Shimao)_  
@@ -101,14 +92,14 @@ Tomie Kataoka _(Mino)_
 Takkoh Ishimori _(head clerk)_  
 Masamichi Sato _(Genya)_  
 Masaya Onosaka _(Kyouji Ida)_  
-Mitsuru Ogata_,_ Kohji Yusa, Kohichi Sakaguchi, Akiko Kimura, Hirofumi Nojima, Hiroko Ohnaka, Tomohisa Asoh, Makoto Higo, Tomoyuki Shimura, Tomo Saeki, Ruri Asano, Yoshinori Sonobe,  
+Mitsuru Ogata, Kohji Yusa, Kohichi Sakaguchi, Akiko Kimura, Hirofumi Nojima, Hiroko Ohnaka, Tomohisa Asoh, Makoto Higo, Tomoyuki Shimura, Tomo Saeki, Ruri Asano, Yoshinori Sonobe,  
 Yumiko Daikoku _(additional voices)_  
 Kohichi Yamadera _(the man with the key)_  
 Masane Tsukayama _(the scar-faced man)_
 
-Japan 2001©
-
-88 mins
+Japan 2001©  
+88 mins<br>
+<
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM0MjAxMTNdfQ==
+eyJoaXN0b3J5IjpbMTUyNzQyNzc0MF19
 -->
