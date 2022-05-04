@@ -87,21 +87,19 @@ _Make-up_: Agnès Morlhigem
 _Additional Make-up_: Nelly Robin, Manuela Taco  
 _Titles/Opticals_: ACME Films  
 _Grading_: Patrick Delamotte  
-_Music/Music Conductor/Orchestration_:  
-Philippe Rombi  
+_Music/Music Conductor/Orchestration_:  Philippe Rombi  
 _Music Performed by_: Orchestre Bell’arte  
 _Music Consultant_: Christophe Flous  
 _Sound_: François Guillaume, Olivier Grandjean  
-_Recorders_: Salim Amrani, Gaël Nicolas,  
-Alexandre Weiser, Carl Goetgheluck  
+_Recorders_: Salim Amrani, Gaël Nicolas,  Alexandre Weiser, Carl Goetgheluck  
 _Sound Editor/Mixer_: Benoît Hillebrant  
 _Assistant Sound Editor_: Charles Autrand  
 _Sound Effects_: Christophe Bourreau  
 _Stunts_: Gil de Murger  
 _Camera Car_: Gilles Cappelletto  
-_Animal Trainer_: Frédérique Chauvineau  
-_Cast:_
-
+_Animal Trainer_: Frédérique Chauvineau
+  
+**Cast**  
 Natacha Régnier _(Alice)_  
 Jérémie Renier _(Luc)_  
 Miki Manojlović _(man in the woods)_  
@@ -113,9 +111,10 @@ Catherine Vierne _(jewellery shop saleswoman)_
 Marielle Coubaillon _(supermarket woman)_  
 Olivier Papot _(policeman)_  
 Gil de Murger _(GIGN man)_  
-France 1999©
 
-96 mins
+France 1999©  
+96 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTE1OTQ0NV19
+eyJoaXN0b3J5IjpbMTY2ODM1MDQ5XX0=
 -->
