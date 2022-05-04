@@ -24,7 +24,7 @@ _What were your sources of inspiration?_
 
 I was interested in accounts of many crimes in which the protagonists were adolescents. Recently, there have been a lot of similar cases in Europe and the US. For example, the story of this young, rich American girl who asked her middle-class boyfriend to kill a homeless man in Central Park. A completely gratuitous crime, just for the pleasure of killing or witnessing death ... And, of course, there’s also the cinema tradition, mostly American, of young criminals on the run – from _They Live by Night_ to _Bonnie and Clyde_, by way of  _The Honeymoon Killers_.
 
-_The character of Alice, although much younger, still evokes the Hollywood praying mantis type female character that seduces her lover to push him toward crime. Like Barbara Stanwyck in_ Double Indemnity _, Lana Turner in_ The Postman Always Rings Twice _...
+_The character of Alice, although much younger, still evokes the Hollywood praying mantis type female character that seduces her lover to push him toward crime. Like Barbara Stanwyck in_ Double Indemnity _, Lana Turner in_ The Postman Always Rings Twice _ ...
 
 I’ve always been fascinated by what are referred to as screen ‘bitches’. I enjoy giving to female characters that same cruelty normally seen in men. Feminine manipulation is always much stronger, much more exciting. There is a particular sensuality in a woman’s cruelty. Already, in my short, _See the Sea_, I showed outright the truly evil nature of the character played by Marina de Van without any psychological explication for the cruelty of her acts.
 
