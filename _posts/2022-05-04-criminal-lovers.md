@@ -14,7 +14,7 @@ _What were your sources of inspiration?_
 
 I was interested in accounts of many crimes in which the protagonists were adolescents. Recently, there have been a lot of similar cases in Europe and the US. For example, the story of this young, rich American girl who asked her middle-class boyfriend to kill a homeless man in Central Park. A completely gratuitous crime, just for the pleasure of killing or witnessing death ... And, of course, there’s also the cinema tradition, mostly American, of young criminals on the run – from _They Live by Night_ to _Bonnie and Clyde_, by way of  _The Honeymoon Killers_.
 
-_The character of Alice, although much younger, still evokes the Hollywood praying mantis type female character that seduces her lover to push him toward crime. Like Barbara Stanwyck in_ Double Indemnity _, Lana Turner in  _The Postman Always Rings Twice_..._
+_The character of Alice, although much younger, still evokes the Hollywood praying mantis type female character that seduces her lover to push him toward crime. Like Barbara Stanwyck in_ Double Indemnity _, Lana Turner in  _ The Postman Always Rings Twice _...
 
 I’ve always been fascinated by what are referred to as screen ‘bitches’. I enjoy giving to female characters that same cruelty normally seen in men. Feminine manipulation is always much stronger, much more exciting. There is a particular sensuality in a woman’s cruelty. Already, in my short, _See the Sea_, I showed outright the truly evil nature of the character played by Marina de Van without any psychological explication for the cruelty of her acts.
 
@@ -34,17 +34,13 @@ The film was edited on this idea.
 
 _The film begins fast-paced, tight and alert like Alice’s nervous rhythm..._
 
-At the beginning, she runs the show. I wanted to avoid making her touching. Alice and Luc are heartless and mechanical, like robots who commit a murder. At first, everything goes fine, it clicks together. Then the manipulation and their plan begin to crack. These two robots become human beings confronted with the real and unexpected consequences of their act. They have to drive a car, get rid of the body, buy a shovel. They have no money. They’re hungry... During their improvised escape, their actions prove to be childish and immature. The rhythm of the film then adopts their own rhythms. The framing becomes more open, wider. The characters lose themselves in the frame as in their plan. After the murder, it was difficult for me to film them in close-up. I felt they didn’t deserve it.
+At the beginning, she runs the show. I wanted to avoid making her touching. Alice and Luc are heartless and mechanical, like robots who commit a murder. At first, everything goes fine, it clicks together. Then the manipulation and their plan begin to crack. These two robots become human beings confronted with the real and unexpected consequences of their act. They have to drive a car, get rid of the body, buy a shovel. They have no money. They’re hungry... During their improvised escape, their actions prove to be childish and immature. The rhythm of the film then adopts their own rhythms. The framing becomes more open, wider. The characters lose themselves in the frame as in their plan. After the murder, it was difficult for me to film them in close-up. I felt they didn’t deserve it.  
+**Production notes**
+<br><br>
 
-Production notes
-
-<![endif]-->
-
-**CRIMINAL LOVERS (LES AMANTS CRIMINELS)**
-
+**CRIMINAL LOVERS (LES AMANTS CRIMINELS)**  
 _Director_: François Ozon  
-©/_Production Companies_: Fidélité Productions,  
-Le Studio Canal+, La Sept Cinéma, Euro Space  
+©/_Production Companies_: Fidélité Productions,  Le Studio Canal+, La Sept Cinéma, Euro Space  
 _Production Company_: Arte France Cinéma  
 _With the participation of_: Canal+, Studio Images 5, CNC - Centre national de la cinématographie  
 _Producers_: Olivier Delbosc, Marc Missonnier  
@@ -61,11 +57,9 @@ _2nd Assistant Director_: Cyril Duval
 _Script Supervisor_: Anne Wermelinger  
 _Casting_: Stéphane Foenkinos  
 _Scenario/Dialogue_: François Ozon  
-_Scenario Interventions_: Marcia Romano,  
-Annabelle Perrichon  
+_Scenario Interventions_: Marcia Romano,  Annabelle Perrichon  
 _Director of Photography_: Pierre Stoeber  
-_Steadicam Operators_: Eric Le Roux,  
-Jacques Monge  
+_Steadicam Operators_: Eric Le Roux,  Jacques Monge  
 _1st Assistant Operator_: Benoît Rizzotti  
 _2nd Assistant Operator_: Caroline Swarowsky  
 _Gaffer_: Jacques Bulot  
@@ -75,8 +69,7 @@ _Key Grip_: Hervé Rousset
 _Grip_: Julien Monneret  
 _Additional Grip_: Carlos Ribeiro  
 _Stills Photography_: Jean-Claude Moireau  
-_Special Effects_: Philippe Alleton,  
-Philippe van Herwijnen, Pierre Olivier Persin  
+_Special Effects_: Philippe Alleton,  Philippe van Herwijnen, Pierre Olivier Persin  
 _Assistant Special Effects_: Pierre Turmeau  
 _Editors_: Dominique Pétrot, Claudine Bouché  
 _Assistant Editor_: Frédéric Krettly  
@@ -124,5 +117,5 @@ France 1999©
 
 96 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzEyMTE2OTldfQ==
+eyJoaXN0b3J5IjpbLTMzOTE1OTQ0NV19
 -->
