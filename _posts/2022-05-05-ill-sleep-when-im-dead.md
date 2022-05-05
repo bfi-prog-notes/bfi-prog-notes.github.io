@@ -52,26 +52,20 @@ _In Get Carter Margaret tells Carter, ‘We are what we are, like it or not.’ 
 
 We do tend to remain the same. Even religious conversions simply take the same characteristics, the same anger, and transform them into... well, in the case of fundamentalism, something lethal. The process of maturing is the only thing that’s fun about existing, and the accumulation of knowledge is the most wonderful thing about that process. That changes you, but the core self is still there.
 
-_One of the things that lets down the Stallone version of_ Get Carter _is the moment of epiphany where he suddenly develops a sensitive side._
+_One of the things that lets down the Stallone version of Get Carter is the moment of epiphany where he suddenly develops a sensitive side._
 
-Carter, like most criminals, is sentimental. He may loathe his family, but family is it. There’s a coldness at the heart of many middle-class families, which is why we often want to escape them, but with working-class people the idea of family is inculcated. Will is sentimental about his brother Davey, yet he fucked off earlier without telling him. Intuiting something has happened, he comes back and is again moved by his love for Davey.  
-But he’s too late.
+Carter, like most criminals, is sentimental. He may loathe his family, but family is it. There’s a coldness at the heart of many middle-class families, which is why we often want to escape them, but with working-class people the idea of family is inculcated. Will is sentimental about his brother Davey, yet he fucked off earlier without telling him. Intuiting something has happened, he comes back and is again moved by his love for Davey.  But he’s too late.
 
-Interview by Stephen Chibnall, _Sight & Sound_, September 2003
+**Interview by Stephen Chibnall, _Sight & Sound_, September 2003**
+<br><br>
 
-<![endif]-->
-
-**I’LL SLEEP WHEN I’M DEAD**
-
+**I’LL SLEEP WHEN I’M DEAD**  
 _Director_: Mike Hodges  
 ©: Will & Co Productions Ltd  
-_Presented by_: Revere Pictures,  
-Seven Arts Pictures  
+_Presented by_: Revere Pictures,  Seven Arts Pictures  
 _Executive Producer_: Roger Marino  
-_Co-executive Producers_:  
-Robert O. Kaplan, Richard E. Johnson, Trisha Van Klaveren  
-_Produced by_: Mike Kaplan,  
-Michael Corrente  
+_Co-executive Producers_:  Robert O. Kaplan, Richard E. Johnson, Trisha Van Klaveren  
+_Produced by_: Mike Kaplan,  Michael Corrente  
 _Co-producer_: Marisa Polvino  
 _Line Producer_: Eliza Mellor  
 _Unit Manager_: Louise Rowe  
@@ -80,14 +74,12 @@ _Production Co-ordinator_: Monique Mussell
 _Finance Director_: Jeffrey Gage  
 _Production Accountant_: Wendy Ellerker  
 _Location Manager_: Pat Karam  
-_Post-production Co-ordinator_:  
-Helen Walker  
+_Post-production Co-ordinator_:  Helen Walker  
 _1st Assistant Director_: Richard Whelan  
 _2nd Assistant Director_: Tamana Bleasdale  
 _3rd Assistant Director_: William Dodds  
 _Director’s Assistant_: Merry Irwin  
-_Script Supervisors_: Amanda Lean,  
-Beverley Winston  
+_Script Supervisors_: Amanda Lean,  Beverley Winston  
 _Casting Director_: Leo Davis  
 _Casting Assistant_: Melissa Holm  
 _Voice Casting_: Brendan Donnison, Vanessa Baker  
@@ -99,8 +91,7 @@ _Focus Puller_: Rawdon Hayne
 _Clapper Loader_: Shaun Cobley  
 _Gaffer_: Ray Potter  
 _Rigging Gaffer_: Reg Boddy  
-_Electricians_: Brian Miller,  
-Avelino Fernandez, Mark Packman, Terence Potter  
+_Electricians_: Brian Miller,  Avelino Fernandez, Mark Packman, Terence Potter  
 _Electrician/Best Boy (Wales)_: Martin Smith  
 _Grip_: Bill Geddes  
 _Stills Photography_: Keith Hamshere  
@@ -117,18 +108,13 @@ _Make-up Artist_: Isabelle Webley
 _Titles Design_: Steve Masters  
 _Digital Artist (Studio 51)_: Michael Lenny  
 _Music Composed by_: Simon Fisher Turner  
-_Musicians_: Gilad Atzman, Alex Balzama,  
-Andrew Blick, Frank Harrison, Asaf Sirkis,  
-Reba Rochester, Yaron Stavi,  
-Simon Fisher Turner  
+_Musicians_: Gilad Atzman, Alex Balzama,  Andrew Blick, Frank Harrison, Asaf Sirkis,  Reba Rochester, Yaron Stavi,  Simon Fisher Turner  
 _Sound Designer_: Max Bygrave  
 _Sound Recordist_: George Richards  
-_Sound Maintenance Engineer_:  
-Chinna Boapeah  
+_Sound Maintenance Engineer_:  Chinna Boapeah  
 _Dubbing Mixer_: Paul Carr  
 _Dialogue Editor_: Tim Owens  
-_Foley Artists_: Jenny Lee-Wright,  
-Pauline Griffiths  
+_Foley Artists_: Jenny Lee-Wright,  Pauline Griffiths  
 _Foley Editor_: James Mather  
 _Stunt Co-ordinator_: Jim Dowdall  
 _Stunt Performers_: Derek Lea, Paul Herbert  
@@ -137,8 +123,7 @@ _Voice Coach_: Jill McCullough
 _Animals_: Ann Head  
 _Publicity_: Denise Breton
 
-_Cast:_
-
+**Cast**  
 Clive Owen _(Will Graham)_  
 Charlotte Rampling _(Helen)_  
 Jonathan Rhys Meyers _(Davey Graham)_  
@@ -147,42 +132,36 @@ Ken Stott _(Turner)_
 Sylvia Syms _(Mrs Bartz)_  
 Malcolm McDowell _(Boad)_
 
-_the counsellors_
-
+_the counsellors_  
 Alexander Morton _(Victor)_  
 John Surman _(pathologist)_  
 Paul Mohan _(coroner)_
 
-_party people_
-
+_party people_  
 Damian Dibben _(David Myers)_  
 Amber Batty _(Sheridan)_  
 Daisy Beaumont _(Stella, drugs seeker)_  
 Lidija Zovkic _(Philippa, model)_
 
-_Will’s crew_
-
+_Will’s crew_  
 Geoff Bell _(Arnie Ryan)_  
 Desmond Baylis _(Jez, cannibal)_  
 Kirris Riviere _(Big John)_
 
-_Turner’s gang_
-
+_Turner’s gang_  
 Brian Croucher _(Al Shaw)_  
 Ross Boatman _(Malone, chauffeur)_  
 Marc O’Shea _(Paulin, hired gun)_  
 Dave Alexander _(Little Billy Swan)_  
 Lesley Clare O’Neill _(Mrs Turner)_
 
-_in the forest_
-
+_in the forest_  
 Emma Dewhurst _(Mrs Calgani)_  
 Francis Magee _(Algar, foreman)_  
 Mark Hardy _(Calgani)_  
 Bruce Byron _(Eddy)_
 
-_in the city_
-
+_in the city_  
 Jacqueline Defferary _(Annie, waitress)_  
 Tim Plester _(Hair, taxi driver)_  
 Noel Clarke _(Cyril)_  
@@ -191,14 +170,9 @@ Peter Sproule _(cyclist)_
 Eric Scruby _(barber)_  
 Sophie Jones-Cooper _(hotel maid)_
 
-UK-USA 2003©
-
+UK-USA 2003©  
 103 mins
-
-Mike Hodges interviewed by  
-The British Entertainment History Project:
-
-**https://historyproject.org.uk/interview/mike-hodges**
+<b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0NTU1ODEyXX0=
+eyJoaXN0b3J5IjpbLTE2MTY0NTQyMzddfQ==
 -->
