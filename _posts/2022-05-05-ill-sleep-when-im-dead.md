@@ -8,8 +8,7 @@ _The press notes describe I’ll Sleep When I’m Dead as ‘An exploration of f
 
 True, but _I’ll Sleep..._ has a completely different feel to any other of my films. It’s shot differently. It’s paced differently. It sounds different. They do all have one thing in common, though: I’m very big on atmosphere, on allowing the territory in which the film takes place to percolate the audience’s psyche. When Trevor [Preston] was writing he wasn’t thinking of _Get Carter_. His manor is South London, not Newcastle.
 
-_Carter relishes revenge whereas Will in I’ll Sleep... enters into revenge much  
-more reluctantly._
+_Carter relishes revenge whereas Will in I’ll Sleep... enters into revenge much more reluctantly._
 
 Although Will is drawn back to the city by his brother Davey’s suicide, that’s where the comparison ends. The elements of Jacobean tragedy you highlighted in your book on _Get Carter_ are absent from this film. At a deeper level, it’s more about the changing role of the male. I find the way we react to the idea of a man being raped very interesting. Men are still regarded as gods and for many this is a no-go area. Trevor deliberately set the story in the braggadocios’ world of criminals to illustrate how fragile this macho shell is. None of the men can grapple with the fact that Davey ejaculated during the rape. Did he enjoy being buggered? Homoeroticism in male relationships, as witnessed in buddy films, male contact sports, American football in particular, is a tough one for men to comprehend.
 
@@ -25,17 +24,15 @@ _It’s an expression of power._
 
 The motivation for the rape would never have surfaced if Davey hadn’t committed suicide. And that motivation is as old as Greek tragedy: sexual jealousy, the hatred of an older man for a younger man. Maybe that accounts for my instinctual need to cast Will’s former lover Helen and the rapist Boad as older than written. Again, it goes back to aggressive masculinity; a disastrous urge, a curse. And that, in turn, leads to Will’s final, disastrous and sudden surge of anger, a revenge I deny the audience a view of. Instead I offer an ending that suggests that revenge eternally replays revenge. I recognise the film’s resolution may not satisfy some people.
 
-_The audience might be looking for a conspiracy and could feel let down if they don’t  
-find one._
+_The audience might be looking for a conspiracy and could feel let down if they don’t  find one._
 
 Why should people go expecting another _Get Carter_? I know, simply as a punter, that there are audiences who go to the cinema just to let the film reveal itself. Surely _Croupier_ proved that? As for expecting a more complex plot, I’d suggest _I’ll Sleep..._ is actually the more complex film. It’s just that the undercurrents are more hidden. I was 32 then; now I’m 70. Why make conventional films? What a fucking boring way to spend a privileged life. But then a lot of young people probably find my films fucking boring and conventional.
 
 _You break those conventions with the ending here._
 
-I trust the audience. They know the end is the beginning and the beginning is already the end. Futility faces us all every single day – that’s the grandeur of existence. As Will says, when the film starts and ends: ‘The dead are dead. He’s gone. What’s left to say he  
-was here at all?’
+I trust the audience. They know the end is the beginning and the beginning is already the end. Futility faces us all every single day – that’s the grandeur of existence. As Will says, when the film starts and ends: ‘The dead are dead. He’s gone. What’s left to say he  was here at all?’
 
-_What does_ I’ll Sleep... _tell us about the state of the body politic?_
+_What does I’ll Sleep... tell us about the state of the body politic?_
 
 The approach to poverty, both material and spiritual, is more subtle here than in _Get Carter_. And two changes in society are particularly evident. First, we use the car as a bubble to cocoon us from the community. The characters are constantly on the move in cars and the world beyond them has the reality of a theme park. The second is the near impossibility of escaping from the state. When Will is fired by the logging company, the manager says, ‘You’ve got no cards. No numbers. It’s all numbers nowadays. Fucking computers.’ Will is living like an animal on the outer edges of our islands. He’s living like an animal because he’s trying not to act like one. But when he returns to London he stops living like an animal so he can act like one. As he passes through the hellish Blackwall Tunnel, he throws up. It emphasises the fear and loathing attached to his old life. Towards the end we witness a metamorphosis when he sheds the rough apparel of a bum for the smooth clothes of a gangster, a businessman. Business: that’s the jungle now.
 
@@ -51,8 +48,7 @@ _The most distinctive element of your films is the intensity reached through att
 
 I do like the simplicity you get shooting in areas where the lighting can be controlled. Then you can concentrate on the actors, which is what it’s all about. In _Croupier_ you don’t see any sky at all. And in _I’ll Sleep..._ Will never leaves his Transit until it’s dark, as if he were a nocturnal animal.
 
-_In_ Get Carter _Margaret tells Carter, ‘We are what we are, like it or not.’ This idea of the fixity of identity is taken up again in_ I’ll Sleep... _when one of the London hoods tells Will, ‘You think you’ve changed. You haven’t changed. People like us don’t change. Not  
-deep down.’_
+_In Get Carter Margaret tells Carter, ‘We are what we are, like it or not.’ This idea of the fixity of identity is taken up again in I’ll Sleep... when one of the London hoods tells Will, ‘You think you’ve changed. You haven’t changed. People like us don’t change. Not  deep down.’_
 
 We do tend to remain the same. Even religious conversions simply take the same characteristics, the same anger, and transform them into... well, in the case of fundamentalism, something lethal. The process of maturing is the only thing that’s fun about existing, and the accumulation of knowledge is the most wonderful thing about that process. That changes you, but the core self is still there.
 
@@ -204,5 +200,5 @@ The British Entertainment History Project:
 
 **https://historyproject.org.uk/interview/mike-hodges**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4MTQ4ODk4XX0=
+eyJoaXN0b3J5IjpbNzQ0NTU1ODEyXX0=
 -->
