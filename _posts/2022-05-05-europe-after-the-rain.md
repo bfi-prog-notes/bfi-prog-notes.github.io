@@ -46,44 +46,28 @@ Kurt Schwitters _(Voice: poetry reader)_<br>
 UK 1978<br>
 87 mins<br>
 
-<![endif]-->
 
-**REGULAR PROGRAMME**
-
-**Art in the Making: Europe after the Rain: Dada and Surrealism + intro by BFI Curator Steven Foxon**
-
-Thu 5 May 18:10
-
-**African Odysseys: Raça + Q&A co-hosted by Victor Fraga, DMovies**
-
-Sat 7 May 14:00
-
-**Woman with a Movie Camera: To Die For + intro by Hannah Strong**
-
-Sat 14 May 14:50
-
-**Woman with a Movie Camera: The Bling Ring + intro by Hannah Strong**
-
-Sat 14 May 18:00
-
-**Silent Cinema: Modern Times + intro**
-
-Sun 15 May 15:30
-
-**Seniors’ Free Matinee: Gregory’s Girl + discussion**
-
-Mon 16 May 14:00
-
-**Experimenta: Lensing the Landscape: River Yar + discussion with artists William Raban and Chris Welsby**
-
-Wed 18 May 18:15
-
-**Terror Vision: Ms .45 (AKA Angel of Vengeance)**
-Fri 27 May 18:30
-**Relaxed Screening: Frequencies (AKA OXV: The Manual) + intro and discussion**
-Mon 30 May 18:10
-**Projecting the Archive: Idol of Paris + intro by Josephine Botting, BFI Curator**
-Tue 31 May 18:15
+**REGULAR PROGRAMME**<br>
+**Art in the Making: Europe after the Rain: Dada and Surrealism + intro by BFI Curator Steven Foxon**<br>
+Thu 5 May 18:10<br>
+**African Odysseys: Raça + Q&A co-hosted by Victor Fraga, DMovies**<br>
+Sat 7 May 14:00<br>
+**Woman with a Movie Camera: To Die For + intro by Hannah Strong**<br>
+Sat 14 May 14:50<br>
+**Woman with a Movie Camera: The Bling Ring + intro by Hannah Strong**<br>
+Sat 14 May 18:00<br>
+**Silent Cinema: Modern Times + intro**<br>
+Sun 15 May 15:30<br>
+**Seniors’ Free Matinee: Gregory’s Girl + discussion**<br>
+Mon 16 May 14:00<br>
+**Experimenta: Lensing the Landscape: River Yar + discussion with artists William Raban and Chris Welsby**<br>
+Wed 18 May 18:15<br>
+**Terror Vision: Ms .45 (AKA Angel of Vengeance)**<br>
+Fri 27 May 18:30<br>
+**Relaxed Screening: Frequencies (AKA OXV: The Manual) + intro and discussion**<br>
+Mon 30 May 18:10<br>
+**Projecting the Archive: Idol of Paris + intro by Josephine Botting, BFI Curator**<br>
+Tue 31 May 18:15<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4MjA4NTQwXX0=
+eyJoaXN0b3J5IjpbNzEyMzU0MzgxXX0=
 -->
