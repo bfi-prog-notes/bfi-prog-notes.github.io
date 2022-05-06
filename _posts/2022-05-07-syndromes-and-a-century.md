@@ -52,12 +52,8 @@ _Prop Master:_ Nitipong Thinthupthai
 _Costume Designers:_ Virasinee Tipkomol, Askorn Sirikul  
 _Processing/Prints:_ Kantana Animation Co., Ltd.  
 _Colour Timing/Grading:_ Passakorn Yaisiri, Thaveep Jeenjitkaew, Supamol Pleumchusak  
-_Negative Cutters:_ Manop Petchyu, Uthit Netwong,
-
-Sakchai Nuengsawas, Rattanawan Chantavart  
-_Optical Effects:_ Sannucha Dhisayabutr, Pravit Jaivijit,
-
-Suchart Hongsmut, Kampol Thammayot, Sompop Baibaenae  
+_Negative Cutters:_ Manop Petchyu, Uthit Netwong, Sakchai Nuengsawas, Rattanawan Chantavart  
+_Optical Effects:_ Sannucha Dhisayabutr, Pravit Jaivijit, Suchart Hongsmut, Kampol Thammayot, Sompop Baibaenae  
 _Film Stock:_ Kodak Motion Picture Film  
 _Music:_ Kantee Anantagant  
 _Sound Design:_ Koichi Shimizu, Akritchalerm Kalayanamitr, Aka Rit  
@@ -95,5 +91,5 @@ Jarunee Saengtupthim _(Joy)_<br>
 Thailand/France/Austria/Netherlands 2006©<br>
 106 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1ODQ2NDY1XX0=
+eyJoaXN0b3J5IjpbLTM4NzQ4Mzc2M119
 -->
