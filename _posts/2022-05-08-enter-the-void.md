@@ -20,8 +20,7 @@ The first version of the script took place in the Andes, the second in France an
 
 _The film uses very complex camera movements..._
 
-My biggest obsession when I started preparing the film wasn’t knowing who was going to act in it, but who my key grip was going to be. The most complicated part was getting someone who would be talented enough to figure out various ways of attaching the camera to the crane so that it could continually fly through the walls. It seemed like an impossible technical feat, we tried to make prototypes. Finally, we thought of filming in real locations, but we had to reconstruct a lot in the studio because otherwise it was impossible.  
-As a result we had these enormous cranes in the studio and sometimes their movement was limited. I had nightmares where the crane got stuck, every night I dreamt of camera positioning and shot order... Thankfully, we hired a great Japanese key grip who was also very cool, it’s really a miracle that the film is such a technical success because every sequence raised a new problem.
+My biggest obsession when I started preparing the film wasn’t knowing who was going to act in it, but who my key grip was going to be. The most complicated part was getting someone who would be talented enough to figure out various ways of attaching the camera to the crane so that it could continually fly through the walls. It seemed like an impossible technical feat, we tried to make prototypes. Finally, we thought of filming in real locations, but we had to reconstruct a lot in the studio because otherwise it was impossible.  As a result we had these enormous cranes in the studio and sometimes their movement was limited. I had nightmares where the crane got stuck, every night I dreamt of camera positioning and shot order... Thankfully, we hired a great Japanese key grip who was also very cool, it’s really a miracle that the film is such a technical success because every sequence raised a new problem.
 
 _How would you define the film’s genre?_
 
@@ -31,54 +30,41 @@ _Did you always have this psychedelic idea in mind?_
 
 Even if I really like Alan Clarke, Peckinpah, Fassbinder or certain directors that represent existence with a certain amount of cruelty, this time I wanted to make a hallucinatory film with colours and images, something hypnotic and dreamlike where the visual beauty and the sensorial overpower the factual. Without wanting to compare myself to these geniuses, this time I thought more of certain sequences in Kubrick’s _2001_ or of Kenneth Anger’s work. Even if it’s often a question of getting high, it’s not a film about getting high, but about the idea of existence as a drifting boat with no port of arrival. The main subject of the film is rather the sentimentality of mammals and the shimmering vacuity of the human experience.
 
-Production notes
+**Production notes**
+<br><br>
 
-<![endif]-->
-
-**ENTER THE VOID**
-
+**ENTER THE VOID**  
 _Directed by_: Gaspar Noé  
 _Production Companies_: Wild Bunch, Fidélité, BUF  
 _In co-production with_: Essential Filmproduktion, BIM Distribuzione  
 _In association with_: Les Cinémas de la Zone, Paranoid Films  
 _With the support of_: Eurimages  
-_With the participation of_:  
-Ministère de la Culture et de la Communication, Centre national de la cinématographie, FFA – Filmförderungsanstalt, Canal+,  
+_With the participation of_:  Ministère de la Culture et de la Communication, Centre national de la cinématographie, FFA – Filmförderungsanstalt, Canal+,  
 Orange Cinema Series  
-_With the support of_:  
-MEDIA Programme of the European Union  
+_With the support of_:  MEDIA Programme of the European Union  
 _Production Services_: Twenty First City, Filmarto  
 _International Sales_: Wild Bunch  
 _Produced by_: Brahim Chioua, Vincent Maraval, Olivier Delbosc, Marc Missonnier, Pierre Buffin  
 _Co-produced by_: Philippe Bober, Valerio De Paolis  
-_Line Producers_: Olivier Thery-Lapiney,  
-Georgina Pope, Suzanne Girard, Isabell Wiegand, Susanne Marian, Peter Hermann  
+_Line Producers_: Olivier Thery-Lapiney,  Georgina Pope, Suzanne Girard, Isabell Wiegand, Susanne Marian, Peter Hermann  
 _Associate Producers_: Gaspar Noé, Nicolas Leclercq  
 _Chief Executive Officer_: Laurence Clerc  
-_Production Managers_: Shin Yamaguchi,  
-Josee Lacelle, Sarah Nagel  
-_Production Co-ordinators_: Karine D’hont,  
-Masa Kokubo, Nathalie Cecyre  
+_Production Managers_: Shin Yamaguchi,  Josee Lacelle, Sarah Nagel  
+_Production Co-ordinators_: Karine D’hont,  Masa Kokubo, Nathalie Cecyre  
 _Production Accountant_: Nadjib Otmani  
 _Unit Manager (Canadian Unit)_: Maurine Boutin  
-_Unit Co-ordinators (Japanese Unit)_:  
-Shuzo Miyori, Sho Takeda  
-_Location Managers_: Masahiro Hondo,  
-Lucio Tomaro, Claude-Andrée du Mesnil  
-_Post-production Supervisors_:  
-Olivier Thery-Lapiney, Susana Antunes  
-_Assistant Directors_: Jimbo Hideaki,  
-Toshio Hanaoka, Michael Williams  
+_Unit Co-ordinators (Japanese Unit)_:  Shuzo Miyori, Sho Takeda  
+_Location Managers_: Masahiro Hondo,  Lucio Tomaro, Claude-Andrée du Mesnil  
+_Post-production Supervisors_:  Olivier Thery-Lapiney, Susana Antunes  
+_Assistant Directors_: Jimbo Hideaki,  Toshio Hanaoka, Michael Williams  
 _Casting Director (Japanese Unit)_: Yoichiro Hase  
-_Casting (Canadian Unit)_: Hélène Rousse,  
-Total Casting  
+_Casting (Canadian Unit)_: Hélène Rousse,  Total Casting  
 _Written by_: Gaspar Noé  
 _Written with the assistance of_: Lucile Hadzihalilovic  
 _Director of Photography_: Benoît Debie  
 _Camera Operator_: Gaspar Noé  
 _B Camera Operator_: Jitsu Toyoda  
-_Gaffers_: Charles Beetz, Yuji Wada,  
-Takayuki Kawabe  
+_Gaffers_: Charles Beetz, Yuji Wada,  Takayuki Kawabe  
 _Head Grip_: Akira Kanno  
 _Key Grip (Canadian Unit)_: Jeff Nichol  
 _Still Photographer_: Bruce Yamakawa  
@@ -88,8 +74,7 @@ _BUF VFX Supervisor_: Geoffrey Niquet
 _BUF VFX Producer_: Nicolas Delval  
 _BUF VFX Editor_: Isabelle Capgras  
 _Psychedelic Images on TV_: Glennwiz  
-_Kirlian Effects Research_: Thorsten Fleisch,  
-Alex Paintings, Luis-Felipe Noé  
+_Kirlian Effects Research_: Thorsten Fleisch,  Alex Paintings, Luis-Felipe Noé  
 _Special Effects_: Les Versaillais  
 _Editors_: Gaspar Noé, Marc Boucrot, Jerome Pesnel  
 _Art Supervisor_: Marc Caro  
@@ -97,8 +82,7 @@ _Production Designers_: Kikuo Ohta, Jean Carrière
 _Art Department Co-ordinator_: Asuka Sugiyama  
 _Set Decorator_: Susan MacQuarrie  
 _Prop Master_: Ayako Imoto  
-_Costume Designers_: Tony Crosbie,  
-Nicoletta Massone  
+_Costume Designers_: Tony Crosbie,  Nicoletta Massone  
 _Make-up Artists_: Linda Gordon, Félix Larivière, Tomomi Higuchi  
 _Typography Designer_: Tom Kan  
 _Laboratory_: B-Mac, Imagica Corp  
@@ -113,8 +97,7 @@ _Foley Artist_: Nicolas Becker
 _Dolby Consultant_: Dominique Schmit  
 _Studios_: Toho Studios
 
-_Cast:_
-
+**Cast**
 Paz de la Huerta _(Linda)_  
 Nathaniel Brown _(Oscar)_  
 Cyril Roy _(Alex)_  
@@ -150,5 +133,5 @@ France-USA-Germany-Italy-Japan-Canada 2010
 
 161 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODM0NTU0NjRdfQ==
+eyJoaXN0b3J5IjpbLTg2NzY4MTEzNV19
 -->
