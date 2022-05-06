@@ -122,16 +122,15 @@ Mackenzie Falconbridge _(Linda baby)_
 Rumiko Kimishima _(Rumi)_  
 Akira Kuzuki, Sayuki Nakamura, Naori Nakamura, Naoko Hirosawa _(techno club girls)_  
 Kenji Isomura _(strip club manager)_  
-Akira, Anna, Marie, Rico, Risa, Ryô_,_ Yuri, Sandra _(strippers)_  
+Akira, Anna, Marie, Rico, Risa, Ryô, Yuri, Sandra _(strippers)_  
 Milton James _(strip club bouncer)_  
 Hideomi Nagahama, Takaharu Hachiya,  
-Toshio Hanaoka, Kazuhiro Nakanishi_  
-(bilingual officers)_  
+Toshio Hanaoka, Kazuhiro Nakanishi _(bilingual officers)_  
 Adrien Ledanois, Keiji Suzuki _(Bruno’s friends)_
 
-France-USA-Germany-Italy-Japan-Canada 2010
-
-161 mins
+France-USA-Germany-Italy-Japan-Canada 2010  
+161 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzY4MTEzNV19
+eyJoaXN0b3J5IjpbLTc4NDEyMTA3MV19
 -->
