@@ -1,5 +1,4 @@
 
-<![endif]-->
 
 Considering the challenges it poses, _Syndromes and a Century_ is an exceptionally easy and pleasurable watch. Apichatpong Weerasethakul’s earlier features _Blissfully Yours_ (2002) and _Tropical Malady_ (2004) weren’t exactly hard slogs either, but they both had more or less linear narratives. Although it’s scripted and acted, _Syndromes_ has no narrative as such: it offers a series of vignettes, some of them seen twice in substantially different versions, with no obvious causal logic or storytelling flow. It’s not even a Borges-like ‘Garden of Forking Paths’, since the repetitions and variations don’t affect lives or outcomes. At first sight, the assemblage of episodes and incidents seems random, although the tone darkens decisively in the closing stages. The cumulative effect, though, is liberating, and not just because so many of the images and actors are so beautiful.
 
@@ -15,9 +14,86 @@ This is one of several unpredictable echoes that resonate between one half of th
 
 Actually, Apichatpong provides a key to some of the film’s mysteries in his recent interviews and statements. Toey and Nohng are based on his mother and father, both of whom were doctors, and the film’s episodes are drawn in part from what they told him about their lives and experiences before they met and married. Apichatpong has conflated these ‘inherited’ memories with his own memories of growing up in the country hospital where his parents worked, plus other ideas and stories – such as the singing dentist – encountered during production. Knowing this, however, explains nothing of significance and does nothing to defuse the film’s oneiric power.
 
-The second half climaxes with a vision of hell. Like a parody of the ending of Antonioni’s _L’eclisse_, the camera prowls through the empty basement of the hospital: stark lighting, sinister fumes, a glimpse of unexplained welding, threatening noises off – all manifestly a lot worse than whatever awaits Sakda and Ple at the end of the first half. But just as all hope of human happiness and emotional/ecological fulfilment seems to be snuffed out, Apichatpong goes into an upbeat coda. The anonymous joggers in tracksuits who pop up now and again in the second half convene in the hospital grounds and launch into a mass callisthenics work-out, accompanied by an irresistibly bouncy pop song. Things may look grim, Apichatpong suggests, especially in our big cities, but we adapt and survive. No moralising, no point-scoring, no clear-cut meanings. Just an exuberant display of energy – and a reminder that the director of _Blissfully Yours_ and _Tropical Malady_ is a sucker for sappy Thai pop hits.
+The second half climaxes with a vision of hell. Like a parody of the ending of Antonioni’s _L’eclisse_, the camera prowls through the empty basement of the hospital: stark lighting, sinister fumes, a glimpse of unexplained welding, threatening noises off – all manifestly a lot worse than whatever awaits Sakda and Ple at the end of the first half. But just as all hope of human happiness and emotional/ecological fulfilment seems to be snuffed out, Apichatpong goes into an upbeat coda. The anonymous joggers in tracksuits who pop up now and again in the second half convene in the hospital grounds and launch into a mass callisthenics work-out, accompanied by an irresistibly bouncy pop song. Things may look grim, Apichatpong suggests, especially in our big cities, but we adapt and survive. No moralising, no point-scoring, no clear-cut meanings. Just an exuberant display of energy – and a reminder that the director of _Blissfully Yours_ and _Tropical Malady_ is a sucker for sappy Thai pop hits.<br>
+**Tony Rayns, _Sight & Sound_, October 2007**<br>
 
-**Tony Rayns, _Sight & Sound_, October 2007**
+**SYNDROMES AND A CENTURY (SANG SATTAWAT)**<br>
+_Directed by:_ Apichatpong Weerasethakul  
+©_/Production Company:_ Kick the Machine  
+_Presented by:_ New Crowned Hope  
+_Presented in association with:_ Fortissimo Films, Backup Films  
+_In co-production with:_ Anna Sanders Films, Illuminations Films, TIFA  
+_With the participation of:_ Fonds Sud, Ministère de la Culture et de la Communication, Centre national de la cinématographie, Ministère des Affaires Étrangères  
+_World Film Sales:_ Michael Werner, Wouter Barendrecht, Fortissimo Films  
+_Executive Producers (Illumunations for NCH):_ Simon Field, Keith Griffiths  
+_Produced by:_ Apichatpong Weerasethakul  
+_Co-producer (Tifa Co., Ltd.):_ Pantham Thongsang  
+_Co-producer (Anna Sanders Films):_ Charles de Meaux  
+_Unit Production Manager:_ Saranya Ruangnantakan  
+_Assistant Unit Production Manager:_ Thanawat Thampreechapong  
+_Location Managers:_ Manita Niyomprasit, Thanawat Thampreechapong  
+_Post-production Supervisor:_ Lee Chatametikool  
+_1st Assistant Director:_ Suchada Sirithanawuddhi  
+_2nd Assistant Director:_ Sompot Chidgasornpongse  
+_Continuity:_ Manita Niyomprasit  
+_Casting Directors:_ Sakda Kaewbuadee, Suchada Sirithanawuddhi, Sompot Chidgasornpongse, Parnjai Sirisuwan  
+_Written by:_ Apichatpong Weerasethakul  
+_Cinematographer:_ Sayombhu Mukdeeprom  
+_1st Assistant Camera:_ Chonbovorn Niyamosot  
+_2nd Assistant Camera:_ Suksan Chanprom  
+_Video Man:_ Saran Siritham  
+_Still Photographer:_ Chayaporn Maneesutham  
+_Visual Effects Designer:_ Urmundee  
+_Digital Visual Effects:_ Post Bangkok Co., Ltd.  
+_Visual Effects Supervisor (Post Bangkok):_ Richard Downing  
+_Editor:_ Lee Chatametikool  
+_Art Director:_ Akekarat Homlaor  
+_Prop Master:_ Nitipong Thinthupthai  
+_Costume Designers:_ Virasinee Tipkomol, Askorn Sirikul  
+_Processing/Prints:_ Kantana Animation Co., Ltd.  
+_Colour Timing/Grading:_ Passakorn Yaisiri, Thaveep Jeenjitkaew, Supamol Pleumchusak  
+_Negative Cutters:_ Manop Petchyu, Uthit Netwong,
+
+Sakchai Nuengsawas, Rattanawan Chantavart  
+_Optical Effects:_ Sannucha Dhisayabutr, Pravit Jaivijit,
+
+Suchart Hongsmut, Kampol Thammayot, Sompop Baibaenae  
+_Film Stock:_ Kodak Motion Picture Film  
+_Music:_ Kantee Anantagant  
+_Sound Design:_ Koichi Shimizu, Akritchalerm Kalayanamitr, Aka Rit  
+_Sound Recordist:_ Akritchalerm Kalayanamitr  
+_Boom Operator:_ Narathip Tungkaseranee  
+_Mixing Engineer:_ Richard Hocks  
+_Sound Editors:_ Akritchalerm Kalayanamitr, Lee Chatametikool  
+_ADR Sound Engineer:_ Cotton Bud  
+_Behind the Scenes:_ Chayaporn Maneesutham<br>
+
+**Cast**<br>
+Nantarat Sawaddikul _(Dr Toey)_  
+Jaruchai Iamaram _(Dr Nohng)_  
+Sophon Pukanok _(Noom)_  
+Jenjira Pongpas _(Pa Jane)_  
+Arkanae Cherkam _(Dentist Pie)_  
+Sakda Kaewbuadee _(Monk Sakda)_  
+Nu Nimsomboon _(Chucheep (Toa))_  
+Manasanant Porndispong _(Dr Nant)_  
+Wanna Wattanajinda _(Dr Wan)_  
+Apirak Mitrpracha _(Dr Neng)_  
+Putthithorn Kammak _(Off)_  
+Nitipong Tinthupthai _(Koh)_  
+Sin Kaewpakpin _(old monk)_  
+Norathep Panyanavakij _(temple boy)_  
+Kasansaeng Kamnerdmee _(physical therapist)_  
+Kosin Wongtes _(guitar player)_  
+Rangsan Sutthimaneenun _(hospital director)_  
+Parichart Pu-Aree _(nurse 1)_  
+Suphapich Thitithammasak _(nurse 2)_  
+Thanawat Thampreechapong _(doctor 1)_  
+Jarunee Saengtupthim _(Joy)_<br>
+
+  
+Thailand/France/Austria/Netherlands 2006©<br>
+106 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg4MDQzNDddfQ==
+eyJoaXN0b3J5IjpbNTY1ODQ2NDY1XX0=
 -->
