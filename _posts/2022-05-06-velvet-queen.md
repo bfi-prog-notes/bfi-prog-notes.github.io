@@ -34,39 +34,39 @@ It was stunning! We were incredibly lucky to work with Warren Ellis, an extraord
 **Production notes**<br>
 
 **THE VELVET QUEEN: SNOW LEOPARD (La Panthère des neiges)**<br>
-_Directors:_ Marie Amiguet, Vincent Munier
-_©:_ Paprika Films, Kobalann Productions, Arte France Cinéma, Le Bureau
-_Production Companies:_ Paprika Films, Kobalann Productions
-_In co-production with:_ Arte France Cinéma, Le Bureau
-_In association with:_ Jean-Sébastien Decaux Lyro Participations Arte Cofinova 16
-_With the support of:_ Centre National du Cinéma et de l’Image animée, Région Grand Est et le Département des Vosges in partnership with the CNC, La Procirep/Angoa
-_With the participation of:_ Haut et Court Distribution, The Bureau Sales, Arte France
-_Presented by:_ Paprika Films, Kobalann Productions
-_Produced by:_ Laurent Baujard, Pierre-Emmanuel Fleurantin, Vincent Munier
-_Co-produced by:_ Bertrand Faivre
-_Assistant Director:_ Léo-Pol Jacquot
-_Post-production Supervisor:_ Sarah Carié
-_Written by:_ Marie Amiguet, Vincent Munier
-_Based on an original idea by:_ Vincent Munier
-_Commentary by:_ Sylvain Tesson
-_Cinematography:_ Vincent Munier, Marie Amiguet, Léo-Pol Jacquot
-_Editing:_ Vincent Schmitt, Marie Amiguet
-_Visual Effects:_ Léo-Pol Jacquot, Nicolas Vrignaud
-_Titles by:_ Emma Corbique
-_Original Music Composed and Performed by:_ Warren Ellis featuring Nick Cave
-_Music Produced by:_ Warren Ellis, Ellis Enterprises
-_Music Recorded by:_ Luis Almau
-_Music Mixed by:_ Luis Almau, Warren Ellis
-_Sound Recording:_ Vincent Munier, Marie Amiguet, Léo-Pol Jacquot
-_Sound Mixing:_ Olivier Goinard
-_Sound Editing:_ Boris Jollivet, Charles Valentin, Roman Dymny, Jean-Baptiste Brunhes, Fanny Martin
+_Directors:_ Marie Amiguet, Vincent Munier<br>
+_©:_ Paprika Films, Kobalann Productions, Arte France Cinéma, Le Bureau<br>
+_Production Companies:_ Paprika Films, Kobalann Productions<br>
+_In co-production with:_ Arte France Cinéma, Le Bureau<br>
+_In association with:_ Jean-Sébastien Decaux Lyro Participations Arte Cofinova 16<br>
+_With the support of:_ Centre National du Cinéma et de l’Image animée, Région Grand Est et le Département des Vosges in partnership with the CNC, La Procirep/Angoa<br>
+_With the participation of:_ Haut et Court Distribution, The Bureau Sales, Arte France<br>
+_Presented by:_ Paprika Films, Kobalann Productions<br>
+_Produced by:_ Laurent Baujard, Pierre-Emmanuel Fleurantin, Vincent Munier<br>
+_Co-produced by:_ Bertrand Faivre<br>
+_Assistant Director:_ Léo-Pol Jacquot<br>
+_Post-production Supervisor:_ Sarah Carié<br>
+_Written by:_ Marie Amiguet, Vincent Munier<br>
+_Based on an original idea by:_ Vincent Munier<br>
+_Commentary by:_ Sylvain Tesson<br>
+_Cinematography:_ Vincent Munier, Marie Amiguet, Léo-Pol Jacquot<br>
+_Editing:_ Vincent Schmitt, Marie Amiguet<br>
+_Visual Effects:_ Léo-Pol Jacquot, Nicolas Vrignaud<br>
+_Titles by:_ Emma Corbique<br>
+_Original Music Composed and Performed by:_ Warren Ellis featuring Nick Cave<br>
+_Music Produced by:_ Warren Ellis, Ellis Enterprises<br>
+_Music Recorded by:_ Luis Almau<br>
+_Music Mixed by:_ Luis Almau, Warren Ellis<br>
+_Sound Recording:_ Vincent Munier, Marie Amiguet, Léo-Pol Jacquot<br>
+_Sound Mixing:_ Olivier Goinard<br>
+_Sound Editing:_ Boris Jollivet, Charles Valentin, Roman Dymny, Jean-Baptiste Brunhes, Fanny Martin<br>
 
-**With**
-Sylvain Tesson
-Vincent Munier
+**With**<br>
+Sylvain Tesson<br>
+Vincent Munier<br>
 
-France 2021
-92 mins
+France 2021<br>
+92 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTMzMzk1MF19
+eyJoaXN0b3J5IjpbMTE1MzY4MjIxMl19
 -->
