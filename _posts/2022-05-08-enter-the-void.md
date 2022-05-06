@@ -111,7 +111,7 @@ _Foley Artist_: Nicolas Becker
 _Dolby Consultant_: Dominique Schmit  
 _Studios_: Toho Studios
 
-**Cast**
+**Cast**  
 Paz de la Huerta _(Linda)_  
 Nathaniel Brown _(Oscar)_  
 Cyril Roy _(Alex)_  
