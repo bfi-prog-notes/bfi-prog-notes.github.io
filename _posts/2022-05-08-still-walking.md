@@ -21,51 +21,44 @@ Koreeda leaves us with a long held image of commuter trains trundling by in the 
 **Trevor Johnston, _Sight & Sound_, February 2010**<br>
 
 **STILL WALKING (ARUITEMO ARUITEMO)**<br>
-_Directed by:_ Hirokazu Koreeda
-_©:_ Aruitemo Aruitemo (Still Walking) Production Committee
-_Production Company:_ Engine Film
-_Produced by:_ Engine Film, Bandai Visual, TV Man Union, Eisei Gekijo, CineQuanon
-_Executive Producers:_ Kazumi Kawashiro, Yutaka Shigenobu, Takeo Hisamatsu, Lee Bong-ou
-_Producers:_ Yoshihiro Kato, Hijiri Taguchi
-_Development Producer:_ Masahiro Yasuda
-_Production Manager:_ Keiichi Sanbe
-_Chief Assistant Director:_ Atsushi Kaneshige
-_Assistant Directors:_ Nao Ichihara, Kaoru Endo
-_Script Supervisor:_ Miho Iizuka
-_Written by:_ Hirokazu Koreeda
-_Cinematographer:_ Yutaka Yamazaki
-_Lighting:_ Eiji Oshita
-_Still Photographer:_ Kenshu Shintsubo
-_Edited by:_ Hirokazu Koreeda
-_Production Design:_ Toshihiro Isomi, Keiko Mitsumatsu
-_Costume Designer:_ Kazuko Kurosawa
-_Make-up Artist:_ Mutsuki Sakai
-_Music:_ Gontiti
-_Sound:_ Yukata Tsurumaki, Shuji Ohtake
-_English Subtitles by:_ Linda Hoaglund
+_Directed by:_ Hirokazu Koreeda<br>
+_©:_ Aruitemo Aruitemo (Still Walking) Production Committee<br>
+_Production Company:_ Engine Film<br>
+_Produced by:_ Engine Film, Bandai Visual, TV Man Union, Eisei Gekijo, CineQuanon<br>
+_Executive Producers:_ Kazumi Kawashiro, Yutaka Shigenobu, Takeo Hisamatsu, Lee Bong-ou<br>
+_Producers:_ Yoshihiro Kato, Hijiri Taguchi<br>
+_Development Producer:_ Masahiro Yasuda<br>
+_Production Manager:_ Keiichi Sanbe<br>
+_Chief Assistant Director:_ Atsushi Kaneshige<br>
+_Assistant Directors:_ Nao Ichihara, Kaoru Endo<br>
+_Script Supervisor:_ Miho Iizuka<br>
+_Written by:_ Hirokazu Koreeda<br>
+_Cinematographer:_ Yutaka Yamazaki<br>
+_Lighting:_ Eiji Oshita<br>
+_Still Photographer:_ Kenshu Shintsubo<br>
+_Edited by:_ Hirokazu Koreeda<br>
+_Production Design:_ Toshihiro Isomi, Keiko Mitsumatsu<br>
+_Costume Designer:_ Kazuko Kurosawa<br>
+_Make-up Artist:_ Mutsuki Sakai<br>
+_Music:_ Gontiti<br>
+_Sound:_ Yukata Tsurumaki, Shuji Ohtake<br>
+_English Subtitles by:_ Linda Hoaglund<br>
 
-**Cast**
-Hiroshi Abe _(Ryota Yokoyama)_
-Yui Natsukawa _(Yukari Yokoyama)_
-You _(Chinami Yokoyama)_
-Kazuya Takahashi _(Nobuo Kataoka)_
-Shohei Tanaka _(Atsushi Yokoyama)_
+**Cast**<br>
+Hiroshi Abe _(Ryota Yokoyama)_<br>
+Yui Natsukawa _(Yukari Yokoyama)_<br>
+You _(Chinami Yokoyama)_<br>
+Kazuya Takahashi _(Nobuo Kataoka)_<br>
+Shohei Tanaka _(Atsushi Yokoyama)_<br>
+Kirin Kiki _(Toshiko Yokoyama)_<br>
+Yoshio Harada _(Kyohei Yokoyama)_<br>
+Ryôga Hayashi _(Mutsu Kataoka)_<br>
+Haruko Kato<br>
+Hotaru Nomoto _(Satsuki Kataoka)_<br>
+Susumu Terajima _(sushi delivery man)_<br>
 
-Kirin Kiki _(Toshiko Yokoyama)_
-
-Yoshio Harada _(Kyohei Yokoyama)_
-
-Ryôga Hayashi _(Mutsu Kataoka)_
-
-Haruko Kato
-
-Hotaru Nomoto _(Satsuki Kataoka)_
-
-Susumu Terajima _(sushi delivery man)_
-
-Japan 2008©
-
-114 mins
+Japan 2008©<br>
+114 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzIzOTAxNl19
+eyJoaXN0b3J5IjpbLTIwMjQ1NzYzOThdfQ==
 -->
