@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Velvet Queen
+published: true
+date: 2022-05-06
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Documentary]
+metadata: 'France 2021, 92 mins<br> Directors: Marie Amiguet, Vincent Munier'
+pdf: '2022-05-06-velvet-queen.pdf'
+---
 
 High up on the Tibetan plateau. Amongst unexplored and inaccessible valleys lies one of the last sanctuaries of the wild world, where rare and undiscovered fauna lives. Vincent Munier, one of the world’s most renowned wildlife photographers takes the adventurer and novelist Sylvain Tesson _(In the Forest of Siberia)_ with him on his latest mission. For several weeks, they’ll explore these valleys searching for unique animals and try to spot the snow leopard, one of the rarest and most difficult big cats to approach.<br>
 
@@ -67,6 +78,48 @@ Vincent Munier<br>
 
 France 2021<br>
 92 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzY4MjIxMl19
--->
+<br>
+
+**NEW RELEASES**<br>
+**The Northman**<br>
+From 22 April<br>
+**Ennio**<br>
+From 22 April<br>
+**Firebird**<br>
+From 22 April<br>
+**We’re All Going to the World’s Fair**<br>
+From 29 April<br>
+**The Velvet Queen: Snow Leopard**<br>
+From 6 May<br>
+**Vortex**<br>
+Tue 10 May 18:00 Preview + intro by Gaspar NoéFrom Fri 13 May<br>
+
+**RE-RELEASES**<br>
+**Croupier**<br>
+From Wed 4 May<br>
+**Vampyr**<br>
+Thu 5 May Preview 18:15; Mon 23 May 14:00 Seniors’ Matinee + discussion<br>
+From Fri 20 May<br>
+**Cabaret**<br>
+From Fri 6 May<br>
+**Get Carter + The Frighteners: The Manipulators**<br>
+Mon 30 May 18:00 + intro by Douglas Weir, BFI Technical Delivery Manager<br>
+From Fri 27 May<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
