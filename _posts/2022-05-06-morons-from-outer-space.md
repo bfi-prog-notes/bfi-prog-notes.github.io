@@ -50,7 +50,7 @@ _World in Action_ was a hard-nosed investigative programme. This episode takes a
 <br><br>
 
 **WORLD IN ACTION: THE FLIPSIDE**  
-**(screening on Wed 18 May only)  
+(screening on Wed 18 May only)  
 _Director:_ Mike Hodges  
 ITV tx 1964  
 25 mins
