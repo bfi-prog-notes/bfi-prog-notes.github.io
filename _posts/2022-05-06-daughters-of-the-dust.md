@@ -85,7 +85,7 @@ _Sound Effects Editors_: Doug Blush, Ray Greene, Sabrina Stephenson, Jeff Schiro
 _Walla Group_: Holiday Marble, Sparkle Duncan, Teddy Gross, Guadalupe Jones, Rudy Costa, Agusta Stone, Charles Burnett, Geraldine Dunston  
 _ADR Voices_: Afemo Omiliani, Taira Miller  
 _ADR Editor_: Kris Campbell  
-_Gullah Language Consultant_: Ronald Daise
+_Gullah Language Consultant_: Ronald Daise<br>
 
 **Cast**<br>
 Adisa Anderson _(Eli Peazant)_  
@@ -110,13 +110,9 @@ Rev Ervin Green _(baptist minister)_
 Marcus Humphrey, Bernard Wilson _(boatmen)_  
 Althea Lang _(newlywed woman)_  
 Jasmine Lee, Dalisia Robinson _(Peazant babies)_  
-Willie Faulkner, Joe Taylor, Frank Brown,
-
-Rueben Fripp _(Peazant men)_  
+Willie Faulkner, Joe Taylor, Frank Brown, Rueben Fripp _(Peazant men)_  
 Derrick Coaxum, Neil Howard _(Peazant boys)_  
-Jared Warren, Zenovia Green, Taira Miller,
-
-Tiffanye Hills _(Peazant children)_  
+Jared Warren, Zenovia Green, Taira Miller, Tiffanye Hills _(Peazant children)_  
 Jamar Freeman _(Pete)_  
 Detrell Freeman _(re-Pete)_  
 Vivian Dawson, Inez Griffin _(rice huskers)_  
@@ -129,10 +125,10 @@ Lonnie Moon, DeWitt Parker, Emma Robinson, Taylor Thompson, Virginia Green, Mace
 Tarell Brown, Shanna Parker, Belle White, Stanley White, Maxine Royalle, Georgia Wiggins, Carolyn Garris, Ella Powell, Bernice Jenkins, Lillian Johnson, Jackie Parker _(indigo plantation)_  
 Shanna Johnson _(young Nana Peazant)_  
 Leroy Simmons Jr _(young Daddy Mac Peazant)_  
-Leroy Simmons _(Shad Peazant)_
+Leroy Simmons _(Shad Peazant)_<br>
 
 USA 1991©<br>
 112 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4NDE2MF19
+eyJoaXN0b3J5IjpbLTE4MTkwNTQxNDJdfQ==
 -->
