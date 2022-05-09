@@ -178,23 +178,23 @@ Tue 26 May 18:10<br>
 **Film Wallahs: Adieu Godard + intro**<br>
 Wed 11 May 18:20<br>
 **Focus Hong Kong: The Bride with White Hair + intro**<br>
-Thu 12 May 18:20
-**Focus Hong Kong: UK Premiere: Bamboo Theatre + intro**
-Fri 13 May 18:15
-**UK Asian Film Festival: Closing Night: Gangnam Girls + intro by director and producer**
-Sun 15 May 11:30
-**UK Premiere: The Coup d’etat Factory + discussion with chair, Baroness Christine Blower and special guests (TBA)**
-Sun 29 May 14:00
+Thu 12 May 18:20<br>
+**Focus Hong Kong: UK Premiere: Bamboo Theatre + intro**<br>
+Fri 13 May 18:15<br>
+**UK Asian Film Festival: Closing Night: Gangnam Girls + intro by director and producer**<br>
+Sun 15 May 11:30<br>
+**UK Premiere: The Coup d’etat Factory + discussion with chair, Baroness Christine Blower and special guests (TBA)**<br>
+Sun 29 May 14:00<br>
 
-**QUEER EAST**
-**Girls’ School + Q&A with Wang Chun-Chi, Chairwoman of Taiwan Women’s Film Association**
-Tue 24 May 18:10
-**East Palace, West Palace Dong gong xi gong + intro by Chris Berry, Professor of Film Studies, King’s College London**
-Fri 27 May 20:30
-**Malila: The Farewell Flower + Q&A with director Anucha Boonyawatana**
-Sat 28 May 15:00
-**Queer East Closing Night: Metamorphosis + Q&A with director JE Tiglao**
-Sun 29 May 18:00
+**QUEER EAST**<br>
+**Girls’ School + Q&A with Wang Chun-Chi, Chairwoman of Taiwan Women’s Film Association**<br>
+Tue 24 May 18:10<br>
+**East Palace, West Palace Dong gong xi gong + intro by Chris Berry, Professor of Film Studies, King’s College London**<br>
+Fri 27 May 20:30<br>
+**Malila: The Farewell Flower + Q&A with director Anucha Boonyawatana**<br>
+Sat 28 May 15:00<br>
+**Queer East Closing Night: Metamorphosis + Q&A with director JE Tiglao**<br>
+Sun 29 May 18:00<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzOTc2Nzg5XX0=
+eyJoaXN0b3J5IjpbLTE2NDMwNDkyOTVdfQ==
 -->
