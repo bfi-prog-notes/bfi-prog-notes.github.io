@@ -1,3 +1,14 @@
+---
+layout: post
+title: Benediction
+published: true
+date: 2022-05-09
+readtime: true
+categories: ['PREVIEWS']
+tags: [Drama, Period, Biopic]
+metadata: 'UK-USA 2021, 137 mins<br> Director: Terence Davies'
+pdf: '2022-05-09-benediction.pdf'
+---
 
 _+ extended introduction with actor Jack Lowden_
 
@@ -167,7 +178,7 @@ Courtesy of Vertigo<br>
 **IN PERSON & PREVIEWS**<br>
 **Preview: Benediction + extended introduction with director Terence Davies + actor Jack Lowden**<br>
 Mon 9 May 20:15<br>
-**Gaspar Noé in Conversation **<br>
+**Gaspar Noé in Conversation**<br>
 Tue 10 May 21:00<br>
 **Preview: Summer Ghost + Q&A with director Loundraw**<br>
 Fri 13 May 18:30<br>
