@@ -162,63 +162,39 @@ UK-USA 2021<br>
 137 mins<br>
 
 Courtesy of Vertigo<br>
+<br>
 
-<![endif]-->
+**IN PERSON & PREVIEWS**<br>
+**Preview: Benediction + extended introduction with director Terence Davies + actor Jack Lowden**<br>
+Mon 9 May 20:15<br>
+**Gaspar Noé in Conversation **<br>
+Tue 10 May 21:00<br>
+**Preview: Summer Ghost + Q&A with director Loundraw**<br>
+Fri 13 May 18:30<br>
+**Work in Progress Preview: All at Sea**<br>
+Tue 26 May 18:10<br>
 
-**IN PERSON & PREVIEWS**
-
-**Preview: Benediction + extended introduction with director Terence Davies + actor Jack Lowden**
-
-Mon 9 May 20:15
-
-**Gaspar Noé in Conversation  
-**Tue 10 May 21:00**  
-Preview: Summer Ghost + Q&A with director Loundraw  
-**Fri 13 May 18:30
-
-**Work in Progress Preview: All at Sea**
-
-Tue 26 May 18:10
-
-**SPECIAL FILMS & EVENTS**
-
-**Film Wallahs: Adieu Godard + intro**
-
-Wed 11 May 18:20
-
-**Focus Hong Kong: The Bride with White Hair + intro**
-
+**SPECIAL FILMS & EVENTS**<br>
+**Film Wallahs: Adieu Godard + intro**<br>
+Wed 11 May 18:20<br>
+**Focus Hong Kong: The Bride with White Hair + intro**<br>
 Thu 12 May 18:20
-
 **Focus Hong Kong: UK Premiere: Bamboo Theatre + intro**
-
 Fri 13 May 18:15
-
 **UK Asian Film Festival: Closing Night: Gangnam Girls + intro by director and producer**
-
 Sun 15 May 11:30
-
 **UK Premiere: The Coup d’etat Factory + discussion with chair, Baroness Christine Blower and special guests (TBA)**
-
 Sun 29 May 14:00
 
 **QUEER EAST**
-
 **Girls’ School + Q&A with Wang Chun-Chi, Chairwoman of Taiwan Women’s Film Association**
-
 Tue 24 May 18:10
-
 **East Palace, West Palace Dong gong xi gong + intro by Chris Berry, Professor of Film Studies, King’s College London**
-
 Fri 27 May 20:30
-
 **Malila: The Farewell Flower + Q&A with director Anucha Boonyawatana**
-
 Sat 28 May 15:00
-
 **Queer East Closing Night: Metamorphosis + Q&A with director JE Tiglao**
-
 Sun 29 May 18:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDYyMzI3NjRdfQ==
+eyJoaXN0b3J5IjpbNjYzOTc2Nzg5XX0=
 -->
