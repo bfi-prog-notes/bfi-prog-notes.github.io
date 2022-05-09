@@ -66,17 +66,12 @@ _Sound Editing:_ Pamplemousse, Ludovic Escallier, Sébastien Savine
 _Sound Effects:_ François Le Peuple  
 _ADR Engineer:_ Didier Lesage  
 _ADR Recordist:_ Thierry Havard  
-_Post-synchronization:_ Christian Brousselle,
-
-Studio Lincoln, S.I.S.  
+_Post-synchronization:_ Christian Brousselle, Studio Lincoln, S.I.S.  
 _Coach/Trainer:_ Edouard Nikitine  
-_Stunts (MediaPro):_ Zsoby Cseh, Von ‘Toto’ Jescu,
+_Stunts (MediaPro):_ Zsoby Cseh, Von ‘Toto’ Jescu, Von ‘Toto’ Jecu  
+_Publicity:_  Moteur (Dominique Segall, Laurent Renard)  
 
-Von ‘Toto’ Jecu  
-_Publicity:_  
-Moteur (Dominique Segall, Laurent Renard)  
-_Cast:_
-
+**Cast**  
 Cécile de France _(Marie)_  
 Maïwenn _(Alex)_  
 Philippe Nahon _(the killer)_  
@@ -94,5 +89,5 @@ France/Romania 2003©
 The screening on Mon 9 May will feature a  
 pre-recorded intro by author Alexandra West
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzUwOTA4OF19
+eyJoaXN0b3J5IjpbODQxMTIzMzAyLC0xNDc1MDkwODhdfQ==
 -->
