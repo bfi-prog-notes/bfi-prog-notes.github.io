@@ -15,75 +15,49 @@ To this end Aja is ably assisted by the monolithic presence of Philippe Nahon, w
 
 Maïwenn and Cécile de France do sterling work as Alex and Marie, the latter a particular revelation for anyone who caught her amiably ditzy turn in the recent Jackie Chan remake of _Around the World in 80 Days_. Unrecognisable from her more mainstream incarnation, de France dominates the screen as the crop-haired heroine who proves more than a match for her marauding male nemesis. It’s a terrifically physical performance and a sinewy portrait of raw survival instinct that provides an easy point of identification for audience members of either sex – reminding us once again that the purest pleasures of slasher cinema are not sadistic but masochistic, focusing our attention on the trials (and eventual triumph?) of the victim rather than the actions of the aggressor. Unlike many of its predecessors, _High Tension_ sidesteps the leery visual sexism that made some 1970s slashers such a boy’s-own affair. Although Nahon’s killer is earmarked early on as a necrophile rapist, his on-screen attacks provoke none of the bare-breasted titillation for which the genre became infamous. Instead, these grisly assaults are heard rather than seen, the sound of Nahon’s animal grunting mixing with the shrieks of his victims in a manner that’s terrifying rather than titillating.
 
-Like last year’s equally straight-faced _Cabin Fever_ (which also demonstrated the benefits of not playing these throwback thrills ironically), _High Tension_ inhabits a world of nightmare cinema that seems to have been conjured entirely from the fond adolescent memories of its unabashed-fan creators. As the tagline for _Last House on the Left_ told us all those years ago, in the end, ‘keep telling yourself: it’s only a movie, only a movie...’
-Mark Kermode, _Sight & Sound_, October 2004
-
-<![endif]-->
+Like last year’s equally straight-faced _Cabin Fever_ (which also demonstrated the benefits of not playing these throwback thrills ironically), _High Tension_ inhabits a world of nightmare cinema that seems to have been conjured entirely from the fond adolescent memories of its unabashed-fan creators. As the tagline for _Last House on the Left_ told us all those years ago, in the end, ‘keep telling yourself: it’s only a movie, only a movie...’  
+**Mark Kermode, _Sight & Sound_, October 2004**
+<br><br>
 
 **HIGH TENSION (AKA SWITCHBLADE ROMANCE)  
-(HAUTE TENSION)**
-
+(HAUTE TENSION)**  
 _Director:_ Alexandre Aja  
-©_/Production Companies:_ Alexandre Films,
-
-Europa Corp.  
+©_/Production Companies:_ Alexandre Films, Europa Corp.  
 _Produced with the participation of:_ Canal+  
 _International Sales:_ Europa Corp.  
 _Presented by:_ Europa Corp.  
-_Co-production Company:_  
-MediaPro Pictures: (Buftea)  
+_Co-production Company:_  MediaPro Pictures: (Buftea)  
 _Produced by:_ Alexandre Arcady, Robert Benmussa  
 _Production Executive (MediaPro):_ Andrei Boncea  
 _Production Manager:_ Inigo Lezzi  
 _Production Manager (MediaPro):_ Calin Furtunescu  
 _Unit Production Manager:_ Attila Egry  
 _Production Administrator:_ Catherine Grandjean  
-_Production (MediaPro):_ Razvan Caminschi,
-
-George Dinu, Nicu Kasza, Adi Nita,  
+_Production (MediaPro):_ Razvan Caminschi, George Dinu, Nicu Kasza, Adi Nita,  
 Cristina Dobritoiu, Dorina Popa, Liliana Ciobanu, Luminata Stanciu  
-_Picture/Sound (MediaPro):_ Mihai Burtan, Cristi Onutu, Ionut ‘John’ Lupulescu, Dan Norocel,
-
-Alexandru Engarescu, Ene Marian, Gigi Sarbu, Alexandru Marius, Bogdan Varzaru, Mihai Balea, Catalin Ciobanu, Costea Marian, Liviu Balea,
-
-Gheorghe Anton  
+_Picture/Sound (MediaPro):_ Mihai Burtan, Cristi Onutu, Ionut ‘John’ Lupulescu, Dan Norocel, Alexandru Engarescu, Ene Marian, Gigi Sarbu, Alexandru Marius, Bogdan Varzaru, Mihai Balea, Catalin Ciobanu, Costea Marian, Liviu Balea, Gheorghe Anton  
 _1st Assistant Director:_ Theodor Halacu Nicon  
-_Assistant Directors (MediaPro):_ Antony Collard,
-
-Virgil Nicolaescu, Alina Apostu  
+_Assistant Directors (MediaPro):_ Antony Collard, Virgil Nicolaescu, Alina Apostu  
 _Script Supervisor (MediaPro):_ Andra Barbuica  
 _Casting (MediaPro):_ Florin Chevorchian  
 _Screenplay:_ Alexandre Aja, Grégory Levasseur  
 _Director of Photography:_ Maxim Alexandre  
 _Steadicam (MediaPro):_ Bogdan Stanciu  
 _Stills Photographer (MediaPro):_ Toni Salabasev  
-_Special Visual Effects:_ Stéphane Bidault,
-
-Christophe Chanvin, Benjamin Ageorges,
-
-Jean-Antoine Lacolle  
+_Special Visual Effects:_ Stéphane Bidault, Christophe Chanvin, Benjamin Ageorges, Jean-Antoine Lacolle  
 _Digital Effects:_ AutreChose  
 _Editor:_ Baxter  
-_Editing:_ Films en Hiver, Franck Landron,
-
-Sophie Vermersch  
+_Editing:_ Films en Hiver, Franck Landron, Sophie Vermersch  
 _Art Director:_ Grégory Levasseur  
 _Artistic Co-ordinator (MediaPro):_ Tony Egry  
-_Art Department (MediaPro):_ Calin Papura,  
-Paul Dobre, Doru Stan, Tudor Polizu, Gabi Nechita, Alex Cseh, Dorin Grigorescu, Rusetelu Nicolae, Ionut Mandruta, Cornelia Chiu, Camelia Sirbu,  
-Adi Popescu, Agler Catalin, Blehan Bogdan,  
-Gabi Cretan, Corina Hera  
+_Art Department (MediaPro):_ Calin Papura,  Paul Dobre, Doru Stan, Tudor Polizu, Gabi Nechita, Alex Cseh, Dorin Grigorescu, Rusetelu Nicolae, Ionut Mandruta, Cornelia Chiu, Camelia Sirbu,  Adi Popescu, Agler Catalin, Blehan Bogdan,  Gabi Cretan, Corina Hera  
 _Set Decorator (MediaPro):_ Ann Chakraverty  
 _Storyboard:_ Adrian Cancer  
 _Special Effects Make-up:_ Giannetto De Rossi  
 _Titles:_ AutreChose, Cinécool  
 _Colour Grader:_ Serge Anthony  
-_Original Music Composed/Produced by:_
-
-François Eudes  
-_Music Producers:_ Europa Corp., Jérôme Lateur,
-
-Elise Luguern  
+_Original Music Composed/Produced by:_ François Eudes  
+_Music Producers:_ Europa Corp., Jérôme Lateur, Elise Luguern  
 _Music Mixed by:_ Jerome Devoise  
 _Sound/Sound Recording:_ Pierre André  
 _Sound/Sound Mixer:_ Didier Lozahic  
@@ -120,5 +94,5 @@ France/Romania 2003©
 The screening on Mon 9 May will feature a  
 pre-recorded intro by author Alexandra West
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODA4NjYwMV19
+eyJoaXN0b3J5IjpbLTE0NzUwOTA4OF19
 -->
