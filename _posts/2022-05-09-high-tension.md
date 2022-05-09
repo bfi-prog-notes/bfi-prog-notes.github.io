@@ -1,13 +1,25 @@
+---
+layout: post
+title: High Tension
+published: true
+date: 2022-05-09
+readtime: true
+categories: ['CRUEL FLESH<br>FILMS OF THE  NEW FRENCH EXTREMITY']
+tags: [Horror]
+metadata: 'France-Romania 2003, 91 mins<br> Director: Alexandre Aja'
+pdf: '2022-05-09-high-tension.pdf'
+---
 
+**The films of the New French Extremity and the accompanying focus on Gaspar Noé examine an important, controversial and highly violent cinema movement. They are not suitable for all.**
+
+**The film you are about to watch may contain very dark themes, graphic imagery, and scenes of a very upsetting nature including sexual violence and body horror.**
 
 **A contemporary review**  
 Like the spectre of Michael Myers, repeatedly declared dead only to return again from the grave, 1970s-inflected horror movies just won’t lie down and die. Already in the past 12 months we’ve seen high-octane remakes of George Romero’s _Dawn of the Dead_ and Tobe Hooper’s _The Texas Chain Saw Massacre_. In the coming months the notoriously ‘nasty’ thrills of _The Toolbox Murders_ will be revisited once again, with Hooper taking over the DIY-death honours from original director Dennis Donnelly. Meanwhile from France comes _High Tension_, a riotous slasher throwback which writer-director Alexandre Aja describes as an attempt to return to ‘the roots of the genre, to give the audience a real “battle for survival”.’
 
 ‘I’ll never let anyone come between us again,’ promises heroine Marie at the beginning and end of this ferocious nightmare in which two young women go head-to-head with a relentless monster hell-bent on painting their world blood red. It’s a promise she is determined to keep, even if honouring it means letting her repressed animal instincts off the leash. In a remote woodland farmhouse (‘It’s like a doll’s house...’) Marie and the family of her best friend Alex are besieged by an implacable killer who wields a cut-throat razor and a growling wood-saw with equal panache. Blood-spurting decapitations, wince-making eviscerations and hefty axings ensue as the killer runs (or more accurately plods) amok, taking the wild and worldly Alex captive and leaving the apparently chaste tomboy Marie to save the day. ‘The other girls were alone,’ insists Marie, who has been haunted by dreams of pursuing herself through darkened woods. ‘There are two of us – we’ll be OK.’ But will Marie become a generic ‘final girl’ and triumph over adversity in the style of Halloween’s Laurie Strode? Or will the spectacularly slimy killer, a portly sixtysomething man in greasy grey overalls who drives a beat-up van, chew her up and spit her out with scant regard for generic convention?
 
-Filmed with an edgy stylishness that belies the tight six-week shoot, Aja’s  
-rip-roaring romp certainly gives horror fans more than their money’s worth, terrorising (rather than patronising) those in search of a damn good scare.  
-Over the course of its stripped-down running time we are witness to a series of gruelling encounters played out against a splendidly abstract soundtrack packed with guttural moans, unworldly booms and insistent electrical hisses. While chirpy pop songs and innocuous mall music waft ironically over the airwaves (‘You’re just another girl,’ warns one song, ‘maybe nice, but not that smart...’), the ambient sound of _High Tension_ creaks away like a rusty gate in hell, cranking up the knuckle-chewing tension and reminding us just what an inventively dangerous weapon the slasher genre can be when placed in disreputable hands.
+Filmed with an edgy stylishness that belies the tight six-week shoot, Aja’s  rip-roaring romp certainly gives horror fans more than their money’s worth, terrorising (rather than patronising) those in search of a damn good scare.  Over the course of its stripped-down running time we are witness to a series of gruelling encounters played out against a splendidly abstract soundtrack packed with guttural moans, unworldly booms and insistent electrical hisses. While chirpy pop songs and innocuous mall music waft ironically over the airwaves (‘You’re just another girl,’ warns one song, ‘maybe nice, but not that smart...’), the ambient sound of _High Tension_ creaks away like a rusty gate in hell, cranking up the knuckle-chewing tension and reminding us just what an inventively dangerous weapon the slasher genre can be when placed in disreputable hands.
 
 Eschewing the knowing nods and winks of the postmodern slasher-cinema revival (_Scream_, _I Know What You Did Last Summer_, et al), Aja and co-writer Grégory Levasseur play their killer hand commendably straight even as the numerous generic references tempt them to crack a stylistic smile. Early scenes of Marie and Alex heading off towards predictable peril in a woodland retreat chime with a string of rape-revenge shockers from Wes Craven’s _Last House on the Left_ (1972) to Meir Zarchi’s _Day of the Woman_/_I Spit on Your Grave_ (1978). Shades of _The Evil Dead_ (1982) haunt the night-time exteriors of the farmhouse (prowled from ominously low angles and silhouetted against glowing moons and cloudy skies), while inside the sight of blood spraying theatrically on to bright-white walls recalls the _giallo_ excesses of Dario Argento. Meanwhile a revolting early gag about oral sex and decapitated heads (‘Look me in the eye...’) confirms the filmmakers’ willingness to resort to outright repugnance, nodding their heads towards a string of gore classics from Bill Lustig’s _Maniac_ (1980) to Stuart Gordon’s _Re-animator_ (1985) and leaving us enticingly uneasy about just how far they’ll go in their desire to shock.
 
@@ -88,6 +100,63 @@ France/Romania 2003©
 
 The screening on Mon 9 May will feature a  pre-recorded intro by author Alexandra West<br>
 <br>
+
+**CRUEL FLESH: FILMS OF THE  NEW FRENCH EXTREMITY**<br>
+**Carne + La Bouche de Jean-Pierre**<br>
+Sun 1 May 11:50; Thu 12 May 20:45 (+ Q&A with Lucile Hadžihalilovic)<br>
+**Baise-moi**<br>
+Sun 1 May 18:20; Sat 7 May 20:50<br>
+**The Ordeal (Calvaire)**<br>
+Mon 2 May 12:30; Sun 22 May 18:20<br>
+**Man Bites Dog (C’est arrivé près de chez vous)**<br>
+Mon 2 May 15:10; Tue 10 May 20:55<br>
+**Sex and Death, but Make It Arthouse**<br>
+Tue 3 May 18:10<br>
+**Trouble Every Day**<br>
+Tue 3 May 20:30 (+ intro by writer and creative Sophie Monks Kaufman); Tue 24 May 20:45<br>
+**Criminal Lovers (Les Amants criminels)**<br>
+Wed 4 May 20:50; Sat 14 May 12:00<br>
+**Pola X**<br>
+Thu 5 May 20:25; Sat 28 May 17:50<br>
+**Romance (Romance X)**<br>
+Fri 6 May 18:00 (+ intro by Catherine Wheatley, King’s College London); Tue 17 May 20:45<br>
+**Philosophical Screens: Romance**<br>
+Fri 6 May 20:00<br>
+**In My Skin (Dans ma peau)**<br>
+Sat 7 May 17:50 (+ intro by Catherine Wheatley, King’s College London); Thu 19 May 20:40<br>
+**High Tension (aka Switchblade Romance)  (Haute Tension)**<br>
+Mon 9 May 18:00 (+ pre-recorded intro by author Alexandra West); Sat 28 May 12:20<br>
+**Inside (À l’intérieur)**<br>
+Sat 14 May 20:50; Thu 26 May 18:20<br>
+**Them (Ils)**<br>
+Mon 16 May 20:50; Sun 29 May 18:20<br>
+**Irreversible** **(Irréversible)** (theatrical version)<br>
+Sat 21 May 17:45<br>
+**Martyrs**<br>
+Sat 28 May 20:50; Tue 31 May 20:40<br>
+**Horror à la Française**<br>
+Free to view on the BFI YouTube channel from  11-31 May<br>
+**BFI Courses: City Lit at the BFI:  New French Extremity**<br>
+Every Tue from 10-31 May 18:30-20:30<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIxMjU2MTk2MTgsLTE0NzUwOTA4OF19
 -->
