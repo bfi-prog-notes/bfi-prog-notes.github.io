@@ -82,12 +82,12 @@ Marco Claudiu Pascu _(Tom)_
 Jean-Claude de Goros _(police inspector)_  
 Bogdan Uritescu _(policeman)_  
 Gabriel Spahiu _(man in the car)_  
-France/Romania 2003©
 
+France/Romania 2003©  
 91 mins
 
-The screening on Mon 9 May will feature a  
-pre-recorded intro by author Alexandra West
+The screening on Mon 9 May will feature a  pre-recorded intro by author Alexandra West<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxMTIzMzAyLC0xNDc1MDkwODhdfQ==
+eyJoaXN0b3J5IjpbLTIxMjU2MTk2MTgsLTE0NzUwOTA4OF19
 -->
