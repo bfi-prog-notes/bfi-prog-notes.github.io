@@ -1,6 +1,4 @@
 
-<![endif]-->
-
 _+ extended introduction with actor Jack Lowden_
 
 _Benediction_ explores the turbulent life of First World War poet, Siegfried Sassoon, through the eyes of the revered filmmaker Terence Davies. Sassoon was a complex man who survived the horrors of fighting in the First World War and was decorated for his bravery but who became a vocal critic of the government’s continuation of the war when he returned from service. His poetry was inspired by his experiences on the Western Front and he became one of the leading war poets of the era. Adored by members of the aristocracy as well as stars of London’s literary and stage world, he embarked on affairs with several men as he attempted to come to terms with his homosexuality. At the same time, broken by the horror of war, he made his life’s journey a quest for salvation, trying to find it within the conformity of marriage and religion. His story is one of a troubled man in a fractured world searching for peace and self-acceptance, something which speaks as meaningfully to the modern world as it did then.
@@ -36,12 +34,10 @@ So, it seems, were the owners of grand houses in and around Wolverhampton, who k
 
 Terence is thrilled by the young actors who appear in _Benediction_: ‘The wealth of talent among them, male and female, was quite breath-taking. And that’s thrilling.’ Among the younger actors, Michael Elliott also singles out Jack Lowden’s unswerving loyalty: ‘Jack came on board at an early stage. He was really hugely supportive and stuck with the project for one and a half years while we were trying to get our finance sorted.’
 
-The gratitude goes two ways: Calam Lynch remains delighted he got the chance to play the outrageous Stephen Tennant in _Benediction_: ‘It was such a privilege and for most of us the first job after lockdown, so the sense of joy was palpable. And to be able to say I’ve worked on a film with Terence Davies!’
+The gratitude goes two ways: Calam Lynch remains delighted he got the chance to play the outrageous Stephen Tennant in _Benediction_: ‘It was such a privilege and for most of us the first job after lockdown, so the sense of joy was palpable. And to be able to say I’ve worked on a film with Terence Davies!’<br>
+**Production notes**<br>
 
-**Production notes**
-
-**BENEDICTION**
-
+**BENEDICTION**<br>
 _Directed by_: Terence Davies  
 _©_: UME14 Limited, BBC, The British Film Institute  
 _Production Company_: EMU Films  
@@ -112,10 +108,9 @@ _Foley Artist_: Ian Waggott
 _Foley Mixer_: Ben Cross  
 _Horse Master_: Mark Atkinson  
 _Publicist_: Charles McDonald  
-_With special thanks to the Estate of_: George Sassoon
+_With special thanks to the Estate of_: George Sassoon<br>
 
-
-**Cast**
+**Cast**<br>
 Jack Lowden _(Siegfried Sassoon)_  
 Peter Capaldi _(Siegfried Sassoon (older))_  
 Simon Russell Beale _(Robbie Ross)_  
@@ -167,6 +162,63 @@ UK-USA 2021<br>
 137 mins<br>
 
 Courtesy of Vertigo<br>
+
+<![endif]-->
+
+**IN PERSON & PREVIEWS**
+
+**Preview: Benediction + extended introduction with director Terence Davies + actor Jack Lowden**
+
+Mon 9 May 20:15
+
+**Gaspar Noé in Conversation  
+**Tue 10 May 21:00**  
+Preview: Summer Ghost + Q&A with director Loundraw  
+**Fri 13 May 18:30
+
+**Work in Progress Preview: All at Sea**
+
+Tue 26 May 18:10
+
+**SPECIAL FILMS & EVENTS**
+
+**Film Wallahs: Adieu Godard + intro**
+
+Wed 11 May 18:20
+
+**Focus Hong Kong: The Bride with White Hair + intro**
+
+Thu 12 May 18:20
+
+**Focus Hong Kong: UK Premiere: Bamboo Theatre + intro**
+
+Fri 13 May 18:15
+
+**UK Asian Film Festival: Closing Night: Gangnam Girls + intro by director and producer**
+
+Sun 15 May 11:30
+
+**UK Premiere: The Coup d’etat Factory + discussion with chair, Baroness Christine Blower and special guests (TBA)**
+
+Sun 29 May 14:00
+
+**QUEER EAST**
+
+**Girls’ School + Q&A with Wang Chun-Chi, Chairwoman of Taiwan Women’s Film Association**
+
+Tue 24 May 18:10
+
+**East Palace, West Palace Dong gong xi gong + intro by Chris Berry, Professor of Film Studies, King’s College London**
+
+Fri 27 May 20:30
+
+**Malila: The Farewell Flower + Q&A with director Anucha Boonyawatana**
+
+Sat 28 May 15:00
+
+**Queer East Closing Night: Metamorphosis + Q&A with director JE Tiglao**
+
+Sun 29 May 18:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzczOTJdfQ==
+eyJoaXN0b3J5IjpbLTE5NDYyMzI3NjRdfQ==
 -->
