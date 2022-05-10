@@ -128,52 +128,37 @@ Fri 27 May 18:15; Mon 30 May 20:50 + extended intro by season programmer Anna Bo
 
 **CRUEL FLESH**
 **FILMS OF THE NEW FRENCH EXTREMITY**<br>
-**Carne + La Bouche de Jean-Pierre**
-
-Thu 12 May 20:45 (+ Q&A with Lucile Hadžihalilovic)
-
-**Criminal Lovers (Les Amants criminels)**
-
-Sat 14 May 12:00
-
-**Inside (À l’intérieur)**
-
-Sat 14 May 20:50; Thu 26 May 18:20
-
-**Them (Ils)**
-
-Mon 16 May 20:50; Sun 29 May 18:20
-
-**Romance (Romance X)**
-
-Tue 17 May 20:45
-
-**In My Skin (Dans ma peau)**
-
-Thu 19 May 20:40
-
-**Irreversible** **(Irréversible)** (theatrical version)
-
-Sat 21 May 17:45
-
-**The Ordeal (Calvaire)**
-
-Sun 22 May 18:20
-**Trouble Every Day**
-Tue 24 May 20:45
+**Carne + La Bouche de Jean-Pierre**<br>
+Thu 12 May 20:45 (+ Q&A with Lucile Hadžihalilovic)<br>
+**Criminal Lovers (Les Amants criminels)**<br>
+Sat 14 May 12:00<br>
+**Inside (À l’intérieur)**<br>
+Sat 14 May 20:50; Thu 26 May 18:20<br>
+**Them (Ils)**<br>
+Mon 16 May 20:50; Sun 29 May 18:20<br>
+**Romance (Romance X)**<br>
+Tue 17 May 20:45<br>
+**In My Skin (Dans ma peau)**<br>
+Thu 19 May 20:40<br>
+**Irreversible (Irréversible)** (theatrical version)<br>
+Sat 21 May 17:45<br>
+**The Ordeal (Calvaire)**<br>
+Sun 22 May 18:20<br>
+**Trouble Every Day**<br>
+Tue 24 May 20:45<br>
 **High Tension (aka Switchblade Romance)  
-(Haute Tension)**
-Sat 28 May 12:20
-**Pola X**
-Sat 28 May 17:50
-**Martyrs**
-Sat 28 May 20:50; Tue 31 May 20:40
-**Horror à la Française**
+(Haute Tension)**<br>
+Sat 28 May 12:20<br>
+**Pola X**<br>
+Sat 28 May 17:50<br>
+**Martyrs**<br>
+Sat 28 May 20:50; Tue 31 May 20:40<br>
+**Horror à la Française**<br>
 Free to view on the BFI YouTube channel from  
-11-31 May
+11-31 May<br>
 **BFI Courses: City Lit at the BFI:  
-New French Extremity**
-Every Tue from 10-31 May 18:30-20:30
+New French Extremity**<br>
+Every Tue from 10-31 May 18:30-20:30<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDMwMDQwMl19
+eyJoaXN0b3J5IjpbLTEyMTAyNzE0OTJdfQ==
 -->
