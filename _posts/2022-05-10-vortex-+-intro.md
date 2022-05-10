@@ -1,7 +1,7 @@
 
 _+ intro by Gaspar Noé_
 
-**Françoise Lebrun on ‘Vortex’**
+**Françoise Lebrun on ‘Vortex’**<br>
 _Do you know why Gaspar Noé called you in?_
 
 Yes! He saw _The Mother and the Whore_ and he loves that film, it really moved him. But we didn’t talk much about it, we stayed very demure.
@@ -20,8 +20,7 @@ Obviously he didn’t want to take me in that direction, with this film, he took
 
 _Does Gaspar talk about the psychology of the characters?_
 
-Not at all! Or perhaps I didn’t get it! (laughs) He gives practical indications:  
-‘An emptier look, wiggle your fingers, mumble…’ Very concrete things. He doesn’t talk about the character’s moods and so much the better because I can’t bear all that.
+Not at all! Or perhaps I didn’t get it! (laughs) He gives practical indications:  ‘An emptier look, wiggle your fingers, mumble…’ Very concrete things. He doesn’t talk about the character’s moods and so much the better because I can’t bear all that.
 
 _How was the filming?_
 
@@ -29,10 +28,9 @@ Through the documentaries I watched, I discovered that people who suffer from Al
 
 _Was it a demanding shoot?_
 
-It was necessary to abandon all preconditioned reflexes. Because of the split-screen we did many takes. The biggest task was to let go of control. And at the same time, because of the work with two cameras, it was sometimes also very technical. I remember we once had to do a take of exactly ten seconds. It’s a change and it’s very exciting.
+It was necessary to abandon all preconditioned reflexes. Because of the split-screen we did many takes. The biggest task was to let go of control. And at the same time, because of the work with two cameras, it was sometimes also very technical. I remember we once had to do a take of exactly ten seconds. It’s a change and it’s very exciting.<br>
 
-**Dario Argento on ‘Vortex’**
-
+**Dario Argento on ‘Vortex’**<br>
 _This is the first time you’ve taken the lead role in a film._
 
 I was the narrator for several of my films, including _Suspiria_, _Opera_ and _Tenebrae_ and you can see my hands stabbing women in _Giallos_. Gaspar is one of my great friends, we’ve known each other for more than 20 years. He begged me, told me he wrote the film for me, everyone around me advised me to act in _Vortex_. Even so, when Gaspar came to see me in Rome and we watched his film _Love_ at 10am, I must admit that I had big doubts… It was my daughter, Asia, who finally convinced me. So, at 80, I agreed to play my first leading role, and in French. I put all my will, all my strength, all my being into it.
@@ -53,8 +51,7 @@ _What will you take away from_ Vortex_?_
 
 It is a very intimate film for Gaspar, a personal story that touches him. It might be the most important film he has directed. I’m very happy about this experience, very enthusiastic, but I will never be an actor again, _Vortex_ will remain a unique experience.
 
-**Alex Lutz on ‘Vortex’**
-
+**Alex Lutz on ‘Vortex’**<br>
 _People might find it surprising to see you in the credits of a Gaspar Noé film._
 
 Really? Tell me why?
@@ -79,40 +76,19 @@ _How did you work with your two partners?_
 
 It was very powerful with Françoise and Dario.
 
-I was familiar with Dario’s films, I liked his language, his accent, in a film where we struggle to talk. And Françoise is an iconic actress. In the script I’m closer to Françoise, while my character has had fights with Dario in the past, a father who has had to scour police stations and clinics for his son… I loved improvising, letting go, I’d love to do only that. But you need a director who isn’t afraid of heating up the camera.
-
+I was familiar with Dario’s films, I liked his language, his accent, in a film where we struggle to talk. And Françoise is an iconic actress. In the script I’m closer to Françoise, while my character has had fights with Dario in the past, a father who has had to scour police stations and clinics for his son… I loved improvising, letting go, I’d love to do only that. But you need a director who isn’t afraid of heating up the camera.<br>
 **Production notes**
 
-  
-
-**VORTEX**
-
-_Directed by:_ Gaspar Noé
-
-_©:_ Rectangle Productions, Wild Bunch International,
-
-Les Cinémas de la Zone, KNM, Artemis Productions, Srab Films, Les Films Velvet, Kallouche Cinéma
-
-_Production Companies/Presented by:_ Rectangle Productions,
-
-Wild Bunch International
-
-_In co-production with:_ Les Cinémas de la Zone, KNM,
-
-Artemis Productions, Srab Films, Les Films Velvet, Kallouche Cinéma
-
+**VORTEX**<br>
+_Directed by:_ Gaspar Noé<br>
+_©:_ Rectangle Productions, Wild Bunch International, Les Cinémas de la Zone, KNM, Artemis Productions, Srab Films, Les Films Velvet, Kallouche Cinéma<br>
+_Production Companies/Presented by:_ Rectangle Productions, Wild Bunch International
+_In co-production with:_ Les Cinémas de la Zone, KNM, Artemis Productions, Srab Films, Les Films Velvet, Kallouche Cinéma
 _With the participation of:_ Canal+, Ciné+
-
 _With the support of:_ Centre National du Cinéma et de l’Image animée
-
 _In co-production with:_ Shelter Prod
-
-_With the support of:_ Taxshelter.Be & Ing,
-
-Tax Shelter du Gouvernement Fédéral de Belgique
-
+_With the support of:_ Taxshelter.Be & Ing, Tax Shelter du Gouvernement Fédéral de Belgique
 _Produced by:_ Edouard Weil, Vincent Maraval,  Brahim Chioua
-
 _Co-produced by:_ Michel Merkt, Gaspar Noé,  Lucile Hadzihalilovic, Patrick Quinet, Frédéric Jouve,Toufik Ayadi, Christophe Barral, Jean-Rachid,
 
 Arnaud Chautard
@@ -228,5 +204,5 @@ Free to view on the BFI YouTube channel from
 New French Extremity**
 Every Tue from 10-31 May 18:30-20:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5MTg3NzUyXX0=
+eyJoaXN0b3J5IjpbLTI0Njc5NTI2OF19
 -->
