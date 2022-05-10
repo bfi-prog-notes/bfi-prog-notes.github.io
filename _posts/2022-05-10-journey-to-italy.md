@@ -1,10 +1,20 @@
+---
+layout: post
+title: Journey to Italy
+published: true
+date: 2022-05-10
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'Italy/France 1954, 86 mins<br> Director: Roberto Rossellini'
+pdf: '2022-05-10-journey-to-italy.pdf'
+---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
 Quite simply, _Journey to Italy_ is a very, very great film. A landmark in many respects. One of those masterpieces which feels as if it’s becoming a little harder to ‘fix’ with each and every viewing. Surely no question, then, that the BFI should revive the film.
 
-No question? Actually, once upon a time there might have been a great many questions. _Journey to Italy_ – aka _Viaggio in Italia_ or _Voyage to Italy_, or even  
-_The Lonely Woman_ or _Strangers_ as it’s sometimes been known (though I’ve never heard it called _The Italian Trip_ or _The Curmudgeonly Man_, which would be almost as appropriate as some of the aforementioned titles) – wasn’t always held in the high esteem it commands today.
+No question? Actually, once upon a time there might have been a great many questions. _Journey to Italy_ – aka _Viaggio in Italia_ or _Voyage to Italy_, or even _The Lonely Woman_ or _Strangers_ as it’s sometimes been known (though I’ve never heard it called _The Italian Trip_ or _The Curmudgeonly Man_, which would be almost as appropriate as some of the aforementioned titles) – wasn’t always held in the high esteem it commands today.
 
 Rossellini first attracted the attention of the world with _Rome, Open City_ (1945) which, like its immediate successors _Paisà_ (1946) and _Germany, Year Zero_ (1947), pretty much conformed to the notion of neorealist films as stories of the everyday lives of the poor and dispossessed – ideally played by non-professionals – simply trying to get by. (This, of course, is a gross simplification of what neorealism was about, but that’s how it’s often described and discussed.)
 
@@ -80,6 +90,52 @@ Adriana Danieli, Mery Martin<br>
 
 Italy/France 1954<br>
 86 mins<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDU5NzcwMV19
--->
+<br>
+
+**BIG SCREEN CLASSICS**<br>
+**A Farewell to Arms**<br>
+Sun 1 May 12:00; Mon 16 May 18:15; Tue 24 May 20:50<br>
+**Sunrise: A Song of Two Humans**<br>
+Mon 2 May 12:20; Mon 30 May 18:20<br>
+**Tokyo Story (Tokyo Monogatari)**<br>
+Tue 3 May 14:30; Sat 7 May 15:00; Sat 21 May 11:10; Wed 25 May 18:00<br>
+**The River**<br>
+Wed 4 May 18:10 + intro by Geoff Andrew, Programmer-at-Large; Sun 15 May 15:10<br>
+**El Sur (The South)**<br>
+Thu 5 May 14:30; Mon 16 May 18:10<br>
+**Daughters of the Dust**<br>
+Fri 6 May 20:50; Fri 20 May 14:40; Thu 26 May 20:40<br>
+**Syndromes and a Century (Sang sattawaat)**<br>
+Sat 7 May 18:10; Thu 12 May 20:50<br>
+**Still Walking (Aruitemo aruitemo)**<br>
+Sun 8 May 15:15; Wed 11 May 17:50 + intro by Dr Alexander Jacoby, Senior Lecturer in Japanese Studies; Mon 23 May 20:45<br>
+**The Long Day Closes**<br>
+Mon 9 May 18:30; Sun 22 May 12:30; Thu 26 May 20:50<br>
+**Journey to Italy (Viaggio in Italia)**<br>
+Tue 10 May 20:50; Thu 19 May 18:10; Wed 25 May 20:50; Fri 27 May 18:20<br>
+**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**<br>
+Fri 13 May 20:45; Tue 17 May 20:50; Sat 28 May 18:15<br>
+**Cleo from 5 to 7 (Cléo de 5 à 7)**<br>
+Sat 14 May 14:45; Wed 18 May 18:10 + intro by Geoff Andrew, Programmer-at-Large<br>
+**The Miracle Worker**<br>
+Tue 17 May 14:30; Sun 29 May 11:20<br>
+**The Incredible Shrinking Man**<br>
+Thu 19 May 14:30; Tue 31 May 18:20<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
