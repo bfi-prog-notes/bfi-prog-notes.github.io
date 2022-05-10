@@ -54,36 +54,32 @@ _Negatives/Positives:_ Tecnostampa (Rome)<br>
 _Incidental Music/Music Conducted by:_ Renzo Rossellini<br>
 _Popular Neapolitan Songs/Themes Sung by:_ Giacomo Rondinella<br>
 _Sound Recording:_ Eraldo Giordani<br>
-_Sound Assistants:_ Venanzio Lisca, Aldo Zanni, Sergio Zega
-_Drivers:_ Pietro Mannetti, Mario Cartocci, Ernesto Cartocci
-_Made at:_ Titanus Studios
+_Sound Assistants:_ Venanzio Lisca, Aldo Zanni, Sergio Zega<br>
+_Drivers:_ Pietro Mannetti, Mario Cartocci, Ernesto Cartocci<br>
+_Made at:_ Titanus Studios<br>
+_uncredited_<br>
+_Story/Screenplay:_ Antonio Pietrangeli<br>
+_Original Story:_ Colette<br>
+_Photography:_ Aldo Tonti, Luciano Trasatti<br>
 
-_uncredited_
-_Story/Screenplay:_ Antonio Pietrangeli
-_Original Story:_ Colette
-_Photography:_ Aldo Tonti, Luciano Trasatti
+**Cast**<br>
+Ingrid Bergman _(Katherine Joyce)_<br>
+George Sanders _(Alex Joyce)_<br>
+Maria Mauban _(Marie Rastelli)_<br>
+Anna Proclemer _(prostitute)_<br>
+Paul Müller _(Paul Dupont)_<br>
+Leslie Daniels _(Leslie Harris, Judy’s housemate)_<br>
+Natalia Ray _(Natalia Burton)_<br>
+Jackie Frost _(Judy)_<br>
+_uncredited_<br>
+Anthony La Penna _(Tony Burton)_<br>
+Lyla Rocco _(Miss Sinibaldi)_<br>
+Lucio Caracciolo, Marcello Caracciolo, Paola Carola _(guest at Duca di Lipoli)_<br>
+Bianca Maria Cerasoli _(Miss Notari)_<br>
+Adriana Danieli, Mery Martin<br>
 
-**Cast**
-Ingrid Bergman _(Katherine Joyce)_
-George Sanders _(Alex Joyce)_
-Maria Mauban _(Marie Rastelli)_
-Anna Proclemer _(prostitute)_
-Paul Müller _(Paul Dupont)_
-Leslie Daniels _(Leslie Harris, Judy’s housemate)_
-Natalia Ray _(Natalia Burton)_
-Jackie Frost _(Judy)_
-
-_uncredited_
-Anthony La Penna _(Tony Burton)_
-Lyla Rocco _(Miss Sinibaldi)_
-Lucio Caracciolo, Marcello Caracciolo,
-Paola Carola _(guest at Duca di Lipoli)_
-Bianca Maria Cerasoli _(Miss Notari)_
-Adriana Danieli, Mery Martin
-
-Italy/France 1954
-
-86 mins
+Italy/France 1954<br>
+86 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjU1NDgyMV19
+eyJoaXN0b3J5IjpbLTUxNDU5NzcwMV19
 -->
