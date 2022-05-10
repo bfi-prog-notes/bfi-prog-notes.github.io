@@ -1,3 +1,14 @@
+---
+layout: post
+title: Vortex + intro
+published: true
+date: 2022-05-10
+readtime: true
+categories: ['PREVIEWS']
+tags: [Drama]
+metadata: 'France/Germany/Belgium 2021, 135 mins<br> Director: Gaspar Noé'
+pdf: '2022-05-10-vortex-+-intro.pdf'
+---
 
 _+ intro by Gaspar Noé_
 
@@ -82,21 +93,21 @@ I was familiar with Dario’s films, I liked his language, his accent, in a film
 **VORTEX**<br>
 _Directed by:_ Gaspar Noé<br>
 _©:_ Rectangle Productions, Wild Bunch International, Les Cinémas de la Zone, KNM, Artemis Productions, Srab Films, Les Films Velvet, Kallouche Cinéma<br>
-_Production Companies/Presented by:_ Rectangle Productions, Wild Bunch International
-_In co-production with:_ Les Cinémas de la Zone, KNM, Artemis Productions, Srab Films, Les Films Velvet, Kallouche Cinéma
-_With the participation of:_ Canal+, Ciné+
-_With the support of:_ Centre National du Cinéma et de l’Image animée
-_In co-production with:_ Shelter Prod
-_With the support of:_ Taxshelter.Be & Ing, Tax Shelter du Gouvernement Fédéral de Belgique
-_Produced by:_ Edouard Weil, Vincent Maraval,  Brahim Chioua
-_Co-produced by:_ Michel Merkt, Gaspar Noé,  Lucile Hadzihalilovic, Patrick Quinet, Frédéric Jouve,Toufik Ayadi, Christophe Barral, Jean-Rachid, Arnaud Chautard
-_Line Producer:_ Serge Catoire
-_1st Assistant Director:_ Claire Corbetta Doll
-_Written by:_ Gaspar Noé
-_Director of Photography:_ Benoît Debie
-_Editors:_ Denis Bedlow,  Gaspar Noé
-_Production Designer:_ Jean Rabasse
-_Costume Designer:_ Corinne Bruand
+_Production Companies/Presented by:_ Rectangle Productions, Wild Bunch International<br>
+_In co-production with:_ Les Cinémas de la Zone, KNM, Artemis Productions, Srab Films, Les Films Velvet, Kallouche Cinéma<br>
+_With the participation of:_ Canal+, Ciné+<br>
+_With the support of:_ Centre National du Cinéma et de l’Image animée<br>
+_In co-production with:_ Shelter Prod<br>
+_With the support of:_ Taxshelter.Be & Ing, Tax Shelter du Gouvernement Fédéral de Belgique<br>
+_Produced by:_ Edouard Weil, Vincent Maraval,  Brahim Chioua<br>
+_Co-produced by:_ Michel Merkt, Gaspar Noé,  Lucile Hadzihalilovic, Patrick Quinet, Frédéric Jouve,Toufik Ayadi, Christophe Barral, Jean-Rachid, Arnaud Chautard<br>
+_Line Producer:_ Serge Catoire<br>
+_1st Assistant Director:_ Claire Corbetta Doll<br>
+_Written by:_ Gaspar Noé<br>
+_Director of Photography:_ Benoît Debie<br>
+_Editors:_ Denis Bedlow,  Gaspar Noé<br>
+_Production Designer:_ Jean Rabasse<br>
+_Costume Designer:_ Corinne Bruand<br>
 _Sound:_ Ken Yasumoto<br>
 
 **Cast**<br>
@@ -159,6 +170,21 @@ Free to view on the BFI YouTube channel from
 **BFI Courses: City Lit at the BFI:  
 New French Extremity**<br>
 Every Tue from 10-31 May 18:30-20:30<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTAyNzE0OTJdfQ==
--->
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
