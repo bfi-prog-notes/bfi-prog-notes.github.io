@@ -89,74 +89,45 @@ _With the support of:_ Centre National du Cinéma et de l’Image animée
 _In co-production with:_ Shelter Prod
 _With the support of:_ Taxshelter.Be & Ing, Tax Shelter du Gouvernement Fédéral de Belgique
 _Produced by:_ Edouard Weil, Vincent Maraval,  Brahim Chioua
-_Co-produced by:_ Michel Merkt, Gaspar Noé,  Lucile Hadzihalilovic, Patrick Quinet, Frédéric Jouve,Toufik Ayadi, Christophe Barral, Jean-Rachid,
-
-Arnaud Chautard
-
+_Co-produced by:_ Michel Merkt, Gaspar Noé,  Lucile Hadzihalilovic, Patrick Quinet, Frédéric Jouve,Toufik Ayadi, Christophe Barral, Jean-Rachid, Arnaud Chautard
 _Line Producer:_ Serge Catoire
-
 _1st Assistant Director:_ Claire Corbetta Doll
-
 _Written by:_ Gaspar Noé
-
 _Director of Photography:_ Benoît Debie
-
 _Editors:_ Denis Bedlow,  Gaspar Noé
-
 _Production Designer:_ Jean Rabasse
-
 _Costume Designer:_ Corinne Bruand
+_Sound:_ Ken Yasumoto<br>
 
-_Sound:_ Ken Yasumoto
+**Cast**<br>
+Françoise Lebrun (mother)<br>
+Dario Argento (father)<br>
+Alex Lutz (son)<br>
+Kylian Dheret (Kiki, grandson)<br>
 
-**Cast**
+France/Germany/Belgium 2021<br>
+135 mins<br>
 
-Françoise Lebrun (mother)
+A Picturehouse release<br>
 
-Dario Argento (father)
-
-Alex Lutz (son)
-
-Kylian Dheret (Kiki, grandson)
-
-France/Germany/Belgium 2021
-
-135 mins
-
-A Picturehouse release
-
-**FOCUS ON: GASPAR NOÉ**
-
-**Gaspar Noé in Conversation  
-**Tue 10 May 21:00**  
-Gaspar Noé’s Mixtape + Q&A with Gaspar Noé**
-
-Thu 12 May 18:00
-
-**Lux Æterna**
-
-Fri 20 May 18:40; Mon 23 May 18:40
-
-**I Stand Alone (Seul contre tous)**
-
-Fri 20 May 20:40
-
-**Enter the Void**
-
-Sat 21 May 20:00
-
-**Love (3D)**
-
-Mon 23 May 20:20
-
-**Climax**
-
+**FOCUS ON: GASPAR NOÉ**<br>
+**Gaspar Noé in Conversation**
+Tue 10 May 21:00<br>
+**Gaspar Noé’s Mixtape + Q&A with Gaspar Noé**<br>
+Thu 12 May 18:00<br>
+**Lux Æterna**<br>
+Fri 20 May 18:40; Mon 23 May 18:40<br>
+**I Stand Alone (Seul contre tous)**<br>
+Fri 20 May 20:40<br>
+**Enter the Void**<br>
+Sat 21 May 20:00<br>
+**Love (3D)**<br>
+Mon 23 May 20:20<br>
+**Climax**<br>
 Fri 27 May 18:15; Mon 30 May 20:50 + extended intro by season programmer Anna Bogutskaya
 
 **CRUEL FLESH**
-
-**FILMS OF THE NEW FRENCH EXTREMITY**
-
+**FILMS OF THE NEW FRENCH EXTREMITY**<br>
 **Carne + La Bouche de Jean-Pierre**
 
 Thu 12 May 20:45 (+ Q&A with Lucile Hadžihalilovic)
@@ -204,5 +175,5 @@ Free to view on the BFI YouTube channel from
 New French Extremity**
 Every Tue from 10-31 May 18:30-20:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Njc5NTI2OF19
+eyJoaXN0b3J5IjpbMTIzNDMwMDQwMl19
 -->
