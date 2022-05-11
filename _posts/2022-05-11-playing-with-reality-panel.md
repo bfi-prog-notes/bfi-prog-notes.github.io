@@ -1,7 +1,4 @@
 
-
-<![endif]-->
-
 _+ panel discussion_
 
 Co-curated by ANAGRAM and Mind in Camden
@@ -20,8 +17,7 @@ In this context, stories that allow people to portray their experiences in their
 
 The films that will be included are listed below. In keeping with the efforts to bring the voices of the creators themselves into the room each director has offered a statement for the work.
 
-**Inside**
-
+**Inside**<br>
 Dir. Dolly Sen (UK, 2021), 7 minutes
 
 _Inside_ is the 2nd film in a trilogy I want to make on the experience of psychosis. The first film _Outside_ is about the subjective sensory experience of psychosis. The second film _Inside_ is looking at the relationship between voices and voice hearer. I’ve heard voices since I was 14. Life only got easier when I realised I needed to develop a better relationship with them. At first, I tried to run from them. Then I grasped that my voices are the sanest part of me. The madness is not understanding their pain, which is really my dissociated pain. I also added another layer to the story by adding racism as trauma in the film. None of the actors has experienced psychosis, but they have brought humanity to it. This film is basically about finding your own voice in a wilderness of voices.
@@ -70,5 +66,5 @@ With thanks to Mara Fortes, Fiona Malpass, Peter Byrne for their support in film
 
 **Goliath: Playing with Reality**  (Dir: Barry Gene Murphy, May Abdalla, UK/France 2021) is at the BFI from 9th - 16th May. Bookings can be made online or in person at the box office.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcwNTc2MTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNDIwMjQ1MzVdfQ==
 -->
