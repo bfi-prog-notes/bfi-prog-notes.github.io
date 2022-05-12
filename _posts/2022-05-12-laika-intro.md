@@ -20,36 +20,33 @@ When VR first emerged, many filmmakers were suspicious of the new medium, with e
 **Rebecca Harrison, _Sight & Sound_, December 2021**<br>
 
 **LAIKA**<br>
-_Director:_ Asif Kapadia,
-_Production Companies:_ Passion Pictures, Sheep Thief Films,
-_In association with:_ Film4,
-_In partnership with:_ StoryFutures Academy,
-_Executive Producers:_ Katie Grayson, Debbie Crosscup, Andrew Ruhemann
+_Director:_ Asif Kapadia<br>
+_Production Companies:_ Passion Pictures, Sheep Thief Films<br>
+_In association with:_ Film4<br>
+_In partnership with:_ StoryFutures Academy<br>
+_Executive Producers:_ Katie Grayson, Debbie Crosscup, Andrew Ruhemann<br>
 _Produced by:_ Asif Kapadia, Jack Arbuthnott,
-Rebecca Gregory-Clarke,
-_Technologist:_ Johnny1 Johnson,
-_Written by:_ Nick Abadzis,
-_Based on the graphic novel by:_ Nick Abadzis,
-_Director of Photography:_ Roman Osin
+Rebecca Gregory-Clarke<br>
+_Technologist:_ Johnny1 Johnson<br>
+_Written by:_ Nick Abadzis<br>
+_Based on the graphic novel by:_ Nick Abadzis<br>
+_Director of Photography:_ Roman Osin<br>
 
-**Voice cast**
-Sophie Okonedo
-Tobias Menzies
+**Voice cast**<br>
+Sophie Okonedo<br>
+Tobias Menzies<br>
 
-UK 2021
-15 mins
+UK 2021<br>
+15 mins<br>
 
-Courtesy of Passion Pictures and Sheep Thief Films
+Courtesy of Passion Pictures and Sheep Thief Films<br>
 
-**BFI EXPANDED: MENTAL HEALTH AWARENESS WEEK**
+**BFI EXPANDED: MENTAL HEALTH AWARENESS WEEK**<br>
 
-**UK Premiere: GOLIATH – Playing with Reality: A Virtual Reality Installation**
-
-9-15 May Daily 14:00-21:00
-
-**Laika + Q&A with Asif Kapadia at both screenings**
-
-Thu 12 May 16:00 & 19:15
+**UK Premiere: GOLIATH – Playing with Reality: A Virtual Reality Installation**<br>
+9-15 May Daily 14:00-21:00<br>
+**Laika + Q&A with Asif Kapadia at both screenings**<br>
+Thu 12 May 16:00 & 19:15<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExODQwNDA4XX0=
+eyJoaXN0b3J5IjpbLTM4OTcyNzkxMl19
 -->
