@@ -21,7 +21,7 @@ Hoping for anonymity and self-sufficiency, Hana moves to the countryside and a h
 
 What younger viewers will make of the second half of the film, with its long scenes of potato-planting and pre-adolescent angst, is difficult to guess, but it’s hard to imagine any viewer not being utterly delighted by the family’s first encounter with snow. Hana’s back-to-the-land plan resonates with the eco-conscious cinema of Studio Ghibli, while Yuki’s first crush and the separation of the siblings is reminiscent of the ethical and emotional conundrums of  
 _The Girl Who Leapt through Time_. _Wolf Children_ is a more coherent film than Hosoda’s previous work, but equally unusual in its ambition to tell a big, complex story.  
-So Mayer, bfi.org.uk
+**So Mayer, bfi.org.uk**
 
 Mamoru Hosoda’s focus on mundane, everyday existence continues in _Wolf Children_, one of anime’s most powerful films about motherhood. Even the initial romance between protagonist Hana and the werewolf father of her children (who remains unnamed) begins under pretty normal circumstances: the pair are university students who, after a brief meet-cute, fall in love.
 
@@ -30,17 +30,13 @@ _Wolf Children_ is both familiar and truly empathetic in its depictions of Hana�
 It’s also about his own mother, who, like Hana, raised him as a single parent. Even the farming town it takes place in is based on his childhood home.  
 The dynamics between parent and child, and between siblings, take precedence here, the children each discovering their own identities and struggling with their place in the world.
 
-Hana isn’t a perfect mother. She’s perhaps overprotective, and unable to fully help Ame and Yuki understand their dual identity. But Hosoda’s empathy with those flaws – and his understanding of the pride and pain of inevitable separation as they move on with their lives – truly packs a punch.
+Hana isn’t a perfect mother. She’s perhaps overprotective, and unable to fully help Ame and Yuki understand their dual identity. But Hosoda’s empathy with those flaws – and his understanding of the pride and pain of inevitable separation as they move on with their lives – truly packs a punch.  
+**Kambole Campbell, bfi.org.uk**
+<br><br>
 
-Kambole Campbell, bfi.org.uk
-
-<![endif]-->
-
-**WOLF CHILDREN (ÔKAMI KODOMO NO AME TO YUKI)**
-
+**WOLF CHILDREN<br>(ÔKAMI KODOMO NO AME TO YUKI)**  
 _Director_: Mamoru Hosoda  
-_Production Companies_: Studio Chizu,  
-Madhouse Studios  
+_Production Companies_: Studio Chizu,  Madhouse Studios  
 _Executive Producer_: Seiji Okuda  
 _Producers_: Takafumi Watanabe, Takuya Ito, Yuichiro Saito  
 _Screenplay_: Mamoru Hosoda, Satoko Okudera  
@@ -50,8 +46,7 @@ _Art Director_: Hiroshi Ohno
 _Character Designer_: Yoshiyuki Sadamoto  
 _Music_: Takagi Masakatsu
 
-_Cast:_
-
+**Cast**  
 Aoi Miyazaki _(voice of Hana)_  
 Takao Osawa _(voice of Ookami, Wolf Man)_  
 Yukito Nishii _(voice of young Ame)_  
@@ -61,9 +56,9 @@ Haru Kuroki _(voice of young Yuki)_
 Amon Kabe _(voice of Ame)_  
 Takashi Kobayashi _(voice of Grandpa Nira)_
 
-Japan 2012
-
-117 mins
+Japan 2012  
+117 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTk0OTk4NV19
+eyJoaXN0b3J5IjpbLTEwNTg2MTQ0MzhdfQ==
 -->
