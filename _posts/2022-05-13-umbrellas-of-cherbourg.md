@@ -21,16 +21,10 @@ _The Umbrellas of Cherbourg_ is, in fact, the slighter kind of dream from which 
 
 In keeping with the film’s technically brilliant air of artificiality are the actors’ faces, never for a moment reflecting the effort of making this kind of noise, and yet creating an effect that would not survive a split second of imperfect post-synchronisation.
 
-Most exciting of all is perhaps the fact that on turning from the music to the very Parisian colour, one finds exactly the same language being spoken. Visually this is a world where pink and brick red come together without actually screaming; where a girl can wear a dress in blue with a mauve floral design to match the wallpaper exactly; where the purchase of a black umbrella, interrupting an early farewell between the lovers, seems not without dramatic significance. In short, the aural and visual tones created by Demy, Legrand and Bernard Evein, are at the same time complementary to each other and abrasively alive enough to carry off the film.
+Most exciting of all is perhaps the fact that on turning from the music to the very Parisian colour, one finds exactly the same language being spoken. Visually this is a world where pink and brick red come together without actually screaming; where a girl can wear a dress in blue with a mauve floral design to match the wallpaper exactly; where the purchase of a black umbrella, interrupting an early farewell between the lovers, seems not without dramatic significance. In short, the aural and visual tones created by Demy, Legrand and Bernard Evein, are at the same time complementary to each other and abrasively alive enough to carry off the film.  
+**_Monthly Film Bulletin_, February 1965**  
 
-**_Monthly Film Bulletin_****, February 1965**
-
-  
-
-**THE UMBRELLAS OF CHERBOURG**
-
-**(LES PARAPLUIES DE CHERBOURG)**
-
+**THE UMBRELLAS OF CHERBOURG (LES PARAPLUIES DE CHERBOURG)**  
 _Director:_ Jacques Demy  
 _Production Companies:_ Parc Film, Madeleine Films, Beta Film  
 _Producer:_ Mag Bodard  
@@ -58,14 +52,9 @@ _Umbrellas:_ ONM
 _Make-up:_ Christiane Fornelli  
 _Hairstyles:_ Carita  
 _Music/Music Conductor:_ Michel Legrand  
-_Lyrics:_ Jacques Demy
+_Lyrics:_ Jacques Demy  
 
-  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
-
-**Cast**
-
+**Cast**  
 Catherine Deneuve _(Geneviève Emery)_  
 Nino Castelnuovo _(Guy Foucher)_  
 Anne Vernon _(Madame Emery)_  
@@ -94,16 +83,13 @@ Paul Pavel _(first removal man)_ *
 Gisèle Grandpré _(Madame Germaine)_ *  
 Rosalie Varda _(Françoise Cassard)_ *  
 François Foucher _(Hervé Legrand)_ *  
-Michel Legrand _(singing voice of Jean/postman)_ *
-
-Jacques Demy _(singing voice of distracted customer/barman)_ *
-
+Michel Legrand _(singing voice of Jean/postman)_ *  
+Jacques Demy _(singing voice of distracted customer/barman)_ *  
   
-France/West Germany 1964
+France/West Germany 1964  
+93 mins  
 
-93 mins
-
-* Uncredited
+\* Uncredited  
 
 **BIG SCREEN CLASSICS**
 **The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**
@@ -133,5 +119,5 @@ Mon 23 May 20:45
 **Sunrise: A Song of Two Humans**
 Mon 30 May 18:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzU1OTg5NF19
+eyJoaXN0b3J5IjpbLTE2MTczNzkzMF19
 -->
