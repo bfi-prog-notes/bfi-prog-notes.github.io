@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Gergory's Girl
+title: Gregory's Girl
 published: true
 date: 2022-05-16
 readtime: true
-categories: ['SENIOR']
+categories: ['SENIORS']
 tags: [Comedy, Romance]
 metadata: 'UK 1980, 91 mins<br> Director: Bill Forsyth'
 pdf: '2022-05-16-gregorys-girl.pdf'
