@@ -1,3 +1,14 @@
+---
+layout: post
+title: Little Miss Sunshine
+published: true
+date: 2022-05-17
+readtime: true
+categories: ['MEMBER PICKS']
+tags: [Comedy]
+metadata: 'USA 2006, 102 mins<br> Directors: Jonathan Dayton, Valerie Faris'
+pdf: '2022-05-17-little-miss-sunshine.pdf'
+---
 
 ‘This is one of the first films I remember watching... It’s full of heart, deliriously funny, and the cast is superb’.<br>
 **Claire Cho, BFI member**<br>
@@ -108,9 +119,7 @@ Matt Winston _(pageant MC)_
 Joan Scheckel _(judge)_  
 Casandra Ashe _(girl in hallway)_  
 Mel Rodriguez _(Officer Martinez)_  
-Alexandria Alaman, Alissa Anderegg, Brittany Baird,  
-Cambria Baird, Brenae Bandy, Kristen Holaas,  
-Maliah Hudson, Destry Jacobs, Lindsey Jordan,  
+Alexandria Alaman, Alissa Anderegg, Brittany Baird, Cambria Baird, Brenae Bandy, Kristen Holaas, Maliah Hudson, Destry Jacobs, Lindsey Jordan,  
 Shane Murphy, Annabelle Roberts, Sydni Stevenson-Love, Nicole Stoehr, Lauren Yee _(pageant contestants)_
 
 USA 2006<br>
@@ -137,10 +146,24 @@ From 22 April<br>
 From 29 April<br>
 **The Velvet Queen: Snow Leopard**<br>
 From 6 May<br>
-**Vortex  **<br>
+**Vortex**<br>
 From Fri 13 May<br>
 **The Quiet Girl**<br>
 From Sat 21 May<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODMxMDIzOV19
--->
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
