@@ -14,17 +14,14 @@ The most pertinent and challenging comic theme is that of society’s attitude t
 The subversive, anti-glamour stance is supported by the grainy look and wobbly shots of the cinematography, which mimics the appearance of documentary footage – perhaps no great surprise from a directing team known for their music documentaries. _Little Miss Sunshine_ is unmistakably an indie comedy, but with its accessible humour and universal themes, it’s one that surpasses many of its Hollywood contemporaries and deserves to be a cult hit.<br>
 **Anna Smith, _Sight & Sound_, October 2006**<br>
 
-**LITTLE MISS SUNSHINE**
-
+**LITTLE MISS SUNSHINE**<br>
 _Directed by_: Jonathan Dayton, Valerie Faris  
 _©_: Twentieth Century Fox Film Corporation  
 _Production Companies_: Big Beach Productions, Bona Fide Productions  
 _Presented by_: Fox Searchlight Pictures  
 _Presented in association with_: Big Beach Productions  
 _Executive Producers_: Jeb Brody, Michael Beugg  
-_Produced by_: Albert Berger, Ron Yerxa, Marc Turtletaub,
-
-David T. Friendly, Peter Saraf  
+_Produced by_: Albert Berger, Ron Yerxa, Marc Turtletaub, David T. Friendly, Peter Saraf  
 _Associate Producer_: Bart Lipton  
 _Big Beach Production Executive_: Sara Pollack  
 _Big Beach Finance Executive_: Jennifer Freed  
@@ -118,6 +115,34 @@ Shane Murphy, Annabelle Roberts, Sydni Stevenson-Love, Nicole Stoehr, Lauren Yee
 
 USA 2006<br>
 102 mins<br>
+
+**REGULAR PROGRAMME**
+
+**Experimenta: Lensing the Landscape: River Yar + discussion with artists William Raban and Chris Welsby**
+
+Wed 18 May 18:15
+**Terror Vision: Ms .45 (AKA Angel of Vengeance)**
+Fri 27 May 18:30
+**Relaxed Screening: Frequencies (AKA OXV: The Manual) + intro and discussion**
+Mon 30 May 18:10
+**Projecting the Archive: Idol of Paris + intro by Josephine Botting, BFI Curator**
+Tue 31 May 18:15
+
+**NEW RELEASES**
+**The Northman**
+From 22 April
+**Ennio**
+From 22 April
+**Firebird**
+From 22 April
+**We’re All Going to the World’s Fair**
+From 29 April
+**The Velvet Queen: Snow Leopard**
+From 6 May
+**Vortex  **
+From Fri 13 May
+**The Quiet Girl**
+From Sat 21 May
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE0MDQ4NV19
+eyJoaXN0b3J5IjpbLTk3MTIzODQ1M119
 -->
