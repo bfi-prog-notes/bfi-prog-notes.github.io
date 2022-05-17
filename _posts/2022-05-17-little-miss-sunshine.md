@@ -116,33 +116,31 @@ Shane Murphy, Annabelle Roberts, Sydni Stevenson-Love, Nicole Stoehr, Lauren Yee
 USA 2006<br>
 102 mins<br>
 
-**REGULAR PROGRAMME**
+**REGULAR PROGRAMME**<br>
+**Experimenta: Lensing the Landscape: River Yar + discussion with artists William Raban and Chris Welsby**<br>
+Wed 18 May 18:15<br>
+**Terror Vision: Ms .45 (AKA Angel of Vengeance)**<br>
+Fri 27 May 18:30<br>
+**Relaxed Screening: Frequencies (AKA OXV: The Manual) + intro and discussion**<br>
+Mon 30 May 18:10<br>
+**Projecting the Archive: Idol of Paris + intro by Josephine Botting, BFI Curator**<br>
+Tue 31 May 18:15<br>
 
-**Experimenta: Lensing the Landscape: River Yar + discussion with artists William Raban and Chris Welsby**
-
-Wed 18 May 18:15
-**Terror Vision: Ms .45 (AKA Angel of Vengeance)**
-Fri 27 May 18:30
-**Relaxed Screening: Frequencies (AKA OXV: The Manual) + intro and discussion**
-Mon 30 May 18:10
-**Projecting the Archive: Idol of Paris + intro by Josephine Botting, BFI Curator**
-Tue 31 May 18:15
-
-**NEW RELEASES**
-**The Northman**
-From 22 April
-**Ennio**
-From 22 April
-**Firebird**
-From 22 April
-**We’re All Going to the World’s Fair**
-From 29 April
-**The Velvet Queen: Snow Leopard**
-From 6 May
-**Vortex  **
-From Fri 13 May
-**The Quiet Girl**
-From Sat 21 May
+**NEW RELEASES**<br>
+**The Northman**<br>
+From 22 April<br>
+**Ennio**<br>
+From 22 April<br>
+**Firebird**<br>
+From 22 April<br>
+**We’re All Going to the World’s Fair**<br>
+From 29 April<br>
+**The Velvet Queen: Snow Leopard**<br>
+From 6 May<br>
+**Vortex  **<br>
+From Fri 13 May<br>
+**The Quiet Girl**<br>
+From Sat 21 May<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTIzODQ1M119
+eyJoaXN0b3J5IjpbMTg4ODMxMDIzOV19
 -->
