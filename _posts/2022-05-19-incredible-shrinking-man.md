@@ -64,41 +64,40 @@ _Sound Editors:_ George Ohanian, Bob Hirsch<br>
 Grant Williams _(Scott Carey)_<br>
 Randy Stuart _(Louise Carey)_<br>
 April Kent _(Clarice)_<br>
-Paul Langton _(Charlie Carey)_
-Raymond Bailey _(Doctor Thomas Silver)_
-William Schallert _(Doctor Arthur Bramson)_
-Frank Scannell _(barker)_
-Helene Marshall _(nurse)_
-Diana Darrin _(nurse)_
-Billy Curtis _(midget)_
+Paul Langton _(Charlie Carey)_<br>
+Raymond Bailey _(Doctor Thomas Silver)_<br>
+William Schallert _(Doctor Arthur Bramson)_<br>
+Frank Scannell _(barker)_<br>
+Helene Marshall, Diana Darrin _(nurses)_<br>
+Billy Curtis _(midget)_<br>
 
-_uncredited_
-Luce Potter _(Violet)_
+_uncredited_<br>
+Luce Potter _(Violet)_<br>
 
-USA 1957©
-92 mins
+USA 1957©<br>
+92 mins<br>
 
-**BIG SCREEN CLASSICS**
-**The Incredible Shrinking Man**
-Thu 19 May 14:30; Tue 31 May 18:20
-**Journey to Italy (Viaggio in Italia)**
-Thu 19 May 18:10; Wed 25 May 20:50; Fri 27 May 18:20
-**Daughters of the Dust**
-Fri 20 May 14:40; Thu 26 May 20:40
-**Tokyo Story (Tokyo Monogatari)**
-Sat 21 May 11:10; Wed 25 May 18:00
-**The Long Day Closes**
-Sun 22 May 12:30; Thu 26 May 20:50
-**Still Walking (Aruitemo aruitemo)**
-Mon 23 May 20:45
-**A Farewell to Arms**
-Tue 24 May 20:50
-**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**
-Sat 28 May 18:15
-**The Miracle Worker**
-Sun 29 May 11:20
-**Sunrise: A Song of Two Humans**
-Mon 30 May 18:20
+**BIG SCREEN CLASSICS**<br>
+**The Incredible Shrinking Man**<br>
+Thu 19 May 14:30; Tue 31 May 18:20<br>
+**Journey to Italy (Viaggio in Italia)**<br>
+Thu 19 May 18:10; Wed 25 May 20:50; Fri 27 May 18:20<br>
+**Daughters of the Dust**<br>
+Fri 20 May 14:40; Thu 26 May 20:40<br>
+**Tokyo Story (Tokyo Monogatari)**<br>
+Sat 21 May 11:10; Wed 25 May 18:00<br>
+**The Long Day Closes**<br>
+Sun 22 May 12:30; Thu 26 May 20:50<br>
+**Still Walking (Aruitemo aruitemo)**<br>
+Mon 23 May 20:45<br>
+**A Farewell to Arms**<br>
+Tue 24 May 20:50<br>
+**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**<br>
+Sat 28 May 18:15<br>
+**The Miracle Worker**<br>
+Sun 29 May 11:20<br>
+**Sunrise: A Song of Two Humans**<br>
+Mon 30 May 18:20<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDAwNjA3NF19
+eyJoaXN0b3J5IjpbLTEwMDQzOTEwNTddfQ==
 -->
