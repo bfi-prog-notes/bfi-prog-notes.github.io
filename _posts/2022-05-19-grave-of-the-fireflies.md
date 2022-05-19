@@ -22,53 +22,40 @@ Reviews, Japanese and otherwise, tend to focus on the film’s capacity to move 
 <br><br>
 
 **GRAVE OF THE FIREFLIES (HOTARU NO HAKA)**<br>
-
 _Director_: Isao Takahata  
 _Production Company_: Shinchosha  
 _Executive Producer_: Ryoichi Sato<br>
-
 _Producer:_ Toru Hara<br>
-
 _Unit Production Managers:_ Atsushi Kamimura, Kazuyoshi Tanaka<br>
-
 _Assistant Director:_ Norihiko Sudo  
 _Screenplay_: Isao Takahata<br>
-
 _Based on the novel by:_ Akiyuki Nosaka  
-_Director of Photography_: Nobuo Koyama
+_Director of Photography_: Nobuo Koyama<br>
+_Camera Operators:_ Masashi Abe, Akitaro Daichi, Shinji Ito, Atsushi Kageyama, Tsuguo Ozawa, Naoyuki Taniguchi<br>
+_Editor:_ Takeshi Seyama<br>
+_Special Effects:_ Kunji Tanifuji<br>
+_Animation Director:_ Yoshifumi Kondo<br>
+_Key Animator:_ Kitaro Kosaka<br>
+_Art Director:_ Nizou Yamamoto<br>
+_Music:_ Michio Mamiya<br>
+_Sound Designer:_ Yasuo Uragami<br>
+_Sound Mixer:_ Hisanori Oshiro<br>
 
-_Camera Operators:_ Masashi Abe, Akitaro Daichi, Shinji Ito, Atsushi Kageyama, Tsuguo Ozawa, Naoyuki Taniguchi
-
-_Editor:_ Takeshi Seyama
-
-_Special Effects:_ Kunji Tanifuji
-
-_Animation Director:_ Yoshifumi Kondo
-
-_Key Animator:_ Kitaro Kosaka
-
-_Art Director:_ Nizou Yamamoto
-
-_Music:_ Michio Mamiya
-
-_Sound Designer:_ Yasuo Uragami
-
-_Sound Mixer:_ Hisanori Oshiro
-
-_Voice Cast:_
-
+**Voice Cast**<br>
 Ayano Shiraishi _(Setsuko)_  
-Tsutomu Tatsumi _(Seita)_
+Tsutomu Tatsumi _(Seita)_<br>
+Yoshiko Shinohara _(mother)_<br>
+Akemi Yamaguchi _(aunt)_<br>
 
-Yoshiko Shinohara _(mother)_
-
-Akemi Yamaguchi _(aunt)_
-
-Japan 1988
-
+Japan 1988<br>
 89 mins
 
-The screening on Thu 19 May will be introduced by Alex Dudok de Wit, author of _BFI Film Classics: Grave of the Fireflies_
+The screening on Thu 19 May will be introduced by Alex Dudok de Wit, author of _BFI Film Classics: Grave of the Fireflies_<br>
+<br>
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTQ0MDQxM119
+eyJoaXN0b3J5IjpbMTc3NDMxOTM1M119
 -->
