@@ -1,9 +1,18 @@
-
+---
+layout: post
+title: Grave of the Fireflies
+published: true
+date: 2022-05-19
+readtime: true
+categories: ['ANIME']
+tags: [Animation]
+metadata: 'Japan 1988, 89 mins<br> Director: Isao Takahata'
+pdf: '2022-05-19-grave-of-the-fireflies.pdf'
+---
 
 In March 1945, as the Pacific War entered its endgame, the United States launched a concerted campaign to destroy Japan’s cities with fire. The stated aim was to cripple the country’s industrial base; in practice, civilians were indiscriminately attacked. Urban Japan, dense with wood and paper, proved highly vulnerable to incendiary bombs. By the war’s end on 15 August, almost all cities of appreciable size lay in ruins.
 
-On 5 June, incendiaries fell on the eastern part of Kobe, the country’s main overseas port. In the ensuing chaos, 14-year-old Akiyuki Nosaka fled his burning home alone. Later that day, at a makeshift hospital, he found his  
-16-month-old adoptive sister and mother, who was severely burned; his father was never seen again. While their mother recovered, Nosaka and his sister drifted between refuges: first a relative’s home near Kobe, then a bomb shelter, and finally an acquaintance’s house in a different province. Malnutrition stalked them throughout, eventually taking the little girl’s life on 21 August.
+On 5 June, incendiaries fell on the eastern part of Kobe, the country’s main overseas port. In the ensuing chaos, 14-year-old Akiyuki Nosaka fled his burning home alone. Later that day, at a makeshift hospital, he found his  16-month-old adoptive sister and mother, who was severely burned; his father was never seen again. While their mother recovered, Nosaka and his sister drifted between refuges: first a relative’s home near Kobe, then a bomb shelter, and finally an acquaintance’s house in a different province. Malnutrition stalked them throughout, eventually taking the little girl’s life on 21 August.
 
 Nosaka survived to become one of postwar Japan’s most original writers, but the traumas of these months lived on with him, resurfacing time and again in his work. He revisited this period in his best-known story, the novella _Grave of the Fireflies_ (1967).
 
@@ -53,7 +62,51 @@ Japan 1988<br>
 The screening on Thu 19 May will be introduced by Alex Dudok de Wit, author of _BFI Film Classics: Grave of the Fireflies_<br>
 <br>
 
+_Grave of the Fireflies_ by Alex Dudok de Wit is available to buy from the BFI Shop: **https://shop.bfi.org.uk/grave-of-the-fireflies-bfi-film-classics-paperback.html**
 
+<img style="float: left;" src="/img/grave-fireflies-bfi-classics.jpg" width="40%" height="40%"><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+**ANIME CLASSICS PART 2**<br>
+**Tekkonkinkreet (Tekkon kinkurîto)**<br>
+Sun 1 May 12:10; Thu 5 May 20:50<br>
+**The Tale of The Princess Kaguya (Kaguya-hime no Monogatari)**<br>
+Tue 3 May 14:00; Tue 3 May 17:30 (all BFI IMAX)<br>
+**Akira**<br>
+Tue 3 May 20:30; Mon 23 May 15:00; Mon 23 May 20:30 (all BFI IMAX)<br>
+**Lupin the 3rd: The Castle of Cagliostro (Kariosutoro no Shiro)**<br>
+Wed 4 May 14:30; Tue 31 May 20:45<br> 
+**Fullmetal Alchemist the Movie: Conqueror of Shamballa (Gekijô-ban Hagane no Renkinjutsushi: Shanbara o Yuku Mono)**<br>
+Fri 6 May 21:00; Mon 9 May 20:40<br> 
+**Memories (Memorîzu)**<br>
+Sun 15 May 12:00; Tue 24 May 20:40<br>
+**Grave of the Fireflies (Hotaru no Haka)**<br> 
+Thu 19 May 18:00 + intro by Alex Dudok de Wit, author of BFI Film Classics: Grave of the Fireflies; Fri 27 May 20:45<br>
+<br>
+
+This season was co-programmed by writer and academic Hanako Miyata<br>
+
+<img style="float: left;" src="/img/japan-nakama.png" width="30%" height="30%">
+<br><br><br><br><br>
+
+**Japan Nakama is an online community for Japanese culture enthusiasts and a marketplace for Japan-made and inspired products.**<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 
 <!--stackedit_data:
