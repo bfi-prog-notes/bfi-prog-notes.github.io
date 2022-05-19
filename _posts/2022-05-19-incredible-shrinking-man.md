@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Incredible Shrinking Man
+published: true
+date: 2022-05-19
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Sci-Fi]
+metadata: 'USA 1957, 92 mins<br> Director: Jack Arnold'
+pdf: '2022-05-19-incredible-shrinking-man.pdf'
+---
 
 A landmark sci-fi classic with a superb script by Richard Matheson, this examines the protagonist’s changing relationship with his wife and his immediate environment when he starts diminishing in size following a strange, perhaps radioactive incident. Imaginative and gripping as a thriller, the film is also philosophically insightful and incisive as a pulp-fuelled meditation on questions of humanity and existence.<br>
 **bfi.org.uk**<br>
