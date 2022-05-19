@@ -1,19 +1,15 @@
 
-<![endif]-->
 
-A landmark sci-fi classic with a superb script by Richard Matheson, this examines the protagonist’s changing relationship with his wife and his immediate environment when he starts diminishing in size following a strange, perhaps radioactive incident. Imaginative and gripping as a thriller, the film is also philosophically insightful and incisive as a pulp-fuelled meditation on questions of humanity and existence.
+A landmark sci-fi classic with a superb script by Richard Matheson, this examines the protagonist’s changing relationship with his wife and his immediate environment when he starts diminishing in size following a strange, perhaps radioactive incident. Imaginative and gripping as a thriller, the film is also philosophically insightful and incisive as a pulp-fuelled meditation on questions of humanity and existence.<br>
+**bfi.org.uk**<br>
 
-**bfi.org.uk**
-
-**A contemporary review**
-
+**A contemporary review**<br>
 Neatly adapted from his own novel by Richard Matheson, this horrifying story grips the imagination throughout. A great deal of the trick photography is successful, though inevitably the early stages, while Carey is still three feet or more, prove the most difficult: his height seems to vary, nor is his relationship with his wife and doctors particularly convincing. The biggest error is the casting of a pretty and utterly normal-looking blonde in the part of the midget, Clarice.
 
 But once Carey is left to his own devices, struggling for survival in the wastelands of the cellar, sleeping in a match-box, fashioning weapons from pins and cotton, desperately attempting to forage food from a mousetrap liable to snap him in two at the slightest miscalculation – then the story takes on a significance not unlike that of Buñuel’s _Robinson Crusoe_. The battle with the spider is handled with such breathless assurance in the early stages, that one bitterly regrets being denied the climax for some reason the _coup de grace_ has been cut.
 
-Straightforward, macabre, and as startlingly original as a vintage Ray Bradbury short story, this remarkable film – for all its peaceful and resigned conclusion –opens up new vistas of cosmic terror. Jack Arnold’s characteristically blunt and melancholy style of direction is here perfectly attuned to and in sympathy with the story’s implications. And Grant Williams, slim, wiry and mousy-haired, brings a puzzled anonymity to the part of the hapless Carey which is notably effective.
-
-**_Monthly Film Bulletin_****, July 1957**
+Straightforward, macabre, and as startlingly original as a vintage Ray Bradbury short story, this remarkable film – for all its peaceful and resigned conclusion –opens up new vistas of cosmic terror. Jack Arnold’s characteristically blunt and melancholy style of direction is here perfectly attuned to and in sympathy with the story’s implications. And Grant Williams, slim, wiry and mousy-haired, brings a puzzled anonymity to the part of the hapless Carey which is notably effective.<br>
+**_Monthly Film Bulletin_, July 1957**
 
   
 
@@ -189,5 +185,5 @@ Sun 29 May 11:20
 
 Mon 30 May 18:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ1MzgxMjNdfQ==
+eyJoaXN0b3J5IjpbLTEzMjkwMDk5ODhdfQ==
 -->
