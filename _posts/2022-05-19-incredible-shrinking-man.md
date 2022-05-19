@@ -10,147 +10,80 @@ But once Carey is left to his own devices, struggling for survival in the wastel
 
 Straightforward, macabre, and as startlingly original as a vintage Ray Bradbury short story, this remarkable film – for all its peaceful and resigned conclusion –opens up new vistas of cosmic terror. Jack Arnold’s characteristically blunt and melancholy style of direction is here perfectly attuned to and in sympathy with the story’s implications. And Grant Williams, slim, wiry and mousy-haired, brings a puzzled anonymity to the part of the hapless Carey which is notably effective.<br>
 **_Monthly Film Bulletin_, July 1957**
-
   
 
 **THE INCREDIBLE SHRINKING MAN**
-
 _Directed by:_ Jack Arnold
-
 _©:_ Universal Pictures Company, Inc.
-
 _a_ Universal-International _picture_
-
 _Presented by:_ Universal-International
-
 _Produced by:_ Albert Zugsmith
-
 _Assistant Director:_ William Holland
-
 _Screenplay by:_ Richard Matheson
-
 _From a novel by:_ Richard Matheson
-
 _Director of Photography:_ Ellis W. Carter
-
 _Special Photography:_ Clifford Stine
-
 _Optical Effects:_ Roswell A. Hoffman, Everett H. Broussard
-
 _Film Editor:_ Al Joseph
-
 _Art Direction:_ Alexander Golitzen, Robert Clatworthy
-
 _Set Decorations:_ Russell A. Gausman, Ruby R. Levitt
-
 _Gowns:_ Jay A. Morley Jr
-
 _Make-up:_ Bud Westmore
-
 _Hair Stylist:_ Joan St. Oegger
-
 _Trumpet Soloist:_ Ray Anthony
-
 _Music Supervision by:_ Joseph Gershenson
-
 _Sound System:_ Westrex Recording System
-
 _uncredited_
-
 _Co-ordinator:_ Ray Gockel
-
 _Unit Manager:_ Lew Leary
-
 _2nd Assistant Director:_ Wilbur Mosier
-
 _Script Supervisor:_ Dorothy Hughes
-
 _Screenplay:_ Richard Alan Simmons
-
 _Camera Operator:_ William J. Dodds
-
 _Camera Assistant:_ Robert Pierce
-
 _Gaffer:_ Tom Oulette
-
 _Best Boy Electrician:_ Everett Lehman
-
 _Cable Man:_ Henry Janssen
-
 _Key Grip:_ Stanley Gulliver
-
 _Co-grip:_ Jim Hilbert
-
 _Stills Photography:_ William Walling
-
 _Special Effects:_ Charles Stine
-
 _Assistant Property Master:_ Roy Neel
-
 _Props Maker:_ Whitey McMahan
-
 _Property Master:_ Ed Keyes
-
 _Wardrobe Master:_ Rydo Loshak
-
 _Wardrobe Mistress:_ Martha Bunch
-
 _Make-up:_ Jack Kevan
-
 _Hair Stylist:_ Virginia Jones
-
 _Sound Recordist:_ Clifford Cunliffe
-
 _Sound:_ Leslie I. Carey, Robert Pritchard
-
 _Mike Man:_ Roger Parish
-
 _Sound Editors:_ George Ohanian, Bob Hirsch
 
 **Cast**
-
 Grant Williams _(Scott Carey)_
-
 Randy Stuart _(Louise Carey)_
-
 April Kent _(Clarice)_
-
 Paul Langton _(Charlie Carey)_
-
 Raymond Bailey _(Doctor Thomas Silver)_
-
 William Schallert _(Doctor Arthur Bramson)_
-
 Frank Scannell _(barker)_
-
 Helene Marshall _(nurse)_
-
 Diana Darrin _(nurse)_
-
 Billy Curtis _(midget)_
 
 _uncredited_
-
 Luce Potter _(Violet)_
 
 USA 1957©
-
 92 mins
 
-**  
-<![if !supportLineBreakNewLine]>  
-<![endif]>**
-
 **BIG SCREEN CLASSICS**
-
 **The Incredible Shrinking Man**
-
-Thu 19 May 14:30; Tue 31 May 18:20**Journey to Italy (Viaggio in Italia)**
-
+Thu 19 May 14:30; Tue 31 May 18:20
+**Journey to Italy (Viaggio in Italia)**
 Thu 19 May 18:10; Wed 25 May 20:50; Fri 27 May 18:20
-
 **Daughters of the Dust**
-
 Fri 20 May 14:40; Thu 26 May 20:40
 
 **Tokyo Story (Tokyo Monogatari)**
@@ -185,5 +118,5 @@ Sun 29 May 11:20
 
 Mon 30 May 18:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjkwMDk5ODhdfQ==
+eyJoaXN0b3J5IjpbLTY1NTc0NDkxNF19
 -->
