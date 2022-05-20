@@ -16,47 +16,28 @@ Eventually, Gainsbourg is tied to the stake and the scene can finally start shoo
 
 **LUX ÆTERNA**<br>
 _Director:_ Gaspar Noé<br>
-_Production Company:Les Cinémas de la Zone<br>
-
-_Producers:_ Gary Farkas,  
-Lucile Hadzihalilovic, Clément Lepoutre, Olivier Muller, Gaspar Noé,  
-Anthony Vaccarello<br>
-
+_Production Company:_ Les Cinémas de la Zone<br>
+_Producers:_ Gary Farkas,  Lucile Hadzihalilovic, Clément Lepoutre, Olivier Muller, Gaspar Noé,  Anthony Vaccarello<br>
 _Written by:_ Gaspar Noé<br>
-
 _Director of Photography:_ Benoît Debie<br>
-
 _Editor:_ Jerome Pesnel<br>
-
 _Digital Artist:_ Fabrice Faure<br>
-
-_Music Supervisors:_ Steve Bouyer,  
-Pascal Mayer<br>
-
+_Music Supervisors:_ Steve Bouyer,  Pascal Mayer<br>
 _Sound Mixer:_ Romain de Gueltzl<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Béatrice Dalle<br>
-
 Charlotte Gainsbourg<br>
-
 Abbey Lee<br>
-
 Claude-Emmanuelle Gajan-Maull<br>
-
 Clara Deshayes<br>
-
 Félix Maritaud<br>
-
 Frédéric Cambier<br>
-
 Karl Glusman<br>
 
 France 2019<br>
-
 51 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTExNzI5NF19
+eyJoaXN0b3J5IjpbLTEyMjA3ODM3MjddfQ==
 -->
