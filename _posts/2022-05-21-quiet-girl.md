@@ -1,7 +1,6 @@
-<![endif]-->
 
-This sensitive adaptation of Claire Keegan’s acclaimed short story ‘Foster’ follows a quiet, neglected girl as she’s sent away from her dysfunctional family to live with foster parents for the summer in rural Ireland. She blossoms in their care, but in this house where there are meant to be no secrets, she discovers one. Centred on a remarkable performance by its young star Catherine Clinch, this poignant Irish-language film is both a moving coming of age story and a beautiful portrait of rural life.
-**Simon Duffy, BFI Programme & Research Manager**
+This sensitive adaptation of Claire Keegan’s acclaimed short story ‘Foster’ follows a quiet, neglected girl as she’s sent away from her dysfunctional family to live with foster parents for the summer in rural Ireland. She blossoms in their care, but in this house where there are meant to be no secrets, she discovers one. Centred on a remarkable performance by its young star Catherine Clinch, this poignant Irish-language film is both a moving coming of age story and a beautiful portrait of rural life.<br>
+**Simon Duffy, BFI Programme & Research Manager**<br>
 
 Nothing puts the fear of god into a classroom full of raucous Irish children like the sound of an exasperated, nerve-shot teacher shouting ‘_Ciúnas!_’ (the Irish word for silence). It’s a command that has the power to turn rosy cheeks porcelain, and transform small smiling faces into contorted masks of worry.
 
@@ -101,5 +100,5 @@ From Fri 3 Jun<br>
 **Wings of Desire**<br>
 From Fri 24 Jun<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwNTMzNTYwXX0=
+eyJoaXN0b3J5IjpbLTE0Nzk1MjMyMTldfQ==
 -->
