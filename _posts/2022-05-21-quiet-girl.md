@@ -1,7 +1,6 @@
 <![endif]-->
 
 This sensitive adaptation of Claire Keegan’s acclaimed short story ‘Foster’ follows a quiet, neglected girl as she’s sent away from her dysfunctional family to live with foster parents for the summer in rural Ireland. She blossoms in their care, but in this house where there are meant to be no secrets, she discovers one. Centred on a remarkable performance by its young star Catherine Clinch, this poignant Irish-language film is both a moving coming of age story and a beautiful portrait of rural life.
-
 **Simon Duffy, BFI Programme & Research Manager**
 
 Nothing puts the fear of god into a classroom full of raucous Irish children like the sound of an exasperated, nerve-shot teacher shouting ‘_Ciúnas!_’ (the Irish word for silence). It’s a command that has the power to turn rosy cheeks porcelain, and transform small smiling faces into contorted masks of worry.
@@ -18,18 +17,15 @@ Here food is brought to the table without anxiety; a nurturing love is shown thr
 
 And so they dress her up in a plaid shirt and too-long jeans, with Eibhlín (Carrie Crowley) orienting her in her new home through instant maternal affection. This is a house without secrets, she tells her, though Seán’s initial standoffishness – and the child’s wallpaper in Cáit’s new room – suggest they’re living with more than one.
 
-Through a shimmering near-montage of moments – onion-chopping, hair-brushing, trips to a spring well, slow-mo runs through an arch of trees – we watch Cáit move organically from awkward interloper to daughter figure. At times, the crisp shots and liquidy use of light can feel close to a Kerrygold ad, but the film’s sharp emotional intelligence stops it tipping into the realm of commercial sentimentality. This is seen in Cáit’s wretched encounter with a busybody neighbour, who dishes out more questions about the Cinnsealachs than nettles have stings. Her nosy, venomous chatter lets out that household secret. But instead of shattering the foundation they’ve built, honesty gives way to a greater connection between Seán and Cáit. ‘You don’t have to say anything,’ he tells her in the light of a pearly moon. ‘Many’s the person that missed the opportunity to say nothing, and lost much because of it.’ By the end, Cáit chooses _ciúnas_ not out of fear, but because she has found a new sense of self – someone who understands all that can be gained in the simplicity of silence.
+Through a shimmering near-montage of moments – onion-chopping, hair-brushing, trips to a spring well, slow-mo runs through an arch of trees – we watch Cáit move organically from awkward interloper to daughter figure. At times, the crisp shots and liquidy use of light can feel close to a Kerrygold ad, but the film’s sharp emotional intelligence stops it tipping into the realm of commercial sentimentality. This is seen in Cáit’s wretched encounter with a busybody neighbour, who dishes out more questions about the Cinnsealachs than nettles have stings. Her nosy, venomous chatter lets out that household secret. But instead of shattering the foundation they’ve built, honesty gives way to a greater connection between Seán and Cáit. ‘You don’t have to say anything,’ he tells her in the light of a pearly moon. ‘Many’s the person that missed the opportunity to say nothing, and lost much because of it.’ By the end, Cáit chooses _ciúnas_ not out of fear, but because she has found a new sense of self – someone who understands all that can be gained in the simplicity of silence.<br>
+**Katie McCabe, bfi.org.uk, 13 May 2022**<br>
 
-**Katie McCabe, bfi.org.uk, 13 May 2022**
-
-**THE QUIET GIRL (AN CAILÍN CIÚIN)**
-
+**THE QUIET GIRL (AN CAILÍN CIÚIN)**<br>
 _Directed by_: Colm Bairead  
 _©_: Inscéal  
 _Production Company_: Inscéal  
 _Logo_: Cine4  
 _Presented by_: Fís Éireann/Screen Ireland, TG4,
-
 Údarás Craolacháin na hÉireann  
 _Executive Producer for Fís Éireann/Screen Ireland_: Dearbhla Regan  
 _Executive Producer for TG4_: Máire Ní Chonláin  
@@ -49,9 +45,10 @@ _Costume Designer_: Louise Stanton
 _Wardrobe Supervisor_: Arlene Riley  
 _Hair and Make-up Designers_: Linda Mooney, Avelina Mooney  
 _Music_: Stephen Rennicks  
-_Sound Mixer_: Brendan Rehill
+_Sound Mixer_: Brendan Rehill  
 
-**Cast**Carrie Crowley _(Eibhlín Cinnsealach)_  
+**Cast**<br>
+Carrie Crowley _(Eibhlín Cinnsealach)_  
 Andrew Bennett _(Seán Cinnsealach)_  
 Catherine Clinch _(Cáit)_  
 Michael Patric _(Da)_  
@@ -66,47 +63,43 @@ Breandán Ó Duinnshléibhe _(Ó Cathasaigh)_
 Seán Ó Súilleabháin _(Ó Floinn)_  
 Áine Hayden _(shop lady)_  
 Elaine O’Hara _(Áine)_  
-Marion O’Dwyer _(Bríd)_
+Marion O’Dwyer _(Bríd)_  
 
-Ireland 2022
+Ireland 2022  
+95 mins  
 
-95 mins
+A Curzon release  
 
-A Curzon release
-
-**NEW RELEASES**
-
-**Firebird**
-
-From 22 April
-**We’re All Going to the World’s Fair**
-From 29 April
-**The Velvet Queen: Snow Leopard**
-From 6 May
-**Vortex**
+**NEW RELEASES**<br>
+**Firebird**<br>
+From 22 April<br>
+**We’re All Going to the World’s Fair**<br>
+From 29 April<br>
+**The Velvet Queen: Snow Leopard**<br>
+From 6 May<br>
+**Vortex**<br>
 Tue 10 May 18:00 Preview + intro by Gaspar Noé
-From Fri 13 May
+From Fri 13 May<br>
+**The Quiet Girl**<br>
+From Sat 21 May<br>
+**Benediction**<br>
+From Fri 3 Jun<br>
+**All My Friends Hate Me**<br>
+From Fri 10 Jun<br>
 
-**The Quiet Girl**
-From Sat 21 May
-**Benediction**
-From Fri 3 Jun
-**All My Friends Hate Me**
-From Fri 10 Jun
-
-**RE-RELEASES**
-**Croupier**
-From Wed 4 May
-**Vampyr**
-From Fri 20 May;  Mon 23 May 14:00 Seniors’ Matinee + discussion
-**Cabaret**
-From Fri 6 May
-**Get Carter + The Frighteners: The Manipulators**
-From Fri 27 May; Mon 30 May 18:00 + intro by Douglas Weir, BFI Technical Delivery Manager
-**Pickpocket**
-From Fri 3 Jun
-**Wings of Desire**
-From Fri 24 Jun
+**RE-RELEASES**<br>
+**Croupier**<br>
+From Wed 4 May<br>
+**Vampyr**<br>
+From Fri 20 May;  Mon 23 May 14:00 Seniors’ Matinee + discussion<br>
+**Cabaret**<br>
+From Fri 6 May<br>
+**Get Carter + The Frighteners: The Manipulators**<br>
+From Fri 27 May; Mon 30 May 18:00 + intro by Douglas Weir, BFI Technical Delivery Manager<br>
+**Pickpocket**<br>
+From Fri 3 Jun<br>
+**Wings of Desire**<br>
+From Fri 24 Jun<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTMzMDc2OTRdfQ==
+eyJoaXN0b3J5IjpbMjUwNTMzNTYwXX0=
 -->
