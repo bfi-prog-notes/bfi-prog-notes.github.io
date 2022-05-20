@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Dandelion Dead
+published: true
+date: 2022-05-21
+readtime: true
+categories: ['RETURN OF THE OUTSIDER<br>THE FILMS OF MIKE HODGES']
+tags: [Drama, Period, Crime]
+metadata: 'UK 1994, 214 mins<br> Director: Mike Hodges'
+pdf: '2022-05-21-dandelion-dead.pdf'
+---
 
 **Mike Hodges:** I agreed to do _Dandelion Dead_  because of the script – it’s witty, wicked and black. Reading a script is one thing, shooting it is another. I am a fast director but I had to be faster than usual because of the schedule. We had to shoot five minutes of cut film a day. To hang on to quality and shoot that much a day is tough.
 
@@ -94,6 +104,56 @@ ITV tx 6/13.2.1994
 UK 1994  
 214 mins + interval<br>
 <br>
+
+**RETURN OF THE OUTSIDER:  THE FILMS OF MIKE HODGES**<br>
+**The Terminal Man (director’s cut)**<br>
+Mon 2 May 14:50; Mon 16 May 20:40<br>
+**Mike Hodges in Conversation**<br>
+Tue 3 May 18:15<br>
+**Black Rainbow**<br>
+Tue 3 May 20:40; Sun 22 May 18:10<br>
+**Pulp**<br>
+Wed 4 May 18:15; Wed 11 May 20:50<br>
+**I’ll Sleep When I’m Dead**<br>
+Thu 5 May 18:00; Mon 30 May 17:50<br>
+**Morons from Outer Space**<br>
+Fri 6 May 18:05; Wed 18 May 20:50 **+ World in Action: The Flipside**<br>
+**Flash Gordon**<br>
+Sat 7 May 12:00; Thu 19 May 20:20 **+ The Tyrant King: Episode 1: Scarface**<br>
+**Squaring the Circle + World in Action:  Goldwater for President? or How to Win Friends and Influence People**<br>
+Sun 8 May 11:50<br>
+**A Prayer for the Dying**<br>
+Sun 8 May 15:20; Sun 15 May 18:10<br>
+**Tempo**<br>
+Tue 17 May 18:00<br>
+**Murder by Numbers + The Hitchhiker: W.G.O.D**<br>
+Thu 19 May 18:30<br>
+**Dandelion Dead**<br>
+Sat 21 May 13:10<br>
+**New Tempo**<br>
+Sun 29 May 11:50
+
+Mike Hodges interviewed by The British Entertainment History Project:  
+**https://historyproject.org.uk/interview/mike-hodges**<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0MzIzOTcyNTNdfQ==
 -->
