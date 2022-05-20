@@ -30,10 +30,9 @@ And there are still local people either related to or who knew the people involv
 
 For many reasons it was a fascinating experience. Few of us on the film had worked as hard as the schedule demanded. In the main that’s not a bad thing: no-one wants to spend more time on a film set than is absolutely necessary but achieving eight and a half minutes of cut film in a day is some going. Very long days, six day weeks, moustache gummed to the upper lip, relentless, lunatic period costume changes – sometimes 20 to 30 a day – spats, boots, hats and winter warms in the middle of summer. But it was infinitely preferable being in the thick of it than hanging around on the peripheries.  
 **Production notes**
-<br>
+<br><br>
 
-**DANDELION DEAD**
-
+**DANDELION DEAD**  
 _Director_: Mike Hodges  
 _Production Company_: LWT  
 _Executive Producer_: Sarah Wilson  
@@ -60,8 +59,7 @@ _Sound Mixer_: Tony Dawe
 _Sound Maintenance_: John Samworth  
 _Sound Editors_: Colin Miller, Mike Hopkins
 
-_Cast:_
-
+**Cast**  
 Michael Kitchen _(Major Herbert Armstrong)_  
 David Thewlis _(Oswald Martin)_  
 Lesley Sharp _(Connie Davies)_  
@@ -92,11 +90,10 @@ Arbel Jones _(barmaid)_
 Hubert Rees _(governor)_  
 Richard Strange _(hangman)_
 
-ITV tx 6/13.2.1994
-
-UK 1994
-
-214 mins + interval
+ITV tx 6/13.2.1994  
+UK 1994  
+214 mins + interval<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjY3Njc3N119
+eyJoaXN0b3J5IjpbLTE0MzIzOTcyNTNdfQ==
 -->
