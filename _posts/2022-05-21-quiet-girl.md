@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Quiet Girl 
+published: true
+date: 2022-05-21
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'Ireland 2022, 95 mins<br> Director: Colm Bairead'
+pdf: '2022-05-19-quiet-girl.pdf'
+---
 
 This sensitive adaptation of Claire Keegan’s acclaimed short story ‘Foster’ follows a quiet, neglected girl as she’s sent away from her dysfunctional family to live with foster parents for the summer in rural Ireland. She blossoms in their care, but in this house where there are meant to be no secrets, she discovers one. Centred on a remarkable performance by its young star Catherine Clinch, this poignant Irish-language film is both a moving coming of age story and a beautiful portrait of rural life.<br>
 **Simon Duffy, BFI Programme & Research Manager**<br>
@@ -99,6 +110,21 @@ From Fri 27 May; Mon 30 May 18:00 + intro by Douglas Weir, BFI Technical Deliver
 From Fri 3 Jun<br>
 **Wings of Desire**<br>
 From Fri 24 Jun<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk1MjMyMTldfQ==
--->
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
