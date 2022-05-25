@@ -1,3 +1,14 @@
+---
+layout: post
+title: East Palace, West Palace 
+published: true
+date: 2022-05-27
+readtime: true
+categories: ['QUEER EAST']
+tags: [Drama]
+metadata: 'China 1996, 93 mins<br> Director: Zhang Yuan'
+pdf: '2022-05-27-east-palace-west-palace.pdf'
+---
 
 _+ intro by Chris Berry, Professor of Film Studies, King’s College London_
 
@@ -28,7 +39,7 @@ One more similarity with the earlier films is that this is being shot entirely o
 
 _Because it’s the first ‘gay film’ from China, it will be met with a great weight of expectation, especially from gay audiences. Does that worry you?_
 
-I’ve thought a lot about that. To me, the best thing is to make the film as honestly as I can, to be true to what I’ve seen and what I’ve felt most deeply myself. If I’m genuinely honest in the film, audiences should be able to understand whether they’re gay or not.
+I’ve thought a lot about that. To me, the best thing is to make the film as honestly as I can, to be true to what I’ve seen and what I’ve felt most deeply myself. If I’m genuinely honest in the film, audiences should be able to understand whether they’re gay or not.<br>
 **Zhang Yuan talking to Tony Rayns, _Sight & Sound_, July 1996**<br>
 
 **EAST PALACE, WEST PALACE (DONG GONG XI GONG)**  
@@ -44,7 +55,7 @@ _Art Director_: An Bing
 _Music_: Xiang Min  
 _Sound_: Wu Gang, Shen Jian Qin, Bruno Lecoeur<br>
 
-**Cast**  <br>
+**Cast**<br>
 Si Han _(A-Lan)_  
 Hu Jun _(Shi Xiaohua)_  
 Liu Yuxiao _(female thief)_  
@@ -63,6 +74,22 @@ Fri 27 May 20:30<br>
 Sat 28 May 15:00<br>
 **Queer East Closing Night: Metamorphosis + Q&A with director JE Tiglao**<br>
 Sun 29 May 18:00<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDU5OTcwMDRdfQ==
--->
+
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
