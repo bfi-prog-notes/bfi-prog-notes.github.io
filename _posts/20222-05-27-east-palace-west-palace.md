@@ -61,9 +61,8 @@ China 1996<br>
 Fri 27 May 20:30<br>
 **Malila: The Farewell Flower + Q&A with director Anucha Boonyawatana**<br>
 Sat 28 May 15:00<br>
-**Queer East Closing Night: Metamorphosis + Q&A with director JE Tiglao**
-
-Sun 29 May 18:00
+**Queer East Closing Night: Metamorphosis + Q&A with director JE Tiglao**<br>
+Sun 29 May 18:00<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDk5MDIxNF19
+eyJoaXN0b3J5IjpbLTIwNDU5OTcwMDRdfQ==
 -->
