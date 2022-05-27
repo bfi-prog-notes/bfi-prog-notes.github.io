@@ -25,183 +25,184 @@ _Directed by:_ Donald Siegel<br>
 
 ©: Paramount Pictures Corporation<br>
 
-Paramount Pictures Corporation presents
+Paramount Pictures Corporation presents<br>
 
 A Malpaso/Siegel film<br>
 
-_Executive Producer:_ Robert Daley
+_Executive Producer:_ Robert Daley<br>
 
-_Produced by:_ Donald Siegel
+_Produced by:_ Donald Siegel<br>
 
-_Associate Producer:_ Fritz Manes
+_Associate Producer:_ Fritz Manes<br>
 
-_Auditor:_ Don Henry
+_Auditor:_ Don Henry<br>
 
-_Unit Production Manager:_ Jack Terry
+_Unit Production Manager:_ Jack Terry<br>
 
-_Associate to Mr Siegel:_ Carol Rydall
+_Associate to Mr Siegel:_ Carol Rydall<br>
 
-_Secretary to the Director:_ Iris O’Reilly
+_Secretary to the Director:_ Iris O’Reilly<br>
 
 _Secretary to the Unit Production Manager:_
 
-Eudie Charnes
+Eudie Charnes<br>
 
-_Secretary to the Producer:_ Betty Endo
+_Secretary to the Producer:_ Betty Endo<br>
 
-_1st Assistant Director:_ Luigi Alfano
+_1st Assistant Director:_ Luigi Alfano<br>
 
 _2nd Assistant Directors:_ Mark Johnson,
 
-Richard Graves
+Richard Graves<br>
 
-_Script Supervisor:_ Lloyd Nelson
+_Script Supervisor:_ Lloyd Nelson<br>
 
-_Casting:_ Marion Dougherty, Wally Nicita
+_Casting:_ Marion Dougherty, Wally Nicita<br>
 
-_San Francisco Casting:_ Brebner Agency *
+_San Francisco Casting:_ Brebner Agency *<br>
 
-_Screenplay by:_ Richard Tuggle
+_Screenplay by:_ Richard Tuggle<br>
 
-_Based on the book by:_ J. Campbell Bruce
+_Based on the book by:_ J. Campbell Bruce<br>
 
-_Director of Photography:_ Bruce Surtees
+_Director of Photography:_ Bruce Surtees<br>
 
-_Camera Operators:_ Rick Neff, Bob Bergdahl
+_Camera Operators:_ Rick Neff, Bob Bergdahl<br>
 
-_Camera Assistants:_ Gordon Paschal, Billy Walsh, Dennis Matsuda, Pat McGinness
+_Camera Assistants:_ Gordon Paschal, Billy Walsh, Dennis Matsuda, Pat McGinness<br>
 
-_Key Grip:_ Charles Saldana
+_Key Grip:_ Charles Saldana<br>
 
-_2nd Grip:_ Lawrence G. Yates
+_2nd Grip:_ Lawrence G. Yates<br>
 
-_Gaffer:_ Chuck Holmes
+_Gaffer:_ Chuck Holmes<br>
 
-_Gaffer Best Boy:_ Larry Flynn
+_Gaffer Best Boy:_ Larry Flynn<br>
 
-_Still Photography:_ Ron Grover
+_Still Photography:_ Ron Grover<br>
 
-_Special Effects:_ Chuck Gaspar
+_Special Effects:_ Chuck Gaspar<br>
 
-_Edited by:_ Ferris Webster
+_Edited by:_ Ferris Webster<br>
 
-_Assistant Editors:_ Joel Cox, Tim Board
+_Assistant Editors:_ Joel Cox, Tim Board<br>
 
-_Production Designer:_ Allen Smith
+_Production Designer:_ Allen Smith<br>
 
-_Set Decorator:_ Edward J. McDonald
+_Set Decorator:_ Edward J. McDonald<br>
 
-_Property Master:_ Larry Bird
+_Property Master:_ Larry Bird<br>
 
-_Construction Co-ordinator:_ Gene Lauritzen
+_Construction Co-ordinator:_ Gene Lauritzen<br>
 
-_Costume Supervisor:_ Glenn Wright
+_Costume Supervisor:_ Glenn Wright<br>
 
-_Make-up Artist:_ Joe McKinney
+_Make-up Artist:_ Joe McKinney<br>
 
-_Titles and Opticals by:_ Pacific Title
+_Titles and Opticals by:_ Pacific Title<br>
 
-_Lenses and Panaflex camera by:_ Panavision
+_Lenses and Panaflex camera by:_ Panavision<br>
 
-_Colour by:_ DeLuxe
+_Colour by:_ DeLuxe<br>
 
-_Music by:_ Jerry Fielding
+_Music by:_ Jerry Fielding<br>
 
-_Music Editor:_ June Edgerton
+_Music Editor:_ June Edgerton<br>
 
-_Sound Mixer:_ Bert Hallberg
+_Sound Mixer:_ Bert Hallberg<br>
 
-_Re-recording Mixer:_ John T. Reitz
+_Re-recording Mixer:_ John T. Reitz<br>
 
 _Sound Effects Editors:_ Alan Robert Murray,
 
-Bub Asman
+Bub Asman<br>
 
-_Dialogue Coach:_ Carol Rydall
+_Dialogue Coach:_ Carol Rydall<br>
 
-_Unit Publicist:_ Gary Kalkin
+_Unit Publicist:_ Gary Kalkin<br>
 
-_Cast:_
+_Cast:_<br>
 
-Clint Eastwood _(Frank Morris)_
+Clint Eastwood _(Frank Morris)_<br>
 
-Patrick McGoohan _(warden)_
+Patrick McGoohan _(warden)_<br>
 
-Roberts Blossom _(Chester ‘Doc’ Dalton)_
+Roberts Blossom _(Chester ‘Doc’ Dalton)_<br>
 
-Jack Thibeau _(Clarence Anglin)_
+Jack Thibeau _(Clarence Anglin)_<br>
 
-Fred Ward _(John Anglin)_
+Fred Ward _(John Anglin)_<br>
 
-Paul Benjamin _(English)_
+Paul Benjamin _(English)_<br>
 
-Larry Hankin _(Charley Butts)_
+Larry Hankin _(Charley Butts)_<br>
 
-Bruce M. Fischer _(Wolf)_
+Bruce M. Fischer _(Wolf)_<br>
 
-Frank Ronzio _(Litmus)_
+Frank Ronzio _(Litmus)_<br>
 
-Fred Stuthman _(Johnson)_
+Fred Stuthman _(Johnson)_<br>
 
-David Cryer _(Wagner)_
+David Cryer _(Wagner)_<br>
 
-Hank Brandt _(associate warden)_
+Hank Brandt _(associate warden)_<br>
 
-Ray K. Goman _(cellblock captain)_
+Ray K. Goman _(cellblock captain)_<br>
 
-Blair Burrows _(fight guard)_
+Blair Burrows _(fight guard)_<br>
 
-Madison Arnold _(Zimmerman)_
+Madison Arnold _(Zimmerman)_<br>
 
-Garry Goodrow _(Weston)_
+Garry Goodrow _(Weston)_<br>
 
-Ron Vernan _(Stone)_
+Ron Vernan _(Stone)_<br>
 
-Ed Vasgersian _(Cranston)_
+Ed Vasgersian _(Cranston)_<br>
 
-Matthew J. Locricchio _(exam guard)_
+Matthew J. Locricchio _(exam guard)_<br>
 
-Bob Balhatchet _(medical technical assistant)_
+Bob Balhatchet _(medical technical assistant)_<br>
 
-Stephen Bradley _(exam guard)_
+Stephen Bradley _(exam guard)_<br>
 
-Regie Baff _(Lucy)_
+Regie Baff _(Lucy)_<br>
 
-Joseph Miksak _(police sergeant)_
+Joseph Miksak _(police sergeant)_<br>
 
-Candace Bowen _(English’s daughter)_
+Candace Bowen _(English’s daughter)_<br>
 
-Don Michaelian _(Beck)_
+Don Michaelian _(Beck)_<br>
 
-Dan Leegant, John Garabedian _(guards)_
+Dan Leegant, John Garabedian _(guards)_<br>
 
-Jason Ronard _(Bobs)_
+Jason Ronard _(Bobs)_<br>
 
-Ross Reynolds _(helicopter pilot)_
+Ross Reynolds _(helicopter pilot)_<br>
 
-Al Dunlap _(visitors’ guard)_
+Al Dunlap _(visitors’ guard)_<br>
 
 Denis Berkfeldt, Jim Haynie, Tony Dario,
 
 Fritz Manes, Dana Derfus, Don Cummins,  
 Gordon Handforth, John Scanlon, Don Watters,
 
-Joseph Knowland, James Collier, R.J. Ganzert, Robert Hirschfeld, Lloyd Nelson, George Orrison, Gary F. Warren, Joe Whipp, Terry Wills _(guards)_
+Joseph Knowland, James Collier, R.J. Ganzert, Robert Hirschfeld, Lloyd Nelson, George Orrison, Gary F. Warren, Joe Whipp, Terry Wills _(guards)_<br>
 
 Dale Alvarez, Sheldon Feldner, Danny Glover,  
-Carl Lumbly, Patrick Valentino, Gilbert Thomas, Jr, Eugene W. Jackson _(inmates)_
+Carl Lumbly, Patrick Valentino, Gilbert Thomas, Jr, Eugene W. Jackson _(inmates)_<br>
 
-Don Siegel _(doctor)_ *
+Don Siegel _(doctor)_ *<br>
 
-Robert Irvine _(guard)_ *
+Robert Irvine _(guard)_ *<br>
 
-Glenn Wright _(inmate)_ *
+Glenn Wright _(inmate)_ *<br>
 
-USA 1979©
+USA 1979©<br>
 
 112 mins
 
-* Uncredited
+*Uncredited<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjI0MzA2NzJdfQ==
+eyJoaXN0b3J5IjpbMzE5NTEyMDUyXX0=
 -->
