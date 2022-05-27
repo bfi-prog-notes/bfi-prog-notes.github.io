@@ -39,26 +39,33 @@ _Music:_ Harold Arlen
 _Lyricist:_ E.Y. Harburg  
 _Musical Numbers Staged:_ Bobby Connolly
 
-Cast**
-Judy Garland _(Dorothy Gale)_Frank Morgan _(Professor Marvel/The Wizard)_Ray Bolger _(Hunk/The Scarecrow)_Bert Lahr _(Zeke/The Cowardly Lion)_Jack Haley _(Hickory/The Tin Woodman)_Billie Burke _(Glinda, the Good Witch)_
+**Cast**  
+Judy Garland _(Dorothy Gale)_<br>
+Frank Morgan _(Professor Marvel/The Wizard)_<br>
+Ray Bolger _(Hunk/The Scarecrow)_<br>
+Bert Lahr _(Zeke/The Cowardly Lion)_<br>
+Jack Haley _(Hickory/The Tin Woodman)_<br>
+Billie Burke _(Glinda, the Good Witch)_<br>
 
 Margaret Hamilton
 
-_(Miss Gulch/The Wicked Witch of the West)_
+_(Miss Gulch/The Wicked Witch of the West)_<br>
 <![endif]-->
 
-Charles Grapewin _(Uncle Henry)_Pat Walshe _(Nikko)_Clara Blandick _(Aunt Em)_Toto _(Toto, the dog)  
-Uncredited Cast:_
-
+Charles Grapewin _(Uncle Henry)_<br>
+Pat Walshe _(Nikko)_<br>
+Clara Blandick _(Aunt Em)_<br>
+Toto _(Toto, the dog)_<br>
+  
+_uncredited_  
 Dona Massin  
-Amelia Bachelor
-
-Margaret Raia
-
+Amelia Bachelor  
+Margaret Raia  
 Tiny Doll  
-USA 1939
 
-102 mins
+USA 1939  
+102 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyMTkzNTI1XX0=
+eyJoaXN0b3J5IjpbLTEzNDU5NTQ5NzRdfQ==
 -->
