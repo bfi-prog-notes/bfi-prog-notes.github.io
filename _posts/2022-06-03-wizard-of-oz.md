@@ -13,8 +13,7 @@ The original story was also made into a silent film in 1924 and a cartoon in 193
 
 Finally, at the end of 1939, _The Wizard of Oz_ was seen by the public for the first time. When it was shown in New York, Judy Garland, the child star who played Dorothy, came on stage every night at the Loew’s Capitol Theater to sing to the audience before the film began.
 
-**Did you know?**
-
+**Did you know?**  
 Judy Garland won a special prize at the Oscar awards for the best films of the year for her ‘Outstanding Performance by a Screen Juvenile’.
 
 The Cowardly Lion’s costume was made using two real lion skins. It was very heavy and became very hot for Bert Lahr, who had to wear it under the hot lights of the film studio.
@@ -22,30 +21,25 @@ The Cowardly Lion’s costume was made using two real lion skins. It was very he
 Towards the end of the film, in the scenes based in Kansas, the old coat worn by Professor Marvel was in fact originally owned by L. Frank Baum, the writer of the Oz books.
 
 The Lion’s tail was attached to a fishing line. Once every so often, a man in the stage rafters would move it around to make it look real unless it had been let loose and Bert Lahr would hold it himself.
+<br><br>
 
-<![endif]-->
+**THE WIZARD OF OZ**  
+_Director:_ Victor Fleming  
+_Director:_ King Vidor [uncredited]  
+_Production Company:_ Loew’s Incorporated  
+_Producer:_ Mervyn LeRoy  
+_Screenplay:_ Noel Langley, Florence Ryerson, Edgar Allan Woolf  
+_Adaptation:_ Noel Langley  
+_Original Book:_ L. Frank Baum  
+_Director of Photography:_ Harold Rosson  
+_Editor:_ Blanche Sewell  
+_Art Director:_ Cedric Gibbons  
+_Costumes:_ Adrian  
+_Music:_ Harold Arlen  
+_Lyricist:_ E.Y. Harburg  
+_Musical Numbers Staged:_ Bobby Connolly
 
-**THE WIZARD OF OZ**
-
-Director: Victor Fleming  
-Director: King Vidor [uncredited]  
-Production Company: Loew’s Incorporated  
-Producer: Mervyn LeRoy  
-Screenplay: Noel Langley, Florence Ryerson,
-
-Edgar Allan Woolf  
-Adaptation: Noel Langley  
-Original Book: L. Frank Baum  
-Director of Photography: Harold Rosson  
-Editor: Blanche Sewell  
-Art Director: Cedric Gibbons  
-Costumes: Adrian  
-Music: Harold Arlen  
-Lyricist: E.Y. Harburg  
-Musical Numbers Staged: Bobby Connolly
-
-Cast:
-
+Cast**
 Judy Garland _(Dorothy Gale)_Frank Morgan _(Professor Marvel/The Wizard)_Ray Bolger _(Hunk/The Scarecrow)_Bert Lahr _(Zeke/The Cowardly Lion)_Jack Haley _(Hickory/The Tin Woodman)_Billie Burke _(Glinda, the Good Witch)_
 
 Margaret Hamilton
@@ -66,5 +60,5 @@ USA 1939
 
 102 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2NzAzNDM4XX0=
+eyJoaXN0b3J5IjpbNTEyMTkzNTI1XX0=
 -->
