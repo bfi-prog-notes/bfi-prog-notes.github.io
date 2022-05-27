@@ -60,138 +60,135 @@ It has a lot to do with the character; he lacks a feeling of reality sometimes. 
 
 _How much has his crisis to do with his age? The things that happen to him seem linked to anxieties about holding his own in various situations._
 
-If you’re a goalkeeper, you have to change your job at around 35. He’s 36.  
-In the script he tells a story about a famous Russian goalie who kept his job until he was 43 or 44. But we didn’t shoot it; it would have been too obvious. In the novel he’s a former goalkeeper, now working in another job, but that was difficult to explain in the film and so we made him a real goalie. That’s the only thing we really changed from the novel. The fact that he’s a goalkeeper is sometimes important, in the way that he reacts, for instance.
+If you’re a goalkeeper, you have to change your job at around 35. He’s 36. In the script he tells a story about a famous Russian goalie who kept his job until he was 43 or 44. But we didn’t shoot it; it would have been too obvious. In the novel he’s a former goalkeeper, now working in another job, but that was difficult to explain in the film and so we made him a real goalie. That’s the only thing we really changed from the novel. The fact that he’s a goalkeeper is sometimes important, in the way that he reacts, for instance.
 
 _You cut away from all the climaxes…_
 
-I never wanted to show things that are shown in general. Even the murder.  
-I think it’s too dramatic.
+I never wanted to show things that are shown in general. Even the murder. I think it’s too dramatic.
 
-Interview by Tony Rayns, _Sight and Sound_, Winter 1974/5
+**Interview by Tony Rayns, _Sight and Sound_, Winter 1974/5**
+<br><br>
 
-<![endif]-->
+**THE GOALKEEPER’S FEAR OF THE PENALTY**<br>
 
-**THE GOALKEEPER’S FEAR OF THE PENALTY**
+**(DIE ANGST DES TORMANNS BEIM ELFMETER)**<br>
 
-**(DIE ANGST DES TORMANNS BEIM ELFMETER)**
+_Director:_ Wim Wenders<br>
 
-_Director:_ Wim Wenders
+_Production Companies:_ Produktion 1 im Filmverlag der Autoren, Telefilm AG, Westdeutscher Rundfunk<br>
 
-_Production Companies:_ Produktion 1 im Filmverlag der Autoren, Telefilm AG, Westdeutscher Rundfunk
+_Production Manager:_ Peter Genée<br>
 
-_Production Manager:_ Peter Genée
+_Unit Production Manager:_ Eberhard Maier<br>
 
-_Unit Production Manager:_ Eberhard Maier
+_Production Assistant:_ Martin Hennig<br>
 
-_Production Assistant:_ Martin Hennig
-
-_Production Secretary:_ Veronika Schmidt
+_Production Secretary:_ Veronika Schmidt<br>
 
 _Technicians:_ Honorat Stangl, Hans Dreher,
 
-Max Panitz, Volker von der Heydt
+Max Panitz, Volker von der Heydt<br>
 
 _Assistant Directors:_ Veith Fürstenberg,  
-Klaus Bädekerl
+Klaus Bädekerl<br>
 
-_Script Supervisor:_ Ulli Stenzer
+_Script Supervisor:_ Ulli Stenzer<br>
 
-_Screenplay:_ Wim Wenders
+_Screenplay:_ Wim Wenders<br>
 
-_Dialogue in Collaboration With:_ Peter Handke
+_Dialogue in Collaboration With:_ Peter Handke<br>
 
-_Based on the novel by:_ Peter Handke
+_Based on the novel by:_ Peter Handke<br>
 
-_Director of Photography:_ Robby Müller
+_Director of Photography:_ Robby Müller<br>
 
-_Camera Assistant:_ Martin Schäfer
+_Camera Assistant:_ Martin Schäfer<br>
 
-_Stills:_ Andrej Reiser
+_Stills:_ Andrej Reiser<br>
 
-_Editor:_ Peter Przygodda
+_Editor:_ Peter Przygodda<br>
 
 _Art Directors:_ R. Schneider Manss-Au,  
-Burghard Schlicht
+Burghard Schlicht<br>
 
-_Make-up:_ Sybille Danzer
+_Make-up:_ Sybille Danzer<br>
 
-_Music:_ Jürgen Knieper
+_Music:_ Jürgen Knieper<br>
 
 _Songs:_ Johnny & the Hurricanes, Roy Orbison,  
-The Tokens, The Ventures *
+The Tokens, The Ventures *<br>
 
-_Sound Recording:_ Rainer Lorenz, Martin Müller
+_Sound Recording:_ Rainer Lorenz, Martin Müller<br>
 
-_Thanks to:_ Admira-Energie-Wacker, S.C. Pinkerfeld
+_Thanks to:_ Admira-Energie-Wacker, S.C. Pinkerfeld<br>
 
-_Cast:_
+_Cast:_<br>
 
-Arthur Brauss _(Josef Bloch)_
+Arthur Brauss _(Josef Bloch)_<br>
 
-Kai Fischer _(Hertha Gabler)_
+Kai Fischer _(Hertha Gabler)_<br>
 
-Erika Pluhar _(Gloria T.)_
+Erika Pluhar _(Gloria T.)_<br>
 
-Libgart Schwarz _(Anna)_
+Libgart Schwarz _(Anna)_<br>
 
-Maria Bardischewski _(Maria)_
+Maria Bardischewski _(Maria)_<br>
 
-Michael Toost _(salesman)_
+Michael Toost _(salesman)_<br>
 
-Bert Fortell _(customs official)_
+Bert Fortell _(customs official)_<br>
 
-Edda Köchl _(girl)_
+Edda Köchl _(girl)_<br>
 
-Mario Kranz _(school handyman)_
+Mario Kranz _(school handyman)_<br>
 
-Ernst Meister _(revenue officer)_
+Ernst Meister _(revenue officer)_<br>
 
-Rosl Dorena _(woman in bus)_
+Rosl Dorena _(woman in bus)_<br>
 
-Rudi Schippel _(janitor)_
+Rudi Schippel _(janitor)_<br>
 
-Monika Pöschl _(1st hairdresser)_
+Monika Pöschl _(1st hairdresser)_<br>
 
-Sybille Danzer _(2nd hairdresser)_
+Sybille Danzer _(2nd hairdresser)_<br>
 
-Rüdiger Vogler _(idiot)_
+Rüdiger Vogler _(idiot)_<br>
 
-Karl Krittl _(castle doorman)_
+Karl Krittl _(castle doorman)_<br>
 
-Maria Engelstorfer _(shopkeeper)_
+Maria Engelstorfer _(shopkeeper)_<br>
 
-Otto Hoch-Fischer _(landlord)_
+Otto Hoch-Fischer _(landlord)_<br>
 
-Gerhard Tötschinger
+Gerhard Tötschinger<br>
 
-Liane Gollé
+Liane Gollé<br>
 
-Ernst Koppens
+Ernst Koppens<br>
 
-Brigitte Svoboda
+Brigitte Svoboda<br>
 
-Paul Hör
+Paul Hör<br>
 
-Ottilie Iwald
+Ottilie Iwald<br>
 
-Achim Kaden
+Achim Kaden<br>
 
-Alexandra Bäck
+Alexandra Bäck<br>
 
-Ina Genée
+Ina Genée<br>
 
-Eberhard Maier
+Eberhard Maier<br>
 
-Ernst Essel
+Ernst Essel<br>
 
-Josef Menschik
+Josef Menschik<br>
 
-Norma Mayer
+Norma Mayer<br>
 
-Ulli Stenzel
+Ulli Stenzel<br>
 
-Hans Pemmer
+Hans Pemmer<br>
 
 Admira-Energie-Wacker *
 
@@ -204,5 +201,5 @@ West Germany/Austria 1971©
 101 mins  
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzgyMDY4MV19
+eyJoaXN0b3J5IjpbNjEzODc1MTQ0XX0=
 -->
