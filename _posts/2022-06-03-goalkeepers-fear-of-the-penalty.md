@@ -70,136 +70,72 @@ I never wanted to show things that are shown in general. Even the murder. I thin
 <br><br>
 
 **THE GOALKEEPER’S FEAR OF THE PENALTY**<br>
-
 **(DIE ANGST DES TORMANNS BEIM ELFMETER)**<br>
-
 _Director:_ Wim Wenders<br>
-
 _Production Companies:_ Produktion 1 im Filmverlag der Autoren, Telefilm AG, Westdeutscher Rundfunk<br>
-
 _Production Manager:_ Peter Genée<br>
-
 _Unit Production Manager:_ Eberhard Maier<br>
-
 _Production Assistant:_ Martin Hennig<br>
-
 _Production Secretary:_ Veronika Schmidt<br>
-
-_Technicians:_ Honorat Stangl, Hans Dreher,
-
-Max Panitz, Volker von der Heydt<br>
-
-_Assistant Directors:_ Veith Fürstenberg,  
-Klaus Bädekerl<br>
-
+_Technicians:_ Honorat Stangl, Hans Dreher, Max Panitz, Volker von der Heydt<br>
+_Assistant Directors:_ Veith Fürstenberg,  Klaus Bädekerl<br>
 _Script Supervisor:_ Ulli Stenzer<br>
-
 _Screenplay:_ Wim Wenders<br>
-
 _Dialogue in Collaboration With:_ Peter Handke<br>
-
 _Based on the novel by:_ Peter Handke<br>
-
 _Director of Photography:_ Robby Müller<br>
-
 _Camera Assistant:_ Martin Schäfer<br>
-
 _Stills:_ Andrej Reiser<br>
-
 _Editor:_ Peter Przygodda<br>
-
-_Art Directors:_ R. Schneider Manss-Au,  
-Burghard Schlicht<br>
-
+_Art Directors:_ R. Schneider Manss-Au,  Burghard Schlicht<br>
 _Make-up:_ Sybille Danzer<br>
-
 _Music:_ Jürgen Knieper<br>
-
-_Songs:_ Johnny & the Hurricanes, Roy Orbison,  
-The Tokens, The Ventures *<br>
-
+_Songs:_ Johnny & the Hurricanes, Roy Orbison,  The Tokens, The Ventures *<br>
 _Sound Recording:_ Rainer Lorenz, Martin Müller<br>
-
 _Thanks to:_ Admira-Energie-Wacker, S.C. Pinkerfeld<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Arthur Brauss _(Josef Bloch)_<br>
-
 Kai Fischer _(Hertha Gabler)_<br>
-
 Erika Pluhar _(Gloria T.)_<br>
-
 Libgart Schwarz _(Anna)_<br>
-
 Maria Bardischewski _(Maria)_<br>
-
 Michael Toost _(salesman)_<br>
-
 Bert Fortell _(customs official)_<br>
-
 Edda Köchl _(girl)_<br>
-
 Mario Kranz _(school handyman)_<br>
-
 Ernst Meister _(revenue officer)_<br>
-
 Rosl Dorena _(woman in bus)_<br>
-
 Rudi Schippel _(janitor)_<br>
-
 Monika Pöschl _(1st hairdresser)_<br>
-
 Sybille Danzer _(2nd hairdresser)_<br>
-
 Rüdiger Vogler _(idiot)_<br>
-
 Karl Krittl _(castle doorman)_<br>
-
 Maria Engelstorfer _(shopkeeper)_<br>
-
 Otto Hoch-Fischer _(landlord)_<br>
-
 Gerhard Tötschinger<br>
-
 Liane Gollé<br>
-
 Ernst Koppens<br>
-
 Brigitte Svoboda<br>
-
 Paul Hör<br>
-
 Ottilie Iwald<br>
-
 Achim Kaden<br>
-
 Alexandra Bäck<br>
-
 Ina Genée<br>
-
 Eberhard Maier<br>
-
 Ernst Essel<br>
-
 Josef Menschik<br>
-
 Norma Mayer<br>
-
 Ulli Stenzel<br>
-
 Hans Pemmer<br>
+Admira-Energie-Wacker *<br>
+S.C. Pinkerfeld *<br>
+Wim Wenders *<br>
 
-Admira-Energie-Wacker *
-
-S.C. Pinkerfeld *
-
-Wim Wenders *
-
-West Germany/Austria 1971©
-
+West Germany/Austria 1971©<br>
 101 mins  
-* Uncredited
+
+*Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzODc1MTQ0XX0=
+eyJoaXN0b3J5IjpbLTExMDE1MDU0NzhdfQ==
 -->
