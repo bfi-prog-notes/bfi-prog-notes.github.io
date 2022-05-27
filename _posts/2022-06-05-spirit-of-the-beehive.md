@@ -29,25 +29,18 @@ _Is there an inevitable conflict between imposing a particular interpretation of
 
 Generally I don’t like cinema in which the message is very obvious, so I’d prefer to call it showing or suggesting a particular interpretation rather than imposing it. The language of television is an authoritarian language that seeks a hidden means of persuading the consciousness, whereas the language of cinema – or at least of the cinema I like – communicates on an emotional level and obliges people to look within themselves, but without the idea of a rigid or direct discourse. I think all the films I have made have a common characteristic: they describe a journey of discovery, a spiritual journey. At the outset there is a consciousness that is beginning to discover things and at the end of the journey that consciousness has understood something.
 
-_How might this spiritual journey be understood in relation to_ The Spirit of  
-the Beehive_?_
+_How might this spiritual journey be understood in relation to The Spirit of  the Beehive?_
 
 We see the child’s consciousness being formed throughout the film – a consciousness that will be characterised forever as separated from the conventional vision of the world. It could be the consciousness of an artist, an excess of vision through which artists see things that others don’t see, or see them in a different way. At the beginning Ana is a docile, timid person – just a child who asks questions. She can’t understand how there can be something so absurd in life or so terrible that makes a monster kill a child. What the monster wants, in his misery, is to be accepted into society, yet society rejects him – perhaps because of his excess of humanity, for there is something tremendously humane in the monster. So the child’s identification with him is the identification with those who suffer, because she experiences suffering too.
 
-In the beginning Ana exists only through her sister or through the things she is told about, but by the end she exists in her own right. The first trace of her identity has been formed, and that is why she says ‘I am’ for the first time.  
-But that formative process·involves pain. Knowledge is like a wound; consciousness is formed through a wound.
+In the beginning Ana exists only through her sister or through the things she is told about, but by the end she exists in her own right. The first trace of her identity has been formed, and that is why she says ‘I am’ for the first time.  But that formative process·involves pain. Knowledge is like a wound; consciousness is formed through a wound.
 
-Interview by Rikki Morgan, _Sight and Sound_, April 1993
+**Interview by Rikki Morgan, _Sight and Sound_, April 1993**
+<br><br>
 
-<![endif]-->
-
-**THE SPIRIT OF THE BEEHIVE  
-(EL ESPÍRITU DE LA COLMENA)**
-
+**THE SPIRIT OF THE BEEHIVE  (EL ESPÍRITU DE LA COLMENA)**  
 _Director:_ Víctor Erice  
-_Production Company:_
-
-Elías Querejeta Producciones Cinematográficas  
+_Production Company:_ Elías Querejeta Producciones Cinematográficas  
 _Producer:_ Elías Querejeta  
 _Production Manager:_ Primitivo Álvaro  
 _Unit Manager:_ Fernando Hermoso  
@@ -55,9 +48,7 @@ _Production Assistant:_ Pedro Esteban Samu
 _1st Assistant Director:_ José Luis Ruíz Marcos  
 _2nd Assistant Director:_ Francisco Lucio Ramos  
 _Script Supervisor:_ Francisco J. Querejeta  
-_Screenplay/Original Story:_
-
-Ángel Fernández Santos, Víctor Erice  
+_Screenplay/Original Story:_ Ángel Fernández Santos, Víctor Erice  
 _Director of Photography:_ Luis Cuadrado  
 _Camera Operator:_ Teo Escamilla  
 _1st Assistant Camera:_ Santiago Zuazo  
@@ -73,15 +64,14 @@ _Wardrobe:_ Angelines Castro
 _Make-up Artist:_ Ramón de Diego  
 _Assistant Make-up Artist:_ Ángel Luis De Diego  
 _Title Designer:_ Ana Torrent  
-_Title Artwork:_ Alicia Tellería, Isabel Tellería,  
-María Tellería  
+_Title Artwork:_ Alicia Tellería, Isabel Tellería,  María Tellería  
 _Opticals/Title Designer:_ Pablo Núñez  
 _Music:_ Luis de Pablo  
 _Sound Recording:_ Luis Rodríguez  
 _Sound Effects:_ Luis Castro, SYRE  
 _Special Collaborators:_ Miguel Picazo, Laly Soldevila  
-_Cast:_
 
+**Cast**  
 Fernando Fernán Gómez _(Fernando)_  
 Teresa Gimpera _(Teresa)_  
 Ana Torrent _(Ana)_  
@@ -98,5 +88,5 @@ Spain 1973
 
 98 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzkxMTU3OF19
+eyJoaXN0b3J5IjpbNTcwNDk5NzI3XX0=
 -->
