@@ -84,9 +84,10 @@ Ketty de la Cámara _(Milagros)_
 Estanis González _(captain, Guardia civil)_  
 Manuel de Agústina _(theatre owner)_  
 Miguel Aguado _(projectionist)_  
-Spain 1973
 
-98 mins
+Spain 1973  
+98 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwNDk5NzI3XX0=
+eyJoaXN0b3J5IjpbMTY3Nzg4NTMzN119
 -->
