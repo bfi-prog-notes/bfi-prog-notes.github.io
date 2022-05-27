@@ -27,14 +27,11 @@ _Script Supervisor:_ Ilse Zott
 _Screenplay:_ Rainer Werner Fassbinder  
 _Director of Photography:_ Dietrich Lohmann  
 _Lighting:_ Ekkehard Heinrich  
-_Camera Assistants:_ Herbert Paetzold,
-
-Peter Gauhe  
+_Camera Assistants:_ Herbert Paetzold, Peter Gauhe  
 _Editor:_ Thea Eymèsz  
 _Art Director:_ Kurt Raab
 
-_Cast:_
-
+**Cast**  
 Hans Hirschmüller _(Hans Epp, fruitseller)_  
 Irm Hermann _(Irmgard Epp, Hans’s wife)_  
 Hanna Schygulla _(Anna, Hans’s sister)_  
@@ -52,81 +49,77 @@ Walter Sedlmayr _(man who sells cart)_
 Salem El Hëidi _(Moroccan)_  
 Marian Seidowski _(job applicant 3)_  
 Daniel Schmid _(job applicant 1)_  
-Michael Fengler  
-_(playboy who tries to pick up Irmgard)_  
+Michael Fengler  _(playboy who tries to pick up Irmgard)_  
 Hark Bohm _(policeman)_  
 Harry Bär _(job applicant 2)_  
-Rainer Werner Fassbinder  
-_(Zucker, fruit wholesaler)_ *
+Rainer Werner Fassbinder  _(Zucker, fruit wholesaler)_ *
 
-West Germany 1972
-
+West Germany 1972  
 88 mins
 
-* Uncredited
+*Uncredited
 
 The screening on Wed 1 Jun will be introduced
+<br><br>
 
-<![endif]-->
-
-**BIG SCREEN CLASSICS**
-
+**BIG SCREEN CLASSICS**<br>
 **The Merchant of Four Seasons  
-(Händler der vier Jarhreszeiten)**
+(Händler der vier Jarhreszeiten)**<br>
 
-Wed 1 Jun 18:10 (+ intro); Sat 11 Jun 20:30
+Wed 1 Jun 18:10 (+ intro); Sat 11 Jun 20:30<br>
 
-**Ivan’s Childhood (Ivanovo Detsvo)**
+**Ivan’s Childhood (Ivanovo Detsvo)**<br>
 
-Thu 2 Jun 14:30; Mon 20 Jun 20:50
+Thu 2 Jun 14:30; Mon 20 Jun 20:50<br>
 
 **The Goalkeeper’s Fear of the Penalty**
 
-**(Die Angst des Tormanns beim Elfmeter)**
+**(Die Angst des Tormanns beim Elfmeter)**<br>
 
-Fri 3 Jun 20:50; Mon 13 Jun 18:10; Fri 24 Jun 20:45
+Fri 3 Jun 20:50; Mon 13 Jun 18:10; Fri 24 Jun 20:45<br>
 
-**Taxi Driver**
+**Taxi Driver**<br>
 
 Sat 4 Jun 20:45; Wed 15 Jun 20:40;  
-Sun 26 Jun 18:20
+Sun 26 Jun 18:20<br>
 
 **The Spirit of the Beehive  
-(El espíritu de la colmena)**
+(El espíritu de la colmena)**<br>
 
 Sun 5 Jun 13:10; Tue 14 Jun 20:45;  
-Wed 29 Jun 20:40
+Wed 29 Jun 20:40<br>
 
-**Escape from Alcatraz**
+**Escape from Alcatraz**<br>
 
-Mon 6 Jun 20:45; Sat 25 Jun 17:50
+Mon 6 Jun 20:45; Sat 25 Jun 17:50<br>
 
-**Thief**
+**Thief**<br>
 
 Tue 7 Jun 20:30; Thu 16 Jun 18:00;  
-Sat 18 Jun 20:30; Thu 30 Jun 20:30
+Sat 18 Jun 20:30; Thu 30 Jun 20:30<br>
 
 **71 Fragments of a Chronology of Chance  
-(71 Fragmente einer Chronologie des Zufalls)**
+(71 Fragmente einer Chronologie des Zufalls)**<br>
 
-Wed 8 Jun 18:10 (+ intro by Geoff Andrew, Programmer at Large); Mon 27 Jun 21:00
+Wed 8 Jun 18:10 (+ intro by Geoff Andrew, Programmer at Large); Mon 27 Jun 21:00<br>
 
-**Rosetta**
+**Rosetta**<br>
 
-Fri 10 Jun 20:50; Wed 22 Jun 18:15 (+ intro)
+Fri 10 Jun 20:50; Wed 22 Jun 18:15 (+ intro)<br>
 
-**Stranger by the Lake (L’Inconnu du lac)**
+**Stranger by the Lake (L’Inconnu du lac)**<br>
 
 Sun 12 Jun 18:10; Wed 15 Jun 18:10;  
-Tue 28 Jun 20:40
+Tue 28 Jun 20:40<br>
 
-**Down by Law**
+**Down by Law**<br>
 
-Fri 17 Jun 20:45; Tue 21 Jun 20:45
+Fri 17 Jun 20:45; Tue 21 Jun 20:45<br>
 
-**Certain Women**
+**Certain Women**<br>
 
-Sun 19 Jun 13:10; Thu 23 Jun 20:50; Wed 29 Jun 18:10 (+ intro by BFI Director of Public Programme and Audiences, Jason Wood)
+Sun 19 Jun 13:10; Thu 23 Jun 20:50; Wed 29 Jun 18:10 (+ intro by BFI Director of Public Programme and Audiences, Jason Wood)<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDg5OTY1N119
+eyJoaXN0b3J5IjpbOTUyNTE3MjIyXX0=
 -->
