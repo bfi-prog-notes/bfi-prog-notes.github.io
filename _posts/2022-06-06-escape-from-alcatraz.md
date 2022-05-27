@@ -20,163 +20,82 @@ The abstract aspects, of course, are not separate from but develop out of the wa
 <br><br>
 
 **ESCAPE FROM ALCATRAZ**<br>
-
 _Directed by:_ Donald Siegel<br>
-
 ©: Paramount Pictures Corporation<br>
-
 Paramount Pictures Corporation presents<br>
-
 A Malpaso/Siegel film<br>
-
 _Executive Producer:_ Robert Daley<br>
-
 _Produced by:_ Donald Siegel<br>
-
 _Associate Producer:_ Fritz Manes<br>
-
 _Auditor:_ Don Henry<br>
-
 _Unit Production Manager:_ Jack Terry<br>
-
 _Associate to Mr Siegel:_ Carol Rydall<br>
-
 _Secretary to the Director:_ Iris O’Reilly<br>
-
-_Secretary to the Unit Production Manager:_
-
-Eudie Charnes<br>
-
+_Secretary to the Unit Production Manager:_ Eudie Charnes<br>
 _Secretary to the Producer:_ Betty Endo<br>
-
 _1st Assistant Director:_ Luigi Alfano<br>
-
-_2nd Assistant Directors:_ Mark Johnson,
-
-Richard Graves<br>
-
+_2nd Assistant Directors:_ Mark Johnson, Richard Graves<br>
 _Script Supervisor:_ Lloyd Nelson<br>
-
 _Casting:_ Marion Dougherty, Wally Nicita<br>
-
 _San Francisco Casting:_ Brebner Agency *<br>
-
 _Screenplay by:_ Richard Tuggle<br>
-
 _Based on the book by:_ J. Campbell Bruce<br>
-
 _Director of Photography:_ Bruce Surtees<br>
-
 _Camera Operators:_ Rick Neff, Bob Bergdahl<br>
-
 _Camera Assistants:_ Gordon Paschal, Billy Walsh, Dennis Matsuda, Pat McGinness<br>
-
 _Key Grip:_ Charles Saldana<br>
-
 _2nd Grip:_ Lawrence G. Yates<br>
-
 _Gaffer:_ Chuck Holmes<br>
-
 _Gaffer Best Boy:_ Larry Flynn<br>
-
 _Still Photography:_ Ron Grover<br>
-
 _Special Effects:_ Chuck Gaspar<br>
-
 _Edited by:_ Ferris Webster<br>
-
 _Assistant Editors:_ Joel Cox, Tim Board<br>
-
 _Production Designer:_ Allen Smith<br>
-
 _Set Decorator:_ Edward J. McDonald<br>
-
 _Property Master:_ Larry Bird<br>
-
 _Construction Co-ordinator:_ Gene Lauritzen<br>
-
 _Costume Supervisor:_ Glenn Wright<br>
-
 _Make-up Artist:_ Joe McKinney<br>
-
 _Titles and Opticals by:_ Pacific Title<br>
-
 _Lenses and Panaflex camera by:_ Panavision<br>
-
 _Colour by:_ DeLuxe<br>
-
 _Music by:_ Jerry Fielding<br>
-
 _Music Editor:_ June Edgerton<br>
-
 _Sound Mixer:_ Bert Hallberg<br>
-
 _Re-recording Mixer:_ John T. Reitz<br>
-
-_Sound Effects Editors:_ Alan Robert Murray,
-
-Bub Asman<br>
-
+_Sound Effects Editors:_ Alan Robert Murray, Bub Asman<br>
 _Dialogue Coach:_ Carol Rydall<br>
-
 _Unit Publicist:_ Gary Kalkin<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Clint Eastwood _(Frank Morris)_<br>
-
 Patrick McGoohan _(warden)_<br>
-
 Roberts Blossom _(Chester ‘Doc’ Dalton)_<br>
-
 Jack Thibeau _(Clarence Anglin)_<br>
-
 Fred Ward _(John Anglin)_<br>
-
 Paul Benjamin _(English)_<br>
-
 Larry Hankin _(Charley Butts)_<br>
-
 Bruce M. Fischer _(Wolf)_<br>
-
 Frank Ronzio _(Litmus)_<br>
-
 Fred Stuthman _(Johnson)_<br>
-
 David Cryer _(Wagner)_<br>
-
 Hank Brandt _(associate warden)_<br>
-
 Ray K. Goman _(cellblock captain)_<br>
-
 Blair Burrows _(fight guard)_<br>
-
 Madison Arnold _(Zimmerman)_<br>
-
 Garry Goodrow _(Weston)_<br>
-
 Ron Vernan _(Stone)_<br>
-
 Ed Vasgersian _(Cranston)_<br>
-
 Matthew J. Locricchio _(exam guard)_<br>
-
 Bob Balhatchet _(medical technical assistant)_<br>
-
 Stephen Bradley _(exam guard)_<br>
-
 Regie Baff _(Lucy)_<br>
-
 Joseph Miksak _(police sergeant)_<br>
-
 Candace Bowen _(English’s daughter)_<br>
-
 Don Michaelian _(Beck)_<br>
-
 Dan Leegant, John Garabedian _(guards)_<br>
-
 Jason Ronard _(Bobs)_<br>
-
 Ross Reynolds _(helicopter pilot)_<br>
 
 Al Dunlap _(visitors’ guard)_<br>
@@ -204,5 +123,5 @@ USA 1979©<br>
 *Uncredited<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5NTEyMDUyXX0=
+eyJoaXN0b3J5IjpbLTY4Njg3NzA3NF19
 -->
