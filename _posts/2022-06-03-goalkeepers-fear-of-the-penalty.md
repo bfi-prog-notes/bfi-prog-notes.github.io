@@ -15,23 +15,19 @@ No, _Alabama_ is a very depressive film, and _Silver City_ isn’t funny at all.
 
 _What’s the exact sequence of films?_
 
-After _Shoot Again_ was _Silver City_, then _Alabama_, in 35mm and already nearly narrative, and then a 16mm black-and-white feature called _Summer in the City_ (after the song by John Sebastian) although the film was shot in winter.  
-_The Goalkeeper_ was the first non-‘underground’ film; there was a script for the first time, and so on.
+After _Shoot Again_ was _Silver City_, then _Alabama_, in 35mm and already nearly narrative, and then a 16mm black-and-white feature called _Summer in the City_ (after the song by John Sebastian) although the film was shot in winter.  _The Goalkeeper_ was the first non-‘underground’ film; there was a script for the first time, and so on.
 
-The Goalkeeper _is still like your early films in some ways, but it’s also faithful to [Peter] Handke’s novel. Is there a connection?_
+_The Goalkeeper is still like your early films in some ways, but it’s also faithful to [Peter] Handke’s novel. Is there a connection?_
 
-It may be that the novel has something in common with my other films. I know Peter Handke very well. I was visiting him when he started to write the book, and he said that it was mostly a joke, but that I could use it as the basis for a script if I wanted. A year later we really did it, and it wasn’t a joke any more. The film’s narrative style, the way one take follows another, is a lot like  
-the book.
+It may be that the novel has something in common with my other films. I know Peter Handke very well. I was visiting him when he started to write the book, and he said that it was mostly a joke, but that I could use it as the basis for a script if I wanted. A year later we really did it, and it wasn’t a joke any more. The film’s narrative style, the way one take follows another, is a lot like  the book.
 
 _Music seems unusually important in all your films._
 
-Yes, very much. It was even the other way round at the start; for the first two films, I had the music first and then added the film. In 1968 I helped a friend make a film in England called _Ten Years After_ with the group of that name.  
-It’s a 30-minute take of them playing.
+Yes, very much. It was even the other way round at the start; for the first two films, I had the music first and then added the film. In 1968 I helped a friend make a film in England called _Ten Years After_ with the group of that name. It’s a 30-minute take of them playing.
 
-_In_ Goalkeeper_, the jukebox songs seem to be things that Bloch remembers._
+_In Goalkeeper, the jukebox songs seem to be things that Bloch remembers._
 
-Yes, it’s a trip into the early Sixties in that sense. Mind you, this part of Austria does look like that, the furniture and everything. They do have those big jukeboxes of the period. It was shot in the village where Handke wrote  
-the novel.
+Yes, it’s a trip into the early Sixties in that sense. Mind you, this part of Austria does look like that, the furniture and everything. They do have those big jukeboxes of the period. It was shot in the village where Handke wrote  the novel.
 
 _The songs are a kind of commentary…_
 
@@ -39,10 +35,9 @@ I realised that recently for the first time, when I saw it again. I listened to 
 
 _There are also reminiscences of 1940s thrillers here and there._
 
-It’s a bit similar to those pictures sometimes, perhaps the compositions.  
-The scene where the plane flies past was supposed to be more like _North by Northwest_, but the sun was already very low and so it’s not that much like it.
+It’s a bit similar to those pictures sometimes, perhaps the compositions.  The scene where the plane flies past was supposed to be more like _North by Northwest_, but the sun was already very low and so it’s not that much like it.
 
-_There’s some confusion about the movie he goes to see at the start; the theatre marquee says_ Red Line 7000 _one minute, and something about forgers the next._
+_There’s some confusion about the movie he goes to see at the start; the theatre marquee says Red Line 7000 one minute, and something about forgers the next._
 
 Yes it’s a big continuity slip. The other title is a novel by Patricia Highsmith,  
 _The Tremor of Forgery_, which I like very much and always wanted to film. I was reading it when we made the film. It wasn’t a real cinema, incidentally; we built the fascia over a greengrocer’s shop in order to use the building, which is a famous Jugendstil house in Vienna. It was said that they were going to pull it down, so we wanted to use it. We used Wittgenstein’s house in one scene for the same reason.
@@ -209,5 +204,5 @@ West Germany/Austria 1971©
 101 mins  
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjkxMDkwN119
+eyJoaXN0b3J5IjpbMjEzMzgyMDY4MV19
 -->
