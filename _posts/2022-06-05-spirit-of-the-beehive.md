@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Spirit of the Beehive
+published: true
+date: 2022-06-05
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'Spain 1973, 98 mins<br> Director: Víctor Erice'
+pdf: '2022-06-05-spirit-of-the-beehive.pdf'
+---
 
 In rural Spain under Franco, a small girl watches James Whale’s _Frankenstein_ shortly before encountering a fugitive soldier; the ideas growing in her lively mind stand in contrast to the listless behaviour of the adults around her. Victor Erice – a self-confessed Bressonian since he saw _A Man Escaped_ in the 50s – creates a world of secrets and lies with meticulously interwoven images and sounds.  
 **bfi.org.uk**
@@ -17,13 +27,11 @@ _The Spirit of the Beehive_ speaks of the generation who had lived through the C
 
 _The highly metaphorical language of the film is often seen as a strategy in response to the restrictions of censorship as well as a reflection of the atmosphere within a silenced generation._
 
-It’s something you can’t judge according to notions of political determinism.  
-I didn’t set out to solve the problem of censorship: I was mainly concerned to find my own voice, and since lack of freedom is something that people of my generation carry within us, I assumed my voice would reflect that lack of freedom in a natural way. I have always believed that artistic language – and particularly poetry – is a language that is not socially codified and that censors understand only what is socially codified. So the censor was unable to cut a single metre of _The Spirit of the Beehive_: they sensed it wasn’t a film that was favourable to their ideas, but they couldn’t find the arguments to destroy it.
+It’s something you can’t judge according to notions of political determinism.  I didn’t set out to solve the problem of censorship: I was mainly concerned to find my own voice, and since lack of freedom is something that people of my generation carry within us, I assumed my voice would reflect that lack of freedom in a natural way. I have always believed that artistic language – and particularly poetry – is a language that is not socially codified and that censors understand only what is socially codified. So the censor was unable to cut a single metre of _The Spirit of the Beehive_: they sensed it wasn’t a film that was favourable to their ideas, but they couldn’t find the arguments to destroy it.
 
 _But does this complexity inevitably compromise the authenticity of the image?_
 
-In cinema there is a language of prose and a language of poetry. It’s a distinction Pasolini liked to make: he talked about _cinema de prosa_ and  
-_cinema de poesia_ to differentiate the two types of language. Prose always recounts things in a direct way, whereas poetry expresses the ideas of the world in a totally indirect way, and more powerfully perhaps, because it speaks to the unconscious.
+In cinema there is a language of prose and a language of poetry. It’s a distinction Pasolini liked to make: he talked about _cinema de prosa_ and  _cinema de poesia_ to differentiate the two types of language. Prose always recounts things in a direct way, whereas poetry expresses the ideas of the world in a totally indirect way, and more powerfully perhaps, because it speaks to the unconscious.
 
 _Is there an inevitable conflict between imposing a particular interpretation of reality – even when it’s only in the selection and organisation of images – and the pursuit of truth?_
 
@@ -88,6 +96,51 @@ Miguel Aguado _(projectionist)_
 Spain 1973  
 98 mins<br>
 <br>
+
+**BIG SCREEN CLASSICS**<br>
+**The Merchant of Four Seasons  (Händler der vier Jarhreszeiten)**<br>
+Wed 1 Jun 18:10 (+ intro); Sat 11 Jun 20:30<br>
+**Ivan’s Childhood (Ivanovo Detsvo)**<br>
+Thu 2 Jun 14:30; Mon 20 Jun 20:50<br>
+**The Goalkeeper’s Fear of the Penalty (Die Angst des Tormanns beim Elfmeter)**<br>
+Fri 3 Jun 20:50; Mon 13 Jun 18:10; Fri 24 Jun 20:45<br>
+**Taxi Driver**<br>
+Sat 4 Jun 20:45; Wed 15 Jun 20:40;  Sun 26 Jun 18:20<br>
+**The Spirit of the Beehive  (El espíritu de la colmena)**<br>
+Sun 5 Jun 13:10; Tue 14 Jun 20:45;  Wed 29 Jun 20:40<br>
+**Escape from Alcatraz**<br>
+Mon 6 Jun 20:45; Sat 25 Jun 17:50<br>
+**Thief**<br>
+Tue 7 Jun 20:30; Thu 16 Jun 18:00;  Sat 18 Jun 20:30; Thu 30 Jun 20:30<br>
+**71 Fragments of a Chronology of Chance  (71 Fragmente einer Chronologie des Zufalls)**<br>
+Wed 8 Jun 18:10 (+ intro by Geoff Andrew, Programmer at Large); Mon 27 Jun 21:00<br>
+**Rosetta**<br>
+Fri 10 Jun 20:50; Wed 22 Jun 18:15 (+ intro)<br>
+**Stranger by the Lake (L’Inconnu du lac)**<br>
+Sun 12 Jun 18:10; Wed 15 Jun 18:10;  Tue 28 Jun 20:40<br>
+**Down by Law**<br>
+Fri 17 Jun 20:45; Tue 21 Jun 20:45<br>
+**Certain Women**<br>
+Sun 19 Jun 13:10; Thu 23 Jun 20:50; Wed 29 Jun 18:10 (+ intro by BFI Director of Public Programme and Audiences, Jason Wood)<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTY3Nzg4NTMzN119
 -->
