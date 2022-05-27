@@ -46,12 +46,7 @@ Ray Bolger _(Hunk/The Scarecrow)_<br>
 Bert Lahr _(Zeke/The Cowardly Lion)_<br>
 Jack Haley _(Hickory/The Tin Woodman)_<br>
 Billie Burke _(Glinda, the Good Witch)_<br>
-
-Margaret Hamilton
-
-_(Miss Gulch/The Wicked Witch of the West)_<br>
-<![endif]-->
-
+Margaret Hamilton _(Miss Gulch/The Wicked Witch of the West)_<br>
 Charles Grapewin _(Uncle Henry)_<br>
 Pat Walshe _(Nikko)_<br>
 Clara Blandick _(Aunt Em)_<br>
@@ -67,5 +62,5 @@ USA 1939
 102 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU5NTQ5NzRdfQ==
+eyJoaXN0b3J5IjpbLTEzNjUxNDM5MDldfQ==
 -->
