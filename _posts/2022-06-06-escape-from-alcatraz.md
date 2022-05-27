@@ -97,31 +97,18 @@ Don Michaelian _(Beck)_<br>
 Dan Leegant, John Garabedian _(guards)_<br>
 Jason Ronard _(Bobs)_<br>
 Ross Reynolds _(helicopter pilot)_<br>
-
 Al Dunlap _(visitors’ guard)_<br>
-
-Denis Berkfeldt, Jim Haynie, Tony Dario,
-
-Fritz Manes, Dana Derfus, Don Cummins,  
-Gordon Handforth, John Scanlon, Don Watters,
-
-Joseph Knowland, James Collier, R.J. Ganzert, Robert Hirschfeld, Lloyd Nelson, George Orrison, Gary F. Warren, Joe Whipp, Terry Wills _(guards)_<br>
-
-Dale Alvarez, Sheldon Feldner, Danny Glover,  
-Carl Lumbly, Patrick Valentino, Gilbert Thomas, Jr, Eugene W. Jackson _(inmates)_<br>
-
+Denis Berkfeldt, Jim Haynie, Tony Dario, Fritz Manes, Dana Derfus, Don Cummins,  Gordon Handforth, John Scanlon, Don Watters, Joseph Knowland, James Collier, R.J. Ganzert, Robert Hirschfeld, Lloyd Nelson, George Orrison, Gary F. Warren, Joe Whipp, Terry Wills _(guards)_<br>
+Dale Alvarez, Sheldon Feldner, Danny Glover,  Carl Lumbly, Patrick Valentino, Gilbert Thomas, Jr, Eugene W. Jackson _(inmates)_<br>
 Don Siegel _(doctor)_ *<br>
-
 Robert Irvine _(guard)_ *<br>
-
 Glenn Wright _(inmate)_ *<br>
 
 USA 1979©<br>
-
 112 mins
 
 *Uncredited<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Njg3NzA3NF19
+eyJoaXN0b3J5IjpbLTczNDI4Nzg3Nl19
 -->
