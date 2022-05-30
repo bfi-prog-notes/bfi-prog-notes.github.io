@@ -50,14 +50,48 @@ those in the neurodiverse community, their assistants and carers.
 
 
 
-**Presented in partnership with**  **Citizen Autistic: The London Autism Film Club.**
+**Presented in partnership with Citizen Autistic: The London Autism Film Club.**
 
-**We welcome your feedback  
-on this screening. Relaxedscreeningsfeedback@bfi.**
-
-**org.uk**
+**We welcome your feedback on this screening.**
+Relaxedscreeningsfeedback@bfi.org.uk**
 
 **BFI Southbank has been awarded the National Autistic Society’s Autism Friendly Award.**
+
+
+
+**RELAXED SERIES:**<br>
+**NATURAL CONNECTIONS**
+
+**A three-film series curated by Benjamin Brown, founder of Citizen Autistic.**
+
+‘Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.’  
+Marie Curie (1867-1934)
+
+Marie-Curie happens to be the name of a central character in _Frequencies_, the opening feature in a three-film series exploring difference and the sensory effects the ambient sights and sounds of nature can have upon both body and mind.
+
+Throughout the series sound is made tactile, something to be touched and felt, through expressive, multi-layered sound design and sonorous soundscapes humming with the low-bass frequencies and rhythmical droning of today’s hyper-stimulated world.
+
+**The next relaxed screenings are:**
+
+**IN PURSUIT OF SILENCE**
+
+**+ intro and discussion**
+
+**Monday 27 June 18:20**
+
+**NFT3**
+
+**ELECTRICITY**
+
+**+ intro and discussion**
+
+**Monday 25 July 18:15 NFT3**
+
+**Find out more at**
+
+**www.whatson.bfi.org.uk**
+
+**and bfi.org.uk/relaxed**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDAwMTkyOV19
+eyJoaXN0b3J5IjpbLTgwNDkwOTQyMF19
 -->
