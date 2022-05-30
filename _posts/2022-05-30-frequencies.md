@@ -1,3 +1,16 @@
+---
+layout: post
+title: Frequencies
+published: true
+date: 2022-05-30
+readtime: true
+categories: ['RELAXED SCREENING']
+tags: [Sci-Fi]
+metadata: 'Australia/UK 2013, 105 mins<br> Director: Darren Paul Fisher'
+pdf: '2022-05-30-frequencies.pdf'
+---
+
+<img style="float: left;" src="/img/frequencies.png"><br><br>
 
 _+ intro and discussion._
 
@@ -18,46 +31,14 @@ Owen Pugh _(Theo)_<br>
 Australia/UK 2013<br>
 105 mins<br>
 
-**Relaxed Screenings**<br>
-
-Relaxed screenings are presented each month for  
-those in the neurodiverse community, their assistants and carers.
-
-• Customers can select their seats when they arrive in the auditorium. You may sit with your family/friendship group or there are some single seats if you prefer.
-
-• Please leave space between yourself and other groups and retain your selected seats for the duration of the performance if possible.
-
-• We encourage you to wear a face covering if you are  able to.
-
-• You are welcome to take refreshments into the auditorium but no hot food please.
-
-• Doors will open 30 minutes before the screening.
-
-• No trailers will be shown.
-
-• The programme will be introduced.
-
-• Our house lights will remain on a low level throughout the screening, and the volume will be turned slightly down.
-
-• You will be able to leave the auditorium and return during the screening.
-
-•There will be a quiet space to use if you need to leave the auditorium.
-
-• We understand you may make some noise.
-
-• Please ask us if you need help.
-
-
-
 
 **Presented in partnership with Citizen Autistic: The London Autism Film Club.**
 
-**We welcome your feedback on this screening.**
-Relaxedscreeningsfeedback@bfi.org.uk**
+**We welcome your feedback on this screening. Relaxedscreeningsfeedback@bfi.org.uk**
 
+
+<img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br>
 **BFI Southbank has been awarded the National Autistic Society’s Autism Friendly Award.**
-
-
 
 **RELAXED SERIES:**
 **NATURAL CONNECTIONS**<br>
@@ -83,6 +64,32 @@ Throughout the series sound is made tactile, something to be touched and felt, t
 **Find out more at**
 **www.whatson.bfi.org.uk**
 **and bfi.org.uk/relaxed**
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTY5NjkwNl19
--->
+
+**Relaxed Screenings**<br>
+
+Relaxed screenings are presented each month for  
+those in the neurodiverse community, their assistants and carers.
+
+• Customers can select their seats when they arrive in the auditorium. You may sit with your family/friendship group or there are some single seats if you prefer.
+
+• Please leave space between yourself and other groups and retain your selected seats for the duration of the performance if possible.
+
+• We encourage you to wear a face covering if you are  able to.
+
+• You are welcome to take refreshments into the auditorium but no hot food please.
+
+• Doors will open 30 minutes before the screening.
+
+• No trailers will be shown.
+
+• The programme will be introduced.
+
+• Our house lights will remain on a low level throughout the screening, and the volume will be turned slightly down.
+
+• You will be able to leave the auditorium and return during the screening.
+
+• There will be a quiet space to use if you need to leave the auditorium.
+
+• We understand you may make some noise.
+
+• Please ask us if you need help.
