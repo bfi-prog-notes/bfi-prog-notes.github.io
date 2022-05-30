@@ -7,6 +7,17 @@ _Frequencies_ is the opening feature in a series of three screenings in this str
 
 Please join us for an informal discussion in the Blue Room after the screening.<br>
 
+**FREQUENCIES**<br>
+ **(AKA OXV: THE MANUAL)**<br>
+_Director:_ Darren Paul Fisher<br>
+_With:_<br>
+Daniel Fraser _(Zak)_<br>
+Eleanor Wyld _(Marie)_<br>
+Owen Pugh _(Theo)_<br>
+
+Australia/UK 2013<br>
+105 mins<br>
+
 **Relaxed Screenings**<br>
 
 Relaxed screenings are presented each month for  
@@ -35,6 +46,18 @@ those in the neurodiverse community, their assistants and carers.
 • We understand you may make some noise.
 
 • Please ask us if you need help.
+
+
+
+
+**Presented in partnership with**  **Citizen Autistic: The London Autism Film Club.**
+
+**We welcome your feedback  
+on this screening. Relaxedscreeningsfeedback@bfi.**
+
+**org.uk**
+
+**BFI Southbank has been awarded the National Autistic Society’s Autism Friendly Award.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Njg3OTQwMl19
+eyJoaXN0b3J5IjpbLTYyNDAwMTkyOV19
 -->
