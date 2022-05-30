@@ -59,39 +59,30 @@ Relaxedscreeningsfeedback@bfi.org.uk**
 
 
 
-**RELAXED SERIES:**<br>
-**NATURAL CONNECTIONS**
+**RELAXED SERIES:**
+**NATURAL CONNECTIONS**<br>
 
-**A three-film series curated by Benjamin Brown, founder of Citizen Autistic.**
+**A three-film series curated by Benjamin Brown, founder of Citizen Autistic.**<br>
 
-‘Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.’  
-Marie Curie (1867-1934)
+‘Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.’  Marie Curie (1867-1934)
 
 Marie-Curie happens to be the name of a central character in _Frequencies_, the opening feature in a three-film series exploring difference and the sensory effects the ambient sights and sounds of nature can have upon both body and mind.
 
 Throughout the series sound is made tactile, something to be touched and felt, through expressive, multi-layered sound design and sonorous soundscapes humming with the low-bass frequencies and rhythmical droning of today’s hyper-stimulated world.
 
-**The next relaxed screenings are:**
-
+**The next relaxed screenings are:**<br>
 **IN PURSUIT OF SILENCE**
-
 **+ intro and discussion**
-
 **Monday 27 June 18:20**
-
 **NFT3**
 
 **ELECTRICITY**
-
 **+ intro and discussion**
-
 **Monday 25 July 18:15 NFT3**
 
 **Find out more at**
-
 **www.whatson.bfi.org.uk**
-
 **and bfi.org.uk/relaxed**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDkwOTQyMF19
+eyJoaXN0b3J5IjpbMTQ0OTY5NjkwNl19
 -->
