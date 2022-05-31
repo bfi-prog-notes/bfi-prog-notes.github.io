@@ -58,7 +58,7 @@ Tue 21 Jun 20:40; Tue 28 Jun 18:15 (+ intro by Dirk Bogarde’s nephew, Ulric va
 Visit one of the oldest vintage shops in the heart of London.<br>
 @blackout2vintagefashion<br>
 <img style="float: left;" src="/img/blackout3.jpg"><br><br>
-
+<br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
