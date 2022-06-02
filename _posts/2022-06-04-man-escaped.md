@@ -39,14 +39,12 @@ _Editor:_ Raymond Lamy
 _Art Director:_ Pierre Charbonnier  
 _Assistant Art Director:_ Sydney Bettex  
 _Music:_ Wolfgang Amadeus Mozart  
-
 _Orchestra Conductor:_ I. Disenhaus  
 _Sound Recordist:_ Pierre-André Bertrand  
 _Assistant Sound:_ Joseph Abjean, Guy Rophé  
-_Studio:_ Studios Saint-Maurice
+_Studio:_ Studios Saint-Maurice  
 
-**Cast**
-
+**Cast**  
 François Leterrier _(Lieutenant Fontaine)_  
 Charles Le Clainche _(Jost)_  
 Maurice Beerblock _(Blanchet)_  
@@ -58,14 +56,14 @@ Jean-Philippe Delamarre _(prisoner 110)_
 César Gattegno _(prisoner X)_  
 Jacques Oerlemans _(chief warder)_  
 Klaus Detlef Grevenhorst _(German intelligence officer)_  
-Leonhard Schmidt _(German escort)_
+Leonhard Schmidt _(German escort)_  
 
-  
-France 1956
+The screening on Saturday 18 June will be introduced by independent filmmaker and critic Alex Barrett.  
 
-90 mins
+France 1956  
+90 mins  
 
-* Uncredited
+\* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg1ODAwMDFdfQ==
+eyJoaXN0b3J5IjpbMTgyNzkyMjg2MV19
 -->
