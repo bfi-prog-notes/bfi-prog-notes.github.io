@@ -1,3 +1,14 @@
+---
+layout: post
+title: Au hasard Balthazar
+published: true
+date: 2022-06-04
+readtime: true
+categories: ['OF SIN AND SALVATION<br>THE CINEMA OF ROBERT BRESSON']
+tags: [Drama]
+metadata: 'France 1966, 95 mins<br> Director: Robert Bresson'
+pdf: '2022-06-04-au-hasard-balthazar.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.<br>
 
@@ -11,8 +22,7 @@ But the paradox of the film is that, physically speaking, it is actually Balthaz
 Admire, too, Bresson’s extraordinary use of non-actors. There is a whole treatise to be written on Bresson’s use of eyes in this film, starting on the one hand with the unwinking stares, full of secret knowledge and complicity, which pass between Balthazar and the animals in the circus; and on the other, the veiled secrecy of the humans – except Gérard, who stares boldly straight at Marie and at the camera – as they cast their eyes downwards to place a question mark to their utterances.<br>
 **_Monthly Film Bulletin_, January 1967**<br>
 
-The world changes, but not Bresson. _Au hasard Balthazar_ is his greatest and most Bressonian film, but not merely because it echoes the arrogance of  
-_Les Anges du péché_, the waterfall of _Les Dames du Bois de Boulogne_, the letter reading of _Le Journal d’un curé de campagne_, the gear-lever of  _Un condamné à mort_, the hands of _Pickpocket_, the naked feet of _Jeanne d’Arc_. It is great because in the harmonies and dissonances between the characters (Marie in particular) and the donkey, Balthazar, and between successive images, between images and soundtrack, there is a dynamic exchange reaching to the limits of possibility whereby each is enriched, transformed by the contact. Motion and stasis, repetition and fulfilment, transition, resonance of sequence against sequence, reality against fantasy, flesh against spirit, sight against sound: Bresson’s style is in perfect working order, a well-oiled machine set to reveal the secret, inner movement he cherishes.
+The world changes, but not Bresson. _Au hasard Balthazar_ is his greatest and most Bressonian film, but not merely because it echoes the arrogance of _Les Anges du péché_, the waterfall of _Les Dames du Bois de Boulogne_, the letter reading of _Le Journal d’un curé de campagne_, the gear-lever of  _Un condamné à mort_, the hands of _Pickpocket_, the naked feet of _Jeanne d’Arc_. It is great because in the harmonies and dissonances between the characters (Marie in particular) and the donkey, Balthazar, and between successive images, between images and soundtrack, there is a dynamic exchange reaching to the limits of possibility whereby each is enriched, transformed by the contact. Motion and stasis, repetition and fulfilment, transition, resonance of sequence against sequence, reality against fantasy, flesh against spirit, sight against sound: Bresson’s style is in perfect working order, a well-oiled machine set to reveal the secret, inner movement he cherishes.
 
 Assuming his audience to be adult, and refusing to do their work for them, Bresson does not explain his film or stress its few scattered keys. The principal themes to be orchestrated throughout the film are introduced right from the beginning. We see a foal suckled by its mother, a child’s caressing hands, a strange baptism in the salt of wisdom, children playing in the straw, a bench, a swing, the death of a little girl, a carriage laden with luggage; a murmured phrase, ‘Till next year!’ which an irony of fate renders meaningless as soon as it is uttered (the father has no intention of coming back). Then a swift transition: blows raining on the donkey, the donkey being shod. After the petting, the years of work and hardship, the sand to be carted, the fields to be ploughed. The sequence ends on an image of the donkey, injustice and hypocrisy already lashing him like blows from a whip.
 
@@ -77,6 +87,49 @@ France/Sweden 1966<br>
 95 mins<br>
 
 \* Uncredited<br>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4MTM5MjY1XX0=
--->
+
+
+
+**OF SIN AND SALVATION:**
+**THE CINEMA OF ROBERT BRESSON**<br>
+**Diary of a Country Priest (Journal d’un curé de campagne)**<br>
+Thu 2 Jun 20:10; Sat 4 Jun 12:40; Mon 20 Jun 18:10<br>
+**Les Anges du péché (Angels of Sin)**<br>
+Fri 3 Jun 14:20; Sun 12 Jun 12:30<br>
+**Les Dames du Bois de Boulogne**<br>
+Fri 3 Jun 18:30; Mon 13 Jun 20:40<br>
+**Mouchette**<br>
+Fri 3 Jun 20:30; Fri 10 Jun 18:30; Wed 15 Jun 18:20; Wed 22 Jun 20:45<br>
+**A Man Escaped (Un Condamné à mort s’est échappé)**<br>
+Sat 4 Jun 15:40; Sat 18 Jun 18:10 (+ intro by independent filmmaker and critic Alex Barrett); Thu 23 Jun 20:45<br>
+**Au hasard Balthazar**<br>
+Sat 4 Jun 18:20; Tue 7 Jun 20:45; Fri 17 Jun 18:30<br>
+**L’Argent (Money)**<br>
+Sun 5 Jun 16:00; Thu 16 Jun 20:30<br>
+**The Trial of Joan of Arc (Procès de Jeanne d’Arc)**<br>
+Sun 5 Jun 18:40; Wed 29 Jun 20:50<br>
+**Style, Anti-style and Influence: Robert Bresson Re-assessed**<br>
+Tue 7 Jun 18:20
+**Une Femme douce (A Gentle Creature)**<br>
+Thu 9 Jun 20:40; Sat 18 Jun 13:30<br>
+**Lancelot du Lac (Lancelot of the Lake)**<br>
+Thu 16 Jun 18:30; Mon 20 Jun 20:45<br>
+**The Devil, Probably (Le Diable probablement)**<br>
+Sun 19 Jun 18:10; Mon 27 Jun 20:30<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
