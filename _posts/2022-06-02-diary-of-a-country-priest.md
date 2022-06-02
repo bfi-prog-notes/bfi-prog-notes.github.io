@@ -87,7 +87,6 @@ France 1951
 \* Uncredited  
 
 
-
 **OF SIN AND SALVATION:**
 **THE CINEMA OF ROBERT BRESSON**
 **Diary of a Country Priest (Journal d’un curé de campagne)**
@@ -115,5 +114,5 @@ Thu 16 Jun 18:30; Mon 20 Jun 20:45
 **The Devil, Probably (Le Diable probablement)**
 Sun 19 Jun 18:10; Mon 27 Jun 20:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzk0NTQ4Ml19
+eyJoaXN0b3J5IjpbLTE2Mjc1MjMyOCwxMjI3OTQ1NDgyXX0=
 -->
