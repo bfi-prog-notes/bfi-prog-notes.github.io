@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Les Dames du Bois de Boulogne
+title: Les Dames<br> du Bois de Boulogne
 published: true
 date: 2022-06-03
 readtime: true
