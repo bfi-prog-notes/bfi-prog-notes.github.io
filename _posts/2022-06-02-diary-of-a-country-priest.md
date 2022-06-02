@@ -45,7 +45,7 @@ _Make-up:_ René Daudin *
 _Music:_ Jean-Jacques Grünenwald  
 _Sound Supervisor:_ Jean Rieul<br>
 
-**Cast**
+**Cast**<br>
 Claude Laydu _(Curé d’Ambricourt)_  
 Léon Arvel _(Fabregars)_  
 Balpêtré _(Docteur Delbende)_  
@@ -73,31 +73,31 @@ France 1951
 
 
 **OF SIN AND SALVATION:**
-**THE CINEMA OF ROBERT BRESSON**
-**Diary of a Country Priest (Journal d’un curé de campagne)**
-Thu 2 Jun 20:10; Sat 4 Jun 12:40; Mon 20 Jun 18:10
-**Les Anges du péché (Angels of Sin)**
-Fri 3 Jun 14:20; Sun 12 Jun 12:30
-**Les Dames du Bois de Boulogne**
-Fri 3 Jun 18:30; Mon 13 Jun 20:40
-**Mouchette**
-Fri 3 Jun 20:30; Fri 10 Jun 18:30; Wed 15 Jun 18:20; Wed 22 Jun 20:45
-**A Man Escaped (Un Condamné à mort s’est échappé)**
-Sat 4 Jun 15:40; Sat 18 Jun 18:10 (+ intro by independent filmmaker and critic Alex Barrett); Thu 23 Jun 20:45
-**Au hasard Balthazar**
-Sat 4 Jun 18:20; Tue 7 Jun 20:45; Fri 17 Jun 18:30
-**L’Argent (Money)**
-Sun 5 Jun 16:00; Thu 16 Jun 20:30
-**The Trial of Joan of Arc (Procès de Jeanne d’Arc)**
-Sun 5 Jun 18:40; Wed 29 Jun 20:50
-**Style, Anti-style and Influence: Robert Bresson Re-assessed**
+**THE CINEMA OF ROBERT BRESSON**<br>
+**Diary of a Country Priest (Journal d’un curé de campagne)**<br>
+Thu 2 Jun 20:10; Sat 4 Jun 12:40; Mon 20 Jun 18:10<br>
+**Les Anges du péché (Angels of Sin)**<br>
+Fri 3 Jun 14:20; Sun 12 Jun 12:30<br>
+**Les Dames du Bois de Boulogne**<br>
+Fri 3 Jun 18:30; Mon 13 Jun 20:40<br>
+**Mouchette**<br>
+Fri 3 Jun 20:30; Fri 10 Jun 18:30; Wed 15 Jun 18:20; Wed 22 Jun 20:45<br>
+**A Man Escaped (Un Condamné à mort s’est échappé)**<br>
+Sat 4 Jun 15:40; Sat 18 Jun 18:10 (+ intro by independent filmmaker and critic Alex Barrett); Thu 23 Jun 20:45<br>
+**Au hasard Balthazar**<br>
+Sat 4 Jun 18:20; Tue 7 Jun 20:45; Fri 17 Jun 18:30<br>
+**L’Argent (Money)**<br>
+Sun 5 Jun 16:00; Thu 16 Jun 20:30<br>
+**The Trial of Joan of Arc (Procès de Jeanne d’Arc)**<br>
+Sun 5 Jun 18:40; Wed 29 Jun 20:50<br>
+**Style, Anti-style and Influence: Robert Bresson Re-assessed**<br>
 Tue 7 Jun 18:20
-**Une Femme douce (A Gentle Creature)**
-Thu 9 Jun 20:40; Sat 18 Jun 13:30
-**Lancelot du Lac (Lancelot of the Lake)**
-Thu 16 Jun 18:30; Mon 20 Jun 20:45
-**The Devil, Probably (Le Diable probablement)**
-Sun 19 Jun 18:10; Mon 27 Jun 20:30
+**Une Femme douce (A Gentle Creature)**<br>
+Thu 9 Jun 20:40; Sat 18 Jun 13:30<br>
+**Lancelot du Lac (Lancelot of the Lake)**<br>
+Thu 16 Jun 18:30; Mon 20 Jun 20:45<br>
+**The Devil, Probably (Le Diable probablement)**<br>
+Sun 19 Jun 18:10; Mon 27 Jun 20:30<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODk4NjgxMjcsMTIyNzk0NTQ4Ml19
+eyJoaXN0b3J5IjpbLTk1NzI4MDYyOSwxMjI3OTQ1NDgyXX0=
 -->
