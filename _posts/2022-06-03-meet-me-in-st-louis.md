@@ -30,78 +30,77 @@ You can almost hear her laughing at herself, because of course she knew the talk
 So _Meet Me in St. Louis_ got done, and Judy and Vincente somehow persuaded themselves that the screen’s light could be theirs too. So they got married, in June 1945. As for the picture, which has lasted so much longer, it cost $1.7 million (a lot – Metro built a whole block of St. Louis) and made $7.5 million on its first run, a studio record after _Gone with the Wind_. So LB was right again. But he was always right in those days, or lucky enough to have that reputation.<br>
 **David Thomson, _Sight and Sound_, December 2001**<br>
 
-**MEET ME IN ST. LOUIS**
-_Director:_ Vincente Minnelli
-_Production Companies:_ Loew’s Incorporated, Metro-Goldwyn-Mayer
-_Producer:_ Arthur Freed
-_Screenplay:_ Irving Brecher, Fred F. Finklehoffe
-_Based on the novel by:_ Sally Benson
-_Director of Photography:_ George Folsey
-_Technicolor Colour Director:_ Natalie Kalmus
-_Film Editor:_ Albert Akst
-_Art Directors:_ Cedric Gibbons, Lemuel Ayers, Jack Martin Smith
-_Set Decorator:_ Edwin B. Willis
-_Associate:_ Paul Huldschinsky
-_Costume Designer:_ Sharaff
-_Costume Supervisor:_ Irene
-_Make-up Created by:_ Jack Dawn
-_Music Director:_ Georgie Stoll
-_Orchestrations:_ Conrad Salinger
-_Dance Director:_ Charles Walters
-_Recording Director:_ Douglas Shearer
-_uncredited_
-_Unit Manager:_ Dave Friedman
-_Assistant Directors:_ J.E. Jennings, Wallace Worsley
-_Associate Technicolor Colour Director:_ Henri Jaffa
-_2nd Camera:_ Robert Bronner
-_Matte Paintings Camera:_ Mark H. Davis
-_Miniature/Transparency Projection Shots:_ A. Arnold Gillespie
-_Matte Paintings:_ Warren Newcombe
-_Miniatures Assistant:_ Donald Jahraus
-_Music Adaptation:_ Roger Edens
-_Music Mixers:_ Mike McLaughlin, Herbert Stahlberg
-_Unit Mixer:_ Joe Edmondson
-_Re-recording/Effects Mixers:_ Standish J. Lambert, Frank Mackenzie, Robert Shirley, Newell Sparks, William Steinkamp,  Michael Steinore, John A. Williams
-_Voice Doubles for Mary Astor:_ Rose Paidar, Eileen Wilson
+**MEET ME IN ST. LOUIS**<br>
+_Director:_ Vincente Minnelli<br>
+_Production Companies:_ Loew’s Incorporated, Metro-Goldwyn-Mayer<br>
+_Producer:_ Arthur Freed<br>
+_Screenplay:_ Irving Brecher, Fred F. Finklehoffe<br>
+_Based on the novel by:_ Sally Benson<br>
+_Director of Photography:_ George Folsey<br>
+_Technicolor Colour Director:_ Natalie Kalmus<br>
+_Film Editor:_ Albert Akst<br>
+_Art Directors:_ Cedric Gibbons, Lemuel Ayers, Jack Martin Smith<br>
+_Set Decorator:_ Edwin B. Willis<br>
+_Associate:_ Paul Huldschinsky<br>
+_Costume Designer:_ Sharaff<br>
+_Costume Supervisor:_ Irene<br>
+_Make-up Created by:_ Jack Dawn<br>
+_Music Director:_ Georgie Stoll<br>
+_Orchestrations:_ Conrad Salinger<br>
+_Dance Director:_ Charles Walters<br>
+_Recording Director:_ Douglas Shearer<br>
+_uncredited_<br>
+_Unit Manager:_ Dave Friedman<br>
+_Assistant Directors:_ J.E. Jennings, Wallace Worsley<br>
+_Associate Technicolor Colour Director:_ Henri Jaffa<br>
+_2nd Camera:_ Robert Bronner<br>
+_Matte Paintings Camera:_ Mark H. Davis<br>
+_Miniature/Transparency Projection Shots:_ A. Arnold Gillespie<br>
+_Matte Paintings:_ Warren Newcombe<br>
+_Miniatures Assistant:_ Donald Jahraus<br>
+_Music Adaptation:_ Roger Edens<br>
+_Music Mixers:_ Mike McLaughlin, Herbert Stahlberg<br>
+_Unit Mixer:_ Joe Edmondson<br>
+_Re-recording/Effects Mixers:_ Standish J. Lambert, Frank Mackenzie, Robert Shirley, Newell Sparks, William Steinkamp,  Michael Steinore, John A. Williams<br><br>
+_Voice Doubles for Mary Astor:_ Rose Paidar, Eileen Wilson<br>
 
-**Cast**
-Judy Garland _(Esther Smith)_
-Margaret O’Brien _(‘Tootie’ Smith)_
-Mary Astor _(Mrs Anna Smith)_
-Lucille Bremer _(Rose Smith)_
-Leon Ames _(Mr Alzonzo ‘Lon’ Smith)_
-Tom Drake _(John Truett)_
-Marjorie Main _(Katie, the maid)_
-Harry Davenport _(Grandpa Prophater)_
-June Lockhart _(Lucille Ballard)_
-Henry Daniels Jr _(Lon Smith Jr)_
-Joan Carroll _(Agnes Smith)_
-Hugh Marlowe _(Colonel Darly)_
-Robert Sully _(Warren Sheffield)_
-Chill Wills _(Mr Neely)_
-_uncredited_
-Donald Curtis _(Dr Girard)_
-Mary Jo Ellis _(Ida Boothby)_
-Ken Wilson _(Quentin)_
-Robert Emmett O’Connor _(motorman)_
-Darryl Hickman _(Johnny Tevis)_
-Dr Leonard Walker _(conductor)_
-Victor Kilian _(baggage man)_
-John Phipps _(mailman)_
-Sam Harris _(Mr March)_
-Mayo Newhall _(Mr Braukoff)_
-Belle Mitchell _(Mrs Braukoff)_
-Sidney Barnes _(Hugo Borvis)_
-Myron Tobias _(George)_
-Victor Cox _(driver)_
-Kenneth Donner, Buddy Gorman,  
-Joe Cobb _(Clinton Badgers)_
-Helen Gilbert _(girl on trolley)_
-Music Maids
-Seckler Group
+**Cast**<br>
+Judy Garland _(Esther Smith)_<br>
+Margaret O’Brien _(‘Tootie’ Smith)_<br>
+Mary Astor _(Mrs Anna Smith)_<br>
+Lucille Bremer _(Rose Smith)_<br>
+Leon Ames _(Mr Alzonzo ‘Lon’ Smith)_<br>
+Tom Drake _(John Truett)_<br>
+Marjorie Main _(Katie, the maid)_<br>
+Harry Davenport _(Grandpa Prophater)_<br>
+June Lockhart _(Lucille Ballard)_<br>
+Henry Daniels Jr _(Lon Smith Jr)_<br>
+Joan Carroll _(Agnes Smith)_<br>
+Hugh Marlowe _(Colonel Darly)_<br>
+Robert Sully _(Warren Sheffield)_<br>
+Chill Wills _(Mr Neely)_<br>
+_uncredited_<br>
+Donald Curtis _(Dr Girard)_<br>
+Mary Jo Ellis _(Ida Boothby)_<br>
+Ken Wilson _(Quentin)_<br>
+Robert Emmett O’Connor _(motorman)_<br>
+Darryl Hickman _(Johnny Tevis)_<br>
+Dr Leonard Walker _(conductor)_<br>
+Victor Kilian _(baggage man)_<br>
+John Phipps _(mailman)_<br>
+Sam Harris _(Mr March)_<br>
+Mayo Newhall _(Mr Braukoff)_<br>
+Belle Mitchell _(Mrs Braukoff)_<br>
+Sidney Barnes _(Hugo Borvis)_<br>
+Myron Tobias _(George)_<br>
+Victor Cox _(driver)_<br>
+Kenneth Donner, Buddy Gorman,  Joe Cobb _(Clinton Badgers)_<br>
+Helen Gilbert _(girl on trolley)_<br>
+Music Maids<br>
+Seckler Group<br>
 
-USA 1944©
-113 mins
+USA 1944©<br>
+113 mins<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjcwOTE2NV19
+eyJoaXN0b3J5IjpbODU3OTk2NzE1XX0=
 -->
