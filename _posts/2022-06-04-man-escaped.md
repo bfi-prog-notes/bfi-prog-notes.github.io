@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: A Man Escaped
+published: true
+date: 2022-06-04
+readtime: true
+categories: ['OF SIN AND SALVATION<br>THE CINEMA OF ROBERT BRESSON']
+tags: [Drama]
+metadata: 'France 1956, 90 mins<br> Director: Robert Bresson'
+pdf: '2022-06-04-man-escaped.pdf'
+---
 
 The subject is simple. It comes from an escape story by a member of the French secret service called André Devigny. In 1943 he was arrested and interrogated by the Gestapo at Lyons. He made an attempt to escape from a moving car while being taken to prison. It failed. Recaptured and beaten up, he was placed in solitary confinement at the prison called Fort Montluc. He was still determined to escape, only more carefully. After several weeks he managed to dissect three panels from his wooden cell door with an iron spoon that he’d sharpened against the floor. The next stage was to make a rope. The springs of his bed, uncoiled one by one, were a starting point. A parcel of shirts and pyjamas from his family arrived fortunately to be torn into strips and knotted round the springs. Months have passed now. He is ready and yet he does nothing, suddenly overtaken by an inner lethargy. It is only another interview with the Gestapo and the pronouncement of his death sentence that impel him to action. He will escape now. But a 16 year old boy is put in the same cell with him. Is he an informer for the Germans? Ragged and lousy, he tells a story of hiding out and eventual capture, but he wears part of a German uniform. For two days Fontaine, as the hero is called, wonders whether to trust him or kill him. They escape together.
 
@@ -64,6 +74,49 @@ France 1956
 90 mins  
 
 \* Uncredited
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzkyMjg2MV19
--->
+
+
+
+**OF SIN AND SALVATION:**
+**THE CINEMA OF ROBERT BRESSON**<br>
+**Diary of a Country Priest (Journal d’un curé de campagne)**<br>
+Thu 2 Jun 20:10; Sat 4 Jun 12:40; Mon 20 Jun 18:10<br>
+**Les Anges du péché (Angels of Sin)**<br>
+Fri 3 Jun 14:20; Sun 12 Jun 12:30<br>
+**Les Dames du Bois de Boulogne**<br>
+Fri 3 Jun 18:30; Mon 13 Jun 20:40<br>
+**Mouchette**<br>
+Fri 3 Jun 20:30; Fri 10 Jun 18:30; Wed 15 Jun 18:20; Wed 22 Jun 20:45<br>
+**A Man Escaped (Un Condamné à mort s’est échappé)**<br>
+Sat 4 Jun 15:40; Sat 18 Jun 18:10 (+ intro by independent filmmaker and critic Alex Barrett); Thu 23 Jun 20:45<br>
+**Au hasard Balthazar**<br>
+Sat 4 Jun 18:20; Tue 7 Jun 20:45; Fri 17 Jun 18:30<br>
+**L’Argent (Money)**<br>
+Sun 5 Jun 16:00; Thu 16 Jun 20:30<br>
+**The Trial of Joan of Arc (Procès de Jeanne d’Arc)**<br>
+Sun 5 Jun 18:40; Wed 29 Jun 20:50<br>
+**Style, Anti-style and Influence: Robert Bresson Re-assessed**<br>
+Tue 7 Jun 18:20
+**Une Femme douce (A Gentle Creature)**<br>
+Thu 9 Jun 20:40; Sat 18 Jun 13:30<br>
+**Lancelot du Lac (Lancelot of the Lake)**<br>
+Thu 16 Jun 18:30; Mon 20 Jun 20:45<br>
+**The Devil, Probably (Le Diable probablement)**<br>
+Sun 19 Jun 18:10; Mon 27 Jun 20:30<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
