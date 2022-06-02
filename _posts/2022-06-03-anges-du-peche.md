@@ -20,10 +20,9 @@ The closed religious community is an ideal setting for a psychological thriller 
 These are aspects of the film’s richness, but they are not systematically explored. Instead we are invited to consider, in the case of both Anne-Marie and Thérèse, the nature of their vocation. Can someone as pretty and frivolous as Anne-Marie seriously renounce the world? Doesn’t her exuberance indicate that she is unsuited to religious life? Is she not too wealthy, materially and perhaps psychologically, to accept material and spiritual poverty? Conversely, Thérèse is a criminal. Is she beyond redemption because she is a murderess? The nuns, of course, do not think so, but the viewer has doubts. The lover she shoots is never seen and we only have her word for it that she was framed. In worldly terms, she is not an immediately attractive character (made less attractive by the contrast with Anne-Marie) and our own worldliness immediately accords her fewer privileges. Moreover, her guilt seems to be confirmed by the spiritual transformation she undergoes, absorbing herself in Anne-Marie’s concerns and taking the latter’s vows for her before submitting to secular justice. Even someone entirely unsympathetic to the Bressonian dilemma could not help but admire the rigour with which it is set out.
 
 None of this would command our attention, however, were it not for the aestheticism of Bresson’s _mise en scène_. The film is a spatial poem: the nuns’ figures, triangles of light and shade, are disposed like chess pieces, but instead of the flatness of the chequered board, they are given a luminosity which may well point to spirituality but which bespeaks sensuousness. It is an acute irony that the filmmaker whose style has been called Jansenist, who is renowned for his austerity should, precisely by means of restraint and absence, achieve a kind of ecstasy of aestheticism. The film is deliberately Manichean, contrasting black and white, good and evil, the flagstones, the black cat, the nuns’ black shadows on white walls, all striving towards a starkness and purity of motive and resolution denied by the ambiguity and mixed feelings characteristic of secular life. Some of the same formal procedures can be found in Bresson’s following film, _Les Dames du Bois de Boulogne_ or, indeed, in his disciple, Joseph Losey, whose investigations of secular evil in _Eve_ and _Don Giovanni_ show how influential _Les Anges du péché_ has been. Yet all these examples tend to confirm that the convent setting is crucial in the film, not just morally but aesthetically, and that it is the fusion of painterly and spiritual preoccupations which gives _Les Anges du péché_ its edge.<br>
-**Jill Forbes, _Monthly Film Bulletin_, September 1987**
+**Jill Forbes, _Monthly Film Bulletin_, September 1987**<br>
 
-**LES AFFAIRES PUBLIQUES (BEBY INAUGURÉ)**
-
+**LES AFFAIRES PUBLIQUES (BEBY INAUGURÉ)**<br>
 _Director:_ Robert Bresson  
 _Production Company:_ Arc-Films  
 _Administration:_ Geissmann  
@@ -36,11 +35,9 @@ _Music:_ Jean Wiener
 _[Music] Collaborator:_ Roger Desormière  
 _Sound Recording:_ Marcel Petiot  
 _Sound Engineer:_ Georges Gérardot  
-_Technical Adviser:_ André Cerf
+_Technical Adviser:_ André Cerf  
 
-  
-**Cast:**
-
+**Cast**<br>
 Beby _(the chancellor)_  
 Andrée Servilanges _(the princess)_  
 Marcel Dalio _(sculptor/fireman/radio voice/admiral)_  
@@ -49,22 +46,16 @@ Simone Cressier _(Christiane)_
 Jane Pierson _(attendant)_  
 Frank Maurice _(sailor)_  
 André Numès _(gawper)_  
-Jacques Beauvais
-
-Eugène Stuber
-
+Jacques Beauvais  
+Eugène Stuber  
 clowns of the Hiver Circus  
-girls of the Folies Bergères
+girls of the Folies Bergères  
+girls of the Pigalle Theatre  
 
-girls of the Pigalle Theatre
+France 1934  
+23 mins  
 
-  
-France 1934
-
-23 mins
-
-**LES ANGES DU PÉCHÉ**
-
+**LES ANGES DU PÉCHÉ**<br>
 _Director:_ Robert Bresson  
 _Production Company:_ Productions Synops  
 _Producers:_ Roger Richebé, Roland Tual *  
@@ -72,9 +63,7 @@ _Production Manager:_ Dominique Drouin
 _Unit Production Manager:_ André Guillot  
 _Assistant Director:_ Frédéric Liotier  
 _Script Supervisor:_ Madeleine Lefèvre  
-_Screenplay:_ R.L. Bruckberger “Dominicain”, Robert Bresson,
-
-Jean Giraudoux  
+_Screenplay:_ R.L. Bruckberger “Dominicain”, Robert Bresson, Jean Giraudoux  
 _Dialogue:_ Jean Giraudoux  
 _Director of Photography:_ Philippe Agostini  
 _Camera Operator:_ Maurice Pecqueux  
@@ -85,10 +74,9 @@ _Assistant Art Director:_ Roger Claude
 _Music:_ Jean Jacques Grünenwald  
 _‘Salve Regina’ Sung by:_ Irène Joachim  
 _Sound Engineer:_ René Louge  
-_Studio:_ Studios Radio-Cinéma
+_Studio:_ Studios Radio-Cinéma  
 
-**Cast**
-
+**Cast**<br>
 Renée Faure _(Anne-Marie Lamaury)_  
 Jany Holt _(Thérèse)_  
 Sylvie _(the prioress)_  
@@ -109,5 +97,5 @@ France 1943
 
 \* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njk4MjQwOTNdfQ==
+eyJoaXN0b3J5IjpbLTQzMjI4MTI5M119
 -->
