@@ -84,7 +84,36 @@ François Valorbe *
 France 1951  
 110 mins  
 
-\* Uncredited
+\* Uncredited  
+
+
+
+**OF SIN AND SALVATION:**
+**THE CINEMA OF ROBERT BRESSON**
+**Diary of a Country Priest (Journal d’un curé de campagne)**
+Thu 2 Jun 20:10; Sat 4 Jun 12:40; Mon 20 Jun 18:10
+**Les Anges du péché (Angels of Sin)**
+Fri 3 Jun 14:20; Sun 12 Jun 12:30
+**Les Dames du Bois de Boulogne**
+Fri 3 Jun 18:30; Mon 13 Jun 20:40
+**Mouchette**
+Fri 3 Jun 20:30; Fri 10 Jun 18:30; Wed 15 Jun 18:20; Wed 22 Jun 20:45
+**A Man Escaped (Un Condamné à mort s’est échappé)**
+Sat 4 Jun 15:40; Sat 18 Jun 18:10 (+ intro by independent filmmaker and critic Alex Barrett); Thu 23 Jun 20:45
+**Au hasard Balthazar**
+Sat 4 Jun 18:20; Tue 7 Jun 20:45; Fri 17 Jun 18:30
+**L’Argent (Money)**
+Sun 5 Jun 16:00; Thu 16 Jun 20:30
+**The Trial of Joan of Arc (Procès de Jeanne d’Arc)**
+Sun 5 Jun 18:40; Wed 29 Jun 20:50
+**Style, Anti-style and Influence: Robert Bresson Re-assessed**
+Tue 7 Jun 18:20
+**Une Femme douce (A Gentle Creature)**
+Thu 9 Jun 20:40; Sat 18 Jun 13:30
+**Lancelot du Lac (Lancelot of the Lake)**
+Thu 16 Jun 18:30; Mon 20 Jun 20:45
+**The Devil, Probably (Le Diable probablement)**
+Sun 19 Jun 18:10; Mon 27 Jun 20:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjM4OTkwOTNdfQ==
+eyJoaXN0b3J5IjpbMTIyNzk0NTQ4Ml19
 -->
