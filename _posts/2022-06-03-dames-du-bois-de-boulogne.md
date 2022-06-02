@@ -25,20 +25,14 @@ The novel, briefly, means what it is about. In a good novel, emotion is expresse
 
 The apparent subject of _Les Dames_ is a not very believable intrigue, adapted from Diderot’s _Jacques le fataliste_, about how a woman connives to make her former lover marry a prostitute in order to revenge herself on him. The real subject is the triumph of love over hate: love can create, hate can only destroy. Why does Bresson choose such a simple and not very interesting plot to express himself? The answer is, presumably, that he does not want us to get lost in the labyrinth of the well-constructed plot, he does not want us to become so involved with lifelike and identifiable with characters that we will fail to grasp the more general aspects of his theme. Furthermore, the choice of a deliberately artificial plot allows him to ‘eliminate anything which might distract from the interior drama,’ as he himself declared.
 
-The whole _mise en scène_ of the film is not subjugated to an expression of the plot or a pointing up of the story; plot, theme and form are related, but in a much more complex and interesting manner. The whole becomes equal to the multiplication of the parts, not to their sum.
+The whole _mise en scène_ of the film is not subjugated to an expression of the plot or a pointing up of the story; plot, theme and form are related, but in a much more complex and interesting manner. The whole becomes equal to the multiplication of the parts, not to their sum.<br>
+**Richard Roud, _Sight and Sound_, Spring 1962**<br>
 
-**Richard Roud, _Sight and Sound_, Spring 1962**
-
-  
-
-**LES DAMES DU BOIS DE BOULOGNE**
-
+**LES DAMES DU BOIS DE BOULOGNE**<br>
 _Director:_ Robert Bresson  
 _Production Company:_ Films Raoul Ploquin  
 _Production Manager:_ Robert Lavallée  
-_Technical Collaborators:_ Charlot, Karabanoff, Marc-Helin, Rebilly,
-
-[Robert] Turlure, Guillot, Bailly, Barbellion, Clerice  
+_Technical Collaborators:_ Charlot, Karabanoff, Marc-Helin, Rebilly, [Robert] Turlure, Guillot, Bailly, Barbellion, Clerice  
 _Assistant Director:_ Roger Mercanton  
 _Script Supervisor:_ Suzanne Bon  
 _Scenario/Adaptation:_ Robert Bresson  
@@ -51,11 +45,8 @@ _Art Director:_ Max Douy
 _Assistant Art Directors:_ James Allan, Robert Clavel  
 _Music:_ Jean-Jacques Grünenwald  
 _Sound Engineers:_ René Louge, Robert Ivonnet, [Lucien] Legrand  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
 
-**Cast**
-
+**Cast**<br>
 Paul Bernard _(Jean)_  
 Maria Casarès _(Hélène)_  
 Élina Labourdette _(Agnès)_  
@@ -67,13 +58,12 @@ Nicole Regnault *
 Emma Lyonel *
 Marguerite de Morlaye *  
 Marcel Rouzé *
-Bernard Lajarrige *
+Bernard Lajarrige *  
 
-  
-France 1945
-86 mins
+France 1945  
+86 mins  
 
-* Uncredited
+\* Uncredited<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzM2MTk5MV19
+eyJoaXN0b3J5IjpbLTIxMjQwMjI1ODVdfQ==
 -->
