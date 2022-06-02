@@ -63,12 +63,10 @@ Raymonde Chabrun _(grocer)_
 Liliane Pringet _(teacher)_ *  
 Robert Bresson _(passer-by at the fair)_ *<br>
 
-  
-France 1966
+France 1966<br>
+90 mins<br>
 
-90 mins
-
-* Uncredited
+\* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTA0NTg0MF19
+eyJoaXN0b3J5IjpbLTEzNzQyNjc5ODRdfQ==
 -->
