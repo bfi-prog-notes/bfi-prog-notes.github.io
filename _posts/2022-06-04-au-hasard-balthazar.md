@@ -18,18 +18,12 @@ Assuming his audience to be adult, and refusing to do their work for them, Bress
 
 Already Bresson has introduced the main themes from his concerto for donkey and orchestra. The carriage represents departure and escape (there are numerous attempts, successful, unsuccessful, or simply projected); the bench and the swing, respectively, represent stability (marriage, family, wealth – the Jacques theme) and movement, excitement, risk (carnal love, truancy, perdition – the theme of Gérard, Arnold, the old miser). The whole film hangs hesitating in a balance between two poles: between good and evil, richness and poverty, honesty and dishonesty, justice and injustice, love and hatred, novelty and tradition, sacred and profane love, the folly of the modern world and the wisdom of a return to the simple life, to the soft, shadowy hillside landscapes which Bresson has portrayed with the nuanced delicacy of a Corot.
 
-In a cinema still struggling to find expression, Bresson’s work soars like the spire of a cathedral. Yielding nothing, accepting no compromise, he makes his own grace – and his own isolation. After _Balthazar_, we know that only Bresson can make us sense the ineffable, see the invisible, touch the intangible.
+In a cinema still struggling to find expression, Bresson’s work soars like the spire of a cathedral. Yielding nothing, accepting no compromise, he makes his own grace – and his own isolation. After _Balthazar_, we know that only Bresson can make us sense the ineffable, see the invisible, touch the intangible.<br>
+**Gilles Jacob, _Sight and_ Sound, Winter 1966-67**<br>
 
-**Gilles Jacob, _Sight and_ Sound, Winter 1966-67**
-
-  
-
-**AU HASARD BALTHAZAR**
-
+**AU HASARD BALTHAZAR**<br>
 _Director:_ Robert Bresson  
-_Production Companies:_ Parc Film, Argos-Films, Athos-Films,
-
-Svensk Filmindustri, Svenska Filminstitutet  
+_Production Companies:_ Parc Film, Argos-Films, Athos-Films, Svensk Filmindustri, Svenska Filminstitutet  
 _Associate Producer:_ Mag Bodard  
 _Production Manager:_ Philippe Dussart  
 _Assistant Production Managers:_ Michel Choquet, René Pascal  
@@ -46,11 +40,11 @@ _Art Director:_ Pierre Charbonnier
 _Set Decorator:_ Dominique Ribeyrolles  
 _Props:_ Jean Catala  
 _Dresser:_ Guy Renault  
-Sonate No 20 _by_ _Franz Schubert performed on piano by:_ Jean-Joël Barbier
+Sonate No 20 _by_ _Franz Schubert performed on piano by:_ Jean-Joël Barbier  
 _Jazz/Songs:_ Jean Wiener  
 _Sound Engineers:_ Antoine Archimbaud, Jacques Carrère  
 
-**Cast**
+**Cast**<br>
 Anne Wiazemsky _(Marie)_  
 Walter Green _(Jacques)_  
 François Lafarge _(Gérard)_  
@@ -77,13 +71,12 @@ Roger Fjellstrom _(Gérard’s friend)_
 Isabelle de Winter  
 Sven Frostenson _(Gérard’s friend)_  
 José Ruiz Pernias  
-Rémy Brozeck _(Marcel)_ *
+Rémy Brozeck _(Marcel)_ *  
 
-  
-France/Sweden 1966
-95 mins
+France/Sweden 1966<br>
+95 mins<br>
 
-* Uncredited
+\* Uncredited<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxODIzODE5XX0=
+eyJoaXN0b3J5IjpbOTM4MTM5MjY1XX0=
 -->
