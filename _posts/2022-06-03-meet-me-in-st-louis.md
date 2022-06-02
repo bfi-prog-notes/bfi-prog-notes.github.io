@@ -33,140 +33,75 @@ So _Meet Me in St. Louis_ got done, and Judy and Vincente somehow persuaded them
 **MEET ME IN ST. LOUIS**
 _Director:_ Vincente Minnelli
 _Production Companies:_ Loew’s Incorporated, Metro-Goldwyn-Mayer
-
 _Producer:_ Arthur Freed
-
 _Screenplay:_ Irving Brecher, Fred F. Finklehoffe
-
 _Based on the novel by:_ Sally Benson
-
 _Director of Photography:_ George Folsey
-
 _Technicolor Colour Director:_ Natalie Kalmus
-
 _Film Editor:_ Albert Akst
-
 _Art Directors:_ Cedric Gibbons, Lemuel Ayers, Jack Martin Smith
-
 _Set Decorator:_ Edwin B. Willis
-
 _Associate:_ Paul Huldschinsky
-
 _Costume Designer:_ Sharaff
-
 _Costume Supervisor:_ Irene
-
 _Make-up Created by:_ Jack Dawn
-
 _Music Director:_ Georgie Stoll
-
 _Orchestrations:_ Conrad Salinger
-
 _Dance Director:_ Charles Walters
-
 _Recording Director:_ Douglas Shearer
-
 _uncredited_
-
 _Unit Manager:_ Dave Friedman
-
 _Assistant Directors:_ J.E. Jennings, Wallace Worsley
-
 _Associate Technicolor Colour Director:_ Henri Jaffa
-
 _2nd Camera:_ Robert Bronner
-
 _Matte Paintings Camera:_ Mark H. Davis
-
 _Miniature/Transparency Projection Shots:_ A. Arnold Gillespie
-
 _Matte Paintings:_ Warren Newcombe
-
 _Miniatures Assistant:_ Donald Jahraus
-
 _Music Adaptation:_ Roger Edens
-
 _Music Mixers:_ Mike McLaughlin, Herbert Stahlberg
-
 _Unit Mixer:_ Joe Edmondson
-
-_Re-recording/Effects Mixers:_ Standish J. Lambert, Frank Mackenzie, Robert Shirley, Newell Sparks, William Steinkamp,  
-Michael Steinore, John A. Williams
-
+_Re-recording/Effects Mixers:_ Standish J. Lambert, Frank Mackenzie, Robert Shirley, Newell Sparks, William Steinkamp,  Michael Steinore, John A. Williams
 _Voice Doubles for Mary Astor:_ Rose Paidar, Eileen Wilson
 
 **Cast**
-
 Judy Garland _(Esther Smith)_
-
 Margaret O’Brien _(‘Tootie’ Smith)_
-
 Mary Astor _(Mrs Anna Smith)_
-
 Lucille Bremer _(Rose Smith)_
-
 Leon Ames _(Mr Alzonzo ‘Lon’ Smith)_
-
 Tom Drake _(John Truett)_
-
 Marjorie Main _(Katie, the maid)_
-
 Harry Davenport _(Grandpa Prophater)_
-
 June Lockhart _(Lucille Ballard)_
-
 Henry Daniels Jr _(Lon Smith Jr)_
-
 Joan Carroll _(Agnes Smith)_
-
 Hugh Marlowe _(Colonel Darly)_
-
 Robert Sully _(Warren Sheffield)_
-
 Chill Wills _(Mr Neely)_
-
 _uncredited_
-
 Donald Curtis _(Dr Girard)_
-
 Mary Jo Ellis _(Ida Boothby)_
-
 Ken Wilson _(Quentin)_
-
 Robert Emmett O’Connor _(motorman)_
-
 Darryl Hickman _(Johnny Tevis)_
-
 Dr Leonard Walker _(conductor)_
-
 Victor Kilian _(baggage man)_
-
 John Phipps _(mailman)_
-
 Sam Harris _(Mr March)_
-
 Mayo Newhall _(Mr Braukoff)_
-
 Belle Mitchell _(Mrs Braukoff)_
-
 Sidney Barnes _(Hugo Borvis)_
-
 Myron Tobias _(George)_
-
 Victor Cox _(driver)_
-
 Kenneth Donner, Buddy Gorman,  
 Joe Cobb _(Clinton Badgers)_
-
 Helen Gilbert _(girl on trolley)_
-
 Music Maids
-
 Seckler Group
 
 USA 1944©
-
 113 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzM4NDU4M119
+eyJoaXN0b3J5IjpbMTg1NjcwOTE2NV19
 -->
