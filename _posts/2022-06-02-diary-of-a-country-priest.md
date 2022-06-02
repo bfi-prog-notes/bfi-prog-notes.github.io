@@ -1,41 +1,31 @@
-<![endif]-->
 
-This portrait of an ailing young curate haunted by his perceived failures in saving human souls is something of a transitional work; the literary script (from a novel by Georges Bernanos) is played out by a partly non-professional cast, while a new, stark visual simplicity is introduced. The dark subject matter is transformed by Bresson’s distinctive narrative style – the illuminating interplay of voiceover and image, leading to an evocation of liberating grace.
-
-**bfi.org.uk**
+This portrait of an ailing young curate haunted by his perceived failures in saving human souls is something of a transitional work; the literary script (from a novel by Georges Bernanos) is played out by a partly non-professional cast, while a new, stark visual simplicity is introduced. The dark subject matter is transformed by Bresson’s distinctive narrative style – the illuminating interplay of voiceover and image, leading to an evocation of liberating grace.<br>
+**bfi.org.uk**<br>
 
 Robert Bresson’s third feature was the first to unveil his mature style: non-professional ‘models’ instead of actors, a heavy reliance on voiceover to convey his protagonist’s inner thoughts, and an acute sensitivity to the counterpoint of image and soundtrack, the latter often more dramatically and psychologically important than the former.
 
-It’s Bresson’s longest film but he doesn’t waste a frame, and the final image of a stark, bare cross exudes enough spiritual potency to convert even the most convinced unbeliever.
-
-**Michael Brooke, _Sight & Sound_, May 2008**
+It’s Bresson’s longest film but he doesn’t waste a frame, and the final image of a stark, bare cross exudes enough spiritual potency to convert even the most convinced unbeliever.<br>
+**Michael Brooke, _Sight & Sound_, May 2008**<br>
 
 Pauline Kael described Bresson’s adaptation of Georges Bernanos’ novel as ‘one of the small body of film masterpieces hopelessly doomed to commercial failure.’
 
-The young priest’s disingenuous opening claim that his diary merely records ‘the insignificant secrets of a life without mystery’ is contradicted by the evident complexity of his troubled relationship with his unsympathetic parishioners, his own religious faith, and the cancer growing inside him. The rapt conclusion in particular approaches the purity and spiritual intensity of a Bach passion. All is grace, indeed.
+The young priest’s disingenuous opening claim that his diary merely records ‘the insignificant secrets of a life without mystery’ is contradicted by the evident complexity of his troubled relationship with his unsympathetic parishioners, his own religious faith, and the cancer growing inside him. The rapt conclusion in particular approaches the purity and spiritual intensity of a Bach passion. All is grace, indeed.<br>
+**Michael Brooke, _Sight & Sound_, November 2007**<br>
 
-**Michael Brooke, _Sight & Sound_, November 2007**
+**Bruno Dumont on ‘Diary of a Country Priest’**<br>
+_Diary of a Country Priest_ is a film that overwhelms me each time I see it. It has a spiritual vein that touches me very deeply; it’s a film that results in grace. It’s all crafted to take us to that final shot, which is absolutely extraordinary. That, for me, is cinema: how to lead, shot by shot, to an end result that’s totally strong.<br>
+**_Sight & Sound_, November 2007**<br>
 
-**Bruno Dumont on ‘Diary of a Country Priest’**
-
-_Diary of a Country Priest_ is a film that overwhelms me each time I see it. It has a spiritual vein that touches me very deeply; it’s a film that results in grace. It’s all crafted to take us to that final shot, which is absolutely extraordinary. That, for me, is cinema: how to lead, shot by shot, to an end result that’s totally strong.
-
-**_Sight & Sound_****, November 2007**
-
-**A contemporary review**
-
+**A contemporary review**<br>
 Robert Bresson’s film follows the novel by Bernanos closely in form, presenting a series of episodes linked together by the young priest’s journal, which we see frequently on the screen and which provides a spoken accompaniment in the style of a low-toned monologue. The narrative proceeds with an uncompromising austerity, spare and controlled, with little ‘cinema’ as such; at first the approach may disconcert, but then one realises that, laden with words though the film is, they have been integrated with the images in a daringly original way; _Journal d’un curé de campagne_ is a unique piece of interior cinema, scrutinising character in a series of recurrent, expressive close-ups reminiscent in their concentration of Dreyer’s. The young priest’s loneliness, doubts, illness and anguish are anatomised before our eyes with a classical purity and force.
 
 Where Bernanos’ novel was almost unremittingly grim, Bresson’s film has a kind of interior exaltation which – though the same incidents are related –seems finally to create a more positive monument to faith. To a non-Catholic the masochistic element – so noticeable in most modern Catholic writing – both disturbs and fascinates; and though one may not be able to share it, though in some respects it repels, one can recognise a nobility, a grandeur that is not apparent in, say, Mauriac or Graham Greene. (Those who have seen or read Bernanos’ _Dialogue des Carmelites_ will appreciate the continuity of these qualities in his work, as also in Bresson’s, whose first film, _Les Anges du péché_, bears very similar traits.)
 
-The performances, mainly by unknown actors, are all outstanding; in the case of Claude Laydu, one feels that Bresson has purposely handled him to fill a passive part, using his remarkably expressive face as plastic material. He seems less, perhaps, a performer than a perfect willing subject. Mme Arkell’s Comtesse contributes much to one of the most moving scenes in the film, and Andre Guibert as the Curé de Torey creates a rich, generous character. Burel’s delicately monotone, diffused photography and Grunenwald’s spare, angular music are other ideally fused elements in a film quite extraordinary for its artistic control. It was shot entirely on location, exterior and interior, in the Artois region, and also awarded the Prix Louis Delluc in 1950.
-
-**_Monthly Film Bulletin_****, June 1953**
+The performances, mainly by unknown actors, are all outstanding; in the case of Claude Laydu, one feels that Bresson has purposely handled him to fill a passive part, using his remarkably expressive face as plastic material. He seems less, perhaps, a performer than a perfect willing subject. Mme Arkell’s Comtesse contributes much to one of the most moving scenes in the film, and Andre Guibert as the Curé de Torey creates a rich, generous character. Burel’s delicately monotone, diffused photography and Grunenwald’s spare, angular music are other ideally fused elements in a film quite extraordinary for its artistic control. It was shot entirely on location, exterior and interior, in the Artois region, and also awarded the Prix Louis Delluc in 1950.<br>
+**_Monthly Film Bulletin_, June 1953**<br>
 
 **DIARY OF A COUNTRY PRIEST**
-
-**(JOURNAL D’UN CURÉ DE CAMPAGNE)**
-
+**(JOURNAL D’UN CURÉ DE CAMPAGNE)**<br>
 _Director:_ Robert Bresson  
 _Production Company:_ U.G.C.  
 _Producer:_ Léon Carré  
@@ -53,14 +43,9 @@ _Art Director:_ Pierre Charbonnier
 _Set Decorator:_ Robert Turlure  
 _Make-up:_ René Daudin *  
 _Music:_ Jean-Jacques Grünenwald  
-_Sound Supervisor:_ Jean Rieul
+_Sound Supervisor:_ Jean Rieul<br>
 
-  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
-
-**Cast:**
-
+**Cast**
 Claude Laydu _(Curé d’Ambricourt)_  
 Léon Arvel _(Fabregars)_  
 Balpêtré _(Docteur Delbende)_  
@@ -114,5 +99,5 @@ Thu 16 Jun 18:30; Mon 20 Jun 20:45
 **The Devil, Probably (Le Diable probablement)**
 Sun 19 Jun 18:10; Mon 27 Jun 20:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjc1MjMyOCwxMjI3OTQ1NDgyXX0=
+eyJoaXN0b3J5IjpbLTEwODk4NjgxMjcsMTIyNzk0NTQ4Ml19
 -->
