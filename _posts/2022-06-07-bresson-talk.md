@@ -1,3 +1,14 @@
+---
+layout: post
+title: Style, Anti-style and Influence<br> Robert Bresson Re-assessed
+published: true
+date: 2022-06-07
+readtime: true
+categories: ['OF SIN AND SALVATION<br>THE CINEMA OF ROBERT BRESSON']
+tags: [Talk]
+metadata: 
+pdf: '2022-06-07-bresson-talk.pdf'
+---
 
 Good evening, and welcome to this event devised to serve as an introduction to our retrospective of the films of Robert Bresson (1933-1999). Though I am the programmer of the BFI Southbank season, I didn’t feel I had sufficient specialist knowledge of Bresson’s work to deliver a full-length talk about it all by myself. So in this instance, after I have given a general introduction about his very distinctive style and the themes that recur in his films – which, including several clips, should last around 40-45 minutes – you will also be hearing from two Bresson enthusiasts, Alex Barrett and Jonathan Hourigan, who will each screen a clip and speak for around ten minutes. We shall then sit down together, also with Nasreen Munni Kabir, to discuss further any points that may have arisen and to take comments and questions about Bresson and his work from the audience.
 
@@ -22,6 +33,48 @@ Jonathan is a graduate of the National Film and Television School. He directed t
 **Alex Barrett** is an award-winning independent filmmaker and critic based in London. As director, he has made two feature films, _Life Just Is_ (2012) and _London Symphony_ (2017), both of which were nominated for the Michael Powell Award for Best British Film at the Edinburgh International Film Festival, before being released theatrically and on DVD/VOD in the UK. _London Symphony_ featured in Mark Kermode’s BBC roundup of the best films of 2017, and was selected by _Little White Lies_ as one of the ‘100 Greatest British Films’ in their July/August 2019 issue. His work has screened at festivals around the world, and his short films have enjoyed non-festival screenings at venues including the Victoria & Albert Museum in London, and the National Gallery of Art in Washington. More recently, he worked alongside director Andrey Paounov on the screenplay for the award-winning feature _January_, which is currently on the festival circuit.
 
 Born in India, **Nasreen Munni Kabir** is a London-based filmmaker/author who has written several books on Hindi cinema and made over 100 TV programmes on Indian film for Channel 4. Former governor on the BFI Board, Nasreen has also curated Channel 4’s annual Indian film season since the early 1980s.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTk5NzU5MV19
--->
+
+
+**OF SIN AND SALVATION:**
+**THE CINEMA OF ROBERT BRESSON**<br>
+**Diary of a Country Priest (Journal d’un curé de campagne)**<br>
+Thu 2 Jun 20:10; Sat 4 Jun 12:40; Mon 20 Jun 18:10<br>
+**Les Anges du péché (Angels of Sin)**<br>
+Fri 3 Jun 14:20; Sun 12 Jun 12:30<br>
+**Les Dames du Bois de Boulogne**<br>
+Fri 3 Jun 18:30; Mon 13 Jun 20:40<br>
+**Mouchette**<br>
+Fri 3 Jun 20:30; Fri 10 Jun 18:30; Wed 15 Jun 18:20; Wed 22 Jun 20:45<br>
+**A Man Escaped (Un Condamné à mort s’est échappé)**<br>
+Sat 4 Jun 15:40; Sat 18 Jun 18:10 (+ intro by independent filmmaker and critic Alex Barrett); Thu 23 Jun 20:45<br>
+**Au hasard Balthazar**<br>
+Sat 4 Jun 18:20; Tue 7 Jun 20:45; Fri 17 Jun 18:30<br>
+**L’Argent (Money)**<br>
+Sun 5 Jun 16:00; Thu 16 Jun 20:30<br>
+**The Trial of Joan of Arc (Procès de Jeanne d’Arc)**<br>
+Sun 5 Jun 18:40; Wed 29 Jun 20:50<br>
+**Style, Anti-style and Influence: Robert Bresson Re-assessed**<br>
+Tue 7 Jun 18:20
+**Une Femme douce (A Gentle Creature)**<br>
+Thu 9 Jun 20:40; Sat 18 Jun 13:30<br>
+**Lancelot du Lac (Lancelot of the Lake)**<br>
+Thu 16 Jun 18:30; Mon 20 Jun 20:45<br>
+**The Devil, Probably (Le Diable probablement)**<br>
+Sun 19 Jun 18:10; Mon 27 Jun 20:30<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
