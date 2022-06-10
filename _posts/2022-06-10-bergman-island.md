@@ -41,18 +41,15 @@ _Film Editor_: Marion Monnier
 _Production Designer_: Mikael Varhelyi  
 _Art Directors_: Eva Lendorph, Beatrice Strand  
 _Set Decorators_: Isabel Sjöstrand, Lisanne Fransen, Robin Dervaux  
-_Property Masters_: Isabel Sjöstrand,  
-Lisanne Fransen, Robin Dervaux  
+_Property Masters_: Isabel Sjöstrand,  Lisanne Fransen, Robin Dervaux  
 _Costume Designers_: Judith De Luze, Julia Tegström  
-_Make-up Artists_: Juan Pacifico,  
-Dorothea Wiedermann, Anne Moralis  
+_Make-up Artists_: Juan Pacifico,  Dorothea Wiedermann, Anne Moralis  
 _Sound Mixer_: Paul Heymans  
 _Sound_: Paul Heymans  
 _Re-recording Mixer_: Thomas Gauder  
 _Sound Editor_: Paul Heymans
 
-_Cast:_
-
+**Cast**  
 Vicky Krieps _(Chris)_  
 Tim Roth _(Tony)_  
 Mia Wasikowska _(Amy)_  
@@ -66,13 +63,11 @@ Melinda Kinnaman _(Berit)_
 Joel Spira _(Jonas, groom)_  
 Clara Strauch _(Nicolette, bride)_
 
-France-Germany-Belgium-Sweden-Mexico
-
-Brazil-UK 2020©
-
+France-Germany-Belgium-Sweden-Mexico-Brazil-UK 2020©  
 112 mins
 
-A MUBI release
+A MUBI release<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ2MzgzMzhdfQ==
+eyJoaXN0b3J5IjpbNjI3NTA1NTM1XX0=
 -->
