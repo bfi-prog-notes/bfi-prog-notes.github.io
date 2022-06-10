@@ -60,13 +60,9 @@ _Costume Designer_: Richard Bruno
 _Make-up Artists_: Allen Weisinger, Carl Fullerton, Ilona Herman  
 _Hairstylists_: Bill Farley, Alan D’Angerio  
 _Titles by_: Saul Bass, Elaine Bass  
-_Opticals_: R/Greenberg Associates,
-
-Arriflex Cameras, Technicolor  
+_Opticals_: R/Greenberg Associates, Arriflex Cameras, Technicolor  
 _Music Editor_: Christopher Brooks  
-_Production Sound Mixers_: James Sabat,
-
-Frank Graziadei  
+_Production Sound Mixers_: James Sabat, Frank Graziadei  
 _Boom Operator_: Louis Sabat  
 _Re-recording Mixer_: Tom Fleischman  
 _Supervising Sound Editor_: Skip Lievsay  
@@ -76,7 +72,7 @@ _Supervising Foley Editor_: Ron Bochar
 _Foley Editors_: Bruce Pross, Frank Kern  
 _Stunt Co-ordinator_: Michael Russo
 
-_Cast:_  
+**Cast**  
 Robert De Niro _(James Conway)_  
 Ray Liotta _(Henry Hill)_  
 Joe Pesci _(Tommy DeVito)_  
@@ -111,9 +107,9 @@ Frank Pellegrino _(Johnny Dio, Cicero’s ‘50s crew)_
 Ronald Maccone _(Ronnie, Cicero’s ‘50s crew)_  
 Tony Sirico _(Tony Stacks, Cicero’s ‘50s crew)_
 
-USA 1990
-
-146 mins
+USA 1990  
+146 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyMjc3MjEzXX0=
+eyJoaXN0b3J5IjpbLTE3OTY1OTY0NDVdfQ==
 -->
