@@ -28,8 +28,7 @@ _Produced by_: Les Films du Worso
 _In co-production with_: Arte France Cinéma,  M141 Productions, Films de Force Majeure  
 _In association with_: Cinéimage 7, Soficinéma 9  
 _With the participation of_: Arte France,  Le Centre National du Cinéma et de l’Image Animée  
-_With the support of_:  
-Région Provence-Alpes-Côte d’Azur  
+_With the support of_:  Région Provence-Alpes-Côte d’Azur  
 _International Sales_: Les Films du Worso  
 _Producer_: Sylvie Pialat  
 _Production Manager_: Nicolas Leclère  
@@ -48,8 +47,7 @@ _Costumes_: Roy Genty, François Labarthe
 _Titles_: My Lan Nguyen Quang  
 _Sound_: Philippe Grivel, Nathalie Vidal
 
-_Cast:_
-
+**Cast**  
 Pierre Deladonchamps _(Franck)_  
 Christophe Paou _(Michel)_  
 Patrick D’Assumçao _(Henri)_  
@@ -59,9 +57,9 @@ Sébastien Badachaoui _(Eric’s boyfriend)_
 Gilles Guerin _(ladies man)_  
 François Labarthe _(Pascal Ramière)_
 
-France 2013©
-
-100 mins
+France 2013©  
+100 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTg5Nzk1MV19
+eyJoaXN0b3J5IjpbMTM1ODE3NzcxMV19
 -->
