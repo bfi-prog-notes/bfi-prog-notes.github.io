@@ -1,10 +1,8 @@
-<![endif]-->
 
 It won’t be to all tastes, but there’s an aesthetic purity to Robert Bresson’s approach that gives _Lancelot du Lac_ a startling, timeless quality. He chooses to shoot only parts of the body, often clanking armour-clad legs and torsos, to convey the disorienting strangeness of this archaic world. Far from exemplifying the glories of chivalry, the court is at crisis point: the Grail quest has failed, Arthur awaits word from God, Lancelot feels shamefully tainted by his past assignation with Guinevere. Everyone’s blighted by their inability to live up to their own high ideals, and it will end in the bleakest finale of any Arthurian movie.
 
-As a viewer, you need to adjust to Bresson’s way of seeing, with its undemonstrative performance style and avoidance of conventional action. Yet his fierce ability to focus only on the essential becomes truly captivating – notably in the set-piece of a crucial jousting tournament cut from the rhythms of hoisted pennants, galloping hooves and fallen combatants. Mesmerising.
-
-**Trevor Johnston, bfi.org.uk, 23 September 2021**
+As a viewer, you need to adjust to Bresson’s way of seeing, with its undemonstrative performance style and avoidance of conventional action. Yet his fierce ability to focus only on the essential becomes truly captivating – notably in the set-piece of a crucial jousting tournament cut from the rhythms of hoisted pennants, galloping hooves and fallen combatants. Mesmerising.  
+**Trevor Johnston, bfi.org.uk, 23 September 2021**  
 
 Twenty years [at time of writing] after its original release, _Lancelot du Lac_ is bound to shock, frustrate and overwhelm in equal measure, partly because of its treatment of the Arthurian Myth and the trappings of Camelot kitsch that attach themselves to celluloid visions of the Middle Ages. By an uncomfortable coincidence, the recent press preview of _Lancelot_ occurred the day after a television screening of John Boorman’s _Excalibur_ – truly a case of the sublime following the ridiculous ­– but the contrast is instructive in terms of just those expectations that Bresson has consistently sought to disown in his filmmaking.
 
@@ -14,23 +12,17 @@ So much of Bresson’s work takes place after the event that narrative conventio
 
 Each of Bresson’s films contains moments that stand to both crystallise and characterise such an approach: the oblique effectiveness of the shot/counter-shot exchanges in _Le Proces de Jeanne d’Arc_; the eroticised ballet of thieving, caressing hands in the Gare de Lyon sequence of _Pickpocket_; the off-screen robbery conveyed entirely through sound in _L’Argent_. Likewise, in the tournament sequence, _Lancelot_ has what might be called its own ur-Bresson moment. The jousting in this sequence is conveyed through a brilliantly rhythmic montage of shots of the reaction of the spectators, of musicians piping between heats, of the raising of pennants, of the horses stamping and charging, the visible impact of lance on shield is withheld until one no longer expects to see it, by which time the impact has gathered in latent power. Sound is crucial to this sequence, as it is to the entire film, armour being sheared by the blow of a sword, the sound of the horses; these participate in an extraordinary orchestration of details, the visual and aural truly interacting.
 
-If _Pickpocket_ remains his masterpiece, _Lancelot du Lac_ is proof that Bresson cannot age badly, and it is representative of an uncompromisingly singular cinematic vision – discomforting, a little intimidating but thoroughly remarkable and unlike any other in cinema. Godard got it right when he commented that Bresson’s films owe their power to ‘an idea of the world applied to cinema, or an idea of cinema applied to the world; ultimately it comes to the same thing’: _Lancelot_ is the idea given unforgettable form.
-
-**Chris Darke, _Sight & Sound_, November 1994**
+If _Pickpocket_ remains his masterpiece, _Lancelot du Lac_ is proof that Bresson cannot age badly, and it is representative of an uncompromisingly singular cinematic vision – discomforting, a little intimidating but thoroughly remarkable and unlike any other in cinema. Godard got it right when he commented that Bresson’s films owe their power to ‘an idea of the world applied to cinema, or an idea of cinema applied to the world; ultimately it comes to the same thing’: _Lancelot_ is the idea given unforgettable form.  
+**Chris Darke, _Sight & Sound_, November 1994**  
 
 _Lancelot du Lac_ embodies the perfection of a language that has been in the process of development and refinement for over 30 years. If it stuns and overwhelms one’s sense of the possibilities of that language – in a way, perhaps, that no predecessor has done, at least since _Au hasard Balthazar_ – this is not because it represents a significant departure or deviation from the path Robert Bresson has consistently followed. The source of amazement lies in the film’s clarity and simplicity, a precise and irreducible arrangement of sounds and images that is so wholly functional that nothing is permitted to detract from the overall narrative complex, and everything present is _used_. It is a film where the rattle of armour and the neighing of horses are as essential as the faces and bodies of the characters, where indeed each of these elements serves to isolate and define the importance and impact of the others.
 
 The sheer rawness of what is there disconcerts, but it shouldn’t lead one to focus unduly on what isn’t there, or track down some elusive clue to the Bressonian mystery. To a certain extent, Bresson’s films are _about_ mystery, but their manner of arriving there is always quite concrete, just as the fictions of Kafka and Beckett are carefully constructed around certain principles of omission. Filling in these omissions is an act that every spectator/reader has to perform on some level, but anyone wishing to describe a Bresson film – as opposed to the experience of one – is obliged to leave these ‘white spaces’ intact rather than attempt to fill them in, for otherwise he runs the risk of merely taking his own pulse. The evidence, one can argue, is clearly intelligible to the eyes and ears, if only one can look and listen. For this reason, it seems useful to speak of Bresson’s art as one of immanence, not one of transcendence, and one where the inside is always revealed by remaining on the outside. ‘There is a nice quote from Leonardo da Vinci,’ Bresson has remarked, ‘which goes something like this: “Think about the surface of the work. Above all think about the surface”.’  
-**Jonathan Rosenbaum, _Sight & Sound_, Summer 1974**
+**Jonathan Rosenbaum, _Sight & Sound_, Summer 1974**  
 
-  
-
-**LANCELOT DU LAC (LANCELOT OF THE LAKE)**
-
+**LANCELOT DU LAC (LANCELOT OF THE LAKE)**  
 _Director_: Robert Bresson  
-_Production Companies_: Mara Film, Laser Productions,
-
-ORTF – Office de Radiodiffusion Télévision Française, Gerico Sound  
+_Production Companies_: Mara Film, Laser Productions, ORTF – Office de Radiodiffusion Télévision Française, Gerico Sound  
 _Presented by_: Jean Yanne, Jean-Pierre Rassam  
 _Producer_: Alfredo Bini *  
 _Associate Producers_: Jean-Pierre Rassam, François Rochas  
@@ -93,5 +85,5 @@ France-Italy 1974
 
 Introduced by Jason Wood, BFI Director of Public Programme & Audiences (Thursday 16 June only)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE1MDUzOTJdfQ==
+eyJoaXN0b3J5IjpbLTk5MTQyNzA5LC0xNDQxNTA1MzkyXX0=
 -->
