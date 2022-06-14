@@ -1,10 +1,21 @@
+---
+layout: post
+title: Lancelot du Lac
+published: true
+date: 2022-06-16
+readtime: true
+categories: ['OF SIN AND SALVATION<br>THE CINEMA OF ROBERT BRESSON']
+tags: [Drama, Period]
+metadata: 'France-Italy 1974, 80 mins<br> Director: Robert Bresson'
+pdf: '2022-06-16-lancelot-du-lac.pdf'
+---
 
 It won’t be to all tastes, but there’s an aesthetic purity to Robert Bresson’s approach that gives _Lancelot du Lac_ a startling, timeless quality. He chooses to shoot only parts of the body, often clanking armour-clad legs and torsos, to convey the disorienting strangeness of this archaic world. Far from exemplifying the glories of chivalry, the court is at crisis point: the Grail quest has failed, Arthur awaits word from God, Lancelot feels shamefully tainted by his past assignation with Guinevere. Everyone’s blighted by their inability to live up to their own high ideals, and it will end in the bleakest finale of any Arthurian movie.
 
 As a viewer, you need to adjust to Bresson’s way of seeing, with its undemonstrative performance style and avoidance of conventional action. Yet his fierce ability to focus only on the essential becomes truly captivating – notably in the set-piece of a crucial jousting tournament cut from the rhythms of hoisted pennants, galloping hooves and fallen combatants. Mesmerising.  
 **Trevor Johnston, bfi.org.uk, 23 September 2021**  
 
-Twenty years [at time of writing] after its original release, _Lancelot du Lac_ is bound to shock, frustrate and overwhelm in equal measure, partly because of its treatment of the Arthurian Myth and the trappings of Camelot kitsch that attach themselves to celluloid visions of the Middle Ages. By an uncomfortable coincidence, the recent press preview of _Lancelot_ occurred the day after a television screening of John Boorman’s _Excalibur_ – truly a case of the sublime following the ridiculous ­– but the contrast is instructive in terms of just those expectations that Bresson has consistently sought to disown in his filmmaking.
+Twenty years [at time of writing] after its original release, _Lancelot du Lac_ is bound to shock, frustrate and overwhelm in equal measure, partly because of its treatment of the Arthurian Myth and the trappings of Camelot kitsch that attach themselves to celluloid visions of the Middle Ages. By an uncomfortable coincidence, the recent press preview of _Lancelot_ occurred the day after a television screening of John Boorman’s _Excalibur_ – truly a case of the sublime following the ridiculous – but the contrast is instructive in terms of just those expectations that Bresson has consistently sought to disown in his filmmaking.
 
 In his collection of aphorisms _Notes on the Cinematographer_, Bresson names his entirely individual conception of filmmaking as ‘cinematographie ... a writing with images in movement and with sounds’; and at one level _Lancelot_ can be seen as the Bressonian method attaining a particular degree of refinement and consummation. All the elements normally associated with Bresson’s film language are present: the use of ‘models’ in the place of professional actors; unemphatic and minimally expressive presences denied psychological depth and existing as human surfaces amongst what the director describes as ‘the visible parlance of bodies, objects, horses, roads, trees, fields’; a highly-wrought attention brought to bear on the soundtrack and an anti-dramatic attenuation of the narrative.
 
@@ -84,6 +95,49 @@ France-Italy 1974
 \* Uncredited  
 
 Introduced by Jason Wood, BFI Director of Public Programme & Audiences (Thursday 16 June only)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTQyNzA5LC0xNDQxNTA1MzkyXX0=
--->
+
+
+
+**OF SIN AND SALVATION:**
+**THE CINEMA OF ROBERT BRESSON**<br>
+**Diary of a Country Priest (Journal d’un curé de campagne)**<br>
+Thu 2 Jun 20:10; Sat 4 Jun 12:40; Mon 20 Jun 18:10<br>
+**Les Anges du péché (Angels of Sin)**<br>
+Fri 3 Jun 14:20; Sun 12 Jun 12:30<br>
+**Les Dames du Bois de Boulogne**<br>
+Fri 3 Jun 18:30; Mon 13 Jun 20:40<br>
+**Mouchette**<br>
+Fri 3 Jun 20:30; Fri 10 Jun 18:30; Wed 15 Jun 18:20; Wed 22 Jun 20:45<br>
+**A Man Escaped (Un Condamné à mort s’est échappé)**<br>
+Sat 4 Jun 15:40; Sat 18 Jun 18:10 (+ intro by independent filmmaker and critic Alex Barrett); Thu 23 Jun 20:45<br>
+**Au hasard Balthazar**<br>
+Sat 4 Jun 18:20; Tue 7 Jun 20:45; Fri 17 Jun 18:30<br>
+**L’Argent (Money)**<br>
+Sun 5 Jun 16:00; Thu 16 Jun 20:30<br>
+**The Trial of Joan of Arc (Procès de Jeanne d’Arc)**<br>
+Sun 5 Jun 18:40; Wed 29 Jun 20:50<br>
+**Style, Anti-style and Influence: Robert Bresson Re-assessed**<br>
+Tue 7 Jun 18:20
+**Une Femme douce (A Gentle Creature)**<br>
+Thu 9 Jun 20:40; Sat 18 Jun 13:30<br>
+**Lancelot du Lac (Lancelot of the Lake)**<br>
+Thu 16 Jun 18:30; Mon 20 Jun 20:45<br>
+**The Devil, Probably (Le Diable probablement)**<br>
+Sun 19 Jun 18:10; Mon 27 Jun 20:30<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
