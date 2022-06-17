@@ -29,74 +29,41 @@ He recently produced the BFI backed film _Sweet Mother_ (2019), written and dire
 <br><br>
 
 **LOOKING FOR LANGSTON**<br>
-
 _Director:_ Isaac Julien<br>
-
 ©_/Production Company:_ Sankofa Film and Video<br>
-
 _Producer:_ Nadine Marsh-Edwards<br>
-
 _Production Assistant:_ Robert Crusz<br>
-
 _Runners:_ James Wolstenholme, Malcolm Manning<br>
-
 _Jobfit C4 Trainee:_ Mary Montgomery<br>
-
 _NEMDC Trainee:_ Emily Mokaene<br>
-
 _Assistant Directors:_ Chris Hall, Maureen Blackwood<br>
-
 _Continuity:_ Julia Britton<br>
-
 _Casting:_ Isaac Julien, Nadine Marsh-Edwards<br>
-
 _Screenplay:_ Isaac Julien<br>
-
 _Script Consultant:_ Mark Nash<br>
-
 _Director of Photography:_ Nina Kellgren<br>
-
 _Rostrum Photography:_ Begonia Tamarit<br>
-
 _Focus Puller:_ Amanda Richardson<br>
-
 _Grip:_ Gary Romaine<br>
-
 _Gaffer:_ Nuala Campbell<br>
-
 _Electricians:_ Natasha Franklin, Simon Jones<br>
-
 _Stills:_ Sunil Gupta<br>
-
 _Editor:_ Robert Hargreaves<br>
-
 _Assistant Editor:_ Emma Matthews<br>
-
 _Art Director:_ Derek Brown<br>
-
 _Art Department Stylist:_ Leslie Gilda<br>
-
 _Storyboard:_ John Hewitt<br>
-
 _Props Buyer:_ Neesh Ruben<br>
-
 _Construction Manager:_ David Ferris<br>
-
 _Costume Designer:_ Robert Worley<br>
-
 _Make-up:_ Hilary Steinberg<br>
-
 _Titles:_ Les Latimer Opticals<br>
-
 _Incidental Music:_ Peter Spencer, Trevor Mathison, Wayson Jones<br>
-
 _Sound:_ Martin Jackson, Ronald Bailey<br>
-
 _Dubbing Mixer:_ David Skilton<br>
-
 _New York Research/Production:_ Mark Nash<br>
 
-*_*Cast**:_<br>
+**Cast**<br>
 Ben Ellison _(Alex)_<br>
 Matthew Baidoo _(Beauty)_<br>
 Akim Mogaji _(James)_<br>
@@ -108,7 +75,7 @@ Harry Donaldson _(leatherboy)_<br>
 Alaena Adams, James Dublin, Michael Bailey,June Givanni, Guy Burgess, Cherry Smyth _(mourners)_<br>
 Tony Knight, Akim Mogaji, Derrick McClintock,Jimmy Somerville, Dencil Williams _(angels)_<br>
 Michael Bailey, Jon Iwenjiora, Paul Bernstock,Tony Knight, Steven Brown, Orson Nava,  Sarah Dunn, Matthew Scott, Simon Fogg,  Cherry Smyth, Pedro Williams _(dancers at wake)_<br>
-Wayne James, Irvine Lewis, Trevor Miller_(brothers in jazz)_<br>
+Wayne James, Irvine Lewis, Trevor Miller _(brothers in jazz)_<br>
 John Alexander, Dave Greaves, Tommy Carlton, AJ, Pete Collins, Ian Johns, Joe Fordham,  Seymour Laws, Reginald Parker _(thugs/police)_<br>
 Clarke Peters _(voice reading Langston Hughes)_<br>
 Erick Ray Evans _(voice reading Bruce Nugent)_<br>
@@ -157,5 +124,5 @@ Wed 29 Jun 18:20<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3NzMyMTA5LC0xOTMyMzIzNjI5XX0=
+eyJoaXN0b3J5IjpbLTgxMTM4MDkwMSwtMTkzMjMyMzYyOV19
 -->
