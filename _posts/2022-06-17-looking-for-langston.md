@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Looking for Langston
+published: true
+date: 2022-06-17
+readtime: true
+categories: ['BFI FLARE']
+tags: [Drama, Biopic]
+metadata: 'UK 1989, 45 mins<br> Director: Isaac Julien'
+pdf: '2022-06-17-looking-for-langston.pdf'
+---
 
 The influence of Isaac Julien’s groundbreaking, lyrical and poetic meditation on the life of revered Harlem Renaissance poet Langston Hughes still ripples throughout the representation of queerness on screen today. Following the film, host of the award-winning Busy Being Black podcast Josh Rivers will be joined by BFI Race Equality Lead Rico Johnson-Sinclair and Black Queer Media Writer Rico Norwood to discuss the work (alongside Marlon T Riggs’ _Tongues Untied_) and explore the past, present, and future of queer cinema, reaffirming modern queer cinema’s afro-centric roots.  
 **bfi.org.uk**
@@ -24,8 +34,7 @@ Kenneth (Rico) Norwood is an American film and video game researcher out of the 
 Their primary academic concerns are Black Queer Art and historical narratives through films, as well as video game studies with regards to race, gender, sexuality, and their development. They have been featured in _Metro_, _Wired Magazine_, _TechRadar_, _PinkNews_, the International Screen Studies Conference, and more. They are working as a fulltime researcher in video game/metaverse development for the multimedia company Tales of Us.
 
 **Rico Johnson-Sinclair**  
-After working with Flatpack Festival in Birmingham in 2017, Rico Johnson-Sinclair went on to build CineQ, a queer film festival that prioritises Queer and Trans Black and Indigenous people and people of colour which is now in its 5th year. Outside of programming and exhibition, Rico consults with organisations around events that focus on inclusion and diversity. Not limited to film, Rico has led campaigns that focus on marginalised communities; he was also Festival Manager of SHOUT Festival, Birmingham’s queer arts and culture festival offering a mix of dance, music, theatre, live art, visual arts and film and has previously worked for organisations such as Coventry City of Culture and Film Hub Midlands. He is currently Race Equality Lead for the BFI, working to bring a critical perspective into conversations about race in the film industry.  
-He recently produced the BFI backed film _Sweet Mother_ (2019), written and directed by Zane Igbe, and is currently working on his first short film as writer/director named _PREY_, which was also funded by BFI.
+After working with Flatpack Festival in Birmingham in 2017, Rico Johnson-Sinclair went on to build CineQ, a queer film festival that prioritises Queer and Trans Black and Indigenous people and people of colour which is now in its 5th year. Outside of programming and exhibition, Rico consults with organisations around events that focus on inclusion and diversity. Not limited to film, Rico has led campaigns that focus on marginalised communities; he was also Festival Manager of SHOUT Festival, Birmingham’s queer arts and culture festival offering a mix of dance, music, theatre, live art, visual arts and film and has previously worked for organisations such as Coventry City of Culture and Film Hub Midlands. He is currently Race Equality Lead for the BFI, working to bring a critical perspective into conversations about race in the film industry.  He recently produced the BFI backed film _Sweet Mother_ (2019), written and directed by Zane Igbe, and is currently working on his first short film as writer/director named _PREY_, which was also funded by BFI.
 <br><br>
 
 **LOOKING FOR LANGSTON**<br>
@@ -63,8 +72,8 @@ _Sound:_ Martin Jackson, Ronald Bailey<br>
 _Dubbing Mixer:_ David Skilton<br>
 _New York Research/Production:_ Mark Nash<br>
 
-*Cast**:br>
-Bn Ellison _(Alex)_<br>
+**Cast**:br>
+Ben Ellison _(Alex)_<br>
 Matthew Baidoo _(Beauty)_<br>
 Akim Mogaji _(James)_<br>
 John Wilson _(Karl)_<br>
@@ -75,7 +84,7 @@ Harry Donaldson _(leatherboy)_<br>
 Alaena Adams, James Dublin, Michael Bailey,June Givanni, Guy Burgess, Cherry Smyth _(mourners)_<br>
 Tony Knight, Akim Mogaji, Derrick McClintock,Jimmy Somerville, Dencil Williams _(angels)_<br>
 Michael Bailey, Jon Iwenjiora, Paul Bernstock,Tony Knight, Steven Brown, Orson Nava,  Sarah Dunn, Matthew Scott, Simon Fogg,  Cherry Smyth, Pedro Williams _(dancers at wake)_<br>
-Wayne James, Irvine Lewis, Trevor Miller_(brothers in jazz)_<br>
+Wayne James, Irvine Lewis, Trevor Miller _(brothers in jazz)_<br>
 John Alexander, Dave Greaves, Tommy Carlton, AJ, Pete Collins, Ian Johns, Joe Fordham,  Seymour Laws, Reginald Parker _(thugs/police)_<br>
 Clarke Peters _(voice reading Langston Hughes)_<br>
 Erick Ray Evans _(voice reading Bruce Nugent)_<br>
@@ -110,6 +119,23 @@ Mon 27 Jun 18:00<br>
 **Preview: The Afterlight + Q&A with director Charlie Shackleton**<br>
 Wed 29 Jun 18:20<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 
 <!--stackedit_data:
