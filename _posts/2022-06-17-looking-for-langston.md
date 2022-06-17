@@ -29,41 +29,74 @@ He recently produced the BFI backed film _Sweet Mother_ (2019), written and dire
 <br><br>
 
 **LOOKING FOR LANGSTON**<br>
+
 _Director:_ Isaac Julien<br>
+
 ©_/Production Company:_ Sankofa Film and Video<br>
+
 _Producer:_ Nadine Marsh-Edwards<br>
+
 _Production Assistant:_ Robert Crusz<br>
+
 _Runners:_ James Wolstenholme, Malcolm Manning<br>
+
 _Jobfit C4 Trainee:_ Mary Montgomery<br>
+
 _NEMDC Trainee:_ Emily Mokaene<br>
+
 _Assistant Directors:_ Chris Hall, Maureen Blackwood<br>
+
 _Continuity:_ Julia Britton<br>
+
 _Casting:_ Isaac Julien, Nadine Marsh-Edwards<br>
+
 _Screenplay:_ Isaac Julien<br>
+
 _Script Consultant:_ Mark Nash<br>
+
 _Director of Photography:_ Nina Kellgren<br>
+
 _Rostrum Photography:_ Begonia Tamarit<br>
+
 _Focus Puller:_ Amanda Richardson<br>
+
 _Grip:_ Gary Romaine<br>
+
 _Gaffer:_ Nuala Campbell<br>
+
 _Electricians:_ Natasha Franklin, Simon Jones<br>
+
 _Stills:_ Sunil Gupta<br>
+
 _Editor:_ Robert Hargreaves<br>
+
 _Assistant Editor:_ Emma Matthews<br>
+
 _Art Director:_ Derek Brown<br>
+
 _Art Department Stylist:_ Leslie Gilda<br>
+
 _Storyboard:_ John Hewitt<br>
+
 _Props Buyer:_ Neesh Ruben<br>
+
 _Construction Manager:_ David Ferris<br>
+
 _Costume Designer:_ Robert Worley<br>
+
 _Make-up:_ Hilary Steinberg<br>
+
 _Titles:_ Les Latimer Opticals<br>
+
 _Incidental Music:_ Peter Spencer, Trevor Mathison, Wayson Jones<br>
+
 _Sound:_ Martin Jackson, Ronald Bailey<br>
+
 _Dubbing Mixer:_ David Skilton<br>
+
 _New York Research/Production:_ Mark Nash<br>
 
-*Cast**<br>
+*_Cast**:_<br>
 
 Ben Ellison _(Alex)_<br>
 
@@ -118,6 +151,8 @@ UK 1989©<br>
 <br>
 
 
+<![endif]-->
+
 **REGULAR PROGRAMME**<br>
 
 **Member Picks: Ball of Fire**<br>
@@ -168,5 +203,6 @@ Wed 29 Jun 18:20<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODcyMzc4MDZdfQ==
+eyJoaXN0b3J5IjpbLTE5MzIzMjM2MjksLTE2ODcyMzc4MDZdfQ
+==
 -->
