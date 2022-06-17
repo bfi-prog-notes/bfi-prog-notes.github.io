@@ -88,8 +88,6 @@ UK 1989©<br>
 <br>
 
 
-<![endif]-->
-
 **REGULAR PROGRAMME**<br>
 **Member Picks: Ball of Fire**<br>
 Sat 18 Jun 15:10<br>
@@ -104,25 +102,16 @@ Mon 27 Jun 18:20<br>
 **Restoration Preview:  Dr. Who and the Daleks + Q&A**<br>
 Sun 19 Jun 11:30<br>
 **Restoration Preview:  Daleks’ Invasion Earth 2150 A.D.**<br>
-
 Sun 19 Jun 14:30<br>
-
-**Experimenta Presents: Premiere: Wayfinder  
-+ Q&A with director Larry Achiampong**<br>
-
+**Experimenta Presents: Premiere: Wayfinder  + Q&A with director Larry Achiampong**<br>
 Tue 21 Jun 18:15<br>
-
-**Burning an Illusion + intro by actor  
-Cassie McFarlane**<br>
-
+**Burning an Illusion + intro by actor  Cassie McFarlane**<br>
 Mon 27 Jun 18:00<br>
-
 **Preview: The Afterlight + Q&A with director Charlie Shackleton**<br>
-
 Wed 29 Jun 18:20<br>
 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTM4MDkwMSwtMTkzMjMyMzYyOV19
+eyJoaXN0b3J5IjpbMjEwNjM1NzUwMCwtMTkzMjMyMzYyOV19
 -->
