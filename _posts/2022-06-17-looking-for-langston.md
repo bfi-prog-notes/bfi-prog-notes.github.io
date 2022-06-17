@@ -63,8 +63,8 @@ _Sound:_ Martin Jackson, Ronald Bailey<br>
 _Dubbing Mixer:_ David Skilton<br>
 _New York Research/Production:_ Mark Nash<br>
 
-**Cast**<br>
-Ben Ellison _(Alex)_<br>
+*Cast**:br>
+Bn Ellison _(Alex)_<br>
 Matthew Baidoo _(Beauty)_<br>
 Akim Mogaji _(James)_<br>
 John Wilson _(Karl)_<br>
@@ -75,7 +75,7 @@ Harry Donaldson _(leatherboy)_<br>
 Alaena Adams, James Dublin, Michael Bailey,June Givanni, Guy Burgess, Cherry Smyth _(mourners)_<br>
 Tony Knight, Akim Mogaji, Derrick McClintock,Jimmy Somerville, Dencil Williams _(angels)_<br>
 Michael Bailey, Jon Iwenjiora, Paul Bernstock,Tony Knight, Steven Brown, Orson Nava,  Sarah Dunn, Matthew Scott, Simon Fogg,  Cherry Smyth, Pedro Williams _(dancers at wake)_<br>
-Wayne James, Irvine Lewis, Trevor Miller _(brothers in jazz)_<br>
+Wayne James, Irvine Lewis, Trevor Miller_(brothers in jazz)_<br>
 John Alexander, Dave Greaves, Tommy Carlton, AJ, Pete Collins, Ian Johns, Joe Fordham,  Seymour Laws, Reginald Parker _(thugs/police)_<br>
 Clarke Peters _(voice reading Langston Hughes)_<br>
 Erick Ray Evans _(voice reading Bruce Nugent)_<br>
@@ -113,5 +113,6 @@ Wed 29 Jun 18:20<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjM1NzUwMCwtMTkzMjMyMzYyOV19
+eyJoaXN0b3J5IjpbLTE3MzE4NTcxMjcsMjEwNjM1NzUwMCwtMT
+kzMjMyMzYyOV19
 -->
