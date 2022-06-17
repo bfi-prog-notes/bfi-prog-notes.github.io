@@ -70,20 +70,20 @@ Nicolas Deguy _(Valentin)_
 Régis Hanrion _(Dr Mime)_  
 Geoffroy Gaussen _(bookseller)_  
 Roger Honorat _(police officer)_  
-Vincent Cottrell
-Laurence Delannoy
-Laetitia Martinneti
-Martin Schlumberger
-Thadée Klossowsky
-Miguel Irissari
-Nadine-Boyer Vidal
-Roland de Corbiac
+Vincent Cottrell  
+Laurence Delannoy  
+Laetitia Martinneti  
+Martin Schlumberger  
+Thadée Klossowsky  
+Miguel Irissari  
+Nadine-Boyer Vidal  
+Roland de Corbiac  
 Dominique Lyon  
 
 France 1977©  
 93 mins  
 
-* Uncredited
+* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzQ2NjU0MF19
+eyJoaXN0b3J5IjpbMTMyMTk4NjM4OF19
 -->
