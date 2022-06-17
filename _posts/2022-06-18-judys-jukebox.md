@@ -25,13 +25,13 @@ To celebrate 100 years of the brilliant Judy Garland, we present a jukebox night
 
 9. **I Don’t Care** – _In the Good Old Summertime_, 1949, dirs. Buster Keaton, Robert Z. Leonard
 
-10. <![endif]>**The Man That Got Away** – _A Star Is Born_, 1954, dir. George Cukor
+10. **The Man That Got Away** – _A Star Is Born_, 1954, dir. George Cukor
 
-<![if !supportLists]>11. <![endif]>**Come Rain or Come Shine** – _The Judy Garland Show_, Episode 3, Taped 16th Jul 1963 and aired on 17th November 1963
+11. **Come Rain or Come Shine** – _The Judy Garland Show_, Episode 3, Taped 16th Jul 1963 and aired on 17th November 1963
 
-<![if !supportLists]>12. <![endif]>**How about You** – _Babes on Broadway_, 1941, dir. Busby Berkeley
+12. **How about You** – _Babes on Broadway_, 1941, dir. Busby Berkeley
 
 <![if !supportLists]>13. <![endif]>**Over the Rainbow** – _The Wizard of Oz_, 1939, dir. Victor Fleming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTk4NzM5MF19
+eyJoaXN0b3J5IjpbNzIyNDE0MjEzXX0=
 -->
