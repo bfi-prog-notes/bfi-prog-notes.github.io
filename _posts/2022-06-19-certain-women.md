@@ -21,21 +21,16 @@ In all three stories, traditional ‘women’s film’ territory is traversed (i
 **CERTAIN WOMEN**  
 _Directed by_: Kelly Reichardt  
 ©: Clyde Park LLC  
-_Made possible in part by the_:  
-Montana Big Sky Film Grant  
+_Made possible in part by the_:  Montana Big Sky Film Grant  
 _Support provided by the_: Wexner Center for the Arts Film/Video Residency Award – The Ohio State University  
 _With Support from_: Cinereach  
 _Fiscal Sponsorship Provided by_: Film Forum  
-_With Support from_:  
-The Oregon Governor’s Office of Film & Television  
-_Executive Producers_: Todd Haynes,  
-Larry Fessenden, Christopher Carroll, Nathan Kelly  
-_Produced by_: Neil Kopp, Vincent Savino,  
-Anish Savjani  
+_With Support from_:  The Oregon Governor’s Office of Film & Television  
+_Executive Producers_: Todd Haynes,  Larry Fessenden, Christopher Carroll, Nathan Kelly  
+_Produced by_: Neil Kopp, Vincent Savino,  Anish Savjani  
 _Unit Production Manager_: Nathan Kelly  
 _Production Supervisor_: Allison Whitmer  
-_Production Co-ordinators_: Bekki Vallin,  
-Emily Pontecorvo  
+_Production Co-ordinators_: Bekki Vallin,  Emily Pontecorvo  
 _Production Accountant_: Catherine Simonson  
 _Location Manager_: Charlie Skinner  
 _1st Assistant Director_: Christopher Carroll  
@@ -71,7 +66,7 @@ _Stunt Co-ordinator_: Cooper Taylor
 _Digital Intermediate Facility_: Cinelicious  
 _Special Thanks_: Rosanna Arquette
 
-_Cast:_  
+**Cast**  
 Laura Dern _(Laura Wells)_  
 James Le Gros _(Ryan Lewis)_  
 Jared Harris _(William Fuller)_  
@@ -88,11 +83,11 @@ James Jordan _(hostage specialist)_
 Matt McTighe _(Officer Tommy Carroll)_  
 Joshua T. Fonokalafi _(Amituana)_
 
-USA 2016©
-
+USA 2016©  
 107 mins
 
-The screening on Wed 29 Jun will be introduced by BFI Director of Public Programme and Audiences, Jason Wood
+The screening on Wed 29 Jun will be introduced by BFI Director of Public Programme and Audiences, Jason Wood<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg0ODY3OTddfQ==
+eyJoaXN0b3J5IjpbNTIwNzY2MTg1XX0=
 -->
