@@ -29,74 +29,41 @@ He recently produced the BFI backed film _Sweet Mother_ (2019), written and dire
 <br><br>
 
 **LOOKING FOR LANGSTON**<br>
-
 _Director:_ Isaac Julien<br>
-
 ©_/Production Company:_ Sankofa Film and Video<br>
-
 _Producer:_ Nadine Marsh-Edwards<br>
-
 _Production Assistant:_ Robert Crusz<br>
-
 _Runners:_ James Wolstenholme, Malcolm Manning<br>
-
 _Jobfit C4 Trainee:_ Mary Montgomery<br>
-
 _NEMDC Trainee:_ Emily Mokaene<br>
-
 _Assistant Directors:_ Chris Hall, Maureen Blackwood<br>
-
 _Continuity:_ Julia Britton<br>
-
 _Casting:_ Isaac Julien, Nadine Marsh-Edwards<br>
-
 _Screenplay:_ Isaac Julien<br>
-
 _Script Consultant:_ Mark Nash<br>
-
 _Director of Photography:_ Nina Kellgren<br>
-
 _Rostrum Photography:_ Begonia Tamarit<br>
-
 _Focus Puller:_ Amanda Richardson<br>
-
 _Grip:_ Gary Romaine<br>
-
 _Gaffer:_ Nuala Campbell<br>
-
 _Electricians:_ Natasha Franklin, Simon Jones<br>
-
 _Stills:_ Sunil Gupta<br>
-
 _Editor:_ Robert Hargreaves<br>
-
 _Assistant Editor:_ Emma Matthews<br>
-
 _Art Director:_ Derek Brown<br>
-
 _Art Department Stylist:_ Leslie Gilda<br>
-
 _Storyboard:_ John Hewitt<br>
-
 _Props Buyer:_ Neesh Ruben<br>
-
 _Construction Manager:_ David Ferris<br>
-
 _Costume Designer:_ Robert Worley<br>
-
 _Make-up:_ Hilary Steinberg<br>
-
 _Titles:_ Les Latimer Opticals<br>
-
 _Incidental Music:_ Peter Spencer, Trevor Mathison, Wayson Jones<br>
-
 _Sound:_ Martin Jackson, Ronald Bailey<br>
-
 _Dubbing Mixer:_ David Skilton<br>
-
 _New York Research/Production:_ Mark Nash<br>
 
-_Cast:_<br>
+*Cast**<br>
 
 Ben Ellison _(Alex)_<br>
 
@@ -110,93 +77,96 @@ Dencil Williams _(Marcus)_<br>
 
 Guy Burgess _(Dean)_<br>
 
-James Dublin _(Carlos)_
+James Dublin _(Carlos)_<br>
 
-Harry Donaldson _(leatherboy)_
+Harry Donaldson _(leatherboy)_<br>
 
 Alaena Adams, James Dublin, Michael Bailey,
 
-June Givanni, Guy Burgess, Cherry Smyth _(mourners)_
+June Givanni, Guy Burgess, Cherry Smyth _(mourners)_<br>
 
 Tony Knight, Akim Mogaji, Derrick McClintock,
 
-Jimmy Somerville, Dencil Williams _(angels)_
+Jimmy Somerville, Dencil Williams _(angels)_<br>
 
 Michael Bailey, Jon Iwenjiora, Paul Bernstock,
 
 Tony Knight, Steven Brown, Orson Nava,  
 Sarah Dunn, Matthew Scott, Simon Fogg,  
-Cherry Smyth, Pedro Williams _(dancers at wake)_
+Cherry Smyth, Pedro Williams _(dancers at wake)_<br>
 
 Wayne James, Irvine Lewis, Trevor Miller
 
-_(brothers in jazz)_
+_(brothers in jazz)_<br>
 
 John Alexander, Dave Greaves, Tommy Carlton, AJ, Pete Collins, Ian Johns, Joe Fordham,  
-Seymour Laws, Reginald Parker _(thugs/police)_
+Seymour Laws, Reginald Parker _(thugs/police)_<br>
 
-Clarke Peters _(voice reading Langston Hughes)_
+Clarke Peters _(voice reading Langston Hughes)_<br>
 
-Erick Ray Evans _(voice reading Bruce Nugent)_
+Erick Ray Evans _(voice reading Bruce Nugent)_<br>
 
-Essex Hemphill, Wayson Jones _(American voices)_
+Essex Hemphill, Wayson Jones _(American voices)_<br>
 
-Toni Morrison _(voice reading James Baldwin)_
+Toni Morrison _(voice reading James Baldwin)_<br>
 
-Stuart Hall _(British voice)_
+Stuart Hall _(British voice)_<br>
 
-UK 1989©
+UK 1989©<br>
 
-45 mins (total run time 105 mins)
+45 mins (total run time 105 mins)<br>
+<br>
 
-<![endif]-->
 
-**REGULAR PROGRAMME**
+**REGULAR PROGRAMME**<br>
 
-**Member Picks: Ball of Fire**
+**Member Picks: Ball of Fire**<br>
 
-Sat 18 Jun 15:10
+Sat 18 Jun 15:10<br>
 
 **Woman with a Movie Camera Preview:  
 Moon, 66 Questions (Selini, 66 erotiseis)**  
-**+ Q&A with writer-director Jacqueline Lentzou**
+**+ Q&A with writer-director Jacqueline Lentzou**<br>
 
-Wed 22 Jun 18:00
+Wed 22 Jun 18:00<br>
 
-**Terror Vision: Terror + intro with screenwriter David McGillivray and actor Tricia Walsh**
+**Terror Vision: Terror + intro with screenwriter David McGillivray and actor Tricia Walsh**<br>
 
-Fri 24 Jun 18:00
+Fri 24 Jun 18:00<br>
 
 **Relaxed Screening: In Pursuit of Silence  
-+ intro and discussion**
++ intro and discussion**<br>
 
-Mon 27 Jun 18:20
+Mon 27 Jun 18:20<br>
 
-**IN PERSON & PREVIEWS**
-
-**Restoration Preview:  
-Dr. Who and the Daleks + Q&A**
-
-Sun 19 Jun 11:30
+**IN PERSON & PREVIEWS**<br>
 
 **Restoration Preview:  
-Daleks’ Invasion Earth 2150 A.D.**
+Dr. Who and the Daleks + Q&A**<br>
 
-Sun 19 Jun 14:30
+Sun 19 Jun 11:30<br>
+
+**Restoration Preview:  
+Daleks’ Invasion Earth 2150 A.D.**<br>
+
+Sun 19 Jun 14:30<br>
 
 **Experimenta Presents: Premiere: Wayfinder  
-+ Q&A with director Larry Achiampong**
++ Q&A with director Larry Achiampong**<br>
 
-Tue 21 Jun 18:15
+Tue 21 Jun 18:15<br>
 
 **Burning an Illusion + intro by actor  
-Cassie McFarlane**
+Cassie McFarlane**<br>
 
-Mon 27 Jun 18:00
+Mon 27 Jun 18:00<br>
 
-**Preview: The Afterlight + Q&A with director Charlie Shackleton**
+**Preview: The Afterlight + Q&A with director Charlie Shackleton**<br>
 
-Wed 29 Jun 18:20
+Wed 29 Jun 18:20<br>
+<br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzcyMTM3OV19
+eyJoaXN0b3J5IjpbLTE2ODcyMzc4MDZdfQ==
 -->
