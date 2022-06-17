@@ -10,110 +10,105 @@ Its languid monochrome texture and stylised art direction evoke an ambiguous sen
 Like other young Black British independent filmmakers, Julien is motivated by a concern with the past in order to throw new light on contemporary issues.  
 The contributions of Black artists to modernism have been consistently written out of official versions of history – or, as Stuart Hall conveys in the film’s commentary, after the 20s the ‘primitive’ Negro was no longer in vogue and wealthy white patrons found other uses for their money. In this sense, _Looking for Langston_ is an archaeological project, reconstructing the historical continuum in which Black aesthetic expression has been an integral part of modernism. And it points out that the contributions of Black women and gay men have been rendered even more invisible by conservative notions about a homogeneous and undifferentiated Black ‘community’.
 
-This critical interest in history suggests that Julien is attempting a dialogue (or its visual equivalent) with the different traditions from which he has invented his own artistic identity as a Black gay ‘auteur’. Black people have historically been the objects of representation, rather than its subjects and creators, as racism often determines who gets access to the means of representation in the first place. Julien overturns this double-bind as the Black subject ‘looks back’. Certain motifs, such as the ‘direct look’ whereby Black characters seem to ask the audience what they are looking for, appeared in the first film by Julien and the Sankofa workshop, _Territories_ (1984). With a new degree of self-confidence (and a considerably larger budget), _Looking for Langston_ continues and develops this artistic project, deepening the critique of racial representation by extending it into the domain of fantasy. At times, the seductive quality of the film’s preoccupation with its own stylishness risks a degree of cliché, but this is a risk worth taking if a wider audience is thereby invited into the dialogue about the ‘politics of difference’.
-
-Kobena Mercer, _Monthly Film Bulletin_, February 1990
+This critical interest in history suggests that Julien is attempting a dialogue (or its visual equivalent) with the different traditions from which he has invented his own artistic identity as a Black gay ‘auteur’. Black people have historically been the objects of representation, rather than its subjects and creators, as racism often determines who gets access to the means of representation in the first place. Julien overturns this double-bind as the Black subject ‘looks back’. Certain motifs, such as the ‘direct look’ whereby Black characters seem to ask the audience what they are looking for, appeared in the first film by Julien and the Sankofa workshop, _Territories_ (1984). With a new degree of self-confidence (and a considerably larger budget), _Looking for Langston_ continues and develops this artistic project, deepening the critique of racial representation by extending it into the domain of fantasy. At times, the seductive quality of the film’s preoccupation with its own stylishness risks a degree of cliché, but this is a risk worth taking if a wider audience is thereby invited into the dialogue about the ‘politics of difference’.  
+**Kobena Mercer, _Monthly Film Bulletin_, February 1990**
 
 **About the panel**
 
-**Josh Rivers**
-
+**Josh Rivers**  
 Josh Rivers is the creator and host of the award-winning podcast Busy Being Black. He’s the Communications and Fundraising Manager for international LGBTQ human rights charity Kaleidoscope Trust and volunteers as the Head of Communications for UK Black Pride, Europe’s largest pride celebration for LGBTQ people of colour. He was named one of the UK’s most influential communications professionals in _PRWeek_’s 2022 PowerBook.
 
-**Rico Norwood**
-
+**Rico Norwood**  
 Kenneth (Rico) Norwood is an American film and video game researcher out of the University of Southampton, who currently resides in both London and Berlin. They hail from Houston, Texas but received their undergraduate degree in Mass Communications from Xavier University of New Orleans and their M.A. in Media Studies at Long Island University’s Brooklyn Campus.
 
 Their primary academic concerns are Black Queer Art and historical narratives through films, as well as video game studies with regards to race, gender, sexuality, and their development. They have been featured in _Metro_, _Wired Magazine_, _TechRadar_, _PinkNews_, the International Screen Studies Conference, and more. They are working as a fulltime researcher in video game/metaverse development for the multimedia company Tales of Us.
 
-**Rico Johnson-Sinclair**
-
+**Rico Johnson-Sinclair**  
 After working with Flatpack Festival in Birmingham in 2017, Rico Johnson-Sinclair went on to build CineQ, a queer film festival that prioritises Queer and Trans Black and Indigenous people and people of colour which is now in its 5th year. Outside of programming and exhibition, Rico consults with organisations around events that focus on inclusion and diversity. Not limited to film, Rico has led campaigns that focus on marginalised communities; he was also Festival Manager of SHOUT Festival, Birmingham’s queer arts and culture festival offering a mix of dance, music, theatre, live art, visual arts and film and has previously worked for organisations such as Coventry City of Culture and Film Hub Midlands. He is currently Race Equality Lead for the BFI, working to bring a critical perspective into conversations about race in the film industry.  
 He recently produced the BFI backed film _Sweet Mother_ (2019), written and directed by Zane Igbe, and is currently working on his first short film as writer/director named _PREY_, which was also funded by BFI.
+<br><br>
 
-<![endif]-->
+**LOOKING FOR LANGSTON**<br>
 
-**LOOKING FOR LANGSTON**
+_Director:_ Isaac Julien<br>
 
-_Director:_ Isaac Julien
+©_/Production Company:_ Sankofa Film and Video<br>
 
-©_/Production Company:_ Sankofa Film and Video
+_Producer:_ Nadine Marsh-Edwards<br>
 
-_Producer:_ Nadine Marsh-Edwards
+_Production Assistant:_ Robert Crusz<br>
 
-_Production Assistant:_ Robert Crusz
+_Runners:_ James Wolstenholme, Malcolm Manning<br>
 
-_Runners:_ James Wolstenholme, Malcolm Manning
+_Jobfit C4 Trainee:_ Mary Montgomery<br>
 
-_Jobfit C4 Trainee:_ Mary Montgomery
+_NEMDC Trainee:_ Emily Mokaene<br>
 
-_NEMDC Trainee:_ Emily Mokaene
+_Assistant Directors:_ Chris Hall, Maureen Blackwood<br>
 
-_Assistant Directors:_ Chris Hall, Maureen Blackwood
+_Continuity:_ Julia Britton<br>
 
-_Continuity:_ Julia Britton
+_Casting:_ Isaac Julien, Nadine Marsh-Edwards<br>
 
-_Casting:_ Isaac Julien, Nadine Marsh-Edwards
+_Screenplay:_ Isaac Julien<br>
 
-_Screenplay:_ Isaac Julien
+_Script Consultant:_ Mark Nash<br>
 
-_Script Consultant:_ Mark Nash
+_Director of Photography:_ Nina Kellgren<br>
 
-_Director of Photography:_ Nina Kellgren
+_Rostrum Photography:_ Begonia Tamarit<br>
 
-_Rostrum Photography:_ Begonia Tamarit
+_Focus Puller:_ Amanda Richardson<br>
 
-_Focus Puller:_ Amanda Richardson
+_Grip:_ Gary Romaine<br>
 
-_Grip:_ Gary Romaine
+_Gaffer:_ Nuala Campbell<br>
 
-_Gaffer:_ Nuala Campbell
+_Electricians:_ Natasha Franklin, Simon Jones<br>
 
-_Electricians:_ Natasha Franklin, Simon Jones
+_Stills:_ Sunil Gupta<br>
 
-_Stills:_ Sunil Gupta
+_Editor:_ Robert Hargreaves<br>
 
-_Editor:_ Robert Hargreaves
+_Assistant Editor:_ Emma Matthews<br>
 
-_Assistant Editor:_ Emma Matthews
+_Art Director:_ Derek Brown<br>
 
-_Art Director:_ Derek Brown
+_Art Department Stylist:_ Leslie Gilda<br>
 
-_Art Department Stylist:_ Leslie Gilda
+_Storyboard:_ John Hewitt<br>
 
-_Storyboard:_ John Hewitt
+_Props Buyer:_ Neesh Ruben<br>
 
-_Props Buyer:_ Neesh Ruben
+_Construction Manager:_ David Ferris<br>
 
-_Construction Manager:_ David Ferris
+_Costume Designer:_ Robert Worley<br>
 
-_Costume Designer:_ Robert Worley
+_Make-up:_ Hilary Steinberg<br>
 
-_Make-up:_ Hilary Steinberg
+_Titles:_ Les Latimer Opticals<br>
 
-_Titles:_ Les Latimer Opticals
+_Incidental Music:_ Peter Spencer, Trevor Mathison, Wayson Jones<br>
 
-_Incidental Music:_ Peter Spencer, Trevor Mathison, Wayson Jones
+_Sound:_ Martin Jackson, Ronald Bailey<br>
 
-_Sound:_ Martin Jackson, Ronald Bailey
+_Dubbing Mixer:_ David Skilton<br>
 
-_Dubbing Mixer:_ David Skilton
+_New York Research/Production:_ Mark Nash<br>
 
-_New York Research/Production:_ Mark Nash
+_Cast:_<br>
 
-_Cast:_
+Ben Ellison _(Alex)_<br>
 
-Ben Ellison _(Alex)_
+Matthew Baidoo _(Beauty)_<br>
 
-Matthew Baidoo _(Beauty)_
+Akim Mogaji _(James)_<br>
 
-Akim Mogaji _(James)_
+John Wilson _(Karl)_<br>
 
-John Wilson _(Karl)_
+Dencil Williams _(Marcus)_<br>
 
-Dencil Williams _(Marcus)_
-
-Guy Burgess _(Dean)_
+Guy Burgess _(Dean)_<br>
 
 James Dublin _(Carlos)_
 
@@ -203,5 +198,5 @@ Mon 27 Jun 18:00
 
 Wed 29 Jun 18:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTM1NzQ3NF19
+eyJoaXN0b3J5IjpbLTUzMzcyMTM3OV19
 -->
