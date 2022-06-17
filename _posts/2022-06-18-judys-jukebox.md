@@ -31,7 +31,7 @@ To celebrate 100 years of the brilliant Judy Garland, we present a jukebox night
 
 12. **How about You** – _Babes on Broadway_, 1941, dir. Busby Berkeley
 
-<![if !supportLists]>13. <![endif]>**Over the Rainbow** – _The Wizard of Oz_, 1939, dir. Victor Fleming
+13. **Over the Rainbow** – _The Wizard of Oz_, 1939, dir. Victor Fleming
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyNDE0MjEzXX0=
+eyJoaXN0b3J5IjpbLTExNzM4MDYxMDNdfQ==
 -->
