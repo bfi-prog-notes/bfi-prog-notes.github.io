@@ -63,23 +63,18 @@ _Sound by:_ Charles B. Lang, David Forrest
 **Cast**  
 Judy Garland _(Esther ‘Vicki Lester’ Blodgett)_  
 James Mason _(Ernest Sidney ‘Norman Maine’ Gubbins)_  
-Jack Carson _(Matt Libby)_
-Charles Bickford _(Oliver Niles)_
+Jack Carson _(Matt Libby)_  
+Charles Bickford _(Oliver Niles)_  
+Tom Noonan _(Danny McGuire)_  
+Lucy Marlow _(Lola Lavery)_  
+Amanda Blake _(Susan Ettinger)_  
+Irving Bacon _(Graves the butler)_  
+Hazel Shermet _(Miss Wheeler, Libby’s secretary)_  
 
-Tom Noonan _(Danny McGuire)_
+USA 1954©  
+178 mins  
 
-Lucy Marlow _(Lola Lavery)_
-
-Amanda Blake _(Susan Ettinger)_
-
-Irving Bacon _(Graves the butler)_
-
-Hazel Shermet _(Miss Wheeler, Libby’s secretary)_
-
-USA 1954©
-178 mins
-
-* Uncredited
+\* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODg5NzEyODVdfQ==
+eyJoaXN0b3J5IjpbMTY3MjQyMjA0OV19
 -->
