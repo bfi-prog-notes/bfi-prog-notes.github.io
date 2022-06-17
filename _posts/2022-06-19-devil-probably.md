@@ -13,7 +13,8 @@ pdf: '2022-06-19-devil-probably.pdf'
 **SPOILER WARNING** The following notes give away some of the plot.
 
 **Contemporary reviews**  
-Having made his decision to trust his cellmate, the condemned man puts his escape plan into practice and drops barefoot over the prison wall: as the man padded to freedom, the long silence of the preceding sequence was broken by a few bars of Mozart’s C Minor Mass. Twenty years on, Bresson’s view of grace and salvation has grown less and less optimistic; now, as Charles and Valentin make their last, virtually silent journey across Paris to Père-Lachaise a journey no less taut and redolently atmospheric than the final sequence in _Un condamné à mort s’est échappé_, the former prepares to leave the world to which the condemned man so ardently strove to return.
+Having made his decision to trust his cellmate, the condemned man puts his escape plan into practice and drops barefoot over the prison wall: as the man padded to freedom, the long silence of the preceding sequence was broken by a few bars of Mozart’s C Minor Mass. Twenty years on, Bresson’s view of grace and salvation has grown less and less optimistic; now, as Charles and Valentin make their last, virtually silent journey across Paris to Père-Lachaise a journey no less taut and redolently atmospheric than the final sequence in  
+_Un condamné à mort s’est échappé_, the former prepares to leave the world to which the condemned man so ardently strove to return.
 
 Having left the metro and taken his condemned man’s last glass of cognac, Charles walks along a dark street and pauses before a half-open shutter to look in at a television: we hear a snatch of Mozart and in that brief moment the beauty of the world which Bresson believes so irrevocably lost is conjured before us. Charles goes to his death with the serenity – though their circumstances are different – of all Bresson’s noble suicides; and yet, because of the density, abstraction and circumscription of the world in which we find him, this slouched, long-haired young man is perhaps the most difficult of all the director’s protagonists for us to love and understand.
 
@@ -139,3 +140,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzU3Njg0MjEyXX0=
+-->
