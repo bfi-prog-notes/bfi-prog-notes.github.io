@@ -42,7 +42,7 @@ _Studio:_ Shepperton Studios
 
 **Cast**  
 Judy Garland _(Jenny Bowman)_  
-Dirk Bogarde _(David Donne)_
+Dirk Bogarde _(David Donne)_  
 Jack Klugman _(George Kogan)_
 Aline MacMahon _(Ida)_
 Gregory Phillips _(Matt Donne)_
@@ -63,6 +63,6 @@ UK 1963
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxMTIyMDAsMTE3NDU4MjM0NCwxMTU0MD
-Q4ODk0LC0xMjEyNzk5OTFdfQ==
+eyJoaXN0b3J5IjpbLTQxODc2ODg4OCwyOTExMjIwMCwxMTc0NT
+gyMzQ0LDExNTQwNDg4OTQsLTEyMTI3OTk5MV19
 -->
