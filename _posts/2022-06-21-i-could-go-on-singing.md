@@ -43,26 +43,26 @@ _Studio:_ Shepperton Studios
 **Cast**  
 Judy Garland _(Jenny Bowman)_  
 Dirk Bogarde _(David Donne)_  
-Jack Klugman _(George Kogan)_
-Aline MacMahon _(Ida)_
-Gregory Phillips _(Matt Donne)_
-Russell Waters _(Reynolds)_
-Pauline Jameson _(Miss Plimpton)_
-Jeremy Burnham _(young hospital doctor)_
-Eric Woodburn
-Robert Rietti
-Gerald Sim _(assistant manager at Palladium)_
-David Lee
-Leon Cortez _(the busker)_
-Al Paul
-Laurie Heath _(Bobby Evans)_ *
-Tony Robinson _(the poet)_ *
+Jack Klugman _(George Kogan)_  
+Aline MacMahon _(Ida)_  
+Gregory Phillips _(Matt Donne)_  
+Russell Waters _(Reynolds)_  
+Pauline Jameson _(Miss Plimpton)_  
+Jeremy Burnham _(young hospital doctor)_  
+Eric Woodburn  
+Robert Rietti  
+Gerald Sim _(assistant manager at Palladium)_  
+David Lee  
+Leon Cortez _(the busker)_  
+Al Paul  
+Laurie Heath _(Bobby Evans)_ *  
+Tony Robinson _(the poet)_ *  
 
-UK 1963
-100 mins
+UK 1963  
+100 mins  
 
-* Uncredited
+* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODc2ODg4OCwyOTExMjIwMCwxMTc0NT
-gyMzQ0LDExNTQwNDg4OTQsLTEyMTI3OTk5MV19
+eyJoaXN0b3J5IjpbNzgyMjg3NzUyLDI5MTEyMjAwLDExNzQ1OD
+IzNDQsMTE1NDA0ODg5NCwtMTIxMjc5OTkxXX0=
 -->
