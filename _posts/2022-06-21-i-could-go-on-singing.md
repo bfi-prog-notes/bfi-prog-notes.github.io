@@ -11,37 +11,37 @@ As a film, _I Could Go On Singing_ is threadbare, as well as being pinned down t
 
 **I COULD GO ON SINGING**  
 _Director:_ Ronald Neame  
-_Production Company:_ Barbican Films
-_Executive Producer:_ Stuart Millar
-_Producer:_ Lawrence Turman
-_Unit Manager:_ John Peverall
-_Production Supervisor:_ Denis Holt
-_Assistant to the Producer:_ Rose Tobias Shaw
-_Production Assistant:_ Marion Rosenberg
-_Assistant Director:_ Colin Brewer
-_Continuity:_ Pamela Davies
-_Screenplay:_ Mayo Simon
-_Based on a story by:_ Robert Dozier
-_Director of Photography:_ Arthur Ibbetson
-_Camera Operator:_ Paul Wilson
-_Editor:_ John Shirley
-_Art Director:_ Wilfred Shingleton
-_Set Decorator:_ John Hoesli
-_Miss Garland’s Costumes:_ Edith Head
-_Additional Costumes:_ Beatrice Dawson
-_Wardrobe:_ Evelyn Gibbs
-_Make-up:_ Harold Fletcher
-_Hairdresser:_ Pearl Tipaldi
-_Main Title/Graphic Design:_ Maurice Binder
-_Music:_ Mort Lindsey
-_Title Songs:_ Harold Arlen, E.Y. Harburg
-_Music Supervisor:_ Saul Chaplin
-_Sound:_ Buster Ambler, Red Law
-_Dubbing Editor:_ Christopher Lancaster
-_Studio:_ Shepperton Studios
+_Production Company:_ Barbican Films  
+_Executive Producer:_ Stuart Millar  
+_Producer:_ Lawrence Turman  
+_Unit Manager:_ John Peverall  
+_Production Supervisor:_ Denis Holt  
+_Assistant to the Producer:_ Rose Tobias Shaw  
+_Production Assistant:_ Marion Rosenberg  
+_Assistant Director:_ Colin Brewer  
+_Continuity:_ Pamela Davies  
+_Screenplay:_ Mayo Simon  
+_Based on a story by:_ Robert Dozier  
+_Director of Photography:_ Arthur Ibbetson  
+_Camera Operator:_ Paul Wilson  
+_Editor:_ John Shirley  
+_Art Director:_ Wilfred Shingleton  
+_Set Decorator:_ John Hoesli  
+_Miss Garland’s Costumes:_ Edith Head  
+_Additional Costumes:_ Beatrice Dawson  
+_Wardrobe:_ Evelyn Gibbs  
+_Make-up:_ Harold Fletcher  
+_Hairdresser:_ Pearl Tipaldi  
+_Main Title/Graphic Design:_ Maurice Binder  
+_Music:_ Mort Lindsey  
+_Title Songs:_ Harold Arlen, E.Y. Harburg  
+_Music Supervisor:_ Saul Chaplin  
+_Sound:_ Buster Ambler, Red Law  
+_Dubbing Editor:_ Christopher Lancaster  
+_Studio:_ Shepperton Studios  
 
-**Cast**
-Judy Garland _(Jenny Bowman)_
+**Cast**  
+Judy Garland _(Jenny Bowman)_  
 Dirk Bogarde _(David Donne)_
 Jack Klugman _(George Kogan)_
 Aline MacMahon _(Ida)_
@@ -49,28 +49,20 @@ Gregory Phillips _(Matt Donne)_
 Russell Waters _(Reynolds)_
 Pauline Jameson _(Miss Plimpton)_
 Jeremy Burnham _(young hospital doctor)_
-
 Eric Woodburn
-
 Robert Rietti
-
 Gerald Sim _(assistant manager at Palladium)_
-
 David Lee
-
 Leon Cortez _(the busker)_
-
 Al Paul
-
 Laurie Heath _(Bobby Evans)_ *
-
 Tony Robinson _(the poet)_ *
 
 UK 1963
-
 100 mins
+
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDU4MjM0NCwxMTU0MDQ4ODk0LC0xMj
-EyNzk5OTFdfQ==
+eyJoaXN0b3J5IjpbMjkxMTIyMDAsMTE3NDU4MjM0NCwxMTU0MD
+Q4ODk0LC0xMjEyNzk5OTFdfQ==
 -->
