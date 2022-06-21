@@ -52,74 +52,41 @@ _Directed & Produced by:_ Larry Achiampong<br>
 _Executive Producer:_ Nephertiti Oboshie Schandorf<br>
 _Production Supervisor:_ Louise Searle<br>
 _Location Management:_ Louise Searle,  Hayleigh-Joy Rose, Sian Morse, Priyesh Mistry<br>
-
 _Production Documentation:_ Reece Straw<br>
-
 _Production Assistant:_ Zara Truss Giles<br>
-
 _Written by:_ Larry Achiampong, Aida Amoako<br>
-
-_Directors of Photography:_ Larry Achiampong,  
-Rhea Storr<br>
-
-_Camera Work by:_ Rhea Storr, Samara Addai,  
-Reece Straw, Larry Achiampong<br>
-
+_Directors of Photography:_ Larry Achiampong,  Rhea Storr<br>
+_Camera Work by:_ Rhea Storr, Samara Addai,  Reece Straw, Larry Achiampong<br>
 _Drone Operator:_ Larry Achiampong<br>
-
 _Edited by:_ Larry Achiampong, Rhea Storr<br>
-
-_Costume Design by:_ Dawuud Kangudi Loka,  
-Larry Achiampong<br>
-
+_Costume Design by:_ Dawuud Kangudi Loka,  Larry Achiampong<br>
 _Music Composed by:_ Larry Achiampong<br>
-
 _Field Recordings by:_ Larry Achiampong<br>
-
-_Sound Design & Audio Mix by:_  
-Look Mama! Productions<br>
-
-_Machine Operators (Dreamland, Margate):_  
-Richard Cadell, Ross Pearson<br>
-
+_Sound Design & Audio Mix by:_  Look Mama! Productions<br>
+_Machine Operators (Dreamland, Margate):_  Richard Cadell, Ross Pearson<br>
 _Typeface Design:_ Jess Latham (Blue Vinyl Fonts)<br>
-
 _Unit Driver:_ William Anderson<br>
-
 _Guardians to Ms Rodrigues:_ Alida Rodrigues, Louise Searle<br>
 
-_Cast (in order of appearance):_<br>
-
+**Cast (in order of appearance)**<br>
 Zael Grace Rose-Achiampong _(voice #1)_<br>
-
 Nephertiti Oboshie Schandorf _(voices #2, #4)_<br>
-
 Perside Rodrigues _(The Wanderer)_<br>
-
 Mataio Austin Dean _(The Griot)_<br>
-
 Marla Brown _(voice #3)_<br>
-
 Anita Neil OLY _(herself)_<br>
-
 Marla Brown _(voice #5)_<br>
-
 Mataio Austin Dean _(voice #6)_<br>
-
 Russell Tovey _(Russell)_<br>
-
 Maa Afua _((Aunty) Comfort)_<br>
-
 Hayleigh-Joy Rose _(voice #7)_<br>
-
 Laura Achiampong Seinti _(voice #8)_<br>
 
 UK 2022<br>
-
 84 mins
 
 Courtesy of Verve Pictures<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTg3NjkzNzhdfQ==
+eyJoaXN0b3J5IjpbMTcyNDU3OTQ4MF19
 -->
