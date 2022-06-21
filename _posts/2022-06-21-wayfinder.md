@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Wayfinder
+published: true
+date: 2022-06-21
+readtime: true
+categories: ['EXPERIMENTA PRESENTS - PREMIERE']
+tags: [Experimental]
+metadata: 'UK 2022, 84 mins<br> Director: Larry Achiampong'
+pdf: '2022-06-21-wayfinder.pdf'
+---
 
 _+ Q&A with director Larry Achiampong and Executive Director of Knowledge and Collections, BFI National Archive, Arike Oke_
 
@@ -18,9 +28,7 @@ A road movie of sorts, _Wayfinder_ draws on British traditions of travel and exp
 
 The film combines sweeping shots with poetic voice-over narratives, melded with real ‘vox pop’ testimonies, field recordings and an original orchestral score composed by Achiampong.
 
-The film’s cast includes former athlete Anita Neil OLY, who is Britain’s first Black female Olympian, musician and artist Mataio Austin Dean (who plays  
-The Griot), and a trippy dialogue-driven scene (set within East London café  
-E. Pellicci in Bethnal Green) portrayed by Maa Afua and Russell Tovey  among others.
+The film’s cast includes former athlete Anita Neil OLY, who is Britain’s first Black female Olympian, musician and artist Mataio Austin Dean (who plays  The Griot), and a trippy dialogue-driven scene (set within East London café  E. Pellicci in Bethnal Green) portrayed by Maa Afua and Russell Tovey  among others.
 
 **Director’s Statement**  
 This project feels like a poignant moment for me, not just professionally and as a maker of films, but also personally. It has felt very important and necessary, especially at this point in time, to be able to bring this range of subject matter and conversations to the table at what is increasingly becoming a contentious moment of our times.
@@ -35,12 +43,9 @@ With works that examine his communal and personal heritage – in particular, th
 
 Recent projects include commissions with The Line, London; The Liverpool Biennial 2021 and Art on the Underground, Roundel designs and a permanent sculptural intervention for Transport for London’s Westminster Underground Station, London (2019 and 2022). Recent solo exhibitions include _Wayfinder_, Turner Contemporary/MK Gallery/ BALTIC Centre for Contemporary Art, Margate, Milton Keynes, Gateshead (2022-2023); _Relic Traveller: Where You and I Come From_, _We Know That We Are Not Here Forever_, Phi Foundation for Contemporary Art, Montreal (2021); _Beyond the Substrata_, curated by Norman Rosenthal, Copperfield Gallery at Frieze Focus, 12 Piccadilly Arcade, London (2020); _When the Sky Falls_, John Hansard Gallery, Southampton (2020); Pan African Flag For The Relic Travellers Alliance & Relic Traveller, Phase 1, 019, Ghent (2019); Dividednation, Primary, Nottingham (2019).
 
-Achiampong (b. 1984, UK, British Ghanaian) is a Jarman Award nominated artist (2021). He completed a BA in Mixed Media Fine Art at University of Westminster in 2005 and an MA in Sculpture at The Slade School of Fine Art in 2008. In 2020 Achiampong was awarded the Stanley Picker fellowship and in 2019 received the Paul Hamlyn Artist award in recognition for his practice.  
-He lives and works in London and Essex, and was a tutor on the Photography MA programme at Royal College of Art between 2016 – 2021. Achiampong currently serves on the Board of Trustees at Iniva (Institute of International Visual Arts) facilitating art policies in the UK and internationally and also holds a place on the board of trustees for Elephant Trust and is represented by  
-C Ø P P E R F I E L D.
+Achiampong (b. 1984, UK, British Ghanaian) is a Jarman Award nominated artist (2021). He completed a BA in Mixed Media Fine Art at University of Westminster in 2005 and an MA in Sculpture at The Slade School of Fine Art in 2008. In 2020 Achiampong was awarded the Stanley Picker fellowship and in 2019 received the Paul Hamlyn Artist award in recognition for his practice.  He lives and works in London and Essex, and was a tutor on the Photography MA programme at Royal College of Art between 2016 – 2021. Achiampong currently serves on the Board of Trustees at Iniva (Institute of International Visual Arts) facilitating art policies in the UK and internationally and also holds a place on the board of trustees for Elephant Trust and is represented by  C Ø P P E R F I E L D.
 
-**Arike Oke** is a noted cultural leader, a registered archivist, and curator.  
-She leads the screen heritage collections at the BFI in the role of Executive Director of Knowledge and Collections. Her practice is rooted in social justice and the role of culture in giving strength to, and inspiring, individuals and communities. Formerly she was the Managing Director for Black Cultural Archives, the home of Black British history.
+**Arike Oke** is a noted cultural leader, a registered archivist, and curator.  She leads the screen heritage collections at the BFI in the role of Executive Director of Knowledge and Collections. Her practice is rooted in social justice and the role of culture in giving strength to, and inspiring, individuals and communities. Formerly she was the Managing Director for Black Cultural Archives, the home of Black British history.
 
 She’s worked in heritage for over 15 years, from the seminal Connecting Histories project in Birmingham, to developing Wellcome Collection’s archive, and co-convening Hull’s first official Black History Month. Her interest in supporting the sector includes assessing funding applications for Wellcome, the Royal Society and the National Archives, assessing impact for REF and judging the 2022 Write on Art Prize.
 
@@ -87,6 +92,24 @@ UK 2022<br>
 
 Courtesy of Verve Pictures<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTcyNDU3OTQ4MF19
 -->
