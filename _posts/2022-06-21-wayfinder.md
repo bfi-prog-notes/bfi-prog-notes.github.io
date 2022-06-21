@@ -20,16 +20,14 @@ The film combines sweeping shots with poetic voice-over narratives, melded with 
 
 The film’s cast includes former athlete Anita Neil OLY, who is Britain’s first Black female Olympian, musician and artist Mataio Austin Dean (who plays  
 The Griot), and a trippy dialogue-driven scene (set within East London café  
-E. Pellicci in Bethnal Green) portrayed by Maa Afua and Russell Tovey  
-among others.
+E. Pellicci in Bethnal Green) portrayed by Maa Afua and Russell Tovey  among others.
 
-**Director’s Statement**
-
+**Director’s Statement**  
 This project feels like a poignant moment for me, not just professionally and as a maker of films, but also personally. It has felt very important and necessary, especially at this point in time, to be able to bring this range of subject matter and conversations to the table at what is increasingly becoming a contentious moment of our times.
 
 I am so excited to share the expansive vision of this story, which marks a new and exciting stage in my art practice. I never set out to create a film of this size, but due to the scope of ideas that evolved along the way, it increasingly became inevitable that this would become my first feature film.
 
-Production notes
+**Production notes**
 
 **Larry Achiampong**’s solo and collaborative projects employ film, still imagery, aural and visual archives, live performance, objects and sound to explore ideas surrounding class, gender, cross-cultural and post-digital identity.
 
@@ -47,86 +45,81 @@ She leads the screen heritage collections at the BFI in the role of Executive Di
 She’s worked in heritage for over 15 years, from the seminal Connecting Histories project in Birmingham, to developing Wellcome Collection’s archive, and co-convening Hull’s first official Black History Month. Her interest in supporting the sector includes assessing funding applications for Wellcome, the Royal Society and the National Archives, assessing impact for REF and judging the 2022 Write on Art Prize.
 
 Her fiction is published in magazines and anthologies. Her critical art writing has been featured in _The Girls Are_ and _This Is Tomorrow_. Her factual writing has appeared in journals. She has written an anti-racism book for children which is to be published in 2022.
+<br><br>
 
-<![endif]-->
+**WAYFINDER**<br>
+_Directed & Produced by:_ Larry Achiampong<br>
+_Executive Producer:_ Nephertiti Oboshie Schandorf<br>
+_Production Supervisor:_ Louise Searle<br>
+_Location Management:_ Louise Searle,  Hayleigh-Joy Rose, Sian Morse, Priyesh Mistry<br>
 
-**WAYFINDER**
+_Production Documentation:_ Reece Straw<br>
 
-_Directed & Produced by:_ Larry Achiampong
+_Production Assistant:_ Zara Truss Giles<br>
 
-_Executive Producer:_ Nephertiti Oboshie Schandorf
-
-_Production Supervisor:_ Louise Searle
-
-_Location Management:_ Louise Searle,  
-Hayleigh-Joy Rose, Sian Morse, Priyesh Mistry
-
-_Production Documentation:_ Reece Straw
-
-_Production Assistant:_ Zara Truss Giles
-
-_Written by:_ Larry Achiampong, Aida Amoako
+_Written by:_ Larry Achiampong, Aida Amoako<br>
 
 _Directors of Photography:_ Larry Achiampong,  
-Rhea Storr
+Rhea Storr<br>
 
 _Camera Work by:_ Rhea Storr, Samara Addai,  
-Reece Straw, Larry Achiampong
+Reece Straw, Larry Achiampong<br>
 
-_Drone Operator:_ Larry Achiampong
+_Drone Operator:_ Larry Achiampong<br>
 
-_Edited by:_ Larry Achiampong, Rhea Storr
+_Edited by:_ Larry Achiampong, Rhea Storr<br>
 
 _Costume Design by:_ Dawuud Kangudi Loka,  
-Larry Achiampong
+Larry Achiampong<br>
 
-_Music Composed by:_ Larry Achiampong
+_Music Composed by:_ Larry Achiampong<br>
 
-_Field Recordings by:_ Larry Achiampong
+_Field Recordings by:_ Larry Achiampong<br>
 
 _Sound Design & Audio Mix by:_  
-Look Mama! Productions
+Look Mama! Productions<br>
 
 _Machine Operators (Dreamland, Margate):_  
-Richard Cadell, Ross Pearson
+Richard Cadell, Ross Pearson<br>
 
-_Typeface Design:_ Jess Latham (Blue Vinyl Fonts)
+_Typeface Design:_ Jess Latham (Blue Vinyl Fonts)<br>
 
-_Unit Driver:_ William Anderson
+_Unit Driver:_ William Anderson<br>
 
-_Guardians to Ms Rodrigues:_ Alida Rodrigues, Louise Searle
+_Guardians to Ms Rodrigues:_ Alida Rodrigues, Louise Searle<br>
 
-_Cast (in order of appearance):_
+_Cast (in order of appearance):_<br>
 
-Zael Grace Rose-Achiampong _(voice #1)_
+Zael Grace Rose-Achiampong _(voice #1)_<br>
 
-Nephertiti Oboshie Schandorf _(voices #2, #4)_
+Nephertiti Oboshie Schandorf _(voices #2, #4)_<br>
 
-Perside Rodrigues _(The Wanderer)_
+Perside Rodrigues _(The Wanderer)_<br>
 
-Mataio Austin Dean _(The Griot)_
+Mataio Austin Dean _(The Griot)_<br>
 
-Marla Brown _(voice #3)_
+Marla Brown _(voice #3)_<br>
 
-Anita Neil OLY _(herself)_
+Anita Neil OLY _(herself)_<br>
 
-Marla Brown _(voice #5)_
+Marla Brown _(voice #5)_<br>
 
-Mataio Austin Dean _(voice #6)_
+Mataio Austin Dean _(voice #6)_<br>
 
-Russell Tovey _(Russell)_
+Russell Tovey _(Russell)_<br>
 
-Maa Afua _((Aunty) Comfort)_
+Maa Afua _((Aunty) Comfort)_<br>
 
-Hayleigh-Joy Rose _(voice #7)_
+Hayleigh-Joy Rose _(voice #7)_<br>
 
-Laura Achiampong Seinti _(voice #8)_
+Laura Achiampong Seinti _(voice #8)_<br>
 
-UK 2022
+UK 2022<br>
 
 84 mins
 
-Courtesy of Verve Pictures
+Courtesy of Verve Pictures<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDkzODU5M119
+eyJoaXN0b3J5IjpbLTE2OTg3NjkzNzhdfQ==
 -->
