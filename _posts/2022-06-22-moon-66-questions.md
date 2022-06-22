@@ -20,11 +20,9 @@ It’s over 80 minutes into its 108-minute running time before _Moon, 66 Questio
 **Jacqueline Lentzou** (born Athens, 1989) is an artist whose cinematic language involves discovering poetry in – seemingly – mundane premises.  Her tools are word and image association, the dream-construct, intuition.  She experiments with formats, durations and feelings.
 
 Through her work she discusses non-traditional family systems, loneliness, duality and oneness, love, and most importantly, the lack of it. A London Film School graduate (2013), Jacqueline has written and directed five short films up until now, all of them having a rather successful festival career having premiered at Locarno, Toronto, Berlin and Cannes. She is the recipient of numerous prestigious awards, including the Cine Leica Discovery Award by Semaine de La Critique for _Hector Malot: The Last Day of the Year_ (2018).
+<br><br>
 
-<![endif]-->
-
-**MOON, 66 QUESTIONS (SELINI, 66 EROTISEIS)**
-
+**MOON, 66 QUESTIONS (SELINI, 66 EROTISEIS)**  
 _Directed by_: Jacqueline Lentzou  
 ©: Blonde, Luxbox, Jacqueline Lentzou  
 _Production Companies_: Blonde, Luxbox  
@@ -52,12 +50,9 @@ _Sound Designer_: Leandros Ntounis
 _Production Sound Mixer_: Dimitris Kanellopoulos  
 _Mixing Supervisor_: Leandros Ntounis  
 _Sound Mixer (Paris Shooting Crew)_: Julien Sena  
-_‘Jacqueline wants to thank from the bottom of her heart [...] her script consultants’_:  
-Nikos Panagiotopoulos, Razvan Radulescu,  
-Paul Thomas Anderson
+_‘Jacqueline wants to thank from the bottom of her heart [...] her script consultants’_:  Nikos Panagiotopoulos, Razvan Radulescu,  Paul Thomas Anderson
 
-_Cast:_
-
+**Cast**  
 Sofia Kokkali _(Artemis)_  
 Lazaros Geôrgakopoulos _(Paris)_  
 Nikitas Tsakiroglou _(Iakovos)_  
@@ -69,38 +64,36 @@ Nikolas Hanakoulas _(Kostas)_
 Alexandros Sotiriou _(Stamatis)_  
 Sofia Polychronou _(Victoria)_
 
-Greece-France 2021©
-
+Greece-France 2021©  
 108 mins
 
 Courtesy of Modern Films
 
 Woman with a Movie Camera is generously supported by Jane Stanton
+<br><br>
 
-<![endif]-->
+**REGULAR PROGRAMME**<br>
 
-**REGULAR PROGRAMME**
+**Terror Vision: Terror + intro with screenwriter David McGillivray and actor Tricia Walsh**<br>
 
-**Terror Vision: Terror + intro with screenwriter David McGillivray and actor Tricia Walsh**
+Fri 24 Jun 18:00<br>
 
-Fri 24 Jun 18:00
+**Relaxed Screening: In Pursuit of Silence + intro and discussion**<br>
 
-**Relaxed Screening: In Pursuit of Silence + intro and discussion**
+Mon 27 Jun 18:20<br>
 
-Mon 27 Jun 18:20
+**Seniors Premiere: Reel Stories: An Oral History of London’s Projectionists + Q&A**<br>
 
-**Seniors Premiere: Reel Stories: An Oral History of London’s Projectionists + Q&A**
-
-Tue 5 Jul 11:00
+Tue 5 Jul 11:00<br>
 
 **Seniors’ Free Matinee: From Trinidad to Lagos  
-+ Q&A with author Stephen Bourne**
++ Q&A with author Stephen Bourne**<br>
 
-Tue 5 Jul 14:00
+Tue 5 Jul 14:00<br>
 
-**Art in the Making: Give Us This Day + intro**
+**Art in the Making: Give Us This Day + intro**<br>
 
-Thu 14 Jul 18:10
+Thu 14 Jul 18:10<br>
 
 **Silent Cinema: Phil-for-Short + intro by  
 BFI Curator Bryony Dixon**
@@ -133,5 +126,5 @@ Tue 26 Jul 18:30
 
 Thu 28 Jul 18:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM2NDY1MDZdfQ==
+eyJoaXN0b3J5IjpbLTE5NDkyMzU4OThdfQ==
 -->
