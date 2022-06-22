@@ -73,58 +73,31 @@ Woman with a Movie Camera is generously supported by Jane Stanton
 <br><br>
 
 **REGULAR PROGRAMME**<br>
-
 **Terror Vision: Terror + intro with screenwriter David McGillivray and actor Tricia Walsh**<br>
-
 Fri 24 Jun 18:00<br>
-
 **Relaxed Screening: In Pursuit of Silence + intro and discussion**<br>
-
 Mon 27 Jun 18:20<br>
-
 **Seniors Premiere: Reel Stories: An Oral History of London’s Projectionists + Q&A**<br>
-
 Tue 5 Jul 11:00<br>
-
-**Seniors’ Free Matinee: From Trinidad to Lagos  
-+ Q&A with author Stephen Bourne**<br>
-
+**Seniors’ Free Matinee: From Trinidad to Lagos  + Q&A with author Stephen Bourne**<br>
 Tue 5 Jul 14:00<br>
-
 **Art in the Making: Give Us This Day + intro**<br>
-
 Thu 14 Jul 18:10<br>
-
-**Silent Cinema: Phil-for-Short + intro by  
-BFI Curator Bryony Dixon**
-
-Sun 17 Jul 13:10
-
-**Experimenta: The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies?! + live experimental music**
-
-**introduction by The Howling**
-
-Wed 20 Jul 18:15
-
-**Woman with a Movie Camera: The Mirror Has Two Faces + intro by BFI Events Programmer Kimberley Sheehan**
-
-Thu 21 Jul 18:00
-
-**African Odysseys: Commemorating Marikana**
-
-Sun 24 Jul 12:00-17:40
-
-**Relaxed Screening: Electricity + intro and discussion**
-
-Mon 25 Jul 18:15
-
-**Projecting The Archive: The Bay of Saint Michel (aka Pattern for Plunder) + intro by BFI curator Josephine Botting**
-
-Tue 26 Jul 18:30
-
-**Terror Vision: Blood Games**
-
-Thu 28 Jul 18:20
+**Silent Cinema: Phil-for-Short + intro by  BFI Curator Bryony Dixon**<br>
+Sun 17 Jul 13:10<br>
+**Experimenta: The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies?! + live experimental music introduction by The Howling**<br>
+Wed 20 Jul 18:15<br>
+**Woman with a Movie Camera: The Mirror Has Two Faces + intro by BFI Events Programmer Kimberley Sheehan**<br>
+Thu 21 Jul 18:00<br>
+**African Odysseys: Commemorating Marikana**<br>
+Sun 24 Jul 12:00-17:40<br>
+**Relaxed Screening: Electricity + intro and discussion**<br>
+Mon 25 Jul 18:15<br>
+**Projecting The Archive: The Bay of Saint Michel (aka Pattern for Plunder) + intro by BFI curator Josephine Botting**<br>
+Tue 26 Jul 18:30<br>
+**Terror Vision: Blood Games**<br>
+Thu 28 Jul 18:20<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDkyMzU4OThdfQ==
+eyJoaXN0b3J5IjpbMTQ1NTA3MTU2OF19
 -->
