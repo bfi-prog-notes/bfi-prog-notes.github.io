@@ -206,11 +206,12 @@ Vera Butzek, Donald Behrendt
 Patric Kreuzer, Simone Säger, Gerdi Hofmann, Ulrike Schirm, Hans Marquard, Heimke Carl,  
 Klaus Mausolf, Özyer Hüsinye, Jean-Claude Lezin, Thierry Noir, Matthias Maass, Henry Luczkow
 
-West Germany/France 1987©
+West Germany/France 1987©<br>
 
 127 mins
 
-A Curzon release
+A Curzon release<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3Mzk4ODkwXX0=
+eyJoaXN0b3J5IjpbLTE4NjY1NDEzNzRdfQ==
 -->
