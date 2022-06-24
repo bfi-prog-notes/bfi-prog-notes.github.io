@@ -38,8 +38,7 @@ The first time is an abrupt cut as she swings on her trapeze (wearing, naturally
 **WINGS OF DESIRE (DER HIMMEL ÜBER BERLIN)**<br>
 
 _Director:_ Wim Wenders  
-©_/Production Companies:_  
-Road Movies Filmproduktion GmbH, Argos-Films<br> 
+©_/Production Companies:_  Road Movies Filmproduktion GmbH, Argos-Films<br> 
 _Production Company:_ Westdeutscher Rundfunk<br>
 _Executive Producer:_ Ingrid Windisch<br>
 
@@ -213,5 +212,5 @@ West Germany/France 1987©<br>
 A Curzon release<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY1NDEzNzRdfQ==
+eyJoaXN0b3J5IjpbNzU5ODc4OTMyLC0xODY2NTQxMzc0XX0=
 -->
