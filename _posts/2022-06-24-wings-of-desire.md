@@ -36,135 +36,73 @@ The first time is an abrupt cut as she swings on her trapeze (wearing, naturally
 <br><br>
 
 **WINGS OF DESIRE (DER HIMMEL ÜBER BERLIN)**<br>
-
 _Director:_ Wim Wenders  
 ©_/Production Companies:_  Road Movies Filmproduktion GmbH, Argos-Films<br> 
 _Production Company:_ Westdeutscher Rundfunk<br>
 _Executive Producer:_ Ingrid Windisch<br>
-
 _Producers:_ Wim Wenders, Anatole Dauman<br> 
 _Associate Producers:_ Joachim von Mengershausen, Pascale Dauman<br>
-
 _Production Accountant:_ Inge Ruf<br>
-
 _Payroll:_ Charlotte Läufer-Roll<br>
-
 _Production Co-ordinator:_ Ulla Zwicker<br>
-
 _Production Manager:_ Herbert Kerz<br>
-
 _Location Manager:_ Barbara von Wrangell<br> 
 _Production Wizard:_ Tilmann Vierzig<br>
-
 _Production Consultant:_ Chris Sievernich<br>
-
 _Assistant Director:_ Claire Denis<br>
-
 _2nd Assistant Director:_ Knut Winkler<br>
-
 _Script Supervisor:_ Gabi Mattner<br>
-
 _Screenplay:_ Wim Wenders<br>
-
 _Together with:_ Peter Handke<br>
-
 _Additional Script Work:_ Richard Reitinger<br>
 _Adaptation:_ Bernard Eisenschitz, Anne Head<br> 
 _Director of Photography:_ Henri Alekan<br>
-
-_Additional Photography:_ Peter Ch. Arnold,  
-Martin Kukula<br>
-
-_2nd Unit Photography:_ Frank Blasberg,  
-Peter Braatz<br>
-
-_Helicopter Camera Work:_ Klemens Becker,  
-Klaus Krieger<br>
-
+_Additional Photography:_ Peter Ch. Arnold,  Martin Kukula<br>
+_2nd Unit Photography:_ Frank Blasberg,  Peter Braatz<br>
+_Helicopter Camera Work:_ Klemens Becker,  Klaus Krieger<br>
 _Front Projection:_ Fritz Lehmann, Wolfgang Schmidt<br>
- _Camera Operator:_ Agnès Godard<br>
-
+_Camera Operator:_ Agnès Godard<br>
 _1st Assistant Cameraman:_ Achim Poulheim<br>
-
 _Grips:_ Dieter Bähr<br>
-
 _Gaffer:_ Bernd Hübner<br>
-
 _Best Boy:_ Klaus Bieling<br>
-
 _Still Photographer:_ Ralf Strathmann<br>
-
 _Editor:_ Peter Przygodda<br>
-
 _Assistant Editors:_ Anne Schnee, Leni Savietto-Pütz<br> 
 _Art Director:_ Heidi Lüdi<br>
-
 _Set Decorator:_ Esther Walz<br>
-
 _Sculptor:_ Jost van der Velden<br>
-
 _The Berlin Wall Repainted by:_ Thierry Noir<br>
-
 _Property Master:_ Peter Alteneder<br>
-
 _Costume Designer:_ Monika Jacobs<br>
-
-_Wardrobe:_ Brigitte Friedländer-Rodriguez,  
-Irmtraud ‘Simone’ Simon<br>
-
-_Make-up and Hair:_ Victor Leitenbauer,  
-Regina Huyer<br>
-
+_Wardrobe:_ Brigitte Friedländer-Rodriguez,  Irmtraud ‘Simone’ Simon<br>
+_Make-up and Hair:_ Victor Leitenbauer,  Regina Huyer<br>
 _Opticals and Titles:_ Studio Bartoschek, Berlin<br>
-
 _Opening Credits:_ Uli Mayer<br>
-
 _Music:_ Jürgen Knieper<br>
-
 _Circus Music:_ Laurent Petitgand<br>
-
 _Marion’s Trapeze Act Coached/Choreographed by:_ Lajos Kovács<br>
-
 _Sound Mixers:_ Jean-Paul Mugel, Axel Arft<br>
-
 _Boom Man:_ Uwe Thalmann<br>
-
 _Re-recording Mixer:_ Hartmut Eichgrün<br>
-
-_Sound Processing:_ Lothar Mankewitz,  
-Detlev Fichtner<br>
-
+_Sound Processing:_ Lothar Mankewitz,  Detlev Fichtner<br>
 _Trapeze Coach:_ Lajos Kovács<br>
-
-_Dedicated to all the former angels…_  
-Yasujiro, François, Andrei Tarkovsky<br>
-
+_Dedicated to all the former angels…_  Yasujiro, François, Andrei Tarkovsky<br>
 _Bird Wrangler:_ Dieter Koschorrek<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Bruno Ganz _(Damiel)_<br>
-
 Solveig Dommartin _(Marion)_<br>
-
 Otto Sander _(Cassiel)_<br>
-
 Curt Bois _(Homer)_<br>
-
 Peter Falk _(himself)_<br>
-
 Hans Martin Stier _(the dying man)_<br>
-
 Elmar Wilms _(a sad man)_<br>
-
 Sigurd Rachman _(the suicide)_<br>
-
 Beatrice Manowski _(a young prostitute)_<br>
 
 _at the circus:_<br>
-
-Lajos Kovács _(Marion’s coach),_ Bruno Rosaz  
-_(the clown),_ Laurent Petitgand _(the bandleader),_ Chico Rojo Ortega _(the drummer),_ Otto Kuhnle, Christopher Merg _(the juggler),_ Peter Werner  
+Lajos Kovács _(Marion’s coach),_ Bruno Rosaz  _(the clown),_ Laurent Petitgand _(the bandleader),_ Chico Rojo Ortega _(the drummer),_ Otto Kuhnle, Christopher Merg _(the juggler),_ Peter Werner  
 _(the manager),_ Susanne Vierkötter, Paul Busch, Karin Busch, Irene Mössinger, Franky
 
 _the angels at the public library:_<br>
@@ -212,5 +150,6 @@ West Germany/France 1987©<br>
 A Curzon release<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5ODc4OTMyLC0xODY2NTQxMzc0XX0=
+eyJoaXN0b3J5IjpbLTEwMDgzNzA0MTQsLTE4NjY1NDEzNzRdfQ
+==
 -->
