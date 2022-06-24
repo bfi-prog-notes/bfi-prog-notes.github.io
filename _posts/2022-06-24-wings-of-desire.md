@@ -70,133 +70,135 @@ _Screenplay:_ Wim Wenders<br>
 _Together with:_ Peter Handke<br>
 
 _Additional Script Work:_ Richard Reitinger<br>
-_Adaptation:_ Bernard Eisenschitz, Anne Head 
-_Director of Photography:_ Henri Alekan
+_Adaptation:_ Bernard Eisenschitz, Anne Head<br> 
+_Director of Photography:_ Henri Alekan<br>
 
 _Additional Photography:_ Peter Ch. Arnold,  
-Martin Kukula
+Martin Kukula<br>
 
 _2nd Unit Photography:_ Frank Blasberg,  
-Peter Braatz
+Peter Braatz<br>
 
 _Helicopter Camera Work:_ Klemens Becker,  
-Klaus Krieger
+Klaus Krieger<br>
 
-_Front Projection:_ Fritz Lehmann, Wolfgang Schmidt _Camera Operator:_ Agnès Godard
+_Front Projection:_ Fritz Lehmann, Wolfgang Schmidt<br>
+ _Camera Operator:_ Agnès Godard<br>
 
-_1st Assistant Cameraman:_ Achim Poulheim
+_1st Assistant Cameraman:_ Achim Poulheim<br>
 
-_Grips:_ Dieter Bähr
+_Grips:_ Dieter Bähr<br>
 
-_Gaffer:_ Bernd Hübner
+_Gaffer:_ Bernd Hübner<br>
 
-_Best Boy:_ Klaus Bieling
+_Best Boy:_ Klaus Bieling<br>
 
-_Still Photographer:_ Ralf Strathmann
+_Still Photographer:_ Ralf Strathmann<br>
 
-_Editor:_ Peter Przygodda
+_Editor:_ Peter Przygodda<br>
 
-_Assistant Editors:_ Anne Schnee, Leni Savietto-Pütz _Art Director:_ Heidi Lüdi
+_Assistant Editors:_ Anne Schnee, Leni Savietto-Pütz<br> 
+_Art Director:_ Heidi Lüdi<br>
 
-_Set Decorator:_ Esther Walz
+_Set Decorator:_ Esther Walz<br>
 
-_Sculptor:_ Jost van der Velden
+_Sculptor:_ Jost van der Velden<br>
 
-_The Berlin Wall Repainted by:_ Thierry Noir
+_The Berlin Wall Repainted by:_ Thierry Noir<br>
 
-_Property Master:_ Peter Alteneder
+_Property Master:_ Peter Alteneder<br>
 
-_Costume Designer:_ Monika Jacobs
+_Costume Designer:_ Monika Jacobs<br>
 
 _Wardrobe:_ Brigitte Friedländer-Rodriguez,  
-Irmtraud ‘Simone’ Simon
+Irmtraud ‘Simone’ Simon<br>
 
 _Make-up and Hair:_ Victor Leitenbauer,  
-Regina Huyer
+Regina Huyer<br>
 
-_Opticals and Titles:_ Studio Bartoschek, Berlin
+_Opticals and Titles:_ Studio Bartoschek, Berlin<br>
 
-_Opening Credits:_ Uli Mayer
+_Opening Credits:_ Uli Mayer<br>
 
-_Music:_ Jürgen Knieper
+_Music:_ Jürgen Knieper<br>
 
-_Circus Music:_ Laurent Petitgand
+_Circus Music:_ Laurent Petitgand<br>
 
-_Marion’s Trapeze Act Coached/Choreographed by:_ Lajos Kovács
+_Marion’s Trapeze Act Coached/Choreographed by:_ Lajos Kovács<br>
 
-_Sound Mixers:_ Jean-Paul Mugel, Axel Arft
+_Sound Mixers:_ Jean-Paul Mugel, Axel Arft<br>
 
-_Boom Man:_ Uwe Thalmann
+_Boom Man:_ Uwe Thalmann<br>
 
-_Re-recording Mixer:_ Hartmut Eichgrün
+_Re-recording Mixer:_ Hartmut Eichgrün<br>
 
 _Sound Processing:_ Lothar Mankewitz,  
-Detlev Fichtner
+Detlev Fichtner<br>
 
-_Trapeze Coach:_ Lajos Kovács
+_Trapeze Coach:_ Lajos Kovács<br>
 
 _Dedicated to all the former angels…_  
-Yasujiro, François, Andrei Tarkovsky
+Yasujiro, François, Andrei Tarkovsky<br>
 
-_Bird Wrangler:_ Dieter Koschorrek
+_Bird Wrangler:_ Dieter Koschorrek<br>
 
-_Cast:_
+_Cast:_<br>
 
-Bruno Ganz _(Damiel)_
+Bruno Ganz _(Damiel)_<br>
 
-Solveig Dommartin _(Marion)_
+Solveig Dommartin _(Marion)_<br>
 
-Otto Sander _(Cassiel)_
+Otto Sander _(Cassiel)_<br>
 
-Curt Bois _(Homer)_
+Curt Bois _(Homer)_<br>
 
-Peter Falk _(himself)_
+Peter Falk _(himself)_<br>
 
-Hans Martin Stier _(the dying man)_
+Hans Martin Stier _(the dying man)_<br>
 
-Elmar Wilms _(a sad man)_
+Elmar Wilms _(a sad man)_<br>
 
-Sigurd Rachman _(the suicide)_
+Sigurd Rachman _(the suicide)_<br>
 
-Beatrice Manowski _(a young prostitute)_
+Beatrice Manowski _(a young prostitute)_<br>
 
-_at the circus:_
+_at the circus:_<br>
 
 Lajos Kovács _(Marion’s coach),_ Bruno Rosaz  
 _(the clown),_ Laurent Petitgand _(the bandleader),_ Chico Rojo Ortega _(the drummer),_ Otto Kuhnle, Christopher Merg _(the juggler),_ Peter Werner  
 _(the manager),_ Susanne Vierkötter, Paul Busch, Karin Busch, Irene Mössinger, Franky
 
-_the angels at the public library:_
+_the angels at the public library:_<br>
 
 Teresa Harder, Daniella Nasincova,  
 Bernard Eisenschitz, Didier Flamand, Rolf Henke, Scott Kirby, Franck Glemin
 
-_air raid shelter:_
+_air raid shelter:_<br>
 
 Jerry Barrish _(the director),_ Jeanette Pollak  
 _(the wardrobe lady),_ Christian Bartels  
 _(the ‘Hitlerjunge’),_ David Crome _(the assistant director),_ Käthe Fürstenwerth, Werner Schönrock, Bernd Ramien, Erika Rabau, Silvia Blagojeva Itscherenska, Sultan Meral, Olivier Picot,  
 Jochen Gliscinsky, Erich Schupke
 
-_in their apartments:_
+_in their apartments:_<br>
 
 Margarete Hafner, Oliver Herder,  
 Margitta Haberland, Jürgen Heinrichs,  
 Ralf Strathmann, Walter Ratayszak,  
 Charlotte Oberberg, Lubinka Kostic
 
-_on the highway:_
+_on the highway:_<br>
 
 Gisela Westerboer, Andreas Valentin, Anne Gerstl, Dirk Vogeley, Ruth Rischke, Family Ayik
 
-_bands_:
+_bands_:<br>
 
 Crime and the City Solution (Simon Bonney,  
 Mick Harvey, Harry Howard, Rowland Howard, Kevin Godfrey), Nick Cave and the Bad Seeds  
 (Nick Cave, Thomas Wydler, Blixa Bargeld,  
 Roland Wolf, Kid Congo)
 
-_children:_
+_children:_<br>
 
 Denis Rodriguez, Dieta von Aster, Gustav Geisler, Paul Geisler, Lorenz Geisler, Sladjana Kostic, Benedikt Schumann, Nicolas Roth, Marcus Stenzel, Benjamin Ferchow, Mario Meyer, Mark Leuschner, Tibor Dahlenburg, Lia Harder, Mascha Noak,  
 Vera Butzek, Donald Behrendt
@@ -210,5 +212,5 @@ West Germany/France 1987©
 
 A Curzon release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MjA5NzYwMF19
+eyJoaXN0b3J5IjpbMjQ3Mzk4ODkwXX0=
 -->
