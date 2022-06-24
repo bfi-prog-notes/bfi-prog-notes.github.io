@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Wings of Desire
+published: true
+date: 2022-06-24
+readtime: true
+categories: ['RE-RELEASES']
+tags: [Fantasy, Romance]
+metadata: 'West Germany-France 1987, 127 mins<br> Director: Wim Wenders'
+pdf: '2022-06-24-wings-of-desire.pdf'
+---
 
 Few modern films have made the transition to classic status as quickly as Wim Wenders’ _Wings of Desire_. His tale of a guardian angel in a still-Wall-divided Berlin who falls in love with – and to earth for – a melancholy trapeze artist is a canny merging of cerebral formal experimentalism and unabashed popular romanticism. It swept up highbrow critics alongside a much larger mainstream audience than was typical for ‘challenging’ foreign-language cinema of the day. Leading US film magazine _Premiere_’s 1980s wrap-up poll voted it second only to _Raging Bull_ (1980) as film of the decade.
 
@@ -27,8 +37,7 @@ Of all the directors – Herzog, Fassbinder and co – from the late-1960s and 7
 Falk is ostensibly in town to shoot a Second World War-set thriller, but his avuncular presence also brings a welcome, grounded warmth to the angst-ridden, ethereal ambience. And the revelation of his true origins delivered late in the film isn’t just a wonderful (and perfectly judged) surprise, it connects beautifully to Wenders’ themes and his central character Damiel’s dilemma.
 
 **The colour of love**  
-As the film’s English title makes plain, desire is the driving force behind both the film and its angel protagonist Damiel’s fervent longing to leave behind immortality and become human. As this wish percolates and he meets Marion (Solveig Dommartin), the wistful circus performer with whom he falls head over wings in love, Alekan’s exquisite monochrome gradually gives way to  
-vibrant colour.
+As the film’s English title makes plain, desire is the driving force behind both the film and its angel protagonist Damiel’s fervent longing to leave behind immortality and become human. As this wish percolates and he meets Marion (Solveig Dommartin), the wistful circus performer with whom he falls head over wings in love, Alekan’s exquisite monochrome gradually gives way to  vibrant colour.
 
 The first time is an abrupt cut as she swings on her trapeze (wearing, naturally, angel wings); the second, more tender and deliberate shift comes just after she confesses her innermost feelings in Damiel’s presence. As Damiel departs, the image slowly shifts into colour: foreshadowing the union to come in the real world. For a film so intent on conjuring and then conquering a state of timelessness, this disruption of the image is the ultimate signifier that life and love within time are the only true reality. Seeing blood as red. Tasting coffee. Feeling the cold. For Wenders and his characters, the realm of the senses is the one that truly makes sense.
 
@@ -124,11 +133,46 @@ Denis Rodriguez, Dieta von Aster, Gustav Geisler, Paul Geisler, Lorenz Geisler, 
 
 Patric Kreuzer, Simone Säger, Gerdi Hofmann, Ulrike Schirm, Hans Marquard, Heimke Carl,  Klaus Mausolf, Özyer Hüsinye, Jean-Claude Lezin, Thierry Noir, Matthias Maass, Henry Luczkow
 
-West Germany/France 1987©<br>
+West Germany-France 1987©<br>
 127 mins
 
 A Curzon release<br>
 <br>
+
+**NEW & RE-RELEASES**<br>
+**Get Carter**<br>
+Continues from Fri 27 May<br>
+**Benediction**<br>
+From Fri 3 Jun<br>
+**Pickpocket**<br>
+From Fri 3 Jun<br>
+**All My Friends Hate Me**<br>
+From Fri 10 Jun<br>
+**Bergman Island**<br>
+From Fri 10 Jun<br>
+**Swan Song**<br>
+From Fri 10 Jun<br>
+**Wings of Desire (Der Himmel über Berlin)**<br>
+From Fri 24 Jun (Q&A with Wim Wenders on Sat 25 Jun 15:00)<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTI1ODM2Mjk2MiwtMTg2NjU0MTM3NF19
 -->
