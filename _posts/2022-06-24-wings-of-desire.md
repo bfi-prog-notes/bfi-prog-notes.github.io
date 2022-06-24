@@ -102,54 +102,33 @@ Sigurd Rachman _(the suicide)_<br>
 Beatrice Manowski _(a young prostitute)_<br>
 
 _at the circus:_<br>
-Lajos Kovács _(Marion’s coach),_ Bruno Rosaz  _(the clown),_ Laurent Petitgand _(the bandleader),_ Chico Rojo Ortega _(the drummer),_ Otto Kuhnle, Christopher Merg _(the juggler),_ Peter Werner  
-_(the manager),_ Susanne Vierkötter, Paul Busch, Karin Busch, Irene Mössinger, Franky
+Lajos Kovács _(Marion’s coach),_ Bruno Rosaz  _(the clown),_ Laurent Petitgand _(the bandleader),_ Chico Rojo Ortega _(the drummer),_ Otto Kuhnle, Christopher Merg _(the juggler),_ Peter Werner  _(the manager),_ Susanne Vierkötter, Paul Busch, Karin Busch, Irene Mössinger, Franky
 
 _the angels at the public library:_<br>
-
-Teresa Harder, Daniella Nasincova,  
-Bernard Eisenschitz, Didier Flamand, Rolf Henke, Scott Kirby, Franck Glemin
+Teresa Harder, Daniella Nasincova,  Bernard Eisenschitz, Didier Flamand, Rolf Henke, Scott Kirby, Franck Glemin
 
 _air raid shelter:_<br>
-
-Jerry Barrish _(the director),_ Jeanette Pollak  
-_(the wardrobe lady),_ Christian Bartels  
-_(the ‘Hitlerjunge’),_ David Crome _(the assistant director),_ Käthe Fürstenwerth, Werner Schönrock, Bernd Ramien, Erika Rabau, Silvia Blagojeva Itscherenska, Sultan Meral, Olivier Picot,  
-Jochen Gliscinsky, Erich Schupke
+Jerry Barrish _(the director),_ Jeanette Pollak  _(the wardrobe lady),_ Christian Bartels  _(the ‘Hitlerjunge’),_ David Crome _(the assistant director),_ Käthe Fürstenwerth, Werner Schönrock, Bernd Ramien, Erika Rabau, Silvia Blagojeva Itscherenska, Sultan Meral, Olivier Picot,  Jochen Gliscinsky, Erich Schupke
 
 _in their apartments:_<br>
-
-Margarete Hafner, Oliver Herder,  
-Margitta Haberland, Jürgen Heinrichs,  
-Ralf Strathmann, Walter Ratayszak,  
-Charlotte Oberberg, Lubinka Kostic
+Margarete Hafner, Oliver Herder,  Margitta Haberland, Jürgen Heinrichs,  Ralf Strathmann, Walter Ratayszak,  Charlotte Oberberg, Lubinka Kostic
 
 _on the highway:_<br>
-
 Gisela Westerboer, Andreas Valentin, Anne Gerstl, Dirk Vogeley, Ruth Rischke, Family Ayik
 
 _bands_:<br>
-
-Crime and the City Solution (Simon Bonney,  
-Mick Harvey, Harry Howard, Rowland Howard, Kevin Godfrey), Nick Cave and the Bad Seeds  
-(Nick Cave, Thomas Wydler, Blixa Bargeld,  
-Roland Wolf, Kid Congo)
+Crime and the City Solution (Simon Bonney,  Mick Harvey, Harry Howard, Rowland Howard, Kevin Godfrey), Nick Cave and the Bad Seeds  (Nick Cave, Thomas Wydler, Blixa Bargeld,  Roland Wolf, Kid Congo)
 
 _children:_<br>
+Denis Rodriguez, Dieta von Aster, Gustav Geisler, Paul Geisler, Lorenz Geisler, Sladjana Kostic, Benedikt Schumann, Nicolas Roth, Marcus Stenzel, Benjamin Ferchow, Mario Meyer, Mark Leuschner, Tibor Dahlenburg, Lia Harder, Mascha Noak,  Vera Butzek, Donald Behrendt
 
-Denis Rodriguez, Dieta von Aster, Gustav Geisler, Paul Geisler, Lorenz Geisler, Sladjana Kostic, Benedikt Schumann, Nicolas Roth, Marcus Stenzel, Benjamin Ferchow, Mario Meyer, Mark Leuschner, Tibor Dahlenburg, Lia Harder, Mascha Noak,  
-Vera Butzek, Donald Behrendt
-
-Patric Kreuzer, Simone Säger, Gerdi Hofmann, Ulrike Schirm, Hans Marquard, Heimke Carl,  
-Klaus Mausolf, Özyer Hüsinye, Jean-Claude Lezin, Thierry Noir, Matthias Maass, Henry Luczkow
+Patric Kreuzer, Simone Säger, Gerdi Hofmann, Ulrike Schirm, Hans Marquard, Heimke Carl,  Klaus Mausolf, Özyer Hüsinye, Jean-Claude Lezin, Thierry Noir, Matthias Maass, Henry Luczkow
 
 West Germany/France 1987©<br>
-
 127 mins
 
 A Curzon release<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgzNzA0MTQsLTE4NjY1NDEzNzRdfQ
-==
+eyJoaXN0b3J5IjpbLTI1ODM2Mjk2MiwtMTg2NjU0MTM3NF19
 -->
