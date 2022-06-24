@@ -32,41 +32,46 @@ vibrant colour.
 
 The first time is an abrupt cut as she swings on her trapeze (wearing, naturally, angel wings); the second, more tender and deliberate shift comes just after she confesses her innermost feelings in Damiel’s presence. As Damiel departs, the image slowly shifts into colour: foreshadowing the union to come in the real world. For a film so intent on conjuring and then conquering a state of timelessness, this disruption of the image is the ultimate signifier that life and love within time are the only true reality. Seeing blood as red. Tasting coffee. Feeling the cold. For Wenders and his characters, the realm of the senses is the one that truly makes sense.
 
-Leigh Singer, bfi.org.uk
+**Leigh Singer, bfi.org.uk**
+<br><br>
 
-<![endif]-->
-
-**WINGS OF DESIRE (DER HIMMEL ÜBER BERLIN)**
+**WINGS OF DESIRE (DER HIMMEL ÜBER BERLIN)**<br>
 
 _Director:_ Wim Wenders  
 ©_/Production Companies:_  
-Road Movies Filmproduktion GmbH, Argos-Films _Production Company:_ Westdeutscher Rundfunk _Executive Producer:_ Ingrid Windisch
+Road Movies Filmproduktion GmbH, Argos-Films<br> 
+_Production Company:_ Westdeutscher Rundfunk<br>
+_Executive Producer:_ Ingrid Windisch<br>
 
-_Producers:_ Wim Wenders, Anatole Dauman _Associate Producers:_ Joachim von Mengershausen, Pascale Dauman
+_Producers:_ Wim Wenders, Anatole Dauman<br> 
+_Associate Producers:_ Joachim von Mengershausen, Pascale Dauman<br>
 
-_Production Accountant:_ Inge Ruf
+_Production Accountant:_ Inge Ruf<br>
 
-_Payroll:_ Charlotte Läufer-Roll
+_Payroll:_ Charlotte Läufer-Roll<br>
 
-_Production Co-ordinator:_ Ulla Zwicker
+_Production Co-ordinator:_ Ulla Zwicker<br>
 
-_Production Manager:_ Herbert Kerz
+_Production Manager:_ Herbert Kerz<br>
 
-_Location Manager:_ Barbara von Wrangell _Production Wizard:_ Tilmann Vierzig
+_Location Manager:_ Barbara von Wrangell<br> 
+_Production Wizard:_ Tilmann Vierzig<br>
 
-_Production Consultant:_ Chris Sievernich
+_Production Consultant:_ Chris Sievernich<br>
 
-_Assistant Director:_ Claire Denis
+_Assistant Director:_ Claire Denis<br>
 
-_2nd Assistant Director:_ Knut Winkler
+_2nd Assistant Director:_ Knut Winkler<br>
 
-_Script Supervisor:_ Gabi Mattner
+_Script Supervisor:_ Gabi Mattner<br>
 
-_Screenplay:_ Wim Wenders
+_Screenplay:_ Wim Wenders<br>
 
-_Together with:_ Peter Handke
+_Together with:_ Peter Handke<br>
 
-_Additional Script Work:_ Richard Reitinger _Adaptation:_ Bernard Eisenschitz, Anne Head _Director of Photography:_ Henri Alekan
+_Additional Script Work:_ Richard Reitinger<br>
+_Adaptation:_ Bernard Eisenschitz, Anne Head 
+_Director of Photography:_ Henri Alekan
 
 _Additional Photography:_ Peter Ch. Arnold,  
 Martin Kukula
@@ -205,5 +210,5 @@ West Germany/France 1987©
 
 A Curzon release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODI5MjEyNzddfQ==
+eyJoaXN0b3J5IjpbLTY1MjA5NzYwMF19
 -->
