@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Afterlight
+published: true
+date: 2022-06-29
+readtime: true
+categories: ['PREVIEW']
+tags: [Experimental]
+metadata: 'UK 2021, 82 mins<br> Director: Charlie Shackleton'
+pdf: '2022-06-29-afterlight.pdf'
+---
 
 _+ Q&A with director Charlie Shackleton_
 
@@ -21,9 +31,7 @@ _The Clock_ (2010), although that film was rigorously constructed around a singl
 
 Taking these clips out of context and merging them into a new whole, Shackleton reminds us that a single detached film image can be more meaningful, evocative and rich in promise than the entire film it derives from (hence the almost mystical power of the movie still). As in _The Clock_, these orphaned moments can become little islands of intensified meaning, uncanny in their unmooring from any original narrative context. Sometimes a single snatch of dialogue catches our attention, taking on a meaning it can never have had originally. ‘The time is so short,’ someone says, ‘I don’t know how much time I have to spend.’ But what can these words mean, coming from someone already dead?
 
-The closing moments suddenly introduce a new formal trick – with shades of materialist cinema – that doesn’t quite convince, feeling inconsistent with the rest. _The Afterlight_ is arguably overstretched: the sequence towards the end, where people start driving cars towards another nightspot, feels too dynamic, too purposeful to match with the haunted drift of what’s gone before.  
-Certain earlier moments feel like ideal points for the film to end: a sudden  
-eerie blackout, or a furious-paced montage of close-ups set to Jeremy Warmsley’s propulsive piano music. But perhaps there is no natural end-point: a collage film like this is always liable to seem too long, or too short, disappointing in that it doesn’t go on forever. Just how long is long enough, when you’re invoking eternity?  
+The closing moments suddenly introduce a new formal trick – with shades of materialist cinema – that doesn’t quite convince, feeling inconsistent with the rest. _The Afterlight_ is arguably overstretched: the sequence towards the end, where people start driving cars towards another nightspot, feels too dynamic, too purposeful to match with the haunted drift of what’s gone before.  Certain earlier moments feel like ideal points for the film to end: a sudden  eerie blackout, or a furious-paced montage of close-ups set to Jeremy Warmsley’s propulsive piano music. But perhaps there is no natural end-point: a collage film like this is always liable to seem too long, or too short, disappointing in that it doesn’t go on forever. Just how long is long enough, when you’re invoking eternity?  
 **Jonathan Romney, _Sight and Sound_, Summer 2022**
 <br><br>
 
@@ -45,6 +53,23 @@ _Re-recording Mixer_: Tom Jenkins
 UK 2021©  
 82 mins<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 
 <!--stackedit_data:
