@@ -66,84 +66,47 @@ New 4K restoration by  NFDC – National Film Archive of India
 **SATYAJIT RAY  
 THE LANGUAGE OF FILM**<br>
 **The Philosopher’s Stone (Parash Pathar)**<br>
-
 Fri 1 Jul 20:35; Sun 10 Jul 18:20<br>
-
-**The Zoo Chiriyakhana**<br>
-
+**The Zoo (Chiriyakhana)**<br>
 Sat 2 Jul 12:00; Sun 10 Jul 12:20<br>
-
 **The Adversary (Pratidwandi)**<br>
-
 Sat 2 Jul 15:10; Sun 10 Jul 15:30<br>
-
 **Pather Panchali (Song of the Little Road)**<br>
-
 Sun 3 Jul 18:20; Sat 9 Jul 12:00; Sat 30 Jul 14:30<br>
-
 **The Film Language of Satyajit Ray**<br>
-
 Wed 6 Jul 18:00<br>
-
 **The Middleman (Jana Aranya)**<br>
-
 Wed 6 Jul 20:20; Sun 24 Jul 18:10<br>
-
 **Two Daughters: The Postmaster and Samapti (The Conclusion) + intro by Aparna Sen**<br>
-
 Thu 7 Jul 17:50<br>
-
 **The Unvanquished (Aparajito)**<br>
-
 Sat 9 Jul 15:00; Thu 14 Jul 18:15; Sat 30 Jul 17:40<br>
-
 **The World of Apu (Apur Sansar)**<br>
-
-Sat 9 Jul 17:50; Sat 16 Jul 20:45; Sat 30 Jul 20:30  
-+ pre-recorded intro<br>
-
+Sat 9 Jul 17:50; Sat 16 Jul 20:45; Sat 30 Jul 20:30  + pre-recorded intro<br>
 **Raahgir (The Wayfarers)**<br>
-
-Mon 11 Jul 18:00
-
-**Company Limited (Seemabaddha)**
-
-Wed 13 Jul 18:20; Tue 26 Jul 20:45
-
-**Satyajit Ray: His Home and the World**
-
-Sat 16 Jul 12:00-17:00
-
-**Satyajit Ray Documentaries Programme 1: Rabindranath Tagore + The Inner Eye  
-+ Sukumar Ray**
-
-Sat 16 Jul 18:30; Sun 31 Jul 12:00
-
-**The Adventures of Goopy and Bagha Goopy (Gyne ar Bagha Byne)**
-
-Sun 17 Jul 13:00; Sat 23 Jul 12:10
-
-**The Golden Fortress (Sonar Kella)**
-
-Sun 17 Jul 15:40; Wed 27 Jul 18:00
-
-**Branches of the Tree (Shakha Proshakha)**
-
-Sun 17 Jul 18:10; Sat 30 Jul 12:20
-
-**The Kingdom of Diamonds (Hirak Rajar Deshe)**
-
-Mon 18 Jul 18:10; Sat 23 Jul 14:50
-
-**Joi Baba Felunath (The Elephant God)**
-
-Tue 19 Jul 18:10; Mon 25 Jul 20:40
-
-**The Stranger (Agantuk)**
-
-Thu 21 Jul 20:40; Sun 31 Jul 18:20
+Mon 11 Jul 18:00<br>
+**Company Limited (Seemabaddha)**<br>
+Wed 13 Jul 18:20; Tue 26 Jul 20:45<br>
+**Satyajit Ray: His Home and the World**<br>
+Sat 16 Jul 12:00-17:00<br>
+**Satyajit Ray Documentaries Programme 1: Rabindranath Tagore + The Inner Eye  + Sukumar Ray**<br>
+Sat 16 Jul 18:30; Sun 31 Jul 12:00<br>
+**The Adventures of Goopy and Bagha Goopy (Gyne ar Bagha Byne)**<br>
+Sun 17 Jul 13:00; Sat 23 Jul 12:10<br>
+**The Golden Fortress (Sonar Kella)**<br>
+Sun 17 Jul 15:40; Wed 27 Jul 18:00<br>
+**Branches of the Tree (Shakha Proshakha)**<br>
+Sun 17 Jul 18:10; Sat 30 Jul 12:20<br>
+**The Kingdom of Diamonds (Hirak Rajar Deshe)**<br>
+Mon 18 Jul 18:10; Sat 23 Jul 14:50<br>
+**Joi Baba Felunath (The Elephant God)**<br>
+Tue 19 Jul 18:10; Mon 25 Jul 20:40<br>
+**The Stranger (Agantuk)**<br>
+Thu 21 Jul 20:40; Sun 31 Jul 18:20<br>
 
 In association with The Academy Film Archive
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTExNjcyMV19
+eyJoaXN0b3J5IjpbMjkzOTk0Nzc2XX0=
 -->
