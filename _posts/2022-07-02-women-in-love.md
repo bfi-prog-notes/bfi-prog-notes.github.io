@@ -79,103 +79,59 @@ Richard Heffer _(Leitner)_<br>
 Michael Garratt _(maestro)_<br>
 
 _uncredited_<br>
-
 Leslie Anderson _(barber)_<br>
 Charles Workman _(Gittens)_<br>
-
 Barrie Fletcher _(1st miner)_<br>
-
 Brian Osborne _(2nd miner)_<br>
-
 Christopher Ferguson _(Basis Crich)_<br>
-
 Richard Fitzgerald _(Salsie)_<br>
 
 UK 1969©<br>
-
 131 mins<br>
 <br>
 
 **GLENDA JACKSON**<br>
-
 **Women in Love**<br>
-
 Sat 2 Jul 17:40; Wed 13 Jul 20:3; Fri 15 Jul 20:30<br>
-
 **Horror of Darkness + Let’s Murder Vivaldi**<br>
-
 Sun 3 Jul 15:20<br>
-
 **Mary, Queen of Scots**<br>
-
 Sun 3 Jul 18:15; Wed 20 Jul 20:30<br>
-
 **Glenda Jackson in Conversation**<br>
-
 Tue 5 Jul 18:15<br>
-
 **Sunday Bloody Sunday**<br>
-
 Tue 5 Jul 20:40; Sun 24 Jul 18:30<br>
-
 **Hedda**<br>
-
 Fri 8 Jul 18:00; Sat 16 Jul 16:30<br>
-
 **A Touch of Class**<br>
-
 Sat 9 Jul 15:15; Sat 23 Jul 20:45<br>
-
 **The Romantic Englishwoman**<br>
-
 Sun 10 Jul 18:10; Mon 18 Jul 20:40<br>
-
 **Stevie**<br>
-
 Thu 14 Jul 20:30; Sat 23 Jul 12:00<br>
-
 **Hopscotch**<br>
-
 Fri 15 Jul 18:00; Tue 26 Jul 20:40<br>
-
 **House Calls**<br>
-
 Sat 16 Jul 18:45; Fri 22 Jul 20:30<br>
-
 **The Maids**<br>
-
 Sat 16 Jul 20:50; Sun 24 Jul 15:50<br>
-
 **The Rainbow**<br>
-
 Tue 19 Jul 20:40; Sun 31 Jul 13:00<br>
-
 **Giro City + Glenda Jackson & Politics (clip compilation)**<br>
-
 Thu 21 Jul 17:50<br>
-
 **Turtle Diary**<br>
-
 Thu 21 Jul 20:50; Fri 29 Jul 20:30<br>
-
 **Strange Interlude**<br>
-
 Sat 23 Jul 15:30<br>
-
 **The House of Bernarda Alba**<br>
-
 Mon 25 Jul 17:50<br>
-
 **Elizabeth Is Missing**<br>
-
 Fri 29 Jul 18:15<br>
-
 **Elizabeth R (the complete series)**<br>
-
 Eps 1-3 Sat 30 Jul 14:20; Eps 4-6 Sun 31 Jul 14:30<br>
 
 _Women in Love_ is available to buy on BFI Bluray from the BFI Shop: https://shop.bfi.org.uk/women-in-love-blu-ray.html
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcxNzk2OF19
+eyJoaXN0b3J5IjpbMTA4MzE0MTA2OF19
 -->
