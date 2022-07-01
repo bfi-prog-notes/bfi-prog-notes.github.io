@@ -22,65 +22,39 @@ I chose _Pather Panchali_ for the qualities that made it a great book: humanism,
 <br><br>
 
 **PATHER PANCHALI (SONG OF THE LITTLE ROAD)**<br>
-
 _Director:_ Satyajit Ray<br>
-
 _Production Company:_ Government of West Bengal<br>
-
 _Screenplay:_ Satyajit Ray<br>
-
 _Based on the novel by:_ Bibhutibhusan Banerjee<br>
-
 _Director of Photography:_ Subrata Mitra<br>
-
 _Editor:_ Dulal Dutta<br>
+_Art Director:_ Bansi Chandragupta<br>
+_Music:_ Ravi Shankar<br>
+_Sound:_ Bhupen Ghosh<br>
 
-_Art Director:_ Bansi Chandragupta
+**Cast**<br>
+Kanu Banerjee _(Harihar, the father)_<br>
+Karuna Banerjee _(Sarbajaya, the mother)_<br>
+Subir Banerjee _(Apu, the son)_<br>
+Uma Das Gupta _(the older Durga)_<br>
+Chunibala Devi _(Indira Thakrun)_<br>
+Runki Banerjee _(the younger Durga)_<br>
+Reba Devi _(Seja Thakrun)_<br>
+Aparna Devi _(Nilmoni’s wife)_<br>
+Tulsi Chakravarti _(Prasanna, the schoolteacher)_<br>
+Binoy Mukherjee _(Baidyanath Majumdar)_<br>
+Haren Banerjee _(Chinibash, the sweets seller)_<br>
+Harimohan Nag _(doctor)_<br>
+Haridhan Nag _(Chakravarti)_<br>
+Nibhanoni Devi _(Dasi)_<br>
+Ksirodh Roy _(priest)_<br>
+Roma Ganguli _(Roma)_<br>
 
-_Music:_ Ravi Shankar
-
-_Sound:_ Bhupen Ghosh
-
-_Cast:_
-
-Kanu Banerjee _(Harihar, the father)_
-
-Karuna Banerjee _(Sarbajaya, the mother)_
-
-Subir Banerjee _(Apu, the son)_
-
-Uma Das Gupta _(the older Durga)_
-
-Chunibala Devi _(Indira Thakrun)_
-
-Runki Banerjee _(the younger Durga)_
-
-Reba Devi _(Seja Thakrun)_
-
-Aparna Devi _(Nilmoni’s wife)_
-
-Tulsi Chakravarti _(Prasanna, the schoolteacher)_
-
-Binoy Mukherjee _(Baidyanath Majumdar)_
-
-Haren Banerjee _(Chinibash, the sweets seller)_
-
-Harimohan Nag _(doctor)_
-
-Haridhan Nag _(Chakravarti)_
-
-Nibhanoni Devi _(Dasi)_
-
-Ksirodh Roy _(priest)_
-
-Roma Ganguli _(Roma)_
-
-India 1955
-
+India 1955<br>
 125 mins
 
-New 4K restoration made by the  
-Criterion Collection in collaboration with the Academy Film Archive at the Academy of Motion Picture Arts and Sciences
+New 4K restoration made by the  Criterion Collection in collaboration with the Academy Film Archive at the Academy of Motion Picture Arts and Sciences<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDMyOTY1MF19
+eyJoaXN0b3J5IjpbLTExMjMwMTc0MDJdfQ==
 -->
