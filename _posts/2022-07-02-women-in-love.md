@@ -1,13 +1,20 @@
+---
+layout: post
+title: Women in Love
+published: true
+date: 2022-07-02
+readtime: true
+categories: ['GLENDA JACKSON']
+tags: [Drama]
+metadata: 'UK 1969, 131 mins<br> Director: Ken Russell'
+pdf: '2022-07-02-women-in-love.pdf'
+---
 
+When _Women in Love_ opened theatrically in Britain in the autumn of 1969, its director, Ken Russell, had been a professional filmmaker for a full decade. Although he had only made two cinema features, he had also made over 30 BBC productions, graduating from brief fillers for the _Monitor_ arts magazine programme (1959-63) to feature-length 35mm productions, including  _The Debussy Film_ (1965), _Dante’s Inferno_ (1967) and _Song of Summer_ (1968), the first two of which starred Oliver Reed. Whereas the cinema films had been circumscribed by budget restrictions and an unfinished script (1963’s _French Dressing_) or the dictates of the spy-film genre and a very hands-on producer (1967’s _Billion Dollar Brain_), the later BBC films were made with far greater freedom, and _Women in Love_ was the first time that this unfettered creative licence spilled over onto the big screen.
 
-When _Women in Love_ opened theatrically in Britain in the autumn of 1969, its director, Ken Russell, had been a professional filmmaker for a full decade. Although he had only made two cinema features, he had also made over 30 BBC productions, graduating from brief fillers for the _Monitor_ arts magazine programme (1959-63) to feature-length 35mm productions, including  
-_The Debussy Film_ (1965), _Dante’s Inferno_ (1967) and _Song of Summer_ (1968), the first two of which starred Oliver Reed. Whereas the cinema films had been circumscribed by budget restrictions and an unfinished script (1963’s _French Dressing_) or the dictates of the spy-film genre and a very hands-on producer (1967’s _Billion Dollar Brain_), the later BBC films were made with far greater freedom, and _Women in Love_ was the first time that this unfettered creative licence spilled over onto the big screen.
+It was a very ambitious project to take on: although Russell had adapted novels in the past, they were lighter fare like George and Weedon Grossmith’s _Diary of a Nobody_ (filmed for the BBC in 1964) or the Len Deighton source for _Billion Dollar Brain_. By contrast, D.H. Lawrence’s _Women in Love_ was one of the major British literary masterpieces of the 20th century, its psychologically dense pages defying easy translation. Quoted in John Baxter’s biography  _An Appalling Talent_, Russell himself acknowledged that: ‘It’s impossible to film a 600-page novel and be true to the author’s vision. Two hours is about all anyone can take at a sitting. Many great scenes had to be sacrificed. I particularly regret the omission of the Brangwen girls’ sojourn in London where they sample _la vie bohème_. It helped form their characters and explains their subsequent behaviour.’
 
-It was a very ambitious project to take on: although Russell had adapted novels in the past, they were lighter fare like George and Weedon Grossmith’s _Diary of a Nobody_ (filmed for the BBC in 1964) or the Len Deighton source for _Billion Dollar Brain_. By contrast, D.H. Lawrence’s _Women in Love_ was one of the major British literary masterpieces of the 20th century, its psychologically dense pages defying easy translation. Quoted in John Baxter’s biography  
-_An Appalling Talent_, Russell himself acknowledged that: ‘It’s impossible to film a 600-page novel and be true to the author’s vision. Two hours is about all anyone can take at a sitting. Many great scenes had to be sacrificed. I particularly regret the omission of the Brangwen girls’ sojourn in London where they sample _la vie bohème_. It helped form their characters and explains their subsequent behaviour.’
-
-Although he later made it clear that he was unimpressed with certain aspects of the novel: ‘A lot of the book seemed pretentious and repetitive, and I left a lot of it out because films lasting 24 hours are frowned on by distributors and partly, as I say, because Lawrence simply repeated his theme about the separate-yet-united philosophy of love eight times over in different guises.  
-I thought twice would be enough in the film for most people to get it.’
+Although he later made it clear that he was unimpressed with certain aspects of the novel: ‘A lot of the book seemed pretentious and repetitive, and I left a lot of it out because films lasting 24 hours are frowned on by distributors and partly, as I say, because Lawrence simply repeated his theme about the separate-yet-united philosophy of love eight times over in different guises.  I thought twice would be enough in the film for most people to get it.’
 
 But much of it struck a resonant chord. In particular, the early scene in which Rupert Birkin (Alan Bates) deliberately subverts the self-consciously affected Russian-influenced ‘entertainment’ devised by Hermione Roddice (Eleanor Bron) includes a passage that, while sourced from the novel, might as well have been Russell’s own personal credo: ‘It was an act of pure spontaneity. You can’t bear anything to be spontaneous, can you? Because then it’s no longer in your power. You must clutch things and have them in your power. And why? Because you haven’t got any real body, any dark, sensual body  of life.’
 
@@ -132,6 +139,24 @@ Eps 1-3 Sat 30 Jul 14:20; Eps 4-6 Sun 31 Jul 14:30<br>
 
 _Women in Love_ is available to buy on BFI Bluray from the BFI Shop: https://shop.bfi.org.uk/women-in-love-blu-ray.html
 <br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA4MzE0MTA2OF19
 -->
