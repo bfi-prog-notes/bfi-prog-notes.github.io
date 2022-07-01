@@ -21,12 +21,10 @@ A description of the stairs shooting by Eisenstein’s colleague and lifelong fr
 
 Later in analysing the sequence, Eisenstein noted ‘the rhythmic drum of the soldiers’ feet as they descended the steps violates all metrical demands. Unsynchronised with the beat of the cutting, this drumming comes in off-beat, and the shot itself is entirely different in its solution with each of these appearances. The final pull of tension is supplied by the transfer of the descending feet to another rhythm – a new kind of downward movement – the next intensity level of the same activity – the baby-carriage rolling down the steps …’ Silent as the film was, Eisenstein conceived it in sound in many places. With its success in Berlin he planned with Edmund Meisel, the German composer, a special score. They worked in the same manner as contemporary collaborators on sound tracks. Unfortunately this score was lost for many years.
 
-Eisenstein never saw Odessa or the steps again for nine years. In 1934 when he did, he stared down the steps contemptuously, unable to recapture his ‘creative ecstasy’ of 1925. He flung out incoherent remarks and fled. Next morning he was drawn back when he spat grape pips and obscenities down the steps, declaring unconvincingly that the inspiration for the stairs sequence was only the chase denouement of ‘the Western’, a statement contradicted by the reams he wrote about _Potemkin_.
+Eisenstein never saw Odessa or the steps again for nine years. In 1934 when he did, he stared down the steps contemptuously, unable to recapture his ‘creative ecstasy’ of 1925. He flung out incoherent remarks and fled. Next morning he was drawn back when he spat grape pips and obscenities down the steps, declaring unconvincingly that the inspiration for the stairs sequence was only the chase denouement of ‘the Western’, a statement contradicted by the reams he wrote about _Potemkin_.  
+**National Film Theatre programme notes**  
 
-**National Film Theatre programme notes**
-
-**Battleship Potemkin (Bronenosets Potemkin)**
-
+**Battleship Potemkin (Bronenosets Potemkin)**  
 _Director:_ Sergei M. Eisenstein  
 _Co-director:_ Grigori V. Aleksandrov  
 _Production:_ First Studio Goskino  
@@ -71,5 +69,5 @@ USSR 1925
 
 With live piano accompaniment (2 July) and with Edmund Meisel score (22 and 25 July)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjc4MjI5Nl19
+eyJoaXN0b3J5IjpbMTQyMjI2MjE2OF19
 -->
