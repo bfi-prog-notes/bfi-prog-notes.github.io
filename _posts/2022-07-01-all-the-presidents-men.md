@@ -37,103 +37,55 @@ _Associate Producers_: Michael Britton, Jon Boorstin
 _Executive Production Manager_: E. Darrell Hallenbeck
 
 _Production Co-ordinators_: Rebecca Britton, Erika Koppitz, Ronnie Kramer
-
 _Location Manager_: Steve Vetter
-
 _Production Assistant_: Buck Holland
-
 _1st Assistant Directors_: Bill Green, Art Levinson
-
 _2nd Assistant Directors_: Charles Ziarko, Kim Kurumada
-
 _Script Supervisor_: Karen Wookey
-
 _Casting_: Alan Shayne
-
 _Casting (Consultant)_: Isabel Halliburton
-
 _Screenplay by_: William Goldman
-
 _Screenplay_: Alvin Sargent, Carl Bernstein, Nora Ephron *
-
 _Based on the book by_: Carl Bernstein, Bob Woodward
-
 _Director of Photography_: Gordon Willis
-
 _Camera Operator_: Ralph Gerling
-
 _1st Assistant Camera_: Ray de la Motte
-
 _Gaffer_: George Holmes
-
 _Key Grip_: Bob Rose
-
 _Best Boy_: Carl Gibson Jr
-
 _Still Men_: Howard Bingham, Louis Goldman
-
 _Special Effects_: Henry Millar
-
 _Film Editor_: Robert L. Wolfe
-
 _Assistant Editors_: Tim O’Meara, Steve Potter
-
 _Production Designer_: George Jenkins
-
 _Assistant Art Director_: Bob Jillson
-
 _Set Decorator_: George Gaines
-
 _Draftsman_: J. George Szeptycki
-
 _Lead Man_: Mike Higelmire
-
 _Property Masters_: Allan Levine, Bill Mac Sems
-
 _Assistant Property Masters_: Matty Azzarone, Guy Bushman
-
 _Construction Co-ordinator_: Robert Krume
-
 _Costume Supervisor_: Bernie Pollack
-
 _Assistant Costumers_: Jules Melillo, G. Perez
-
 _Key Make-up Artist_: Gary Liddiard
-
 _Make-up Artists_: Fern Buchner, Don Cash
-
 _Hairdressers_: Romaine Greene, Lynda Gurasich
-
 _Title Design_: Dan Perri
-
 _Music by_: David Shire
-
 _Music Editor_: Nicholas C. Washington
-
 _Production Sound Mixers_: Jim Webb, Les Fresholtz
-
 _Boom Operators_: Chris McLaughlin, Clint Althouse
-
 _Re-recording Mixers_: Art Piantadosi, Les Fresholtz, Dick Alexander
-
 _Supervising Sound Editor_: Milton C. Burrow
-
 _Research_: Steve Bussard, De Forest Research
-
 _Production Publicist_: Jack Hirshberg
-
 _Studio_: Burbank Studios
 
 **Cast**
-
 Dustin Hoffman _(Carl Bernstein)_
-
 Robert Redford _(Bob Woodward)_
-
 Jack Warden _(Harry Rosenfeld)_
-
 Martin Balsam _(Howard Simons)_
-
 Hal Holbrook _(Deep Throat)_
 Jason Robards _(Ben Bradlee)_
 Jane Alexander _(book-keeper)_
@@ -206,5 +158,5 @@ USA 1976©
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjcyNjIxOV19
+eyJoaXN0b3J5IjpbLTMyNTAxNzIzOV19
 -->
