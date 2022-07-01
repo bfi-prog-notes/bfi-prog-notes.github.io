@@ -39,155 +39,154 @@ _Associate Producer_: Roy Baird<br>
 
 _Unit Manager_: Neville C. Thompson<br>
 
-_Production Controller_: Harry Benn
+_Production Controller_: Harry Benn<br>
 
-_Location Manager_: Lee Bolon
+_Location Manager_: Lee Bolon<br>
 
-_Assistant to Producers_: Tom Erhardt
+_Assistant to Producers_: Tom Erhardt<br>
 
-_Assistant Director_: Jonathan Benson
+_Assistant Director_: Jonathan Benson<br>
 
-_Continuity_: Angela Allen
+_Continuity_: Angela Allen<br>
 
-_Written for the screen by_: Larry Kramer
+_Written for the screen by_: Larry Kramer<br>
 
-_From the novel by_: D.H. Lawrence
+_From the novel by_: D.H. Lawrence<br>
 
-_Director of Photography_: Billy Williams
+_Director of Photography_: Billy Williams<br>
 
-_Camera Operator_: David Harcourt
+_Camera Operator_: David Harcourt<br>
 
-_Assistant Cameraman_: Steve Claydon
+_Assistant Cameraman_: Steve Claydon<br>
 
-_Electrical Supervisor_: George Cole
+_Electrical Supervisor_: George Cole<br>
 
-_Editor_: Michael Bradsell
+_Editor_: Michael Bradsell<br>
 
-_Set Designer_: Luciana Arrighi
+_Set Designer_: Luciana Arrighi<br>
 
-_Art Director_: Ken Jones
+_Art Director_: Ken Jones<br>
 
-_Set Dresser_: Harry Cordwell
+_Set Dresser_: Harry Cordwell<br>
 
-_Property Master_: George Ball
+_Property Master_: George Ball<br>
 
-_Construction Manager_: Jack Carter
+_Construction Manager_: Jack Carter<br>
 
-_Costume Designer_: Shirley Russell
+_Costume Designer_: Shirley Russell<br>
 
-_Wardrobe Supervisor_: Shura Cohen
+_Wardrobe Supervisor_: Shura Cohen<br>
 
-_Make-up_: Charles Parker
+_Make-up_: Charles Parker<br>
 
-_Hairdresser_: A.G. Scott
+_Hairdresser_: A.G. Scott<br>
 
-_Original Music Composed and Conducted by_: Georges Delerue
+_Original Music Composed and Conducted by_: Georges Delerue<br>
 
-_Choreographer_: Terry Gilbert
+_Choreographer_: Terry Gilbert<br>
 
-_Sound Recordist_: Brian Simmons
+_Sound Recordist_: Brian Simmons<br>
 
-_Dubbing Mixer_: Maurice Askew
+_Dubbing Mixer_: Maurice Askew<br>
 
-_Dubbing Editor_: Terry Rawlings
+_Dubbing Editor_: Terry Rawlings<br>
 
-_Cast:_
+_Cast:_<br>
 
-Alan Bates _(Rupert Birkin)_
+Alan Bates _(Rupert Birkin)_<br>
 
-Oliver Reed _(Gerald Crich)_
+Oliver Reed _(Gerald Crich)_<br>
 
-Glenda Jackson _(Gudrun Brangwen)_
+Glenda Jackson _(Gudrun Brangwen)_<br>
 
-Jennie Linden _(Ursula Brangwen)_
+Jennie Linden _(Ursula Brangwen)_<br>
 
-Eleanor Bron _(Hermione Roddice)_
+Eleanor Bron _(Hermione Roddice)_<br>
 
-Vladek Sheybal _(Loerke)_
+Vladek Sheybal _(Loerke)_<br>
 
-Catherine Willmer _(Mrs Crich)_
+Catherine Willmer _(Mrs Crich)_<br>
 
-Christopher Gable _(Tibby Lupton)_
+Christopher Gable _(Tibby Lupton)_<br>
 
-Sharon Gurney _(Laura Crich)_
+Sharon Gurney _(Laura Crich)_<br>
 
-Sarah Nicholls _(Winifred Crich)_
+Sarah Nicholls _(Winifred Crich)_<br>
 
-Alan Webb _(Thomas Crich)_
+Alan Webb _(Thomas Crich)_<br>
 
-Michael Gough _(Tom Brangwen)_
+Michael Gough _(Tom Brangwen)_<br>
 
-Norma Shebbeare _(Anna Brangwen)_
+Norma Shebbeare _(Anna Brangwen)_<br>
 
-Nike Arrighi _(Contessa)_
+Nike Arrighi _(Contessa)_<br>
 
-James Laurenson _(minister)_
+James Laurenson _(minister)_<br>
 
-Michael Graham Cox _(Palmer)_
+Michael Graham Cox _(Palmer)_<br>
 
-Richard Heffer _(Leitner)_
+Richard Heffer _(Leitner)_<br>
 
-Michael Garratt _(maestro)_
+Michael Garratt _(maestro)_<br>
 
-_uncredited_
+_uncredited_<br>
 
-Leslie Anderson _(barber)_
+Leslie Anderson _(barber)_<br>
 
-Charles Workman _(Gittens)_
+Charles Workman _(Gittens)_<br>
 
-Barrie Fletcher _(1st miner)_
+Barrie Fletcher _(1st miner)_<br>
 
-Brian Osborne _(2nd miner)_
+Brian Osborne _(2nd miner)_<br>
 
-Christopher Ferguson _(Basis Crich)_
+Christopher Ferguson _(Basis Crich)_<br>
 
-Richard Fitzgerald _(Salsie)_
+Richard Fitzgerald _(Salsie)_<br>
 
-UK 1969©
+UK 1969©<br>
 
-131 mins
+131 mins<br>
+<br>
 
-<![endif]-->
+**GLENDA JACKSON**<br>
 
-**GLENDA JACKSON**
+**Women in Love**<br>
 
-**Women in Love**
+Sat 2 Jul 17:40; Wed 13 Jul 20:3; Fri 15 Jul 20:30<br>
 
-Sat 2 Jul 17:40; Wed 13 Jul 20:3; Fri 15 Jul 20:30
+**Horror of Darkness + Let’s Murder Vivaldi**<br>
 
-**Horror of Darkness + Let’s Murder Vivaldi**
+Sun 3 Jul 15:20<br>
 
-Sun 3 Jul 15:20
+**Mary, Queen of Scots**<br>
 
-**Mary, Queen of Scots**
+Sun 3 Jul 18:15; Wed 20 Jul 20:30<br>
 
-Sun 3 Jul 18:15; Wed 20 Jul 20:30
+**Glenda Jackson in Conversation**<br>
 
-**Glenda Jackson in Conversation**
+Tue 5 Jul 18:15<br>
 
-Tue 5 Jul 18:15
+**Sunday Bloody Sunday**<br>
 
-**Sunday Bloody Sunday**
+Tue 5 Jul 20:40; Sun 24 Jul 18:30<br>
 
-Tue 5 Jul 20:40; Sun 24 Jul 18:30
+**Hedda**<br>
 
-**Hedda**
+Fri 8 Jul 18:00; Sat 16 Jul 16:30<br>
 
-Fri 8 Jul 18:00; Sat 16 Jul 16:30
+**A Touch of Class**<br>
 
-**A Touch of Class**
+Sat 9 Jul 15:15; Sat 23 Jul 20:45<br>
 
-Sat 9 Jul 15:15; Sat 23 Jul 20:45
+**The Romantic Englishwoman**<br>
 
-**The Romantic Englishwoman**
+Sun 10 Jul 18:10; Mon 18 Jul 20:40<br>
 
-Sun 10 Jul 18:10; Mon 18 Jul 20:40
+**Stevie**<br>
 
-**Stevie**
+Thu 14 Jul 20:30; Sat 23 Jul 12:00<br>
 
-Thu 14 Jul 20:30; Sat 23 Jul 12:00
-
-**Hopscotch**
+**Hopscotch**<br>
 
 Fri 15 Jul 18:00; Tue 26 Jul 20:40
 
@@ -229,5 +228,5 @@ Eps 1-3 Sat 30 Jul 14:20; Eps 4-6 Sun 31 Jul 14:30
 
 _Women in Love_ is available to buy on BFI Bluray from the BFI Shop: https://shop.bfi.org.uk/women-in-love-blu-ray.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxMjQ3NDkxXX0=
+eyJoaXN0b3J5IjpbMTA4NDY5ODgyOF19
 -->
