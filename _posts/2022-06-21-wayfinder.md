@@ -2,13 +2,15 @@
 layout: post
 title: Wayfinder
 published: true
-date: 2022-07-01
+date: 2022-07-06-21
 readtime: true
-categories: ['NEW RELEASES']
+categories: ['NEW RELEASESEXPERIMENTA PRESENTS - PREMIERE']
 tags: [Experimental]
 metadata: 'UK 2022, 84 mins<br> Director: Larry Achiampong'
-pdf: '2022-07-01-wayfinder.pdf'
+pdf: '2022-07-06-21-wayfinder.pdf'
 ---
+
+_+ Q&A with director Larry Achiampong and Executive Director of Knowledge and Collections, BFI National Archive, Arike Oke_
 
 _Wayfinder_ is Larry Achiampong’s first feature and most ambitious film to date.
 
@@ -32,6 +34,7 @@ The film’s cast includes former athlete Anita Neil OLY, who is Britain’s fir
 This project feels like a poignant moment for me, not just professionally and as a maker of films, but also personally. It has felt very important and necessary, especially at this point in time, to be able to bring this range of subject matter and conversations to the table at what is increasingly becoming a contentious moment of our times.
 
 I am so excited to share the expansive vision of this story, which marks a new and exciting stage in my art practice. I never set out to create a film of this size, but due to the scope of ideas that evolved along the way, it increasingly became inevitable that this would become my first feature film.  
+
 **Production notes**
 
 **Larry Achiampong**’s solo and collaborative projects employ film, still imagery, aural and visual archives, live performance, objects and sound to explore ideas surrounding class, gender, cross-cultural and post-digital identity.
@@ -42,6 +45,13 @@ Recent projects include commissions with The Line, London; The Liverpool Biennia
 
 Achiampong (b. 1984, UK, British Ghanaian) is a Jarman Award nominated artist (2021). He completed a BA in Mixed Media Fine Art at University of Westminster in 2005 and an MA in Sculpture at The Slade School of Fine Art in 2008. In 2020 Achiampong was awarded the Stanley Picker fellowship and in 2019 received the Paul Hamlyn Artist award in recognition for his practice.  He lives and works in London and Essex, and was a tutor on the Photography MA programme at Royal College of Art between 2016 – 2021. Achiampong currently serves on the Board of Trustees at Iniva (Institute of International Visual Arts) facilitating art policies in the UK and internationally and also holds a place on the board of trustees for Elephant Trust and is represented by  C Ø P P E R F I E L D.  
 
+
+**Arike Oke** is a noted cultural leader, a registered archivist, and curator.  She leads the screen heritage collections at the BFI in the role of Executive Director of Knowledge and Collections. Her practice is rooted in social justice and the role of culture in giving strength to, and inspiring, individuals and communities. Formerly she was the Managing Director for Black Cultural Archives, the home of Black British history.
+
+She’s worked in heritage for over 15 years, from the seminal Connecting Histories project in Birmingham, to developing Wellcome Collection’s archive, and co-convening Hull’s first official Black History Month. Her interest in supporting the sector includes assessing funding applications for Wellcome, the Royal Society and the National Archives, assessing impact for REF and judging the 2022 Write on Art Prize.
+
+Her fiction is published in magazines and anthologies. Her critical art writing has been featured in _The Girls Are_ and _This Is Tomorrow_. Her factual writing has appeared in journals. She has written an anti-racism book for children which is to be published in 2022.
+<br><br>
 
 **WAYFINDER**<br>
 _Directed & Produced by:_ Larry Achiampong<br>
@@ -80,6 +90,8 @@ Laura Achiampong Seinti _(voice #8)_<br>
 
 UK 2022<br>
 84 mins  
+
+Courtesy of Verve Pictures<br>
 <br>
 
 **BFI SOUTHBANK**  
@@ -99,3 +111,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1NTk2NDIwNjRdfQ==
+-->
