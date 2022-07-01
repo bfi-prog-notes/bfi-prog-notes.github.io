@@ -145,6 +145,37 @@ USA 1976©
 138 mins
 
 \* Uncredited
+
+
+**BIG SCREEN CLASSICS**  
+**All the President’s Men**  
+Fri 1 Jul 20:25; Tue 5 Jul 18:00; Sat 9 Jul 17:45  
+**Battleship Potemkin (Bronenosets Potemkin)**  
+Sat 2 Jul 11:50 (with live piano accompaniment); Fri 22 Jul 18:30 and Mon 25 Jul 20:50 (with Edmund Meisel score)  
+**Pandora’s Box (Die Büchse der Pandora)**  
+Sat 2 Jul 15:10 and Sat 16 Jul 12:20 (with Peer Raben score); Sun 31 Jul 15:20 (with live piano accompaniment)  
+**Theorem (Teorema)**  
+Sat 2 Jul 20:50; Mon 4 Jul 20:50; Tue 26 Jul 18:00  
+**Rome Open City (Roma città aperta)**  
+Sun 3 Jul 13:10; Mon 18 Jul 18:20; Wed 27 Jul 20:40  
+**To Sleep with Anger**  
+Wed 6 Jul 18:15 (+ intro); Fri 8 Jul 18:10  
+**Day of Wrath (Vredens Dag)**  
+Thu 7 Jul 18:15; Mon 11 Jul 20:30  
+**Blue Velvet**  
+Thu 7 Jul 20:40; Sun 17 Jul 18:30; Fri 29 Jul 20:40  
+**Matewan**  
+Fri 8 Jul 20:25; Tue 19 Jul 18:00  
+**Manhunter**  
+Fri 8 Jul 20:40; Thu 21 Jul 18:20; Sat 23 Jul 20:40  
+**His Girl Friday**  
+Sun 10 Jul 16:50; Wed 20 Jul 18:20 (+ intro by Geoff Andrew, Programmer-at-Large); Thu 28 Jul 20:45  
+**The Scarlet Empress**
+Wed 13 Jul18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 24 Jul 13:20
+**The Piano**
+Thu 14 Jul 14:20; Sat 23 Jul 17:50; Sat 30 Jul 11:45
+**Mandabi (The Money Order)**
+Fri 15 Jul 20:40; Wed 27 Jul 18:10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDY1MDczOV19
+eyJoaXN0b3J5IjpbLTE2MjQ5MDkwMzddfQ==
 -->
