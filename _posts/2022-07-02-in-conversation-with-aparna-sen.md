@@ -39,55 +39,35 @@ _You and Sai Paranjpye were among the few Indian female filmmakers in the previo
 
 There have been a lot of women making exciting films, and I’m delighted with the number of women who are making films now: Seema Pahwa, Nandita Das, Zoya Akhtar, Konkona herself, Geetu Mohandas, and more.
 
-Interview by Arun A.K., bfi.org.uk, 27 June 2022
+**Interview by Arun A.K., bfi.org.uk, 27 June 2022**
+<br><br>
 
-<![endif]-->
+**THE RAPIST**<br>
+_Director:_ Aparna Sen<br>
+_Production Company:_ Applause Entertainment<br>
+_Producers:_ Suchhanda Chatterjee, Sameer Nair, Deepak Segal, Shubha Shetty<br>
+_Casting:_ Taran Bajaj<br>
+_Screenplay:_ Aparna Sen, Hussain Haidri<br>
+_Director of Photography:_ Ayananka Bose<br>
+_Editor:_ Rabiranjan Maitra<br>
+_Production Designer:_ Tiya Tejpal<br>
+_Art Directors:_ Neeraj Kumar Singh, Ajay Thakur<br>
+_Costume Designer:_ Damini Das<br>
+_Music:_ Neel Dutt<br>
 
-**THE RAPIST**
+**Cast**<br>
+Konkona Sen Sharma _(Naina Malik)_<br>
+Arjun Rampal _(Aftab Malik)_<br>
+Tanmay Dhanania _(Prasad Singh)_<br>
+Jintender Agarwal _(DM)_<br>
+Shravan Arora _(judge)_<br>
+Sukhesh Arora _(Subhash)_<br>
+Gagan Bhasin _(Naina’s lawyer)_<br>
+Anindita Bose _(Malini)_<br>
 
-_Director:_ Aparna Sen
-
-_Production Company:_ Applause Entertainment
-
-_Producers:_ Suchhanda Chatterjee, Sameer Nair, Deepak Segal, Shubha Shetty
-
-_Casting:_ Taran Bajaj
-
-_Screenplay:_ Aparna Sen, Hussain Haidri
-
-_Director of Photography:_ Ayananka Bose
-
-_Editor:_ Rabiranjan Maitra
-
-_Production Designer:_ Tiya Tejpal
-
-_Art Directors:_ Neeraj Kumar Singh, Ajay Thakur
-
-_Costume Designer:_ Damini Das
-
-_Music:_ Neel Dutt
-
-_Cast:_
-
-Konkona Sen Sharma _(Naina Malik)_
-
-Arjun Rampal _(Aftab Malik)_
-
-Tanmay Dhanania _(Prasad Singh)_
-
-Jintender Agarwal _(DM)_
-
-Shravan Arora _(judge)_
-
-Sukhesh Arora _(Subhash)_
-
-Gagan Bhasin _(Naina’s lawyer)_
-
-Anindita Bose _(Malini)_
-
-India 2021
-
-132 mins
+India 2021<br>
+132 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjMzNzUzNF19
+eyJoaXN0b3J5IjpbLTE5Mzk0NzM0MzNdfQ==
 -->
