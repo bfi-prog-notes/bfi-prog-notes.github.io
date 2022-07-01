@@ -19,44 +19,39 @@ Reproduced by kind permission of Bloomsbury Publishing. ©Pamela Hutchinson**
 <br>
 
 **PANDORA’S BOX (DIE BÜCHSE DER PANDORA)**  
-_Director:_ G.W. Pabst
-_Production Company:_ Nero-Film
-_Executive Producer:_ Seymour Nebenzal
-_Unit Production Manager:_ Georg C. Horsetzky
-_Production Manager:_ Heinz Landsmann
-_Assistant Director:_ Mark Sorkin
-_Assistant Director:_ Paul Falkenberg *
-_Scenario:_ Ladislaus Vajda
-_Based on the plays by:_ Frank Wedekind
-_Photographed by:_ Günther Krampf
-_Graphics:_ Marcel Tuszkay
-_Editor:_ Joseph R. Fliesler
-_Art Directors:_ André Andrejew, Gottlieb Hesch
-_Costumes:_ Gottlieb Hesch *
+_Director:_ G.W. Pabst  
+_Production Company:_ Nero-Film  
+_Executive Producer:_ Seymour Nebenzal  
+_Unit Production Manager:_ Georg C. Horsetzky  
+_Production Manager:_ Heinz Landsmann  
+_Assistant Director:_ Mark Sorkin  
+_Assistant Director:_ Paul Falkenberg *  
+_Scenario:_ Ladislaus Vajda  
+_Based on the plays by:_ Frank Wedekind  
+_Photographed by:_ Günther Krampf  
+_Graphics:_ Marcel Tuszkay  
+_Editor:_ Joseph R. Fliesler  
+_Art Directors:_ André Andrejew, Gottlieb Hesch  
+_Costumes:_ Gottlieb Hesch *  
 
-**Cast**
-Louise Brooks _(Lulu)_
-Fritz Kortner _(Dr Peter Schön)_
-Franz Lederer _(Alwa Schön)_
-Carl Götz _(Schigolch)_
-Alice Roberts _(Countess Anna Geschwitz)_
-Daisy D’Ora _(Marie de Zarniko)_
+**Cast**  
+Louise Brooks _(Lulu)_  
+Fritz Kortner _(Dr Peter Schön)_  
+Franz Lederer _(Alwa Schön)_  
+Carl Götz _(Schigolch)_  
+Alice Roberts _(Countess Anna Geschwitz)_  
+Daisy D’Ora _(Marie de Zarniko)_  
+Krafft-Raschig _(Rodrigo Quast)_  
+Michael Von Newlinski _(Marquis Casti-Piani)_  
+Siegfried Arno _(the stage manager)_  
+Gustav Diessl _(Jack the Ripper)_  
 
-Krafft-Raschig _(Rodrigo Quast)_
+Germany 1928  
+135 mins  
 
-Michael Von Newlinski _(Marquis Casti-Piani)_
+\* Uncredited  
 
-Siegfried Arno _(the stage manager)_
-
-Gustav Diessl _(Jack the Ripper)_
-
-Germany 1928
-
-135 mins
-
-* Uncredited
-
-With Peer Raben score (2 and 16 July) or live piano accompaniment (31 July)
+With Peer Raben score (2 and 16 July) or live piano accompaniment (31 July)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5NjY0ODk5XX0=
+eyJoaXN0b3J5IjpbLTIwNzIxNTc0NTVdfQ==
 -->
