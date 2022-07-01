@@ -12,7 +12,7 @@ pdf: '2022-07-02-adversary.pdf'
 
 **Ray on ‘The Adversary’**
 
-_Did you consciously set out with the idea that_ Days and Nights in the Forest _, The Adversary _and_ Company Limited _would form a new trilogy?_
+_Did you consciously set out with the idea that_ Days and Nights in the Forest _,_ The Adversary _and_ Company Limited _would form a new trilogy?_
 
 I didn’t think of it during the first two films. I made _Days and Nights_ because I liked the story, and as for _The Adversary_... well, I made it because the situation in Calcutta was politically so tense. The students were very active, there was a lot of violence in the city, and if I was going to make another film it seemed it had to be about Calcutta and the young people there. Then last year I read the novel _Company Limited_ is based on, and I immediately thought that this was an important theme. After describing the young man looking for a job in  _The Adversary_, it was relevant for me to describe the people who have control over the jobs, the new upper class, the new breed that has grown up in India since Independence. You see, in a sense the British have not really left...
 
@@ -116,7 +116,7 @@ Thu 21 Jul 20:40; Sun 31 Jul 18:20<br>
 In association with The Academy Film Archive
 
 <img style="float: left;" src="/img/academy-logo-01.png" width="30%" height="30%">
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
