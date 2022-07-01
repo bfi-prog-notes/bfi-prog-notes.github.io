@@ -8,7 +8,7 @@ Simply but effectively, the film boxes the audience into the same closed perspec
 
 Rather more successfully than ‘Woodstein’s’ own account, which tended to flatten even admitted personal disputes and crises of conscience into the surrounding mass of documentation, the film edges the investigation with a necessary minimum of personality. Apart from one or two actorish highlights – Bernstein’s interview with Stans’ book-keeper (Jane Alexander), ever so reluctantly co-operating with information about CRP’s secret fund – Redford and Hoffman provide subdued but quirkily distinct character sketches.  The reporters’ lives are simply a function of their jobs, from which their personal surroundings are a brief, barely perceived retreat (a snippet from a broadcast on the Fischer-Spassky tournament heard in Woodward’s apartment points slyly at less low-key prima donnas in the public eye).
 
-One or two shots linger on the faces of the human material made use of by the reporters; and in the background, authoritatively functional support is provided by Jack Warden as Metropolitan Editor Harry Rosenfeld and Jason Robards as the _Post_’s Executive Editor Ben Bradlee. The script makes a few more conventionally colourful attempts to characterise the President’s faceless men being pursued by telephone. Woodward at one point mutters about Hunt coming ‘in from the cold’. His mysterious secret contact ‘Deep Throat’ (Hal Holbrook), tells a story of one of the lesser conspirators, Gordon Liddy, holding his hand in a candle flame at a party, and announcing that the trick is not minding that it hurts. But apart from its curious echo of a scene in _Lawrence_ _of_ _Arabia_, the story pictures a character rather at odds with the book’s presentation of Liddy as an ebullient bungler, and with Deep Throat’s subsequent assessment of the conspirators: ‘Forget the myths the media has created about the White House. The truth is they’re not very bright guys ...’
+One or two shots linger on the faces of the human material made use of by the reporters; and in the background, authoritatively functional support is provided by Jack Warden as Metropolitan Editor Harry Rosenfeld and Jason Robards as the _Post_’s Executive Editor Ben Bradlee. The script makes a few more conventionally colourful attempts to characterise the President’s faceless men being pursued by telephone. Woodward at one point mutters about Hunt coming ‘in from the cold’. His mysterious secret contact ‘Deep Throat’ (Hal Holbrook), tells a story of one of the lesser conspirators, Gordon Liddy, holding his hand in a candle flame at a party, and announcing that the trick is not minding that it hurts. But apart from its curious echo of a scene in _Lawrence of Arabia_, the story pictures a character rather at odds with the book’s presentation of Liddy as an ebullient bungler, and with Deep Throat’s subsequent assessment of the conspirators: ‘Forget the myths the media has created about the White House. The truth is they’re not very bright guys ...’
 
 The controlled ‘personalising’ of the story works well in the initial stages of journalistic enquiry, and in the final scenes of bafflement and shock, when the reporters’ eagerness to tie the conspiracy to the White House tempts them into jeopardy as they leap too soon at Nixon’s Chief of Staff, H. R. Haldeman.  
 The film’s penultimate scene brings the reporters to confer with Bradlee on a darkened lawn about the possible danger to their own lives. But the method creates some fuzziness in the middle stretches, at the stage when what is needed is a synthesis of all the information on who controlled and who received money from the CRP fund, and of how it fitted in with Watergate and the ‘dirty tricks’ operation run by Segretti and others.
@@ -18,59 +18,59 @@ A greater drawback is the extent to which _All the President’s Men_ is, like _
 Pakula essays flourishes here along similar lines – the camera steadily rising in an overhead shot of the reporters in the Library of Congress, eventually losing them in the ominously expanding architectural patterns; or Woodward taking fright after leaving one of his underground sessions with Deep Throat and fleeing from shadows. But they remain on the surfaces of a story that has been marshalled with dazzling skill and precision, but lacks the imaginative hooks that might have taken it even further in mood and meaning.  
 **Richard Combs, _Sight and Sound_, Summer 1976**  
 
-**ALL THE PRESIDENT’S MEN**
-_Directed by_: Alan J. Pakula
-©: Warner Bros., Wildwood Enterprises
-_Produced by_: Walter Coblenz
-_Associate Producers_: Michael Britton, Jon Boorstin
-_Executive Production Manager_: E. Darrell Hallenbeck
-_Production Co-ordinators_: Rebecca Britton, Erika Koppitz, Ronnie Kramer
-_Location Manager_: Steve Vetter
-_Production Assistant_: Buck Holland
-_1st Assistant Directors_: Bill Green, Art Levinson
-_2nd Assistant Directors_: Charles Ziarko, Kim Kurumada
-_Script Supervisor_: Karen Wookey
-_Casting_: Alan Shayne
-_Casting (Consultant)_: Isabel Halliburton
-_Screenplay by_: William Goldman
-_Screenplay_: Alvin Sargent, Carl Bernstein, Nora Ephron *
-_Based on the book by_: Carl Bernstein, Bob Woodward
-_Director of Photography_: Gordon Willis
-_Camera Operator_: Ralph Gerling
-_1st Assistant Camera_: Ray de la Motte
-_Gaffer_: George Holmes
-_Key Grip_: Bob Rose
-_Best Boy_: Carl Gibson Jr
-_Still Men_: Howard Bingham, Louis Goldman
-_Special Effects_: Henry Millar
-_Film Editor_: Robert L. Wolfe
-_Assistant Editors_: Tim O’Meara, Steve Potter
-_Production Designer_: George Jenkins
-_Assistant Art Director_: Bob Jillson
-_Set Decorator_: George Gaines
-_Draftsman_: J. George Szeptycki
-_Lead Man_: Mike Higelmire
-_Property Masters_: Allan Levine, Bill Mac Sems
-_Assistant Property Masters_: Matty Azzarone, Guy Bushman
-_Construction Co-ordinator_: Robert Krume
-_Costume Supervisor_: Bernie Pollack
-_Assistant Costumers_: Jules Melillo, G. Perez
-_Key Make-up Artist_: Gary Liddiard
-_Make-up Artists_: Fern Buchner, Don Cash
-_Hairdressers_: Romaine Greene, Lynda Gurasich
-_Title Design_: Dan Perri
-_Music by_: David Shire
-_Music Editor_: Nicholas C. Washington
-_Production Sound Mixers_: Jim Webb, Les Fresholtz
-_Boom Operators_: Chris McLaughlin, Clint Althouse
-_Re-recording Mixers_: Art Piantadosi, Les Fresholtz, Dick Alexander
-_Supervising Sound Editor_: Milton C. Burrow
-_Research_: Steve Bussard, De Forest Research
-_Production Publicist_: Jack Hirshberg
-_Studio_: Burbank Studios
+**ALL THE PRESIDENT’S MEN**  
+_Directed by_: Alan J. Pakula  
+©: Warner Bros., Wildwood Enterprises  
+_Produced by_: Walter Coblenz  
+_Associate Producers_: Michael Britton, Jon Boorstin  
+_Executive Production Manager_: E. Darrell Hallenbeck  
+_Production Co-ordinators_: Rebecca Britton, Erika Koppitz, Ronnie Kramer  
+_Location Manager_: Steve Vetter  
+_Production Assistant_: Buck Holland  
+_1st Assistant Directors_: Bill Green, Art Levinson  
+_2nd Assistant Directors_: Charles Ziarko, Kim Kurumada  
+_Script Supervisor_: Karen Wookey  
+_Casting_: Alan Shayne  
+_Casting (Consultant)_: Isabel Halliburton  
+_Screenplay by_: William Goldman  
+_Screenplay_: Alvin Sargent, Carl Bernstein, Nora Ephron *  
+_Based on the book by_: Carl Bernstein, Bob Woodward  
+_Director of Photography_: Gordon Willis  
+_Camera Operator_: Ralph Gerling  
+_1st Assistant Camera_: Ray de la Motte  
+_Gaffer_: George Holmes  
+_Key Grip_: Bob Rose  
+_Best Boy_: Carl Gibson Jr  
+_Still Men_: Howard Bingham, Louis Goldman  
+_Special Effects_: Henry Millar  
+_Film Editor_: Robert L. Wolfe  
+_Assistant Editors_: Tim O’Meara, Steve Potter  
+_Production Designer_: George Jenkins  
+_Assistant Art Director_: Bob Jillson  
+_Set Decorator_: George Gaines  
+_Draftsman_: J. George Szeptycki  
+_Lead Man_: Mike Higelmire  
+_Property Masters_: Allan Levine, Bill Mac Sems  
+_Assistant Property Masters_: Matty Azzarone, Guy Bushman  
+_Construction Co-ordinator_: Robert Krume  
+_Costume Supervisor_: Bernie Pollack  
+_Assistant Costumers_: Jules Melillo, G. Perez  
+_Key Make-up Artist_: Gary Liddiard  
+_Make-up Artists_: Fern Buchner, Don Cash  
+_Hairdressers_: Romaine Greene, Lynda Gurasich  
+_Title Design_: Dan Perri  
+_Music by_: David Shire  
+_Music Editor_: Nicholas C. Washington  
+_Production Sound Mixers_: Jim Webb, Les Fresholtz  
+_Boom Operators_: Chris McLaughlin, Clint Althouse  
+_Re-recording Mixers_: Art Piantadosi, Les Fresholtz, Dick Alexander  
+_Supervising Sound Editor_: Milton C. Burrow  
+_Research_: Steve Bussard, De Forest Research  
+_Production Publicist_: Jack Hirshberg  
+_Studio_: Burbank Studios  
 
-**Cast**
-Dustin Hoffman _(Carl Bernstein)_
+**Cast**  
+Dustin Hoffman _(Carl Bernstein)_ 
 Robert Redford _(Bob Woodward)_
 Jack Warden _(Harry Rosenfeld)_
 Martin Balsam _(Howard Simons)_
@@ -146,5 +146,5 @@ USA 1976©
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjYwNTM4OV19
+eyJoaXN0b3J5IjpbMTEyNjk3NDc5NV19
 -->
