@@ -15,20 +15,17 @@ Helping to keep the project afloat amid myriad difficulties were two established
 
 _Rome, Open City_ has such a daunting (and amply merited) reputation as the foundation stone of modern Italian cinema that it’s easy to forget how well it works as entertainment: if it weren’t for the fact that it was shot on the streets of war devastated Rome and cast with locals who’d recently lived through events reconstructed on screen, it could be marketed simply as a pacey resistance-vs-Gestapo thriller. And one shouldn’t downplay this aspect: it undoubtedly helped its considerable commercial success at a time when international interest in Italian cinema was effectively non-existent. Anna Magnani, too, was unknown abroad and considered a light comedienne at home, but she’s so forceful here that her mid-point death (one of 1940s cinema’s great shock moments) might have unbalanced a lesser film. Instead, the final act turns into a heartfelt, viscerally powerful paean to the courage of individual resistance activists (led by Aldo Fabrizi’s mulishly stubborn priest), unmatched in impact until Jean-Pierre Melville’s _Army of Shadows_ a quarter of a century later.
 
-As with Satyajit Ray’s early work, there’s a pervasive assumption that the challenging circumstances of their production will always leave Rossellini’s mid-1940s films looking a bit ropey. Thanks to a gorgeous digital restoration by L’Immagine Ritrovata lab in Bologna, however, _Rome Open City_ rivals almost any other film of its decade, with only very occasional allowances needed for hastily grabbed out-of-focus shots or visibly differing film stocks.
-
-**Michael Brooke, _Sight and Sound_, May 2015**
+As with Satyajit Ray’s early work, there’s a pervasive assumption that the challenging circumstances of their production will always leave Rossellini’s mid-1940s films looking a bit ropey. Thanks to a gorgeous digital restoration by L’Immagine Ritrovata lab in Bologna, however, _Rome Open City_ rivals almost any other film of its decade, with only very occasional allowances needed for hastily grabbed out-of-focus shots or visibly differing film stocks.  
+**Michael Brooke, _Sight and Sound_, May 2015**  
 
 Roberto Rossellini’s three war pictures are just as much history as it is cinema, and remain required viewing, for the sake of cultural literacy, not just cinephilia. Which was unquestionably Rossellini’s objective: no other major auteur has made fiction films so intent on communicating to and broadening the perspective of an unspecialised audience, minus the entertainment-complex bullshit (in this sense, the Senegalese Ousmane Sembene is his truest heir). The one director whose major work was truly born out of the fire of WWII, Rossellini was committed to ‘what happened’, and never trucked with manipulations, stereotypes or prettiness in the process.
 
 Rossellini fell on hard times just as the Bergman-Fellini-Kurosawa art-film era peaked, with critics such as Pauline Kael shrugging and others hardly noticing at all. But film writers of all stripes in recent decades have come to pantheonise him, often without being capable of clarifying why – after all, his directing can be distracted (a reflection of his methods; co-writer/assistant director Fellini has remarked on how the set of _Paisan_ felt like a party), his visuals could be serviceable and his narratives sometimes seemed preachy. Truly, the circumstances under which _Rome, Open City_ was filmed – shot on piecemeal stock in locations where just two months before the participants in the production had suffered Nazi atrocities and worked in ‘la Resistenza’, and as the northern areas of the country were still fighting the Fascists – lent the film an authentic electricity it might not otherwise have had in such full supply.
 
-But the grace of auteurism is to deflect questions of mere technique and effectiveness, and Rossellini’s achievement has dawned as one of in-the-moment historicisation and sympathetic temperance, an inquiring sensibility that has allowed David Thomson to describe _Paisan_ as ‘the truest Second World War movie’ and made Rossellini one of the key chroniclers of history in general. Spectacle and theatrical drama didn’t interest him; rather, the projection of the film-making’s reality was the ‘truth’ he sought to capture, in a way that paved the way for Godard and more acutely presaged the manner of Kiarostami. Thus, _Rome, Open City_, a fleet and breathless drama about a widow and a priest cornered into helping a Resistance leader, was a film ‘found’ in the ruins, so close to recent catastrophe that it seemed to be non-fiction. Indeed, it was ‘real’, ‘documenting’ its own attempts to show the world what Rossellini and his fellow Romans had seen, which would otherwise vanish into memory.
+But the grace of auteurism is to deflect questions of mere technique and effectiveness, and Rossellini’s achievement has dawned as one of in-the-moment historicisation and sympathetic temperance, an inquiring sensibility that has allowed David Thomson to describe _Paisan_ as ‘the truest Second World War movie’ and made Rossellini one of the key chroniclers of history in general. Spectacle and theatrical drama didn’t interest him; rather, the projection of the film-making’s reality was the ‘truth’ he sought to capture, in a way that paved the way for Godard and more acutely presaged the manner of Kiarostami. Thus, _Rome, Open City_, a fleet and breathless drama about a widow and a priest cornered into helping a Resistance leader, was a film ‘found’ in the ruins, so close to recent catastrophe that it seemed to be non-fiction. Indeed, it was ‘real’, ‘documenting’ its own attempts to show the world what Rossellini and his fellow Romans had seen, which would otherwise vanish into memory.  
+**Michael Atkinson, _Sight & Sound_, March 2010**  
 
-**Michael Atkinson, _Sight & Sound_, March 2010**
-
-**ROME, OPEN CITY (ROMA CITTÀ APERTA)**
-
+**ROME, OPEN CITY (ROMA CITTÀ APERTA)**  
 _Director_: Roberto Rossellini  
 _Production Company_: Excelsa Film  
 _Production Company_: CIS-Nettunia *  
@@ -61,9 +58,10 @@ _Music_: Renzo Rossellini
 _Conductor_: L. Ricci  
 _Sound_: R. Del Monte  
 _Sound Recording_: Fono Roma  
-_Sound System_: Western Electric
+_Sound System_: Western Electric  
 
-**Cast**Aldo Fabrizi _(Don Pietro Pellegrini)_  
+**Cast**  
+Aldo Fabrizi _(Don Pietro Pellegrini)_  
 Anna Magnani _(Sora Pina)_  
 V. [Vito] Annichiarico _(Marcello, Pina’s son)_  
 N. [Nando] Bruno _(Agostino, aka Purgatorio, sacristan)_  
@@ -84,12 +82,12 @@ Alberto Manni _(black marketer) *_
 Lauro Gazzolo _(dubbed voice of Manfredi) *_  
 Giulio Panicali _(dubbed voice of Major Bergmann)*_  
 Gualtiero De Angelis _(dubbed voice of Francesco) *_  
-Roswitha Schmidt _(dubbed voice of Ingrid) *_
+Roswitha Schmidt _(dubbed voice of Ingrid) *_  
 
-Italy 1946
-103 mins
+Italy 1946  
+103 mins  
 
-\* Uncredited
+\* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NDk0Njc5XX0=
+eyJoaXN0b3J5IjpbLTEyNjkwNjM5MTNdfQ==
 -->
