@@ -1,3 +1,14 @@
+---
+layout: post
+title: Pandora's Box
+published: true
+date: 2022-07-02
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'Germany 1928, 135 mins<br> Director:  G.W. Pabst'
+pdf: '2022-07-02-pandoras-box.pdf'
+---
 
 _Pandora’s Box_ (_Die Büchse der Pandora_) is a confounding film. It failed commercially, then soared in popularity long after it might have been forgotten. It is a masterpiece that has been mistreated and misunderstood; a work by a respected director that has come to be known as a vehicle for a foreign starlet. The spark that illuminated this perplexing, dazzling film was the creative tension between two of film history’s most unusual characters. Louise Brooks was a reckless hedonist, a dancer turned movie actress with a riotous love life; Georg Wilhelm Pabst was a serious and diligent actor-turned-director with a passion for the cinema and social justice. Pabst summoned this underperforming Hollywood starlet to Europe, where she made three films that would outshine the rest of her career, the foundation for her lasting renown – then their paths diverged just a few years later.
 
@@ -14,8 +25,7 @@ Pabst’s breakout success was _The Joyless Street_ (_Die Freudlose Gasse_, 1925
 Having moved on from Expressionism, Pabst was closer to a realist tendency in German culture of the time called _Neue Sachlichkeit_, or The New Objectivity. He was a perfectionist, and his films contained exquisite cinematography, expressive editing, and performances that were motivated by his actors’ intimate understanding of their characters, thanks to his patient, sometimes perverse, coaching. He strived for honesty in his films, saying: ‘Realism is a method; it isn’t an end, it’s a means.’ His films explored psychological and social realism, dealing with madness and obsession (_Secrets of a Soul, The White Hell of Pitz-Palu_), or the suffering of women in a hostile, patriarchal world (_The Joyless Street, The Love of Jeanne Ney_). _Pandora’s Box_, a prestigious adaptation of works by German playwright Frank Wedekind, encompassed both themes.
 
 After _Pandora’s Box,_ Pabst made a few more films in Germany, but he could not tolerate the political climate of the 1930s. After a short stint in Hollywood, where he chafed at the strictures of the system just as Brooks had done, he returned to work in Paris for most of the decade. Family responsibilities forced him to move back to Austria and therefore to work in Germany under Nazi rule, which has done serious damage to his reputation, although he made films critical of Nazism and anti-Semitism after the war. He retired due to ill health, and died in Vienna, in 1967, aged 82. Writing about the director long after he had died, even devoted Pabst scholars call him ‘film history’s ultimate nowhere man’ and a ‘fallen angel’.  
-**Pamela Hutchinson, _Pandora’s Box_ (BFI Film Classics, 2017)  
-Reproduced by kind permission of Bloomsbury Publishing. ©Pamela Hutchinson**
+**Pamela Hutchinson, _Pandora’s Box_ (BFI Film Classics, 2017). Reproduced by kind permission of Bloomsbury Publishing. ©Pamela Hutchinson**
 <br>
 
 **PANDORA’S BOX (DIE BÜCHSE DER PANDORA)**  
@@ -52,6 +62,55 @@ Germany 1928
 \* Uncredited  
 
 With Peer Raben score (2 and 16 July) or live piano accompaniment (31 July)  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzIxNTc0NTVdfQ==
--->
+<br>
+
+<img style="float: left;" src="/img/pandoras-box.jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+**BIG SCREEN CLASSICS**  
+**All the President’s Men**  
+Fri 1 Jul 20:25; Tue 5 Jul 18:00; Sat 9 Jul 17:45  
+**Battleship Potemkin (Bronenosets Potemkin)**  
+Sat 2 Jul 11:50 (with live piano accompaniment); Fri 22 Jul 18:30 and Mon 25 Jul 20:50 (with Edmund Meisel score)  
+**Pandora’s Box (Die Büchse der Pandora)**  
+Sat 2 Jul 15:10 and Sat 16 Jul 12:20 (with Peer Raben score); Sun 31 Jul 15:20 (with live piano accompaniment)  
+**Theorem (Teorema)**  
+Sat 2 Jul 20:50; Mon 4 Jul 20:50; Tue 26 Jul 18:00  
+**Rome Open City (Roma città aperta)**  
+Sun 3 Jul 13:10; Mon 18 Jul 18:20; Wed 27 Jul 20:40  
+**To Sleep with Anger**  
+Wed 6 Jul 18:15 (+ intro); Fri 8 Jul 18:10  
+**Day of Wrath (Vredens Dag)**  
+Thu 7 Jul 18:15; Mon 11 Jul 20:30  
+**Blue Velvet**  
+Thu 7 Jul 20:40; Sun 17 Jul 18:30; Fri 29 Jul 20:40  
+**Matewan**  
+Fri 8 Jul 20:25; Tue 19 Jul 18:00  
+**Manhunter**  
+Fri 8 Jul 20:40; Thu 21 Jul 18:20; Sat 23 Jul 20:40  
+**His Girl Friday**  
+Sun 10 Jul 16:50; Wed 20 Jul 18:20 (+ intro by Geoff Andrew, Programmer-at-Large); Thu 28 Jul 20:45  
+**The Scarlet Empress**  
+Wed 13 Jul18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 24 Jul 13:20  
+**The Piano**  
+Thu 14 Jul 14:20; Sat 23 Jul 17:50; Sat 30 Jul 11:45  
+**Mandabi (The Money Order)**  
+Fri 15 Jul 20:40; Wed 27 Jul 18:10  
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
