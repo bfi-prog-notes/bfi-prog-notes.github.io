@@ -170,12 +170,12 @@ Fri 8 Jul 20:25; Tue 19 Jul 18:00
 Fri 8 Jul 20:40; Thu 21 Jul 18:20; Sat 23 Jul 20:40  
 **His Girl Friday**  
 Sun 10 Jul 16:50; Wed 20 Jul 18:20 (+ intro by Geoff Andrew, Programmer-at-Large); Thu 28 Jul 20:45  
-**The Scarlet Empress**
-Wed 13 Jul18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 24 Jul 13:20
-**The Piano**
-Thu 14 Jul 14:20; Sat 23 Jul 17:50; Sat 30 Jul 11:45
-**Mandabi (The Money Order)**
-Fri 15 Jul 20:40; Wed 27 Jul 18:10
+**The Scarlet Empress**  
+Wed 13 Jul18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 24 Jul 13:20  
+**The Piano**  
+Thu 14 Jul 14:20; Sat 23 Jul 17:50; Sat 30 Jul 11:45  
+**Mandabi (The Money Order)**  
+Fri 15 Jul 20:40; Wed 27 Jul 18:10  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ5MDkwMzddfQ==
+eyJoaXN0b3J5IjpbMTA1Mjc4MjU0N119
 -->
