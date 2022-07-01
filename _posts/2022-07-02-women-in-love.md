@@ -24,115 +24,63 @@ When they’re not engaging in elaborate bonding rituals, Rupert and Gerald beco
 <br><br>
 
 **WOMEN IN LOVE**<br>
-
 _Directed by_: Ken Russell<br>
-
 ©: Brandywine Productions<br>
-
 _Production Company_: Brandywine Productions<br>
-
 _Produced by/Presented by_: Larry Kramer<br>
-
 _Co-producer/Presented by_: Martin Rosen<br>
-
 _Associate Producer_: Roy Baird<br>
-
 _Unit Manager_: Neville C. Thompson<br>
-
 _Production Controller_: Harry Benn<br>
-
 _Location Manager_: Lee Bolon<br>
-
 _Assistant to Producers_: Tom Erhardt<br>
-
 _Assistant Director_: Jonathan Benson<br>
-
 _Continuity_: Angela Allen<br>
-
 _Written for the screen by_: Larry Kramer<br>
-
 _From the novel by_: D.H. Lawrence<br>
-
 _Director of Photography_: Billy Williams<br>
-
 _Camera Operator_: David Harcourt<br>
-
 _Assistant Cameraman_: Steve Claydon<br>
-
 _Electrical Supervisor_: George Cole<br>
-
 _Editor_: Michael Bradsell<br>
-
 _Set Designer_: Luciana Arrighi<br>
-
 _Art Director_: Ken Jones<br>
-
 _Set Dresser_: Harry Cordwell<br>
-
 _Property Master_: George Ball<br>
-
 _Construction Manager_: Jack Carter<br>
-
 _Costume Designer_: Shirley Russell<br>
-
 _Wardrobe Supervisor_: Shura Cohen<br>
-
 _Make-up_: Charles Parker<br>
-
 _Hairdresser_: A.G. Scott<br>
-
 _Original Music Composed and Conducted by_: Georges Delerue<br>
-
 _Choreographer_: Terry Gilbert<br>
-
 _Sound Recordist_: Brian Simmons<br>
-
 _Dubbing Mixer_: Maurice Askew<br>
-
 _Dubbing Editor_: Terry Rawlings<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Alan Bates _(Rupert Birkin)_<br>
-
 Oliver Reed _(Gerald Crich)_<br>
-
 Glenda Jackson _(Gudrun Brangwen)_<br>
-
 Jennie Linden _(Ursula Brangwen)_<br>
-
 Eleanor Bron _(Hermione Roddice)_<br>
-
 Vladek Sheybal _(Loerke)_<br>
-
 Catherine Willmer _(Mrs Crich)_<br>
-
 Christopher Gable _(Tibby Lupton)_<br>
-
 Sharon Gurney _(Laura Crich)_<br>
-
 Sarah Nicholls _(Winifred Crich)_<br>
-
 Alan Webb _(Thomas Crich)_<br>
-
 Michael Gough _(Tom Brangwen)_<br>
-
 Norma Shebbeare _(Anna Brangwen)_<br>
-
 Nike Arrighi _(Contessa)_<br>
-
 James Laurenson _(minister)_<br>
-
 Michael Graham Cox _(Palmer)_<br>
-
 Richard Heffer _(Leitner)_<br>
-
 Michael Garratt _(maestro)_<br>
 
 _uncredited_<br>
 
 Leslie Anderson _(barber)_<br>
-
 Charles Workman _(Gittens)_<br>
 
 Barrie Fletcher _(1st miner)_<br>
@@ -188,45 +136,46 @@ Thu 14 Jul 20:30; Sat 23 Jul 12:00<br>
 
 **Hopscotch**<br>
 
-Fri 15 Jul 18:00; Tue 26 Jul 20:40
+Fri 15 Jul 18:00; Tue 26 Jul 20:40<br>
 
-**House Calls**
+**House Calls**<br>
 
-Sat 16 Jul 18:45; Fri 22 Jul 20:30
+Sat 16 Jul 18:45; Fri 22 Jul 20:30<br>
 
-**The Maids**
+**The Maids**<br>
 
-Sat 16 Jul 20:50; Sun 24 Jul 15:50
+Sat 16 Jul 20:50; Sun 24 Jul 15:50<br>
 
-**The Rainbow**
+**The Rainbow**<br>
 
-Tue 19 Jul 20:40; Sun 31 Jul 13:00
+Tue 19 Jul 20:40; Sun 31 Jul 13:00<br>
 
-**Giro City + Glenda Jackson & Politics (clip compilation)**
+**Giro City + Glenda Jackson & Politics (clip compilation)**<br>
 
-Thu 21 Jul 17:50
+Thu 21 Jul 17:50<br>
 
-**Turtle Diary**
+**Turtle Diary**<br>
 
-Thu 21 Jul 20:50; Fri 29 Jul 20:30
+Thu 21 Jul 20:50; Fri 29 Jul 20:30<br>
 
-**Strange Interlude**
+**Strange Interlude**<br>
 
-Sat 23 Jul 15:30
+Sat 23 Jul 15:30<br>
 
-**The House of Bernarda Alba**
+**The House of Bernarda Alba**<br>
 
-Mon 25 Jul 17:50
+Mon 25 Jul 17:50<br>
 
-**Elizabeth Is Missing**
+**Elizabeth Is Missing**<br>
 
-Fri 29 Jul 18:15
+Fri 29 Jul 18:15<br>
 
-**Elizabeth R (the complete series)**
+**Elizabeth R (the complete series)**<br>
 
-Eps 1-3 Sat 30 Jul 14:20; Eps 4-6 Sun 31 Jul 14:30
+Eps 1-3 Sat 30 Jul 14:20; Eps 4-6 Sun 31 Jul 14:30<br>
 
 _Women in Love_ is available to buy on BFI Bluray from the BFI Shop: https://shop.bfi.org.uk/women-in-love-blu-ray.html
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDY5ODgyOF19
+eyJoaXN0b3J5IjpbLTExMDcxNzk2OF19
 -->
