@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title: Wayfinder
 published: true
-date: 2022-06-21
+date: 2022-07-01
 readtime: true
-categories: ['EXPERIMENTA PRESENTS - PREMIERE']
+categories: ['NEW RELEASES']
 tags: [Experimental]
 metadata: 'UK 2022, 84 mins<br> Director: Larry Achiampong'
 pdf: '2022-07-01-wayfinder.pdf'
