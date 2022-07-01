@@ -64,6 +64,10 @@ Germany 1928
 With Peer Raben score (2 and 16 July) or live piano accompaniment (31 July)  
 <br>
 
+Pandora’s Box  (new edition) by Pamela Hutchinson
+is available to buy from the BFI Shop: 
+**https://shop.bfi.org.uk/pandora-s-box-bfi-film-classics.html**
+
 <img style="float: left;" src="/img/pandoras-box.png" width="40%" height="40%">
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
