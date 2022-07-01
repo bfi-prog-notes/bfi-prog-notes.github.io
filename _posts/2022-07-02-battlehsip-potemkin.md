@@ -29,21 +29,16 @@ _Director:_ Sergei M. Eisenstein
 _Co-director:_ Grigori V. Aleksandrov  
 _Production:_ First Studio Goskino  
 _Production Manager:_ Yakov Bliokh  
-_Assistant Directors:_ Maksim Straukh, Mikhail S. Gomorov,
-
-Aleksandr I. Levchin, Aleksandr Antonov  
+_Assistant Directors:_ Maksim Straukh, Mikhail S. Gomorov, Aleksandr I. Levchin, Aleksandr Antonov  
 _Screenplay:_ Sergei M. Eisenstein  
-_From the screenplay for_ 1905 God _by:_ Nina Agadjanova,
-
-Sergei M. Eisenstein  
+_From the screenplay for_ 1905 God _by:_ Nina Agadjanova, Sergei M. Eisenstein  
 _Director of Photography:_ Eduard Tisse  
 _Assistant Photographer:_ Vladimir Popov  
 _Editor:_ Sergei M. Eisenstein  
 _Art Director:_ Vasili Rakhals  
-_Intertitles:_ Nikolai Asseyev, S.M. Tretiakov
+_Intertitles:_ Nikolai Asseyev, S.M. Tretiakov  
 
-**Cast:**
-
+**Cast:**  
 Aleksandr Antonov _(Vakulinchuk, sailor)_  
 Vladimir Barsky _(Captain Golikov)_  
 Grigori V. Aleksandrov _(Lieutenant Guiliarovsky)_  
@@ -69,5 +64,5 @@ USSR 1925
 
 With live piano accompaniment (2 July) and with Edmund Meisel score (22 and 25 July)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjI2MjE2OF19
+eyJoaXN0b3J5IjpbLTE2MzY5Nzg3MThdfQ==
 -->
