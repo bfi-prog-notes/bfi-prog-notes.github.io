@@ -4,7 +4,7 @@ title: The Adversary
 published: true
 date: 2022-07-02
 readtime: true
-categories: ['SATYAJIT RAY: THE LANGUAGE OF FILM']
+categories: ['SATYAJIT RAY<br>THE LANGUAGE OF FILM']
 tags: [Drama]
 metadata: 'India 1970, 110 mins<br> Director: Satyajit Ray'
 pdf: '2022-07-02-adversary.pdf'
