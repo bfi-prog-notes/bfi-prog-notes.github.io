@@ -14,7 +14,7 @@ _How have the three films been received in India?_
 
 Before I made _The Adversary_, I’d often been criticised for being non-political. After that film, they thought I had become politically committed, and it was very well received. There’s a revolutionary character in _The Adversary_, which is enough for the more simple-minded people. They don’t see the depths of the film, they just see that there is some mention of politics. But my previous film, _Days and Nights in the Forest_, wasn’t understood in India. They thought it very frivolous because of its surface, but they completely missed the implications of the structure, which I think makes it one of my best pictures.
 
-_The second film in the trilogy,_ The Adversary_, got a lukewarm reception from some European critics, who suggested that from a stylistic point of view it was more hesitant and less structurally complete than your other work. You use a lot of flashbacks, dream sequences, and scenes in negative. Why the change of style?_
+_The second film in the trilogy,_ The Adversary _, got a lukewarm reception from some European critics, who suggested that from a stylistic point of view it was more hesitant and less structurally complete than your other work. You use a lot of flashbacks, dream sequences, and scenes in negative. Why the change of style?_
 
 Everything I did was of course quite deliberate. I think the main character always dictates the style of a film; and particularly in this case, where you identify totally with the young man. He’s a hesitant character, full of doubts and inner conflicts and problems, and with him at the centre of the film I couldn’t think in terms of a smoothly told story in my usual ‘classical’ style. I felt all the time I was writing the scenario that if it took a straightforward line and was stylistically orthodox, then it would be wrong. That’s why I introduced stylistic factors which are new in my work.
 
@@ -29,12 +29,10 @@ _But still, you chose to make the film about the young man who has doubts about 
 
 Because a person with a definite political line is often psychologically less interesting: revolutionaries don’t think for themselves all the time. I was more interested in the young man who didn’t have any firm political convictions and who wanted a job under no matter what regime. He thought for himself, and therefore he was suffering. Besides, he carries out an act of protest on a personal level, which to me is a marvellous thing because it comes from inside and not as an expression of a political ideology.
 
-Satyajit Ray interviewed by Christian Braad Thomsen, _Sight and Sound_, Winter 1972/3
+**Satyajit Ray interviewed by Christian Braad Thomsen, _Sight and Sound_, Winter 1972/3**
+<br><br>
 
-<![endif]-->
-
-**THE ADVERSARY (PRATIDWANDI)**
-
+**THE ADVERSARY (PRATIDWANDI)**  
 _Director_: Satyajit Ray  
 _Production Company_: Priya Films  
 _Producers_: Nepal Dutta, Asim Dutta  
@@ -46,8 +44,7 @@ _Art Director_: Bansi Chandragupta
 _Music_: Satyajit Ray  
 _Sound_: J.D. Irani, Durgadas Mitra
 
-_Cast:_
-
+**Cast**  
 Dhritiman Chatterjee _(Siddhartha Choudhury)_  
 Indira Devi _(Sarojini)_  
 Debraj Roy _(Tunu)_  
@@ -60,56 +57,52 @@ Pisu Majumdar _(Keya’s father)_
 Dhara Roy _(Keya’s aunt)_  
 Mamata Chatterjee _(Sanyal’s wife)_
 
-India 1970
-
+India 1970  
 110 mins
 
-New 4K restoration by  
-NFDC – National Film Archive of India
-
-<![endif]-->
+New 4K restoration by  NFDC – National Film Archive of India
+<br><br>
 
 **SATYAJIT RAY  
-THE LANGUAGE OF FILM**
+THE LANGUAGE OF FILM**<br>
+**The Philosopher’s Stone (Parash Pathar)**<br>
 
-**The Philosopher’s Stone (Parash Pathar)**
+Fri 1 Jul 20:35; Sun 10 Jul 18:20<br>
 
-Fri 1 Jul 20:35; Sun 10 Jul 18:20
+**The Zoo Chiriyakhana**<br>
 
-**The Zoo Chiriyakhana**
+Sat 2 Jul 12:00; Sun 10 Jul 12:20<br>
 
-Sat 2 Jul 12:00; Sun 10 Jul 12:20
+**The Adversary (Pratidwandi)**<br>
 
-**The Adversary (Pratidwandi)**
+Sat 2 Jul 15:10; Sun 10 Jul 15:30<br>
 
-Sat 2 Jul 15:10; Sun 10 Jul 15:30
+**Pather Panchali (Song of the Little Road)**<br>
 
-**Pather Panchali (Song of the Little Road)**
+Sun 3 Jul 18:20; Sat 9 Jul 12:00; Sat 30 Jul 14:30<br>
 
-Sun 3 Jul 18:20; Sat 9 Jul 12:00; Sat 30 Jul 14:30
+**The Film Language of Satyajit Ray**<br>
 
-**The Film Language of Satyajit Ray**
+Wed 6 Jul 18:00<br>
 
-Wed 6 Jul 18:00
+**The Middleman (Jana Aranya)**<br>
 
-**The Middleman (Jana Aranya)**
+Wed 6 Jul 20:20; Sun 24 Jul 18:10<br>
 
-Wed 6 Jul 20:20; Sun 24 Jul 18:10
+**Two Daughters: The Postmaster and Samapti (The Conclusion) + intro by Aparna Sen**<br>
 
-**Two Daughters: The Postmaster and Samapti (The Conclusion) + intro by Aparna Sen**
+Thu 7 Jul 17:50<br>
 
-Thu 7 Jul 17:50
+**The Unvanquished (Aparajito)**<br>
 
-**The Unvanquished (Aparajito)**
+Sat 9 Jul 15:00; Thu 14 Jul 18:15; Sat 30 Jul 17:40<br>
 
-Sat 9 Jul 15:00; Thu 14 Jul 18:15; Sat 30 Jul 17:40
-
-**The World of Apu (Apur Sansar)**
+**The World of Apu (Apur Sansar)**<br>
 
 Sat 9 Jul 17:50; Sat 16 Jul 20:45; Sat 30 Jul 20:30  
-+ pre-recorded intro
++ pre-recorded intro<br>
 
-**Raahgir (The Wayfarers)**
+**Raahgir (The Wayfarers)**<br>
 
 Mon 11 Jul 18:00
 
@@ -152,5 +145,5 @@ Thu 21 Jul 20:40; Sun 31 Jul 18:20
 
 In association with The Academy Film Archive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzgwNDYxM119
+eyJoaXN0b3J5IjpbMTU5NTExNjcyMV19
 -->
