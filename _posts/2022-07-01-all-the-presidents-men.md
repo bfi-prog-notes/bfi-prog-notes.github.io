@@ -135,103 +135,55 @@ Jack Warden _(Harry Rosenfeld)_
 Martin Balsam _(Howard Simons)_
 
 Hal Holbrook _(Deep Throat)_
-
 Jason Robards _(Ben Bradlee)_
-
 Jane Alexander _(book-keeper)_
-
 Meredith Baxter _(Debbie Sloan)_
-
 Ned Beatty _(Dardis)_
-
 Stephen Collins _(Hugh Sloan Jr)_
-
 Penny Fuller _(Sally Aiken)_
-
 John McMartin _(Scott, foreign editor)_
-
 Robert Walden _(Donald H. Segretti)_
-
 Frank Wills _(himself)_
-
 F. Murray Abraham _(1st arresting officer)_
-
 David Arkin _(Bachinski)_
-
 Henry Calvert _(Bernard Barker)_
-
 Dominic Chianese _(Eugenio Martinez)_
-
 Bryan E. Clark _(arguing attorney)_
-
 Nicholas Coster _(Markham)_
-
 Lindsay Ann Crouse _(Kay Eddy)_
-
 Valerie Curtin _(Miss Betty Milland)_
-
 Gene Dynarski _(court clerk)_
-
 Nate Esformes _(Virgil Gonzales)_
-
 Ron Hale _(Frank Sturgis)_
-
 Richard Herd _(James W. McCord)_
-
 Polly Holliday _(Dardis’ secretary)_
-
 James Karen _(Hugh Sloan’s lawyer)_
-
 Paul Lambert _(national editor)_
-
 Frank Latimore _(judge)_
-
 Gene Lindsey _(Baldwin)_
-
 Anthony Mannino _(2nd arresting officer)_
-
 Allyn Ann McLerie _(Carolyn Abbot)_
-
 James Murtaugh _(Library of Congress clerk)_
-
 John O’Leary _(attorney 1)_
-
 Jess Osuna _(Joe, FBI man)_
-
 Neva Patterson _(angry CRP woman)_
-
 George Pentecost _(George)_
-
 Penny Peyser _(Sharon Lyle)_
-
 Joshua Shelley _(Al Lewis)_
-
 Sloane Shelton _(book-keeper’s sister)_
-
 Lelan Smith _(3rd arresting officer)_
-
 Jaye Stewart _(male librarian)_
-
 Ralph Williams _(Ray Steuben)_
-
 George Wyner _(attorney 2)_
-
 Leroy Aarons _(financial editor)_
-
 Donnlynn Bennett _(reporter)_
-
 Stanley Clay _(assistant Metro editor)_
-
 Carol Coggin _(news aide)_
-
 Laurence Covington _(news announcer)_
-
 John Devlin _(Metro editor)_
-
 John Furlong _(newsdesk editor)_
-
 Sidney Ganis _(LA stringer)_
-Amy Grossman_,_ Cynthia Herbst _(reporters)_
+Amy Grossman, Cynthia Herbst _(reporters)_
 Basil Hoffman _(assistant Metro editor)_
 Mark Holtzman _(reporter)_
 Jamie Smith Jackson _(Post librarian)_
@@ -254,5 +206,5 @@ USA 1976©
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODcyOTE3NV19
+eyJoaXN0b3J5IjpbLTkxMjcyNjIxOV19
 -->
