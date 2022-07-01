@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Adversary
+published: true
+date: 2022-07-02
+readtime: true
+categories: ['SATYAJIT RAY: THE LANGUAGE OF FILM']
+tags: [Drama]
+metadata: 'India 1970, 110 mins<br> Director: Satyajit Ray'
+pdf: '2022-07-02-adversary.pdf'
+---
 
 **Ray on ‘The Adversary’**
 
@@ -22,8 +32,7 @@ The film opens for instance with the death of the father, shown in negative, and
 
 The problem with the young man in _The Adversary_ is that there are a lot of things going on in his head, and he has no one to communicate his thoughts to. For instance, he goes to see his sister’s boss, and suddenly – bang-bang-bang – he stands there with a revolver shooting the boss. And then you find out that this is only happening in his mind. In fact, he had been rather polite and nervous, so how could I suggest that he actually wanted to murder the boss? There was no way other than an imaginary flash-forward.
 
-Since people have become used to a certain classical style in my films, I knew the criticisms would come. If it had been the work of an unknown director, the critics would probably have accepted it. But I really don’t care about the criticism, and maybe in five or six years when they see it in retrospect, they will find it all right. And I wanted it to be apparent also in the style that this was my first political film: a different film from what I had done before, so let it  
-be different.
+Since people have become used to a certain classical style in my films, I knew the criticisms would come. If it had been the work of an unknown director, the critics would probably have accepted it. But I really don’t care about the criticism, and maybe in five or six years when they see it in retrospect, they will find it all right. And I wanted it to be apparent also in the style that this was my first political film: a different film from what I had done before, so let it  be different.
 
 _But still, you chose to make the film about the young man who has doubts about his role in society, whereas his brother, who is a revolutionary, is a background character. If you wanted it to be a really political film, why didn’t you make it about the revolutionary?_
 
@@ -105,6 +114,26 @@ Tue 19 Jul 18:10; Mon 25 Jul 20:40<br>
 Thu 21 Jul 20:40; Sun 31 Jul 18:20<br>
 
 In association with The Academy Film Archive
+
+<img style="float: left;" src="/img/academy-logo-01.png" width="30%" height="30%">
+<br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 
 <!--stackedit_data:
