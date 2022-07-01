@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: In Conversation with Aparna Sen<br>+ UK Premiere - The Rapist
+published: true
+date: 2022-07-02
+readtime: true
+categories: ['LONDON INDIAN FILM FESTIVAL']
+tags: [Drama, Talks]
+metadata: 'India 2021, 132 mins<br> Director: Aparna Sen'
+pdf: '2022-07-02-in-conversation-with-aparna-sen.pdf'
+---
 
 An early scene in Aparna Sen’s _The Rapist_ sees a bunch of slum-dwelling boys mocking one among them for being weak ‘like a girl’, while playing football.  In the subsequent scene, these young adults express their resentment over women getting jobs. With these moments, the veteran filmmaker lays the ground for the heinous crime ahead.
 
@@ -14,8 +24,7 @@ _That’s evident in the character of Naina’s husband, Aftab Malik (Arjun Ramp
 
 All three principal characters go through an inner struggle in the film. When Naina plans to meet her offender in the jail, Aftab tauntingly asks her if she is meeting him because he is the biological father of her child. Aftab’s male ego is bruised as he cannot become a father due to his low sperm count.
 
-I am sure Aftab himself would never have imagined he would behave in such a manner. Certain things are inherently coded in a person that their superego doesn’t even recognise. Hence, one might have a specific image of themselves as a person, but there’s a lot of conditioning and childhood influences, which brings out an unexpected reaction from them. This happens in all my films.  
-For example, in _Mr and Mrs Iyer_ (2002), the character of Meenakshi Iyer (Konkona Sen Sharma), who is prejudiced against Muslims, would never have imagined she would ultimately end up feeling the way she felt for Raja Chowdhury (Rahul Bose).
+I am sure Aftab himself would never have imagined he would behave in such a manner. Certain things are inherently coded in a person that their superego doesn’t even recognise. Hence, one might have a specific image of themselves as a person, but there’s a lot of conditioning and childhood influences, which brings out an unexpected reaction from them. This happens in all my films.  For example, in _Mr and Mrs Iyer_ (2002), the character of Meenakshi Iyer (Konkona Sen Sharma), who is prejudiced against Muslims, would never have imagined she would ultimately end up feeling the way she felt for Raja Chowdhury (Rahul Bose).
 
 _It’s remarkable how you examine the power dynamics between the rapist and rape survivor. The psychological aspect makes the film more engaging._
 
@@ -68,6 +77,45 @@ Anindita Bose _(Malini)_<br>
 India 2021<br>
 132 mins<br>
 <br>
+
+**LONDON INDIAN FILM FESTIVAL**  
+**LIFF Opening Night Gala: World Premiere: Dobaaraa + Q&A with Anurag Kashyap and other special guests**  
+Thu 23 Jun 18:00  
+**British Gala: Little English + Q&A with director Pravesh Kumar, cast and crew**  
+Fri 24 Jun 20:30  
+**Gandhi + intro**  
+Sat 25 Jun 19:00  
+**Last Film Show (Chhello Show) + Q&A with director Pan Nalin**  
+Sun 26 Jun 15:0  
+**Once upon a Time in Calcutta + Q&A with director Aditya Vikram Sengupta**  
+Thu 30 Jun 18:00  
+**Too Desi Too Queer + Q&A**  
+Fri 1 Jul 18:00  
+**In Conversation with Aparna Sen + UK Premiere: The Rapist (Busan)**  
+Sat 2 Jul 17:00  
+**LIFF Closing Gala: Superfan: The Nav Bhatia Story + Q&A with Nav Bhatia and producer Rinku Ghei**  
+Sun 3 Jul 15:00  
+
+Visit **londonindianfilmfestival.co.uk** for more info on the festival  
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE5Mzk0NzM0MzNdfQ==
 -->
