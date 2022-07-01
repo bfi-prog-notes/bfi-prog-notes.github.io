@@ -64,7 +64,7 @@ Germany 1928
 With Peer Raben score (2 and 16 July) or live piano accompaniment (31 July)  
 <br>
 
-<img style="float: left;" src="/img/pandoras-box.jpg" width="40%" height="40%">
+<img style="float: left;" src="/img/pandoras-box.png" width="40%" height="40%">
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 **BIG SCREEN CLASSICS**  
