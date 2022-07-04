@@ -31,45 +31,28 @@ The acting is superb, especially from Denholm Elliott and Gwen Watford as the mi
 <br><br>
 
 **THE WEDNESDAY PLAY: HORROR OF DARKNESS**<br>
-
 _Directed by:_ Anthony Page<br>
-
 _Production Company:_ BBC TV<br>
-
 _Producer:_ James MacTaggart<br>
+_Script Editor:_ Vincent Tilsley<br>
+_[Written] By:_ John Hopkins<br>
+_Film Cameraman:_ David Prosser<br>
+_Film Editor:_ Alan Martin<br>
+_Telerecording Editor:_ Roy Clarke<br>
+_Designer:_ Tony Abbott<br>
 
-_Script Editor:_ Vincent Tilsley
+**Cast**<br>
+Alfred Lynch _(Peter Young)_<br>
+Glenda Jackson _(Cathy)_<br>
+Nicol Williamson _(Robin Fletcher)_<br>
+Catherine Clouzet _(Micaela)_<br>
+Wallas Eaton _(Philip Moss)_<br>
 
-_[Written] By:_ John Hopkins
-
-_Film Cameraman:_ David Prosser
-
-_Film Editor:_ Alan Martin
-
-_Telerecording Editor:_ Roy Clarke
-
-_Designer:_ Tony Abbott
-
-_Cast:_
-
-Alfred Lynch _(Peter Young)_
-
-Glenda Jackson _(Cathy)_
-
-Nicol Williamson _(Robin Fletcher)_
-
-Catherine Clouzet _(Micaela)_
-
-Wallas Eaton _(Philip Moss)_
-
-BBC1 tx 10.3.1965
-
-UK 1965
-
+BBC1 tx 10.3.1965<br>
+UK 1965<br>
 61 mins
 
-**THE WEDNESDAY PLAY: LET’S MURDER VIVALDI**
-
+**THE WEDNESDAY PLAY: LET’S MURDER VIVALDI**<br>
 _Director_: Alan Bridges  
 _Production Company_: BBC  
 _Producer_: Graeme McDonald  
@@ -79,18 +62,16 @@ _Lighting_: Kim Richards
 _Designer_: Richard Henry  
 _Sound_: Gordon Mackie
 
-_Cast:_
-
+**Cast**<br>
 Denholm Elliott _(Gerald)_  
 Gwen Watford _(Monica)_  
 Glenda Jackson _(Julie)_  
 David Sumner _(Ben)_
 
-BBC1 tx 10.4.1968
-
-UK 1968
-
-64 mins
+BBC1 tx 10.4.1968<br>
+UK 1968<br>
+64 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTY0MzE1MV19
+eyJoaXN0b3J5IjpbLTE2OTUyNjQxNDFdfQ==
 -->
