@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Horror of Darkness + Let's Murder Vivaldi
+published: true
+date: 2022-07-03
+readtime: true
+categories: ['GLENDA JACKSON']
+tags: [Drama]
+metadata: 'UK 1965/68, 61/64 mins<br> Directors: Anthony Page, Alan Bridges'
+pdf: '2022-07-03-horror-of-darkness.pdf'
+---
 
 **Horror of Darkness** arrived in the early days of _The Wednesday Play_ (BBC, 1964-70), just before the anthology series acquired its reputation as the often controversial highlight of the mid-1960s BBC TV schedules, epitomised by Nell Dunn’s _Up the Junction_ (1965) and Jeremy Sandford’s _Cathy Come Home_ (1966). The play found writer John Hopkins in bleak mood and at his most disquieting, though its underlying element of homosexuality caused only a minor ripple of controversy, even some two years before legalisation.
 
@@ -13,8 +23,7 @@ A powerful, unrelenting performance is delivered by the main cast of three (a mi
 
 Ian Penman, writing in _The Sunday Correspondent_ ten years after David Mercer’s early death in 1980, recalled the era of ‘monochrome anger, intense beards, poloneck politics’ which Mercer represented in the British TV drama of the 1960s and ‘70s. In **Let’s Murder Vivaldi**, Ben (David Sumner) is a version of Mercer himself – heavily bearded, often drunk, disillusioned, paranoid, prone to violent outbursts. As so often in Mercer’s work, the characters are intelligent people tearing each other to shreds – but in a sophisticated way, using wit and sarcasm as weapons just as effective as the knives that eventually come into play. The result is powerful, adult drama, which is also bitingly funny.
 
-Both couples are trapped in failing relationships. Gerald (Denholm Elliott) and Monica (Gwen Watford) hide behind a thin veneer of civilised behaviour, hilariously represented by the ritual of food preparation and consumption.  
-Ben rages incoherently at the world, while Julie (Glenda Jackson) struggles to understand both him and her own feelings for Gerald. All four are relentlessly self-analytical. The play is formally structured as follows:
+Both couples are trapped in failing relationships. Gerald (Denholm Elliott) and Monica (Gwen Watford) hide behind a thin veneer of civilised behaviour, hilariously represented by the ritual of food preparation and consumption.  Ben rages incoherently at the world, while Julie (Glenda Jackson) struggles to understand both him and her own feelings for Gerald. All four are relentlessly self-analytical. The play is formally structured as follows:
 
 Ben and Julie  
 Monica and Gerald  
@@ -72,6 +81,65 @@ BBC1 tx 10.4.1968<br>
 UK 1968<br>
 64 mins<br>
 <br>
+
+**GLENDA JACKSON**<br>
+**Women in Love**<br>
+Sat 2 Jul 17:40; Wed 13 Jul 20:3; Fri 15 Jul 20:30<br>
+**Horror of Darkness + Let’s Murder Vivaldi**<br>
+Sun 3 Jul 15:20<br>
+**Mary, Queen of Scots**<br>
+Sun 3 Jul 18:15; Wed 20 Jul 20:30<br>
+**Glenda Jackson in Conversation**<br>
+Tue 5 Jul 18:15<br>
+**Sunday Bloody Sunday**<br>
+Tue 5 Jul 20:40; Sun 24 Jul 18:30<br>
+**Hedda**<br>
+Fri 8 Jul 18:00; Sat 16 Jul 16:30<br>
+**A Touch of Class**<br>
+Sat 9 Jul 15:15; Sat 23 Jul 20:45<br>
+**The Romantic Englishwoman**<br>
+Sun 10 Jul 18:10; Mon 18 Jul 20:40<br>
+**Stevie**<br>
+Thu 14 Jul 20:30; Sat 23 Jul 12:00<br>
+**Hopscotch**<br>
+Fri 15 Jul 18:00; Tue 26 Jul 20:40<br>
+**House Calls**<br>
+Sat 16 Jul 18:45; Fri 22 Jul 20:30<br>
+**The Maids**<br>
+Sat 16 Jul 20:50; Sun 24 Jul 15:50<br>
+**The Rainbow**<br>
+Tue 19 Jul 20:40; Sun 31 Jul 13:00<br>
+**Giro City + Glenda Jackson & Politics (clip compilation)**<br>
+Thu 21 Jul 17:50<br>
+**Turtle Diary**<br>
+Thu 21 Jul 20:50; Fri 29 Jul 20:30<br>
+**Strange Interlude**<br>
+Sat 23 Jul 15:30<br>
+**The House of Bernarda Alba**<br>
+Mon 25 Jul 17:50<br>
+**Elizabeth Is Missing**<br>
+Fri 29 Jul 18:15<br>
+**Elizabeth R (the complete series)**<br>
+Eps 1-3 Sat 30 Jul 14:20; Eps 4-6 Sun 31 Jul 14:30<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2OTUyNjQxNDFdfQ==
 -->
