@@ -20,157 +20,83 @@ Even the script’s main flaw, a tendency to schematism – with the meticulousl
 <br><br>
 
 **SUNDAY BLOODY SUNDAY**<br>
-
 _Director:_ John Schlesinger<br>
-
-_Production Companies:_ Vectia Films,  
-Vic Films (London)<br>
-
+_Production Companies:_ Vectia Films,  Vic Films (London)<br>
 _Producer:_ Joseph Janni<br>
-
 _Associate Producer:_ Edward Joseph<br>
-
 _Production Manager:_ Hugh Harlow<br>
-
 _Location Manager:_ Lee Bolon *<br>
-
 _Assistant Director:_ Simon Relph<br>
-
 _Assistant Director:_ Michael Green *<br>
-
 _Continuity:_ Ann Skinner<br>
-
 _Casting:_ Miriam Brickman<br>
-
 _Screenplay:_ Penelope Gilliatt<br>
-
 _Screenplay:_ David Sherwin *<br>
-
 _Director of Photography:_ Billy Williams<br>
-
 _Camera Operator:_ David Harcourt<br>
-
 _Editor:_ Richard Marden<br>
-
 _Assistant Editor:_ Mary Kessel<br>
-
 _Designer:_ Luciana Arrighi<br>
-
 _Art Director:_ Norman Dorme<br>
-
 _Set Decorator:_ Harry Cordwell<br>
-
 _Sculpture/Models:_ Loncraine + Broxton<br>
-
 _Chargehand Prop:_ George Ball<br>
-
 _Costume Designer:_ Jocelyn Rickards<br>
-
 _Make-up:_ Freddie Williamson<br>
-
 _Hairdresser:_ Betty Glasow<br>
-
 _Special Music:_ Ron Geesin<br>
-
 _Director of Music:_ Douglas Gamley<br>
-
 _Sound Recording:_ Simon Kaye, Gerry Humphreys<br>
-
 _Sound Editor:_ David Campling<br>
-
 _Publicity:_ Edna Tromans *<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Peter Finch _(Dr Daniel Hirsh)_<br>
-
 Glenda Jackson _(Alex Greville)_<br>
-
 Murray Head _(Bob Elkin)_<br>
-
 Peggy Ashcroft _(Mrs Greville)_<br>
-
 Tony Britton _(George Harding)_<br>
-
 Maurice Denham _(Mr Greville)_<br>
-
 Bessie Love _(answering service lady)_<br>
-
 Vivian Pickles _(Alva Hodson)_<br>
-
 Frank Windsor _(Bill Hodson)_<br>
-
 Thomas Baptiste _(Professor Johns)_<br>
-
 Richard Pearson _(middle-aged patient)_<br>
-
 June Brown _(woman patient)_<br>
-
 Hannah Norbert _(Daniel’s mother)_<br>
-
 Harold Goldblatt _(Daniel’s father)_<br>
-
 Marie Burke _(Aunt Astrid)_<br>
-
 Caroline Blakiston _(rowing woman at Daniel’s party)_<br>
-
 Peter Halliday _(rowing woman’s husband)_<br>
-
 Douglas Lambert _(man at Daniel’s party)_<br>
-
 Jon Finch _(Scotsman)_<br>
-
 Kimi Tallmadge _(Lucy Hodson)_<br>
-
 Russell Lewis _(Timothy Hodson)_<br>
-
 Emma Schlesinger _(Tess Hodson)_<br>
-
 Karl Ferber _(Hodson son)_<br>
-
 Patrick Thornberry _(John-Stuart Hodson)_<br>
-
 Robert Rietty _(Daniel’s brother)_<br>
-
 Liane Aukin _(Daniel’s sister-in-law)_<br>
-
 Robin Presky _(Daniel’s nephew)_<br>
-
 Edward Evans _(husband at hospital)_<br>
-
 Gabrielle Daye _(wife at hospital)_<br>
-
 George Belbin _(next-door neighbour)_<br>
-
 Richard Loncraine, Royce Mills _(Bob’s partners)_<br>
-
 Monica Vassiliou _(travel agent)_<br>
-
 John Rae _(airline doctor)_<br>
-
 Ellis Dale _(chemist)_<br>
-
 Joe Wadham _(lorry driver)_<br>
-
 Henry Danziger _(cantor)_<br>
-
-Ann Firbank, Derek Gilbert, William Job,
-
-John Warner, Nikki Arrighi, Francis Ghent,  
-Donald Sumpter, Rohan McCulloch,  
-Barbara Markham, Robert Wilde _(party guests)_<br>
-
+Ann Firbank, Derek Gilbert, William Job, John Warner, Nikki Arrighi, Francis Ghent,  Donald Sumpter, Rohan McCulloch,  Barbara Markham, Robert Wilde _(party guests)_<br>
 Esta Charkham, Hilary Hardiman, Simon Joseph, Gideon Kolb, Martin Lawrence, Mercia Mansfield, Reuben Elvy, Jouey Douben _(barmitzvah guests)_<br>
+Cindy Burrows _(Alex as a child)_ *<br>
+Daniel Day-Lewis _(schoolboy kicking a car)_ *<br>
 
-Cindy Burrows _(Alex as a child)_ *
-
-Daniel Day-Lewis _(schoolboy kicking a car)_ *
-
-UK 1971©
-
+UK 1971©<br>
 110 mins
 
-* Uncredited
+*Uncredited<br>
+* <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTQyMDk4Nl19
+eyJoaXN0b3J5IjpbLTE0MzI1MjIxODZdfQ==
 -->
