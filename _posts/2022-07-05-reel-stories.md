@@ -6,7 +6,7 @@ date: 2022-07-05
 readtime: true
 categories: ['SENIORS']
 tags: [Documentary]
-metadata: 'UK 2022, 555 mins<br> Directors: Sav Kyriacou, Matthew Rosenberg'
+metadata: 'UK 2022, 55 mins<br> Directors: Sav Kyriacou, Matthew Rosenberg'
 pdf: '2022-07-05-reel-stories.pdf'
 ---
 _+ Q&A_
