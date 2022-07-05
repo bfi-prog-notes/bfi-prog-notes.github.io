@@ -20,9 +20,8 @@ Perhaps not since the heyday of Googie Withers was there so potent a British scr
 
  
 
-**GLENDA JACKSON**
-**Born in Birkenhead**
-
+**GLENDA JACKSON**  
+**Born in Birkenhead**  
 Selected filmography, all UK unless stated
 
 **FILM**
@@ -108,12 +107,17 @@ d. Herbert Wise) as Nina Leeds
 **1968** 
 **Armchair Theatre: Home Movies** (d. Robert Tronson)
 **The Wednesday Play: Let’s Murder Vivaldi** (d. Alan Bridges) as Julie
-**1967 Half Hour Story: Which of These Two Ladies Is He Married To?** (d. Alan Clarke) as Claire Foley
-**1965 The Wednesday Play: Horror of Darkness** (d. Anthony Page) as Cathy
-**1963 Z Cars** (TV Series) as WPC Fernley and Hospital Nurse
-**1961 ITV Play of the Week: Doctor Everyman’s Hour** (d. Peter Graham Scott) as Jurywoman
-**1957 ITV Play of the Week: A Voice in Vision** (d. Peter Graham Scott) as Iris Jones
+**1967** 
+**Half Hour Story: Which of These Two Ladies Is He Married To?** (d. Alan Clarke) as Claire Foley
+**1965**
+**The Wednesday Play: Horror of Darkness** (d. Anthony Page) as Cathy
+**1963** 
+**Z Cars** (TV Series) as WPC Fernley and Hospital Nurse
+**1961** 
+**ITV Play of the Week: Doctor Everyman’s Hour** (d. Peter Graham Scott) as Jurywoman
+**1957** 
+**ITV Play of the Week: A Voice in Vision** (d. Peter Graham Scott) as Iris Jones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzgxOTgxMywtMjAyMTY0ODYxOSwxNj
-IwNzc0NzU5XX0=
+eyJoaXN0b3J5IjpbNzE0MzAwMTAzLC0yMDIxNjQ4NjE5LDE2Mj
+A3NzQ3NTldfQ==
 -->
