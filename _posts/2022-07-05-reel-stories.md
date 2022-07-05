@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Reel Stories<br>An Oral History of London’s Projectionists
+published: true
+date: 2022-07-05
+readtime: true
+categories: ['SENIORS']
+tags: [Documentary]
+metadata: 'UK 2022, 555 mins<br> Directors: Sav Kyriacou, Matthew Rosenberg'
+pdf: '2022-07-05-reel-stories.pdf'
+---
 _+ Q&A_
 
 Enjoy this premiere of a film exploring the unseen work behind the cinema screen. In this revealing documentary the filmmakers consider the types of people who become projectionists, their varied experiences, and the skills and dedication required for this unique role. With the continuing move to digital projection, this film is a celebration of a profession at a time of great change.  
@@ -27,9 +37,8 @@ The interviews have been edited to make a documentary film and a series of podca
 The project website houses all of the full interviews, the podcasts, the film and covers the progress of the project.  
 **reelstories.org.uk**  
 
-**REEL STORIES:  AN ORAL HISTORY OF LONDON’S PROJECTIONISTS**  
-_Made by:_ digital-works [Sav Kyriacou,
-Matthew Rosenberg]  
+**REEL STORIES: AN ORAL HISTORY OF LONDON’S PROJECTIONISTS**  
+_Made by:_ digital-works [Sav Kyriacou, Matthew Rosenberg]  
 _©._ digital:works  
 _Funded by:_ National Lottery Heritage Fund  
 _Made with:_  
@@ -91,6 +100,21 @@ Mon 25 Jul 18:15
 Tue 26 Jul 18:30  
 **Terror Vision: Blood Games**  
 Thu 28 Jul 18:20  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODA5MTYzMCw3NTczNDQyNDBdfQ==
--->
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
