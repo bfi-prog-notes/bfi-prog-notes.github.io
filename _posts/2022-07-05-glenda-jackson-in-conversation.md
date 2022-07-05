@@ -53,7 +53,7 @@ Mothering Sunday** (d. Eva Husson) as older Jane
 **House Calls** (USA, d. Howard Zieff) as Ann Atkinson  
 **1976**  
 **Nasty Habits** (UK/USA, d. Michael Lindsay-Hogg) as Alexandra  
-**The Incredible Sarah** (d. Richard Fleischer) as Sarah Bernhardt
+**The Incredible Sarah** (d. Richard Fleischer) as Sarah Bernhardt  
 **1975**
 **Hedda** (USA, d. Trevor Nunn) as Hedda
 **The Romantic Englishwoman** (UK/France, d. Joseph Losey) as Elizabeth
@@ -118,6 +118,6 @@ d. Herbert Wise) as Nina Leeds
 **1957** 
 **ITV Play of the Week: A Voice in Vision** (d. Peter Graham Scott) as Iris Jones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE4MDkxNzcsLTIwMjE2NDg2MTksMT
+eyJoaXN0b3J5IjpbLTE0NTM5ODQ5MjEsLTIwMjE2NDg2MTksMT
 YyMDc3NDc1OV19
 -->
