@@ -68,6 +68,29 @@ Andrew Woodyatt
 
 UK 2022©  
 55 mins  
+<br>
+
+**REGULAR PROGRAMME**  
+**Seniors Premiere: Reel Stories: An Oral History of London’s Projectionists + Q&A**
+Tue 5 Jul 11:00  
+**Seniors’ Free Matinee: From Trinidad to Lagos + Q&A with author Stephen Bourne**   
+Tue 5 Jul 14:00
+**Art in the Making: Give Us This Day + intro**  
+Thu 14 Jul 18:10  
+**Silent Cinema: Phil-for-Short + intro by BFI Curator Bryony Dixon**  
+Sun 17 Jul 13:10  
+**Experimenta: The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies?! + live experimental music introduction by The Howling**  
+Wed 20 Jul 18:15  
+**Woman with a Movie Camera: The Mirror Has Two Faces + intro by BFI Events Programmer Kimberley Sheehan**  
+Thu 21 Jul 18:00  
+**African Odysseys: Commemorating Marikana**  
+Sun 24 Jul 12:00-17:40  
+**Relaxed Screening: Electricity + intro and discussion**  
+Mon 25 Jul 18:15  
+**Projecting The Archive: The Bay of Saint Michel (aka Pattern for Plunder) + intro by BFI curator Josephine Botting**  
+Tue 26 Jul 18:30  
+**Terror Vision: Blood Games**  
+Thu 28 Jul 18:20  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3MzQ0MjQwXX0=
+eyJoaXN0b3J5IjpbLTQzODA5MTYzMCw3NTczNDQyNDBdfQ==
 -->
