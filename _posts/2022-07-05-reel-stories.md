@@ -1,11 +1,10 @@
 
-<![endif]-->
+
 
 _+ Q&A_
 
 Enjoy this premiere of a film exploring the unseen work behind the cinema screen. In this revealing documentary the filmmakers consider the types of people who become projectionists, their varied experiences, and the skills and dedication required for this unique role. With the continuing move to digital projection, this film is a celebration of a profession at a time of great change.
-
-bfi.org.uk
+**bfi.org.uk**
 
 From the date of the first projected film by the Lumière Brothers in France in 1895 projectionists have been the behind the scenes technical experts locked up in sound proof rooms, the silhouettes occasionally seen as we look back and up from our cinema seats at the little windows from which are projected the films that have entertained, terrified and beguiled us. The projectors themselves, often Heath Robinson like machines, with film snaking through them, have required great skill and dedication to run. With the recent move to digital projection most cinemas now do not require those skills and we want to record the working lives of projectionists in the heyday of this dying art.
 
@@ -27,9 +26,8 @@ The project has recorded 20 wonderful oral history interviews with some of Londo
 
 The interviews have been edited to make a documentary film and a series of podcasts. The full interviews and materials collected during this project will be deposited with the BFI Archives and Bishopsgate Institute.
 
-The project website houses all of the full interviews, the podcasts, the film and covers the progress of the project.
-
-reelstories.org.uk
+The project website houses all of the full interviews, the podcasts, the film and covers the progress of the project.  
+**reelstories.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTY4NDAzXX0=
+eyJoaXN0b3J5IjpbLTE1NDA5OTgzMTBdfQ==
 -->
