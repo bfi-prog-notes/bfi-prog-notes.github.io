@@ -100,25 +100,25 @@ d. Herbert Wise) as Nina Leeds
 **1980**  
 **The Muppet Show** (TV Series) as Special Guest Star  
 **1971**  
-**Elizabeth R** (TV Mini-series, various directors) as Queen Elizabeth I
-**1970** 
-**BBC Play of the Month: Howards End** (d. Donald McWhinnie) as Margaret Schlegel
-**1969** 
-**ITV Sunday Night Theatre: Salve Regina** (d. David Saire) as Marina Palek
-**1968** 
-**Armchair Theatre: Home Movies** (d. Robert Tronson)
-**The Wednesday Play: Let’s Murder Vivaldi** (d. Alan Bridges) as Julie
-**1967** 
-**Half Hour Story: Which of These Two Ladies Is He Married To?** (d. Alan Clarke) as Claire Foley
-**1965**
-**The Wednesday Play: Horror of Darkness** (d. Anthony Page) as Cathy
-**1963** 
-**Z Cars** (TV Series) as WPC Fernley and Hospital Nurse
-**1961** 
-**ITV Play of the Week: Doctor Everyman’s Hour** (d. Peter Graham Scott) as Jurywoman
-**1957** 
-**ITV Play of the Week: A Voice in Vision** (d. Peter Graham Scott) as Iris Jones
+**Elizabeth R** (TV Mini-series, various directors) as Queen Elizabeth I  
+**1970**  
+**BBC Play of the Month: Howards End** (d. Donald McWhinnie) as Margaret Schlegel  
+**1969**  
+**ITV Sunday Night Theatre: Salve Regina** (d. David Saire) as Marina Palek  
+**1968**  
+**Armchair Theatre: Home Movies** (d. Robert Tronson)  
+**The Wednesday Play: Let’s Murder Vivaldi** (d. Alan Bridges) as Julie  
+**1967**  
+**Half Hour Story: Which of These Two Ladies Is He Married To?** (d. Alan Clarke) as Claire Foley  
+**1965**  
+**The Wednesday Play: Horror of Darkness** (d. Anthony Page) as Cathy  
+**1963**  
+**Z Cars** (TV Series) as WPC Fernley and Hospital Nurse  
+**1961**  
+**ITV Play of the Week: Doctor Everyman’s Hour** (d. Peter Graham Scott) as Jurywoman  
+**1957**  
+**ITV Play of the Week: A Voice in Vision** (d. Peter Graham Scott) as Iris Jones  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwNTk4ODU3LC0xNDUzOTg0OTIxLC0yMD
-IxNjQ4NjE5LDE2MjA3NzQ3NTldfQ==
+eyJoaXN0b3J5IjpbLTIxODU3NDM4MywtMTQ1Mzk4NDkyMSwtMj
+AyMTY0ODYxOSwxNjIwNzc0NzU5XX0=
 -->
