@@ -46,74 +46,42 @@ Selected filmography, all UK unless stated
 **The Incredible Sarah** (d. Richard Fleischer) as Sarah Bernhardt
 **1975 Hedda** (USA, d. Trevor Nunn) as Hedda
 **The Romantic Englishwoman** (UK/France, d. Joseph Losey) as Elizabeth
-**The Maids** (UK/Canada, d. Christopher Miles) as Solang
-**1974 The Devil Is a Woman** **(Il sorriso del grande tentatore)** (Italy/UK, d. Damiano Damiani) as Sister Geraldine
-
+**The Maids** (UK/Canada, d. Christopher Miles) as Solange
+**1974 The Devil Is a Woman (Il sorriso del grande tentatore)** (Italy/UK, d. Damiano Damiani) as Sister Geraldine
 **1973 Bequest to the Nation** (d. James Cellan Jones) as Lady Hamilton
-
 **1972 A Touch of Class** (USA/UK, d. Melvin Frank) as Vickie Allessio
-
 **The Triple Echo** (d. Michael Apted) as Alice
-
 **1971 Mary, Queen of Scots** (d. Charles Jarrott) as Queen Elizabeth
-
 **Sunday Bloody Sunday** (d. John Schlesinger) as Alex Greville
-
 **The Music Lovers** (d. Ken Russell) as Nina (Antonina Milyukova)
-
 **1969 Women in Love** (d. Ken Russell) as Gudrun Brangwen
-
 **1968 Negatives** (d. Peter Medak) as Vivien
-
 **1967 Marat/Sade** (d. Peter Brook) as Charlotte Corday
-
-**Telle Me Lies: A Film about London** (d. Peter Brook)
+**Tell Me Lies: A Film about London** (d. Peter Brook)
 
 **TV**
-
 **2019 Elizabeth Is Missing** (TV Movie, d. Aisling Walsh) as Maud
-
 **1995 Elizabeth R** (TV Series, various directors) as Elizabeth
-
 **1992 The Secret Life of Arnold Bax** (UK/Germany, TV Movie, d. Ken Russell) as Harriet Cohen
-
 **1991 The House of Bernarda Alba** (UK/USA, TV Movie, d. Núria Espert, Stuart Burge) as Bernarda
-
 **A Murder of Quality** (TV Movie, d. Gavin Millar) as Ailsa Brimley
-
 **1990 T.Bag’s Christmas Ding-dong** (TV Movie, d. Glyn Edwards) as Vanity Bag
-
 **Carol & Company** (TV Series) as Dr Doris Kruber
-
 **1988 American Playhouse: Strange Interlude** (USA/UK, TV Drama,
-
 d. Herbert Wise) as Nina Leeds
-
 **1984 Sakharov** (USA/UK, TV Movie, d. Jack Gold) as Yelena Bonner (Sakharova)
-
 **1981 The Patricia Neal Story** (USA, TV Movie, d. Anthony Harvey) as Patricia Neal
-
 **1980 The Muppet Show** (TV Series) as Special Guest Star
-
 **1971 Elizabeth R** (TV Mini-series, various directors) as Queen Elizabeth I
-
 **1970 BBC Play of the Month: Howards End** (d. Donald McWhinnie) as Margaret Schlegel
-
 **1969 ITV Sunday Night Theatre: Salve Regina** (d. David Saire) as Marina Palek
-
 **1968 Armchair Theatre: Home Movies** (d. Robert Tronson)
-
 **The Wednesday Play: Let’s Murder Vivaldi** (d. Alan Bridges) as Julie
-
 **1967 Half Hour Story: Which of These Two Ladies Is He Married To?** (d. Alan Clarke) as Claire Foley
-
 **1965 The Wednesday Play: Horror of Darkness** (d. Anthony Page) as Cathy
-
 **1963 Z Cars** (TV Series) as WPC Fernley and Hospital Nurse
-
 **1961 ITV Play of the Week: Doctor Everyman’s Hour** (d. Peter Graham Scott) as Jurywoman
-
 **1957 ITV Play of the Week: A Voice in Vision** (d. Peter Graham Scott) as Iris Jones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4Mjc5Mjc3XX0=
+eyJoaXN0b3J5IjpbMTYyMDc3NDc1OV19
 -->
