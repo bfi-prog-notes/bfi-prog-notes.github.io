@@ -15,154 +15,152 @@ It is characteristic of the new Schlesinger that they never do break down and as
 
 It is also an indication of the film’s maturity, and of Penelope Gilliatt’s finely tuned screenplay, that, though primarily concerned with exploring its characters’ feelings, it respects their adulthood enough to recognise the professional and social commitments, generally more irksome than agreeable, that will prevent the loss of their lover affecting them like either Tristan or Isolde. When Bob storms out of a truly dreadful soirée at Daniel’s house, where a jealous wife is trying to get back at her husband by stripping off for the other guests, one is made to feel more conscious of his callowness than of his discrimination. Even the self-consciously liberal family, friends of both Alex and Daniel, with their mother’s milk in the refrigerator, their dog called Kenyatta, their communal bathing and their token African permanently in residence, are presented without malice – an awkward fact of life in a world where only the unfeeling young never make fools of themselves.
 
-Even the script’s main flaw, a tendency to schematism – with the meticulously tidy bachelor listening to classical music in his Georgian house, while the untidy divorcée scatters cigarette ash over her disordered studio – is redeemed by its constant virtue of never spelling anything out. While in keeping with the theme of dawning middle-age and quiet desperation, photographer Billy Williams mutes his colours to achieve a mellow, autumnal mood. At one point in the film, Daniel takes a prescription to the all-night chemist’s in Piccadilly, and the inevitable line of heroin-addicts moves no less inevitably into frame. It’s a measure of the film’s success that instead of the touristic/ voyeuristic feeling induced by similar scenes in _Midnight Cowboy_, one is left sharing the doctor’s not quite useless compassion for the sadness of the world.
+Even the script’s main flaw, a tendency to schematism – with the meticulously tidy bachelor listening to classical music in his Georgian house, while the untidy divorcée scatters cigarette ash over her disordered studio – is redeemed by its constant virtue of never spelling anything out. While in keeping with the theme of dawning middle-age and quiet desperation, photographer Billy Williams mutes his colours to achieve a mellow, autumnal mood. At one point in the film, Daniel takes a prescription to the all-night chemist’s in Piccadilly, and the inevitable line of heroin-addicts moves no less inevitably into frame. It’s a measure of the film’s success that instead of the touristic/ voyeuristic feeling induced by similar scenes in _Midnight Cowboy_, one is left sharing the doctor’s not quite useless compassion for the sadness of the world.  
+**Jan Dawson, _Sight and Sound_, Summer 1971**
+<br><br>
 
-Jan Dawson, _Sight and Sound_, Summer 1971
+**SUNDAY BLOODY SUNDAY**<br>
 
-<![endif]-->
-
-**SUNDAY BLOODY SUNDAY**
-
-_Director:_ John Schlesinger
+_Director:_ John Schlesinger<br>
 
 _Production Companies:_ Vectia Films,  
-Vic Films (London)
+Vic Films (London)<br>
 
-_Producer:_ Joseph Janni
+_Producer:_ Joseph Janni<br>
 
-_Associate Producer:_ Edward Joseph
+_Associate Producer:_ Edward Joseph<br>
 
-_Production Manager:_ Hugh Harlow
+_Production Manager:_ Hugh Harlow<br>
 
-_Location Manager:_ Lee Bolon *
+_Location Manager:_ Lee Bolon *<br>
 
-_Assistant Director:_ Simon Relph
+_Assistant Director:_ Simon Relph<br>
 
-_Assistant Director:_ Michael Green *
+_Assistant Director:_ Michael Green *<br>
 
-_Continuity:_ Ann Skinner
+_Continuity:_ Ann Skinner<br>
 
-_Casting:_ Miriam Brickman
+_Casting:_ Miriam Brickman<br>
 
-_Screenplay:_ Penelope Gilliatt
+_Screenplay:_ Penelope Gilliatt<br>
 
-_Screenplay:_ David Sherwin *
+_Screenplay:_ David Sherwin *<br>
 
-_Director of Photography:_ Billy Williams
+_Director of Photography:_ Billy Williams<br>
 
-_Camera Operator:_ David Harcourt
+_Camera Operator:_ David Harcourt<br>
 
-_Editor:_ Richard Marden
+_Editor:_ Richard Marden<br>
 
-_Assistant Editor:_ Mary Kessel
+_Assistant Editor:_ Mary Kessel<br>
 
-_Designer:_ Luciana Arrighi
+_Designer:_ Luciana Arrighi<br>
 
-_Art Director:_ Norman Dorme
+_Art Director:_ Norman Dorme<br>
 
-_Set Decorator:_ Harry Cordwell
+_Set Decorator:_ Harry Cordwell<br>
 
-_Sculpture/Models:_ Loncraine + Broxton
+_Sculpture/Models:_ Loncraine + Broxton<br>
 
-_Chargehand Prop:_ George Ball
+_Chargehand Prop:_ George Ball<br>
 
-_Costume Designer:_ Jocelyn Rickards
+_Costume Designer:_ Jocelyn Rickards<br>
 
-_Make-up:_ Freddie Williamson
+_Make-up:_ Freddie Williamson<br>
 
-_Hairdresser:_ Betty Glasow
+_Hairdresser:_ Betty Glasow<br>
 
-_Special Music:_ Ron Geesin
+_Special Music:_ Ron Geesin<br>
 
-_Director of Music:_ Douglas Gamley
+_Director of Music:_ Douglas Gamley<br>
 
-_Sound Recording:_ Simon Kaye, Gerry Humphreys
+_Sound Recording:_ Simon Kaye, Gerry Humphreys<br>
 
-_Sound Editor:_ David Campling
+_Sound Editor:_ David Campling<br>
 
-_Publicity:_ Edna Tromans *
+_Publicity:_ Edna Tromans *<br>
 
-_Cast:_
+_Cast:_<br>
 
-Peter Finch _(Dr Daniel Hirsh)_
+Peter Finch _(Dr Daniel Hirsh)_<br>
 
-Glenda Jackson _(Alex Greville)_
+Glenda Jackson _(Alex Greville)_<br>
 
-Murray Head _(Bob Elkin)_
+Murray Head _(Bob Elkin)_<br>
 
-Peggy Ashcroft _(Mrs Greville)_
+Peggy Ashcroft _(Mrs Greville)_<br>
 
-Tony Britton _(George Harding)_
+Tony Britton _(George Harding)_<br>
 
-Maurice Denham _(Mr Greville)_
+Maurice Denham _(Mr Greville)_<br>
 
-Bessie Love _(answering service lady)_
+Bessie Love _(answering service lady)_<br>
 
-Vivian Pickles _(Alva Hodson)_
+Vivian Pickles _(Alva Hodson)_<br>
 
-Frank Windsor _(Bill Hodson)_
+Frank Windsor _(Bill Hodson)_<br>
 
-Thomas Baptiste _(Professor Johns)_
+Thomas Baptiste _(Professor Johns)_<br>
 
-Richard Pearson _(middle-aged patient)_
+Richard Pearson _(middle-aged patient)_<br>
 
-June Brown _(woman patient)_
+June Brown _(woman patient)_<br>
 
-Hannah Norbert _(Daniel’s mother)_
+Hannah Norbert _(Daniel’s mother)_<br>
 
-Harold Goldblatt _(Daniel’s father)_
+Harold Goldblatt _(Daniel’s father)_<br>
 
-Marie Burke _(Aunt Astrid)_
+Marie Burke _(Aunt Astrid)_<br>
 
-Caroline Blakiston _(rowing woman at Daniel’s party)_
+Caroline Blakiston _(rowing woman at Daniel’s party)_<br>
 
-Peter Halliday _(rowing woman’s husband)_
+Peter Halliday _(rowing woman’s husband)_<br>
 
-Douglas Lambert _(man at Daniel’s party)_
+Douglas Lambert _(man at Daniel’s party)_<br>
 
-Jon Finch _(Scotsman)_
+Jon Finch _(Scotsman)_<br>
 
-Kimi Tallmadge _(Lucy Hodson)_
+Kimi Tallmadge _(Lucy Hodson)_<br>
 
-Russell Lewis _(Timothy Hodson)_
+Russell Lewis _(Timothy Hodson)_<br>
 
-Emma Schlesinger _(Tess Hodson)_
+Emma Schlesinger _(Tess Hodson)_<br>
 
-Karl Ferber _(Hodson son)_
+Karl Ferber _(Hodson son)_<br>
 
-Patrick Thornberry _(John-Stuart Hodson)_
+Patrick Thornberry _(John-Stuart Hodson)_<br>
 
-Robert Rietty _(Daniel’s brother)_
+Robert Rietty _(Daniel’s brother)_<br>
 
-Liane Aukin _(Daniel’s sister-in-law)_
+Liane Aukin _(Daniel’s sister-in-law)_<br>
 
-Robin Presky _(Daniel’s nephew)_
+Robin Presky _(Daniel’s nephew)_<br>
 
-Edward Evans _(husband at hospital)_
+Edward Evans _(husband at hospital)_<br>
 
-Gabrielle Daye _(wife at hospital)_
+Gabrielle Daye _(wife at hospital)_<br>
 
-George Belbin _(next-door neighbour)_
+George Belbin _(next-door neighbour)_<br>
 
-Richard Loncraine, Royce Mills _(Bob’s partners)_
+Richard Loncraine, Royce Mills _(Bob’s partners)_<br>
 
-Monica Vassiliou _(travel agent)_
+Monica Vassiliou _(travel agent)_<br>
 
-John Rae _(airline doctor)_
+John Rae _(airline doctor)_<br>
 
-Ellis Dale _(chemist)_
+Ellis Dale _(chemist)_<br>
 
-Joe Wadham _(lorry driver)_
+Joe Wadham _(lorry driver)_<br>
 
-Henry Danziger _(cantor)_
+Henry Danziger _(cantor)_<br>
 
 Ann Firbank, Derek Gilbert, William Job,
 
 John Warner, Nikki Arrighi, Francis Ghent,  
 Donald Sumpter, Rohan McCulloch,  
-Barbara Markham, Robert Wilde _(party guests)_
+Barbara Markham, Robert Wilde _(party guests)_<br>
 
-Esta Charkham, Hilary Hardiman, Simon Joseph, Gideon Kolb, Martin Lawrence, Mercia Mansfield, Reuben Elvy, Jouey Douben _(barmitzvah guests)_
+Esta Charkham, Hilary Hardiman, Simon Joseph, Gideon Kolb, Martin Lawrence, Mercia Mansfield, Reuben Elvy, Jouey Douben _(barmitzvah guests)_<br>
 
 Cindy Burrows _(Alex as a child)_ *
 
@@ -174,5 +172,5 @@ UK 1971©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTM3MzUwM119
+eyJoaXN0b3J5IjpbMTI3OTQyMDk4Nl19
 -->
