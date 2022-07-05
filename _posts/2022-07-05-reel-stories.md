@@ -27,27 +27,26 @@ The interviews have been edited to make a documentary film and a series of podca
 The project website houses all of the full interviews, the podcasts, the film and covers the progress of the project.  
 **reelstories.org.uk**  
 
-**REEL STORIES:  AN ORAL HISTORY OF LONDON’S PROJECTIONISTS**
+**REEL STORIES:  AN ORAL HISTORY OF LONDON’S PROJECTIONISTS**  
 _Made by:_ digital-works [Sav Kyriacou,
-Matthew Rosenberg]
-_©._ digital:works
-_Funded by:_ National Lottery Heritage Fund
-_Made with:_
-Emily Allen
-Cece Asembo
-Chris Conway
-Charlie Denchfield
-Brian Godfrey
-Sarah Hackney
-Susie Hilmi
-Scott Keir
-Sam Riley
-Charlie Usher
-George Warren
-
-_Interviewees:_
-Peter Bell
-Charles ‘Jock’ Brown
+Matthew Rosenberg]  
+_©._ digital:works  
+_Funded by:_ National Lottery Heritage Fund  
+_Made with:_  
+Emily Allen  
+Cece Asembo  
+Chris Conway  
+Charlie Denchfield  
+Brian Godfrey  
+Sarah Hackney  
+Susie Hilmi  
+Scott Keir  
+Sam Riley  
+Charlie Usher  
+George Warren  
+_Interviewees:_  
+Peter Bell  
+Charles ‘Jock’ Brown  
 Michael Ford  
 Victor Gallucci  
 Barrie Gilbert  
@@ -70,5 +69,5 @@ Andrew Woodyatt
 UK 2022©  
 55 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjUwNzc1NjZdfQ==
+eyJoaXN0b3J5IjpbNzU3MzQ0MjQwXX0=
 -->
