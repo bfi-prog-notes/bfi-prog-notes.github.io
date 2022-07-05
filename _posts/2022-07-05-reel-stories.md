@@ -6,7 +6,7 @@ date: 2022-07-05
 readtime: true
 categories: ['SENIORS']
 tags: [Documentary]
-metadata: 'UK 2022, 55 mins<br> Directors: Sav Kyriacou, Matthew Rosenberg'
+metadata: 'UK 2022, 555 mins<br> Directors: Sav Kyriacou, Matthew Rosenberg'
 pdf: '2022-07-05-reel-stories.pdf'
 ---
 _+ Q&A_
@@ -38,7 +38,7 @@ The project website houses all of the full interviews, the podcasts, the film an
 **reelstories.org.uk**  
 
 **REEL STORIES: AN ORAL HISTORY OF LONDON’S PROJECTIONISTS**  
-_Made by:_ digital-works [Sav Kyriacou, Matthew Rosenberg]  
+_Made by:_ digital-works [Sav Kyriacou,Matthew Rosenberg]  
 _©._ digital:works  
 _Funded by:_ National Lottery Heritage Fund  
 _Made with:_  
@@ -118,3 +118,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTkzODgwMTQ2NF19
+-->
