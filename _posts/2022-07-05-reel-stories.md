@@ -32,7 +32,7 @@ _Made by:_ digital-works [Sav Kyriacou,
 Matthew Rosenberg]
 _©._ digital:works
 _Funded by:_ National Lottery Heritage Fund
-_With:_
+_Made with:_
 Emily Allen
 Cece Asembo
 Chris Conway
@@ -46,50 +46,29 @@ Charlie Usher
 George Warren
 
 _Interviewees:_
-
 Peter Bell
-
 Charles ‘Jock’ Brown
+Michael Ford  
+Victor Gallucci  
+Barrie Gilbert  
+Steve Grey  
+Peter Howden  
+Amanda Ireland  
+Ali Kayley  
+Peter Knight  
+Vicky Mansfield  
+Ron Pearce  
+Kore Pendragon  
+Alexa Raisbeck  
+Isaias Romano Pena Samboy  
+John Sharp  
+Dom Simmons  
+Nigel Wolland  
+Greg Woodward  
+Andrew Woodyatt  
 
-Michael Ford
-
-Victor Gallucci
-
-Barrie Gilbert
-
-Steve Grey
-
-Peter Howden
-
-Amanda Ireland
-
-Ali Kayley
-
-Peter Knight
-
-Vicky Mansfield
-
-Ron Pearce
-
-Kore Pendragon
-
-Alexa Raisbeck
-
-Isaias Romano Pena Samboy
-
-John Sharp
-
-Dom Simmons
-
-Nigel Wolland
-
-Greg Woodward
-
-Andrew Woodyatt
-
-UK 2022©
-
-55 mins
+UK 2022©  
+55 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTU0OTc4MV19
+eyJoaXN0b3J5IjpbLTE5MjUwNzc1NjZdfQ==
 -->
