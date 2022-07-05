@@ -27,15 +27,17 @@ Selected filmography, all UK unless stated
 
 **FILM**
 **2021  
-Mothering** **Sunday** (d. Eva Husson) as older Jane
-**1990** **
-King** **of the Wind** (USA, d. Peter Duffell) as Queen Caroline
-**1989** **
-The** **Rainbow** (d. Ken Russell) as Anna Brangwen
+Mothering Sunday** (d. Eva Husson) as older Jane
+**1990** 
+**King of the Wind** (USA, d. Peter Duffell) as Queen Caroline
+**1989** 
+**The Rainbow** (d. Ken Russell) as Anna Brangwen
 **Doombeach** (d. Colin Finbow) as Miss
-**1988** **Business** **as** **Usual** (d. Lezli-An Barrett) as Babs Flynn
+**1988** 
+**Business** **as** **Usual** (d. Lezli-An Barrett) as Babs Flynn
 **Salome’s Last Dance** (UK/USA, d. Ken Russell) as Herodias / Lady Alice
-**1986 Beyond Therapy** (USA, d. Robert Altman) as Charlotte
+**1986 
+Beyond Therapy** (USA, d. Robert Altman) as Charlotte
 **1985 Turtle Diary** (d. John Irvin) as Neaera Duncan
 **1982 The Return of the Soldier** (d. Alan Bridges) as Margaret Grey
 **Giro City** (d. Karl Francis) as Sophie
@@ -86,5 +88,5 @@ d. Herbert Wise) as Nina Leeds
 **1961 ITV Play of the Week: Doctor Everyman’s Hour** (d. Peter Graham Scott) as Jurywoman
 **1957 ITV Play of the Week: A Voice in Vision** (d. Peter Graham Scott) as Iris Jones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODI4NDA1MywxNjIwNzc0NzU5XX0=
+eyJoaXN0b3J5IjpbLTIwMjE2NDg2MTksMTYyMDc3NDc1OV19
 -->
