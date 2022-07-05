@@ -1,5 +1,4 @@
 
-
 From the Oscar®-winning successes of _Women in Love_ (1969) and _A Touch of Class_ (1973) to the Emmy-winning TV role _Elizabeth R_ (1971), Glenda Jackson’s talent and intensity have burned through big and small screen alike. She served in parliament as a Labour MP from 1992 to 2015 and, perhaps uniquely in the annals of thespian history, made a triumphant return to stage acting at the age of 82, winning a Tony Award and an Evening Standard award. In 2019 Jackson earned a BAFTA upon her return to TV after 25 years, for her role in _Elizabeth Is Missing_.
 
 She talks to BBC Radio 4’s John Wilson.
@@ -16,62 +15,38 @@ She came to films just as the bottom was falling out of the domestic industry wh
 Virtually everything is worth noting, including her second Oscar role in  
 _A Touch of Class_ (d. Melvin Frank, 1972), the title role in _The Patricia Neal Story_ (d. Anthony Harvey, 1981) and other TV including _A Murder of Quality_ (d. Gavin Millar, 1991). She made a triumphant return to stage acting at the age of 82 and went on to win a BAFTA for _Elizabeth Is Missing_.
 
-Perhaps not since the heyday of Googie Withers was there so potent a British screen actress. Jackson’s brave career choices have left us a marvellous record of her immense talent.
-
-**BFI Screenonline, screenoline.org.uk**
+Perhaps not since the heyday of Googie Withers was there so potent a British screen actress. Jackson’s brave career choices have left us a marvellous record of her immense talent.  
+**BFI Screenonline, screenoline.org.uk**  
 
   
 
-GLENDA JACKSON
-
+**GLENDA JACKSON**
 **Born in Birkenhead**
 
 Selected filmography, all UK unless stated
 
 **FILM**
-
 **2021  Mothering** **Sunday** (d. Eva Husson) as older Jane
-
 **1990** **King** **of the Wind** (USA, d. Peter Duffell) as Queen Caroline
-
 **1989** **The** **Rainbow** (d. Ken Russell) as Anna Brangwen
-
 **Doombeach** (d. Colin Finbow) as Miss
-
 **1988** **Business** **as** **Usual** (d. Lezli-An Barrett) as Babs Flynn
-
 **Salome’s Last Dance** (UK/USA, d. Ken Russell) as Herodias / Lady Alice
-
 **1986 Beyond Therapy** (USA, d. Robert Altman) as Charlotte
-
 **1985 Turtle Diary** (d. John Irvin) as Neaera Duncan
-
 **1982 The Return of the Soldier** (d. Alan Bridges) as Margaret Grey
-
 **Giro City** (d. Karl Francis) as Sophie
-
 **1980 Hopscotch** (USA, d. Ronald Neame) as Isobel von Schönenberg
-
 **HealtH** (USA, d. Robert Altman) as Isabella Garnell
-
 **1979 Lost and Found** (d. Melvin Frank) as Tricia
-
 **1978 The Class of Miss MacMichael** (USA/UK, d. Silvio Narizzano) as Conor MacMichael
-
 **Stevie** (USA/UK, d. Robert Enders) as Stevie
-
 **House Calls** (USA, d. Howard Zieff) as Ann Atkinson
-
 **1976 Nasty Habits** (UK/USA, d. Michael Lindsay-Hogg) as Alexandra
-
 **The Incredible Sarah** (d. Richard Fleischer) as Sarah Bernhardt
-
 **1975 Hedda** (USA, d. Trevor Nunn) as Hedda
-
 **The Romantic Englishwoman** (UK/France, d. Joseph Losey) as Elizabeth
-
-**The Maids** (UK/Canada, d. Christopher Miles) as Solange
-
+**The Maids** (UK/Canada, d. Christopher Miles) as Solang
 **1974 The Devil Is a Woman** **(Il sorriso del grande tentatore)** (Italy/UK, d. Damiano Damiani) as Sister Geraldine
 
 **1973 Bequest to the Nation** (d. James Cellan Jones) as Lady Hamilton
@@ -140,5 +115,5 @@ d. Herbert Wise) as Nina Leeds
 
 **1957 ITV Play of the Week: A Voice in Vision** (d. Peter Graham Scott) as Iris Jones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTc5Njg3NjhdfQ==
+eyJoaXN0b3J5IjpbODg4Mjc5Mjc3XX0=
 -->
