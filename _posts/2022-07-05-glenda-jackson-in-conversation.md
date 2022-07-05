@@ -18,7 +18,7 @@ _A Touch of Class_ (d. Melvin Frank, 1972), the title role in _The Patricia Neal
 Perhaps not since the heyday of Googie Withers was there so potent a British screen actress. Jackson’s brave career choices have left us a marvellous record of her immense talent.  
 **BFI Screenonline, screenoline.org.uk**  
 
-  
+ 
 
 **GLENDA JACKSON**
 **Born in Birkenhead**
@@ -26,9 +26,12 @@ Perhaps not since the heyday of Googie Withers was there so potent a British scr
 Selected filmography, all UK unless stated
 
 **FILM**
-**2021  Mothering** **Sunday** (d. Eva Husson) as older Jane
-**1990** **King** **of the Wind** (USA, d. Peter Duffell) as Queen Caroline
-**1989** **The** **Rainbow** (d. Ken Russell) as Anna Brangwen
+**2021  
+Mothering** **Sunday** (d. Eva Husson) as older Jane
+**1990** **
+King** **of the Wind** (USA, d. Peter Duffell) as Queen Caroline
+**1989** **
+The** **Rainbow** (d. Ken Russell) as Anna Brangwen
 **Doombeach** (d. Colin Finbow) as Miss
 **1988** **Business** **as** **Usual** (d. Lezli-An Barrett) as Babs Flynn
 **Salome’s Last Dance** (UK/USA, d. Ken Russell) as Herodias / Lady Alice
@@ -83,5 +86,5 @@ d. Herbert Wise) as Nina Leeds
 **1961 ITV Play of the Week: Doctor Everyman’s Hour** (d. Peter Graham Scott) as Jurywoman
 **1957 ITV Play of the Week: A Voice in Vision** (d. Peter Graham Scott) as Iris Jones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDc3NDc1OV19
+eyJoaXN0b3J5IjpbMjAxODI4NDA1MywxNjIwNzc0NzU5XX0=
 -->
