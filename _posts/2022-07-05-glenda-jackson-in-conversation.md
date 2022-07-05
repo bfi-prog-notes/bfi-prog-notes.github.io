@@ -78,9 +78,12 @@ Beyond Therapy** (USA, d. Robert Altman) as Charlotte
 **Tell Me Lies: A Film about London** (d. Peter Brook)
 
 **TV**
-**2019 Elizabeth Is Missing** (TV Movie, d. Aisling Walsh) as Maud
-**1995 Elizabeth R** (TV Series, various directors) as Elizabeth
-**1992 The Secret Life of Arnold Bax** (UK/Germany, TV Movie, d. Ken Russell) as Harriet Cohen
+**2019** 
+**Elizabeth Is Missing** (TV Movie, d. Aisling Walsh) as Maud
+**1995** 
+**Elizabeth R** (TV Series, various directors) as Elizabeth
+**1992** 
+**The Secret Life of Arnold Bax** (UK/Germany, TV Movie, d. Ken Russell) as Harriet Cohen
 **1991 The House of Bernarda Alba** (UK/USA, TV Movie, d. Núria Espert, Stuart Burge) as Bernarda
 **A Murder of Quality** (TV Movie, d. Gavin Millar) as Ailsa Brimley
 **1990 T.Bag’s Christmas Ding-dong** (TV Movie, d. Glyn Edwards) as Vanity Bag
@@ -101,6 +104,6 @@ d. Herbert Wise) as Nina Leeds
 **1961 ITV Play of the Week: Doctor Everyman’s Hour** (d. Peter Graham Scott) as Jurywoman
 **1957 ITV Play of the Week: A Voice in Vision** (d. Peter Graham Scott) as Iris Jones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTYxMzQxMywtMjAyMTY0ODYxOSwxNj
-IwNzc0NzU5XX0=
+eyJoaXN0b3J5IjpbLTExNDY1NTQ4NTMsLTIwMjE2NDg2MTksMT
+YyMDc3NDc1OV19
 -->
