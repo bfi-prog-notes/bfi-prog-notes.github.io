@@ -84,19 +84,29 @@ Beyond Therapy** (USA, d. Robert Altman) as Charlotte
 **Elizabeth R** (TV Series, various directors) as Elizabeth
 **1992** 
 **The Secret Life of Arnold Bax** (UK/Germany, TV Movie, d. Ken Russell) as Harriet Cohen
-**1991 The House of Bernarda Alba** (UK/USA, TV Movie, d. Núria Espert, Stuart Burge) as Bernarda
+**1991** 
+**The House of Bernarda Alba** (UK/USA, TV Movie, d. Núria Espert, Stuart Burge) as Bernarda
 **A Murder of Quality** (TV Movie, d. Gavin Millar) as Ailsa Brimley
-**1990 T.Bag’s Christmas Ding-dong** (TV Movie, d. Glyn Edwards) as Vanity Bag
+**1990** 
+**T.Bag’s Christmas Ding-dong** (TV Movie, d. Glyn Edwards) as Vanity Bag
 **Carol & Company** (TV Series) as Dr Doris Kruber
-**1988 American Playhouse: Strange Interlude** (USA/UK, TV Drama,
+**1988** 
+**American Playhouse: Strange Interlude** (USA/UK, TV Drama,
 d. Herbert Wise) as Nina Leeds
-**1984 Sakharov** (USA/UK, TV Movie, d. Jack Gold) as Yelena Bonner (Sakharova)
-**1981 The Patricia Neal Story** (USA, TV Movie, d. Anthony Harvey) as Patricia Neal
-**1980 The Muppet Show** (TV Series) as Special Guest Star
-**1971 Elizabeth R** (TV Mini-series, various directors) as Queen Elizabeth I
-**1970 BBC Play of the Month: Howards End** (d. Donald McWhinnie) as Margaret Schlegel
-**1969 ITV Sunday Night Theatre: Salve Regina** (d. David Saire) as Marina Palek
-**1968 Armchair Theatre: Home Movies** (d. Robert Tronson)
+**1984** 
+**Sakharov** (USA/UK, TV Movie, d. Jack Gold) as Yelena Bonner (Sakharova)
+**1981** 
+**The Patricia Neal Story** (USA, TV Movie, d. Anthony Harvey) as Patricia Neal
+**1980** 
+**The Muppet Show** (TV Series) as Special Guest Star
+**1971** 
+**Elizabeth R** (TV Mini-series, various directors) as Queen Elizabeth I
+**1970** 
+**BBC Play of the Month: Howards End** (d. Donald McWhinnie) as Margaret Schlegel
+**1969** 
+**ITV Sunday Night Theatre: Salve Regina** (d. David Saire) as Marina Palek
+**1968** 
+**Armchair Theatre: Home Movies** (d. Robert Tronson)
 **The Wednesday Play: Let’s Murder Vivaldi** (d. Alan Bridges) as Julie
 **1967 Half Hour Story: Which of These Two Ladies Is He Married To?** (d. Alan Clarke) as Claire Foley
 **1965 The Wednesday Play: Horror of Darkness** (d. Anthony Page) as Cathy
@@ -104,6 +114,6 @@ d. Herbert Wise) as Nina Leeds
 **1961 ITV Play of the Week: Doctor Everyman’s Hour** (d. Peter Graham Scott) as Jurywoman
 **1957 ITV Play of the Week: A Voice in Vision** (d. Peter Graham Scott) as Iris Jones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDY1NTQ4NTMsLTIwMjE2NDg2MTksMT
-YyMDc3NDc1OV19
+eyJoaXN0b3J5IjpbLTcyMzgxOTgxMywtMjAyMTY0ODYxOSwxNj
+IwNzc0NzU5XX0=
 -->
