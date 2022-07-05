@@ -60,15 +60,21 @@ Beyond Therapy** (USA, d. Robert Altman) as Charlotte
 **The Romantic Englishwoman** (UK/France, d. Joseph Losey) as Elizabeth
 **The Maids** (UK/Canada, d. Christopher Miles) as Solange
 **1974** The Devil Is a Woman (Il sorriso del grande tentatore)** (Italy/UK, d. Damiano Damiani) as Sister Geraldine
-**1973 Bequest to the Nation** (d. James Cellan Jones) as Lady Hamilton
-**1972 A Touch of Class** (USA/UK, d. Melvin Frank) as Vickie Allessio
+**1973** 
+**Bequest to the Nation** (d. James Cellan Jones) as Lady Hamilton
+**1972** 
+**A Touch of Class** (USA/UK, d. Melvin Frank) as Vickie Allessio
 **The Triple Echo** (d. Michael Apted) as Alice
-**1971 Mary, Queen of Scots** (d. Charles Jarrott) as Queen Elizabeth
+**1971**
+**Mary, Queen of Scots** (d. Charles Jarrott) as Queen Elizabeth
 **Sunday Bloody Sunday** (d. John Schlesinger) as Alex Greville
 **The Music Lovers** (d. Ken Russell) as Nina (Antonina Milyukova)
-**1969 Women in Love** (d. Ken Russell) as Gudrun Brangwen
-**1968 Negatives** (d. Peter Medak) as Vivien
-**1967 Marat/Sade** (d. Peter Brook) as Charlotte Corday
+**1969** 
+**Women in Love** (d. Ken Russell) as Gudrun Brangwen
+**1968** 
+**Negatives** (d. Peter Medak) as Vivien
+**1967** 
+**Marat/Sade** (d. Peter Brook) as Charlotte Corday
 **Tell Me Lies: A Film about London** (d. Peter Brook)
 
 **TV**
@@ -95,6 +101,6 @@ d. Herbert Wise) as Nina Leeds
 **1961 ITV Play of the Week: Doctor Everyman’s Hour** (d. Peter Graham Scott) as Jurywoman
 **1957 ITV Play of the Week: A Voice in Vision** (d. Peter Graham Scott) as Iris Jones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQ4NDk4NywtMjAyMTY0ODYxOSwxNj
+eyJoaXN0b3J5IjpbMTAyNTYxMzQxMywtMjAyMTY0ODYxOSwxNj
 IwNzc0NzU5XX0=
 -->
