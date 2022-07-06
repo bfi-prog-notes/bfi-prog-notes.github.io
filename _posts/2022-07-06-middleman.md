@@ -15,34 +15,26 @@ _The Middleman_ is urbane, genial, so observantly funny in its detail and so sym
 
 Ray, of course, develops the pessimism through the people, the assortment of individualists (few of his films have offered so wide a range of quick, exact characterisation) betrayed by the human comedy. At the outset, Somnath is let down by a girl who settles for a marriage arranged by her family. She borrows his handkerchief to sniffle into, rather as though she feels such a gesture is expected of her, and when she hands it back the puppy-hero shows some teeth: ‘Keep it; you might want to cry again on the bus going home.’ At the end of the sequence, out of the dark, comes that most characteristic sound of a Ray film: a train in the night. But this is a film in which there is nowhere to go; as the Indian paper _The Statesman_ pointed out in its review, they are all ‘partners in the total corruption of the social order’. That everyone involved is also a victim, though not necessarily an innocent one, is the pre-condition of Ray’s essential, unfashionable humanism. The woman who has sold her daughters into prostitution is bright and brisk and houseproud; the business man drives a sorry little car whose glove compartment flies open at every bump in the road; the underside of the system is rather kindlier, and certainly less pompous, than its official face.
 
-There is a debilitating critical notion that humanist cinema is dominated by content – that it is somehow creatively a soft way out. Anyone who thinks this should look closely at _The Middleman_, at the way the film uses its settings to extend the field of its action, at the sheer narrative adroitness of its transitions, at the control of nuance which suggests that all choices are moral, but that in present-day India they are all too often predetermined. Ray’s is not the cinema of the soft option.
+There is a debilitating critical notion that humanist cinema is dominated by content – that it is somehow creatively a soft way out. Anyone who thinks this should look closely at _The Middleman_, at the way the film uses its settings to extend the field of its action, at the sheer narrative adroitness of its transitions, at the control of nuance which suggests that all choices are moral, but that in present-day India they are all too often predetermined. Ray’s is not the cinema of the soft option.  
+**Penelope Houston, _Sight and Sound_, Spring 1977**
+<br><br>
 
-Penelope Houston, _Sight and Sound_, Spring 1977
-
-<![endif]-->
-
-**THE MIDDLEMAN (JANA ARANYA)**
-
+**THE MIDDLEMAN (JANA ARANYA)**  
 _Director_: Satyajit Ray  
 _Production Company_: Indus Films  
 _Producer_: Subir Guha  
-_Production Managers_: Anil Chowdhury,  
-Bhanu Ghosh  
-_Production Assistants_: Ramesh Sen, Santi K. Chatterji, Suhasini Mulay, Purnendu Bose, Anil Ghosh, Kanai Das, Siddhinath Nag, Nitai Jana,  
-Kashinath Bose, Samir Ganguli, Surath Das,  
-Bolai Addy, Troilokya Das  
+_Production Managers_: Anil Chowdhury,  Bhanu Ghosh  
+_Production Assistants_: Ramesh Sen, Santi K. Chatterji, Suhasini Mulay, Purnendu Bose, Anil Ghosh, Kanai Das, Siddhinath Nag, Nitai Jana, Kashinath Bose, Samir Ganguli, Surath Das,  Bolai Addy, Troilokya Das  
 _Screenplay_: Satyajit Ray  
 _From the novel by_: Sankar  
 _Director of Photography_: Soumendu Roy  
 _Editor_: Dulal Dutta  
 _Art Director_: Asok Bose  
 _Music_: Satyajit Ray  
-_Sound_: J.D. Irani, Anil Talukdar, Adinath Nag,  
-Sujit Ghosh  
+_Sound_: J.D. Irani, Anil Talukdar, Adinath Nag,  Sujit Ghosh  
 _Sound Re-recording_: Mangesh Desai
 
-_Cast:_
-
+**Cast**  
 Pradip Mukherjee _(Somnath Banerjee)_  
 Satya Banerjee _(Somnath’s father)_  
 Dipankar Dey _(Bhombol)_  
@@ -62,12 +54,11 @@ Ajeya Mukherjee _(pimp)_
 Kalyan Sen _(Mr Bakshi)_  
 Alokendu Dey _(Fakirchand, officer bearer)_
 
-India 1975
-
+India 1975  
 131 mins
 
-Restored by the Satyajit Ray Preservation Project through a collaboration of the Academy Film Archive, the Merchant-Ivory Foundation and the Film Foundation. Print courtesy of the  
-Academy Film Archive
+Restored by the Satyajit Ray Preservation Project through a collaboration of the Academy Film Archive, the Merchant-Ivory Foundation and the Film Foundation. Print courtesy of the  Academy Film Archive
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODU1MjUwMDVdfQ==
+eyJoaXN0b3J5IjpbLTE0OTE1Mjc1NjBdfQ==
 -->
