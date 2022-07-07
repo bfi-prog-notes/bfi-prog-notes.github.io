@@ -51,26 +51,26 @@ _Gaffer:_ Michael Katz
 _Key Grip:_ Donne Daniels  
 _Still Photographer:_ Umberto Montiroli  
 _Special Effects:_ Greg Hull, George Hill  
-_Edited by:_ Duwayne Dunham
-_Assistant Editors:_ Jonathan Shaw, Mary Sweeney
-_Production Designer:_ Patricia Norris
-_Art Department Assistant:_ Catherine David
-_Set Dressers:_ Michael Anderson, Vernon Harrell, Loren McNamara, Paul Sebastian, Arron Waitz, Doug White
-_Draughtsperson:_ Dawn Serody
-_Chief Scenic Artist:_ Robert Testerman
-_Scenic Artist:_ Tanya Lowe
-_Property Master:_ Tantar Leviseur
-_Construction Co-ordinator:_ Les Pendleton
-_Costume Shop Supervisor:_ Gloria Laughride
-_Set Wardrobe:_ Henry Earl Lewis
-_Make-up Supervisor:_ Jeff Goodwin
-_Special Make-up Effects:_ Dean Jones
-_Hair Stylist:_ Barbara Page
-_Titles/Opticals:_ Van Der Veer Photo Company
-_Cameras/Lenses by:_ Joe Dunton Camera America, Inc.
-_Negative Cutter:_ Donah Bassett
-_Colour by:_ Technicolor
-_Music Composed and Conducted by:_ Angelo Badalamenti
+_Edited by:_ Duwayne Dunham  
+_Assistant Editors:_ Jonathan Shaw, Mary Sweeney  
+_Production Designer:_ Patricia Norris  
+_Art Department Assistant:_ Catherine David  
+_Set Dressers:_ Michael Anderson, Vernon Harrell, Loren McNamara, Paul Sebastian, Arron Waitz, Doug White  
+_Draughtsperson:_ Dawn Serody  
+_Chief Scenic Artist:_ Robert Testerman  
+_Scenic Artist:_ Tanya Lowe  
+_Property Master:_ Tantar Leviseur  
+_Construction Co-ordinator:_ Les Pendleton  
+_Costume Shop Supervisor:_ Gloria Laughride  
+_Set Wardrobe:_ Henry Earl Lewis  
+_Make-up Supervisor:_ Jeff Goodwin  
+_Special Make-up Effects:_ Dean Jones  
+_Hair Stylist:_ Barbara Page  
+_Titles/Opticals:_ Van Der Veer Photo Company  
+_Cameras/Lenses by:_ Joe Dunton Camera America, Inc.  
+_Negative Cutter:_ Donah Bassett  
+_Colour by:_ Technicolor  
+_Music Composed and Conducted by:_ Angelo Badalamenti  
 _Music Score Performed by:_ Film Symphony Orchestra of Prague
 _Music Editor:_ Mark Adler
 _Music Re-recording Mixer:_ Todd Boekelheide
@@ -116,5 +116,5 @@ Sparky _(the dog)_
 USA 1986
 120 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyMzM2MzZdfQ==
+eyJoaXN0b3J5IjpbLTE5MDQ2NjQ3MzIsNzgyMzM2MzZdfQ==
 -->
