@@ -113,8 +113,8 @@ Donald Moore _(desk sergeant)_
 A. Michelle Depland, Michell Sasser, Katie Reid _(party girls)_  
 Sparky _(the dog)_  
 
-USA 1986
-120 mins
+USA 1986  
+120 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTQ1MTAyMiw3ODIzMzYzNl19
+eyJoaXN0b3J5IjpbMTE1NDA4OTg3MCw3ODIzMzYzNl19
 -->
