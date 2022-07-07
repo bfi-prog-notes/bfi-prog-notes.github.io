@@ -29,28 +29,28 @@ When you make a film like _Blue Velvet_, there’s a danger that Dorothy becomes
 **BLUE VELVET**  
 _Directed by:_ David Lynch  
 _©:_ De aurentiis Entertainment Group, Inc.  
-_Presented by:_ De Laurentiis Entertainment Group
-_Executive Producer:_ Richard Roth
-_Produced by:_ Fred Caruso
-_Production Manager:_ Fred Caruso
-_Production Supervisor:_ Gail M. Kearns
-_Production Office Co-ordinator:_ Kathryn Colbert
-_Location Co-ordinator:_ Morris Atkins
-_Key Production Assistant:_ John Wildermuth
-_1st Assistant Director:_ Ellen Rauch
-_2nd Assistant Director:_ Ian Woolf
-_Script Supervisor:_ Rina Sternfeld
-_Casting by:_ Johanna Ray, Pat Golden
-_Casting Associate:_ Pamela Rack
-_Extras/Additional Casting:_ Marc Fincannon and Associates
-_Screenplay by:_ David Lynch
-_Director of Photography:_ Frederick Elmes
-_1st Assistant Camera:_ Lex Dupont
-_Camera Assistant:_ David Rudd
-_Gaffer:_ Michael Katz
-_Key Grip:_ Donne Daniels
-_Still Photographer:_ Umberto Montiroli
-_Special Effects:_ Greg Hull, George Hill
+_Presented by:_ De Laurentiis Entertainment Group  
+_Executive Producer:_ Richard Roth  
+_Produced by:_ Fred Caruso  
+_Production Manager:_ Fred Caruso  
+_Production Supervisor:_ Gail M. Kearns  
+_Production Office Co-ordinator:_ Kathryn Colbert  
+_Location Co-ordinator:_ Morris Atkins  
+_Key Production Assistant:_ John Wildermuth  
+_1st Assistant Director:_ Ellen Rauch  
+_2nd Assistant Director:_ Ian Woolf  
+_Script Supervisor:_ Rina Sternfeld  
+_Casting by:_ Johanna Ray, Pat Golden  
+_Casting Associate:_ Pamela Rack  
+_Extras/Additional Casting:_ Marc Fincannon and Associates  
+_Screenplay by:_ David Lynch  
+_Director of Photography:_ Frederick Elmes  
+_1st Assistant Camera:_ Lex Dupont  
+_Camera Assistant:_ David Rudd  
+_Gaffer:_ Michael Katz  
+_Key Grip:_ Donne Daniels  
+_Still Photographer:_ Umberto Montiroli  
+_Special Effects:_ Greg Hull, George Hill  
 _Edited by:_ Duwayne Dunham
 _Assistant Editors:_ Jonathan Shaw, Mary Sweeney
 _Production Designer:_ Patricia Norris
@@ -116,5 +116,5 @@ Sparky _(the dog)_
 USA 1986
 120 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODQ0NDUyXX0=
+eyJoaXN0b3J5IjpbNzgyMzM2MzZdfQ==
 -->
