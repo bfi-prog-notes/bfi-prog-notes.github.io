@@ -44,24 +44,15 @@ Nripati Chatterjee _(Bisay)_<br>
 Khagen Pathak _(Khagen)_<br>
 Gopal Roy _(Bilash)_<br>
 **Samapti (The Conclusion)**<br>
-
 Soumitra Chatterjee _(Amulya)_<br>
-
-Aparna das Gupta [Aparna Sen]  
-_(Mrinmoyee, ‘Puglee’)_<br>
-
+Aparna das Gupta [Aparna Sen]  _(Mrinmoyee, ‘Puglee’)_<br>
 Sita Mukherjee _(Jogmaya)_<br>
-
 Gita Dey _(Nistarini)_<br>
-
 Santosh Dutta _(Kisori)_<br>
-
 Mihir Chakravarti _(Rakhal)_<br>
-
 Devi Neogy _(Haripada)_<br>
 
 India 1961<br>
-
 112 mins
 
 *Uncredited
@@ -71,5 +62,5 @@ Restored by the Satyajit Ray Preservation Project through a collaboration of the
 _Teen Kanya (Three Daughters)_, including the episode ‘Monihara’, will be presented in August.<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDkxMzY4NjZdfQ==
+eyJoaXN0b3J5IjpbMTQyODk1MjEyMF19
 -->
