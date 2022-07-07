@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Atlantics
+published: true
+date: 2022-07-07
+readtime: true
+categories: ['IN THE BLACK FANTASTIC']
+tags: [Drama, Fantasy]
+metadata: 'France-Senegal-Ivory Coast-Belgium 2019, 106 mins<br> Director: Mati Diop'
+pdf: '2022-07-07-atlantics.pdf'
+---
 
 **Mati Diop on ‘Atlantics’**
 
@@ -12,8 +22,7 @@ Through my cousin I met a couple of boys who told me about their desire to go to
 
 Atlantics _is grounded in the real-world problem of migration, but also has supernatural elements. What storytelling possibilities did the ghost story genre offer you?_
 
-I never thought of it as the subject on one side and the form on the other.  
-The idea came together immediately in subject and form – the idea of talking about migration through the fantasy genre was one and the same.
+I never thought of it as the subject on one side and the form on the other.  The idea came together immediately in subject and form – the idea of talking about migration through the fantasy genre was one and the same.
 
 Some people call [my short film] _Atlantiques_ a documentary, but for me that’s not really it. It was already a ghost film. My first experience shooting in Dakar was filming a boy who was flesh and bone in front of me, but who was telling me he was not here, because when you decide to leave it’s because you feel you’re already dead. That marked me. At that time there was a very ghostly atmosphere in the city. I was mostly going out in the evening, and the night in Dakar is very special.
 
@@ -23,8 +32,7 @@ The film is really about this ghost generation, all these young people who have 
 
 _The tower that Souleiman and the missing boys have been building is constantly looming in the distance of the cityscape. You created it digitally in post-production, and it seems to have a symbolic resonance._
 
-It’s a metaphor for what the foundations of the future are made of. The idea that this tower is little by little becoming a monument. When [Abdoulaye] Wade was still the president [of Senegal, a position he held 2000-12], he was supposed to build a tower – when I saw the real architectural plan on the internet, it was a black pyramid. It was like a monument for dead people.  
-It was supposed to be a place that would host a luxury hotel and conference halls, which was very strange in a moment so marked by the loss of a lot of young people.
+It’s a metaphor for what the foundations of the future are made of. The idea that this tower is little by little becoming a monument. When [Abdoulaye] Wade was still the president [of Senegal, a position he held 2000-12], he was supposed to build a tower – when I saw the real architectural plan on the internet, it was a black pyramid. It was like a monument for dead people.  It was supposed to be a place that would host a luxury hotel and conference halls, which was very strange in a moment so marked by the loss of a lot of young people.
 
 _You’ve acted in films – how has your experience of being directed impacted the way you work with your actors?_
 
@@ -90,6 +98,60 @@ Babacar Sylla _(Omar)_
 France-Senegal-Ivory Coast-Belgium 2019  
 106 mins<br>
 <br>
+
+**IN THE BLACK FANTASTIC<br>
+VISIONARY FILMS OF AFROFUTURISM, MYTH AND SPECULATIVE FICTION**<br>
+**The Brother from Another Planet**<br>
+Fri 1 Jul 18:05; Wed 6 Jul 20:45<br>
+**Sankofa**<br>
+Sat 2 Jul 14:00 (+ intro by June Givanni, June Givanni Pan African Cinema Archive); Wed 20 Jul 20:35<br>
+**Daughters of the Dust**<br>
+Sat 2 Jul 20:30; Wed 13 Jul 20:40<br>
+**Yeelen (Brightness)**<br>
+Sun 3 Jul 15:50; Thu 14 Jul 20:40<br>
+**Top of the Heap**<br>
+Mon 4 Jul 18:10; Sat 30 Jul 20:45<br>
+**In the Afrofuture**<br>
+Tue 5 Jul 18:20; Sun 17 Jul 16:00<br>
+**Atlantics (Atlantique)**<br>
+Thu 7 Jul 20:50; Sun 31 Jul 15:40<br>
+**Kuso**<br>
+Sat 9 Jul 20:50; Fri 22 Jul 18:10<br>
+**Touki Bouki**<br>
+Wed 13 Jul 17:50 (+ season introduction); Wed 27 Jul 20:50<br>
+**The Burial of Kojo**<br>
+Fri 15 Jul 18:30; Thu 28 Jul 20:40<br>
+**The Black Atlantic**<br>
+Mon 18 Jul 18:15 (+ Q&A); Sat 30 Jul 12:00<br>
+**Eve’s Bayou**<br>
+Tue 19 Jul 20:45; Thu 28 Jul 18:00<br>
+<br>
+
+Presented in cultural partnership with Hayward Gallery and Southbank Centre
+
+<img style="float: left;" src="/img/southbank-centre-logo-01.png" width="30%" height="30%">
+<br><br><br><br><br>
+
+**In the Black Fantastic** is an exhibition, curated by Ekow Eshun, of contemporary artists from the African diaspora who draw on science fiction, myth and Afrofuturism. Runs **29 Jun to 18 Sep at Hayward Gallery**.
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTM2MTM3MDc3Ml19
 -->
