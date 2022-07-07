@@ -20,75 +20,56 @@ From here on, Ray (and Tagore) could have developed the tale along the usual lin
 
 The acting, too, is masterly. Aparna das Gupta, as Puglee, has wit, range and a glowing, mercurial beauty. Soumitra Chatterji, who played Apu in the third part of the trilogy, here shows a dab hand at characterisation: his scholar is all elbows and spectacles, a rare little portrait of amiable vanity. And around them the mother and neighbours frolic, as scatter-brained and real a company as one could hope for. _Samapti_ makes a delightful and appropriate conclusion to a film which deserves the widest circulation.  
 **Eric Rhode, _Sight and Sound_, Summer 1961**
+<br><br>
 
-<![endif]-->
+**TWO DAUGHTERS**<br>
+_Director:_ Satyajit Ray<br>
+_Production Company:_ Satyajit Ray Productions<br>
+_Producer:_ Satyajit Ray *<br>
+_Associate Producer:_ Amiyanath Mukherji<br>
+_Production Manager:_ Anil Chowdhury<br>
+_Screenplay:_ Satyajit Ray<br>
+_Based on stories by:_ Rabindranath Tagore<br>
+_Photography:_ Soumendu Roy<br>
+_Editor:_ Dulal Dutta<br>
+_Art Director:_ Bansi Chandragupta<br>
+_Music:_ Satyajit Ray<br>
+_Sound:_ Durgadas Mitra<br>
 
-**TWO DAUGHTERS**
+**Cast**<br>
+**The Postmaster**<br>
+Anil Chatterjee _(Nanda, the postmaster)_<br>
+Chandana Banerjee _(Ratan)_<br>
+Nripati Chatterjee _(Bisay)_<br>
+Khagen Pathak _(Khagen)_<br>
+Gopal Roy _(Bilash)_<br>
+**Samapti (The Conclusion)**<br>
 
-_Director:_ Satyajit Ray
-
-_Production Company:_ Satyajit Ray Productions
-
-_Producer:_ Satyajit Ray *
-
-_Associate Producer:_ Amiyanath Mukherji
-
-_Production Manager:_ Anil Chowdhury
-
-_Screenplay:_ Satyajit Ray
-
-_Based on stories by:_ Rabindranath Tagore
-
-_Photography:_ Soumendu Roy
-
-_Editor:_ Dulal Dutta
-
-_Art Director:_ Bansi Chandragupta
-
-_Music:_ Satyajit Ray
-
-_Sound:_ Durgadas Mitra
-
-_Cast:_
-
-**The Postmaster**
-
-Anil Chatterjee _(Nanda, the postmaster)_
-
-Chandana Banerjee _(Ratan)_
-
-Nripati Chatterjee _(Bisay)_
-
-Khagen Pathak _(Khagen)_
-
-Gopal Roy _(Bilash)_
-
-**Samapti (The Conclusion)**
-
-Soumitra Chatterjee _(Amulya)_
+Soumitra Chatterjee _(Amulya)_<br>
 
 Aparna das Gupta [Aparna Sen]  
-_(Mrinmoyee, ‘Puglee’)_
+_(Mrinmoyee, ‘Puglee’)_<br>
 
-Sita Mukherjee _(Jogmaya)_
+Sita Mukherjee _(Jogmaya)_<br>
 
-Gita Dey _(Nistarini)_
+Gita Dey _(Nistarini)_<br>
 
-Santosh Dutta _(Kisori)_
+Santosh Dutta _(Kisori)_<br>
 
-Mihir Chakravarti _(Rakhal)_
+Mihir Chakravarti _(Rakhal)_<br>
 
-Devi Neogy _(Haripada)_
+Devi Neogy _(Haripada)_<br>
 
-India 1961
+India 1961<br>
 
 112 mins
 
-* Uncredited
+*Uncredited
 
 Restored by the Satyajit Ray Preservation Project through a collaboration of the Academy Film Archive, the Merchant-Ivory Foundation, the Film Foundation, and the Packard Humanities Institute. Print courtesy of the Academy Film Archive.
 
-_Teen Kanya (Three Daughters)_, including the episode ‘Monihara’, will be presented in August.
+_Teen Kanya (Three Daughters)_, including the episode ‘Monihara’, will be presented in August.<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzE0NzU0OV19
+eyJoaXN0b3J5IjpbLTE4MDkxMzY4NjZdfQ==
 -->
