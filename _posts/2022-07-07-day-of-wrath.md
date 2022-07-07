@@ -30,57 +30,46 @@ No short analysis can do justice to the continuous technical mastery of this fil
 **_Monthly Film Bulletin_, November 1946**  
 
 
-**DAY OF WRATH (VREDENS DAG)**
-_Director:_ Carl Th. Dreyer
-_Production Company:_ Palladium (Copenhagen)
-_Producer:_ Tage Nielsen
-_Screenplay:_ Mogens Skot-Hansen, Poul Knudsen, Carl Th. Dreyer
-_From the novel and play by:_ Wiers Jenssen
-_Photography:_ Karl Andersson
-_Editor:_ Edith Schlüssel
-_Art Director:_ Erik Aaes
-_Designs for Sets and Costumes by:_ Lis Fribert
-_Costumes:_ N. Sandt Jensen, Olga Thomsen
-_Music:_ Poul Schierbeck
-_Psalm Texts:_ Paul La Cour
-_Violin Solo:_ Erling Bloch
-_Cello Solo:_ Hans Kassow
-_Sound:_ Erik Rasmussen
-_Mixer:_ Johan Ankerstjerne
-_Historical Adviser:_ Kaj Uldall
+**DAY OF WRATH (VREDENS DAG)**  
+_Director:_ Carl Th. Dreyer  
+_Production Company:_ Palladium (Copenhagen)  
+_Producer:_ Tage Nielsen  
+_Screenplay:_ Mogens Skot-Hansen, Poul Knudsen, Carl Th. Dreyer  
+_From the novel and play by:_ Wiers Jenssen  
+_Photography:_ Karl Andersson  
+_Editor:_ Edith Schlüssel  
+_Art Director:_ Erik Aaes  
+_Designs for Sets and Costumes by:_ Lis Fribert  
+_Costumes:_ N. Sandt Jensen, Olga Thomsen  
+_Music:_ Poul Schierbeck  
+_Psalm Texts:_ Paul La Cour  
+_Violin Solo:_ Erling Bloch  
+_Cello Solo:_ Hans Kassow  
+_Sound:_ Erik Rasmussen  
+_Mixer:_ Johan Ankerstjerne  
+_Historical Adviser:_ Kaj Uldall  
 
-**Cast**
-Thorkild Roose _(Absalon Pederssøn)_
-Lisbeth Movin _(Anne Pederssøn)_
-Sigrid Neiiendam _(Merete Pederssøn)_
-Preben Lerdorff Rye _(Martin Pederssøn)_
+**Cast**  
+Thorkild Roose _(Absalon Pederssøn)_  
+Lisbeth Movin _(Anne Pederssøn)_  
+Sigrid Neiiendam _(Merete Pederssøn)_  
+Preben Lerdorff Rye _(Martin Pederssøn)_  
+Albert Høeberg _(bishop)_  
+Olaf Ussing _(Laurentius)_  
+Anne Svierkier _(Marthe Herlof)_  
+Dagmar Wildenbrück  
+Emilie Nielsen  
+Kirsten Andreasen  
+Sophie Knudsen  
+Harald Holst  
+Preben Neergaard  
+Emanuel Jørgensen  
+H. Chr. Sørensen  
 
-Albert Høeberg _(bishop)_
-
-Olaf Ussing _(Laurentius)_
-
-Anne Svierkier _(Marthe Herlof)_
-
-Dagmar Wildenbrück
-
-Emilie Nielsen
-
-Kirsten Andreasen
-
-Sophie Knudsen
-
-Harald Holst
-
-Preben Neergaard
-
-Emanuel Jørgensen
-
-H. Chr. Sørensen
-
-Denmark 1943
-
-97 mins
-* Uncredited
+Denmark 1943  
+97 mins  
+ 
+\* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzgxNDQ3NV19
+eyJoaXN0b3J5IjpbOTQ3MTg5MjUxXX0=
 -->
