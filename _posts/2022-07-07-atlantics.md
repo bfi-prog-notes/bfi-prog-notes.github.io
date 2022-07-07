@@ -51,8 +51,7 @@ Yeah, definitely. For me, these girls were comedy characters. I could make a who
 
 **ATLANTICS (ATLANTIQUE)**  
 _Directed by_: Mati Diop  
-_Production Companies_: Arte France Cinéma, Canal+ International
-
+_Production Companies_: Arte France Cinéma, Canal+ International  
 _in co-production with_: Les Films du Bal, Cinékap, Frakas Productions  
 _with the participation of_: Le Centre National du Cinéma et de l’Image Animée, Aide a la production avant realisation, Aide a la creation visuelle et sonore numerique  
 _with the support of_: Eurimages, Fonds de promotion de l’industrie cinematographique et audiovisuelle du Senegal, Fonds Image de la Francophonie  
@@ -62,8 +61,7 @@ _with the participation of_: ARTE France, Canal+, TV5Monde, Ciné+
 _in association with_: Ad Vitam, MK2  
 _Presented by_: Les Films du Bal  
 _Produced by_: Judith Lou Levy, Eve Robin  
-_in co-production with_: Oumar Sall,  
-Cassandre Warnauts, Jean Yves Roubin  
+_in co-production with_: Oumar Sall,  Cassandre Warnauts, Jean Yves Roubin  
 _Associate Producer_: Michel Merkt  
 _Assistant Director_: Vincent Prades  
 _Script Supervisor_: Christelle Meaux  
@@ -72,13 +70,11 @@ _Screenplay_: Mati Diop, Olivier Demangel
 _Director of Photography_: Claire Mathon  
 _Editor_: Ael Dallier-Vega  
 _Art Directors_: Oumar Sall, Toma Baquéni  
-_Costume Designers_: Rachèle Raoult,  
-Salimata Ndiaye  
+_Costume Designers_: Rachèle Raoult,  Salimata Ndiaye  
 _Music_: Fatima Al Qadiri  
 _Sound_: Benoît de Clerck, Emmanuel de Boissieu
 
-_Cast:_
-
+**Cast**  
 Mama Sané _(Ada)_  
 Amadou Mbow _(Issa)_  
 Ibrahima Traore _(Souleiman)_  
@@ -91,9 +87,9 @@ Diankou Sembene _(Mr Ndiaye)_
 Abdou Balde _(Cheikh)_  
 Babacar Sylla _(Omar)_
 
-France-Senegal-Ivory Coast-Belgium 2019
-
-106 mins
+France-Senegal-Ivory Coast-Belgium 2019  
+106 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDQ5NTQ2OF19
+eyJoaXN0b3J5IjpbLTM2MTM3MDc3Ml19
 -->
