@@ -51,69 +51,69 @@ _Assistant Editors:_ Valentin Feraud, Antoine Feraud, Laurie Di Marino, Marin De
 _Post Production:_  Serge Nagels, Celine Grudniewski, Young Kyun-Gans  
 _Color Grading:_  Mathieu Cauville  
 _Archive Digitisation:_ Mathieu Brandao, Sonia Darbois, Arthur Galiano, Aude Jarry  
-_Motion Design:_  Victor Rahman
-_Make-up:_  Mathieu De Mayer
-_Original_ _Music:_ Laurent Garnier
-_Music Supervision:_ Laurent Garnier
-_Sound:_ David Job, Bob Foresta, Gabin Rivoire, Olivier Ronval
-_Sound Editing:_  Guillaume Marique
-_Sound Mixing:_  Mathieu Cox
-_Translation__:_ Frédéric Génicot, Elliot Rivoire
+_Motion Design:_  Victor Rahman  
+_Make-up:_  Mathieu De Mayer  
+_Original_ _Music:_ Laurent Garnier  
+_Music Supervision:_ Laurent Garnier  
+_Sound:_ David Job, Bob Foresta, Gabin Rivoire, Olivier Ronval  
+_Sound Editing:_  Guillaume Marique  
+_Sound Mixing:_  Mathieu Cox  
+_Translation:_ Frédéric Génicot, Elliot Rivoire  
 
-**With**
-Laurent Garnier
-Kerri Chandler
-Derrick May
-DJPierre
-Richie Hawtin
-Seth Troxler
-Didier Varrod
-Jean Yves Leloup
-Abd Al Malik
-Carl Cox
-Jeff Mills
-The Black Madonna
-Peggy Gou
-Miss Kittin
-Matthieu Chedid
-Georgia Taglietti
-Eric Morand
-Pedro Winter
-Jacques
-S3A
-Rosh
-Dani Jacobs
-Paul Cons
-Dave Haslam
-Lenny Dee
-Nina Kraviz
-Helena Hauff
-Charlotte De Witte
-DJ Deep
-Peter Decuypere
-Christian Paulet
-Chez Damier
-Ellen Alien
-Mad Mike
-Kenny Larkin
-Kevin Saunderson
-Carl Craig
-Modeselektor
-Stefen Charles
-Franck De Wulf
-Manu Le Malin
-Marcel Dettmann
-Jack Lang
-Scan X
-Vincent Carry
-Quentin Dupieux
-Sven Vath
-Paul Van Dyk
-Thomas Roussel
-Arnaud Contreras
+**With**  
+Laurent Garnier  
+Kerri Chandler  
+Derrick May  
+DJPierre  
+Richie Hawtin  
+Seth Troxler  
+Didier Varrod  
+Jean Yves Leloup  
+Abd Al Malik  
+Carl Cox  
+Jeff Mills  
+The Black Madonna  
+Peggy Gou  
+Miss Kittin  
+Matthieu Chedid  
+Georgia Taglietti  
+Eric Morand  
+Pedro Winter  
+Jacques  
+S3A  
+Rosh  
+Dani Jacobs  
+Paul Cons  
+Dave Haslam  
+Lenny Dee  
+Nina Kraviz  
+Helena Hauff  
+Charlotte De Witte  
+DJ Deep  
+Peter Decuypere  
+Christian Paulet  
+Chez Damier  
+Ellen Alien  
+Mad Mike  
+Kenny Larkin  
+Kevin Saunderson  
+Carl Craig  
+Modeselektor  
+Stefen Charles  
+Franck De Wulf  
+Manu Le Malin  
+Marcel Dettmann  
+Jack Lang  
+Scan X  
+Vincent Carry  
+Quentin Dupieux  
+Sven Vath  
+Paul Van Dyk  
+Thomas Roussel  
+Arnaud Contreras  
 
 UK-France 2021  
 93 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjAyOTE4NTldfQ==
+eyJoaXN0b3J5IjpbLTMyNTU4NDQzNV19
 -->
