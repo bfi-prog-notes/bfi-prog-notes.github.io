@@ -20,7 +20,7 @@ I think the most interesting character is the poet. He comes out with more digni
 
 I think that Wiseman in the novel is extremely unfair to the woman, and probably unfair to the poet. In the film the poet comes off best and the novelist next best and the woman worst; and I’m sorry in a way that it works out like this, because I’m not – in spite of my reputation – anti-woman.
 
-_Did the development of her part have any connection in your mind with  _A Doll’s House_?_
+_Did the development of her part have any connection in your mind with  A Doll’s House?_
 
 Yes, but not in the way I wanted. I like _A Doll’s House_, although the experience was not a very good one, and I didn’t want to do anything after _A Doll’s House_ that could contribute to the wrong ideas about it. But the point of view which is in both the film and the novel is that the romantic Englishwoman was voracious – she wanted everything, and her idea of romance was total bourgeois consumption of man.
 
@@ -30,37 +30,36 @@ I’ve said jokingly that I’m a romantic Marxist. I never meant romantic strai
 
 It’s probably wrong to talk about it before I know whether it works, but there is one thing in _The Romantic Englishwoman_ ... In the scenes in the house at Weybridge (it’s Weybridge in the film, not Hampstead), almost every sequence involves a mirror or a reflection, because I wanted to convey that their reality was totally unreal. I said that I was going to use mirrors to death in the house, and that I wouldn’t use them anywhere outside it – and I succeeded until I got to the Baden Baden casino, where there were so many mirrors that there was no way of avoiding them.
 
-Interview by Richard Combs, _Sight and Sound_, Summer 1975
+**Interview by Richard Combs, _Sight and Sound_, Summer 1975**
+<br><br>
 
-<![endif]-->
+**THE ROMANTIC ENGLISHWOMAN**<br>
 
-**THE ROMANTIC ENGLISHWOMAN**
+_Directed by:_ Joseph Losey<br>
 
-_Directed by:_ Joseph Losey
+©: National Film Trustee Company Ltd<br>
 
-©: National Film Trustee Company Ltd
+_Production Companies:_ Dial Films, Méric-Matalon<br>
 
-_Production Companies:_ Dial Films, Méric-Matalon
+_Presented by:_ Daniel M. Angel<br>
 
-_Presented by:_ Daniel M. Angel
+_A_ Fox-Rank _release_<br>
 
-_A_ Fox-Rank _release_
+_Produced by:_ Daniel M. Angel<br>
 
-_Produced by:_ Daniel M. Angel
+_Associate Producer:_ Richard F. Dalton<br>
 
-_Associate Producer:_ Richard F. Dalton
+_Assistant Director:_ Anthony Waye<br>
 
-_Assistant Director:_ Anthony Waye
+_Continuity:_ Pamela Davies<br>
 
-_Continuity:_ Pamela Davies
+_Casting:_ Mary Selway<br>
 
-_Casting:_ Mary Selway
+_Screenplay by:_ Tom Stoppard, Thomas Wiseman<br>
 
-_Screenplay by:_ Tom Stoppard, Thomas Wiseman
+_From the novel by:_ Thomas Wiseman<br>
 
-_From the novel by:_ Thomas Wiseman
-
-_Director of Photography:_ Gerry Fisher
+_Director of Photography:_ Gerry Fisher<br>
 
 _Camera Operator:_ Gerry Anstiss
 
@@ -168,5 +167,5 @@ UK-France 1975©
 
 116 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDgxMTE0NV19
+eyJoaXN0b3J5IjpbLTE2NzA0OTkzMTRdfQ==
 -->
