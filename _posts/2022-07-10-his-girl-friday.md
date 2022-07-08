@@ -15,64 +15,47 @@ Perhaps, with _Bringing Up Baby_, (1938) _Only Angels Have Wings_ (1939) and  _H
 **Laura Mulvey, _Sight & Sound_, March 1997**  
 
 **HIS GIRL FRIDAY**  
-_Directed by:_ Howard Hawks
-©: Columbia Pictures Corporation
-_Production Company:_ Columbia Pictures Corporation
-_Presented by:_ Columbia Pictures Corporation
-_Screen Play by:_ Charles Lederer
-_From the play_ The Front Page _by:_ Ben Hecht, Charles MacArthur
-_As Produced by:_ Jed Harris
-_Director of Photography:_ Joseph Walker
-_Film Editor:_ Gene Havlick
-_Art Direction:_ Lionel Banks
-_Gowns by:_ Kalloch
-_Musical Director:_ M.W. Stoloff
-_Sound System:_ Western Electric Mirrophonic
-_uncredited_
-_Producer:_ Howard Hawks
-_Assistant Director:_ Cliff Broughton
-_Sound:_ Lodge Cunningham
+_Directed by:_ Howard Hawks  
+©: Columbia Pictures Corporation  
+_Production Company:_ Columbia Pictures Corporation  
+_Presented by:_ Columbia Pictures Corporation  
+_Screen Play by:_ Charles Lederer  
+_From the play_ The Front Page _by:_ Ben Hecht, Charles MacArthur  
+_As Produced by:_ Jed Harris  
+_Director of Photography:_ Joseph Walker  
+_Film Editor:_ Gene Havlick  
+_Art Direction:_ Lionel Banks  
+_Gowns by:_ Kalloch  
+_Musical Director:_ M.W. Stoloff  
+_Sound System:_ Western Electric Mirrophonic  
+_uncredited_  
+_Producer:_ Howard Hawks  
+_Assistant Director:_ Cliff Broughton  
+_Sound:_ Lodge Cunningham  
 
-**Cast**
-Cary Grant _(Walter Burns)_
-Rosalind Russell _(Hildy Johnson)_
+**Cast**  
+Cary Grant _(Walter Burns)_  
+Rosalind Russell _(Hildy Johnson)_  
+Ralph Bellamy _(Bruce Baldwin)_  
+Gene Lockhart _(Sheriff Peter B. Hartwell)_  
+Helen Mack _(Mollie Malloy)_  
+Porter Hall _(Murphy)_  
+Ernest Truex _(Roy V. Bensinger)_  
+Cliff Edwards _(Endicott)_  
+Clarence Kolb _(Fred, the mayor)_  
+Roscoe Karns _(McCue)_  
+Frank Jenks _(Wilson)_  
+Regis Toomey _(Sanders)_  
+Abner Biberman _(Diamond Louie)_  
+Frank Orth _(Duffy)_  
+John Qualen _(Earl Williams)_  
+Alma Kruger _(Mrs Baldwin)_  
+Billy Gilbert _(Joe Pettibone)_  
+Pat West _(Warden Cooley)_  
+Edwin Maxwell _(Dr Max J. Egelhoffer)_  
 
-Ralph Bellamy _(Bruce Baldwin)_
-
-Gene Lockhart _(Sheriff Peter B. Hartwell)_
-
-Helen Mack _(Mollie Malloy)_
-
-Porter Hall _(Murphy)_
-
-Ernest Truex _(Roy V. Bensinger)_
-
-Cliff Edwards _(Endicott)_
-
-Clarence Kolb _(Fred, the mayor)_
-
-Roscoe Karns _(McCue)_
-
-Frank Jenks _(Wilson)_
-
-Regis Toomey _(Sanders)_
-
-Abner Biberman _(Diamond Louie)_
-
-Frank Orth _(Duffy)_
-
-John Qualen _(Earl Williams)_
-
-Alma Kruger _(Mrs Baldwin)_
-
-Billy Gilbert _(Joe Pettibone)_
-
-Pat West _(Warden Cooley)_
-
-Edwin Maxwell _(Dr Max J. Egelhoffer)_
-
-USA 1939©
-92 mins
+USA 1939©  
+92 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQxMDAzNTldfQ==
+eyJoaXN0b3J5IjpbLTExMTgyOTI2NDFdfQ==
 -->
