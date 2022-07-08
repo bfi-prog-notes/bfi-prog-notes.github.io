@@ -34,7 +34,7 @@ _Art Director:_ Bansi Chandragupta
 _Music:_ Ravi Shankar  
 _Sound:_ Durgadas Mitra
 
-_Cast:_
+**Cast**  
 Soumitra Chatterjee _(Apu)_  
 Sarmila Tagore _(Aparna)_  
 Alok Chakravarti _(Kajal)_  
@@ -43,17 +43,15 @@ Dhiresh Majumdar _(Sasinarayan)_
 Sefalika Devi _(Sasinarayan’s wife)_  
 Dhiren Ghosh _(landlord)_
 
-India 1959
-
+India 1959  
 106 mins
 
-* Uncredited
+*Uncredited
 
-New 4K restoration made by the  
-Criterion Collection in collaboration with the Academy Film Archive at the Academy of Motion Picture Arts and Sciences
+New 4K restoration made by the  Criterion Collection in collaboration with the Academy Film Archive at the Academy of Motion Picture Arts and Sciences
 
-The screening on Sat 30 Jul will feature a  
-pre-recorded intro
+The screening on Sat 30 Jul will feature a  pre-recorded intro
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDM5ODQyMF19
+eyJoaXN0b3J5IjpbLTEwOTUzODgwNzZdfQ==
 -->
