@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Railway Children Return
+published: true
+date: 2022-07-10
+readtime: true
+categories: ['FAMILIES']
+tags: [Children]
+metadata: 'UK 2022, 98 mins<br> Director: Morgan Matthews'
+pdf: '2022-07-10-railway-children-return.pdf'
+---
 
 +_Q&A with writer Danny Brocklehurst, director Morgan Matthews, producer Jemma Rodgers and actors Jenny Agutter, KJ Aikens, John Bradley, Beau Gadsden, Eden Hamilton, Austin Haynes and Zac Cudby._  
 
@@ -25,8 +35,7 @@ _©_: Studiocanal Limited
 _Production Company_: Junction Films  
 _Presented by_: Studiocanal  
 _International Sales_: Studiocanal  
-_Executive Producer_:s Anna Marsh, Alex Hamilton,
-Dan MacRae  
+_Executive Producer_:s Anna Marsh, Alex Hamilton, Dan MacRae  
 _Produced by_: Jemma Rodgers  
 _Line Producer_: Steve Newton  
 _Production Accountant_: Paul Hills  
@@ -38,7 +47,7 @@ _Script Supervisor_: Gabrielle Wood
 _Casting Director_: Kate Ringsell  
 _Screenplay by_: Danny Brocklehurst  
 _Based on a Treatment by_: Jemma Rodgers  
-_Inspired by the Lionel Jeffries film_ 'he Railway Children _and the characters created by_: Lionel Jeffries, E. Nesbit  
+_Inspired by the Lionel Jeffries film_ The Railway Children _and the characters created by_: Lionel Jeffries, E. Nesbit  
 _Director of Photography_: Kit Fraser  
 _2nd Unit Director of Photography_: Richard Bevan  
 _Special Effects_: Scott MacIntyre, Iain Mcdonald  
@@ -100,6 +109,21 @@ UK 2022
 98 mins  
 
 _Courtesy of StudioCanal_  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwMzAzOTM5XX0=
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
