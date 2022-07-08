@@ -34,23 +34,23 @@ A true music enthusiast, well beyond techno, (he owns more than 55 000 vinyls an
 Constantly evolving as an artist he has woven electro into the classical music of Salle Pleyel and composed a ballet for Preljocaj in collaboration with the dancers of the Bolshoi. He collaborates with many artists coming from universes as diverse as Abd Al Malik or The Liminanas.
 
 In 2017, he celebrated his 30th career birthday at the Rex Club and the same month received the ‘Knight of the Legion of Honor’ from Jack Lang.  
-**Production notes**
+**Production notes**  
 
-**LAURENT GARNIER: OFF THE RECORD**
-_Director:_  Gabin Rivoire
-_Executive Producer:_  Sebastien Raybaud
-_Producer:_  Julien Loeffler
-_Co-Producers:_  Stephane Rigotti, Christian Loiseau, Alexandrine Duez
-_Associate Producers:_ Thierry Detaille, Fabrice Smadja, James Kermack, Emilie Robert
-_Location Manager:_ Benjamin Wautier
-_Directors_ of Photography:_ Gabin Rivoire, David Job
-_B_ Camera Operators:_ Valentin Feraud, Antoine Feraud, Fabien Pouillault
-_Aerial Shots:_ Bob Foresta, Christophe Appel, Jeremie Gabrien
-_Editor:_ Antoine Gazaniol
-_Assistant Editors:_ Valentin Feraud, Antoine Feraud, Laurie Di Marino, Marin Dessalle
-_Post Production:_  Serge Nagels, Celine Grudniewski, Young Kyun-Gans
-_Color Grading:_  Mathieu Cauville
-_Archive_ _Digitisation:_ Mathieu Brandao, Sonia Darbois, Arthur Galiano, Aude Jarry
+**LAURENT GARNIER: OFF THE RECORD**  
+_Director:_  Gabin Rivoire  
+_Executive Producer:_  Sebastien Raybaud  
+_Producer:_  Julien Loeffler  
+_Co-Producers:_  Stephane Rigotti, Christian Loiseau, Alexandrine Duez  
+_Associate Producers:_ Thierry Detaille, Fabrice Smadja, James Kermack, Emilie Robert  
+_Location Manager:_ Benjamin Wautier  
+_Directors of Photography:_ Gabin Rivoire, David Job  
+_B Camera Operators:_ Valentin Feraud, Antoine Feraud, Fabien Pouillault  
+_Aerial Shots:_ Bob Foresta, Christophe Appel, Jeremie Gabrien  
+_Editor:_ Antoine Gazaniol  
+_Assistant Editors:_ Valentin Feraud, Antoine Feraud, Laurie Di Marino, Marin Dessalle  
+_Post Production:_  Serge Nagels, Celine Grudniewski, Young Kyun-Gans  
+_Color Grading:_  Mathieu Cauville  
+_Archive Digitisation:_ Mathieu Brandao, Sonia Darbois, Arthur Galiano, Aude Jarry  
 _Motion Design:_  Victor Rahman
 _Make-up:_  Mathieu De Mayer
 _Original_ _Music:_ Laurent Garnier
@@ -92,47 +92,28 @@ Charlotte De Witte
 DJ Deep
 Peter Decuypere
 Christian Paulet
-
 Chez Damier
-
 Ellen Alien
-
 Mad Mike
-
 Kenny Larkin
-
 Kevin Saunderson
-
 Carl Craig
-
 Modeselektor
-
 Stefen Charles
-
 Franck De Wulf
-
 Manu Le Malin
-
 Marcel Dettmann
-
 Jack Lang
-
 Scan X
-
 Vincent Carry
-
 Quentin Dupieux
-
 Sven Vath
-
 Paul Van Dyk
-
 Thomas Roussel
-
 Arnaud Contreras
 
-UK-France 2021
-93 mins
+UK-France 2021  
+93 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTE5NjU1ODddfQ==
+eyJoaXN0b3J5IjpbLTE2MjAyOTE4NTldfQ==
 -->
