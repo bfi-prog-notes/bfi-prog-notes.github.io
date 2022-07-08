@@ -1,3 +1,14 @@
+---
+layout: post
+title: Brian and Charles
+published: true
+date: 2022-07-08
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Comedy]
+metadata: 'UK 2022, 90 mins<br> Director: Jim Archer'
+pdf: '2022-07-08-brian-and-charles.pdf'
+---
 
 **Director’s Statement**  
 _Brian and Charles_ is about a lot of things. I wouldn’t want to dictate to anyone who watches it what interpretation they should have. Primarily, it’s about loneliness and the power of friendship and companionship. Charles is such a blank slate that you can put a lot of interpretations onto him and I think it works. When we made the short (which inspired the film), we got a lot of comments about how people related to their relationship to the characters in totally different ways, whether it is raising a child or having a parent with dementia. Therefore, whatever interpretation you have, you are CORRECT! But also, it is there just to make you laugh.
@@ -105,6 +116,21 @@ Nicholas Asbury _(Stu)_
 
 UK 2022  
 90 mins  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjQ5MzgxM119
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
