@@ -60,10 +60,10 @@ _Dialogue Editor_: Alexej Mungersdorff
 _Sound Effects Editor_: Jamie McPhee
 _Stunt Co-ordinator_: Gary Kane  
 _Dialect Coach_: Elspeth Morrison  
-_Armourer_: Scott MacIntyre, Iain Mcdonald  
+_Armourer_: Scott MacIntyre, Iain McDonald  
 _Animal Wrangler_: Sue Clark Animals  
 
-**Cast:**   
+**Cast:**  
 Jenny Agutter _(Bobbie Waterbury)_  
 Sheridan Smith _(Annie)_  
 Beau Gadsdon _(Lily Watts)_  
@@ -94,12 +94,12 @@ Gabriel Freilich _(Rouse, Military Police)_
 Peter Youngblood Hills _(Military Police)_  
 Eddie Caswell _(station master)_  
 Elliot Benn _(police officer)_  
-Andrew Ellis _(2nd police officer)_
+Andrew Ellis _(2nd police officer)_  
 
 UK 2022  
 98 mins  
 
 _Courtesy of StudioCanal_  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODk2NDUwMDddfQ==
+eyJoaXN0b3J5IjpbMjgwMzAzOTM5XX0=
 -->
