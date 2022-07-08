@@ -5,8 +5,7 @@
 **What’s it about?**  
 A group of children are evacuated to a village in Yorkshire during WWII, where a retired head teacher has set up a school for them. Soon, some of the youngsters find a soldier who’s hiding away far from home... In this much-anticipated follow up to the beloved original, Jenny Agutter revisits the iconic role of Bobbie over 50 years on.  
 
-**The Genesis of the Film**
-
+**The Genesis of the Film**  
 ‘My adopted daughter had come home from primary school, where she’d been learning about the evacuee children in World War II,’ recalls producer Jemma Rodgers about the origins of the project.
 
 ‘Because her journey to us as an adopted child had been via a train and she’d shared the experience of the evacuee children, being moved on a train to a new family, it affected her profoundly.’
@@ -17,11 +16,11 @@ The story of children – Bobbie (Jenny Agutter), Phyllis (Sally Thomsett) and P
 
 As Rodgers watched the film with her daughters in 2018, inspiration hit. As a former resident of Haworth, the location for Jeffries’ film, Rodgers realised that all the places in the film were unchanged in the 21st century. ‘I got to the end of the film and I thought, “Why hasn’t anyone done a sequel?” All the locations are exactly the same!
 
-‘I literally stopped watching the film, went to my office, and started looking at the numbers. If Bobbie is 16 in the original film, to set it in World War II she would have to have been in her fifties. I started concocting a plan: if Bobbie was a grandma, then she’d have to have a daughter. And then the evacuee kids would come from the city, so there was a change when they moved to the country…’
-**Production notes**
+‘I literally stopped watching the film, went to my office, and started looking at the numbers. If Bobbie is 16 in the original film, to set it in World War II she would have to have been in her fifties. I started concocting a plan: if Bobbie was a grandma, then she’d have to have a daughter. And then the evacuee kids would come from the city, so there was a change when they moved to the country…’  
+**Production notes**  
 
-**THE RAILWAY CHILDREN RETURN**_
-Directed by_: Morgan Matthews  
+**THE RAILWAY CHILDREN RETURN**  
+_Directed by_: Morgan Matthews  
 _©_: Studiocanal Limited  
 _Production Company_: Junction Films  
 _Presented by_: Studiocanal  
@@ -62,9 +61,9 @@ _Sound Effects Editor_: Jamie McPhee
 _Stunt Co-ordinator_: Gary Kane  
 _Dialect Coach_: Elspeth Morrison  
 _Armourer_: Scott MacIntyre, Iain Mcdonald  
-_Animal Wrangler_: Sue Clark Animals
+_Animal Wrangler_: Sue Clark Animals  
 
-**Cast:**  
+**Cast:**   
 Jenny Agutter _(Bobbie Waterbury)_  
 Sheridan Smith _(Annie)_  
 Beau Gadsdon _(Lily Watts)_  
@@ -102,5 +101,5 @@ UK 2022
 
 _Courtesy of StudioCanal_  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1MjUzNDU3XX0=
+eyJoaXN0b3J5IjpbLTEzODk2NDUwMDddfQ==
 -->
