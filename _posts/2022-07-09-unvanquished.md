@@ -47,9 +47,8 @@ Bhaganu Palwan _(Palwan)_<br>
 India 1956<br>
 110 mins
 
-New 4K restoration made by the  
-Criterion Collection in collaboration with the Academy Film Archive at the Academy of Motion Picture Arts and Sciences<br>
+New 4K restoration made by the  Criterion Collection in collaboration with the Academy Film Archive at the Academy of Motion Picture Arts and Sciences<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjM4NjA1Ml19
+eyJoaXN0b3J5IjpbLTE5NTIzOTE1MzBdfQ==
 -->
