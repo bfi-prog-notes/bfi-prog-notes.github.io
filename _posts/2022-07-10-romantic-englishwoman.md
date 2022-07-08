@@ -34,138 +34,76 @@ It’s probably wrong to talk about it before I know whether it works, but there
 <br><br>
 
 **THE ROMANTIC ENGLISHWOMAN**<br>
-
 _Directed by:_ Joseph Losey<br>
-
 ©: National Film Trustee Company Ltd<br>
-
 _Production Companies:_ Dial Films, Méric-Matalon<br>
-
 _Presented by:_ Daniel M. Angel<br>
-
 _A_ Fox-Rank _release_<br>
-
 _Produced by:_ Daniel M. Angel<br>
-
 _Associate Producer:_ Richard F. Dalton<br>
-
 _Assistant Director:_ Anthony Waye<br>
-
 _Continuity:_ Pamela Davies<br>
-
 _Casting:_ Mary Selway<br>
-
 _Screenplay by:_ Tom Stoppard, Thomas Wiseman<br>
-
 _From the novel by:_ Thomas Wiseman<br>
-
 _Director of Photography:_ Gerry Fisher<br>
-
 _Camera Operator:_ Gerry Anstiss<br>
-
 _Editor:_ Reginald Beck<br>
-
 _Assistant Editor:_ Michael Ellis<br>
-
 _Production Designer:_ Richard MacDonald<br>
-
 _Assistant Art Director:_ Richard Rambaut<br>
-
 _Production Buyer:_ Jill Quertier<br>
-
 _Costume Designer:_ Ruth Myers<br>
-
 _Costume Supervisor:_ Elsa Fennell<br>
-
 _Make-up Artists:_ Bob Lawrence, Philip Leakey<br>
-
 _Hairdresser:_ Anne McFadyen<br>
-
 _Filmed with:_ Panavision Equipment<br>
-
 _Processed by:_ Rank Film Laboratories<br>
-
 _Music Composed, Conducted and Arranged by:_ Richard Hartley<br>
-
-_Sound Recordists:_ Peter Handford,  
-Gerry Humphreys<br>
-
+_Sound Recordists:_ Peter Handford,  Gerry Humphreys<br>
 _Dubbing Editor:_ Peter Horrocks<br>
 
 _uncredited_<br>
-
 _Assistant Director:_ Yves Amoureux<br>
-
 _2nd Assistant Director:_ Gerry Gavigan<br>
-
 _3rd Assistant Director:_ Peter Waller<br>
-
 _Location Unit Director:_ Terry Hodginkson<br>
-
 _Stills:_ Barrie Payne<br>
-
-_Costume Designer for Glenda Jackson:_  
-Alice Pollack<br>
-
+_Costume Designer for Glenda Jackson:_  Alice Pollack<br>
 _Colour by:_ Eastmancolor<br>
-
 _Foley Editor:_ John Ireland<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Glenda Jackson _(Elizabeth Fielding)_<br>
-
 Michael Caine _(Lewis Fielding)_<br>
-
 Helmut Berger _(Thomas Hursa)_<br>
-
 Michel Lonsdale _(Swan)_<br>
-
 Béatrice Romand _(Catherine)_<br>
-
 Kate Nelligan _(Isabel)_<br>
-
 Nathalie Delon _(Miranda)_<br>
-
 Rene Kolldehoff _(Herman)_<br>
-
 Anna Steele _(Annie)_<br>
-
 Marcus Richardson _(David Fielding)_<br>
-
 Julie Peasgood _(new nanny)_<br>
-
 Frankie Jordan _(supermarket cashier)_<br>
-
 Tom Chatto _(neighbour)_<br>
-
 Frances Tomelty _(airport shop assistant)_<br>
-
 Lillias Walker _(1st mealticket lady)_<br>
-
 Doris Nolan _(2nd mealticket lady)_<br>
-
 Phil Brown _(Mr Wilson)_<br>
-
 Marcella Markham _(Mrs Wilson)_<br>
-
 Norman Scace _(head waiter)_<br>
-
 Bill Wallis _(Hendrik)_<br>
-
 David De Keyser _(George)_<br>
 
 _uncredited_<br>
-
 Margaret Rawlings _(distraught woman)_<br>
-
 Julie Green _(1st stripper)_<br>
+Yvonne Ocampo _(2nd stripper)_<br>
 
-Yvonne Ocampo _(2nd stripper)_
-
-UK-France 1975©
-
-116 mins
+UK-France 1975©<br>
+116 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTcwMjEwMF19
+eyJoaXN0b3J5IjpbMjI3NDcxODAsMjAzOTcwMjEwMF19
 -->
