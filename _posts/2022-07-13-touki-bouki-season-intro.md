@@ -60,103 +60,90 @@ _Many of the films in the programme somehow are invested in pleasure and beauty 
 The question, truly, is what do spaces of liberation look like, taste like, feel like? They’re not necessarily finished spaces, but part of articulating these spaces is an insistence and assertion on our right towards beauty. Beauty isn’t dichotomous to political intent. It’s not dichotomous to a liberation struggle.  
 In some ways it helps us formulate what actually matters, to hold on to the fragility and the wonder of our existence.
 
-Ekow Eshun in conversation with Chrystel Oloukoï, bfi.org.uk, 5 July 2022
+**Ekow Eshun in conversation with Chrystel Oloukoï, bfi.org.uk, 5 July 2022**
 
 **Ekow Eshun** is a writer, curator, journalist and broadcaster based in London, whose writing has appeared in publications including _The New York Times, The Financial Times_, _The_ _Guardian_ and _Vogue_. Director of the Institute of Contemporary Arts, London, from 2005 to 2010, and a frequent contributor to BBC radio and television programmes, his previous books include _Black Gold of the Sun: Searching for Home in England and Africa_, published in 2005.
+<br><br>
 
-<![endif]-->
+**TOUKI BOUKI**<br>
+_Director:_ Djibril Diop Mambéty *<br>
+_Production Company:_ Cinegrit<br>
+_Production Managers:_ Lamine Ba Carlos,  Ousmane Sow<br>
+_Collaboration on Exteriors:_ Fenouil, Manuel De Kset<br>
+_Production Assistant:_ Medoune Faye<br>
+_1st Assistant Director:_ Momar Thiam<br>
+_2nd Assistant Director:_ Ben Diogaye Beye<br>
+_Screenplay:_ Djibril Diop Mambéty *<br>
+_Director of Photography:_ Pap Samba Sow<br>
+_Director of Photography:_ Georges Bracher *<br>
+_Grip:_ Alioune N’Diaye<br>
+_Stills Photography:_ Aziz Diop Mambéty<br>
 
-**TOUKI BOUKI**
+_Editors:_ Siro Asteni, Emma Mennenti *<br>
 
-_Director:_ Djibril Diop Mambéty *
+_Art Director:_ Aziz Diop Mambéty<br>
 
-_Production Company:_ Cinegrit
-
-_Production Managers:_ Lamine Ba Carlos,  
-Ousmane Sow
-
-_Collaboration on Exteriors:_ Fenouil, Manuel De Kset
-
-_Production Assistant:_ Medoune Faye
-
-_1st Assistant Director:_ Momar Thiam
-
-_2nd Assistant Director:_ Ben Diogaye Beye
-
-_Screenplay:_ Djibril Diop Mambéty *
-
-_Director of Photography:_ Pap Samba Sow
-
-_Director of Photography:_ Georges Bracher *
-
-_Grip:_ Alioune N’Diaye
-
-_Stills Photography:_ Aziz Diop Mambéty
-
-_Editors:_ Siro Asteni, Emma Mennenti *
-
-_Art Director:_ Aziz Diop Mambéty
-
-_Costumes:_ Aziz Diop Mambéty
+_Costumes:_ Aziz Diop Mambéty<br>
 
 _Music:_ Josephine Baker, Mado Robin,  
-Aminata Fall *
+Aminata Fall *<br>
 
-_Sound Recording:_ El Hadji Mbow
+_Sound Recording:_ El Hadji Mbow<br>
 
-_Sound Assistant:_ Mawa Gaye
+_Sound Assistant:_ Mawa Gaye<br>
 
-_Assistant:_ Sy Abdoulaye
+_Assistant:_ Sy Abdoulaye<br>
 
-_Cast:_
+_Cast:_<br>
 
-Magaye Niang _(Mory)_
+Magaye Niang _(Mory)_<br>
 
-Mareme Niang _(Anta)_
+Mareme Niang _(Anta)_<br>
 
-Christophe Colomb
+Christophe Colomb<br>
 
-Moustapha Toure
+Moustapha Toure<br>
 
-Aminata Fall _(Aunt Oume)_
+Aminata Fall _(Aunt Oume)_<br>
 
-Ousseynou Diop _(Charlie)_
+Ousseynou Diop _(Charlie)_<br>
 
-Fernand Dalfin
+Fernand Dalfin<br>
 
-Al Demba
+Al Demba<br>
 
-Dieynaba Dieng
+Dieynaba Dieng<br>
 
-Assane Faye
+Assane Faye<br>
 
-Robbie Lawson
+Robbie Lawson<br>
 
-Aliou N’Diaye
+Aliou N’Diaye<br>
 
-Omar Seck
+Omar Seck<br>
 
-Colette Simon
+Colette Simon<br>
 
-Langouste
+Langouste<br>
 
-_With the voices of:_
+_With the voices of:_<br>
 
-Josephine Baker
+Josephine Baker<br>
 
-Mado Robin
+Mado Robin<br>
 
-Aminata Fall
+Aminata Fall<br>
 
-Senegal 1973
+Senegal 1973<br>
 
 88 mins (Total running time 125 mins)
 
-* Uncredited
+*Uncredited
 
 **Contains a scene of animal slaughter which some viewers will find distressing**
 
-Restored in 2008 by The World Cinema Foundation at Cineteca di Bologna/L’Immagine Ritrovata in association with the family of Djibril Diop Mambéty. Restoration funding provided by Armani, Cartier, Qatar Airways and Qatar Museum Authority.
+Restored in 2008 by The World Cinema Foundation at Cineteca di Bologna/L’Immagine Ritrovata in association with the family of Djibril Diop Mambéty. Restoration funding provided by Armani, Cartier, Qatar Airways and Qatar Museum Authority.<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk0MTQwMl19
+eyJoaXN0b3J5IjpbLTkyMTgxMzk5XX0=
 -->
