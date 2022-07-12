@@ -28,8 +28,7 @@ In a film so obtrusively divided down the middle, the one harmonising factor is 
 <br><br>
 
 **THE ADVENTURES OF GOOPY AND BAGHA  
-(GOOPY GYNE BAGHA BYNE)**
-
+(GOOPY GYNE BAGHA BYNE)**  
 _Director_: Satyajit Ray  
 _Production Company_: Purnima Pictures  
 _Producers_: Nepal Dutta, Asim Dutta  
@@ -44,8 +43,7 @@ _Goopy’s Songs Sung by_: Anup Kumar Ghosal
 _Choreography_: Sambhunath Bhattacharya  
 _Sound_: Nripen Paul, Atul Chatterjee, Sujit Sarkar
 
-_Cast:_
-
+**Cast**  
 Tapen Chatterjee _(Goopy)_  
 Rabi Ghosh _(Bagha)_  
 Santosh Dutta _(King of Halla/King of Shundi)_  
@@ -56,20 +54,16 @@ Chinmoy Roy _(spy of Halla)_
 Durgadas Bannerjee _(King of Amloki)_  
 Gobinda Chakravarti _(Goopy’s father)_  
 Prasad Mukherjee _(King of Ghosts)_  
-Haridhan Mukherjee_,_ Abani Chatterjee_,  
-_Khagen Pathak_,_ Binoy Bose_,_ Prasad Mukherjee_  
-(village elders)_  
-Joykrishna Sanyal_,_ Tarun Mitra, Ratan Banerjee, Kartik Chatterjee _(singers at the court of Shundi)_  
+Haridhan Mukherjee, Abani Chatterjee, Khagen Pathak, Binoy Bose, Prasad Mukherjee _(village elders)_  
+Joykrishna Sanyal, Tarun Mitra, Ratan Banerjee, Kartik Chatterjee _(singers at the court of Shundi)_  
 Gopal Dey _(executioner)_  
-Ajoy Banerjee_,_ Sailen Ganguli_,_ Moni Srimani_,  
-_Binoy Bose_,_ Kartik Chatterjee _(visitors to Halla)_
+Ajoy Banerjee, Sailen Ganguli, Moni Srimani, Binoy Bose, Kartik Chatterjee _(visitors to Halla)_
 
-India 1968
-
+India 1968  
 132 mins
 
-Restored by the Satyajit Ray Preservation Project  
-at the Academy Film Archive
+Restored by the Satyajit Ray Preservation Project  at the Academy Film Archive
+<br><
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5NDU3NDcxXX0=
+eyJoaXN0b3J5IjpbLTE0MTk2NTE3MjFdfQ==
 -->
