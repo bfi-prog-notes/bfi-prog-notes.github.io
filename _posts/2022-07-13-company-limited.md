@@ -31,21 +31,18 @@ _On a political level, your films are strongly critical of the executive class, 
 Absolutely. Even the British we had to understand, because the whole intellectual middle class of India is a product of British rule. Without the colonialism and the British education, there would have been no terrorism.  
 The British gave the Bengalis a liberal education, which ultimately turned them into revolutionaries. And it’s ironical that the British really created their own enemies. It took about a hundred years, and the beginning of this development is described in _Charulata_, when they start through newspapers to question the British rule. And in the early 20th century you have the first terrorist movement against the British. That had no support from the peasants or the working class. It was a small intellectual group, whose leaders had read all the revolutionary literature, Garibaldi and the rest. They wanted to get rid of the British, and they thought: why not throw bombs at them? It didn’t achieve anything; it was just an emotional gesture. But emotional gestures fascinate me more than ideological gestures.
 
-_In_ Company Limited_, how far are you suggesting that the main character is essentially a product of bad social circumstances, rather than bad in himself?_
+_In_ Company Limited _, how far are you suggesting that the main character is essentially a product of bad social circumstances, rather than bad in himself?_
 
 It is certainly the system that makes him what he is. He’s part of a bureaucratic and commercial machine, which has no place for one single man. If you want to live in a society, you immediately become part of the pattern, and that drives you into something you may not have been from the beginning. This man clearly has two sides: he has his private feelings and his conscience, but the system forces him to dissemble them and to think only of his security and advancement. But it’s an open film and it doesn’t make any final statement.
 
-_The bombings one hears in_ Company Limited_, from the big flat of the business man above Calcutta ... are those explosions set off by left-wing groups?_
+_The bombings one hears in_ Company Limited _, from the big flat of the business man above Calcutta ... are those explosions set off by left-wing groups?_
 
-Yes, and the irony is that very often they are caused by Left fighting Left.  
-The tragedy is that the Left is split into so many groups, who are their own bitterest enemies. They don’t fight the liberals or the conservatives. They don’t attack the real targets, like the big industrialists, because they are afraid of losing. Instead, they attack each other.
+Yes, and the irony is that very often they are caused by Left fighting Left.  The tragedy is that the Left is split into so many groups, who are their own bitterest enemies. They don’t fight the liberals or the conservatives. They don’t attack the real targets, like the big industrialists, because they are afraid of losing. Instead, they attack each other.
 
-Interview by Christian Braad Thomsen, _Sight and Sound_, Winter 1972/3
+**Interview by Christian Braad Thomsen, _Sight and Sound_, Winter 1972/3**
+<br><br>
 
-<![endif]-->
-
-**COMPANY LIMITED (SEEMABADDHA)**
-
+**COMPANY LIMITED (SEEMABADDHA)**  
 _Director_: Satyajit Ray  
 _Production Company_: Chitranjali  
 _Producer_: Bharat Shamsher Jung Bahadur Rana  
@@ -57,8 +54,7 @@ _Art Director_: Asok Bose
 _Music_: Satyajit Ray  
 _Sound_: J.D. Irani, Durgadas Mitra
 
-_Cast:_
-
+**Cast**  
 Barun Chanda _(Syamal Chatterjee)_  
 Sharmila Tagore _(Sudarsana, known as Tutul)_  
 Parumita Chowdhury _(Syamal’s wife)_  
@@ -67,12 +63,11 @@ Haradhan Banerjee _(Talukdar)_
 Indira Roy _(Syamal’s mother)_  
 Promod Ganguli _(Syamal’s father)_
 
-India 1971
-
+India 1971  
 112 mins
 
-Restored by the Satyajit Ray Preservation Project  
-at the Academy Film Archive with funding from the Film Foundation. Print courtesy of the Academy Film Archive
+Restored by the Satyajit Ray Preservation Project  at the Academy Film Archive with funding from the Film Foundation. Print courtesy of the Academy Film Archive<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTQ2OTk5M119
+eyJoaXN0b3J5IjpbLTUyNDI4MjAxNF19
 -->
