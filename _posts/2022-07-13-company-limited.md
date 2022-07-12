@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Company Limited
+published: true
+date: 2022-07-13
+readtime: true
+categories: ['SATYAJIT RAY<br>THE LANGUAGE OF FILM']
+tags: [Drama]
+metadata: 'India 1971, 112 mins<br> Director: Satyajit Ray'
+pdf: '2022-07-13-company-limited.pdf'
+---
 
 **Satyajit Ray on ‘Company Limited’**
 
@@ -28,8 +38,7 @@ _This is another interesting aspect of your political films, that they don’t r
 
 _On a political level, your films are strongly critical of the executive class, but it’s vital to the films that you still try to understand the members of that class on a human level._
 
-Absolutely. Even the British we had to understand, because the whole intellectual middle class of India is a product of British rule. Without the colonialism and the British education, there would have been no terrorism.  
-The British gave the Bengalis a liberal education, which ultimately turned them into revolutionaries. And it’s ironical that the British really created their own enemies. It took about a hundred years, and the beginning of this development is described in _Charulata_, when they start through newspapers to question the British rule. And in the early 20th century you have the first terrorist movement against the British. That had no support from the peasants or the working class. It was a small intellectual group, whose leaders had read all the revolutionary literature, Garibaldi and the rest. They wanted to get rid of the British, and they thought: why not throw bombs at them? It didn’t achieve anything; it was just an emotional gesture. But emotional gestures fascinate me more than ideological gestures.
+Absolutely. Even the British we had to understand, because the whole intellectual middle class of India is a product of British rule. Without the colonialism and the British education, there would have been no terrorism.  The British gave the Bengalis a liberal education, which ultimately turned them into revolutionaries. And it’s ironical that the British really created their own enemies. It took about a hundred years, and the beginning of this development is described in _Charulata_, when they start through newspapers to question the British rule. And in the early 20th century you have the first terrorist movement against the British. That had no support from the peasants or the working class. It was a small intellectual group, whose leaders had read all the revolutionary literature, Garibaldi and the rest. They wanted to get rid of the British, and they thought: why not throw bombs at them? It didn’t achieve anything; it was just an emotional gesture. But emotional gestures fascinate me more than ideological gestures.
 
 _In_ Company Limited _, how far are you suggesting that the main character is essentially a product of bad social circumstances, rather than bad in himself?_
 
@@ -68,6 +77,70 @@ India 1971
 
 Restored by the Satyajit Ray Preservation Project  at the Academy Film Archive with funding from the Film Foundation. Print courtesy of the Academy Film Archive<br>
 <br>
+
+**SATYAJIT RAY  
+THE LANGUAGE OF FILM**<br>
+**The Philosopher’s Stone (Parash Pathar)**<br>
+Fri 1 Jul 20:35; Sun 10 Jul 18:20<br>
+**The Zoo (Chiriyakhana)**<br>
+Sat 2 Jul 12:00; Sun 10 Jul 12:20<br>
+**The Adversary (Pratidwandi)**<br>
+Sat 2 Jul 15:10; Sun 10 Jul 15:30<br>
+**Pather Panchali (Song of the Little Road)**<br>
+Sun 3 Jul 18:20; Sat 9 Jul 12:00; Sat 30 Jul 14:30<br>
+**The Film Language of Satyajit Ray**<br>
+Wed 6 Jul 18:00<br>
+**The Middleman (Jana Aranya)**<br>
+Wed 6 Jul 20:20; Sun 24 Jul 18:10<br>
+**Two Daughters: The Postmaster and Samapti (The Conclusion) + intro by Aparna Sen**<br>
+Thu 7 Jul 17:50<br>
+**The Unvanquished (Aparajito)**<br>
+Sat 9 Jul 15:00; Thu 14 Jul 18:15; Sat 30 Jul 17:40<br>
+**The World of Apu (Apur Sansar)**<br>
+Sat 9 Jul 17:50; Sat 16 Jul 20:45; Sat 30 Jul 20:30  + pre-recorded intro<br>
+**Raahgir (The Wayfarers)**<br>
+Mon 11 Jul 18:00<br>
+**Company Limited (Seemabaddha)**<br>
+Wed 13 Jul 18:20; Tue 26 Jul 20:45<br>
+**Satyajit Ray: His Home and the World**<br>
+Sat 16 Jul 12:00-17:00<br>
+**Satyajit Ray Documentaries Programme 1: Rabindranath Tagore + The Inner Eye  + Sukumar Ray**<br>
+Sat 16 Jul 18:30; Sun 31 Jul 12:00<br>
+**The Adventures of Goopy and Bagha Goopy (Gyne ar Bagha Byne)**<br>
+Sun 17 Jul 13:00; Sat 23 Jul 12:10<br>
+**The Golden Fortress (Sonar Kella)**<br>
+Sun 17 Jul 15:40; Wed 27 Jul 18:00<br>
+**Branches of the Tree (Shakha Proshakha)**<br>
+Sun 17 Jul 18:10; Sat 30 Jul 12:20<br>
+**The Kingdom of Diamonds (Hirak Rajar Deshe)**<br>
+Mon 18 Jul 18:10; Sat 23 Jul 14:50<br>
+**Joi Baba Felunath (The Elephant God)**<br>
+Tue 19 Jul 18:10; Mon 25 Jul 20:40<br>
+**The Stranger (Agantuk)**<br>
+Thu 21 Jul 20:40; Sun 31 Jul 18:20<br>
+
+In association with The Academy Film Archive
+
+<img style="float: left;" src="/img/academy-logo-01.png" width="30%" height="30%">
+<br><br><br><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTUyNDI4MjAxNF19
 -->
