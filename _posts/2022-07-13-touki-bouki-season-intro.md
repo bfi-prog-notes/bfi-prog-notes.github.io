@@ -78,64 +78,36 @@ _Director of Photography:_ Pap Samba Sow<br>
 _Director of Photography:_ Georges Bracher *<br>
 _Grip:_ Alioune N’Diaye<br>
 _Stills Photography:_ Aziz Diop Mambéty<br>
-
 _Editors:_ Siro Asteni, Emma Mennenti *<br>
-
 _Art Director:_ Aziz Diop Mambéty<br>
-
 _Costumes:_ Aziz Diop Mambéty<br>
-
-_Music:_ Josephine Baker, Mado Robin,  
-Aminata Fall *<br>
-
+_Music:_ Josephine Baker, Mado Robin,  Aminata Fall *<br>
 _Sound Recording:_ El Hadji Mbow<br>
-
 _Sound Assistant:_ Mawa Gaye<br>
-
 _Assistant:_ Sy Abdoulaye<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Magaye Niang _(Mory)_<br>
-
 Mareme Niang _(Anta)_<br>
-
 Christophe Colomb<br>
-
 Moustapha Toure<br>
-
 Aminata Fall _(Aunt Oume)_<br>
-
 Ousseynou Diop _(Charlie)_<br>
-
 Fernand Dalfin<br>
-
 Al Demba<br>
-
 Dieynaba Dieng<br>
-
 Assane Faye<br>
-
 Robbie Lawson<br>
-
 Aliou N’Diaye<br>
-
 Omar Seck<br>
-
 Colette Simon<br>
-
 Langouste<br>
-
 _With the voices of:_<br>
-
 Josephine Baker<br>
-
 Mado Robin<br>
-
 Aminata Fall<br>
 
 Senegal 1973<br>
-
 88 mins (Total running time 125 mins)
 
 *Uncredited
@@ -145,5 +117,5 @@ Senegal 1973<br>
 Restored in 2008 by The World Cinema Foundation at Cineteca di Bologna/L’Immagine Ritrovata in association with the family of Djibril Diop Mambéty. Restoration funding provided by Armani, Cartier, Qatar Airways and Qatar Museum Authority.<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTgxMzk5XX0=
+eyJoaXN0b3J5IjpbLTExODgwMzI1MzVdfQ==
 -->
