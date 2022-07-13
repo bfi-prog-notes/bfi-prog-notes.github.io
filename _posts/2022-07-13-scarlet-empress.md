@@ -1,16 +1,11 @@
 
-<![endif]-->
-
 _+ intro by Geoff Andrew, Programmer-at-Large (Wednesday 13 July only)._
 
-Arguably the finest of the Dietrich-Sternberg collaborations, this offers a magnificently ornate, gleefully excessive account of the rise to power of Catherine the Great, from naively innocent princess to murderously ambitious, sexually voracious Empress of Russia. Packed with spectacular sets and costumes, not to mention plentiful visual innuendo, it’s a mischievous masterpiece; the wedding scene, especially, is quite extraordinary.
+Arguably the finest of the Dietrich-Sternberg collaborations, this offers a magnificently ornate, gleefully excessive account of the rise to power of Catherine the Great, from naively innocent princess to murderously ambitious, sexually voracious Empress of Russia. Packed with spectacular sets and costumes, not to mention plentiful visual innuendo, it’s a mischievous masterpiece; the wedding scene, especially, is quite extraordinary.  
+**bfi.org.uk**  
 
-**bfi.org.uk**
-
-**A 1965 review**
-
-One of the handicaps facing any film historian is the difficulty of seeing an artist’s work in the right order. As far as Josef von Sternberg is concerned, younger critics in this country have so far been deprived of his silent films (except for a brief appearance years ago at the NFT of _The Salvation Hunters_), though I have a vague memory of a bad print of _The Last Command_, with Jannings as an aristocratic extra lording it over a fantastically populated film set. (As for _The Sea Gull_, only Chaplin knows why he suppressed it in America, and he’s not telling.) At the moment, then, Sternberg remains for us the director of ‘the Dietrich films’ of the early Thirties, from _The Blue Angel_ to  
-_The Devil Is a Woman_, in which each film became ‘a mounting hymn to her beauty,’ to quote a contemporary commentator. This is true in the sense that Sternberg seemed to have discovered an infinite number of ways of exploring the divine features. In reality, however, she only provided the main human-cum-plastic material for her director’s grander designs.
+**A 1965 review**  
+One of the handicaps facing any film historian is the difficulty of seeing an artist’s work in the right order. As far as Josef von Sternberg is concerned, younger critics in this country have so far been deprived of his silent films (except for a brief appearance years ago at the NFT of _The Salvation Hunters_), though I have a vague memory of a bad print of _The Last Command_, with Jannings as an aristocratic extra lording it over a fantastically populated film set. (As for _The Sea Gull_, only Chaplin knows why he suppressed it in America, and he’s not telling.) At the moment, then, Sternberg remains for us the director of ‘the Dietrich films’ of the early Thirties, from _The Blue Angel_ to   _The Devil Is a Woman_, in which each film became ‘a mounting hymn to her beauty,’ to quote a contemporary commentator. This is true in the sense that Sternberg seemed to have discovered an infinite number of ways of exploring the divine features. In reality, however, she only provided the main human-cum-plastic material for her director’s grander designs.
 
 Sternberg viewed the cinema at this time as if it was a gigantic canvas, where subtly controlled lighting took the place of brushstrokes and a hovering camera caressed faces and sets as if it too was obsessed by the heady atmosphere. And it is amazing how much Sternberg got away with. Taking over Stroheim’s reputation for extravagance, he proceeded to prove his artistic theories by assuming complete control of his productions, personally supervising the lighting and decor (aided by the great Hans Dreier), and even doing some of his own musical arrangements. _The Scarlet Empress_ (1934) and _The Devil Is a Woman_ (1935) belong to a fantasy world out of reach of time. To a New Deal-conscious America they must have seemed the height of extravagant incongruity: today their inspired self-indulgence acts as a reminder of a Hollywood that has gone for ever.
 
@@ -22,65 +17,52 @@ These episodes rely mainly on a static camera and highly charged close-ups, but 
 
 Dietrich’s sweetly accented delivery makes the most of both good and bad lines, as she prattles on about telling her mother everything, as Concha does in _The Devil Is a Woman_ (another private Sternberg joke, no doubt), and progresses from cooing innocent to revenge-seeking mistress. Other characters fare less well, and the fact that the film becomes a little lethargic in the middle may be due to Sternberg’s curiously monotonous direction of the dialogue, as if the actors were being dubbed into American. Least successful of all are Louise Dresser as the old Empress, and Sam Jaffe as a gibbering Duke Peter who looks unnervingly like Harpo Marx. Sternberg is supposed to have thought of the Empress as a fishwife, but it is all too raucous and calculated for comfort. The film’s portrait of a harsh, hypocritical Court looks artlessly naive by comparison with the cynical inventions of Stroheim or Lubitsch. They may not have had all the experience of middle European high life that they claimed, yet they had a more genuine and ingrained sophistication which protected them against some of the traps Sternberg falls into.
 
-Neither of these directors, however, could have surpassed _The Scarlet Empress_’s grand finale, with its clamour of trumpets and bells (in an enthusiastic flurry of Sternberg’s favourite lap-dissolves), Dietrich stomping about the palace in a hussar’s outfit and _The Ride of the Valkyries_ on the soundtrack. Here, in the film’s most strikingly assembled sequence, mad Peter is quickly despatched behind a huge black cross, the horsemen charge up the stairs and into the throne-room, and Sternberg’s camera wings up to a final exultant close-up of Catherine, now looking as pop-eyed as the Grand Duke himself. After this, it would be churlish to ask for more.
+Neither of these directors, however, could have surpassed _The Scarlet Empress_’s grand finale, with its clamour of trumpets and bells (in an enthusiastic flurry of Sternberg’s favourite lap-dissolves), Dietrich stomping about the palace in a hussar’s outfit and _The Ride of the Valkyries_ on the soundtrack. Here, in the film’s most strikingly assembled sequence, mad Peter is quickly despatched behind a huge black cross, the horsemen charge up the stairs and into the throne-room, and Sternberg’s camera wings up to a final exultant close-up of Catherine, now looking as pop-eyed as the Grand Duke himself. After this, it would be churlish to ask for more.  
+**John Gillett, _Sight and Sound_, Spring 1965**  
 
-**John Gillett, _Sight and Sound_, Spring 1965**
 
-  
+**THE SCARLET EMPRESS**  
+_Director:_ Josef von Sternberg  
+_Production Company:_ Paramount Productions  
+_Presented by:_ Adolph Zukor  
+_[Screenplay Arranged] By:_ Manuel Komroff  
+_Director of Photography:_ Bert Glennon  
+_Music Arrangers:_ John Leipold, W. Franke Harling  
+_uncredited:_  
+_Executive Producer:_ Emanuel Cohen  
+_Producer:_ Josef von Sternberg  
+_Contributor to Script Construction:_ Elizabeth McGeary  
+_Film Editor:_ Sam Winston  
+_Art Director:_ Hans Dreier  
+_Icons and Wall Paintings:_ Richard Kollorsz  
+_Statues:_ Peter Ballbusch  
+_Costumes:_ Travis Banton  
+_Titles/Effects:_ Gordon Jennings  
+_Additional Music:_ Josef von Sternberg  
+_Additional Music Arranger:_ Milan Roder  
+_Recording Engineer:_ Harry Mills  
 
-**THE SCARLET EMPRESS**
-
-_Director:_ Josef von Sternberg
-
-_Production Company:_ Paramount Productions
-
-_Presented by:_ Adolph Zukor
-
-_[Screenplay Arranged] By:_ Manuel Komroff
-
-_Director of Photography:_ Bert Glennon
-
-_Music Arrangers:_ John Leipold, W. Franke Harling
-
-_uncredited:_
-
-_Executive Producer:_ Emanuel Cohen
-
-_Producer:_ Josef von Sternberg
-
-_Contributor to Script Construction:_ Elizabeth McGeary
-
-_Film Editor:_ Sam Winston
-_Art Director:_ Hans Dreier
-_Icons and Wall Paintings:_ Richard Kollorsz
-_Statues:_ Peter Ballbusch
-_Costumes:_ Travis Banton
-_Titles/Effects:_ Gordon Jennings
-_Additional Music:_ Josef von Sternberg
-_Additional Music Arranger:_ Milan Roder
-_Recording Engineer:_ Harry Mills
-
-**Cast**
-Marlene Dietrich _(Sophia Frederica, later Catherine II)_
-John Lodge _(Count Alexei)_
-Sam Jaffe _(Grand Duke Peter)_
-Louise Dresser _(Empress Elizabeth)_
-C. Aubrey Smith _(Prince August)_
-Gavin Gordon _(Gregory Orloff)_
-Olive Tell _(Princess Johanna)_
-Ruthelma Stevens _(Countess Elizabeth)_
-Davison Clark _(Archimandrite Simeon Tevedovsky)_
-Erville Alderson _(Chancellor Bestucheff)_
-Philip G. Sleeman _(Count Lestocq)_
-Marie Wells _(Marie Tshoglokof)_
-Hans von Twardowski _(Ivan Shuvolov)_
-Gerald Fielding _(Lieutenant Dmitri)_
-Maria _(Sophia, as a child)_
-_uncredited:_
-Jameson Thomas _(Lieutenant Ovtsyn)_
-Edward Van Sloan _(Herr Wagner)_
-Jane Darwell _(Mademoiselle Cardell)_
-Harry Woods _(doctor)_
+**Cast**  
+Marlene Dietrich _(Sophia Frederica, later Catherine II)_  
+John Lodge _(Count Alexei)_  
+Sam Jaffe _(Grand Duke Peter)_  
+Louise Dresser _(Empress Elizabeth)_  
+C. Aubrey Smith _(Prince August)_  
+Gavin Gordon _(Gregory Orloff)_  
+Olive Tell _(Princess Johanna)_  
+Ruthelma Stevens _(Countess Elizabeth)_  
+Davison Clark _(Archimandrite Simeon Tevedovsky)_  
+Erville Alderson _(Chancellor Bestucheff)_  
+Philip G. Sleeman _(Count Lestocq)_  
+Marie Wells _(Marie Tshoglokof)_  
+Hans von Twardowski _(Ivan Shuvolov)_  
+Gerald Fielding _(Lieutenant Dmitri)_  
+Maria _(Sophia, as a child)_  
+_uncredited:_  
+Jameson Thomas _(Lieutenant Ovtsyn)_  
+Edward Van Sloan _(Herr Wagner)_  
+Jane Darwell _(Mademoiselle Cardell)_  
+Harry Woods _(doctor)_ 
 John Davidson _(Marquis de la Chetardie)_
 Kent Taylor _(Paul)_
 Richard Alexander _(Count von Breummer)_
@@ -104,5 +86,5 @@ USA 1934©
 
 104 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDY4NjY1XX0=
+eyJoaXN0b3J5IjpbLTEzMTM1OTUwMjBdfQ==
 -->
