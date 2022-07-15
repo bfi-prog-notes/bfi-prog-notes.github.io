@@ -36,27 +36,27 @@ _Technician:_ Honorat Stangl
 _Assistant Director:_ Mickey Kley  
 _Screenplay:_ Wim Wenders  
 _Script Collaborator:_ Veit von Fürstenberg  
-_Directors of Photography:_ Robby Müller, Martin Schäfer
-_Editors:_ Peter Przygodda, Barbara v. Weitershausen
-_Music:_ Can
-_Sound Recording:_ Martin Müller
-_Sound Mixer:_ Paul Schöler
+_Directors of Photography:_ Robby Müller, Martin Schäfer  
+_Editors:_ Peter Przygodda, Barbara v. Weitershausen  
+_Music:_ Can  
+_Sound Recording:_ Martin Müller  
+_Sound Mixer:_ Paul Schöler  
 
-**Cast**
-Rüdiger Vogler _(Philip Winter)_
-Yella Rottländer _(Alice van Damm)_
-Elisabeth Kreuzer _(Lisa van Damm)_
-Edda Köchl _(Edda)_
-Ernest Böhm _(policeman)_
-Sam Presti _(car salesman)_
-Lois Moran _(airline girl)_
-Didi Petrikat _(girl)_
-Hans Hirschmüller
-Sibylla Baier
-Mirko
+**Cast**  
+Rüdiger Vogler _(Philip Winter)_  
+Yella Rottländer _(Alice van Damm)_  
+Elisabeth Kreuzer _(Lisa van Damm)_  
+Edda Köchl _(Edda)_  
+Ernest Böhm _(policeman)_  
+Sam Presti _(car salesman)_  
+Lois Moran _(airline girl)_  
+Didi Petrikat _(girl)_  
+Hans Hirschmüller  
+Sibylla Baier  
+Mirko  
 
-West Germany 1974©
-112 mins
+West Germany 1974©  
+112 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDYyNTQzN119
+eyJoaXN0b3J5IjpbMTAwMDk2ODE1N119
 -->
