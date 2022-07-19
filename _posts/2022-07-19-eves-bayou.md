@@ -55,11 +55,11 @@ Leonard Thomas _(Maynard)_
 Allen Toussaint _(proprietor)_  
 Billie Neal _(ghost of original Eve)_
 
-USA 1997©
-
+USA 1997©  
 108 mins
 
 Print courtesy of the Kasi Lemmons Collection at the Academy Film Archive with special thanks to Cotty Chubb
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjYzMzg3MzhdfQ==
+eyJoaXN0b3J5IjpbMjg4NDIxNzM4XX0=
 -->
