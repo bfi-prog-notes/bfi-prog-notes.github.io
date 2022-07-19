@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Eve's Bayou
+published: true
+date: 2022-07-19
+readtime: true
+categories: ['IN THE BLACK FANTASTIC']
+tags: [Drama]
+metadata: 'USA 1997, 108 mins<br> Director: Kasi Lemmons'
+pdf: '2022-07-19-eves-bayou.pdf'
+---
 
 Kasi Lemmons began her career as an actor, appearing in films such as _School Daze_ (1988), _The Silence of the Lambs_ (1991) and _Candyman_ (1992), before moving into directing with the short _Dr. Hugo_ (1996), the protagonist of which became the blueprint for the patriarch in her first feature _Eve’s Bayou_ (1997). This film was a revelation – a highly assured melodrama as well as a deliciously rich and atmospheric Southern gothic tale. Told through the eyes of a woman named Eve reflecting on her childhood in the Louisiana wetlands, it’s a story thick with secrets and scandals. Eve recalls the way her wealthy family’s world unravelled when she caught her father Louis (Samuel L. Jackson) with another woman. With an outstanding female cast, Lemmons unlocks the mysticism connected to the female experience with a rare glimpse of America’s Black upper-middle class. The film has had an under-the-radar influence – its atmosphere can be felt in films such as _Boneshaker_ (2013), by Frances Bodomo, a filmmaker with her own unique flare for mesmerising storytelling. _Boneshaker_ weaves a tale of cultures blending, as experienced by the young Blessing (Quvenzhané Wallis), whose immigrant parents visit an African Pentecostal healer in the Louisiana Bayous.  
 **Tega Okiti, _Sight & Sound_, June 2017**
@@ -60,6 +70,60 @@ USA 1997©
 
 Print courtesy of the Kasi Lemmons Collection at the Academy Film Archive with special thanks to Cotty Chubb
 <br><br>
+
+**IN THE BLACK FANTASTIC<br>
+VISIONARY FILMS OF AFROFUTURISM, MYTH AND SPECULATIVE FICTION**<br>
+**The Brother from Another Planet**<br>
+Fri 1 Jul 18:05; Wed 6 Jul 20:45<br>
+**Sankofa**<br>
+Sat 2 Jul 14:00 (+ intro by June Givanni, June Givanni Pan African Cinema Archive); Wed 20 Jul 20:35<br>
+**Daughters of the Dust**<br>
+Sat 2 Jul 20:30; Wed 13 Jul 20:40<br>
+**Yeelen (Brightness)**<br>
+Sun 3 Jul 15:50; Thu 14 Jul 20:40<br>
+**Top of the Heap**<br>
+Mon 4 Jul 18:10; Sat 30 Jul 20:45<br>
+**In the Afrofuture**<br>
+Tue 5 Jul 18:20; Sun 17 Jul 16:00<br>
+**Atlantics (Atlantique)**<br>
+Thu 7 Jul 20:50; Sun 31 Jul 15:40<br>
+**Kuso**<br>
+Sat 9 Jul 20:50; Fri 22 Jul 18:10<br>
+**Touki Bouki**<br>
+Wed 13 Jul 17:50 (+ season introduction); Wed 27 Jul 20:50<br>
+**The Burial of Kojo**<br>
+Fri 15 Jul 18:30; Thu 28 Jul 20:40<br>
+**The Black Atlantic**<br>
+Mon 18 Jul 18:15 (+ Q&A); Sat 30 Jul 12:00<br>
+**Eve’s Bayou**<br>
+Tue 19 Jul 20:45; Thu 28 Jul 18:00<br>
+<br>
+
+Presented in cultural partnership with Hayward Gallery and Southbank Centre
+
+<img style="float: left;" src="/img/southbank-centre-logo-01.png" width="30%" height="30%">
+<br><br><br><br><br>
+
+**In the Black Fantastic** is an exhibition, curated by Ekow Eshun, of contemporary artists from the African diaspora who draw on science fiction, myth and Afrofuturism. Runs **29 Jun to 18 Sep at Hayward Gallery**.
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjg4NDIxNzM4XX0=
 -->
