@@ -1,13 +1,10 @@
 
-<![endif]-->
-
-_+ live experimental music introduction by The Howling._
+_+ live experimental music introduction by The Howling._  
 
 Set around a series of murders connected to a creepy sideshow fortune teller, _The Incredibly Strange Creatures_ is an unusual, unpredictable ride that far exceeds its cheap and delightfully trashy origins. Shot by the legendary Vilmos Zsigmond (_Close Encounters_..., _The Long Goodbye_ ), Ray Dennis Steckler’s masterpiece exists on the very edges of experimental film culture – channelling collage, vivid colour, dream imagery, masks, musical numbers and exotic dance as a way of telling its story of monster mayhem and hypnotic possession.
 
-We’re pleased to welcome The Howling (Ken Hollings and Robin the Fog) who will combine analogue tape-loop manipulation with spoken word to provide a fitting introduction to this special screening.
-
-**bfi.org.uk**
+We’re pleased to welcome The Howling (Ken Hollings and Robin the Fog) who will combine analogue tape-loop manipulation with spoken word to provide a fitting introduction to this special screening.  
+**bfi.org.uk**  
 
 The failings of the ‘Golden Turkey’ approach to film criticism are admirably illustrated by this near-legendary (on the strength of the absurd title, some sources have suggested that the film is merely a hoax perpetrated by _Famous Monsters of Filmland_) cheapie. Connoisseurs of the ridiculous will find much to relish, both in the film itself and in the circumstances surrounding its production and exhibition, but the good-natured crassness of the movie and its publicity machine is threaded with both an engaging naïveté and a surprising sophistication.
 
@@ -64,26 +61,26 @@ Steve Clarke _(2nd policeman)_
 Jill Carson _(girl in dressing room)_  
 Titus Moede _(hobo)_  
 Don Snyder, Teri Randal, Carol Kay,James Bowie _(creatures)_  
-Patricia Michaels, Jill Carson, Denise Lynn, Patti Crandall, Pat Lynn, Betty Downing, Cindy Shea _(dancing girls)_
+Patricia Michaels, Jill Carson, Denise Lynn, Patti Crandall, Pat Lynn, Betty Downing, Cindy Shea _(dancing girls)_  
 
-USA 1963
-82 mins
+USA 1963  
+82 mins  
 
-**REGULAR PROGRAMME**
-**Experimenta: The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies?! + live experimental music introduction by The Howling**
-Wed 20 Jul 18:15
-**Woman with a Movie Camera: The Mirror Has Two Faces + intro by BFI Events Programmer Kimberley Sheehan**
-Thu 21 Jul 18:00
-**African Odysseys: Commemorating Marikana**
-Sun 24 Jul 12:00-17:40
-**Relaxed Screening: Electricity + intro and discussion**
-Mon 25 Jul 18:15
-**Projecting The Archive: The Bay of Saint Michel (aka Pattern for Plunder) + intro by BFI curator Josephine Botting**
-Tue 26 Jul 18:30
-**Terror Vision: Blood Games**
-Thu 28 Jul 18:20
-**Member Picks: Grey Gardens**
-Fri 29 Jul 18:20
+**REGULAR PROGRAMME**  
+**Experimenta: The Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies?! + live experimental music introduction by The Howling**  
+Wed 20 Jul 18:15  
+**Woman with a Movie Camera: The Mirror Has Two Faces + intro by BFI Events Programmer Kimberley Sheehan**  
+Thu 21 Jul 18:00  
+**African Odysseys: Commemorating Marikana**  
+Sun 24 Jul 12:00-17:40  
+**Relaxed Screening: Electricity + intro and discussion**  
+Mon 25 Jul 18:15  
+**Projecting The Archive: The Bay of Saint Michel (aka Pattern for Plunder) + intro by BFI curator Josephine Botting**  
+Tue 26 Jul 18:30  
+**Terror Vision: Blood Games**  
+Thu 28 Jul 18:20  
+**Member Picks: Grey Gardens**  
+Fri 29 Jul 18:20  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjA4Njc4OF19
+eyJoaXN0b3J5IjpbODA1MTY2NTEzXX0=
 -->
