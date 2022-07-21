@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Mirror Has Two Faces
+published: true
+date: 2022-07-21
+readtime: true
+categories: ['WOMAN WITH A MOVIE CAMERA']
+tags: [Comedy, Romance]
+metadata: 'USA 1996, 126 mins<br> Director: Barbra Streisand'
+pdf: '2022-07-21-mirror-has-two-faces.pdf'
+---
 
 _+ intro by BFI Events Programmer Kimberley Sheehan_
 
@@ -5,7 +16,7 @@ Rose (Streisand), an unlucky-in-love college professor, is at the end of her tet
 **bfi.org.uk**
 
 **A contemporary review**  
-It’s beginning to look like Barbara Streisand is on a one-woman campaign to revive the genres of old Hollywood – first the strenuously romantic melodrama of _The Prince of Tides_, and now this film, a satisfyingly old-fashioned romantic comedy destined to tickle the sensibilities of those who find contemporary American cinema too mechanised, macho and noisy, a film which (aided by its shrewdly pretty images of New York in the snow) will find its perfect niche on Christmas television in three years’ time. It’s a film out of time, as its somewhat self-conscious recurring references to the likes of _Now, Voyager_,  _It Happened One Night_ and _Brief Encounter_ underline. Straight women and gay men will love it, which is perhaps just as it should be with any text bearing the Streisand imprimatur.
+It’s beginning to look like Barbara Streisand is on a one-woman campaign to revive the genres of old Hollywood – first the strenuously romantic melodrama of _The Prince of Tides_, and now this film, a satisfyingly old-fashioned romantic comedy destined to tickle the sensibilities of those who find contemporary American cinema too mechanised, macho and noisy, a film which (aided by its shrewdly pretty images of New York in the snow) will find its perfect niche on Christmas television in three years’ time. It’s a film out of time, as its somewhat self-conscious recurring references to the likes of _Now, Voyager_, _It Happened One Night_ and _Brief Encounter_ underline. Straight women and gay men will love it, which is perhaps just as it should be with any text bearing the Streisand imprimatur.
 
 The pleasures it offers are rare ones today – unobtrusively well-crafted direction, richly rounded performances and a general air of being made by and for grown-ups – and if the other side of that coin contains the predictability of the plot and the last-reel concession to retrogressive sexual politics that is this genre’s inescapable burden, I doubt whether audiences will complain too much. The acting in particular is a joy: Streisand is always best in comedy, and here she underplays (a career first?) to perfection, creating in Rose a wholly believable amalgam of wised-up smartness and romantic yearning. It’s also the most Jewish Streisand in years, with wisecracks, asides and facial gestures that Woody Allen might envy. Jeff Bridges adds another unfussily exact performance to his already impeccable CV, while Lauren Bacall bestows an extra layer of shimmering stellar poise. Her exchanges with Streisand, as still-manicured mother comforts ugly duckling daughter, are especially relishable, and there is a commendable emotional maturity in the way they eventually find a deeper understanding.
 
@@ -121,6 +132,22 @@ USA 1996
 \* Uncredited  
 
 **Woman with a Movie Camera is generously supported by Jane Stanton.**  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDQ5MTY0MCwxMzQ1NzAxMjM3XX0=
--->
+
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
