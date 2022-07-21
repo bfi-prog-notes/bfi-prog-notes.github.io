@@ -72,9 +72,7 @@ _Additional Music Editing_: Tom Drescher
 _Production Sound Mixer_: Thomas Nelson  
 _Re-recording Mixers_: Kevin O’Connell, Greg P. Russell  
 _Supervising Sound Editors_: Charles L. Campbell, Louis L. Edemann  
-_Sound Editors_: Ron Eng, Harry Cheney, John Arrufat, Mark Larry,
-
-Steve Ticknor, Lenny Geschke, John Colwell, Chuck Neely, Richard Franklin  
+_Sound Editors_: Ron Eng, Harry Cheney, John Arrufat, Mark Larry, Steve Ticknor, Lenny Geschke, John Colwell, Chuck Neely, Richard Franklin  
 _ADR (Mixer)_: Charleen Richards  
 _ADR (Supervising Editor)_: Gail Clark Burch  
 _ADR (Editors)_: Laura Graham, Zack Davis  
@@ -134,5 +132,5 @@ USA 1996
 
 **Woman with a Movie Camera is generously supported by Jane Stanton.**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Nzk1MTM1MV19
+eyJoaXN0b3J5IjpbMTM0NTcwMTIzN119
 -->
