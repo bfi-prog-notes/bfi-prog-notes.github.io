@@ -1,15 +1,11 @@
-<![endif]-->
 
 _+ intro by BFI Events Programmer Kimberley Sheehan_
 
-Rose (Streisand), an unlucky-in-love college professor, is at the end of her tether with dating. Thanks to her sister’s meddling she’s thrown together with Gregory (Bridges), a fellow professor who has determined that his ideal marriage is a platonic one. Barbra Streisand’s third feature as a director is an underappreciated, witty romcom gem with a fabulous Oscar®-nominated turn from Lauren Bacall (as Rose’s mother).
-
+Rose (Streisand), an unlucky-in-love college professor, is at the end of her tether with dating. Thanks to her sister’s meddling she’s thrown together with Gregory (Bridges), a fellow professor who has determined that his ideal marriage is a platonic one. Barbra Streisand’s third feature as a director is an underappreciated, witty romcom gem with a fabulous Oscar®-nominated turn from Lauren Bacall (as Rose’s mother).  
 **bfi.org.uk**
 
-**A contemporary review**
-
-It’s beginning to look like Barbara Streisand is on a one-woman campaign to revive the genres of old Hollywood – first the strenuously romantic melodrama of _The Prince of Tides_, and now this film, a satisfyingly old-fashioned romantic comedy destined to tickle the sensibilities of those who find contemporary American cinema too mechanised, macho and noisy, a film which (aided by its shrewdly pretty images of New York in the snow) will find its perfect niche on Christmas television in three years’ time. It’s a film out of time, as its somewhat self-conscious recurring references to the likes of _Now, Voyager_,  
-_It Happened One Night_ and _Brief Encounter_ underline. Straight women and gay men will love it, which is perhaps just as it should be with any text bearing the Streisand imprimatur.
+**A contemporary review**  
+It’s beginning to look like Barbara Streisand is on a one-woman campaign to revive the genres of old Hollywood – first the strenuously romantic melodrama of _The Prince of Tides_, and now this film, a satisfyingly old-fashioned romantic comedy destined to tickle the sensibilities of those who find contemporary American cinema too mechanised, macho and noisy, a film which (aided by its shrewdly pretty images of New York in the snow) will find its perfect niche on Christmas television in three years’ time. It’s a film out of time, as its somewhat self-conscious recurring references to the likes of _Now, Voyager_,  _It Happened One Night_ and _Brief Encounter_ underline. Straight women and gay men will love it, which is perhaps just as it should be with any text bearing the Streisand imprimatur.
 
 The pleasures it offers are rare ones today – unobtrusively well-crafted direction, richly rounded performances and a general air of being made by and for grown-ups – and if the other side of that coin contains the predictability of the plot and the last-reel concession to retrogressive sexual politics that is this genre’s inescapable burden, I doubt whether audiences will complain too much. The acting in particular is a joy: Streisand is always best in comedy, and here she underplays (a career first?) to perfection, creating in Rose a wholly believable amalgam of wised-up smartness and romantic yearning. It’s also the most Jewish Streisand in years, with wisecracks, asides and facial gestures that Woody Allen might envy. Jeff Bridges adds another unfussily exact performance to his already impeccable CV, while Lauren Bacall bestows an extra layer of shimmering stellar poise. Her exchanges with Streisand, as still-manicured mother comforts ugly duckling daughter, are especially relishable, and there is a commendable emotional maturity in the way they eventually find a deeper understanding.
 
@@ -17,14 +13,10 @@ The main drawback the film has is its slightness: if you peer behind the immedia
 
 The key theme of the film is the issue of physical attractiveness. Our first glimpse of Rose shows her caked in a face-pack, cramming down junk-food and watching baseball. By the end she has become a low-fat glamourpuss, her baggy jumpers replaced by slinky dresses. It would, perhaps, be uncharitable to point out that to me at least she looked far happier in the former and, frizzed out perm to the fore, not unlike _Coronation Street_’s brassy Liz McDonald in the latter – but that lack of charity stems from an unease about the film’s argument that bookworms need to trim at the gym if they’re going to snag their man. Bacall’s character is crucial here, since not only does she exude a feline radiance women half her age would envy, but because she made a living as a beautician: thus Rose is more than a disappointment to her mother’s ideological convictions regarding femininity, she is an affront to her professional capabilities.
 
-The film’s concluding standpoint is that Rose needs both brains and beauty. The shallowness of having just the latter is crassly indicated by a scene in which the new-look Rose entices then spurns her slimy brother-in-law. This having-your-cake-and-eating-it resolution may seem gratuitously utopian (albeit congruent with the golden-age-of-Hollywood logic of the film), but it is a little more interesting once you relate it to the position of Streisand herself, never the most conventionally gorgeous of women but nonetheless the owner of a lengthy and culturally significant career that the other, more decorative new female stars who emerged in the late 60s could only dream of (anyone seen Ursula Andress lately?). We have so few stars left with her commitment to starriness that anything she does needs to be seen. So while _The Mirror Has Two Faces_ may be wafer-thin in terms of dramatic substance, its event status is assured by Streisand submitting herself once again to the indignities of the marketplace. And not least of the film’s comforting delights is the sight of the old girl carrying it off with such aplomb.
+The film’s concluding standpoint is that Rose needs both brains and beauty. The shallowness of having just the latter is crassly indicated by a scene in which the new-look Rose entices then spurns her slimy brother-in-law. This having-your-cake-and-eating-it resolution may seem gratuitously utopian (albeit congruent with the golden-age-of-Hollywood logic of the film), but it is a little more interesting once you relate it to the position of Streisand herself, never the most conventionally gorgeous of women but nonetheless the owner of a lengthy and culturally significant career that the other, more decorative new female stars who emerged in the late 60s could only dream of (anyone seen Ursula Andress lately?). We have so few stars left with her commitment to starriness that anything she does needs to be seen. So while _The Mirror Has Two Faces_ may be wafer-thin in terms of dramatic substance, its event status is assured by Streisand submitting herself once again to the indignities of the marketplace. And not least of the film’s comforting delights is the sight of the old girl carrying it off with such aplomb.  
+**Andy Medhurst, _Sight & Sound_, February 1997**  
 
-**Andy Medhurst, _Sight & Sound_, February 1997**
-
-  
-
-**THE MIRROR HAS TWO FACES**
-
+**THE MIRROR HAS TWO FACES**  
 _Director_: Barbra Streisand  
 _Production Companies_: TriStar Pictures, Phoenix Pictures, Barwood Films  
 _Executive Producer_: Cis Corman  
@@ -43,9 +35,7 @@ _Casting (Associate)_: Helen Suh
 _Casting (ADR)_: Burton Sharp  
 _Screenplay/Screen Story_: Richard LaGravenese  
 _Original Film Adaptation_: André Cayatte, Gérard Oury, Henri Jeanson  
-_Original Dialogues_: Henri Jeanson, Claude Marcy, Jean Meckert,
-
-André Cayatte  
+_Original Dialogues_: Henri Jeanson, Claude Marcy, Jean Meckert, André Cayatte  
 _Directors of Photography_: Dante Spinotti, Andrzej Bartkowiak  
 _2nd Unit Director of Photography_: Richard Quinlan  
 _Camera Operators_: Gary Jay, Dick Mingalone, Patrick Capone  
@@ -132,5 +122,5 @@ USA 1996
 
 **Woman with a Movie Camera is generously supported by Jane Stanton.**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTcwMTIzN119
+eyJoaXN0b3J5IjpbMTcxMDQ5MTY0MCwxMzQ1NzAxMjM3XX0=
 -->
