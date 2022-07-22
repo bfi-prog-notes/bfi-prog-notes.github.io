@@ -1,9 +1,6 @@
 
-<![endif]-->
-
-When he was younger, enthralled by his novel _Slaughterhouse-Five_, Robert Weide wrote a letter to Kurt Vonnegut, proposing to make a documentary on the author. Surprisingly, Vonnegut agreed, and the two struck up a decades-long collaboration that grew into an enduring friendship. Filled with rare archival footage and interviews with family, colleagues and Vonnegut himself, Weide's portrait offers a deep, intimate look into the life and work of one of the giants of American literature.
-
-**bfi.org.uk**
+When he was younger, enthralled by his novel _Slaughterhouse-Five_, Robert Weide wrote a letter to Kurt Vonnegut, proposing to make a documentary on the author. Surprisingly, Vonnegut agreed, and the two struck up a decades-long collaboration that grew into an enduring friendship. Filled with rare archival footage and interviews with family, colleagues and Vonnegut himself, Weide's portrait offers a deep, intimate look into the life and work of one of the giants of American literature.  
+**bfi.org.uk**  
 
 _Listen: Billy Pilgrim has come unstuck in time. Billy has gone to_ _sleep a senile widower and awakened on his wedding day. He_ _has walked through a door in 1955 and come out another one in 1941._ _He has gone back through that door to find himself in 1963._ _He has seen his birth and death many times, he says, and pays random visits to all the events in between._
 
@@ -24,7 +21,7 @@ Weide also invited co-director Don Argott (_The Art of the Steal_, _Framing John
 Weide explains, ‘Vonnegut took huge social, philosophical, existential, and religious issues and filtered them through this great sense of humor, this sort of grounded, simple, Midwestern sensibility. He was a humorist in the same vein as Mark Twain.’
 
 _Kurt Vonnegut: Unstuck in Time_ is first and foremost a biography of a beloved American author. But it also documents a filmmaker’s odyssey as he examines the impact of a writer’s legacy on his own life, extending far beyond the printed page.
-**Production notes**
+**Production notes**  
 <br>
 **KURT VONNEGUT: UNSTUCK IN TIME**  
 _Directed by_: Robert B. Weide, Don Argott  
@@ -44,15 +41,15 @@ _Original Music_: Alex Mansour, Paul Cantelon
 _Location Audio_: Steve Fischler, Don Scales, Demian Fenton, Geoff Maxwell, George Shafnacker, Ann Thompson Brock, Mario Cardenas, Art Pisanski  
 _Post Audio Mix_: Ugo Derouard  
 _Dialogue Editor_: Mehrnaz Mohabati  
-_Sound Effects Editor_: Justin M. Green
+_Sound Effects Editor_: Justin M. Green  
 
-**Cast**
-Sam Waterston _(voice over)_
+**Cast**  
+Sam Waterston _(voice over)_  
 
-USA 2022
-128 mins
+USA 2022  
+128 mins  
 
-**An Altitude Films release**
+**An Altitude Films release**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTEyODUyODhdfQ==
+eyJoaXN0b3J5IjpbLTEwNTkzNzk4NTVdfQ==
 -->
