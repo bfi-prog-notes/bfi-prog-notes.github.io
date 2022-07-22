@@ -1,3 +1,14 @@
+---
+layout: post
+title: Kurt Vonnegut<br>Unstuck in Time
+published: true
+date: 2022-07-22
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Documentary]
+metadata: 'USA 2022, 128 mins<br> Directors: Robert B. Weide, Don Argott'
+pdf: '2022-07-22-kurt-vonnegut.pdf'
+---
 
 When he was younger, enthralled by his novel _Slaughterhouse-Five_, Robert Weide wrote a letter to Kurt Vonnegut, proposing to make a documentary on the author. Surprisingly, Vonnegut agreed, and the two struck up a decades-long collaboration that grew into an enduring friendship. Filled with rare archival footage and interviews with family, colleagues and Vonnegut himself, Weide's portrait offers a deep, intimate look into the life and work of one of the giants of American literature.  
 **bfi.org.uk**  
@@ -20,7 +31,7 @@ Weide also invited co-director Don Argott (_The Art of the Steal_, _Framing John
 
 Weide explains, ‘Vonnegut took huge social, philosophical, existential, and religious issues and filtered them through this great sense of humor, this sort of grounded, simple, Midwestern sensibility. He was a humorist in the same vein as Mark Twain.’
 
-_Kurt Vonnegut: Unstuck in Time_ is first and foremost a biography of a beloved American author. But it also documents a filmmaker’s odyssey as he examines the impact of a writer’s legacy on his own life, extending far beyond the printed page.
+_Kurt Vonnegut: Unstuck in Time_ is first and foremost a biography of a beloved American author. But it also documents a filmmaker’s odyssey as he examines the impact of a writer’s legacy on his own life, extending far beyond the printed page.  
 **Production notes**  
 <br>
 **KURT VONNEGUT: UNSTUCK IN TIME**  
@@ -50,6 +61,42 @@ USA 2022
 128 mins  
 
 **An Altitude Films release**  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTkzNzk4NTVdfQ==
--->
+<br>
+
+**NEW RELEASES**  
+**Nitram**  
+From Fri 1 Jul  
+**Wayfinder**  
+From Fri 1 Jul  
+**Brian and Charles**  
+From Fri 8 Jul  
+**Elvis**  
+From Fri 22 Jul  
+**Kurt Vonnegut: Unstuck in Time**  
+From Fri 22 Jul  
+**Hit the Road (Jaddeh Khaki)**  
+From Fri 29 Jul  
+**The Feast**  
+From Fri 19 Aug  
+**Where Is Anne Frank**  
+From Fri 19 Aug  
+**Queen of Glory**  
+From Fri 28 Aug  
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
