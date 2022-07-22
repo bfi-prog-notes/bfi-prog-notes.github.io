@@ -42,29 +42,25 @@ _Directed by:_ Pascale Lamche
 _Production Companies_: Pumpernickel Films, Submarine, Big World Cinema, IV Films, ARTE GEIE
 _Executive Producer_: Tanaz Eshaghian
 _Producer_: Christoph Jörg
-_Line_Producer_: Janneke van de Kerkhof
-_Additional_ _Line_ _Producers_: Ethel Williams-Abrahamse, Juha Löppönen, Tamsin Ranger
-_Production_ _Manager_ _South_ _Africa_: Hessam Binesh
-_Written_ _by_: Pascale Lamche
-_Archive_ _Research_ _and_ _Clearance_: Willemien Ruys
-_Additional_ _Archive_ _Research_: Nhlanhla Mthethwa, Gail Behrmann,  
-Anne Gonschorek
+_Line Producer_: Janneke van de Kerkhof
+_Additional Line Producers_: Ethel Williams-Abrahamse, Juha Löppönen, Tamsin Ranger
+_Production Manager South Africa_: Hessam Binesh
+_Written by_: Pascale Lamche
+_Archive Research and Clearance_: Willemien Ruys
+_Additional Archive Research_: Nhlanhla Mthethwa, Gail Behrmann,  Anne Gonschorek
 _Research_: Sandile Sanza Tshabalala, De Wet Potgieter
-_Directors_ _of_ _Photography_: Olivier Raffet, Felix Meyburgh, Nic Hofmeyr
+_Directors of Photography_: Olivier Raffet, Felix Meyburgh, Nic Hofmeyr
 _Editors_: Giles Gardner, Paul de Heer
-_Titles_ _& Graphics:_ Oskar Luyer
-_Original_ _Music_: Daniël Hamburger
+_Titles & Graphics:_ Oskar Luyer
+_Original Music_: Daniël Hamburger
+_Sound Design & Mix:_ Huibert Boon
+_Sound Engineers_: Tebogo Rangwaga, Sean Obadia, Abraham Rapelwana,  Phuthi Thabane, Mika Ylipekka  
+France/Netherlands/South Africa 2017  
+85 mins  
 
-_Sound_ _Design_ _& Mix:_ Huibert Boon
-_Sound_ _Engineers_: Tebogo Rangwaga, Sean Obadia, Abraham Rapelwana,  
-Phuthi Thabane, Mika Ylipekka
-
-France/Netherlands/South Africa 2017
-85 mins
-
-**MINERS SHOT DOWN**
-_Director:_ Rehad Desai
-_Producers:_ Anita Khanna, Rehad Desai
+**MINERS SHOT DOWN**  
+_Director:_ Rehad Desai  
+_Producers:_ Anita Khanna, Rehad Desai  
 _Consulting Producers:_ Brian Tilley, Bheki Peterson, Helle Faber
 _Script:_ Anita Khanna, Rehad Desai
 _Photography:_ Nic Hofmeyer, Shadley Lombard, Jonathan Kovel
@@ -99,5 +95,5 @@ Julian Bahula
 UK 1992
 59 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTQ2NTU5MV19
+eyJoaXN0b3J5IjpbLTExNzYyNzcxNTJdfQ==
 -->
