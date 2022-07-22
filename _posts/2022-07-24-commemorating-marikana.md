@@ -61,15 +61,14 @@ France/Netherlands/South Africa 2017
 **MINERS SHOT DOWN**  
 _Director:_ Rehad Desai  
 _Producers:_ Anita Khanna, Rehad Desai  
-_Consulting Producers:_ Brian Tilley, Bheki Peterson, Helle Faber
-_Script:_ Anita Khanna, Rehad Desai
-_Photography:_ Nic Hofmeyer, Shadley Lombard, Jonathan Kovel
-_Editors:_ Menno Boerema, Ruben Van Der Hammen, Kerryn Assaizky, Megan Gill, Steen Johannessen
-_Original Music:_ Philip Miller
-_Sound Recordist:_ President Kapa
-
-South Africa 2014
-86 mins
+_Consulting Producers:_ Brian Tilley, Bheki Peterson, Helle Faber  
+_Script:_ Anita Khanna, Rehad Desai  
+_Photography:_ Nic Hofmeyer, Shadley Lombard, Jonathan Kovel  
+_Editors:_ Menno Boerema, Ruben Van Der Hammen, Kerryn Assaizky, Megan Gill, Steen Johannessen  
+_Original Music:_ Philip Miller  
+_Sound Recordist:_ President Kapa  
+South Africa 2014  
+86 mins  
 
 **BLUE NOTES AND EXILED VOICES**  
 _Director_: Imruh Bakari  
@@ -91,9 +90,8 @@ Louis Moholo
 Hugh Masekela _(Interview + band performance)_  
 Barbara Pukwana  
 Julian Bahula  
-
-UK 1992
-59 mins
+UK 1992  
+59 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzYyNzcxNTJdfQ==
+eyJoaXN0b3J5IjpbLTg5NzE1NDUyOF19
 -->
