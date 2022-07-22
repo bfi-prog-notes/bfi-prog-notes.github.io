@@ -1,6 +1,5 @@
 
 
-<![endif]-->
 
 Join us for a day of films and talks as we reflect on the tragic 2012 massacre of mineworkers in Marikana, South Africa. Co-chairs from Marikana Solidarity are: Amanda Latimer (Kingston University) and Cecil Gutzmore (retired activist and academic). Films screening include: _Winnie_, _Miners Shot Down_ and _Blue Notes and Exiled Voices._
 
@@ -10,7 +9,7 @@ Join us for a day of films and talks as we reflect on the tragic 2012 massacre o
 
 **Asanda Benya** is a senior lecturer in the Sociology Department at University of Cape Town. She completed her PhD at the University of the Witwatersrand (Wits) in 2016. Her thesis was on the construction of gendered identities of women who work underground in the mines.
 
-**Schedule**
+**Schedule**  
 
 12:00 Welcome and Introduction by Cecil Gutzmore and Amanda Latimer of The Marikana Solidarity Collective
 
@@ -93,5 +92,5 @@ Julian Bahula
 UK 1992  
 59 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzE1NDUyOF19
+eyJoaXN0b3J5IjpbNDE5MDYxODQ1LC04OTcxNTQ1MjhdfQ==
 -->
