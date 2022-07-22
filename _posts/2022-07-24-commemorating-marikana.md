@@ -1,0 +1,103 @@
+
+
+<![endif]-->
+
+Join us for a day of films and talks as we reflect on the tragic 2012 massacre of mineworkers in Marikana, South Africa. Co-chairs from Marikana Solidarity are: Amanda Latimer (Kingston University) and Cecil Gutzmore (retired activist and academic). Films screening include: _Winnie_, _Miners Shot Down_ and _Blue Notes and Exiled Voices._
+
+**The Marikana Solidarity Collective** is a UK-based campaign working towards justice for the victims of the 2012 Marikana Massacre.
+
+**Imruh Bakari**  is a filmmaker and writer who has since the 1960s, lived and worked in the UK and a number of African countries in the areas of film production and film studies, culture and the creative industries. He currently lectures in Film Studies at the University of Winchester. His published work includes _African Experiences of Cinema_ (BFI, 1996), co-edited with Mbye Cham, and various articles on African and Caribbean cinema and film culture; and the poetry collections _Without Passport or Apology_ (Smokestack Books, 2017) and _The Madman in this House_ (Smokestack Books, 2021). Among his film productions is _Blue Notes and Exiled Voices_ (1991).
+
+**Asanda Benya** is a senior lecturer in the Sociology Department at University of Cape Town. She completed her PhD at the University of the Witwatersrand (Wits) in 2016. Her thesis was on the construction of gendered identities of women who work underground in the mines.
+
+**Schedule**
+
+12:00 Welcome and Introduction by Cecil Gutzmore and Amanda Latimer of The Marikana Solidarity Collective
+
+12:10 Screening: _Winnie_
+
+13:35 Comfort Break
+
+14:00 Introduction by Cecil Gutzmore and Amanda Latimer
+
+14:10 Screening: _Miners Shot Down_
+
+15:40 Comfort Break
+
+15:45 Panel Discussion with chair Amanda Latimer, Andy Higginbottom (of  
+The Marikana Solidarity Collective) and Asanda Benya (via Zoom)
+
+16:15 Comfort Break
+
+16:30 Introduction by director Imruh Bakari
+
+16:40 Screening: _Blue Notes and Exiled Voices_
+
+17:40 Event Ends
+
+  
+
+**WINNIE**
+_Directed by:_ Pascale Lamche
+_Production Companies_: Pumpernickel Films, Submarine, Big World Cinema, IV Films, ARTE GEIE
+_Executive Producer_: Tanaz Eshaghian
+_Producer_: Christoph Jörg
+_Line_Producer_: Janneke van de Kerkhof
+_Additional_ _Line_ _Producers_: Ethel Williams-Abrahamse, Juha Löppönen, Tamsin Ranger
+_Production_ _Manager_ _South_ _Africa_: Hessam Binesh
+_Written_ _by_: Pascale Lamche
+_Archive_ _Research_ _and_ _Clearance_: Willemien Ruys
+_Additional_ _Archive_ _Research_: Nhlanhla Mthethwa, Gail Behrmann,  
+Anne Gonschorek
+_Research_: Sandile Sanza Tshabalala, De Wet Potgieter
+_Directors_ _of_ _Photography_: Olivier Raffet, Felix Meyburgh, Nic Hofmeyr
+_Editors_: Giles Gardner, Paul de Heer
+_Titles_ _& Graphics:_ Oskar Luyer
+_Original_ _Music_: Daniël Hamburger
+
+_Sound_ _Design_ _& Mix:_ Huibert Boon
+_Sound_ _Engineers_: Tebogo Rangwaga, Sean Obadia, Abraham Rapelwana,  
+Phuthi Thabane, Mika Ylipekka
+
+France/Netherlands/South Africa 2017
+85 mins
+
+**MINERS SHOT DOWN**
+_Director:_ Rehad Desai
+_Producers:_ Anita Khanna, Rehad Desai
+_Consulting Producers:_ Brian Tilley, Bheki Peterson, Helle Faber
+_Script:_ Anita Khanna, Rehad Desai
+_Photography:_ Nic Hofmeyer, Shadley Lombard, Jonathan Kovel
+_Editors:_ Menno Boerema, Ruben Van Der Hammen, Kerryn Assaizky, Megan Gill, Steen Johannessen
+_Original Music:_ Philip Miller
+_Sound Recordist:_ President Kapa
+
+South Africa 2014
+86 mins
+
+**BLUE NOTES AND EXILED VOICES**  
+_Director_: Imruh Bakari  
+_Production Company_: Ceddo Film & Video  
+_Sponsor_: Arts Council of Great Britain, Channel Four Television Company  
+_Executive Producer_: Rodney Wilson  
+_Producer_: Henry Martin  
+_2nd Unit Director_: Glenn Ujebe Masokoane  
+_Photography_: Christopher Morphet  
+_Editor_: Stuart De Jong  
+_Musical Performer + Interview_: Mervyn Africa  
+_Singing ‘B Gee’_: Brotherhood of Breath  
+_Singing ‘Requiem’_: Viva La Black  
+
+**With**  
+Pinise Saul _(Sings ‘Ntiylo Ntiylo’ + interview)_  
+Peggy Phango  
+Louis Moholo  
+Hugh Masekela _(Interview + band performance)_  
+Barbara Pukwana  
+Julian Bahula  
+
+UK 1992
+59 mins
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTEwOTQ2NTU5MV19
+-->
