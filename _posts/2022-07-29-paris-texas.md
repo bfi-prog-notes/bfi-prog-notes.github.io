@@ -19,83 +19,83 @@ There seems in this to be a kind of breakout from the Oedipal deadlock of Wender
 **PARIS, TEXAS**  
 _Director:_ Wim Wenders  
 _©/Presented by:_ Road Movies Filmproduktion GmbH  
-_Presented by:_ Argos-Films
-_In association with:_ Westdeutscher Rundfunk, Channel Four, Pro-ject Filmproduktion im Filmverlag der Autoren
-_Executive Producer:_ Chris Sievernich
-_Producers:_ Don Guest, Anatole Dauman
-_WDR Commissioning Editor:_ J. von Mengershausen
-_Associate Producer:_ Pascale Dauman
-_Accountant:_ Barbara Lucey
-_Production Co-ordinator:_ Dianne Lisa Cheek
-_NY Office Co-ordinator:_ Lilyan Sievernich
-_LA Office Co-ordinator:_ Sarah Fitzsimmons
-_Production Manager:_ Karen Koch
-_Texas Location Manager:_ Susan Elkins
-_LA Location Manager:_ Jim Thompson
-_Production Assistants:_ Bonna Newman, Allison Anders, Scott Kirby, Dean Lent, Patrick Kreuzer
-_Assistant Director:_ Claire Denis
-_Trainee Assistant Director:_ Michael Helfand
-_Script Supervisor:_ Helen Caldwell
-_Casting Director:_ Gary Chason
-_LA Casting Co-ordinator:_ Sheila Possner
-_Channel 4 Story Editor:_ Walter Donahue
-_Written by:_ Sam Shepard
-_Co-screenplay:_ Wim Wenders [uncredited]
-_Adaptation by:_ L.M. Kit Carson
-_Director of Photography:_ Robby Müller
-_Additional 2nd Unit Photography:_ Martin Schäfer
-_1st Assistants:_ Pim Tjujerman, Agnès Godard
-_Key Grip:_ Robert Feldman
-_Best Boy:_ Arthur Blum
-_Gaffer:_ Greg Gardiner
-_Best Boy:_ Scott Guthrie
-_Electrician:_ Kevin Galbraith
-_Still Photographer:_ Robin Holland
-_Editor:_ Peter Przygodda
-_Assistant Editor:_ Anne Schnee
-_Art Director:_ Kate Altman
-_Assistant Art Director:_ Lorrie Brown
-_LA Set Decorator:_ Anne Kuljian
-_Property Master:_ Kim Buckley
-_Assistant Props (Texas):_ Craig Busch
-_Costume Designer:_ Birgitta Bjerke
-_Wardrobe Assistant (Texas):_ Roberta Elkins
-_Make-up and Hair:_ Charles Balazs
-_Music:_ Ry Cooder
-_Sound Mixer:_ Jean Paul Mugel
-_Sound Processing:_ Lothar Mankewitz
-_Boom Man:_ Douglas Axtell
-_Re-recording Mixer:_ Hartmut Eichgrün
-_Sound Editor:_ Dominique Auvray
-_Transportation:_ Homer Albin, Al Cantu, Lynn Brisbin, Carl Johnson, Richard Padgett, B.C. Smith, Charlie Griffith, Tom Kelton
-_Caterer (Texas):_ Sherry McBride
-_For:_ Lotte H. Eisner
-_With many thanks to:_ Barbara von Weitershausen
+_Presented by:_ Argos-Films  
+_In association with:_ Westdeutscher Rundfunk, Channel Four, Pro-ject Filmproduktion im Filmverlag der Autoren  
+_Executive Producer:_ Chris Sievernich  
+_Producers:_ Don Guest, Anatole Dauman  
+_WDR Commissioning Editor:_ J. von Mengershausen  
+_Associate Producer:_ Pascale Dauman  
+_Accountant:_ Barbara Lucey  
+_Production Co-ordinator:_ Dianne Lisa Cheek  
+_NY Office Co-ordinator:_ Lilyan Sievernich  
+_LA Office Co-ordinator:_ Sarah Fitzsimmons  
+_Production Manager:_ Karen Koch  
+_Texas Location Manager:_ Susan Elkins  
+_LA Location Manager:_ Jim Thompson  
+_Production Assistants:_ Bonna Newman, Allison Anders, Scott Kirby, Dean Lent, Patrick Kreuzer  
+_Assistant Director:_ Claire Denis  
+_Trainee Assistant Director:_ Michael Helfand  
+_Script Supervisor:_ Helen Caldwell  
+_Casting Director:_ Gary Chason  
+_LA Casting Co-ordinator:_ Sheila Possner  
+_Channel 4 Story Editor:_ Walter Donahue  
+_Written by:_ Sam Shepard  
+_Co-screenplay:_ Wim Wenders [uncredited]  
+_Adaptation by:_ L.M. Kit Carson  
+_Director of Photography:_ Robby Müller  
+_Additional 2nd Unit Photography:_ Martin Schäfer  
+_1st Assistants:_ Pim Tjujerman, Agnès Godard  
+_Key Grip:_ Robert Feldman  
+_Best Boy:_ Arthur Blum  
+_Gaffer:_ Greg Gardiner  
+_Best Boy:_ Scott Guthrie  
+_Electrician:_ Kevin Galbraith  
+_Still Photographer:_ Robin Holland  
+_Editor:_ Peter Przygodda  
+_Assistant Editor:_ Anne Schnee  
+_Art Director:_ Kate Altman  
+_Assistant Art Director:_ Lorrie Brown  
+_LA Set Decorator:_ Anne Kuljian  
+_Property Master:_ Kim Buckley  
+_Assistant Props (Texas):_ Craig Busch  
+_Costume Designer:_ Birgitta Bjerke  
+_Wardrobe Assistant (Texas):_ Roberta Elkins  
+_Make-up and Hair:_ Charles Balazs  
+_Music:_ Ry Cooder  
+_Sound Mixer:_ Jean Paul Mugel  
+_Sound Processing:_ Lothar Mankewitz  
+_Boom Man:_ Douglas Axtell  
+_Re-recording Mixer:_ Hartmut Eichgrün  
+_Sound Editor:_ Dominique Auvray  
+_Transportation:_ Homer Albin, Al Cantu, Lynn   Brisbin, Carl Johnson, Richard Padgett, B.C. Smith, Charlie Griffith, Tom Kelton  
+_Caterer (Texas):_ Sherry McBride  
+_For:_ Lotte H. Eisner  
+_With many thanks to:_ Barbara von Weitershausen  
 
 **Cast**  
-Harry Dean Stanton _(Travis Anderson)_
-Nastassja Kinski _(Jane)_
-Dean Stockwell _(Walter R. Anderson)_
-Aurore Clément _(Anne Anderson)_
-Hunter Carson _(Hunter Anderson)_
-Bernhard Wicki _(Dr Ulmer)_
-Sam Berry _(gas station attendant)_
-Claresie Mobley _(car rental clerk)_
-Viva Auder _(woman on TV)_
-Socorro Valdez _(Carmelita)_
-Edward Fayton _(Hunter’s friend)_
-Justin Hogg _(Hunter, aged 3)_
-Tom Farrell _(screaming man)_
-John Lurie _(‘Slater’)_
-Jeni Vici _(‘Stretch’)_
-Sally Norvell _(‘Nurse Bibs’)_
-Sharon Menzel _(comedienne)_
-The Mydolls _(rehearsing band)_
+Harry Dean Stanton _(Travis Anderson)_  
+Nastassja Kinski _(Jane)_  
+Dean Stockwell _(Walter R. Anderson)_  
+Aurore Clément _(Anne Anderson)_  
+Hunter Carson _(Hunter Anderson)_  
+Bernhard Wicki _(Dr Ulmer)_  
+Sam Berry _(gas station attendant)_  
+Claresie Mobley _(car rental clerk)_  
+Viva Auder _(woman on TV)_  
+Socorro Valdez _(Carmelita)_  
+Edward Fayton _(Hunter’s friend)_  
+Justin Hogg _(Hunter, aged 3)_  
+Tom Farrell _(screaming man)_  
+John Lurie _(‘Slater’)_  
+Jeni Vici _(‘Stretch’)_  
+Sally Norvell _(‘Nurse Bibs’)_  
+Sharon Menzel _(comedienne)_  
+The Mydolls _(rehearsing band)_  
 
-German Federal Republic/France/UK 1984©
-145 mins
+German Federal Republic/France/UK 1984©  
+145 mins  
 
-A Curzon release
+A Curzon release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxODU4NDJdfQ==
+eyJoaXN0b3J5IjpbMTg1NDk2OTI2Nl19
 -->
