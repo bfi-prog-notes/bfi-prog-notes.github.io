@@ -1,3 +1,14 @@
+---
+layout: post
+title: Grey Gardens
+published: false
+date: 2022-07-29
+readtime: true
+categories: ['MEMBER EXCLUSIVES']
+tags: [Documentary]
+metadata: 'USA, 1975, 95 mins<br> Directors: David Maysles, Albert Maysles, Ellen Hovde, Muffie Meyer'
+pdf: '2022-07-29-grey-gardens.pdf'
+---
 
 ‘The most incredible documentary of all time.’ (Jenny Newman, BFI Member)
 
@@ -19,23 +30,21 @@ Although it remains unknown whether Edith Ewing Beale received any immediate aid
 The financial conditions that led the Beales to the situation in which they found themselves living for nearly four decades would probably be of little interest to anyone beyond devotees to the life of Jacqueline Kennedy Onassis were it not for the fact that they became the subjects of a film that has come to inhabit a special place in the visual culture of the United States in the 1970s and in the history of the documentary film, Albert and David Maysles’ _Grey Gardens._ Filmed over the course of six weeks late in the summer of 1973 and released in 1975, the film has achieved a cult status among its audience; further, it has been the sponsoring text for a number of productions, including a subsequent documentary release by Albert Maysles (_The Beales of Grey Gardens_, 2006), an off-Broadway play, a Broadway musical, a 2009 feature fiction film made for the HBO cable channel that featured actresses Jessica Lange and Drew Barrymore, a documentary about the making of the original film, Liliana Greenfield-Sanders’ _Ghost of Grey Gardens_, as well as any number of drag performances, fashion designs by such figures as John Bartlett, Marc Jacobs and Todd Oldhan, websites, blogs, fan publications and art. Clearly, the danger that Big Edie telegraphed to her brother so long ago has taken hold within the imaginations of the many audiences for _Grey Gardens._
 
 What, though, is the appeal of this film? Why does this 95-minute cinematic portrait of a mother and daughter talking, eating, listening to music, discussing family photographs, feeding their many pets and bickering over events that had occurred decades previously fascinate its viewers? Even within the Maysles brothers’ substantial oeuvre of documentary, or, as they preferred to call it, ‘direct cinema’, which includes such canonical titles as _What’s Happening! The Beatles in America_ (1964), _Salesman_ (1968), and _Gimme Shelter_ (1970), _Grey Gardens_ has come to have a unique status as a film that altered the possibilities of the documentary image. It did so by allowing the non-fiction film to organise its materials through two previously unexamined aspects of everyday life: first, the psychodynamics of the family – in particular, the bond between mother and daughter – and, second, the role of fantasy in femininity and glamour, not least in fashion culture. Further, it introduced a particular relation between filmmaker and photographic subject that can only be called a seduction, whereby the person being photographed – in this case, Little Edie Beale – woos and courts David Maysles, the brother responsible for the film’s soundtrack. While other projects in the moving-image culture of the period had also inaugurated the documentary into similar concerns, not least the films of Andy Warhol in the 1960s, the performance films of Shirley Clarke, such as _The Connection_ (1962) and _Portrait of Jason_ (1967), and the US public television series, _An American Family_ (which aired in the year of _Grey Gardens_’ production), the images and sound of Big Edie and Little Edie brought these three fascinations together in a way that remains still pertinent to the film’s audience after over 30 years.  
-**Extracted from _Grey Gardens_ by Matthew Tinkcom (BFI Film Classics, 2011) 
-Reproduced by kind permission of Bloomsbury Publishing. ©Matthew Tinkcom**
+**Extracted from _Grey Gardens_ by Matthew Tinkcom (BFI Film Classics, 2011) Reproduced by kind permission of Bloomsbury Publishing. ©Matthew Tinkcom**  
 
-  
 
 **GREY GARDENS**  
 _Directors_: David Maysles, Albert Maysles, Ellen Hovde, Muffie Meyer  
-_Production Company_: Portrait Films Inc.
-_Producers_: The Maysles Brothers
-_Associate Producer_: Susan Froemke
-_Filmed by_: Albert Maysles, David Maysles
-_Edited by_: Ellen Hovde, Muffie Meyer, Susan Froemke
-_Colour Negative_: EFX Unlimited
-_Negative Timing_: Morris Schlein, Precision/Deluxe
-_Sound Mixer_: Lee Dichter
-_Sound Mixing_: Photo-Mag
-_Quotes from_ The Road Not Taken _by_: Robert Frost
+_Production Company_: Portrait Films Inc.  
+_Producers_: The Maysles Brothers  
+_Associate Producer_: Susan Froemke  
+_Filmed by_: Albert Maysles, David Maysles  
+_Edited by_: Ellen Hovde, Muffie Meyer, Susan Froemke  
+_Colour Negative_: EFX Unlimited  
+_Negative Timing_: Morris Schlein, Precision/Deluxe  
+_Sound Mixer_: Lee Dichter  
+_Sound Mixing_: Photo-Mag  
+_Quotes from_ The Road Not Taken _by_: Robert Frost  
 _Thanks to_: Marianne Barcellona, Peter Beard, Harry Benson, Alan Bomser, Charlie the Projectionist (movielab), Cynthia Castleman, Pamela Degnan, Kathryn Demby, Holly Gill, Bernard Gotfryd, John Jourdan, Dorothy King, Donald George Klocek, Akiva Kohane, Sarah Legon, Vincent Lombardo, Nöelle Penraat, Vincent Stenerson, TVC Labs, Lois Wright  
 
 **With**  
@@ -48,7 +57,9 @@ Brooks Hires
 USA 1975  
 95 mins  
 
-_Grey Gardens_ by Matthew Tinkcom is available to buy from the BFI Shop: **https://shop.bfi.org.uk/grey-gardens-bfi-film-classics.html**
+_Grey Gardens_ by Matthew Tinkcom is available to buy from the BFI Shop: **https://shop.bfi.org.uk/grey-gardens-bfi-film-classics.html**  
+<img style="float: left;" src="/img/grey-gardens.png" width="30%" height="30%">
+<br><br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -92,6 +103,19 @@ Mon 22 Aug 18:30
 **Terror Vision: Burnt Offerings**
 Thu 25 Aug 18:10
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ0NzQ2MDYsNzMwOTk4MTE2XX0=
--->
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
