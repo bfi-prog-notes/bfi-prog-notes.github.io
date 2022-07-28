@@ -1,3 +1,14 @@
+---
+layout: post
+title: Hit the Road
+published: true
+date: 2022-07-29
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama, Comedy]
+metadata: 'Iran, 2021, 94 mins<br> Director: Panah Panahi'
+pdf: '2022-07-29-hit-the-road.pdf'
+---
 
 If modern Iranian cinema already has one family filmmaking dynasty established in the Makhmalbafs (father Mohsen, followed by daughters Samira and Hana), step forward a second second-generation talent. Panah Panahi, son of the infamously banned director Jafar (_The White Balloon_, 1995, _Crimson Gold_, 2003), studied cinema, worked on several of his father’s later projects and here makes his own stunning debut feature.
 
@@ -81,6 +92,21 @@ Continues from Fri 29 Jul
 From Fri 5 Aug (+ intro by season curator and author Lloyd Bradley on Fri 5 Aug 18:15)  
 **Burning an Illusion**  
 From Fri 19 Aug  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDI0MDAwOF19
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
