@@ -49,38 +49,38 @@ _Written by_: Panah Panahi
 _Director of Photography:_ Amin Jafari  
 _Editor:_ Ashkan Mehri, Amir Etminan  
 _Visual Effects Supervisor:_ Mohammad Sanifar  
-_Costume Designer:_ Masha and Sara Khamisi
-_Music:_ Payman Yazdanian
-_Sound:_ Abdolreza Heydari
-_Sound Mix:_ Zohreh Ali Akbari
+_Costume Designer:_ Masha and Sara Khamisi  
+_Music:_ Payman Yazdanian  
+_Sound:_ Abdolreza Heydari  
+_Sound Mix:_ Zohreh Ali Akbari  
 
 **Cast**  
 Hassan Madjooni _(dad)_  
 Pantea Panahiha _(mom)_  
 Rayan Sarlak _(little brother)_  
-Amin Simiar _(big brother)_
+Amin Simiar _(big brother)_  
 
-Iran 2021©
-94 mins
+Iran 2021©  
+94 mins  
 
-**NEW RELEASES**
-**Hit the Road (Jaddeh Khaki)**
-Continues from Fri 29 Jul
-**The Feast**
-From Fri 19 Aug
-**Where Is Anne Frank**
-From Fri 19 Aug
-**Queen of Glory**
-From Fri 28 Aug
-**RE-RELEASES**
-**The Big City (Mahanagar)**
-Continues from Fri 22 Jul
-**Paris, Texas**
-Continues from Fri 29 Jul
-**The Harder They Come**
-From Fri 5 Aug (+ intro by season curator and author Lloyd Bradley on Fri 5 Aug 18:15)
-**Burning an Illusion**
-From Fri 19 Aug
+**NEW RELEASES**  
+**Hit the Road (Jaddeh Khaki)**  
+Continues from Fri 29 Jul  
+**The Feast**  
+From Fri 19 Aug  
+**Where Is Anne Frank**  
+From Fri 19 Aug  
+**Queen of Glory**  
+From Fri 28 Aug  
+**RE-RELEASES**  
+**The Big City (Mahanagar)**  
+Continues from Fri 22 Jul  
+**Paris, Texas**  
+Continues from Fri 29 Jul  
+**The Harder They Come**  
+From Fri 5 Aug (+ intro by season curator and author Lloyd Bradley on Fri 5 Aug 18:15)  
+**Burning an Illusion**  
+From Fri 19 Aug  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5OTQwMTY4XX0=
+eyJoaXN0b3J5IjpbMTMwNDI0MDAwOF19
 -->
