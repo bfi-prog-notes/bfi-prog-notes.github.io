@@ -50,6 +50,48 @@ USA 1975
 
 _Grey Gardens_ by Matthew Tinkcom is available to buy from the BFI Shop: **https://shop.bfi.org.uk/grey-gardens-bfi-film-classics.html**
 
+
+
+**MEMBER EXCLUSIVES**
+**Member Salon: Hit the Road**
+Tue 2 Aug 20:00
+**Member Picks: Rocky**
+Sat 6 Aug 17:40
+**BFI Members Book Club: Satyajit Ray**
+Mon 15 Aug 19:00 BFI Reuben Library
+
+**IN PERSON & PREVIEWS**  
+**BFI Expanded: Child of Empire**
+1-7 Aug 14:00-21:00
+**BFI Expanded: World Premiere: Lost Migrations**
+Mon 1 Aug 17:30, 19:30
+**TV Preview: The Sandman + Q&A with creator Neil Gaiman and cast member Tom Sturridge**
+Wed 3 Aug 19:00
+**Being Blacker + Q&A with Molly Dineen, Blacker Dread and Naptali**
+Tue 9 Aug 20:30
+**Preview: My Old School + Q&A with director Jono McLeod and actor Alan Cumming**
+Fri 12 Aug 18:15
+**Tony Hancock: Oddities and Rarities**
+Sat 13 Aug 12:00
+**TV Preview: Am I Being Unreasonable? + Q&A with writer/actors Daisy May Cooper, Selin Hizli and exec producer Jack Thorne**
+Wed 31 Aug 18:15
+
+**REGULAR PROGRAMME**
+**Experimenta: Nocturnal London: Codex + Stuart Pound in conversation**
+Wed 10 Aug 18:15
+**The Divine Voyage (La Divine Croisière)** **+ intro by Bryony Dixon, BFI Archive Curator**
+Sun 14 Aug 15:00
+**Projecting the Archive: The Frog + intro by Vic Pratt, Producer, BFI Video Publishing**
+Tue 16 Aug 18:30
+**Art in the Making: 12 Views of Kensal House + intro by Steven Foxon, BFI Curator (Non-Fiction)**
+Thu 18 Aug 18:30
+**Relaxed Screening: Kes + intro + discussion**
+Mon 22 Aug 18:15
+**Woman With a Movie Camera Preview: Queen of Glory**
+Mon 22 Aug 18:30
+**Terror Vision: Burnt Offerings**
+Thu 25 Aug 18:10
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzYxNjcyMSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE3MTQ0NzQ2MDYsNzMwOTk4MTE2XX0=
 -->
