@@ -1,7 +1,4 @@
 
-
-<![endif]-->
-
 If modern Iranian cinema already has one family filmmaking dynasty established in the Makhmalbafs (father Mohsen, followed by daughters Samira and Hana), step forward a second second-generation talent. Panah Panahi, son of the infamously banned director Jafar (_The White Balloon_, 1995, _Crimson Gold_, 2003), studied cinema, worked on several of his father’s later projects and here makes his own stunning debut feature.
 
 As the title suggests, this is a road movie, a family trip by Mom, Dad with his leg in a cast, the eerily taciturn young adult son who drives their packed SUV, his hyperactive little brother and an ailing dog in the back. We’re never explicitly told their names, where they’re going or even why, though the older brother’s marriage arrangements are vaguely cited. At first, when his parents realise their youngest has smuggled a cell phone along to play music, it seems like a mere cheeky prank – until the mother cuts up the SIM card and promptly hides the handset off-road.
@@ -12,12 +9,10 @@ To reveal more would rob the film of its narrative surprises. What does need to 
 
 Eventually what comes into focus is a tale of family flight and survival, sudden loss and stoic perseverance. That Panahi Jr is able to weave together slice-of-life realism with a _2001: A Space Odyssey_-inspired, floating-among-the-stars fantasy sequence is testament to not just his range of influences (the delicate humanism of his father is highly evident) but his ambition. He’s aided by the superb performances of his central cast, stage actors Hassan Madjooni and Pantea Panahiha as the parents and long-lashed natural Rayan Sarlak as the firecracker kid.
 
-Criticism of his country’s authoritarian regime and the psychological toll it takes on ordinary people is implicit in every stage of the journey but achieved with the lightest of touches. For ultimately, as with much of the enduring work of his father and other recent Iranian cinema icons, from Abbas Kiarostami to Asghar Farhadi to the Makhmalbafs, these are stories both culturally specific and able to evoke universal experiences that connect beyond borders. To achieve something of comparable stature to these greats in his late-twenties, with a first film, bodes well for, one hopes, Panah Panahi’s long, rewarding, unrestricted career. In which case, it’s well worth hitching a ride right from the start.
+Criticism of his country’s authoritarian regime and the psychological toll it takes on ordinary people is implicit in every stage of the journey but achieved with the lightest of touches. For ultimately, as with much of the enduring work of his father and other recent Iranian cinema icons, from Abbas Kiarostami to Asghar Farhadi to the Makhmalbafs, these are stories both culturally specific and able to evoke universal experiences that connect beyond borders. To achieve something of comparable stature to these greats in his late-twenties, with a first film, bodes well for, one hopes, Panah Panahi’s long, rewarding, unrestricted career. In which case, it’s well worth hitching a ride right from the start.  
+**Leigh Singer, bfi.org.uk, 11 July 2021**  
 
-**Leigh Singer, bfi.org.uk, 11 July 2021**
-
-**Interview with the director** **Panah Panahi**
-
+**Interview with the director Panah Panahi**  
 _You are the son of Jafar Panahi, who started out as Abbas Kiarostami’s assistant and disciple. We imagine that the influence of both directors gave you a taste for cinema. Did you learn to be a director directly from them, or by watching their movies?_
 
 From childhood, I attended location scouting and was on set for my father’s and Abbas Kiarostami’s films. My parents mainly hang out with cinema people. I grew up in this environment, so I saw many films, and that inevitably formed my eyes. Still, I hardly ever talked about cinema with my father, until I was 18 or 19. When I finally told him that I wanted to study cinema, he understood that this interest had to be taken seriously. During my studies, I was able to work both as an assistant director and cinematographer to learn first-hand. I was then able to assist my father on his most recent films, from writing to post-production, and I was able to ask him all the questions I could think of. My surroundings were very conducive to my training as a filmmaker.
@@ -40,32 +35,25 @@ The majority of the Iranian population live in cities and wear the same type of 
 
 _Is this family a fictional version of the Panahi family?_
 
-I didn’t want to portray a certain type of Iranian family, let alone my own. However, I’m sure that unconsciously I created these characters based on my own experience, and of family relationships as I observed them.
+I didn’t want to portray a certain type of Iranian family, let alone my own. However, I’m sure that unconsciously I created these characters based on my own experience, and of family relationships as I observed them.  
+**Production notes**  
 
-**Production notes**
-
-  
-
-**HIT THE ROAD**
-
+**HIT THE ROAD**  
 _Director_: Panah Panahi  
 _©_: JP Film Production  
 _Production Company_: JP Productions  
 _Producers_: Panah Panahi, Jafar Panahi,Mastaneh Mohajer  
-_Line Producer:_ Mastaneh Mohajer
-
-_1st Assistant Director:_ Negar Joneydi
-
-_Written by_: Panah Panahi
-
-_Director of Photography:_ Amin Jafari
-
-_Editor:_ Ashkan Mehri, Amir Etminan
-_Visual Effects Supervisor:_ Mohammad Sanifar
+_Line Producer:_ Mastaneh Mohajer  
+_1st Assistant Director:_ Negar Joneydi  
+_Written by_: Panah Panahi  
+_Director of Photography:_ Amin Jafari  
+_Editor:_ Ashkan Mehri, Amir Etminan  
+_Visual Effects Supervisor:_ Mohammad Sanifar  
 _Costume Designer:_ Masha and Sara Khamisi
 _Music:_ Payman Yazdanian
 _Sound:_ Abdolreza Heydari
 _Sound Mix:_ Zohreh Ali Akbari
+
 **Cast**  
 Hassan Madjooni _(dad)_  
 Pantea Panahiha _(mom)_  
@@ -94,5 +82,5 @@ From Fri 5 Aug (+ intro by season curator and author Lloyd Bradley on Fri 5 Aug 
 **Burning an Illusion**
 From Fri 19 Aug
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjE5NTIyMDldfQ==
+eyJoaXN0b3J5IjpbODQ5OTQwMTY4XX0=
 -->
