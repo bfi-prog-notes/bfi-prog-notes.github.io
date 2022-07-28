@@ -1,3 +1,14 @@
+---
+layout: post
+title: Paris, Texas
+published: true
+date: 2022-07-29
+readtime: true
+categories: ['RE-RELEASES']
+tags: [Drama]
+metadata: 'German Federal Republic/France/UK 1984, 145 mins<br> Director: Wim Wenders'
+pdf: '2022-07-29-paris-texas.pdf'
+---
 
 Travis Henderson (Harry Dean Stanton) walks out of the desert after four years, to the amazement of his brother, Walt (Dean Stockwell). Reunited with Hunter, his seven-year-old son, Travis decides that they should search for his ex-wife (Nastassja Kinski) so that they can be a family once again. Late, great character actor Stanton took his first, and greatest, leading role in Wim Wenders’ moving slice of Americana.
 
@@ -96,6 +107,42 @@ German Federal Republic/France/UK 1984©
 145 mins  
 
 A Curzon release  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDk2OTI2Nl19
--->
+<br>
+
+**NEW RELEASES**  
+**Hit the Road (Jaddeh Khaki)**  
+Continues from Fri 29 Jul  
+**The Feast**  
+From Fri 19 Aug  
+**Where Is Anne Frank**  
+From Fri 19 Aug  
+**Queen of Glory**  
+From Fri 28 Aug  
+
+**RE-RELEASES**  
+**The Big City (Mahanagar)**  
+Continues from Fri 22 Jul  
+**Paris, Texas**  
+Continues from Fri 29 Jul  
+**The Harder They Come**  
+From Fri 5 Aug (+ intro by season curator and author Lloyd Bradley on Fri 5 Aug 18:15)  
+**Burning an Illusion**  
+From Fri 19 Aug  
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
