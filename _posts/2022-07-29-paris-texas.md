@@ -127,41 +127,24 @@ _Boom Man:_ Douglas Axtell
 _Re-recording Mixer:_ Hartmut Eichgrün
 
 _Sound Editor:_ Dominique Auvray
-
 _Transportation:_ Homer Albin, Al Cantu, Lynn Brisbin, Carl Johnson, Richard Padgett, B.C. Smith, Charlie Griffith, Tom Kelton
-
 _Caterer (Texas):_ Sherry McBride
-
 _For:_ Lotte H. Eisner
-
 _With many thanks to:_ Barbara von Weitershausen
 
-**Cast**
-
+**Cast**  
 Harry Dean Stanton _(Travis Anderson)_
-
 Nastassja Kinski _(Jane)_
-
 Dean Stockwell _(Walter R. Anderson)_
-
 Aurore Clément _(Anne Anderson)_
-
 Hunter Carson _(Hunter Anderson)_
-
 Bernhard Wicki _(Dr Ulmer)_
-
 Sam Berry _(gas station attendant)_
-
 Claresie Mobley _(car rental clerk)_
-
 Viva Auder _(woman on TV)_
-
 Socorro Valdez _(Carmelita)_
-
 Edward Fayton _(Hunter’s friend)_
-
 Justin Hogg _(Hunter, aged 3)_
-
 Tom Farrell _(screaming man)_
 John Lurie _(‘Slater’)_
 Jeni Vici _(‘Stretch’)_
@@ -174,5 +157,5 @@ German Federal Republic/France/UK 1984©
 
 A Curzon release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjY4NjE5XX0=
+eyJoaXN0b3J5IjpbLTIxMDY3NDM2MjNdfQ==
 -->
