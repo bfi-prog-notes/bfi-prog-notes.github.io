@@ -18,64 +18,38 @@ Although it remains unknown whether Edith Ewing Beale received any immediate aid
 
 The financial conditions that led the Beales to the situation in which they found themselves living for nearly four decades would probably be of little interest to anyone beyond devotees to the life of Jacqueline Kennedy Onassis were it not for the fact that they became the subjects of a film that has come to inhabit a special place in the visual culture of the United States in the 1970s and in the history of the documentary film, Albert and David Maysles’ _Grey Gardens._ Filmed over the course of six weeks late in the summer of 1973 and released in 1975, the film has achieved a cult status among its audience; further, it has been the sponsoring text for a number of productions, including a subsequent documentary release by Albert Maysles (_The Beales of Grey Gardens_, 2006), an off-Broadway play, a Broadway musical, a 2009 feature fiction film made for the HBO cable channel that featured actresses Jessica Lange and Drew Barrymore, a documentary about the making of the original film, Liliana Greenfield-Sanders’ _Ghost of Grey Gardens_, as well as any number of drag performances, fashion designs by such figures as John Bartlett, Marc Jacobs and Todd Oldhan, websites, blogs, fan publications and art. Clearly, the danger that Big Edie telegraphed to her brother so long ago has taken hold within the imaginations of the many audiences for _Grey Gardens._
 
-What, though, is the appeal of this film? Why does this 95-minute cinematic portrait of a mother and daughter talking, eating, listening to music, discussing family photographs, feeding their many pets and bickering over events that had occurred decades previously fascinate its viewers? Even within the Maysles brothers’ substantial oeuvre of documentary, or, as they preferred to call it, ‘direct cinema’, which includes such canonical titles as _What’s Happening! The Beatles in America_ (1964), _Salesman_ (1968), and _Gimme Shelter_ (1970), _Grey Gardens_ has come to have a unique status as a film that altered the possibilities of the documentary image. It did so by allowing the non-fiction film to organise its materials through two previously unexamined aspects of everyday life: first, the psychodynamics of the family – in particular, the bond between mother and daughter – and, second, the role of fantasy in femininity and glamour, not least in fashion culture. Further, it introduced a particular relation between filmmaker and photographic subject that can only be called a seduction, whereby the person being photographed – in this case, Little Edie Beale – woos and courts David Maysles, the brother responsible for the film’s soundtrack. While other projects in the moving-image culture of the period had also inaugurated the documentary into similar concerns, not least the films of Andy Warhol in the 1960s, the performance films of Shirley Clarke, such as _The Connection_ (1962) and _Portrait of Jason_ (1967), and the US public television series, _An American Family_ (which aired in the year of _Grey Gardens_’ production), the images and sound of Big Edie and Little Edie brought these three fascinations together in a way that remains still pertinent to the film’s audience after over 30 years.
-
-**Extracted from _Grey Gardens_ by Matthew Tinkcom (BFI Film Classics, 2011)****  
-Reproduced by kind permission of Bloomsbury Publishing. ©****Matthew Tinkcom**
+What, though, is the appeal of this film? Why does this 95-minute cinematic portrait of a mother and daughter talking, eating, listening to music, discussing family photographs, feeding their many pets and bickering over events that had occurred decades previously fascinate its viewers? Even within the Maysles brothers’ substantial oeuvre of documentary, or, as they preferred to call it, ‘direct cinema’, which includes such canonical titles as _What’s Happening! The Beatles in America_ (1964), _Salesman_ (1968), and _Gimme Shelter_ (1970), _Grey Gardens_ has come to have a unique status as a film that altered the possibilities of the documentary image. It did so by allowing the non-fiction film to organise its materials through two previously unexamined aspects of everyday life: first, the psychodynamics of the family – in particular, the bond between mother and daughter – and, second, the role of fantasy in femininity and glamour, not least in fashion culture. Further, it introduced a particular relation between filmmaker and photographic subject that can only be called a seduction, whereby the person being photographed – in this case, Little Edie Beale – woos and courts David Maysles, the brother responsible for the film’s soundtrack. While other projects in the moving-image culture of the period had also inaugurated the documentary into similar concerns, not least the films of Andy Warhol in the 1960s, the performance films of Shirley Clarke, such as _The Connection_ (1962) and _Portrait of Jason_ (1967), and the US public television series, _An American Family_ (which aired in the year of _Grey Gardens_’ production), the images and sound of Big Edie and Little Edie brought these three fascinations together in a way that remains still pertinent to the film’s audience after over 30 years.  
+**Extracted from _Grey Gardens_ by Matthew Tinkcom (BFI Film Classics, 2011) 
+Reproduced by kind permission of Bloomsbury Publishing. ©Matthew Tinkcom**
 
   
 
-**GREY GARDENS**
-
-_Directors_: David Maysles, Albert Maysles, Ellen Hovde, Muffie Meyer
-
+**GREY GARDENS**  
+_Directors_: David Maysles, Albert Maysles, Ellen Hovde, Muffie Meyer  
 _Production Company_: Portrait Films Inc.
-
 _Producers_: The Maysles Brothers
-
 _Associate Producer_: Susan Froemke
-
 _Filmed by_: Albert Maysles, David Maysles
-
 _Edited by_: Ellen Hovde, Muffie Meyer, Susan Froemke
-
 _Colour Negative_: EFX Unlimited
-
 _Negative Timing_: Morris Schlein, Precision/Deluxe
-
 _Sound Mixer_: Lee Dichter
-
 _Sound Mixing_: Photo-Mag
-
 _Quotes from_ The Road Not Taken _by_: Robert Frost
+_Thanks to_: Marianne Barcellona, Peter Beard, Harry Benson, Alan Bomser, Charlie the Projectionist (movielab), Cynthia Castleman, Pamela Degnan, Kathryn Demby, Holly Gill, Bernard Gotfryd, John Jourdan, Dorothy King, Donald George Klocek, Akiva Kohane, Sarah Legon, Vincent Lombardo, Nöelle Penraat, Vincent Stenerson, TVC Labs, Lois Wright  
 
-_Thanks to_: Marianne Barcellona, Peter Beard, Harry Benson,
+**With**  
+Edith Bouvier Beale  
+Jerry Torre  
+Lois Wright  
+Jack Helmuth  
+Brooks Hires  
 
-Alan Bomser, Charlie the Projectionist (movielab),
-
-Cynthia Castleman, Pamela Degnan, Kathryn Demby, Holly Gill,
-
-Bernard Gotfryd, John Jourdan, Dorothy King, Donald George Klocek, Akiva Kohane, Sarah Legon, Vincent Lombardo, Nöelle Penraat,
-
-Vincent Stenerson, TVC Labs, Lois Wright
-
-**With**
-
-Edith Bouvier Beale
-
-Jerry Torre
-
-Lois Wright
-
-Jack Helmuth
-
-Brooks Hires
-
-USA 1975
-95 mins
+USA 1975  
+95 mins  
 
 _Grey Gardens_ by Matthew Tinkcom is available to buy from the BFI Shop: **https://shop.bfi.org.uk/grey-gardens-bfi-film-classics.html**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2NTY5MDE5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTM3MzYxNjcyMSw3MzA5OTgxMTZdfQ==
 -->
