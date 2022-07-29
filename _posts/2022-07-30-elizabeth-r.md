@@ -8,37 +8,27 @@ John Hale’s opening play, ‘The Lion’s Cub’, makes few concessions to vie
 
 As befits a major BBC historical drama, the requisite splendours of costume and design are emphasised, but originality is also evident: filming the flashbacks to Elizabeth’s youth with a subjective camera; building studio sets with ornate ceilings; and the challenging use of dark humour underlining Julian Mitchell’s moving depiction of the Queen’s marriage problems in ‘Shadow in the Sun’.
 
-There was no feature film version as there was for _Henry VIII_, although Jackson  did play Elizabeth again in _Mary, Queen of Scots_ (1972), written by _Elizabeth R_  co-author John Hale.
+There was no feature film version as there was for _Henry VIII_, although Jackson  did play Elizabeth again in _Mary, Queen of Scots_ (1972), written by _Elizabeth R_  co-author John Hale.  
+**Sergio Angelini, BFI Screenonline, screenonline.org.uk**
+<br><br>
 
-Sergio Angelini, BFI Screenonline, screenonline.org.uk
-
-<![endif]-->
-
-**ELIZABETH R**
-
-_Directors_: Claude Whatham, Herbert Wise,  
-Richard Martin, Rod Graham, Donald McWhinnie  
+**ELIZABETH R**  
+_Directors_: Claude Whatham, Herbert Wise,  Richard Martin, Rod Graham, Donald McWhinnie  
 _Production Company_: BBC  
-_Producer_: Rod Graham
-
+_Producer_: Rod Graham  
 _Script Editor_: Margaret Hare  
-_Script_: John Hale, Rosemary Anne Sisson,  
-Julian Mitchell, Hugh Whitemore, John Prebble,  
-Ian Rodger  
-_Lighting_: Robert Wright
-
-_Film Cameraman_: Nat Crosby
-
-_Film Editor_: Dan Rae_Designers_: Peter Seddon, Richard Henry_Costumes_: Elizabeth Waller  
-_Make-up_: Dawn Alcock, Sandra Shepherd
-
+_Script_: John Hale, Rosemary Anne Sisson,  Julian Mitchell, Hugh Whitemore, John Prebble,  Ian Rodger  
+_Lighting_: Robert Wright  
+_Film Cameraman_: Nat Crosby  
+_Film Editor_: Dan Rae  
+_Designers_: Peter Seddon, Richard Henry  
+_Costumes_: Elizabeth Waller  
+_Make-up_: Dawn Alcock, Sandra Shepherd  
 _Titles_: Oliver Elmes  
-_Music_: David Munrow
+_Music_: David Munrow  
+_Sound_: Brian Hiles  
 
-_Sound_: Brian Hiles
-
-_Cast:_
-
+**Cast**  
 Glenda Jackson _(Elizabeth I)_  
 Ronald Hines _(William Cecil, Lord Burghley)_  
 Daphne Slater _(Mary Tudor)_  
@@ -62,8 +52,7 @@ Alan Foss _(Sir Henry Bedingfield)_
 Brendan Barry _(Renard)_  
 Julian Holloway _(de Noailles, French Ambassador)_  
 Kevin Brennan _(Bridges)_  
-Richard Parry _(guard)_
-
+Richard Parry _(guard)_  
 David Strong _(Duke of Norfolk)_  
 Robert Hardy _(Robert Dudley, Earl of Leicester)_  
 Stacey Tendeter _(Amye Dudley)_  
@@ -75,8 +64,7 @@ Clare Austin _(Mrs Pinto)_
 Denis Carey _(Dr Burcot)_  
 Angela Thorne _(Lettice Knollys)_  
 Vivian Pickles _(Mary, Queen of Scots)_  
-John Cairney _(Sir James Melville)_
-
+John Cairney _(Sir James Melville)_  
 Stephen Murray _(Walsingham)_  
 Michael Williams _(Duke of Alencon)_  
 Margaretta Scott _(Catherine de Medici)_  
@@ -146,5 +134,5 @@ Part 1 (85min) + interval (20min) + part 2 (90min)
 Part 4 (90min) + interval (20min) + part 5 (90min)  
 + interval (30min) + part 6 (90min)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzM4NjQ3MDBdfQ==
+eyJoaXN0b3J5IjpbLTUxNjM0ODY5N119
 -->
