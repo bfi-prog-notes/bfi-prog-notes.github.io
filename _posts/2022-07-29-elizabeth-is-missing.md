@@ -35,45 +35,30 @@ _What is Maud’s relationship like with her daughter Helen and her granddaughte
 
 Maud’s husband died many years ago but she still has family. Her son, who is clearly her favourite child, is in Germany with his family so her closest people are Helen and Katy. Her relationship with Helen veers from being critically ignorant of her to being dependent on her. Maud isn’t ignorant of her being there but she ignores what she thinks and says. At the same time she’s very dependent on her, emotionally and physically. She has these flares of rage but it will be expressed against anybody that’s in the room. In a curious kind of way, it’s not personal. The illness takes away understanding on every kind of human being level. She can be very brutal to her granddaughter but it’s because she doesn’t recognise her as her granddaughter. I’ve seen that, I’ve seen people not recognising their family. However many times they’ve seen it, for the family member it is really desperately upsetting.
 
-BBC production notes
+**BBC production notes**
+<br><br>
 
-<![endif]-->
+**ELIZABETH IS MISSING**<br>
+_Director:_ Aisling Walsh<br>
+_Production Company:_ STV Productions<br>
+_Executive Producers:_ Sarah Brown, Andrea Gibb, Gaynor Holmes<br>
+_Producer:_ Chrissy Skinns<br>
+_Written by:_ Andrea Gibb<br>
+_Based on the novel by:_ Emma Healey<br>
 
-**ELIZABETH IS MISSING**
+**Cast**<br>
+Glenda Jackson _(Maud)_<br>
+Helen Behan _(Helen)_<br>
+Sophie Rundle _(Sukey)_<br>
+Liv Hill _(young Maud)_<br>
+Nell Williams _(Katy)_<br>
+Mark Stanley _(Frank)_<br>
+Neil Pendleton _(Douglas)_<br>
+Maggie Steed _(Elizabeth)_<br>
 
-_Director:_ Aisling Walsh
-
-_Production Company:_ STV Productions
-
-_Executive Producers:_ Sarah Brown, Andrea Gibb, Gaynor Holmes
-
-_Producer:_ Chrissy Skinns
-
-_Written by:_ Andrea Gibb
-
-_Based on the novel by:_ Emma Healey
-
-_Cast:_
-
-Glenda Jackson _(Maud)_
-
-Helen Behan _(Helen)_
-
-Sophie Rundle _(Sukey)_
-
-Liv Hill _(young Maud)_
-
-Nell Williams _(Katy)_
-
-Mark Stanley _(Frank)_
-
-Neil Pendleton _(Douglas)_
-
-Maggie Steed _(Elizabeth)_
-
-BBC 2019
-
-87 mins
+BBC 2019<br>
+87 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg5NDM1OV19
+eyJoaXN0b3J5IjpbMTUxNzg2MDI2OF19
 -->
