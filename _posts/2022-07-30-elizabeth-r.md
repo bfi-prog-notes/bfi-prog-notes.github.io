@@ -76,8 +76,7 @@ James Laurenson _(Simier)_
 Leslie Lawton _(Jacques)_  
 Kenton Moore _(preacher)_  
 Mary Patricia Finn _(dwarf ‘Elizabeth’)_  
-Albert Horton _(dwarf ‘Leicester’)_
-
+Albert Horton _(dwarf ‘Leicester’)_  
 David Collings _(Sir Anthony Babington)_  
 Hamilton Dyce _(Sir Amyas Paulet)_  
 Brian Wilde _(Richard Topcliffe)_  
@@ -88,8 +87,7 @@ Bernard Holley _(Gilbert Gifford)_
 John Ruddock _(John Whitgift)_  
 David Nettheim _(Thomas Phelippes)_  
 David Garfield _(John Ballard)_  
-James Culliford _(John Savage)_
-
+James Culliford _(John Savage)_  
 Robin Ellis _(Earl of Essex)_  
 Peter Howell _(Lord Howard)_  
 John Woodvine _(Sir Francis Drake)_  
@@ -103,8 +101,7 @@ Gordon Gostelow _(Duke of Medina Sidonia)_
 Bill Horsley _(Dutch envoy)_  
 Ian Ricketts _(Luis Cabrera de Cordoba)_  
 Malcolm Mcfee _(young soldier)_  
-Derek Hardwick _(old soldier)_
-
+Derek Hardwick _(old soldier)_  
 John Nettleton _(Francis Bacon)_  
 Nicholas Selby _(Sir Walter Raleigh)_  
 Patrick O’Connell _(O’Neill)_  
@@ -133,6 +130,7 @@ Part 1 (85min) + interval (20min) + part 2 (90min)
 
 Part 4 (90min) + interval (20min) + part 5 (90min)  
 + interval (30min) + part 6 (90min)
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjM0ODY5N119
+eyJoaXN0b3J5IjpbNzA3NTk2OTMxXX0=
 -->
