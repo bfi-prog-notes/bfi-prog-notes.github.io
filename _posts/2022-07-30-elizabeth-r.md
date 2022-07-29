@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Elizabeth R
+published: true
+date: 2022-07-30
+readtime: true
+categories: ['GLENDA JACKSON']
+tags: [Drama, Period]
+metadata: 'UK 1971, 6 x c90 mins + intervals<br> Directors: Various'
+pdf: '2022-07-30-elizabeth-r.pdf'
+---
 
 After the great public and critical success of _The Six Wives of Henry VIII_ (1970), the BBC turned hopefully to the turbulent life of the King’s daughter, Elizabeth.  The approach was essentially the same – six 90-minute plays covering the life of the monarch from youth to old age – and proved to be even more popular.
 
@@ -131,6 +141,65 @@ Part 1 (85min) + interval (20min) + part 2 (90min)
 Part 4 (90min) + interval (20min) + part 5 (90min)  
 + interval (30min) + part 6 (90min)
 <br><br>
+
+**GLENDA JACKSON**<br>
+**Women in Love**<br>
+Sat 2 Jul 17:40; Wed 13 Jul 20:3; Fri 15 Jul 20:30<br>
+**Horror of Darkness + Let’s Murder Vivaldi**<br>
+Sun 3 Jul 15:20<br>
+**Mary, Queen of Scots**<br>
+Sun 3 Jul 18:15; Wed 20 Jul 20:30<br>
+**Glenda Jackson in Conversation**<br>
+Tue 5 Jul 18:15<br>
+**Sunday Bloody Sunday**<br>
+Tue 5 Jul 20:40; Sun 24 Jul 18:30<br>
+**Hedda**<br>
+Fri 8 Jul 18:00; Sat 16 Jul 16:30<br>
+**A Touch of Class**<br>
+Sat 9 Jul 15:15; Sat 23 Jul 20:45<br>
+**The Romantic Englishwoman**<br>
+Sun 10 Jul 18:10; Mon 18 Jul 20:40<br>
+**Stevie**<br>
+Thu 14 Jul 20:30; Sat 23 Jul 12:00<br>
+**Hopscotch**<br>
+Fri 15 Jul 18:00; Tue 26 Jul 20:40<br>
+**House Calls**<br>
+Sat 16 Jul 18:45; Fri 22 Jul 20:30<br>
+**The Maids**<br>
+Sat 16 Jul 20:50; Sun 24 Jul 15:50<br>
+**The Rainbow**<br>
+Tue 19 Jul 20:40; Sun 31 Jul 13:00<br>
+**Giro City + Glenda Jackson & Politics (clip compilation)**<br>
+Thu 21 Jul 17:50<br>
+**Turtle Diary**<br>
+Thu 21 Jul 20:50; Fri 29 Jul 20:30<br>
+**Strange Interlude**<br>
+Sat 23 Jul 15:30<br>
+**The House of Bernarda Alba**<br>
+Mon 25 Jul 17:50<br>
+**Elizabeth Is Missing**<br>
+Fri 29 Jul 18:15<br>
+**Elizabeth R (the complete series)**<br>
+Eps 1-3 Sat 30 Jul 14:20; Eps 4-6 Sun 31 Jul 14:30<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzA3NTk2OTMxXX0=
 -->
