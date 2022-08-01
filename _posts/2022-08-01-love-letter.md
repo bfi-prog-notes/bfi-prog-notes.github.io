@@ -17,67 +17,51 @@ Tanaka’s star status and her contacts in the industry played in her favour, al
 The six films Tanaka directed, while moving broadly within the conventions of the romantic melodrama with which she was mostly associated as an actress, disrupted the dominant representations of women in Japanese cinema of the time. In two of her films, Tanaka looks at the ubiquitous figure of the prostitute. In _Love Letter_, the national (male) trauma of the war defeat is represented through the story of a returning Japanese soldier who discovers that his beloved girlfriend had a relationship with an American official after the war, and dismisses her as a ‘_panpan_’ (streetwalker prostitute). In her fifth film, _Girl of Dark_ (1961), Tanaka explored the issue from another angle, depicting the struggle of a former prostitute to change her life after the enforcement of the Anti-Prostitution Law of 1956. Her most celebrated film, _The Eternal Breasts_ (1955), portrayed the tragic fight of a female poet against breast cancer – not in terms of victimhood, but as the emergence of an audacious female subject able to express and reclaim her sexual desires and subjectivity.
 
 The central place of female characters and women’s issues in Tanaka’s filmography was in part a reflection of the wider Japanese cinema of the time, but it also reveals a deliberate approach on her part. Tanaka was acutely conscious that she was a rare anomaly as a female director, and deliberately constructed spaces to allow for other female authorship and subjectivity.  
-She worked with female scriptwriters such as Sumie Tanaka on _The Eternal Breasts_ and _Girl of Dark_, and Natto Wada in _The Wandering Princess_ (1960) – all films adapted from biographical accounts or novels by female authors, and focused on the multifaceted experiences of female protagonists, who in turn were played by charismatic stars such as Yumeji Tsukioka or Machiko Kyo. Her last film, and the only _jidaigeki_ (period drama) of her career, _Love under the Crucifix_ (1962), was produced by Ninjin Kurabu, a film company founded by three actresses – Yoshiko Kuga, Keiko Kishi and Ineko Arima (who also starred in the film). The idea behind the project also came through a woman, executive producer Hisako Nagashima. It’s high time that Tanaka’s achievements as a director were more widely appreciated – and seen – alongside her unassailable position as one of Japanese cinema’s greatest actors.
+She worked with female scriptwriters such as Sumie Tanaka on _The Eternal Breasts_ and _Girl of Dark_, and Natto Wada in _The Wandering Princess_ (1960) – all films adapted from biographical accounts or novels by female authors, and focused on the multifaceted experiences of female protagonists, who in turn were played by charismatic stars such as Yumeji Tsukioka or Machiko Kyo. Her last film, and the only _jidaigeki_ (period drama) of her career, _Love under the Crucifix_ (1962), was produced by Ninjin Kurabu, a film company founded by three actresses – Yoshiko Kuga, Keiko Kishi and Ineko Arima (who also starred in the film). The idea behind the project also came through a woman, executive producer Hisako Nagashima. It’s high time that Tanaka’s achievements as a director were more widely appreciated – and seen – alongside her unassailable position as one of Japanese cinema’s greatest actors.  
+**Alejandra Armendáriz-Hernández, _Sight & Sound_, November 2017**  
 
-**Alejandra Armendáriz-Hernández, _Sight & Sound_, November 2017**
+**LOVE LETTER (KOIBUMI)**  
+_Director:_ Kinuyo Tanaka  
+_Production Company:_ Shintoho  
+_Producer:_ Ichiro Nagashima  
+_Screenplay:_ Keisuke Kinoshita  
+_Based on the novel by:_ Fumio Niwa  
+_Photography:_ Hiroshi Suzuki  
+_Editor:_ Toshio Gotô  
+_Art Director:_ Seigo Shindô  
+_Music:_ Ichirô Saitô  
+_Sound:_ Yûji Dôgen  
 
-**LOVE LETTER (KOIBUMI)**
+**Cast**  
+Masayuki Mori _(Reikichi Mayumi)_  
+Yoshiko Kuga _(Michiko Kubota)_  
+Jûkichi Uno _(Naoto Yamaji)_  
+Jûzô Dôsan _(Hiroshi)_  
+Chieko Seki _(office lady)_  
+Shizue Natsukawa _(Reikichi’s mother)_  
+Japan 1953  
+97 mins  
 
-_Director:_ Kinuyo Tanaka
+**KINUYO TANAKA: A LIFE IN FILM**  
+**Love Letter (Koibumi)**  
+Mon 1 Aug 18:15; Sat 6 Aug 12:00; Sat 20 Aug 12:15; Fri 26 Aug 18:15  
+**Forever a Woman (aka The Eternal Breasts) (Chibusa yo eien nare)**  
+Wed 3 Aug 20:45; Mon 8 Aug 20:40; Sun 21 Aug 14:45; Mon 29 Aug 14:30  
+**The Moon Has Risen (Tsuki wa noborinu)**  
+Sun 7 Aug 15:40; Sat 20 Aug 18:00; Fri 26 Aug 20:40  
+**Kinuyo Tanaka: Film Pioneer**  
+Mon 8 Aug 18:30  
+**The Wandering Princess (Ruten no ohi)**  
+Sun 14 Aug 12:20; Sun 21 Aug 18:10; Sat 27 Aug 20:50  
+**Girls of the Night (Onna bakari no yoru)**  
+Sun 14 Aug 18:10; Sat 27 Aug 16:00; Mon 29 Aug 18:20; Wed 31 Aug 20:30  
+**Love under the Crucifix (Ogin-sama)**  
+Tue 16 Aug 20:45; Sun 28 Aug 18:20; Tue 30 Aug 20:45  
 
-_Production Company:_ Shintoho
-
-_Producer:_ Ichiro Nagashima
-
-_Screenplay:_ Keisuke Kinoshita
-
-_Based on the novel by:_ Fumio Niwa
-
-_Photography:_ Hiroshi Suzuki
-
-_Editor:_ Toshio Gotô
-
-_Art Director:_ Seigo Shindô
-
-_Music:_ Ichirô Saitô
-
-_Sound:_ Yûji Dôgen
-
-**Cast**
-
-Masayuki Mori _(Reikichi Mayumi)_
-
-Yoshiko Kuga _(Michiko Kubota)_
-
-Jûkichi Uno _(Naoto Yamaji)_
-
-Jûzô Dôsan _(Hiroshi)_
-
-Chieko Seki _(office lady)_
-Shizue Natsukawa _(Reikichi’s mother)_
-Japan 1953
-97 mins
-
-**KINUYO TANAKA: A LIFE IN FILM**
-**Love Letter (Koibumi)**
-Mon 1 Aug 18:15; Sat 6 Aug 12:00; Sat 20 Aug 12:15; Fri 26 Aug 18:15
-**Forever a Woman (aka The Eternal Breasts) (Chibusa yo eien nare)**
-Wed 3 Aug 20:45; Mon 8 Aug 20:40; Sun 21 Aug 14:45; Mon 29 Aug 14:30
-**The Moon Has Risen (Tsuki wa noborinu)**
-Sun 7 Aug 15:40; Sat 20 Aug 18:00; Fri 26 Aug 20:40
-**Kinuyo Tanaka: Film Pioneer**
-Mon 8 Aug 18:30
-**The Wandering Princess (Ruten no ohi)**
-Sun 14 Aug 12:20; Sun 21 Aug 18:10; Sat 27 Aug 20:50
-**Girls of the Night (Onna bakari no yoru)**
-Sun 14 Aug 18:10; Sat 27 Aug 16:00; Mon 29 Aug 18:20; Wed 31 Aug 20:30
-**Love under the Crucifix (Ogin-sama)**
-Tue 16 Aug 20:45; Sun 28 Aug 18:20; Tue 30 Aug 20:45
-
-**In cultural partnership with**
+**In cultural partnership with**  
 
 
-In September we will screen six films with Kinuyo Tanaka as actor, including _The Life of Oharu_ and _A Hen in the Wind_
+In September we will screen six films with Kinuyo Tanaka as actor, including _The Life of Oharu_ and _A Hen in the Wind_  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDEyMjIyN119
+eyJoaXN0b3J5IjpbLTE2MjIzNTM3MjFdfQ==
 -->
