@@ -61,57 +61,30 @@ India 1958
 **SATYAJIT RAY: THE LANGUAGE OF FILM**
 **The Music Room (Jalsaghar)**
 Mon 1 Aug 20:40; Sun 14 Aug 18:15
-
 **Charulata (The Lonely Wife)**
-
 Fri 5 Aug 18:20; Mon 8 Aug 18:15; Mon 15 Aug 14:30; Wed 17 Aug 20:40; Sat 27 Aug 12:00; Wed 31 Aug 20:45
-
-**Devi (****The Goddess) + Pikoo**
-
+**Devi (The Goddess) + Pikoo**
 Sat 6 Aug 14:30 (+ pre-recorded intro by Sharmila Tagore); Sun 14 Aug 14:45
-
-**Teen Kanya (****Three Daughters)**
-
+**Teen Kanya (Three Daughters)**
 Sun 7 Aug 17:35; Sat 13 Aug 14:50
-
 **Kanchenjungha**
-
 Tue 9 Aug 18:20; Mon 15 Aug 20:50
-
-**The Expedition (****Abhijan)**
-
+**The Expedition (Abhijan)**
 Wed 10 Aug 20:10; Sat 20 Aug 14:30
-
-**Kapurush (****The Coward) + Mahapurush (The Holy Man)**
-
+**Kapurush (The Coward) + Mahapurush (The Holy Man)**
 Thu 11 Aug 18:00; Sat 20 Aug 20:20
-
 **Satyajit Ray Documentaries Programme 2**
-
 Tue 16 Aug 20:40; Wed 24 Aug 18:20
-
-**The Hero (****Nayak)**
-
+**The Hero (Nayak)**
 Wed 17 Aug 18:10; Thu 25 Aug 20:40
-
-**Days and Nights in the Forest (****Aranyer Din Ratri)**
-
+**Days and Nights in the Forest (Aranyer Din Ratri)**
 Thu 18 Aug 18:15; Sat 27 Aug 14:40
-
-**The Home and the World (****Ghare Baire)**
-
+**The Home and the World (Ghare Baire)**
 Sun 21 Aug 17:50; Wed 24 Aug 20:20
-
-Peacock Theatre, 24 Aug – 3 Sep 2022
-
-**The Chess Players (****Shatranj Ke Khilari)**
-
+**The Chess Players (Shatranj Ke Khilari)**
 Tue 23 Aug 18:10 (+ pre-recorded intro by Shabana Azmi); Sun 28 Aug 14:40
-
-**Distant Thunder (****Ashani Sanket) + Deliverance (Sadgati)**
-
+**Distant Thunder (Ashani Sanket) + Deliverance (Sadgati)**
 Sat 27 Aug 17:30; Mon 29 Aug 14:40
-
 **Enemy of the People (****Ganashatru)**
 
 Sun 28 Aug 12:10; Tue 30 Aug 18:15 (+ intro by Ashvin Devasundaram)
@@ -128,5 +101,5 @@ Don’t miss:
 <![if !supportLineBreakNewLine]>  
 <![endif]>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTg3MjcyMV19
+eyJoaXN0b3J5IjpbMTA0NzgzMTAwNSwxNTY5ODcyNzIxXX0=
 -->
