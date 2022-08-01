@@ -51,18 +51,15 @@ Waheed Khan _(Ustad Ujir Khan)_
 Roshan Kumari _(Krishna Bai)_  
 Begum Akhtar, Roshan Kumari, Waheed Khan, Bismillah Khan _(musician/dancers)_  
 Pratap Mukhopdhya  
-Tarapada Nandy
+Tarapada Nandy  
 
-India 1958
+India 1958  
+101 mins  
 
-101 mins
-
-* Uncredited
+* Uncredited  
 
 **SATYAJIT RAY: THE LANGUAGE OF FILM**
-
 **The Music Room (Jalsaghar)**
-
 Mon 1 Aug 20:40; Sun 14 Aug 18:15
 
 **Charulata (The Lonely Wife)**
@@ -131,5 +128,5 @@ Don’t miss:
 <![if !supportLineBreakNewLine]>  
 <![endif]>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDM5NDk0NzddfQ==
+eyJoaXN0b3J5IjpbMTU2OTg3MjcyMV19
 -->
