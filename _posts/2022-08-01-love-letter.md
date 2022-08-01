@@ -1,4 +1,14 @@
-<![endif]-->
+---
+layout: post
+title: Love Letter
+published: true
+date: 2022-08-01
+readtime: true
+categories: ['KINUYO TANAKA<br> A LIFE IN FILM']
+tags: [Drama]
+metadata: 'Japan 1953, 57 mins<br> Director: Kinuyo Tanaka'
+pdf: '2022-08-01-love-letter.pdf'
+---
 
 _Love Letter_ is the first film of legendary actor turned director Kinuyo Tanaka. The man writes love letters to make a living. One of the women who asks him to do so is someone he’s been searching for. He pursues her, almost like James Stewart pursues Kim Novak in Hitchcock’s _Vertigo_ (1958). Here they are chess pieces. Their sadness is the sadness of post-war Japan. The geometry of Tanaka’s staging is masterful.
 
@@ -59,9 +69,24 @@ Sun 14 Aug 18:10; Sat 27 Aug 16:00; Mon 29 Aug 18:20; Wed 31 Aug 20:30
 Tue 16 Aug 20:45; Sun 28 Aug 18:20; Tue 30 Aug 20:45  
 
 **In cultural partnership with**  
-
+<img style="float: left;" src="/EIFF.png">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 In September we will screen six films with Kinuyo Tanaka as actor, including _The Life of Oharu_ and _A Hen in the Wind_  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjIzNTM3MjFdfQ==
--->
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
