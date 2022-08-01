@@ -1,4 +1,4 @@
-<![endif]-->
+
 
 _Conscientious Protectors_ puts you right in the middle of the beginnings of the Extinction Rebellion movement. The film follows the founding members of the non-violent direct action climate change group XR, from their first public meetings in October 2018 through to their shutdown of London in April 2019.
 
@@ -10,9 +10,30 @@ Documenting the incredible story of how Extinction Rebellion took over central L
 
 Broomfield says: ‘With exclusive access to the Extinction Rebellion movement, this fly on the wall documentary tells their story. This monumental feat took months and months of planning, and we followed the key co-founders of XR, Roger Hallam, Gail Bradbrook, Clare Farrell, Stuart Basden and Larch Maxey through the planning and onto the streets. This film delves into the inner workings of XR’s decision making, their methods, their stresses and strains, as they took hold of five sites in London during the April 15th rebellion.’
 
-With all the tension of a heist thriller, as the countdown to the rebellion starts, the film is also an inspiring portrait of people prepared to risk and sacrifice in order to make a change for the better – defying authority and corporate might with breathtaking courage.
+With all the tension of a heist thriller, as the countdown to the rebellion starts, the film is also an inspiring portrait of people prepared to risk and sacrifice in order to make a change for the better – defying authority and corporate might with breathtaking courage.  
+**Production notes**
+<br><br>
 
-Production notes
+**CONSCIENTIOUS PROTECTORS:  
+A STORY OF REBELLION AGAINST EXTINCTION**  
+_Directed by_: Leigh Bloomfield  
+_Presented by_: Leap Productions  
+_Executive Producer_: Roger Graeff  
+_Produced by_: Jeff Emerson, Leigh Bloomfield  
+_Camera Operators_: Leigh Bloomfield, Jeff Emerson, Amin Mueller, Charlie Wharton, Felix Schmilinsky, Fergus MacGregor, Alexi Phillips,  Thomas William Watson  
+_Graphics_: Philip Gooch, Leigh Bloomfield  
+_Film Editor_: Leigh Bloomfield  
+_Additional Editing_: Dan Lincoln  
+_Music by_: Hollie Buhagiar  
+_Sound Mixer_: Chandra Nair  
+_Archive Photography_: Tomm Morton
+
+UK 2022
+
+A Demand Film UK release
+
+The screening on Mon 1 Aug will feature a Q&A  with director Leigh Bloomfield<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2NDY1NzY5XX0=
+eyJoaXN0b3J5IjpbMTI4NzE1ODA4XX0=
 -->
