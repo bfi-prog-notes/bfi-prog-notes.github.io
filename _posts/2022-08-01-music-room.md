@@ -85,12 +85,10 @@ Sun 21 Aug 17:50; Wed 24 Aug 20:20
 Tue 23 Aug 18:10 (+ pre-recorded intro by Shabana Azmi); Sun 28 Aug 14:40
 **Distant Thunder (Ashani Sanket) + Deliverance (Sadgati)**
 Sat 27 Aug 17:30; Mon 29 Aug 14:40
-**Enemy of the People (****Ganashatru)**
-
+**Enemy of the People (Ganashatru)**
 Sun 28 Aug 12:10; Tue 30 Aug 18:15 (+ intro by Ashvin Devasundaram)
 
 In association with
-
 The Academy Film Archive
 
 
@@ -98,8 +96,7 @@ The Academy Film Archive
 Don’t miss:
 
 **Beyond Bollywood – The Musical**  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
+Peacock Theatre, 24 Aug – 3 Sep 2022
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzgzMTAwNSwxNTY5ODcyNzIxXX0=
+eyJoaXN0b3J5IjpbMTMyOTM5MzY1NywxNTY5ODcyNzIxXX0=
 -->
