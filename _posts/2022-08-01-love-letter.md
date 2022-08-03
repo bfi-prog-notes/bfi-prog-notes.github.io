@@ -8,7 +8,7 @@ categories: ['KINUYO TANAKA<br> A LIFE IN FILM']
 tags: [Drama]
 metadata: 'Japan 1953, 57 mins<br> Director: Kinuyo Tanaka'
 pdf: '2022-08-01-love-letter.pdf'
--<![endif]-->
+-<[edif--
 
 _Love Letter_ is the first film of legendary actor turned director Kinuyo Tanaka. The man writes love letters to make a living. One of the women who asks him to do so is someone he’s been searching for. He pursues her, almost like James Stewart pursues Kim Novak in Hitchcock’s _Vertigo_ (1958). Here they are chess pieces. Their sadness is the sadness of post-war Japan. The geometry of Tanaka’s staging is masterful.
 
@@ -91,5 +91,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTMxOTIzNF19
+eyJoaXN0b3J5IjpbMTMwMTExMjAxMCwxODUxMzE5MjM0XX0=
 -->
