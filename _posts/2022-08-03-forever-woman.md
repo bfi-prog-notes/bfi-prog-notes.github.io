@@ -69,20 +69,16 @@ Sun 14 Aug 12:20; Sun 21 Aug 18:10; Sat 27 Aug 20:50
 **Girls of the Night (Onna bakari no yoru)**
 
 Sun 14 Aug 18:10; Sat 27 Aug 16:00; Mon 29 Aug 18:20; Wed 31 Aug 20:30
-
 **Love under the Crucifix (Ogin-sama)**
-
 Tue 16 Aug 20:45; Sun 28 Aug 18:20; Tue 30 Aug 20:45
 
 **In partnership with**
 
-<![if !vml]>![](file:///C:/Users/LOCB16~1/Temp/74/msohtmlclip1/01/clip_image002.jpg)<![endif]>
 
 **In cultural partnership with**
 
-<![if !vml]>![https://whatson.bfi.org.uk/content/Images/WhatsOn%20images/202208/logos/eiff-logo-01.png](file:///C:/Users/LOCB16~1/Temp/74/msohtmlclip1/01/clip_image004.png)<![endif]>
-
 In September we will screen six films with Kinuyo Tanaka as actor, including _The Life of Oharu_ and _A Hen in the Wind_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0OTQwODE4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIwNTQxMzI3NDksNTg0OTQwODE4LDczMD
+k5ODExNl19
 -->
