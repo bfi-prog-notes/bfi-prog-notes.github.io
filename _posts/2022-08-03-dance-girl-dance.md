@@ -10,173 +10,172 @@ Judy is a lot harder to look at. She dances in private, she runs from an auditio
 
 _Dance, Girl, Dance_ lands this blow smartly, not just because the whole story has been leading up to this outburst, but because endless characters in any number of Hollywood backstage musicals might have voiced the same opinion, but they didn’t. It’s a small film with big ideas.  
 **Pamela Hutchinson, _Sight & Sound_, Summer 2020**
+<br><br>
 
-<![endif]-->
+**DANCE, GIRL, DANCE**<br>
 
-**DANCE, GIRL, DANCE**
+_Directed by:_ Dorothy Arzner<br>
 
-_Directed by:_ Dorothy Arzner
+©: RKO Radio Pictures<br>
 
-©: RKO Radio Pictures
+_Presented by:_ RKO Radio Pictures<br>
 
-_Presented by:_ RKO Radio Pictures
+_Executive Producer:_ Harry E. Edington<br>
 
-_Executive Producer:_ Harry E. Edington
+_Produced by:_ Erich Pommer<br>
 
-_Produced by:_ Erich Pommer
+_Assistant Director:_ James H. Anderson<br>
 
-_Assistant Director:_ James H. Anderson
+_Screenplay by:_ Tess Slesinger, Frank Davis<br>
 
-_Screenplay by:_ Tess Slesinger, Frank Davis
+_Story by:_ Vicki Baum<br>
 
-_Story by:_ Vicki Baum
+_Director of Photography:_ Russell Metty<br>
 
-_Director of Photography:_ Russell Metty
+_Special Effects by:_ Vernon L. Walker<br>
 
-_Special Effects by:_ Vernon L. Walker
+_Edited by:_ Robert Wise<br>
 
-_Edited by:_ Robert Wise
+_Art Director:_ Van Nest Polglase<br>
 
-_Art Director:_ Van Nest Polglase
+_Associate:_ Al Herman<br>
 
-_Associate:_ Al Herman
+_Set Decorations by:_ Darrell Silvera<br>
 
-_Set Decorations by:_ Darrell Silvera
+_Gowns by:_ Edward Stevenson<br>
 
-_Gowns by:_ Edward Stevenson
+_Musical Director:_ Edward Ward<br>
 
-_Musical Director:_ Edward Ward
+_Dances staged by:_ Ernst Matray<br>
 
-_Dances staged by:_ Ernst Matray
+_Recorded by:_ Hugh McDowell Jr<br>
 
-_Recorded by:_ Hugh McDowell Jr
+_uncredited_<br>
 
-_uncredited_
+_Director of Photography:_ Joseph August<br>
 
-_Director of Photography:_ Joseph August
+_Cast:_<br>
 
-_Cast:_
+Maureen O’Hara _(Judy O’Brien)_<br>
 
-Maureen O’Hara _(Judy O’Brien)_
+Louis Hayward _(Jaes ‘Jimmy’ Harris Jr)_<br>
 
-Louis Hayward _(Jaes ‘Jimmy’ Harris Jr)_
+Lucille Ball _(Bubbles/Tiger Lily White)_<br>
 
-Lucille Ball _(Bubbles/Tiger Lily White)_
+Virginia Field _(Elinor Harris)_<br>
 
-Virginia Field _(Elinor Harris)_
+Ralph Bellamy _(Steve Adams)_<br>
 
-Ralph Bellamy _(Steve Adams)_
+Mary Carlisle _(Sally)_<br>
 
-Mary Carlisle _(Sally)_
+Katharine Alexander _(Miss Olmstead)_<br>
 
-Katharine Alexander _(Miss Olmstead)_
+Edward Brophy _(Dwarfie Humblewinger)_<br>
 
-Edward Brophy _(Dwarfie Humblewinger)_
+Walter Abel _(judge)_<br>
 
-Walter Abel _(judge)_
+Harold Huber _(Hoboken gent)_<br>
 
-Harold Huber _(Hoboken gent)_
+Maria Ouspenskaya _(Madame Basilova)_<br>
 
-Maria Ouspenskaya _(Madame Basilova)_
+Ernest Truex _(bailey 1)_<br>
 
-Ernest Truex _(bailey 1)_
+Chester Clute _(bailey 2)_<br>
 
-Chester Clute _(bailey 2)_
+Lorraine Krueger _(Dolly)_<br>
 
-Lorraine Krueger _(Dolly)_
+Lola Jensen _(Daisy)_<br>
 
-Lola Jensen _(Daisy)_
+Emma Dunn _(Mrs Simpson)_<br>
 
-Emma Dunn _(Mrs Simpson)_
+Sidney Blackmer _(Puss in Boots)_<br>
 
-Sidney Blackmer _(Puss in Boots)_
+Vivian Fay _(the ballerina)_<br>
 
-Vivian Fay _(the ballerina)_
+Ludwig Stossel _(Caesar)_<br>
 
-Ludwig Stossel _(Caesar)_
+Erno Verebes _(Fitch)_<br>
 
-Erno Verebes _(Fitch)_
+_uncredited_<br>
 
-_uncredited_
+Stanley Blystone _(plainclothesman at Palais Royale)_<br>
 
-Stanley Blystone _(plainclothesman at Palais Royale)_
+Wade Boteler _(policeman at Palais Royale)_<br>
 
-Wade Boteler _(policeman at Palais Royale)_
+Paul E. Burns _(reporter calling Elinor)_<br>
 
-Paul E. Burns _(reporter calling Elinor)_
+Leo Cleary _(court clerk)_<br>
 
-Leo Cleary _(court clerk)_
+Clyde Cook _(Claude, Harris’ valet)_<br>
 
-Clyde Cook _(Claude, Harris’ valet)_
+Ray Cooke _(reporter in hallway)_<br>
 
-Ray Cooke _(reporter in hallway)_
+Gino Corrado _(Gino, Club Ferdinand waiter)_<br>
 
-Gino Corrado _(Gino, Club Ferdinand waiter)_
+Kernan Cripps _(night court bailiff)_<br>
 
-Kernan Cripps _(night court bailiff)_
-
-Jay Eaton _(nightclub patron)_
+Jay Eaton _(nightclub patron)_<br>
 
 Bess Flowers  
-_(woman with Elinor at Club Ferdinand)_
+_(woman with Elinor at Club Ferdinand)_<br>
 
-Paul Fung _(Chinese waiter)_
+Paul Fung _(Chinese waiter)_<br>
 
-Lew Harvey _(reporter at Taxi)_
+Lew Harvey _(reporter at Taxi)_<br>
 
-Lew Hicks _(grumpy man in elevator)_
+Lew Hicks _(grumpy man in elevator)_<br>
 
-Donald Kerr _(photographer in hallway)_
+Donald Kerr _(photographer in hallway)_<br>
 
-Milton Kibbee _(reporter at Taxi)_
+Milton Kibbee _(reporter at Taxi)_<br>
 
-Jeanne Lafayette _(Nanette, Elinor’s maid)_
+Jeanne Lafayette _(Nanette, Elinor’s maid)_<br>
 
-Robert McKenzie _(Otto, the fat man)_
+Robert McKenzie _(Otto, the fat man)_<br>
 
-Anthony Merlo _(head waiter)_
+Anthony Merlo _(head waiter)_<br>
 
-Frank Mills _(man booing Judy)_
+Frank Mills _(man booing Judy)_<br>
 
-Bert Moorhouse _(Jimmy’s friend in nightclub)_
+Bert Moorhouse _(Jimmy’s friend in nightclub)_<br>
 
-Pat Moriarty _(night court guard)_
+Pat Moriarty _(night court guard)_<br>
 
-Philip Morris _(policeman)_
+Philip Morris _(policeman)_<br>
 
-Barry Norton _(disapproving theatre patron)_
+Barry Norton _(disapproving theatre patron)_<br>
 
-William O’Brien _(man in audience at Burlesk House)_
+William O’Brien _(man in audience at Burlesk House)_<br>
 
 Robert Emmett O’Connor  
-_(plainclothesman at Palais Royale)_
+_(plainclothesman at Palais Royale)_<br>
 
-Jack O’Shea _(patron of Palais Royale)_
+Jack O’Shea _(patron of Palais Royale)_<br>
 
-Lee Phelps _(plainclothesman at Palais Royale)_
+Lee Phelps _(plainclothesman at Palais Royale)_<br>
 
-Paul Phillips _(reporter)_
+Paul Phillips _(reporter)_<br>
 
-Paul Renay _(head waiter)_
+Paul Renay _(head waiter)_<br>
 
-Dewey Robinson _(Palais Royale manager)_
+Dewey Robinson _(Palais Royale manager)_<br>
 
-Ralph Sanford _(taxi driver)_
+Ralph Sanford _(taxi driver)_<br>
 
-Ruth Seeley _(Dimples)_
+Ruth Seeley _(Dimples)_<br>
 
-Lee Shumway _(policeman)_
+Lee Shumway _(policeman)_<br>
 
-Harry Tenbrook _(night court spectator)_
+Harry Tenbrook _(night court spectator)_<br>
 
-Harry Tyler _(Bailey Brothers’ barker)_
+Harry Tyler _(Bailey Brothers’ barker)_<br>
 
 Lee ‘Lasses’ White  
-_(Bailey Brothers’ stage manager)_
+_(Bailey Brothers’ stage manager)_<br>
 
-Thelma Woodruff _(Mary)_
+Thelma Woodruff _(Mary)_<br>
 
-Marjorie Woodworth _(Jane)_
+Marjorie Woodworth _(Jane)_<br>
 
 USA 1940©
 
@@ -184,5 +183,5 @@ USA 1940©
 
 The screening on Wed 3 Aug will be introduced by Pamela Hutchinson, film critic and historian
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzc3OTYzOV19
+eyJoaXN0b3J5IjpbMTUwODA0MTExOF19
 -->
