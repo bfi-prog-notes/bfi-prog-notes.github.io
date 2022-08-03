@@ -63,7 +63,7 @@ Sun 14 Aug 18:10; Sat 27 Aug 16:00; Mon 29 Aug 18:20; Wed 31 Aug 20:30
 Tue 16 Aug 20:45; Sun 28 Aug 18:20; Tue 30 Aug 20:45  
 
 **In partnership with**  
-<img style="float: left;" src="/img/Japan Foundation2.jpg">
+<img style="float: left;" src="/img/Japan Foundation2.JPG">
 <br><br><br><br><br><br><br><br><br><br>
 
 **In cultural partnership with**  
