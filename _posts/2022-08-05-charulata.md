@@ -1,7 +1,4 @@
 
-
-<![endif]-->
-
 **SPOILER WARNING** The following notes give away the film’s ending.
 
 Two hands, a man’s and a woman’s, reach tentatively out to each other. But just before they meet, the frame freezes. Reconciliation? Maybe not just yet…
@@ -17,21 +14,18 @@ Becoming vaguely aware of Charu’s discontent, Bhupati invites her brother Umap
 To a Western audience, all three members of the triangle might seem impossibly naive. This would be a cultural misapprehension. In Bengali society, as Ray pointed out in an article in _Sight & Sound_, a playfully flirtatious relationship between a wife and her _debar_ (her husband’s younger brother or cousin) is accepted. Charu and Amal have simply slipped, half-unknowingly, across an ill-defined social border. While Bhupati hosts a musical evening to celebrate the election of a Liberal government at Westminster (Gladstone’s Liberals, he believes, will be more favourably disposed to their cause), Umapada, who has been systematically defrauding his trusting brother-in-law, absconds with all the journal’s funds. Amal, conscious that he too has been contemplating a betrayal, hastily departs. And Bhupati, inadvertently witnessing Charu’s irrepressible outburst of grief, realises what’s been happening.
 
 In the film’s final scene Bhupati, whom we last saw sitting weeping in a horse-drawn cab, returns in the evening to the house. Charu, who knows he overheard her reaction to Amal’s farewell letter, is waiting for him, dreading his response. Hearing his steps, she goes to the door and opens it. The two gaze at each other for a long moment before Charu says quietly ‘Come in.’ She reaches out her hand; Bhupati hesitates, then reaches out also – and the screen freezes on a shot of the two hands, close yet not joined. Ray pulls back in a series of freeze-frames – the couple, their eyes locked together, the elderly servant bringing in the lamp – until all three figures are frozen in longshot at the end of the veranda as Ray’s _tanpura_ score rises in a plangent crescendo. On the screen appears the title of Tagore’s story: _Nastanirh_  
-(_The Broken Nest_). But it is irretrievably broken? Ray, subtle and unprescriptive as ever, leaves that for us to decide.
+(_The Broken Nest_). But it is irretrievably broken? Ray, subtle and unprescriptive as ever, leaves that for us to decide.  
+**Philip Kemp, _Sight & Sound_, March 2013**  
 
-**Philip Kemp, _Sight & Sound_, March 2013**
-
-**A contemporary review**
-
+**A contemporary review**  
 Many Anglo-Saxons tend to become defensive when confronted with the general French disdain for the films of Satyajit Ray. Withdrawing behind murmurs of ‘humanism,’ we concede that our taste is perhaps old-fashioned. And yet, it is astonishing that none of the Mac-Mahonists or further-out _Cahiers_ writers have yet discovered Ray – on their own terms. After all, just as much as Losey or Walsh, Ray’s technique of filmmaking is that basic classical style which relies on the straightforward filming of performances. Is not his a _cinéma du regard_, too? Does not his camera penetrate the soul of his characters just as much as, say, Preminger’s? Does he not, like Hawks, place his camera ‘at the height of a man’s eyes’?
 
 Based on a Tagore novel, _Charulata_ is set in the past: the year is 1880 and the setting is the upper-class Bengali milieu nourished by English liberal ideas, but profoundly marked by the old traditions. Shot through with litanies to Macaulay, Gladstone, and Shakespeare, spattered with English words, _Charulata_ concerns a girl married to an English-language newspaper editor/publisher. Her husband neglects her for politics; when his sensitive, more literary-minded cousin Amal arrives, Charulata turns to him for understanding.
 
 _Charulata_ is distinguished by a degree of technical invention that one hasn’t encountered before in Ray’s films. There are still the typical and treasurable scenes that he does so well. A leaf-shadowed garden in the heat of the afternoon; from beyond the walls comes a vague murmur of life outside; the girl in the swing, the man lying beside her on the grass, her singing punctuated at rhythmical intervals by the creaking of the taut rope: the enchanted garden, Eden. And, in fact, the snake is not far off, for Charulata is beginning to fall despairingly in love with Amal. But there are other, more unusual sequences: we are introduced to Charulata wandering listlessly around the house, until suddenly, galvanised by a tiny hope of excitement, she tracks down a passer-by with field-glasses. And with great fluidity and skill the camera tracks her moving from window to window, from shutter to shutter.
 
-All the same, it is not for his technique that one admires Ray so much: no enumeration of gems of _mise en scène_ would convey the richness of characterisation and that breathless grace and radiance he manages to draw from his actors (Madhabi Mukherjee as Charulata and Soumitra Chatterjee as Amal: both superb). So one is left gasping inarticulately: beauty, tenderness, lyricism.
-
-**Richard Roud, _Sight and Sound_, Autumn 1965**
+All the same, it is not for his technique that one admires Ray so much: no enumeration of gems of _mise en scène_ would convey the richness of characterisation and that breathless grace and radiance he manages to draw from his actors (Madhabi Mukherjee as Charulata and Soumitra Chatterjee as Amal: both superb). So one is left gasping inarticulately: beauty, tenderness, lyricism.  
+**Richard Roud, _Sight and Sound_, Autumn 1965**  
 
 **CHARULATA (THE LONELY WIFE)**  
 _Director:_ Satyajit Ray  
@@ -64,5 +58,5 @@ Bankim Ghosh _(Jagannath)_
 India 1964  
 117 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjUxOTI1OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIwMzE4MDQ3ODQsNzMwOTk4MTE2XX0=
 -->
