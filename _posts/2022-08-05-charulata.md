@@ -1,3 +1,14 @@
+---
+layout: post
+title: Charulata
+published: true
+date: 2022-08-05
+readtime: true
+categories: ['SATYAJIT RAY<br>THE LANGUAGE OF FILM']
+tags: [Drama]
+metadata: 'India 1964, 117 mins<br> Director: Satyajit Ray'
+pdf: '2022-08-05-charulata.pdf'
+---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
@@ -13,8 +24,7 @@ Becoming vaguely aware of Charu’s discontent, Bhupati invites her brother Umap
 
 To a Western audience, all three members of the triangle might seem impossibly naive. This would be a cultural misapprehension. In Bengali society, as Ray pointed out in an article in _Sight & Sound_, a playfully flirtatious relationship between a wife and her _debar_ (her husband’s younger brother or cousin) is accepted. Charu and Amal have simply slipped, half-unknowingly, across an ill-defined social border. While Bhupati hosts a musical evening to celebrate the election of a Liberal government at Westminster (Gladstone’s Liberals, he believes, will be more favourably disposed to their cause), Umapada, who has been systematically defrauding his trusting brother-in-law, absconds with all the journal’s funds. Amal, conscious that he too has been contemplating a betrayal, hastily departs. And Bhupati, inadvertently witnessing Charu’s irrepressible outburst of grief, realises what’s been happening.
 
-In the film’s final scene Bhupati, whom we last saw sitting weeping in a horse-drawn cab, returns in the evening to the house. Charu, who knows he overheard her reaction to Amal’s farewell letter, is waiting for him, dreading his response. Hearing his steps, she goes to the door and opens it. The two gaze at each other for a long moment before Charu says quietly ‘Come in.’ She reaches out her hand; Bhupati hesitates, then reaches out also – and the screen freezes on a shot of the two hands, close yet not joined. Ray pulls back in a series of freeze-frames – the couple, their eyes locked together, the elderly servant bringing in the lamp – until all three figures are frozen in longshot at the end of the veranda as Ray’s _tanpura_ score rises in a plangent crescendo. On the screen appears the title of Tagore’s story: _Nastanirh_  
-(_The Broken Nest_). But it is irretrievably broken? Ray, subtle and unprescriptive as ever, leaves that for us to decide.  
+In the film’s final scene Bhupati, whom we last saw sitting weeping in a horse-drawn cab, returns in the evening to the house. Charu, who knows he overheard her reaction to Amal’s farewell letter, is waiting for him, dreading his response. Hearing his steps, she goes to the door and opens it. The two gaze at each other for a long moment before Charu says quietly ‘Come in.’ She reaches out her hand; Bhupati hesitates, then reaches out also – and the screen freezes on a shot of the two hands, close yet not joined. Ray pulls back in a series of freeze-frames – the couple, their eyes locked together, the elderly servant bringing in the lamp – until all three figures are frozen in longshot at the end of the veranda as Ray’s _tanpura_ score rises in a plangent crescendo. On the screen appears the title of Tagore’s story: _Nastanirh_ (_The Broken Nest_). But it is irretrievably broken? Ray, subtle and unprescriptive as ever, leaves that for us to decide.  
 **Philip Kemp, _Sight & Sound_, March 2013**  
 
 **A contemporary review**  
@@ -53,10 +63,57 @@ Dilip Bose _(Sasanka)_
 Subrata Sen Sharma _(Motilal)_  
 Joydeb _(Nilatpal Dey)_  
 Bankim Ghosh _(Jagannath)_  
-
   
 India 1964  
 117 mins  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzE4MDQ3ODQsNzMwOTk4MTE2XX0=
--->
+<br>
+**SATYAJIT RAY: THE LANGUAGE OF FILM**  
+**The Music Room (Jalsaghar)**  
+Mon 1 Aug 20:40; Sun 14 Aug 18:15  
+**Charulata (The Lonely Wife)**  
+Fri 5 Aug 18:20; Mon 8 Aug 18:15; Mon 15 Aug 14:30; Wed 17 Aug 20:40; Sat 27 Aug 12:00; Wed 31 Aug 20:45  
+**Devi (The Goddess) + Pikoo**  
+Sat 6 Aug 14:30 (+ pre-recorded intro by Sharmila Tagore); Sun 14 Aug 14:45  
+**Teen Kanya (Three Daughters)**  
+Sun 7 Aug 17:35; Sat 13 Aug 14:50  
+**Kanchenjungha**  
+Tue 9 Aug 18:20; Mon 15 Aug 20:50  
+**The Expedition (Abhijan)**  
+Wed 10 Aug 20:10; Sat 20 Aug 14:30  
+**Kapurush (The Coward) + Mahapurush (The Holy Man)**  
+Thu 11 Aug 18:00; Sat 20 Aug 20:20  
+**Satyajit Ray Documentaries Programme 2**  
+Tue 16 Aug 20:40; Wed 24 Aug 18:20  
+**The Hero (Nayak)**  
+Wed 17 Aug 18:10; Thu 25 Aug 20:40  
+**Days and Nights in the Forest (Aranyer Din Ratri)**  
+Thu 18 Aug 18:15; Sat 27 Aug 14:40  
+**The Home and the World (Ghare Baire)**  
+Sun 21 Aug 17:50; Wed 24 Aug 20:20  
+**The Chess Players (Shatranj Ke Khilari)**  
+Tue 23 Aug 18:10 (+ pre-recorded intro by Shabana Azmi); Sun 28 Aug 14:40  
+**Distant Thunder (Ashani Sanket) + Deliverance (Sadgati)**  
+Sat 27 Aug 17:30; Mon 29 Aug 14:40  
+**Enemy of the People (Ganashatru)**  
+Sun 28 Aug 12:10; Tue 30 Aug 18:15 (+ intro by Ashvin Devasundaram)  
+
+In association with The Academy Film Archive  
+<img style="float: left;" src="/img/academy-logo-01.png" width="30%" height="30%">
+<br><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
