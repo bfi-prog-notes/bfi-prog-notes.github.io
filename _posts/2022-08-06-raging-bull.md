@@ -22,77 +22,73 @@ One of the most difficult scenes to shoot in the film was the reunion scene betw
 
 As scripted, the two brothers were to meet and Joey was to spill his coffee as Jake tried to cuddle him. But De Niro’s huge bulk and Pesci’s weight loss [De Niro famously put on weight to play the coda of the film, which shows Jake LaMotta years after the fame and out of the ring, but Pesci in turn had to lose weight to make his ageing believable] saw the scene play out differently to how it had been planned. ‘I couldn’t get out of his embrace,’ recalls Pesci. ‘He was so big, and he just held me, and the coffee never fell, so I had no reason to be mad at him except like, “Come on, I don’t want to do this.” I remember I was going to cry, but if you see the film and really look at it and listen to my voice, you’ll see I was going to cry but I stopped. I just choked and went, “Yeah, yeah, I know.” I really fought it, just as Bob advised.’
 
-Scorsese went with the first take. ‘Every actor in Hollywood would love to be opposite Robert De Niro in a Martin Scorsese film and at the end cry in each other’s arms and beat each other up and go for the big dramatic ending,’ says Pesci. ‘But I remember when I first saw the scene I was so thankful to Bob, because I would never have thought to have played it that way, and it felt so real. Bob said to fight it and that is what I did.’ Their gentle embrace was note perfect. It was all that was needed. To this day Pesci is convinced that ‘Marty never knew that Bob came to see me that day.’
+Scorsese went with the first take. ‘Every actor in Hollywood would love to be opposite Robert De Niro in a Martin Scorsese film and at the end cry in each other’s arms and beat each other up and go for the big dramatic ending,’ says Pesci. ‘But I remember when I first saw the scene I was so thankful to Bob, because I would never have thought to have played it that way, and it felt so real. Bob said to fight it and that is what I did.’ Their gentle embrace was note perfect. It was all that was needed. To this day Pesci is convinced that ‘Marty never knew that Bob came to see me that day.’  
+**Jay Glennie, edited from _Raging Bull: The Making Of_ available from Coattail Publications: www.coattail-publications.com, extracts published on _Sight & Sound_, May 2021**
+<br><br>
 
-Jay Glennie, edited from _Raging Bull: The Making Of_ available from Coattail Publications: www.coattail-publications.com, extracts published on _Sight & Sound_, May 2021
+**RAGING BULL**<br>
 
-<![endif]-->
+_Director:_ Martin Scorsese<br>
 
-**RAGING BULL**
+©_/Presented by:_ United Artists<br>
 
-_Director:_ Martin Scorsese
+_Producers:_ Irwin Winkler, Robert Chartoff<br> 
+_Produced in Association with:_ Peter Savage<br>
+ _Associate Producer:_ Hal Polaire<br>
+_Production Accountants:_ Meryle Selinger,  Lydia Resurreccion<br>
 
-©_/Presented by:_ United Artists
+_Production Office Co-ordinators:_ Donna Smith, Helene Spinner, Moira Kelly<br>
 
-_Producers:_ Irwin Winkler, Robert Chartoff  
-_Produced in Association with:_ Peter Savage _Associate Producer:_ Hal Polaire
-
-_Production Accountants:_ Meryle Selinger,  
-Lydia Resurreccion
-
-_Production Office Co-ordinators:_ Donna Smith, Helene Spinner, Moira Kelly
-
-_Production Manager:_ James D. Brubaker
+_Production Manager:_ James D. Brubaker<br>
 
 _Location Managers:_ Dale Benson, Chris Cronyn  
-_1st Assistant Directors:_ Jerry Grandey,  
-Allan Wertheim
+_1st Assistant Directors:_ Jerry Grandey,  Allan Wertheim<br>
 
-_2nd Assistant Directors:_ Joan Feinstein,
+_2nd Assistant Directors:_ Joan Feinstein, Elie Cohn  
+_Script Supervisor:_ Hannah Scheel<br>
 
-Elie Cohn  
-_Script Supervisor:_ Hannah Scheel
+_Casting:_ Cis Corman<br>
 
-_Casting:_ Cis Corman
-
-_Screenplay:_ Paul Schrader, Mardik Martin
+_Screenplay:_ Paul Schrader, Mardik Martin<br>
 
 _Based on the book by:_ Jake La Motta,  
-Joseph Carter, Peter Savage
+Joseph Carter, Peter Savage<br>
 
 _Excerpts from_ On the Waterfront _by:_  
-Budd Schulberg
+Budd Schulberg<br>
 
 _Director of Photography:_ Michael Chapman  
-_Camera Operators:_ Joe Marquette, Eddie Gold
+_Camera Operators:_ Joe Marquette, Eddie Gold<br>
 
 _1st Assistant Cameramen:_ Dustin Blauvelt,  
-Ed Ramirez
+Ed Ramirez<br>
 
 _2nd Assistant Cameramen:_ Richard Fee,  
-Bruce McCallum
+Bruce McCallum<br>
 
-_Key Grips:_ Ed Quinn, Robert Miller
+_Key Grips:_ Ed Quinn, Robert Miller<br>
 
-_Gaffers:_ Richard Quinlan, Ray Mendez
+_Gaffers:_ Richard Quinlan, Ray Mendez<br>
 
 _Still Photographers:_ Christine Loss, Brian Hamill  
-_Special Effects:_ Raymond Klein, Max E. Wood _Editor:_ Thelma Schoonmaker
+_Special Effects:_ Raymond Klein, Max E. Wood _Editor:_ Thelma Schoonmaker<br>
 
 _Associate Editors:_ George Trirogoff, Yoshio Kishi, Erik T. Ramberg, Mark Warner, Susan E. Morse  
-_New York Production Designer:_ Gene Rudolf
+_New York Production Designer:_ Gene Rudolf<br>
 
-_Los Angeles Visual Consultant:_ Gene Rudolf
+_Los Angeles Visual Consultant:_ Gene Rudolf<br>
 
 _Art Directors (Los Angeles):_ Alan Manser,
 
-Kirk Axtell
+Kirk Axtell<br>
 
-_Art Director (New York):_ Sheldon Haber
+_Art Director (New York):_ Sheldon Haber<br>
 
-_Set Decorators:_ Fred Weiler, Philip Abramson
+_Set Decorators:_ Fred Weiler, Philip Abramson<br>
 
-_Property Masters:_ Emily Ferry, Tom Saccio _Costume Designers:_ Richard Bruno, John Boxer _Make-up Artists:_ Frank Westmore, Mike Maggi _Make-up Created by:_ Michael Westmore _Hairstylists:_ Jean Burt Reilly, Verne Caruso,  
+_Property Masters:_ Emily Ferry, Tom Saccio<br>
+_Costume Designers:_ Richard Bruno, John Boxer<br>
+_Make-up Artists:_ Frank Westmore, Mike Maggi _Make-up Created by:_ Michael Westmore _Hairstylists:_ Jean Burt Reilly, Verne Caruso,  
 Mary Keats, Mona Orr
 
 _Title Design by:_ Dan Perri
@@ -274,5 +270,5 @@ USA 1980©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzU3NTEyODldfQ==
+eyJoaXN0b3J5IjpbLTM3NTQ3MjY5MF19
 -->
