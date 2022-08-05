@@ -1,1 +1,119 @@
 
+
+**What’s it about?**  
+Young astronaut Buzz Lightyear is the member of a spaceship crew who are stranded on a planet 4.2 million light years from Earth. His repeated attempts to return home backfire, but he perseveres with help from his feline robot companion Sox and others. However, with the dastardly Zurg and his army on the horizon, will Buzz succeed? In the _Toy Story_ universe, this is the film Andy watched that made him want to have his own  space-age toy.
+
+
+**Lightyear**  
+Every cinephile loves a good hero – someone to admire, someone to root for. Heroes overcome insurmountable obstacles to save the day. And the best heroes – the ones who live on long after their films hit the big screen – are, at heart, human. They have flaws and fears – they’re utterly relatable, even as they soar to greatness.
+
+Buzz Lightyear is such a hero – in fact, he’s the kind of big-screen phenomenon that inspired a successful line of toys. That’s what filmmakers pictured when creating the character for Pixar Animation Studios’ 1995 feature film _Toy Story_. That story placed Buzz Lightyear – the toy in this case – centre stage as the brand-new, highly sought-after action figure that gives vintage pull-string Sheriff Woody a run for his money as Andy’s favourite. Fast forward 21 years, and director Angus MacLane found himself asking: What movie inspired Andy to beg for a fancy toy with lasers, karate-chop action and aerodynamic space wings? ‘_Lightyear_ is the movie that Andy, his friends and probably most of the rest of the world saw,’ says MacLane. ‘I wanted to make something that felt true to those fun, big-budget popcorn films.’
+
+A sci-fi action-adventure and the definitive origin story of Buzz Lightyear, _Lightyear_ follows the legendary Space Ranger on an intergalactic adventure. ‘I did a lot of research, breaking down the nature of genre thrillers,’ says MacLane. ‘I knew Buzz would have to face a big problem, and I liked the sci-fi element of time dilation. There’s a rich history of character-out-of-time heroics: Captain America, Flash Gordon,  
+Buck Rogers, to name a few.
+
+‘They say you can’t live in the past, but what if you could?’ continues MacLane. ‘We all wonder what it would be like to go back in time, but instead we’re jumping forward in time. That’s the truth I wanted to build for _Lightyear_ – nostalgia for the past while rapidly jumping into the future.’
+
+Production notes
+
+<![endif]-->
+
+**LIGHTYEAR**
+
+_Directed by_: Angus MacLane  
+©: Disney Enterprises Inc., Pixar  
+_Production Company_: Pixar Animation Studios  
+_Executive Producers_: Andrew Stanton,  
+Pete Docter  
+_Produced by_: Galyn Susman  
+_Post-production Supervisor_: Dana Mulligan  
+_Script Supervisor_: Laura Holshouser  
+_Casting by_: Kevin Reher, Natalie Lyon  
+_Story & Script Coordinator_: Rebecca Banks  
+_Screenplay by_: Jason Headley, Angus MacLane  
+_Story by_: Angus MacLane, Matthew Aldrich, Jason Headley  
+_Story Supervisor_: Dean Kelly  
+_Directors of Photography_: Jeremy Lasky,  
+Ian Megibben  
+_Visual Effects Supervisor_: Jane Yen  
+_Animation Supervisor_: David Devan  
+_Directing Animators_: Travis Hathaway,  
+Tsung-yin Hsieh, Tim Pixton  
+_Effects Supervisor_: Bill Watral  
+_Lighting Supervisor_: Maxwell Bickley  
+_Edited by_: Anthony J. Greenberg  
+_Production Designer_: Tim Evatt  
+_Character Art Director_: Matt Nolte  
+_Character Designers_: Grant Alexander,  
+Dean Heezen  
+_Sets Art Directors_: Greg Peltz, Garrett Taylor  
+_Set Designers_: Randy Berrett, Nelson ‘Rey’ Bohol, Jay Shuster  
+_Music by_: Michael Giacchino  
+_Sound Designer_: Ren Klyce  
+_Production Sound Mixers_: Paul McGrath,  
+Vince Caro
+
+<![endif]-->
+
+_Voice Cast:_
+
+Chris Evans _(Buzz Lightyear)_  
+Keke Palmer _(Izzy Hawthorne)_  
+Peter Sohn _(SOX)_  
+Taika Waititi _(Maurice Morrison, ‘Mo’)_  
+Dale Soules _(Darby Steel)_  
+James Brolin _(Zurg)_  
+Uzo Aduba _(Alisha Hawthorne)_  
+Mary McDonald-Lewis_  
+(I.V.A.N. – Internal Voice-Activated Navigator)_  
+Isiah Whitlock Jr _(Commander Burnside)_  
+Angus MacLane _(ERIC/DERIC & Zyclops)_  
+Bill Hader _(Featheringhamstan)_  
+Efren Ramirez _(Airman Díaz)_  
+Keira Hairston _(young Izzy)_
+
+USA 2022©
+
+96 mins
+
+<![endif]-->
+
+**FAMILIES**
+
+**The 5,000 Fingers of Dr. T**
+
+Tue 2 Aug 13:30; Sat 6 Aug 12:10; Wed 10 Aug 13:30; Tue 30 Aug 13:30
+
+**Alice in Wonderland**
+
+Wed 3 Aug 13:30; Tue 9 Aug 13:30; Thu 11 Aug 13:30; Sat 20 Aug 12:00; Thu 25 Aug 13:30
+
+**Lightyear**
+
+Fri 5 Aug 13:30; Sun 14 Aug 12:00 (Funday); Thu 18 Aug 13:30;  
+Mon 22 Aug 13:30; Mon 29 Aug 12:15
+
+**Family Preview:  
+Where Is Anne Frank**
+
+Sun 7 Aug 11:30
+
+**Storytelling with Lighting: Filmmaking Workshop**
+
+8-11 Aug 10:30-16:30
+
+**Funday Workshop: Lightyear**
+
+Sun 14 Aug 10:30 Foyer
+
+**Special Effects Makeup  
+and Moviemaking**
+
+15-19 Aug 10:30-16:30
+
+**Places and Stories Moviemaking**
+
+22-26 Aug 10:30-16:30
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTc4NjEzNzk3XX0=
+-->
