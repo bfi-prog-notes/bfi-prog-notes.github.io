@@ -21,54 +21,46 @@ The acting, too, is masterly. Aparna das Gupta, as Puglee, has wit, range and a 
 
  
 **TEEN KANYA (THREE DAUGHTERS)**  
-_Director:_ Satyajit Ray
-_Production Company:_ Satyajit Ray Productions
-_Producer:_ Satyajit Ray *
-_Associate Producer:_ Amiyanath Mukherji
-_Production Manager:_ Anil Chowdhury
-_Screenplay:_ Satyajit Ray
-_Based on three stories by:_ Rabindranath Tagore
-_Photography:_ Soumendu Roy
-_Editor:_ Dulal Dutta
-_Art Director:_ Bansi Chandragupta
-_Music:_ Satyajit Ray
-_Sound:_ Durgadas Mitra
+_Director:_ Satyajit Ray  
+_Production Company:_ Satyajit Ray Productions  
+_Producer:_ Satyajit Ray *  
+_Associate Producer:_ Amiyanath Mukherji  
+_Production Manager:_ Anil Chowdhury  
+_Screenplay:_ Satyajit Ray  
+_Based on three stories by:_ Rabindranath Tagore  
+_Photography:_ Soumendu Roy  
+_Editor:_ Dulal Dutta  
+_Art Director:_ Bansi Chandragupta  
+_Music:_ Satyajit Ray  
+_Sound:_ Durgadas Mitra  
 
-**Cast**
-**The Postmaster**
-Anil Chatterjee _(Nandalal, the postmaster)_
-Chandana Banerjee _(Ratan)_
-Nripati Chatterjee _(Bisay)_
-Khagen Pathak _(Khagen)_
-Gopal Roy _(Bilash)_
-**Monihara (The Lost Jewels)**
-Kali Bannerjee _(Phanibhusan Saha)_
-Kanika Majumdar _(Manimalika)_
-Kumar Roy _(Madhusudhan)_
-Gobinda Chakravarti _(schoolmaster/narrator)_
-**Samapti (The Conclusion)**
+**Cast**  
+**The Postmaster**  
+Anil Chatterjee _(Nandalal, the postmaster)_  
+Chandana Banerjee _(Ratan)_  
+Nripati Chatterjee _(Bisay)_  
+Khagen Pathak _(Khagen)_  
+Gopal Roy _(Bilash)_  
+**Monihara (The Lost Jewels)**  
+Kali Bannerjee _(Phanibhusan Saha)_  
+Kanika Majumdar _(Manimalika)_  
+Kumar Roy _(Madhusudhan)_  
+Gobinda Chakravarti _(schoolmaster/narrator)_  
+**Samapti (The Conclusion)**  
+Soumitra Chatterjee _(Amulya)_  
+Aparna Das Gupta _(Mrinmyee)_  
+Sita Mukherjee _(Jogmaya)_  
+Gita Dey _(Nistarini)_  
+Santosh Dutta _(Kisori)_  
+Mihir Chakravarti _(Rakhal)_  
+Devi Neogy _(Haripada)_  
 
-Soumitra Chatterjee _(Amulya)_
+India 1961  
+178 mins  
 
-Aparna Das Gupta _(Mrinmoyee)_
+* Uncredited  
 
-Sita Mukherjee _(Jogmaya)_
-
-Gita Dey _(Nistarini)_
-
-Santosh Dutta _(Kisori)_
-
-Mihir Chakravarti _(Rakhal)_
-
-Devi Neogy _(Haripada)_
-
-India 1961
-
-178 mins
-
-* Uncredited
-
-Print courtesy of the Academy Film Archive.
+Print courtesy of the Academy Film Archive.  
 
 _Teen Kanya_: Restored by the Satyajit Ray Preservation Project through a collaboration of the Academy Film Archive, the Merchant-Ivory Foundation, the Film Foundation, and the Packard Humanities Institute.
 
@@ -76,5 +68,5 @@ _Monihara_: Restored by the Satyajit Ray Preservation Project at the Academy Fil
 
 To clarify, _Teen Kanya / Monihara_, _The Expedition_, _The Chess Players_, _Sikkim_, and _Two_, all screening in the Satyajit Ray season in August, are advertised as restorations from the Academy Film Archive but they are not brand new restorations and are now showing slight signs of wear and tear. We apologise for any disappointment caused.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTIwNTgyMDJdfQ==
+eyJoaXN0b3J5IjpbMTMzOTg0NzA0NV19
 -->
