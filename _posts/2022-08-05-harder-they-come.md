@@ -4,20 +4,16 @@ Jimmy Cliff brings a knockout soundtrack and charisma aplenty to this classic cr
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
-**A contemporary review**
-
+**A contemporary review**  
 The plot of _The Harder They Come_ was apparently in part suggested by Jimmy Cliff’s own life story, and to that extent the film is as much a star vehicle for him as any Hollywood version of the country hick making his way in the big city might be. But Perry Henzell (a graduate from BBC drama and, like most of the crew and cast a Jamaican) has used his simple plot as a springboard to something altogether more ambitious.
 
 The film is the first Jamaican feature, and it’s alive with a fierce post-colonial national pride (extending to dialogue in Jamaican patois, warranting subtitles), and an equally fierce hatred of the heritage from three hundred years of colonial rule, expressed in a well-developed left-wing critique of the capitalist society and the repressive church. Behind the action lies a series of comparisons: between orthodox ‘missionary’ religion and the native Rastafarian sect; between church music (which sublimates physical feeling) and reggae (which boisterously expresses it); between shanty town and luxury villas; between Jamaican native culture and the society of the Jamaican/American bosses. The broad view emerges naturally from Henzell’s careful emphasis on detail, which is always integral to the action: a domino game in a back alley, a noisy audience laughing at an especially violent Italian Western. The methodical analysis of corruption within the police force, and within the music business, is notably uncompromising. And Henzell’s expert use of a largely non-professional cast gives the film an air of social authenticity.
 
-This said, it must be admitted that _The Harder They Come_ has little but the general area of concern in common with say, Latin American agit-prop filmmaking. Henzell has spent many years making commercials, and his film has production values glossy enough to compare with anything from the United States. The use of reggae background music is as commercial as it is ‘revolutionary’. To Henzell’s credit, however, he knows this very well himself and does not end the film with a pseudo-radical gesture. Ivan’s death is certainly heroic, but its heroism is mitigated by his spending his final minutes of life imagining himself the invincible super-hero of a movie, cheered on by a theatre audience. The film’s awareness of its own limitations consolidates its remarkable achievement.
+This said, it must be admitted that _The Harder They Come_ has little but the general area of concern in common with say, Latin American agit-prop filmmaking. Henzell has spent many years making commercials, and his film has production values glossy enough to compare with anything from the United States. The use of reggae background music is as commercial as it is ‘revolutionary’. To Henzell’s credit, however, he knows this very well himself and does not end the film with a pseudo-radical gesture. Ivan’s death is certainly heroic, but its heroism is mitigated by his spending his final minutes of life imagining himself the invincible super-hero of a movie, cheered on by a theatre audience. The film’s awareness of its own limitations consolidates its remarkable achievement.  
+**Tony Rayns, _Monthly Film Bulletin_, August 1972**
+<br><br>
 
-Tony Rayns, _Monthly Film Bulletin_, August 1972
-
-<![endif]-->
-
-**THE HARDER THEY COME**
-
+**THE HARDER THEY COME**  
 _Directed by:_ Perry Henzell  
 ©_/Presented by:_ International Films  
 _Produced by:_ Perry Henzell  
@@ -30,18 +26,16 @@ _Gaffer:_ Roy Marsden
 _Edited by:_ John Victor Smith, Richard White, Reicland Anderson  
 _Art Director:_ Sally Henzell  
 _Processing:_ Humphries Film Laboratories  
-_‘The Harder They Come’ Recorded at:_  
-Dynamic Sounds – Kingston  
+_‘The Harder They Come’ Recorded at:_  Dynamic Sounds – Kingston  
 _Sound:_ Bob Povey, Winston Rodney  
-_Cast:_
 
+**Cast**  
 Jimmy Cliff _(Ivanhoe ‘Ivan’ Martin)_  
 Janet Bartley _(Elsa)_  
 Carl Bradshaw _(José)_  
 Ras Daniel Hartman _(Pedro)_  
 Basil Keane _(preacher)_  
-Robert Charlton  
-_(Hilton, recording company manager)_  
+Robert Charlton  _(Hilton, recording company manager)_  
 Winston Stona _(detective)_  
 Lucia White _(mother)_  
 Volair Johnson _(pushcart boy)_  
@@ -60,49 +54,46 @@ Sandra Redwood _(girl)_
 Ulla Fraser, Carol Lawes _(Elsa’s friends)_  
 Aston ‘Bam’ Wynter _(drunk)_  
 Man-i Hartman _(Rupert)_ *  
-Jamaica 1973©
 
+Jamaica 1973©  
 102 mins
 
-* Uncredited
+*Uncredited
 
 A BFI release
 
-The screening on Fri 5 Aug 18:15 will be  
-introduced by Reggae season curator and  
-author Lloyd Bradley
+The screening on Fri 5 Aug 18:15 will be  introduced by Reggae season curator and  author Lloyd Bradley
+<br><br>
 
-<![endif]-->
+**NEW RELEASES**<br>
 
-**NEW RELEASES**
+**Hit the Road (Jaddeh Khaki)**<br>
 
-**Hit the Road (Jaddeh Khaki)**
+Continues from Fri 29 Jul<br>
 
-Continues from Fri 29 Jul
+**The Feast**<br>
 
-**The Feast**
+From Fri 19 Aug<br>
 
-From Fri 19 Aug
+**Where Is Anne Frank**<br>
 
-**Where Is Anne Frank**
+From Fri 19 Aug<br>
 
-From Fri 19 Aug
+**Queen of Glory**<br>
 
-**Queen of Glory**
+From Fri 28 Aug<br>
 
-From Fri 28 Aug
+**RE-RELEASES**<br>
 
-**RE-RELEASES**
+**The Big City (Mahanagar)**<br>
 
-**The Big City (Mahanagar)**
+Continues from Fri 22 Jul<br>
 
-Continues from Fri 22 Jul
+**Paris, Texas**<br>
 
-**Paris, Texas**
+Continues from Fri 29 Jul<br>
 
-Continues from Fri 29 Jul
-
-**The Harder They Come**
+**The Harder They Come**<br>
 
 From Fri 5 Aug (+ intro by season curator and author Lloyd Bradley on Fri 5 Aug 18:15)
 
@@ -138,5 +129,5 @@ Tue 23 Aug 18:20
 **Bob Marley: The Making of a Legend + Q&A with directors Esther Anderson and Gian Godoy**  
 Tue 30 Aug 18:10  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDE4ODI3XX0=
+eyJoaXN0b3J5IjpbLTM5MTcyNTU4N119
 -->
