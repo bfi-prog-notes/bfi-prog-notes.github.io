@@ -50,162 +50,85 @@ _2nd Assistant Cameramen:_ Richard Fee,  Bruce McCallum<br>
 _Key Grips:_ Ed Quinn, Robert Miller<br>
 _Gaffers:_ Richard Quinlan, Ray Mendez<br>
 _Still Photographers:_ Christine Loss, Brian Hamill  
-_Special Effects:_ Raymond Klein, Max E. Wood 
+_Special Effects:_ Raymond Klein, Max E. Wood<br>
 _Editor:_ Thelma Schoonmaker<br>
-
 _Associate Editors:_ George Trirogoff, Yoshio Kishi, Erik T. Ramberg, Mark Warner, Susan E. Morse  
 _New York Production Designer:_ Gene Rudolf<br>
-
 _Los Angeles Visual Consultant:_ Gene Rudolf<br>
-
-_Art Directors (Los Angeles):_ Alan Manser,
-
-Kirk Axtell<br>
-
+_Art Directors (Los Angeles):_ Alan Manser, Kirk Axtell<br>
 _Art Director (New York):_ Sheldon Haber<br>
-
 _Set Decorators:_ Fred Weiler, Philip Abramson<br>
-
 _Property Masters:_ Emily Ferry, Tom Saccio<br>
 _Costume Designers:_ Richard Bruno, John Boxer<br>
 _Make-up Artists:_ Frank Westmore, Mike Maggi<br>
 _Make-up Created by:_ Michael Westmore<br>
 _Hairstylists:_ Jean Burt Reilly, Verne Caruso,  Mary Keats, Mona Orr<br>
-
 _Title Design by:_ Dan Perri<br>
-
-_Opticals:_ Modern Film Effects, Movie Magic,  
-EFX Unlimited<br>
-
+_Opticals:_ Modern Film Effects, Movie Magic,  EFX Unlimited<br>
 _Black and White Timing:_ Jim Henry<br>
-
 _Sound Mixers:_ Les Lazarowitz, Michael Evje<br>
-
-_Re-recording Engineers:_ Donald O. Mitchell,  
-Bill Nicholson, David J. Kimball<br>
-
+_Re-recording Engineers:_ Donald O. Mitchell,  Bill Nicholson, David J. Kimball<br>
 _Sound Effects Supervising Editor:_ Frank Warner<br>
-
 _Boxing Technical Adviser:_ Al Silvani<br>
-
 _Technical Adviser:_ Frank Topham<br>
-
-_Special Assistance:_ Emmet Murphy,
-
-Rob Hummel<br>
-
+_Special Assistance:_ Emmet Murphy, Rob Hummel<br>
 _Consultant:_ Jake La Motta<br>
-
 _Research:_ Gloria Norris<br>
-
 _Stunt Co-ordinator:_ Jim Nickerson  
 
-_Cast:_<br>
-
+**Cast**<br>
 Robert De Niro _(Jake La Motta)_<br>
-
 Joe Pesci _(Joey La Motta)_<br>
-
 Cathy Moriarty _(Vickie La Motta)_<br>
-
 Frank Vincent _(Salvy)_<br>
-
 Bernie Allen _(comedian)_<br>
-
 Nicholas Colasanto _(Tommy Como)_<br>
-
 Joseph Bono _(Guido)_<br>
-
 Mario Gallo _(Mario)_<br>
-
 Lori Anne Flax _(Irma)_<br>
-
 Theresa Saldana _(Lenore)_<br>
-
 Bill Hanrahan _(Eddie Eagan)_<br>
-
 Frank Adonis _(Patsy)_<br>
-
 Don Dunphy _(himself)_<br>
-
 Frank Topham _(Toppy)_<br>
-
 Charles Scorsese _(Charlie, man with Como)_<br>
-
 Rita Bennett _(Emma, Miss 48’s)_<br>
-
 James V. Christy _(Dr Pinto)_<br>
-
 Michael Badalucco _(soda fountain clerk)_<br>
-
 Thomas Beansy Lobasso _(Beansy)_<br>
-
 Paul Forrest _(monsignor)_<br>
-
 Peter Petrella _(Johnny)_<br>
-
 Sal Serafino Thomassetti _(Webster Hall bouncer)_<br>
-
 Mardik Martin _(Copa waiter)_<br>
-
 Geraldine Smith _(Janet)_<br>
-
 Maryjane Lauria _(girl 1)_<br>
-
 Linda Artuso _(girl 2)_<br>
-
 Peter Savage _(Jackie Curtie)_<br>
-
 Daniel P. Conte _(Detroit promoter)_<br>
-
 Joe Malanga _(bodyguard)_<br>
-
 Sabine Turco Jr, Steve Orlando, Silvio Garcia Jr _(bouncers at Copa)_<br>
-
 John Arceri _(maître d’)_<br>
-
 Joseph A. Morale _(man at table 1)_<br>
-
 James Dimodica _(man at table 2)_<br>
-
 Robert Uricola _(man outside cab)_<br>
-
 Andrea Orlando _(woman in cab)_<br>
-
 Allan Malamud _(reporter at Jake’s house)_<br>
-
 D.J. Blair _(state attorney Bronson)_<br>
-
 Laura James _(Mrs Bronson)_<br>
-
 Richard McMurray _(J.R.)_<br>
-
 Mary Albee _(underage ID girl)_<br>
-
 Liza Katz _(woman with ID girl)_<br>
-
 Candy Moore _(Linda)_<br>
-
 Richard A. Berk _(musician 1)_<br>
-
 Theodore Sauners _(musician 2)_<br>
-
 Noah Young _(musician 3)_<br>
-
 Nick Trisko _(bartender Carlo)_<br>
-
 Lou Tiano _(Ricky)_<br>
-
 Bob Evan Collins _(arresting deputy 1)_<br>
-
 Wally Berns _(arresting deputy 2)_<br>
-
 Allan Joseph _(jeweller)_<br>
-
 Bob Aaron _(prison guard 1)_<br>
-
 Glenn Leigh Marshall _(prison guard 2)_<br>
-
 Martin Scorsese _(Barbizon stagehand)_<br>
 
 Bill Mazer _(reporter)_ *<br>
@@ -254,5 +177,5 @@ USA 1980©<br>
 *Uncredited<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5NTk1MDEyXX0=
+eyJoaXN0b3J5IjpbLTI3MDE1MTczMF19
 -->
