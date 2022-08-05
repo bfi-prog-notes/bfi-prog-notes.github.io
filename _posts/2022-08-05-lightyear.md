@@ -31,26 +31,20 @@ _Story Supervisor_: Dean Kelly
 _Directors of Photography_: Jeremy Lasky,  Ian Megibben  
 _Visual Effects Supervisor_: Jane Yen  
 _Animation Supervisor_: David Devan  
-_Directing Animators_: Travis Hathaway,  
-Tsung-yin Hsieh, Tim Pixton  
+_Directing Animators_: Travis Hathaway,  Tsung-yin Hsieh, Tim Pixton  
 _Effects Supervisor_: Bill Watral  
 _Lighting Supervisor_: Maxwell Bickley  
 _Edited by_: Anthony J. Greenberg  
 _Production Designer_: Tim Evatt  
 _Character Art Director_: Matt Nolte  
-_Character Designers_: Grant Alexander,  
-Dean Heezen  
+_Character Designers_: Grant Alexander,  Dean Heezen  
 _Sets Art Directors_: Greg Peltz, Garrett Taylor  
 _Set Designers_: Randy Berrett, Nelson ‘Rey’ Bohol, Jay Shuster  
 _Music by_: Michael Giacchino  
 _Sound Designer_: Ren Klyce  
-_Production Sound Mixers_: Paul McGrath,  
-Vince Caro
+_Production Sound Mixers_: Paul McGrath,  Vince Caro
 
-<![endif]-->
-
-_Voice Cast:_
-
+**Voice Cast**   
 Chris Evans _(Buzz Lightyear)_  
 Keke Palmer _(Izzy Hawthorne)_  
 Peter Sohn _(SOX)_  
@@ -58,56 +52,47 @@ Taika Waititi _(Maurice Morrison, ‘Mo’)_
 Dale Soules _(Darby Steel)_  
 James Brolin _(Zurg)_  
 Uzo Aduba _(Alisha Hawthorne)_  
-Mary McDonald-Lewis_  
-(I.V.A.N. – Internal Voice-Activated Navigator)_  
+Mary McDonald-Lewis _(I.V.A.N. – Internal Voice-Activated Navigator)_  
 Isiah Whitlock Jr _(Commander Burnside)_  
 Angus MacLane _(ERIC/DERIC & Zyclops)_  
 Bill Hader _(Featheringhamstan)_  
 Efren Ramirez _(Airman Díaz)_  
 Keira Hairston _(young Izzy)_
 
-USA 2022©
-
+USA 2022©  
 96 mins
+<br><br>
 
-<![endif]-->
-
-**FAMILIES**
-
-**The 5,000 Fingers of Dr. T**
-
-Tue 2 Aug 13:30; Sat 6 Aug 12:10; Wed 10 Aug 13:30; Tue 30 Aug 13:30
-
-**Alice in Wonderland**
-
-Wed 3 Aug 13:30; Tue 9 Aug 13:30; Thu 11 Aug 13:30; Sat 20 Aug 12:00; Thu 25 Aug 13:30
-
-**Lightyear**
-
-Fri 5 Aug 13:30; Sun 14 Aug 12:00 (Funday); Thu 18 Aug 13:30;  
-Mon 22 Aug 13:30; Mon 29 Aug 12:15
+**FAMILIES**<br>
+**The 5,000 Fingers of Dr. T**<br>
+Tue 2 Aug 13:30; Sat 6 Aug 12:10; Wed 10 Aug 13:30; Tue 30 Aug 13:30<br>
+**Alice in Wonderland**<br>
+Wed 3 Aug 13:30; Tue 9 Aug 13:30; Thu 11 Aug 13:30; Sat 20 Aug 12:00; Thu 25 Aug 13:30<br>
+**Lightyear**<br>
+Fri 5 Aug 13:30; Sun 14 Aug 12:00 (Funday); Thu 18 Aug 13:30;  Mon 22 Aug 13:30; Mon 29 Aug 12:15<br>
 
 **Family Preview:  
-Where Is Anne Frank**
+Where Is Anne Frank**<br>
 
-Sun 7 Aug 11:30
+Sun 7 Aug 11:30<br>
 
-**Storytelling with Lighting: Filmmaking Workshop**
+**Storytelling with Lighting: Filmmaking Workshop**<br>
 
-8-11 Aug 10:30-16:30
+8-11 Aug 10:30-16:30<br>
 
-**Funday Workshop: Lightyear**
+**Funday Workshop: Lightyear**<br>
 
-Sun 14 Aug 10:30 Foyer
+Sun 14 Aug 10:30 Foyer<br>
 
 **Special Effects Makeup  
-and Moviemaking**
+and Moviemaking**<br>
 
-15-19 Aug 10:30-16:30
+15-19 Aug 10:30-16:30<br>
 
-**Places and Stories Moviemaking**
+**Places and Stories Moviemaking**<br>
 
-22-26 Aug 10:30-16:30
+22-26 Aug 10:30-16:30<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDY4MTE4OF19
+eyJoaXN0b3J5IjpbLTgzMDE5NDA1Nl19
 -->
