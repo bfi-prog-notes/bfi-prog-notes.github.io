@@ -9,22 +9,17 @@ Every cinephile loves a good hero – someone to admire, someone to root for. He
 
 Buzz Lightyear is such a hero – in fact, he’s the kind of big-screen phenomenon that inspired a successful line of toys. That’s what filmmakers pictured when creating the character for Pixar Animation Studios’ 1995 feature film _Toy Story_. That story placed Buzz Lightyear – the toy in this case – centre stage as the brand-new, highly sought-after action figure that gives vintage pull-string Sheriff Woody a run for his money as Andy’s favourite. Fast forward 21 years, and director Angus MacLane found himself asking: What movie inspired Andy to beg for a fancy toy with lasers, karate-chop action and aerodynamic space wings? ‘_Lightyear_ is the movie that Andy, his friends and probably most of the rest of the world saw,’ says MacLane. ‘I wanted to make something that felt true to those fun, big-budget popcorn films.’
 
-A sci-fi action-adventure and the definitive origin story of Buzz Lightyear, _Lightyear_ follows the legendary Space Ranger on an intergalactic adventure. ‘I did a lot of research, breaking down the nature of genre thrillers,’ says MacLane. ‘I knew Buzz would have to face a big problem, and I liked the sci-fi element of time dilation. There’s a rich history of character-out-of-time heroics: Captain America, Flash Gordon,  
-Buck Rogers, to name a few.
+A sci-fi action-adventure and the definitive origin story of Buzz Lightyear, _Lightyear_ follows the legendary Space Ranger on an intergalactic adventure. ‘I did a lot of research, breaking down the nature of genre thrillers,’ says MacLane. ‘I knew Buzz would have to face a big problem, and I liked the sci-fi element of time dilation. There’s a rich history of character-out-of-time heroics: Captain America, Flash Gordon,  Buck Rogers, to name a few.
 
-‘They say you can’t live in the past, but what if you could?’ continues MacLane. ‘We all wonder what it would be like to go back in time, but instead we’re jumping forward in time. That’s the truth I wanted to build for _Lightyear_ – nostalgia for the past while rapidly jumping into the future.’
+‘They say you can’t live in the past, but what if you could?’ continues MacLane. ‘We all wonder what it would be like to go back in time, but instead we’re jumping forward in time. That’s the truth I wanted to build for _Lightyear_ – nostalgia for the past while rapidly jumping into the future.’  
+**Production notes**
+<br><br>
 
-Production notes
-
-<![endif]-->
-
-**LIGHTYEAR**
-
+**LIGHTYEAR**  
 _Directed by_: Angus MacLane  
 ©: Disney Enterprises Inc., Pixar  
 _Production Company_: Pixar Animation Studios  
-_Executive Producers_: Andrew Stanton,  
-Pete Docter  
+_Executive Producers_: Andrew Stanton,  Pete Docter  
 _Produced by_: Galyn Susman  
 _Post-production Supervisor_: Dana Mulligan  
 _Script Supervisor_: Laura Holshouser  
@@ -33,8 +28,7 @@ _Story & Script Coordinator_: Rebecca Banks
 _Screenplay by_: Jason Headley, Angus MacLane  
 _Story by_: Angus MacLane, Matthew Aldrich, Jason Headley  
 _Story Supervisor_: Dean Kelly  
-_Directors of Photography_: Jeremy Lasky,  
-Ian Megibben  
+_Directors of Photography_: Jeremy Lasky,  Ian Megibben  
 _Visual Effects Supervisor_: Jane Yen  
 _Animation Supervisor_: David Devan  
 _Directing Animators_: Travis Hathaway,  
@@ -115,5 +109,5 @@ and Moviemaking**
 
 22-26 Aug 10:30-16:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4NjEzNzk3XX0=
+eyJoaXN0b3J5IjpbMTg2MDY4MTE4OF19
 -->
