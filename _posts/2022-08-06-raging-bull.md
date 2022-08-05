@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Raging Bull
+published: true
+date: 2022-08-06
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Biopic]
+metadata: 'USA 1980, 129 mins<br> Director: Martin Scorsese'
+pdf: '2022-08-06-raging-bull.pdf'
+---
 
 Sitting in a movie theatre as the credits rolled on _The Death Collector_ (1975), _Raging Bull_’s casting director Cis Corman felt they could have found their Joey LaMotta. The film hadn’t made much of an impression, but the actor playing Joe, a debt enforcer for the mob, had. His name was Joe Pesci. Corman sent Robert De Niro a copy of the film. ‘That’s how I saw Joe for the first time,’ recalls De Niro. He made a call to Scorsese. ‘Marty, you’ve got to see this guy. This guy is interesting.’ ‘I liked him,’ remembers Scorsese. ‘What I liked was he seemed like he was so authentic that he, how should I say it, was an actor but he was not an actor. Simple.’
 
@@ -158,6 +168,55 @@ USA 1980©<br>
 
 *Uncredited<br>
 <br>
+
+**BIG SCREEN CLASSICS**<br>
+**The Manchurian Candidate**<br>
+Mon 1 Aug 14:40; Fri 5 Aug 18:00; Sun 14 Aug 14:40<br>
+**M**<br>
+Tue 2 Aug 18:15; Wed 10 Aug 20:45; Tue 23 Aug 20:50; Mon 29 Aug 12:00<br>
+**Sweet Smell of Success**<br>
+Tue 2 Aug 20:50; Sat 13 Aug 18:10; Mon 29 Aug 18:30<br>
+**Dance, Girl, Dance**<br>
+Wed 3 Aug 18:00 (+ intro by Pamela Hutchinson, Film Critic and Historian); Thu 18 Aug 20:45<br>
+**Gaslight**<br>
+Thu 4 Aug 18:15; Mon 8 Aug 20:45<br>
+**Persona**<br>
+Fri 5 Aug 20:50; Thu 11 Aug 21:00; Wed 31 Aug 18:20 (+ intro by Geoff Andrew, Programmer at Large)<br>
+**Raging Bull**<br>
+Sat 6 Aug 20:30; Thu 11 Aug 20:30; Fri 26 Aug 20:30<br>
+**La Haine**<br>
+Sat 6 Aug 21:00; Fri 19 Aug 20:50; Wed 24 Aug 18:10 (+ intro by Ginette Vincendeau, Professor of film studies at King’s College London)<br>
+**Citizen Kane**<br>
+Sun 7 Aug 14:30; Tue 16 Aug 18:15; Wed 24 Aug 20:40<br>
+**The White Ribbon (Das weisse Band)**<br>
+Tue 9 Aug 17:50; Sat 27 Aug 17:50<br>
+**Kes**<br>
+Tue 9 Aug 20:45; Mon 15 Aug 18:15; Tue 30 Aug 20:40<br>
+**The Night of the Hunter**<br>
+Wed 10 Aug 18:10 (+ intro by Jason Wood, BFI Director of Public Programme and Audiences); Mon 22 Aug 20:45; Sun 28 Aug 12:20<br>
+**Notorious**<br>
+Thu 11 Aug 18:10; Wed 17 Aug 20:45; Sun 21 Aug 12:20; Thu 25 Aug 18:15<br>
+**Bigger Than Life**<br>
+Fri 12 Aug 20:40; Wed 17 Aug 18:20 (+ intro by Geoff Andrew, Programmer at Large)<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMzY1Nzk4MjE2XX0=
 -->
