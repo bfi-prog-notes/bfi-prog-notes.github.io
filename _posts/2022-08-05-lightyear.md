@@ -70,29 +70,17 @@ Tue 2 Aug 13:30; Sat 6 Aug 12:10; Wed 10 Aug 13:30; Tue 30 Aug 13:30<br>
 Wed 3 Aug 13:30; Tue 9 Aug 13:30; Thu 11 Aug 13:30; Sat 20 Aug 12:00; Thu 25 Aug 13:30<br>
 **Lightyear**<br>
 Fri 5 Aug 13:30; Sun 14 Aug 12:00 (Funday); Thu 18 Aug 13:30;  Mon 22 Aug 13:30; Mon 29 Aug 12:15<br>
-
-**Family Preview:  
-Where Is Anne Frank**<br>
-
+**Family Preview:  Where Is Anne Frank**<br>
 Sun 7 Aug 11:30<br>
-
 **Storytelling with Lighting: Filmmaking Workshop**<br>
-
 8-11 Aug 10:30-16:30<br>
-
 **Funday Workshop: Lightyear**<br>
-
 Sun 14 Aug 10:30 Foyer<br>
-
-**Special Effects Makeup  
-and Moviemaking**<br>
-
+**Special Effects Makeup  and Moviemaking**<br>
 15-19 Aug 10:30-16:30<br>
-
 **Places and Stories Moviemaking**<br>
-
 22-26 Aug 10:30-16:30<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDE5NDA1Nl19
+eyJoaXN0b3J5IjpbLTcwNDY0MDY5Ml19
 -->
