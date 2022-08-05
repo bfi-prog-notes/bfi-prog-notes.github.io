@@ -88,139 +88,141 @@ _Set Decorators:_ Fred Weiler, Philip Abramson<br>
 
 _Property Masters:_ Emily Ferry, Tom Saccio<br>
 _Costume Designers:_ Richard Bruno, John Boxer<br>
-_Make-up Artists:_ Frank Westmore, Mike Maggi _Make-up Created by:_ Michael Westmore _Hairstylists:_ Jean Burt Reilly, Verne Caruso,  
-Mary Keats, Mona Orr
+_Make-up Artists:_ Frank Westmore, Mike Maggi<br>
+_Make-up Created by:_ Michael Westmore<br>
+_Hairstylists:_ Jean Burt Reilly, Verne Caruso,  Mary Keats, Mona Orr<br>
 
-_Title Design by:_ Dan Perri
+_Title Design by:_ Dan Perri<br>
 
 _Opticals:_ Modern Film Effects, Movie Magic,  
-EFX Unlimited
+EFX Unlimited<br>
 
-_Black and White Timing:_ Jim Henry
+_Black and White Timing:_ Jim Henry<br>
 
-_Sound Mixers:_ Les Lazarowitz, Michael Evje
+_Sound Mixers:_ Les Lazarowitz, Michael Evje<br>
 
 _Re-recording Engineers:_ Donald O. Mitchell,  
-Bill Nicholson, David J. Kimball
+Bill Nicholson, David J. Kimball<br>
 
-_Sound Effects Supervising Editor:_ Frank Warner
+_Sound Effects Supervising Editor:_ Frank Warner<br>
 
-_Boxing Technical Adviser:_ Al Silvani
+_Boxing Technical Adviser:_ Al Silvani<br>
 
-_Technical Adviser:_ Frank Topham
+_Technical Adviser:_ Frank Topham<br>
 
 _Special Assistance:_ Emmet Murphy,
 
-Rob Hummel
+Rob Hummel<br>
 
-_Consultant:_ Jake La Motta
+_Consultant:_ Jake La Motta<br>
 
-_Research:_ Gloria Norris
+_Research:_ Gloria Norris<br>
 
 _Stunt Co-ordinator:_ Jim Nickerson  
-_Cast:_
 
-Robert De Niro _(Jake La Motta)_
+_Cast:_<br>
 
-Joe Pesci _(Joey La Motta)_
+Robert De Niro _(Jake La Motta)_<br>
 
-Cathy Moriarty _(Vickie La Motta)_
+Joe Pesci _(Joey La Motta)_<br>
 
-Frank Vincent _(Salvy)_
+Cathy Moriarty _(Vickie La Motta)_<br>
 
-Bernie Allen _(comedian)_
+Frank Vincent _(Salvy)_<br>
 
-Nicholas Colasanto _(Tommy Como)_
+Bernie Allen _(comedian)_<br>
 
-Joseph Bono _(Guido)_
+Nicholas Colasanto _(Tommy Como)_<br>
 
-Mario Gallo _(Mario)_
+Joseph Bono _(Guido)_<br>
 
-Lori Anne Flax _(Irma)_
+Mario Gallo _(Mario)_<br>
 
-Theresa Saldana _(Lenore)_
+Lori Anne Flax _(Irma)_<br>
 
-Bill Hanrahan _(Eddie Eagan)_
+Theresa Saldana _(Lenore)_<br>
 
-Frank Adonis _(Patsy)_
+Bill Hanrahan _(Eddie Eagan)_<br>
 
-Don Dunphy _(himself)_
+Frank Adonis _(Patsy)_<br>
 
-Frank Topham _(Toppy)_
+Don Dunphy _(himself)_<br>
 
-Charles Scorsese _(Charlie, man with Como)_
+Frank Topham _(Toppy)_<br>
 
-Rita Bennett _(Emma, Miss 48’s)_
+Charles Scorsese _(Charlie, man with Como)_<br>
 
-James V. Christy _(Dr Pinto)_
+Rita Bennett _(Emma, Miss 48’s)_<br>
 
-Michael Badalucco _(soda fountain clerk)_
+James V. Christy _(Dr Pinto)_<br>
 
-Thomas Beansy Lobasso _(Beansy)_
+Michael Badalucco _(soda fountain clerk)_<br>
 
-Paul Forrest _(monsignor)_
+Thomas Beansy Lobasso _(Beansy)_<br>
 
-Peter Petrella _(Johnny)_
+Paul Forrest _(monsignor)_<br>
 
-Sal Serafino Thomassetti _(Webster Hall bouncer)_
+Peter Petrella _(Johnny)_<br>
 
-Mardik Martin _(Copa waiter)_
+Sal Serafino Thomassetti _(Webster Hall bouncer)_<br>
 
-Geraldine Smith _(Janet)_
+Mardik Martin _(Copa waiter)_<br>
 
-Maryjane Lauria _(girl 1)_
+Geraldine Smith _(Janet)_<br>
 
-Linda Artuso _(girl 2)_
+Maryjane Lauria _(girl 1)_<br>
 
-Peter Savage _(Jackie Curtie)_
+Linda Artuso _(girl 2)_<br>
 
-Daniel P. Conte _(Detroit promoter)_
+Peter Savage _(Jackie Curtie)_<br>
 
-Joe Malanga _(bodyguard)_
+Daniel P. Conte _(Detroit promoter)_<br>
 
-Sabine Turco Jr, Steve Orlando, Silvio Garcia Jr _(bouncers at Copa)_
+Joe Malanga _(bodyguard)_<br>
 
-John Arceri _(maître d’)_
+Sabine Turco Jr, Steve Orlando, Silvio Garcia Jr _(bouncers at Copa)_<br>
 
-Joseph A. Morale _(man at table 1)_
+John Arceri _(maître d’)_<br>
 
-James Dimodica _(man at table 2)_
+Joseph A. Morale _(man at table 1)_<br>
 
-Robert Uricola _(man outside cab)_
+James Dimodica _(man at table 2)_<br>
 
-Andrea Orlando _(woman in cab)_
+Robert Uricola _(man outside cab)_<br>
 
-Allan Malamud _(reporter at Jake’s house)_
+Andrea Orlando _(woman in cab)_<br>
 
-D.J. Blair _(state attorney Bronson)_
+Allan Malamud _(reporter at Jake’s house)_<br>
 
-Laura James _(Mrs Bronson)_
+D.J. Blair _(state attorney Bronson)_<br>
 
-Richard McMurray _(J.R.)_
+Laura James _(Mrs Bronson)_<br>
 
-Mary Albee _(underage ID girl)_
+Richard McMurray _(J.R.)_<br>
 
-Liza Katz _(woman with ID girl)_
+Mary Albee _(underage ID girl)_<br>
 
-Candy Moore _(Linda)_
+Liza Katz _(woman with ID girl)_<br>
 
-Richard A. Berk _(musician 1)_
+Candy Moore _(Linda)_<br>
 
-Theodore Sauners _(musician 2)_
+Richard A. Berk _(musician 1)_<br>
 
-Noah Young _(musician 3)_
+Theodore Sauners _(musician 2)_<br>
 
-Nick Trisko _(bartender Carlo)_
+Noah Young _(musician 3)_<br>
 
-Lou Tiano _(Ricky)_
+Nick Trisko _(bartender Carlo)_<br>
 
-Bob Evan Collins _(arresting deputy 1)_
+Lou Tiano _(Ricky)_<br>
 
-Wally Berns _(arresting deputy 2)_
+Bob Evan Collins _(arresting deputy 1)_<br>
 
-Allan Joseph _(jeweller)_
+Wally Berns _(arresting deputy 2)_<br>
 
-Bob Aaron _(prison guard 1)_
+Allan Joseph _(jeweller)_<br>
+
+Bob Aaron _(prison guard 1)_<br>
 
 Glenn Leigh Marshall _(prison guard 2)_
 
@@ -270,5 +272,5 @@ USA 1980©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTQ3MjY5MF19
+eyJoaXN0b3J5IjpbNjMyOTI0OTg2XX0=
 -->
