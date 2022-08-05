@@ -66,40 +66,24 @@ The screening on Fri 5 Aug 18:15 will be  introduced by Reggae season curator an
 <br><br>
 
 **NEW RELEASES**<br>
-
 **Hit the Road (Jaddeh Khaki)**<br>
-
 Continues from Fri 29 Jul<br>
-
 **The Feast**<br>
-
 From Fri 19 Aug<br>
-
 **Where Is Anne Frank**<br>
-
 From Fri 19 Aug<br>
-
 **Queen of Glory**<br>
-
 From Fri 28 Aug<br>
 
 **RE-RELEASES**<br>
-
 **The Big City (Mahanagar)**<br>
-
 Continues from Fri 22 Jul<br>
-
 **Paris, Texas**<br>
-
 Continues from Fri 29 Jul<br>
-
 **The Harder They Come**<br>
-
-From Fri 5 Aug (+ intro by season curator and author Lloyd Bradley on Fri 5 Aug 18:15)
-
-**Burning an Illusion**
-
-From Fri 19 Aug
+From Fri 5 Aug (+ intro by season curator and author Lloyd Bradley on Fri 5 Aug 18:15)<br>
+**Burning an Illusion**<br>
+From Fri 19 Aug<br>
 
 **FROM JAMAICA TO THE WORLD: REGGAE ON FILM**  
 **Seniors’ Free Archive Matinee: Inna de Yard + iscussion**  
@@ -129,5 +113,5 @@ Tue 23 Aug 18:20
 **Bob Marley: The Making of a Legend + Q&A with directors Esther Anderson and Gian Godoy**  
 Tue 30 Aug 18:10  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTcyNTU4N119
+eyJoaXN0b3J5IjpbLTE3Mzg3NDA3NzddfQ==
 -->
