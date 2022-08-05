@@ -27,51 +27,31 @@ Scorsese went with the first take. ‘Every actor in Hollywood would love to be 
 <br><br>
 
 **RAGING BULL**<br>
-
 _Director:_ Martin Scorsese<br>
-
 ©_/Presented by:_ United Artists<br>
-
 _Producers:_ Irwin Winkler, Robert Chartoff<br> 
 _Produced in Association with:_ Peter Savage<br>
  _Associate Producer:_ Hal Polaire<br>
 _Production Accountants:_ Meryle Selinger,  Lydia Resurreccion<br>
-
 _Production Office Co-ordinators:_ Donna Smith, Helene Spinner, Moira Kelly<br>
-
 _Production Manager:_ James D. Brubaker<br>
-
 _Location Managers:_ Dale Benson, Chris Cronyn  
 _1st Assistant Directors:_ Jerry Grandey,  Allan Wertheim<br>
-
 _2nd Assistant Directors:_ Joan Feinstein, Elie Cohn  
 _Script Supervisor:_ Hannah Scheel<br>
-
 _Casting:_ Cis Corman<br>
-
 _Screenplay:_ Paul Schrader, Mardik Martin<br>
-
-_Based on the book by:_ Jake La Motta,  
-Joseph Carter, Peter Savage<br>
-
-_Excerpts from_ On the Waterfront _by:_  
-Budd Schulberg<br>
-
+_Based on the book by:_ Jake La Motta,  Joseph Carter, Peter Savage<br>
+_Excerpts from_ On the Waterfront _by:_  Budd Schulberg<br>
 _Director of Photography:_ Michael Chapman  
 _Camera Operators:_ Joe Marquette, Eddie Gold<br>
-
-_1st Assistant Cameramen:_ Dustin Blauvelt,  
-Ed Ramirez<br>
-
-_2nd Assistant Cameramen:_ Richard Fee,  
-Bruce McCallum<br>
-
+_1st Assistant Cameramen:_ Dustin Blauvelt,  Ed Ramirez<br>
+_2nd Assistant Cameramen:_ Richard Fee,  Bruce McCallum<br>
 _Key Grips:_ Ed Quinn, Robert Miller<br>
-
 _Gaffers:_ Richard Quinlan, Ray Mendez<br>
-
 _Still Photographers:_ Christine Loss, Brian Hamill  
-_Special Effects:_ Raymond Klein, Max E. Wood _Editor:_ Thelma Schoonmaker<br>
+_Special Effects:_ Raymond Klein, Max E. Wood 
+_Editor:_ Thelma Schoonmaker<br>
 
 _Associate Editors:_ George Trirogoff, Yoshio Kishi, Erik T. Ramberg, Mark Warner, Susan E. Morse  
 _New York Production Designer:_ Gene Rudolf<br>
@@ -224,40 +204,41 @@ Allan Joseph _(jeweller)_<br>
 
 Bob Aaron _(prison guard 1)_<br>
 
-Glenn Leigh Marshall _(prison guard 2)_
+Glenn Leigh Marshall _(prison guard 2)_<br>
 
-Martin Scorsese _(Barbizon stagehand)_
+Martin Scorsese _(Barbizon stagehand)_<br>
 
-Bill Mazer _(reporter)_ *
+Bill Mazer _(reporter)_ *<br>
 
-Mike Miles _(sparring partner)_ *
+Mike Miles _(sparring partner)_ *<br>
 
 Angelo Lamonea, Chuck Hicks  
-_(Janiro fight cornermen)_ *
+_(Janiro fight cornermen)_ *<br>
 
-Walt LaRue _(Fox fight cornerman 1)_ *
+Walt LaRue _(Fox fight cornerman 1)_ *<br>
 
-Gene Allan Poe _(Audie Murphy)_ *
+Gene Allan Poe _(Audie Murphy)_ *<br>
 
-Gil Perkins _(Dauthuille fight cornerman 1)_ *
+Gil Perkins _(Dauthuille fight cornerman 1)_ *<br>
 
-Gene Borkan _(Dauthuille fight cornerman 2)_ * Thomas Murphy _(J.R.’s friend)_ *
+Gene Borkan _(Dauthuille fight cornerman 2)_ *<br>
+Thomas Murphy _(J.R.’s friend)_ *<br>
 
-Leonard D’John _(New Yorker 1)_ *
+Leonard D’John _(New Yorker 1)_ *<br>
 
-Bobby Giordano _(New Yorker 2)_ *
+Bobby Giordano _(New Yorker 2)_ *<br>
 
-Charles Guardino _(New Yorker 3)_ *
+Charles Guardino _(New Yorker 3)_ *<br>
 
-Vincent Barbi _(New Yorker 4)_ *
+Vincent Barbi _(New Yorker 4)_ *<br>
 
-John Turturro _(man at table)_ *
+John Turturro _(man at table)_ *<br>
 
 Michael Chapman
 
-_(photographer with cigar and flashbulb)_ *
+_(photographer with cigar and flashbulb)_ *<br>
 
-_fighters_
+_fighters_<br>
 
 Floyd Anderson _(Jimmy Reeves)_  
 Johnny Barnes _(Sugar Ray Robinson)_  
@@ -266,11 +247,12 @@ Kevin Mahon _(Tony Janiro)_
 Louis Raftis _(Marcel Cerdan)_  
 Johnny Turner _(Laurent Dauthuille)_
 
-USA 1980©
+USA 1980©<br>
 
 129 mins
 
-* Uncredited
+*Uncredited<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyOTI0OTg2XX0=
+eyJoaXN0b3J5IjpbNzY5NTk1MDEyXX0=
 -->
