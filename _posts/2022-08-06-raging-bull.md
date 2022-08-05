@@ -130,39 +130,22 @@ Allan Joseph _(jeweller)_<br>
 Bob Aaron _(prison guard 1)_<br>
 Glenn Leigh Marshall _(prison guard 2)_<br>
 Martin Scorsese _(Barbizon stagehand)_<br>
-
 Bill Mazer _(reporter)_ *<br>
-
 Mike Miles _(sparring partner)_ *<br>
-
-Angelo Lamonea, Chuck Hicks  
-_(Janiro fight cornermen)_ *<br>
-
+Angelo Lamonea, Chuck Hicks  _(Janiro fight cornermen)_ *<br>
 Walt LaRue _(Fox fight cornerman 1)_ *<br>
-
 Gene Allan Poe _(Audie Murphy)_ *<br>
-
 Gil Perkins _(Dauthuille fight cornerman 1)_ *<br>
-
 Gene Borkan _(Dauthuille fight cornerman 2)_ *<br>
 Thomas Murphy _(J.R.’s friend)_ *<br>
-
 Leonard D’John _(New Yorker 1)_ *<br>
-
 Bobby Giordano _(New Yorker 2)_ *<br>
-
 Charles Guardino _(New Yorker 3)_ *<br>
-
 Vincent Barbi _(New Yorker 4)_ *<br>
-
 John Turturro _(man at table)_ *<br>
-
-Michael Chapman
-
-_(photographer with cigar and flashbulb)_ *<br>
+Michael Chapman _(photographer with cigar and flashbulb)_ *<br>
 
 _fighters_<br>
-
 Floyd Anderson _(Jimmy Reeves)_  
 Johnny Barnes _(Sugar Ray Robinson)_  
 Eddie Mustafa Muhammad _(Billy Fox)_  
@@ -171,11 +154,10 @@ Louis Raftis _(Marcel Cerdan)_
 Johnny Turner _(Laurent Dauthuille)_
 
 USA 1980©<br>
-
 129 mins
 
 *Uncredited<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDE1MTczMF19
+eyJoaXN0b3J5IjpbMzY1Nzk4MjE2XX0=
 -->
