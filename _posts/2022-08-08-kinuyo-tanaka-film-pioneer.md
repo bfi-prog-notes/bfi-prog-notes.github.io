@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Forever a Woman
+title: Kinuyo Tanaka<br> Film Pioneer
 published: true
 date: 2022-08-08
 readtime: true
