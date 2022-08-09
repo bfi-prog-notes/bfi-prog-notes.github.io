@@ -1,6 +1,4 @@
 
-<![endif]-->
-
 **SPOILER WARNING** The following notes give away the film’s ending.
 
 In Satyajit Ray’s view, _Kanchenjunga_ differs from all his previous work: the story being his own, ‘the difference is between interpretation and creation.’ Of necessity, the structure is also different from his usual leisurely tempo, since the action is much tauter and covers only one-and-a-half hours on the last afternoon of the holiday – the duration of the film itself.
@@ -56,5 +54,5 @@ India 1962
 
 Print courtesy of the Packard Humanities Institute Collection at the Academy Film Archive.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTY1MjE0Nl19
+eyJoaXN0b3J5IjpbLTE3MzcxOTY2NjFdfQ==
 -->
