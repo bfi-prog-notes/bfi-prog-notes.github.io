@@ -55,14 +55,11 @@ _Colourist_: Jon Bruce
 _Original Score by:_ Shelly Poole  
 _Original Soundtrack Arranged by_: Shelly Poole  
 _Music Supervisor_: Gemma Dempsey  
-_Sound Designers_: Heather Andrews,  
-Stewart Simpson  
-_Sound Recordists_: Lisa Higgins,  
-Jonathon McLoone, David McKeitch,  
-Kevin Robertson  
+_Sound Designers_: Heather Andrews,  Stewart Simpson  
+_Sound Recordists_: Lisa Higgins,  Jonathon McLoone, David McKeitch, Kevin Robertson  
 _Re-recording Mixer_: John Cobban  
-_Cast:_
 
+**Cast**  
 Alan Cumming _(Brandon)_  
 Lulu _(voice of Mrs Holmes)_  
 Clare Grogan _(voice of Mrs Ogg)_  
@@ -78,11 +75,11 @@ Wam Siluka Jr _(voice of Stefen)_
 Dawn Steele _(voice of Mrs Nolan)_  
 Michelle Gallagher, Gary Lamont, Natalie McConnon, Brian O’Sullivan _(additional voices)_
 
-UK 2022©
-
+UK 2022©  
 104 mins
 
-Courtesy of Dogwoof
+Courtesy of Dogwoof<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjY4MzE5NV19
+eyJoaXN0b3J5IjpbMjAxODcyMDYwM119
 -->
