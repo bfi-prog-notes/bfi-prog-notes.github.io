@@ -45,132 +45,104 @@ Like these other septuagenarian classics, _Notorious_ remains a lasting demonstr
 <br><br>
 
 **NOTORIOUS**<br>
-
 _Directed by_: Alfred Hitchcock<br>
+_Production Company:_ RKO Radio Pictures<br>
+_Production Assistant:_ Barbara Keon<br>
+_Assistant Director:_ William Dorfman<br>
+_Screenplay:_ Ben Hecht<br>
+_Director of Photography:_ Ted Tetzlaff<br>
+_Special Effects by:_ Vernon L. Walker, Paul Eagler<br>
+_Edited by:_ Theron Warth<br>
+_Art Directors:_ Albert S. D’Agostino, Carroll Clark<br>
+_Set Decoration:_ Darrell Silvera, Claude Carpenter<br>
+_Miss Bergman’s Gowns Designed by:_ Edith Head<br>
+_Music by:_ Roy Webb<br>
+_Musical Director:_ C. Bakaleinikoff<br>
+_Orchestral Arrangements:_ Gil Grau<br>
+_Sound by:_ John E. Tribby, Terry Kellum<br>
 
-_Production Company:_ RKO Radio Pictures
+_uncredited_<br>
+_Producer:_ Alfred Hitchcock<br>
 
-_Production Assistant:_ Barbara Keon
+**Cast**<br>
+Cary Grant _(Devlin)_<br>
+Ingrid Bergman _(Alicia Huberman)_<br>
+Claude Rains _(Alexander Sebastian)_<br>
+Louis Calhern _(Captain Paul Prescott)_<br>
+Madame Konstantin _(Madame Sebastian)_<br>
+Reinhold Schunzel _(Dr Anderson)_<br>
+Moroni Olsen _(Walter Beardsley)_<br>
+Ivan Triesault _(Eric Mathis)_<br>
+Alex Minotis _(Joseph)_<br>
+Wally Brown _(Mr Hopkins)_<br>
+Sir Charles Mendl _(Commodore)_<br>
+Ricardo Costa _(Dr Barbosa)_<br>
+Eberhard Krumschmidt) _(Emile Hupka)_<br>
 
-_Assistant Director:_ William Dorfman
+Fay Baker _(Ethel)_<br>
 
-_Screenplay:_ Ben Hecht
+_uncredited_<br>
 
-_Director of Photography:_ Ted Tetzlaff
+Gavin Gordon _(Ernest Weylin)_<br>
 
-_Special Effects by:_ Vernon L. Walker, Paul Eagler
+Antonio Moreno _(Senor Ortiza)_<br>
 
-_Edited by:_ Theron Warth
+Friedrich Ledebur (_Knerr)_<br>
 
-_Art Directors:_ Albert S. D’Agostino, Carroll Clark
+Louis Serrano _(Dr Silva)_<br>
 
-_Set Decoration:_ Darrell Silvera, Claude Carpenter
+Ramon Nomar _(2nd Dr Silva)_<br>
 
-_Miss Bergman’s Gowns Designed by:_ Edith Head
+William D. Gordon _(Adams)_<br>
 
-_Music by:_ Roy Webb
+Charles D. Brown _(judge)_<br>
 
-_Musical Director:_ C. Bakaleinikoff
+Fred Nurney _(Huberman)_<br>
 
-_Orchestral Arrangements:_ Gil Grau
+Herbert Wyndham _(Mr Cook)_<br>
 
-_Sound by:_ John E. Tribby, Terry Kellum
+Peter von Zerneck _(Rossner)_<br>
 
-_uncredited_
+Alfred Hitchcock _(champagne drinker at party)_<br>
 
-_Producer:_ Alfred Hitchcock
+Harry Hayden _(defense council)_<br>
 
-_Cast:_
+Dink Trout _(clerk of court)_<br>
 
-Cary Grant _(Devlin)_
+Warren Jackson _(district attorney)_<br>
 
-Ingrid Bergman _(Alicia Huberman)_
+Howard Mitchell _(bailiff)_<br>
 
-Claude Rains _(Alexander Sebastian)_
+Garry Owen, Lester Dorr _(motor cops)_<br>
 
-Louis Calhern _(Captain Paul Prescott)_
-
-Madame Konstantin _(Madame Sebastian)_
-
-Reinhold Schunzel _(Dr Anderson)_
-
-Moroni Olsen _(Walter Beardsley)_
-
-Ivan Triesault _(Eric Mathis)_
-
-Alex Minotis _(Joseph)_
-
-Wally Brown _(Mr Hopkins)_
-
-Sir Charles Mendl _(Commodore)_
-
-Ricardo Costa _(Dr Barbosa)_
-
-Eberhard Krumschmidt) _(Emile Hupka)_
-
-Fay Baker _(Ethel)_
-
-_uncredited_
-
-Gavin Gordon _(Ernest Weylin)_
-
-Antonio Moreno _(Senor Ortiza)_
-
-Friedrich Ledebur (_Knerr)_
-
-Louis Serrano _(Dr Silva)_
-
-Ramon Nomar _(2nd Dr Silva)_
-
-William D. Gordon _(Adams)_
-
-Charles D. Brown _(judge)_
-
-Fred Nurney _(Huberman)_
-
-Herbert Wyndham _(Mr Cook)_
-
-Peter von Zerneck _(Rossner)_
-
-Alfred Hitchcock _(champagne drinker at party)_
-
-Harry Hayden _(defense council)_
-
-Dink Trout _(clerk of court)_
-
-Warren Jackson _(district attorney)_
-
-Howard Mitchell _(bailiff)_
-
-Garry Owen, Lester Dorr _(motor cops)_
-
-Tom Coleman _(court stenographer)_
+Tom Coleman _(court stenographer)_<br>
 
 John Vosper, Eddie Bruce, Donald Kerr,  
 Ben Erway, Emmett Vogan, Paul Bryar,  
-Alan Ward, James Logan _(reporters)_
+Alan Ward, James Logan _(reporters)_<br>
 
-Howard Negley, Frank Marlowe, George Lynn _(photographers)_
+Howard Negley, Frank Marlowe, George Lynn _(photographers)_<br>
 
 Bea Benaderet, Virginia Gregg, Bernice Barrett  
-_(file clerks)_
+_(file clerks)_<br>
 
-Tina Menard _(maid)_
+Tina Menard _(maid)_<br>
 
-Alfredo De Sa _(Ribero)_
+Alfredo De Sa _(Ribero)_<br>
 
 Sandra Morgan, Aileen Carlyle, Lillian West,  
-Beulah Christian, Almeda Fowler, Leota Lorraine _(women)_
+Beulah Christian, Almeda Fowler, Leota Lorraine _(women)_<br>
 
-Richard Clark, Frank McDonald _(men)_
+Richard Clark, Frank McDonald _(men)_<br>
 
-Frank Wilcox _(FBI man)_
+Frank Wilcox _(FBI man)_<br>
 
-Patricia Smart _(Mrs Jackson)_
+Patricia Smart _(Mrs Jackson)_<br>
 
-USA 1946©
+USA 1946©<br>
 
-101 mins
+101 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQ3Mzg3NjldfQ==
+eyJoaXN0b3J5IjpbMTc0NjA2OTA4MV19
 -->
