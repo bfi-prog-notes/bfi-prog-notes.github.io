@@ -78,71 +78,40 @@ Wally Brown _(Mr Hopkins)_<br>
 Sir Charles Mendl _(Commodore)_<br>
 Ricardo Costa _(Dr Barbosa)_<br>
 Eberhard Krumschmidt) _(Emile Hupka)_<br>
-
 Fay Baker _(Ethel)_<br>
 
 _uncredited_<br>
-
 Gavin Gordon _(Ernest Weylin)_<br>
-
 Antonio Moreno _(Senor Ortiza)_<br>
-
 Friedrich Ledebur (_Knerr)_<br>
-
 Louis Serrano _(Dr Silva)_<br>
-
 Ramon Nomar _(2nd Dr Silva)_<br>
-
 William D. Gordon _(Adams)_<br>
-
 Charles D. Brown _(judge)_<br>
-
 Fred Nurney _(Huberman)_<br>
-
 Herbert Wyndham _(Mr Cook)_<br>
-
 Peter von Zerneck _(Rossner)_<br>
-
 Alfred Hitchcock _(champagne drinker at party)_<br>
-
 Harry Hayden _(defense council)_<br>
-
 Dink Trout _(clerk of court)_<br>
-
 Warren Jackson _(district attorney)_<br>
-
 Howard Mitchell _(bailiff)_<br>
-
 Garry Owen, Lester Dorr _(motor cops)_<br>
-
 Tom Coleman _(court stenographer)_<br>
-
-John Vosper, Eddie Bruce, Donald Kerr,  
-Ben Erway, Emmett Vogan, Paul Bryar,  
+John Vosper, Eddie Bruce, Donald Kerr,  Ben Erway, Emmett Vogan, Paul Bryar,  
 Alan Ward, James Logan _(reporters)_<br>
-
 Howard Negley, Frank Marlowe, George Lynn _(photographers)_<br>
-
-Bea Benaderet, Virginia Gregg, Bernice Barrett  
-_(file clerks)_<br>
-
+Bea Benaderet, Virginia Gregg, Bernice Barrett  _(file clerks)_<br>
 Tina Menard _(maid)_<br>
-
 Alfredo De Sa _(Ribero)_<br>
-
-Sandra Morgan, Aileen Carlyle, Lillian West,  
-Beulah Christian, Almeda Fowler, Leota Lorraine _(women)_<br>
-
+Sandra Morgan, Aileen Carlyle, Lillian West,  Beulah Christian, Almeda Fowler, Leota Lorraine _(women)_<br>
 Richard Clark, Frank McDonald _(men)_<br>
-
 Frank Wilcox _(FBI man)_<br>
-
 Patricia Smart _(Mrs Jackson)_<br>
 
 USA 1946©<br>
-
 101 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjA2OTA4MV19
+eyJoaXN0b3J5IjpbMTMxNzY3MjU5XX0=
 -->
