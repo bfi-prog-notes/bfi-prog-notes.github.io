@@ -1,8 +1,7 @@
 
-_+ pre-recorded intro by Shabana Azmi_
+_+ pre-recorded intro by Shabana Azmi (Tuesday 23 August only)_
 
-**Satyajit Ray and Saeed Jaffrey on ‘The Chess Players’**
-
+**Satyajit Ray and Saeed Jaffrey on ‘The Chess Players’**  
 In Bengal, with locations in Lucknow and a final session in the Calcutta studios to come, Ray himself has completed the first stage of shooting on  
 _The Chess Players_, his first Hindi-speaking film: ‘Yes, I suppose making my first Hindi film is a significant step. It will certainly reach a very much wider audience, no question, though it will equally certainly not reach the Sholay audience. I’ve been avoiding this step for such a long time, partly because of the fact that I don’t know Hindi well enough to be able to write dialogue, and I always write my own screenplay. I mean, you can do a screenplay, but...
 
@@ -67,7 +66,7 @@ _Songs Sung by_: Reba Muhuri, Birju Maharaj, Calcutta Youth Choir
 _Music Recording_: Samir Majumdar  
 _Dance Composition/Choreography_: Birju Maharaj  
 _Sound_: Narinder Singh, Samir Majumdar  
-_Sound Re-recording_: Mangesh Desai
+_Sound Re-recording_: Mangesh Desai  
 
 **Cast**  
 Sanjeev Kumar _(Mirza Sajjd Ali)_  
@@ -85,16 +84,11 @@ Leela Mishra _(Hiria)_
 Barry John _(Dr Joseph Fayrer)_  
 Samarth Narain _(Kalloo)_  
 Budho Advani _(Imtaiz Hussain)_  
-Kamu Mukherjee _(betting man)_
-
+Kamu Mukherjee _(betting man)_  
 Amitabh Bachchan _(narrator)_  
-Uttamram Nagar, Khairatilal Lahori, Pradip Shankar, Ashfaq Mirza,  
-Amrit Bhushan Gujral, Ramesh Khosla,Shaik Farid, Madan Sudan,
-
-Saswati Sen_,_ Gitanjali_,_ Kathak Ballet Troupe _(dancers)_
+Uttamram Nagar, Khairatilal Lahori, Pradip Shankar, Ashfaq Mirza,  Amrit Bhushan Gujral, Ramesh Khosla,Shaik Farid, Madan Sudan, Saswati Sen, Gitanjali, Kathak Ballet Troupe _(dancers)_  
 
 India 1977
-
 120 mins
 
 Print courtesy of the Academy Film Archive.
@@ -103,5 +97,6 @@ Restored by the Satyajit Ray Preservation Project at the Academy Film Archive wi
 
 To clarify, Teen Kanya / Monihara, The Expedition, The Chess Players, Sikkim, and Two, all screening in the Satyajit Ray season in August, are advertised as restorations from the Academy Film Archive but they are not brand new restorations and are now showing slight signs of wear and tear. We apologise for any disappointment caused.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ3NTU4MjNdfQ==
+eyJoaXN0b3J5IjpbLTE3MDcyNTAwMzEsLTE3MTQ3NTU4MjNdfQ
+==
 -->
