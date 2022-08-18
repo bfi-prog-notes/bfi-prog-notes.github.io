@@ -88,15 +88,14 @@ Kamu Mukherjee _(betting man)_
 Amitabh Bachchan _(narrator)_  
 Uttamram Nagar, Khairatilal Lahori, Pradip Shankar, Ashfaq Mirza,  Amrit Bhushan Gujral, Ramesh Khosla,Shaik Farid, Madan Sudan, Saswati Sen, Gitanjali, Kathak Ballet Troupe _(dancers)_  
 
-India 1977
-120 mins
+India 1977  
+120 mins  
 
-Print courtesy of the Academy Film Archive.
+Print courtesy of the Academy Film Archive.  
 
-Restored by the Satyajit Ray Preservation Project at the Academy Film Archive with funding from the Film Foundation.
+Restored by the Satyajit Ray Preservation Project at the Academy Film Archive with funding from the Film Foundation.  
 
-To clarify, Teen Kanya / Monihara, The Expedition, The Chess Players, Sikkim, and Two, all screening in the Satyajit Ray season in August, are advertised as restorations from the Academy Film Archive but they are not brand new restorations and are now showing slight signs of wear and tear. We apologise for any disappointment caused.
+To clarify, Teen Kanya / Monihara, The Expedition, The Chess Players, Sikkim, and Two, all screening in the Satyajit Ray season in August, are advertised as restorations from the Academy Film Archive but they are not brand new restorations and are now showing slight signs of wear and tear. We apologise for any disappointment caused.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDcyNTAwMzEsLTE3MTQ3NTU4MjNdfQ
-==
+eyJoaXN0b3J5IjpbMjEzMTI0MDk3NywtMTcxNDc1NTgyM119
 -->
