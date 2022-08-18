@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Home and the World
+published: true
+date: 2022-08-21
+readtime: true
+categories: ['SATYAJIT RAY<br>THE LANGUAGE OF FILM']
+tags: [Drama]
+metadata: 'India 1984, 140 mins<br> Director: Satyajit Ray'
+pdf: '2022-08-21-home-and-the-world.pdf'
+---
 
 In the chaotic aftermath of the disastrous 1905 partition of Bengal into Muslim and Hindu states, progressive landlord Nikhilesh finds his wife Bimala’s attentions stolen by his more passionate and charismatic revolutionary friend Sandip. But events soon overtake them and Bimla is faced with deciding her future. A beautiful, nuanced period drama, it was completed by Ray, with his son’s help, following two massive heart attacks.  
 **bfi.org.uk**
@@ -51,6 +62,55 @@ India 1984
 140 mins  
 
 Print courtesy of the Packard Humanities Institute Collection at the Academy Film Archive.  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTA3NjE2OF19
--->
+
+
+**SATYAJIT RAY: THE LANGUAGE OF FILM**  
+**The Music Room (Jalsaghar)**  
+Mon 1 Aug 20:40; Sun 14 Aug 18:15  
+**Charulata (The Lonely Wife)**  
+Fri 5 Aug 18:20; Mon 8 Aug 18:15; Mon 15 Aug 14:30; Wed 17 Aug 20:40; Sat 27 Aug 12:00; Wed 31 Aug 20:45  
+**Devi (The Goddess) + Pikoo**  
+Sat 6 Aug 14:30 (+ pre-recorded intro by Sharmila Tagore); Sun 14 Aug 14:45  
+**Teen Kanya (Three Daughters)**  
+Sun 7 Aug 17:35; Sat 13 Aug 14:50  
+**Kanchenjungha**  
+Tue 9 Aug 18:20; Mon 15 Aug 20:50  
+**The Expedition (Abhijan)**  
+Wed 10 Aug 20:10; Sat 20 Aug 14:30  
+**Kapurush (The Coward) + Mahapurush (The Holy Man)**  
+Thu 11 Aug 18:00; Sat 20 Aug 20:20  
+**Satyajit Ray Documentaries Programme 2**  
+Tue 16 Aug 20:40; Wed 24 Aug 18:20  
+**The Hero (Nayak)**  
+Wed 17 Aug 18:10; Thu 25 Aug 20:40  
+**Days and Nights in the Forest (Aranyer Din Ratri)**  
+Thu 18 Aug 18:15; Sat 27 Aug 14:40  
+**The Home and the World (Ghare Baire)**  
+Sun 21 Aug 17:50; Wed 24 Aug 20:20  
+**The Chess Players (Shatranj Ke Khilari)**  
+Tue 23 Aug 18:10 (+ pre-recorded intro by Shabana Azmi); Sun 28 Aug 14:40  
+**Distant Thunder (Ashani Sanket) + Deliverance (Sadgati)**  
+Sat 27 Aug 17:30; Mon 29 Aug 14:40  
+**Enemy of the People (Ganashatru)**  
+Sun 28 Aug 12:10; Tue 30 Aug 18:15 (+ intro by Ashvin Devasundaram)  
+
+In association with The Academy Film Archive  
+<img style="float: left;" src="/img/academy-logo-01.png" width="30%" height="30%">
+<br><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
