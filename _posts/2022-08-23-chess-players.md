@@ -13,8 +13,7 @@ pdf: '2022-08-23-chess-players.pdf'
 _+ pre-recorded intro by Shabana Azmi (Tuesday 23 August only)_
 
 **Satyajit Ray and Saeed Jaffrey on ‘The Chess Players’**  
-In Bengal, with locations in Lucknow and a final session in the Calcutta studios to come, Ray himself has completed the first stage of shooting on  
-_The Chess Players_, his first Hindi-speaking film: ‘Yes, I suppose making my first Hindi film is a significant step. It will certainly reach a very much wider audience, no question, though it will equally certainly not reach the Sholay audience. I’ve been avoiding this step for such a long time, partly because of the fact that I don’t know Hindi well enough to be able to write dialogue, and I always write my own screenplay. I mean, you can do a screenplay, but...
+In Bengal, with locations in Lucknow and a final session in the Calcutta studios to come, Ray himself has completed the first stage of shooting on _The Chess Players_, his first Hindi-speaking film: ‘Yes, I suppose making my first Hindi film is a significant step. It will certainly reach a very much wider audience, no question, though it will equally certainly not reach the Sholay audience. I’ve been avoiding this step for such a long time, partly because of the fact that I don’t know Hindi well enough to be able to write dialogue, and I always write my own screenplay. I mean, you can do a screenplay, but...
 
 ‘I did this one in English and then, since I didn’t trust the usual Bombay dialogue writers, it was translated by two comparatively unknown people: Shama Zaidi, who also did the costumes, and Javed Siddiqui, who is my assistant on the film, a new assistant since I needed a Hindi-speaking one. Then, after the dialogue was translated, we went over every single line, considering alternatives. By that time I had learned a bit of Hindi – I did have a smattering already, everybody does, but I was worried about nuances, selecting from among several alternative expressions, which I can always do in Bengali very easily. Even during shooting, with the actors, there were little modifications, dropping words, substituting words. Normally this doesn’t happen with my films, these days anyway, because the dialogue is written with certain actors and certain actions in mind, so that we work with a finished product and almost no changes are necessary at the time of shooting.’
 
@@ -55,9 +54,7 @@ _Screenplay_: Satyajit Ray
 _Dialogue_: Satyajit Ray, Shama Zaidi, Javed Siddiqi  
 _Based on the story by_: Munshi Premchand  
 _Director of Photography_: Soumendu Roy  
-_Stills Photography_: Nemai Ghosh, Sandip Ray, Sumantra Ghoshal,
-
-Pablo Bartholomew  
+_Stills Photography_: Nemai Ghosh, Sandip Ray, Sumantra Ghoshal, Pablo Bartholomew  
 _Graphic Design_: Zehra Tyabji  
 _Associate Graphic Design_: Joseph St. Anne  
 _Animator_: Ram Mohan  
