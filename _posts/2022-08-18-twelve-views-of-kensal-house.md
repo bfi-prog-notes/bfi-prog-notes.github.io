@@ -76,77 +76,40 @@ UK 1984©
 55 mins
 <br><br>
 
-**REGULAR PROGRAMME**
-
-**Relaxed Screening: Kes + intro + discussion**
-
-Mon 22 Aug 18:15
-
-**Woman With a Movie Camera Preview:  
-Queen of Glory**
-
-Mon 22 Aug 18:30
-
-**Terror Vision: Burnt Offerings**
-
-Thu 25 Aug 18:10
-
-**African Odysseys: Sambizanga + discussion**
-
-Sat 3 Sep 14:00
-
-**Silent Cinema: The Primrose Path + The Kid Reporter + intro by BFI curator Bryony Dixon**
-
-Sun 4 Sep 15:30
-
-**Course: Celebrating 15 Years of  
-African Odysseys**
-
-Wed 7 Sep 18:30; Wed 14 Sep 18:30;  
-Wed 21 Sep 18:30; Wed 28 Sep 18:30
-
-**Art in the Making: Graham Sutherland and  
-John Piper + intro by John Wyver**
-
-Thu 8 Sep 18:20
-
-**Seniors’ Free Talk: African Film on Channel 4**
-
-Tue 13 Sep 11:00
-
-**Seniors’ Free Archive Matinee: Wend Kuuni  
-+ intro by Rod Stoneman**
-
-Tue 13 Sep 14:00
-
-**Projecting the Archive: All In! + intro by film historian Mark Newell + Claude Deputises**
-
-Tue 13 Sep 18:20
-
-**Experimenta: Journeys from Berlin/1971 + introduction by Michelle Pierson, Senior Lecturer in Film at Kings College**
-
-Wed 14 Sep 18:00
-
-**Woman with a Movie Camera: Preview:  
-Silent Land (****Cicha ziemia)**
-
-Mon 19 Sep 18:00
-
-**Film Wallahs: Malam + discussion hosted by Anuj Radia from Film Wallahs**
-
-Thu 22 Sep 18:10
-
-**Relaxed Screening: The Umbrellas of Cherbourg (****Les Parapluies de Cherbourg) + intro and discussion**
-
-Mon 26 Sep 18:20
-
-**BFI Flare: Bent 25th Anniversary + Q&A with director Sean Matthias, actor Sir Ian McKellen and writer Martin Sherman**
-
-Tue 27 Sep 18:10
-
-**Terror Vision: The Sender**
-
-Thu 29 Sep 18:10
+**REGULAR PROGRAMME**<br>
+**Relaxed Screening: Kes + intro + discussion**<br>
+Mon 22 Aug 18:15<br>
+**Woman With a Movie Camera Preview:  Queen of Glory**<br>
+Mon 22 Aug 18:30<br>
+**Terror Vision: Burnt Offerings**<br>
+Thu 25 Aug 18:10<br>
+**African Odysseys: Sambizanga + discussion**<br>
+Sat 3 Sep 14:00<br>
+**Silent Cinema: The Primrose Path + The Kid Reporter + intro by BFI curator Bryony Dixon**<br>
+Sun 4 Sep 15:30<br>
+**Course: Celebrating 15 Years of  African Odysseys**<br>
+Wed 7 Sep 18:30; Wed 14 Sep 18:30;  Wed 21 Sep 18:30; Wed 28 Sep 18:30<br>
+**Art in the Making: Graham Sutherland and  John Piper + intro by John Wyver**<br>
+Thu 8 Sep 18:20<br>
+**Seniors’ Free Talk: African Film on Channel 4**<br>
+Tue 13 Sep 11:00<br>
+**Seniors’ Free Archive Matinee: Wend Kuuni  + intro by Rod Stoneman**<br>
+Tue 13 Sep 14:00<br>
+**Projecting the Archive: All In! + intro by film historian Mark Newell + Claude Deputises**<br>
+Tue 13 Sep 18:20<br>
+**Experimenta: Journeys from Berlin/1971 + introduction by Michelle Pierson, Senior Lecturer in Film at Kings College**<br>
+Wed 14 Sep 18:00<br>
+**Woman with a Movie Camera: Preview:  Silent Land (****Cicha ziemia)**<br>
+Mon 19 Sep 18:00<br>
+**Film Wallahs: Malam + discussion hosted by Anuj Radia from Film Wallahs**<br>
+Thu 22 Sep 18:10<br>
+**Relaxed Screening: The Umbrellas of Cherbourg (Les Parapluies de Cherbourg) + intro and discussion**<br>
+Mon 26 Sep 18:20<br>
+**BFI Flare: Bent 25th Anniversary + Q&A with director Sean Matthias, actor Sir Ian McKellen and writer Martin Sherman**<br>
+Tue 27 Sep 18:10<br>
+**Terror Vision: The Sender**<br>
+Thu 29 Sep 18:10<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3MTkwMTkzXX0=
+eyJoaXN0b3J5IjpbMTEyNjE1NTg3MV19
 -->
