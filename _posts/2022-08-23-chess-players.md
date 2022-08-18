@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Home and the World
+published: true
+date: 2022-08-23
+readtime: true
+categories: ['SATYAJIT RAY<br>THE LANGUAGE OF FILM']
+tags: [Drama]
+metadata: 'India 1977, 120 mins<br> Director: Satyajit Ray'
+pdf: '2022-08-23-chess-players.pdf'
+---
 
 _+ pre-recorded intro by Shabana Azmi (Tuesday 23 August only)_
 
@@ -9,8 +20,7 @@ _The Chess Players_, his first Hindi-speaking film: ‘Yes, I suppose making my 
 
 Based on a Hindi story written by Munshi Premchand some 50 years ago, and set in 1857 during the last days of the Mogul Empire, _The Chess Players_ looks (to judge from some exquisite colour slides I saw of the first two weeks on set) like being one of Ray’s most lavishly beautiful films, and (to judge from the purrs of contentment from all concerned) one of his happiest productions. It also seems to have evolved under the benevolent influence of what Cocteau would have called a sign.
 
-Nearly 20 years ago, when he was in India mulling over a project to film  
-_The Man Who Would Be King_ with Clark Gable, Humphrey Bogart and Cantinflas, John Huston was instrumental in getting Ray’s career off the ground by recommending _Pather Panchali_ – which he saw in a silent, incomplete rough-cut – for its world premiere at the Museum of Modern Art. When Huston finally made _The Man Who Would Be King_ in 1975, the Cantinfias role as the ebullient Gurkha Billy Fish was played by Saeed Jaffrey, an Indian actor whose major disappointment then was his failure to win the role of Anacleto in _Reflections in a Golden Eye_, and his major ambition, to make his first Indian film under Satyajit Ray’s direction. Now he is playing one of the leads in _The Chess Players_, his first Indian film.
+Nearly 20 years ago, when he was in India mulling over a project to film _The Man Who Would Be King_ with Clark Gable, Humphrey Bogart and Cantinflas, John Huston was instrumental in getting Ray’s career off the ground by recommending _Pather Panchali_ – which he saw in a silent, incomplete rough-cut – for its world premiere at the Museum of Modern Art. When Huston finally made _The Man Who Would Be King_ in 1975, the Cantinfias role as the ebullient Gurkha Billy Fish was played by Saeed Jaffrey, an Indian actor whose major disappointment then was his failure to win the role of Anacleto in _Reflections in a Golden Eye_, and his major ambition, to make his first Indian film under Satyajit Ray’s direction. Now he is playing one of the leads in _The Chess Players_, his first Indian film.
 
 Jaffrey enthusiastically brackets Huston and Ray as perfect actors’ directors: ‘What I call gardener directors, who have selected the flowers, know exactly how much light and sun and water the flowers need, and then let them grow. And if the flower has the conscientiousness not to betray the trust of the gardener, then they let you alone to grow in a natural sort of way. All a director like John or Satyajit has to do is just sort of look at you, and you know exactly what he wants.
 
@@ -96,6 +106,55 @@ Print courtesy of the Academy Film Archive.
 Restored by the Satyajit Ray Preservation Project at the Academy Film Archive with funding from the Film Foundation.  
 
 To clarify, Teen Kanya / Monihara, The Expedition, The Chess Players, Sikkim, and Two, all screening in the Satyajit Ray season in August, are advertised as restorations from the Academy Film Archive but they are not brand new restorations and are now showing slight signs of wear and tear. We apologise for any disappointment caused.  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTI0MDk3NywtMTcxNDc1NTgyM119
--->
+
+
+**SATYAJIT RAY: THE LANGUAGE OF FILM**  
+**The Music Room (Jalsaghar)**  
+Mon 1 Aug 20:40; Sun 14 Aug 18:15  
+**Charulata (The Lonely Wife)**  
+Fri 5 Aug 18:20; Mon 8 Aug 18:15; Mon 15 Aug 14:30; Wed 17 Aug 20:40; Sat 27 Aug 12:00; Wed 31 Aug 20:45  
+**Devi (The Goddess) + Pikoo**  
+Sat 6 Aug 14:30 (+ pre-recorded intro by Sharmila Tagore); Sun 14 Aug 14:45  
+**Teen Kanya (Three Daughters)**  
+Sun 7 Aug 17:35; Sat 13 Aug 14:50  
+**Kanchenjungha**  
+Tue 9 Aug 18:20; Mon 15 Aug 20:50  
+**The Expedition (Abhijan)**  
+Wed 10 Aug 20:10; Sat 20 Aug 14:30  
+**Kapurush (The Coward) + Mahapurush (The Holy Man)**  
+Thu 11 Aug 18:00; Sat 20 Aug 20:20  
+**Satyajit Ray Documentaries Programme 2**  
+Tue 16 Aug 20:40; Wed 24 Aug 18:20  
+**The Hero (Nayak)**  
+Wed 17 Aug 18:10; Thu 25 Aug 20:40  
+**Days and Nights in the Forest (Aranyer Din Ratri)**  
+Thu 18 Aug 18:15; Sat 27 Aug 14:40  
+**The Home and the World (Ghare Baire)**  
+Sun 21 Aug 17:50; Wed 24 Aug 20:20  
+**The Chess Players (Shatranj Ke Khilari)**  
+Tue 23 Aug 18:10 (+ pre-recorded intro by Shabana Azmi); Sun 28 Aug 14:40  
+**Distant Thunder (Ashani Sanket) + Deliverance (Sadgati)**  
+Sat 27 Aug 17:30; Mon 29 Aug 14:40  
+**Enemy of the People (Ganashatru)**  
+Sun 28 Aug 12:10; Tue 30 Aug 18:15 (+ intro by Ashvin Devasundaram)  
+
+In association with The Academy Film Archive  
+<img style="float: left;" src="/img/academy-logo-01.png" width="30%" height="30%">
+<br><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
