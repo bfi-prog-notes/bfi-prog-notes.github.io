@@ -1,9 +1,18 @@
-
+---
+layout: post
+title: 12 Views of Kensal House
+published: true
+date: 2022-08-18
+readtime: true
+categories: ['ART IN THE MAKING']
+tags: [Documentary]
+metadata: 'UK 1984, 55 mins<br> Director: Peter Wyeth'
+pdf: '2022-08-18-twelve-views-of-kensal-house.pdf'
+---
 
 _With pre-recorded introduction by Steven Foxon, BFI Curator (Non-Fiction)_
 
-In 1936 Kensal House, situated in the west of London, was opened by the  
-Gas Light and Coke Company as a model estate. Designed by the leading architect, Maxwell Fry, Kensal House put into practice ideas about mass housing which echoed the work of Le Corbusier and the Bauhaus in Europe.
+In 1936 Kensal House, situated in the west of London, was opened by the  Gas Light and Coke Company as a model estate. Designed by the leading architect, Maxwell Fry, Kensal House put into practice ideas about mass housing which echoed the work of Le Corbusier and the Bauhaus in Europe.
 
 This film is a biography of a building which between 1936 and 1984 has changed considerably. It sets out to examine both the ideas that helped bring Kensal House into existence and the changes it has seen in its lifetime.  When the estate was opened, the film _Kensal House_, which became a classic documentary, was made, extolling its virtues with contributions from the architect, the housing manager and the tenants. The ‘12 views’ include those of the people who have known the building from a variety of perspectives, including some seen in the original film. A picture is built of the aesthetic, architectural and social issues which Kensal House represents. Maxwell Fry explains the modernist ideals of the period, while Stephen Bayley of the Victoria & Albert Museum traces the antecedents of the modern flat and the problems facing architects in the 1930s. Tenants resident since 1936 recall their initial reactions and the way they have altered with time, alongside recent tenants who don’t share the same sense of the past.
 
@@ -110,6 +119,24 @@ Tue 27 Sep 18:10<br>
 **Terror Vision: The Sender**<br>
 Thu 29 Sep 18:10<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTEyNjE1NTg3MV19
 -->
