@@ -1,3 +1,14 @@
+---
+layout: post
+title: Reggae Futures
+published: true
+date: 2022-08-20
+readtime: true
+categories: ['FROM JAMAICA TO THE WORLD<br> REGGAE ON FILM']
+tags: [Music, Talk]
+metadata: 
+pdf: '2022-08-20-reggae-futures.pdf'
+---
 
 A defining factor of reggae over the decades has been how, as the music perpetually shifts, the sound system culture remains constant; what began as Jamaican has adapted to new audiences and environments but always stayed true to itself. Nowhere is this more pertinent than in the UK. Reggae Futures celebrates the uniquely British approach to contemporary reggae. With a selection of film extracts, join author and season curator Lloyd Bradley, along with a panel of Black British music’s finest (including Smiley of Shut Up and Dance, Nathan at Reprezent, and DJ Flight), to celebrate the best of this musical revolution and contemplate where it might go next.  
 
@@ -92,8 +103,54 @@ DJ Slimzee
 Logan Sama  
 Ghetts  
 Preditah  
-UK 2014
-23 mins
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk2Nzc4Ml19
--->
+UK 2014  
+23 mins  
+
+This season is presented by **African Odysseys**, which celebrates its 15th anniversary in 2022  
+<img style="float: left;" src="/img/african-odysseys.png">
+<br><br><br><br><br><br><br><br><br><br>
+**FROM JAMAICA TO THE WORLD: REGGAE ON FILM**  
+**Seniors’ Free Archive Matinee: Inna de Yard + iscussion**  
+Mon 1 Aug 14:00  
+**Rockers**  
+Thu 4 Aug 20:40; Sat 13 Aug 14:45  
+**No Place Like Home: Redux**  
+Fri 5 Aug 21:00; Fri 19 Aug 18:40  
+**Riddim Moves – A Dancehall Day Event**  
+Sat 6 Aug 13:00-18:00  
+**Dancehall Queen**  
+Sat 6 Aug 18:40; Tue 9 Aug 18:20  
+**Steppin’ Razor: Red X**  
+Sun 7 Aug 18:00; Sat 20 Aug 14:45  
+**Rudeboy: The Story of Trojan Records**  
+Fri 12 Aug 18:20; Sun 28 Aug 18:30  
+**Better Mus’ Come**  
+Sat 13 Aug 18:15; Sat 27 Aug 20:45  
+**Sprinter**  
+Sat 13 Aug 20:40; Fri 26 Aug 18:10  
+**African Redemption: The Life and Legacy of Marcus Garvey**  
+Mon 15 Aug 20:40; Sun 28 Aug 14:50  
+**Reggae Futures**  
+Sat 20 Aug 17:30  
+**Lion of Judah, War in Ethiopia, 1935-1936 + discussion**  
+Tue 23 Aug 18:20  
+**Bob Marley: The Making of a Legend + Q&A with directors Esther Anderson and Gian Godoy**  
+Tue 30 Aug 18:10  
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
