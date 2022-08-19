@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Where Is Anne Frank
+published: true
+date: 2022-08-19
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama, Animation]
+metadata: 'Belgium-Luxembourg-Israel-France 2021, 100 mins<br> Director: Ari Folman'
+pdf: '2022-08-19-where-is-anne-frank.pdf'
+---
 
 **Director Ari Folman on ‘Where Is Anne Frank’**
 
@@ -12,8 +22,7 @@ As I said, our main innovation was to turn Kitty from the imaginary friend of An
 
 _The animation has been visualised by Lena Guberman. Given that the medium avails you of boundless possibilities – how did the two of you decide on what the movie would look like in the end?_
 
-Sure, animation lets you reinvent the world. We had to start out by shaping Kitty and Anne. I believe we gave both very warm personalities. Lena is an exceptional artist and drew in a deeply beautiful way. But we decided at the outset to break with a certain pattern of the genre. Most war movies show the present in colour and the past as monochrome. We went the opposite way. Therefore, in our movie present-day Amsterdam is depicted in monochrome colours, the city is in wintertime and has been completely drained of colour.  
-On the other hand, the past is seen through the eyes of Anne, it is very lively, colourful and rich in tones. That became the guideline of the movie. Moreover, we did not limit our palette in any way, as I had done in previous animation films. We just went wild with colours, especially when her imagination and dreams come up.
+Sure, animation lets you reinvent the world. We had to start out by shaping Kitty and Anne. I believe we gave both very warm personalities. Lena is an exceptional artist and drew in a deeply beautiful way. But we decided at the outset to break with a certain pattern of the genre. Most war movies show the present in colour and the past as monochrome. We went the opposite way. Therefore, in our movie present-day Amsterdam is depicted in monochrome colours, the city is in wintertime and has been completely drained of colour.  On the other hand, the past is seen through the eyes of Anne, it is very lively, colourful and rich in tones. That became the guideline of the movie. Moreover, we did not limit our palette in any way, as I had done in previous animation films. We just went wild with colours, especially when her imagination and dreams come up.
 
 _What techniques did you use for the film?_
 
@@ -83,6 +92,44 @@ Belgium-Luxembourg-Israel-France 2021
 
 An Altitude Films release<br>
 <br>
+
+**NEW RELEASES**<br>
+**Hit the Road (Jaddeh Khaki)**<br>
+Continues from Fri 29 Jul<br>
+**The Feast**<br>
+From Fri 19 Aug<br>
+**Where Is Anne Frank**<br>
+From Fri 19 Aug<br>
+**Queen of Glory**<br>
+From Fri 28 Aug<br>
+
+**RE-RELEASES**<br>
+**The Big City (Mahanagar)**<br>
+Continues from Fri 22 Jul<br>
+**Paris, Texas**<br>
+Continues from Fri 29 Jul<br>
+**The Harder They Come**<br>
+From Fri 5 Aug (+ intro by season curator and author Lloyd Bradley on Fri 5 Aug 18:15)<br>
+**Burning an Illusion**<br>
+From Fri 19 Aug<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTgwMDI0NjUxNV19
 -->
