@@ -82,23 +82,18 @@ _Director of Photography:_ Ewen Spencer, Rina Yang
 _Editor:_ Julian Fletcher  
 _Audio Supervision:_ Shaun Savage  
 
-**With** 
-Dizzee Rascal
-Boy Better Know
-Kano
-Newham Generals
-Lethal B
-DJ Slimzee
-
-Logan Sama
-
-Ghetts
-
-Preditah
-
+**With**  
+Dizzee Rascal  
+Boy Better Know  
+Kano  
+Newham Generals  
+Lethal B  
+DJ Slimzee  
+Logan Sama  
+Ghetts  
+Preditah  
 UK 2014
-
 23 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTg2MzhdfQ==
+eyJoaXN0b3J5IjpbLTE5NTk2Nzc4Ml19
 -->
