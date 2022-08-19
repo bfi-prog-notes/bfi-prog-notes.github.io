@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Queen of Glory
+published: true
+date: 2022-08-22
+readtime: true
+categories: ['WOMAN WITH A MOVIE CAMERA PREVIEW']
+tags: [Drama]
+metadata: 'USA 2021, 79 mins<br> Director: Nana Mensah'
+pdf: '2022-08-22-queen-of-glory.pdf'
+---
 
 _Queen of Glory_ begins with a montage. Cross-cut with close-ups of brightly patterned fabrics and a soundtrack of echoing voices and pulsing percussion, Sarah Obeng (Nana Mensah) packs a suitcase and boards a train. Her destination is not a city in Ghana (which holds a central place in the film’s imaginary) but the Ghanaian diaspora community of the Bronx. Though the neighbourhood is a site of alienating and infantilising familial duty and dysfunction for our heroine, it is also an escape route from the professional and romantic precarity of her adult life in Manhattan – whether she knows it or not.
 
@@ -68,6 +78,55 @@ A Bohemia Media release
 
 **Woman with a Movie Camera is generously supported by Jane Stanton**
 <br><br>
+
+**REGULAR PROGRAMME**<br>
+**Terror Vision: Burnt Offerings**<br>
+Thu 25 Aug 18:10<br>
+**African Odysseys: Sambizanga + discussion**<br>
+Sat 3 Sep 14:00<br>
+**Silent Cinema: The Primrose Path + The Kid Reporter + intro by BFI curator Bryony Dixon**<br>
+Sun 4 Sep 15:30<br>
+**Course: Celebrating 15 Years of  African Odysseys**<br>
+Wed 7 Sep 18:30; Wed 14 Sep 18:30;  Wed 21 Sep 18:30; Wed 28 Sep 18:30<br>
+**Art in the Making: Graham Sutherland and  John Piper + intro by John Wyver**<br>
+Thu 8 Sep 18:20<br>
+**Seniors’ Free Talk: African Film on Channel 4**<br>
+Tue 13 Sep 11:00<br>
+**Seniors’ Free Archive Matinee: Wend Kuuni  + intro by Rod Stoneman**<br>
+Tue 13 Sep 14:00<br>
+**Projecting the Archive: All In! + intro by film historian Mark Newell + Claude Deputises**<br>
+Tue 13 Sep 18:20<br>
+**Experimenta: Journeys from Berlin/1971 + introduction by Michelle Pierson, Senior Lecturer in Film at Kings College**<br>
+Wed 14 Sep 18:00<br>
+**Woman with a Movie Camera: Preview:  Silent Land (****Cicha ziemia)**<br>
+Mon 19 Sep 18:00<br>
+**Film Wallahs: Malam + discussion hosted by Anuj Radia from Film Wallahs**<br>
+Thu 22 Sep 18:10<br>
+**Relaxed Screening: The Umbrellas of Cherbourg (Les Parapluies de Cherbourg) + intro and discussion**<br>
+Mon 26 Sep 18:20<br>
+**BFI Flare: Bent 25th Anniversary + Q&A with director Sean Matthias, actor Sir Ian McKellen and writer Martin Sherman**<br>
+Tue 27 Sep 18:10<br>
+**Terror Vision: The Sender**<br>
+Thu 29 Sep 18:10<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTU3MTQ2MDE4XX0=
 -->
