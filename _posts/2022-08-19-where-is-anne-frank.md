@@ -49,8 +49,7 @@ _Line Producers_: Alona Davidsohn Schory,  Olivier Bizet, Denis Walgenwitz
 _Production Accountant_: Joana Pego  
 _Accountants_: Comptapro, Driss Ben Kouider  
 _Post-production Supervisor_:  Alona Davidsohn Schory  
-_Casting Directors_: Gaby Kester, Grace Browning
-
+_Casting Directors_: Gaby Kester, Grace Browning  
 _Written by_: Ari Folman  
 _Based upon_ Het achterhuis dagboekbrieven 12 juni 1942-1 augustus 1944 _by_: Anne Frank  
 _Based upon_ De dagboeken van Anne Frank _by_: Anne Frank  
@@ -64,8 +63,7 @@ _Original Score by_: Karen O, Ben Goldwasser
 _Sound Designer_: Aviv Aldema  
 _Re-recording Mixer_: Michel Schillings
 
-_Voice Cast:_
-
+**Voice Cast**  
 Ruby Stokes _(Kitty)_  
 Emily Carey _(Anne Frank)_  
 Sebastian Croft _(Anne’s Peter)_  
@@ -80,11 +78,11 @@ Naomi Mourton _(Awa)_
 Nell Barlow _(Officer Elsa Platt)_  
 Maya Myers _(Sandra)_
 
-Belgium-Luxembourg-Israel-France 2021
-
+Belgium-Luxembourg-Israel-France 2021  
 100 mins
 
-An Altitude Films release
+An Altitude Films release<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTUyOTg3OTldfQ==
+eyJoaXN0b3J5IjpbMTgwMDI0NjUxNV19
 -->
