@@ -54,63 +54,40 @@ _Kindly supported by Dazed Media._
 _Written, Directed and Produced by:_ Suridh Hassan  
 _Executive Producer:_ Ryo Sanada  
 _Cinematographer:_ Suridh Hassan  
+_Camera Operators:_ Clare Richards, Tom Swindell  
+_Editor:_ Tim Grabham  
 
-_Camera Operators:_ Clare Richards, Tom Swindell
-
-_Editor:_ Tim Grabham
-
-**With**
-
-Kode 9
-
-Benga
-
-Mary-Anne Hobbs
-
-Plastician
-
-Skream
-
-UK 2008
-
+**With**  
+Kode 9  
+Benga  
+Mary-Anne Hobbs  
+Plastician  
+Skream  
+UK 2008  
 61 mins
 
-**ALL BLACK: JUNGLE FEVER**
+**ALL BLACK: JUNGLE FEVER**  
+_Production Company:_ BBC  
+_Producer:_ Lucy Pilkington  
+_Series Producer:_ Yasmin Anwar  
+UK 1994  
+28 mins  
 
-_Production Company__:_ BBC_Producer:_ Lucy Pilkington_Series Producer:_ Yasmin Anwar
+**C4 MUSIC NATION: OPEN MIC – GRIME**  
+_Director:_ Ewen Spencer  
+_Executive Producer:_ Olivia Gideon Thomson, WeFolk  
+_Produced by:_ Oz Thakkar  
+_For:_ Dazed, Channel 4  
+_Director of Photography:_ Ewen Spencer, Rina Yang  
+_Editor:_ Julian Fletcher  
+_Audio Supervision:_ Shaun Savage  
 
-UK 1994
-
-28 mins
-
-**C4 MUSIC NATION: OPEN MIC – GRIME**
-
-_Director:_ Ewen Spencer
-
-_Executive Producer:_ Olivia Gideon Thomson, WeFolk
-
-_Produced by:_ Oz Thakkar
-
-_For:_ Dazed, Channel 4
-
-_Director of Photography:_ Ewen Spencer, Rina Yang
-
-_Editor:_ Julian Fletcher
-
-_Audio Supervision:_ Shaun Savage
-
-**With**
-
+**With** 
 Dizzee Rascal
-
 Boy Better Know
-
 Kano
-
 Newham Generals
-
 Lethal B
-
 DJ Slimzee
 
 Logan Sama
@@ -123,5 +100,5 @@ UK 2014
 
 23 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1MjMyMzcwXX0=
+eyJoaXN0b3J5IjpbLTI1NTg2MzhdfQ==
 -->
