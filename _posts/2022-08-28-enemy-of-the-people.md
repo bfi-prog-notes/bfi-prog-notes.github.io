@@ -1,3 +1,14 @@
+---
+layout: post
+title: An Enemy of the People
+published: true
+date: 2022-08-28
+readtime: true
+categories: ['SATYAJIT RAY<br>THE LANGUAGE OF FILM']
+tags: [Drama]
+metadata: 'India 1989, 100 mins<br> Director: Satyajit Ray'
+pdf: '2022-08-28-enemy-of-the-people.pdf'
+---
 
 _Introduced by Ashvin Devasundaram (Tuesday 30 August only)_
 
@@ -24,11 +35,8 @@ As for the style of the film, Ray says that though _An Enemy of the People_ is r
 
 ‘As for audiences, I hope they will find the film completely contemporary in tone and spirit. It’s an urgent message now, isn’t it? Pollution is on everybody’s lips, and not just in India. So I’m not exactly making an art film. But then I never thought of my films as art films. They are just films.
 
-‘Sometimes I have the feeling that one or two of our younger directors think of art too much, and of their audiences too little. I don’t go to the cinema much nowadays – they are so bad in Calcutta except for the new Film Centre and Sandip has fixed up a video recorder at home for me. But I used to go quite a lot, and to my own films too. I used to watch the audience as much as the screen. And if they didn’t laugh in the right places or seemed to have the wrong reaction, I never thought of it as their fault but as mine. I hadn’t succeeded in getting my point over well enough. That’s a lesson I think quite a lot of our younger directors ought to learn. You must think of your audience. You must communicate.’
-
-**Derek Malcolm, _Sight and Sound_, Spring 1989**
-
-  
+‘Sometimes I have the feeling that one or two of our younger directors think of art too much, and of their audiences too little. I don’t go to the cinema much nowadays – they are so bad in Calcutta except for the new Film Centre and Sandip has fixed up a video recorder at home for me. But I used to go quite a lot, and to my own films too. I used to watch the audience as much as the screen. And if they didn’t laugh in the right places or seemed to have the wrong reaction, I never thought of it as their fault but as mine. I hadn’t succeeded in getting my point over well enough. That’s a lesson I think quite a lot of our younger directors ought to learn. You must think of your audience. You must communicate.’  
+**Derek Malcolm, _Sight and Sound_, Spring 1989**  
 
 **AN ENEMY OF THE PEOPLE (GANASHATRU)**  
 _Director_: Satyajit Ray  
@@ -61,6 +69,56 @@ India 1989
 100 mins  
 
 We are very pleased to announce that we will be presenting the World Premiere of the new 4K restoration by NFDC – National Film Archive of India.  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTU2NTY4NV19
--->
+
+
+
+**SATYAJIT RAY: THE LANGUAGE OF FILM**  
+**The Music Room (Jalsaghar)**  
+Mon 1 Aug 20:40; Sun 14 Aug 18:15  
+**Charulata (The Lonely Wife)**  
+Fri 5 Aug 18:20; Mon 8 Aug 18:15; Mon 15 Aug 14:30; Wed 17 Aug 20:40; Sat 27 Aug 12:00; Wed 31 Aug 20:45  
+**Devi (The Goddess) + Pikoo**  
+Sat 6 Aug 14:30 (+ pre-recorded intro by Sharmila Tagore); Sun 14 Aug 14:45  
+**Teen Kanya (Three Daughters)**  
+Sun 7 Aug 17:35; Sat 13 Aug 14:50  
+**Kanchenjungha**  
+Tue 9 Aug 18:20; Mon 15 Aug 20:50  
+**The Expedition (Abhijan)**  
+Wed 10 Aug 20:10; Sat 20 Aug 14:30  
+**Kapurush (The Coward) + Mahapurush (The Holy Man)**  
+Thu 11 Aug 18:00; Sat 20 Aug 20:20  
+**Satyajit Ray Documentaries Programme 2**  
+Tue 16 Aug 20:40; Wed 24 Aug 18:20  
+**The Hero (Nayak)**  
+Wed 17 Aug 18:10; Thu 25 Aug 20:40  
+**Days and Nights in the Forest (Aranyer Din Ratri)**  
+Thu 18 Aug 18:15; Sat 27 Aug 14:40  
+**The Home and the World (Ghare Baire)**  
+Sun 21 Aug 17:50; Wed 24 Aug 20:20  
+**The Chess Players (Shatranj Ke Khilari)**  
+Tue 23 Aug 18:10 (+ pre-recorded intro by Shabana Azmi); Sun 28 Aug 14:40  
+**Distant Thunder (Ashani Sanket) + Deliverance (Sadgati)**  
+Sat 27 Aug 17:30; Mon 29 Aug 14:40  
+**Enemy of the People (Ganashatru)**  
+Sun 28 Aug 12:10; Tue 30 Aug 18:15 (+ intro by Ashvin Devasundaram)  
+
+In association with The Academy Film Archive  
+<img style="float: left;" src="/img/academy-logo-01.png" width="30%" height="30%">
+<br><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
