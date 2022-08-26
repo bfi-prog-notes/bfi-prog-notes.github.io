@@ -1,3 +1,14 @@
+---
+layout: post
+title: Do the Right Thing
+published: true
+date: 2022-09-02
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'USA 1989, 120 mins<br> Director: Spike Lee'
+pdf: '2022-09-02-do-the-right-thing.pdf'
+---
 
 _Introduced by freelance writer and producer Kaleem Aftab (Wednesday 28 September only)_
 
@@ -10,8 +21,7 @@ Despite an Oscar nomination for Best Original Screenplay, Lee’s urgent dispatc
 
 **Steve McQueen, director/writer**: The first time I saw _Do the Right Thing_, when it was over, I didn’t speak for a while. I was just trying to take it all in. It was a knockout – almost like being in a boxing ring. Sometimes it was brutal, and sometimes beautiful; an attack, done with style, anger and compassion. In terms of giving a snapshot of a New York community, the only thing that comes close are those films from the 30s and 40s like _Angels with Dirty Faces_.
 
-It brings back great memories, but also painful ones, and that combination is so powerful. Great art has a resonance in the past, present and future, and  
-_Do the Right Thing_ is just that. When it came out, the echoes with the UK political situation were loud and clear. In England, there was police brutality and unemployment, and it resonated with me in a direct way. I love the bit when John Savage’s character – the white guy wearing the Larry Bird jersey, carrying his bicycle – steps on the new Air Jordans that Buggin’ Out is wearing, and this sparks a heated conversation about gentrification. It reminds me of what England was like at the time, and it also illustrated the importance of trainers back then!
+It brings back great memories, but also painful ones, and that combination is so powerful. Great art has a resonance in the past, present and future, and _Do the Right Thing_ is just that. When it came out, the echoes with the UK political situation were loud and clear. In England, there was police brutality and unemployment, and it resonated with me in a direct way. I love the bit when John Savage’s character – the white guy wearing the Larry Bird jersey, carrying his bicycle – steps on the new Air Jordans that Buggin’ Out is wearing, and this sparks a heated conversation about gentrification. It reminds me of what England was like at the time, and it also illustrated the importance of trainers back then!
 
 There are many iconic moments: the to-camera ‘love and hate’ speech by Radio Raheem stands out, as does the conversation between pizza-shop owner Sal and his racist son Pino, who says he feels sick of being in the neighbourhood. Through the window of the pizzeria you can see the autistic character Smiley milling around, and the way Lee builds up the tension is amazing; it’s ingrained in my mind. But my most powerful memory is right at the start: you see the Universal logo – the image of the world turning – and there’s this lazy saxophone melody over it [‘Lift Every Voice and Sing’, the so-called ‘Negro National Anthem’]; it’s as though Universal’s logo becomes part of the fabric of the piece, and it feels like the setting for an old fable that’s been told and retold. There’s the 40 Acres and a Mule [Lee’s production company] symbol, and then we go into the stunning credit sequence with Rosie Perez dancing to Public Enemy’s ‘Fight the Power’. It’s just beautiful. I was knocked out before the film even started.
 
@@ -134,6 +144,19 @@ Thu 22 Sep 20:55; Sat 1 Oct 18:00
 **Last Year in Marienbad (L’Année dernière à Marienbad)**  
 Mon 26 Sep 20:50; Sun 2 Oct 12:45; Tue 4 Oct 20:40
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODAyNzE4M119
--->
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
