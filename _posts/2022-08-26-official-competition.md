@@ -18,32 +18,24 @@ An electrically coiffed Penélope Cruz, meanwhile, plays Lola Cuevas, an unpredi
 
 _Official Competition_ is a cannily paced, visually gorgeous pleasure: staged in a glossily cavernous arts foundation, it’s designed by Alain Bainée (elegantly repurposing locations including the San Lorenzo de El Escorial auditorium near Madrid) and shot by Arnau Valls Colomer with an eye for highly composed tableaux. It’s up to the viewer, of course, to guess which director Lola might be modelled on – her butterfly glasses suggest Isabel Coixet or Lucrecia Martel, but then both Cruz and Banderas could no doubt tell a story or two about the working methods of Pedro Almodóvar.  
 **Jonathan Romney, _Sight and Sound_, October 2022**
+<br><br>
 
-<![endif]-->
-
-**OFFICIAL COMPETITION (COMPETENCIA OFICIAL)**
-
+**OFFICIAL COMPETITION (COMPETENCIA OFICIAL)**  
 _Directed by_: Gastón Duprat, Mariano Cohn  
 ©: Mediaproducción S.L.U., Prom TV S.A.U.  
 _Produced by_: The Mediapro Studio  
-_With the participation of_: RTVE, Orange,  
-3 - Televisió de Catalunya  
+_With the participation of_: RTVE, Orange,  3 - Televisió de Catalunya  
 _In association with_: Protagonist Pictures  
 _With financing from_: ICAA - Ministerio de cultura y deporte (Gobierno de España)  
 _Logos_: Cine Argentino, INCAA - Instituto nacional de cine y artes audiovisuales  
 _International Sales_: Protagonist Pictures  
-_Protagonist Pictures (Executive Director)_:  
-Dave Bishop  
+_Protagonist Pictures (Executive Director)_:  Dave Bishop  
 _Protagonist Pictures (Director of Operations)_: James Pugh  
-_Protagonist Pictures (Commercial Director)_:  
-George Hamilton  
-_Protagonist Pictures (Chief of Operations)_:  
-Anne-Lise Fernandez  
-_Executive Producers_: Javier Méndez,  
-Laura Fernández Espeso, Javier Pons,  
+_Protagonist Pictures (Commercial Director)_:  George Hamilton  
+_Protagonist Pictures (Chief of Operations)_:  Anne-Lise Fernandez  
+_Executive Producers_: Javier Méndez,  Laura Fernández Espeso, Javier Pons,  
 Antonio Banderas, Penélope Cruz, Oscar Martínez  
-_Co-executive Producers_: Carles Montiel,  
-Eva Garrido, Marisa Fernández Armenteros  
+_Co-executive Producers_: Carles Montiel,  Eva Garrido, Marisa Fernández Armenteros  
 _Produced by_: Jaume Roures  
 _Production Manager_: Josep Amorós  
 _Production Supervisor_: Alex Miyata  
@@ -53,21 +45,15 @@ _Production Controller_: Irene Camposo
 _Location Manager_: Marga Roca  
 _Post-production and Visual Effects Supervisor_: Isidro Jiménez  
 _1st Assistant Director_: Martín Bustos  
-_2nd Assistant Directors_: Nuria Herrera,  
-Angie Paul Risque, Laura Díez  
+_2nd Assistant Directors_: Nuria Herrera,  Angie Paul Risque, Laura Díez  
 _Script Supervisor_: Sandra Serna  
 _Casting Director_: Luis San Narciso  
-_Casting_: Tonucha Vidal, Andrés Cuenca,  
-Diego Martín, Raquel Casado  
+_Casting_: Tonucha Vidal, Andrés Cuenca,  Diego Martín, Raquel Casado  
 _Screenplay by_: Andrés Duprat  
-_Screenplay Co-written by_: Gastón Duprat,  
-Mariano Cohn  
-_Script Advisers_: Axel Kuschevatzky, Francisco Abelenda, Mario Chierico, Sergio Strejilevich,  
-Javier Bardem, Mariana Urtueta, Leonardo D’Espósito, Juan Pablo Ferrer, Martín Bustos,  
-Sofía Condisciani, Diego Bliffeld, Margarita García Robayo, Jorge Gaggero, Carolina Krasñansky, Mariana Pérez, Verónica Murta, Luis Caporossi, Nicolás Diodovich, Gerardo Rozín, Marcelo Panozzo  
+_Screenplay Co-written by_: Gastón Duprat,  Mariano Cohn  
+_Script Advisers_: Axel Kuschevatzky, Francisco Abelenda, Mario Chierico, Sergio Strejilevich,  Javier Bardem, Mariana Urtueta, Leonardo D’Espósito, Juan Pablo Ferrer, Martín Bustos,  Sofía Condisciani, Diego Bliffeld, Margarita García Robayo, Jorge Gaggero, Carolina Krasñansky, Mariana Pérez, Verónica Murta, Luis Caporossi, Nicolás Diodovich, Gerardo Rozín, Marcelo Panozzo  
 _Director of Photography_: Arnau Valls Colomer  
-_2nd Unit Directors of Photography_:  
-Sergi Vilanova, Pau Castejón  
+_2nd Unit Directors of Photography_:  Sergi Vilanova, Pau Castejón  
 _Gaffers_: Kiko Boyero, Fernando Beltrán  
 _Visual Effects_: Telson (España)  
 _Special Effects Supervisor_: Gregory Brossard  
@@ -78,19 +64,16 @@ _Production Designer_: Alain Bainée
 _Art Director_: Sara Natividad  
 _Costume Designer_: Wanda Morales  
 _Costume Supervisor_: Eudald Magri  
-_Make-up and Hair_: Eli Adánez, Sergio Pérez,  
-Pablo Iglesias, Mariló Osuna, Mamen Peña  
+_Make-up and Hair_: Eli Adánez, Sergio Pérez,  Pablo Iglesias, Mariló Osuna, Mamen Peña  
 _Pianist_: Judith Jáuregui  
 _Song Sung by_: Edu Cruz  
-_Sound Supervision_: Pelayo Gutiérrez,  
-Eduardo Castro  
+_Sound Supervision_: Pelayo Gutiérrez,  Eduardo Castro  
 _Sound Recording_: Aitor Berenguer, Mar González  
 _2nd Unit Sound Recordist_: Pedro R. Soto  
 _Sound Mixing_: Alberto Ovejero  
 _Stunt Co-ordinator_: Gregory Brossard
 
-_Cast:_
-
+**Cast**  
 Penélope Cruz _(Lola Cuevas)_  
 Antonio Banderas _(Félix Rivero)_  
 Oscar Martínez _(Iván Torres)_  
@@ -110,11 +93,11 @@ Sue Flack _(costume supervisor)_
 Lucía Arestegui _(costumes assistant)_  
 Pilar Bergés, Myriam Diego _(foundation cleaners)_
 
-Spain-Argentina-UK 2021©
-
+Spain-Argentina-UK 2021©  
 115 mins
 
-A Curzon release
+A Curzon release<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQyNjQzNTNdfQ==
+eyJoaXN0b3J5IjpbLTIwNzE4MTQxMjhdfQ==
 -->
