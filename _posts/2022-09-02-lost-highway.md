@@ -18,58 +18,58 @@ As always with Lynch, it is hard to distinguish between a ﬁctional universe cr
 **Kim Newman, _Sight & Sound_, September 1997**  
 
 **LOST HIGHWAY**  
-_Director:_ David Lynch
-_©:_ Lost Highway Productions, Inc.
-_Production Companies:_ CiBy 2000, Asymmetrical Productions
-_Producers:_ Deepak Nayar, Tom Sternberg, Mary Sweeney
-_Unit Production Manager:_ Deepak Nayar
-_Production Supervisor:_ Sabrina S. Sutherland
-_Production Co-ordinator:_ Karen R. Sachs
-_Location Manager:_ Julie Duvic
-_Post-production Supervisor:_ Desmond Cannon
-_1st Assistant Director:_ Scott Cameron
-_2nd Assistant Director:_ Simone Farber
-_Script Supervisor:_ Cori Glazer
-_Casting:_ Johanna Ray, Elaine J. Huzzar
-_Written by:_ David Lynch, Barry Gifford
-_Director of Photography:_ Peter Deming
-_Camera Operator:_ Paul Hughen
-_Aerial Camera Operator:_ Stan McClain
-_1st Assistant Camera:_ Scott Ressler
-_Steadicam Operator:_ Dan Kneece
-_Gaffer:_ Michael Laviolette
-_Co-ordinator Special Effects:_ Gary P. D’Amico
-_Editor:_ Mary Sweeney
-_Production Designer/Costume Designer:_ Patricia Norris
-_Set Decorator:_ Leslie Morales
-_Production Illustrator:_ Russell McCarty-Smith
-_Costume Supervisor:_ Maurizio Bizzari
-_Set Costumer:_ Marisa Aboitiz
-_Make-up Artist:_ Debbie Zoller
-_Body Make-up Artist:_ Marlene Lipman
-_Special Effects Make-up Co-ordinator:_ Michael Burnett
-_Hair Stylists:_ Patty Miller, Toni-Ann Walker
-_Titles/Opticals:_ Pacific Title
-_Music Composer/Conductor:_ Angelo Badalamenti
-_Additional Music:_ Barry Adamson
-_Orchestra:_ The City of Prague Philharmonic Orchestra
-_Conductor:_ Stepán Konicek
-_Recorded at:_ Studio Smecky (Prague)
-_[Music] Sound Engineer:_ Jirí Zobac
-_Orchestrations:_ Andy Barrett, Charles Samek, Angelo Badalamenti
-_Music Editor:_ Marc Vanocur
-_Sound Design:_ David Lynch
-_Sound Mixer:_ Susumu Tokunow
-_Boom Operator:_ Kevin Kubota
-_Re-recording Mixers:_ John Ross, Frank Gaeta, Derek Marcil, David Lynch
-_Supervising Sound Editor:_ Frank Gaeta
-_Supervising Dialogue Editor:_ Thomas Jones
-_Dialogue Editors:_ David Grant, Louis Creveling, Paul Longstaffe, Susan Shin
-_ADR Supervisor:_ Tim Boggs
-_ADR Mixer:_ Derek Marcil
-_Foley Mixer:_ Mary Erstad
-_Foley Editors:_ Lucy Sustar, Marilyn Graf, David Mann, Laura Laird, Joshua Schneider
-_Stunt Co-ordinator:_ Chris Howell
+_Director:_ David Lynch  
+_©:_ Lost Highway Productions, Inc.  
+_Production Companies:_ CiBy 2000, Asymmetrical Productions  
+_Producers:_ Deepak Nayar, Tom Sternberg, Mary Sweeney  
+_Unit Production Manager:_ Deepak Nayar  
+_Production Supervisor:_ Sabrina S. Sutherland  
+_Production Co-ordinator:_ Karen R. Sachs  
+_Location Manager:_ Julie Duvic  
+_Post-production Supervisor:_ Desmond Cannon  
+_1st Assistant Director:_ Scott Cameron  
+_2nd Assistant Director:_ Simone Farber  
+_Script Supervisor:_ Cori Glazer  
+_Casting:_ Johanna Ray, Elaine J. Huzzar  
+_Written by:_ David Lynch, Barry Gifford  
+_Director of Photography:_ Peter Deming  
+_Camera Operator:_ Paul Hughen  
+_Aerial Camera Operator:_ Stan McClain  
+_1st Assistant Camera:_ Scott Ressler  
+_Steadicam Operator:_ Dan Kneece  
+_Gaffer:_ Michael Laviolette  
+_Co-ordinator Special Effects:_ Gary P. D’Amico  
+_Editor:_ Mary Sweeney  
+_Production Designer/Costume Designer:_ Patricia Norris  
+_Set Decorator:_ Leslie Morales  
+_Production Illustrator:_ Russell McCarty-Smith  
+_Costume Supervisor:_ Maurizio Bizzari  
+_Set Costumer:_ Marisa Aboitiz  
+_Make-up Artist:_ Debbie Zoller  
+_Body Make-up Artist:_ Marlene Lipman  
+_Special Effects Make-up Co-ordinator:_ Michael Burnett  
+_Hair Stylists:_ Patty Miller, Toni-Ann Walker  
+_Titles/Opticals:_ Pacific Title  
+_Music Composer/Conductor:_ Angelo Badalamenti  
+_Additional Music:_ Barry Adamson  
+_Orchestra:_ The City of Prague Philharmonic Orchestra  
+_Conductor:_ Stepán Konicek  
+_Recorded at:_ Studio Smecky (Prague)  
+_[Music] Sound Engineer:_ Jirí Zobac  
+_Orchestrations:_ Andy Barrett, Charles Samek, Angelo Badalamenti  
+_Music Editor:_ Marc Vanocur  
+_Sound Design:_ David Lynch  
+_Sound Mixer:_ Susumu Tokunow  
+_Boom Operator:_ Kevin Kubota  
+_Re-recording Mixers:_ John Ross, Frank Gaeta, Derek Marcil, David Lynch  
+_Supervising Sound Editor:_ Frank Gaeta  
+_Supervising Dialogue Editor:_ Thomas Jones  
+_Dialogue Editors:_ David Grant, Louis Creveling, Paul Longstaffe, Susan Shin  
+_ADR Supervisor:_ Tim Boggs  
+_ADR Mixer:_ Derek Marcil  
+_Foley Mixer:_ Mary Erstad  
+_Foley Editors:_ Lucy Sustar, Marilyn Graf, David Mann, Laura Laird, Joshua Schneider  
+_Stunt Co-ordinator:_ Chris Howell 
 _Executive Consultant:_ Ed Morris
 
 **Cast**  
@@ -119,5 +119,5 @@ USA/France 1996
 
 A Janus Films release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTU1MjUwN119
+eyJoaXN0b3J5IjpbMTQxNDY5ODY2MV19
 -->
