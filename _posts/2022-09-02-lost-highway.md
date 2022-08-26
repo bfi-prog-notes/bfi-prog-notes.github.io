@@ -69,55 +69,55 @@ _ADR Supervisor:_ Tim Boggs
 _ADR Mixer:_ Derek Marcil  
 _Foley Mixer:_ Mary Erstad  
 _Foley Editors:_ Lucy Sustar, Marilyn Graf, David Mann, Laura Laird, Joshua Schneider  
-_Stunt Co-ordinator:_ Chris Howell 
-_Executive Consultant:_ Ed Morris
+_Stunt Co-ordinator:_ Chris Howell  
+_Executive Consultant:_ Ed Morris  
 
 **Cast**  
-Bill Pullman _(Fred Madison)_
-Patricia Arquette _(Renee Madison/Alice Wakefield)_
-Balthazar Getty _(Pete Raymond Dayton)_
-Robert Blake _(mystery man)_
-Natasha Gregson Wagner _(Sheila)_
-Richard Pryor _(Arnie)_
-Lucy Butler _(Candace Dayton)_
-Michael Massee _(Andy)_
-Jack Nance _(Phil)_
-Jack Kehler _(Johnny Mack, a guard)_
-Henry Rollins _(Henry, a guard)_
-Giovanni Ribisi _(Steve ‘V’)_
-Scott Coffey _(Teddy)_
-Gary Busey _(Bill Dayton)_
-Robert Loggia _(Mr Eddy/Dick Laurent)_
-David Byrd _(Doctor Smordin)_
-John Roselius _(Al)_
-Lou Eppolito _(Ed)_
-F. William Parker _(Captain Luneau)_
-Gene Ross _(Warden Clements)_
-Jenna Maetlind _(party girl)_
-Michael Shamus Wiles _(Mike, a guard)_
-Mink Stole _(voice of forewoman)_
-Leonard Termo _(voice of judge)_
-Ivory Ocean _(Ivory, a guard)_
-Guy Siner _(prison official 1)_
-Alexander Folk _(prison official 2)_
-Carl Sundstrom _(Hank)_
-John Solari _(Lou)_
-Jack _(the dog)_
-Al Garrett _(Carl)_
-Heather Stephens _(Lanie)_
-Amanda Anka _(girl 1)_
-Jennifer Syme _(junkie girl)_
-Matt Sigloch _(assistant 1)_
-Gil Combs _(assistant 2)_
-Greg Travis _(tail gate driver)_
-Lisa Boyle _(Marian)_
-Marilyn Manson _(porno star 1)_
-Twiggy Ramirez _(porno star 2)_
+Bill Pullman _(Fred Madison)_  
+Patricia Arquette _(Renee Madison/Alice Wakefield)_  
+Balthazar Getty _(Pete Raymond Dayton)_  
+Robert Blake _(mystery man)_  
+Natasha Gregson Wagner _(Sheila)_  
+Richard Pryor _(Arnie)_  
+Lucy Butler _(Candace Dayton)_  
+Michael Massee _(Andy)_  
+Jack Nance _(Phil)_  
+Jack Kehler _(Johnny Mack, a guard)_  
+Henry Rollins _(Henry, a guard)_  
+Giovanni Ribisi _(Steve ‘V’)_  
+Scott Coffey _(Teddy)_  
+Gary Busey _(Bill Dayton)_  
+Robert Loggia _(Mr Eddy/Dick Laurent)_  
+David Byrd _(Doctor Smordin)_  
+John Roselius _(Al)_  
+Lou Eppolito _(Ed)_  
+F. William Parker _(Captain Luneau)_  
+Gene Ross _(Warden Clements)_  
+Jenna Maetlind _(party girl)_  
+Michael Shamus Wiles _(Mike, a guard)_  
+Mink Stole _(voice of forewoman)_  
+Leonard Termo _(voice of judge)_  
+Ivory Ocean _(Ivory, a guard)_  
+Guy Siner _(prison official 1)_  
+Alexander Folk _(prison official 2)_  
+Carl Sundstrom _(Hank)_  
+John Solari _(Lou)_  
+Jack _(the dog)_  
+Al Garrett _(Carl)_  
+Heather Stephens _(Lanie)_  
+Amanda Anka _(girl 1)_  
+Jennifer Syme _(junkie girl)_  
+Matt Sigloch _(assistant 1)_  
+Gil Combs _(assistant 2)_  
+Greg Travis _(tail gate driver)_  
+Lisa Boyle _(Marian)_  
+Marilyn Manson _(porno star 1)_  
+Twiggy Ramirez _(porno star 2)_  
 
-USA/France 1996
-134 mins
+USA/France 1996  
+134 mins  
 
-A Janus Films release
+A Janus Films release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDY5ODY2MV19
+eyJoaXN0b3J5IjpbMTk2MjIwNzczOV19
 -->
