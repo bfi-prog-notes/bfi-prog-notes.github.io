@@ -1,14 +1,10 @@
 
-<![endif]-->
-
 _Introduced by freelance writer and producer Kaleem Aftab (Wednesday 28 September only)_
 
-During 24 sweltering hours in Brooklyn, tensions mount between various individuals in the multiracial community, particularly those frequenting or working – like Mookie (Lee) – at the pizzeria owned by Sal (Aiello). Then an argument – about loud music! – escalates until all hell breaks loose. Lee’s pacy, punchy, provocative fable combines comedy, suspense and serious social comment to dazzling effect; and the well-chosen cast is uniformly excellent.
-
+During 24 sweltering hours in Brooklyn, tensions mount between various individuals in the multiracial community, particularly those frequenting or working – like Mookie (Lee) – at the pizzeria owned by Sal (Aiello). Then an argument – about loud music! – escalates until all hell breaks loose. Lee’s pacy, punchy, provocative fable combines comedy, suspense and serious social comment to dazzling effect; and the well-chosen cast is uniformly excellent.  
 **bfi.org.uk**
 
-Spike Lee’s third feature, _Do the Right Thing_, remains a genuine one-off.  
-A vivid, unabashedly theatrical snapshot of one blisteringly hot day in the life of a multicultural Brooklyn block, it was an impassioned response to simmering racial tensions in New York City by its then 32-year-old auteur. From the superb performances by a vast ensemble cast to Ernest Dickerson’s searing cinematography; from its barbed, lyrical screenplay to the lushly versatile jazz score by the director’s father Bill Lee, it resounds as a singular artistic triumph.
+Spike Lee’s third feature, _Do the Right Thing_, remains a genuine one-off.  A vivid, unabashedly theatrical snapshot of one blisteringly hot day in the life of a multicultural Brooklyn block, it was an impassioned response to simmering racial tensions in New York City by its then 32-year-old auteur. From the superb performances by a vast ensemble cast to Ernest Dickerson’s searing cinematography; from its barbed, lyrical screenplay to the lushly versatile jazz score by the director’s father Bill Lee, it resounds as a singular artistic triumph.
 
 Despite an Oscar nomination for Best Original Screenplay, Lee’s urgent dispatch was ignored by the Academy in the Best Picture category, which was won instead by the reassuringly tame race-relations drama _Driving Miss Daisy_. Yet _Do the Right Thing_’s influence looms large across popular culture on an international scale: it’s a clear forerunner for urban dramas like _La Haine_ (1995) and _City of God_ (2002); it’s been affectionately parodied on _Sesame Street_; and even the Obamas claim they saw it on their first date. Moreover, many of the issues it raises are still pertinent: Ryan Coogler’s Sundance-winning _Fruitvale Station_, for example, echoes Lee’s film in its focus on the police killing of a young black urban American male.
 
@@ -27,138 +23,74 @@ I also remember leaving the cinema after those two closing quotes on the screen,
 
 **Destiny Ekaragha, director/writer**: I grew up on an estate in New Cross in London, but it didn’t feel like we were in the ‘ghetto’ – we were just a bunch of kids that would play out in the summer. For me, _Do the Right Thing_, which I first saw in the 90s in my early teens, captured exactly that feeling, with its colour and vibrant characters like Mister Señor Love Daddy in his budget radio station. One of my favourite lines ever is when he says, ‘Today’s weather is… HOT!’ He ain’t messing around with degrees Fahrenheit or anything like that.
 
-It remains so important because it touches on issues of race and class – and people’s perceptions of those things – like no other film before or after. It was the first film I saw which broke narrative and had people talking directly to camera. It was laying bare what different racial groups said about each other. It said: ‘Make no mistake, we are living amidst racism – it’s as thick as the humidity in the air.’ Today, there are people pretending that racism doesn’t exist, that we’re in a ‘post-racial’ era – but that’s the most stupid term I’ve ever heard. If people don’t acknowledge that racism is still here, then we’re going to go backwards. And that’s why _Do the Right Thing_ resonates today: it uses open dialogue and conversation to bring these issues to the surface.
-
-**Introduction by Ashley Clark, _Sight & Sound_, August 2014**
-
-**DO THE RIGHT THING**
-
-_Director:_ Spike Lee
-
-_©:_ Universal City Studios, Inc.
-
-_a_ 40 Acres and a Mule Filmworks _production_
-
-_Producer:_ Spike Lee
-
-_Co-producer:_ Monty Ross
-
-_Line Producer:_ Jon Kilik
-
-_Production Supervisor:_ Preston Holmes
-
-_40 Acres Production Co-ordinator:_ Susan D. Fowler
-
-_Production Office Co-ordinator:_ Lillian Pyles
-
-_Unit Manager:_ R.W. Dixon
-
-_Location Manager:_ Brent Owens
-
-_1st Assistant Director:_ Randy Fletcher
-
-_2nd Assistant Director:_ Nandi Bowe
-
-_Script Supervisor:_ Joe Gonzalez
-
-_Casting:_ Robi Reed
-
-_Screenplay:_ Spike Lee
-
-_Director of Photography:_ Ernest Dickerson
-
-_Camera Operator:_ John Newby
-
-_Still Photography:_ David Lee
-
-_Special Effects:_ Steve Kirshoff
-
-_Do The Right Thing Logo by:_ Art Sims, 11:24 Design & Advertising
-
-_Editor:_ Barry Alexander Brown
-
-_Production Designer:_ Wynn Thomas
-
-_Costumes:_ Ruth Carter
-
-_Make-up:_ Matiki Anoff
-
-_Hair:_ Larry Cherry
-
-_Main/End Titles Designed and Produced by:_ Balsmeyer & Everett Inc
-
-_Music:_ Bill Lee
-
-_Music Performed by:_ The Natural Spiritual Orchestra
-
-_Choreography (‘Fight the Power’):_ Rosie Perez, Otis Sallid
-
-_Sound Design:_ Skip Lievsay
-
-_Re-recording Mixer:_ Tom Fleischman
-
-_Stunt Co-ordinator:_ Eddie Smith
-
-**Cast**
-
-Danny Aiello _(Sal)_
-
-Ossie Davis _(Da Mayor)_
-
-Ruby Dee _(Mother Sister)_
-
-Richard Edson _(Vito)_
-
-Giancarlo Esposito _(Buggin’ Out)_
-
-Spike Lee _(Mookie)_
-
-Bill Nunn _(Radio Raheem)_
-
-John Turturro _(Pino)_
-
-Paul Benjamin _(ML)_
-
-Frankie Faison _(Coconut Sid)_
-
-Robin Harris _(Sweet Dick Willie)_
-
-Joie Lee _(Jade)_
-
-Miguel Sandoval _(Officer Ponte)_
-
-Rick Aiello _(Officer Long)_
-
-John Savage _(Clifton)_
-
-Sam Jackson _(Mister Señor Love Daddy)_
-
-Rosie Perez _(Tina)_
-
-Roger Guenveur Smith _(Smiley)_
-
-Steve White _(Ahmad)_
-
-Martin Lawrence _(Cee)_
-
-Leonard Thomas _(Punchy)_
-
-Christa Rivers _(Ella)_
-
-Frank Vincent _(Charlie)_
-
-Luis Ramos _(Stevie)_
-
-Richard Habersham _(Eddie)_
-
-Gwen McGee _(Louise)_
-
-Steve Park _(Sonny)_
-
-Ginny Yang _(Kim)_
-
-Sherwin Park _(Korean child)_
-
+It remains so important because it touches on issues of race and class – and people’s perceptions of those things – like no other film before or after. It was the first film I saw which broke narrative and had people talking directly to camera. It was laying bare what different racial groups said about each other. It said: ‘Make no mistake, we are living amidst racism – it’s as thick as the humidity in the air.’ Today, there are people pretending that racism doesn’t exist, that we’re in a ‘post-racial’ era – but that’s the most stupid term I’ve ever heard. If people don’t acknowledge that racism is still here, then we’re going to go backwards. And that’s why _Do the Right Thing_ resonates today: it uses open dialogue and conversation to bring these issues to the surface.  
+**Introduction by Ashley Clark, _Sight & Sound_, August 2014**  
+
+**DO THE RIGHT THING**  
+_Director:_ Spike Lee  
+_©:_ Universal City Studios, Inc.  
+_a_ 40 Acres and a Mule Filmworks _production_  
+_Producer:_ Spike Lee  
+_Co-producer:_ Monty Ross  
+_Line Producer:_ Jon Kilik  
+_Production Supervisor:_ Preston Holmes  
+_40 Acres Production Co-ordinator:_ Susan D. Fowler  
+_Production Office Co-ordinator:_ Lillian Pyles  
+_Unit Manager:_ R.W. Dixon  
+_Location Manager:_ Brent Owens  
+_1st Assistant Director:_ Randy Fletcher  
+_2nd Assistant Director:_ Nandi Bowe  
+_Script Supervisor:_ Joe Gonzalez  
+_Casting:_ Robi Reed  
+_Screenplay:_ Spike Lee  
+_Director of Photography:_ Ernest Dickerson  
+_Camera Operator:_ John Newby  
+_Still Photography:_ David Lee  
+_Special Effects:_ Steve Kirshoff  
+_Do The Right Thing Logo by:_ Art Sims, 11:24 Design & Advertising  
+_Editor:_ Barry Alexander Brown  
+_Production Designer:_ Wynn Thomas  
+_Costumes:_ Ruth Carter  
+_Make-up:_ Matiki Anoff  
+_Hair:_ Larry Cherry  
+_Main/End Titles Designed and Produced by:_ Balsmeyer & Everett Inc  
+_Music:_ Bill Lee  
+_Music Performed by:_ The Natural Spiritual Orchestra  
+_Choreography (‘Fight the Power’):_ Rosie Perez, Otis Sallid  
+_Sound Design:_ Skip Lievsay  
+_Re-recording Mixer:_ Tom Fleischman  
+_Stunt Co-ordinator:_ Eddie Smith  
+
+**Cast**  
+Danny Aiello _(Sal)_  
+Ossie Davis _(Da Mayor)_  
+Ruby Dee _(Mother Sister)_  
+Richard Edson _(Vito)_  
+Giancarlo Esposito _(Buggin’ Out)_  
+Spike Lee _(Mookie)_  
+Bill Nunn _(Radio Raheem)_  
+John Turturro _(Pino)_  
+Paul Benjamin _(ML)_  
+Frankie Faison _(Coconut Sid)_  
+Robin Harris _(Sweet Dick Willie)_  
+Joie Lee _(Jade)_  
+Miguel Sandoval _(Officer Ponte)_  
+Rick Aiello _(Officer Long)_  
+John Savage _(Clifton)_  
+Sam Jackson _(Mister Señor Love Daddy)_  
+Rosie Perez _(Tina)_  
+Roger Guenveur Smith _(Smiley)_  
+Steve White _(Ahmad)_  
+Martin Lawrence _(Cee)_  
+Leonard Thomas _(Punchy)_  
+Christa Rivers _(Ella)_  
+Frank Vincent _(Charlie)_  
+Luis Ramos _(Stevie)_  
+Richard Habersham _(Eddie)_  
+Gwen McGee _(Louise)_  
+Steve Park _(Sonny)_  
+Ginny Yang _(Kim)_  
+Sherwin Park _(Korean child)_  
 Shawn Elliott _(Puerto Rican ice man)_  
 Diva Osorio _(Carmen)_  
 Chris Delaney, Angel Ramirez, Sixto Ramos, Nelson Vasquez _(Stevie’s friends)_  
@@ -203,5 +135,5 @@ Thu 22 Sep 20:55; Sat 1 Oct 18:00
 Mon 26 Sep 20:50; Sun 2 Oct 12:45; Tue 4 Oct 20:40
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzg0MzY2Ml19
+eyJoaXN0b3J5IjpbLTU4ODAyNzE4M119
 -->
