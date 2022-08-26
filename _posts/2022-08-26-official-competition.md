@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Official Competition
+published: true
+date: 2022-08-26
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Comedy, Satire]
+metadata: 'Spain-Argentina-UK 2021, 115 mins<br> Directors: Gastón Duprat, Mariano Cohn'
+pdf: '2022-08-26-official-competition.pdf'
+---
 
 After securing financial backing from an ailing business mogul, independent cinema darling and Cannes Palme d’Or-winning filmmaker Lola Cuevas (Penélope Cruz) sets out to make an experimental adaptation of a much-loved literary work. In the lead roles she casts two actors with radically different approaches: the acclaimed but stiflingly snobbish thespian Ivan Torres (Oscar Martínez) against the handsome but superficial screen icon Felix (Antonio Banderas). A hysterically funny, well-written satire of the film industry, directors and film stars, powered by a trilogy of fun, high-energy campy performances from Cruz, Banderas, Martínez.
 
@@ -98,6 +108,44 @@ Spain-Argentina-UK 2021©
 
 A Curzon release<br>
 <br>
+
+**NEW RELEASES**<br>
+**Hit the Road (Jaddeh Khaki)**<br>
+Continues from Fri 29 Jul<br>
+**The Feast**<br>
+From Fri 19 Aug<br>
+**Where Is Anne Frank**<br>
+From Fri 19 Aug<br>
+**Queen of Glory**<br>
+From Fri 28 Aug<br>
+
+**RE-RELEASES**<br>
+**The Big City (Mahanagar)**<br>
+Continues from Fri 22 Jul<br>
+**Paris, Texas**<br>
+Continues from Fri 29 Jul<br>
+**The Harder They Come**<br>
+From Fri 5 Aug (+ intro by season curator and author Lloyd Bradley on Fri 5 Aug 18:15)<br>
+**Burning an Illusion**<br>
+From Fri 19 Aug<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwNzE4MTQxMjhdfQ==
 -->
