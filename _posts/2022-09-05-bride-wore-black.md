@@ -19,71 +19,52 @@ His problem is the basic one of persuasion – which doesn’t mean that one is 
 ‘I dozed off. I thought I was at the cinema,’ says the politician, just before Moreau, in her school-teacher disguise, locks him in the absurd little cupboard under the stairs and tapes down the door. One could repeat it of the film: ‘I dozed off. I thought I was at a Hitchcock movie.’ The mistiness is quite deliberate, and knowing Truffaut’s liking for the Hitchcock films (_Vertigo_, _Notorious_) which he sees as filmed dreams, the intent seems plain. But Hitchcock, as we know, directs the audience; Truffaut only directs the film, and the dream remains on the screen and never breaks out into the auditorium. _The Bride Wore Black_ remains graceful and slender; a Truffaut lamb in Hitchcock wolf’s clothing.  
 **Penelope Houston, _Sight and Sound_, Autumn 1968**  
 
+**THE BRIDE WORE BLACK (LA MARIÉE ÉTAIT EN NOIR)**  
+_Director:_ François Truffaut  
+_Production Companies:_ Les Films du Carrosse, Les Productions Artistes Associés, Dino De Laurentiis Cinematografica (Rome)  
+_Producer:_ Marcel Berbert  
+_Production Manager:_ Georges Charlot  
+_Assistant Directors:_ Jean Chayrou, Roland Thénot  
+_Screenplay:_ François Truffaut  
+_Adaptation/Dialogue:_ Jean-Louis Richard  
+_Based on the novel_ The Bride Wore Black _by:_ William Irish  
+_Director of Photography:_ Raoul Coutard  
+_Camera Operator:_ Georges Liron  
+_Stills Photography:_ Marilù Parolini  
+_Film Editor:_ Claudine Bouché  
+_Art Director:_ Pierre Guffroy  
+_Hair:_ Simone Knapp  
+_Music:_ Bernard Herrmann  
+_Music Director:_ André Girard  
+_Sound:_ René Levert  
+
+**Cast**  
+Jeanne Moreau _(Julie Kohler)_  
+Jean-Claude Brialy _(Corey)_  
+Michel Bouquet _(Robert Coral)_  
+Charles Denner _(Fergus)_  
+Claude Rich _(Bliss)_  
+Daniel Boulanger _(Holmes)_  
+Michel Lonsdale _(René Morane)_  
+Serge Rousseau _(David)_  
+Jacques Robiolles _(Charlie)_  
+Luce Fabiole _(Julie’s mother)_  
+Sylvine Delannoy _(Mrs Morane)_  
+Jacqueline Rouillard _(maid)_  
+Van Doude _(Inspector Fabri)_  
+Paul Pavel _(mechanic)_  
+Maurice Garell _(plaintiff)_  
+Gilles Quéant _(examining magistrate)_  
+Alexandra Stewart _(Miss Becker)_  
+Frédérique Fontanarosa, Renaud Fontanarosa _(musicians)_  
+Christophe Brunot _(Morane’s son)_  
+Dominique Robier _(Sabine)_  
+Michèle Viborel _(Gilberte, Bliss’s fiancée)_  
+Michèle Montfort _(model)_  
+Daniel Pommereulle _(Fergus’s friend)_  
   
-
-**THE BRIDE WORE BLACK (LA MARIÉE ÉTAIT EN NOIR)**
-_Director:_ François Truffaut
-_Production Companies:_ Les Films du Carrosse, Les Productions Artistes Associés, Dino De Laurentiis Cinematografica (Rome)
-_Producer:_ Marcel Berbert
-_Production Manager:_ Georges Charlot
-_Assistant Directors:_ Jean Chayrou, Roland Thénot
-_Screenplay:_ François Truffaut
-_Adaptation/Dialogue:_ Jean-Louis Richard
-_Based on the novel_ The Bride Wore Black _by:_ William Irish
-_Director of Photography:_ Raoul Coutard
-_Camera Operator:_ Georges Liron
-_Stills Photography:_ Marilù Parolini
-_Film Editor:_ Claudine Bouché
-_Art Director:_ Pierre Guffroy
-_Hair:_ Simone Knapp
-_Music:_ Bernard Herrmann
-_Music Director:_ André Girard
-_Sound:_ René Levert
-
-**Cast**
-Jeanne Moreau _(Julie Kohler)_
-Jean-Claude Brialy _(Corey)_
-Michel Bouquet _(Robert Coral)_
-Charles Denner _(Fergus)_
-Claude Rich _(Bliss)_
-Daniel Boulanger _(Holmes)_
-
-Michel Lonsdale _(René Morane)_
-
-Serge Rousseau _(David)_
-
-Jacques Robiolles _(Charlie)_
-
-Luce Fabiole _(Julie’s mother)_
-
-Sylvine Delannoy _(Mrs Morane)_
-
-Jacqueline Rouillard _(maid)_
-
-Van Doude _(Inspector Fabri)_
-
-Paul Pavel _(mechanic)_
-
-Maurice Garell _(plaintiff)_
-
-Gilles Quéant _(examining magistrate)_
-
-Alexandra Stewart _(Miss Becker)_
-
-Frédérique Fontanarosa, Renaud Fontanarosa _(musicians)_
-
-Christophe Brunot _(Morane’s son)_
-
-Dominique Robier _(Sabine)_
-
-Michèle Viborel _(Gilberte, Bliss’s fiancée)_
-
-Michèle Montfort _(model)_
-
-Daniel Pommereulle _(Fergus’s friend)_
-
-France/Italy 1967
-108 mins
+France/Italy 1967  
+108 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDcwNTMyNF19
+eyJoaXN0b3J5IjpbMTk2MjMyNTE1MF19
 -->
