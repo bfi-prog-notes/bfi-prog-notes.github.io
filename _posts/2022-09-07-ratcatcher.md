@@ -21,52 +21,52 @@ Building on a technique she ﬁrst tried in such shorts as _Small Deaths_ and _G
 ‘I don’t want to become the person who makes ﬁlms about ‘gritty Glasgow’. I don’t want to be called the next Scottish ﬁlmmaker or the next woman ﬁlmmaker. If I come from any tradition it’s a European cinema as opposed to an American one, but I’m not much of a ﬁlm buff either. My approach to ﬁlmmaking is not high-concept at all. It’s actually quite anti-intellectual in some respects. It’s not that I improvise – the images and the dialogue are written very clearly in the shooting script – but I am intuitive. I’m constantly experimenting, ﬁnding out where I want to go. I still feel like a ﬁlm student. I hope I feel that way for the rest of my life.’  
 **Interview by Liese Spenser, _Sight and Sound_, October 1999**  
 
-**RATCATCHER**
-_Director:_ Lynne Ramsay
-_©:_ Pathé Fund Limited, Les Productions Lazennec
-_Production Company:_ Holy Cow Films
-_Presented by:_ BBC Films, Pathé Pictures
+**RATCATCHER**  
+_Director:_ Lynne Ramsay  
+_©:_ Pathé Fund Limited, Les Productions Lazennec  
+_Production Company:_ Holy Cow Films  
+_Presented by:_ BBC Films, Pathé Pictures  
 _Presented in association with:_ Arts Council of England,
-Les Productions Lazennec, Le Studio Canal+
-_Supported by:_ National Lottery through the Arts Council of England
-_Developed in association with:_ BBC Scotland
-_Developed with the assistance of:_ Moonstone International
-_Executive Producers:_ Andrea Calderwood, Barbara McKissack, Sarah Radclyffe
-_Producer:_ Gavin Emerson
-_Co-producer:_ Bertrand Faivre
-_Associate Producer:_ Peter Gallagher
-_Pathe Development Executive:_ Ruth McCance
-_BBC Scotland Production Executive:_ Christine MacLean
-_Production Co-ordinator:_ Su Bainbridge
-_Location Manager:_ Pauline Ogle
-_Post-production Co-ordinator:_ Francesca Dowd
-_1st Assistant Director:_ Nick McCarthy
-_Assistant Directors:_ Anneli Downing, Mark Murdoch, Tracey Skelton, John Armstrong
-_Script Supervisor:_ Karen Wood
-_Casting Director:_ Gillian Berrie
-_Screenplay:_ Lynne Ramsay
-_Director of Photography:_ Alwin Küchler
-_2nd Unit Camera Operators:_ Tom Townend, Nick Barrett
-_Visual Effects:_ The Magic Camera Company
-_Model Maker:_ Ian Kettles
-_Editor:_ Lucia Zucchetti
-_Production Designer:_ Jane Morton
-_Art Director:_ Robina Nicholson
-_Storyboard Artist:_ Derek Gray
-_Costume Designer:_ Gill Horn
-_Wardrobe Supervisor:_ Elaine Nichols
-_Make-up/Hair Designer:_ Anastasia Shirley
-_Titles Design:_ David James Associates
-_Titles:_ Malcolm Webb
-_Music Composed by:_ Rachel Portman
-_Score Conductor:_ David Arch
-_Score Orchestrator:_ Rachel Portman
-_Music Recording/Mix Engineer:_ Chris Dibble
-_Sound Supervisor:_ Paul Davies
-_Sound Recording:_ Richard Flynn
-_2nd Unit Sound Recordist:_ Stuart Wilson
-_Dubbing Mixer:_ Tim Alban
-_Dialogue Editor:_ Richard Flynn
+Les Productions Lazennec, Le Studio Canal+  
+_Supported by:_ National Lottery through the Arts Council of England  
+_Developed in association with:_ BBC Scotland  
+_Developed with the assistance of:_ Moonstone International  
+_Executive Producers:_ Andrea Calderwood, Barbara McKissack, Sarah Radclyffe  
+_Producer:_ Gavin Emerson  
+_Co-producer:_ Bertrand Faivre  
+_Associate Producer:_ Peter Gallagher  
+_Pathe Development Executive:_ Ruth McCance  
+_BBC Scotland Production Executive:_ Christine MacLean  
+_Production Co-ordinator:_ Su Bainbridge  
+_Location Manager:_ Pauline Ogle  
+_Post-production Co-ordinator:_ Francesca Dowd  
+_1st Assistant Director:_ Nick McCarthy  
+_Assistant Directors:_ Anneli Downing, Mark Murdoch, Tracey Skelton, John Armstrong  
+_Script Supervisor:_ Karen Wood  
+_Casting Director:_ Gillian Berrie  
+_Screenplay:_ Lynne Ramsay  
+_Director of Photography:_ Alwin Küchler  
+_2nd Unit Camera Operators:_ Tom Townend, Nick Barrett  
+_Visual Effects:_ The Magic Camera Company  
+_Model Maker:_ Ian Kettles  
+_Editor:_ Lucia Zucchetti  
+_Production Designer:_ Jane Morton  
+_Art Director:_ Robina Nicholson  
+_Storyboard Artist:_ Derek Gray  
+_Costume Designer:_ Gill Horn  
+_Wardrobe Supervisor:_ Elaine Nichols  
+_Make-up/Hair Designer:_ Anastasia Shirley  
+_Titles Design:_ David James Associates  
+_Titles:_ Malcolm Webb  
+_Music Composed by:_ Rachel Portman  
+_Score Conductor:_ David Arch  
+_Score Orchestrator:_ Rachel Portman  
+_Music Recording/Mix Engineer:_ Chris Dibble  
+_Sound Supervisor:_ Paul Davies  
+_Sound Recording:_ Richard Flynn  
+_2nd Unit Sound Recordist:_ Stuart Wilson  
+_Dubbing Mixer:_ Tim Alban  
+_Dialogue Editor:_ Richard Flynn  
 _Foley Artists:_ Felicity Cottrell, Jack Stew  
 _Foley Recordist:_ Jens Christensen  
 _Foley Editor:_ Jens Christensen  
@@ -111,5 +111,5 @@ Lisa Taylor _(Anne Marie’s friend)_
 UK/France 1999  
 93 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgyNjAzNDJdfQ==
+eyJoaXN0b3J5IjpbLTgzNDQ5ODQyMl19
 -->
