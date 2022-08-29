@@ -38,58 +38,58 @@ _Gowns by:_ Jean Louis
 _Make-up by:_ Clay Campbell  
 _Hair Styles by:_ Helen Hunt  
 _Musical Score by:_ George Antheil  
-_Musical Director:_ Morris Stoloff
-_Sound Engineer:_ Howard Fogetti
-_Technical Adviser:_ Rodney Amateau
-_uncredited_
-_Script Supervisor:_ Charlsie Bryant
-_Camera Operator:_ Gert Andersen
-_Grip:_ Walter Meins
-_Gaffer:_ William Johnson
-_Stills:_ Irving Lippman
-_Special Effects:_ Don Glouner
-_Orchestrations:_ Ernest Gold
+_Musical Director:_ Morris Stoloff  
+_Sound Engineer:_ Howard Fogetti  
+_Technical Adviser:_ Rodney Amateau  
+_uncredited_  
+_Script Supervisor:_ Charlsie Bryant  
+_Camera Operator:_ Gert Andersen  
+_Grip:_ Walter Meins  
+_Gaffer:_ William Johnson  
+_Stills:_ Irving Lippman  
+_Special Effects:_ Don Glouner  
+_Orchestrations:_ Ernest Gold  
 
-**Cast**
-Humphrey Bogart _(Dixon ‘Dix’ Steele)_
-Gloria Grahame _(Laurel Gray)_
-Frank Lovejoy _(Brub Nicolai)_
-Carl Benton Reid _(Captain Lochner)_
-Art Smith _(Mel Lippman)_
-Jeff Donnell _(Sylvia Nicolai)_
-Martha Stewart _(Mildred Atkinson)_
-Robert Warwick _(Charlie Waterman)_
-Morris Ankrum _(Lloyd Barnes)_
-William Ching _(Ted Barton)_
-Steven Geray _(Paul)_
-Hadda Brooks _(singer)_
-_uncredited_
-Charles Cane _(irate husband in car)_
-Frank Marlowe _(Dave, car parker at Paul’s)_
-Billy Gray _(young autograph hound)_
-Cosmo Sardo _(Greg, bartender)_
-Lewis Howard _(Junior)_
-Alice Talton _(Frances Randolph)_
-George Davis _(waiter at Paul’s)_
-Robert Davis _(street waterer)_
-Ruth Warren _(Effie, cleaning lady)_
-Jack Reynolds _(Henry Kesler)_
-Ruth Gillette _(Martha)_
-Don Hamin _(John Mason, young driver)_
-Myron Healey _(post office clerk)_
-Robert Lowell _(airline clerk)_
-Pat Barton _(2nd hat check girl)_
-David Bond _(Dr Richards, the surgeon)_
-Guy Beach _(Swan)_
-Mike Romanoff _(Mike)_
-Arno Frey _(Joe)_
-Melinda Erickson _(tough girl)_
-Jack Jahries _(officer)_
-June Vincent _(actress)_
+**Cast**  
+Humphrey Bogart _(Dixon ‘Dix’ Steele)_  
+Gloria Grahame _(Laurel Gray)_  
+Frank Lovejoy _(Brub Nicolai)_  
+Carl Benton Reid _(Captain Lochner)_  
+Art Smith _(Mel Lippman)_  
+Jeff Donnell _(Sylvia Nicolai)_  
+Martha Stewart _(Mildred Atkinson)_  
+Robert Warwick _(Charlie Waterman)_  
+Morris Ankrum _(Lloyd Barnes)_  
+William Ching _(Ted Barton)_  
+Steven Geray _(Paul)_  
+Hadda Brooks _(singer)_  
+_uncredited_  
+Charles Cane _(irate husband in car)_  
+Frank Marlowe _(Dave, car parker at Paul’s)_  
+Billy Gray _(young autograph hound)_  
+Cosmo Sardo _(Greg, bartender)_  
+Lewis Howard _(Junior)_  
+Alice Talton _(Frances Randolph)_  
+George Davis _(waiter at Paul’s)_  
+Robert Davis _(street waterer)_  
+Ruth Warren _(Effie, cleaning lady)_  
+Jack Reynolds _(Henry Kesler)_  
+Ruth Gillette _(Martha)_  
+Don Hamin _(John Mason, young driver)_  
+Myron Healey _(post office clerk)_  
+Robert Lowell _(airline clerk)_  
+Pat Barton _(2nd hat check girl)_  
+David Bond _(Dr Richards, the surgeon)_  
+Guy Beach _(Swan)_  
+Mike Romanoff _(Mike)_  
+Arno Frey _(Joe)_  
+Melinda Erickson _(tough girl)_  
+Jack Jahries _(officer)_  
+June Vincent _(actress)_  
 Jack Santoro, Tony Layng, Laura Kasley Brooks, Evelyn Underwood, Hazel Boyne, Mike Lally, John Mitchum, Joy Hallward, Allen Pinson, Oliver Cross  
 
 USA 1950©  
 94 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODg4OTU3MF19
+eyJoaXN0b3J5IjpbLTE4MTYwMTk1NTRdfQ==
 -->
