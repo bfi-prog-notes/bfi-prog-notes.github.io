@@ -4,10 +4,10 @@
 **SPOILER WARNING** The following notes give away the film’s ending.
 
 An elderly scientist (Sjöström, superb) drives with his daughter-in-law from Stockholm to Lund to receive an honorary award; disturbed by a dream he had before setting out, he looks back over his life, revisiting key moments in an attempt to understand himself – and his family – better. One of Bergman’s greatest films, this prototype road movie travels through both space and time.  
-**bfi.org.uk**
+**bfi.org.uk**  
 
 One of Ingmar Bergman’s warmest films, this boasts a magnificent performance by Victor Sjöström, the actor who was himself an acclaimed Swedish filmmaker in his own right. He plays an ageing, grouchy academic driving to Lund to accept an award; the trip also traverses memories, reveries and illuminating encounters with family members and strangers alike. Famous for its early dream sequence, the film is nevertheless most impressive for its rich, vivid characterisations from a superb cast of Bergman regulars.  
-**player.bfi.org.uk**
+**player.bfi.org.uk**  
 
 The main character in Ingmar Bergman’s _Wild Strawberries_ (1957), Professor Isak Borg (Victor Sjöström), an eminent bacteriologist, spends the majority of the film travelling back through his memories and worries. Though in actuality he is travelling by car to Lund to receive an honorary degree, in Bergman’s terms the terrain we inhabit is not simply a physical realm but a psychic one too; journeys are both inner and outer experiences. It is not an inanimate collection of roads, hills and houses but a skin that holds time within its scars. Borg is accompanied by his daughter-in-law Marianne (Ingrid Thulin), who has joined him even though she is planning to leave Borg’s son, Evald (Gunnar Björnstrand), following a disagreement about the fate of their unborn child. Along the journey, the pair meet various characters, including a trio of youngsters, one of whom, Sara (Bibi Andersson), resembles Borg’s lost love. The interactions between these characters and other passengers cause the melancholic doctor to drift off into dreams, reveries and memories.
 
@@ -76,5 +76,5 @@ Sweden 1957
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzMTMyMzg5XX0=
+eyJoaXN0b3J5IjpbMjY1MDE5NzQ5XX0=
 -->
