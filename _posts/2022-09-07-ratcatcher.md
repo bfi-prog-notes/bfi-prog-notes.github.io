@@ -44,133 +44,72 @@ _1st Assistant Director:_ Nick McCarthy
 _Assistant Directors:_ Anneli Downing, Mark Murdoch, Tracey Skelton, John Armstrong
 _Script Supervisor:_ Karen Wood
 _Casting Director:_ Gillian Berrie
-
 _Screenplay:_ Lynne Ramsay
-
 _Director of Photography:_ Alwin Küchler
-
 _2nd Unit Camera Operators:_ Tom Townend, Nick Barrett
-
 _Visual Effects:_ The Magic Camera Company
-
 _Model Maker:_ Ian Kettles
-
 _Editor:_ Lucia Zucchetti
-
 _Production Designer:_ Jane Morton
-
 _Art Director:_ Robina Nicholson
-
 _Storyboard Artist:_ Derek Gray
-
 _Costume Designer:_ Gill Horn
-
 _Wardrobe Supervisor:_ Elaine Nichols
-
 _Make-up/Hair Designer:_ Anastasia Shirley
-
 _Titles Design:_ David James Associates
-
 _Titles:_ Malcolm Webb
-
 _Music Composed by:_ Rachel Portman
-
 _Score Conductor:_ David Arch
-
 _Score Orchestrator:_ Rachel Portman
-
 _Music Recording/Mix Engineer:_ Chris Dibble
-
 _Sound Supervisor:_ Paul Davies
-
 _Sound Recording:_ Richard Flynn
-
 _2nd Unit Sound Recordist:_ Stuart Wilson
-
 _Dubbing Mixer:_ Tim Alban
-
 _Dialogue Editor:_ Richard Flynn
+_Foley Artists:_ Felicity Cottrell, Jack Stew  
+_Foley Recordist:_ Jens Christensen  
+_Foley Editor:_ Jens Christensen  
+_Stunt Co-ordinator:_ Paul Heasman  
+_Animals:_ Creature Feature  
+_Animal Trainer:_ Derek Anderson  
 
-_Foley Artists:_ Felicity Cottrell, Jack Stew
+**Cast**  
+William Eadie _(James Gillespie)_  
+Tommy Flanagan _(Da)_  
+Mandy Matthews _(Ma)_  
+Michelle Stewart _(Ellen Gillespie)_  
+Lynne Ramsay _(Anne Marie Gillespie)_  
+Leanne Mullen _(Margaret Anne)_  
+John Miller _(Kenny)_  
+Jackie Quinn _(Mrs Quinn)_  
+James Ramsay _(Mr Quinn)_  
+Anne McLean _(Mrs Fowler)_  
+Craig Bonar _(Matt Monroe)_  
+Andrew McKenna _(Billy)_  
+Mick Maharg _(Stef)_  
+James Montgomery _(Hammy)_  
+Thomas McTaggart _(Ryan Quinn)_  
+Stuart Gordon _(Tommy)_  
+Stephen Sloan _(Mackie)_  
+Molly Innes _(Miss McDonald)_  
+Stephen King _(Mr Mohan)_  
+John Comerford _(insurance man)_  
+Jimmy Grimes _(Mr Mullen)_  
+Anne Marie Lafferty _(Rita)_  
+Bess McDonald _(elderly lady)_  
+Leanne Jenkins _(kitten girl)_  
+Ian Cameron, Brian Steel _(soldiers)_  
+Dougie Jones, Joe McCrone _(scavengers)_  
+James Watson _(bus driver)_  
+Stephen Purdon _(boy on bike)_  
+Marion Connell _(Jesse)_  
+Robert Farrell _(boy)_  
+Donnie McMillan _(Artie)_  
+Lisa Taylor _(Anne Marie’s friend)_  
 
-_Foley Recordist:_ Jens Christensen
-
-_Foley Editor:_ Jens Christensen
-
-_Stunt Co-ordinator:_ Paul Heasman
-
-_Animals:_ Creature Feature
-
-_Animal Trainer:_ Derek Anderson
-
-**Cast**
-
-William Eadie _(James Gillespie)_
-
-Tommy Flanagan _(Da)_
-
-Mandy Matthews _(Ma)_
-
-Michelle Stewart _(Ellen Gillespie)_
-
-Lynne Ramsay _(Anne Marie Gillespie)_
-
-Leanne Mullen _(Margaret Anne)_
-
-John Miller _(Kenny)_
-
-Jackie Quinn _(Mrs Quinn)_
-
-James Ramsay _(Mr Quinn)_
-
-Anne McLean _(Mrs Fowler)_
-
-Craig Bonar _(Matt Monroe)_
-
-Andrew McKenna _(Billy)_
-
-Mick Maharg _(Stef)_
-
-James Montgomery _(Hammy)_
-
-Thomas McTaggart _(Ryan Quinn)_
-
-Stuart Gordon _(Tommy)_
-
-Stephen Sloan _(Mackie)_
-
-Molly Innes _(Miss McDonald)_
-
-Stephen King _(Mr Mohan)_
-
-John Comerford _(insurance man)_
-
-Jimmy Grimes _(Mr Mullen)_
-
-Anne Marie Lafferty _(Rita)_
-
-Bess McDonald _(elderly lady)_
-
-Leanne Jenkins _(kitten girl)_
-
-Ian Cameron, Brian Steel _(soldiers)_
-
-Dougie Jones, Joe McCrone _(scavengers)_
-
-James Watson _(bus driver)_
-
-Stephen Purdon _(boy on bike)_
-
-Marion Connell _(Jesse)_
-
-Robert Farrell _(boy)_
-
-Donnie McMillan _(Artie)_
-
-Lisa Taylor _(Anne Marie’s friend)_
-
-UK/France 1999
-93 mins
+UK/France 1999  
+93 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDY5NDc2NF19
+eyJoaXN0b3J5IjpbLTE3NTgyNjAzNDJdfQ==
 -->
