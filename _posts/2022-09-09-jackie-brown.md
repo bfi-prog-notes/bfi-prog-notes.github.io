@@ -80,64 +80,64 @@ Michael Keaton _(Ray Nicolette)_
 Robert De Niro _(Louis Gara)_  
 Michael Bowen _(Mark Dargus)_  
 Chris Tucker _(Beaumont Livingston)_  
-Lisa Gay Hamilton _(Sheronda)_
-Tommy ‘Tiny’ Lister Jr _(Winston)_
-Hattie Winston _(Simone)_
-Denise Crosby _(public defender)_
-Sid Haig _(judge)_
-Aimee Graham _(Amy, Billingsley sales girl)_
-Ellis E. Williams _(Cockatoo bartender)_
-Tangie Ambrose _(Billingsley sales girl 2)_
-T’keyah Crystal Keymah _(Raynelle, Ordell’s junkie friend)_
-Venessia Valentino _(Cabo flight attendant)_
-Diana Uribe _(Anita Lopez)_
-Renee Kelly _(cocktail waitress)_
-Elizabeth McInerney _(bartender at Sam’s)_
-Colleen Mayne _(girl at security gate)_
-Laura Lovelace _(steakhouse waitress)_
+Lisa Gay Hamilton _(Sheronda)_  
+Tommy ‘Tiny’ Lister Jr _(Winston)_  
+Hattie Winston _(Simone)_  
+Denise Crosby _(public defender)_  
+Sid Haig _(judge)_  
+Aimee Graham _(Amy, Billingsley sales girl)_  
+Ellis E. Williams _(Cockatoo bartender)_  
+Tangie Ambrose _(Billingsley sales girl 2)_  
+T’keyah Crystal Keymah _(Raynelle, Ordell’s junkie friend)_  
+Venessia Valentino _(Cabo flight attendant)_  
+Diana Uribe _(Anita Lopez)_  
+Renee Kelly _(cocktail waitress)_  
+Elizabeth McInerney _(bartender at Sam’s)_  
+Colleen Mayne _(girl at security gate)_  
+Laura Lovelace _(steakhouse waitress)_  
 Christine Lydon, Julia Ervin, Juliet Lon, Michelle Berube,
-Gillian Iliana Waters _(chicks who love guns)_
-Candice Briese, Gary Mann _(the deputies)_
-Jeffrey Deedrick, Roy Nesvold, Herbert Hans Wilmsen _(the sheriffs)_
+Gillian Iliana Waters _(chicks who love guns)_  
+Candice Briese, Gary Mann _(the deputies)_  
+Jeffrey Deedrick, Roy Nesvold, Herbert Hans Wilmsen _(the sheriffs)_  
 
-USA 1997
-154 mins
+USA 1997  
+154 mins  
 
-A Park Circus release
+A Park Circus release  
 
-**PAM GRIER: FOXY, FIERCE AND FEARLESS**
-**The Big Doll House**
-Fri 2 Sep 18:15; Sat 10 Sep 20:50
-**Women in Cages**
-Sat 3 Sep 20:50; Fri 16 Sep 18:10
-**The Big Bird Cage**
-Sun 4 Sep 18:00; Wed 14 Sep 20:45
-**Black Mama, White Mama**
-Wed 7 Sep 20:45; Sat 24 Sep 20:50
-**Pam Grier: Icon and Trailblazer**
-Thu 8 Sep 18:15
-**Coffy**
-Thu 8 Sep 20:40; Sun 18 Sep 13:00; Thu 22 Sep 18:00
-**Pam Grier in Conversation**
-Fri 9 Sep 18:00
-**Foxy Brown**
-Sat 10 Sep 14:45 + Q&A with Pam Grier; Tue 13 Sep 20:40; Mon 3 Oct 18:10
-**Greased Lightning**
-Sun 11 Sep 12:00; Thu 15 Sep 20:45
-**Sheba, Baby**
-Sun 11 Sep 16:10; Mon 19 Sep 21:00
-**Friday Foster**
-Mon 12 Sep 20:45; Wed 21 Sep 20:40
-**Original Gangsters**
-Fri 16 Sep 21:00; Tue 20 Sep 21:00
-**The Arena**
-Sun 18 Sep 18:30; Tue 27 Sep 20:50
-**Philosophical Screens: Jackie Brown**
-Tue 20 Sep 20:30
-**In Too Deep**
-Tue 27 Sep 18:15; Mon 3 Oct 20:50
-**Bones**
-Fri 30 Sep 20:50; Tue 4 Oct 18:20
+**PAM GRIER: FOXY, FIERCE AND FEARLESS**  
+**The Big Doll House**  
+Fri 2 Sep 18:15; Sat 10 Sep 20:50  
+**Women in Cages**  
+Sat 3 Sep 20:50; Fri 16 Sep 18:10  
+**The Big Bird Cage**  
+Sun 4 Sep 18:00; Wed 14 Sep 20:45  
+**Black Mama, White Mama**  
+Wed 7 Sep 20:45; Sat 24 Sep 20:50  
+**Pam Grier: Icon and Trailblazer**  
+Thu 8 Sep 18:15  
+**Coffy**  
+Thu 8 Sep 20:40; Sun 18 Sep 13:00; Thu 22 Sep 18:00  
+**Pam Grier in Conversation**  
+Fri 9 Sep 18:00  
+**Foxy Brown**  
+Sat 10 Sep 14:45 + Q&A with Pam Grier; Tue 13 Sep 20:40; Mon 3 Oct 18:10  
+**Greased Lightning**  
+Sun 11 Sep 12:00; Thu 15 Sep 20:45  
+**Sheba, Baby**  
+Sun 11 Sep 16:10; Mon 19 Sep 21:00  
+**Friday Foster**  
+Mon 12 Sep 20:45; Wed 21 Sep 20:40  
+**Original Gangsters**  
+Fri 16 Sep 21:00; Tue 20 Sep 21:00  
+**The Arena**  
+Sun 18 Sep 18:30; Tue 27 Sep 20:50  
+**Philosophical Screens: Jackie Brown**  
+Tue 20 Sep 20:30  
+**In Too Deep**  
+Tue 27 Sep 18:15; Mon 3 Oct 20:50  
+**Bones**  
+Fri 30 Sep 20:50; Tue 4 Oct 18:20  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjQ3NDU4M119
+eyJoaXN0b3J5IjpbLTE3NTgwNjM0MDFdfQ==
 -->
