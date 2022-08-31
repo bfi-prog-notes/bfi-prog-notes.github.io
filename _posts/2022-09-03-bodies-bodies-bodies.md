@@ -1,4 +1,14 @@
-<![endif]-->
+---
+layout: post
+title: Bodies Bodies Bodies
+published: true
+date: 2022-09-03
+readtime: true
+categories: ['PREVIEWS']
+tags: [Horror, Comedy]
+metadata: 'USA 2022, 94 mins<br> Director: Halina Reijn'
+pdf: '2022-09-03-bodies-bodies-bodies.pdf'
+---
 
 A group of rich twentysomething friends gather together to wait out a hurricane at a party in a remote family mansion. The air is already hostile, with old fallouts and unspoken grievances rising to the surface, even before a tense round of murder-in-the-dark game ‘Bodies Bodies Bodies’ turns deadly. Halina Reijin’s smart, satirical comedy-horror, based on a Kristen Roupenian story (author of viral sensation _Cat Person_), with a stellar cast including Amandla Stenberg (_The Hate U Give_), Maria Bakalova (_Borat Subsequent Moviefilm_) Rachel Sennott (_Shiva Baby_) and Pete Davidson (_Saturday Night Live_), playfully explores the paranoia and hyper-individualism of an extremely online generation. With a plot that’s always one step ahead and an abundance of enjoyable performances – in particular, the impeccable comic timing of Sennott – you’re guaranteed a blast.  
 **Kimberley Sheehan, Events Programmer, bfi.org.uk**  
@@ -66,6 +76,22 @@ USA 2022
 94 mins  
 
 A Sony Pictures release  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjQ1Nzk4MV19
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
