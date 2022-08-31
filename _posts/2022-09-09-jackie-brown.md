@@ -28,57 +28,58 @@ One of the things I liked about the opening credit sequence is if you are famili
 
 **JACKIE BROWN**  
 _Written and Directed by:_ Quentin Tarantino  
-_Production Companies:_ Miramax, A Band Apart _Executive Producers:_ Richard N. Gladstein, Elmore Leonard, Bob Weinstein, Harvey Weinstein  
-_Producer:_ Lawrence Bender
-_Co-producer:_ Paul Hellerman
-_Production Co-ordinator:_ Dawn Todd
-_Production Manager:_ Deborah Cass
-_Location Manager:_ Robert Earl Craft
-_Post-production Supervisor:_ Heidi Vogel
-_1st Assistant Director:_ William Paul Clark
-_2nd Assistant Director:_ Rick Lange
-_2nd 2nd Assistant Director:_ Pilar Savone
-_Script Supervisor:_ Martin Kitrosser
-_Casting:_ Jaki Brown, Robyn M. Mitchell
-_Based on the novel_ Rum Punch _by:_ Elmore Leonard
-_Director of Photography:_ Guillermo Navarro
-_Camera Operator:_ Dan Kneece
-_Steadicam Operator:_ Dan Kneece
-_Animator:_ Norm Hvam
-_Editor:_ Sally Menke
-_Associate Editor:_ Tatiana S. Riegel
-_Production Designer:_ David Wasco
-_Art Director:_ Daniel Bradford
-_Set Designer:_ Mariko Braswell
-_Set Decorator:_ Sandy Reynolds-Wasco
-_Costume Designer:_ Mary Claire Hannan
-_Costume Supervisor:_ Karla Stevens
-_Set Costumer:_ Lee Kartis
-_Key Make-up Artist:_ Ermahn Ospina
-_Samuel L. Jackson’s Make-up:_ Marietta Carter-Narcisse
-_Robert De Niro’s Make-up/Hair:_ Ilona Herman
-_Michael Keaton’s Make-up:_ Bob Mills
-_Samuel L. Jackson’s Wig Created by:_ Victoria Wood
-_Key Hairstylist:_ Robert Louis Stevenson
-_Michael Keaton’s Hairstylist:_ Mary L. Mastro
-_Titles/Opticals:_ Pacific Title, Mirage
-_Production Sound Mixer:_ Mark Ulano
-_Boom Operator:_ Jerome R. Vitucci
-_Re-recording Mixers:_ Michael Minkler, Frank A. Montaño
-_Supervising Sound Editor:_ Stephen Hunter Flick
-_Stunt Co-ordinators:_ Steve M. Davison, Kiante Elam
+_Production Companies:_ Miramax, A Band Apart  
+_Executive Producers:_ Richard N. Gladstein, Elmore Leonard, Bob Weinstein, Harvey Weinstein  
+_Producer:_ Lawrence Bender  
+_Co-producer:_ Paul Hellerman  
+_Production Co-ordinator:_ Dawn Todd  
+_Production Manager:_ Deborah Cass  
+_Location Manager:_ Robert Earl Craft  
+_Post-production Supervisor:_ Heidi Vogel  
+_1st Assistant Director:_ William Paul Clark  
+_2nd Assistant Director:_ Rick Lange  
+_2nd 2nd Assistant Director:_ Pilar Savone  
+_Script Supervisor:_ Martin Kitrosser  
+_Casting:_ Jaki Brown, Robyn M. Mitchell  
+_Based on the novel_ Rum Punch _by:_ Elmore Leonard  
+_Director of Photography:_ Guillermo Navarro  
+_Camera Operator:_ Dan Kneece  
+_Steadicam Operator:_ Dan Kneece  
+_Animator:_ Norm Hvam  
+_Editor:_ Sally Menke  
+_Associate Editor:_ Tatiana S. Riegel  
+_Production Designer:_ David Wasco  
+_Art Director:_ Daniel Bradford  
+_Set Designer:_ Mariko Braswell  
+_Set Decorator:_ Sandy Reynolds-Wasco  
+_Costume Designer:_ Mary Claire Hannan  
+_Costume Supervisor:_ Karla Stevens  
+_Set Costumer:_ Lee Kartis  
+_Key Make-up Artist:_ Ermahn Ospina  
+_Samuel L. Jackson’s Make-up:_ Marietta Carter-Narcisse  
+_Robert De Niro’s Make-up/Hair:_ Ilona Herman  
+_Michael Keaton’s Make-up:_ Bob Mills  
+_Samuel L. Jackson’s Wig Created by:_ Victoria Wood  
+_Key Hairstylist:_ Robert Louis Stevenson  
+_Michael Keaton’s Hairstylist:_ Mary L. Mastro  
+_Titles/Opticals:_ Pacific Title, Mirage  
+_Production Sound Mixer:_ Mark Ulano  
+_Boom Operator:_ Jerome R. Vitucci  
+_Re-recording Mixers:_ Michael Minkler, Frank A. Montaño  
+_Supervising Sound Editor:_ Stephen Hunter Flick  
+_Stunt Co-ordinators:_ Steve M. Davison, Kiante Elam  
 _Very Special Thanks to:_ Jack Hill, Susan George, Peter Fonda,
-Helmut Berger, Tony Curtis, Tom Snyder, Peter Bogdanovich, Arnold Rifkin, Scott Spiegel, Samuel Fuller
+Helmut Berger, Tony Curtis, Tom Snyder, Peter Bogdanovich, Arnold Rifkin, Scott Spiegel, Samuel Fuller  
 
-**Cast**
-Pam Grier _(Jackie Brown)_
-Samuel L. Jackson _(Ordell Robbie)_
-Robert Forster _(Max Cherry)_
-Bridget Fonda _(Melanie)_
-Michael Keaton _(Ray Nicolette)_
-Robert De Niro _(Louis Gara)_
-Michael Bowen _(Mark Dargus)_
-Chris Tucker _(Beaumont Livingston)_
+**Cast**  
+Pam Grier _(Jackie Brown)_  
+Samuel L. Jackson _(Ordell Robbie)_  
+Robert Forster _(Max Cherry)_  
+Bridget Fonda _(Melanie)_  
+Michael Keaton _(Ray Nicolette)_  
+Robert De Niro _(Louis Gara)_  
+Michael Bowen _(Mark Dargus)_  
+Chris Tucker _(Beaumont Livingston)_  
 Lisa Gay Hamilton _(Sheronda)_
 Tommy ‘Tiny’ Lister Jr _(Winston)_
 Hattie Winston _(Simone)_
@@ -128,24 +129,15 @@ Sun 11 Sep 16:10; Mon 19 Sep 21:00
 **Friday Foster**
 Mon 12 Sep 20:45; Wed 21 Sep 20:40
 **Original Gangsters**
-
 Fri 16 Sep 21:00; Tue 20 Sep 21:00
-
 **The Arena**
-
 Sun 18 Sep 18:30; Tue 27 Sep 20:50
-
 **Philosophical Screens: Jackie Brown**
-
 Tue 20 Sep 20:30
-
 **In Too Deep**
-
 Tue 27 Sep 18:15; Mon 3 Oct 20:50
-
 **Bones**
-
 Fri 30 Sep 20:50; Tue 4 Oct 18:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTQ1MDg4OV19
+eyJoaXN0b3J5IjpbMTgyNjQ3NDU4M119
 -->
