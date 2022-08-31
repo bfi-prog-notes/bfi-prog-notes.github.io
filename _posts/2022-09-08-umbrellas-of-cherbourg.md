@@ -59,11 +59,8 @@ _Make-up:_ Christiane Fornelli
 _Hairstyles:_ Carita  
 _Music/Music Conductor:_ Michel Legrand  
 _Lyrics:_ Jacques Demy  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
 
-**Cast**
-
+**Cast**  
 Catherine Deneuve _(Geneviève Emery)_  
 Nino Castelnuovo _(Guy Foucher)_  
 Anne Vernon _(Madame Emery)_  
@@ -93,15 +90,13 @@ Gisèle Grandpré _(Madame Germaine)_ *
 Rosalie Varda _(Françoise Cassard)_ *  
 François Foucher _(Hervé Legrand)_ *  
 Michel Legrand _(singing voice of Jean/postman)_ *
-
-Jacques Demy _(singing voice of distracted customer/barman)_ *
+Jacques Demy _(singing voice of distracted customer/barman)_ *  
 
   
-France/West Germany 1964
+France/West Germany 1964  
+93 mins  
 
-93 mins
-
-* Uncredited
+\* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODMzMjY4NDJdfQ==
+eyJoaXN0b3J5IjpbMTU3NDEzNjgzNl19
 -->
