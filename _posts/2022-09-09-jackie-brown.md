@@ -1,3 +1,14 @@
+---
+layout: post
+title: Jackie Brown
+published: true
+date: 2022-09-09
+readtime: true
+categories: ['RE-RELEASES']
+tags: [Crime, Thriller]
+metadata: 'USA 1997, 154 mins<br> Director: Quentin Tarantino'
+pdf: '2022-09-09-jackie-brown.pdf'
+---
 
 _The Friday 9 September screening will include a pre-recorded intro by  Pam Grier._
 
@@ -138,6 +149,22 @@ Tue 20 Sep 20:30
 Tue 27 Sep 18:15; Mon 3 Oct 20:50  
 **Bones**  
 Fri 30 Sep 20:50; Tue 4 Oct 18:20  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgwNjM0MDFdfQ==
--->
+<br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
