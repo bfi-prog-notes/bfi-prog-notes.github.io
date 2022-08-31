@@ -23,105 +23,56 @@ _The obvious follow on from that is there is a great deal of admiration of your 
 
 It is not a black exploitation film. Having said that, Pam is such an icon. To one degree or another, it is like casting John Wayne in a movie. You cast John Wayne in a Western, you are not just dealing with this unknown figure walking in there that you have got to learn about. For some audiences that will be the case, but that is not where I am coming from. John Wayne has got a whole past behind him, and his past is built up from these other movies. That is good baggage. Some baggage can be very, very good. By casting Pam, I did term this in my mind to a Pam Grier movie, but it was a Pam Grier movie with its feet on the ground more. That is not putting anything down, because _Coffy_ is one of my favourite movies, actually; I love _Coffy_. Jackie Brown is a real human being. She is not a super bad momma – she is a kind of super bad momma to tell you the truth! – she does not get razor blades in her afro, and she is not kung fu-ing people, and she is not pulling a sawn off shotgun and blowing a guy’s head off. She is realistic; she is a real lady in those dire circumstances that I described.
 
-One of the things I liked about the opening credit sequence is if you are familiar with Pam’s movies, a whole lot of them start with Pam just walking, and beholding the glory that is Pam. I thought, OK, I will make me the greatest Pam Grier opening sequence of all time. I think I pulled it off actually. The structure of it is very interesting. It is not supposed to be naked to the eye, but it starts off that she is on the conveyor belt, and you see her, you are drinking her in, you are taking her in, and she is walking down the airport and she just looks like the baddest creature a guy ever created. She has just got all this power and strength – and she is Foxy Brown 20 years later, she is Coffy 20 years later – and she has all this womanness, and it is great. In the last part of it you see she is running and running, and you realise she is just trying to get to work. She is not walking down the street to burn Harlem to the ground. She is a woman working in this world, and she is late for her job, and she is going to get fired if she does not get there. After the big bad ass opening credit sequence, two minutes later she is serving peanuts. So it starts off as this mythical, super hero figure and then by the end of the credit sequence we have brought it back down to earth.
+One of the things I liked about the opening credit sequence is if you are familiar with Pam’s movies, a whole lot of them start with Pam just walking, and beholding the glory that is Pam. I thought, OK, I will make me the greatest Pam Grier opening sequence of all time. I think I pulled it off actually. The structure of it is very interesting. It is not supposed to be naked to the eye, but it starts off that she is on the conveyor belt, and you see her, you are drinking her in, you are taking her in, and she is walking down the airport and she just looks like the baddest creature a guy ever created. She has just got all this power and strength – and she is Foxy Brown 20 years later, she is Coffy 20 years later – and she has all this womanness, and it is great. In the last part of it you see she is running and running, and you realise she is just trying to get to work. She is not walking down the street to burn Harlem to the ground. She is a woman working in this world, and she is late for her job, and she is going to get fired if she does not get there. After the big bad ass opening credit sequence, two minutes later she is serving peanuts. So it starts off as this mythical, super hero figure and then by the end of the credit sequence we have brought it back down to earth.  
+**Quentin Tarantino interviewed by Adrian Wootton and audience at BFI Southbank,    January 1998**  
 
-**Quentin Tarantino interviewed by Adrian Wootton and audience at BFI Southbank,  
-January 1998**
-
-**JACKIE BROWN**
-
-_Written and Directed by:_ Quentin Tarantino
-
-_Production Companies:_ Miramax, A Band Apart _Executive Producers:_ Richard N. Gladstein, Elmore Leonard, Bob Weinstein, Harvey Weinstein
-
+**JACKIE BROWN**  
+_Written and Directed by:_ Quentin Tarantino  
+_Production Companies:_ Miramax, A Band Apart _Executive Producers:_ Richard N. Gladstein, Elmore Leonard, Bob Weinstein, Harvey Weinstein  
 _Producer:_ Lawrence Bender
-
 _Co-producer:_ Paul Hellerman
-
 _Production Co-ordinator:_ Dawn Todd
-
 _Production Manager:_ Deborah Cass
-
 _Location Manager:_ Robert Earl Craft
-
 _Post-production Supervisor:_ Heidi Vogel
-
 _1st Assistant Director:_ William Paul Clark
-
 _2nd Assistant Director:_ Rick Lange
-
 _2nd 2nd Assistant Director:_ Pilar Savone
-
 _Script Supervisor:_ Martin Kitrosser
-
 _Casting:_ Jaki Brown, Robyn M. Mitchell
-
 _Based on the novel_ Rum Punch _by:_ Elmore Leonard
-
 _Director of Photography:_ Guillermo Navarro
-
 _Camera Operator:_ Dan Kneece
-
 _Steadicam Operator:_ Dan Kneece
-
 _Animator:_ Norm Hvam
-
 _Editor:_ Sally Menke
-
 _Associate Editor:_ Tatiana S. Riegel
-
 _Production Designer:_ David Wasco
-
 _Art Director:_ Daniel Bradford
-
 _Set Designer:_ Mariko Braswell
-
 _Set Decorator:_ Sandy Reynolds-Wasco
-
 _Costume Designer:_ Mary Claire Hannan
-
 _Costume Supervisor:_ Karla Stevens
-
 _Set Costumer:_ Lee Kartis
-
 _Key Make-up Artist:_ Ermahn Ospina
-
 _Samuel L. Jackson’s Make-up:_ Marietta Carter-Narcisse
-
 _Robert De Niro’s Make-up/Hair:_ Ilona Herman
-
 _Michael Keaton’s Make-up:_ Bob Mills
-
 _Samuel L. Jackson’s Wig Created by:_ Victoria Wood
-
 _Key Hairstylist:_ Robert Louis Stevenson
-
 _Michael Keaton’s Hairstylist:_ Mary L. Mastro
-
 _Titles/Opticals:_ Pacific Title, Mirage
-
 _Production Sound Mixer:_ Mark Ulano
-
 _Boom Operator:_ Jerome R. Vitucci
-
 _Re-recording Mixers:_ Michael Minkler, Frank A. Montaño
-
 _Supervising Sound Editor:_ Stephen Hunter Flick
-
 _Stunt Co-ordinators:_ Steve M. Davison, Kiante Elam
-
 _Very Special Thanks to:_ Jack Hill, Susan George, Peter Fonda,
-
-Helmut Berger, Tony Curtis, Tom Snyder, Peter Bogdanovich,
-
-Arnold Rifkin, Scott Spiegel, Samuel Fuller
+Helmut Berger, Tony Curtis, Tom Snyder, Peter Bogdanovich, Arnold Rifkin, Scott Spiegel, Samuel Fuller
 
 **Cast**
-
 Pam Grier _(Jackie Brown)_
-
 Samuel L. Jackson _(Ordell Robbie)_
-
 Robert Forster _(Max Cherry)_
 
 Bridget Fonda _(Melanie)_
@@ -244,5 +195,5 @@ Tue 27 Sep 18:15; Mon 3 Oct 20:50
 
 Fri 30 Sep 20:50; Tue 4 Oct 18:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQyMTExXX0=
+eyJoaXN0b3J5IjpbLTEwMjI4MDk1OV19
 -->
