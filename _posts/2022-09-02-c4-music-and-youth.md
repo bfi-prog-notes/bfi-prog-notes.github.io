@@ -48,51 +48,25 @@ Malcolm has Exec Produced the BAFTA Film Awards for the past 22 years. He has an
 Fri 2 Sep 18:20<br>
 **Comedy: Discussion & Q&A + The Comic Strip Presents: Five Go Mad in Dorset**<br>
 Tue 6 Sep 18:15<br>
-
-**Channel 4’s TV Drama Revolution:  
-Discussion + Q&A**<br>
-
+**Channel 4’s TV Drama Revolution:  Discussion + Q&A**<br>
 Sun 11 Sep 14:15<br>
-
-**A Very British Coup + intro by  
-author Chris Mullin**<br>
-
+**A Very British Coup + intro by  author Chris Mullin**<br>
 Sun 11 Sep 16:30<br>
-
-**Diversity: Handsworth Songs + Q&A with  
-John Akomfrah + Panel Discussion & Q&A**<br>
-
+**Diversity: Handsworth Songs + Q&A with  John Akomfrah + Panel Discussion & Q&A**<br>
 Mon 12 Sep 18:15<br>
-
-**Out and Proud: Veronica 4 Rose  
-+ Out on Tuesday + intro by original  
+**Out and Proud: Veronica 4 Rose  + Out on Tuesday + intro by original  
 Channel 4 Commissioner Caroline Spry**<br>
-
 Thu 15 Sep 18:15<br>
-
-**Access / Direct Speech: The Work They Say  
-Is Mine + Women of the Rhondda  
-+ Face of Our Fear**<br>
-
+**Access / Direct Speech: The Work They Say  Is Mine + Women of the Rhondda  + Face of Our Fear**<br>
 Tue 20 Sep 18:15<br>
-
 **Channel 4: The Television Revolution**<br>
-
 Fri 23 Sep 18:20<br>
-
-**Controversy: Jesus the Evidence + V  
-+ Mother Ireland**<br>
-
+**Controversy: Jesus the Evidence + V  + Mother Ireland**<br>
 Sat 24 Sep 18:00<br>
-
 **Who Needs Channel 4?**<br>
-
 Wed 28 Sep 18:20<br>
-
 **Channel 4 Then and Now conference**<br>
-
-Fri 23 Sep 10:00–17:00 and Sat 24 Sep  
-10:00–17:00<br>
+Fri 23 Sep 10:00–17:00 and Sat 24 Sep  10:00–17:00<br>
 
 Regional screenings and events will be taking place at these venues across the UK (please go to **bfi.org.uk/whatson** for links): Arnolfini, Bristol; Filmhouse Edinburgh; Queen’s Film Theatre, Belfast; Y Drwm, National Library of Wales, Aberystwyth
 
@@ -101,5 +75,5 @@ Explore thousands of titles from across  Channel 4’s history in our free Media
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDEzNDQ4MjhdfQ==
+eyJoaXN0b3J5IjpbLTczOTM4ODQ0MF19
 -->
