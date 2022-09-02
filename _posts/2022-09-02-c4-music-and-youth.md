@@ -21,92 +21,85 @@ After five years of fighting its corner, _The Tube_ collapsed in April 1987 unde
 
 A _Tube_ revival was proposed in 1994, but the original producers instead developed _The White Room_ (Channel 4, 1995-96). A millennium special, hosted by Chris Moyles and Donna Air, aired on 20 November 1999 as _Apocalypse Tube_.  Even then, there was no firm intent for a new series.  
 **Ian Greaves, BFI Screenonline, screenonline.org.uk**
+<br>
 
 **Jonnie Turpie**  
 Following Fine Art study at the RCA, Jonnie Turpie began his media career with Birmingham Film and Video Workshop at the onset of Channel 4 and BFI Regional Production Fund. He produced and directed innovative and collaborative video focussed on young people’s expression. For 25 years he was a Director of Maverick Television, which he founded and grew into one of the UK’s leading independent regional production companies joining All3Media in 2007. Acknowledged across the industry as a forward thinker, he applied new video and digital techniques to create innovative approaches to multi award winning television and digital media. He has always supported, encouraged, and advocated for young people and their participation in arts and media.
 
-**Mike Bolland**
+**Mike Bolland**  
+Following 18 years at the BBC, Mike Bolland joined Channel 4 in 1981 as a founding commissioning editor. His original brief was to commission programmes for a young adult audience and they included _The Comic Strip Presents…_,  _The Tube_ and _Who Dares Wins_. Later he became senior commissioning editor for comedy and entertainment where his commissions included _The Last Resort_ with Jonathan Ross, _Whose Line Is It Anyway_, _Friday and Saturday Night Live_ and  _After Dark_.
 
-Following 18 years at the BBC, Mike Bolland joined Channel 4 in 1981 as a founding commissioning editor. His original brief was to commission programmes for a young adult audience and they included _The Comic Strip Presents…_,  
-_The Tube_ and _Who Dares Wins_. Later he became senior commissioning editor for comedy and entertainment where his commissions included _The Last Resort_ with Jonathan Ross, _Whose Line Is It Anyway_, _Friday and Saturday Night Live_ and  
-_After Dark_.
-
-**Karl Warner**
-
+**Karl Warner**  
 Karl Warner is Head of Youth & Digital at Channel 4, where he leads the creative vision and commissioning of young skewing content across E4, E4 Extra, the Box 5 Music channels and digital commissioning for C4’s social channels (YouTube, TikTok, Instagram and Facebook). Recent hits have included _Married at First Sight UK_, E4’s biggest unscripted show ever, and digital-first bangers, _Secret Sauce_, _Celebrity Rebrand_ and the award winning, _Boy Who Climbed the Shard_.
 
 Prior to joining Channel 4 Karl was the Managing Director of Electric Ray, a joint venture with Sony Pictures Television, producing shows such as _The Class of 92_, _Million Pound Menu_, and _Bromans_. Before launching Electric Ray, Karl was a commissioning editor at the BBC, where he commissioned a range of shows including, _The Undercover Princes_, _Russell Howard’s Good News_ and _Junior Doctors_ for BBC Three, and _John Bishop’s Britain_, _Michael McIntyre’s Comedy Roadshow_ and _Live at the Apollo_ for BBC One.
 
 Before joining the BBC, Karl was Head of Development at Monkey Kingdom and a Senior Producer on _Big Brother_ and Soccer Aid.
 
-**Malcolm Gerrie**
-
+**Malcolm Gerrie**  
 After Malcolm left Tyne Tees TV he set up Initial Film and Television in 1990 with Eric Fellner. He sold the company to John de Mol and Endemol in 1998 but remained as CEO for ten years. He set up Whizz Kid Entertainment in 2006 with Patrick McKenna and Ingenious and produced hit shows such as _Ex On The Beach_, _Lip Sync Battle_, _Let’s Dance_, _The Match_, _Miami 7_ and _LA 7_, and the Emmy award-winning _Concerto_. He sold Whizz Kid to Entertainment One in 2018 and is now Chairman of Entertainment One’s UK Unscripted Division, which includes Daisy Beck studios in Leeds (producer of _The Yorkshire Vet_, amongst scores of other hit series).
 
 Malcolm has Exec Produced the BAFTA Film Awards for the past 22 years. He has an Honorary Doctorate from the University of Sunderland. He has helped create and produce over 30 major charity events including Band Aid, Red Hot And Blue, Fashion Rocks, Stand Up to Cancer, Soccer Aid, Let’s Dance for Comic Relief, and Raise the Roof for Prostate Cancer. Malcolm is also Chairman of Precious Media.
-
-<![endif]-->
+<br><br>
 
 **CHANNEL 4  
-40 YEARS OF REVOLUTION**
-
-**Music & Youth: The Tube + Discussion & Q&A**
-
-Fri 2 Sep 18:20
-
-**Comedy: Discussion & Q&A + The Comic Strip Presents: Five Go Mad in Dorset**
-
-Tue 6 Sep 18:15
+40 YEARS OF REVOLUTION**<br>
+**Music & Youth: The Tube + Discussion & Q&A**<br>
+Fri 2 Sep 18:20<br>
+**Comedy: Discussion & Q&A + The Comic Strip Presents: Five Go Mad in Dorset**<br>
+Tue 6 Sep 18:15<br>
 
 **Channel 4’s TV Drama Revolution:  
-Discussion + Q&A**
+Discussion + Q&A**<br>
 
-Sun 11 Sep 14:15
+Sun 11 Sep 14:15<br>
 
 **A Very British Coup + intro by  
-author Chris Mullin**
+author Chris Mullin**<br>
 
-Sun 11 Sep 16:30
+Sun 11 Sep 16:30<br>
 
 **Diversity: Handsworth Songs + Q&A with  
-John Akomfrah + Panel Discussion & Q&A**
+John Akomfrah + Panel Discussion & Q&A**<br>
 
-Mon 12 Sep 18:15
+Mon 12 Sep 18:15<br>
 
 **Out and Proud: Veronica 4 Rose  
 + Out on Tuesday + intro by original  
-Channel 4 Commissioner Caroline Spry**
+Channel 4 Commissioner Caroline Spry**<br>
 
-Thu 15 Sep 18:15
+Thu 15 Sep 18:15<br>
 
 **Access / Direct Speech: The Work They Say  
 Is Mine + Women of the Rhondda  
-+ Face of Our Fear**
++ Face of Our Fear**<br>
 
-Tue 20 Sep 18:15
+Tue 20 Sep 18:15<br>
 
-**Channel 4: The Television Revolution**
+**Channel 4: The Television Revolution**<br>
 
-Fri 23 Sep 18:20
+Fri 23 Sep 18:20<br>
 
 **Controversy: Jesus the Evidence + V  
-+ Mother Ireland**
++ Mother Ireland**<br>
 
-Sat 24 Sep 18:00
+Sat 24 Sep 18:00<br>
 
-**Who Needs Channel 4?**
+**Who Needs Channel 4?**<br>
 
-Wed 28 Sep 18:20
+Wed 28 Sep 18:20<br>
 
-**Channel 4 Then and Now conference**
+**Channel 4 Then and Now conference**<br>
 
 Fri 23 Sep 10:00–17:00 and Sat 24 Sep  
-10:00–17:00
+10:00–17:00<br>
 
 Regional screenings and events will be taking place at these venues across the UK (please go to **bfi.org.uk/whatson** for links): Arnolfini, Bristol; Filmhouse Edinburgh; Queen’s Film Theatre, Belfast; Y Drwm, National Library of Wales, Aberystwyth
 
-Explore thousands of titles from across  
-Channel 4’s history in our free Mediatheque
+Explore thousands of titles from across  Channel 4’s history in our free Mediatheque<br>
+<br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3NDg5MzU1XX0=
+eyJoaXN0b3J5IjpbLTE4MDEzNDQ4MjhdfQ==
 -->
