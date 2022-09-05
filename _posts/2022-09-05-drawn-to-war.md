@@ -31,38 +31,38 @@ Jeremy Irons _(voice of condolence official)_
 Samuel West _(pilot)_  
 Robin Mackenzie _(Ravilious wood engravings artist)_  
 Rory Bosence, Vinny Bosence _(boy Ravilious)_  
-Ben Hutchinson _(drowning man)_
+Ben Hutchinson _(drowning man)_  
 
 UK 2022  
 88 mins  
 
 A Dartmouth Films Release  
 
-**NEW RELEASES**
-**Queen of Glory**
-From 26 Aug
-**Official Competition**
-From 26 Aug
-**Wildhood**
-From Fri 2 Sep
-**Eric Ravilious: Drawn to War**
-From Mon 5 Sep
-**Bodies Bodies Bodies**
-From Fri 9 Sep
-**Crimes of the Future**
-From Fri 9 Sep
-**In Front of Your Face**
-From Fri 23 Sep
-**Flux Gourmet**
-From Fri 30 Sep
+**NEW RELEASES**  
+**Queen of Glory**  
+From 26 Aug  
+**Official Competition**  
+From 26 Aug  
+**Wildhood**  
+From Fri 2 Sep  
+**Eric Ravilious: Drawn to War**  
+From Mon 5 Sep  
+**Bodies Bodies Bodies**  
+From Fri 9 Sep  
+**Crimes of the Future**  
+From Fri 9 Sep  
+**In Front of Your Face**  
+From Fri 23 Sep  
+**Flux Gourmet**  
+From Fri 30 Sep  
 
-**RE-RELEASES**
-**Lost Highway**
-From Fri 2 Sep
-**Videodrome**
-From Sat 10 Sep
-**Jackie Brown**
+**RE-RELEASES**  
+**Lost Highway**  
+From Fri 2 Sep  
+**Videodrome**  
+From Sat 10 Sep  
+**Jackie Brown**  
 From Fri 16 Sep  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzI4MjM0XX0=
+eyJoaXN0b3J5IjpbMzk2MjM3OTMwXX0=
 -->
