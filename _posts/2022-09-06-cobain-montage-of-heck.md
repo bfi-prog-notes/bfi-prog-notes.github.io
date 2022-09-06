@@ -1,3 +1,14 @@
+---
+layout: post
+title: Cobain - Montage of Heck
+published: true
+date: 2022-09-06
+readtime: true
+categories: ['SOUND AND VISION']
+tags: [Documentary, Music]
+metadata: 'USA 2015, 132 mins<br> Director: Brett Morgen'
+pdf: '2022-09-06-cobain-montage-of-heck.pdf'
+---
 
 Pop time runs differently to clock time; it’s elastic, stretching like blown bubble gum and imploding to nothing. It hardly seems possible that Nirvana was in the wider public consciousness for barely two-and-a-half years before singer-guitarist Kurt Cobain’s death in 1994. The two decades since seem at the same time like nothing – the language of rock music has barely moved on in the meantime, instead regressing and digressing – and also like a lifetime. For a band so intent on vandalising the safe consensus of mainstream pop culture to become so huge today is all but unimaginable.
 
@@ -63,6 +74,24 @@ Opens Fri 16 Sep BFI IMAX<br>
 Did you know that the Starman himself was born in Brixton? Proud sponsors of our upcoming Bowie season, Brixton Brewery brew tasty, easy-drinking beers inspired by the electric neighbourhood they're proud to call home.  
 Visit brixtonbrewery.com and use code GETBRIXTONBFI for 20% off your next order.
 <br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNDA5Nzc4MzYzXX0=
 -->
