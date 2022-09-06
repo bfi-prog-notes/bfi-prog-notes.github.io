@@ -39,47 +39,30 @@ USA 2015©
 The screening on Tue 6 Sep will be  introduced by Brett Morgen
 <br><br>
 
-<![endif]-->
-
 **SOUND AND VISION**<br>
-
 **The Man Who Fell to Earth**<br>
+Sat 3 Sep 18:10; Sun 11 Sep 18:10;  Sun 18 Sep 15:00; Sat 1 Oct 20:20<br>
+**Cracked Actor**<br>
+Sun 4 Sep 13:50<br>
+**The Hunger**<br>
+Sun 4 Sep 18:20; Thu 22 Sep 20:50;  Thu 29 Sep 18:00<br>
+**The Kid Stays in the Picture**<br>
+Tue 6 Sep 18:00 + intro by Brett Morgen;  Sat 17 Sep 20:40<br>
+**Cobain: Montage of Heck**<br>
+Tue 6 Sep 20:15 + intro by Brett Morgen;  Wed 21 Sep 20:20<br>
+**Merry Christmas Mr. Lawrence**<br>
+Sat 10 Sep 16:00; Sun 18 Sep 18:00;  Tue 4 Oct 20:30<br>
+**Twin Peaks: Fire Walk with Me**<br>
+Sat 10 Sep 20:30; Mon 12 Sep 20:20;  Thu 29 Sep 20:25; Mon 3 Oct 20:20<br>
+**Moonage Daydream**<br>
+Opens Fri 16 Sep BFI IMAX<br>
 
-Sat 3 Sep 18:10; Sun 11 Sep 18:10;  
-Sun 18 Sep 15:00; Sat 1 Oct 20:20<br>
 
-**Cracked Actor**
 
-Sun 4 Sep 13:50
-
-**The Hunger**
-
-Sun 4 Sep 18:20; Thu 22 Sep 20:50;  
-Thu 29 Sep 18:00
-
-**The Kid Stays in the Picture**
-
-Tue 6 Sep 18:00 + intro by Brett Morgen;  
-Sat 17 Sep 20:40
-
-**Cobain: Montage of Heck**
-
-Tue 6 Sep 20:15 + intro by Brett Morgen;  
-Wed 21 Sep 20:20
-
-**Merry Christmas Mr. Lawrence**
-
-Sat 10 Sep 16:00; Sun 18 Sep 18:00;  
-Tue 4 Oct 20:30
-
-**Twin Peaks: Fire Walk with Me**
-
-Sat 10 Sep 20:30; Mon 12 Sep 20:20;  
-Thu 29 Sep 20:25; Mon 3 Oct 20:20
-
-**Moonage Daydream**
-
-Opens Fri 16 Sep BFI IMAX
+**GET A TASTE OF BRIXTON**  
+Did you know that the Starman himself was born in Brixton? Proud sponsors of our upcoming Bowie season, Brixton Brewery brew tasty, easy-drinking beers inspired by the electric neighbourhood they're proud to call home.  
+Visit brixtonbrewery.com and use code GETBRIXTONBFI for 20% off your next order.
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjc4NzA0MjVdfQ==
+eyJoaXN0b3J5IjpbNDA5Nzc4MzYzXX0=
 -->
