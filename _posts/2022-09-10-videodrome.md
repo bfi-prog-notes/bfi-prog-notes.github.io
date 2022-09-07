@@ -20,8 +20,7 @@ Eventually, perhaps, _Videodrome_ has more coherence as ‘A David Cronenberg Fi
 Pleasures do accompany the provocations, though: James Woods brings a suitably edgy quality to the first-person perspective, and Cronenberg once more conjures up a host of blandly sinister Toronto unknowns in effective support. Debbie Harry utilises her own poster-icon status to add resonance to her role as an S&M caricature (in one sequence _apparently_ echoing her character name of Nicki Brand with a taste for knife nicks on the shoulder and cigarette burns on the breast). But, operating exclusively as a function of Renn’s particular voyeurist impulses, she is eventually almost as constrained here as she was by her limiting roles in _The Foreigner_, _Union City_ and _Roadie_. None the less, however one receives the movie, it’s a certainty that Cronenberg’s customised line in living, breathing videocassettes will totally transform anyone’s innocent conception of ‘software’.  
 **Paul Taylor, _Monthly Film Bulletin_, November 1983**  
 
-**VIDEODROME**
-
+**VIDEODROME**  
 _Director_: David Cronenberg  
 _Production Companies_: Filmplan International, Guardian Trust Company, Canadian Film Development Corporation, Famous Players  
 _Executive Producers_: Victor Solnicki, Pierre David  
@@ -53,7 +52,7 @@ _Choreography_: Kirsteen Etherington
 _Sound Recording_: Bryan Day  
 _Sound Re-recording_: Paul Coombe, Michael Hoogenboom, Elius Caruso  
 _Supervising Sound Editor_: Peter Burgess  
-_Creative Consultant_: Denise Di Novi
+_Creative Consultant_: Denise Di Novi  
 
 **Cast**  
 James Woods _(Max Renn)_  
@@ -80,5 +79,5 @@ Canada 1983
 
 Park Circus  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Nzk4ODQzNF19
+eyJoaXN0b3J5IjpbNzUyNDg0MjYwXX0=
 -->
