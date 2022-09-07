@@ -41,20 +41,20 @@ Three Nortons we found in Argentina. Two were in miserable condition when we sta
 **Nick James, _Sight & Sound_, September 2004**  
 
 **THE MOTORCYCLE DIARIES**  
-_Director:_ Walter Salles
-_©/Presented by:_ FilmFour
-_Production Company:_ South Fork Pictures
-_In association with:_ Tu Vas Voir
-_Executive Producers:_ Robert Redford, Paul Webster, Rebecca Yeldham
-_Produced by:_ Michael Nozik, Edgard Tenembaum, Karen Tenkhoff
-_Co-producers:_ Daniel Burman, Diego Dubcovsky
-_Executive in Charge of Production:_ Peter McAleese
-_Production Financing for FilmFour:_ Kim Ballard
-_Andrés Wood Producciones:_ Patricio Pereira
-_Co-ordinator for Tu Vas Voir:_ Bernard Berge
-_Co-ordinator for FilmFour:_ Laura Franses
-_Casting:_ Walter Rippel
-_Screenplay:_ José Rivera
+_Director:_ Walter Salles  
+_©/Presented by:_ FilmFour  
+_Production Company:_ South Fork Pictures  
+_In association with:_ Tu Vas Voir  
+_Executive Producers:_ Robert Redford, Paul Webster, Rebecca Yeldham  
+_Produced by:_ Michael Nozik, Edgard Tenembaum, Karen Tenkhoff  
+_Co-producers:_ Daniel Burman, Diego Dubcovsky  
+_Executive in Charge of Production:_ Peter McAleese  
+_Production Financing for FilmFour:_ Kim Ballard  
+_Andrés Wood Producciones:_ Patricio Pereira  
+_Co-ordinator for Tu Vas Voir:_ Bernard Berge  
+_Co-ordinator for FilmFour:_ Laura Franses  
+_Casting:_ Walter Rippel  
+_Screenplay:_ José Rivera  
 _Based on the books:_ ‘The Motorcycle Diaries’ by  Ernesto Che Guevara, ‘With Che through Latin America’ by Alberto Granado
 _Director of Photography:_ Éric Gautier
 _Editor:_ Daniel Rezende
@@ -91,7 +91,7 @@ _Special Thanks to:_ Ettore Scola
 _Press Liaison:_ Furgang Comunicaciones
 _Unit Publicist:_ Emma Chapman
 
-**Argentinian cast**
+**Argentinian cast**  
 Gael García Bernal _(Ernesto Guevara de la Serna)_  
 Rodrigo de la Serna _(Alberto Granado)_  
 Mía Maestro _(Chichina)_  
@@ -101,14 +101,11 @@ Lucas Oro _(Roberto Guevara)_
 Marina Glezer _(Celita Guevara)_  
 Sofía Bertolotto _(Ana María Guevara)_  
 Franco Solazzi _(Juan Martín Guevara)_
-
 Ricardo Díaz Mourelle _(Uncle Jorge)_
-
 Sergio Boris, Daniel Kargieman _(young travellers)_  
 Diego Giorzi _(Rodolfo)_  
 Facundo Espinoza _(Tomás Granado)_  
 Matías Gómez, Diego Treu, Ariel Verdún,
-
 Gustavo Mansilla _(kids)_  
 Susana Lanteri _(Aunt Rosana)_  
 Natalia Lobo _(La Negra)_  
@@ -122,9 +119,7 @@ Guillermo Ojeda _(man with oxen cart)_
 Fernando Ignacio Llosa _(Von Puttkamer)_  
 Marta Lubos _(Schatzie Von Puttkamer)_
 
-  
 **Chilean cast**
-
 Cristian F. Chaparro _(Luna)_  
 Cristian Arancibia _(Tulio)_  
 Gabriela Aguilera _(Piedad)_  
@@ -147,10 +142,8 @@ María Esther Zamora _(Chipi Chipi band singer)_
 Jorge Lobos _(Chipi Chipi band percussionist/trumpeter)_  
 Cuti Aste _(Chipi Chipi band clarinet/accordion)_  
 Robert Lindl _(Chipi Chipi band double bass player)_
-
   
 **Peruvian cast**
-
 Gustavo Morales _(Felix)_  
 Gustavo Bueno _(Dr Hugo Pesce)_  
 María Beatriz Abele _(Zdenka Pesce)_  
@@ -172,5 +165,5 @@ Igor Calvo _(Dr Souza)_
 UK/USA/France 2004©  
 126 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4MTAxMzM3XX0=
+eyJoaXN0b3J5IjpbNDYyMTQ3OTQ3XX0=
 -->
