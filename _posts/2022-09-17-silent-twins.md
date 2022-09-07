@@ -73,21 +73,8 @@ _Special Effects Make-up_: Eliza Bergchauzen
 _Music by/Original Music & Songs by_: Marcin Macuk, Zuzanna Wrońska  
 _Additional Music by_: djLenar  
 _Piano/Synths/Strings/Voice/Drums/Percussion/_
-
 _Bass [Performed by]_: Marcin Macuk  
 _Piano/Vocals [Performed by]_: Zuzanna Wrońska  
-_Music Supervisors_: Pawel Juzwuk, Marcin Macuk  
-_Music Producer_: Marcin Macuk  
-_Choreographer & Movement Coach_: Kaya Kołodziejczyk  
-_Supervising Sound Designer_: Lenarczyk  
-_Sound Recordist_: Mariusz Bielecki  
-_Production Sound Mixer_: Maria Chilarecka  
-_Re-recording Mixer_: Matthias Schwab
-
-_Dialogue & ADR Editor_: Adele Fletcher  
-_Stunt Co-ordinator_: Jaroslaw Golec  
-_Dialect Coach_: Hazel Holder
-
 _Music Supervisors_: Pawel Juzwuk, Marcin Macuk  
 _Music Producer_: Marcin Macuk  
 _Choreographer & Movement Coach_: Kaya Kołodziejczyk  
@@ -97,10 +84,19 @@ _Production Sound Mixer_: Maria Chilarecka
 _Re-recording Mixer_: Matthias Schwab  
 _Dialogue & ADR Editor_: Adele Fletcher  
 _Stunt Co-ordinator_: Jaroslaw Golec  
-_Dialect Coach_: Hazel Holder
+_Dialect Coach_: Hazel Holder  
+_Music Supervisors_: Pawel Juzwuk, Marcin Macuk  
+_Music Producer_: Marcin Macuk  
+_Choreographer & Movement Coach_: Kaya Kołodziejczyk  
+_Supervising Sound Designer_: Lenarczyk  
+_Sound Recordist_: Mariusz Bielecki  
+_Production Sound Mixer_: Maria Chilarecka  
+_Re-recording Mixer_: Matthias Schwab  
+_Dialogue & ADR Editor_: Adele Fletcher  
+_Stunt Co-ordinator_: Jaroslaw Golec  
+_Dialect Coach_: Hazel Holder  
 
-**Cast**
-
+**Cast**  
 Letitia Wright _(June Gibbons)_  
 Tamara Lawrance _(Jennifer Gibbons)_  
 Nadine Marshall _(Gloria)_  
@@ -126,5 +122,5 @@ Poland-UK-USA 2022
 Courtesy of Focus Features  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2OTUyMjkyXX0=
+eyJoaXN0b3J5IjpbLTI4NTY0NzYxNl19
 -->
