@@ -85,38 +85,31 @@ Canada-UK-Greece 2022
 Vertigo release  
 
 
-**NEW RELEASES**
-**Queen of Glory**
-From 26 Aug
-**Official Competition**
-From 26 Aug
-**Wildhood**
-From Fri 2 Sep
-**Eric Ravilious: Drawn to War**
-From Mon 5 Sep
-**Bodies Bodies Bodies**
-From Fri 9 Sep
-**Crimes of the Future**
-From Fri 9 Sep
-**In Front of Your Face**
-From Fri 23 Sep
-**Flux Gourmet**
-
-From Fri 30 Sep
+**NEW RELEASES**  
+**Queen of Glory**  
+From 26 Aug  
+**Official Competition**  
+From 26 Aug  
+**Wildhood**  
+From Fri 2 Sep  
+**Eric Ravilious: Drawn to War**  
+From Mon 5 Sep  
+**Bodies Bodies Bodies**  
+From Fri 9 Sep  
+**Crimes of the Future**  
+From Fri 9 Sep  
+**In Front of Your Face**  
+From Fri 23 Sep  
+**Flux Gourmet**  
+From Fri 30 Sep  
 
 **RE-RELEASES**
-
 **Lost Highway**
-
 From Fri 2 Sep
-
 **Videodrome**
-
 From Sat 10 Sep
-
 **Jackie Brown**
-
 From Fri 16 Sep
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTIzOTIyNF19
+eyJoaXN0b3J5IjpbLTQ2ODA0MTIxOF19
 -->
