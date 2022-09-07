@@ -1,3 +1,14 @@
+---
+layout: post
+title: On the Come Up
+published: true
+date: 2022-09-16
+readtime: true
+categories: ['S.O.U.L. FEST']
+tags: [Drama, Music]
+metadata: 'USA 2022, 115 mins<br> Director: Sanaa Lathan'
+pdf: '2022-09-16-on-the-come-up.pdf'
+---
 
 _On the Come Up_ is based on the _New York Times_ #1 best-selling novel by Angie Thomas (_The Hate U Give_) and is the feature directorial debut of Emmy-nominated actress Sanaa Lathan. _On the Come Up_  will hold its World Premiere at the 2022 Toronto International Film Festival.
 
@@ -51,7 +62,26 @@ USA 2022
 115 mins  
 
 Courtesy of Paramount Pictures/Paramount+  
+<br>
+Courtesy of Focus Features  
+<br>
+<img style="float: left;" src="/img/ABFF.jpg" width="30%" height="30%">
+<br><br><br><br>
+<img style="float: left;" src="/img/SOUL.png" width="30%" height="30%">
+<br><br><br><br><br><br><br>
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTk2Mjg1Nl19
--->
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
