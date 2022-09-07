@@ -124,9 +124,7 @@ Ashley Cowan _(callow youth)_
 Gabrielle Windsor _(ballet girl)_  
 Joe Garcia _(collector)_  
 John Bambury _(midget)_  
-Diane Lee Stewart, Doretta Johnson, Vera Stokes, Lorraine Gale
-
-_(girl friends)_  
+Diane Lee Stewart, Doretta Johnson, Vera Stokes, Lorraine Gale _(girl friends)_  
 Tay Dunn _(young officer)_  
 Polly Bailey _(passenger)_  
 Arthur Lovejoy _(footman)_  
@@ -152,5 +150,5 @@ Manuel Paris _(Baron’s second)_
 USA 1948©  
 87 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDAxNDcyMjNdfQ==
+eyJoaXN0b3J5IjpbLTIzOTc3MzE5M119
 -->
