@@ -25,46 +25,30 @@ My euphoria was short-lived. In the latter part of April, _Letter from an Unknow
   
 
 **LETTER FROM AN UNKNOWN WOMAN**  
-
-_Director:_ Max Opuls [Ophuls]
-
+_Director:_ Max Opuls [Ophuls]  
 _Production Company:_ Rampart Productions  
-_Presented by:_ William Dozier
-
+_Presented by:_ William Dozier  
 _Producer:_ John Houseman  
-_Co-ordinator of Production:_ John Hambleton
-
-_Assistant Director:_ John F. Sherwood
-
-_Screenplay:_ Howard Koch
-
+_Co-ordinator of Production:_ John Hambleton  
+_Assistant Director:_ John F. Sherwood  
+_Screenplay:_ Howard Koch  
 _Based on the novel by:_ Stefan Zweig  
-_Director of Photography:_ Frank Planer
-
-_Editor:_ Ted J. Kent
-
+_Director of Photography:_ Frank Planer  
+_Editor:_ Ted J. Kent  
 _Art Director:_ Alexander Golitzen  
-_Set Decorators:_ Russell A. Gausman, Ruby R. Levitt
-
-_Gowns:_ Travis Banton
-
-_Make-up:_ Bud Westmore
-
-_Hairstylist:_ Carmen Dirigo
-
-_Musical Score:_ Daniele Amfitheatrof
-
-_Orchestrations:_ David Tamkin
-
-_Technical Adviser:_ Paul Elbogen
-
+_Set Decorators:_ Russell A. Gausman, Ruby R. Levitt  
+_Gowns:_ Travis Banton  
+_Make-up:_ Bud Westmore  
+_Hairstylist:_ Carmen Dirigo  
+_Musical Score:_ Daniele Amfitheatrof  
+_Orchestrations:_ David Tamkin  
+_Technical Adviser:_ Paul Elbogen  
 _uncredited_  
 _Production Manager:_ Edward K. Dodds  
 _2nd Assistant Director:_ Les Warner  
 _3rd Assistant Director:_ Mickey Bennett  
 _Script Supervisor:_ Adele Cannon  
 _Casting:_ Mildred Gusse
-
 _Special Photography:_ David S. Horsley  
 _Matte Camera:_ Glenn Adams  
 _Matte Camera Assistant:_ Robert Pierce  
@@ -75,7 +59,6 @@ _Grips:_ Roland Smith, Ben Hawkins
 _Gaffer:_ Tom Oulette  
 _Electrician:_ Tex Bellan  
 _Stills:_ Bert Anderson, William Wallace
-
 _Supervising Art Director:_ Bernard Herzbrun  
 _Set Decorator:_ Charlie Baker  
 _Props:_ Wally Kirkpatrick, Earl Neal  
@@ -87,10 +70,9 @@ _Choreography:_ Bert Prival
 _Sound:_ Leslie I. Carey, Glenn F. Anderson  
 _Sound Technician:_ Martin Brown  
 _Boom Operator:_ Frank Gorbach  
-_Horses/Carriages:_ Jim Phillips
+_Horses/Carriages:_ Jim Phillips  
 
-**Cast**
-
+**Cast**  
 Joan Fontaine _(Lisa Berndle)_  
 Louis Jourdan _(Stefan Brand)_  
 Mady Christians _(Frau Berndle)_  
@@ -175,5 +157,5 @@ Manuel Paris _(Baron’s second)_
 USA 1948©  
 87 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDI4MzcyN119
+eyJoaXN0b3J5IjpbMjE5Nzg3MzA1XX0=
 -->
