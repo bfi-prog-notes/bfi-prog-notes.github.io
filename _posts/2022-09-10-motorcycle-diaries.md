@@ -1,8 +1,5 @@
-<![endif]-->
 
-In December 1951, 23-year-old medical student Ernesto Guevara, who in the future would become the iconic revolutionary leader ‘Che’, took a long motorcycle trip with his friend Alberto Granado on a Norton named  
-La Poderosa II (The Powerful One). They left Cordoba in central Argentina, headed first to Buenos Aires to visit Ernesto’s family, then speeded west to the coast of Chile, then north along the Pacific seaboard through Peru and Colombia, ending up in Venezuela in July 1952. This six-month mini-Odyssey, full of mishaps and chance meetings, was the basis for Guevara’s book  
-_The Motorcycle Diaries_, an impressionable, idealistic youth’s thoughtful commentary on his road encounters and the harsh realities of South American life, which became a backpack classic in the 1960s when Che’s fame was at its height.
+In December 1951, 23-year-old medical student Ernesto Guevara, who in the future would become the iconic revolutionary leader ‘Che’, took a long motorcycle trip with his friend Alberto Granado on a Norton named  La Poderosa II (The Powerful One). They left Cordoba in central Argentina, headed first to Buenos Aires to visit Ernesto’s family, then speeded west to the coast of Chile, then north along the Pacific seaboard through Peru and Colombia, ending up in Venezuela in July 1952. This six-month mini-Odyssey, full of mishaps and chance meetings, was the basis for Guevara’s book  _The Motorcycle Diaries_, an impressionable, idealistic youth’s thoughtful commentary on his road encounters and the harsh realities of South American life, which became a backpack classic in the 1960s when Che’s fame was at its height.
 
 In these morally more slippery times, the need for such positive political certainty has led to a revival of interest in Guevara, the most obvious manifestation of which is the elegiac new road movie based on the book from Brazilian director Walter Salles, which stars Gael Garda Bernal, possibly the most brilliant young actor of his generation, as Che and Rodrigo de la Serna as Granado. The film avoids the tub-thumping clichés of the average biopic, choosing to portray the dawning of Guevara’s social conscience by inference and mood rather than through overt political statement – at least until the climactic moment when he swims the Amazon in Peru from the bank where the medical workers sleep to the camp where the lepers they tend reside. Salles also weaves in close-u p photographic studies of South America’s poor.
 
@@ -40,48 +37,28 @@ It varied from a hundred in the leper colony in Peru – 70 of them non-actors �
 
 _How many motorbikes did you get through?_
 
-Three Nortons we found in Argentina. Two were in miserable condition when we started, but Gustavo Agra, a genius mechanic in Buenos Aires, reconditioned them so they were running better than ever. The bikes in the accidents are what we called Nortukis: Suzukis transformed into Nortons. Those broke shamelessly every time we put them on the road, even before shooting the falls. The 1935 Nortons were way more solid than the 1989 Nortukis.
+Three Nortons we found in Argentina. Two were in miserable condition when we started, but Gustavo Agra, a genius mechanic in Buenos Aires, reconditioned them so they were running better than ever. The bikes in the accidents are what we called Nortukis: Suzukis transformed into Nortons. Those broke shamelessly every time we put them on the road, even before shooting the falls. The 1935 Nortons were way more solid than the 1989 Nortukis.  
+**Nick James, _Sight & Sound_, September 2004**  
 
-**Nick James, _Sight & Sound_, September 2004**
-
-**THE MOTORCYCLE DIARIES**
-
+**THE MOTORCYCLE DIARIES**  
 _Director:_ Walter Salles
-
 _©/Presented by:_ FilmFour
-
 _Production Company:_ South Fork Pictures
-
 _In association with:_ Tu Vas Voir
-
 _Executive Producers:_ Robert Redford, Paul Webster, Rebecca Yeldham
-
 _Produced by:_ Michael Nozik, Edgard Tenembaum, Karen Tenkhoff
-
 _Co-producers:_ Daniel Burman, Diego Dubcovsky
-
 _Executive in Charge of Production:_ Peter McAleese
-
 _Production Financing for FilmFour:_ Kim Ballard
-
 _Andrés Wood Producciones:_ Patricio Pereira
-
 _Co-ordinator for Tu Vas Voir:_ Bernard Berge
-
 _Co-ordinator for FilmFour:_ Laura Franses
-
 _Casting:_ Walter Rippel
-
 _Screenplay:_ José Rivera
-
 _Based on the books:_ ‘The Motorcycle Diaries’ by  Ernesto Che Guevara, ‘With Che through Latin America’ by Alberto Granado
-
 _Director of Photography:_ Éric Gautier
-
 _Editor:_ Daniel Rezende
-
 _Production Designer:_ Carlos Conti
-
 _Artistic Supervisor:_ Gianni Ninà
 
 _Producción de Arte:_ Nelso ‘Coco’ Castillo
@@ -221,13 +198,12 @@ Carolina Infante _(Sister Margarita)_
 Nidia Bermejo _(young Indian nurse)_  
 Carlos 'Caitro' Soto De La Colina _(Papa Carlito)_  
 Delfina Paredes _(Mother Sister Alberto)_  
-Nemesio Reyes, Hernán Herrera_(lepers from San Pablo)_  
+Nemesio Reyes, Hernán Herrera _(lepers from San Pablo)_  
 Antonella Costa _(Silvia)_  
-Igor Calvo _(Dr Souza)_
+Igor Calvo _(Dr Souza)_  
 
-UK/USA/France 2004©
-
-126 mins
+UK/USA/France 2004©  
+126 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk4OTU4NzhdfQ==
+eyJoaXN0b3J5IjpbLTE0NTc2NTk0NDVdfQ==
 -->
