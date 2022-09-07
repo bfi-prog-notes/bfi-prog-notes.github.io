@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Silent Twins
+published: true
+date: 2022-09-17
+readtime: true
+categories: ['S.O.U.L. FEST']
+tags: [Drama]
+metadata: 'Poland-UK-USA 2022, 113 mins<br> Director: Agnieszka Smoczynska'
+pdf: '2022-09-17-silent-twins.pdf'
+---
 _+ Q&A with actors Tamara Lawrance and Letitia Wright_
 
 June and Jennifer Gibbons were not always silent. Born in 1963, their early childhood involved following wherever the RAF work of their father took them, before the family settled in Haverfordwest, a town in Pembrokeshire, Wales. School life was not easy for the only West Indian kids in the area; the twins suffered much bullying for looking and acting differently to those around them. At home the pair had always been somewhat withdrawn from their siblings and parents, but increasingly these behavioUrs became more extreme and isolating.
@@ -120,7 +130,24 @@ Poland-UK-USA 2022
 113 mins  
 
 Courtesy of Focus Features  
+<br>
+<img style="float: left;" src="/img/ABFF.jpg" width="30%" height="30%">
+<br><br><br><br>
+<img style="float: left;" src="/img/SOUL.png" width="30%" height="30%">
+<br><br><br><br><br><br><br>
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTY0NzYxNl19
--->
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
