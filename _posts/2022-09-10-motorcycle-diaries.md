@@ -60,72 +60,39 @@ _Director of Photography:_ Éric Gautier
 _Editor:_ Daniel Rezende
 _Production Designer:_ Carlos Conti
 _Artistic Supervisor:_ Gianni Ninà
-
 _Producción de Arte:_ Nelso ‘Coco’ Castillo
-
 _Costume Designers:_ Beatriz Di Benedetto, Marisa Urruti
-
 _Title Design:_ Susan Bradley Film Design
-
 _Titles/Opticals:_ Title House Digital
-
 _Music:_ Gustavo Santaolalla
-
 _Guitars/Guitarron/Ronroco/Charango/Caja/Pipes/_
-
 _Percussion/Vibes/Flutes/Bass:_ Gustavo Santaolalla
-
 _Flutes:_ Don Markese
-
 _Cajón:_ Braulio Barrera
-
 _Violín:_ Javier Casalla
-
 _Music Supervisor:_ Adrián Sosa
-
 _Executive in Charge of the Soundtrack Album:_ Kathy Nelson
-
-_Music Editors:_ Aníbal Kerpel, Stephen Lotwis, Robert Boyd,
-
-David Lee Scott
-
+_Music Editors:_ Aníbal Kerpel, Stephen Lotwis, Robert Boyd, David Lee Scott
 _Music Recordist:_ Aníbal Kerpel
-
 _Additional [Music] Recording:_ Hector Coulon
-
 _Sound Recordist:_ Jean-Claude Brisson
-
 _Re-recording Mixers:_ Patrick Giraudi, Todd Orr
-
 _Re-recordists:_ Andrea Lakin, Chris Sidor
-
 _Supervising Sound Editor:_ Frank Gaeta
-
 _Sound Editors:_ Javier Bennassar, Jed Dodge, Dennis Twitty, Todd Niesen
-
 _Dialogue Supervisor:_ Patricio Libenson
-
 _ADR Supervisor:_ Patricio Libenson
-
-_Loop Group Leaders:_ Vera Taylor, Miguel Valdarrago, Gabriel Rodríguez,
-
-Patricio Castillo
-
+_Loop Group Leaders:_ Vera Taylor, Miguel Valdarrago, Gabriel Rodríguez, Patricio Castillo
 _ADR Mixers:_ Peter Gleaves, Anne Hadsell, Lauro Galindo
-
 _Foley Artists:_ Catherine Harper, Chris Moriana
-
 _Foley Mixer:_ Gary Coppola
-
 _Dolby Consultant:_ Bryan Arenas
-
 _Special Thanks to:_ Ettore Scola
-
 _Press Liaison:_ Furgang Comunicaciones
-
 _Unit Publicist:_ Emma Chapman
 
-**Argentinian cast****:**Gael García Bernal _(Ernesto Guevara de la Serna)_  
+**Argentinian cast**
+Gael García Bernal _(Ernesto Guevara de la Serna)_  
 Rodrigo de la Serna _(Alberto Granado)_  
 Mía Maestro _(Chichina)_  
 Mercedes Morán _(Celia de la Serna)_  
@@ -205,5 +172,5 @@ Igor Calvo _(Dr Souza)_
 UK/USA/France 2004©  
 126 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc2NTk0NDVdfQ==
+eyJoaXN0b3J5IjpbNjc4MTAxMzM3XX0=
 -->
