@@ -55,41 +55,41 @@ _Co-ordinator for Tu Vas Voir:_ Bernard Berge
 _Co-ordinator for FilmFour:_ Laura Franses  
 _Casting:_ Walter Rippel  
 _Screenplay:_ José Rivera  
-_Based on the books:_ ‘The Motorcycle Diaries’ by  Ernesto Che Guevara, ‘With Che through Latin America’ by Alberto Granado
-_Director of Photography:_ Éric Gautier
-_Editor:_ Daniel Rezende
-_Production Designer:_ Carlos Conti
-_Artistic Supervisor:_ Gianni Ninà
-_Producción de Arte:_ Nelso ‘Coco’ Castillo
-_Costume Designers:_ Beatriz Di Benedetto, Marisa Urruti
-_Title Design:_ Susan Bradley Film Design
-_Titles/Opticals:_ Title House Digital
-_Music:_ Gustavo Santaolalla
+_Based on the books:_ ‘The Motorcycle Diaries’ by Ernesto Che Guevara, ‘With Che through Latin America’ by Alberto Granado  
+_Director of Photography:_ Éric Gautier  
+_Editor:_ Daniel Rezende  
+_Production Designer:_ Carlos Conti  
+_Artistic Supervisor:_ Gianni Ninà  
+_Producción de Arte:_ Nelso ‘Coco’ Castillo  
+_Costume Designers:_ Beatriz Di Benedetto, Marisa Urruti  
+_Title Design:_ Susan Bradley Film Design  
+_Titles/Opticals:_ Title House Digital  
+_Music:_ Gustavo Santaolalla  
 _Guitars/Guitarron/Ronroco/Charango/Caja/Pipes/_
-_Percussion/Vibes/Flutes/Bass:_ Gustavo Santaolalla
-_Flutes:_ Don Markese
-_Cajón:_ Braulio Barrera
-_Violín:_ Javier Casalla
-_Music Supervisor:_ Adrián Sosa
-_Executive in Charge of the Soundtrack Album:_ Kathy Nelson
-_Music Editors:_ Aníbal Kerpel, Stephen Lotwis, Robert Boyd, David Lee Scott
-_Music Recordist:_ Aníbal Kerpel
-_Additional [Music] Recording:_ Hector Coulon
-_Sound Recordist:_ Jean-Claude Brisson
-_Re-recording Mixers:_ Patrick Giraudi, Todd Orr
-_Re-recordists:_ Andrea Lakin, Chris Sidor
-_Supervising Sound Editor:_ Frank Gaeta
-_Sound Editors:_ Javier Bennassar, Jed Dodge, Dennis Twitty, Todd Niesen
-_Dialogue Supervisor:_ Patricio Libenson
-_ADR Supervisor:_ Patricio Libenson
-_Loop Group Leaders:_ Vera Taylor, Miguel Valdarrago, Gabriel Rodríguez, Patricio Castillo
-_ADR Mixers:_ Peter Gleaves, Anne Hadsell, Lauro Galindo
-_Foley Artists:_ Catherine Harper, Chris Moriana
-_Foley Mixer:_ Gary Coppola
-_Dolby Consultant:_ Bryan Arenas
-_Special Thanks to:_ Ettore Scola
-_Press Liaison:_ Furgang Comunicaciones
-_Unit Publicist:_ Emma Chapman
+_Percussion/Vibes/Flutes/Bass:_ Gustavo Santaolalla  
+_Flutes:_ Don Markese  
+_Cajón:_ Braulio Barrera  
+_Violín:_ Javier Casalla  
+_Music Supervisor:_ Adrián Sosa  
+_Executive in Charge of the Soundtrack Album:_ Kathy Nelson  
+_Music Editors:_ Aníbal Kerpel, Stephen Lotwis, Robert Boyd, David Lee Scott  
+_Music Recordist:_ Aníbal Kerpel  
+_Additional [Music] Recording:_ Hector Coulon  
+_Sound Recordist:_ Jean-Claude Brisson  
+_Re-recording Mixers:_ Patrick Giraudi, Todd Orr  
+_Re-recordists:_ Andrea Lakin, Chris Sidor  
+_Supervising Sound Editor:_ Frank Gaeta  
+_Sound Editors:_ Javier Bennassar, Jed Dodge, Dennis Twitty, Todd Niesen  
+_Dialogue Supervisor:_ Patricio Libenson  
+_ADR Supervisor:_ Patricio Libenson  
+_Loop Group Leaders:_ Vera Taylor, Miguel Valdarrago, Gabriel Rodríguez, Patricio Castillo  
+_ADR Mixers:_ Peter Gleaves, Anne Hadsell, Lauro Galindo  
+_Foley Artists:_ Catherine Harper, Chris Moriana  
+_Foley Mixer:_ Gary Coppola  
+_Dolby Consultant:_ Bryan Arenas  
+_Special Thanks to:_ Ettore Scola  
+_Press Liaison:_ Furgang Comunicaciones  
+_Unit Publicist:_ Emma Chapman  
 
 **Argentinian cast**  
 Gael García Bernal _(Ernesto Guevara de la Serna)_  
@@ -100,13 +100,12 @@ Jean-Pierre Noher _(Ernesto Guevara Lynch)_
 Lucas Oro _(Roberto Guevara)_  
 Marina Glezer _(Celita Guevara)_  
 Sofía Bertolotto _(Ana María Guevara)_  
-Franco Solazzi _(Juan Martín Guevara)_
-Ricardo Díaz Mourelle _(Uncle Jorge)_
+Franco Solazzi _(Juan Martín Guevara)_  
+Ricardo Díaz Mourelle _(Uncle Jorge)_  
 Sergio Boris, Daniel Kargieman _(young travellers)_  
 Diego Giorzi _(Rodolfo)_  
 Facundo Espinoza _(Tomás Granado)_  
-Matías Gómez, Diego Treu, Ariel Verdún,
-Gustavo Mansilla _(kids)_  
+Matías Gómez, Diego Treu, Ariel Verdún, Gustavo Mansilla _(kids)_  
 Susana Lanteri _(Aunt Rosana)_  
 Natalia Lobo _(La Negra)_  
 Maída Andrenacci, Bárbara Lombardo,Dana Frijoli, Valeria Echeverría,  Ariel Prieto,  Matías Strafe, Nicolás Watson _(Chichina friends)_  
@@ -165,5 +164,5 @@ Igor Calvo _(Dr Souza)_
 UK/USA/France 2004©  
 126 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyMTQ3OTQ3XX0=
+eyJoaXN0b3J5IjpbLTY4MjI2NzEyNV19
 -->
