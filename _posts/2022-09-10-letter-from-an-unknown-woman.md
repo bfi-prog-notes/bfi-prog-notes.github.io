@@ -48,7 +48,7 @@ _Production Manager:_ Edward K. Dodds
 _2nd Assistant Director:_ Les Warner  
 _3rd Assistant Director:_ Mickey Bennett  
 _Script Supervisor:_ Adele Cannon  
-_Casting:_ Mildred Gusse
+_Casting:_ Mildred Gusse  
 _Special Photography:_ David S. Horsley  
 _Matte Camera:_ Glenn Adams  
 _Matte Camera Assistant:_ Robert Pierce  
@@ -58,7 +58,7 @@ _Dolly Grips:_ Lester Kahn, Arvid Woodin
 _Grips:_ Roland Smith, Ben Hawkins  
 _Gaffer:_ Tom Oulette  
 _Electrician:_ Tex Bellan  
-_Stills:_ Bert Anderson, William Wallace
+_Stills:_ Bert Anderson, William Wallace  
 _Supervising Art Director:_ Bernard Herzbrun  
 _Set Decorator:_ Charlie Baker  
 _Props:_ Wally Kirkpatrick, Earl Neal  
@@ -84,21 +84,16 @@ John Good _(Lt Leopold von Kaltnegger)_
 Leo B. Pessin _(Stefan Jr)_  
 Erskine Sanford _(porter)_  
 Otto Waldis _(concierge)_  
-Sonja Bryden _(Frau Spitzer)_
-
+Sonja Bryden _(Frau Spitzer)_  
 _uncredited_  
 Patricia Alphin _(Pretty)_  
-William Trenk _(Fritzel)_
-
+William Trenk _(Fritzel)_  
 Fred Nurney _(officer on street)_  
 Torben Meyer _(driver)_  
 Hermine Sterler _(mother superior)_  
 C.S. Ramsay-Hill _(Colonel Steindorf)_  
-Will Lee, William Hall, Paul Peter Szemere,  
-Sven Hugo Borg _(movers)_  
-Lotte Stein, Lisa Golm, Liesl Valetti, Mary Worth, James Shade,
-
-Tom Costello _(musicians)_  
+Will Lee, William Hall, Paul Peter Szemere, Sven Hugo Borg _(movers)_  
+Lotte Stein, Lisa Golm, Liesl Valetti, Mary Worth, James Shade, Tom Costello _(musicians)_  
 Ilka Grüning _(ticket taker)_  
 Roland Varno, Norbert Schiller _(seconds)_  
 Leo Mostovoy, Shimen Ruskin _(older men)_  
@@ -157,5 +152,5 @@ Manuel Paris _(Baron’s second)_
 USA 1948©  
 87 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5Nzg3MzA1XX0=
+eyJoaXN0b3J5IjpbLTE0NDAxNDcyMjNdfQ==
 -->
