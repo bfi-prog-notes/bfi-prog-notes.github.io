@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Videodrome
+published: true
+date: 2022-09-10
+readtime: true
+categories: ['RE-RELEASES']
+tags: [Sci-Fi, Horror, Thriller]
+metadata: 'Canada 1983, 87 mins<br> Director: David Cronenberg'
+pdf: '2022-09-10-videodrome.pdf'
+---
 
 In pursuit of sensational television programming that will push boundaries, a station CEO (James Woods) stumbles across a disturbing snuff-broadcast, which seemingly starts to melt into his own reality. Ahead of David Cronenberg’s highly anticipated latest feature _Crimes of the Future_, dive into a brand new, director-approved, 4K restoration of one of the body horror king’s original, most provocative works.  
 **bfi.org.uk**  
@@ -78,6 +88,47 @@ Canada 1983
 87 mins  
 
 Park Circus  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyNDg0MjYwXX0=
--->
+<br>
+
+**NEW RELEASES**  
+**Queen of Glory**  
+From 26 Aug  
+**Official Competition**  
+From 26 Aug  
+**Wildhood**  
+From Fri 2 Sep  
+**Eric Ravilious: Drawn to War**  
+From Mon 5 Sep  
+**Bodies Bodies Bodies**  
+From Fri 9 Sep  
+**Crimes of the Future**  
+From Fri 9 Sep  
+**In Front of Your Face**  
+From Fri 23 Sep  
+**Flux Gourmet**  
+From Fri 30 Sep  
+
+**RE-RELEASES**  
+**Lost Highway**  
+From Fri 2 Sep  
+**Videodrome**  
+From Sat 10 Sep  
+**Jackie Brown**  
+From Fri 16 Sep  
+<br>
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
