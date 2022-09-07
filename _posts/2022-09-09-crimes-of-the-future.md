@@ -41,14 +41,8 @@ _With the participation of_: Ekome, Greek Film Center, Ontario Creates
 _Produced in association with_: Wiffle Films  
 _Presented by_: Neon, Téléfilm Canada, Ingenious Media  
 _With_: Serendipity Point Films  
-_Executive Producers_: Joe Iacono, Aïda Tannyan, Peter Touche,
-
-Christelle Conan, Tom Quinn, Jeff Deutchman, Christian Parkes,
-
-Thorsten Schumacher  
-_Co-executive Producers_: Victor Hadida, Victor Loewy,
-
-Charles Tremblay, Ariane Giroux-Dallaire  
+_Executive Producers_: Joe Iacono, Aïda Tannyan, Peter Touche, Christelle Conan, Tom Quinn, Jeff Deutchman, Christian Parkes, Thorsten Schumacher  
+_Co-executive Producers_: Victor Hadida, Victor Loewy, Charles Tremblay, Ariane Giroux-Dallaire  
 _Produced by_: Robert Lantos  
 _Producers_: Panos Papahadzis, Steve Solomos  
 _Co-producers_: Laura Lanktree, Michael Kölmel, Dietmar Güntsche  
@@ -58,15 +52,13 @@ _Written by_: David Cronenberg
 _Director of Photography_: Douglas Koch  
 _Visual Effects by_: Rocket Science VFX  
 _Special Effects_: Alahouzos Studio FX, Walter Klassen FX  
-_Editor_: Christopher Donaldson
-
+_Editor_: Christopher Donaldson  
 _Production Designer_: Carol Spier  
-_Costume Designer_: Magiou Trikerioti
-
+_Costume Designer_: Magiou Trikerioti  
 _Make-up Designer_: Evi Zafiropoulou  
 _Key Hair Stylist_: Chronis Tzimos  
 _Prosthetics Provided by_: Black Spot FX  
-_Music by_: Howard Shore
+_Music by_: Howard Shore  
 
 **Cast**  
 Viggo Mortensen _(Saul Tenser)_  
@@ -91,6 +83,40 @@ Canada-UK-Greece 2022
 108 mins  
 
 Vertigo release  
+
+
+**NEW RELEASES**
+**Queen of Glory**
+From 26 Aug
+**Official Competition**
+From 26 Aug
+**Wildhood**
+From Fri 2 Sep
+**Eric Ravilious: Drawn to War**
+From Mon 5 Sep
+**Bodies Bodies Bodies**
+From Fri 9 Sep
+**Crimes of the Future**
+From Fri 9 Sep
+**In Front of Your Face**
+From Fri 23 Sep
+**Flux Gourmet**
+
+From Fri 30 Sep
+
+**RE-RELEASES**
+
+**Lost Highway**
+
+From Fri 2 Sep
+
+**Videodrome**
+
+From Sat 10 Sep
+
+**Jackie Brown**
+
+From Fri 16 Sep
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzgwMTY2MjldfQ==
+eyJoaXN0b3J5IjpbLTQwNTIzOTIyNF19
 -->
