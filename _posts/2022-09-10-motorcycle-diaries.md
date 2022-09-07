@@ -118,7 +118,7 @@ Guillermo Ojeda _(man with oxen cart)_
 Fernando Ignacio Llosa _(Von Puttkamer)_  
 Marta Lubos _(Schatzie Von Puttkamer)_
 
-**Chilean cast**
+**Chilean cast**  
 Cristian F. Chaparro _(Luna)_  
 Cristian Arancibia _(Tulio)_  
 Gabriela Aguilera _(Piedad)_  
@@ -140,9 +140,9 @@ María Esther Zamora _(Chipi Chipi band singer)_
 'Pollito' González _(Chipi Chipi band pianist)_  
 Jorge Lobos _(Chipi Chipi band percussionist/trumpeter)_  
 Cuti Aste _(Chipi Chipi band clarinet/accordion)_  
-Robert Lindl _(Chipi Chipi band double bass player)_
+Robert Lindl _(Chipi Chipi band double bass player)_  
   
-**Peruvian cast**
+**Peruvian cast**  
 Gustavo Morales _(Felix)_  
 Gustavo Bueno _(Dr Hugo Pesce)_  
 María Beatriz Abele _(Zdenka Pesce)_  
@@ -164,5 +164,5 @@ Igor Calvo _(Dr Souza)_
 UK/USA/France 2004©  
 126 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjI2NzEyNV19
+eyJoaXN0b3J5IjpbLTIwMTY1MTI1M119
 -->
