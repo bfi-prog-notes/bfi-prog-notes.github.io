@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Channel 4's TV Drama Revolution
+published: true
+date: 2022-09-11
+readtime: true
+categories: ['CHANNEL 4<br>40 YEARS OF REVOLUTION']
+tags: [Television, Talks]
+metadata: 
+pdf: '2022-09-11-c4-tv-drama-revolution.pdf'
+---
 
 **Panellists: actors Robert Lindsay and Lindsay Duncan, original  Drama Commissioners Peter Ansorge and Karin Bamborough, and  current Channel 4 Drama Commissioning Editor Gwawr Lloyd.**
 
@@ -8,8 +18,7 @@ Film on Four and _Brookside_ were to remain the two dominant TV drama commission
 
 It was in fact the success of Film on Four in cinemas that led to a need to commission other strands of TV Drama. Against all expectation, audiences in the UK started to queue up at the cinema for new British movies like _Letter to Brezhnev_, _Mona_ _Lisa_ and _My Beautiful Laundrette_ (1985), all original and entertaining portraits of the UK in the 1980s with something fresh to say.  The case of _My Beautiful Laundrette_, written by Hanif Kureishi and directed by Stephen Frears, was particularly significant. It became a global success. Distributors around the world became interested in investing in Film on Four but demanded a much greater window between the films being shown in cinemas and on television. The window moved from two months to two years.
 
-The Channel faced a shortage of drama to schedule over the coming years.  
-A Commissioning Editor for Drama Series was appointed (Peter Ansorge), and the channel began to commission four new major drama series a year, alongside _Brookside_ and Film on Four.
+The Channel faced a shortage of drama to schedule over the coming years.  A Commissioning Editor for Drama Series was appointed (Peter Ansorge), and the channel began to commission four new major drama series a year, alongside _Brookside_ and Film on Four.
 
 **A Very British Coup** (1988) was the first success. A three-parter, based on the novel by Chris Mullin and adapted for television by Alan Plater. It begins with a newly elected Labour Government in the UK, led by Harry Perkins, determined to lead the country into a positive era of socialist reform. Harry’s policies provoke the Tory minority opposition, together with MI5, into plotting a coup. The project began as a screenplay for Film on Four. The producers were unable to raise the finance as potential co-producers, particularly in America, did not believe that such a localised UK political story could succeed in  the cinema.
 
@@ -35,20 +44,65 @@ Russell T Davies, author of _Queer as Folk_ and _It’s a Sin_, has described _T
 **Peter Ansorge, August 2022**
 
 **Robert Lindsay**  
-The BAFTA, Tony and two-time Olivier Award-winning actor has enjoyed a hugely successful career starring in popular BBC sitcom _My Family_ and  
-_Citizen Smith_ as well as numerous Shakespearean adaptations and stage shows including; _Me and My Girl_, _Onassis_, _Prism_, _A Midsummer Night’s Dream_, _The Entertainer_, _Anything Goes_, _Dirty Rotten Scoundrels_, _Much Ado About Nothing_ and starring opposite Laurence Olivier in _King Lear_. His screen credits include _Maleficent_, _Galavant_, _McDonald & Dodds_, _Dodger_, _GBH_, _Hornblower_, _Jericho_, _Friends and Crocodiles_, _Gideon’s Daughters_, _Nightingales_ and _Jake’s Progress_, both for Channel 4.
+The BAFTA, Tony and two-time Olivier Award-winning actor has enjoyed a hugely successful career starring in popular BBC sitcom _My Family_ and  _Citizen Smith_ as well as numerous Shakespearean adaptations and stage shows including; _Me and My Girl_, _Onassis_, _Prism_, _A Midsummer Night’s Dream_, _The Entertainer_, _Anything Goes_, _Dirty Rotten Scoundrels_, _Much Ado About Nothing_ and starring opposite Laurence Olivier in _King Lear_. His screen credits include _Maleficent_, _Galavant_, _McDonald & Dodds_, _Dodger_, _GBH_, _Hornblower_, _Jericho_, _Friends and Crocodiles_, _Gideon’s Daughters_, _Nightingales_ and _Jake’s Progress_, both for Channel 4.
 
 **Lindsay Duncan**  
-Lindsay Duncan is a Tony and Olivier award winning actress, renowned for her extensive career both on stage and screen. Film credits include the Oscar and Golden Globe award-winning film _Birdman_ alongside  Michael Keaton, Marc Webb’s _Gifted_, Roger Michell’s _Le Weekend_, Richard Curtis’ _About Time_ alongside Bill Nighy, and Tim Burton’s _Alice Through the Looking Glass_.  
-On television Lindsay has recently appeared as Ysabeau De Clermont in Sky One’s _A Discovery of Witches._ Other appearances include _His Dark Materials_, as Clementine Churchill in _Churchill’s Secret_, Frau Bellinghaussen in Stephen Poliakoff’s _Closer to the Enemy_, Grace in HBO’s _The Leftovers_ and Lady Smallwood in BBC’s _Sherlock_. Lindsay was appointed Commander of the Order of the British Empire in 2009 for her services to Drama.
+Lindsay Duncan is a Tony and Olivier award winning actress, renowned for her extensive career both on stage and screen. Film credits include the Oscar and Golden Globe award-winning film _Birdman_ alongside  Michael Keaton, Marc Webb’s _Gifted_, Roger Michell’s _Le Weekend_, Richard Curtis’ _About Time_ alongside Bill Nighy, and Tim Burton’s _Alice Through the Looking Glass_.  On television Lindsay has recently appeared as Ysabeau De Clermont in Sky One’s _A Discovery of Witches._ Other appearances include _His Dark Materials_, as Clementine Churchill in _Churchill’s Secret_, Frau Bellinghaussen in Stephen Poliakoff’s _Closer to the Enemy_, Grace in HBO’s _The Leftovers_ and Lady Smallwood in BBC’s _Sherlock_. Lindsay was appointed Commander of the Order of the British Empire in 2009 for her services to Drama.
 
 **Peter Ansorge** began his career in TV Drama at BBC Birmingham working as script editor and producer under David Rose. His productions there included _Gangsters_, David Hare’s _Licking Hitler_ and _Empire Road_. His later award-winning drama series commissions at Channel 4 include _A Very British_ _Coup_, _Traffik_, _GBH_, _The Politician’s Wife_ and _Tales of the City_. He currently teaches the popular ‘Writing The TV Pilot’ course at the National Film & TV School which is sponsored by Sara Geater at All3 Media.
 
 **Karin Bamborough** joined Channel 4 in 1981 as Commissioning Assistant for Fiction and Arts, became Commissioning Editor for Film on 4 and single drama, and finally co-deputy head of drama with Peter Ansorge. In 1991 she left Channel 4 to join the Norwegian State Broadcaster NRK as Controller of Drama. On returning to the UK she was an independent producer before becoming Head of Producing at the National Film and TV school, where she is still a senior tutor.
 
-**Gwawr Lloyd** is Drama Commissioning Editor at Channel 4. Gwawr works across a wide range of Channel 4 dramas and co-productions – most recently _Chivalry_ and _Light in the Hall_. Gwawr and the team at C4 Drama’s aim is to commission and broadcast the most talked-about and original drama in the UK. Previously Drama Commissioner at S4C where she commissioned  
-_Y Gwyll/Hinterland_, _Hidden_ and _Un Bore Mercher/Keeping Faith_. Prior to this she was a producer at the BBC. Gwawr is based in the C4 Bristol Hub and lives in Cardiff.
+**Gwawr Lloyd** is Drama Commissioning Editor at Channel 4. Gwawr works across a wide range of Channel 4 dramas and co-productions – most recently _Chivalry_ and _Light in the Hall_. Gwawr and the team at C4 Drama’s aim is to commission and broadcast the most talked-about and original drama in the UK. Previously Drama Commissioner at S4C where she commissioned  _Y Gwyll/Hinterland_, _Hidden_ and _Un Bore Mercher/Keeping Faith_. Prior to this she was a producer at the BBC. Gwawr is based in the C4 Bristol Hub and lives in Cardiff.
 <br><br>
+
+**CHANNEL 4  
+40 YEARS OF REVOLUTION**<br>
+**Music & Youth: The Tube + Discussion & Q&A**<br>
+Fri 2 Sep 18:20<br>
+**Comedy: Discussion & Q&A + The Comic Strip Presents: Five Go Mad in Dorset**<br>
+Tue 6 Sep 18:15<br>
+**Channel 4’s TV Drama Revolution:  Discussion + Q&A**<br>
+Sun 11 Sep 14:15<br>
+**A Very British Coup + intro by  author Chris Mullin**<br>
+Sun 11 Sep 16:30<br>
+**Diversity: Handsworth Songs + Q&A with  John Akomfrah + Panel Discussion & Q&A**<br>
+Mon 12 Sep 18:15<br>
+**Out and Proud: Veronica 4 Rose  + Out on Tuesday + intro by original  
+Channel 4 Commissioner Caroline Spry**<br>
+Thu 15 Sep 18:15<br>
+**Access / Direct Speech: The Work They Say  Is Mine + Women of the Rhondda  + Face of Our Fear**<br>
+Tue 20 Sep 18:15<br>
+**Channel 4: The Television Revolution**<br>
+Fri 23 Sep 18:20<br>
+**Controversy: Jesus the Evidence + V  + Mother Ireland**<br>
+Sat 24 Sep 18:00<br>
+**Who Needs Channel 4?**<br>
+Wed 28 Sep 18:20<br>
+**Channel 4 Then and Now conference**<br>
+Fri 23 Sep 10:00–17:00 and Sat 24 Sep  10:00–17:00<br>
+
+Regional screenings and events will be taking place at these venues across the UK (please go to **bfi.org.uk/whatson** for links): Arnolfini, Bristol; Filmhouse Edinburgh; Queen’s Film Theatre, Belfast; Y Drwm, National Library of Wales, Aberystwyth
+
+Explore thousands of titles from across  Channel 4’s history in our free Mediatheque<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 
 <!--stackedit_data:
