@@ -1,11 +1,20 @@
-
+---
+layout: post
+title: A Very British Coup
+published: true
+date: 2022-09-11
+readtime: true
+categories: ['CHANNEL 4<br>40 YEARS OF REVOLUTION']
+tags: [Television, Drama]
+metadata: 'UK 1988, 150 mins<br> Director: Mick Jackson'
+pdf: '2022-09-11-very-british-coup.pdf'
+---
 
 **Introduced by author Chris Mullin**
 
 Although set in the near future, Channel 4’s series _A Very British Coup_ carries echoes of the Wilson/Callaghan era. It is based on the novel by Labour MP Chris Mullin, which was written in the late 1970s and put flesh, in fictional form, on some of the rumours and allegations about plots to destabilise the Labour government, which were then generally dismissed as mere paranoia on the part of Harold Wilson and his associates. The prime minister hero of _A Very British Coup_, however, is no latter-day Wilson, but a committed left-winger, a former steel worker from Sheffield heading a Labour government elected with a large majority on a radical ticket and pledged to repair the ravages of Thatcherism. Those who didn’t vote for him, however, are determined to bring his government and indeed his whole life tumbling about his ears.
 
-This project has had a long gestation period and, as the series’ co-producer Sally Hibbin points out, the _Spycatcher_ furore made life more difficult. ‘When _Spycatcher_ came out, we really had to rethink the whole thing. Our original script was in a way quite gentle, and as the Wright allegations emerged we realised that the reality was much harder and tougher than in our story. We then had to make it all sharper.’ At this point, it was still hoped to make _A Very British Coup_ as a feature film, and indeed the original script money had been raised from the National Film Development Fund. However, this was not to be. At first all concerned were disappointed, but then realised that they could turn the situation to the story’s advantage. As director Mick Jackson put it: ‘We realised that our story would be much better for the change to television.  
-A movie has to have international appeal, so you can’t assume a great deal about the audience’s basic level of political awareness. You can’t have glancing references to Joe Gormley or work-to-rules, you can’t play on the niceties of British politics, so you tend to lapse into crude simplifications.’  The series’ scriptwriter, Alan Plater, agrees: ‘Once we had agonised for a while, we did feel as though a load of chains had been cut in the ways in which we could think about the story. We no longer had to aim everything at farmers  in Wisconsin.’
+This project has had a long gestation period and, as the series’ co-producer Sally Hibbin points out, the _Spycatcher_ furore made life more difficult. ‘When _Spycatcher_ came out, we really had to rethink the whole thing. Our original script was in a way quite gentle, and as the Wright allegations emerged we realised that the reality was much harder and tougher than in our story. We then had to make it all sharper.’ At this point, it was still hoped to make _A Very British Coup_ as a feature film, and indeed the original script money had been raised from the National Film Development Fund. However, this was not to be. At first all concerned were disappointed, but then realised that they could turn the situation to the story’s advantage. As director Mick Jackson put it: ‘We realised that our story would be much better for the change to television.  A movie has to have international appeal, so you can’t assume a great deal about the audience’s basic level of political awareness. You can’t have glancing references to Joe Gormley or work-to-rules, you can’t play on the niceties of British politics, so you tend to lapse into crude simplifications.’  The series’ scriptwriter, Alan Plater, agrees: ‘Once we had agonised for a while, we did feel as though a load of chains had been cut in the ways in which we could think about the story. We no longer had to aim everything at farmers  in Wisconsin.’
 
 Mick Jackson also feels that _Spycatcher_ has been something of a mixed blessing. ‘What once might have seemed far-fetched and speculative to some people is now in danger of becoming old hat. At one stage we felt we were reading the latest draft of our script in the Sunday papers. Part of the film is about what happens when a British government tries to get rid of American nuclear bases, and the making of it coincided with the Reagan-Gorbachev arms talks. There is also a sterling crisis, and the filming coincided with the October stock market crash. So all the time we have had to second-guess events in the real world. For instance, if we show a cruise missile being disarmed at Greenham, will we have been trumped by the real thing happening on television news a few days before? And would there still be any nuclear missiles for Labour to get rid of? As Harold Wilson said, a week is a long time in politics. These are the dangers of topicality, but then again _A Very British Coup_ is meant to be a dangerous series.’
 
@@ -104,6 +113,55 @@ UK 1988
 
 Total running time 180 mins<br>
 <br>
+
+**CHANNEL 4  
+40 YEARS OF REVOLUTION**<br>
+**Music & Youth: The Tube + Discussion & Q&A**<br>
+Fri 2 Sep 18:20<br>
+**Comedy: Discussion & Q&A + The Comic Strip Presents: Five Go Mad in Dorset**<br>
+Tue 6 Sep 18:15<br>
+**Channel 4’s TV Drama Revolution:  Discussion + Q&A**<br>
+Sun 11 Sep 14:15<br>
+**A Very British Coup + intro by  author Chris Mullin**<br>
+Sun 11 Sep 16:30<br>
+**Diversity: Handsworth Songs + Q&A with  John Akomfrah + Panel Discussion & Q&A**<br>
+Mon 12 Sep 18:15<br>
+**Out and Proud: Veronica 4 Rose  + Out on Tuesday + intro by original  
+Channel 4 Commissioner Caroline Spry**<br>
+Thu 15 Sep 18:15<br>
+**Access / Direct Speech: The Work They Say  Is Mine + Women of the Rhondda  + Face of Our Fear**<br>
+Tue 20 Sep 18:15<br>
+**Channel 4: The Television Revolution**<br>
+Fri 23 Sep 18:20<br>
+**Controversy: Jesus the Evidence + V  + Mother Ireland**<br>
+Sat 24 Sep 18:00<br>
+**Who Needs Channel 4?**<br>
+Wed 28 Sep 18:20<br>
+**Channel 4 Then and Now conference**<br>
+Fri 23 Sep 10:00–17:00 and Sat 24 Sep  10:00–17:00<br>
+
+Regional screenings and events will be taking place at these venues across the UK (please go to **bfi.org.uk/whatson** for links): Arnolfini, Bristol; Filmhouse Edinburgh; Queen’s Film Theatre, Belfast; Y Drwm, National Library of Wales, Aberystwyth
+
+Explore thousands of titles from across  Channel 4’s history in our free Mediatheque<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNTI4NDUyNTgwXX0=
 -->
