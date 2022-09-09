@@ -74,58 +74,36 @@ Oscar Quitak _(Kowalsky)_<br>
 David McKall _(Robertson)_<br>
 Shane Rimmer _(Secretary of State)_<br>
 Erin Donovan _(Chambers)_<br>
-
 Clive Merrison _(TV interviewer)_<br>
-
 Roger Brierley _(Andrews)_<br>
-
 Bernard Kay _(Inspector Page)_<br>
-
 Julian Fox _(Porter)_<br>
-
 Bert Gaunt _(returning officer)_<br>
-
 Philip O’Brien _(President)_<br>
-
 Jeremy Young _(Alford)_<br>
-
 Clive Panto _(producer)_<br>
-
 Zulema Dene _(vision mixer)_<br>
-
 Harmage Singh Kalirai _(Patel)_<br>
-
 Caroline John _(Annette)_<br>
-
 Hugh Martin _(Sampson)_<br>
-
 David McKail _(Robertson)_<br>
-
 Stephanie Fayerman _(editor)_<br>
-
 Terry John, George Rossi _(photographers)_<br>
-
 Jessica Carney _(Maureen)_<br>
-
 Berwick Kaler _(Smith)_<br>
-
 Preston Lockwood _(Lord Fain)_<br>
-
 Michael Godley _(Gibbon)_<br>
-
 Dennis Creaghan _(head of CIA)_<br>
-
 Gabrielle Daye _(mum)_<br>
-
 Kika Markham _(Helen)_<br>
 
 C4 tx 1.6.88 – 3.7.88<br>
-
 UK 1988
 
 3 x 50 mins episodes plus two short intervals
 
-Total running time 180 mins
+Total running time 180 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTM1NTk2XX0=
+eyJoaXN0b3J5IjpbNTI4NDUyNTgwXX0=
 -->
