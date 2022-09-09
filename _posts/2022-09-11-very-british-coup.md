@@ -25,12 +25,10 @@ Mick Jackson takes a slightly different view of the conspiracy cycle. ‘There i
 **Chris Mullin** is an author, journalist and former MP. His books include four novels and three widely acclaimed volumes of diaries charting the rise and fall of New Labour.
 <br><br>
 
-**A VERY BRITISH COUP**
-
+**A VERY BRITISH COUP**<br>
 _Director_: Mick Jackson  
 ©: Channel Four  
-_A_ Skreba Films _production_
-
+_A_ Skreba Films _production_<br>
 _For_: Channel Four  
 _Producers_: Ann Skinner, Sally Hibbin  
 _Production Manager_: Donna Grey  
@@ -58,86 +56,70 @@ _Sound Recordist_: Christian Wangler
 _Dubbing Mixer_: David Old  
 _Dubbing Editor_: Peter Elliott  
 _Advisers_: Alistair Campbell, Duncan Campbell, Trevor Hyett, Chris Nawrat, Keith Smith  
-_Archive Material courtesy of_: BBC, CNN,  
-Index Stock Shots, Thames Television,  
-Weintraub Screen Entertainment  
+_Archive Material courtesy of_: BBC, CNN,  Index Stock Shots, Thames Television,  Weintraub Screen Entertainment  
 _Thanks to_: Jim Coleman, Sheffield City Council
 
-_Cast:_
+**Cast**<br>
+Ray McAnally _(Harry Perkins)_<br>
+Alan MacNaughtan _(Browne)_<br>
+Keith Allen _(Thompson)_<br>
+Christine Kavanagh _(Liz)_<br>
+Geoffrey Beevers _(Wainwright)_<br>
+Jim Carter _(Newsome)_<br>
+Philip Madoc _(Fison)_<br>
+Tim McInnerny _(Fiennes)_<br>
+Marjorie Yates _(Cook)_<br>
+Oliver Ford Davies _(Tweed)_<br>
+Oscar Quitak _(Kowalsky)_<br>
+David McKall _(Robertson)_<br>
+Shane Rimmer _(Secretary of State)_<br>
+Erin Donovan _(Chambers)_<br>
 
-Ray McAnally _(Harry Perkins)_
+Clive Merrison _(TV interviewer)_<br>
 
-Alan MacNaughtan _(Browne)_
+Roger Brierley _(Andrews)_<br>
 
-Keith Allen _(Thompson)_
+Bernard Kay _(Inspector Page)_<br>
 
-Christine Kavanagh _(Liz)_
+Julian Fox _(Porter)_<br>
 
-Geoffrey Beevers _(Wainwright)_
+Bert Gaunt _(returning officer)_<br>
 
-Jim Carter _(Newsome)_
+Philip O’Brien _(President)_<br>
 
-Philip Madoc _(Fison)_
+Jeremy Young _(Alford)_<br>
 
-Tim McInnerny _(Fiennes)_
+Clive Panto _(producer)_<br>
 
-Marjorie Yates _(Cook)_
+Zulema Dene _(vision mixer)_<br>
 
-Oliver Ford Davies _(Tweed)_
+Harmage Singh Kalirai _(Patel)_<br>
 
-Oscar Quitak _(Kowalsky)_
+Caroline John _(Annette)_<br>
 
-David McKall _(Robertson)_
+Hugh Martin _(Sampson)_<br>
 
-Shane Rimmer _(Secretary of State)_
+David McKail _(Robertson)_<br>
 
-Erin Donovan _(Chambers)_
+Stephanie Fayerman _(editor)_<br>
 
-Clive Merrison _(TV interviewer)_
+Terry John, George Rossi _(photographers)_<br>
 
-Roger Brierley _(Andrews)_
+Jessica Carney _(Maureen)_<br>
 
-Bernard Kay _(Inspector Page)_
+Berwick Kaler _(Smith)_<br>
 
-Julian Fox _(Porter)_
+Preston Lockwood _(Lord Fain)_<br>
 
-Bert Gaunt _(returning officer)_
+Michael Godley _(Gibbon)_<br>
 
-Philip O’Brien _(President)_
+Dennis Creaghan _(head of CIA)_<br>
 
-Jeremy Young _(Alford)_
+Gabrielle Daye _(mum)_<br>
 
-Clive Panto _(producer)_
+Kika Markham _(Helen)_<br>
 
-Zulema Dene _(vision mixer)_
-
-Harmage Singh Kalirai _(Patel)_
-
-Caroline John _(Annette)_
-
-Hugh Martin _(Sampson)_
-
-David McKail _(Robertson)_
-
-Stephanie Fayerman _(editor)_
-
-Terry John, George Rossi _(photographers)_
-
-Jessica Carney _(Maureen)_
-
-Berwick Kaler _(Smith)_
-
-Preston Lockwood _(Lord Fain)_
-
-Michael Godley _(Gibbon)_
-
-Dennis Creaghan _(head of CIA)_
-
-Gabrielle Daye _(mum)_
-
-Kika Markham _(Helen)_
-
-C4 tx 1.6.88 – 3.7.88
+C4 tx 1.6.88 – 3.7.88<br>
 
 UK 1988
 
@@ -145,5 +127,5 @@ UK 1988
 
 Total running time 180 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDE3NzkzMF19
+eyJoaXN0b3J5IjpbMTYxOTM1NTk2XX0=
 -->
