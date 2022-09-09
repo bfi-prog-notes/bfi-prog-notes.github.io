@@ -31,17 +31,14 @@ The US producer Alan Pool, who went on after _Tales_ to produce _Six Feet_ _Unde
 
 _Tales of the City_ debuted on PBS on 10 January 1994: ‘It garnered,’ writes Pool, ‘The highest rating for a drama programme in PBS’s history. _Tales of the City_ forever changed the landscape of television, paving the way for the domestic lesbians of _Ellen_, the straight girl/gay/boy antics of _Will & Grace_, the unapologetic promiscuity of _Queer as Folk_.’
 
-Russell T Davies, author of _Queer as Folk_ and _It’s a Sin_, has described _Tales of the_ _City_ as: ‘The first and best series to show gay life on the screen.’
+Russell T Davies, author of _Queer as Folk_ and _It’s a Sin_, has described _Tales of the City_ as: ‘The first and best series to show gay life on the screen.’  
+**Peter Ansorge, August 2022**
 
-Peter Ansorge, August 2022
-
-**Robert Lindsay**
-
+**Robert Lindsay**  
 The BAFTA, Tony and two-time Olivier Award-winning actor has enjoyed a hugely successful career starring in popular BBC sitcom _My Family_ and  
-_Citizen_ _Smith_ as well as numerous Shakespearean adaptations and stage shows including; _Me and My Girl_, _Onassis_, _Prism_, _A Midsummer Night’s Dream_, _The_ _Entertainer_, _Anything Goes_, _Dirty Rotten Scoundrels_, _Much Ado About Nothing_ and starring opposite Laurence Olivier in _King_ _Lear_. His screen credits include _Maleficent_, _Galavant_, _McDonald & Dodds_, _Dodger_, _GBH_, _Hornblower_, _Jericho_, _Friends and Crocodiles_, _Gideon’s Daughters_, _Nightingales_ and _Jake’s_ _Progress_, both for Channel 4.
+_Citizen Smith_ as well as numerous Shakespearean adaptations and stage shows including; _Me and My Girl_, _Onassis_, _Prism_, _A Midsummer Night’s Dream_, _The Entertainer_, _Anything Goes_, _Dirty Rotten Scoundrels_, _Much Ado About Nothing_ and starring opposite Laurence Olivier in _King Lear_. His screen credits include _Maleficent_, _Galavant_, _McDonald & Dodds_, _Dodger_, _GBH_, _Hornblower_, _Jericho_, _Friends and Crocodiles_, _Gideon’s Daughters_, _Nightingales_ and _Jake’s Progress_, both for Channel 4.
 
-**Lindsay Duncan**
-
+**Lindsay Duncan**  
 Lindsay Duncan is a Tony and Olivier award winning actress, renowned for her extensive career both on stage and screen. Film credits include the Oscar and Golden Globe award-winning film _Birdman_ alongside  Michael Keaton, Marc Webb’s _Gifted_, Roger Michell’s _Le Weekend_, Richard Curtis’ _About Time_ alongside Bill Nighy, and Tim Burton’s _Alice Through the Looking Glass_.  
 On television Lindsay has recently appeared as Ysabeau De Clermont in Sky One’s _A Discovery of Witches._ Other appearances include _His Dark Materials_, as Clementine Churchill in _Churchill’s Secret_, Frau Bellinghaussen in Stephen Poliakoff’s _Closer to the Enemy_, Grace in HBO’s _The Leftovers_ and Lady Smallwood in BBC’s _Sherlock_. Lindsay was appointed Commander of the Order of the British Empire in 2009 for her services to Drama.
 
@@ -55,5 +52,5 @@ _Y Gwyll/Hinterland_, _Hidden_ and _Un Bore Mercher/Keeping Faith_. Prior to thi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTA3MDA4MzVdfQ==
+eyJoaXN0b3J5IjpbLTIwNDgzMzE2M119
 -->
