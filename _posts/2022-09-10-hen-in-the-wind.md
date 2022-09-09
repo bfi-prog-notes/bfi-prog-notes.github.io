@@ -14,69 +14,40 @@ Stylistically, _A Hen in the Wind_ picks up devices already latent in _What Did 
 <br><br>
 
 **A HEN IN THE WIND (KAZE NO NAKA NO MENDORI)**<br>
-
 _Director:_ Yasujiro Ozu<br>
-
 ©: Shochiku Co. Ltd.<br>
-
 _Production Company:_ Shochiku Co. Ltd.<br>
-
-_Assistant Directors:_ Kozo Yamamoto,  
-Tsukamoto Shokichi, Kozo Tashiro,  
+_Assistant Directors:_ Kozo Yamamoto,  Tsukamoto Shokichi, Kozo Tashiro,  
 Yoshinobu Nakagawa<br>
-
 _Screenplay:_ Ryosuke Saito, Yasujiro Ozu<br>
-
 _Director of Photography:_ Yuharu Atsuta<br>
-
 _Lighting:_ Haruo Isono<br>
+_Camera Assistants:_ Seiji Inoue, Koji Akamatsu, Takashi Kawamata, Motoshige Oikawa,  Yoshitsugu Tonegawa<br>
+_Editor:_ Yoshiyasu Hamamura<br>
+_Art Director:_ Tatsuo Hamada<br>
+_Music:_ Senji Ito<br>
+_Sound Recording:_ Yoshisaburo Senoo<br>
+_Studio:_ Shochiku Ofuna<br>
 
-_Camera Assistants:_ Seiji Inoue, Koji Akamatsu, Takashi Kawamata, Motoshige Oikawa,  
-Yoshitsugu Tonegawa
+**Cast**<br>
+Shuji Sano _(Shuichi Amamiya)_<br>
+Kinuyo Tanaka _(Tokiko)_<br>
+Chieko Murata _(Akiko Ida)_<br>
+Chishu Ryu _(Kazuichiro Satake)_<br>
+Takeshi Sakamoto _(Hikozo Sakai)_<br>
+Eiko Takamatsu _(Tsune)_<br>
+Chiyoko Fumitani _(Fusako Onoda)_<br>
+Toshinosuke Nagao<br>
+Fumiko Okamura<br>
+Jiro Shimizu<br>
+Koji Mitsui<br>
+Yoshiko Tani<br>
+Fujiyo Nagafune<br>
+Hohi Aoki<br>
 
-_Editor:_ Yoshiyasu Hamamura
-
-_Art Director:_ Tatsuo Hamada
-
-_Music:_ Senji Ito
-
-_Sound Recording:_ Yoshisaburo Senoo
-
-_Studio:_ Shochiku Ofuna
-
-_Cast:_
-
-Shuji Sano _(Shuichi Amamiya)_
-
-Kinuyo Tanaka _(Tokiko)_
-
-Chieko Murata _(Akiko Ida)_
-
-Chishu Ryu _(Kazuichiro Satake)_
-
-Takeshi Sakamoto _(Hikozo Sakai)_
-
-Eiko Takamatsu _(Tsune)_
-
-Chiyoko Fumitani _(Fusako Onoda)_
-
-Toshinosuke Nagao
-
-Fumiko Okamura
-
-Jiro Shimizu
-
-Koji Mitsui
-
-Yoshiko Tani
-
-Fujiyo Nagafune
-
-Hohi Aoki
-
-Japan 1948©
-
-84 mins
+Japan 1948©<br>
+84 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5Mjc4MzgzXX0=
+eyJoaXN0b3J5IjpbLTEzMTM4NzI3NTFdfQ==
 -->
