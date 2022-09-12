@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Diversity
+published: true
+date: 2022-09-12
+readtime: true
+categories: ['CHANNEL 4<br>40 YEARS OF REVOLUTION']
+tags: [Television, Talks]
+metadata: 
+pdf: '2022-09-12-c4-diversity.pdf'
+---
 
 **Panellists: Filmmaker John Akomfrah; Channel 4 Head of Creative Diversity  Naomi Sesay; Commissioner Sue Woodford-Hollick; Shyama Perera (chair).**
 
@@ -34,7 +44,8 @@ She found a way of sneaking race through the back door, forcing people to admit 
 
 **Channel 4 Duty Log of calls received following the first transmission of ‘Handsworth Songs’**
 
-
+<img style="float: left;" src="/img/duty-log.jpg">
+<br><br><br><br><br><br><br><br>
 
 **John Akomfrah** is a hugely respected artist and filmmaker, whose works are characterised by their investigations into memory, postcolonialism, temporality and aesthetics and often explores the experiences of migrant diasporas globally. Akomfrah was a founding member of the influential Black Audio Film Collective, which started in London in 1982 alongside the artists David Lawson and Lina Gopaul, who he still collaborates with today. Their first film, _Handsworth Songs_ (1986) explored the events surrounding the 1985 riots in Birmingham and London through a charged combination of archive footage, still photos and newsreel. The film won several international prizes and established a multi-layered visual style that has become a recognisable motif of Akomfrah’s practice. Other works include _Mnemosyne_ (2010), _The Nine Muses_ (2010), _The Unfinished Conversation_ (2012), _Peripeteia_ (2012), _Vertigo Sea_ (2015), _Purple_ (2017), _Precarity_ (2017), and _Four Nocturnes_ (2019). He was awarded the Artes Mundi Prize in 2017.
 
@@ -85,6 +96,55 @@ _Publicity Organiser_: David Lawson
 C4 tx 6.7.1987  
 58 mins
 <br><br>
+
+**CHANNEL 4  
+40 YEARS OF REVOLUTION**<br>
+**Music & Youth: The Tube + Discussion & Q&A**<br>
+Fri 2 Sep 18:20<br>
+**Comedy: Discussion & Q&A + The Comic Strip Presents: Five Go Mad in Dorset**<br>
+Tue 6 Sep 18:15<br>
+**Channel 4’s TV Drama Revolution:  Discussion + Q&A**<br>
+Sun 11 Sep 14:15<br>
+**A Very British Coup + intro by  author Chris Mullin**<br>
+Sun 11 Sep 16:30<br>
+**Diversity: Handsworth Songs + Q&A with  John Akomfrah + Panel Discussion & Q&A**<br>
+Mon 12 Sep 18:15<br>
+**Out and Proud: Veronica 4 Rose  + Out on Tuesday + intro by original  
+Channel 4 Commissioner Caroline Spry**<br>
+Thu 15 Sep 18:15<br>
+**Access / Direct Speech: The Work They Say  Is Mine + Women of the Rhondda  + Face of Our Fear**<br>
+Tue 20 Sep 18:15<br>
+**Channel 4: The Television Revolution**<br>
+Fri 23 Sep 18:20<br>
+**Controversy: Jesus the Evidence + V  + Mother Ireland**<br>
+Sat 24 Sep 18:00<br>
+**Who Needs Channel 4?**<br>
+Wed 28 Sep 18:20<br>
+**Channel 4 Then and Now conference**<br>
+Fri 23 Sep 10:00–17:00 and Sat 24 Sep  10:00–17:00<br>
+
+Regional screenings and events will be taking place at these venues across the UK (please go to **bfi.org.uk/whatson** for links): Arnolfini, Bristol; Filmhouse Edinburgh; Queen’s Film Theatre, Belfast; Y Drwm, National Library of Wales, Aberystwyth
+
+Explore thousands of titles from across  Channel 4’s history in our free Mediatheque<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTc5NTkxNjg2Ml19
 -->
