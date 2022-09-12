@@ -30,12 +30,11 @@ She would ask people: ‘Well, what do you think happened here?’
 And she replies: ‘Ahhh, but in Newcastle people are unemployed, and they don’t riot, do they?’
 
 She found a way of sneaking race through the back door, forcing people to admit that this is something uniquely Black, uniquely racial, and the left felt stumped because it didn’t know where to go with it. And we decided – Okay, we’ll take it on. Yes, it’s Black. It’s really, really Black. You don’t know how Black this is! So, we decided that this was something you couldn’t hide from anymore. You couldn’t say, race has got nothing to do with it, it is just policing. As the Birmingham Centre for Contemporary Cultural Studies was arguing, the policing took place through the lens of race.  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
+<br>
 
 **Channel 4 Duty Log of calls received following the first transmission of ‘Handsworth Songs’**
 
-<![endif]-->
+
 
 **John Akomfrah** is a hugely respected artist and filmmaker, whose works are characterised by their investigations into memory, postcolonialism, temporality and aesthetics and often explores the experiences of migrant diasporas globally. Akomfrah was a founding member of the influential Black Audio Film Collective, which started in London in 1982 alongside the artists David Lawson and Lina Gopaul, who he still collaborates with today. Their first film, _Handsworth Songs_ (1986) explored the events surrounding the 1985 riots in Birmingham and London through a charged combination of archive footage, still photos and newsreel. The film won several international prizes and established a multi-layered visual style that has become a recognisable motif of Akomfrah’s practice. Other works include _Mnemosyne_ (2010), _The Nine Muses_ (2010), _The Unfinished Conversation_ (2012), _Peripeteia_ (2012), _Vertigo Sea_ (2015), _Purple_ (2017), _Precarity_ (2017), and _Four Nocturnes_ (2019). He was awarded the Artes Mundi Prize in 2017.
 
@@ -46,30 +45,22 @@ She found a way of sneaking race through the back door, forcing people to admit 
 Sue began her career as an investigative journalist and award-winning current affairs producer for Granada Television, where she spent many years as a producer/director of the flagship series World in Action before moving to help launch Channel 4. She was Chair of Arts Council England – London, and a member of the ACE National Council for many years, and was the founding Chair of the Stuart Hall Foundation, established in memory of cultural theorist, Professor Stuart Hall. She is a Patron of the Runnymede Trust, One World Media, and the Stuart Hall Foundation and an Ambassador for Reprieve, the anti-death penalty organisation. For seven years she was Chair of Index on Censorship, the international magazine for Free Speech. She is currently a trustee of the Hollick Family Foundation. Other organisations she is associated with include AMREF, the African Medical Research Foundation, Africa’s largest health charity, Leader’s Quest and the Leaders Quest Foundation. Sue was awarded an OBE in 2011 for services to the arts.
 
 **Shyama Perera** first appeared on our screens with the launch of Channel Four’s _Eastern Eye_, made by LWT and alternating weekly with its sister programme, _Black on Black_. She later returned to newspapers and has subsequently stretched her large self thinly as a commentator and critic across print and broadcast.
+<br><br>
 
-<![endif]-->
-
-**HANDSWORTH SONGS**
-
+**HANDSWORTH SONGS**  
 _Director_: John Akomfrah  
 _Production Company_: Black Audio Film Collective  
 _Producer/Production Manager_: Lina Gopaul  
-_Production Assistants_: Clare Joseph,  
-Reece Auguiste  
-_Additional Crew (Birmingham)_: Don Shaw,  
-Joseph Burgundy  
+_Production Assistants_: Clare Joseph,  Reece Auguiste  
+_Additional Crew (Birmingham)_: Don Shaw,  Joseph Burgundy  
 _Screenplay_: Black Audio Film Collective  
 _Director of Photography_: Sebastian Shah  
-_Additional Photography_: John Akomfrah,  
-Roy Cornwall  
-_Studio Crew Camera (Photographs)_:  
-John Mathieson  
-_Studio Crew Camera (British Icons)_:  
-Edward George, Trevor Mathison  
+_Additional Photography_: John Akomfrah,  Roy Cornwall  
+_Studio Crew Camera (Photographs)_:  John Mathieson  
+_Studio Crew Camera (British Icons)_:  Edward George, Trevor Mathison  
 _Rostrum_: Douglas Hines  
 _Camera Assistant_: Edward George  
-_Studio Crew Lighting (Photographs)_:  
-Dalton Campbell  
+_Studio Crew Lighting (Photographs)_:  Dalton Campbell  
 _Studio Crew Lighting (British Icons)_: John Akomfrah  
 _Studio Crew Grip (Photographs)_: Glyn Fielding  
 _Handsworth Photographs_: Vanley Burke  
@@ -82,20 +73,18 @@ _Mural_: Gavin Jantjes, Tom Joseph
 _Studio Crew Props (British Icons)_: Lina Gopaul  
 _Title Design_: Richard Morrison  
 _Titles_: Plume Design  
-_Opticals_: N. Gordon Smith,  
-Howell Opticals (London)  
+_Opticals_: N. Gordon Smith,  Howell Opticals (London)  
 _Music_: Trevor Mathison  
-_Additional Music_: Boys Own Battery,  
-Robert Johnston  
+_Additional Music_: Boys Own Battery,  Robert Johnston  
 _Sound_: Trevor Mathison  
 _Assistant Sound_: Avril Johnson  
 _Dubbing Mixer_: Peter Hodges  
 _Publicity_: Edward George  
 _Publicity Organiser_: David Lawson
 
-C4 tx 6.7.1987
-
+C4 tx 6.7.1987  
 58 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTg5MzE2NjhdfQ==
+eyJoaXN0b3J5IjpbLTc5NTkxNjg2Ml19
 -->
