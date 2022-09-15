@@ -33,17 +33,13 @@ The second item, Empire of the Senses, directed by Karen Alexander, explores int
 
 The final item is After Stonewall  directed by Frances Dickenson. 1989 marked the 20th anniversary of the origin of the modern gay movement – the riots against police raids at a bar in New York’s Greenwich Village. The item examines the context of that event – the rise of Gay Liberation in the early 70s; the communes; bearded nuns and surprise sit-ins or ‘zaps’ of that decade. The realisation that gay men and lesbians are not a homogenous community but have very different experiences and interests emerged – feminism, political parties, disco parties, the ‘Pink Pound’ and the New Realism claimed their adherents. In considering how gays can best pursue their political interests, the item contrasts US-style political lobbying, the ‘positive policies’ of UK Labour councils, and the rise in direct action against AIDS apathy in America and Clause 28 in Britain.
 
-Featured are the gay male nuns who crashed the Festival of Light, the Labour peer who escorted lesbian protestors into the House of Lords to abseil into history, the American founders of ACT UP (AIDS Coalition To Unleash Power), gay Tory and ex-MP Matthew Parris, and beleaguered newscaster Sue Lawley. Also, how the BBC’s security staff were trained to recognise ‘spikey haired lesbians’, the real meaning of ‘affinity group’, and how to hide several feet of clothesline in your 501s.
+Featured are the gay male nuns who crashed the Festival of Light, the Labour peer who escorted lesbian protestors into the House of Lords to abseil into history, the American founders of ACT UP (AIDS Coalition To Unleash Power), gay Tory and ex-MP Matthew Parris, and beleaguered newscaster Sue Lawley. Also, how the BBC’s security staff were trained to recognise ‘spikey haired lesbians’, the real meaning of ‘affinity group’, and how to hide several feet of clothesline in your 501s.  
+**Caroline Spry**
+<br><br>
 
-Caroline Spry
-
-<![endif]-->
-
-**VERONICA 4 ROSE**
-
+**VERONICA 4 ROSE**  
 _Director_: Melanie Chait  
-_Production Company_: Lusia Films
-
+_Production Company_: Lusia Films  
 _For:_ Channel Four  
 _Producer_: Melanie Chait  
 _Production Manager_: Sue Clayton  
@@ -56,13 +52,11 @@ _Assistant Photographer_: Caroline Spry
 _Stills_: Sally McLeay, Melanie Aldridge  
 _Editor_: Ellin Hare  
 _Additional Music_: Lindsay Cooper  
-_Live Music Performed by_: Mistakes,  
-Friggin Little Bits  
+_Live Music Performed by_: Mistakes,  Friggin Little Bits  
 _Sound_: Diana Ruston  
 _Assistant Sound_: Elaine Drainville
 
-_With:_
-
+**With**  
 Barbara Schulz  
 Linda Gardener  
 Judith Jones  
@@ -79,18 +73,13 @@ Paula Frampton
 Veronica Wilson  
 Rose Hickman
 
-C4 tx 17.1.1983
-
+C4 tx 17.1.1983  
 50 mins
 
-**OUT ON TUESDAY: AFTER STONEWALL,  
-EMPIRE OF THE SENSES, LUST AND LIBERATION**
-
+**OUT ON TUESDAY: AFTER STONEWALL,  EMPIRE OF THE SENSES, LUST AND LIBERATION**  
 _Series Director_: Phil Woodward  
-_Director (Lust and Liberation)_: Clare Beavan
-
-_Director (Empire of the Senses):_ Karen Alexander
-
+_Director (Lust and Liberation)_: Clare Beavan  
+_Director (Empire of the Senses):_ Karen Alexander  
 _Director (After Stonewall):_ Frances Dickenson  
 _Production Company_: Abseil  
 _In Association with_: Fulcrum Productions  
@@ -99,9 +88,9 @@ _C4 Independent Programmes Assistant Commissioning Editor_: Caroline Spry
 _Series Editor_: Mandy Merck  
 _Series Producers_: Susan Ardill, Clare Beavan
 
-C4 tx 28.3.1989
-
-50 mins
+C4 tx 28.3.1989  
+50 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDE2NjkzNF19
+eyJoaXN0b3J5IjpbMTQ2OTQ3MTA0NV19
 -->
