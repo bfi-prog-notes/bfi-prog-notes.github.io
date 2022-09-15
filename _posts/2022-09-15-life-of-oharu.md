@@ -15,21 +15,17 @@ The _obi_ (sash) that Oharu’s husband is clutching when he is killed is subseq
 
 The predilection of French critics for linking Mizoguchi with Murnau seems largely dictated by this sense of fatality, expressed equally by striking high-angle shots, a fairly constant use of the diagonal line, and the movement between the ‘sympathy’ and autonomy of several extended camera movements in relation to Oharu: her endless flight of despair through the woods after reading Katsunosuke’s parting message to her; her nocturnal street walk in the opening shot – repeated near the film’s close – as an axis round which things happen, which closely resembles the City Woman’s walk in _Sunrise_.
 
-But quite apart from the visual rendering of Oharu’s condition and fate – a ‘statement’ that is made no less contemporary by the beauty and density of its period detail – one must also consider Ichiro Saito’s prodigious musical score. From the solo instrument accompanying Oharu and her parents’ departure from Kyoto to the percussive wooden blocks punctuating the grunts of the men carrying Matsudaira’s servant there; from Oharu’s discovery of an old courtesan singing in a broken voice to her later recapitulation of the same song, in comparable circumstances; from the dead silence when she sees her son passing on the road as a child to the throbbing, harp-like arpeggios that accompany her brief glimpse of him as a man – Oharu’s soundtrack achieves a rare diversity of effect that never deviates from the film’s sustained emotional and narrative rigour. By the time we reach the choral passage over the closing shot, we have arrived at a sublime _tabula_ _rasa_ that perfectly complements the one we see on the screen: as with the closing shots of _Queen_ _Christina_ and _Les Bonnes_ _Femmes_, it is a coda that tells us nothing and, by doing so, expresses everything.  
+But quite apart from the visual rendering of Oharu’s condition and fate – a ‘statement’ that is made no less contemporary by the beauty and density of its period detail – one must also consider Ichiro Saito’s prodigious musical score. From the solo instrument accompanying Oharu and her parents’ departure from Kyoto to the percussive wooden blocks punctuating the grunts of the men carrying Matsudaira’s servant there; from Oharu’s discovery of an old courtesan singing in a broken voice to her later recapitulation of the same song, in comparable circumstances; from the dead silence when she sees her son passing on the road as a child to the throbbing, harp-like arpeggios that accompany her brief glimpse of him as a man – Oharu’s soundtrack achieves a rare diversity of effect that never deviates from the film’s sustained emotional and narrative rigour. By the time we reach the choral passage over the closing shot, we have arrived at a sublime _tabula rasa_ that perfectly complements the one we see on the screen: as with the closing shots of _Queen Christina_ and _Les Bonnes Femmes_, it is a coda that tells us nothing and, by doing so, expresses everything.  
 **Jonathan Rosenbaum, _Monthly Film Bulletin_, March 1975**
+<br><br>
 
-<![endif]-->
-
-**THE LIFE OF OHARU (SAIKAKU ICHIDAI ONNA)**
-
+**THE LIFE OF OHARU (SAIKAKU ICHIDAI ONNA)**  
 _Director:_ Kenji Mizoguchi  
 _Production Companies:_ Shintoho Eiga, Koi  
 _Producer:_ Hideo Koi  
 _Assistant Directors:_ Rychei Arai, Seiichiro Uchikawa  
 _Screenplay:_ Yoda Yoshikata  
-_Based on the novel_ Koshoku Ichidai Onna _by:_
-
-Ibara Saikaku  
+_Based on the novel_ Koshoku Ichidai Onna _by:_ Ibara Saikaku  
 _Director of Photography:_ Yoshimi Hirano  
 _Lighting:_ Ko Fujimura  
 _Marionettes:_ Monjuro Kiritake  
@@ -42,8 +38,8 @@ _Dayu Joruri Accompaniment:_ Gendayu Takemoto
 _Choreography:_ Yachiyo Inoue  
 _Sound:_ Miwa Kamiya  
 _Art Authenticity:_ Isamu Yoshii  
-_Cast:_
 
+**Cast**  
 Kinuyo Tanaka _(Oharu Okui)_  
 Tsukie Matsuura _(Tomo, Oharu’s mother)_  
 Ichiro Sugai _(Shinzaemon, Oharu’s father)_  
@@ -82,9 +78,10 @@ Hisano Yamato _(Otama of Maruya)_
 Noriko Sengoku _(Sakurai)_  
 Tozen Hidari _(clothes rental store owner)_  
 Bungakusa Mitsuwaki _(marionette troupe)_  
-Japan 1952
 
+Japan 1952  
 136 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDg3MTY0Ml19
+eyJoaXN0b3J5IjpbLTE1NTg0OTg1MjVdfQ==
 -->
