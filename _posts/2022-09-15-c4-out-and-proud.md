@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Out and Proud
+published: true
+date: 2022-09-15
+readtime: true
+categories: ['CHANNEL 4<br>40 YEARS OF REVOLUTION']
+tags: [Television, Talks]
+metadata: 
+pdf: '2022-09-15-c4-out-and-proud.pdf'
+---
 
 **These screenings will be introduced by original Channel 4  Commissioner Caroline Spry**
 
@@ -13,8 +23,7 @@ The series ran from 1989 to 1994, changing its title to _OUT_ in 1991. Over that
 **Veronica 4 Rose (1982)**  
 Transmitted on Channel 4 on 17 January 1983
 
-Director Melanie Chait filmed a group of young lesbians from Newcastle, Liverpool and London over a period of two years. In a collaborative approach to documentary, Chait taped interviews with the women, aged 16-23, and then worked with them to produce scripts which they then perform on screen.  
-They talk confidently about being lesbian in a heterosexist society.
+Director Melanie Chait filmed a group of young lesbians from Newcastle, Liverpool and London over a period of two years. In a collaborative approach to documentary, Chait taped interviews with the women, aged 16-23, and then worked with them to produce scripts which they then perform on screen.  They talk confidently about being lesbian in a heterosexist society.
 
 In 1982 the newly launched Channel Four commissioned the completion of the film, which was transmitted in the Independent Film & Video Department’s _Eleventh Hour_ slot.
 
@@ -91,6 +100,55 @@ _Series Producers_: Susan Ardill, Clare Beavan
 C4 tx 28.3.1989  
 50 mins<br>
 <br>
+
+**CHANNEL 4  
+40 YEARS OF REVOLUTION**<br>
+**Music & Youth: The Tube + Discussion & Q&A**<br>
+Fri 2 Sep 18:20<br>
+**Comedy: Discussion & Q&A + The Comic Strip Presents: Five Go Mad in Dorset**<br>
+Tue 6 Sep 18:15<br>
+**Channel 4’s TV Drama Revolution:  Discussion + Q&A**<br>
+Sun 11 Sep 14:15<br>
+**A Very British Coup + intro by  author Chris Mullin**<br>
+Sun 11 Sep 16:30<br>
+**Diversity: Handsworth Songs + Q&A with  John Akomfrah + Panel Discussion & Q&A**<br>
+Mon 12 Sep 18:15<br>
+**Out and Proud: Veronica 4 Rose  + Out on Tuesday + intro by original  
+Channel 4 Commissioner Caroline Spry**<br>
+Thu 15 Sep 18:15<br>
+**Access / Direct Speech: The Work They Say  Is Mine + Women of the Rhondda  + Face of Our Fear**<br>
+Tue 20 Sep 18:15<br>
+**Channel 4: The Television Revolution**<br>
+Fri 23 Sep 18:20<br>
+**Controversy: Jesus the Evidence + V  + Mother Ireland**<br>
+Sat 24 Sep 18:00<br>
+**Who Needs Channel 4?**<br>
+Wed 28 Sep 18:20<br>
+**Channel 4 Then and Now conference**<br>
+Fri 23 Sep 10:00–17:00 and Sat 24 Sep  10:00–17:00<br>
+
+Regional screenings and events will be taking place at these venues across the UK (please go to **bfi.org.uk/whatson** for links): Arnolfini, Bristol; Filmhouse Edinburgh; Queen’s Film Theatre, Belfast; Y Drwm, National Library of Wales, Aberystwyth
+
+Explore thousands of titles from across  Channel 4’s history in our free Mediatheque<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQ2OTQ3MTA0NV19
 -->
