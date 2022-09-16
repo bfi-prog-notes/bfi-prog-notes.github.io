@@ -62,7 +62,7 @@ _Foley Artists_: Alyson Dee Moore, Nancy Parker
 _Stunt Co-ordinator_: Bob Minor  
 _Utility Stunts_: Tony Brubaker, Walter King,  Ousaun Elam, David Hernandez, Dwayne Mcgee, Angel Devalle, Gerard Williams, Darren Bond, Carlos Murray, Bob Stuart, Thomas Boone, Orvell Sterling II, Joseph Caballero
 
-_Cast*
+**Cast**  
 Fred Williamson _(John Bookman)_  
 Jim Brown _(Jake Trevor)_  
 Pam Grier _(Laurie Thompson)_  
@@ -99,9 +99,9 @@ Dani Girl _(dancer at party)_
 Luniz _(customers at Thelma’s cafe)_  
 The Chi-Lites _(themselves)_
 
-USA 1996
-
-99 mins
+USA 1996  
+99 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDc2Mzk1N119
+eyJoaXN0b3J5IjpbLTEwODA5MzAyMDhdfQ==
 -->
