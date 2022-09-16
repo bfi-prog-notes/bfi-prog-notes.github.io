@@ -75,7 +75,8 @@ Poland-Italy-Czech Republic 2021©
 
 Courtesy of Modern Films
 
-Woman with a Movie Camera is generously supported by Jane Stanton
+Woman with a Movie Camera is generously supported by Jane Stanton<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTkyNjU5MF19
+eyJoaXN0b3J5IjpbMTcyNjgxNTM2OF19
 -->
