@@ -25,8 +25,7 @@ _Directed by_: Brett Morgen
 ©: Starman Productions LLC  
 _Presented by_: Universal Pictures, Neon, BMG,  Live Nation Productions, Public Road Productions  
 _In association with_: HBO Documentary Films  
-_Executive Producers_: Kathy Rivkin Daum,  Hartwig Masuch, Justus Haerder, Michael Rapino, Heather Parry, Ryan Kroft, Bill Zysblat, Tom Cyrana, Bill Gerber, Eileen D'Arcy, Aisha Cohen,  
-Debra Eisenstadt  
+_Executive Producers_: Kathy Rivkin Daum,  Hartwig Masuch, Justus Haerder, Michael Rapino, Heather Parry, Ryan Kroft, Bill Zysblat, Tom Cyrana, Bill Gerber, Eileen D'Arcy, Aisha Cohen,  Debra Eisenstadt  
 _Produced by_: Brett Morgen  
 _Archival Producer_: Jessica Berman-Bogdan  
 _Archive Consultant_: Kevin Cann  
@@ -40,14 +39,14 @@ _Colour and Finish by_: Company 3
 _Music Produced by_: Tony Visconti  
 _Music Editor_: John Warhurst  
 _Film Music Mixer_: Paul Murray  
-_Re-recording Mixers_: Paul Massey,  
-David Giammarco  
-_Supervising Sound Editors_: John Warhurst,  
-Nina Hartstone
+_Re-recording Mixers_: Paul Massey,  David Giammarco  
+_Supervising Sound Editors_: John Warhurst,  Nina Hartstone
 
-USA-Germany 2022©
+USA-Germany 2022©  
+140 mins
 
-A Universal Pictures release
+A Universal Pictures release<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjY5MTUxNl19
+eyJoaXN0b3J5IjpbMTc5OTUyMzg1OF19
 -->
