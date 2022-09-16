@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Original Gangstas
+published: true
+date: 2022-09-16
+readtime: true
+categories: ['PAM GRIER<br>FOXY, FIERCE AND FEARLESS']
+tags: [Crime, Action]
+metadata: 'USA 1996, 99 mins<br> Director: Larry Cohen'
+pdf: '2022-09-16-original-gangstas.pdf'
+---
 
 The story of _Original Gangstas_ is built round a confrontation with the imagery of gang violence, and the first indication of its revisionist intent is the fact it’s produced by Fred Williamson’s own company Po’Boy Productions, which churned out some of the most inept Black movies of the late 70s and early 80s (_Death Journey_, _Mr Mean_). The director is Larry Cohen, who had also directed Williamson in _Black Caesar_ and _Hell Up in Harlem_. The film is set in Gary, Indiana, where a Black youth, Kenny, is shot dead by a gang, the Rebels, after he wins a bet at a basketball game. The owner of the local corner shop reports the drive-by car’s licence number to the police, and is shot and wounded in his turn. His son, John (Williamson), who 20 years earlier was a founder member of the Rebels, flies into town. Shocked by the violence that the gang is now visiting in its own neighbourhood, he begins recruiting his old buddies to break up the Rebels.
 
@@ -8,11 +18,9 @@ Though modelled on _The Magnificent Seven_, the plot subverts the preening macho
 
 The arguments don’t simply echo Black critiques of the Blaxploitation heroes. By implication the film aims these charges at Brown’s and Williamson’s generation of Black men. The world to which they have returned is a dysfunctional and crazy place where the lunatics have taken over, and in the sense that they themselves have created these conditions it’s their own fault. When Brown confronts the gang leader and accuses him of murdering his son, the boy replies, ‘I am your son. You created me, and now you want to kill me?’
 
-Framing this discussion about the role of Black fathers and their relationship to ghetto violence is another argument about employment and the economy.  
-The first frame tells us Gary is a steel town where the industry has collapsed. Williamson’s father talks about the life he’s given to his job in the steel mill, and how the decline of the local economy has affected the town. The gang members dance the night away in an abandoned warehouse, and another gang occupies the former steel mill. Everything is rusting and dilapidated.  The mayor manages crimewaves by negotiating to contain their gang activities within their neighbourhoods.
+Framing this discussion about the role of Black fathers and their relationship to ghetto violence is another argument about employment and the economy.  The first frame tells us Gary is a steel town where the industry has collapsed. Williamson’s father talks about the life he’s given to his job in the steel mill, and how the decline of the local economy has affected the town. The gang members dance the night away in an abandoned warehouse, and another gang occupies the former steel mill. Everything is rusting and dilapidated.  The mayor manages crimewaves by negotiating to contain their gang activities within their neighbourhoods.
 
-The use of the five former Blaxploitation stars creates a curious dialogue across time, as if the actors were personalities arguing with younger, more naive, less sensitive versions of themselves; which in a sense is precisely what’s happening. This is a debate which has been heating up among African Americans, sparked off partly by Louis Farrakhan’s lectures, partly by the challenges of Black women, partly by the sickening parade of violence and addiction among young Black men. In comparison with their younger selves the five are racked by doubt, uncertainty and the consciousness of failure. Nevertheless, the film signals an interesting indication that the core of  
-Black opinion, bolstered by groups like the Muslims, is preparing to wrestle with the contemporary heroes of gangster chic for control of the imagery of Black identity.
+The use of the five former Blaxploitation stars creates a curious dialogue across time, as if the actors were personalities arguing with younger, more naive, less sensitive versions of themselves; which in a sense is precisely what’s happening. This is a debate which has been heating up among African Americans, sparked off partly by Louis Farrakhan’s lectures, partly by the challenges of Black women, partly by the sickening parade of violence and addiction among young Black men. In comparison with their younger selves the five are racked by doubt, uncertainty and the consciousness of failure. Nevertheless, the film signals an interesting indication that the core of  Black opinion, bolstered by groups like the Muslims, is preparing to wrestle with the contemporary heroes of gangster chic for control of the imagery of Black identity.
 
 As a result I suspect that _Original Gangstas_ will be seen in very different ways by Black and white audiences. What’s extraordinary is that Cohen, its white director, has entered the argument in a more or less unselfconscious mood, so that (as with all the better Black films of recent years) it delivers arguments and debates with its core audience’s interests in a way which can sound crudely polemical to whites untouched by the emotional resonances. On the other hand, its five big names were once the hottest items in town – and stars never quite fade, even in the movies. In all the years since I last saw Williamson and Brown on the screen it never occurred to me that they could be touching, but when the old warriors end the movie by walking off into a metaphorical sunset I swear I was moved.  
 **Mike Phillips, _Sight and Sound_, August 1996**
@@ -102,6 +110,24 @@ The Chi-Lites _(themselves)_
 USA 1996  
 99 mins<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEwODA5MzAyMDhdfQ==
 -->
