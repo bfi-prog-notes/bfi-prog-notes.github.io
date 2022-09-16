@@ -20,7 +20,7 @@ It’s usually portrayed as this ultimate holiday destination but in the film, e
 
 Italy is a cradle of beautiful culture, where suddenly beautiful values are starting to collapse. I choose this country also because when I was writing the script the biggest amount of immigrants was desperately trying to come to Italy. But I don’t want to blame just Italy, but whole Europe, whole world exactly.
 
-_You refer to the refugee crisis in_ Silent Land_. When tragedy strikes, someone says about the immigrant: ‘He wasn’t even legal.’_
+_You refer to the refugee crisis in_ Silent Land _. When tragedy strikes, someone says about the immigrant: ‘He wasn’t even legal.’_
 
 As if dismissing his entire existence. It’s a very cruel sentence. When the catastrophe on Lampedusa happened, I wanted to make a commentary, but not in a literal way, on how Europe – through the viewpoint of my characters – can be so incredibly passive and blind to the plight of immigrants. I think it is a very timely story. Especially now, when a country like Afghanistan desperately needs help, we are closing our eyes and borders. But _Silent Land_ is not a political statement – it’s a humanistic statement.
 
@@ -30,7 +30,7 @@ When the accident happens, they both don’t react. I don’t think Adam is supp
 
 When I speak to men who have seen the film, they agree that it should be him. But to me, it’s not like Adam doesn’t feel ‘like a man’ anymore. I constructed these characters thinking about specific psychological types and he is a narcissist. I had boyfriends like him [laughter]. Still, I like him the most – I don’t actually like Anna that much. Mostly because he has the strength to change and to assume the guilt. He might seem weak at the beginning, but eventually he becomes strong. As I said before, it’s the only character that changes, because Anna is afraid of change. She just wants to come back to Poland, to their normal routine. My cinematographer, Bartosz Świniarski, told me I would be accused of not liking men after this film. But I love them and I love Adam, because he evolves. Anna just seems strong. Whenever there is a problem, she is hiding.
 
-_How did you start collaborating with Jean-Marc Barr? He is playing a diver here; a bit like in his breakthrough_ The Big Blue_._
+_How did you start collaborating with Jean-Marc Barr? He is playing a diver here; a bit like in his breakthrough_ The Big Blue _._
 
 I knew I wanted him in the film, but I was afraid he wouldn’t agree – precisely because of that reason! He played that all the way back in 1988, when he was the most beautiful man in the world. Well, he still is! [laughs]. But he turned out to be an amazing collaborator, very professional and kind. Even though he is already a famous actor he was always reading a book on set, by the camera, ready to start working. I don’t know if it’s because of the casting or because of the energy on set, or both, but I ended up working with an amazing group of people.
 
@@ -40,21 +40,17 @@ _You seem interested in different forms of selfishness – the moment when ‘pu
 
 We need to distinguish between the decision to not be too influenced by other people’s problems and not helping out when we should. I could say that I am ‘taking care of myself’ because I don’t feel like seeing my grandmother, who was never really that nice to me for example. But what if she is really unwell, in need of help? These are two different things. I don’t agree with this new life philosophy – focusing only on yourself is a bad thing. My film shows what happens when passivity takes over our life: the passivity of today’s thirtysomethings or of Europe, not willing to take care of the immigrants.
 
-Three days ago, I had to dial the emergency number for the first time in my life. There was a woman lying on the pavement, not moving. Right in front of other people’s home and balconies – nobody reacted. People were just passing her by. She was drunk and you could tell, but only after the ambulance came people started to pay some attention. Later that day I met my producer and said:  
-‘We need to bring this film to cinemas a bit sooner.’
+Three days ago, I had to dial the emergency number for the first time in my life. There was a woman lying on the pavement, not moving. Right in front of other people’s home and balconies – nobody reacted. People were just passing her by. She was drunk and you could tell, but only after the ambulance came people started to pay some attention. Later that day I met my producer and said:  ‘We need to bring this film to cinemas a bit sooner.’
 
 _I noticed you don’t have any dramatic soundtrack or music in the film, there is a lot of silence. Why?_
 
 To me, music emphasises emotions. You are trying to feel whatever the music wants you to feel: be sad, be happy. In my film, you don’t have to do anything – it’s just you and the screen. I prefer to ask questions rather than give any answers, so here, the sound is the music.
 
-To me, cinema starts when the words end and the images start carrying emotions. Which is why I value my collaboration with Bartosz Świniarski so much. We worked together before too and sometimes I am afraid he is able to read my mind – he knows everything! He knew I wanted to achieve something similar to slow cinema, where form is as important as content. I didn’t want to be close to these characters right from the start, we are approaching them only later. I didn’t need any close-ups. I like it when the whole frame communicates something, not just the face.
+To me, cinema starts when the words end and the images start carrying emotions. Which is why I value my collaboration with Bartosz Świniarski so much. We worked together before too and sometimes I am afraid he is able to read my mind – he knows everything! He knew I wanted to achieve something similar to slow cinema, where form is as important as content. I didn’t want to be close to these characters right from the start, we are approaching them only later. I didn’t need any close-ups. I like it when the whole frame communicates something, not just the face.  
+**Interview by Marta Bałaga, production notes**
+<br><br>
 
-Interview by Marta Bałaga, production notes
-
-<![endif]-->
-
-**SILENT LAND (CICHA ZIEMIA)**
-
+**SILENT LAND (CICHA ZIEMIA)**  
 _Directed by_: Aga Woszczyńska  
 ©: Lava Films SP. Z.o.o., Kino Produzioni S.R.L., I/O Post S.R.O., EC1 Lódz, Canal+  
 _Production Company_: Lava Films  
@@ -67,21 +63,19 @@ _Production Designer_: Ilaria Sadun
 _Costume Designer_: Anna Sikorska  
 _Music_: Piotr Kurek
 
-_Cast:_
-
+**Cast**  
 Dobromir Dymecki _(Adam)_  
 Agnieszka Zulewska _(Anna)_  
 Jean-Marc Barr _(Arnaud)_  
 Alma Jodorowsky _(Claire)_  
 Claudio Bigagli _(Giuseppe)_
 
-Poland-Italy-Czech Republic 2021©
-
+Poland-Italy-Czech Republic 2021©  
 113 mins
 
 Courtesy of Modern Films
 
 Woman with a Movie Camera is generously supported by Jane Stanton
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTY2NjY5M119
+eyJoaXN0b3J5IjpbMTI5NTkyNjU5MF19
 -->
