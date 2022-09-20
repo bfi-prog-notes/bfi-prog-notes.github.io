@@ -30,60 +30,43 @@ Brigid Segrave, Humphrey Trevelyan. 1972. 20min.
 
 _Women of the Rhondda_, one of the first feminist films shot in the UK, was made collectively in 1972 and shown as part of the ‘Women Direct’ series on ‘The Eleventh Hour’ in January 1985. This season was built with purchases and not commissioned programmes from Circles, a London-based distributor. It draws on oral history methods to present a radically new representation of labour from the perspective of working class women.
 
-**Face of Our Fear  **Dir: Steve Dwoskin, 1992. 55min
+**Face of Our Fear**  
+Dir: Steve Dwoskin, 1992. 55min
 
-Acclaimed underground filmmaker Steve Dwoskin made _Face of Our Fear_ which was commissioned by Alan Fountain for the launch of Channel 4’s season ‘Disabling World’ initiated by the Education Department in 1992.  
-Using clips from a range of historical feature films to synthesise many of the dehumanising aspects attributed to the disabled by the media, Dwoskin set out to find a new image of disability, ‘not to have one made for us’.
+Acclaimed underground filmmaker Steve Dwoskin made _Face of Our Fear_ which was commissioned by Alan Fountain for the launch of Channel 4’s season ‘Disabling World’ initiated by the Education Department in 1992.  Using clips from a range of historical feature films to synthesise many of the dehumanising aspects attributed to the disabled by the media, Dwoskin set out to find a new image of disability, ‘not to have one made for us’.
 
-Further reading
-
+**Further reading**  
 https://lux.org.uk/dwoskin-project-blog-21-diary-of-a-wheelchair/  
 https://www.bfi.org.uk/features/disability-season-national-film-theatre  
 Rachel Garfield and Henry K. Miller, _DWOSKINO: the gaze of Stephen Dwoskin_ (LUX, 2022)
+<br><br>
 
-<![endif]-->
-
-**PEOPLE TO PEOPLE: THE WORK THEY SAY IS MINE**
-
+**PEOPLE TO PEOPLE: THE WORK THEY SAY IS MINE**  
 _Director_: Rosie Gibson  
-_Production Companies_: Avonbridge Film,  
-Scottish Film Production Board  
+_Production Companies_: Avonbridge Film,  Scottish Film Production Board  
 _Producer_: Penny Thomson  
-_Script_: Rosie Gibson
-
-C4 tx 1.6.1986
-
+_Script_: Rosie Gibson  
+C4 tx 1.6.1986  
 52 mins
 
-**THE ELEVENTH HOUR: WOMEN DIRECT:  
-WOMEN OF THE RHONDDA**
-
-_Produced by_: Mary Capps, Mary Kelly,  
-Margaret Dickinson, Esther Ronay,  
-Brigid Segrave, Humphrey Trevelyan
-
-_With:_
-
+**THE ELEVENTH HOUR: WOMEN DIRECT:  WOMEN OF THE RHONDDA**  
+_Produced by_: Mary Capps, Mary Kelly,  Margaret Dickinson, Esther Ronay, Brigid Segrave, Humphrey Trevelyan  
+_With:_  
 Doreen Adams  
 Alice Boxall  
 Beatrice Davies  
-Mary Elizabeth Davey
-
-C4 tx 14.1.1985
-
+Mary Elizabeth Davey  
+C4 tx 14.1.1985  
 20 mins
 
-**FACE OF OUR FEAR**
-
+**FACE OF OUR FEAR**  
 _Director_: Stephen Dwoskin  
 _Production Company_: Stephen Dwoskin  
 _Producer_: Stephen Dwoskin  
-_Commissioning Editors_: Alan Fountain,  
-Sue Shepherd
-
-C4 tx 22.3.1992
-
-55 mins
+_Commissioning Editors_: Alan Fountain,  Sue Shepherd  
+C4 tx 22.3.1992  
+55 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTk3MTYzXX0=
+eyJoaXN0b3J5IjpbMTY2OTE5Njg3MF19
 -->
