@@ -24,99 +24,48 @@ Until the ‘Afghanisgate’ revelations, the film rather suffers from its imper
 <br><br>
 
 **THE LIVING DAYLIGHTS**<br>
-
 _Directed by:_ John Glen<br>
-
 ©: Danjaq S.A., United Artists Company<br>
-
 _Made by:_ Eon Productions<br>
-
 _Made for:_ Danjaq S.A.<br>
-
 _From:_ United Artists<br>
-
 _Produced by:_ Albert R. Broccoli, Michael G. Wilson<br>
-
-_Associate Producers:_ Tom Pevsner,  
-Barbara Broccoli<br>
-
+_Associate Producers:_ Tom Pevsner,  Barbara Broccoli<br>
 _Production Supervisor:_ Anthony Waye<br>
-
 _Production Controller:_ Reginald A. Barkshire<br>
-
-_Production Co-ordinators:_ Pam Parker,  
-Janine Lodge, Daniela Stibitz, Ihsanne Khalafaoui, Brenda Ramos, Dawn Severdia, May Capsaskis<br>
-
-_Production Managers:_ Philip Kohler,  
-Sparky Greene, Arno Ortmair, Leonhard Gmür,
-
-Denise O’Dell<br>
-
+_Production Co-ordinators:_ Pam Parker,  Janine Lodge, Daniela Stibitz, Ihsanne Khalafaoui, Brenda Ramos, Dawn Severdia, May Capsaskis<br>
+_Production Managers:_ Philip Kohler,  Sparky Greene, Arno Ortmair, Leonhard Gmür, Denise O’Dell<br>
 _Unit Manager:_ Iris Rose<br>
-
 _Location Managers:_ Nick Daubeny, John Bernard, Arie Bohrer, Stefan Zürcher, Driss Gaïdi<br>
-
 _2nd Unit Directed by:_ Arthur Wooster<br>
-
 _Assistant Director:_ Gerry Gavigan<br>
-
 _2nd Unit Assistant Director:_ Terry Madden<br>
-
 _Continuity:_ June Randall<br>
-
 _2nd Unit Continuity:_ Jean Bourne<br>
-
 _Casting by:_ Debbie McWilliams<br>
-
-_Screenplay by:_ Richard Maibaum,  
-Michael G. Wilson<br>
-
+_Screenplay by:_ Richard Maibaum,  Michael G. Wilson<br>
 _Director of Photography:_ Alec Mills<br>
-
-_Additional Photography:_ Phil Pastuhov,  
-Tom Sanders<br>
-
+_Additional Photography:_ Phil Pastuhov,  Tom Sanders<br>
 _2nd Unit Photographed by:_ Arthur Wooster<br>
-
 _Camera Operator:_ Michael Frift<br>
-
 _2nd Unit Camera Operator:_ Malcolm MacIntosh<br>
-
 _Stills:_ Keith Hamshere, George Whitear<br>
-
 _Video Effects Supervisor:_ Richard Hewitt<br>
-
 _Special Visual Effects:_ John Richardson<br>
-
 _Special Effects:_ Chris Corbould, Joss Williams, Brian Smithies, Ken Morris, Willy Neuner<br>
-
 _Editors:_ John Grover, Peter Davies<br>
-
-_Assistant Editors:_ Matthew Glen, John Nuth,  
-Wayne Smith<br>
-
+_Assistant Editors:_ Matthew Glen, John Nuth,  Wayne Smith<br>
 _Production Designed by:_ Peter Lamont<br>
-
 _Art Director:_ Terry Ackland-Snow<br>
-
-_Additional Art Directors:_ Michael Lamont,  
-Ken Court, Fred Hole, Bert Davey,  
+_Additional Art Directors:_ Michael Lamont,  Ken Court, Fred Hole, Bert Davey,  
 Thomas Riccabona, Peter Manhard<br>
-
 _Set Decorator:_ Michael Ford<br>
-
 _Property Master:_ Bert Hearn<br>
-
 _Construction Manager:_ Anthony Graysmark<br>
-
 _Costumes Designed by:_ Emma Porteous<br>
-
 _Costume Supervisor:_ Tiny Nicholls<br>
-
 _Hats:_ David Shilling<br>
-
 _Make-up Supervisor:_ George Frost<br>
-
 _Make-up:_ Naomi Donne, Eric Allwright,  
 Edwin Erfmann<br>
 
@@ -201,64 +150,65 @@ Caroline Bliss _(Miss Moneypenny)_<br>
 
 Geoffrey Keen _(Minister of Defence)_<br>
 
-Virginia Hey _(Rubavitch)_
+Virginia Hey _(Rubavitch)_<br>
 
-John Terry _(Felix Leiter)_
+John Terry _(Felix Leiter)_<br>
 
-Nadim Sawalha _(chief of security, Tangier)_
+Nadim Sawalha _(chief of security, Tangier)_<br>
 
-John Bowe _(Colonel Feyador)_
+John Bowe _(Colonel Feyador)_<br>
 
-Kell Tyler _(Linda)_
+Kell Tyler _(Linda)_<br>
 
-Catherine Rabett _(Liz)_
+Catherine Rabett _(Liz)_<br>
 
-Dulice Liecier _(Ava)_
+Dulice Liecier _(Ava)_<br>
 
-Alan Talbot _(Koskov’s KGB minder)_
+Alan Talbot _(Koskov’s KGB minder)_<br>
 
-Carl Rigg _(imposter)_
+Carl Rigg _(imposter)_<br>
 
-Tony Cyrus _(chief of Snow Leopard Brotherhood)_
+Tony Cyrus _(chief of Snow Leopard Brotherhood)_<br>
 
-Mohamed Atik _(Achmed)_
+Mohamed Atik _(Achmed)_<br>
 
-Michael Moor, Sumar Khan _(Kamran’s men)_
+Michael Moor, Sumar Khan _(Kamran’s men)_<br>
 
-Ken Sharrock _(jailer)_
+Ken Sharrock _(jailer)_<br>
 
-Peter Porteous _(gasworks supervisor)_
+Peter Porteous _(gasworks supervisor)_<br>
 
-Antony Carrick _(male secretary, Blayden)_
+Antony Carrick _(male secretary, Blayden)_<br>
 
-Frederick Warder _(004)_
+Frederick Warder _(004)_<br>
 
-Glyn Baker _(002)_
+Glyn Baker _(002)_<br>
 
-Derek Hoxby _(Sergeant Stagg)_
+Derek Hoxby _(Sergeant Stagg)_<br>
 
-Bill Weston _(butler, Blayden)_
+Bill Weston _(butler, Blayden)_<br>
 
-Richard Cubison _(trade centre toastmaster)_
+Richard Cubison _(trade centre toastmaster)_<br>
 
-Heinz Winter _(concierge, Vienna hotel)_
+Heinz Winter _(concierge, Vienna hotel)_<br>
 
-Leslie French _(lavatory attendant)_
+Leslie French _(lavatory attendant)_<br>
 
 Odette Benatar, Dianna Casale, Sharon Devlin
 
-Femi Gardiner, Patricia Keefer, Ruddy Rodriguez, Mayte Sanchez, Cela Savannah, Karen Seeberg, Waris Walsh, Karen Williams _(the girls)_
+Femi Gardiner, Patricia Keefer, Ruddy Rodriguez, Mayte Sanchez, Cela Savannah, Karen Seeberg, Waris Walsh, Karen Williams _(the girls)_<br>
 
-_uncredited_
+_uncredited_<br>
 
-John Barry _(orchestra conductor)_
+John Barry _(orchestra conductor)_<br>
 
 Michael Wilson  
-_(man touching balcony in Vienna opera)_
+_(man touching balcony in Vienna opera)_<br>
 
-USA/UK 1987©
+USA/UK 1987©<br>
 
-131 mins
+131 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTk1NzIyN119
+eyJoaXN0b3J5IjpbLTQ4MzM3MDY3NV19
 -->
