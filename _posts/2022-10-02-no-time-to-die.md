@@ -120,8 +120,7 @@ _Main Titles Designed by_: Daniel Kleinman
 _Main Titles Sequence Created at_: FrameStore  
 _End Titles Designer_: Matt Curtis  
 _Music by_: Hans Zimmer  
-_‘No Time to Die’ Written by_: Billie Eilish,  
-Finneas O’Connell  
+_‘No Time to Die’ Written by_: Billie Eilish,  Finneas O’Connell  
 _The James Bond Theme Written by_: Monty Norman  
 _Additional Music_: Steve Mazzaro  
 _‘No Time to Die’ Performed by_: Billie Eilish  
@@ -132,13 +131,12 @@ _Re-recording Mixers_: Paul Massey, Mark Taylor
 _2nd Unit Sound Mixer_: Tom Barrow  
 _Supervising Sound Editor_: Olivier Tarney  
 _Co-supervising Sound Editor_: James Harrison  
-_Sound Effects Designers_: Michael Fentum,  
-Bryan Bowen, Eilam Hoffman  
+_Sound Effects Designers_: Michael Fentum,  Bryan Bowen, Eilam Hoffman  
 _Sound Effects Editors_: Dawn Gough, Mark Taylor  
 _Supervising Stunt Coordinator_: Olivier Schneider  
 _Stunt Coordinator_: Lee Morrison  
-_Cast:_
 
+**Cast**  
 Daniel Craig _(James Bond)_  
 Rami Malek _(Lyutsifer Safin)_  
 Léa Seydoux _(Madeleine Swann)_  
@@ -163,8 +161,7 @@ Nicola Olivieri _(cemetery caretaker)_
 Pio Amato _(cemetery attendant)_  
 Javone Prince _(MI6 security guard)_  
 Davina Moon _(Madeleine’s receptionist)_  
-Mattia Lacovone, Giansalvatore Duca_  
-(young shepherds)_  
+Mattia Lacovone, Giansalvatore Duca _(young shepherds)_  
 Amy Morgan _(Alison Smith)_  
 Lizzie Winkler _(Sarah Jones)_  
 Andrei Nova, Ernest Gromov _(bunker guards)_  
@@ -178,9 +175,9 @@ Michael Mercer _(El Nido bartender)_
 Gemmar McFarlane, Leighton Laing,  
 Kimo Armstrong _(passersby)_
 
-USA-UK 2020©
-
-157 mins
+USA-UK 2020©  
+157 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ2MjU1MjhdfQ==
+eyJoaXN0b3J5IjpbLTEyMTc2Mzg5ODJdfQ==
 -->
