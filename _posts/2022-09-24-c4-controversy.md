@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Controversy
+published: true
+date: 2022-09-24
+readtime: true
+categories: ['CHANNEL 4<br>40 YEARS OF REVOLUTION']
+tags: [Television, Talks]
+metadata: 
+pdf: '2022-09-24-c4-controversy.pdf'
+---
 
 _These screenings will be introduced by John Ranelagh and Rod Stoneman_
 
@@ -24,9 +34,7 @@ Motto of ‘V’: ‘My father still reads the dictionary every day. He says you
 **WR Mysteries of the Organism (Dusan Makavejev, Yugoslavia, 1971)**  
 Derek Hill had bought Dusan Makavejev’s film before Channel 4 went on air, and this masterpiece of montage had lain unseen in the basement of Channel 4 as it was assumed to be untransmittable. John Willis’s ‘Banned’ season in the Spring of 1991 was the perfect basis for its screening it but it was clear  that there would be a problem with several of the sequences featuring tumescent male genitals. The film’s radical juxtaposition of documentary,  fiction and archive to articulate the ideas of Wilhelm Reich had constituted a brilliant and iconic film, but this would not exempt it from the constraints of British broadcasting.
 
-The Independent Film and Video Department had a principle that we would  
-not cut or alter a programme without the filmmaker’s agreement and when  
-we did we always tried to make the effacement – censorship – evident.  When ‘offensive’ material was covered with a black box within the screen  one assumed that the audience could work out what it was that they were  not seeing.
+The Independent Film and Video Department had a principle that we would  not cut or alter a programme without the filmmaker’s agreement and when  we did we always tried to make the effacement – censorship – evident.  When ‘offensive’ material was covered with a black box within the screen  one assumed that the audience could work out what it was that they were  not seeing.
 
 The opening sequence of _WR_ includes a 1930’s Sexpol newsreel with material from the 1930s (actually faked – it was shot on video in Woodstock in 1969). When I suggested that we would have to place a black rectangle over part of the image, Makavejev proposed a more creative solution with a matte of gently undulating goldfish for the opening and covering a later sequence (shot in New York with the editor of _Screw_, as Nancy Godfrey of the infamous Plaster Casters records Jim Buckley’s erect penis) with a psychedelic whorl.  
 **Rod Stoneman**
@@ -45,7 +53,8 @@ Apparently, some board members felt that _Mother Ireland_ should be transmitted 
 Three years later Channel 4 was planning a season about censorship to be called ‘Banned’. I noticed that this included a Canadian programme called _Death of a Terrorist_, substantially using the interviews with Mairéad Farrell recorded by the Derry Workshop for _Mother Ireland_. It seemed ironic, even hypocritical, for the Channel to import and pay for this foreign programme as an example of the limits of television censorship while it had forgotten the untransmitted original documentary in its own vaults. I suggested the substitution of our programme to John Willis, the Head of the Factual Department; the Derry film was a much more complex and well-made piece and it would have been ridiculous to buy a new programme while one we had rights to show sat unseen in the basement. The board’s previous stipulation of substitution was quietly dropped, although under the new broadcasting legislation Mairéad Farrell’s voice had to be partially dubbed by an actor, although her image remained intact. Shown on 11 April 1991, it was watched by over a quarter of a million people. As usual in such cases, there was little public response and nothing dramatic happened. The broadcast could even be described as something of an anticlimax; television’s boundary keepers, in their diligent expertise, generally over-anticipate the dangers of showing ‘controversial’ programmes.  
 **Extracted from: Rod Stoneman, _Seeing Is Believing: The Politics of the Visual_ (London: Black Dog, 2013)**
 
-
+<img style="float: left;" src="/img/c4-controversy.jpg">
+<br><br><br><br><br><br><br><br>
 
 **John Ranelagh** began his television career as a Researcher on BBC TV’s _Midweek_ and was Associate Producer of _Ireland: A Television History_.  He joined Channel 4 with Jeremy Isaacs and was Special Assistant to the Chief Executive, Secretary of the Board, and a Commissioning Editor.  He developed the commissioning system, created the _Equinox_ strand, and was responsible for _Jesus: The Evidence_. He was the first television professional appointed to the Independent Television Commission.
 
@@ -95,6 +104,55 @@ Nell McCafferty
 C4 tx 11.4.1991  
 51 mins<br>
 <br>
+
+**CHANNEL 4  
+40 YEARS OF REVOLUTION**<br>
+**Music & Youth: The Tube + Discussion & Q&A**<br>
+Fri 2 Sep 18:20<br>
+**Comedy: Discussion & Q&A + The Comic Strip Presents: Five Go Mad in Dorset**<br>
+Tue 6 Sep 18:15<br>
+**Channel 4’s TV Drama Revolution:  Discussion + Q&A**<br>
+Sun 11 Sep 14:15<br>
+**A Very British Coup + intro by  author Chris Mullin**<br>
+Sun 11 Sep 16:30<br>
+**Diversity: Handsworth Songs + Q&A with  John Akomfrah + Panel Discussion & Q&A**<br>
+Mon 12 Sep 18:15<br>
+**Out and Proud: Veronica 4 Rose  + Out on Tuesday + intro by original  
+Channel 4 Commissioner Caroline Spry**<br>
+Thu 15 Sep 18:15<br>
+**Access / Direct Speech: The Work They Say  Is Mine + Women of the Rhondda  + Face of Our Fear**<br>
+Tue 20 Sep 18:15<br>
+**Channel 4: The Television Revolution**<br>
+Fri 23 Sep 18:20<br>
+**Controversy: Jesus the Evidence + V  + Mother Ireland**<br>
+Sat 24 Sep 18:00<br>
+**Who Needs Channel 4?**<br>
+Wed 28 Sep 18:20<br>
+**Channel 4 Then and Now conference**<br>
+Fri 23 Sep 10:00–17:00 and Sat 24 Sep  10:00–17:00<br>
+
+Regional screenings and events will be taking place at these venues across the UK (please go to **bfi.org.uk/whatson** for links): Arnolfini, Bristol; Filmhouse Edinburgh; Queen’s Film Theatre, Belfast; Y Drwm, National Library of Wales, Aberystwyth
+
+Explore thousands of titles from across  Channel 4’s history in our free Mediatheque<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTUzNDM1MDczXX0=
 -->
