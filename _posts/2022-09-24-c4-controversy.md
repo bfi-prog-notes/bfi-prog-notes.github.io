@@ -43,57 +43,41 @@ In an unprecedented decision, the Chief Executive, Michael Grade, felt that it s
 Apparently, some board members felt that _Mother Ireland_ should be transmitted because it constituted precisely the ‘limit case’ of a democracy that is able to listen to those who oppose it forcefully and, in fact, with political violence. For others, including the deputy chair of the board, it clearly risked giving credibility to ‘an avowed enemy’ and potentially, for him at least, constituted a matter for resignation. Michael Grade, who had initially and cautiously supported the showing of the programme, clearly did not feel it was worth a public row on the Channel 4 board and began to back off. Underneath the moral expressions given to such emotional reactions may be discerned a fierce, defensive response to an insurrectionary challenge to the British state. An unpredictable compromise emerged; Channel 4 proposed to the Derry Workshop that they should hypothetically turn the clock back, replace that one interview which had been filmed unwittingly, with another ‘equivalent’ political activist who could be a member of Sinn Féin, but not of the IRA. Douglas Hurd, Britain’s Home Secretary, had recently introduced an extension to existing legislation, a censorship Notice that enforced the ludicrous dubbing of members of proscribed groups (including the legal political party Sinn Féin), so the voice would have to be substituted. Not surprisingly, the Workshop refused to comply and the programme then sat on the shelf, untransmitted. The television station rather forgot the controversy, while the Workshop distributed the uncut programme around the world by videocassette.
 
 Three years later Channel 4 was planning a season about censorship to be called ‘Banned’. I noticed that this included a Canadian programme called _Death of a Terrorist_, substantially using the interviews with Mairéad Farrell recorded by the Derry Workshop for _Mother Ireland_. It seemed ironic, even hypocritical, for the Channel to import and pay for this foreign programme as an example of the limits of television censorship while it had forgotten the untransmitted original documentary in its own vaults. I suggested the substitution of our programme to John Willis, the Head of the Factual Department; the Derry film was a much more complex and well-made piece and it would have been ridiculous to buy a new programme while one we had rights to show sat unseen in the basement. The board’s previous stipulation of substitution was quietly dropped, although under the new broadcasting legislation Mairéad Farrell’s voice had to be partially dubbed by an actor, although her image remained intact. Shown on 11 April 1991, it was watched by over a quarter of a million people. As usual in such cases, there was little public response and nothing dramatic happened. The broadcast could even be described as something of an anticlimax; television’s boundary keepers, in their diligent expertise, generally over-anticipate the dangers of showing ‘controversial’ programmes.  
-**Extracted from: Rod Stoneman, _Seeing Is Believing: The Politics of the Visual  
-_(London: Black Dog, 2013)**
+**Extracted from: Rod Stoneman, _Seeing Is Believing: The Politics of the Visual_ (London: Black Dog, 2013)**
 
-<![endif]-->
 
-**John Ranelagh** began his television career as a Researcher on BBC TV’s _Midweek_ and was Associate Producer of _Ireland: A Television History_.  
-He joined Channel 4 with Jeremy Isaacs and was Special Assistant to the  
-Chief Executive, Secretary of the Board, and a Commissioning Editor.  
-He developed the commissioning system, created the _Equinox_ strand, and was responsible for _Jesus: The Evidence_. He was the first television professional appointed to the Independent Television Commission.
+
+**John Ranelagh** began his television career as a Researcher on BBC TV’s _Midweek_ and was Associate Producer of _Ireland: A Television History_.  He joined Channel 4 with Jeremy Isaacs and was Special Assistant to the Chief Executive, Secretary of the Board, and a Commissioning Editor.  He developed the commissioning system, created the _Equinox_ strand, and was responsible for _Jesus: The Evidence_. He was the first television professional appointed to the Independent Television Commission.
 
 **Rod Stoneman** is the Director of the Huston School of Film & Digital Media at the National University of Ireland, Galway. He was Chief Executive of Bord Scannán na hÉireann / the Irish Film Board until September 2003 and previously a Deputy Commissioning Editor in the Independent Film and Video Department at Channel 4 Television in the United Kingdom. He has made a number of documentaries, including _Ireland: The Silent Voices, Italy: the Image Business, 12,000 Years of Blindness and The Spindle,_ and has written extensively on film and television. He is the author of _Seeing Is Believing: The Politics of the Image; Chávez: The Revolution Will Not Be Televised; A Case Study of Politics and the Media_ and the co-editor of _‘The Quiet Man’… and Beyond: Reflections on a Classic Film, John Ford and Ireland_ (with Seán Crosson) and _Scottish Cinema Now_ (with Jonathan Murray and Fidelma Farley).
+<br><br>
 
-<![endif]-->
-
-**JESUS: THE EVIDENCE**
-
+**JESUS: THE EVIDENCE**  
 _Director_: David W. Rolfe  
 _Production Company_: LWT  
 _For_: Channel Four  
 _Executive Producer_: Jane Hewland  
 _Producer_: David W. Rolfe  
-_Series Producer_: Julian Norridge
-
-_Researcher:_ Jean-Claude Bragard
-
-_Narrator:_ Jeremy Kemp
-
-C4 tx 8.4.1984
-
+_Series Producer_: Julian Norridge  
+_Researcher:_ Jean-Claude Bragard  
+_Narrator:_ Jeremy Kemp  
+C4 tx 8.4.1984  
 51 mins
 
-**V**
-
+**V**  
 _Director_: Richard Eyre  
 _Production Company_: LWT  
 _Producer_: Sue Birtwistle  
 _Script_: Tony Harrison  
-_Camera Operator_: Roger Pratt
-
-_Voice:_ Tony Harrison
-
-C4 tx 4.11.1987
-
+_Camera Operator_: Roger Pratt  
+_Voice:_ Tony Harrison  
+C4 tx 4.11.1987  
 10 mins
 
-**MOTHER IRELAND**
-
+**MOTHER IRELAND**  
 _Director_: Anne Crilly  
 _Production Company_: Derry Film & Video Collective  
-_Producers_: Anne Crilly, Stephanie English,  
-Jim Curran, Margo Harkin, Tomas Maccoilean, Geraldine McGuinness, Brendan McMenamin  
+_Producers_: Anne Crilly, Stephanie English,  Jim Curran, Margo Harkin, Tomas Maccoilean, Geraldine McGuinness, Brendan McMenamin  
 _Script_: Anne Crilly  
 _Engineer_: Brian McAvoy  
 _Editing Consultant_: Annie Goldson  
@@ -102,19 +86,15 @@ _‘Ireland, Mother Ireland’:_ Larkin
 _‘Four Green Fields’:_ Maura Stackie  
 _‘Coast River’:_ Donal Lunny  
 _‘What a Wonderful World’:_ Helen Brady  
-_‘Give an Irish Girl to Me’:_ Eamonn Toland,  
-Malcolm Wray
-
-_With:_
-
+_‘Give an Irish Girl to Me’:_ Eamonn Toland,  Malcolm Wray  
+_With:_  
 Mairéad Farrell  
 Pat Murphy  
 Bernadette Devlin  
-Nell McCafferty
-
-C4 tx 11.4.1991
-
-51 mins
+Nell McCafferty  
+C4 tx 11.4.1991  
+51 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTIxMjU2M119
+eyJoaXN0b3J5IjpbMTUzNDM1MDczXX0=
 -->
