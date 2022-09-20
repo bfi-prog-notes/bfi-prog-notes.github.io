@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Living Daylights
+published: true
+date: 2022-10-01
+readtime: true
+categories: ['JAMES BOND AT 60 WEEKEND']
+tags: [Action, Adventure]
+metadata: 'USA-UK 1987, 131 mins<br> Director: John Glen'
+pdf: '2022-10-01-living-daylights.pdf'
+---
 
 The first Bond film to star Timothy Dalton, _The Living Daylights_ is a familiar mixture of popular elements from the series, given a certain political relevance through allusions to glasnost and the Soviet policy of ‘détente’.
 
@@ -12,8 +22,7 @@ John Glen’s direction is adept and well-paced, allowing Dalton the space to de
 **A contemporary review**  
 In the quarter-century since _Dr. No_ (1962), the Bond films have increasingly opted for a mood of nail-biting exuberance, closer to the old serial spirit-somewhere between _The Perils of Pauline_ and _The Mask of Fu Manchu_ – than to Len Deighton or John Le Carré. Q’s death-dealing gadgetry is often as hilarious as it is awesome; the stunts generate a festive air, like a three-ring circus; Bond’s seduction of, and by, the various Bond girls has less to do with the serious business of espionage than with the daydreams of cheery virility; and the extravagant villains, with their grandiose schemes for world disruption, have a built-in improbability which, while it never prevents suspense from breaking in, subverts any real suspension of disbelief. Descriptions like ‘camp’, ‘tongue-in-cheek’, or ‘winking at the audience’ risk understating these films’ appurtenance to a curiously overlooked genre: the self-aware spectacle, whose happy self-reflexivity, far from ‘subverting the illusion’, actually celebrates the show qua show.
 
-The original Bond novels (from 1952) are interesting enough, at least by the standards of what one might call ‘easy reading’ or ‘upmarket pulp fun’.  
-They mix a toughly patriotic gentleman-spy with new perceptions of politico-bureaucratic cynicism; old snobberies with modern affluence-and-anomie; Sapper with Nigel Balchin. Probably Bond’s secret agenting does metaphor a new sense of social life as continuous deception all round. Compared to the novels, the movies are brasher, broader and more down-market. The Roger Moore Bond, in particular, far from seeming secretive, had all the swagger of a car salesman relishing an unexpectedly huge expense account.
+The original Bond novels (from 1952) are interesting enough, at least by the standards of what one might call ‘easy reading’ or ‘upmarket pulp fun’.  They mix a toughly patriotic gentleman-spy with new perceptions of politico-bureaucratic cynicism; old snobberies with modern affluence-and-anomie; Sapper with Nigel Balchin. Probably Bond’s secret agenting does metaphor a new sense of social life as continuous deception all round. Compared to the novels, the movies are brasher, broader and more down-market. The Roger Moore Bond, in particular, far from seeming secretive, had all the swagger of a car salesman relishing an unexpectedly huge expense account.
 
 While Fleming’s novels contained a stiff mix of chauvinism and _realpolitik_ – in a phrase, the spirit of Eden at Suez – the movies merely perpetuate the cocky hedonism inaugurated with the Swinging Sixties (_The Avengers_ amidst the _Playboy_ ‘philosophy’). The more relaxed screen tone usually extends as far as a worldly tolerance of Russia’s adversarial role. The enemy Number One is rarely World Communism, but mischief-making by egomaniacal, often conspicuously capitalistic, masterminds. In _Billion Dollar Brain_, a ‘cousin’ to the Bond films, via their co-producer Harry Saltzman, the same basic formula tilts in favour of Russian imperialism against U.S. interventionism; and the final flourish on behalf of détente in _For Your Eyes Only_ was audibly protested by a London preview audience, impressed by the invasion of Afghanistan.
 
@@ -135,9 +144,27 @@ _uncredited_<br>
 John Barry _(orchestra conductor)_<br>
 Michael Wilson  _(man touching balcony in Vienna opera)_<br>
 
-USA/UK 1987©<br>
+USA-UK 1987©<br>
 131 mins<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTExMDY3NTE4NTVdfQ==
 -->
