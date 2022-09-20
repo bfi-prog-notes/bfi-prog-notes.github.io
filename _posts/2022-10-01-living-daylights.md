@@ -66,149 +66,78 @@ _Costumes Designed by:_ Emma Porteous<br>
 _Costume Supervisor:_ Tiny Nicholls<br>
 _Hats:_ David Shilling<br>
 _Make-up Supervisor:_ George Frost<br>
-_Make-up:_ Naomi Donne, Eric Allwright,  
-Edwin Erfmann<br>
-
+_Make-up:_ Naomi Donne, Eric Allwright,  Edwin Erfmann<br>
 _Hairdressing Supervisor:_ Ramon Gow<br>
-
 _Hairdressers:_ Helen Lennox, Barbara Sutton<br>
-
 _Main Title Designed by:_ Maurice Binder<br>
-
 _Title Opticals by:_ Screen Opticals<br>
-
 _Music Composed and Conducted by:_ John Barry<br>
-
-_Music Performed by:_  
-Austrian Youth Symphony Orchestra<br>
-
+_Music Performed by:_  Austrian Youth Symphony Orchestra<br>
 _Cello:_ Stefan Kropfitsch<br>
-
 _Conducted by:_ Gert Meditz<br>
-
 _Orchestrations:_ Nicholas Raine<br>
-
 _Music Editor:_ Alan Killick<br>
-
 _Music Mixer:_ Dick Lewzey<br>
-
 _Music Recorded at:_ CTS Studios (Wembley)<br>
-
 _The James Bond Theme Written by:_ Monty Norman<br>
-
 _Sound Recording:_ Derek Ball<br>
-
-_Additional Sound Recordists:_ Brian Marshall,  
-Roby Guever<br>
-
+_Additional Sound Recordists:_ Brian Marshall,  Roby Guever<br>
 _Boom Operator:_ Ken Nightingall<br>
-
-_Re-recording Mixers:_ Graham Hartstone,  
-John Hayward<br>
-
+_Re-recording Mixers:_ Graham Hartstone,  John Hayward<br>
 _Sound Editors:_ Colin Miller, Vernon Messenger, Derek Holding, Peter Musgrave<br>
-
 _Stunt Supervisor:_ Paul Weston<br>
-
 _Armourer:_ Simon Atherton<br>
-
 _Horse Master:_ Greg Powell<br>
-
 _Horses Provided by:_ Societe R.E.H.A.<br>
-
 _Unit Publicist:_ Geoff Freeman<br>
-
 _Made at:_ Pinewood Studios<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Timothy Dalton _(as Ian Fleming’s James Bond 007)_<br>
-
 Maryam d’Abo _(Kara Milovy)_<br>
-
 Joe Don Baker _(Brad Whitaker)_<br>
-
 Art Malik _(Kamran Shah)_<br>
-
 John Rhys-Davies _(General Leonid Pushkin)_<br>
-
 Jeroen Krabbé _(General Georgi Koskov)_<br>
-
 Andreas Wisniewski _(Necros)_<br>
-
 Thomas Wheatley _(Saunders)_<br>
-
 Julie T. Wallace _(Rosika Miklos)_<br>
-
 Desmond Llewelyn _(Q)_<br>
-
 Robert Brown _(M)_<br>
-
 Walter Gotell _(General Anatol Gogol)_<br>
-
 Caroline Bliss _(Miss Moneypenny)_<br>
-
 Geoffrey Keen _(Minister of Defence)_<br>
-
 Virginia Hey _(Rubavitch)_<br>
-
 John Terry _(Felix Leiter)_<br>
-
 Nadim Sawalha _(chief of security, Tangier)_<br>
-
 John Bowe _(Colonel Feyador)_<br>
-
 Kell Tyler _(Linda)_<br>
-
 Catherine Rabett _(Liz)_<br>
-
 Dulice Liecier _(Ava)_<br>
-
 Alan Talbot _(Koskov’s KGB minder)_<br>
-
 Carl Rigg _(imposter)_<br>
-
 Tony Cyrus _(chief of Snow Leopard Brotherhood)_<br>
-
 Mohamed Atik _(Achmed)_<br>
-
 Michael Moor, Sumar Khan _(Kamran’s men)_<br>
-
 Ken Sharrock _(jailer)_<br>
-
 Peter Porteous _(gasworks supervisor)_<br>
-
 Antony Carrick _(male secretary, Blayden)_<br>
-
 Frederick Warder _(004)_<br>
-
 Glyn Baker _(002)_<br>
-
 Derek Hoxby _(Sergeant Stagg)_<br>
-
 Bill Weston _(butler, Blayden)_<br>
-
 Richard Cubison _(trade centre toastmaster)_<br>
-
 Heinz Winter _(concierge, Vienna hotel)_<br>
-
 Leslie French _(lavatory attendant)_<br>
-
-Odette Benatar, Dianna Casale, Sharon Devlin
-
-Femi Gardiner, Patricia Keefer, Ruddy Rodriguez, Mayte Sanchez, Cela Savannah, Karen Seeberg, Waris Walsh, Karen Williams _(the girls)_<br>
+Odette Benatar, Dianna Casale, Sharon Devlin, Femi Gardiner, Patricia Keefer, Ruddy Rodriguez, Mayte Sanchez, Cela Savannah, Karen Seeberg, Waris Walsh, Karen Williams _(the girls)_<br>
 
 _uncredited_<br>
-
 John Barry _(orchestra conductor)_<br>
-
-Michael Wilson  
-_(man touching balcony in Vienna opera)_<br>
+Michael Wilson  _(man touching balcony in Vienna opera)_<br>
 
 USA/UK 1987©<br>
-
 131 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzM3MDY3NV19
+eyJoaXN0b3J5IjpbLTExMDY3NTE4NTVdfQ==
 -->
