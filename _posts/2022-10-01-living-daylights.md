@@ -19,189 +19,187 @@ While Fleming’s novels contained a stiff mix of chauvinism and _realpolitik_ �
 
 Although _The Living Daylights_ involves heavier references to Second World oppression (not inappropriate in a Czechoslovakian setting), it eschews any further concessions to Cold War revival, _Rambo_-style, instead attributing trouble to collusion between deviationist ultras on both sides. (A significant omission: Libyans, in the style of _Back to the Future_.) Here, Afghanistan, ambivalence and amorality call the tune. If the plot is rarely coherent, let alone plausible, its penultimate twists are quite fascinating. They happily mix, into a moral chiaroscuro worthy of Machiavelli himself, (a) a mercenary-capitalist dressed as a U.S. general (virtually an incarnation of the ‘contra’ spirit), (b) a Russian equivalent of Irangate, and (c) freedom fighters who keep going by dealing dope. Almost as a compensatory concession to our finer feelings, Bond’s affair with the gentle, doe-eyed, cello-playing victim of love is more sensitive than heretofore, even faintly romantic. The new Timothy Dalton version of Bond is relatively sleek, tough and thoughtful; his occasional flash of a fey, pixie-ish expression oddly evokes another multimorphous British hero, Dr. Who.
 
-Until the ‘Afghanisgate’ revelations, the film rather suffers from its imperfect compromise between the usual spectacular elements, which can be exhilarating however implausible, and its more intimate, smaller-scale tendencies, a la Frederick Forsyth, where an air of horrid ingenuity is indispensable. But if the film probably won’t be among the biggest-grossing Bonds, it contains some highly enjoyable set-pieces, notably, the hilarious notion of whisking a fugitive along a pipeline as if he were a pneumatique, and the penultimate rodeo mixing cavalry and aircraft, bulldozers and saboteurs, all performing wildly eccentric manoeuvres. The film is essentially an ‘action circus’, Douglas Fairbanks swashbuckle updated by secret-agent costume (cloak-and-gadget), and sex-with-everything.
+Until the ‘Afghanisgate’ revelations, the film rather suffers from its imperfect compromise between the usual spectacular elements, which can be exhilarating however implausible, and its more intimate, smaller-scale tendencies, a la Frederick Forsyth, where an air of horrid ingenuity is indispensable. But if the film probably won’t be among the biggest-grossing Bonds, it contains some highly enjoyable set-pieces, notably, the hilarious notion of whisking a fugitive along a pipeline as if he were a pneumatique, and the penultimate rodeo mixing cavalry and aircraft, bulldozers and saboteurs, all performing wildly eccentric manoeuvres. The film is essentially an ‘action circus’, Douglas Fairbanks swashbuckle updated by secret-agent costume (cloak-and-gadget), and sex-with-everything.  
+**Raymond Durgnat, _Monthly Film Bulletin_, August 1987**
+<br><br>
 
-Raymond Durgnat, _Monthly Film Bulletin_, August 1987
+**THE LIVING DAYLIGHTS**<br>
 
-<![endif]-->
+_Directed by:_ John Glen<br>
 
-**THE LIVING DAYLIGHTS**
+©: Danjaq S.A., United Artists Company<br>
 
-_Directed by:_ John Glen
+_Made by:_ Eon Productions<br>
 
-©: Danjaq S.A., United Artists Company
+_Made for:_ Danjaq S.A.<br>
 
-_Made by:_ Eon Productions
+_From:_ United Artists<br>
 
-_Made for:_ Danjaq S.A.
-
-_From:_ United Artists
-
-_Produced by:_ Albert R. Broccoli, Michael G. Wilson
+_Produced by:_ Albert R. Broccoli, Michael G. Wilson<br>
 
 _Associate Producers:_ Tom Pevsner,  
-Barbara Broccoli
+Barbara Broccoli<br>
 
-_Production Supervisor:_ Anthony Waye
+_Production Supervisor:_ Anthony Waye<br>
 
-_Production Controller:_ Reginald A. Barkshire
+_Production Controller:_ Reginald A. Barkshire<br>
 
 _Production Co-ordinators:_ Pam Parker,  
-Janine Lodge, Daniela Stibitz, Ihsanne Khalafaoui, Brenda Ramos, Dawn Severdia, May Capsaskis
+Janine Lodge, Daniela Stibitz, Ihsanne Khalafaoui, Brenda Ramos, Dawn Severdia, May Capsaskis<br>
 
 _Production Managers:_ Philip Kohler,  
 Sparky Greene, Arno Ortmair, Leonhard Gmür,
 
-Denise O’Dell
+Denise O’Dell<br>
 
-_Unit Manager:_ Iris Rose
+_Unit Manager:_ Iris Rose<br>
 
-_Location Managers:_ Nick Daubeny, John Bernard, Arie Bohrer, Stefan Zürcher, Driss Gaïdi
+_Location Managers:_ Nick Daubeny, John Bernard, Arie Bohrer, Stefan Zürcher, Driss Gaïdi<br>
 
-_2nd Unit Directed by:_ Arthur Wooster
+_2nd Unit Directed by:_ Arthur Wooster<br>
 
-_Assistant Director:_ Gerry Gavigan
+_Assistant Director:_ Gerry Gavigan<br>
 
-_2nd Unit Assistant Director:_ Terry Madden
+_2nd Unit Assistant Director:_ Terry Madden<br>
 
-_Continuity:_ June Randall
+_Continuity:_ June Randall<br>
 
-_2nd Unit Continuity:_ Jean Bourne
+_2nd Unit Continuity:_ Jean Bourne<br>
 
-_Casting by:_ Debbie McWilliams
+_Casting by:_ Debbie McWilliams<br>
 
 _Screenplay by:_ Richard Maibaum,  
-Michael G. Wilson
+Michael G. Wilson<br>
 
-_Director of Photography:_ Alec Mills
+_Director of Photography:_ Alec Mills<br>
 
 _Additional Photography:_ Phil Pastuhov,  
-Tom Sanders
+Tom Sanders<br>
 
-_2nd Unit Photographed by:_ Arthur Wooster
+_2nd Unit Photographed by:_ Arthur Wooster<br>
 
-_Camera Operator:_ Michael Frift
+_Camera Operator:_ Michael Frift<br>
 
-_2nd Unit Camera Operator:_ Malcolm MacIntosh
+_2nd Unit Camera Operator:_ Malcolm MacIntosh<br>
 
-_Stills:_ Keith Hamshere, George Whitear
+_Stills:_ Keith Hamshere, George Whitear<br>
 
-_Video Effects Supervisor:_ Richard Hewitt
+_Video Effects Supervisor:_ Richard Hewitt<br>
 
-_Special Visual Effects:_ John Richardson
+_Special Visual Effects:_ John Richardson<br>
 
-_Special Effects:_ Chris Corbould, Joss Williams, Brian Smithies, Ken Morris, Willy Neuner
+_Special Effects:_ Chris Corbould, Joss Williams, Brian Smithies, Ken Morris, Willy Neuner<br>
 
-_Editors:_ John Grover, Peter Davies
+_Editors:_ John Grover, Peter Davies<br>
 
 _Assistant Editors:_ Matthew Glen, John Nuth,  
-Wayne Smith
+Wayne Smith<br>
 
-_Production Designed by:_ Peter Lamont
+_Production Designed by:_ Peter Lamont<br>
 
-_Art Director:_ Terry Ackland-Snow
+_Art Director:_ Terry Ackland-Snow<br>
 
 _Additional Art Directors:_ Michael Lamont,  
 Ken Court, Fred Hole, Bert Davey,  
-Thomas Riccabona, Peter Manhard
+Thomas Riccabona, Peter Manhard<br>
 
-_Set Decorator:_ Michael Ford
+_Set Decorator:_ Michael Ford<br>
 
-_Property Master:_ Bert Hearn
+_Property Master:_ Bert Hearn<br>
 
-_Construction Manager:_ Anthony Graysmark
+_Construction Manager:_ Anthony Graysmark<br>
 
-_Costumes Designed by:_ Emma Porteous
+_Costumes Designed by:_ Emma Porteous<br>
 
-_Costume Supervisor:_ Tiny Nicholls
+_Costume Supervisor:_ Tiny Nicholls<br>
 
-_Hats:_ David Shilling
+_Hats:_ David Shilling<br>
 
-_Make-up Supervisor:_ George Frost
+_Make-up Supervisor:_ George Frost<br>
 
 _Make-up:_ Naomi Donne, Eric Allwright,  
-Edwin Erfmann
+Edwin Erfmann<br>
 
-_Hairdressing Supervisor:_ Ramon Gow
+_Hairdressing Supervisor:_ Ramon Gow<br>
 
-_Hairdressers:_ Helen Lennox, Barbara Sutton
+_Hairdressers:_ Helen Lennox, Barbara Sutton<br>
 
-_Main Title Designed by:_ Maurice Binder
+_Main Title Designed by:_ Maurice Binder<br>
 
-_Title Opticals by:_ Screen Opticals
+_Title Opticals by:_ Screen Opticals<br>
 
-_Music Composed and Conducted by:_ John Barry
+_Music Composed and Conducted by:_ John Barry<br>
 
 _Music Performed by:_  
-Austrian Youth Symphony Orchestra
+Austrian Youth Symphony Orchestra<br>
 
-_Cello:_ Stefan Kropfitsch
+_Cello:_ Stefan Kropfitsch<br>
 
-_Conducted by:_ Gert Meditz
+_Conducted by:_ Gert Meditz<br>
 
-_Orchestrations:_ Nicholas Raine
+_Orchestrations:_ Nicholas Raine<br>
 
-_Music Editor:_ Alan Killick
+_Music Editor:_ Alan Killick<br>
 
-_Music Mixer:_ Dick Lewzey
+_Music Mixer:_ Dick Lewzey<br>
 
-_Music Recorded at:_ CTS Studios (Wembley)
+_Music Recorded at:_ CTS Studios (Wembley)<br>
 
-_The James Bond Theme Written by:_ Monty Norman
+_The James Bond Theme Written by:_ Monty Norman<br>
 
-_Sound Recording:_ Derek Ball
+_Sound Recording:_ Derek Ball<br>
 
 _Additional Sound Recordists:_ Brian Marshall,  
-Roby Guever
+Roby Guever<br>
 
-_Boom Operator:_ Ken Nightingall
+_Boom Operator:_ Ken Nightingall<br>
 
 _Re-recording Mixers:_ Graham Hartstone,  
-John Hayward
+John Hayward<br>
 
-_Sound Editors:_ Colin Miller, Vernon Messenger, Derek Holding, Peter Musgrave
+_Sound Editors:_ Colin Miller, Vernon Messenger, Derek Holding, Peter Musgrave<br>
 
-_Stunt Supervisor:_ Paul Weston
+_Stunt Supervisor:_ Paul Weston<br>
 
-_Armourer:_ Simon Atherton
+_Armourer:_ Simon Atherton<br>
 
-_Horse Master:_ Greg Powell
+_Horse Master:_ Greg Powell<br>
 
-_Horses Provided by:_ Societe R.E.H.A.
+_Horses Provided by:_ Societe R.E.H.A.<br>
 
-_Unit Publicist:_ Geoff Freeman
+_Unit Publicist:_ Geoff Freeman<br>
 
-_Made at:_ Pinewood Studios
+_Made at:_ Pinewood Studios<br>
 
-_Cast:_
+_Cast:_<br>
 
-Timothy Dalton _(as Ian Fleming’s James Bond 007)_
+Timothy Dalton _(as Ian Fleming’s James Bond 007)_<br>
 
-Maryam d’Abo _(Kara Milovy)_
+Maryam d’Abo _(Kara Milovy)_<br>
 
-Joe Don Baker _(Brad Whitaker)_
+Joe Don Baker _(Brad Whitaker)_<br>
 
-Art Malik _(Kamran Shah)_
+Art Malik _(Kamran Shah)_<br>
 
-John Rhys-Davies _(General Leonid Pushkin)_
+John Rhys-Davies _(General Leonid Pushkin)_<br>
 
-Jeroen Krabbé _(General Georgi Koskov)_
+Jeroen Krabbé _(General Georgi Koskov)_<br>
 
-Andreas Wisniewski _(Necros)_
+Andreas Wisniewski _(Necros)_<br>
 
-Thomas Wheatley _(Saunders)_
+Thomas Wheatley _(Saunders)_<br>
 
-Julie T. Wallace _(Rosika Miklos)_
+Julie T. Wallace _(Rosika Miklos)_<br>
 
-Desmond Llewelyn _(Q)_
+Desmond Llewelyn _(Q)_<br>
 
-Robert Brown _(M)_
+Robert Brown _(M)_<br>
 
-Walter Gotell _(General Anatol Gogol)_
+Walter Gotell _(General Anatol Gogol)_<br>
 
-Caroline Bliss _(Miss Moneypenny)_
+Caroline Bliss _(Miss Moneypenny)_<br>
 
-Geoffrey Keen _(Minister of Defence)_
+Geoffrey Keen _(Minister of Defence)_<br>
 
 Virginia Hey _(Rubavitch)_
 
@@ -262,5 +260,5 @@ USA/UK 1987©
 
 131 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTczNjY3Ml19
+eyJoaXN0b3J5IjpbLTc1OTk1NzIyN119
 -->
