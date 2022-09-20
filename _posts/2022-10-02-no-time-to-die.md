@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: No Time to Die
+published: true
+date: 2022-10-02
+readtime: true
+categories: ['JAMES BOND AT 60 WEEKEND']
+tags: [Action, Adventure]
+metadata: 'USA-UK 2020, 157 mins<br> Director: Cary Joji Fukunaga'
+pdf: '2022-10-02-no-time-to-die.pdf'
+---
 
 Where once the James Bond films played as separate adventures, linked by characters both malevolent and benign, EON Productions wanted the Daniel Craig series to unfold as a unified whole. _Quantum of Solace_ (2008) picked up immediately after _Casino Royale_ (2006), which had tracked Bond’s initiation into the life of a double-O agent.
 
@@ -14,8 +24,7 @@ Themes exploring secrets, betrayal and trust have stitched together the last fou
 
 ‘If Bond is going to commit to a relationship, this throws up so many emotional challenges for him,’ continues Broccoli. ‘So trust is the biggest theme in this movie; making an emotional commitment with someone is very difficult because of his history with attachments, and then betrayal being a big part of the break-up of those attachments.’
 
-Though he is committing to his relationship with Madeleine, _No Time to Die_  
-begins with Bond having severed his longest-lasting relationship, his employment with MI6.
+Though he is committing to his relationship with Madeleine, _No Time to Die_  begins with Bond having severed his longest-lasting relationship, his employment with MI6.
 
 Associate producer Gregg Wilson notes that Bond’s retirement opened the filmmakers to a new reality.
 
@@ -178,6 +187,24 @@ Kimo Armstrong _(passersby)_
 USA-UK 2020©  
 157 mins<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEyMTc2Mzg5ODJdfQ==
 -->
