@@ -13,9 +13,9 @@ Writer and creator **Steven Moffat** was lead writer and executive producer of _
 
 Steven’s screenwriting career began with the much-loved teen drama series _Press Gang_, writing all 43 episodes across five series. From there he went on to create and write three sitcoms _Coupling, Chalk,_ and _Joking Apart._ Other credits include his series _Jekyll,_ and the feature film _Tintin_ which was directed by Steven Spielberg.
 
-Among his many accolades, Steven has been awarded multiple BAFTAs including five for his writing on _Press Gang, Sherlock_ (Series 2 Episode 1: _ A Scandal in Belgravia_ ),_and _Doctor Who_ (Series 3, Episode 10: _Blink_)_,_ and the BAFTA Television Special Award in 2012 in recognition of his outstanding creative writing contribution to television.
+Among his many accolades, Steven has been awarded multiple BAFTAs including five for his writing on _Press Gang, Sherlock_ (Series 2 Episode 1: _ A Scandal in Belgravia_), and _Doctor Who_ (Series 3, Episode 10: _Blink_)_,_ and the BAFTA Television Special Award in 2012 in recognition of his outstanding creative writing contribution to television.
 
-He was also awarded two Emmys for his work on _Sherlock_: ‘Outstanding Writing for a Mini-Series’ in 2012 (_Sherlock_ Series 3 Episode 3: _His Last Vow_) and ‘Outstanding Television Movie’ in 2016 (_The Abominable Bride_)_._ He has won five Royal Television Society awards – including Special Achievement and Lifetime Achievement Awards from the Writer’s Guild and British Screenwriter’s Guild. In 2015, he received an Order of the British Empire for Services to Television.
+He was also awarded two Emmys for his work on _Sherlock_: ‘Outstanding Writing for a Mini-Series’ in 2012 (_Sherlock_ Series 3 Episode 3: _His Last Vow_) and ‘Outstanding Television Movie’ in 2016 (_The Abominable Bride_). He has won five Royal Television Society awards – including Special Achievement and Lifetime Achievement Awards from the Writer’s Guild and British Screenwriter’s Guild. In 2015, he received an Order of the British Empire for Services to Television.
 
 His most recent work was the television adaptation of _The Time Traveler’s Wife_ for HBO/Warner Bros, co-produced by Hartswood Films. Earlier this year, Steven’s much-anticipated theatre debut, _The Unfriend_, sold out the Minerva Theatre in Chichester to rave reviews.
 
@@ -37,7 +37,7 @@ Before appearing in _Inside Man_, **Dolly Wells** wrapped on Stephen Merchant’
 
 **Lydia West** was named BAFTA Breakthrough Brit last year and her star is firmly on the rise.
 
-After her leading role in the new BBC/Netflix drama _Inside Man_,  Lydia has just wrapped filming espionage thriller _Gray**.**_ She stars opposite Patricia Clarkson in the 8-part series which will be released next year.
+After her leading role in the new BBC/Netflix drama _Inside Man_,  Lydia has just wrapped filming espionage thriller _Gray_. She stars opposite Patricia Clarkson in the 8-part series which will be released next year.
 
 Next year, Lydia will appear in feature film _It’s All Coming Back to Me,_ opposite a stellar cast including Russell Tovey, Celia Imrie, Priyanka Chopra and Celine Dion. The film will release in early 2023.
 
@@ -134,5 +134,5 @@ _(train passengers)_
 UK 2022
 Episode 1 (60min)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjQ4NjRdfQ==
+eyJoaXN0b3J5IjpbMjg1NTkwODI5XX0=
 -->
