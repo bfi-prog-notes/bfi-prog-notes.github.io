@@ -1,5 +1,16 @@
+---
+layout: post
+title: Inside Man
+published: true
+date: 2022-09-21
+readtime: true
+categories: ['TV PREVIEW']
+tags: [Drama]
+metadata: 'UK 2022, 60 mins<br> Director: Paul McGuigan'
+pdf: '2022-09-18-silent-land.pdf'
+---
 
-_+ Q&A with creator, writer and executive producer Steven Moffat, director Paul McGuigan and_ _stars David Tennant, Dolly Wells, Lydia West and Stanley Tucci. Hosted by Boyd Hilton_
+_+ Q&A with creator, writer and executive producer Steven Moffat, director Paul McGuigan and stars David Tennant, Dolly Wells, Lydia West and Stanley Tucci. Hosted by Boyd Hilton_
 
 Everyone’s a murderer… you just need a good reason and a bad day.
 
@@ -13,7 +24,7 @@ Writer and creator **Steven Moffat** was lead writer and executive producer of _
 
 Steven’s screenwriting career began with the much-loved teen drama series _Press Gang_, writing all 43 episodes across five series. From there he went on to create and write three sitcoms _Coupling, Chalk,_ and _Joking Apart._ Other credits include his series _Jekyll,_ and the feature film _Tintin_ which was directed by Steven Spielberg.
 
-Among his many accolades, Steven has been awarded multiple BAFTAs including five for his writing on _Press Gang, Sherlock_ (Series 2 Episode 1: _ A Scandal in Belgravia_), and _Doctor Who_ (Series 3, Episode 10: _Blink_)_,_ and the BAFTA Television Special Award in 2012 in recognition of his outstanding creative writing contribution to television.
+Among his many accolades, Steven has been awarded multiple BAFTAs including five for his writing on _Press Gang, Sherlock_ (Series 2 Episode 1: _A Scandal in Belgravia_), and _Doctor Who_ (Series 3, Episode 10: _Blink_), and the BAFTA Television Special Award in 2012 in recognition of his outstanding creative writing contribution to television.
 
 He was also awarded two Emmys for his work on _Sherlock_: ‘Outstanding Writing for a Mini-Series’ in 2012 (_Sherlock_ Series 3 Episode 3: _His Last Vow_) and ‘Outstanding Television Movie’ in 2016 (_The Abominable Bride_). He has won five Royal Television Society awards – including Special Achievement and Lifetime Achievement Awards from the Writer’s Guild and British Screenwriter’s Guild. In 2015, he received an Order of the British Empire for Services to Television.
 
@@ -41,8 +52,7 @@ After her leading role in the new BBC/Netflix drama _Inside Man_,  Lydia has jus
 
 Next year, Lydia will appear in feature film _It’s All Coming Back to Me,_ opposite a stellar cast including Russell Tovey, Celia Imrie, Priyanka Chopra and Celine Dion. The film will release in early 2023.
 
-This February, Lydia was seen in Apple TV+’s _Suspicion_. The crime thriller written by Rob Williams also stars Uma Thurman and Kunal Nayyar. In spring we saw Lydia opposite legendary comic actor Mike Myers in Netflix’s  
-_The Pentaverate_.  Lydia has worked with acclaimed British writer Russell T. Davies. Firstly, in her break-out role as Bethany in _Years and Years_ followed by the hugely successful _It’s a Sin._ Other credits include BBC One’s _Dracula_ where Lydia played flirtatious Lucy Westenra alongside Claes Bang as the infamous Dracula. The show was written by Mark Gatiss and Steven Moffat and aired in early 2020.
+This February, Lydia was seen in Apple TV+’s _Suspicion_. The crime thriller written by Rob Williams also stars Uma Thurman and Kunal Nayyar. In spring we saw Lydia opposite legendary comic actor Mike Myers in Netflix’s  _The Pentaverate_.  Lydia has worked with acclaimed British writer Russell T. Davies. Firstly, in her break-out role as Bethany in _Years and Years_ followed by the hugely successful _It’s a Sin._ Other credits include BBC One’s _Dracula_ where Lydia played flirtatious Lucy Westenra alongside Claes Bang as the infamous Dracula. The show was written by Mark Gatiss and Steven Moffat and aired in early 2020.
 
 **Stanley Tucci** is an Academy Award nominated actor known for his versatility as an actor, writer, director and producer. He has appeared in over 100 films, countless television shows and more than a dozen plays on and off Broadway. Tucci reached his widest audience yet in the role of Caesar Flickerman in _The Hunger Games_ franchise.
 
@@ -130,7 +140,23 @@ Susan Sze, Amie Buhari, Reynah Rita, Suzanne Ahmet, Aaliya James, Malcolm James
 _(train passengers)_  
 
 UK 2022  
-Episode 1 (60min)  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzNTcwNjk5XX0=
--->
+Episode 1 (60 mins)  
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
