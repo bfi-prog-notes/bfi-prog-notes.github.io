@@ -1,7 +1,4 @@
 
-
-<![endif]-->
-
 _+ Q&A with creator, writer and executive producer Steven Moffat, director Paul McGuigan and_ _stars David Tennant, Dolly Wells, Lydia West and Stanley Tucci. Hosted by Boyd Hilton_
 
 Everyone’s a murderer… you just need a good reason and a bad day.
@@ -16,8 +13,7 @@ Writer and creator **Steven Moffat** was lead writer and executive producer of _
 
 Steven’s screenwriting career began with the much-loved teen drama series _Press Gang_, writing all 43 episodes across five series. From there he went on to create and write three sitcoms _Coupling, Chalk,_ and _Joking Apart._ Other credits include his series _Jekyll,_ and the feature film _Tintin_ which was directed by Steven Spielberg.
 
-Among his many accolades, Steven has been awarded multiple BAFTAs including five for his writing on _Press Gang, Sherlock_ (Series 2 Episode 1:_  
-A Scandal in Belgravia_)_,_ and _Doctor Who_ (Series 3, Episode 10: _Blink_)_,_ and the BAFTA Television Special Award in 2012 in recognition of his outstanding creative writing contribution to television.
+Among his many accolades, Steven has been awarded multiple BAFTAs including five for his writing on _Press Gang, Sherlock_ (Series 2 Episode 1: _ A Scandal in Belgravia_ ),_and _Doctor Who_ (Series 3, Episode 10: _Blink_)_,_ and the BAFTA Television Special Award in 2012 in recognition of his outstanding creative writing contribution to television.
 
 He was also awarded two Emmys for his work on _Sherlock_: ‘Outstanding Writing for a Mini-Series’ in 2012 (_Sherlock_ Series 3 Episode 3: _His Last Vow_) and ‘Outstanding Television Movie’ in 2016 (_The Abominable Bride_)_._ He has won five Royal Television Society awards – including Special Achievement and Lifetime Achievement Awards from the Writer’s Guild and British Screenwriter’s Guild. In 2015, he received an Order of the British Empire for Services to Television.
 
@@ -67,53 +63,29 @@ Although Stanley currently resides in London, he continues to serve on the Board
 **Boyd Hilton** is a journalist, author, critic and broadcaster. As well as his two day jobs of Entertainment Director of _Heat_ magazine, where he has worked since its launch in 1999, and Contributing Editor of _Empire_ magazine, Boyd also wrote the book _Inside Little Britain_ with Matt Lucas and David Walliams. He has been a regular contributor to BBC Radio 5 Live and Radio 4, reviewing television, books and films for over two decades. He is also Features Editor and contributor to sport/style/culture magazine _Circle Zero Eight_, and has written for _GQ_, _Man about Town_, _The Guardian_ and _Observer_. Boyd also co-hosts the weekly Pilot TV podcast, covering cinematic television, and the Footballistically Arsenal podcast, covering… Arsenal. He also frequently hosts live on-stage TV and film events for BAFTA, the RTS and the BFI, among many others.
 
 **INSIDE MAN**
-
 _Written by:_ Steven Moffat
-
 _Director:_ Paul McGuigan
-
 _Produced by:_ Hartswood Films
-
 _For:_ BBC One
-
 _Co-produced by:_ Netflix
-
 _Executive Producer:_ Sue Vertue
-
 _Executive Producer for BBC:_ Ben Irving
-
 _Producer:_ Alex Mercer
-
 _Head of Production:_ Debbie Vertue
-
 _Managing Director:_ Dan Cheesbrough
-
 _Associate Producer:_ Rachel Stone
-
 _Line Producer:_ Chan Chau
-
 _Production Manager:_ Sophie Hebron
-
 _Location Manager:_ Danny Potts
-
 _Production Accountant:_ Wayne Noir
-
 _Casting by:_ Kate Rhodes James CDG
-
 _Script Supervisor:_ Non Eleri-Hughes
-
 _1st Assistant Director:_ Mark Taylor
-
 _Post-production Supervisor:_ Sam Lucas
-
 _Director of Photography:_ Tony Slater Ling BSC
-
 _Camera & Steadicam Operator:_ Junior Agyeman
-
 _Grip:_ Stephen Peat
-
 _Gaffer:_ Paul Murphy
-
 _Editor:_ Berny McGurk
 _Production Designer:_ Arwel Wyn Jones
 _Supervising Art Director:_ Harry Trow
@@ -162,5 +134,5 @@ _(train passengers)_
 UK 2022
 Episode 1 (60min)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2NTA4NDJdfQ==
+eyJoaXN0b3J5IjpbLTcyMjQ4NjRdfQ==
 -->
