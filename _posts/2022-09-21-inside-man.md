@@ -42,14 +42,13 @@ After her leading role in the new BBC/Netflix drama _Inside Man_,  Lydia has jus
 Next year, Lydia will appear in feature film _It’s All Coming Back to Me,_ opposite a stellar cast including Russell Tovey, Celia Imrie, Priyanka Chopra and Celine Dion. The film will release in early 2023.
 
 This February, Lydia was seen in Apple TV+’s _Suspicion_. The crime thriller written by Rob Williams also stars Uma Thurman and Kunal Nayyar. In spring we saw Lydia opposite legendary comic actor Mike Myers in Netflix’s  
-_The Pentaverate_.  Lydia has worked with acclaimed British writer Russell T. Davies. Firstly, in her break-out role as Bethany in _Years and Years_ followed by the hugely successful _It’s a Sin**.**_ Other credits include BBC One’s _Dracula_ where Lydia played flirtatious Lucy Westenra alongside Claes Bang as the infamous Dracula. The show was written by Mark Gatiss and Steven Moffat and aired in early 2020.
+_The Pentaverate_.  Lydia has worked with acclaimed British writer Russell T. Davies. Firstly, in her break-out role as Bethany in _Years and Years_ followed by the hugely successful _It’s a Sin._ Other credits include BBC One’s _Dracula_ where Lydia played flirtatious Lucy Westenra alongside Claes Bang as the infamous Dracula. The show was written by Mark Gatiss and Steven Moffat and aired in early 2020.
 
 **Stanley Tucci** is an Academy Award nominated actor known for his versatility as an actor, writer, director and producer. He has appeared in over 100 films, countless television shows and more than a dozen plays on and off Broadway. Tucci reached his widest audience yet in the role of Caesar Flickerman in _The Hunger Games_ franchise.
 
 Recently Tucci can be seen in season 2 of the critically acclaimed, Emmy Award-winning CNN travel and food series _Stanley Tucci: Searching for Italy_. Upcoming for Tucci includes _Citadel_, an action-packed spy TV mini-series and _The Inside Man_. Also coming next for Tucci includes the Whitney Houston biopic _I Wanna Dance with Somebody_, _Conclave_ and _The Electric State_.
 
-Acclaimed for his work in all mediums, Tucci was nominated for an Academy Award, Golden Globe Award, BAFTA Award, SAG Award and received a Broadcast Film Critics nomination for his performance in Peter Jackson’s  
-_The Lovely Bones._ He also won an Emmy and Golden Globe for his starring role as the fast-talking tabloid tattler Walter Winchell in the Paul Mazurksy-directed TV movie _Winchell._ He received another Golden Globe for his brilliant portrayal of Lt. Colonel Adolf Eichmann in HBO’s _Conspiracy._
+Acclaimed for his work in all mediums, Tucci was nominated for an Academy Award, Golden Globe Award, BAFTA Award, SAG Award and received a Broadcast Film Critics nomination for his performance in Peter Jackson’s _The Lovely Bones._ He also won an Emmy and Golden Globe for his starring role as the fast-talking tabloid tattler Walter Winchell in the Paul Mazurksy-directed TV movie _Winchell._ He received another Golden Globe for his brilliant portrayal of Lt. Colonel Adolf Eichmann in HBO’s _Conspiracy._
 
 With so many accolades for his performances on the screen, it is no surprise that his work as writer, producer and director are also widely celebrated.  
 _Big Night_, Stanley Tucci’s first pursuit as co-director, co-screenwriter and actor on the same film, earned him numerous honors. Following this success, he directed and co-starred as famed New Yorker staff writer Joseph Mitchell in _Joe Gould’s Secret_; executive produced _Behind the Sun_; co-wrote, directed, and starred in _Blind Date_; and produced the Ivan Kavanagh horror film, _The Canal_.
@@ -60,45 +59,45 @@ _The Tucci Cookbook_, released in 2012, appeared on the New York Times Best Sell
 
 Although Stanley currently resides in London, he continues to serve on the Board of Directors of The Food Bank for New York City.
 
-**Boyd Hilton** is a journalist, author, critic and broadcaster. As well as his two day jobs of Entertainment Director of _Heat_ magazine, where he has worked since its launch in 1999, and Contributing Editor of _Empire_ magazine, Boyd also wrote the book _Inside Little Britain_ with Matt Lucas and David Walliams. He has been a regular contributor to BBC Radio 5 Live and Radio 4, reviewing television, books and films for over two decades. He is also Features Editor and contributor to sport/style/culture magazine _Circle Zero Eight_, and has written for _GQ_, _Man about Town_, _The Guardian_ and _Observer_. Boyd also co-hosts the weekly Pilot TV podcast, covering cinematic television, and the Footballistically Arsenal podcast, covering… Arsenal. He also frequently hosts live on-stage TV and film events for BAFTA, the RTS and the BFI, among many others.
+**Boyd Hilton** is a journalist, author, critic and broadcaster. As well as his two day jobs of Entertainment Director of _Heat_ magazine, where he has worked since its launch in 1999, and Contributing Editor of _Empire_ magazine, Boyd also wrote the book _Inside Little Britain_ with Matt Lucas and David Walliams. He has been a regular contributor to BBC Radio 5 Live and Radio 4, reviewing television, books and films for over two decades. He is also Features Editor and contributor to sport/style/culture magazine _Circle Zero Eight_, and has written for _GQ_, _Man about Town_, _The Guardian_ and _Observer_. Boyd also co-hosts the weekly Pilot TV podcast, covering cinematic television, and the Footballistically Arsenal podcast, covering… Arsenal. He also frequently hosts live on-stage TV and film events for BAFTA, the RTS and the BFI, among many others.  
 
-**INSIDE MAN**
-_Written by:_ Steven Moffat
-_Director:_ Paul McGuigan
-_Produced by:_ Hartswood Films
-_For:_ BBC One
-_Co-produced by:_ Netflix
-_Executive Producer:_ Sue Vertue
-_Executive Producer for BBC:_ Ben Irving
-_Producer:_ Alex Mercer
-_Head of Production:_ Debbie Vertue
-_Managing Director:_ Dan Cheesbrough
-_Associate Producer:_ Rachel Stone
-_Line Producer:_ Chan Chau
-_Production Manager:_ Sophie Hebron
-_Location Manager:_ Danny Potts
-_Production Accountant:_ Wayne Noir
-_Casting by:_ Kate Rhodes James CDG
-_Script Supervisor:_ Non Eleri-Hughes
-_1st Assistant Director:_ Mark Taylor
-_Post-production Supervisor:_ Sam Lucas
-_Director of Photography:_ Tony Slater Ling BSC
-_Camera & Steadicam Operator:_ Junior Agyeman
-_Grip:_ Stephen Peat
-_Gaffer:_ Paul Murphy
-_Editor:_ Berny McGurk
-_Production Designer:_ Arwel Wyn Jones
-_Supervising Art Director:_ Harry Trow
-_S/by Art Director:_ Kris Turnbull
-_Set Decorator:_ Emma Field-Rayner
-_Prop Master:_ Adam McReight
-_Graphic Artist:_ Richard Wells
-_Special Effects:_ Jason Troughton
-_Head of Visual Effects:_ Matt Wood
-_Visual Effects:_ Space VFX
-_Title Design:_ Peter Anderson Studio
-_Costume Designer:_ Jane Spicer
-_Costume Supervisor:_ Claire Jennings
+**INSIDE MAN**  
+_Written by:_ Steven Moffat  
+_Director:_ Paul McGuigan  
+_Produced by:_ Hartswood Films  
+_For:_ BBC One  
+_Co-produced by:_ Netflix  
+_Executive Producer:_ Sue Vertue  
+_Executive Producer for BBC:_ Ben Irving  
+_Producer:_ Alex Mercer  
+_Head of Production:_ Debbie Vertue  
+_Managing Director:_ Dan Cheesbrough  
+_Associate Producer:_ Rachel Stone  
+_Line Producer:_ Chan Chau  
+_Production Manager:_ Sophie Hebron  
+_Location Manager:_ Danny Potts  
+_Production Accountant:_ Wayne Noir  
+_Casting by:_ Kate Rhodes James CDG  
+_Script Supervisor:_ Non Eleri-Hughes  
+_1st Assistant Director:_ Mark Taylor  
+_Post-production Supervisor:_ Sam Lucas  
+_Director of Photography:_ Tony Slater Ling BSC  
+_Camera & Steadicam Operator:_ Junior Agyeman  
+_Grip:_ Stephen Peat  
+_Gaffer:_ Paul Murphy  
+_Editor:_ Berny McGurk  
+_Production Designer:_ Arwel Wyn Jones  
+_Supervising Art Director:_ Harry Trow  
+_S/by Art Director:_ Kris Turnbull  
+_Set Decorator:_ Emma Field-Rayner  
+_Prop Master:_ Adam McReight  
+_Graphic Artist:_ Richard Wells  
+_Special Effects:_ Jason Troughton  
+_Head of Visual Effects:_ Matt Wood  
+_Visual Effects:_ Space VFX  
+_Title Design:_ Peter Anderson Studio  
+_Costume Designer:_ Jane Spicer  
+_Costume Supervisor:_ Claire Jennings 
 _Hair & Make-up Designer:_ Marcus Whitney
 _Hair & Make-up Supervisor:_ Alison Jayne Webb
 _Music by:_ David Arnold
@@ -134,5 +133,5 @@ _(train passengers)_
 UK 2022
 Episode 1 (60min)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1NTkwODI5XX0=
+eyJoaXN0b3J5IjpbNDA1NDAyMjc5XX0=
 -->
