@@ -19,59 +19,58 @@ In _Breathless_, the traditional method allows Godard to keep playing his ace, t
 Godard works it very skilfully, the fusillades of close-ups of Jean Seberg’s head having a Miles Davis feel. Some fine ‘classical’ effects occur, notably in the killing of the cop, where cutting wonderfully expresses reflex, panic, switched fate. The Griffithian iris-ins evoke lost purity. The looks and direct address into camera, far from inducing Brechtian alienation, or spectator guilt over ‘voyeurism’, suggest sincerity (even via insolence), thus intensifying spectator identification. The subtitle dedicating the film to Monogram is a vague gesture, or ploy to amaze critics, excuse cheap flaws, plead unpretentiousness, and underline this film’s enormous differences from Monogram’s notoriously, and really dull, dim product. Despite the movie references, the film’s genre ingredients are all French _noir_: humanly vulnerable gangsters (Becker, Melville), doomed lovers, treacherous women, finessed psychology, alfresco realism _à la_ Renoir. Its soul-brother is _Shoot the Pianist_ (also 99.9% French, notwithstanding its literary source). The two films’ gangster-waif overtones might just be Truffaut’s input. No Chabrol touch is discernible, though his commercially ‘hot’ name must have reassured the producer.  
 **Raymond Durgnat, _Monthly Film Bulletin_, August 1988**  
 
-**BREATHLESS (A BOUT DE SOUFFLE)**
-_Director:_ Jean-Luc Godard
-_Production Companies:_ Société Nouvelle de Cinématographie, Productions Georges de Beauregard (Paris), Impéria
-_Producer:_ Georges de Beauregard
-_Assistant Director:_ Pierre Rissient
-_Screenplay:_ Jean-Luc Godard
-_Based on an original idea by:_ François Truffaut
-_Director of Photography:_ Raoul Coutard
-_Camera Operator:_ Claude Beausoleil
-_Stills Photography:_ Raymond Cauchetier
-_Editor:_ Cécile Decugis
-_Assistant Editor:_ Lila Herman
-_Make-up:_ Phuong Maittret
-_Music:_ Martial Solal
-_Music Extracts:_ Wolfgang Amadeus Mozart
-_Sound:_ Jacques Maumont
-_Artistic/Technical Adviser:_ Claude Chabrol
-_This film is dedicated to:_ Monogram Pictures
+**BREATHLESS (A BOUT DE SOUFFLE)**  
+_Director:_ Jean-Luc Godard  
+_Production Companies:_ Société Nouvelle de Cinématographie, Productions Georges de Beauregard (Paris), Impéria  
+_Producer:_ Georges de Beauregard  
+_Assistant Director:_ Pierre Rissient  
+_Screenplay:_ Jean-Luc Godard  
+_Based on an original idea by:_ François Truffaut  
+_Director of Photography:_ Raoul Coutard  
+_Camera Operator:_ Claude Beausoleil  
+_Stills Photography:_ Raymond Cauchetier  
+_Editor:_ Cécile Decugis  
+_Assistant Editor:_ Lila Herman  
+_Make-up:_ Phuong Maittret  
+_Music:_ Martial Solal  
+_Music Extracts:_ Wolfgang Amadeus Mozart  
+_Sound:_ Jacques Maumont  
+_Artistic/Technical Adviser:_ Claude Chabrol  
+_This film is dedicated to:_ Monogram Pictures  
 
-**Cast**
-Jean-Paul Belmondo _(Michel Poiccard, ‘Laszlo Kovacs’)_
-Jean Seberg _(Patricia Franchini)_
-Henri-Jacques Huet _(Antonio Berrutti)_
-Liliane David _(Liliane)_
-Daniel Boulanger _(Inspector Vital)_
-Liliane Robin _(Minouche)_
-Roger Hanin _(Carl Zubart)_
-Van Doude _(Editor Van Doude)_
-Claude Mansard _(Claudius Mansard)_
-Michel Favre _(2nd inspector)_
-Jean-Pierre Melville _(author Parvulesco)_
-Jean-Luc Godard _(informer)_
-Jean-Louis Richard _(journalist)_
-Jean Domarchi _(drunk)_
-Richard Balducci _(Tolmatchoff)_
-André S. Labarthe _(journalist at Orly)_
-François Moreuil _(photographer at Orly)_
-Jacques Siclier
-Michel Mourlet
-Jean Douchet _(passer-by)_
-Philippe de Broca
-Guido Orlando
-Jacques Serguine
-R.S. Louiguy
-Virginie Ullmann
-Emile Villion
-José Bénazéraf
-Madame Paul
-Raymond Ravanbaz
+**Cast**  
+Jean-Paul Belmondo _(Michel Poiccard, ‘Laszlo Kovacs’)_  
+Jean Seberg _(Patricia Franchini)_  
+Henri-Jacques Huet _(Antonio Berrutti)_  
+Liliane David _(Liliane)_  
+Daniel Boulanger _(Inspector Vital)_  
+Liliane Robin _(Minouche)_  
+Roger Hanin _(Carl Zubart)_  
+Van Doude _(Editor Van Doude)_  
+Claude Mansard _(Claudius Mansard)_  
+Michel Favre _(2nd inspector)_  
+Jean-Pierre Melville _(author Parvulesco)_  
+Jean-Luc Godard _(informer)_  
+Jean-Louis Richard _(journalist)_  
+Jean Domarchi _(drunk)_  
+Richard Balducci _(Tolmatchoff)_  
+André S. Labarthe _(journalist at Orly)_  
+François Moreuil _(photographer at Orly)_  
+Jacques Siclier  
+Michel Mourlet  
+Jean Douchet _(passer-by)_  
+Philippe de Broca  
+Guido Orlando  
+Jacques Serguine  
+R.S. Louiguy  
+Virginie Ullmann  
+Emile Villion  
+José Bénazéraf  
+Madame Paul  
+Raymond Ravanbaz  
 
-France 1960
-
-90 mins
+France 1960  
+90 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxMjYwOTA2XX0=
+eyJoaXN0b3J5IjpbLTEyMTk0OTgxNTJdfQ==
 -->
