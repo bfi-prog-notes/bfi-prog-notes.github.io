@@ -1,7 +1,18 @@
+---
+layout: post
+title: Breathless
+published: true
+date: 2022-09-22
+readtime: true
+categories: ['EVENTS']
+tags: [Drama, Film Noir]
+metadata: 'France 1960, 90 mins<br> Director: Jean-Luc Godard'
+pdf: '2022-09-22-breathless.pdf'
+---
 
 _+ intro by Programmer-at-Large Geoff Andrew_
 
-In tribute to the iconoclastic and hugely influential filmmaker, critic and theorist Jean-Luc Godard, who died on 13 September aged 91, we are screening his acclaimed first feature, _Breathless_, a major early hit for the French New Wave. Based on a scenario by François Truffaut, the film is both a witty homage to American B-movie crime thrillers and a love letter to Paris; its charismatic stars Jean-Paul Belmondo and Jean Seberg play, respectively, a petty criminal on the run from the police and the American newspaper-vendor he falls for. Raoul Coutard provides the lovely black-and-white camerawork, Martial Solal the cool jazz on the soundtrack, while Godard himself is responsible for the film’s distinctively light-hearted narrative style, as fresh today as when it first appeared. The screening will be preceded by a brief introduction by Geoff Andrew, editor of the _Sight and Sound_ anthology _Jean-Luc Godard: Histoire(s) du Cinéaste_.
+In tribute to the iconoclastic and hugely influential filmmaker, critic and theorist Jean-Luc Godard, who died on 13 September aged 91, we are screening his acclaimed first feature, _Breathless_, a major early hit for the French New Wave. Based on a scenario by François Truffaut, the film is both a witty homage to American B-movie crime thrillers and a love letter to Paris; its charismatic stars Jean-Paul Belmondo and Jean Seberg play, respectively, a petty criminal on the run from the police and the American newspaper-vendor he falls for. Raoul Coutard provides the lovely black-and-white camerawork, Martial Solal the cool jazz on the soundtrack, while Godard himself is responsible for the film’s distinctively light-hearted narrative style, as fresh today as when it first appeared. The screening will be preceded by a brief introduction by Geoff Andrew, editor of the _Sight and Sound_ anthology _Jean-Luc Godard: Histoire(s) du Cinéaste_.  
 **bfi.org.uk**  
 
 ‘We barged into cinema like cavemen into the Versailles of Louis the Fifteenth.’ (Jean-Luc Godard)
@@ -71,6 +82,23 @@ Raymond Ravanbaz
 
 France 1960  
 90 mins  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk0OTgxNTJdfQ==
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
