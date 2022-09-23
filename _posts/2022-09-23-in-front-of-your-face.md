@@ -1,3 +1,14 @@
+---
+layout: post
+title: In Front of Your Face
+published: true
+date: 2022-09-23
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'South Korea 2021, 85 mins<br> Director: Hong Sangsoo'
+pdf: '2022-09-23-in-front-of-your-face.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -85,6 +96,20 @@ From Fri 21 Oct
 From Fri 4 Nov (Preview on Thu 20 Oct 20:20; extended intro by Geoff Andrew, Programmer at Large on Fri 4 Nov 17:50; intro by Kieron Webb, Head of Conservation, BFI Archive on Mon 7 Nov 18:00)  
 **The Draughtsman’s Contract**
 From Fri 11 Nov (+ intro by Kieron Webb, Head of Conservation, BFI National Archive on Fri 11 Nov 17:50)  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTAzMzMzNV19
--->
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
