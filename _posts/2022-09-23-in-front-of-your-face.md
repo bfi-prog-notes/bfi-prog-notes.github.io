@@ -37,12 +37,10 @@ These scenes, like all the film’s scenes (and indeed all of Hong’s films), a
 After taking leave of her sister, Sangok heads to her meeting with filmmaker Jaewon, who has requested an appointment. There is some awkward politeness about a last-minute change of venue, but a jump-cut propels the pair’s conversation forward. Jaewon wants Sangok to act in an upcoming project; Sangok declines. But the sudden presence of four empty liquor bottles suggests a new openness between the two.
 
 This beautiful, lengthy scene (almost half of the film’s total runtime) plays out like a conversation between two sides of Hong Sangsoo’s personality. Jaewon is a clear stand-in for Hong the filmmaker – his work is described by Sangok as ‘like novels; short stories’, and Jaewon refers to his ability to shoot and edit his own films – whereas Sangok seems to represent Hong’s filmmaking ethos and ideals, at one point paraphrasing the film’s title by saying, ‘I believe heaven is hiding in front of our faces.’ The beautiful can be found in the mundane, says Hong through Sangok, and never is that clearer than in the moments during this drunken encounter when Sangok clumsily plays the guitar. She’s rusty, and plucks gingerly at the strings, but her focus and sincerity make the tune’s roughness all the more beautiful.  
-**Thomas Flew, _Sight and Sound_, October 2022**
+**Thomas Flew, _Sight and Sound_, October 2022**  
 
-  
 
-**In Front of Your Face (Dangsin-eolgul-apeseo)**
-
+**In Front of Your Face (Dangsin-eolgul-apeseo)**  
 _Directed by_: Hong Sangsoo  
 _Produced by_: Jeonwonsa, Hong Sangsoo  
 _Production Manager_: Kim Minhee  
@@ -50,10 +48,9 @@ _Written by_: Hong Sangsoo
 _Photographed by_: Hong Sangsoo  
 _Editor_: Hong Sangsoo  
 _Composed by_: Hong Sangsoo  
-_Sound_: Seo Jihoon
+_Sound_: Seo Jihoon  
 
-**Cast**
-
+**Cast**  
 Lee Hyeyoung _(Sangok)_  
 Cho Yunhee _(Jeongok)_  
 Kwon Haehyo _(Jaewon)_  
@@ -62,32 +59,32 @@ Kim Saebyuk
 Ha Seongguk  
 Seo Younghwa  
 Lee Eunmi  
-Kang Yiseo
+Kang Yiseo  
 
-South Korea 2021
-85 mins
+South Korea 2021  
+85 mins  
 
-A New Wave release
+A New Wave release  
 
-**NEW RELEASES**
-**Decision to Leave (Heojil Kyolshim)**
-From Mon 17 Oct
-**Triangle of Sadness**
-From Fri 28 Oct
-**The Greenaway Alphabet**
-From Fri 11 Nov
-**What Do We See When We Look at the Sky? (Ras vkhedavt, rodesac cas vukurebt?)**
-From Fri 25 Nov
+**NEW RELEASES**  
+**Decision to Leave (Heojil Kyolshim)**  
+From Mon 17 Oct  
+**Triangle of Sadness**  
+From Fri 28 Oct  
+**The Greenaway Alphabet**  
+From Fri 11 Nov  
+**What Do We See When We Look at the Sky? (Ras vkhedavt, rodesac cas vukurebt?)**  
+From Fri 25 Nov  
 
-**RE-RELEASES**
-**The Others**
-From Mon 17 Oct
-**Poltergeist**
-From Fri 21 Oct
-**Nil by Mouth**
-From Fri 4 Nov (Preview on Thu 20 Oct 20:20; extended intro by Geoff Andrew, Programmer at Large on Fri 4 Nov 17:50; intro by Kieron Webb, Head of Conservation, BFI Archive on Mon 7 Nov 18:00)
+**RE-RELEASES**  
+**The Others**  
+From Mon 17 Oct  
+**Poltergeist**  
+From Fri 21 Oct  
+**Nil by Mouth**  
+From Fri 4 Nov (Preview on Thu 20 Oct 20:20; extended intro by Geoff Andrew, Programmer at Large on Fri 4 Nov 17:50; intro by Kieron Webb, Head of Conservation, BFI Archive on Mon 7 Nov 18:00)  
 **The Draughtsman’s Contract**
-From Fri 11 Nov (+ intro by Kieron Webb, Head of Conservation, BFI National Archive on Fri 11 Nov 17:50)
+From Fri 11 Nov (+ intro by Kieron Webb, Head of Conservation, BFI National Archive on Fri 11 Nov 17:50)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTIxNDg3NV19
+eyJoaXN0b3J5IjpbLTQxNTAzMzMzNV19
 -->
