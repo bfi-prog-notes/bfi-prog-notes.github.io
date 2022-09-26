@@ -21,56 +21,56 @@ In sum, after 50 years [in 2011] _Last Year in Marienbad_ remains no less sugges
 
 **LAST YEAR AT MARIENBAD (L’ANNÉE DERNIÈRE À MARIENBAD)**  
 _Director:_ Alain Resnais  
-_Production Companies:_ Terra Film (Paris), Société Nouvelle des Films Cormoran, Précitel, Como Films (Paris), Argos-Films, Les Films Tamara, Cinétel, Silver Films (Paris), Cineriz di Angelo Rizzoli
-_Producers:_ Pierre Courau, Raymond Froment
-_Unit Production Manager:_ Michel Choquet
-_Unit Manager:_ Jean-Jacques Lecot
-_Production Manager:_ Léon Sanz
-_Production Secretary:_ Janine Thaon
-_Assistant Director:_ Jean Léon
-_2nd Assistant Directors:_ Volker Schlöndorff, Florence Malraux
-_Script Supervisor:_ Sylvette Baudrot
-_Screenplay/Dialogue:_ Alain Robbe-Grillet
-_Director of Photography:_ Sacha Vierny
-_Camera Operator:_ Philippe Brun
-_Assistant Camera:_ Guy Delattre
-_2nd Assistant Camera:_ François Lauliac
-_Gaffer:_ Elie Fontanille
-_Key Grips:_ Louis Balthazard, René Stocki
-_Stills:_ Georges Pierre
-_Editors:_ Henri Colpi, Jasmine Chasney
-_Art Director:_ Jacques Saulnier
-_Assistant Art Directors:_ Georges Glon, André Piltant, Jean-Jacques Fabre
-_Set Decorator:_ Charles Mérangel
-_Ms Seyrig’s Two Feather Costumes by:_ Bernard Evein
-_Ms Seyrig’s Other Dresses:_ Chanel
-_Make-up Supervisor:_ Alex Marcus
-_Make-up:_ Éliane Marcus
-_Titles:_ Jean Fouchet
-_Music:_ Francis Seyrig
-_Organist:_ Marie Louise Girod
-_Music Director:_ André Girard
-_Sound:_ Guy Villette, Jean-Claude Marchetti, René Renault, Jean Nény, Robert Cambourakis
+_Production Companies:_ Terra Film (Paris), Société Nouvelle des Films Cormoran, Précitel, Como Films (Paris), Argos-Films, Les Films Tamara, Cinétel, Silver Films (Paris), Cineriz di Angelo Rizzoli  
+_Producers:_ Pierre Courau, Raymond Froment  
+_Unit Production Manager:_ Michel Choquet  
+_Unit Manager:_ Jean-Jacques Lecot  
+_Production Manager:_ Léon Sanz  
+_Production Secretary:_ Janine Thaon  
+_Assistant Director:_ Jean Léon  
+_2nd Assistant Directors:_ Volker Schlöndorff, Florence Malraux  
+_Script Supervisor:_ Sylvette Baudrot  
+_Screenplay/Dialogue:_ Alain Robbe-Grillet  
+_Director of Photography:_ Sacha Vierny  
+_Camera Operator:_ Philippe Brun  
+_Assistant Camera:_ Guy Delattre  
+_2nd Assistant Camera:_ François Lauliac  
+_Gaffer:_ Elie Fontanille  
+_Key Grips:_ Louis Balthazard, René Stocki  
+_Stills:_ Georges Pierre  
+_Editors:_ Henri Colpi, Jasmine Chasney  
+_Art Director:_ Jacques Saulnier  
+_Assistant Art Directors:_ Georges Glon, André Piltant, Jean-Jacques Fabre  
+_Set Decorator:_ Charles Mérangel  
+_Ms Seyrig’s Two Feather Costumes by:_ Bernard Evein  
+_Ms Seyrig’s Other Dresses:_ Chanel  
+_Make-up Supervisor:_ Alex Marcus  
+_Make-up:_ Éliane Marcus  
+_Titles:_ Jean Fouchet  
+_Music:_ Francis Seyrig  
+_Organist:_ Marie Louise Girod  
+_Music Director:_ André Girard  
+_Sound:_ Guy Villette, Jean-Claude Marchetti, René Renault, Jean Nény, Robert Cambourakis  
 
-**Cast**
-Giorgio Albertazzi _(X)_
-Delphine Seyrig _(A)_
-Sacha Pitoëff _(M)_
-Françoise Bertin
-Luce Garcia-Ville
-Héléna Kornel
-Françoise Spira
-Karin Toeche-Mittler
-Pierre Barbaud
-Wilhelm Von Deek
-Jean Lanier
-Gérard Lorin
-Davide Montemurri
-Gilles Quéant
-Gabriel Werner
+**Cast**  
+Giorgio Albertazzi _(X)_  
+Delphine Seyrig _(A)_  
+Sacha Pitoëff _(M)_  
+Françoise Bertin  
+Luce Garcia-Ville  
+Héléna Kornel  
+Françoise Spira  
+Karin Toeche-Mittler  
+Pierre Barbaud  
+Wilhelm Von Deek  
+Jean Lanier  
+Gérard Lorin  
+Davide Montemurri  
+Gilles Quéant  
+Gabriel Werner  
 
 France/Italy 1961  
-94 mins
+94 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwNDc2NTExXX0=
+eyJoaXN0b3J5IjpbMjA3NTQ4Nzc3NV19
 -->
