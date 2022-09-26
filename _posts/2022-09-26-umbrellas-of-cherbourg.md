@@ -31,6 +31,15 @@ France/West Germany 1964
 
 
 
+**The next relaxed screenings are:**
+
+**PONTYPOOL**
+** + intro and discussion**
+**Monday 31 October 2022 18:10 NFT3**
+
+**THE FLY**
+**+ intro and discussion**
+**Monday 28 November 2022 18:00 NFT3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjI4MzI4NjddfQ==
+eyJoaXN0b3J5IjpbNjY3Mzc0NDg4XX0=
 -->
