@@ -17,8 +17,7 @@ _Lillian Crawford, film and culture writer and a regular host of Autism Through 
 The everyday world of shop worker Genevieve and car mechanic Guy is brought to life with sensational colours and set design, drawing us into the emotional and physical spaces they inhabit. Their dialogue is all sung and Michel Legrand’s score is both rapturous and intense, transforming our experience and offering different ways to respond. It’s a ground-breaking classic.
 <br>
 
-**THE UMBRELLAS OF CHERBOURG**
-**(LES PARAPLUIES DE CHERBOURG)**
+**THE UMBRELLAS OF CHERBOURG (LES PARAPLUIES DE CHERBOURG)**  
 _Director:_ Jacques Demy  
 _Production Companies:_ Parc Film, Madeleine Films, Beta Film  
 _Producer:_ Mag Bodard  
