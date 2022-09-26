@@ -1,5 +1,4 @@
 
-<![endif]-->
 
 ‘I am now quite prepared to claim that _Marienbad_ is the greatest film ever made, and to pity those who cannot see it.’ So wrote Jacques Brunius in _Sight & Sound_ in 1962, regarding ‘the film I had been waiting for during the last 30 years’. Five decades on from its first release a year earlier, Alain Resnais’s stylish conundrum still seems conjured out of some sui generis cinematic future. (Which is not to deny its influence on – to name two blatant instances – Stanley Kubrick and Peter Greenaway, not to mention Karl Lagerfeld, whose spring 2011 collection for Chanel played grandiloquently with the costumes and set design of the film.) What Resnais and scriptwriter Alain Robbe-Grillet achieved in _Last Year in Marienbad_ was not just the much bruited importation of the narrative techniques of the nouveau roman into film – Resnais had already made _Hiroshima mon amour_ (1959) and Robbe-Grillet’s texts were anyway indebted to what he called cinema’s perpetual ‘present tense’ – but nothing less than the transmuting of film into a type of sculpture. _Marienbad_ is cinema’s greatest hymn to stasis.
 
@@ -18,10 +17,10 @@ If the timescale of _Last Year in Marienbad_ is endlessly fluid and vexing – s
 At one point, in voiceover, X speaks (apparently to A) of a corridor ‘through which I was advancing to meet you between two rows of immobile faces’. The brightly lit scene rhymes with another darker one: 15 years earlier, in Jean Cocteau’s _La Belle et la bête_, a passageway flanked by fragments of statuary, which turn into living candelabra, had introduced one of that film’s motifs and themes – a petrified life suddenly animated by the desire and fear of another. We might even say that the sculptural obsession of _Marienbad_ (in his _Histoire(s) du cinéma_ Jean-Luc Godard speaks of Resnais as a filmmaker who ‘makes sculpture’) is part of a pattern or frieze in mid-century French film. _La Jetée_ (1962) is the obvious comparison: Resnais’s occasional collaborator Chris Marker populated his mostly static film with numerous statues and portions of statues. Both _La Jetée_ and _Marienbad_ are in part films about ruins: the material remnants of vanished civilisations (in Marker’s case it’s Paris that is ruined; in Resnais’s a whole refined culture that appears spectral and distant) and the traces of memories or fantasised futures.
 
 In sum, after 50 years [in 2011] _Last Year in Marienbad_ remains no less suggestive and strange in its eerie approach to the condition of sculpture. In his essay ‘Notes on Gesture’, the Italian philosopher Giorgio Agamben has written that one of the functions of cinema in the 20th century was to rescue the realm of significant gesture that had been destroyed with the advent of technologies of speed and a slackening of ideas of public comportment. If that’s true, then for the most part film achieved this through action, in the meaningful arcs traced by bodies on screen, whether comical or tragic. But in _Marienbad_ everything stalls, and the history of human gesture returns, this time as shadows and ghosts among the statues.  
-**Brian Dillon, _Sight and Sound_, August 2011**
+**Brian Dillon, _Sight and Sound_, August 2011**  
 
-**LAST YEAR AT MARIENBAD (L’ANNÉE DERNIÈRE À MARIENBAD)**
-_Director:_ Alain Resnais
+**LAST YEAR AT MARIENBAD (L’ANNÉE DERNIÈRE À MARIENBAD)**  
+_Director:_ Alain Resnais  
 _Production Companies:_ Terra Film (Paris), Société Nouvelle des Films Cormoran, Précitel, Como Films (Paris), Argos-Films, Les Films Tamara, Cinétel, Silver Films (Paris), Cineriz di Angelo Rizzoli
 _Producers:_ Pierre Courau, Raymond Froment
 _Unit Production Manager:_ Michel Choquet
@@ -51,9 +50,7 @@ _Titles:_ Jean Fouchet
 _Music:_ Francis Seyrig
 _Organist:_ Marie Louise Girod
 _Music Director:_ André Girard
-_Sound:_ Guy Villette, Jean-Claude Marchetti, René Renault, Jean Nény,
-
-Robert Cambourakis
+_Sound:_ Guy Villette, Jean-Claude Marchetti, René Renault, Jean Nény, Robert Cambourakis
 
 **Cast**
 Giorgio Albertazzi _(X)_
@@ -72,9 +69,8 @@ Davide Montemurri
 Gilles Quéant
 Gabriel Werner
 
-France/Italy 1961
-
+France/Italy 1961  
 94 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzgzODIzNF19
+eyJoaXN0b3J5IjpbOTYwNDc2NTExXX0=
 -->
