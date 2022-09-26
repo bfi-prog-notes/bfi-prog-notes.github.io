@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Last Year in Marienbad
+published: true
+date: 2022-09-26
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'France/Italy 1961, 94 mins<br> Director: Alain Resnais'
+pdf: '2022-09-26-last-year-in-marienbad.pdf'
+---
 
 ‘I am now quite prepared to claim that _Marienbad_ is the greatest film ever made, and to pity those who cannot see it.’ So wrote Jacques Brunius in _Sight & Sound_ in 1962, regarding ‘the film I had been waiting for during the last 30 years’. Five decades on from its first release a year earlier, Alain Resnais’s stylish conundrum still seems conjured out of some sui generis cinematic future. (Which is not to deny its influence on – to name two blatant instances – Stanley Kubrick and Peter Greenaway, not to mention Karl Lagerfeld, whose spring 2011 collection for Chanel played grandiloquently with the costumes and set design of the film.) What Resnais and scriptwriter Alain Robbe-Grillet achieved in _Last Year in Marienbad_ was not just the much bruited importation of the narrative techniques of the nouveau roman into film – Resnais had already made _Hiroshima mon amour_ (1959) and Robbe-Grillet’s texts were anyway indebted to what he called cinema’s perpetual ‘present tense’ – but nothing less than the transmuting of film into a type of sculpture. _Marienbad_ is cinema’s greatest hymn to stasis.
 
@@ -19,7 +29,7 @@ At one point, in voiceover, X speaks (apparently to A) of a corridor ‘through 
 In sum, after 50 years [in 2011] _Last Year in Marienbad_ remains no less suggestive and strange in its eerie approach to the condition of sculpture. In his essay ‘Notes on Gesture’, the Italian philosopher Giorgio Agamben has written that one of the functions of cinema in the 20th century was to rescue the realm of significant gesture that had been destroyed with the advent of technologies of speed and a slackening of ideas of public comportment. If that’s true, then for the most part film achieved this through action, in the meaningful arcs traced by bodies on screen, whether comical or tragic. But in _Marienbad_ everything stalls, and the history of human gesture returns, this time as shadows and ghosts among the statues.  
 **Brian Dillon, _Sight and Sound_, August 2011**  
 
-**LAST YEAR AT MARIENBAD (L’ANNÉE DERNIÈRE À MARIENBAD)**  
+**LAST YEAR IN MARIENBAD (L’ANNÉE DERNIÈRE À MARIENBAD)**  
 _Director:_ Alain Resnais  
 _Production Companies:_ Terra Film (Paris), Société Nouvelle des Films Cormoran, Précitel, Como Films (Paris), Argos-Films, Les Films Tamara, Cinétel, Silver Films (Paris), Cineriz di Angelo Rizzoli  
 _Producers:_ Pierre Courau, Raymond Froment  
@@ -71,6 +81,20 @@ Gabriel Werner
 
 France/Italy 1961  
 94 mins  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTQ4Nzc3NV19
--->
+<br>
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
