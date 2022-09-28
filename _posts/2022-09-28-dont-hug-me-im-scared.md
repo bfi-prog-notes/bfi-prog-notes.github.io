@@ -18,7 +18,6 @@ Constantly honing their myriad skills, Becky, Joe and Baker have lent their idio
 Charlie is Head of Comedy at Channel 4. She joins the multi-award-winning Comedy department from Blink Industries where she was Head of Comedy, recently producing cult comedy series _Don’t Hug Me I’m Scared_ which has just launched on Channel 4. She began her career working on shows such as _Little Britain_, _French & Saunders_, _Benidorm_ and _Mock the Week_, moving on to become a Producer at the infamous alternative comedy venue The Invisible Dot, BBC Radio Comedy and Cave Bear Productions. In 2009, Charlie founded the Bristol Revunions whose alumni during her time included Jamie Demetriou, Charlotte Ritchie, Ellie White and Joe Hampson. In 2013, Charlie founded The Paddock comedy collective, an experimental, new material platform for performers and filmmakers. She is also one of the Co-Founders of the Live Comedy Association and Founder of the Free-Free Movement.
 
 **James Stevenson-Bretton**
-
 James is the Founder and Managing Partner of BAFTA-nominated and Emmy-winning production company Blink Industries, a development and production studio working across animation and live action, with a 120-seat animation studio in North London.
 
 He is the Executive Producer of Channel 4’s _Don't Hug Me I’m Scared_ and Netflix’s _Dead End: Paranormal Park_.
@@ -28,44 +27,25 @@ Hugo Donkin is a mixed media and live action creative producer based in London, 
 
 Hugo's long term collaboration with friends Becky Sloan, Joe Pelling and Baker Terry on _Don't Hug Me I'm Scared_, began with a request to help shoot a strange puppet video. The strange puppet videos went on to garner a quarter of a billion views, be selected at Sundance International Film Festival and win the Jury Award at SXSW. With the aim to push the craft of British Comedy to far more absurd places, he helped bring DHMIS to the world of broadcast comedy and co-produced six brand new episodes for Channel 4 and the BFI.
 
-Hugo has since joined Blink Industries, where he continues his journey away from the factual and deeper into the absurd.
+Hugo has since joined Blink Industries, where he continues his journey away from the factual and deeper into the absurd.  
 
-**DON’T HUG ME I’M SCARED**
-
-_Created & Directed by:_ Becky Sloan, Joe Pelling, Baker Terry
-
+**DON’T HUG ME I’M SCARED**  
+_Created & Directed by:_ Becky Sloan, Joe Pelling, Baker Terry  
 _Presented by:_ Channel 4, BFI YACF
-
 _Produced by:_ Blink Industries
-
 _Executive Producer:_ James Stevenson Bretton
-
 _Producers:_ Hugo Donkin, Charlie Perkins
-
 _Line Producers:_ Jenna Mills, Anna Purkis
-
 _Production Manager:_ Sandy Liddle
-
 _1st Assistant Director:_ Mark Lacey
-
-_Written by:_ Becky Sloan, Joe Pelling, Baker Terry,Sam Campbell
-
+_Written by:_ Becky Sloan, Joe Pelling, Baker Terry, Sam Campbell
 _Additional Material:_ Natasha Hodgson, Charlie Perkins
-
 _Story Editor:_ Megan Ganz
-
 _Lead Puppeteers:_ Lesa Gillespie, Josh Elwell
-
 _Puppeteers:_ Charlotte Dubery, Jo Lakin, Fred Davis, Ashleigh Cheadle
-
 _Skins Artists:_ Joss Carter, Adam Mayne
-
-_Stop Motion Director ‘To Be Alive / Blob / Coffin Forming’:_
-
-Sam Gainsborough
-
+_Stop Motion Director ‘To Be Alive / Blob / Coffin Forming’:_ Sam Gainsborough
 _Stop Motion Directors ‘Grolton & Hovris’:_ Beattie Hartley, Anita Brūvere
-
 _CGI Animation Director ‘Deep Dream’:_ Cole Kush
 
 _Director of Photography:_ Edward Tucker
@@ -139,5 +119,5 @@ UK 2022
 Episode 2 ‘Death’ and Episode 3 ‘Family’
 Total running time 105 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4ODI2MDAyXX0=
+eyJoaXN0b3J5IjpbLTExMzUxMzQ0NDJdfQ==
 -->
