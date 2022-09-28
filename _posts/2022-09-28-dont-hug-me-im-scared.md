@@ -52,43 +52,43 @@ _Editor:_ Nick Armstrong
 _Post Production & VFX Supervisor:_ William Kay  
 _Assembly Editor:_ Matthew Dilworth  
 _DI & Colour Grading:_ The Post Republic  
-_Designers:_ Becky Sloan, Joe Pelling
-_Art Directors:_ Brin Frost, Rosalind Boulton
-_Puppet Supervisor:_ Isobel Irwin
-_Puppet Makers:_ Jo Lakin, Rosie Tonkin, Anita Brūvere, Maia Kirkman Richards
-_Senior Prop Maker:_ Rosie Tonkin
-_Stop Motion DOP:_ Edward Tucker
-_Stop Motion Art Director:_ Brin Frost
-_Composers:_ Charlie Pelling, Joe Pelling, Baker Terry
-_Sound Post-production:_ Fitzrovia Post
-_Mixer & Sound Designer:_ Adrian Walter
-_Sound Designer:_ Charlie Pelling
-_Additional Sound Design:_ Nicky Green
-_Dialogue Recordists:_ Charlie Pelling, Nicky Green
-_Trumpet Solo:_ Rory Hird
+_Designers:_ Becky Sloan, Joe Pelling  
+_Art Directors:_ Brin Frost, Rosalind Boulton  
+_Puppet Supervisor:_ Isobel Irwin  
+_Puppet Makers:_ Jo Lakin, Rosie Tonkin, Anita Brūvere, Maia Kirkman Richards  
+_Senior Prop Maker:_ Rosie Tonkin  
+_Stop Motion DOP:_ Edward Tucker  
+_Stop Motion Art Director:_ Brin Frost  
+_Composers:_ Charlie Pelling, Joe Pelling, Baker Terry  
+_Sound Post-production:_ Fitzrovia Post  
+_Mixer & Sound Designer:_ Adrian Walter  
+_Sound Designer:_ Charlie Pelling  
+_Additional Sound Design:_ Nicky Green  
+_Dialogue Recordists:_ Charlie Pelling, Nicky Green  
+_Trumpet Solo:_ Rory Hird  
 
-**Cast for ‘Death’**
-Becky Sloan
-Joe Pelling
-Baker Terry
-Kevin Eldon
-George Fouracres
-Sam Campbell
-Katy Wix
-Lolly Adefope
+**Cast for ‘Death’**  
+Becky Sloan  
+Joe Pelling  
+Baker Terry  
+Kevin Eldon  
+George Fouracres  
+Sam Campbell  
+Katy Wix  
+Lolly Adefope  
 
-**Cast for ‘Family’**
-Becky Sloan
-Joe Pelling
-Baker Terry
-George Fouracres
-Sam Campbell
-Freya Parker
-James Stevenson Bretton
+**Cast for ‘Family’**  
+Becky Sloan  
+Joe Pelling  
+Baker Terry  
+George Fouracres  
+Sam Campbell  
+Freya Parker  
+James Stevenson Bretton  
 
-UK 2022
-Episode 2 ‘Death’ and Episode 3 ‘Family’
-Total running time 105 mins
+UK 2022  
+Episode 2 ‘Death’ and Episode 3 ‘Family’  
+Total running time 105 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU0MDM5NjRdfQ==
+eyJoaXN0b3J5IjpbLTY0MzM4NjY4NF19
 -->
