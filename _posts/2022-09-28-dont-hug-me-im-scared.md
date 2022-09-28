@@ -31,79 +31,50 @@ Hugo has since joined Blink Industries, where he continues his journey away from
 
 **DON’T HUG ME I’M SCARED**  
 _Created & Directed by:_ Becky Sloan, Joe Pelling, Baker Terry  
-_Presented by:_ Channel 4, BFI YACF
-_Produced by:_ Blink Industries
-_Executive Producer:_ James Stevenson Bretton
-_Producers:_ Hugo Donkin, Charlie Perkins
-_Line Producers:_ Jenna Mills, Anna Purkis
-_Production Manager:_ Sandy Liddle
-_1st Assistant Director:_ Mark Lacey
-_Written by:_ Becky Sloan, Joe Pelling, Baker Terry, Sam Campbell
-_Additional Material:_ Natasha Hodgson, Charlie Perkins
-_Story Editor:_ Megan Ganz
-_Lead Puppeteers:_ Lesa Gillespie, Josh Elwell
-_Puppeteers:_ Charlotte Dubery, Jo Lakin, Fred Davis, Ashleigh Cheadle
-_Skins Artists:_ Joss Carter, Adam Mayne
-_Stop Motion Director ‘To Be Alive / Blob / Coffin Forming’:_ Sam Gainsborough
-_Stop Motion Directors ‘Grolton & Hovris’:_ Beattie Hartley, Anita Brūvere
-_CGI Animation Director ‘Deep Dream’:_ Cole Kush
-
-_Director of Photography:_ Edward Tucker
-
-_Editor:_ Nick Armstrong
-
-_Post Production & VFX Supervisor:_ William Kay
-
-_Assembly Editor:_ Matthew Dilworth
-
-_DI & Colour Grading:_ The Post Republic
-
+_Presented by:_ Channel 4, BFI YACF  
+_Produced by:_ Blink Industries  
+_Executive Producer:_ James Stevenson Bretton  
+_Producers:_ Hugo Donkin, Charlie Perkins  
+_Line Producers:_ Jenna Mills, Anna Purkis  
+_Production Manager:_ Sandy Liddle  
+_1st Assistant Director:_ Mark Lacey  
+_Written by:_ Becky Sloan, Joe Pelling, Baker Terry, Sam Campbell  
+_Additional Material:_ Natasha Hodgson, Charlie Perkins  
+_Story Editor:_ Megan Ganz  
+_Lead Puppeteers:_ Lesa Gillespie, Josh Elwell  
+_Puppeteers:_ Charlotte Dubery, Jo Lakin, Fred Davis, Ashleigh Cheadle  
+_Skins Artists:_ Joss Carter, Adam Mayne  
+_Stop Motion Director ‘To Be Alive / Blob / Coffin Forming’:_ Sam Gainsborough  
+_Stop Motion Directors ‘Grolton & Hovris’:_ Beattie Hartley, Anita Brūvere  
+_CGI Animation Director ‘Deep Dream’:_ Cole Kush  
+_Director of Photography:_ Edward Tucker  
+_Editor:_ Nick Armstrong  
+_Post Production & VFX Supervisor:_ William Kay  
+_Assembly Editor:_ Matthew Dilworth  
+_DI & Colour Grading:_ The Post Republic  
 _Designers:_ Becky Sloan, Joe Pelling
-
 _Art Directors:_ Brin Frost, Rosalind Boulton
-
 _Puppet Supervisor:_ Isobel Irwin
-
-_Puppet Makers:_ Jo Lakin, Rosie Tonkin, Anita Brūvere,
-
-Maia Kirkman Richards
-
+_Puppet Makers:_ Jo Lakin, Rosie Tonkin, Anita Brūvere, Maia Kirkman Richards
 _Senior Prop Maker:_ Rosie Tonkin
-
 _Stop Motion DOP:_ Edward Tucker
-
 _Stop Motion Art Director:_ Brin Frost
-
 _Composers:_ Charlie Pelling, Joe Pelling, Baker Terry
-
 _Sound Post-production:_ Fitzrovia Post
-
 _Mixer & Sound Designer:_ Adrian Walter
-
 _Sound Designer:_ Charlie Pelling
-
 _Additional Sound Design:_ Nicky Green
-
 _Dialogue Recordists:_ Charlie Pelling, Nicky Green
-
 _Trumpet Solo:_ Rory Hird
 
 **Cast for ‘Death’**
-
 Becky Sloan
-
 Joe Pelling
-
 Baker Terry
-
 Kevin Eldon
-
 George Fouracres
-
 Sam Campbell
-
 Katy Wix
-
 Lolly Adefope
 
 **Cast for ‘Family’**
@@ -119,5 +90,5 @@ UK 2022
 Episode 2 ‘Death’ and Episode 3 ‘Family’
 Total running time 105 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzUxMzQ0NDJdfQ==
+eyJoaXN0b3J5IjpbLTE2MTU0MDM5NjRdfQ==
 -->
