@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Flux Gourmet
+published: true
+date: 2022-09-30
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Comedy]
+metadata: 'UK/Hungary/USA 2022, 112 mins<br> Director: Peter Strickland'
+pdf: '2022-09-30-flx-gourmet.pdf'
+---
 
 No short synopsis to a Peter Strickland film can comprehensively illustrate how bonkers his films are, and _Flux Gourmet_ is possibly his wildest yet. His fifth feature takes place at an art institute focusing on culinary performance where a trio perform experimental music. As part of a month-long residency, the collective perform gigs where they play everything from food mixers to the sound of saucepans boiling and frying pans sizzling.
 
@@ -43,7 +52,7 @@ _Makis Papadimitriou, who plays Stones, is Greek, but why did you keep the voice
 
 I feel more and more that British cinema isn’t as diverse as Britain is becoming. You don’t hear languages or accents. Everyone sounds British. So it was very important, especially post-Brexit to keep this European feel. I’m half-Greek myself, so I feel almost a personal sense of regret not having kept up my Greek. And this is maybe a sly way of learning some Greek without paying for lessons.
 
-_On the music side of things, you’ve mentioned_ This Is Spinal Tap_._
+_On the music side of things, you’ve mentioned_ This Is Spinal Tap.
 
 I adore _Spinal Tap_. It’s one of my favourite films. I wanted to make my own version. Just band politics. The interesting thing is how do you make it interesting for people who are not in bands, all those power games and conflicts?
 
@@ -61,7 +70,7 @@ _Once you’ve seen one of those films, that’s kind of enough, isn’t it?_
 
 Yeah. Whereas this, it does provoke questions about the body and why these things which all of us do – and some of us suffer from – are something we can’t talk about. That’s what I was interested in. All the shock value stuff I’ve been interested in has provoked discussions about sexual liberation or bodily liberation.
 
-**Lou Thomas, bfi.org.uk,** **16 February 2022**
+**Lou Thomas, bfi.org.uk, 16 February 2022**
 
   
 
@@ -127,6 +136,21 @@ From Fri 21 Oct
 From Fri 4 Nov (Preview on Thu 20 Oct 20:20; extended intro by Geoff Andrew, Programmer at Large on Fri 4 Nov 17:50; intro by Kieron Webb, Head of Conservation, BFI Archive on Mon 7 Nov 18:00)  
 **The Draughtsman’s Contract**
 From Fri 11 Nov (+ intro by Kieron Webb, Head of Conservation, BFI National Archive on Fri 11 Nov 17:50)  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1ODY1ODQzXX0=
--->
+
+<br>
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
