@@ -1,8 +1,18 @@
+---
+layout: post
+title: Madly, Deeply<br> A celebration of Alan Rickman
+published: true
+date: 2022-10-02
+readtime: true
+categories: ['EVENTS']
+tags: [Talk]
+metadata: 
+pdf: '2022-10-02-madly-deeply.pdf'
+---
 
 _Alan Rickman was an exceptional performer and human being, much loved by his fellow actors and the general public. This event celebrates and remembers his life and work, and launches the publication of his diaries, Madly, Deeply (Canongate Books). Alongside some of Rickman’s most celebrated moments on screen and excerpts from his diaries, the evening will feature some very special guests talking about their friendship and work with him, including Emma Thompson, Harriet Walter, Ian McKellen, Juliet Stevenson, Lindsay Duncan, Eddie Izzard, Stanley Tucci, Ruby Wax and Timothy Spall. Unfortunately, Dexter Fletcher is now unable to attend in person; however, there will be a pre-recorded video message from him. Hosted by Mark Kermode._
 
-‘And now Alan Rickman – January can do one’ said a distraught friend within seconds of the announcement of the actor’s death, itself mere days after the equal shock of David Bowie’s departure at a near-identical age (both men were 69, born just six weeks and only a few miles apart in similarly dilapidated London boroughs: in Rickman’s case an Acton council estate). Rickman was a later developer than Bowie, only taking up professional acting at 26 and not becoming a true household name until the early 1990s, for all the considerable splashes that he made in _Die Hard_ (1988) in the cinema,  
-_Les Liaisons dangereuses_ (1986) on stage and _The Barchester Chronicles_ (1982) on BBC2.
+‘And now Alan Rickman – January can do one’ said a distraught friend within seconds of the announcement of the actor’s death, itself mere days after the equal shock of David Bowie’s departure at a near-identical age (both men were 69, born just six weeks and only a few miles apart in similarly dilapidated London boroughs: in Rickman’s case an Acton council estate). Rickman was a later developer than Bowie, only taking up professional acting at 26 and not becoming a true household name until the early 1990s, for all the considerable splashes that he made in _Die Hard_ (1988) in the cinema, _Les Liaisons dangereuses_ (1986) on stage and _The Barchester Chronicles_ (1982) on BBC2.
 
 But from then on, he was unstoppable, our generation’s James Mason or Basil Rathbone, combining a bearing of absolute authority with a seductive menace so languorously smouldering that you could practically smell the oestrogen emanating from the female-dominated audiences that eagerly tracked his parallel stage career. Later in life, he would garner an equally ardent following of younger fans thanks to his saturnine wizard Severus Snape, Professor of Potions at Hogwarts School in all eight Harry Potter films (2001-11), an apparent villain at first who gradually turned out to have a far more complex and sympathetic backstory, conveyed in increasing detail over a full decade. (His impact on this audience and the distinctiveness of his voice was such that my daughter, then aged five, spontaneously squeaked ‘Snape!’ after hearing him on the radio talking about something entirely different.)
 
@@ -12,8 +22,7 @@ Excelling at both acting and art at school, Rickman initially favoured the latte
 
 He remained primarily a stage actor until well into the 1980s, appearing regularly with the Royal Shakespeare Company, a background that he drew upon in 1999’s delightful sci-fi spoof _Galaxy Quest_, in which his RSC-trained actor Alexander Dane can barely hide his disdain at being exclusively famous for playing a ridge-headed alien with the catchphrase ‘By Grabthar’s hammer, by the suns of Warvan, you shall be avenged!’. He was so convincing as the haughtily pretentious Dane (Rickman had already played a more famous theatrical Dane in 1992) that it was tempting to believe that he was playing himself, although by all other accounts the offscreen Rickman could hardly be more down to earth.
 
-A smattering of television roles culminated in the Anthony Trollope adaptation  
-_The Barchester Chronicles_, in which his Machiavellian chaplain Obadiah Slope arrived in episode three to offered an early hint of the multifaceted villains that he would shortly make his own (although he later pointed out that he’d barely played a single one after the Sheriff of Nottingham, the popular caricature notwithstanding).
+A smattering of television roles culminated in the Anthony Trollope adaptation _The Barchester Chronicles_, in which his Machiavellian chaplain Obadiah Slope arrived in episode three to offered an early hint of the multifaceted villains that he would shortly make his own (although he later pointed out that he’d barely played a single one after the Sheriff of Nottingham, the popular caricature notwithstanding).
 
 International fame came five years later, courtesy of the Broadway transfer (1987) of Christopher Hampton’s adaptation of _Les Liaisons dangereuses_ (1986), in which Rickman’s Vicomte de Valmont and his ex-lover Madame de Merteuil (Lindsay Duncan) conspire in the cruel manipulation of those less worldly and cynical. It was the perfect Rickman role, and it should by rights have been his on screen, but he and Duncan weren’t considered bankable enough when _Dangerous Liaisons_ (1988) was cast, and they were replaced by John Malkovich and Glenn Close. (Had the film been made just a year or two later, it might have turned out somewhat differently.) Fifteen years later, Rickman and Duncan displayed the same uncanny alchemy (and transatlantic appeal, with ensuing Tony nominations) in a stage revival of Noël Coward’s _Private Lives_ (2001) as similarly manipulative ex-lovers.
 
@@ -34,7 +43,21 @@ Among his last roles were portrayals of major historical figures, as Ronald Reag
 Describing himself as having been born a card-carrying member of the Labour Party, Rickman was a familiar face at fundraising events, and his more personal projects, such as the stage production _My Name Is Rachel Corrie_ (2005) and charities such as Saving Faces and the International Performers’ Aid Trust, also reflected his compassionate politics, the polar opposite of those of his Lukas Hart III, ineffably sinister ‘minder’ to Tim Robbins’ right-wing folksinger Bob Roberts in the eponymous 1992 film. Indeed, Radha Bharadwaj’s _Closet Land_ (1991), in which he played a sadistic interrogator in an unspecified country, was made in close collaboration with Amnesty International, and Bharadwaj was one many comparative newcomers to the film, theatre and acting profession who were supported by Rickman at a vital early stage of their careers.
 
 On the day of his death, _Channel 4 News_’s obituary programme posited that for charisma, talent and versatility he deserved to be called the British Marlon Brando, but Paul Newman seems just as valid a comparison, because Rickman wore his star status just as lightly, was personally so generous, and nobody seems to have had a bad word to say about him – except of course onscreen. But that came with the territory.  
-**Michael Brooke, _Sight & Sound_, 18 January 2016**
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTQzODUzNV19
--->
+**Michael Brooke, _Sight & Sound_, 18 January 2016**  
+<br>
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
