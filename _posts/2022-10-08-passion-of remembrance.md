@@ -24,28 +24,36 @@ _Producer:_ Martina Attille_Production Managers:_ Martina Attille, Nadine Marsh-
 _Continuity:_ Noeleen Grattan
 _Written by:_ Maureen Blackwood, Isaac Julien  
 _Photography (Speakers’ Drama):_ Steven Bernstein
-_Photography (Maggie’s Drama):_ Nina Kellgren_Focus Puller (Speaker’s Drama):_ Derek Little_Focus Puller (Maggie’s Drama):_ Maggie Gormley_Gaffer (Maggie’s Drama):_ Nuala Campbell_Grip (Speakers Drama):_ Jimmy Goom  
+_Photography (Maggie’s Drama):_ Nina Kellgren
+_Focus Puller (Speaker’s Drama):_ Derek Little
+_Focus Puller (Maggie’s Drama):_ Maggie Gormley
+_Gaffer (Maggie’s Drama):_ Nuala Campbell
+_Grip (Speakers Drama):_ Jimmy Goom  
 _Grips (Maggie’s Drama):_ Mick Duffield, Martin McCullagh  
-_Editor:_ Nadine Marsh-Edwards_Assistant Editors:_ Maureen Blackwood, Stella Franceskides  
-_Visualiser:_ Laurence Dorman_Titles:_ Les Latimer Film & Video
-
+_Editor:_ Nadine Marsh-Edwards
+_Assistant Editors:_ Maureen Blackwood, Stella Franceskides  
+_Visualiser:_ Laurence Dorman
+_Titles:_ Les Latimer Film & Video
 _Camera Equipment:_ Occulus  
 _Lighting Equipment:_ Film & TV Services  
 _Laboratory:_ Technicolor_Music Written and Arranged by:_ Tony Rémy_Sound Recordist (Speakers/Maggie’s Drama):_ Diana Ruston  
 _Boom Operator (Speakers/Maggie’s Drama):_ Ronald Bailey  
 _Dubbing Mixer:_ David Old_Sound Editor:_ Virginia Heath
 
-**Cast**_  
-Speakers Drama_
-
-Anni Domingo _(female speaker)_Joseph Charles _(male speaker_
-
-_Maggie’s Drama  
-_Antonia Thomas _(Maggie Baptiste)_
-
-Carlton Chance _(Gary)_Jim Findley _(Tony Baptiste)_Ram John Holder _(Benjy Baptiste)_
-
-Shiela Mitchell _(Glory Baptiste)_Tania Morgan _(Tonia)_Gary McDonald _(Michael)_Janet Palmer _(Louise)_Kelvin Omard _(boy in youth club)_Christopher Tajah _(boy in youth club)_
+**Cast**  
+_  Speakers Drama_
+Anni Domingo _(female speaker)_
+Joseph Charles _(male speaker_
+_Maggie’s Drama  _
+Antonia Thomas _(Maggie Baptiste)_
+Carlton Chance _(Gary)_
+Jim Findley _(Tony Baptiste)_Ram John Holder _(Benjy Baptiste)_
+Shiela Mitchell _(Glory Baptiste)_
+Tania Morgan _(Tonia)_
+Gary McDonald _(Michael)_
+Janet Palmer _(Louise)_
+Kelvin Omard _(boy in youth club)_
+Christopher Tajah _(boy in youth club)_
 
 Michael Hughes _(senior officer)_Simon Binns _(younger officer)_Andrew Powell_,_ David Doyle_,_ Tim Brennan _(youths)_Marcelle Williams _(Mrs Campbell)_
 
@@ -57,5 +65,5 @@ UK 1986
 
 BFI Distribution
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4MjExODYyXX0=
+eyJoaXN0b3J5IjpbMzM3MDIxMzQyXX0=
 -->
