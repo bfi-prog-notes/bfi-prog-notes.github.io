@@ -19,9 +19,12 @@ Also featuring references to African American art and textual extracts by Malcol
 **Xavier Alexandre Pillai, bfi.org.uk, 4 October 2022**  
 
 **THE PASSION OF REMEMBRANCE**  
-_Directed by:_ Maureen Blackwood, Isaac Julien_©:_ Sankofa Film and Video_Financially Assisted by:_ Channel Four, The GLC Police Support Committee  
-_Producer:_ Martina Attille_Production Managers:_ Martina Attille, Nadine Marsh-Edwards  
-_Continuity:_ Noeleen Grattan
+_Directed by:_ Maureen Blackwood, Isaac Julien  
+_©:_ Sankofa Film and Video  
+_Financially Assisted by:_ Channel Four, The GLC Police Support Committee    
+_Producer:_ Martina Attille  
+_Production Managers:_ Martina Attille, Nadine Marsh-Edwards  
+_Continuity:_ Noeleen Grattan  
 _Written by:_ Maureen Blackwood, Isaac Julien  
 _Photography (Speakers’ Drama):_ Steven Bernstein
 _Photography (Maggie’s Drama):_ Nina Kellgren
@@ -38,7 +41,8 @@ _Camera Equipment:_ Occulus
 _Lighting Equipment:_ Film & TV Services  
 _Laboratory:_ Technicolor_Music Written and Arranged by:_ Tony Rémy_Sound Recordist (Speakers/Maggie’s Drama):_ Diana Ruston  
 _Boom Operator (Speakers/Maggie’s Drama):_ Ronald Bailey  
-_Dubbing Mixer:_ David Old_Sound Editor:_ Virginia Heath
+_Dubbing Mixer:_ David Old
+_Sound Editor:_ Virginia Heath
 
 **Cast**  
 _  Speakers Drama_
@@ -47,23 +51,24 @@ Joseph Charles _(male speaker_
 _Maggie’s Drama  _
 Antonia Thomas _(Maggie Baptiste)_
 Carlton Chance _(Gary)_
-Jim Findley _(Tony Baptiste)_Ram John Holder _(Benjy Baptiste)_
+Jim Findley _(Tony Baptiste)_
+Ram John Holder _(Benjy Baptiste)_
 Shiela Mitchell _(Glory Baptiste)_
 Tania Morgan _(Tonia)_
 Gary McDonald _(Michael)_
 Janet Palmer _(Louise)_
 Kelvin Omard _(boy in youth club)_
 Christopher Tajah _(boy in youth club)_
+Michael Hughes _(senior officer)_
+Simon Binns _(younger officer)_
+Andrew Powell, David Doyle, Tim Brennan _(youths)_
+Marcelle Williams _(Mrs Campbell)_
+Derek Blackwood, Maureen Blackwood, Osaze Ehibor _(voices off screen)_
 
-Michael Hughes _(senior officer)_Simon Binns _(younger officer)_Andrew Powell_,_ David Doyle_,_ Tim Brennan _(youths)_Marcelle Williams _(Mrs Campbell)_
-
-Derek Blackwood_,_ Maureen Blackwood_,_ Osaze Ehibor _(voices off screen)_
-
-UK 1986
-
-82 mins
+UK 1986  
+82 mins  
 
 BFI Distribution
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3MDIxMzQyXX0=
+eyJoaXN0b3J5IjpbLTE5Nzc5NDAwNDhdfQ==
 -->
