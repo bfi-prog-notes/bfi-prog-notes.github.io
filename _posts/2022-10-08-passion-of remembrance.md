@@ -26,49 +26,51 @@ _Producer:_ Martina Attille
 _Production Managers:_ Martina Attille, Nadine Marsh-Edwards  
 _Continuity:_ Noeleen Grattan  
 _Written by:_ Maureen Blackwood, Isaac Julien  
-_Photography (Speakers’ Drama):_ Steven Bernstein
-_Photography (Maggie’s Drama):_ Nina Kellgren
-_Focus Puller (Speaker’s Drama):_ Derek Little
-_Focus Puller (Maggie’s Drama):_ Maggie Gormley
-_Gaffer (Maggie’s Drama):_ Nuala Campbell
+_Photography (Speakers’ Drama):_ Steven Bernstein  
+_Photography (Maggie’s Drama):_ Nina Kellgren  
+_Focus Puller (Speaker’s Drama):_ Derek Little  
+_Focus Puller (Maggie’s Drama):_ Maggie Gormley  
+_Gaffer (Maggie’s Drama):_ Nuala Campbell  
 _Grip (Speakers Drama):_ Jimmy Goom  
 _Grips (Maggie’s Drama):_ Mick Duffield, Martin McCullagh  
-_Editor:_ Nadine Marsh-Edwards
+_Editor:_ Nadine Marsh-Edwards  
 _Assistant Editors:_ Maureen Blackwood, Stella Franceskides  
-_Visualiser:_ Laurence Dorman
-_Titles:_ Les Latimer Film & Video
+_Visualiser:_ Laurence Dorman  
+_Titles:_ Les Latimer Film & Video  
 _Camera Equipment:_ Occulus  
 _Lighting Equipment:_ Film & TV Services  
-_Laboratory:_ Technicolor_Music Written and Arranged by:_ Tony Rémy_Sound Recordist (Speakers/Maggie’s Drama):_ Diana Ruston  
+_Laboratory:_ Technicolor  
+_Music Written and Arranged by:_ Tony Rémy  
+_Sound Recordist (Speakers/Maggie’s Drama):_ Diana Ruston    
 _Boom Operator (Speakers/Maggie’s Drama):_ Ronald Bailey  
-_Dubbing Mixer:_ David Old
-_Sound Editor:_ Virginia Heath
+_Dubbing Mixer:_ David Old  
+_Sound Editor:_ Virginia Heath  
 
 **Cast**  
-_  Speakers Drama_
-Anni Domingo _(female speaker)_
-Joseph Charles _(male speaker_
-_Maggie’s Drama  _
-Antonia Thomas _(Maggie Baptiste)_
-Carlton Chance _(Gary)_
-Jim Findley _(Tony Baptiste)_
-Ram John Holder _(Benjy Baptiste)_
-Shiela Mitchell _(Glory Baptiste)_
-Tania Morgan _(Tonia)_
-Gary McDonald _(Michael)_
-Janet Palmer _(Louise)_
-Kelvin Omard _(boy in youth club)_
-Christopher Tajah _(boy in youth club)_
-Michael Hughes _(senior officer)_
-Simon Binns _(younger officer)_
-Andrew Powell, David Doyle, Tim Brennan _(youths)_
-Marcelle Williams _(Mrs Campbell)_
-Derek Blackwood, Maureen Blackwood, Osaze Ehibor _(voices off screen)_
+_  Speakers Drama_  
+Anni Domingo _(female speaker)_  
+Joseph Charles _(male speaker_  
+_Maggie’s Drama  _  
+Antonia Thomas _(Maggie Baptiste)_  
+Carlton Chance _(Gary)_  
+Jim Findley _(Tony Baptiste)_  
+Ram John Holder _(Benjy Baptiste)_  
+Shiela Mitchell _(Glory Baptiste)_  
+Tania Morgan _(Tonia)_  
+Gary McDonald _(Michael)_  
+Janet Palmer _(Louise)_  
+Kelvin Omard _(boy in youth club)_  
+Christopher Tajah _(boy in youth club)_  
+Michael Hughes _(senior officer)_  
+Simon Binns _(younger officer)_  
+Andrew Powell, David Doyle, Tim Brennan _(youths)_  
+Marcelle Williams _(Mrs Campbell)_  
+Derek Blackwood, Maureen Blackwood, Osaze Ehibor _(voices off screen)_  
 
 UK 1986  
 82 mins  
 
-BFI Distribution
+BFI Distribution  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzc5NDAwNDhdfQ==
+eyJoaXN0b3J5IjpbMTIxNDg2ODgyMF19
 -->
