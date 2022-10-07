@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Passion of Remembrance
+published: true
+date: 2022-10-08
+readtime: true
+categories: ['BFI LONDON FILM FESTIVAL 2022']
+tags: [Drama]
+metadata: 'UK 1986, 82 mins<br> Directors: Maureen Blackwood, Isaac Julien'
+pdf: '2022-10-08-passion-of-remembrance.pdf'
+---
 
 Almost 40 years after it was first made, the Sankofa collective’s _The Passion of Remembrance_ remains salient. The film is a grand tapestry filled with allusions to the intersectional concerns, motives and desires of different subsections of the Black community. It comprises two concurrent narratives: the first is a story about disagreements in a Black British family; the second takes place in an abstract ideological plane created to openly express each character’s political will.
 
@@ -47,10 +58,10 @@ _Dubbing Mixer:_ David Old
 _Sound Editor:_ Virginia Heath  
 
 **Cast**  
-_  Speakers Drama_  
+_Speakers Drama_  
 Anni Domingo _(female speaker)_  
 Joseph Charles _(male speaker_  
-_Maggie’s Drama  _  
+_Maggie’s Drama_  
 Antonia Thomas _(Maggie Baptiste)_  
 Carlton Chance _(Gary)_  
 Jim Findley _(Tony Baptiste)_  
@@ -71,6 +82,21 @@ UK 1986
 82 mins  
 
 BFI Distribution  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDg2ODgyMF19
--->
+
+<br>
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
