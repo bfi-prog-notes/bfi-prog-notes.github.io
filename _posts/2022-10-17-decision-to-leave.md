@@ -1,9 +1,18 @@
-
+---
+layout: post
+title: Decision to Leave
+published: true
+date: 2022-10-17
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Mystery, Romance]
+metadata: 'South Korea 2022, 138 mins<br> Director: Park Chan-wook'
+pdf: '2022-10-17-decision-to-leave.pdf'
+---
 
 _Decision to Leave_ begins with the detective Hae-joon investigating the death of a man who fell from a mountaintop. When he meets the deceased man’s wife Seo-rae, he starts to suspect her at the same time that he begins feeling an attraction to her. Amidst the rising tension of the crime investigation, the film delicately captures the emotions of two characters who feel a special curiosity and unexpected affinity for each other, providing an intriguing mix of suspense and romance. In particular, the unreadable words and actions by Seo-rae make her tantalisingly hard to read, not only for Hae-joon but for the viewer as well, raising dramatic tension.
 
-As the location of the story shifts from the mountain to the sea, as their developing relationship is torn between suspicion and attraction, and as the investigation slowly reveals more details about the past, the complex, subtle emotions that tie these two characters together will leave an unforgettable impression on viewers. With its genre mix of police procedural and romance, its intriguing characters, its moments of unexpected humour, the sensual  
-mise-en-scène and powerful direction of Park Chan-wook, _Decision to Leave_ is at once the most classic and most original film of 2022.
+As the location of the story shifts from the mountain to the sea, as their developing relationship is torn between suspicion and attraction, and as the investigation slowly reveals more details about the past, the complex, subtle emotions that tie these two characters together will leave an unforgettable impression on viewers. With its genre mix of police procedural and romance, its intriguing characters, its moments of unexpected humour, the sensual  mise-en-scène and powerful direction of Park Chan-wook, _Decision to Leave_ is at once the most classic and most original film of 2022.
 
 **Park Chan-wook on ‘Decision to Leave’**
 
@@ -102,6 +111,24 @@ From Fri 4 Nov (Preview on Thu 20 Oct 20:20; extended intro by Geoff Andrew, Pro
 **The Draughtsman’s Contract**<br>
 From Fri 11 Nov (+ intro by Kieron Webb, Head of Conservation, BFI National Archive on Fri 11 Nov 17:50)<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTkyMjM2MDU0M119
