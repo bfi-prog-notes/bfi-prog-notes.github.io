@@ -87,34 +87,22 @@ From Mon 17 Oct<br>
 From Fri 28 Oct<br>
 **The Greenaway Alphabet**<br>
 From Fri 11 Nov<br>
-
 **Aftersun**<br>
-
 From Fri 18 Nov<br>
-
 **What Do We See When We Look at the Sky? (Ras vkhedavt, rodesac cas vukurebt?)**<br>
-
 From Fri 25 Nov<br>
 
 **RE-RELEASES**<br>
-
 **The Others**<br>
-
 From Mon 17 Oct<br>
-
 **Poltergeist**<br>
-
 From Fri 21 Oct<br>
-
 **Nil by Mouth**<br>
-
 From Fri 4 Nov (Preview on Thu 20 Oct 20:20; extended intro by Geoff Andrew, Programmer at Large on Fri 4 Nov 17:50; intro by Kieron Webb, Head of Conservation, BFI Archive on Mon 7 Nov 18:00)<br>
-
 **The Draughtsman’s Contract**<br>
-
 From Fri 11 Nov (+ intro by Kieron Webb, Head of Conservation, BFI National Archive on Fri 11 Nov 17:50)<br>
 <br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2NjQ2MTc3XX0=
+eyJoaXN0b3J5IjpbLTkyMjM2MDU0M119
 -->
