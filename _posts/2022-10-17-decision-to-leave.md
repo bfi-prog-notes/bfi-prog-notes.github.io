@@ -16,11 +16,11 @@ As the location of the story shifts from the mountain to the sea, as their devel
 
 **Park Chan-wook on ‘Decision to Leave’**
 
-_What was the process of developing_ Decision to Leave ?_
+_What was the process of developing_ Decision to Leave _?_
 
 It started from a conversation in London with screenwriter Jung Seo-kyoung, who I’ve collaborated with on many films. Before that, there were two bits of source material in my mind. The first is a Korean song ‘The Mist’ composed by Lee Bongjo, which I have loved since I was young, and which I only knew as a recording by Ms Chung Hoon-hee. But later I found out that Twin Folio had also recorded that song, and after listening to it, I fell in love with it. And I thought to myself, how about making a film with the voice of Chung Hoon-hee, as well as another version of the song with the voice of Song Chang-sik? Naturally, I thought that it should be a romance film set in a misty town. Second, I wanted to make a film featuring a detective character with a personality that I like, similar to my favourite police character Martin Beck from the Swedish detective novel series. I wanted to see a detective who was gentle, quiet, clean, polite and kind. The two stories merged into one through a conversation with screenwriter Jung Seo-kyoung, and gradually took shape.
 
-_What is the meaning of the title_ Decision to Leave ?_
+_What is the meaning of the title_ Decision to Leave _?_
 
 When they say, ‘I don’t think things will work out between us’, they decide to break up. But when they express their intention in this resolute way, from an outside perspective it doesn’t feel very convincing. They may want and agree to separate, but given that deep inside their hearts they don’t really want to part, it’s a title that suggests they won’t be able to leave each other.
 
@@ -38,7 +38,7 @@ _What kind of people are Seo-rae and Hae-joon to each other?_
 
 To Seo-rae, who has always thought of herself as being unhappy, Hae-joon is like a precious gift. She must have been taken with surprise to think, ‘Someone like him really does care for me.’ For Hae-joon, Seo-rae is like the waves on the sea. Sometimes she is calm, sometimes violent, sometimes overwhelming. Sometimes she wraps you in her embrace, but it’s always changeable.
 
-_What do you hope viewers will take away from_ Decision to Leave ?_
+_What do you hope viewers will take away from_ Decision to Leave _?_
 
 _Decision to Leave_ is a story for adults. It’s a love story, and also a detective drama. But what I really want to emphasise is that it’s a story about loss, that any adults will be able to relate to. Rather than treat it as a solid tragedy, I tried to express it with subtlety, elegance and humour.
 
