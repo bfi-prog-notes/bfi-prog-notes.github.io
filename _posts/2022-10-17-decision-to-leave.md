@@ -29,16 +29,14 @@ _What kind of people are Seo-rae and Hae-joon to each other?_
 
 To Seo-rae, who has always thought of herself as being unhappy, Hae-joon is like a precious gift. She must have been taken with surprise to think, ‘Someone like him really does care for me.’ For Hae-joon, Seo-rae is like the waves on the sea. Sometimes she is calm, sometimes violent, sometimes overwhelming. Sometimes she wraps you in her embrace, but it’s always changeable.
 
-_What do you hope viewers will take away from_ Decision to Leave_?_
+_What do you hope viewers will take away from_ Decision to Leave ?_
 
 _Decision to Leave_ is a story for adults. It’s a love story, and also a detective drama. But what I really want to emphasise is that it’s a story about loss, that any adults will be able to relate to. Rather than treat it as a solid tragedy, I tried to express it with subtlety, elegance and humour.
 
-Production notes
+**Production notes**
+<br><br>
 
-<![endif]-->
-
-**DECISION TO LEAVE (HEOJIL KYOLSHIM)**
-
+**DECISION TO LEAVE (HEOJIL KYOLSHIM)**  
 _Directed by_: Park Chan-wook  
 _Production Company_: Moho Film  
 _Presented by_: CJ EN M Co. Ltd, CJ Entertainment  
@@ -60,8 +58,7 @@ _Music_: Jo Yeong-uk
 _Sound Supervisor_: Kim Suk-won  
 _Production Sound Mixer_: Jung Gun
 
-_Cast:_
-
+**Cast**  
 Park Hae-il _(Jang Hae-joon)_  
 Tang Wei _(Song Seo-rae)_  
 Lee Jung-hyun _(Jung-an)_  
@@ -77,53 +74,47 @@ Jung Young-sook _(Monday grandmother)_
 Jung Yi-seo _(Mi-ji)_  
 Hwang Jae-woo _(Jang Ha-joo)_
 
-South Korea 2022
-
+South Korea 2022  
 138 mins
 
 A MUBI release
+<br><br>
 
-<![endif]-->
+**NEW RELEASES**<br>
+**Decision to Leave (Heojil Kyolshim)**<br>
+From Mon 17 Oct<br>
+**Triangle of Sadness**<br>
+From Fri 28 Oct<br>
+**The Greenaway Alphabet**<br>
+From Fri 11 Nov<br>
 
-**NEW RELEASES**
+**Aftersun**<br>
 
-**Decision to Leave (Heojil Kyolshim)**
+From Fri 18 Nov<br>
 
-From Mon 17 Oct
+**What Do We See When We Look at the Sky? (Ras vkhedavt, rodesac cas vukurebt?)**<br>
 
-**Triangle of Sadness**
+From Fri 25 Nov<br>
 
-From Fri 28 Oct
+**RE-RELEASES**<br>
 
-**The Greenaway Alphabet**
+**The Others**<br>
 
-From Fri 11 Nov
+From Mon 17 Oct<br>
 
-**Aftersun**
+**Poltergeist**<br>
 
-From Fri 18 Nov
+From Fri 21 Oct<br>
 
-**What Do We See When We Look at the Sky? (Ras vkhedavt, rodesac cas vukurebt?)**
+**Nil by Mouth**<br>
 
-From Fri 25 Nov
+From Fri 4 Nov (Preview on Thu 20 Oct 20:20; extended intro by Geoff Andrew, Programmer at Large on Fri 4 Nov 17:50; intro by Kieron Webb, Head of Conservation, BFI Archive on Mon 7 Nov 18:00)<br>
 
-**RE-RELEASES**
+**The Draughtsman’s Contract**<br>
 
-**The Others**
+From Fri 11 Nov (+ intro by Kieron Webb, Head of Conservation, BFI National Archive on Fri 11 Nov 17:50)<br>
+<br>
 
-From Mon 17 Oct
-
-**Poltergeist**
-
-From Fri 21 Oct
-
-**Nil by Mouth**
-
-From Fri 4 Nov (Preview on Thu 20 Oct 20:20; extended intro by Geoff Andrew, Programmer at Large on Fri 4 Nov 17:50; intro by Kieron Webb, Head of Conservation, BFI Archive on Mon 7 Nov 18:00)
-
-**The Draughtsman’s Contract**
-
-From Fri 11 Nov (+ intro by Kieron Webb, Head of Conservation, BFI National Archive on Fri 11 Nov 17:50)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY5MzQ2NzJdfQ==
+eyJoaXN0b3J5IjpbODU2NjQ2MTc3XX0=
 -->
