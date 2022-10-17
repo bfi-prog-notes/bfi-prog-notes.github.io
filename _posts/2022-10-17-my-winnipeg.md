@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: My Winnipeg
+published: true
+date: 2022-10-17
+readtime: true
+categories: ['GUY MADDIN']
+tags: [Documentary, Experimental]
+metadata: 'Canada-USA 2007, 80 mins<br> Director: Guy Maddin'
+pdf: '2022-10-17-my-winnipeg.pdf'
+---
 
 UK distribution for the films of the avant-garde Canadian director  Guy Maddin has been erratic, with only _The Twilight of the Ice Nymphs_ (1997), _Dracula Pages from a Virgin’s Diary_ (2002) and _The Saddest Music in the World_ (2003) earning fully fledged releases here. But even those not fluent in Maddinese will pick up in a flash the director’s stylistic lingo in _My Winnipeg_, a multilayered docu-fantasy that doubles as a nifty Maddin primer. As an onscreen surrogate dozes his way through a never-ending train journey, Maddin fantasises in his italicised, mock dramatic narration about how best to leave the place where he has spent his life. ‘What if I film my way out of here?’ he wonders, introducing the idea of cinema as psychological liberation, before trying to work through Winnipeg’s history and his own, the better to shake it off at last.
 
@@ -160,6 +170,24 @@ Print courtesy of TIFF Film Reference Library
 
 *Uncredited<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjEwNzE2MjU4MF19
 -->
