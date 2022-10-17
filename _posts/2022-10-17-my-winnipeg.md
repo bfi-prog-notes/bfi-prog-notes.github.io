@@ -134,45 +134,26 @@ Wesley Cade<br>
 Lou Profeta<br>
 Fred Dunsmore<br>
 Kate Yacula<br>
-
 Jacelyn Lobay<br>
-
 Eric Nipp<br>
-
 Jennifer Palichuk<br>
-
 Deborah Carlson<br>
-
 Kevin Harris<br>
-
 Scott Hamel<br>
-
 Wayne Hamel<br>
-
 Althea Cornish<br>
-
 Olie Alto<br>
-
 Jeremy Dangerfield<br>
-
 Daniel Hussey<br>
-
 Tim Kiriluk<br>
-
 Lee Major<br>
-
 Roy Trumpour<br>
-
 Chris Turyk<br>
-
 John Warkentin<br>
-
 Will Woytowich<br>
-
 Brett Donahue<br>
 
 Canada-USA 2007©<br>
-
 80 mins<br>
 
 Print courtesy of TIFF Film Reference Library
@@ -180,5 +161,5 @@ Print courtesy of TIFF Film Reference Library
 *Uncredited<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzUxMDg3NF19
+eyJoaXN0b3J5IjpbMjEwNzE2MjU4MF19
 -->
