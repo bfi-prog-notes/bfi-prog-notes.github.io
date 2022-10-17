@@ -64,154 +64,75 @@ Canada 2000©
 6 mins
 
 **MY WINNIPEG**<br>
-
 _Directed by:_ Guy Maddin<br>
-
 ©: Paddlewheel Productions, February Pictures Inc<br>
-
-_Produced with the participation of:_  
-Canadian Television and Cable Production, Manitoba Film and Sound Development Corporation<br>
-
-_Produced by:_ Everyday Pictures,  
-Buffalo Gal Pictures<br>
-
+_Produced with the participation of:_  Canadian Television and Cable Production, Manitoba Film and Sound Development Corporation<br>
+_Produced by:_ Everyday Pictures,  Buffalo Gal Pictures<br>
 _Presented by:_ Documentary Channel<br>
-
 _Produced with the assistance of:_ Government of Manitoba, Manitoba Film and Video Production Tax Credit, Canadian Film or Video Production, Ontario Film and Television Tax Credit Program<br>
-
-_Produced with the participation of:_
-
-Canadian Television and Cable Production<br>
-
+_Produced with the participation of:_ Canadian Television and Cable Production<br>
 _Executive Producer:_ Michael Burns<br>
-
 _Producers:_ Jody Shapiro, Phyllis Laing<br>
-
 _Production Executive:_ Jean du Toit<br>
-
 _Production Accountant:_ Colette Desjardins<br>
-
 _Production Co-ordinators:_ Colleen Wowchuk, Lindsay Hamel<br>
-
 _Production Manager:_ Shelly-Anne Hays<br>
-
 _Location Manager:_ Sarah Jane Cundell<br>
-
 _Post-production Co-ordinator:_ Lindsay Hamel<br>
-
 _1st Assistant Director:_ Ronaldo Nacionales<br>
-
-_2nd Assistant Directors:_ Danielle Dumesnil,  
-Richard Duffy, Lori Stefaniuk<br>
-
+_2nd Assistant Directors:_ Danielle Dumesnil,  Richard Duffy, Lori Stefaniuk<br>
 _3rd Assistant Director:_ Leona Krahn<br>
-
 _Casting:_ Jim Heber<br>
-
 _Extras Casting:_ Patricia Kress<br>
-
 _Screenplay:_ Guy Maddin<br>
-
 _Conceived by:_ Guy Maddin<br>
-
 _Additional Dialogue by:_ George Toles<br>
-
 _Scenario Consultant:_ Noam Gonick<br>
-
 _Director of Photography:_ Jody Shapiro<br>
-
 _Lighting Directors:_ Michael Drabot, John Clarke<br>
-
-_Additional Camera:_ Guy Maddin, Shauna Townley, Rob Thomson, Evan Johnson, Lindsay Hamel,  
-Len Peterson, Stephan Recksiedler,  
-Charles Venzon<br>
-
+_Additional Camera:_ Guy Maddin, Shauna Townley, Rob Thomson, Evan Johnson, Lindsay Hamel,  Len Peterson, Stephan Recksiedler,  Charles Venzon<br>
 _1st Assistant Camera:_ Shauna Townley<br>
-
-_2nd Assistant Camera:_ Jason Heke,  
-Charles Venzon<br>
-
+_2nd Assistant Camera:_ Jason Heke,  Charles Venzon<br>
 _Key Grip:_ Rob Thomson<br>
-
 _Gaffer:_ John Clarke<br>
-
 _Animation:_ Andy Smetanka<br>
-
 _Train Set/Model Sequence Designer:_ Ricardo Alms<br>
-
 _Editor:_ John Gurdebeke<br>
-
-_Post-production by:_  
-Technicolor Creative Services (Montréal)<br>
-
+_Post-production by:_  Technicolor Creative Services (Montréal)<br>
 _Assistant Editor:_ Ryan McKenna<br>
-
 _Additional Editor:_ Matthew Hannam<br>
-
 _Production Designer:_ Réjean Labrie<br>
-
 _Art Director:_ Katharina Stieffenhofer<br>
-
-_Set Decorators:_ Alexis Labra, Chad Giesbrecht,  
-Bill MacInnis, John Jennissen<br>
-
+_Set Decorators:_ Alexis Labra, Chad Giesbrecht,  Bill MacInnis, John Jennissen<br>
 _Set Dresser:_ Allan McGowan<br>
-
 _Props Master:_ Jason Gibbs<br>
-
 _Props:_ Brian Barnhart<br>
-
 _Construction Co-ordinator:_ Denis Duguay<br>
-
-_Construction Co-ordinator Train Sequence:_  
-Bill Sinosich<br>
-
+_Construction Co-ordinator Train Sequence:_  Bill Sinosich<br>
 _Costume Designer:_ Meg McMillan<br>
-
 _Key Make-up:_ Brianne Lewin<br>
-
 _Key Hair:_ Ediena Hawkes<br>
-
 _Colour Timer:_ Louis Casado<br>
-
 _Film Processing:_ Black and White Film Factory, Exclusive Film & Video<br>
-
 _Choreographer:_ Stéphane Léonard<br>
-
 _Production Sound Mixer:_ Marvin Polanski<br>
-
 _Boom Operator:_ Jordan Pede<br>
-
 _Voice Over Recording Engineer:_ Michel Germain<br>
-
 _Re-recording Mixer:_ Martin Lee<br>
-
 _Post Sound Facility:_ Tattersall Sound & Picture<br>
-
 _Sound Editors:_ David McCallum, Steve Medeiros, David Rose, Jane Tattersall<br>
-
 _Narration Interviewer:_ Robert Enright<br>
-
 _Narrated by:_ Guy Maddin<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Ann Savage<br>
-
 Louis Negin<br>
-
 Amy Stewart<br>
-
 Darcy Fehr<br>
-
 Brendan Cade<br>
-
 Wesley Cade<br>
-
 Lou Profeta<br>
-
 Fred Dunsmore<br>
-
 Kate Yacula<br>
 
 Jacelyn Lobay<br>
@@ -259,5 +180,5 @@ Print courtesy of TIFF Film Reference Library
 *Uncredited<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODIxMjgxOF19
+eyJoaXN0b3J5IjpbLTQzMzUxMDg3NF19
 -->
