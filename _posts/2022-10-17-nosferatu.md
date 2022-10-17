@@ -31,75 +31,75 @@ _Art Director:_ Albin Grau
 _Costumes:_ Albin Grau  
 _1922 Music for performance:_ Hans Erdmann  
 
-**Cast**
-Max Schreck _(Count Orlok)_
-Alexander Granach _(Knock)_
-Gustav von Wangenheim _(Hutter)_
-Greta Schröder _(Ellen, Hutter’s wife)_
-Georg Heinrich Schnell _(Harding)_
-Ruth Landshoff _(Ruth)_
-John Gottowt _(Professor Bulwer)_
-Gustav Botz _(Professor Sievers)_
-Max Nemetz _(Captain)_
-Wolfgang Heinz _(1st sailor)_
-Albert Venohr _(2nd sailor)_
-Guido Herzfeld _(innkeeper)_
-Hardy von François _(hospital doctor)_
-Heinrich Witte
-Karl Etlinger
+**Cast**  
+Max Schreck _(Count Orlok)_  
+Alexander Granach _(Knock)_  
+Gustav von Wangenheim _(Hutter)_  
+Greta Schröder _(Ellen, Hutter’s wife)_  
+Georg Heinrich Schnell _(Harding)_  
+Ruth Landshoff _(Ruth)_  
+John Gottowt _(Professor Bulwer)_  
+Gustav Botz _(Professor Sievers)_  
+Max Nemetz _(Captain)_  
+Wolfgang Heinz _(1st sailor)_  
+Albert Venohr _(2nd sailor)_  
+Guido Herzfeld _(innkeeper)_  
+Hardy von François _(hospital doctor)_  
+Heinrich Witte  
+Karl Etlinger  
 
 Germany 1922  
 96 mins  
 
-**IN DREAMS ARE MONSTERS**
-**Nosferatu (Nosferatu – Eine Symphonie des Grauens)**
-Mon 17 Oct 20:50; Sun 13 Nov 15:50 (+ intro by Silent Film Curator Bryony Dixon); Sat 19 Nov 14:10
-**Frankenstein**
-Tue 18 Oct 20:50; Fri 28 Oct 18:20; Tue 8 Nov 18:20; Sun 27 Nov 13:00
-**The Skeleton Key**
-Wed 19 Oct 18:00; Mon 14 Nov 20:45
-**Meet the Monsters: A Season Introduction**
-Thu 20 Oct 19:30 BFI YouTube
-**I Walked With a Zombie**
-Thu 20 Oct 20:40; Tue 1 Nov 18:10
-**Creature from the Black Lagoon (3D) ***
-Sat 22 Oct 18:15 (+ pre-recorded intro by Mallory O’Meara, award winning and bestselling author of ‘The Lady from the Black Lagoon’); Sat 29 Oct 11:40; Tue 1 Nov 20:50
-**In Dreams Are Monsters Quiz**
-Sun 23 Oct 19:00-22:00 Blue Room
-**Kuroneko (Yabu no naka no kuroneko)**
-Tue 25 Oct 20:45; Mon 31 Oct 21:00; Fri 18 Nov 18:15
-**The Fly**
-Wed 26 Oct 21:00
-**La Llorona**
-Thu 27 Oct 20:30; Mon 7 Nov 21:00
-**Celluloid Screams and Live Cinema UK presents: Ghostwatch + Q&A**
-Fri 28 Oct 20:20
-**Viy**
-Fri 28 Oct 20:45; Tue 8 Nov 20:50
-**A Nightmare on Elm Street**
-Sat 29 Oct 18:30; Wed 30 Nov 20:50
-**Candyman**
-Sat 29 Oct 20:45; Thu 17 Nov 20:50 (+ intro)
-**Nightbreed – Director’s Cut**
-Sun 30 Oct 15:10 (+ intro); Sat 12 Nov 20:35
-**28 Days Later**
-Mon 31 Oct 18:00 (+ Q&A with director Danny Boyle); Sat 26 Nov 20:45
-**Us**
-Tue 1 Nov 20:40; Sat 19 Nov 15:10; Tue 29 Nov 20:40
-**The Autopsy of Jane Doe**
-Wed 2 Nov 18:10; Sat 26 Nov 20:40
-**Let’s Scare Jessica to Death**
-Wed 2 Nov 20:45; Sat 19 Nov 20:45
-**Blacula**
-Thu 3 Nov 20:55; Sat 26 Nov 13:00
-**Cronos**
-Fri 4 Nov 18:30; Sat 19 Nov 12:10; Sun 20 Nov 18:30
-**Fright Night**
-Fri 4 Nov 20:50; Tue 22 Nov 20:40 (+ intro)
-**Possession**
-Sat 5 Nov 20:20 (+ intro by author Kier-La Janisse); Sun 27 Nov 15:30
-**Ganja & Hess**
-Mon 7 Nov 18:00; Sat 26 Nov 15:20
+**IN DREAMS ARE MONSTERS**  
+**Nosferatu (Nosferatu – Eine Symphonie des Grauens)**  
+Mon 17 Oct 20:50; Sun 13 Nov 15:50 (+ intro by Silent Film Curator Bryony Dixon); Sat 19 Nov 14:10  
+**Frankenstein**  
+Tue 18 Oct 20:50; Fri 28 Oct 18:20; Tue 8 Nov 18:20; Sun 27 Nov 13:00  
+**The Skeleton Key**  
+Wed 19 Oct 18:00; Mon 14 Nov 20:45  
+**Meet the Monsters: A Season Introduction**  
+Thu 20 Oct 19:30 BFI YouTube  
+**I Walked With a Zombie**  
+Thu 20 Oct 20:40; Tue 1 Nov 18:10  
+**Creature from the Black Lagoon (3D) **  
+Sat 22 Oct 18:15 (+ pre-recorded intro by Mallory O’Meara, award winning and bestselling author of ‘The Lady from the Black Lagoon’); Sat 29 Oct 11:40; Tue 1 Nov 20:50  
+**In Dreams Are Monsters Quiz**  
+Sun 23 Oct 19:00-22:00 Blue Room  
+**Kuroneko (Yabu no naka no kuroneko)**  
+Tue 25 Oct 20:45; Mon 31 Oct 21:00; Fri 18 Nov 18:15  
+**The Fly**  
+Wed 26 Oct 21:00  
+**La Llorona**  
+Thu 27 Oct 20:30; Mon 7 Nov 21:00  
+**Celluloid Screams and Live Cinema UK presents: Ghostwatch + Q&A**  
+Fri 28 Oct 20:20  
+**Viy**  
+Fri 28 Oct 20:45; Tue 8 Nov 20:50  
+**A Nightmare on Elm Street**  
+Sat 29 Oct 18:30; Wed 30 Nov 20:50  
+**Candyman**  
+Sat 29 Oct 20:45; Thu 17 Nov 20:50 (+ intro)  
+**Nightbreed – Director’s Cut**  
+Sun 30 Oct 15:10 (+ intro); Sat 12 Nov 20:35  
+**28 Days Later**  
+Mon 31 Oct 18:00 (+ Q&A with director Danny Boyle); Sat 26 Nov 20:45  
+**Us**  
+Tue 1 Nov 20:40; Sat 19 Nov 15:10; Tue 29 Nov 20:40  
+**The Autopsy of Jane Doe**  
+Wed 2 Nov 18:10; Sat 26 Nov 20:40  
+**Let’s Scare Jessica to Death**  
+Wed 2 Nov 20:45; Sat 19 Nov 20:45  
+**Blacula**  
+Thu 3 Nov 20:55; Sat 26 Nov 13:00  
+**Cronos**  
+Fri 4 Nov 18:30; Sat 19 Nov 12:10; Sun 20 Nov 18:30  
+**Fright Night**  
+Fri 4 Nov 20:50; Tue 22 Nov 20:40 (+ intro)  
+**Possession**  
+Sat 5 Nov 20:20 (+ intro by author Kier-La Janisse); Sun 27 Nov 15:30  
+**Ganja & Hess**  
+Mon 7 Nov 18:00; Sat 26 Nov 15:20  
 **Inferno**
 Wed 9 Nov 20:40; Sat 26 Nov 18:20
 **The Entity**
@@ -133,5 +133,5 @@ Sat 19 Nov 18:00
 **Big Monster Energy**
 Tue 22 Nov 18:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzkyNjc0OF19
+eyJoaXN0b3J5IjpbLTQ5OTczNjgxNl19
 -->
