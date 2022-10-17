@@ -1,16 +1,13 @@
 
-<![endif]-->
 
 _+ intro by Silent Film Curator Bryony Dixon and live piano accompaniment. (Sunday 13 November only)_
 
-In this loose adaptation of Bram Stoker’s _Dracula_, the film’s antagonist, Count Orlock (Schreck), is a deviation from the seductive vampire, skulking around his castle like a rat. FW Murnau’s masterpiece may be a hundred years old, but it has lost none of its bite, with stunning imagery and a performance whose influence over horror cinema is arguably greater than any other of its time.
-
-**Anna Bogutskaya**
+In this loose adaptation of Bram Stoker’s _Dracula_, the film’s antagonist, Count Orlock (Schreck), is a deviation from the seductive vampire, skulking around his castle like a rat. FW Murnau’s masterpiece may be a hundred years old, but it has lost none of its bite, with stunning imagery and a performance whose influence over horror cinema is arguably greater than any other of its time.  
+**Anna Bogutskaya**  
 
 The question of how _Nosferatu_ came to be made is still something of a mystery. Virtually the only film produced by Prana-Film – a financial sinking ship whose owners were subsequently taken to court for copyright violations by Bram Stoker’s widow, despite having changed most of the characters’ names – the project owed much to the enigmatic figure of Albin Grau, who signed for the decor and costumes but also seems to have been the driving force behind the production, both financially and artistically. Very little is known about Grau, though an article by Enno Patalas depicts him variously as a student of eastern philosophy, a freemason and master of the ‘pansophic lodge of the light-seekers’ in Berlin, a fan of Aleister Crowley, a friend of novelist-painter Alfred Kubin and the author of a pamphlet about the use of colour in décor and lighting in black-and-white films. More predictable collaborators were film industry professionals screenwriter Henrik Galeen (who co-wrote _The Golem_) and director of photography Fritz Arno Wagner, one of the three top cameramen at Ufa.
 
-Germany in 1921-2 was recovering from the bloodletting of World War I.  
-The spectres that haunted the new republic included the Spartacist uprisings in Berlin and Munich, based on the Soviet model and bloodily suppressed, raging inflation that bled the economy like an internal haemorrhage, and an army of horribly disfigured war cripples. But it was another memorable event that left its echo in _Nosferatu_: in the winter of 1919-20 a Spanish flu epidemic and famine hit Germany, ravaging the country and reportedly killing more civilians than the Great War itself. So the cholera, whose origins _Nosferatu_ is supposed to record, is doubled by several successive disasters befalling a defeated Germany, during which public opinion only too readily blamed the victors of Versailles for not coming to the country’s aid. Instead, the French, adding insult and humiliation to injury and penury, insisted on the prompt payment of war reparations and annexed the Rhineland, setting off a chain of events that gave the nationalist right its first electoral successes among the working class.
+Germany in 1921-2 was recovering from the bloodletting of World War I.  The spectres that haunted the new republic included the Spartacist uprisings in Berlin and Munich, based on the Soviet model and bloodily suppressed, raging inflation that bled the economy like an internal haemorrhage, and an army of horribly disfigured war cripples. But it was another memorable event that left its echo in _Nosferatu_: in the winter of 1919-20 a Spanish flu epidemic and famine hit Germany, ravaging the country and reportedly killing more civilians than the Great War itself. So the cholera, whose origins _Nosferatu_ is supposed to record, is doubled by several successive disasters befalling a defeated Germany, during which public opinion only too readily blamed the victors of Versailles for not coming to the country’s aid. Instead, the French, adding insult and humiliation to injury and penury, insisted on the prompt payment of war reparations and annexed the Rhineland, setting off a chain of events that gave the nationalist right its first electoral successes among the working class.
 
 Most cultural-studies approaches to _Nosferatu_ (or indeed to Stoker’s _Dracula_) have little trouble relating the myth of the vampire to a historically new and politically troubling awareness of female sexuality. The somnambulist Mina and her friend Lucy have been compared to the hysterical females treated by Charcot in Paris at the Salpêtrière, where they were photographed by Albert Londe, thanks to his newly developed chronophotographic camera, while two young doctors from Germany and Austria, Josef Breuer and Sigmund Freud, looked on. (Stoker has van Helsing support his diagnosis of Lucy’s symptoms with a pointed reference to having studied in Paris under Charcot.)
 
@@ -20,94 +17,54 @@ The French surrealists admired _Nosferatu_ mainly for its eroticism, contrasting
 
 Siegfried Kracauer had argued that Weimar cinema obsessively staged anxieties about male self-images and male sexuality: his 1966 _From Caligari to Hitler_ even ties the theme of damaged masculinity to the vanishing of paternal authority after a lost war. Certainly the preferred stories of Expressionist cinema focus on male identity crises – often signalled by the appearance of a double – and toy with bisexuality by featuring love triangles in which the two males are usually ‘best friends’ or business associates who show an obvious but rarely openly acknowledged attraction to each other. In this respect Murnau’s films are neither an exception nor unusually explicit. Doubles abound in Murnau as they do in other directors, whether by way of disguise (_Tartuffe_, 1926) or across a split male character (Faust old and young). Likewise, there are several crucial films where a pure, almost asexual love is threatened or destroyed by the intrusion of another male’s predatory attentions – to the man (Nosferatu/Harker, Mephisto/Faust, Tartuffe/Orgon, _Tabu_’s Hitu/Matahi).
 
-For a novelist like Jim Shepard, Murnau’s homosexuality is crucial to both his films and his life; sorrow and secrecy become the wellsprings of his creative drive, the motives behind a tale of love, longing, guilt and self-abjection. In his fictionalised 1998 biography of Murnau, _Nosferatu in Love_, Shepard makes the twin poles of self-deprecating humour and self-lacerating grief the protective armour behind which the director feeds on lascivious thoughts furtively indulged. For Shepard, the deepest wound the war inflicted on Murnau was the death on the Eastern Front of his intimate friend Hans Ehrenbaum-Degele, on whom he once recklessly cheated. Baffled and hurt, Hans voluntarily enlists and soon gets himself killed, to the undying shame and mortification of Murnau, at least according to Shepard.
+For a novelist like Jim Shepard, Murnau’s homosexuality is crucial to both his films and his life; sorrow and secrecy become the wellsprings of his creative drive, the motives behind a tale of love, longing, guilt and self-abjection. In his fictionalised 1998 biography of Murnau, _Nosferatu in Love_, Shepard makes the twin poles of self-deprecating humour and self-lacerating grief the protective armour behind which the director feeds on lascivious thoughts furtively indulged. For Shepard, the deepest wound the war inflicted on Murnau was the death on the Eastern Front of his intimate friend Hans Ehrenbaum-Degele, on whom he once recklessly cheated. Baffled and hurt, Hans voluntarily enlists and soon gets himself killed, to the undying shame and mortification of Murnau, at least according to Shepard.  
+**Thomas Elsaesser, _Sight & Sound_, February 2001**  
 
-**Thomas Elsaesser, _Sight & Sound_, February 2001**
-
-**NOSFERATU (NOSFERATU, EINE SYMPHONIE DES GRAUENS)**
-
-_Director:_ F.W. Murnau
-
-_Production Company:_ Prana-Film
-
-_Producers:_ Albin Grau, Enrico Dieckmann
-
-_Screenplay:_ Henrik Galeen
-
-_Director of Photography:_ Fritz Arno Wagner
-
-_Camera Assistant:_ Günther Krampf
-
-_Art Director:_ Albin Grau
-
-_Costumes:_ Albin Grau
-
-_1922 Music for performance:_ Hans Erdmann
+**NOSFERATU (NOSFERATU, EINE SYMPHONIE DES GRAUENS)**  
+_Director:_ F.W. Murnau  
+_Production Company:_ Prana-Film  
+_Producers:_ Albin Grau, Enrico Dieckmann  
+_Screenplay:_ Henrik Galeen  
+_Director of Photography:_ Fritz Arno Wagner  
+_Camera Assistant:_ Günther Krampf  
+_Art Director:_ Albin Grau  
+_Costumes:_ Albin Grau  
+_1922 Music for performance:_ Hans Erdmann  
 
 **Cast**
-
 Max Schreck _(Count Orlok)_
-
 Alexander Granach _(Knock)_
-
 Gustav von Wangenheim _(Hutter)_
-
 Greta Schröder _(Ellen, Hutter’s wife)_
-
 Georg Heinrich Schnell _(Harding)_
-
 Ruth Landshoff _(Ruth)_
-
 John Gottowt _(Professor Bulwer)_
-
 Gustav Botz _(Professor Sievers)_
-
 Max Nemetz _(Captain)_
-
 Wolfgang Heinz _(1st sailor)_
-
 Albert Venohr _(2nd sailor)_
-
 Guido Herzfeld _(innkeeper)_
-
 Hardy von François _(hospital doctor)_
-
 Heinrich Witte
-
 Karl Etlinger
 
-Germany 1922
-
-96 mins
+Germany 1922  
+96 mins  
 
 **IN DREAMS ARE MONSTERS**
-
 **Nosferatu (Nosferatu – Eine Symphonie des Grauens)**
-
 Mon 17 Oct 20:50; Sun 13 Nov 15:50 (+ intro by Silent Film Curator Bryony Dixon); Sat 19 Nov 14:10
-
 **Frankenstein**
-
 Tue 18 Oct 20:50; Fri 28 Oct 18:20; Tue 8 Nov 18:20; Sun 27 Nov 13:00
-
 **The Skeleton Key**
-
 Wed 19 Oct 18:00; Mon 14 Nov 20:45
-
 **Meet the Monsters: A Season Introduction**
-
 Thu 20 Oct 19:30 BFI YouTube
-
 **I Walked With a Zombie**
-
 Thu 20 Oct 20:40; Tue 1 Nov 18:10
-
 **Creature from the Black Lagoon (3D) ***
-
 Sat 22 Oct 18:15 (+ pre-recorded intro by Mallory O’Meara, award winning and bestselling author of ‘The Lady from the Black Lagoon’); Sat 29 Oct 11:40; Tue 1 Nov 20:50
-
 **In Dreams Are Monsters Quiz**
-
 Sun 23 Oct 19:00-22:00 Blue Room
 **Kuroneko (Yabu no naka no kuroneko)**
 Tue 25 Oct 20:45; Mon 31 Oct 21:00; Fri 18 Nov 18:15
@@ -176,5 +133,5 @@ Sat 19 Nov 18:00
 **Big Monster Energy**
 Tue 22 Nov 18:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTExMTI2OV19
+eyJoaXN0b3J5IjpbLTU3NzkyNjc0OF19
 -->
