@@ -20,20 +20,17 @@ _Every so often you get impassioned, particularly on the subject of the destruct
 
 I realised I was getting obsessionally vitriolic when the movie was screened to puzzled Berliners; I wondered how much empathy they might have for me when I’m griping about a couple of buildings and their entire city was pounded flat a generation ago. But I could hear in the silence of that Berlin audience a lot of poststructuralist eyebrow knitting going on.
 
-_Was the title always_ My Winnipeg_ ?_
+_Was the title always_ My Winnipeg _?_
 
 There was a civic pride slogan in the 1970s that I always loved because it sounded a little bit threatening: ‘Love me, love my Winnipeg.’ For the longest time I was calling it that, but its working title was always _My Winnipeg_, and when it came for me to change it to my preferred title, those associated with the project wouldn’t let me. Never ever have a working title.
 
-Interview by Michael Brooke, _Sight & Sound_, July 2008
+**Interview by Michael Brooke, _Sight & Sound_, July 2008**
 
-**The Heart of the World**
-
+**The Heart of the World**  
 Maddin has said of his short, ‘to this day the only film that turned out as I planned it.’ This 4K restoration only heightens the sense of wonder produced by the filmmaker’s take on Soviet propaganda filmmaking.
+<br><br>
 
-<![endif]-->
-
-**THE HEART OF THE WORLD**
-
+**THE HEART OF THE WORLD**  
 _Directed by_: Guy Maddin  
 ©: Toronto International Film Festival Inc.  
 _In participation with_: TMN - The Movie Network, Super Écran, Astral Media  
@@ -54,8 +51,8 @@ _Make-up/Hair Design_: Beverly Hamilton
 _Music Co-ordinator_: Vladimir Gabyshev  
 _Sound Design_: David McCallum  
 _Re-recording Mixer_: Lou Solakofski  
-_Cast:_
 
+**Cast**  
 Leslie Bais _(Anna)_  
 Caelum Vatnsdal _(Osip)_  
 Shaun Balbar _(Nikolai)_  
@@ -63,54 +60,53 @@ Hryhory Yulyanovitch Klymkyiew _(Akmatov)_
 Tammy Gillis _(Mary Magdalene)_ *  
 Carson Nattrass _(centurion)_ *
 
-Canada 2000©
-
+Canada 2000©  
 6 mins
 
-**MY WINNIPEG**
+**MY WINNIPEG**<br>
 
-_Directed by:_ Guy Maddin
+_Directed by:_ Guy Maddin<br>
 
-©: Paddlewheel Productions, February Pictures Inc
+©: Paddlewheel Productions, February Pictures Inc<br>
 
 _Produced with the participation of:_  
-Canadian Television and Cable Production, Manitoba Film and Sound Development Corporation
+Canadian Television and Cable Production, Manitoba Film and Sound Development Corporation<br>
 
 _Produced by:_ Everyday Pictures,  
-Buffalo Gal Pictures
+Buffalo Gal Pictures<br>
 
-_Presented by:_ Documentary Channel
+_Presented by:_ Documentary Channel<br>
 
-_Produced with the assistance of:_ Government of Manitoba, Manitoba Film and Video Production Tax Credit, Canadian Film or Video Production, Ontario Film and Television Tax Credit Program
+_Produced with the assistance of:_ Government of Manitoba, Manitoba Film and Video Production Tax Credit, Canadian Film or Video Production, Ontario Film and Television Tax Credit Program<br>
 
 _Produced with the participation of:_
 
-Canadian Television and Cable Production
+Canadian Television and Cable Production<br>
 
-_Executive Producer:_ Michael Burns
+_Executive Producer:_ Michael Burns<br>
 
-_Producers:_ Jody Shapiro, Phyllis Laing
+_Producers:_ Jody Shapiro, Phyllis Laing<br>
 
-_Production Executive:_ Jean du Toit
+_Production Executive:_ Jean du Toit<br>
 
-_Production Accountant:_ Colette Desjardins
+_Production Accountant:_ Colette Desjardins<br>
 
-_Production Co-ordinators:_ Colleen Wowchuk, Lindsay Hamel
+_Production Co-ordinators:_ Colleen Wowchuk, Lindsay Hamel<br>
 
-_Production Manager:_ Shelly-Anne Hays
+_Production Manager:_ Shelly-Anne Hays<br>
 
-_Location Manager:_ Sarah Jane Cundell
+_Location Manager:_ Sarah Jane Cundell<br>
 
-_Post-production Co-ordinator:_ Lindsay Hamel
+_Post-production Co-ordinator:_ Lindsay Hamel<br>
 
-_1st Assistant Director:_ Ronaldo Nacionales
+_1st Assistant Director:_ Ronaldo Nacionales<br>
 
 _2nd Assistant Directors:_ Danielle Dumesnil,  
-Richard Duffy, Lori Stefaniuk
+Richard Duffy, Lori Stefaniuk<br>
 
-_3rd Assistant Director:_ Leona Krahn
+_3rd Assistant Director:_ Leona Krahn<br>
 
-_Casting:_ Jim Heber
+_Casting:_ Jim Heber<br>
 
 _Extras Casting:_ Patricia Kress
 
@@ -262,5 +258,5 @@ Print courtesy of TIFF Film Reference Library
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1ODM0NTNdfQ==
+eyJoaXN0b3J5IjpbMTg3Njg5OTI1OF19
 -->
