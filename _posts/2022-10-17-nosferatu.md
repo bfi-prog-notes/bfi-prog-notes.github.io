@@ -100,38 +100,38 @@ Fri 4 Nov 20:50; Tue 22 Nov 20:40 (+ intro)
 Sat 5 Nov 20:20 (+ intro by author Kier-La Janisse); Sun 27 Nov 15:30  
 **Ganja & Hess**  
 Mon 7 Nov 18:00; Sat 26 Nov 15:20  
-**Inferno**
-Wed 9 Nov 20:40; Sat 26 Nov 18:20
-**The Entity**
-Fri 11 Nov 17:55; Tue 15 Nov 20:30
-**Def by Temptation**
-Wed 16 Nov 18:10 (+ intro); Sat 26 Nov 18:10
-**Jennifer’s Body**
-Sun 20 Nov 15:15; Mon 21 Nov 18:00; Fri 25 Nov 20:45
-**Pontypool**
-Mon 21 Nov 20:30; Sun 27 Nov 12:20
-**Under the Shadow**
-Wed 23 Nov 20:40; Tue 29 Nov 18:10
-**Ouija: Origin of Evil**
-Thu 24 Nov 20:40; Mon 28 Nov 18:10
-**Pet Sematary**
-Fri 25 Nov 18:15; Mon 28 Nov 20:40
-**Good Manners (As Boas Maneiras)**
-Sun 27 Nov 18:10; Wed 30 Nov 20:25
+**Inferno**  
+Wed 9 Nov 20:40; Sat 26 Nov 18:20  
+**The Entity**  
+Fri 11 Nov 17:55; Tue 15 Nov 20:30  
+**Def by Temptation**  
+Wed 16 Nov 18:10 (+ intro); Sat 26 Nov 18:10  
+**Jennifer’s Body**  
+Sun 20 Nov 15:15; Mon 21 Nov 18:00; Fri 25 Nov 20:45  
+**Pontypool**  
+Mon 21 Nov 20:30; Sun 27 Nov 12:20  
+**Under the Shadow**  
+Wed 23 Nov 20:40; Tue 29 Nov 18:10  
+**Ouija: Origin of Evil**  
+Thu 24 Nov 20:40; Mon 28 Nov 18:10  
+**Pet Sematary**  
+Fri 25 Nov 18:15; Mon 28 Nov 20:40  
+**Good Manners (As Boas Maneiras)**  
+Sun 27 Nov 18:10; Wed 30 Nov 20:25  
 
-**IN DREAMS ARE MONSTERS EVENTS**
-**City Lit at BFI: Screen Horrors – Screen Monsters**
-Thu 20 Oct – Thu 15 Dec 18:30-20:30
-**Beyond Nollywood World Premiere: Inside Life + Q&A with director Clarence A Peters**
-Sat 29 Oct 14:00
-**Matchbox Cine presents House of Psychotic Women**
-Sat 5 Nov 17:50
-**Son of Ingagi + Panel Discussion**
-Wed 9 Nov 18:10
-**Live Commentary with Evolution of Horror, Brain Rot and The Final Girls**
-Sat 19 Nov 18:00
-**Big Monster Energy**
-Tue 22 Nov 18:30
+**IN DREAMS ARE MONSTERS EVENTS**  
+**City Lit at BFI: Screen Horrors – Screen Monsters**  
+Thu 20 Oct – Thu 15 Dec 18:30-20:30  
+**Beyond Nollywood World Premiere: Inside Life + Q&A with director Clarence A Peters**  
+Sat 29 Oct 14:00  
+**Matchbox Cine presents House of Psychotic Women**  
+Sat 5 Nov 17:50  
+**Son of Ingagi + Panel Discussion**  
+Wed 9 Nov 18:10  
+**Live Commentary with Evolution of Horror, Brain Rot and The Final Girls**  
+Sat 19 Nov 18:00  
+**Big Monster Energy**  
+Tue 22 Nov 18:30  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTczNjgxNl19
+eyJoaXN0b3J5IjpbLTIzMzQzNTUwNF19
 -->
