@@ -1,3 +1,14 @@
+---
+layout: post
+title: A Zed & Two Noughts
+published: true
+date: 2022-10-18
+readtime: true
+categories: ['FRAMES OF MIND<br> THE FILMS OF PETER GREENAWAY']
+tags: [Experimental]
+metadata: 'UK/Netherlands 1985, 117 mins<br> Director: Peter Greenaway'
+pdf: '2022-10-18-a-zed-and-two-noughts.pdf'
+---
 
 Twin zoologists, grieving the death of their wives in a collision involving a car and a swan, gradually form a bond with the woman who was driving the vehicle that caused their spouses’ demise. The brothers become obsessed with death and decay in animals, creating time-lapse films to further their understanding. Rich in imagery, this visually stunning early feature by Greenaway remains one the filmmaker’s boldest challenges to conventional cinema.  
 **bfi.org.uk**  
@@ -68,44 +79,53 @@ David Attenborough _(narrator of wild-life footage)_
 
 UK/Netherlands 1985  
 117 mins  
+<br>
+**FRAMES OF MIND: THE FILMS OF PETER GREENAWAY**  
+**A Zed & Two Noughts**  
+Tue 18 Oct 18:10; Sat 5 Nov 17:40; Sat 12 Nov 17:40; Mon 21 Nov 20:40; Sun 27 Nov 12:15  
+**Peter Greenaway: Frames of Mind Season Introduction**  
+Wed 19 Oct 18:10  
+**The Belly of an Architect**  
+Wed 19 Oct 20:30; Fri 18 Nov 18:20; Tue 22 Nov 18:10; Sat 26 Nov 15:30  
+**The Falls**  
+Sat 22 Oct 13:50; Sun 6 Nov 14:40  
+**The Cook, the Thief, His Wife & Her Lover**  
+Sun 23 Oct 15:30 (+ intro by Justin Johnson, Lead Programmer); Sat 12 Nov 14:55; Mon 28 Nov 17:50  
+**Drowning by Numbers**  
+Sun 23 Oct 18:00; Sat 19 Nov 14:30; Sun 27 Nov 18:00  
+**Peter Greenaway Shorts Programme 1**  
+Mon 24 Oct 18:10; Thu 10 Nov 20:40  
+**Experimental Sound and Vision: Found Sounds, Lyrical Loops and Landscapes**  
+Thu 27 Oct 18:15; Thu 17 Nov 18:15 (+ intro by author and musician David Toop)  
+**Prospero’s Books**  
+Tue 1 Nov 17:40; Sun 20 Nov 18:00  
+**Peter Greenaway: Pioneer of Cinema**  
+Sat 5 Nov 12:00-17:00  
+**The Unreliable Narrator: Adventures in Storytelling, Documentary and Misinformation**  
+Sun 6 Nov 12:40; Fri 25 Nov 21:00  
+**A TV Dante: Cantos 1-8**  
+Tue 15 Nov 18:20  
+**The Baby of Mâcon**  
+Wed 16 Nov 20:30; Fri 25 Nov 18:00; Mon 28 Nov 20:30  
+**The Pillow Book**  
+Fri 18 Nov 20:30; Thu 24 Nov 20:30; Tue 29 Nov 17:40  
+**8½ Women**  
+Sun 20 Nov 12:50; Wed 30 Nov 20:35  
+<br>
 
-**FRAMES OF MIND: THE FILMS OF PETER GREENAWAY**
-**A Zed & Two Noughts**
-Tue 18 Oct 18:10; Sat 5 Nov 17:40; Sat 12 Nov 17:40; Mon 21 Nov 20:40; Sun 27 Nov 12:15
-**Peter Greenaway: Frames of Mind Season Introduction**
-Wed 19 Oct 18:10
-**The Belly of an Architect**
-Wed 19 Oct 20:30; Fri 18 Nov 18:20; Tue 22 Nov 18:10; Sat 26 Nov 15:30
-**The Falls**
-Sat 22 Oct 13:50; Sun 6 Nov 14:40
-**The Cook, the Thief, His Wife & Her Lover**
-Sun 23 Oct 15:30 (+ intro by Justin Johnson, Lead Programmer); Sat 12 Nov 14:55; Mon 28 Nov 17:50
-**Drowning by Numbers**
-Sun 23 Oct 18:00; Sat 19 Nov 14:30; Sun 27 Nov 18:00
-**Peter Greenaway Shorts Programme 1**
-Mon 24 Oct 18:10; Thu 10 Nov 20:40
-**Experimental Sound and Vision: Found Sounds, Lyrical Loops and Landscapes**
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
-Thu 27 Oct 18:15; Thu 17 Nov 18:15 (+ intro by author and musician David Toop)
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
-**Prospero’s Books**
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
 
-Tue 1 Nov 17:40; Sun 20 Nov 18:00
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 
-**Peter Greenaway: Pioneer of Cinema**
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-Sat 5 Nov 12:00-17:00
-
-**The Unreliable Narrator: Adventures in Storytelling, Documentary and Misinformation**
-Sun 6 Nov 12:40; Fri 25 Nov 21:00
-**A TV Dante: Cantos 1-8**
-Tue 15 Nov 18:20
-**The Baby of Mâcon**
-Wed 16 Nov 20:30; Fri 25 Nov 18:00; Mon 28 Nov 20:30
-**The Pillow Book**
-Fri 18 Nov 20:30; Thu 24 Nov 20:30; Tue 29 Nov 17:40
-**8½ Women**
-Sun 20 Nov 12:50; Wed 30 Nov 20:35
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzE1NzU5NzhdfQ==
--->
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
