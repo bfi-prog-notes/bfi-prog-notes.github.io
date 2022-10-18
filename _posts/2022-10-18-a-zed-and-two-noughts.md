@@ -1,20 +1,14 @@
 
-<![endif]-->
+Twin zoologists, grieving the death of their wives in a collision involving a car and a swan, gradually form a bond with the woman who was driving the vehicle that caused their spouses’ demise. The brothers become obsessed with death and decay in animals, creating time-lapse films to further their understanding. Rich in imagery, this visually stunning early feature by Greenaway remains one the filmmaker’s boldest challenges to conventional cinema.  
+**bfi.org.uk**  
 
-Twin zoologists, grieving the death of their wives in a collision involving a car and a swan, gradually form a bond with the woman who was driving the vehicle that caused their spouses’ demise. The brothers become obsessed with death and decay in animals, creating time-lapse films to further their understanding. Rich in imagery, this visually stunning early feature by Greenaway remains one the filmmaker’s boldest challenges to conventional cinema.
-
-**bfi.org.uk**
-
-**Peter Greenaway on ‘A Zed & Two Noughts’**
-
+**Peter Greenaway on ‘A Zed & Two Noughts’**  
 I thought of making a film about zoos many years ago. Obviously they’re microcosms, and I like playing with microcosms. I was particularly interested in doing something with the Muybridge catalogue of Animal Locomotion, but it never really took off. In the closing stages of _The Falls_, I used some zoo books: pictures of birds in apocryphal European zoos. There were two scripts between _The Draughtsman’s Contract_ and _A Zed & Two Noughts_: _Drowning by Numbers_ and _Johnson and Jones_. There was also the opera that I’m supposed to be doing with Michael Nyman, _The Death of Webern_. I think _Drowning by Numbers_ is basically a very optimistic script, despite its tragic subject matter, and when I failed to get it off the ground, some of my pessimism probably began to seep back. That perhaps accounts for the background to _A Zed & Two Noughts_, and some of the negative feelings in the film.
 
-_A Zed & Two Noughts_ has innumerable undercurrents, but I hope it can be appreciated on the entertainment level as being about a couple of guys who are severely depressed – not to say unutterably bereaved – by the death of their wives. They happen to be natural historians, and it’s through their knowledge, their work, that they come to terms with their particular predicament.
+_A Zed & Two Noughts_ has innumerable undercurrents, but I hope it can be appreciated on the entertainment level as being about a couple of guys who are severely depressed – not to say unutterably bereaved – by the death of their wives. They happen to be natural historians, and it’s through their knowledge, their work, that they come to terms with their particular predicament.  
+**Peter Greenaway interviewed by Tony Rayns in _Monthly Film Bulletin_, December 1985**  
 
-**Peter Greenaway interviewed by Tony Rayns in _Monthly Film Bulletin_, December 1985**
-
-**A contemporary review**
-
+**A contemporary review**  
 Peter Greenaway is a character who should have been invented by Conan Doyle as one of his Masters of Disguise. From _A Walk through H_ (which first brought him to substantial critical attention at the 1979 London Film Festival) to his extraordinary expositions of avant-garde music/performance in _Four American Composers_ (made for Channel 4 in 1983), Greenaway has worked in several related disguises: taxonomist; mad librarian; statistician; structural filmmaker; natural historian; architectural historian; historian of ideas. Now, with _A Zed & Two Noughts_, he emerges as the Eadweard Muybridge of narrative cinema – instead of horses galloping endlessly (motionlessly) across paper, we are presented with a thousand fragments of storytelling, all running in some complex mesh of coincidence and repetition whose _raison d’etre_ is hidden elsewhere. A subtle and ghostly machine; which is why a catalogue of allusions, themes and styles from _A Zed & Two Noughts_ only gives us a sense of tonal choice, rather than the usual converging graph of influences and inspirations which define a filmmaker.
 
 But first it must be said (straight) that _A Zed & Two Noughts_ is funny and sexy and stylish to a degree which the current English cinema doesn’t really deserve. Made for less than a million pounds (and lit by master cinematographer Sacha Vierny), the strictly technical quality of the film bears perfect comparison with Kubrick or Fellini when they have been let loose with unlimited crew and shooting time at Elstree or Cinecittà. Lavishly inspired by Vermeer within the frame, this is, however, a cinema of a thousand cuts – each shot rigorously composed and edited as tightly as possible, as though in the same semi-desperate haste as Michael Nyman’s music.
@@ -23,16 +17,12 @@ But in narrative terms, Greenaway is a man with a head full of shaggy-dog storie
 
 David Attenborough, wild-life hero to millions of household viewers, supplies the voice-over which accompanies a lengthy digest of evolutionary history. (And evolution itself soon gets short shrift, as ‘a dreary fiction’). The whimsy that threatened to become parochial in earlier Greenaway films has gone multicultural here: Alba Bewick (read: Buick) is driving a Ford Galaxy along Swan’s Way when the fatal accident occurs in the opening frames of the film. The mythology of twinning and kinship (and duplicity) swings effortlessly from the Christian world of Noah’s Ark or the Garden of Eden to the classical world inhabited by Venus De Milo (another amputee!), to the cinematic japes of Greenaway’s own mythology (with Van Hoyten, the longstanding Moriarty in Greenaway’s fiction, trying to eliminate black-and-white culture in the zoo).
 
-Taken as an artistic statement, _A Zed & Two Noughts_ is more yielding than the equally arch _Draughtsman’s Contract_, and unsurprisingly humanist (except to those who have taken Greenaway to be a structuralist in the past). Its world view encompasses a fundamental faith in nature (but a terrible distrust of post-Darwinian science), and a tolerance of perversity (two legs may be usual, but one leg may be exciting and no legs may be bliss). Above all, it puts human ambition and perceptions in a mocking frame: as the Deuce twins lie dead in a hopeless attempt to ‘scientise’ their own grief, dawn comes up, the power breaks down, and we realise that we are witnessing the scene from a snail’s-eye point of view. There are moments when Greenaway’s film may seem to lack warmth. But at a time when the cinema is often either grossly sentimental or inhumanly mechanised, _A Zed & Two Noughts_ works (probably despite itself) as a plea for sense. The swift cutting, barbed dialogue and perfectly stylised performances may seem to be reducing the dramatic temperature, but they are in fact dragging our attention back to the real dramas of philosophy, rhetoric and the cinema today.
+Taken as an artistic statement, _A Zed & Two Noughts_ is more yielding than the equally arch _Draughtsman’s Contract_, and unsurprisingly humanist (except to those who have taken Greenaway to be a structuralist in the past). Its world view encompasses a fundamental faith in nature (but a terrible distrust of post-Darwinian science), and a tolerance of perversity (two legs may be usual, but one leg may be exciting and no legs may be bliss). Above all, it puts human ambition and perceptions in a mocking frame: as the Deuce twins lie dead in a hopeless attempt to ‘scientise’ their own grief, dawn comes up, the power breaks down, and we realise that we are witnessing the scene from a snail’s-eye point of view. There are moments when Greenaway’s film may seem to lack warmth. But at a time when the cinema is often either grossly sentimental or inhumanly mechanised, _A Zed & Two Noughts_ works (probably despite itself) as a plea for sense. The swift cutting, barbed dialogue and perfectly stylised performances may seem to be reducing the dramatic temperature, but they are in fact dragging our attention back to the real dramas of philosophy, rhetoric and the cinema today.  
+**Chris Auty, _Monthly Film Bulletin_, December 1985**  
 
-**Chris Auty, _Monthly Film Bulletin_, December 1985**
-
-**A ZED & TWO NOUGHTS**
-
+**A ZED & TWO NOUGHTS**  
 _Director:_ Peter Greenaway  
-_Production Companies:_ British Film Institute Production Board,
-
-Artificial Eye Productions, Film Four International, Allarts Enterprises  
+_Production Companies:_ British Film Institute Production Board, Artificial Eye Productions, Film Four International, Allarts Enterprises  
 _Producers:_ Peter Sainsbury, Kees Kasander  
 _Production Co-ordinator:_ Karin Spiegel  
 _Production Manager:_ Denis Wigman  
@@ -53,13 +43,7 @@ _Wardrobe:_ Dien van Straalen
 _Make-up:_ Sara Meerman, Nicole Mora  
 _Titles:_ Frameline  
 _Opticals:_ General Screen Enterprises  
-_Music Performance:_ Sarah Leonard, Michael Nyman,
-
-Elisabeth Perry, Alexander Balanescu, Gerard Bouwhuis,
-
-Arno Bons, John Helstone, Gerrit Oloeman, Sofia Kiss,
-
-Beverly Lund, Jorn Schroeder, Rob Hageman, Marien van Staalen,Lene te Voortwis, Pieter Gouderjaan, Jan Jansen, Bas Dekker, Wim Steinmann, Jelle Schouten, Henk Leether, Leo van Oostrom, Peter Stan, Adrian van Velsen, Frans Vreugdenhil, Peter Veenhuizen, Gerbrand Westveen  
+_Music Performance:_ Sarah Leonard, Michael Nyman, Elisabeth Perry, Alexander Balanescu, Gerard Bouwhuis, Arno Bons, John Helstone, Gerrit Oloeman, Sofia Kiss, Beverly Lund, Jorn Schroeder, Rob Hageman, Marien van Staalen, Lene te Voortwis, Pieter Gouderjaan, Jan Jansen, Bas Dekker, Wim Steinmann, Jelle Schouten, Henk Leether, Leo van Oostrom, Peter Stan, Adrian van Velsen, Frans Vreugdenhil, Peter Veenhuizen, Gerbrand Westveen  
 _Music Performer on Soundtrack:_ Michael Nyman  
 _Sound Recording:_ Garth Marshall  
 _Sound Re-recording:_ Tony Anscombe  
@@ -80,10 +64,10 @@ Gerard Thoolen _(Van Meegeren)_
 Ken Campbell _(Stephen Pipe)_  
 Wolf Kahler _(Felipe Arc-en-Ciel)_  
 Geoffrey Palmer _(Fallast)_  
-David Attenborough _(narrator of wild-life footage)_
+David Attenborough _(narrator of wild-life footage)_  
 
-UK/Netherlands 1985
-117 mins
+UK/Netherlands 1985  
+117 mins  
 
 **FRAMES OF MIND: THE FILMS OF PETER GREENAWAY**
 **A Zed & Two Noughts**
@@ -123,5 +107,5 @@ Fri 18 Nov 20:30; Thu 24 Nov 20:30; Tue 29 Nov 17:40
 **8½ Women**
 Sun 20 Nov 12:50; Wed 30 Nov 20:35
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1Mjg5NzVdfQ==
+eyJoaXN0b3J5IjpbLTE0MzE1NzU5NzhdfQ==
 -->
