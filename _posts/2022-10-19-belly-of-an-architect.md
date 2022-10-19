@@ -100,20 +100,15 @@ Marino Masè _(Trettorio)_
 Marne Maitland _(Battistino)_  
 Claudio Spadaro _(Mori)_  
 Rate Furlan _(violinist)_  
-Julian Jenkins _(old doctor)_ 
-Enrica Maria Scrivano _(mother)_
+Julian Jenkins _(old doctor)_  
+Enrica Maria Scrivano _(mother)_  
+Riccardo Ussani _(little boy)_  
+Stefano Gragnani _(the nose man)_  
+Andrea Prodan _(young doctor)_  
+Fabio Sartor _(policeman)_  
 
-Riccardo Ussani _(little boy)_
-
-Stefano Gragnani _(the nose man)_
-
-Andrea Prodan _(young doctor)_
-
-Fabio Sartor _(policeman)_
-
-UK/Italy 1987
-
-118 mins
+UK/Italy 1987  
+118 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQ1ODU1ODNdfQ==
+eyJoaXN0b3J5IjpbLTE5OTA0MjAzNV19
 -->
