@@ -91,21 +91,21 @@ _Stunt Co-ordinator:_ Billy Burton
 _Filmed at:_ Sony Pictures Studios, Universal Studios Hollywood  
 
 **Cast**  
-Gary Oldman _(Count Dracula)_
-Winona Ryder _(Elisabeta/Mina Murray)_
-Anthony Hopkins _(Cesare/Professor Abraham Van Helsing/voice of captain of the Demeter)_
-Keanu Reeves _(Jonathan Harker)_
-Richard E. Grant _(Doctor Jack Seward)_
-Cary Elwes _(Lord Arthur Holmwood)_
-Bill Campbell _(Quincey P. Morris)_
-Sadie Frost _(Lucy Westenra)_
-Tom Waits _(R.M. Renfield)_
-Monica Bellucci, Mihaela Bercu, Florina Kendrick _(brides of Dracula)_
-Jay Robinson _(Mr Hawkins)_
-I.M. Hobson _(Hobbs)_
-Laurie Franks _(Lucy’s maid)_
-Maud Winchester _(downstairs maid)_
-Octavian Cadia _(deacon)_
+Gary Oldman _(Count Dracula)_  
+Winona Ryder _(Elisabeta/Mina Murray)_  
+Anthony Hopkins _(Cesare/Professor Abraham Van Helsing/voice of captain of the Demeter)_  
+Keanu Reeves _(Jonathan Harker)_  
+Richard E. Grant _(Doctor Jack Seward)_  
+Cary Elwes _(Lord Arthur Holmwood)_  
+Bill Campbell _(Quincey P. Morris)_  
+Sadie Frost _(Lucy Westenra)_  
+Tom Waits _(R.M. Renfield)_  
+Monica Bellucci, Mihaela Bercu, Florina Kendrick _(brides of Dracula)_  
+Jay Robinson _(Mr Hawkins)_  
+I.M. Hobson _(Hobbs)_  
+Laurie Franks _(Lucy’s maid)_  
+Maud Winchester _(downstairs maid)_  
+Octavian Cadia _(deacon)_ 
 Robert Getz _(priest)_
 Dagmar Stanec _(Sister Agatha)_
 Eniko Oss _(Sister Sylva)_
@@ -120,5 +120,5 @@ Cully Fredricksen _(Van Helsing’s assistant)_
 USA 1992©
 127 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODIyNjU5NiwtMTQyMjExODIxMl19
+eyJoaXN0b3J5IjpbNTI5OTEyODc2LC0xNDIyMTE4MjEyXX0=
 -->
