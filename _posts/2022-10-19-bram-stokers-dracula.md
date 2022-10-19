@@ -17,100 +17,53 @@ The possibilities are endless, and Coppola and Hart know a good few of them. You
 
 **Richard Dyer, _Sight and Sound_, January 1993**
 
-**BRAM STOKER’S DRACULA**
-
-_Directed by:_ Francis Ford Coppola
-
-_©:_ Columbia Pictures Industries, Inc.
-
-_Production Companies:_ American Zoetrope, Osiris Films
-
-_Presented by:_ Columbia Pictures
-
-_Executive Producers:_ Michael Apted, Robert O’Connor
-
-_Produced by:_ Francis Ford Coppola, Fred Fuchs, Charles Mulvehill
-
-_Co-producers:_ James V. Hart, John Veitch
-
-_Associate Producer:_ Susie Landau
-
-_Production Accountants:_ Kenneth J. Ryan, James Turner, Mike Revell
-
-_Production Co-ordinator:_ Pat Chapman
-
+**BRAM STOKER’S DRACULA**  
+_Directed by:_ Francis Ford Coppola  
+_©:_ Columbia Pictures Industries, Inc.  
+_Production Companies:_ American Zoetrope, Osiris Films  
+_Presented by:_ Columbia Pictures  
+_Executive Producers:_ Michael Apted, Robert O’Connor  
+_Produced by:_ Francis Ford Coppola, Fred Fuchs, Charles Mulvehill  
+_Co-producers:_ James V. Hart, John Veitch  
+_Associate Producer:_ Susie Landau  
+_Production Accountants:_ Kenneth J. Ryan, James Turner, Mike Revell  
+_Production Co-ordinator:_ Pat Chapman  
 _Unit Production Manager:_ Patricia Churchill
-
 _American Zoetrope Technical Supervisor:_ Kim Aubry
-
 _Research:_ Anahid Nazarian
-
 _2nd Unit Director:_ Roman Coppola
-
 _1st Assistant Director:_ Peter Giuliano
-
 _2nd Assistant Director:_ Kate Davey
-
 _Miniature Unit Assistant Director:_ Dan Coffie
-
 _Script Supervisor:_ Wilma Garscadden-Gahret
-
 _2nd Unit Script Supervisor:_ Mary M. Patton
-
 _Casting:_ Victoria Thomas
-
 _Additional Casting:_ Rick Montgomery, Dan Parada, Dixie Webster
-
 _Screenplay by:_ James V. Hart
-
 _Based on the novel by:_ Bram Stoker
-
 _Director of Photography:_ Michael Ballhaus
-
 _2nd Unit Director of Photography:_ Steve Yaconelli
-
 _Miniature Unit Director of Photography:_ Bill Neil
-
 _Camera Operator:_ David M. Dunlap
-
 _1st Assistant Camera:_ Florian Ballhaus
-
 _2nd Assistant Camera:_ Jeffrey Thorin
-
 _Key Grip:_ J. Patrick Daily
-
 _Still Photographer:_ Ralph Nelson
-
 _Visual Effects:_ Roman Coppola
-
 _Visual Effects Supervisor:_ Alison Savitch
-
 _Special Visual Effects by:_ Fantasy II Film Effects, Matte World Digital, Colossal Pictures
-
 _Additional Visual Effects by:_ 4-Ward Productions, VCE Inc
-
 _Edited by:_ Nicholas C. Smith, Glen Scantlebury, Anne Goursaud
-
 _American Zoetrope Associated Editor Montage:_ Gus Carpenter
-
 _1st Assistant Film Editor:_ John Spence
-
 _Production Designer:_ Thomas Sanders
-
 _Design Collaboration:_ Eiko Ishioka
-
 _Art Director:_ Andrew Precht
-
 _Senior Set Designer:_ Joseph Hodges
-
 _Set Decorator:_ Garrett Lewis
-
 _Project Conceptualist:_ Jim Steranko
-
 _Illustrators:_ Peter A. Ramsey, Mentor Huebner, Mike Mignola
-
 _Property Masters:_ Ray Mercer, Trisha B. Gallaher
-
 _Costumes Designed by:_ Eiko Ishioka
 _Dracula’s Armour Manifactured by:_ Global Effects
 _Make-up/Hair Designed by:_ Michèle Burke
@@ -167,5 +120,5 @@ Cully Fredricksen _(Van Helsing’s assistant)_
 USA 1992©
 127 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTI2Njc3OCwtMTQyMjExODIxMl19
+eyJoaXN0b3J5IjpbLTczMzI2MTczMiwtMTQyMjExODIxMl19
 -->
