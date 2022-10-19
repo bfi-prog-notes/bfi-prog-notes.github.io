@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bram Stoler's Dracula
+title: Bram Stoker's Dracula
 published: true
 date: 2022-10-19
 readtime: true
