@@ -47,112 +47,60 @@ _Chief Grip:_ Alberta Moneta
 _Grips:_ Phil Jones, Terry Chapman  
 _Chief Electrician:_ Italo Di Stefano  
 _Flavia’s Photographs:_ Steve Pyke  
-_Stills Photography:_ Sergio Strizzi, Ermanno Serto
+_Stills Photography:_ Sergio Strizzi, Ermanno Serto  
+_Editor:_ John Wilson  
+_1st Assistant Editor:_ Milfid Ellis  
+_2nd Assistant Editor:_ Alberto Mancini  
+_Assistant Designers:_ Alessandro Busiri Vici, Eduardo Di Irorio  
+_Art Director:_ Luciana Vedovelli  
+_Set Dresser:_ Giorgio Desideri  
+_Properties:_ Eddie McMahon, Mauro Vitturini  
+_Assistant Props:_ Roberto Giacomelli  
+_Costume Designer:_ Maurizio Millenotti  
+_Wardrobe Mistress:_ Anne Brault  
+_Seamstress:_ Clara Fratarcangeli  
+_Chief Make-up:_ Franco Corridoni  
+_Assistant Make-Up:_ Luigi Rocchetti  
+_Hair:_ Alberta Guiliani  
+_Music:_ Wim Mertens  
+_Additional Music:_ Glenn Branca  
+_Music Performed:_ London Sinfonietta  
+_The London Sinfonietta Leader:_ Joan Atherton  
+_The London Sinfonietta Conductor:_ Paul Daniel  
+_Fiddle Player:_ Peter Cooper  
+_Music Administration:_ Duet Music Consultants Ltd  
+_Sound Recording:_ Peter Glossop  
+_Boom Operator:_ Gerry Bates  
+_Assistant Boom:_ Stefano Rossi  
+_Dubbing Mixer:_ Peter Maxwell  
+_Assistant Dubbing Mixer:_ Michael Boggis  
+_Sound Editor:_ Matthew Whiteman  
+_Assistant Sound Editor:_ Chris Wyatt  
+_Dialogue Editor:_ Sarah Vickers  
+_Assistant Dialogue Editor:_ Heather Holden  
+_ADR:_ Ladbroke Films  
+_Footsteps Artists:_ Beryl Mortimer, Ted Swanscott  
+_Architecture Consultant:_ Costantino Dardi  
+_Translator:_ Flandina Rigamonti  
+_Publicity Consultant:_ Zakiya & Associates  
+_Unit Publicity:_ Jennifer Cullen-Smith  
+_[Music] Recorded at:_ Olympic Studios, Hot Food Studios  
 
-_Editor:_ John Wilson
-
-_1st Assistant Editor:_ Milfid Ellis
-
-_2nd Assistant Editor:_ Alberto Mancini
-
-_Assistant Designers:_ Alessandro Busiri Vici, Eduardo Di Irorio
-
-_Art Director:_ Luciana Vedovelli
-
-_Set Dresser:_ Giorgio Desideri
-
-_Properties:_ Eddie McMahon, Mauro Vitturini
-
-_Assistant Props:_ Roberto Giacomelli
-
-_Costume Designer:_ Maurizio Millenotti
-
-_Wardrobe Mistress:_ Anne Brault
-
-_Seamstress:_ Clara Fratarcangeli
-
-_Chief Make-up:_ Franco Corridoni
-
-_Assistant Make-Up:_ Luigi Rocchetti
-
-_Hair:_ Alberta Guiliani
-
-_Music:_ Wim Mertens
-
-_Additional Music:_ Glenn Branca
-
-_Music Performed:_ London Sinfonietta
-
-_The London Sinfonietta Leader:_ Joan Atherton
-
-_The London Sinfonietta Conductor:_ Paul Daniel
-
-_Fiddle Player:_ Peter Cooper
-
-_Music Administration:_ Duet Music Consultants Ltd
-
-_Sound Recording:_ Peter Glossop
-
-_Boom Operator:_ Gerry Bates
-
-_Assistant Boom:_ Stefano Rossi
-
-_Dubbing Mixer:_ Peter Maxwell
-
-_Assistant Dubbing Mixer:_ Michael Boggis
-
-_Sound Editor:_ Matthew Whiteman
-
-_Assistant Sound Editor:_ Chris Wyatt
-
-_Dialogue Editor:_ Sarah Vickers
-
-_Assistant Dialogue Editor:_ Heather Holden
-
-_ADR:_ Ladbroke Films
-
-_Footsteps Artists:_ Beryl Mortimer, Ted Swanscott
-
-_Architecture Consultant:_ Costantino Dardi
-
-_Translator:_ Flandina Rigamonti
-
-_Publicity Consultant:_ Zakiya & Associates
-
-_Unit Publicity:_ Jennifer Cullen-Smith
-
-_[Music] Recorded at:_ Olympic Studios, Hot Food Studios
-
-**Cast**
-
-Brian Dennehy _(Stourley Kracklite)_
-
-Chloe Webb _(Louisa Kracklite)_
-
-Lambert Wilson _(Caspasian Speckler)_
-
-Sergio Fantoni _(Io Speckler)_
-
-Stefania Casini _(Flavia Speckler)_
-
-Vanni Corbellini _(Frederico)_
-
-Alfredo Varelli _(Julio)_
-
-Geoffrey Copleston _(Caspetti)_
-
-Francesco Carnelutti _(Pastarri)_
-
-Marino Masè _(Trettorio)_
-
-Marne Maitland _(Battistino)_
-
-Claudio Spadaro _(Mori)_
-
-Rate Furlan _(violinist)_
-
-Julian Jenkins _(old doctor)_
-
+**Cast**  
+Brian Dennehy _(Stourley Kracklite)_  
+Chloe Webb _(Louisa Kracklite)_  
+Lambert Wilson _(Caspasian Speckler)_  
+Sergio Fantoni _(Io Speckler)_  
+Stefania Casini _(Flavia Speckler)_  
+Vanni Corbellini _(Frederico)_  
+Alfredo Varelli _(Julio)_  
+Geoffrey Copleston _(Caspetti)_  
+Francesco Carnelutti _(Pastarri)_  
+Marino Masè _(Trettorio)_  
+Marne Maitland _(Battistino)_  
+Claudio Spadaro _(Mori)_  
+Rate Furlan _(violinist)_  
+Julian Jenkins _(old doctor)_ 
 Enrica Maria Scrivano _(mother)_
 
 Riccardo Ussani _(little boy)_
@@ -167,5 +115,5 @@ UK/Italy 1987
 
 118 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTAxMDc1N119
+eyJoaXN0b3J5IjpbLTEwMjQ1ODU1ODNdfQ==
 -->
