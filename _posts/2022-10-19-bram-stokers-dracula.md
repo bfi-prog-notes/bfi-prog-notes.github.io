@@ -105,20 +105,20 @@ Jay Robinson _(Mr Hawkins)_
 I.M. Hobson _(Hobbs)_  
 Laurie Franks _(Lucy’s maid)_  
 Maud Winchester _(downstairs maid)_  
-Octavian Cadia _(deacon)_ 
-Robert Getz _(priest)_
-Dagmar Stanec _(Sister Agatha)_
-Eniko Oss _(Sister Sylva)_
-Nancy Linehan Charles _(older woman)_
-Tatiana von Furstenberg _(younger woman)_
-Jules Sylvester, Hubert Wells _(zoo keepers)_
-Daniel Newman _(news hawker)_
-Honey Lauren, Judi Diamond _(peep show girls)_
-Robert Buckingham _(husband)_
-Cully Fredricksen _(Van Helsing’s assistant)_
+Octavian Cadia _(deacon)_  
+Robert Getz _(priest)_  
+Dagmar Stanec _(Sister Agatha)_  
+Eniko Oss _(Sister Sylva)_  
+Nancy Linehan Charles _(older woman)_  
+Tatiana von Furstenberg _(younger woman)_  
+Jules Sylvester, Hubert Wells _(zoo keepers)_  
+Daniel Newman _(news hawker)_  
+Honey Lauren, Judi Diamond _(peep show girls)_  
+Robert Buckingham _(husband)_  
+Cully Fredricksen _(Van Helsing’s assistant)_  
 
-USA 1992©
-127 mins
+USA 1992©  
+127 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5OTEyODc2LC0xNDIyMTE4MjEyXX0=
+eyJoaXN0b3J5IjpbLTQ0NDQ3NzkyNCwtMTQyMjExODIxMl19
 -->
