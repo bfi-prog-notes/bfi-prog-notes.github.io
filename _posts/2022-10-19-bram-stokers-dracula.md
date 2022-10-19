@@ -212,11 +212,10 @@ Daniel Newman _(news hawker)_
 Honey Lauren, Judi Diamond _(peep show girls)_
 
 Robert Buckingham _(husband)_
-
 Cully Fredricksen _(Van Helsing’s assistant)_
 
 USA 1992©
 127 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjIxMTgyMTJdfQ==
+eyJoaXN0b3J5IjpbNDQ0ODU5NDcwLC0xNDIyMTE4MjEyXX0=
 -->
