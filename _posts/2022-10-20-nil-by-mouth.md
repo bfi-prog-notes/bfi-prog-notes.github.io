@@ -78,23 +78,15 @@ Leah Fitzgerald _(Michelle)_<br>
 Gerry Bromfield _(drug dealer)_<br>
 Neil Maskell _(Schmuddle)_<br>
 Syd Golder _(old guy in window)_<br>
-
 John Blundell _(man with knife)_<br>
-
 Kenan Hudaverdi _(laundrette owner)_<br>
-
 Everton Nelson _(street violinist)_<br>
-
 Ronny Fox _(Peter/pool player)_<br>
-
 Frances Ashman _(club singer)_<br>
-
 Dan Carey, Martin Watson, Giseppe Acunzo, Matthew Scott, Edmund Scott _(band musicians)_<br>
-
 Moya Brady _(wife)_ *<br>
 
 UK 1997<br>
-
 128 mins
 
 *Uncredited
@@ -106,5 +98,5 @@ _Nil by Mouth_ was remastered with the generous support of Simon and Harley Hess
 The remastered _Nil by Mouth_ will be available to buy on a limited edition 25th Anniversary 2-disc  BFI Blu-ray from Monday 5 December.<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDY4NTMzNF19
+eyJoaXN0b3J5IjpbMTQ0NjA4NzgwNl19
 -->
