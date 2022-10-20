@@ -31,112 +31,112 @@ Selected filmography
 **2021**  
 **Hitman’s Wife’s Bodyguard** (d. Patrick Hughes) as Vladislav Dukhovic<br>
 **The Woman in the Window** (d. Joe Wright) as Alistair Russell<br>
-**Crisis** (d. Nicholas Jarecki)  as Dr Tyrone Brower (+ exec producer)
+**Crisis** (d. Nicholas Jarecki)  as Dr Tyrone Brower (+ exec producer)<br>
 
 **2020**  
-**Mank** (d. David Fincher)  as Herman Mankiewicz
-**A Place Among the Dead** (d. Juliet Landau) as GO
+**Mank** (d. David Fincher)  as Herman Mankiewicz<br>
+**A Place Among the Dead** (d. Juliet Landau) as GO<br>
 
 **2019**  
-**The Courier** (d. Zackary Adler)  as Ezekiel Mannings
-**The Laundromat** (d. Steven Soderbergh)  as Jürgen Mossack
-**Mary** (d. Michael Goi) as David
-**Killers Anonymous** (d. Martin Owen)  as The Man
+**The Courier** (d. Zackary Adler)  as Ezekiel Mannings<br>
+**The Laundromat** (d. Steven Soderbergh)  as Jürgen Mossack<br>
+**Mary** (d. Michael Goi) as David<br>
+**Killers Anonymous** (d. Martin Owen)  as The Man<br>
 
 **2018**  
-**Tau** (d. Federico D'Alessandro)  as voice of Tau
-**Hunter Killer** (d. Donovan Marsh)  as CJCS Charles Donnegan
+**Tau** (d. Federico D'Alessandro)  as voice of Tau<br>
+**Hunter Killer** (d. Donovan Marsh)  as CJCS Charles Donnegan<br>
 
-**2017**
-**Darkest Hour** (d. Joe Wright)  as Winston Churchill
-**The Hitman’s Bodyguard** (d. Patrick Hughes) as Vladislav Dukhovic
-**The Space Between Us** (d. Peter Chelsom) as Nathaniel Shepherd
+**2017**<br>
+**Darkest Hour** (d. Joe Wright)  as Winston Churchill<br>
+**The Hitman’s Bodyguard** (d. Patrick Hughes) as Vladislav Dukhovic<br>
+**The Space Between Us** (d. Peter Chelsom) as Nathaniel Shepherd<br>
 
-**2016**
-**Criminal** (d. Ariel Vromen) as Quaker Wells
+**2016**<br>
+**Criminal** (d. Ariel Vromen) as Quaker Wells<br>
 
-**2015**
-**Man Down** (d. Dito Montiel)  as Counselor Peyton
-**Child 44** (d. Daniel Espinosa)  as General Mikhail Nesterov
+**2015**<br>
+**Man Down** (d. Dito Montiel)  as Counselor Peyton<br>
+**Child 44** (d. Daniel Espinosa)  as General Mikhail Nesterov<br>
 
-**2014**
-**Dawn of the Planet of the Apes** (d. Matt Reeves) as Dreyfus
-**RoboCop** (d. José Padilha)  as Dr Dennett Norton
+**2014**<br>
+**Dawn of the Planet of the Apes** (d. Matt Reeves) as Dreyfus<br>
+**RoboCop** (d. José Padilha)  as Dr Dennett Norton<br>
 
-**2013**
-**Paranoia** (d. Robert Luketic)  as Nicolas Wyatt
+**2013**<br>
+**Paranoia** (d. Robert Luketic)  as Nicolas Wyatt<br>
 
-**2012**
-**Guns, Girls and Gambling** (d. Michael Winnick) as Elvis
-**The Dark Knight Rises** (d. Christopher Nolan) as Commissioner Gordon
-**Lawless** (d. John Hillcoat) as Floyd Banner
+**2012**<br>
+**Guns, Girls and Gambling** (d. Michael Winnick) as Elvis<br>
+**The Dark Knight Rises** (d. Christopher Nolan) as Commissioner Gordon<br>
+**Lawless** (d. John Hillcoat) as Floyd Banner<br>
 
-**2011**
-**Tinker Tailor Soldier Spy** (d. Tomas Alfredson) as George Smiley
-**Harry Potter and the Deathly Hallows:  Part 2** (d. David Yates) as Sirius Black
-**Kung Fu Panda 2** (d. Jennifer Yuh Nelson) as voice of Shen
-**Red Riding Hood** (d. Catherine Hardwicke) as Solomon
+**2011**<br>
+**Tinker Tailor Soldier Spy** (d. Tomas Alfredson) as George Smiley<br>
+**Harry Potter and the Deathly Hallows:  Part 2** (d. David Yates) as Sirius Black<br>
+**Kung Fu Panda 2** (d. Jennifer Yuh Nelson) as voice of Shen<br>
+**Red Riding Hood** (d. Catherine Hardwicke) as Solomon<br>
 
-**2010**
-**The Book of Eli** (d. Albert & Allen Hughes)  as Carnegie
+**2010**<br>
+**The Book of Eli** (d. Albert & Allen Hughes)  as Carnegie<br>
 
-**2009**
-**Planet 51** (d. Jorge Blanco, Javier Abad)  as voice of General Grawl
-**A Christmas Carol** (d. Robert Zemeckis)  as Bob Cratchit/Marley/Tiny Tim
-**Rain Fall** (d. Max Mannix) as William Holtzer
-**The Unborn** (d. David S. Goyer)  as Rabbi Sendak
+**2009**<br>
+**Planet 51** (d. Jorge Blanco, Javier Abad)  as voice of General Grawl<br>
+**A Christmas Carol** (d. Robert Zemeckis)  as Bob Cratchit/Marley/Tiny Tim<br>
+**Rain Fall** (d. Max Mannix) as William Holtzer<br>
+**The Unborn** (d. David S. Goyer)  as Rabbi Sendak<br>
 
-**2008**
-**The Dark Knight** (d. Christopher Nolan)  as Gordon
+**2008**<br>
+**The Dark Knight** (d. Christopher Nolan)  as Gordon<br>
 
-**2007**
-**Harry Potter and the Order of the Phoenix** (d. David Yates) as Sirius Black
+**2007**<br>
+**Harry Potter and the Order of the Phoenix** (d. David Yates) as Sirius Black<br>
 
-**2006**
- **The Backwoods** (d. Koldo Serra) as Paul
+**2006**<br>
+ **The Backwoods** (d. Koldo Serra) as Paul<br>
 
-**2005**
-**Harry Potter and the Goblet of Fire** (d. Mike Newell) as Sirius Black
-**Dead Fish** (d. Charley Stadler) as Lynch
-**Batman Begins** (d. Christopher Nolan)  as Jim Gordon
+**2005**<br>
+**Harry Potter and the Goblet of Fire** (d. Mike Newell) as Sirius Black<br>
+**Dead Fish** (d. Charley Stadler) as Lynch<br>
+**Batman Begins** (d. Christopher Nolan)  as Jim Gordon<br>
 
-**2004**
-**Harry Potter and the Prisoner of Azkaban** (d. Alfonso Cuarón) as Sirius Black
+**2004**<br>
+**Harry Potter and the Prisoner of Azkaban** (d. Alfonso Cuarón) as Sirius Black<br>
 
-**2003**
-**Sin** (d. Michael Stevens) as Charlie Strom
+**2003**<br>
+**Sin** (d. Michael Stevens) as Charlie Strom<br>
 
-**2002**
-**Tiptoes** (d. Matthew Bright) as Rolfe
-**Interstate 60: Episodes of the Road** (d. Bob Gale) as O.W. Grant
+**2002**<br>
+**Tiptoes** (d. Matthew Bright) as Rolfe<br>
+**Interstate 60: Episodes of the Road** (d. Bob Gale) as O.W. Grant<br>
 
-**2001**
-**Hannibal** (d. Ridley Scott) as Mason Verger
-**Nobody’s Baby** (d. David Seltzer)  as Buford Dill (+ producer)
+**2001**<br>
+**Hannibal** (d. Ridley Scott) as Mason Verger<br>
+**Nobody’s Baby** (d. David Seltzer)  as Buford Dill (+ producer)<br>
 
-**2000**
-**The Contender** (d. Rod Lurie)  as Shelly Runyon (+ exec producer)
+**2000**<br>
+**The Contender** (d. Rod Lurie)  as Shelly Runyon (+ exec producer)<br>
 
-**1998**
-**Lost in Space** (d. Stephen Hopkins)  as Dr Smith
+**1998**<br>
+**Lost in Space** (d. Stephen Hopkins)  as Dr Smith<br>
 
-**1997**
-**Air Force One** (d. Wolfgang Petersen)  as Ivan Korshunov
-**The Fifth Element** (d. Luc Besson) as Zorg
+**1997**<br>
+**Air Force One** (d. Wolfgang Petersen)  as Ivan Korshunov<br>
+**The Fifth Element** (d. Luc Besson) as Zorg<br>
 
-**1996**
-**Basquiat** (d. Julian Schnabel) as Albert Milo
+**1996**<br>
+**Basquiat** (d. Julian Schnabel) as Albert Milo<br>
 
-**1995**
-**The Scarlet Letter** (d. Roland Joffé)  as Rev. Arthur Dimmesdale
-**Murder in the First** (d. Marc Rocco)  as Associate Milton Glenn
+**1995**<br>
+**The Scarlet Letter** (d. Roland Joffé)  as Rev. Arthur Dimmesdale<br>
+**Murder in the First** (d. Marc Rocco)  as Associate Milton Glenn<br>
 
-**1994**
-**Immortal Beloved** (d. Bernard Rose)  as Ludwig van Beethoven
-**Léon** (d. Luc Besson) as Stansfield
+**1994**<br>
+**Immortal Beloved** (d. Bernard Rose)  as Ludwig van Beethoven<br>
+**Léon** (d. Luc Besson) as Stansfield<br>
 
-**1993**
-**Romeo Is Bleeding** (d. Peter Medak)  as Jack Grimaldi
+**1993**<br>
+**Romeo Is Bleeding** (d. Peter Medak)  as Jack Grimaldi<br>
 **True Romance** (d. Tony Scott)  as Drexl Spivey
 
 **1992**
@@ -207,5 +207,5 @@ Selected filmography
 **1997**
 **Nil by Mouth** (+ producer, writer)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQxOTgwOTVdfQ==
+eyJoaXN0b3J5IjpbMTQ4MzkzNjU0MV19
 -->
