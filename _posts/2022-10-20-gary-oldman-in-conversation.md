@@ -28,10 +28,9 @@ Moving to America, he worked with Oliver Stone on _JFK_ and Francis Ford Coppola
 Selected filmography
 
 **Film**<br>
-
 **2021**  
 **Hitman’s Wife’s Bodyguard** (d. Patrick Hughes) as Vladislav Dukhovic<br>
-**The Woman in the Window** (d. Joe Wright) as Alistair Russell
+**The Woman in the Window** (d. Joe Wright) as Alistair Russell<br>
 **Crisis** (d. Nicholas Jarecki)  as Dr Tyrone Brower (+ exec producer)
 
 **2020**  
@@ -184,27 +183,29 @@ Selected filmography
 **1991**
 **Screen Two: Heading Home** (d. David Hare) as Ian Tyson
 
-**1989  Screen Two: The Firm** (d. Alan Clarke)  
-as Bex
-
+**1989**
+**Screen Two: The Firm** (d. Alan Clarke)  as Bex
 **Knots Landing** (TV series; as Don Ross)
 
-**1987  Rat in the Skull** (TV film, d. Glyn Edwards, Max Stafford-Clark) as Eric Naylor
+**1987**
+**Rat in the Skull** (TV film, d. Glyn Edwards, Max Stafford-Clark) as Eric Naylor
 
-**1986  Screen Two: Honest, Decent and True  
-**(d. Les Blair) as Derek Bates
+**1986**
+**Screen Two: Honest, Decent and True**(d. Les Blair) as Derek Bates
 
-**1985  Summer Season** (TV series; as Gary)
+**1985**
+**Summer Season** (TV series; as Gary)
 
-**1984  Morgan’s Boy** (TV series; as Colin)
-
+**1984**
+**Morgan’s Boy** (TV series; as Colin)
 **Dramarama** (TV series; as Ben)
 
-**1983  Meantime** (TV film, d. Mike Leigh) as Coxy
+**1983**
+**Meantime** (TV film, d. Mike Leigh) as Coxy
 
 **As director**
-
-**1997  Nil by Mouth** (+ producer, writer)
+**1997**
+**Nil by Mouth** (+ producer, writer)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDI1Njg0OV19
+eyJoaXN0b3J5IjpbLTE4MTQxOTgwOTVdfQ==
 -->
