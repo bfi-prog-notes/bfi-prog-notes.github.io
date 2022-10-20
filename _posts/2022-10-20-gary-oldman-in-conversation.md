@@ -111,47 +111,42 @@ Selected filmography
 **Tiptoes** (d. Matthew Bright) as Rolfe
 **Interstate 60: Episodes of the Road** (d. Bob Gale) as O.W. Grant
 
-**2001**Hannibal** (d. Ridley Scott) as Mason Verger
+**2001**
+**Hannibal** (d. Ridley Scott) as Mason Verger
+**Nobody’s Baby** (d. David Seltzer)  as Buford Dill (+ producer)
 
-**Nobody’s Baby** (d. David Seltzer)  
-as Buford Dill (+ producer)
+**2000**
+**The Contender** (d. Rod Lurie)  as Shelly Runyon (+ exec producer)
 
-**2000  The Contender** (d. Rod Lurie)  
-as Shelly Runyon (+ exec producer)
+**1998**
+**Lost in Space** (d. Stephen Hopkins)  as Dr Smith
 
-**1998  Lost in Space** (d. Stephen Hopkins)  
-as Dr Smith
-
-**1997  Air Force One** (d. Wolfgang Petersen)  
-as Ivan Korshunov
-
+**1997**
+**Air Force One** (d. Wolfgang Petersen)  as Ivan Korshunov
 **The Fifth Element** (d. Luc Besson) as Zorg
 
-**1996  Basquiat** (d. Julian Schnabel) as Albert Milo
+**1996**
+**Basquiat** (d. Julian Schnabel) as Albert Milo
 
-**1995  The Scarlet Letter** (d. Roland Joffé)  
-as Rev. Arthur Dimmesdale
+**1995**
+**The Scarlet Letter** (d. Roland Joffé)  as Rev. Arthur Dimmesdale
+**Murder in the First** (d. Marc Rocco)  as Associate Milton Glenn
 
-**Murder in the First** (d. Marc Rocco)  
-as Associate Milton Glenn
-
-**1994  Immortal Beloved** (d. Bernard Rose)  
-as Ludwig van Beethoven
-
+**1994**
+**Immortal Beloved** (d. Bernard Rose)  as Ludwig van Beethoven
 **Léon** (d. Luc Besson) as Stansfield
 
-**1993  Romeo Is Bleeding** (d. Peter Medak)  
-as Jack Grimaldi
+**1993**
+**Romeo Is Bleeding** (d. Peter Medak)  as Jack Grimaldi
+**True Romance** (d. Tony Scott)  as Drexl Spivey
 
-**True Romance** (d. Tony Scott)  
-as Drexl Spivey
+**1992**
+**Bram Stoker’s Dracula** (d. Francis Ford Coppola) as Dracula
 
-**1992  Bram Stoker’s Dracula  
-**(d. Francis Ford Coppola) as Dracula
+**1991**
+**JFK** (d. Oliver Stone) as Lee Harvey Oswald
 
-**1991  JFK** (d. Oliver Stone) as Lee Harvey Oswald
-
-**1990  Henry & June** (d. Philip Kaufman)  
+**1990Henry & June** (d. Philip Kaufman)  
 as Pop (credited as Maurice Escargot)
 
 **Rosencrantz & Guildenstern Are Dead  
@@ -210,5 +205,5 @@ as Bex
 
 **1997  Nil by Mouth** (+ producer, writer)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTcxNzE2OV19
+eyJoaXN0b3J5IjpbLTE5NzAyMTM5NjFdfQ==
 -->
