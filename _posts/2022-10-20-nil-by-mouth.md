@@ -14,160 +14,158 @@ In several ways _Nil by Mouth_ seems to me significantly different from what we�
 
 But the more significant change is in _Nil by Mouth_’s attitude to the people it depicts, the sense that Oldman’s is a personal cinema drawn from his own experience as a youth in Deptford – a film that in the romantic sense he simply had to make. Whatever the considerable virtues of Ken Loach’s _Raining Stones,_ say, or Mike Leigh’s _Naked,_ they often maintain, in their desire to show social structures at work, a political distance from their characters. Oldman’s film moves in so close that the viewer feels absolutely confined with the hellish family depicted.
 
-I’m not suggesting that the mediation is somehow invisible, only that Brechtian distanciation is here supplanted by an intimate relationship to the film subject, one born from psychotherapeutic models. As explained by production designer Hugo Luczyc-Wyhowski, _Nil by Mouth_ follows a show-and-tell approach from the work of Cassavetes and from such television cop shows as _Homicide:_ _Life on the Street,_ but this is fused with the British realist tradition, particularly as exemplified in the work of Alan Clarke (_Made in Britain, The Firm_). It’s a brand of realism that in a way acknowledges that British audiences are now more ‘in touch with their emotions’. If Oldman’s were the only film around by a British director to be so concerned with physical and emotional intimacy, it would pass as an anomaly, but there are others that are equally direct, such as Mike Figgis’ _One Night Stand_ and Carine Adler’s _Under the Skin_ [to which I must own a connection: I live with the producer], a study of grieving young women on a sexual binge. Of course there are many other kinds of British film being made at the moment, but _Nil by Mouth_ supplies a fresh antidote to the current Hollywood output of event movies, without setting itself in opposition to all American cinema.
+I’m not suggesting that the mediation is somehow invisible, only that Brechtian distanciation is here supplanted by an intimate relationship to the film subject, one born from psychotherapeutic models. As explained by production designer Hugo Luczyc-Wyhowski, _Nil by Mouth_ follows a show-and-tell approach from the work of Cassavetes and from such television cop shows as _Homicide:_ _Life on the Street,_ but this is fused with the British realist tradition, particularly as exemplified in the work of Alan Clarke (_Made in Britain, The Firm_). It’s a brand of realism that in a way acknowledges that British audiences are now more ‘in touch with their emotions’. If Oldman’s were the only film around by a British director to be so concerned with physical and emotional intimacy, it would pass as an anomaly, but there are others that are equally direct, such as Mike Figgis’ _One Night Stand_ and Carine Adler’s _Under the Skin_ [to which I must own a connection: I live with the producer], a study of grieving young women on a sexual binge. Of course there are many other kinds of British film being made at the moment, but _Nil by Mouth_ supplies a fresh antidote to the current Hollywood output of event movies, without setting itself in opposition to all American cinema.  
+**Nick James, _Sight & Sound,_ October 1997**
+<br><br>
 
-Nick James, _Sight & Sound,_ October 1997
+**NIL BY MOUTH**<br>
 
-<![endif]-->
+_Director:_ Gary Oldman<br>
 
-**NIL BY MOUTH**
+_Production Company:_ SE8 Group<br>
 
-_Director:_ Gary Oldman
-
-_Production Company:_ SE8 Group
-
-_Production Company:_ Smoking Room *
+_Production Company:_ Smoking Room *<br>
 
 _Producers:_ Luc Besson, Douglas Urbanski,
 
-Gary Oldman
+Gary Oldman<br>
 
-_Co-producer:_ Hilary Heath
+_Co-producer:_ Hilary Heath<br>
 
-_Associate Producer:_ Marc Frydman
+_Associate Producer:_ Marc Frydman<br>
 
-_Production Co-ordinator:_ Emma Pike
+_Production Co-ordinator:_ Emma Pike<br>
 
-_Production Manager:_ Michael Dreyer
+_Production Manager:_ Michael Dreyer<br>
 
-_Unit Managers:_ Adam Bohling, Mitch Davies
+_Unit Managers:_ Adam Bohling, Mitch Davies<br>
 
-_Locations Managers:_ Jo Chate, Stan Fus
+_Locations Managers:_ Jo Chate, Stan Fus<br>
 
-_Supervisor Post-production:_ Charlie Vogel
+_Supervisor Post-production:_ Charlie Vogel<br>
 
-_Co-ordinator Post-production:_ Paul Leonardo Jr
+_Co-ordinator Post-production:_ Paul Leonardo Jr<br>
 
-_1st Assistant Directors:_ Ken Tuohy, Mary Soan
+_1st Assistant Directors:_ Ken Tuohy, Mary Soan<br>
 
-_2nd Assistant Directors:_ Finn McGrath, Neil Tuohy
+_2nd Assistant Directors:_ Finn McGrath, Neil Tuohy<br>
 
-_3rd Assistant Director:_ Kate Hazell
+_3rd Assistant Director:_ Kate Hazell<br>
 
 _Script Supervisors:_ Sam Donovan,  
-Cathy Doubleday
+Cathy Doubleday<br>
 
-_Casting:_ Sue Jones
+_Casting:_ Sue Jones<br>
 
-_Screenplay:_ Gary Oldman
+_Screenplay:_ Gary Oldman<br>
 
-_Director of Photography:_ Ron Fortunato
+_Director of Photography:_ Ron Fortunato<br>
 
-_Editor:_ Brad Fuller
+_Editor:_ Brad Fuller<br>
 
-_Production Designer:_ Hugo Luczyc-Wyhowski
+_Production Designer:_ Hugo Luczyc-Wyhowski<br>
 
-_Art Director:_ Luana Hanson
+_Art Director:_ Luana Hanson<br>
 
-_Costume Designer:_ Barbara Kidd
+_Costume Designer:_ Barbara Kidd<br>
 
-_Wardrobe Supervisor:_ Anthony Black
+_Wardrobe Supervisor:_ Anthony Black<br>
 
-_Make-up/Hairstylist:_ Fae Hammond
+_Make-up/Hairstylist:_ Fae Hammond<br>
 
-_Make-up Artist:_ Pebbles
+_Make-up Artist:_ Pebbles<br>
 
-_Tattoos:_ Tota
+_Tattoos:_ Tota<br>
 
-_Titles:_ DuArt Digital, Holly Kempner
+_Titles:_ DuArt Digital, Holly Kempner<br>
 
-_Music:_ Eric Clapton
+_Music:_ Eric Clapton<br>
 
-_Music Supervisor:_ Margot Core
+_Music Supervisor:_ Margot Core<br>
 
-_Music Editor:_ Richard Bernstein
+_Music Editor:_ Richard Bernstein<br>
 
-_Sound Recording:_ Jim Greenhorn
+_Sound Recording:_ Jim Greenhorn<br>
 
 _Re-recording Mixers:_ Matthew Iadarola,  
-Scott Ganary, Adam Sawelson
+Scott Ganary, Adam Sawelson<br>
 
-_Supervising Sound Editor:_ Eliza Paley
+_Supervising Sound Editor:_ Eliza Paley<br>
 
-_Sound Editors:_ Sylvia Menno, Branka Mrkic
+_Sound Editors:_ Sylvia Menno, Branka Mrkic<br>
 
-_Sound Effects Editor:_ Michael W. Mitchell
+_Sound Effects Editor:_ Michael W. Mitchell<br>
 
-_ADR Editors:_ Deborah Wallach, George Berndt
+_ADR Editors:_ Deborah Wallach, George Berndt<br>
 
-_Foley Artist:_ Brian Vancho
+_Foley Artist:_ Brian Vancho<br>
 
-_Foley Recordist:_ George Lara
+_Foley Recordist:_ George Lara<br>
 
-_Foley Editor:_ Bruce Kitzmeyer
+_Foley Editor:_ Bruce Kitzmeyer<br>
 
-_Technical Consultant:_ Gerry Bromfield
+_Technical Consultant:_ Gerry Bromfield<br>
 
-_Stunt Co-ordinator:_ Rod Woodruff
+_Stunt Co-ordinator:_ Rod Woodruff<br>
 
-_Cast:_
+_Cast:_<br>
 
-Ray Winstone _(Raymond)_
+Ray Winstone _(Raymond)_<br>
 
-Kathy Burke _(Valerie)_
+Kathy Burke _(Valerie)_<br>
 
-Charlie Creed-Miles _(Billy)_
+Charlie Creed-Miles _(Billy)_<br>
 
-Laila Morse _(Janet)_
+Laila Morse _(Janet)_<br>
 
-Edna Doré _(Kath)_
+Edna Doré _(Kath)_<br>
 
-Chrissie Cotterill _(Paula)_
+Chrissie Cotterill _(Paula)_<br>
 
-Jon Morrison _(Angus)_
+Jon Morrison _(Angus)_<br>
 
-Jamie Foreman _(Mark)_
+Jamie Foreman _(Mark)_<br>
 
-Steve Sweeney _(Danny)_
+Steve Sweeney _(Danny)_<br>
 
-Terry Rowley _(M.C. in club)_
+Terry Rowley _(M.C. in club)_<br>
 
-Sam Miller _(club comic)_
+Sam Miller _(club comic)_<br>
 
-Leah Fitzgerald _(Michelle)_
+Leah Fitzgerald _(Michelle)_<br>
 
-Gerry Bromfield _(drug dealer)_
+Gerry Bromfield _(drug dealer)_<br>
 
-Neil Maskell _(Schmuddle)_
+Neil Maskell _(Schmuddle)_<br>
 
-Syd Golder _(old guy in window)_
+Syd Golder _(old guy in window)_<br>
 
-John Blundell _(man with knife)_
+John Blundell _(man with knife)_<br>
 
-Kenan Hudaverdi _(laundrette owner)_
+Kenan Hudaverdi _(laundrette owner)_<br>
 
-Everton Nelson _(street violinist)_
+Everton Nelson _(street violinist)_<br>
 
-Ronny Fox _(Peter/pool player)_
+Ronny Fox _(Peter/pool player)_<br>
 
-Frances Ashman _(club singer)_
+Frances Ashman _(club singer)_<br>
 
-Dan Carey, Martin Watson, Giseppe Acunzo, Matthew Scott, Edmund Scott _(band musicians)_
+Dan Carey, Martin Watson, Giseppe Acunzo, Matthew Scott, Edmund Scott _(band musicians)_<br>
 
-Moya Brady _(wife)_ *
+Moya Brady _(wife)_ *<br>
 
-UK 1997
+UK 1997<br>
 
 128 mins
 
-* Uncredited
+*Uncredited
 
 A BFI release
 
 _Nil by Mouth_ was remastered with the generous support of Simon and Harley Hessel.
 
-The remastered _Nil by Mouth_ will be available to buy on a limited edition 25th Anniversary 2-disc  
-BFI Blu-ray from Monday 5 December.
+The remastered _Nil by Mouth_ will be available to buy on a limited edition 25th Anniversary 2-disc  BFI Blu-ray from Monday 5 December.<br>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU4OTE2NTNdfQ==
+eyJoaXN0b3J5IjpbMTAzMDQ1MDMyNF19
 -->
