@@ -82,42 +82,36 @@ Selected filmography
 **The Book of Eli** (d. Albert & Allen Hughes)  as Carnegie
 
 **2009**
-Planet 51** (d. Jorge Blanco, Javier Abad)  
-as voice of General Grawl
-
-**A Christmas Carol** (d. Robert Zemeckis)  
-as Bob Cratchit/Marley/Tiny Tim
-
+**Planet 51** (d. Jorge Blanco, Javier Abad)  as voice of General Grawl
+**A Christmas Carol** (d. Robert Zemeckis)  as Bob Cratchit/Marley/Tiny Tim
 **Rain Fall** (d. Max Mannix) as William Holtzer
+**The Unborn** (d. David S. Goyer)  as Rabbi Sendak
 
-**The Unborn** (d. David S. Goyer)  
-as Rabbi Sendak
+**2008**
+**The Dark Knight** (d. Christopher Nolan)  as Gordon
 
-**2008  The Dark Knight** (d. Christopher Nolan)  
-as Gordon
+**2007**
+**Harry Potter and the Order of the Phoenix** (d. David Yates) as Sirius Black
 
-**2007  Harry Potter and the Order of the Phoenix** (d. David Yates) as Sirius Black
+**2006**
+ **The Backwoods** (d. Koldo Serra) as Paul
 
-**2006  The Backwoods** (d. Koldo Serra) as Paul
+**2005**
+**Harry Potter and the Goblet of Fire** (d. Mike Newell) as Sirius Black
+**Dead Fish** (d. Charley Stadler) as Lynch
+**Batman Begins** (d. Christopher Nolan)  as Jim Gordon
 
-**2005  Harry Potter and the Goblet of Fire  
-**(d. Mike Newell) as Sirius Black
+**2004**
+**Harry Potter and the Prisoner of Azkaban** (d. Alfonso Cuarón) as Sirius Black
 
-**2005  Dead Fish** (d. Charley Stadler) as Lynch
+**2003**
+**Sin** (d. Michael Stevens) as Charlie Strom
 
-**Batman Begins** (d. Christopher Nolan)  
-as Jim Gordon
+**2002**
+**Tiptoes** (d. Matthew Bright) as Rolfe
+**Interstate 60: Episodes of the Road** (d. Bob Gale) as O.W. Grant
 
-**2004  Harry Potter and the Prisoner of Azkaban** (d. Alfonso Cuarón) as Sirius Black
-
-**2003  Sin** (d. Michael Stevens) as Charlie Strom
-
-**2002  Tiptoes** (d. Matthew Bright) as Rolfe
-
-**Interstate 60: Episodes of the Road  
-**(d. Bob Gale) as O.W. Grant
-
-**2001  Hannibal** (d. Ridley Scott) as Mason Verger
+**2001**Hannibal** (d. Ridley Scott) as Mason Verger
 
 **Nobody’s Baby** (d. David Seltzer)  
 as Buford Dill (+ producer)
@@ -216,5 +210,5 @@ as Bex
 
 **1997  Nil by Mouth** (+ producer, writer)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Njk1NjQxNl19
+eyJoaXN0b3J5IjpbLTcxNTcxNzE2OV19
 -->
