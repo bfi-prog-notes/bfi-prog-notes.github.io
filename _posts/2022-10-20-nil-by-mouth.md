@@ -19,125 +19,64 @@ I’m not suggesting that the mediation is somehow invisible, only that Brechtia
 <br><br>
 
 **NIL BY MOUTH**<br>
-
 _Director:_ Gary Oldman<br>
-
 _Production Company:_ SE8 Group<br>
-
 _Production Company:_ Smoking Room *<br>
-
-_Producers:_ Luc Besson, Douglas Urbanski,
-
-Gary Oldman<br>
-
+_Producers:_ Luc Besson, Douglas Urbanski, Gary Oldman<br>
 _Co-producer:_ Hilary Heath<br>
-
 _Associate Producer:_ Marc Frydman<br>
-
 _Production Co-ordinator:_ Emma Pike<br>
-
 _Production Manager:_ Michael Dreyer<br>
-
 _Unit Managers:_ Adam Bohling, Mitch Davies<br>
-
 _Locations Managers:_ Jo Chate, Stan Fus<br>
-
 _Supervisor Post-production:_ Charlie Vogel<br>
-
 _Co-ordinator Post-production:_ Paul Leonardo Jr<br>
-
 _1st Assistant Directors:_ Ken Tuohy, Mary Soan<br>
-
 _2nd Assistant Directors:_ Finn McGrath, Neil Tuohy<br>
-
 _3rd Assistant Director:_ Kate Hazell<br>
-
-_Script Supervisors:_ Sam Donovan,  
-Cathy Doubleday<br>
-
+_Script Supervisors:_ Sam Donovan,  Cathy Doubleday<br>
 _Casting:_ Sue Jones<br>
-
 _Screenplay:_ Gary Oldman<br>
-
 _Director of Photography:_ Ron Fortunato<br>
-
 _Editor:_ Brad Fuller<br>
-
 _Production Designer:_ Hugo Luczyc-Wyhowski<br>
-
 _Art Director:_ Luana Hanson<br>
-
 _Costume Designer:_ Barbara Kidd<br>
-
 _Wardrobe Supervisor:_ Anthony Black<br>
-
 _Make-up/Hairstylist:_ Fae Hammond<br>
-
 _Make-up Artist:_ Pebbles<br>
-
 _Tattoos:_ Tota<br>
-
 _Titles:_ DuArt Digital, Holly Kempner<br>
-
 _Music:_ Eric Clapton<br>
-
 _Music Supervisor:_ Margot Core<br>
-
 _Music Editor:_ Richard Bernstein<br>
-
 _Sound Recording:_ Jim Greenhorn<br>
-
-_Re-recording Mixers:_ Matthew Iadarola,  
-Scott Ganary, Adam Sawelson<br>
-
+_Re-recording Mixers:_ Matthew Iadarola,  Scott Ganary, Adam Sawelson<br>
 _Supervising Sound Editor:_ Eliza Paley<br>
-
 _Sound Editors:_ Sylvia Menno, Branka Mrkic<br>
-
 _Sound Effects Editor:_ Michael W. Mitchell<br>
-
 _ADR Editors:_ Deborah Wallach, George Berndt<br>
-
 _Foley Artist:_ Brian Vancho<br>
-
 _Foley Recordist:_ George Lara<br>
-
 _Foley Editor:_ Bruce Kitzmeyer<br>
-
 _Technical Consultant:_ Gerry Bromfield<br>
-
 _Stunt Co-ordinator:_ Rod Woodruff<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Ray Winstone _(Raymond)_<br>
-
 Kathy Burke _(Valerie)_<br>
-
 Charlie Creed-Miles _(Billy)_<br>
-
 Laila Morse _(Janet)_<br>
-
 Edna Doré _(Kath)_<br>
-
 Chrissie Cotterill _(Paula)_<br>
-
 Jon Morrison _(Angus)_<br>
-
 Jamie Foreman _(Mark)_<br>
-
 Steve Sweeney _(Danny)_<br>
-
 Terry Rowley _(M.C. in club)_<br>
-
 Sam Miller _(club comic)_<br>
-
 Leah Fitzgerald _(Michelle)_<br>
-
 Gerry Bromfield _(drug dealer)_<br>
-
 Neil Maskell _(Schmuddle)_<br>
-
 Syd Golder _(old guy in window)_<br>
 
 John Blundell _(man with knife)_<br>
@@ -165,7 +104,7 @@ A BFI release
 _Nil by Mouth_ was remastered with the generous support of Simon and Harley Hessel.
 
 The remastered _Nil by Mouth_ will be available to buy on a limited edition 25th Anniversary 2-disc  BFI Blu-ray from Monday 5 December.<br>
-
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDQ1MDMyNF19
+eyJoaXN0b3J5IjpbLTExNDY4NTMzNF19
 -->
