@@ -34,37 +34,27 @@ Selected filmography
 **The Woman in the Window** (d. Joe Wright) as Alistair Russell
 **Crisis** (d. Nicholas Jarecki)  as Dr Tyrone Brower (+ exec producer)
 
-**2020  Mank** (d. David Fincher)  
-as Herman Mankiewicz
-
+**2020**  
+**Mank** (d. David Fincher)  as Herman Mankiewicz
 **A Place Among the Dead** (d. Juliet Landau) as GO
 
-**2019  The Courier** (d. Zackary Adler)  
-as Ezekiel Mannings
-
-**The Laundromat** (d. Steven Soderbergh)  
-as Jürgen Mossack
-
+**2019**  
+**The Courier** (d. Zackary Adler)  as Ezekiel Mannings
+**The Laundromat** (d. Steven Soderbergh)  as Jürgen Mossack
 **Mary** (d. Michael Goi) as David
+**Killers Anonymous** (d. Martin Owen)  as The Man
 
-**Killers Anonymous** (d. Martin Owen)  
-as The Man
+**2018**  
+**Tau** (d. Federico D'Alessandro)  as voice of Tau
+**Hunter Killer** (d. Donovan Marsh)  as CJCS Charles Donnegan
 
-**2018  Tau** (d. Federico D'Alessandro)  
-as voice of Tau
-
-**Hunter Killer** (d. Donovan Marsh)  
-as CJCS Charles Donnegan
-
-**2017  Darkest Hour** (d. Joe Wright)  
-as Winston Churchill
-
-**The Hitman’s Bodyguard  
-**(d. Patrick Hughes) as Vladislav Dukhovic
-
+**2017**
+**Darkest Hour** (d. Joe Wright)  as Winston Churchill
+**The Hitman’s Bodyguard** (d. Patrick Hughes) as Vladislav Dukhovic
 **The Space Between Us** (d. Peter Chelsom) as Nathaniel Shepherd
 
-**2016  Criminal** (d. Ariel Vromen) as Quaker Wells
+**2016**
+**Criminal** (d. Ariel Vromen) as Quaker Wells
 
 **2015  Man Down** (d. Dito Montiel)  
 as Counselor Peyton
@@ -235,5 +225,5 @@ as Bex
 
 **1997  Nil by Mouth** (+ producer, writer)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjk4Mzk3OF19
+eyJoaXN0b3J5IjpbMzkyMTI4NDk0XX0=
 -->
