@@ -56,42 +56,33 @@ Selected filmography
 **2016**
 **Criminal** (d. Ariel Vromen) as Quaker Wells
 
-**2015  Man Down** (d. Dito Montiel)  
-as Counselor Peyton
+**2015**
+**Man Down** (d. Dito Montiel)  as Counselor Peyton
+**Child 44** (d. Daniel Espinosa)  as General Mikhail Nesterov
 
-**Child 44** (d. Daniel Espinosa)  
-as General Mikhail Nesterov
+**2014**
+**Dawn of the Planet of the Apes** (d. Matt Reeves) as Dreyfus
+**RoboCop** (d. José Padilha)  as Dr Dennett Norton
 
-**2014  Dawn of the Planet of the Apes  
-**(d. Matt Reeves) as Dreyfus
+**2013**
+**Paranoia** (d. Robert Luketic)  as Nicolas Wyatt
 
-**RoboCop** (d. José Padilha)  
-as Dr Dennett Norton
-
-**2013  Paranoia** (d. Robert Luketic)  
-as Nicolas Wyatt
-
-**2012  Guns, Girls and Gambling  
-**(d. Michael Winnick) as Elvis
-
+**2012**
+**Guns, Girls and Gambling** (d. Michael Winnick) as Elvis
 **The Dark Knight Rises** (d. Christopher Nolan) as Commissioner Gordon
-
 **Lawless** (d. John Hillcoat) as Floyd Banner
 
-**2011  Tinker Tailor Soldier Spy  
-**(d. Tomas Alfredson) as George Smiley
-
-**Harry Potter and the Deathly Hallows:  
-Part 2** (d. David Yates) as Sirius Black
-
+**2011**
+**Tinker Tailor Soldier Spy** (d. Tomas Alfredson) as George Smiley
+**Harry Potter and the Deathly Hallows:  Part 2** (d. David Yates) as Sirius Black
 **Kung Fu Panda 2** (d. Jennifer Yuh Nelson) as voice of Shen
-
 **Red Riding Hood** (d. Catherine Hardwicke) as Solomon
 
-**2010  The Book of Eli** (d. Albert & Allen Hughes)  
-as Carnegie
+**2010**
+**The Book of Eli** (d. Albert & Allen Hughes)  as Carnegie
 
-**2009  Planet 51** (d. Jorge Blanco, Javier Abad)  
+**2009**
+Planet 51** (d. Jorge Blanco, Javier Abad)  
 as voice of General Grawl
 
 **A Christmas Carol** (d. Robert Zemeckis)  
@@ -225,5 +216,5 @@ as Bex
 
 **1997  Nil by Mouth** (+ producer, writer)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyMTI4NDk0XX0=
+eyJoaXN0b3J5IjpbMTU0Njk1NjQxNl19
 -->
