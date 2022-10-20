@@ -209,50 +209,29 @@ Selected filmography
 <br>
 
 **GARY OLDMAN**<br>
-
 **Meantime**<br>
-
 Mon 17 Oct 20:40; Fri 28 Oct 17:50<br>
-
-**Rosencrantz & Guildenstern Are Dead**
-
-Tue 18 Oct 18:05; Sun 6 Nov 18:20
-
-**Bram Stoker’s Dracula**
-
-Wed 19 Oct 20:25 (+ intro by Christopher Frayling); Sat 29 Oct 20:30; Wed 23 Nov 18:00
-
-**Prick Up Your Ears**
-
-Fri 21 Oct 20:30; Sun 13 Nov 18:20; Fri 25 Nov 20:40
-
-**JFK – Director’s Cut**
-
-Sun 23 Oct 16:00; Sat 19 Nov 16:30
-
-**True Romance**
-
-Mon 24 Oct 20:40; Tue 22 Nov 20:30; Tue 29 Nov 18:00
-
-**The Firm – Director’s Cut**
-
-Wed 2 Nov 21:00; Thu 10 Nov 18:15
-
-**The Contender**
-
-Fri 4 Nov 18:00; Mon 14 Nov 18:00
-
-**Tinker Tailor Soldier Spy**
-
-Sat 5 Nov 20:20; Thu 24 Nov 17:55
-
-**Mank**
-
-Tue 8 Nov 20:15; Sat 26 Nov 17:20; Tue 29 Nov 20:20
-
-**Darkest Hour**
-
-Sat 12 Nov 12:20; Sat 19 Nov 20:30; Mon 21 Nov 14:30
+**Rosencrantz & Guildenstern Are Dead**<br>
+Tue 18 Oct 18:05; Sun 6 Nov 18:20<br>
+**Bram Stoker’s Dracula**<br>
+Wed 19 Oct 20:25 (+ intro by Christopher Frayling); Sat 29 Oct 20:30; Wed 23 Nov 18:00<br>
+**Prick Up Your Ears**<br>
+Fri 21 Oct 20:30; Sun 13 Nov 18:20; Fri 25 Nov 20:40<br>
+**JFK – Director’s Cut**<br>
+Sun 23 Oct 16:00; Sat 19 Nov 16:30<br>
+**True Romance**<br>
+Mon 24 Oct 20:40; Tue 22 Nov 20:30; Tue 29 Nov 18:00<br>
+**The Firm – Director’s Cut**<br>
+Wed 2 Nov 21:00; Thu 10 Nov 18:15<br>
+**The Contender**<br>
+Fri 4 Nov 18:00; Mon 14 Nov 18:00<br>
+**Tinker Tailor Soldier Spy**<br>
+Sat 5 Nov 20:20; Thu 24 Nov 17:55<br>
+**Mank**<br>
+Tue 8 Nov 20:15; Sat 26 Nov 17:20; Tue 29 Nov 20:20<br>
+**Darkest Hour**<br>
+Sat 12 Nov 12:20; Sat 19 Nov 20:30; Mon 21 Nov 14:30<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2MDEyMTU5XX0=
+eyJoaXN0b3J5IjpbMTg2MjI5NTEzNV19
 -->
