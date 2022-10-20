@@ -19,24 +19,20 @@ Another comparison: whereas Day-Lewis clearly has no overwhelming desire to act,
 
 Moving to America, he worked with Oliver Stone on _JFK_ and Francis Ford Coppola on _Bram Stoker’s Dracula_, but could not expect to work with directors of that calibre throughout his Hollywood career. It says much for his reputation and peculiar genius, however, that he became a necessary staple in the Harry Potter and Batman films. Sometimes – as in _True Romance_ and _Lawless_ (2011), in which he was larger than life dispensing death as a version of the Prohibition-era gangster Pretty Boy Floyd – he has unbalanced entire films with his brilliance.  
 **Graham Fuller, _Sight & Sound_**
+<br><br>
 
-<![endif]-->
-
-**Gary Oldman**
+**GARY OLDMAN**
 
 **Born in New Cross, London**
 
 Selected filmography
 
-**Film**
+**Film**<br>
 
-**2021  Hitman’s Wife’s Bodyguard  
-**(d. Patrick Hughes) as Vladislav Dukhovic
-
+**2021**  
+**Hitman’s Wife’s Bodyguard** (d. Patrick Hughes) as Vladislav Dukhovic<br>
 **The Woman in the Window** (d. Joe Wright) as Alistair Russell
-
-**Crisis** (d. Nicholas Jarecki)  
-as Dr Tyrone Brower (+ exec producer)
+**Crisis** (d. Nicholas Jarecki)  as Dr Tyrone Brower (+ exec producer)
 
 **2020  Mank** (d. David Fincher)  
 as Herman Mankiewicz
@@ -239,5 +235,5 @@ as Bex
 
 **1997  Nil by Mouth** (+ producer, writer)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTU4MTM0OV19
+eyJoaXN0b3J5IjpbMTUyMjk4Mzk3OF19
 -->
