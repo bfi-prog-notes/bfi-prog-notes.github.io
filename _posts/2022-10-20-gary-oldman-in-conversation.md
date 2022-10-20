@@ -146,42 +146,43 @@ Selected filmography
 **1991**
 **JFK** (d. Oliver Stone) as Lee Harvey Oswald
 
-**1990Henry & June** (d. Philip Kaufman)  
-as Pop (credited as Maurice Escargot)
-
-**Rosencrantz & Guildenstern Are Dead  
-**(d. Tom Stoppard) as Rosencrantz
-
+**1990**
+**Henry & June** (d. Philip Kaufman)  as Pop (credited as Maurice Escargot)
+**Rosencrantz & Guildenstern Are Dead**(d. Tom Stoppard) as Rosencrantz
 **State of Grace** (d. Phil Joanou) as Jackie
 
-**1989  Chattahoochee** (d. Mick Jackson)  
-as Emmett Foley
+**1989**
+**Chattahoochee** (d. Mick Jackson)  as Emmett Foley
 
-**1988  We Think the World of You** (d. Colin Gregg) as Johnny
-
-**Criminal Law** (d. Martin Campbell)  
-as Ben Chase)
-
+**1988**
+**We Think the World of You** (d. Colin Gregg) as Johnny
+**Criminal Law** (d. Martin Campbell)  as Ben Chase)
 **Track 29** (d. Nicolas Roeg) as Martin
 
-**1987  Prick Up Your Ears** (d. Stephen Frears)  
-as Joe Orton
+**1987**
+**Prick Up Your Ears** (d. Stephen Frears)  as Joe Orton
 
-**1986  Sid and Nancy** (d. Alex Cox) as Sid Vicious
+**1986**
+**Sid and Nancy** (d. Alex Cox) as Sid Vicious
 
-**1982  Remembrance** (d. Colin Gregg) as Daniel
+**1982**
+**Remembrance** (d. Colin Gregg) as Daniel
 
 **TV**
+**2022**
+**Slow Horses** (TV series; as Jackson Lamb)
 
-**2022  Slow Horses** (TV series; as Jackson Lamb)
+**2001**
+**Friends** (TV series; as Richard Crosby)
 
-**2001  Friends** (TV series; as Richard Crosby)
+**1999**
+**Jesus** (miniseries; as Pontius Pilate)
 
-**1999  Jesus** (miniseries; as Pontius Pilate)
+**1993**
+**Fallen Angels** (TV series; as Pat Kelley)
 
-**1993  Fallen Angels** (TV series; as Pat Kelley)
-
-**1991  Screen Two: Heading Home** (d. David Hare) as Ian Tyson
+**1991**
+**Screen Two: Heading Home** (d. David Hare) as Ian Tyson
 
 **1989  Screen Two: The Firm** (d. Alan Clarke)  
 as Bex
@@ -205,5 +206,5 @@ as Bex
 
 **1997  Nil by Mouth** (+ producer, writer)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzAyMTM5NjFdfQ==
+eyJoaXN0b3J5IjpbMTYxMDI1Njg0OV19
 -->
