@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Nil by Mouth
+published: true
+date: 2022-10-20
+readtime: true
+categories: ['RE-RELEASES']
+tags: [Drama]
+metadata: 'UK 1997, 128 mins<br> Director: Gary Oldman'
+pdf: '2022-10-20-nil-by-mouth.pdf'
+---
 
 An uncompromisingly frank portrait of a particular sector of working-class family life in south-east London (where Gary Oldman grew up), _Nil by Mouth_ is a powerful, astute, authentically foul-mouthed account of unfettered machismo, booze and drugs, petty crime and domestic abuse. The performances are excellent throughout, especially those of Ray Winstone as the volatile but self-pitying Ray, Kathy Burke as his long-suffering wife Val and Charlie Creed-Miles as her junkie brother Billy. Shot and scripted in a deceptively casual realist style reminiscent of 70s Cassavetes, this profoundly personal and humane film eschews sensationalism and sentimentality to illuminate a vicious circle of abuse and criminality. A dark but dazzling masterwork.  
 **Geoff Andrew, Programmer-at-large**
@@ -9,8 +19,7 @@ The narrative of _Nil by Mouth_ is fairly erratic. It follows Ray and his family
 
 But for me, all the drugs, violence and criminality are as nothing compared with the moment when the family cataclysm has not come but seems inevitable. When I watched this autobiographically inspired film, I assumed that Oldman’s father must have been violent towards his spouse. When I later found out he was not, the personal chiming made more sense to me. My own father never struck out either, but I can vividly recall the expectation that he was about to.  I would not have pondered my own experience this way if _Nil by Mouth_ had not felt so compellingly authentic. I don’t mean authentic in the manner of precise period evocation, or even in the grimly determinate mode of British kitchen sink realism, but in the sense of it being an experience of believable life in the cinema. Because as much as _Nil by Mouth_ looks and sounds like South London, it also looks and sounds like a large-scale movie.
 
-‘Authentic’ and ‘believable’ are of course terms whose meaning has been shredded in the post-modern era. But what I’m suggesting here is that this film marks a change in the quality of British realist cinema, one which recognises an audience’s need for their experiences to find their equivalent on screen.  
-In several ways _Nil by Mouth_ seems to me significantly different from what we’ve come to expect from British realist cinema. Like many British movies financed by television over the last decade or so, Oldman’s film has a preponderance of close-ups of people in confined spaces, yet they are lit and lensed in such a way that it never feels less than a cinema experience. There’s a burnish and sweep to the image-making similar to what we’ve come to expect from such ex-pat directors in Hollywood as Tony and Ridley Scott and Adrian Lyne. They also like to get close with a telephoto lens, giving that paradoxical combination of intimacy and distance. As in the best films of his friend and executive producer Luc Besson, Oldman has borrowed the strongest aspects of American cinema for his own entirely different purposes. In a similar fashion, his script harnesses fruity anecdotes and the rhythms of London street talk in such a way that his dialogue rivals the best of American screenwriting in combining believability and pleasure.
+‘Authentic’ and ‘believable’ are of course terms whose meaning has been shredded in the post-modern era. But what I’m suggesting here is that this film marks a change in the quality of British realist cinema, one which recognises an audience’s need for their experiences to find their equivalent on screen.  In several ways _Nil by Mouth_ seems to me significantly different from what we’ve come to expect from British realist cinema. Like many British movies financed by television over the last decade or so, Oldman’s film has a preponderance of close-ups of people in confined spaces, yet they are lit and lensed in such a way that it never feels less than a cinema experience. There’s a burnish and sweep to the image-making similar to what we’ve come to expect from such ex-pat directors in Hollywood as Tony and Ridley Scott and Adrian Lyne. They also like to get close with a telephoto lens, giving that paradoxical combination of intimacy and distance. As in the best films of his friend and executive producer Luc Besson, Oldman has borrowed the strongest aspects of American cinema for his own entirely different purposes. In a similar fashion, his script harnesses fruity anecdotes and the rhythms of London street talk in such a way that his dialogue rivals the best of American screenwriting in combining believability and pleasure.
 
 But the more significant change is in _Nil by Mouth_’s attitude to the people it depicts, the sense that Oldman’s is a personal cinema drawn from his own experience as a youth in Deptford – a film that in the romantic sense he simply had to make. Whatever the considerable virtues of Ken Loach’s _Raining Stones,_ say, or Mike Leigh’s _Naked,_ they often maintain, in their desire to show social structures at work, a political distance from their characters. Oldman’s film moves in so close that the viewer feels absolutely confined with the hellish family depicted.
 
@@ -97,6 +106,35 @@ _Nil by Mouth_ was remastered with the generous support of Simon and Harley Hess
 
 The remastered _Nil by Mouth_ will be available to buy on a limited edition 25th Anniversary 2-disc  BFI Blu-ray from Monday 5 December.<br>
 <br>
+
+**RE-RELEASES**<br>
+**The Others**<br>
+From Mon 17 Oct<br>
+**Poltergeist**<br>
+From Fri 21 Oct<br>
+**Nil by Mouth**<br>
+From Fri 4 Nov (Preview on Thu 20 Oct 20:20; extended intro by Geoff Andrew, Programmer at Large on Fri 4 Nov 17:50; intro by Kieron Webb, Head of Conservation, BFI Archive on Mon 7 Nov 18:00)<br>
+**The Draughtsman’s Contract**<br>
+From Fri 11 Nov (+ intro by Kieron Webb, Head of Conservation, BFI National Archive on Fri 11 Nov 17:50)<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQ0NjA4NzgwNl19
 -->
