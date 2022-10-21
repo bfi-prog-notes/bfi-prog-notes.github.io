@@ -51,121 +51,64 @@ _Title Design:_ Julian Rothenstein
 _Music:_ Stanley Myers
 _Music Performed by:_ John Harle’s Berliner Band
 _Synthesizers:_ Hans Zimmer
-
 _Music Conductor/Orchestrations:_ John Harle
-
 _Music Recording:_ Chris Dibble
-
 _Sound Supervisor:_ Tony Jackson
-
 _Sound Recording:_ Peter Maxwell
-
 _Sound Editor:_ Brian Trenerry
-
 _Dialogue Editor:_ Katrina Sheldon
-
 _Unit Publicist:_ Zakiya Powell
 
 **Cast**
-
 Gary Oldman _(Joe Orton)_
-
 Alfred Molina _(Kenneth Halliwell)_
-
 Vanessa Redgrave _(Peggy Ramsay)_
-
 Wallace Shawn _(John Lahr)_
-
 Lindsay Duncan _(Anthea Lahr)_
-
 Julie Walters _(Elsie Orton)_
-
 James Grant _(William Orton)_
-
 Frances Barber _(Leonie Orton)_
-
 Janet Dale _(Mrs Sugden)_
-
 Dave Atkins _(Mr Sugden)_
-
 Margaret Tyzack _(Madame Lambert)_
-
 Eric Richard _(education officer)_
-
 William Job _(RADA chairman)_
-
 Rosalind Knight, Angus Mackay _(RADA judges)_
-
 Linda Spurrier _(RADA instructor)_
-
 Charlotte Wodehouse _(Janet)_
-
 Helena Michell, Sean Pertwee _(Orton’s friends)_
-
 Liam De Staic _(brickie)_
-
 Charles McKeown _(Mr Cunliffe)_
-
 Selina Cadell _(Miss Battersby)_
-
 Bert Parnaby _(magistrate)_
-
 Antony Carrick _(counsel)_
-
 Neil Dudgeon _(policeman)_
-
 Richard Wilson _(psychiatrist)_
-
 Christopher Guinee _(publisher)_
-
 Stevan Rimkus _(Kenneth)_
-
 Michael Mueller _(1st BBC actor)_
-
 Anthony Douse _(2nd BBC actor)_
-
 John Kane _(director)_
-
 Steven Mackintosh _(Simon Ward)_
-
 Garry Cooper _(1st actor, ‘Entertaining Mr Sloane’)_
-
 Roger Lloyd Pack _(2nd actor)_
-
 Joanne Connelly _(stage manager)_
-
 John Moffatt _(wigmaker)_
-
 Philippa Davies _(Peggy Ramsay’s secretary)_
-
 David Cardy _(Brian Epstein)_
-
 Julie Legrand _(gallery owner)_
-
 Noel Davis _(Philip)_
-
 Jane Blackburn _(1st woman in gallery)_
-
 Stella Richman _(2nd woman in gallery)_
-
 Neville Phillips _(man in gallery)_
-
 Jonathan Phillips _(youth outside lavatory)_
-
 Richard Ireson _(man outside lavatory)_
-
 Ahmed El Jheur _(1st Moroccan boy)_
-
 Moktar Dagmouni _(2nd Moroccan boy)_
-
 Sian Thomas _(Marilyn Orton)_
-
 Stephen Bill _(George Barnett)_
-
 Karl Johnson _(Douglas Orton)_
-
 David Bradley _(undertaker)_
-
 Simon Adams _(undertaker’s boy)_
 
 James Duggan _(labourer)_
@@ -185,5 +128,5 @@ UK 1987
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzk4MTI4Nyw5OTAzODExMTRdfQ==
+eyJoaXN0b3J5IjpbODA4OTE1ODM3LDk5MDM4MTExNF19
 -->
