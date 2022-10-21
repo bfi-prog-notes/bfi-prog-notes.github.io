@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Saddest Music in the World
+published: true
+date: 2022-10-21
+readtime: true
+categories: ['GUY MADDIN']
+tags: [Musical, Period, Experimental]
+metadata: 'Canada 2003, 100 mins<br> Director: Guy Maddin'
+pdf: '2022-10-21-saddest-music-in-the-world.pdf'
+---
 
 _The Saddest Music in the World_ is set in Winnipeg during the Great Depression of 1933. Chester Kent (Mark McKinney), a once successful Broadway impresario now on the skids, arrives back in his home town with his amnesiac girlfriend Narcissa (Maria de Medeiros) in tow, and plunges straight into a maelstrom of difficult family reunions and encounters with his now legless ex-lover Lady Port-Huntley (Isabella Rossellini) – a queenly beer magnate who’s running an international contest to find the ‘saddest music in the world’. Chester and his father were both implicated in the accident that led to Lady Port-Huntley’s double amputation (her legs have been replaced by glass ones filled with brew).
 
@@ -12,16 +22,13 @@ Appropriately, this multicultural medley sprang from Anglo-Japanese and Canadian
 
 Typically with Maddin, the formal approach evokes the period setting. Aesthetically, the film resembles an early talkie, its visual texture recalling a grainy, much-abused print. The film is mostly in black and white, with garish interludes mimicking early experimental colour processes. The sound pops and crackles, occasionally lapsing into disconcerting silence. While rejecting accusations that he’s a mere _pasticheur_, Maddin resurrects long-abandoned film forms, stirring into the mix with admirably straight-faced conviction German expressionist lighting, Soviet montage, ‘golden age’ Hollywood melodramatics and Busby Berkeley’s more fetishistic choreography.
 
-Although Maddin’s eccentric sensibility is much in evidence (who else would reinvent ‘Skip to My Lou’ as a funeral dirge?), _Saddest Music_ advances on _Tales from the Gimli Hospital_ (1988), _Archangel_ (1990), _Careful_ (1992) and the disappointing _Twilight of the Ice Nymphs_ (1997) for two main reasons. Not only does it tap into a genuinely melancholic seam beneath the surface eye-catching weirdness, it also aims a neatly satirical sideswipe at Canada’s  
-largest neighbour.
+Although Maddin’s eccentric sensibility is much in evidence (who else would reinvent ‘Skip to My Lou’ as a funeral dirge?), _Saddest Music_ advances on _Tales from the Gimli Hospital_ (1988), _Archangel_ (1990), _Careful_ (1992) and the disappointing _Twilight of the Ice Nymphs_ (1997) for two main reasons. Not only does it tap into a genuinely melancholic seam beneath the surface eye-catching weirdness, it also aims a neatly satirical sideswipe at Canada’s  largest neighbour.
 
-The various competing nations are convincingly heartrending, but all are systematically picked off by the US, represented by failed Broadway producer Chester Kent, a spats-sporting, slippery-haired sleazeball given a nuanced portrayal by Mark McKinney. Becoming a finalist not through sincerity but by bribing losing contestants to join his increasingly elaborate stage confections which transform real-life disasters into grotesquely upbeat song-and-dance numbers, Chester seeks to convey ‘sadness, but with sass and pizzazz’.  
-The climactic ‘Alaskan Kayak Tragedy of 1898’ routine comprehensively skewers any pretensions towards genuine sorrow as Lady Port-Huntley triumphantly reveals her beer-filled glass legs.
+The various competing nations are convincingly heartrending, but all are systematically picked off by the US, represented by failed Broadway producer Chester Kent, a spats-sporting, slippery-haired sleazeball given a nuanced portrayal by Mark McKinney. Becoming a finalist not through sincerity but by bribing losing contestants to join his increasingly elaborate stage confections which transform real-life disasters into grotesquely upbeat song-and-dance numbers, Chester seeks to convey ‘sadness, but with sass and pizzazz’.  The climactic ‘Alaskan Kayak Tragedy of 1898’ routine comprehensively skewers any pretensions towards genuine sorrow as Lady Port-Huntley triumphantly reveals her beer-filled glass legs.
 
 If Chester lacks a heart, brother Roderick has one too many: he carries his dead son’s organ in a jar filled with his own tears, and is hypersensitive to a point where physical contact and inappropriate sounds make him shriek in agony (shades of Glenn Gould?). His former wife Narcissa blocks these memories through psychosomatic amnesia and an imaginary talking tapeworm, each absolving her of personal responsibility. Meanwhile, his father Fyodor is haunted by his wife’s death, his Great War memories and his botched amputation attempt on Lady Port-Huntley, who also has ample cause for lamentation. They truly understand sadness, at a level Chester only appreciates when confronted by his own imminent demise.
 
-Original, often hilarious, _The Saddest Music in the World_ hails from a parallel universe whose technologically backward film culture is more than compensated by its sparkling creative vim. If there’s any justice, Isabella Rossellini’s involvement (in her most distinctive role since Blue Velvet’s  
-Dorothy Vallens) will make it Maddin’s most accessible film.  
+Original, often hilarious, _The Saddest Music in the World_ hails from a parallel universe whose technologically backward film culture is more than compensated by its sparkling creative vim. If there’s any justice, Isabella Rossellini’s involvement (in her most distinctive role since Blue Velvet’s  Dorothy Vallens) will make it Maddin’s most accessible film.  
 **Michael Brooke, _Sight & Sound_, May 2004**
 <br><br>
 
@@ -139,6 +146,24 @@ Daniel Hawkins _(amputee double)_
 Canada 2003©  
 100 mins<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE3MzI0Mjg4ODRdfQ==
 -->
