@@ -1,3 +1,14 @@
+---
+layout: post
+title: Prick Up Your Ears
+published: true
+date: 2022-10-21
+readtime: true
+categories: ['GARY OLDMAN']
+tags: [Drama, Biopic]
+metadata: 'UK 1987, 110 mins<br> Director: Stephen Frears'
+pdf: '2022-10-21-prick-up-your-ears.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -15,115 +26,155 @@ I had complicated feelings about Orton, liking him and disliking him at the same
 **Alan Bennett, _Monthly Film Bulletin_, May 1987**  
 
 **PRICK UP YOUR EARS**  
-_Director:_ Stephen Frears
-_Production Companies:_ Zenith Productions, Civilhand, British Screen, Channel Four
-_Producer:_ Andrew Brown
-_Production Accountant:_ Tony Miller
-_Production Co-ordinator:_ Lorraine Goodman
-_Production Manager:_ Ann Wingate
-_Location Manager:_ Rachel Neale
-_Producer’s Secretary:_ Debbie Harding
-_1st Assistant Director:_ Michael Zimbrich
-_2nd Assistant Director:_ Lee Cleary
-_3rd Assistant Director:_ Adam Walton
-_Morocco Assistant Director:_ Hatimi Ahmed
-_Script Supervisor:_ Penny Eyles
-_Casting:_ Debbie McWilliams
-_Screenplay:_ Alan Bennett
-_Based on the biography by:_ John Lahr
-_Director of Photography:_ Oliver Stapleton
-_Camera Operator:_ David Morgan
-_Gaffer:_ Malcolm Davies
-_Stills Photography:_ Sarah Quill
-_Matte/Optical Effects:_ Optical Film Effects
-_Editor:_ Mick Audsley
-_Production Designer:_ Hugo Luczyc-Wyhowski
-_Art Director:_ Phil Elton
-_Décor/Lettering Artist:_ Steve Hedinger
-_Collages:_ Bob Starrett
-_Scenic Artist:_ John Kirby Spotswood
-_Property Master:_ Ray Perry
-_Construction Manager:_ Ray Barrett
-_Costume Designer:_ Bob Ringwood
-_Wardrobe Supervisor:_ Patrick Wheatley
-_Make-up Supervisor:_ Elaine Carew
-_Title Design:_ Julian Rothenstein
-_Music:_ Stanley Myers
-_Music Performed by:_ John Harle’s Berliner Band
-_Synthesizers:_ Hans Zimmer
-_Music Conductor/Orchestrations:_ John Harle
-_Music Recording:_ Chris Dibble
-_Sound Supervisor:_ Tony Jackson
-_Sound Recording:_ Peter Maxwell
-_Sound Editor:_ Brian Trenerry
-_Dialogue Editor:_ Katrina Sheldon
-_Unit Publicist:_ Zakiya Powell
+_Director:_ Stephen Frears  
+_Production Companies:_ Zenith Productions, Civilhand, British Screen, Channel Four  
+_Producer:_ Andrew Brown  
+_Production Accountant:_ Tony Miller  
+_Production Co-ordinator:_ Lorraine Goodman  
+_Production Manager:_ Ann Wingate  
+_Location Manager:_ Rachel Neale  
+_Producer’s Secretary:_ Debbie Harding  
+_1st Assistant Director:_ Michael Zimbrich  
+_2nd Assistant Director:_ Lee Cleary  
+_3rd Assistant Director:_ Adam Walton  
+_Morocco Assistant Director:_ Hatimi Ahmed  
+_Script Supervisor:_ Penny Eyles  
+_Casting:_ Debbie McWilliams  
+_Screenplay:_ Alan Bennett  
+_Based on the biography by:_ John Lahr  
+_Director of Photography:_ Oliver Stapleton  
+_Camera Operator:_ David Morgan  
+_Gaffer:_ Malcolm Davies  
+_Stills Photography:_ Sarah Quill  
+_Matte/Optical Effects:_ Optical Film Effects  
+_Editor:_ Mick Audsley  
+_Production Designer:_ Hugo Luczyc-Wyhowski  
+_Art Director:_ Phil Elton  
+_Décor/Lettering Artist:_ Steve Hedinger  
+_Collages:_ Bob Starrett  
+_Scenic Artist:_ John Kirby Spotswood  
+_Property Master:_ Ray Perry  
+_Construction Manager:_ Ray Barrett  
+_Costume Designer:_ Bob Ringwood  
+_Wardrobe Supervisor:_ Patrick Wheatley  
+_Make-up Supervisor:_ Elaine Carew  
+_Title Design:_ Julian Rothenstein  
+_Music:_ Stanley Myers  
+_Music Performed by:_ John Harle’s Berliner Band  
+_Synthesizers:_ Hans Zimmer  
+_Music Conductor/Orchestrations:_ John Harle  
+_Music Recording:_ Chris Dibble  
+_Sound Supervisor:_ Tony Jackson  
+_Sound Recording:_ Peter Maxwell  
+_Sound Editor:_ Brian Trenerry  
+_Dialogue Editor:_ Katrina Sheldon  
+_Unit Publicist:_ Zakiya Powell  
 
-**Cast**
-Gary Oldman _(Joe Orton)_
-Alfred Molina _(Kenneth Halliwell)_
-Vanessa Redgrave _(Peggy Ramsay)_
-Wallace Shawn _(John Lahr)_
-Lindsay Duncan _(Anthea Lahr)_
-Julie Walters _(Elsie Orton)_
-James Grant _(William Orton)_
-Frances Barber _(Leonie Orton)_
-Janet Dale _(Mrs Sugden)_
-Dave Atkins _(Mr Sugden)_
-Margaret Tyzack _(Madame Lambert)_
-Eric Richard _(education officer)_
-William Job _(RADA chairman)_
-Rosalind Knight, Angus Mackay _(RADA judges)_
-Linda Spurrier _(RADA instructor)_
-Charlotte Wodehouse _(Janet)_
-Helena Michell, Sean Pertwee _(Orton’s friends)_
-Liam De Staic _(brickie)_
-Charles McKeown _(Mr Cunliffe)_
-Selina Cadell _(Miss Battersby)_
-Bert Parnaby _(magistrate)_
-Antony Carrick _(counsel)_
-Neil Dudgeon _(policeman)_
-Richard Wilson _(psychiatrist)_
-Christopher Guinee _(publisher)_
-Stevan Rimkus _(Kenneth)_
-Michael Mueller _(1st BBC actor)_
-Anthony Douse _(2nd BBC actor)_
-John Kane _(director)_
-Steven Mackintosh _(Simon Ward)_
-Garry Cooper _(1st actor, ‘Entertaining Mr Sloane’)_
-Roger Lloyd Pack _(2nd actor)_
-Joanne Connelly _(stage manager)_
-John Moffatt _(wigmaker)_
-Philippa Davies _(Peggy Ramsay’s secretary)_
-David Cardy _(Brian Epstein)_
-Julie Legrand _(gallery owner)_
-Noel Davis _(Philip)_
-Jane Blackburn _(1st woman in gallery)_
-Stella Richman _(2nd woman in gallery)_
-Neville Phillips _(man in gallery)_
-Jonathan Phillips _(youth outside lavatory)_
-Richard Ireson _(man outside lavatory)_
-Ahmed El Jheur _(1st Moroccan boy)_
-Moktar Dagmouni _(2nd Moroccan boy)_
-Sian Thomas _(Marilyn Orton)_
-Stephen Bill _(George Barnett)_
-Karl Johnson _(Douglas Orton)_
-David Bradley _(undertaker)_
-Simon Adams _(undertaker’s boy)_
-James Duggan _(labourer)_
-Max Stafford Clark _(awards chairman)_
-Mark Brignal _(Beatles’ chauffeur)_
-Joan Sanderson _(Anthea’s mother)_
-Neville Smith _(police inspector)_
-Spencer Leigh _(constable)_
-John Salthouse _(chauffeur)_
-Robin Hooper _(mortuary attendant)_
-Derek Jarman _(Patrick Proktor)_ *
+**Cast**  
+Gary Oldman _(Joe Orton)_  
+Alfred Molina _(Kenneth Halliwell)_  
+Vanessa Redgrave _(Peggy Ramsay)_  
+Wallace Shawn _(John Lahr)_  
+Lindsay Duncan _(Anthea Lahr)_  
+Julie Walters _(Elsie Orton)_  
+James Grant _(William Orton)_  
+Frances Barber _(Leonie Orton)_  
+Janet Dale _(Mrs Sugden)_  
+Dave Atkins _(Mr Sugden)_  
+Margaret Tyzack _(Madame Lambert)_  
+Eric Richard _(education officer)_  
+William Job _(RADA chairman)_  
+Rosalind Knight, Angus Mackay _(RADA judges)_  
+Linda Spurrier _(RADA instructor)_  
+Charlotte Wodehouse _(Janet)_  
+Helena Michell, Sean Pertwee _(Orton’s friends)_  
+Liam De Staic _(brickie)_  
+Charles McKeown _(Mr Cunliffe)_  
+Selina Cadell _(Miss Battersby)_  
+Bert Parnaby _(magistrate)_  
+Antony Carrick _(counsel)_  
+Neil Dudgeon _(policeman)_  
+Richard Wilson _(psychiatrist)_  
+Christopher Guinee _(publisher)_  
+Stevan Rimkus _(Kenneth)_  
+Michael Mueller _(1st BBC actor)_  
+Anthony Douse _(2nd BBC actor)_  
+John Kane _(director)_  
+Steven Mackintosh _(Simon Ward)_  
+Garry Cooper _(1st actor, ‘Entertaining Mr Sloane’)_  
+Roger Lloyd Pack _(2nd actor)_  
+Joanne Connelly _(stage manager)_  
+John Moffatt _(wigmaker)_  
+Philippa Davies _(Peggy Ramsay’s secretary)_  
+David Cardy _(Brian Epstein)_  
+Julie Legrand _(gallery owner)_  
+Noel Davis _(Philip)_  
+Jane Blackburn _(1st woman in gallery)_  
+Stella Richman _(2nd woman in gallery)_  
+Neville Phillips _(man in gallery)_  
+Jonathan Phillips _(youth outside lavatory)_  
+Richard Ireson _(man outside lavatory)_  
+Ahmed El Jheur _(1st Moroccan boy)_  
+Moktar Dagmouni _(2nd Moroccan boy)_  
+Sian Thomas _(Marilyn Orton)_  
+Stephen Bill _(George Barnett)_  
+Karl Johnson _(Douglas Orton)_  
+David Bradley _(undertaker)_  
+Simon Adams _(undertaker’s boy)_  
+James Duggan _(labourer)_  
+Max Stafford Clark _(awards chairman)_  
+Mark Brignal _(Beatles’ chauffeur)_  
+Joan Sanderson _(Anthea’s mother)_  
+Neville Smith _(police inspector)_  
+Spencer Leigh _(constable)_  
+John Salthouse _(chauffeur)_  
+Robin Hooper _(mortuary attendant)_  
+Derek Jarman _(Patrick Proktor)_ *  
 
-UK 1987
-110 mins
+UK 1987  
+110 mins  
 
-* Uncredited
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ2NDU2MTcsOTkwMzgxMTE0XX0=
--->
+\* Uncredited  
+ 
+<br>
+**GARY OLDMAN**  
+**Meantime**  
+Mon 17 Oct 20:40; Fri 28 Oct 17:50  
+**Rosencrantz & Guildenstern Are Dead**  
+Tue 18 Oct 18:05; Sun 6 Nov 18:20  
+**Bram Stoker’s Dracula**  
+Wed 19 Oct 20:25 (+ intro by Christopher Frayling); Sat 29 Oct 20:30; Wed 23 Nov 18:00  
+**Prick Up Your Ears**  
+Fri 21 Oct 20:30; Sun 13 Nov 18:20; Fri 25 Nov 20:40  
+**JFK – Director’s Cut**  
+Sun 23 Oct 16:00; Sat 19 Nov 16:30  
+**True Romance**  
+Mon 24 Oct 20:40; Tue 22 Nov 20:30; Tue 29 Nov 18:00  
+**The Firm – Director’s Cut**  
+Wed 2 Nov 21:00; Thu 10 Nov 18:15  
+**The Contender**  
+Fri 4 Nov 18:00; Mon 14 Nov 18:00  
+**Tinker Tailor Soldier Spy**  
+Sat 5 Nov 20:20; Thu 24 Nov 17:55  
+**Mank**  
+Tue 8 Nov 20:15; Sat 26 Nov 17:20; Tue 29 Nov 20:20  
+**Darkest Hour**  
+Sat 12 Nov 12:20; Sat 19 Nov 20:30; Mon 21 Nov 14:30  
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
