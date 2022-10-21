@@ -29,26 +29,18 @@ Dorothy Vallens) will make it Maddin’s most accessible film.
 _Director_: Guy Maddin  
 ©: 1551265 Ontario Inc, Melancholy Pictures Inc  
 ©_/Production Company_: Ego Film Arts  
-_Production Companies_: Rhombus Media,  
-Buffalo Gal Pictures  
-_Produced with the participation of_: Téléfilm Canada, TMN - The Movie Network, Super Écran,  
-Manitoba Film & Sound, Astral Media  
+_Production Companies_: Rhombus Media,  Buffalo Gal Pictures  
+_Produced with the participation of_: Téléfilm Canada, TMN - The Movie Network, Super Écran,  Manitoba Film & Sound, Astral Media  
 _Produced in association with_: Bravo!, Movie Central  
-_With the participation of_: Government of Manitoba, Manitoba Film and Video Production Tax Credit, Canadian Film or Video Production Tax Credit Program, The Government of Ontario,  
-Ontario Film and Television Tax Credit Program  
-_Initially developed with the assistance of_:  
-Channel Four Television Corporation  
-_Presented by_: Rhombus Media,  
-Buffalo Gal Pictures, Ego Film Arts  
+_With the participation of_: Government of Manitoba, Manitoba Film and Video Production Tax Credit, Canadian Film or Video Production Tax Credit Program, The Government of Ontario,  Ontario Film and Television Tax Credit Program  
+_Initially developed with the assistance of_:  Channel Four Television Corporation  
+_Presented by_: Rhombus Media,  Buffalo Gal Pictures, Ego Film Arts  
 _Executive Producers_: Daniel Iron, Atom Egoyan  
 _Producers_: Niv Fichman, Jody Shapiro  
 _Co-producer_: Phyllis Laing  
-_For Rhombus Media (Co-producer)_:  
-Sheena Macdonald  
-_For Rhombus Media (Associate Producers)_:  
-Larry Weinstein, Barbara Willis Sweete  
-_For Rhombus Media (Business Affairs)_:  
-Philippa King  
+_For Rhombus Media (Co-producer)_:  Sheena Macdonald  
+_For Rhombus Media (Associate Producers)_:  Larry Weinstein, Barbara Willis Sweete  
+_For Rhombus Media (Business Affairs)_:  Philippa King  
 _For Rhombus Media (Production Associate)_: Jennifer Weiss  
 _For Rhombus Media (Distrib Executive)_: Sarah Baird  
 _For Buffalo Gals Pcts (Business Affairs)_: Sara Lazer  
@@ -68,8 +60,7 @@ _Written by_: George Toles, Guy Maddin
 _Based on an original screenplay by_: Kazuo Ishiguro  
 _Director of Photography_: Luc Montpellier  
 _Super 8 Photography_: Ruben Guzman  
-_Additional Camera_: Guy Maddin, Jody Shapiro, Dominique Balcaen, David Fox, Jason Heke,  
-Mark McKinney, Ross McMillan, Richard O’Brien-Moran, Mike Peleshok, Len Peterson, Larry Spittle, Shauna Townley  
+_Additional Camera_: Guy Maddin, Jody Shapiro, Dominique Balcaen, David Fox, Jason Heke,  Mark McKinney, Ross McMillan, Richard O’Brien-Moran, Mike Peleshok, Len Peterson, Larry Spittle, Shauna Townley  
 _Video Graphic Co-ordinator_: Gary Barringer  
 _Still Photographers_: Diyah Pera, Peter Rohde  
 _Additional Rearscreen Photography_: Gisèle Gordon  
@@ -95,20 +86,17 @@ _Featuring [Orchestra]_: The Canadian Film Orchestra
 _Featuring [Musicians]_: The Muskeg Combo  
 _Concertmaster_: Mark Skazinetsky  
 _Original Score Conducted by_: Christopher Dedrick  
-_Original Score Orchestrated by_:  
-Christopher Dedrick  
+_Original Score Orchestrated by_:  Christopher Dedrick  
 _Music Supervision_: Brenda Blake  
 _Music Co-ordinator_: Erin Hershberg  
 _Music Editing_: Rebecca Pellett  
 _Source Music Editor_: Craig Mann  
 _Score Recorded by_: Gary Gray, Rebecca Pellett  
 _Score Mixed by_: Gary Gray  
-_Winnipeg Musicians Recorded by_:  
-Don Benedictson, Robert Stewart  
+_Winnipeg Musicians Recorded by_:  Don Benedictson, Robert Stewart  
 _Choreographer_: Sofia Costantini  
 _Sound Designer_: David Rose  
-_Sound_: Russ Dyck, David McCallum,  
-Lou Solakofski, David Rose  
+_Sound_: Russ Dyck, David McCallum,  Lou Solakofski, David Rose  
 _Boom Operator_: Stan Mak  
 _Re-recording Mixer_: Lou Solakofski, Martin Lee  
 _Supervising Sound Editor_: David McCallum  
@@ -122,8 +110,7 @@ _Film Diarist_: Robert Enright
 _Special Thanks to:_: Don McKellar, James Di Salvio  
 _Publicist_: Leslie Stafford
 
-_Cast:_
-
+**Cast**  
 Mark McKinney _(Chester Kent)_  
 Isabella Rossellini _(Lady Helen Port-Huntley)_  
 Maria de Medeiros _(Narcissa)_  
@@ -148,9 +135,10 @@ Craig Aftanas _(old sleepwalker)_
 Mark Boiselle _(guard)_  
 Brock Macgregor _(Roderick’s son)_  
 Daniel Hawkins _(amputee double)_  
-Canada 2003©
 
-100 mins
+Canada 2003©  
+100 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyNzU2MzBdfQ==
+eyJoaXN0b3J5IjpbLTE3MzI0Mjg4ODRdfQ==
 -->
