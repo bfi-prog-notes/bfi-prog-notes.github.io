@@ -110,11 +110,8 @@ Stephen Bill _(George Barnett)_
 Karl Johnson _(Douglas Orton)_
 David Bradley _(undertaker)_
 Simon Adams _(undertaker’s boy)_
-
 James Duggan _(labourer)_
-
 Max Stafford Clark _(awards chairman)_
-
 Mark Brignal _(Beatles’ chauffeur)_
 Joan Sanderson _(Anthea’s mother)_
 Neville Smith _(police inspector)_
@@ -128,5 +125,5 @@ UK 1987
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4OTE1ODM3LDk5MDM4MTExNF19
+eyJoaXN0b3J5IjpbLTEyMDQ2NDU2MTcsOTkwMzgxMTE0XX0=
 -->
