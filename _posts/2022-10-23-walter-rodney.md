@@ -1,9 +1,18 @@
-
+---
+layout: post
+title: Walter Rodney - 'What They Don't Want You to Know'
+published: true
+date: 2022-10-23
+readtime: true
+categories: ['AFRICAN ODYSSEYS']
+tags: [Documentary]
+metadata: 'UK 2022, 65 mins<br> Directors: Daniyal Harris-Vajda, Arlen Harris'
+pdf: '2022-10-23-walter-rodney.pdf'
+---
 
 _We are really pleased to announce that joining the discussion will be  Dr Patricia Rodney (CEO of The Walter Rodney Foundation, academic and author), Gina Nadira Miller (activist politician and businesswoman), Lavinya Stennett (founder of Black Curriculum), Arlen Harris and Daniyal Harris-Vajda (directors). The discussion will be chaired by David Dabydeen (broadcaster, novelist, poet and academic, UNESCO Exec Board)._
 
-This documentary explores the life of historian and civil rights campaigner  
-Dr Walter Rodney. Filmed in Guyana, Barbados, Jamaica, Tanzania, the US and the UK, featuring revelatory interviews, it examines the life of a man who sought unity in the face of division and whose ideals lie at the heart of global struggles today. Walter Rodney was killed in 1980 in Guyana, South America by the CIA and MI5-supported autocratic government of Forbes Burnham. Forty-one years after his death, the Guyanese government has finally acknowledged the state’s role in his assassination.
+This documentary explores the life of historian and civil rights campaigner  Dr Walter Rodney. Filmed in Guyana, Barbados, Jamaica, Tanzania, the US and the UK, featuring revelatory interviews, it examines the life of a man who sought unity in the face of division and whose ideals lie at the heart of global struggles today. Walter Rodney was killed in 1980 in Guyana, South America by the CIA and MI5-supported autocratic government of Forbes Burnham. Forty-one years after his death, the Guyanese government has finally acknowledged the state’s role in his assassination.
 
 Supported by The Walter Rodney Foundation and the Ameena Gafoor Institute.
 
@@ -29,6 +38,24 @@ _Directors:_ Daniyal Harris-Vajda, Arlen Harris
 UK 2022  
 65 mins<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjc5OTcyMjc2LC01Njc0MjEwOTIsLTEwMD
 I1NTM5MzhdfQ==
