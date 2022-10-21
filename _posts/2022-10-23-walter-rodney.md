@@ -24,8 +24,7 @@ Additionally, Dr Rodney is the CEO of The Walter Rodney Foundation (WRF) – **w
 **David Dabydeen (Host)** was born in Guyana. He read English at Cambridge, and between 1984 and 2019 he taught at the University of Warwick, with one spell at Director of the Yesu Persaud Centre for Caribbean Studies. He was elected unto the Executive Board of UNESCO in 1993, and served as Guyana's Ambassador to UNESCO from 1997 to 2010, in an honorary capacity. From 2010 to 2015 he was Guyana's Ambassador to China. He is currently Director of the Ameena Gafoor Institute for the Study of Indentureship and its Legacies, which shelters under the Pluto Educational Trust. He has published seven novels, two collections of poetry and academic books on the literature and culture of the Caribbean and Black Britain. His new novel, _Sweet Li Jie_, set in China and Guyana will be published in 2023.
 <br><br>
 
-**Walter Rodney:  
-‘What They Don’t Want You to Know’**
+**Walter Rodney: ‘What They Don’t Want You to Know’**
 
 _Directors:_ Daniyal Harris-Vajda, Arlen Harris
 
@@ -33,5 +32,5 @@ UK 2022
 
 65 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDI1NTM5MzhdfQ==
+eyJoaXN0b3J5IjpbLTU2NzQyMTA5MiwtMTAwMjU1MzkzOF19
 -->
