@@ -1,96 +1,55 @@
 
-<![endif]-->
-
 **SPOILER WARNING** The following notes give away some of the plot.
 
-With an Alan Bennett script based on John Lahr’s biography of Joe Orton, Stephen Frears’ film about the shifts in power in the playwright’s relationship with the older Kenneth Halliwell was sure to have many witty lines and incisive insights into the London of the ’50s and ’60s, before reaching its tragic ending. Oldman (who’d acted in Orton’s _Entertaining Mr Sloane_ on stage) excels as the scandalising playwright.
+With an Alan Bennett script based on John Lahr’s biography of Joe Orton, Stephen Frears’ film about the shifts in power in the playwright’s relationship with the older Kenneth Halliwell was sure to have many witty lines and incisive insights into the London of the ’50s and ’60s, before reaching its tragic ending. Oldman (who’d acted in Orton’s _Entertaining Mr Sloane_ on stage) excels as the scandalising playwright.  
+**bfi.org.uk**  
 
-**bfi.org.uk**
-
-**Alan Bennett on ‘Prick Up Your Ears’**
-
+**Alan Bennett on ‘Prick Up Your Ears’**  
 I wrote several drafts of the screenplay, but I wasn’t happy with any of them. The temptation was to try and write it in a sub-Orton kind of language – that was one of the problems with the first script. Orton’s language was very theatrical and it doesn’t really work on film. One version had John Lahr working on the biography and me as a scriptwriter working on the script: an impossibly baroque idea. Eventually, I got something out, which included some of the John Lahr parts. We took this to Chrysalis Records, who at that time thought they wanted to make a film. We very nearly gave them the rights, but they let slip that they wanted to make a kind of English _Cage aux folles_ and we back-pedalled smartly. After that, nothing happened for about four years, until Zenith took an interest.
 
 To me, _Prick Up Your Ears_ is really a film about marriage. Peggy Ramsay, Orton’s agent, says that Halliwell was Orton’s first wife. In a sense, it’s what happens when someone marries early, at a period when they are struggling, and then becomes famous and thinks about jettisoning their first wife. And at that point Halliwell murdered Orton. I could have done it as a gay film but that would have just worked on one level and been of limited interest. In a sense, the ’60s was the most difficult thing to portray. It’s quite startling when you see Vanessa Redgrave in a mini-skirt. The recent past is the most remote of all. The ’50s are fairly easy to do; the ’60s are much harder. There’s the whole question of AIDS now, which complicates things. It has made it even more of a historical film, in a way, because it is about a period that is now closed. In the film, there’s a point where John Lahr asks Peggy Ramsay about the Festival of Britain. She says it was ‘When it all came off the ration.’ He says, ‘You mean food?’; she replies, ‘Oh, food, sex, life, everything.’ What has happened now, of course, is that it has all gone back on the ration again.
 
 I had to write it for people who don’t know anything about Orton. But equally, you don’t want to insult people who do know about him. You have to play it both ways. You have to take the plays on trust. You see the neon signs outside the theatre and get a glimpse of rehearsal, but if you are really interested in the plays you should see a documentary. I don’t know how you dramatise the act of writing itself – it’s always a problem. I suppose you can show the paper in the typewriter, then going in the bin, like they did in _Julia_, with Lillian Hellman endlessly screwing stuff up and chucking it away. In a way, Orton fulfilled what people want in a writer. He has a great gift, then he’s punished for it. I think that satisfies something in a lot of people’s minds.
 
-I had complicated feelings about Orton, liking him and disliking him at the same time. I’ve always admired the writing and I like his cheek, but at the same time his self-assurance and conviction about his talent alienates me. When I read the diaries, I was relieved that my first play came out a year after he died. He slags off every play he goes to see: Peter Nichols, Tom Stoppard, the rest. I’m sure my play would have got the same treatment. I don’t know if it’s proper to say so, but Stephen and I differ slightly about the end. We originally shot a scene where Peggy Ramsay and the Lahrs all go back to Orton and Halliwell’s old ﬂat. It’s all bright and cheerful and the couple living in it are very modern, but you get a sense of unease that this marriage is going to go wrong too. I liked the scene, but I can see that it didn’t work in marketing terms.
+I had complicated feelings about Orton, liking him and disliking him at the same time. I’ve always admired the writing and I like his cheek, but at the same time his self-assurance and conviction about his talent alienates me. When I read the diaries, I was relieved that my first play came out a year after he died. He slags off every play he goes to see: Peter Nichols, Tom Stoppard, the rest. I’m sure my play would have got the same treatment. I don’t know if it’s proper to say so, but Stephen and I differ slightly about the end. We originally shot a scene where Peggy Ramsay and the Lahrs all go back to Orton and Halliwell’s old ﬂat. It’s all bright and cheerful and the couple living in it are very modern, but you get a sense of unease that this marriage is going to go wrong too. I liked the scene, but I can see that it didn’t work in marketing terms.  
+**Alan Bennett, _Monthly Film Bulletin_, May 1987**  
 
-**Alan Bennett, _Monthly Film Bulletin_, May 1987**
-
-**PRICK UP YOUR EARS**
-
+**PRICK UP YOUR EARS**  
 _Director:_ Stephen Frears
-
 _Production Companies:_ Zenith Productions, Civilhand, British Screen, Channel Four
-
 _Producer:_ Andrew Brown
-
 _Production Accountant:_ Tony Miller
-
 _Production Co-ordinator:_ Lorraine Goodman
-
 _Production Manager:_ Ann Wingate
-
 _Location Manager:_ Rachel Neale
-
 _Producer’s Secretary:_ Debbie Harding
-
 _1st Assistant Director:_ Michael Zimbrich
-
 _2nd Assistant Director:_ Lee Cleary
-
 _3rd Assistant Director:_ Adam Walton
-
 _Morocco Assistant Director:_ Hatimi Ahmed
-
 _Script Supervisor:_ Penny Eyles
-
 _Casting:_ Debbie McWilliams
-
 _Screenplay:_ Alan Bennett
-
 _Based on the biography by:_ John Lahr
-
 _Director of Photography:_ Oliver Stapleton
-
 _Camera Operator:_ David Morgan
-
 _Gaffer:_ Malcolm Davies
-
 _Stills Photography:_ Sarah Quill
-
 _Matte/Optical Effects:_ Optical Film Effects
-
 _Editor:_ Mick Audsley
-
 _Production Designer:_ Hugo Luczyc-Wyhowski
-
 _Art Director:_ Phil Elton
-
 _Décor/Lettering Artist:_ Steve Hedinger
-
 _Collages:_ Bob Starrett
-
 _Scenic Artist:_ John Kirby Spotswood
-
 _Property Master:_ Ray Perry
-
 _Construction Manager:_ Ray Barrett
-
 _Costume Designer:_ Bob Ringwood
-
 _Wardrobe Supervisor:_ Patrick Wheatley
-
 _Make-up Supervisor:_ Elaine Carew
-
 _Title Design:_ Julian Rothenstein
-
 _Music:_ Stanley Myers
-
 _Music Performed by:_ John Harle’s Berliner Band
-
 _Synthesizers:_ Hans Zimmer
 
 _Music Conductor/Orchestrations:_ John Harle
@@ -214,17 +173,11 @@ James Duggan _(labourer)_
 Max Stafford Clark _(awards chairman)_
 
 Mark Brignal _(Beatles’ chauffeur)_
-
 Joan Sanderson _(Anthea’s mother)_
-
 Neville Smith _(police inspector)_
-
 Spencer Leigh _(constable)_
-
 John Salthouse _(chauffeur)_
-
 Robin Hooper _(mortuary attendant)_
-
 Derek Jarman _(Patrick Proktor)_ *
 
 UK 1987
@@ -232,5 +185,5 @@ UK 1987
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTc5NTA2MCw5OTAzODExMTRdfQ==
+eyJoaXN0b3J5IjpbMTcxMzk4MTI4Nyw5OTAzODExMTRdfQ==
 -->
