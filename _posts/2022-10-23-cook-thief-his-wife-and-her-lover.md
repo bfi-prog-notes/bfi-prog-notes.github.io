@@ -78,10 +78,9 @@ _Boom Operator_: Tom Buchanan
 _Dubbing Mixer_: Peter Maxwell  
 _Dubbing Editors_: Chris Wyatt, Shirley Shaw, Michael Danks  
 _Sound Effects Treatment_: Nigel Heath  
-_ADR Mixer_: Aad Wirtz
+_ADR Mixer_: Aad Wirtz  
 
-**Cast**
-
+**Cast**  
 Richard Bohringer  _(Richard Borst)_  
 Michael Gambon  _(Albert Spica)_  
 Helen Mirren  _(Georgina Spica)_  
@@ -118,5 +117,5 @@ Alex Fraser, Michael Clark, Gary Logan, Tim Geary, Saffron Rainey, Hywel William
 UK/France 1989  
 124 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTA4MzA3MzBdfQ==
+eyJoaXN0b3J5IjpbLTI4NTU0MDUzNl19
 -->
