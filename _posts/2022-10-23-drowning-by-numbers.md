@@ -7,7 +7,7 @@ readtime: true
 categories: ['FRAMES OF MIND<br> THE FILMS OF PETER GREENAWAY']
 tags: [Comedy]
 metadata: 'UK/Netherlands 1988, 119 mins<br> Director: Peter Greenaway'
-pdf: '2022-10-23-drowning by numbers.pdf'
+pdf: '2022-10-23-drowning-by-numbers.pdf'
 ---
 
 **A contemporary review**  
