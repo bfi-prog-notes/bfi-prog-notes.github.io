@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Cook, the Thief, His Wife & Her Lover
+published: true
+date: 2022-10-23
+readtime: true
+categories: ['FRAMES OF MIND<br> THE FILMS OF PETER GREENAWAY']
+tags: [Drama]
+metadata: 'UK/France 1989, 124 mins<br> Director: Peter Greenaway'
+pdf: '2022-10-23-cook-the-thief-his-wife-and-her-lover.pdf'
+---
 
 _+ intro by Lead Programmer Justin Johnson and Film Editor John Wilson ACE (Sunday 23 October only)_
 
@@ -19,8 +30,7 @@ Greenaway is often seen as a director intoxicated with ideas, but his true obses
 
 As with Greenaway’s earlier films, _Cook_ features a good deal of nudity, but the naked bodies are viewed in a strangely detached style. For a story about appetite, this is a startlingly unerotic film. Mirren and Howard lie together among the meat and poultry and their bodies come to seem like fleshy constraints, emblems of their possessors’ failure to achieve transcendence.
 
-The production design, by Ben van Os and Jan Roelfs (also responsible for  
-_A Zed and Two Noughts_ and _Drowning by Numbers_), is magnificent and there are moments in their collaboration with the photographer Sacha Vierny when the film touches greatness. Each area of action, the kitchen, the dining room and the lavatory, has a different design and colour scheme, and the actors’ extravagant Jean-Paul Gaultier costumes change colour as they move between them. The different rooms also seem to represent different stages of history, an architectural mockery of human progress. The kitchen with its still lives and its fowl being dismembered is 18th century, the dining room with its lush fabrics 19th century and the hi-tech bathroom late 20th.
+The production design, by Ben van Os and Jan Roelfs (also responsible for _A Zed and Two Noughts_ and _Drowning by Numbers_), is magnificent and there are moments in their collaboration with the photographer Sacha Vierny when the film touches greatness. Each area of action, the kitchen, the dining room and the lavatory, has a different design and colour scheme, and the actors’ extravagant Jean-Paul Gaultier costumes change colour as they move between them. The different rooms also seem to represent different stages of history, an architectural mockery of human progress. The kitchen with its still lives and its fowl being dismembered is 18th century, the dining room with its lush fabrics 19th century and the hi-tech bathroom late 20th.
 
 Greenaway’s last three films, made with the help and boldness of his Dutch producers, are among the most original visual experiments since Powell and Pressburger’s great years. With increasing resources and skill, Greenaway has taken old forms – the murder story, the thriller – dismantled them and put them back together to make something entirely new. It’s a perilous project and filmgoers must keep their fingers crossed. British visionaries have a way of going terribly wrong. But Greenaway is now beyond question the most exciting intelligence at work in our cinema.  
 **Sean French, _Sight & Sound_, Autumn 1989**  
@@ -116,6 +126,53 @@ Alex Fraser, Michael Clark, Gary Logan, Tim Geary, Saffron Rainey, Hywel William
 
 UK/France 1989  
 124 mins  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTU0MDUzNl19
--->
+<br>
+**FRAMES OF MIND: THE FILMS OF PETER GREENAWAY**  
+**A Zed & Two Noughts**  
+Tue 18 Oct 18:10; Sat 5 Nov 17:40; Sat 12 Nov 17:40; Mon 21 Nov 20:40; Sun 27 Nov 12:15  
+**Peter Greenaway: Frames of Mind Season Introduction**  
+Wed 19 Oct 18:10  
+**The Belly of an Architect**  
+Wed 19 Oct 20:30; Fri 18 Nov 18:20; Tue 22 Nov 18:10; Sat 26 Nov 15:30  
+**The Falls**  
+Sat 22 Oct 13:50; Sun 6 Nov 14:40  
+**The Cook, the Thief, His Wife & Her Lover**  
+Sun 23 Oct 15:30 (+ intro by Justin Johnson, Lead Programmer); Sat 12 Nov 14:55; Mon 28 Nov 17:50  
+**Drowning by Numbers**  
+Sun 23 Oct 18:00; Sat 19 Nov 14:30; Sun 27 Nov 18:00  
+**Peter Greenaway Shorts Programme 1**  
+Mon 24 Oct 18:10; Thu 10 Nov 20:40  
+**Experimental Sound and Vision: Found Sounds, Lyrical Loops and Landscapes**  
+Thu 27 Oct 18:15; Thu 17 Nov 18:15 (+ intro by author and musician David Toop)  
+**Prospero’s Books**  
+Tue 1 Nov 17:40; Sun 20 Nov 18:00  
+**Peter Greenaway: Pioneer of Cinema**  
+Sat 5 Nov 12:00-17:00  
+**The Unreliable Narrator: Adventures in Storytelling, Documentary and Misinformation**  
+Sun 6 Nov 12:40; Fri 25 Nov 21:00  
+**A TV Dante: Cantos 1-8**  
+Tue 15 Nov 18:20  
+**The Baby of Mâcon**  
+Wed 16 Nov 20:30; Fri 25 Nov 18:00; Mon 28 Nov 20:30  
+**The Pillow Book**  
+Fri 18 Nov 20:30; Thu 24 Nov 20:30; Tue 29 Nov 17:40  
+**8½ Women**  
+Sun 20 Nov 12:50; Wed 30 Nov 20:35  
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
