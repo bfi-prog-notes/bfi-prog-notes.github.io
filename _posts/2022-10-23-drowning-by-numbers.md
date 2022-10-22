@@ -1,9 +1,19 @@
+---
+layout: post
+title: Drowning by Numbers
+published: true
+date: 2022-10-23
+readtime: true
+categories: ['FRAMES OF MIND<br> THE FILMS OF PETER GREENAWAY']
+tags: [Comedy]
+metadata: 'UK/Netherlands 1988, 119 mins<br> Director: Peter Greenaway'
+pdf: '2022-10-23-drowning by numbers.pdf'
+---
 
 **A contemporary review**  
 Peter Greenaway has become his own foremost exegete, although it is not yet clear whether this career move springs from a frustration that most English critics have little taste for decoding the intricacies of his plotting or merely from a wish to add a further level of absurdity to those already ingrained in his films. _Drowning by Numbers_ arrives accompanied by a twenty-six-minute TV trailer, entitled _Fear of Drowning_, in which Greenaway the deadpan critic offers a faintly amused analysis of the structures, patterns and motifs in the feature itself: the endless sets of three (three Cissies, three drownings, three rebuffed seductions, three communal games), the number count from 1 to 100, the derivation of character names from the ‘famous last words’ of assorted luminaries, the painterly roots of certain key images, and so on. Its strengths as inspired, state-of-the-art promotion for the release of the film aside, this exegesis turns out to be almost entirely superfluous, since the film itself carefully foregrounds its own mechanisms and devices: no Greenaway film since _The Falls_ has laid its organising principles so bare.
 
-_Drowning by Numbers_ rests on the same absurdist premises as Greenaway’s other work, but it is all but devoid of the poetic mysteries and ambiguities that have sometimes suggested a secret kinship between Greenaway and Raul Ruiz as latter-day surrealists. This is a film of remorseless, Cartesian logic, in which every motive is open for inspection and every conflict can be reduced to the terms of a tug-of-war. If Greenaway’s narrative features have represented a gradual etiolation of narrative, from the density of  _The Draughtsman’s Contract_ (where the release version was a digest of a film originally much longer) to the inconsequential off-screen chicaneries of  
-_The Belly of an Architect_, then _Drowning by Numbers_ represents the point where the minimal exigencies of storytelling blur into the ‘purer’, non-narrative structures of earlier films like _Vertical Features Remake_ and _The Falls_ – the very films, as it happens, in which Cissie Colpitts got her first name checks.
+_Drowning by Numbers_ rests on the same absurdist premises as Greenaway’s other work, but it is all but devoid of the poetic mysteries and ambiguities that have sometimes suggested a secret kinship between Greenaway and Raul Ruiz as latter-day surrealists. This is a film of remorseless, Cartesian logic, in which every motive is open for inspection and every conflict can be reduced to the terms of a tug-of-war. If Greenaway’s narrative features have represented a gradual etiolation of narrative, from the density of  _The Draughtsman’s Contract_ (where the release version was a digest of a film originally much longer) to the inconsequential off-screen chicaneries of _The Belly of an Architect_, then _Drowning by Numbers_ represents the point where the minimal exigencies of storytelling blur into the ‘purer’, non-narrative structures of earlier films like _Vertical Features Remake_ and _The Falls_ – the very films, as it happens, in which Cissie Colpitts got her first name checks.
 
 Greenaway himself cheerfully describes the film as a sardonic morality play: ‘_Drowning by Numbers_ is a black and comic fairy-tale for adults, half invented by children who are innocently obsessed with sex and death – especially death. It is a poetic, amoral tale told morally to support the belief that the good are seldom rewarded, the bad go largely unpunished and the innocent are always abused’. This makes it sound like the ironic and effetely intellectual English counterpart to an ebullient Russ Meyer sex film, and it’s true that Greenaway’s schema of strongwilled women, unprepossessing men, marital strife and sexualised landscapes shares quite a few underlying assumptions with Meyer’s parodies of Thornton Wilder. But Greenaway’s left-liberal proclivities generate a ‘world’ without any of the moral certainties that Meyer so gleefully deflates, and _Drowning by Numbers_ is finally serenely indifferent to its characters’ moral plusses and minuses. If the film’s post-Darwinian view of female ruthlessness and male helplessness can be said to have a ‘moral’ thrust at all, then it is simply the flipside of the amoral, voyeuristic pleasures of Greenaway’s TV short _Making a Splash_, which showed people of all ages and genders ‘at home’ in water: a bleak, existential vision in which the only ‘moral’ poles are those labelled ‘swimming’ and ‘drowning’. And since this is Greenaway’s most Beaubourg-esque film, the one whose inner workings are most self-consciously displayed on its surface, it follows that it produces the most nakedly explicit images to illustrate those poles, from the flaccid penises of the drowning men to the inviolable confederation of Cissies, by way of Smut’s twin desires to virilise death and devirilise himself.
 
@@ -114,6 +124,53 @@ UK/Netherlands 1988
 119 mins  
 
 Please note that for the screenings on 19 and 27 November we will now present a brand new 4K restoration courtesy of Film 4 and approved by Peter Greenaway. The screening on Sunday 23 October will be presented on 35mm, as originally advertised.  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0NTA3MTI0XX0=
--->
+<br>
+**FRAMES OF MIND: THE FILMS OF PETER GREENAWAY**  
+**A Zed & Two Noughts**  
+Tue 18 Oct 18:10; Sat 5 Nov 17:40; Sat 12 Nov 17:40; Mon 21 Nov 20:40; Sun 27 Nov 12:15  
+**Peter Greenaway: Frames of Mind Season Introduction**  
+Wed 19 Oct 18:10  
+**The Belly of an Architect**  
+Wed 19 Oct 20:30; Fri 18 Nov 18:20; Tue 22 Nov 18:10; Sat 26 Nov 15:30  
+**The Falls**  
+Sat 22 Oct 13:50; Sun 6 Nov 14:40  
+**The Cook, the Thief, His Wife & Her Lover**  
+Sun 23 Oct 15:30 (+ intro by Justin Johnson, Lead Programmer); Sat 12 Nov 14:55; Mon 28 Nov 17:50  
+**Drowning by Numbers**  
+Sun 23 Oct 18:00; Sat 19 Nov 14:30; Sun 27 Nov 18:00  
+**Peter Greenaway Shorts Programme 1**  
+Mon 24 Oct 18:10; Thu 10 Nov 20:40  
+**Experimental Sound and Vision: Found Sounds, Lyrical Loops and Landscapes**  
+Thu 27 Oct 18:15; Thu 17 Nov 18:15 (+ intro by author and musician David Toop)  
+**Prospero’s Books**  
+Tue 1 Nov 17:40; Sun 20 Nov 18:00  
+**Peter Greenaway: Pioneer of Cinema**  
+Sat 5 Nov 12:00-17:00  
+**The Unreliable Narrator: Adventures in Storytelling, Documentary and Misinformation**  
+Sun 6 Nov 12:40; Fri 25 Nov 21:00  
+**A TV Dante: Cantos 1-8**  
+Tue 15 Nov 18:20  
+**The Baby of Mâcon**  
+Wed 16 Nov 20:30; Fri 25 Nov 18:00; Mon 28 Nov 20:30  
+**The Pillow Book**  
+Fri 18 Nov 20:30; Thu 24 Nov 20:30; Tue 29 Nov 17:40  
+**8½ Women**  
+Sun 20 Nov 12:50; Wed 30 Nov 20:35  
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
