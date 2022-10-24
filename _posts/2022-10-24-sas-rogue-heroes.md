@@ -13,119 +13,83 @@ Cairo, 1941. David Stirling (Connor Swindells) – an eccentric young officer, h
 <br><br>
 
 **SAS ROGUE HEROES (Episode 1)**<br>
-
 _Directed by:_ Tom Shankland<br>
-
 _Produced by:_ Stephen Smallwood<br>
-
-_Developed for television and Written by:  
-_Steven Knight<br>
-
-_Based on the book_ SAS: Rogue Heroes _by:  
-_Ben Macintyre<br>
-
+_Developed for television and Written by:_ Steven Knight<br>
+_Based on the book_ SAS: Rogue Heroes _by:_ Ben Macintyre<br>
 ©_/Production Company_: Kudos<br>
-
 _For:_ BBC<br>
-
-_Executive Producers:_ Karen Wilson,  
-Emma Kingsman-Lloyd, Martin Haines,  
+_Executive Producers:_ Karen Wilson,  Emma Kingsman-Lloyd, Martin Haines,  
 Steven Knight, Ben Macintyre, Tom Shankland<br>
-
 _Executive Producer for BBC:_ Tommy Bulfin<br>
-
 _Casting Director:_ Kahleen Crawford<br>
-
 _2nd Unit Director:_ Dandice Onyeama<br>
-
 _1st Assistant Director:_ Marcus Catlin<br>
-
 _2nd Assistant Director:_ Anne Warter<br>
-
 _Production Manager:_ Marcia Gay<br>
-
 _Production Co-ordinator:_ David Brooks<br>
-
 _Supervising Location Manager:_ David Kellick<br>
-
-_Supervising Location Manager Morocco:  
-_Khalid Ameskane<br>
-
+_Supervising Location Manager Morocco:_ Khalid Ameskane<br>
 _Post-production Supervisor:_ Portia Napier<br>
-
 _Script Editor:_ Heather Larmour<br>
-
 _Script Supervisor:_ Emilija Paulauskaite<br>
-
 _Director of Photography:_ Stephan Pehrsson<br>
-
 _2nd Unit Director of Photography:_ Robert McGregor<br>
-
 _Editor:_ Helen Chapman<br>
-
-_Visual Effects Supervisors:_ David Sewell,  
-Michael Illingworth<br>
-
+_Visual Effects Supervisors:_ David Sewell,  Michael Illingworth<br>
 _Production Designer:_ Richard Bullock<br>
-
 _Art Director:_ Ghillie Smith<br>
-
 _Costume Designer:_ Rachel Walsh<br>
-
-_Make-up and Hair Designers:_ Angie Mudge,  
-Debbie Ormrod, Ang Oxley-Evans<br>
-
+_Make-up and Hair Designers:_ Angie Mudge,  Debbie Ormrod, Ang Oxley-Evans<br>
 _Composer:_ Ilan Eshkeri<br>
-
 _Sound Recordist:_ Judi Lee Headman<br>
-
 _Re-recording Mixer:_ Nigel Squibbs<br>
-
 _Stunt Co-ordinator:_ Neil Finnighan<br>
 
-_Cast (in order of appearance):_<br>
+**Cast (in order of appearance)<br>
 
-Connor Swindells _(David Stirling)_
+Connor Swindells _(David Stirling)_<br>
 
-Miles Jupp _(Major Knox)_
+Miles Jupp _(Major Knox)_<br>
 
-Beru Tessema _(Canary barman)_
+Beru Tessema _(Canary barman)_<br>
 
-Michael Shelford _(Australian soldier 1)_
+Michael Shelford _(Australian soldier 1)_<br>
 
-Joe Corrigall _(Australian soldier 2)_
+Joe Corrigall _(Australian soldier 2)_<br>
 
-Jack O’Connell _(Paddy Mayne)_
+Jack O’Connell _(Paddy Mayne)_<br>
 
-Alfie Allen _(Jock Lewes)_
+Alfie Allen _(Jock Lewes)_<br>
 
-Corin Silva _(Jim Almonds)_
+Corin Silva _(Jim Almonds)_<br>
 
-Jacob Ifan _(Pat Riley)_
+Jacob Ifan _(Pat Riley)_<br>
 
-James Wilbraham _(Guardsman Roberts)_
+James Wilbraham _(Guardsman Roberts)_<br>
 
-N.G. Rees _(wounded man 1)_
+N.G. Rees _(wounded man 1)_<br>
 
-Andrew MacNaughton _(wounded man 2)_
+Andrew MacNaughton _(wounded man 2)_<br>
 
-Julian Mileta _(wounded man 3)_
+Julian Mileta _(wounded man 3)_<br>
 
-Amir El-Masry _(Dr Gamal)_
+Amir El-Masry _(Dr Gamal)_<br>
 
-Dónal Finn _(Eoin McGonigal)_
+Dónal Finn _(Eoin McGonigal)_<br>
 
-Sofia Boutella _(Eve Mansour)_
+Sofia Boutella _(Eve Mansour)_<br>
 
-Ramzan Miah _(snooker player)_
+Ramzan Miah _(snooker player)_<br>
 
-Bradley Banton _(De Havilland pilot)_
+Bradley Banton _(De Havilland pilot)_<br>
 
-Anthony Calf _(Stirling’s father)_
+Anthony Calf _(Stirling’s father)_<br>
 
-UK 2022©
+UK 2022©<br>
 
-60 mins
+60 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDcyNjAzMl19
+eyJoaXN0b3J5IjpbMTMyNzI4NTQwMF19
 -->
