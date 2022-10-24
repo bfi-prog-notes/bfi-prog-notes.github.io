@@ -86,49 +86,49 @@ _ADR Editor_: William C. Carruth
 _Foley_: Sarah Monet  
 _Foley Walker_: Robin Harllon  
 _Foley Recordists_: Dorothy Wright, Eric Gotthelf  
-_Foley Editor_: David L. Horton Jr, Scot A. Tinsley
-_Stunt Co-ordinator_: Charles Picerni
-_Weapons Specialist_: Michael Papac
-_Animal Trainer_: Paul Calabria
+_Foley Editor_: David L. Horton Jr, Scot A. Tinsley  
+_Stunt Co-ordinator_: Charles Picerni  
+_Weapons Specialist_: Michael Papac  
+_Animal Trainer_: Paul Calabria  
 
-**Cast**
-Christian Slater _(Clarence Worley)_
-Patricia Arquette _(Alabama Whitman)_
-Dennis Hopper _(Clifford Worley)_
-Val Kilmer _(Elvis Presley, mentor)_
-Gary Oldman _(Drexl Spivey)_
-Brad Pitt _(Floyd, Dick’s roommate)_
-Christopher Walken _(Vincenzo Coccotti)_
-Bronson Pinchot _(Elliot Blitzer)_
-Samuel L. Jackson _(Big Don)_
-Michael Rapaport _(Dick Ritchie)_
-Saul Rubinek _(Lee Donowitz)_
-Conchata Ferrell _(Mary Louise Ravencroft)_
-James Gandolfini _(Virgil)_
-Anna Thomson _(Lucy)_
-Victor Argo _(Lenny)_
-Paul Bates _(Marty)_
-Chris Penn _(Nicky Dimes)_
-Tom Sizemore _(Cody Nicholson)_
-Said Faraj _(burger man)_
-Gregory Sporleder _(burger stand customer)_
-Maria Pitillo _(Kandi)_
-Frank Adonis _(Frankie)_
-Kevin Corrigan _(Marvin)_
-Paul Ben-Victor _(Luca)_
-Michael Beach _(Wurlitzer)_
-Joe D’Angerio _(police radio operator)_
-John Bower _(detective)_
-John Cenatiempo _(squad cop 1)_
-Eric Allan Kramer _(Boris)_
-Patrick John Hurley _(Monty)_
-Dennis Garber_,_ Scott Evers _(lobby cops)_
-Hilary Klym _(running cop)_
-Steve Gonzales _(LA officer)_
-Laurence Mason _(Floyd D)_
+**Cast**  
+Christian Slater _(Clarence Worley)_  
+Patricia Arquette _(Alabama Whitman)_  
+Dennis Hopper _(Clifford Worley)_  
+Val Kilmer _(Elvis Presley, mentor)_  
+Gary Oldman _(Drexl Spivey)_  
+Brad Pitt _(Floyd, Dick’s roommate)_  
+Christopher Walken _(Vincenzo Coccotti)_  
+Bronson Pinchot _(Elliot Blitzer)_  
+Samuel L. Jackson _(Big Don)_  
+Michael Rapaport _(Dick Ritchie)_  
+Saul Rubinek _(Lee Donowitz)_  
+Conchata Ferrell _(Mary Louise Ravencroft)_  
+James Gandolfini _(Virgil)_  
+Anna Thomson _(Lucy)_  
+Victor Argo _(Lenny)_  
+Paul Bates _(Marty)_  
+Chris Penn _(Nicky Dimes)_  
+Tom Sizemore _(Cody Nicholson)_  
+Said Faraj _(burger man)_  
+Gregory Sporleder _(burger stand customer)_  
+Maria Pitillo _(Kandi)_  
+Frank Adonis _(Frankie)_  
+Kevin Corrigan _(Marvin)_  
+Paul Ben-Victor _(Luca)_  
+Michael Beach _(Wurlitzer)_  
+Joe D’Angerio _(police radio operator)_  
+John Bower _(detective)_  
+John Cenatiempo _(squad cop 1)_  
+Eric Allan Kramer _(Boris)_  
+Patrick John Hurley _(Monty)_  
+Dennis Garber, Scott Evers _(lobby cops)_  
+Hilary Klym _(running cop)_  
+Steve Gonzales _(LA officer)_  
+Laurence Mason _(Floyd D)_  
 
 USA 1993  
 119 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjI2Njk3MF19
+eyJoaXN0b3J5IjpbLTY4NTU5ODI3Ml19
 -->
