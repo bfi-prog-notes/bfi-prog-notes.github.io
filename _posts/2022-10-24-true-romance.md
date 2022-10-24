@@ -17,133 +17,66 @@ Such routines are problematic and cannot be glibly dismissed (the Sicilian/nigge
 
 **TRUE ROMANCE**
 _Directed by_: Tony Scott
-
 _©_: Morgan Creek Productions
-
 _A_ Morgan Creek _production_
-
 _Produced in association with_: Davis Films
-
 _Presented by_: James G. Robinson
-
 _Distributed by_: Warner Bros.
-
-_Executive Producers_: James G. Robinson, Gary Barber, Bob Weinstein,
-
-Harvey Weinstein, Stanley Margolis
-
+_Executive Producers_: James G. Robinson, Gary Barber, Bob Weinstein, Harvey Weinstein, Stanley Margolis
 _Produced by_: Bill Unger, Steve Perry, Samuel Hadida
-
 _Co-producers_: Don Edmonds, James W. Skotchdopole
-
-_Associate Producers_: Lisa Cogswell,
-
-Spencer Franklin, Gregory S. Manson
-
+_Associate Producers_: Lisa Cogswell, Spencer Franklin, Gregory S. Manson
 _Production Associate_: Debbie Pinckes
-
 _Unit Production Manager_: S.H. Perry
-
 _Production Co-ordinator_: Spencer Franklin
-
 _Production Accountant_: Gregory S.Manson
-
 _Location Managers_: Janice Polley, Deborah J. Page
-
 _Post-production Supervisor_: Jody Levin
-
 _1st Assistant Director_: James W. Skotchdopole
-
 _Script Supervisor_: P.R. Tooke
-
 _Casting_: Risa Bramon, Billy Hopkins
-
 _Written by_: Quentin Tarantino
-
 _Director of Photography_: Jeffrey L. Kimball
-
 _Camera Operators_: Michael A. Genne,
-
 Gregory Lundsgaard, Ray De La Motte
-
 _Steadicam Operator_: Gregory Lundsgaard
-
 _1st Assistant Camera_: Kenny Nishino, Dan Gold
-
 _Chief Lighting Technicians_: Dan Delgado, Frank Mathews
-
 _Key Grip_: J. Michael Popovich
-
 _Dolly Grip_: Michael L. Schwake
-
 _Grips_: Hilary Klym, Mark Meyers,‘Slick’ Rick Rader
-
 _Video Assist_: Richmond G. Cogswell
-
 _Still Photographer_: Ron Phillips
-
 _Special Effects Co-ordinator_: Mike Meinardus
-
 _Special Effects_: Robert Henderson, Larry Shorts
-
 _Edited by_: Michael Tronick, Christian Wagner
-
-_1st Assistant Film Editors_: Tony S. Ciccone, Kenneth B. Blackwell,
-
-Joe Mosca
-
+_1st Assistant Film Editors_: Tony S. Ciccone, Kenneth B. Blackwell, Joe Mosca
 _Production Designer_: Benjamín Fernández
-
 _Art Director_: James J. Murakami
-
 _Assistant Art Directors_: Lou Montejano, Nancy Garber
-
 _Set Decorator_: Thomas L. Roysden
-
 _Property Masters_: Michael Blaze, Rick Chavez
-
 _Swing Gang_: Tom J. Furginson
-
 _Construction Co-ordinator_: Michael Muscarella
-
 _Construction Painter_: Anthony Paronelli
-
 _Costume Designer_: Susan Becker
-
 _Costume Supervisor_: Hugo Peña
-
 _Key Costumer_: Dawn Y. Line
-
 _Make-up_: Ellen Wong
-
 _Tattoo Design_: Mark Mahoney
-
 _Prosthetic Make-up Design_: Frank Carrisosa
-
 _Hairstylists_: Ron Scott, Mary Barnard
-
 _Title Design_: Nina Saxon Film Design, Cinema Research Corporation
-
 _Process Compositing_: Hansard
-
 _Colour Timers_: Ray Morfino, Saúl Escobedo, Boyd Steer
-
 _Negative Cutting_: Jay Wiechman
-
 _Filmed in_: Panavision, Kodak Film
-
 _Music by_: Hans Zimmer, Mark Mancina, John Van Tongeren
-
 _Music Supervisor_: Maureen Crowe
-
 _Music Editor_: Thomas Milano
-
 _Score Mixers/Recorder_: Jay Rifkin, Matt Patterson, Bob Hile
-
 _Production Sound Mixer_: William B. Kaplan
-
 _Boom Persons_: Earl F. Sampson, Jules Strasser III
-
 _Re-recording Mixers_: Kevin O’Connell, Rick Kline
 
 _Supervising Sound Editor_: Robert G. Henderson
@@ -243,5 +176,5 @@ Laurence Mason _(Floyd D)_
 USA 1993  
 119 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDc0MjY2Nl19
+eyJoaXN0b3J5IjpbLTEyODU3MzA0NDZdfQ==
 -->
