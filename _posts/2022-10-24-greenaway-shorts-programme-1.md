@@ -29,30 +29,25 @@ How much are his films made as absurdist impromptus, deliberately choosing minim
 
 **Making a Splash**  
 Amoral, voyeuristic pleasures come from Greenaway’s TV short _Making a Splash_, showing people of all ages and genders ‘at home’ in water: a bleak, existential vision in which the only ‘moral’ poles are those labelled ‘swimming’ and ‘drowning’.  
-**Tony Rayns, _Monthly Film Bulletin_, October 1988*
+**Tony Rayns, _Monthly Film Bulletin_, October 1988**  
 
-**Inside Rooms: 26 Bathrooms, London and Oxfordshire**
-
+**Inside Rooms: 26 Bathrooms, London and Oxfordshire**  
 Documentary guide to the art of ablution in a sight-seeing tour of British bathrooms, with people soaking, dozing, eating breakfast and playing with toy boats.
 
-**INTERVALS**
-
+**INTERVALS**  
 _Filmmaker_: Peter Greenaway  
 _Production Company_: Peter Greenaway  
-_Title Design_: Kenneth Breese
+_Title Design_: Kenneth Breese  
 
-UK 1969
+UK 1969  
+7 mins  
 
-7 mins
-
-**A WALK THROUGH H: THE REINCARNATION OF AN ORNITHOLOGIST**
-
+**A WALK THROUGH H: THE REINCARNATION OF AN ORNITHOLOGIST**  
 _A Film by_: Peter Greenaway  
 _Production Company_: British Film Institute Production Board  
 _Screenplay_: Peter Greenaway *  
 _Camera_: John Rosenberg  
-_Rostrum Camera_: Bert Walker
-
+_Rostrum Camera_: Bert Walker  
 _Editor_: Peter Greenaway *  
 _Production Designer_: Peter Greenaway *  
 _Maps by_: Peter Greenaway  
@@ -68,45 +63,39 @@ _Piano/Harmonium_: Michael Nyman *
 _Dubbing Mixer_: Tony Anscombe  
 _RSPB Film Library Adviser_: David Layton *  
 _Ornithological Adviser_: Donald Lazenby, Tulse Luper *  
-_With thanks for the co-operation of_: Jean Williams, Donald Lazenby
+_With thanks for the co-operation of_: Jean Williams, Donald Lazenby  
 
-**Cast**
-
+**Cast**  
 _Narrated by:_ Colin Cantlie  
-Jean Williams _(receptionist) *_
+Jean Williams _(receptionist) *_  
 
-UK 1978
-
-42 mins
+UK 1978  
+42 mins  
 
 * Uncredited
 
-**MAKING A SPLASH**
-
+**MAKING A SPLASH**  
 _Director_: Peter Greenaway  
 _Production Company_: Media Software International  
 _Producer_: Pat Marshall  
-_Music_: Michael Nyman
+_Music_: Michael Nyman  
 
-UK 1984
+UK 1984  
+25 mins  
 
-25 mins
-
-**INSIDE ROOMS: 26 BATHROOMS, LONDON AND OXFORDSHIRE**
-
+**INSIDE ROOMS: 26 BATHROOMS, LONDON AND OXFORDSHIRE**  
 _Director_: Peter Greenaway  
 _Production Company_: Artifax Productions  
 _Producer_: Sophie Balhetchet  
 _Music_: Michael Nyman  
-_Transmission Company_: Channel Four
+_Transmission Company_: Channel Four  
 
-UK 1985
+UK 1985  
+26 mins  
 
-26 mins
+Total running time 100min  
 
-Total running time 100min
-
-Shorts Programme 2 will follow in December
+Shorts Programme 2 will follow in December  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzU2MzgwM119
+eyJoaXN0b3J5IjpbLTQ5NjU0NTI3M119
 -->
