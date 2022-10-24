@@ -46,50 +46,30 @@ _Sound Recordist:_ Judi Lee Headman<br>
 _Re-recording Mixer:_ Nigel Squibbs<br>
 _Stunt Co-ordinator:_ Neil Finnighan<br>
 
-**Cast (in order of appearance)<br>
-
+**Cast (in order of appearance)**<br>
 Connor Swindells _(David Stirling)_<br>
-
 Miles Jupp _(Major Knox)_<br>
-
 Beru Tessema _(Canary barman)_<br>
-
 Michael Shelford _(Australian soldier 1)_<br>
-
 Joe Corrigall _(Australian soldier 2)_<br>
-
 Jack O’Connell _(Paddy Mayne)_<br>
-
 Alfie Allen _(Jock Lewes)_<br>
-
 Corin Silva _(Jim Almonds)_<br>
-
 Jacob Ifan _(Pat Riley)_<br>
-
 James Wilbraham _(Guardsman Roberts)_<br>
-
 N.G. Rees _(wounded man 1)_<br>
-
 Andrew MacNaughton _(wounded man 2)_<br>
-
 Julian Mileta _(wounded man 3)_<br>
-
 Amir El-Masry _(Dr Gamal)_<br>
-
 Dónal Finn _(Eoin McGonigal)_<br>
-
 Sofia Boutella _(Eve Mansour)_<br>
-
 Ramzan Miah _(snooker player)_<br>
-
 Bradley Banton _(De Havilland pilot)_<br>
-
 Anthony Calf _(Stirling’s father)_<br>
 
 UK 2022©<br>
-
 60 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzI4NTQwMF19
+eyJoaXN0b3J5IjpbLTk0NjMzOTYyNF19
 -->
