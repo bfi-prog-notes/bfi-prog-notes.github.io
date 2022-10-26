@@ -1,21 +1,17 @@
-<![endif]-->
 
-For one night only, we present three strange, otherworldly horror artefacts from the  
-BFI National Archive. Inspired by Tony Scott’s _The Hunger_ and the radical avant-garde,  
-_The Mark of Lilith_ (1986) tells the story of Zena, a Black lesbian film researcher who meets Lillia, a white bisexual vampire, at a horror movie. In _Magic Cottage_, aka _Zombie Cottage_ (1993), a man drunkenly stumbles into a park’s toilets and becomes beholden to a powerful new sexual compulsion. And in _Catherine De Medicis Part 2_ (1984),  
-DJ Princess Julia and artist Holly Warburton engage in a shadowy, necromantic rite. These films powerfully illustrate the subversive, political possibilities of horror when working outside the industry and traditional modes of practice.
+
+For one night only, we present three strange, otherworldly horror artefacts from the  BFI National Archive. Inspired by Tony Scott’s _The Hunger_ and the radical avant-garde,  _The Mark of Lilith_ (1986) tells the story of Zena, a Black lesbian film researcher who meets Lillia, a white bisexual vampire, at a horror movie. In _Magic Cottage_, aka _Zombie Cottage_ (1993), a man drunkenly stumbles into a park’s toilets and becomes beholden to a powerful new sexual compulsion. And in _Catherine De Medicis Part 2_ (1984),  DJ Princess Julia and artist Holly Warburton engage in a shadowy, necromantic rite. These films powerfully illustrate the subversive, political possibilities of horror when working outside the industry and traditional modes of practice.
 
 We look forward to welcoming filmmakers Joe Orr, and Polly Gladwin and Bruna Fionda, for a conversation with BFI National Archive curator William Fowler as part of the event.
 
-**The filmmakers on ‘The Mark of Lilith’**
-
+**The filmmakers on ‘The Mark of Lilith’**  
 Bruna and Polly met at The London Filmmakers Co-op and went onto film school together. We set up the group ‘Women Challenge Film Education’ that brought together women from different colleges. This is how we met Zach. We were all part of a close-knit group of women film students in South London, exploring feminist and lesbian issues.
 
 In 1985 we collaborated to make our graduation film _The Mark of Lilith_. The idea germinated whilst on holiday in Italy. Zach had a thing for vampires; it turned out we all did. We had loved Tony Scott’s _The Hunger_ (1983)  starring Catherine Deneuve, Susan Sarandon and David Bowie.  We also paid homage to other vampire films, including _Daughters of Darkness_ (Harry Kumel, 1971), based on 16thC Countess Elizabeth Bathory, a prodigious serial killer.
 
 The vampire genre felt open to lesbian feminist subversion, able to tackle and incorporate notions of ‘the Other’, and a great vehicle for looking at sexuality, race, and gender issues. Barbara Creed’s article ‘Horror and the Monstrous-Feminine: An Imaginary Abjection’, (_Screen_,  1986), was a strong influence. We explored the notion of patriarchy and the control of women’s sexuality in film and mythology through demonising and marginalising the transgressive woman.
 
-Lilith from Jewish folklore was the predecessor to Eve. She was Adam’s first very unsatisfactory and unsatisfied wife who refused to lie beneath Adam during sexual intercourse. Lilith ended up as the Lamia demon**-**woman entering men’s dreams, sucking their lifeblood, and sending them ‘terrible’ fantasies.
+Lilith from Jewish folklore was the predecessor to Eve. She was Adam’s first very unsatisfactory and unsatisfied wife who refused to lie beneath Adam during sexual intercourse. Lilith ended up as the Lamia demon-woman entering men’s dreams, sucking their lifeblood, and sending them ‘terrible’ fantasies.
 
 We aimed to deconstruct and rescue the vampire from the status of purely aberrant, shifting the onus back onto society and audience expectations. Only in a misogynist society could female power and sexuality be seen as a threat demanding repression. Our film portrays Lillia’s journey to self-awareness.
 
@@ -35,9 +31,8 @@ The classic vampire sequence was shot at Nunhead Cemetery, a Victorian cemetery 
 
 We are all listed as directors because we all made the decisions about the direction of the film. Whilst we divided tasks on the shoot, decisions were made collectively. Collaborative working was based on our feminist ideals.
 
-Making _The Mark of Lilith_ was exciting! It was a learning process, including working with a budget and schedule that were too tight. Nevertheless, it was well received at the time. It won the Arts Council Student Film and Video Arts Prize, which meant the film toured nationally and internationally. Screenings of the film were organised by our distributors, including several film festivals. Academics have written and continue to write about the film. Lilith has a life of its own and a place in the history of feminist filmmaking.
-
-_Short Sharp Shocks Vol 2_ Blu-ray booklet (BFI, 2021)
+Making _The Mark of Lilith_ was exciting! It was a learning process, including working with a budget and schedule that were too tight. Nevertheless, it was well received at the time. It won the Arts Council Student Film and Video Arts Prize, which meant the film toured nationally and internationally. Screenings of the film were organised by our distributors, including several film festivals. Academics have written and continue to write about the film. Lilith has a life of its own and a place in the history of feminist filmmaking.  
+**_Short Sharp Shocks Vol 2_ Blu-ray booklet (BFI, 2021)**
 
 **Joe Orr on ‘Magic Cottage**’
 
@@ -107,5 +102,5 @@ UK 1984
 
 25 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzMxOTU3XX0=
+eyJoaXN0b3J5IjpbLTMxNjY4NzAzMl19
 -->
