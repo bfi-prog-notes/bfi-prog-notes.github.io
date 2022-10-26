@@ -64,26 +64,34 @@ Patricia St. Hilaire _(waitress)_
 Michael Cudlip _(man in mac)_  
 Faye Chang, Nallia Chang-Hilliman, Victoria Chapman, Nigel Court, Mick Dwyer, Sheila Eaton, Jimmy Edmonds, Bruna Fionda, Linda Flint, Steve Forster, Angi Friday, Patti Gibson, Polly Gladwin, Sally Hall, Jane Harrris, Richard Humphries, Earlly Jennings, Zachary Mack-Nataf, Laura Mulvey, Claire Palmer, Ingrid Pollard, Hedra Sarid, Pauline Stride, Sue Taylor, Hrafnhildur Thorsteinsdottir, Wendy Williams
 
-UK 1986
-
+UK 1986  
 32 mins
 
-**MAGIC COTTAGE**
-
+**MAGIC COTTAGE**  
 _Director_: Joe Orr  
-_Camera_: Lynne Ramsay
-
-UK 1993
-
+_Camera_: Lynne Ramsay  
+UK 1993  
 20 mins
 
-**CATHERINE DE MEDICIS PART 2**
+**CATHERINE DE MEDICIS PART 2**  
+_Director:_ Steven Chivers  
+UK 1984  
+25 mins<br>
+<br>
 
-_Director:_ Steven Chivers
-
-UK 1984
-
-25 mins
+**REGULAR PROGRAMME**<br>
+**Seniors: Mandy + intro**<br>
+Mon 31 Oct 14:00<br>
+**Relaxed Screening:  Pontypool + intro and discussion**<br>
+Mon 31 Oct 18:10<br>
+**Woman with a Movie Camera Preview: Cette Maison + Q&A with director  
+Miryam Charles**<br>
+Mon 31 Oct 20:30<br>
+**BUG: Video Nasties**<br>
+Fri 4 Nov 20:45; Fri 18 Nov 20:45<br>
+**Relaxed Screening:  The Fly + intro and discussion**<br>
+Mon 28 Nov<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTM0MzU3OV19
+eyJoaXN0b3J5IjpbMjMwODA0Njk1XX0=
 -->
