@@ -34,46 +34,29 @@ We are all listed as directors because we all made the decisions about the direc
 Making _The Mark of Lilith_ was exciting! It was a learning process, including working with a budget and schedule that were too tight. Nevertheless, it was well received at the time. It won the Arts Council Student Film and Video Arts Prize, which meant the film toured nationally and internationally. Screenings of the film were organised by our distributors, including several film festivals. Academics have written and continue to write about the film. Lilith has a life of its own and a place in the history of feminist filmmaking.  
 **_Short Sharp Shocks Vol 2_ Blu-ray booklet (BFI, 2021)**
 
-**Joe Orr on ‘Magic Cottage**’
-
+**Joe Orr on ‘Magic Cottage**’  
 _Magic Cottage_ was shot entirely on Kodachrome Super 8 film in the summer of 1993. It was funded by compensation money from the Royal Mail, after they lost the master tape of my previous short film, _Nelson Mandela Is Not Ugly_. This is ironic, because the master tape of _Magic Cottage_ has now also somehow got lost, and what you are watching tonight is a Snappy Snaps DVD conversion of a VHS copy of the original master tape.
 
 In 2008 _The Guardian_, claimed Bruce LaBruce’s _Otto_ was the first ever gay zombie film. They were wrong. _Magic Cottage_ predates that film by 14 years. When it was originally submitted to the BFI Lesbian & Gay Festival it was rejected, as the programmer felt it was somehow a judgemental comment on the AIDS crisis of the time. It wasn’t, but once I added the exciting disclaimer at the start clarifying this, the film was accepted for the following year’s festival.
 
 The film was a study of sexual addiction, and how like all addictions, the addict becomes a sort of zombie. I shot the film almost entirely alone, just me and the actors, but for the scenes in the public toilet, the _Magic Cottage_ itself, I asked for some help. I knew Lynne Ramsay at the time, and she kindly agreed to do the tricky cinematography inside the public toilet itself. I remember her being incredibly focused during what was a very chaotic and frankly amateur shoot; even then she was formidable and very determined to firmly explore her own ideas, and I didn’t argue with her. After the shoot I sold her the Super 8 camera used on the film, for £100. I recruited her boyfriend at the time, Marc, to play the footballer in the final sequence, and repaid the favour by helping Lynne out on one of her earliest short experimental films, shot in the garden of Marc’s parents’ house.
 
-I made two more films after _Magic Cottage_ before being pulled away by the more  
-instant allure of DJing.
+I made two more films after _Magic Cottage_ before being pulled away by the more  instant allure of DJing.  
+**Joe Orr**
 
-Joe Orr
+**Catherine De Medicis Part 2**  
+DJ Princess Julia and artist Holly Warburton engage in a highly theatrical, arcane, necromantic rite. A particularly ornate, gothic exploration of the shadow world, beautifully realised on Super-8.  
+**BFI London Film Festival 2013 catalogue**
+<br><br>
 
-**Catherine De Medicis Part 2**
-
-DJ Princess Julia and artist Holly Warburton engage in a highly theatrical, arcane, necromantic rite. A particularly ornate, gothic exploration of the shadow world, beautifully realised on Super-8.
-
-BFI London Film Festival 2013 catalogue
-
-<![endif]-->
-
-**THE MARK OF LILITH**
-
-_Directors_: Bruna Fionda, Polly Gladwin,  
-Zachary Mack-Nataf  
+**THE MARK OF LILITH**  
+_Directors_: Bruna Fionda, Polly Gladwin,  Zachary Mack-Nataf  
 _Production Companies_: Re-Vamp Productions, London College of Printing  
-_Production Team_: Paolo Bazzoni,  
-Sara Chambers, Paul Clarke, Victoria Chapman, Paul Denby, Sheila Eaton,  
-Jimmy Edmonds, Ohna Felby, Bruna Fionda, Linda Flint, Sandy Gilmour,  
-Polly Gladwin, Rachel Gladwin, Sally Hall, Jane Harris, Rosalind Hewitt, Miriam Ludbrook, Zuni Luni, Zachary Mack-Nataf, Cassie McFarlane, Susan Morse, Barbara Nicholls, Claire Palmer, Ingrid Pollard,  
-Paul Preece, Pauline Stride, Hrafnhildur Thorsteinsdottir, Sue Underwood,  
-Wendy Williams, Veronica Wilson  
+_Production Team_: Paolo Bazzoni,  Sara Chambers, Paul Clarke, Victoria Chapman, Paul Denby, Sheila Eaton,  Jimmy Edmonds, Ohna Felby, Bruna Fionda, Linda Flint, Sandy Gilmour,  Polly Gladwin, Rachel Gladwin, Sally Hall, Jane Harris, Rosalind Hewitt, Miriam Ludbrook, Zuni Luni, Zachary Mack-Nataf, Cassie McFarlane, Susan Morse, Barbara Nicholls, Claire Palmer, Ingrid Pollard,  Paul Preece, Pauline Stride, Hrafnhildur Thorsteinsdottir, Sue Underwood,  Wendy Williams, Veronica Wilson  
 _Music_: Miriam Ludbrook, Zuni Luni  
-_Post-production_: Paul Clarke, Bruna Fionda,  
-Polly Gladwin, Miriam Ludbrook, Zuni Luni,  
-Zachary Mack-Nataf, Paul Preece,  
-Pauline Stride
+_Post-production_: Paul Clarke, Bruna Fionda,  Polly Gladwin, Miriam Ludbrook, Zuni Luni,  Zachary Mack-Nataf, Paul Preece,  Pauline Stride
 
-_Cast:_
-
+**Cast**  
 Pamela Lofton _(Zena)_  
 Susan Franklyn _(Lillia)_  
 Jeremy Peters _(Luke)_  
@@ -102,5 +85,5 @@ UK 1984
 
 25 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjY4NzAzMl19
+eyJoaXN0b3J5IjpbLTY0NTM0MzU3OV19
 -->
