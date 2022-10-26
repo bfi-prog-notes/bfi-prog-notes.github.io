@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Queer Horror and Experimental Magic Films from the BFI National Archive
+published: true
+date: 2022-10-26
+readtime: true
+categories: ['EXPERIMENTA']
+tags: [Horror, Experimental, Shorts]
+metadata: 
+pdf: '2022-10-26-queer-horror.pdf'
+---
 
 For one night only, we present three strange, otherworldly horror artefacts from the  BFI National Archive. Inspired by Tony Scott’s _The Hunger_ and the radical avant-garde,  _The Mark of Lilith_ (1986) tells the story of Zena, a Black lesbian film researcher who meets Lillia, a white bisexual vampire, at a horror movie. In _Magic Cottage_, aka _Zombie Cottage_ (1993), a man drunkenly stumbles into a park’s toilets and becomes beholden to a powerful new sexual compulsion. And in _Catherine De Medicis Part 2_ (1984),  DJ Princess Julia and artist Holly Warburton engage in a shadowy, necromantic rite. These films powerfully illustrate the subversive, political possibilities of horror when working outside the industry and traditional modes of practice.
 
@@ -92,6 +102,24 @@ Fri 4 Nov 20:45; Fri 18 Nov 20:45<br>
 **Relaxed Screening:  The Fly + intro and discussion**<br>
 Mon 28 Nov<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjMwODA0Njk1XX0=
 -->
