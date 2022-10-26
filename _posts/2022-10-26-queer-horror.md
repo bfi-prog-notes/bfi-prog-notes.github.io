@@ -27,7 +27,7 @@ We aimed to deconstruct and rescue the vampire from the status of purely aberran
 
 We found the queer, erotic pleasure of horror enjoyable, but tired of seeing the female as victim and wanted our heroines to challenge that. Lillia had to define her own sexuality. We wanted our audience to feel empowered by our female protagonists. Subverting and challenging the rules of genre was crucial. We latched onto the idea of ‘revamping’ the vampire genre. ‘ReVamp Productions’ was born.
 
-We had long conversations with our tutor Laura Mulvey regarding her work on the ‘male gaze’ and the ‘mirror phase’. (‘Visual Pleasure and Narrative Cinema_’_ Mulvey_, Screen,_ 1975). Mirrors are a familiar trope in the vampire genre. Lillia’s journey to define her own needs and desires begins when she first glimpses her own reflection.
+We had long conversations with our tutor Laura Mulvey regarding her work on the ‘male gaze’ and the ‘mirror phase’. (‘Visual Pleasure and Narrative Cinema’, Mulvey, _Screen_ 1975). Mirrors are a familiar trope in the vampire genre. Lillia’s journey to define her own needs and desires begins when she first glimpses her own reflection.
 
 We borrowed ideas from Brecht and Godard such as ‘breaking the fourth wall’ for an ‘alienation effect’; to hinder the audience from identifying with underlying dominant ideologies and points of view of mainstream cinematic production.
 
