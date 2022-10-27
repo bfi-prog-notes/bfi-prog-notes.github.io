@@ -1,6 +1,6 @@
 
 
-Traveling to Detroit for a job interview, a young woman books a rental home. But when she arrives late at night, she discovers that the house is double-booked, and a strange man is already staying there. Against her better judgement, she decides to spend the evening but soon discovers that there’s a lot more to fear than just an unexpected houseguest.
+Travelling to Detroit for a job interview, a young woman books a rental home. But when she arrives late at night, she discovers that the house is double-booked, and a strange man is already staying there. Against her better judgement, she decides to spend the evening but soon discovers that there’s a lot more to fear than just an unexpected houseguest.
 
 _Barbarian_ is a horror film with an ingenious yet very relatable premise, particularly in times when people are forgoing traditional lodging like hotels and motels and instead booking short-term stays through services like Airbnb, HomeAway, Vrbo, etc. But, like Janet Leigh’s character Marion Crane when she checked into the Bates Motel in Alfred Hitchcock’s classic thriller _Psycho_, you never really know what awaits you when you spend the night at someplace new. And you’re especially vulnerable when you arrive late at night and there’s a convention in town, making it impossible to find any alternatives should your accommodations not be to your liking.
 
@@ -22,8 +22,7 @@ Still, Cregger was able to find ways to inject humour into the script.
 
 He admits, ‘That wasn’t a conscious decision. It’s just that, as a writer, I naturally have a rhythm that I think lends itself towards comedy. So, I decided to embrace that. I didn’t want this to feel like a comedy first; it’s a horror movie first. But I think that it’s a great palate cleanser – that a great release can come when, after a scare, you’re allowed to laugh, and I definitely want to encourage people to laugh during this movie.’
 
-Once his screenplay was finished, Cregger sent it around to a lot of places that turned it down. Just as he was about to move on to focusing on another project, he heard from two young producers who ran a company called BoulderLight, Raphael Margules and J.D. Lifshitz, who were enthusiastic about it and agreed to produce it. They brought it to Vertigo Entertainment’s Roy Lee, producer of such films as _The Departed_, _The Ring_, _It_, _The Grudge_ and  
-_The Lego Movie_, who also loved it and agreed to partner with them on it.
+Once his screenplay was finished, Cregger sent it around to a lot of places that turned it down. Just as he was about to move on to focusing on another project, he heard from two young producers who ran a company called BoulderLight, Raphael Margules and J.D. Lifshitz, who were enthusiastic about it and agreed to produce it. They brought it to Vertigo Entertainment’s Roy Lee, producer of such films as _The Departed_, _The Ring_, _It_, _The Grudge_ and _The Lego Movie_, who also loved it and agreed to partner with them on it.
 
 Cregger describes his experience getting the good news from Lee. ‘You know, the phone call that you always kind of hope you’ll get one day? I actually got that phone call, and once Roy signed on, the train left the station real fast and, and things got serious. So, you never know. It’s 9 a.m. in the morning, I’m in bed playing video games in my underwear, the phone rings, I almost didn’t answer it, and boom, life changed. It’s pretty cool.’
 
@@ -37,23 +36,17 @@ Says Cregger, ‘It was just one of those miracle things where we got saved by t
 
 He describes the film as ‘a roller coaster that is designed to be seen in a theatre. If you go to a theatre, you will scream, you will laugh, you will have a blast. I’m not saying that you won’t have a good time watching it at home, but you want to go on a roller coaster at a theme park, not on virtual reality goggles. That’s the difference.’
 
-Continues Cregger, ‘It’s supposed to be a big midnight movie theatre experience where you are screaming, grabbing the person next to you and then laughing right after. My favourite horror movie experiences are always in a theatre, and I’m always on a roller coaster. And that’s the goal. There’s some social themes kind of being explored in this movie, and if people come away with it and have a discussion about those themes, great. That’s fine with me. That’s not the goal. I don’t want this movie to be too satisfied with itself. I’m not trying to be didactic. I just want people to have a blast. So, I hope it’s a roller coaster. And I think it is.’
+Continues Cregger, ‘It’s supposed to be a big midnight movie theatre experience where you are screaming, grabbing the person next to you and then laughing right after. My favourite horror movie experiences are always in a theatre, and I’m always on a roller coaster. And that’s the goal. There’s some social themes kind of being explored in this movie, and if people come away with it and have a discussion about those themes, great. That’s fine with me. That’s not the goal. I don’t want this movie to be too satisfied with itself. I’m not trying to be didactic. I just want people to have a blast. So, I hope it’s a roller coaster. And I think it is.’  
+**Production notes**
+<br><br>
 
-Production notes
-
-<![endif]-->
-
-**BARBARIAN**
-
+**BARBARIAN**  
 _Directed by_: Zach Cregger  
 _A_ BoulderLights Pictures/Vertigo Entertainment _production_  
 _Presented by_: Regency Enterprises  
 _In association with_: Almost Never Films, Hammerstone Studios  
-_Executive Producers_: Yariv Milchan,  
-Michael Schaefer, Natalie Lehmann,  
-Danny Chan, Alex Lebovici, Bill Skarsgård  
-_Produced by_: Arnon Milchan, Roy Lee,  
-Raphael Margules, J.D. Lifshitz  
+_Executive Producers_: Yariv Milchan,  Michael Schaefer, Natalie Lehmann, Danny Chan, Alex Lebovici, Bill Skarsgård  
+_Produced by_: Arnon Milchan, Roy Lee,  Raphael Margules, J.D. Lifshitz  
 _Line Producer_: Chris Abernathy  
 _Associate Producer_: Eric Tavitian  
 _Casting by_: Nancy Nayor  
@@ -63,8 +56,7 @@ _Editor_: Joe Murphy
 _Costume Designer_: Kiril Naumov  
 _Music by_: Anna Drubich
 
-_Cast:_
-
+**Cast**  
 Georgina Campbell _(Tess)_  
 Bill Skarsgård _(Keith)_  
 Justin Long _(AJ)_  
@@ -82,5 +74,5 @@ USA 2022
 
 Courtesy of 20th Century Studios
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDIzNDM5MTZdfQ==
+eyJoaXN0b3J5IjpbLTExNjk2OTYxNzldfQ==
 -->
