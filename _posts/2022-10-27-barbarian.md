@@ -68,11 +68,11 @@ Sophie Sorensen _(Bonnie)_
 Rachel Fowler _(Meg)_  
 J.R. Esposito _(Jeff)_
 
-USA 2022
-
+USA 2022  
 102 mins
 
 Courtesy of 20th Century Studios
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjk2OTYxNzldfQ==
+eyJoaXN0b3J5IjpbLTk3MTA2MDgyM119
 -->
