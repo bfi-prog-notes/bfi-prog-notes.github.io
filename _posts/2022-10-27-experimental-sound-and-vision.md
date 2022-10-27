@@ -67,33 +67,25 @@ UK 1975
 **BERLIN HORSE**  
 _Filmmaker_: Malcolm Le Grice  
 _Production Company_: Malcolm Le Grice  
-_Music_: Brian Eno
+_Music_: Brian Eno  
+UK 1970  
+8 mins  
 
-UK 1970
-
-8 mins
-
-**H IS FOR HOUSE**
-
+**H IS FOR HOUSE**  
 _Filmmaker_: Peter Greenaway  
 _Production Company_: Peter Greenaway  
-_Title Design_: Kenneth Breese
+_Title Design_: Kenneth Breese  
 
-_Cast:_  
-Colin Cantlie
+**Cast**  
+Colin Cantlie  
+UK 1970  
+8 mins  
 
-UK 1970
-
-8 mins
-
-**JESUS BLOOD (NEVER FAILED ME YET)**
-
+**JESUS BLOOD (NEVER FAILED ME YET)**  
 _Director_: Stephen Dwoskin  
-_Music_: Gavin Bryars
-
-UK 1972
-
-30 mins
+_Music_: Gavin Bryars  
+UK 1972  
+30 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwODY1NjA2LDMyMTU0NzMzNV19
+eyJoaXN0b3J5IjpbLTIzMzY0OTg5NCwzMjE1NDczMzVdfQ==
 -->
