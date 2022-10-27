@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Barbarian
+published: true
+date: 2022-10-27
+readtime: true
+categories: ['PREVIEW']
+tags: [Horror]
+metadata: 'USA 2022, 102 mins<br> Director: Zach Cregger'
+pdf: '2022-10-27-barbarian.pdf'
+---
 
 Travelling to Detroit for a job interview, a young woman books a rental home. But when she arrives late at night, she discovers that the house is double-booked, and a strange man is already staying there. Against her better judgement, she decides to spend the evening but soon discovers that there’s a lot more to fear than just an unexpected houseguest.
 
@@ -73,6 +83,47 @@ USA 2022
 
 Courtesy of 20th Century Studios
 <br><br>
+
+**NEW RELEASES**<br>
+**Decision to Leave (Heojil Kyolshim)**<br>
+From Mon 17 Oct<br>
+**Triangle of Sadness**<br>
+From Fri 28 Oct<br>
+**The Greenaway Alphabet**<br>
+From Fri 11 Nov<br>
+**Aftersun**<br>
+From Fri 18 Nov<br>
+**What Do We See When We Look at the Sky? (Ras vkhedavt, rodesac cas vukurebt?)**<br>
+From Fri 25 Nov<br>
+
+**RE-RELEASES**<br>
+**The Others**<br>
+From Mon 17 Oct<br>
+**Poltergeist**<br>
+From Fri 21 Oct<br>
+**Nil by Mouth**<br>
+From Fri 4 Nov (Preview on Thu 20 Oct 20:20; extended intro by Geoff Andrew, Programmer at Large on Fri 4 Nov 17:50; intro by Kieron Webb, Head of Conservation, BFI Archive on Mon 7 Nov 18:00)<br>
+**The Draughtsman’s Contract**<br>
+From Fri 11 Nov (+ intro by Kieron Webb, Head of Conservation, BFI National Archive on Fri 11 Nov 17:50)<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTk3MTA2MDgyM119
 -->
