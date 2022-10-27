@@ -1,3 +1,14 @@
+---
+layout: post
+title: Experimental Sound and Vision<b> Found Sounds, Lyrical Loops and Landscapes
+published: true
+date: 2022-10-27
+readtime: true
+categories: ['FRAMES OF MIND<br> THE FILMS OF PETER GREENAWAY']
+tags: [Experimental]
+metadata: 
+pdf: '2022-10-27-experimental-sound-and-vision.pdf'
+---
 
 _+ intro by author and musician David Toop (Thursday 17 November only)_
 
@@ -17,8 +28,7 @@ In conventional documentaries (such as those he worked on at the COl), the comme
 **Robert Brown, _Monthly Film Bulletin_, April 1982**  
 
 **Berlin Horse**  
-Repeated grainy close-ups of a tied horse running in circles are seen to be  
-re-filmed from the screen when the stark, abrupt image is distorted by changes of angle. Accompanied by a looped and phased soundtrack of melodic, hypnotic rhythms (by Brian Eno), the image is further transformed by reverse motion, different speeds, negative and roughly printed colour. Over the first image is superimposed a fragment of old film which shows a man leading a horse from a burning barn. This shot is also reprinted, solarised and coloured; the shot is flipped over and doubled, filling the screen with a dense contraflow of horses, men, flames and smoke in saturated colours, before the film ends as abruptly as it began.
+Repeated grainy close-ups of a tied horse running in circles are seen to be re-filmed from the screen when the stark, abrupt image is distorted by changes of angle. Accompanied by a looped and phased soundtrack of melodic, hypnotic rhythms (by Brian Eno), the image is further transformed by reverse motion, different speeds, negative and roughly printed colour. Over the first image is superimposed a fragment of old film which shows a man leading a horse from a burning barn. This shot is also reprinted, solarised and coloured; the shot is flipped over and doubled, filling the screen with a dense contraflow of horses, men, flames and smoke in saturated colours, before the film ends as abruptly as it began.
 
 The running horse in the first part of the film was originally shot in 8 mm. colour in the north German village of Berlin (not the city), and then blown up to 16 mm. black-and-white. The primary colours were added in printing with simple filters. The same process was applied to the second part, using a found fragment of Cecil Hepworth’s _The Burning Stable_ (1900). The film is assertively hand-made, drawing its rich tones and effects from the reworking of basic, even crude, elements. An early structural film, _Berlin Horse_ today looks more a glorious celebration of the primacy of light and movement than a sober study of film-as-material. Its bravura colour is akin to post-Warhol Underground graphics, but more rough-edged and painterly beneath the glowing surface. Startling, jagged images pour over each other in bleached monochrome or vivid reds, blues and yellows. The heightened colours and seething shapes are underscored by a percussive soundtrack, leading (especially in multi-screen projection) to a unique mixture of cinematic delirium and structural logic.
 
@@ -86,6 +96,54 @@ _Director_: Stephen Dwoskin
 _Music_: Gavin Bryars  
 UK 1972  
 30 mins  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMzY0OTg5NCwzMjE1NDczMzVdfQ==
--->
+<br>
+
+**FRAMES OF MIND: THE FILMS OF PETER GREENAWAY**  
+**A Zed & Two Noughts**  
+Tue 18 Oct 18:10; Sat 5 Nov 17:40; Sat 12 Nov 17:40; Mon 21 Nov 20:40; Sun 27 Nov 12:15  
+**Peter Greenaway: Frames of Mind Season Introduction**  
+Wed 19 Oct 18:10  
+**The Belly of an Architect**  
+Wed 19 Oct 20:30; Fri 18 Nov 18:20; Tue 22 Nov 18:10; Sat 26 Nov 15:30  
+**The Falls**  
+Sat 22 Oct 13:50; Sun 6 Nov 14:40  
+**The Cook, the Thief, His Wife & Her Lover**  
+Sun 23 Oct 15:30 (+ intro by Justin Johnson, Lead Programmer); Sat 12 Nov 14:55; Mon 28 Nov 17:50  
+**Drowning by Numbers**  
+Sun 23 Oct 18:00; Sat 19 Nov 14:30; Sun 27 Nov 18:00  
+**Peter Greenaway Shorts Programme 1**  
+Mon 24 Oct 18:10; Thu 10 Nov 20:40  
+**Experimental Sound and Vision: Found Sounds, Lyrical Loops and Landscapes**  
+Thu 27 Oct 18:15; Thu 17 Nov 18:15 (+ intro by author and musician David Toop)  
+**Prospero’s Books**  
+Tue 1 Nov 17:40; Sun 20 Nov 18:00  
+**Peter Greenaway: Pioneer of Cinema**  
+Sat 5 Nov 12:00-17:00  
+**The Unreliable Narrator: Adventures in Storytelling, Documentary and Misinformation**  
+Sun 6 Nov 12:40; Fri 25 Nov 21:00  
+**A TV Dante: Cantos 1-8**  
+Tue 15 Nov 18:20  
+**The Baby of Mâcon**  
+Wed 16 Nov 20:30; Fri 25 Nov 18:00; Mon 28 Nov 20:30  
+**The Pillow Book**  
+Fri 18 Nov 20:30; Thu 24 Nov 20:30; Tue 29 Nov 17:40  
+**8½ Women**  
+Sun 20 Nov 12:50; Wed 30 Nov 20:35  
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
