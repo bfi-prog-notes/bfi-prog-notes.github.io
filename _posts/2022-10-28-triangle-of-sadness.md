@@ -33,74 +33,73 @@ _Your films are very much rooted in European cinema, but_ Triangle of Sadness _i
 
 Yes, because there are nuances that I don’t know about in the English language that I know in Swedish. Having said that, my scenarios and themes are simple, and they have a universality, so it is easy for the actors to relate to them. I always work in the same way: during casting and rehearsals, I improvise the scenes with the actors; and I later use some of that material in the script when it is better than the original dialogue. If I am working with English-speaking actors, they can fill in any gaps I may have and make the language richer, more nuanced and so on. But I am ambivalent about making films in English since I’m critical about the dominance of Anglo-Saxon culture. It’s absurd what kind of influence it has over Sweden and Scandinavia.
 
-_Directors often talk about having ‘good’ or ‘bad’ luck when shooting – do you feel that you were blessed with_ Triangle of Sadness_?_
+_Directors often talk about having ‘good’ or ‘bad’ luck when shooting – do you feel that you were blessed with_ Triangle of Sadness _?_
 
 It was interesting. Just before we started to shoot in Greece, conflict was building between Turkey and Greece and we started to get nervous about that. Then, on the first day of the shoot, a storm was coming in and we were supposed to do a long tracking shot on a beach. At that point we decided, ‘Let’s go with the weather. If that’s the weather, then that’s how the scene is going to play out. Let’s use what we have.’ And I found that a happy-go-lucky kind of attitude made us much more relaxed, and very often issues solved themselves. Apart from the storm, we were very fortunate with the weather.
 
 We shot the exteriors on Christina O, the old Onassis yacht, which turned out to add quite a fun meta layer when we blew her up. That yacht is such a strong symbol of the elite of the 60s and 70s, and myriad famous, powerful men like Churchill have spent a lot of time on her. So we had nine days on the yacht, which was very expensive, and Covid was getting closer and closer and another lockdown was looming. In fact, we just managed to finish the shooting on the day before we went into another lockdown. Had the lockdown come a few days earlier, I don’t know how we could have finished the film.
 
-_Finally, do you see_ Force Majeure_,_ The Square _and_ Triangle of Sadness _as a loosely connected trilogy exploring masculinity in modern times?_
+_Finally, do you see_ Force Majeure _,_ The Square _and_ Triangle of Sadness _as a loosely connected trilogy exploring masculinity in modern times?_
 
 Yes, I started to think about this when I was writing _Triangle of Sadness_. All the men in these films are trying to deal with who they are supposed to be and what is expected of them. They are then put in a trap in order to see how they behave. For me, these three films have really been a way of setting up a dilemma for myself, of cornering myself. What would I do if I was dealing with this? As soon as the answer appears to be easy, then it’s not so interesting. But if it is hard, then I am interested.
 
-Production notes
+**Production notes**
+<br><br>
 
-<![endif]-->
-
-**TRIANGLE OF SADNESS**
+**TRIANGLE OF SADNESS**<br>
 
 _Director_: Ruben Östlund  
 ©: Plattform Produktion AB, Film i Väst,  
 Essential Filmproduktion GmbH, Coproduction Office Ltd., Société Parisienne de Production SARL, Coproduction Office ApS, British Broadcasting Corporation, The British Film Institute, Arte France Cinéma  
-_a_ Plattform Produktion _production_
+_a_ Plattform Produktion _production_<br>
 
 _In co-production with_: Essential Films, Coproduction Office, Sveriges Television, ZDF/Arte, Arte France Cinéma, TRT Sinema  
 _Presented by_: Imperative Entertainment  
 _In association with_:  
 Film i Väst, BBC Film, BFI, 30West  
-_International Sales_: The Coproduction Office
+_International Sales_: The Coproduction Office<br>
 
 _Executive Producers:_ Dan Friedkin,  
 Bradley Thomas, Ryan Friedkin, Micah Green, Daniel Steinman, Peter Possne, Mikael Fellenius, Rose Garnett, Lizzie Francke, Giorgos Karnavas, Konstantinos Kontovrakis, Dan Wechsler,  
 Jamal Zeinal-Zade, Andreas Roald, Jim Stark,  
-Anna Croneman, Michel Merkt, Regina Solórzano, Brina Elizabeta Blaz, Alessandro Del Vigna
+Anna Croneman, Michel Merkt, Regina Solórzano, Brina Elizabeta Blaz, Alessandro Del Vigna<br>
 
 _Produced by:_ Erik Hemmendorff, Philippe Bober  
 _Co-producers:_ Marina Perales Marhuenda,  
 Mike Goodridge, Clemens Köstlin,  
-Per Damgaard Hansen, Julio Chavezmontes
+Per Damgaard Hansen, Julio Chavezmontes<br>
 
 _Casting Director:_ Pauline Hansson  
-_Screenplay_: Ruben Östlund
+_Screenplay_: Ruben Östlund<br>
 
-_Director of Photography:_ Fredrik Wenzel
+_Director of Photography:_ Fredrik Wenzel<br>
 
-_Editing:_ Ruben Östlund, Mikel Cee Karlsson
+_Editing:_ Ruben Östlund, Mikel Cee Karlsson<br>
 
 _Additional Editing:_ Jacob Schulesinger,  
-Benjamin Mirguet
+Benjamin Mirguet<br>
 
-_Production Design:_ Josefin Åsberg
+_Production Design:_ Josefin Åsberg<br>
 
-_Costume Design:_ Sofie Krunegård
+_Costume Design:_ Sofie Krunegård<br>
 
-_Make-up & Hair:_ Stefanie Gredig
+_Make-up & Hair:_ Stefanie Gredig<br>
 
-_Sound Engineers:_ Jonas Rudels, Jacob Ilgner
+_Sound Engineers:_ Jonas Rudels, Jacob Ilgner<br>
 
-_Sound Design & Re-recording Mix:_ Andreas Franck, Bent Holm
+_Sound Design & Re-recording Mix:_ Andreas Franck, Bent Holm<br>
 
-_Cast:_
+_Cast:_<br>
 
-Harris Dickinson _(Carl)_
+Harris Dickinson _(Carl)_<br>
 
 Charlbi Dean _(Yaya)_  
 Woody Harrelson _(The Captain)_  
-Vicki Berlin _(Paula)_
+Vicki Berlin _(Paula)_<br>
 
-Henrik Dorsin _(Jarmo)_
+Henrik Dorsin _(Jarmo)_<br>
 
-Zlatko Buric _(Dimitry)_
+Zlatko Buric _(Dimitry)_<br>
 
 Jean-Christophe Folly _(Nelson)_
 
@@ -127,5 +126,5 @@ Sweden-France-UK-Germany-Turkey-Greece
 
 A Curzon release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODY4ODczM119
+eyJoaXN0b3J5IjpbLTc4MTgyNjAyNF19
 -->
