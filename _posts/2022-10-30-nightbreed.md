@@ -76,8 +76,7 @@ _Title Sequence Designer/Painter_: Ralph McQuarrie
 _Titles_: Pacific Title  
 _Music_: Danny Elfman  
 _Music Director_: Shirley Walker  
-_Orchestrations_: Steve Bartek
-
+_Orchestrations_: Steve Bartek  
 _Music Editors_: Sally Boldt, Bob Badami  
 _Music Recording_: Shawn Murphy, Bob Fernandez  
 _Creature Choreography_: David Glass  
@@ -85,17 +84,11 @@ _Sound Design_: Bruce Nyznik
 _Sound Recording_: John Midgley, Anna Behlmer  
 _Sound Recording (Additional UK)_: David Allen  
 _Sound Recording (LA)_: Walt Martin  
-_Sound Re-recording_: Gary Bourgeois,
-
-Chris Carpenter, Rick Hart  
-_Sound Editors_: Destiny Borden, David Arnold, Allen Hartz,
-
-Donlee Jorgensen, Dave Kulczycki, George Simpson, Dave Spence,
-
-David Whittaker, Jay Wilkinson Jr  
+_Sound Re-recording_: Gary Bourgeois, Chris Carpenter, Rick Hart  
+_Sound Editors_: Destiny Borden, David Arnold, Allen Hartz, Donlee Jorgensen, Dave Kulczycki, George Simpson, Dave Spence, David Whittaker, Jay Wilkinson Jr  
 _ADR Editors_: Barbara Barnaby, Cynthia Haagens  
 _Foley Editors_: Linda Folk, Solange Boisseau  
-_Studio_: Pinewood Studios
+_Studio_: Pinewood Studios  
 
 **Cast**  
 Craig Sheffer _(Aaron Boone)_  
@@ -141,5 +134,5 @@ Eric Loren _(ambush cop)_
 USA 1990  
 120 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDU5OTE4MDldfQ==
+eyJoaXN0b3J5IjpbLTExODg1MjcwMzFdfQ==
 -->
