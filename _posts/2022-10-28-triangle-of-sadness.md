@@ -47,84 +47,54 @@ Yes, I started to think about this when I was writing _Triangle of Sadness_. All
 <br><br>
 
 **TRIANGLE OF SADNESS**<br>
-
 _Director_: Ruben Östlund  
-©: Plattform Produktion AB, Film i Väst,  
-Essential Filmproduktion GmbH, Coproduction Office Ltd., Société Parisienne de Production SARL, Coproduction Office ApS, British Broadcasting Corporation, The British Film Institute, Arte France Cinéma  
+©: Plattform Produktion AB, Film i Väst,  Essential Filmproduktion GmbH, Coproduction Office Ltd., Société Parisienne de Production SARL, Coproduction Office ApS, British Broadcasting Corporation, The British Film Institute, Arte France Cinéma  
 _a_ Plattform Produktion _production_<br>
-
 _In co-production with_: Essential Films, Coproduction Office, Sveriges Television, ZDF/Arte, Arte France Cinéma, TRT Sinema  
 _Presented by_: Imperative Entertainment  
-_In association with_:  
-Film i Väst, BBC Film, BFI, 30West  
+_In association with_:  Film i Väst, BBC Film, BFI, 30West  
 _International Sales_: The Coproduction Office<br>
-
-_Executive Producers:_ Dan Friedkin,  
-Bradley Thomas, Ryan Friedkin, Micah Green, Daniel Steinman, Peter Possne, Mikael Fellenius, Rose Garnett, Lizzie Francke, Giorgos Karnavas, Konstantinos Kontovrakis, Dan Wechsler,  
-Jamal Zeinal-Zade, Andreas Roald, Jim Stark,  
-Anna Croneman, Michel Merkt, Regina Solórzano, Brina Elizabeta Blaz, Alessandro Del Vigna<br>
-
+_Executive Producers:_ Dan Friedkin,  Bradley Thomas, Ryan Friedkin, Micah Green, Daniel Steinman, Peter Possne, Mikael Fellenius, Rose Garnett, Lizzie Francke, Giorgos Karnavas, Konstantinos Kontovrakis, Dan Wechsler,  Jamal Zeinal-Zade, Andreas Roald, Jim Stark,  Anna Croneman, Michel Merkt, Regina Solórzano, Brina Elizabeta Blaz, Alessandro Del Vigna<br>
 _Produced by:_ Erik Hemmendorff, Philippe Bober  
-_Co-producers:_ Marina Perales Marhuenda,  
-Mike Goodridge, Clemens Köstlin,  
-Per Damgaard Hansen, Julio Chavezmontes<br>
-
+_Co-producers:_ Marina Perales Marhuenda,  Mike Goodridge, Clemens Köstlin, Per Damgaard Hansen, Julio Chavezmontes<br>
 _Casting Director:_ Pauline Hansson  
 _Screenplay_: Ruben Östlund<br>
-
 _Director of Photography:_ Fredrik Wenzel<br>
-
 _Editing:_ Ruben Östlund, Mikel Cee Karlsson<br>
-
-_Additional Editing:_ Jacob Schulesinger,  
-Benjamin Mirguet<br>
-
+_Additional Editing:_ Jacob Schulesinger,  Benjamin Mirguet<br>
 _Production Design:_ Josefin Åsberg<br>
-
 _Costume Design:_ Sofie Krunegård<br>
-
 _Make-up & Hair:_ Stefanie Gredig<br>
-
 _Sound Engineers:_ Jonas Rudels, Jacob Ilgner<br>
-
 _Sound Design & Re-recording Mix:_ Andreas Franck, Bent Holm<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Harris Dickinson _(Carl)_<br>
-
 Charlbi Dean _(Yaya)_  
 Woody Harrelson _(The Captain)_  
 Vicki Berlin _(Paula)_<br>
-
 Henrik Dorsin _(Jarmo)_<br>
-
 Zlatko Buric _(Dimitry)_<br>
+Jean-Christophe Folly _(Nelson)_<br>
+Iris Berben _(Therese)_<br>
+Dolly De Leon _(Abigail)_<br>
+Sunnyi Melles _(Vera)_<br>
+Amanda Walker _(Clementine)_<br>
+Oliver Ford Davies _(Winston)_<br>
 
-Jean-Christophe Folly _(Nelson)_
+Arvin Kananian _(Darius)_<br>
 
-Iris Berben _(Therese)_
+Carolina Gynning _(Ludmilla)_<br>
 
-Dolly De Leon _(Abigail)_
-
-Sunnyi Melles _(Vera)_
-
-Amanda Walker _(Clementine)_
-
-Oliver Ford Davies _(Winston)_
-
-Arvin Kananian _(Darius)_
-
-Carolina Gynning _(Ludmilla)_
-
-Ralph Schicha _(Uli)_
+Ralph Schicha _(Uli)_<br>
 
 Sweden-France-UK-Germany-Turkey-Greece  
-2022©
+2022©<br>
 
 150 mins
 
-A Curzon release
+A Curzon release<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTgyNjAyNF19
+eyJoaXN0b3J5IjpbLTQ4NjA3NTM4Nl19
 -->
