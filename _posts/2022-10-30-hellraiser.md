@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Hellraiser - 35th Anniversary
+published: true
+date: 2022-10-30
+readtime: true
+categories: ['PREVIEWS AND EVENTS']
+tags: [Horror]
+metadata: 'UK 1987, 93 mins<br> Director: Clive Barker'
+pdf: '2022-10-30-hellraiser.pdf'
+---
 
 _+ intro by actors Nicholas Vince and Simon Bamford, with Phil Stokes,  BFI Governor/Curator of the Clive Barker Archive_
 
@@ -13,8 +23,7 @@ Although an admirer of the baroque splatter of Dario Argento, Barker says he is 
 
 Barker hoped that the rock group Coil would score the film (New World overruled him), and gleefully claimed that he had selected them because ‘it’s the only music I’ve heard on disc that I’ve taken off because it made my bowels churn,’ although his publicist tactfully suggested that cinema managements might prefer it if that last quote read ‘…made my spine chill.’
 
-The difference between Barker’s fiction and film is the difference between  
-_The Hellbound Heart_ and _Hellraiser_. A minor character in the original has been turned into the second lead in the adaptation and polished up as a more or less conventional heroine. ‘I liked the fact that in the novella the girl was a total loser. You can live with someone like that for the length of a novella. You can’t for a movie.
+The difference between Barker’s fiction and film is the difference between  _The Hellbound Heart_ and _Hellraiser_. A minor character in the original has been turned into the second lead in the adaptation and polished up as a more or less conventional heroine. ‘I liked the fact that in the novella the girl was a total loser. You can live with someone like that for the length of a novella. You can’t for a movie.
 
 ‘I think New World are hoping _Hellraiser_ will appeal to a few people who wouldn’t go to _House 2_ or _Creepshow 2_, that word of mouth will attract people to its slight off-centredness. There are lots of monsters. We’ve got all the weird stuff in there, a lot of action. I believe the thing to do is go out there and scare people. But this isn’t one of those pictures where you cast the 12 most good-looking youths in California, and then murder them. We’ve cast people because they are terrific actors, and then murdered them.’  
 **Kim Newman, _Sight & Sound_, Autumn 1987**
@@ -147,6 +156,107 @@ Raul Newney _(doctor)_
 UK 1987©  
 93 mins<br>
 <br>
+
+**IN DREAMS ARE MONSTERS**  
+**Nosferatu (Nosferatu – Eine Symphonie des Grauens)**  
+Mon 17 Oct 20:50; Sun 13 Nov 15:50 (+ intro by Silent Film Curator Bryony Dixon); Sat 19 Nov 14:10  
+**Frankenstein**  
+Tue 18 Oct 20:50; Fri 28 Oct 18:20; Tue 8 Nov 18:20; Sun 27 Nov 13:00  
+**The Skeleton Key**  
+Wed 19 Oct 18:00; Mon 14 Nov 20:45  
+**Meet the Monsters: A Season Introduction**  
+Thu 20 Oct 19:30 BFI YouTube  
+**I Walked With a Zombie**  
+Thu 20 Oct 20:40; Tue 1 Nov 18:10  
+**Creature from the Black Lagoon (3D)**  
+Sat 22 Oct 18:15 (+ pre-recorded intro by Mallory O’Meara, award winning and bestselling author of ‘The Lady from the Black Lagoon’); Sat 29 Oct 11:40; Tue 1 Nov 20:50  
+**In Dreams Are Monsters Quiz**  
+Sun 23 Oct 19:00-22:00 Blue Room  
+**Kuroneko (Yabu no naka no kuroneko)**  
+Tue 25 Oct 20:45; Mon 31 Oct 21:00; Fri 18 Nov 18:15  
+**The Fly**  
+Wed 26 Oct 21:00  
+**La Llorona**  
+Thu 27 Oct 20:30; Mon 7 Nov 21:00  
+**Celluloid Screams and Live Cinema UK presents: Ghostwatch + Q&A**  
+Fri 28 Oct 20:20  
+**Viy**  
+Fri 28 Oct 20:45; Tue 8 Nov 20:50  
+**A Nightmare on Elm Street**  
+Sat 29 Oct 18:30; Wed 30 Nov 20:50  
+**Candyman**  
+Sat 29 Oct 20:45; Thu 17 Nov 20:50 (+ intro)  
+**Nightbreed – Director’s Cut**  
+Sun 30 Oct 15:10 (+ intro); Sat 12 Nov 20:35  
+**28 Days Later**  
+Mon 31 Oct 18:00 (+ Q&A with director Danny Boyle); Sat 26 Nov 20:45  
+**Us**  
+Tue 1 Nov 20:40; Sat 19 Nov 15:10; Tue 29 Nov 20:40  
+**The Autopsy of Jane Doe**  
+Wed 2 Nov 18:10; Sat 26 Nov 20:40  
+**Let’s Scare Jessica to Death**  
+Wed 2 Nov 20:45; Sat 19 Nov 20:45  
+**Blacula**  
+Thu 3 Nov 20:55; Sat 26 Nov 13:00  
+**Cronos**  
+Fri 4 Nov 18:30; Sat 19 Nov 12:10; Sun 20 Nov 18:30  
+**Fright Night**  
+Fri 4 Nov 20:50; Tue 22 Nov 20:40 (+ intro)  
+**Possession**  
+Sat 5 Nov 20:20 (+ intro by author Kier-La Janisse); Sun 27 Nov 15:30  
+**Ganja & Hess**  
+Mon 7 Nov 18:00; Sat 26 Nov 15:20  
+**Inferno**  
+Wed 9 Nov 20:40; Sat 26 Nov 18:20  
+**The Entity**  
+Fri 11 Nov 17:55; Tue 15 Nov 20:30  
+**Def by Temptation**  
+Wed 16 Nov 18:10 (+ intro); Sat 26 Nov 18:10  
+**Jennifer’s Body**  
+Sun 20 Nov 15:15; Mon 21 Nov 18:00; Fri 25 Nov 20:45  
+**Pontypool**  
+Mon 21 Nov 20:30; Sun 27 Nov 12:20  
+**Under the Shadow**  
+Wed 23 Nov 20:40; Tue 29 Nov 18:10  
+**Ouija: Origin of Evil**  
+Thu 24 Nov 20:40; Mon 28 Nov 18:10  
+**Pet Sematary**  
+Fri 25 Nov 18:15; Mon 28 Nov 20:40  
+**Good Manners (As Boas Maneiras)**  
+Sun 27 Nov 18:10; Wed 30 Nov 20:25  
+
+**IN DREAMS ARE MONSTERS EVENTS**  
+**City Lit at BFI: Screen Horrors – Screen Monsters**  
+Thu 20 Oct – Thu 15 Dec 18:30-20:30  
+**Beyond Nollywood World Premiere: Inside Life + Q&A with director Clarence A Peters**  
+Sat 29 Oct 14:00  
+**Matchbox Cine presents House of Psychotic Women**  
+Sat 5 Nov 17:50  
+**Son of Ingagi + Panel Discussion**  
+Wed 9 Nov 18:10  
+**Live Commentary with Evolution of Horror, Brain Rot and The Final Girls**  
+Sat 19 Nov 18:00  
+**Big Monster Energy**  
+Tue 22 Nov 18:30  
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTI1OTA4NDY4MF19
 -->
