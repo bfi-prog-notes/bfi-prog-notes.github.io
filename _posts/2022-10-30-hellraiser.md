@@ -5,9 +5,7 @@ _+ intro by actors Nicholas Vince and Simon Bamford, with Phil Stokes,  BFI Gove
 **On location with ‘Hellraiser’**  
 In a gutted North London mansion that, conveniently for the publicity people, is supposed to be haunted, Clive Barker was – with apparent ease – making his directorial debut. Best known as a groundbreaking author of short (the _Books of Blood_) and long _(The Damnation Game_) horror fiction, Barker turned to direction after a disappointing foray into screenwriting.
 
-_Hellraiser_ resulted from a team-up between Barker and former assistant director Christopher Figg. Figg wanted to produce and Barker to direct and, after discarding several stories from the _Books of Blood_, they hit on an original idea (‘three people in a house, and things happen’) intended mainly as a showreel. Barker wrote it up into a novella, _The Hellbound Heart_, for an American anthology, _Night Visions 3_, which he shares with other leading lights in the current literary horror generation, Lisa Tuttle and Ramsey Campbell.  
-New World stayed with the project after their co-financiers Virgin withdrew.  
-In response to a suggestion that _Hellraiser_ is an American film shot in Britain, Figg claims, ‘It’s as American as the _Mayflower_.’
+_Hellraiser_ resulted from a team-up between Barker and former assistant director Christopher Figg. Figg wanted to produce and Barker to direct and, after discarding several stories from the _Books of Blood_, they hit on an original idea (‘three people in a house, and things happen’) intended mainly as a showreel. Barker wrote it up into a novella, _The Hellbound Heart_, for an American anthology, _Night Visions 3_, which he shares with other leading lights in the current literary horror generation, Lisa Tuttle and Ramsey Campbell.  New World stayed with the project after their co-financiers Virgin withdrew.  In response to a suggestion that _Hellraiser_ is an American film shot in Britain, Figg claims, ‘It’s as American as the _Mayflower_.’
 
 Although an admirer of the baroque splatter of Dario Argento, Barker says he is not imitating any particular school of film horror. ‘We’re telling a strong story and therefore the rococo flourishes which distract are redundant. We’re not cheating. We’re not putting in point of view shots of creatures which do not exist. There are always payoffs to hints like that. We show the monsters, the horrors. That was always the thing with the short stories. We’re giving the audience the goods.
 
@@ -18,34 +16,28 @@ Barker hoped that the rock group Coil would score the film (New World overruled 
 The difference between Barker’s fiction and film is the difference between  
 _The Hellbound Heart_ and _Hellraiser_. A minor character in the original has been turned into the second lead in the adaptation and polished up as a more or less conventional heroine. ‘I liked the fact that in the novella the girl was a total loser. You can live with someone like that for the length of a novella. You can’t for a movie.
 
-‘I think New World are hoping _Hellraiser_ will appeal to a few people who wouldn’t go to _House 2_ or _Creepshow 2_, that word of mouth will attract people to its slight off-centredness. There are lots of monsters. We’ve got all the weird stuff in there, a lot of action. I believe the thing to do is go out there and scare people. But this isn’t one of those pictures where you cast the 12 most good-looking youths in California, and then murder them. We’ve cast people because they are terrific actors, and then murdered them.’
-
-Kim Newman, _Sight & Sound_, Autumn 1987
+‘I think New World are hoping _Hellraiser_ will appeal to a few people who wouldn’t go to _House 2_ or _Creepshow 2_, that word of mouth will attract people to its slight off-centredness. There are lots of monsters. We’ve got all the weird stuff in there, a lot of action. I believe the thing to do is go out there and scare people. But this isn’t one of those pictures where you cast the 12 most good-looking youths in California, and then murder them. We’ve cast people because they are terrific actors, and then murdered them.’  
+**Kim Newman, _Sight & Sound_, Autumn 1987**
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
-**A contemporary review**
-
+**A contemporary review**  
 Like Michael Crichton and Nicholas Meyer – and unlike fellow horror authors Stephen King (_Maximum Overdrive_), John Farris (_Dear, Dead Delilah_) and William Peter Blatty (_The Ninth Configuration_) – Clive Barker’s career move from novelist to director is distinguished not only by a more-than-competent technical job but by a carry-over of the distinctive voice of his prose work. Barker, still relatively new to the genre, made his initial splash with the _Books of Blood_, six ground-breaking volumes of short stories, and has since produced two weighty, genre-stretching novels, _The Damnation Game_ and _Weaveworld_. In addition, he has supplied the original stories and screenplays for two British films, _Underworld_ and _Rawhead Rex_, directed by rock-video specialist George Pavlou, which have gone unreleased in this country even on video and whose shortcomings seem to have prompted Barker to assume more control over his filmed work. _The Hellhound Heart_, the source story for _Hellraiser_, can be found in _Night Vision 3_, the showcase anthology which Barker shares with Ramsey Campbell and Lisa Tuttle, also major figures in the current literary horror revival. It is sketchier than the best of Barker’s novellas, reading in fact like a screen treatment which has in the event been given flesh – much as its central character is – and emerged as an impressive though not quite whole creation.
 
 The most immediately striking aspect of the movie is its seriousness of tone in an era when horror films (the _Nightmare on Elm Street_ or _Evil Dead_ films in particular) tend to be broadly comic. Although one slimy monster – identified in the story as The Engineer, but unnamed here – could have strayed in from New World’s _House_ movies, the overall approach is straight, not to say relentlessly grim. As with the seminal early films of Romero, Cronenberg, Hooper and Cohen, the explicitly physical horrors of _Hellraiser_ are rooted in twisted family relationships. Larry Cotton, betrayed and sacrificed by his contemptuous brother and wife, is a curiously powerless central figure for a horror film – top-billed, but necessarily killed off-screen.
 
-The film is for the most part a return to the cutting edge of horror cinema, and in its inventively gruesome moments – Frank being turned inside-out by creaking millworks, his face being put together on the floor like a jigsaw puzzle – a reminder of the Grand Guignol intensity that has recently tended to disintegrate into lazy splatter.
+The film is for the most part a return to the cutting edge of horror cinema, and in its inventively gruesome moments – Frank being turned inside-out by creaking millworks, his face being put together on the floor like a jigsaw puzzle – a reminder of the Grand Guignol intensity that has recently tended to disintegrate into lazy splatter.  
+**Kim Newman, _Monthly Film Bulletin_, September 1987**
+<br><br>
 
-Kim Newman, _Monthly Film Bulletin_, September 1987
-
-<![endif]-->
-
-**HELLRAISER**
-
+**HELLRAISER**  
 _Directed by_: Clive Barker  
 ©: New World Pictures  
 _A_ Film Futures _production_  
 _Made by_: Rivdel Ltd.  
 _Presented by_: New World Pictures  
 _In association with_: Cinemarque Entertainment BV  
-_Executive Producers_: David Saunders,  
-Christopher Webster, Mark Armstrong  
+_Executive Producers_: David Saunders,  Christopher Webster, Mark Armstrong  
 _Produced by_: Christopher Figg  
 _Associate Producer_: Selwyn Roberts  
 _Production Co-ordinator_: Clare St. John  
@@ -164,5 +156,5 @@ UK 1987©
 
 93 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Mzk0MjMwMV19
+eyJoaXN0b3J5IjpbODYwMzUyMTE4XX0=
 -->
