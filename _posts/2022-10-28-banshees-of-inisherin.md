@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Banshees of Inisherin
+published: true
+date: 2022-10-28
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama, Comedy]
+metadata: 'USA-UK-Ireland 2022, 114 mins<br> Director: Martin McDonagh'
+pdf: '2022-10-28-banshees-of-inisherin.pdf'
+---
 
 _The Beauty Queen of Leenane_, _The Cripple of Inishmaan_, _The Lieutenant of Inishmore_… In titling his gritty, west coast Irish dramas, Martin McDonagh certainly has a type. All three aforementioned plays debuted (as did two others) between 1996 and 2001, a dazzling period that saw McDonagh anointed as the next great theatrical sensation, his blackly comic, often gruesomely violent tales steeped in authentic locale and caustic yet lyrical language.
 
@@ -81,6 +91,49 @@ USA-UK-Ireland 2022©
 
 A Walt Disney release for Searchlight Pictures<br>
 <br>
+
+**NEW RELEASES**<br>
+**Decision to Leave (Heojil Kyolshim)**<br>
+From Mon 17 Oct<br>
+**Triangle of Sadness**<br>
+From Fri 28 Oct<br>
+**The Banshees of Inisherin**<br>
+From Fri 28 Oct<br>
+**The Greenaway Alphabet**<br>
+From Fri 11 Nov<br>
+**Aftersun**<br>
+From Fri 18 Nov<br>
+**What Do We See When We Look at the Sky? (Ras vkhedavt, rodesac cas vukurebt?)**<br>
+From Fri 25 Nov<br>
+
+**RE-RELEASES**<br>
+**The Others**<br>
+From Mon 17 Oct<br>
+**Poltergeist**<br>
+From Fri 21 Oct<br>
+**Nil by Mouth**<br>
+From Fri 4 Nov (Preview on Thu 20 Oct 20:20; extended intro by Geoff Andrew, Programmer at Large on Fri 4 Nov 17:50; intro by Kieron Webb, Head of Conservation, BFI Archive on Mon 7 Nov 18:00)<br>
+**The Draughtsman’s Contract**<br>
+From Fri 11 Nov (+ intro by Kieron Webb, Head of Conservation, BFI National Archive on Fri 11 Nov 17:50)<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwMDYyNzE3NjZdfQ==
 -->
