@@ -81,19 +81,14 @@ _Chargehand Carpenter_: Steve Ede
 _Stand-by Carpenter_: John Potter  
 _Costume Designer_: Joanna Johnston  
 _Cenobite Costume Designer_: Jane Wildgoose  
-_Cenobite Costume Assistant_:  
-Rosemary Sylvester Fisher  
+_Cenobite Costume Assistant_:  Rosemary Sylvester Fisher  
 _Sketch Artist_: Floyd Jones Hughes  
 _Wardrobe Supervisor_: Daryl Bristow  
 _Wardrobe Assistants_: Brian Cox, Jane Howells  
 _Make-up_: Sally Sutton  
 _Special Make-up Effects Designer_: Bob Keen  
-_Special Make-up Effects Workshop Supervisors_: Geoff Portass, Nigel Booth, Julian Caldow,  
-Paul Catling, Stuart Conran, David Elsey  
-_Special Make-up Effects and Creature Crew_:  
-Little John, David Keen, William Petty,  
-Roy Puddefoot, Jason Reed, Ian Rolph,  
-Jim Sandys, Simon Sayce, Cliff Wallace  
+_Special Make-up Effects Workshop Supervisors_: Geoff Portass, Nigel Booth, Julian Caldow,  Paul Catling, Stuart Conran, David Elsey  
+_Special Make-up Effects and Creature Crew_:  Little John, David Keen, William Petty,  Roy Puddefoot, Jason Reed, Ian Rolph,  Jim Sandys, Simon Sayce, Cliff Wallace  
 _Hairdresser_: Aileen Seaton  
 _Titles and Opticals_: Optical Film Effects Ltd.  
 _Optical Supervisor_: Peter Watson  
@@ -106,15 +101,13 @@ _Music Composed by_: Christopher Young
 _Orchestra Conducted by_: Paul Francis Witt  
 _Music Orchestrated by_: Christopher Young  
 _Music Supervisor_: Anne Atkins Young  
-_Synthesiser Programmed and Performed by_:  
-Tom Calderaro  
+_Synthesiser Programmed and Performed by_:  Tom Calderaro  
 _Music Recorded by_: Jeff Vaughn  
 _Percussion Consultant_: Mark Zimowski  
 _Sound Mixer_: John Midgley  
 _Boom Operator_: Clive Osborne  
 _Chief Dubbing Mixer_: Graham Hartstone  
-_Dubbing Mixers_: Nicolas Le Messurier,  
-Michael Carter  
+_Dubbing Mixers_: Nicolas Le Messurier,  Michael Carter  
 _Dubbing Editor_: Tony Message  
 _Assistant Dubbing Editor_: Joe Gilmore  
 _Sound Effects Editor_: John Ireland  
@@ -127,8 +120,7 @@ _Unit Publicist_: Steve Jones
 _Additional Publicity_: Dennis Davidson Associates  
 _Made at_: The Production Village
 
-_Cast:_
-
+**Cast**  
 Andrew Robinson _(Larry)_  
 Clare Higgins _(Julia)_  
 Sean Chapman _(Frank)_  
@@ -152,9 +144,9 @@ Grace Kirby _(female Cenobite)_
 Sharon Bower _(nurse)_  
 Raul Newney _(doctor)_
 
-UK 1987©
-
-93 mins
+UK 1987©  
+93 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwMzUyMTE4XX0=
+eyJoaXN0b3J5IjpbLTI1OTA4NDY4MF19
 -->
