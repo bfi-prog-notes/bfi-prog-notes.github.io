@@ -50,13 +50,11 @@ _Make-up Designer_: Lynn Johnston
 _Hair Designer_: Orla Carroll  
 _Music by_: Carter Burwell  
 _Production Sound Mixer_: Simon Willis  
-_Re-recording Mixers_: Chris Burdon,  
-Johnathan Rush  
+_Re-recording Mixers_: Chris Burdon,  Johnathan Rush  
 _Supervising Sound Editor_: Joakim Sundström  
 _Stunt Co-ordinator_: Eimear O’Grady
 
-_Cast:_
-
+**Cast**  
 Colin Farrell _(Pádraic Súilleabháin)_  
 Brendan Gleeson _(Colm Doherty)_  
 Kerry Condon _(Siobhán Súilleabháin)_  
@@ -78,11 +76,11 @@ Jenny _(Jenny)_
 Sammy _(Morse)_  
 Minnie _(Minnie the pony)_
 
-USA-UK-Ireland 2022©
-
+USA-UK-Ireland 2022©  
 114 mins
 
-A Walt Disney release for Searchlight Pictures
+A Walt Disney release for Searchlight Pictures<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTEzNTEzNF19
+eyJoaXN0b3J5IjpbLTIwMDYyNzE3NjZdfQ==
 -->
