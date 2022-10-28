@@ -81,20 +81,15 @@ Dolly De Leon _(Abigail)_<br>
 Sunnyi Melles _(Vera)_<br>
 Amanda Walker _(Clementine)_<br>
 Oliver Ford Davies _(Winston)_<br>
-
 Arvin Kananian _(Darius)_<br>
-
 Carolina Gynning _(Ludmilla)_<br>
-
 Ralph Schicha _(Uli)_<br>
 
-Sweden-France-UK-Germany-Turkey-Greece  
-2022©<br>
-
+Sweden-France-UK-Germany-Turkey-Greece  2022©<br>
 150 mins
 
 A Curzon release<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjA3NTM4Nl19
+eyJoaXN0b3J5IjpbLTIwMzIzNzQ4ODhdfQ==
 -->
