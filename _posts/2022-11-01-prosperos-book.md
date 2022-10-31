@@ -1,12 +1,22 @@
-
+---
+layout: post
+title: Prospero's Books
+published: true
+date: 2022-11-01
+readtime: true
+categories: ['FRAMES OF MIND<br> THE FILMS OF PETER GREENAWAY']
+tags: [Fantasy, Experimental]
+metadata: 'UK/Netherlands/<br>France/Italy/Japan 1991, 125 mins<br> Director: Peter Greenaway'
+pdf: '2022-11-31-prosperos-books.pdf'
+---
 
 _Prospero’s Books_ is a version of Shakespeare’s _The Tempest_ starring John Gielgud. Shakespeare’s play centres on Prospero, Duke of Milan, who has been deposed by his brother, Antonio, supported by Alonso, King of Naples, and now lives on an island with his daughter, Miranda. Opening with a storm in which the corrupt brother and his courtiers are shipwrecked on the island through Prospero’s magic. _The Tempest_ shows Prospero’s staging of an action in which he intends to take his revenge on his usurping brother.
 
 Initially approached by Gielgud, who has cherished the idea of putting the enigmatic drama on screen for some time, Greenaway rapidly transformed the play into his own idiosyncratic vision. The film picks up on a brief mention in the text of 24 books from his library which Prospero is permitted to take into exile. These desert island volumes become an abstract counterpoint to the story, like the number count from one to 100 in _Drowning by Numbers_. While remaining faithful to Shakespeare’s text, Greenaway has put the words of all the characters into Prospero’s mouth for the first two-thirds of the film.
 
-The results are fascinating, and sure to polarise viewers of Greenaway’s work even more than any of his previous films.  
-**Peter Greenaway on ‘Prospero’s Books’**  
+The results are fascinating, and sure to polarise viewers of Greenaway’s work even more than any of his previous films. 
 
+**Peter Greenaway on ‘Prospero’s Books’**  
 One of the reasons we have called the film _Prospero’s Books_ rather than _The Tempest_ is to indicate to an audience that it is not a straight attempt to reproduce a familiar text. One of my many interests was to pursue the 24 books that Gonzales, Prospero’s loyal courtier, supposedly put into the bottom of the leaky vessel in which Prospero was sent out into exile. That idea, I suppose, really holds the material together.
 
 And it seemed quite logical from there to consider _The Tempest_ very much as a text, as something written. So what happened in the end is that I made the 24th book _The Tempest_ itself. So the whole film is structured around the idea of Shakespeare/Prospero (Gielgud) sitting in his cell on the island writing the play that you see.
@@ -120,6 +130,53 @@ _Director:_ Peter Greenaway
 
 UK 1991  
 23 mins  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQyMTczNDddfQ==
--->
+<br>
+**FRAMES OF MIND: THE FILMS OF PETER GREENAWAY**  
+**A Zed & Two Noughts**  
+Tue 18 Oct 18:10; Sat 5 Nov 17:40; Sat 12 Nov 17:40; Mon 21 Nov 20:40; Sun 27 Nov 12:15  
+**Peter Greenaway: Frames of Mind Season Introduction**  
+Wed 19 Oct 18:10  
+**The Belly of an Architect**  
+Wed 19 Oct 20:30; Fri 18 Nov 18:20; Tue 22 Nov 18:10; Sat 26 Nov 15:30  
+**The Falls**  
+Sat 22 Oct 13:50; Sun 6 Nov 14:40  
+**The Cook, the Thief, His Wife & Her Lover**  
+Sun 23 Oct 15:30 (+ intro by Justin Johnson, Lead Programmer); Sat 12 Nov 14:55; Mon 28 Nov 17:50  
+**Drowning by Numbers**  
+Sun 23 Oct 18:00; Sat 19 Nov 14:30; Sun 27 Nov 18:00  
+**Peter Greenaway Shorts Programme 1**  
+Mon 24 Oct 18:10; Thu 10 Nov 20:40  
+**Experimental Sound and Vision: Found Sounds, Lyrical Loops and Landscapes**  
+Thu 27 Oct 18:15; Thu 17 Nov 18:15 (+ intro by author and musician David Toop)  
+**Prospero’s Books**  
+Tue 1 Nov 17:40; Sun 20 Nov 18:00  
+**Peter Greenaway: Pioneer of Cinema**  
+Sat 5 Nov 12:00-17:00  
+**The Unreliable Narrator: Adventures in Storytelling, Documentary and Misinformation**  
+Sun 6 Nov 12:40; Fri 25 Nov 21:00  
+**A TV Dante: Cantos 1-8**  
+Tue 15 Nov 18:20  
+**The Baby of Mâcon**  
+Wed 16 Nov 20:30; Fri 25 Nov 18:00; Mon 28 Nov 20:30  
+**The Pillow Book**  
+Fri 18 Nov 20:30; Thu 24 Nov 20:30; Tue 29 Nov 17:40  
+**8½ Women**  
+Sun 20 Nov 12:50; Wed 30 Nov 20:35  
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
