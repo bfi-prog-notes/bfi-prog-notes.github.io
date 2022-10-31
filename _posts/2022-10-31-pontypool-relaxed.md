@@ -10,7 +10,7 @@ metadata: 'Canada 2008, 93 mins<br> Director: Bruce McDonald'
 pdf: '2022-10-31-pontypool-relaxed.pdf'
 ---
 
-<img style="float: left;" src="/img/pontypool-02.jpg"><br><br>
+<img style="float: left;" src="/img/pontypool-02.jpeg"><br><br>
 
 _+ intro and discussion._
 
