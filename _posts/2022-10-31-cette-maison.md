@@ -30,55 +30,36 @@ Indeed, the house has multiple uses throughout the film. The place where the tra
 <br><br>
 
 **CETTE MAISON (THIS HOUSE)**<br>
-
 _Director:_ Miryam Charles<br>
-
 _Production Company:_ Embuscade Films<br>
-
 _Producer:_ Félix Dufour-Laperrière<br>
-
 _Line Producer:_ Nellie Carrier<br>
-
 _Screenplay:_ Miryam Charles<br>
-
 _Directors of Photography:_ Isabelle Stachtchenko, Miryam Charles<br>
-
 _Production Design:_ Georges Michael Fanfan, Annick Marion<br>
-
 _Editing:_ Xi Feng<br>
-
 _Sound:_ Gordon Neil Allen, Olivier Calvert<br>
-
 _Music:_ Romain Camiolo<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Schelby Jean-Baptiste<br>
+Florence Blan Mbaye<br>
+Eve Duranceau<br>
+Matthew Rankin<br>
+Yardly Kavanagh<br>
+Mireille Métellus<br>
+Nadine Jean<br>
+Tracy Marcelin<br>
 
-Florence Blan Mbaye
+Canada 2022<br>
+75 mins<br>
 
-Eve Duranceau
+Courtesy of T A P E Collective<br>
 
-Matthew Rankin
+This event is supported by the  Québec Government Office, London<br>
 
-Yardly Kavanagh
-
-Mireille Métellus
-
-Nadine Jean
-
-Tracy Marcelin
-
-Canada 2022
-
-75 mins
-
-Courtesy of T A P E Collective
-
-This event is supported by the  
-Québec Government Office, London
-
-Woman with a Movie Camera is generously supported by Jane Stanton
+Woman with a Movie Camera is generously supported by Jane Stanton<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2OTMwNjQ2XX0=
+eyJoaXN0b3J5IjpbLTQzNjE0MzQ3NF19
 -->
