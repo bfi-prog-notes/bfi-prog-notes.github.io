@@ -4,12 +4,10 @@ _Prospero’s Books_ is a version of Shakespeare’s _The Tempest_ starring John
 
 Initially approached by Gielgud, who has cherished the idea of putting the enigmatic drama on screen for some time, Greenaway rapidly transformed the play into his own idiosyncratic vision. The film picks up on a brief mention in the text of 24 books from his library which Prospero is permitted to take into exile. These desert island volumes become an abstract counterpoint to the story, like the number count from one to 100 in _Drowning by Numbers_. While remaining faithful to Shakespeare’s text, Greenaway has put the words of all the characters into Prospero’s mouth for the first two-thirds of the film.
 
-The results are fascinating, and sure to polarise viewers of Greenaway’s work even more than any of his previous films.
+The results are fascinating, and sure to polarise viewers of Greenaway’s work even more than any of his previous films.  
+**Peter Greenaway on ‘Prospero’s Books’**  
 
-**Peter Greenaway on ‘Prospero’s Books’**
-
-One of the reasons we have called the film _Prospero’s Books_ rather than  
-_The Tempest_ is to indicate to an audience that it is not a straight attempt to reproduce a familiar text. One of my many interests was to pursue the 24 books that Gonzales, Prospero’s loyal courtier, supposedly put into the bottom of the leaky vessel in which Prospero was sent out into exile. That idea, I suppose, really holds the material together.
+One of the reasons we have called the film _Prospero’s Books_ rather than _The Tempest_ is to indicate to an audience that it is not a straight attempt to reproduce a familiar text. One of my many interests was to pursue the 24 books that Gonzales, Prospero’s loyal courtier, supposedly put into the bottom of the leaky vessel in which Prospero was sent out into exile. That idea, I suppose, really holds the material together.
 
 And it seemed quite logical from there to consider _The Tempest_ very much as a text, as something written. So what happened in the end is that I made the 24th book _The Tempest_ itself. So the whole film is structured around the idea of Shakespeare/Prospero (Gielgud) sitting in his cell on the island writing the play that you see.
 
@@ -23,7 +21,7 @@ _Following this so far? Good. Because it gets worse. In addition to the labyrint
 
 _Shot on 35mm film,_ Prospero’s Books _is being edited using a combination of conventional film techniques and television post-production. Greenaway has edited three separate versions of the film which run in parallel and will ultimately be mixed together into a single two-hour narrative. He has spent a month in Japan using state-of-the-art HDTV editing facilities provided by the television company NHK. In order to test the potential of the technology, NHK contributed about £2 million worth of editing time free of charge (representing more than the entire production budget of about £1.5 minion)._
 
-_The high definition techniques allow Greenaway to unite the sumptuous cinematography evident in_ The Cook, The Thief, His Wife and Her Lover _with the sophisticated image manipulation of his television production of Dante’s_ Inferno_. Greenaway is wary of the film being seen as a ‘technological freak’, but believes he has only scratched the surface of the technical possibilities._
+_The high definition techniques allow Greenaway to unite the sumptuous cinematography evident in_ The Cook, The Thief, His Wife and Her Lover _with the sophisticated image manipulation of his television production of Dante’s_ Inferno_. Greenaway is wary of the film being seen as a ‘technological freak’, but believes he has only scratched the surface of the technical possibilities.
 
 Working in conjunction with Tom Phillips on _A TV Dante_, there seemed to be a way through television to engender a whole series of new ways of making pictures, which I was much more familiar with in terms of painting and draughtsmanship than I was with cinema. It was an ability primarily to reorganise the screen ratio, to play with colour in a way you can’t in the cinema, and to extend and reshape the elements of the pictorial imagination, which you can do easily in painting. There was a time when I believed that the cinema had an ability to use all the letters of the alphabet and TV could only use the vowels. I don’t believe that to be the case any more; I think TV has its own vocabulary, its own alphabet. So what I wanted to do in _Prospero’s Books_ is to make the first tentative steps towards an expanded cinema which uses television vocabulary but still hangs on to the cinematic idea of creating images which are bigger, noisier, louder, more engulfing than you are.
 
@@ -31,18 +29,15 @@ It’s a terrible admission to make, but I do feel for me that cinema has someho
 
 The play would certainly seem to start off as a revenge drama, with Prospero in the first five minutes ranting about his past and vowing revenge. But then two-thirds of the way through, almost without prior warning, the situation is broken open completely and there is a moment of truth when Prospero decides to forgive everybody. We have actually used this as a pivotal moment in the film, and for my purposes I am very happy with that sudden change of heart. But you must not be misled into thinking that this is psycho-drama. It is a drama of conceits and allegories and metaphors, and under these terms a sudden change of heart can no doubt be seen to be relevant to all the other concerns of the play.
 
-There is a deliberate amalgamation or confusion between Shakespeare. Gielgud and Prospero – they are, in effect, the same person. It is Shakespeare’s last play, his farewell to illusionism, his farewell to playing games, his farewell to all this anti-naturalism. Gielgud at 87 is obviously near the end of his life, and he has had an incredibly long theatrical career. So in terms of English classical theatre, it is his goodbye to illusionism, to costumes, to dressing up, to playing games. And of course within the confines of the play itself this is exactly what Prospero does – in the famous last speech he actually turns to his audience and begs their forgiveness and abandons his magic before he leaves the stage.
+There is a deliberate amalgamation or confusion between Shakespeare. Gielgud and Prospero – they are, in effect, the same person. It is Shakespeare’s last play, his farewell to illusionism, his farewell to playing games, his farewell to all this anti-naturalism. Gielgud at 87 is obviously near the end of his life, and he has had an incredibly long theatrical career. So in terms of English classical theatre, it is his goodbye to illusionism, to costumes, to dressing up, to playing games. And of course within the confines of the play itself this is exactly what Prospero does – in the famous last speech he actually turns to his audience and begs their forgiveness and abandons his magic before he leaves the stage.  
+**Peter Greenaway talks to Adam Barker, _Sight and Sound_, May 1991**  
 
-**Peter Greenaway talks to Adam Barker, _Sight and Sound_, May 1991**
+**A Walk Through Prospero’s Library**  
+Greenaway revisits the opening of _Prospero’s Books_.  
 
-**A Walk Through Prospero’s Library**
-
-Greenaway revisits the opening of _Prospero’s Books_.
-
-**PROSPERO’S BOOKS**_  
-Director_: Peter Greenaway  
+**PROSPERO’S BOOKS**  
+_Director_: Peter Greenaway  
 _Production Companies_: Allarts Enterprises, Cinéa, Caméra One,
-
 Penta Pictures  
 _In association with_: Elsevier-Vendex Film Beheer, Film Four International, VPRO, Canal+, Nippon Hoso Kyokai  
 _Financial Assistance_: Eurimages Conseil de l’Europe, Stichting Produktiefonds voor Nederlandse Films, Heldring & Pierson Pierson  
@@ -55,9 +50,7 @@ _Production Manager_: Karin van der Werff
 _Production Co-ordinator (France)_: Brigitte Faure  
 _Production Co-ordinators (Netherlands)_: Sophie Lambo, Kayo Yoshida  
 _Location Manager_: Marty De Boer  
-_Assistant Directors_: Gerrit Martijn, Sophie Fiennes, Edith Hazelbach,
-
-Paul Marbus  
+_Assistant Directors_: Gerrit Martijn, Sophie Fiennes, Edith Hazelbach, Paul Marbus  
 _Casting (UK)_: Karen Lindsay Stewart, Polly Hootkins  
 _Screenplay_: Peter Greenaway  
 _Based on the play_ The Tempest _by_: William Shakespeare  
@@ -67,9 +60,7 @@ _Technical Supervisor_: Hideichi Tamegaya
 _Technical Director_: Masuo Yamaguchi  
 _Book Design_: Han Ing Lim  
 _Book Design (Grasswork)_: Daniel Harvey  
-_Calligraphy_: Brody Neuenschwander,
-
-Agnes Charlemagne, Ellen Vomberg  
+_Calligraphy_: Brody Neuenschwander, Agnes Charlemagne, Ellen Vomberg  
 _Editors_: Marina Bodbyl, Marina Bodbyl  
 _Production Designers_: Ben van Os, Jan Roelfs  
 _Art Department Production_: Eljo Embregts, Wilma Schuemie  
@@ -79,14 +70,11 @@ _Wardrobe (Milanese Ruffs)_: Maggie McMahon
 _Wardrobe (Milanese Hats)_: Jacques Janssen  
 _Wardrobe (Prospero’s Cloak)_: Emi Wada  
 _Prospero’s Creatures_: Ellen Lens  
-_Make-up_: Sara Meerman, Brigitte Pleizier, Anniek Widdershoven,
-
-Mariël Hoevenaars, Gaby van der Meijden, Petra Harte  
+_Make-up_: Sara Meerman, Brigitte Pleizier, Anniek Widdershoven, Mariël Hoevenaars, Gaby van der Meijden, Petra Harte  
 _Special Make-up Effects_: Sjoerd Didden  
 _Titles Processing_: Cineco B.V., Imagica D-Shop  
 _Infography_: Eve Ramboz  
-_Opticals_: Image Creations
-
+_Opticals_: Image Creations  
 _Music_: Michael Nyman  
 _Music Performed by_: Michael Nyman Band  
 _Ariel’s Songs Performed by_: Sarah Leonard  
@@ -101,7 +89,7 @@ _Digital Sound Editing_: Nigel Heath
 _Dialogue Editor_: Shirley Shaw  
 _Footsteps Artists_: Jack Austin, Jean Sheffield, Anneli Daniell  
 _Acrobatic Advisers_: Martine Le Roy, Stephane Dupre
-
+ì
   
 **Cast**  
 John Gielgud _(Prospero)_  
@@ -134,5 +122,5 @@ _Director:_ Peter Greenaway
 UK 1991  
 23 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODAxODYxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIzMTAwNTc3N119
 -->
