@@ -88,8 +88,7 @@ _Sound Editor_: Chris Wyatt
 _Digital Sound Editing_: Nigel Heath  
 _Dialogue Editor_: Shirley Shaw  
 _Footsteps Artists_: Jack Austin, Jean Sheffield, Anneli Daniell  
-_Acrobatic Advisers_: Martine Le Roy, Stephane Dupre
-ì
+_Acrobatic Advisers_: Martine Le Roy, Stephane Dupre  
   
 **Cast**  
 John Gielgud _(Prospero)_  
@@ -122,5 +121,5 @@ _Director:_ Peter Greenaway
 UK 1991  
 23 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTAwNTc3N119
+eyJoaXN0b3J5IjpbLTE3ODQyMTczNDddfQ==
 -->
