@@ -20,14 +20,11 @@ McDonald mostly keeps the visceral stuff off screen (though an increasingly bloo
 
 Performances are first rate throughout, though the show is comprehensively stolen by McHattie, rarely given this much to do and making a grand job of a past his prime cynic given a late-in-life chance to shine in extraordinary circumstances. He’s well matched by Houle (McHattie’s real-life wife) and Reilly, the three of them carrying much of the film with only minimal support from the obligatory doctor who knows too much (Hrant Alianak), a few shambling ‘conversationalists’ (the word zombie is never used), voices heard in phone-ins or live reports or a visiting theatre group who are plugging their musical version of _Lawrence of Arabia_.
 
-Wildly imaginative, _Pontypool_ is quite unlike not only any other zombie film but pretty much any other horror movie. Its dizzying mix of linguistic theory, apocalyptic horror and small-scale drama is exhilarating and renews one faith in a horror seam that had looked well and truly mined to exhaustion.
+Wildly imaginative, _Pontypool_ is quite unlike not only any other zombie film but pretty much any other horror movie. Its dizzying mix of linguistic theory, apocalyptic horror and small-scale drama is exhilarating and renews one faith in a horror seam that had looked well and truly mined to exhaustion.  
+**Kevin Lyons, The EOFFTV Review, eofftvreview.wordpress.com**
+<br><br>
 
-Kevin Lyons, The EOFFTV Review, eofftvreview.wordpress.com
-
-<![endif]-->
-
-**PONTYPOOL**
-
+**PONTYPOOL**  
 _Director_: Bruce McDonald  
 ©: Ponty Up Pictures Inc.  
 _Production Company_: Shadow Shows  
@@ -55,15 +52,12 @@ _2nd Assistant B Camera_: Angela Chao
 _3rd Assistant Camera_: Matthew Bedard  
 _Chief Lighting Technician_: Mike McDonald  
 _Key Grip_: David Ferguson  
-_Still Photographers_: Caitlin Cronenberg,  
-Ioana Vasile  
+_Still Photographers_: Caitlin Cronenberg,  Ioana Vasile  
 _Visual Effects by_: Toronto Mr. X Inc.  
 _Visual Effects Supervisor_: Aaron Weintraub  
 _Visual Effects Executive Producer_: Dennis Berardi  
-_Visual Effects Production Manager_:  
-Isabelle Langlois  
-_Visual Effects Co-ordinators_: Melanie Martin,  
-Sarah Barber  
+_Visual Effects Production Manager_:  Isabelle Langlois  
+_Visual Effects Co-ordinators_: Melanie Martin,  Sarah Barber  
 _Special Effects Co-ordinator_: Geoff Hill  
 _Editor_: Jeremiah Munce  
 _Assistant Editor_: Duff Smith  
@@ -72,16 +66,14 @@ _Art Director_: Andrew Berry
 _Set Decorator_: Andrij Molodecky  
 _Set Dresser_: Lyle Jobe  
 _B&W Portraits_: John Price  
-_Property Masters_: Kenny Meinzinger,  
-Adrienne Trent  
+_Property Masters_: Kenny Meinzinger,  Adrienne Trent  
 _Construction Co-ordinator_: Marc Kuttenbrouwer  
 _Costume Designer_: Sarah Armstrong  
 _Key Make-up/Hair_: Indiana Allemang  
 _Prosthetics by_: Matthew Dewilde  
 _Title Design_: J.L. Munce  
 _Colour/Digital Intermediate by_: DeLuxe  
-_Camera/Equipment Provided by_:  
-PS - Production Services, Magnet Film and Digital  
+_Camera/Equipment Provided by_:  PS - Production Services, Magnet Film and Digital  
 _Original Music by_: Claude Foisy  
 _Music Supervisor_: Jody Colero  
 _Music Consultant_: Michael Perlmutter  
@@ -96,8 +88,7 @@ _Foley Artist_: John Sievert
 _EPK_: Gordon Culley, JR Powell, Andrew K. Martin  
 _Unit Publicist_: Sasha Stoltz
 
-_Cast:_
-
+**Cast**  
 Stephen McHattie _(Grant Mazzy)_  
 Lisa Houle _(Sydney Briar)_  
 Georgina Reilly _(Laurel-Ann Drummond)_  
@@ -112,9 +103,9 @@ Rachel Burns _(Colleen, ‘Daud’)_
 Laura Nordin _(spooky woman)_  
 Louis Negin, Diane Gordon, Daniele Park, Yvonne Moore, Raffaele Carniato _(conversationalists)_
 
-Canada 2008©
-
+Canada 2008©  
 93 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1NTM1NDQ0XX0=
+eyJoaXN0b3J5IjpbLTEwMjk5NjI0NDFdfQ==
 -->
