@@ -1,9 +1,5 @@
 
-
-<![endif]-->
-
-With his wife (Manville, then married to Oldman), child, comfortable home and job as an estate agent, Clive ‘Bexy’ Bissel (Oldman) would seem a respectable citizen; his abiding passion, however, is football hooliganism… Clarke’s TV drama, inspired by the rivalry between the ‘firms’ of violent hooligans of the 70s and 80s, centres on one of Oldman’s most forceful yet subtly persuasive performances.
-
+With his wife (Manville, then married to Oldman), child, comfortable home and job as an estate agent, Clive ‘Bexy’ Bissel (Oldman) would seem a respectable citizen; his abiding passion, however, is football hooliganism… Clarke’s TV drama, inspired by the rivalry between the ‘firms’ of violent hooligans of the 70s and 80s, centres on one of Oldman’s most forceful yet subtly persuasive performances.  
 **bfi.org.uk**
 
 _The Firm_ was to be Alan Clarke’s final film, though no-one involved in this very vigorous BBC production could have known as much during the shoot in the spring of 1988. Indeed, the film has enjoyed as healthy an afterlife as anything Clarke ever made. His onetime collaborator David Hare rates it ‘one of the few authentic television masterpieces.’ Phil Davis, who plays Yeti, is of the view that it ‘sums up the 1980s.’ Producer David M. Thompson wryly notes its achievement in having built ‘a certain hooligan cult following.’
@@ -18,26 +14,19 @@ Is _The Firm_ an authentic account of 80s-era hooliganism in the UK? It certainl
 
 In Gary Oldman, Clarke at least found a lead actor with brilliance and authenticity to spare. ‘I was never a member of a crew,’ Oldman says of his south London upbringing, ‘but I was born within the sound of Millwall supporters.’ By 1988 Oldman had played Sid Vicious and Joe Orton and worked with Nic Roeg; and he was aware that Clarke, discoverer of Ray Winstone and Tim Roth, preferred not to cast known faces. But once the two men had met and hit it off, Oldman’s name was first on the team-sheet.
 
-A whole cottage industry’s worth of books and films about British hooliganism have come out since _The Firm_, and most have seemed to want to rub their real-life subjects the right way with tasty accounts of hard-man behaviour.  
-_The Firm_ does none of that. And if its towering bleakness is maybe not the happiest memorial to Alan Clarke, the undeniable brilliance of the direction certainly is.
+A whole cottage industry’s worth of books and films about British hooliganism have come out since _The Firm_, and most have seemed to want to rub their real-life subjects the right way with tasty accounts of hard-man behaviour. _The Firm_ does none of that. And if its towering bleakness is maybe not the happiest memorial to Alan Clarke, the undeniable brilliance of the direction certainly is.  
+**Richard T. Kelly, extract from booklet essay from the Blu-ray/DVD collection _Dissent & Disruption: Alan Clarke at the BBC 1969-1989_ (BFI, 2016)**  
 
-**Richard T. Kelly, extract from booklet essay from the Blu-ray/DVD collection _Dissent & Disruption: Alan Clarke at the BBC 1969-1989_ (BFI, 2016)**
-
-**SCREEN TWO: THE FIRM (DIRECTOR’S CUT)**
-
+**SCREEN TWO: THE FIRM (DIRECTOR’S CUT)**  
 _Director_: Alan Clarke  
 _©/Production Company_: BBC  
 _Producer_: David M. Thompson  
 _Production Associate_: Jacinta Peel  
 _Production Manager_: Corin Campbell Hill  
-_Location Manager_: Anthony Smith
-
+_Location Manager_: Anthony Smith  
 _1st Assistant Director:_ Corin Campbell Hill  
 _Production Assistant_: Charlotte Blair  
-_Assistant Floor Managers_: Simon Mather, Adam Richards,
-
-Jane Cossey, John Spencer
-
+_Assistant Floor Managers_: Simon Mather, Adam Richards, Jane Cossey, John Spencer  
 _Casting Adviser_: Simone Reynolds  
 _Script Editor_: Richard Langridge  
 _Screenplay_: Al Hunter  
@@ -54,9 +43,9 @@ _Film Recordist_: Roger Long
 _Dubbing Mixer_: Ron Edmonds  
 _Dubbing Editors_: Colin Goudie, Jane Merkin  
 _Stunt Arranger_: Terry Forrestal  
-_Armourer_: Ken Bond
+_Armourer_: Ken Bond  
 
-**Cast**
+**Cast**  
 Gary Oldman _(Clive ‘Bexy’ Bissell)_  
 Lesley Manville _(Sue)_  
 Philip Davis _(Yeti)_  
@@ -96,5 +85,5 @@ BBC2 tx 26.2.1989
 UK 1988©  
 68 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDQ4ODI3NF19
+eyJoaXN0b3J5IjpbODQ1MzE3MjM5XX0=
 -->
