@@ -18,31 +18,22 @@ In her 1996 _New York Times_ essay ‘The Decay of Cinema’, Susan Sontag wrote
 
 Hopkins has some fun with the filmmakers’ attempts to emulate Hollywood spectacle on a shoestring budget, which leads to thorny questions such as how to recreate the opening scene of _Oklahoma!_ (1955) when your lead actor is an 80-year-old Yorkshireman who’s never been on a horse. But beyond the comedy value inherent in this concept, there’s a note of poignancy when Harry, the octogenarian in question, reveals that his homage is for his now ailing wife Mary, as _Oklahoma!_ was the first film they saw together. While _A Bunch of Amateurs_ initially appears to fit neatly into the tradition of amusing studies of English eccentrics, it deepens into a touching reflection on the importance of cinema and community for an ageing population whose lives are too often isolated and lacking in purpose. The weekly meetings of the Bradford Movie Makers offer the club’s members a human connection and respite from caring for the loved ones who are currently bedridden or struggling with dementia; one member tells us that being part of the group has helped him cope with bouts of depression. Sontag writes about cinephilia keeping cinema alive, but it’s clear from _A Bunch of Amateurs_ that cinema can also serve to sustain the cinephiles themselves.
 
-The film can feel a little directionless as it shifts interest from one member to another, but Hopkins creates a narrative thread by focusing on the looming threat of extinction that the group faces. Similar collectives in Leeds and Wakefield have already folded, and the region’s once-thriving amateur film community is dwindling into an ever smaller niche. With attempts to enlist younger members falling flat, there’s a very real possibility that this club will die with its ageing membership. The Bradford Movie Makers celebrate their 90th anniversary this year, but how many years do they have left? We only know one thing for sure: they will make the most of every moment.
+The film can feel a little directionless as it shifts interest from one member to another, but Hopkins creates a narrative thread by focusing on the looming threat of extinction that the group faces. Similar collectives in Leeds and Wakefield have already folded, and the region’s once-thriving amateur film community is dwindling into an ever smaller niche. With attempts to enlist younger members falling flat, there’s a very real possibility that this club will die with its ageing membership. The Bradford Movie Makers celebrate their 90th anniversary this year, but how many years do they have left? We only know one thing for sure: they will make the most of every moment.  
+**Philip Concannon, _Sight and Sound_, December 2022**  
+<br><br>
 
-Philip Concannon, _Sight and Sound_, December 2022
-
-<![endif]-->
-
-**A BUNCH OF AMATEURS**
-
+**A BUNCH OF AMATEURS**  
 _Director_: Kim Hopkins  
 ©: Labor of Love Films Ltd  
-_a_ Labor of Love Films _production_
-
+_a_ Labor of Love Films _production_  
 _With support from_: Gotham  
-_Production Company_:  
-BFI Doc Society Creative Edit Lab  
-_Fiscal sponsorship provided by_:  
-The International Documentary Association  
-_Made with the support of the_:  
-Yorkshire Content Fund, BFI Doc Society Fund  
+_Production Company_:  BFI Doc Society Creative Edit Lab  
+_Fiscal sponsorship provided by_:  The International Documentary Association  
+_Made with the support of the_:  Yorkshire Content Fund, BFI Doc Society Fund  
 _Presented by_: BFI Doc Society Fund  
 _in association with_: Screen Yorkshire  
 _International Sales_: Met Film Sales  
-_Executive Producers_: Lisa-Marie Russo,  
-Caroline Cooper Charles, Simon Beaufoy,  
-Capella Fahoome, Megan Gelstein  
+_Executive Producers_: Lisa-Marie Russo,  Caroline Cooper Charles, Simon Beaufoy,  Capella Fahoome, Megan Gelstein  
 _Produced by_: Margareta Szabo, Kim Hopkins  
 _Writer_: Kim Hopkins  
 _Cinematography_: Kim Hopkins  
@@ -53,11 +44,11 @@ _Composer_: Terence Dunn
 _Sound Recordist_: Margareta Szabo  
 _Re-recording Mixer_: Tom Hammond
 
-UK 2022©
-
+UK 2022©  
 95 mins
 
 Courtesy of Republic Distribution
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDkzOTI4M119
+eyJoaXN0b3J5IjpbMTcwMTIwMDYzMF19
 -->
