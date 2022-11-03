@@ -25,18 +25,15 @@ That said, the real stars of _Black Panther_ are its women, both before and behi
 
 Rachel Morrison, who became the first woman nominated for an Academy Award in the cinematography category for her work on _Mudbound_, produces some remarkably stunning visuals here, while Ruth E. Carter’s costumes cement the film’s Afrofuturist aesthetic with elaborate designs inspired by real-life African tribes such as the Xhosa, Dogon and Suri, among others.
 
-A meticulously crafted film, _Black Panther_ establishes itself as a kinetic, powerful entry in the superhero genre.
+A meticulously crafted film, _Black Panther_ establishes itself as a kinetic, powerful entry in the superhero genre.  
+**Kelli Weston, _Sight and Sound_, April 2018**
+<br><br>
 
-Kelli Weston, _Sight and Sound_, April 2018
 
-<![endif]-->
-
-**BLACK PANTHER**
-
+**BLACK PANTHER**  
 _Directed by_: Ryan Coogler  
 _Presented by_: Marvel Studios  
-_South African Production Services by_:  
-Moonlighting Films  
+_South African Production Services by_:  Moonlighting Films  
 _Executive Producers_: Louis D’Esposito, Victoria Alonso, Nate Moore, Jeffrey Chernov, Stan Lee  
 _Produced by_: Kevin Feige  
 _Co-producer_: David J. Grant  
@@ -66,8 +63,7 @@ _Steadicam Operator_: P. Scott Sakamoto
 _Digital Imaging Technician_: Nicholas Kay  
 _Key Grip_: C. Alan Rawlins  
 _Visual Effects Supervisor_: Geoffrey Baumann  
-_Additional Visual Effects Supervisor_:  
-Jesse James Chisholm  
+_Additional Visual Effects Supervisor_:  Jesse James Chisholm  
 _Visual Effects Producer_: Lisa Beroud  
 _Visual Effects by_: Method Studios, Industrial Light & Magic, Scanline, Luma Pictures, RISE Visual Effects Studios, Trixter, Double Negative, Storm Studios, Mammal Studios, Ghost VFX, Perception, Cantina Creative, Lola VFX, capital T, Technicolor VFX  
 _Additional Visual Effects_: Exceptional Minds, Rodeo, Anibrain, BOT VFX, Futureworks, FX3X, Imageloom VFX, Method Pune, Pixstone Images, Vertigo Visual, Yannix Thailand Co  
@@ -80,13 +76,10 @@ _Edited by_: Michael P. Shawver, Debbie Berman
 _Supervising Finishing Artist_: Maxine Gervais  
 _Production Designer_: Hannah Beachler  
 _Supervising Art Director_: Alan Hook  
-_Art Directors_: Jason T. Clark, Joseph Hiura,  
-Alex McCarroll, Jay Pelissier, Domenic Silvestri  
+_Art Directors_: Jason T. Clark, Joseph Hiura,  Alex McCarroll, Jay Pelissier, Domenic Silvestri  
 _Assistant Art Director_: Marlie Arnold  
 _Head of Visual Development_: Ryan Meinerding  
-_Set Designers_: C. Scott Baker, Aric Cheng,  
-David Chow, Nick Cross, Patrick Dunn-Baker, Daniel Frank, Sarah Forrest, Chad S. Frey,  
-Marco Rubeo, Mayumi Valentine  
+_Set Designers_: C. Scott Baker, Aric Cheng,  David Chow, Nick Cross, Patrick Dunn-Baker, Daniel Frank, Sarah Forrest, Chad S. Frey,  Marco Rubeo, Mayumi Valentine  
 _Set Decorator_: Jay Hart  
 _Graphic Designer_: Zach Fannin  
 _Property Master_: Drew Petrotta  
@@ -107,8 +100,7 @@ _Score Supervisor_: Steve Durkee
 _Supervising Music Editor_: Steve Durkee  
 _Production Sound Mixer_: Peter Devlin  
 _Boom Operator_: David Fiske Raymond  
-_Re-recording Mixers_: Steve Boeddeker,  
-Brandon Proctor  
+_Re-recording Mixers_: Steve Boeddeker,  Brandon Proctor  
 _Supervising Sound Editors_: Benjamin A. Burtt, Steve Boeddeker  
 _Stunt Co-ordinators_: Andy Gill, Jonathon Eusebio  
 _Fight Team Co-ordinator_: Clayton Barber  
@@ -118,8 +110,7 @@ _Unit Publicist_: Carol McConnaughey
 _Transportation Co-ordinator_: Aaron Skalka  
 _Digital Intermediate by_: Technicolor
 
-_Cast:_
-
+**Cast**  
 Chadwick Boseman _(T’Challa, ‘Black Panther’)_  
 Michael B. Jordan _(Erik Killmonger)_  
 Lupita Nyong’o _(Nakia)_  
@@ -145,5 +136,5 @@ USA 2018©
 
 134 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDMzMDI1NzZdfQ==
+eyJoaXN0b3J5IjpbMTI3MTk0MTY3OV19
 -->
