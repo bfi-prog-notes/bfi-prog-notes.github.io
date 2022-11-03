@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Black Panther
+published: true
+date: 2022-11-06
+readtime: true
+categories: ['CLOSE-UP - RYAN COOGLER']
+tags: [Action, Adventure, Fantasy]
+metadata: 'USA 2018, 134 mins<br> Director: Ryan Coogler'
+pdf: '2022-11-06-black-panther.pdf'
+---
 
 _Black Panther_, from director Ryan Coogler and co-screenwriter Joe Robert Cole, begins with a history lesson. A colourful animated sequence unravels the origins of the fictional African nation of Wakanda, as told by a father to his son. Wakanda, the home of our hero T’Challa (played with muted gravitas by Chadwick Boseman), has disguised itself to the outside world as a poor farming nation, in keeping with the stereotypes that often reduce the continent to a single country.
 
@@ -16,8 +26,7 @@ Each of Coogler’s three films has been concerned with the legacy of fathers. H
 
 The Marvel Cinematic Universe is no stranger to the tragedy of patrilineal trauma, with Thor, Tony Stark and lately Peter Quill all grappling with varying degrees of filial strife. But what in part distinguishes _Black Panther_, the film and the man, from other Avengers is this reverence for ancestors, and the ripples – the curses and blessings – that the past sends across generations into the present. It lends the movie a refreshing poignancy and vitality rarely found in the age of superhero films.
 
-Comparisons to _The Lion King_ (1994) are well earned, but the film also feels a natural heir to classic Afrofuturist cinema such as _Space Is the Place_ (1974) and _The Brother from Another Planet_ (1984). Moreover, Coogler brings a deft, nuanced grace to questions of generational hauntings and Wakanda’s responsibility to the outside world. For, ultimately, Erik embodies all the rage and pain of the African diaspora, of a people displaced and cheated out of  
-an inheritance.
+Comparisons to _The Lion King_ (1994) are well earned, but the film also feels a natural heir to classic Afrofuturist cinema such as _Space Is the Place_ (1974) and _The Brother from Another Planet_ (1984). Moreover, Coogler brings a deft, nuanced grace to questions of generational hauntings and Wakanda’s responsibility to the outside world. For, ultimately, Erik embodies all the rage and pain of the African diaspora, of a people displaced and cheated out of  an inheritance.
 
 Jordan, in this his third collaboration with Coogler, commands the screen with a simmering gaze and a bitter, acerbic delivery, in a magnetic performance sure to earn Killmonger the rabid fanaticism that has attached to Loki and Heath Ledger’s Joker before him. Boseman, for his part, despite having the more thankless role of the two, carries the film with a quiet dignity one might rightfully expect of a man raised to be king.
 
@@ -135,6 +144,35 @@ Danny Sapani _(border tribe elder)_
 USA 2018©  
 134 mins
 <br><br>
+
+**CLOSE-UP: RYAN COOGLER**<br>
+**Fruitvale Station**<br>
+Sat 22 Oct 12:30; Sat 29 Oct 16:15;  Mon 14 Nov 20:50<br>
+**Creed**<br>
+Sat 22 Oct 20:25; Sun 13 Nov 18:00<br>
+**Black Panther**<br>
+Sun 6 Nov 18:10; Sat 12 Nov 20:20<br>
+**Black Panther: Wakanda Forever**<br>
+Opens Fri 11 Nov BFI IMAX<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTExOTY2NjY3N119
 -->
