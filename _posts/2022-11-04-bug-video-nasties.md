@@ -27,119 +27,118 @@ Philadelphia rapper Tierra Whack has become renowned for her idiosyncratic take 
 Finally, our second Chris Cunningham video of the evening is a bona fide classic.  In fact it is the video that brought Cunningham out of relative obscurity and began a period of extraordinarily prolific creativity, a canon of work including some of the best music videos ever made. It’s also where his collaboration started with Richard E James, aka Aphex Twin. We are talking about _Come to Daddy_ of course – here being shown in the full Director’s Cut version. It is worth mentioning that before this, Cunningham had made several videos; but apart from his first for Autechre (made on spec) in 1995, none had really drawn heavily upon his background as both comic book artist and creature FX maker – he had worked on the original _Judge Dredd_ movie, and for Stanley Kubrick, in the development of the movie _A.I_. But the impact of _Come to Daddy_ – made in 1997 on a budget of around £20,000 – came from its incredibly powerful set-pieces, achieved primarily through a combination of excellent casting with brilliantly effective prosthetics. Cunningham has also asserted that _Come to Daddy_ is essentially a comedy – with a happy ending, as a whole family of monsters gather together. Ultimately it is pretty  
 much perfect.
 
-<![endif]-->
 
-**BUG title sequence**
 
+**BUG title sequence**<br>
 _Director:_ Miland Suman
 
-**The Horrors – Sheena Is a Parasite**
-
-_Dir:_ Chris Cunningham
-
-_Prod co:_ Black Dog Films
-
-_Rec co:_ Polydor
+**The Horrors – Sheena Is a Parasite**<br>
+_Dir:_ Chris Cunningham<br>
+_Prod co:_ Black Dog Films<br>
+_Rec co:_ Polydor<br>
 
 UK 2006
 
-**Grizzly Bear – Ready Able**
+**Grizzly Bear – Ready Able**<br>
 
-_Dir:_ Allison Schulnik
+_Dir:_ Allison Schulnik<br>
 
-_Prod co:_ n/a
+_Prod co:_ n/a<br>
 
-_Rec co:_ Warp
+_Rec co:_ Warp<br>
 
 US 2009
 
-**Antony & The Johnsons – Cut the World**
+**Antony & The Johnsons – Cut the World**<br>
 
-_Dir:_ Nabil Elderkin
+_Dir:_ Nabil Elderkin<br>
 
-Prod co: Academy Films
+Prod co: Academy Films<br>
 
-_Rec co:_ Secretly Canadian, Rebis Music
+_Rec co:_ Secretly Canadian, Rebis Music<br>
 
 US/UK 2012
 
-**Nicolas Godin – Widerstehe Doch der Sünde**
+**Nicolas Godin – Widerstehe Doch der Sünde**<br>
 
-_Dir:_ The Sacred Egg
+_Dir:_ The Sacred Egg<br>
 
-_Prod co:_ Riff Raff Films
+_Prod co:_ Riff Raff Films<br>
 
-_Rec co:_ Because
+_Rec co:_ Because<br>
 
 UK/France 2015
 
-**The Hickey Underworld – Blonde Fire**
+**The Hickey Underworld – Blonde Fire**<br>
 
-_Dir:_ Joe Vanhoutteghem
+_Dir:_ Joe Vanhoutteghem<br>
 
-_Prod co:_ Czar Film
+_Prod co:_ Czar Film<br>
 
 Belgium 2009
 
-**The Yeah Yeah Yeahs – Y Control**
+**The Yeah Yeah Yeahs – Y Control**<br>
 
-_Dir:_ Spike Jonze
+_Dir:_ Spike Jonze<br>
 
-_Prod co:_ Satellite Films
+_Prod co:_ Satellite Films<br>
 
-_Rec co:_ RCA Records
+_Rec co:_ RCA Records<br>
 
 US 2004
 
-**Brodinski ft Zelooperz – Master Section**
+**Brodinski ft Zelooperz – Master Section**<br>
 
-_Dir:_ Matilda Finn
+_Dir:_ Matilda Finn<br>
 
-_Prod co:_ Stink Films
+_Prod co:_ Stink Films<br>
 
-_Rec co:_ Parlophone, Owsla
+_Rec co:_ Parlophone, Owsla<br>
 
-UK/France 2020
+UK/France 2020<br>
 
-**Radiohead – There There**
+**Radiohead – There There**<br>
 
-_Dir:_ Chris Hopewell
+_Dir:_ Chris Hopewell<br>
 
-_Prod co:_ Collision Films
+_Prod co:_ Collision Films<br>
 
-_Rec co:_ Parlophone
+_Rec co:_ Parlophone<br>
 
 UK 2003
 
-**The Shoes ft Dominic Lord – 1960s Horror**
+**The Shoes ft Dominic Lord – 1960s Horror**<br>
 
-_Dir:_ Emile Sornin
+_Dir:_ Emile Sornin<br>
 
-_Prod co:_ Division
+_Prod co:_ Division<br>
 
-_Rec co:_ Labelgum
+_Rec co:_ Labelgum<br>
 
 France 2016
 
-**Tierra Whack – Unemployed**
+**Tierra Whack – Unemployed**<br>
 
-_Dir:_ Cat Solen
+_Dir:_ Cat Solen<br>
 
-_Prod co:_ Artery Industries
+_Prod co:_ Artery Industries<br>
 
-_Rec co:_ Interscope
+_Rec co:_ Interscope<br>
 
 US 2019
 
-**Aphex Twin – Come to Daddy**
+**Aphex Twin – Come to Daddy**<br>
 
-_Dir:_ Chris Cunningham
+_Dir:_ Chris Cunningham<br>
 
-_Prod co:_ Black Dog Films
+_Prod co:_ Black Dog Films<br>
 
-_Rec co:_ Warp
+_Rec co:_ Warp<br>
 
-UK 1997
+UK 1997<br>
+<br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjc1NTY1XX0=
+eyJoaXN0b3J5IjpbLTQ4MDkwMTEzNF19
 -->
