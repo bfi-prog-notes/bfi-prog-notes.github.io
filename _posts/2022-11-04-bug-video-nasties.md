@@ -1,4 +1,4 @@
-<![endif]-->
+
 
 Welcome to a very special edition of BUG, the BFI’s regular strand for all things music video-related, with a show designed to send a shiver down the spine, chill the blood, and even leave you screaming in sheer terror…
 
@@ -14,8 +14,7 @@ In 2015, the British directing duo of Alex Mavor and Ed Kaye – aka The Sacred 
 
 Back in the late Noughties a series of videos by the Belgian commercials director Joe Vanhoutteghem were released for the Antwerp alt-rock band The Hickey Underworld that mined a very particular strain of the bizarre. None more so than the extraordinary video for _Blonde Fire_, in which Vanhoutteghem riffs upon the Frankenstein story and other tales of reanimation, but also takes the idea of recycling of rubbish and organic matter down a wormhole of Hell. Brilliantly shot by cinematographer Nicolas Karakatsanis, the video was filmed close to an abattoir – for reasons that will become obvious.
 
-Having made a succession of classic music videos in the 1990s, for the likes of the Beastie Boys, Bjork, Weezer and Fatboy Slim, and then heading for Hollywood to direct _Being John Malkovich_ and _Adaptation_, Spike Jonze returned to music videos in 2004 with the strange and unsettling video for then-girlfriend Karen O’s band  
-The Yeah Yeah Yeahs, in which the band perform their song _Y Control_ in a dank basement among a gang of creepy, possibly undead children. Jonze creates a lurking sense of foreboding horror with the video’s distinctive murky look, but this is leavened by his quirky, anarchic humour. In fact, Jonze insisted after the video was released that he was aiming for comedy, but a level of spontaneity on the shoot ended up contributing to the shock value.
+Having made a succession of classic music videos in the 1990s, for the likes of the Beastie Boys, Bjork, Weezer and Fatboy Slim, and then heading for Hollywood to direct _Being John Malkovich_ and _Adaptation_, Spike Jonze returned to music videos in 2004 with the strange and unsettling video for then-girlfriend Karen O’s band  The Yeah Yeah Yeahs, in which the band perform their song _Y Control_ in a dank basement among a gang of creepy, possibly undead children. Jonze creates a lurking sense of foreboding horror with the video’s distinctive murky look, but this is leavened by his quirky, anarchic humour. In fact, Jonze insisted after the video was released that he was aiming for comedy, but a level of spontaneity on the shoot ended up contributing to the shock value.
 
 More recently the British director Matilda Finn has become renowned for a directing style that puts a contemporary twist on the classic Gothic sensibility – most recently for the visual campaign accompanying The Weeknd’s new album _Dawn FM_. Before that she turned the dancefloor into a crucible of terror for French DJ Brodinski’s _Master Section_, featuring the outlandish vocals of Zelooperz. In the video, inspired by the nightclub scenes in Hype Williams debut feature _Belly_, with a twist of David Lynch’s _Blue Velvet_, a tweaked-out, earphone-wearing Mr Big descends from the VIP section to join the party, stop everyone in his tracks, and command his security to bring him a terrified partner to indulge his gruesome predilection.
 
@@ -25,8 +24,7 @@ Arguably our most ludicrous monster of this evening’s presentation pops up in 
 
 Philadelphia rapper Tierra Whack has become renowned for her idiosyncratic take on the world – certainly in 2018’s _Whack’s World_, a collection of one-minute songs accompanied by an eccentric short film.  She followed that with a distinctive comic horror for _Unemployed_, directed by Cat Solen, in which she plays a hard-pressed chef, striking terror into the potato community. But it turns out that the real monsters are Tierra’s employers…
 
-Finally, our second Chris Cunningham video of the evening is a bona fide classic.  
-In fact it is the video that brought Cunningham out of relative obscurity and began a period of extraordinarily prolific creativity, a canon of work including some of the best music videos ever made. It’s also where his collaboration started with Richard E James, aka Aphex Twin. We are talking about _Come to Daddy_ of course – here being shown in the full Director’s Cut version. It is worth mentioning that before this, Cunningham had made several videos; but apart from his first for Autechre (made on spec) in 1995, none had really drawn heavily upon his background as both comic book artist and creature FX maker – he had worked on the original _Judge Dredd_ movie, and for Stanley Kubrick, in the development of the movie _A.I_. But the impact of _Come to Daddy_ – made in 1997 on a budget of around £20,000 – came from its incredibly powerful set-pieces, achieved primarily through a combination of excellent casting with brilliantly effective prosthetics. Cunningham has also asserted that _Come to Daddy_ is essentially a comedy – with a happy ending, as a whole family of monsters gather together. Ultimately it is pretty  
+Finally, our second Chris Cunningham video of the evening is a bona fide classic.  In fact it is the video that brought Cunningham out of relative obscurity and began a period of extraordinarily prolific creativity, a canon of work including some of the best music videos ever made. It’s also where his collaboration started with Richard E James, aka Aphex Twin. We are talking about _Come to Daddy_ of course – here being shown in the full Director’s Cut version. It is worth mentioning that before this, Cunningham had made several videos; but apart from his first for Autechre (made on spec) in 1995, none had really drawn heavily upon his background as both comic book artist and creature FX maker – he had worked on the original _Judge Dredd_ movie, and for Stanley Kubrick, in the development of the movie _A.I_. But the impact of _Come to Daddy_ – made in 1997 on a budget of around £20,000 – came from its incredibly powerful set-pieces, achieved primarily through a combination of excellent casting with brilliantly effective prosthetics. Cunningham has also asserted that _Come to Daddy_ is essentially a comedy – with a happy ending, as a whole family of monsters gather together. Ultimately it is pretty  
 much perfect.
 
 <![endif]-->
@@ -143,5 +141,5 @@ _Rec co:_ Warp
 
 UK 1997
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjkzMjg0OF19
+eyJoaXN0b3J5IjpbLTgwMjc1NTY1XX0=
 -->
