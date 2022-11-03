@@ -36,109 +36,69 @@ _Director:_ Miland Suman
 _Dir:_ Chris Cunningham<br>
 _Prod co:_ Black Dog Films<br>
 _Rec co:_ Polydor<br>
-
 UK 2006
 
 **Grizzly Bear – Ready Able**<br>
-
 _Dir:_ Allison Schulnik<br>
-
 _Prod co:_ n/a<br>
-
 _Rec co:_ Warp<br>
-
 US 2009
 
 **Antony & The Johnsons – Cut the World**<br>
-
 _Dir:_ Nabil Elderkin<br>
-
 Prod co: Academy Films<br>
-
 _Rec co:_ Secretly Canadian, Rebis Music<br>
-
 US/UK 2012
 
 **Nicolas Godin – Widerstehe Doch der Sünde**<br>
-
 _Dir:_ The Sacred Egg<br>
-
 _Prod co:_ Riff Raff Films<br>
-
 _Rec co:_ Because<br>
-
 UK/France 2015
 
 **The Hickey Underworld – Blonde Fire**<br>
-
 _Dir:_ Joe Vanhoutteghem<br>
-
 _Prod co:_ Czar Film<br>
-
 Belgium 2009
 
 **The Yeah Yeah Yeahs – Y Control**<br>
-
 _Dir:_ Spike Jonze<br>
-
 _Prod co:_ Satellite Films<br>
-
 _Rec co:_ RCA Records<br>
-
 US 2004
 
 **Brodinski ft Zelooperz – Master Section**<br>
-
 _Dir:_ Matilda Finn<br>
-
 _Prod co:_ Stink Films<br>
-
 _Rec co:_ Parlophone, Owsla<br>
-
 UK/France 2020<br>
 
 **Radiohead – There There**<br>
-
 _Dir:_ Chris Hopewell<br>
-
 _Prod co:_ Collision Films<br>
-
 _Rec co:_ Parlophone<br>
-
 UK 2003
 
 **The Shoes ft Dominic Lord – 1960s Horror**<br>
-
 _Dir:_ Emile Sornin<br>
-
 _Prod co:_ Division<br>
-
 _Rec co:_ Labelgum<br>
-
 France 2016
 
 **Tierra Whack – Unemployed**<br>
-
 _Dir:_ Cat Solen<br>
-
 _Prod co:_ Artery Industries<br>
-
 _Rec co:_ Interscope<br>
-
 US 2019
 
 **Aphex Twin – Come to Daddy**<br>
-
 _Dir:_ Chris Cunningham<br>
-
 _Prod co:_ Black Dog Films<br>
-
 _Rec co:_ Warp<br>
-
 UK 1997<br>
 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDkwMTEzNF19
+eyJoaXN0b3J5IjpbLTIwMzcwMjY1ODJdfQ==
 -->
