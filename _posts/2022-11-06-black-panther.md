@@ -132,9 +132,9 @@ Connie Chiume _(mining tribe elder)_
 Dorothy Steel _(merchant tribe elder)_  
 Danny Sapani _(border tribe elder)_
 
-USA 2018©
-
+USA 2018©  
 134 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTk0MTY3OV19
+eyJoaXN0b3J5IjpbLTExOTY2NjY3N119
 -->
