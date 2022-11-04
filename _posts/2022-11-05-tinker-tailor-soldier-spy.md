@@ -1,9 +1,6 @@
 
 
-<![endif]-->
-
-With a remarkable cast (Benedict Cumberbatch, Kathy Burke, Tom Hardy and Stephen Graham are in there too), this adaptation of John Le Carré’s Cold War espionage mystery is inevitably classy and (given the running time) complex in its plotting. As the taciturn George Smiley, brought out of retirement to investigate a mole within MI6, Oldman bravely – and very successfully – follows in Alec Guinness’s footsteps.
-
+With a remarkable cast (Benedict Cumberbatch, Kathy Burke, Tom Hardy and Stephen Graham are in there too), this adaptation of John Le Carré’s Cold War espionage mystery is inevitably classy and (given the running time) complex in its plotting. As the taciturn George Smiley, brought out of retirement to investigate a mole within MI6, Oldman bravely – and very successfully – follows in Alec Guinness’s footsteps.  
 **bfi.org.uk**
 
 Two big questions hover over the film _Tinker Tailor Soldier Spy_. How good a slow-burn spy thriller is it, and how well does it adapt one of the trickier narratives in contemporary fiction? Retired agent George Smiley (Gary Oldman) is brought back to uncover painstakingly the identity of a mole – a double agent, working for the Soviets – who is one of the four men who currently lead the ‘Circus’, author John le Carré’s nickname for MI6. _Tinker Tailor Soldier Spy_ is set in the early years of the 1970s. It was, historically, another low dishonest decade, as Auden called the 1930s, and for most cinemagoers in 2011 it will be ancient history: interesting, but not quite as interesting as the 1950s or 60s – currently being boomed on television by _Mad Men_ and _The Hour_. _Tinker Tailor Soldier Spy_’s director Tomas Alfredson, one calculates, was a six-year-old in Stockholm in 1971 not particularly concerned, one presumes, about the Cold War, from which Sweden had wisely kept itself neutral.
@@ -21,44 +18,44 @@ Alfredson’s _Tinker Tailor Soldier Spy_ is a hugely successful treatment of fo
 **John Sutherland, _Sight & Sound_, October 2011**  
 
 **TINKER TAILOR SOLDIER SPY**  
-_Directed by:_ Tomas Alfredson
-©: Karla Films Ltd, Paradis Films S.A.R.L., Kinowelt Filmproduktion GmbH
-_Production Companies:_ Karla Films, Paradis Films, Kinowelt Filmproduktion, Working Title
-_With the participation of:_ Canal+, CinéCinéma
-_Presented by:_ StudioCanal
-_Production Services in Hungary Provided by:_ Raleigh Film Budapest Kft
-_Production Services in Istanbul Provided by:_ AZ Celtic Films
-_Executive Producers:_ Debra Hayward, Liza Chasin, Olivier Courson, Ron Halpern, John le Carré, Peter Morgan, Douglas Urbanski
-_Produced by:_ Tim Bevan, Eric Fellner, Robyn Slovo
-_Co-producer:_ Alexandra Ferguson
-_Budapest Unit Line Producer:_ Artist Robinson
-_Istanbul Unit Line Producer:_ Alex Sutherland
-_Unit Production Manager_: Tim Wellspring
-_Working Title Production Supervisor:_ Kate Fasulo
-_Working Title Production Co-ordinator:_ Jack Sidey
-_Production Co-ordinator:_ Hannah Collett
-_Production Accountant:_ Jon Duncan
-_Unit Manager:_ Joshua Benedetti
-_Location Manager:_ Steve Mortimore
-_Additional Locations Manager:_ Charlotte Wright
-_Location Scout:_ Damon Crane
-_Post-production Supervisors:_ Tania Blunden, Deborah Harding
-_2nd Unit Director:_ Mikael Marcimain
-_1st Assistant Director:_ Alexander Oakley
-_2nd Assistant Director:_ Mark Hopkins
-_Script Supervisor:_ Libbie Barr
-_Casting by:_ Jina Jay
-_Screenplay by:_ Bridget O’Connor, Peter Straughan
-_Based on the novel by:_ John le Carré
-_Director of Photography:_ Hoyte van Hoytema
-_2nd Unit Director of Photography:_ Jallo Faber
-_B Camera Operator:_ Peter Taylor
-_A Camera Grip:_ Colin Strachan
-_Additional Key Grip:_ Andy Hopkins
-_Gaffer:_ Alan Martin
-_Unit and Special Stills Photographer:_ Jack English
-_Visual Effects by:_ Framestore
-_Additional Visual Effects:_ The Chimney Pot
+_Directed by:_ Tomas Alfredson  
+©: Karla Films Ltd, Paradis Films S.A.R.L., Kinowelt Filmproduktion GmbH  
+_Production Companies:_ Karla Films, Paradis Films, Kinowelt Filmproduktion, Working Title  
+_With the participation of:_ Canal+, CinéCinéma  
+_Presented by:_ StudioCanal  
+_Production Services in Hungary Provided by:_ Raleigh Film Budapest Kft  
+_Production Services in Istanbul Provided by:_ AZ Celtic Films  
+_Executive Producers:_ Debra Hayward, Liza Chasin, Olivier Courson, Ron Halpern, John le Carré, Peter Morgan, Douglas Urbanski  
+_Produced by:_ Tim Bevan, Eric Fellner, Robyn Slovo  
+_Co-producer:_ Alexandra Ferguson  
+_Budapest Unit Line Producer:_ Artist Robinson  
+_Istanbul Unit Line Producer:_ Alex Sutherland  
+_Unit Production Manager_: Tim Wellspring  
+_Working Title Production Supervisor:_ Kate Fasulo  
+_Working Title Production Co-ordinator:_ Jack Sidey  
+_Production Co-ordinator:_ Hannah Collett  
+_Production Accountant:_ Jon Duncan  
+_Unit Manager:_ Joshua Benedetti  
+_Location Manager:_ Steve Mortimore  
+_Additional Locations Manager:_ Charlotte Wright  
+_Location Scout:_ Damon Crane  
+_Post-production Supervisors:_ Tania Blunden, Deborah Harding  
+_2nd Unit Director:_ Mikael Marcimain  
+_1st Assistant Director:_ Alexander Oakley  
+_2nd Assistant Director:_ Mark Hopkins  
+_Script Supervisor:_ Libbie Barr  
+_Casting by:_ Jina Jay  
+_Screenplay by:_ Bridget O’Connor, Peter Straughan  
+_Based on the novel by:_ John le Carré  
+_Director of Photography:_ Hoyte van Hoytema  
+_2nd Unit Director of Photography:_ Jallo Faber  
+_B Camera Operator:_ Peter Taylor  
+_A Camera Grip:_ Colin Strachan  
+_Additional Key Grip:_ Andy Hopkins  
+_Gaffer:_ Alan Martin  
+_Unit and Special Stills Photographer:_ Jack English  
+_Visual Effects by:_ Framestore  
+_Additional Visual Effects:_ The Chimney Pot 
 _Special Effects Supervisor:_ Mark Holt
 _Editor:_ Dino Jonsäter
 _Consultant Editor/Additional Editing by:_ Jill Bilcock  
@@ -136,5 +133,5 @@ Tom Stuart _(Ben)_
 UK/France/Germany 2011©
 127 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI4MDQyNDZdfQ==
+eyJoaXN0b3J5IjpbNDk2MTIxNzddfQ==
 -->
