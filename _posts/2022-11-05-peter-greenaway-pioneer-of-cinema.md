@@ -1,3 +1,14 @@
+---
+layout: post
+title: Peter Greenaway<br> Pioneer of Cinema
+published: true
+date: 2022-11-05
+readtime: true
+categories: ['FRAMES OF MIND<br> THE FILMS OF PETER GREENAWAY']
+tags: [Talk]
+metadata: 
+pdf: '2022-11-05-peter-greenaway-pioneer-of-cinema.pdf'
+---
 
 Few directors have been as committed to articulating film as a medium distinct from other forms of drama and storytelling as Peter Greenaway. Working as filmmaker and visual artist, Greenaway has engaged with and drawn on various art forms, asking questions about the role of art within culture. Join us for a day of talks and discussion exploring this highly distinctive artist.  
 
@@ -41,7 +52,55 @@ He is a member of both FIPRESCI (the International Federation of Film Critics) a
 
 Now one of Britain’s leading film editors, John Wilson’s films include _Billy Elliot_ (2000), which gained 13 BAFTA and three Oscar nominations including a BAFTA and an ACE Eddie nomination for Best Film Editing. Following this US nomination, John was invited to join American Cinema Editors (ACE). Other films include _The History Boys_ (2006) _The Book Thief_ (2013) and _Me Before You_ (2016). He has also edited 13 episodes of _Downton Abbey_.
 
-John’s most recent film _Allelujah_ premiered at this year’s London Film Festival
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4Njk4NDcyXX0=
--->
+John’s most recent film _Allelujah_ premiered at this year’s London Film Festival  
+<br>  
+
+**FRAMES OF MIND: THE FILMS OF PETER GREENAWAY**  
+**A Zed & Two Noughts**  
+Tue 18 Oct 18:10; Sat 5 Nov 17:40; Sat 12 Nov 17:40; Mon 21 Nov 20:40; Sun 27 Nov 12:15  
+**Peter Greenaway: Frames of Mind Season Introduction**  
+Wed 19 Oct 18:10  
+**The Belly of an Architect**  
+Wed 19 Oct 20:30; Fri 18 Nov 18:20; Tue 22 Nov 18:10; Sat 26 Nov 15:30  
+**The Falls**  
+Sat 22 Oct 13:50; Sun 6 Nov 14:40  
+**The Cook, the Thief, His Wife & Her Lover**  
+Sun 23 Oct 15:30 (+ intro by Justin Johnson, Lead Programmer); Sat 12 Nov 14:55; Mon 28 Nov 17:50  
+**Drowning by Numbers**  
+Sun 23 Oct 18:00; Sat 19 Nov 14:30; Sun 27 Nov 18:00  
+**Peter Greenaway Shorts Programme 1**  
+Mon 24 Oct 18:10; Thu 10 Nov 20:40  
+**Experimental Sound and Vision: Found Sounds, Lyrical Loops and Landscapes**  
+Thu 27 Oct 18:15; Thu 17 Nov 18:15 (+ intro by author and musician David Toop)  
+**Prospero’s Books**  
+Tue 1 Nov 17:40; Sun 20 Nov 18:00  
+**Peter Greenaway: Pioneer of Cinema**  
+Sat 5 Nov 12:00-17:00  
+**The Unreliable Narrator: Adventures in Storytelling, Documentary and Misinformation**  
+Sun 6 Nov 12:40; Fri 25 Nov 21:00  
+**A TV Dante: Cantos 1-8**  
+Tue 15 Nov 18:20  
+**The Baby of Mâcon**  
+Wed 16 Nov 20:30; Fri 25 Nov 18:00; Mon 28 Nov 20:30  
+**The Pillow Book**  
+Fri 18 Nov 20:30; Thu 24 Nov 20:30; Tue 29 Nov 17:40  
+**8½ Women**  
+Sun 20 Nov 12:50; Wed 30 Nov 20:35  
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
