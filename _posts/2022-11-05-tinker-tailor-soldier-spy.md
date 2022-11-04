@@ -17,141 +17,73 @@ In later stretches of narrative, Alfredson skilfully thins down le Carré. Smile
 
 Scandinavian is the favoured flavour for popular narrative at the moment. The Swedish director brings a tartness to the narrative which, like the drop of angostura in Smiley’s pink gin, sours the whole. Put another way, there’s a palpable whiff of _Wallander_ in Gary Oldman’s thoughtful interpretation of Smiley – the same clever use of meditative, inscrutable silence. Particularly effective – and original to the film, I think – are the scenes of Smiley swimming in Hampstead, horn-rims firmly on, hair Brylcreemed back, brain, underneath, working remorselessly. In Alfredson’s film, le Carré’s primal influence is necessarily felt – but not dictatorially. Liberties are taken. Rather more conflicting is the makers’ (and doubtless some of the audience’s) concurrent awareness of earlier adaptations. How to capitalise on, yet differentiate the film from, the overwhelmingly successful 1979 TV version? How to use the widely listened to 1988 and 2009 radio versions? Use, that is, and at the same time create a necessary dividing space. Some of the film’s cast (notably Oldman) hew very different interpretations from preceding adaptations; others stay close.
 
-Alfredson’s _Tinker Tailor Soldier Spy_ is a hugely successful treatment of formidably resistant materials. He achieves his success by interpreting le Carré, and taking his interpretation in some illuminatingly new directions (of which, one is told, the author, who made a papal visit or two to the set, approved). The cast is immensely strong and, one senses, Alfredson has allowed what is the cream of the current British acting troupe a corresponding freedom to interpret their roles. Oldman, in particular, makes full use of that freedom. In short this is as much an enrichment as an adaptation of the book Alfredson was given to remake. One can only hope that the film will do as well as it deserves to and that the director will be assigned the remaining parts of the trilogy.
+Alfredson’s _Tinker Tailor Soldier Spy_ is a hugely successful treatment of formidably resistant materials. He achieves his success by interpreting le Carré, and taking his interpretation in some illuminatingly new directions (of which, one is told, the author, who made a papal visit or two to the set, approved). The cast is immensely strong and, one senses, Alfredson has allowed what is the cream of the current British acting troupe a corresponding freedom to interpret their roles. Oldman, in particular, makes full use of that freedom. In short this is as much an enrichment as an adaptation of the book Alfredson was given to remake. One can only hope that the film will do as well as it deserves to and that the director will be assigned the remaining parts of the trilogy.  
+**John Sutherland, _Sight & Sound_, October 2011**  
 
-**John Sutherland, _Sight & Sound_, October 2011**
-
-**TINKER TAILOR SOLDIER SPY**
-
+**TINKER TAILOR SOLDIER SPY**  
 _Directed by:_ Tomas Alfredson
-
 ©: Karla Films Ltd, Paradis Films S.A.R.L., Kinowelt Filmproduktion GmbH
-
-_Production Companies:_ Karla Films, Paradis Films,
-
-Kinowelt Filmproduktion, Working Title
-
+_Production Companies:_ Karla Films, Paradis Films, Kinowelt Filmproduktion, Working Title
 _With the participation of:_ Canal+, CinéCinéma
-
 _Presented by:_ StudioCanal
-
 _Production Services in Hungary Provided by:_ Raleigh Film Budapest Kft
-
 _Production Services in Istanbul Provided by:_ AZ Celtic Films
-
-_Executive Producers:_ Debra Hayward, Liza Chasin, Olivier Courson,
-
-Ron Halpern, John le Carré, Peter Morgan, Douglas Urbanski
-
+_Executive Producers:_ Debra Hayward, Liza Chasin, Olivier Courson, Ron Halpern, John le Carré, Peter Morgan, Douglas Urbanski
 _Produced by:_ Tim Bevan, Eric Fellner, Robyn Slovo
-
 _Co-producer:_ Alexandra Ferguson
-
 _Budapest Unit Line Producer:_ Artist Robinson
-
 _Istanbul Unit Line Producer:_ Alex Sutherland
-
 _Unit Production Manager_: Tim Wellspring
-
 _Working Title Production Supervisor:_ Kate Fasulo
-
 _Working Title Production Co-ordinator:_ Jack Sidey
-
 _Production Co-ordinator:_ Hannah Collett
-
 _Production Accountant:_ Jon Duncan
-
 _Unit Manager:_ Joshua Benedetti
-
 _Location Manager:_ Steve Mortimore
-
 _Additional Locations Manager:_ Charlotte Wright
-
 _Location Scout:_ Damon Crane
-
 _Post-production Supervisors:_ Tania Blunden, Deborah Harding
-
 _2nd Unit Director:_ Mikael Marcimain
-
 _1st Assistant Director:_ Alexander Oakley
-
 _2nd Assistant Director:_ Mark Hopkins
-
 _Script Supervisor:_ Libbie Barr
-
 _Casting by:_ Jina Jay
-
 _Screenplay by:_ Bridget O’Connor, Peter Straughan
-
 _Based on the novel by:_ John le Carré
-
 _Director of Photography:_ Hoyte van Hoytema
-
 _2nd Unit Director of Photography:_ Jallo Faber
-
 _B Camera Operator:_ Peter Taylor
-
 _A Camera Grip:_ Colin Strachan
-
 _Additional Key Grip:_ Andy Hopkins
-
 _Gaffer:_ Alan Martin
-
 _Unit and Special Stills Photographer:_ Jack English
-
 _Visual Effects by:_ Framestore
-
 _Additional Visual Effects:_ The Chimney Pot
-
 _Special Effects Supervisor:_ Mark Holt
-
 _Editor:_ Dino Jonsäter
-
 _Consultant Editor/Additional Editing by:_ Jill Bilcock  
 _Production Designer:_ Maria Djurkovic
-
 _Supervising Art Directors:_ Mark Raggett, Tom Brown
-
 _Art Director:_ Pilar Foy
-
 _Set Decorator:_ Tatiana MacDonald
-
 _Storyboard Artist:_ Magnus Jonasson
-
 _Property Master:_ Chris Cull
-
 _Construction Manager:_ John O’Connor
-
 _Costume Designer:_ Jacqueline Durran
-
 _Costume Supervisor:_ Dan Grace
-
 _Hair and Make-up Designer:_ Felicity Bowring
-
 _Key Hair and Make-up Artist:_ Donald McInnes
-
 _Additional Hair and Make-up Artist:_ Wakana Yoshihara
-
 _Main Titles:_ Björn Kusoffsky, Stockholm Design Lab
-
 _End Roller:_ Paul Kühlhorn, Fellow Designers
-
 _Music by:_ Alberto Iglesias
-
 _Score Conducted by:_ Alberto Iglesias
-
 _Music Supervisor:_ Nick Angel
-
 _Production Sound Mixer:_ John Casali
-
 _Boom Operator:_ Chris Murphy
-
 _Supervising Sound Editors:_ Stephen Griffiths, Andy Shelley
-
 _Re-recording Mixers:_ Howard Bargroff, Doug Cooper
-
 _Stunt Co-ordinator:_ Andy Bennett
-
 _Unit Publicist:_ Rachel Kennedy
 
 **Cast**  
@@ -204,5 +136,5 @@ Tom Stuart _(Ben)_
 UK/France/Germany 2011©
 127 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzUzMzA1Nl19
+eyJoaXN0b3J5IjpbLTE0MzI4MDQyNDZdfQ==
 -->
