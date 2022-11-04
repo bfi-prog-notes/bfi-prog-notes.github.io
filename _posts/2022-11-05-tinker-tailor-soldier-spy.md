@@ -55,57 +55,57 @@ _Additional Key Grip:_ Andy Hopkins
 _Gaffer:_ Alan Martin  
 _Unit and Special Stills Photographer:_ Jack English  
 _Visual Effects by:_ Framestore  
-_Additional Visual Effects:_ The Chimney Pot 
-_Special Effects Supervisor:_ Mark Holt
-_Editor:_ Dino Jonsäter
-_Consultant Editor/Additional Editing by:_ Jill Bilcock  
-_Production Designer:_ Maria Djurkovic
-_Supervising Art Directors:_ Mark Raggett, Tom Brown
-_Art Director:_ Pilar Foy
-_Set Decorator:_ Tatiana MacDonald
-_Storyboard Artist:_ Magnus Jonasson
-_Property Master:_ Chris Cull
-_Construction Manager:_ John O’Connor
-_Costume Designer:_ Jacqueline Durran
-_Costume Supervisor:_ Dan Grace
-_Hair and Make-up Designer:_ Felicity Bowring
-_Key Hair and Make-up Artist:_ Donald McInnes
-_Additional Hair and Make-up Artist:_ Wakana Yoshihara
-_Main Titles:_ Björn Kusoffsky, Stockholm Design Lab
-_End Roller:_ Paul Kühlhorn, Fellow Designers
-_Music by:_ Alberto Iglesias
-_Score Conducted by:_ Alberto Iglesias
-_Music Supervisor:_ Nick Angel
-_Production Sound Mixer:_ John Casali
-_Boom Operator:_ Chris Murphy
-_Supervising Sound Editors:_ Stephen Griffiths, Andy Shelley
-_Re-recording Mixers:_ Howard Bargroff, Doug Cooper
-_Stunt Co-ordinator:_ Andy Bennett
-_Unit Publicist:_ Rachel Kennedy
+_Additional Visual Effects:_ The Chimney Pot  
+_Special Effects Supervisor:_ Mark Holt  
+_Editor:_ Dino Jonsäter  
+_Consultant Editor/Additional Editing by:_ Jill Bilcock    
+_Production Designer:_ Maria Djurkovic  
+_Supervising Art Directors:_ Mark Raggett, Tom Brown  
+_Art Director:_ Pilar Foy  
+_Set Decorator:_ Tatiana MacDonald  
+_Storyboard Artist:_ Magnus Jonasson  
+_Property Master:_ Chris Cull  
+_Construction Manager:_ John O’Connor  
+_Costume Designer:_ Jacqueline Durran  
+_Costume Supervisor:_ Dan Grace  
+_Hair and Make-up Designer:_ Felicity Bowring  
+_Key Hair and Make-up Artist:_ Donald McInnes  
+_Additional Hair and Make-up Artist:_ Wakana Yoshihara  
+_Main Titles:_ Björn Kusoffsky, Stockholm Design Lab  
+_End Roller:_ Paul Kühlhorn, Fellow Designers  
+_Music by:_ Alberto Iglesias  
+_Score Conducted by:_ Alberto Iglesias  
+_Music Supervisor:_ Nick Angel  
+_Production Sound Mixer:_ John Casali  
+_Boom Operator:_ Chris Murphy  
+_Supervising Sound Editors:_ Stephen Griffiths, Andy Shelley  
+_Re-recording Mixers:_ Howard Bargroff, Doug Cooper  
+_Stunt Co-ordinator:_ Andy Bennett  
+_Unit Publicist:_ Rachel Kennedy  
 
 **Cast**  
-Gary Oldman _(George Smiley)_
-Kathy Burke _(Connie Sachs)_
-Benedict Cumberbatch _(Peter Guillam)_
-David Dencik _(Toby Esterhase)_
-Colin Firth _(Bill Haydon)_
-Stephen Graham _(Jerry Westerby)_
-Tom Hardy _(Ricki Tarr)_
-Ciarán Hinds _(Roy Bland)_
-John Hurt _(Control)_
-Toby Jones _(Percy Alleline)_
-Simon McBurney _(Oliver Lacon)_
-Mark Strong _(Jim Prideaux)_
-Svetlana Khodchenkova _(Irina)_
-Konstantin Khabensky _(Polyakov)_
-Roger Lloyd Pack _(Mendel)_
-Christian McKay _(Mackelvore)_
-Zoltán Mucsi (_Magyar)_
-Péter Kálloy Molnár _(Hungarian waiter)_
-Ilona Kassai _(woman in window)_
-Imre Csuja _(KGB agent)_
-Arthur Nightingale _(Bryant)_
-Amanda Fairbank Hynes _(Belinda)_
+Gary Oldman _(George Smiley)_  
+Kathy Burke _(Connie Sachs)_  
+Benedict Cumberbatch _(Peter Guillam)_  
+David Dencik _(Toby Esterhase)_  
+Colin Firth _(Bill Haydon)_  
+Stephen Graham _(Jerry Westerby)_  
+Tom Hardy _(Ricki Tarr)_  
+Ciarán Hinds _(Roy Bland)_  
+John Hurt _(Control)_  
+Toby Jones _(Percy Alleline)_  
+Simon McBurney _(Oliver Lacon)_  
+Mark Strong _(Jim Prideaux)_  
+Svetlana Khodchenkova _(Irina)_  
+Konstantin Khabensky _(Polyakov)_  
+Roger Lloyd Pack _(Mendel)_  
+Christian McKay _(Mackelvore)_  
+Zoltán Mucsi (_Magyar)_  
+Péter Kálloy Molnár _(Hungarian waiter)_  
+Ilona Kassai _(woman in window)_  
+Imre Csuja _(KGB agent)_  
+Arthur Nightingale _(Bryant)_  
+Amanda Fairbank Hynes _(Belinda)_  
 Peter McNeil O’Connor _(Fawn)_
 Matyelok Gibbs _(Mrs Pope Graham)_
 Philip Hill-Pearson _(Norman)_
@@ -133,5 +133,5 @@ Tom Stuart _(Ben)_
 UK/France/Germany 2011©
 127 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2MTIxNzddfQ==
+eyJoaXN0b3J5IjpbLTE2MzQ4MDA4MTFdfQ==
 -->
