@@ -106,32 +106,32 @@ Ilona Kassai _(woman in window)_
 Imre Csuja _(KGB agent)_  
 Arthur Nightingale _(Bryant)_  
 Amanda Fairbank Hynes _(Belinda)_  
-Peter McNeil O’Connor _(Fawn)_
-Matyelok Gibbs _(Mrs Pope Graham)_
-Philip Hill-Pearson _(Norman)_
-Jamie Thomas King _(Kaspar)_
-Stuart Graham _(minister)_
-Sarah-Jane Robinson _(Mary Alleline)_
-Katrina Vasilieva _(Ann Smiley)_
-Linda Marlowe _(Mrs McCraig)_
-William Haddock _(Bill Roach)_
-Erskine Wylie _(Spikeley)_
-Philip Martin Brown _(Tufty Thesinger)_
-Tomasz Kowalski _(Boris)_
-Alexandra Salafranca _(Turkish mistress)_
-Denis Khoroshko _(Ivan)_
-Oleg Dzhabrailov _(Sergei)_
-Gillian Steventon _(listening woman)_
-Nick Hopper _(janitor Alwyn)_
-Laura Carmichael _(Sal)_
-Rupert Procter _(Guillam’s boyfriend)_
-John le Carré _(Christmas party guest)_
-Michael Sarne _(voice of Karla)_
-Jean Claude Jay _(French man at residency)_
-Tom Stuart _(Ben)_
+Peter McNeil O’Connor _(Fawn)_  
+Matyelok Gibbs _(Mrs Pope Graham)_  
+Philip Hill-Pearson _(Norman)_  
+Jamie Thomas King _(Kaspar)_  
+Stuart Graham _(minister)_  
+Sarah-Jane Robinson _(Mary Alleline)_  
+Katrina Vasilieva _(Ann Smiley)_  
+Linda Marlowe _(Mrs McCraig)_  
+William Haddock _(Bill Roach)_  
+Erskine Wylie _(Spikeley)_  
+Philip Martin Brown _(Tufty Thesinger)_  
+Tomasz Kowalski _(Boris)_  
+Alexandra Salafranca _(Turkish mistress)_  
+Denis Khoroshko _(Ivan)_  
+Oleg Dzhabrailov _(Sergei)_  
+Gillian Steventon _(listening woman)_  
+Nick Hopper _(janitor Alwyn)_  
+Laura Carmichael _(Sal)_  
+Rupert Procter _(Guillam’s boyfriend)_  
+John le Carré _(Christmas party guest)_  
+Michael Sarne _(voice of Karla)_  
+Jean Claude Jay _(French man at residency)_  
+Tom Stuart _(Ben)_  
 
-UK/France/Germany 2011©
-127 mins
+UK/France/Germany 2011©  
+127 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQ4MDA4MTFdfQ==
+eyJoaXN0b3J5IjpbLTU1NDM5NjQ1OV19
 -->
