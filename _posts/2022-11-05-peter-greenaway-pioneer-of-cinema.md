@@ -21,9 +21,9 @@ Few directors have been as committed to articulating film as a medium distinct f
 
 16.40 – Audience questions  
 
-17.00 – Finish
+17.00 – Finish  
 
-**Speakers:**
+**Speakers**
 
 **William Fowler** is Curator of Artists’ Moving Image at the BFI National Archive where he acquires, restores and curates films. His projects have included Queer Pagan Punk: Derek Jarman, the biggest ever UK retrospective of Jarman’s films, and This Is Now: Film and Video After Punk which toured internationally in collaboration with artist moving image agency LUX. He is co-author of _The Bodies Beneath: The Flipside of British Film and Television_ published by Strange Attractor Press in 2019.
 
@@ -43,5 +43,5 @@ Now one of Britain’s leading film editors, John Wilson’s films include _Bill
 
 John’s most recent film _Allelujah_ premiered at this year’s London Film Festival
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxMjQzMjU4XX0=
+eyJoaXN0b3J5IjpbOTM4Njk4NDcyXX0=
 -->
