@@ -1,3 +1,14 @@
+---
+layout: post
+title: Tinker Tailor Soldier Spy
+published: true
+date: 2022-11-05
+readtime: true
+categories: ['GARY OLDMAN']
+tags: [Drama, Thriller]
+metadata: 'UK/France/Germany 2011, 127 mins<br> Director: Tomas Alfredson'
+pdf: '2022-11-05-tinker-tailor-soldier-spy.pdf'
+---
 
 
 With a remarkable cast (Benedict Cumberbatch, Kathy Burke, Tom Hardy and Stephen Graham are in there too), this adaptation of John Le Carré’s Cold War espionage mystery is inevitably classy and (given the running time) complex in its plotting. As the taciturn George Smiley, brought out of retirement to investigate a mole within MI6, Oldman bravely – and very successfully – follows in Alec Guinness’s footsteps.  
@@ -132,6 +143,46 @@ Tom Stuart _(Ben)_
 
 UK/France/Germany 2011©  
 127 mins  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDM5NjQ1OV19
--->
+<br>
+
+**GARY OLDMAN**<br>
+**Meantime**<br>
+Mon 17 Oct 20:40; Fri 28 Oct 17:50<br>
+**Rosencrantz & Guildenstern Are Dead**<br>
+Tue 18 Oct 18:05; Sun 6 Nov 18:20<br>
+**Bram Stoker’s Dracula**<br>
+Wed 19 Oct 20:25 (+ intro by Christopher Frayling); Sat 29 Oct 20:30; Wed 23 Nov 18:00<br>
+**Prick Up Your Ears**<br>
+Fri 21 Oct 20:30; Sun 13 Nov 18:20; Fri 25 Nov 20:40<br>
+**JFK – Director’s Cut**<br>
+Sun 23 Oct 16:00; Sat 19 Nov 16:30<br>
+**True Romance**<br>
+Mon 24 Oct 20:40; Tue 22 Nov 20:30; Tue 29 Nov 18:00<br>
+**The Firm – Director’s Cut**<br>
+Wed 2 Nov 21:00; Thu 10 Nov 18:15<br>
+**The Contender**<br>
+Fri 4 Nov 18:00; Mon 14 Nov 18:00<br>
+**Tinker Tailor Soldier Spy**<br>
+Sat 5 Nov 20:20; Thu 24 Nov 17:55<br>
+**Mank**<br>
+Tue 8 Nov 20:15; Sat 26 Nov 17:20; Tue 29 Nov 20:20<br>
+**Darkest Hour**<br>
+Sat 12 Nov 12:20; Sat 19 Nov 20:30; Mon 21 Nov 14:30<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
