@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Firm Director's Cut
+title: The Firm (Alternative Cut)
 published: true
 date: 2022-11-02
 readtime: true
@@ -28,7 +28,7 @@ In Gary Oldman, Clarke at least found a lead actor with brilliance and authentic
 A whole cottage industry’s worth of books and films about British hooliganism have come out since _The Firm_, and most have seemed to want to rub their real-life subjects the right way with tasty accounts of hard-man behaviour. _The Firm_ does none of that. And if its towering bleakness is maybe not the happiest memorial to Alan Clarke, the undeniable brilliance of the direction certainly is.  
 **Richard T. Kelly, extract from booklet essay from the Blu-ray/DVD collection _Dissent & Disruption: Alan Clarke at the BBC 1969-1989_ (BFI, 2016)**  
 
-**SCREEN TWO: THE FIRM (DIRECTOR’S CUT)**  
+**SCREEN TWO: THE FIRM (ALTERNATIVE CUT)**  
 _Director_: Alan Clarke  
 _©/Production Company_: BBC  
 _Producer_: David M. Thompson  
