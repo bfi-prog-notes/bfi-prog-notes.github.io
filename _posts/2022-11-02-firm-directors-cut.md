@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Firm (Alternative Cut)
+title: The Firm (AlternativeDirector's Cut)
 published: true
 date: 2022-11-02
 readtime: true
@@ -138,3 +138,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzAxMTAzMzUwXX0=
+-->
