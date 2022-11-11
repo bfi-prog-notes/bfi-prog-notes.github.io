@@ -28,7 +28,7 @@ In Gary Oldman, Clarke at least found a lead actor with brilliance and authentic
 A whole cottage industry’s worth of books and films about British hooliganism have come out since _The Firm_, and most have seemed to want to rub their real-life subjects the right way with tasty accounts of hard-man behaviour. _The Firm_ does none of that. And if its towering bleakness is maybe not the happiest memorial to Alan Clarke, the undeniable brilliance of the direction certainly is.  
 **Richard T. Kelly, extract from booklet essay from the Blu-ray/DVD collection _Dissent & Disruption: Alan Clarke at the BBC 1969-1989_ (BFI, 2016)**  
 
-**SCREEN TWO: THE FIRM (ALTERNATIVE CUT)**  
+**SCREEN TWO: THE FIRM (ALTERNATIVEDIRECTOR’S CUT)**  
 _Director_: Alan Clarke  
 _©/Production Company_: BBC  
 _Producer_: David M. Thompson  
@@ -139,5 +139,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxMTAzMzUwXX0=
+eyJoaXN0b3J5IjpbNDUzODM2MTI0LDcwMTEwMzM1MF19
 -->
