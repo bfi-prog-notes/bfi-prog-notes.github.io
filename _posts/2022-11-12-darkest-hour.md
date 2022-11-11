@@ -1,3 +1,14 @@
+---
+layout: post
+title: Darkest Hour
+published: true
+date: 2022-11-12
+readtime: true
+categories: ['GARY OLDMAN']
+tags: [Drama, Period]
+metadata: 'USA/UK 2017, 125 mins<br> Director: Joe Wright'
+pdf: '2022-11-12-darkest-hour.pdf'
+---
 
 Though Gary Oldman has long been commended for his elastic range as an actor, few could have foreseen that the man who once played Sex Pistol Sid Vicious would give one of the screen’s most persuasive impersonations of Britain’s wartime prime minister Winston Churchill. From the self-destructive Sid – a surprisingly gentle, domesticated performance – to the saviour of the nation in the crisis month of May 1940 is an astounding stretch, notwithstanding the three decades between Alex Cox’s _Sid & Nancy_ (1986) and Joe Wright’s _Darkest Hour_. Even allowing for Oldman’s maturation as an artist and as a man, his ability to inhabit Churchill so accurately and with such emotional resonance was a reach beyond reasonable limits, and it raises the question: could Laurence Olivier, Alec Guinness, or Daniel Day-Lewis have pulled it off?
 
@@ -16,135 +27,175 @@ Oldman hauls his added bulk around with aplomb, nailing Churchill’s hurried sh
 Is _Darkest Hour_ Oldman’s finest hour? Underneath the make-up and the Churchillian bombast, there is refinement in the performance, but I wouldn’t want to say it is better than his _Tinker Tailor_ turn, or those he gave in _The Firm_ or _Prick up Your Ears_. It ought to win him the Best Actor Oscar at last, and it ought to show thousands of younger viewers, if they go to see the film, that in 1940 one man’s will stood between Britain’s security and the Nazi yoke. It’s a movie that doubly puts us in the presence of greatness.  
 **Graham Fuller, _Sight and Sound_, January 2018**  
 
-**DARKEST HOUR**
-_Directed by_: Joe Wright
-_©_: Focus Features LLC
-_A Working Title production_: Working Title
-_Presented by_: Focus Features, Perfect World Pictures
-_Executive Producers_: James Biddle, Lucas Webb, Liza Chasin
-_Produced by_: Tim Bevan, Eric Fellner, Lisa Bruce, Anthony McCarten, Douglas Urbanski
-_Associate Producer_: Katherine Keating
-_Unit Production Manager_: Jo Wallett
-_Production Co-ordinator_: Oliver Cockerham
-_Financial Controller_: Craig Barwick
-_Supervising Location Manager_: Adam Richards
-_Location Managers_: Ben Mengham, Joseph Cairns, James Buxton
-_Post-production Supervisor_: Tim Grover
-_Post-production Co-ordinator_: Diarmuid Hughes
-_2nd Unit Director_: Thomas Napper
-_2nd Unit 1st Assistant Directors_: Dan Channing Williams, Tom Edmondson
-_Script Supervisor_: Phoebe Billington
-_Casting by_: Jina Jay
-_Written by_: Anthony McCarten
-_Director of Photography_: Bruno Delbonnel
-_2nd Unit Director of Photography_: Carlos de Carvalho
-_Aerial Director of Photography_: Jeremy Braben
-_Camera Operator_: Des Whelan
-_Gaffer_: Chuck Finch
-_Key Grip_: Paul Hymns
-_Still Photographer_: Jack English
-_Visual Effects by_: Framestore
-_Special Effects Supervisor_: Neal Champion
-_Editor_: Valerio Bonell
-_1st Assistant Editor_: Tommaso Gallone
-_Production Designer_: Sarah Greenwood
-_Supervising Art Director_: Nick Gottschalk
-_Art Directors_: Oliver Goodier, Joe Howard
-_Set Decorator_: Katie Spencer
-_Graphic Designer_: Georgina Millett
-_Property Master_: Dennis Wiseman
-_Costume Designer_: Jacqueline Durran
-_Make-up and Hair Designer_: Ivana Primorac
-_Key Hair & Make-up Artist_: Flora Moody
-_Gary Oldman’s Prosthetics, Make-up & Hair by_: Kazuhiro Tsuji
-_Prosthetic Make-up Supervisor to Gary Oldman_: David Malinowski
-_Prosthetic Make-up & Hair Artist to Gary Oldman_: Lucy Sibbick
-_Prosthetics Lab Work, Los Angeles_: Vincent Van Dyke Effects
-_Title Design_: Hingston Studio
-_Music by_: Dario Marianelli
-_Piano_: Vikingur Olafsson
-_Orchestra Leader_: Rolf Wilson
-_Conductor_: Dario Marianelli
-_Orchestration_: Dario Marianelli, Geoff Alexander
-_Sound Designer_: Paul Carter
-_[Production] Sound Mixer_: John Casali
-_Re-recording Mixers_: Craig Berkey, Paul Cotterell
-_Supervising Sound Editors_: Craig Berkey, Becki Ponting
-_Dialogue Editor_: Michael Maroussas
-_ADR Mixer_: Mark Appleby
-_Foley Artist_: Barnaby Smyth
-_Foley Mixer_: Keith Partridge
-_Supervising Foley Editor_: Danny Sheehan
-_Foley Editor_: Rob Turner
-_Stunt Co-ordinator_: Jamie Edgell
-_Historical Consultant_: John Lukacs
-_Historical Adviser_: Phil Reed
-_Mr [Gary] Oldman’s Singing Teacher_: Michael E. Dean
-_Dialogue & Dialect Coach_: Emma Woodvine, Jamie Matthewman
+**DARKEST HOUR**  
+_Directed by_: Joe Wright  
+_©_: Focus Features LLC  
+_A Working Title production_: Working Title  
+_Presented by_: Focus Features, Perfect World Pictures  
+_Executive Producers_: James Biddle, Lucas Webb, Liza Chasin  
+_Produced by_: Tim Bevan, Eric Fellner, Lisa Bruce, Anthony McCarten, Douglas Urbanski  
+_Associate Producer_: Katherine Keating  
+_Unit Production Manager_: Jo Wallett  
+_Production Co-ordinator_: Oliver Cockerham  
+_Financial Controller_: Craig Barwick  
+_Supervising Location Manager_: Adam Richards  
+_Location Managers_: Ben Mengham, Joseph Cairns, James Buxton  
+_Post-production Supervisor_: Tim Grover  
+_Post-production Co-ordinator_: Diarmuid Hughes  
+_2nd Unit Director_: Thomas Napper  
+_2nd Unit 1st Assistant Directors_: Dan Channing Williams, Tom Edmondson  
+_Script Supervisor_: Phoebe Billington  
+_Casting by_: Jina Jay  
+_Written by_: Anthony McCarten  
+_Director of Photography_: Bruno Delbonnel  
+_2nd Unit Director of Photography_: Carlos de Carvalho  
+_Aerial Director of Photography_: Jeremy Braben  
+_Camera Operator_: Des Whelan  
+_Gaffer_: Chuck Finch  
+_Key Grip_: Paul Hymns  
+_Still Photographer_: Jack English  
+_Visual Effects by_: Framestore  
+_Special Effects Supervisor_: Neal Champion  
+_Editor_: Valerio Bonell  
+_1st Assistant Editor_: Tommaso Gallone  
+_Production Designer_: Sarah Greenwood  
+_Supervising Art Director_: Nick Gottschalk  
+_Art Directors_: Oliver Goodier, Joe Howard  
+_Set Decorator_: Katie Spencer  
+_Graphic Designer_: Georgina Millett  
+_Property Master_: Dennis Wiseman  
+_Costume Designer_: Jacqueline Durran  
+_Make-up and Hair Designer_: Ivana Primorac  
+_Key Hair & Make-up Artist_: Flora Moody  
+_Gary Oldman’s Prosthetics, Make-up & Hair by_: Kazuhiro Tsuji  
+_Prosthetic Make-up Supervisor to Gary Oldman_: David Malinowski  
+_Prosthetic Make-up & Hair Artist to Gary Oldman_: Lucy Sibbick  
+_Prosthetics Lab Work, Los Angeles_: Vincent Van Dyke Effects  
+_Title Design_: Hingston Studio  
+_Music by_: Dario Marianelli  
+_Piano_: Vikingur Olafsson  
+_Orchestra Leader_: Rolf Wilson  
+_Conductor_: Dario Marianelli  
+_Orchestration_: Dario Marianelli, Geoff Alexander  
+_Sound Designer_: Paul Carter  
+_[Production] Sound Mixer_: John Casali  
+_Re-recording Mixers_: Craig Berkey, Paul Cotterell  
+_Supervising Sound Editors_: Craig Berkey, Becki Ponting  
+_Dialogue Editor_: Michael Maroussas  
+_ADR Mixer_: Mark Appleby  
+_Foley Artist_: Barnaby Smyth  
+_Foley Mixer_: Keith Partridge  
+_Supervising Foley Editor_: Danny Sheehan  
+_Foley Editor_: Rob Turner  
+_Stunt Co-ordinator_: Jamie Edgell  
+_Historical Consultant_: John Lukacs  
+_Historical Adviser_: Phil Reed  
+_Mr [Gary] Oldman’s Singing Teacher_: Michael E. Dean  
+_Dialogue & Dialect Coach_: Emma Woodvine, Jamie Matthewman  
 
-**Cast**
-Gary Oldman _(Winston Churchill)_
-Kristin Scott Thomas _(Clementine Churchill, ‘Clemmie’)_
-Lily James _(Elizabeth Layton)_
-Stephen Dillane _(Viscount Halifax)_
-Ronald Pickup _(Neville Chamberlain)_
-Samuel West _(Sir Anthony Eden)_
-Ben Mendelsohn _(King George VI)_
-Richard Lumsden _(General Ismay)_
-Malcolm Storry _(General Ironside)_
-Nicholas Jones _(Sir John Simon)_
-David Schofield _(Clement Atlee)_
-Hilton McRae _(Arthur Greenwood)_
-Benjamin Whitrow _(Sir Samuel Hoare)_
-Joe Armstrong _(John Evans)_
-Adrian Rawlings _(Air Chief Marshall Dowding)_
-David Bamber _(Admiral Ramsay)_
-Paul Leonard _(Admiral Dudley Pound)_
-David Strathairn _(President Roosevelt)_
-Eric MacLennan _(Tom Leonard)_
-Philip Martin Brown _(Sawyers)_
-Demitri Goritsas _(Cabinet Secretary Bridges)_
-Jordan Waller _(Randolph Churchill)_
-Alex Clatworthy _(Diana Churchill)_
-Mary Antony _(Mary Churchill)_
-Bethany Muir _(Sarah Churchill)_
-Anna Burnett _(Pamela Churchill)_
-Jeremy Child _(Lord Stanhope)_
-Brian Pettifer _(Lord Kingsley Wood)_
-Michael Gould _(Lord Londonderry)_
-Paul Ridley _(House of Commons Speaker)_
-Robin Pearce _(Ernle Hastings)_
-Michael Bott _(equerry)_
-Oliver Broche _(Reynaud)_
-Mario Hacquard _(Daladier)_
-Pip Torrens _(BBC producer)_
-Edmund Wiseman _(actor)_
-Hannah Steele _(Abigail Walker)_
-Nia Gwynne _(Alice Simpson)_
-Ade Haastrup _(Marcus Peters)_
-James Eeles _(Maurice Baker)_
-Flora Nicholson _(Jessie Sutton)_
-Bronte Carmichael _(young girl on Tube)_
-Roisin O’Neill _(Agnes Dillon)_
-John Locke _(Oliver Wilson)_
-Joanna Neary _(Margaret Jerome)_
-Richard Glover _(Brigadier Nicholson)_
-Tom Ashley _(Ramsay staffer)_
-Joshua Higgott _(reporter)_
-Imogen King _(teenage girl at Tube map)_
-Miles Gallant _(naval map-room officer)_
-Faye Marsay _(Sybil)_
-John Atterbury _(Sir Alexander Cadogan)_
-James Harkness _(A.D. Nicholl, secretary 1)_
-Joshua James _(W.D. Wilkinson, secretary 2)_
-Charley Palmer Rothwell _(Christopher Wilson, photographer)_
-Patsy Ferran _(maid)_
-Sarah Flind _(cook)_
-Steffan Donnelly _(back bencher)_
-Kieran Buckeridge _(Cecil Beaton)_
+**Cast**  
+Gary Oldman _(Winston Churchill)_  
+Kristin Scott Thomas _(Clementine Churchill, ‘Clemmie’)_  
+Lily James _(Elizabeth Layton)_  
+Stephen Dillane _(Viscount Halifax)_  
+Ronald Pickup _(Neville Chamberlain)_  
+Samuel West _(Sir Anthony Eden)_  
+Ben Mendelsohn _(King George VI)_  
+Richard Lumsden _(General Ismay)_  
+Malcolm Storry _(General Ironside)_  
+Nicholas Jones _(Sir John Simon)_  
+David Schofield _(Clement Atlee)_  
+Hilton McRae _(Arthur Greenwood)_  
+Benjamin Whitrow _(Sir Samuel Hoare)_  
+Joe Armstrong _(John Evans)_  
+Adrian Rawlings _(Air Chief Marshall Dowding)_  
+David Bamber _(Admiral Ramsay)_  
+Paul Leonard _(Admiral Dudley Pound)_  
+David Strathairn _(President Roosevelt)_  
+Eric MacLennan _(Tom Leonard)_  
+Philip Martin Brown _(Sawyers)_  
+Demitri Goritsas _(Cabinet Secretary Bridges)_  
+Jordan Waller _(Randolph Churchill)_  
+Alex Clatworthy _(Diana Churchill)_  
+Mary Antony _(Mary Churchill)_  
+Bethany Muir _(Sarah Churchill)_  
+Anna Burnett _(Pamela Churchill)_  
+Jeremy Child _(Lord Stanhope)_  
+Brian Pettifer _(Lord Kingsley Wood)_  
+Michael Gould _(Lord Londonderry)_  
+Paul Ridley _(House of Commons Speaker)_  
+Robin Pearce _(Ernle Hastings)_  
+Michael Bott _(equerry)_  
+Oliver Broche _(Reynaud)_  
+Mario Hacquard _(Daladier)_  
+Pip Torrens _(BBC producer)_  
+Edmund Wiseman _(actor)_  
+Hannah Steele _(Abigail Walker)_  
+Nia Gwynne _(Alice Simpson)_  
+Ade Haastrup _(Marcus Peters)_  
+James Eeles _(Maurice Baker)_  
+Flora Nicholson _(Jessie Sutton)_  
+Bronte Carmichael _(young girl on Tube)_  
+Roisin O’Neill _(Agnes Dillon)_  
+John Locke _(Oliver Wilson)_  
+Joanna Neary _(Margaret Jerome)_  
+Richard Glover _(Brigadier Nicholson)_  
+Tom Ashley _(Ramsay staffer)_  
+Joshua Higgott _(reporter)_  
+Imogen King _(teenage girl at Tube map)_  
+Miles Gallant _(naval map-room officer)_  
+Faye Marsay _(Sybil)_  
+John Atterbury _(Sir Alexander Cadogan)_  
+James Harkness _(A.D. Nicholl, secretary 1)_  
+Joshua James _(W.D. Wilkinson, secretary 2)_  
+Charley Palmer Rothwell _(Christopher Wilson, photographer)_  
+Patsy Ferran _(maid)_  
+Sarah Flind _(cook)_  
+Steffan Donnelly _(back bencher)_  
+Kieran Buckeridge _(Cecil Beaton)_  
 
-USA/UK 2017
-125 mins
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDMwNDY4OV19
--->
+USA/UK 2017  
+125 mins  
+<br>
+
+**GARY OLDMAN**<br>
+**Meantime**<br>
+Mon 17 Oct 20:40; Fri 28 Oct 17:50<br>
+**Rosencrantz & Guildenstern Are Dead**<br>
+Tue 18 Oct 18:05; Sun 6 Nov 18:20<br>
+**Bram Stoker’s Dracula**<br>
+Wed 19 Oct 20:25 (+ intro by Christopher Frayling); Sat 29 Oct 20:30; Wed 23 Nov 18:00<br>
+**Prick Up Your Ears**<br>
+Fri 21 Oct 20:30; Sun 13 Nov 18:20; Fri 25 Nov 20:40<br>
+**JFK – Director’s Cut**<br>
+Sun 23 Oct 16:00; Sat 19 Nov 16:30<br>
+**True Romance**<br>
+Mon 24 Oct 20:40; Tue 22 Nov 20:30; Tue 29 Nov 18:00<br>
+**The Firm – Director’s Cut**<br>
+Wed 2 Nov 21:00; Thu 10 Nov 18:15<br>
+**The Contender**<br>
+Fri 4 Nov 18:00; Mon 14 Nov 18:00<br>
+**Tinker Tailor Soldier Spy**<br>
+Sat 5 Nov 20:20; Thu 24 Nov 17:55<br>
+**Mank**<br>
+Tue 8 Nov 20:15; Sat 26 Nov 17:20; Tue 29 Nov 20:20<br>
+**Darkest Hour**<br>
+Sat 12 Nov 12:20; Sat 19 Nov 20:30; Mon 21 Nov 14:30<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
