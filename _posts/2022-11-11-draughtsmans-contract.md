@@ -1,14 +1,22 @@
-
+---
+layout: post
+title: The Draughtsman's Contract
+published: true
+date: 2022-11-11
+readtime: true
+categories: ['FRAMES OF MIND<br> THE FILMS OF PETER GREENAWAY']
+tags: [Drama]
+metadata: 'UK 1982, 107 mins<br> Director: Peter Greenaway'
+pdf: '2022-11-11-draughtsmans-contract.pdf'
+---
 
 **Peter Greenaway on ‘The Draughtsman’s Contract’**
 
-_The Draughtsman’s Contract_. A film that is 40 years old. Made in 1982 about events in 1694. Elaborate, stylised, enjoyable, spiteful and mysterious, a film in black, white and green. With sheep. Eminently enigmatic. Always associated with frames, so much so indeed that a framing device of the late 1600s is on hand to remind you that what is outside the frame is strictly irrelevant.  
-The French newspapers described Peter Greenaway as a cinematic dandy and the English, once they had passed their enthusiasm for being outside their comfort zone, slowly warmed to it. Shot on 16mm blown up to 35mm for cinema release, it surprised the art-cinema circuit and irritated some English cinematic luminaries to declare that filming in England was no longer tenable if such films were going to be made there henceforth.
+_The Draughtsman’s Contract_. A film that is 40 years old. Made in 1982 about events in 1694. Elaborate, stylised, enjoyable, spiteful and mysterious, a film in black, white and green. With sheep. Eminently enigmatic. Always associated with frames, so much so indeed that a framing device of the late 1600s is on hand to remind you that what is outside the frame is strictly irrelevant.  The French newspapers described Peter Greenaway as a cinematic dandy and the English, once they had passed their enthusiasm for being outside their comfort zone, slowly warmed to it. Shot on 16mm blown up to 35mm for cinema release, it surprised the art-cinema circuit and irritated some English cinematic luminaries to declare that filming in England was no longer tenable if such films were going to be made there henceforth.
 
 I am delighted at its re-mastering. I remember it being made on a somewhat unorthodox filming procedure – being shot on super-16mm and enlarged to 35mm for cinema release. I was concerned that it should be seen as an English landscape film situated around a somewhat arcane proposition of ‘draw what you see and not what you know’. Your eyes must be solely your guide. I never expected it to be as successful on the art-cinema circuit. It’s a story about a ‘frame-up’ both in metaphor and for real, and the film frame is unremittingly ubiquitous with the appearance of that late 17th-century framing device to remind you of the tyranny of the film frame. The French especially enjoyed it though a French newspaper said I was a cinematic dandy and the English newspapers, at first, until they settled on a more relaxed approach were appalled at its literary, theatrical, and visual pretensions.
 
-The costumes by Sue Blane surprised and delighted me, so many layers, cuffs, tails and frills tailored to exhibit the body. When everyone wore white the Draughtsman was out of step and wore black. When everyone wore black the Draughtsman wore white, an arrangement to persistently demonstrate the artist being out of step manoeuvred by the wealthy establishment whose controls were out of reach however hard he tried to learn and catch up.  
-The music by Michael Nyman surprised and excited and delighted me, energetic often to a point of frenzy and exhibiting much irony.
+The costumes by Sue Blane surprised and delighted me, so many layers, cuffs, tails and frills tailored to exhibit the body. When everyone wore white the Draughtsman was out of step and wore black. When everyone wore black the Draughtsman wore white, an arrangement to persistently demonstrate the artist being out of step manoeuvred by the wealthy establishment whose controls were out of reach however hard he tried to learn and catch up.  The music by Michael Nyman surprised and excited and delighted me, energetic often to a point of frenzy and exhibiting much irony.
 
 When we had finally finished filming in the Groombridge Kent fields we wanted to start again. I wrote a sequel called ‘The Hedgecutters’ about trimming boundaries. Since the draughtsman was too blinded, damaged and too dead to be resuscitated, the follow-up hero was to become his overdressed effete servant primed to die with cut extremities. But it didn’t work. For a start the title was too mundane and too artisanal. It was winter and the vegetation was becoming leafless. The next film titled _A Zed and Two Noughts_ was calling. Leaving a film behind is always painful.
 
@@ -126,6 +134,57 @@ There will be a Seniors’ matinee screening on  Mon 14 Nov, a screening with an
 
 The remastered _The Draughtsman’s Contract_  will be available to buy on BFI Blu-ray from  Monday 14 November
 <br><br>
+
+**FRAMES OF MIND: THE FILMS OF PETER GREENAWAY**  
+**A Zed & Two Noughts**  
+Tue 18 Oct 18:10; Sat 5 Nov 17:40; Sat 12 Nov 17:40; Mon 21 Nov 20:40; Sun 27 Nov 12:15  
+**Peter Greenaway: Frames of Mind Season Introduction**  
+Wed 19 Oct 18:10  
+**The Belly of an Architect**  
+Wed 19 Oct 20:30; Fri 18 Nov 18:20; Tue 22 Nov 18:10; Sat 26 Nov 15:30  
+**The Falls**  
+Sat 22 Oct 13:50; Sun 6 Nov 14:40  
+**The Cook, the Thief, His Wife & Her Lover**  
+Sun 23 Oct 15:30 (+ intro by Justin Johnson, Lead Programmer); Sat 12 Nov 14:55; Mon 28 Nov 17:50  
+**Drowning by Numbers**  
+Sun 23 Oct 18:00; Sat 19 Nov 14:30; Sun 27 Nov 18:00  
+**Peter Greenaway Shorts Programme 1**  
+Mon 24 Oct 18:10; Thu 10 Nov 20:40  
+**Experimental Sound and Vision: Found Sounds, Lyrical Loops and Landscapes**  
+Thu 27 Oct 18:15; Thu 17 Nov 18:15 (+ intro by author and musician David Toop)  
+**Prospero’s Books**  
+Tue 1 Nov 17:40; Sun 20 Nov 18:00  
+**Peter Greenaway: Pioneer of Cinema**  
+Sat 5 Nov 12:00-17:00  
+**The Unreliable Narrator: Adventures in Storytelling, Documentary and Misinformation**  
+Sun 6 Nov 12:40; Fri 25 Nov 21:00  
+**A TV Dante: Cantos 1-8**  
+Tue 15 Nov 18:20  
+**The Baby of Mâcon**  
+Wed 16 Nov 20:30; Fri 25 Nov 18:00; Mon 28 Nov 20:30  
+**The Pillow Book**  
+Fri 18 Nov 20:30; Thu 24 Nov 20:30; Tue 29 Nov 17:40  
+**8½ Women**  
+Sun 20 Nov 12:50; Wed 30 Nov 20:35  
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTAyMDA4NTM1XX0=
 -->
