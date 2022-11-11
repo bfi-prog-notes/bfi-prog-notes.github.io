@@ -19,26 +19,21 @@ There is probably a greater jump between _The Draughtsman’s Contract_ and my l
 
 My prime interests are the landscape, the ideas involved in the sheer interplay of plot, the symmetry, and those concerns characteristic of the whole sub-text of gardening; also the games that can be played with the dialogue, its content and the forms it takes. It’s a very literary film, the dialogue has been very carefully worked out for puns and conceits. The whole thing is an elaborate charade, a conceit, which the 17th century enjoyed doing, witness Restoration Tragedy. One of the characteristics of my filmmaking is a whole series of stories, anecdotes, apocrypha which all come together and create a  total world.
 
-Unfortunately, we didn’t have enough rehearsal time. What I wanted to do was to make sure we all knew the text very well before we started filming. The other thing I suggested was doing very, very long takes. We were going to let the actors get themselves in the dramatic situation and let the whole thing evolve.  
-I wasn’t going to make an over-edited movie. So, that was another reason why we chose to use people with a very considerable theatrical background. Because of the rhythm of the dialogue, I would have preferred to take a more cerebral approach and to stand back more from the action. I found that in moments of high physical drama, like the various killings, the dialogue had to operate on a different sort of scale. I couldn’t get that distancing effect which I’d hoped for.
+Unfortunately, we didn’t have enough rehearsal time. What I wanted to do was to make sure we all knew the text very well before we started filming. The other thing I suggested was doing very, very long takes. We were going to let the actors get themselves in the dramatic situation and let the whole thing evolve.  I wasn’t going to make an over-edited movie. So, that was another reason why we chose to use people with a very considerable theatrical background. Because of the rhythm of the dialogue, I would have preferred to take a more cerebral approach and to stand back more from the action. I found that in moments of high physical drama, like the various killings, the dialogue had to operate on a different sort of scale. I couldn’t get that distancing effect which I’d hoped for.
 
 The convention of the long take – some are eight minutes long – has occasionally resulted in highly literary verbiage. This gratifies and excites me, but whether it will gratify and excite a much larger and more ‘public’ audience I don’t know. I’m also worried about the film’s length. It’s very long and I must get it down to a semi-commercial length, about 110 minutes [Greenaway’s original cut was four hours long]. There’s a lot of material which, due to pressures and exigencies, has gone missing about the details of the gardens. There are numerous pressures on the film partly because of extended budgets, commercial concerns, and so on.
 
 I would like to think that the characters – not just Neville but also Talmann – and their dialogue, which is often near the knuckle, represent some aspects of myself. As they do in a key scene between Neville and Mrs Talmann where they talk about ‘arrogance’ and ‘innocence’. That may be my particular problem as well, balancing the ‘arrogance’ with the ‘innocence’. Although Neville is ostensibly a very arrogant figure, bouncing through the world and destroying all in his path out of his own self-centredness, it’s through his innocence that he gets involved in other people’s plots. Because, if he was a wiser man, he would have seen these machinations a mile off. But his innocence opens him up, makes him vulnerable.
 
-All the strength of image and plot and feeling in _The Draughtsman’s Contract_ is pretty universal. It just happens to be put in this particular format. I want to make a good movie which has got punch, visual excitement and cerebral entertainment.
+All the strength of image and plot and feeling in _The Draughtsman’s Contract_ is pretty universal. It just happens to be put in this particular format. I want to make a good movie which has got punch, visual excitement and cerebral entertainment.  
+**Peter Greenaway, _Monthly Film Bulletin_, November 1982**
+<br><br>
 
-Peter Greenaway, _Monthly Film Bulletin_, November 1982
-
-<![endif]-->
-
-**THE DRAUGHTSMAN’S CONTRACT**
-
+**THE DRAUGHTSMAN’S CONTRACT**  
 _Directed by_: Peter Greenaway  
 ©: Peter Greenaway  
 _a_ British Film Institute _production_  
-_In association with_:  
-Channel Four Television Company  
+_In association with_:  Channel Four Television Company  
 _Producer_: David Payne  
 _Head of Production_: Peter Sainsbury  
 _Production Assistant_: Marie Meyrick  
@@ -95,8 +90,8 @@ _ADR_: Lionel Strutt
 _ADR Studios_: Mayflower Studio London  
 _Drivers_: Gillian Strachan, Safi Farrah,  
 Rupert Christie, Michael Coulson  
-_Cast:_
 
+**Cast**  
 Anthony Higgins _(Mr Neville)_  
 Janet Suzman _(Mrs Herbert)_  
 Anne Louise Lambert _(Sarah Talmann)_  
@@ -120,21 +115,17 @@ Vivienne Chandler _(laundress)_
 Geoffrey Larder _(Mr Hammond)_  
 Harry Van Engel, George Miller _(servants)_
 
-UK 1982©
-
+UK 1982©  
 107 mins
 
 Remastered by the BFI National Archive
 
 A BFI release
 
-There will be a Seniors’ matinee screening on  
-Mon 14 Nov, a screening with an intro by Kieron Webb, Head of Conservation, BFI National Archive on Fri 11 Nov, and a screening with an intro by  
-Film Editor John Wilson ACE on Thu 17 Nov
+There will be a Seniors’ matinee screening on  Mon 14 Nov, a screening with an intro by Kieron Webb, Head of Conservation, BFI National Archive on Fri 11 Nov, and a screening with an intro by  Film Editor John Wilson ACE on Thu 17 Nov
 
-The remastered _The Draughtsman’s Contract_  
-will be available to buy on BFI Blu-ray from  
-Monday 14 November
+The remastered _The Draughtsman’s Contract_  will be available to buy on BFI Blu-ray from  Monday 14 November
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE3MzY2NjJdfQ==
+eyJoaXN0b3J5IjpbOTAyMDA4NTM1XX0=
 -->
