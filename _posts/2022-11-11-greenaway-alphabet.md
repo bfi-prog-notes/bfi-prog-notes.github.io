@@ -19,73 +19,50 @@ A lesson in lexicography, _H Is for House_ recounts the objects that begin with 
 
 As Greenaway himself remarked for the benefit of cataloguers at the BFI National Archive: ‘No scripting in this film – it again follows the credo – make a film of collected images filmed in a casual way of what turns up whilst enjoying – for example – a country walk, often with my young family of the time – walking at their pace, interested in what at that time they were interested in – let the images dictate.’ Greenaway’s sharp eye would break down these eerie landscapes into a series of interrelated puzzle-like frames, just enough for him to retrospectively wind tall tales around like a knot. Or perhaps that should be a slip knot.
 
-While the images in Greenaway’s features would often be centred around symmetrical framing and distance, his early films were constructed differently. Walking green landscapes surrounding the Wiltshire villages of Wardour and Bridzor – ‘They sound like Tolkien locations’ he says – Greenaway reflected on their deeply inscribed histories, noting how their once substantial populations had been decimated by the Black Death in 1346. The timeless rural idyll of the English countryside gives birth to fantasy and whichever narrative it is we want, and whether we make reference to their histories or not; a quality Greenaway fully exploited. Not least by playing with the dialogues that can take place between image and text.
-William Fowler
+While the images in Greenaway’s features would often be centred around symmetrical framing and distance, his early films were constructed differently. Walking green landscapes surrounding the Wiltshire villages of Wardour and Bridzor – ‘They sound like Tolkien locations’ he says – Greenaway reflected on their deeply inscribed histories, noting how their once substantial populations had been decimated by the Black Death in 1346. The timeless rural idyll of the English countryside gives birth to fantasy and whichever narrative it is we want, and whether we make reference to their histories or not; a quality Greenaway fully exploited. Not least by playing with the dialogues that can take place between image and text.  
+**William Fowler**
 
-Notes extracted from _The Draughtsman’s Contract_ Blu-ray booklet (BFI, 2022)
+**Notes extracted from _The Draughtsman’s Contract_ Blu-ray booklet (BFI, 2022)**
+<br><br>
 
-<![endif]-->
-
-**H IS FOR HOUSE**
-
+**H IS FOR HOUSE**  
 _Film-maker_: Peter Greenaway  
 _Production Company_: Peter Greenaway  
-_Title Design_: Kenneth Breese
-
-_Featuring:_
-
-Colin Cantlie
-
-UK 1976
-
+_Title Design_: Kenneth Breese  
+_Featuring:_  
+Colin Cantlie  
+UK 1976  
 9 mins
 
-**THE GREENAWAY ALPHABET**
+**THE GREENAWAY ALPHABET**<br>
+_Director:_  Saskia Boddeke<br>
+_Production Companies:_  Beeld, NTR<br>
+_With the support of:_  Mediafonds, Fonds 21<br>
+_Producer:_  Julia Emmering<br>
+_Line Producer:_  Marita Ruyter<br>
+_Production Co-ordinator:_ NTR Astrid Prickaerts<br>
+_Commissioning Editor:_  Oscar Van Der Kroon<br>
+_Camera:_ Ruzbeh Babol, Sander Snoep,  Saskia Boddeke<br>
+_High Speed Camera Operator:_  Jan Kees Dibbets<br>
+_Editor:_  Gys Zevenbergen<br>
+_Online Editing:_ Elmer Leupen<br>
+_Grading:_  Joel Sahuleka<br>
+_Music:_  Luca D’Algerto, Borut Krzisnik<br>
+_Sound:_  Mark Wessner, Gabby De Haan<br>
+_Audio Post-production:_  Huibert Boon<br>
 
-_Director:_  Saskia Boddeke
+_Featuring:_<br>
+Saskia Boddeke<br>
+Peter Greenaway<br>
 
-_Production Companies:_  Beeld, NTR
+Pip Greenaway<br>
 
-_With the support of:_  Mediafonds, Fonds 21
+Netherlands 2017<br>
 
-_Producer:_  Julia Emmering
+60 mins<br>
 
-_Line Producer:_  Marita Ruyter
-
-_Production Co-ordinator:_ NTR Astrid Prickaerts
-
-_Commissioning Editor:_  Oscar Van Der Kroon
-
-_Camera:_ Ruzbeh Babol, Sander Snoep,  
-Saskia Boddeke
-
-_High Speed Camera Operator:_  Jan Kees Dibbets
-
-_Editor:_  Gys Zevenbergen
-
-_Online Editing:_ Elmer Leupen
-
-_Grading:_  Joel Sahuleka
-
-_Music:_  Luca D’Algerto, Borut Krzisnik
-
-_Sound:_  Mark Wessner, Gabby De Haan
-
-_Audio Post-production:_  Huibert Boon
-
-_Featuring:_
-
-Saskia Boddeke
-
-Peter Greenaway
-
-Pip Greenaway
-
-Netherlands 2017
-
-60 mins
-
-A BFI release
+A BFI release<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzNzQ4Njg2XX0=
+eyJoaXN0b3J5IjpbMTg5MjczOTA2N119
 -->
