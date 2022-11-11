@@ -18,26 +18,21 @@ Hughes’s approach pre-dated the 90s mixtape movies of Tarantino – a director
 **_Life Moves Pretty Fast – The John Hughes Mixtapes_ is released on Friday 11 November from Demon Music Group.**
 <br><br>
 
-**FERRIS BUELLER’S DAY OFF**
-
+**FERRIS BUELLER’S DAY OFF**  
 _Director_: John Hughes  
-_Production Company_:  
-Paramount Pictures Corporation  
+_Production Company_:  Paramount Pictures Corporation  
 _Executive Producer_: Michael Chinich  
 _Producers_: John Hughes, Tom Jacobson  
 _Associate Producer_: Jane Vickerilla  
-_Production Associates_: Ramey Ward,  
-Mauri Syd Gayton  
+_Production Associates_: Ramey Ward,  Mauri Syd Gayton  
 _Unit Production Manager_: Arne Schmidt  
 _Location Manager_: Charles J. Newirth  
 _Post-production Co-ordinator_: Bill Brown  
 _Production Assistant_: Ronald W. Payne  
 _2nd Unit Directors_: Bennie Dobbins, Kenny Ortega  
 _1st Assistant Director_: Stephen Lim  
-_2nd Assistant Directors_: Kenneth Collins,  
-James R. Giovannetti Jr  
-_2nd Unit Assistant Director (Chicago)_:  
-Linnea Wicklund  
+_2nd Assistant Directors_: Kenneth Collins,  James R. Giovannetti Jr  
+_2nd Unit Assistant Director (Chicago)_:  Linnea Wicklund  
 _Casting_: Janet Hirshenson, Jane Jenkins  
 _Casting (Chicago)_: Jane Alderman, Shelley Andreas  
 _Screenplay_: John Hughes  
@@ -54,8 +49,7 @@ _Set Decorator_: Jennifer Polito
 _Production Illustrator_: Carl Aldana  
 _Costume Designer_: Marilyn Vance  
 _Men’s Costume Supervisor_: Silvio Scarano  
-_Women’s Costume Supervisors_:  
-Barbara Bolticoff, Wingate Jones  
+_Women’s Costume Supervisors_:  Barbara Bolticoff, Wingate Jones  
 _Make-up_: Michael Germain  
 _Titles/Opticals_: Pacific Title  
 _Music_: Ira Newborn, Arthur Baker  
@@ -68,21 +62,16 @@ _Music Recording_: Gary Ladinsky
 _Choreography_: Kenny Ortega  
 _Sound Recording_: James Alexander  
 _Sound Re-recording_: Robert J. Litt, Elliot Tyson, Steve Maslow  
-_Supervising Sound Editors_: Wylie Stateman,  
-Lon E. Bender  
-_Sound Effects Editors_: Terry Allen, Jim Cox,  
-Randy Kelley, Dan Rich, Hugo Weng  
+_Supervising Sound Editors_: Wylie Stateman,  Lon E. Bender  
+_Sound Effects Editors_: Terry Allen, Jim Cox,  Randy Kelley, Dan Rich, Hugo Weng  
 _Supervising ADR Editors_: Stan Gilbert, Joe Mayer  
 _Stunt Co-ordinator_: Bennie Dobbins  
-_Stunts_: Clay Boss, Tom Elliott, Marcia Holley,  
-Rick Lefevour, Eddie Matthews,  
-John Michael Stewart, Kay H. Whipple,  
-Jerry Wills, Bob Yerkes  
+_Stunts_: Clay Boss, Tom Elliott, Marcia Holley,  Rick Lefevour, Eddie Matthews,  
+John Michael Stewart, Kay H. Whipple,  Jerry Wills, Bob Yerkes  
 _Technical Consultant_: Jeanne Weber  
 _Dog Trainer_: Scott Hart
 
-_Cast:_
-
+**Cast**  
 Matthew Broderick _(Ferris Bueller)_  
 Alan Ruck _(Cameron Frye)_  
 Mia Sara _(Sloane Peterson)_  
@@ -97,11 +86,8 @@ Del Close _(history teacher)_
 Virginia Capers _(Florence Sparrow)_  
 Richard Edson _(garage attendant)_  
 Larry Flash-Jenkins _(attendant’s sidekick)_  
-Kristy Swanson, Lisa Bellard_,_ Max Perlich,  
-T. Scott Cofey _(economics students)_  
-Eric Saiet, Jason Alderman, Joey Garfield,  
-Kristin Graziano, Bridget McCarthy, Anne Ryan,  
-Eric Edidin, Brendan Babar, Tiffany Chance _(Shermerites students)_  
+Kristy Swanson, Lisa Bellard, Max Perlich,  T. Scott Cofey _(economics students)_  
+Eric Saiet, Jason Alderman, Joey Garfield,  Kristin Graziano, Bridget McCarthy, Anne Ryan,  Eric Edidin, Brendan Babar, Tiffany Chance _(Shermerites students)_  
 Jonathan Schmock _(Chez Lui maître d’)_  
 Tom Spratley _(men’s room attendant)_  
 Dave Silvestri _(businessman)_  
@@ -114,21 +100,17 @@ Paul Manzanero _(Pumpkin Head)_
 Miranda Whittle _(girl on trampoline)_  
 Robert Kim _(police officer)_  
 Dick Sollenberger _(politician at parade)_  
-Bob Parkinson, Richard Rohrbough_  
-(ministers at parade)_  
+Bob Parkinson, Richard Rohrbough  _(ministers at parade)_  
 Edward Le Beau _(gym teacher)_  
 Polly Noonan _(girl on bus)_  
 Dee Dee Rescher _(bus driver)_  
-Heidi Meyer, Lee Ann Marie, Annette Thurman,  
-Gail Tangeros, Tricia Fastabend, Sue Cronin,  
-Vlasta Krsek, The South Shore Drill Team, The Lockport High School Band _(parade participants)_  
+Heidi Meyer, Lee Ann Marie, Annette Thurman,  Gail Tangeros, Tricia Fastabend, Sue Cronin,  Vlasta Krsek, The South Shore Drill Team, The Lockport High School Band _(parade participants)_  
 Sunshine Parker _(bum on street)_ *
 
-USA 1986
-
+USA 1986  
 102 mins
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDA0MDUwOV19
+eyJoaXN0b3J5IjpbLTgxOTc1NTY4N119
 -->
