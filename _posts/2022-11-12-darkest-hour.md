@@ -116,62 +116,35 @@ Paul Ridley _(House of Commons Speaker)_
 Robin Pearce _(Ernle Hastings)_
 Michael Bott _(equerry)_
 Oliver Broche _(Reynaud)_
-
 Mario Hacquard _(Daladier)_
-
 Pip Torrens _(BBC producer)_
-
 Edmund Wiseman _(actor)_
-
 Hannah Steele _(Abigail Walker)_
-
 Nia Gwynne _(Alice Simpson)_
-
 Ade Haastrup _(Marcus Peters)_
-
 James Eeles _(Maurice Baker)_
-
 Flora Nicholson _(Jessie Sutton)_
-
 Bronte Carmichael _(young girl on Tube)_
-
 Roisin O’Neill _(Agnes Dillon)_
-
 John Locke _(Oliver Wilson)_
-
 Joanna Neary _(Margaret Jerome)_
-
 Richard Glover _(Brigadier Nicholson)_
-
 Tom Ashley _(Ramsay staffer)_
-
 Joshua Higgott _(reporter)_
-
 Imogen King _(teenage girl at Tube map)_
-
 Miles Gallant _(naval map-room officer)_
-
 Faye Marsay _(Sybil)_
-
 John Atterbury _(Sir Alexander Cadogan)_
-
 James Harkness _(A.D. Nicholl, secretary 1)_
-
 Joshua James _(W.D. Wilkinson, secretary 2)_
-
 Charley Palmer Rothwell _(Christopher Wilson, photographer)_
-
 Patsy Ferran _(maid)_
-
 Sarah Flind _(cook)_
-
 Steffan Donnelly _(back bencher)_
-
 Kieran Buckeridge _(Cecil Beaton)_
 
 USA/UK 2017
-
 125 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzAzMjM1OV19
+eyJoaXN0b3J5IjpbMjEyNDMwNDY4OV19
 -->
