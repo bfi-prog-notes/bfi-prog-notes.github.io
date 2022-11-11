@@ -35,165 +35,86 @@ _2nd Unit Director_: Thomas Napper
 _2nd Unit 1st Assistant Directors_: Dan Channing Williams, Tom Edmondson
 _Script Supervisor_: Phoebe Billington
 _Casting by_: Jina Jay
-
 _Written by_: Anthony McCarten
-
 _Director of Photography_: Bruno Delbonnel
-
 _2nd Unit Director of Photography_: Carlos de Carvalho
-
 _Aerial Director of Photography_: Jeremy Braben
-
 _Camera Operator_: Des Whelan
-
 _Gaffer_: Chuck Finch
-
 _Key Grip_: Paul Hymns
-
 _Still Photographer_: Jack English
-
 _Visual Effects by_: Framestore
-
 _Special Effects Supervisor_: Neal Champion
-
-_Editor_: Valerio Bonelli
-
+_Editor_: Valerio Bonell
 _1st Assistant Editor_: Tommaso Gallone
-
 _Production Designer_: Sarah Greenwood
-
 _Supervising Art Director_: Nick Gottschalk
-
 _Art Directors_: Oliver Goodier, Joe Howard
-
 _Set Decorator_: Katie Spencer
-
 _Graphic Designer_: Georgina Millett
-
 _Property Master_: Dennis Wiseman
-
 _Costume Designer_: Jacqueline Durran
-
 _Make-up and Hair Designer_: Ivana Primorac
-
 _Key Hair & Make-up Artist_: Flora Moody
-
 _Gary Oldman’s Prosthetics, Make-up & Hair by_: Kazuhiro Tsuji
-
 _Prosthetic Make-up Supervisor to Gary Oldman_: David Malinowski
-
 _Prosthetic Make-up & Hair Artist to Gary Oldman_: Lucy Sibbick
-
 _Prosthetics Lab Work, Los Angeles_: Vincent Van Dyke Effects
-
 _Title Design_: Hingston Studio
-
 _Music by_: Dario Marianelli
-
 _Piano_: Vikingur Olafsson
-
 _Orchestra Leader_: Rolf Wilson
-
 _Conductor_: Dario Marianelli
-
 _Orchestration_: Dario Marianelli, Geoff Alexander
-
 _Sound Designer_: Paul Carter
-
 _[Production] Sound Mixer_: John Casali
-
 _Re-recording Mixers_: Craig Berkey, Paul Cotterell
-
 _Supervising Sound Editors_: Craig Berkey, Becki Ponting
-
 _Dialogue Editor_: Michael Maroussas
-
 _ADR Mixer_: Mark Appleby
-
 _Foley Artist_: Barnaby Smyth
-
 _Foley Mixer_: Keith Partridge
-
 _Supervising Foley Editor_: Danny Sheehan
-
 _Foley Editor_: Rob Turner
-
 _Stunt Co-ordinator_: Jamie Edgell
-
 _Historical Consultant_: John Lukacs
-
 _Historical Adviser_: Phil Reed
-
 _Mr [Gary] Oldman’s Singing Teacher_: Michael E. Dean
-
 _Dialogue & Dialect Coach_: Emma Woodvine, Jamie Matthewman
 
 **Cast**
-
 Gary Oldman _(Winston Churchill)_
-
 Kristin Scott Thomas _(Clementine Churchill, ‘Clemmie’)_
-
 Lily James _(Elizabeth Layton)_
-
 Stephen Dillane _(Viscount Halifax)_
-
 Ronald Pickup _(Neville Chamberlain)_
-
 Samuel West _(Sir Anthony Eden)_
-
 Ben Mendelsohn _(King George VI)_
-
 Richard Lumsden _(General Ismay)_
-
 Malcolm Storry _(General Ironside)_
-
 Nicholas Jones _(Sir John Simon)_
-
 David Schofield _(Clement Atlee)_
-
 Hilton McRae _(Arthur Greenwood)_
-
 Benjamin Whitrow _(Sir Samuel Hoare)_
-
 Joe Armstrong _(John Evans)_
-
 Adrian Rawlings _(Air Chief Marshall Dowding)_
-
 David Bamber _(Admiral Ramsay)_
-
 Paul Leonard _(Admiral Dudley Pound)_
-
 David Strathairn _(President Roosevelt)_
-
 Eric MacLennan _(Tom Leonard)_
-
 Philip Martin Brown _(Sawyers)_
-
 Demitri Goritsas _(Cabinet Secretary Bridges)_
-
 Jordan Waller _(Randolph Churchill)_
-
 Alex Clatworthy _(Diana Churchill)_
-
 Mary Antony _(Mary Churchill)_
-
 Bethany Muir _(Sarah Churchill)_
-
 Anna Burnett _(Pamela Churchill)_
-
 Jeremy Child _(Lord Stanhope)_
-
 Brian Pettifer _(Lord Kingsley Wood)_
-
 Michael Gould _(Lord Londonderry)_
-
 Paul Ridley _(House of Commons Speaker)_
-
 Robin Pearce _(Ernle Hastings)_
-
 Michael Bott _(equerry)_
-
 Oliver Broche _(Reynaud)_
 
 Mario Hacquard _(Daladier)_
@@ -252,5 +173,5 @@ USA/UK 2017
 
 125 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDQzMDkwMF19
+eyJoaXN0b3J5IjpbMTgyMzAzMjM1OV19
 -->
