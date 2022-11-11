@@ -23,62 +23,37 @@ Bill’s recent film credits include Netflix’s _Rebecca_ directed by Ben Wheat
 <br><br>
 
 **PLAY FOR TODAY: LICKING HITLER**<br>
-
 _Director:_ David Hare<br>
-
 _Production Company:_ BBC Birmingham<br>
-
 _Producer:_ David Rose<br>
-
 _Production Unit Manager:_ Dawn Robertson<br>
-
 _Production Assistant:_ Roger Gregory<br>
-
 _Script Editor:_ Peter Ansorge<br>
-
 _Written by:_ David Hare<br>
-
-_Directors of Photography:_ Ken Morgan,  
-John Kenway<br>
-
+_Directors of Photography:_ Ken Morgan,  John Kenway<br>
 _Editor:_ Mike Hall<br>
-
 _Designer:_ Charles Bond<br>
-
 _Costume Designer:_ Ann Doling<br>
-
 _Make-up Artist:_ Vivien Oldham<br>
-
 _Sound Recording:_ Alex Christison<br>
-
 _Dubbing Mixer:_ Dave Baumber<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Kate Nelligan _(Anna Seaton)_<br>
-
 Bill Paterson _(Archie Maclean)_<br>
-
 Hugh Fraser _(Will Langley)_<br>
-
 Brenda Fricker _(Eileen Graham)_<br>
-
 Clive Revill _(John Fennel)_<br>
-
 Michael Mellinger _(Karl)_<br>
-
 George Herbert _(Herr Junghe)_<br>
-
 Patrick Monckton _(Allardyce)_<br>
-
 Jonathan Coy _(Lotterby)_<br>
 
 BBC1 tx 10.1.1978<br>
-
 60 mins
 
 Total running time: 110 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzMyOTA1NV19
+eyJoaXN0b3J5IjpbLTE0OTc1MjQ4MDNdfQ==
 -->
