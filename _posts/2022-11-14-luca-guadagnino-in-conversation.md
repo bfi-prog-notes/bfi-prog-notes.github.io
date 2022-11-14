@@ -28,57 +28,35 @@ He was also exhilarated by the idea of filming as an outsider in parts of the US
 **_Bones and All_ production notes**
 <br><br>
 
-**Luca Guadagnino**<br>
-
+**LUCA GUADAGNINO**<br>
 **Born in Palermo, Sicily, Italy**
 
 Selected filmography
 
 **Film**<br>
-
 **2022  Bones and All**<br>
-
 **2019  The Staggering Girl** (short)<br>
-
 **2018  Suspiria**<br>
-
 **2017  Call Me by Your Name**<br>
-
 **2015  A Bigger Splash**<br>
-
 **2013  Walking Stories**(short)<br>
-
 **Bertolucci on Bertolucci**<br>
-
 **2012  Here** (short)<br>
-
 **2011  Inconscio italiano**<br>
-
 **2010  Chronology** (short)<br>
-
 **2009  I Am Love**<br>
-
 **2007  Part deux** (short)<br>
-
 **2005  Melissa P.**<br>
-
 **2004  Cuoco contadino**<br>
-
 **2003  Mundo civilizado**<br>
-
 **2001  Au revoir** (short)<br>
-
 **2000  L’uomo risacca** (short)<br>
-
 **1999  The Protagonists**<br>
-
 **1997  Qui** (short)<br>
 
 **TV**<br>
-
 **2020  We Are Who We Are**<br>
-
-<![endif]-->
+<br>
 
 **IN PERSON & PREVIEWS**<br>
 
@@ -116,34 +94,35 @@ Mon 5 Dec 18:30<br>
 **Preview: Enys Men + Q&A with director  
 Mark Jenkin**<br>
 
-Mon 5 Dec 20:45
+Mon 5 Dec 20:45<br>
 
-**TV Preview: Happy Valley Final Series Episode 1 + Q&A with Sally Wainwright, James Norton & Siobhan Finneran**
+**TV Preview: Happy Valley Final Series Episode 1 + Q&A with Sally Wainwright, James Norton & Siobhan Finneran**<br>
 
-Tue 6 Dec 18:15
+Tue 6 Dec 18:15<br>
 
 **Book Launch Event: The Shining  
-(Extended Version) + Q&A with Lee Unkrich**
+(Extended Version) + Q&A with Lee Unkrich**<br>
 
-Thu 8 Dec 18:40
+Thu 8 Dec 18:40<br>
 
-**Peter Greenaway in Conversation**
+**Peter Greenaway in Conversation**<br>
 
-Fri 9 Dec 18:20
+Fri 9 Dec 18:20<br>
 
 **The Precious Things:  
-BBC Centenary Special + intro**
+BBC Centenary Special + intro**<br>
 
-Sat 10 Dec 14:20
+Sat 10 Dec 14:20<br>
 
 **TV Preview: His Dark Materials + intro with  
-cast and crew**
+cast and crew**<br>
 
-Tue 13 Dec 18:00 BFI IMAX
+Tue 13 Dec 18:00 BFI IMAX<br>
 
-**TV Preview: Ghosts Christmas Special + Q&A with cast and crew**
+**TV Preview: Ghosts Christmas Special + Q&A with cast and crew**<br>
 
-Thu 15 Dec 18:20
+Thu 15 Dec 18:20<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDczOTEwMF19
+eyJoaXN0b3J5IjpbMzEzMjkyNzQ5XX0=
 -->
