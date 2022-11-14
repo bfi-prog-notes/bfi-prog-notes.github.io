@@ -24,99 +24,97 @@ Always drawn to strong women characters, Guadagnino endeavoured to unpack the ri
 
 Equally, the project presented a gift to Guadagnino: the chance to reunite with Timothée Chalamet, who he knew beyond a doubt had the ability to channel Lee’s mix of innocence and turbulence, while making the tale feel part of our times. ‘We had such a beautiful experience on _Call Me by Your Name_ and since then, I’ve watched the blooming of Timothée’s path in cinema, of his wonderful persona,’ he says. ‘I said right away, I will do this film so long as Timothée does it. He loved the script, so we began to work on it together with David to allow certain elements to shine even more.’
 
-He was also exhilarated by the idea of filming as an outsider in parts of the USA he’d never seen before, and to recreate an 80s America. ‘The 80s were a time of great contradictions,’ he observes, ‘when parts of the American economy were booming yet others were impoverished, when optimism was soaring, but some were left out of the picture. I felt the period paralleled the internal contradictions of these characters, their quest for settlement and also the impossibility of such.’
+He was also exhilarated by the idea of filming as an outsider in parts of the USA he’d never seen before, and to recreate an 80s America. ‘The 80s were a time of great contradictions,’ he observes, ‘when parts of the American economy were booming yet others were impoverished, when optimism was soaring, but some were left out of the picture. I felt the period paralleled the internal contradictions of these characters, their quest for settlement and also the impossibility of such.’  
+**_Bones and All_ production notes**
+<br><br>
 
-_Bones and All_ production notes
-
-<![endif]-->
-
-**Luca Guadagnino**
+**Luca Guadagnino**<br>
 
 **Born in Palermo, Sicily, Italy**
 
 Selected filmography
 
-**Film**
+**Film**<br>
 
-**2022  Bones and All**
+**2022  Bones and All**<br>
 
-**2019  The Staggering Girl** (short)
+**2019  The Staggering Girl** (short)<br>
 
-**2018  Suspiria**
+**2018  Suspiria**<br>
 
-**2017  Call Me by Your Name**
+**2017  Call Me by Your Name**<br>
 
-**2015  A Bigger Splash**
+**2015  A Bigger Splash**<br>
 
-**2013  Walking Stories** (short)
+**2013  Walking Stories**(short)<br>
 
-**Bertolucci on Bertolucci**
+**Bertolucci on Bertolucci**<br>
 
-**2012  Here** (short)
+**2012  Here** (short)<br>
 
-**2011  Inconscio italiano**
+**2011  Inconscio italiano**<br>
 
-**2010  Chronology** (short)
+**2010  Chronology** (short)<br>
 
-**2009  I Am Love**
+**2009  I Am Love**<br>
 
-**2007  Part deux** (short)
+**2007  Part deux** (short)<br>
 
-**2005  Melissa P.**
+**2005  Melissa P.**<br>
 
-**2004  Cuoco contadino**
+**2004  Cuoco contadino**<br>
 
-**2003  Mundo civilizado**
+**2003  Mundo civilizado**<br>
 
-**2001  Au revoir** (short)
+**2001  Au revoir** (short)<br>
 
-**2000  L’uomo risacca** (short)
+**2000  L’uomo risacca** (short)<br>
 
-**1999  The Protagonists**
+**1999  The Protagonists**<br>
 
-**1997  Qui** (short)
+**1997  Qui** (short)<br>
 
-**TV**
+**TV**<br>
 
-**2020  We Are Who We Are**
+**2020  We Are Who We Are**<br>
 
 <![endif]-->
 
-**IN PERSON & PREVIEWS**
+**IN PERSON & PREVIEWS**<br>
 
-**Preview: Bones and All**
+**Preview: Bones and All**<br>
 
-Mon 14 Nov 20:30
+Mon 14 Nov 20:30<br>
 
-**Preview: She Said + Q&A with screenwriter Rebecca Lenkiewicz**
+**Preview: She Said + Q&A with screenwriter Rebecca Lenkiewicz**<br>
 
-Thu 24 Nov 18:00
+Thu 24 Nov 18:00<br>
 
-**Preview: The Boy, the Mole, the Fox and the Horse + Q&A with directors Peter Baynton and Charlie Mackesy and producer Cara Speller**
+**Preview: The Boy, the Mole, the Fox and the Horse + Q&A with directors Peter Baynton and Charlie Mackesy and producer Cara Speller**<br>
 
-Fri 2 Dec 18:15
+Fri 2 Dec 18:15<br>
 
 **Missing Believed Wiped Session 1:  
 World Preview Lost and Found:  
-Spike Milligan: The Unseen Archive + intro**
+Spike Milligan: The Unseen Archive + intro**<br>
 
-Sat 3 Dec 11:45
+Sat 3 Dec 11:45<br>
 
 **Missing Believed Wiped Session 2:  
-oddities and rarities**
+oddities and rarities**<br>
 
-Sat 3 Dec 14:20
+Sat 3 Dec 14:20<br>
 
-**Preview: Tori and Lokita + Q&A with director-screenwriters Jean-Pierre and Luc Dardenne**
+**Preview: Tori and Lokita + Q&A with director-screenwriters Jean-Pierre and Luc Dardenne**<br>
 
-Sat 3 Dec 17:45
+Sat 3 Dec 17:45<br>
 
-**Mark Kermode Live in 3D at the BFI**
+**Mark Kermode Live in 3D at the BFI**<br>
 
-Mon 5 Dec 18:30
+Mon 5 Dec 18:30<br>
 
 **Preview: Enys Men + Q&A with director  
-Mark Jenkin**
+Mark Jenkin**<br>
 
 Mon 5 Dec 20:45
 
@@ -147,5 +145,5 @@ Tue 13 Dec 18:00 BFI IMAX
 
 Thu 15 Dec 18:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTE1OTkyM119
+eyJoaXN0b3J5IjpbLTEyMDczOTEwMF19
 -->
