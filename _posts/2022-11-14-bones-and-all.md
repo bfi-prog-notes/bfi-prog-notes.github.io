@@ -1,14 +1,22 @@
-
+---
+layout: post
+title: Bones and All
+published: true
+date: 2022-11-14
+readtime: true
+categories: ['PREVIEW']
+tags: [Horror, Romance]
+metadata: 'USA 2022, 130 mins<br> Director: Luca Guadagnino'
+pdf: '2022-11-14-bones-and-all.pdf'
+---
 
 ‘Whatever you and I got, it’s got to be fed,’ Lee (Timothée Chalamet) tells his lover Maren (Taylor Russell) in Luca Guadagnino’s deliciously dark cannibal road movie, something of a return to the (dis)comfort zone of _Suspiria_ (2018) after forays into TV drama and the obligatory pandemic video short. Pushing the boundaries of teen horror, screenwriter David Kajganich’s clever adaptation of Camille DeAngelis’s 2015 novel of the same name plays like a red-meat version of _Twilight_ (2008) – ravenous, sexy and surprisingly moving.
 
 It’s the mid-eighties and Maren is an 18-year-old high-school student trying to fit in. She’s only recently arrived, she doesn’t have many friends, and her strict dad (André Holland) locks her in her room at night. But when she sneaks out to join the other girls for a sleepover, the reason for her father’s caution becomes apparent. It’s not to protect her from the world, but to protect the world  from her.
 
-Maren is a cannibal. But her dad can’t take it anymore and bails, leaving her to fend for herself with some cash, her birth certificate and a cassette full of backstory. She decides to search for the mother she never met and learn the nature of who she really is. Help comes in the guise of Sully, an amiable codger played with soft-voiced menace by Mark Rylance. He has a creepy way of referring to himself in the third person: ‘Sully’s never dully,’ he mutters to himself. He reveals that there are more ‘eaters’ and that they can smell each other. He’s also a scavenger: he finds people who are about to die and scoffs them when they do. Spooked by Sully, who has a habit of wearing baggy  
-Y-fronts while feeding, Maren joins up with Lee, a pale, floppy-haired young tough, skinny as a splinter, with a taste in tasselled shirts.
+Maren is a cannibal. But her dad can’t take it anymore and bails, leaving her to fend for herself with some cash, her birth certificate and a cassette full of backstory. She decides to search for the mother she never met and learn the nature of who she really is. Help comes in the guise of Sully, an amiable codger played with soft-voiced menace by Mark Rylance. He has a creepy way of referring to himself in the third person: ‘Sully’s never dully,’ he mutters to himself. He reveals that there are more ‘eaters’ and that they can smell each other. He’s also a scavenger: he finds people who are about to die and scoffs them when they do. Spooked by Sully, who has a habit of wearing baggy  Y-fronts while feeding, Maren joins up with Lee, a pale, floppy-haired young tough, skinny as a splinter, with a taste in tasselled shirts.
 
-Like his countryman Paolo Sorrentino, Guadagnino is a highly visual director, but his style is always at the service of his characters and their relationships rather than mere look-at-me flash. An early shot through a glass coffee table perfectly captures the intimacy of teenage friendship – their makeup and snacks partly obscuring the view – before horrifyingly ripping it to shreds.  
-Much more than in the mannered _Suspiria_, _Bones and All_ establishes its world as at once recognisably generic – _The Lost Boys_ and _Near Dark_ (both 1987) come to mind – and as solidly believable as a phone book. Elliott Hostetter’s production design creates a credible world of diners, supermarkets and boarding rooms that Lee and Maren pass through on their journey. Trent Reznor and Atticus Ross complement their atmospheric score with a canny and eclectic selection of eighties pop, including Joy Division’s ‘Atmosphere’ and ‘Lick It Up’ by Kiss, to which Lee rocks out.
+Like his countryman Paolo Sorrentino, Guadagnino is a highly visual director, but his style is always at the service of his characters and their relationships rather than mere look-at-me flash. An early shot through a glass coffee table perfectly captures the intimacy of teenage friendship – their makeup and snacks partly obscuring the view – before horrifyingly ripping it to shreds.  Much more than in the mannered _Suspiria_, _Bones and All_ establishes its world as at once recognisably generic – _The Lost Boys_ and _Near Dark_ (both 1987) come to mind – and as solidly believable as a phone book. Elliott Hostetter’s production design creates a credible world of diners, supermarkets and boarding rooms that Lee and Maren pass through on their journey. Trent Reznor and Atticus Ross complement their atmospheric score with a canny and eclectic selection of eighties pop, including Joy Division’s ‘Atmosphere’ and ‘Lick It Up’ by Kiss, to which Lee rocks out.
 
 Guadagnino sinks his teeth into the kinds of coming-of-age issues common to teen films, taking something of a Garth Marenghi approach: subtext is for cowards. Lee and Maren’s carnal and carnivorous appetites intertwine, with Lee’s sexuality particularly open (at one point, he cruises a fairground to pick up sex and dinner). They also fret about their morality, looking for some way out of their predicament and longing to settle down together and live normal lives. The choice is stark: be themselves and live as outcasts, or restrain who they are. But that would mean abstaining from each other and for Lee and Maren, looking as tasty as they do, abstinence just isn’t on the cards.
 
@@ -109,6 +117,24 @@ Tue 13 Dec 18:00 BFI IMAX<br>
 **TV Preview: Ghosts Christmas Special + Q&A with cast and crew**<br>
 Thu 15 Dec 18:20<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTMwMDkxMDcwMl19
 -->
