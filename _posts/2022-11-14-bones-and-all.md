@@ -47,60 +47,68 @@ _Directed by:_ Luca Guadagnino<br>
 ©: Metro-Goldwyn-Mayer Pictures Inc.<br>
 _a_ Frenesy Film Company/Per Capita Productions _production_<br>
 _In association with:_ The Apartment Pictures,  Memo Films, 3 Marys Entertainment, Tenderstories, Elafilm, Wise, Excelsa, Serfis, Piace, Cor Cordium<br>
-
 _Presented by:_ Metro-Goldwyn-Mayer Pictures<br>
-
-_Executive Producers:_  Giovanni Corrado,  
-Raffaella Viscardi, Moreno Zani, Marco Colombo, Jonathan Montepare<br>
-
+_Executive Producers:_  Giovanni Corrado,  Raffaella Viscardi, Moreno Zani, Marco Colombo, Jonathan Montepare<br>
 _Produced by:_  Luca Guadagnino, Theresa Park, Marco Morabito, David Kajganich, Francesco Melzi d’Eril, Lorenzo Mieli, Gabriele Moratti, Peter Spears, Timothée Chalamet<br>
-
 _Casting:_ Francine Maisler<br>
-
 _Screenplay by:_  David Kajganich<br>
-
 _Based on the novel by:_  Camille DeAngelis<br>
-
 _Director of Photography:_ Arseni Khachaturan<br>
-
 _Editor:_ Marco Costa<br>
-
 _Production Designer:_ Elliott Hostetter<br>
-
 _Costume Designer:_ Giulia Piersanti<br>
-
 _Make-up:_ Fernanda Perez<br>
-
 _Hair:_ Massimo Gattabrusi<br>
-
 _Music:_ Trent Reznor, Atticus Ross<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Taylor Russell _(Maren)_<br>
-
 Timothée Chalamet _(Lee)_<br>
-
 Michael Stuhlbarg _(Jake)_<br>
-
 André Holland _(Maren’s father)_<br>
-
 Chloë Sevigny _(Janelle)_<br>
-
 David Gordon Green _(Brad)_<br>
-
 Jessica Harper _(Barbara Kerns)_<br>
-
 Jake Horowitz _(booth man)_<br>
-
 Mark Rylance _(Sully)_<br>
 
 USA 2022©<br>
-
 130 mins
 
 Courtesy of Warner Bros.<br>
 <br>
+
+**IN PERSON & PREVIEWS**<br>
+**Preview: Bones and All**<br>
+Mon 14 Nov 20:30<br>
+**Preview: She Said + Q&A with screenwriter Rebecca Lenkiewicz**<br>
+Thu 24 Nov 18:00<br>
+**Preview: The Boy, the Mole, the Fox and the Horse + Q&A with directors Peter Baynton and Charlie Mackesy and producer Cara Speller**<br>
+Fri 2 Dec 18:15<br>
+**Missing Believed Wiped Session 1:  World Preview Lost and Found:  
+Spike Milligan: The Unseen Archive + intro**<br>
+Sat 3 Dec 11:45<br>
+**Missing Believed Wiped Session 2:  oddities and rarities**<br>
+Sat 3 Dec 14:20<br>
+**Preview: Tori and Lokita + Q&A with director-screenwriters Jean-Pierre and Luc Dardenne**<br>
+Sat 3 Dec 17:45<br>
+**Mark Kermode Live in 3D at the BFI**<br>
+Mon 5 Dec 18:30<br>
+**Preview: Enys Men + Q&A with director  Mark Jenkin**<br>
+Mon 5 Dec 20:45<br>
+**TV Preview: Happy Valley Final Series Episode 1 + Q&A with Sally Wainwright, James Norton & Siobhan Finneran**<br>
+Tue 6 Dec 18:15<br>
+**Book Launch Event: The Shining  (Extended Version) + Q&A with Lee Unkrich**<br>
+Thu 8 Dec 18:40<br>
+**Peter Greenaway in Conversation**<br>
+Fri 9 Dec 18:20<br>
+**The Precious Things:  BBC Centenary Special + intro**<br>
+Sat 10 Dec 14:20<br>
+**TV Preview: His Dark Materials + intro with  cast and crew**<br>
+Tue 13 Dec 18:00 BFI IMAX<br>
+**TV Preview: Ghosts Christmas Special + Q&A with cast and crew**<br>
+Thu 15 Dec 18:20<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzExMjIyXX0=
+eyJoaXN0b3J5IjpbMTMwMDkxMDcwMl19
 -->
