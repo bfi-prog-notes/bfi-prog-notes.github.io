@@ -1,1 +1,113 @@
 
+
+‘Whatever you and I got, it’s got to be fed,’ Lee (Timothée Chalamet) tells his lover Maren (Taylor Russell) in Luca Guadagnino’s deliciously dark cannibal road movie, something of a return to the (dis)comfort zone of _Suspiria_ (2018) after forays into TV drama and the obligatory pandemic video short. Pushing the boundaries of teen horror, screenwriter David Kajganich’s clever adaptation of Camille DeAngelis’s 2015 novel of the same name plays like a red-meat version of _Twilight_ (2008) – ravenous, sexy and surprisingly moving.
+
+It’s the mid-eighties and Maren is an 18-year-old high-school student trying to fit in. She’s only recently arrived, she doesn’t have many friends, and her strict dad (André Holland) locks her in her room at night. But when she sneaks out to join the other girls for a sleepover, the reason for her father’s caution becomes apparent. It’s not to protect her from the world, but to protect the world  from her.
+
+Maren is a cannibal. But her dad can’t take it anymore and bails, leaving her to fend for herself with some cash, her birth certificate and a cassette full of backstory. She decides to search for the mother she never met and learn the nature of who she really is. Help comes in the guise of Sully, an amiable codger played with soft-voiced menace by Mark Rylance. He has a creepy way of referring to himself in the third person: ‘Sully’s never dully,’ he mutters to himself. He reveals that there are more ‘eaters’ and that they can smell each other. He’s also a scavenger: he finds people who are about to die and scoffs them when they do. Spooked by Sully, who has a habit of wearing baggy  
+Y-fronts while feeding, Maren joins up with Lee, a pale, floppy-haired young tough, skinny as a splinter, with a taste in tasselled shirts.
+
+Like his countryman Paolo Sorrentino, Guadagnino is a highly visual director, but his style is always at the service of his characters and their relationships rather than mere look-at-me flash. An early shot through a glass coffee table perfectly captures the intimacy of teenage friendship – their makeup and snacks partly obscuring the view – before horrifyingly ripping it to shreds.  
+Much more than in the mannered _Suspiria_, _Bones and All_ establishes its world as at once recognisably generic – _The Lost Boys_ and _Near Dark_ (both 1987) come to mind – and as solidly believable as a phone book. Elliott Hostetter’s production design creates a credible world of diners, supermarkets and boarding rooms that Lee and Maren pass through on their journey. Trent Reznor and Atticus Ross complement their atmospheric score with a canny and eclectic selection of eighties pop, including Joy Division’s ‘Atmosphere’ and ‘Lick It Up’ by Kiss, to which Lee rocks out.
+
+Guadagnino sinks his teeth into the kinds of coming-of-age issues common to teen films, taking something of a Garth Marenghi approach: subtext is for cowards. Lee and Maren’s carnal and carnivorous appetites intertwine, with Lee’s sexuality particularly open (at one point, he cruises a fairground to pick up sex and dinner). They also fret about their morality, looking for some way out of their predicament and longing to settle down together and live normal lives. The choice is stark: be themselves and live as outcasts, or restrain who they are. But that would mean abstaining from each other and for Lee and Maren, looking as tasty as they do, abstinence just isn’t on the cards.
+
+The two leads are superb, with Russell particularly affecting as a young woman torn between her head, heart and stomach. Chalamet – who is also one of the film’s producers – has an insolent confidence in his own beauty but still manages to project a wounded insecurity. When his young sister insults his shirt, he almost unconsciously takes it off and scrunches it up in his hands as he responds. He’s also reunited briefly with _Call Me by Your Name_ co-star Michael Stuhlbarg, who shows up as an overalls-wearing grease monkey, taking all the sexy out of cannibalism, and urging Maren and Lee to commit to eating ‘bones and all’, promising it to be an even greater rush.
+
+Guadagnino has created an effective and gruesome shocker. Davide Favargiotti and Michele Gualdrini’s sound design amplifies the already grisly effects: the sound of chomping and slurping can be heard off screen. But _Bones and All_ is also the tale of a lost young pair, finding each other and themselves. It is wryly funny, gleefully entertaining and oddly touching. Delicious and nutritious.  
+**John Bleasdale, _Sight and Sound_, December 2022**
+
+**Luca Guadagnino on ‘Bones and All’**
+
+_The title – the concept of eating somebody, ‘bones and all’ – seems more important in your version of the film compared to the novel it’s based on?_
+
+Yes, it’s about the annihilation, the destruction. The disappearance of every kind of memento of the existence of somebody. I found the concept of that fascinating, very terrifying. Everything that you have been, made completely invisible forever.
+
+_It feels like the film is not really about cannibalism; it’s more about urges that we can’t control?_
+
+I think so, yeah. It’s more about the fact that they can’t escape the biological urge they’re made of. That urge deals with their consciousness and with their idea of themselves as people. They feel like they can control something that they can’t, which deals with the idea that we can control our bodies, but we can’t. I’ve met a lot of people, particularly my father, I must say, with a lot of problems with food.
+
+_Let’s talk about Michael Stuhlbarg – in his role in_ Call Me by Your Name_, he played a benevolent father. Here, it’s a darker role…_
+
+Yeah, the perverted father.  Stuhlbarg emailed me and Dave [Kajganich] more than 100 questions about the character. Those emails, I treasure them. It was compelling, he was really kicking my ass as a performer to the director. But every question was so fantastic and then he showed up and did what he did, which is incredible.
+
+_How early was Mark Rylance in the frame for his role as the villainous  
+drifter, Sully?_
+
+Quite soon. He was very kind and he looked at Sully with kindness, which was very interesting to me because, of course, to play a mean character from the perspective of the villain would have flattened it out. Our conversations were all about the cruelty of his doom, solitude and need for company. Mark Rylance for me is, clearly, one of the finest and greatest performers in any medium  
+of performance.
+
+_What were the influences on this film? It reminded me of_ Badlands _[1973] and_ Raw _[2016]. I thought a little bit about_ Trouble Every Day _[2001], too._
+
+I mean, those references are all there. But I really thought about the movies by Fritz Lang and Nicholas Ray. The American period of Fritz Lang. The landscape in Lang was fantastic to think about in reference to this movie.
+
+Interview by Catherine Bray, _Sight and Sound_, December 2022
+
+<![endif]-->
+
+**BONES AND ALL**
+
+_Directed by:_ Luca Guadagnino
+
+©: Metro-Goldwyn-Mayer Pictures Inc.
+
+_a_ Frenesy Film Company/Per Capita Productions _production_
+
+_In association with:_ The Apartment Pictures,  
+Memo Films, 3 Marys Entertainment, Tenderstories, Elafilm, Wise, Excelsa, Serfis, Piace, Cor Cordium
+
+_Presented by:_ Metro-Goldwyn-Mayer Pictures
+
+_Executive Producers:_  Giovanni Corrado,  
+Raffaella Viscardi, Moreno Zani, Marco Colombo, Jonathan Montepare
+
+_Produced by:_  Luca Guadagnino, Theresa Park, Marco Morabito, David Kajganich, Francesco Melzi d’Eril, Lorenzo Mieli, Gabriele Moratti, Peter Spears, Timothée Chalamet
+
+_Casting:_ Francine Maisler
+
+_Screenplay by:_  David Kajganich
+
+_Based on the novel by:_  Camille DeAngelis
+
+_Director of Photography:_ Arseni Khachaturan
+
+_Editor:_ Marco Costa
+
+_Production Designer:_ Elliott Hostetter
+
+_Costume Designer:_ Giulia Piersanti
+
+_Make-up:_ Fernanda Perez
+
+_Hair:_ Massimo Gattabrusi
+
+_Music:_ Trent Reznor, Atticus Ross
+
+_Cast:_
+
+Taylor Russell _(Maren)_
+
+Timothée Chalamet _(Lee)_
+
+Michael Stuhlbarg _(Jake)_
+
+André Holland _(Maren’s father)_
+
+Chloë Sevigny _(Janelle)_
+
+David Gordon Green _(Brad)_
+
+Jessica Harper _(Barbara Kerns)_
+
+Jake Horowitz _(booth man)_
+
+Mark Rylance _(Sully)_
+
+USA 2022©
+
+130 mins
+
+Courtesy of Warner Bros.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTMwNTU0MjY0OV19
+-->
