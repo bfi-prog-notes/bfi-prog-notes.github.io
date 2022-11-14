@@ -27,87 +27,80 @@ _It feels like the film is not really about cannibalism; it’s more about urges
 
 I think so, yeah. It’s more about the fact that they can’t escape the biological urge they’re made of. That urge deals with their consciousness and with their idea of themselves as people. They feel like they can control something that they can’t, which deals with the idea that we can control our bodies, but we can’t. I’ve met a lot of people, particularly my father, I must say, with a lot of problems with food.
 
-_Let’s talk about Michael Stuhlbarg – in his role in_ Call Me by Your Name_, he played a benevolent father. Here, it’s a darker role…_
+_Let’s talk about Michael Stuhlbarg – in his role in_ Call Me by Your Name _, he played a benevolent father. Here, it’s a darker role…_
 
 Yeah, the perverted father.  Stuhlbarg emailed me and Dave [Kajganich] more than 100 questions about the character. Those emails, I treasure them. It was compelling, he was really kicking my ass as a performer to the director. But every question was so fantastic and then he showed up and did what he did, which is incredible.
 
-_How early was Mark Rylance in the frame for his role as the villainous  
-drifter, Sully?_
+_How early was Mark Rylance in the frame for his role as the villainous  drifter, Sully?_
 
-Quite soon. He was very kind and he looked at Sully with kindness, which was very interesting to me because, of course, to play a mean character from the perspective of the villain would have flattened it out. Our conversations were all about the cruelty of his doom, solitude and need for company. Mark Rylance for me is, clearly, one of the finest and greatest performers in any medium  
-of performance.
+Quite soon. He was very kind and he looked at Sully with kindness, which was very interesting to me because, of course, to play a mean character from the perspective of the villain would have flattened it out. Our conversations were all about the cruelty of his doom, solitude and need for company. Mark Rylance for me is, clearly, one of the finest and greatest performers in any medium  of performance.
 
 _What were the influences on this film? It reminded me of_ Badlands _[1973] and_ Raw _[2016]. I thought a little bit about_ Trouble Every Day _[2001], too._
 
 I mean, those references are all there. But I really thought about the movies by Fritz Lang and Nicholas Ray. The American period of Fritz Lang. The landscape in Lang was fantastic to think about in reference to this movie.
 
-Interview by Catherine Bray, _Sight and Sound_, December 2022
+**Interview by Catherine Bray, _Sight and Sound_, December 2022**
+<br><br>
 
-<![endif]-->
+**BONES AND ALL**<br>
+_Directed by:_ Luca Guadagnino<br>
+©: Metro-Goldwyn-Mayer Pictures Inc.<br>
+_a_ Frenesy Film Company/Per Capita Productions _production_<br>
+_In association with:_ The Apartment Pictures,  Memo Films, 3 Marys Entertainment, Tenderstories, Elafilm, Wise, Excelsa, Serfis, Piace, Cor Cordium<br>
 
-**BONES AND ALL**
-
-_Directed by:_ Luca Guadagnino
-
-©: Metro-Goldwyn-Mayer Pictures Inc.
-
-_a_ Frenesy Film Company/Per Capita Productions _production_
-
-_In association with:_ The Apartment Pictures,  
-Memo Films, 3 Marys Entertainment, Tenderstories, Elafilm, Wise, Excelsa, Serfis, Piace, Cor Cordium
-
-_Presented by:_ Metro-Goldwyn-Mayer Pictures
+_Presented by:_ Metro-Goldwyn-Mayer Pictures<br>
 
 _Executive Producers:_  Giovanni Corrado,  
-Raffaella Viscardi, Moreno Zani, Marco Colombo, Jonathan Montepare
+Raffaella Viscardi, Moreno Zani, Marco Colombo, Jonathan Montepare<br>
 
-_Produced by:_  Luca Guadagnino, Theresa Park, Marco Morabito, David Kajganich, Francesco Melzi d’Eril, Lorenzo Mieli, Gabriele Moratti, Peter Spears, Timothée Chalamet
+_Produced by:_  Luca Guadagnino, Theresa Park, Marco Morabito, David Kajganich, Francesco Melzi d’Eril, Lorenzo Mieli, Gabriele Moratti, Peter Spears, Timothée Chalamet<br>
 
-_Casting:_ Francine Maisler
+_Casting:_ Francine Maisler<br>
 
-_Screenplay by:_  David Kajganich
+_Screenplay by:_  David Kajganich<br>
 
-_Based on the novel by:_  Camille DeAngelis
+_Based on the novel by:_  Camille DeAngelis<br>
 
-_Director of Photography:_ Arseni Khachaturan
+_Director of Photography:_ Arseni Khachaturan<br>
 
-_Editor:_ Marco Costa
+_Editor:_ Marco Costa<br>
 
-_Production Designer:_ Elliott Hostetter
+_Production Designer:_ Elliott Hostetter<br>
 
-_Costume Designer:_ Giulia Piersanti
+_Costume Designer:_ Giulia Piersanti<br>
 
-_Make-up:_ Fernanda Perez
+_Make-up:_ Fernanda Perez<br>
 
-_Hair:_ Massimo Gattabrusi
+_Hair:_ Massimo Gattabrusi<br>
 
-_Music:_ Trent Reznor, Atticus Ross
+_Music:_ Trent Reznor, Atticus Ross<br>
 
-_Cast:_
+_Cast:_<br>
 
-Taylor Russell _(Maren)_
+Taylor Russell _(Maren)_<br>
 
-Timothée Chalamet _(Lee)_
+Timothée Chalamet _(Lee)_<br>
 
-Michael Stuhlbarg _(Jake)_
+Michael Stuhlbarg _(Jake)_<br>
 
-André Holland _(Maren’s father)_
+André Holland _(Maren’s father)_<br>
 
-Chloë Sevigny _(Janelle)_
+Chloë Sevigny _(Janelle)_<br>
 
-David Gordon Green _(Brad)_
+David Gordon Green _(Brad)_<br>
 
-Jessica Harper _(Barbara Kerns)_
+Jessica Harper _(Barbara Kerns)_<br>
 
-Jake Horowitz _(booth man)_
+Jake Horowitz _(booth man)_<br>
 
-Mark Rylance _(Sully)_
+Mark Rylance _(Sully)_<br>
 
-USA 2022©
+USA 2022©<br>
 
 130 mins
 
-Courtesy of Warner Bros.
+Courtesy of Warner Bros.<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTU0MjY0OV19
+eyJoaXN0b3J5IjpbMTIyNzExMjIyXX0=
 -->
