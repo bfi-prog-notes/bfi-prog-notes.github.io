@@ -7,7 +7,7 @@ This sharp, funny and borderline creepy socio-sexual horror story continues with
 The scenes between Joel and his actor friend are marvellously written and played in a Spike Lee, semi-improvised manner, but the central opposition between the naïve Joel and the inhuman temptress is disappointing, linked as it is to conventional, reactionary values. The complex, amoral world of the bar and the bedroom gives way to a backward-looking moralism that allows for a traditional (albeit in extreme form) vampire movie finish in which faith conquers all and the temptress is reduced to smoking bones by the cross and Joel’s unshakeable faith.  
 **Kim Newman, _Sight and Sound_, July 1992**  
 
-**DEF BY TEMPTATION**
+**DEF BY TEMPTATION**  
 _Directed by_: James Bond III
 ©: Bonded Enterprises Inc.
 Orpheus Pictures _presents_  
@@ -52,9 +52,9 @@ _Music Editor_: David Ouimet
 _Music Technician_: Daryl Shepherd
 _Sound Mixer_: Charles R. Hunt
 _Re-recording Mixer_: Jack Cooley
-_Sound Editor_: Ron Kalish
+_Sound Editor_: Ron Kalish  
 
-**Cast:**
+**Cast:**  
 James Bond III _(Joel)_
 Kadeem Hardison _(‘K’)_
 Bill Nunn _(Dougy)_
@@ -77,12 +77,12 @@ Lahaina Kameha _(lady 5)_
 Ellis Williams _(demon limo driver)_
 Michael Michelle _(lady 6)_
 Robin Harmon _(lady 4)_
-Starlina Young _(lady 1)_
+Starlina Young _(lady 1)_  
 
-USA 1990©
-94 mins
+USA 1990©  
+94 mins  
 
-\* Uncredited
+\* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzM1NjA0NzddfQ==
+eyJoaXN0b3J5IjpbMTI4Nzk0MjU2M119
 -->
