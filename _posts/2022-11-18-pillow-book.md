@@ -14,14 +14,11 @@ But what is remarkable about _The Pillow Book_, in relation to his recent films,
 But the importance of the sensuousness is greater than this implies – for one way of seeing the film is to see it as a riposte, whether consciously or not, to other recent art films about heterosexual sex and representation, such as Jacques Rivette’s _La Belle Noiseuse_. Where in that film the scratching of Michel Piccoli’s pen on paper seems an analogue to a penetrative assault on Emmanuelle Beart’s body, in _The Pillow Book_ the direct painting on the bodies seems rather to offer aesthetic enhancement and pleasure. But most importantly what really separates Greenaway’s from Rivette’s is that in  
 _The Pillow Book_ the heroine stops being the canvas on which the man writes and becomes the writer herself, taking control of her destiny, ready to begin a new life.
 
-So it’s clear that if Greenaway is indebted to the 60s, he is not slavishly so. What marks _The Pillow Book_ out is not merely its partial setting at the millennium, but its millennial or utopian longings. Greenaway seems here to have found a form through which he can imagine past, present, and future on the screen simultaneously (via overlay); he can bring east and west together (through Vivian Wu and Ewan McGregor); and through the Japanese hieroglyph can bring together word and image – since the word is an image. _The Pillow Book_ may have the characteristic ‘violence’ motifs of a Greenaway film: it also has a curious – and curiously moving – utopian quality.
-
+So it’s clear that if Greenaway is indebted to the 60s, he is not slavishly so. What marks _The Pillow Book_ out is not merely its partial setting at the millennium, but its millennial or utopian longings. Greenaway seems here to have found a form through which he can imagine past, present, and future on the screen simultaneously (via overlay); he can bring east and west together (through Vivian Wu and Ewan McGregor); and through the Japanese hieroglyph can bring together word and image – since the word is an image. _The Pillow Book_ may have the characteristic ‘violence’ motifs of a Greenaway film: it also has a curious – and curiously moving – utopian quality.  
 **Claire Tovey, _Sight and Sound_, November 1996**
 
-**Peter Greenaway on ‘The Pillow Book’**
-
-The visual language experiments of _Prospero’s Books_ are continued in  
-_The Pillow Book_. Neither has a guilty conscience about putting the word ‘book’ in their titles, if only because this demonstrates the equivocations of a film tradition that always starts with text before it moves on to image, which seems to suggest filmmaking as an illustration of text. There are various symmetries. The first film was developed from Shakespeare’s _The Tempest_, a 400-year-old classic English text, the second from a 1000-year-old classic Japanese text, Sei Shonagon’s _The Pillow Book_. But unlike _Prospero’s Books_, the second is a contemporary story with opportunities to open up new strategies and structures which the first deliberately kept under a tight discipline.
+**Peter Greenaway on ‘The Pillow Book’**  
+The visual language experiments of _Prospero’s Books_ are continued in  _The Pillow Book_. Neither has a guilty conscience about putting the word ‘book’ in their titles, if only because this demonstrates the equivocations of a film tradition that always starts with text before it moves on to image, which seems to suggest filmmaking as an illustration of text. There are various symmetries. The first film was developed from Shakespeare’s _The Tempest_, a 400-year-old classic English text, the second from a 1000-year-old classic Japanese text, Sei Shonagon’s _The Pillow Book_. But unlike _Prospero’s Books_, the second is a contemporary story with opportunities to open up new strategies and structures which the first deliberately kept under a tight discipline.
 
 The overall visual metaphor for _The Pillow Book_ is the oriental hieroglyph as a template for a cinema practice. The history of Japanese calligraphy is also the history of Japanese painting. Image and text are one. The text is read though the image, and the image is seen in the text – very possibly an ideal model for cinema, considering the uneasy marriage of text and image that it tries to cement. With the Japanese hieroglyph predominantly in mind as a model – more sinuous, more painterly perhaps than any other in the Orient – the subject of such a film would most naturally be Japanese.
 
@@ -45,5 +42,5 @@ Vivian Wu (Nagiko); Yoshi Oida (the publisher); Ken Ogata (the father); Hideko Y
 Netherlands/France/UK/Luxembourg 1995©  
 126 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjQ2MjE0XX0=
+eyJoaXN0b3J5IjpbLTExNTg3NDI3MzZdfQ==
 -->
