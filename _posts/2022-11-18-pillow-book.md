@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Pillow Book
+published: true
+date: 2022-11-18
+readtime: true
+categories: ['FRAMES OF MIND<br> THE FILMS OF PETER GREENAWAY']
+tags: [Drama]
+metadata: 'Netherlands/France/UK/Luxembourg 1995, 126 mins<br> Director: Peter Greenaway'
+pdf: '2022-11-18-pillow-book.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -6,13 +16,11 @@ _The Pillow Book_, it is clear, gathers up the two concerns that have driven so 
 
 That these are his twin obsessions may be what marks him out as an inheritor of the 60s European art movie – for it was the concern with formal experimentation, and with a sexuality that couldn’t be found in mainstream cinema, which gave 60s European art cinema its signature. Yet what is interesting about Greenaway is that he tends, when talking about his own work, to foreground the representation rather than the sex.
 
-Perhaps this is because sex is always a dangerous bargain in his films.  _The Draughtsman’s Contract_ ties together sexual favours with social power – a similar situation to the one in which Nagiko’s father is embroiled in  
-_The Pillow Book_. Sex leads to multiple (off-screen) rape in _The Baby of Mâcon_ and to cannibalism in _The Cook the Thief His Wife & Her Lover_, not to mention the death of Jerome in the present film.
+Perhaps this is because sex is always a dangerous bargain in his films.  _The Draughtsman’s Contract_ ties together sexual favours with social power – a similar situation to the one in which Nagiko’s father is embroiled in _The Pillow Book_. Sex leads to multiple (off-screen) rape in _The Baby of Mâcon_ and to cannibalism in _The Cook the Thief His Wife & Her Lover_, not to mention the death of Jerome in the present film.
 
 But what is remarkable about _The Pillow Book_, in relation to his recent films, is that sex seems at times not only a liberating compact but a sensuous one. For instance, the effect of the elegant calligraphy on the bodies of the two main actors, Vivien Wu and Ewan McGregor, is often breath-taking  (if troubling) and sometimes erotic.
 
-But the importance of the sensuousness is greater than this implies – for one way of seeing the film is to see it as a riposte, whether consciously or not, to other recent art films about heterosexual sex and representation, such as Jacques Rivette’s _La Belle Noiseuse_. Where in that film the scratching of Michel Piccoli’s pen on paper seems an analogue to a penetrative assault on Emmanuelle Beart’s body, in _The Pillow Book_ the direct painting on the bodies seems rather to offer aesthetic enhancement and pleasure. But most importantly what really separates Greenaway’s from Rivette’s is that in  
-_The Pillow Book_ the heroine stops being the canvas on which the man writes and becomes the writer herself, taking control of her destiny, ready to begin a new life.
+But the importance of the sensuousness is greater than this implies – for one way of seeing the film is to see it as a riposte, whether consciously or not, to other recent art films about heterosexual sex and representation, such as Jacques Rivette’s _La Belle Noiseuse_. Where in that film the scratching of Michel Piccoli’s pen on paper seems an analogue to a penetrative assault on Emmanuelle Beart’s body, in _The Pillow Book_ the direct painting on the bodies seems rather to offer aesthetic enhancement and pleasure. But most importantly what really separates Greenaway’s from Rivette’s is that in _The Pillow Book_ the heroine stops being the canvas on which the man writes and becomes the writer herself, taking control of her destiny, ready to begin a new life.
 
 So it’s clear that if Greenaway is indebted to the 60s, he is not slavishly so. What marks _The Pillow Book_ out is not merely its partial setting at the millennium, but its millennial or utopian longings. Greenaway seems here to have found a form through which he can imagine past, present, and future on the screen simultaneously (via overlay); he can bring east and west together (through Vivian Wu and Ewan McGregor); and through the Japanese hieroglyph can bring together word and image – since the word is an image. _The Pillow Book_ may have the characteristic ‘violence’ motifs of a Greenaway film: it also has a curious – and curiously moving – utopian quality.  
 **Claire Tovey, _Sight and Sound_, November 1996**
@@ -41,6 +49,53 @@ Vivian Wu (Nagiko); Yoshi Oida (the publisher); Ken Ogata (the father); Hideko Y
 
 Netherlands/France/UK/Luxembourg 1995©  
 126 mins  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg3NDI3MzZdfQ==
--->
+<br>
+**FRAMES OF MIND: THE FILMS OF PETER GREENAWAY**  
+**A Zed & Two Noughts**  
+Tue 18 Oct 18:10; Sat 5 Nov 17:40; Sat 12 Nov 17:40; Mon 21 Nov 20:40; Sun 27 Nov 12:15  
+**Peter Greenaway: Frames of Mind Season Introduction**  
+Wed 19 Oct 18:10  
+**The Belly of an Architect**  
+Wed 19 Oct 20:30; Fri 18 Nov 18:20; Tue 22 Nov 18:10; Sat 26 Nov 15:30  
+**The Falls**  
+Sat 22 Oct 13:50; Sun 6 Nov 14:40  
+**The Cook, the Thief, His Wife & Her Lover**  
+Sun 23 Oct 15:30 (+ intro by Justin Johnson, Lead Programmer); Sat 12 Nov 14:55; Mon 28 Nov 17:50  
+**Drowning by Numbers**  
+Sun 23 Oct 18:00; Sat 19 Nov 14:30; Sun 27 Nov 18:00  
+**Peter Greenaway Shorts Programme 1**  
+Mon 24 Oct 18:10; Thu 10 Nov 20:40  
+**Experimental Sound and Vision: Found Sounds, Lyrical Loops and Landscapes**  
+Thu 27 Oct 18:15; Thu 17 Nov 18:15 (+ intro by author and musician David Toop)  
+**Prospero’s Books**  
+Tue 1 Nov 17:40; Sun 20 Nov 18:00  
+**Peter Greenaway: Pioneer of Cinema**  
+Sat 5 Nov 12:00-17:00  
+**The Unreliable Narrator: Adventures in Storytelling, Documentary and Misinformation**  
+Sun 6 Nov 12:40; Fri 25 Nov 21:00  
+**A TV Dante: Cantos 1-8**  
+Tue 15 Nov 18:20  
+**The Baby of Mâcon**  
+Wed 16 Nov 20:30; Fri 25 Nov 18:00; Mon 28 Nov 20:30  
+**The Pillow Book**  
+Fri 18 Nov 20:30; Thu 24 Nov 20:30; Tue 29 Nov 17:40  
+**8½ Women**  
+Sun 20 Nov 12:50; Wed 30 Nov 20:35  
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
