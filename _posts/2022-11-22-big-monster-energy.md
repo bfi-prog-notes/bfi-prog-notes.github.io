@@ -1,0 +1,12 @@
+
+Where do we draw the line between the terrifying and the titillating? Scary films aren’t supposed to be sexy, and yet, there is a very thin line between the titillating and the terrifying. Romantic love stories rooted in the macabre, the vampire used as a metaphor for sex, and the beast for uncontrollable desires. In this playful panel discussion chaired by season co-programmer Anna Bogutskaya, we ask a simple question: are monsters hot?
+
+**Anna Bogutskaya** is a freelance writer, film programmer and broadcaster. She was the Film and Events Programmer at the BFI, where she curated many seasons and created the Woman with a Movie Camera Summit. Currently is a programmer at the Edinburgh International Film Festival and Fantastic Fest. She contributes to _The Guardian_, BBC, _Little White Lies_,  
+_The Face_ and more, and is the host of The Final Girls podcast.
+
+**Clarisse Loughrey** is the Chief Film Critic at _The Independent_. She also co-hosts the Fade to Black podcast with Hanna Flint and Amon Warmann and the Big Screen Book Club podcast with Joseph Kime. Clarisse has previously appeared as a regular guest on Kermode and Mayo's Film Review and Prime Video’s The Screen Test, and has worked with BAFTA, the BFI, Curzon Journal, the BBC, Picturehouse, The Final Girls, and Second Sight Films. Having stumbled into film writing after an abortive attempt at comedy and accidentally fallen in love with the craft, Clarisse now likes to annoy friends, acquaintances, and strangers with her fervent love of Ridley Scott’s _Alien: Covenant_. And, no, she doesn’t understand what her accent is meant to be, either.
+
+**Sophie Monks Kaufman** is a writer and creative who uses art to make sense of experiences like sex, death and all the turmoil in between. She has worked as an arts journalist for a decade, contributing to outlets like _Little White Lies_, _IndieWire_, _Hazlitt_, BBC Culture and _Sight and Sound_. She collaborates frequently with the BFI and programmed a film season, The Original Sin of Claire Denis, at the BFI Southbank in 2019. Her first trade book, _Wes Anderson_ (Close–Ups, Book 1), was published by HarperCollins in 2018 and was the highest seller of the series. She wrote and directed a short film about grief_, I Do Not Sleep_, in 2017 and produced and co–hosted a bulimia podcast, Spill Your Guts, in 2016. Sophie is working on her biggest passion project to-date, a book about impossible love.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIzMjY0MTMyNV19
+-->
