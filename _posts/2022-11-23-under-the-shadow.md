@@ -80,12 +80,12 @@ Hamidreza Djavdan _(Mr Fakur)_
 Bijan Daneshmand _(director)_  
 Sajjad Delafrooz _(secretary)_  
 Nabil Koni _(Mr Bijari)_  
-Zainab Zamamiri _(Sogand)_
-Khaled Zamamiri _(Ali)_
-Karam Rashayda _(Mehdi)_
+Zainab Zamamiri _(Sogand)_  
+Khaled Zamamiri _(Ali)_  
+Karam Rashayda _(Mehdi)_  
 
-UK/Jordan/Qatar 2016
-84 mins
+UK/Jordan/Qatar 2016  
+84 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzEyNzQ3MF19
+eyJoaXN0b3J5IjpbLTIwOTk5Njk3NF19
 -->
