@@ -45,28 +45,27 @@ This was an ongoing conversation with my DP Kit Fraser, whom I have known since 
 **Babak Anvari interviewed by Olivia Howe, _Sight and Sound_, October 2016**  
 
 **UNDER THE SHADOW**  
-_Director:_ Babak Anvari
-_Production Company_: Wigwam Films
-_Supported by_: Doha Film Institute
-_Executive Producers_: Sanjay Shah, Nick Harbinson, Patrick Fischer,  
-Duncan McWilliam, Khaled Haddad
-_Produced by_: Lucan Toh, Emily Leo, Oliver Roskill
-_Co-producer:_ Donall McCusker
-_1st Assistant Director:_ Yanal Kassay
-_2nd Assistant Director:_ Dan Clarke
-_Casting Co-ordinator:_ Emad Mohtaseb
-_Script Supervisor:_ Haya Kattan
-_Written by_: Babak Anvari
-_Director of Photography_: Kit Fraser
-_Visual Effects Supervisor:_ Marcin Kolendo
-_Editor_: Chris Barwell
-_Production Designer_: Nasser Zoubi
-_Art Director:_ Karim Kheir
-_Costume Designer_: Phaedra Dahdaleh
-_Make-up and Hair Designer:_ Farah Jadaane
-_Music Composers_: Gavin Cullen, William McGillivray
-_Supervising Sound_ _Designer_: Alex Joseph
-_Sound Recordist:_ Fadi Shehadeh
+_Director:_ Babak Anvari  
+_Production Company_: Wigwam Films  
+_Supported by_: Doha Film Institute  
+_Executive Producers_: Sanjay Shah, Nick Harbinson, Patrick Fischer,  Duncan McWilliam, Khaled Haddad  
+_Produced by_: Lucan Toh, Emily Leo, Oliver Roskill  
+_Co-producer:_ Donall McCusker  
+_1st Assistant Director:_ Yanal Kassay  
+_2nd Assistant Director:_ Dan Clarke  
+_Casting Co-ordinator:_ Emad Mohtaseb  
+_Script Supervisor:_ Haya Kattan  
+_Written by_: Babak Anvari  
+_Director of Photography_: Kit Fraser  
+_Visual Effects Supervisor:_ Marcin Kolendo  
+_Editor_: Chris Barwell  
+_Production Designer_: Nasser Zoubi  
+_Art Director:_ Karim Kheir  
+_Costume Designer_: Phaedra Dahdaleh  
+_Make-up and Hair Designer:_ Farah Jadaane  
+_Music Composers_: Gavin Cullen, William McGillivray  
+_Supervising Sound_ _Designer_: Alex Joseph  
+_Sound Recordist:_ Fadi Shehadeh  
 
 **Cast**
 Narges Rashidi (_Shideh_)
@@ -88,5 +87,5 @@ Karam Rashayda _(Mehdi)_
 UK/Jordan/Qatar 2016
 84 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxNDA0NDU2XX0=
+eyJoaXN0b3J5IjpbLTgzMzY1NTc4Nl19
 -->
