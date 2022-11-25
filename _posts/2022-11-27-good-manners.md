@@ -36,28 +36,28 @@ Yes. The idea of contrast is central to the werewolf myth. Human versus beast, c
 _Directed by:_ Juliana Rojas, Marco Dutra  
 _Production_ _Companies_: Dezenove Som e Imagens, Good Fortune Films, Urban Factory  
 _Co-produced by:_ Globo Filmes  
-_Producers_: Maria Ionescu, Sara Silveira, Clément Duboin, Frédéric Corvez
-_Associated_ _Producer_: José Alvarenga Jr
-_Production_ _Director_: Cristina Alves
-_Post-production Supervisor (Brazil):_ Fran Mosquera
-_Post-production Supervisor (France):_ Vincent Alexandre
-_Casting_: Alice Wolfenson
-_Written_ _by_: Juliana Rojas, Marco Dutra
-_Cinematography_: Rui Poças
-_Editing_: Caetano Gotardo
-_Visual_ _Effects_: Mikros Image
-_Visual_ _Effects_ _and_ _Matte_ _Paintings_ _Composition_: Quanta Post
-_Production_ _Design_: Fernando Zuccolotto
-_Matte_ _Paintings_: Eduardo Schaal
-_Character_ _Design_: Mathieu Vavril
-_Costume_ _Design_: Kiki Orona
-_Make-up and Hair:_ Rosemary Paiva
-_Make up Effects and Animatronics:_ CLSFX Atelier 69
-_Colourist_: Yov Moor
-_Original_ _Music_ _by_: Marco Dutra, Juliana Rojas, Guilherme Garbato, Gustavo Garbato
-_Musical_ _Directors_: Guilherme Garbato, Gustavo Garbato
-_Sound_ _Recordist_: Gabriela Cunha
-_Sound_ _Design_: Bernardo Uzeda
+_Producers_: Maria Ionescu, Sara Silveira, Clément Duboin, Frédéric Corvez  
+_Associated_ _Producer_: José Alvarenga Jr  
+_Production_ _Director_: Cristina Alves  
+_Post-production Supervisor (Brazil):_ Fran Mosquera  
+_Post-production Supervisor (France):_ Vincent Alexandre  
+_Casting_: Alice Wolfenson  
+_Written_ _by_: Juliana Rojas, Marco Dutra  
+_Cinematography_: Rui Poças  
+_Editing_: Caetano Gotardo  
+_Visual_ _Effects_: Mikros Image  
+_Visual_ _Effects_ _and_ _Matte_ _Paintings_ _Composition_: Quanta Post  
+_Production_ _Design_: Fernando Zuccolotto  
+_Matte_ _Paintings_: Eduardo Schaal  
+_Character_ _Design_: Mathieu Vavril  
+_Costume_ _Design_: Kiki Orona  
+_Make-up and Hair:_ Rosemary Paiva  
+_Make up Effects and Animatronics:_ CLSFX Atelier 69  
+_Colourist_: Yov Moor  
+_Original_ _Music_ _by_: Marco Dutra, Juliana Rojas, Guilherme Garbato, Gustavo Garbato  
+_Musical_ _Directors_: Guilherme Garbato, Gustavo Garbato  
+_Sound_ _Recordist_: Gabriela Cunha  
+_Sound_ _Design_: Bernardo Uzeda  
 _Sound_ _Mixing_: Christophe Vingtrinier  
 
 **Cast**  
@@ -80,6 +80,76 @@ Ivy Souza _(woman at the mall)_
 
 Brazil/France 2017  
 135 mins  
+
+
+**IN DREAMS ARE MONSTERS**
+**Good Manners (As Boas Maneiras)**
+Sun 27 Nov 18:10; Wed 30 Nov 20:25
+**Ouija: Origin of Evil** Mon 28 Nov 18:10
+**Pet Sematary** Mon 28 Nov 20:40
+**Under the Shadow** Tue 29 Nov 18:10
+**Us** Tue 29 Nov 20:40
+**A Nightmare on Elm Street** Wed 30 Nov 20:50
+**The Uninvited** Thu 1 Dec 18:05; Sat 17 Dec 14:30 (+ intro by broadcaster and writer, Louise Blain)
+**Kwaidan (Kaidan)** Thu 1 Dec 20:00; Tue 13 Dec 17:40
+**Night of the Eagle** Fri 2 Dec 21:00; Sat 10 Dec 12:10
+**Daughters of Darkness (Les lèvres rouges)**
+Sat 3 Dec 20:45: Tue 13 Dec 21:00
+**Transness in Horror** Tue 6 Dec 18:20
+**Let the Right One In (Låt den rätte komma in)**
+Tue 6 Dec 20:45; Thu 22 Dec 18:15
+**Philosophical Screens: The Lure** Wed 7 Dec 20:10 Blue Room
+**The Lure (Córki dancing)** Wed 7 Dec 18:15; Thu 22 Dec 20:45 (+ intro by Dr Catherine Wheatley, Reader in Film Studies at King’s College London)
+
+**Cat People** Wed 7 Dec 20:50; Mon 19 Dec (+ intro by Clarisse Loughrey, chief film critic for The Independent)
+
+**Black Sunday (La maschera del demonio)**
+
+Fri 9 Dec 21:00; Sun 18 Dec 18:30
+
+**Ghosts in the Machine** Sat 10 Dec 18:30
+
+**Ring (Ringu)** Sat 10 Dec 20:40; Tue 13 Dec 21:05; Tue 20 Dec 21:00
+
+**Atlantics (Atlantique) + Atlantiques**
+
+Sun 11 Dec 14:50; Tue 27 Dec 18:20
+
+**Sugar Hill** Sun 11 Dec 18:00; Sat 17 Dec 20:40
+
+**Häxan** Mon 12 Dec 18:10 (+ live score by The Begotten); Sat 17 Dec 11:45 (with live piano accompaniment)
+
+**Sweetheart** Mon 12 Dec 21:00; Tue 27 Dec 12:40
+
+**Arrebato** Wed 14 Dec 20:30 (+ intro by writer and broadcaster Anna Bogutskaya); Fri 23 Dec 18:05
+
+**The Final Girls LIVE** Thu 15 Dec 20:30
+
+**One Cut of the Dead (Kamera o tomeru na!)**
+
+Fri 16 Dec 18:15; Fri 30 Dec 20:45
+
+**The Fog** Fri 16 Dec 21:00; Wed 28 Dec 18:10
+
+**Being Human + Q&A with Toby Whithouse and guests**
+
+Sat 17 Dec 18:00
+
+**Day of the Dead** Mon 19 Dec 20:40; Thu 29 Dec 18:20
+
+**Society** Tue 20 Dec 18:15; Wed 28 Dec 20:50
+
+**Interview with the Vampire**
+
+Wed 21 Dec 18:10: Thu 29 Dec 20:40
+
+**Ginger Snaps**
+
+Wed 21 Dec 20:50; Tue 27 Dec 15:10
+
+**A Dark Song**
+
+Fri 23 Dec 20:45; Fri 30 Dec 18:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODczMDQwNiwxOTE2NDU0MjIyXX0=
+eyJoaXN0b3J5IjpbLTEzMjU4NDUxMDEsMTkxNjQ1NDIyMl19
 -->
