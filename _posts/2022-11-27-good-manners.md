@@ -29,8 +29,7 @@ We were setting up these two different spaces: Ana’s nouveau riche apartment a
 
 _Even though you use the codes of fantasy, we can see the modern concerns. Do you think you’ve made a political movie?_
 
-Yes. The idea of contrast is central to the werewolf myth. Human versus beast, civilisation versus instinct. We expanded this idea to all aspects of the story: centre and periphery, white and black, rich and poor. The split form of the film also reflects that: horror movie and children’s movie are combined into the same story. The characters are separated by all kinds of barrier: class, race, neighbourhood, origins, faith, age and time. They also deal with loneliness and concealed desire. In a way, the homosexual love story between such different characters and the formation of the unusual family are maybe the wildest fantasy of the film: the idea that all barriers built by civilised society can be questioned and eventually broken.
-
+Yes. The idea of contrast is central to the werewolf myth. Human versus beast, civilisation versus instinct. We expanded this idea to all aspects of the story: centre and periphery, white and black, rich and poor. The split form of the film also reflects that: horror movie and children’s movie are combined into the same story. The characters are separated by all kinds of barrier: class, race, neighbourhood, origins, faith, age and time. They also deal with loneliness and concealed desire. In a way, the homosexual love story between such different characters and the formation of the unusual family are maybe the wildest fantasy of the film: the idea that all barriers built by civilised society can be questioned and eventually broken. 
 **Interview by Bernard Payen, production notes**
 
 **GOOD MANNERS (AS BOAS MANEIRAS)**
@@ -129,5 +128,5 @@ Brazil/France 2017
 
 135 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjQ1NDIyMl19
+eyJoaXN0b3J5IjpbMTI3MDk3MTUzNiwxOTE2NDU0MjIyXX0=
 -->
