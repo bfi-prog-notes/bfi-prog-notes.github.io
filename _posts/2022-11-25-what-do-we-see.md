@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: What Do We See When We Look at the Sky?
+published: true
+date: 2022-11-25
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama, Experimental, Fantasy]
+metadata: 'Germany-Georgia 2021, 150 mins<br> Director: Alexandre Koberidze'
+pdf: '2022-11-25-what-do-we-see.pdf'
+---
 
 About 20 minutes into Alexandre Koberidze’s enchanting, meandering and unclassifiable second feature, a caption appears on screen, imploring the audience to close our eyes at the sound of a signal (and reopen them on a second beep). A countdown follows: 3. 2. 1…
 
@@ -60,6 +70,24 @@ Germany-Georgia 2021
 
 A New Wave release
 <br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNTA4ODcxNzcyXX0=
 -->
