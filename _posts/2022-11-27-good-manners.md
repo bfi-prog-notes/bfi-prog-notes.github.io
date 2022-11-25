@@ -85,13 +85,20 @@ Brazil/France 2017
 **IN DREAMS ARE MONSTERS**
 **Good Manners (As Boas Maneiras)**
 Sun 27 Nov 18:10; Wed 30 Nov 20:25
-**Ouija: Origin of Evil** Mon 28 Nov 18:10
-**Pet Sematary** Mon 28 Nov 20:40
-**Under the Shadow** Tue 29 Nov 18:10
-**Us** Tue 29 Nov 20:40
-**A Nightmare on Elm Street** Wed 30 Nov 20:50
-**The Uninvited** Thu 1 Dec 18:05; Sat 17 Dec 14:30 (+ intro by broadcaster and writer, Louise Blain)
-**Kwaidan (Kaidan)** Thu 1 Dec 20:00; Tue 13 Dec 17:40
+**Ouija: Origin of Evil** 
+Mon 28 Nov 18:10
+**Pet Sematary** 
+Mon 28 Nov 20:40
+**Under the Shadow** 
+Tue 29 Nov 18:10
+**Us** 
+Tue 29 Nov 20:40
+**A Nightmare on Elm Street** 
+Wed 30 Nov 20:50
+**The Uninvited** 
+Thu 1 Dec 18:05; Sat 17 Dec 14:30 (+ intro by broadcaster and writer, Louise Blain)
+**Kwaidan (Kaidan)** 
+Thu 1 Dec 20:00; Tue 13 Dec 17:40
 **Night of the Eagle** Fri 2 Dec 21:00; Sat 10 Dec 12:10
 **Daughters of Darkness (Les lèvres rouges)**
 Sat 3 Dec 20:45: Tue 13 Dec 21:00
@@ -100,56 +107,31 @@ Sat 3 Dec 20:45: Tue 13 Dec 21:00
 Tue 6 Dec 20:45; Thu 22 Dec 18:15
 **Philosophical Screens: The Lure** Wed 7 Dec 20:10 Blue Room
 **The Lure (Córki dancing)** Wed 7 Dec 18:15; Thu 22 Dec 20:45 (+ intro by Dr Catherine Wheatley, Reader in Film Studies at King’s College London)
-
 **Cat People** Wed 7 Dec 20:50; Mon 19 Dec (+ intro by Clarisse Loughrey, chief film critic for The Independent)
-
 **Black Sunday (La maschera del demonio)**
-
 Fri 9 Dec 21:00; Sun 18 Dec 18:30
-
 **Ghosts in the Machine** Sat 10 Dec 18:30
-
 **Ring (Ringu)** Sat 10 Dec 20:40; Tue 13 Dec 21:05; Tue 20 Dec 21:00
-
 **Atlantics (Atlantique) + Atlantiques**
-
 Sun 11 Dec 14:50; Tue 27 Dec 18:20
-
 **Sugar Hill** Sun 11 Dec 18:00; Sat 17 Dec 20:40
-
 **Häxan** Mon 12 Dec 18:10 (+ live score by The Begotten); Sat 17 Dec 11:45 (with live piano accompaniment)
-
 **Sweetheart** Mon 12 Dec 21:00; Tue 27 Dec 12:40
-
 **Arrebato** Wed 14 Dec 20:30 (+ intro by writer and broadcaster Anna Bogutskaya); Fri 23 Dec 18:05
-
 **The Final Girls LIVE** Thu 15 Dec 20:30
-
 **One Cut of the Dead (Kamera o tomeru na!)**
-
 Fri 16 Dec 18:15; Fri 30 Dec 20:45
-
 **The Fog** Fri 16 Dec 21:00; Wed 28 Dec 18:10
-
 **Being Human + Q&A with Toby Whithouse and guests**
-
 Sat 17 Dec 18:00
-
 **Day of the Dead** Mon 19 Dec 20:40; Thu 29 Dec 18:20
-
 **Society** Tue 20 Dec 18:15; Wed 28 Dec 20:50
-
 **Interview with the Vampire**
-
 Wed 21 Dec 18:10: Thu 29 Dec 20:40
-
 **Ginger Snaps**
-
 Wed 21 Dec 20:50; Tue 27 Dec 15:10
-
 **A Dark Song**
-
 Fri 23 Dec 20:45; Fri 30 Dec 18:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU4NDUxMDEsMTkxNjQ1NDIyMl19
+eyJoaXN0b3J5IjpbMzE0NjYyNTE1LDE5MTY0NTQyMjJdfQ==
 -->
