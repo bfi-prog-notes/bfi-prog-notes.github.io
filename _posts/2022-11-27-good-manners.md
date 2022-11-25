@@ -137,16 +137,16 @@ Fri 16 Dec 18:15; Fri 30 Dec 20:45
 Fri 16 Dec 21:00; Wed 28 Dec 18:10  
 **Being Human + Q&A with Toby Whithouse and guests**  
 Sat 17 Dec 18:00  
-**Day of the Dead** 
-Mon 19 Dec 20:40; Thu 29 Dec 18:20
-**Society** 
-Tue 20 Dec 18:15; Wed 28 Dec 20:50
-**Interview with the Vampire**
-Wed 21 Dec 18:10: Thu 29 Dec 20:40
-**Ginger Snaps**
-Wed 21 Dec 20:50; Tue 27 Dec 15:10
-**A Dark Song**
-Fri 23 Dec 20:45; Fri 30 Dec 18:20
+**Day of the Dead**  
+Mon 19 Dec 20:40; Thu 29 Dec 18:20  
+**Society**  
+Tue 20 Dec 18:15; Wed 28 Dec 20:50  
+**Interview with the Vampire**  
+Wed 21 Dec 18:10: Thu 29 Dec 20:40  
+**Ginger Snaps**  
+Wed 21 Dec 20:50; Tue 27 Dec 15:10  
+**A Dark Song**  
+Fri 23 Dec 20:45; Fri 30 Dec 18:20  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1NjQ5MjMzLDE5MTY0NTQyMjJdfQ==
+eyJoaXN0b3J5IjpbLTg3MDEwNDMzNSwxOTE2NDU0MjIyXX0=
 -->
