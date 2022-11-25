@@ -28,8 +28,7 @@ At the movie’s conclusion, the filmmakers and their subjects gather for a priv
 _Director_: Alexandre Koberidze  
 ©: DFFB, Sakdoc Film, New Matter Films,  RBB - Rundfunk Berlin-Brandenburg,  Alexandre Koberidze  
 _Production Company_:  Deutsche Film- und Fernsehakademie Berlin  
-_In co-production with_: Sakdoc Film,  Alexandre Koberidze, New Matter Films,  
-RBB - Rundfunk Berlin-Brandenburg  
+_In co-production with_: Sakdoc Film,  Alexandre Koberidze, New Matter Films, RBB - Rundfunk Berlin-Brandenburg  
 _Funded by_: Medienboard Berlin-Brandenburg, Georgian National Film Center  
 _Produced with the initiative_: LEUCHTSTOFF  
 _World Sales_: Cercamon  
@@ -45,8 +44,7 @@ _Music_: Giorgi Koberidze
 _Sound Design_: Giorgi Koberidze  
 _Sound Mixer_: Alexandre Leser
 
-_Cast:_
-
+**Cast**  
 Giorgi Bochorishvili _(Giorgi)_  
 Ani Karseladze _(Lisa)_  
 Oliko Barbakadze _(Lisa)_  
@@ -57,11 +55,11 @@ Irina Chelidze _(Nino)_
 David Koberidze _(Irakli)_  
 Sopho Sharashidze _(Ana)_
 
-Germany-Georgia 2021
-
+Germany-Georgia 2021  
 150 mins
 
 A New Wave release
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTI0MTIwOF19
+eyJoaXN0b3J5IjpbNTA4ODcxNzcyXX0=
 -->
