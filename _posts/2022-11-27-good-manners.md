@@ -29,104 +29,57 @@ We were setting up these two different spaces: Ana’s nouveau riche apartment a
 
 _Even though you use the codes of fantasy, we can see the modern concerns. Do you think you’ve made a political movie?_
 
-Yes. The idea of contrast is central to the werewolf myth. Human versus beast, civilisation versus instinct. We expanded this idea to all aspects of the story: centre and periphery, white and black, rich and poor. The split form of the film also reflects that: horror movie and children’s movie are combined into the same story. The characters are separated by all kinds of barrier: class, race, neighbourhood, origins, faith, age and time. They also deal with loneliness and concealed desire. In a way, the homosexual love story between such different characters and the formation of the unusual family are maybe the wildest fantasy of the film: the idea that all barriers built by civilised society can be questioned and eventually broken. 
-**Interview by Bernard Payen, production notes**
+Yes. The idea of contrast is central to the werewolf myth. Human versus beast, civilisation versus instinct. We expanded this idea to all aspects of the story: centre and periphery, white and black, rich and poor. The split form of the film also reflects that: horror movie and children’s movie are combined into the same story. The characters are separated by all kinds of barrier: class, race, neighbourhood, origins, faith, age and time. They also deal with loneliness and concealed desire. In a way, the homosexual love story between such different characters and the formation of the unusual family are maybe the wildest fantasy of the film: the idea that all barriers built by civilised society can be questioned and eventually broken.  
+**Interview by Bernard Payen, production notes**  
 
-**GOOD MANNERS (AS BOAS MANEIRAS)**
-
-_Directed by:_ Juliana Rojas, Marco Dutra
-
-_Production_ _Companies_: Dezenove Som e Imagens,
-
-Good Fortune Films, Urban Factory
-
-_Co-produced by:_ Globo Filmes
-
-_Producers_: Maria Ionescu, Sara Silveira, Clément Duboin,
-
-Frédéric Corvez
-
+**GOOD MANNERS (AS BOAS MANEIRAS)**  
+_Directed by:_ Juliana Rojas, Marco Dutra  
+_Production_ _Companies_: Dezenove Som e Imagens, Good Fortune Films, Urban Factory  
+_Co-produced by:_ Globo Filmes  
+_Producers_: Maria Ionescu, Sara Silveira, Clément Duboin, Frédéric Corvez
 _Associated_ _Producer_: José Alvarenga Jr
-
 _Production_ _Director_: Cristina Alves
-
 _Post-production Supervisor (Brazil):_ Fran Mosquera
-
 _Post-production Supervisor (France):_ Vincent Alexandre
-
 _Casting_: Alice Wolfenson
-
 _Written_ _by_: Juliana Rojas, Marco Dutra
-
 _Cinematography_: Rui Poças
-
 _Editing_: Caetano Gotardo
-
 _Visual_ _Effects_: Mikros Image
-
 _Visual_ _Effects_ _and_ _Matte_ _Paintings_ _Composition_: Quanta Post
-
 _Production_ _Design_: Fernando Zuccolotto
-
 _Matte_ _Paintings_: Eduardo Schaal
-
 _Character_ _Design_: Mathieu Vavril
-
 _Costume_ _Design_: Kiki Orona
-
 _Make-up and Hair:_ Rosemary Paiva
-
 _Make up Effects and Animatronics:_ CLSFX Atelier 69
-
 _Colourist_: Yov Moor
-
 _Original_ _Music_ _by_: Marco Dutra, Juliana Rojas, Guilherme Garbato, Gustavo Garbato
-
 _Musical_ _Directors_: Guilherme Garbato, Gustavo Garbato
-
 _Sound_ _Recordist_: Gabriela Cunha
-
 _Sound_ _Design_: Bernardo Uzeda
+_Sound_ _Mixing_: Christophe Vingtrinier  
 
-_Sound_ _Mixing_: Christophe Vingtrinier
+**Cast**  
+Isabél Zuaa _(Clara)_  
+Marjorie Estiano _(Ana)_  
+Miguel Lobo _(Joel)_  
+Cida Moreira _(Dona Amélia)_  
+Andrea Marquee _(Ângela)_  
+Felipe Kenji _(Maurício)_  
+Nina Medeiros _(Amanda)_  
+Neusa Velasco _(Dona Norma)_  
+Gilda Nomacce _(Gilda)_  
+Eduardo Gomes _(Professor Edu)_  
+Hugo Villavicenzio _(Hugo)_  
+Adriana Mendonça _(Cida)_  
+Germano Melo _(Dr Ciro Poças)_  
+Naloana Lima _(homeless woman)_  
+Clara de Cápua _(security guard)_  
+Ivy Souza _(woman at the mall)_  
 
-**Cast**
-
-Isabél Zuaa _(Clara)_
-
-Marjorie Estiano _(Ana)_
-
-Miguel Lobo _(Joel)_
-
-Cida Moreira _(Dona Amélia)_
-
-Andrea Marquee _(Ângela)_
-
-Felipe Kenji _(Maurício)_
-
-Nina Medeiros _(Amanda)_
-
-Neusa Velasco _(Dona Norma)_
-
-Gilda Nomacce _(Gilda)_
-
-Eduardo Gomes _(Professor Edu)_
-
-Hugo Villavicenzio _(Hugo)_
-
-Adriana Mendonça _(Cida)_
-
-Germano Melo _(Dr Ciro Poças)_
-
-Naloana Lima _(homeless woman)_
-
-Clara de Cápua _(security guard)_
-
-Ivy Souza _(woman at the mall)_
-
-Brazil/France 2017
-
-135 mins
+Brazil/France 2017  
+135 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDk3MTUzNiwxOTE2NDU0MjIyXX0=
+eyJoaXN0b3J5IjpbMTkxODczMDQwNiwxOTE2NDU0MjIyXX0=
 -->
