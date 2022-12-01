@@ -48,13 +48,13 @@ Gail Russell _(Stella Meredith)_
 Ivan Simpson _(Will Hardy)_ *  
 Holmes Herbert _(Charlie Jessup)_ *
   
-USA 1944
-
+USA 1944  
 99 mins
 
-* Uncredited
+*Uncredited
 
 The screening on Sat 17 Dec will be introduced by broadcaster and writer Louise Blain
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Nzc1NTMxNl19
+eyJoaXN0b3J5IjpbMjA2MTQwNDA5MF19
 -->
