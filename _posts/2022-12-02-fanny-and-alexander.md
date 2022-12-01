@@ -20,64 +20,43 @@ Emilie is finally restored to the bosom of the Ekdahls and her return is crowned
 _Fanny and Alexander_ is not a perfect film. The character of the disappointed Carl is rather peremptorily written out of the plot. The film lacks the concentrated rigour of _From the Life of the Marionettes_. The exposition is occasionally confusing. Nevertheless, taken as a whole, it is a sustained triumph: the Ekdahls are a great pulsing family unit; one believes in the reality of Oscar’s theatre company (and believes in it the more for the virtually silent presence of Gunnar Björnstrand as the stately _père noble_). For those who have kept faith with Bergman it is an inexpressible relief to find that despair has not gained the upper hand.
 
 Bergman’s ability to fix spots of time has not deserted him. Fanny and Alexander are waiting in the kitchen. Their father is dying. The old cook is writing a letter to a faithful correspondent at a mission station in China. Another old retainer talks about dogs. The children are playing a game. A treacle sandwich is produced. The cook, consolingly, offers Alexander the stamp to lick. He politely declines. The scene, the everyday persisting when death is at the door, is knitted together with calm assurance. Death in the end has no dominion.  
-**John Pym, _Sight and Sound_****, Spring 1983**
+**John Pym, _Sight and Sound_, Spring 1983**  
 
-**FANNY AND ALEXANDER (FANNY OCH ALEXANDER)**
-
+**FANNY AND ALEXANDER (FANNY OCH ALEXANDER)**  
 _Director:_ Ingmar Bergman; _Copyright/©:_ Svenska Filminstitutet; _Production Companies:_ Cinematograph, Gaumont, Personafilm, Sveriges Television Kanal 1, Tobis-Filmkunst; _Producer:_ Jörn Donner; _Production Accountant:_ Hellen Igler; _Production Manager:_ Katinka Faragó; _Unit managers:_ Eva Ivarsson, Brita Werkmäster; _Administrators:_ Lars-Owe Carlberg, Ingrid Bergman, Fredrik von Rosen; _Production Secretary:_ Benita Lundqvist; _Assistant Director:_ Peter Schildt; _Continuity:_ Kerstin Eriksdotter; _Screenplay:_ Ingmar Bergman; _Director of Photography:_ Sven Nykvist; _Assistant Photographers:_ Lars Karlsson, Dan Myhrman; _2nd Unit Photographer:_ Tony Forsberg; _Grips:_ Daniel Bergman, Ulf Pramfors; _Gaffers:_ Ulf Björck, Torbjörn Andersson, Ragnar Hansson, Kent Hogberg, Ted Lindahl; _Stills Photography:_ Arne Carlsson; _Laterna Magica:_ Christian Wirsén; _Special Effects:_ Bengt Lundgren; _Puppets:_ Arne Högsander; _Editor:_ Sylvia Ingermarsson; _Art Director:_ Anna Asp; _Set Decorator:_ Susanne Lingheim; _Technical Supervisor:_ Kaj Larsen; _Assistant Technical Supervisors:_ Ulrika Rindegard, Annmargret Fyregård; _Props:_ Jan Andersson, Gunilla Allard, Christer Ekelund, Johan Husberg; _Construction Foreman:_ Jakob Tigerskiold; _Construction Grip:_ Percy Nilsson; _Carpenters:_ Olle Berg, Kenneth Blomqvist, Jan Eriksson, Nisse Johansson, Bert Martinsson, Bertil Sjölund, Björn Sinclair, Hans Strandberg, Anders Söderlund; _Supervising Painter:_ Rolf Persson; _Painters:_ Annne Marie Davidsson, Tua Ekholm, Kent Eriksson, Ylva Hammar, Teddy Holm, Cecilia Iversen, Dick Jacobsson, Lisbeth Jansson, Andrew Jones, Donald Karlsson, Lena Karlsson, Bengt Landegren, Anna Skagerfors, Tom Stocklassa, Bengt Svedberg, Sigrid William-Olsson; _Costume Designer:_ Marik Vos; _Costumers:_ Kristina Makroff, Elsie-Britt Lindström, Robert Nordlund, Kjell Sundquist; _Assistant Costumers:_ Lenamarie Wallström, Ingabritt Adriansson, Anne Marie Broms, Maria Lindmark, Annchristin Lobråten-Hjelm, Gorel Engstrand; _Seamstresses:_ Wiveka Dahlström, Ann Katrin Edmark, Solveig Eriksson, Rosemarie Karlsson, Lena Persson, Caroline von Rosen, Niclas Svartengren; _Make-up Artists:_ Barbro H. Haugen, Anna-Lena Melin, Leif Qviström; _Hairstyles:_ Cecilia Drott, Kjell Gustavsson, Mariann Virdestam; _Laboratory:_ Film Teknik, Nils Melander; _Music:_ Daniel Bell; _Military Band Conductor:_ Per Lyng, _Choreography:_ Mercedes Björlin; _Sound/Mix:_ Owe Svensson, Bo Persson, Björn Gunnarsson, Lars Liljeholm; _Teacher:_ Marie Rechlin; _Driver:_ åke Dahlbom; _Stunts:_ Johan Torén; _Press Representative:_ Berit Gullberg
 
 **Cast**
-
 **Ekdahl Residence**
+Kristina Adolphson _(Siri, housemaid)_; Börje Ahlstedt _(Carl Ekdahl)_; Pernilla Allwin _(Fanny Ekdahl)_; Kristian Almgren _(Putte)_; Carl Billquist _(police superintendent)_; Axel Düberg _(witness)_; Allan Edwall _(Oscar Ekdahl)_; Siv Ericks _(Alida, Emilie’s cook)_; Ewa Fröling _(Emilie Ekdahl)_; Patricia Gelin _(statue)_; Majlis Granlund _(Vega, Helena’s cook)_; Maria Granlund _(Petra Ekdahl)_; Bertil Guve _(Alexander Ekdahl)_; Eva von Hanno _(Berta, Helena’s housemaid)_; Sonya Hedenbratt _(Aunt Emma)_; Olle Hilding _(old clergyman)_; Svea Holst _(Ester, Helena’s parlourmaid)_; Jarl Kulle _(Gustav Adolf Ekdahl)_; Käbi Laretei _(Aunt Anna)_; Mona Malm _(Alma Ekdahl)_; Lena Olin _(Rosa, new nursemaid)_; Gösta Prüzelius _(Dr Fürstenberg)_; Christina Schollin _(Lydia Ekdahl)_; Hans Strååt _(clergyman at wedding)_; Pernilla Wallgren _(Maj Kling, Emilie’s nursemaid)_; Inga Ålenius _(Lisen, Emilie’s housemaid)_; Georg Årlin _(the colonel)_  
 
-Kristina Adolphson _(Siri, housemaid)_; Börje Ahlstedt _(Carl Ekdahl)_; Pernilla Allwin _(Fanny Ekdahl)_; Kristian Almgren _(Putte)_; Carl Billquist _(police superintendent)_; Axel Düberg _(witness)_; Allan Edwall _(Oscar Ekdahl)_;
+**Bishop’s Palace**  
+Marianne Aminoff _(Blenda Vergérus, bishop’s mother)_; Harriet Andersson _(Justina, kitchen maid)_; Mona Andersson _(Karna, housemaid)_; Linda Kruger _(Pauline)_; Hans Henrik Lerfeldt _(Elsa Bergius, bishop’s aunt)_; Jan Malmsjö _(Bishop Edvard Vergérus)_; Marianne Nielsen _(Selma, housemaid)_; Marrit Olsson _(Malla Tander, cook)_; Kerstin Tidelius _(Henrietta Vergérus, bishop’s sister)_; Pernilla Wahlgren _(Esmeralda)_  
 
-Siv Ericks _(Alida, Emilie’s cook)_; Ewa Fröling _(Emilie Ekdahl)_; Patricia Gelin _(statue)_; Majlis Granlund _(Vega, Helena’s cook)_; Maria Granlund _(Petra_
+**Theatre**  
+Anna Bergman _(Miss Hanna Schwartz)_; Gunnar Björnstrand _(Filip Landahl)_; Mattias Bollinger; Nils Brandt _(Mr Morsing)_; Lars-Owe Carlberg _(glee singer)_; Gus Dahlström _(props man)_; Ernst Günther _(dean of the university)_; Hugo Hasslo _(glee singer)_; Heinz Hopf _(Tomas Graal)_; Maud Hytenberg-Bartoletti _(Miss Sinclair)_; Sven Erik Jakobsen _(glee singer)_; Marianne Karlbeck _(Miss Palmgren)_; Kerstin Karte _(prompter)_; Tore Karte _(office manager)_; Åke Lagergren _(Johan Armfeldt)_; Sune Mangs _(Mr Salenius)_; Per Mattson _(Mikael Bergman)_; Marie Louise Sidh; Licka Sjöman _(Grete Holm)_; Runo Wallin; Georg Årlin _(the colonel)_; Daniel Bell, Gunnar Djerf, Folke Eng, Ebbe Eng, Evert Hallmarken, Nils Kyndel, Ulf Lagerwall, Börje Mårelius, Karl Nilheim _(orchestra)_  
 
-_Ekdahl)_; Bertil Guve _(Alexander Ekdahl)_; Eva von Hanno _(Berta, Helena’s housemaid)_; Sonya Hedenbratt _(Aunt Emma)_; Olle Hilding _(old clergyman)_; Svea Holst _(Ester, Helena’s parlourmaid)_; Jarl Kulle _(Gustav Adolf Ekdahl)_; Käbi Laretei _(Aunt Anna)_; Mona Malm _(Alma Ekdahl)_; Lena Olin _(Rosa, new nursemaid)_; Gösta Prüzelius _(Dr Fürstenberg)_; Christina Schollin _(Lydia Ekdahl)_; Hans Strååt _(clergyman at wedding)_; Pernilla Wallgren _(Maj Kling, Emilie’s nursemaid)_; Inga Ålenius _(Lisen, Emilie’s housemaid)_; Georg Årlin _(the colonel)_
+**Jacobi’s House**  
+Erland Josephson _(Isak Jacobi)_; Stina Ekblad _(Ismael)_; Mats Bergman _(Aron)_; Viola Aberlé, Gerd Andersson, Ann-Louise Bergström _(Japanese ladies)_; Marie-Hélène Breillat  
 
-**Bishop’s Palace**
+Sweden/France/Germany 1982  
+189 mins  
 
-Marianne Aminoff _(Blenda Vergérus, bishop’s mother)_; Harriet Andersson _(Justina, kitchen maid)_; Mona Andersson _(Karna, housemaid)_; Linda Kruger _(Pauline)_; Hans Henrik Lerfeldt _(Elsa Bergius, bishop’s aunt)_; Jan Malmsjö _(Bishop Edvard Vergérus)_; Marianne Nielsen _(Selma, housemaid)_; Marrit Olsson _(Malla Tander, cook)_; Kerstin Tidelius _(Henrietta Vergérus, bishop’s sister)_; Pernilla Wahlgren _(Esmeralda)_
+A BFI release  
 
-**Theatre**
 
-Anna Bergman _(Miss Hanna Schwartz)_; Gunnar Björnstrand _(Filip Landahl)_; Mattias Bollinger; Nils Brandt _(Mr Morsing)_; Lars-Owe Carlberg _(glee singer)_; Gus Dahlström _(props man)_; Ernst Günther _(dean of the university)_; Hugo Hasslo _(glee singer)_; Heinz Hopf _(Tomas Graal)_; Maud Hytenberg-Bartoletti _(Miss Sinclair)_; Sven Erik Jakobsen _(glee singer)_; Marianne Karlbeck _(Miss Palmgren)_; Kerstin Karte _(prompter)_; Tore Karte _(office manager)_; Åke Lagergren _(Johan Armfeldt)_; Sune Mangs _(Mr Salenius)_; Per Mattson _(Mikael Bergman)_; Marie Louise Sidh; Licka Sjöman _(Grete Holm)_; Runo Wallin; Georg Årlin _(the colonel)_; Daniel Bell, Gunnar Djerf, Folke Eng, Ebbe Eng, Evert Hallmarken, Nils Kyndel, Ulf Lagerwall, Börje Mårelius, Karl Nilheim _(orchestra)_
+**RE-RELEASES**  
+**Fanny and Alexander (Fanny och Alexander)**  
+From Fri 2 Dec  
+**The Queen of Spades**  
+From Fri 23 Dec  
 
-**Jacobi’s House**
-
-Erland Josephson _(Isak Jacobi)_; Stina Ekblad _(Ismael)_; Mats Bergman _(Aron)_; Viola Aberlé, Gerd Andersson, Ann-Louise Bergström _(Japanese ladies)_; Marie-Hélène Breillat
-
-Sweden/France/Germany 1982
-189 mins
-
-A BFI release
-
-<![endif]-->
-
-**RE-RELEASES**
-
-**Fanny and Alexander (Fanny och Alexander)**
-
-From Fri 2 Dec
-
-**The Queen of Spades**
-
-From Fri 23 Dec
-
-**NEW RELEASES**
-
-**Lynch/Oz**
-
-From Fri 2 Dec
-
-**Bones and All**
-
-From Fri 2 Dec
-
-**Corsage**
-
-From Tue 27 Dec
+**NEW RELEASES**  
+**Lynch/Oz**  
+From Fri 2 Dec  
+**Bones and All**  
+From Fri 2 Dec  
+**Corsage**  
+From Tue 27 Dec  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDg3ODgwNF19
+eyJoaXN0b3J5IjpbMjA2Njg3MDgyNV19
 -->
