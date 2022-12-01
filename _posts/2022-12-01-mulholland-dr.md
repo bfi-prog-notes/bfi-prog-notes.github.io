@@ -80,43 +80,43 @@ Rena Riffel _(Laney)_
 Tad Horino _(Taka)_  
 Tony Longo _(Kenny)_  
 Geno Silva _(hotel manager)_  
-Lafayette Montgomery _(Cowboy)_  
-Kate Forster _(Martha Johnson)_ 
-Michele Hicks _(Nicki)_
-Lisa Ferguson _(1st assistant cameraperson)_
-William Ostrander _(2nd assistant director)_
-Elizabeth Lackey _(Carol)_
-Brian Beacock _(backup singer 1)_
-Blake Lindsley _(backup singer 2)_
-Adrien Curry _(backup singer 3)_
-Tyrah M. Lindsey _(backup singer 4)_
-Michael Weatherred _(Hank, assistant director)_
-Michael Fairman _(Jason)_
-Johanna Stein _(woman in #12)_
-Richard Green _(the magician)_
-Conte Candoli _(trumpet player)_
-Cori Glazer _(blue-haired lady)_
-Geno Silva _(emcee)_
-Rebekah Del Rio _(herself)_
-Lyssie Powell _(blond in bed)_
-Scott Coffey _(Wilkins)_
-Kimberly Clever, Joshua Collazo, Lisa Ferguson, David Frutos,
-Peter Loggins, Theresa Salazar, Thea Samuels, Christian Thompson _(dancers)_
+Lafayette Montgomery _(Cowboy)_
+Kate Forster _(Martha Johnson)_  
+Wayne Grace _(Bob Booker)_  
+Michele Hicks _(Nicki)_  
+Lisa Ferguson _(1st assistant cameraperson)_  
+William Ostrander _(2nd assistant director)_  
+Elizabeth Lackey _(Carol)_  
+Brian Beacock _(backup singer 1)_  
+Blake Lindsley _(backup singer 2)_  
+Adrien Curry _(backup singer 3)_  
+Tyrah M. Lindsey _(backup singer 4)_  
+Michael Weatherred _(Hank, assistant director)_  
+Michael Fairman _(Jason)_  
+Johanna Stein _(woman in #12)_  
+Richard Green _(the magician)_  
+Conte Candoli _(trumpet player)_  
+Cori Glazer _(blue-haired lady)_  
+Geno Silva _(emcee)_  
+Rebekah Del Rio _(herself)_  
+Lyssie Powell _(blond in bed)_  
+Scott Coffey _(Wilkins)_  
+Kimberly Clever, Joshua Collazo, Lisa Ferguson, David Frutos, Peter Loggins, Theresa Salazar, Thea Samuels, Christian Thompson _(dancers)_  
 
-France/USA 2001©
-147 mins
+France/USA 2001©  
+147 mins  
 
-**OVER THE RAINBOW**
-**Mulholland Drive**
-Thu 1 Dec 20:15; Sun 11 Dec 17:45; Mon 19 Dec 20:15; Fri 30 Dec 20:15
-**Blue Velvet**
-Sat 3 Dec 20:40; Fri 9 Dec 20:40; Wed 21 Dec 20:40; Tue 27 Dec 15:00
-**The Wizard of Oz**
+**OVER THE RAINBOW**  
+**Mulholland Drive**  
+Thu 1 Dec 20:15; Sun 11 Dec 17:45; Mon 19 Dec 20:15; Fri 30 Dec 20:15  
+**Blue Velvet**  
+Sat 3 Dec 20:40; Fri 9 Dec 20:40; Wed 21 Dec 20:40; Tue 27 Dec 15:00  
+**The Wizard of Oz**  
 Sun 4 Dec 11:30; Fri 16 Dec 20:30; Sun 18 Dec 15:15
-**The Elephant Man**
-Mon 5 Dec 20:30; Sat 10 Dec 20:30; Thu 15 Dec 20:40; Fri 23 Dec 20:40
-**Wild at Heart**
-Wed 7 Dec 18:10; Thu 22 Dec 20:35; Fri 30 Dec 17:50
+**The Elephant Man**  
+Mon 5 Dec 20:30; Sat 10 Dec 20:30; Thu 15 Dec 20:40; Fri 23 Dec 20:40  
+**Wild at Heart**  
+Wed 7 Dec 18:10; Thu 22 Dec 20:35; Fri 30 Dec 17:50  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk1NTQzODNdfQ==
+eyJoaXN0b3J5IjpbNzI0NDU1MTNdfQ==
 -->
