@@ -1,7 +1,4 @@
 
-
-<![endif]-->
-
 **SPOILER WARNING** The following notes give away some of the plot.
 
 For all its mood shifts from black wit to sheer terror (Peter Deming’s camerawork creeps around corners and into darkened rooms to discover a Medusa-faced derelict or corpses glistening with rot), David Lynch’s _Mulholland Dr._ is disturbingly all of a piece. This belies the fact that the first two thirds are a re-edit of a series pilot for ABC that was shot two years before, only to be shelved by the puzzled network. The sequences that comprise the rest of the movie, meanwhile, are add-ons, invented to transform an open-ended pilot into a film offering, if not closure, at least circularity. Either section can be read as a ‘dream’ version of the other’s ‘reality’ – though things are never that simple in Lynch’s world of dreams within dreams. Moments of explicit fantastica recur throughout, leaving wide open (and irrelevant?) the question of whether television or film is the more ‘real’ medium. It’s as if Lynch had side-stepped a couple of seasons of up-and-down intrigue and segued directly from the _Twin Peaks_ pilot to the theatrical _Twin Peaks: Fire Walk with Me_. He at once establishes and destroys a fictional universe, while probing the nature of narrative and performance, offering the practice of karaoke mime (demonstrated by Dean Stockwell in _Blue Velvet_) as a metaphor for all human activity.
@@ -14,77 +11,77 @@ The prevailing spirit of the film is a figure from Hispanic-American folklore, _
 
 The film concentrates on Betty and Rita, but the television series, now itself a might-have-been ghost, would presumably have developed the cops played by Robert Forster and Brent Briscoe as well as other intriguing but little-seen characters. Played with a Kyle MacLachlan squareness by Justin Theroux, Adam suffers most in the reshoot, a wooden support to the nuanced readings of Watts and Laura Elena Harring as Diane and movie star Camilla. He’s marvellously unsettled, however, in his first, truncated storyline. There have been Hollywood horror stories before, but only Lynch would stage production meetings as ritual torture or ghostly encounters. The supposed power players turn out to be trapped between the wills of a Mabuse-Howard Hughes figure in the basement (Michael J. Anderson in a prosthetic body) and sinister backers who present their choice for lead role, Camilla, as a fait accompli (‘This is not a suggestion’). His sharp black suit absurdly splattered with bright magenta, Adam learns his whole life is dependent on going along with the creative input of the money men, who have the power to ruin his credit at a cash-only flop-house. To get back on track, he takes a midnight meeting at the top of Mulholland Drive where a buzzing lightbulb flares to announce the arrival of the Cowboy, a successor to _Twin Peaks_’ Killer BOB and _Lost Highway_’s mystery man as a representative of supernaturally organised crime.
 
-A film bound to irritate audiences who want to emerge with a cut-and-dried sense of what they’ve seen, this follows the aptly-titled _The Straight Story_ by taking a literally crooked road (Mulholland Drive, of course), with byways into Hollywood satire, criminal intrigue, horror and backstage musical. It certainly contains as much material as any television series could manage, never quoting, evoking or imitating without subsuming the raw material into its own unique world. Films as emotionally overwhelming as _Mulholland Dr._ often seem shallower with further acquaintance, but this shows signs of being a lasting work, a film that shifts and changes along with the viewer, upon which all commentary is necessarily provisional.
-**Kim Newman, _Sight and Sound_, January 2002**
+A film bound to irritate audiences who want to emerge with a cut-and-dried sense of what they’ve seen, this follows the aptly-titled _The Straight Story_ by taking a literally crooked road (Mulholland Drive, of course), with byways into Hollywood satire, criminal intrigue, horror and backstage musical. It certainly contains as much material as any television series could manage, never quoting, evoking or imitating without subsuming the raw material into its own unique world. Films as emotionally overwhelming as _Mulholland Dr._ often seem shallower with further acquaintance, but this shows signs of being a lasting work, a film that shifts and changes along with the viewer, upon which all commentary is necessarily provisional.  
+**Kim Newman, _Sight and Sound_, January 2002**  
 
-**MULHOLLAND DR.**
-_Director:_ David Lynch
-©  Studio Canal+
-_Production Companies:_ Films Alain Sarde, Asymmetrical Productions
-_Produced by:_ Babbo Inc
-_Executive Producer:_ Pierre Edelman
-_Producers:_ Mary Sweeney, Alain Sarde, Neal Edelstein, Michael Polaire, Tony Krantz
-_1st Assistant Directors:_ Mark Cotone, Scott Cameron
-_Screenplay:_ David Lynch
-_Director of Photography:_ Peter Deming
-_Visual Effects Supervisor:_ Scott Billups
-_Editor:_ Mary Sweeney
-_Production Designer:_ Jack Fisk
-_Art Director:_ Peter Jamison
-_Costume Designer:_ Amy Stofsky
-_Music Composed and Conducted by:_ Angelo Badalamenti
-_Sound Design:_ David Lynch
-_Re-recording Mixers:_ Ron Eng, David Lynch, John Neff
-_Supervising Sound Editor:_ Ron Eng
+**MULHOLLAND DR.**  
+_Director:_ David Lynch  
+©  Studio Canal+  
+_Production Companies:_ Films Alain Sarde, Asymmetrical Productions  
+_Produced by:_ Babbo Inc  
+_Executive Producer:_ Pierre Edelman  
+_Producers:_ Mary Sweeney, Alain Sarde, Neal 
+ Edelstein, Michael Polaire, Tony Krantz  
+_1st Assistant Directors:_ Mark Cotone, Scott Cameron  
+_Screenplay:_ David Lynch  
+_Director of Photography:_ Peter Deming  
+_Visual Effects Supervisor:_ Scott Billups  
+_Editor:_ Mary Sweeney  
+_Production Designer:_ Jack Fisk  
+_Art Director:_ Peter Jamison  
+_Costume Designer:_ Amy Stofsky  
+_Music Composed and Conducted by:_ Angelo Badalamenti  
+_Sound Design:_ David Lynch  
+_Re-recording Mixers:_ Ron Eng, David Lynch, John Neff  
+_Supervising Sound Editor:_ Ron Eng  
 
-**Cast**
-Justin Theroux _(Adam Kesher)_
-Naomi Watts _(Betty Elms/Diane Selwyn)_
-Laura Elena Harring _(Rita/Camilla Rhodes)_
-Ann Miller _(Coco Lenoix)_
-Dan Hedaya _(Vincenzo Castigliane)_
-Mark Pellegrino _(Joe)_
-Brent Briscoe _(Detective Domgaard)_
-Robert Forster _(Detective Harry McKnight)_
-Katharine Towne _(Cynthia)_
-Lee Grant _(Louise Bonner)_
-Scott Wulff _(limo driver)_
-Billy Ray Cyrus _(Gene)_
-Chad Everett _(Jimmy Katz)_
-Rita Taggart _(Linney James)_
-James Karen _(Wally Brown)_
-Lori Heuring _(Lorraine)_
-Angelo Badalamenti _(Luigi Castigliane)_
-Michael Des Barres _(Billy)_
-Marcus Graham _(Mr Darby)_
-Melissa Crider _(waitress at Winkies)_
-Robert Katims _(Ray Hott)_
-Jeanne Bates _(Irene)_
-Dan Birnbaum _(Irene’s companion)_
-Maya Bond _(Aunt Ruth)_
-Patrick Fischler _(Dan)_
-Michael Cooke _(Herb)_
-Bonnie Aarons _(bum)_
-Michael J. Anderson _(Mr Roque)_
-Joseph Kearney _(Roque’s menervant)_
-Enrique Buelna _(back of head man)_
-Richard Mead _(hairy-armed man)_
-Sean E. Markland _(cab driver at LAX)_
-Daniel Rey _(valet attendant)_
-David Schroeder _(Robert Smith)_
-Tom Morris _(espresso man)_
-Melissa George _(Camilla Rhodes)_
-Matt Gallini _(Castigliane limo driver)_
-Vincent Castellanos _(Ed)_
-Diane Nelson _(heavy-set woman)_
-Charlie Croughwell _(vacuum man)_
-Rena Riffel _(Laney)_
-Tad Horino _(Taka)_
-Tony Longo _(Kenny)_
-Geno Silva _(hotel manager)_
-Lafayette Montgomery _(Cowboy)_
-Kate Forster _(Martha Johnson)_
-Wayne Grace _(Bob Booker)_
+**Cast**  
+Justin Theroux _(Adam Kesher)_  
+Naomi Watts _(Betty Elms/Diane Selwyn)_  
+Laura Elena Harring _(Rita/Camilla Rhodes)_  
+Ann Miller _(Coco Lenoix)_  
+Dan Hedaya _(Vincenzo Castigliane)_  
+Mark Pellegrino _(Joe)_  
+Brent Briscoe _(Detective Domgaard)_  
+Robert Forster _(Detective Harry McKnight)_  
+Katharine Towne _(Cynthia)_  
+Lee Grant _(Louise Bonner)_  
+Scott Wulff _(limo driver)_  
+Billy Ray Cyrus _(Gene)_  
+Chad Everett _(Jimmy Katz)_  
+Rita Taggart _(Linney James)_  
+James Karen _(Wally Brown)_  
+Lori Heuring _(Lorraine)_  
+Angelo Badalamenti _(Luigi Castigliane)_  
+Michael Des Barres _(Billy)_  
+Marcus Graham _(Mr Darby)_  
+Melissa Crider _(waitress at Winkies)_  
+Robert Katims _(Ray Hott)_  
+Jeanne Bates _(Irene)_  
+Dan Birnbaum _(Irene’s companion)_  
+Maya Bond _(Aunt Ruth)_  
+Patrick Fischler _(Dan)_  
+Michael Cooke _(Herb)_  
+Bonnie Aarons _(bum)_  
+Michael J. Anderson _(Mr Roque)_  
+Joseph Kearney _(Roque’s menervant)_  
+Enrique Buelna _(back of head man)_  
+Richard Mead _(hairy-armed man)_  
+Sean E. Markland _(cab driver at LAX)_  
+Daniel Rey _(valet attendant)_  
+David Schroeder _(Robert Smith)_  
+Tom Morris _(espresso man)_  
+Melissa George _(Camilla Rhodes)_  
+Matt Gallini _(Castigliane limo driver)_  
+Vincent Castellanos _(Ed)_  
+Diane Nelson _(heavy-set woman)_  
+Charlie Croughwell _(vacuum man)_  
+Rena Riffel _(Laney)_  
+Tad Horino _(Taka)_  
+Tony Longo _(Kenny)_  
+Geno Silva _(hotel manager)_  
+Lafayette Montgomery _(Cowboy)_  
+Kate Forster _(Martha Johnson)_ 
 Michele Hicks _(Nicki)_
 Lisa Ferguson _(1st assistant cameraperson)_
 William Ostrander _(2nd assistant director)_
@@ -121,5 +118,5 @@ Mon 5 Dec 20:30; Sat 10 Dec 20:30; Thu 15 Dec 20:40; Fri 23 Dec 20:40
 **Wild at Heart**
 Wed 7 Dec 18:10; Thu 22 Dec 20:35; Fri 30 Dec 17:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTAwOTE0MzZdfQ==
+eyJoaXN0b3J5IjpbLTE1Mzk1NTQzODNdfQ==
 -->
