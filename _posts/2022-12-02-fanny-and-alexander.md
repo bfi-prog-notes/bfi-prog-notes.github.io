@@ -1,3 +1,14 @@
+---
+layout: post
+title: Fanny and Alexander
+published: true
+date: 2022-12-02
+readtime: true
+categories: ['RE-RELEASES']
+tags: [Drama, Period]
+metadata: 'Sweden/France/Germany 1982, 189 mins<br> Director: Ingmar Bergman'
+pdf: '2022-12-02-fanny-and-alexander.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -25,7 +36,7 @@ Bergman’s ability to fix spots of time has not deserted him. Fanny and Alexand
 **FANNY AND ALEXANDER (FANNY OCH ALEXANDER)**  
 _Director:_ Ingmar Bergman; _Copyright/©:_ Svenska Filminstitutet; _Production Companies:_ Cinematograph, Gaumont, Personafilm, Sveriges Television Kanal 1, Tobis-Filmkunst; _Producer:_ Jörn Donner; _Production Accountant:_ Hellen Igler; _Production Manager:_ Katinka Faragó; _Unit managers:_ Eva Ivarsson, Brita Werkmäster; _Administrators:_ Lars-Owe Carlberg, Ingrid Bergman, Fredrik von Rosen; _Production Secretary:_ Benita Lundqvist; _Assistant Director:_ Peter Schildt; _Continuity:_ Kerstin Eriksdotter; _Screenplay:_ Ingmar Bergman; _Director of Photography:_ Sven Nykvist; _Assistant Photographers:_ Lars Karlsson, Dan Myhrman; _2nd Unit Photographer:_ Tony Forsberg; _Grips:_ Daniel Bergman, Ulf Pramfors; _Gaffers:_ Ulf Björck, Torbjörn Andersson, Ragnar Hansson, Kent Hogberg, Ted Lindahl; _Stills Photography:_ Arne Carlsson; _Laterna Magica:_ Christian Wirsén; _Special Effects:_ Bengt Lundgren; _Puppets:_ Arne Högsander; _Editor:_ Sylvia Ingermarsson; _Art Director:_ Anna Asp; _Set Decorator:_ Susanne Lingheim; _Technical Supervisor:_ Kaj Larsen; _Assistant Technical Supervisors:_ Ulrika Rindegard, Annmargret Fyregård; _Props:_ Jan Andersson, Gunilla Allard, Christer Ekelund, Johan Husberg; _Construction Foreman:_ Jakob Tigerskiold; _Construction Grip:_ Percy Nilsson; _Carpenters:_ Olle Berg, Kenneth Blomqvist, Jan Eriksson, Nisse Johansson, Bert Martinsson, Bertil Sjölund, Björn Sinclair, Hans Strandberg, Anders Söderlund; _Supervising Painter:_ Rolf Persson; _Painters:_ Annne Marie Davidsson, Tua Ekholm, Kent Eriksson, Ylva Hammar, Teddy Holm, Cecilia Iversen, Dick Jacobsson, Lisbeth Jansson, Andrew Jones, Donald Karlsson, Lena Karlsson, Bengt Landegren, Anna Skagerfors, Tom Stocklassa, Bengt Svedberg, Sigrid William-Olsson; _Costume Designer:_ Marik Vos; _Costumers:_ Kristina Makroff, Elsie-Britt Lindström, Robert Nordlund, Kjell Sundquist; _Assistant Costumers:_ Lenamarie Wallström, Ingabritt Adriansson, Anne Marie Broms, Maria Lindmark, Annchristin Lobråten-Hjelm, Gorel Engstrand; _Seamstresses:_ Wiveka Dahlström, Ann Katrin Edmark, Solveig Eriksson, Rosemarie Karlsson, Lena Persson, Caroline von Rosen, Niclas Svartengren; _Make-up Artists:_ Barbro H. Haugen, Anna-Lena Melin, Leif Qviström; _Hairstyles:_ Cecilia Drott, Kjell Gustavsson, Mariann Virdestam; _Laboratory:_ Film Teknik, Nils Melander; _Music:_ Daniel Bell; _Military Band Conductor:_ Per Lyng, _Choreography:_ Mercedes Björlin; _Sound/Mix:_ Owe Svensson, Bo Persson, Björn Gunnarsson, Lars Liljeholm; _Teacher:_ Marie Rechlin; _Driver:_ åke Dahlbom; _Stunts:_ Johan Torén; _Press Representative:_ Berit Gullberg
 
-**Cast**
+**Cast**  
 **Ekdahl Residence**
 Kristina Adolphson _(Siri, housemaid)_; Börje Ahlstedt _(Carl Ekdahl)_; Pernilla Allwin _(Fanny Ekdahl)_; Kristian Almgren _(Putte)_; Carl Billquist _(police superintendent)_; Axel Düberg _(witness)_; Allan Edwall _(Oscar Ekdahl)_; Siv Ericks _(Alida, Emilie’s cook)_; Ewa Fröling _(Emilie Ekdahl)_; Patricia Gelin _(statue)_; Majlis Granlund _(Vega, Helena’s cook)_; Maria Granlund _(Petra Ekdahl)_; Bertil Guve _(Alexander Ekdahl)_; Eva von Hanno _(Berta, Helena’s housemaid)_; Sonya Hedenbratt _(Aunt Emma)_; Olle Hilding _(old clergyman)_; Svea Holst _(Ester, Helena’s parlourmaid)_; Jarl Kulle _(Gustav Adolf Ekdahl)_; Käbi Laretei _(Aunt Anna)_; Mona Malm _(Alma Ekdahl)_; Lena Olin _(Rosa, new nursemaid)_; Gösta Prüzelius _(Dr Fürstenberg)_; Christina Schollin _(Lydia Ekdahl)_; Hans Strååt _(clergyman at wedding)_; Pernilla Wallgren _(Maj Kling, Emilie’s nursemaid)_; Inga Ålenius _(Lisen, Emilie’s housemaid)_; Georg Årlin _(the colonel)_  
 
@@ -42,7 +53,7 @@ Sweden/France/Germany 1982
 189 mins  
 
 A BFI release  
-
+<br>
 
 **RE-RELEASES**  
 **Fanny and Alexander (Fanny och Alexander)**  
@@ -57,6 +68,21 @@ From Fri 2 Dec
 From Fri 2 Dec  
 **Corsage**  
 From Tue 27 Dec  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Njg3MDgyNV19
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
