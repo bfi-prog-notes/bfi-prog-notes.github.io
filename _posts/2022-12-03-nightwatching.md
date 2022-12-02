@@ -114,19 +114,18 @@ Jochum ten Haaf _(Jongkind)_
 Grazyna Barszczewska _(Banning Cocq’s mother-in-law)_  
 Weronika Migon _(Frau Hasselburg)_  
 Robert J. Page _(actor on stage)_  
-Magdalena Gnatowska_  
-(orphanage governess Martha)_  
+Magdalena Gnatowska _(orphanage governess Martha)_  
 Alicja Borkowska _(orphanage governess Lotte)_  
 Dewi Rhys Williams _(Martin Geyle)_  
 Magdalena Smalara _(Ineke)_  
 Aleksandra Lemba _(Ispidie)_  
 Peter Greenaway  *
 
-Netherlands-Canada-UK-Poland 2007©
-
+Netherlands-Canada-UK-Poland 2007©  
 141 mins
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDA5MTMxOF19
+eyJoaXN0b3J5IjpbMTQwNDgzODU1MF19
 -->
