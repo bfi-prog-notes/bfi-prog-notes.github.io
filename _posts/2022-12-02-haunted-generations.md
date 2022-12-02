@@ -54,91 +54,83 @@ UK 1995
 5 mins
 
 **DIVINER**  
-_Director:_ Frances Scott
-
-UK 2017
-
+_Director:_ Frances Scott  
+UK 2017  
 23 mins
 
 **QUENTIN SMIRHES WORMHELMET QUEVID-20 PIF**  
-_Director:_ Sean Reynard
-
-UK 2020
-
+_Director:_ Sean Reynard  
+UK 2020  
 1 min
 
 **QUENTIN SMIRHES PICTUREBOX EXTENDED FOOTAGE**  
-_Director:_ Sean Reynard
-
-UK 2015
-
+_Director:_ Sean Reynard  
+UK 2015  
 2 mins
 
 Total running time: 110 mins
-
-<![endif]-->
+<br><br>
 
 **FRAMES OF MIND: THE FILMS  
-OF PETER GREENAWAY**
+OF PETER GREENAWAY**<br>
 
-**Peter Greenaway Shorts Programme 2**
+**Peter Greenaway Shorts Programme 2**<br>
 
-Thu 1 Dec 17:50; Mon 12 Dec 20:50
+Thu 1 Dec 17:50; Mon 12 Dec 20:50<br>
 
-**Peter Greenaway Documentary Programme**
+**Peter Greenaway Documentary Programme**<br>
 
-Fri 2 Dec 20:35; Sun 11 Dec 12:00
+Fri 2 Dec 20:35; Sun 11 Dec 12:00<br>
 
-**Haunted Generations: The Lingering Legacy of the Public Information Film**
+**Haunted Generations: The Lingering Legacy of the Public Information Film**<br>
 
-Fri 2 Dec 18:10 (+ intro by author Bob Fischer); Wed 21 Dec 20:30
+Fri 2 Dec 18:10 (+ intro by author Bob Fischer); Wed 21 Dec 20:30<br>
 
-**Black Pond and Other Short Films**
+**Black Pond and Other Short Films**<br>
 
-Sat 3 Dec 12:00; Wed 14 Dec 20:35 (+ intro by filmmaker Jessica Sarah Rinland)
+Sat 3 Dec 12:00; Wed 14 Dec 20:35 (+ intro by filmmaker Jessica Sarah Rinland)<br>
 
-**Rembrandt’s J’Accuse**
+**Rembrandt’s J’Accuse**<br>
 
-Sat 3 Dec 15:20; Mon 19 Dec 20:50
+Sat 3 Dec 15:20; Mon 19 Dec 20:50<br>
 
-**Nightwatching**
+**Nightwatching**<br>
 
-Sat 3 Dec 18:00; Mon 19 Dec 18:00
+Sat 3 Dec 18:00; Mon 19 Dec 18:00<br>
 
-**The Tulse Luper Suitcases**
+**The Tulse Luper Suitcases, Part 1: The Moab Story**<br>
 
-Sun 4 Dec 12:10; Sun 18 Dec 12:00
+Sun 4 Dec 12:10; Sun 18 Dec 12:00<br>
 
 **The Tulse Luper Suitcases, Part 2:  
-Vaux to the Sea**
+Vaux to the Sea**<br>
 
-Sun 4 Dec 15:15; Sun 18 Dec 15:30
+Sun 4 Dec 15:15; Sun 18 Dec 15:30<br>
 
 **The Tulse Luper Suitcases, Part 3:  
-From Sark to Finish**
+From Sark to Finish**<br>
 
-Sun 4 Dec 18:10; Sun 18 Dec 18:20
+Sun 4 Dec 18:10; Sun 18 Dec 18:20<br>
 
-**Eisenstein in Guanajuato**
+**Eisenstein in Guanajuato**<br>
 
-Wed 7 Dec 20:55; Thu 29 Dec 18:15
+Wed 7 Dec 20:55; Thu 29 Dec 18:15<br>
 
-**Peter Greenaway in Conversation**
+**Peter Greenaway in Conversation**<br>
 
-Fri 9 Dec 18:20
+Fri 9 Dec 18:20<br>
 
-**The Cook, the Thief, His Wife & Her Lover**
+**The Cook, the Thief, His Wife & Her Lover**<br>
 
-Fri 9 Dec 20:30 (+ intro by Peter Greenaway)
+Fri 9 Dec 20:30 (+ intro by Peter Greenaway)<br>
 
-**The Greenaway Alphabet + H Is for House  
-+ Q&A with Saskia Boddeke**
+**The Greenaway Alphabet + H Is for House + Q&A with Saskia Boddeke**<br>
 
-Sat 10 Dec 12:00
+Sat 10 Dec 12:00<br>
 
-**Goltzius and the Pelican Company**
+**Goltzius and the Pelican Company**<br>
 
-Sat 10 Dec 14:15 (+ Q&A with Peter Greenaway); Wed 28 Dec 18:00
+Sat 10 Dec 14:15 (+ Q&A with Peter Greenaway); Wed 28 Dec 18:00<br>
 
 **A Zed & Two Noughts**
 
@@ -148,5 +140,5 @@ Sat 10 Dec 17:30 (+ intro by Peter Greenaway)
 
 Sat 10 Dec 20:50; Thu 29 Dec 20:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY0MTg3MDJdfQ==
+eyJoaXN0b3J5IjpbMTY2ODkzMjMyMF19
 -->
