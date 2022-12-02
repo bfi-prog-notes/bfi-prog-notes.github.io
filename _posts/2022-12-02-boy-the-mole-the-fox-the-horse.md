@@ -78,14 +78,10 @@ _Composer:_ Isobel Waller-Bridge
 
 _Sound Designer and Mixer:_ Adrian Rhodes
 
-**Voice cast**
-
-Jude Coward Nicoll
-
+**Voice cast**  
+Jude Coward Nicoll  
 Tom Hollander
-
 Idris Elba
-
 Gabriel Byrne
 
 UK 2022©
@@ -93,5 +89,5 @@ UK 2022©
 
 Courtesy of NoneMore Productions, Bad Robot Productions, Apple Original Films and BBC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTA2MjgwNF19
+eyJoaXN0b3J5IjpbNDAxODQ3NjM2XX0=
 -->
