@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Nightwatching
+published: true
+date: 2022-12-03
+readtime: true
+categories: ['FRAMES OF MIND<br>THE FILMS OF PETER GREENAWAY']
+tags: [Drama, Period]
+metadata: 'Netherlands-Canada-UK-Poland 2007, 141 mins<br> Director: Peter Greenaway'
+pdf: '2022-12-03-nightwatching.pdf'
+---
 
 Like Nicolas Roeg and Ken Russell, Peter Greenaway is a cinematic adventurist who for several decades wowed the British arthouse with a succession of challenging and deeply idiosyncratic films, only to slip out of favour and in effect disappear from public awareness. Given that none of his film projects – not even the epic _The Tulse Luper Suitcases_ trilogy (2003-04) – has been released either in UK theatres or for the UK home market in the decade since his _8½ Women_ (1999), _Nightwatching_ represents something of a comeback, though it seems a further sign of his fall from grace that even this film has taken over two years to reach our screens following its 2007 completion.
 
@@ -126,6 +136,59 @@ Netherlands-Canada-UK-Poland 2007©
 
 *Uncredited
 <br><br>
+
+**FRAMES OF MIND: THE FILMS  OF PETER GREENAWAY**<br>
+**Peter Greenaway Shorts Programme 2**<br>
+Thu 1 Dec 17:50; Mon 12 Dec 20:50<br>
+**Peter Greenaway Documentary Programme**<br>
+Fri 2 Dec 20:35; Sun 11 Dec 12:00<br>
+**Haunted Generations: The Lingering Legacy of the Public Information Film**<br>
+Fri 2 Dec 18:10 (+ intro by author Bob Fischer); Wed 21 Dec 20:30<br>
+**Black Pond and Other Short Films**<br>
+Sat 3 Dec 12:00; Wed 14 Dec 20:35 (+ intro by filmmaker Jessica Sarah Rinland)<br>
+**Rembrandt’s J’Accuse**<br>
+Sat 3 Dec 15:20; Mon 19 Dec 20:50<br>
+**Nightwatching**<br>
+Sat 3 Dec 18:00; Mon 19 Dec 18:00<br>
+**The Tulse Luper Suitcases, Part 1: The Moab Story**<br>
+Sun 4 Dec 12:10; Sun 18 Dec 12:00<br>
+**The Tulse Luper Suitcases, Part 2:  Vaux to the Sea**<br>
+Sun 4 Dec 15:15; Sun 18 Dec 15:30<br>
+**The Tulse Luper Suitcases, Part 3:  From Sark to Finish**<br>
+Sun 4 Dec 18:10; Sun 18 Dec 18:20<br>
+**Eisenstein in Guanajuato**<br>
+Wed 7 Dec 20:55; Thu 29 Dec 18:15<br>
+**Peter Greenaway in Conversation**<br>
+Fri 9 Dec 18:20<br>
+**The Cook, the Thief, His Wife & Her Lover**<br>
+Fri 9 Dec 20:30 (+ intro by Peter Greenaway)<br>
+**The Greenaway Alphabet + H Is for House + Q&A with Saskia Boddeke**<br>
+Sat 10 Dec 12:00<br>
+**Goltzius and the Pelican Company**<br>
+Sat 10 Dec 14:15 (+ Q&A with Peter Greenaway); Wed 28 Dec 18:00<br>
+**A Zed & Two Noughts**<br>
+Sat 10 Dec 17:30 (+ intro by Peter Greenaway)<br>
+**The Tulse Luper Suitcases: Antwerp**<br>
+Sat 10 Dec 20:50; Thu 29 Dec 20:50<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQwNDgzODU1MF19
 -->
