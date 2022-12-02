@@ -68,28 +68,28 @@ Belgium-France 2022
 Courtesy of Picturehouse Entertainment
 
 **IN PERSON & PREVIEWS**  
-**Preview: Tori and Lokita + Q&A with director-screenwriters Jean-Pierre and Luc Dardenne**
-Sat 3 Dec 17:45
-**BFI Fright Night**
-Sat 3 Dec 21:00 until morning BFI IMAX
-**Mark Kermode Live in 3D at the BFI**
-Mon 5 Dec 18:30
-**Preview: Enys Men + Q&A with director Mark Jenkin**
-Mon 5 Dec 20:45
-**TV Preview: Happy Valley Final Series Episode 1 + Q&A**
-Tue 6 Dec 18:15
-**Preview: Emancipation**
-Wed 7 Dec 18:00
-**Book Launch Event: The Shining (Extended Version) + Q&A with Lee Unkrich**
-Thu 8 Dec 18:40
-**Peter Greenaway in Conversation**
-Fri 9 Dec 18:20
-**The Precious Things: BBC Centenary Special + intro**
-Sat 10 Dec 14:20
-**TV Preview: His Dark Materials + Q&A with Cast & Crew TBC**
-Tue 13 Dec 18:00
-**TV Preview: Ghosts Christmas Special + Q&A with cast and crew**
-Thu 15 Dec 18:20
+**Preview: Tori and Lokita + Q&A with director-screenwriters Jean-Pierre and Luc Dardenne**  
+Sat 3 Dec 17:45  
+**BFI Fright Night**  
+Sat 3 Dec 21:00 until morning BFI IMAX  
+**Mark Kermode Live in 3D at the BFI**  
+Mon 5 Dec 18:30  
+**Preview: Enys Men + Q&A with director Mark Jenkin**  
+Mon 5 Dec 20:45  
+**TV Preview: Happy Valley Final Series Episode 1 + Q&A**  
+Tue 6 Dec 18:15  
+**Preview: Emancipation**  
+Wed 7 Dec 18:00  
+**Book Launch Event: The Shining (Extended Version) + Q&A with Lee Unkrich**  
+Thu 8 Dec 18:40  
+**Peter Greenaway in Conversation**  
+Fri 9 Dec 18:20  
+**The Precious Things: BBC Centenary Special + intro**  
+Sat 10 Dec 14:20  
+**TV Preview: His Dark Materials + Q&A with Cast & Crew TBC**  
+Tue 13 Dec 18:00  
+**TV Preview: Ghosts Christmas Special + Q&A with cast and crew**  
+Thu 15 Dec 18:20  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDAxODk1MV19
+eyJoaXN0b3J5IjpbLTIxMjY2NjI0MDddfQ==
 -->
