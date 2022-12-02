@@ -1,9 +1,18 @@
+---
+layout: post
+title: The Boy, the Mole, the Fox and the Horse
+published: true
+date: 2022-12-02
+readtime: true
+categories: ['PREVIEWS']
+tags: [Children, Animation]
+metadata: 'U 2022, 32 mins<br> Directors: Peter Baynton, Charlie Mackesy'
+pdf: '2022-12-02-boy-the-mole-the-fox-the-horse.pdf'
+---
 
+_+ Q&A with directors Peter Baynton and Charlie Mackesy, and producer Cara Speller_
 
-_+ Q&A with directors Peter Baynton and Charlie Mackesy, and producer  
-Cara Speller_
-
-When Charlie Mackesy published his book _The Boy, The Mole, The Fox and The Horse_ in October 2019, he started a sensation. Inspired by drawings he’d first posted on Instagram, this fable-like tale of kindness and hope became an instant classic. It spent over 100 weeks on the _Sunday Times_ Bestsellers List, becoming the biggest selling adult hardback since records began.
+When Charlie Mackesy published his book _The Boy, the Mole, the Fox and the Horse_ in October 2019, he started a sensation. Inspired by drawings he’d first posted on Instagram, this fable-like tale of kindness and hope became an instant classic. It spent over 100 weeks on the _Sunday Times_ Bestsellers List, becoming the biggest selling adult hardback since records began.
 
 While the book’s unique illustrations hinted it would be ideal to forge an animated film, Mackesy, modestly, couldn’t envisage it. ‘I’d hoped it would,’ he confesses, ‘but you don’t imagine your little story will come to a film, do you? We all have pipedreams, but they don’t necessarily come to reality.’ And yet together with his close friend, Matthew Freud, he set out to make it happen.
 
@@ -15,9 +24,9 @@ Mackesy was intrigued. After beginning his career as a cartoonist on  _The Spect
 
 Rapidly, the team came together, with Speller’s NoneMore Productions joined by J.J. Abrams and Hannah Minghella of Bad Robot Productions. Minghella explains ‘We started talking about the story and the approach to the film right after the world had shut down due to the pandemic. I think for all of us, escaping into Charlie’s world was a source of great comfort. I found myself drawing strength and hope and inspiration from Charlie’s words on a daily basis and our weekly meetings were truly a bright light in an otherwise dark time.’ The film was also set to be executive produced by former Apple Chief Design Officer Jony Ive and acclaimed Academy Award-winning actor Woody Harrelson.
 
-Out of necessity, the team decided to bring an experienced director onto the project to work with Mackesy. Speller called Peter Baynton, who had previously been the animation director on the charming 2019 adaptation of Judith Kerr’s book _The Tiger Who Came To Tea_. ‘They felt that I would be a good person to just literally talk to Charlie about the process, and what that might be,’ says Baynton. In October 2020, Baynton and Speller paid Mackesy a visit. ‘We spent a day together in Charlie’s garden, just talking about all sorts,’ says Baynton. ‘We listened to the audio book, which he’d just finished. And we talked about the characters and what the film could possibly be.’
+Out of necessity, the team decided to bring an experienced director onto the project to work with Mackesy. Speller called Peter Baynton, who had previously been the animation director on the charming 2019 adaptation of Judith Kerr’s book _The Tiger Who Came to Tea_. ‘They felt that I would be a good person to just literally talk to Charlie about the process, and what that might be,’ says Baynton. In October 2020, Baynton and Speller paid Mackesy a visit. ‘We spent a day together in Charlie’s garden, just talking about all sorts,’ says Baynton. ‘We listened to the audio book, which he’d just finished. And we talked about the characters and what the film could possibly be.’
 
-One of the difficulties of adapting _The Boy, The Mole, The Fox and The Horse_ is its lack of a traditional narrative. ‘I would say it’s journey, a story of a journey into a relationship,’ says Mackesy. In it, a young boy befriends a cake-loving mole, a wary fox, and a wise horse. As they progress through a snow-covered landscape, they exchange words of wisdom; maxims like ‘Being kind to yourself is one of the greatest kindnesses.’
+One of the difficulties of adapting _The Boy, the Mole, the Fox and the Horse_ is its lack of a traditional narrative. ‘I would say it’s journey, a story of a journey into a relationship,’ says Mackesy. In it, a young boy befriends a cake-loving mole, a wary fox, and a wise horse. As they progress through a snow-covered landscape, they exchange words of wisdom; maxims like ‘Being kind to yourself is one of the greatest kindnesses.’
 
 It’s touching sentiments like these that turned the book into a phenomenon, particularly at a time when the world was enduring a global pandemic. And yet necessarily, a film needs a more rigid structure. Working with writer Jon Croker, whose credits include the beloved family film _Paddington 2_, Mackesy began to shape the screenplay. ‘I think the film has more of a narrative in it,’ he says. ‘It’s more linear than the book. The film has a definite purpose which is to find the boy a home. He declares at the beginning that he’s lost. In the book he doesn’t. He just hangs out with them.’ Minghella adds: ‘We discussed many different ways to start the film, many different ways to frame it. But any time it started to feel like we were giving too much specificity to the circumstances of the story, the characters or the world, it worked against the magic of the book which allows every reader to see themselves in the Boy or the Mole or the Fox or the Horse.’  
 **Production notes**  
@@ -93,6 +102,21 @@ Sat 10 Dec 14:20
 Tue 13 Dec 18:00  
 **TV Preview: Ghosts Christmas Special + Q&A with cast and crew**  
 Thu 15 Dec 18:20  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4OTYzNDZdfQ==
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
