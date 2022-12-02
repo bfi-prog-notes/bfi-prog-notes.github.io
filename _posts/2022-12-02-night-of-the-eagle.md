@@ -33,95 +33,54 @@ Fritz Leiber, one of the most ingenious of science-fiction authors, is credited 
 <br><br>
 
 **NIGHT OF THE EAGLE**<br>
-
 _Directed by_: Sidney Hayers<br>
-
 ©: Anglo Amalgamated Film Distributors<br>
-
 _Made by_: Independent Artists<br>
-
 _Executive Producers_: Julian Wintle, Leslie Parkyn<br>
-
 _Produced by_: Albert Fennell<br>
-
 _Production Manager_: Geoffrey Haine<br>
-
 _Production Supervisor_: Arthur Alcott<br>
-
 _Assistant Director_: David Bracknell<br>
-
 _Continuity_: Jane Buck<br>
-
-_Screenplay by_: Charles Beaumont,  
-Richard Matheson, George Baxt<br>
-
+_Screenplay by_: Charles Beaumont,  Richard Matheson, George Baxt<br>
 _Based on a story by_: Fritz Leiber<br>
-
 _Director of Photography_: Reginald Wyer<br>
-
 _Camera Operator_: Gerry Turpin<br>
-
 _Film Editor_: Ralph Sheldon<br>
-
 _Art Director_: Jack Shampan<br>
-
 _Set Dresser_: Peter Lamont<br>
-
 _Dress Designer_: Sophie Devine<br>
-
 _Wardrobe_: Maude Churchill<br>
-
 _Make-up_: Basil Newall<br>
-
 _Hair Stylist_: Iris Tilley<br>
-
 _Music Composed by_: William Alwyn<br>
-
 _Conducted by_: Muir Mathieson<br>
-
 _Sound Recordists_: Eric Bayman, Len Shilton<br>
-
 _Sound Editor_: Alastair McIntyre<br>
-
 _Sound Editor_: Ted Mason<br>
-
 _Studio_: Elstree Studios<br>
 
-_Cast:_<br>
+**Cast**<br>
+Peter Wyngarde  _(Professor Norman Taylor)_<br>
+Janet Blair  _(Tansy Taylor)_<br>
+Margaret Johnston  _(Professor Flora Carr)_<br>
+Anthony Nicholls  _(Harvey Sawtelle)_<br>
+Colin Gordon  _(Professor Lindsay Carr)_<br>
+Kathleen Byron  _(Evelyn Sawtelle)_<br>
+Reginald Beckwith  _(Harold Gunnison)_<br>
+Jessica Dunning  _(Hilda Gunnison)_<br>
+Norman Bird  _(doctor)_<br>
+Judith Stott  _(Margaret Abbott)_<br>
+Bill Mitchell  _(Bill Jennings)_<br>
 
-Peter Wyngarde  _(Professor Norman Taylor)_
+_uncredited:_<br>
+George Roubicek  _(laundry man)_<br>
+Frank Singuineau  _(truck driver)_<br>
+Gary Woolf  _(driver’s mate)_<br>
 
-Janet Blair  _(Tansy Taylor)_
-
-Margaret Johnston  _(Professor Flora Carr)_
-
-Anthony Nicholls  _(Harvey Sawtelle)_
-
-Colin Gordon  _(Professor Lindsay Carr)_
-
-Kathleen Byron  _(Evelyn Sawtelle)_
-
-Reginald Beckwith  _(Harold Gunnison)_
-
-Jessica Dunning  _(Hilda Gunnison)_
-
-Norman Bird  _(doctor)_
-
-Judith Stott  _(Margaret Abbott)_
-
-Bill Mitchell  _(Bill Jennings)_
-
-_uncredited:_
-
-George Roubicek  _(laundry man)_
-
-Frank Singuineau  _(truck driver)_
-
-Gary Woolf  _(driver’s mate)_
-
-UK 1962©
-
-84 mins
+UK 1962©<br>
+84 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTIwNDgyMV19
+eyJoaXN0b3J5IjpbLTgxOTcxNzE0MV19
 -->
