@@ -71,74 +71,40 @@ UK 2015
 Total running time: 110 mins
 <br><br>
 
-**FRAMES OF MIND: THE FILMS  
-OF PETER GREENAWAY**<br>
-
+**FRAMES OF MIND: THE FILMS  OF PETER GREENAWAY**<br>
 **Peter Greenaway Shorts Programme 2**<br>
-
 Thu 1 Dec 17:50; Mon 12 Dec 20:50<br>
-
 **Peter Greenaway Documentary Programme**<br>
-
 Fri 2 Dec 20:35; Sun 11 Dec 12:00<br>
-
 **Haunted Generations: The Lingering Legacy of the Public Information Film**<br>
-
 Fri 2 Dec 18:10 (+ intro by author Bob Fischer); Wed 21 Dec 20:30<br>
-
 **Black Pond and Other Short Films**<br>
-
 Sat 3 Dec 12:00; Wed 14 Dec 20:35 (+ intro by filmmaker Jessica Sarah Rinland)<br>
-
 **Rembrandt’s J’Accuse**<br>
-
 Sat 3 Dec 15:20; Mon 19 Dec 20:50<br>
-
 **Nightwatching**<br>
-
 Sat 3 Dec 18:00; Mon 19 Dec 18:00<br>
-
 **The Tulse Luper Suitcases, Part 1: The Moab Story**<br>
-
 Sun 4 Dec 12:10; Sun 18 Dec 12:00<br>
-
-**The Tulse Luper Suitcases, Part 2:  
-Vaux to the Sea**<br>
-
+**The Tulse Luper Suitcases, Part 2:  Vaux to the Sea**<br>
 Sun 4 Dec 15:15; Sun 18 Dec 15:30<br>
-
-**The Tulse Luper Suitcases, Part 3:  
-From Sark to Finish**<br>
-
+**The Tulse Luper Suitcases, Part 3:  From Sark to Finish**<br>
 Sun 4 Dec 18:10; Sun 18 Dec 18:20<br>
-
 **Eisenstein in Guanajuato**<br>
-
 Wed 7 Dec 20:55; Thu 29 Dec 18:15<br>
-
 **Peter Greenaway in Conversation**<br>
-
 Fri 9 Dec 18:20<br>
-
 **The Cook, the Thief, His Wife & Her Lover**<br>
-
 Fri 9 Dec 20:30 (+ intro by Peter Greenaway)<br>
-
 **The Greenaway Alphabet + H Is for House + Q&A with Saskia Boddeke**<br>
-
 Sat 10 Dec 12:00<br>
-
 **Goltzius and the Pelican Company**<br>
-
 Sat 10 Dec 14:15 (+ Q&A with Peter Greenaway); Wed 28 Dec 18:00<br>
-
-**A Zed & Two Noughts**
-
-Sat 10 Dec 17:30 (+ intro by Peter Greenaway)
-
-**The Tulse Luper Suitcases: Antwerp (unconfirmed)**
-
-Sat 10 Dec 20:50; Thu 29 Dec 20:50
+**A Zed & Two Noughts**<br>
+Sat 10 Dec 17:30 (+ intro by Peter Greenaway)<br>
+**The Tulse Luper Suitcases: Antwerp **<br>
+Sat 10 Dec 20:50; Thu 29 Dec 20:50<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODkzMjMyMF19
+eyJoaXN0b3J5IjpbLTE1NTY2MTA2NTNdfQ==
 -->
