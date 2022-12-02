@@ -33,31 +33,31 @@ _Art Director:_ Cedric Gibbons
 _Associate Art Director:_ William A. Horning  
 _Set Decorations:_ Edwin B. Willis  
 _Costumes:_ Adrian  
-_Character Make-ups Created by:_ Jack Dawn
-_Music:_ Harold Arlen
-_Lyricist:_ E.Y. Harburg
-_Associate Conductor:_ George Stoll
-_Orchestration/Vocal Arrangements:_ George Bassman, Murray Cutter, Paul Marquardt, Ken Darby
-_Music Adapter:_ Herbert Stothart
-_Musical Numbers Staged by:_ Bobby Connolly
-_Recording Director:_ Douglas Shearer
+_Character Make-ups Created by:_ Jack Dawn  
+_Music:_ Harold Arlen  
+_Lyricist:_ E.Y. Harburg  
+_Associate Conductor:_ George Stoll  
+_Orchestration/Vocal Arrangements:_ George Bassman, Murray Cutter, Paul Marquardt, Ken Darby  
+_Music Adapter:_ Herbert Stothart  
+_Musical Numbers Staged by:_ Bobby Connolly  
+_Recording Director:_ Douglas Shearer  
 
 **Cast:**  
-Judy Garland _(Dorothy Gale)_
-Frank Morgan _(Professor Marvel/The Wizard)_
-Ray Bolger _(Hunk/The Scarecrow)_
-Bert Lahr _(Zeke/The Cowardly Lion)_
-Jack Haley _(Hickory/The Tin Woodman)_
-Billie Burke _(Glinda, the Good Witch)_
-Margaret Hamilton _(Miss Gulch/The Wicked Witch of the West)_
-Charles Grapewin _(Uncle Henry)_
-Pat Walshe _(Nikko)_
-Clara Blandick _(Aunt Em)_
-Toto _(Toto, the dog)_
-Singer Midgets _(The Munchkins)_
+Judy Garland _(Dorothy Gale)_  
+Frank Morgan _(Professor Marvel/The Wizard)_  
+Ray Bolger _(Hunk/The Scarecrow)_  
+Bert Lahr _(Zeke/The Cowardly Lion)_  
+Jack Haley _(Hickory/The Tin Woodman)_  
+Billie Burke _(Glinda, the Good Witch)_  
+Margaret Hamilton _(Miss Gulch/The Wicked Witch of the West)_  
+Charles Grapewin _(Uncle Henry)_  
+Pat Walshe _(Nikko)_  
+Clara Blandick _(Aunt Em)_  
+Toto _(Toto, the dog)_  
+Singer Midgets _(The Munchkins)_  
 
-USA 1939
-102 mins
+USA 1939  
+102 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTczMTM5XX0=
+eyJoaXN0b3J5IjpbLTEwOTY3MzcxMzNdfQ==
 -->
