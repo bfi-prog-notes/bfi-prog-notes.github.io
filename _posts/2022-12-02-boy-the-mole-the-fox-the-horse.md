@@ -38,22 +38,22 @@ In 2020 Cara teamed up with author and artist Charlie Mackesy to form a new film
 Prior to forming NoneMore, Cara was best known for her work with Damon Albarn and Jamie Hewlett on their animated band Gorillaz with responsibility for the visual side of the band – producing their music videos, awards performances, press, website, games, merchandise and tour visuals across three albums and sold out world tours, as well as the Chinese opera _Monkey: Journey to the West_ with Manchester International Festival, The Chatelet Theatre in Paris and Staatsoper Berlin, composed by Damon and designed by Jamie. In 2013 Cara set up the film and TV unit for Passion Pictures, developing and producing a slate of projects including Robert Valley’s Oscar-nominated and Annie-winning film _Pear Cider and Cigarettes;_ the Emmy-nominated _Marvel’s Rocket & Groot_ and _Marvel’s Ant Man_; _Zima Blue_ and the Emmy-winning _Ice_ from Tim Miller and David Fincher’s critically acclaimed anthology series helmed _Love, Death and Robots_ for Netflix; and _101 Dalmatian Street_ for Disney Channel – a 50 episode series based on the much-loved 1961 classic film.  
 
 **THE BOY, THE MOLE, THE FOX AND THE HORSE**  
-_A_ Matthew Freud _Production_
-_A_ Charlie Mackesy _Film_
-©: Wellhello Productions Ltd
-_Directed by:_ Peter Baynton and Charlie Mackesy
-_Production Companies:_ NoneMore and Bad Robot
-_Presented by:_ BBC, Apple Original Films
-_Executive Producers:_ Jony Ive, Woody Harrelson
-_Produced by:_ Cara Speller, Matthew Freud, Hannah Minghella, JJ Abrams
+_A_ Matthew Freud _Production_  
+_A_ Charlie Mackesy _Film_  
+©: Wellhello Productions Ltd  
+_Directed by:_ Peter Baynton and Charlie Mackesy  
+_Production Companies:_ NoneMore and Bad Robot  
+_Presented by:_ BBC, Apple Original Films  
+_Executive Producers:_ Jony Ive, Woody Harrelson  
+_Produced by:_ Cara Speller, Matthew Freud, Hannah Minghella, JJ Abrams  
 _Based on the book_ The Boy, the Mole, the Fox and the Horse _by:_
-Charlie Mackesy
-_Adapted by:_ Jon Croker and Charlie Mackesy
-_Casting Director:_ Rachel Freck
-_Editor:_ Daniel Budin
-_Art Director:_ Mike McCain
-_Composer:_ Isobel Waller-Bridge
-_Sound Designer and Mixer:_ Adrian Rhodes
+Charlie Mackesy  
+_Adapted by:_ Jon Croker and Charlie Mackesy  
+_Casting Director:_ Rachel Freck  
+_Editor:_ Daniel Budin  
+_Art Director:_ Mike McCain  
+_Composer:_ Isobel Waller-Bridge  
+_Sound Designer and Mixer:_ Adrian Rhodes  
 
 **Voice cast**  
 Jude Coward Nicoll  
@@ -65,6 +65,34 @@ UK 2022©
 32 mins  
 
 Courtesy of NoneMore Productions, Bad Robot Productions, Apple Original Films and BBC  
+
+**IN PERSON & PREVIEWS**  
+**Missing Believed Wiped Session 1: World Preview Lost and Found: Spike Milligan: The Unseen Archive + intro**  
+Sat 3 Dec 11:45  
+**Missing Believed Wiped Session 2: oddities and rarities**  
+Sat 3 Dec 14:20  
+**Preview: Tori and Lokita + Q&A with director-screenwriters Jean-Pierre and Luc Dardenne**  
+Sat 3 Dec 17:45  
+**BFI Fright Night** 
+Sat 3 Dec 21:00 until morning BFI IMAX
+**Mark Kermode Live in 3D at the BFI**
+Mon 5 Dec 18:30
+**Preview: Enys Men + Q&A with director Mark Jenkin**
+Mon 5 Dec 20:45
+**TV Preview: Happy Valley Final Series Episode 1 + Q&A**
+Tue 6 Dec 18:15
+**Preview: Emancipation**
+Wed 7 Dec 18:00
+**Book Launch Event: The Shining (Extended Version) + Q&A with Lee Unkrich**
+Thu 8 Dec 18:40
+**Peter Greenaway in Conversation**
+Fri 9 Dec 18:20
+**The Precious Things: BBC Centenary Special + intro**
+Sat 10 Dec 14:20
+**TV Preview: His Dark Materials + Q&A with Cast & Crew TBC**
+Tue 13 Dec 18:00
+**TV Preview: Ghosts Christmas Special + Q&A with cast and crew**
+Thu 15 Dec 18:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkxNzg1NDVdfQ==
+eyJoaXN0b3J5IjpbLTE1MjA2ODM3NDJdfQ==
 -->
