@@ -90,47 +90,47 @@ _Filmed at:_ De Laurentiis Entertainment Group Studios
 
 **Cast**  
 Kyle MacLachlan _(Jeffrey Beaumont)_  
-Isabella Rossellini _(Dorothy Vallens)_ 
+Isabella Rossellini _(Dorothy Vallens)_  
 Dennis Hopper _(Frank Booth)_
 Laura Dern _(Sandy Williams)_
 Hope Lange _(Mrs Williams)_
 Priscilla Pointer _(Mrs Beaumont)_
 George Dickerson _(Detective Williams)_
-Frances Bay _(Aunt Barbara)_
-Ken Stovitz _(Mike)_
-Brad Dourif _(Raymond)_
-Jack Nance _(Paul)_
-Dean Stockwell _(Ben)_
-Jack Harvey _(Tom Beaumont)_
-J. Michael Hunter _(Hunter)_
-Dick Green _(Don Vallens)_
-Fred Pickler _(yellow man)_
-Philip Markert _(Dr Gynde)_
+Frances Bay _(Aunt Barbara)_  
+Ken Stovitz _(Mike)_  
+Brad Dourif _(Raymond)_  
+Jack Nance _(Paul)_  
+Dean Stockwell _(Ben)_  
+Jack Harvey _(Tom Beaumont)_  
+J. Michael Hunter _(Hunter)_  
+Dick Green _(Don Vallens)_  
+Fred Pickler _(yellow man)_  
+Philip Markert _(Dr Gynde)_  
 Leonard Watkins, Moses Gibson
-_(Double Ed)_
-Selden Smith _(Nurse Cindy)_
-Peter Carew _(coroner)_
-Jon Jon Snipes _(little Donny)_
-Andy Badale _(piano player)_
-Jean-Pierre Viale _(master of ceremonies)_
-Donald Moore _(desk sergeant)_
-A. Michelle Depland, Michell Sasser, Katie Reid _(party girls)_
-Sparky _(the dog)_
+_(Double Ed)_  
+Selden Smith _(Nurse Cindy)_  
+Peter Carew _(coroner)_  
+Jon Jon Snipes _(little Donny)_  
+Andy Badale _(piano player)_  
+Jean-Pierre Viale _(master of ceremonies)_  
+Donald Moore _(desk sergeant)_  
+A. Michelle Depland, Michell Sasser, Katie Reid _(party girls)_  
+Sparky _(the dog)_  
 
-USA 1986
-120 mins
+USA 1986  
+120 mins  
 
-**OVER THE RAINBOW**
-**Mulholland Drive**
-Thu 1 Dec 20:15; Sun 11 Dec 17:45; Mon 19 Dec 20:15; Fri 30 Dec 20:15
-**Blue Velvet**
-Sat 3 Dec 20:40; Fri 9 Dec 20:40; Wed 21 Dec 20:40; Tue 27 Dec 15:00
-**The Wizard of Oz**
-Sun 4 Dec 11:30; Fri 16 Dec 20:30; Sun 18 Dec 15:15
-**The Elephant Man**
-Mon 5 Dec 20:30; Sat 10 Dec 20:30; Thu 15 Dec 20:40; Fri 23 Dec 20:40
-**Wild at Heart**
-Wed 7 Dec 18:10; Thu 22 Dec 20:35; Fri 30 Dec 17:50
+**OVER THE RAINBOW**  
+**Mulholland Drive**  
+Thu 1 Dec 20:15; Sun 11 Dec 17:45; Mon 19 Dec 20:15; Fri 30 Dec 20:15  
+**Blue Velvet**  
+Sat 3 Dec 20:40; Fri 9 Dec 20:40; Wed 21 Dec 20:40; Tue 27 Dec 15:00  
+**The Wizard of Oz**  
+Sun 4 Dec 11:30; Fri 16 Dec 20:30; Sun 18 Dec 15:15  
+**The Elephant Man**  
+Mon 5 Dec 20:30; Sat 10 Dec 20:30; Thu 15 Dec 20:40; Fri 23 Dec 20:40  
+**Wild at Heart**  
+Wed 7 Dec 18:10; Thu 22 Dec 20:35; Fri 30 Dec 17:50  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjIwNDk1NF19
+eyJoaXN0b3J5IjpbLTgwNTUyNDc2MF19
 -->
