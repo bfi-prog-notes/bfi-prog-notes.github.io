@@ -10,20 +10,15 @@ This is a work that bears the unmistakable signature of its creator. There are a
 **Anton Bitel, _Sight and Sound_, April 2010**
 <br><br>
 
-**NIGHTWATCHING**
-
+**NIGHTWATCHING**  
 _Directed by_: Peter Greenaway  
 ©: Nightwatching BV  
-_Production Company_:  
-Nightwatching Productions Inc.  
-_Produced with the participation of_:  
-Wales Creative IP Fund, Polski Instytut Sztuki Filmowej, Gremi Film Production  
+_Production Company_:  Nightwatching Productions Inc.  
+_Produced with the participation of_:  Wales Creative IP Fund, Polski Instytut Sztuki Filmowej, Gremi Film Production  
 _Made with the financial support of_: Netherlands Film Fund, Rotterdam Film Fund, Media Plus  
 _Made with the participation of_: Government of Canada, Canadian Film or Video Production Tax Credit Program, British Columbia Film  
-_Produced with the participation of_:  
-Film Finances Ltd  
-_Made with the support of_:  
-UK Film Council New Cinema Fund  
+_Produced with the participation of_:  Film Finances Ltd  
+_Made with the support of_:  UK Film Council New Cinema Fund  
 _Presented by_: ContentFilm International, Wales Creative IP Fund, UK Film Council, Polski Instytut Sztuki Filmowej, Netherlands Film Fund, Rotterdam Film Fund, Media Plus  
 _In association with_: No Equal Entertainment,  
 Odeon Films, Yeti Films  
@@ -32,8 +27,7 @@ _Executive Producers_: Grzegorz Hajdarowicz,
 Linda James, Paul Trijbits, Jamie Carmichael,  
 Larry Sugar  
 _Produced by_: Kees Kasander  
-_In co-production with_: Piotr Mularuk,  
-Magdalena Napieracz  
+_In co-production with_: Piotr Mularuk,  Magdalena Napieracz  
 _Co-produced by_: Christine Haebler, Carlo Dusi  
 _Line Producer_: Benedicte Hermesse  
 _Line Producer (Wales)_: Eliane Huss  
@@ -44,8 +38,7 @@ _Production Co-ordinator (Wales)_: Phil Claydon
 _Lead Production Accountant_: Melissa Ruffle  
 _Production Accountant (Netherlands)_: Cinecent, Erik Bakker, Mandy Posthuma  
 _Production Accountant (Wales)_: Jenine Baker  
-_Production Accountants (Poland)_:  
-Jolanta Surgiewicz, Malgorzata Dedek  
+_Production Accountants (Poland)_:  Jolanta Surgiewicz, Malgorzata Dedek  
 _Location/Set Manager_: Anna Palka  
 _Location Manager_: Owen Gower  
 _Location Manager/Scout_: Graham Mathews  
@@ -55,8 +48,7 @@ _1st Assistant Director_: Stacy Fish
 _2nd Assistant Director (Poland)_: Weronika Migon  
 _2nd Assistant Director (Wales)_: Nick Murray  
 _Script Supervisor_: Claudia Morgado  
-_Casting Directors_: Tania Polentarutti,  
-Weronika Migon, Corinne Clark, Peter Wooldrige  
+_Casting Directors_: Tania Polentarutti,  Weronika Migon, Corinne Clark, Peter Wooldrige  
 _Written by_: Peter Greenaway  
 _Director of Photography_: Reinier van Brummelen  
 _Camera Operator_: Ruzbeh Babol  
@@ -70,13 +62,10 @@ _Additional Editing_: Elmer Leupen
 _Production Designer_: Maarten Piersma  
 _Art Director_: James Willcock  
 _Set Decorator_: Dory van Noort  
-_Sketcher on Set/Rembrandt Sketches_:  
-Solko Schalm  
+_Sketcher on Set/Rembrandt Sketches_:  Solko Schalm  
 _Construction Manager_: Lidewij Kapteijn  
-_Construction Manager (Poland)_:  
-Andrzej Rychtarczyk  
-_Costume Designers_: Jagna Janicka,  
-Marrit van der Burgt, Jagna Janicka  
+_Construction Manager (Poland)_:  Andrzej Rychtarczyk  
+_Costume Designers_: Jagna Janicka,  Marrit van der Burgt, Jagna Janicka  
 _Hair/Make-up_: Sara Meerman  
 _Make-up Artist_: Janusz Kaleja  
 _Make-up Artist (Poland)_: Marcin Rodak  
@@ -90,8 +79,7 @@ _Re-recording Mixers_: Greg Stewart, Tom Perry
 _Sound Editing_: Tony Gort  
 _Stunt Co-ordinator (Wales)_: Zbigniew Modej
 
-_Cast:_
-
+**Cast**  
 Martin Freeman _(Rembrandt van Rijn)_  
 Emily Holmes _(Hendrickje Stoeffels)_  
 Jodhi May _(Geertje)_  
@@ -123,8 +111,7 @@ Anna Antonowicz _(Catharina)_
 Hugh Thomas _(Jacob Jorisz)_  
 Michael Culkin _(Herman Wormskerck)_  
 Jochum ten Haaf _(Jongkind)_  
-Grazyna Barszczewska_  
-(Banning Cocq’s mother-in-law)_  
+Grazyna Barszczewska _(Banning Cocq’s mother-in-law)_  
 Weronika Migon _(Frau Hasselburg)_  
 Robert J. Page _(actor on stage)_  
 Magdalena Gnatowska_  
@@ -141,5 +128,5 @@ Netherlands-Canada-UK-Poland 2007©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA0NDkzOTBdfQ==
+eyJoaXN0b3J5IjpbLTg3NDA5MTMxOF19
 -->
