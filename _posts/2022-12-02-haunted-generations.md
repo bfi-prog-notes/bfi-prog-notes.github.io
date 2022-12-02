@@ -1,10 +1,9 @@
-<![endif]-->
+
 
 _Introduced by author and Fortean Times columnist Bob Fischer_
 
-Lingering eerily in the imagination of those who grew-up haunted by the warnings of danger and death, public information films occupy a potentially sinister netherworld of what-ifs, combining authoritative voiceover with unnerving, lyrical imagery. A highly inventive director at the Central Office of Information, Greenaway applied his own distinct take to the language. We trace the influence of this filmmaking mode, while also presenting 1970s classics _Lonely Water_ and _After Dark_.
-
-bfi.org.uk
+Lingering eerily in the imagination of those who grew-up haunted by the warnings of danger and death, public information films occupy a potentially sinister netherworld of what-ifs, combining authoritative voiceover with unnerving, lyrical imagery. A highly inventive director at the Central Office of Information, Greenaway applied his own distinct take to the language. We trace the influence of this filmmaking mode, while also presenting 1970s classics _Lonely Water_ and _After Dark_.  
+**bfi.org.uk**
 
 The COI – Central Office of Information – came into being during 1946 as a replacement for the wartime Ministry of Information (MOI). It remained in being until 2012 when it was closed under David Cameron’s government. The COI was tasked to provide a means of producing public information materials such as books, photographs, exhibitions, press releases and films for all departments of government. COI Films Division was to be the interface between a government department who wanted a film made and the film production companies who might make it. More precisely it was to take a message, find the most appropriate creative talent and explore solutions to make the best use of film as a means of communication.
 
@@ -24,45 +23,34 @@ Throughout the 1990s, output fell away. COI was reorganised as Films Division an
 
 The output reflected the diversity of departmental needs. They were fully in tune with the electronic capture and distribution of moving images. Moreover, the diversity of subjects included many of social significance. Subjects that the documentary filmmakers of the 1940s wanted to make and that John Grierson, the COI Controller of Films in1948, called for in vain.
 
-The final six or seven years saw MIAC at the height of its game with huge growth to an output of several hundred productions each year. At the same time it was exploring new ways of reaching audiences – an aspect of the work of COI rarely mentioned but crucial to its work of using film in the public service.
-
-John Hall (Director of the COI’s Film Division from 1982 to 1989). Booklet introduction to  
-_The Best of COI: Five Decades of Public Information Films_ (BFI Blu-ray, 2020)
-
-<![endif]-->
+The final six or seven years saw MIAC at the height of its game with huge growth to an output of several hundred productions each year. At the same time it was exploring new ways of reaching audiences – an aspect of the work of COI rarely mentioned but crucial to its work of using film in the public service.  
+**John Hall (Director of the COI’s Film Division from 1982 to 1989). Booklet introduction to  
+_The Best of COI: Five Decades of Public Information Films_ (BFI Blu-ray, 2020)**
+<br><br>
 
 **THE SEA IN THEIR BLOOD**  
 _Director_: Peter Greenaway  
-UK 1983
-
+UK 1983  
 27 mins
 
 **ACT OF GOD: SOME LIGHTNING EXPERIENCES**  
-_Director_: Peter Greenaway
-
-UK 1981
-
+_Director_: Peter Greenaway  
+UK 1981  
 27 mins
 
 **LONELY WATER**  
-_Director:_ Jeff Grant
-
-UK 1973
-
+_Director:_ Jeff Grant  
+UK 1973  
 2 mins
 
 **AFTER DARK**  
-_Director:_ Mike Dodds
-
-UK 1979
-
+_Director:_ Mike Dodds  
+UK 1979  
 13 mins
 
 **JAUNT**  
-_Director:_ Andrew Kötting
-
-UK 1995
-
+_Director:_ Andrew Kötting  
+UK 1995  
 5 mins
 
 **DIVINER**  
@@ -160,5 +148,5 @@ Sat 10 Dec 17:30 (+ intro by Peter Greenaway)
 
 Sat 10 Dec 20:50; Thu 29 Dec 20:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE3NjU3NDRdfQ==
+eyJoaXN0b3J5IjpbLTE3NjY0MTg3MDJdfQ==
 -->
