@@ -28,69 +28,69 @@ I like the idea that everything has a surface which hides much more underneath. 
 When you make a film like _Blue Velvet_, there’s a danger that Dorothy becomes every woman and Sandy becomes every girl and the film becomes a statement on America. That’s not what I meant. _Blue_ _Velvet_’s a film about a small town called Lumberton and this particular group of characters. Jeffrey is not me, but Kyle MacLachlan says he somewhat fashioned him on me. I feel very good about Jeffrey. He’s a person who is curious and has got some dark areas inside him. But he has experiences, and he learns from them.  
 **David Lynch interviewed by Jane Root, _Monthly Film Bulletin_, April 1987**  
 
-**BLUE VELVET**
-_Directed by:_ David Lynch
-_©:_ De Laurentiis Entertainment Group, Inc.
-_Presented by:_ De Laurentiis Entertainment Group
-_Executive Producer:_ Richard Roth
-_Produced by:_ Fred Caruso
-_Production Manager:_ Fred Caruso
-_Production Supervisor:_ Gail M. Kearns
-_Production Office Co-ordinator:_ Kathryn Colbert
-_Location Co-ordinator:_ Morris Atkins
-_Key Production Assistant:_ John Wildermuth
-_1st Assistant Director:_ Ellen Rauch
-_2nd Assistant Director:_ Ian Woolf
-_Script Supervisor:_ Rina Sternfeld
-_Casting by:_ Johanna Ray, Pat Golden
-_Casting Associate:_ Pamela Rack
-_Extras/Additional Casting:_ Marc Fincannon and Associates
-_Screenplay by:_ David Lynch
-_Director of Photography:_ Frederick Elmes
-_1st Assistant Camera:_ Lex Dupont
-_Camera Assistant:_ David Rudd
-_Gaffer:_ Michael Katz
-_Key Grip:_ Donne Daniels
-_Still Photographer:_ Umberto Montiroli
-_Special Effects:_ Greg Hull, George Hill
-_Edited by:_ Duwayne Dunham
-_Assistant Editors:_ Jonathan Shaw, Mary Sweeney
-_Production Designer:_ Patricia Norris
-_Art Department Assistant:_ Catherine David
+**BLUE VELVET**  
+_Directed by:_ David Lynch  
+_©:_ De Laurentiis Entertainment Group, Inc.  
+_Presented by:_ De Laurentiis Entertainment Group  
+_Executive Producer:_ Richard Roth  
+_Produced by:_ Fred Caruso  
+_Production Manager:_ Fred Caruso  
+_Production Supervisor:_ Gail M. Kearns  
+_Production Office Co-ordinator:_ Kathryn Colbert  
+_Location Co-ordinator:_ Morris Atkins  
+_Key Production Assistant:_ John Wildermuth  
+_1st Assistant Director:_ Ellen Rauch  
+_2nd Assistant Director:_ Ian Woolf  
+_Script Supervisor:_ Rina Sternfeld  
+_Casting by:_ Johanna Ray, Pat Golden  
+_Casting Associate:_ Pamela Rack  
+_Extras/Additional Casting:_ Marc Fincannon and Associates  
+_Screenplay by:_ David Lynch  
+_Director of Photography:_ Frederick Elmes  
+_1st Assistant Camera:_ Lex Dupont  
+_Camera Assistant:_ David Rudd  
+_Gaffer:_ Michael Katz  
+_Key Grip:_ Donne Daniels  
+_Still Photographer:_ Umberto Montiroli  
+_Special Effects:_ Greg Hull, George Hill  
+_Edited by:_ Duwayne Dunham  
+_Assistant Editors:_ Jonathan Shaw, Mary Sweeney  
+_Production Designer:_ Patricia Norris  
+_Art Department Assistant:_ Catherine David  
 _Set Dressers:_ Michael Anderson, Vernon Harrell, Loren McNamara,
-Paul Sebastian, Arron Waitz, Doug White
-_Draughtsperson:_ Dawn Serody
-_Chief Scenic Artist:_ Robert Testerman
-_Scenic Artist:_ Tanya Lowe
-_Property Master:_ Tantar Leviseur
-_Construction Co-ordinator:_ Les Pendleton
-_Costume Shop Supervisor:_ Gloria Laughride
-_Set Wardrobe:_ Henry Earl Lewis
-_Make-up Supervisor:_ Jeff Goodwin
-_Special Make-up Effects:_ Dean Jones
-_Hair Stylist:_ Barbara Page
-_Titles/Opticals:_ Van Der Veer Photo Company
-_Cameras/Lenses by:_ Joe Dunton Camera America, Inc.
-_Negative Cutter:_ Donah Bassett
-_Colour by:_ Technicolor
-_Music Composed and Conducted by:_ Angelo Badalamenti
-_Music Score Performed by:_ Film Symphony Orchestra of Prague
-_Music Editor:_ Mark Adler
-_Music Re-recording Mixer:_ Todd Boekelheide
-_Sound Designer:_ Alan Splet
-_Sound Mixer:_ Ann Kroeber
-_Boom Operator:_ Patrick Moriarty
-_Re-recording Mixers:_ Mark Berger, David Parker
-_Sound Editors:_ Rob Fruchtman, Pat Jackson
-_Dialogue Editors:_ Vivien Gilliam, John Nutt, Michael Silvers
-_Sound Effects Editor:_ Richard Hyams
-_Foley Artist:_ Dennie Thorpe
-_Stunt Co-ordinator:_ Richard Langdon
-_Filmed at:_ De Laurentiis Entertainment Group Studios
+Paul Sebastian, Arron Waitz, Doug White  
+_Draughtsperson:_ Dawn Serody  
+_Chief Scenic Artist:_ Robert Testerman  
+_Scenic Artist:_ Tanya Lowe  
+_Property Master:_ Tantar Leviseur  
+_Construction Co-ordinator:_ Les Pendleton  
+_Costume Shop Supervisor:_ Gloria Laughride  
+_Set Wardrobe:_ Henry Earl Lewis  
+_Make-up Supervisor:_ Jeff Goodwin  
+_Special Make-up Effects:_ Dean Jones  
+_Hair Stylist:_ Barbara Page  
+_Titles/Opticals:_ Van Der Veer Photo Company  
+_Cameras/Lenses by:_ Joe Dunton Camera America, Inc.  
+_Negative Cutter:_ Donah Bassett  
+_Colour by:_ Technicolor  
+_Music Composed and Conducted by:_ Angelo Badalamenti  
+_Music Score Performed by:_ Film Symphony Orchestra of Prague  
+_Music Editor:_ Mark Adler  
+_Music Re-recording Mixer:_ Todd Boekelheide  
+_Sound Designer:_ Alan Splet  
+_Sound Mixer:_ Ann Kroeber  
+_Boom Operator:_ Patrick Moriarty  
+_Re-recording Mixers:_ Mark Berger, David Parker  
+_Sound Editors:_ Rob Fruchtman, Pat Jackson  
+_Dialogue Editors:_ Vivien Gilliam, John Nutt, Michael Silvers  
+_Sound Effects Editor:_ Richard Hyams  
+_Foley Artist:_ Dennie Thorpe  
+_Stunt Co-ordinator:_ Richard Langdon  
+_Filmed at:_ De Laurentiis Entertainment Group Studios  
 
-**Cast**
-Kyle MacLachlan _(Jeffrey Beaumont)_
-Isabella Rossellini _(Dorothy Vallens)_
+**Cast**  
+Kyle MacLachlan _(Jeffrey Beaumont)_  
+Isabella Rossellini _(Dorothy Vallens)_ 
 Dennis Hopper _(Frank Booth)_
 Laura Dern _(Sandy Williams)_
 Hope Lange _(Mrs Williams)_
@@ -132,5 +132,5 @@ Mon 5 Dec 20:30; Sat 10 Dec 20:30; Thu 15 Dec 20:40; Fri 23 Dec 20:40
 **Wild at Heart**
 Wed 7 Dec 18:10; Thu 22 Dec 20:35; Fri 30 Dec 17:50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk1MjI3NzZdfQ==
+eyJoaXN0b3J5IjpbMTE1MjIwNDk1NF19
 -->
