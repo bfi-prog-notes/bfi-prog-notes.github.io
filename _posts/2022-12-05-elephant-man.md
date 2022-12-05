@@ -30,128 +30,128 @@ The film delves, too, into the question of how the Victorians dealt with the una
 
 Merrick’s singularity, however, was that he was something more: the extent of his monstrosity placed him beyond the classifiable pale; he called into question the stability of even this new, post-Darwinian world. In Lynch’s Victorian society, John Merrick is – for all his almost palpable substance (and Christopher Tucker and Wally Schneiderman’s makeup design and application are both real and ordinary) – a troubling, unknowable wraith. His longings, for friendship and acceptance, and his sentimental, childlike gratitude, for a silver walking-stick, a case of ivory toilet articles, for having a beautiful mother who might still be proud of him (knowing he has friends like the settled Mr and Mrs Treves), disturbingly echo the spirit of the age. His optimism is both pathetic and demonstrably unfounded.
 
-In a wider sense, perhaps, his life is a simple testimony to the power of theatre (or film) to metamorphose the mundane or the grotesque into something wholly mysterious. The doctors, awestruck by the sight of Merrick the ‘specimen’, are moved to hide their confusion by applauding Treves’ ‘showmanship’; and, in a framing sequence, the audience at the surreal pantomime – _Puss-in-Boots_ played, it appears, among the stars – which Merrick attends with his almost patroness Princess Alexandra are moved to applaud their own magnanimity in ‘accepting’ Merrick, for a moment, into their own closed society. Both audiences are curiously uncurious: creatures of reflex rather than reflection. The dying Merrick hears his mother’s voice – ‘Nothing ever dies’ – and the filmmaker might be adding ‘Particularly the fear and loathing of “monsters” whose appearance periodically compels us to question our normality.’
-**John Pym, _Sight and Sound_, Winter 1980**
+In a wider sense, perhaps, his life is a simple testimony to the power of theatre (or film) to metamorphose the mundane or the grotesque into something wholly mysterious. The doctors, awestruck by the sight of Merrick the ‘specimen’, are moved to hide their confusion by applauding Treves’ ‘showmanship’; and, in a framing sequence, the audience at the surreal pantomime – _Puss-in-Boots_ played, it appears, among the stars – which Merrick attends with his almost patroness Princess Alexandra are moved to applaud their own magnanimity in ‘accepting’ Merrick, for a moment, into their own closed society. Both audiences are curiously uncurious: creatures of reflex rather than reflection. The dying Merrick hears his mother’s voice – ‘Nothing ever dies’ – and the filmmaker might be adding ‘Particularly the fear and loathing of “monsters” whose appearance periodically compels us to question our normality.'  
+**John Pym, _Sight and Sound_, Winter 1980**  
 
-**THE ELEPHANT MAN**
-_Director:_ David Lynch
-_Production Company:_ Brooksfilms
-_Executive Producer:_ Stuart Cornfeld
-_Producer:_ Jonathan Sanger
-_In Charge of Production:_ Terence A. Clegg
-_Production Accountant:_ John Trehy
-_Location Manager:_ Graham Ford
-_Production Secretary:_ Loretta Ordewer
-_Assistant Director:_ Anthony Waye
-_2nd Assistant Director:_ Gerry Gavigan
-_Continuity:_ Ceri Evans
-_Casting:_ Maggie Cartier
+**THE ELEPHANT MAN**  
+_Director:_ David Lynch  
+_Production Company:_ Brooksfilms  
+_Executive Producer:_ Stuart Cornfeld  
+_Producer:_ Jonathan Sanger  
+_In Charge of Production:_ Terence A. Clegg  
+_Production Accountant:_ John Trehy  
+_Location Manager:_ Graham Ford  
+_Production Secretary:_ Loretta Ordewer  
+_Assistant Director:_ Anthony Waye  
+_2nd Assistant Director:_ Gerry Gavigan  
+_Continuity:_ Ceri Evans  
+_Casting:_ Maggie Cartier    
 _Screenplay:_ Christopher De Vore, Eric Bergren, David Lynch
-_Based on the book_ The Elephant Man and Other Reminiscences _by:_ Sir Frederick Treves
-_Based in part on the book_ The Elephant Man: A Study in Human Dignity _by:_ Ashley Montagu
-_Director of Photography:_ Freddie Francis
-_Camera Operator:_ Jeremy Dunkley
-_Gaffer:_ Roy Larner
-_Stills Photography:_ Frank Connor
-_Special Effects:_ Graham Longhurst
-_Editor:_ Anne V. Coates
-_Assistant Editor:_ Patrick Moore
-_Production Designer:_ Stuart Craig
-_Art Director:_ Bob Cartwright
-_Set Decorator:_ Hugh Scaife
-_Prop Master:_ Terry Wells
-_Costume Designer:_ Patricia Norris
-_Wardrobe Supervisor:_ Tiny Nicholls
-_Make-up Supervisor:_ Wally Schneiderman
-_Elephant Man Make-up Designed/ Created by:_ Christopher Tucker
-_Elephant Man Make-up Applied by:_ Wally Schneiderman
-_Hairdressers:_ Stephanie Kaye, Paula Gillespie
-_Music/Music Conductor:_ John Morris
-_Music Performed by:_ The National Philharmonic Orchestra
-_Orchestrations:_ Jack Hayes
-_Sound Design:_ Alan Splet, David Lynch
-_Sound Mixer:_ Robin Gregory
-_Dolby Engineer:_ John Iles
-_Dubbing Mixer:_ Doug Turner
-_Sound Editor:_ Peter Horrocks
-_Special Sound Effects:_ Alan Splet
-_Research:_ Randy Auerbach
-_Studios:_ Shepperton Studios, Lee Studios *
+_Based on the book_ The Elephant Man and Other Reminiscences _by:_ Sir Frederick Treves  
+_Based in part on the book_ The Elephant Man: A Study in Human Dignity _by:_ Ashley Montagu  
+_Director of Photography:_ Freddie Francis  
+_Camera Operator:_ Jeremy Dunkley  
+_Gaffer:_ Roy Larner  
+_Stills Photography:_ Frank Connor  
+_Special Effects:_ Graham Longhurst  
+_Editor:_ Anne V. Coates  
+_Assistant Editor:_ Patrick Moore  
+_Production Designer:_ Stuart Craig  
+_Art Director:_ Bob Cartwright  
+_Set Decorator:_ Hugh Scaife  
+_Prop Master:_ Terry Wells  
+_Costume Designer:_ Patricia Norris  
+_Wardrobe Supervisor:_ Tiny Nicholls  
+_Make-up Supervisor:_ Wally Schneiderman  
+_Elephant Man Make-up Designed/ Created by:_ Christopher Tucker  
+_Elephant Man Make-up Applied by:_ Wally Schneiderman  
+_Hairdressers:_ Stephanie Kaye, Paula Gillespie  
+_Music/Music Conductor:_ John Morris  
+_Music Performed by:_ The National Philharmonic Orchestra  
+_Orchestrations:_ Jack Hayes  
+_Sound Design:_ Alan Splet, David Lynch  
+_Sound Mixer:_ Robin Gregory  
+_Dolby Engineer:_ John Iles  
+_Dubbing Mixer:_ Doug Turner  
+_Sound Editor:_ Peter Horrocks  
+_Special Sound Effects:_ Alan Splet  
+_Research:_ Randy Auerbach  
+_Studios:_ Shepperton Studios, Lee Studios *  
 
-**Cast**
-Anthony Hopkins _(Frederick Treves)_
-John Hurt _(John Merrick)_
-Anne Bancroft _(Mrs Madge Kendal)_
-John Gielgud _(Carr Gomm)_
-Wendy Hiller _(Mothershead)_
-Freddie Jones _(Bytes)_
-Michael Elphick _(night porter)_
-Hannah Gordon _(Mrs Treves)_
-Helen Ryan _(Princess Alex)_
-John Standing _(Fox)_
-Dexter Fletcher _(Bytes’s boy)_
-Lesley Dunlop _(Nora)_
-Phoebe Nicholls _(Merrick’s mother)_
-Pat Gorman _(fairground bobby)_
-Claire Davenport _(fat lady)_
-Orla Pederson _(skeleton woman)_
-Patsy Smart _(distraught woman)_
-Frederick Treves _(alderman)_
-Stromboli _(fire eater)_
-Richard Hunter _(Hodges)_
-James Cormack _(Pierce)_
-Robert Bush _(messenger)_
-Roy Evans _(cabman)_
-Joan Rhodes _(cook)_
-Nula Conwell _(Kathleen, the nurse)_
-Tony London _(young porter)_
-Alfie Curtis _(milkman)_
-Bernadette Milnes _(1st fighting woman)_
-Brenda Kempner _(2nd fighting woman)_
-Carol Harrison _(tart)_
-Hugh Manning _(broadneck)_
-Dennis Burgess _(1st committee man)_
-Fanny Carby _(Mrs Kendal’s dresser)_
-Morgan Sheppard _(man in pub)_
-Kathleen Byron _(Lady Waddington)_
-Gerald Case _(Lord Waddington)_
-David Ryall _(man with whores)_
-Deirdre Costello _(1st whore)_
-Pauline Quirke _(2nd whore)_
-Kenny Baker _(plumed dwarf)_
-Chris Greener _(giant)_
-Marcus Powell, Gilda Cohen _(midgets)_
-Lisa Scoble, Teri Scoble _(Siamese twins)_
-Eiji Kusuhara _(Japanese bleeder)_
-Robert Day _(Little Jim)_
-Patricia Hodge _(screaming mum)_
-Tommy Wright _(1st bobby)_
-Peter Davidson _(2nd bobby)_
-John Rapley _(king in panto)_
-Hugh Spight _(puss in panto)_
-Teresa Codling _(princess in panto)_
-Marion Betzold _(principal boy)_
-Caroline Haigh, Florenzio Morgado _(trees)_
-Victor Kravchenko _(lion/coachman)_
-Beryl Hicks _(fairy)_
-Michele Amas, Lucie Alford, Penny Wright, Janie Kells _(horses)_
-Lydia Lisle _(Merrick’s mother)_
+**Cast**  
+Anthony Hopkins _(Frederick Treves)_  
+John Hurt _(John Merrick)_  
+Anne Bancroft _(Mrs Madge Kendal)_  
+John Gielgud _(Carr Gomm)_  
+Wendy Hiller _(Mothershead)_  
+Freddie Jones _(Bytes)_  
+Michael Elphick _(night porter)_  
+Hannah Gordon _(Mrs Treves)_  
+Helen Ryan _(Princess Alex)_  
+John Standing _(Fox)_  
+Dexter Fletcher _(Bytes’s boy)_  
+Lesley Dunlop _(Nora)_  
+Phoebe Nicholls _(Merrick’s mother)_  
+Pat Gorman _(fairground bobby)_  
+Claire Davenport _(fat lady)_  
+Orla Pederson _(skeleton woman)_  
+Patsy Smart _(distraught woman)_  
+Frederick Treves _(alderman)_  
+Stromboli _(fire eater)_  
+Richard Hunter _(Hodges)_  
+James Cormack _(Pierce)_  
+Robert Bush _(messenger)_  
+Roy Evans _(cabman)_  
+Joan Rhodes _(cook)_  
+Nula Conwell _(Kathleen, the nurse)_  
+Tony London _(young porter)_  
+Alfie Curtis _(milkman)_  
+Bernadette Milnes _(1st fighting woman)_  
+Brenda Kempner _(2nd fighting woman)_  
+Carol Harrison _(tart)_  
+Hugh Manning _(broadneck)_  
+Dennis Burgess _(1st committee man)_  
+Fanny Carby _(Mrs Kendal’s dresser)_  
+Morgan Sheppard _(man in pub)_  
+Kathleen Byron _(Lady Waddington)_  
+Gerald Case _(Lord Waddington)_  
+David Ryall _(man with whores)_  
+Deirdre Costello _(1st whore)_  
+Pauline Quirke _(2nd whore)_  
+Kenny Baker _(plumed dwarf)_  
+Chris Greener _(giant)_  
+Marcus Powell, Gilda Cohen _(midgets)_  
+Lisa Scoble, Teri Scoble _(Siamese twins)_  
+Eiji Kusuhara _(Japanese bleeder)_  
+Robert Day _(Little Jim)_  
+Patricia Hodge _(screaming mum)_  
+Tommy Wright _(1st bobby)_  
+Peter Davidson _(2nd bobby)_  
+John Rapley _(king in panto)_  
+Hugh Spight _(puss in panto)_  
+Teresa Codling _(princess in panto)_  
+Marion Betzold _(principal boy)_  
+Caroline Haigh, Florenzio Morgado _(trees)_  
+Victor Kravchenko _(lion/coachman)_  
+Beryl Hicks _(fairy)_  
+Michele Amas, Lucie Alford, Penny Wright, Janie Kells _(horses)_  
+Lydia Lisle _(Merrick’s mother)_  
 
-USA 1980
-123 mins
-* Uncredited
+USA 1980  
+123 mins  
+\* Uncredited  
 
-**OVER THE RAINBOW**
-**Mulholland Drive**
-Thu 1 Dec 20:15; Sun 11 Dec 17:45; Mon 19 Dec 20:15; Fri 30 Dec 20:15
-**Blue Velvet**
-Sat 3 Dec 20:40; Fri 9 Dec 20:40; Wed 21 Dec 20:40; Tue 27 Dec 15:00
-**The Wizard of Oz**
-Sun 4 Dec 11:30; Fri 16 Dec 20:30; Sun 18 Dec 15:15
-**The Elephant Man**
-Mon 5 Dec 20:30; Sat 10 Dec 20:30; Thu 15 Dec 20:40; Fri 23 Dec 20:40
-**Wild at Heart**
-Wed 7 Dec 18:10; Thu 22 Dec 20:35; Fri 30 Dec 17:50
+**OVER THE RAINBOW**  
+**Mulholland Drive**  
+Thu 1 Dec 20:15; Sun 11 Dec 17:45; Mon 19 Dec 20:15; Fri 30 Dec 20:15  
+**Blue Velvet**  
+Sat 3 Dec 20:40; Fri 9 Dec 20:40; Wed 21 Dec 20:40; Tue 27 Dec 15:00  
+**The Wizard of Oz**  
+Sun 4 Dec 11:30; Fri 16 Dec 20:30; Sun 18 Dec 15:15  
+**The Elephant Man**  
+Mon 5 Dec 20:30; Sat 10 Dec 20:30; Thu 15 Dec 20:40; Fri 23 Dec 20:40  
+**Wild at Heart**  
+Wed 7 Dec 18:10; Thu 22 Dec 20:35; Fri 30 Dec 17:50  
 <br>
 
 **BFI SOUTHBANK**  
