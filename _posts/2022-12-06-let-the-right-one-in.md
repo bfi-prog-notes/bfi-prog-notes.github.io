@@ -26,28 +26,16 @@ It is this paradoxical ‘universal outsider’ appeal which ultimately defines 
 **Mark Kermode, _Sight and Sound_, May 2009**
 <br><br>
 
-**LET THE RIGHT ONE IN  
-(LÅT DEN RÄTTE KOMMA IN)**<br>
-
+**LET THE RIGHT ONE IN  (LÅT DEN RÄTTE KOMMA IN)**<br>
 _Director:_ Tomas Alfredson<br>
-
 ©: EFTI<br>
-
 _A co-production with:_ Sveriges Television, Filmpool Nord<br>
-
 _Production Companies:_ Sandrew Metronome, WAG, Fido Film, Chimney Pot, Ljudligan<br>
-
 _With the support of:_ Svenska Filminstitutet, Nordisk Film- och TV-Fond<br>
-
 _In collaboration with:_ Canal+<br>
-
 _Producers:_ John Nordling, Carl Molinder<br>
-
 _Line Producer:_ Frida Asp<br>
-
-_For Nordisk Film- & TV-Fond:_  
-Svend Abrahamsen<br>
-
+_For Nordisk Film- & TV-Fond:_  Svend Abrahamsen<br>
 _Location Managers:_ Fredrik Sidevärn,
 
 Sofia Lindberg<br>
@@ -93,107 +81,108 @@ _Concept Artist:_ Josef Norén<br>
 
 _Costumes:_ Maria Strid<br>
 
-_Make-up:_ Maria Strid
+_Make-up:_ Maria Strid<br>
 
-_Music:_ Johan Söderqvist
+_Music:_ Johan Söderqvist<br>
 
 _Orchestra:_  
-Slovak National Symphony Orchestra
+Slovak National Symphony Orchestra<br>
 
-_Guitar:_ Mats Bergström
+_Guitar:_ Mats Bergström<br>
 
-_Electric Guitar:_ Mattias Torell
+_Electric Guitar:_ Mattias Torell<br>
 
-_Bass Guitar:_ Uno Helmersson
+_Bass Guitar:_ Uno Helmersson<br>
 
-_Waterphone/Piano:_ Johan Söderqvist
+_Waterphone/Piano:_ Johan Söderqvist<br>
 
-_Drums:_ Erik Nilsson
+_Drums:_ Erik Nilsson<br>
 
-_Orchestra Leader:_ Hans Ek
+_Orchestra Leader:_ Hans Ek<br>
 
-_Conductor:_ Hans Ek
+_Conductor:_ Hans Ek<br>
 
-_Sound Designer/Producer:_ Per Sundström
+_Sound Designer/Producer:_ Per Sundström<br>
 
 _Sound Designers:_ Patrik Strömdahl,  
-Jonas Jansson
+Jonas Jansson<br>
 
 _Sound Recordists:_ Christoffer Demby,
 
-Maths Källqvist, Mikael Brodin
+Maths Källqvist, Mikael Brodin<br>
 
 _Re-recording Mixers:_ Per Sundström,
 
-Petter Fladeby
+Petter Fladeby<br>
 
-_Stunt Co-ordinator:_ Kimmo Rajala
+_Stunt Co-ordinator:_ Kimmo Rajala<br>
 
-_Animal Trainers:_ Filmdjur, Annelie Arrefelt
+_Animal Trainers:_ Filmdjur, Annelie Arrefelt<br>
 
-_Cast:_
+_Cast:_<br>
 
-Kåre Hedebrant _(Oskar)_
+Kåre Hedebrant _(Oskar)_<br>
 
-Lina Leandersson _(Eli)_
+Lina Leandersson _(Eli)_<br>
 
-Per Ragnar _(Håkan)_
+Per Ragnar _(Håkan)_<br>
 
-Henrik Dahl _(Erik)_
+Henrik Dahl _(Erik)_<br>
 
-Karin Bergquist _(Yvonne)_
+Karin Bergquist _(Yvonne)_<br>
 
-Peter Carlberg _(Lacke)_
+Peter Carlberg _(Lacke)_<br>
 
-Ika Nord _(Virginia)_
+Ika Nord _(Virginia)_<br>
 
-Mikael Rahm _(Jocke)_
+Mikael Rahm _(Jocke)_<br>
 
-Karl-Robert Lindgren _(Gösta)_
+Karl-Robert Lindgren _(Gösta)_<br>
 
-Anders T. Peedu _(Morgan)_
+Anders T. Peedu _(Morgan)_<br>
 
-Pale Olofsson _(Larry)_
+Pale Olofsson _(Larry)_<br>
 
-Cayetano Ruiz _(Schoolmaster Avila)_
+Cayetano Ruiz _(Schoolmaster Avila)_<br>
 
-Patrick Rydmark _(Conny)_
+Patrick Rydmark _(Conny)_<br>
 
-Johan Sömnes _(Andreas)_
+Johan Sömnes _(Andreas)_<br>
 
-Mikael Erhardsson _(Martin)_
+Mikael Erhardsson _(Martin)_<br>
 
-Rasmus Luthander _(Jimmy)_
+Rasmus Luthander _(Jimmy)_<br>
 
-Sören Källstigen _(Janne, Erik’s friend)_
+Sören Källstigen _(Janne, Erik’s friend)_<br>
 
-Malin Cederbladh _(hospital receptionist)_
+Malin Cederbladh _(hospital receptionist)_<br>
 
-Bernt Östman _(Virginia’s nurse)_
+Bernt Östman _(Virginia’s nurse)_<br>
 
-Kajsa Linderholm _(teacher)_
+Kajsa Linderholm _(teacher)_<br>
 
-Adam Stone _(policeman in classroom)_
+Adam Stone _(policeman in classroom)_<br>
 
-Ingemar Raukola _(messenger)_
+Ingemar Raukola _(messenger)_<br>
 
-Kent Rishaug _(kiosk owner)_
+Kent Rishaug _(kiosk owner)_<br>
 
-Linus Hanner _(boy who dies)_
+Linus Hanner _(boy who dies)_<br>
 
-Tom Ljungman _(young man 1)_
+Tom Ljungman _(young man 1)_<br>
 
-Fredrik Ramel _(young man 2)_
+Fredrik Ramel _(young man 2)_<br>
 
-Christoffer Bohlin _(young man 3)_
+Christoffer Bohlin _(young man 3)_<br>
 
-Julia Nilsson _(singer 1)_
+Julia Nilsson _(singer 1)_<br>
 
-Elin Almén _(singer 2)_
+Elin Almén _(singer 2)_<br>
 
-Sweden/Norway/France 2008©
+Sweden/Norway/France 2008©<br>
 
-114 mins
+114 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDY3MDc1N119
+eyJoaXN0b3J5IjpbLTE2NjczMDU5ODNdfQ==
 -->
