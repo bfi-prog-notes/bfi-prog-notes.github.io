@@ -23,75 +23,40 @@ Mrs Swift in the 2013 film release, _The Selfish Giant_, which earned her a Brit
 **Jessica Taylor** is the Producer of the final series of _Happy Valley_ in her debut TV producing role. Her involvement with _Happy Valley_ began on series 1 as the hair and makeup designer. Her credits in this role include _Cracker_, _Last Tango in Halifax_, _The Village_, _Life on Mars_ and _Cutting It_, for which she won the RTS Award for Best Makeup Design. She is currently producing an 8 part Harlan Coben series for Netflix.
 
 **HAPPY VALLEY** (Final Series)
-
 _Written and Created by:_ Sally Wainwright
-
 _Directed by:_ Patrick Harkins, Sally Wainwright
-
 _©:_ Lookout Point Ltd
-
 _Original Series Developed and Produced by:_ Red Production
-
 _Production Company:_ Lookout Point
-
 _In co-production with:_ AMC/AMC+
-
 _For:_ BBC
-
 _Produced in association with:_ BBC Studios Distribution
-
 _Executive Producers for BBC:_ Rebecca Ferguson, Ben Irving
-
 _Executive Producers:_ Will Johnston, Faith Penhale, Sarah Lancashire, Sally Wainwright
-
 _Produced by:_ Jessica Taylor
-
 _Line Producers:_ Lisa Corkill, Andy Kitching
-
 _Assistant Producer:_ Emma Blauciak
-
 _Head of Production:_ Louise Mutter
-
 _Casting:_ Beverly Keogh
-
 _Script Supervisor:_ Angie Pontefract
-
 _1st Assistant Director:_ Morris Milne
-
 _Location Manager:_ Luc Webster
-
 _Directors of Photography:_ Dale Elena McCready, Andrew McDonnell
-
 _Camera & Steadicam Operator:_ Chris Hutchinson
-
 _Editor:_ Richard Cox
-
 _Post-production Producer:_ Kate McKerrell
-
 _Post-production Supervisor:_ Alistair Hopkins
-
 _Production Designers:_ Steven Grainger, Pawlo Wintoniuk
-
 _Supervising Art Director:_ Lawrence Hearn
-
 _Art Director:_ Jordan McHale
-
 _Prop Master:_ Al Brauders
-
 _SFX:_ Chris Fowles
-
 _VFX:_ The Flying Colour Company
-
 _Title Design:_ Nanook Studio
-
 _Costumer Designer:_ Ian W. Holmes
-
 _Costume Supervisor:_ Samantha Green
-
 _Hair and Make-up Designer:_ Nadia El-Saffar
-
 _Hair and Make-up Supervisor:_ Rachael Bryant
-
 _Music by:_ Ben Foster
 _Production Sound Mixer:_ Jonathan Wyatt
 _Dialogue Editor:_ Alex Sawyer
@@ -116,5 +81,5 @@ UK 2022
 60 mins
 Episode 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTk2ODc1OSwxMzU5NzEyOV19
+eyJoaXN0b3J5IjpbLTIwOTMxMTM4NTUsMTM1OTcxMjldfQ==
 -->
