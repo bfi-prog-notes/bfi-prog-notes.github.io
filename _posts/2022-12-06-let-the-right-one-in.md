@@ -36,153 +36,78 @@ _In collaboration with:_ Canal+<br>
 _Producers:_ John Nordling, Carl Molinder<br>
 _Line Producer:_ Frida Asp<br>
 _For Nordisk Film- & TV-Fond:_  Svend Abrahamsen<br>
-_Location Managers:_ Fredrik Sidevärn,
-
-Sofia Lindberg<br>
-
-_Post-production Supervisors:_  
-John Thorstensson, Linda Dahlin<br>
-
+_Location Managers:_ Fredrik Sidevärn, Sofia Lindberg<br>
+_Post-production Supervisors:_  John Thorstensson, Linda Dahlin<br>
 _1st Assistant Director:_ Anna Zackrisson<br>
-
 _Script Supervisor:_ Magdalena Johansson<br>
-
 _Casting:_ Anna Zackrisson<br>
-
 _Child Casting:_ Maggie Widstrand<br>
-
 _Screenplay:_ John Ajvide Lindqvist<br>
-
 _Dramaturg:_ Dennis Magnusson<br>
-
 _Based on the novel by:_ John Ajvide Lindqvist<br>
-
 _Director of Photography:_ Hoyte van Hoytema<br>
-
 _Underwater Photography:_ Eric Börjesson<br>
-
 _Digital Special Effects:_ Fido Film<br>
-
 _Graphic Designer:_ Anna Lindqvist<br>
-
 _Editors:_ Dino Jonsäter, Tomas Alfredson<br>
-
 _Digital Post-production:_ Chimney Pot<br>
-
 _Visual Effects On-line Editor:_ Linda Öhlund<br>
-
 _Editing Consultant:_ Louise Brattberg<br>
-
 _Art Director:_ Eva Norén<br>
-
 _Set Decorators:_ Emil Eriksson, Britta Rehn<br>
-
 _Concept Artist:_ Josef Norén<br>
-
 _Costumes:_ Maria Strid<br>
-
 _Make-up:_ Maria Strid<br>
-
 _Music:_ Johan Söderqvist<br>
-
-_Orchestra:_  
-Slovak National Symphony Orchestra<br>
-
+_Orchestra:_  Slovak National Symphony Orchestra<br>
 _Guitar:_ Mats Bergström<br>
-
 _Electric Guitar:_ Mattias Torell<br>
-
 _Bass Guitar:_ Uno Helmersson<br>
-
 _Waterphone/Piano:_ Johan Söderqvist<br>
-
 _Drums:_ Erik Nilsson<br>
-
 _Orchestra Leader:_ Hans Ek<br>
-
 _Conductor:_ Hans Ek<br>
-
 _Sound Designer/Producer:_ Per Sundström<br>
-
-_Sound Designers:_ Patrik Strömdahl,  
-Jonas Jansson<br>
-
-_Sound Recordists:_ Christoffer Demby,
-
-Maths Källqvist, Mikael Brodin<br>
-
-_Re-recording Mixers:_ Per Sundström,
-
-Petter Fladeby<br>
-
+_Sound Designers:_ Patrik Strömdahl,  Jonas Jansson<br>
+_Sound Recordists:_ Christoffer Demby, Maths Källqvist, Mikael Brodin<br>
+_Re-recording Mixers:_ Per Sundström, Petter Fladeby<br>
 _Stunt Co-ordinator:_ Kimmo Rajala<br>
-
 _Animal Trainers:_ Filmdjur, Annelie Arrefelt<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Kåre Hedebrant _(Oskar)_<br>
-
 Lina Leandersson _(Eli)_<br>
-
 Per Ragnar _(Håkan)_<br>
-
 Henrik Dahl _(Erik)_<br>
-
 Karin Bergquist _(Yvonne)_<br>
-
 Peter Carlberg _(Lacke)_<br>
-
 Ika Nord _(Virginia)_<br>
-
 Mikael Rahm _(Jocke)_<br>
-
 Karl-Robert Lindgren _(Gösta)_<br>
-
 Anders T. Peedu _(Morgan)_<br>
-
 Pale Olofsson _(Larry)_<br>
-
 Cayetano Ruiz _(Schoolmaster Avila)_<br>
-
 Patrick Rydmark _(Conny)_<br>
-
 Johan Sömnes _(Andreas)_<br>
-
 Mikael Erhardsson _(Martin)_<br>
-
 Rasmus Luthander _(Jimmy)_<br>
-
 Sören Källstigen _(Janne, Erik’s friend)_<br>
-
 Malin Cederbladh _(hospital receptionist)_<br>
-
 Bernt Östman _(Virginia’s nurse)_<br>
-
 Kajsa Linderholm _(teacher)_<br>
-
 Adam Stone _(policeman in classroom)_<br>
-
 Ingemar Raukola _(messenger)_<br>
-
 Kent Rishaug _(kiosk owner)_<br>
-
 Linus Hanner _(boy who dies)_<br>
-
 Tom Ljungman _(young man 1)_<br>
-
 Fredrik Ramel _(young man 2)_<br>
-
 Christoffer Bohlin _(young man 3)_<br>
-
 Julia Nilsson _(singer 1)_<br>
-
 Elin Almén _(singer 2)_<br>
 
 Sweden/Norway/France 2008©<br>
-
 114 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjczMDU5ODNdfQ==
+eyJoaXN0b3J5IjpbLTE1OTkxMTk4MTFdfQ==
 -->
