@@ -1,4 +1,3 @@
-<![endif]-->
 
 _+ Q&A with James Norton, Siobhan Finneran, Will Johnston and Jessica Taylor_
 
@@ -8,21 +7,19 @@ When Catherine discovers the remains of a gangland murder victim in a drained re
 
 _Happy Valley_ series three (6x60’) is a Lookout Point production for BBC One and BBC iPlayer. Executive producers are Sally Wainwright and Sarah Lancashire, with Faith Penhale and Will Johnston for Lookout Point, Ben Irving and Rebecca Ferguson for the BBC. In advance of series three, the first two series of _Happy Valley_ are available to watch on BBC iPlayer now.
 
-**James Norton** is an acclaimed stage and screen actor and producer with credits including Agnieszka Holland’s _Mr Jones_, _McMafia_, _Black Mirror_,  
-_The Trial of Christine Keeler_, _Grantchester_ and Sally Wainwright’s seminal crime drama _Happy Valley_ for which he earned a BAFTA TV nomination. In 2021, Norton was nominated at the British Independent Film Awards for his performance in _Nowhere Special_, playing a single father with terminal cancer and most recently he produced and starred opposite Gemma Arteron in Netflix thriller, _Rogue Agent_.
+**James Norton** is an acclaimed stage and screen actor and producer with credits including Agnieszka Holland’s _Mr Jones_, _McMafia_, _Black Mirror_,  _The Trial of Christine Keeler_, _Grantchester_ and Sally Wainwright’s seminal crime drama _Happy Valley_ for which he earned a BAFTA TV nomination. In 2021, Norton was nominated at the British Independent Film Awards for his performance in _Nowhere Special_, playing a single father with terminal cancer and most recently he produced and starred opposite Gemma Arteron in Netflix thriller, _Rogue Agent_.
 
 James’s recent stage work includes Amy Herzog’s play, _Belleville_ at the Donmar Theatre and Simon Evans’ critically acclaimed production of _Bug_ in 2016 at Found111.
 
 **Siobhan Finneran** made her screen debut in the 1987 independent film _Rita, Sue and Bob Too_, and subsequently worked consistently in television drama including roles in _Coronation Street_ (1989-1990), _Clocking Off_ (2000-2002) and _The Amazing Mrs Pritchard_ (2006). In 2005, Finneran originated the lead female role in the stage play _On the Shore of the Wide World_ and was awarded the Manchester Evening News Theatre Award for Best Actress in a Leading Role. Also a comedy performer, Finneran appeared as Janice Garvey, a leading character in the first seven series of ITV sitcom _Benidorm_ (2007-2015).
 
-Later television roles include portraying a lawyer in the mini-series _Unforgiven_ (2009), an embittered servant in the first three series of the costume drama _Downton Abbey_ (2010–2012) and a recovering addict in _Happy Valley_ (2014-present), for which she was nominated for the 2017 British Academy Television Award for Best Supporting Actress. Later film credits include  
-Mrs Swift in the 2013 film release, _The Selfish Giant_, which earned her a British Independent Film Award nomination. Finneran is also a prolific television documentary narrator.
+Later television roles include portraying a lawyer in the mini-series _Unforgiven_ (2009), an embittered servant in the first three series of the costume drama _Downton Abbey_ (2010–2012) and a recovering addict in _Happy Valley_ (2014-present), for which she was nominated for the 2017 British Academy Television Award for Best Supporting Actress. Later film credits include  Mrs Swift in the 2013 film release, _The Selfish Giant_, which earned her a British Independent Film Award nomination. Finneran is also a prolific television documentary narrator.
 
 **Will Johnston** is an Executive Producer at Lookout Point where he becomes Joint CEO in the new year. Alongside _Happy Valley_ his credits include two series of _Gentleman Jack_, _A Suitable Boy_ and the forthcoming Disney+ series _Renegade Nell_.
 
-**Jessica Taylor** is the Producer of the final series of _Happy Valley_ in her debut TV producing role. Her involvement with _Happy Valley_ began on series 1 as the hair and makeup designer. Her credits in this role include _Cracker_, _Last Tango in Halifax_, _The Village_, _Life on Mars_ and _Cutting It_, for which she won the RTS Award for Best Makeup Design. She is currently producing an 8 part Harlan Coben series for Netflix.
+**Jessica Taylor** is the Producer of the final series of _Happy Valley_ in her debut TV producing role. Her involvement with _Happy Valley_ began on series 1 as the hair and makeup designer. Her credits in this role include _Cracker_, _Last Tango in Halifax_, _The Village_, _Life on Mars_ and _Cutting It_, for which she won the RTS Award for Best Makeup Design. She is currently producing an 8 part Harlan Coben series for Netflix.  
 
-**HAPPY VALLEY** (Final Series)
+**HAPPY VALLEY** (Final Series)  
 _Written and Created by:_ Sally Wainwright
 _Directed by:_ Patrick Harkins, Sally Wainwright
 _©:_ Lookout Point Ltd
@@ -81,5 +78,5 @@ UK 2022
 60 mins
 Episode 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTMxMTM4NTUsMTM1OTcxMjldfQ==
+eyJoaXN0b3J5IjpbMTM5NDkyMDg3NiwxMzU5NzEyOV19
 -->
