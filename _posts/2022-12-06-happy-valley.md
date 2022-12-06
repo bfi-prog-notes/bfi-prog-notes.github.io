@@ -78,34 +78,21 @@ UK 2022
 60 mins  
 Episode 1  
 
-<![endif]-->
-
-**IN PERSON & PREVIEWS**
-
-**TV Preview: Happy Valley Final Series Episode 1 + Q&A**
-
-Tue 6 Dec 18:15
-
-**Preview: Emancipation**
-
-Wed 7 Dec 18:00
-
-**Book Launch Event: The Shining (Extended Version) + Q&A with Lee Unkrich**
-
-Thu 8 Dec 18:40
-
-**Peter Greenaway in Conversation**
-
-Fri 9 Dec 18:20
-
-**The Precious Things: BBC Centenary Special + intro**
-
-Sat 10 Dec 14:20
-
-**TV Preview: His Dark Materials + Q&A with Cast & Crew TBC**
-Tue 13 Dec 18:00
-**TV Preview: Ghosts Christmas Special + Q&A with cast and crew**
-Thu 15 Dec 18:20
+**IN PERSON & PREVIEWS**  
+**TV Preview: Happy Valley Final Series Episode 1 + Q&A**  
+Tue 6 Dec 18:15  
+**Preview: Emancipation**  
+Wed 7 Dec 18:00  
+**Book Launch Event: The Shining (Extended Version) + Q&A with Lee Unkrich**  
+Thu 8 Dec 18:40  
+**Peter Greenaway in Conversation**  
+Fri 9 Dec 18:20  
+**The Precious Things: BBC Centenary Special + intro**  
+Sat 10 Dec 14:20  
+**TV Preview: His Dark Materials + Q&A with Cast & Crew TBC**  
+Tue 13 Dec 18:00  
+**TV Preview: Ghosts Christmas Special + Q&A with cast and crew**  
+Thu 15 Dec 18:20  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0MDczNzA0LDEzNTk3MTI5XX0=
+eyJoaXN0b3J5IjpbMTI4NDQ5NDQ4MywxMzU5NzEyOV19
 -->
