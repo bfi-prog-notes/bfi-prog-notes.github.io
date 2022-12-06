@@ -12,8 +12,7 @@ Explanations about ‘eligibility cut-off’ dates aside, many understandably as
 
 But what about the much discussed vampire theme – surely that provides a peg upon which to hang the movie? Perhaps so, but only in the sense that _Let the Right One In_ transcends and redefines its generic bloodsucking heritage, occupying a position within/without the genre similar to that of Guillermo del Toro’s equally slippery _Cronos_. The oft-quoted interpretative truism about vampire texts is that they are all essentially ‘about’ sex and death. This lazily reductive reading finds its roots in Bram Stoker’s (disputed) death from tertiary syphilis in 1912 and reaches its apotheosis in the outbreak of modern vampire movies in the 1980s and 90s (Tony Scott’s _The Hunger_, Francis Ford Coppola’s _Bram Stoker’s Dracula_, John Landis’ _Innocent Blood_, Shimako Sato’s _Tale of a Vampire_ et al) which commanded obligatory column inches about Aids scares and late 20th-century fears of fornication. More recently _Twilight_, from the novel by Mormon author Stephenie Meyer, has provoked heated debate about ‘abstinence porn’, its ‘no sex’ riff being seen as perversely but profoundly ‘sexy’, helping it to become the most money-spinning vampire movie ever.
 
-By contrast, _Let the Right One In_ is absolutely not about sex, even when its young protagonists embrace and become conjoined in an evocative _danse macabre_.  
-The bloodline here is closer to _Cronos_, which specifically de-sexualised the lusty tropes of vampire cinema, offering instead a portrait of ageing and illness epitomised by the site of Federico Luppi licking blood from the clean white tiles of a toilet floor – the most sexless scene imaginable. Despite its hormonally charged coming-of-age motif, _Let the Right One In_ is similarly more about friendship than fucking; it is significant that the paedophile elements present in Lindqvist’s novel have been obscured in the translation from book to film, as has the source’s strange transgenderism. As director Alfredson has said, the vampirism in his 1980s-set film looks back not in lust but in anger, with Oskar’s social impotence rather than his pubescent potency providing the driving force of the narrative.
+By contrast, _Let the Right One In_ is absolutely not about sex, even when its young protagonists embrace and become conjoined in an evocative _danse macabre_.  The bloodline here is closer to _Cronos_, which specifically de-sexualised the lusty tropes of vampire cinema, offering instead a portrait of ageing and illness epitomised by the site of Federico Luppi licking blood from the clean white tiles of a toilet floor – the most sexless scene imaginable. Despite its hormonally charged coming-of-age motif, _Let the Right One In_ is similarly more about friendship than fucking; it is significant that the paedophile elements present in Lindqvist’s novel have been obscured in the translation from book to film, as has the source’s strange transgenderism. As director Alfredson has said, the vampirism in his 1980s-set film looks back not in lust but in anger, with Oskar’s social impotence rather than his pubescent potency providing the driving force of the narrative.
 
 So, if it’s not quite a horror movie, not really a vampire movie, and not obviously an Oscars movie – what else isn’t _Let the Right One In_? Well, as we noted before, it isn’t an English-language movie, nor a Hollywood movie, although both of those things are about to change. In May 2008, _Variety_ reported that the remake rights had been jointly secured by stalwart British horror studio Hammer Films, recently revived by the Dutchbased fund Cyrte Investments. Ironically, it was Hammer who sealed the very genre clichés which _Let the Right One In_ so utterly eschews, and which have long been the stuff of broad parody, most recently in the stylishly lame _Lesbian Vampire Killers_. Yet the remake will not be a British translation but an American affair directed by _Cloverfield_ director Matt Reeves, who has spoken of his plans to move the action to snowy Colorado. ‘The movie and the book are incredibly Swedish,’ Reeves told the US press, ‘yet there’s something so universal about the tale of this kid and something that, in the context of an American story, could be completely different while being very consistent with the original story.’ He added that ‘there’s something about it that can be an American mythic tale.’
 
@@ -23,78 +22,76 @@ In the end, of course, this is the film’s greatest strength. Kim Newman conclu
 
 Setting it significantly in ‘the same apartment where I grew up’, Lindqvist describes his novel as a form of revenge for the angst he suffered as a child. ‘There’s a kind of poetic justice,’ he told _Death Ray_’s Guy Haley, ‘in the fact that the misfortunes of your childhood can be the basis for the fortunes of adulthood.’ Alfredson, meanwhile, identified with the ‘rough times’ endured by his film’s young hero, this autobiographical echo offering him a way into the story. In this I suspect that he is not alone – the empathy which audiences clearly feel with Oskar’s isolated plight is, if not universal, then at least not unusual.
 
-It is this paradoxical ‘universal outsider’ appeal which ultimately defines _Let the Right One In_, allowing it to be all the things I have just claimed that it is not – a great horror movie, a spine-tingling love story, a masterful social-realist fable and (most ironically) a genre-defining vampire tract. It manages to be these things precisely because it is at once all of them and none of them. It is, in the very best sense of the word, a genuinely ‘difficult’ film. Sink your teeth into that.
-
-Mark Kermode, _Sight and Sound_, May 2009
-
-<![endif]-->
+It is this paradoxical ‘universal outsider’ appeal which ultimately defines _Let the Right One In_, allowing it to be all the things I have just claimed that it is not – a great horror movie, a spine-tingling love story, a masterful social-realist fable and (most ironically) a genre-defining vampire tract. It manages to be these things precisely because it is at once all of them and none of them. It is, in the very best sense of the word, a genuinely ‘difficult’ film. Sink your teeth into that.  
+**Mark Kermode, _Sight and Sound_, May 2009**
+<br><br>
 
 **LET THE RIGHT ONE IN  
-(LÅT DEN RÄTTE KOMMA IN)**
+(LÅT DEN RÄTTE KOMMA IN)**<br>
 
-_Director:_ Tomas Alfredson
+_Director:_ Tomas Alfredson<br>
 
-©: EFTI
+©: EFTI<br>
 
-_A co-production with:_ Sveriges Television, Filmpool Nord
+_A co-production with:_ Sveriges Television, Filmpool Nord<br>
 
-_Production Companies:_ Sandrew Metronome, WAG, Fido Film, Chimney Pot, Ljudligan
+_Production Companies:_ Sandrew Metronome, WAG, Fido Film, Chimney Pot, Ljudligan<br>
 
-_With the support of:_ Svenska Filminstitutet, Nordisk Film- och TV-Fond
+_With the support of:_ Svenska Filminstitutet, Nordisk Film- och TV-Fond<br>
 
-_In collaboration with:_ Canal+
+_In collaboration with:_ Canal+<br>
 
-_Producers:_ John Nordling, Carl Molinder
+_Producers:_ John Nordling, Carl Molinder<br>
 
-_Line Producer:_ Frida Asp
+_Line Producer:_ Frida Asp<br>
 
 _For Nordisk Film- & TV-Fond:_  
-Svend Abrahamsen
+Svend Abrahamsen<br>
 
 _Location Managers:_ Fredrik Sidevärn,
 
-Sofia Lindberg
+Sofia Lindberg<br>
 
 _Post-production Supervisors:_  
-John Thorstensson, Linda Dahlin
+John Thorstensson, Linda Dahlin<br>
 
-_1st Assistant Director:_ Anna Zackrisson
+_1st Assistant Director:_ Anna Zackrisson<br>
 
-_Script Supervisor:_ Magdalena Johansson
+_Script Supervisor:_ Magdalena Johansson<br>
 
-_Casting:_ Anna Zackrisson
+_Casting:_ Anna Zackrisson<br>
 
-_Child Casting:_ Maggie Widstrand
+_Child Casting:_ Maggie Widstrand<br>
 
-_Screenplay:_ John Ajvide Lindqvist
+_Screenplay:_ John Ajvide Lindqvist<br>
 
-_Dramaturg:_ Dennis Magnusson
+_Dramaturg:_ Dennis Magnusson<br>
 
-_Based on the novel by:_ John Ajvide Lindqvist
+_Based on the novel by:_ John Ajvide Lindqvist<br>
 
-_Director of Photography:_ Hoyte van Hoytema
+_Director of Photography:_ Hoyte van Hoytema<br>
 
-_Underwater Photography:_ Eric Börjesson
+_Underwater Photography:_ Eric Börjesson<br>
 
-_Digital Special Effects:_ Fido Film
+_Digital Special Effects:_ Fido Film<br>
 
-_Graphic Designer:_ Anna Lindqvist
+_Graphic Designer:_ Anna Lindqvist<br>
 
-_Editors:_ Dino Jonsäter, Tomas Alfredson
+_Editors:_ Dino Jonsäter, Tomas Alfredson<br>
 
-_Digital Post-production:_ Chimney Pot
+_Digital Post-production:_ Chimney Pot<br>
 
-_Visual Effects On-line Editor:_ Linda Öhlund
+_Visual Effects On-line Editor:_ Linda Öhlund<br>
 
-_Editing Consultant:_ Louise Brattberg
+_Editing Consultant:_ Louise Brattberg<br>
 
-_Art Director:_ Eva Norén
+_Art Director:_ Eva Norén<br>
 
-_Set Decorators:_ Emil Eriksson, Britta Rehn
+_Set Decorators:_ Emil Eriksson, Britta Rehn<br>
 
-_Concept Artist:_ Josef Norén
+_Concept Artist:_ Josef Norén<br>
 
-_Costumes:_ Maria Strid
+_Costumes:_ Maria Strid<br>
 
 _Make-up:_ Maria Strid
 
@@ -198,5 +195,5 @@ Sweden/Norway/France 2008©
 
 114 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4NjY0NTIwXX0=
+eyJoaXN0b3J5IjpbMTMxNDY3MDc1N119
 -->
