@@ -56,8 +56,7 @@ _Direct Sound_: Raúl Locatelli, Pablo Taméz
 _Re-recording Mixer_: Gareth Llewellyn  
 _Supervising Sound Editor_: Srdjan Kurpjel
 
-_Cast:_
-
+**Cast**  
 Elmer Bäck _(Sergei Eisenstein)_  
 Luis Alberti _(Palomino Cañedo)_  
 José Montini _(Diego Rivera)_  
@@ -74,9 +73,9 @@ Alenka Rios Hart _(Alba)_
 Lisa Owen _(Mary Craig Sinclair)_  
 Stelio Savante _(Hunter Kimbrough)_
 
-Netherlands-Mexico-Finland-Belgium-Germany 2015©
-
+Netherlands-Mexico-Finland-Belgium-Germany 2015©  
 106 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTY3MzIxN119
+eyJoaXN0b3J5IjpbLTQzMjI4NDQzOV19
 -->
