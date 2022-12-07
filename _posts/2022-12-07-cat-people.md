@@ -18,15 +18,11 @@ The innovation of _Cat People_ was not ambiguity – which often in horror films
 
 ‘We tossed away the horror formula right from the beginning. No grisly stuff for us. No mask-like faces hardly human, with gnashing teeth and hair standing on end. No creaking physical manifestations. No horror piled on horror. You can’t keep up horror that’s long sustained. It becomes something to laugh at. But take a sweet love story, or a story of sexual antagonisms, about people like the rest of us, not freaks, and cut in your horror here and there by suggestion, and you’ve got something. Anyhow, we think you have. That’s the way to do it.’
 
-For Lewton, the special-effects lycanthropy of _The Wolf Man_ simply wasn’t frightening enough, and the domestication of the Universal Monsters into well-loved children’s figures suggests that he was right. Though Irena never sports yak-hair and fangs, _Cat People_ is unambiguous about her status: the film’s last line (‘she never lied to us’), along with details like transforming footprints and a shredded bathrobe, prove that Irena really is a Cat Person: Dr Judd interprets what she tells him as a childhood trauma, but we are supposed to understand what really happened before Irena was born: her father made love to her mother in the forest, impregnating her, and she transformed into a panther and killed him. The lesson is not that a psychological study is more worthy than a cat werewolf movie, but that a horror film can have psychological depth. That Irena is a cat person doesn’t make the film any less affecting as the story of a troubled marriage.
+For Lewton, the special-effects lycanthropy of _The Wolf Man_ simply wasn’t frightening enough, and the domestication of the Universal Monsters into well-loved children’s figures suggests that he was right. Though Irena never sports yak-hair and fangs, _Cat People_ is unambiguous about her status: the film’s last line (‘she never lied to us’), along with details like transforming footprints and a shredded bathrobe, prove that Irena really is a Cat Person: Dr Judd interprets what she tells him as a childhood trauma, but we are supposed to understand what really happened before Irena was born: her father made love to her mother in the forest, impregnating her, and she transformed into a panther and killed him. The lesson is not that a psychological study is more worthy than a cat werewolf movie, but that a horror film can have psychological depth. That Irena is a cat person doesn’t make the film any less affecting as the story of a troubled marriage.  
+**Extracted from _Cat People_ by Kim Newman (BFI Film Classics, 1999).  Reproduced by kind permission of Bloomsbury Publishing. ©Kim Newman**
+<br><br>
 
-Extracted from _Cat People_ by Kim Newman (BFI Film Classics, 1999).  
-Reproduced by kind permission of Bloomsbury Publishing. ©Kim Newman
-
-<![endif]-->
-
-**CAT PEOPLE**
-
+**CAT PEOPLE**  
 _Directed by:_ Jacques Tourneur  
 _Production Company:_ RKO Radio Pictures  
 _Produced by:_ Val Lewton  
@@ -43,26 +39,22 @@ _Musical Director:_ C. Bakaleinikoff
 _Orchestrations:_ Leonid Raab, John Leipold  
 _Recorded by:_ John L. Cass
 
-_uncredited crew_
-
+_uncredited crew_  
 _Supervisor:_ Lou Ostrow  
 _Dialogue Director:_ DeWitt Bodeen  
-_Photographic Effects:_ Vernon L. Walker,  
-Linwood G. Dunn  
+_Photographic Effects:_ Vernon L. Walker,  Linwood G. Dunn  
 _Assistant Editor:_ Robert Aldrich  
 _Russian Lyrics:_ Andrey Tolstoy  
 _Animal Trainer:_ Mel Koontz
 
-_Cast:_
-
+**Cast**  
 Simone Simon _(Irena Dubrovna Reed)_  
 Kent Smith _(Oliver Reed)_  
 Tom Conway _(Dr Louis Judd)_  
 Jane Randolph _(Alice Moore)_  
 Jack Holt _(‘Commodore’ C.R. Cooper)_
 
-_uncredited cast_
-
+_uncredited cast_  
 Steve Soldi _(organ grinder)_  
 Alan Napier _(‘Doc’ Carver)_  
 John Piffle _(The Belgrade proprietor)_  
@@ -99,5 +91,5 @@ _The Independent_
 
 _Cat People_ by Kim Newman is available to buy from the BFI Shop: **https://shop.bfi.org.uk/cat-people-bfi-film-classics.html**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5NDA3NjU5XX0=
+eyJoaXN0b3J5IjpbMTA5NTQyMzc2Nl19
 -->
