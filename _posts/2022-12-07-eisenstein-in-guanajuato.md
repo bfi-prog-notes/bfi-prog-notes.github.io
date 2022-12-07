@@ -10,12 +10,9 @@ I had never seen such serious-purpose early-cinema films before – by contrast 
 
 I have run and rerun Eisenstein’s films ever since, consumed everything I could in translation that he wrote and published, followed all the news about him that seeped out of Russia in bouts of unexpected liberated knowledge. I visited his library in Moscow several times with each time a different Russian guide, I went to the sites of his filmmaking in Odessa and St Petersburg, his place of forced exile in Alma Ata in Kazakhstan, his father’s art nouveau architecture in Riga, asking to sleep in a cold deserted apartment there where he was rumoured to have played as a child. I was not permitted but the concierge gave me an apple from the garden across the street and I ate it in the cold room looking out the window he too may have looked out, watching the apple trees and carthorses. How about that for empathetic association?
 
-I kept nurturing my Eisenstein enthusiasms from all angles. I bought all the Eisenstein biographies – the good ones and the bad ones – had a London painting exhibition called Eisenstein at the Winter Palace, read the Freud material on da Vinci which fascinated Eisenstein, edited political commercials for the London Labour Party, shouted useless abuse at the London American Embassy over Vietnam, and seemingly argued on both sides of the fence for and against the idea that Soviet cinema was all threadbare Cold War propaganda, East and West, ending with the unsurprising and somewhat hopeless plea to deliver ‘a plague on both your houses’. It was both propaganda and was not propaganda – in the way that Michelangelo’s Sistine Chapel ceiling is magnificent propaganda for Catholicism. And indeed why not? Great art is always propaganda for great life. And most cinema frames for low ambition, scared of over-reaching, scared of _lèse-majesté_, scared of the taunt of high purpose, even scared of considering that cinema is art, scared indeed that the feature film can rival the highest successes of painting and the symphony, the novel and the theatre play. Cinema in 1930 was, and still is, largely throwaway ephemerality unhitched to any programme, conceit or agenda of content or – especially for me – theory of language. Having been trained as a painter, most cinema as compared to painting is remarkably uninterested in language. It’s largely genre-led content conceived as illustrated literary, dialogue-directed stories – forever leaving you dissatisfied. Cinema is far too rich a medium to be left merely to the storytellers. Bring on the writers! That’s practically all we hear isn’t it? The syllabus of every film school. No wonder we have a text-based cinema all over the world. Every film you have ever seen started life with a text. We have a film industry that illustrates text.  
-A cinema of conductors and very rarely composers. Why were, and are, so many people underselling the medium?
+I kept nurturing my Eisenstein enthusiasms from all angles. I bought all the Eisenstein biographies – the good ones and the bad ones – had a London painting exhibition called Eisenstein at the Winter Palace, read the Freud material on da Vinci which fascinated Eisenstein, edited political commercials for the London Labour Party, shouted useless abuse at the London American Embassy over Vietnam, and seemingly argued on both sides of the fence for and against the idea that Soviet cinema was all threadbare Cold War propaganda, East and West, ending with the unsurprising and somewhat hopeless plea to deliver ‘a plague on both your houses’. It was both propaganda and was not propaganda – in the way that Michelangelo’s Sistine Chapel ceiling is magnificent propaganda for Catholicism. And indeed why not? Great art is always propaganda for great life. And most cinema frames for low ambition, scared of over-reaching, scared of _lèse-majesté_, scared of the taunt of high purpose, even scared of considering that cinema is art, scared indeed that the feature film can rival the highest successes of painting and the symphony, the novel and the theatre play. Cinema in 1930 was, and still is, largely throwaway ephemerality unhitched to any programme, conceit or agenda of content or – especially for me – theory of language. Having been trained as a painter, most cinema as compared to painting is remarkably uninterested in language. It’s largely genre-led content conceived as illustrated literary, dialogue-directed stories – forever leaving you dissatisfied. Cinema is far too rich a medium to be left merely to the storytellers. Bring on the writers! That’s practically all we hear isn’t it? The syllabus of every film school. No wonder we have a text-based cinema all over the world. Every film you have ever seen started life with a text. We have a film industry that illustrates text.  A cinema of conductors and very rarely composers. Why were, and are, so many people underselling the medium?
 
-So you can see why Eisenstein has been so satisfying. Big ideas consciously promoted in a rush of imagery. Intense interest in putting those ideas down as images not as deodorised illustrative texts. Rembrandt said in hopeless hope, ‘Just because you have eyes does not mean you can see’. Eisenstein says  
-in irony, ‘I suffer from too much looking’, and Derrida said with wisdom,  
-‘The image always has the last word’.
+So you can see why Eisenstein has been so satisfying. Big ideas consciously promoted in a rush of imagery. Intense interest in putting those ideas down as images not as deodorised illustrative texts. Rembrandt said in hopeless hope, ‘Just because you have eyes does not mean you can see’. Eisenstein says  in irony, ‘I suffer from too much looking’, and Derrida said with wisdom,  ‘The image always has the last word’.
 
 There were of course mysteries about Eisenstein – perhaps the largest aesthetic mystery for me was how come the first three great films – _Strike_, _Potemkin_ and _October_ were unlike the last three great films – _Nevsky_, _Ivan_ and _The Boyar’s Plot_?
 
@@ -23,34 +20,25 @@ There was a change of film manufacture between the early and late films for Eise
 
 ‘This country is astonishing. The large things in life continually hit you on the head – in the pit of your stomach, in your heart. Nothing can be superficial.’
 
-The fascination with the endless stimulations of sex and death – Eros and Thanatos – the very beginning and the very end – both unknowable to the subject and victim – the non-negotiables – you don’t ask for or agree to the first and you don’t have any say in rejecting the second. Eros and Thanatos sober up your image of yourself, reduce exhibitionism, demand attention to make use of your mortality – and hit Eisenstein hard in Mexico. He never lost track or denied his cinematic intelligence, but I believe abroad, away from Soviet conspiracy and paranoia and all that dialectical materialism which no-one really understood how to define, let alone how to support – away from the deadening hand of Stalinist Russia, and essentially being alive in the living-in-the-present country that is Mexico, he emotionally matured, learnt cross-identifying empathy and his later films demonstrated as much.
+The fascination with the endless stimulations of sex and death – Eros and Thanatos – the very beginning and the very end – both unknowable to the subject and victim – the non-negotiables – you don’t ask for or agree to the first and you don’t have any say in rejecting the second. Eros and Thanatos sober up your image of yourself, reduce exhibitionism, demand attention to make use of your mortality – and hit Eisenstein hard in Mexico. He never lost track or denied his cinematic intelligence, but I believe abroad, away from Soviet conspiracy and paranoia and all that dialectical materialism which no-one really understood how to define, let alone how to support – away from the deadening hand of Stalinist Russia, and essentially being alive in the living-in-the-present country that is Mexico, he emotionally matured, learnt cross-identifying empathy and his later films demonstrated as much.  
+**Production notes**
+<br><br>
 
-Production notes
-
-<![endif]-->
-
-**EISENSTEIN IN GUANAJUATO**
-
+**EISENSTEIN IN GUANAJUATO**  
 _Directed by_: Peter Greenaway  
-©: Submarine, Fu Works, Paloma Negra Films S.  
-de R.L. de C.V., Edith Film, Potemkino  
-_A co-production by_: Submarine, Fu Works,  
-Paloma Negra Films  
+©: Submarine, Fu Works, Paloma Negra Films S. de R.L. de C.V., Edith Film, Potemkino  
+_A co-production by_: Submarine, Fu Works, Paloma Negra Films  
 _In co-production with_: Edith Film, Potemkino, Mollywood  
 _In association with_: VPRO, YLE, ZDF/Arte  
 _Supported by_: Netherlands Film Fund, Netherlands Film Production Incentive, Finnish Film Fund, Enterprise Flanders, Screen Flanders, Flanders Audiovisual Fund, Tax Shelter of the Federal Government of Belgium, Tax Shelter Investors, Estímulo Fiscal Art. 226 de la Lisr (Eficine), Schneider Electric México, Grupo Beta San Miguel  
-_Developed with support from_:  
-MEDIA Programme of the European Union  
+_Developed with support from_:  MEDIA Programme of the European Union  
 _With the participation of_: Consejo Nacional para la Cultura y las Artes (Conaculta), Instituto Mexicano de Cinematografía (IMCINE)  
-_Presented by_: Submarine, Fu Works,  
-Paloma Negra Films  
+_Presented by_: Submarine, Fu Works,  Paloma Negra Films  
 _World Sales_: Films Boutique  
-_Producers_: Bruno Felix, Femke Wolting,  
-San Fu Maltha, Cristina Velasco L.  
+_Producers_: Bruno Felix, Femke Wolting,  San Fu Maltha, Cristina Velasco L.  
 _Co-producers_: Liisa Penttilä-Asikainen, Wilfried Van Baelen, Peter De Maegd, Guy Van Baelen  
 _Line Producer_: Karin S. de Boer  
-_Production Manager_: Alex Sánchez de la Peña _Location Manager_: Alexander de Graaf
-
+_Production Manager_: Alex Sánchez de la Peña _Location Manager_: Alexander de Graaf  
 _Post-production Supervisor_: Maarten de Graaf  
 _1st Assistant Director_: Julio Quezada  
 _Script Continuity_: Arturo Jimenez  
@@ -58,8 +46,7 @@ _Casting Director_: Alejandro Caballero
 _Written by_: Peter Greenaway  
 _Director of Photography_: Reinier van Brummelen  
 _Camera Operator_: Floris Van Der Lee  
-_Visual Effects Supervision_: Florentijn Bos,  
-Reinier van Brummelen  
+_Visual Effects Supervision_: Florentijn Bos,  Reinier van Brummelen  
 _Visual Effects_: Flow  
 _Editor_: Elmer Leupen  
 _Art Direction_: Ana Solares  
@@ -91,5 +78,5 @@ Netherlands-Mexico-Finland-Belgium-Germany 2015©
 
 106 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzIzNDE4Ml19
+eyJoaXN0b3J5IjpbLTg0NTY3MzIxN119
 -->
