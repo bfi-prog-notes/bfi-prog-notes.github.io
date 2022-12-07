@@ -75,21 +75,16 @@ Henrietta Burnside _(second woman)_
 Dynamite _(panther)_  
 Dorothy Lloyd _(cat voice)_
 
-USA 1943©
-
+USA 1943©  
 73 mins
 
-* Uncredited
+*Uncredited
 
 Print preserved by Library of Congress
 
-The screening on Mon 19 Dec will be introduced  
-by Clarisse Loughrey, chief film critic for  
-_The Independent_
-
-<![endif]-->
+The screening on Mon 19 Dec will be introduced by Clarisse Loughrey, chief film critic for  _The Independent_
 
 _Cat People_ by Kim Newman is available to buy from the BFI Shop: **https://shop.bfi.org.uk/cat-people-bfi-film-classics.html**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTQyMzc2Nl19
+eyJoaXN0b3J5IjpbLTE3NzQzNjU1MTNdfQ==
 -->
