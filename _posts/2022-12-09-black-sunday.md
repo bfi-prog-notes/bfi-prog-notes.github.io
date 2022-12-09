@@ -14,15 +14,12 @@ _Black Sunday_’s aesthetics are resolutely old-fashioned, but the film merges 
 
 Made for a modest budget of around $100,000, _Black Sunday_ grossed millions worldwide, propelling Steele to international stardom and ushering in a craze for copycat Italian chillers. However, by 1973, when Bava came to direct his latter-day masterpiece _Lisa and the Devil_, the gothic had become unfashionable, with Italian audiences now in thrall to the metropolitan thrills of the _giallo_ horror/mystery subgenre (which Bava also pioneered) and international audiences flocking to the modern-day horrors of Polanski  
 and Romero.  
-James Blackford, _Sight and Sound_, April 2013
+**James Blackford, _Sight and Sound_, April 2013**
+<br><br>
 
-<![endif]-->
-
-**BLACK SUNDAY (LA MASCHERA DEL DEMONIO)**
-
+**BLACK SUNDAY<br>(LA MASCHERA DEL DEMONIO)**  
 _Director_: Mario Bava  
-_Production Companies_: Galatea Film,  
-Jolly Film (Rome)  
+_Production Companies_: Galatea Film,  Jolly Film (Rome)  
 _Presented by [US version]_: James H. Nicholson, Samuel Z. Arkoff  
 © _[US version]_: Alta Vista Productions  
 _Producer_: Massimo De Rita  
@@ -51,14 +48,12 @@ _Dubbing Director [US version]_: Lee Kresel
 _Synchronization_: NIS  
 _English Dial Writer/Director_: George Higgins III  
 _Synchronizing Assistant_: Gisella Mathews  
-_Vocal Artists Furnished by_:  
-ELDA - English Language Dubbers Association  
+_Vocal Artists Furnished by_:  ELDA - English Language Dubbers Association  
 _Negative_: Dupont  
 _Developing/Printing_: Tecnostampa (Rome)  
 _Studio_: Titanus Studios
 
-_Cast:_
-
+**Cast**  
 Barbara Steele _(Princess Katia/Princess Asa)_  
 John Richardson _(Dr Andrej Gorobek)_  
 Andrea Checchi _(Dr Choma Kruvajan)_  
@@ -73,11 +68,11 @@ Renato Terra _(Boris)_
 Germana Dominici_  
 (innkeeper’s daughter, peasant girl)_
 
-Italy 1960
-
+Italy 1960  
 87 mins
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTcyMDMzMl19
+eyJoaXN0b3J5IjpbNzIxNTYwMDI5XX0=
 -->
