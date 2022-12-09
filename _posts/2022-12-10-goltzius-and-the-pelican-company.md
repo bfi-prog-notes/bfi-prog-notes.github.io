@@ -73,12 +73,11 @@ Stefano Scherini _(Johannes Cleaver)_
 Francesco De Vito _(Rabbi Moab)_  
 Nada Abrus _(Marie)_
 
-Netherlands-UK-France-Croatia 2012©
-
+Netherlands-UK-France-Croatia 2012©  
 128 mins
 
-This film contains a scene involving ‘black face’  
-and includes racist language.
+This film contains a scene involving ‘black face’ and includes racist language.
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzgwODYzMF19
+eyJoaXN0b3J5IjpbLTEwMDIzNjkyNF19
 -->
