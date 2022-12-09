@@ -1,5 +1,14 @@
-
-
+---
+layout: post
+title: The Incantation of Casanova
+published: true
+date: 2022-12-09
+readtime: true
+categories: ['EVENTS']
+tags: [Drama, Period, TV]
+metadata: 'UK 1967, 91 mins<br> Director: Herbert Wise'
+pdf: '2022-12-109-incantation-of-casanova.pdf'
+---
 
 As part of our Centenary salute to the BBC, we present this very special screening of a major BBC production that resides in the BFI National Archive. We have remastered sound and visual elements from an original 35mm telerecording of this outstanding play from the _Theatre 625_ series of prestigious dramas. This was the second and only surviving part of  _The Magicians_, a trio of unconnected plays about magic and magicians, written by Ken Taylor. In this sensual period drama, con man and cod-magician Casanova hatches an elaborate plan to seduce a farmer’s daughter. Jeremy Brett turns in a characteristically rich and eccentric performance as the mesmerising seducer, with Jacqueline Pearce equally commanding as the object of his desire.  
 **bfi.org.uk**  
@@ -52,6 +61,21 @@ Sat 10 Dec 14:20
 Tue 13 Dec 18:00  
 **TV Preview: Ghosts Christmas Special + Q&A with cast and crew**  
 Thu 15 Dec 18:20  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTg1MjQ5OF19
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
