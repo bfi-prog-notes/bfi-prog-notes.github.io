@@ -21,7 +21,7 @@ _Prospero’s Books_ (1991) carries Greenaway’s investigation of representatio
 _The Baby of Mâcon_ (1993) draws on a play performed in Italy in 1659 and focuses on the slippery relation between theatrical illusion and ‘reality’ within the performance of a play, exploring the complex role of ritual (and cinema), in Greenaway’s terms, as both ‘paradoxical and dangerous’, an opportunity for critical reflection or an instrument of deceit and manipulation. In creating  
 _The_ _Pillow Book_ (1995) Greenaway follows another trajectory, pursuing connections between writing and the body: the body of thought, the body of writing, and the body as writing. Working with a thousand year-old diary,  _The Pillow Book of Sei Shonagan_, he reshapes the text to address his primary aesthetic and philosophical concerns. As both this allegory and Prospero’s Books suggest, Greenaway is wrestling with relations between word and image: Japanese calligraphy provides him, as it did earlier for Sergei Eisenstein, with a rethinking of the separation of the body and the text. The film is a cornucopia of images and allusions: Greenaway explores within the film and in the form of the film the creation of new languages, generating different visual effects with framing, multiple screen images, letter-boxing, overlaid texts, writing superimposed on visual images as well as writings on the body of the actors.
 
-Consistent with his exploration of media and language, Greenaway’s later films – _8½ Women_, _Death of a Composer_ (both 1999), _The Man in the Bath_ (2001) and _Tulse Luper’s Suitcase_ (2003) ­– rely on new media, particularly CD-ROM. _Nightwatching_ (2007), the first in his ‘Dutch Masters’ series (with the second project titled _Goltzius and the Pelican Company_), was accompanied by a special installation designed for the Rijksmuseum in Amsterdam, shown beside Rembrandt’s painting _The Night Watch_. He continued his series of digital video installations revisiting classical paintings in 2008 when, after much negotiation, Greenaway staged a one-night performance ‘remixing’ da Vinci’s _The Last Supper_ in the refectory of Santa Maria delle Grazie in Milan. In 2009 he exhibited his digital exploration of _T he Wedding at Cana_ by Paolo Veronese as part of the Venice Biennial.
+Consistent with his exploration of media and language, Greenaway’s later films – _8½ Women_, _Death of a Composer_ (both 1999), _The Man in the Bath_ (2001) and _Tulse Luper’s Suitcase_ (2003) ­– rely on new media, particularly CD-ROM. _Nightwatching_ (2007), the first in his ‘Dutch Masters’ series (with the second project titled _Goltzius and the Pelican Company_), was accompanied by a special installation designed for the Rijksmuseum in Amsterdam, shown beside Rembrandt’s painting _The Night Watch_. He continued his series of digital video installations revisiting classical paintings in 2008 when, after much negotiation, Greenaway staged a one-night performance ‘remixing’ da Vinci’s _The Last Supper_ in the refectory of Santa Maria delle Grazie in Milan. In 2009 he exhibited his digital exploration of _The Wedding at Cana_ by Paolo Veronese as part of the Venice Biennial.
 
 He also contributed to _Visions of Europe_, a short film collection by different European Union directors; his British entry is _The European Showerbath_. _Nightwatching_ and _Rembrandt’s J’Accuse_ are two films on Rembrandt, released respectively in 2007 and 2008.
 
@@ -31,27 +31,21 @@ On 12 October 2007, he created the multimedia installation _Peopling the Palaces
 
 Greenaway has honorary degrees amongst others from the Universities of Staffordshire, Edinburgh, Gdansk, Bucharest, Southampton and Utrecht, and was awarded a CBE in 1990 and a BAFTA in 2014 for services to cinema.
 
-Greenaway continues to expand his exploration of the various arts, their interconnections, the historical changes that must be acknowledged and their implications for understanding the relationship between expression and power.
-
-**This biography is adapted from Marcia Landy, ‘Peter Greenaway,’ _Directors in British and Irish Cinema: A Reference Companion_ (BFI Publishing 2006)**
+Greenaway continues to expand his exploration of the various arts, their interconnections, the historical changes that must be acknowledged and their implications for understanding the relationship between expression and power.  
+**This biography is adapted from Marcia Landy, ‘Peter Greenaway,’ _Directors in British and Irish Cinema: A Reference Companion_ (BFI Publishing 2006)**  
 
 **PETER GREENAWAY**
-
 **Born in Newport, 1942**
 
 All as Director
-
 All UK unless stated
 
 **Feature films**
 
-**2015** **Eisenstein in Guanajuato** (Netherlands/Mexico/Finland/Belgium/ Germany)
-
-**2012** **Goltzius and The Pelican Company** (Netherlands/UK/Croatia/ France)
-
-**2008** **Rembrandt’s J’accuse** (Netherlands/Germany/Finland)
-
-**2007** **Nightwatching** (Netherlands/Canada/UK/Poland)
+**2015** **Eisenstein in Guanajuato**  (Netherlands/Mexico/Finland/Belgium/ Germany)  
+**2012** **Goltzius and The Pelican Company**  (Netherlands/UK/Croatia/ France)  
+**2008** **Rembrandt’s J’accuse**  (Netherlands/Germany/Finland)  
+**2007** **Nightwatching**(Netherlands/Canada/UK/Poland)
 
 **2005** **Tulse Luper A Life in Suitcases** (Netherlands/Spain/Luxembourg)
 
@@ -213,5 +207,5 @@ Sun 18 Dec 18:20
 
 **Eisenstein in Guanajuato** Thu 29 Dec 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4MTQ0Mjc0XX0=
+eyJoaXN0b3J5IjpbMTY4NDc5OTQ0Nl19
 -->
