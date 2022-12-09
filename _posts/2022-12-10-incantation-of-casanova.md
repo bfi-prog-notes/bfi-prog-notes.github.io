@@ -4,7 +4,7 @@ title: The Incantation of Casanova
 published: true
 date: 2022-12-09
 readtime: true
-categories: ['EVENTS']
+categories: ['BBC CENTENARY SPECIAL']
 tags: [Drama, Period, TV]
 metadata: 'UK 1967, 91 mins<br> Director: Herbert Wise'
 pdf: '2022-12-109-incantation-of-casanova.pdf'
