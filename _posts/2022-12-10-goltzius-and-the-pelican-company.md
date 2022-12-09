@@ -28,8 +28,7 @@ Since Goltzius’s occupation is printmaking and engraving, the drama is enacted
 
 Such a statement in 1600 would not at all be irrelevant when applied to much contemporary activity in photography, cinema and the Internet.
 
-**Director’s Comment**
-
+**Director’s Comment**  
 It is a curiosity that every new visual technology in its infancy seems to gravitate towards erotica and pornography – oil painting in the 1520s, photography in the 1840s, cinema in the 1900s, the Internet in the 1980s and Second Life in the 2000s. Is it a flagrant demand for attention, a cynical attempt to attract funding, or a real curiosity to see what that attention-puller of all time – sex – will look like in a new visual language?
 
 This same characteristic could be said to apply to the newly enhanced technology of the visual imagination of the 1590s – the printed metal engraving. And perhaps its major practitioner at that time was Hendrik Goltzius, Dutch master-printer with a damaged right hand, whose mastery of the burin was unrivalled across Europe. It helped of course that the current fashion in visual imagery was the Mannerist enthusiasm for the nude in every conceivable position, contortion and exhibitionist display that could be imagined.
@@ -38,34 +37,27 @@ As with all new technologies, the new and often experimental equipment involved 
 
 _Goltzius and the Pelican Company_ is the story of the Dutch engraver Hendrik Goltzius persuading one of the petty German princelings of Europe to pay for an expensive printing press to make a limited deluxe edition of a boldly illustrated Old Testament. And like a good advertising executive hoping to clinch a deal, Goltzius is prepared to sweeten his offer by getting his Pelican Printing Company from The Hague to fulsomely dramatise six erotic biblical tales that demonstrate the six sexual taboos – voyeurism, incest, adultery, paedophilia, prostitution and necrophilia. They start with the very first copulation tutored by Satan on Adam and Eve and continue with the story of Lot and his daughters, the adultery of David and Bathsheba, the seduction of the under-aged Joseph by Potiphar’s wife, the demonisation and disloyalty of Delilah and the humiliation of Samson, finally skipping to the New Testament to finish with the tale of necrophilia of Salome and John the Baptist.
 
-Since it is 1590 and Europe is about to plunge into savage and bitter religious wars, tensions are high in the German court striving for liberty of thought, but there is another more insistent and constant perpetual war that never ends, has few truces, no peace conferences and persistent aggression, and this is the never-to-be-resolved battle of religion and sex.
+Since it is 1590 and Europe is about to plunge into savage and bitter religious wars, tensions are high in the German court striving for liberty of thought, but there is another more insistent and constant perpetual war that never ends, has few truces, no peace conferences and persistent aggression, and this is the never-to-be-resolved battle of religion and sex.  
+**Production notes**
+<br><br>
 
-Production notes
-
-<![endif]-->
-
-**GOLTZIUS AND THE PELICAN COMPANY**
-
+**GOLTZIUS AND THE PELICAN COMPANY**  
 _Director_: Peter Greenaway  
-©: Kasander Film B.V., Portpic Ltd,  
-MP Film Productions, CDP S.A.R.L.  
+©: Kasander Film B.V., Portpic Ltd,  MP Film Productions, CDP S.A.R.L.  
 _In co-production with_: Film & Music Entertainment, MP Film Productions, CDP  
 _Presented by_: Kasander Film Company  
-_In association with_: Head Gear Films,  
-Metrol Technology  
+_In association with_: Head Gear Films,  Metrol Technology  
 _Executive Producers_: Phil Hunt, Compton Ross  
 _Producer_: Kees Kasander  
 _Writer_: Peter Greenaway  
 _Director of Photography_: Reinier van Brummelen  
 _Editor_: Elmer Leupen  
 _Production Design_: Ben Zuydwijk  
-_Costume Design_: Marrit van der Burgt,  
-Blanka Budak  
+_Costume Design_: Marrit van der Burgt,  Blanka Budak  
 _Composer_: Marco Robino  
 _Sound Design_: Huibert Boon
 
-_Cast:_
-
+**Cast**  
 F. Murray Abraham _(the Margrave of Alsace)_  
 Ramsey Nasr _(Hendrik Goltzius)_  
 Kate Moran _(Adaela)_  
@@ -88,5 +80,5 @@ Netherlands-UK-France-Croatia 2012©
 This film contains a scene involving ‘black face’  
 and includes racist language.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTg1MzAxNDldfQ==
+eyJoaXN0b3J5IjpbLTk5MzgwODYzMF19
 -->
