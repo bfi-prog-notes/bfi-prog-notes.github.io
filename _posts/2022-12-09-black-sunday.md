@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Black Sunday
+published: true
+date: 2022-12-09
+readtime: true
+categories: ['IN DREAMS ARE MONSTERS']
+tags: [Horror]
+metadata: 'Italy 1960, 87 mins<br> Director: Mario Bava'
+pdf: '2022-12-09-black-sunday.pdf'
+---
 
 The often imaginative and stylistically rich world of Italian horror has been enjoying a critical and popular renaissance in recent years, with several marginalised directors of the 1960s and 70s receiving the recognition once only afforded their art-cinema compatriots. One case in point is the pioneering gothic horror and _giallo_ specialist Mario Bava (1914-1980). A quiet, reserved man who self-effacingly referred to himself as a mere ‘romantic craftsman’, Bava made a string of low-budget but nevertheless literate and aesthetically sophisticated horror and thriller B-movies in the 60s and 70s. With his monochrome debut _Black Sunday_ (_La maschera del demonio_, 1960) and the murder mystery _Blood and Black Lace_ (_Sei donne per l’assassino_, 1964), Bava defined the character and style of the Italian horror and _giallo_ genres respectively. Other notable works include the gloriously florid colour movies _The Whip and the Body_ (_La frusta e il corpo_, 1963), _Kill, Baby… Kill!_ (_Operazione paura_, 1966) and the portmanteau film _Black Sabbath_ (_I tre volti della paura_, 1963), starring Boris Karloff. Emulated en masse by his Cinecittà contemporaries, Bava’s films also influenced American filmmakers working in the gothic horror and slasher genres.
 
@@ -12,8 +22,7 @@ The story unfolds in a rather perfunctory manner and, as is usual with Italian g
 
 _Black Sunday_’s aesthetics are resolutely old-fashioned, but the film merges this approach with a strikingly modern depiction of violence. Taking his cue from the risqué horror fare that Hammer had been producing in the late 50s, Bava employs several grisly shocks, including a disturbing scene of eye-violence that pre-empts the assaultive cinema of fellow Italian horror director Lucio Fulci. Another groundbreaking aspect is the film’s intertwining of sexual attraction and horror. Barbara Steele’s disfigured witch Asa is undoubtedly the film’s monster, but Bava depicts her as morbidly beautiful, her heaving bosom and clawing hands signifying her as a representation of unbridled female sexual desire, simultaneously repellent and attractive.
 
-Made for a modest budget of around $100,000, _Black Sunday_ grossed millions worldwide, propelling Steele to international stardom and ushering in a craze for copycat Italian chillers. However, by 1973, when Bava came to direct his latter-day masterpiece _Lisa and the Devil_, the gothic had become unfashionable, with Italian audiences now in thrall to the metropolitan thrills of the _giallo_ horror/mystery subgenre (which Bava also pioneered) and international audiences flocking to the modern-day horrors of Polanski  
-and Romero.  
+Made for a modest budget of around $100,000, _Black Sunday_ grossed millions worldwide, propelling Steele to international stardom and ushering in a craze for copycat Italian chillers. However, by 1973, when Bava came to direct his latter-day masterpiece _Lisa and the Devil_, the gothic had become unfashionable, with Italian audiences now in thrall to the metropolitan thrills of the _giallo_ horror/mystery subgenre (which Bava also pioneered) and international audiences flocking to the modern-day horrors of Polanski  and Romero.  
 **James Blackford, _Sight and Sound_, April 2013**
 <br><br>
 
@@ -73,6 +82,80 @@ Italy 1960
 
 *Uncredited
 <br><br>
+
+**IN DREAMS ARE MONSTERS**<br>
+**The Uninvited**<br>
+Thu 1 Dec 18:05; Sat 17 Dec 14:30 (+ intro by broadcaster and writer, Louise Blain)<br>
+**Kwaidan (Kaidan)**<br>
+Thu 1 Dec 20:00; Tue 13 Dec 17:40<br> 
+**Night of the Eagle**<br>
+Fri 2 Dec 21:00; Sat 10 Dec 12:10<br> 
+**Daughters of Darkness (Les lèvres rouges)**<br>
+Sat 3 Dec 20:45: Tue 13 Dec 21:00<br>
+**Transness in Horror**<br>
+Tue 6 Dec 18:20<br>
+**Let the Right One In (Låt den rätte komma in)**<br>
+Tue 6 Dec 20:45; Thu 22 Dec 18:15<br>
+**Philosophical Screens: The Lure**<br>
+Wed 7 Dec 20:10 Blue Room<br>
+**The Lure (Córki dancing)**<br>
+Wed 7 Dec 18:15; Thu 22 Dec 20:45 (+ intro by Dr Catherine Wheatley, Reader in Film Studies at King’s College London)<br>
+**Cat People**<br> 
+Wed 7 Dec 20:50; Mon 19 Dec (+ intro by Clarisse Loughrey, chief film critic for The Independent)<br>
+**Black Sunday (La maschera del demonio)**<br>
+Fri 9 Dec 21:00; Sun 18 Dec 18:30<br> 
+**Ring (Ringu)**<br>
+Sat 10 Dec 20:40; Tue 13 Dec 21:05; Tue 20 Dec 21:00<br> 
+**Atlantics (Atlantique) + Atlantiques**<br>
+Sun 11 Dec 14:50; Tue 27 Dec 18:20<br>
+**Sugar Hill**<br>
+Sun 11 Dec 18:00; Sat 17 Dec 20:40<br>
+**Häxan**<br> 
+Mon 12 Dec 18:10 (+ live score by The Begotten); Sat 17 Dec 11:45 (with live piano accompaniment)<br>
+**Sweetheart**<br>
+Mon 12 Dec 21:00; Tue 27 Dec 12:40<br> 
+**Arrebato**<br> 
+Wed 14 Dec 20:30 (+ intro by writer and broadcaster Anna Bogutskaya); Fri 23 Dec 18:05<br>
+**The Final Girls LIVE**<br>
+Thu 15 Dec 20:30<br> 
+**One Cut of the Dead (Kamera o tomeru na!)**<br>
+Fri 16 Dec 18:15; Fri 30 Dec 20:45<br>
+**The Fog**<br>
+Fri 16 Dec 21:00; Wed 28 Dec 18:10<br> 
+**Being Human + Q&A with Toby Whithouse and guests (tbc)**<br> 
+Sat 17 Dec 18:00<br>
+**Day of the Dead**<br>
+Mon 19 Dec 20:40; Thu 29 Dec 18:20<br>
+**Society**<br>
+Tue 20 Dec 18:15; Wed 28 Dec 20:50<br>
+**Interview with the Vampire**<br>
+Wed 21 Dec 18:10: Thu 29 Dec 20:40<br>
+**Ginger Snaps**<br>
+Wed 21 Dec 20:50; Tue 27 Dec 15:10<br>
+**A Dark Song**<br>
+Fri 23 Dec 20:45; Fri 30 Dec 18:20<br> 
+
+**City Lit at BFI: Screen Horrors – Screen Monsters**<br>
+Thu 20 Oct – Thu 15 Dec 18:30–20:30 Studio<br>
+<br>  
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzIxNTYwMDI5XX0=
 -->
