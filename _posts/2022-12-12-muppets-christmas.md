@@ -7,10 +7,10 @@ readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Comedy]
 metadata: 'USA 1992, 86 mins<br> Director: Brian Henson'
-pdf: '2022-12-12-muppet-christmas-carol-relaxed.pdf'
+pdf: '2022-12-12-muppet-christmas-carol.pdf'
 ---
 
-<img style="float: left;" src="/img/muppet.jpeg"><br><br>
+<img style="float: left;" src="/img/muppet-christmas-carol-relaxed.jpeg"><br><br>
 
 _+ intro and discussion._
 Michael Caine plays Ebenezer Scrooge in this Christmas comedy favourite that appeals across the generations. The exuberant Muppets take on Dickens’ characters, offering their own perspective on the Victorian story, with smart dialogue and music from Paul Williams. Something to enjoy every time...
