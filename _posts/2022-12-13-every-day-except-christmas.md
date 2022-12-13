@@ -21,19 +21,16 @@ Twelve hours in Covent Garden market. The lorries roll in from the country and a
 
 Lindsay Anderson’s documentary – a remarkably enterprising example of sponsorship on the part of the Ford Motor Company – has become widely known since it received the Grand Prix at last year’s Venice Festival of Shorts and Documentaries. It is a film of enormous technical skill: highly sophisticated poetic passages alternate with candid camera scenes as close to life as the people in _Housing Problems_. As a lyrical documentary it is clearly in the line of _Song of Ceylon_, and as good as anything since Jennings. Its real importance, however, is in its attitude – its intentness upon – the dignity of labour and workers and of the interdependence of our society, of which a market like Covent Garden is a highly significant symbol.
 
-It might be objected that on a purely literal level the film is not true, the real Market is often a quarrelsome, sulky place, where the hierarchies of over-elaborate organisation snarl and bite; certainly it is not always this industrious ideal, largely manned by laughing young heroes. But this is not a significant objection; what is evidently the important thing for the director of this film is to make people feel proud of what they are and what they do, and this can often be infinitely more useful than to hold a mirror to all their imperfections There are many forms of the creative treatment of reality; and social criticism may be positive, as it is here, as well as negative. It would be hard to over-praise Walter Lassally’s sensitive photography or Daniel Paris’s musical score.
-**_Monthly Film Bulletin_, March 1958**
+It might be objected that on a purely literal level the film is not true, the real Market is often a quarrelsome, sulky place, where the hierarchies of over-elaborate organisation snarl and bite; certainly it is not always this industrious ideal, largely manned by laughing young heroes. But this is not a significant objection; what is evidently the important thing for the director of this film is to make people feel proud of what they are and what they do, and this can often be infinitely more useful than to hold a mirror to all their imperfections There are many forms of the creative treatment of reality; and social criticism may be positive, as it is here, as well as negative. It would be hard to over-praise Walter Lassally’s sensitive photography or Daniel Paris’s musical score.  
+**_Monthly Film Bulletin_, March 1958**  
 
-**Enginemen**
-
+**Enginemen**  
 A film record of enginemen on the footplate and in the canteen at the Newton Heath locomotive sheds on the outskirts of Manchester, filmed during the early hours of a wintry morning. There is very little commentary, other than the men themselves speaking out on the changes being brought about in their lives by extensive dieselisation on British Railways.
 
-This strongly individual example of Free Cinema is the first effort by a group of young television technicians from Manchester, led by Michael Grigsby. The drastic conditions under which the film was shot has resulted in a frequently harsh screen image, and the sound recording was limited by the slim resources available. For all these limitations, the film has a heavy rhythm, a stark beauty and its own interior compulsion to liberate rather than restrict one’s imagination. That the director’s affections for iron, steam, wheels and wintry sky have been so nourished and poetically expressed under primitive conditions of filming is nothing less than a miracle. And the motive force behind this muscular slice of life, captured from a most elusive environment, is tremendously impressive. It seems ironic that the blurred soundtrack, with its elliptical snatches of canteen discussion and disembodied interview, should draw attention to what is actually the film’s most striking virtue. It records, but does not explain: for the film, simple and unaffected, is its own explanation.
+This strongly individual example of Free Cinema is the first effort by a group of young television technicians from Manchester, led by Michael Grigsby. The drastic conditions under which the film was shot has resulted in a frequently harsh screen image, and the sound recording was limited by the slim resources available. For all these limitations, the film has a heavy rhythm, a stark beauty and its own interior compulsion to liberate rather than restrict one’s imagination. That the director’s affections for iron, steam, wheels and wintry sky have been so nourished and poetically expressed under primitive conditions of filming is nothing less than a miracle. And the motive force behind this muscular slice of life, captured from a most elusive environment, is tremendously impressive. It seems ironic that the blurred soundtrack, with its elliptical snatches of canteen discussion and disembodied interview, should draw attention to what is actually the film’s most striking virtue. It records, but does not explain: for the film, simple and unaffected, is its own explanation.  
+**_Monthly Film Bulletin_, May 1959**  
 
-**_Monthly Film Bulletin_****, May 1959**
-
-**EVERY DAY EXCEPT CHRISTMAS**
-
+**EVERY DAY EXCEPT CHRISTMAS**  
 _Director:_ Lindsay Anderson  
 _Production Company:_ Graphic Films  
 _Sponsor:_ Ford Motor Company  
@@ -45,14 +42,12 @@ _Editor:_ John Fletcher
 _Music:_ Daniel Paris  
 _Music Performance:_ Happy Wanderers  
 _Sound:_ John Fletcher  
-_Commentary Spoken by:_ Alun Owen
+_Commentary Spoken by:_ Alun Owen  
 
-UK 1957
+UK 1957  
+40 mins  
 
-40 mins
-
-**ENGINEMEN**
-
+**ENGINEMEN**  
 _Written by_: Michael Grigsby  
 _Production Company_: Unit Five Seven  
 _Made with the assistance of_: British Film Institute Experimental Film Fund  
@@ -63,34 +58,20 @@ _Photography_: Andrew Hall, Ewan Halleron, Eric Harrison
 _Graphics_: Ian Thompson  
 _Editor_: Christopher Faulds  
 _Sound Editor_: Michael Sale  
-_Technical Advice_: Bertram Farbridge, Jack Miller
+_Technical Advice_: Bertram Farbridge, Jack Miller  
 
-UK 1959
+UK 1959  
+21 mins  
 
-21 mins
-
-**REGULAR PROGRAMME**
-
-**Art in the Making: Every Day Except Christmas + intro by BFI curator Steven Foxon + Enginemen**
-
-Tue 13 Dec 17:45
-
-**Projecting the Archive: This Man Is Mine aka Christmas Weekend + intro by film historian Carole Sharp**
-
-Tue 13 Dec 19:35
-
-**Woman with a Movie Camera: The Babadook**
-
-Thu 15 Dec 18:15
-
-**Film Wallahs: Nirvana Inn**
-
-Thu 15 Dec 20:50
-
-**Seniors: Dead of Night + intro**
-
-Fri 16 Dec 14:00
-
+**REGULAR PROGRAMME**  
+**Projecting the Archive: This Man Is Mine aka Christmas Weekend + intro by film historian Carole Sharp**  
+Tue 13 Dec 19:35  
+**Woman with a Movie Camera: The Babadook**  
+Thu 15 Dec 18:15  
+**Film Wallahs: Nirvana Inn**  
+Thu 15 Dec 20:50  
+**Seniors: Dead of Night + intro**  
+Fri 16 Dec 14:00  
 **Experimenta Mixtape: Secret Santa Edition**
 
 Fri 16 Dec 18:20
@@ -99,5 +80,5 @@ Fri 16 Dec 18:20
 
 Sat 17 Dec 14:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDc0Nzc2Nl19
+eyJoaXN0b3J5IjpbLTQ5NDY4MzkwNl19
 -->
