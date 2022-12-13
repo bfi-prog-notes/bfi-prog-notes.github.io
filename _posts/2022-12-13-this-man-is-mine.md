@@ -26,63 +26,62 @@ However, _Kine Weekly_ knew the public better than the critics and the film was 
 Carole Sharp, film historian and researcher. Currently working on a biography of Nova Pilbeam.
 
 **THIS MAN IS MINE**  
-_Directed by_: Marcel Varnel
-_Production Company_: Columbia (British) Productions
-_Produced by_: Marcel Varnel
-_Unit Manager_: Tom Payne
-_Assistant Director_: Alf Keating
-_Continuity_: Peggy Singer
-_Screen Play by_: Doreen Montgomery, Nicholas Phipps,
-Reginald Beckwith
-_Adapted for the Screen by_: Doreen Montgomery
-_Additional Dialogue by_: Mabel Constanduros
-_From the play_ A Soldier for Christmas _by_: Reginald Beckwith
-_Photography_: Philip Grindrod
-_Camera Work_: Dudley Lovell
-_Film Editor_: Douglas Robertson
-_Film Cutter_: May Dennington
-_Art Director_: George Provis
-_Set Dressings_: Alex Waugh
-_Dress Designs_: Dorothy Broomham
-_Make-up_: George Claff
-_Hair Styles_: Nora Bentley
-_Music Compositions_: Allan Gray
-_Canadian Army Orchestra directed by_: Capt. Bob Farnon
-_Music Conductor_: Walter Goehr
-_Sound Supervisor_: B.C. Sewell
-_Recordist_: M. Hobbs
-_Sound System_: British Acoustic Film
-_Made at_: Gainsborough Studios, Pinewood Studios
+_Directed by_: Marcel Varnel  
+_Production Company_: Columbia (British) Productions  
+_Produced by_: Marcel Varnel  
+_Unit Manager_: Tom Payne  
+_Assistant Director_: Alf Keating  
+_Continuity_: Peggy Singer  
+_Screen Play by_: Doreen Montgomery, Nicholas Phipps, Reginald Beckwith  
+_Adapted for the Screen by_: Doreen Montgomery  
+_Additional Dialogue by_: Mabel Constanduros  
+_From the play_ A Soldier for Christmas _by_: Reginald Beckwith  
+_Photography_: Philip Grindrod  
+_Camera Work_: Dudley Lovell  
+_Film Editor_: Douglas Robertson  
+_Film Cutter_: May Dennington  
+_Art Director_: George Provis  
+_Set Dressings_: Alex Waugh  
+_Dress Designs_: Dorothy Broomham  
+_Make-up_: George Claff  
+_Hair Styles_: Nora Bentley  
+_Music Compositions_: Allan Gray  
+_Canadian Army Orchestra directed by_: Capt. Bob Farnon  
+_Music Conductor_: Walter Goehr  
+_Sound Supervisor_: B.C. Sewell  
+_Recordist_: M. Hobbs  
+_Sound System_: British Acoustic Film  
+_Made at_: Gainsborough Studios, Pinewood Studios  
 
 **Cast**  
-Tom Walls _(Philip Ferguson)_
-Glynis  Johns _(Millie)_
-Jeanne  De  Casalis _(Mrs Ferguson)_
-Hugh  McDermott _(Bill MacKenzie)_
-Nova  Pilbeam _(Phoebe Ferguson)_
-Barry  Morse _(Ronnie)_
-Rosalyn  Boulter _(Brenda)_
-Ambrosine  Phillpotts _(Lady Daubeny)_
-Mary  Merrall _(Mrs Jarvis)_
-Agnes  Lauchian _(Mrs Jones, the cook)_
-Bernard  Lee _(James Nicholls)_
-King  Whyte _(Canadian colonel)_
-Charles  Victor _(hi-jacker 1)_
-Bryan  Herbert _(hi-jacker 2)_
-Leslie  Dwyer _(van driver)_
-Charles  Farrell _(Canadian sergeant)_
-John  E.  Coyle _(constable)_
-Natalie  Lynn _(Mrs Mackenzie)_
-Olwen  Brookes _(spinster)_
-Peter  Gawthorne _(business man)_
-Cyril  Smith _(taxi driver)_
-Canadian  Army _Orchestra (band at camp concert)_
-Wally  Patch _(policeman)_ [uncredited]
+Tom Walls _(Philip Ferguson)_  
+Glynis  Johns _(Millie)_  
+Jeanne  De  Casalis _(Mrs Ferguson)_  
+Hugh  McDermott _(Bill MacKenzie)_  
+Nova  Pilbeam _(Phoebe Ferguson)_  
+Barry  Morse _(Ronnie)_  
+Rosalyn  Boulter _(Brenda)_  
+Ambrosine  Phillpotts _(Lady Daubeny)_  
+Mary  Merrall _(Mrs Jarvis)_  
+Agnes  Lauchian _(Mrs Jones, the cook)_  
+Bernard  Lee _(James Nicholls)_  
+King  Whyte _(Canadian colonel)_  
+Charles  Victor _(hi-jacker 1)_  
+Bryan  Herbert _(hi-jacker 2)_  
+Leslie  Dwyer _(van driver)_  
+Charles  Farrell _(Canadian sergeant)_  
+John  E.  Coyle _(constable)_  
+Natalie  Lynn _(Mrs Mackenzie)_  
+Olwen  Brookes _(spinster)_  
+Peter  Gawthorne _(business man)_  
+Cyril  Smith _(taxi driver)_  
+Canadian  Army _Orchestra (band at camp  concert)_  
+Wally  Patch _(policeman)_ [uncredited]  
 
-UK 1946
-104 mins
+UK 1946  
+104 mins  
 
-A BFI National Archive print
+A BFI National Archive print  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4MzAxMzYwXX0=
+eyJoaXN0b3J5IjpbLTE1Mjk1NDE5MjJdfQ==
 -->
