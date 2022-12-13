@@ -29,10 +29,9 @@ _The Cook, The Thief, His Wife, and Her Lover_ (1989), made during the last year
 
 _Prospero’s Books_ (1991) carries Greenaway’s investigation of representation to greater complexity. The film engages with Shakespeare’s _The Tempest_, not as theatre transposed to film but rather – through the overarching figure of Prospero (Sir John Gielgud) – with issues of art and science, human intelligence, the powers of reason and unreason. The most striking aspect of the film has to do with role of ‘books’, the archive of human knowledge, covering the natural sciences, history, magic, painting, and calligraphy. _Prospero’s Books_ is exemplary of Greenaway’s encyclopaedic strivings. The ‘books’ are the artist’s archive and are also indicative of the potential of cinema to capture the multiplicity of life and thought. Utilising allegory, the film draws on visual images, dialogue and music to invoke theatre, masque, opera, high and low comedy and create a complex vision of authorship, cinematic narration and the clash between words and images.
 
-_The Baby of Mâcon_ (1993) draws on a play performed in Italy in 1659 and focuses on the slippery relation between theatrical illusion and ‘reality’ within the performance of a play, exploring the complex role of ritual (and cinema), in Greenaway’s terms, as both ‘paradoxical and dangerous’, an opportunity for critical reflection or an instrument of deceit and manipulation. In creating  
-_The_ _Pillow Book_ (1995) Greenaway follows another trajectory, pursuing connections between writing and the body: the body of thought, the body of writing, and the body as writing. Working with a thousand year-old diary,  _The Pillow Book of Sei Shonagan_, he reshapes the text to address his primary aesthetic and philosophical concerns. As both this allegory and Prospero’s Books suggest, Greenaway is wrestling with relations between word and image: Japanese calligraphy provides him, as it did earlier for Sergei Eisenstein, with a rethinking of the separation of the body and the text. The film is a cornucopia of images and allusions: Greenaway explores within the film and in the form of the film the creation of new languages, generating different visual effects with framing, multiple screen images, letter-boxing, overlaid texts, writing superimposed on visual images as well as writings on the body of the actors.
+_The Baby of Mâcon_ (1993) draws on a play performed in Italy in 1659 and focuses on the slippery relation between theatrical illusion and ‘reality’ within the performance of a play, exploring the complex role of ritual (and cinema), in Greenaway’s terms, as both ‘paradoxical and dangerous’, an opportunity for critical reflection or an instrument of deceit and manipulation. In creating _The_ _Pillow Book_ (1995) Greenaway follows another trajectory, pursuing connections between writing and the body: the body of thought, the body of writing, and the body as writing. Working with a thousand year-old diary,  _The Pillow Book of Sei Shonagan_, he reshapes the text to address his primary aesthetic and philosophical concerns. As both this allegory and Prospero’s Books suggest, Greenaway is wrestling with relations between word and image: Japanese calligraphy provides him, as it did earlier for Sergei Eisenstein, with a rethinking of the separation of the body and the text. The film is a cornucopia of images and allusions: Greenaway explores within the film and in the form of the film the creation of new languages, generating different visual effects with framing, multiple screen images, letter-boxing, overlaid texts, writing superimposed on visual images as well as writings on the body of the actors.
 
-Consistent with his exploration of media and language, Greenaway’s later films – _8½ Women_, _Death of a Composer_ (both 1999), _The Man in the Bath_ (2001) and _Tulse Luper’s Suitcase_ (2003) ­– rely on new media, particularly CD-ROM. _Nightwatching_ (2007), the first in his ‘Dutch Masters’ series (with the second project titled _Goltzius and the Pelican Company_), was accompanied by a special installation designed for the Rijksmuseum in Amsterdam, shown beside Rembrandt’s painting _The Night Watch_. He continued his series of digital video installations revisiting classical paintings in 2008 when, after much negotiation, Greenaway staged a one-night performance ‘remixing’ da Vinci’s _The Last Supper_ in the refectory of Santa Maria delle Grazie in Milan. In 2009 he exhibited his digital exploration of _The Wedding at Cana_ by Paolo Veronese as part of the Venice Biennial.
+Consistent with his exploration of media and language, Greenaway’s later films – _8½ Women_, _Death of a Composer_ (both 1999), _The Man in the Bath_ (2001) and _Tulse Luper’s Suitcase_ (2003) – rely on new media, particularly CD-ROM. _Nightwatching_ (2007), the first in his ‘Dutch Masters’ series (with the second project titled _Goltzius and the Pelican Company_), was accompanied by a special installation designed for the Rijksmuseum in Amsterdam, shown beside Rembrandt’s painting _The Night Watch_. He continued his series of digital video installations revisiting classical paintings in 2008 when, after much negotiation, Greenaway staged a one-night performance ‘remixing’ da Vinci’s _The Last Supper_ in the refectory of Santa Maria delle Grazie in Milan. In 2009 he exhibited his digital exploration of _The Wedding at Cana_ by Paolo Veronese as part of the Venice Biennial.
 
 He also contributed to _Visions of Europe_, a short film collection by different European Union directors; his British entry is _The European Showerbath_. _Nightwatching_ and _Rembrandt’s J’Accuse_ are two films on Rembrandt, released respectively in 2007 and 2008.
 
@@ -47,232 +46,156 @@ Greenaway continues to expand his exploration of the various arts, their interco
 
 **PETER GREENAWAY**  
 **Born in Newport, 1942**  
-
 All as Director  
 All UK unless stated
 
 **Feature films**  
-
 **2015**  
-**Eisenstein in Guanajuato**  (Netherlands/Mexico/Finland/Belgium/ Germany)  
+**Eisenstein in Guanajuato** (Netherlands/Mexico/Finland/Belgium/Germany)  
 **2012**  
-**Goltzius and The Pelican Company**  (Netherlands/UK/Croatia/ France)  
+**Goltzius and The Pelican Company** (Netherlands/UK/Croatia/France)  
 **2008**  
-**Rembrandt’s J’accuse**  (Netherlands/Germany/Finland)  
+**Rembrandt’s J’accuse** (Netherlands/Germany/Finland)  
 **2007**  
-**Nightwatching**  (Netherlands/Canada/UK/Poland)  
+**Nightwatching** (Netherlands/Canada/UK/Poland)  
 **2005**  
-**Tulse Luper A Life in Suitcases**  (Netherlands/Spain/Luxembourg)  
+**Tulse Luper A Life in Suitcases** (Netherlands/Spain/Luxembourg)  
 **2004**  
-**The Tulse Luper Suitcases a Life History in 16 Episodes: Part 3 From Sark to Finish**   (Netherlands/UK/Italy)  
-
+**The Tulse Luper Suitcases a Life History in 16 Episodes: Part 3 From Sark to Finish** (Netherlands/UK/Italy)  
 **The Tulse Luper Suitcases a Life History in 16 Episodes: Part 2 Vaux to the Sea** (UK/Luxembourg/Spain)  
-
 **2003**  
 **The Tulse Luper Suitcases a Life History in 16 Episodes: Part 1 The Moab Story** (UK/Luxembourg/Spain)  
-
 **1999**  
 **8½ Women** (Netherlands/UK/Luxembourg/Germany)  
-
 **1995**  
 **  The Pillow Book** (Netherlands/France/UK/Luxembourg)  
-
 **Stairs 1 Geneva** (Switzerland)  
-
 **1993**  
 **The Baby of Mâcon** (UK/France/Netherlands/Germany)  
-
 **1991**  
 **Prospero’s Books** (Netherlands/France/UK)  
-
 **1989**  
 **The Cook the Thief His Wife & Her Lover** (UK/France)  
-
 **1988**  
 **Drowning by Numbers** (UK/Netherlands)  
-
 **1987**  
 **The Belly of an Architect** (UK/Italy)  
-
 **1985**  
 **A Zed & Two Noughts** (UK/Netherlands)  
-
 **1982**  
 **The Draughtsman’s Contract**  
-
 **1980**  
 **The Falls**  
 
 **Shorts**  
-
 **2016**  
 **Shchukin, Matisse, Dance and Music** (France)  
-
 **2013**  
 **Just in time** (segment of _3x3D_, Portugal/France)  
-
 **2011  Castle Amerongen** (Netherlands)  
-
 **2010**  
 **92 Atomic Bomb Explosions on the Planet Earth** (UK/Netherlands)  
-
 **2004**  
 **The European Showerbath** (part of _Visions of Europe_, Denmark/Germany)  
-
 **Writing on Water** (UK/Netherlands)  
-
 **2001**  
 **  The Man in the Bath**  
-
 **1997**  
 **The Bridge Celebration** (Netherlands)  
-
 **1995**  
 **Lumière et Compagnie** (segment, France/Spain/Sweden/ Belgium/Norway)  
-
 **1992**  
 **Rosa, La Monnaie de munt** (Belgium)  
-
 **1989**  
 **Hubert Bals Handshake**  
-
 **1985**  
 **The Sea in Their Blood: Beside the Sea** (COI)  
-
 **1981**  
 **The Exile**  
-
 **1979**  
 **Leeds Castle** (COI, part of _This Week in Britain_)  
-
 **Ink Jet Printing** (COI, part of _This Week in Britain_)  
-
 **1968**  
 **Revolution**  
-
 **1967**  
 **5 Postcards from Capital Cities**  
-
 **1966  
-Tree**  
-
+Tree** 
 **Train**  
-
 **1961  
 Death of Sentiment**  
 
 **Documentaries**  
-
 **2017**  
 **Luther and His Legacy** (Netherlands)  
-
 **2009**  
 **The Marriage** (Italy)  
-
 **2008**  
 **Cinema Is Dead, Long Live the Screen**  
-
 **2001  
-The Reitdiep Journeys** (Netherlands)  
-
-**1992**  
+The Reitdiep Journeys** (Netherlands)  **1992**  
 **Peter Greenaway** (Germany)  
-
 **1988**  
 **Fear of Drowning**  
-
 **1983**  
 **The Coastline**  
-
 **1980**  
 **Country Diary**  
-
 **1979**  
 **Women Artists**  
 
 **TV**  
-
 **1999  
 The Death of a Composer: Rosa, a Horse Drama** (Netherlands)  
 
 **1992**  
 **Darwin** (part of _Genii_, UK/France)  
-
 **A Walk through Prospero’s Library** (Germany)  
-
 **1991**  
 **M Is for Man, Music, Mozart** (part of _Not Mozart_)  
-
 **1990**  
 **A TV Dante: The Inferno Cantos I-VIII**  
-
 **1989**  
 **Les Morts de la Seine / Death in the Seine** (France/UK)  
-
 **1986  
 Inside Rooms: 26 Bathrooms**  
-
 **1984**  
 **Making a Splash**  
-
 **4 American Composers**  
-
 **1981**  
 **Terence Conran** (part of _Insight_)  
-
 **Zandra Rhodes** (part of _Insight_)  
-
 **1980**  
 **Act of God Some Lightning Experience**  
-
 **1961-80** (part of _Take Six_)  
 
 **FRAMES OF MIND: THE FILMS OF PETER GREENAWAY**  
-
 **The Cook, the Thief, His Wife & Her Lover**  
-
 Fri 9 Dec 20:30 (+ intro by Peter Greenaway)  
-
 **Goltzius and the Pelican Company**  
-
 Sat 10 Dec 14:15 (+ Q&A with Peter Greenaway); Wed 28 Dec 18:00  
-
 **A Zed & Two Noughts**  
-
 Sat 10 Dec 17:30 (+ intro by Peter Greenaway)  
-
 **The Tulse Luper Suitcases: Antwerp**  
-
 Sat 10 Dec 20:50; Thu 29 Dec 20:50  
-
 **Peter Greenaway Documentary Programme**  
 Sun 11 Dec 12:00  
-
 **Peter Greenaway Shorts Programme 2**  
 Mon 12 Dec 20:50  
-
 **Haunted Generations: The Lingering Legacy of the Public Black Pond and Other Short Films**  
 Wed 14 Dec 20:35 (+ intro by filmmaker Jessica Sarah Rinland)  
-
 **The Tulse Luper Suitcases: The Moab Story**  
 Sun 18 Dec 12:00  
-
 **The Tulse Luper Suitcases, Part 2: Vaux to the Sea**  
 Sun 18 Dec 15:30  
-
 **The Tulse Luper Suitcases, Part 3: From Sark to Finish**  
-
 Sun 18 Dec 18:20  
-
 **Nightwatching**  
 Mon 19 Dec 18:00  
-
 **Rembrandt’s J’Accuse**  
 Mon 19 Dec 20:50  
-
 **Information Film**  
 Wed 21 Dec 20:30  
-
 **Eisenstein in Guanajuato**  
 Thu 29 Dec 18:15  
 <br>
@@ -297,5 +220,5 @@ Questions/comments? Contact the Programme Notes team by [email](mailto: prognote
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTA0MDg4Ml19
+eyJoaXN0b3J5IjpbMTg1OTQ2MjE2NywxNjY1MDQwODgyXX0=
 -->
