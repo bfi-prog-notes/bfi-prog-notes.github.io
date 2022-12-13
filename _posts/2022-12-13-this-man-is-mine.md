@@ -1,3 +1,14 @@
+---
+layout: post
+title: This Man Is Mine
+published: true
+date: 2022-12-13
+readtime: true
+categories: ['PROJECTING THE ARCHIVE']
+tags: [Comedy, War]
+metadata: 'UK 1946, 104 mins<br> Director: Marcel Varnel'
+pdf: '2022-12-13-this-man-is-mine.pdf'
+---
 
 _+ intro by film historian Carole Sharp_
 
@@ -21,9 +32,8 @@ When he saw a rough cut of the film, Joseph Friedman deemed it ‘one of the mos
 
 Reviews were mixed. _Kine_ _Weekly_’s critic wrote that the ‘skilful interplay of lifelike characters leads to an irresistible mixture of laughter and tears.  Everything points to its success with popular suburban and provincial audiences.’ However, some uncredited newspaper reviews in the BFI archive are more cynical. ‘(The cast) do their best to pretend that the dialogue is not as full of traps as a haunted house at a fun fair’ opines one, while another deems the film ‘only spottily amusing’. The familiar criticism of adapting stage plays for the screen also reared its head: ‘Fifteen years ago, I had to regretfully complain that instead of telling film stories in the film idiom, British producers were too often content to buy any old stage piece and make a transcript reeking of the footlights. Of _This Man Is Mine_, I can only say, a trifle sourly, that this is where I came in.’
 
-However, _Kine Weekly_ knew the public better than the critics and the film was still playing at provincial cinemas in 1949.
-
-Carole Sharp, film historian and researcher. Currently working on a biography of Nova Pilbeam.
+However, _Kine Weekly_ knew the public better than the critics and the film was still playing at provincial cinemas in 1949.  
+**Carole Sharp, film historian and researcher. Currently working on a biography of Nova Pilbeam.**
 
 **THIS MAN IS MINE**  
 _Directed by_: Marcel Varnel  
@@ -82,6 +92,36 @@ UK 1946
 104 mins  
 
 A BFI National Archive print  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk1NDE5MjJdfQ==
--->
+<br>
+
+**REGULAR PROGRAMME**  
+**Projecting the Archive: This Man Is Mine aka Christmas Weekend + intro by film historian Carole Sharp**  
+Tue 13 Dec 19:35  
+**Woman with a Movie Camera: The Babadook**  
+Thu 15 Dec 18:15  
+**Film Wallahs: Nirvana Inn**  
+Thu 15 Dec 20:50  
+**Seniors: Dead of Night + intro**  
+Fri 16 Dec 14:00  
+**Experimenta Mixtape: Secret Santa Edition**  
+Fri 16 Dec 18:20  
+**African Odysseys: The Woman King + intro & Q&A**  
+Sat 17 Dec 14:00
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
