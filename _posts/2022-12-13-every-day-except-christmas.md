@@ -72,13 +72,10 @@ Thu 15 Dec 18:15
 Thu 15 Dec 20:50  
 **Seniors: Dead of Night + intro**  
 Fri 16 Dec 14:00  
-**Experimenta Mixtape: Secret Santa Edition**
-
-Fri 16 Dec 18:20
-
-**African Odysseys: The Woman King + intro & Q&A**
-
+**Experimenta Mixtape: Secret Santa Edition**  
+Fri 16 Dec 18:20  
+**African Odysseys: The Woman King + intro & Q&A**  
 Sat 17 Dec 14:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDY4MzkwNl19
+eyJoaXN0b3J5IjpbLTMyMjIzMTE2XX0=
 -->
