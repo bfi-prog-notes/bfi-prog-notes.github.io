@@ -120,92 +120,50 @@ USA 1960©
 **CHRISTMAS FILMS**
 
 **The Bishop’s Wife**
-
 Mon 5 Dec 14:30; Sat 17 Dec 11:50; Mon 19 Dec 18:10; Wed 21 Dec 18:05
-
 **The Apartment**
-
 Wed 14 Dec 14:30; Wed 21 Dec 17:55; Fri 23 Dec 14:30; Tue 27 Dec 12:00
-
 **It’s a Wonderful Life**
-
 Fri 16 Dec 18:10; Sun 18 Dec 18:10; Tue 20 Dec 18:10; Thu 22 Dec 14:30 Fri 23 Dec 18:10
-
 **Tangerine**
-
 Fri 16 Dec 20:45; Tue 20 Dec 18:20
-
 **Scrooge**
-
 Sat 17 Dec 14:50; Wed 21 Dec 14:30
-
 **Scrooged**
-
 Sat 17 Dec 18:20; Thu 22 Dec 20:30
-
 **Carol**
-
 Sat 17 Dec 20:45; Tue 20 Dec 20:40
-
 **Tokyo Godfathers (Tokyo goddofazazu)**
-
 Sat 17 Dec 20:50; Fri 23 Dec 21:00
-
-**Meet Me in St. Louis  
-**Sun 18 Dec 12:15; Mon 19 Dec 14:30; Tue 20 Dec 14:30; Thu 22 Dec 18:05
-
+**Meet Me in St. Louis**
+Sun 18 Dec 12:15; Mon 19 Dec 14:30; Tue 20 Dec 14:30; Thu 22 Dec 18:05
 **Gremlins**
-
 Tue 20 Dec 20:30; Thu 22 Dec 18:10
-
 **REGULAR PROGRAMME**
-
 **Woman with a Movie Camera: The Babadook**
-
 Thu 15 Dec 18:15
-
 **Film Wallahs: Nirvana Inn**
-
 Thu 15 Dec 20:50
-
 **Seniors: Dead of Night + intro**
-
 Fri 16 Dec 14:00
-
 **Experimenta Mixtape: Secret Santa Edition**
-
 Fri 16 Dec 18:20
-
 **African Odysseys: The Woman King + intro & Q&A**
-
 Sat 17 Dec 14:00
-
 **Art in the Making: News from Nowhere + intro by Rowan Bain, Principle Curator at William Morris Gallery TBC**
-
 Thu 5 Jan 18:20
-
 **African Odysseys: Hussein Shariffe: A Life Between Exile and Homecoming**
-
 Sat 7 Jan 12:00-17:00
-
 **Seniors’ Free Matinee: UK Theatrical Premiere: Wild and Free, Twice Daily + Q&A**
-
 Mon 9 Jan 14:00
-
 **Silent Cinema: Metropolis + intro by Bryony Dixon, BFI Curator**
-
 Sun 15 Jan 14:40
-
 **Projecting the Archive: Thunder in the City + intro by Jo Botting, BFI Curator**
-
 Tue 17 Jan 18:20
-
 **Experimenta: Nation’s Finest, Putting Down Roots and Birthing + Q&A**
-
 Wed 25 Jan 18:15
-
 **Relaxed Screening: The Hidden Fortress + intro & discussion**
 Mon 30 Jan 18:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0ODI1MzJdfQ==
+eyJoaXN0b3J5IjpbLTIxMTYzNjYzODRdfQ==
 -->
