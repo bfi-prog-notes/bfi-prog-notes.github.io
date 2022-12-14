@@ -67,98 +67,98 @@ _Director of Photography:_ Roger Pratt
 _Camera Operator:_ Craig Haagensen  
 _B Camera Operators:_ Kyle Rudolph, Peter Norman  
 _Still Photographer:_ Phil Caruso  
-_Computer Graphics/Digital/Optical FX by:_ Peerless Camera Company
-_Special FX Mechanical/Pyrotechnic Engineer:_ Vincent Montefusco
-_Graphic Artist:_ R. Scott Purcell
-_Editor:_ Mick Audsley
-_Production Designer:_ Jeffrey Beecroft
-_Art Director:_ Wm Ladd Skinner
-_Interrogation Room Inspired by the Works of:_ Lebbeus Woods
-_Art Department Co-ordinator:_ Lara Kelly
-_Set Decorator:_ Crispian Sallis
-_Production Illustrator:_ Matt Codd
-_Property Master:_ Douglas Harlocker
-_Prop Builder:_ Rick Gamez
-_Costume Designer:_ Julie Weiss
-_Costume Supervisor:_ Eric Sandberg
-_Wardrobe Supervisor:_ Melissa Stanton
-_Make-up/Hair Designer:_ Christina Beveridge
-_Make-up Artist:_ Alan Weisinger
-_Key Hairstylist:_ Peggy Nicholson
-_Title Design:_ Penny Causer
-_Music Composer and Conductor:_ Paul Buckmaster
-_Orchestral Leader:_ Gayvn Wright
-_Music Editor:_ Robin Clarke
-_Sound Mixer:_ Jay Meagher
-_Boom Operator:_ Randy Smith
-_Re-recording Mixers:_ Peter Maxwell, Mick Boggis, Clive Pendry
-_Digital Sound Adviser:_ Nick Church
-_Supervising Sound Editor:_ Peter Joly
-_Sound Editor:_ Imogen Pollard
-_Digital Sound Editor:_ Jennie Evans
-_Dialogue Editor:_ Danny Longhurst
-_ADR Mixers:_ Thomas J. O’Connell, Dominick Tavella
-_ADR Editor:_ Budge Tremlett
-_Foley Artists:_ Jack Stew, Diane Greaves, Jason Swanscott
-_Foley Recordist:_ Ted Swanscott
-_Foley Editor:_ Ian Wilson
-_Stunt Co-ordinator:_ Terry Jackson
-_Animal Co-ordinator:_ Ernie Karpeles
+_Computer Graphics/Digital/Optical FX by:_ Peerless Camera Company  
+_Special FX Mechanical/Pyrotechnic Engineer:_ Vincent Montefusco  
+_Graphic Artist:_ R. Scott Purcell  
+_Editor:_ Mick Audsley  
+_Production Designer:_ Jeffrey Beecroft  
+_Art Director:_ Wm Ladd Skinner  
+_Interrogation Room Inspired by the Works of:_ Lebbeus Woods  
+_Art Department Co-ordinator:_ Lara Kelly  
+_Set Decorator:_ Crispian Sallis  
+_Production Illustrator:_ Matt Codd  
+_Property Master:_ Douglas Harlocker  
+_Prop Builder:_ Rick Gamez  
+_Costume Designer:_ Julie Weiss  
+_Costume Supervisor:_ Eric Sandberg  
+_Wardrobe Supervisor:_ Melissa Stanton  
+_Make-up/Hair Designer:_ Christina Beveridge  
+_Make-up Artist:_ Alan Weisinger  
+_Key Hairstylist:_ Peggy Nicholson  
+_Title Design:_ Penny Causer  
+_Music Composer and Conductor:_ Paul Buckmaster  
+_Orchestral Leader:_ Gayvn Wright  
+_Music Editor:_ Robin Clarke  
+_Sound Mixer:_ Jay Meagher  
+_Boom Operator:_ Randy Smith  
+_Re-recording Mixers:_ Peter Maxwell, Mick Boggis, Clive Pendry  
+_Digital Sound Adviser:_ Nick Church  
+_Supervising Sound Editor:_ Peter Joly  
+_Sound Editor:_ Imogen Pollard  
+_Digital Sound Editor:_ Jennie Evans  
+_Dialogue Editor:_ Danny Longhurst  
+_ADR Mixers:_ Thomas J. O’Connell, Dominick Tavella  
+_ADR Editor:_ Budge Tremlett  
+_Foley Artists:_ Jack Stew, Diane Greaves, Jason Swanscott  
+_Foley Recordist:_ Ted Swanscott  
+_Foley Editor:_ Ian Wilson  
+_Stunt Co-ordinator:_ Terry Jackson  
+_Animal Co-ordinator:_ Ernie Karpeles  
 
-**Cast**
-Bruce Willis _(James Cole)_
-Madeleine Stowe _(Kathryn Railly)_
-Brad Pitt _(Jeffrey Goines)_
-Christopher Plummer _(Dr Goines)_
-Frank Gorshin _(Dr Fletcher)_
-Jon Seda _(Jose)_
-Ernest Abuba _(engineer)_
-Bill Raymond _(microbiologist)_
-Simon Jones _(zoologist)_
-Bob Adrian _(geologist)_
-Carol Florence _(astrophysicist)_
-H. Michael Walls _(botanist)_
-Joseph Melito _(young Cole)_
-Michael Chance _(Scarface)_
-Vernon Campbell _(Tiny)_
-Irma St. Paule _(poet)_
-Joey Perillo _(Detective Franki)_
-Bruce Kirkpatrick _(policeman no.1)_
-Wilfred Williams _(policeman no.2)_
-Rozwill Young _(Billings)_
-Nell Johnson _(ward nurse)_
-Fred Strother _(L.J. Washington)_
-Rick Warner _(Dr Casey)_
-Anthony ‘Chip’ Brienza _(Dr Goodin)_
-Joliet Harris _(harassed mother)_
-Drucie McDaniel _(waltzing woman patient)_
-John Blaisse _(old man patient)_
-Louis Lippa _(patient at gate)_
-Stan Kang _(x-ray doctor)_
-Pat Dias _(WWI captain)_
-Aaron Michael Lacey _(WWI sergeant)_
-David Morse _(Dr Peters)_
-Charles Techman _(professor)_
-Jann Ellis _(Marilou)_
-Johnnie Hobbs Jr _(officer no.1)_
-Janet L. Zappala _(anchorwoman)_
-Thomas Roy _(evangelist)_
-Harry O’Toole _(Louie/raspy voice)_
-Korchenko _(thug no.1)_
-Chuck Jeffreys _(thug no.2)_
-Lisa Gay Hamilton _(Teddy)_
-Felix A. Pire _(Fale)_
-Matthew Ross _(Bee)_
-Barry Price _(agent no.1)_
-John Panzarella _(agent no.2)_
-Larry Daly _(agent no.3)_
-Arthur Fennell _(anchorman)_
-Karl Warren _(pompous man)_
-Christopher Meloni _(Lt Halperin)_
-Paul Meshejian _(Detective Dalva)_
-Robert O’Neill _(Wayne)_
-Kevin Thigpen _(Kweskin)_
-Lee Golden _(hotel clerk)_
+**Cast**  
+Bruce Willis _(James Cole)_  
+Madeleine Stowe _(Kathryn Railly)_  
+Brad Pitt _(Jeffrey Goines)_  
+Christopher Plummer _(Dr Goines)_  
+Frank Gorshin _(Dr Fletcher)_  
+Jon Seda _(Jose)_  
+Ernest Abuba _(engineer)_  
+Bill Raymond _(microbiologist)_  
+Simon Jones _(zoologist)_  
+Bob Adrian _(geologist)_  
+Carol Florence _(astrophysicist)_  
+H. Michael Walls _(botanist)_  
+Joseph Melito _(young Cole)_  
+Michael Chance _(Scarface)_  
+Vernon Campbell _(Tiny)_  
+Irma St. Paule _(poet)_  
+Joey Perillo _(Detective Franki)_  
+Bruce Kirkpatrick _(policeman no.1)_  
+Wilfred Williams _(policeman no.2)_  
+Rozwill Young _(Billings)_  
+Nell Johnson _(ward nurse)_  
+Fred Strother _(L.J. Washington)_  
+Rick Warner _(Dr Casey)_  
+Anthony ‘Chip’ Brienza _(Dr Goodin)_  
+Joliet Harris _(harassed mother)_  
+Drucie McDaniel _(waltzing woman patient)_  
+John Blaisse _(old man patient)_  
+Louis Lippa _(patient at gate)_  
+Stan Kang _(x-ray doctor)_  
+Pat Dias _(WWI captain)_  
+Aaron Michael Lacey _(WWI sergeant)_  
+David Morse _(Dr Peters)_  
+Charles Techman _(professor)_  
+Jann Ellis _(Marilou)_  
+Johnnie Hobbs Jr _(officer no.1)_  
+Janet L. Zappala _(anchorwoman)_  
+Thomas Roy _(evangelist)_  
+Harry O’Toole _(Louie/raspy voice)_  
+Korchenko _(thug no.1)_  
+Chuck Jeffreys _(thug no.2)_  
+Lisa Gay Hamilton _(Teddy)_  
+Felix A. Pire _(Fale)_  
+Matthew Ross _(Bee)_  
+Barry Price _(agent no.1)_  
+John Panzarella _(agent no.2)_  
+Larry Daly _(agent no.3)_  
+Arthur Fennell _(anchorman)_  
+Karl Warren _(pompous man)_  
+Christopher Meloni _(Lt Halperin)_  
+Paul Meshejian _(Detective Dalva)_  
+Robert O’Neill _(Wayne)_  
+Kevin Thigpen _(Kweskin)_  
+Lee Golden _(hotel clerk)_  
 Joseph McKenna _(Wallace)_
 Jeff Tanner _(plain clothes cop)_
 Faith Potts _(store clerk)_
@@ -179,5 +179,5 @@ Stephen Bridgewater
 USA 1995©
 129 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDkxOTk1NiwtMTQ5MTU1MzI5M119
+eyJoaXN0b3J5IjpbNTg0MDM2OTcyLC0xNDkxNTUzMjkzXX0=
 -->
