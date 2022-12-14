@@ -163,9 +163,7 @@ _ADR Editor:_ Budge Tremlett
 _Foley Artists:_ Jack Stew, Diane Greaves, Jason Swanscott
 
 _Foley Recordist:_ Ted Swanscott
-
 _Foley Editor:_ Ian Wilson
-
 _Stunt Co-ordinator:_ Terry Jackson
 _Animal Co-ordinator:_ Ernie Karpeles
 
@@ -243,5 +241,5 @@ Stephen Bridgewater
 USA 1995©
 129 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTE1NTMyOTNdfQ==
+eyJoaXN0b3J5IjpbMjAzNzk2NzEsLTE0OTE1NTMyOTNdfQ==
 -->
