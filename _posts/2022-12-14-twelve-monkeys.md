@@ -1,7 +1,5 @@
 
 
-<![endif]-->
-
 Dangling in mid-air, the bald man works diligently, sifting through clues to a monumental puzzle, piece by piece. Across one wall of a forbidding 21st century archive he has pasted the headlines of newspapers and magazines from around the world, dated 1996-97, announcing five thousand million deaths from a ravaging plague. The mutated virus, origin unknown, has left the surface of the planet uninhabitable. Only by ‘sealed-suit’ excursions into the outside air and transportation back in time can information for a cure be obtained, to rescue what remains of humanity.
 
 This could be the last gasp of civilisation as we know it. It could also be the distorted, ‘mentally divergent’ vision of James Cole, a violence-prone lunatic being held for psychiatric evaluation at a Baltimore institution in 1990. Cole (Bruce Willis) believes he is an emissary from the future, charged with discovering this epochal event’s cause, which he suspects may be the mysterious ‘Army of the 12 Monkeys’.
@@ -14,7 +12,7 @@ Like Cole, Gilliam may feel himself a bit out of his time (or his mind), having 
 
 Elliptical though it may be, he claims that this material is straighter than anything he’s done before. But he can’t seem not to go to extremes with his imagery, using wide-angle lenses and brutal close-ups to make Cole’s visions and surroundings even more hellish and claustrophobic. Indeed, scenes shot in the decayed Eastern State Penitentiary in Pennsylvania – built by Quakers in the 1820s, turned into a mental hospital by Gilliam’s crew – exude a suffocatingly disturbing air.
 
-He and production designer Jeffrey Beecroft (_Dances with Wolves_, _The Bodyguard_) strenuously sought to avoid designing and shooting in any style that called to mind earlier Gilliam films. They felt the freshness of _Twelve Monkeys_’ script deserved its own special visual trademark just as _La Jetée’_s haunting static images evoked a unique place, outside of time). Much of their inspiration, at least for those scenes employing Cole’s haunted POV, comes from the sadness of Josef Sudek’s photography, as well as the fantasies of illustrator Lebbeus Woods, whose radical architectural designs have never been built because they wouldn’t stand up.
+He and production designer Jeffrey Beecroft (_Dances with Wolves_, _The Bodyguard_) strenuously sought to avoid designing and shooting in any style that called to mind earlier Gilliam films. They felt the freshness of _Twelve Monkeys_’ script deserved its own special visual trademark just as _La Jetée’_ s haunting static images evoked a unique place, outside of time). Much of their inspiration, at least for those scenes employing Cole’s haunted POV, comes from the sadness of Josef Sudek’s photography, as well as the fantasies of illustrator Lebbeus Woods, whose radical architectural designs have never been built because they wouldn’t stand up.
 
 ‘It just seems that I have this German-Expressionistic-Destructivist-Russian-Constructivist view of the future,’ Gilliam says with a shrug. ‘It’s really hard not to do some of _Brazil_,’ says Beecroft, discussing Cole’s subterranean refuge. ‘But if the world stopped today, and you can only take things down below now, what could you find down there? These people put all this stuff together, and then had to kind of make-up things, jerry-rig machines together, so they’re hydraulic and steam-driven. In terms of lasers and all that stuff, we could have gone that way, but it’s not as fun.’
 
@@ -40,57 +38,35 @@ _Twelve Monkeys_ may prove to be Gilliam’s most intimate film; despite the dis
 
 ‘This time, I thought I wanted to do things just like everybody else does, the way they do it in a real movie. But when you’re towing a vehicle or putting it on the back of a low loader you can’t be in there with the actors. And they get distracted; it’s hard to get good performances. Now when you’re doing it [in the streets] the senses are being battled; the wind’s blowing, everything’s banging, crashing, it’s very exciting! Then you look at it on film, and the performances are not what they should be, so what the fuck are we doing? It’s a great waste of time.
 
-‘So we’ve reverted to using all these old tricks, going with blue screen and a car on a stage, and the performances are really good now. I had thought it was the complicated way of doing things; in fact, it’s the more intelligent way of doing things.’
+‘So we’ve reverted to using all these old tricks, going with blue screen and a car on a stage, and the performances are really good now. I had thought it was the complicated way of doing things; in fact, it’s the more intelligent way of doing things.’  
+**David Morgan, _Sight and Sound_, January 1996**  
 
-**David Morgan, _Sight and Sound_, January 1996**
-
-**TWELVE MONKEYS**
-
-_Directed by:_ Terry Gilliam
-
-_©:_ Universal City Studios, Inc.
-
-_Polygram Filmed Entertainment and Universal Pictures present an Atlas Entertainment production_
-
-_Executive Producers:_ Robert Cavallo, Gary Levinsohn, Robert Kosberg
-
-_Produced by:_ Charles Roven
-
-_Co-producer:_ Lloyd Phillips
-
-_Associate Producers:_ Kelley Smith-Wait, Mark Egerton
-
-_Atlas Production Executive:_ Richard Suckle
-
-_Production Accountant:_ Mathilde Valera
-
-_Production Co-ordinator:_ Elizabeth Nevin
-
-_2nd Unit Co-ordinator:_ Ellen Hillers
-
-_Unit Production Manager:_ Lloyd Phillips
-
-_Location Manager:_ Scott Elias
-
-_Post-production Co-ordinator:_ Lucy Darwin
-
-_1st Assistant Director:_ Mark Egerton
-
-_2nd Assistant Director:_ Philip A. Patterson
-
-_Script Supervisor:_ Marilyn Bailey
-
-_Casting:_ Margery Simkin
-
-_Philadelphia Casting:_ Mike Lemon
-
-_Screenplay by:_ David Peoples, Janet Peoples
-
-_Inspired by the film_ La Jetée _written by:_ Chris Marker
-_Director of Photography:_ Roger Pratt
-_Camera Operator:_ Craig Haagensen
-_B Camera Operators:_ Kyle Rudolph, Peter Norman
-_Still Photographer:_ Phil Caruso
+**TWELVE MONKEYS**  
+_Directed by:_ Terry Gilliam  
+_©:_ Universal City Studios, Inc.  
+_Polygram Filmed Entertainment and Universal Pictures present an Atlas Entertainment production_  
+_Executive Producers:_ Robert Cavallo, Gary Levinsohn, Robert Kosberg  
+_Produced by:_ Charles Roven  
+_Co-producer:_ Lloyd Phillips  
+_Associate Producers:_ Kelley Smith-Wait, Mark Egerton  
+_Atlas Production Executive:_ Richard Suckle  
+_Production Accountant:_ Mathilde Valera  
+_Production Co-ordinator:_ Elizabeth Nevin  
+_2nd Unit Co-ordinator:_ Ellen Hillers  
+_Unit Production Manager:_ Lloyd Phillips  
+_Location Manager:_ Scott Elias  
+_Post-production Co-ordinator:_ Lucy Darwin  
+_1st Assistant Director:_ Mark Egerton  
+_2nd Assistant Director:_ Philip A. Patterson  
+_Script Supervisor:_ Marilyn Bailey   
+_Casting:_ Margery Simkin 
+_Philadelphia Casting:_ Mike Lemon  
+_Screenplay by:_ David Peoples, Janet Peoples  
+_Inspired by the film_ La Jetée _written by:_ Chris Marker  
+_Director of Photography:_ Roger Pratt  
+_Camera Operator:_ Craig Haagensen  
+_B Camera Operators:_ Kyle Rudolph, Peter Norman  
+_Still Photographer:_ Phil Caruso  
 _Computer Graphics/Digital/Optical FX by:_ Peerless Camera Company
 _Special FX Mechanical/Pyrotechnic Engineer:_ Vincent Montefusco
 _Graphic Artist:_ R. Scott Purcell
@@ -203,5 +179,5 @@ Stephen Bridgewater
 USA 1995©
 129 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjAwNTcsLTE0OTE1NTMyOTNdfQ==
+eyJoaXN0b3J5IjpbLTUwMDkxOTk1NiwtMTQ5MTU1MzI5M119
 -->
