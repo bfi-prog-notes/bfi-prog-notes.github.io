@@ -87,81 +87,43 @@ _Philadelphia Casting:_ Mike Lemon
 _Screenplay by:_ David Peoples, Janet Peoples
 
 _Inspired by the film_ La Jetée _written by:_ Chris Marker
-
 _Director of Photography:_ Roger Pratt
-
 _Camera Operator:_ Craig Haagensen
-
 _B Camera Operators:_ Kyle Rudolph, Peter Norman
-
 _Still Photographer:_ Phil Caruso
-
 _Computer Graphics/Digital/Optical FX by:_ Peerless Camera Company
-
 _Special FX Mechanical/Pyrotechnic Engineer:_ Vincent Montefusco
-
 _Graphic Artist:_ R. Scott Purcell
-
 _Editor:_ Mick Audsley
-
 _Production Designer:_ Jeffrey Beecroft
-
 _Art Director:_ Wm Ladd Skinner
-
 _Interrogation Room Inspired by the Works of:_ Lebbeus Woods
-
 _Art Department Co-ordinator:_ Lara Kelly
-
 _Set Decorator:_ Crispian Sallis
-
 _Production Illustrator:_ Matt Codd
-
 _Property Master:_ Douglas Harlocker
-
 _Prop Builder:_ Rick Gamez
-
 _Costume Designer:_ Julie Weiss
-
 _Costume Supervisor:_ Eric Sandberg
-
 _Wardrobe Supervisor:_ Melissa Stanton
-
 _Make-up/Hair Designer:_ Christina Beveridge
-
 _Make-up Artist:_ Alan Weisinger
-
 _Key Hairstylist:_ Peggy Nicholson
-
 _Title Design:_ Penny Causer
-
 _Music Composer and Conductor:_ Paul Buckmaster
-
 _Orchestral Leader:_ Gayvn Wright
-
 _Music Editor:_ Robin Clarke
-
 _Sound Mixer:_ Jay Meagher
-
 _Boom Operator:_ Randy Smith
-
 _Re-recording Mixers:_ Peter Maxwell, Mick Boggis, Clive Pendry
-
 _Digital Sound Adviser:_ Nick Church
-
 _Supervising Sound Editor:_ Peter Joly
-
 _Sound Editor:_ Imogen Pollard
-
 _Digital Sound Editor:_ Jennie Evans
-
 _Dialogue Editor:_ Danny Longhurst
-
 _ADR Mixers:_ Thomas J. O’Connell, Dominick Tavella
-
 _ADR Editor:_ Budge Tremlett
-
 _Foley Artists:_ Jack Stew, Diane Greaves, Jason Swanscott
-
 _Foley Recordist:_ Ted Swanscott
 _Foley Editor:_ Ian Wilson
 _Stunt Co-ordinator:_ Terry Jackson
@@ -241,5 +203,5 @@ Stephen Bridgewater
 USA 1995©
 129 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzk2NzEsLTE0OTE1NTMyOTNdfQ==
+eyJoaXN0b3J5IjpbLTk2MjAwNTcsLTE0OTE1NTMyOTNdfQ==
 -->
