@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Twelve Monkeys
+published: true
+date: 2022-12-14
+readtime: true
+categories: ['MEMBER PICKS']
+tags: [Sci-Fi]
+metadata: 'USA 1995, 129 mins<br> Director: Terry Gilliam'
+pdf: '2022-12-14-twelve-monkeys.pdf'
+---
 
 Dangling in mid-air, the bald man works diligently, sifting through clues to a monumental puzzle, piece by piece. Across one wall of a forbidding 21st century archive he has pasted the headlines of newspapers and magazines from around the world, dated 1996-97, announcing five thousand million deaths from a ravaging plague. The mutated virus, origin unknown, has left the surface of the planet uninhabitable. Only by ‘sealed-suit’ excursions into the outside air and transportation back in time can information for a cure be obtained, to rescue what remains of humanity.
 
@@ -178,7 +188,21 @@ Stephen Bridgewater
 
 USA 1995©  
 129 mins  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQwOTMzOTYsLTE0OTE1NTMyOTNdfQ
-==
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
