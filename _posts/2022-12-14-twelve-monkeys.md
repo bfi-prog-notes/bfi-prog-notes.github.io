@@ -167,73 +167,40 @@ _Foley Recordist:_ Ted Swanscott
 _Foley Editor:_ Ian Wilson
 
 _Stunt Co-ordinator:_ Terry Jackson
-
 _Animal Co-ordinator:_ Ernie Karpeles
 
 **Cast**
-
 Bruce Willis _(James Cole)_
-
 Madeleine Stowe _(Kathryn Railly)_
-
 Brad Pitt _(Jeffrey Goines)_
-
 Christopher Plummer _(Dr Goines)_
-
 Frank Gorshin _(Dr Fletcher)_
-
 Jon Seda _(Jose)_
-
 Ernest Abuba _(engineer)_
-
 Bill Raymond _(microbiologist)_
-
 Simon Jones _(zoologist)_
-
 Bob Adrian _(geologist)_
-
 Carol Florence _(astrophysicist)_
-
 H. Michael Walls _(botanist)_
-
 Joseph Melito _(young Cole)_
-
 Michael Chance _(Scarface)_
-
 Vernon Campbell _(Tiny)_
-
 Irma St. Paule _(poet)_
-
 Joey Perillo _(Detective Franki)_
-
 Bruce Kirkpatrick _(policeman no.1)_
-
 Wilfred Williams _(policeman no.2)_
-
 Rozwill Young _(Billings)_
-
 Nell Johnson _(ward nurse)_
-
 Fred Strother _(L.J. Washington)_
-
 Rick Warner _(Dr Casey)_
-
 Anthony ‘Chip’ Brienza _(Dr Goodin)_
-
 Joliet Harris _(harassed mother)_
-
 Drucie McDaniel _(waltzing woman patient)_
-
 John Blaisse _(old man patient)_
-
 Louis Lippa _(patient at gate)_
-
 Stan Kang _(x-ray doctor)_
-
 Pat Dias _(WWI captain)_
-
 Aaron Michael Lacey _(WWI sergeant)_
-
 David Morse _(Dr Peters)_
 Charles Techman _(professor)_
 Jann Ellis _(Marilou)_
@@ -276,5 +243,5 @@ Stephen Bridgewater
 USA 1995©
 129 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4MDc2MjczXX0=
+eyJoaXN0b3J5IjpbLTE0OTE1NTMyOTNdfQ==
 -->
