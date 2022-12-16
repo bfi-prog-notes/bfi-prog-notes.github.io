@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Tangerine
+published: true
+date: 2022-12-16
+readtime: true
+categories: ['CHRISTMAS FILMS']
+tags: [Drama]
+metadata: 'USA 2015, 88 mins<br> Director: Sean Baker'
+pdf: '2022-12-16-tangerine.pdf'
+---
 
 On Christmas Eve, a couple of transgender sex workers meet-up at a donut shop in Hollywood. From there, the evening pans out, encompassing discovered infidelity, police interference, an impressive stage performance and family break-up. Sean Baker’s joyous micro-budget tale was shot on iPhones and offers a very different addition to the festive canon.  
 **bfi.org.uk**  
