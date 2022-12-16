@@ -5,7 +5,7 @@ published: true
 date: 2022-12-16
 readtime: true
 categories: ['CHRISTMAS FILMS']
-tags: [Drama]
+tags: [Drama, Comedy]
 metadata: 'USA 2015, 88 mins<br> Director: Sean Baker'
 pdf: '2022-12-16-tangerine.pdf'
 ---
