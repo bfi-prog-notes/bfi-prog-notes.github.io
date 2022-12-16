@@ -50,9 +50,8 @@ We shot the exteriors on Christina O, the old Onassis yacht, which turned out to
 
 _Finally, do you see_ Force Majeure _,_ The Square _and_ Triangle of Sadness _as a loosely connected trilogy exploring masculinity in modern times?_
 
-Yes, I started to think about this when I was writing _Triangle of Sadness_. All the men in these films are trying to deal with who they are supposed to be and what is expected of them. They are then put in a trap in order to see how they behave. For me, these three films have really been a way of setting up a dilemma for myself, of cornering myself. What would I do if I was dealing with this? As soon as the answer appears to be easy, then it’s not so interesting. But if it is hard, then I am interested.
-
-**Production notes**
+Yes, I started to think about this when I was writing _Triangle of Sadness_. All the men in these films are trying to deal with who they are supposed to be and what is expected of them. They are then put in a trap in order to see how they behave. For me, these three films have really been a way of setting up a dilemma for myself, of cornering myself. What would I do if I was dealing with this? As soon as the answer appears to be easy, then it’s not so interesting. But if it is hard, then I am interested.  
+**Production notes**  
 <br><br>
 
 **TRIANGLE OF SADNESS**<br>
@@ -101,29 +100,31 @@ A Curzon release<br>
 <br>
 
 **NEW RELEASES**<br>
-**Decision to Leave (Heojil Kyolshim)**<br>
-From Mon 17 Oct<br>
-**Triangle of Sadness**<br>
-From Fri 28 Oct<br>
-**The Banshees of Inisherin**<br>
-From Fri 28 Oct<br>
-**The Greenaway Alphabet**<br>
-From Fri 11 Nov<br>
-**Aftersun**<br>
-From Fri 18 Nov<br>
-**What Do We See When We Look at the Sky? (Ras vkhedavt, rodesac cas vukurebt?)**<br>
-From Fri 25 Nov<br>
+**Lynch/Oz**  
+From Fri 2 Dec  
+**Bones and All**  
+From Fri 2 Dec  
+**Tori and Lokita**  
+From Fri 9 Dec  
+**Triangle of Sadness**  
+From Fri 16 Dec  
+**Decision to Leave**  
+From Fri 16 Dec  
+**The Banshees of Inisherin**  
+From Fri 16 Dec  
+**She Said**  
+From Sat 17 Dec  
+**Living**  
+From Mon 19 Dec  
+**Corsage**  
+From Tue 27 Dec  
 
-**RE-RELEASES**<br>
-**The Others**<br>
-From Mon 17 Oct<br>
-**Poltergeist**<br>
-From Fri 21 Oct<br>
-**Nil by Mouth**<br>
-From Fri 4 Nov (Preview on Thu 20 Oct 20:20; extended intro by Geoff Andrew, Programmer at Large on Fri 4 Nov 17:50; intro by Kieron Webb, Head of Conservation, BFI Archive on Mon 7 Nov 18:00)<br>
-**The Draughtsman’s Contract**<br>
-From Fri 11 Nov (+ intro by Kieron Webb, Head of Conservation, BFI National Archive on Fri 11 Nov 17:50)<br>
-<br>
+**RE-RELEASES**  
+**Fanny and Alexander (Fanny och Alexander)**  
+From Fri 2 Dec  
+**The Queen of Spades**  
+From Fri 23 Dec  
+
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
