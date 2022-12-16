@@ -47,15 +47,12 @@ _Costume Designer_: Gersha Phillips
 _Music by_: Terence Blanchard  
 _Sound Designer_: Jay Wilkinson  
 _Production [Sound] Mixer_: Derek Mansvelt
-
 _Re-recording Mixers_: Kevin O'Connell, Tony Lamberti  
 _Supervising Sound Editor_: Becky Sullivan  
 _Sound Effects Editor_: Hector Gika  
 _Stunt Coordinator/Fight Coordinator_: Daniel Hernandez  
 _Stunt Co-ordinator_: Grant Powell  
-_Fight Coordinators_: Johnny Gao, Filip Ciprian Florian,
-
-Stuart Jacob Williamson
+_Fight Coordinators_: Johnny Gao, Filip Ciprian Florian, Stuart Jacob Williamson  
 
 **Cast**  
 Viola Davis _(Nanisca)_  
@@ -68,40 +65,40 @@ Jayme Lawson _(Shante)_
 Adrienne Warren _(Ode)_  
 Masali Baduza _(Fumbe)_  
 Jordan Bolger _(Malik Diallo)_  
-Jimmy Odukoya _(Oba Ade)_
+Jimmy Odukoya _(Oba Ade)_  
 
-USA/Canada 2022
-135 mins
+USA/Canada 2022  
+135 mins  
 
-**REGULAR PROGRAMME**
-**Art in the Making: News from Nowhere + intro by Rowan Bain, Principle Curator at William Morris Gallery TBC**
-Thu 5 Jan 18:20
-**African Odysseys: Hussein Shariffe: A Life Between Exile and Homecoming**
-Sat 7 Jan 12:00-17:00
-**Seniors’ Free Matinee: UK Theatrical Premiere: Wild and Free, Twice Daily + Q&A**
-Mon 9 Jan 14:00
-**Silent Cinema: Metropolis + intro by Bryony Dixon, BFI Curator**
-Sun 15 Jan 14:40
-**Projecting the Archive: Thunder in the City + intro by Jo Botting, BFI Curator**
-Tue 17 Jan 18:20
-**Experimenta: Nation’s Finest, Putting Down Roots and Birthing + Q&A**
-Wed 25 Jan 18:15
-**Relaxed Screening: The Hidden Fortress + intro & discussion**
-Mon 30 Jan 18:00
+**REGULAR PROGRAMME**  
+**Art in the Making: News from Nowhere + intro by Rowan Bain, Principle Curator at William Morris Gallery TBC**  
+Thu 5 Jan 18:20  
+**African Odysseys: Hussein Shariffe: A Life Between Exile and Homecoming**  
+Sat 7 Jan 12:00-17:00  
+**Seniors’ Free Matinee: UK Theatrical Premiere: Wild and Free, Twice Daily + Q&A**  
+Mon 9 Jan 14:00  
+**Silent Cinema: Metropolis + intro by Bryony Dixon, BFI Curator**  
+Sun 15 Jan 14:40  
+**Projecting the Archive: Thunder in the City + intro by Jo Botting, BFI Curator**  
+Tue 17 Jan 18:20  
+**Experimenta: Nation’s Finest, Putting Down Roots and Birthing + Q&A**  
+Wed 25 Jan 18:15  
+**Relaxed Screening: The Hidden Fortress + intro & discussion**  
+Mon 30 Jan 18:00  
 
-**IN PERSON & PREVIEWS**
-**Woman with a Movie Camera Preview: All the Beauty and the Bloodshed**
-Sat 14 Jan 18:10
-**TV Preview: The Gold + Q&A with Hugh Bonneville, Jack Lowden, Dominic Cooper, Charlotte Spencer, director Aneil Karia and writer Neil Forsyth**
-Tue 17 Jan 18:15
-**MilkTea Presents Better Luck Tomorrow + virtual Q&A with Justin Lin**
-Sun 22 Jan 15:00
-**Mark Kermode Live in 3D at the BFI**
-Mon 23 Jan 18:30
-**TV Preview: Nolly + Q&A with writer Russell T Davies, cast member Mark Gatiss, executive producer Nicola Shindler and director Peter Hoar**
-Thu 26 Jan 18:10
-**Film Sounds: A Conversation between Mark Jenkin and Peter Strickland**
-Sun 29 Jan 13:00
+**IN PERSON & PREVIEWS**  
+**Woman with a Movie Camera Preview: All the Beauty and the Bloodshed**  
+Sat 14 Jan 18:10  
+**TV Preview: The Gold + Q&A with Hugh Bonneville, Jack Lowden, Dominic Cooper, Charlotte Spencer, director Aneil Karia and writer Neil Forsyth**  
+Tue 17 Jan 18:15  
+**MilkTea Presents Better Luck Tomorrow + virtual Q&A with Justin Lin**  
+Sun 22 Jan 15:00  
+**Mark Kermode Live in 3D at the BFI**  
+Mon 23 Jan 18:30  
+**TV Preview: Nolly + Q&A with writer Russell T Davies, cast member Mark Gatiss, executive producer Nicola Shindler and director Peter Hoar**  
+Thu 26 Jan 18:10  
+**Film Sounds: A Conversation between Mark Jenkin and Peter Strickland**  
+Sun 29 Jan 13:00  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjI3NzEwOV19
+eyJoaXN0b3J5IjpbMjA4NjQ0NTYwOV19
 -->
