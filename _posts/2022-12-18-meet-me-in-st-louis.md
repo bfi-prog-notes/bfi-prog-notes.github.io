@@ -1,7 +1,14 @@
-
-
-<![endif]-->
-
+---
+layout: post
+title: Meet Me In St. Louis
+published: true
+date: 2022-12-18
+readtime: true
+categories: ['CHRISTMAS FILMS']
+tags: [Musical]
+metadata: 'USA 1951, 87 mins<br> Director: Brian Desmond-Hurst'
+pdf: '2022-12-17-scrooge.pdf'
+---
 The closer you look at most famous Hollywood productions, the harder it is to see how they turned out all right – let alone to believe that anyone was in charge. Just as on any set the crew trusts that the film will go through the camera without jamming, so you come to credit a kind of providence ensuring that the big mess will get finished. Once it’s done, you’ve only the public, and they’re so daft you never know whether they’ll call the picture un-ironed (or unwashed) laundry or smooth as silk. But with _Meet Me in St. Louis_ just about everyone involved reckoned it was an unlikely project from the start. The only way you could have faith in it was to tell yourself that Arthur Freed was a man of immense taste and refinement. End of joke. Arthur Freed might have been the production chief on Metro musicals, with more talent at his disposal than any executive had ever seen. But he was the proverbial slob and arse-kisser. So trust Arthur! Except that Arthur was always asking Mr Mayer, ‘Whaddya you think, boss?’ And LB didn’t think this one would fly.
 
 Look at it cold on paper, and he had his reasons. Sally Benson’s charming sketches of family life in turn-of-the-century St. Louis had played very well in the _New Yorker_ as nostalgia. And in 1943 there were obvious advantages to cultivating fondness for Americana and the good old days. To be charitable, the material had something of Louisa May Alcott strained through a Midwestern catsup that would have erred, heavily, on the side of sweetness. But all that really happened in those pieces was that the family did eventually leave St. Louis for New York. It wasn’t enough. There wasn’t a story. And Louis B. Mayer had some notion in his head that even a musical needed a story. So he backed Judy Garland when she said it was high time for her to stop playing teenagers and be grown up. (And anyway Judy could see as well as anyone that the whole Halloween sequence was just a vehicle for that scene-stealing little Margaret O’Brien, one of her onscreen sisters, while everyone knew that Mr Freed favoured Lucille Bremer, who would be the other sister Rose, so how would you like to be Judy squeezed between the two?) But then something changed Mr Mayer’s mind. And since no one dared contemplate the inner mind of Mr Mayer, it wasn’t easy to guess what it had been. But it was wartime and people have a habit of saying that everything goes crazy then – and maybe it does, or maybe it’s just the excuse we grab at.
@@ -28,75 +35,41 @@ You can almost hear her laughing at herself, because of course she knew the talk
 St. Louis ‘till we rot’. This was a picture that played in the last winter of the war, when in their dreams at least, so many people only wanted to get home and find that it was the same, and hadn’t betrayed them.
 
 So _Meet Me in St. Louis_ got done, and Judy and Vincente somehow persuaded themselves that the screen’s light could be theirs too. So they got married, in June 1945. As for the picture, which has lasted so much longer, it cost $1.7 million (a lot – Metro built a whole block of  
-St. Louis) and made $7.5 million on its first run, a studio record after _Gone with the Wind_. So LB was right again. But he was always right in those days, or lucky enough to have that reputation.
-
-**David Thomson, _Sight and Sound_, December 2001**
+St. Louis) and made $7.5 million on its first run, a studio record after _Gone with the Wind_. So LB was right again. But he was always right in those days, or lucky enough to have that reputation.  
+**David Thomson, _Sight and Sound_, December 2001**  
 
 **MEET ME IN ST. LOUIS**
-
 _Director:_ Vincente Minnelli
-
 _Production Companies:_ Loew’s Incorporated, Metro-Goldwyn-Mayer
-
 _Producer:_ Arthur Freed
-
 _Screenplay:_ Irving Brecher, Fred F. Finklehoffe
-
 _Based on the novel by:_ Sally Benson
-
 _Director of Photography:_ George Folsey
-
 _Technicolor Colour Director:_ Natalie Kalmus
-
 _Film Editor:_ Albert Akst
-
 _Art Directors:_ Cedric Gibbons, Lemuel Ayers, Jack Martin Smith
-
 _Set Decorator:_ Edwin B. Willis
-
 _Associate:_ Paul Huldschinsky
-
 _Costume Designer:_ Sharaff
-
 _Costume Supervisor:_ Irene
-
 _Make-up Created by:_ Jack Dawn
-
 _Music Director:_ Georgie Stoll
-
 _Orchestrations:_ Conrad Salinger
-
 _Dance Director:_ Charles Walters
-
 _Recording Director:_ Douglas Shearer
-
 _uncredited_
-
 _Unit Manager:_ Dave Friedman
-
 _Assistant Directors:_ J.E. Jennings, Wallace Worsley
-
 _Associate Technicolor Colour Director:_ Henri Jaffa
-
 _2nd Camera:_ Robert Bronner
-
 _Matte Paintings Camera:_ Mark H. Davis
-
 _Miniature/Transparency Projection Shots:_ A. Arnold Gillespie
-
 _Matte Paintings:_ Warren Newcombe
-
 _Miniatures Assistant:_ Donald Jahraus
-
 _Music Adaptation:_ Roger Edens
-
 _Music Mixers:_ Mike McLaughlin, Herbert Stahlberg
-
 _Unit Mixer:_ Joe Edmondson
-
-_Re-recording/Effects Mixers:_ Standish J. Lambert, Frank Mackenzie, Robert Shirley, Newell Sparks, William Steinkamp, Michael Steinore,  
-John A. Williams
-
+_Re-recording/Effects Mixers:_ Standish J. Lambert, Frank Mackenzie, Robert Shirley, Newell Sparks, William Steinkamp, Michael Steinore,  John A. Williams
 _Voice Doubles for Mary Astor:_ Rose Paidar, Eileen Wilson
 
 **Cast**
@@ -176,5 +149,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDAyODU4OF19
+eyJoaXN0b3J5IjpbMTg5ODYxNTA2XX0=
 -->
