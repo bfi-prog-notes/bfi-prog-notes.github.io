@@ -12,20 +12,16 @@ Elsewhere, drunken cast members have to be operated like a puppet by the off scr
 
 Endlessly inventive and funny, _One Cut of the Dead_ was made for peanuts (allegedly ¥3 million, around $25,000) as an offshoot of an actors and filmmakers workshop that Ueda took part in at the Enbu Seminar drama school in Tokyo. It initially opened in just one cinema, an arthouse theatre in Tokyo for a six day run. But after the film came runner-up in the audience vote at the Udine Far East Festival and the reviews started rolling in, the film was given a well-deserved wider release, eventually reaching as many as 200 screens across Japan by March 2018. It was a box-office success and has continued to pick up fans as it made its journey to the west.
 
-Pity those poor souls who gave up on the film before it switches gears and becomes something far more than the terrible zombie found footage film that it first appears to be. And we should loudly applaud Ueda for having the courage to make a film that deliberately sets out to dismay its audience only to pull the rug from under them and transform into something so genuinely funny and clever. And if you enjoyed it once, be sure to watch it again – it’s a film that absolutely demands a second viewing when it suddenly, miraculously, becomes even funnier.
+Pity those poor souls who gave up on the film before it switches gears and becomes something far more than the terrible zombie found footage film that it first appears to be. And we should loudly applaud Ueda for having the courage to make a film that deliberately sets out to dismay its audience only to pull the rug from under them and transform into something so genuinely funny and clever. And if you enjoyed it once, be sure to watch it again – it’s a film that absolutely demands a second viewing when it suddenly, miraculously, becomes even funnier.  
+**Kevin Lyons, The EOFFTV Review, eofftvreview.wordpress.com, 11 October 2019**
+<br><br>
 
-Kevin Lyons, The EOFFTV Review, eofftvreview.wordpress.com, 11 October 2019
-
-<![endif]-->
-
-**ONE CUT OF THE DEAD (KAMERA O TOMERU NA!)**
-
+**ONE CUT OF THE DEAD (KAMERA O TOMERU NA!)**  
 _Director_: Shin’ichirô Ueda  
 _Production Company_: Enbu Seminar  
 _Production and Planning_: Panpokopina TV  
 _Producer_: Koji Ichihashi  
-_Assistant Directors_: Yuya Nakaizumi,  
-Konosuke Yoshida  
+_Assistant Directors_: Yuya Nakaizumi,  Konosuke Yoshida  
 _Writer_: Shin’ichirô Ueda  
 _Camera_: Tsuyoshi Sone  
 _Editor_: Shin’ichirô Ueda  
@@ -34,8 +30,7 @@ _Special Make-up Effects_: Kazuhide Shimohata
 _Music_: Nobuhiro Suzuki, Kyle Nagai  
 _Sound_: Komoda Kokichi
 
-_Cast:_
-
+**Cast**  
 Takayuki Hamatsu _(Higurashi)_  
 Mao _(Mao)_  
 Harumi Shuhama _(Nao)_  
@@ -50,9 +45,9 @@ Ayana Goda _(Ayana Kurihara)_
 Sakina Asamori _(Saki Matsuura)_  
 Yuzuki Akiyama _(Chinatsu)_
 
-Japan 2017
-
+Japan 2017  
 96 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODIzODY3NTJdfQ==
+eyJoaXN0b3J5IjpbLTEzMzU2NTM5NjNdfQ==
 -->
