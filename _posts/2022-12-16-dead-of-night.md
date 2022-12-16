@@ -1,6 +1,4 @@
 
-<![endif]-->
-
 _+ intro_
 
 Horror films or stories of the supernatural were little attempted in British cinema prior to the days of Hammer in the 1950s. There are the exceptions of course, such as _The Ghoul_ (1933) and _Dark Eyes of London_ (1939), but the field was, by and large, left open to Hollywood, and Universal Studios in particular. The fact that ‘H’ (for horror) films were banned by the British censor during the war years did not help matters. In 1944, Ealing encountered some success with the film _The_ _Halfway House_, not a horror film per se, but a story with supernatural elements in which a group of disparate people gathered at a remote inn gradually realise that the innkeeper and his daughter are ghosts. The success of this film served as an encouragement to Michael Balcon to produce something along similar lines. Thus was _Dead of Night_ born.
@@ -21,67 +19,37 @@ Despite the box office and critical success of _Dead of Night_, the following ye
 Of the film’s episodes ‘The Ventriloquist’s Dummy’ has enjoyed the most lasting influence. The same story has been used in at least two films since 1945, _Devil Doll_ (1963) with William Sylvester, and Richard Attenborough’s _Magic_ (1978) with Anthony Hopkins. It also resurfaced yet again in an episode of the American TV series _Tales from the Crypt_ (no relation to the Amicus film) with Don Rickles this time being the unfortunate ventriloquist. And what is Chucky in the unjustly reviled _Child’s Play_ series of films if not an extension of ‘Hugo’? The episode may have even been an influence on Hitchcock. The conclusion of _Psycho_, with Norman Bates in custody and finally dominated by the mother personality, bears striking similarities to the conclusion of ‘The Ventriloquist’s Dummy’ when Michael Redgrave is in custody and has succumbed totally to the ‘Hugo’ character, voice and all.
 
 The popularity and influence of this film lives on, and as a portmanteau film it remains unsurpassed. As Charles Barr stated in his history of Ealing, _Dead of Night_ is ‘after the comedies, the Ealing film most frequently revived and remembered, remaining one of the key films of the whole output’.
-
 **John Oliver, BFI National Archive**
 
 **DEAD OF NIGHT**
-
 _Directed by [2/4]:_ [Alberto] Cavalcanti
-
 _Directed by [5]:_ Charles Crichton
-
 _Directed by [1/6]:_ Basil Dearden
-
 _Directed by [3]:_ Robert Hamer
-
 _©:_ Ealing Studios
-
 _Presented by:_ Ealing Studios
-
 _Made and Recorded at:_ Ealing Studios
-
 _Produced by:_ Michael Balcon
-
 _Associate Producers:_ Sidney Cole, John Croydon
-
 _Unit Manager:_ Ronald Brantford
-
 _Production Supervisor:_ Hal Mason
-
 _Screen Play:_ John Baines, Angus MacPhail
-
 _Additional Dialogue by:_ T.E.B. Clarke
-
 _Based on original stories by [5]:_ H.G. Wells
-
 _Based on original stories by [3/4]:_ John Baines
-
 _Based on original stories by [1/6]:_ E.F. Benson
-
 _Based original stories by [2]:_ Angus MacPhail
-
 _Lighting:_ Stan Pavey, Douglas Slocombe
-
 _Camera Operators:_ Jack Parker, H. Julius
-
 _Special Effects:_ C. Richardson, L. Banes
-
 _Editor:_ Charles Hasse
-
 _Art Director:_ Michael Relph
-
 _Dresses:_ Bianca Mosca, Marion Horn
-
 _Make-up:_ Tom Shenton
-
 _Music Composed by:_ Georges Auric
-
 _Played by:_ The London Philharmonic Orchestra
-
 _Conducted by:_ Ernest Irving
-
 _Sound Supervisor:_ Eric Williams
-
 _Recordists:_ Len Page, A.E. Rudolph
 _uncredited_
 _Assistant Directors:_ Billy Russell, Rowland Douglas
@@ -163,5 +131,5 @@ Wed 25 Jan 18:15
 **Relaxed Screening: The Hidden Fortress + intro & discussion**
 Mon 30 Jan 18:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0MTk4MDg3XX0=
+eyJoaXN0b3J5IjpbLTY1NTUzMTMxNl19
 -->
