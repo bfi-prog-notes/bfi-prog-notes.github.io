@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Meet Me In St. Louis
+title: Meet Me in St. Louis
 published: true
 date: 2022-12-18
 readtime: true
 categories: ['CHRISTMAS FILMS']
 tags: [Musical]
-metadata: 'USA 1951, 87 mins<br> Director: Brian Desmond-Hurst'
-pdf: '2022-12-17-scrooge.pdf'
+metadata: 'USA 1944, 113mins<br> Director: Vincente Minelli'
+pdf: '2022-12-18-meet-me-in-st-louis.pdf'
 ---
 The closer you look at most famous Hollywood productions, the harder it is to see how they turned out all right – let alone to believe that anyone was in charge. Just as on any set the crew trusts that the film will go through the camera without jamming, so you come to credit a kind of providence ensuring that the big mess will get finished. Once it’s done, you’ve only the public, and they’re so daft you never know whether they’ll call the picture un-ironed (or unwashed) laundry or smooth as silk. But with _Meet Me in St. Louis_ just about everyone involved reckoned it was an unlikely project from the start. The only way you could have faith in it was to tell yourself that Arthur Freed was a man of immense taste and refinement. End of joke. Arthur Freed might have been the production chief on Metro musicals, with more talent at his disposal than any executive had ever seen. But he was the proverbial slob and arse-kisser. So trust Arthur! Except that Arthur was always asking Mr Mayer, ‘Whaddya you think, boss?’ And LB didn’t think this one would fly.
 
@@ -149,5 +149,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODYxNTA2XX0=
+eyJoaXN0b3J5IjpbMjE0MjUzMTkzXX0=
 -->
