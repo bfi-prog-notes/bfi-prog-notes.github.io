@@ -1,3 +1,14 @@
+---
+layout: post
+title: Experimenta Mixtape<br> Secret Santa Edition
+published: true
+date: 2022-12-16
+readtime: true
+categories: ['EXPERIMENTA']
+tags: [Experimental]
+metadata: ''
+pdf: '2022-12-16-black-panther.pdf'
+---
 
 W: Hi everybody, we hope you enjoyed the Experimenta Mixtape Secret Santa edition. Kristina and I have put together a whole load of different material which of course you’ve just seen. So today you saw, some of you saw, as you arrived, some opening music, which, um, I haven’t got written down directly in front of me. Can you remember what it was, Kristina?
 
@@ -35,7 +46,9 @@ W: And then an extract from Privilege by Peter Watkins from 1967, and finally…
 
 K: And finally, When Life is Good Again by Dolly Parton.
 
-W: And now us. Thanks for coming.
+W: And now us. Thanks for coming.  
+
+Total running time 110 mins  
 
 **REGULAR PROGRAMME**  
 **Art in the Making: News from Nowhere + intro by Rowan Bain, Principle Curator at William Morris Gallery TBC**  
@@ -52,6 +65,21 @@ Tue 17 Jan 18:20
 Wed 25 Jan 18:15  
 **Relaxed Screening: The Hidden Fortress + intro & discussion**  
 Mon 30 Jan 18:00  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzY5MTUxNV19
--->
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
