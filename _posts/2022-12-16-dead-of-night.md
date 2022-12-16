@@ -1,3 +1,14 @@
+---
+layout: post
+title: Dead of Night
+published: true
+date: 2022-12-16
+readtime: true
+categories: ['SENIORS']
+tags: [Horror, Fantasy]
+metadata: 'UK 1945, 102 mins<br> Director: Alberto Cavalcanti'
+pdf: '2022-12-16-dead-of-night.pdf'
+---
 
 _+ intro_
 
@@ -21,115 +32,130 @@ Of the film’s episodes ‘The Ventriloquist’s Dummy’ has enjoyed the most 
 The popularity and influence of this film lives on, and as a portmanteau film it remains unsurpassed. As Charles Barr stated in his history of Ealing, _Dead of Night_ is ‘after the comedies, the Ealing film most frequently revived and remembered, remaining one of the key films of the whole output’.
 **John Oliver, BFI National Archive**
 
-**DEAD OF NIGHT**
-_Directed by [2/4]:_ [Alberto] Cavalcanti
-_Directed by [5]:_ Charles Crichton
-_Directed by [1/6]:_ Basil Dearden
-_Directed by [3]:_ Robert Hamer
-_©:_ Ealing Studios
-_Presented by:_ Ealing Studios
-_Made and Recorded at:_ Ealing Studios
-_Produced by:_ Michael Balcon
-_Associate Producers:_ Sidney Cole, John Croydon
-_Unit Manager:_ Ronald Brantford
-_Production Supervisor:_ Hal Mason
-_Screen Play:_ John Baines, Angus MacPhail
-_Additional Dialogue by:_ T.E.B. Clarke
-_Based on original stories by [5]:_ H.G. Wells
-_Based on original stories by [3/4]:_ John Baines
-_Based on original stories by [1/6]:_ E.F. Benson
-_Based original stories by [2]:_ Angus MacPhail
-_Lighting:_ Stan Pavey, Douglas Slocombe
-_Camera Operators:_ Jack Parker, H. Julius
-_Special Effects:_ C. Richardson, L. Banes
-_Editor:_ Charles Hasse
-_Art Director:_ Michael Relph
-_Dresses:_ Bianca Mosca, Marion Horn
-_Make-up:_ Tom Shenton
-_Music Composed by:_ Georges Auric
-_Played by:_ The London Philharmonic Orchestra
-_Conducted by:_ Ernest Irving
-_Sound Supervisor:_ Eric Williams
-_Recordists:_ Len Page, A.E. Rudolph
-_uncredited_
-_Assistant Directors:_ Billy Russell, Rowland Douglas
-_2nd Assistant Director:_ Norman Hipwell
-_3rd Assistant Directors:_ Claude Hudson, P. Potter
-_Continuity:_ Elaine Schreyeck, Gwen Bartle
-_Assistant Continuity:_ M. Hamilton
-_Focus Pullers:_ Michael Shepherd, Gerry Turpin
-_Clapper Loaders:_ Gerry Levy, John Winbolt
-_Stills:_ Roy Gough
-_Assembly Cutter:_ Leslie Allen
-_Assistant Editor:_ Daphne Heathcote
-_2nd Assistant Editors:_ F. Thomson, E. Leverett, Seth Holt
-_Assistant Art Director:_ Jim Morahan
-_Draughtsmen:_ Heather Armitage, Len Wills
-_Boom Operators:_ N. Boulatoff, Tom Otter
-_Dubbing Editor:_ Mary Habberfield
+**DEAD OF NIGHT**  
+_Directed by [2/4]:_ [Alberto] Cavalcanti  
+_Directed by [5]:_ Charles Crichton  
+_Directed by [1/6]:_ Basil Dearden  
+_Directed by [3]:_ Robert Hamer  
+_©:_ Ealing Studios  
+_Presented by:_ Ealing Studios  
+_Made and Recorded at:_ Ealing Studios  
+_Produced by:_ Michael Balcon  
+_Associate Producers:_ Sidney Cole, John Croydon  
+_Unit Manager:_ Ronald Brantford  
+_Production Supervisor:_ Hal Mason  
+_Screen Play:_ John Baines, Angus MacPhail  
+_Additional Dialogue by:_ T.E.B. Clarke  
+_Based on original stories by [5]:_ H.G. Wells  
+_Based on original stories by [3/4]:_ John Baines  
+_Based on original stories by [1/6]:_ E.F. Benson  
+_Based original stories by [2]:_ Angus MacPhail  
+_Lighting:_ Stan Pavey, Douglas Slocombe  
+_Camera Operators:_ Jack Parker, H. Julius  
+_Special Effects:_ C. Richardson, L. Banes  
+_Editor:_ Charles Hasse  
+_Art Director:_ Michael Relph  
+_Dresses:_ Bianca Mosca, Marion Horn  
+_Make-up:_ Tom Shenton  
+_Music Composed by:_ Georges Auric  
+_Played by:_ The London Philharmonic Orchestra  
+_Conducted by:_ Ernest Irving  
+_Sound Supervisor:_ Eric Williams  
+_Recordists:_ Len Page, A.E. Rudolph  
+_uncredited_  
+_Assistant Directors:_ Billy Russell, Rowland Douglas  
+_2nd Assistant Director:_ Norman Hipwell  
+_3rd Assistant Directors:_ Claude Hudson, P. Potter  
+_Continuity:_ Elaine Schreyeck, Gwen Bartle  
+_Assistant Continuity:_ M. Hamilton  
+_Focus Pullers:_ Michael Shepherd, Gerry Turpin  
+_Clapper Loaders:_ Gerry Levy, John Winbolt  
+_Stills:_ Roy Gough  
+_Assembly Cutter:_ Leslie Allen  
+_Assistant Editor:_ Daphne Heathcote  
+_2nd Assistant Editors:_ F. Thomson, E. Leverett, Seth Holt  
+_Assistant Art Director:_ Jim Morahan  
+_Draughtsmen:_ Heather Armitage, Len Wills  
+_Boom Operators:_ N. Boulatoff, Tom Otter  
+_Dubbing Editor:_ Mary Habberfield  
 
-**Cast**
-The Hearse Driver
-Mervyn Johns _(Walter Craig)_
-Anthony Baird _(Hugh Grainger)_
-Robert Wyndham _(Dr Albury)_
-Judy Kelly _(Joyce Grainger)_
-Miles Malleson _(hearse driver)_
+**Cast**  
+The Hearse Driver  
+Mervyn Johns _(Walter Craig)_  
+Anthony Baird _(Hugh Grainger)_  
+Robert Wyndham _(Dr Albury)_  
+Judy Kelly _(Joyce Grainger)_  
+Miles Malleson _(hearse driver)_  
 
-**The Christmas Story**
-Sally Ann Howes _(Sally O’Hara)_
-Michael Allan _(Jimmy Watson)_
+**The Christmas Story**  
+Sally Ann Howes _(Sally O’Hara)_  
+Michael Allan _(Jimmy Watson)_  
 
-**The Haunted Mirror**
-Googie Withers _(Joan Cortland)_
-Ralph Michael _(Peter Cortland)_
-Esmé Percy _(Mr Rutherford, antique dealer)_
+**The Haunted Mirror**  
+Googie Withers _(Joan Cortland)_  
+Ralph Michael _(Peter Cortland)_  
+Esmé Percy _(Mr Rutherford, antique dealer)_  
 
-**The Ventriloquist’s Dummy**
-Frederick Valk _(Dr Van Straaten)_
-Allan Jeayes _(Maurice Olcott)_
-Michael Redgrave _(Maxwell Frere)_
-Elisabeth Welch _(Beulah)_
-Hartley Power _(Sylvester Kee)_
-Magda Kun _(Mitzi)_
-Garry Marsh _(Harry Parker)_
+**The Ventriloquist’s Dummy**  
+Frederick Valk _(Dr Van Straaten)_  
+Allan Jeayes _(Maurice Olcott)_  
+Michael Redgrave _(Maxwell Frere)_  
+Elisabeth Welch _(Beulah)_  
+Hartley Power _(Sylvester Kee)_  
+Magda Kun _(Mitzi)_  
+Garry Marsh _(Harry Parker)_  
 
-**The Golfing Story**
-Basil Radford _(George Parratt)_
-Naunton Wayne _(Larry Potter)_
-Peggy Bryan _(Mary Lee)_
+**The Golfing Story**  
+Basil Radford _(George Parratt)_  
+Naunton Wayne _(Larry Potter)_  
+Peggy Bryan _(Mary Lee)_  
 
-**The Linking Story**
-Roland Culver _(Eliot Foley)_
-Mary Merrall _(Mrs Foley)_
-Barbara Leake _(Mrs O’Hara)_
-Renée Gadd _(Mrs Craig)_
-_uncredited_
-Peter Jones _(Fred the barman)_
-Barry Ford
+**The Linking Story**  
+Roland Culver _(Eliot Foley)_  
+Mary Merrall _(Mrs Foley)_  
+Barbara Leake _(Mrs O’Hara)_  
+Renée Gadd _(Mrs Craig)_  
+_uncredited_  
+Peter Jones _(Fred the barman)_  
+Barry Ford  
 
-UK 1945©
-102 mins
+UK 1945©  
+102 mins  
 
-**REGULAR PROGRAMME**
-**Experimenta Mixtape: Secret Santa Edition**
-Fri 16 Dec 18:20
-**African Odysseys: The Woman King + intro & Q&A**
-Sat 17 Dec 14:00
-**Art in the Making: News from Nowhere + intro by Rowan Bain, Principle Curator at William Morris Gallery TBC**
-Thu 5 Jan 18:20
-**African Odysseys: Hussein Shariffe: A Life Between Exile and Homecoming**
-Sat 7 Jan 12:00-17:00
-**Seniors’ Free Matinee: UK Theatrical Premiere: Wild and Free, Twice Daily + Q&A**
-Mon 9 Jan 14:00
-**Silent Cinema: Metropolis + intro by Bryony Dixon, BFI Curator**
-Sun 15 Jan 14:40
-**Projecting the Archive: Thunder in the City + intro by Jo Botting, BFI Curator**
-Tue 17 Jan 18:20
-**Experimenta: Nation’s Finest, Putting Down Roots and Birthing + Q&A**
-Wed 25 Jan 18:15
-**Relaxed Screening: The Hidden Fortress + intro & discussion**
-Mon 30 Jan 18:00
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTUzMTMxNl19
--->
+**REGULAR PROGRAMME**  
+**Experimenta Mixtape: Secret Santa Edition**  
+Fri 16 Dec 18:20  
+**African Odysseys: The Woman King + intro & Q&A**  
+Sat 17 Dec 14:00  
+**Art in the Making: News from Nowhere + intro by Rowan Bain, Principle Curator at William Morris Gallery TBC**  
+Thu 5 Jan 18:20  
+**African Odysseys: Hussein Shariffe: A Life Between Exile and Homecoming**  
+Sat 7 Jan 12:00-17:00  
+**Seniors’ Free Matinee: UK Theatrical Premiere: Wild and Free, Twice Daily + Q&A**  
+Mon 9 Jan 14:00  
+**Silent Cinema: Metropolis + intro by Bryony Dixon, BFI Curator**  
+Sun 15 Jan 14:40  
+**Projecting the Archive: Thunder in the City + intro by Jo Botting, BFI Curator**  
+Tue 17 Jan 18:20  
+**Experimenta: Nation’s Finest, Putting Down Roots and Birthing + Q&A**  
+Wed 25 Jan 18:15  
+**Relaxed Screening: The Hidden Fortress + intro & discussion**  
+Mon 30 Jan 18:00  
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
