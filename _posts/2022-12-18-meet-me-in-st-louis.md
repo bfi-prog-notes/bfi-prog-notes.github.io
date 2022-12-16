@@ -34,81 +34,80 @@ Suppose that Minnelli saw or felt that line, and then suppose that he held to it
 You can almost hear her laughing at herself, because of course she knew the talk that he was gay. But he liked her. He had made her look like a lovely woman. And he had put her up there on screen caring for someone else. Years later, in her other great performance, she would have Norman Maine to care for. Now don’t get sentimental here. No one ever said that Judy Garland was anyone you’d want to have taking care of you in life. But on the screen... Watching over Tootie (and ignoring Margaret O’Brien) and singing ‘Merry Little Christmas’ like a mother, and in a way that releases the yearning in Tootie (the little conservative tyrant) so that the father hears her grief and smothers his own ambition and says why, surely, the Smiths must stay home in  
 St. Louis ‘till we rot’. This was a picture that played in the last winter of the war, when in their dreams at least, so many people only wanted to get home and find that it was the same, and hadn’t betrayed them.
 
-So _Meet Me in St. Louis_ got done, and Judy and Vincente somehow persuaded themselves that the screen’s light could be theirs too. So they got married, in June 1945. As for the picture, which has lasted so much longer, it cost $1.7 million (a lot – Metro built a whole block of  
-St. Louis) and made $7.5 million on its first run, a studio record after _Gone with the Wind_. So LB was right again. But he was always right in those days, or lucky enough to have that reputation.  
+So _Meet Me in St. Louis_ got done, and Judy and Vincente somehow persuaded themselves that the screen’s light could be theirs too. So they got married, in June 1945. As for the picture, which has lasted so much longer, it cost $1.7 million (a lot – Metro built a whole block of  St. Louis) and made $7.5 million on its first run, a studio record after _Gone with the Wind_. So LB was right again. But he was always right in those days, or lucky enough to have that reputation.  
 **David Thomson, _Sight and Sound_, December 2001**  
 
-**MEET ME IN ST. LOUIS**
-_Director:_ Vincente Minnelli
-_Production Companies:_ Loew’s Incorporated, Metro-Goldwyn-Mayer
-_Producer:_ Arthur Freed
-_Screenplay:_ Irving Brecher, Fred F. Finklehoffe
-_Based on the novel by:_ Sally Benson
-_Director of Photography:_ George Folsey
-_Technicolor Colour Director:_ Natalie Kalmus
-_Film Editor:_ Albert Akst
-_Art Directors:_ Cedric Gibbons, Lemuel Ayers, Jack Martin Smith
-_Set Decorator:_ Edwin B. Willis
-_Associate:_ Paul Huldschinsky
-_Costume Designer:_ Sharaff
-_Costume Supervisor:_ Irene
-_Make-up Created by:_ Jack Dawn
-_Music Director:_ Georgie Stoll
-_Orchestrations:_ Conrad Salinger
-_Dance Director:_ Charles Walters
-_Recording Director:_ Douglas Shearer
-_uncredited_
-_Unit Manager:_ Dave Friedman
-_Assistant Directors:_ J.E. Jennings, Wallace Worsley
-_Associate Technicolor Colour Director:_ Henri Jaffa
-_2nd Camera:_ Robert Bronner
-_Matte Paintings Camera:_ Mark H. Davis
-_Miniature/Transparency Projection Shots:_ A. Arnold Gillespie
-_Matte Paintings:_ Warren Newcombe
-_Miniatures Assistant:_ Donald Jahraus
-_Music Adaptation:_ Roger Edens
-_Music Mixers:_ Mike McLaughlin, Herbert Stahlberg
-_Unit Mixer:_ Joe Edmondson
-_Re-recording/Effects Mixers:_ Standish J. Lambert, Frank Mackenzie, Robert Shirley, Newell Sparks, William Steinkamp, Michael Steinore,  John A. Williams
-_Voice Doubles for Mary Astor:_ Rose Paidar, Eileen Wilson
+**MEET ME IN ST. LOUIS**  
+_Director:_ Vincente Minnelli  
+_Production Companies:_ Loew’s Incorporated, Metro-Goldwyn-Mayer  
+_Producer:_ Arthur Freed  
+_Screenplay:_ Irving Brecher, Fred F. Finklehoffe  
+_Based on the novel by:_ Sally Benson  
+_Director of Photography:_ George Folsey  
+_Technicolor Colour Director:_ Natalie Kalmus  
+_Film Editor:_ Albert Akst  
+_Art Directors:_ Cedric Gibbons, Lemuel Ayers, Jack Martin Smith  
+_Set Decorator:_ Edwin B. Willis  
+_Associate:_ Paul Huldschinsky  
+_Costume Designer:_ Sharaff  
+_Costume Supervisor:_ Irene  
+_Make-up Created by:_ Jack Dawn  
+_Music Director:_ Georgie Stoll  
+_Orchestrations:_ Conrad Salinger  
+_Dance Director:_ Charles Walters  
+_Recording Director:_ Douglas Shearer  
+_uncredited_  
+_Unit Manager:_ Dave Friedman  
+_Assistant Directors:_ J.E. Jennings, Wallace Worsley  
+_Associate Technicolor Colour Director:_ Henri Jaffa  
+_2nd Camera:_ Robert Bronner  
+_Matte Paintings Camera:_ Mark H. Davis  
+_Miniature/Transparency Projection Shots:_ A. Arnold Gillespie  
+_Matte Paintings:_ Warren Newcombe  
+_Miniatures Assistant:_ Donald Jahraus  
+_Music Adaptation:_ Roger Edens  
+_Music Mixers:_ Mike McLaughlin, Herbert Stahlberg  
+_Unit Mixer:_ Joe Edmondson  
+_Re-recording/Effects Mixers:_ Standish J. Lambert, Frank Mackenzie, Robert Shirley, Newell Sparks, William Steinkamp, Michael Steinore,  John A. Williams  
+_Voice Doubles for Mary Astor:_ Rose Paidar, Eileen Wilson  
 
-**Cast**
-Judy Garland _(Esther Smith)_
-Margaret O’Brien _(‘Tootie’ Smith)_
-Mary Astor _(Mrs Anna Smith)_
-Lucille Bremer _(Rose Smith)_
-Leon Ames _(Mr Alzonzo ‘Lon’ Smith)_
-Tom Drake _(John Truett)_
-Marjorie Main _(Katie, the maid)_
-Harry Davenport _(Grandpa Prophater)_
-June Lockhart _(Lucille Ballard)_
-Henry Daniels Jr _(Lon Smith Jr)_
-Joan Carroll _(Agnes Smith)_
-Hugh Marlowe _(Colonel Darly)_
-Robert Sully _(Warren Sheffield)_
-Chill Wills _(Mr Neely)_
-_uncredited_
-Donald Curtis _(Dr Girard)_
-Mary Jo Ellis _(Ida Boothby)_
-Ken Wilson _(Quentin)_
-Robert Emmett O’Connor _(motorman)_
-Darryl Hickman _(Johnny Tevis)_
-Dr Leonard Walker _(conductor)_
-Victor Kilian _(baggage man)_
-John Phipps _(mailman)_
-Sam Harris _(Mr March)_
-Mayo Newhall _(Mr Braukoff)_
-Belle Mitchell _(Mrs Braukoff)_
-Sidney Barnes _(Hugo Borvis)_
-Myron Tobias _(George)_
-Victor Cox _(driver)_
-Kenneth Donner, Buddy Gorman, Joe Cobb _(Clinton Badgers)_
-Helen Gilbert _(girl on trolley)_
-Music Maids
-Seckler Group
+**Cast**  
+Judy Garland _(Esther Smith)_  
+Margaret O’Brien _(‘Tootie’ Smith)_  
+Mary Astor _(Mrs Anna Smith)_  
+Lucille Bremer _(Rose Smith)_  
+Leon Ames _(Mr Alzonzo ‘Lon’ Smith)_  
+Tom Drake _(John Truett)_  
+Marjorie Main _(Katie, the maid)_  
+Harry Davenport _(Grandpa Prophater)_  
+June Lockhart _(Lucille Ballard)_  
+Henry Daniels Jr _(Lon Smith Jr)_  
+Joan Carroll _(Agnes Smith)_  
+Hugh Marlowe _(Colonel Darly)_  
+Robert Sully _(Warren Sheffield)_  
+Chill Wills _(Mr Neely)_  
+_uncredited_  
+Donald Curtis _(Dr Girard)_  
+Mary Jo Ellis _(Ida Boothby)_  
+Ken Wilson _(Quentin)_  
+Robert Emmett O’Connor _(motorman)_  
+Darryl Hickman _(Johnny Tevis)_  
+Dr Leonard Walker _(conductor)_  
+Victor Kilian _(baggage man)_  
+John Phipps _(mailman)_  
+Sam Harris _(Mr March)_  
+Mayo Newhall _(Mr Braukoff)_  
+Belle Mitchell _(Mrs Braukoff)_  
+Sidney Barnes _(Hugo Borvis)_  
+Myron Tobias _(George)_  
+Victor Cox _(driver)_  
+Kenneth Donner, Buddy Gorman, Joe Cobb _(Clinton Badgers)_  
+Helen Gilbert _(girl on trolley)_  
+Music Maids  
+Seckler Group  
 
-USA 1944©
-113 mins
+USA 1944©  
+113 mins  
 
 **CHRISTMAS FILMS**  
 **The Bishop’s Wife**  
@@ -149,5 +148,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjUzMTkzXX0=
+eyJoaXN0b3J5IjpbLTEzMDkxNjQ2NDVdfQ==
 -->
