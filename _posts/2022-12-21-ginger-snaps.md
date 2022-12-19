@@ -18,46 +18,34 @@ When Brigitte deliberately infects herself with Ginger’s malaise, she declares
 **Linda Ruth Williams, _Sight and Sound_, June 2001**
 <br><br>
 
-**GINGER SNAPS**
+**GINGER SNAPS**  
 _Directed by_: John Fawcett  
 ©: Oddbod Productions Inc  
-_Produced with the participation of_:  
-Canadian Television Fund, Telefilm Canada  
-_Produced in association with_:  
-Space The Imagination Station  
-_Produced with the participation of_:  
-TMN - The Movie Network  
+_Produced with the participation of_:  Canadian Television Fund, Telefilm Canada  
+_Produced in association with_:  Space The Imagination Station  
+_Produced with the participation of_:  TMN - The Movie Network  
 _And with the participation of_: The Government of Ontario - The Film & Television Tax Credit  
-_Financial support of_:  
-Casablanca Sound & Picture Inc., Tattersall Sound  
-_Presented by_: Copper Heart Entertainment,  
-Water Pictures, Motion International  
-_In association with_: Lions Gate Films,  
-Unapix Entertainment  
-_Executive Producers_: Noah Segal,  
-Alicia Reilly-Larson, Daniel Lyon  
+_Financial support of_:  Casablanca Sound & Picture Inc., Tattersall Sound  
+_Presented by_: Copper Heart Entertainment, Water Pictures, Motion International  
+_In association with_: Lions Gate Films,  Unapix Entertainment  
+_Executive Producers_: Noah Segal,  Alicia Reilly-Larson, Daniel Lyon  
 _Produced by_: Steven Hoban, Karen Lee Hall  
 _Associate Producer_: Tina Goldlist  
 _Producer’s Associate_: Victor Kushmaniuk  
 _Production Manager_: Roberta J. Pazdro  
 _Production Co-ordinator_: Charlotte Engel  
 _Assistant Production Co-ordinator_: Andrea Nesbitt  
-_Production Accountants_: Karen Colaco,  
-Sasha Marusich  
+_Production Accountants_: Karen Colaco,  Sasha Marusich  
 _Location Manager_: Orest Haba  
 _Location Scouts_: Iain Stewart, Conor Cronin, Steven Merrick  
-_Location Production Assistant_:  
-Marco ‘Ratboy’ Di Venanzo  
+_Location Production Assistant_:  Marco ‘Ratboy’ Di Venanzo  
 _Location Maintenance_: Debbie Bromley  
 _Post-production Supervisor_: Lori Waters  
 _2nd Unit Director_: Grant Harvey  
-_1st Assistant Director_: David McLennan
-
-_2nd Assistant Director_: Laura Wood Fawcett
-
+_1st Assistant Director_: David McLennan  
+_2nd Assistant Director_: Laura Wood Fawcett  
 _3rd Assistant Director_: Craig Newman  
-_Script Supervisor_: Rachel Landry
-
+_Script Supervisor_: Rachel Landry  
 _Casting Director_: Robin D. Cook  
 _U.S. Casting by_: Linda Philips-Palo, Robert McGee  
 _Story Editor_: Ken Chubb  
@@ -67,15 +55,11 @@ _Director of Photography_: Thom Best
 _2nd Unit Director of Photography_: Gavin Smith  
 _Camera/Steadicam Operator_: Sean F. Jensen  
 _Additional Camera Operator_: Paul Boucher  
-_B Camera Operator_: Shaun Lawless
-
-_1st Assistant Camera_: Dean Stinchcombe,  
-Andy Jekabsons, Jeff Hohener  
-_2nd Assistant Camera_: Maryse Frigon
-
-_Camera Trainee_: Margaret Demchenko  
-_Gaffer_: Mark Berlet
-
+_B Camera Operator_: Shaun Lawless  
+_1st Assistant Camera_: Dean Stinchcombe,  Andy Jekabsons, Jeff Hohener  
+_2nd Assistant Camera_: Maryse Frigon  
+_Camera Trainee_: Margaret Demchenko    
+_Gaffer_: Mark Berlet  
 _Best Girl Electric_: Loreen Ruddock  
 _3rd Electric_: Michael Curtis  
 _Electrics_: Ken Green, Chris Zacharuk  
@@ -86,8 +70,7 @@ _Grip_: Chris Kelly
 _Dolly Grip_: Patrick Hales  
 _Stills Photographer_: Sophie Giraud, Ava V. Gerlitz, L. Pief Weyman  
 _Digital Visual Effects & Opticals_: Film Effects Inc.  
-_Visual Effects Supervisor_: John Furniotis
-
+_Visual Effects Supervisor_: John Furniotis  
 _Special Effects Supervisor_: Brock Jolliffe  
 _Special Effects Assistants_: Rudy Rivas, Reg Ashby, Rob Crawford  
 _Editor_: Brian Sullivan  
@@ -169,5 +152,5 @@ Canada 2000©
 
 108 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyMjEzMzM3XX0=
+eyJoaXN0b3J5IjpbMTU4OTY0ODM2M119
 -->
