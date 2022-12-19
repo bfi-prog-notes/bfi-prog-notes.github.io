@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Ginger Snaps
+published: true
+date: 2022-12-21
+readtime: true
+categories: ['IN DREAMS ARE MONSTERS']
+tags: [Horror]
+metadata: 'Canada 2000, 108 mins<br> Director: John Fawcett'
+pdf: '2022-12-21-ginger-snaps.pdf'
+---
 
 Try to imagine what _Buffy the Vampire Slayer_ would look like if it had been written by Angela Carter and you might get close to the heady cocktail of high-school pubescence and feminist folklore that is _Ginger Snaps_. This is the story of 16-year-old Ginger (Katharine Isabelle) and 15-year-old Brigitte (Emily Perkins), two repressed, weird, goth-styled sisters whose bland Canadian suburb happens to be plagued by a werewolf. _Ginger Snaps_ is a sparky, sharp film marked by intelligent dialogue and a complex view of that moment when girls hover on the brink of womanhood but would rather not take the next step. If Carter’s Red Riding Hood fell for her wolf and ran off with him in Neil Jordan’s _Company of Wolves_, here the bitten girl _becomes_ the wolf. Ginger is attacked on the night she first menstruates, and as the clock of her cycle ticks away to its conclusion on Halloween 28 days later, she metamorphoses into a sinewy, sexualised monster with a nice line in teenage sarcasm.
 
@@ -147,6 +157,80 @@ Nick Nolan _(creature & gingerwolf)_
 Canada 2000©  
 108 mins
 <br><br>
+
+**IN DREAMS ARE MONSTERS**<br>
+**The Uninvited**<br>
+Thu 1 Dec 18:05; Sat 17 Dec 14:30 (+ intro by broadcaster and writer, Louise Blain)<br>
+**Kwaidan (Kaidan)**<br>
+Thu 1 Dec 20:00; Tue 13 Dec 17:40<br> 
+**Night of the Eagle**<br>
+Fri 2 Dec 21:00; Sat 10 Dec 12:10<br> 
+**Daughters of Darkness (Les lèvres rouges)**<br>
+Sat 3 Dec 20:45: Tue 13 Dec 21:00<br>
+**Transness in Horror**<br>
+Tue 6 Dec 18:20<br>
+**Let the Right One In (Låt den rätte komma in)**<br>
+Tue 6 Dec 20:45; Thu 22 Dec 18:15<br>
+**Philosophical Screens: The Lure**<br>
+Wed 7 Dec 20:10 Blue Room<br>
+**The Lure (Córki dancing)**<br>
+Wed 7 Dec 18:15; Thu 22 Dec 20:45 (+ intro by Dr Catherine Wheatley, Reader in Film Studies at King’s College London)<br>
+**Cat People**<br> 
+Wed 7 Dec 20:50; Mon 19 Dec (+ intro by Clarisse Loughrey, chief film critic for The Independent)<br>
+**Black Sunday (La maschera del demonio)**<br>
+Fri 9 Dec 21:00; Sun 18 Dec 18:30<br> 
+**Ring (Ringu)**<br>
+Sat 10 Dec 20:40; Tue 13 Dec 21:05; Tue 20 Dec 21:00<br> 
+**Atlantics (Atlantique) + Atlantiques**<br>
+Sun 11 Dec 14:50; Tue 27 Dec 18:20<br>
+**Sugar Hill**<br>
+Sun 11 Dec 18:00; Sat 17 Dec 20:40<br>
+**Häxan**<br> 
+Mon 12 Dec 18:10 (+ live score by The Begotten); Sat 17 Dec 11:45 (with live piano accompaniment)<br>
+**Sweetheart**<br>
+Mon 12 Dec 21:00; Tue 27 Dec 12:40<br> 
+**Arrebato**<br> 
+Wed 14 Dec 20:30 (+ intro by writer and broadcaster Anna Bogutskaya); Fri 23 Dec 18:05<br>
+**The Final Girls LIVE**<br>
+Thu 15 Dec 20:30<br> 
+**One Cut of the Dead (Kamera o tomeru na!)**<br>
+Fri 16 Dec 18:15; Fri 30 Dec 20:45<br>
+**The Fog**<br>
+Fri 16 Dec 21:00; Wed 28 Dec 18:10<br> 
+**Being Human + Q&A with Toby Whithouse and guests (tbc)**<br> 
+Sat 17 Dec 18:00<br>
+**Day of the Dead**<br>
+Mon 19 Dec 20:40; Thu 29 Dec 18:20<br>
+**Society**<br>
+Tue 20 Dec 18:15; Wed 28 Dec 20:50<br>
+**Interview with the Vampire**<br>
+Wed 21 Dec 18:10: Thu 29 Dec 20:40<br>
+**Ginger Snaps**<br>
+Wed 21 Dec 20:50; Tue 27 Dec 15:10<br>
+**A Dark Song**<br>
+Fri 23 Dec 20:45; Fri 30 Dec 18:20<br> 
+
+**City Lit at BFI: Screen Horrors – Screen Monsters**<br>
+Thu 20 Oct – Thu 15 Dec 18:30–20:30 Studio<br>
+<br>  
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE3NDkxMTg0NDVdfQ==
 -->
