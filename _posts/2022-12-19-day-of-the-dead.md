@@ -15,11 +15,9 @@ While the film owes much of its power to its gross pay-off, Romero has not negle
 
 The film slips once or twice – Terry Alexander’s overdone Jamaican accent almost turns him into the modern equivalent of the superstitious Mantan Moreland or Willie Best characters in 40s zombie movies. But for the most part, Romero reveals not only his proven skills as a director of action and personal unease, but a command of poetically profane dialogue that ensures many of the dialogue scenes are more forcefully shocking than the special-effects horrors: in particular, the series of explicit and roundabout threats made by Rhodes and his men against Sarah, the only woman in the group, who is sexually unavailable thanks to her (deteriorating and plainly doomed) relationship with Miguel. After the disappointment of the lazy _Creepshow_, _Day of the Dead_ marks a return to form for Romero, the man who can claim almost single-handed to have reinvented the horror film for the post-1968 cinema.  
 **Kim Newman, _Monthly Film Bulletin_, September 1986**
+<br><br>
 
-<![endif]-->
-
-**DAY OF THE DEAD**
-
+**DAY OF THE DEAD**  
 _Director_: George A. Romero  
 _Production Company_: Laurel Entertainment  
 _Executive Producer_: Salah M. Hassanein  
@@ -32,14 +30,12 @@ _Production Co-ordinator (Florida)_: Melanie Muroff
 _Production Controller_: Tina Carbonell  
 _Location Managers_: Jim Bruwelheide, Bill Dickhaut  
 _Production Assistants_: Jeffrey Barker, Deborah Carter, Thom S. Downing, Barbara Frazzini, Dan Korintus, William Laxson, Nancy Suzich, John Williams, Michael Johnson, Jim Bozsan, Mike Butera  
-_Production Assistants (Florida)_: Bob Scott, Frederick Peters, Dianna Slowey, Robert Cagney, Mark Arlington, David Mott, Laura Wortzel,  
-Richard Fick, Sonia Lopes, Craig Myers  
+_Production Assistants (Florida)_: Bob Scott, Frederick Peters, Dianna Slowey, Robert Cagney, Mark Arlington, David Mott, Laura Wortzel, Richard Fick, Sonia Lopes, Craig Myers  
 _Assistant Directors_: John Harrison, Katarina Wittich, Annie Loeffler  
 _Screenplay_: George A. Romero  
 _Director of Photography_: Michael Gornick  
 _2nd unit Photography (Florida)_: Ernest Dickerson  
-_Assistant Photographers_: Frank Perl,  
-Simon Manses  
+_Assistant Photographers_: Frank Perl,  Simon Manses  
 _Matte Photographers_: David M. Garber, Green  
 _Special Effects_: Steve Kirshoff, Mark Mann  
 _Special Effects (Scenic)_: Howard Jones  
@@ -62,10 +58,8 @@ _Music_: John Harrison
 _Music Producer_: John Sutton  
 _Sound Recording_: Rolf Pardula  
 _Daily Sound Transfers_: Laurel Communications, Tony Buba  
-_Sound Re-recording_: Chris Jenkins,  
-Gary D. Alexander, Larry Stensvold  
-_Supervising Sound Editors_: David Pettijohn,  
-David B. Cohn  
+_Sound Re-recording_: Chris Jenkins,  Gary D. Alexander, Larry Stensvold  
+_Supervising Sound Editors_: David Pettijohn,  David B. Cohn  
 _Sound Editors_: James Beshears, Howard Neiman, Trevor Jolly  
 _ADR Editor_: Lauren Palmer  
 _Foley Studio_: Rubber Dubbers  
@@ -95,5 +89,5 @@ USA 1985
 
 101 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTk1NTQxOV19
+eyJoaXN0b3J5IjpbLTE3MDkyMjY1NTZdfQ==
 -->
