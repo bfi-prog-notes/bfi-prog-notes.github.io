@@ -68,8 +68,7 @@ _Stand-ins_: James Wetzel, Theresa Bedekovich
 _Stand-ins (Florida)_: Bruce Bellows, Ellen Moon  
 _Weapons_: John Wolcutt
 
-_Cast:_
-
+**Cast**  
 Lori Cardille _(Sarah)_  
 Terry Alexander _(John)_  
 Joseph Pilato _(Captain Rhodes)_  
@@ -85,9 +84,9 @@ Phillip G. Kellams
 Taso N. Stavrakis  
 Gregory Nicotero
 
-USA 1985
-
+USA 1985  
 101 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDkyMjY1NTZdfQ==
+eyJoaXN0b3J5IjpbLTE3OTE0NzY0Ml19
 -->
