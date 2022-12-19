@@ -85,8 +85,7 @@ _On-set Dresser_: Patrick Cooke
 _Storyboard Artists_: Vincenzo Natali, Julia Holden  
 _Property Master_: Michael Followes  
 _Assistant Property Master_: Derreck Roemer  
-_Property Master_: Cindy Yetman
-
+_Property Master_: Cindy Yetman  
 _Construction Co-ordinator_: Frans Van Gerwen  
 _Key Painter_: Joanne F. Filletti  
 _Head Carpenter_: Jack St. John  
@@ -115,10 +114,8 @@ _Re-recording Mixers_: Lou Solakofski, Orest Sushko
 _Supervising Sound Editor_: David McCallum  
 _Supervising Dialogue Editor_: Garrett Kerr  
 _Dialogue Editor_: Mishann Lau  
-_Sound Effects Editors_: Jane Tattersall,  
-Robert Warchol  
-_ADR Recordists_: Jeff Hamon, Randy Wilson,  
-David Yonson, Tom Blainey, Bob Lacivita  
+_Sound Effects Editors_: Jane Tattersall,  Robert Warchol  
+_ADR Recordists_: Jeff Hamon, Randy Wilson, David Yonson, Tom Blainey, Bob Lacivita  
 _ADR Editor_: Fred Brennan  
 _Foley Artist_: Donna Powell  
 _Foley Recordist_: Ian Rankin  
@@ -127,8 +124,7 @@ _Stunt Performers_: Jessica Meyer, Kym Kristalie, Brittney Banks, Regan Moore
 _Stand-in_: Taryn Ash  
 _Publicity_: Cori Ferguson
 
-_Cast:_
-
+**Cast**  
 Emily Perkins _(Brigitte)_  
 Katharine Isabelle _(Ginger)_  
 Kris Lemche _(Sam)_  
@@ -148,9 +144,9 @@ Bryon Bully _(hockey kid)_
 Steven Taylor _(puppy kid)_  
 Nick Nolan _(creature & gingerwolf)_
 
-Canada 2000©
-
+Canada 2000©  
 108 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTY0ODM2M119
+eyJoaXN0b3J5IjpbLTE3NDkxMTg0NDVdfQ==
 -->
