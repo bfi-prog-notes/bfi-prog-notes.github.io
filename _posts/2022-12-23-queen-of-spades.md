@@ -86,34 +86,34 @@ UK 1949<br>
 A Studiocanal release<br>
 
 **NEW RELEASES**<br>
-*Lynch/Oz**
-From Fri 2 Dec
-**Bones and All**
-From Fri 2 Dec
-**Tori and Lokita**
-From Fri 9 Dec
-**Triangle of Sadness**
-From Fri 16 Dec
-**Decision to Leave**
-From Fri 16 Dec
-**The Banshees of Inisherin**
-From Fri 16 Dec
-**She Said**
-From Sat 17 Dec
-**Living**
-From Mon 19 Dec
-**Corsage**
-From Tue 27 Dec
-**Enys Men**
-From Fri 13 Jan (intro + Q&A with Mark Jenkin on Fri 13 Jan 18:00)
+**Lynch/Oz**<br>
+From Fri 2 Dec<br>
+**Bones and All**<br>
+From Fri 2 Dec<br>
+**Tori and Lokita**<br>
+From Fri 9 Dec<br>
+**Triangle of Sadness**<br>
+From Fri 16 Dec<br>
+**Decision to Leave**<br>
+From Fri 16 Dec<br>
+**The Banshees of Inisherin**<br>
+From Fri 16 Dec<br>
+**She Said**<br>
+From Sat 17 Dec<br>
+**Living**<br>
+From Mon 19 Dec<br>
+**Corsage**<br>
+From Tue 27 Dec<br>
+**Enys Men**<br>
+From Fri 13 Jan (intro + Q&A with Mark Jenkin on Fri 13 Jan 18:00)<br>
 
-**RE-RELEASES**
-**Fanny and Alexander (Fanny och Alexander)**
-From Fri 2 Dec
-**The Queen of Spades**
-From Fri 23 Dec
-**Rashomon**
-From Fri 6 Jan
+**RE-RELEASES**<br>
+**Fanny and Alexander (Fanny och Alexander)**<br>
+From Fri 2 Dec<br>
+**The Queen of Spades**<br>
+From Fri 23 Dec<br>
+**Rashomon**<br>
+From Fri 6 Jan<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjk4NjgyM119
+eyJoaXN0b3J5IjpbLTEyNzQ0MTAzNzNdfQ==
 -->
