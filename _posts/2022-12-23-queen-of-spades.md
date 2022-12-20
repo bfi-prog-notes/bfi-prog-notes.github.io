@@ -17,76 +17,75 @@ It’s a headlong tale of pacts with dark forces in which evil really seems palp
 
 **THE QUEEN OF SPADES**<br>
 _Directed by:_ Thorold Dickinson<br>
-Associated British Picture Corporation Limited _present_ Anatole De Grunwald’s production_<br>
-_Distributed by:_ Associated British Pathé
-_Produced by:_ Anatole De Grunwald
-_Associate Producer:_ Jack Clayton
-_The Production Manager:_ Isobel Pargiter
-_The Assistant Director:_ John Gaudioz
-_The Continuity:_ Marjorie Owens
-_The Screenplay by:_ Rodney Ackland, Arthur Boys
-_The Story by:_ Alexander Pushkin
-_The Director of Photography:_ Otto Heller
-_The Camera Operators:_ Gus Drisse, Val Stewart
-_The Film Editor:_ Hazel Wilkinson
-_The Art Director:_ William Kellner
-_The Settings and Costumes by:_ Oliver Messel
-_The Assistant to Oliver Messel:_ Ann Wemyss
-_The Set Dresser:_ Philip Stockford
-_Draughtsman:_ Ken Adam *
-_The Wardrobe Master:_ W. Smith
-_The Fabric Adviser:_ Scot Slimon
-_The Furs by:_ Deanfields
-_The Clothes Executed by:_ Simmons
-_The Make-up:_ Robert Clarke
-_The Hairdressers:_ Frank Cross, Betty Cross
-_The Music by:_ Georges Auric
-_The Musical Director:_ Louis Levy
-_The Dances Arranged by:_ David Paltenghi
-_The Sound Recordist:_ Frank McNally
-_The Dubbing Recordist:_ L.H. Shilton
-_The Dubbing Editor:_ Audrey Bennett
-_Sound System:_ RCA Sound System
-_The Period Adviser:_ Dr Baird
-_Made at:_ Welwyn Studios
+Associated British Picture Corporation Limited _present_ Anatole De Grunwald’s production<br>
+_Distributed by:_ Associated British Pathé<br>
+_Produced by:_ Anatole De Grunwald<br>
+_Associate Producer:_ Jack Clayton<br>
+_The Production Manager:_ Isobel Pargiter<br>
+_The Assistant Director:_ John Gaudioz<br>
+_The Continuity:_ Marjorie Owens<br>
+_The Screenplay by:_ Rodney Ackland, Arthur Boys<br>
+_The Story by:_ Alexander Pushkin<br>
+_The Director of Photography:_ Otto Heller<br>
+_The Camera Operators:_ Gus Drisse, Val Stewart<br>
+_The Film Editor:_ Hazel Wilkinson<br>
+_The Art Director:_ William Kellner<br>
+_The Settings and Costumes by:_ Oliver Messel<br>
+_The Assistant to Oliver Messel:_ Ann Wemyss<br>
+_The Set Dresser:_ Philip Stockford<br>
+_Draughtsman:_ Ken Adam *<br>
+_The Wardrobe Master:_ W. Smith<br>
+_The Fabric Adviser:_ Scot Slimon<br>
+_The Furs by:_ Deanfields<br>
+_The Clothes Executed by:_ Simmons<br>
+_The Make-up:_ Robert Clarke<br>
+_The Hairdressers:_ Frank Cross, Betty Cross<br>
+_The Music by:_ Georges Auric<br>
+_The Musical Director:_ Louis Levy<br>
+_The Dances Arranged by:_ David Paltenghi<br>
+_The Sound Recordist:_ Frank McNally<br>
+_The Dubbing Recordist:_ L.H. Shilton<br>
+_The Dubbing Editor:_ Audrey Bennett<br>
+_Sound System:_ RCA Sound System<br>
+_The Period Adviser:_ Dr Baird<br>
+_Made at:_ Welwyn Studios<br>
 
-**Cast**
-Anton Walbrook _(Herman)_
-Edith Evans _(the old countess)_
-Ronald Howard _(Prince Andrei)_
-Mary Jerrold _(old Varvarushka)_
-Yvonne Mitchell _(Lizaveta Ivanovna)_
-Anthony Dawson _(Fyodor)_
-Pauline Tennant _(young countess)_
-Miles Malleson _(Tchybukin)_
-Athene Seyler _(Princess Ivashin)_
-Michael Medwin _(Ilovaisky)_
-Maroussia Dimitrevitch _(gypsy singer)_
-Ivor Barnard _(bookseller)_
-Violetta Elvin _(gypsy dancer)_
-Jacqueline Clarke _(milliner’s assistant)_
-Yusef Ramart _(countess’s lover)_
-Valentine Dyall _(St Germain’s messenger)_
-Gordon Begg _(General Volcholnikov)_
-Gibb McLaughlin _(bird seller)_
-Drusilla Wills _(countess’s old servant)_
-Aubrey Mallalieu _(Fedya)_
-George Woodbridge _(Vassili)_
-Pauline Jameson _(Anyutka)_
-Hay Petrie _(Herman’s servant)_
-Brown Derby _(the countess’s footman)_
-Geoffrey Dunn _(hair dresser)_
-Ian Colin, Clement McCallin, John Howard, Aubrey Woods,
-David Paltenghi _(officers in gaming room)_
+**Cast**<br>
+Anton Walbrook _(Herman)_<br>
+Edith Evans _(the old countess)_<br>
+Ronald Howard _(Prince Andrei)_<br>
+Mary Jerrold _(old Varvarushka)_<br>
+Yvonne Mitchell _(Lizaveta Ivanovna)_<br>
+Anthony Dawson _(Fyodor)_<br>
+Pauline Tennant _(young countess)_<br>
+Miles Malleson _(Tchybukin)_<br>
+Athene Seyler _(Princess Ivashin)_<br>
+Michael Medwin _(Ilovaisky)_<br>
+Maroussia Dimitrevitch _(gypsy singer)_<br>
+Ivor Barnard _(bookseller)_<br>
+Violetta Elvin _(gypsy dancer)_<br>
+Jacqueline Clarke _(milliner’s assistant)_<br>
+Yusef Ramart _(countess’s lover)_<br>
+Valentine Dyall _(St Germain’s messenger)_<br>
+Gordon Begg _(General Volcholnikov)_<br>
+Gibb McLaughlin _(bird seller)_<br>
+Drusilla Wills _(countess’s old servant)_<br>
+Aubrey Mallalieu _(Fedya)_<br>
+George Woodbridge _(Vassili)_<br>
+Pauline Jameson _(Anyutka)_<br>
+Hay Petrie _(Herman’s servant)_<br>
+Brown Derby _(the countess’s footman)_<br>
+Geoffrey Dunn _(hair dresser)_<br>
+Ian Colin, Clement McCallin, John Howard, Aubrey Woods,<br>
+David Paltenghi _(officers in gaming room)_<br>
 
-UK 1949
-95 mins
-\* Uncredited
+UK 1949<br>
+95 mins<br>
+\* Uncredited<br>
 
-A Studiocanal release
+A Studiocanal release<br>
 
-**NEW RELEASES**
-
+**NEW RELEASES**<br>
 *Lynch/Oz**
 From Fri 2 Dec
 **Bones and All**
@@ -116,5 +115,5 @@ From Fri 23 Dec
 **Rashomon**
 From Fri 6 Jan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODIwNDU1MjRdfQ==
+eyJoaXN0b3J5IjpbLTYyMjk4NjgyM119
 -->
