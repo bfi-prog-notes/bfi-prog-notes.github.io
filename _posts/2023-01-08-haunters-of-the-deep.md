@@ -64,141 +64,115 @@ UK 1984
 61 mins
 
 **THE LIVING AND THE DEAD: EPISODE 2**<br>
-
 _Series Created and Written by:_ Ashley Pharoah<br>
-
 ©: BBC<br>
-
 _Directed by:_ Alice Troughton<br>
-
 _A_ BBC Cymru Wales Drama _production_<br>
-
 _In association with:_ Monastic Productions<br>
-
 _Co-produced with:_ BBC America<br>
-
-_Executive Producers:_ Ashley Pharoah,  
-Faith Penhale, Katie McAleese<br>
-
+_Executive Producers:_ Ashley Pharoah,  Faith Penhale, Katie McAleese<br>
 _Head of Production, Drama:_ Gordon Ronald<br>
-
 _Line Producer:_ Katrine Dudley<br>
+_Production Accountant:_ Rachel Quigley-Smith<br>
+_Production Co-ordinator:_ David Packham<br>
+_Casting Director:_ Gary Davy<br>
+_Supervising Location Manager:_ Dee Gregson<br>
+_Location Manager:_ Jake Sainsbury<br>
+_Unit Manager:_ Sophie Pinch<br>
+_1st Assistant Director:_ Alex Mercer<br>
+_Script Supervisor:_ Phillip Trow<br>
+_Story Producer:_ Darren Guthrie<br>
+_Script Editor:_ Katie Kelly<br>
+_Director of Photography:_ Matt Gray<br>
+_Steadicam Operator:_ Gareth Hughes<br>
+_Post-production Supervisors:_ Shuna Frodd,  Sam Lucas<br>
+_Editor:_ Simon Reglar<br>
+_Assistant Editor:_ Craig Walters<br>
+_Online Editor:_ Gareth Parry<br>
 
-_Production Accountant:_ Rachel Quigley-Smith
+_Production Designer:_ Pat Campbell<br>
 
-_Production Co-ordinator:_ David Packham
+_Supervising Art Director:_ Sam Stokes<br>
 
-_Casting Director:_ Gary Davy
+_Set Decorator:_ Elaine McLenachan<br>
 
-_Supervising Location Manager:_ Dee Gregson
+_Art Director:_ Kira Kemble<br>
 
-_Location Manager:_ Jake Sainsbury
+_Property Master:_ Chris Allen<br>
 
-_Unit Manager:_ Sophie Pinch
+_Special Effects Supervisor:_ Tom Harris<br>
 
-_1st Assistant Director:_ Alex Mercer
+_Visual Effects:_ Lexhag Ltd.<br>
 
-_Script Supervisor:_ Phillip Trow
+_Titles:_ Lipsync Design<br>
 
-_Story Producer:_ Darren Guthrie
+_Costume Designer:_ Phoebe De Gaye<br>
 
-_Script Editor:_ Katie Kelly
+_Assistant Costume Designer:_ Kitty Bennett<br>
 
-_Director of Photography:_ Matt Gray
+_Costume Supervisor:_ Victoria Salway<br>
 
-_Steadicam Operator:_ Gareth Hughes
+_Make-up and Hair Designer:_ Vickie Lang<br>
 
-_Post-production Supervisors:_ Shuna Frodd,  
-Sam Lucas
-
-_Editor:_ Simon Reglar
-
-_Assistant Editor:_ Craig Walters
-
-_Online Editor:_ Gareth Parry
-
-_Production Designer:_ Pat Campbell
-
-_Supervising Art Director:_ Sam Stokes
-
-_Set Decorator:_ Elaine McLenachan
-
-_Art Director:_ Kira Kemble
-
-_Property Master:_ Chris Allen
-
-_Special Effects Supervisor:_ Tom Harris
-
-_Visual Effects:_ Lexhag Ltd.
-
-_Titles:_ Lipsync Design
-
-_Costume Designer:_ Phoebe De Gaye
-
-_Assistant Costume Designer:_ Kitty Bennett
-
-_Costume Supervisor:_ Victoria Salway
-
-_Make-up and Hair Designer:_ Vickie Lang
-
-_Hair and Make-up Supervisor:_ Sarah Nuth
+_Hair and Make-up Supervisor:_ Sarah Nuth<br>
 
 _Hair and Make-up Artists:_  
-Carol Robinson, Sharon Nicholas
+Carol Robinson, Sharon Nicholas<br>
 
-_Original Music:_ The Insects
+_Original Music:_ The Insects<br>
 
-_Sound Recordist:_ Tim Barker
+_Sound Recordist:_ Tim Barker<br>
 
-_Sound Effects Editor:_ Tim Barker
+_Sound Effects Editor:_ Tim Barker<br>
 
-_Dialogue Editor:_ Laura Lovejoy
+_Dialogue Editor:_ Laura Lovejoy<br>
 
-_Re-recording Mixer:_ Richard Davey
+_Re-recording Mixer:_ Richard Davey<br>
 
-_Stunt Co-ordinators:_ Crispin Layfield, Jo McLaren
+_Stunt Co-ordinators:_ Crispin Layfield, Jo McLaren<br>
 
-_Horse Master:_ Mark Atkinson
+_Horse Master:_ Mark Atkinson<br>
 
-_Animal Handler:_ Sue Clarke
+_Animal Handler:_ Sue Clarke<br>
 
-_Cast:_
+_Cast:_<br>
 
-Colin Morgan _(Nathan Appleby)_
+Colin Morgan _(Nathan Appleby)_<br>
 
-Charlotte Spencer _(Charlotte Appleby)_
+Charlotte Spencer _(Charlotte Appleby)_<br>
 
-Nicholas Woodeson _(Matthew Denning)_
+Nicholas Woodeson _(Matthew Denning)_<br>
 
-Kerrie Hayes _(Gwen Pearce)_
+Kerrie Hayes _(Gwen Pearce)_<br>
 
-Tallulah Haddon _(Harriet Denning)_
+Tallulah Haddon _(Harriet Denning)_<br>
 
-Malcolm Storry _(Gideon Langtree)_
+Malcolm Storry _(Gideon Langtree)_<br>
 
-Steve Oram _(John Roebuck)_
+Steve Oram _(John Roebuck)_<br>
 
-Marianne Oldham _(Mary Denning)_
+Marianne Oldham _(Mary Denning)_<br>
 
-David Sterne _(Abel North)_
+David Sterne _(Abel North)_<br>
 
-Joanna David _(Victoria Appleby)_
+Joanna David _(Victoria Appleby)_<br>
 
-Elizabeth Berrington _(Maud Hare)_
+Elizabeth Berrington _(Maud Hare)_<br>
 
-Pooky Quesnel _(Agnes Thatcher)_
+Pooky Quesnel _(Agnes Thatcher)_<br>
 
-Joel Gilman _(Jack Langtree)_
+Joel Gilman _(Jack Langtree)_<br>
 
-Isaac Andrews _(Charlie Thatcher)_
+Isaac Andrews _(Charlie Thatcher)_<br>
 
-Liam McMahon _(Tinker)_
+Liam McMahon _(Tinker)_<br>
 
-Chloe Pirrie _(Lara)_
+Chloe Pirrie _(Lara)_<br>
 
-UK 2016©
+UK 2016©<br>
 
-59 mins
+59 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTQ3MzI4Ml19
+eyJoaXN0b3J5IjpbMTQ1OTg1ODg5OF19
 -->
