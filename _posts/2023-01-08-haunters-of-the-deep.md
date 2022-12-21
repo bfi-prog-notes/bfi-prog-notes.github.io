@@ -89,90 +89,50 @@ _Post-production Supervisors:_ Shuna Frodd,  Sam Lucas<br>
 _Editor:_ Simon Reglar<br>
 _Assistant Editor:_ Craig Walters<br>
 _Online Editor:_ Gareth Parry<br>
-
 _Production Designer:_ Pat Campbell<br>
-
 _Supervising Art Director:_ Sam Stokes<br>
-
 _Set Decorator:_ Elaine McLenachan<br>
-
 _Art Director:_ Kira Kemble<br>
-
 _Property Master:_ Chris Allen<br>
-
 _Special Effects Supervisor:_ Tom Harris<br>
-
 _Visual Effects:_ Lexhag Ltd.<br>
-
 _Titles:_ Lipsync Design<br>
-
 _Costume Designer:_ Phoebe De Gaye<br>
-
 _Assistant Costume Designer:_ Kitty Bennett<br>
-
 _Costume Supervisor:_ Victoria Salway<br>
-
 _Make-up and Hair Designer:_ Vickie Lang<br>
-
 _Hair and Make-up Supervisor:_ Sarah Nuth<br>
-
-_Hair and Make-up Artists:_  
-Carol Robinson, Sharon Nicholas<br>
-
+_Hair and Make-up Artists:_  Carol Robinson, Sharon Nicholas<br>
 _Original Music:_ The Insects<br>
-
 _Sound Recordist:_ Tim Barker<br>
-
 _Sound Effects Editor:_ Tim Barker<br>
-
 _Dialogue Editor:_ Laura Lovejoy<br>
-
 _Re-recording Mixer:_ Richard Davey<br>
-
 _Stunt Co-ordinators:_ Crispin Layfield, Jo McLaren<br>
-
 _Horse Master:_ Mark Atkinson<br>
-
 _Animal Handler:_ Sue Clarke<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Colin Morgan _(Nathan Appleby)_<br>
-
 Charlotte Spencer _(Charlotte Appleby)_<br>
-
 Nicholas Woodeson _(Matthew Denning)_<br>
-
 Kerrie Hayes _(Gwen Pearce)_<br>
-
 Tallulah Haddon _(Harriet Denning)_<br>
-
 Malcolm Storry _(Gideon Langtree)_<br>
-
 Steve Oram _(John Roebuck)_<br>
-
 Marianne Oldham _(Mary Denning)_<br>
-
 David Sterne _(Abel North)_<br>
-
 Joanna David _(Victoria Appleby)_<br>
-
 Elizabeth Berrington _(Maud Hare)_<br>
-
 Pooky Quesnel _(Agnes Thatcher)_<br>
-
 Joel Gilman _(Jack Langtree)_<br>
-
 Isaac Andrews _(Charlie Thatcher)_<br>
-
 Liam McMahon _(Tinker)_<br>
-
 Chloe Pirrie _(Lara)_<br>
 
 UK 2016©<br>
-
 59 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTg1ODg5OF19
+eyJoaXN0b3J5IjpbLTM0NzExNTI5Ml19
 -->
