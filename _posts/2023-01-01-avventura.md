@@ -19,114 +19,62 @@ What makes _L’avventura_ the greatest of all films, however, is its assertion,
 <br><br>
 
 **L’AVVENTURA (THE ADVENTURE)**<br>
-
 _Directed by:_ Michelangelo Antonioni<br>
-
-_Production Companies:_ Cino Del Duca,
-
-P.C.E. - Produzioni Cinematografiche,
-
-Société Cinématographique Lyre<br>
-
+_Production Companies:_ Cino Del Duca, P.C.E. - Produzioni Cinematografiche, Société Cinématographique Lyre<br>
 _Produced by:_ Amato Pennasilico<br>
-
 _Production Manager:_ Luciano Perugia<br>
-
 _Unit Production Manager:_ Angelo Corso<br>
-
 _Unit Managers:_ Enrico Bologna, Fernando Cinquini<br>
-
 _1st Assistant Directors:_ Franco Indovina,  
 Gianni Arduini<br>
-
 _2nd Assistant Director:_ Jack O’Connell<br>
-
 _Script Supervisor:_ Elvira D’Amico<br>
-
-_Screenplay:_ Michelangelo Antonioni,  
-Elio Bartolini, Tonino Guerra<br>
-
+_Screenplay:_ Michelangelo Antonioni,  Elio Bartolini, Tonino Guerra<br>
 _Story:_ Michelangelo Antonioni<br>
-
 _Director of Photography:_ Aldo Scavarda<br>
-
 _Camera Operator:_ Luigi Kuveiller<br>
-
 _Stills Photography:_ Enrico Appetito<br>
-
 _Editing by:_ Eraldo Da Roma<br>
-
 _Art Director:_ Piero Poletto<br>
-
 _Costumes:_ Adriana Berselli<br>
-
 _Make-up:_ Ultimo Peruzzi<br>
-
 _Hair:_ Mario Mandini<br>
-
 _Negatives:_ Dupont<br>
-
 _Prints & Processing:_ Istituto Nazionale LUCE<br>
-
 _Music by:_ Giovanni Fusco<br>
-
 _Sound Recording:_ Claudio Maielli<br>
-
 _Sound Re-recording:_ Fonolux<br>
-
 _Sound Mixing:_ P. Ketoff, F. Ancillai, N. Renda<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Gabriele Ferzetti _(Sandro)_<br>
-
 Monica Vitti _(Claudia)_<br>
-
 Lea Massari _(Anna)_<br>
-
 Dominique Blanchar _(Giulia)_<br>
-
 Renzo Ricci _(Anna’s father)_<br>
-
 James Addams _(Corrado)_<br>
-
 Dorothy De Poliolo _(Gloria Perkins)_<br>
-
 Lelio Luttazzi _(Raimondo)_<br>
-
 Giovanni Petrucci _(Prince Goffredo)_<br>
-
 Esmeralda Ruspoli _(Patrizia)_<br>
-
 Enrico Bologna<br>
-
 Franco Cimino<br>
-
 Giovanni Danesi<br>
-
 Rita Molé<br>
-
 Renato Pinciroli<br>
-
 Angela Tommasi Di Lampedusa _(the princess)_<br>
-
 Vincenzo Tranchina<br>
-
 Jack O’Connell _(old man on the island)_ *<br>
-
 Professor Cucco _(Ettore)_ *<br>
-
 John Francis Lane *<br>
 
 Italy/France 1960<br>
-
 143 mins<br>
 
 *Uncredited
 <br><br>
 
 **SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**<br>
-
 **The General** Sun 1 Jan 12:10; Sun 29 Jan 15:10<br>
 
 **The Leopard (Il gattopardo)**<br>
@@ -250,17 +198,17 @@ Mon 16 Jan 18:30; Sat 28 Jan 16:00<br>
 Wed 18 Jan 20:30; Wed 25 Jan 14:30;  
 Sun 29 Jan 12:30<br>
 
-**The Spirit of the Beehive  
-(El espíritu de la colmena)**
+**The Spirit of the Beehive  (El espíritu de la colmena)**<br>
 
-Thu 19 Jan 18:00; Sat 28 Jan 13:50
+Thu 19 Jan 18:00; Sat 28 Jan 13:50<br>
 
-**Sansho the Bailiff (Sansho Dayu)**
+**Sansho the Bailiff (Sansho Dayu)**<br>
 
-Fri 20 Jan 17:45; Thu 26 Jan 17:50
+Fri 20 Jan 17:45; Thu 26 Jan 17:50<br>
 
-**Andrei Rublev  
-**Thu 26 Jan 18:40; Sun 29 Jan 17:20
+**Andrei Rublev**<br>
+Thu 26 Jan 18:40; Sun 29 Jan 17:20<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDM1NzkzMV19
+eyJoaXN0b3J5IjpbLTEzNjM0NjE2NTNdfQ==
 -->
