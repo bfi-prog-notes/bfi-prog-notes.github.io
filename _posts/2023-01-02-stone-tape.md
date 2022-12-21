@@ -50,8 +50,7 @@ _Make-up_: Maureen Winslade
 _Sound_: Tony Miller  
 _Special Sound Effects_: Desmond Briscoe,  Glynis Jones, BBC Radiophonic Workshop
 
-_Cast:_
-
+**Cast**  
 Michael Bryant _(Peter Brock)_  
 Jane Asher _(Jill Greeley)_  
 Iain Cuthbertson _(Collinson)_  
@@ -67,11 +66,10 @@ Michael Graham Cox _(Alan)_
 Hilda Fenemore _(bar helper)_  
 Peggy Marshall _(bar lady)_
 
-BBC2 tx 25.12.1972
-
-UK 1972©
-
+BBC2 tx 25.12.1972  
+UK 1972©  
 89 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDU4MDU3Nl19
+eyJoaXN0b3J5IjpbLTMyMzAxMDY1Ml19
 -->
