@@ -121,49 +121,28 @@ Sun 8 Jan 11:15; Sat 21 Jan 13:30<br>
 **Celine and Julie Go Boating  (Céline et Julie vont en bateau)**<br>
 Sun 8 Jan 14:45; Sat 21 Jan 17:00<br>
 **Journey to Italy (Viaggio in Italia)**<br>
-Sun 8 Jan 18:20; Mon 23 Jan 14:30;  
-Fri 27 Jan 20:50<br>
+Sun 8 Jan 18:20; Mon 23 Jan 14:30;  Fri 27 Jan 20:50<br>
 **Parasite (Gisaengchung)**<br>
-
 Mon 9 Jan 17:50; Wed 18 Jan 17:30 BFI IMAX<br>
-
 **The Gleaners and I (Les glaneurs et la glaneuse) + La Jetée**<br>
-
 Wed 11 Jan 20:30; Mon 23 Jan 18:10<br>
-
 **A Matter of Life and Death**<br>
-
 Thu 12 Jan 20:40; Sun 22 Jan 11:30<br>
-
 **Chungking Express (Chung Him sam lam)**<br>
-
-Thu 12 Jan 20:45; Tue 17 Jan 20:50;  
-Sat 21 Jan 14:15<br>
-
+Thu 12 Jan 20:45; Tue 17 Jan 20:50;  Sat 21 Jan 14:15<br>
 **Modern Times**<br>
-
 Fri 13 Jan 17:45; Sun 22 Jan 13:10<br>
-
 **A Brighter Summer Day  (Guling jie shaonian sha ren shijian)**<br>
-
 Mon 16 Jan 18:30; Sat 28 Jan 16:00<br>
-
 **Imitation of Life**<br>
-
-Wed 18 Jan 20:30; Wed 25 Jan 14:30;  
-Sun 29 Jan 12:30<br>
-
+Wed 18 Jan 20:30; Wed 25 Jan 14:30;  Sun 29 Jan 12:30<br>
 **The Spirit of the Beehive  (El espíritu de la colmena)**<br>
-
 Thu 19 Jan 18:00; Sat 28 Jan 13:50<br>
-
 **Sansho the Bailiff (Sansho Dayu)**<br>
-
 Fri 20 Jan 17:45; Thu 26 Jan 17:50<br>
-
 **Andrei Rublev**<br>
 Thu 26 Jan 18:40; Sun 29 Jan 17:20<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExOTAxMzkzXX0=
+eyJoaXN0b3J5IjpbNDY4ODQwOTM1XX0=
 -->
