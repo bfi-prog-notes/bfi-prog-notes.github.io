@@ -11,39 +11,30 @@ Ryan Electric Products have just acquired an old Victorian mansion, Taskerlands,
 
 A Kneale signature is the juxtaposition of individual trauma and chills within earshot of innocent pleasures. There’s plenty of that here, as when the landlady at a local pub recalls some West Indian workers at the house mentioning ‘guppies... no, duppies, in the stone’. Taskerlands stands for any large institution (Kneale scoped out the BBC’s development labs at Kingswood Warren in Surrey) or even, perhaps, a nation conflicted as to whether to wipe the tapes of its own past, or to recapture them. (Auntie’s notorious tendency to erase its own output at the time affected Kneale’s creations too.)
 
-The relationship between Greeley (a computer genius with mediumistic capabilities) and Brock (a visionary driven by ego and economics) is handled with great subtlety, as Kneale supplies the vaguest inklings of a possible past affair. The hauntings – a Victorian maid tumbling to her death – are seen in vanishingly brief glimpses, almost a subliminal afterimage. What lingers in Peter Sasdy’s direction is the close-up agony of Asher’s face, petrified by the disorienting effects of screams, electronic noise and supernatural presences. Kneale’s script (and Richard Henry’s production design) maintains a relentlessly gloomy scenario: the room is claustrophobically dark and full of abrasive noises; the brittle, scientific white and cream of the computer rooms and living quarters are often complemented by a low-level atonal synthesiser theme. The soundtrack, created by the BBC Radiophonic Workshop’s Glynis Jones and Desmond Briscoe, is a model of its kind, evoking a spectrum from the menacing hum of 1970s computer technology to savage white noise. Forty years on, _The Stone Tape_’s disturbing power has not yet begun to decay.
-
-Rob Young, _Sight & Sound_, June 2013
+The relationship between Greeley (a computer genius with mediumistic capabilities) and Brock (a visionary driven by ego and economics) is handled with great subtlety, as Kneale supplies the vaguest inklings of a possible past affair. The hauntings – a Victorian maid tumbling to her death – are seen in vanishingly brief glimpses, almost a subliminal afterimage. What lingers in Peter Sasdy’s direction is the close-up agony of Asher’s face, petrified by the disorienting effects of screams, electronic noise and supernatural presences. Kneale’s script (and Richard Henry’s production design) maintains a relentlessly gloomy scenario: the room is claustrophobically dark and full of abrasive noises; the brittle, scientific white and cream of the computer rooms and living quarters are often complemented by a low-level atonal synthesiser theme. The soundtrack, created by the BBC Radiophonic Workshop’s Glynis Jones and Desmond Briscoe, is a model of its kind, evoking a spectrum from the menacing hum of 1970s computer technology to savage white noise. Forty years on, _The Stone Tape_’s disturbing power has not yet begun to decay.  
+**Rob Young, _Sight & Sound_, June 2013**
 
 Nigel Kneale has returned to the ghost story on several occasions in his career, but _The Stone Tape_ stands as perhaps his finest single work in the genre, and his most typical. Asked to come up with a Christmas play, rather than providing a traditional ghost story (which he successfully did later on with 1989’s _The Woman in Black_), he produced something far more original and challenging.
 
-The play focuses on the relationship between three scientists: Jill, a talented computer programmer attuned to psychic phenomena; her arrogant, egotistical and ruthless, if frequently charming, boss (and lover) Peter; and Collinson, the foreman on the project and confidante to both of them. Their differing personal experiences of the mansion’s haunted room provide the framework for the drama and are drawn along traditional gender lines. Kneale’s script explores male and female perspectives, contrasting rational problem solving and the application of the scientific method with intuitive and emotional responses and solutions aligned with a compassionate feeling for people and their circumstances. Peter and Jill stand at the opposite poles of this dialectic, and as their inability to communicate their differences increases, so their personal relationship disintegrates. Collinson comes somewhere between the two, as the main identification figure for the audience. Iain Cuthbertson gives a powerful yet restrained performance in the role, which was expanded considerably during filming as his character replaced the one played by Michael Bates, who became unavailable when the shooting of some scenes had to  
-be rescheduled.
+The play focuses on the relationship between three scientists: Jill, a talented computer programmer attuned to psychic phenomena; her arrogant, egotistical and ruthless, if frequently charming, boss (and lover) Peter; and Collinson, the foreman on the project and confidante to both of them. Their differing personal experiences of the mansion’s haunted room provide the framework for the drama and are drawn along traditional gender lines. Kneale’s script explores male and female perspectives, contrasting rational problem solving and the application of the scientific method with intuitive and emotional responses and solutions aligned with a compassionate feeling for people and their circumstances. Peter and Jill stand at the opposite poles of this dialectic, and as their inability to communicate their differences increases, so their personal relationship disintegrates. Collinson comes somewhere between the two, as the main identification figure for the audience. Iain Cuthbertson gives a powerful yet restrained performance in the role, which was expanded considerably during filming as his character replaced the one played by Michael Bates, who became unavailable when the shooting of some scenes had to  be rescheduled.
 
 The special effects are often startling, despite their crudeness. The use of sound by the BBC Radiophonic Workshop, however, is highly sophisticated, with atonal electronic sounds used to merge music with the noises made by the scientific machinery.
 
-Although reminiscent of Kneale’s own earlier _Quatermass and the Pit_ in the way that science unleashes supernatural forces from the past, _The Stone Tape_ can also be seen as a dark meditation on Charles Dickens’ _A Christmas Carol_, with Peter as a Scrooge figure, basically uncaring of those around him, who eventually learns the error of his ways through supernatural intervention, but only when it’s too late.
-
-Sergio Angelini, BFI Screenonline, screenonline.org.uk
+Although reminiscent of Kneale’s own earlier _Quatermass and the Pit_ in the way that science unleashes supernatural forces from the past, _The Stone Tape_ can also be seen as a dark meditation on Charles Dickens’ _A Christmas Carol_, with Peter as a Scrooge figure, basically uncaring of those around him, who eventually learns the error of his ways through supernatural intervention, but only when it’s too late.  
+**Sergio Angelini, BFI Screenonline, screenonline.org.uk**
 
 **Journey to Avebury**
 
-This short is such an obvious choice I almost didn’t include it. But ever since I stumbled across _The Garden_ late one night on Channel 4, Jarman has been in the DNA of everything I do, so he had to be in this season somewhere. Simple, striking and melancholic: the fact that the aesthetic of the film was a mistake makes it even more precious.
+This short is such an obvious choice I almost didn’t include it. But ever since I stumbled across _The Garden_ late one night on Channel 4, Jarman has been in the DNA of everything I do, so he had to be in this season somewhere. Simple, striking and melancholic: the fact that the aesthetic of the film was a mistake makes it even more precious.  
+**Mark Jenkin**
+<br><br>
 
-Mark Jenkin
-
-<![endif]-->
-
-**JOURNEY TO AVEBURY**
-
-_Director/Photography/Editor_: Derek Jarman
-
-UK 1972
-
+**JOURNEY TO AVEBURY**  
+_Director/Photography/Editor_: Derek Jarman  
+UK 1972  
 10 mins
 
-**THE STONE TAPE**
-
+**THE STONE TAPE**  
 _Directed by_: Peter Sasdy  
 ©_/Production Company_: BBC  
 _Producer_: Innes Lloyd  
@@ -57,8 +48,7 @@ _Designer_: Richard Henry
 _Costumes_: Odette Barrow  
 _Make-up_: Maureen Winslade  
 _Sound_: Tony Miller  
-_Special Sound Effects_: Desmond Briscoe,  
-Glynis Jones, BBC Radiophonic Workshop
+_Special Sound Effects_: Desmond Briscoe,  Glynis Jones, BBC Radiophonic Workshop
 
 _Cast:_
 
@@ -83,5 +73,5 @@ UK 1972©
 
 89 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzkxNDMzOV19
+eyJoaXN0b3J5IjpbMTgxNDU4MDU3Nl19
 -->
