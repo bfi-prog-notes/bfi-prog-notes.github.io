@@ -32,58 +32,36 @@ The songs that populate the film are the soundtrack of Mendes’ life and a key 
 <br><br>
 
 **EMPIRE OF LIGHT**<br>
-
 _Directed by:_ Sam Mendes<br>
-
 _Presented by:_ Searchlight Pictures<br>
-
 _Executive Producers:_ Michael Lerman, Julie Pastor<br>
-
 _Produced by:_ Pippa Harris, Sam Mendes<br>
-
 _Co-producers:_ Celia Duval, Lola Oliyide<br>
-
 _Casting:_ Nina Gold<br>
-
 _Written by:_ Sam Mendes<br>
-
 _Director of Photography:_ Roger Deakins<br>
-
 _Editor:_ Lee Smith<br>
-
 _Production Designer:_ Mark Tildesley<br>
-
 _Costume Designer:_ Alexandra Byrne<br>
-
 _Hair and Make-up Designer:_ Naomi Donne<br>
-
 _Music:_ Trent Reznor, Atticus Ross<br>
-
 _Sound Mixer:_ Stuart Wilson<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Olivia Colman _(Hilary)_<br>
-
 Micheal Ward _(Stephen)_<br>
-
 Tom Brooke _(Neil)_<br>
+Tanya Moodie _(Delia)_<br>
+Hannah Onslow _(Janine)_<br>
+Crystal Clarke _(Ruby)_<br>
+Toby Jones _(Norman)_<br>
+Colin Firth _(Mr Ellis)_<br>
 
-Tanya Moodie _(Delia)_
+UK-USA 2022<br>
+115 mins<br>
 
-Hannah Onslow _(Janine)_
-
-Crystal Clarke _(Ruby)_
-
-Toby Jones _(Norman)_
-
-Colin Firth _(Mr Ellis)_
-
-UK-USA 2022
-
-115 mins
-
-Courtesy of Searchlight Pictures
+Courtesy of Searchlight Pictures<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4MDEzNTEwXX0=
+eyJoaXN0b3J5IjpbLTM4ODk4NjE5Ml19
 -->
