@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Walkabout
+published: true
+date: 2023-01-01
+readtime: true
+categories: ['MARK JENKIN’S THE CINEMATIC DNA OF ENYS MEN']
+tags: [Drama]
+metadata: 'Australia 1970, 100 mins<br> Director: Nicolas Roeg'
+pdf: '2023-01-01-walkabout.pdf'
+---
 
 When it comes to Nic Roeg’s influence upon my own work, there are probably more obvious choices: the red coat of _Don’t Look Now_, the fractured identities of _Performance_, the time slip of _The Man Who Fell to Earth_. However, this is where it all started for me. _Walkabout_ is a visceral, sensual and overwhelming experience that arrived at a formative time.  
 **Mark Jenkin**
@@ -20,8 +30,7 @@ I see it shining plain,
 The happy highways where I went  
 And cannot come again.’
 
-But only almost. Such an idyll cannot be taken neat. From anthropology Rung and Bone descend to mere revolution. That pleasurable complexity is betrayed by this simple conservationist message. If the film suddenly slumps into setting social problems and answering them, then we must ask other questions too. What innocence is lost? Is survival of the fittest an agreeable social plan?  
-How else control disease, promote hygiene, comfort; the arts or culture as distinct from survival? The questions don’t belong to the best parts of _Walkabout_ and neither do the answers. The savage is no noble, the sophisticate not corrupt. Trying to prove it, one way or another, in the face of the camera’s evidence, would be a betrayal of the film’s real vision.  
+But only almost. Such an idyll cannot be taken neat. From anthropology Rung and Bone descend to mere revolution. That pleasurable complexity is betrayed by this simple conservationist message. If the film suddenly slumps into setting social problems and answering them, then we must ask other questions too. What innocence is lost? Is survival of the fittest an agreeable social plan?  How else control disease, promote hygiene, comfort; the arts or culture as distinct from survival? The questions don’t belong to the best parts of _Walkabout_ and neither do the answers. The savage is no noble, the sophisticate not corrupt. Trying to prove it, one way or another, in the face of the camera’s evidence, would be a betrayal of the film’s real vision.  
 **Gavin Millar, _Sight and Sound_, Winter 1971/2**
 
 **Oss Oss Wee Oss**  
@@ -124,6 +133,24 @@ Fri 27 Jan 18:20; Tue 31 Jan 20:40<br>
 **Berberian Sound Studio + Wind**<br>
 Sun 29 Jan 15:30 (+ intro by Mark Jenkin and Peter Strickland); Tue 31 Jan 18:10<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNDcyNjczNzkyXX0=
 -->
