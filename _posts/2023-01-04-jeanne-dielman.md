@@ -28,35 +28,31 @@ Akerman once thought of dedicating _Jeanne Dielman_ to her mother, and in an int
 _Director:_ Chantal Akerman  
 _Production Companies:_ Paradise Films, Unité 3, Ministère de la Culture  
 _Producers:_ Evelyne Paul, Corinne Jenart  
-_Assistant Directors:_ Marilyn Watelet,  
-Serge Brodsky, Marianne de Muylder  
+_Assistant Directors:_ Marilyn Watelet,  Serge Brodsky, Marianne de Muylder  
 _Screenplay:_ Chantal Akerman  
 _Director of Photography:_ Babette Mangolte  
 _Editor:_ Patricia Canino  
-_Assistant Editors:_ Catherine Huhardeaux,
-
-Martine Chicot  
+_Assistant Editors:_ Catherine Huhardeaux, Martine Chicot  
 _Art Director:_ Philippe Graff  
 _Assistant Art Director:_ Jean-Pol Ferbus  
 _Make-up:_ Eliane Marcus  
-_Sound Recording:_ Benie Deswarte,
-
-Françoise van Thienen  
+_Sound Recording:_ Benie Deswarte, Françoise van Thienen  
 _Sound Re-recording:_ Jean-Paul Loublier  
 _Sound Editor:_ Alain Marchall  
-_Cast:_
 
+**Cast**  
 Delphine Seyrig _(Jeanne Dielman)_  
 Jan Decorte _(Sylvain Dielman)_  
 Henri Storck _(1st caller)_  
 Jacques Doniol-Valcroze _(2nd caller)_  
 Yves Bical _(3rd caller)_  
 Chantal Akerman _(voice of neighbour)_  
-Belgium/France 1975
 
+Belgium/France 1975  
 201 mins
 
 Restoration carried out from the original camera negative and in close collaboration with Chantal Akerman. Courtesy of the Royal Film Archive of Belgium – Cinematek.
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Mjc1MDYwOF19
+eyJoaXN0b3J5IjpbLTExMjQ0NDkzNTRdfQ==
 -->
