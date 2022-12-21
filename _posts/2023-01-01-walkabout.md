@@ -76,97 +76,54 @@ _Location Sound Mixer:_ Barry Brown<br>
 _Boom Operator:_ Kevin Kearney<br>
 _Dubbing Mixer:_ Gerry Humphreys<br>
 
-_Cast**<br>
-
+**Cast**<br>
 Jenny Agutter _(girl)_<br>
-
 Lucien John _(white boy)_<br>
-
 David Gumpilil _(black boy)_<br>
-
 John Meillon _(father)_<br>
-
 Robert McDara _(man)_<br>
-
 Pete Carver _(no hoper)_<br>
-
 John Illingsworth _(husband)_<br>
-
 Hilary Bamberger _(wife)_<br>
-
 Barry Donnelly _(Australian scientist)_<br>
-
 Noelene Brown _(German scientist)_<br>
-
 Carlo Manchini _(Italian scientist)_<br>
-
 George Roubicek _(voice of radio announcer)_ *<br>
 
 Australia 1970©<br>
-
 100 mins<br>
 
 *Uncredited
 <br><br>
 
 **MARK JENKIN’S THE CINEMATIC DNA OF ENYS MEN**<br>
-
 **Walkabout + Oss Oss Wee Oss**<br>
-
 Sun 1 Jan 13:10; Mon 9 Jan 20:30<br>
-
 **The Stone Tape + Journey to Avebury**<br>
-
 Mon 2 Jan 15:40<br>
-
-**Jeanne Dielman, 23 Quai du Commerce,  
-1080 Bruxelles**<br>
-
+**Jeanne Dielman, 23 Quai du Commerce,  1080 Bruxelles**<br>
 Wed 4 Jan 18:30; Sat 28 Jan 16:15<br>
-
 **Symptoms + Stigma**<br>
-
 Fri 6 Jan 18:10; Sun 15 Jan 15:30<br>
-
 **Lost Highway + Jaunt**<br>
-
 Fri 6 Jan 20:15; Sun 22 Jan 18:10<br>
-
-**Haunters of the Deep  
-+ The Living and the Dead Episode 2**<br>
-
+**Haunters of the Deep  + The Living and the Dead Episode 2**<br>
 Sun 8 Jan 13:20; Sat 14 Jan 20:40<br>
-
 **Long Weekend + Between the Tides**<br>
-
 Tue 10 Jan 18:20; Mon 23 Jan 20:30<br>
-
 **Penda’s Fen + A Warning to the Curious**<br>
-
 Wed 11 Jan 17:50<br>
-
 **Two Years at Sea + A Portrait of Ga**<br>
-
 Sat 14 Jan 18:00 (+ intro and Q&A with Mark Jenkin and Ben Rivers); Tue 24 Jan 20:45<br>
-
 **Daguerréotypes + World of Glory**<br>
-
-Sun 15 Jan 12:00 (+ intro by Mark Jenkin);  
-Thu 26 Jan 20:50<br>
-
+Sun 15 Jan 12:00 (+ intro by Mark Jenkin);  Thu 26 Jan 20:50<br>
 **Bait**<br>
-
 Sun 15 Jan 18:00; Mon 30 Jan 20:50<br>
-
 **Requiem for a Village + The Signalman**<br>
-
 Fri 27 Jan 18:20; Tue 31 Jan 20:40<br>
-
 **Berberian Sound Studio + Wind**<br>
-
-Sun 29 Jan 15:30 (+ intro by Mark Jenkin and  
-Peter Strickland); Tue 31 Jan 18:10<br>
+Sun 29 Jan 15:30 (+ intro by Mark Jenkin and Peter Strickland); Tue 31 Jan 18:10<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MTYwNjk0MV19
+eyJoaXN0b3J5IjpbNDcyNjczNzkyXX0=
 -->
