@@ -21,97 +21,86 @@ The happy highways where I went
 And cannot come again.’
 
 But only almost. Such an idyll cannot be taken neat. From anthropology Rung and Bone descend to mere revolution. That pleasurable complexity is betrayed by this simple conservationist message. If the film suddenly slumps into setting social problems and answering them, then we must ask other questions too. What innocence is lost? Is survival of the fittest an agreeable social plan?  
-How else control disease, promote hygiene, comfort; the arts or culture as distinct from survival? The questions don’t belong to the best parts of _Walkabout_ and neither do the answers. The savage is no noble, the sophisticate not corrupt. Trying to prove it, one way or another, in the face of the camera’s evidence, would be a betrayal of the film’s real vision.
+How else control disease, promote hygiene, comfort; the arts or culture as distinct from survival? The questions don’t belong to the best parts of _Walkabout_ and neither do the answers. The savage is no noble, the sophisticate not corrupt. Trying to prove it, one way or another, in the face of the camera’s evidence, would be a betrayal of the film’s real vision.  
+**Gavin Millar, _Sight and Sound_, Winter 1971/2**
 
-Gavin Millar, _Sight and Sound_, Winter 1971/2
+**Oss Oss Wee Oss**  
 
-**Oss Oss Wee Oss**
+I grew up over the water from Padstow and the sounds of the drums coming across the estuary on May morning would terrify and entice me in equal measure. There is nothing quite like Padstow on Mayday and this specific celebration of the coming of spring belongs to Padstownians everywhere. This is playful, inventive, evocative and, most importantly, respectful filmmaking.  
+**Mark Jenkin**
+<br><br>
 
-I grew up over the water from Padstow and the sounds of the drums coming across the estuary on May morning would terrify and entice me in equal measure. There is nothing quite like Padstow on Mayday and this specific celebration of the coming of spring belongs to Padstownians everywhere. This is playful, inventive, evocative and, most importantly, respectful filmmaking.
-
-Mark Jenkin
-
-<![endif]-->
-
-**OSS OSS WEE OSS**
-
+**OSS OSS WEE OSS**  
 _Direction_: Alan Lomax  
 _Production Company_: Folk Films  
 _Presented by_: Folk Films  
-_In co-operation with_:  
-The English Folk Dance and Song Society  
+_In co-operation with_:  The English Folk Dance and Song Society  
 _Production_: Peter Kennedy  
 _Script_: Alan Lomax  
 _Photography_: George Pickow  
-_Sound Editing and Re-recording_: Crawley Films
-
-_Narrated by:_ Charlie Bate of Padstow,  
-Charlie Chilton of London
-
-_With:_
-
+_Sound Editing and Re-recording_: Crawley Films  
+_Narrated by:_ Charlie Bate of Padstow,  Charlie Chilton of London  
+_With:_  
 The Hobby Horses of Padstow in Cornwall  
-The People of Padstow in Cornwall
-
-UK 1953
-
+The People of Padstow in Cornwall  
+UK 1953  
 18 mins
 
-**WALKABOUT**
+**WALKABOUT**<br>
 
-_Directed by:_ Nicolas Roeg
+_Directed by:_ Nicolas Roeg<br>
 
-©: Max L. Raab-Si Litvinoff Films (P.T.Y.) Ltd.
+©: Max L. Raab-Si Litvinoff Films (P.T.Y.) Ltd.<br>
 
-_A_ Max L. Raab – Si Litvinoff _production_
+_A_ Max L. Raab – Si Litvinoff _production_<br>
 
-_Executive Producer:_ Max L. Raab
+_Executive Producer:_ Max L. Raab<br>
 
-_Produced by:_ Si Litvinoff
+_Produced by:_ Si Litvinoff<br>
 
-_Associate Producer:_ Anthony J. Hope
+_Associate Producer:_ Anthony J. Hope<br>
 
-_Associate:_ Irving Zeiger
+_Associate:_ Irving Zeiger<br>
 
-_Production Manager:_ Grahame Jennings
+_Production Manager:_ Grahame Jennings<br>
 
-_Assistant Director:_ Kevin Kavanagh
+_Assistant Director:_ Kevin Kavanagh<br>
 
-_Continuity:_ Annabel Davis-Goff
+_Continuity:_ Annabel Davis-Goff<br>
 
-_Screenplay by:_ Edward Bond
+_Screenplay by:_ Edward Bond<br>
 
-_From the novel by:_ James Vance Marshall
+_From the novel by:_ James Vance Marshall<br>
 
-_Photographed by:_ Nicolas Roeg
+_Photographed by:_ Nicolas Roeg<br>
 
-_Special Photography:_ Tony Richmond
+_Special Photography:_ Tony Richmond<br>
 
-_Photographed in:_ Eastman Color
+_Photographed in:_ Eastman Color<br>
 
-_Camera Operator:_ Mike Molloy
+_Camera Operator:_ Mike Molloy<br>
 
-_Focus:_ Peter Hannan
+_Focus:_ Peter Hannan<br>
 
-_Stills:_ Dean Goodhill
+_Stills:_ Dean Goodhill<br>
 
-_Film Editors:_ Antony Gibbs, Alan Pattillo
+_Film Editors:_ Antony Gibbs, Alan Pattillo<br>
 
-_Assistant Film Editor:_ Brian Mann
+_Assistant Film Editor:_ Brian Mann<br>
 
-_Production Designer:_ Brian Eatwell
+_Production Designer:_ Brian Eatwell<br>
 
-_Art Director:_ Terry Gough
+_Art Director:_ Terry Gough<br>
 
-_Make-up:_ Linda Richmond
+_Make-up:_ Linda Richmond<br>
 
-_Music Composed and Conducted by:_ John Barry
+_Music Composed and Conducted by:_ John Barry<br>
 
-_Music Produced by:_ Phil Ramone
+_Music Produced by:_ Phil Ramone<br>
 
-_Location Sound Mixer:_ Barry Brown
+_Location Sound Mixer:_ Barry Brown<br>
 
-_Boom Operator:_ Kevin Kearney
+_Boom Operator:_ Kevin Kearney<br>
 
 _Dubbing Mixer:_ Gerry Humphreys
 
@@ -207,5 +196,5 @@ Fri 27 Jan 18:20; Tue 31 Jan 20:40
 Sun 29 Jan 15:30 (+ intro by Mark Jenkin and  
 Peter Strickland); Tue 31 Jan 18:10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA3NDgwODZdfQ==
+eyJoaXN0b3J5IjpbLTE4MzY2MjNdfQ==
 -->
