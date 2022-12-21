@@ -16,141 +16,139 @@ It’s the film’s subtle straddling of an older world and a new one still in t
 
 What makes _L’avventura_ the greatest of all films, however, is its assertion, exploration and expansion of the concept of the ‘open film’. This had been Antonioni’s great project ever since he started out as a filmmaker after an extremely interesting career as a critic (like Godard). His early documentaries, such as _The People of the Po_ (_Gente del Po_, 1947), and his earliest narrative films, such as the astonishing _Story of a Love Affair_ (_Cronaca di un amore_, 1950), suggest an artist pulling against what he perceived as the constraints of neorealism towards an openness based on a heightened perception of constant change – a dynamic that was for him the fundamental quality of the post-war world.  
 **Robert Koehler, _Sight and Sound_, August 2011**
+<br><br>
 
-<![endif]-->
+**L’AVVENTURA (THE ADVENTURE)**<br>
 
-**L’AVVENTURA (THE ADVENTURE)**
-
-_Directed by:_ Michelangelo Antonioni
+_Directed by:_ Michelangelo Antonioni<br>
 
 _Production Companies:_ Cino Del Duca,
 
 P.C.E. - Produzioni Cinematografiche,
 
-Société Cinématographique Lyre
+Société Cinématographique Lyre<br>
 
-_Produced by:_ Amato Pennasilico
+_Produced by:_ Amato Pennasilico<br>
 
-_Production Manager:_ Luciano Perugia
+_Production Manager:_ Luciano Perugia<br>
 
-_Unit Production Manager:_ Angelo Corso
+_Unit Production Manager:_ Angelo Corso<br>
 
-_Unit Managers:_ Enrico Bologna, Fernando Cinquini
+_Unit Managers:_ Enrico Bologna, Fernando Cinquini<br>
 
 _1st Assistant Directors:_ Franco Indovina,  
-Gianni Arduini
+Gianni Arduini<br>
 
-_2nd Assistant Director:_ Jack O’Connell
+_2nd Assistant Director:_ Jack O’Connell<br>
 
-_Script Supervisor:_ Elvira D’Amico
+_Script Supervisor:_ Elvira D’Amico<br>
 
 _Screenplay:_ Michelangelo Antonioni,  
-Elio Bartolini, Tonino Guerra
+Elio Bartolini, Tonino Guerra<br>
 
-_Story:_ Michelangelo Antonioni
+_Story:_ Michelangelo Antonioni<br>
 
-_Director of Photography:_ Aldo Scavarda
+_Director of Photography:_ Aldo Scavarda<br>
 
-_Camera Operator:_ Luigi Kuveiller
+_Camera Operator:_ Luigi Kuveiller<br>
 
-_Stills Photography:_ Enrico Appetito
+_Stills Photography:_ Enrico Appetito<br>
 
-_Editing by:_ Eraldo Da Roma
+_Editing by:_ Eraldo Da Roma<br>
 
-_Art Director:_ Piero Poletto
+_Art Director:_ Piero Poletto<br>
 
-_Costumes:_ Adriana Berselli
+_Costumes:_ Adriana Berselli<br>
 
-_Make-up:_ Ultimo Peruzzi
+_Make-up:_ Ultimo Peruzzi<br>
 
-_Hair:_ Mario Mandini
+_Hair:_ Mario Mandini<br>
 
-_Negatives:_ Dupont
+_Negatives:_ Dupont<br>
 
-_Prints & Processing:_ Istituto Nazionale LUCE
+_Prints & Processing:_ Istituto Nazionale LUCE<br>
 
-_Music by:_ Giovanni Fusco
+_Music by:_ Giovanni Fusco<br>
 
-_Sound Recording:_ Claudio Maielli
+_Sound Recording:_ Claudio Maielli<br>
 
-_Sound Re-recording:_ Fonolux
+_Sound Re-recording:_ Fonolux<br>
 
-_Sound Mixing:_ P. Ketoff, F. Ancillai, N. Renda
+_Sound Mixing:_ P. Ketoff, F. Ancillai, N. Renda<br>
 
-_Cast:_
+_Cast:_<br>
 
-Gabriele Ferzetti _(Sandro)_
+Gabriele Ferzetti _(Sandro)_<br>
 
-Monica Vitti _(Claudia)_
+Monica Vitti _(Claudia)_<br>
 
-Lea Massari _(Anna)_
+Lea Massari _(Anna)_<br>
 
-Dominique Blanchar _(Giulia)_
+Dominique Blanchar _(Giulia)_<br>
 
-Renzo Ricci _(Anna’s father)_
+Renzo Ricci _(Anna’s father)_<br>
 
-James Addams _(Corrado)_
+James Addams _(Corrado)_<br>
 
-Dorothy De Poliolo _(Gloria Perkins)_
+Dorothy De Poliolo _(Gloria Perkins)_<br>
 
-Lelio Luttazzi _(Raimondo)_
+Lelio Luttazzi _(Raimondo)_<br>
 
-Giovanni Petrucci _(Prince Goffredo)_
+Giovanni Petrucci _(Prince Goffredo)_<br>
 
-Esmeralda Ruspoli _(Patrizia)_
+Esmeralda Ruspoli _(Patrizia)_<br>
 
-Enrico Bologna
+Enrico Bologna<br>
 
-Franco Cimino
+Franco Cimino<br>
 
-Giovanni Danesi
+Giovanni Danesi<br>
 
-Rita Molé
+Rita Molé<br>
 
-Renato Pinciroli
+Renato Pinciroli<br>
 
-Angela Tommasi Di Lampedusa _(the princess)_
+Angela Tommasi Di Lampedusa _(the princess)_<br>
 
-Vincenzo Tranchina
+Vincenzo Tranchina<br>
 
-Jack O’Connell _(old man on the island)_ *
+Jack O’Connell _(old man on the island)_ *<br>
 
-Professor Cucco _(Ettore)_ *
+Professor Cucco _(Ettore)_ *<br>
 
-John Francis Lane *
+John Francis Lane *<br>
 
-Italy/France 1960
+Italy/France 1960<br>
 
-143 mins
+143 mins<br>
 
-* Uncredited
+*Uncredited
+<br><br>
 
-<![endif]-->
+**SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**<br>
 
-**SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**
+**The General** Sun 1 Jan 12:10; Sun 29 Jan 15:10<br>
 
-**The General** Sun 1 Jan 12:10; Sun 29 Jan 15:10
+**The Leopard (Il gattopardo)**<br>
 
-**The Leopard (Il gattopardo)**
+Sun 1 Jan 14:10; Thu 5 Jan 18:40; Fri 20 Jan 14:00<br>
 
-Sun 1 Jan 14:10; Thu 5 Jan 18:40; Fri 20 Jan 14:00
-
-**Sunset Boulevard**
+**Sunset Boulevard**<br>
 
 Sun 1 Jan 15:50; Fri 27 Jan 14:30;  
-Mon 30 Jan 17:50
+Mon 30 Jan 17:50<br>
 
-**Metropolis**
+**Metropolis**<br>
 
 Sun 1 Jan 17:55 (+ intro by Bryony Dixon, BFI Curator); Sun 15 Jan 14:40; Mon 30 Jan 16:30  
-BFI IMAX
+BFI IMAX<br>
 
-**L’avventura (The Adventure)**
+**L’avventura (The Adventure)**<br>
 
 Sun 1 Jan 18:05; Sun 22 Jan 15:20;  
-Mon 30 Jan 20:15
+Mon 30 Jan 20:15<br>
 
-**Touki-Bouki** Mon 2 Jan 13:40; Tue 31 Jan 17:40
+**Touki-Bouki** <br>Mon 2 Jan 13:40; Tue 31 Jan 17:40<br>
 
 **The Red Shoes  
 **Mon 2 Jan 13:50; Tue 24 Jan 18:05
@@ -267,5 +265,5 @@ Fri 20 Jan 17:45; Thu 26 Jan 17:50
 **Andrei Rublev  
 **Thu 26 Jan 18:40; Sun 29 Jan 17:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0MDI2NTI2XX0=
+eyJoaXN0b3J5IjpbMTk2NjkzNTA2Ml19
 -->
