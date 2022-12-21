@@ -150,108 +150,105 @@ Mon 30 Jan 20:15<br>
 
 **Touki-Bouki** <br>Mon 2 Jan 13:40; Tue 31 Jan 17:40<br>
 
-**The Red Shoes  
-**Mon 2 Jan 13:50; Tue 24 Jan 18:05
+**The Red Shoes**<br>
+Mon 2 Jan 13:50; Tue 24 Jan 18:05<br>
 
 **Once Upon a Time in the West  
-(C’era una volta il West)**
+(C’era una volta il West)**<br>
 
 Mon 2 Jan 15:20; Sat 7 Jan 17:15;  
-Sun 15 Jan 16:15 BFI IMAX
+Sun 15 Jan 16:15 BFI IMAX<br>
 
-**Get Out** Mon 2 Jan 18:40; Fri 6 Jan 17:50
+**Get Out** <br>
+Mon 2 Jan 18:40; Fri 6 Jan 17:50<br>
 
-**Pierrot le Fou  
-**Tue 3 Jan 18:10; Wed 4 Jan 20:30;  
-Thu 19 Jan 20:30
+**Pierrot le Fou**<br> 
+Tue 3 Jan 18:10; Wed 4 Jan 20:30;  
+Thu 19 Jan 20:30<br>
 
-**My Neighbour Totoro (Tonari no Totoro)**
+**My Neighbour Totoro (Tonari no Totoro)**<br>
 
 Tue 3 Jan 18:20; Sun 22 Jan 10:00 BFI IMAX;  
-Sat 28 Jan 13:40
+Sat 28 Jan 13:40<br>
 
-**A Man Escaped  
-(Un Condamné à mort s’est échappé)**
+**A Man Escaped  (Un Condamné à mort s’est échappé)**<br>
 
-Tue 3 Jan 18:30; Sat 28 Jan 20:30
+Tue 3 Jan 18:30; Sat 28 Jan 20:30<br>
 
-**Black Girl (La Noire de...)  
-**Tue 3 Jan 20:30; Thu 12 Jan 18:15 (+ intro)
+**Black Girl (La Noire de...)**<br>
+Tue 3 Jan 20:30; Thu 12 Jan 18:15 (+ intro)<br>
 
-**Ugetsu Monogatari  
-**Tue 3 Jan 20:50; Tue 17 Jan 20:30
+**Ugetsu Monogatari**<br>
+Tue 3 Jan 20:50; Tue 17 Jan 20:30<br>
 
-**Madame de...**
+**Madame de...**<br>
 
-Wed 4 Jan 14:30; Fri 20 Jan 18:10 (+ intro by Ruby McGuigan, Cultural Programme Manager)
+Wed 4 Jan 14:30; Fri 20 Jan 18:10 (+ intro by Ruby McGuigan, Cultural Programme Manager)<br>
 
-**Yi Yi (A One and a Two…)**
+**Yi Yi (A One and a Two…)**<br>
 
-Wed 4 Jan 18:40; Sun 22 Jan 14:00 (+ intro by Hyun Jin Cho, Film Programmer, BFI Festivals)
+Wed 4 Jan 18:40; Sun 22 Jan 14:00 (+ intro by Hyun Jin Cho, Film Programmer, BFI Festivals)<br>
 
-**The Shining**
+**The Shining**<br>
 
 Fri 6 Jan 20:10; Tue 10 Jan 20:10;  
-Sat 21 Jan 20:30 BFI IMAX
+Sat 21 Jan 20:30 BFI IMAX<br>
 
-**Spirited Away (Sen to Chihiro no Kamikakushi)**
+**Spirited Away (Sen to Chihiro no Kamikakushi)**<br>
 
-Sat 7 Jan 12:10; Sun 22 Jan 12:30 BFI IMAX
+Sat 7 Jan 12:10; Sun 22 Jan 12:30 BFI IMAX<br>
 
-**Tropical Malady (Sud pralad)**
+**Tropical Malady (Sud pralad)**<br>
 
-Sat 7 Jan 13:50; Mon 9 Jan 20:40
+Sat 7 Jan 13:50; Mon 9 Jan 20:40<br>
 
-**Histoire(s) du cinema** Sat 7 Jan 16:30
+**Histoire(s) du cinema** Sat 7 Jan 16:30<br>
 
-**Blue Velvet**
+**Blue Velvet**<br>
 
 Sat 7 Jan 20:30; Fri 20 Jan 20:35;  
-Tue 24 Jan 21:00 BFI IMAX
+Tue 24 Jan 21:00 BFI IMAX<br>
 
-**Sátántangó** Sun 8 Jan 11:15; Sat 21 Jan 13:30
+**Sátántangó** Sun 8 Jan 11:15; Sat 21 Jan 13:30<br>
 
-**Celine and Julie Go Boating  
-(Céline et Julie vont en bateau)**
+**Celine and Julie Go Boating  (Céline et Julie vont en bateau)**<br>
 
-Sun 8 Jan 14:45; Sat 21 Jan 17:00
+Sun 8 Jan 14:45; Sat 21 Jan 17:00<br>
 
-**Journey to Italy (Viaggio in Italia)**
+**Journey to Italy (Viaggio in Italia)**<br>
 
 Sun 8 Jan 18:20; Mon 23 Jan 14:30;  
-Fri 27 Jan 20:50
+Fri 27 Jan 20:50<br>
 
-**Parasite (Gisaengchung)**
+**Parasite (Gisaengchung)**<br>
 
-Mon 9 Jan 17:50; Wed 18 Jan 17:30 BFI IMAX
+Mon 9 Jan 17:50; Wed 18 Jan 17:30 BFI IMAX<br>
 
-**The Gleaners and I (Les glaneurs et la glaneuse) + La Jetée**
+**The Gleaners and I (Les glaneurs et la glaneuse) + La Jetée**<br>
 
-Wed 11 Jan 20:30; Mon 23 Jan 18:10
+Wed 11 Jan 20:30; Mon 23 Jan 18:10<br>
 
-**A Matter of Life and Death**
+**A Matter of Life and Death**<br>
 
-Thu 12 Jan 20:40; Sun 22 Jan 11:30
+Thu 12 Jan 20:40; Sun 22 Jan 11:30<br>
 
-**Chungking Express (Chung Him sam lam)**
+**Chungking Express (Chung Him sam lam)**<br>
 
 Thu 12 Jan 20:45; Tue 17 Jan 20:50;  
-Sat 21 Jan 14:15
-<![endif]-->
+Sat 21 Jan 14:15<br>
 
-**Modern Times**
+**Modern Times**<br>
 
-Fri 13 Jan 17:45; Sun 22 Jan 13:10
+Fri 13 Jan 17:45; Sun 22 Jan 13:10<br>
 
-**A Brighter Summer Day  
-(Guling jie shaonian sha ren shijian)**
+**A Brighter Summer Day  (Guling jie shaonian sha ren shijian)**<br>
 
-Mon 16 Jan 18:30; Sat 28 Jan 16:00
+Mon 16 Jan 18:30; Sat 28 Jan 16:00<br>
 
-**Imitation of Life**
+**Imitation of Life**<br>
 
 Wed 18 Jan 20:30; Wed 25 Jan 14:30;  
-Sun 29 Jan 12:30
+Sun 29 Jan 12:30<br>
 
 **The Spirit of the Beehive  
 (El espíritu de la colmena)**
@@ -265,5 +262,5 @@ Fri 20 Jan 17:45; Thu 26 Jan 17:50
 **Andrei Rublev  
 **Thu 26 Jan 18:40; Sun 29 Jan 17:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjkzNTA2Ml19
+eyJoaXN0b3J5IjpbMTM0MDM1NzkzMV19
 -->
