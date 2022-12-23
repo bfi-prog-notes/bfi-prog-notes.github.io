@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Once upon a Time in the Weest
+title: Once upon a Time in the West
 published: true
 date: 2023-01-02
 readtime: true
