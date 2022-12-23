@@ -1,8 +1,17 @@
-<![endif]-->
+---
+layout: post
+title: Once upon a Time in the Weest
+published: true
+date: 2023-01-02
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>95=']
+tags: [Western]
+metadata: 'USA/Japan 2017, 104 mins<br> Director: Jordan Peele'
+pdf: '2023-01-02-get-out.pdf'
+---
 
-It may not be the definitive western, but it might just be the most western: part parody, part eulogy, part apotheosis, _Once upon a Time in the West_ is every narrative and formal cliché, every grandiose gesture, every ambiguous, every subversive, every troubling commentary on American history that its parent genre deals in condensed into a sumptuously operatic melodrama that stands tall as one of the most purely cinematic spectacles ever put to film.
-
-**Alan Mattli, _Sight and Sound_, Winter 2022-23**
+It may not be the definitive western, but it might just be the most western: part parody, part eulogy, part apotheosis, _Once upon a Time in the West_ is every narrative and formal cliché, every grandiose gesture, every ambiguous, every subversive, every troubling commentary on American history that its parent genre deals in condensed into a sumptuously operatic melodrama that stands tall as one of the most purely cinematic spectacles ever put to film.  
+**Alan Mattli, _Sight and Sound_, Winter 2022-23**  
 
 Sergio Leone’s operatic, elegiac 1968 Western _Once Upon a Time in the West_ regularly sits at the top of many people’s favourite films of all-time list, and with good reason: think of Ennio Morricone’s unforgettable score, or the dialogue-free opening sequence that lingers on three hitmen as they wait for Charles Bronson’s ‘Harmonica’ to arrive in town by train – a masterpiece of slow-building tension. Then there’s the endlessly quotable dialogue (‘People scare better when they’re dying’) and the pitch-perfect performances, with Henry Fonda playing against type as the evil Frank, Jason Robards as Cheyenne, and a never-more beautiful Claudia Cardinale as the dignified widow Jill McBain. Leone called his film ‘a ballet of the dead’, and it both celebrated and changed forever the classic Western film.  
 **_Sight and Sound_, July 2009**
@@ -20,5 +29,5 @@ It is tempting to see _Once upon a Time in the West_ as the outcome of the meeti
 Most major Western themes are there, but, through Leone’s artificial, operatic style, the film becomes a view from Europe, based on American historical mythology but presenting it precisely as an alien mythology. The traditional function of the Western is undercut and its iconography used to say, in effect, that it does not wash any more: that life in the West, past and present, is nasty, brutish and short; ‘heroes’ and villains pursue money; and nobility comes only through preserving personal dignity, avenging evil, and turning one’s back on the world created by corrupt and crazy moneymakers.  
 **David Nicholls, _Sight & Sound_, Winter 1980-81**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTc2Mzk2OV19
+eyJoaXN0b3J5IjpbLTIzNDE2MTM3NiwtMzcxNzYzOTY5XX0=
 -->
