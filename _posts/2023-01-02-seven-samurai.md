@@ -1,4 +1,14 @@
-<![endif]-->
+---
+layout: post
+title: Seven Samurai
+published: true
+date: 2023-01-02
+readtime: true
+categories: ['KUROSAWA']
+tags: [Drama, Period]
+metadata: 'Japan 1954, 207 mins<br> Director: Akira Kurosawa'
+pdf: '2023-01-02-seven-samurai.pdf'
+---
 
 When Akira Kurosawa’s _Seven Samurai_ premiered in Japan on 26 April 1954, it was the most expensive domestic production ever, costing 125 million Yen (approximately $350,000), almost five times the then 26 million Yen ($63,000) average for a typical Japanese studio picture.
 
@@ -89,5 +99,5 @@ Kichijiro Ueda, Akira Tani, Haruo Nakajima, Takashi Narita, Senkichi Omura, Shun
 Japan 1954©  
 207 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTA5MzU1Ml19
+eyJoaXN0b3J5IjpbMTUzMDgwMzczOV19
 -->
