@@ -6,8 +6,8 @@ date: 2023-01-03
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>95=']
 tags: [Drama]
-metadata: 'France 1956, 90 mins<br> Director: Robert Bresson'
-pdf: '2023-01-02-man-escaped.pdf'
+metadata: 'Senegal/France 1965, 65 mins<br> Director: Ousmane Sembène'
+pdf: '2023-01-03-black-girl.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending
@@ -61,5 +61,5 @@ Senegal/France 1965
 
 Restored by Cineteca di Bologna  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTYzNDg2MF19
+eyJoaXN0b3J5IjpbLTI0ODczOTQ4NV19
 -->
