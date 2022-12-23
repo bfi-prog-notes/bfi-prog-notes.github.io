@@ -29,7 +29,163 @@ It is tempting to see _Once upon a Time in the West_ as the outcome of the meeti
 Most major Western themes are there, but, through Leone’s artificial, operatic style, the film becomes a view from Europe, based on American historical mythology but presenting it precisely as an alien mythology. The traditional function of the Western is undercut and its iconography used to say, in effect, that it does not wash any more: that life in the West, past and present, is nasty, brutish and short; ‘heroes’ and villains pursue money; and nobility comes only through preserving personal dignity, avenging evil, and turning one’s back on the world created by corrupt and crazy moneymakers.  
 **David Nicholls, _Sight & Sound_, Winter 1980-81**
 
+**ONCE UPON A TIME IN THE WEST (C'ERTA UNA VOLTA IL WEST)**  
+_Director:_ Sergio Leone  
+_Production Companies:_ Rafran Cinematografica, San Marco Cinematografica,  
+Euro International Films,  
+Paramount Pictures Corporation  
+_Executive Producer:_ Bino Cicogna  
+_Producer:_ Fulvio Morsella  
+_Production Supervisor:_ Ugo Tucci  
+_Production Manager:_ Claudio Mancini  
+_1st Assistant Director:_ Giancarlo Santi  
+_Screenplay:_ Sergio Donati, Sergio Leone  
+_Dialogue:_ Mickey Knox  
+_Story:_ Dario Argento, Bernardo Bertolucci,  Sergio Leone  
+_Director of Photography:_ Tonino Delli Colli  
+_Special Effects:_ Baciucchi  
+_Editor:_ Nino Baragli  
+_Sets/Costumes:_ Carlo Simi  
+_Make-up Supervisor:_ Alberto De Rossi  
+_Make-up:_ Giannetto De Rossi  
+_Hairdresser:_ Grazia De Rossi  
+_Music Composed and Conducted by:_  
+Ennio Morricone  
+_Sound Recording:_ Claudio Maielli, Elio Pacella, Fausto Ancillai  
+_Sound Effects:_ Luciano Anzellotti,  
+Italo Cameracanna, Roberto Arcangeli  
+_Studio:_ Cinecittà  
+_uncredited_  
+_Producer:_ Sergio Leone  
+_Administrator:_ Raffaele Forti  
+_Production Inspector:_ Camillo Teti  
+_2nd Production Inspector:_ Manolo Amigo 
+_Production Secretary:_ Glauco Teti
 
+_2nd Assistant Director:_ Salvatore Basile
+
+_Script Supervisor:_ Serena Canevari
+
+_Camera Operator:_ Franco Di Giacomo
+
+_Assistant Operator:_ Giuseppe Lanci
+
+_Key Grip:_ Franco Tocci
+
+_Gaffer:_ Alberto Ridolfi
+
+_Stills:_ Angelo Novi
+
+_Special Effects:_ Giovanni Corridori
+
+_Assistant Editors:_ Andreina Casini, Carlo Reali
+
+_Assistant Art Director:_ Enrico Simi
+
+_Set Decorators:_ Carlo Leva, Rafael Ferri
+
+_Assistant Set Decorator:_ Antonio Palombi
+
+_Costume Collaborator:_ Marilù Carteny
+
+_Wardrobe:_ Valeria Sponsali
+
+_Assistant Make-up:_ Feliziano Ciriaci
+
+_Assistant Hairdresser:_ Antonietta Caputo
+
+_Soprano Soloist:_ Edda Dell’Orso
+
+_Weapons Master:_ Benito Stefanelli
+
+_Cast:_
+
+Claudia Cardinale _(Jill McBain)_
+
+Henry Fonda _(Frank)_
+
+Jason Robards _(Cheyenne)_
+
+Charles Bronson _(Harmonica)_
+
+Gabriele Ferzetti _(Mr Morton)_
+
+Paolo Stoppa _(Sam, Jill’s driver)_
+
+Woody Strode _(Stony)_
+
+Jack Elam _(Snakey)_
+
+Keenan Wynn _(sheriff of the county)_
+
+Frank Wolff _(Brett McBain)_
+
+Lionel Stander _(tavern proprietor)_
+
+_uncredited_
+
+Marco Zuanelli _(Wobbles)_
+
+John Frederick _(Frank gunman 2 sent to kill Jill)_
+
+Enzo Santaniello _(Timmy McBain)_
+
+Dino Mele _(Harmonica as a boy)_
+
+Al Mulock _(Knuckles)_
+
+Benito Stefanelli _(Frank’s lieutenant)_
+
+Aldo Sambrell _(Cheyenne man wearing duster)_
+
+Aldo Berti _(Frank gunman playing poker)_
+
+Bruno Corazzari _(Cheyenne man 2)_
+
+Lorenzo Robledo _(Cheyenne man 3)_
+
+Tullio Palmieri _(Flagstone lumber salesman)_
+
+Simonetta Santaniello _(Maureen McBain)_
+
+Fabio Testi, Antonio Molino Rojo
+
+_(Frank gang members at auction)_
+
+Marilù Carteny _(Maureen McBain)_
+
+Paolo Figlia _(Frank man at auction)_
+
+Claudio Mancini _(Harmonica’s elder brother)_
+
+Renato Pinciroli _(first bidder at auction)_
+
+Luigi Ciavarro  
+_(deputy escorting Cheyenne to station)_
+
+Conrado San Martín  
+_(town official at Brett McBain’s funeral)_
+
+Spartaco Conversi  
+_(Frank gang member shot through foot)_
+
+Francisco Braña  
+_(pipe-smoking Frank gang member)_
+
+Luana Strode _(Indian woman at station)_
+
+Giuseppe Anatrelli _(Frank gunman 4)_
+
+Robert Spafford _(construction yard owner)_
+
+Joyce Gordon _(voice of Jill McBain, English version)_
+
+Luigi Magnani, Sandra Salvatori, Dino Zamboni, Livio Andronico, Stefano Imparato,  
+Umberto Morsella, Claudio Scarchilli, Salvo Basile, Frank Leslie, Enrico Morsella, Ivan Scratuglia
+
+Italy/USA 1968©
+
+165 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2NDM5NTcyLC0zNzE3NjM5NjldfQ==
+eyJoaXN0b3J5IjpbMzQxNjY5MTI3LC0zNzE3NjM5NjldfQ==
 -->
