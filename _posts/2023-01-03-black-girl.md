@@ -20,8 +20,7 @@ As an active member of the French Communist Party, Sembène soon made a name for
 
 Literature always remained Sembène’s first love. But he came to realise that it wasn’t the best way to reach his intended African audience, many of whom read little or were illiterate. Film offered a more promising medium with a far wider reach. In 1961 he travelled to Moscow for a year to study filmmaking at the Gorky Studios with Mark Donskoi and Sergei Gerasimov, and on his return to Africa he launched his career as a writer-director with _Borom sarret_ and _La Noire de…_ (A previous documentary short, _L’Empire songhai_, on the pre-colonial empire that dominated the western Sahel in the 15th and 16th centuries, seems to have remained unreleased.)
 
-A key strength of Sembène’s work was that, while consistently exposing and condemning the exploitation of Africa by the European colonial powers, he unhesitatingly turned his critical gaze on the way Africans themselves – especially the new African bourgeoisie – abused their power and exploited their fellow citizens. His Marxist background never misled him into taking a simplistic, blame-it-all-on-the-colonialists attitude to the problems he explored. So while the white French family are the target of his anger in  
-_La Noire de_…, the wretched hero of _Borom sarret_ (played by Ly Abdoulaye) is the victim of those around him.
+A key strength of Sembène’s work was that, while consistently exposing and condemning the exploitation of Africa by the European colonial powers, he unhesitatingly turned his critical gaze on the way Africans themselves – especially the new African bourgeoisie – abused their power and exploited their fellow citizens. His Marxist background never misled him into taking a simplistic, blame-it-all-on-the-colonialists attitude to the problems he explored. So while the white French family are the target of his anger in _La Noire de_…, the wretched hero of _Borom sarret_ (played by Ly Abdoulaye) is the victim of those around him.
 
 Refecting Sembène’s inexperience – and that of his actors, who as almost always in his films were non-professionals – all the dialogue in _Borom sarret_ is conveyed in voiceover. The same is true of some of the dialogue in _La Noire de_…, though altogether the film shows an increase in the director’s confidence and sophistication. It’s unique among Sembène’s films in that most of the action takes place in France, with brief flashbacks to Dakar; after this, all his films would be set entirely in Africa.
 
@@ -60,6 +59,8 @@ Senegal/France 1965
 65 mins  
 
 Restored by Cineteca di Bologna  
+<br>
+
 **SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**  
 **The General**  
 Sun 1 Jan 12:10; Sun 29 Jan 15:10  
