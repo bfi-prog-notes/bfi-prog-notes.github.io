@@ -5,8 +5,8 @@ published: true
 date: 2023-01-03
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>84=']
-tags: [Drama]
-metadata: 'France 1965, 110mins<br> Director: Jean-Luc Godard'
+tags: [Crime]
+metadata: 'France 1965, 110 mins<br> Director: Jean-Luc Godard'
 pdf: '2023-01-03-pierrot-le-fou.pdf'
 ---
 
@@ -169,5 +169,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzI3OTc0Nl19
+eyJoaXN0b3J5IjpbNTE0MzI2NjQxXX0=
 -->
