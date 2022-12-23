@@ -4,12 +4,11 @@ title: Pierrot le Fou
 published: true
 date: 2023-01-03
 readtime: true
-categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>95=']
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>84=']
 tags: [Drama]
-metadata: 'Senegal/France 1965, 65 mins<br> Director: Ousmane Sembène'
-pdf: '2023-01-03-black-girl.pdf'
+metadata: 'France 1965, 110mins<br> Director: Jean-Luc Godard'
+pdf: '2023-01-03-pierrot-le-fou.pdf'
 ---
-
 
 It would be as hard to remake _Pierrot le fou_ as it would be to forget it. Somehow its rueful lovers have to be reconciled to changed times. The film is 44 years old now [at time of writing], which is older than the two central characters whose remains drift away in the sea and the sun. Many things have gone with those two – the Vietnam War, that particular type of sports car, the possibility of an audience that will understand when Ferdinand (Jean-Paul Belmondo) starts to do a Michel Simon imitation. But the last time I looked, the south of France was still there and it was still possible for escaping souls to go south ‘like spirits through a mirror’. If you drive your car into the ocean on an impulse today, there may spring up the brief arc of rainbow that crowned the spray in the summer of 1965. But is it the same rainbow?
 
@@ -170,5 +169,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3MTE1NjM3XX0=
+eyJoaXN0b3J5IjpbMTY1NzI3OTc0Nl19
 -->
