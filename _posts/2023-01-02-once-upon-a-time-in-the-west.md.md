@@ -59,107 +59,57 @@ _uncredited_
 _Producer:_ Sergio Leone  
 _Administrator:_ Raffaele Forti  
 _Production Inspector:_ Camillo Teti  
-_2nd Production Inspector:_ Manolo Amigo 
-_Production Secretary:_ Glauco Teti
-
-_2nd Assistant Director:_ Salvatore Basile
-
-_Script Supervisor:_ Serena Canevari
-
-_Camera Operator:_ Franco Di Giacomo
-
-_Assistant Operator:_ Giuseppe Lanci
-
-_Key Grip:_ Franco Tocci
-
-_Gaffer:_ Alberto Ridolfi
-
-_Stills:_ Angelo Novi
-
-_Special Effects:_ Giovanni Corridori
-
-_Assistant Editors:_ Andreina Casini, Carlo Reali
-
-_Assistant Art Director:_ Enrico Simi
-
-_Set Decorators:_ Carlo Leva, Rafael Ferri
-
-_Assistant Set Decorator:_ Antonio Palombi
-
-_Costume Collaborator:_ Marilù Carteny
-
-_Wardrobe:_ Valeria Sponsali
-
-_Assistant Make-up:_ Feliziano Ciriaci
-
-_Assistant Hairdresser:_ Antonietta Caputo
-
-_Soprano Soloist:_ Edda Dell’Orso
-
-_Weapons Master:_ Benito Stefanelli
-
-_Cast:_
-
-Claudia Cardinale _(Jill McBain)_
-
-Henry Fonda _(Frank)_
-
-Jason Robards _(Cheyenne)_
-
-Charles Bronson _(Harmonica)_
-
-Gabriele Ferzetti _(Mr Morton)_
-
-Paolo Stoppa _(Sam, Jill’s driver)_
-
-Woody Strode _(Stony)_
-
-Jack Elam _(Snakey)_
-
-Keenan Wynn _(sheriff of the county)_
-
-Frank Wolff _(Brett McBain)_
-
-Lionel Stander _(tavern proprietor)_
-
-_uncredited_
-
-Marco Zuanelli _(Wobbles)_
-
-John Frederick _(Frank gunman 2 sent to kill Jill)_
-
-Enzo Santaniello _(Timmy McBain)_
-
-Dino Mele _(Harmonica as a boy)_
-
-Al Mulock _(Knuckles)_
-
-Benito Stefanelli _(Frank’s lieutenant)_
-
-Aldo Sambrell _(Cheyenne man wearing duster)_
-
-Aldo Berti _(Frank gunman playing poker)_
-
-Bruno Corazzari _(Cheyenne man 2)_
-
-Lorenzo Robledo _(Cheyenne man 3)_
-
-Tullio Palmieri _(Flagstone lumber salesman)_
-
-Simonetta Santaniello _(Maureen McBain)_
-
+_2nd Production Inspector:_ Manolo Amigo  
+_Production Secretary:_ Glauco Teti  
+_2nd Assistant Director:_ Salvatore Basile  
+_Script Supervisor:_ Serena Canevari  
+_Camera Operator:_ Franco Di Giacomo  
+_Assistant Operator:_ Giuseppe Lanci  
+_Key Grip:_ Franco Tocci  
+_Gaffer:_ Alberto Ridolfi  
+_Stills:_ Angelo Novi  
+_Special Effects:_ Giovanni Corridori  
+_Assistant Editors:_ Andreina Casini, Carlo Reali  
+_Assistant Art Director:_ Enrico Simi  
+_Set Decorators:_ Carlo Leva, Rafael Ferri  
+_Assistant Set Decorator:_ Antonio Palombi  
+_Costume Collaborator:_ Marilù Carteny  
+_Wardrobe:_ Valeria Sponsali  
+_Assistant Make-up:_ Feliziano Ciriaci  
+_Assistant Hairdresser:_ Antonietta Caputo  
+_Soprano Soloist:_ Edda Dell’Orso  
+_Weapons Master:_ Benito Stefanelli  
+_Cast:_  
+Claudia Cardinale _(Jill McBain)_  
+Henry Fonda _(Frank)_  
+Jason Robards _(Cheyenne)_  
+Charles Bronson _(Harmonica)_  
+Gabriele Ferzetti _(Mr Morton)_  
+Paolo Stoppa _(Sam, Jill’s driver)_  
+Woody Strode _(Stony)_  
+Jack Elam _(Snakey)_  
+Keenan Wynn _(sheriff of the county)_  
+Frank Wolff _(Brett McBain)_  
+Lionel Stander _(tavern proprietor)_  
+_uncredited_  
+Marco Zuanelli _(Wobbles)_  
+John Frederick _(Frank gunman 2 sent to kill Jill)_  
+Enzo Santaniello _(Timmy McBain)_  
+Dino Mele _(Harmonica as a boy)_  
+Al Mulock _(Knuckles)_  
+Benito Stefanelli _(Frank’s lieutenant)_  
+Aldo Sambrell _(Cheyenne man wearing duster)_  
+Aldo Berti _(Frank gunman playing poker)_  
+Bruno Corazzari _(Cheyenne man 2)_  
+Lorenzo Robledo _(Cheyenne man 3)_  
+Tullio Palmieri _(Flagstone lumber salesman)_  
+Simonetta Santaniello _(Maureen McBain)_  
 Fabio Testi, Antonio Molino Rojo
-
-_(Frank gang members at auction)_
-
-Marilù Carteny _(Maureen McBain)_
-
-Paolo Figlia _(Frank man at auction)_
-
-Claudio Mancini _(Harmonica’s elder brother)_
-
-Renato Pinciroli _(first bidder at auction)_
-
+_(Frank gang members at auction)_  
+Marilù Carteny _(Maureen McBain)_  
+Paolo Figlia _(Frank man at auction)_  
+Claudio Mancini _(Harmonica’s elder brother)_  
+Renato Pinciroli _(first bidder at auction)_  
 Luigi Ciavarro  
 _(deputy escorting Cheyenne to station)_
 
@@ -187,5 +137,5 @@ Italy/USA 1968©
 
 165 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxNjY5MTI3LC0zNzE3NjM5NjldfQ==
+eyJoaXN0b3J5IjpbMjgzMTg3NTg1LC0zNzE3NjM5NjldfQ==
 -->
