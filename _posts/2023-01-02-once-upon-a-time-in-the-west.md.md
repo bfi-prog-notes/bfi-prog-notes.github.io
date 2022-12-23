@@ -6,8 +6,8 @@ date: 2023-01-02
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>95=']
 tags: [Western]
-metadata: 'USA/Japan 2017, 104 mins<br> Director: Jordan Peele'
-pdf: '2023-01-02-get-out.pdf'
+metadata: 'Italy/USA 1968, 165 mins<br> Director: Sergio Leone'
+pdf: '2023-01-02-once-upon-a-time-in-the-west.pdf'
 ---
 
 It may not be the definitive western, but it might just be the most western: part parody, part eulogy, part apotheosis, _Once upon a Time in the West_ is every narrative and formal cliché, every grandiose gesture, every ambiguous, every subversive, every troubling commentary on American history that its parent genre deals in condensed into a sumptuously operatic melodrama that stands tall as one of the most purely cinematic spectacles ever put to film.  
@@ -28,6 +28,8 @@ It is tempting to see _Once upon a Time in the West_ as the outcome of the meeti
 
 Most major Western themes are there, but, through Leone’s artificial, operatic style, the film becomes a view from Europe, based on American historical mythology but presenting it precisely as an alien mythology. The traditional function of the Western is undercut and its iconography used to say, in effect, that it does not wash any more: that life in the West, past and present, is nasty, brutish and short; ‘heroes’ and villains pursue money; and nobility comes only through preserving personal dignity, avenging evil, and turning one’s back on the world created by corrupt and crazy moneymakers.  
 **David Nicholls, _Sight & Sound_, Winter 1980-81**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDE2MTM3NiwtMzcxNzYzOTY5XX0=
+eyJoaXN0b3J5IjpbMzM2NDM5NTcyLC0zNzE3NjM5NjldfQ==
 -->
