@@ -24,64 +24,52 @@ Perhaps Anna Karina sometimes felt that Godard had only put her in this film to 
 
 So I still find it a great film, and a warning signal that romance and romanticism were blood being drained out of the corpse called cinema. It’s as if Godard – one of the greatest readers of the medium we have ever had – foresaw that he could hardly make romantic films again. The process of finding the girl, teaching her to act, of having her in life and on the screen would turn camp after _Pierrot_. It’s as if he realised that life had worked out in such a way by 1965 that he was trapped at the start of a long downward slope.
 
-Yes of course the rest is ‘interesting’ and valuable. But in the years 1960 to1965 (very competitive years, let uadmit), Godard was without equal at vamping old story forms with the bittersweet tone of the best pop music of the era. To this day, _Vivre sa vie_ and _Pierrot le fou_ find their form, their cutting and their way of seeing in the regret with which a horribly bright, learned noirist is drawn into the _plein soleil_ of summer cinema. This is why Godard always wore dark glasses – against the sun.
+Yes of course the rest is ‘interesting’ and valuable. But in the years 1960 to1965 (very competitive years, let uadmit), Godard was without equal at vamping old story forms with the bittersweet tone of the best pop music of the era. To this day, _Vivre sa vie_ and _Pierrot le fou_ find their form, their cutting and their way of seeing in the regret with which a horribly bright, learned noirist is drawn into the _plein soleil_ of summer cinema. This is why Godard always wore dark glasses – against the sun.  
+**David Thomson, _Sight and Sound_, May 2009**  
 
-**David Thomson, _Sight and Sound_, May 2009**
-
-**PIERROT LE FOU**
-_Director:_ Jean-Luc Godard
-_Produced by:_ Rome-Paris Films, Paris, Société Nelle de Cinéma et Cinematografica S.p.A.
+**PIERROT LE FOU**  
+_Director:_ Jean-Luc Godard  
+_Produced by:_ Rome-Paris Films, Paris, Société Nelle de Cinéma et Cinematografica S.p.A.  
 _Presented by:_ Société Nouvelle de Cinématographie, René Pignères,
-Gérard Beytout
-
-_Photography by:_ Raoul Coutard
-
-_Editing by:_ Françoise Colin
-
-_Colour by:_ Eastmancolor
-
-_Filmed in:_ Techniscope
-
-_Laboratory:_ LTC
-_Music by:_ Antoine Duhamel
-
-_Sound:_ René Levert, Antoine Bonfanti
-
-_uncredited_
-
-_Production Companies:_
-
-Productions Georges de Beauregard (Paris), Dino De Laurentiis Cinematografica (Rome)
-_Producer:_ Georges de Beauregard
-_Production Manager:_ René Demoulin
-_Assistant Directors:_ Philippe Fourastie,
-Jean-Pierre Léaud
-_Written by:_ Jean-Luc Godard
+Gérard Beytout  
+_Photography by:_ Raoul Coutard  
+_Editing by:_ Françoise Colin  
+_Colour by:_ Eastmancol  
+_Filmed in:_ Techniscope  
+_Laboratory:_ LTC  
+_Music by:_ Antoine Duhamel  
+_Sound:_ René Levert, Antoine Bonfanti  
+_uncredited_  
+_Production Companies:_ Productions Georges de Beauregard (Paris), Dino De Laurentiis Cinematografica (Rome)  
+_Producer:_ Georges de Beauregard  
+_Production Manager:_ René Demoulin  
+_Assistant Directors:_ Philippe Fourastie, Jean-Pierre Léaud  
+_Written by:_ Jean-Luc Godard  
 _Based on the novel_ Obsession _by:_
-Lionel White
-_Camera Operator:_ Georges Liron
-_Art Director:_ Pierre Guffroy
+Lionel White  
+_Camera Operator:_ Georges Liron  
+_Art Director:_ Pierre Guffroy  
 
 **Cast**  
-Jean-Paul Belmondo _(Ferdinand Griffon)_
-Anna Karina _(Marianne Renoir)_
-_uncredited_
-Dirk Sanders _(Frank, Marianne’s brother)_
-Raymond Devos _(man on the pier)_
-Graziella Galvani _(Ferdinand’s wife)_
-Roger Dutoit, Hans Meyer _(gangsters)_
-Jimmy Karoubi _(the dwarf)_
-Christa Nell _(Madame Staquet)_
-Pascal Aubier _(2nd brother)_
-Pierre Hanin _(3rd brother)_
-Princess Aicha Abidir _(herself)_
-Samuel Fuller _(himself)_
-Alexis Poliakoff _(sailor)_
-László Szabó _(political exile from Santo Domingo)_
+Jean-Paul Belmondo _(Ferdinand Griffon)_  
+Anna Karina _(Marianne Renoir)_  
+_uncredited_  
+Dirk Sanders _(Frank, Marianne’s brother)_  
+Raymond Devos _(man on the pier)_  
+Graziella Galvani _(Ferdinand’s wife)_  
+Roger Dutoit, Hans Meyer _(gangsters)_  
+Jimmy Karoubi _(the dwarf)_  
+Christa Nell _(Madame Staquet)_  
+Pascal Aubier _(2nd brother)_  
+Pierre Hanin _(3rd brother)_  
+Princess Aicha Abidir _(herself)_  
+Samuel Fuller _(himself)_  
+Alexis Poliakoff _(sailor)_  
+László Szabó _(political exile from Santo Domingo)_  
 Jean-Pierre Léaud _(young man in cinema)_
 
 France/Italy 1965
 110 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM4MTk5OThdfQ==
+eyJoaXN0b3J5IjpbLTE0NzUxOTQ0NDVdfQ==
 -->
