@@ -4,7 +4,7 @@ title: Ugetsu Monogatari
 published: true
 date: 2023-01-03
 readtime: true
-categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>84=']
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>90=']
 tags: [Drama, Period, Romance]
 metadata: 'Japan 1953, 94 mins<br> Director: Kenji Mizoguchi'
 pdf: '2023-01-03-ugetsu-monogatari.pdf'
@@ -169,5 +169,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQ2MzQ0ODVdfQ==
+eyJoaXN0b3J5IjpbLTE2Mzc0MTU5MjAsLTE5MTQ2MzQ0ODVdfQ
+==
 -->
