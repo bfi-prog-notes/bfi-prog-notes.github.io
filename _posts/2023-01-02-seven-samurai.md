@@ -34,56 +34,34 @@ Despite airing in a 198-minute restored version nearest approaching Kurosawa’s
 
 In Japan, by contrast, the signature film by that ‘most Japanese of directors’ has now been supplanted in critical opinion by the magnum opus of the least: in the 1995 poll by _Kinema Junpo_ held to mark the centenary of cinema, _Seven Samurai_ was ranked in second place behind _Tokyo Story_ as the best Japanese film ever made, but rose to the top of the list in the 1999 poll, where it remained for the 2009 recount.
 
-Upon its original American release, Bosley Crowther had questioned ‘whether this picture is any more authentic to its period or culture than is the average American western film.’ At the end of the day, the humanism and potency of _Seven Samurai_’s theme and message have spoken for themselves, with a host of films produced across the world that were either directly modelled on it, referenced it, or acknowledged its archetypal plot setup, in which a team of disparate characters are grouped to undertake a specific mission. These range from _The Dirty Dozen_ (Robert Aldrich, 1967), the Bollywood classic _Sholay_ (Ramesh Sippy, 1975), George Lucas’s own _Star Wars_ (1977), _Battle beyond the Stars_ (Jimmy T. Murakami, 1980), _Savalan_ (Yadollah Samadi, 1990) from Iran, and, returning full circle to Japan, the 26-episode TV anime series _Samurai 7_ (2004).
+Upon its original American release, Bosley Crowther had questioned ‘whether this picture is any more authentic to its period or culture than is the average American western film.’ At the end of the day, the humanism and potency of _Seven Samurai_’s theme and message have spoken for themselves, with a host of films produced across the world that were either directly modelled on it, referenced it, or acknowledged its archetypal plot setup, in which a team of disparate characters are grouped to   ndertake a specific mission. These range from _The Dirty Dozen_ (Robert Aldrich, 1967), the Bollywood classic _Sholay_ (Ramesh Sippy, 1975), George Lucas’s own _Star Wars_ (1977), _Battle beyond the Stars_ (Jimmy T. Murakami, 1980), _Savalan_ (Yadollah Samadi, 1990) from Iran, and, returning full circle to Japan, the 26-episode TV anime series _Samurai 7_ (2004).
 
-_Seven Samurai_ is now by far the best known and influential film ever to hail from Japan. After all, what do critics know?
+_Seven Samurai_ is now by far the best known and influential film ever to hail from Japan. After all, what do critics know?  
+**Jasper Sharp, bfi.org.uk, 26 April 2014**  
 
-**Jasper Sharp, bfi.org.uk, 26 April 2014**
-
-**SEVEN SAMURAI (SHICHININ NO SAMURAI)**
-
-_Director:_ Akira Kurosawa
-
-_©:_ Toho Co. Ltd.
-
-_Production Company:_ Toho Co. Ltd.
-
-_Producer:_ Sojiro Motoki
-
+**SEVEN SAMURAI (SHICHININ NO SAMURAI)**  
+_Director:_ Akira Kurosawa  
+_©:_ Toho Co. Ltd.  
+_Production Company:_ Toho Co. Ltd.  
+_Producer:_ Sojiro Motoki  
 _Assistant Directors:_ Hiromichi Horikawa, Katsuya Shimizu,
+Sakae Hirosawa, Yasuyoshi Tajitsu, Toshi Kaneko  
+_Screenplay:_ Shinobu Hashimoto, Hideo Oguni, Akira Kurosawa  
+_Director of Photography:_ Asakazu Nakai  
+_Lighting:_ Shigeru Mori  
+_Art Director:_ So Matsuyama  
+_Art Consultation:_ Seiton Maeda, Kohei Ezaki  
+_Music:_ Fumio Hayasaka  
+_Sound Recording:_ Fumio Yanoguchi  
+_Sound Effects:_ Ichiro Minawa  
+_Fencing Director:_ Yushio Sugino  
+_Archery Directors:_ Ienori Kaneko, Shigeru Endo  
 
-Sakae Hirosawa, Yasuyoshi Tajitsu, Toshi Kaneko
-
-_Screenplay:_ Shinobu Hashimoto, Hideo Oguni, Akira Kurosawa
-
-_Director of Photography:_ Asakazu Nakai
-
-_Lighting:_ Shigeru Mori
-
-_Art Director:_ So Matsuyama
-
-_Art Consultation:_ Seiton Maeda, Kohei Ezaki
-
-_Music:_ Fumio Hayasaka
-
-_Sound Recording:_ Fumio Yanoguchi
-
-_Sound Effects:_ Ichiro Minawa
-
-_Fencing Director:_ Yushio Sugino
-
-_Archery Directors:_ Ienori Kaneko, Shigeru Endo
-
-**Cast**
-
-Takashi Shimura _(Kambei Shimada, leader of samurai)_
-
-Toshiro Mifune _(Kikuchiyo, would-be samurai)_
-
-Seiji Miyaguchi _(Kyuzo, swordsman)_
-
-Ko Kimura _(Katsushiro, young samurai)_
-
+**Cast**  
+Takashi Shimura _(Kambei Shimada, leader of samurai)_  
+Toshiro Mifune _(Kikuchiyo, would-be samurai)_  
+Seiji Miyaguchi _(Kyuzo, swordsman)_  
+Ko Kimura _(Katsushiro, young samurai)_  
 Daisuke Katô _(Shichiroji, Kambei’s friend)_  
 Minoru Chiaki _(Heihachi, good-natured samurai)_  
 Yoshio Inaba _(Gorobei, wise warrior)_  
@@ -111,5 +89,5 @@ Kichijiro Ueda, Akira Tani, Haruo Nakajima, Takashi Narita, Senkichi Omura, Shun
 Japan 1954©  
 207 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUwNzAzNzldfQ==
+eyJoaXN0b3J5IjpbMTI5OTA5MzU1Ml19
 -->
