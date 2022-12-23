@@ -5,9 +5,9 @@ published: true
 date: 2023-01-04
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>90=']
-tags: [Drama, Period]
-metadata: 'France/Italy 1953, 100 mins<br> Director: Max Ophuls'
-pdf: '2023-01-04-madame-de.pdf'
+tags: [Drama]
+metadata: 'Taiwan/Japan 2000, 173 mins<br> Director: Edward Yang'
+pdf: '2023-01-04-one-and-a-two-de.pdf'
 ---
 
 Yang’s warm, witty and wise look at how the members of an extended Taiwanese family deal (or not!) with various everyday problems has the scale, depth and attention to detail of a great novel. It starts with the patriarch fortuitously bumping into an old flame on the day his mother goes into a coma; thereafter the complications and ironies proliferate to engrossing effect.  
@@ -113,5 +113,5 @@ Print courtesy of UCLA
 
 The screening on Sunday 22 January will be introduced by Hyun Jin Cho, Film Programmer, BFI Festivals.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI2MjIxMjJdfQ==
+eyJoaXN0b3J5IjpbLTMzMDU4NjM0Ml19
 -->
