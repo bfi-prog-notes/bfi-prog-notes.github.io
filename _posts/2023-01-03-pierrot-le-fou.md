@@ -66,10 +66,10 @@ Princess Aicha Abidir _(herself)_
 Samuel Fuller _(himself)_  
 Alexis Poliakoff _(sailor)_  
 László Szabó _(political exile from Santo Domingo)_  
-Jean-Pierre Léaud _(young man in cinema)_
+Jean-Pierre Léaud _(young man in cinema)_  
 
-France/Italy 1965
-110 mins
+France/Italy 1965  
+110 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzUxOTQ0NDVdfQ==
+eyJoaXN0b3J5IjpbNzcyMjE3OTcxXX0=
 -->
