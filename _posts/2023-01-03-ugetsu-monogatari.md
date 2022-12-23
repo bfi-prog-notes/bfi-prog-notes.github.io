@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Ugetsu Monogatari
+published: true
+date: 2023-01-03
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>84=']
+tags: [Drama, Period]
+metadata: 'Japan 1953, 94 mins<br> Director: Kenji Mizoguchi'
+pdf: '2023-01-03-ugetsu-monogatari.pdf'
+---
 
 One of Mizoguchi’s greatest films, _Ugetsu Monogatari_ intertwines two ghost stories into a shiveringly beautiful masterpiece whose pictorial accomplishment (were it not for the fluidity of his camera moves, almost every frame would deserve freezing) never distracts from its narrative and emotional core. Two peasant brothers are determined to make something of themselves by exploiting opportunities presented by war-torn 16th-century Japan. One seeks wealth through selling his pottery, the other fame from martial prowess: both are undone by their greed. But calling it a morality tale does no justice to Mizoguchi’s treatment: when the potter meets the mysterious Lady Wakasa, the physical and supernatural worlds achieve a perfect if fleeting balance.  
 **Michael Brooke, _Sight and Sound_, July 2008**  
@@ -72,5 +81,5 @@ Jun Fujikawa, Ryuji Fukui, Eigi Ishiguro, Koji Fukuda _(soldiers)_
 Japan 1953  
 94 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTMwNzYzMDhdfQ==
+eyJoaXN0b3J5IjpbNzE5Njk4MTEzXX0=
 -->
