@@ -80,8 +80,7 @@ Jun Fujikawa, Ryuji Fukui, Eigi Ishiguro, Koji Fukuda _(soldiers)_
 
 Japan 1953  
 94 mins  
-
-
+<br>
 **SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**  
 **The General**  
 Sun 1 Jan 12:10; Sun 29 Jan 15:10  
@@ -170,5 +169,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5NjY2NTM5XX0=
+eyJoaXN0b3J5IjpbLTE5MTQ2MzQ0ODVdfQ==
 -->
