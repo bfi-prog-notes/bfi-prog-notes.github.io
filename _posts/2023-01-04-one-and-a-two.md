@@ -1,9 +1,17 @@
+---
+layout: post
+title: A One and a Two
+published: true
+date: 2023-01-04
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>90=']
+tags: [Drama, Period]
+metadata: 'France/Italy 1953, 100 mins<br> Director: Max Ophuls'
+pdf: '2023-01-04-madame-de.pdf'
+---
 
-<![endif]-->
-
-Yang’s warm, witty and wise look at how the members of an extended Taiwanese family deal (or not!) with various everyday problems has the scale, depth and attention to detail of a great novel. It starts with the patriarch fortuitously bumping into an old flame on the day his mother goes into a coma; thereafter the complications and ironies proliferate to engrossing effect.
-
-**Geoff Andrew, bfi.org.uk**
+Yang’s warm, witty and wise look at how the members of an extended Taiwanese family deal (or not!) with various everyday problems has the scale, depth and attention to detail of a great novel. It starts with the patriarch fortuitously bumping into an old flame on the day his mother goes into a coma; thereafter the complications and ironies proliferate to engrossing effect.  
+**Geoff Andrew, bfi.org.uk**  
 
 You have to be alert and very observant during the opening minutes of an Edward Yang film. Few, if any, concessions are made to the expectations raised by western cinema. There are no close-ups, you’re not nag-narrated by voiceover, no one will explain plot points in the dialogue, and none of the cast will be well known to you. Yang’s films are as rich in domestic trauma as _EastEnders_, but his melodrama is nothing like soap opera. It’s a process of tender, sensitive, gradual adult revelation; a cinema that seeps steady doses into your system until you’re overwhelmed by its poignancy.
 
@@ -15,13 +23,10 @@ Music is used adroitly to access the inner life of this model middle-management 
 
 To some extent, NJ and his family are suffering the typical aftermath of the Asian economic meltdown. It seems no accident that Yang should make such a mature, reflective and controlled film at such a time. If the frantic social satire of his _A Confucian Confusion_ (1994), which mocked Taiwan’s obsession with consumerism as the Tiger economies cranked into top gear, proved an apposite barometer of an economy out of control, the sobriety and tender grief at the passing of harmony in the much more successful _A One and a Two…_ are surely pointers to the means of slow recovery.
 
-That’s not to say that the film lacks anger. Only that compared with Yang’s other major achievement, _A Brighter ummer Day_ – a doom-haunted ’60s period epic about a teen _crime passionel_ half remembered from a real incident in Yang’s youth (echoed here in the relationship between Lili and Fatty) –  
-_A One and a Two…_’s sense of a Taiwanese identity crisis between native and mainland Chinese populations and US and Japanese mercantile influences is put more profoundly in a global, perhaps even universal context through the film’s use of an ‘ordinary’ technocrat’s middle-class family. Yang still sees Taiwan’s insistence on drilling its youth to study science and engineering rather than the humanities as an imposition and a weakness. His quarrel with government agencies and Taiwan’s film-funding mechanisms has been almost perpetual, stretching back to the days of military censorship. Now that Taiwan has no film industry to speak of, the struggle is even fiercer.
+That’s not to say that the film lacks anger. Only that compared with Yang’s other major achievement, _A Brighter ummer Day_ – a doom-haunted ’60s period epic about a teen _crime passionel_ half remembered from a real incident in Yang’s youth (echoed here in the relationship between Lili and Fatty) – _A One and a Two…_’s sense of a Taiwanese identity crisis between native and mainland Chinese populations and US and Japanese mercantile influences is put more profoundly in a global, perhaps even universal context through the film’s use of an ‘ordinary’ technocrat’s middle-class family. Yang still sees Taiwan’s insistence on drilling its youth to study science and engineering rather than the humanities as an imposition and a weakness. His quarrel with government agencies and Taiwan’s film-funding mechanisms has been almost perpetual, stretching back to the days of military censorship. Now that Taiwan has no film industry to speak of, the struggle is even fiercer.  
+**Nick James, _Sight & Sound_, April 2001**  
 
-**Nick James, _Sight & Sound_, April 2001**
-
-**A ONE AND A TWO… (YI YI)**
-
+**A ONE AND A TWO… (YI YI)**  
 _Director:_ Edward Yang  
 _©/Presented by:_ 1+2 Seisaku Iinkai  
 _Presented by:_ Pony Canyon, Omega Project, Hakuhodo  
@@ -108,5 +113,5 @@ Print courtesy of UCLA
 
 The screening on Sunday 22 January will be introduced by Hyun Jin Cho, Film Programmer, BFI Festivals.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDIzODI2NTVdfQ==
+eyJoaXN0b3J5IjpbLTEzMzI2MjIxMjJdfQ==
 -->
