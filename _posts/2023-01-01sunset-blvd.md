@@ -121,108 +121,57 @@ Sun 1 Jan 15:50; Fri 27 Jan 14:30; Mon 30 Jan 17:50
 **Metropolis**  
 Sun 1 Jan 17:55 (+ intro by Bryony Dixon, BFI Curator); Sun 15 Jan 14:40; Mon 30 Jan 16:30 BFI IMAX  
 **L’avventura (The Adventure)**  
-Sun 1 Jan 18:05; Sun 22 Jan 15:20; Mon 30 Jan 20:15
-
-**Touki-Bouki**
-
-Mon 2 Jan 13:40; Tue 31 Jan 17:40
-
-**The Red Shoes**
-
-Mon 2 Jan 13:50; Tue 24 Jan 18:05
-
-**Once Upon a Time in the West (C’era una volta il West)**
-
-Mon 2 Jan 15:20; Sat 7 Jan 17:15; Sun 15 Jan 16:15 BFI IMAX
-
-**Get Out**
-
-Mon 2 Jan 18:40; Fri 6 Jan 17:50
-
-**Pierrot le Fou**
-
-Tue 3 Jan 18:10; Wed 4 Jan 20:30; Thu 19 Jan 20:30
-
-**My Neighbour Totoro (Tonari no Totoro)**
-
-Tue 3 Jan 18:20; Sun 22 Jan 10:00 BFI IMAX; Sat 28 Jan 13:40
-
-**A Man Escaped (Un Condamné à mort s’est échappé)**
-
-Tue 3 Jan 18:30; Sat 28 Jan 20:30
-
-**Black Girl (La Noire de...)**
-
-Tue 3 Jan 20:30; Thu 12 Jan 18:15 (+ intro)
-
-**Ugetsu Monogatari**
-
-Tue 3 Jan 20:50; Tue 17 Jan 20:30
-
-**Madame de...**
-
-Wed 4 Jan 14:30; Fri 20 Jan 18:10 (+ intro by Ruby McGuigan, Cultural Programme Manager)
-
-**Yi Yi (A One and a Two…)**
-
-Wed 4 Jan 18:40; Sun 22 Jan 14:00 (+ intro by Hyun Jin Cho, Film Programmer, BFI Festivals)
-
-**The Shining**
-
-Fri 6 Jan 20:10; Tue 10 Jan 20:10; Sat 21 Jan 20:30 BFI IMAX
-
-**Spirited Away (Sen to Chihiro no Kamikakushi)**
-
-Sat 7 Jan 12:10; Sun 22 Jan 12:30 BFI IMAX
-
-**Tropical Malady (Sud pralad)**
-
-Sat 7 Jan 13:50; Mon 9 Jan 20:40
-
-**Histoire(s) du cinema**
-
-Sat 7 Jan 16:30
-
-**Blue Velvet**
-
-Sat 7 Jan 20:30; Fri 20 Jan 20:35; Tue 24 Jan 21:00 BFI IMAX
-
-**Sátántangó**
-
-Sun 8 Jan 11:15; Sat 21 Jan 13:30
-
-**Celine and Julie Go Boating (Céline et Julie vont en bateau)**
-
-Sun 8 Jan 14:45; Sat 21 Jan 17:00
-
-**Journey to Italy (Viaggio in Italia)**
-
-Sun 8 Jan 18:20; Mon 23 Jan 14:30; Fri 27 Jan 20:50
-
-**Parasite (Gisaengchung)**
-
-Mon 9 Jan 17:50; Wed 18 Jan 17:30 BFI IMAX
-
-**The Gleaners and I (Les glaneurs et la glaneuse) + La Jetée**
-
-Wed 11 Jan 20:30; Mon 23 Jan 18:10
-
-**A Matter of Life and Death**
-
-Thu 12 Jan 20:40; Sun 22 Jan 11:30
-
-**Chungking Express (Chung Him sam lam)**
-
-Thu 12 Jan 20:45; Tue 17 Jan 20:50; Sat 21 Jan 14:15
-
-**Modern Times**
-
-Fri 13 Jan 17:45; Sun 22 Jan 13:10
-
-**A Brighter Summer Day (Guling jie shaonian sha ren shijian)**
-
-Mon 16 Jan 18:30; Sat 28 Jan 16:00
-
+Sun 1 Jan 18:05; Sun 22 Jan 15:20; Mon 30 Jan 20:15  
+**Touki-Bouki**  
+Mon 2 Jan 13:40; Tue 31 Jan 17:40  
+**The Red Shoes**  
+Mon 2 Jan 13:50; Tue 24 Jan 18:05  
+**Once Upon a Time in the West (C’era una volta il West)**  
+Mon 2 Jan 15:20; Sat 7 Jan 17:15; Sun 15 Jan 16:15 BFI IMAX  
+**Get Out**  
+Mon 2 Jan 18:40; Fri 6 Jan 17:50  
+**Pierrot le Fou**  
+Tue 3 Jan 18:10; Wed 4 Jan 20:30; Thu 19 Jan 20:30  
+**My Neighbour Totoro (Tonari no Totoro)**  
+Tue 3 Jan 18:20; Sun 22 Jan 10:00 BFI IMAX; Sat 28 Jan 13:40  
+**A Man Escaped (Un Condamné à mort s’est échappé)**  
+Tue 3 Jan 18:30; Sat 28 Jan 20:30  
+**Black Girl (La Noire de...)**  
+Tue 3 Jan 20:30; Thu 12 Jan 18:15 (+ intro)  
+**Ugetsu Monogatari**  
+Tue 3 Jan 20:50; Tue 17 Jan 20:30  
+**Madame de...**  
+Wed 4 Jan 14:30; Fri 20 Jan 18:10 (+ intro by Ruby McGuigan, Cultural Programme Manager)  
+**Yi Yi (A One and a Two…)**  
+Wed 4 Jan 18:40; Sun 22 Jan 14:00 (+ intro by Hyun Jin Cho, Film Programmer, BFI Festivals)  
+**The Shining**  
+Fri 6 Jan 20:10; Tue 10 Jan 20:10; Sat 21 Jan 20:30 BFI IMAX  
+**Spirited Away (Sen to Chihiro no Kamikakushi)**  
+Sat 7 Jan 12:10; Sun 22 Jan 12:30 BFI IMAX  
+**Tropical Malady (Sud pralad)**  
+Sat 7 Jan 13:50; Mon 9 Jan 20:40  
+**Histoire(s) du cinema**  
+Sat 7 Jan 16:30  
+**Blue Velvet**  
+Sat 7 Jan 20:30; Fri 20 Jan 20:35; Tue 24 Jan 21:00 BFI IMAX  
+**Sátántangó**  
+Sun 8 Jan 11:15; Sat 21 Jan 13:30  
+**Celine and Julie Go Boating (Céline et Julie vont en bateau)**   
+Sun 8 Jan 14:45; Sat 21 Jan 17:00  
+**Journey to Italy (Viaggio in Italia)**  
+Sun 8 Jan 18:20; Mon 23 Jan 14:30; Fri 27 Jan 20:50  
+**Parasite (Gisaengchung)**  
+Mon 9 Jan 17:50; Wed 18 Jan 17:30 BFI IMAX  
+**The Gleaners and I (Les glaneurs et la glaneuse) + La Jetée**  
+Wed 11 Jan 20:30; Mon 23 Jan 18:10  
+**A Matter of Life and Death**  
+Thu 12 Jan 20:40; Sun 22 Jan 11:30  
+**Chungking Express (Chung Him sam lam)**  
+Thu 12 Jan 20:45; Tue 17 Jan 20:50; Sat 21 Jan 14:15  
+**Modern Times**  
+Fri 13 Jan 17:45; Sun 22 Jan 13:10  
+**A Brighter Summer Day (Guling jie shaonian sha ren shijian)**  
+Mon 16 Jan 18:30; Sat 28 Jan 16:00  
 **Imitation of Life**
 
 Wed 18 Jan 20:30; Wed 25 Jan 14:30; Sun 29 Jan 12:30
@@ -239,5 +188,5 @@ Fri 20 Jan 17:45; Thu 26 Jan 17:50
 
 Thu 26 Jan 18:40; Sun 29 Jan 17:20
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTU4ODI3MF19
+eyJoaXN0b3J5IjpbMTY2OTI2NjU5Ml19
 -->
