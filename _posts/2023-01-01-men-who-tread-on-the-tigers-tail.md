@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Men Who Tread on the Tiger’s Tail
+published: true
+date: 2023-01-01
+readtime: true
+categories: ['KUROSAWA']
+tags: [Drama, Period, Martial Arts]
+metadata: 'Japan 1945, 60 mins<br> Director: Akira Kurosawa'
+pdf: '2023-01-01-men-who-tread-on-the-tigers-tail.pdf'
+---
 Kurosawa’s final film of the war years (in fact Japan surrendered while it was still being made) is the shortest of all his features. _They Who Step on the Tiger’s Tail_ (1945), running just under an hour, is taken from a popular _kabuki_ drama. Set in the late 12th century, it tells how the young general Yoshitsune, fleeing the murderous jealousy of his older brother, the shogun Yoritomo, arrives with his followers at a checkpoint manned by Yoritomo’s forces. The general’s followers, led by his steward Benkei, are dressed as Buddhist priests, while Yoshitsune himself is disguised as their porter. When the post commander, Togashi, suspects the ruse, Benkei pretends to find his ‘porter’ lazy and beats him. Though seeing through the trick, Togashi is so impressed by this bold defiance of feudal convention, and the loyalty that it evinces, that he lets the party through.
 
 Given the stringent situation of the country, Kurosawa was allowed only a single set, the checkpoint post itself; the rest of the film had to be shot on location. He welcomed this stipulation, finding it made the film ‘much easier to shoot’. But he also made an anomalous change to the action: the casting of the comedian Kenichi Enomoto (known as Enoken) in the additional role of a real porter, aiming (he claimed) to ‘make the picture come alive’ – a move described by Donald Richie as ‘a bit like adding Jerry Lewis to the cast of _Hamlet’_. Whatever Kurosawa’s intentions, Enoken’s relentless gurning soon becomes tiresome; but the idea can be seen as a dry run for the far more successful use of the two greedy, cowardly peasants as a downmarket Greek chorus in _The Hidden Fortress_ (1958).
@@ -73,11 +83,28 @@ Wed 11 Jan – Wed 22 Feb 18:30
 
 **In partnership with**  
 
-
+<img style="float: left;" src="/img/Japan Foundation.jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 **Promotional partner**  
 
+<img style="float: left;" src="/img/wagamama.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4NjEzNDU3XX0=
--->
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
