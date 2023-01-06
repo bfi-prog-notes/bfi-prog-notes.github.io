@@ -5,9 +5,9 @@ published: true
 date: 2023-01-07
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>84=']
-tags: [Horror]
-metadata: 'USA 1980, 144 mins<br> Director: Stanley Kubrick'
-pdf: '2023-01-06-shining.pdf'
+tags: [Drama]
+metadata: 'USA 1986, 120 mins<br> Director: David Lynch'
+pdf: '2023-01-07-blue-velvet.pdf'
 ---
 **SPOILER WARNING** The following notes give away some of the plot.  
 
@@ -217,5 +217,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDgzMDE3OTcsLTM0MDAyNTIwMV19
+eyJoaXN0b3J5IjpbLTE2MDIwNDA5ODMsLTM0MDAyNTIwMV19
 -->
