@@ -4,9 +4,9 @@ title: Tropical Malady
 published: true
 date: 2023-01-07
 readtime: true
-categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>75=']
-tags: [Animation]
-metadata: '<Japan 2001, 124 mins<br> Director: < Apichatpong Weerasethakul'
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>95=']
+tags: [Drama]
+metadata: 'France/Thailand/Germany/Italy/Switzerland 2004, 118 mins<br> Director: Apichatpong Weerasethakul'
 pdf: '2023-01-07-tropical-malady.pdf'
 ---
 
@@ -168,5 +168,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDMzNDAxOTNdfQ==
+eyJoaXN0b3J5IjpbLTcwMzcyODg1XX0=
 -->
