@@ -6,8 +6,8 @@ date: 2023-01-08
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>78=']
 tags: [Drama]
-metadata: 'France 1974, 193 mins<br> Director: Jacques Rivette'
-pdf: '2023-01-08-celine-and-julie-go-boating-de.pdf'
+metadata: 'Hungary/ Germany/Switzerland 1994, 439 mins<br> Director: Béla Tarr'
+pdf: '2023-01-08-satantango.pdf'
 ---
 
 A monumental cinematic achievement, _Sátántangó_ bears testimony to the purity of the director’s artistic vision and the perfection of his craft. On a canvas that is both dark and deep, Béla Tarr paints with light, movement and the palpable passage of time to create a portrait of Hungary at a crucial historical inflection point. _Sátántangó_ is as transfixing a film as any that has ever been.  
@@ -68,6 +68,7 @@ Katalin Krizsánné Kovács
 
 Hungary/ Germany/Switzerland 1994  
 439 mins + intervals  
+<br
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzODc4MDgyXX0=
+eyJoaXN0b3J5IjpbLTEyODI4ODcyODRdfQ==
 -->
