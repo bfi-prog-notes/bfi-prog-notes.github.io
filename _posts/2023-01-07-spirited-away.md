@@ -7,7 +7,7 @@ date: 2023-01-07
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>75=']
 tags: [Animation]
-metadata: '<Japan , 267 mins<br> Director: Jean-Luc Godard'
+metadata: '<Japan 2001, 124 mins<br> Director: <Hayao Miyazaki'
 pdf: '2023-01-07-histoires-du-cinema.pdf'
 ---
 
@@ -90,5 +90,5 @@ Bunta Sugawara _(Kamaji)_
 Japan 2001©  
 124 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNTcyNjc2XX0=
+eyJoaXN0b3J5IjpbLTk5MDAyNzg1Nl19
 -->
