@@ -4,12 +4,11 @@ title: Céline and Julie Go Boating
 published: true
 date: 2023-01-08
 readtime: true
-categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>90=']
-tags: [Drama, Period]
-metadata: 'France/Italy 1953, 100 mins<br> Director: Max Ophuls'
-pdf: '2023-01-04-madame-de.pdf'
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>78=']
+tags: [Drama]
+metadata: 'France 1974, 193 mins<br> Director: Jacques Rivette'
+pdf: '2023-01-08-celine-and-julie-go-boating-de.pdf'
 ---
-
 
 No film has brought me more joy than _Céline and Julie Go Boating_. It’s funny, playful, full of tiny details that you only notice on subsequent viewings. It’s rather like a bedtime story invented on the spot; the teller doesn’t have the faintest clue where it will end up at the beginning, but disparate elements gradually build up and intersect until, finally, the whole thing comes alive.  
 **David Heslin, _Sight and Sound_, Winter 2022-23**  
@@ -161,5 +160,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjMxNTUxMl19
+eyJoaXN0b3J5IjpbLTI0MDg1MTAxMV19
 -->
