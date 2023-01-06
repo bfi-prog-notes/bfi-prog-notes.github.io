@@ -1,9 +1,18 @@
 
-<![endif]-->
+---
+layout: post
+title: Histoire(s) du cinéma
+published: true
+date: 2023-01-07
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>75=']
+tags: [Animation]
+metadata: '<Japan , 267 mins<br> Director: Jean-Luc Godard'
+pdf: '2023-01-07-histoires-du-cinema.pdf'
+---
 
-_Spirited Away_ sets its intimations of mortality, the decline of a culture and the loss of nature against one of the most sumptuous and dazzling _mises en scène_ ever created in cinema – in the bathhouse of the gods, where the initially timorous young heroine goes to find work in order to rescue her parents who have been cursed by a magic spell. This is an enchanting and exciting coming-of-age story that can be enjoyed by all ages, but the subdued, lambent melancholy of the movie’s final third, with its train ride into the shadows, is a tour de force of what animation can do.
-
-**Susan Napier, _Sight and Sound_, Winter 2022-23**
+_Spirited Away_ sets its intimations of mortality, the decline of a culture and the loss of nature against one of the most sumptuous and dazzling _mises en scène_ ever created in cinema – in the bathhouse of the gods, where the initially timorous young heroine goes to find work in order to rescue her parents who have been cursed by a magic spell. This is an enchanting and exciting coming-of-age story that can be enjoyed by all ages, but the subdued, lambent melancholy of the movie’s final third, with its train ride into the shadows, is a tour de force of what animation can do.  
+**Susan Napier, _Sight and Sound_, Winter 2022-23**  
 
 _Spirited Away_, a Japanese animated fantasy about a little girl’s adventures in a realm of gods and monsters, invites comparisons to the Alice books,  
 _The Wizard of Oz_ and even _Harry Potter_. First and foremost, though, this remarkable film is embedded in the personal universe of its auteur-director Hayao Miyazaki, whose standing in Japan is comparable to Steven Spielberg’s or, indeed, J.K. Rowling’s in the west. From its opening in 2001, _Spirited Away_ has become the biggest Japanese release in history. It is also the most successful ‘foreign’ film ever made, with the bulk of its revenue earned in its native country. The film shared the Golden Bear at the 2002 Berlin festival, followed by an Oscar for best animated feature. It is released in Britain both dubbed and subtitled, the dub produced by Disney and directed by Kirk Wise, who co-directed _Beauty and the Beast_ and _Atlantis: The Lost Empire_.
@@ -17,45 +26,27 @@ From here on the audience is at Chihiro’s eye-level, to sink or swim in a fant
 
 Initially Chihiro stumbles through her world, hurtling down steep stairs and being magically yanked across hallways. Her switch to active protagonist is signalled in the second half, when she hitches up her worker’s uniform, runs along a treacherous metal pipe that nearly drops her to her doom, then climbs the bathhouse to the top. What causes this change? Miyazaki’s answer is hard work, but of a different order from the jovial capitalism of Disney’s dwarves. One of the director’s most popular earlier films, _Kiki’s Delivery Service_ (1989), was about a teen witch making flying deliveries while coping with adolescence. _Spirited Away_ has a similarly offbeat work regime with Chihiro tending Japanese gods and learning responsibility and purpose. This has less to do with stereotypes of the industrious Japanese than with Miyazaki’s own leftist leanings and belief in empowerment through labour. What makes it more than dreary moralism are the witty riffs on the theme. Chihiro’s first trial is to help a soot-sprite carry unnaturally heavy lumps of coal; she succeeds, only for all its co-workers to drop their burdens before her _en masse_.
 
-Western audiences may chafe at the sub-Disney frame rate (much of the animation is done on ‘threes’, or eight distinct frames a second) and the cartoon acting can’t match that of the best US studios. That said, Chihiro’s fearful, clinging behaviour is well observed, while her character design – with a thin gawky body and pipe-cleaner legs – is inspired. In any case, cartoon acting was never the sine qua non of Miyazaki’s films, which are built instead on heightened situations and sublime fantasy landscapes. Even if CG cartoons come to dominate Japan as they do much of the world, there’s a corner of the animation field that will be forever Miyazaki.
+Western audiences may chafe at the sub-Disney frame rate (much of the animation is done on ‘threes’, or eight distinct frames a second) and the cartoon acting can’t match that of the best US studios. That said, Chihiro’s fearful, clinging behaviour is well observed, while her character design – with a thin gawky body and pipe-cleaner legs – is inspired. In any case, cartoon acting was never the sine qua non of Miyazaki’s films, which are built instead on heightened situations and sublime fantasy landscapes. Even if CG cartoons come to dominate Japan as they do much of the world, there’s a corner of the animation field that will be forever Miyazaki.  
+**Andrew Osmond, _Sight & Sound_, September 2003**  
 
-**Andrew Osmond, _Sight & Sound_, September 2003**
-
-**SPIRITED AWAY (SEN TO CHIHIRO NO KAMIKAKUSHI)**
-
+**SPIRITED AWAY (SEN TO CHIHIRO NO KAMIKAKUSHI)**  
 _Director_: Hayao Miyazaki  
 _©_: Nibariki TGNDDTM  
-_Presented by_: Tokuma Shoten, Studio Ghibli, Nippon Television Network Corporation, Dentsu, Buena Vista Home Entertainment (Japan),
-
-TFC – Tohokushinsha Film Corporation, Mitsubishi Corporation  
+_Presented by_: Tokuma Shoten, Studio Ghibli, Nippon Television Network Corporation, Dentsu, Buena Vista Home Entertainment (Japan), TFC – Tohokushinsha Film Corporation, Mitsubishi Corporation  
 _Chief Executive Producer_: Yasuyoshi Tokuma  
-_Executive Producers_: Takeyoshi Matsushita, Seiichiro Ujiie,
-
-Yutaka Narita, Koji Hoshino, Banjiro Uemura, Hironori Aihara  
+_Executive Producers_: Takeyoshi Matsushita, Seiichiro Ujiie, Yutaka Narita, Koji Hoshino, Banjiro Uemura, Hironori Aihara  
 _Producer_: Toshio Suzuki  
 _Associate Producers_: Seiji Okuda, Ryoichi Fukuyama  
 _Production Manager_: Mozomu Takahashi  
-_Casting Co-ordination_: Pug Point,Motohiro Hatanaka, Keiko Yagi,
-
-Naomi Yasu  
+_Casting Co-ordination_: Pug Point,Motohiro Hatanaka, Keiko Yagi, Naomi Yasu  
 _Written by_: Hayao Miyazaki  
 _Colour Design_: Michiyo Yasuda  
 _Digital Camera/Composite Operators_: Junji Yabuta, Wataru Takahashi, Atsushi Tamura  
 _Director of Digital Imaging_: Atsushi Okui  
 _Supervising Animators_: Masashi Ando, Kitaro Kosaka, Megumi Kagawa  
-_Key Animation_: Takeshi Inamura, Kenichi Yamada, Masaru Matsuse, Hideaki Yoshio, Eiji Yamamori, Katsutoshi Nakamura, Kazuyoshi Onoda, Makiko Suzuki, Mariko Matsuo, Atsushi Tamura, Hiromasa Yonebayashi, Kaori Fujii, Tamami Yamada, Makiko Futaki, Yoshiyuki Momose,
-
-Akihiko Yamashita, Nobuyuki Takeuchi, Shôgo Furuya, Misuzu Kurata, Atsushi Yamagata, Shigeru Kimishima, Kiroomi Yamakawa,
-
-Nobuhiro Osugi, Yuichi Tanaka, Shizue Kaneko, Hideki Hamasu,
-
-Hisaki Furukawa, Kenichi Konishi, Masaru Oshiro, Shinya Ohira,
-
-Shinji Hashimoto, Hisashi Nakayama, Noboru Takano, Masako Shinohara, Kuniyuki Ishii, Shojuro Yamauchi  
+_Key Animation_: Takeshi Inamura, Kenichi Yamada, Masaru Matsuse, Hideaki Yoshio, Eiji Yamamori, Katsutoshi Nakamura, Kazuyoshi Onoda, Makiko Suzuki, Mariko Matsuo, Atsushi Tamura, Hiromasa Yonebayashi, Kaori Fujii, Tamami Yamada, Makiko Futaki, Yoshiyuki Momose, Akihiko Yamashita, Nobuyuki Takeuchi, Shôgo Furuya, Misuzu Kurata, Atsushi Yamagata, Shigeru Kimishima, Kiroomi Yamakawa, Nobuhiro Osugi, Yuichi Tanaka, Shizue Kaneko, Hideki Hamasu, Hisaki Furukawa, Kenichi Konishi, Masaru Oshiro, Shinya Ohira, Shinji Hashimoto, Hisashi Nakayama, Noboru Takano, Masako Shinohara, Kuniyuki Ishii, Shojuro Yamauchi  
 _Telecom Animation Film_: Atsuko Tanaka  
-_Supporting Animation Studios_: Anime Torotoro, Oh Production,
-
-Studio Cockpit, Studio Takuranke, Group Donguri, Nakamura Production, Gainax, Doga Kobo, Studio Kuma, Production I-G, Studio Musashi, Boomerang, Studio Deen, Studio Hibari, Radical Party, Kiryu, Mugenkan, AIC, Shaft, Liberty Ship, Mad House  
+_Supporting Animation Studios_: Anime Torotoro, Oh Production, Studio Cockpit, Studio Takuranke, Group Donguri, Nakamura Production, Gainax, Doga Kobo, Studio Kuma, Production I-G, Studio Musashi, Boomerang, Studio Deen, Studio Hibari, Radical Party, Kiryu, Mugenkan, AIC, Shaft, Liberty Ship, Mad House  
 _Director of Digital Animation_: Mitsunori Kataama  
 _Digital Animators_: Yoichi Senzui, Masaru Karube, Miki Sato,  
 Hiroki Yamada, Yuji Tone  
@@ -99,5 +90,5 @@ Bunta Sugawara _(Kamaji)_
 Japan 2001©  
 124 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjIyMTA3N119
+eyJoaXN0b3J5IjpbODgyNTcyNjc2XX0=
 -->
