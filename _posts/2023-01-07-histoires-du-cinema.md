@@ -1,17 +1,17 @@
 ---
 layout: post
-title: His
+title: Histoire(s) du cinéma
 published: true
 date: 2023-01-07
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>84=']
-tags: [Drama]
+tags: [Documentary, Cinema]
 metadata: 'USA 1986, 120 mins<br> Director: David Lynch'
 pdf: '2023-01-07-blue-velvet.pdf'
 ---
 
 **A contemporary review**  
-Almost twenty years ago, Godard stated what we can now see as a first draft of _Histoire(s) du cinema_. His so-called ‘Introduction to a veritable history of cinema and television’ was a series of improvised talks and film-shows given in 1977 at the Montreal Film School, a transcription of which was published as _Introduction à une veritable histoire du cinéma_ (Albatros, 1980). The series was structured as a succession of encounters of ‘voyages’, voyages between Switzerland and Canada, of course, but also between the great film classics and Godard’s own work. The lectures themselves were intended to pave the way for a truly filmic – that is, predominantly visual – history, largely letting the image to the talking, rather than the academic word. As Godard himself later described the ill-fated project: ‘It was decided that the scenario should be divided into several (ten) chapters or voyages, with a budget of $10,000 (Canadian) per chapter, to be shared between the Conservatory and the film company of which I am a partner, Sonimage. So for each trip I brought with me a little of my personal history [_mon histoire_], and plunged myself back into it at a rate of two films per month. But this dipping into my past often revealed something different from what my memory had recorded, no doubt explained by the fact that in the morning sessions there were projected extracts of films from the history of cinema, films which were related to what I was doing at that time. And I gave a running commentary on all this to three or four Canadians who were as lost as I was in the whole business [_histoire_]. Then everything came to a stop. […] But “nobody’s perfect”.’
+Almost twenty years ago, Godard stated what we can now see as a first draft of _Histoire(s) du cinéma_. His so-called ‘Introduction to a veritable history of cinema and television’ was a series of improvised talks and film-shows given in 1977 at the Montreal Film School, a transcription of which was published as _Introduction à une veritable histoire du cinéma_ (Albatros, 1980). The series was structured as a succession of encounters of ‘voyages’, voyages between Switzerland and Canada, of course, but also between the great film classics and Godard’s own work. The lectures themselves were intended to pave the way for a truly filmic – that is, predominantly visual – history, largely letting the image to the talking, rather than the academic word. As Godard himself later described the ill-fated project: ‘It was decided that the scenario should be divided into several (ten) chapters or voyages, with a budget of $10,000 (Canadian) per chapter, to be shared between the Conservatory and the film company of which I am a partner, Sonimage. So for each trip I brought with me a little of my personal history [_mon histoire_], and plunged myself back into it at a rate of two films per month. But this dipping into my past often revealed something different from what my memory had recorded, no doubt explained by the fact that in the morning sessions there were projected extracts of films from the history of cinema, films which were related to what I was doing at that time. And I gave a running commentary on all this to three or four Canadians who were as lost as I was in the whole business [_histoire_]. Then everything came to a stop. […] But “nobody’s perfect”.’
 
 Godard uses this preface to the published transcripts more or less to disown the rambling ad increasingly disillusioned series of lectures as a failure. In order to bring this ‘veritable history’ into being, he clearly needed a different material set-up, both in financial and technological terms. These two problems he appears to have solved by the late 80s, when the first two chapters of _Histoire(s) du cinéma_ were broadcast by Canal + (with whom he had signed a deal in 1988 initially for ten projected chapters of 50 minutes each). Thanks to the latest video and digital technology, he was now able to assume full authorial control of his history-making process, effectively eliminating in his home-based editing-suite and studio the aleatory chaos of flights, projections and audiences – and also concealing his own evident limitations as a public speaker.
 
@@ -83,5 +83,5 @@ _Editor_: Jean-Luc Godard
 France/Switzerland 1998  
 Parts 1-8 267 mins + intervals  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwNDMyNTUxXX0=
+eyJoaXN0b3J5IjpbLTg2Njc4MjQxOSw5NzA0MzI1NTFdfQ==
 -->
