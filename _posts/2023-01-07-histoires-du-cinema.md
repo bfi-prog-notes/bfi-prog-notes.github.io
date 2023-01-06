@@ -1,3 +1,14 @@
+---
+layout: post
+title: His
+published: true
+date: 2023-01-07
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>84=']
+tags: [Drama]
+metadata: 'USA 1986, 120 mins<br> Director: David Lynch'
+pdf: '2023-01-07-blue-velvet.pdf'
+---
 
 **A contemporary review**  
 Almost twenty years ago, Godard stated what we can now see as a first draft of _Histoire(s) du cinema_. His so-called ‘Introduction to a veritable history of cinema and television’ was a series of improvised talks and film-shows given in 1977 at the Montreal Film School, a transcription of which was published as _Introduction à une veritable histoire du cinéma_ (Albatros, 1980). The series was structured as a succession of encounters of ‘voyages’, voyages between Switzerland and Canada, of course, but also between the great film classics and Godard’s own work. The lectures themselves were intended to pave the way for a truly filmic – that is, predominantly visual – history, largely letting the image to the talking, rather than the academic word. As Godard himself later described the ill-fated project: ‘It was decided that the scenario should be divided into several (ten) chapters or voyages, with a budget of $10,000 (Canadian) per chapter, to be shared between the Conservatory and the film company of which I am a partner, Sonimage. So for each trip I brought with me a little of my personal history [_mon histoire_], and plunged myself back into it at a rate of two films per month. But this dipping into my past often revealed something different from what my memory had recorded, no doubt explained by the fact that in the morning sessions there were projected extracts of films from the history of cinema, films which were related to what I was doing at that time. And I gave a running commentary on all this to three or four Canadians who were as lost as I was in the whole business [_histoire_]. Then everything came to a stop. […] But “nobody’s perfect”.’
@@ -52,25 +63,25 @@ _Editor_: Jean-Luc Godard
 27 mins  
 
 **Chapter 3(b)**  
-**Une vague Nouvelle** _
-**(A New Wave)**
-1998
-27 mins
+**Une vague Nouvelle**  
+**(A New Wave)**  
+1998  
+27 mins  
 
-**Chapter 4(a)**
-**Le Contrôle de l’univers**
-**(The Control of the Universe)**
-1998
-27 mins
+**Chapter 4(a)**  
+**Le Contrôle de l’univers**  
+**(The Control of the Universe)**  
+1998  
+27 mins  
 
-**Chapter 4(b)**
-**Les Signes parmi nous**
-**(The Signs Among Us)**
-1998
-38 mins
+**Chapter 4(b)**  
+**Les Signes parmi nous**  
+**(The Signs Among Us)**  
+1998  
+38 mins  
 
-France/Switzerland 1998
-Parts 1-8 267 mins + intervals
+France/Switzerland 1998  
+Parts 1-8 267 mins + intervals  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTMyOTUyNjZdfQ==
+eyJoaXN0b3J5IjpbOTcwNDMyNTUxXX0=
 -->
