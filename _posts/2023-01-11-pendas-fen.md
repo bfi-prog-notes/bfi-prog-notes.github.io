@@ -23,15 +23,96 @@ If it’s uncommon for films to be associated with their screenwriters rather th
 
 For all its invocation of deep time and older Albions, and its revisiting of themes that Rudkin had been exploring for well over a decade, _Penda’s Fen_ is clearly a work of the early 1970s. It features a photograph-burning character based on Mary Whitehouse, the self-designated custodian of public morality who, from the 1960s to the 1980s, railed against the permissive society. The film’s discussions of cultural purity would have struck a nerve as, particularly following the arrival of almost 60,000 Idi Amin-expelled Ugandan Asians to Britain in 1972, funereal orations to true Englishness were routinely delivered by pundits and politicians, Enoch Powell’s fear-mongering prophecies about immigration leading to rivers of blood were endlessly echoed. After a recent public screening of the film, Rudkin distanced it from the field of ‘folk horror’ – ‘psychogeography, hauntology, folklore, cultural rituals and costume, earth mysteries, visionary landscapism, archaic history’ – in which it has come to have hallowed status. ‘It’s a bloody political piece,’ he observed, before adding, ‘I’ve always thought of myself as a political writer.’ Dread and paranoia permeate the drama: mounting industrial disputes, whispers about top secret military installations, withering denunciation of ‘the manipulators and fixers and psychopaths who hold the real power in the land’.
 
-There is so much to say about _Penda’s Fen_. It is, as the poet and curator Gareth Evans has written, ‘an outrider of its origins and the era of its making, a singular, far-seeing and multi-chambered work of art that has unravelled and reconstituted very many who have encountered it.’ It is ceaseless and profound, dangerous and delirious. It is, in words that are spoken to Stephen at a crucial scene in the film, ‘strange, dark, true, impure, and dissonant.’
+There is so much to say about _Penda’s Fen_. It is, as the poet and curator Gareth Evans has written, ‘an outrider of its origins and the era of its making, a singular, far-seeing and multi-chambered work of art that has unravelled and reconstituted very many who have encountered it.’ It is ceaseless and profound, dangerous and delirious. It is, in words that are spoken to Stephen at a crucial scene in the film, ‘strange, dark, true, impure, and dissonant.’  
+**Sukhdev Sandhu, booklet essay for _Penda’s Fen_ Blu-ray/DVD (BFI, 2016)**
 
-Sukhdev Sandhu, booklet essay for _Penda’s Fen_ Blu-ray/DVD (BFI, 2016)
+**A Warning to the Curious**  
+When I think of _The Ghost Stories for Christmas_ series, I think of Lawrence Gordon Clark more than MR James. But of all the James adaptations, this is my favourite – a highly atmospheric piece of visual storytelling with a chilling climax. I find the simplicity of the filmmaking invigorating. No doubt born of limitation, this is cinema by way of TV.  
+**Mark Jenkin**
+<br><br>
 
-**A Warning to the Curious**
+**PLAY FOR TODAY: PENDA’S FEN**  
+_Directed by_: Alan Clarke  
+©: BBC  
+_Production Company_: BBC Birmingham  
+_Producer_: David Rose  
+_Script Editor_: Tara Prem  
+_[Written] By_: David Rudkin  
+_Film Cameraman_: Michael Williams  
+_Operator_: Ken Morgan  
+_Special Effects_: Clifford Culley  
+_Animation_: Bernard Lodge  
+_Film Editor_: Henry Fowler  
+_Design_: Michael Edwards  
+_Costume_: Joyce Hawkins  
+_Make-up_: Jan Nethercot  
+_Sound Recordist_: John Gilbert  
+_Sound Mixer_: David Baumber  
+_Radiophonic Sound_: Paddy Kingsland
 
-When I think of _The Ghost Stories for Christmas_ series, I think of Lawrence Gordon Clark more than MR James. But of all the James adaptations, this is my favourite – a highly atmospheric piece of visual storytelling with a chilling climax. I find the simplicity of the filmmaking invigorating. No doubt born of limitation, this is cinema by way of TV.
+_Cast**
+Spencer Banks _(Stephen)_  
+John Atkinson _(Reverend J. Franklin)_  
+Georgine Anderson _(Mrs Franklin)_  
+Ron Smerczak _(Joel)_  
+Ian Hogg _(Arne)_  
+Jennie Hesselwood _(Mrs Arne)_  
+Graham Leaman _(Sir Edward Elgar)_  
+Christopher Douglas _(Honeybone)_  
+John Richmond _(headmaster)_  
+Ivor Roberts _(Cooke)_  
+Joan Scott _(the lady)_  
+Ray Gatenby _(the man)_  
+Helena McCarthy _(Mrs Kings)_  
+Joyce Grundy _(Mrs Gisbourne)_  
+Frank Veasey _(council workman)_  
+Elizabeth Revill _(nurse)_  
+Moray Black _(sixth former)_  
+John Scott _(Sir Nicholas Pole)_  
+Roy Preston _(Brott)_  
+Pat Bowker _(Joel’s girl)_  
+Geoffrey Staines _(King Penda)_  
+Geoffrey Pennells _(demon)_  
+Martin Reynolds _(angel)_  
+Ian Gemmell _(Harry)_ *
 
-Mark Jenkin
+BBC1 tx 21.3.1974
+
+UK 1973©
+
+90 mins
+
+* Uncredited
+
+**A GHOST STORY FOR CHRISTMAS:  
+A WARNING TO THE CURIOUS**
+
+_Producer_: Lawrence Gordon Clark  
+_Production Company_: BBC  
+_Adapted by_: Lawrence Gordon Clark  
+_[Story] by_: M.R. James  
+_Camera_: John McGlashan  
+_Designer_: Geoffrey Winslow  
+_Sound_: Dick Manton
+
+_Cast:_
+
+Peter Vaughan _(Mr Paxton)_  
+Clive Swift _(Dr Black)_  
+Julian Herington _(archaeologist)_  
+John Kearney _(William Ager/ghost)_  
+David Cargill _(boots)_  
+George Benson _(vicar)_  
+Roger Milner _(antique shop owner)_  
+Gilly Fraser _(girl at cottage)_  
+David Pugh _(station porter)_  
+Cyril Appleton _(labourer)_
+
+BBC1 tx 24.12.1972
+
+UK 1972
+
+50 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjE1ODM3Nl19
+eyJoaXN0b3J5IjpbLTI3ODAxNzA0M119
 -->
