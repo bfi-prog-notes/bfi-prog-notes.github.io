@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Kagemush
+title: Kagemusha
 published: true
-date: 2023-01-06
+date: 2023-01-11
 readtime: true
-categories: ['RE-RELEASES']
-tags: [Drama]
-metadata: 'Japan 1950, 88 mins<br> Director: Akira Kurosawa'
-pdf: '2023-01-06-rashomon.pdf'
+categories: ['KUROSAWA']
+tags: [Drama, Period, War]
+metadata: 'Japan 1980, 181 mins<br> Director: Akira Kurosawa'
+pdf: '2023-01-11-kagemusha.pdf'
 ---
-
-
 
 This magisterial epic of 16th-century Japan was Akira Kurosawa’s great homecoming movie after a decade either working abroad or in the doldrums following the critical drubbing faced by his 1970 film _Dodes’ka-den_. Backed by George Lucas and Francis Ford Coppola, it was a return to the _jidaigeki_ (period film) mode of _Seven Samurai_ (1954) and _Throne of Blood_ (1957), albeit now in lavish colour and mounted on a scale that – in the era of CGI – looks ever more awe-inspiring. It’s something of a companion piece to his subsequent _Ran_ (1985): not directly inspired by Shakespeare as that would be, but Shakespearian in its movement between courtly intrigue and clashes on the battlefield, and especially in its focus on a double/impostor figure. In the Sengoku, or ‘Warring States’, period, a thief resembling the leader of the Takeda clan becomes a vital decoy after the latter is taken out by a sniper.  
 **Samuel Wigley, bfi.org.uk, 12 March 2021**  
@@ -125,6 +123,68 @@ Masatsugu Kuriyama _(muddy samurai)_
 
 Japan 1980  
 181 mins  
+<br>
+**KUROSAWA**  
+**The Most Beautiful (Ichiban Utsukushiku)**  
+Sun 1 Jan 13:50; Mon 9 Jan 18:15  
+**The Men Who Tread on the Tiger’s Tail (ora no O Fumu Otokotachi)**  
+Sun 1 Jan 16:20; Wed 11 Jan 17:55  
+**No Regrets for Our Youth (Waga Seishun ni Kuinashi)**  
+Mon 2 Jan 12:45; Tue 10 Jan 20:40  
+**Seven Samurai (Shichinin no Samurai)**  
+Mon 2 Jan 16:50; Thu 5 Jan 18:30; Sat 28 Jan 15:30 BFI IMAX  
+**One Wonderful Sunday (Subarashiki Nichiyôbi)**  
+Tue 3 Jan 20:40; Sun 15 Jan 11:50  
+**Scandal (Shûbun)**  
+Tue 10 Jan 17:45; Tue 24 Jan 18:10 (+ intro by season co-curator Ian Haydn Smith)  
+**Kagemusha**  
+Wed 11 Jan 19:35; Tue 31 Jan 19:35  
+**The Idiot (Hakuchi)**  
+Fri 13 Jan 19:45; Sat 21 Jan 16:50  
+**Dodes’ka-den (Dodesukaden)**  
+Sun 15 Jan 18:05; Mon 16 Jan 17:50  
+**Kurosawa Season Introduction**  
+Wed 18 Jan 18:20  
+**High and Low (Tengoku to Jigoku)**  
+Thu 19 Jan 17:45; Sun 29 Jan 18:00 (+ intro by season co-curator Ian Haydn Smith)  
+**The Lower Depths (Donzoku)**  
+Thu 19 Jan 20:20; Mon 30 Jan 20:20  
+**The Hidden Fortress (Kakushi Toride no San-Akunin)**  
+Fri 20 Jan 20:20; Fri 27 Jan 17:45  
+**The Bad Sleep Well (Warui Yatsu hoho Yoku Nemuru)**  
+Sun 22 Jan 18:00; Sun 29 Jan 14:30 (+ intro by season co-curator Ian Haydn Smith)  
+**Sanjuro (Tsubaki Sanjûrô)**  
+Thu 26 Jan 21:00; Tue 31 Jan 17:50  
+**Course: The Kurosawa-Effect**  
+Wed 11 Jan – Wed 22 Feb 18:30  
+
+**In partnership with**  
+
+<img style="float: left;" src="/img/Japan Foundation.jpg" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br>
+
+**Promotional partner**  
+
+<img style="float: left;" src="/img/wagamama.png" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br>
+
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3ODI5ODE2LDEzNzA3NjM2NDNdfQ==
+eyJoaXN0b3J5IjpbLTEzNTY2MjM1NTYsMTM3MDc2MzY0M119
 -->
