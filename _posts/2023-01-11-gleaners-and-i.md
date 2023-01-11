@@ -24,130 +24,96 @@ _La Jetée_ surely proves once and for all that Marker must be numbered among th
 <br><br>
 
 **LA JETÉE**<br>
-
 _A photo-roman by:_ Chris Marker<br>
-
 _Presented by:_ Argos-Films<br>
-
-_With the participation of:_  
-Service de la Recherche de la R.T.F.<br>
-
+_With the participation of:_  Service de la Recherche de la R.T.F.<br>
 _Producer:_ Anatole Dauman *<br>
-
 _Screenplay:_ Chris Marker *<br>
-
 _Photography:_ Jean Chiabaud *<br>
-
 _‘Micromatières’ by:_ Jean-Pierre Sudre<br>
-
 _Still Images Assembly:_ Germano Facetti *<br>
-
 _Special Effects:_ D.S.A.<br>
-
 _Special Effects Operator:_ Cs Olaf<br>
-
 _Special Effects Technician:_ Ledoux<br>
-
 _Editor:_ Jean Ravel<br>
-
 _Drawings:_ Duffort<br>
-
 _Laboratory:_ LTC<br>
-
 _Music by:_ Trevor Duncan<br>
-
-_Music Performed by:_  
-Choeurs de la cathédrale St. Alexander<br>
-
+_Music Performed by:_  Choeurs de la cathédrale St. Alexander<br>
 _Music Publishers:_ Boosey & Hawkes, Disque Philips<br>
-
 _Sound:_ SIMO (Paris)<br>
-
 _Sound:_ Antoine Bonfanti *<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Jean Négroni<br>
-
 Hélène Chatelain _(the woman)_<br>
-
 Davos Hanich _(the man)_<br>
-
 Jacques Ledoux _(the experimenter)_<br>
-
 André Heinrich<br>
-
 Jacques Branchu<br>
-
 Pierre Joffroy<br>
-
 Étienne Becker<br>
-
 Philbert Von Lifchitz<br>
+Ligia Borowczyk, Janine Klein  _(women from the future)_<br>
+Bill Klein _(man from the future)_<br>
+Germano Faccetti<br>
 
-Ligia Borowczyk, Janine Klein  
-_(women from the future)_
+France 1962<br>
+29 mins<br>
 
-Bill Klein _(man from the future)_
+*Uncredited
 
-Germano Faccetti
+**THE GLEANERS AND I (LES GLANEURS ET LA GLANEUSE)**<br>
 
-France 1962
+_Director:_ Agnès Varda<br>
 
-29 mins
+©: Ciné-Tamaris<br>
 
-* Uncredited
+_Production Company:_ Ciné-Tamaris<br>
 
-**THE GLEANERS AND I (LES GLANEURS ET LA GLANEUSE)**
+_With the participation of:_ CNC – Centre national de la cinématographie, Canal+<br>
 
-_Director:_ Agnès Varda
+_With the support of:_ Procirep<br>
 
-©: Ciné-Tamaris
+_Presented by:_ Ciné-Tamaris<br>
 
-_Production Company:_ Ciné-Tamaris
+_Producer:_ Agnès Varda<br>
 
-_With the participation of:_ CNC – Centre national de la cinématographie, Canal+
+_Production Secretary:_ Anita Benoliel<br>
 
-_With the support of:_ Procirep
+_Production Administrator:_ Jean-Marc Vignet<br>
 
-_Presented by:_ Ciné-Tamaris
-
-_Producer:_ Agnès Varda
-
-_Production Secretary:_ Anita Benoliel
-
-_Production Administrator:_ Jean-Marc Vignet
-
-_Commentary Writer:_ Agnès Varda
+_Commentary Writer:_ Agnès Varda<br>
 
 _Collaborating Photographers:_ Stéphane Krausz, Didier Rouget, Didier Doussin, Pascale Sautelet,  
-Agnès Varda
+Agnès Varda<br>
 
-_Editors:_ Agnès Varda, Laurent Pineau
+_Editors:_ Agnès Varda, Laurent Pineau<br>
 
-_Assistant Editor:_ Laure-Alice Hervé
+_Assistant Editor:_ Laure-Alice Hervé<br>
 
-_Post-production Assistant:_ Marina Loubet
+_Post-production Assistant:_ Marina Loubet<br>
 
-_Titles:_ Excalibur
+_Titles:_ Excalibur<br>
 
-_Laboratory:_ GTC
+_Laboratory:_ GTC<br>
 
 _Original Music:_ Joanna Bruzdowicz,  
 François Wertheimer, Agnès Bredel,  
-Richard Klugman
+Richard Klugman<br>
 
-_Sound:_ Emmanuel Soland
+_Sound:_ Emmanuel Soland<br>
 
-_Sound Mixer:_ Nathalie Vidal
+_Sound Mixer:_ Nathalie Vidal<br>
 
-_Sound Editors:_ Raphaël Sohier, Thaddée Bertrand
+_Sound Editors:_ Raphaël Sohier, Thaddée Bertrand<br>
 
-_Foley:_ Nicolas Becker
+_Foley:_ Nicolas Becker<br>
 
-France 2000©
+France 2000©<br>
 
-82 mins
+82 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3NDY0NjI4XX0=
+eyJoaXN0b3J5IjpbLTcyMTY4NTQ3NF19
 -->
