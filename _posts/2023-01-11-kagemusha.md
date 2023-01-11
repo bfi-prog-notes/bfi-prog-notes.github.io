@@ -1,13 +1,21 @@
+---
+layout: post
+title: Kagemush
+published: true
+date: 2023-01-06
+readtime: true
+categories: ['RE-RELEASES']
+tags: [Drama]
+metadata: 'Japan 1950, 88 mins<br> Director: Akira Kurosawa'
+pdf: '2023-01-06-rashomon.pdf'
+---
 
 
-<![endif]-->
 
-This magisterial epic of 16th-century Japan was Akira Kurosawa’s great homecoming movie after a decade either working abroad or in the doldrums following the critical drubbing faced by his 1970 film _Dodes’ka-den_. Backed by George Lucas and Francis Ford Coppola, it was a return to the _jidaigeki_ (period film) mode of _Seven Samurai_ (1954) and _Throne of Blood_ (1957), albeit now in lavish colour and mounted on a scale that – in the era of CGI – looks ever more awe-inspiring. It’s something of a companion piece to his subsequent _Ran_ (1985): not directly inspired by Shakespeare as that would be, but Shakespearian in its movement between courtly intrigue and clashes on the battlefield, and especially in its focus on a double/impostor figure. In the Sengoku, or ‘Warring States’, period, a thief resembling the leader of the Takeda clan becomes a vital decoy after the latter is taken out by a sniper.
+This magisterial epic of 16th-century Japan was Akira Kurosawa’s great homecoming movie after a decade either working abroad or in the doldrums following the critical drubbing faced by his 1970 film _Dodes’ka-den_. Backed by George Lucas and Francis Ford Coppola, it was a return to the _jidaigeki_ (period film) mode of _Seven Samurai_ (1954) and _Throne of Blood_ (1957), albeit now in lavish colour and mounted on a scale that – in the era of CGI – looks ever more awe-inspiring. It’s something of a companion piece to his subsequent _Ran_ (1985): not directly inspired by Shakespeare as that would be, but Shakespearian in its movement between courtly intrigue and clashes on the battlefield, and especially in its focus on a double/impostor figure. In the Sengoku, or ‘Warring States’, period, a thief resembling the leader of the Takeda clan becomes a vital decoy after the latter is taken out by a sniper.  
+**Samuel Wigley, bfi.org.uk, 12 March 2021**  
 
-**Samuel Wigley, bfi.org.uk, 12 March 2021**
-
-**Kurosawa on _Kagemusha_**
-
+**Kurosawa on _Kagemusha_**  
 Whatever one thinks of _Kagemusha_ – the Japanese critics were generally less indulgent about its weaknesses than their Western counterparts – the film is unmistakably a maverick project. Who but Kurosawa would have responded to the commercial failure of his first wholly independent film (and the bankruptcy of the directors’ co-operative that produced it) by dogmatically insisting that his next project be the most expensive production ever undertaken in Japan? And, for that matter, opting to shoot a Mosfilm epic rather than a more obviously viable project at home? The film bears the marks of Kurosawa’s intransigence: not just in the scrupulous insistence on historical accuracy, but also in the script’s refusal to integrate the story of Takeda Shingen’s double with the larger story of the fall of the Takeda Clan to produce a more conventionally unified dramatic structure.
 
 I heard a story (possibly apocryphal) that Toho had specified in its contract with Kurosawa that he would make a film not exceeding three hours in length; the price it paid for this temerity was to have the director deliver a version lasting two hours, 59 minutes and 30 seconds for the Japanese release, prior to cutting 20 minutes from the ‘international’ version which was delivered to 20th Century-Fox.
@@ -32,18 +40,14 @@ I cannot say that I deliberately set out to show the transition from the older w
 
 _Katsu Shintaro (best known for his role as the blind swordsman Zatoichi) was originally scheduled to play Shingen. Did your conception of the character change when you cast Nakadai Tatsuya?_
 
-I had a fixed image of Shingen. Katsu Shintaro didn’t understand what I wanted, there was an ‘incident’, and he left the production. So it was not a case of the character changing with the casting, but of Nakadai giving me what I wanted. When I direct a film, I need to have actors who can follow my directions.
+I had a fixed image of Shingen. Katsu Shintaro didn’t understand what I wanted, there was an ‘incident’, and he left the production. So it was not a case of the character changing with the casting, but of Nakadai giving me what I wanted. When I direct a film, I need to have actors who can follow my directions.  
+**Tony Rayns, _Sight and Sound_, Summer 1981**  
 
-**Tony Rayns, _Sight and Sound_, Summer 1981**
-
-**KAGEMUSHA**
-
+**KAGEMUSHA**  
 _Director:_ Akira Kurosawa  
 _Production Companies:_ Toho Co., Ltd., Kurosawa Productions  
 _Executive Producers:_ Akira Kurosawa, Tomoyuki Tanaka  
-_Executive Producers of International Version:_ Francis Ford Coppola,
-
-George Lucas  
+_Executive Producers of International Version:_ Francis Ford Coppola, George Lucas  
 _Associate Producer:_ Teruyo Nogami  
 _Production Co-ordinator:_ Inoshiro Honda  
 _Unit Production Manager:_ Toshiaki Hashimoto  
@@ -54,16 +58,12 @@ _Screenplay:_ Akira Kurosawa, Masato Ide
 _Directors of Photography:_ Takao Saito, Masaharu Ueda  
 _Cinematographers:_ Kazuo Miyagawa, Asaichi Nakai  
 _Lighting Cameraman:_ Takeshi Sano  
-_Assistant Cameramen:_ Tamio Matsuo, Takehisa Takarada,
-
-Yukitake Isohata, Tadashi Furuyama, Ryuji Wakiya, Masahiro Miyajima  
+_Assistant Cameramen:_ Tamio Matsuo, Takehisa Takarada, Yukitake Isohata, Tadashi Furuyama, Ryuji Wakiya, Masahiro Miyajima  
 _Optical Effects:_ Takehisa Miyanishi, Akira Kondo  
 _Negative Cutting:_ Tome Minami  
 _Assistant Editor:_ Keisuke Iwatani  
 _Art Director:_ Yoshiro Muraki  
-_Assistant Art Directors:_ Tsuneo Shimura,
-
-Akira Sakuragi, Katsumi Kobayashi  
+_Assistant Art Directors:_ Tsuneo Shimura, Akira Sakuragi, Katsumi Kobayashi  
 _Set Decorators:_ Hatsumi Yamamoto, Daisburo Sasaki, Koichi Hamamura  
 _Scenic Artists:_ Kazuo Yamato, Nobuyoski Miyamoto, Masakatsu Tanaami  
 _Costumes:_ Seiichiro Momosawa  
@@ -80,13 +80,10 @@ _English Subtitles:_ Donald Richie
 _Adviser:_ Shinobu Hashimoto  
 _Transport:_ Isamu Miwano  
 _Samurai Etiquette:_ Ryu Kuze  
-_Horseback Riding:_ Toshi Hasegawa, Tamihei Shirai
+_Horseback Riding:_ Toshi Hasegawa, Tamihei Shirai  
 
-**Cast**
-
-Tatsuya Nakadai _(Shingen Takeda, the Lord of Kai, Takeda/_
-
-_Kagemusha, Shingen’s double)_  
+**Cast**  
+Tatsuya Nakadai _(Shingen Takeda, the Lord of Kai, Takeda/Kagemusha, Shingen’s double)_  
 Tsutomu Yamazaki _(Nobukado, Shingen’s younger brother)_  
 Kenichi Hagiwara _(Katsuyori Takeda, Shingen’s son)_  
 Kohta Yui _(Takemaru, Katsuyori’s son)_  
@@ -129,5 +126,5 @@ Masatsugu Kuriyama _(muddy samurai)_
 Japan 1980  
 181 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTYwNDc4NywxMzcwNzYzNjQzXX0=
+eyJoaXN0b3J5IjpbNDM3ODI5ODE2LDEzNzA3NjM2NDNdfQ==
 -->
