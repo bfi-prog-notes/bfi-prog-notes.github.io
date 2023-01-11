@@ -50,7 +50,7 @@ _Sound Recordist_: John Gilbert
 _Sound Mixer_: David Baumber  
 _Radiophonic Sound_: Paddy Kingsland
 
-_Cast**
+**Cast**  
 Spencer Banks _(Stephen)_  
 John Atkinson _(Reverend J. Franklin)_  
 Georgine Anderson _(Mrs Franklin)_  
@@ -76,17 +76,14 @@ Geoffrey Pennells _(demon)_
 Martin Reynolds _(angel)_  
 Ian Gemmell _(Harry)_ *
 
-BBC1 tx 21.3.1974
-
-UK 1973©
-
+BBC1 tx 21.3.1974  
+UK 1973©  
 90 mins
 
-* Uncredited
+*Uncredited
 
 **A GHOST STORY FOR CHRISTMAS:  
-A WARNING TO THE CURIOUS**
-
+A WARNING TO THE CURIOUS**  
 _Producer_: Lawrence Gordon Clark  
 _Production Company_: BBC  
 _Adapted by_: Lawrence Gordon Clark  
@@ -95,8 +92,7 @@ _Camera_: John McGlashan
 _Designer_: Geoffrey Winslow  
 _Sound_: Dick Manton
 
-_Cast:_
-
+**Cast**  
 Peter Vaughan _(Mr Paxton)_  
 Clive Swift _(Dr Black)_  
 Julian Herington _(archaeologist)_  
@@ -108,11 +104,10 @@ Gilly Fraser _(girl at cottage)_
 David Pugh _(station porter)_  
 Cyril Appleton _(labourer)_
 
-BBC1 tx 24.12.1972
-
-UK 1972
-
-50 mins
+BBC1 tx 24.12.1972  
+UK 1972  
+50 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODAxNzA0M119
+eyJoaXN0b3J5IjpbOTMxNTgyODEwXX0=
 -->
