@@ -63,57 +63,33 @@ France 1962<br>
 
 *Uncredited
 
-**THE GLEANERS AND I (LES GLANEURS ET LA GLANEUSE)**<br>
-
+**THE GLEANERS AND I<br>(LES GLANEURS ET LA GLANEUSE)**<br>
 _Director:_ Agnès Varda<br>
-
 ©: Ciné-Tamaris<br>
-
 _Production Company:_ Ciné-Tamaris<br>
-
 _With the participation of:_ CNC – Centre national de la cinématographie, Canal+<br>
-
 _With the support of:_ Procirep<br>
-
 _Presented by:_ Ciné-Tamaris<br>
-
 _Producer:_ Agnès Varda<br>
-
 _Production Secretary:_ Anita Benoliel<br>
-
 _Production Administrator:_ Jean-Marc Vignet<br>
-
 _Commentary Writer:_ Agnès Varda<br>
-
 _Collaborating Photographers:_ Stéphane Krausz, Didier Rouget, Didier Doussin, Pascale Sautelet,  
 Agnès Varda<br>
-
 _Editors:_ Agnès Varda, Laurent Pineau<br>
-
 _Assistant Editor:_ Laure-Alice Hervé<br>
-
 _Post-production Assistant:_ Marina Loubet<br>
-
 _Titles:_ Excalibur<br>
-
 _Laboratory:_ GTC<br>
-
-_Original Music:_ Joanna Bruzdowicz,  
-François Wertheimer, Agnès Bredel,  
-Richard Klugman<br>
-
+_Original Music:_ Joanna Bruzdowicz,  François Wertheimer, Agnès Bredel,  Richard Klugman<br>
 _Sound:_ Emmanuel Soland<br>
-
 _Sound Mixer:_ Nathalie Vidal<br>
-
 _Sound Editors:_ Raphaël Sohier, Thaddée Bertrand<br>
-
 _Foley:_ Nicolas Becker<br>
 
 France 2000©<br>
-
 82 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTY4NTQ3NF19
+eyJoaXN0b3J5IjpbLTExOTAyNjk0NzhdfQ==
 -->
