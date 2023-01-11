@@ -8,11 +8,8 @@ Call it recycling, salvaging or just getting by, in Varda’s examination this �
 
 ‘It’s not a harsh documentary,’ she insists. ‘It’s the treatment of reality that’s interesting, the way beauty is emphasised. It may be unfashionable to say so, but I like beauty. Though that might seem strange in a social documentary.’ Strange and possibly even risky in less adept hands. But one of the pleasures of Varda’s approach lies in the way it accommodates and even encourages digression. A visit to a vineyard reveals the owner to be a distant relative of Etienne Jules Marey, which allows Varda to include a short homage to the man she calls ‘the father of all filmmakers’. ‘There’s a liberty of tone that perhaps comes with age,’ she acknowledges. ‘This allowed me in making a social documentary not to hide the fact that I love paintings, or that I’m talking about myself as well as about others. Obviously incorporating Marey into a film about gleaning is difficult but that was one of the surprises. I allowed myself the freedom to discover such things. So I’m saying something about my journey in search of the gleaners as well.’
 
-_La glaneuse_ of the French title is Varda herself and ‘gleaning’ can also be applied  
-to the way she approached her material – both its gathering and its assembly.  
-And appropriately the film’s success in France – where it pulled in 43,000 Parisian spectators over the first nine weeks of its summer release and as late as November was still playing on four screens having attracted an audience of 70,000 – has owed less to traditional methods of distribution than to word-of-mouth. A film about gleaning that was itself gleaned by the public? Varda dismisses my overextended metaphor. The film wasn’t ‘gleaned’, she insists, but ‘loved’. ‘I’ve never in my entire career felt that people have loved a film of mine as much as this one. The numbers of people who’ve seen it, who’ve talked about it – they were our publicity because documentaries can’t afford much advertising. The Centre Nationale de la Cinématographie paid for three prints to go into small towns, even villages. Rural audiences may number only between 40 and 80, but that was the idea. When I worked as a photographer with Jean Villar at the Theatre Nationale Populaire after the war the idea wasn’t to reduce culture to the lowest common denominator, but to bring people something that was intelligent, concerned, unusual and generous. That’s what’s happened with this film.’
-
-Chris Darke, _Sight and Sound_, January 2001
+_La glaneuse_ of the French title is Varda herself and ‘gleaning’ can also be applied  to the way she approached her material – both its gathering and its assembly.  And appropriately the film’s success in France – where it pulled in 43,000 Parisian spectators over the first nine weeks of its summer release and as late as November was still playing on four screens having attracted an audience of 70,000 – has owed less to traditional methods of distribution than to word-of-mouth. A film about gleaning that was itself gleaned by the public? Varda dismisses my overextended metaphor. The film wasn’t ‘gleaned’, she insists, but ‘loved’. ‘I’ve never in my entire career felt that people have loved a film of mine as much as this one. The numbers of people who’ve seen it, who’ve talked about it – they were our publicity because documentaries can’t afford much advertising. The Centre Nationale de la Cinématographie paid for three prints to go into small towns, even villages. Rural audiences may number only between 40 and 80, but that was the idea. When I worked as a photographer with Jean Villar at the Theatre Nationale Populaire after the war the idea wasn’t to reduce culture to the lowest common denominator, but to bring people something that was intelligent, concerned, unusual and generous. That’s what’s happened with this film.’  
+**Chris Darke, _Sight and Sound_, January 2001**
 
 **La Jetée** is stunningly successful, a short story whose beauty packs a strong emotional charge. In this 29-minute film, which makes nonsense of the usual distinctions between short and feature, Chris Marker’s surface brilliance is replaced by a deeper visual imagination, the style and power of tragedy harnessed to a story of flawless simplicity.
 
@@ -22,73 +19,71 @@ By electing to use stills to embody the terror and immobility of death, Marker p
 
 Unlike Robbe-Grillet, who leaves one with the feeling that his characters are fixed for all eternity, Marker’s art in _La Jetée_ is to intensify the impression of life, as a sculptor might. Moreover, the static quality of the images suggests the stratification of memory. To remember something is to halt time. And _La Jetée_ is a film about time, the only escape route open to the survivors of the Third World War. So Marker has edited his work as a film of which he has kept only one twenty-fourth of each second, but with that fragment of time prolonged for as many seconds as he needs. Time is controlled at will, by the length allowed each frozen twenty-fourth of a second, with the normal techniques of speeding-up and slow motion relegated to the prop shop.
 
-_La Jetée_ surely proves once and for all that Marker must be numbered among the _auteurs_. His eye is fixed on the conjugation of time, on the mutation of man, for whom ‘... there is neither destiny nor ill-fate, only forces to overcome.’ ‘Soon darkness will cover those men who try to come to terms with the world, leaving the light to those who wish to change it.’ Observing man and history, observing the future as it matures in the present, Marker not only watches but wonders: perhaps, by contagion, he might conjure the same wonder in us.
+_La Jetée_ surely proves once and for all that Marker must be numbered among the _auteurs_. His eye is fixed on the conjugation of time, on the mutation of man, for whom ‘... there is neither destiny nor ill-fate, only forces to overcome.’ ‘Soon darkness will cover those men who try to come to terms with the world, leaving the light to those who wish to change it.’ Observing man and history, observing the future as it matures in the present, Marker not only watches but wonders: perhaps, by contagion, he might conjure the same wonder in us.  
+**Gilles Jacob, _Sight and Sound_, Autumn 1966**
+<br><br>
 
-Gilles Jacob, _Sight and Sound_, Autumn 1966
+**LA JETÉE**<br>
 
-<![endif]-->
+_A photo-roman by:_ Chris Marker<br>
 
-**LA JETÉE**
-
-_A photo-roman by:_ Chris Marker
-
-_Presented by:_ Argos-Films
+_Presented by:_ Argos-Films<br>
 
 _With the participation of:_  
-Service de la Recherche de la R.T.F.
+Service de la Recherche de la R.T.F.<br>
 
-_Producer:_ Anatole Dauman *
+_Producer:_ Anatole Dauman *<br>
 
-_Screenplay:_ Chris Marker *
+_Screenplay:_ Chris Marker *<br>
 
-_Photography:_ Jean Chiabaud *
+_Photography:_ Jean Chiabaud *<br>
 
-_‘Micromatières’ by:_ Jean-Pierre Sudre
+_‘Micromatières’ by:_ Jean-Pierre Sudre<br>
 
-_Still Images Assembly:_ Germano Facetti *
+_Still Images Assembly:_ Germano Facetti *<br>
 
-_Special Effects:_ D.S.A.
+_Special Effects:_ D.S.A.<br>
 
-_Special Effects Operator:_ Cs Olaf
+_Special Effects Operator:_ Cs Olaf<br>
 
-_Special Effects Technician:_ Ledoux
+_Special Effects Technician:_ Ledoux<br>
 
-_Editor:_ Jean Ravel
+_Editor:_ Jean Ravel<br>
 
-_Drawings:_ Duffort
+_Drawings:_ Duffort<br>
 
-_Laboratory:_ LTC
+_Laboratory:_ LTC<br>
 
-_Music by:_ Trevor Duncan
+_Music by:_ Trevor Duncan<br>
 
 _Music Performed by:_  
-Choeurs de la cathédrale St. Alexander
+Choeurs de la cathédrale St. Alexander<br>
 
-_Music Publishers:_ Boosey & Hawkes, Disque Philips
+_Music Publishers:_ Boosey & Hawkes, Disque Philips<br>
 
-_Sound:_ SIMO (Paris)
+_Sound:_ SIMO (Paris)<br>
 
-_Sound:_ Antoine Bonfanti *
+_Sound:_ Antoine Bonfanti *<br>
 
-_Cast:_
+_Cast:_<br>
 
-Jean Négroni
+Jean Négroni<br>
 
-Hélène Chatelain _(the woman)_
+Hélène Chatelain _(the woman)_<br>
 
-Davos Hanich _(the man)_
+Davos Hanich _(the man)_<br>
 
-Jacques Ledoux _(the experimenter)_
+Jacques Ledoux _(the experimenter)_<br>
 
-André Heinrich
+André Heinrich<br>
 
-Jacques Branchu
+Jacques Branchu<br>
 
-Pierre Joffroy
+Pierre Joffroy<br>
 
-Étienne Becker
+Étienne Becker<br>
 
-Philbert Von Lifchitz
+Philbert Von Lifchitz<br>
 
 Ligia Borowczyk, Janine Klein  
 _(women from the future)_
@@ -154,5 +149,5 @@ France 2000©
 
 82 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTgxMzMzM119
+eyJoaXN0b3J5IjpbNDc3NDY0NjI4XX0=
 -->
