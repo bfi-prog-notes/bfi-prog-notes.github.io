@@ -115,9 +115,7 @@ Noboru Sone _(Ieysasu’s chief samurai)_
 Norio Matsui _(Tadatsugu Sakai)_  
 Toshihiko Shimizu _(Kenshin Uesugi)_  
 Takashi Shimura _(Gyobu Taguchi, Deputy of Nobunaga Oda)_  
-Francis S. Sercu, Alexander Kairis,
-
-Jean-Pierre Carlini _(missionaries at Shingen’s bedside)_  
+Francis S. Sercu, Alexander Kairis, Jean-Pierre Carlini _(missionaries at Shingen’s bedside)_  
 Kamatari Fujiwara _(Shingen Takeda’s doctor)_  
 Toshiaki Tanabe _(Kugutsushi, spy disguised as puppet-player)_  
 Yoshimitsu Yamaguchi _(salt merchant, spy in Tokugawa’s service)_  
@@ -128,9 +126,8 @@ Naeko Nakamura, Sumire Aoki, Ai Matsubara, Kumi Nanase _(servants to Shingen’s
 Senkichi Omura _(Shingen Takeda’s stable-boy)_  
 Masatsugu Kuriyama _(muddy samurai)_  
 
-  
 Japan 1980  
 181 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDc2MzY0M119
+eyJoaXN0b3J5IjpbLTMzOTYwNDc4NywxMzcwNzYzNjQzXX0=
 -->
