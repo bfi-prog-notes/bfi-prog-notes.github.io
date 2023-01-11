@@ -124,16 +124,13 @@ Yoshimitsu Yamaguchi _(salt merchant, spy in Tokugawa’s service)_
 Takashi Ebata _(Bonze, spy for the Oda Clan)_  
 Fujio Tsuneta _(farmer)_  
 Akihiko Sugizaki _(sniper at Noda Castle)_  
-Naeko Nakamura, Sumire Aoki,
-
-Ai Matsubara, Kumi Nanase _(servants to Shingen’s concubines)_  
+Naeko Nakamura, Sumire Aoki, Ai Matsubara, Kumi Nanase _(servants to Shingen’s concubines)_  
 Senkichi Omura _(Shingen Takeda’s stable-boy)_  
-Masatsugu Kuriyama _(muddy samurai)_
+Masatsugu Kuriyama _(muddy samurai)_  
 
   
-Japan 1980
-
-181 mins
+Japan 1980  
+181 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY2ODc1M119
+eyJoaXN0b3J5IjpbMTM3MDc2MzY0M119
 -->
