@@ -13,13 +13,11 @@ Chris Doyle’s brilliant, fingertip-held cinematography is in perfect synch wit
 
 But _Chungking Express_ is finally a director’s film. The level of invention in the plotting and the film language is almost profligate, and the wit of the writing leaves the average Tarantino dialogue sounding like sitcom filler. Wong gives each of his four protagonists voice-overs to articulate their inner tensions, and each is a small gem of psychological acuity. The blonde-wigged woman comments that she always wears a raincoat and shades because she’s always unsure whether it will rain or turn out sunny. Cop #223, whose password for pager messages is ‘Undying love’, is obsessed by the thought that everything comes with an expiry date – when he isn’t marvelling that the people we jostle past in the street every day may become our acquaintances, friends or even lovers. Faye, who can’t hear enough of The Mamas and Papas’ ‘California Dreamin’, recalls how she arrived early for her date with #663 in the California Restaurant only to sit watching the rain outside and start wondering about the weather in the real California. And #663 can’t help projecting his feelings on the objects around him, or thinking of life in terms of long-haul air travel.
 
-As Wong well knows, these characters (and supporting characters like the manager of the Midnight Express snack counter, played indelibly by the film’s stills photographer) add up to a panorama of modern city lives and attitudes: lonely, divided between public and private personae, resigned to disappointment but never less than optimistic. Many viewers will agree that he has caught a certain mind-set and mood with absolute accuracy, and all will be grateful that he’s done it with such warmth and good humour.
+As Wong well knows, these characters (and supporting characters like the manager of the Midnight Express snack counter, played indelibly by the film’s stills photographer) add up to a panorama of modern city lives and attitudes: lonely, divided between public and private personae, resigned to disappointment but never less than optimistic. Many viewers will agree that he has caught a certain mind-set and mood with absolute accuracy, and all will be grateful that he’s done it with such warmth and good humour.  
+**Tony Rayns, _Sight and Sound_, September 1995**  
 
-**Tony Rayns, _Sight and Sound_, September 1995**
-
-**Wong Kar Wai on ‘Chungking Express’**
-
-_What was the origin of_ Chungking Express_?_
+**Wong Kar Wai on ‘Chungking Express’**  
+_What was the origin of_ Chungking Express _?_
 
 Once we finished shooting _Ashes of Time_ we took a much-needed break and I found myself thinking that I should make a small film for myself. As a writer-director, I have many ideas for films that never get developed. You’re sitting in a coffee-shop and an idea comes up, but there’s no time to take it further. It might just be a gut feeling, it can easily evaporate. Anyhow, _Chungking Express_ was based on two ideas that came to me like that. Originally there were three; the third is now the basis for _Fallen Angels_.
 
@@ -73,5 +71,5 @@ Zuo Songshen
 Hong Kong 1994  
 102 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjIzMzE4OCw1NTA3MTI5NjBdfQ==
+eyJoaXN0b3J5IjpbNDk1Nzk4NjcyLDU1MDcxMjk2MF19
 -->
