@@ -23,7 +23,7 @@ _What was the origin of_ Chungking Express_?_
 
 Once we finished shooting _Ashes of Time_ we took a much-needed break and I found myself thinking that I should make a small film for myself. As a writer-director, I have many ideas for films that never get developed. You’re sitting in a coffee-shop and an idea comes up, but there’s no time to take it further. It might just be a gut feeling, it can easily evaporate. Anyhow, _Chungking Express_ was based on two ideas that came to me like that. Originally there were three; the third is now the basis for _Fallen Angels_.
 
-The first story changed a lot during filming. Brigitte Lin was supposed to be retiring from the screen after shooting _Chungking Express_, so we originally conceived her character as something like Blanche DuBois in _A Streetcar Named Desire_. She loved this: she was forever trying on wigs and acting to herself in the mirror. It was a very simple story: she responds to a newspaper advertisement for an actress, happens to meet the Takeshi Kaneshiro character and later stands him up. Eventually we kept the wig and the idea of a non-romance, but our model changed from _Streetcar_ to John Cassevettes’ _Gloria_!
+The first story changed a lot during filming. Brigitte Lin was supposed to be retiring from the screen after shooting _Chungking Express_, so we originally conceived her character as something like Blanche DuBois in _A Streetcar Named Desire_. She loved this: she was forever trying on wigs and acting to herself in the mirror. It was a very simple story: she responds to a newspaper advertisement for an actress, happens to meet the Takeshi Kaneshiro character and later stands him up. Eventually we kept the wig and the idea of a non-romance, but our model changed from _Streetcar_ to John Cassavetes’ _Gloria_!
 
 _Why are the men in both stories cops?_
 
@@ -73,5 +73,5 @@ Zuo Songshen
 Hong Kong 1994  
 102 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwNzEyOTYwXX0=
+eyJoaXN0b3J5IjpbLTgxNjIzMzE4OCw1NTA3MTI5NjBdfQ==
 -->
