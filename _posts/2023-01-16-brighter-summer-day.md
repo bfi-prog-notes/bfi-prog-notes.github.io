@@ -93,71 +93,71 @@ Shi Peiming _(Kid Brother, Xiao Di)_
 Liu Liangzou _(Mouth)_  
 Li Mingzhi, Lin Yuchen, Zhong Yicheng, He Jiaxian _(gang members)_  
 _Nannat Road gang:_  
-Shen Hang _(Threads (Yezi))_ 
-Fu Yangye _(Cushion (Kexing))_
-_Wanhua Market gang:_
-Li Qingfu _(Headmaster, Shiye)_
-Chen Yiwen _(Horsecart, Mache)_
-Lin Renjie _(Grapefruit, Wendan)_
-Zheng Yuancheng _(Morphine, Mafei)_
-Cai Yiqing _(Headlights, Liangguang)_
-Feng Guoqiang _(Piggy)_
-Ying Yulong _(Diaper)_
-Zheng Kangnian, Xu Xianliang, Tang Zhijian,
-Zeng Zihong _(gang members)_
-_others:_
-Xu Ming _(Wang, Zhang’s old friend)_
-Cai Qin _(Wang’s wife)_
-Zhuo Ming _(Uncle Fat, grocer)_
-Zhang Wenyan _(Uncle Fat’s wife)_
-Xiao Lianlian _(Uncle Fat’s daughter)_
-Zhang Yingzheng _(Ming’s mother)_
-Jin Shijie _(Ming’s seventh uncle)_
-Lin Liqing _(seventh uncle’s wife)_
-Tang Ruyun _(Mrs Xia)_
-Lu Qiuyun _(Mrs Fang)_
-Duan Zhongqi _(Mr Chen)_
-Cao Jinling _(Mrs Chen)_
-Xiao Zhiwen _(Ma’s mother)_
-Chen Liangyue _(chauffeur)_
-Chen Lihua _(Reverend Chen)_
-Zhang Kezhong _(Juan’s boyfriend)
-Lu Deming _(Airplane’s father)_
-Xiao Ai _(icecream parlour lady)_
-Chen Xishen _(blind fighter pilot)_
-Huang Shujuan _(girl vendor)_
-Shen Hongshen _(dean of conduct)_
-Meng Qiliang _(assistant dean of conduct)_
-Yan Hongya _(Chinese Studies teacher)_
-Ma Tingni _(mathematics teacher)_
-Hu Xiangping _(military adviser)_
-Sun Baogui, Jiang Weihua _(librarians)_
-Shi Mingyang _(doctor)_
-Chen Limei _(clinic nurse)_
-Chen Xiangqi _(doctor’s fiancée)_
-Lai Denan _(doctor’s father)_
-Lin Ruping _(hospital nurse)_
-Danny Dunn _(film director)_
-Shi Mingyu _(temperamental star)_
-Lin Hengzheng _(male lead)_
-Shi Yuhua _(assistant director)_
-Shu Guozhi _(cameraman)_
-Guo Changru _(key grip)_
-Gao Miaohui _(producer)_
-Liu Changhao _(juvenile division officer)_
-Xie Hongjun, Duan Zhongzhang _(juvenile division cops)_
-Hou Dejian _(detective)_
-Lang Zuyun _(policewoman)_
-Tang Xiangju, Chen Laifu _(policemen)_
-Li Minnan _(workman)_
-Yu Weiyan _(senior interrogator)_
-Wang Daonan _(junior interrogator)_
-Wu Zhuang, Wu Leqing _(officers)_
-Li Ziqiang _(prisoner)_
-Yang Li-Ping, Zhou Huiling _(lovers in park)_
+Shen Hang _(Threads (Yezi))_  
+Fu Yangye _(Cushion (Kexing))_  
+_Wanhua Market gang:_  
+Li Qingfu _(Headmaster, Shiye)_  
+Chen Yiwen _(Horsecart, Mache)_  
+Lin Renjie _(Grapefruit, Wendan)_  
+Zheng Yuancheng _(Morphine, Mafei)_  
+Cai Yiqing _(Headlights, Liangguang)_  
+Feng Guoqiang _(Piggy)_  
+Ying Yulong _(Diaper)_  
+Zheng Kangnian, Xu Xianliang, Tang Zhijian,  
+Zeng Zihong _(gang members)_  
+_others:_  
+Xu Ming _(Wang, Zhang’s old friend)_  
+Cai Qin _(Wang’s wife)_  
+Zhuo Ming _(Uncle Fat, grocer)_  
+Zhang Wenyan _(Uncle Fat’s wife)_  
+Xiao Lianlian _(Uncle Fat’s daughter)_  
+Zhang Yingzheng _(Ming’s mother)_  
+Jin Shijie _(Ming’s seventh uncle)_  
+Lin Liqing _(seventh uncle’s wife)_  
+Tang Ruyun _(Mrs Xia)_  
+Lu Qiuyun _(Mrs Fang)_  
+Duan Zhongqi _(Mr Chen)_  
+Cao Jinling _(Mrs Chen)_  
+Xiao Zhiwen _(Ma’s mother)_  
+Chen Liangyue _(chauffeur)_  
+Chen Lihua _(Reverend Chen)_  
+Zhang Kezhong _(Juan’s boyfriend)_  
+Lu Deming _(Airplane’s father)_  
+Xiao Ai _(icecream parlour lady)_  
+Chen Xishen _(blind fighter pilot)_  
+Huang Shujuan _(girl vendor)_  
+Shen Hongshen _(dean of conduct)_  
+Meng Qiliang _(assistant dean of conduct)_  
+Yan Hongya _(Chinese Studies teacher)_  
+Ma Tingni _(mathematics teacher)_  
+Hu Xiangping _(military adviser)_  
+Sun Baogui, Jiang Weihua _(librarians)_  
+Shi Mingyang _(doctor)_  
+Chen Limei _(clinic nurse)_  
+Chen Xiangqi _(doctor’s fiancée)_  
+Lai Denan _(doctor’s father)_  
+Lin Ruping _(hospital nurse)_  
+Danny Dunn _(film director)_  
+Shi Mingyu _(temperamental star)_  
+Lin Hengzheng _(male lead)_  
+Shi Yuhua _(assistant director)_  
+Shu Guozhi _(cameraman)_  
+Guo Changru _(key grip)_  
+Gao Miaohui _(producer)_  
+Liu Changhao _(juvenile division officer)_  
+Xie Hongjun, Duan Zhongzhang _(juvenile division cops)_  
+Hou Dejian _(detective)_  
+Lang Zuyun _(policewoman)_  
+Tang Xiangju, Chen Laifu _(policemen)_  
+Li Minnan _(workman)_  
+Yu Weiyan _(senior interrogator)_  
+Wang Daonan _(junior interrogator)_  
+Wu Zhuang, Wu Leqing _(officers)_  
+Li Ziqiang _(prisoner)_  
+Yang Li-Ping, Zhou Huiling _(lovers in park)_  
 
 Taiwan 1991  
 237 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQzMDI2NzhdfQ==
+eyJoaXN0b3J5IjpbNTQyMDQ4ODddfQ==
 -->
