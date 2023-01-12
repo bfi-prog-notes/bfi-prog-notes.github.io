@@ -6,8 +6,8 @@ date: 2023-01-13
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>78=']
 tags: [Comedy]
-metadata: 'USA 1936, 104 mins<br> Director: Michael Powell, Emeric Pressburger'
-pdf: '2023-01-12-matter-of-life-and-death.pdf'
+metadata: 'USA 1936, 87mins<br> Director: Charlie Chaplin'
+pdf: '2023-01-13-modern-times.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
@@ -168,5 +168,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTAzNjY5NzJdfQ==
+eyJoaXN0b3J5IjpbLTg0NjQ4NDYxMl19
 -->
