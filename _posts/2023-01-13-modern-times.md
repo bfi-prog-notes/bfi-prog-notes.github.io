@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Modern Times
+published: true
+date: 2023-01-13
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>78=']
+tags: [Comedy]
+metadata: 'USA 1936, 104 mins<br> Director: Michael Powell, Emeric Pressburger'
+pdf: '2023-01-12-matter-of-life-and-death.pdf'
+---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
@@ -67,7 +77,7 @@ USA 1936
 
 \* Uncredited
 
-With Charles Chaplin score
+With Charles Chaplin score  
 <br>
 
 **SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**  
@@ -158,5 +168,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTk5ODQ0MV19
+eyJoaXN0b3J5IjpbLTE4NTAzNjY5NzJdfQ==
 -->
