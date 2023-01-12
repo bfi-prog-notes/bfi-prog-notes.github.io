@@ -4,10 +4,10 @@ title: A Matter of Life and Death
 published: true
 date: 2023-01-12
 readtime: true
-categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>90=']
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>78=']
 tags: [Drama]
-metadata: 'South Korea 2019, 132 mins<br> Director: Bong Joon-ho'
-pdf: '2023-01-09-parasite.pdf'
+metadata: 'UK1946, 104 mins<br> Director: Michael Powell, Emeric Pressburger'
+pdf: '2023-01-12-matter-of-life-and-death.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -209,6 +209,6 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk0MTQzMiw5NDgxMDYxODEsLTE4Nj
-Q3NDc2MzldfQ==
+eyJoaXN0b3J5IjpbMjkwNTYyNjAxLDk0ODEwNjE4MSwtMTg2ND
+c0NzYzOV19
 -->
