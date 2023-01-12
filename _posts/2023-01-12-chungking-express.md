@@ -1,6 +1,15 @@
 
-
-<![endif]-->
+---
+layout: post
+title: Chungking Express
+published: true
+date: 2023-01-12
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>88=']
+tags: [Drama]
+metadata: 'Hong Kong 1994, 102 mins<br> Director: Wong Kar Wai'
+pdf: '2023-01-12-matter-of-life-and-death.pdf'
+---
 
 ‘I can honestly say, probably more than any other movie in the last two years, no movie spoke to me, got under my skin, just made me fall in love with it. I’ve seen _Chungking_ _Express_ several times, but the last time I just started crying, you know, tears just started falling during this movie, about three different times. And it’s just because my feelings for this movie run so deep… I’m just happy to love a movie this much.’ (Quentin Tarantino)
 
@@ -71,5 +80,5 @@ Zuo Songshen
 Hong Kong 1994  
 102 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1Nzk4NjcyLDU1MDcxMjk2MF19
+eyJoaXN0b3J5IjpbLTE4ODM1MTE1MDgsNTUwNzEyOTYwXX0=
 -->
