@@ -1,16 +1,12 @@
 
-<![endif]-->
 
-Measured, elliptical and understated, Yang’s riveting account of growing up in Taiwan in the early 1960s focuses on a boy’s on-off involvement in gang rivalry and violence and his experience of young love. Very much about a society in transition, forever aware of its isolation from mainland China and prey to Americanisation, the film builds steadily towards scenes of considerable power.
+Measured, elliptical and understated, Yang’s riveting account of growing up in Taiwan in the early 1960s focuses on a boy’s on-off involvement in gang rivalry and violence and his experience of young love. Very much about a society in transition, forever aware of its isolation from mainland China and prey to Americanisation, the film builds steadily towards scenes of considerable power.  
+**Geoff Andrew, bfi.org.uk**  
 
-**Geoff Andrew, bfi.org.uk**
+I can still vividly recall skipping the last two classes of the day one afternoon in 11th Grade, going off to a nearby library and stumbling on a stream of this movie long before it had been restored. So I sat for four hours, watching a heavily compressed stream of an already low-resolution LaserDisc rip, and was totally mesmerised. The characters were Taiwanese yet I related so heavily to that search for identity and sense of alienation. In the years since, it’s only become more meaningful for me – it’s a profound study of a social ecosystem, our daily lives and its relation to a political situation, the hopes and dreams of youth we have despite it, and the mistakes we make when we believe the world is incomprehensible.  
+**Neil Bahadur, _Sight and Sound_, Winter 2022-23**  
 
-I can still vividly recall skipping the last two classes of the day one afternoon in 11th Grade, going off to a nearby library and stumbling on a stream of this movie long before it had been restored. So I sat for four hours, watching a heavily compressed stream of an already low-resolution LaserDisc rip, and was totally mesmerised. The characters were Taiwanese yet I related so heavily to that search for identity and sense of alienation. In the years since, it’s only become more meaningful for me – it’s a profound study of a social ecosystem, our daily lives and its relation to a political situation, the hopes and dreams of youth we have despite it, and the mistakes we make when we believe the world is incomprehensible.
-
-**Neil Bahadur, _Sight and Sound_, Winter 2022-23**
-
-**Edward Yang on ‘A Brighter Summer Day’**
-
+**Edward Yang on ‘A Brighter Summer Day’**  
 Our reaction to the real life murder back in 1960 was that it wasn’t a big deal. There were fights all the time; the massacre of the 217 Gang in the film is based on an actual event. This murder seemed only a little more serious, though it did surprise everyone in the school maybe because it wasn’t very acceptable to go dating at the time, especially for younger kids. But I found that the incident stayed with me and when I began researching it found that most of my contemporaries remembered it clearly too, whereas older people had forgotten it. And I began to realise that this was because all of us had sympathy with the kids involved. It could have happened to any one of us.
 
 I happened to know a number of people closely associated with the boy, and so I was able to research the facts of the case in some detail. But only for a very short period did I feel any need to be faithful to the facts; it soon became clear that it wasn’t simply a question of what had happened to this specific boy and girl. Once I realised that, I was free to construct a fictional family for him, and to create the other characters as well. In fact, the other writers and I built up detailed psychological profiles and personal histories for virtually every character in the film. If someone asked me to make a 300-episode TV series about these people, I’d have the material to do it.
@@ -23,37 +19,24 @@ American influence meant a lot to any generation, particularly to kids from Main
 
 When people ask me what the murder has to do with the political climate, I always say: ‘Go back and watch it again!’ Actually, if you follow the main characters through the story, it’s clear enough that the film’s ‘hidden’ meaning has to do with conformity and non-conformity. Xiao Si’r and his father are both loners, and it was inevitable at the time that anyone with a conscience, anyone with honour, would become a loner. In Chinese history, or at least recent history, it has always been the educated class that suffered worst. It happened in Taiwan in the late 40s, when most of the Taiwanese elite was eliminated; it happened during the political purges of the martial law period; it happened in Tiananmen Square in 1989. In the film, Zhang gets into trouble because he relies on his supposed friendship with the official Wang, but if it hadn’t been that it would have been something else. That’s the tragic thing about being educated, decent and conscientious in times like those.
 
-In structuring the film, we looked for ironies and tried to set up connecting chains of action and reaction. For example, would-be usurper Sly might start something, and the consequences would have to relate to what happens to Ming. We tried to anchor it by tying characters to particular events, but each strand was designed to contribute to the scope of what we were building up. It took us some time to work it all out. Even though the full version runs four hours, I think it’s very lean. My rough-cut was 20 minutes longer, and if I hadn’t cut those 20 minutes out it would have been flabby.
+In structuring the film, we looked for ironies and tried to set up connecting chains of action and reaction. For example, would-be usurper Sly might start something, and the consequences would have to relate to what happens to Ming. We tried to anchor it by tying characters to particular events, but each strand was designed to contribute to the scope of what we were building up. It took us some time to work it all out. Even though the full version runs four hours, I think it’s very lean. My rough-cut was 20 minutes longer, and if I hadn’t cut those 20 minutes out it would have been flabby.  
+**Edward Yang interviewed by Tony Rayns, _Sight and Sound_, March 1993**  
 
-**Edward Yang interviewed by Tony Rayns, _Sight and Sound_, March 1993**
-
-**A BRIGHTER SUMMER DAY (GULING JIE SHAONIAN SHAREN SHIJIAN)**
-
-_Director:_ Edward Yang
-
-_Production Company:_ Yang and His Gang Filmmakers
-
-_Executive Producer:_ Zhan Hongzhi
-
-_Producer:_ Yu Weiyen
-
-_Assistant Producer:_ Yang Liping
-
-_Production Manager:_ Wu Zhuang
-
-_Project Co-ordinator:_ Vincent Chin
-
-_Assistant Directors:_ Cai Guohui, Yang Shunqing
-
-_Continuity:_ Chen Rofei, Lin Yuehui, Chen Xiangqi
-
-_Screenplay:_ Edward Yang, Yan Hongya, Yang Shunqing, Lai Mingtang
-
-_Cinematography:_ Zhang Huigong
-
-_Lighting:_ Li Longyu
-_1st Camera Assistant:_ Hong Wuxiu
-_Gaffers:_ Yang Zhiguo, Bao Junhong
+**A BRIGHTER SUMMER DAY (GULING JIE SHAONIAN SHAREN SHIJIAN)**  
+_Director:_ Edward Yang  
+_Production Company:_ Yang and His Gang Filmmakers  
+_Executive Producer:_ Zhan Hongzhi  
+_Producer:_ Yu Weiyen  
+_Assistant Producer:_ Yang Liping  
+_Production Manager:_ Wu Zhuang  
+_Project Co-ordinator:_ Vincent Chin  
+_Assistant Directors:_ Cai Guohui, Yang Shunqing  
+_Continuity:_ Chen Rofei, Lin Yuehui, Chen Xiangqi  
+_Screenplay:_ Edward Yang, Yan Hongya, Yang Shunqing, Lai Mingtang  
+_Cinematography:_ Zhang Huigong  
+_Lighting:_ Li Longyu  
+_1st Camera Assistant:_ Hong Wuxiu  
+_Gaffers:_ Yang Zhiguo, Bao Junhong  
 _Grips:_ Qu Dehai, Xu Xianliang, Chen Taisong
 _Still Photography:_ Wang Geng-Yü, Yang Shunqing
 _Editor:_ Chen Bowen
@@ -176,5 +159,5 @@ Yang Li-Ping, Zhou Huiling _(lovers in park)_
 Taiwan 1991  
 237 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTkzNDQ2MjNdfQ==
+eyJoaXN0b3J5IjpbLTIwNzE0NzQ5Nl19
 -->
