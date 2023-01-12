@@ -1,3 +1,14 @@
+---
+layout: post
+title: Dodes’ka-den
+published: true
+date: 2023-01-15
+readtime: true
+categories: ['KUROSAWA']
+tags: [Drama]
+metadata: 'Japan 1951, 166mins<br> Director: Akira Kurosawa'
+pdf: '2023-01-13-idiot.pdf'
+---
 
 After five years’ absence, Kurosawa returned to the cinema with his first colour feature. It was also his first following the end of his collaboration with Toshiro Mifune and the archetypal superman/hero figure he often portrayed. Instead, we witness life among an ensemble of characters living together in a Tokyo slum. Kurosawa’s painterly skills come to the fore as he portrays their lives through striking imagery.  
 **bfi.org.uk**  
@@ -6,11 +17,10 @@ The least seen film of Kurosawa’s last quarter-century is also one of his most
 
 The film’s onomatopoeic title sonically depicts the sound of an imaginary trolley car (an English rendition would be ‘Clickety-Clack’), though it’s the beggar’s increasingly elaborate mental pictures of his dream house that ultimately prove the most affecting.
 
-It was Kurosawa’s first colour feature and it shows: his delight in experimenting with outlandish lighting, design and makeup effects recalls Orson Welles’ similar glee over the possibilities offered by RKO’s studio facilities.
-**Michael Brooke, _Sight and Sound_, May 2009**
+It was Kurosawa’s first colour feature and it shows: his delight in experimenting with outlandish lighting, design and makeup effects recalls Orson Welles’ similar glee over the possibilities offered by RKO’s studio facilities.  
+**Michael Brooke, _Sight and Sound_, May 2009**  
 
-**A contemporary review**
-
+**A contemporary review**  
 Kurosawa has said in an interview that Rokuchan ‘symbolises the artist, the cineaste who creates entirely by the power of his imagination, using as a means of communication the tramway, i.e. the cinema’. Certainly Rokuchan and the omniscient Tamba represent different aspects of the artist’s own vision. Tamba directly parallels the mysterious Old Man of _The Lower Depths_; and despite its different origins and Kurosawa’s insistence on the basic difference that _Dodes’ka-den_ is set in real, contemporary Japan, there is an immediate and evident link between his screen version of Gorki’s play, made thirteen years earlier, and this film. For one thing _The Lower Depths_ has clearly influenced the structure of the present scenario.
 
 Yamamoto’s original work, _Town without Seasons_, was a cycle of quite separate stories, set in different periods. Kurosawa and his scenarists have ingeniously interwoven them into an integrated, contemporary panorama. Rather disconcertingly, Kurosawa said at the time he made the earlier film that he found _The Lower Depths_ ‘a very comic play’, and indeed built up a knockabout farce element in his otherwise very straight treatment of Gorki. Here, too, high comedy mingles easily with the pathos of the derelicts. The scene where Shima brings his office buddies home, only to be painfully humiliated by his wife-but is ready to assault them when they mildly sympathise with him – exactly catches the ambivalence between tragedy and farce.
@@ -109,5 +119,5 @@ Tsuji Imura _(Mrs Watanaka)_
 Japan 1970  
 140 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Mjg4MTY1NF19
+eyJoaXN0b3J5IjpbLTU5MjM5MTYzNF19
 -->
