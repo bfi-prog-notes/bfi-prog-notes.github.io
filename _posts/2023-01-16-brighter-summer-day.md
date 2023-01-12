@@ -37,63 +37,63 @@ _Cinematography:_ Zhang Huigong
 _Lighting:_ Li Longyu  
 _1st Camera Assistant:_ Hong Wuxiu  
 _Gaffers:_ Yang Zhiguo, Bao Junhong  
-_Grips:_ Qu Dehai, Xu Xianliang, Chen Taisong
-_Still Photography:_ Wang Geng-Yü, Yang Shunqing
-_Editor:_ Chen Bowen
-_Production Designers:_ Yu Weiyen, Edward Yang
-_Set Decorator:_ Yang Shunqing
-_Art Work:_ Zheng Kangnian
-_Props:_ Tan Zhihua
-_Costumes:_ Chen Rofei, Wu Leqing, Zhu Meiyu
-_Make-up:_ Wu Shuhui
-_Music Supervisor:_ Zhan Hongda
-_Sound:_ Du Duzhi
-_Boom Operator:_ Yang Jing’an
-_Public Relations:_ Yan Hongya, Jiang Weihua
+_Grips:_ Qu Dehai, Xu Xianliang, Chen Taisong  
+_Still Photography:_ Wang Geng-Yü, Yang Shunqing  
+_Editor:_ Chen Bowen  
+_Production Designers:_ Yu Weiyen, Edward Yang  
+_Set Decorator:_ Yang Shunqing   
+_Art Work:_ Zheng Kangnian 
+_Props:_ Tan Zhihua  
+_Costumes:_ Chen Rofei, Wu Leqing, Zhu Meiyu  
+_Make-up:_ Wu Shuhui  
+_Music Supervisor:_ Zhan Hongda  
+_Sound:_ Du Duzhi  
+_Boom Operator:_ Yang Jing’an   
+_Public Relations:_ Yan Hongya, Jiang Weihua 
 
 **Cast**  
-Zhang Zhen _(Xiao Si’r, Zhang Zhen)_
-Lisa Yang _(Ming (Liu Zhiming))_
-Zhang Guozhu _(Zhang Ju, the father)_
-Elaine Jin _(Mrs Zhang, the mother)_
-Wang Juan _(Juan, the eldest sister)_
-Zhang Han _(Lao Er, the elder brother)_
-Jiang Xiuqiong _(Qiong, the middle sister)_
-Lai Fanyun _(Yun, the youngest sister)
-_friends and classmates of Xiao Si’r:_
-Wang Qizan _(Cat, Wang Mao)_
-Ke Yulun _(Airplane, Ji Fei)_
-Tan Zhigang _(Ma)_
-Zhang Mingxin _(Underpants, Mingxin)_
-Rong Junlong _(Sex Bomb, Zhang Bowen)_
-Zhou Huiguo _(Tiger, Xiao Hu)_
-Liu Quingoi _(Hefty, Da Ge)_
-He Qingxiang _(Animal, Mao Shou)_
-Cai Changda, Li Zhongming _(Tiger’s buddies)_
-Tang Xiaocui _(Jade, Xiao Cui)_
-Jiang Mingying _(Jade’s girlfriend)_
-_Xiaogongyuan gang:_
-Lin Hongming _(Honey)_
-Wang Zongzheng _(Deuce, Honey’s brother)_
-Chen Hongyu _(Sly (Huatou))_
-Yang Tianxiang _(Worm, Qiuying)_
-Liao Xiaowei, Lin Zhengoing, Li Mingxun, Chen Taisong _(gang members)_
-Cao Yiwen _(guitarist)_
-Liu Mingzheng _(bass player)_
-Zhang Yiquin _(drummer)_
-Yuan Ling _(keyboards)_
-_217 gang:_
-Yang Shunqing _(Shandong)_
-Ni Shujun _(Crazy, Shenjing)_
-Wang Weiming _(Ka Wu)_
-Zheng Jianxiong _(Wu Ba)_
-Wang Yeming _(Baldie, Guangtou)_
-Qu Dehai _(Cowboy, Xibu)_
-Shi Peiming _(Kid Brother, Xiao Di)_
-Liu Liangzou _(Mouth)_
-Li Mingzhi, Lin Yuchen, Zhong Yicheng, He Jiaxian _(gang members)_
-_Nannat Road gang:_
-Shen Hang _(Threads (Yezi))_
+Zhang Zhen _(Xiao Si’r, Zhang Zhen)_  
+Lisa Yang _(Ming (Liu Zhiming))_  
+Zhang Guozhu _(Zhang Ju, the father)_  
+Elaine Jin _(Mrs Zhang, the mother)_  
+Wang Juan _(Juan, the eldest sister)_  
+Zhang Han _(Lao Er, the elder brother)_  
+Jiang Xiuqiong _(Qiong, the middle sister)_  
+Lai Fanyun _(Yun, the youngest sister)  
+_friends and classmates of Xiao Si’r:_  
+Wang Qizan _(Cat, Wang Mao)_  
+Ke Yulun _(Airplane, Ji Fei)_  
+Tan Zhigang _(Ma)_  
+Zhang Mingxin _(Underpants, Mingxin)_  
+Rong Junlong _(Sex Bomb, Zhang Bowen)_  
+Zhou Huiguo _(Tiger, Xiao Hu)_  
+Liu Quingoi _(Hefty, Da Ge)_  
+He Qingxiang _(Animal, Mao Shou)_  
+Cai Changda, Li Zhongming _(Tiger’s buddies)_  
+Tang Xiaocui _(Jade, Xiao Cui)_  
+Jiang Mingying _(Jade’s girlfriend)_  
+_Xiaogongyuan gang:_  
+Lin Hongming _(Honey)_  
+Wang Zongzheng _(Deuce, Honey’s brother)_   
+Chen Hongyu _(Sly (Huatou))_ 
+Yang Tianxiang _(Worm, Qiuying)_  
+Liao Xiaowei, Lin Zhengoing, Li Mingxun, Chen Taisong _(gang members)_  
+Cao Yiwen _(guitarist)_  
+Liu Mingzheng _(bass player)_  
+Zhang Yiquin _(drummer)_  
+Yuan Ling _(keyboards)_  
+_217 gang:_  
+Yang Shunqing _(Shandong)_  
+Ni Shujun _(Crazy, Shenjing)_  
+Wang Weiming _(Ka Wu)_  
+Zheng Jianxiong _(Wu Ba)_  
+Wang Yeming _(Baldie, Guangtou)_  
+Qu Dehai _(Cowboy, Xibu)_  
+Shi Peiming _(Kid Brother, Xiao Di)_  
+Liu Liangzou _(Mouth)_  
+Li Mingzhi, Lin Yuchen, Zhong Yicheng, He Jiaxian _(gang members)_  
+_Nannat Road gang:_  
+Shen Hang _(Threads (Yezi))_ 
 Fu Yangye _(Cushion (Kexing))_
 _Wanhua Market gang:_
 Li Qingfu _(Headmaster, Shiye)_
@@ -159,5 +159,5 @@ Yang Li-Ping, Zhou Huiling _(lovers in park)_
 Taiwan 1991  
 237 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE0NzQ5Nl19
+eyJoaXN0b3J5IjpbLTIxMzQzMDI2NzhdfQ==
 -->
