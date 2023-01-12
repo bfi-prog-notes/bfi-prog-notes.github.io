@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: A Brighter Summer Day
+published: true
+date: 2023-01-16
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>78=']
+tags: [Drama]
+metadata: 'Taiwan 1991, 237 mins<br> Director: <![endif]--> Edward Yang'
+pdf: '2023-01-16-brighter-su.pdf'
+---
 
 Measured, elliptical and understated, Yang’s riveting account of growing up in Taiwan in the early 1960s focuses on a boy’s on-off involvement in gang rivalry and violence and his experience of young love. Very much about a society in transition, forever aware of its isolation from mainland China and prey to Americanisation, the film builds steadily towards scenes of considerable power.  
 **Geoff Andrew, bfi.org.uk**  
@@ -159,5 +169,5 @@ Yang Li-Ping, Zhou Huiling _(lovers in park)_
 Taiwan 1991  
 237 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyMDQ4ODddfQ==
+eyJoaXN0b3J5IjpbMjg4MzU0ODQ1XX0=
 -->
