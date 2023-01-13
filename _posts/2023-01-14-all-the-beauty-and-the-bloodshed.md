@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: All the Beauty and the Bloodshed
+published: true
+date: 2023-01-14
+readtime: true
+categories: ['WOMAN WITH A MOVIE CAMERA PREVIEW']
+tags: [Documentary]
+metadata: 'USA 2022, 117 mins<br> Director: Laura Poitras'
+pdf: '2023-01-14-all-the-beauty-and-the-bloodshed.pdf'
+---
 
 _All the Beauty and the Bloodshed_ is an epic, emotional and interconnected story about internationally renowned artist and activist Nan Goldin told through her slideshows, intimate interviews, ground-breaking photography, and rare footage of her personal fight to hold the Sackler family accountable for the opioid crisis.
 
@@ -41,6 +51,24 @@ Courtesy of Altitude Film Distribution
 
 Woman with a Movie Camera is generously supported by Jane Stanton.<br>
 <br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTU0MDk1MjM4Ml19
 -->
