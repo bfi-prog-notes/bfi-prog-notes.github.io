@@ -52,14 +52,13 @@ _For Film London: Head of Production and Talent Development_: Maggie Ellis; _FLA
 _Sound_: Chu-Li Shewring  
 _Sound Mix_: Kevin Pyne  
 _In Memory of_: Bob Coleman  
-_Thanks to_: Beverly Family of Rhynie, Nick Collins, Paul Dean, Nick Gordon Smith, Andrew Kötting, Bob Morrice, Len Thornton, Ben Russell, Whitechapel Art Gallery
-_With:_
-
+_Thanks to_: Beverly Family of Rhynie, Nick Collins, Paul Dean, Nick Gordon Smith, Andrew Kötting, Bob Morrice, Len Thornton, Ben Russell, Whitechapel Art Gallery  
+_With:_  
 Jake Williams
 
-UK 2011©
-
-90 mins
+UK 2011©  
+90 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTg2NDUyMF19
+eyJoaXN0b3J5IjpbMjk4NTkzMDkwXX0=
 -->
