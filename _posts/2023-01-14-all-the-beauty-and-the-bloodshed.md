@@ -17,44 +17,30 @@ Goldin’s smoker-tinged voiceover lends an intimacy and lack of illusion to gri
 
 Poitras doesn’t press the point, but there’s a sense that Goldin made art in portraying the love and angst and pain around her, while the Sacklers’ drugs made money off pain and annihilated personhood in the process. The AIDS crisis of the 1980s, and the activism of the fearless New York artist David Wojnarowicz, perhaps planted a seed for Goldin, who would loom large as a protector and supporter of friends, much as her sister (and later, figures like the writer and frequent John Waters collaborator Cookie Mueller) had loomed large for her. Poitras’s film understands the life-and-death urgency of the artistic pursuit, and illustrates the possibility and necessity of forming one’s own communities; that includes PAIN, which is shown planning meetings at her home and in synchronised actions both at the Guggenheim and the Egyptian Temple of Dendur installation at the Met.
 
-Poitras won the Academy Award for Best Documentary in 2015 for her film about Edward Snowden, _Citizenfour_, and there are glimpses of intrigue here in the surveillance of Goldin’s group. (This surveillance is suspected to have been ordered at the behest of the Sacklers, some of whom are shown in a ‘telephonic’ court hearing about their conduct during the pandemic, sitting impassively in windows on a computer screen.) Poitras’s work (_The Oath_, 2010; _Risk_, 2016) has long shown an interest in secrets and secrecy, plumbing their dimensions, testing the tools, connecting the dots to shadowy parties. The conclusion is often unsettling – our lives are far less private than we ever suspected – but the upshot can be profound: trust becomes all the more sacred. Because of the nature of her work, Poitras is put into the position of a confidante. Perhaps that is why the filmmaker is able to channel so much, so movingly, from Goldin, unifying the personal and the political in a kind of communion.
+Poitras won the Academy Award for Best Documentary in 2015 for her film about Edward Snowden, _Citizenfour_, and there are glimpses of intrigue here in the surveillance of Goldin’s group. (This surveillance is suspected to have been ordered at the behest of the Sacklers, some of whom are shown in a ‘telephonic’ court hearing about their conduct during the pandemic, sitting impassively in windows on a computer screen.) Poitras’s work (_The Oath_, 2010; _Risk_, 2016) has long shown an interest in secrets and secrecy, plumbing their dimensions, testing the tools, connecting the dots to shadowy parties. The conclusion is often unsettling – our lives are far less private than we ever suspected – but the upshot can be profound: trust becomes all the more sacred. Because of the nature of her work, Poitras is put into the position of a confidante. Perhaps that is why the filmmaker is able to channel so much, so movingly, from Goldin, unifying the personal and the political in a kind of communion.  
+**Nicolas Rapold, _Sight and Sound_, 21 September 2022**
+<br><br>
 
-Nicolas Rapold, _Sight and Sound_, 21 September 2022
+**ALL THE BEAUTY AND THE BLOODSHED**<br>
+_Directed by:_ Laura Poitras<br>
+_Presented by:_ Participant<br>
+_Co-producer:_ Megan Kapler<br>
+_Executive Producers:_ Jeff Skoll, Diane Weyermann, Clare Carter, Alex Kwartler, Hayley Theisen<br>
+_Produced by:_ Howard Gertler, John Lyons,  Nan Goldin, Yoni Golijov, Laura Poitras<br>
+_Archival Producer:_ Shanti Avirgan<br>
+_Archival Co-producer:_ Olivia Streisand<br>
+_Photography & Slideshows by:_ Nan Goldin<br>
+_Edited by:_ Amy Foote, Joe Bini, Brian A. Kates<br>
+_Music by:_ Soundwalk Collective<br>
+_Music Supervisor:_ Dawn Sutter Madell<br>
 
-<![endif]-->
-
-**ALL THE BEAUTY AND THE BLOODSHED**
-
-_Directed by:_ Laura Poitras
-
-_Presented by:_ Participant
-
-_Co-producer:_ Megan Kapler
-
-_Executive Producers:_ Jeff Skoll, Diane Weyermann, Clare Carter, Alex Kwartler, Hayley Theisen
-
-_Produced by:_ Howard Gertler, John Lyons,  
-Nan Goldin, Yoni Golijov, Laura Poitras
-
-_Archival Producer:_ Shanti Avirgan
-
-_Archival Co-producer:_ Olivia Streisand
-
-_Photography & Slideshows by:_ Nan Goldin
-
-_Edited by:_ Amy Foote, Joe Bini, Brian A. Kates
-
-_Music by:_ Soundwalk Collective
-
-_Music Supervisor:_ Dawn Sutter Madell
-
-USA 2022
-
-117 mins
+USA 2022<br>
+117 mins<br>
 
 Courtesy of Altitude Film Distribution
 
-Woman with a Movie Camera is generously supported by Jane Stanton.
+Woman with a Movie Camera is generously supported by Jane Stanton.<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3NTM1MDUxXX0=
+eyJoaXN0b3J5IjpbLTU0MDk1MjM4Ml19
 -->
