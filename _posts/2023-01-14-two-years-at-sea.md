@@ -15,8 +15,7 @@ Jake is nameless, unidentified and nearly wordless in _Two Years at Sea_. Lookin
 
 Little is revealed about Jake, apart from his amazingly eclectic taste in music (from Indian to Hawaiian honky-tonk and folk), which – in startling counterpoint to the pervasive quiet – is heard blaring from his truck or from the gramophone ingeniously rigged to the facade of his ramshackle house. Jake also has a penchant for quirky interventions into the landscape, such as hoisting a caravan up a tree as a sort of teetering trailer-park Futuro house. His gestures are jittery, joyful, impulsive and determined; the central mystery of his identity is both tempered and fuelled by time-worn photographs that emerge and fill the frame as interstitial transitions or chapter headings between scenes, telltale signs of a less  solitary past.
 
-Despite its attenuated narrative elapsing over a few seasons and its long, lingering takes – some nearing ten minutes as we watch Jake float and fish on a makeshift raft in a neighbouring loch, or fade to black by the dimming light of a campfire – _Two Years at Sea_ is far from minimalist. The film itself is buoyed by a generosity of vision, spirit and affectionate humour that obviate austerity and further distinguish it from Alonso’s more Bressonian _La libertad_. The pulsating widescreen images  hover and surge with electrified meteorological detail, but also with bits of fusain-like dust and goopy watermarks that correspond to the messiness of Jake’s  
-heap-filled home.
+Despite its attenuated narrative elapsing over a few seasons and its long, lingering takes – some nearing ten minutes as we watch Jake float and fish on a makeshift raft in a neighbouring loch, or fade to black by the dimming light of a campfire – _Two Years at Sea_ is far from minimalist. The film itself is buoyed by a generosity of vision, spirit and affectionate humour that obviate austerity and further distinguish it from Alonso’s more Bressonian _La libertad_. The pulsating widescreen images  hover and surge with electrified meteorological detail, but also with bits of fusain-like dust and goopy watermarks that correspond to the messiness of Jake’s  heap-filled home.
 
 With several caravans’ worth of belongings, in addition to the objects in his house, Jake is a pack rat whose ample, knick-knacky possessions crucially contribute to the film’s sculptural nature. With moments reminiscent of Gordon Matta-Clark’s filmic architectural cut-outs, _Two Years at Sea_ is a portrait of a sentient human being, but one that pays keen attention to the light cast from the forms and objects – and especially windows and walls – that surround Jake and his cat. ‘You can say as much filming some empty bottles on a shelf [as] you can hearing Jake talk about living in that place for the last 20 years,’ Rivers tells me in a phone interview.
 
@@ -24,47 +23,36 @@ Flouting the notion of an objective documentary image, Rivers refuses to provide
 
 Citing the work of Robert Flaherty, Humphrey Jennings and even the Lumière brothers as examples where fiction and documentary meet and become intertwined, Rivers is less interested in discussing a cinema of the ‘in between’, though he’s very conscious of the fact that much of his work does indeed raise questions about the nature of ethnography, and purposely interrogates the genre. What he will say is that _Two Years at Sea_ is ‘an exaggeration of certain parts of Jake’s life’, stressing the collaborative working relationship between his subject and himself. Rivers scripted the film, but made alterations whenever Jake felt a task or action would be ‘out of character’. Asked why he chose to go back to Jake when an award from the Film London Artists’ Moving Image Network provided the impetus to work on his first feature, Rivers responds: ‘Jake was the first. Before I made _This Is My Land_, I had never considered making anything even closely resembling a documentary, or something that involved real people in their actual places. Everything before was constructed or made by myself. He holds a pretty important place in my filmmaking development.’
 
-Setting some rules for himself at the outset, Rivers chose as a challenge to make a feature with a sole character and without dialogue as a way of creating cinema out of an alternate language in order to ‘immerse the viewer in a world atmospherically and with a different kind of intellectual engagement... a language of gestures and movements. There’s a language of the objects seen in the film, of space and of the way that space is constructed,’ he continues. ‘You can look at what he’s accumulated and see it as a kind of language built up to portray the person he is. From the things that one surrounds oneself with emerges the language of cinema.’
+Setting some rules for himself at the outset, Rivers chose as a challenge to make a feature with a sole character and without dialogue as a way of creating cinema out of an alternate language in order to ‘immerse the viewer in a world atmospherically and with a different kind of intellectual engagement... a language of gestures and movements. There’s a language of the objects seen in the film, of space and of the way that space is constructed,’ he continues. ‘You can look at what he’s accumulated and see it as a kind of language built up to portray the person he is. From the things that one surrounds oneself with emerges the language of cinema.’  
+**Andréa Picard, _Sight and Sound_, May 2012**
 
-Andréa Picard, _Sight and Sound_, May 2012
+**A Portrait of Ga**  
+The purest film included in this season. A camera, a voice, some music.  A beautiful and apparently simple portrait of a loved one, but also a love letter to the medium of film itself; a past-tense art form that shows us ghosts and freezes time. Truly transcendental filmmaking.  
+**Mark Jenkin**
+<br><br>
 
-**A Portrait of Ga**
-
-The purest film included in this season. A camera, a voice, some music.  
-A beautiful and apparently simple portrait of a loved one, but also a love letter to the medium of film itself; a past-tense art form that shows us ghosts and freezes time. Truly transcendental filmmaking.
-
-Mark Jenkin
-
-<![endif]-->
-
-**A PORTRAIT OF GA**
-
+**A PORTRAIT OF GA**  
 _Director_: Margaret Tait  
 _Production Company_: Ancona Films  
 _Producer_: Margaret Tait  
 _Screenplay_: Margaret Tait  
 _Camera_: Margaret Tait  
 _Editor_: Margaret Tait  
-_Music Played by_: Alastair MacCourt
-
-UK 1952
-
+_Music Played by_: Alastair MacCourt  
+UK 1952  
 5 mins
 
-**TWO YEARS AT SEA**
-
+**TWO YEARS AT SEA**  
 _Film by_: Ben Rivers  
 ©: Ben Rivers  
 _Commissioned by_: FLAMIN Productions _through_: Film London Artists' Moving Image Network  
 _with funding from_: Arts Council England  
 _Produced by_: Ben Rivers  
-_For Film London: Head of Production and Talent Development_: Maggie Ellis; _FLAMIN Manager_:  
-Rose Cupit; _Production Advisor_: Pinky Ghundale _Blow-up_: PresTech Film Laboratories Ltd  
+_For Film London: Head of Production and Talent Development_: Maggie Ellis; _FLAMIN Manager_: Rose Cupit; _Production Advisor_: Pinky Ghundale _Blow-up_: PresTech Film Laboratories Ltd  
 _Sound_: Chu-Li Shewring  
 _Sound Mix_: Kevin Pyne  
 _In Memory of_: Bob Coleman  
 _Thanks to_: Beverly Family of Rhynie, Nick Collins, Paul Dean, Nick Gordon Smith, Andrew Kötting, Bob Morrice, Len Thornton, Ben Russell, Whitechapel Art Gallery
-
 _With:_
 
 Jake Williams
@@ -73,5 +61,5 @@ UK 2011©
 
 90 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5NTE0MTk5XX0=
+eyJoaXN0b3J5IjpbLTc2OTg2NDUyMF19
 -->
