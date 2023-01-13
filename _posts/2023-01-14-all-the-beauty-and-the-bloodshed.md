@@ -1,4 +1,4 @@
-<![endif]-->
+
 
 _All the Beauty and the Bloodshed_ is an epic, emotional and interconnected story about internationally renowned artist and activist Nan Goldin told through her slideshows, intimate interviews, ground-breaking photography, and rare footage of her personal fight to hold the Sackler family accountable for the opioid crisis.
 
@@ -6,9 +6,8 @@ Directed by Academy Award®-winning filmmaker Laura Poitras, the film interweave
 
 The story begins with PAIN, a group Goldin founded to shame museums into rejecting Sackler money, destigmatise addiction and promote harm reduction. Inspired by Act Up, they orchestrated protests to call attention to the toxic philanthropy of the Sackler family, whose company, Purdue Pharma, ignited the opioid epidemic with its blockbuster drug, OxyContin.
 
-At the core of the film are Goldin’s art works ‘The Ballad of Sexual Dependency’; ‘The Other Side’; ‘Sisters, Saints and Sibyls’; and ‘Memory Lost’. In these works, Goldin captures her friendships with beauty and raw tenderness. These friendships, and the legacy of her sister Barbara, anchor all of Goldin’s art.
-
-Production notes
+At the core of the film are Goldin’s art works ‘The Ballad of Sexual Dependency’; ‘The Other Side’; ‘Sisters, Saints and Sibyls’; and ‘Memory Lost’. In these works, Goldin captures her friendships with beauty and raw tenderness. These friendships, and the legacy of her sister Barbara, anchor all of Goldin’s art.  
+**Production notes**
 
 ‘The wrong things are kept private, and it destroys people,’ the photographer Nan Goldin says in _All the Beauty and the Bloodshed_, the tremendously moving and illuminating new documentary from Laura Poitras. Goldin’s art specialised in portraying young outsiders who might not ordinarily be in the spotlight, but in 2017, she wrote an extraordinary article in _Artforum_ that announced a new focus: her near-fatal struggles with addiction to the painkiller OxyContin and the organisation, PAIN (Prescription Addiction Intervention Now), she was founding to hold the drug’s purveyors to account. No longer, she maintained, would the Sackler family and its biggest company, Purdue Pharma, be able to make millions of dollars off their helplessly addicted customers, who died in the thousands from overdoses – at least, not without their business being exposed to the world, especially the art world, which benefited from what Goldin called ‘blood money’.
 
@@ -22,7 +21,40 @@ Poitras won the Academy Award for Best Documentary in 2015 for her film about Ed
 
 Nicolas Rapold, _Sight and Sound_, 21 September 2022
 
+<![endif]-->
 
+**ALL THE BEAUTY AND THE BLOODSHED**
+
+_Directed by:_ Laura Poitras
+
+_Presented by:_ Participant
+
+_Co-producer:_ Megan Kapler
+
+_Executive Producers:_ Jeff Skoll, Diane Weyermann, Clare Carter, Alex Kwartler, Hayley Theisen
+
+_Produced by:_ Howard Gertler, John Lyons,  
+Nan Goldin, Yoni Golijov, Laura Poitras
+
+_Archival Producer:_ Shanti Avirgan
+
+_Archival Co-producer:_ Olivia Streisand
+
+_Photography & Slideshows by:_ Nan Goldin
+
+_Edited by:_ Amy Foote, Joe Bini, Brian A. Kates
+
+_Music by:_ Soundwalk Collective
+
+_Music Supervisor:_ Dawn Sutter Madell
+
+USA 2022
+
+117 mins
+
+Courtesy of Altitude Film Distribution
+
+Woman with a Movie Camera is generously supported by Jane Stanton.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjY5NjQ4OTVdfQ==
+eyJoaXN0b3J5IjpbNzM3NTM1MDUxXX0=
 -->
