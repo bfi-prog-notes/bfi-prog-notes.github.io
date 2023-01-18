@@ -31,8 +31,7 @@ After a rewarding apprenticeship under Kajirô Yamamoto, whom he assisted on 17 
 
 **Asif Kapadia** is an Academy Award, BAFTA, Grammy & European Film Award winning writer/director, best known for his trilogy of films exploring the price of fame; the double BAFTA-winning _Senna_ (2010), _Amy_ (2015) – which won the Best Documentary Oscar, Grammy and BAFTA and the BAFTA-nominated _Diego Maradona_ (2019).
 
-Kapadia’s debut feature _The Warrior_ (2001), starring the late Irrfan Khan, shot in the desert and Himalaya of India won BAFTAs for Outstanding British Film and Outstanding Debut by a Director as well as being nominated for Best Film Not in the English Language. Kapadia directed episodes of _Mindhunter_ (Netflix) for David Fincher, he exec produced _1971: The Year Music Changed Everything_. He co-directed and exec produced the mental health series  
-_The Me You Can’t See_. Kapadia is presently in production with _2073_, a dystopian film on ‘the state of the world’ (Neon, Double Agent & Film4).
+Kapadia’s debut feature _The Warrior_ (2001), starring the late Irrfan Khan, shot in the desert and Himalaya of India won BAFTAs for Outstanding British Film and Outstanding Debut by a Director as well as being nominated for Best Film Not in the English Language. Kapadia directed episodes of _Mindhunter_ (Netflix) for David Fincher, he exec produced _1971: The Year Music Changed Everything_. He co-directed and exec produced the mental health series  _The Me You Can’t See_. Kapadia is presently in production with _2073_, a dystopian film on ‘the state of the world’ (Neon, Double Agent & Film4).
 
 **Sonali Joshi** is a curator, subtitler and access specialist. Her interests cover Asian cinema, particularly Japanese and Southeast Asian cinemas, and architecture and cinema. Her PhD (University of Glasgow) focused on French actor, Jean-Pierre Léaud.
 
@@ -55,33 +54,33 @@ Stephen Prince, _The Warrior’s Camera: The Cinema of Akira Kurosawa_ (Princeto
 
 Donald Ritchie, _The Films of Akira Kurosawa_ (University of California Press, 1998 edition)
 
-**KUROSAWA**
-**High and Low (Tengoku to Jigoku)**
-Thu 19 Jan 17:45; Sun 29 Jan 18:00 (+ intro by season co-curator Ian Haydn Smith)
-**The Lower Depths (Donzoku)**
-Thu 19 Jan 20:20; Mon 30 Jan 20:20
-**The Hidden Fortress (Kakushi Toride no San-Akunin)**
-Fri 20 Jan 20:20; Fri 27 Jan 17:45
-**The Idiot (Hakuchi)**
-Sat 21 Jan 16:50
-**The Bad Sleep Well (Warui Yatsu hoho Yoku Nemuru)**
-Sun 22 Jan 18:00; Sun 29 Jan 14:30 (+ intro by season co-curator Ian Haydn Smith)
-**Scandal (Shûbun)**
-Tue 24 Jan 18:10 (+ intro by season co-curator Ian Haydn Smith)
-**Sanjuro (Tsubaki Sanjûrô)**
-Thu 26 Jan 21:00; Tue 31 Jan 17:50
-**Seven Samurai (Shichinin no Samurai)**
-Sat 28 Jan 15:30 BFI IMAX
-**Kagemusha**
-Tue 31 Jan 19:35
-**Stray Dog (Nora Inu)**
-Wed 1 Feb 20:35; Mon 13 Feb 18:10
-**Drunken Angel (Yoidore Tenshi)**
-Thu 2 Feb 18:20; Fri 10 Feb 20:40
-**The Silent Duel (Shizukanaru Kettô)**
-Thu 2 Feb 20:40; Sat 11 Feb 18:40
-**Sanshiro Sugata (Sugata Sanshirô)**
-Fri 3 Feb 18:20 (+ intro by Ian Haydn Smith, season co-curator); Sun 12 Feb 15:50
+**KUROSAWA**  
+**High and Low (Tengoku to Jigoku)**  
+Thu 19 Jan 17:45; Sun 29 Jan 18:00 (+ intro by season co-curator Ian Haydn Smith)  
+**The Lower Depths (Donzoku)**  
+Thu 19 Jan 20:20; Mon 30 Jan 20:20  
+**The Hidden Fortress (Kakushi Toride no San-Akunin)**  
+Fri 20 Jan 20:20; Fri 27 Jan 17:45  
+**The Idiot (Hakuchi)**  
+Sat 21 Jan 16:50  
+**The Bad Sleep Well (Warui Yatsu hoho Yoku Nemuru)**  
+Sun 22 Jan 18:00; Sun 29 Jan 14:30 (+ intro by season co-curator Ian Haydn Smith)  
+**Scandal (Shûbun)**  
+Tue 24 Jan 18:10 (+ intro by season co-curator Ian Haydn Smith)  
+**Sanjuro (Tsubaki Sanjûrô)**  
+Thu 26 Jan 21:00; Tue 31 Jan 17:50  
+**Seven Samurai (Shichinin no Samurai)**  
+Sat 28 Jan 15:30 BFI IMAX  
+**Kagemusha**  
+Tue 31 Jan 19:35  
+**Stray Dog (Nora Inu)**  
+Wed 1 Feb 20:35; Mon 13 Feb 18:10  
+**Drunken Angel (Yoidore Tenshi)**  
+Thu 2 Feb 18:20; Fri 10 Feb 20:40  
+**The Silent Duel (Shizukanaru Kettô)**  
+Thu 2 Feb 20:40; Sat 11 Feb 18:40  
+**Sanshiro Sugata (Sugata Sanshirô)**  
+Fri 3 Feb 18:20 (+ intro by Ian Haydn Smith, season co-curator); Sun 12 Feb 15:50  
 **Sanshiro Sugata Part Two (Zoku Sugata Sanshirô)**
 Fri 3 Feb 20:45; Sun 12 Feb 18:20
 **The Gathering Storm: Kurosawa Study Day**
@@ -94,15 +93,10 @@ Sun 5 Feb 15:15
 Sun 5 Feb 17:30 (+ intro by Adrian Wooton, CEO of Film London and film curator); Sat 11 Feb 11:50; Sat 25 Feb 17:20
 **I Live in Fear (Ikimono no Kiroku)**
 Mon 6 Feb 18:10; Mon 13 Feb 20:40
-
 **Dreams (Yume)**
-
 Wed 8 Feb 20:30; Sun 26 Feb 15:30
-
 **Throne of Blood (Kumonosu-jô)**
-
 Sun 12 Feb 13:00; Fri 17 Feb 20:40; Tue 21 Feb 18:10
-
 **Dersu Uzala**
 Thu 16 Feb 18:10 (+ intro by Ian Haydn Smith, season co-curator); Mon 27 Feb 20:10 (+ intro by Doug Weir, BFI Technical Delivery Manager)
 **Yojimbo Yôjinbô**
@@ -140,5 +134,5 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODg1Mjc2NV19
+eyJoaXN0b3J5IjpbMjA5NjgyNzA3M119
 -->
