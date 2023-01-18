@@ -1,14 +1,12 @@
-<![endif]-->
+
 
 Academy Award®-nominated filmmaker Darren Aronofsky was born and raised in Brooklyn. Aronofsky heads Protozoa Pictures, based in Chinatown NYC.
 
-His upcoming film _The Whale_ for A24 stars Brendan Fraser, Sadie Sink,  
-Hong Chau, and Samantha Morton.
+His upcoming film _The Whale_ for A24 stars Brendan Fraser, Sadie Sink,  Hong Chau, and Samantha Morton.
 
 Aronofsky wrote and directed 2017’s _mother!_ starring Jennifer Lawrence and Javier Bardem. Before that, Aronofsky made the 2014 box office hit _Noah_ starring Russell Crowe, Jennifer Connelly, and Anthony Hopkins.
 
-In 2010, Aronofsky received a Best Director Academy Award® nomination for his indie box office phenomenon _Black Swan_ starring Natalie Portman, who won a Best Actress Academy Award® for her performance. 2008’s  
-_The Wrestler_ starring Mickey Rourke won the Golden Lion for the best film at the Venice Film Festival. Previous to that were the acclaimed and award-winning films _The Fountain_ (2006), _Requiem for a Dream_ (2000), and _Pi_ (1998).
+In 2010, Aronofsky received a Best Director Academy Award® nomination for his indie box office phenomenon _Black Swan_ starring Natalie Portman, who won a Best Actress Academy Award® for her performance. 2008’s  _The Wrestler_ starring Mickey Rourke won the Golden Lion for the best film at the Venice Film Festival. Previous to that were the acclaimed and award-winning films _The Fountain_ (2006), _Requiem for a Dream_ (2000), and _Pi_ (1998).
 
 As a producer under his Protozoa label, Aronofsky has been responsible for _Jackie_,  which garnered three Academy Awards®; the documentary _Some Kind of Heaven_, which premiered at the 2020 Sundance Film Festival; artist Prune Nourry’s docu-memoir _Serendipity_, which made its world premiere at the 2019 Berlin Film Festival; _Pacified_, which won the Golden Shell top prize at the San Sebastián International Film Festival; _Catch the Fair One_, which premiered at the 2021 Tribeca Film Festival where it won the Audience Award; and the documentary feature _The Territory_, which premiered at the 2022 Sundance Film Festival and won both the Audience Award and Special Jury Award for Craft in the World Cinema Documentary category.
 
@@ -18,8 +16,7 @@ Aronofsky has executive produced the six-part docu-series _Welcome to Earth_, th
 
 His first book _Monster Club_, written for middle school readers, was published in September 2022.
 
-**The Whale**
-
+**The Whale**  
 Darren Aronofsky had wanted to adapt _The Whale_ as a film ever since he first saw the play, written by Sam D. Hunter, nearly a decade ago. He was immediately struck by its intelligence, and the fearless way it interrogates the human condition without offering an easy answer.
 
 Says Aronofsky, ‘What I love about _The Whale_ is that it invites you to see the humanity of characters who are not all good or all bad, who truly live in grey tones the way people do, and who have extremely rich, intricate inner lives. They’ve all made mistakes, but what they share are immense hearts and the desire to love even when others are seemingly unlovable. It’s a story that asks a simple but essential question: can we save each other? That feels important in the world right now, especially when people seem more than ever to be turning their backs on one another.’
@@ -39,7 +36,43 @@ The instant bond between Aronofsky and Hunter set things into motion. Both agree
 
 _The Whale_ production notes (courtesy of A24)
 
+<![endif]-->
 
+**DARREN ARONOFSKY**
+
+**Born in Brooklyn, New York, USA**
+
+As director
+
+**Film**
+
+**2022  The Whale** (+ prod)
+
+**2017  mother!** (+ scr)
+
+**2014  Noah** (+ prod/scr)
+
+**2010  Black Swan**
+
+**2008  The Wrestler** (+ prod)
+
+**2006  The Fountain** (+ scr/story)
+
+**2000  Requiem for a Dream** (+ scr)
+
+**1998  Pi** (+ scr)
+
+**1994  No Time** (short)
+
+**1993  Protozoa** (short)
+
+**1991  Supermarket Sweep** (short)
+
+**Fortune Cookie** (short)
+
+**Television**
+
+**2021  Welcome to Earth** (episode: ‘Descent into Darkness’; + exec prod)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Mzg4NTc4Ml19
+eyJoaXN0b3J5IjpbMjExNjc5MjUwOF19
 -->
