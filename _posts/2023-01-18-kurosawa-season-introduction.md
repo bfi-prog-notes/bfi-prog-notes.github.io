@@ -7,7 +7,7 @@ readtime: true
 categories: ['KUROSAWA']
 tags: [Talk]
 metadata: 
-pdf: '2023-01-15-dodeskaden.pdf'
+pdf: '2023-01-18-kurosawa-season-introduction.pdf'
 ---
 
 Season co-programmers Asif Kapadia and Ian Haydn Smith will be joined by a guest speaker for this introduction event to discuss the key themes structuring the Kurosawa season and the films screening. While celebrating Kurosawa’s samurai and action films, they will also explore the less familiar elements that make this giant of cinema’s work so brilliant.  
