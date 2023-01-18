@@ -27,52 +27,38 @@ After its successful and buzzy Denver debut, _The Whale_ moved off-Broadway in J
 
 Aronofsky caught the play in that early run in New York, fresh off the back of his last film and thinking about his next project. He was already established as a singular cinematic voice whose work defied categorisation. He began his career with the hallucinatory thriller _Pi_, before going on to adapt and direct the harrowing addiction fable _Requiem for a Dream_. The mind-melting sci-fi cult classic _The Fountain_ was next, followed by two back-to-back forays into the psychological sports thrillers of _The Wrestler_ and _Black Swan_. Though vastly different in subject matter and tone, Aronofsky’s films (including the ones to come – biblical revisionist epic _Noah_ and the searing eco-feminist parable _mother!_) shared a common thread as explorations into subjectivity, and the breaking of barriers between self and story.
 
-Aronofsky knew very little about _The Whale_ going in; he had bought tickets on a whim, intrigued by the title. It was only after the lights came up, in the afterglow of Charlie’s journey, that he knew he had to get the rights to  
-the show.
+Aronofsky knew very little about _The Whale_ going in; he had bought tickets on a whim, intrigued by the title. It was only after the lights came up, in the afterglow of Charlie’s journey, that he knew he had to get the rights to  the show.
 
 ‘I connected with the themes and ideas, and the way it found beauty in things our prejudices too often make inhuman,’ Aronofsky says. ‘It made my heart ache, it made me laugh, and I felt inspired by the bravery and grace each character finds. It took on a question I like to explore in my own work: how do you transport audiences inside of characters they never could imagine being? I didn’t know then if it could be a movie, but I met with Sam and connected with him immediately.’
 
-The instant bond between Aronofsky and Hunter set things into motion. Both agreed that Hunter should adapt his own work – the only problem was that Hunter had never written a screenplay. But encouraged by Aronofsky and his receipt of a MacArthur Genius grant, Hunter began to teach himself the form from scratch, studying cinematic language and working out how to transform his work from stage to screen. ‘Sam is so incredibly gifted, I knew he’d find his way,’ says Aronofsky.
+The instant bond between Aronofsky and Hunter set things into motion. Both agreed that Hunter should adapt his own work – the only problem was that Hunter had never written a screenplay. But encouraged by Aronofsky and his receipt of a MacArthur Genius grant, Hunter began to teach himself the form from scratch, studying cinematic language and working out how to transform his work from stage to screen. ‘Sam is so incredibly gifted, I knew he’d find his way,’ says Aronofsky.  
+**_The Whale_ production notes (courtesy of A24)**
+<br><br>
 
-_The Whale_ production notes (courtesy of A24)
-
-<![endif]-->
-
-**DARREN ARONOFSKY**
+**DARREN ARONOFSKY**<br>
 
 **Born in Brooklyn, New York, USA**
 
 As director
 
-**Film**
-
-**2022  The Whale** (+ prod)
-
-**2017  mother!** (+ scr)
-
-**2014  Noah** (+ prod/scr)
-
-**2010  Black Swan**
-
-**2008  The Wrestler** (+ prod)
-
-**2006  The Fountain** (+ scr/story)
-
-**2000  Requiem for a Dream** (+ scr)
-
-**1998  Pi** (+ scr)
-
-**1994  No Time** (short)
-
-**1993  Protozoa** (short)
-
-**1991  Supermarket Sweep** (short)
-
-**Fortune Cookie** (short)
+**Film**<br>
+**2022  The Whale** (+ prod)<br>
+**2017  mother!** (+ scr)<br>
+**2014  Noah** (+ prod/scr)<br>
+**2010  Black Swan**<br>
+**2008  The Wrestler** (+ prod)<br>
+**2006  The Fountain** (+ scr/story)<br>
+**2000  Requiem for a Dream** (+ scr)<br>
+**1998  Pi** (+ scr)<br>
+**1994  No Time** (short)<br>
+**1993  Protozoa** (short)<br>
+**1991  Supermarket Sweep** (short)<br>
+**Fortune Cookie** (short)<br>
 
 **Television**
 
-**2021  Welcome to Earth** (episode: ‘Descent into Darkness’; + exec prod)
+**2021  Welcome to Earth** (episode: ‘Descent into Darkness’; + exec prod)<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjc5MjUwOF19
+eyJoaXN0b3J5IjpbLTEyMzEzMzkwMjFdfQ==
 -->
