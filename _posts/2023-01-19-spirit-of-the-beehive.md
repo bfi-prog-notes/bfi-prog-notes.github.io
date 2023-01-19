@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: The Spirit of the Beehive
+published: true
+date: 2023-01-19
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>84=']
+tags: [Drama]
+metadata: 'Spain 1973, 98 mins<br> Director: Victor Erice'
+pdf: '2023-01-19-spirit-of-the-beehive.pdf'
+---
 
 Set in a small village in the aftermath of the Spanish civil war, Erice’s bewitching portrait of innocence, the perils of adulthood and the power of cinema is a truly sensory experience. Illuminated by a spellbinding performance from Ana Torrent as a child who is profoundly affected by a screening of _Frankenstein_, it’s widely regarded as one of the greatest contributions to Spanish cinema.  
 **Jason Wood, bfi.org.uk**  
@@ -87,5 +96,5 @@ Miguel Aguado _(projectionist)_
 Spain 1973  
 98 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzI2NDM3Nl19
+eyJoaXN0b3J5IjpbLTY4MTkxMzA1NV19
 -->
