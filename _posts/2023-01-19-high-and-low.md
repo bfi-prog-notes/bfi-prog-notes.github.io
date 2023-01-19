@@ -115,7 +115,7 @@ Kozo Nomura _(detective)_
 
 Japan 1963  
 143 mins  
-
+<br>
 **KUROSAWA**  
 **High and Low (Tengoku to Jigoku)**  
 Thu 19 Jan 17:45; Sun 29 Jan 18:00 (+ intro by season co-curator Ian Haydn Smith)  
@@ -199,5 +199,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDE5NTczMDNdfQ==
+eyJoaXN0b3J5IjpbLTcwMTA4NzIzN119
 -->
