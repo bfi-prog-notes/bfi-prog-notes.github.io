@@ -30,20 +30,17 @@ It’s something you can’t judge according to notions of political determinism
 
 _But does this complexity inevitably compromise the authenticity of the image?_
 
-In cinema there is a language of prose and a language of poetry. It’s a distinction Pasolini liked to make: he talked about _cinema di prosa_ and  
-_cinema di poesia_ to differentiate the two types of language. Prose always recounts things in a direct way, whereas poetry expresses the ideas of the world in a totally indirect way, and more powerfully perhaps, because it speaks to the unconscious.
+In cinema there is a language of prose and a language of poetry. It’s a distinction Pasolini liked to make: he talked about _cinema di prosa_ and _cinema di poesia_ to differentiate the two types of language. Prose always recounts things in a direct way, whereas poetry expresses the ideas of the world in a totally indirect way, and more powerfully perhaps, because it speaks to the unconscious.
 
 _Is there an inevitable conflict between imposing a particular interpretation of reality – even when it’s only in the selection and organisation of images – and the pursuit of truth?_
 
 Generally I don’t like cinema in which the message is very obvious, so I’d prefer to call it showing or suggesting a particular interpretation rather than imposing it. The language of television is an authoritarian language that seeks a hidden means of persuading the consciousness, whereas the language of cinema – or at least of the cinema I like – communicates on an emotional level and obliges people to look within themselves, but without the idea of a rigid or direct discourse. I think all the films I have made have a common characteristic: they describe a journey of discovery, a spiritual journey. At the outset there is a consciousness that is beginning to discover things and at the end of the journey that consciousness has understood something.
 
-_How might this spiritual journey be understood in relation to_ The Spirit of  
-the Beehive _?_
+_How might this spiritual journey be understood in relation to_ The Spirit of the Beehive _?_
 
 We see the child’s consciousness being formed throughout the film – a consciousness that will be characterised forever as separated from the conventional vision of the world. It could be the consciousness of an artist, an excess of vision through which artists see things that others don’t see, or see them in a different way. At the beginning Ana is a docile, timid person – just a child who asks questions. She can’t understand how there can be something so absurd in life or so terrible that makes a monster kill a child. What the monster wants, in his misery, is to be accepted into society, yet society rejects him – perhaps because of his excess of humanity, for there is something tremendously humane in the monster. So the child’s identification with him is the identification with those who suffer, because she experiences suffering too.
 
-In the beginning Ana exists only through her sister or through the things she is told about, but by the end she exists in her own right. The first trace of her identity has been formed, and that is why she says ‘I am’ for the first time.  
-But that formative process involves pain. Knowledge is like a wound; consciousness is formed through a wound.  
+In the beginning Ana exists only through her sister or through the things she is told about, but by the end she exists in her own right. The first trace of her identity has been formed, and that is why she says ‘I am’ for the first time. But that formative process involves pain. Knowledge is like a wound; consciousness is formed through a wound.  
 **Interview by Rikki Morgan, _Sight and Sound_, April 1993**  
 
 **THE SPIRIT OF THE BEEHIVE (EL ESPÍRITU DE LA COLMENA)**  
@@ -79,7 +76,7 @@ _Sound Recording:_ Luis Rodríguez
 _Sound Effects:_ Luis Castro, SYRE  
 _Special Collaborators:_ Miguel Picazo, Laly Soldevila  
 
-**Cast:**  
+**Cast**  
 Fernando Fernán Gómez _(Fernando)_  
 Teresa Gimpera _(Teresa)_  
 Ana Torrent _(Ana)_  
