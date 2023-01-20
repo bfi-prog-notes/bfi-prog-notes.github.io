@@ -6,7 +6,7 @@ date: 2023-01-20
 readtime: true
 categories: ['KUROSAWA']
 tags: [Drama, Period, Martial Arts]
-metadata: 'Japan 1958, 138mins<br> Director: Akira Kurosawa'
+metadata: 'Japan 1958, 138 mins<br> Director: Akira Kurosawa'
 pdf: '2023-01-20-hidden-fortress.pdf'
 ---
 
