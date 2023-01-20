@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: The Hidden Fortress
+published: true
+date: 2023-01-22
+readtime: true
+categories: ['KUROSAWA']
+tags: [Drama, Crime]
+metadata: 'Japan 1960, 151 mins<br> Director: Akira Kurosawa'
+pdf: '2023-01-20-hidden-fortress.pdf'
+---
 
 _Introduced by season co-curator Ian Haydn Smith (Sunday 29 January only)._
 
@@ -78,32 +87,32 @@ Seiji Miyaguchi _(Okakura)_
 Nobuo Nakamura _(lawyer)_  
 Susumu Fujita _(commissioner)_  
 Koji Mitsui _(journalist)_  
-Ken Mitsuda _(president of Public Corp.)_
-Kôji Nanbara _(Horiuchi)_
-Yoshibumi Tajima _(reporter)_
-Yoshio Tsuchiya _(ADA secretary)_
-Sensho Matsumoto _(Hatano)_
-Kin Sugai _(Tomoko Wada)_
-Natsuko Kahara _(Mrs Furuya)_
-Nobuko Tashiro _(Mrs Moriyama)_
-Atsuko Ichinomiya _(Mrs Ariyama)_
-Toshiko Higuchi _(Masako Wada)_
-Jun Kondo _(reporter)_
-Yutaka Sada _(wedding receptionist)_
-Ikio Sawamura _(taxi driver)_
-Hisashi Yakomori _(reporter)_
-Kunie Tanaka _(professional assassin)_
-Kyoro Sakurai _(prosecutor)_
-Ryoji Shimizu _(worker in Public Corp.)_
-Soji Ikukata, Shiro Tsuchiya _(construction company employees)_
-Kyoko Ozawa _(Iwabuchi maid)_
-Akemi Ueno _(receptionist)_
-Hiromi Iwabuchi _(second Iwabuchi maid)_
+Ken Mitsuda _(president of Public Corp.)_  
+Kôji Nanbara _(Horiuchi)_  
+Yoshibumi Tajima _(reporter)_  
+Yoshio Tsuchiya _(ADA secretary)_  
+Sensho Matsumoto _(Hatano)_  
+Kin Sugai _(Tomoko Wada)_  
+Natsuko Kahara _(Mrs Furuya)_  
+Nobuko Tashiro _(Mrs Moriyama)_  
+Atsuko Ichinomiya _(Mrs Ariyama)_  
+Toshiko Higuchi _(Masako Wada)_  
+Jun Kondo _(reporter)_  
+Yutaka Sada _(wedding receptionist)_  
+Ikio Sawamura _(taxi driver)_  
+Hisashi Yakomori _(reporter)_  
+Kunie Tanaka _(professional assassin)_  
+Kyoro Sakurai _(prosecutor)_  
+Ryoji Shimizu _(worker in Public Corp.)_  
+Soji Ikukata, Shiro Tsuchiya _(construction company employees)_  
+Kyoko Ozawa _(Iwabuchi maid)_  
+Akemi Ueno _(receptionist)_  
+Hiromi Iwabuchi _(second Iwabuchi maid)_  
 
-Japan 1960©
-151 mins
+Japan 1960©  
+151 mins  
 
-\* Uncredited
+\* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODM1NjUyMF19
+eyJoaXN0b3J5IjpbMjA1MDM5MzUyNF19
 -->
