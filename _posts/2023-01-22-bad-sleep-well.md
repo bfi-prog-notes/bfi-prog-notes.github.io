@@ -1,42 +1,38 @@
 ---
 layout: post
-title: The Hidden Fortress
+title: The Bad Sleep Well
 published: true
 date: 2023-01-22
 readtime: true
 categories: ['KUROSAWA']
 tags: [Drama, Crime]
 metadata: 'Japan 1960, 151 mins<br> Director: Akira Kurosawa'
-pdf: '2023-01-20-hidden-fortress.pdf'
+pdf: '2023-01-22-bad-sleep-well.pdf'
 ---
 
 _Introduced by season co-curator Ian Haydn Smith (Sunday 29 January only)._
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
-Tangentially a version of _Hamlet_, Kurosawa’s rebuttal to an emerging culture of corruption within Japan’s business world sees Toshiro Mifune take on one of his most understated roles as Koichi Nishi, the son of a man who apparently committed suicide because of his involvement with corrupt executives. Now Nishi has the chance to take revenge, skilfully plotting his way into the confidences of the men he holds responsible.
-
+Tangentially a version of _Hamlet_, Kurosawa’s rebuttal to an emerging culture of corruption within Japan’s business world sees Toshiro Mifune take on one of his most understated roles as Koichi Nishi, the son of a man who apparently committed suicide because of his involvement with corrupt executives. Now Nishi has the chance to take revenge, skilfully plotting his way into the confidences of the men he holds responsible.  
 **bfi.org.uk**
 
 _The Bad Sleep Well_, the first film made by Kurosawa’s own, newly founded production company, was also the first over which he had complete control. He wanted to make ‘a movie of some social significance’ and decided to target the culture of corruption he saw pervading post-war Japanese society. This impressive tale of greed, corporate corruption and revenge is a powerful indictment of the dark side of business and politics with distinct overtones of _Hamlet_.
 
 Koichi Nishi (Toshiro Mifune) is a grieving son seeking revenge for the ‘suicide’ of his father. By assuming a new identity he rises through the ranks of the Public Corporation and cynically marries the President’s daughter to better infiltrate the company and expose the corrupt practice that was responsible for his father’s death. However, as Koichi falls in love with his wife, disaster looms.
 
-Kurosawa directed three adaptations from Shakespeare. Two were recreated as samurai movies: _Macbeth_ became _Throne of Blood_ (1957), and _King Lear_ inspired his last major film, the epic _Ran_ (1985). _The Bad Sleep Well_ comes between the two and is the least-known. In addition to its contemporary setting it is the freest adaptation of the three.
-
+Kurosawa directed three adaptations from Shakespeare. Two were recreated as samurai movies: _Macbeth_ became _Throne of Blood_ (1957), and _King Lear_ inspired his last major film, the epic _Ran_ (1985). _The Bad Sleep Well_ comes between the two and is the least-known. In addition to its contemporary setting it is the freest adaptation of the three.  
 **BFI Player**
 
-**Kurosawa on ‘The Bad Sleep Well’**
-
+**Kurosawa on ‘The Bad Sleep Well’**  
 This was the first film of Kurosawa Productions, my own unit which I run and finance myself. From this film on, everything was my own responsibility. Consequently I wondered about what kind of film to make. Making a film just to make money did not appeal to me – one should not take advantage of an audience. Instead, I wanted to make a film of some social significance. At last I decided to do something about corruption, because it has always seemed to me that graft, bribery, etc., on a public level is the worst crime that there is. These people hide behind the façade of some great organisation like a company or a corporation – and consequently no one ever really knows how dreadful they are, what awful things they do. Exposing them I thought of as a socially significant act – and so I started the film.
 
 But even while we were making it, I knew that it wasn’t working out as I had planned, and this was because I was simply not telling and showing enough. Like the final scene with Mori on the telephone. That suggests, but it is not explicit enough. An even worse man is at the other end of that telephone line, but in Japan you cannot go further than that.
 
 [Kurosawa’s comment means the above but is almost untranslatable. In Japanese it reads: _Sodo made tsukondeiku to hobo ni sashisawari ga dete kuru_ or ‘if you go (too) far you (might) make trouble come to someone (else?)’ –but the inference here, as in the final telephone scene where the villainous Mori calls someone and tells them that the matter (Mifune’s murder) is taken care of, is that the greatest corruption of all in Japan is governmental. Kurosawa had suggested this in _lkiru_, but there he was only dealing with a single ward office in the city government. In _The Bad Sleep Well_ he was, ostensibly, incriminating big business, but if he had tried to show a corrupt government, trouble would indeed have come to someone. The revelations of the film, even so, were considered quite sensational in Japan, though in Europe and America they seemed tame indeed.]
 
-At any rate it was too bad I didn’t go further. Maybe I could have in say, America, a big country. Japan, however, cannot be this free and this makes me sad.
-
-**Akira Kurosawa, edited by Donald Richie, _Sight and Sound_, Autumn 1964**
+At any rate it was too bad I didn’t go further. Maybe I could have in say, America, a big country. Japan, however, cannot be this free and this makes me sad.  
+**Akira Kurosawa, edited by Donald Richie, _Sight and Sound_, Autumn 1964**  
 
 **THE BAD SLEEP WELL (WARUI YATSU HODO YOKU NEMURU)**  
 _Director:_ Akira Kurosawa  
@@ -114,5 +110,5 @@ Japan 1960©
 
 \* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDM5MzUyNF19
+eyJoaXN0b3J5IjpbLTE5NjY5MTU2NDFdfQ==
 -->
