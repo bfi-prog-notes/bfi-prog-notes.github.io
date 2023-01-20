@@ -21,51 +21,30 @@ This epic adventure, with its sweeping narrative and well-defined characters, is
 Kurosawa’s _The Hidden Fortress_ erupted into the festival like a rhinoceros into a prairie of mild sheep. Never before has Kurosawa’s allegiance to John Ford been more apparent; this, one felt, was the definitive Eastern-Western. The story is simple: a Samurai in disguise is conducting a Princess in disguise through enemy lines. To render their passage less ostentatious, the Samurai enlists two peasants into their company with the promise of gold. The by-play of these deceitful, raucous peasants, acted in broad, antic Kabuki vein full of comic whoops and barks, forms the light relief in a series of hair-breadth escapes, dazzlingly choreographed sword fights and shock effects timed with a master’s instinct. There is one moment strongly recalling the appearance of the Indians in _Stagecoach_: the little band seems to have reached temporary security when from every fold in the innocent landscape a menacing army materialises.
 
 The superior adventure film obviously lies close to Kurosawa’s heart, and his authority in the genre commands respect. Far below the stature of _Seven Samurai_ in its conception, _The Hidden Fortress_ is an example of a popular theme handled with such skill and enthusiasm as almost to disguise the fundamental lack of narrative distinction. Toshiro Mifune, stunningly athletic and as controlled as a panther, is the star.
-
 **_Sight and Sound_****, Summer/Autumn 1959**
 
 **THE HIDDEN FORTRESS (KAKUSHI TORIDE NO SAN-AKUNIN)**
-
 _Director:_ Akira Kurosawa
-
 _Production Company:_ Toho Co. Ltd.
-
 _Producer:_ Masumi Fujimoto
-
 _Associate Producer:_ Akira Kurosawa
-
 _Production Supervisor:_ Hiroshi Nezu
-
 _Production Accountant:_ Koichi Noguchi
-
 _Production Assistant:_ Takuyuki Inoue
-
 _Assistant Directors:_ Mimachi Yanagase, Yoshimitsu Sakano,
-
 Kan Sano, Yoichi Matsue, Masahiro Takase, Yasuyoshi Tajitsu
-
 _Script Supervisor:_ Teruyo Nogami
-
 _Casting:_ Yuichi Yoshitake
-
 _Screenplay:_ Ryuzo Kikushima, Hideo Oguni, Shinobu Hashimoto, Akira Kurosawa
 
 _Director of Photography:_ Kazuo Yamasaki
-
 _Lighting:_ Ichiro Inohara
-
 _Assistant Lighting:_ Sei Arai
-
 _Stills Photography:_ Masao Fukuda
-
 _Special Effects:_ Toho Special Effects Co Ltd
-
 _Editor:_ Chozo Obata
-
 _Art Director:_ Yoshiro Muraki
-
 _Assistant Art Director:_ Shinko Kato
-
 _Art Supervisor:_ Kohei Ezaki
 _Costumes:_ Masahiro Kato
 _Hair:_ Yoshiko Matsumoto, Junjiro Yamada
@@ -117,5 +96,5 @@ Nichigeki Dancing Team _(female dancers)_
 Japan 1958
 138 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTYxNDM1MV19
+eyJoaXN0b3J5IjpbMTI1NzExNjUxM119
 -->
