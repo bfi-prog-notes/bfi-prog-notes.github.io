@@ -1,12 +1,12 @@
 ---
 layout: post
-title: T
+title: The Hidden Fortress
 published: true
-date: 2023-01-19
+date: 2023-01-20
 readtime: true
 categories: ['KUROSAWA']
-tags: [Drama, Crime, Thriller]
-metadata: 'Japan 1963, 143mins<br> Director: Akira Kurosawa'
+tags: [Drama, Period]
+metadata: 'Japan 1958, 138mins<br> Director: Akira Kurosawa'
 pdf: '2023-01-19-high-and-low.pdf'
 ---
 
@@ -179,5 +179,5 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTYyMTcxMTQsMTI1NzExNjUxM119
+eyJoaXN0b3J5IjpbLTE1MTY3NzQ3MzQsMTI1NzExNjUxM119
 -->
