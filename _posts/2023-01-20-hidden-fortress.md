@@ -7,7 +7,7 @@ readtime: true
 categories: ['KUROSAWA']
 tags: [Drama, Period, Martial Arts]
 metadata: 'Japan 1958, 138mins<br> Director: Akira Kurosawa'
-pdf: '2023-01-19-high-and-low.pdf'
+pdf: '2023-01-20-hidden-fortress.pdf'
 ---
 
 If Kurosawa had proven himself skilled at subverting the conventions of Japanese genre filmmaking, with this hugely entertaining film he not only proved he could embrace a straightforward adventure, he showed he could beat most other filmmakers at their own game. His trump card was to foreground two lowly farmers. One of Kurosawa’s most influential films, it’s a rip-roaring ride.  
@@ -179,5 +179,5 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODU5OTAzMiwxMjU3MTE2NTEzXX0=
+eyJoaXN0b3J5IjpbMzU0MjkyMzgsMTI1NzExNjUxM119
 -->
