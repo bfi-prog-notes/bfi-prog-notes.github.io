@@ -29,60 +29,55 @@ At any rate it was too bad I didn’t go further. Maybe I could have in say, Ame
 
 **Akira Kurosawa, edited by Donald Richie, _Sight and Sound_, Autumn 1964**
 
-**THE BAD SLEEP WELL (WARUI YATSU HODO YOKU NEMURU)**
-
-_Director:_ Akira Kurosawa
-
-_©:_ Toho Co. Ltd.
-
-_Production Company:_ Kurosawa Productions
-
-_Producers:_ Tomoyuki Tanaka, Akira Kurosawa
-_Production Supervisor:_ Hiroshi Nezu
-_Production Assistant:_ Hidehiko Eguchi
-_Chief Assistant Director:_ Shiro Moritani
+**THE BAD SLEEP WELL (WARUI YATSU HODO YOKU NEMURU)**  
+_Director:_ Akira Kurosawa  
+_©:_ Toho Co. Ltd.  
+_Production Company:_ Kurosawa Productions  
+_Producers:_ Tomoyuki Tanaka, Akira Kurosawa  
+_Production Supervisor:_ Hiroshi Nezu  
+_Production Assistant:_ Hidehiko Eguchi  
+_Chief Assistant Director:_ Shiro Moritani  
 _Assistant Directors:_ Yoshimitsu Sakano, Kazuko Kawakita,
-Kiyoshi Nishimura, Yoichi Matsue
-_Script Supervisor:_ Teruyo Nogami
+Kiyoshi Nishimura, Yoichi Matsue  
+_Script Supervisor:_ Teruyo Nogami  
 _Screenplay:_ Shinobu Hashimoto, Hideo Oguni, Ryuzo Kikushima,
-Eijiro Hisaita, Akira Kurosawa
-_Suggested by an unproduced screenplay by:_ Mike Y. Inoue *
-_Inspired by the play_ Hamlet _by:_ William Shakespeare *
-_Director of Photography:_ Yuzuru Aizawa
-_Lighting:_ Ichiro Inohara
-_Assistant Lighting:_ Sei Arai
-
-_Assistant Cameraman:_ Takao Saito
-_Stills Photography:_ Masao Fukuda
-_Assistant Editor:_ Reiko Kaneko
-_Art Director:_ Yoshiro Muraki
-_Assistant Art Director:_ Jun Sakuma
-_Properties:_ Koichi Hamamura
-_Kyoto Costumes:_ Shoji Kurihara
-_Hair:_ Tomoko Asami, Junjiro Yamada
-_Music:_ Masaru Sato
+Eijiro Hisaita, Akira Kurosawa  
+_Suggested by an unproduced screenplay by:_ Mike Y. Inoue *  
+_Inspired by the play_ Hamlet _by:_ William Shakespeare *  
+_Director of Photography:_ Yuzuru Aizawa  
+_Lighting:_ Ichiro Inohara  
+_Assistant Lighting:_ Sei Arai  
+_Assistant Cameraman:_ Takao Saito  
+_Stills Photography:_ Masao Fukuda  
+_Assistant Editor:_ Reiko Kaneko  
+_Art Director:_ Yoshiro Muraki  
+_Assistant Art Director:_ Jun Sakuma  
+_Properties:_ Koichi Hamamura  
+_Kyoto Costumes:_ Shoji Kurihara  
+_Hair:_ Tomoko Asami, Junjiro Yamada  
+_Music:_ Masaru Sato  
 _Sound Recording:_ Fumio Yanoguchi,
-Hisashi Shimogawa
-_Sound Assistant:_ Masanao Uehara
-_Sound Effects:_ Ichiro Minawa
-_Transportation:_ Ginzo Junjiro
+Hisashi Shimogawa  
+_Sound Assistant:_ Masanao Uehara  
+_Sound Effects:_ Ichiro Minawa  
+_Transportation:_ Ginzo Junjiro  
 
 **Cast**  
-Toshiro Mifune _(Koichi Nishi)_
-Takeshi Kato _(Itakura)_
-Masayuki Mori _(Iwabuchi)_
-Takashi Shimura _(Moriyama)_
-Akira Nishimura _(Shirai, contract officer)_
-Kamatari Fujiwara _(Wada, accountant)_
-Gen Shimizu _(Miura, accountant)_
-Kyôko Kagawa _(Keiko, Iwabuchi’s daughter)_
-Tatsuya Mihashi _(Tatsuo, Iwabuchi’s son)_
-Kyu Sazanka _(Kaneko)_
-Chishu Ryu _(Nonaka, public prosecutor)_
-Seiji Miyaguchi _(Okakura)_
-Nobuo Nakamura _(lawyer)_
-Susumu Fujita _(commissioner)_
-Koji Mitsui _(journalist)_
+Toshiro Mifune _(Koichi Nishi)_  
+Takeshi Kato _(Itakura)_  
+Masayuki Mori _(Iwabuchi)_  
+Takashi Shimura _(Moriyama)_  
+Akira Nishimura _(Shirai, contract officer)_  
+Kamatari Fujiwara _(Wada, accountant)_  
+Gen Shimizu _(Miura, accountant)_  
+Kyôko Kagawa _(Keiko, Iwabuchi’s daughter)_  
+Tatsuya Mihashi _(Tatsuo, Iwabuchi’s son)_  
+Kyu Sazanka _(Kaneko)_  
+Chishu Ryu _(Nonaka, public prosecutor)_  
+Seiji Miyaguchi _(Okakura)_  
+Nobuo Nakamura _(lawyer)_  
+Susumu Fujita _(commissioner)_  
+Koji Mitsui _(journalist)_  
 Ken Mitsuda _(president of Public Corp.)_
 Kôji Nanbara _(Horiuchi)_
 Yoshibumi Tajima _(reporter)_
@@ -110,5 +105,5 @@ Japan 1960©
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTgzNTY5NzhdfQ==
+eyJoaXN0b3J5IjpbMTI1ODM1NjUyMF19
 -->
