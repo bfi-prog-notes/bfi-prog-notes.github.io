@@ -25,23 +25,16 @@ The prince’s guards descend on a burnt-out village, seeking a craftsman capabl
 The village is waste, its inhabitants dead or fled. One boy remains, the son of the craftsman, who calls to the departing retainers of the prince to take him on their saddles, his father before dying imparted to him his secrets; he will build the bell. There follows the process of casting the monster bell, as the boy demands ever more and more men and metal and hurries men twice his age to do his bidding. At last all is ready, the populace is assembled, the prince and his guests ride out for the great hour. The clay cools, gingerly the craftsmen remove it. The boy – played again, brilliantly, by a now five years older Burlyayev – can stand it no longer. He runs and falls to earth, sobbing into Rublev’s arms that there was no secret, he had no idea how to make a bell, but he had watched, he could not but try. There is no crack in the bell. It is hoisted successfully. It rings.
 
 There follows, in a paean of blazing colour replacing the black and white of the film’s action, image after image drawn from Rublev’s icons. The point is clear.  
-If the boy cannot forbear, but must create, how can Rublev, for very shame, accept frustration? Is this not a topical question, unanswerably answered? No words could be more explicit. Tortured, and torturing, this is yet a masterpiece.
-
-Ivor Montagu, _Sight and Sound_, Spring 1973
-
-<![endif]-->
+If the boy cannot forbear, but must create, how can Rublev, for very shame, accept frustration? Is this not a topical question, unanswerably answered? No words could be more explicit. Tortured, and torturing, this is yet a masterpiece.Ivor Montagu, _Sight and Sound_, Spring 1973**
+<br><br>
 
 **ANDREI RUBLEV**
-
-_Director:_ Andrei Tarkovsky  
+  _Director:_ Andrei Tarkovsky  
 _Production Company:_ Mosfilm  
 _Production Manager:_ Tamara Ogorodnikova  
 _1st Assistant Director:_ Igor Petrov  
-_2nd Assistant Directors:_ Bagrat Oganesyan,
-
-A. Macharet, M. Volovich  
-_Screenplay:_ Andrei Konchalovsky,  
-Andrei Tarkovsky  
+_2nd Assistant Directors:_ Bagrat Oganesyan,A. Macharet, M. Volovich  
+_Screenplay:_ Andrei Konchalovsky,  Andrei Tarkovsky  
 _Director of Photography:_ Vadim Iusov  
 _Special Effects:_ V. Sevostyanov  
 _Editor:_ Lyudmila Feiginova  
@@ -50,10 +43,9 @@ _Art Director:_ Yevgeni Chernyaev
 _Costumes:_ L. Novy, Maia Abar-Baranovskaia  
 _Music:_ Vyacheslav Ovchinnikov  
 _Sound:_ E. Zelentsova
-
-_Historical Adviser:_ V.G. Pashuto  
-_Cast:_
-
+  _Historical Adviser:_ V.G. Pashuto  
+Cast:_
+ 
 Anatoli Solonitsyn _(Andrei Rublev)_  
 Ivan Lapikov _(Kyrill)_  
 Nikolai Grinko _(Daniel the Black)_  
@@ -73,6 +65,7 @@ B. Beizhenaliev
 B. Matisik  
 A. Obukhov  
 Volodya Titov  
+
 USSR 1966©
 
 183 mins
@@ -128,5 +121,5 @@ Mon 30 Jan 16:30 BFI IMAX
 **L’avventura (The Adventure)  
 **Mon 30 Jan 20:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2Mzg2OTA4LDE5MTg4MjY1NTJdfQ==
+eyJoaXN0b3J5IjpbLTc2NDQ2MjAyNCwzODYzODY5MDhdfQ==
 -->
