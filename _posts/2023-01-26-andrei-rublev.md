@@ -1,9 +1,7 @@
 
 
 Among filmmakers, one of the paradigmatic cases of indomitable entrepreneurial spirit was Andrei Tarkovsky. For each of his films he had conflicts with the Soviet State Committee for Cinematography, to the point that, from 1982, his films, which triumphed in festivals around the world, were no longer screened in the Soviet Union and his name was never again mentioned in the state-controlled media. _Andrei Rublev_, especially the episode entitled ‘The Bell’, can be seen as a hymn to creative freedom; to the innovator as a window to creativity that opens in societies; and to courage and risk-taking as two of the fundamental characteristics that anyone who intends to transform the world must have.  
-**
-
-Santiago Navajas, _Sight and Sound_, Winter 2022-23**
+**Santiago Navajas, _Sight and Sound_, Winter 2022-23**
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -25,9 +23,10 @@ The prince’s guards descend on a burnt-out village, seeking a craftsman capabl
 The village is waste, its inhabitants dead or fled. One boy remains, the son of the craftsman, who calls to the departing retainers of the prince to take him on their saddles, his father before dying imparted to him his secrets; he will build the bell. There follows the process of casting the monster bell, as the boy demands ever more and more men and metal and hurries men twice his age to do his bidding. At last all is ready, the populace is assembled, the prince and his guests ride out for the great hour. The clay cools, gingerly the craftsmen remove it. The boy – played again, brilliantly, by a now five years older Burlyayev – can stand it no longer. He runs and falls to earth, sobbing into Rublev’s arms that there was no secret, he had no idea how to make a bell, but he had watched, he could not but try. There is no crack in the bell. It is hoisted successfully. It rings.
 
 There follows, in a paean of blazing colour replacing the black and white of the film’s action, image after image drawn from Rublev’s icons. The point is clear.  
-If the boy cannot forbear, but must create, how can Rublev, for very shame, accept frustration? Is this not a topical question, unanswerably answered? No words could be more explicit. Tortured, and torturing, this is yet a masterpiece.Ivor Montagu, _Sight and Sound_, Spring 1973**<r><br>
+If the boy cannot forbear, but must create, how can Rublev, for very shame, accept frustration? Is this not a topical question, unanswerably answered? No words could be more explicit. Tortured, and torturing, this is yet a masterpiece.  
+**Ivor Montagu, _Sight and Sound_, Spring 1973**<br><br>
 
-**ANDREI RUBLEV**
+**ANDREI RUBLEV**  
 _Director:_ Andrei Tarkovsky  
 _Production Company:_ Mosfilm  
 _Production Manager:_ Tamara Ogorodnikova  
@@ -43,8 +42,7 @@ _Costumes:_ L. Novy, Maia Abar-Baranovskaia
 _Music:_ Vyacheslav Ovchinnikov  
 _Sound:_ E. Zelentsova
 _Historical Adviser:_ V.G. Pashuto  
-Cast:_
- 
+**Cast** 
 Anatoli Solonitsyn _(Andrei Rublev)_  
 Ivan Lapikov _(Kyrill)_  
 Nikolai Grinko _(Daniel the Black)_  
@@ -98,6 +96,6 @@ Mon 30 Jan 20:15<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjE1MTQ5OSw1MDM4OTU0MzUsMzg2Mz
-g2OTA4XX0=
+eyJoaXN0b3J5IjpbMzUyNjY0NjM0LDE0NDYxNTE0OTksNTAzOD
+k1NDM1LDM4NjM4NjkwOF19
 -->
