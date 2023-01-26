@@ -91,15 +91,13 @@ Sun 29 Jan 15:10<br>
 **Touki-Bouki**<br>
 Tue 31 Jan 17:40<br>
 **Metropolis**<br>
-
 Mon 30 Jan 16:30 BFI IMAX<br>
-
 **L’avventura (The Adventure)**<br>
 Mon 30 Jan 20:15<br>
 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzODk1NDM1LC0xMjQxNjAyMTYzLDM4Nj
-M4NjkwOF19
+eyJoaXN0b3J5IjpbMTQ0NjE1MTQ5OSw1MDM4OTU0MzUsMzg2Mz
+g2OTA4XX0=
 -->
