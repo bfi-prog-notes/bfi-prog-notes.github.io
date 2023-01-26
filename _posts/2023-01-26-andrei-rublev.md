@@ -49,7 +49,7 @@ _Music:_ Vyacheslav Ovchinnikov
 _Sound:_ E. Zelentsova
 _Historical Adviser:_ V.G. Pashuto  
 
-**Cast 
+**Cast**   
 Anatoli Solonitsyn _(Andrei Rublev)_  
 Ivan Lapikov _(Kyrill)_  
 Nikolai Grinko _(Daniel the Black)_  
