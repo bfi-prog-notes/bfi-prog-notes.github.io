@@ -42,6 +42,7 @@ _Costumes:_ L. Novy, Maia Abar-Baranovskaia
 _Music:_ Vyacheslav Ovchinnikov  
 _Sound:_ E. Zelentsova
 _Historical Adviser:_ V.G. Pashuto  
+
 **Cast** 
 Anatoli Solonitsyn _(Andrei Rublev)_  
 Ivan Lapikov _(Kyrill)_  
@@ -96,6 +97,6 @@ Mon 30 Jan 20:15<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyNjY0NjM0LDE0NDYxNTE0OTksNTAzOD
-k1NDM1LDM4NjM4NjkwOF19
+eyJoaXN0b3J5IjpbLTM2MDA3NzEwOCwxNDQ2MTUxNDk5LDUwMz
+g5NTQzNSwzODYzODY5MDhdfQ==
 -->
