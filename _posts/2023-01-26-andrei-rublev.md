@@ -43,7 +43,7 @@ _Music:_ Vyacheslav Ovchinnikov
 _Sound:_ E. Zelentsova
 _Historical Adviser:_ V.G. Pashuto  
 
-**Cast** 
+**Cast 
 Anatoli Solonitsyn _(Andrei Rublev)_  
 Ivan Lapikov _(Kyrill)_  
 Nikolai Grinko _(Daniel the Black)_  
@@ -97,6 +97,6 @@ Mon 30 Jan 20:15<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDA3NzEwOCwxNDQ2MTUxNDk5LDUwMz
-g5NTQzNSwzODYzODY5MDhdfQ==
+eyJoaXN0b3J5IjpbNzAzNTc2MDEyLC0zNjAwNzcxMDgsMTQ0Nj
+E1MTQ5OSw1MDM4OTU0MzUsMzg2Mzg2OTA4XX0=
 -->
