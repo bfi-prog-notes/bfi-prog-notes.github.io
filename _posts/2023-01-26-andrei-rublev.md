@@ -66,60 +66,40 @@ B. Matisik
 A. Obukhov  
 Volodya Titov  
 
-USSR 1966©
-
+USSR 1966©  
 183 mins
+<br><br>
 
-<![endif]-->
+**SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**<br>
+**Andrei Rublev**<br>
+Thu 26 Jan 18:40; Sun 29 Jan 17:20<br>
+**Sunset Boulevard**<br>
+Fri 27 Jan 14:30; Mon 30 Jan 17:50<br>
+**Journey to Italy (Viaggio in Italia)**<br>
+Fri 27 Jan 20:50<br>
+**My Neighbour Totoro (Tonari no Totoro)**<br>
+Sat 28 Jan 13:40<br>
+**The Spirit of the Beehive  (El espíritu de la colmena)**<br>
+Sat 28 Jan 13:50<br>
+**A Brighter Summer Day (Guling jie shaonian sha ren shijian)**<br>
+Sat 28 Jan 16:00<br>
+**A Man Escaped  (Un Condamné à mort s’est échappé)**<br>
+Sat 28 Jan 20:30<br>
+**Imitation of Life**<br>
+Sun 29 Jan 12:30<br>
+**The General**<br>
+Sun 29 Jan 15:10<br>
+**Touki-Bouki**<br>
+Tue 31 Jan 17:40<br>
+**Metropolis**<br>
 
-**SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**
+Mon 30 Jan 16:30 BFI IMAX<br>
 
-**Andrei Rublev**
+**L’avventura (The Adventure)**<br>
+Mon 30 Jan 20:15<br>
+<br>
 
-Thu 26 Jan 18:40; Sun 29 Jan 17:20
 
-**Sunset Boulevard  
-**Fri 27 Jan 14:30; Mon 30 Jan 17:50
-
-**Journey to Italy (Viaggio in Italia)  
-**Fri 27 Jan 20:50
-
-**My Neighbour Totoro (Tonari no Totoro)**
-
-Sat 28 Jan 13:40
-
-**The Spirit of the Beehive  
-(El espíritu de la colmena)**
-
-Sat 28 Jan 13:50
-
-**A Brighter Summer Day  
-(Guling jie shaonian sha ren shijian)  
-**Sat 28 Jan 16:00
-
-**A Man Escaped  
-(Un Condamné à mort s’est échappé)**
-
-Sat 28 Jan 20:30
-
-**Imitation of Life**
-
-Sun 29 Jan 12:30
-
-**The General**
-
-Sun 29 Jan 15:10
-
-**Touki-Bouki**
-
-Tue 31 Jan 17:40
-
-**Metropolis**
-
-Mon 30 Jan 16:30 BFI IMAX
-
-**L’avventura (The Adventure)  
-**Mon 30 Jan 20:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDQ2MjAyNCwzODYzODY5MDhdfQ==
+eyJoaXN0b3J5IjpbLTEyNDE2MDIxNjMsMzg2Mzg2OTA4XX0=
 -->
