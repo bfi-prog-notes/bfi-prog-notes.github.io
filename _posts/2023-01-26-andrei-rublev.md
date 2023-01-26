@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Andrei Rublev
+published: true
+date: 2023-01-26
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>67=']
+tags: [Drama]
+metadata: 'USSR 1966, 183 mins<br> Director: Andrei Tarkovsky'
+pdf: '2023-01-26-andrei-rublev.pdf'
+---
 
 Among filmmakers, one of the paradigmatic cases of indomitable entrepreneurial spirit was Andrei Tarkovsky. For each of his films he had conflicts with the Soviet State Committee for Cinematography, to the point that, from 1982, his films, which triumphed in festivals around the world, were no longer screened in the Soviet Union and his name was never again mentioned in the state-controlled media. _Andrei Rublev_, especially the episode entitled ‘The Bell’, can be seen as a hymn to creative freedom; to the innovator as a window to creativity that opens in societies; and to courage and risk-taking as two of the fundamental characteristics that anyone who intends to transform the world must have.  
 **Santiago Navajas, _Sight and Sound_, Winter 2022-23**
@@ -11,19 +21,15 @@ _Andrei Rublev_ is in two parts, eight episodes dated from 1400 to 1423 with the
 
 There follows a scene of argument theological, philosophical, compounded with personal rivalries and jealousies, between Rublev, his associates and a venerable icon-painter, Theophanes the Greek. As Jeanne Vronskaya quotes Tarkovsky: ‘Unlike Theophanes the Greek, who propounded the idea of Judgment Day, who found in Man only an embodiment of sin and vice, and in God a vengeful, primitive being, Rublev placed Man first. In Man he sought God, he regarded him as the house in which God lived.’
 
-Incidents, visions of the procession of the cross and the Passion prolong the argument. A terrifying episode of peasant festival in which Rublev is bound, freed by a nude woman he rejects and who is later seized by guards and escapes flapping in the river like a great white dolphin, is succeeded by the painting of new murals in the cathedral by Rublev’s group. The envious brother of the reigning prince meets a party of craftsmen in the forest on their way to join Rublev, blinds them, and then encounters a foraging party of Tartars and leads them by secret ways into the town to burn and rape and massacre.  
-The attackers in an episode called ‘Judgment Day – Summer 1408’ batter in the doors of the cathedral and slaughter nearly every soul who there took refuge. Rublev, stung by the scene to kill a man who was carrying off a woman who had joined his group, sees all his effort in vain. The murals wrecked; the woman, driven mad, in spite of his care and facing the Tartars to protect her, prefers to ride off with them as a laughing-stock.
+Incidents, visions of the procession of the cross and the Passion prolong the argument. A terrifying episode of peasant festival in which Rublev is bound, freed by a nude woman he rejects and who is later seized by guards and escapes flapping in the river like a great white dolphin, is succeeded by the painting of new murals in the cathedral by Rublev’s group. The envious brother of the reigning prince meets a party of craftsmen in the forest on their way to join Rublev, blinds them, and then encounters a foraging party of Tartars and leads them by secret ways into the town to burn and rape and massacre.  The attackers in an episode called ‘Judgment Day – Summer 1408’ batter in the doors of the cathedral and slaughter nearly every soul who there took refuge. Rublev, stung by the scene to kill a man who was carrying off a woman who had joined his group, sees all his effort in vain. The murals wrecked; the woman, driven mad, in spite of his care and facing the Tartars to protect her, prefers to ride off with them as a laughing-stock.
 
-Tarkovsky, in commenting on the film, says: ‘I do not understand historical films which have no relevance for the present. For me the most important  
-thing is to use historical material to express Man’s ideas and to create contemporary characters.’
+Tarkovsky, in commenting on the film, says: ‘I do not understand historical films which have no relevance for the present. For me the most important thing is to use historical material to express Man’s ideas and to create contemporary characters.’
 
-What are the ideas here? Tarkovsky tells us that he and his group studied the graphics and architecture of the period for a long time – many artists contributed to the sets, many real surviving structures were used in the exteriors. Never have I seen in a historical film before so extraordinary and ‘seamless’ a conjunction of ‘period’ and nature: buildings, people, clothing, fields and weather. So far the graphics have carried us along through cruelty and catastrophe; we have identified with Rublev. He has abandoned creation and speech. He no longer works, he no longer interferes. He wanders passive. But now, in an ‘appendix’, the situation resolves itself, the wall crumbles.  
-The prince’s guards descend on a burnt-out village, seeking a craftsman capable of building to their master’s glory a mighty bell, bigger than any before.
+What are the ideas here? Tarkovsky tells us that he and his group studied the graphics and architecture of the period for a long time – many artists contributed to the sets, many real surviving structures were used in the exteriors. Never have I seen in a historical film before so extraordinary and ‘seamless’ a conjunction of ‘period’ and nature: buildings, people, clothing, fields and weather. So far the graphics have carried us along through cruelty and catastrophe; we have identified with Rublev. He has abandoned creation and speech. He no longer works, he no longer interferes. He wanders passive. But now, in an ‘appendix’, the situation resolves itself, the wall crumbles.  The prince’s guards descend on a burnt-out village, seeking a craftsman capable of building to their master’s glory a mighty bell, bigger than any before.
 
 The village is waste, its inhabitants dead or fled. One boy remains, the son of the craftsman, who calls to the departing retainers of the prince to take him on their saddles, his father before dying imparted to him his secrets; he will build the bell. There follows the process of casting the monster bell, as the boy demands ever more and more men and metal and hurries men twice his age to do his bidding. At last all is ready, the populace is assembled, the prince and his guests ride out for the great hour. The clay cools, gingerly the craftsmen remove it. The boy – played again, brilliantly, by a now five years older Burlyayev – can stand it no longer. He runs and falls to earth, sobbing into Rublev’s arms that there was no secret, he had no idea how to make a bell, but he had watched, he could not but try. There is no crack in the bell. It is hoisted successfully. It rings.
 
-There follows, in a paean of blazing colour replacing the black and white of the film’s action, image after image drawn from Rublev’s icons. The point is clear.  
-If the boy cannot forbear, but must create, how can Rublev, for very shame, accept frustration? Is this not a topical question, unanswerably answered? No words could be more explicit. Tortured, and torturing, this is yet a masterpiece.  
+There follows, in a paean of blazing colour replacing the black and white of the film’s action, image after image drawn from Rublev’s icons. The point is clear. If the boy cannot forbear, but must create, how can Rublev, for very shame, accept frustration? Is this not a topical question, unanswerably answered? No words could be more explicit. Tortured, and torturing, this is yet a masterpiece.  
 **Ivor Montagu, _Sight and Sound_, Spring 1973**<br><br>
 
 **ANDREI RUBLEV**  
@@ -43,7 +49,7 @@ _Music:_ Vyacheslav Ovchinnikov
 _Sound:_ E. Zelentsova
 _Historical Adviser:_ V.G. Pashuto  
 
-**Cast 
+**Cast** 
 Anatoli Solonitsyn _(Andrei Rublev)_  
 Ivan Lapikov _(Kyrill)_  
 Nikolai Grinko _(Daniel the Black)_  
@@ -95,8 +101,25 @@ Mon 30 Jan 16:30 BFI IMAX<br>
 Mon 30 Jan 20:15<br>
 <br>
 
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzNTc2MDEyLC0zNjAwNzcxMDgsMTQ0Nj
-E1MTQ5OSw1MDM4OTU0MzUsMzg2Mzg2OTA4XX0=
+eyJoaXN0b3J5IjpbLTM2MDA3NzEwOCwxNDQ2MTUxNDk5LDUwMz
+g5NTQzNSwzODYzODY5MDhdfQ==
 -->
