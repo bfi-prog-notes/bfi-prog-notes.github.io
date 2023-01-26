@@ -1,7 +1,9 @@
 
 
 Among filmmakers, one of the paradigmatic cases of indomitable entrepreneurial spirit was Andrei Tarkovsky. For each of his films he had conflicts with the Soviet State Committee for Cinematography, to the point that, from 1982, his films, which triumphed in festivals around the world, were no longer screened in the Soviet Union and his name was never again mentioned in the state-controlled media. _Andrei Rublev_, especially the episode entitled ‘The Bell’, can be seen as a hymn to creative freedom; to the innovator as a window to creativity that opens in societies; and to courage and risk-taking as two of the fundamental characteristics that anyone who intends to transform the world must have.  
-**Santiago Navajas, _Sight and Sound_, Winter 2022-23**
+**
+
+Santiago Navajas, _Sight and Sound_, Winter 2022-23**
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -126,5 +128,5 @@ Mon 30 Jan 16:30 BFI IMAX
 **L’avventura (The Adventure)  
 **Mon 30 Jan 20:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODgyNjU1Ml19
+eyJoaXN0b3J5IjpbMzg2Mzg2OTA4LDE5MTg4MjY1NTJdfQ==
 -->
