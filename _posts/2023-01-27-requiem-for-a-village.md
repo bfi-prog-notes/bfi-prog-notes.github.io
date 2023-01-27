@@ -17,20 +17,15 @@ So the past starts to rise up, brushing the gravel from its eyes – the recent 
 
 In the luminous stillness of a late afternoon the old man is going home. He approaches the cemetery gate with his bicycle – an inescapable moment, his last on earth. You can sense it by its extraordinary and yet ordinary beauty. The motorbikes are speeding silently towards it. The old man steps out in front of them, is dead, and almost instantly rises again. They all get out of their graves, his wife and all the others, children and adults dressed in their Sunday best, and are clasped in the arms of their dear ones. Gladwell has the kind of simplicity from which humour is never entirely absent.
 
-Tractors are still ploughing up the earth. The motorbikes are coming home to the housing estate, but what a different world it is from the one we started at. What disturbances there are beneath. ‘Earth feet, loam feet, lifted in country mirth/Mirth of those long since under earth/Nourishing the corn.’ The similarities of theme with T.S. Eliot’s _Four Quartets_, which I have repeatedly pushed aside until now, cannot finally be ignored. ‘To be conscious,’ wrote Eliot, ‘is not to be in time.’ This was Gladwell’s intuitive starting point, and it says much for his ability to stick to the evidence of his senses that his film is illuminated rather than destroyed by the comparison.
+Tractors are still ploughing up the earth. The motorbikes are coming home to the housing estate, but what a different world it is from the one we started at. What disturbances there are beneath. ‘Earth feet, loam feet, lifted in country mirth/Mirth of those long since under earth/Nourishing the corn.’ The similarities of theme with T.S. Eliot’s _Four Quartets_, which I have repeatedly pushed aside until now, cannot finally be ignored. ‘To be conscious,’ wrote Eliot, ‘is not to be in time.’ This was Gladwell’s intuitive starting point, and it says much for his ability to stick to the evidence of his senses that his film is illuminated rather than destroyed by the comparison.  
+**Elizabeth Sussex, _Sight and Sound_, Winter 1975/76**
 
-Elizabeth Sussex, _Sight and Sound_, Winter 1975/76
+**The Signalman**  
+Maybe the best known of the _Ghost Stories for Christmas_ and the one I revisit the most due to my fascination with time-slips and premonitions. Presented as a riddle cloaked in ambiguity and the formal manners of the time, once the smoke finally clears, and like all good stories, it’s quite a simple narrative and ultimately all about [Lawrence Gordon] Clark creating an unsettling atmosphere.  
+**Mark Jenkin**
+<br><br>
 
-**The Signalman**
-
-Maybe the best known of the _Ghost Stories for Christmas_ and the one I revisit the most due to my fascination with time-slips and premonitions. Presented as a riddle cloaked in ambiguity and the formal manners of the time, once the smoke finally clears, and like all good stories, it’s quite a simple narrative and ultimately all about [Lawrence Gordon] Clark creating an unsettling atmosphere.
-
-Mark Jenkin
-
-<![endif]-->
-
-**A GHOST STORY FOR CHRISTMAS: THE SIGNALMAN**
-
+**A GHOST STORY FOR CHRISTMAS: THE SIGNALMAN**  
 _Director_: Lawrence Gordon Clark  
 _Production Company_: BBC  
 _Producer_: Rosemary Hill  
@@ -46,60 +41,54 @@ _Music_: Stephen Deutsch
 _Sound Recording_: Colin March  
 _Dubbing Mixer_: Brian Watkins
 
-_Cast:_
-
+**Cast**  
 Denholm Elliott _(the signalman)_  
 Bernard Lloyd _(the traveller)_  
 Reginald Jessup _(the engine driver)_  
 Carina Wyeth _(the bride)_
 
-BBC1 tx 22.12.1976
-
-UK 1976
-
+BBC1 tx 22.12.1976  
+UK 1976  
 38 mins
 
-**REQUIEM FOR A VILLAGE**
+**REQUIEM FOR A VILLAGE**<br>
+_Director:_ David Gladwell<br>
+_Production Company:_
+British Film Institute Production Board<br>
+_Producer:_ Michael Raeburn<br>
+_Assistant Producer:_ Bob Settle<br>
 
-_Director:_ David Gladwell
+_Assistant Director:_ Neil Thomson<br>
 
-_Production Company:  
-_British Film Institute Production Board
+_Written by:_ David Gladwell<br>
 
-_Producer:_ Michael Raeburn
+_Photography:_ Bruce Parsons<br>
 
-_Assistant Producer:_ Bob Settle
+_Additional Photography:_ Walter Lassally<br>
 
-_Assistant Director:_ Neil Thomson
+_Photography Assistant:_ Gordon Steinforth<br>
 
-_Written by:_ David Gladwell
+_Editor:_ David Gladwell<br>
 
-_Photography:_ Bruce Parsons
-
-_Additional Photography:_ Walter Lassally
-
-_Photography Assistant:_ Gordon Steinforth
-
-_Editor:_ David Gladwell
-
-_Art Director:_ Philip O’Reilly
+_Art Director:_ Philip O’Reilly<br>
 
 _Music Composed and Conducted by:  
-_David Fanshawe
+_David Fanshawe<br>
 
-_Music Recorded by:_ Gerald Beckwith
+_Music Recorded by:_ Gerald Beckwith<br>
 
-_Sound:_ Michael Pharey, Doug Turner
+_Sound:_ Michael Pharey, Doug Turner<br>
 
-_Cast:_
+_Cast:_<br>
 
-Vic Smith _(old man)_
+Vic Smith _(old man)_<br>
 
-The Witnesham villagers, the Metfield villagers
+The Witnesham villagers, the Metfield villagers<br>
 
-UK 1975©
+UK 1975©<br>
 
-68 mins
+68 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDU4NzE3Nl19
+eyJoaXN0b3J5IjpbLTc3NjkwMTYwM119
 -->
