@@ -9,39 +9,30 @@ A cabbage, a kitchen knife and a microphone: what untold depths of horror can be
 
 The film opens with Gilderoy arriving at the reception of the Berberian Sound Studio to work on the post-production of Santini’s latest picture, and once there it never leaves. It’s an intensely inward looking piece; in contrast to _Katalin Varga_ (2009), a revenge narrative shot on location with natural lighting, _Berberian Sound Studio_ is entirely enclosed, taking place within a claustrophobic handful of rooms and corridors under electric light. As a film about a film genre it hits all the notes of classic _giallo_: Santini’s project, _The Equestrian Vortex_, is an outrageously sexploitational potboiler, overflowing with blood, nubile young women, undead witches, horrific torture and an ‘aroused goblin’.
 
-_Berberian Sound Studio_ is also fascinated by the mechanics of its own form.  
-The camera roves over Gilderoy’s charts, his maps of how sounds and effects will overlay the visuals. It zooms in lovingly on the moment of projection itself: the glare of white light, the dust dancing, the click and whirr of wheels, reels and spindles. But above all, of course, this is a film that revels in sound, its production, its recording and mixing. It fetishises unashamedly the look, feel and sound of vintage analogue recording gear: valves hum, metal reels revolve, spiderwebs of tea brown tape loop round the room, recalling those lingering shots of what was then cutting edge tape technology in other films of the 1970s: Coppola’s _The Conversation_ or Alan J. Pakula’s _Klute_. At one point Gilderoy demonstrates a device called the Watkins Copicat for lead actor Silvia, dazzling her with the uncanny way in which its simple tape-looping mechanism doubles, triples and quadruples her voice, its echo and its echo’s echo to create a sonic hall of mirrors.
+_Berberian Sound Studio_ is also fascinated by the mechanics of its own form.  The camera roves over Gilderoy’s charts, his maps of how sounds and effects will overlay the visuals. It zooms in lovingly on the moment of projection itself: the glare of white light, the dust dancing, the click and whirr of wheels, reels and spindles. But above all, of course, this is a film that revels in sound, its production, its recording and mixing. It fetishises unashamedly the look, feel and sound of vintage analogue recording gear: valves hum, metal reels revolve, spiderwebs of tea brown tape loop round the room, recalling those lingering shots of what was then cutting edge tape technology in other films of the 1970s: Coppola’s _The Conversation_ or Alan J. Pakula’s _Klute_. At one point Gilderoy demonstrates a device called the Watkins Copicat for lead actor Silvia, dazzling her with the uncanny way in which its simple tape-looping mechanism doubles, triples and quadruples her voice, its echo and its echo’s echo to create a sonic hall of mirrors.
 
 Numerous scene shifts pivot on a shared sound: a shriek that spooks Gilderoy in his apartment might gutter out to become the beginning of a scene with him behind the mixing desk once more, about to press rewind on the same shriek.  
 As the film progresses and Gilderoy unravels, the weight of these sonic illusions and tweaks begins to play on the viewer’s mind. The dialogue is increasingly in Italian rather than English. Is Jones overdubbed you wonder, trying to track the movement of his lips to his lines? Is it a meta-comment on how embedded and native Gilderoy has gone, how thoroughly absorbed into _giallo_ he has become?
 
-The music matches, or rather bleeds seamlessly into and through, the playful use of sound and sound effects. There are pitch perfect pastiches of the soundtracks created for _giallo_ by Italian prog groups such as Goblin (Argento’s _Suspiria_ and _Deep Red_ most famously) – ambitious collages of synth, exotic percussion, _musique concrète_, electronics and rock that scaled the full heights of hysterical bombast. In fact the soundtrack is largely British, with original music composed by James Cargill of Broadcast, and Nurse With Wound and Roj used elsewhere.  
-In this sense it taps into an aesthetic current in British music known as hauntology: the artists involved (centred on the Ghost Box label) use loving pastiche to recreate a milieu that, since Thatcher, has seemed improbably antique in its commitment to egalitarian modernism and public service fostered in such institutions as the  
-pre-marketised BBC.
+The music matches, or rather bleeds seamlessly into and through, the playful use of sound and sound effects. There are pitch perfect pastiches of the soundtracks created for _giallo_ by Italian prog groups such as Goblin (Argento’s _Suspiria_ and _Deep Red_ most famously) – ambitious collages of synth, exotic percussion, _musique concrète_, electronics and rock that scaled the full heights of hysterical bombast. In fact the soundtrack is largely British, with original music composed by James Cargill of Broadcast, and Nurse With Wound and Roj used elsewhere.  In this sense it taps into an aesthetic current in British music known as hauntology: the artists involved (centred on the Ghost Box label) use loving pastiche to recreate a milieu that, since Thatcher, has seemed improbably antique in its commitment to egalitarian modernism and public service fostered in such institutions as the  pre-marketised BBC.
 
 Gilderoy is a quite brilliant portrait of a particular type of near extinct British boffinry beloved of hauntologists. ‘Oh, I’d rather not get technical,’ he murmurs at one point, desperate to avoid another intense, Latin conversation. The joke is that getting technical is precisely his strength – at one point he holds a room spellbound with his impression of a hovering UFO, conjured using a lightbulb and a radiator. References to his past work in children’s TV and documentaries set him up as a kind of amalgam of the garden shed inventiveness of Oliver Postgate and the Radiophonic Workshop with the public-service ethos of the Open University. Jones plays him with admirable restraint: while Cosimo Fusco as director Coraggio fills the cramped studio, ruthlessly annexing personal space, Jones’s performance is so understated that Gilderoy’s deterioration can be tracked through his slow decline from perfectly turned out to tie-less, unbuttoned slob.
 
 The viewer never sees a frame of _The Equestrian Vortex_, apart from the title sequence (brilliantly realised by designer Julian House from Ghost Box), Instead you watch others – Gilderoy, Coraggio, Silvia, Santini – watching it, their faces pallid or blood red in its reflected light. It comes to exist for the viewer as if in negative: things normally hidden or disguised in its production are unveiled and foregrounded. Instead of human viscera, we see the watermelons laid out on tables as studio assistants belabour them with machetes, creating a sound-only orgy of violence. Enacting this violence takes a particular toll on Gilderoy: having to perform endless takes in which, through the proxy of that cabbage and kitchen knife he eviscerates an undead witch or penetrates her with a red-hot poker, becomes a form of psychological torture for him.
 
-Santini’s reaction to Gilderoy’s qualms over the material is intense. ‘It’s not a horror film,’ he insists, ‘it’s a Santini film.’ If it is violent, he explains, it is only because reality is violent and he must convey the truth of reality: he has a moral duty to do so. It’s a revealing moment, when suddenly we could be listening not to Argento or Fulci confronted by Mary Whitehouse but rather to Eli Roth, and Strickland taps into a long discourse about violence that extends far beyond _giallo_, both further back in time and right up to the torture porn of the present day. Such serious debates don’t dominate _Berberian Sound Studio_ though; more often it’s quietly very funny, especially in its use of Gilderoy for bathetic payoffs – the spell of a bloodcurdling take or sequence will be broken by a mild request for some fresher marrow. It’s a joke Strickland uses brilliantly and returns to often – and perhaps found too hard to resist.
+Santini’s reaction to Gilderoy’s qualms over the material is intense. ‘It’s not a horror film,’ he insists, ‘it’s a Santini film.’ If it is violent, he explains, it is only because reality is violent and he must convey the truth of reality: he has a moral duty to do so. It’s a revealing moment, when suddenly we could be listening not to Argento or Fulci confronted by Mary Whitehouse but rather to Eli Roth, and Strickland taps into a long discourse about violence that extends far beyond _giallo_, both further back in time and right up to the torture porn of the present day. Such serious debates don’t dominate _Berberian Sound Studio_ though; more often it’s quietly very funny, especially in its use of Gilderoy for bathetic payoffs – the spell of a bloodcurdling take or sequence will be broken by a mild request for some fresher marrow. It’s a joke Strickland uses brilliantly and returns to often – and perhaps found too hard to resist.  
+**Sam Davies, _Sight and Sound_, September 2012**
 
-Sam Davies, _Sight and Sound_, September 2012
+**Wind**  
+When I first moved home from London 20 years ago, I went to a short film screening in a village hall. That night I realised I could make films in Cornwall – that there were people already doing it and, most excitingly, the work was distinct. There was a National Cinema! This film screened on that rainy winter night and represents all that was happening at that exciting and hugely influential time in Cornish film history.  
+**Mark Jenkin**
+<br><br>
 
-**Wind**
-
-When I first moved home from London 20 years ago, I went to a short film screening in a village hall. That night I realised I could make films in Cornwall – that there were people already doing it and, most excitingly, the work was distinct. There was a National Cinema! This film screened on that rainy winter night and represents all that was happening at that exciting and hugely influential time in Cornish film history.
-
-Mark Jenkin
-
-<![endif]-->
-
-**WIND**
-
+**WIND**  
 _Director_: Bill Scott  
 _Production Company_: Arts Council England  
 _Presented by_: Wild West Films Ltd.  
-_Made under the auspices of_:  
-West Cornwall Film Fund  
+_Made under the auspices of_:  West Cornwall Film Fund  
 _Producer_: Robert Smith  
 _Continuity_: Mary Anson  
 _Written by_: Bill Scott  
@@ -49,18 +40,16 @@ _Director of Photography_: Robin Kewell
 _Lighting_: Lucy Gaskell  
 _Editor_: Emily West  
 _Production Designer_: James Elliott  
-_Costumes Made by_: Jeanette Hazledine,  
-Steve Clarke, James Elliott  
+_Costumes Made by_: Jeanette Hazledine,  Steve Clarke, James Elliott  
 _Make-up_: Colin Wyatt  
 _Music Composed by_: Jim Carey  
 _Music Performed by_: Nankersey Choir,  
 Falmouth W.I. Bluebells, Jim Carey, Giles King, Chris Roberts, Stu Baker  
 _Sound_: Nick Cook  
-_Cast:_
 
+**Cast**  
 Stephen Frost _(policeman)_  
-Jane Wernham, Roger King_  
-(accompanists, Nankersey Choir)_  
+Jane Wernham, Roger King_ (accompanists, Nankersey Choir)_  
 Anna Murphy _(W.I. lady)_  
 Keri Jessiman _(Mrs Keeper)_  
 Ben Luxon _(Mr Keeper)_  
@@ -279,5 +268,5 @@ UK 2012©
 
 92 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzA0MTc0MjhdfQ==
+eyJoaXN0b3J5IjpbLTM4MDc3NDI2N119
 -->
