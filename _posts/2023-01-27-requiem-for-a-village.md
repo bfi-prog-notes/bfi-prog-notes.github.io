@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Requiem for a Village
+published: true
+date: 2023-01-27
+readtime: true
+categories: ['MARK JENKIN’S THE CINEMATIC DNA OF ENYS MEN']
+tags: [Drama]
+metadata: 'UK 1975, 68 mins<br> Director: David Gladwell'
+pdf: '2023-01-27-requiem-for-a-village.pdf'
+---
 
 It may be nearly half a century old, but this melancholic portrait of loss seems more relevant than ever. I was intrigued by this film when I heard about the dead rising from their graves sequence, but the film is so much more than this undoubtedly brilliant sequence. At times surreal and abstract, while in other moments pure documentary, this is a quietly angry piece of filmmaking.  
 **Mark Jenkin**
@@ -74,6 +84,53 @@ The Witnesham villagers, the Metfield villagers<br>
 UK 1975©<br>
 68 mins<br>
 <br>
+
+**MARK JENKIN’S THE CINEMATIC DNA OF ENYS MEN**<br>
+**Walkabout + Oss Oss Wee Oss**<br>
+Sun 1 Jan 13:10; Mon 9 Jan 20:30<br>
+**The Stone Tape + Journey to Avebury**<br>
+Mon 2 Jan 15:40<br>
+**Jeanne Dielman, 23 Quai du Commerce,  1080 Bruxelles**<br>
+Wed 4 Jan 18:30; Sat 28 Jan 16:15<br>
+**Symptoms + Stigma**<br>
+Fri 6 Jan 18:10; Sun 15 Jan 15:30<br>
+**Lost Highway + Jaunt**<br>
+Fri 6 Jan 20:15; Sun 22 Jan 18:10<br>
+**Haunters of the Deep  + The Living and the Dead Episode 2**<br>
+Sun 8 Jan 13:20; Sat 14 Jan 20:40<br>
+**Long Weekend + Between the Tides**<br>
+Tue 10 Jan 18:20; Mon 23 Jan 20:30<br>
+**Penda’s Fen + A Warning to the Curious**<br>
+Wed 11 Jan 17:50<br>
+**Two Years at Sea + A Portrait of Ga**<br>
+Sat 14 Jan 18:00 (+ intro and Q&A with Mark Jenkin and Ben Rivers); Tue 24 Jan 20:45<br>
+**Daguerréotypes + World of Glory**<br>
+Sun 15 Jan 12:00 (+ intro by Mark Jenkin);  Thu 26 Jan 20:50<br>
+**Bait**<br>
+Sun 15 Jan 18:00; Mon 30 Jan 20:50<br>
+**Requiem for a Village + The Signalman**<br>
+Fri 27 Jan 18:20; Tue 31 Jan 20:40<br>
+**Berberian Sound Studio + Wind**<br>
+Sun 29 Jan 15:30 (+ intro by Mark Jenkin and Peter Strickland); Tue 31 Jan 18:10<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIzNDQ2Njg5NV19
 -->
