@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Berberian Sound Studio
+published: true
+date: 2023-01-29
+readtime: true
+categories: ['MARK JENKIN’S THE CINEMATIC DNA OF ENYS MEN']
+tags: [Horror, Thriller]
+metadata: 'UK 2012, 92 mins<br> Director: Peter Strickland'
+pdf: '2023-01-29-berberian-sound-studio.pdf'
+---
 
 _The screening on Sunday 29 January will be introduced by Mark Jenkin  and Peter Strickland._
 
@@ -11,8 +21,7 @@ The film opens with Gilderoy arriving at the reception of the Berberian Sound St
 
 _Berberian Sound Studio_ is also fascinated by the mechanics of its own form.  The camera roves over Gilderoy’s charts, his maps of how sounds and effects will overlay the visuals. It zooms in lovingly on the moment of projection itself: the glare of white light, the dust dancing, the click and whirr of wheels, reels and spindles. But above all, of course, this is a film that revels in sound, its production, its recording and mixing. It fetishises unashamedly the look, feel and sound of vintage analogue recording gear: valves hum, metal reels revolve, spiderwebs of tea brown tape loop round the room, recalling those lingering shots of what was then cutting edge tape technology in other films of the 1970s: Coppola’s _The Conversation_ or Alan J. Pakula’s _Klute_. At one point Gilderoy demonstrates a device called the Watkins Copicat for lead actor Silvia, dazzling her with the uncanny way in which its simple tape-looping mechanism doubles, triples and quadruples her voice, its echo and its echo’s echo to create a sonic hall of mirrors.
 
-Numerous scene shifts pivot on a shared sound: a shriek that spooks Gilderoy in his apartment might gutter out to become the beginning of a scene with him behind the mixing desk once more, about to press rewind on the same shriek.  
-As the film progresses and Gilderoy unravels, the weight of these sonic illusions and tweaks begins to play on the viewer’s mind. The dialogue is increasingly in Italian rather than English. Is Jones overdubbed you wonder, trying to track the movement of his lips to his lines? Is it a meta-comment on how embedded and native Gilderoy has gone, how thoroughly absorbed into _giallo_ he has become?
+Numerous scene shifts pivot on a shared sound: a shriek that spooks Gilderoy in his apartment might gutter out to become the beginning of a scene with him behind the mixing desk once more, about to press rewind on the same shriek.  As the film progresses and Gilderoy unravels, the weight of these sonic illusions and tweaks begins to play on the viewer’s mind. The dialogue is increasingly in Italian rather than English. Is Jones overdubbed you wonder, trying to track the movement of his lips to his lines? Is it a meta-comment on how embedded and native Gilderoy has gone, how thoroughly absorbed into _giallo_ he has become?
 
 The music matches, or rather bleeds seamlessly into and through, the playful use of sound and sound effects. There are pitch perfect pastiches of the soundtracks created for _giallo_ by Italian prog groups such as Goblin (Argento’s _Suspiria_ and _Deep Red_ most famously) – ambitious collages of synth, exotic percussion, _musique concrète_, electronics and rock that scaled the full heights of hysterical bombast. In fact the soundtrack is largely British, with original music composed by James Cargill of Broadcast, and Nurse With Wound and Roj used elsewhere.  In this sense it taps into an aesthetic current in British music known as hauntology: the artists involved (centred on the Ghost Box label) use loving pastiche to recreate a milieu that, since Thatcher, has seemed improbably antique in its commitment to egalitarian modernism and public service fostered in such institutions as the  pre-marketised BBC.
 
@@ -162,6 +171,53 @@ Massimo Maronini _(Gilderoy’s Italian voice)_<br>
 UK 2012©<br>
 92 mins<br>
 <br>
+
+**MARK JENKIN’S THE CINEMATIC DNA OF ENYS MEN**<br>
+**Walkabout + Oss Oss Wee Oss**<br>
+Sun 1 Jan 13:10; Mon 9 Jan 20:30<br>
+**The Stone Tape + Journey to Avebury**<br>
+Mon 2 Jan 15:40<br>
+**Jeanne Dielman, 23 Quai du Commerce,  1080 Bruxelles**<br>
+Wed 4 Jan 18:30; Sat 28 Jan 16:15<br>
+**Symptoms + Stigma**<br>
+Fri 6 Jan 18:10; Sun 15 Jan 15:30<br>
+**Lost Highway + Jaunt**<br>
+Fri 6 Jan 20:15; Sun 22 Jan 18:10<br>
+**Haunters of the Deep  + The Living and the Dead Episode 2**<br>
+Sun 8 Jan 13:20; Sat 14 Jan 20:40<br>
+**Long Weekend + Between the Tides**<br>
+Tue 10 Jan 18:20; Mon 23 Jan 20:30<br>
+**Penda’s Fen + A Warning to the Curious**<br>
+Wed 11 Jan 17:50<br>
+**Two Years at Sea + A Portrait of Ga**<br>
+Sat 14 Jan 18:00 (+ intro and Q&A with Mark Jenkin and Ben Rivers); Tue 24 Jan 20:45<br>
+**Daguerréotypes + World of Glory**<br>
+Sun 15 Jan 12:00 (+ intro by Mark Jenkin);  Thu 26 Jan 20:50<br>
+**Bait**<br>
+Sun 15 Jan 18:00; Mon 30 Jan 20:50<br>
+**Requiem for a Village + The Signalman**<br>
+Fri 27 Jan 18:20; Tue 31 Jan 20:40<br>
+**Berberian Sound Studio + Wind**<br>
+Sun 29 Jan 15:30 (+ intro by Mark Jenkin and Peter Strickland); Tue 31 Jan 18:10<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTY0NDcxMDU1XX0=
 -->
