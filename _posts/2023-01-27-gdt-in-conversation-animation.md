@@ -46,45 +46,26 @@ Thu 2 Feb 18:15<br>
 with film historian Marcus Powell**<br>
 Mon 6 Feb 14:00<br>
 **Shadow + intro and discussion**<br>
-
 Wed 8 Feb 18:20<br>
-
 **Art in the Making: Edward Hopper + intro by Steven Foxon, Curator BFI National Archive + Night Work**<br>
-
 Thu 9 Feb 18:30<br>
-
 **African Odysseys: Free Renty: Lanier v. Harvard + intro and Q&A**<br>
-
 Sat 11 Feb 14:00<br>
-
 **Silent Cinema:  Neil Brand Presents Laurel and Hardy**<br>
-
 Sun 12 Feb 16:00<br>
-
 **Woman with a Movie Camera: Galentine’s Day: The Parent Trap 25th Anniversary**<br>
-
 Mon 13 Feb 20:15<br>
-
 **Projecting the Archive: I’ll Get You for This (aka Lucky Nick Cain) + intro by Rosie Taylor, Curatorial Archivist, BFI National Archive**<br>
-
 Tue 21 Feb 18:20<br>
-
 **Experimenta: Right of Way + Q&A with artists Dan Guthrie, Ufuoma Essi and Arjuna Neuman, hosted by Jonathan Ali**<br>
-
 Thu 23 Feb 18:10<br>
-
 **Film Wallahs: Kekee Manzil: House of Art**<br>
-
 Fri 24 Feb 20:40<br>
-
 **Course: Filmmaking for Artists:  Beginners Filmmaking Workshop**<br>
-
 Sun 26 Feb 10:30-16:30<br>
-
 **Relaxed Screening: Throne of Blood (Kumonosu-jô) + intro and discussion**<br>
-
 Mon 27 Feb 18:15<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTIxNTIxN119
+eyJoaXN0b3J5IjpbLTI2OTkxMTIxN119
 -->
