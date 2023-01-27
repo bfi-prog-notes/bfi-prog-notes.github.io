@@ -67,67 +67,33 @@ UK 1999
 12 mins
 
 **BERBERIAN SOUND STUDIO**<br>
-
 _Directed by_: Peter Strickland<br>
-
-©: Channel Four Television,  
-The British Film Institute,  
-Illuminations Films Limited, Warp X Limited<br>
-
+©: Channel Four Television,  The British Film Institute,  Illuminations Films Limited, Warp X Limited<br>
 _An_ Illuminations Films _and_ Warp X _production_  <br>
 _for_ Film4<br>
-
 _Presented by_: Film4, UK Film Council<br>
-
-_In association with_: Screen Yorkshire,  
-Geißendörfer Film‐und Fernsehproduktion KG<br>
-
-_Made with the support of_:  
-UK Film Council’s Film Fund<br>
-
+_In association with_: Screen Yorkshire, Geißendörfer Film‐und Fernsehproduktion KG<br>
+_Made with the support of_:  UK Film Council’s Film Fund<br>
 _Executive Producers_: Robin Gutch, Hugo Heppell, Katherine Butler, Michael Weber<br>
-
 _Produced by_: Keith Griffiths, Mary Burke<br>
-
 _Co-producer_: Hans W. Geissendörfer<br>
-
 _Line Producer_: Nicky Earnshaw<br>
-
 _Location Manager_: Emma Woodcock<br>
-
 _Post-production Supervisor_: Gisela Evert<br>
-
-_Post-production Co-ordinator_:  
-Katie Bullock-Webster<br>
-
+_Post-production Co-ordinator_:  Katie Bullock-Webster<br>
 _1st Assistant Director_: Alex Rendell<br>
-
 _2nd Assistant Director_: Anna Brabbins<br>
-
 _3rd Assistant Director_: Amanda Dudley<br>
-
 _Script Supervisor_: Marinella Setti<br>
-
-_UK Casting Directors_: Shaheen Baig,  
-Beatrice Krüger<br>
-
+_UK Casting Directors_: Shaheen Baig,  Beatrice Krüger<br>
 _Written by_: Peter Strickland<br>
-
 _Cinematographer_: Nic Knowland<br>
-
 _Focus Pullers_: Thomas McFarling, Anthony Hugill<br>
-
 _Gaffer_: Andy Lowe<br>
-
-_Grips_: Chris Rusby, James Ray Leary,  
-Simon Thorpe<br>
-
+_Grips_: Chris Rusby, James Ray Leary,  Simon Thorpe<br>
 _Unit Stills_: Jack English<br>
-
 _Visual Effects by_: Rushes Film&TV<br>
-
 _VFX Producer_: Paul Jones, Simone Coco<br>
-
 _Projector Special Effects_: Andy Lowe<br>
 
 _Graphic Designer and Equestrian Vortex Title Sequence_: Julian House, Luisa Aribe,  
@@ -208,64 +174,65 @@ _Stunt Co-ordinator_: Rob Woodruff<br>
 
 _Sound Consultants_: Larry Sider, Graham Hartstone, Colin Fletcher, Emanuele Carcone at Alga Marghen<br>
 
-_Animal Handler_: 1st Choice Animals
+_Animal Handler_: 1st Choice Animals<br>
 
-_Unit Publicists_: Keeley Naylor, Zoe Flower
+_Unit Publicists_: Keeley Naylor, Zoe Flower<br>
 
-_Cast:_
+_Cast:_<br>
 
-Toby Jones _(Gilderoy)_
+Toby Jones _(Gilderoy)_<br>
 
-Cosimo Fusco _(Francesco Coraggio)_
+Cosimo Fusco _(Francesco Coraggio)_<br>
 
-Antonio Mancino _(Giancarlo Santini)_
+Antonio Mancino _(Giancarlo Santini)_<br>
 
-Fatma Mohamed _(Silvia as Teresa)_
+Fatma Mohamed _(Silvia as Teresa)_<br>
 
-Salvatore Li Causi _(Fabio)_
+Salvatore Li Causi _(Fabio)_<br>
 
-Chiara D’Anna _(Elisa as Teresa)_
+Chiara D’Anna _(Elisa as Teresa)_<br>
 
-Tonia Sotiropoulou _(Elena)_
+Tonia Sotiropoulou _(Elena)_<br>
 
-Eugenia Caruso _(Claudia as Monica)_
+Eugenia Caruso _(Claudia as Monica)_<br>
 
-Susanna Cappellaro _(Veronica as accused witch)_
+Susanna Cappellaro _(Veronica as accused witch)_<br>
 
-Guido Adorni _(Lorenzo)_
+Guido Adorni _(Lorenzo)_<br>
 
-Lara Parmiani _(Chiara as Signora Collatina)_
+Lara Parmiani _(Chiara as Signora Collatina)_<br>
 
-Jozef Cseres _(Massimo)_
+Jozef Cseres _(Massimo)_<br>
 
-Pál Tóth _(Massimo)_
+Pál Tóth _(Massimo)_<br>
 
-Katalin Ladik _(resurrected witch)_
+Katalin Ladik _(resurrected witch)_<br>
 
-Jean-Michel Van Schouwburg _(the goblin)_
+Jean-Michel Van Schouwburg _(the goblin)_<br>
 
-Justin Turner _(Gong)_
+Justin Turner _(Gong)_<br>
 
-Miklós Kemecsi _(Gong and Philicorda)_
+Miklós Kemecsi _(Gong and Philicorda)_<br>
 
 Elisa Librelotto_,_ Layla Amir_,_ Hilda Péter_,_  
-Zsuzsanna Büksi _(auditionees)_
+Zsuzsanna Büksi _(auditionees)_<br>
 
-Adam Bohman _(Box Hill rambler)_
+Adam Bohman _(Box Hill rambler)_<br>
 
-Jonathan Bohman _(Box Hill idler)_
+Jonathan Bohman _(Box Hill idler)_<br>
 
-Ted Tomlin _(Box Hill narrator)_
+Ted Tomlin _(Box Hill narrator)_<br>
 
-Alfonso _(Tag)_
+Alfonso _(Tag)_<br>
 
-Salvatore Greco _(Luigi’s assistant)_
+Salvatore Greco _(Luigi’s assistant)_<br>
 
-Massimo Maronini _(Gilderoy’s Italian voice)_
+Massimo Maronini _(Gilderoy’s Italian voice)_<br>
 
-UK 2012©
+UK 2012©<br>
 
-92 mins
+92 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5MTIxMzY3XX0=
+eyJoaXN0b3J5IjpbNzAzOTExMDc1XX0=
 -->
