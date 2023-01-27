@@ -95,123 +95,61 @@ _Unit Stills_: Jack English<br>
 _Visual Effects by_: Rushes Film&TV<br>
 _VFX Producer_: Paul Jones, Simone Coco<br>
 _Projector Special Effects_: Andy Lowe<br>
-
-_Graphic Designer and Equestrian Vortex Title Sequence_: Julian House, Luisa Aribe,  
-Krisztián Kristóf<br>
-
+_Graphic Designer and Equestrian Vortex Title Sequence_: Julian House, Luisa Aribe,  Krisztián Kristóf<br>
 _Editor_: Chris Dickens<br>
-
 _Digital Online Editor_: Emily Greenwood<br>
-
 _Assistant Editors_: Mátyás Fekete, Andy Hague<br>
-
 _Production Designer_: Jennifer Kernke<br>
-
 _Art Director_: Sarah Finlay<br>
-
 _Production Buyer_: Daisy Popham<br>
-
 _Prop Master_: Steve Parnell<br>
-
 _Costume Designer_: Julian Day<br>
-
-_Costume Assistants_: Anna Reynolds,  
-Jules Goldsmith<br>
-
+_Costume Assistants_: Anna Reynolds,  Jules Goldsmith<br>
 _Wardrobe Supervisor_: Shaida Day<br>
-
 _Hair & Make-Up Designer_: Karen Hartley Thomas<br>
-
-_Hair & Make-up Artists_: Karen Teitge,  
-Victoria Wallen<br>
-
+_Hair & Make-up Artists_: Karen Teitge,  Victoria Wallen<br>
 _Optical Effects Photography_: Tim Sidell-Rodríguez<br>
-
 _Original Music by_: Broadcast, James Cargill<br>
-
 _Written and Performed by_: Trish Keenan<br>
-
 _Music Supervisor_: Phil Canning<br>
-
 _Sound Recordist_: Steve Haywood<br>
-
 _Boom Operator_: Jay Radosavljevic<br>
-
 _Re-recording Mixers_: Markus Moll, Doug Cooper<br>
-
 _Sound Post Facility_: De Lane Lea<br>
-
 _Supervising Sound Editor_: Joakim Sundström<br>
-
 _Dialogue Editor_: Linda Forsén<br>
-
-_Sound Effects Recordists_: Clive Graham,  
-Colin Potter, Gábor Erdélyi Jr<br>
-
+_Sound Effects Recordists_: Clive Graham,  Colin Potter, Gábor Erdélyi Jr<br>
 _Screamer_: Sarah Redpath<br>
-
 _Sound Effects Editor_: Christer Melén<br>
-
 _ADR Mixer_: Andy Stallabrass<br>
-
 _Special Guest Screamer_: Suzy Kendall<br>
-
 _ADR Studios_: De Lane Lea, Claire Crosby,
-
 Zound London, Tracy Bolgar, Mayflower Studios<br>
-
-_Screamers_: Patsy Preston, Kata Bartsch,  
-Stephanie Kirby, Rachel McGrother,  
-Diana Rogerson, Eugenia Caruso<br>
-
-_Italian ADR Coaches_: Massimo Maronini,
-
-Jessica Giuffre, Eugenia Caruso<br>
-
+_Screamers_: Patsy Preston, Kata Bartsch, Stephanie Kirby, Rachel McGrother,  Diana Rogerson, Eugenia Caruso<br>
+_Italian ADR Coaches_: Massimo Maronini, Jessica Giuffre, Eugenia Caruso<br>
 _Foley Supervisor_: Heikki Kossi<br>
-
 _Stunt Co-ordinator_: Rob Woodruff<br>
-
 _Sound Consultants_: Larry Sider, Graham Hartstone, Colin Fletcher, Emanuele Carcone at Alga Marghen<br>
-
 _Animal Handler_: 1st Choice Animals<br>
-
 _Unit Publicists_: Keeley Naylor, Zoe Flower<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Toby Jones _(Gilderoy)_<br>
-
 Cosimo Fusco _(Francesco Coraggio)_<br>
-
 Antonio Mancino _(Giancarlo Santini)_<br>
-
 Fatma Mohamed _(Silvia as Teresa)_<br>
-
 Salvatore Li Causi _(Fabio)_<br>
-
 Chiara D’Anna _(Elisa as Teresa)_<br>
-
 Tonia Sotiropoulou _(Elena)_<br>
-
 Eugenia Caruso _(Claudia as Monica)_<br>
-
 Susanna Cappellaro _(Veronica as accused witch)_<br>
-
 Guido Adorni _(Lorenzo)_<br>
-
 Lara Parmiani _(Chiara as Signora Collatina)_<br>
-
 Jozef Cseres _(Massimo)_<br>
-
 Pál Tóth _(Massimo)_<br>
-
 Katalin Ladik _(resurrected witch)_<br>
-
 Jean-Michel Van Schouwburg _(the goblin)_<br>
-
 Justin Turner _(Gong)_<br>
-
 Miklós Kemecsi _(Gong and Philicorda)_<br>
 
 Elisa Librelotto_,_ Layla Amir_,_ Hilda Péter_,_  
@@ -234,5 +172,5 @@ UK 2012©<br>
 92 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzOTExMDc1XX0=
+eyJoaXN0b3J5IjpbLTU4NjM3Mzg3N119
 -->
