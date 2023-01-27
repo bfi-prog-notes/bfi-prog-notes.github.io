@@ -18,96 +18,73 @@ Not that the world of art and entertainment is an escape from cruel vanities. Pi
 <br><br>
 
 **IN PERSON & PREVIEWS**<br>
-
-**Film Sounds: A Conversation between  
-Mark Jenkin and Peter Strickland**<br>
-
+**Film Sounds: A Conversation between  Mark Jenkin and Peter Strickland**<br>
 Sun 29 Jan 13:00<br>
-
 **Chinese New Year: Year of the Rabbit: What About China? + intro by Hyun Jin Cho, BFI London Film Festival Programmer**<br>
-
 Sun 5 Feb 14:30<br>
-
 **BFI Expanded: Shifting Perspectives: A focus on Female and Non-Binary creators in XR**<br>
-
 6-12 Feb<br>
-
 **Mark Kermode Live in 3D at the BFI**<br>
-
 Mon 6 Feb 18:30<br>
-
 **UK Premiere: Blind Willow, Sleeping Woman  + intro with director Pierre Földes**<br>
-
 Mon 6 Feb 20:45<br>
-
 **Preview: Joyland +Q&A**<br> 
 Wed 8 Feb 18:00<br>
-
 **BFI Future Film Festival**<br>
 16-19 Feb<br>
-
 **Preview: Subject + Q&A with director Camilla Hall and contributor Margaret Ratliff**<br>
-
 Fri 17 Feb 18:10<br>
-
 **Preview: The Strays + Q&A**<br>
 Mon 20 Feb 18:15<br>
 
 **REGULAR PROGRAMME**<br>
-
-**Relaxed Screening:  
-The Hidden Fortress + intro & discussion**
-
-Mon 30 Jan 18:00
-
-**Member Picks: Sunshine** Thu 2 Feb 18:15
-
+**Relaxed Screening:  The Hidden Fortress + intro & discussion**<br>
+Mon 30 Jan 18:00<br>
+**Member Picks: Sunshine**<br>
+Thu 2 Feb 18:15<br>
 **Seniors: The Long Memory + intro and Q&A  
-with film historian Marcus Powell**
+with film historian Marcus Powell**<br>
+Mon 6 Feb 14:00<br>
+**Shadow + intro and discussion**<br>
 
-Mon 6 Feb 14:00
+Wed 8 Feb 18:20<br>
 
-**Shadow + intro and discussion**
+**Art in the Making: Edward Hopper + intro by Steven Foxon, Curator BFI National Archive + Night Work**<br>
 
-Wed 8 Feb 18:20
+Thu 9 Feb 18:30<br>
 
-**Art in the Making: Edward Hopper + intro by Steven Foxon, Curator BFI National Archive + Night Work**
+**African Odysseys: Free Renty: Lanier v. Harvard + intro and Q&A**<br>
 
-Thu 9 Feb 18:30
+Sat 11 Feb 14:00<br>
 
-**African Odysseys: Free Renty: Lanier v. Harvard + intro and Q&A**
+**Silent Cinema:  Neil Brand Presents Laurel and Hardy**<br>
 
-Sat 11 Feb 14:00
+Sun 12 Feb 16:00<br>
 
-**Silent Cinema:  
-Neil Brand Presents Laurel and Hardy**
+**Woman with a Movie Camera: Galentine’s Day: The Parent Trap 25th Anniversary**<br>
 
-Sun 12 Feb 16:00
+Mon 13 Feb 20:15<br>
 
-**Woman with a Movie Camera: Galentine’s Day: The Parent Trap 25th Anniversary**
+**Projecting the Archive: I’ll Get You for This (aka Lucky Nick Cain) + intro by Rosie Taylor, Curatorial Archivist, BFI National Archive**<br>
 
-Mon 13 Feb 20:15
+Tue 21 Feb 18:20<br>
 
-**Projecting the Archive: I’ll Get You for This (aka Lucky Nick Cain) + intro by Rosie Taylor, Curatorial Archivist, BFI National Archive**
+**Experimenta: Right of Way + Q&A with artists Dan Guthrie, Ufuoma Essi and Arjuna Neuman, hosted by Jonathan Ali**<br>
 
-Tue 21 Feb 18:20
+Thu 23 Feb 18:10<br>
 
-**Experimenta: Right of Way + Q&A with artists Dan Guthrie, Ufuoma Essi and Arjuna Neuman, hosted by Jonathan Ali**
+**Film Wallahs: Kekee Manzil: House of Art**<br>
 
-Thu 23 Feb 18:10
+Fri 24 Feb 20:40<br>
 
-**Film Wallahs: Kekee Manzil: House of Art**
+**Course: Filmmaking for Artists:  Beginners Filmmaking Workshop**<br>
 
-Fri 24 Feb 20:40
+Sun 26 Feb 10:30-16:30<br>
 
-**Course: Filmmaking for Artists:  
-Beginners Filmmaking Workshop**
+**Relaxed Screening: Throne of Blood (Kumonosu-jô) + intro and discussion**<br>
 
-Sun 26 Feb 10:30-16:30
-
-**Relaxed Screening: Throne of Blood (Kumonosu-jô) + intro and discussion**
-
-Mon 27 Feb 18:15
+Mon 27 Feb 18:15<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODkxNDk5M119
+eyJoaXN0b3J5IjpbMTcwOTIxNTIxN119
 -->
