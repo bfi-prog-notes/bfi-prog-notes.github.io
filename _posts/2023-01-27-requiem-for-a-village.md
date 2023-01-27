@@ -53,42 +53,27 @@ UK 1976
 
 **REQUIEM FOR A VILLAGE**<br>
 _Director:_ David Gladwell<br>
-_Production Company:_
-British Film Institute Production Board<br>
+_Production Company:_ British Film Institute Production Board<br>
 _Producer:_ Michael Raeburn<br>
 _Assistant Producer:_ Bob Settle<br>
-
 _Assistant Director:_ Neil Thomson<br>
-
 _Written by:_ David Gladwell<br>
-
 _Photography:_ Bruce Parsons<br>
-
 _Additional Photography:_ Walter Lassally<br>
-
 _Photography Assistant:_ Gordon Steinforth<br>
-
 _Editor:_ David Gladwell<br>
-
 _Art Director:_ Philip O’Reilly<br>
-
-_Music Composed and Conducted by:  
-_David Fanshawe<br>
-
+_Music Composed and Conducted by:_ David Fanshawe<br>
 _Music Recorded by:_ Gerald Beckwith<br>
-
 _Sound:_ Michael Pharey, Doug Turner<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Vic Smith _(old man)_<br>
-
 The Witnesham villagers, the Metfield villagers<br>
 
 UK 1975©<br>
-
 68 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjkwMTYwM119
+eyJoaXN0b3J5IjpbLTIzNDQ2Njg5NV19
 -->
