@@ -49,7 +49,7 @@ _Sound_: Nick Cook
 
 **Cast**  
 Stephen Frost _(policeman)_  
-Jane Wernham, Roger King_ (accompanists, Nankersey Choir)_  
+Jane Wernham, Roger King _(accompanists, Nankersey Choir)_  
 Anna Murphy _(W.I. lady)_  
 Keri Jessiman _(Mrs Keeper)_  
 Ben Luxon _(Mr Keeper)_  
@@ -63,151 +63,150 @@ Kyla Goodey _(vacant girl)_
 Lucy McMahon _(small girl)_  
 Keith Spurgin _(shipping forecast)_
 
-UK 1999
-
+UK 1999  
 12 mins
 
-**BERBERIAN SOUND STUDIO**
+**BERBERIAN SOUND STUDIO**<br>
 
-_Directed by_: Peter Strickland
+_Directed by_: Peter Strickland<br>
 
 ©: Channel Four Television,  
 The British Film Institute,  
-Illuminations Films Limited, Warp X Limited
+Illuminations Films Limited, Warp X Limited<br>
 
-_An_ Illuminations Films _and_ Warp X _production_  
-_for_ Film4
+_An_ Illuminations Films _and_ Warp X _production_  <br>
+_for_ Film4<br>
 
-_Presented by_: Film4, UK Film Council
+_Presented by_: Film4, UK Film Council<br>
 
 _In association with_: Screen Yorkshire,  
-Geißendörfer Film‐und Fernsehproduktion KG
+Geißendörfer Film‐und Fernsehproduktion KG<br>
 
 _Made with the support of_:  
-UK Film Council’s Film Fund
+UK Film Council’s Film Fund<br>
 
-_Executive Producers_: Robin Gutch, Hugo Heppell, Katherine Butler, Michael Weber
+_Executive Producers_: Robin Gutch, Hugo Heppell, Katherine Butler, Michael Weber<br>
 
-_Produced by_: Keith Griffiths, Mary Burke
+_Produced by_: Keith Griffiths, Mary Burke<br>
 
-_Co-producer_: Hans W. Geissendörfer
+_Co-producer_: Hans W. Geissendörfer<br>
 
-_Line Producer_: Nicky Earnshaw
+_Line Producer_: Nicky Earnshaw<br>
 
-_Location Manager_: Emma Woodcock
+_Location Manager_: Emma Woodcock<br>
 
-_Post-production Supervisor_: Gisela Evert
+_Post-production Supervisor_: Gisela Evert<br>
 
 _Post-production Co-ordinator_:  
-Katie Bullock-Webster
+Katie Bullock-Webster<br>
 
-_1st Assistant Director_: Alex Rendell
+_1st Assistant Director_: Alex Rendell<br>
 
-_2nd Assistant Director_: Anna Brabbins
+_2nd Assistant Director_: Anna Brabbins<br>
 
-_3rd Assistant Director_: Amanda Dudley
+_3rd Assistant Director_: Amanda Dudley<br>
 
-_Script Supervisor_: Marinella Setti
+_Script Supervisor_: Marinella Setti<br>
 
 _UK Casting Directors_: Shaheen Baig,  
-Beatrice Krüger
+Beatrice Krüger<br>
 
-_Written by_: Peter Strickland
+_Written by_: Peter Strickland<br>
 
-_Cinematographer_: Nic Knowland
+_Cinematographer_: Nic Knowland<br>
 
-_Focus Pullers_: Thomas McFarling, Anthony Hugill
+_Focus Pullers_: Thomas McFarling, Anthony Hugill<br>
 
-_Gaffer_: Andy Lowe
+_Gaffer_: Andy Lowe<br>
 
 _Grips_: Chris Rusby, James Ray Leary,  
-Simon Thorpe
+Simon Thorpe<br>
 
-_Unit Stills_: Jack English
+_Unit Stills_: Jack English<br>
 
-_Visual Effects by_: Rushes Film&TV
+_Visual Effects by_: Rushes Film&TV<br>
 
-_VFX Producer_: Paul Jones, Simone Coco
+_VFX Producer_: Paul Jones, Simone Coco<br>
 
-_Projector Special Effects_: Andy Lowe
+_Projector Special Effects_: Andy Lowe<br>
 
 _Graphic Designer and Equestrian Vortex Title Sequence_: Julian House, Luisa Aribe,  
-Krisztián Kristóf
+Krisztián Kristóf<br>
 
-_Editor_: Chris Dickens
+_Editor_: Chris Dickens<br>
 
-_Digital Online Editor_: Emily Greenwood
+_Digital Online Editor_: Emily Greenwood<br>
 
-_Assistant Editors_: Mátyás Fekete, Andy Hague
+_Assistant Editors_: Mátyás Fekete, Andy Hague<br>
 
-_Production Designer_: Jennifer Kernke
+_Production Designer_: Jennifer Kernke<br>
 
-_Art Director_: Sarah Finlay
+_Art Director_: Sarah Finlay<br>
 
-_Production Buyer_: Daisy Popham
+_Production Buyer_: Daisy Popham<br>
 
-_Prop Master_: Steve Parnell
+_Prop Master_: Steve Parnell<br>
 
-_Costume Designer_: Julian Day
+_Costume Designer_: Julian Day<br>
 
 _Costume Assistants_: Anna Reynolds,  
-Jules Goldsmith
+Jules Goldsmith<br>
 
-_Wardrobe Supervisor_: Shaida Day
+_Wardrobe Supervisor_: Shaida Day<br>
 
-_Hair & Make-Up Designer_: Karen Hartley Thomas
+_Hair & Make-Up Designer_: Karen Hartley Thomas<br>
 
 _Hair & Make-up Artists_: Karen Teitge,  
-Victoria Wallen
+Victoria Wallen<br>
 
-_Optical Effects Photography_: Tim Sidell-Rodríguez
+_Optical Effects Photography_: Tim Sidell-Rodríguez<br>
 
-_Original Music by_: Broadcast, James Cargill
+_Original Music by_: Broadcast, James Cargill<br>
 
-_Written and Performed by_: Trish Keenan
+_Written and Performed by_: Trish Keenan<br>
 
-_Music Supervisor_: Phil Canning
+_Music Supervisor_: Phil Canning<br>
 
-_Sound Recordist_: Steve Haywood
+_Sound Recordist_: Steve Haywood<br>
 
-_Boom Operator_: Jay Radosavljevic
+_Boom Operator_: Jay Radosavljevic<br>
 
-_Re-recording Mixers_: Markus Moll, Doug Cooper
+_Re-recording Mixers_: Markus Moll, Doug Cooper<br>
 
-_Sound Post Facility_: De Lane Lea
+_Sound Post Facility_: De Lane Lea<br>
 
-_Supervising Sound Editor_: Joakim Sundström
+_Supervising Sound Editor_: Joakim Sundström<br>
 
-_Dialogue Editor_: Linda Forsén
+_Dialogue Editor_: Linda Forsén<br>
 
 _Sound Effects Recordists_: Clive Graham,  
-Colin Potter, Gábor Erdélyi Jr
+Colin Potter, Gábor Erdélyi Jr<br>
 
-_Screamer_: Sarah Redpath
+_Screamer_: Sarah Redpath<br>
 
-_Sound Effects Editor_: Christer Melén
+_Sound Effects Editor_: Christer Melén<br>
 
-_ADR Mixer_: Andy Stallabrass
+_ADR Mixer_: Andy Stallabrass<br>
 
-_Special Guest Screamer_: Suzy Kendall
+_Special Guest Screamer_: Suzy Kendall<br>
 
 _ADR Studios_: De Lane Lea, Claire Crosby,
 
-Zound London, Tracy Bolgar, Mayflower Studios
+Zound London, Tracy Bolgar, Mayflower Studios<br>
 
 _Screamers_: Patsy Preston, Kata Bartsch,  
 Stephanie Kirby, Rachel McGrother,  
-Diana Rogerson, Eugenia Caruso
+Diana Rogerson, Eugenia Caruso<br>
 
 _Italian ADR Coaches_: Massimo Maronini,
 
-Jessica Giuffre, Eugenia Caruso
+Jessica Giuffre, Eugenia Caruso<br>
 
-_Foley Supervisor_: Heikki Kossi
+_Foley Supervisor_: Heikki Kossi<br>
 
-_Stunt Co-ordinator_: Rob Woodruff
+_Stunt Co-ordinator_: Rob Woodruff<br>
 
-_Sound Consultants_: Larry Sider, Graham Hartstone, Colin Fletcher, Emanuele Carcone at Alga Marghen
+_Sound Consultants_: Larry Sider, Graham Hartstone, Colin Fletcher, Emanuele Carcone at Alga Marghen<br>
 
 _Animal Handler_: 1st Choice Animals
 
@@ -268,5 +267,5 @@ UK 2012©
 
 92 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDc3NDI2N119
+eyJoaXN0b3J5IjpbODE5MTIxMzY3XX0=
 -->
