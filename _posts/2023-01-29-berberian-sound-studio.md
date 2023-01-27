@@ -151,26 +151,17 @@ Katalin Ladik _(resurrected witch)_<br>
 Jean-Michel Van Schouwburg _(the goblin)_<br>
 Justin Turner _(Gong)_<br>
 Miklós Kemecsi _(Gong and Philicorda)_<br>
-
-Elisa Librelotto_,_ Layla Amir_,_ Hilda Péter_,_  
-Zsuzsanna Büksi _(auditionees)_<br>
-
+Elisa Librelotto, Layla Amir, Hilda Péter, Zsuzsanna Büksi _(auditionees)_<br>
 Adam Bohman _(Box Hill rambler)_<br>
-
 Jonathan Bohman _(Box Hill idler)_<br>
-
 Ted Tomlin _(Box Hill narrator)_<br>
-
 Alfonso _(Tag)_<br>
-
 Salvatore Greco _(Luigi’s assistant)_<br>
-
 Massimo Maronini _(Gilderoy’s Italian voice)_<br>
 
 UK 2012©<br>
-
 92 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjM3Mzg3N119
+eyJoaXN0b3J5IjpbOTY0NDcxMDU1XX0=
 -->
