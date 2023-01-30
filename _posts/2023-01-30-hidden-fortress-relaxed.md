@@ -51,7 +51,7 @@ After each screening join us for a relaxed discussion in the Blue Room as we exp
 <img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br><br>
 **BFI Southbank has been awarded the National Autistic Society’s Autism Friendly Award.**
 
-<img style="float: left;" src="/img/steel-charitable-trust-logo-01.jpg"><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/steel-charitable-trust-logo-01.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br>
 
 
 **The next relaxed screenings are:**<br>
