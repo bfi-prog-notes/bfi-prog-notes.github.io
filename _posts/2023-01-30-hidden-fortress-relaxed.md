@@ -17,7 +17,7 @@ _+ intro and discussion._
 See the film that George Lucas drew inspiration from for the original trilogy in the _Star Wars_ saga, in the first of two relaxed screenings in our Kurosawa season. At a time of war, two opportunistic peasants attempting to reach home find themselves caught up in a struggle to save a rebel princess. Kurosawa’s adventure features slapstick comedy, swordfights and more than a little double-crossing. 
 
 Selected and hosted by campaigner and creative Leo Capella.
-<br>
+<br><br>
 
 **THE HIDDEN FORTRESS**<br>
 _Director:_ Akira Kurosawa  
@@ -51,7 +51,7 @@ After each screening join us for a relaxed discussion in the Blue Room as we exp
 <img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br><br>
 **BFI Southbank has been awarded the National Autistic Society’s Autism Friendly Award.**
 
-<img style="float: left;" src="/img/steel-charitable-trust-logo-01.jpeg"><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/steel-charitable-trust-logo-01.jpg"><br><br><br><br><br><br><br><br>
 
 
 **The next relaxed screenings are:**<br>
@@ -60,6 +60,7 @@ After each screening join us for a relaxed discussion in the Blue Room as we exp
 
 **THRONE OF BLOOD + intro and discussion**<br>
 **Monday 27 February 2023 18:15 NFT3**<br>
+<br>
 
 
 **Find out more at**
