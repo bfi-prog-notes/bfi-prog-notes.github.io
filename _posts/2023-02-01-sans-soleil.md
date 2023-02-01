@@ -30,27 +30,15 @@ _Photography:_ Sana Na N’hada (_carnival in Bissau);_ Jean-Michel Humeau _(Ran
 _Stills Photography:_ Martin Boschet, Roger Grange<br>
 _Special Effects:_ Hayao Yamaneko<br>
 _Editor:_ Chris Marker<br>
-_Assistant Editors:_ Anne-Marie L’Hôte,  
-Catherine Adda<br>
-
+_Assistant Editors:_ Anne-Marie L’Hôte,  Catherine Adda<br>
 _Sound Recording:_ Antoine Bonfanti, Paul Bertault<br>
-
 _Electronic Sound:_ Michel Krasna<br>
-
-_Friends/Advisers:_ Kazuko Kawakita-Shibata,
-
-Hayao Shibata, Ichiro Hagiwara, Kazue Kobata, Keiko Murata, Yuko Fukusaki _(Tokyo);  
-_Tom Luddy, Anthony Reveaux,  
-Manuela Adelman _(San Francisco);_  
-Pierre Lhomme, Jimmy Glasberg,  
-Ghislain Cloquet _(Paris)_<br>
-
+_Friends/Advisers:_ Kazuko Kawakita-Shibata, Hayao Shibata, Ichiro Hagiwara, Kazue Kobata, Keiko Murata, Yuko Fukusaki _(Tokyo);_  Tom Luddy, Anthony Reveaux,  Manuela Adelman _(San Francisco);_  Pierre Lhomme, Jimmy Glasberg, Ghislain Cloquet _(Paris)_<br>
 _Sandor Krasna’s Letters Read by:_ Florence Delay<br>
 
 France 1982©<br>
-
 103 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQxODg4OTBdfQ==
+eyJoaXN0b3J5IjpbLTE4OTc5OTg5NjZdfQ==
 -->
