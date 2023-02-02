@@ -5,9 +5,9 @@ published: true
 date: 2023-02-02
 readtime: true
 categories: ['KUROSAWA']
-tags: [Drama, Crime]
-metadata: 'Japan 1949, 9122 mins<br> Director: Akira Kurosawa'
-pdf: '2023-02-1-stray-dog.pdf'
+tags: [Drama, Crime, Film noir]
+metadata: 'Japan 1948, 93 mins<br> Director: Akira Kurosawa'
+pdf: '2023-02-02-drunken-angel.pdf'
 ---
 
 **Kurosawa on ‘Drunken Angel’**  
@@ -18,7 +18,7 @@ His reactions are extraordinarily swift. If I say one thing, he understands ten.
 One of the reasons for the extreme popularity of this film at the time was that there was no competition – no other films showed an equal interest in people. We had difficulty with one of the characters: that of the doctor himself. Uekusa Jin and I rewrote his part over and over again. Still, he wasn’t interesting. We had almost given up when it occurred to me that he was just too good to be true – he needed a defect, a vice. This is why we made him an alcoholic. At that time most film characters were shining white or blackest black. We made the doctor grey.  
 **_Sight and Sound_, Summer 1964**  
   
-**Japan’s decisive defeat in World War II led to a radical transformation of Japanese society – a transformation that was as strikingly apparent in the country’s cinema as it was in the broader changes to political institutions and social mores. And among the most obvious cinematic changes were ones pertaining to genre. In particular, the late 1940s saw the eclipse of the _jidai-geki_ or period film, which during the 1930s had made up half of all film production in Japan. While the period film was not banned as such, prohibitions by the Allied occupying authorities of films ‘showing revenge as a legitimate motive’, ‘portraying feudal loyalty or contempt of life as desirable and honourable’, ‘approving suicide either directly or indirectly’ or ‘distorting historical facts’ all helped make many of Japan’s traditional period narratives untenable, with the result that in 1946, period-film production was down to single figures.
+Japan’s decisive defeat in World War II led to a radical transformation of Japanese society – a transformation that was as strikingly apparent in the country’s cinema as it was in the broader changes to political institutions and social mores. And among the most obvious cinematic changes were ones pertaining to genre. In particular, the late 1940s saw the eclipse of the _jidai-geki_ or period film, which during the 1930s had made up half of all film production in Japan. While the period film was not banned as such, prohibitions by the Allied occupying authorities of films ‘showing revenge as a legitimate motive’, ‘portraying feudal loyalty or contempt of life as desirable and honourable’, ‘approving suicide either directly or indirectly’ or ‘distorting historical facts’ all helped make many of Japan’s traditional period narratives untenable, with the result that in 1946, period-film production was down to single figures.
 
 These restrictions on Japan’s traditional action genre brought other action genres to the fore in the late 1940s. As Joseph Anderson and Donald Richie wrote in their seminal 1959 study _The Japanese Film: Art and Industry_, ‘The Occupation, in its avowed intention of stamping out the period film, had acted as willing midwife to the gangster film.’ Partly as a consequence of strict censorship codes, thrillers with contemporary settings had been rare in the years of militarism; ironically, they now became increasingly numerous as a consequence of another strict censorship regime.
 
@@ -119,12 +119,6 @@ Wed 22 Feb 20:50; Sat 25 Feb 20:45
 
 <img style="float: left;" src="/img/Japan Foundation.JPG" width="40%" height="40%">
 <br><br><br><br><br><br><br><br><br><br><br>
-
-**Promotional partner**  
-
-<img style="float: left;" src="/img/wagamama.png" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br><br><br>
-
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
