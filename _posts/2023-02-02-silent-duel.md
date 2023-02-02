@@ -6,8 +6,8 @@ date: 2023-02-02
 readtime: true
 categories: ['KUROSAWA']
 tags: [Drama]
-metadata: 'Japan 1948, 93 mins<br> Director: Akira Kurosawa'
-pdf: '2023-02-02-drunken-angel.pdf'
+metadata: 'Japan 1949, 95 mins<br> Director: Akira Kurosawa'
+pdf: '2023-02-02-silent-duel.pdf'
 ---
 
 An idealistic young doctor is unwittingly infected with a patient’s syphilitic blood. Although determined to continue his vocation, his medical condition has a profound effect on his relationship with the woman he loves, while the man who infected him comes to play a significant role in his life. Kurosawa and Mifune create the first of their noble heroes in Kyoji Fujisaki, a man committed to service and whose values lay in the betterment of society over the individual.  
@@ -96,5 +96,5 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0MzU0NzI1XX0=
+eyJoaXN0b3J5IjpbMTMwMTU1ODQ4OSw0NzQzNTQ3MjVdfQ==
 -->
