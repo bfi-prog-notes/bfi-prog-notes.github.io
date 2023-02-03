@@ -88,76 +88,42 @@ _Costume Designers:_ Charles Knode,  Michael Kaplan<br>
 _Make-up Artist:_ Marvin G. Westmore<br>
 _Hairstylist:_ Shirley L. Padgett<br>
 _Titles:_ Intralink Film Graphic Design<br>
-
 _Music/Music Arranger/Performer/Producer:_ Vangelis<br>
-
 _Sound Mixer:_ Bud Alper<br>
-
-_Pinewood Chief Dubbing Mixer:_  
-Graham V. Hartstone<br>
-
-_Twickenham Chief Dubbing Mixer:_  
-Gerry Humphries<br>
-
+_Pinewood Chief Dubbing Mixer:_  Graham V. Hartstone<br>
+_Twickenham Chief Dubbing Mixer:_  Gerry Humphries<br>
 _Stunt Co-ordinator:_ Gary Combs<br>
-
 _Publicist:_ Saul Kahan<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Harrison Ford _(Rick Deckard)_<br>
-
 Rutger Hauer _(Roy Batty)_<br>
-
 Sean Young _(Rachael)_<br>
-
 Edward James Olmos _(Gaff)_<br>
-
 M. Emmet Walsh _(Captain Bryant)_<br>
-
 Daryl Hannah _(Pris)_<br>
-
 William Sanderson _(J.F. Sebastian)_<br>
-
 Brion James _(Leon)_<br>
-
 Joe Turkel _(Dr Tyrell)_<br>
-
 Joanna Cassidy _(Zhora)_<br>
-
 James Hong _(Chew)_<br>
-
 Morgan Paull _(Holden)_<br>
-
 Kevin Thompson _(Bear)_<br>
-
 John Edward Allen _(Kaiser)_<br>
-
 Hy Pyke _(Taffey Lewis)_<br>
-
 Kimiro Hiroshige _(Cambodian lady)_<br>
-
 Robert Okazaki _(sushi master)_<br>
-
 Carolyn DeMirjian _(saleslady)_<br>
-
-Charles Knapp, Leo Gorcey Jr,  
-Thomas Hutchinson _(bartenders)_<br>
-
+Charles Knapp, Leo Gorcey Jr,  Thomas Hutchinson _(bartenders)_<br>
 Kelly Hine _(show girl)_<br>
-
 Sharon Hesky, Rose Mascari _(barflies)_<br>
-
 Susan Rhee, Hiroko Kimuri _(geishas)_<br>
-
 Kai Wong, Kit Wong _(Chinese men)_<br>
-
 Hiro Okazaki, Steve Pope, Robert Reiter _(policemen)_<br>
 
 USA 1982©<br>
-
 118 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA2NTY1MjJdfQ==
+eyJoaXN0b3J5IjpbLTY1OTkwNDUwNF19
 -->
