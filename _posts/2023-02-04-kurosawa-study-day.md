@@ -6,9 +6,18 @@ date: 2023-02-04
 readtime: true
 categories: ['KUROSAWA']
 tags: [Drama]
-metadata: 'Japan 1952, 141 mins<br> Director: Akira Kurosawa'
+metadata: 'Japan 1952, 141 mins<br> Direc<![endif]-->
+
+<![if !vml]>
+
+![](file:///C:/Users/LOCB16~1/Temp/110/msohtmlclip1/01/clip_image002.jpg)
+
+![Text Box: KUROSAWA
+The Gathering Storm: Akira Kurosawa'
 pdf: '2023-02-04-living.pdf'
----
+--- Study Day
+](file:///C:/Users/LOCB16~1/Temp/110/msohtmlclip1/01/clip_image003.png)
+
 <![endif]>  
 Join us for a day of talks and discussions exploring the less familiar aspects of Kurosawa’s work while also celebrating his cinematic legacy. A selection of expert speakers will explore various topics, including the role of women in Kurosawa’s films, the periods of history his films cover, as well as the curios that defy broader definitions of Kurosawa’s oeuvre and the generations of filmmakers he has inspired.
 
@@ -42,5 +51,5 @@ _The Me You Can’t See_. Kapadia is presently in production with _2073_, a dyst
 
 **Dr Julia Stolyar** holds a PhD from SOAS, University of London. Her research looks at construction of national identity through media, specifically television, in Japan and South Korea and the way the practice of transnational drama remakes affects this representation. She explored national identity through the representation of violence, power and agency, and emotion. She has published and given talks on television in East Asia and transnational remakes and is currently exploring representation of fatherhood on Korean and Japanese television.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDg3MDE3OF19
+eyJoaXN0b3J5IjpbNTUzMDk5NzAsMTc0MDg3MDE3OF19
 -->
