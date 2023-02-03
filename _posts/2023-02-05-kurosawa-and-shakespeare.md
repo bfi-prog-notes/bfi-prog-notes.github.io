@@ -18,9 +18,10 @@ In this lavishly illustrated talk with clips and slides Adrian Wootton (CEO of F
 
 Adrian is a recognised authority in various film/TV and literature subjects (Hollywood, crime and mystery and Italian Cinema amongst others) and regularly lectures, writes broadcasts and curates programmes on them. In 2016 Adrian wrote and coproduced the BBC Arena Documentary _Shakespeare on Screen_.
 
-In 2012, Adrian received an Honorary Doctorate in the Arts and was appointed Visiting Professor of Film & Media at Norwich University of the Arts. In 2014, Adrian received an Honorary Doctorate of Letters from the University of East Anglia and in 2017 was awarded an OBE for Services to Film.
+In 2012, Adrian received an Honorary Doctorate in the Arts and was appointed Visiting Professor of Film & Media at Norwich University of the Arts. In 2014, Adrian received an Honorary Doctorate of Letters from the University of East Anglia and in 2017 was awarded an OBE for Services to Film.  
+<br>
 
-**Reading suggestions**
+**Reading suggestions**  
 
 - Akira Kurosawa, _Something Like an Autobiography_ (Vintage Books, 1983)
 
@@ -34,5 +35,6 @@ In 2012, Adrian received an Honorary Doctorate in the Arts and was appointed Vis
 
 - Russell Jackson (editor), _The Cambridge Companion to Shakespeare on Film_ (Cambridge University Press, 2000)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDU5NjY1MCwxNTAxMzM0MDY1XX0=
+eyJoaXN0b3J5IjpbLTEwNjUyNzgxMjYsLTYyNDU5NjY1MCwxNT
+AxMzM0MDY1XX0=
 -->
