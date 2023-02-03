@@ -74,6 +74,7 @@ Mon 20 Feb 20:20; Tue 28 Feb 18:00
 Tue 21 Feb 20:10  
 **A.K.**  
 Wed 22 Feb 20:50; Sat 25 Feb 20:45  
+<br>
 **In partnership with**  
 
 <img style="float: left;" src="/img/Japan Foundation.JPG" width="40%" height="40%">
