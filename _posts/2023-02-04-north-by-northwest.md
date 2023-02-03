@@ -33,91 +33,50 @@ Hitchcock’s early chase films had a zest he has never been able, or perhaps wa
 <br><br>
 
 **NORTH BY NORTHWEST**<br>
-
 _Directed by:_ Alfred Hitchcock<br>
-
 ©: Loew’s Incorporated<br>
-
 _Production Company:_ Metro-Goldwyn-Mayer<br>
-
 _Producer:_ Alfred Hitchcock *<br>
-
 _Associate Producer:_ Herbert Coleman<br>
-
 _Assistant Director:_ Robert Saunders<br>
-
 _Written by:_ Ernest Lehman<br>
-
 _Director of Photography:_ Robert Burks<br>
-
 _Colour Consultant:_ Charles K. Hagedon<br>
-
 _Special Effects:_ A. Arnold Gillespie, Lee LeBlanc<br>
-
 _Editor:_ George Tomasini<br>
-
 _Production Designed by:_ Robert Boyle<br>
-
 _Art Directors:_ William A. Horning, Merrill Pye<br>
-
 _Set Decorations:_ Henry Grace, Frank McKelvey<br>
-
 _Make-up by:_ William Tuttle<br>
-
 _Hair Styles by:_ Sydney Guilaroff<br>
-
 _Titles Designed by:_ Saul Bass<br>
-
 _Music by:_ Bernard Herrmann<br>
-
 _Recording Supervisor:_ Franklin Milton<br>
-
 _Sound System:_ Westrex Recording System<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Cary Grant _(Roger O. Thornhill/‘George Kaplan’)_<br>
-
 Eva Marie Saint _(Eve Kendall)_<br>
-
 James Mason _(Phillip Vandamm)_<br>
-
 Jessie Royce Landis _(Clara Thornhill)_<br>
-
 Leo G. Carroll _(Professor)_<br>
-
 Josephine Hutchinson _(‘Mrs Townsend’)_<br>
-
 Philip Ober _(Lester Townsend)_<br>
-
 Martin Landau _(Leonard)_<br>
-
 Adam Williams _(Valerian)_<br>
-
 Edward Platt _(Victor Larabee)_<br>
-
 Robert Ellenstein _(Licht)_<br>
-
 Les Tremayne _(auctioneer)_<br>
-
 Philip Coolidge _(Dr Cross)_<br>
-
 Patrick McVey _(Chicago policeman)_<br>
-
 Edward Binns _(Captain Junket)_<br>
-
 Ken Lynch _(Chicago policeman)_<br>
 
 _uncredited_<br>
-
 Doreen Lang _(Maggie)_<br>
-
 John Beradino _(Sergeant Emil Klinger)_<br>
-
 Nora Marlowe _(Anna, the housekeeper)_<br>
-
 Alexander Lockwood _(Judge Anson B. Flynn)_<br>
-
 Stanley Adams _(Lieutenant Harding)_<br>
 
 Lawrence Dobkin _(cartoonist)_<br>
@@ -163,53 +122,54 @@ Howard Negley _(conductor)_<br>
 
 Jesslyn Fax, Lucille Curtis, Anne Anderson _(women)_<br>
 
-Jack Daly _(steward)_
+Jack Daly _(steward)_<br>
 
-Tol Avery, Tom Greenway _(detectives)_
+Tol Avery, Tom Greenway _(detectives)_<br>
 
-Ernest Anderson _(porter)_
+Ernest Anderson _(porter)_<br>
 
-Malcolm Atterbury _(man on the road)_
+Malcolm Atterbury _(man on the road)_<br>
 
-Andy Albin _(farmer)_
+Andy Albin _(farmer)_<br>
 
-Carl Milletaire _(clerk)_
+Carl Milletaire _(clerk)_<br>
 
-Olan Soulé _(assistant auctioneer)_
+Olan Soulé _(assistant auctioneer)_<br>
 
-Helen Spring _(woman at auction)_
+Helen Spring _(woman at auction)_<br>
 
-John Damler, Len Hendry _(police lieutenants)_
+John Damler, Len Hendry _(police lieutenants)_<br>
 
-Patricia Cutts _(bit woman)_
+Patricia Cutts _(bit woman)_<br>
 
-Hugh Pryor, Charles Postal _(bit men)_
+Hugh Pryor, Charles Postal _(bit men)_<br>
 
-Taggart Casey _(man with razor)_
+Taggart Casey _(man with razor)_<br>
 
-Bobby Johnson _(waiter)_
+Bobby Johnson _(waiter)_<br>
 
-Wilson Wood _(photographer)_
+Wilson Wood _(photographer)_<br>
 
-Bill Catching _(attendant)_
+Bill Catching _(attendant)_<br>
 
-Dale Van Sickle _(ranger)_
+Dale Van Sickle _(ranger)_<br>
 
-Frank Marlowe _(Dakota taxi driver)_
+Frank Marlowe _(Dakota taxi driver)_<br>
 
-Harry Strang _(assistant conductor)_
+Harry Strang _(assistant conductor)_<br>
 
-Alfred Hitchcock _(man who misses bus)_
+Alfred Hitchcock _(man who misses bus)_<br>
 
-Sara Berner _(telephone operator)_
+Sara Berner _(telephone operator)_<br>
 
-Charles C. Welch
+Charles C. Welch<br>
 
-USA 1959©
+USA 1959©<br>
 
 136 mins
 
-* Uncredited
+*Uncredited<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk5NzcxMjddfQ==
+eyJoaXN0b3J5IjpbLTgyNDY1Mjg2N119
 -->
