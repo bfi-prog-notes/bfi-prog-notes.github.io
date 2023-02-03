@@ -33,129 +33,60 @@ _Blade Runner_’s influence on broader pop culture is also immense. It spawned 
 _Director:_ Ridley Scott<br>
 ©_/Production Companies:_  Blade Runner Partnership, Ladd Company<br>
 _In association with:_ Run Run Shaw<br>
-
 _Presented by:_ Warner Bros.<br>
-
 _Executive Producers:_ Brian Kelly, Hampton Fancher<br>
-
 _Producer:_ Michael Deeley<br>
-
 _Associate Producer:_ Ivor Powell<br>
-
 _Production Executive:_ Katherine Haber<br>
-
 _Executive in Charge of Production:_ C.O. Erickson<br>
-
 _Auditor:_ Dick Dubuque<br>
-
 _Production Controller:_ Steve Warner<br>
-
 _Production Co-ordinator:_ Vickie Alper<br>
-
 _Unit Production Manager:_ John W. Rogers<br>
-
 _Location Manager:_ Michael Neale<br>
-
-_1st Assistant Directors:_ Newton Arnold,  
-Peter Cornberg<br>
-
-_2nd Assistant Directors:_ Don Hauer,  
-Morris Chapnick, Richard Schroer<br>
-
+_1st Assistant Directors:_ Newton Arnold,  Peter Cornberg<br>
+_2nd Assistant Directors:_ Don Hauer,  Morris Chapnick, Richard Schroer<br>
 _Script Supervisor:_ Anna Maria Quintana<br>
-
 _Casting:_ Mike Fenton, Jane Feinberg<br>
-
 _Additional Casting:_ Marci Liroff<br>
-
 _Screenplay:_ Hampton Fancher, David Peoples<br>
-
 _Based on the novel_ Do Androids Dream of Electric Sheep? _by:_ Philip K. Dick<br>
-
 _Director of Photography:_ Jordan Cronenweth<br>
-
-_Additional Photography:_ Steven Poster,  
-Brian Tufano<br>
-
-_Camera Operators:_ Robert Thomas,  
-Albert Bettcher, Dick Colean<br>
-
-_1st Assistant Cameramen:_ Mike Genne,  
-Steve Smith<br>
-
+_Additional Photography:_ Steven Poster,  Brian Tufano<br>
+_Camera Operators:_ Robert Thomas,  Albert Bettcher, Dick Colean<br>
+_1st Assistant Cameramen:_ Mike Genne,  Steve Smith<br>
 _2nd Assistant Cameraman:_ George D. Greer<br>
-
 _Key Grip:_ Carey Griffith<br>
-
 _Best Boy Grip:_ Robert E. Winger<br>
-
 _Dolly Grip:_ Donald A. Schmitz<br>
-
 _Crab Dolly Grip:_ Douglas G. Willas<br>
-
 _Lighting Gaffer:_ Dick Hart<br>
-
 _Best Boy:_ Joseph W. Cardoza Jr<br>
-
 _Stills Photography:_ Stephen Vaughan<br>
-
-_Special Photographic Effects Supervisors:_
-
-Douglas Trumbull, Richard Yuricich, David Dryer<br>
-
+_Special Photographic Effects Supervisors:_ Douglas Trumbull, Richard Yuricich, David Dryer<br>
 _Special Photographic Effects:_ Entertainment Effects Group _(Director of Photography:_ Dave Stewart; _Optical Photography Supervisor:_ Robert Hall; _Cameramen:_ Don Baker, Rupert Benson, Glen Campbell, Charles Cowles, David Hardberger, Ronald Longo, Timothy McHugh, John Seay, _Matte Artist:_ Matthew Yuricich; _Additional Matte Artist:_ Rocco Gioffre; _Matte Photography:_ Robert Bailey, Tama Takahashi, Don Jarel; _Special Camera Technician:_ Alan Harding; _Optical Line-up:_ Philip Barberio, Richard Ripple; _Animation/Graphics:_ John Wash; _Effects Illustrator:_ Tom Cranham; _Special Projects Consultant:_ Wayne Smith; _Miniature Technician:_ Bob Surlock; _Chief Model Maker:_ Mark Stetson; _Model Makers:_ Jerry Allen, Sean Casey, Paul Curley, Leslie Ekker, Thomas Field, Vance Frederick, William George, Kristopher Gregg, Robert Johnston, Michael McMillian, Thomas Phak, Christopher Ross, Robert Wilcox; _Key Grip:_ Pat Van Auken; _Gaffer:_ Gary Randall; _Film Co-ordinator:_ Jack Hinkle; _Cinetechnician:_ George Polkinghorne; _Still Lab:_ Virgil Mirano; _Electronic/Mechanical Design:_ Evans Wetmore; _Electronic Engineering:_ Gregory L. McMurry; _Computer Engineering:_ Richard Hollander; _Special Engineering Consultants:_ Bud Elam, David Grafton; _Production Office Manager:_ Joyce Goldberg; _Visual Effects Auditor:_ Diana Gold)<br>
-
 _Visual Displays:_ Dream Quest Images<br>
-
 _Esper Sequences:_ Filmfex Animation Services, Lodge/Cheesman<br>
-
 _Special Floor Effects Supervisor:_ Terry Frazee<br>
-
-_Special Effects Technicians:_ Steve Galich,
-
-Logan Frazee, William G. Curtis<br>
-
+_Special Effects Technicians:_ Steve Galich, Logan Frazee, William G. Curtis<br>
 _Supervising Editor:_ Terry Rawlings<br>
-
 _Editor:_ Marsha Nakashima<br>
-
 _Assistant Editor:_ William Zabala<br>
-
 _Production Designer:_ Lawrence G. Paull<br>
-
 _Visual Futurist:_ Syd Mead<br>
-
 _Art Director:_ David Snyder<br>
-
-_Set Designers:_ Tom Duffield, Bill Skinner,  
-Greg Pickrell, Charles Breen, Louis Mann,  
-David Klasson<br>
-
+_Set Designers:_ Tom Duffield, Bill Skinner,  Greg Pickrell, Charles Breen, Louis Mann,  David Klasson<br>
 _Set Decorators:_ Linda DeScenna, Tom Roysden, Leslie Frankheimer<br>
-
 _Leadman:_ Michael Taylor<br>
-
-_Production Illustrators:_ Sherman Labby,
-
-Mentor Huebner, Tom Southwell<br>
-
+_Production Illustrators:_ Sherman Labby, Mentor Huebner, Tom Southwell<br>
 _Property Master:_ Terry Lewis<br>
-
 _Supervisor Action Prop:_ Mike Fink<br>
-
 _Construction Co-ordinator:_ James F. Orendorf<br>
-
 _Painting Co-ordinator:_ James T. Woods<br>
-
 _Stand-by Painter:_ Buzz Lombardo<br>
-
-_Costume Designers:_ Charles Knode,  
-Michael Kaplan<br>
-
+_Costume Designers:_ Charles Knode,  Michael Kaplan<br>
 _Make-up Artist:_ Marvin G. Westmore<br>
-
 _Hairstylist:_ Shirley L. Padgett<br>
-
 _Titles:_ Intralink Film Graphic Design<br>
 
 _Music/Music Arranger/Performer/Producer:_ Vangelis<br>
@@ -228,5 +159,5 @@ USA 1982©<br>
 118 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwNTcyOTE0XX0=
+eyJoaXN0b3J5IjpbLTE1MjA2NTY1MjJdfQ==
 -->
