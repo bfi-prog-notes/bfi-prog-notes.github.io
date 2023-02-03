@@ -24,22 +24,48 @@ Offering healing to the place an Aboriginal baby’s remains were taken from.
 
 **For All Our Women of the Sun**  
 Dirs: Natalie Harkin (Narungga), Ali Gumillya Baker (Mirning), Faye Rosas Blanch (Yidniji/Mbarbarm), Simone Ulalka Tur (Yankunytjatjara)  
-Australia 2021. 4min
-
+Australia 2021. 4min  
 A homage to Aboriginal women who were forced into labour.
 
-**Mulunma – Inside Within**Dir**:** Daniel Riley (Wiradjuri). Australia 2021. 7min
+**Mulunma – Inside Within**  
+Dir: Daniel Riley (Wiradjuri). Australia 2021. 7min  
+A dancer contrasts the differing ideologies of the ‘Western’ and  ‘Indigenous’ Archive.
 
-A dancer contrasts the differing ideologies of the ‘Western’ and  
-‘Indigenous’ Archive.
+The above programme of moving image artworks will be followed by  _TERROR NULLIUS_ from collective Soda Jerk.
 
-The above programme of moving image artworks will be followed by  
-_TERROR NULLIUS_ from collective Soda Jerk.
+**TERROR NULLIUS**  
+Dir: Soda Jerk. Australia 2018. 54min  
+Sample art misfits Soda Jerk’s second feature is a blistering, badly behaved, sample-based film which confronts the horrors of Australia’s national mythologies. A political revenge fable that binds canonical interrogation with speculative muckraking, _TERROR NULLIUS_ premiered at ACMI in 2018.  Five years later, its provocation is as dark, hopeful and urgent as ever.
+<br><br>
 
-**TERROR NULLIUS**Dir**:** Soda Jerk. Australia 2018. 54min
+**YOU BEAUTIES:  NEW AUSTRALIAN CINEMA**<br>
 
-Sample art misfits Soda Jerk’s second feature is a blistering, badly behaved, sample-based film which confronts the horrors of Australia’s national mythologies. A political revenge fable that binds canonical interrogation with speculative muckraking, _TERROR NULLIUS_ premiered at ACMI in 2018.  
-Five years later, its provocation is as dark, hopeful and urgent as ever.
+**So-Called Australia:  
+Blak Art on Film + Terror Nullius**<br>
+
+Fri 3 Feb 18:10; Tue 21 Fe 20:30<br>
+
+**Sissy + Pink Reef**<br>
+
+Sat 11 Feb 20:30; Mon 2o Feb 17:50<br>
+
+**Friends and Stranger + Lime Parfait**<br>
+
+Thu 16 Fe 18:10; Fri 24 Feb 18:15<br>
+
+**You Won’t Be Alone + Gem**<br>
+
+Fri 17 Feb 20:25; Sat 25 Feb 17:30<br>
+
+**Shadow + Call History**<br>
+
+Wed 22 Feb 18:20<br>
+
+**Sweet As + Finding Jedda**<br>
+
+Sun 26 Feb 18:30; Mon 27 Feb 20:50<br>
+
+**With thanks to**<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTk1MTQ0OF19
+eyJoaXN0b3J5IjpbLTQzMTMwOTczOV19
 -->
