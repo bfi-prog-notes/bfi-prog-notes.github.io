@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Sanshiro Sugata
+published: true
+date: 2023-02-03
+readtime: true
+categories: ['KUROSAWA']
+tags: [Drama, Action, Martial Arts]
+metadata: 'Japan 1943, 80 mins<br> Director: Akira Kurosawa'
+pdf: '2023-02-03-sanshiro-sugata.pdf'
+---
 
 _+ intro by Ian Haydn Smith, season co-curator (Friday 3 February only)_
 
@@ -121,5 +130,5 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTYyMTEyMDFdfQ==
+eyJoaXN0b3J5IjpbLTkzNDU3MDk0NF19
 -->
