@@ -1,6 +1,17 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Kurosawa and Shakespeare, <br> Adaptation and Reinvention<br>
+An illustrated talk<br>
+by Adrian Wootton
+published: true
+date: 2023-02-05
+readtime: true
+categories: ['KUROSAWA']
+tags: [Talk]
+metadata: <br>
+<br> Director: Akira Kurosawa'
+pdf: '2023-02-04-living.pdf'
+---
 
 In this lavishly illustrated talk with clips and slides Adrian Wootton (CEO of Film London and film curator) will explore Kurosawa’s remarkable trilogy of films, _Throne of Blood_, _The Bad Sleep Well_ and _Ran_, adapting Shakespeare plays into resonant cinema that also drew deeply on Japanese history and artistic traditions of painting and theatre.  
   
@@ -24,5 +35,5 @@ In 2012, Adrian received an Honorary Doctorate in the Arts and was appointed Vis
 
 <![if !supportLists]>· <![endif]>Russel Jackson (editor), _The Cambridge Companion to Shakespeare on Film_ (Cambridge University Press, 2000)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTMzNDA2NV19
+eyJoaXN0b3J5IjpbODQ5Mjc0NjEyLDE1MDEzMzQwNjVdfQ==
 -->
