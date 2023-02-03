@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Kurosawa and Shakespeare, <br> Adaptation and Reinvention<br>
-An illustrated talk<br>
-by Adrian Wootton
+title: Kurosawa and Shakespeare<br> Adaptation and Reinvention<br> An illustrated talk<br> by Adrian Wootton
 published: true
 date: 2023-02-05
 readtime: true
