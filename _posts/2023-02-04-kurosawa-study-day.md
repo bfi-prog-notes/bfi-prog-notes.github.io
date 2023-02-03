@@ -6,21 +6,8 @@ date: 2023-02-04
 readtime: true
 categories: ['KUROSAWA']
 tags: [Talk]
-metadata: tor: 
-pdf: '2023-02-04-'Japan 1952, 141 mins<br> Direc<![endif]-->
-
-<![if !vml]>
-
-![](file:///C:/Users/LOCB16~1/Temp/110/msohtmlclip1/01/clip_image002.jpg)
-
-![Text Box: KUROSAWA
-The Gathering S
-Directorm: Akira Kurosawa'
-pdf: '2023-02-04-living.pdf'
---- Study Day
-](file:///C:/Users/LOCB16~1/Temp/110/msohtmlclip1/01/clip_image003.png)
-
-<![endif]>  kurosawa-study-day.pdf'
+metadata: 
+pdf: '2023-02-04-kurosawa-study-day.pdf'
 ---
 
 Join us for a day of talks and discussions exploring the less familiar aspects of Kurosawa’s work while also celebrating his cinematic legacy. A selection of expert speakers will explore various topics, including the role of women in Kurosawa’s films, the periods of history his films cover, as well as the curios that defy broader definitions of Kurosawa’s oeuvre and the generations of filmmakers he has inspired.
