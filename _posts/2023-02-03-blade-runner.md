@@ -30,12 +30,8 @@ _Blade Runner_’s influence on broader pop culture is also immense. It spawned 
 <br><br>
 
 **BLADE RUNNER THE FINAL CUT**<br>
-
 _Director:_ Ridley Scott<br>
-
-©_/Production Companies:_  
-Blade Runner Partnership, Ladd Company<br>
-
+©_/Production Companies:_  Blade Runner Partnership, Ladd Company<br>
 _In association with:_ Run Run Shaw<br>
 
 _Presented by:_ Warner Bros.<br>
@@ -76,160 +72,161 @@ _Screenplay:_ Hampton Fancher, David Peoples<br>
 
 _Based on the novel_ Do Androids Dream of Electric Sheep? _by:_ Philip K. Dick<br>
 
-_Director of Photography:_ Jordan Cronenweth
+_Director of Photography:_ Jordan Cronenweth<br>
 
 _Additional Photography:_ Steven Poster,  
-Brian Tufano
+Brian Tufano<br>
 
 _Camera Operators:_ Robert Thomas,  
-Albert Bettcher, Dick Colean
+Albert Bettcher, Dick Colean<br>
 
 _1st Assistant Cameramen:_ Mike Genne,  
-Steve Smith
+Steve Smith<br>
 
-_2nd Assistant Cameraman:_ George D. Greer
+_2nd Assistant Cameraman:_ George D. Greer<br>
 
-_Key Grip:_ Carey Griffith
+_Key Grip:_ Carey Griffith<br>
 
-_Best Boy Grip:_ Robert E. Winger
+_Best Boy Grip:_ Robert E. Winger<br>
 
-_Dolly Grip:_ Donald A. Schmitz
+_Dolly Grip:_ Donald A. Schmitz<br>
 
-_Crab Dolly Grip:_ Douglas G. Willas
+_Crab Dolly Grip:_ Douglas G. Willas<br>
 
-_Lighting Gaffer:_ Dick Hart
+_Lighting Gaffer:_ Dick Hart<br>
 
-_Best Boy:_ Joseph W. Cardoza Jr
+_Best Boy:_ Joseph W. Cardoza Jr<br>
 
-_Stills Photography:_ Stephen Vaughan
+_Stills Photography:_ Stephen Vaughan<br>
 
 _Special Photographic Effects Supervisors:_
 
-Douglas Trumbull, Richard Yuricich, David Dryer
+Douglas Trumbull, Richard Yuricich, David Dryer<br>
 
-_Special Photographic Effects:_ Entertainment Effects Group _(Director of Photography:_ Dave Stewart; _Optical Photography Supervisor:_ Robert Hall; _Cameramen:_ Don Baker, Rupert Benson, Glen Campbell, Charles Cowles, David Hardberger, Ronald Longo, Timothy McHugh, John Seay, _Matte Artist:_ Matthew Yuricich; _Additional Matte Artist:_ Rocco Gioffre; _Matte Photography:_ Robert Bailey, Tama Takahashi, Don Jarel; _Special Camera Technician:_ Alan Harding; _Optical Line-up:_ Philip Barberio, Richard Ripple; _Animation/Graphics:_ John Wash; _Effects Illustrator:_ Tom Cranham; _Special Projects Consultant:_ Wayne Smith; _Miniature Technician:_ Bob Surlock; _Chief Model Maker:_ Mark Stetson; _Model Makers:_ Jerry Allen, Sean Casey, Paul Curley, Leslie Ekker, Thomas Field, Vance Frederick, William George, Kristopher Gregg, Robert Johnston, Michael McMillian, Thomas Phak, Christopher Ross, Robert Wilcox; _Key Grip:_ Pat Van Auken; _Gaffer:_ Gary Randall; _Film Co-ordinator:_ Jack Hinkle; _Cinetechnician:_ George Polkinghorne; _Still Lab:_ Virgil Mirano; _Electronic/Mechanical Design:_ Evans Wetmore; _Electronic Engineering:_ Gregory L. McMurry; _Computer Engineering:_ Richard Hollander; _Special Engineering Consultants:_ Bud Elam, David Grafton; _Production Office Manager:_ Joyce Goldberg; _Visual Effects Auditor:_ Diana Gold)
+_Special Photographic Effects:_ Entertainment Effects Group _(Director of Photography:_ Dave Stewart; _Optical Photography Supervisor:_ Robert Hall; _Cameramen:_ Don Baker, Rupert Benson, Glen Campbell, Charles Cowles, David Hardberger, Ronald Longo, Timothy McHugh, John Seay, _Matte Artist:_ Matthew Yuricich; _Additional Matte Artist:_ Rocco Gioffre; _Matte Photography:_ Robert Bailey, Tama Takahashi, Don Jarel; _Special Camera Technician:_ Alan Harding; _Optical Line-up:_ Philip Barberio, Richard Ripple; _Animation/Graphics:_ John Wash; _Effects Illustrator:_ Tom Cranham; _Special Projects Consultant:_ Wayne Smith; _Miniature Technician:_ Bob Surlock; _Chief Model Maker:_ Mark Stetson; _Model Makers:_ Jerry Allen, Sean Casey, Paul Curley, Leslie Ekker, Thomas Field, Vance Frederick, William George, Kristopher Gregg, Robert Johnston, Michael McMillian, Thomas Phak, Christopher Ross, Robert Wilcox; _Key Grip:_ Pat Van Auken; _Gaffer:_ Gary Randall; _Film Co-ordinator:_ Jack Hinkle; _Cinetechnician:_ George Polkinghorne; _Still Lab:_ Virgil Mirano; _Electronic/Mechanical Design:_ Evans Wetmore; _Electronic Engineering:_ Gregory L. McMurry; _Computer Engineering:_ Richard Hollander; _Special Engineering Consultants:_ Bud Elam, David Grafton; _Production Office Manager:_ Joyce Goldberg; _Visual Effects Auditor:_ Diana Gold)<br>
 
-_Visual Displays:_ Dream Quest Images
+_Visual Displays:_ Dream Quest Images<br>
 
-_Esper Sequences:_ Filmfex Animation Services, Lodge/Cheesman
+_Esper Sequences:_ Filmfex Animation Services, Lodge/Cheesman<br>
 
-_Special Floor Effects Supervisor:_ Terry Frazee
+_Special Floor Effects Supervisor:_ Terry Frazee<br>
 
 _Special Effects Technicians:_ Steve Galich,
 
-Logan Frazee, William G. Curtis
+Logan Frazee, William G. Curtis<br>
 
-_Supervising Editor:_ Terry Rawlings
+_Supervising Editor:_ Terry Rawlings<br>
 
-_Editor:_ Marsha Nakashima
+_Editor:_ Marsha Nakashima<br>
 
-_Assistant Editor:_ William Zabala
+_Assistant Editor:_ William Zabala<br>
 
-_Production Designer:_ Lawrence G. Paull
+_Production Designer:_ Lawrence G. Paull<br>
 
-_Visual Futurist:_ Syd Mead
+_Visual Futurist:_ Syd Mead<br>
 
-_Art Director:_ David Snyder
+_Art Director:_ David Snyder<br>
 
 _Set Designers:_ Tom Duffield, Bill Skinner,  
 Greg Pickrell, Charles Breen, Louis Mann,  
-David Klasson
+David Klasson<br>
 
-_Set Decorators:_ Linda DeScenna, Tom Roysden, Leslie Frankheimer
+_Set Decorators:_ Linda DeScenna, Tom Roysden, Leslie Frankheimer<br>
 
-_Leadman:_ Michael Taylor
+_Leadman:_ Michael Taylor<br>
 
 _Production Illustrators:_ Sherman Labby,
 
-Mentor Huebner, Tom Southwell
+Mentor Huebner, Tom Southwell<br>
 
-_Property Master:_ Terry Lewis
+_Property Master:_ Terry Lewis<br>
 
-_Supervisor Action Prop:_ Mike Fink
+_Supervisor Action Prop:_ Mike Fink<br>
 
-_Construction Co-ordinator:_ James F. Orendorf
+_Construction Co-ordinator:_ James F. Orendorf<br>
 
-_Painting Co-ordinator:_ James T. Woods
+_Painting Co-ordinator:_ James T. Woods<br>
 
-_Stand-by Painter:_ Buzz Lombardo
+_Stand-by Painter:_ Buzz Lombardo<br>
 
 _Costume Designers:_ Charles Knode,  
-Michael Kaplan
+Michael Kaplan<br>
 
-_Make-up Artist:_ Marvin G. Westmore
+_Make-up Artist:_ Marvin G. Westmore<br>
 
-_Hairstylist:_ Shirley L. Padgett
+_Hairstylist:_ Shirley L. Padgett<br>
 
-_Titles:_ Intralink Film Graphic Design
+_Titles:_ Intralink Film Graphic Design<br>
 
-_Music/Music Arranger/Performer/Producer:_ Vangelis
+_Music/Music Arranger/Performer/Producer:_ Vangelis<br>
 
-_Sound Mixer:_ Bud Alper
+_Sound Mixer:_ Bud Alper<br>
 
 _Pinewood Chief Dubbing Mixer:_  
-Graham V. Hartstone
+Graham V. Hartstone<br>
 
 _Twickenham Chief Dubbing Mixer:_  
-Gerry Humphries
+Gerry Humphries<br>
 
-_Stunt Co-ordinator:_ Gary Combs
+_Stunt Co-ordinator:_ Gary Combs<br>
 
-_Publicist:_ Saul Kahan
+_Publicist:_ Saul Kahan<br>
 
-_Cast:_
+_Cast:_<br>
 
-Harrison Ford _(Rick Deckard)_
+Harrison Ford _(Rick Deckard)_<br>
 
-Rutger Hauer _(Roy Batty)_
+Rutger Hauer _(Roy Batty)_<br>
 
-Sean Young _(Rachael)_
+Sean Young _(Rachael)_<br>
 
-Edward James Olmos _(Gaff)_
+Edward James Olmos _(Gaff)_<br>
 
-M. Emmet Walsh _(Captain Bryant)_
+M. Emmet Walsh _(Captain Bryant)_<br>
 
-Daryl Hannah _(Pris)_
+Daryl Hannah _(Pris)_<br>
 
-William Sanderson _(J.F. Sebastian)_
+William Sanderson _(J.F. Sebastian)_<br>
 
-Brion James _(Leon)_
+Brion James _(Leon)_<br>
 
-Joe Turkel _(Dr Tyrell)_
+Joe Turkel _(Dr Tyrell)_<br>
 
-Joanna Cassidy _(Zhora)_
+Joanna Cassidy _(Zhora)_<br>
 
-James Hong _(Chew)_
+James Hong _(Chew)_<br>
 
-Morgan Paull _(Holden)_
+Morgan Paull _(Holden)_<br>
 
-Kevin Thompson _(Bear)_
+Kevin Thompson _(Bear)_<br>
 
-John Edward Allen _(Kaiser)_
+John Edward Allen _(Kaiser)_<br>
 
-Hy Pyke _(Taffey Lewis)_
+Hy Pyke _(Taffey Lewis)_<br>
 
-Kimiro Hiroshige _(Cambodian lady)_
+Kimiro Hiroshige _(Cambodian lady)_<br>
 
-Robert Okazaki _(sushi master)_
+Robert Okazaki _(sushi master)_<br>
 
-Carolyn DeMirjian _(saleslady)_
+Carolyn DeMirjian _(saleslady)_<br>
 
 Charles Knapp, Leo Gorcey Jr,  
-Thomas Hutchinson _(bartenders)_
+Thomas Hutchinson _(bartenders)_<br>
 
-Kelly Hine _(show girl)_
+Kelly Hine _(show girl)_<br>
 
-Sharon Hesky, Rose Mascari _(barflies)_
+Sharon Hesky, Rose Mascari _(barflies)_<br>
 
-Susan Rhee, Hiroko Kimuri _(geishas)_
+Susan Rhee, Hiroko Kimuri _(geishas)_<br>
 
-Kai Wong, Kit Wong _(Chinese men)_
+Kai Wong, Kit Wong _(Chinese men)_<br>
 
-Hiro Okazaki, Steve Pope, Robert Reiter _(policemen)_
+Hiro Okazaki, Steve Pope, Robert Reiter _(policemen)_<br>
 
-USA 1982©
+USA 1982©<br>
 
-118 mins
+118 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI4NjAxNTRdfQ==
+eyJoaXN0b3J5IjpbMzcwNTcyOTE0XX0=
 -->
