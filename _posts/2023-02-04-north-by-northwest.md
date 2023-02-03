@@ -24,147 +24,144 @@ _North by Northwest_’s most effective sequence, however, takes place in a sett
 Casually, he points out a crop-dusting plane, operating where there are no crops growing. He boards the bus… and in seconds the aircraft is swooping on Cary Grant, pursuing him with a rattle of gunfire, chasing him through the growing corn. In the contrast between the slow, silent build-up, the long shots of the prairie, the isolation of the waiting figure, and the sudden, definitive  
 burst of violence, we are safely in the hands of the most authoritative of precision experts.
 
-Not all of _North by Northwest_ is as good as this. The film is ridiculously long (two and a quarter hours), and inevitably there are passages, mostly those involving the equivocal heroine, in which the action drags and no adequate substitute is offered. Motivation, here, scarcely counts: even the situation of the girl involved with, and herself spying on, the enemy agent is brushed aside. Hitchcock explored this one, up to a point, in _Notorious_; here he merely  
-states it.
+Not all of _North by Northwest_ is as good as this. The film is ridiculously long (two and a quarter hours), and inevitably there are passages, mostly those involving the equivocal heroine, in which the action drags and no adequate substitute is offered. Motivation, here, scarcely counts: even the situation of the girl involved with, and herself spying on, the enemy agent is brushed aside. Hitchcock explored this one, up to a point, in _Notorious_; here he merely  states it.
 
 An advantage of these paper-thin characters, though, is that they can be used for humour, which would be redundant if the film even pretended to take its adventures at more than their face value. The advertising man, for instance, takes his mother, acidly argumentative and missing her bridge party, along with him on a detective expedition. A car chase, beginning with careful tension, ends in a ludicrous three car bumper-to-bumper pile-up.
 
-Hitchcock’s early chase films had a zest he has never been able, or perhaps wanted, to recover. But the immense calculation that has gone into this film, the cheap joke so carefully timed, the suspense effect so gloatingly delayed, is the mark of the ultimate in professionalism. And there is something to be said for a film that never puts a foot wrong without making one feel that even the false step is a deliberate one.
+Hitchcock’s early chase films had a zest he has never been able, or perhaps wanted, to recover. But the immense calculation that has gone into this film, the cheap joke so carefully timed, the suspense effect so gloatingly delayed, is the mark of the ultimate in professionalism. And there is something to be said for a film that never puts a foot wrong without making one feel that even the false step is a deliberate one.  
+**Penelope Houston, _Sight and Sound_, July 1959**
+<br><br>
 
-Penelope Houston, _Sight and Sound_, July 1959
+**NORTH BY NORTHWEST**<br>
 
-<![endif]-->
+_Directed by:_ Alfred Hitchcock<br>
 
-**NORTH BY NORTHWEST**
+©: Loew’s Incorporated<br>
 
-_Directed by:_ Alfred Hitchcock
+_Production Company:_ Metro-Goldwyn-Mayer<br>
 
-©: Loew’s Incorporated
+_Producer:_ Alfred Hitchcock *<br>
 
-_Production Company:_ Metro-Goldwyn-Mayer
+_Associate Producer:_ Herbert Coleman<br>
 
-_Producer:_ Alfred Hitchcock *
+_Assistant Director:_ Robert Saunders<br>
 
-_Associate Producer:_ Herbert Coleman
+_Written by:_ Ernest Lehman<br>
 
-_Assistant Director:_ Robert Saunders
+_Director of Photography:_ Robert Burks<br>
 
-_Written by:_ Ernest Lehman
+_Colour Consultant:_ Charles K. Hagedon<br>
 
-_Director of Photography:_ Robert Burks
+_Special Effects:_ A. Arnold Gillespie, Lee LeBlanc<br>
 
-_Colour Consultant:_ Charles K. Hagedon
+_Editor:_ George Tomasini<br>
 
-_Special Effects:_ A. Arnold Gillespie, Lee LeBlanc
+_Production Designed by:_ Robert Boyle<br>
 
-_Editor:_ George Tomasini
+_Art Directors:_ William A. Horning, Merrill Pye<br>
 
-_Production Designed by:_ Robert Boyle
+_Set Decorations:_ Henry Grace, Frank McKelvey<br>
 
-_Art Directors:_ William A. Horning, Merrill Pye
+_Make-up by:_ William Tuttle<br>
 
-_Set Decorations:_ Henry Grace, Frank McKelvey
+_Hair Styles by:_ Sydney Guilaroff<br>
 
-_Make-up by:_ William Tuttle
+_Titles Designed by:_ Saul Bass<br>
 
-_Hair Styles by:_ Sydney Guilaroff
+_Music by:_ Bernard Herrmann<br>
 
-_Titles Designed by:_ Saul Bass
+_Recording Supervisor:_ Franklin Milton<br>
 
-_Music by:_ Bernard Herrmann
+_Sound System:_ Westrex Recording System<br>
 
-_Recording Supervisor:_ Franklin Milton
+_Cast:_<br>
 
-_Sound System:_ Westrex Recording System
+Cary Grant _(Roger O. Thornhill/‘George Kaplan’)_<br>
 
-_Cast:_
+Eva Marie Saint _(Eve Kendall)_<br>
 
-Cary Grant _(Roger O. Thornhill/‘George Kaplan’)_
+James Mason _(Phillip Vandamm)_<br>
 
-Eva Marie Saint _(Eve Kendall)_
+Jessie Royce Landis _(Clara Thornhill)_<br>
 
-James Mason _(Phillip Vandamm)_
+Leo G. Carroll _(Professor)_<br>
 
-Jessie Royce Landis _(Clara Thornhill)_
+Josephine Hutchinson _(‘Mrs Townsend’)_<br>
 
-Leo G. Carroll _(Professor)_
+Philip Ober _(Lester Townsend)_<br>
 
-Josephine Hutchinson _(‘Mrs Townsend’)_
+Martin Landau _(Leonard)_<br>
 
-Philip Ober _(Lester Townsend)_
+Adam Williams _(Valerian)_<br>
 
-Martin Landau _(Leonard)_
+Edward Platt _(Victor Larabee)_<br>
 
-Adam Williams _(Valerian)_
+Robert Ellenstein _(Licht)_<br>
 
-Edward Platt _(Victor Larabee)_
+Les Tremayne _(auctioneer)_<br>
 
-Robert Ellenstein _(Licht)_
+Philip Coolidge _(Dr Cross)_<br>
 
-Les Tremayne _(auctioneer)_
+Patrick McVey _(Chicago policeman)_<br>
 
-Philip Coolidge _(Dr Cross)_
+Edward Binns _(Captain Junket)_<br>
 
-Patrick McVey _(Chicago policeman)_
+Ken Lynch _(Chicago policeman)_<br>
 
-Edward Binns _(Captain Junket)_
+_uncredited_<br>
 
-Ken Lynch _(Chicago policeman)_
+Doreen Lang _(Maggie)_<br>
 
-_uncredited_
+John Beradino _(Sergeant Emil Klinger)_<br>
 
-Doreen Lang _(Maggie)_
+Nora Marlowe _(Anna, the housekeeper)_<br>
 
-John Beradino _(Sergeant Emil Klinger)_
+Alexander Lockwood _(Judge Anson B. Flynn)_<br>
 
-Nora Marlowe _(Anna, the housekeeper)_
+Stanley Adams _(Lieutenant Harding)_<br>
 
-Alexander Lockwood _(Judge Anson B. Flynn)_
+Lawrence Dobkin _(cartoonist)_<br>
 
-Stanley Adams _(Lieutenant Harding)_
+Harvey Stephens _(stockbroker)_<br>
 
-Lawrence Dobkin _(cartoonist)_
+Walter Coy _(reporter)_<br>
 
-Harvey Stephens _(stockbroker)_
+Madge Kennedy _(housewife)_<br>
 
-Walter Coy _(reporter)_
+Baynes Barron, Jimmy Cross _(taxi drivers)_<br>
 
-Madge Kennedy _(housewife)_
+Tommy Farrell _(elevator starter)_<br>
 
-Baynes Barron, Jimmy Cross _(taxi drivers)_
+Harry Seymour _(captain of waiters)_<br>
 
-Tommy Farrell _(elevator starter)_
+Frank Wilcox _(waiter)_<br>
 
-Harry Seymour _(captain of waiters)_
+Robert Shayne _(Larry Wade)_<br>
 
-Frank Wilcox _(waiter)_
+Carleton Young _(Fanning Nelson)_<br>
 
-Robert Shayne _(Larry Wade)_
+Ralph Reed _(bellboy)_<br>
 
-Carleton Young _(Fanning Nelson)_
-
-Ralph Reed _(bellboy)_
-
-Paul Genge _(Lt Hagerman)_
+Paul Genge _(Lt Hagerman)_<br>
 
 Robert B. Williams  
-_(Patrolman Waggoner, at Glen Cove)_
+_(Patrolman Waggoner, at Glen Cove)_<br>
 
-Maudie Prickett _(Elsie, the maid)_
+Maudie Prickett _(Elsie, the maid)_<br>
 
-James McCallion _(valet)_
+James McCallion _(valet)_<br>
 
-Doris Singh _(Indian girl)_
+Doris Singh _(Indian girl)_<br>
 
-Sally Fraser _(girl on loudspeaker)_
+Sally Fraser _(girl on loudspeaker)_<br>
 
-Maura McGiveney, Susan Whitney _(girl attendants)_
+Maura McGiveney, Susan Whitney _(girl attendants)_<br>
 
-Ned Glass _(ticket agent)_
+Ned Glass _(ticket agent)_<br>
 
-Howard Negley _(conductor)_
+Howard Negley _(conductor)_<br>
 
-Jesslyn Fax, Lucille Curtis, Anne Anderson _(women)_
+Jesslyn Fax, Lucille Curtis, Anne Anderson _(women)_<br>
 
 Jack Daly _(steward)_
 
@@ -214,5 +211,5 @@ USA 1959©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0MDE2OTAyXX0=
+eyJoaXN0b3J5IjpbLTE1NTk5NzcxMjddfQ==
 -->
