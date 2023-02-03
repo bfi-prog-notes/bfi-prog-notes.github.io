@@ -9,8 +9,7 @@ readtime: true
 categories: ['KUROSAWA']
 tags: [Talk]
 metadata: <br>
-<br> Director: Akira Kurosawa'
-pdf: '2023-02-04-living.pdf'
+pdf: '2023-02-05-kurosawa-and-shakespeare.pdf'
 ---
 
 In this lavishly illustrated talk with clips and slides Adrian Wootton (CEO of Film London and film curator) will explore Kurosawa’s remarkable trilogy of films, _Throne of Blood_, _The Bad Sleep Well_ and _Ran_, adapting Shakespeare plays into resonant cinema that also drew deeply on Japanese history and artistic traditions of painting and theatre.  
@@ -23,17 +22,17 @@ In 2012, Adrian received an Honorary Doctorate in the Arts and was appointed Vis
 
 **Reading suggestions**
 
-<![if !supportLists]>· <![endif]>Akira Kurosawa, _Something Like an Autobiography_ (Vintage Books, 1983)
+- Akira Kurosawa, _Something Like an Autobiography_ (Vintage Books, 1983)
 
-<![if !supportLists]>· <![endif]>Donald Ritchie, _The Films of Akira Kurosawa_ (University of California Press, 1986)
+- Donald Ritchie, _The Films of Akira Kurosawa_ (University of California Press, 1986)
 
-<![if !supportLists]>· <![endif]>Robert N Watson, _Throne of Blood_ (BFI Film Classic, Bloomsbury, 2020)
+- Robert N Watson, _Throne of Blood_ (BFI Film Classic, Bloomsbury, 2020)
 
-<![if !supportLists]>· <![endif]>Roger Manvell, _Shakespeare and the Film_ (A. S. Barnes, 1979)
+- Roger Manvell, _Shakespeare and the Film_ (A. S. Barnes, 1979)
 
-<![if !supportLists]>· <![endif]>Stephen Prince, _The Warrior's Camera: The Cinema of Akira Kurosawa_, (Princeton University Press, 1999)
+- Stephen Prince, _The Warrior's Camera: The Cinema of Akira Kurosawa_, (Princeton University Press, 1999)
 
-<![if !supportLists]>· <![endif]>Russel Jackson (editor), _The Cambridge Companion to Shakespeare on Film_ (Cambridge University Press, 2000)
+- Russel Jackson (editor), _The Cambridge Companion to Shakespeare on Film_ (Cambridge University Press, 2000)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5Mjc0NjEyLDE1MDEzMzQwNjVdfQ==
+eyJoaXN0b3J5IjpbMTc5OTk5MDQyMiwxNTAxMzM0MDY1XX0=
 -->
