@@ -32,7 +32,7 @@ In 2012, Adrian received an Honorary Doctorate in the Arts and was appointed Vis
 
 - Stephen Prince, _The Warrior's Camera: The Cinema of Akira Kurosawa_, (Princeton University Press, 1999)
 
-- Russel Jackson (editor), _The Cambridge Companion to Shakespeare on Film_ (Cambridge University Press, 2000)
+- Russell Jackson (editor), _The Cambridge Companion to Shakespeare on Film_ (Cambridge University Press, 2000)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTk5MDQyMiwxNTAxMzM0MDY1XX0=
+eyJoaXN0b3J5IjpbLTYyNDU5NjY1MCwxNTAxMzM0MDY1XX0=
 -->
