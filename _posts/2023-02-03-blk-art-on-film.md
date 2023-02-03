@@ -39,33 +39,20 @@ Sample art misfits Soda Jerk’s second feature is a blistering, badly behaved, 
 <br><br>
 
 **YOU BEAUTIES:  NEW AUSTRALIAN CINEMA**<br>
-
-**So-Called Australia:  
-Blak Art on Film + Terror Nullius**<br>
-
+**So-Called Australia:  Blak Art on Film + Terror Nullius**<br>
 Fri 3 Feb 18:10; Tue 21 Fe 20:30<br>
-
 **Sissy + Pink Reef**<br>
-
 Sat 11 Feb 20:30; Mon 2o Feb 17:50<br>
-
 **Friends and Stranger + Lime Parfait**<br>
-
 Thu 16 Fe 18:10; Fri 24 Feb 18:15<br>
-
 **You Won’t Be Alone + Gem**<br>
-
 Fri 17 Feb 20:25; Sat 25 Feb 17:30<br>
-
 **Shadow + Call History**<br>
-
 Wed 22 Feb 18:20<br>
-
 **Sweet As + Finding Jedda**<br>
-
 Sun 26 Feb 18:30; Mon 27 Feb 20:50<br>
 
-**With thanks to**<br>
+**With thanks to**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTMwOTczOV19
+eyJoaXN0b3J5IjpbMTA0NzQ1MDEwMV19
 -->
