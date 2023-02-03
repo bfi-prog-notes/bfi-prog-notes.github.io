@@ -1,13 +1,14 @@
-<![endif]-->
-
-<![if !vml]>
-
-![](file:///C:/Users/LOCB16~1/Temp/110/msohtmlclip1/01/clip_image002.jpg)
-
-![Text Box: KUROSAWA
-The Gathering Storm: Kurosawa Study Day
-](file:///C:/Users/LOCB16~1/Temp/110/msohtmlclip1/01/clip_image003.png)
-
+---
+layout: post
+title: The Gathering Storm<
+published: true
+date: 2023-02-04
+readtime: true
+categories: ['KUROSAWA']
+tags: [Drama]
+metadata: 'Japan 1952, 141 mins<br> Director: Akira Kurosawa'
+pdf: '2023-02-04-living.pdf'
+---
 <![endif]>  
 Join us for a day of talks and discussions exploring the less familiar aspects of Kurosawa’s work while also celebrating his cinematic legacy. A selection of expert speakers will explore various topics, including the role of women in Kurosawa’s films, the periods of history his films cover, as well as the curios that defy broader definitions of Kurosawa’s oeuvre and the generations of filmmakers he has inspired.
 
@@ -21,7 +22,7 @@ Join us for a day of talks and discussions exploring the less familiar aspects o
 - 15:45 Comfort Break
 - 16:00 Presentation: _Remake, Adaptation or Homage: Kurosawa’s Filmic Influence,_ by Dolores Martinez  
 - 16:30 Panel Discussion with John Maclean, Ian Haydn Smith and Dolores Martinez on Kurosawa’s influence on Hollywood and Western film
-- 17:00 Event Ends
+- 17:00 Event Ends  
 
 **Speakers**  
 **Alejandra Armendáriz-Hernández** is a Ph.D. candidate at University Rey Juan Carlos in Madrid (Spain), writing a dissertation on female authorship and representation in the films directed by Tanaka Kinuyo. She has been a visiting researcher at the Meiji Gakuin University in Tokyo and Birkbeck, University of London. Her research, teaching and publications include the study of women filmmakers in Japan, gender representations in East Asian culture and transnational film connections between Japan and Latin America.
@@ -41,5 +42,5 @@ _The Me You Can’t See_. Kapadia is presently in production with _2073_, a dyst
 
 **Dr Julia Stolyar** holds a PhD from SOAS, University of London. Her research looks at construction of national identity through media, specifically television, in Japan and South Korea and the way the practice of transnational drama remakes affects this representation. She explored national identity through the representation of violence, power and agency, and emotion. She has published and given talks on television in East Asia and transnational remakes and is currently exploring representation of fatherhood on Korean and Japanese television.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODQ1OTA0OV19
+eyJoaXN0b3J5IjpbMTc0MDg3MDE3OF19
 -->
