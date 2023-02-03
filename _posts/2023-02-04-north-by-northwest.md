@@ -78,98 +78,54 @@ John Beradino _(Sergeant Emil Klinger)_<br>
 Nora Marlowe _(Anna, the housekeeper)_<br>
 Alexander Lockwood _(Judge Anson B. Flynn)_<br>
 Stanley Adams _(Lieutenant Harding)_<br>
-
 Lawrence Dobkin _(cartoonist)_<br>
-
 Harvey Stephens _(stockbroker)_<br>
-
 Walter Coy _(reporter)_<br>
-
 Madge Kennedy _(housewife)_<br>
-
 Baynes Barron, Jimmy Cross _(taxi drivers)_<br>
-
 Tommy Farrell _(elevator starter)_<br>
-
 Harry Seymour _(captain of waiters)_<br>
-
 Frank Wilcox _(waiter)_<br>
-
 Robert Shayne _(Larry Wade)_<br>
-
 Carleton Young _(Fanning Nelson)_<br>
-
 Ralph Reed _(bellboy)_<br>
-
 Paul Genge _(Lt Hagerman)_<br>
-
-Robert B. Williams  
-_(Patrolman Waggoner, at Glen Cove)_<br>
-
+Robert B. Williams  _(Patrolman Waggoner, at Glen Cove)_<br>
 Maudie Prickett _(Elsie, the maid)_<br>
-
 James McCallion _(valet)_<br>
-
 Doris Singh _(Indian girl)_<br>
-
 Sally Fraser _(girl on loudspeaker)_<br>
-
 Maura McGiveney, Susan Whitney _(girl attendants)_<br>
-
 Ned Glass _(ticket agent)_<br>
-
 Howard Negley _(conductor)_<br>
-
 Jesslyn Fax, Lucille Curtis, Anne Anderson _(women)_<br>
-
 Jack Daly _(steward)_<br>
-
 Tol Avery, Tom Greenway _(detectives)_<br>
-
 Ernest Anderson _(porter)_<br>
-
 Malcolm Atterbury _(man on the road)_<br>
-
 Andy Albin _(farmer)_<br>
-
 Carl Milletaire _(clerk)_<br>
-
 Olan Soulé _(assistant auctioneer)_<br>
-
 Helen Spring _(woman at auction)_<br>
-
 John Damler, Len Hendry _(police lieutenants)_<br>
-
 Patricia Cutts _(bit woman)_<br>
-
 Hugh Pryor, Charles Postal _(bit men)_<br>
-
 Taggart Casey _(man with razor)_<br>
-
 Bobby Johnson _(waiter)_<br>
-
 Wilson Wood _(photographer)_<br>
-
 Bill Catching _(attendant)_<br>
-
 Dale Van Sickle _(ranger)_<br>
-
 Frank Marlowe _(Dakota taxi driver)_<br>
-
 Harry Strang _(assistant conductor)_<br>
-
 Alfred Hitchcock _(man who misses bus)_<br>
-
 Sara Berner _(telephone operator)_<br>
-
 Charles C. Welch<br>
 
 USA 1959©<br>
-
 136 mins
 
 *Uncredited<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDY1Mjg2N119
+eyJoaXN0b3J5IjpbLTE5NjMzODY5MDNdfQ==
 -->
