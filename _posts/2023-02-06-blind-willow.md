@@ -59,6 +59,24 @@ France/Luxembourg/Canada/Netherlands 2022
 108 mins  
 
 Courtesy of Modern Films  
+<br>
+
+**IN PERSON & PREVIEWS**  
+**UK Premiere: Blind Willow, Sleeping Woman + intro with director Pierre Földes**  
+Mon 6 Feb 20:45  
+**Preview: Joyland +Q&A**  
+Wed 8 Feb 18:00  
+**Spike Lee in Conversation**  
+Mon 13 Feb 18:15  
+**Summer of Sam + Introduction by Spike Lee**  
+Mon 13 Feb 20:35  
+**BFI Future Film Festival**  
+16-19 Feb  
+**Preview: Subject + Q&A with director Camilla Hall and contributor Margaret Ratliff**  
+Fri 17 Feb 18:10  
+**Preview: The Strays + Q&A**  
+Mon 20 Feb 18:15  
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzOTM1NDA2LC0zMTQxNzk3NzFdfQ==
+eyJoaXN0b3J5IjpbLTExOTg1NDU5NTMsLTMxNDE3OTc3MV19
 -->
