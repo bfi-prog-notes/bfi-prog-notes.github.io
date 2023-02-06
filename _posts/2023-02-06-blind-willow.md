@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Blind Willow, Sleeping Woman
+published: true
+date: 2023-02-06
+readtime: true
+categories: ['PREVIEW']
+tags: [Drama]
+metadata: 'Poland/Italy 2022, 88 mins<br> Director: Jerzy Skolimowski'
+pdf: '2023-02-03-eo.pdf'
+---
 
 _+ intro with director Pierre Földes_
 
@@ -7,9 +16,7 @@ Based on a collection of short stories by Haruki Murakami, this animated feature
 **bfi.org.uk**  
 
 Tokyo, a few days after the 2011 earthquake and tsunami. Kyoko suddenly leaves her husband after spending five days in a row glued to unfolding earthquake footage on TV. Her helpless husband Komura takes a week’s leave from work and heads north to deliver a box and its unknown content to two young women. His colleague Katagiri, a simple debt collector by profession and an awkward loner in life, returns home one evening to find a two-meter-tall frog asking for his help to save Tokyo from an imminent earthquake. Through memories, dreams and fantasies, Kyoko, Komura and Katagiri, influenced by their visions of earthquakes – which are manifested as evil willow trees, giant earthworms, secret vows, mysterious boxes and a dark, endless corridor – attempt to rediscover their true selves.  
-**Production notes  
-<![if !supportLineBreakNewLine]>  
-<![endif]>**
+**Production notes**  
 
 The work of novelist Haruki Murakami seems to be finding new life on screen with increasing frequency. Lee Changdong’s _Burning_ (2018) revelled in the ambiguity of its source text through the alluring but intentionally opaque performances of its actors, while Ryūsuke Hamaguchi expanded one Murakami short story (and drew from several others) for his three-hour film _Drive My Car_ (2021). Despite operating in a different medium with different narrative priorities, director Pierre Földes takes a not dissimilar approach to Hamaguchi, interlinking separate short stories from Murakami’s collection _Blind Willow, Sleeping Woman_ and folding them into loosely connected vignettes.
 
@@ -17,43 +24,41 @@ Set in Tokyo in 2011, in the wake of the Tōhoku earthquake and tsunami but befo
 
 Földes flirts with psychological horror as he conjures different textures, flashbacks bringing with them changes in the style of lines and colouring. The film feels malleable and unbound from reality – we see one man drawn through swirling scribbles, the lines then detaching themselves from him and turning into the crest of a wave. But the distinctive animation lends realism to the volume and movement of the characters’ bodies.
 
-Though some of the animation can seem a little rough, for the most part it’s gorgeous, the beautiful layouts and compositions filled with fascinating detail. Translucent lines and rough crosshatched textures throughout the background art give the film both tactility and a touch of ephemerality. It’s a perfect embodiment of its combination of realist elements and strange visions, historical concerns and waking dreams. The film’s directness and its dry sense of humour – brought out most of all through the editing and tongue-in-cheek superimpositions – make _Blind Willow, Sleeping Woman_ an invigorating translation of writing to the animated form.
+Though some of the animation can seem a little rough, for the most part it’s gorgeous, the beautiful layouts and compositions filled with fascinating detail. Translucent lines and rough crosshatched textures throughout the background art give the film both tactility and a touch of ephemerality. It’s a perfect embodiment of its combination of realist elements and strange visions, historical concerns and waking dreams. The film’s directness and its dry sense of humour – brought out most of all through the editing and tongue-in-cheek superimpositions – make _Blind Willow, Sleeping Woman_ an invigorating translation of writing to the animated form.  
+**Kambole Campbell, _Sight and Sound_, bfi.org.uk/sight-and-sound, 19 September 2022**  
 
-**Kambole Campbell, _Sight and Sound_, bfi.org.uk/sight-and-sound, 19 September 2022**
+**Pierre Földes**  
+A consummate artist, Pierre Földes is a director, composer and painter. Born in the United States to a Hungarian father and British mother, Pierre Földes, nominated for an Oscar and a César winner, grew up in Paris where he studied piano and composition. He began his career in New York composing music for film and advertising before moving to Europe. Fascinated by drawing and animation, he has written and directed several short films by adapting a production pipeline to his idea of film. He has thus developed his own unique and personal style and technique.  
 
-**Pierre Földes**
+**BLIND WILLOW, SLEEPING WOMAN**  
+_Directed by:_  Pierre Földes  
+_Production Companies:_ Miyu Productions, Cinéma Defacto, Doghouse Films, micro_scope, Productions L’Unité Centrale, Studio MA  
+_Produced by:_ Pierre Baussaron, Tom Dercourt, Emmanuel-Alain Raynal, Pierre Urbain, David Mouraire, Luc Déry, Kim McCraw, Gaililé Marion-Gauvin, Antoine Coutant, Pierre Földes, Josst de Vries  
+_Line Producer:_ Tanguy Olivier  
+_Written by:_ Pierre Földes  
+_Based on short stories of:_ Haruki Murakami  
+_Production Designer:_ Pierre Földes  
+_Cinematography:_ Etienne Bollard  
+_Edited by:_ Kara Blake  
+_Artistic Direction:_ Julien De Man  
+_Animation Supervisor:_ Julien Maret  
+_Composition Supervisor:_ Mathieu Tremblay  
+_Original Music:_  Pierre Földes  
+_Sound Design:_ Matthew Földes  
+_Mixing:_ Michel Schillings  
 
-A consummate artist, Pierre Földes is a director, composer and painter. Born in the United States to a Hungarian father and British mother, Pierre Földes, nominated for an Oscar and a César winner, grew up in Paris where he studied piano and composition. He began his career in New York composing music for film and advertising before moving to Europe. Fascinated by drawing and animation, he has written and directed several short films by adapting a production pipeline to his idea of film. He has thus developed his own unique and personal style and technique.
+**Voice cast**  
+Ryan Bommarito _(Komura)_  
+Shoshana Wilder _(Kyoko)_  
+Marcello Arroyo _(Katagiri)_  
+Scott Humphrey _(Sasaki)_  
+Arthur Holden _(Mr Suzuki)_  
+Pierre Földes _(Frog)_  
 
-**BLIND WILLOW, SLEEPING WOMAN**
-_Directed by:_  Pierre Földes
-_Production Companies:_ Miyu Productions, Cinéma Defacto, Doghouse Films, micro_scope, Productions L’Unité Centrale, Studio MA
-_Produced by:_ Pierre Baussaron, Tom Dercourt, Emmanuel-Alain Raynal, Pierre Urbain, David Mouraire, Luc Déry, Kim McCraw, Gaililé Marion-Gauvin, Antoine Coutant, Pierre Földes, Josst de Vries
-_Line Producer:_ Tanguy Olivier
-_Written by:_ Pierre Földes
-_Based on short stories of:_ Haruki Murakami
-_Production Designer:_ Pierre Földes
-_Cinematography:_ Etienne Bollard
-_Edited by:_ Kara Blake
-_Artistic Direction:_ Julien De Man
-_Animation Supervisor:_ Julien Maret
-_Composition Supervisor:_ Mathieu Tremblay
-_Original Music:_  Pierre Földes
-_Sound Design:_ Matthew Földes
-_Mixing:_ Michel Schillings
+France/Luxembourg/Canada/Netherlands 2022  
+108 mins  
 
-**Voice cast**
-Ryan Bommarito _(Komura)_
-Shoshana Wilder _(Kyoko)_
-Marcello Arroyo _(Katagiri)_
-Scott Humphrey _(Sasaki)_
-Arthur Holden _(Mr Suzuki)_
-Pierre Földes _(Frog)_
-
-France/Luxembourg/Canada/Netherlands 2022
-108 mins
-
-Courtesy of Modern Films
+Courtesy of Modern Films  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTg0MzQxNl19
+eyJoaXN0b3J5IjpbLTM2Njg3NzA0XX0=
 -->
