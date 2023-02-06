@@ -6,7 +6,7 @@ date: 2023-02-06
 readtime: true
 categories: ['PREVIEW']
 tags: [Animation, Drama]
-metadata: '< France/Luxembourg/Canada/Netherlands 2022, 108 mins<br> Director: Pierre Földes'
+metadata: 'France/Luxembourg/Canada/Netherlands 2022, 108 mins<br> Director: Pierre Földes'
 pdf: '2023-02-06-blind-willow-sleeping-woman.pdf'
 ---
 
@@ -60,5 +60,5 @@ France/Luxembourg/Canada/Netherlands 2022
 
 Courtesy of Modern Films  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTk1NTUwMiwtMzE0MTc5NzcxXX0=
+eyJoaXN0b3J5IjpbMzQzOTM1NDA2LC0zMTQxNzk3NzFdfQ==
 -->
