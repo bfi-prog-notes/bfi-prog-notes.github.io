@@ -4,8 +4,8 @@ title: Blind Willow, Sleeping Woman
 published: true
 date: 2023-02-06
 readtime: true
-categories: ['PREVIEW']
-tags: [Drama]
+categories: ['PREVIEWS']
+tags: [Animation, Drama]
 metadata: 'Poland/Italy 2022, 88 mins<br> Director: Jerzy Skolimowski'
 pdf: '2023-02-03-eo.pdf'
 ---
@@ -60,5 +60,5 @@ France/Luxembourg/Canada/Netherlands 2022
 
 Courtesy of Modern Films  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Njg3NzA0XX0=
+eyJoaXN0b3J5IjpbLTMxNDE3OTc3MV19
 -->
