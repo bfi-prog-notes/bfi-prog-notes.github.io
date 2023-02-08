@@ -7,10 +7,10 @@ readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Documentary]
 metadata: 'Australia 2021, 56 mins<br> Director: Bruce Gladwin'
-pdf: '2023-02--hidden-fortress-relaxed.pdf'
+pdf: '2023-02-08-shadow.pdf'
 ---
 
-<img style="float: left;" src="/img/hidden-fortress-02.jpeg"><br><br>
+<img style="float: left;" src="/img/Shadow.png"><br><br>
 
 
 _Introduced by Clare Baines (Disability Equality Lead, BFI) and Matthew Hellett, Lead Programmer, Oska Bright Film Festival._
@@ -38,6 +38,7 @@ Australia 2021
 SHADOW is part of  
 YOU BEAUTIES:  NEW AUSTRALIAN CINEMA  
 screening also on 22 February  
+<br>
 
 **BUSTING THE BIAS at BFI Southbank is a celebration of Disability filmmaking, intersectionality, and community-led action towards an inclusive film industry.**
 
@@ -101,5 +102,5 @@ those in the neurodiverse community, their assistants and carers.
 • Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTIzOTQ1N119
+eyJoaXN0b3J5IjpbLTE3MTk2NDQ4NTddfQ==
 -->
