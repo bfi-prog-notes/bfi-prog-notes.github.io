@@ -1,6 +1,17 @@
+---
+layout: post
+title: Shadow (Relaxed Screening)
+published: true
+date: 2023-02-08
+readtime: true
+categories: ['RELAXED SCREENING']
+tags: [Documentary]
+metadata: 'Australia 2021, 56 mins<br> Director: Bruce Gladwin'
+pdf: '2023-02--hidden-fortress-relaxed.pdf'
+---
 
+<img style="float: left;" src="/img/hidden-fortress-02.jpeg"><br><br>
 
-<![endif]-->
 
 _Introduced by Clare Baines (Disability Equality Lead, BFI) and Matthew Hellett, Lead Programmer, Oska Bright Film Festival._
 
@@ -90,5 +101,5 @@ those in the neurodiverse community, their assistants and carers.
 • Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDQ5MzI2Ml19
+eyJoaXN0b3J5IjpbMTM5OTIzOTQ1N119
 -->
