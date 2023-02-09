@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Edward Hopper
+published: true
+date: 2023-02-09
+readtime: true
+categories: ['RELAXED SCREENING']
+tags: [Documentary]
+metadata: 'Australia 2021, 56 mins<br> Director: Bruce Gladwin'
+pdf: '2023-02-08-shadow.pdf'
+---
 
 _+ intro by Steven Foxon, Curator BFI National Archive, producer Patsy Nightingale and director of photography Patrick Duval_
 
@@ -90,5 +99,5 @@ Sun 26 Feb 10:30-16:30
 **Relaxed Screening: Throne of Blood (Kumonosu-jô) + intro and discussion**  
 Mon 27 Feb 18:15  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQzNTY4LC0xMTAxNzgzMjEwXX0=
+eyJoaXN0b3J5IjpbLTE0MDIzODI5OSwtMTEwMTc4MzIxMF19
 -->
