@@ -4,10 +4,10 @@ title: Edward Hopper
 published: true
 date: 2023-02-09
 readtime: true
-categories: ['RELAXED SCREENING']
+categories: ['ART IN THE MAKING']
 tags: [Documentary]
-metadata: 'Australia 2021, 56 mins<br> Director: Bruce Gladwin'
-pdf: '2023-02-08-shadow.pdf'
+metadata: 'UK 1981, 47 mins<br> Director: Ron Peck'
+pdf: '2023-02-09-edward-hopper.pdf'
 ---
 
 _+ intro by Steven Foxon, Curator BFI National Archive, producer Patsy Nightingale and director of photography Patrick Duval_
@@ -21,8 +21,7 @@ The film’s essential interest is the series of analogues it proposes, and for 
 
 Peck – whose preoccupation with Hopper is attested by his borrowing of the title from one of the artist’s best known works, _Nighthawks_, for the feature he co-directed with Paul Hallam – then proceeds by way of the contention that Hopper’s paintings often resemble stage or film sets, with people placed like actors, and items like cigarettes and coffee cups utilised in the manner of props, to assert the notion of a ‘fictionalised’ vision. This in turn leads to the invocation of cinematic fiction – Hopper was, we learn, an inveterate moviegoer – and to the submission in evidence of assorted movie stills. Both Nicholas Ray’s _They Live by Night_ and _Party Girl_ yield startlingly Hopper-like images, though it is a pity that – whether unavoidably or not – the latter should be represented, as is Minnelli’s _Home from the Hill_, only in black-and-white reduction. (Moreover, at the risk of appearing pedantic, it might be objected that the use of a still of the newshounds’ bar in Lang’s _While the City Sleeps_ is a bit of a cheat, since despite an isolated visual resemblance, the atmospheric context is appreciably different from Hopper.)
 
-Despite a few loose ends, this film would have made an admirable introduction to the Hopper retrospective which recently visited the Hayward Gallery. The circumstantial snag is that it has, rather, become a postscript to that event; as such, however, it is well worth having.  
-
+Despite a few loose ends, this film would have made an admirable introduction to the Hopper retrospective which recently visited the Hayward Gallery. The circumstantial snag is that it has, rather, become a postscript to that event; as such, however, it is well worth having.   
 **Tim Pulleine, _Monthly Film Bulletin_, April 1981**  
 
 **Night Works**  
@@ -99,5 +98,5 @@ Sun 26 Feb 10:30-16:30
 **Relaxed Screening: Throne of Blood (Kumonosu-jô) + intro and discussion**  
 Mon 27 Feb 18:15  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDIzODI5OSwtMTEwMTc4MzIxMF19
+eyJoaXN0b3J5IjpbMTA1NjA5ODc2LC0xMTAxNzgzMjEwXX0=
 -->
