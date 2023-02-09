@@ -15,13 +15,10 @@ Fassbinder in general uses décor (like the plushness of the Douglas Sirk movies
 **Richard Combs, _Monthly Film Bulletin_, November 1974**
 <br><br>
 
-**FEAR EATS THE SOUL (ANGST ESSEN SEELE AUF)**
-
+**FEAR EATS THE SOUL (ANGST ESSEN SEELE AUF)**  
 _A film by:_ Rainer Werner Fassbinder  
 _Production Company:_ Tango-Film (Munich)  
-_Producers:_ Michael Fengler,
-
-Rainer Werner Fassbinder *  
+_Producers:_ Michael Fengler, Rainer Werner Fassbinder *  
 _Unit Manager:_ Christian Hohoff  
 _Assistant Director:_ Rainer Langhans  
 _Screenplay:_ Rainer Werner Fassbinder *  
@@ -33,8 +30,8 @@ _Editor:_ Thea Eymèsz *
 _Art Director:_ Rainer Werner Fassbinder *  
 _Make-up:_ Helga Kempke  
 _Sound:_ Fritz-Müller Scherz  
-_Cast:_
 
+**Cast**  
 Brigitte Mira _(Emmi Kurowski)_  
 El Hedi ben Salem _(Ali)_  
 Irm Hermann _(Krista)_  
@@ -54,16 +51,15 @@ Karl Scheydt _(Albert)_
 Peter Moland _(chief garage mechanic)_  
 Barbara Valentin _(Barbara, landlady)_  
 Lilo Pempeit _(Mrs Münchmeyer)_ *  
-Rainer Werner Fassbinder  
-_(Eugen, Krista’s husband)_ *  
+Rainer Werner Fassbinder  _(Eugen, Krista’s husband)_ *  
 Helga Ballhaus _(Yolanda)_ *  
 Kurt Raab _(foreman)_ *  
 Elisabeth Bertram _(Frieda)_ *  
-West Germany 1974
 
+West Germany 1974  
 93 mins
 
-* Uncredited
+*Uncredited<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDU5NTM4M119
+eyJoaXN0b3J5IjpbNDUyNzgxOTUxXX0=
 -->
