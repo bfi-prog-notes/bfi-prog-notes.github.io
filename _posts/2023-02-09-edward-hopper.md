@@ -31,11 +31,11 @@ _Sponsor_:  Arts Council of Great Britain
 _Executive Producer_ : Rodney Wilson  
 _Producer/production Co-ordinator_: Patsy Nightingale  
 _Production Manager_:  Robert Epstein  
-_Location Manager_ : John Wright  
-_Production Assistant__:_ Ilene Sunshine  
-_Script__:_ Ron Peck  
-_Photography__:_ Patrick Duval  
-_Camera Operator__:_ Derek Little  
+_Location Manager_: John Wright  
+_Production Assistant_:  Ilene Sunshine  
+_Script_: Ron Peck  
+_Photography_: Patrick Duval  
+_Camera Operator_: Derek Little  
 _Editor__:_ Wilfried Thust, Margaret Dickinson  
 _Assistant Editor__:_ Joy Chamberlain  
 _Titles__:_ Frameline  
@@ -95,5 +95,5 @@ Sun 26 Feb 10:30-16:30
 **Relaxed Screening: Throne of Blood (Kumonosu-jô) + intro and discussion**
 Mon 27 Feb 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxMjE0MF19
+eyJoaXN0b3J5IjpbLTExMDE3ODMyMTBdfQ==
 -->
