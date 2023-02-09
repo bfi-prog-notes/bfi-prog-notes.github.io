@@ -23,8 +23,7 @@ Despite a few loose ends, this film would have made an admirable introduction to
 
 One of a series of films combining music and images: an office cleaner, and what happens to some of the people who work in the building.
 
-**EDWARD HOPPER**
-
+**EDWARD HOPPER**  
 _Director_ : Ron Peck  
 _Production Company_: Four Corners Films  
 _Sponsor_:  Arts Council of Great Britain  
@@ -95,5 +94,5 @@ Sun 26 Feb 10:30-16:30
 **Relaxed Screening: Throne of Blood (Kumonosu-jô) + intro and discussion**
 Mon 27 Feb 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE3ODMyMTBdfQ==
+eyJoaXN0b3J5IjpbLTYwMjYzMTg5NiwtMTEwMTc4MzIxMF19
 -->
