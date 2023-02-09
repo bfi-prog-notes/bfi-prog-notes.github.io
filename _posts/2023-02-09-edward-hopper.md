@@ -43,62 +43,57 @@ _Music__:_ Ron Peck, Gail Levin, David Graham Ellis
 _Sound Recording__:_ Derek Williams, Roger Ollerhead  
 _Sound Re-recording__:_ Richard King
 
-**With**
-
+**With**  
 Ron Peck  
-Gail Levin
+Gail Levin  
 
-UK 1981
+UK 1981  
+47 mins  
 
-47 mins
-
-**NIGHT WORK**
-
+**NIGHT WORK**  
 _Director:_ Miranda Pennell
-
 _©:_ BBC, Arts Council of England
-
 An _Illuminations_ production
-
 _For_ BBC _and the_ Arts Council of England
-
 _Executive Producers:_ Peter Maniura, Rodney Wilson
-
 _Producer:_ Terry Braun
-
 _Editor:_ Budge Tremlett
-
 _On-line Editor:_ Darren Jonusas
-
 _Production Designer:_ Charlotte Watts
-
 _Art Director:_ Gavin Fitch
-
 _Costume Design:_ Annie Symons
-
 _Make-up and Hair:_ Thelma Matthews,Amanda Wallburton
-
 _Sound Composer:_ Barry Adamson
-
 _Sound Recordist:_ Ian MacPherson
-
 _Dubbing Mixer:_ Steve Bray
 
-**Cast**
+**Cast**  
+Andree Evans _(cleaning lady)_  
+David Gillies _(office clerk)_  
+Garard Greed _(company director)_  
+Alison Lintott _(secretary)_  
+Denise Stephenson _(career woman)_  
 
-Andree Evans _(cleaning lady)_
+UK 1998©  
+14 mins  
 
-David Gillies _(office clerk)_
-
-Garard Greed _(company director)_
-
-Alison Lintott _(secretary)_
-
-Denise Stephenson _(career woman)_
-
-UK 1998©
-
-14 mins
+**REGULAR PROGRAMME**  
+**African Odysseys: Free Renty: Lanier v. Harvard + intro and Q&A**
+Sat 11 Feb 14:00
+**Silent Cinema: Neil Brand Presents Laurel and Hardy**
+Sun 12 Feb 16:00
+**Woman with a Movie Camera: Galentine’s Day: The Parent Trap 25th Anniversary**
+Mon 13 Feb 20:15
+**Projecting the Archive: I’ll Get You for This (aka Lucky Nick Cain) + intro by Rosie Taylor, Curatorial Archivist, BFI National Archive**
+Tue 21 Feb 18:20
+**Experimenta: Right of Way + Q&A with artists Dan Guthrie, Ufuoma Essi and Arjuna Neuman, hosted by Jonathan Ali**
+Thu 23 Feb 18:10
+**Film Wallahs: Kekee Manzil: House of Art**
+Fri 24 Feb 20:40
+**Course: Filmmaking for Artists: Beginners Filmmaking Workshop**
+Sun 26 Feb 10:30-16:30
+**Relaxed Screening: Throne of Blood (Kumonosu-jô) + intro and discussion**
+Mon 27 Feb 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzg1Njk2XX0=
+eyJoaXN0b3J5IjpbNDUwMTc0NDI4XX0=
 -->
