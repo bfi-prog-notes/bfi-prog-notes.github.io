@@ -25,13 +25,13 @@ One of a series of films combining music and images: an office cleaner, and what
 
 **EDWARD HOPPER**
 
-_Director__:_ Ron Peck  
-_Production Company__:_ Four Corners Films  
-_Sponsor__:_ Arts Council of Great Britain  
-_Executive Producer__:_ Rodney Wilson  
-_Producer/production Co-ordinator__:_ Patsy Nightingale  
-_Production Manager__:_ Robert Epstein  
-_Location Manager__:_ John Wright  
+_Director_ : Ron Peck  
+_Production Company_: Four Corners Films  
+_Sponsor_:  Arts Council of Great Britain  
+_Executive Producer_ : Rodney Wilson  
+_Producer/production Co-ordinator_: Patsy Nightingale  
+_Production Manager_:  Robert Epstein  
+_Location Manager_ : John Wright  
 _Production Assistant__:_ Ilene Sunshine  
 _Script__:_ Ron Peck  
 _Photography__:_ Patrick Duval  
@@ -41,7 +41,7 @@ _Assistant Editor__:_ Joy Chamberlain
 _Titles__:_ Frameline  
 _Music__:_ Ron Peck, Gail Levin, David Graham Ellis  
 _Sound Recording__:_ Derek Williams, Roger Ollerhead  
-_Sound Re-recording__:_ Richard King
+_Sound Re-recording_: Richard King  
 
 **With**  
 Ron Peck  
@@ -95,5 +95,5 @@ Sun 26 Feb 10:30-16:30
 **Relaxed Screening: Throne of Blood (Kumonosu-jô) + intro and discussion**
 Mon 27 Feb 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwMTc0NDI4XX0=
+eyJoaXN0b3J5IjpbNzkxMjE0MF19
 -->
