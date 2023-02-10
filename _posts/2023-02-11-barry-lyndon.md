@@ -113,21 +113,18 @@ Godfrey Quigley _(Captain Grogan)_
 Leonard Rossiter _(Captain Quin)_  
 Philip Stone _(Graham)_  
 Leon Vitali _(Lord Bullingdon)_  
-John Bindon, Roger Booth, Billy Boyle,  Jonathan Cecil, Geoffrey Chater, Anthony Dawes, Patrick Dawson, Bernard Hepton, Anthony Herrick,  Barry Jackson, Wolf Kahler, Patrick Laffan,  Hans Meyer, Ferdy Mayne, David Morley,  Liam Redmond, Pat Roach, Frederick Schiller, George Sewell, Anthony Sharp, John Sharp,  Roy Spencer, John Sullivan, Harry Towb
-
-Peter Cellier _(second to Lord Bullingdon)_
-
+John Bindon, Roger Booth, Billy Boyle,  Jonathan Cecil, Geoffrey Chater, Anthony Dawes, Patrick Dawson, Bernard Hepton, Anthony Herrick,  Barry Jackson, Wolf Kahler, Patrick Laffan,  Hans Meyer, Ferdy Mayne, David Morley,  Liam Redmond, Pat Roach, Frederick Schiller, George Sewell, Anthony Sharp, John Sharp,  Roy Spencer, John Sullivan, Harry Towb  
+Peter Cellier _(second to Lord Bullingdon)_  
 Michael Hordern _(narrator)_  
 Dominic Savage _(young Bullingdon)_ *
 
-USA-UK 1975©
-
+USA-UK 1975©  
 185 mins
 
-* Uncredited
+*Uncredited
 
-Please note, both screenings will now have a  
-brief interval of 10 minutes
+Please note, both screenings will now have a  brief interval of 10 minutes
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwNDIyOTY3XX0=
+eyJoaXN0b3J5IjpbLTI2NDgwNDgxM119
 -->
