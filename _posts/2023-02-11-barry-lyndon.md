@@ -22,8 +22,7 @@ Even the celebrated epilogue is a lift from an early passage in the novel in whi
 **Kim Newman, _Sight and Sound_, March 2009**
 <br><br>
 
-**BARRY LYNDON**
-
+**BARRY LYNDON**  
 _Directed by_: Stanley Kubrick  
 ©: Warner Bros Inc.  
 _Presented by_: Warner Bros.  
@@ -33,25 +32,20 @@ _Executive Producer_: Jan Harlan
 _Produced by_: Stanley Kubrick  
 _Associate Producer_: Bernard Williams  
 _Unit Managers_: Malcolm Christopher, Don Geraghty  
-_Production Managers_: Douglas Twiddy,  
-Terence Clegg  
+_Production Managers_: Douglas Twiddy,  Terence Clegg  
 _Production Manager (Germany)_: Rudolf Hertzog  
 _Production Accountant_: John Trehy  
 _Assistant Accountants_: Ron Bareham, Carolyn Hall  
-_Location Liaisons_: Arthur Morgan,  
-Colonel William O’Kelly  
+_Location Liaisons_: Arthur Morgan,  Colonel William O’Kelly  
 _Assistant to the Producer_: Andros Epaminondas  
 _Producer’s Secretary_: Margaret Adams  
-_Production Secretaries_: Loretta Ordewer,  
-Pat Pennelegion  
-_Assistant Directors_: Brian Cook,  
-David Tomblin, Michael Stevenson  
+_Production Secretaries_: Loretta Ordewer,  Pat Pennelegion  
+_Assistant Directors_: Brian Cook,  David Tomblin, Michael Stevenson  
 _2nd Assistant Director_: Gary White *  
 _Continuity_: June Randall  
 _Casting_: James Liggat  
 _Written for the Screen by_: Stanley Kubrick  
-_Based on the novel by_:  
-William Makepeace Thackeray  
+_Based on the novel by_:  William Makepeace Thackeray  
 _Photographed by_: John Alcott  
 _2nd Unit Cameraman_: Patrick Carey  
 _Colour Grading_: Dave Dowler  
@@ -73,19 +67,15 @@ _Property Man_: Terry Wells
 _Property Buyer_: Ken Dolbear  
 _Construction Manager_: Joe Lee  
 _Painter_: Bill Beecham  
-_Drapesmen_: Richard Dicker, Cleo Nethersole,  
-Chris Seddon  
+_Drapesmen_: Richard Dicker, Cleo Nethersole,  Chris Seddon  
 _Costumes Designed by_: Ulla-Britt Søderlund, Milena Canonero  
 _Costume Makers_: Gary Dahms, Yvonne Dahms, Jack Edwards, Judy Lloyd-Rogers, Willy Rothery  
 _Hats_: Francis Wilson  
 _Wardrobe Supervisor_: Ron Beck  
-_Wardrobe Assistants_: Gloria Barnes,  
-Norman Dickens, Colin Wilson  
-_Make-up_: Ann Brodie, Alan Boyle, Barbara Daly,  
-Jill Carpenter, Yvonne Coppard  
+_Wardrobe Assistants_: Gloria Barnes,  Norman Dickens, Colin Wilson  
+_Make-up_: Ann Brodie, Alan Boyle, Barbara Daly,  Jill Carpenter, Yvonne Coppard  
 _Hairstyles/Wigs_: Leonard  
-_Hairdressing_: Susie Hill, Joyce James,  
-Maud Onslow, Daphne Vollmer  
+_Hairdressing_: Susie Hill, Joyce James,  Maud Onslow, Daphne Vollmer  
 _[Music] from works by_: Johann Sebastian Bach, Frederick The Great, Georg Friedrich Handel, Wolfgang Amadeus Mozart, Giovanni Paisiello, Franz Schubert, Antonio Vivaldi  
 _Irish Traditional Music by_: The Chieftains  
 _Music Conducted by_: Leonard Rosenman  
@@ -99,17 +89,14 @@ _Stunt Arranger_: Roy Scammell
 _Gambling Adviser_: David Berglas  
 _Historical Adviser_: John Mollo  
 _Fencing Coach_: Bob Anderson  
-_Candlelight Photography Lenses Made by_:  
-Carl Zeiss  
-_Lenses Adapted for Cinematography by_:  
-Ed Di Giulio  
+_Candlelight Photography Lenses Made by_:  Carl Zeiss  
+_Lenses Adapted for Cinematography by_:  Ed Di Giulio  
 _Special Sound Assistance_: Dolby Laboratories  
 _Armourer_: Bill Aylmore  
 _Horsemaster_: George Mossman  
 _Studio_: EMI-Elstree Studios
 
-_Cast:_
-
+**Cast**  
 Ryan O’Neal _(Redmond Barry, ‘Barry Lyndon’)_  
 Marisa Berenson _(Lady Lyndon)_  
 Patrick Magee _(Chevalier de Balibari)_  
@@ -126,12 +113,7 @@ Godfrey Quigley _(Captain Grogan)_
 Leonard Rossiter _(Captain Quin)_  
 Philip Stone _(Graham)_  
 Leon Vitali _(Lord Bullingdon)_  
-John Bindon, Roger Booth, Billy Boyle,  
-Jonathan Cecil, Geoffrey Chater, Anthony Dawes, Patrick Dawson, Bernard Hepton, Anthony Herrick,  
-Barry Jackson, Wolf Kahler, Patrick Laffan,  
-Hans Meyer, Ferdy Mayne, David Morley,  
-Liam Redmond, Pat Roach, Frederick Schiller, George Sewell, Anthony Sharp, John Sharp,  
-Roy Spencer, John Sullivan, Harry Towb
+John Bindon, Roger Booth, Billy Boyle,  Jonathan Cecil, Geoffrey Chater, Anthony Dawes, Patrick Dawson, Bernard Hepton, Anthony Herrick,  Barry Jackson, Wolf Kahler, Patrick Laffan,  Hans Meyer, Ferdy Mayne, David Morley,  Liam Redmond, Pat Roach, Frederick Schiller, George Sewell, Anthony Sharp, John Sharp,  Roy Spencer, John Sullivan, Harry Towb
 
 Peter Cellier _(second to Lord Bullingdon)_
 
@@ -147,5 +129,5 @@ USA-UK 1975©
 Please note, both screenings will now have a  
 brief interval of 10 minutes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzg5MjkzNjNdfQ==
+eyJoaXN0b3J5IjpbNDYwNDIyOTY3XX0=
 -->
