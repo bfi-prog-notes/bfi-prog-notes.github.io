@@ -42,169 +42,96 @@ I recognised that because I’d been to college, I’d become ‘different’. I
 <br><br>
 
 **KILLER OF SHEEP**<br>
-
 _Director:_ Charles Burnett<br>
-
 _Production Company:_ Charles Burnett Productions<br>
-
 _Producer:_ Charles Burnett<br>
-
 _Screenplay:_ Charles Burnett<br>
-
 _Director of Photography:_ Charles Burnett<br>
-
 _Editor:_ Charles Burnett<br>
-
 _Sound Recording:_ Charles Bracy<br>
+_Assistants Sound Recording:_ Willie Bell,  Larry Clark, Christine Penick, Andy Burnett<br>
 
-_Assistants Sound Recording:_ Willie Bell,  
-Larry Clark, Christine Penick, Andy Burnett<br>
-
-_Cast:_<br>
-
+**Cast**<br>
 Henry G. Sanders _(Stan)_<br>
-
 Kaycee Moore _(Stan’s wife)_<br>
-
 Charles Bracy _(Bracy)_<br>
-
 Angela Burnett _(Stan’s daughter)_<br>
-
 Eugene Cherry _(Eugene)_<br>
-
 Jack Drummond _(Stan’s son)_<br>
-
 Slim<br>
-
 Delores Farley<br>
-
 Dorothy Stengel<br>
-
 Tobar Mayo<br>
-
 Chris Terrill<br>
-
 Lawrence Pierrott<br>
-
 Russell Miles<br>
-
 Homer Jai<br>
-
 Johnny Smoke<br>
-
 Paul Reed<br>
-
 Steven Lee<br>
-
 Charles Davis<br>
-
 Cecil Davis<br>
-
 Carlos Davis<br>
-
 Dorothy Daniels<br>
-
 Jannie Whitsey<br>
-
 Bill Williams<br>
-
 Calvin Walker<br>
-
 Sammy Kay<br>
-
 Le Roy Seibert<br>
-
 Cassandra Wright<br>
-
 Junior Blaylock<br>
-
 Charles Cody<br>
-
 Sheila Johnson<br>
-
 Lisa Johnson<br>
-
 300 Lbs.<br>
-
 Menorie Davis<br>
-
 Tony Davis<br>
-
 Carl Davis<br>
-
 Roderick Johnson<br>
-
 Crystal Davis<br>
-
 Peggy Corban<br>
-
 Vincent Smith<br>
-
 Susan Williams<br>
-
 Saul Thompson<br>
-
 Pat Johnson<br>
-
 Bobby Cox<br>
-
 Cadillac<br>
-
 Arthur Williams Jr.<br>
-
 Calvin Williams<br>
-
 Alvin Williams<br>
-
 Patricia Williams<br>
-
 Brenda Williams<br>
-
 Bruce Warren<br>
-
 Dian Cherry<br>
-
 Latishia Cherry<br>
-
 Jonathan Cherry<br>
-
 Vernell Cherry<br>
-
 Margrenet Clark<br>
-
 Ronnie Burnett<br>
-
 Regina Batiste<br>
-
 Henry Andrews<br>
-
 Danny Andrews<br>
-
 Marcus Hamlin<br>
-
 Divinoni Hamlin<br>
-
 Ricky Walsh<br>
+Gentry Walsh<br>
+Michael Harp<br>
 
-Gentry Walsh
+Derek Harp<br>
 
-Michael Harp
+Reggie Williams<br>
 
-Derek Harp
+Robert Thompson<br>
 
-Reggie Williams
+Ray Cherry<br>
 
-Robert Thompson
+Verrane ‘Slinky’ Tucker<br>
 
-Ray Cherry
-
-Verrane ‘Slinky’ Tucker
-
-USA 1977
+USA 1977<br>
 
 80 mins
 
-The screening on Sun 12 Feb will be introduced
+The screening on Sun 12 Feb will be introduced<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU2OTUxODddfQ==
+eyJoaXN0b3J5IjpbLTc3MDcyNTAxM119
 -->
