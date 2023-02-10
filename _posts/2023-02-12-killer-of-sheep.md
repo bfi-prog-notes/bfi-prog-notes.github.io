@@ -37,156 +37,154 @@ _Killer of Sheep_ wasn’t meant to be screened outside UCLA. It was a response 
 
 That’s basically what the film is about. It wasn’t showing what Black life is about – it’s only an impression. And I was in a radical mood, right? Now we can smile at that – you’re in college and you think you’re in this revolutionary mix, but when you get into the real world, it’s different. I lived in Watts and I used to go to a barber’s shop. There were these old guys there, from the South, who’d seen a lot of horrendous things and yet were very patriotic. I remember one day it was Paul Robeson’s birthday. And I came in with this, and they were so anti-Paul Robeson, and I said, ‘What? This is a guy who was fighting for you, standing up for your rights.’ And they said, ‘Paul Robeson shouldn’t have said anything about this country.’ So I discovered how conservative a lot of people in Watts were, particularly the older people. The Watts Riots were a young people’s thing, a kids’ thing. I realised everyone wasn’t ripe for revolution – we were in a dream world, trying to get people to march. Civil rights was one thing; but the Panthers was a young thing.
 
-I recognised that because I’d been to college, I’d become ‘different’. I couldn’t be a spokesman for the Black community; everybody has to speak for themselves. So I had to make _Killer of Sheep_ in such a way that it would be about events you would see in the community, but without imposing my views to the extent where it would be moving from one point to another with a resolution at the end. I was trying to show over a period of time what might have happened or what did happen. Because everything in this story did happen – these were all things I witnessed.
+I recognised that because I’d been to college, I’d become ‘different’. I couldn’t be a spokesman for the Black community; everybody has to speak for themselves. So I had to make _Killer of Sheep_ in such a way that it would be about events you would see in the community, but without imposing my views to the extent where it would be moving from one point to another with a resolution at the end. I was trying to show over a period of time what might have happened or what did happen. Because everything in this story did happen – these were all things I witnessed.  
+**Interview by Alex Cox, _Sight and Sound_, July 2002**
+<br><br>
 
-Interview by Alex Cox, _Sight and Sound_, July 2002
+**KILLER OF SHEEP**<br>
 
-<![endif]-->
+_Director:_ Charles Burnett<br>
 
-**KILLER OF SHEEP**
+_Production Company:_ Charles Burnett Productions<br>
 
-_Director:_ Charles Burnett
+_Producer:_ Charles Burnett<br>
 
-_Production Company:_ Charles Burnett Productions
+_Screenplay:_ Charles Burnett<br>
 
-_Producer:_ Charles Burnett
+_Director of Photography:_ Charles Burnett<br>
 
-_Screenplay:_ Charles Burnett
+_Editor:_ Charles Burnett<br>
 
-_Director of Photography:_ Charles Burnett
-
-_Editor:_ Charles Burnett
-
-_Sound Recording:_ Charles Bracy
+_Sound Recording:_ Charles Bracy<br>
 
 _Assistants Sound Recording:_ Willie Bell,  
-Larry Clark, Christine Penick, Andy Burnett
+Larry Clark, Christine Penick, Andy Burnett<br>
 
-_Cast:_
+_Cast:_<br>
 
-Henry G. Sanders _(Stan)_
+Henry G. Sanders _(Stan)_<br>
 
-Kaycee Moore _(Stan’s wife)_
+Kaycee Moore _(Stan’s wife)_<br>
 
-Charles Bracy _(Bracy)_
+Charles Bracy _(Bracy)_<br>
 
-Angela Burnett _(Stan’s daughter)_
+Angela Burnett _(Stan’s daughter)_<br>
 
-Eugene Cherry _(Eugene)_
+Eugene Cherry _(Eugene)_<br>
 
-Jack Drummond _(Stan’s son)_
+Jack Drummond _(Stan’s son)_<br>
 
-Slim
+Slim<br>
 
-Delores Farley
+Delores Farley<br>
 
-Dorothy Stengel
+Dorothy Stengel<br>
 
-Tobar Mayo
+Tobar Mayo<br>
 
-Chris Terrill
+Chris Terrill<br>
 
-Lawrence Pierrott
+Lawrence Pierrott<br>
 
-Russell Miles
+Russell Miles<br>
 
-Homer Jai
+Homer Jai<br>
 
-Johnny Smoke
+Johnny Smoke<br>
 
-Paul Reed
+Paul Reed<br>
 
-Steven Lee
+Steven Lee<br>
 
-Charles Davis
+Charles Davis<br>
 
-Cecil Davis
+Cecil Davis<br>
 
-Carlos Davis
+Carlos Davis<br>
 
-Dorothy Daniels
+Dorothy Daniels<br>
 
-Jannie Whitsey
+Jannie Whitsey<br>
 
-Bill Williams
+Bill Williams<br>
 
-Calvin Walker
+Calvin Walker<br>
 
-Sammy Kay
+Sammy Kay<br>
 
-Le Roy Seibert
+Le Roy Seibert<br>
 
-Cassandra Wright
+Cassandra Wright<br>
 
-Junior Blaylock
+Junior Blaylock<br>
 
-Charles Cody
+Charles Cody<br>
 
-Sheila Johnson
+Sheila Johnson<br>
 
-Lisa Johnson
+Lisa Johnson<br>
 
-300 Lbs.
+300 Lbs.<br>
 
-Menorie Davis
+Menorie Davis<br>
 
-Tony Davis
+Tony Davis<br>
 
-Carl Davis
+Carl Davis<br>
 
-Roderick Johnson
+Roderick Johnson<br>
 
-Crystal Davis
+Crystal Davis<br>
 
-Peggy Corban
+Peggy Corban<br>
 
-Vincent Smith
+Vincent Smith<br>
 
-Susan Williams
+Susan Williams<br>
 
-Saul Thompson
+Saul Thompson<br>
 
-Pat Johnson
+Pat Johnson<br>
 
-Bobby Cox
+Bobby Cox<br>
 
-Cadillac
+Cadillac<br>
 
-Arthur Williams Jr.
+Arthur Williams Jr.<br>
 
-Calvin Williams
+Calvin Williams<br>
 
-Alvin Williams
+Alvin Williams<br>
 
-Patricia Williams
+Patricia Williams<br>
 
-Brenda Williams
+Brenda Williams<br>
 
-Bruce Warren
+Bruce Warren<br>
 
-Dian Cherry
+Dian Cherry<br>
 
-Latishia Cherry
+Latishia Cherry<br>
 
-Jonathan Cherry
+Jonathan Cherry<br>
 
-Vernell Cherry
+Vernell Cherry<br>
 
-Margrenet Clark
+Margrenet Clark<br>
 
-Ronnie Burnett
+Ronnie Burnett<br>
 
-Regina Batiste
+Regina Batiste<br>
 
-Henry Andrews
+Henry Andrews<br>
 
-Danny Andrews
+Danny Andrews<br>
 
-Marcus Hamlin
+Marcus Hamlin<br>
 
-Divinoni Hamlin
+Divinoni Hamlin<br>
 
-Ricky Walsh
+Ricky Walsh<br>
 
 Gentry Walsh
 
@@ -208,5 +206,5 @@ USA 1977
 
 The screening on Sun 12 Feb will be introduced
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjc4NzM4NzRdfQ==
+eyJoaXN0b3J5IjpbLTEyMzU2OTUxODddfQ==
 -->
