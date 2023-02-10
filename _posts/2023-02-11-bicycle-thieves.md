@@ -55,13 +55,11 @@ _Music_: Alessandro Cicognini
 _Music Director_: Willy Ferrero  
 _Sound_: Gino Fiorelli
 
-_uncredited_
-
+_uncredited_  
 _Song_: Giuseppe Cioffi  
 _Boom Operator_: Bruno Brunacci
 
-_Cast:_
-
+**Cast**  
 Lamberto Maggiorani _(Antonio Ricci)_  
 Enzo Staiola _(Bruno Ricci)_  
 Lianella Carell _(Maria Ricci)_  
@@ -74,8 +72,7 @@ Fausto Guerzoni _(amateur actor)_
 Carlo Jachino _(beggar)_  
 Emma Druetti
 
-_uncredited_
-
+_uncredited_  
 Massimo Randisi _(young boy in restaurant)_  
 Ida Bracci Dorati _(the ‘saint’)_  
 Peppino Spadaro _(police sergeant)_  
@@ -89,9 +86,9 @@ Giovanni Corporale
 Eolo Capritti  
 Spoletini
 
-Italy 1948
-
+Italy 1948  
 89 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODgyMzQ0NiwtOTQ3NzU2MTgxXX0=
+eyJoaXN0b3J5IjpbODIxNzM2NzY2LC05NDc3NTYxODFdfQ==
 -->
