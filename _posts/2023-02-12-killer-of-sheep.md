@@ -116,22 +116,16 @@ Divinoni Hamlin<br>
 Ricky Walsh<br>
 Gentry Walsh<br>
 Michael Harp<br>
-
 Derek Harp<br>
-
 Reggie Williams<br>
-
 Robert Thompson<br>
-
 Ray Cherry<br>
-
 Verrane ‘Slinky’ Tucker<br>
 
 USA 1977<br>
-
 80 mins
 
 The screening on Sun 12 Feb will be introduced<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDcyNTAxM119
+eyJoaXN0b3J5IjpbLTU4NTI3MTQ3M119
 -->
