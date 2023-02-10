@@ -26,103 +26,58 @@ Obviously the day is that much nearer when Billy Wilder must film Hirschfeld’s
 <br><br>
 
 **SOME LIKE IT HOT**<br>
-
 _Directed by:_ Billy Wilder<br>
-
 ©_/Presented by:_ Ashton Productions<br>
-
 _Production Company:_ Mirisch Company<br>
-
 _Produced by:_ Billy Wilder<br>
-
-_Associate Producers:_ Doane Harrison,  
-I.A.L. Diamond<br>
-
+_Associate Producers:_ Doane Harrison,  I.A.L. Diamond<br>
 _Production Manager:_ Allen K. Wood<br>
-
 _Assistant Director:_ Sam Nelson<br>
-
 _Script Continuity:_ John Franco<br>
-
 _Screenplay by:_ Billy Wilder, I.A.L. Diamond<br>
-
 _Suggested by a story by:_ R. Thoeren, M. Logan<br>
-
 _Director of Photography:_ Charles Lang Jr<br>
-
 _Special Effects:_ Milt Rice<br>
-
 _Editor:_ Arthur P. Schmidt<br>
-
 _Art Director:_ Ted Haworth<br>
-
 _Set Decorator:_ Edward G. Boyle<br>
-
 _Property:_ Tom Plews<br>
-
 _Miss Monroe’s Gowns:_ Orry-Kelly<br>
-
 _Wardrobe:_ Bert Henrikson<br>
-
 _Make-up Artist:_ Emile LaVigne<br>
+_Hairstyles:_ Alice Monte, Agnes Flanagan<br>
+_Background Score:_ Adolph Deutsch<br>
+_Songs Supervised by:_ Matty Malneck<br>
+_Music Editor:_ Eve Newman<br>
+_Sound:_ Fred Lau<br>
+_Stunt Double:_ Polly Burson *<br>
+_Studio:_ Samuel Goldwyn Studios<br>
 
-_Hairstyles:_ Alice Monte, Agnes Flanagan
+**Cast**<br>
+Marilyn Monroe _(Sugar Kane)_<br>
+Tony Curtis _(Joe, ‘Josephine’)_<br>
+Jack Lemmon _(Jerry, ‘Daphne’)_<br>
+George Raft _(Spats Colombo)_<br>
+Pat O’Brien _(Mulligan)_<br>
+Joe E. Brown _(Osgood Fielding III)_<br>
+Nehemiah Persoff _(Little Bonaparte)_<br>
+Joan Shawlee _(Sweet Sue)_<br>
+Billy Gray _(Sig Poliakoff)_<br>
+George E. Stone _(Toothpick Charlie)_<br>
+Dave Barry _(Beinstock)_<br>
+Mike Mazurki, Harry Wilson _(Spats’ henchmen)_<br>
+Beverly Wills _(Dolores)_<br>
+Barbara Drew _(Nellie)_<br>
+Edward G. Robinson Jr _(Johnny Paradise)_<br>
+Tom Kennedy _(bouncer)_ *<br>
+John Indrisano _(waiter)_ *<br>
+Laurie Mitchell _(trumpet player)_ *<br>
 
-_Background Score:_ Adolph Deutsch
-
-_Songs Supervised by:_ Matty Malneck
-
-_Music Editor:_ Eve Newman
-
-_Sound:_ Fred Lau
-
-_Stunt Double:_ Polly Burson *
-
-_Studio:_ Samuel Goldwyn Studios
-
-_Cast:_
-
-Marilyn Monroe _(Sugar Kane)_
-
-Tony Curtis _(Joe, ‘Josephine’)_
-
-Jack Lemmon _(Jerry, ‘Daphne’)_
-
-George Raft _(Spats Colombo)_
-
-Pat O’Brien _(Mulligan)_
-
-Joe E. Brown _(Osgood Fielding III)_
-
-Nehemiah Persoff _(Little Bonaparte)_
-
-Joan Shawlee _(Sweet Sue)_
-
-Billy Gray _(Sig Poliakoff)_
-
-George E. Stone _(Toothpick Charlie)_
-
-Dave Barry _(Beinstock)_
-
-Mike Mazurki, Harry Wilson _(Spats’ henchmen)_
-
-Beverly Wills _(Dolores)_
-
-Barbara Drew _(Nellie)_
-
-Edward G. Robinson Jr _(Johnny Paradise)_
-
-Tom Kennedy _(bouncer)_ *
-
-John Indrisano _(waiter)_ *
-
-Laurie Mitchell _(trumpet player)_ *
-
-USA 1959©
-
+USA 1959©<br>
 121 mins
 
-* Uncredited
+*Uncredited<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTA0MDMzOF19
+eyJoaXN0b3J5IjpbLTEwODc2MDg3OTZdfQ==
 -->
