@@ -1,7 +1,6 @@
-<![endif]-->
 
-**A contemporary review**
 
+**A contemporary review**  
 Vittorio De Sica’s _Bicycle Thieves_, like Rossellini’s _Paisa_, came to London with a fabulous reputation to live up to, and, in a way, to live down. To _Paisa_, a film made in a state of almost feverish immediacy, the two-year gap between continental and London showings was costly. The crudities inseparable from Rossellini’s hotfoot production methods took on larger proportions, the film’s courageous humanity had lost perhaps some of its heat in retrospect. In any case, the London critics found cause to lower the film’s status. Public audiences had fewer quibbles.
 
 The word ‘great’ was affixed to De Sica’s film by Clair, Becker, Lean, Cavalcanti, Ustinov and numbers of travellers from Italy as long as a year ago, when a percipient British exhibitor could have bought it for a quarter of the price (£5,000) eventually paid. Confronted with a reputed masterpiece that turned out to be a masterpiece, the British Press came fairly clean. There were little murmured warnings about ‘slightness’, and a ludicrous belittlement from a prominent critic who smelled communism – the self-same critic, it will be remembered, who gave Vigo’s _Zéro de Conduite_ ‘zero for achievement and one for trying’. But the reviews, guarded or otherwise, were sufficient to start _Bicycle Thieves_ on what may well be the most successful record of any foreign film in British cinemas.
@@ -12,23 +11,17 @@ At the same time and with the same economy, De Sica draws his family portrait gr
 
 For all that, by some process of magnetism, De Sica has drawn from this boy an unparalleled child performance, it is the man who is his symbol of the human plight. He is the helpless individual, herded with, yet isolated from his fellows, who is caught in a situation. To De Sica and many Italians who have absorbed their Kafka and Sartre, this is the general theme of the century. It might be said to parallel the situation of Italy herself.
 
-The story of that heartrending Sunday search after the stolen bicycle is now too familiar to bear retelling. Its simplicity, far from being evidence of slightness, is the outcome of a discipline that has rigorously set itself against any facile effects of ‘poetry’, but has evolved a complex pattern of mood and incident. The ironies, humours, oddities and heartbreaks of this adventure in the modern jungle connect with the experience of any town-dweller who has been isolated at some time or times by misfortune, great or small, and finds his familiar world suddenly hostile  
-and strange.
+The story of that heartrending Sunday search after the stolen bicycle is now too familiar to bear retelling. Its simplicity, far from being evidence of slightness, is the outcome of a discipline that has rigorously set itself against any facile effects of ‘poetry’, but has evolved a complex pattern of mood and incident. The ironies, humours, oddities and heartbreaks of this adventure in the modern jungle connect with the experience of any town-dweller who has been isolated at some time or times by misfortune, great or small, and finds his familiar world suddenly hostile  and strange.
 
 _Bicycle Thieves_ is the true genre movie, and a superlative exercise in screen realism. Starting with his conception of the man and the boy, De Sica spent a year preparing the film. When it came to shooting, he found he had no need to refer to the script; the whole thing was clear in his mind. The fluid crowd scenes, so beautifully composed and natural, were obtained by roping off the streets with the help of the police, and enlisting the passers-by. The casual effects were all calculated.
 
 De Sica’s lifetime of experience in the theatre and cinema as a leading man and comedian (which led him to abjure the professional actor) may account for his power to compel those flawless performances from his amateurs. But it is a painter’s instinct, probably inherited from his mother, which enriches his films with such comprehensive detail. His detached compassion, his sense of irony, his tolerant understanding, are the fruits of long study of his fellow men in difficult times. Anger does not show in his films, and anger is a concomitant of hope. Yet I do not find the conclusion of _Bicycle Thieves_ wholly pessimistic. Comradeship did to some extent sustain this man and doubtless, one feels, will do so again.
 
-With _Bicycle Thieves_, De Sica considers he has sufficiently exploited ‘realism’ for the moment. An artist who has found his true medium somewhat late in life, he possesses an unpredictable capacity for development. And in Cesare Zavattini he has found the scriptwriter who can play Prévert to his Carné. Their next film (the third of the trilogy which _Shoeshine_ started), will essay a new form – ‘irrealism’.  
-De Sica claims that in this film, _The Poor Disturb_, he will make ‘the unreal seem real, the improbable seem probable, and the impossible seem possible’ without the use of camera tricks. This could mean plain fantasy or, preferably, an experimental attempt to go beyond literal vision in the way Jean Vigo did. But the structure will be realistic, the actors non-professional, and their milieu the slums of Milan.  
-De Sica believes in poor people.
+With _Bicycle Thieves_, De Sica considers he has sufficiently exploited ‘realism’ for the moment. An artist who has found his true medium somewhat late in life, he possesses an unpredictable capacity for development. And in Cesare Zavattini he has found the scriptwriter who can play Prévert to his Carné. Their next film (the third of the trilogy which _Shoeshine_ started), will essay a new form – ‘irrealism’.  De Sica claims that in this film, _The Poor Disturb_, he will make ‘the unreal seem real, the improbable seem probable, and the impossible seem possible’ without the use of camera tricks. This could mean plain fantasy or, preferably, an experimental attempt to go beyond literal vision in the way Jean Vigo did. But the structure will be realistic, the actors non-professional, and their milieu the slums of Milan.  De Sica believes in poor people.  
+**Richard Winnington, _Sight and Sound_, March 1950**
 
-Richard Winnington, _Sight and Sound_, March 1950
-
-**Vittorio De Sica on ‘Bicycle Thieves’**
-
-To see is very useful to an artist. Most men do not want to see, because often the pain of others troubles them. We, on the contrary, want to see. Our one aim is  
-to see.
+**Vittorio De Sica on ‘Bicycle Thieves’**  
+To see is very useful to an artist. Most men do not want to see, because often the pain of others troubles them. We, on the contrary, want to see. Our one aim is  to see.
 
 How many times the workman Antonio passed close to me: I met him in the street, at church, at the door of the cinema while he read·the programme outside. I saw him several times with his son. In Italy men often go out with their sons. Children converse and argue with their fathers, become confidants, and very often become no longer children, but ‘little men’.
 
@@ -40,23 +33,18 @@ Enzo Staiola is the most lovable child in the world. He is good, sensitive, inte
 
 He is a poor child, son of refugees whom I met by accident. His open, communicative face appealed to me at once. His expressions are half comic. His eyes have a soft and melancholy look. With his large nose and chubby cheeks he has the unmistakable look of a child who has known suffering.
 
-I do not think I have to explain why I had no difficulty whatever in directing this child, who my good fortune enabled me to meet by chance in the street.
+I do not think I have to explain why I had no difficulty whatever in directing this child, who my good fortune enabled me to meet by chance in the street.  
+**_Sight and Sound_, March 1950**
+<br><br>
 
-_Sight and Sound_, March 1950
-
-<![endif]-->
-
-**BICYCLE THIEVES (LADRI DI BICICLETTE)**
-
+**BICYCLE THIEVES (LADRI DI BICICLETTE)**  
 _Director_: Vittorio De Sica  
 _Production Company_: Produzioni De Sica S.A.  
 _Production Manager_: Umberto Scarpelli  
 _Production Inspector_: Nino Misiano  
 _Production Secretary_: Roberto Moretti  
-_Assistant Directors_: Gerardo Guerrieri,  
-Luisa Alessandri  
-_Screenplay_: Oreste Biancoli, Suso D’Amico,  
-Vittorio De Sica, Adolfo Franci, Gherardo Gherardi, Gerardo Guerrieri, Cesare Zavattini  
+_Assistant Directors_: Gerardo Guerrieri,  Luisa Alessandri  
+_Screenplay_: Oreste Biancoli, Suso D’Amico,  Vittorio De Sica, Adolfo Franci, Gherardo Gherardi, Gerardo Guerrieri, Cesare Zavattini  
 _Story_: Cesare Zavattini  
 _Based on the novel by_: Luigi Bartolini  
 _Director of Photography_: Carlo Montuori  
@@ -105,5 +93,5 @@ Italy 1948
 
 89 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzY0MDg5MiwtOTQ3NzU2MTgxXX0=
+eyJoaXN0b3J5IjpbMTM2ODgyMzQ0NiwtOTQ3NzU2MTgxXX0=
 -->
