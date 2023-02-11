@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Throne of Blood
+published: true
+date: 2023-02-12
+readtime: true
+categories: ['KUROSAWA']
+tags: [Drama, Period]
+metadata: 'Japan 1957, 110 mins<br> Director: Akira Kurosawa'
+pdf: '2023-02-12-throne-of-blood.pdf'
+---
 
 In 1955, the great Japanese film director Akira Kurosawa and his colleagues began work on an adaptation of Shakespeare’s _Macbeth_, transposing from medieval Scotland to medieval Japan the tale of a heroic warrior tricked into a violent and ultimately futile usurpation by supernatural prophecies and an ambitious wife. Kurosawa had aspired to undertake this project for many years, but his initial effort was delayed by the release of Orson Welles’ 1948 version – which, with its low-budget Halloween atmospherics and its abortive attempt to mimic medieval Scottish pronunciation, was neither a critical nor a commercial success.
 
@@ -145,5 +153,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTY3MzQ2OF19
+eyJoaXN0b3J5IjpbLTE0NzM1MTA4MDZdfQ==
 -->
