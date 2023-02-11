@@ -39,51 +39,51 @@ All USA unless stated
 **FILMS**
 - **2020** **Da 5 Bloods** + writer/producer
 **David Byrne’s American Utopia** + producer
-**2018** **BlacKkKlansman** + writer/producer
+
+- **2018** **BlacKkKlansman** + writer/producer
 **Passover** + producer
--**2016** **Michael Jackson’s Journey from Motown to Off the Wall** + producer
 
--**2015** **Chi-Raq** + writer/producer
+- **2016** **Michael Jackson’s Journey from Motown to Off the Wall** + producer
 
-**2014** **Da Sweet Blood of Jesus** + writer/ producer
+- **2015** **Chi-Raq** + writer/producer
 
-**2013** **Oldboy**
+- **2014** **Da Sweet Blood of Jesus** + writer/ producer
 
-**2012** **Red Hook Summer** + writer/producer
+- **2013** **Oldboy**
 
-**Bad 25** + producer
+- **2012** **Red Hook Summer** + writer/producer
 
-**2008** **Miracle at St. Anna** (USA/Italy) + writer/ producer
+- **Bad 25** + producer
 
-**2006** **Inside Man**
+- **2008** **Miracle at St. Anna** (USA/Italy) + writer/ producer
 
-**2004** **She Hate Me** + writer/producer
+- **2006** **Inside Man**
 
-**2002** **25th Hour** + producer
+- **2004** **She Hate Me** + writer/producer
 
-**2000** **Bamboozled** + writer/producer
+- **2002** **25th Hour** + producer
 
+- **2000** **Bamboozled** + writer/producer
 **The Original Kings of Comedy** + producer
 
-**1999** **Summer of Sam** + writer/producer, cast as John Jeffries
+- **1999** **Summer of Sam** + writer/producer, cast as John Jeffries
 
-**1998** **He Got Game** + writer/producer
+- **1998** **He Got Game** + writer/producer
 
-**1997** **4 Little Girls** + producer
+- **1997** **4 Little Girls** + producer
 
-**1996** **Girl 6** + producer, cast as Jimmy
-
+- **1996** **Girl 6** + producer, cast as Jimmy
 **Get on the Bus** + producer
 
-**1995** **Clockers** + writer/producer, cast as Chucky
+- **1995** **Clockers** + writer/producer, cast as Chucky
 
-**1994** **Crooklyn** + writer/producer, cast as Snuffy
+- **1994** **Crooklyn** + writer/producer, cast as Snuffy
 
-**1992** **Malcolm X** + writer/producer, cast as Shorty
+- **1992** **Malcolm X** + writer/producer, cast as Shorty
 
-**1991** **Jungle Fever** + writer/producer, cast as Cyrus
+- **1991** **Jungle Fever** + writer/producer, cast as Cyrus
 
-**1990** **Mo’ Better Blues** + writer/producer, cast as Giant
+- **1990** **Mo’ Better Blues** + writer/producer, cast as Giant
 
 **1989** **Do the Right Thing** + writer/producer, cast as Mookie
 
@@ -159,5 +159,5 @@ All USA unless stated
 
 **1979** **Last Hustle in Brooklyn** + writer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDQzOTIxM119
+eyJoaXN0b3J5IjpbLTQ3ODU1OTI3MF19
 -->
