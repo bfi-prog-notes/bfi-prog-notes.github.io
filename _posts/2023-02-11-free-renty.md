@@ -4,7 +4,7 @@ title: Free Renty<br>Lanier v. Harvard
 published: true
 date: 2023-02-11
 readtime: true
-categories: ['AFRICAN ODYSSEY']
+categories: ['AFRICAN ODYSSEYS']
 tags: [Documentary]
 metadata: 'USA 2022, 95 mins<br> Director: David Grubin'
 pdf: '2023-02-11-free-renty.pdf'
