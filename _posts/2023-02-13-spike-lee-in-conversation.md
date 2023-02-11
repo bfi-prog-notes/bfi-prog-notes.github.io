@@ -106,61 +106,85 @@ All USA unless stated
 **TV**  
 - **2021** **NYC Epicenters 9/11-2021½** + producer (TV mini-series)  
 
-- **2017–19** **She’s Gotta Have It** + executive producer/creator
+- **2017–19** **She’s Gotta Have It** + executive producer/creator  
 
-- **2017** **Rodney King** + producer (TV special)
+- **2017** **Rodney King** + producer (TV special)  
 
-- **2015-16** **Spike Lee’s Lil Joints** + producer (TV series)
+- **2015-16** **Spike Lee’s Lil Joints** + producer (TV series)  
 
-- **2014** **Jerrod Carmichael: Love at the Store** (TV special)
-**Katt Williams: Priceless: Afterlife** (TV special)
+- **2014** **Jerrod Carmichael: Love at the Store** (TV special)  
+**Katt Williams: Priceless: Afterlife** (TV special)  
 
-- **2013** **Mike Tyson: Undisputed Truth** (TV special)
+- **2013** **Mike Tyson: Undisputed Truth** (TV special)  
 
-- **2010** **If God Is Willing and da Creek Don’t Rise** + producer (TV mini-series)
+- **2010** **If God Is Willing and da Creek Don’t Rise** + producer (TV mini-series)  
 
-- **2009** **Kobe Doin’ Work** + producer
-**Passing Strange** (TV film)
+- **2009** **Kobe Doin’ Work** + producer  
+**Passing Strange** (TV film)  
 
-- **2006** **When the Levees Broke: A Requiem in Four Acts** + producer (TV mini-series)
+- **2006** **When the Levees Broke: A Requiem in Four Acts** + producer (TV mini-series)  
 
-- **2005** **Miracle’s Boys** (TV mini-series, episodes: ‘New Charlie’ and ‘Bond of Brothers’)
+- **2005** **Miracle’s Boys** (TV mini-series, episodes: ‘New Charlie’ and ‘Bond of Brothers’)  
 
-- **2004** **Sucker Free City** + producer (TV film)
+- **2004** **Sucker Free City** + producer (TV film)  
 
-- **2002** **Jim Brown: All-American** + producer
+- **2002** **Jim Brown: All-American** + producer  
 
-- **2001** **A Huey P. Newton Story** (TV film)
+- **2001** **A Huey P. Newton Story** (TV film)  
 
-- **1999** **Pavarotti and Friends for Guatemala and Kosovo** (TV special)
+- **1999** **Pavarotti and Friends for Guatemala and Kosovo** (TV special)  
 
-- **1998** **John Leguizamo: Freak** (TV special)
+- **1998** **John Leguizamo: Freak** (TV special)  
 
-**SHORTS**
-- **2020** **New York, New York** + writer/producer
- **3 Brothers: Radio Raheem, Eric Garner and George Floyd** + writer/producer
+**SHORTS**  
+- **2020** **New York, New York** + writer/producer  
+ **3 Brothers: Radio Raheem, Eric Garner and George Floyd** + writer/producer  
 
-- **2019** **Impact**
+- **2019** **Impact**  
 
-- **2017** **Brave: Visions for Moncler**
+- **2017** **Brave: Visions for Moncler**  
 
-- **2014** **Mo’ne Davis: I Throw like a Girl** + producer
+- **2014** **Mo’ne Davis: I Throw like a Girl** + producer  
 
-- **2007** **Lovers & Haters**
+- **2007** **Lovers & Haters**  
 
-- **2005** **Jesus Children of America** + producer (France/Italy, segment of **All the Invisible Children**)
+- **2005** **Jesus Children of America** + producer (France/Italy, segment of **All the Invisible Children**)  
 
-- **2002** **We Wuz Robbed** (Germany/UK/USA, segment of **Ten Minutes Older: The Trumpet**)
+- **2002** **We Wuz Robbed** (Germany/UK/USA, segment of **Ten Minutes Older: The Trumpet**)  
 
-- **2001** **Come Rain or Come Shine** + writer/ cinematographer
+- **2001** **Come Rain or Come Shine** + writer/ cinematographer  
 
-- **1995** **Sarah Moon** (segment of **Lumière and Company**)
+- **1995** **Sarah Moon** (segment of **Lumière and Company**)  
 
-- **1981** **Sarah** + writer
+- **1981** **Sarah** + writer  
 
-- **1980** **The Answer** + writer
+- **1980** **The Answer** + writer  
 
-- **1979** **Last Hustle in Brooklyn** + writer
+- **1979** **Last Hustle in Brooklyn** + writer  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzOTAzNzc5XX0=
+eyJoaXN0b3J5IjpbNjcwNjk3MzMyXX0=
 -->
