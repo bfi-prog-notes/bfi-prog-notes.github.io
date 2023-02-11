@@ -1,4 +1,14 @@
-<![endif]-->
+---
+layout: post
+title: Spike Lee<br>in conversation
+published: true
+date: 2023-02-13
+readtime: true
+categories: ['EVENTS']
+tags: [Talk]
+metadata: 
+pdf: '2023-02-13-spike-lee-.pdf'
+---
 
 Director, writer, actor, producer, author and NYU Grad Film tenured professor Spike Lee is to receive a BFI Fellowship, the highest honour bestowed by the BFI. The fellowship recognises Lee’s pioneering body of work, which has spanned over 30 years and has chronicled Black lives through bold and inventive cinematic works of art from feature films and documentary to television, music, commercials and books.
 
@@ -134,23 +144,23 @@ All USA unless stated
 
 - **2017** **Brave: Visions for Moncler**
 
--**2014** **Mo’ne Davis: I Throw like a Girl** + producer
+- **2014** **Mo’ne Davis: I Throw like a Girl** + producer
 
-**2007** **Lovers & Haters**
+- **2007** **Lovers & Haters**
 
-**2005** **Jesus Children of America** + producer (France/Italy, segment of **All the Invisible Children**)
+- **2005** **Jesus Children of America** + producer (France/Italy, segment of **All the Invisible Children**)
 
-**2002** **We Wuz Robbed** (Germany/UK/USA, segment of **Ten Minutes Older: The Trumpet**)
+- **2002** **We Wuz Robbed** (Germany/UK/USA, segment of **Ten Minutes Older: The Trumpet**)
 
-**2001** **Come Rain or Come Shine** + writer/ cinematographer
+- **2001** **Come Rain or Come Shine** + writer/ cinematographer
 
-**1995** **Sarah Moon** (segment of **Lumière and Company**)
+- **1995** **Sarah Moon** (segment of **Lumière and Company**)
 
-**1981** **Sarah** + writer
+- **1981** **Sarah** + writer
 
-**1980** **The Answer** + writer
+- **1980** **The Answer** + writer
 
-**1979** **Last Hustle in Brooklyn** + writer
+- **1979** **Last Hustle in Brooklyn** + writer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Mjg4MDgxN119
+eyJoaXN0b3J5IjpbLTEyNjUyOTY1MzVdfQ==
 -->
