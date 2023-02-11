@@ -6,8 +6,8 @@ date: 2023-02-11
 readtime: true
 categories: ['BFI FAMILIES']
 tags: [Animation, Adventure]
-metadata: 'USA 1999, 88 mins<br> Director: Bruce Gladwin'
-pdf: '2023-02-08-shadow.pdf'
+metadata: 'USA 1999, 88 mins<br> Director: Brad Bird'
+pdf: '2023-02-11-iron-giant.pdf'
 ---
 
 <img style="float: left;" src="/img/iron giant.png"><br><br>
@@ -63,6 +63,23 @@ USA 1999/2015©
 88 mins  
 
 \* Uncredited  
+<br>
+
+**BFI FAMILIES**  
+**The Mitchells vs the Machines**  
+Sat 25 Feb 12:30  
+**Funday Preview: The Magician’s Elephant**  
+Sun 26 Feb 11:15  
+**Funday Workshop: The Magician’s Elephant**  
+Sun 26 Feb 10:00  
+**Whodunnit? Murder Mystery Filmmaking Workshop**  
+13-16 Feb 10:30-16:30  
+**Mini Filmmakers**  
+Every Sat from 25 Feb – 1 March 10:30-12:30  
+**Young Filmmakers**  
+Every Sat from 25 Feb – 1 March 14:00-16:30  
+**Virtual Young Filmmakers Club**  
+Every Sat from 25 Feb – 1 March 10:30-12:30 online  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzI4Mzk2MzEsMTEyODIyMzY0M119
+eyJoaXN0b3J5IjpbNjU2MTI3NzgyLDExMjgyMjM2NDNdfQ==
 -->
