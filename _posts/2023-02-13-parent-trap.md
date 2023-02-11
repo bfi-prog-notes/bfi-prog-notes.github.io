@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: The Parent Trap
+published: true
+date: 2023-02-13
+readtime: true
+categories: ['WOMAN WITH A MOVIE CAMERA']
+tags: [Comedy]
+metadata: 'USA 1999, 142 mins<br> Director: Spike Lee'
+pdf: '2023-02-13-summer-of-sam.pdf'
+---
 
 In Nancy Meyers’ fun remake of _The Parent Trap_ (1961), identical twins Hallie and Annie, separated at birth after their parents’ divorce, accidentally discover each other, some years later, at a summer camp. In her breakout role, Lindsey Lohan shines playing both transatlantic twins who decide to switch places in a ploy to reunite their parents. Bring a bestie and brush up on both your Lohan and Meyers knowledge for a pre-film pop quiz with prizes!  
 **bfi.org.uk**  
@@ -10,9 +18,7 @@ _The Parent Trap_’s feel-good fable of mistaken identity and childhood resourc
 While Tennant’s ﬁlm was relentlessly vulgar in both its comedy and its characterisations, _The Parent Trap_ in the hands of ﬁrst-time director Nancy Meyers (the producer-writer of _Private Benjamin_) recognises that charm needs a touch of class to make it shine. In this respect, Dennis Quaid and Natasha Richardson are astutely cast as the idealised couple, ensconced on opposite sides of the world in a Napa vineyard and Kensington town house respectively. Their environments are so luxurious, and they themselves are so full of love for their daughters, that from the outset the audience is left in no doubt that they belong together. (Elaine Hendrix’s grasping Meredith is too much the brash _arriviste_ to contend with Richardson’s old-world sophistication.) The loyal retainers Martin and Chessy even embark on a modest romance of their own, a prelude to the renewed grand passion of their employers.
 
 The narrative symmetry may lend a predictability to proceedings, but the formal classicism is part of this ﬁlm’s sense of fun, sustained by Lindsay Lohan’s winning and skilful double performance as Annie and Hallie, achieved (as was Mills’ turn) through an unobtrusive use of split-screen photography and visual effects. ‘I should never have believed it possible …  that one can make up for lost happiness, like a lesson one has missed at school …  We owe every second to our two children,’ claims the father at the end of Erich Kästner’s 1949 source novel _Lottie and Lisa._ Lohan, like Mills before her, has charm enough to make such an unlikely sentiment palatable.  
-**Andy Richards, _Sight and Sound_, December 1998  
-<![if !supportLineBreakNewLine]>  
-<![endif]>**
+**Andy Richards, _Sight and Sound_, December 1998**
 
 Writer-director Nancy Meyers was drawn to the idea of doing a re-make when she realised how much her own two daughters loved the original. ‘When each of my daughters hit the age of about seven, the video of Hayley Mills seemed to be playing in a continuous loop in our house. I frequently found myself being drawn into it. I’d watch it with them time and again. I loved seeing how the girls-in-control element enchanted my daughters.’
 
@@ -97,6 +103,29 @@ USA 1998©
 127 mins  
 
 \* Uncredited
+<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzkxMjYyXX0=
+eyJoaXN0b3J5IjpbLTYwNTM2NjAzOV19
 -->
