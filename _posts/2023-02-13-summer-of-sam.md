@@ -1,11 +1,18 @@
+---
+layout: post
+title: Summer of Sam
+published: true
+date: 2023-02-13
+readtime: true
+categories: ['EVENTS']
+tags: [Drama]
+metadata: 'USA 1999, 142 mins<br> Director: Spike Lee'
+pdf: '2023-02-13-summer-of-sam.pdf'
+---
 
+_+ intro by Spike Lee_  
 
-<![endif]-->
-
-_+ intro by Spike Lee_
-
-**A contemporary review**
-
+**A contemporary review**  
 _Summer of Sam_, set in New York during the heatwave of 1977 when serial killer David Berkowitz was terrorising the city, has been largely misrepresented by the press. A _New York Times_ article in June quoted relatives of Berkowitz’s victims railing against its director Spike Lee. ‘He feels that murder is entertainment,’ said one. Berkowitz himself, now serving six consecutive life sentences, expressed his disappointment that the film was raking up ‘what is best forgotten.’
 
 Berkowitz, however, is only a minor player in the movie he helped inspire: _Summer of Sam_ could just as well have been called _Summer of Reggie_ (while Berkowitz was on his killing spree, baseball player Reggie Jackson helped the Yankees win the World Series) or _Scenes from an Italian-American Marriage_. Lee’s real interest is in the relationships between members of a close-knit neighbourhood in the Bronx. With tensions aggravated by the sweaty weather and the fear of a serial killer in their midst, it’s a community which is close to boiling point – similar to the Bedford-Stuyvesant neighbourhood in _Do the Right Thing_. Lee captures brilliantly the creeping sense of paranoia that affected the city and the strange, macabre thrill of having its own serial killer. (To avoid Sam, who reportedly favours brunettes, women begin dying their hair blond or wearing wigs.) With such craziness in the air, it doesn’t even seem incongruous when the killer begins to think a black Labrador is talking to him, enjoining him to ‘kill, kill, kill.’
@@ -150,5 +157,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzE5NDkxXX0=
+eyJoaXN0b3J5IjpbMTAxMjEyMDg3NV19
 -->
