@@ -6,8 +6,8 @@ date: 2023-02-13
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA']
 tags: [Comedy]
-metadata: 'USA 1999, 142 mins<br> Director: Spike Lee'
-pdf: '2023-02-13-summer-of-sam.pdf'
+metadata: 'USA 1998, 127 mins<br> Director: Nancy Meyers'
+pdf: '2023-02-13-parent-trap.pdf'
 ---
 
 In Nancy Meyers’ fun remake of _The Parent Trap_ (1961), identical twins Hallie and Annie, separated at birth after their parents’ divorce, accidentally discover each other, some years later, at a summer camp. In her breakout role, Lindsey Lohan shines playing both transatlantic twins who decide to switch places in a ploy to reunite their parents. Bring a bestie and brush up on both your Lohan and Meyers knowledge for a pre-film pop quiz with prizes!  
@@ -127,5 +127,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTM2NjAzOV19
+eyJoaXN0b3J5IjpbNjQ1Nzg5MjBdfQ==
 -->
