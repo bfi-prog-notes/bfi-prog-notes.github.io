@@ -38,6 +38,7 @@ As a pioneering Black filmmaker Spike Lee has paved the way for a new generation
 While in the UK to receive his BFI Fellowship, Lee will take a masterclass with young filmmakers.
 
 Lee joins an eminent list of BFI Fellows including Martin Scorsese and Thelma Schoonmaker, Satyajit Ray, Tilda Swinton, Sir David Lean, Michael Powell and Emeric Pressburger, Sir Steve McQueen, Akira Kurosawa, Nicholas Roeg CBE, Orson Welles, Sir Ridley Scott, Ousmane Sembène Bernardo Bertolucci and Souleymane Cissé.
+<br><br>
 
 **SPIKE LEE**  
 Born 20 March 1957, Atlanta, GA.  
@@ -102,6 +103,7 @@ All USA unless stated
 - **1986** **She’s Gotta Have It** + writer/producer/editor, cast as Mars Blackmon  
 
 - **1983** **Joe’s Bed-Stuy Barbershop: We Cut Heads** + writer/producer/editor  
+<br>
 
 **TV**  
 - **2021** **NYC Epicenters 9/11-2021½** + producer (TV mini-series)  
@@ -135,6 +137,7 @@ All USA unless stated
 - **1999** **Pavarotti and Friends for Guatemala and Kosovo** (TV special)  
 
 - **1998** **John Leguizamo: Freak** (TV special)  
+<br>
 
 **SHORTS**  
 - **2020** **New York, New York** + writer/producer  
