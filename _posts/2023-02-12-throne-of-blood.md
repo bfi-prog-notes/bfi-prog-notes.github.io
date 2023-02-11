@@ -23,42 +23,31 @@ This is one of the reasons why there are so very few close-ups in the picture.  
 It was a very hard film to make. We decided that the main castle set had to be built on the slope of Mount Fuji, not because I wanted to show this mountain but because it has precisely the stunted landscape that I wanted. And it is usually foggy. I had decided I wanted lots of fog for this film. [Kurosawa has said elsewhere that since he was very young the idea of samurai galloping out of the fog much appealed to him. At the beginning of the original version of this film, Mifune and Minoru gallop in and out of the fog eight times.] Also I wanted a low, squat castle. Kohei Ezaki, who was the art director, wanted a towering castle, but I had my way. Making the set was very difficult because we didn’t have enough people and the location was so far from Tokyo. Fortunately, there was a US Marine Corps base nearby and they helped a great deal; also a whole MP battalion helped us out. We all worked very hard indeed, clearing the ground, building the set. Our labour on this steep fog-bound slope, I remember, absolutely exhausted us – we almost got sick.  
 **Akira Kurosawa interviewed by Donald Richie, _Sight and Sound_, Autumn 1964**  
 
-**THRONE OF BLOOD (KUMONOSU-JÔ)**
-_Director:_ Akira Kurosawa
-©: Toho Co. Ltd.
-_Production Company:_ Toho Co. Ltd.
-_Producers:_ Akira Kurosawa, Sojiro Motoki
-_Production Supervisor:_ Hiroshi Nezu
-_1st Assistant Directors:_ Hiromichi Horikawa, Mimachi Norase
+**THRONE OF BLOOD (KUMONOSU-JÔ)**  
+_Director:_ Akira Kurosawa  
+©: Toho Co. Ltd.  
+_Production Company:_ Toho Co. Ltd.  
+_Producers:_ Akira Kurosawa, Sojiro Motoki  
+_Production Supervisor:_ Hiroshi Nezu  
+_1st Assistant Directors:_ Hiromichi Horikawa, Mimachi Norase  
 _2nd Assistant Directors:_ Yasuyoshi Tajitsu, Michio Yamamoto,
-Kan Sano
-_Script Supervisor:_ Teruyo Nogami
-_Screenplay:_ Hideo Oguni, Shinobu Hashimoto, Ryuzo Kikushima, Akira Kurosawa
-_Based on the play_ Macbeth _by:_ William Shakespeare
-_Director of Photography:_ Asaichi Nakai
-_Lighting:_ Kuichiro Kishida
-
-_Camera Assistant:_ Takao Saito
-
-_Stills Photography:_ Masao Fukuda
-
-_Editor:_ Chozo Obata
-
-_Art Supervision:_ Kohei Ezaki
-
-_Art Director:_ Yoshiro Muraki
-
-_Assistant Art Director:_ Yoshifumi Honda
-
-_Properties:_ Koichi Hamamura
-
-_Hair:_ Yoshiko Matsumoto, Junjiro Yamada
-
-_Music:_ Masaru Sato
-
-_Sound Recording:_ Fumio Yanoguchi
-
-_Sound Effects:_ Ichiro Minawa
+Kan Sano  
+_Script Supervisor:_ Teruyo Nogami  
+_Screenplay:_ Hideo Oguni, Shinobu Hashimoto, Ryuzo Kikushima, Akira Kurosawa  
+_Based on the play_ Macbeth _by:_ William Shakespeare  
+_Director of Photography:_ Asaichi Nakai  
+_Lighting:_ Kuichiro Kishida  
+_Camera Assistant:_ Takao Saito  
+_Stills Photography:_ Masao Fukuda  
+_Editor:_ Chozo Obata  
+_Art Supervision:_ Kohei Ezaki  
+_Art Director:_ Yoshiro Muraki  
+_Assistant Art Director:_ Yoshifumi Honda  
+_Properties:_ Koichi Hamamura  
+_Hair:_ Yoshiko Matsumoto, Junjiro Yamada  
+_Music:_ Masaru Sato  
+_Sound Recording:_ Fumio Yanoguchi  
+_Sound Effects:_ Ichiro Minawa  
 
 **Cast**  
 Toshiro Mifune _(Taketoki Washizu)_  
@@ -85,6 +74,8 @@ Japan 1957
 
 _Throne of Blood_ (new edition) by Robert N. Watson  
 is available to buy from the BFI Shop: **https://shop.bfi.org.uk**  
+
+<img style="float: left;" src="/img/throne-of-blood.jpg"><br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTg0OTMxOF19
+eyJoaXN0b3J5IjpbLTY2Nzg5NDA3NV19
 -->
