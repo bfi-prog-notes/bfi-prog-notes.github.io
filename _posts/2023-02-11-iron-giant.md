@@ -1,4 +1,16 @@
+---
+layout: post
+title: Iron Giant
+published: true
+date: 2023-02-11
+readtime: true
+categories: ['BFI FAMILIES']
+tags: [Animation, Adventure]
+metadata: 'USA 1999, 88 mins<br> Director: Bruce Gladwin'
+pdf: '2023-02-08-shadow.pdf'
+---
 
+<img style="float: left;" src="/img/iron giant.png"><br><br>
 
 **What’s it about?**  
 Hogarth Hughes is an intelligent nine-year-old who befriends a 50-foot alien robot, which recently landed in the United States and is being hunted by government agents who believe that it means them harm. Working together, Hogarth and the robot must outsmart their pursuers. Recognised as an animated classic, Brad Bird’s (_Ratatouille_, _The Incredibles_) film is a celebration of friendship that raises profound questions about war and the environment.  
@@ -52,5 +64,5 @@ USA 1999/2015©
 
 \* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwNTIxMjQxLDExMjgyMjM2NDNdfQ==
+eyJoaXN0b3J5IjpbLTE2MzI4Mzk2MzEsMTEyODIyMzY0M119
 -->
