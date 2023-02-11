@@ -7,7 +7,7 @@ readtime: true
 categories: ['EVENTS']
 tags: [Talk]
 metadata: 
-pdf: '2023-02-13-spike-lee-.pdf'
+pdf: '2023-02-13-spike-lee-in-conversation.pdf'
 ---
 
 Director, writer, actor, producer, author and NYU Grad Film tenured professor Spike Lee is to receive a BFI Fellowship, the highest honour bestowed by the BFI. The fellowship recognises Lee’s pioneering body of work, which has spanned over 30 years and has chronicled Black lives through bold and inventive cinematic works of art from feature films and documentary to television, music, commercials and books.
@@ -39,72 +39,72 @@ While in the UK to receive his BFI Fellowship, Lee will take a masterclass with 
 
 Lee joins an eminent list of BFI Fellows including Martin Scorsese and Thelma Schoonmaker, Satyajit Ray, Tilda Swinton, Sir David Lean, Michael Powell and Emeric Pressburger, Sir Steve McQueen, Akira Kurosawa, Nicholas Roeg CBE, Orson Welles, Sir Ridley Scott, Ousmane Sembène Bernardo Bertolucci and Souleymane Cissé.
 
-**SPIKE LEE**
-Born 20 March 1957, Atlanta, GA.
+**SPIKE LEE**  
+Born 20 March 1957, Atlanta, GA.  
 
-Selected filmography
-All as director
-All USA unless stated
+Selected filmography  
+All as director  
+All USA unless stated  
+<br>
 
-**FILMS**
-- **2020** **Da 5 Bloods** + writer/producer
-**David Byrne’s American Utopia** + producer
+**FILMS**  
+- **2020** **Da 5 Bloods** + writer/producer  
+**David Byrne’s American Utopia** + producer  
 
-- **2018** **BlacKkKlansman** + writer/producer
-**Passover** + producer
+- **2018** **BlacKkKlansman** + writer/producer  
+**Passover** + producer  
 
-- **2016** **Michael Jackson’s Journey from Motown to Off the Wall** + producer
+- **2016** **Michael Jackson’s Journey from Motown to Off the Wall** + producer  
 
-- **2015** **Chi-Raq** + writer/producer
+- **2015** **Chi-Raq** + writer/producer  
 
-- **2014** **Da Sweet Blood of Jesus** + writer/ producer
+- **2014** **Da Sweet Blood of Jesus** + writer/ producer  
 
-- **2013** **Oldboy**
+- **2013** **Oldboy**  
 
-- **2012** **Red Hook Summer** + writer/producer
+- **2012** **Red Hook Summer** + writer/producer  
+ **Bad 25** + producer  
 
-- **Bad 25** + producer
+- **2008** **Miracle at St. Anna** (USA/Italy) + writer/ producer  
 
-- **2008** **Miracle at St. Anna** (USA/Italy) + writer/ producer
+- **2006** **Inside Man**  
 
-- **2006** **Inside Man**
+- **2004** **She Hate Me** + writer/producer  
 
-- **2004** **She Hate Me** + writer/producer
+- **2002** **25th Hour** + producer  
 
-- **2002** **25th Hour** + producer
+- **2000** **Bamboozled** + writer/producer  
+**The Original Kings of Comedy** + producer  
 
-- **2000** **Bamboozled** + writer/producer
-**The Original Kings of Comedy** + producer
+- **1999** **Summer of Sam** + writer/producer, cast as John Jeffries  
 
-- **1999** **Summer of Sam** + writer/producer, cast as John Jeffries
+- **1998** **He Got Game** + writer/producer  
 
-- **1998** **He Got Game** + writer/producer
+- **1997** **4 Little Girls** + producer  
 
-- **1997** **4 Little Girls** + producer
+- **1996** **Girl 6** + producer, cast as Jimmy  
+**Get on the Bus** + producer  
 
-- **1996** **Girl 6** + producer, cast as Jimmy
-**Get on the Bus** + producer
+- **1995** **Clockers** + writer/producer, cast as Chucky  
 
-- **1995** **Clockers** + writer/producer, cast as Chucky
+- **1994** **Crooklyn** + writer/producer, cast as Snuffy  
 
-- **1994** **Crooklyn** + writer/producer, cast as Snuffy
+- **1992** **Malcolm X** + writer/producer, cast as Shorty  
 
-- **1992** **Malcolm X** + writer/producer, cast as Shorty
+- **1991** **Jungle Fever** + writer/producer, cast as Cyrus  
 
-- **1991** **Jungle Fever** + writer/producer, cast as Cyrus
+- **1990** **Mo’ Better Blues** + writer/producer, cast as Giant  
 
-- **1990** **Mo’ Better Blues** + writer/producer, cast as Giant
+- **1989** **Do the Right Thing** + writer/producer, cast as Mookie  
 
-- **1989** **Do the Right Thing** + writer/producer, cast as Mookie
+- **1988** **School Daze** + writer/producer  
 
-- **1988** **School Daze** + writer/producer
+- **1986** **She’s Gotta Have It** + writer/producer/editor, cast as Mars Blackmon  
 
-- **1986** **She’s Gotta Have It** + writer/producer/editor, cast as Mars Blackmon
+- **1983** **Joe’s Bed-Stuy Barbershop: We Cut Heads** + writer/producer/editor  
 
-- **1983** **Joe’s Bed-Stuy Barbershop: We Cut Heads** + writer/producer/editor
-
-**TV**
-- **2021** **NYC Epicenters 9/11-2021½** + producer (TV mini-series)
+**TV**  
+- **2021** **NYC Epicenters 9/11-2021½** + producer (TV mini-series)  
 
 - **2017–19** **She’s Gotta Have It** + executive producer/creator
 
@@ -162,5 +162,5 @@ All USA unless stated
 
 - **1979** **Last Hustle in Brooklyn** + writer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjUyOTY1MzVdfQ==
+eyJoaXN0b3J5IjpbMzMzOTAzNzc5XX0=
 -->
