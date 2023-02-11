@@ -85,63 +85,56 @@ All USA unless stated
 
 - **1990** **Mo’ Better Blues** + writer/producer, cast as Giant
 
-**1989** **Do the Right Thing** + writer/producer, cast as Mookie
+- **1989** **Do the Right Thing** + writer/producer, cast as Mookie
 
-**1988** **School Daze** + writer/producer
+- **1988** **School Daze** + writer/producer
 
-**1986** **She’s Gotta Have It** + writer/producer/editor, cast as Mars Blackmon
+- **1986** **She’s Gotta Have It** + writer/producer/editor, cast as Mars Blackmon
 
-**1983** **Joe’s Bed-Stuy Barbershop: We Cut Heads** + writer/producer/editor
+- **1983** **Joe’s Bed-Stuy Barbershop: We Cut Heads** + writer/producer/editor
 
 **TV**
+- **2021** **NYC Epicenters 9/11-2021½** + producer (TV mini-series)
 
-**2021** **NYC Epicenters 9/11-2021½** + producer (TV mini-series)
+- **2017–19** **She’s Gotta Have It** + executive producer/creator
 
-**2017–19** **She’s Gotta Have It** + executive producer/creator
+- **2017** **Rodney King** + producer (TV special)
 
-**2017** **Rodney King** + producer (TV special)
+- **2015-16** **Spike Lee’s Lil Joints** + producer (TV series)
 
-**2015-16** **Spike Lee’s Lil Joints** + producer (TV series)
-
-**2014** **Jerrod Carmichael: Love at the Store** (TV special)
-
+- **2014** **Jerrod Carmichael: Love at the Store** (TV special)
 **Katt Williams: Priceless: Afterlife** (TV special)
 
-**2013** **Mike Tyson: Undisputed Truth** (TV special)
+- **2013** **Mike Tyson: Undisputed Truth** (TV special)
 
-**2010** **If God Is Willing and da Creek Don’t Rise** + producer
+- **2010** **If God Is Willing and da Creek Don’t Rise** + producer (TV mini-series)
 
-(TV mini-series)
-
-**2009** **Kobe Doin’ Work** + producer
-
+- **2009** **Kobe Doin’ Work** + producer
 **Passing Strange** (TV film)
 
-**2006** **When the Levees Broke: A Requiem in Four Acts** + producer (TV mini-series)
+- **2006** **When the Levees Broke: A Requiem in Four Acts** + producer (TV mini-series)
 
-**2005** **Miracle’s Boys** (TV mini-series, episodes: ‘New Charlie’ and ‘Bond of Brothers’)
+- **2005** **Miracle’s Boys** (TV mini-series, episodes: ‘New Charlie’ and ‘Bond of Brothers’)
 
-**2004** **Sucker Free City** + producer (TV film)
+- **2004** **Sucker Free City** + producer (TV film)
 
-**2002** **Jim Brown: All-American** + producer
+- **2002** **Jim Brown: All-American** + producer
 
-**2001** **A Huey P. Newton Story** (TV film)
+- **2001** **A Huey P. Newton Story** (TV film)
 
-**1999** **Pavarotti and Friends for Guatemala and Kosovo** (TV special)
+- **1999** **Pavarotti and Friends for Guatemala and Kosovo** (TV special)
 
-**1998** **John Leguizamo: Freak** (TV special)
+- **1998** **John Leguizamo: Freak** (TV special)
 
 **SHORTS**
+- **2020** **New York, New York** + writer/producer
+ **3 Brothers: Radio Raheem, Eric Garner and George Floyd** + writer/producer
 
-**2020** **New York, New York** + writer/producer
+- **2019** **Impact**
 
-**3 Brothers: Radio Raheem, Eric Garner and George Floyd** + writer/producer
+- **2017** **Brave: Visions for Moncler**
 
-**2019** **Impact**
-
-**2017** **Brave: Visions for Moncler**
-
-**2014** **Mo’ne Davis: I Throw like a Girl** + producer
+-**2014** **Mo’ne Davis: I Throw like a Girl** + producer
 
 **2007** **Lovers & Haters**
 
@@ -159,5 +152,5 @@ All USA unless stated
 
 **1979** **Last Hustle in Brooklyn** + writer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODU1OTI3MF19
+eyJoaXN0b3J5IjpbLTQ0Mjg4MDgxN119
 -->
