@@ -30,35 +30,26 @@ I wanted the film to turn slowly through its duration, as if on a wheel, from wh
 
 **Lime Parfait**  
 Dani paints her Nanna’s pergola on a hot Melbourne day, in this charming exploration of memory and inter-generational relationships.
+<br><br>
 
-<![endif]-->
-
-**LIME PARFAIT**
-
+**LIME PARFAIT**  
 _Director:_ Pat Mooney
-
-_With:_
-
-Hannah Camilleri
-
-Matt Bailey
-
+_With:_  
+Hannah Camilleri  
+Matt Bailey  
 Friday Cauchi
 
-Australia 2022
-
+Australia 2022  
 8 mins
 
-**FRIENDS AND STRANGERS**
-
+**FRIENDS AND STRANGERS**  
 _Directed by_: James Vaughan  
 _Production Company_: Leitourgia Films  
 _Executive Producer_: Amiel Courtin-Wilson  
 _Produced by_: Rebecca Lamond, Lucy Rennick  
 _Co-producer_: Isaac Wall  
 _Line Producer_: Rebecca Lamond  
-_Development Producers_: Sarah Christie,  
-Olivia Hantken  
+_Development Producers_: Sarah Christie,  Olivia Hantken  
 _Production Co-ordinator_: Alexandra Duggan  
 _1st Assistant Director_: Stuart Beedie  
 _Script Supervisors_: Michael Wray, Sarah Vaughan  
@@ -79,8 +70,7 @@ _Dialogue Editor_: Tony Murtagh
 _Stunt Coordinator_: Mick Hodge  
 _Stunt Coordinator and Head Rigger_: Ben Toyer
 
-_Cast:_
-
+**Cast**  
 Fergus Wilson _(Ray)_  
 Emma Diaz _(Alice)_  
 Greg Zimbulis _(David)_  
@@ -96,9 +86,9 @@ Mal Kennard _(Jay)_
 Eliza Oliver _(tour guide)_  
 Kat Try _(hairdresser)_
 
-Australia 2021
-
+Australia 2021  
 82 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDUyMTQ1N119
+eyJoaXN0b3J5IjpbMTk1MjA0Nzk1OF19
 -->
