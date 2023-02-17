@@ -32,77 +32,46 @@ A transformative night out with a stranger alleviates Morgan’s gender-question
 French New Wave.
 <br><br>
 
-**GEM**
-
-_Director:_ Jim Muntisov
-
-_With:_
-
-Joseph Limn
-
-James Mitchelhill
-
-Australia 2022
-
+**GEM**<br>
+_Director:_ Jim Muntisov<br>
+_With:_<br>
+Joseph Limn<br>
+James Mitchelhill<br>
+Australia 2022<br>
 14 mins
 
-**YOU WON’T BE ALONE**
+**YOU WON’T BE ALONE**<br>
+_Directed by:_ Goran Stolevski<br>
+_a_ Causeway Films _production_<br>
+_in association with:_ Balkanic Media<br>
+_Presented by:_ Focus Features<br>
+_In association with:_ Screen Australia, Film Victoria, Head Gear Films<br>
+_Executive Producers:_ Stephen Kelliher, Phil Hunt, Compton Ross, Noomi Rapace<br>
+_Produced by:_ Kristina Ceyton, Samantha Jennings<br>
+_Co-produced by:_ Jonathan English, Nataša Ivić<br>
+_Written by:_ Goran Stolevski<br>
+_Director of Photography:_ Matthew Chuang<br>
+_Editor:_ Luca Cappelli<br>
+_Visual Effects Supervisor:_ Marty Pepper<br>
+_Production Designer:_ Bethany Ryan<br>
+_Costume Designer:_ Sladjana Perić-Santrač<br>
+_Hair and Make-up Designer:_ Dušica Vuksanović<br>
+_Prosthetics Designer:_ Larry Van Duynhoven<br>
+_Composer:_ Mark Bradshaw<br>
+_Music Supervisor:_ Andrew Kotátko<br>
+_Sound Designer:_ Emma Bortignon<br>
 
-_Directed by:_ Goran Stolevski
+**Cast**<br>
+Sara Klimoska _(Nevena)_<br>
+Anamaria Marinca _(Maria)_<br>
+Alice Englert _(Biliana)_<br>
+Félix Maritaud _(Yovan)_<br>
+Carloto Cotta _(Boris)_<br>
+Noomi Rapace _(Bosilka)_<br>
 
-_a_ Causeway Films _production_
-
-_in association with:_ Balkanic Media
-
-_Presented by:_ Focus Features
-
-_In association with:_ Screen Australia, Film Victoria, Head Gear Films
-
-_Executive Producers:_ Stephen Kelliher, Phil Hunt, Compton Ross, Noomi Rapace
-
-_Produced by:_ Kristina Ceyton, Samantha Jennings
-
-_Co-produced by:_ Jonathan English, Nataša Ivić
-
-_Written by:_ Goran Stolevski
-
-_Director of Photography:_ Matthew Chuang
-
-_Editor:_ Luca Cappelli
-
-_Visual Effects Supervisor:_ Marty Pepper
-
-_Production Designer:_ Bethany Ryan
-
-_Costume Designer:_ Sladjana Perić-Santrač
-
-_Hair and Make-up Designer:_ Dušica Vuksanović
-
-_Prosthetics Designer:_ Larry Van Duynhoven
-
-_Composer:_ Mark Bradshaw
-
-_Music Supervisor:_ Andrew Kotátko
-
-_Sound Designer:_ Emma Bortignon
-
-_Cast:_
-
-Sara Klimoska _(Nevena)_
-
-Anamaria Marinca _(Maria)_
-
-Alice Englert _(Biliana)_
-
-Félix Maritaud _(Yovan)_
-
-Carloto Cotta _(Boris)_
-
-Noomi Rapace _(Bosilka)_
-
-Australia 2022
-
-109 mins
+Australia 2022<br>
+109 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk2MzQ1MDJdfQ==
+eyJoaXN0b3J5IjpbLTU4NjkxOTAyOF19
 -->
