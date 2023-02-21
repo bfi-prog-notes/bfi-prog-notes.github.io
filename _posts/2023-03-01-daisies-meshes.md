@@ -18,60 +18,44 @@ Deren’s hands-on promotion of her work became a model for the co-operative mov
 Both Deren and her co-director Alexander Hammid (originally Hackenschmied) were immigrants from Eastern Europe. She came from a Jewish family background in Ukraine, heavily involved in psychiatry, and he from experimental photography and film in Czechoslovakia. Deren would indignantly reject suggestions of influence from two earlier European avant-garde landmarks, Buñuel and Dalí’s _Un chien andalou_ (1928) and Cocteau’s  
 _The Blood of a Poet_ (_Le Sang d’un poète_, 1930). But for all its cool originality, the eerie game of repeated symbols that its maker-protagonists play out in their West Hollywood home and garden – with a flower, key and knife linking Deren’s divided self and a sinister mirror-faced figure – has undoubtedly extended the legacy of those earlier works.
 
-_Meshes_ has never reached the top 100 before in the _S&S_ poll (despite some interesting previous backers, such as Derek Jarman in 1992). So this year’s result must reflect some significant shifts in taste – most obviously the recognition of female creativity apparent in the poll leaders, but perhaps also a renewed interest in the phantasmagoric, as explored by Deren’s most consistent fans among contemporary filmmakers, the David Lynch of  
-_Lost Highway_ and _Mulholland Dr._, and Jordan Peele.
+_Meshes_ has never reached the top 100 before in the _S&S_ poll (despite some interesting previous backers, such as Derek Jarman in 1992). So this year’s result must reflect some significant shifts in taste – most obviously the recognition of female creativity apparent in the poll leaders, but perhaps also a renewed interest in the phantasmagoric, as explored by Deren’s most consistent fans among contemporary filmmakers, the David Lynch of  _Lost Highway_ and _Mulholland Dr._, and Jordan Peele.  
+**Ian Christie, _Sight and Sound_, Winter 2022-23**
+<br><br>
 
-Ian Christie, _Sight and Sound_, Winter 2022-23
-
-<![endif]-->
-
-**MESHES OF THE AFTERNOON**
-
-_A film by:_ Maya Deren, Alexander Hammid
-
-_Music by [added in 1952]:_ Teiji Ito
-
-_Cast:_
-
-Maya Deren _(the woman)_
-
-Alexander Hammid _(the man)_
-
-USA 1943
-
+**MESHES OF THE AFTERNOON**  
+_A film by:_ Maya Deren, Alexander Hammid  
+_Music by [added in 1952]:_ Teiji Ito  
+_Cast:_  
+Maya Deren _(the woman)_  
+Alexander Hammid _(the man)_  
+USA 1943  
 14 mins
 
-**DAISIES (SEDMIKRÁSKY)**
-
+**DAISIES (SEDMIKRÁSKY)**<br>
 _Director_: Vera Chytilová  
-_Production Companies_: Filmové Studio Barrandov,
-
-Ceskoslovensky Film  
+_Production Companies_: Filmové Studio Barrandov, Ceskoslovensky Film  
 _Producers_: Bohumil Smída, Ladislav Fikar  
 _Screenplay_: Vera Chytilová, Ester Krumbachová  
 _From an idea by_: Vera Chytilová, Pavel Jurácek  
 _Director of Photography_: Jaroslav Kucera  
-_Editor_: Miroslav Hájek
-
+_Editor_: Miroslav Hájek  
 _Art Directors:_ Jaroslav Kucera, Ester Krumbachová  
 _Set Design_: Karel Lier  
 _Costumes_: Ester Krumbachová  
 _Music_: Jirí Slitr, Jirí Sust  
 _Sound_: Ladislav Hausdorf
 
-_Cast:_  
+**Cast**    
 Jitka Cerhová _(Marie I)_  
 Ivana Karbanová _(Marie II)_  
-Julius Albert_  
-(man about town with butterfly collection)_  
+Julius Albert _(man about town with butterfly collection)_  
 Marie Cesková  
 Jirina Cesková  
 Jirina Mysková  
 Jan Klusák
 
-Czechoslovakia 1966
-
+Czechoslovakia 1966  
 76 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTUyMzY4M119
+eyJoaXN0b3J5IjpbLTg4NDMxNTU0OF19
 -->
