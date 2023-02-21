@@ -55,7 +55,8 @@ Jirina Mysková
 Jan Klusák
 
 Czechoslovakia 1966  
-76 mins
+76 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDMxNTU0OF19
+eyJoaXN0b3J5IjpbLTMwNjA4MzI4Ml19
 -->
