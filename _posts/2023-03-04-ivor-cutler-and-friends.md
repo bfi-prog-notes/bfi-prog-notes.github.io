@@ -39,60 +39,43 @@ Nigel Miller’s film places the viewer in the artist’s world, following him a
 
 **William  Fowler** is a film archivist and writer, and co-curator of this season.  
 He is Curator of Artists’ Moving Image at the BFI National Archive where he acquires, restores and curates films. His co-authored book _The Bodies Beneath: The Flipside of British Film and Television_ was published by Strange Attractor Press in 2019 and _People Make Television_, a gallery show about British public access television which he co-curated, opened at Raven Row in January. In 2012, he oversaw the restoration and curation of a number of films made by and starring artist eccentric Bruce Lacey, working across the BFI and Camden Arts Centre, and collaborating with Jeremy Deller.
-
-<![endif]-->
+<br><br>
 
 **ALIVE AND KICKING – BRITISH POETS:  
-IVOR CUTLER AND FRIENDS**
-
+IVOR CUTLER AND FRIENDS**  
 _Director_: David J. Chapman  
 _Production Company_: LWT  
 _Executive Producer_: Francis Coleman  
-_Designer_: Andrew Gardner
-
-_Presenter:_ Adrian Mitchell
-
+_Designer_: Andrew Gardner  
+_Presenter:_ Adrian Mitchell  
 _With:_  
-Ivor Cutler
-
-ITV tx 18.7.1971
-
+Ivor Cutler  
+ITV tx 18.7.1971  
 25 mins
 
-**SOUTH OF WATFORD: IVOR CUTLER**
-
+**SOUTH OF WATFORD: IVOR CUTLER**  
 _Director_: Nigel Miller  
 _Production Company_: LWT  
 _Producer_: Nigel Miller  
 _Series Producer_: John Carlaw  
-_Editor_: Michael Chaplin
-
-_Presenter:_ Hugh Laurie
-
-ITV tx 9.5.1986
-
-28 mins
+_Editor_: Michael Chaplin  
+_Presenter:_ Hugh Laurie  
+ITV tx 9.5.1986  
+28 mins  
 
 Total running time: 110 mins
+<br><br>
 
-**IVOR CUTLER AND THE ECCENTRIC MISCELLANY**
-
-**Ivor Cutler and Friends + panel discussion**
-
-Sat 4 Mar 16:10
-
-**Vivian Stanshall + intro by Lucian Randall,  
-Vivian Stanshall biographer**
-
-Tue 7 Mar 18:15
-
-**Bruce Lacey, The Alberts and more + intro by William Fowler, BFI Archive Curator**
-
-Thu 9 Mar 20:45
-
-**Margaret Rutherford and Friends + intro by Claire Mortimer, author of _Spinsters, Widows and Chars_**
-
-Wed 15 Mar 18:15
+**IVOR CUTLER AND THE ECCENTRIC MISCELLANY**<br>
+**Ivor Cutler and Friends + panel discussion**<br>
+Sat 4 Mar 16:10<br>
+**Vivian Stanshall + intro by Lucian Randall,  Vivian Stanshall biographer**<br>
+Tue 7 Mar 18:15<br>
+**Bruce Lacey, The Alberts and more + intro by William Fowler, BFI Archive Curator**<br>
+Thu 9 Mar 20:45<br>
+**Margaret Rutherford and Friends + intro by Claire Mortimer, author of _Spinsters, Widows and Chars_**<br>
+Wed 15 Mar 18:15<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjAzNzE1NjldfQ==
+eyJoaXN0b3J5IjpbMTM3MjMxNzA1OF19
 -->
