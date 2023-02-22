@@ -1,6 +1,6 @@
 
-Inspired by Andreas Malm’s book, director Daniel Goldhaber (_Cam_) spins a tense thriller that is part heist movie wrapped up in an exploration of the current climate crisis that the world is facing. Featuring a tremendous ensemble cast, _How to Blow Up a Pipeline_ follows a crew of activists who plan to sabotage an oil pipeline. With their plan in motion, each character’s motivations are revealed in a timely call to arms as the film barrels towards its explosive climax.
-bfi.org.uk
+Inspired by Andreas Malm’s book, director Daniel Goldhaber (_Cam_) spins a tense thriller that is part heist movie wrapped up in an exploration of the current climate crisis that the world is facing. Featuring a tremendous ensemble cast, _How to Blow Up a Pipeline_ follows a crew of activists who plan to sabotage an oil pipeline. With their plan in motion, each character’s motivations are revealed in a timely call to arms as the film barrels towards its explosive climax.  
+**bfi.org.uk**
 
 Hollywood has long had an uncomfortable relationship with the environment (and environmentalists). From Bruce Willis firing golf balls at Greenpeace activists in _Armageddon_ (1998) to the eco-terrorist villains who have haunted Bond films (_Quantum of Solace_, 2008) and comic-book movies (_Avengers: Endgame_, 2019) for over a decade, mainstream movies have largely been happy to portray radical environmentalists as pompous hypocrites or downright unhinged. Artier American filmmakers have also proved susceptible to this tendency, albeit in a lower key: Kelly Reichardt’s _Night Moves_ and Zal Batmanglij’s _The East_ depicted their eco-terrorist protagonists as cultish, irresponsible and violent, and though both films are ten years old this year, there have been few positive portrayals of young green activists in the intervening years. The kids today, huh?
 
@@ -15,76 +15,55 @@ The film gives voice to the relevant debates: other environmentalists, law enfor
 Not since Sergio Leone’s _Duck, You Sucker!_ (1971) has someone produced such a subversive, politically forthright, partisan piece of genre entertainment. There are undoubtedly some well-oiled clichés and on-the-nose dialogue, but it’s refreshing to watch a film that doesn’t dress up weary, unimaginative irony as political sophistication. It means what it says; fire alarms aren’t meant to be subtle. _How to Blow Up a Pipeline_ is eco-friendly dynamite, a necessarily dangerous film that argues that violence against property can be an act of  
 self-defence.
 
-In a slightly different context, Conservative Prime Minister John Major once said that we should ‘condemn a little more and understand a little less’. To paraphrase Xochitl: if the law will not condemn you, this film will.
+In a slightly different context, Conservative Prime Minister John Major once said that we should ‘condemn a little more and understand a little less’. To paraphrase Xochitl: if the law will not condemn you, this film will.  
+**John Bleasdale, _Sight and Sound_, bfi.org.uk/sight-and-sound, 26 January 2023**
+<br><br>
 
-John Bleasdale, _Sight and Sound_, bfi.org.uk/sight-and-sound, 26 January 2023
+**HOW TO BLOW UP A PIPELINE**<br>
+_Director:_ Daniel Goldhaber<br>
+_Production Company:_ Chrono<br>
+_Executive Producers:_ Forrest Goodluck,  Eugene Kotlyarenko, Riccardo Maddalosso,  Jon Rosenberg, Natalie Sellers, Jordan Sjol<br>
+_Producers:_ Daniel Goldhaber, Ariela Barer,  Alex Black, Alex Hughes, Isa Mazzei,  Adam Wyatt Tate, David Grove Churchill Viste<br>
+_Co-producer:_ Danielle Mandel<br>
+_Screenplay:_ Daniel Goldhaber, Jordan Sjol,  Ariela Barer<br>
+_Based on the book by:_ Andreas Malm<br>
+_Director of Photography:_ Tehillah De Castro<br>
+_Editor:_ Daniel Garber<br>
+_Production Designer:_ Adri Siriwatt<br>
+_Art Director:_ Kendra Tuthill<br>
+_Costume Designer:_ Eunice Jera Lee<br>
+_Music:_ Gavin Brivik<br>
+_Sound Mixer:_ Andrejs Prokopenko<br>
 
-<![endif]-->
+_Cast<br>
 
-**HOW TO BLOW UP A PIPELINE**
+Sasha Lane _(Theo)_<br>
 
-_Director:_ Daniel Goldhaber
+Forrest Goodluck _(Michael)_<br>
 
-_Production Company:_ Chrono
+Lukas Gage _(Logan)_<br>
 
-_Executive Producers:_ Forrest Goodluck,  
-Eugene Kotlyarenko, Riccardo Maddalosso,  
-Jon Rosenberg, Natalie Sellers, Jordan Sjol
+Ariela Barer _(Xochitl)_<br>
 
-_Producers:_ Daniel Goldhaber, Ariela Barer,  
-Alex Black, Alex Hughes, Isa Mazzei,  
-Adam Wyatt Tate, David Grove Churchill Viste
+Kristine Froseth _(Rowan)_<br>
 
-_Co-producer:_ Danielle Mandel
+Jayme Lawson _(Alisha)_<br>
 
-_Screenplay:_ Daniel Goldhaber, Jordan Sjol,  
-Ariela Barer
+Marcus Scribner _(Shawn)_<br>
 
-_Based on the book by:_ Andreas Malm
+Jake Weary _(Dwayne)_<br>
 
-_Director of Photography:_ Tehillah De Castro
+Irene Bedard _(Joanna)_<br>
 
-_Editor:_ Daniel Garber
+Olive Jane Lorraine _(Katie)_<br>
 
-_Production Designer:_ Adri Siriwatt
-
-_Art Director:_ Kendra Tuthill
-
-_Costume Designer:_ Eunice Jera Lee
-
-_Music:_ Gavin Brivik
-
-_Sound Mixer:_ Andrejs Prokopenko
-
-_Cast:_
-
-Sasha Lane _(Theo)_
-
-Forrest Goodluck _(Michael)_
-
-Lukas Gage _(Logan)_
-
-Ariela Barer _(Xochitl)_
-
-Kristine Froseth _(Rowan)_
-
-Jayme Lawson _(Alisha)_
-
-Marcus Scribner _(Shawn)_
-
-Jake Weary _(Dwayne)_
-
-Irene Bedard _(Joanna)_
-
-Olive Jane Lorraine _(Katie)_
-
-USA 2022
+USA 2022<br>
 
 102 mins
 
 Courtesy of Vertigo Releasing
 
-Glasgow Film Festival returns for the 19th edition from 1-12 March 2023 across the UK with world premieres and the most anticipated indie films of the year.
+Glasgow Film Festival returns for the 19th edition from 1-12 March 2023 across the UK with world premieres and the most anticipated indie films of the year.<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODM3MzQ4OF19
+eyJoaXN0b3J5IjpbLTIwNTc5NTM2NjhdfQ==
 -->
