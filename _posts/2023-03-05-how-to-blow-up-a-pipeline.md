@@ -35,35 +35,38 @@ _Costume Designer:_ Eunice Jera Lee<br>
 _Music:_ Gavin Brivik<br>
 _Sound Mixer:_ Andrejs Prokopenko<br>
 
-_Cast<br>
-
+**Cast**<br>
 Sasha Lane _(Theo)_<br>
-
 Forrest Goodluck _(Michael)_<br>
-
 Lukas Gage _(Logan)_<br>
-
 Ariela Barer _(Xochitl)_<br>
-
 Kristine Froseth _(Rowan)_<br>
-
 Jayme Lawson _(Alisha)_<br>
-
 Marcus Scribner _(Shawn)_<br>
-
 Jake Weary _(Dwayne)_<br>
-
 Irene Bedard _(Joanna)_<br>
-
 Olive Jane Lorraine _(Katie)_<br>
 
 USA 2022<br>
-
 102 mins
 
 Courtesy of Vertigo Releasing
 
 Glasgow Film Festival returns for the 19th edition from 1-12 March 2023 across the UK with world premieres and the most anticipated indie films of the year.<br><br>
+
+
+**IN PERSON & PREVIEWS**<br>
+**TV Preview: Inside No. 9 + Q&A with Steve Pemberton, Reece Shearsmith and Adam Tandy**<br>
+Mon 6 Mar 18:15<br>
+**WOW Festival Presents Prima Facie  + panel discussion**<br>
+Wed 8 Mar 18:15<br>
+**Preview: Winners + Q&A with director  Hassan Nazer**<br>
+Thu 9 Mar 18:15<br>
+**Mark Kermode Live in 3D at the BFI**<br>
+Mon 13 Mar 18:30<br>
+**Preview: Rye Lane + Q&A with director  Raine Allen-Miller**<br>
+Monday 13 March 20:45<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc5NTM2NjhdfQ==
+eyJoaXN0b3J5IjpbLTE1NzI0NDQ0NjJdfQ==
 -->
