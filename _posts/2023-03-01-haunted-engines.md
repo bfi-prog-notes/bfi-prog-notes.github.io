@@ -9,48 +9,38 @@ UNICA is named after the writer and artist Unica Zürn (1916 – 1970), whose il
 
 **Hudson Valley Ruins**  
 Depicting various domestic spheres of a suburban north American context, _Hudson Valley Ruins_ is a machinima video that relies on _The Sims 3_ computer graphics engine to depict the absurd, alienated, and often uncanny lives of several characters, focusing on two young girls and their visions, experiences, and fantasies.
-<br><
+<br><br>
 
-**UNICA**
-
-_Written and Directed by:_ Blaise Kirschner
-
-_Production:_ Blaise Kirschner
-
+**UNICA**  
+_Written and Directed by:_ Blaise Kirschner  
+_Production:_ Blaise Kirschner  
 _Commissioned and Co-produced by:_ Fluentum  
 _Curators:_ Junia Thiede, Dennis Brzek  
 _Production Assistant:_ Lena Weißmüller  
 _Cinematography:_ Julian Moser  
 _Camera Assistant:_ Luisa Knight  
 _Editing:_ Katharina Voß  
-_Dramaturgy & Choreography:_ Zee Hartmann
-
-_Motion Capture:_ OnPoint Studios
-
+_Dramaturgy & Choreography:_ Zee Hartmann  
+_Motion Capture:_ OnPoint Studios  
 _Animation:_ Diana Gradinaru  
 _Production Design:_ Cleo Niemeyer-Nasser  
-_Hair & Make-up:_ Kathrin Hieselmayr
-
+_Hair & Make-up:_ Kathrin Hieselmayr  
 _Colour Grading:_ Julian Moser  
 _Sound:_ Katharina Voß  
 _Sound Design & Soundtrack:_ Wibke Tiarks  
 _Sound Mix:_ Kostas Flylaktidis  
-_With:_
-
+_With:_  
 Gabrielle Scharnitzky _(UNICA A)_  
-Grete Gehrke _(UNICA B)_
-
-Germany 2022
-
+Grete Gehrke _(UNICA B)_  
+Germany 2022  
 36 mins
 
-**HUDSON VALLEY RUINS**
-
-_Director:_ Jacky Connolly
-
-USA 2016
-
+**HUDSON VALLEY RUINS**  
+_Director:_ Jacky Connolly  
+USA 2016  
 30 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyMjY5MTU1LC0xODU2Nzg5MTU5XX0=
+eyJoaXN0b3J5IjpbLTEzNTc3ODk2OTcsLTE4NTY3ODkxNTldfQ
+==
 -->
