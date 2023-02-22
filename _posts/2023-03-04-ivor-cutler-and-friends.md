@@ -1,12 +1,20 @@
-
+---
+layout: post
+title: Ivor Cutler and Friends
+published: true
+date: 2023-03-04
+readtime: true
+categories: ['IVOR CUTLER AND THE ECCENTRIC MISCELLANY']
+tags: [Talks, Television]
+metadata: 
+pdf: '2023-03-04-ivor-cutler-and-friends.pdf'
+---
 
 ‘Anyone can be seen to be eccentric if you take him out of his milieu and put him into someone else’s.’ – Ivor Cutler, 1974
 
-Ivor Cutler, the poet, singer, musician, teacher, painter, illustrator, sculptor, playwright and all-round creative, was born in Govan in January 1923. Across a wide-ranging career which lasted more than half a century, he produced over 1,500 written works and made some 400 radio and television appearances.  
-He published 29 books, many self-illustrated and several of them intended for children, as well as 11 albums of songs, poems, stories, dialogues and plays.
+Ivor Cutler, the poet, singer, musician, teacher, painter, illustrator, sculptor, playwright and all-round creative, was born in Govan in January 1923. Across a wide-ranging career which lasted more than half a century, he produced over 1,500 written works and made some 400 radio and television appearances.  He published 29 books, many self-illustrated and several of them intended for children, as well as 11 albums of songs, poems, stories, dialogues and plays.
 
-Cutler’s radio career was substantial and sustained, yet to television audiences he was something of an occasional curiosity. Never given his own show barring some untransmitted pilots, he was instead boxed up as an amusing turn in light entertainment shows such as _The Acker Bilk Band Show_ (BBC TV, 1962) or as a frequent, freakish contributor to _Late Night Line-Up_ (BBC Two,  
-1964-71).
+Cutler’s radio career was substantial and sustained, yet to television audiences he was something of an occasional curiosity. Never given his own show barring some untransmitted pilots, he was instead boxed up as an amusing turn in light entertainment shows such as _The Acker Bilk Band Show_ (BBC TV, 1962) or as a frequent, freakish contributor to _Late Night Line-Up_ (BBC Two,  1964-71).
 
 This session sets out to offer up examples of where his style, and perceived eccentricity, was best used. Perhaps the ultimate example, and his most widely remembered screen appearance, was in The Beatles’ Boxing Day spectacular _The Magical Mystery Tour_ (BBC One, 1967). His character, the lugubrious Buster Bloodvessel, declared he was ‘concerned for you to enjoy yourselves... within the limits of British decency.’ We ask the same of you all this afternoon.
 
@@ -37,8 +45,7 @@ Nigel Miller’s film places the viewer in the artist’s world, following him a
 
 **Lucian**  **Randall** is a writer and editor in London. He wrote _Ginger Geezer: The Life of Vivian Stanshall_ (4th Estate, 2001) with Chris Welch and _Disgusting Bliss: the Brass Eye of Chris Morris_ (Simon & Schuster, 2010).
 
-**William  Fowler** is a film archivist and writer, and co-curator of this season.  
-He is Curator of Artists’ Moving Image at the BFI National Archive where he acquires, restores and curates films. His co-authored book _The Bodies Beneath: The Flipside of British Film and Television_ was published by Strange Attractor Press in 2019 and _People Make Television_, a gallery show about British public access television which he co-curated, opened at Raven Row in January. In 2012, he oversaw the restoration and curation of a number of films made by and starring artist eccentric Bruce Lacey, working across the BFI and Camden Arts Centre, and collaborating with Jeremy Deller.
+**William  Fowler** is a film archivist and writer, and co-curator of this season.  He is Curator of Artists’ Moving Image at the BFI National Archive where he acquires, restores and curates films. His co-authored book _The Bodies Beneath: The Flipside of British Film and Television_ was published by Strange Attractor Press in 2019 and _People Make Television_, a gallery show about British public access television which he co-curated, opened at Raven Row in January. In 2012, he oversaw the restoration and curation of a number of films made by and starring artist eccentric Bruce Lacey, working across the BFI and Camden Arts Centre, and collaborating with Jeremy Deller.
 <br><br>
 
 **ALIVE AND KICKING – BRITISH POETS:  
@@ -76,6 +83,30 @@ Thu 9 Mar 20:45<br>
 **Margaret Rutherford and Friends + intro by Claire Mortimer, author of _Spinsters, Widows and Chars_**<br>
 Wed 15 Mar 18:15<br>
 <br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTM3MjMxNzA1OF19
 -->
