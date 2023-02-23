@@ -19,10 +19,9 @@ The serial scored well with the public and a condensed omnibus edition was broad
 
 Although the Sea Devils have been popular with fans and the public alike, they have thus far only re-appeared twice, the first time in the much derided Fifth Doctor story _Warriors of the Deep_ (1984) and then again in the Thirteenth Doctor’s _Legend of the Sea Devils_ (2022).  
 **Kevin Lyons, eofftv.com**
-<r
+<br><br>
 
-**DOCTOR WHO: THE SEA DEVILS**
-
+**DOCTOR WHO: THE SEA DEVILS**  
 _Directed by:_ Michael Briant  
 ©: BBC  
 _Producer:_ Barry Letts  
@@ -31,12 +30,9 @@ _Script Editor:_ Terrance Dicks
 _Studio Lighting:_ Mike Jefferies  
 _Film Cameraman:_ Peter Sargent  
 _Film Editor:_ Martyn Day  
-_Title Music by:_  
-Ron Grainer and BBC Radiophonic Workshop  
-_Title Music Arranged and recorded by:_  
-Delia Derbyshire *  
-_Incidental Music by:_ Malcolm Clarke,  
-BBC Radiophonic Worskhop  
+_Title Music by:_  Ron Grainer and BBC Radiophonic Workshop  
+_Title Music Arranged and recorded by:_  Delia Derbyshire *  
+_Incidental Music by:_ Malcolm Clarke,  BBC Radiophonic Worskhop  
 _Sound:_ Tony Millier, Colin Dixon  
 _Special Sounds by:_ Brian Hodgson  
 _Costumes:_ Maggie Fletcher  
@@ -48,10 +44,9 @@ _Assistant Floor Manager:_ John Bradburn *
 The BBC wish to acknowledge the help given to them by the Royal Navy in the making of this programme  
 _Action:_ Havoc  
 _Fight Arranger:_ Derek Ware *  
-_Stunts:_ Marc Boyle *, Peter Brace *, Alan Chuntz *, Jack Cooper *, Stuart Fell *, Billy Horrigan *,  
-Mike Horsborough *, Mike Stephens *,  
-Terry Walsh *, Derek Ware *  
-_Cast:_  
+_Stunts:_ Marc Boyle *, Peter Brace *, Alan Chuntz *, Jack Cooper *, Stuart Fell *, Billy Horrigan *,  Mike Horsborough *, Mike Stephens *,  Terry Walsh *, Derek Ware *  
+
+**Cast**  
 Jon Pertwee _(Doctor Who)_  
 Roger Delgado _(The Master)_  
 Katy Manning _(Jo Grant)_  
@@ -78,19 +73,18 @@ Rex Rowland _(A/B Girton)_
 Martin Boddey _(Walker)_  
 Norman Atkyns _(Rear Admiral)_  
 Peter Forbes-Robertson _(chief Sea Devil)_  
-John Caesar _(C.P.O. Myers)_
-
+John Caesar _(C.P.O. Myers)_  
 Michael Briant _(voice of DJ)_ *  
-Steven Ismay, Brian Nolan, Frank Seton,  
-Jeff Witherick _(Sea Devils)_ *  
+Steven Ismay, Brian Nolan, Frank Seton,  Jeff Witherick _(Sea Devils)_ *  
 Stewart Barry, Bob Blaine, Les Clark, Jim Dowdall, Brian Gilmar, Phillip Weston _(chateau guards)_ *  
-Jim Dowdall, Nick Llewellyn, Roy Pearce,  
-Dennis Plenty, Ron Tingley _(ratings)_ *  
+Jim Dowdall, Nick Llewellyn, Roy Pearce,  Dennis Plenty, Ron Tingley _(ratings)_ *  
 Jim Dowdall, Brian Gilmar, Nick Llewellyn, Roy Pearce, Dennis Plenty, Ron Tingley, Phillip Weston _(naval base sailors)_ *
 
-BBC1 tx 26.2 – 1.4.1972
-
+BBC1 tx 26.2 – 1.4.1972  
 6 x 25 mins
+
+_Doctor Who: The Collection – Season 9_ will be released by BBC Studios on Blu-ray soon
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjMxMDk0OV19
+eyJoaXN0b3J5IjpbNTA1MDI3OTgxXX0=
 -->
