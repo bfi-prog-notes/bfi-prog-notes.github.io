@@ -37,7 +37,7 @@ Japan 1957
 
 
 **RELAXED SERIES:  
-KUROSAWA: HONOUR, MIFUNE AND BETRAYAL**
+KUROSAWA: HONOUR, MIFUNE AND BETRAYAL**  
 
 As part of our Akira Kurosawa season in January and February we present two relaxed screenings which show core themes of honour and betrayal from in his work in very different ways.
 
@@ -47,6 +47,6 @@ The screenings have been selected by campaigner and creative Leo Capella (former
 
 After each screening join us for a relaxed discussion in the Blue Room as we explore some of these themes. Leo Capella will host the discussion in conversation with Kurosawa season co-programmer, Ian Haydn-Smith.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjExMDU3NjQsLTE5MTIzMTQwNjgsLT
-EwMTAzNzc5MDRdfQ==
+eyJoaXN0b3J5IjpbMTE3MDgwMTExNiwtMTkxMjMxNDA2OCwtMT
+AxMDM3NzkwNF19
 -->
