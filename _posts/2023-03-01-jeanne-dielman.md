@@ -6,7 +6,7 @@ date: 2023-03-01
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>1']
 tags: [Drama]
-metadata: 'Belgium/France 1975, 2 mins<br> Director: Chantal Akerman'
+metadata: 'Belgium/France 1975, 201 mins<br> Director: Chantal Akerman'
 pdf: '2023-03-01-jeanne-dielman.pdf'
 ---
 
@@ -14,11 +14,8 @@ pdf: '2023-03-01-jeanne-dielman.pdf'
 
 Such a sudden shake-up at the top of _Sight and Sound’_s ten-yearly poll! Chantal Akerman’s _Jeanne Dielman  23, Quai du Commerce, 1080 Bruxelles_ (1975) heads the 2022 list. No other film made by a woman has ever even reached the top ten. In the first instance, this is unsurprising: women film directors have always, obviously, been few and far between; equally obviously, the contributing critics have been predominantly male. It was when _Sight and Sound_ expanded the critics’ pool in 2012 that _Jeanne Dielman_ first entered the list, at number 35; its rise to the top now is a triumph for women’s cinema.
 
-But perhaps the ultimate surprise goes even further: the film that collected the most votes in 2022 is made with a cinematic style and strategy closer to _avant garde_ than mainstream traditions and, furthermore, at just under three and a half hours, demands dedicated viewing. Although confrontational, idiosyncratic and extraordinary films have consistently appeared lower in the lists, the experimental tradition, to which _Jeanne Dielman_ belongs, is – apart perhaps from the recent appearance of Dziga Vertov’s _Man with a Movie Camera_ (1929) – absent. While it has brought this tradition to the top of the list, _Jeanne Dielman_ is inescapably a woman’s film, consciously feminist in its turn to the _avant garde_. On the side of content, the film charts the breakdown of a bourgeois Belgian housewife, mother and part-time prostitute over the course of three days; on the side of form, it rigorously records her domestic routine in extended time and from a fixed camera position. In a film that, agonisingly, depicts women’s oppression, Akerman transforms cinema, itself so often an instrument of women’s oppression, into a liberating force.
-
-**Laura Mulvey****, _Sight and Sound_, 1 December 2022  
-<![if !supportLineBreakNewLine]>  
-<![endif]>**
+But perhaps the ultimate surprise goes even further: the film that collected the most votes in 2022 is made with a cinematic style and strategy closer to _avant garde_ than mainstream traditions and, furthermore, at just under three and a half hours, demands dedicated viewing. Although confrontational, idiosyncratic and extraordinary films have consistently appeared lower in the lists, the experimental tradition, to which _Jeanne Dielman_ belongs, is – apart perhaps from the recent appearance of Dziga Vertov’s _Man with a Movie Camera_ (1929) – absent. While it has brought this tradition to the top of the list, _Jeanne Dielman_ is inescapably a woman’s film, consciously feminist in its turn to the _avant garde_. On the side of content, the film charts the breakdown of a bourgeois Belgian housewife, mother and part-time prostitute over the course of three days; on the side of form, it rigorously records her domestic routine in extended time and from a fixed camera position. In a film that, agonisingly, depicts women’s oppression, Akerman transforms cinema, itself so often an instrument of women’s oppression, into a liberating force.  
+**Laura Mulvey, _Sight and Sound_, 1 December 2022**  
 
 In January 1976 _Le Monde_ heralded Chantal Akerman’s _Jeanne Dielman  23, Quai du Commerce, 1080 Bruxelles_ as ‘the first masterpiece in the feminine in the history of the cinema’. The unconventional style (frontally centred images, elliptical and disjunctive editing) and subject (a woman’s alienation from her daily routine as a housewife and involvement in a discrete form of prostitution that leads her to murder) made the film a powerful sign of a decade when feminism erupted into the arena of politics and film. In _Jeanne Dielman_ Akerman conveyed the insistent presence of a viewpoint outside the story proper: her own – a young woman absorbed by the world of her mother’s generation. And her film still seems remarkably modern, all three hours and 20 minutes of it.
 
@@ -61,30 +58,29 @@ Henri Storck _(1st caller)_
 Jacques Doniol-Valcroze _(2nd caller)_  
 Yves Bical _(3rd caller)_  
 Chantal Akerman _(voice of neighbour)_  
-
   
 Belgium/France 1975  
 201 mins  
 
-Restoration carried out from the original camera negative and in close collaboration with Chantal Akerman. Courtesy of the Royal Film Archive of Belgium – Cinematek.
+Restoration carried out from the original camera negative and in close collaboration with Chantal Akerman. Courtesy of the Royal Film Archive of Belgium – Cinematek.  
 
-**SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**
-**Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles**
-Wed 1 Mar 18:00; Thu 2 Mar 18:50; Sat 11 Mar 18:50
-**Philosophical Screens: Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles**
-Wed 1 Mar 21:30 Blue Room
-**Daisies (Sedmikrásky) + Meshes of the Afternoon**
-Wed 1 Mar 20:50; Wed 8 Mar 18:20 (+ intro)
-**Au hasard Balthazar**
-Thu 2 Mar 20:50; Mon 6 Mar 18:30
-**Taxi Driver**
-Thu 2 Mar 21:00 BFI IMAX; Fri 3 Mar 18:10; Mon 13 Mar 20:40
-**La Règle du jeu (The Rules of the Game)**
-Fri 3 Mar 14:30; Sat 4 Mar 13:20; Sat 11 Mar 18:05
-**Persona**
-Fri 3 Mar 18:30; Thu 9 Mar 21:05
-**Portrait of a Lady on Fire (Portrait de la jeune fille en feu)**
-Fri 3 Mar 20:30; Wed 8 Mar 20:30
+**SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**  
+**Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles**  
+Wed 1 Mar 18:00; Thu 2 Mar 18:50; Sat 11 Mar 18:50  
+**Philosophical Screens: Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles**  
+Wed 1 Mar 21:30 Blue Room  
+**Daisies (Sedmikrásky) + Meshes of the Afternoon**  
+Wed 1 Mar 20:50; Wed 8 Mar 18:20 (+ intro)  
+**Au hasard Balthazar**  
+Thu 2 Mar 20:50; Mon 6 Mar 18:30  
+**Taxi Driver**  
+Thu 2 Mar 21:00 BFI IMAX; Fri 3 Mar 18:10; Mon 13 Mar 20:40  
+**La Règle du jeu (The Rules of the Game)**  
+Fri 3 Mar 14:30; Sat 4 Mar 13:20; Sat 11 Mar 18:05  
+**Persona**  
+Fri 3 Mar 18:30; Thu 9 Mar 21:05  
+**Portrait of a Lady on Fire (Portrait de la jeune fille en feu)**  
+Fri 3 Mar 20:30; Wed 8 Mar 20:30  
 **Do the Right Thing**
 Fri 3 Mar 20:35; Sat 11 Mar 18:10
 **Singin’ in the Rain**
@@ -130,5 +126,5 @@ Fri 10 Mar 18:30; Wed 15 Mar 20:50
 **The Godfather**
 Fri 10 Mar 19:00; Sun 12 Mar 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwNTU4MzAzXX0=
+eyJoaXN0b3J5IjpbLTY5OTY5MjM5Nl19
 -->
