@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Do the Right Thing
+published: true
+date: 2023-03-03
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>24=']
+tags: [Drama]
+metadata: 'USA 1989, 120 mins<br> Director: Spike Lee'
+pdf: '2023-03-03-do-the-right-thing.pdf'
+---
 
 During the hottest day of the year, Mookie (Lee) travels around his predominantly black Brooklyn neighbourhood making deliveries for the local pizzeria run by Italian American Sal (Aiello). As the temperature rises, so do the simmering racial tensions in the community. Expertly crafted, exploding with his distinctive visual style and humour, Spike Lee’s cinematic sucker-punch is a landmark of American cinema that remains just as powerful and profoundly relevant as the day it debuted.  
 **Kimberley Sheehan, bfi.org.uk**  
@@ -103,5 +113,5 @@ Yattee Brown, Mecca Brunson, Shawn Stainback, Soquana Wallace _(Double Dutch gir
 USA 1989©  
 120 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTc5ODM1N119
+eyJoaXN0b3J5IjpbLTQ4MzE2NjgxNl19
 -->
