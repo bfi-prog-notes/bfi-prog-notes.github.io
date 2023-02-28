@@ -1,11 +1,7 @@
 
-<![endif]-->
 
-During the hottest day of the year, Mookie (Lee) travels around his predominantly black Brooklyn neighbourhood making deliveries for the local pizzeria run by Italian American Sal (Aiello). As the temperature rises, so do the simmering racial tensions in the community. Expertly crafted, exploding with his distinctive visual style and humour, Spike Lee’s cinematic sucker-punch is a landmark of American cinema that remains just as powerful and profoundly relevant as the day it debuted.
-
-**Kimberley Sheehan,** **bfi.org.uk  
-<![if !supportLineBreakNewLine]>  
-<![endif]>**
+During the hottest day of the year, Mookie (Lee) travels around his predominantly black Brooklyn neighbourhood making deliveries for the local pizzeria run by Italian American Sal (Aiello). As the temperature rises, so do the simmering racial tensions in the community. Expertly crafted, exploding with his distinctive visual style and humour, Spike Lee’s cinematic sucker-punch is a landmark of American cinema that remains just as powerful and profoundly relevant as the day it debuted.  
+**Kimberley Sheehan, bfi.org.uk**  
 
 Spike Lee’s third feature, _Do the Right Thing_, remains a genuine one-off.  
 A vivid, unabashedly theatrical snapshot of one blisteringly hot day in the life of a multicultural Brooklyn block, it was an impassioned response to simmering racial tensions in New York City by its then 32-year-old auteur. From the superb performances by a vast ensemble cast to Ernest Dickerson’s searing cinematography; from its barbed, lyrical screenplay to the lushly versatile jazz score by the director’s father Bill Lee, it resounds as a singular artistic triumph.
@@ -107,5 +103,5 @@ Yattee Brown, Mecca Brunson, Shawn Stainback, Soquana Wallace _(Double Dutch gir
 USA 1989©  
 120 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5NjUyNTUwXX0=
+eyJoaXN0b3J5IjpbLTcwNTc5ODM1N119
 -->
