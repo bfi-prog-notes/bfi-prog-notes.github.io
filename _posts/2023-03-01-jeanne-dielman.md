@@ -4,10 +4,10 @@ title: Jeanne Dielman<br>23, Quai du Commerce, 1080 Bruxelles
 published: true
 date: 2023-03-01
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
-tags: [Thriller]
-metadata: 'USA 1946, 95 mins<br> Director: Orson Welles'
-pdf: '2021-09-01-stranger.pdf'
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>1']
+tags: [Drama]
+metadata: 'Belgium/France 1975, 2 mins<br> Director: Chantal Akerman'
+pdf: '2023-03-01-jeanne-dielman.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -34,13 +34,11 @@ Akerman called _Jeanne Dielman_ a feminist film, but not a militant one: Jeanne 
 
 Akerman stated in an interview with _Camera Obscura_: ‘I do think it’s a feminist film because I give space to things which were never, almost never, shown in that way, like the daily gestures of a woman. They are the lowest in the hierarchy of film images. A kiss or a car crash comes higher, and I don’t think that’s accidental. It’s because these are women’s gestures that they count for so little.’
 
-Akerman once thought of dedicating _Jeanne Dielman_ to her mother, and in an interview she described her love for the mother’s gestures which she observed with so much care. ‘I was looking with a great deal of attention and the attention wasn’t distanced… For me, the way I looked at what was going on was a look of love and respect… I let her live her life in the middle of the frame… I let her be in her space. It’s not uncontrolled. But the camera was not voyeuristic in the commercial way because you always knew where I was. You know, it wasn’t shot through the keyhole.’ Yet Akerman’s point of view and framing also represent the director’s control over the mother’s every movement – perhaps the will to omnipotence that motivates every child, but given Akerman’s mother’s refusal to speak about what must have seemed to be the most important thing in her past, the stakes were surely higher.
-
-**Janet Bergstrom, _Sight and Sound_, November 1999**
+Akerman once thought of dedicating _Jeanne Dielman_ to her mother, and in an interview she described her love for the mother’s gestures which she observed with so much care. ‘I was looking with a great deal of attention and the attention wasn’t distanced… For me, the way I looked at what was going on was a look of love and respect… I let her live her life in the middle of the frame… I let her be in her space. It’s not uncontrolled. But the camera was not voyeuristic in the commercial way because you always knew where I was. You know, it wasn’t shot through the keyhole.’ Yet Akerman’s point of view and framing also represent the director’s control over the mother’s every movement – perhaps the will to omnipotence that motivates every child, but given Akerman’s mother’s refusal to speak about what must have seemed to be the most important thing in her past, the stakes were surely higher.  
+**Janet Bergstrom, _Sight and Sound_, November 1999**  
 
 **JEANNE DIELMAN  
-23, QUAI DU COMMERCE, 1080 BRUXELLES**
-
+23, QUAI DU COMMERCE, 1080 BRUXELLES**  
 _Director:_ Chantal Akerman  
 _Production Companies:_ Paradise Films, Unité 3, Ministère de la Culture  
 _Producers:_ Evelyne Paul, Corinne Jenart  
@@ -132,5 +130,5 @@ Fri 10 Mar 18:30; Wed 15 Mar 20:50
 **The Godfather**
 Fri 10 Mar 19:00; Sun 12 Mar 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc2NTYxMTVdfQ==
+eyJoaXN0b3J5IjpbNjUwNTU4MzAzXX0=
 -->
