@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Jeanne Dielman<br>23, Quai du Commerce, 1080 Bruxelles
+published: true
+date: 2023-03-01
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Thriller]
+metadata: 'USA 1946, 95 mins<br> Director: Orson Welles'
+pdf: '2021-09-01-stranger.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -47,18 +56,17 @@ _Sound Recording:_ Benie Deswarte, Françoise van Thienen
 _Sound Re-recording:_ Jean-Paul Loublier  
 _Sound Editor:_ Alain Marchall  
 
-
-**Cast**
+**Cast**  
 Delphine Seyrig _(Jeanne Dielman)_  
 Jan Decorte _(Sylvain Dielman)_  
 Henri Storck _(1st caller)_  
 Jacques Doniol-Valcroze _(2nd caller)_  
 Yves Bical _(3rd caller)_  
-Chantal Akerman _(voice of neighbour)_
+Chantal Akerman _(voice of neighbour)_  
 
   
-Belgium/France 1975
-201 mins
+Belgium/France 1975  
+201 mins  
 
 Restoration carried out from the original camera negative and in close collaboration with Chantal Akerman. Courtesy of the Royal Film Archive of Belgium – Cinematek.
 
@@ -124,5 +132,5 @@ Fri 10 Mar 18:30; Wed 15 Mar 20:50
 **The Godfather**
 Fri 10 Mar 19:00; Sun 12 Mar 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxMDI0MTc5XX0=
+eyJoaXN0b3J5IjpbLTE2MDc2NTYxMTVdfQ==
 -->
