@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Jeanne Dielman<br>23, Quai du Commerce, 1080 Bruxelles
+title: Au hasard Balthazar
 published: true
-date: 2023-03-01
+date: 2023-03-02
 readtime: true
-categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>1']
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>25=']
 tags: [Drama]
 metadata: 'France/Sweden 1966, 95 mins<br> Director: Robert Bresson'
-pdf: '2023-03-01-jeanne-dielman.pdf'
+pdf: '2023-03-02-au-hasard-balthazar-.pdf'
 ---
-
 
 **SPOILER WARNING The following notes give away some of the plot.**
 
@@ -182,5 +181,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA1MTQyNDNdfQ==
+eyJoaXN0b3J5IjpbLTI1NTQ5ODQyXX0=
 -->
