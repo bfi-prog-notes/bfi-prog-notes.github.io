@@ -88,24 +88,24 @@ Roger Guenveur Smith _(Smiley)_
 Steve White _(Ahmad)_  
 Martin Lawrence _(Cee)_  
 Leonard Thomas _(Punchy)_  
-Christa Rivers _(Ella)_
-Frank Vincent _(Charlie)_
-Luis Ramos _(Stevie)_
-Richard Habersham _(Eddie)_
-Gwen McGee _(Louise)_
-Steve Park _(Sonny)_
-Ginny Yang _(Kim)_
-Sherwin Park _(Korean child)_
-Shawn Elliott _(Puerto Rican ice man)_
-Diva Osorio _(Carmen)_
-Chris Delaney, Angel Ramirez, Sixto Ramos, Nelson Vasquez _(Stevie’s friends)_
-Travell Lee Toulson _(Hector)_
-Joel Nagle _(sergeant)_
-David E. Weinberg _(plainclothes detective)_
-Yattee Brown, Mecca Brunson, Shawn Stainback, Soquana Wallace _(Double Dutch girls)_
+Christa Rivers _(Ella)_  
+Frank Vincent _(Charlie)_  
+Luis Ramos _(Stevie)_  
+Richard Habersham _(Eddie)_  
+Gwen McGee _(Louise)_  
+Steve Park _(Sonny)_  
+Ginny Yang _(Kim)_  
+Sherwin Park _(Korean child)_  
+Shawn Elliott _(Puerto Rican ice man)_  
+Diva Osorio _(Carmen)_  
+Chris Delaney, Angel Ramirez, Sixto Ramos, Nelson Vasquez _(Stevie’s friends)_  
+Travell Lee Toulson _(Hector)_  
+Joel Nagle _(sergeant)_  
+David E. Weinberg _(plainclothes detective)_  
+Yattee Brown, Mecca Brunson, Shawn Stainback, Soquana Wallace _(Double Dutch girls)_  
 
 USA 1989©  
 120 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxNDM0Mzc0XX0=
+eyJoaXN0b3J5IjpbOTE5NjUyNTUwXX0=
 -->
