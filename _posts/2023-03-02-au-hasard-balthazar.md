@@ -12,8 +12,7 @@ pdf: '2023-03-02-au-hasard-balthazar-.pdf'
 
 **SPOILER WARNING The following notes give away some of the plot.**
 
-Robert Bresson drafted the rules of a new cinema and realised them in  
-_Au hasard Balthazar_, his masterpiece. This seemingly aloof, cold film, inspired by a passage in Dostoevsky’s 1868 novel _The Idiot_, burns with a yearning for justice and beauty. Bresson’s disciplined portraiture of a donkey and the way of life in the French countryside is a lesson in seeing the world anew through the cinema and noticing the potential that endeavour contains.  
+Robert Bresson drafted the rules of a new cinema and realised them in _Au hasard Balthazar_, his masterpiece. This seemingly aloof, cold film, inspired by a passage in Dostoevsky’s 1868 novel _The Idiot_, burns with a yearning for justice and beauty. Bresson’s disciplined portraiture of a donkey and the way of life in the French countryside is a lesson in seeing the world anew through the cinema and noticing the potential that endeavour contains.  
 **Kaya Genc, _Sight and Sound_, Winter 2022-23**  
 
 **Contemporary reviews**  
@@ -26,9 +25,7 @@ But the paradox of the film is that, physically speaking, it is actually Balthaz
 Admire, too, Bresson’s extraordinary use of non-actors. There is a whole treatise to be written on Bresson’s use of eyes in this film, starting on the one hand with the unwinking stares, full of secret knowledge and complicity, which pass between Balthazar and the animals in the circus; and on the other, the veiled secrecy of the humans – except Gérard, who stares boldly straight at Marie and at the camera – as they cast their eyes downwards to place a question mark to their utterances.  
 **_Monthly Film Bulletin_, January 1967**  
 
-The world changes, but not Bresson. _Au hasard Balthazar_ is his greatest and most Bressonian film, but not merely because it echoes the arrogance of  
-_Les Anges du péché_, the waterfall of _Les Dames du Bois de Boulogne_, the letter reading of _Le Journal d’un curé de campagne_, the gear-lever of  
-_Un condamné à mort_, the hands of _Pickpocket_, the naked feet of _Jeanne d’Arc_. It is great because in the harmonies and dissonances between the characters (Marie in particular) and the donkey, Balthazar, and between successive images, between images and soundtrack, there is a dynamic exchange reaching to the limits of possibility whereby each is enriched, transformed by the contact. Motion and stasis, repetition and fulfilment, transition, resonance of sequence against sequence, reality against fantasy, flesh against spirit, sight against sound: Bresson’s style is in perfect working order, a well-oiled machine set to reveal the secret, inner movement he cherishes.
+The world changes, but not Bresson. _Au hasard Balthazar_ is his greatest and most Bressonian film, but not merely because it echoes the arrogance of _Les Anges du péché_, the waterfall of _Les Dames du Bois de Boulogne_, the letter reading of _Le Journal d’un curé de campagne_, the gear-lever of _Un condamné à mort_, the hands of _Pickpocket_, the naked feet of _Jeanne d’Arc_. It is great because in the harmonies and dissonances between the characters (Marie in particular) and the donkey, Balthazar, and between successive images, between images and soundtrack, there is a dynamic exchange reaching to the limits of possibility whereby each is enriched, transformed by the contact. Motion and stasis, repetition and fulfilment, transition, resonance of sequence against sequence, reality against fantasy, flesh against spirit, sight against sound: Bresson’s style is in perfect working order, a well-oiled machine set to reveal the secret, inner movement he cherishes.
 
 Assuming his audience to be adult, and refusing to do their work for them, Bresson does not explain his film or stress its few scattered keys. The principal themes to be orchestrated throughout the film are introduced right from the beginning. We see a foal suckled by its mother, a child’s caressing hands, a strange baptism in the salt of wisdom, children playing in the straw, a bench, a swing, the death of a little girl, a carriage laden with luggage; a murmured phrase, ‘Till next year!’ which an irony of fate renders meaningless as soon as it is uttered (the father has no intention of coming back). Then a swift transition: blows raining on the donkey, the donkey being shod. After the petting, the years of work and hardship, the sand to be carted, the fields to be ploughed. The sequence ends on an image of the donkey, injustice and hypocrisy already lashing him like blows from a whip.
 
@@ -95,6 +92,7 @@ France/Sweden 1966
 
 \* Uncredited
 <br>
+
 **SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**  
 **Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles**  
 Wed 1 Mar 18:00; Thu 2 Mar 18:50; Sat 11 Mar 18:50  
