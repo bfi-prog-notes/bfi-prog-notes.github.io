@@ -20,54 +20,53 @@ The characters are also somewhat less nuanced than in many other Ozu films, even
 
 Aside from Takanobu Saito’s lush but sparingly used Hollywood-style score, the film’s soundtrack is dominated by three elements: chirping crickets, boats chugging and sounding their sirens, and train noises. The crickets evoke the rural ambience of Onomichi, while the other two sound elements evoke travel and the space between places – and by extension, people. But Ozu is far too subtle and humane an artist to reduce his sound design to a matter of schematic symbols. In a film concerned with constant journeying, it’s significant that the only shot of anyone in the act of travelling is the image of Noriko on the train back to Tokyo in the end. In the shot, she pulls out Tom’s heirloom, the pocket watch, and examines it with deep emotion. The shot mysteriously clinches the association between the idea (or sound) of travel and the motif of evanescence. This may be the least ‘melodramatic’ moment in the film. It is also probably the most truly Ozu-esque.  
 **Tony Rayns, _Sight & Sound_, February 1994**  
+<br>
+**TOKYO STORY (TÔKYÔ MONOGATARI)**  
+_Director:_ Yasujiro Ozu  
+_Production Company:_ Shochiku Co. Ltd.  
+_Producer:_ Takeshi Yamamoto  
+_Production Manager:_ Tomiji Shimizu  
+_Assistant Directors:_ Yamamoto Kôzô, Takahashi Osamu  
+_Second Assistant Director:_ Shôhei Imamura *  
+_Assistant Directors:_ Kozo Yamamoto, Osamu Takahashi  
+_Screenplay:_ Kogo Noda, Yasujiro Ozu  
+_Director of Photography:_ Yuharu Atsuta  
+_Assistant Cinematographer:_ Takashi Kawamata  
+_Lighting Technician:_ Itsuo Takashita  
+_Lighting Assistant:_  Takeshi Yakuwa  
+_Editor:_ Yoshiyasu Hamamura  
+_Art Director:_ Tatsuo Hamada  
+_Set Designer:_ Toshio Takahashi  
+_Set Decorator:_ Setsutarô Moriya  
+_Costume Designer:_ Taizô Saitô  
+_Music:_ Takanobu Saitô  
+_Sound Engineer:_ Mitsuru Kaneko  
+_Sound Assistant:_  Yoshiomi Hori  
+_Sound Recording_:  Yoshisaburô Senô  
+_Film Development:_  Ryûji Hayashi  
 
-**TOKYO STORY** (**TÔKYÔ MONOGATARI)**
-_Director:_ Yasujiro Ozu
-_Production Company:_ Shochiku Co. Ltd.
-_Producer:_ Takeshi Yamamoto
-_Production Manager:_ Tomiji Shimizu
-_Assistant Directors:_ Yamamoto Kôzô, Takahashi Osamu
-_Second Assistant Director:_ Shôhei Imamura *
-
-_Assistant Directors:_ Kozo Yamamoto, Osamu Takahashi
-_Screenplay:_ Kogo Noda, Yasujiro Ozu
-_Director of Photography:_ Yuharu Atsuta
-_Assistant Cinematographer:_ Takashi Kawamata
-_Lighting Technician:_ Itsuo Takashita
-_Lighting Assistant:_  Takeshi Yakuwa
-_Editor:_ Yoshiyasu Hamamura
-_Art Director:_ Tatsuo Hamada
-_Set Designer:_ Toshio Takahashi
-_Set Decorator:_ Setsutarô Moriya
-_Costume Designer:_ Taizô Saitô
-_Music:_ Takanobu Saitô
-_Sound Engineer:_ Mitsuru Kaneko
-_Sound Assistant:_  Yoshiomi Hori
-_Sound Recording_:  Yoshisaburô Senô
-_Film Development:_  Ryûji Hayashi
-
-**Cast**
+**Cast**  
 Chishû Ryû _(Shûkichi Hirayama)_  
-Chieko Higashiyama  _(Tomi, Hirayama’s wife)_
-Setsuko Hara _(Noriko, Hirayama’s daughter-in-law)_
-Haruko Sugimura _(Shige Kaneko, Hirayama’s elder daughter)_
-Sô Yamamura _(Kôichi, Hirayama’s elder son)_
-Kuniko Miyake _(Fumiko, Koichi’s wife)_
-Kyôko Kagawa _(Kyôko, Hirayama’s younger daughter)_
-Eijirô Tono _(Sanpei Numata, Hirayama’s friend)_
-Nobuo Nakamura _(Kurazo Kaneko, Shige’s husband)_
-Shirô Ôsaka _(Keizô_  _Hirayama’s younger son)_
-Hisao Toake _(Osamu Hattori, Hirayama’s friend)_
-Teruko Nagaoka _(Yone Hattori)_
-Mutsuko Sakura _(woman at oden counter)_
-Toyo Takahashi _(Noriko’s neighbour in Onomichi)_
-Tôru  Abe _(railway clerk)_
-Sachiko Mitani _(woman at Noriko’s apartment)_
-Zen Murase _(Minoru, Koichi’s elder son)_
-Mitsuhiro Mori _(Isamu, Koichi’s younger son)_
-Junko Anan _(beauty salon assistant)_
-Ryôko Mizuki, Yoshiko Togawa _(beauty salon customers)_
-Kazuhiro Itokawa _(tenant_ _at the Hattori household__)_
+Chieko Higashiyama  _(Tomi, Hirayama’s wife)_  
+Setsuko Hara _(Noriko, Hirayama’s daughter-in-law)_  
+Haruko Sugimura _(Shige Kaneko, Hirayama’s elder daughter)_  
+Sô Yamamura _(Kôichi, Hirayama’s elder son)_  
+Kuniko Miyake _(Fumiko, Koichi’s wife)_  
+Kyôko Kagawa _(Kyôko, Hirayama’s younger daughter)_  
+Eijirô Tono _(Sanpei Numata, Hirayama’s friend)_  
+Nobuo Nakamura _(Kurazo Kaneko, Shige’s husband)_  
+Shirô Ôsaka _(Keizô Hirayama’s younger son)_  
+Hisao Toake _(Osamu Hattori, Hirayama’s friend)_  
+Teruko Nagaoka _(Yone Hattori)_  
+Mutsuko Sakura _(woman at oden counter)_  
+Toyo Takahashi _(Noriko’s neighbour in Onomichi)_  
+Tôru  Abe _(railway clerk)_  
+Sachiko Mitani _(woman at Noriko’s apartment)_  
+Zen Murase _(Minoru, Koichi’s elder son)_  
+Mitsuhiro Mori _(Isamu, Koichi’s younger son)_  
+Junko Anan _(beauty salon assistant)_  
+Ryôko Mizuki, Yoshiko Togawa _(beauty salon customers)_  
+Kazuhiro Itokawa _(tenant_at the Hattori household__)_
 Fumio Toyama _(patient)_
 Keijirô Morozumi _(police officer)_
 Tsutomu Niijima _(company section chief at Noriko’s office)_
@@ -81,5 +80,5 @@ Japan 1953
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTc0NjEyNjhdfQ==
+eyJoaXN0b3J5IjpbMjYyOTQ5NjVdfQ==
 -->
