@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Shy Radicals
+published: true
+date: 2023-03-04
+readtime: true
+categories: ['BUSTING THE BIAS']
+tags: [Documentary, Talk]
+metadata: 'UK 2020, 22mins<br> Director: Yasujiro Ozu'
+pdf: '2023-03-04-tokyo-story.pdf'
+---
 + intro and discussion
 
 A portrait of artist and activist Hamja Ahsan, commander-in-chief of the introvert resistance.
@@ -49,5 +59,5 @@ Sun 5 Mar 16:00
 Film curator Tara Brown leads an in-depth panel discussion about the intersections of queerness, disability and film.
 Sat 18 Mar 16:30  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzQ5Mzg2NF19
+eyJoaXN0b3J5IjpbMTI4NzU0NzkzN119
 -->
