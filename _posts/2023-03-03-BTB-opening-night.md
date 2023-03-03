@@ -47,26 +47,26 @@ A short film about Bella, an unemployed disabled actress.
 All films will be presented with descriptive subtitles for the D/deaf and people experiencing hearing loss with audio description available. All spoken word parts of the event will have live-captioning and BSL interpretation.
 
 
-**BUSTING THE BIAS**
+**BUSTING THE BIAS**  
 
-**Busting the Bias Opening Night: Is There Anybody Out There? An illustrated talk + ECLECTIC: Shorts Programme**
-Fri 3 Mar 18:00
+**Busting the Bias Opening Night: Is There Anybody Out There? An illustrated talk + ECLECTIC: Shorts Programme**  
+Fri 3 Mar 18:00  
 
-**Library Event: Reimagined Cinema**
-Sat 4 Mar 14:00 BFI Reuben Library
+**Library Event: Reimagined Cinema**  
+Sat 4 Mar 14:00 BFI Reuben Library  
 
-**Shy Radicals + intro and discussion**
-Sat 4 Mar 16:00 BFI Reuben Library
+**Shy Radicals + intro and discussion**  
+Sat 4 Mar 16:00 BFI Reuben Library  
 
-**Nothing about Us without Us: Celebrating 5 years of BFI’s Disability Screen Advisory Group**
-Sun 5 Mar 14:00
+**Nothing about Us without Us: Celebrating 5 years of BFI’s Disability Screen Advisory Group**  
+Sun 5 Mar 14:00  
 
-**I Didn’t See You There + pre-recorded Q&A**
-Sun 5 Mar 16:00
+**I Didn’t See You There + pre-recorded Q&A**  
+Sun 5 Mar 16:00  
 
-**FLARE: We Have Always Been Here!**
-Film curator Tara Brown leads an in-depth panel discussion about the intersections of queerness, disability and film.
-Sat 18 Mar 16:30
+**FLARE: We Have Always Been Here!**  
+Film curator Tara Brown leads an in-depth panel discussion about the intersections of queerness, disability and film.  
+Sat 18 Mar 16:30  
 <br>
 
 **SIGHT AND SOUND**<br>
