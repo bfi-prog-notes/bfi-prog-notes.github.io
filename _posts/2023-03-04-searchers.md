@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: The Searchers
+published: true
+date: 2023-03-04
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>15=']
+tags: [Western]
+metadata: 'USA 1956, 114 mins<br> Director: John Ford'
+pdf: '2023-03-04-searchers.pdf'
+---
 
 Cinema’s poet of the Wild West, John Ford already had countless westerns (among over 100 films) under his belt before reteaming with regular star John Wayne for this disturbing story of racism, obsession and revenge.
 
@@ -161,5 +169,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDc5Mzc4MDddfQ==
+eyJoaXN0b3J5IjpbNjk0NTU3ODM1XX0=
 -->
