@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Busting
+title: Busting the Bias<br>Opening Night
 published: true
-date: 2023-03-05
+date: 2023-03-03
 readtime: true
-categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>27']
+categories: ['BU']
 tags: [Documentary]
 metadata: 'France 1985, 566 mins<br> Director: Claude Lanzmann'
 pdf: '2023-03-05-shoah.pdf'
@@ -94,5 +94,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5NjU2NDYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMzg1NzAxNTU2LDczMDk5ODExNl19
 -->
