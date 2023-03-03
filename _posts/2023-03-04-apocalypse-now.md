@@ -4,7 +4,7 @@ title: Apocalypse Now<br> Final Cut
 published: true
 date: 2023-03-04
 readtime: true
-categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>10=']
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>19=']
 tags: [Drama, War]
 metadata: 'USA 1979, 183 mins<br> Director: Francis Ford Coppola'
 pdf: '2023-03-04-apocalypse-now.pdf'
@@ -216,5 +216,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzAzNTAzOV19
+eyJoaXN0b3J5IjpbMTY0MzMzMDg3MF19
 -->
