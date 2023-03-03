@@ -37,76 +37,74 @@ _Narration [Written] by:_ Michael Herr
 _Director of Photography:_ Vittorio Storaro  
 _2nd Unit Director of Photography:_ Stephen H. Burum  
 _Aerial Cameraman:_ David Butler  
-_Camera Operator:_ Enrico Umetelli
-_Special Effects Co-ordinators:_ Joseph Lombardi, A.D. Flowers
-_Special Effects:_ Special Effects Unlimited
-_Supervising Editor:_ Richard Marks
-_Editors:_ Walter Murch, Gerald B. Greenberg, Lisa Fruchtman
-_Additional Editors:_ Blackie Malkin, Evan Lottman
-_Associate Editor:_ George Berndt
-_Production Designer:_ Dean Tavoularis
-_Art Director:_ Angelo Graham
-_Costume Supervisor:_ Charles E. James
-_Make-up:_ Jack Young, Fred C. Blau Jr
-_Titles:_ Wayne Fitzgerald
-_Music:_ Carmine Coppola, Francis Ford Coppola
-_Master Synthesist:_ Patrick Gleeson
-_E.V.I. Soloist Guitarist:_ Randy Hansen
-_Percussion Based Score:_ Mickey Hart
-_Music Performed by:_ The Rhythm Devils, Jordan Amarantha, Greg Errico, Zakir Hussain, Billy Kreutzmann, Phil Lesh, Jim Loveless
-_Playmate Show Choreography:_ John Calvert
-_Sound Montage/Design:_ Walter Murch
-_Production Recordists:_ Nathan Boxer, Jack Jacobsen
-_Re-recordists:_ Walter Murch, Mark Berger, Richard Beggs,
-Dale Strumpell, Thomas Scott
-_Sound Editors:_ Leslie Hodgson, Les Wiggins, Pat Jackson, Jay Miracle
-_Creative Consultant:_ Dennis Jakob
-_Military Advisers:_ Dick White, Fred Rexer Jr, Paul Gregory,  
-Lt Colonel Peter Kama (US Army Ret), Paul Hensler, Richard Dioguardi, Doug Ryan
-_Stunt Co-ordinator:_ Terry J. Leonard
+_Camera Operator:_ Enrico Umetelli  
+_Special Effects Co-ordinators:_ Joseph Lombardi, A.D. Flowers  
+_Special Effects:_ Special Effects Unlimited  
+_Supervising Editor:_ Richard Marks  
+_Editors:_ Walter Murch, Gerald B. Greenberg, Lisa Fruchtman  
+_Additional Editors:_ Blackie Malkin, Evan Lottman  
+_Associate Editor:_ George Berndt  
+_Production Designer:_ Dean Tavoularis  
+_Art Director:_ Angelo Graham  
+_Costume Supervisor:_ Charles E. James  
+_Make-up:_ Jack Young, Fred C. Blau Jr  
+_Titles:_ Wayne Fitzgerald  
+_Music:_ Carmine Coppola, Francis Ford Coppola  
+_Master Synthesist:_ Patrick Gleeson  
+_E.V.I. Soloist Guitarist:_ Randy Hansen  
+_Percussion Based Score:_ Mickey Hart  
+_Music Performed by:_ The Rhythm Devils, Jordan Amarantha, Greg Errico, Zakir Hussain, Billy Kreutzmann, Phil Lesh, Jim Loveless  
+_Playmate Show Choreography:_ John Calvert  
+_Sound Montage/Design:_ Walter Murch  
+_Production Recordists:_ Nathan Boxer, Jack Jacobsen  
+_Re-recordists:_ Walter Murch, Mark Berger, Richard Beggs, Dale Strumpell, Thomas Scott  
+_Sound Editors:_ Leslie Hodgson, Les Wiggins, Pat Jackson, Jay Miracle  
+_Creative Consultant:_ Dennis Jakob  
+_Military Advisers:_ Dick White, Fred Rexer Jr, Paul Gregory, Lt Colonel Peter Kama (US Army Ret), Paul Hensler, Richard Dioguardi, Doug Ryan  
+_Stunt Co-ordinator:_ Terry J. Leonard  
 
-**Cast**
-Marlon Brando _(Colonel Walter E. Kurtz)_
-Robert Duvall _(Lt Colonel Bill Kilgore)_
-Martin Sheen _(Captain Benjamin L. Willard)_
-Frederic Forrest _(‘Chef’ Hicks)_
-Albert Hall _(Chief Phillips)_
-Sam Bottoms _(Lance B. Johnson)_
-Larry Fishburne _(‘Clean’)_
-Dennis Hopper _(photo journalist)_
-G.D. Spradlin _(General Corman)_
-Harrison Ford _(Colonel Lucas)_
-Jerry Ziesmer _(civilian)_
-Scott Glenn _(Captain Richard Colby)_
-Bo Byers _(first MP sergeant)_
-James Keane _(Kilgore’s gunner)_
-Kerry Rossall _(Mike from San Diego)_
-Ron McQueen _(injured soldier)_
-Tom Mason _(supply sergeant)_
-Cynthia Wood _(Playmate of the year)_
-Colleen Camp, Linda Carpenter _(Playmates)_
-Jack Thibeau _(soldier in trench)_
-Glenn Walken _(Lt Carlsen)_
-George Cantero _(soldier with suitcase)_
-Damien Leake _(machine gunner)_
-Herb Rice _(Roach)_
-William Upton _(spotter)_
-Larry Carney _(second MP sergeant)_
-Marc Coppola _(AFRS announcer)_
-Daniel Kiewit _(major from New Jersey)_
-Father Elias _(Catholic priest)_
-Bill Graham _(agent)_
-Hattie James _(voice of ‘Clean’s mother)_
-Jerry Ross _(Johnny from Malibu)_
-Dick White _(helicopter pilot)_
-the Ifugao people of Banaue Philippine Islands _(Montagnard tribesmen)_
-Vittorio Storaro _(TV cameraman)_ *
-Dean Tavoularis _(TV crew member)_ *
-R. Lee Ermey _(helicopter pilot)_ *
-_French Plantation Section:  _
-Christian Marquand _(Hubert DeMarais)_
-Aurore Clément _(Roxanne Sarrault)_
-Michel Pitton _(Philippe DeMarais)_
+**Cast**  
+Marlon Brando _(Colonel Walter E. Kurtz)_  
+Robert Duvall _(Lt Colonel Bill Kilgore)_  
+Martin Sheen _(Captain Benjamin L. Willard)_  
+Frederic Forrest _(‘Chef’ Hicks)_  
+Albert Hall _(Chief Phillips)_  
+Sam Bottoms _(Lance B. Johnson)_  
+Larry Fishburne _(‘Clean’)_  
+Dennis Hopper _(photo journalist)_  
+G.D. Spradlin _(General Corman)_  
+Harrison Ford _(Colonel Lucas)_  
+Jerry Ziesmer _(civilian)_  
+Scott Glenn _(Captain Richard Colby)_  
+Bo Byers _(first MP sergeant)_  
+James Keane _(Kilgore’s gunner)_  
+Kerry Rossall _(Mike from San Diego)_  
+Ron McQueen _(injured soldier)_  
+Tom Mason _(supply sergeant)_  
+Cynthia Wood _(Playmate of the year)_  
+Colleen Camp, Linda Carpenter _(Playmates)_  
+Jack Thibeau _(soldier in trench)_  
+Glenn Walken _(Lt Carlsen)_  
+George Cantero _(soldier with suitcase)_  
+Damien Leake _(machine gunner)_  
+Herb Rice _(Roach)_  
+William Upton _(spotter)_  
+Larry Carney _(second MP sergeant)_  
+Marc Coppola _(AFRS announcer)_  
+Daniel Kiewit _(major from New Jersey)_  
+Father Elias _(Catholic priest)_  
+Bill Graham _(agent)_  
+Hattie James _(voice of ‘Clean’s mother)_  
+Jerry Ross _(Johnny from Malibu)_  
+Dick White _(helicopter pilot)_  
+the Ifugao people of Banaue Philippine   Islands _(Montagnard tribesmen)_  
+Vittorio Storaro _(TV cameraman)_ *  
+Dean Tavoularis _(TV crew member)_ *  
+R. Lee Ermey _(helicopter pilot)_ *  
+_French Plantation Section:  _  
+Christian Marquand _(Hubert DeMarais)_  
+Aurore Clément _(Roxanne Sarrault)_  
+Michel Pitton _(Philippe DeMarais)_  
 Frank Villard _(Gaston DeMarais)_
 David Olivier _(Christian DeMarais)_
 Chrystel Le Pelletier _(Claudine)_
@@ -122,5 +120,5 @@ USA 1979©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDAyNTc5MF19
+eyJoaXN0b3J5IjpbNjAxMzQ1MzU2XX0=
 -->
