@@ -11,7 +11,7 @@ pdf: '2023-03-03-regle-du-jeu.pdf'
 ---
 
 It would be hard to find a more enjoyable, durable musical than this homage to Hollywood’s bumpy transition from silent to talking pictures. Gene Kelly is at his charismatic best, especially during the euphoric title number, while Donald O’Connor uses every trick in his repertoire for ‘Make ‘em Laugh’ and Debbie Reynolds captures a sweet innocence as an ingénue star on the rise. Then there’s Jean Hagen, who pretty much steals all her scenes with that hilarious, screechy delivery. Simply joyous.  
-**Heather Osborn, bfi.org.uk **  
+**Heather Osborn, bfi.org.uk**  
 
 The most enduring of the four MGM collaborations between Gene Kelly and his director and co-choreographer Stanley Donen, _Singin’ in the Rain_ rises ten places [in 2022’s _Sight and Sound_ poll] from 20th in 2012 to land in the top ten again. The film’s ascent almost feels like a given, due to the effervescence that may be its defining characteristic and the scarcity of that quality in our trying times.
 
@@ -27,7 +27,7 @@ Gene Kelly’s very best dances are the ones he does by himself, for at heart he
 Kelly had a temperature of 103 degrees when he shot the song and dance in a downpour in _Singin’ in the Rain_ (1951) that became his signature number. It took a while to make sure the puddles splashed as much as he wanted them to, and the work was slow, but everyone involved knew they had created something special. I interviewed Betsy Blair when her memoir _The Memory of All That_ came out in 2003, and she vividly remembered the filming of this classic sequence, which she referred to as ‘the famous one, the really great one’, with a little physical shiver that was partly reverential and partly mocking.
 
 Kelly is alone for much of the title song number in _Singin’ in the Rain_, which is one of the most unalloyed expressions of joy on film, especially when Kelly takes off his hat, and the camera moves in as he closes his eyes and sings, ‘C’mon with the rain… I’ve a smile on my face,’ with his light, high voice.  
-**Dan Callahan, _Sight & Sound_, January 2017 **  
+**Dan Callahan, _Sight & Sound_, January 2017**  
 
 **Terence Davies on ‘Singin’ in the Rain’**  
 I have a very clear memory of seeing _Singin’ in the Rain_ because it was the first time I was taken to the cinema, when I was seven years old. It was just after my father died, in 1952. I’m in the process of writing my autobiography, and it begins with that visit. It’s one of those things in your life you never forget.
