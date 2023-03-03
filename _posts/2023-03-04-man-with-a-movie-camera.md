@@ -1,4 +1,14 @@
-<![endif]-->
+---
+layout: post
+title: Man with a Movie Camera
+published: true
+date: 2023-03-04
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>19=']
+tags: [Drama, War]
+metadata: 'USSR 1928, 68 mins<br> Director: Francis Ford Coppola'
+pdf: '2023-03-04-apocalypse-now.pdf'
+---
 
 ‘Down with bourgeois fairytale plots and scenarios – long live life as it is!’ So said Dziga Vertov, for whom documentary was the only true revolutionary form as it freed film from false scenarios and performing actors. _Man with a Movie Camera_, about life in a Soviet city from dawn to dusk, was certainly revolutionary in its approach to image creation, which continually undermines and extends itself to dazzling and witty effect. As well as Vertov, the Kino-Eye Council of Three – which attempted to engender a new kind of perception through cinematic montage – comprised Vertov’s editor wife, Elizaveta Svilova, and his camera operator brother, Mikhail Kaufman. All three deserve authorship credit for the film.  
 **Helen DeWitt, _Sight and Sound_, Winter 2022-23**  
@@ -35,5 +45,5 @@ USSR 1928
 
 With live piano accompaniment by Cyrus Gabrysch on  Saturday 4 March  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjYyMTk3M119
+eyJoaXN0b3J5IjpbNjg2MzExMDM3XX0=
 -->
