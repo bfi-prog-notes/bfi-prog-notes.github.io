@@ -4,10 +4,10 @@ title: Tokyo Story
 published: true
 date: 2023-03-04
 readtime: true
-categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>20=']
-tags: [Drama, Adventure]
-metadata: 'Japan 1953, 13mins<br> Director: Akira Kurosawa'
-pdf: '2023-03-04-seven-samurai.pdf'
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>4=']
+tags: [Drama]
+metadata: 'Japan 1953, 136 mins<br> Director: Yasujiro Ozu'
+pdf: '2023-03-04-tokyo-story.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -113,5 +113,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0Mzg4NTI3XX0=
+eyJoaXN0b3J5IjpbLTg1OTA3MjA0Ml19
 -->
