@@ -110,7 +110,7 @@ the Ifugao people of Banaue Philippine   Islands _(Montagnard tribesmen)_
 Vittorio Storaro _(TV cameraman)_ *  
 Dean Tavoularis _(TV crew member)_ *  
 R. Lee Ermey _(helicopter pilot)_ *  
-_French Plantation Section:  _  
+_French Plantation Section:_  
 Christian Marquand _(Hubert DeMarais)_  
 Aurore Clément _(Roxanne Sarrault)_  
 Michel Pitton _(Philippe DeMarais)_  
