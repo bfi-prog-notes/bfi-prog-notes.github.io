@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Tokyo Story
+published: true
+date: 2023-03-04
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>20=']
+tags: [Drama, Adventure]
+metadata: 'Japan 1953, 13mins<br> Director: Akira Kurosawa'
+pdf: '2023-03-04-seven-samurai.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -66,19 +75,43 @@ Zen Murase _(Minoru, Koichi’s elder son)_
 Mitsuhiro Mori _(Isamu, Koichi’s younger son)_  
 Junko Anan _(beauty salon assistant)_  
 Ryôko Mizuki, Yoshiko Togawa _(beauty salon customers)_  
-Kazuhiro Itokawa _(tenant_at the Hattori household__)_
-Fumio Toyama _(patient)_
-Keijirô Morozumi _(police officer)_
-Tsutomu Niijima _(company section chief at Noriko’s office)_
-Shôzô Suzuki _(clerk at Noriko’s office)_  
-Yoshiko Tashiro, Haruko Chichibu _(maids at inn)_
-Takashi Miki _(singer at inn)_
-Toshinosuke Nagao _(doctor)_
+Kazuhiro Itokawa _(tenant at the Hattori household)_  
+Fumio Toyama _(patient)_  
+Keijirô Morozumi _(police officer)_  
+Tsutomu Niijima _(company section chief at Noriko’s office)_  
+Shôzô Suzuki _(clerk at Noriko’s office)_    
+Yoshiko Tashiro, Haruko Chichibu _(maids at inn)_  
+Takashi Miki _(singer at inn)_  
+Toshinosuke Nagao _(doctor)_  
 
-Japan 1953
-136 mins
+Japan 1953  
+136 mins  
 
-\* Uncredited
+\* Uncredited  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyOTQ5NjVdfQ==
+eyJoaXN0b3J5IjpbNTM0Mzg4NTI3XX0=
 -->
