@@ -4,12 +4,11 @@ title: Busting the Bias<br>Opening Night
 published: true
 date: 2023-03-03
 readtime: true
-categories: ['BU']
-tags: [Documentary]
-metadata: 'France 1985, 566 mins<br> Director: Claude Lanzmann'
-pdf: '2023-03-05-shoah.pdf'
+categories: ['BUSTING THE BIAS']
+tags: [Talk]
+metadata: 
+pdf: '2023-03-03-BTB-opening-night.pdf'
 ---
-
 
 An illustrated talk + ECLECTIC: Shorts Programme, an evening celebrating Disability visibility and filmmaking.
 
@@ -94,5 +93,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1NzAxNTU2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTY3NzcwNzQ5NCw3MzA5OTgxMTZdfQ==
 -->
