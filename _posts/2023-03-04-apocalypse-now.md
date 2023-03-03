@@ -17,115 +17,63 @@ The latter, originally released in America as a (rather awful) two-hour, linear 
 
 The post-_Easy_ _Rider_ era of American cinema to which _Apocalypse_ _Now_ belongs, running roughly from the late ‘60s to the early ‘80s, may have been relatively fortunate in arriving on the eve of audience enthusiasm for a director’s true vision (an enthusiasm that has also remained largely fixated on male, American directors, the compromised directorial visions of women and non-white filmmakers yet to receive the same canonisation). Earlier eras of filmmaking are also littered with tales of lost films, often butchered by their studios or producers.
 
-When it comes to this new _Apocalypse_ _Now_ perhaps what impresses most is its vitality and boldness, some 40 years later. Led by the extraordinary richness of image and sound in this new, restored version (extracted from the original negative), it remains a staggering visual and aural journey, a trip into America’s heart of darkness that feels as relevant to the addled mania of Trump as it does to the Vietnam War. Technology has now opened up a universe of palettes to explore when a film is being remastered. Michael Mann – one of the most worthwhile filmmakers in regularly offering fascinating new versions of his films, while also being openly dismissive of ever revisiting _The_ _Keep_ (1983), his most legendarily constrained, compromised work – has often commented on how restoration lets a film exist as much in the present as the past, allowing for a kind of formal rebirth. Seeing this new _Apocalypse_ _Now_ on the biggest of screens at Il Cinema Ritrovato in Bologna earlier this year was a truly extraordinary experience, and it feels like a film that’s returned newly alive to us, somehow even more confident in its hallucinatory, kaleidoscopic strangeness than ever before. That is the cut that truly matters.
+When it comes to this new _Apocalypse_ _Now_ perhaps what impresses most is its vitality and boldness, some 40 years later. Led by the extraordinary richness of image and sound in this new, restored version (extracted from the original negative), it remains a staggering visual and aural journey, a trip into America’s heart of darkness that feels as relevant to the addled mania of Trump as it does to the Vietnam War. Technology has now opened up a universe of palettes to explore when a film is being remastered. Michael Mann – one of the most worthwhile filmmakers in regularly offering fascinating new versions of his films, while also being openly dismissive of ever revisiting _The_ _Keep_ (1983), his most legendarily constrained, compromised work – has often commented on how restoration lets a film exist as much in the present as the past, allowing for a kind of formal rebirth. Seeing this new _Apocalypse_ _Now_ on the biggest of screens at Il Cinema Ritrovato in Bologna earlier this year was a truly extraordinary experience, and it feels like a film that’s returned newly alive to us, somehow even more confident in its hallucinatory, kaleidoscopic strangeness than ever before. That is the cut that truly matters.  
+**Andrew Simpson, bfi.org.uk, 13 August 2019**  
 
-**Andrew Simpson, bfi.org.uk, 13 August 2019**
-
-**APOCALYPSE NOW: FINAL CUT**
-
-_Director:_ Francis Ford Coppola
-
-_Production Company:_ Omni Zoetrope
-
-_Producer:_ Francis Coppola
-
-_Co-produced by:_ Fred Roos, Gray Frederickson, Tom Sternberg
-
-_Associate Producer:_ Mona Skager
-
-_Location Co-ordinator:_ Jack English
-
-_Post-production Co-ordinators:_ Doug Claybourne, Barbara Marks
-
-_Assistant Director:_ Jerry Ziesmer
-
-_Script Supervisors:_ Raymond Quiroz, Nancy Tonery
-
-_Casting:_ Terry Liebling, Vic Ramos
-
-_Screenplay:_ John Milius, Francis Coppola
-
-_Based on the novel by:_ Joseph Conrad *
-
-_Narration [Written] by:_ Michael Herr
-
-_Director of Photography:_ Vittorio Storaro
-
-_2nd Unit Director of Photography:_ Stephen H. Burum
-
-_Aerial Cameraman:_ David Butler
-
+**APOCALYPSE NOW: FINAL CUT**  
+_Director:_ Francis Ford Coppola  
+_Production Company:_ Omni Zoetrope  
+_Producer:_ Francis Coppola  
+_Co-produced by:_ Fred Roos, Gray Frederickson, Tom Sternberg  
+_Associate Producer:_ Mona Skager  
+_Location Co-ordinator:_ Jack English  
+_Post-production Co-ordinators:_ Doug Claybourne, Barbara Marks  
+_Assistant Director:_ Jerry Ziesmer  
+_Script Supervisors:_ Raymond Quiroz, Nancy Tonery  
+_Casting:_ Terry Liebling, Vic Ramos  
+_Screenplay:_ John Milius, Francis Coppola  
+_Based on the novel by:_ Joseph Conrad *  
+_Narration [Written] by:_ Michael Herr  
+_Director of Photography:_ Vittorio Storaro  
+_2nd Unit Director of Photography:_ Stephen H. Burum  
+_Aerial Cameraman:_ David Butler  
 _Camera Operator:_ Enrico Umetelli
-
 _Special Effects Co-ordinators:_ Joseph Lombardi, A.D. Flowers
-
 _Special Effects:_ Special Effects Unlimited
-
 _Supervising Editor:_ Richard Marks
-
 _Editors:_ Walter Murch, Gerald B. Greenberg, Lisa Fruchtman
-
 _Additional Editors:_ Blackie Malkin, Evan Lottman
-
 _Associate Editor:_ George Berndt
-
 _Production Designer:_ Dean Tavoularis
-
 _Art Director:_ Angelo Graham
-
 _Costume Supervisor:_ Charles E. James
-
 _Make-up:_ Jack Young, Fred C. Blau Jr
-
 _Titles:_ Wayne Fitzgerald
-
 _Music:_ Carmine Coppola, Francis Ford Coppola
-
 _Master Synthesist:_ Patrick Gleeson
-
 _E.V.I. Soloist Guitarist:_ Randy Hansen
-
 _Percussion Based Score:_ Mickey Hart
-
 _Music Performed by:_ The Rhythm Devils, Jordan Amarantha, Greg Errico, Zakir Hussain, Billy Kreutzmann, Phil Lesh, Jim Loveless
-
 _Playmate Show Choreography:_ John Calvert
-
 _Sound Montage/Design:_ Walter Murch
-
 _Production Recordists:_ Nathan Boxer, Jack Jacobsen
-
 _Re-recordists:_ Walter Murch, Mark Berger, Richard Beggs,
-
 Dale Strumpell, Thomas Scott
-
 _Sound Editors:_ Leslie Hodgson, Les Wiggins, Pat Jackson, Jay Miracle
-
 _Creative Consultant:_ Dennis Jakob
-
 _Military Advisers:_ Dick White, Fred Rexer Jr, Paul Gregory,  
 Lt Colonel Peter Kama (US Army Ret), Paul Hensler, Richard Dioguardi, Doug Ryan
-
 _Stunt Co-ordinator:_ Terry J. Leonard
 
 **Cast**
-
 Marlon Brando _(Colonel Walter E. Kurtz)_
-
 Robert Duvall _(Lt Colonel Bill Kilgore)_
-
 Martin Sheen _(Captain Benjamin L. Willard)_
-
 Frederic Forrest _(‘Chef’ Hicks)_
-
 Albert Hall _(Chief Phillips)_
-
 Sam Bottoms _(Lance B. Johnson)_
-
 Larry Fishburne _(‘Clean’)_
-
 Dennis Hopper _(photo journalist)_
-
 G.D. Spradlin _(General Corman)_
 Harrison Ford _(Colonel Lucas)_
 Jerry Ziesmer _(civilian)_
@@ -174,5 +122,5 @@ USA 1979©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTU2ODk0XX0=
+eyJoaXN0b3J5IjpbMTg4NDAyNTc5MF19
 -->
