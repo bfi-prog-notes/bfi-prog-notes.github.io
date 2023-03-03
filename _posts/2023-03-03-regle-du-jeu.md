@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: La Règle du jeu
+published: true
+date: 2023-03-03
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>13']
+tags: [Drama]
+metadata: 'France 1939, 106 mins<br> Director: Jean Renoir'
+pdf: '2023-03-05-regle-du-jeu.pdf'
+---
 
 
 ‘For us there was only one French director, and that was Jean Renoir’, said Claude Chabrol, while François Truffaut called Renoir ‘the greatest filmmaker in the world’. New Wave directors, as critics, had turned to Hollywood to elaborate their theories of authorship. But when it carne to practice, they followed in the footsteps of their mentor, André Bazin, in idolising Jean Renoir (while, in typical polemical fashion, rejecting practically every other French filmmaker).
@@ -166,5 +176,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDY2NjgxOF19
+eyJoaXN0b3J5IjpbLTE4NTgyNTQwMTldfQ==
 -->
