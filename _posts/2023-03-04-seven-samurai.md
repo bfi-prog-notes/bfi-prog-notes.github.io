@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Playtime
+published: true
+date: 2023-03-04
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>23=']
+tags: [Drama, Adventure]
+metadata: 'France 1954, 207 mins<br> Director: Akira Kurosawa'
+pdf: '2023-03-04-playtime.pdf'
+---
 
 When Akira Kurosawa’s _Seven Samurai_ premiered in Japan on 26 April 1954, it was the most expensive domestic production ever, costing 125 million Yen (approximately $350,000), almost five times the then 26 million Yen ($63,000) average for a typical Japanese studio picture.
 
@@ -76,20 +86,20 @@ Fumiko Homma _(peasant woman)_
 Sojin Kamiyama _(minstrel-priest)_  
 Toranosuke Ogawa _(grandfather)_  
 Yu Akitsu _(husband)_  
-Noriko Sengoku _(wife)_ 
-Ichiro Chiba _(priest)_
-Gen Shimizu _(masterless samurai)_
-Jun Tatari _(coolie)_
-Atsushi Watanabe _(vendor)_
-Yukiko Shimazaki _(Rikichi’s wife)_
-Shinpei Takagi _(Bandit Chief)_
+Noriko Sengoku _(wife)_  
+Ichiro Chiba _(priest)_  
+Gen Shimizu _(masterless samurai)_  
+Jun Tatari _(coolie)_  
+Atsushi Watanabe _(vendor)_  
+Yukiko Shimazaki _(Rikichi’s wife)_  
+Shinpei Takagi _(Bandit Chief)_  
 Jiro Kumagai, Haruko Toyama,
-Tsuneo Katagiri, Yasuhisa Tsutsumi _(peasants)_
+Tsuneo Katagiri, Yasuhisa Tsutsumi _(peasants)_  
 Kichijiro Ueda, Akira Tani, Haruo Nakajima, Takashi Narita,
-Senkichi Omura_,_ Shuno Takahara, Masanobu Okubo _(bandits)_
+Senkichi Omura, Shuno Takahara, Masanobu Okubo _(bandits)_  
 
-Japan 1954©
-207 mins + interval
+Japan 1954©  
+207 mins + interval  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDQyNDExM119
+eyJoaXN0b3J5IjpbLTI4ODkyNjcxN119
 -->
