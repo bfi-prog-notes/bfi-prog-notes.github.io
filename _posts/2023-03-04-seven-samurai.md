@@ -1,5 +1,4 @@
 
-<![endif]-->
 
 When Akira Kurosawa’s _Seven Samurai_ premiered in Japan on 26 April 1954, it was the most expensive domestic production ever, costing 125 million Yen (approximately $350,000), almost five times the then 26 million Yen ($63,000) average for a typical Japanese studio picture.
 
@@ -37,69 +36,47 @@ In Japan, by contrast, the signature film by that ‘most Japanese of directors�
 
 Upon its original American release, Bosley Crowther had questioned ‘whether this picture is any more authentic to its period or culture than is the average American western film.’ At the end of the day, the humanism and potency of _Seven Samurai_’s theme and message have spoken for themselves, with a host of films produced across the world that were either directly modelled on it, referenced it, or acknowledged its archetypal plot setup, in which a team of disparate characters are grouped to undertake a specific mission. These range from _The Dirty Dozen_ (Robert Aldrich, 1967), the Bollywood classic _Sholay_ (Ramesh Sippy, 1975), George Lucas’s own _Star Wars_ (1977), _Battle beyond the Stars_ (Jimmy T. Murakami, 1980), _Savalan_ (Yadollah Samadi, 1990) from Iran, and, returning full circle to Japan, the 26-episode TV anime series _Samurai 7_ (2004).
 
-_Seven Samurai_ is now by far the best known and influential film ever to hail from Japan. After all, what do critics know?
+_Seven Samurai_ is now by far the best known and influential film ever to hail from Japan. After all, what do critics know?  
+**Jasper Sharp, bfi.org.uk, 26 April 2014**  
 
-**Jasper Sharp, bfi.org.uk, 26 April 2014**
-
-**SEVEN SAMURAI (SHICHININ NO SAMURAI)**
-
-_Director:_ Akira Kurosawa
-
-_©:_ Toho Co. Ltd.
-
-_Production Company:_ Toho Co. Ltd.
-
-_Producer:_ Sojiro Motoki
-
+**SEVEN SAMURAI (SHICHININ NO SAMURAI)**  
+_Director:_ Akira Kurosawa  
+_©:_ Toho Co. Ltd.  
+_Production Company:_ Toho Co. Ltd.  
+_Producer:_ Sojiro Motoki  
 _Assistant Directors:_ Hiromichi Horikawa, Katsuya Shimizu,
+Sakae Hirosawa, Yasuyoshi Tajitsu, Toshi Kaneko  
+_Screenplay:_ Shinobu Hashimoto, Hideo Oguni, Akira Kurosawa  
+_Director of Photography:_ Asakazu Nakai  
+_Lighting:_ Shigeru Mori  
+_Art Director:_ So Matsuyama  
+_Art Consultation:_ Seiton Maeda, Kohei Ezaki  
+_Music:_ Fumio Hayasaka  
+_Sound Recording:_ Fumio Yanoguchi  
+_Sound Effects:_ Ichiro Minawa  
+_Fencing Director:_ Yushio Sugino  
+_Archery Directors:_ Ienori Kaneko, Shigeru Endo  
 
-Sakae Hirosawa, Yasuyoshi Tajitsu, Toshi Kaneko
-
-_Screenplay:_ Shinobu Hashimoto, Hideo Oguni, Akira Kurosawa
-
-_Director of Photography:_ Asakazu Nakai
-
-_Lighting:_ Shigeru Mori
-
-_Art Director:_ So Matsuyama
-
-_Art Consultation:_ Seiton Maeda, Kohei Ezaki
-
-_Music:_ Fumio Hayasaka
-
-_Sound Recording:_ Fumio Yanoguchi
-
-_Sound Effects:_ Ichiro Minawa
-
-_Fencing Director:_ Yushio Sugino
-
-_Archery Directors:_ Ienori Kaneko, Shigeru Endo
-
-**Cast**
-
-Takashi Shimura _(Kambei Shimada, leader of samurai)_
-Toshiro Mifune _(Kikuchiyo, would-be samurai)_
-Seiji Miyaguchi _(Kyuzo, swordsman)_
-Ko Kimura _(Katsushiro, young samurai)_
-
-Daisuke Katô _(Shichiroji, Kambei’s friend)_
-
-Minoru Chiaki _(Heihachi, good-natured samurai)_
-
-Yoshio Inaba _(Gorobei, wise warrior)_
-
-Yoshio Tsuchiya _(Rikichi, militant villager)_
-Keiko Tsushima _(Shino, Manzo’s daughter)_
-Kamatari Fujiwara _(Manzo, Shino’s father)_
-Bokuzen Hidari _(Yohei, frightened villager)_
-Kuninori Kodo _(Gisaku, village elder)_
-Yoshio Kosugi _(Mosuke)_
-Keiji Sakakida _(Gosaku)_
-Fumiko Homma _(peasant woman)_
-Sojin Kamiyama _(minstrel-priest)_
-Toranosuke Ogawa _(grandfather)_
-Yu Akitsu _(husband)_
-Noriko Sengoku _(wife)_
+**Cast**  
+Takashi Shimura _(Kambei Shimada, leader of samurai)_  
+Toshiro Mifune _(Kikuchiyo, would-be samurai)_  
+Seiji Miyaguchi _(Kyuzo, swordsman)_  
+Ko Kimura _(Katsushiro, young samurai)_  
+Daisuke Katô _(Shichiroji, Kambei’s friend)_  
+Minoru Chiaki _(Heihachi, good-natured samurai)_  
+Yoshio Inaba _(Gorobei, wise warrior)_  
+Yoshio Tsuchiya _(Rikichi, militant villager)_  
+Keiko Tsushima _(Shino, Manzo’s daughter)_  
+Kamatari Fujiwara _(Manzo, Shino’s father)_  
+Bokuzen Hidari _(Yohei, frightened villager)_  
+Kuninori Kodo _(Gisaku, village elder)_  
+Yoshio Kosugi _(Mosuke)_  
+Keiji Sakakida _(Gosaku)_  
+Fumiko Homma _(peasant woman)_  
+Sojin Kamiyama _(minstrel-priest)_  
+Toranosuke Ogawa _(grandfather)_  
+Yu Akitsu _(husband)_  
+Noriko Sengoku _(wife)_ 
 Ichiro Chiba _(priest)_
 Gen Shimizu _(masterless samurai)_
 Jun Tatari _(coolie)_
@@ -114,5 +91,5 @@ Senkichi Omura_,_ Shuno Takahara, Masanobu Okubo _(bandits)_
 Japan 1954©
 207 mins + interval
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTY1Nzc0Ml19
+eyJoaXN0b3J5IjpbMTg5MDQyNDExM119
 -->
