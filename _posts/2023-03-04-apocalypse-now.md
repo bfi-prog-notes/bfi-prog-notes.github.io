@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Apocalypse Now
+published: true
+date: 2023-03-03
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>10=']
+tags: [Musical, Comedy]
+metadata: 'USA 1951, 103 mins<br> Directors: Gene Kelly, Stanley Donen'
+pdf: '2023-03-03-regle-du-jeu.pdf'
+---
 
 In the year of its 40th anniversary, Francis Ford Coppola’s acid-drenched odyssey to the dark heart of the Vietnam war is returning to the big screen, in what has been billed _Apocalypse Now: Final Cut_. First unveiled at this year’s Tribeca Film Festival, Coppola has revisited his most tumescent, complex masterpiece in pursuit of an apparently ‘definitive’ version. Standing at three hours, some 30 minutes longer than the original 1979 cut, it includes several additional, divergent details, from a botched live appearance by a group of playboy models at a US outpost; to a woozy adventure on a French plantation shortly before the film’s final act, in which Captain Willard (Martin Sheen) completes his journey up the Nung River in pursuit of the man whose command he has been dispatched to terminate, Colonel Kurtz (Marlon Brando).
 
@@ -105,20 +114,107 @@ _French Plantation Section:  _
 Christian Marquand _(Hubert DeMarais)_  
 Aurore Clément _(Roxanne Sarrault)_  
 Michel Pitton _(Philippe DeMarais)_  
-Frank Villard _(Gaston DeMarais)_
-David Olivier _(Christian DeMarais)_
-Chrystel Le Pelletier _(Claudine)_
-Robert Julian _(the tutor)_
-Yvon LeSeaux _(Sergeant LeFevre)_
-Roman Coppola _(Francis DeMarais)_
-Gian-Carlo Coppola _(Gilles DeMarais)_
-Henri Sadardiel _(French soldier 1)_
-Gilbert Renkens _(French soldier 2)_
+Frank Villard _(Gaston DeMarais)_  
+David Olivier _(Christian DeMarais)_  
+Chrystel Le Pelletier _(Claudine)_  
+Robert Julian _(the tutor)_  
+Yvon LeSeaux _(Sergeant LeFevre)_  
+Roman Coppola _(Francis DeMarais)_  
+Gian-Carlo Coppola _(Gilles DeMarais)_  
+Henri Sadardiel _(French soldier 1)_  
+Gilbert Renkens _(French soldier 2)_  
 
-USA 1979©
-183 mins
+USA 1979©  
+183 mins  
 
-* Uncredited
+\* Uncredited  
+<br>
+
+**SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**  
+**Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles**  
+Wed 1 Mar 18:00; Thu 2 Mar 18:50; Sat 11 Mar 18:50  
+**Philosophical Screens: Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles**  
+Wed 1 Mar 21:30 Blue Room  
+**Daisies (Sedmikrásky) + Meshes of the Afternoon**  
+Wed 1 Mar 20:50; Wed 8 Mar 18:20 (+ intro)  
+**Au hasard Balthazar**  
+Thu 2 Mar 20:50; Mon 6 Mar 18:30  
+**Taxi Driver**  
+Thu 2 Mar 21:00 BFI IMAX; Fri 3 Mar 18:10; Mon 13 Mar 20:40  
+**La Règle du jeu (The Rules of the Game)**  
+Fri 3 Mar 14:30; Sat 4 Mar 13:20; Sat 11 Mar 18:05  
+**Persona**  
+Fri 3 Mar 18:30; Thu 9 Mar 21:05  
+**Portrait of a Lady on Fire (Portrait de la jeune fille en feu)**  
+Fri 3 Mar 20:30; Wed 8 Mar 20:30  
+**Do the Right Thing**  
+Fri 3 Mar 20:35; Sat 11 Mar 18:10  
+**Singin’ in the Rain**  
+Fri 3 Mar 20:40; Thu 9 Mar 18:10 (+ intro by Miles Eady, Film Writer and Curator); Tue 14 Mar 14:30  
+**Man With a Movie Camera (Chelovek s kino-apparatom)**  
+Sat 4 Mar 15:30; Sun 5 Mar 10:30 BFI IMAX; Thu 9 Mar 20:50  
+**Playtime**  
+Sat 4 Mar 17:00; Sat 11 Mar 20:30  
+**The Searchers**  
+Sat 4 Mar 17:40; Tue 7 Mar 20:35  
+**Seven Samurai (Shichinin no samurai)**  
+Sat 4 Mar 18:50; Tue 14 Mar 18:40  
+**Apocalypse Now: Final Cut**  
+Sat 4 Mar 19:40; Sun 12 Mar 20:00 BFI IMAX  
+**Tokyo Story (Tôkyô monogatari)**  
+Sat 4 Mar 20:15; Fri 10 Mar 18:00; Wed 15 Mar 14:30  
+**Shoah**  
+Sun 5 Mar 11:00; Sun 12 Mar 11:00  
+**Sunrise: A Song of Two Humans**  
+Sun 5 Mar 11:45; Mon 6 Mar 14:00; Mon 13 Mar 20:35  
+**The Passion of Joan of Arc (La passion de Jeanne d’Arc)**  
+Sun 5 Mar 14:00 (with live accompaniment); Wed 15 Mar 20:40 (with score)  
+**Citizen Kane**  
+Sun 5 Mar 16:15; Tue 7 Mar 20:30  
+**Cléo from 5 to 7 (Cléo de 5 à 7)**  
+Sun 5 Mar 17:45; Wed 8 Mar 21:00  
+**2001: A Space Odyssey**  
+Sun 5 Mar 19:00; Thu 9 Mar 18:00  
+**Vertigo**  
+Mon 6 Mar 20:30; Thu 9 Mar 14:30; Wed 15 Mar 18:10  
+**In the Mood for Love (Fa yeung nin wah)**  
+Mon 6 Mar 20:40; Fri 10 Mar 21:00; Sun 12 Mar 18:30  
+**Late Spring (Banshun)**  
+Mon 6 Mar 20:45; Tue 7 Mar 14:30; Sun 12 Mar 18:20  
+**The Night of the Hunter**  
+Tue 7 Mar 18:00; Sat 11 Mar 20:45  
+**Mulholland Dr.**  
+Tue 7 Mar 20:10; Tue 14 Mar 20:15  
+**Beau Travail**  
+Wed 8 Mar 14:30; Fri 10 Mar 20:45; Mon 13 Mar 18:20 (+ intro by Catherine Wheatley, Reader in Film Studies, King’s College London)  
+**Close-Up (Nema-ye Nazdik)**  
+Fri 10 Mar 18:30; Wed 15 Mar 20:50  
+**The Godfather**  
+Fri 10 Mar 19:00; Sun 12 Mar 18:15  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxMzQ1MzU2XX0=
+eyJoaXN0b3J5IjpbMTY5NjA3OTA0OV19
 -->
