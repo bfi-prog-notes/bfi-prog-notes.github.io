@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Singin' in the Rain
+published: true
+date: 2023-03-03
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>10=']
+tags: [Musical, Comedy]
+metadata: 'USA 1951, 103 mins<br> Director: Jean Renoir'
+pdf: '2023-03-03-regle-du-jeu.pdf'
+---
 
 It would be hard to find a more enjoyable, durable musical than this homage to Hollywood’s bumpy transition from silent to talking pictures. Gene Kelly is at his charismatic best, especially during the euphoric title number, while Donald O’Connor uses every trick in his repertoire for ‘Make ‘em Laugh’ and Debbie Reynolds captures a sweet innocence as an ingénue star on the rise. Then there’s Jean Hagen, who pretty much steals all her scenes with that hilarious, screechy delivery. Simply joyous.  
 **Heather Osborn, bfi.org.uk **  
@@ -100,18 +110,18 @@ Jac George _(orchestra leader)_
 Wilson Wood _(Rudy Vallee impersonator)_  
 Brick Sullivan _(cop in title number)_  
 Snub Pollard _(recipient of umbrella, title number)_  
-Paul Maxey _(sceptical party guest)_
-Dorothy Patrick, William Lester, Joi Lansing _(spectators)_
-Charles Evans _(irritated spectator)_
-Dave Sharpe, Russ Saunders _(fencers)_
-Patricia Denise, Jeanne Coyne, Joyce Horne _(dancers)_
-Bill Chatham, Ernie Flatt, Don Hulbert, Robert Dayo _(male dancing quartet)_
-David Kasday _(kid)_
-Robert B. Williams _(traffic cop)_
-Ray Teal _(employee)_
+Paul Maxey _(sceptical party guest)_  
+Dorothy Patrick, William Lester, Joi Lansing _(spectators)_  
+Charles Evans _(irritated spectator)_  
+Dave Sharpe, Russ Saunders _(fencers)_  
+Patricia Denise, Jeanne Coyne, Joyce Horne _(dancers)_  
+Bill Chatham, Ernie Flatt, Don Hulbert, Robert Dayo _(male dancing quartet)_  
+David Kasday _(kid)_  
+Robert B. Williams _(traffic cop)_  
+Ray Teal _(employee)_  
 
-USA 1951©
-103 mins
+USA 1951©  
+103 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzA2NDI0M119
+eyJoaXN0b3J5IjpbMTI1MTYyMzM5MF19
 -->
