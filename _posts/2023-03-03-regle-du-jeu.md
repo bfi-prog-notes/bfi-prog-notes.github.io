@@ -1,5 +1,5 @@
 
-<![endif]-->
+
 
 ‘For us there was only one French director, and that was Jean Renoir’, said Claude Chabrol, while François Truffaut called Renoir ‘the greatest filmmaker in the world’. New Wave directors, as critics, had turned to Hollywood to elaborate their theories of authorship. But when it carne to practice, they followed in the footsteps of their mentor, André Bazin, in idolising Jean Renoir (while, in typical polemical fashion, rejecting practically every other French filmmaker).
 
@@ -22,49 +22,39 @@ More than any other aspect of his work, it is Renoir’s _mise en scene_ and cin
 
 This was a style developed partly in response to the theatrical tradition, which Renoir too was familiar with. But if he was following a practice widespread in French cinema, his specificity was to systematise it and, especially, to put it to the service of a more cinematically naturalistic environment. And, of course, he used staging in depth more than any other director – using several layers of corridors, doorways and windows, constantly opening and shutting spaces, with characters weaving in and out of them, where others were content, on the whole, with lateral reframings. Renoir’s cinematography is always seen as resistance to, or at least difference from, Hollywood. This is not so much untrue as incomplete, for it ignores the fact that it was also part of the French mainstream. This difference should properly be seen as part of a national tradition, rather than just the invention of one genius.
 
-Renoir’s films of the ’30s dominated French cinema, not just because they were different from it, but because they summed it up and extended it, and, what’s more, extended it in ideologically sympathetic directions. Renoir’s populism became increasingly backward-looking and out-of-synch with French audiences after the war, but in the ’30s it was sharpened by the politics of the Popular Front, by anti-fascism and by pacifism. If Renoir is still the world’s idea of a great _auteur_, able to pursue his own preoccupations while addressing a popular audience, it is important to see that this was due to the conditions in which he worked. This is why Renoir was such a role model for the New Wave, but one they could not possibly replicate, because these conditions had forever vanished by the time they started to work.
+Renoir’s films of the ’30s dominated French cinema, not just because they were different from it, but because they summed it up and extended it, and, what’s more, extended it in ideologically sympathetic directions. Renoir’s populism became increasingly backward-looking and out-of-synch with French audiences after the war, but in the ’30s it was sharpened by the politics of the Popular Front, by anti-fascism and by pacifism. If Renoir is still the world’s idea of a great _auteur_, able to pursue his own preoccupations while addressing a popular audience, it is important to see that this was due to the conditions in which he worked. This is why Renoir was such a role model for the New Wave, but one they could not possibly replicate, because these conditions had forever vanished by the time they started to work.  
+**Ginette Vincendeau, _Sight and Sound_, December 1992**  
 
-**Ginette Vincendeau, _Sight and Sound_, December 1992**
-
-**LA RÈGLE DU JEU (THE RULES OF THE GAME)**
-
-_Director:_ Jean Renoir
-
-_Production Company:_ Nouvelle Edition Française
-
-_Production Manager:_ Claude Renoir
-
-_Unit Manager:_ Pillion
-
-_Administrator:_ Camille François
-
+**LA RÈGLE DU JEU (THE RULES OF THE GAME)**  
+_Director:_ Jean Renoir  
+_Production Company:_ Nouvelle Edition Française  
+_Production Manager:_ Claude Renoir  
+_Unit Manager:_ Pillion  
+_Administrator:_ Camille François  
 _Assistant Directors:_ André Zwobada,
+Henri Cartier [i.e. Henri Cartier-Bresson]  
+_Scenario/Dialogue:_ Jean Renoir  
+_Screenplay Collaboration:_ Carl Koch  
+_Directors of Photography:_ Bachelet, Jacques Lemare, Alphen, Alain Renoir  
+_Stills Photography:_ Sam Levin  
+_Editors:_ Marguerite [Renoir], Mme. Huguet  
+_Art Directors:_ Lourié, Douy  
+_Music:_ Roger Desormières  
+_Sound:_ De Bretagne  
+_uncredited_  
+_Assistant Director:_ Carl Koch  
+_Script Girl:_ Dido Freire  
+_Gowns:_ Coco Chanel  
+_Musical Themes:_ Wolfgang Amadeus Mozart, Monsigny, Camille Saint-Saëns  
+_Music Arranger:_ Joseph Kosma  
+_Subtitles, Restoration:_ Lenny Borger  
 
-Henri Cartier [i.e. Henri Cartier-Bresson]
-
-_Scenario/Dialogue:_ Jean Renoir
-
-_Screenplay Collaboration:_ Carl Koch
-_Directors of Photography:_ Bachelet, Jacques Lemare, Alphen, Alain Renoir
-_Stills Photography:_ Sam Levin
-_Editors:_ Marguerite [Renoir], Mme. Huguet
-_Art Directors:_ Lourié, Douy
-_Music:_ Roger Desormières
-_Sound:_ De Bretagne
-_uncredited_
-_Assistant Director:_ Carl Koch
-_Script Girl:_ Dido Freire
-_Gowns:_ Coco Chanel
-_Musical Themes:_ Wolfgang Amadeus Mozart, Monsigny, Camille Saint-Saëns
-_Music Arranger:_ Joseph Kosma
-_Subtitles, Restoration:_ Lenny Borger
-
-**Cast**
-Nora Gregor _(Christine de la Cheyniest)_
-Paulette Dubost _(Lisette, Christine’s chambermaid)_
-Mila Parély _(Geneviève de Marras)_
-Odette Talazac _(Charlotte de la Plante)_
-Claire Gérard _(Madame de La Bruyère)_
+**Cast**  
+Nora Gregor _(Christine de la Cheyniest)_  
+Paulette Dubost _(Lisette, Christine’s chambermaid)_  
+Mila Parély _(Geneviève de Marras)_  
+Odette Talazac _(Charlotte de la Plante)_  
+Claire Gérard _(Madame de La Bruyère)_  
 Anne Mayen _(Jackie, Christine’s niece)_
 Lise Elina _(radio reporter)_
 Marcel Dalio _(Marquis Robert de La Cheyniest)_
@@ -90,5 +80,5 @@ Jenny Hélia _(kitchen servant)_
 France 1939
 106 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5MjE5NzU2XX0=
+eyJoaXN0b3J5IjpbNTIzNzcwNTQ1XX0=
 -->
