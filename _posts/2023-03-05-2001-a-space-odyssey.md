@@ -27,60 +27,59 @@ Kubrick in fact appears happiest when faced with a direct technical challenge; a
 The day I watched Kubrick on set he was shooting a scene in which Gary Lockwood was doing track exercises around the inside rim of the centrifuge. The set-up required that as the wheel moved round, Lockwood ran in the opposite direction so as to maintain his position on one spot; while the camera was moved so as also to keep in position a little ahead of him. Since the camera was shooting on its side, the effect was that the camera was tracking back around a (comparatively speaking) stationary centrifuge, to show Lockwood running around the _side_, holding to the floor by the centrifugal force of the vehicle’s movement in space. The effect, heightened by the strains of a Chopin waltz (shades of _Strangelove_) played by Kubrick on a small portable player, was unexpectedly comic on the screen. Kubrick was evidently fascinated by the prospects of editing this material and seeing the effects of conventional cutting with such a set-up.  
 **David Robinson, _Sight and Sound_, Spring 1966**  
 <br>
-**2001: A SPACE ODYSSEY**
-_Directed by:_ Stanley Kubrick
-©_/Presented by:_ Metro-Goldwyn-Mayer
-_Production Company:_ Stanley Kubrick Productions
-_Produced by:_ Stanley Kubrick
-_Associate Producer:_ Victor Lyndon
-_1st Assistant Director:_ Derek Cracknell
-_Screenplay:_ Stanley Kubrick, Arthur C. Clarke
-_Based on the short story by:_ Arthur C. Clarke
-_Director of Photography:_ Geoffrey Unsworth
-_Additional Photography:_ John Alcott
-_Camera Operator:_ Kelvin Pike
-_Special Photographic FX Designed and Directed by:_ Stanley Kubrick
-_Special Effects Supervisors:_ Wally Veevers, Douglas Trumbull, Con Pederson, Tom Howard
+**2001: A SPACE ODYSSEY**  
+_Directed by:_ Stanley Kubrick  
+©_/Presented by:_ Metro-Goldwyn-Mayer  
+_Production Company:_ Stanley Kubrick Productions  
+_Produced by:_ Stanley Kubrick  
+_Associate Producer:_ Victor Lyndon  
+_1st Assistant Director:_ Derek Cracknell  
+_Screenplay:_ Stanley Kubrick, Arthur C. Clarke  
+_Based on the short story by:_ Arthur C. Clarke  
+_Director of Photography:_ Geoffrey Unsworth  
+_Additional Photography:_ John Alcott  
+_Camera Operator:_ Kelvin Pike  
+_Special Photographic FX Designed and Directed by:_ Stanley Kubrick  
+_Special Effects Supervisors:_ Wally Veevers, Douglas Trumbull, Con Pederson, Tom Howard  
 _Special Photographic Effects Unit:_ Colin J. Cantwell, Bruce Logan,
-Bryan Loftus, David Osborne, Frederick Martin, John Jack Malick
-_Editor:_ Ray Lovejoy
-_Editorial Assistant:_ David De Wilde
-_Production Designed by:_ Tony Masters, Harry Lange, Ernest Archer
-_Art Director:_ John Hoesli
-_Wardrobe:_ Hardy Amies
-_Make-up:_ Stuart Freeborn
-_Filmed in:_ Cinerama, Super Panavision
-_Music:_ Aram Khachaturian, György Ligeti, Johann Strauss Jr, Richard Strauss
-_Sound Supervisor:_ A.W. Watkins
-_Sound Mixer:_ H.L. Bird
-_Chief Dubbing Mixer:_ J.B. Smith
-_Sound Editor:_ Winston Ryder
-_Scientific Consultant:_ Frederick I. Ordway III
-_Studio_: MGM British Studios
-_uncredited:_
-_Production Co-ordinator:_ Merle Chamberlin
-_2nd Assistant Director:_ Richard Jenkins
-_Casting:_ James Liggat
-_Additional Photography:_ Michael Wilson
-_Rostrum Cameraman:_ Dennis Hall
-_Additional Matte Cinematography:_ Richard Yuricich
-_Aerial Photography:_ Robert Gaffney
-_Assistant Camera:_ Peter MacDonald
-_Unit Stills Photographer:_ John Jay
-_Stills - MGM:_ Ken Bray
-_Music Editor:_ Frank J. Urioste
-_‘Dawn of Man’ Choreography:_ Daniel Richter, Adrian Haggard,
-Roy Simpson
-_Boom Operators:_ Bill Cook, Don Wortham
+Bryan Loftus, David Osborne, Frederick Martin, John Jack Malick  
+_Editor:_ Ray Lovejoy  
+_Editorial Assistant:_ David De Wilde  
+_Production Designed by:_ Tony Masters, Harry Lange, Ernest Archer  
+_Art Director:_ John Hoesli  
+_Wardrobe:_ Hardy Amies  
+_Make-up:_ Stuart Freeborn  
+_Filmed in:_ Cinerama, Super Panavision  
+_Music:_ Aram Khachaturian, György Ligeti, Johann Strauss Jr, Richard Strauss  
+_Sound Supervisor:_ A.W. Watkins  
+_Sound Mixer:_ H.L. Bird  
+_Chief Dubbing Mixer:_ J.B. Smith  
+_Sound Editor:_ Winston Ryder  
+_Scientific Consultant:_ Frederick I. Ordway III  
+_Studio_: MGM British Studios  
+_uncredited:_  
+_Production Co-ordinator:_ Merle Chamberlin  
+_2nd Assistant Director:_ Richard Jenkins  
+_Casting:_ James Liggat  
+_Additional Photography:_ Michael Wilson  
+_Rostrum Cameraman:_ Dennis Hall  
+_Additional Matte Cinematography:_ Richard Yuricich  
+_Aerial Photography:_ Robert Gaffney  
+_Assistant Camera:_ Peter MacDonald  
+_Unit Stills Photographer:_ John Jay  
+_Stills - MGM:_ Ken Bray  
+_Music Editor:_ Frank J. Urioste  
+_‘Dawn of Man’ Choreography:_ Daniel Richter, Adrian Haggard, Roy Simpson  
+_Boom Operators:_ Bill Cook, Don Wortham  
 
 **Cast**  
-Keir Dullea _(Mission Commander David Bowman)_
-Gary Lockwood _(Astronaut Frank Poole)_
-William Sylvester _(Dr Heywood Floyd)_
-Daniel Richter _(moonwatcher)_
-Leonard Rossiter _(Smyslov)_
-Margaret Tyzack _(Elena)_
-Robert Beatty _(Halvorsen)_
+Keir Dullea _(Mission Commander David Bowman)_  
+Gary Lockwood _(Astronaut Frank Poole)_  
+William Sylvester _(Dr Heywood Floyd)_  
+Daniel Richter _(moonwatcher)_  
+Leonard Rossiter _(Smyslov)_  
+Margaret Tyzack _(Elena)_  
+Robert Beatty _(Halvorsen)_  
 Sean Sullivan _(Michaels)_
 Douglas Rain _(voice of HAL 9000)_
 Frank Miller _(mission controller)_
@@ -127,5 +126,5 @@ Keith Denny _(ape)_
 UK 1968©  
 150 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDM5MDExOV19
+eyJoaXN0b3J5IjpbODI2MDkxNTExXX0=
 -->
