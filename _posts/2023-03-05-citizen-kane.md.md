@@ -1,7 +1,6 @@
 <![endif]-->
 
 **Andrew Sarris on the 50th anniversary of the opening of ‘Citizen Kane’**
-
 _Citizen Kane_ erupted on to the screen, at least as a long-lived figure of speech, on 1 May 1941 at New York’s Palace Theater. The film was originally to be premiered at the more prestigious and profitable Radio City Music Hall, but the booking was rejected – presumably because of the controversy surrounding the film’s allegedly libellous treatment of William Randolph Hearst and his mistress, Marion Davies. Although Orson Welles always insisted that Charles Foster Kane was a composite of several tycoons, Barbara Learning’s authorised biography of Welles contains the startling information that: ‘Somehow, before making the movie, Orson had found out the secret name that Hearst used to refer to Marion Davies’ genitalia: Rosebud’. So much for the arcane analysis of this most tantalising of cinematic symbols.
 
 After 50 years of relentless re-evaluation, whether or not _Citizen Kane_ is all that it is cracked up to be remains an open question. There are many people who have never even seen the movie – we’re not talking here about _Gone with the Wind_ or _It’s a Wonderful Life_ or _The Wizard of Oz_. We are talking instead of a dark, shadowy slab of celluloid that Jorge Luis Borges once described as that ‘centreless labyrinth’ mentioned in Chesterton’s _The Head of Caesar_.
@@ -117,5 +116,5 @@ Jean Forward _(Dorothy Comingore’s singing voice)_
 USA 1941©
 119 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzE2NjYyM119
+eyJoaXN0b3J5IjpbMTQxNTU0NzA1OSwtNzczMTY2NjIzXX0=
 -->
