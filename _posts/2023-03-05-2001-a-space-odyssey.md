@@ -1,6 +1,14 @@
-
-<![endif]-->
-
+---
+layout: post
+title: 20
+published: true
+date: 2023-03-04
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>4=']
+tags: [Drama]
+metadata: 'Japan 1953, 136 mins<br> Director: Yasujiro Ozu'
+pdf: '2023-03-04-tokyo-story.pdf'
+---
 Kubrick’s epic contemplation of the nature and origins of humanity, completed a full year before the first moon landing, remains one of cinema’s greatest technical feats and a highpoint in the film’s representation of space travel. But _2001: A Space Odyssey_ is so much more than the skill that went into its making. Its philosophical and spiritual depth, along with the rhapsodic beauty of the unfurling imagery, make it one of cinema’s most poetic and awe-inspiring experiences.  
 **Stuart Brown, bfi.org.uk**
 
@@ -80,51 +88,75 @@ Daniel Richter _(moonwatcher)_
 Leonard Rossiter _(Smyslov)_  
 Margaret Tyzack _(Elena)_  
 Robert Beatty _(Halvorsen)_  
-Sean Sullivan _(Michaels)_
-Douglas Rain _(voice of HAL 9000)_
-Frank Miller _(mission controller)_
-Bill Weston _(spacewalker)_
-Edward Bishop
-Glenn Beck
-Alan Gifford _(Poole’s father)_
-Ann Gillis
-Edwina Carroll _(Aries stewardess)_
-Penny Brahms, Heather Downham _(stewardess)_
-Mike Lovell
-John Ashley _(astronaut)_
-Jimmy Bell
-David Charkham
-Simon Davis
-Jonathan Daw
-Peter Delmar
-Terry Duggan
-David Fleetwood
-Danny Grover
-Brian Hawley
-David Hines
-Tony Jackson
-John Jordan
-Scott MacKee
-Laurence Marchant
-Darryl Paes
-Joe Refalo
-Andy Wallace
-Bob Wilyman
-Richard Wood
+Sean Sullivan _(Michaels)_  
+Douglas Rain _(voice of HAL 9000)_  
+Frank Miller _(mission controller)_  
+Bill Weston _(spacewalker)_  
+Edward Bishop  
+Glenn Beck  
+Alan Gifford _(Poole’s father)_  
+Ann Gillis  
+Edwina Carroll _(Aries stewardess)_  
+Penny Brahms, Heather Downham _(stewardess)_  
+Mike Lovell  
+John Ashley _(astronaut)_  
+Jimmy Bell  
+David Charkham  
+Simon Davis  
+Jonathan Daw  
+Peter Delmar  
+Terry Duggan  
+David Fleetwood  
+Danny Grover  
+Brian Hawley  
+David Hines  
+Tony Jackson  
+John Jordan  
+Scott MacKee  
+Laurence Marchant  
+Darryl Paes  
+Joe Refalo  
+Andy Wallace  
+Bob Wilyman  
+Richard Wood  
 _uncredited:_
-Vivian Kubrick _(Floyd’s daughter)_
-Burnell Tucker _(photographer)_
-John Swindells _(first technician)_
-John Clifford _(second technician)_
-Martin Amor _(interviewer)_
-Kevin Scott _(Miller)_
-Krystyna Marr _(Russian scientist)_
-Kenneth Kendall _(BBC-12 announcer)_
+Vivian Kubrick _(Floyd’s daughter)_  
+Burnell Tucker _(photographer)_   
+John Swindells _(first technician)_ 
+John Clifford _(second technician)_  
+Martin Amor _(interviewer)_  
+Kevin Scott _(Miller)_  
+Krystyna Marr _(Russian scientist)_  
+Kenneth Kendall _(BBC-12 announcer)_  
 Ann Boman, Penny Pearl, Julie Croft
-Keith Denny _(ape)_
+Keith Denny _(ape)_  
 
 UK 1968©  
 150 mins  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2MDkxNTExXX0=
+eyJoaXN0b3J5IjpbMTk0MzI5ODU5MF19
 -->
