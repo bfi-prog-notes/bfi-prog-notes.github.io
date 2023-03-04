@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Mulholland Dr.
+published: true
+date: 2023-03-07
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>8=']
+tags: [Drama, Thriller]
+metadata: 'FranceUSA 2001, 147 mins<br> Director: Alfred Hitchcock'
+pdf: '2023-03-06-vertigo.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -189,9 +199,9 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTg0MzcyOF19
+eyJoaXN0b3J5IjpbNDUyNTQ0NzYxXX0=
 -->
