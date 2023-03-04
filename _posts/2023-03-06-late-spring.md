@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Late Spring
+published: true
+date: 2023-03-06
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>5=']
+tags: [Drama, Romance]
+metadata: 'Japan 1949, 108 mins<br> Director: Wong Kar Wai'
+pdf: '2023-03-06-in-the-mood-for-love.pdf'
+---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
@@ -24,46 +34,46 @@ If Ryu’s bowing of his head is meant emotionally to balance and set off the wh
 The final shot of Ryu is followed by one of waves washing up on a beach. Throughout the film, the father’s insistence on his daughter marrying has seemed harsh and unreasonable, almost inhuman; as the daughter’s resistance has seemed almost pathological, humanly unreasonable. The final slump of his body is then the link between her humanity and the film’s sense of the father as representative of an impersonal force or fate; specifically, it is the link between the images of Hara’s bowed head and the last shot of the film – the waves, an image of cosmic incessancy.  
 **Don Willis, _Sight and Sound_, Winter 1978-79**  
 
-**LATE SPRING (BANSHUN)**
-_Director:_ Yasujiro Ozu
-©_:_ Shochiku Co. Ltd.
-_Production Company:_ Shochiku Co. Ltd.
-_Producer:_ Takeshi Yamamoto
-_Assistant Directors:_ Kozo Yamamoto, Tsukamoto Shokichi, Kozo Tashiro, Buichi Saito
-_Screenplay:_ Kogo Noda, Yasujiro Ozu
-_Based on the novel_ Chichi to Musume _by:_ Kazuo Hirotsu
-_Director of Photography:_ Yuharu Atsuta
-_Lighting:_ Haruo Isono
-_Camera Assistants:_ Seiji Inoue, Takashi Kawamata, Motoshige Oikawa, Yoshitsugu Tonegawa, Takeo Matsuda
-_Editor:_ Yoshiyasu Hamamura
-_Art Director:_ Tatsuo Hamada
-_Set Designer:_ Kintaro Yamamoto
-_Set Decorator:_ Mototane Komaki
-_Costumes:_ Bunjiro Suzuki
-_Film Processing by:_ Ryuji Hayashi
-_Music:_ Senji Ito
-_Sound Recording:_ Hidekata Sasaki
-_Sound Mixing:_ Yoshisaburo Senoo
-_Studio:_ Shochiku Ofuna
+**LATE SPRING (BANSHUN)**  
+_Director:_ Yasujiro Ozu  
+©_:_ Shochiku Co. Ltd.  
+_Production Company:_ Shochiku Co. Ltd.  
+_Producer:_ Takeshi Yamamoto  
+_Assistant Directors:_ Kozo Yamamoto, Tsukamoto Shokichi, Kozo Tashiro, Buichi Saito  
+_Screenplay:_ Kogo Noda, Yasujiro Ozu  
+_Based on the novel_ Chichi to Musume _by:_ Kazuo Hirotsu  
+_Director of Photography:_ Yuharu Atsuta  
+_Lighting:_ Haruo Isono  
+_Camera Assistants:_ Seiji Inoue, Takashi Kawamata, Motoshige Oikawa, Yoshitsugu Tonegawa, Takeo Matsuda  
+_Editor:_ Yoshiyasu Hamamura  
+_Art Director:_ Tatsuo Hamada  
+_Set Designer:_ Kintaro Yamamoto  
+_Set Decorator:_ Mototane Komaki  
+_Costumes:_ Bunjiro Suzuki  
+_Film Processing by:_ Ryuji Hayashi  
+_Music:_ Senji Ito  
+_Sound Recording:_ Hidekata Sasaki  
+_Sound Mixing:_ Yoshisaburo Senoo  
+_Studio:_ Shochiku Ofuna  
 
-**Cast**
-Chishu Ryu _(Professor Shukichi Somiya)_
-Setsuko Hara _(Noriko, Somiya’s daughter)_
-Yumeji Tsukioka _(Aya Kitagawa)_
-Haruko Sugimura _(Masa Taguchi, Noriko’s aunt)_
-Hohi Aoki _(Katsuyochi Taguchi)_
-Junya Usami _(Shoichi Hattori, Somiya’s assistant)_
-Kuniko Miyake _(Akiko Miwa)_
-Masao Mishima _(Yuzuru Onodera)_
-Yoshiko Tsubouchi _(Kiku, Onodera’s wife)_
-Yoko Katsuragi _(Misako, Onodera’s daughter)_
-Ichiro Shimizu _(owner of Takigawa restaurant)_
-Jun Tanizaki _(Seizo Hayashi)_
-Toyo Takahashi _(Shige Hayashi)_
-Yoko Benisawa _(tea ceremony instructor)_
+**Cast**  
+Chishu Ryu _(Professor Shukichi Somiya)_  
+Setsuko Hara _(Noriko, Somiya’s daughter)_  
+Yumeji Tsukioka _(Aya Kitagawa)_  
+Haruko Sugimura _(Masa Taguchi, Noriko’s aunt)_  
+Hohi Aoki _(Katsuyochi Taguchi)_  
+Junya Usami _(Shoichi Hattori, Somiya’s assistant)_  
+Kuniko Miyake _(Akiko Miwa)_  
+Masao Mishima _(Yuzuru Onodera)_  
+Yoshiko Tsubouchi _(Kiku, Onodera’s wife)_  
+Yoko Katsuragi _(Misako, Onodera’s daughter)_  
+Ichiro Shimizu _(owner of Takigawa restaurant)_  
+Jun Tanizaki _(Seizo Hayashi)_  
+Toyo Takahashi _(Shige Hayashi)_  
+Yoko Benisawa _(tea ceremony instructor)_  
 
-Japan 1949©
-108 mins
+Japan 1949©  
+108 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0MzAxOTk1XX0=
+eyJoaXN0b3J5IjpbLTg4MzY1NDMyMV19
 -->
