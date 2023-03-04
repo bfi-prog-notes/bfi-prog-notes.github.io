@@ -13,8 +13,7 @@ pdf: '2023-03-05-passion-of-joan-of-arc.pdf'
 _The Passion of Joan of Arc_ is an extraordinary achievement. Based on the original 1431 transcript of the trial of the teenager, Dreyer’s sparse style, filmed with little emphasis on plot or setting, and almost entirely in facial close-ups, draws you into the world of Jeanne’s suffering. It is perhaps the bravest expression of cinematic art of the silent era.  
 **Bryony Dixon**  
 
-Silent cinema at its most sublimely expressive, Carl Theodor Dreyer’s masterpiece is an austere but hugely affecting dramatisation of the trial of  
-St Joan of Arc.
+Silent cinema at its most sublimely expressive, Carl Theodor Dreyer’s masterpiece is an austere but hugely affecting dramatisation of the trial of St Joan of Arc.
 
 Released as talking pictures were already taking over, Carl Theodor Dreyer’s first film in France – the Danish master had previously worked in Scandinavia and Germany – is a remarkably distilled and refined example of silent storytelling. Based on the record of the 15th-century trial and execution of Joan of Arc, the film focuses on an extraordinarily concentrated central performance from Renée Falconetti, allegedly the result of merciless needling from Dreyer during the filming.
 
