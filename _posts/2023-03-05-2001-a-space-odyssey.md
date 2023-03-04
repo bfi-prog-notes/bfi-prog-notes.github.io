@@ -120,6 +120,63 @@ _‘Dawn of Man’ Choreography:_ Daniel Richter, Adrian Haggard,
 Roy Simpson
 
 _Boom Operators:_ Bill Cook, Don Wortham
+
+**Cast**
+
+Keir Dullea _(Mission Commander David Bowman)_
+
+Gary Lockwood _(Astronaut Frank Poole)_
+
+William Sylvester _(Dr Heywood Floyd)_
+Daniel Richter _(moonwatcher)_
+Leonard Rossiter _(Smyslov)_
+Margaret Tyzack _(Elena)_
+Robert Beatty _(Halvorsen)_
+Sean Sullivan _(Michaels)_
+Douglas Rain _(voice of HAL 9000)_
+Frank Miller _(mission controller)_
+Bill Weston _(spacewalker)_
+Edward Bishop
+Glenn Beck
+Alan Gifford _(Poole’s father)_
+Ann Gillis
+Edwina Carroll _(Aries stewardess)_
+Penny Brahms, Heather Downham _(stewardess)_
+Mike Lovell
+John Ashley _(astronaut)_
+Jimmy Bell
+David Charkham
+Simon Davis
+Jonathan Daw
+Peter Delmar
+Terry Duggan
+David Fleetwood
+Danny Grover
+Brian Hawley
+David Hines
+Tony Jackson
+John Jordan
+Scott MacKee
+Laurence Marchant
+Darryl Paes
+Joe Refalo
+Andy Wallace
+Bob Wilyman
+Richard Wood
+_uncredited:_
+Vivian Kubrick _(Floyd’s daughter)_
+Burnell Tucker _(photographer)_
+John Swindells _(first technician)_
+John Clifford _(second technician)_
+Martin Amor _(interviewer)_
+Kevin Scott _(Miller)_
+Krystyna Marr _(Russian scientist)_
+Kenneth Kendall _(BBC-12 announcer)_
+Ann Boman, Penny Pearl, Julie Croft
+Keith Denny _(ape)_
+
+UK 1968©  
+150 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTYwODg2OF19
+eyJoaXN0b3J5IjpbLTEwMzk4NzY2MzJdfQ==
 -->
