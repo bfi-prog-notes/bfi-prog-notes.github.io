@@ -54,12 +54,12 @@ Antonin Artaud _(Jean Massieu)_
 Gilbert Dalleu _(Jean Lemaître)_  
 Jean D’ Yd _(Nicolas de Houpeville)_  
 Alexandre Mihalesco, Armand Lurville, Raymond Narlay, Henri Maillard, Léon Larive, Paul Fromet, Paul Jorge, Carlo De Dona, Fournez-Goffard, Armand Caratis, Jacques Arnna, Jack Piera, Paul Delauzac, Jean Aymé, Henri Gaultier, Michel Simon, Dacheux, Persitz, Christian Argentin, Derval, Bac, Robert Le Flon, Valbret, Emile Piotte, Polonsky, André Marnay, Dmitrieff, Paul Velsa, Gitenet, Beri, Nikitine, Bazaine _(judges)_  
-Camille Bardou,_ Martoff _(soldiers)_
-Sommaire, Badin _(clerks)_
-Granowski, Rouf _(torturers)_
+Camille Bardou, Martoff _(soldiers)_  
+Sommaire, Badin _(clerks)_  
+Granowski, Rouf _(torturers)_  
 
-France 1928
-81 mins
+France 1928  
+81 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODM1MTYzM119
+eyJoaXN0b3J5IjpbLTQxMDg1NjE3Nl19
 -->
