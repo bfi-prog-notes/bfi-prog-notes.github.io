@@ -122,7 +122,7 @@ Jean Forward _(Dorothy Comingore’s singing voice)_
 
 USA 1941©  
 119 mins  
-br>
+<br>
 
 **SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**<br>
 **Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles**<br>
