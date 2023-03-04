@@ -2,12 +2,12 @@
 layout: post
 title: In the Mood for Love
 published: true
-date: 2023-03-05
+date: 2023-03-06
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>5=']
 tags: [Drama, Romance]
 metadata: 'Hong Kong/France 2000, 98 mins<br> Director: Wong Kar Wai'
-pdf: '2023-03-05-sunrise.pdf'
+pdf: '2023-03-06-in-the-mood-for-love.pdf'
 ---
 
 The signs were already there that Wong Kar Wai’s woozy, hungry, love story was likely to earn a significant promotion in this year’s poll. Ten years ago, it stood out as the best-performing film of the 21st century in the critics’ list, landing in 24th place. With a fresh generation of critics chiming in – one that cinematically came of age when Wong’s film had already attained modern-classic status – it was sure to rise up the ranks.
@@ -188,6 +188,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjEzOTY3ODEsLTEyODUzMTcwNDJdfQ
-==
+eyJoaXN0b3J5IjpbLTM1MjQ1NjgxMCwtMTI4NTMxNzA0Ml19
 -->
