@@ -4,10 +4,10 @@ title: 2001  A Space Odyssey
 published: true
 date: 2023-03-05
 readtime: true
-categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>4=']
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>6=']
 tags: [Sci-Fi]
-metadata: 'Japan 1953, 136 mins<br> Director: Yasujiro Ozu'
-pdf: '2023-03-04-tokyo-story.pdf'
+metadata: 'UK 1968, 150 mins<br> Director: Stanely Kubrick'
+pdf: '2023-03-05-2001-a-space-odyssey.pdf'
 ---
 Kubrick’s epic contemplation of the nature and origins of humanity, completed a full year before the first moon landing, remains one of cinema’s greatest technical feats and a highpoint in the film’s representation of space travel. But _2001: A Space Odyssey_ is so much more than the skill that went into its making. Its philosophical and spiritual depth, along with the rhapsodic beauty of the unfurling imagery, make it one of cinema’s most poetic and awe-inspiring experiences.  
 **Stuart Brown, bfi.org.uk**
@@ -158,5 +158,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTIzNTcwODVdfQ==
+eyJoaXN0b3J5IjpbMTg0NTkwMDczNl19
 -->
