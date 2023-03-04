@@ -12,7 +12,7 @@ pdf: '2023-03-05-nothing-about-us.pdf'
 
 A disabled-led discourse on accessible advancements within the film industry.
 
-‘Nothing About Us Without Us’ will be a celebration of the BFI’s Disability Screen Advisory Group’s first cohort of leaders: Andrew Miller MBE, David Proud and Kim Tserkezie, joining us virtually, who will shortly step down after 5 years in post driving inclusive change in film. Hosted by ITV Creative Diversity Partner Samantha Tatlow MBE
+‘Nothing About Us Without Us’ will be a celebration of the BFI’s Disability Screen Advisory Group’s first cohort of leaders: Andrew Miller MBE, David Proud and Kim Tserkezie, joining us virtually, who will shortly step down after 5 years in post driving inclusive change in film. Hosted by ITV Creative Diversity Partner Samantha Tatlow MBE.
 
 These disabled screen pioneers will reflect on the highlights of their own careers in film and TV as well as the advisory group’s innovative and influential work at the BFI: from the pandemic Press Reset campaign to the creation of the world’s first Disability and Visible Difference Panel.
 
@@ -25,6 +25,50 @@ These disabled screen pioneers will reflect on the highlights of their own caree
 **Sam Tatlow MBE** is Creative Diversity Partner at ITV and is part of the team delivering the Diversity Acceleration Plan. She is involved in delivering ITV’s Disability agenda and also works closely with producers and the commissioning teams to ensure a diverse and inclusive team are involved for ITV commissions working particularly closely with the teams in Factual Entertainment, Sport, Daytime and the soaps.
 
 The Q&A will have live-captioning and BSL interpretation.  
+<br>
+**FLARE: We Have Always Been Here!**  
+Film curator Tara Brown leads an in-depth panel discussion about the intersections of queerness, disability and film.  
+Sat 18 Mar 16:30  
+
+**BUSTING THE BIAS**  
+**Busting the Bias Opening Night: Is There Anybody Out There? An illustrated talk + ECLECTIC: Shorts Programme**  
+Fri 3 Mar 18:00  
+
+**Library Event: Reimagined Cinema**  
+Sat 4 Mar 14:00 BFI Reuben Library  
+
+**Shy Radicals + intro and discussion**  
+Sat 4 Mar 16:00 BFI Reuben Library  
+
+**Nothing about Us without Us: Celebrating 5 years of BFI’s Disability Screen Advisory Group**  
+Sun 5 Mar 14:00  
+
+**I Didn’t See You There + pre-recorded Q&A**  
+Sun 5 Mar 16:00  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTMyNzUzMjNdfQ==
+eyJoaXN0b3J5IjpbLTk3NDM3OTI2Nl19
 -->
