@@ -1,13 +1,13 @@
 ---
 layout: post
-title: I Didn't See You There
+title: Nothing About Us <br>Without Us
 published: true
 date: 2023-03-05
 readtime: true
 categories: ['BUSTING THE BIAS']
-tags: [Documentary, Talk]
-metadata: 'USA 2022, 76 mins<br> Director: Reid Davenport'
-pdf: '2023-03-05-i-didnt-see-you-there.pdf'
+tags: [Talk]
+metadata: 
+pdf: '2023-03-05-nothing-about-us.pdf'
 ---
 
 A disabled-led discourse on accessible advancements within the film industry.
@@ -26,5 +26,5 @@ These disabled screen pioneers will reflect on the highlights of their own caree
 
 The Q&A will have live-captioning and BSL interpretation.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Mzg4MzMzMV19
+eyJoaXN0b3J5IjpbLTE3MTMyNzUzMjNdfQ==
 -->
