@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: I Didn't See You There
+published: true
+date: 2023-03-05
+readtime: true
+categories: ['BUSTING THE BIAS']
+tags: [Documentary, Talk]
+metadata: 'USA 2022, 76 mins<br> Director: Reid Davenport'
+pdf: '2023-03-05-i-didnt.pdf'
+---
 
 _+ pre-recorded Q&A_
 
@@ -53,5 +62,5 @@ Sun 5 Mar 14:00
 **I Didn’t See You There + pre-recorded Q&A**
 Sun 5 Mar 16:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI3MzM2NDJdfQ==
+eyJoaXN0b3J5IjpbLTQzMTU5NzA4MF19
 -->
