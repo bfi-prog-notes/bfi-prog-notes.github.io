@@ -67,50 +67,51 @@ Ellen Lowe _(Miss Townsend)_
 Charles Bennett _(entertainer)_  
 Irving Mitchell _(Doctor Corey)_  
 Joe Manz _(Jennings)_  
-Alan Ladd, Harriet Brandon, Jack Santoro, Louise Currie, Eddie Coke, Walter Sande, Arthur O’Connell, Richard Wilson, Katherine Trosper, Milton Kibbee _(reporters)_
-Bruce Sidney _(newsman)_
-Lew Harvey _(newspaper man)_
-Louis Natheaux _(reporter)_
-Thomas A. Curran _(Teddy Roosevelt)_
-Edward Peil, Charles Meakin _(civic leaders)_
-Mitchell Ingraham, Francis Sayles _(politicians)_
-Louise Franklin _(maid)_
-Edith Evanson _(nurse)_
-Arthur Kay _(orchestra leader)_
-Tudor Williams _(chorus master)_
-James Mack _(prompter)_
-Gohr Van Vleck, Jack Raymond _(stagehands)_
-Herbert Corthell _(city editor of Chicago Inquirer)_
-Shimen Ruskin, George Sherwood, Eddie Cobb _(hirelings)_
-Olin Francis _(expressman)_
-Frances Neal _(Ethel)_
-Robert Dudley _(photographer)_
-Tim Davis, George Noisom _(copy boys)_
-Jack Curtis _(chief printer)_
-Landers Stevens _(investigator)_
-John Dilson, Walter James _(ward heelers)_
-Joe North, William O’Brien _(Thatcher’s secretaries)_
-Dona Dax _(housemaid)_
-Myrtle Rischell _(governess)_
-Petra De Silva _(newswoman)_
-Gino Corrado _(Gino, waiter at El Rancho)_
-Suzanne Dulier _(Marie, French maid)_
-Major McBride _(shadowgraph man)_
-Karl Thomas _(Jetsam)_
-Glen Turnbull _(Flotsam)_
-Harry J. Vejar _(Portuguese labourer)_
-Captain Garcia _(general)_
-Art Yeoman _(speaker at Union Square)_
-Philip Morris _(politician)_
-Albert Frazier _(gorilla man)_
-Guy Repp, Buck Mack _(men)_
-Jack Morton _(butler)_
-Carmen La Roux _(maid in Xanadu corridor)_
-Edward Hemmer, Marie Day  
-Jean Forward _(Dorothy Comingore’s singing voice)_
+Alan Ladd, Harriet Brandon, Jack Santoro, Louise Currie, Eddie Coke, Walter Sande, Arthur O’Connell, Richard Wilson, Katherine Trosper, Milton Kibbee _(reporters)_  
+Bruce Sidney _(newsman)_  
+Lew Harvey _(newspaper man)_  
+Louis Natheaux _(reporter)_  
+Thomas A. Curran _(Teddy Roosevelt)_  
+Edward Peil, Charles Meakin _(civic leaders)_  
+Mitchell Ingraham, Francis Sayles _(politicians)_  
+Louise Franklin _(maid)_  
+Edith Evanson _(nurse)_  
+Arthur Kay _(orchestra leader)_  
+Tudor Williams _(chorus master)_  
+James Mack _(prompter)_  
+Gohr Van Vleck, Jack Raymond _(stagehands)_  
+Herbert Corthell _(city editor of Chicago Inquirer)_  
+Shimen Ruskin, George Sherwood, Eddie Cobb _(hirelings)_  
+Olin Francis _(expressman)_  
+Frances Neal _(Ethel)_  
+Robert Dudley _(photographer)_  
+Tim Davis, George Noisom _(copy boys)_  
+Jack Curtis _(chief printer)_  
+Landers Stevens _(investigator)_  
+John Dilson, Walter James _(ward heelers)_  
+Joe North, William O’Brien _(Thatcher’s secretaries)_  
+Dona Dax _(housemaid)_  
+Myrtle Rischell _(governess)_  
+Petra De Silva _(newswoman)_  
+Gino Corrado _(Gino, waiter at El Rancho)_  
+Suzanne Dulier _(Marie, French maid)_  
+Major McBride _(shadowgraph man)_  
+Karl Thomas _(Jetsam)_  
+Glen Turnbull _(Flotsam)_  
+Harry J. Vejar _(Portuguese labourer)_  
+Captain Garcia _(general)_  
+Art Yeoman _(speaker at Union Square)_  
+Philip Morris _(politician)_  
+Albert Frazier _(gorilla man)_  
+Guy Repp, Buck Mack _(men)_  
+Jack Morton _(butler)_  
+Carmen La Roux _(maid in Xanadu corridor)_  
+Edward Hemmer  
+Marie Day  
+Jean Forward _(Dorothy Comingore’s singing voice)_  
 
-USA 1941©
-119 mins
+USA 1941©  
+119 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI2NjQxMjIsLTc3MzE2NjYyM119
+eyJoaXN0b3J5IjpbLTE5NjY3OTE1NzYsLTc3MzE2NjYyM119
 -->
