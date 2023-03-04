@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: In the Mood for Love
+published: true
+date: 2023-03-05
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>5=']
+tags: [Drama, Romance]
+metadata: 'USA 1927, 94 mins<br> Director: F.W. Murnau'
+pdf: '2023-03-05-sunrise.pdf'
+---
 
 
 The signs were already there that Wong Kar Wai’s woozy, hungry, love story was likely to earn a significant promotion in this year’s poll. Ten years ago, it stood out as the best-performing film of the 21st century in the critics’ list, landing in 24th place. With a fresh generation of critics chiming in – one that cinematically came of age when Wong’s film had already attained modern-classic status – it was sure to rise up the ranks.
@@ -93,5 +103,6 @@ Chow Po-Chun
 Hong Kong/France 2000©  
 98 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODUzMTcwNDJdfQ==
+eyJoaXN0b3J5IjpbLTEyMTA1NzA0MjIsLTEyODUzMTcwNDJdfQ
+==
 -->
