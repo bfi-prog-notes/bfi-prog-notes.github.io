@@ -1,5 +1,5 @@
 
-<![endif]-->
+
 
 The signs were already there that Wong Kar Wai’s woozy, hungry, love story was likely to earn a significant promotion in this year’s poll. Ten years ago, it stood out as the best-performing film of the 21st century in the critics’ list, landing in 24th place. With a fresh generation of critics chiming in – one that cinematically came of age when Wong’s film had already attained modern-classic status – it was sure to rise up the ranks.
 
@@ -7,14 +7,10 @@ _In the Mood for Love’_s spectacular top five placement, however, demonstrates
 
 The film never tells you it’s about any of that, of course. Wong’s porous, often headily non-verbal filmmaking trusts us to feel the lovers’ ennui and melancholy – and further, to identify it within ourselves – via its sheer accumulation of sounds, images and sense memories: be it the damp wraiths of steam swirling from an opened noodle container, the warm, vinyl-roughened croon of Nat King Cole on the soundtrack or the impossible lobby-card beauty of Tony Leung and Maggie Cheung, both preserved here in their ravishing prime, and somehow convincing as ordinary mortals made movie-star beautiful by love.
 
-We’re living through a fairly stifled age of visual storytelling, as the televisual pull of streaming culture encourages filmmakers to think smaller and more literal. As moving as its relationship study is, anybody who thinks of _In the Mood for Love_, however, thinks first of those sensory flourishes and grace notes – it’s a film that even, somehow, has a signature scent. Its visual and sonic fragments cumulatively evoke not just a firmly past time and place but a mood, a feeling, a sorrow that drifts from the film’s world to ours. That must account for its enduring, even increasing, popularity: it lingers like an unrequited crush.
+We’re living through a fairly stifled age of visual storytelling, as the televisual pull of streaming culture encourages filmmakers to think smaller and more literal. As moving as its relationship study is, anybody who thinks of _In the Mood for Love_, however, thinks first of those sensory flourishes and grace notes – it’s a film that even, somehow, has a signature scent. Its visual and sonic fragments cumulatively evoke not just a firmly past time and place but a mood, a feeling, a sorrow that drifts from the film’s world to ours. That must account for its enduring, even increasing, popularity: it lingers like an unrequited crush.  
+**Guy Lodge, bfi.org.uk**  
 
-**Guy Lodge, bfi.org.uk  
-<![if !supportLineBreakNewLine]>  
-<![endif]>**
-
-**Wong Kar-Wai on ‘In the Mood for Love’**
-
+**Wong Kar-Wai on ‘In the Mood for Love’**  
 _Do you know why it took so long for this film to coalesce into its final form?_
 
 The project had a very complicated evolution. It goes back to 1997, when we had the idea of making two films back-to-back, one before the handover of Hong Kong, the other after. The first of these was supposed to be _Summer in Beijing_, starring Maggie Cheung and Tony Leung, but we couldn’t reach an agreement about filming in Beijing with the China Film Bureau and so we had to give up. But the actors were still onside, and I didn’t want to let the project die. My first idea was to go ahead with _Summer in Beijing_ – with ‘Beijing’ now being a restaurant in Macau. That led to the thought of making a film about food and we came up with three strands of story, one about a chef, one about a writer in the 60s and one about a delicatessen owner. At that time Maggie was supposed to be doing _Memoirs of a Geisha_ for Steven Spielberg, so we thought we had only a short time to get it done. We planned the story about the delicatessen owner and then moved on to the one about the writer – at which point I realised that the one about the writer was the only one I really wanted to make.
@@ -39,12 +35,10 @@ I’m trying to show the process of change. Daily life is always routine – the
 
 _You’ve tackled the 60s once before, in_ Days of Being Wild_, and you’ve suggested in your Director’s Note that this film might answer the question ‘Whatever happened to_ Days of Being Wild, Part II_?’ How do you see the relationship between the two films?_
 
-_Days of Being Wild_ was for me a very personal reinvention of the 60s. Here, though, we consciously tried to recreate the actuality. I wanted to say something about daily life then, about domestic conditions, neighbours, everything. I even worked out a menu for the period of the shoot, with distinctive dishes for different seasons, and found a Shanghainese lady to cook them so that the cast would be eating them as we shot. I wanted the film to contain all those flavours that are so familiar to me. The audience probably won’t notice a thing, but it meant a lot to me emotionally. When we started filming the 1962 scenes, William Chang asked me if we were finally making _Days of Being Wild, Part II_. I’ll never make Part II as originally envisaged because that story doesn’t mean the same to me any more. But this is in some sense Part II as I might conceive it now.
+_Days of Being Wild_ was for me a very personal reinvention of the 60s. Here, though, we consciously tried to recreate the actuality. I wanted to say something about daily life then, about domestic conditions, neighbours, everything. I even worked out a menu for the period of the shoot, with distinctive dishes for different seasons, and found a Shanghainese lady to cook them so that the cast would be eating them as we shot. I wanted the film to contain all those flavours that are so familiar to me. The audience probably won’t notice a thing, but it meant a lot to me emotionally. When we started filming the 1962 scenes, William Chang asked me if we were finally making _Days of Being Wild, Part II_. I’ll never make Part II as originally envisaged because that story doesn’t mean the same to me any more. But this is in some sense Part II as I might conceive it now.  
+**Interview with Wong Kar-Wai by Tony Rayns, _Sight and Sound_, August 2000**  
 
-**Interview with Wong Kar-Wai by Tony Rayns, _Sight and Sound_, August 2000**
-
-**IN THE MOOD FOR LOVE (FA YEUNG NIN WA)**
-
+**IN THE MOOD FOR LOVE (FA YEUNG NIN WA)**  
 _Director/Producer/Screenplay:_ Wong Kar-Wai  
 _©/Presented by:_ Block 2 Pictures  
 _Production Company:_ Jet Tone Production  
@@ -52,18 +46,14 @@ _Presented by:_ Paradis Films
 _Executive Producer:_ Chan Ye-Chen  
 _Assistant Producer:_ Chan Wai-Si  
 _Associate Producer:_ Jacky Pang Yee-Wah  
-_Production Supervisor:_ Wong Lai-Tak
-
+_Production Supervisor:_ Wong Lai-Tak  
 _Production Managers:_ Law Kam-Chuen, Choi Suk-Yin  
-_Thai Crew Production Manager:_ Parichart Khumrod
-
+_Thai Crew Production Manager:_ Parichart Khumrod  
 _Assistant Directors:_ Siu Wai-Keung, Kong Yeuk-Sing  
 _Continuity:_ Yu Haw-Yan  
 _Incorporating quotations from the writings of:_ Liu Yi-Chang  
 _Directors of Photography:_ Christopher Doyle, Mark Li Pingbin  
-_Additional Photography:_ Kwan Pun-Leung, Yu Lik-Wai, Lai Yiu-Fai,
-
-Chan Kwong-Hung  
+_Additional Photography:_ Kwan Pun-Leung, Yu Lik-Wai, Lai Yiu-Fai, Chan Kwong-Hung  
 _Camera Assistant:_ Lai Yiu-Fai  
 _Lighting:_ Wong Chi-Ming  
 _Assistant Lighting:_ Kwan Wing-Cheung  
@@ -74,9 +64,6 @@ _Stills Photographer:_ Wing Shya
 _Supervising Editor:_ William Chang Suk-Ping  
 _Editor:_ Chan Kei-Hap  
 _Production Designer:_ William Chang Suk-Ping  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
-
 _Visual Consultant:_ Carmen Lui Lai-Wah  
 _Art Directors:_ Man Lim-Chung, Alfred Yau Wai-Ming  
 _Assistant Art Director:_ Lui Fung-Saan  
@@ -88,7 +75,7 @@ _Hair Design:_ Wong Kwok-Hung
 _Hairdresser:_ Luk Ha-Fong  
 _Original Music:_ Michael Galasso  
 _Spanish songs sung by:_ Nat King Cole  
-_Sound Recordists:_ Kuo Li-Chi, Tang Shiang-Chu, Liang Chih-Da
+_Sound Recordists:_ Kuo Li-Chi, Tang Shiang-Chu, Liang Chih-Da  
 
 **Cast**  
 Maggie Cheung Man-Yuk _(Mrs Chan, née Su Lizhen)_  
@@ -103,8 +90,8 @@ Yu Hsien
 Chow Po-Chun  
 
   
-Hong Kong/France 2000©
-98 mins
+Hong Kong/France 2000©  
+98 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTE1MDg4NDNdfQ==
+eyJoaXN0b3J5IjpbLTEyODUzMTcwNDJdfQ==
 -->
