@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 20
+title: 2001  A Space Odyssey
 published: true
-date: 2023-03-04
+date: 2023-03-05
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>4=']
-tags: [Drama]
+tags: [Sci-Fi]
 metadata: 'Japan 1953, 136 mins<br> Director: Yasujiro Ozu'
 pdf: '2023-03-04-tokyo-story.pdf'
 ---
@@ -158,5 +158,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzI5ODU5MF19
+eyJoaXN0b3J5IjpbLTExMTIzNTcwODVdfQ==
 -->
