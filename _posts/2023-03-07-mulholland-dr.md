@@ -70,128 +70,68 @@ Dan Hedaya _(Vincenzo Castigliane)_
 Mark Pellegrino _(Joe)_
 
 Brent Briscoe _(Detective Domgaard)_
-
 Robert Forster _(Detective Harry McKnight)_
-
 Katharine Towne _(Cynthia)_
-
 Lee Grant _(Louise Bonner)_
-
 Scott Wulff _(limo driver)_
-
 Billy Ray Cyrus _(Gene)_
-
 Chad Everett _(Jimmy Katz)_
-
 Rita Taggart _(Linney James)_
-
 James Karen _(Wally Brown)_
-
 Lori Heuring _(Lorraine)_
-
 Angelo Badalamenti _(Luigi Castigliane)_
-
 Michael Des Barres _(Billy)_
-
 Marcus Graham _(Mr Darby)_
-
 Melissa Crider _(waitress at Winkies)_
-
 Robert Katims _(Ray Hott)_
-
 Jeanne Bates _(Irene)_
-
 Dan Birnbaum _(Irene’s companion)_
-
 Maya Bond _(Aunt Ruth)_
-
 Patrick Fischler _(Dan)_
-
 Michael Cooke _(Herb)_
-
 Bonnie Aarons _(bum)_
-
 Michael J. Anderson _(Mr Roque)_
-
 Joseph Kearney _(Roque’s menervant)_
-
 Enrique Buelna _(back of head man)_
-
 Richard Mead _(hairy-armed man)_
-
 Sean E. Markland _(cab driver at LAX)_
-
 Daniel Rey _(valet attendant)_
-
 David Schroeder _(Robert Smith)_
-
 Tom Morris _(espresso man)_
-
 Melissa George _(Camilla Rhodes)_
-
 Matt Gallini _(Castigliane limo driver)_
-
 Vincent Castellanos _(Ed)_
-
 Diane Nelson _(heavy-set woman)_
-
 Charlie Croughwell _(vacuum man)_
-
 Rena Riffel _(Laney)_
-
 Tad Horino _(Taka)_
-
 Tony Longo _(Kenny)_
-
 Geno Silva _(hotel manager)_
-
 Lafayette Montgomery _(Cowboy)_
-
 Kate Forster _(Martha Johnson)_
-
 Wayne Grace _(Bob Booker)_
-
 Michele Hicks _(Nicki)_
-
 Lisa Ferguson _(1st assistant cameraperson)_
-
 William Ostrander _(2nd assistant director)_
-
 Elizabeth Lackey _(Carol)_
-
 Brian Beacock _(backup singer 1)_
-
 Blake Lindsley _(backup singer 2)_
-
 Adrien Curry _(backup singer 3)_
-
 Tyrah M. Lindsey _(backup singer 4)_
-
 Michael Weatherred _(Hank, assistant director)_
-
 Michael Fairman _(Jason)_
-
 Johanna Stein _(woman in #12)_
-
 Richard Green _(the magician)_
-
 Conte Candoli _(trumpet player)_
-
 Cori Glazer _(blue-haired lady)_
-
 Geno Silva _(emcee)_
-
 Rebekah Del Rio _(herself)_
-
 Lyssie Powell _(blond in bed)_
-
 Scott Coffey _(Wilkins)_
-
 Kimberly Clever, Joshua Collazo, Lisa Ferguson, David Frutos, Peter Loggins, Theresa Salazar, Thea Samuels, Christian Thompson _(dancers)_
 
 France/USA 2001©
-
 147 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDQxNzE0XX0=
+eyJoaXN0b3J5IjpbNzMzNzc5NDkwXX0=
 -->
