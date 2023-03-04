@@ -1,5 +1,14 @@
-
-
+---
+layout: post
+title: The Passion of Joan of Arc
+published: true
+date: 2023-03-05
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>21=']
+tags: [Drama, Period]
+metadata: 'France1927, 94 mins<br> Director: F.W. Murnau'
+pdf: '2023-03-05-sunrise.pdf'
+---
 
 _The Passion of Joan of Arc_ is an extraordinary achievement. Based on the original 1431 transcript of the trial of the teenager, Dreyer’s sparse style, filmed with little emphasis on plot or setting, and almost entirely in facial close-ups, draws you into the world of Jeanne’s suffering. It is perhaps the bravest expression of cinematic art of the silent era.  
 **Bryony Dixon**  
@@ -61,5 +70,5 @@ Granowski, Rouf _(torturers)_
 France 1928  
 81 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDg1NjE3Nl19
+eyJoaXN0b3J5IjpbLTY3MTUyNTMzNiwtNDEwODU2MTc2XX0=
 -->
