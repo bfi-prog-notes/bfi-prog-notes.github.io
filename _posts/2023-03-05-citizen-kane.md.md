@@ -1,6 +1,6 @@
-<![endif]-->
 
-**Andrew Sarris on the 50th anniversary of the opening of ‘Citizen Kane’**
+
+**Andrew Sarris on the 50th anniversary of the opening of ‘Citizen Kane’**  
 _Citizen Kane_ erupted on to the screen, at least as a long-lived figure of speech, on 1 May 1941 at New York’s Palace Theater. The film was originally to be premiered at the more prestigious and profitable Radio City Music Hall, but the booking was rejected – presumably because of the controversy surrounding the film’s allegedly libellous treatment of William Randolph Hearst and his mistress, Marion Davies. Although Orson Welles always insisted that Charles Foster Kane was a composite of several tycoons, Barbara Learning’s authorised biography of Welles contains the startling information that: ‘Somehow, before making the movie, Orson had found out the secret name that Hearst used to refer to Marion Davies’ genitalia: Rosebud’. So much for the arcane analysis of this most tantalising of cinematic symbols.
 
 After 50 years of relentless re-evaluation, whether or not _Citizen Kane_ is all that it is cracked up to be remains an open question. There are many people who have never even seen the movie – we’re not talking here about _Gone with the Wind_ or _It’s a Wonderful Life_ or _The Wizard of Oz_. We are talking instead of a dark, shadowy slab of celluloid that Jorge Luis Borges once described as that ‘centreless labyrinth’ mentioned in Chesterton’s _The Head of Caesar_.
@@ -11,14 +11,10 @@ The three most perceptive American film critics of the early 40s – James Agee,
 
 Neither audiences nor critics was comfortable with Welles’ ‘cinematic’ innovations borrowed from his own theatrical expressionism and experimentation. Every bit of portentous lighting and shadowing in _Kane_ was first manifested in the Wellesian theatre of the late 30s. What did make _Kane_ seem fresh in 1941 was its casting of theatre and radio people – Joseph Cotten, Everett Sloane, George Coulouris, Dorothy Comingore, Ray Collins, Ruth Warrick, Agnes Moorehead, William Alland, Erskine Sandford, Paul Stewart, et al – who had never before been seen on the screen. Welles himself was the biggest histrionic explosion on the movie screen, but to this day people differ on whether as a performer he was all that good or revelatory, or all that bad and hammy.
 
-The film met with a warmer reception in France. For filmmakers and critics such as François Truffaut and his colleagues at _Cahiers du cinéma_, the destiny of Charles Foster Kane was merged with that of Welles himself in an extreme expression of auteurism. For French critics, who were not able to see _Citizen Kane_ until after the end of the German occupation in 1945, Welles’ spectacular screen debut was seen in the context of his subsequent precipitous decline and fall. And when he turned up in Europe with the harried demeanour of a political exile, he was greeted as another Stroheim, another Chaplin, another Keaton – a genius to be cherished. _Kane_ thus became inseparable from Welles and his ordeal at the hands of the American philistines.
+The film met with a warmer reception in France. For filmmakers and critics such as François Truffaut and his colleagues at _Cahiers du cinéma_, the destiny of Charles Foster Kane was merged with that of Welles himself in an extreme expression of auteurism. For French critics, who were not able to see _Citizen Kane_ until after the end of the German occupation in 1945, Welles’ spectacular screen debut was seen in the context of his subsequent precipitous decline and fall. And when he turned up in Europe with the harried demeanour of a political exile, he was greeted as another Stroheim, another Chaplin, another Keaton – a genius to be cherished. _Kane_ thus became inseparable from Welles and his ordeal at the hands of the American philistines.  
+**Andrew Sarris, _Sight and Sound_, October 1991**  
 
-**Andrew Sarris, _Sight and Sound_, October 1991  
-<![if !supportLineBreakNewLine]>  
-<![endif]>**
-
-**Orson Welles on ‘Citizen Kane’**
-
+**Orson Welles on ‘Citizen Kane’**  
 One day in the office they said there’s a man called Toland waiting to see you.  
 And he was, of course, the leading cameraman and he said, ‘I want to make you a picture’. And I said, ‘Well that’s wonderful. Why? I don’t know anything about movie.’ And he said, ‘That’s why I want to do it. If you’re left alone as much as possible we’re gonna have a movie that looks different. I’m tired of working with people who know too much about it.’ We came to a moment in the first week of shooting ... no, the second week, where I suddenly was told by somebody that it was not the job of the director to do all the lighting. Up to then I’d been doing all the lighting with Toland behind me balancing and all but saying don’t tell anybody, you see. Then I had to go and apologise to him and everything. Then another awful moment came when I didn’t understand directions. And that was because I had learned how to make movies by running _Stagecoach_ every night for a month ... if you look at _Stagecoach_ you will see that the Indians attack left to right and then they attack right to left and so on. In other words, there’s no direction followed. Every rule is broken in the picture. And I sat and watched it 45 times. So of course when I was suddenly told in an over shoulder shot that I had to look camera left instead of camera right I said no, because I was standing here... So we closed the picture down. And at about two in the afternoon I went back to my house and Toland showed me how that worked. And I said, ‘Well there’s a lot of stuff here I don’t know,’ and he said, ‘There’s nothing I can’t teach you in three hours.’ And that’s when I said that... which has been taken as a very pompous statement, that I learned everything in three hours. It was Toland’s idea that anybody can learn it in three hours and that he taught it to me in three hours. Everything else is if you’re any good or not.
 
@@ -116,5 +112,5 @@ Jean Forward _(Dorothy Comingore’s singing voice)_
 USA 1941©
 119 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTU0NzA1OSwtNzczMTY2NjIzXX0=
+eyJoaXN0b3J5IjpbMTIzODMyNzc1MCwtNzczMTY2NjIzXX0=
 -->
