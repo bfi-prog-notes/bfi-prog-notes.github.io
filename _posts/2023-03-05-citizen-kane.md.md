@@ -22,51 +22,51 @@ I wanted to have nobody in the film you’d ever seen before. I thought that’d
 **_Sight and Sound_, October 1991**  
 
 **‘Citizen Kane’ reviewed on its original release**  
-This is unquestionably one of the most intelligent films to appear for many years. No one who is really interested in the cinema can afford to miss it. Even those who go to the cinema simply for a few hours’ entertainment, and who even perhaps profess to be bored by intelligence, will find themselves curiously spellbound by this spirited attempt to break with most of the formulas which Hollywood holds so dear. _Citizen Kane_ is refreshingly new, from its theme, which has a maturity which one has almost despaired of finding on the screen, right down to its cast, everyone of which acts superlatively well and none of which has ever appeared in films before [sic]. Orson Welles’s innovations of style will almost certainly influence current filmmaking, although the question whether he has made any significant contribution to film technique is not likely to be apparent until the film has taken its place in history. Meanwhile the fact that it should even give rise to the question is a measure of the film’s stature. Its style is essentially theatrical but is unusual in its narrative construction, in its dialogue, which has been written with amazing realism (as where a single voice rises out of a babel of voices and suddenly dominates the rest), and above all in its pictorial composition. These last (for which probably Gregg Toland, the camera-man, deserves most credit) have been most carefully constructed so as constantly to give emphasis to the dramatic action. To the resources of lighting, which has been most skilfully used, has been added construction in depth, made possible by wide-angle lenses used in combination with ceilinged sets. This construction in depth is the most obvious novelty of the film and the one most easy to imitate. There is every danger that the imitators will repeat the device without a due appreciation of the narrative skill which has made its use here so effective. _Citizen Kane_ is not above criticism but it would be unthankful to seek to analyse weaknesses in a film which offers such a full measure of merit and brilliance.
-**_Monthly Film Bulletin_, December 1941**
+This is unquestionably one of the most intelligent films to appear for many years. No one who is really interested in the cinema can afford to miss it. Even those who go to the cinema simply for a few hours’ entertainment, and who even perhaps profess to be bored by intelligence, will find themselves curiously spellbound by this spirited attempt to break with most of the formulas which Hollywood holds so dear. _Citizen Kane_ is refreshingly new, from its theme, which has a maturity which one has almost despaired of finding on the screen, right down to its cast, everyone of which acts superlatively well and none of which has ever appeared in films before [sic]. Orson Welles’s innovations of style will almost certainly influence current filmmaking, although the question whether he has made any significant contribution to film technique is not likely to be apparent until the film has taken its place in history. Meanwhile the fact that it should even give rise to the question is a measure of the film’s stature. Its style is essentially theatrical but is unusual in its narrative construction, in its dialogue, which has been written with amazing realism (as where a single voice rises out of a babel of voices and suddenly dominates the rest), and above all in its pictorial composition. These last (for which probably Gregg Toland, the camera-man, deserves most credit) have been most carefully constructed so as constantly to give emphasis to the dramatic action. To the resources of lighting, which has been most skilfully used, has been added construction in depth, made possible by wide-angle lenses used in combination with ceilinged sets. This construction in depth is the most obvious novelty of the film and the one most easy to imitate. There is every danger that the imitators will repeat the device without a due appreciation of the narrative skill which has made its use here so effective. _Citizen Kane_ is not above criticism but it would be unthankful to seek to analyse weaknesses in a film which offers such a full measure of merit and brilliance.  
+**_Monthly Film Bulletin_, December 1941**  
 
-**CITIZEN KANE**
-_Director:_ Orson Welles
-_©/Production Company:_ RKO Radio Pictures
-_Production Company:_ Mercury Productions
-_Producer:_ Orson Welles
-_Screenplay:_ Herman J. Mankiewicz, Orson Welles
-_Director of Photography:_ Gregg Toland
-_Special Effects:_ Vernon L. Walker
-_Editor:_ Robert Wise
-_Art Director:_ Van Nest Polglase
-_Associate Art Director:_ Perry Ferguson
-_Costumes:_ Edward Stevenson
-_Music/Music Conductor:_ Bernard Herrmann
-_[Sound] Recorders:_ Bailey Fesler, James G. Stewart
-_uncredited:_
-_Associate Producer:_ Richard Baer; _Editorial Supervisor:_ John Houseman; _Production Assistants:_ William Alland, Richard Wilson; _Assistant Directors:_ Edward Donahoe, Fred A. Fleck; _Continuity:_ Amalia Kent; _Camera Operator:_ Bert Shipman; _Assistant Camera:_ Eddie Garvin; _Camera for Early Make-up/ Wardrobe Tests:_ Russell Metty; _Retakes/ Additional Shooting:_ Harry J. Wild; _Grip:_ Ralph Hoge; _Gaffer:_ William J. McClellan; _Stills:_ Alexander Kahle; _Matte Artist:_ Mario Larrinaga; _Effects Camera:_ Russell A. Cully; _Montage Effects:_ Douglas Travers; _Assistant Editor:_ Mark Robson; _Assistant Art Director:_ Hilyard Brown; _Set Decorator:_ Darrell Silvera; _Assistant Set Decorator:_ Al Fields; _Principal Sketch Artist:_ Charles Ohmann; _Sketches/Graphics:_ Al Abbott, Claude Gillingwater Jr, Albert Pyke, Maurice Zuberano; _Property Manager:_ Charles Sayers; _Newspaper Props:_ Harry Reitz; _Wardrobe:_ Earl Leas, Margaret Van Horn; _Make-up:_ Maurice Seiderman; _Assistant Make-up:_ Layne Britton; _Make-up Department Head:_ Mel Berns; _Optical Printing:_ Linwood G. Dunn; _‘Charlie Kane’ Lyrics:_ Herman Ruby; _Dance Choreography:_ Arthur Appel; _Sound Department Head:_ John Aalberg; _Boom Operator:_ Jimmy Thompson; _Sound Effects:_ Harry Essman; _Publicity for Mercury Theatre:_ Herbert Drake; _General Press Representative:_ Barret McCormick
+**CITIZEN KANE**  
+_Director:_ Orson Welles  
+_©/Production Company:_ RKO Radio Pictures  
+_Production Company:_ Mercury Productions  
+_Producer:_ Orson Welles  
+_Screenplay:_ Herman J. Mankiewicz, Orson Welles  
+_Director of Photography:_ Gregg Toland  
+_Special Effects:_ Vernon L. Walker  
+_Editor:_ Robert Wise  
+_Art Director:_ Van Nest Polglase  
+_Associate Art Director:_ Perry Ferguson  
+_Costumes:_ Edward Stevenson  
+_Music/Music Conductor:_ Bernard Herrmann  
+_[Sound] Recorders:_ Bailey Fesler, James G. Stewart  
+_uncredited:_  
+_Associate Producer:_ Richard Baer; _Editorial Supervisor:_ John Houseman; _Production Assistants:_ William Alland, Richard Wilson; _Assistant Directors:_ Edward Donahoe, Fred A. Fleck; _Continuity:_ Amalia Kent; _Camera Operator:_ Bert Shipman; _Assistant Camera:_ Eddie Garvin; _Camera for Early Make-up/ Wardrobe Tests:_ Russell Metty; _Retakes/ Additional Shooting:_ Harry J. Wild; _Grip:_ Ralph Hoge; _Gaffer:_ William J. McClellan; _Stills:_ Alexander Kahle; _Matte Artist:_ Mario Larrinaga; _Effects Camera:_ Russell A. Cully; _Montage Effects:_ Douglas Travers; _Assistant Editor:_ Mark Robson; _Assistant Art Director:_ Hilyard Brown; _Set Decorator:_ Darrell Silvera; _Assistant Set Decorator:_ Al Fields; _Principal Sketch Artist:_ Charles Ohmann; _Sketches/Graphics:_ Al Abbott, Claude Gillingwater Jr, Albert Pyke, Maurice Zuberano; _Property Manager:_ Charles Sayers; _Newspaper Props:_ Harry Reitz; _Wardrobe:_ Earl Leas, Margaret Van Horn; _Make-up:_ Maurice Seiderman; _Assistant Make-up:_ Layne Britton; _Make-up Department Head:_ Mel Berns; _Optical Printing:_ Linwood G. Dunn; _‘Charlie Kane’ Lyrics:_ Herman Ruby; _Dance Choreography:_ Arthur Appel; _Sound Department Head:_ John Aalberg; _Boom Operator:_ Jimmy Thompson; _Sound Effects:_ Harry Essman; _Publicity for Mercury Theatre:_ Herbert Drake; _General Press Representative:_ Barret McCormick  
 
-**Cast**
-Joseph Cotten _(Jedediah Leland/newsreel journalist)_
-Dorothy Comingore _(Susan Alexander Kane)_
-Agnes Moorehead _(Mary Kane)_
-Ruth Warrick _(Emily Norton Kane)_
-Ray Collins _(James ‘Boss’ W. Gettys)_
-Erskine Sanford _(Herbert Carter/newsreel journalist)_
-Everett Sloane _(Mr Bernstein)_
-William Alland _(Jerry Thompson/narrator)_
-Paul Stewart _(Raymond)_
-George Coulouris _(Walter Parks Thatcher)_
-Fortunio Bonanova _(Matiste)_
-Gus Schilling _(John, El Rancho headwaiter/ newsreel journalist)_
-Philip Van Zandt _(Mr Rawlston)_
-Georgia Backus _(Bertha Anderson)_
-Harry Shannon _(James Kane)_
-Sonny Bupp _(Kane III)_
-Buddy Swan _(Kane, aged 8)_
-Orson Welles _(Charles Foster Kane)_
-_uncredited:_
-Al Eben _(Solly)_
-Ellen Lowe _(Miss Townsend)_
-Charles Bennett _(entertainer)_
-Irving Mitchell _(Doctor Corey)_
-Joe Manz _(Jennings)_
+**Cast**  
+Joseph Cotten _(Jedediah Leland/newsreel journalist)_  
+Dorothy Comingore _(Susan Alexander Kane)_  
+Agnes Moorehead _(Mary Kane)_  
+Ruth Warrick _(Emily Norton Kane)_  
+Ray Collins _(James ‘Boss’ W. Gettys)_  
+Erskine Sanford _(Herbert Carter/newsreel journalist)_  
+Everett Sloane _(Mr Bernstein)_  
+William Alland _(Jerry Thompson/narrator)_  
+Paul Stewart _(Raymond)_  
+George Coulouris _(Walter Parks Thatcher)_  
+Fortunio Bonanova _(Matiste)_  
+Gus Schilling _(John, El Rancho headwaiter/ newsreel journalist)_  
+Philip Van Zandt _(Mr Rawlston)_  
+Georgia Backus _(Bertha Anderson)_  
+Harry Shannon _(James Kane)_  
+Sonny Bupp _(Kane III)_  
+Buddy Swan _(Kane, aged 8)_  
+Orson Welles _(Charles Foster Kane)_  
+_uncredited:_  
+Al Eben _(Solly)_  
+Ellen Lowe _(Miss Townsend)_  
+Charles Bennett _(entertainer)_  
+Irving Mitchell _(Doctor Corey)_  
+Joe Manz _(Jennings)_  
 Alan Ladd, Harriet Brandon, Jack Santoro, Louise Currie, Eddie Coke, Walter Sande, Arthur O’Connell, Richard Wilson, Katherine Trosper, Milton Kibbee _(reporters)_
 Bruce Sidney _(newsman)_
 Lew Harvey _(newspaper man)_
@@ -112,5 +112,5 @@ Jean Forward _(Dorothy Comingore’s singing voice)_
 USA 1941©
 119 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODMyNzc1MCwtNzczMTY2NjIzXX0=
+eyJoaXN0b3J5IjpbLTEzMzI2NjQxMjIsLTc3MzE2NjYyM119
 -->
