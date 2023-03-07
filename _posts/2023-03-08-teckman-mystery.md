@@ -47,11 +47,9 @@ _We Joined the Navy_ (1962). ‘A way of taking the mickey out of pomposity, in 
 _The King’s Breakfast_ (1963). 28 mins, colour, dramatisation in dance and mime of A. A. Milne’s poem. Designed by Ronald Searle, made for the Butter Board.  ‘When this film was made, it was thought to be before its time. It seems now that audiences have become more sophisticated and able to appreciate this type of treatment’ (James Archibald, the film’s producer, writing on the film’s release  in 1968).
 
 **Pam Cook and Sylvia Paskin, ‘The Director Left No Card – Wendy Toye’, _Monthly Film Bulletin_, September 1986**
+<br><br>
 
-<![endif]-->
-
-**THE STRANGER LEFT NO CARD**
-
+**THE STRANGER LEFT NO CARD**  
 _Director_: Wendy Toye  
 _Production Company_: Meteor Films  
 _Producer_: George K. Arthur  
@@ -65,18 +63,17 @@ _Music Director_: Muir Mathieson
 _Orchestrations_: Doreen Carwithen  
 _Orchestrated from a suite by_: Hugo Alfven
 
-_Cast:_Alan Badel _(The Stranger)_  
+**Cast**  
+Alan Badel _(The Stranger)_  
 Cameron Hall _(Mr Latham)_  
 Geoffrey Bayldon _(clerk)_  
 Eileen Way _(secretary)_  
 Jacquie Wallis
 
-UK 1952
-
+UK 1952  
 23 mins
 
-**THE TECKMAN MYSTERY**
-
+**THE TECKMAN MYSTERY**  
 _Directed by_: Wendy Toye  
 ©: Corona Films Limited  
 _Production Company_: Corona Film  
@@ -84,8 +81,7 @@ _Presented by_: London Films
 _Distributed by_: British Lion Film Corporation Ltd  
 _Produced by_: Josef Somlo  
 _Production Manager_: John Palmer  
-_Assistant Directors_: Adrian Pryce-Jones,  
-Peter Maxwell  
+_Assistant Directors_: Adrian Pryce-Jones,  Peter Maxwell  
 _Continuity_: Shirley Barnes  
 _Screenplay by_: Francis Durbridge, James Matthews  
 _Original Story by [TV Serial]_: Francis Durbridge  
@@ -107,8 +103,7 @@ _Sound Supervisor_: John Cox
 _Recording [System]_: Western Electric Recording  
 _Made at_: Shepperton Studios
 
-_Cast:_
-
+**Cast**  
 Margaret Leighton _(Helen Teckman)_  
 John Justin _(Philip Chance)_  
 Roland Culver _(Major Harris)_  
@@ -116,8 +111,7 @@ Michael Medwin _(Martin Teckman)_
 Duncan Lamont _(Inspector Hilton)_  
 Raymond Huntley _(Maurice Miller, publisher)_  
 Meier Tzelniker _(‘John Rice’, ‘Mr Rigby’)_  
-George Coulouris_  
-(Andrew Garvin [spelt Gavin on end credits])_  
+George Coulouris _(Andrew Garvin [spelt Gavin on end credits])_  
 Jane Wenham _(Ruth Wade)_  
 Harry Locke _(Leonard, Chance’s manservant)_  
 Frances Rowe _(Eileen Miller)_  
@@ -131,18 +125,17 @@ Peter Taylor _(Leroy)_
 Ben Williams _(1st beefeater)_  
 Frank Webster _(2nd beefeater)_  
 Peter Augustine _(man with pipe)_  
-Maurice Lane_  
-(G.P.O. messenger delivering telegram)_  
+Maurice Lane _(G.P.O. messenger delivering telegram)_  
 Mollie Palmer _(air hostess)_  
 Bruce Beeby _(Wallace)_  
 Gordon Morrison _(Boris)_  
 Barbara Murray _(woman on plane at end)_ *
 
-UK 1954©
-
+UK 1954©  
 90 mins
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1MDA3MjQ5XX0=
+eyJoaXN0b3J5IjpbNjEyMTAyMTM2XX0=
 -->
