@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Beau travail
+published: true
+date: 2023-03-08
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>7=']
+tags: [Drama]
+metadata: 'France 1998, 93 mins<br> Director: Claire Denis'
+pdf: '2023-03-08-beau-travail.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -73,5 +83,5 @@ Marta Tafesse Kassa _(young woman)_
 France 1998©  
 93 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwMjc1MTc0XX0=
+eyJoaXN0b3J5IjpbLTE1MTY1NzAwMzRdfQ==
 -->
