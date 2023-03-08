@@ -11,7 +11,7 @@ But feeling unmoored from one’s purpose – feeling like a foreigner to your o
 Denis’s great gift is her ability to evoke emotion with gesture and juxtaposition. In the Djibouti desert, water shimmers and ripples, naked shoulders perspire and black mosquito nets recall sheer lingerie. In a Claire Denis film, dialogue is sparse, but images are charged with meaning. ‘Making films, for me, is to get rid of explanation,’ she told the _Guardian_ back in 2000.
 
 The final scene is pure release: a wordless explanation after 90 minutes of tension. Visual references travel through quotations in other works and, in recent times, through the internet. Films are portioned up and divorced from their original contexts, re-appropriated and shared as memes. I wonder if the renewed popularity of _Beau travail_ in this decade’s Greatest Films poll is a result of its increased visibility among a younger generation, many of whom have likely encountered, or at least revisited, its euphoric dancefloor-set conclusion via their computers.  
-**Simran Hans, bfi.org.uk**
+**Simran Hans, bfi.org.uk**  
 
 Directed by Claire Denis, and scripted by Denis and her regular writing partner Jean-Pol Fargeau around a loose riff on Herman Melville’s novella _Billy Budd_, _Beau travail_ is set in a remote coastal outpost in the former French colony of Djibouti, in the Horn of Africa. Here a battalion of Foreign Legionnaires spend their days enacting gruelling training regimes on desert terrain, and their evenings circling girls at the local nightclub. Commander Bruno Forestier (Michel Subor) is admired by his men; less so is his prickly, solitary second-in-command Sergeant Galoup (Denis Lavant). Galoup is more interested in being ‘the perfect legionnaire’ than in being popular – at least until the arrival of sweet-natured new recruit Gilles Sentain (Grégoire Colin).
 
@@ -29,51 +29,49 @@ A further significant tendency of 1990s cinema that’s identifiable in the make
 
 Whatever else is implied by the exhilarating and befuddling final sequence, in which Galoup dances alone in a mirrored nightclub to Corona’s ‘Rhythm of the Night’, it certainly points at a final bid for personal freedom – if one that’s ironically characterised by a cheesy club anthem and a mannered, self-regarding routine. Perhaps Galoup is dead. Perhaps, in imagining himself back at the nightclub in Djibouti, he has found release in recognising his own physical grace, instead of obsessing over that of Sentain: freedom through narcissism. Or perhaps he’s imagining an out gay life, in the only terms that his limited life experience provides.
 
-At its close, _Beau travail_ is still inviting us to guess – to feel rather than learn the rhythms of its storytelling. It’s this audacious looseness, this elegant unfixability, that keeps Denis’s ‘beautiful work’ so fresh – and asserts it as one of cinema’s most compelling and original meditations on the need for, and simultaneous resistance to, intimacy.
+At its close, _Beau travail_ is still inviting us to guess – to feel rather than learn the rhythms of its storytelling. It’s this audacious looseness, this elegant unfixability, that keeps Denis’s ‘beautiful work’ so fresh – and asserts it as one of cinema’s most compelling and original meditations on the need for, and simultaneous resistance to, intimacy.  
+**Hannah McGill, _Sight & Sound_, May 2012**  
 
-**Hannah McGill, _Sight & Sound_, May 2012**
+**BEAU TRAVAIL**  
+_Director:_ Claire Denis  
+©/_A co-production of_: La Sept ARTE, Tanaïs Com, SM Films  
+_With the participation of:_ CNC - Centre national de la cinématographie  
+_Presented by:_ La Sept ARTE, Unités de Programmes Fiction, Pierre Chevalier  
+_Producers:_ Jérôme Minet, Patrick Grandperret  
+_Unit Production Manager:_ Salem Brahimi  
+_Unit Manager (Djibouti):_ Ali Mohamed Hamadou  
+_Unit Manager (Marseilles):_ Bruno Mérieux  
+_Production Manager:_ Éric Zaouali  
+_Production Co-ordinator:_ Danielle Vaugon  
+_Collaboration/Choreography:_ Bernardo Montet  
+_Assistant Directors:_ Jean-Paul Allègre, Moussah Hassan Moussah, Flore Rougier, Murielle Iris  
+_Actors Research:_ Nicolas Lublin  
+_Screenplay:_ Jean-Pol Fargeau, Claire Denis  
+_Director of Photography:_ Agnès Godard  
+_Underwater Photographer:_ Patrick Grandperret  
+_Editor:_ Nelly Quettier  
+_Art Director:_ Arnaud de Moléron  
+_Costumes:_ Judy Shrewsbury  
+_Make-up:_ Danièle Vuarin  
+_Music:_ Eran Tzur  
+_Sound:_ Jean-Paul Mugel, Dominique Gaborieau  
+_Sound Editor:_ Christophe Winding  
 
-**BEAU TRAVAIL**
-_Director:_ Claire Denis
-©/_A co-production of_: La Sept ARTE, Tanaïs Com, SM Films
-_With the participation of:_ CNC - Centre national de la cinématographie
-_Presented by:_ La Sept ARTE, Unités de Programmes Fiction,
-Pierre Chevalier
-_Producers:_ Jérôme Minet, Patrick Grandperret
-_Unit Production Manager:_ Salem Brahimi
-_Unit Manager (Djibouti):_ Ali Mohamed Hamadou
-_Unit Manager (Marseilles):_ Bruno Mérieux
-_Production Manager:_ Éric Zaouali
-_Production Co-ordinator:_ Danielle Vaugon
-_Collaboration/Choreography:_ Bernardo Montet
-_Assistant Directors:_ Jean-Paul Allègre, Moussah Hassan Moussah, Flore Rougier, Murielle Iris
-_Actors Research:_ Nicolas Lublin
-_Screenplay:_ Jean-Pol Fargeau, Claire Denis
-_Director of Photography:_ Agnès Godard
-_Underwater Photographer:_ Patrick Grandperret
-_Editor:_ Nelly Quettier
-_Art Director:_ Arnaud de Moléron
-_Costumes:_ Judy Shrewsbury
-_Make-up:_ Danièle Vuarin
-_Music:_ Eran Tzur
-_Sound:_ Jean-Paul Mugel, Dominique Gaborieau
-_Sound Editor:_ Christophe Winding
-
-**Cast**
-Denis Lavant _(Sergeant Galoup)_
-Michel Subor _(Commandant Bruno Forestier)_
-Grégoire Colin _(Gilles Sentain)_
+**Cast**  
+Denis Lavant _(Sergeant Galoup)_  
+Michel Subor _(Commandant Bruno Forestier)_  
+Grégoire Colin _(Gilles Sentain)_  
 Richard Courcet, Nicolas Duvauchelle,
 Adiatou Massidi, Mickael Rakovski,
 Dan Herzberg, Giuseppe Molino,
 Gianfranco Poddighe, Marc Veh,
 Thong Duy Nguyen, Jean-Yves Vivet,
 Bernardo Montet, Dimitri Tsiapkinis,
-Djamel Zemali, Abdelkader Bouti _(the platoon)_
-Marta Tafesse Kassa _(young woman)_
+Djamel Zemali, Abdelkader Bouti _(the platoon)_  
+Marta Tafesse Kassa _(young woman)_  
 
-France 1998©
-93 mins
+France 1998©  
+93 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQzOTk5NDhdfQ==
+eyJoaXN0b3J5IjpbNDEwMjc1MTc0XX0=
 -->
