@@ -42,36 +42,28 @@ A rarely seen profile of Lacey, a ‘collector of the past’, produced for the 
 
 **MORSE CODE MELODY**<br>
 1963. Dir Bob Godfrey. 3min.<br>
-
 The Alberts and Bruce Lacey, all dressed in their stiff Edwardian refinery, dance and play strange unusual instruments in this manic, animated short music film.
 
 **THE ALBERTS’ CHANNEL TOO**<br>
-
 BBC Two 1964. Dir Dennis Main Wilson. 30min.<br>
-
 The crazy launch to BBC2 starring The Alberts alongside Ivor Cutler, commissioned in the wake of their rule-changing love comedy theatre show,  
 _An Evening of British Rubbish_. It’s Rubbish, but by Jingo – it’s British Rubbish!
 
 **PARK DRIVE: MARTIANS**<br>
-
 1965. Dir Bob Godfrey. 5min.<br>
-
 Aliens invade in pursuit of Park Drive cigarettes – ‘we like them!’
 
 **OUTSIDE IN**<br>
-
 1973. Dir Dennis Lowe and Jonathan Lewis.  (6min extract.)<br>
-
 Bruce Lacey, Jill Bruce (now Jill Smith) and John Lacey create a psychedelic light and abstract sound inflatable environment for children to romp through, evoking science fiction tropes and celebrating the anarchic, primal energies of play. Extracted from a larger documentary about experimental, participatory art.
 
 **DOUBLE EXPOSURE**<br>
-
 1975. Dir Jill Bruce (now Smith) and Bruce Lacey. 3min.<br>
-
 A highly unusual, visionary film about sexual intimacy and creative collaboration.
+<br>
 
 Total running time: 90 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTYxMDk1NzJdfQ==
+eyJoaXN0b3J5IjpbLTE0ODM0NDk1NDZdfQ==
 -->
