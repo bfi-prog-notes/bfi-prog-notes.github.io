@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Bruce Lacey, The Alberts and more
+published: true
+date: 2023-03-09
+readtime: true
+categories: ['IVOR CUTLER AND THE ECCENTRIC MISCELLANY']
+tags: [Shorts]
+metadata: 
+pdf: '2023-03-09-bruce-lacey.pdf'
+---
 
 _Introduced by William Fowler, BFI Archive Curator_
 
@@ -8,8 +18,7 @@ Lacey himself was no namedropper – he got a little upset with me when I said t
 
 Rituals and repetition were important, and they became starting points for several films and art actions. He made his name performing with the Alberts and presenting _An Evening of British Rubbish_ at Peter Cook’s Establishment Club, and later moved into an art career making strange automata and robots, exhibiting at new, hip London art galleries.
 
-Ritual itself gradually took centre stage as he combined performance art with filmmaking and in 1973 he highlighted the routine actions that he, his wife and family went through every day in the 16mm experimental documentary  
-_The Lacey Rituals_. The proto-video diary was intended in part to instruct an imaginary Martian audience how to do mundane domestic chores. It was a typical act of wilful Lacey absurdity and defiance to turn what might have been a traditional arts documentary – about him! – into a film about making toast, going to the toilet and having a bath. He also included all the off-cuts and mistakes into the film, plus the clapperboards, turning it furthermore into a document of its own making, and something of an unexpected masterpiece.
+Ritual itself gradually took centre stage as he combined performance art with filmmaking and in 1973 he highlighted the routine actions that he, his wife and family went through every day in the 16mm experimental documentary  _The Lacey Rituals_. The proto-video diary was intended in part to instruct an imaginary Martian audience how to do mundane domestic chores. It was a typical act of wilful Lacey absurdity and defiance to turn what might have been a traditional arts documentary – about him! – into a film about making toast, going to the toilet and having a bath. He also included all the off-cuts and mistakes into the film, plus the clapperboards, turning it furthermore into a document of its own making, and something of an unexpected masterpiece.
 
 Lacey would demonstrate how he went to the toilet when he went on lecture tours and showed films at art schools around the country, an important though not often remarked upon part of his practice. He profoundly disliked school and appeared to see his moments there as interventions in the process, trying to de-programme students (he once encouraged a painter to go rock climbing). The Lacey family also made interactive sci-fi happenings (_Journey Through a Dark Hole to a Coloured Planet_) and an adventure playground  (_The Incredible Whatsit Machine_) in the 1970s for children to cavort and perform in as a kind of learning alternative.
 
@@ -23,8 +32,7 @@ Lacey was one of those artists and filmmakers who seemed to live about six lives
 
 Experimental film has a long and vibrant history in the UK, with a powerful sense of community and tradition attached to it. Since Lacey died in February 2016, he still seems to stand apart from that scene, unclaimed. He has occasionally featured in historical surveys, but not usually in the history books. While he was always a refusenik and fiercely independent, resisting any notion of being influenced by another artist or filmmaker, he was also perhaps more allied to music hall and the idea of the show and showmanship, reinventing it in multiple different contexts. His desire to do therapy on himself through the processes of performance and art making does link up with the leftfield activities of Andrew Kötting.
 
-I visited him many times when the BFI restored several of his 16mm films and released a DVD, and I thought he was brilliant. To be more evocative, Nick Abrahams, co-director of _The Bruce Lacey Experience_, said he was like Dr Dee ‘re-imagined by the Goons’. But whether Lacey would like that, I’m not sure, what with its comparison to other artists. He is a missed figure and was and is a powerful advert for self-exploration, creative community action and  
-visionary journeys.  
+I visited him many times when the BFI restored several of his 16mm films and released a DVD, and I thought he was brilliant. To be more evocative, Nick Abrahams, co-director of _The Bruce Lacey Experience_, said he was like Dr Dee ‘re-imagined by the Goons’. But whether Lacey would like that, I’m not sure, what with its comparison to other artists. He is a missed figure and was and is a powerful advert for self-exploration, creative community action and  visionary journeys.  
 **William Fowler, _Sight and Sound_, bfi.org.uk**
 <br><br>
 
@@ -64,6 +72,41 @@ A highly unusual, visionary film about sexual intimacy and creative collaboratio
 
 Total running time: 90 mins<br>
 <br>
+
+**IVOR CUTLER AND THE ECCENTRIC MISCELLANY**<br>
+**Ivor Cutler and Friends + panel discussion**<br>
+Sat 4 Mar 16:10<br>
+**Vivian Stanshall + intro by Lucian Randall,  Vivian Stanshall biographer**<br>
+Tue 7 Mar 18:15<br>
+**Bruce Lacey, The Alberts and more + intro by William Fowler, BFI Archive Curator**<br>
+Thu 9 Mar 20:45<br>
+**Margaret Rutherford and Friends + intro by Claire Mortimer, author of _Spinsters, Widows and Chars_**<br>
+Wed 15 Mar 18:15<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0ODM0NDk1NDZdfQ==
 -->
