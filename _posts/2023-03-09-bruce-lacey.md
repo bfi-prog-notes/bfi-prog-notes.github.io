@@ -37,36 +37,36 @@ I visited him many times when the BFI restored several of his 16mm films and rel
 <br><br>
 
 **THE BATTLE OF NEW ORLEANS**<br>
-UK 1960. Dir Bob Godfrey. 3min.<br>
+UK 1960, Dir Bob Godfrey. 3min.<br>
 A three-minute nugget of subversive joy made for ITV pop show _Cool for Cats_. Lonnie Donegan’s smash-hit skiffle tune gets the images it never knew it deserved.
 
 **EVERYBODY’S NOBODY**<br>
-1960. Dir Bruce Lacey and John Sewell. 20min.<br>
+1960, Dir Bruce Lacey and John Sewell. 20min.<br>
 Darkly satirical demonstration film for the Mobile Absurd Non-entity, aka MAN, an energised, pressurised, moisturised moron.
 
 **MONITOR: THE PRESERVATION MAN**<br>
-BBC 1962. Dir Ken Russell. 16min.<br>
+BBC 1962, Dir Ken Russell. 16min.<br>
 A rarely seen profile of Lacey, a ‘collector of the past’, produced for the celebrated arts magazine and photographed with Russell’s typically, beautifully astute eye.
 
 **MORSE CODE MELODY**<br>
-1963. Dir Bob Godfrey. 3min.<br>
+1963, Dir Bob Godfrey. 3min.<br>
 The Alberts and Bruce Lacey, all dressed in their stiff Edwardian refinery, dance and play strange unusual instruments in this manic, animated short music film.
 
 **THE ALBERTS’ CHANNEL TOO**<br>
-BBC Two 1964. Dir Dennis Main Wilson. 30min.<br>
+BBC Two 1964, Dir Dennis Main Wilson. 30min.<br>
 The crazy launch to BBC2 starring The Alberts alongside Ivor Cutler, commissioned in the wake of their rule-changing love comedy theatre show,  
 _An Evening of British Rubbish_. It’s Rubbish, but by Jingo – it’s British Rubbish!
 
 **PARK DRIVE: MARTIANS**<br>
-1965. Dir Bob Godfrey. 5min.<br>
+1965, Dir Bob Godfrey. 5min.<br>
 Aliens invade in pursuit of Park Drive cigarettes – ‘we like them!’
 
 **OUTSIDE IN**<br>
-1973. Dir Dennis Lowe and Jonathan Lewis.  (6min extract.)<br>
+1973, Dir Dennis Lowe and Jonathan Lewis.  (6min extract.)<br>
 Bruce Lacey, Jill Bruce (now Jill Smith) and John Lacey create a psychedelic light and abstract sound inflatable environment for children to romp through, evoking science fiction tropes and celebrating the anarchic, primal energies of play. Extracted from a larger documentary about experimental, participatory art.
 
 **DOUBLE EXPOSURE**<br>
-1975. Dir Jill Bruce (now Smith) and Bruce Lacey. 3min.<br>
+1975, Dir Jill Bruce (now Smith) and Bruce Lacey. 3min.<br>
 A highly unusual, visionary film about sexual intimacy and creative collaboration.
 <br>
 
