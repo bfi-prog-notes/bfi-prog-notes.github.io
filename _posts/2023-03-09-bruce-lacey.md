@@ -24,63 +24,54 @@ Lacey was one of those artists and filmmakers who seemed to live about six lives
 Experimental film has a long and vibrant history in the UK, with a powerful sense of community and tradition attached to it. Since Lacey died in February 2016, he still seems to stand apart from that scene, unclaimed. He has occasionally featured in historical surveys, but not usually in the history books. While he was always a refusenik and fiercely independent, resisting any notion of being influenced by another artist or filmmaker, he was also perhaps more allied to music hall and the idea of the show and showmanship, reinventing it in multiple different contexts. His desire to do therapy on himself through the processes of performance and art making does link up with the leftfield activities of Andrew Kötting.
 
 I visited him many times when the BFI restored several of his 16mm films and released a DVD, and I thought he was brilliant. To be more evocative, Nick Abrahams, co-director of _The Bruce Lacey Experience_, said he was like Dr Dee ‘re-imagined by the Goons’. But whether Lacey would like that, I’m not sure, what with its comparison to other artists. He is a missed figure and was and is a powerful advert for self-exploration, creative community action and  
-visionary journeys.
+visionary journeys.  
+**William Fowler, _Sight and Sound_, bfi.org.uk**
+<br><br>
 
-William Fowler, _Sight and Sound_, bfi.org.uk
-
-<![endif]-->
-
-**THE BATTLE OF NEW ORLEANS**
-
-UK 1960. Dir Bob Godfrey. 3min.
-
+**THE BATTLE OF NEW ORLEANS**<br>
+UK 1960. Dir Bob Godfrey. 3min.<br>
 A three-minute nugget of subversive joy made for ITV pop show _Cool for Cats_. Lonnie Donegan’s smash-hit skiffle tune gets the images it never knew it deserved.
 
-**EVERYBODY’S NOBODY**
-
-1960. Dir Bruce Lacey and John Sewell. 20min.
-
+**EVERYBODY’S NOBODY**<br>
+1960. Dir Bruce Lacey and John Sewell. 20min.<br>
 Darkly satirical demonstration film for the Mobile Absurd Non-entity, aka MAN, an energised, pressurised, moisturised moron.
 
-**MONITOR: THE PRESERVATION MAN**
-
-BBC 1962. Dir Ken Russell. 16min.
-
+**MONITOR: THE PRESERVATION MAN**<br>
+BBC 1962. Dir Ken Russell. 16min.<br>
 A rarely seen profile of Lacey, a ‘collector of the past’, produced for the celebrated arts magazine and photographed with Russell’s typically, beautifully astute eye.
 
-**MORSE CODE MELODY**
-
-1963. Dir Bob Godfrey. 3min.
+**MORSE CODE MELODY**<br>
+1963. Dir Bob Godfrey. 3min.<br>
 
 The Alberts and Bruce Lacey, all dressed in their stiff Edwardian refinery, dance and play strange unusual instruments in this manic, animated short music film.
 
-**THE ALBERTS’ CHANNEL TOO**
+**THE ALBERTS’ CHANNEL TOO**<br>
 
-BBC Two 1964. Dir Dennis Main Wilson. 30min.
+BBC Two 1964. Dir Dennis Main Wilson. 30min.<br>
 
 The crazy launch to BBC2 starring The Alberts alongside Ivor Cutler, commissioned in the wake of their rule-changing love comedy theatre show,  
 _An Evening of British Rubbish_. It’s Rubbish, but by Jingo – it’s British Rubbish!
 
-**PARK DRIVE: MARTIANS**
+**PARK DRIVE: MARTIANS**<br>
 
-1965. Dir Bob Godfrey. 5min.
+1965. Dir Bob Godfrey. 5min.<br>
 
 Aliens invade in pursuit of Park Drive cigarettes – ‘we like them!’
 
-**OUTSIDE IN**
+**OUTSIDE IN**<br>
 
-1973. Dir Dennis Lowe and Jonathan Lewis.  
-(6min extract.)
+1973. Dir Dennis Lowe and Jonathan Lewis.  (6min extract.)<br>
 
 Bruce Lacey, Jill Bruce (now Jill Smith) and John Lacey create a psychedelic light and abstract sound inflatable environment for children to romp through, evoking science fiction tropes and celebrating the anarchic, primal energies of play. Extracted from a larger documentary about experimental, participatory art.
 
-**DOUBLE EXPOSURE**
+**DOUBLE EXPOSURE**<br>
 
-1975. Dir Jill Bruce (now Smith) and Bruce Lacey. 3min.
+1975. Dir Jill Bruce (now Smith) and Bruce Lacey. 3min.<br>
 
 A highly unusual, visionary film about sexual intimacy and creative collaboration.
 
-Total running time: 90 mins
+Total running time: 90 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTA0NDQ4NV19
+eyJoaXN0b3J5IjpbLTIwNTYxMDk1NzJdfQ==
 -->
