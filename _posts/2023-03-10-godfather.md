@@ -7,7 +7,7 @@ readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>12=']
 tags: [Gangster, Crime, Drama]
 metadata: 'USA 1972, 175 mins<br> Director: Francis Ford Coppola'
-pdf: '2023-03-10-close-up.pdf'
+pdf: '2023-03-10-godfather.pdf'
 ---
 
 If you want a film that exemplifies and honours the impossible, arbitrary and contradictory history and nature of moviemaking, look no further. Hollywood movies are an artform and a mass entertainment, the product of a singular vision and of a ruthless industry, the work of great directors and the alchemical result of a thousand collaborations, coincidences and backs-against-the-wall snap decisions. _The Godfather_ is all of the above and more – an unimaginably dark story that begins with the hopeful sentence ‘I believe in America,’ a fat, full saga that, two years after its release, revealed itself to be merely the middle of a fatter, fuller saga, and a work the creation of which has generated its own mythic origin stories, from the director who wouldn’t compromise to the leading man nobody was sure could pull it off. It is enduring and defining art, alchemically transmuted from the pages of an OK bestseller and the imaginations of everyone involved, first among them its great co-writer and director Francis Ford Coppola. As James Caan’s Sonny Corleone says in one of the film’s most enduring scenes, ‘This is business, and this man is takin’ it very, very personal.’ So much of the most brilliant work from Hollywood emerged from the conviction that a movie could be both. Every scene of _The Godfather_ makes the case for that belief.
@@ -166,6 +166,93 @@ Pete Lemongello
 
 USA 1972©  
 175 mins  
+<br>
+
+**SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**<br>
+**Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles**<br>
+Wed 1 Mar 18:00; Thu 2 Mar 18:50; Sat 11 Mar 18:50<br>
+**Philosophical Screens: Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles**<br>
+Wed 1 Mar 21:30 Blue Room<br>
+**Daisies (Sedmikrásky) + Meshes of the Afternoon**<br>
+Wed 1 Mar 20:50; Wed 8 Mar 18:20 (+ intro)<br>
+**Au hasard Balthazar**<br>
+Thu 2 Mar 20:50; Mon 6 Mar 18:30<br>
+**Taxi Driver**<br>
+Thu 2 Mar 21:00 BFI IMAX; Fri 3 Mar 18:10; Mon 13 Mar 20:40<br>
+**La Règle du jeu (The Rules of the Game)**<br>
+Fri 3 Mar 14:30; Sat 4 Mar 13:20; Sat 11 Mar 18:05<br>
+**Persona**<br>
+Fri 3 Mar 18:30; Thu 9 Mar 21:05<br>
+**Portrait of a Lady on Fire (Portrait de la jeune fille en feu)**<br>
+Fri 3 Mar 20:30; Wed 8 Mar 20:30<br>
+**Do the Right Thing**<br>
+Fri 3 Mar 20:35; Sat 11 Mar 18:10<br>
+**Singin’ in the Rain**<br>
+Fri 3 Mar 20:40; Thu 9 Mar 18:10 (+ intro by Miles Eady, Film Writer and Curator); Tue 14 Mar 14:30<br>
+**Man With a Movie Camera (Chelovek s kino-apparatom)**<br>
+Sat 4 Mar 15:30; Sun 5 Mar 10:30 BFI IMAX; Thu 9 Mar 20:50<br>
+**Playtime**<br>
+Sat 4 Mar 17:00; Sat 11 Mar 20:30<br>
+**The Searchers**<br>
+Sat 4 Mar 17:40; Tue 7 Mar 20:35<br>
+**Seven Samurai (Shichinin no samurai)**<br>
+Sat 4 Mar 18:50; Tue 14 Mar 18:40<br>
+**Apocalypse Now: Final Cut**<br>
+Sat 4 Mar 19:40; Sun 12 Mar 20:00 BFI IMAX<br>
+**Tokyo Story (Tôkyô monogatari)**<br>
+Sat 4 Mar 20:15; Fri 10 Mar 18:00; Wed 15 Mar 14:30<br>
+**Shoah**<br>
+Sun 5 Mar 11:00; Sun 12 Mar 11:00<br>
+**Sunrise: A Song of Two Humans**<br>
+Sun 5 Mar 11:45; Mon 6 Mar 14:00; Mon 13 Mar 20:35<br>
+**The Passion of Joan of Arc (La passion de Jeanne d’Arc)**<br>
+Sun 5 Mar 14:00 (with live accompaniment); Wed 15 Mar 20:40 (with score)<br>
+**Citizen Kane**<br>
+Sun 5 Mar 16:15; Tue 7 Mar 20:30<br>
+**Cléo from 5 to 7 (Cléo de 5 à 7)**<br>
+Sun 5 Mar 17:45; Wed 8 Mar 21:00<br>
+**2001: A Space Odyssey**<br>
+Sun 5 Mar 19:00; Thu 9 Mar 18:00<br>
+**Vertigo**<br>
+Mon 6 Mar 20:30; Thu 9 Mar 14:30; Wed 15 Mar 18:10<br>
+**In the Mood for Love (Fa yeung nin wah)**<br>
+Mon 6 Mar 20:40; Fri 10 Mar 21:00; Sun 12 Mar 18:30<br>
+**Late Spring (Banshun)**<br>
+Mon 6 Mar 20:45; Tue 7 Mar 14:30; Sun 12 Mar 18:20<br>
+**The Night of the Hunter**<br>
+Tue 7 Mar 18:00; Sat 11 Mar 20:45<br>
+**Mulholland Dr.**<br>
+Tue 7 Mar 20:10; Tue 14 Mar 20:15<br>
+**Beau Travail**<br>
+Wed 8 Mar 14:30; Fri 10 Mar 20:45; Mon 13 Mar 18:20 (+ intro by Catherine Wheatley, Reader in Film Studies, King’s College London)<br>
+**Close-Up (Nema-ye Nazdik)**<br>
+Fri 10 Mar 18:30; Wed 15 Mar 20:50<br>
+**The Godfather**<br>
+Fri 10 Mar 19:00; Sun 12 Mar 18:15<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQ0MzQzNzddfQ==
+eyJoaXN0b3J5IjpbNjA0NzAyMjc4XX0=
 -->
