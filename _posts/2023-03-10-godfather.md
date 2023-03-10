@@ -22,13 +22,11 @@ Coppola gives us the inherently American story of the aspirations of the outside
 
 Coppola brings artistry to this American world of violence through several channels. He elicits performances that allow his characters realistically to span decades while effectively embodying the deterioration of respect for social convention inherent in the rise to power. And he introduces a cinematic style that intensifies his actors’ performances. Framing, the composition of individual shots, _mise en scène_ and, most notably, powerful juxtaposition confirm the place of artistry in American gangster cinema. Violence and murder are documented in a realistic style, but are at the same time made beautiful. Sonny’s death, for instance, is presented in a gritty fashion but is timed as an elegant series of shots. This type of artistry, rooted in the crime genre, confirms not only Coppola’s proficiency as an _auteur_ but his capacity for innovation.
 
-Some may suspect that I’m biased because Coppola began his career with me in 1962. But while I like and admire Francis a great deal, I’m confident I would consider the film a colossal work even if he were a stranger. I can admire _The Godfather_ from afar for its social and artistic impact, but know the reason it makes my list of favourites is because it touches me personally. As an American by birth and an independent film-maker by profession, I have a strong identification with the outsider. Beautiful, realist, revolutionary,  
-_The Godfather_ stepped outside the boundaries of the traditional in both form and story. In doing so, it eclipsed and conquered the mainstream.  
+Some may suspect that I’m biased because Coppola began his career with me in 1962. But while I like and admire Francis a great deal, I’m confident I would consider the film a colossal work even if he were a stranger. I can admire _The Godfather_ from afar for its social and artistic impact, but know the reason it makes my list of favourites is because it touches me personally. As an American by birth and an independent film-maker by profession, I have a strong identification with the outsider. Beautiful, realist, revolutionary, _The Godfather_ stepped outside the boundaries of the traditional in both form and story. In doing so, it eclipsed and conquered the mainstream.  
 **Roger Corman, _Sight and Sound_, September 2002**  
 
 **Francis Ford Coppola on ‘The Godfather’**  
-_Is it true that Paramount wanted to fire you during the making of  
-_The Godfather_?_
+_Is it true that Paramount wanted to fire you during the making of_ The Godfather _?_
 
 I was getting ‘fired’ every other week. The things they were going to fire me over were, one: wanting to cast Brando. Two: wanting to cast Pacino. Wanting to shoot in Sicily; wanting to make it in period. The very things that made the film different from any other film.
 
