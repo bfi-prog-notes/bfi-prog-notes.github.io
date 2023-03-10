@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: The Godfather
+published: true
+date: 2023-03-10
+readtime: true
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>12=']
+tags: [Gangster, Crime, Drama]
+metadata: 'USA 1972, 175 mins<br> Director: Francis Ford Coppola'
+pdf: '2023-03-10-close-up.pdf'
+---
 
 If you want a film that exemplifies and honours the impossible, arbitrary and contradictory history and nature of moviemaking, look no further. Hollywood movies are an artform and a mass entertainment, the product of a singular vision and of a ruthless industry, the work of great directors and the alchemical result of a thousand collaborations, coincidences and backs-against-the-wall snap decisions. _The Godfather_ is all of the above and more – an unimaginably dark story that begins with the hopeful sentence ‘I believe in America,’ a fat, full saga that, two years after its release, revealed itself to be merely the middle of a fatter, fuller saga, and a work the creation of which has generated its own mythic origin stories, from the director who wouldn’t compromise to the leading man nobody was sure could pull it off. It is enduring and defining art, alchemically transmuted from the pages of an OK bestseller and the imaginations of everyone involved, first among them its great co-writer and director Francis Ford Coppola. As James Caan’s Sonny Corleone says in one of the film’s most enduring scenes, ‘This is business, and this man is takin’ it very, very personal.’ So much of the most brilliant work from Hollywood emerged from the conviction that a movie could be both. Every scene of _The Godfather_ makes the case for that belief.
 
@@ -159,5 +167,5 @@ Pete Lemongello
 USA 1972©  
 175 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTA3NTU2NzhdfQ==
+eyJoaXN0b3J5IjpbLTE3ODQ0MzQzNzddfQ==
 -->
