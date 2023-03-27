@@ -18,8 +18,8 @@ The perfect film for the run up to London Games Week, this affectionate document
 
 The post screening discussion will be hosted by Benjamin Brown.
 
-Screening in partnership with Citizen Autistic –  
-The London Autism Film Club.  
+Screening in partnership with Citizen Autistic  
+The London Autism Film Club  
 
 **CANNON ARM AND THE ARCADE QUEST**  
 **(KIM KANONARM OG REJSEN MOD VERDENSREKORDEN)**  
