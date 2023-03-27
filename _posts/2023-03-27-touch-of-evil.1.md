@@ -64,62 +64,62 @@ Valentin De Vargas _(‘Pancho’)_
 Mort Mills _(Al Schwartz)_  
 Victor Millan _(Manolo Sanchez)_  
 Lalo Rios _(Risto)_  
-Michael Sargent _(Pretty Boy)_ 
-Phil Harvey _(Blaine)_
-Joi Lansing _(Zita, blonde in car)_
-Harry Shannon _(Chief Gould)_
-Marlene Dietrich _(Tanya)_
-Zsa Zsa Gabor _(stripclub owner)_
-_uncredited:_
-Dan White _(customs officer)_
-Joseph Cotten _(police surgeon)_
-John Dierkes _(man at the accident)_
-Joe Basulto _(young delinquent)_
-Gus Schilling _(Eddie Farnum)_
-Billy House _(Linnekar Construction foreman)_
-Rusty Wescoatt _(Casey)_
-Wayne Taylor, Ken Miller, Raymond Rodriguez _(gang members)_
-Mercedes McCambridge _(gang leader)_
-Arlene McQuade _(Ginnie)_
-Yolanda Bojorquez _(Bobbie)_
-Jennie Dias _(Jackie)_
-Eleanor Dorado _(Lia)_
-William Tannen _(lawyer)_
-Domenick Delgarde _(lackey)_
+Michael Sargent _(Pretty Boy)_  
+Phil Harvey _(Blaine)_  
+Joi Lansing _(Zita, blonde in car)_  
+Harry Shannon _(Chief Gould)_  
+Marlene Dietrich _(Tanya)_  
+Zsa Zsa Gabor _(stripclub owner)_  
+_uncredited:_  
+Dan White _(customs officer)_  
+Joseph Cotten _(police surgeon)_  
+John Dierkes _(man at the accident)_  
+Joe Basulto _(young delinquent)_  
+Gus Schilling _(Eddie Farnum)_  
+Billy House _(Linnekar Construction foreman)_  
+Rusty Wescoatt _(Casey)_  
+Wayne Taylor, Ken Miller, Raymond Rodriguez _(gang members)_  
+Mercedes McCambridge _(gang leader)_  
+Arlene McQuade _(Ginnie)_  
+Yolanda Bojorquez _(Bobbie)_  
+Jennie Dias _(Jackie)_  
+Eleanor Dorado _(Lia)_  
+William Tannen _(lawyer)_  
+Domenick Delgarde _(lackey)_  
 
-USA 1958©
-110 mins
+USA 1958©  
+110 mins  
 
-**BIG SCREEN CLASSICS**
-**Touch of Evil**
-Mon 27 Mar 20:45; Tue 4 Apr 14:30; Sun 9 Apr 18:30; Fri 28 Apr 20:45
-**Wild Strawberries (Smultronstället)**
-Tue 28 Mar 20:50; Wed 12 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 14 Apr 20:50; Mon 24 Apr 14:30
-**To Sleep with Anger + Borom Sarret (The Wagoner)**
-Wed 29 Mar 18:10 (+ intro); Mon 10 Apr 12:45; Wed 12 Apr 18:00
-**Rio Bravo**
-Thu 30 Mar 20:20; Sun 9 Apr 12:50; Fri 21 Apr 20:20
-**Aguirre, Wrath of God (Aguirre, der Zorn Gottes)**
-Fri 31 Mar 21:00; Thu 13 Apr 21:00; Thu 20 Apr 18:15
-**Last year in Marienbad (L’Année dernière à Marienbad)**
-Sat 1 Apr 12:50; Mon 3 Apr 20:30; Sat 8 Apr 18:20; Tue 18 Apr 20:45
-**La Grande Illusion**
-Sat 1 Apr 13:00; Wed 12 Apr 20:40; Sat 15 Apr 18:00; Fri 21 Apr 18:15
-**The Godfather Part II**
-Sat 1 Apr 16:00; Sat 22 Apr 18:40; Sun 30 Apr 16:30
-**Nashville**
-Sun 2 Apr 17:50; Sat 8 Apr 20:00; Sat 29 Apr 16:30
-**The Passenger (Professione: reporter)**
-Wed 5 Apr 18:00 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 7 Apr 20:20; Sun 16 Apr 18:15; Thu 27 Apr 18:10
-**Pickpocket**
-Thu 6 Apr 20:45; Tue 11 Apr 14:30; Mon 17 Apr 20:50; Mon 24 Apr 20:50
-**The Portrait of a Lady**
-Fri 7 Apr 14:30; Wed 19 Apr 17:50 (+ intro); Sat 29 Apr 20:15
-**Code Unknown (Code inconnu)**
-Sun 9 Apr 15:45; Wed 26 Apr 18:15
-**The Lady Eve**
-Mon 10 Apr 18:15; Sat 15 Apr 12:40; Sun 30 Apr 14:15
+**BIG SCREEN CLASSICS**  
+**Touch of Evil**  
+Mon 27 Mar 20:45; Tue 4 Apr 14:30; Sun 9 Apr 18:30; Fri 28 Apr 20:45  
+**Wild Strawberries (Smultronstället)**  
+Tue 28 Mar 20:50; Wed 12 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 14 Apr 20:50; Mon 24 Apr 14:30  
+**To Sleep with Anger + Borom Sarret (The Wagoner)**  
+Wed 29 Mar 18:10 (+ intro); Mon 10 Apr 12:45; Wed 12 Apr 18:00  
+**Rio Bravo**  
+Thu 30 Mar 20:20; Sun 9 Apr 12:50; Fri 21 Apr 20:20  
+**Aguirre, Wrath of God (Aguirre, der Zorn Gottes)**  
+Fri 31 Mar 21:00; Thu 13 Apr 21:00; Thu 20 Apr 18:15  
+**Last year in Marienbad (L’Année dernière à Marienbad)**  
+Sat 1 Apr 12:50; Mon 3 Apr 20:30; Sat 8 Apr 18:20; Tue 18 Apr 20:45  
+**La Grande Illusion**  
+Sat 1 Apr 13:00; Wed 12 Apr 20:40; Sat 15 Apr 18:00; Fri 21 Apr 18:15  
+**The Godfather Part II**  
+Sat 1 Apr 16:00; Sat 22 Apr 18:40; Sun 30 Apr 16:30  
+**Nashville**  
+Sun 2 Apr 17:50; Sat 8 Apr 20:00; Sat 29 Apr 16:30  
+**The Passenger (Professione: reporter)**  
+Wed 5 Apr 18:00 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 7 Apr 20:20; Sun 16 Apr 18:15; Thu 27 Apr 18:10  
+**Pickpocket**  
+Thu 6 Apr 20:45; Tue 11 Apr 14:30; Mon 17 Apr 20:50; Mon 24 Apr 20:50  
+**The Portrait of a Lady**  
+Fri 7 Apr 14:30; Wed 19 Apr 17:50 (+ intro); Sat 29 Apr 20:15  
+**Code Unknown (Code inconnu)**  
+Sun 9 Apr 15:45; Wed 26 Apr 18:15  
+**The Lady Eve**  
+Mon 10 Apr 18:15; Sat 15 Apr 12:40; Sun 30 Apr 14:15  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDY4NjMxNjQsLTU5NTUxMjEwNSwtOT
+eyJoaXN0b3J5IjpbLTEyNTY0MDg0MzQsLTU5NTUxMjEwNSwtOT
 k3ODI0Njk5LC0yMDI4MjgwNDE4XX0=
 -->
