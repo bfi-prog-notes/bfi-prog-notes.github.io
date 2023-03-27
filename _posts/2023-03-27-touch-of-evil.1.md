@@ -62,110 +62,61 @@ _Sound System:_ Westrex Recording System
 
 _Studio:_ Universal Studios Hollywood
 
-_uncredited_
-
+_uncredited:_
 _Director – Additional Material:_ Harry Keller
-
 _Production Manager:_ F.D. Thompson
-
 _2nd Assistant Director:_ Terence Nelson
-
 _Screenplay:_ Paul Monash
-
 _Camera Operator:_ Philip Lathrop
-
 _Editors:_ Edward Curtiss, Ernest Nims
 
 **Cast**
-
 Charlton Heston _(Ramon Miguel ‘Mike’ Vargas)_
-
 Janet Leigh _(Susan Vargas)_
-
 Orson Welles _(Hank Quinlan)_
-
 Joseph Calleia _(Pete Menzies)_
-
 Akim Tamiroff _(‘Uncle’ Joe Grandi)_
-
 Joanna Moore _(Marcia Linnekar)_
-
 Ray Collins _(District Attorney Adair)_
-
 Dennis Weaver _(Mirador Motel night man)_
-
 Valentin De Vargas _(‘Pancho’)_
-
 Mort Mills _(Al Schwartz)_
-
 Victor Millan _(Manolo Sanchez)_
-
 Lalo Rios _(Risto)_
-
 Michael Sargent _(Pretty Boy)_
-
 Phil Harvey _(Blaine)_
-
 Joi Lansing _(Zita, blonde in car)_
-
 Harry Shannon _(Chief Gould)_
-
 Marlene Dietrich _(Tanya)_
-
 Zsa Zsa Gabor _(stripclub owner)_
-
-_uncredited_
-
+_uncredited:_
 Dan White _(customs officer)_
-
 Joseph Cotten _(police surgeon)_
-
 John Dierkes _(man at the accident)_
-
 Joe Basulto _(young delinquent)_
-
 Gus Schilling _(Eddie Farnum)_
-
 Billy House _(Linnekar Construction foreman)_
-
 Rusty Wescoatt _(Casey)_
-
 Wayne Taylor, Ken Miller, Raymond Rodriguez _(gang members)_
-
 Mercedes McCambridge _(gang leader)_
-
 Arlene McQuade _(Ginnie)_
-
 Yolanda Bojorquez _(Bobbie)_
-
 Jennie Dias _(Jackie)_
-
 Eleanor Dorado _(Lia)_
-
 William Tannen _(lawyer)_
-
 Domenick Delgarde _(lackey)_
 
 USA 1958©
-
 110 mins
 
 **BIG SCREEN CLASSICS**
-
 **Touch of Evil**
-
 Mon 27 Mar 20:45; Tue 4 Apr 14:30; Sun 9 Apr 18:30; Fri 28 Apr 20:45
-
 **Wild Strawberries (Smultronstället)**
-
 Tue 28 Mar 20:50; Wed 12 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 14 Apr 20:50; Mon 24 Apr 14:30
-
 **To Sleep with Anger + Borom Sarret (The Wagoner)**
-
 Wed 29 Mar 18:10 (+ intro); Mon 10 Apr 12:45; Wed 12 Apr 18:00
-
 **Rio Bravo**
-
 Thu 30 Mar 20:20; Sun 9 Apr 12:50; Fri 21 Apr 20:20
 **Aguirre, Wrath of God (Aguirre, der Zorn Gottes)**
 Fri 31 Mar 21:00; Thu 13 Apr 21:00; Thu 20 Apr 18:15
@@ -188,5 +139,5 @@ Sun 9 Apr 15:45; Wed 26 Apr 18:15
 **The Lady Eve**
 Mon 10 Apr 18:15; Sat 15 Apr 12:40; Sun 30 Apr 14:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTU2NTQ2OSwtMjAyODI4MDQxOF19
+eyJoaXN0b3J5IjpbLTk5NzgyNDY5OSwtMjAyODI4MDQxOF19
 -->
