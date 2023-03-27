@@ -6,8 +6,8 @@ date: 2023-03-27
 readtime: true
 categories: ['RE-RELEASES']
 tags: [Music, Documentary]
-metadata: 'UK 1981, 88 mins<br> Director: <![endiJoe Massot'
-pdf: '2023-03-27-rye-lane.pdf'
+metadata: 'UK 1981, 88 mins<br> Director: Joe Massot'
+pdf: '2023-03-27-dance-craze.pdf'
 ---
 
 **Please note** that this film contains a sequence of flashing lights which might affect customers who are susceptible to photosensitive epilepsy.
@@ -166,5 +166,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjkzMTgyNF19
+eyJoaXN0b3J5IjpbLTEyMzk2NDgxMzRdfQ==
 -->
