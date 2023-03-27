@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cannon Arm and the Arcade Quest (Relaxed Screening)
+title: Cannon Arm and the Arcade Quest <br>(Relaxed Screening)
 published: true
 date: 2023-03-27
 readtime: true
@@ -87,6 +87,10 @@ those in the neurodiverse community, their assistants and carers.
 
 • Please ask us if you need help.
 
+
+**Programme notes and credits compiled by Sight a the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTcyNTcyOV19
+eyJoaXN0b3J5IjpbNzAwNjQxMzM2XX0=
 -->
