@@ -6,7 +6,7 @@ date: 2023-03-27
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Documentary]
-metadata: 'Australia 2021, 56 mins<br> Director: Bruce Gladwin'
+metadata: 'De2021, 56 mins<br> Director: Bruce Gladwin'
 pdf: '2023-02-08-shadow.pdf'
 ---
 
@@ -19,9 +19,24 @@ The perfect film for the run up to London Games Week, this affectionate document
 The post screening discussion will be hosted by Benjamin Brown.
 
 Screening in partnership with Citizen Autistic –  
-The London Autism Film Club.
+The London Autism Film Club.  
 
+**CANNON ARM AND THE ARCADE QUEST**  
+**(KIM KANONARM OG REJSEN MOD VERDENSREKORDEN)**  
+_Director:_ Mads Hedegaard  
+_Production Company:_  Good Company Pictures  
+_Producer:_ Katrine A. Sahlstrøm  
+_Cinematographers:_ David Bauer, Mads Hedegaard  
+_Editor:_ Mark Bukdahl  
 
+**With**  
+Kim Cannon Arm  
+Walter Day  
+Michael Dyst  
+Shigeru Miyamoto  
+
+Denmark 2021  
+98 mins
 
 
 <br>
@@ -75,5 +90,5 @@ those in the neurodiverse community, their assistants and carers.
 • Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjA4NDUyMl19
+eyJoaXN0b3J5IjpbMzY0ODUzNjQyXX0=
 -->
