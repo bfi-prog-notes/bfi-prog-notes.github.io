@@ -26,27 +26,22 @@ Chrysalis Records were also able to locate the original audio master tapes in th
 It’s been a long time coming, but _Dance Craze_ was finally screened in its newly restored, remastered form for the first time at the 2023 Glasgow Film Festival. Once again, audiences were found singing and dancing along to this definitive audiovisual document of British ska.  
 **Douglas Weir, bfi.org.uk, 21 March 2023**  
 
-**DANCE CRAZE**
-
+**DANCE CRAZE**  
 _Director_: Joe Massot  
 _Production Company_: Chrysalis Group  
 _Producer_: Gavrik Losey  
 _Photography and Visual Concept_: Joe Dunton  
-_Camera Operators_: Mike Delaney, Garrett Brown, Tony Coggans,
-
-Paul Hennessey, Dennis Kingston, Tony Pierce-Roberts, Bob Smith,
-
-Peter Taylor  
+_Camera Operators_: Mike Delaney, Garrett Brown, Tony Coggans, Paul Hennessey, Dennis Kingston, Tony Pierce-Roberts, Bob Smith, Peter Taylor  
 _Supervising Editor_: Ben Rayner  
 _Editor_: Anthony Sloman  
 _Assembly Editor_: Stuart De Jong  
 _Assistant Editor_: Miriam Bagley  
 _Music co-ordinator_: Debra Daly  
 _Music Producers_: Clive Langer, Alan Winstanley  
-_Sound Recording_: Alan Snelling
+_Sound Recording_: Alan Snelling  
 
 **With**  
-_Bad Manners:_
+_Bad Manners:_  
 Buster Bloodvessel _(vocal)_  
 Brian Chew-It _(drums)_  
 Andy Marson _(saxophone)_  
@@ -55,7 +50,7 @@ Winston Bazoomies _(harmonica, vocal)_
 Martin Stewart _(keyboards)_  
 David Farren _(bass)_  
 Louis Alphonso _(guitar)_  
-Gus ‘Hotlips’ Herman _(trombone)_
+Gus ‘Hotlips’ Herman _(trombone)_  
 
 _The Beat_:  
 David Wakeling _(guitar, vocal)_  
@@ -63,10 +58,9 @@ David Steele _(bass)_
 Andy Cox _(guitar)_  
 Everett Morton _(drums)_  
 Ranking Roger _(vocal)_  
-Saxo _(saxophone)_
+Saxo _(saxophone)_  
 
-The Bodysnatchers:
-
+_The Bodysnatchers_:
 Nicola Summers _(bass)_  
 Miranda Joyce _(alto saxophone)_
 Pennie Leyton _(keyboards)_  
@@ -107,5 +101,5 @@ Dick Cuthell _(flugelhorn, cornet)_
 UK 1981
 88 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDU4MzEzM119
+eyJoaXN0b3J5IjpbMTUzMDEzMzQyMV19
 -->
