@@ -2,7 +2,7 @@
 layout: post
 title: Cannon Arm and the Arcade Quest(Relaxed Screening)
 published: true
-date: 2023-02-08
+date: 2023-03-27
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Documentary]
@@ -10,45 +10,18 @@ metadata: 'Australia 2021, 56 mins<br> Director: Bruce Gladwin'
 pdf: '2023-02-08-shadow.pdf'
 ---
 
-<img style="float: left;" src="/img/Shadow.png"><br><br>
+<img style="float: left;" src="/img/cannon-arm.png"><br><br>
+
+_+ intro and discussion_
+
+The perfect film for the run up to London Games Week, this affectionate documentary offers a sublime portrait of a group of outsiders who support Kim Cannon Arm, a man of very few words, in his attempt to break the world record score of the 1980s arcade game Gyruss. It’s a generous and nuanced insight into the power of true friendship.
+
+The post screening discussion will be hosted by Benjamin Brown.
+
+Screening in partnership with Citizen Autistic –  
+The London Autism Film Club.
 
 
-_Introduced by Clare Baines (Disability Equality Lead, BFI) and Matthew Hellett, Lead Programmer, Oska Bright Film Festival._
-
-Challenging expectations is at the heart of _Shadow_. A group of activists convene to discuss artificial intelligence and their relationship with it. Sarah, Scott and Simon lead, navigating their contrasting ideas and experiences of being overlooked and disempowered as disabled people. Winning the audience prize at South by Southwest Film Festival, this is a raw, passionate drama from Back to Back Theatre.
-
-Followed by a post screening discussion in NFT3 about the issues raised, in partnership with Oska Bright Film Festival.
-
-
-**SHADOW**  
-_Director:_ Bruce Gladwin  
-_Production Company:_  Back to Back Pictures  
-_Producer:_ Alice Fleming  
-_Cinematographer:_ Rhian Hinkley  
-
-**With**  
-Mark Deans  
-Sarah Mainwaring  
-Scott Price  
-Simon Laherty  
-
-Australia 2021  
-56min
-
-SHADOW is part of  
-YOU BEAUTIES:  NEW AUSTRALIAN CINEMA  
-screening also on 22 February  
-<br>
-
-**BUSTING THE BIAS at BFI Southbank is a celebration of Disability filmmaking, intersectionality, and community-led action towards an inclusive film industry.**
-
-**This collection of screenings, talks and immersive presentations will champion accessible and equitable practices and cultures within filmmaking and exhibition.**
-
-**These events will tackle conversations around authentic on-screen representation, advocacy and inclusion for Disabled talent and audiences.**
-
-**bfi.org.uk/BustingTheBias**
-
-**FRI 3 – SUN 5 MAR**
 
 
 <br>
@@ -102,5 +75,5 @@ those in the neurodiverse community, their assistants and carers.
 • Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzU5NjgzOV19
+eyJoaXN0b3J5IjpbMTQ1NjA4NDUyMl19
 -->
