@@ -88,7 +88,7 @@ Suggs _(vocal)_
 Woods _(drums)_  
 Bedders _(bass)_  
 
-_The Selecter: _  
+_The Selecter:_  
 Neol Davies _(guitar)_  
 Crommie Amanor _(guitar)_  
 Charlie Anderson _(bass)_  
