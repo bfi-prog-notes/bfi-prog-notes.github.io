@@ -88,9 +88,9 @@ those in the neurodiverse community, their assistants and carers.
 • Please ask us if you need help.
 
 
-**Programme notes and credits compiled by Sight a the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwNjQxMzM2XX0=
+eyJoaXN0b3J5IjpbLTE0MDg3OTU2NjBdfQ==
 -->
