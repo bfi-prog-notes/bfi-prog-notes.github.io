@@ -2,9 +2,8 @@
 
 The last great Film Noir and the final film Orson Welles would direct in Hollywood, _Touch of Evil_ is a sweat-drenched saga of corruption and intrigue on the US/Mexico border.
 
-Beginning with one of the most celebrated tracking shots in cinema history, a bravura three-minute take following a bomb planted in a car as it crosses the US border, Welles crafts baroque, highly stylised masterpiece from inauspiciously pulpy source origins. A prestigious cast including Charlton Heston and Marlene Dietrich reinforces Welles’ playful mixture of A and B-movie tropes, but it’s Welles’ own turn as the leering, groteseque Hank Quinlan that steals the film. Seen in many different versions over the years, the film is here presented in Walter Murch’s 1998 restoration, based on Orson Welles’ 1957 memo to the head of Universal.
-
-bfi.org.uk
+Beginning with one of the most celebrated tracking shots in cinema history, a bravura three-minute take following a bomb planted in a car as it crosses the US border, Welles crafts baroque, highly stylised masterpiece from inauspiciously pulpy source origins. A prestigious cast including Charlton Heston and Marlene Dietrich reinforces Welles’ playful mixture of A and B-movie tropes, but it’s Welles’ own turn as the leering, groteseque Hank Quinlan that steals the film. Seen in many different versions over the years, the film is here presented in Walter Murch’s 1998 restoration, based on Orson Welles’ 1957 memo to the head of Universal.  
+**bfi.org.uk**
 
 _Touch of Evil_ was shot quickly and efficiently between 18 February and 2 April 1957. During the summer, soon after Orson Welles had completed the editing and gone off on holiday to Mexico, Universal started to get worried, took control of the film and held it back for another six months while they shot extra scenes, re-edited it and cut it back by about 15 minutes. It was eventually released without fanfare in February 1958. In 1975 an archivist at UCLA, Bob Epstein, discovered a 108-minute version which, while not absolutely Welles’ original cut, is certainly very close, as close as we are likely to get.
 
@@ -23,7 +22,171 @@ Welles clearly wanted to make the film a political and moral fable, its centrepi
 Welles also argued strenuously against the idea that his is a cinema of ‘ambiguity’, as Bazin had claimed. In the specific case of _Touch of Evil_, he pointed out that, ‘In melodrama, one’s sympathy is forcibly drawn to the villain.’ He reiterated that Quinlan’s ‘law’ is the law of the lynch-mob, that ‘Quinlan does not want to submit the guilty ones to justice so much as to assassinate them in the name of the law, using the police for his own purposes: and this is a fascist scenario, a totalitarian scenario, contrary to traditional law and human justice as I understand them.’ He compared Quinlan with Kane and with Harry Lime. ‘All these men are similar, and each in his own fashion stands for the things I most detest. But I like and I comprehend – I have a human sympathy for – these different characters I’ve created. Morally I find them detestable – morally, not humanly.’
 
 Towards the end of _Touch of Evil_, Quinlan asks the gypsy fortune-teller Tanya to read his future for him. She replies balefully, ‘You haven’t got any ... Your future’s all used up.’ It has often been commented that Tanya might have been talking about Welles, about his betrayal by Hollywood and his downfall as a commercial filmmaker. I do not think that casting Welles’ career in terms of failure and ruin is the best way to see it. On the contrary, he was a filmmaker who rejected the whole idea of making a Faustian bargain with Hollywood, recklessly scorning the tempting offers made to him by Mephistopheles. He was by no means a saint, but he believed that living with a good conscience was more important than power and worldly success. From a moral point of view, after all, it is Hollywood’s future that is now all used up, however much sympathy we may feel for its monstrous charm.  
-**Peter Wollen, _Sight and Sound_, October 1996**
+**Peter Wollen, _Sight and Sound_, October 1996**  
+
+<![endif]-->
+
+**TOUCH OF EVIL**
+
+_Director:_ Orson Welles
+
+_Production Company:_ Universal Pictures Company
+
+_Producer:_ Albert Zugsmith
+
+_Assistant Director:_ Phil Bowles
+
+_Screenplay by:_ Orson Welles
+
+_Based on the novel_ Badge of Evil _by:_ Whit Masterson
+
+_Director of Photography:_ Russell Metty
+
+_Editors:_ Virgil Vogel, Aaron Stell
+
+_Art Direction:_ Alexander Golitzen, Robert Clatworthy
+
+_Set Decorations:_ Russell A. Gausman, John P. Austin
+
+_Gowns:_ Bill Thomas
+
+_Make-up:_ Bud Westmore
+
+_Music:_ Henry Mancini
+
+_Music Supervisor:_ Joseph Gershenson
+
+_Sound:_ Leslie I. Carey, Frank Wilkinson
+
+_Sound System:_ Westrex Recording System
+
+_Studio:_ Universal Studios Hollywood
+
+_uncredited_
+
+_Director – Additional Material:_ Harry Keller
+
+_Production Manager:_ F.D. Thompson
+
+_2nd Assistant Director:_ Terence Nelson
+
+_Screenplay:_ Paul Monash
+
+_Camera Operator:_ Philip Lathrop
+
+_Editors:_ Edward Curtiss, Ernest Nims
+
+**Cast**
+
+Charlton Heston _(Ramon Miguel ‘Mike’ Vargas)_
+
+Janet Leigh _(Susan Vargas)_
+
+Orson Welles _(Hank Quinlan)_
+
+Joseph Calleia _(Pete Menzies)_
+
+Akim Tamiroff _(‘Uncle’ Joe Grandi)_
+
+Joanna Moore _(Marcia Linnekar)_
+
+Ray Collins _(District Attorney Adair)_
+
+Dennis Weaver _(Mirador Motel night man)_
+
+Valentin De Vargas _(‘Pancho’)_
+
+Mort Mills _(Al Schwartz)_
+
+Victor Millan _(Manolo Sanchez)_
+
+Lalo Rios _(Risto)_
+
+Michael Sargent _(Pretty Boy)_
+
+Phil Harvey _(Blaine)_
+
+Joi Lansing _(Zita, blonde in car)_
+
+Harry Shannon _(Chief Gould)_
+
+Marlene Dietrich _(Tanya)_
+
+Zsa Zsa Gabor _(stripclub owner)_
+
+_uncredited_
+
+Dan White _(customs officer)_
+
+Joseph Cotten _(police surgeon)_
+
+John Dierkes _(man at the accident)_
+
+Joe Basulto _(young delinquent)_
+
+Gus Schilling _(Eddie Farnum)_
+
+Billy House _(Linnekar Construction foreman)_
+
+Rusty Wescoatt _(Casey)_
+
+Wayne Taylor, Ken Miller, Raymond Rodriguez _(gang members)_
+
+Mercedes McCambridge _(gang leader)_
+
+Arlene McQuade _(Ginnie)_
+
+Yolanda Bojorquez _(Bobbie)_
+
+Jennie Dias _(Jackie)_
+
+Eleanor Dorado _(Lia)_
+
+William Tannen _(lawyer)_
+
+Domenick Delgarde _(lackey)_
+
+USA 1958©
+
+110 mins
+
+**BIG SCREEN CLASSICS**
+
+**Touch of Evil**
+
+Mon 27 Mar 20:45; Tue 4 Apr 14:30; Sun 9 Apr 18:30; Fri 28 Apr 20:45
+
+**Wild Strawberries (Smultronstället)**
+
+Tue 28 Mar 20:50; Wed 12 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 14 Apr 20:50; Mon 24 Apr 14:30
+
+**To Sleep with Anger + Borom Sarret (The Wagoner)**
+
+Wed 29 Mar 18:10 (+ intro); Mon 10 Apr 12:45; Wed 12 Apr 18:00
+
+**Rio Bravo**
+
+Thu 30 Mar 20:20; Sun 9 Apr 12:50; Fri 21 Apr 20:20
+**Aguirre, Wrath of God (Aguirre, der Zorn Gottes)**
+Fri 31 Mar 21:00; Thu 13 Apr 21:00; Thu 20 Apr 18:15
+**Last year in Marienbad (L’Année dernière à Marienbad)**
+Sat 1 Apr 12:50; Mon 3 Apr 20:30; Sat 8 Apr 18:20; Tue 18 Apr 20:45
+**La Grande Illusion**
+Sat 1 Apr 13:00; Wed 12 Apr 20:40; Sat 15 Apr 18:00; Fri 21 Apr 18:15
+**The Godfather Part II**
+Sat 1 Apr 16:00; Sat 22 Apr 18:40; Sun 30 Apr 16:30
+**Nashville**
+Sun 2 Apr 17:50; Sat 8 Apr 20:00; Sat 29 Apr 16:30
+**The Passenger (Professione: reporter)**
+Wed 5 Apr 18:00 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 7 Apr 20:20; Sun 16 Apr 18:15; Thu 27 Apr 18:10
+**Pickpocket**
+Thu 6 Apr 20:45; Tue 11 Apr 14:30; Mon 17 Apr 20:50; Mon 24 Apr 20:50
+**The Portrait of a Lady**
+Fri 7 Apr 14:30; Wed 19 Apr 17:50 (+ intro); Sat 29 Apr 20:15
+**Code Unknown (Code inconnu)**
+Sun 9 Apr 15:45; Wed 26 Apr 18:15
+**The Lady Eve**
+Mon 10 Apr 18:15; Sat 15 Apr 12:40; Sun 30 Apr 14:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjgyODA0MThdfQ==
+eyJoaXN0b3J5IjpbMTk2NTU2NTQ2OSwtMjAyODI4MDQxOF19
 -->
