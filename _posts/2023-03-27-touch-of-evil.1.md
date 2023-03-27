@@ -59,7 +59,6 @@ _Music Supervisor:_ Joseph Gershenson
 _Sound:_ Leslie I. Carey, Frank Wilkinson
 
 _Sound System:_ Westrex Recording System
-
 _Studio:_ Universal Studios Hollywood
 
 _uncredited:_
@@ -139,5 +138,6 @@ Sun 9 Apr 15:45; Wed 26 Apr 18:15
 **The Lady Eve**
 Mon 10 Apr 18:15; Sat 15 Apr 12:40; Sun 30 Apr 14:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzgyNDY5OSwtMjAyODI4MDQxOF19
+eyJoaXN0b3J5IjpbLTU5NTUxMjEwNSwtOTk3ODI0Njk5LC0yMD
+I4MjgwNDE4XX0=
 -->
