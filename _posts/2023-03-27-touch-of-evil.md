@@ -5,11 +5,10 @@ published: true
 date: 2023-03-27
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Comedy, Romance]
+tags: [Film Noir]
 metadata: 'USA 1958, 110 mins<br> Director: Orson Welles'
 pdf: '2023-03-27-touch-of-evil.pdf'
 ---
-
 
 The last great Film Noir and the final film Orson Welles would direct in Hollywood, _Touch of Evil_ is a sweat-drenched saga of corruption and intrigue on the US/Mexico border.
 
@@ -155,5 +154,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDI5NTIyOSwtOTYzOTExMTY1XX0=
+eyJoaXN0b3J5IjpbNzMyMjc1OTY5LC05NjM5MTExNjVdfQ==
 -->
