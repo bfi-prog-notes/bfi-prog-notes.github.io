@@ -23,66 +23,48 @@ Welles also argued strenuously against the idea that his is a cinema of ‘ambig
 
 Towards the end of _Touch of Evil_, Quinlan asks the gypsy fortune-teller Tanya to read his future for him. She replies balefully, ‘You haven’t got any ... Your future’s all used up.’ It has often been commented that Tanya might have been talking about Welles, about his betrayal by Hollywood and his downfall as a commercial filmmaker. I do not think that casting Welles’ career in terms of failure and ruin is the best way to see it. On the contrary, he was a filmmaker who rejected the whole idea of making a Faustian bargain with Hollywood, recklessly scorning the tempting offers made to him by Mephistopheles. He was by no means a saint, but he believed that living with a good conscience was more important than power and worldly success. From a moral point of view, after all, it is Hollywood’s future that is now all used up, however much sympathy we may feel for its monstrous charm.  
 **Peter Wollen, _Sight and Sound_, October 1996**  
+<br>  
 
-<![endif]-->
+**TOUCH OF EVIL**  
+_Director:_ Orson Welles  
+_Production Company:_ Universal Pictures Company  
+_Producer:_ Albert Zugsmith  
+_Assistant Director:_ Phil Bowles  
+_Screenplay by:_ Orson Welles  
+_Based on the novel_ Badge of Evil _by:_ Whit Masterson  
+_Director of Photography:_ Russell Metty  
+_Editors:_ Virgil Vogel, Aaron Stell  
+_Art Direction:_ Alexander Golitzen, Robert Clatworthy  
+_Set Decorations:_ Russell A. Gausman, John P. Austin  
+_Gowns:_ Bill Thomas  
+_Make-up:_ Bud Westmore  
+_Music:_ Henry Mancini  
+_Music Supervisor:_ Joseph Gershenson  
+_Sound:_ Leslie I. Carey, Frank Wilkinson  
+_Sound System:_ Westrex Recording System  
+_Studio:_ Universal Studios Hollywood  
+_uncredited:_  
+_Director – Additional Material:_ Harry Keller  
+_Production Manager:_ F.D. Thompson  
+_2nd Assistant Director:_ Terence Nelson  
+_Screenplay:_ Paul Monash  
+_Camera Operator:_ Philip Lathrop  
+_Editors:_ Edward Curtiss, Ernest Nims  
 
-**TOUCH OF EVIL**
-
-_Director:_ Orson Welles
-
-_Production Company:_ Universal Pictures Company
-
-_Producer:_ Albert Zugsmith
-
-_Assistant Director:_ Phil Bowles
-
-_Screenplay by:_ Orson Welles
-
-_Based on the novel_ Badge of Evil _by:_ Whit Masterson
-
-_Director of Photography:_ Russell Metty
-
-_Editors:_ Virgil Vogel, Aaron Stell
-
-_Art Direction:_ Alexander Golitzen, Robert Clatworthy
-
-_Set Decorations:_ Russell A. Gausman, John P. Austin
-
-_Gowns:_ Bill Thomas
-
-_Make-up:_ Bud Westmore
-
-_Music:_ Henry Mancini
-
-_Music Supervisor:_ Joseph Gershenson
-
-_Sound:_ Leslie I. Carey, Frank Wilkinson
-
-_Sound System:_ Westrex Recording System
-_Studio:_ Universal Studios Hollywood
-
-_uncredited:_
-_Director – Additional Material:_ Harry Keller
-_Production Manager:_ F.D. Thompson
-_2nd Assistant Director:_ Terence Nelson
-_Screenplay:_ Paul Monash
-_Camera Operator:_ Philip Lathrop
-_Editors:_ Edward Curtiss, Ernest Nims
-
-**Cast**
-Charlton Heston _(Ramon Miguel ‘Mike’ Vargas)_
-Janet Leigh _(Susan Vargas)_
-Orson Welles _(Hank Quinlan)_
-Joseph Calleia _(Pete Menzies)_
-Akim Tamiroff _(‘Uncle’ Joe Grandi)_
-Joanna Moore _(Marcia Linnekar)_
-Ray Collins _(District Attorney Adair)_
-Dennis Weaver _(Mirador Motel night man)_
-Valentin De Vargas _(‘Pancho’)_
-Mort Mills _(Al Schwartz)_
-Victor Millan _(Manolo Sanchez)_
-Lalo Rios _(Risto)_
-Michael Sargent _(Pretty Boy)_
+**Cast**  
+Charlton Heston _(Ramon Miguel ‘Mike’ Vargas)_  
+Janet Leigh _(Susan Vargas)_  
+Orson Welles _(Hank Quinlan)_  
+Joseph Calleia _(Pete Menzies)_  
+Akim Tamiroff _(‘Uncle’ Joe Grandi)_  
+Joanna Moore _(Marcia Linnekar)_  
+Ray Collins _(District Attorney Adair)_  
+Dennis Weaver _(Mirador Motel night man)_  
+Valentin De Vargas _(‘Pancho’)_  
+Mort Mills _(Al Schwartz)_  
+Victor Millan _(Manolo Sanchez)_  
+Lalo Rios _(Risto)_  
+Michael Sargent _(Pretty Boy)_ 
 Phil Harvey _(Blaine)_
 Joi Lansing _(Zita, blonde in car)_
 Harry Shannon _(Chief Gould)_
@@ -138,6 +120,6 @@ Sun 9 Apr 15:45; Wed 26 Apr 18:15
 **The Lady Eve**
 Mon 10 Apr 18:15; Sat 15 Apr 12:40; Sun 30 Apr 14:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTUxMjEwNSwtOTk3ODI0Njk5LC0yMD
-I4MjgwNDE4XX0=
+eyJoaXN0b3J5IjpbLTE3NDY4NjMxNjQsLTU5NTUxMjEwNSwtOT
+k3ODI0Njk5LC0yMDI4MjgwNDE4XX0=
 -->
