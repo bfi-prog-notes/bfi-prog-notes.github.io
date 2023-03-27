@@ -60,14 +60,14 @@ Everett Morton _(drums)_
 Ranking Roger _(vocal)_  
 Saxo _(saxophone)_  
 
-_The Bodysnatchers_:
+_The Bodysnatchers_:  
 Nicola Summers _(bass)_  
-Miranda Joyce _(alto saxophone)_
+Miranda Joyce _(alto saxophone)_  
 Pennie Leyton _(keyboards)_  
 Jane Summers _(drums)_  
-Sarah Jane Owen _(lead guitar)_
+Sarah Jane Owen _(lead guitar)_  
 Rhoda Dakar _(vocal)_  
-Stella Barker _(rhythm guitar)_
+Stella Barker _(rhythm guitar)_ 
 
 _Madness:_
 Mike Barson _(keyboards)_  
@@ -101,5 +101,5 @@ Dick Cuthell _(flugelhorn, cornet)_
 UK 1981
 88 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDEzMzQyMV19
+eyJoaXN0b3J5IjpbLTE5NDA1ODkyN119
 -->
