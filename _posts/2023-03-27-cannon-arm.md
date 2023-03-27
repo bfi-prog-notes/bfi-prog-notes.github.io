@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Cannon Arm and the Arcade Quest(Relaxed Screening)
+title: Cannon Arm and the Arcade Quest (Relaxed Screening)
 published: true
 date: 2023-03-27
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Documentary]
-metadata: 'De2021, 56 mins<br> Director: Bruce Gladwin'
-pdf: '2023-02-08-shadow.pdf'
+metadata: 'Denmark 2021, 98 mins<br> Director: Mads Hedegaard'
+pdf: '2023-03-27-cannon-arm.pdf'
 ---
 
 <img style="float: left;" src="/img/cannon-arm.png"><br><br>
@@ -36,8 +36,7 @@ Michael Dyst
 Shigeru Miyamoto  
 
 Denmark 2021  
-98 mins
-
+98 mins  
 
 <br>
 
@@ -50,11 +49,10 @@ Denmark 2021
 <img style="float: left;" src="/img/steel-charitable-trust-logo-01.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br>
 
 
-**The next relaxed screenings is:**<br>
-**THRONE OF BLOOD + intro and discussion**<br>
-**Monday 27 February 2023 18:15 NFT3**<br>
+**The next relaxed screenings is:**
+**DEEP END + intro and discussion**
+**Monday 24 April 2023 18:00 NFT3**<br>
 <br>
-
 
 **Find out more at**
 **www.whatson.bfi.org.uk**
@@ -90,5 +88,5 @@ those in the neurodiverse community, their assistants and carers.
 • Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0ODUzNjQyXX0=
+eyJoaXN0b3J5IjpbMTkwMTcyNTcyOV19
 -->
