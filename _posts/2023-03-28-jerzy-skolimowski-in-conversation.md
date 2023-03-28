@@ -80,34 +80,33 @@ Selected filmography
 **1989  Torrents of Spring** (Italy/France) + producer/writer, cast  as Victor Victorovich  
 **1991  Ferdydurke** (30 Door Key) (Poland) + producer/writer, cast as headmaster  
 **2008  Four Nights with Anna** (Cztery noce z Anną (France/Poland) + producer/writer  
-**2010  Essential Killing** (Poland/Norway/ Hungary/UK/Ireland) + producer/writer
-**2015  11 Minutes** (Poland/Ireland) + producer/ writer
-**2022  EO** (Poland/Italy) + producer/writer
+**2010  Essential Killing** (Poland/Norway/ Hungary/UK/Ireland) + producer/writer  
+**2015  11 Minutes** (Poland/Ireland) + producer/ writer  
+**2022  EO** (Poland/Italy) + producer/writer  
 
-**As Actor**
-**1960** **Innocent Sorcerers** (Niewinni czarodzieje) (Poland, d. Andrzej Wajda) as boxer
-**1966** **Sposob bycia** (Poland, d. Jan Rybkowski) as Leopold
-**1972  A Slip-up** (Poland, d. Jan Lomnicki) as garage owner
-**1981** **Circle of Deceit** (France/Germany, d. Volker Schlöndorff) as Hoffmann
-**1985** **White Nights** (USA, d. Taylor Hackford) as KGB Colonel Chaiko
-**1987** **Big Shots** (USA, d. Robert Mandel) as Doc
-**1996** **Mars Attacks!** (USA, d. Tim Burton) as Dr Zeigler
-**1998** **L.A. Without a Map** (Finland/Luxembourg/ UK/France, d. Mika Kaurismaki as minister
-**1999  Operation Simoon** (Poland, d. Wladyslaw Pasikowski) as Hayes
-**2000** **Before Night Falls** (USA, d. Julian Schnabel) as professor
-**2007** **Eastern Promises** (UK/Canada/USA, d. David Cronenberg as Stepan
-**2012** **The Avengers** (USA, d. Joss Whedon) as Georgi Luchkov
-**The Day of the Siege: September Eleven 1683** (Italy/Poland, d. Renzo Martinelli) as King Jan III Sobieski
+**As Actor**  
+**1960** **Innocent Sorcerers** (Niewinni czarodzieje) (Poland, d. Andrzej Wajda) as boxer  
+**1966** **Sposob bycia** (Poland, d. Jan Rybkowski) as Leopold  
+**1972  A Slip-up** (Poland, d. Jan Lomnicki) as garage owner  
+**1981** **Circle of Deceit** (France/Germany, d. Volker Schlöndorff) as Hoffmann  
+**1985** **White Nights** (USA, d. Taylor Hackford) as KGB Colonel Chaiko  
+**1987** **Big Shots** (USA, d. Robert Mandel) as Doc  
+**1996** **Mars Attacks!** (USA, d. Tim Burton) as Dr Zeigler  
+**1998** **L.A. Without a Map** (Finland/Luxembourg/ UK/France, d. Mika Kaurismaki as minister  
+**1999  Operation Simoon** (Poland, d. Wladyslaw Pasikowski) as Hayes  
+**2000** **Before Night Falls** (USA, d. Julian Schnabel) as professor  
+**2007** **Eastern Promises** (UK/Canada/USA, d. David Cronenberg as Stepan  
+**2012** **The Avengers** (USA, d. Joss Whedon) as Georgi Luchkov  
+**The Day of the Siege: September Eleven 1683** (Italy/Poland, d. Renzo Martinelli) as King Jan III Sobieski  
+**2018  The Stolen Caravaggio** (Italy, d. Roberto Andò) as Jerzy Kunze  
+**Juliusz** (Poland, d. Aleksander Pietrzak) as Chorwat  
 
-**2018  The Stolen Caravaggio** (Italy, d. Roberto Andò) as Jerzy Kunze
-**Juliusz** (Poland, d. Aleksander Pietrzak) as Chorwat
-
-**As Writer**
-**1960  Innocent Sorcerers** (Niewinni czarodzieje) (Poland, d. Andrzej Wajda)
-**1962  Knife in the Water** (Nóż w wodzie) (Poland, d. Roman Polanski)
-**1972 A Slip-up** (Poland, d. Jan Lomnicki)
-**1985  Mesmerised** (UK, d. Michael Laughlin)
-**2023 The Palace** (Italy/Switzerland/Poland, d. Roman Polanski)
+**As Writer**  
+**1960  Innocent Sorcerers** (Niewinni czarodzieje) (Poland, d. Andrzej Wajda)  
+**1962  Knife in the Water** (Nóż w wodzie) (Poland, d. Roman Polanski)  
+**1972 A Slip-up** (Poland, d. Jan Lomnicki)  
+**1985  Mesmerised** (UK, d. Michael Laughlin)  
+**2023 The Palace** (Italy/Switzerland/Poland, d. Roman Polanski)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxMjA5NTA2LC0xMTc4NTE5NDhdfQ==
+eyJoaXN0b3J5IjpbLTEyMjAzOTY0MDAsLTExNzg1MTk0OF19
 -->
