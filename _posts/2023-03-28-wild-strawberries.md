@@ -6,8 +6,8 @@ date: 2023-03-28
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
-metadata: 'USA 1958, 110 mins<br> Director: Orson Welles'
-pdf: '2023-03-27-touch-of-evil.pdf'
+metadata: 'Sweden 1957, 91 mins<br> Director: Ingmar Bergman'
+pdf: '2023-03-28-wild-srawberries.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
@@ -83,5 +83,5 @@ Sweden 1957
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzkyNjI3MF19
+eyJoaXN0b3J5IjpbMTA5MzEyMDI0NCwyMDMzOTI2MjcwXX0=
 -->
