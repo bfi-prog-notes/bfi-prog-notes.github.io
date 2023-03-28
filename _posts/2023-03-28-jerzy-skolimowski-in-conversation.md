@@ -47,101 +47,57 @@ The director continues: ‘I would say my input is more on the visual side, and 
 
 Polanksi’s debut feature, _Knife in the Water_ (1962) carries Skolimowski’s credit as co-writer, and it’s an association that has been renewed with Polanski’s latest film, _The Palace_. ‘He had the idea of a film which would take place in one location with an ensemble of people together on New Year’s Eve. I told him my family story, which we used in the final script of _The Palace_, but then he got the idea that it would be New Year’s Eve 1999, when there was the panic about [the threatened global computer meltdown] Y2K. When he asked me if I would work with him on the project, I said yes, but I think Ewa should be involved, as my last scripts were written with her. So we agreed, and worked very fast – in two to three months the script was ready.’
 
-Given the strange journey Skolimowski himself has made through different countries and cultures as well as genres of cinema, I suggest to him that _Eo_ may be read as partly autobiographical. He is amused by the idea. ‘Yes, there are some allusions to the immigrant experience, and the outsider. In that case, it is autobiographical!’ Piaskowska adds: ‘Eo, he’s not that different to Vincent Gallo in _Essential Killing_, is he? Or poor Jeremy Irons, the Polish man with no work in London? The underdog, the outsider, the person whose fate is decided by those who are stronger around him. Barely scraping by, trying to stay upright, not to get drawn in by the waves. It’s the same character, isn’t it?’
-
-**Jerzy Skolimowski interviewed by David Thomson, _Sight and Sound_, April 2023**
+Given the strange journey Skolimowski himself has made through different countries and cultures as well as genres of cinema, I suggest to him that _Eo_ may be read as partly autobiographical. He is amused by the idea. ‘Yes, there are some allusions to the immigrant experience, and the outsider. In that case, it is autobiographical!’ Piaskowska adds: ‘Eo, he’s not that different to Vincent Gallo in _Essential Killing_, is he? Or poor Jeremy Irons, the Polish man with no work in London? The underdog, the outsider, the person whose fate is decided by those who are stronger around him. Barely scraping by, trying to stay upright, not to get drawn in by the waves. It’s the same character, isn’t it?’  
+**Jerzy Skolimowski interviewed by David Thomson, _Sight and Sound_, April 2023**  
 
 **JERZY SKOLIMOWSKI**
-
 Born 5 May 1938, Łódź, Poland
 
 Selected filmography
 
 **As Director**
-
 **1960  Little Hamlet** (Hamles) (Poland) short + writer
-
 **The Menacing Eye** (Oko wykol) (Poland) short + writer
-
 **Erotique** (Erotyk) (Poland) short + writer
-
 **1961  Boxing** (Boks) (Poland) short + writer
-
 **Your Money or Your Life** (Pieniądze albo życie) (Poland) short + writer
-
 **Rzezba** (Poland) short + writer
-
 **The Nude** (Akt) (Poland) short + writer
-
 **1962** **Druga taryfa** (Poland) short + producer/ writer
-
 **1965  Walkover** (Walkower) (Poland) + writer/ editor, cast as Andrzej Leszczyc
-
 **Identification Marks: None** (Rysopis) (Poland) + writer/editor/art director cast as Andrzej Leszczyc
-
 **1966  Barrier** (Bariera) (Poland) + writer
-
 **1967  Le départ** (The Departure) (Belgium)  + writer
-
 **1967/81 Hands Up!** (Ręce do góry) (Poland) + producer/writer/art director, cast as Andrzej Leszczyc
-
 **1968  Dialóg 20-40-60** (Czechoslovakia, segment **The Twenty-Year-  Olds**) + writer
-
 **1970  Deep End** (Germany/UK) + writer, cast  as man with newspaper
-
 **The Adventures of Gerard** (UK) + writer
-
 **1972  King, Queen, Knave** (Germany/USA) + cast
-
 **1978  The Shout** (UK) + writer
-
 **1982  Moonlighting** (UK)  + producer/writer, cast as boss
-
 **1984  Success Is the Best Revenge** (France/ UK)  + producer/writer
-
 **1985  The Lightship** (USA)
-
 **1989  Torrents of Spring** (Italy/France) + producer/writer, cast  as Victor Victorovich
-
 **1991  Ferdydurke** (30 Door Key) (Poland) + producer/writer, cast as headmaster
-
 **2008  Four Nights with Anna** (Cztery noce z Anną) (France/Poland) + producer/writer
-
 **2010  Essential Killing** (Poland/Norway/ Hungary/UK/Ireland) + producer/writer
-
 **2015  11 Minutes** (Poland/Ireland) + producer/ writer
-
 **2022  EO** (Poland/Italy) + producer/writer
 
 **As Actor**
-
 **1960** **Innocent Sorcerers** (Niewinni czarodzieje) (Poland, d. Andrzej Wajda) as boxer
-
 **1966** **Sposob bycia** (Poland, d. Jan Rybkowski) as Leopold
-
 **1972  A Slip-up** (Poland, d. Jan Lomnicki) as garage owner
-
 **1981** **Circle of Deceit** (France/Germany, d. Volker Schlöndorff) as Hoffmann
-
 **1985** **White Nights** (USA, d. Taylor Hackford) as KGB Colonel Chaiko
-
 **1987** **Big Shots** (USA, d. Robert Mandel) as Doc
-
 **1996** **Mars Attacks!** (USA, d. Tim Burton) as Dr Zeigler
-
 **1998** **L.A. Without a Map** (Finland/Luxembourg/ UK/France, d. Mika Kaurismaki as minister
-
 **1999  Operation Simoon** (Poland, d. Wladyslaw Pasikowski) as Hayes
-
 **2000** **Before Night Falls** (USA, d. Julian Schnabel) as professor
-
 **2007** **Eastern Promises** (UK/Canada/USA, d. David Cronenberg as Stepan
-
 **2012** **The Avengers** (USA, d. Joss Whedon) as Georgi Luchkov
-
-**The Day of the Siege: September Eleven 1683** (Italy/Poland,
-
-d. Renzo Martinelli) as King Jan III Sobieski
+**The Day of the Siege: September Eleven 1683** (Italy/Poland, d. Renzo Martinelli) as King Jan III Sobieski
 
 **2018  The Stolen Caravaggio** (Italy, d. Roberto Andò) as Jerzy Kunze
 
@@ -159,5 +115,5 @@ d. Renzo Martinelli) as King Jan III Sobieski
 
 **2023 The Palace** (Italy/Switzerland/Poland, d. Roman Polanski)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDEyNjE2MywtMTE3ODUxOTQ4XX0=
+eyJoaXN0b3J5IjpbLTE3Nzg5MDIxNzMsLTExNzg1MTk0OF19
 -->
