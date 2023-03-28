@@ -1,19 +1,18 @@
 ---
 layout: post
-title: Dance Craze
+title: The Age of Innocence
 published: true
-date: 2023-03-2
+date: 2023-03-28
 readtime: true
 categories: ['RE-RELEASES']
 tags: [Drama, Period]
-metadata: 'USA 1993, 138mins<br> Director: Martin Scorsese'
-pdf: '2023-03-27-dance-craze.pdf'
+metadata: 'USA 1993, 138 mins<br> Director: Martin Scorsese'
+pdf: '2023-03-28-age-of-innocence.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
-**Martin Scorsese on ‘The Age of Innocence’**
-
+**Martin Scorsese on ‘The Age of Innocence’**  
 Set in New York in the 1870s, _The Age of Innocence_ tells the story of Newland Archer, who is engaged to May Weiland, of the powerful Mingott family. A ‘disgraced’ member of May’s family, Countess Ellen Olenska, returns from a disastrous marriage in Europe and is snubbed by New York society. Archer asks the powerful Van der Luyden family to host a dinner for the Countess to counter her exclusion. Archer falls in love with Ellen, but stifling social pressures prevent him from consummating their relationship and he is torn between his passion for the Countess and his life with May.
 
 _You quote in your book that accompanies the film a sentence from the novel: ‘They all lived in a hieroglyphic world, where the real thing was never said or done or even thought, but only represented by a set of arbitrary signs. Is this why you paid so much attention to period detail in the film – and why you’re irritated by all the talk about ‘obsessive attention to detail’, as if this comes from you?_
@@ -30,7 +29,7 @@ _In the book there’s a fantastic build-up to that dinner that tells you just h
 
 I tried to convey that by the attention given to the dinner itself – the centrepiece, the Roman punch – which is like having a triple high mass for a funeral rather than a regular low mass. They are saying, ‘Not only will we defend you, but we are going to do so on the highest level. If anyone has a problem with that, they are going to have to answer to us.’
 
-_Just like in_ GoodFellas_..._
+_Just like in_ GoodFellas ...
 
 Exactly. It’s a matter of ‘You have a problem with that? Then you have a problem with me and let’s settle it right now.’ Or in this case, ‘Oh very well. We’re going to have to bring out the Crown Derby, aren’t we?’ I remember in _The Razor’s Edge_, when Gene Tierney throws a plate at Herbert Marshall, he says, ‘My goodness, the Crown Derby.’
 
@@ -46,9 +45,8 @@ _Ironically there seems to be more of you – your own desires and frustrations 
 
 There is. Sometimes when you fall in love you can’t see what other people see. You become as passionate and obsessive as Newland, who can’t see what’s going on around him. That’s the theme of _Taxi Driver_ and of _Mean Streets_ – it’s a situation I’ve found myself in at times, and I’ve found the way it plays out so wonderful. But then Wharton goes beyond that and makes a case for a life that’s not exactly well spent, but a life that happens to him. Newland has his children, then he finds out that his wife knew all along about his love for Ellen and even told his son about it. Basically he is what they call in America a stand-up guy – a man of principles who would not abandon his wife and children. When he really wanted something most, he gave it up because of his kid. That’s very interesting to me – I don’t know if I could do the same. But I do know that there are a lot of people, even today, who would: it’s about making a decision in life and sticking to it, making do with what you have. I don’t say it’s a happy ending, but it’s a realistic and beautiful one.
 
-The emotional intensity is very important to me. What kept me going as I was reading the book was what a writer friend of mine called ‘the sweet romantic pain’ of the situation, where Newland and Ellen can’t consummate their relationship. A touch of the hand has to suffice for months; the anticipation of a two-hour ride to a train station is so sweet, it’s almost overwhelming. That was the real reason I wanted to make the film – the idea of that passion which involved such restraint.
-
-**Martin Scorsese interviewed by Ian Christie, _Sight and Sound_, February 1994**
+The emotional intensity is very important to me. What kept me going as I was reading the book was what a writer friend of mine called ‘the sweet romantic pain’ of the situation, where Newland and Ellen can’t consummate their relationship. A touch of the hand has to suffice for months; the anticipation of a two-hour ride to a train station is so sweet, it’s almost overwhelming. That was the real reason I wanted to make the film – the idea of that passion which involved such restraint.  
+**Martin Scorsese interviewed by Ian Christie, _Sight and Sound_, February 1994**  
 
 **THE AGE OF INNOCENCE**  
 _Director_: Martin Scorsese  
@@ -154,5 +152,5 @@ USA 1993
 138 mins  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ3Nzg4MzFdfQ==
+eyJoaXN0b3J5IjpbMTI5NzYyMDA4MF19
 -->
