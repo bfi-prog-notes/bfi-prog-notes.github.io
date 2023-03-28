@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Jerzy Skolimowski
+published: true
+date: 2023-03-28
+readtime: true
+categories: ['OUTSIDERS AND EXILES<br>THE FILMS OF JERZY SKOLIMOWSKI']
+tags: [Drama, Thriller]
+metadata: 'UK 1978, 85 mins<br> Director: Jerzy Skolimowski'
+pdf: '2023-03-28-shout.pdf'
+---
 
 This event is hosted by the _Outsiders and Exiles – the films of Jerzy Skolimowski_ season curator Michael Brooke.  Michael is a freelance writer and multimedia producer specialising in British and central/eastern European cinema. A regular contributor to _Sight and Sound_ and BFI DVD releases, he has also produced and/or contributed to numerous acclaimed DVD and  
 Blu-ray releases of the work of Walerian Borowczyk, Krzysztof Kieślowski and Andrzej Wajda for various UK-based video labels.
@@ -152,5 +161,5 @@ d. Renzo Martinelli) as King Jan III Sobieski
 
 **2023 The Palace** (Italy/Switzerland/Poland, d. Roman Polanski)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzg1MTk0OF19
+eyJoaXN0b3J5IjpbMTM2NjMzOTQ5OCwtMTE3ODUxOTQ4XX0=
 -->
