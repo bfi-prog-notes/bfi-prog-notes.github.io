@@ -1,4 +1,14 @@
-<![endif]-->
+---
+layout: post
+title: Dance Craze
+published: true
+date: 2023-03-2
+readtime: true
+categories: ['RE-RELEASES']
+tags: [Drama, Period]
+metadata: 'USA 1993, 138mins<br> Director: Martin Scorsese'
+pdf: '2023-03-27-dance-craze.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -83,24 +93,7 @@ _Hair Consultant_: Antonio Soddu
 _Title Design_: Elaine Bass, Saul Bass  
 _Opticals_: The Effects House  
 _Music_: Elmer Bernstein  
-_Orchestrations_: Elmer Bernstein
-
-Norman Lloyd _(Mr Letterblair)_  
-Cindy Katz _(stage actress)_  
-Thomas Gibson _(stage actor)_  
-Zoë _(herself)_  
-June Squibb _(Mingott maid)_  
-Domenica Scorsese _(Katie Blenker)_  
-Mac Orange _(Archer maid)_  
-Brian Davies _(Philip)_  
-Thomas Barbour _(Archer guest)_  
-Henry Fehren _(bishop)_  
-Patricia Dunnock _(Mary Archer)_
-
-USA 1993
-
-138 mins
-
+_Orchestrations_: Elmer Bernstein  
 _Music Editors_: Suzana Peric, Suki Buchman  
 _Nineteenth Century Music Consultant_: David Montgomery  
 _Sound Recordist_: Tod Maitland  
@@ -117,7 +110,7 @@ _Etiquette Consultant_: Lily Lodge
 _Dramaturg_: Michael X. Zelenak  
 _Table Decoration Consultant_: David McFadden  
 _Chef Nineteenth Century Meals_: Rick Ellis  
-_Dance Consultant_: Elizabeth Aldrich
+_Dance Consultant_: Elizabeth Aldrich  
 
 **Cast**  
 Joanne Woodward _(narrator)_  
@@ -145,7 +138,21 @@ W.B. Brydon _(Mr Urban Dagonet)_
 Tracey Ellis _(Gertrude Lefferts)_  
 Christina Pronzati _(Countess Olenska’s maid)_  
 Clement Fowler _(florist)_  
+Norman Lloyd _(Mr Letterblair)_  
+Cindy Katz _(stage actress)_  
+Thomas Gibson _(stage actor)_  
+Zoë _(herself)_  
+June Squibb _(Mingott maid)_  
+Domenica Scorsese _(Katie Blenker)_  
+Mac Orange _(Archer maid)_  
+Brian Davies _(Philip)_  
+Thomas Barbour _(Archer guest)_  
+Henry Fehren _(bishop)_  
+Patricia Dunnock _(Mary Archer)_  
+
+USA 1993  
+138 mins  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzE4MDU5Ml19
+eyJoaXN0b3J5IjpbLTE4NDQ3Nzg4MzFdfQ==
 -->
