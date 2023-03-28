@@ -1,20 +1,19 @@
 ---
 layout: post
-title: Jerzy Skolimowski
+title: Jerzy Skolimowski in Conversation
 published: true
 date: 2023-03-28
 readtime: true
-categories: ['OUTSIDERS AND EXILES<br>THE FILMS OF JERZY SKOLIMOWSKI']
-tags: [Drama, Thriller]
-metadata: 'UK 1978, 85 mins<br> Director: Jerzy Skolimowski'
-pdf: '2023-03-28-shout.pdf'
+categories: ['EVENTS']
+tags: [Talk]
+metadata: ''
+pdf: '2023-03-28-jerzy-skolimowski-in-conversation.pdf'
 ---
 
 This event is hosted by the _Outsiders and Exiles – the films of Jerzy Skolimowski_ season curator Michael Brooke.  Michael is a freelance writer and multimedia producer specialising in British and central/eastern European cinema. A regular contributor to _Sight and Sound_ and BFI DVD releases, he has also produced and/or contributed to numerous acclaimed DVD and  
 Blu-ray releases of the work of Walerian Borowczyk, Krzysztof Kieślowski and Andrzej Wajda for various UK-based video labels.
 
-Since picking up the Jury Prize at Cannes last year, Jerzy Skolimowski’s latest, arguably most beautiful film, _Eo_, describing the eventful life of a donkey travelling from Poland to Italy, has been garlanded by other festivals and nominated for an Oscar. Fitting acclaim for an 84-year-old Polish director who after achieving great prestige in the 1960s was forced into exile, where he succeeded in making at least three outstanding films – _Deep End_ (1970),  
-_The Shout_ (1978) and _Moonlighting_ (1982). Abandoning cinema for 17 years to be a painter, he eventually returned to Poland and began a close collaboration with his second wife, Ewa Piaskowska, co-writing and co-producing films – four of them to date, including another major prize-winner, _Essential Killing_ (2010), in which Vincent Gallo played an Afghan prisoner escaping rendition in Poland and struggling to survive the ferocious local winter. His character was, as Skolimowski described him when I met the director at the time, a man reduced to becoming an animal.
+Since picking up the Jury Prize at Cannes last year, Jerzy Skolimowski’s latest, arguably most beautiful film, _Eo_, describing the eventful life of a donkey travelling from Poland to Italy, has been garlanded by other festivals and nominated for an Oscar. Fitting acclaim for an 84-year-old Polish director who after achieving great prestige in the 1960s was forced into exile, where he succeeded in making at least three outstanding films – _Deep End_ (1970),  _The Shout_ (1978) and _Moonlighting_ (1982). Abandoning cinema for 17 years to be a painter, he eventually returned to Poland and began a close collaboration with his second wife, Ewa Piaskowska, co-writing and co-producing films – four of them to date, including another major prize-winner, _Essential Killing_ (2010), in which Vincent Gallo played an Afghan prisoner escaping rendition in Poland and struggling to survive the ferocious local winter. His character was, as Skolimowski described him when I met the director at the time, a man reduced to becoming an animal.
 
 In _Eo_, an animal now takes centre stage. Meeting again with the still strikingly youthful Skolimowski at last year’s BFI London Film Festival, I found him fully retaining the independent spirit and wry humour that infuses his films. Freely sharing his thoughts with Piaskowska, he explained to me in his heavily accented, slightly eccentric English how _Eo_ first took shape. The prolonged schedule (26 months in all) [due to Covid] obliged Skolimowski to use not only six donkeys but three cinematographers (mainly Michael Dymek, but also Paweł Edelman and Michael Englert). However, it is hard to detect any obvious change in style, so daring and fluid is their work, the camera often floating over landscapes or taking us deep into the donkey’s point of view. ‘I gave them a total freedom; I encouraged them to go as far as they could, experimenting with lenses and crazy camera movements, doing some extravagant shots, as much as they could to be unorthodox.’
 
@@ -23,8 +22,7 @@ I wrote 25 pages. I gave them to him in the morning, and that was exactly _Innoc
 
 As the subject matter of his first films was his own generation, dealing with their hopes and anxieties, Skolimowski continued to take roles in his own films. For many, his face may be more familiar than his filmography, as he has been called upon to act by many leading directors – in Volker Schlöndorff’s _Circle of Deceit_ (1981), Taylor Hackford’s _White Nights_ (1985), David Cronenberg’s _Eastern Promises_ (2007) and more recently even for Marvel. ‘You know, this is the easiest money I’ve ever earned! I’m a very disciplined actor, I always hit the marks, I know my lines perfectly, I’m a dream actor for directors, because I understand what they want and I’m not pushy with my ideas. Of course, I have my limits because of my accent and my Slav face.’
 
-The four features Skolimowski made in Poland in the 60s are all tours de force of direction, hugely inventive in terms of framing, movement and editing. In _Walkover_ (1965), he expanded the idea of long takes to make the film in  
-26 shots, with sequences happening virtually in real time. _Barrier_ (1966), the poetic masterpiece of this period, begins with a bizarre game played by a group of medical students, one of whom falls for a tram driver (played by Joanna Szczerbic, who became the director’s first wife). The influence of Italian cinema permeates the film, and by now Skolimowski was established as a key name among the various ‘new waves’ sprouting up all over the world.
+The four features Skolimowski made in Poland in the 60s are all tours de force of direction, hugely inventive in terms of framing, movement and editing. In _Walkover_ (1965), he expanded the idea of long takes to make the film in  26 shots, with sequences happening virtually in real time. _Barrier_ (1966), the poetic masterpiece of this period, begins with a bizarre game played by a group of medical students, one of whom falls for a tram driver (played by Joanna Szczerbic, who became the director’s first wife). The influence of Italian cinema permeates the film, and by now Skolimowski was established as a key name among the various ‘new waves’ sprouting up all over the world.
 
 Skolimowski’s international status gave him the chance to make a film in Belgium, _Le Départ_ (1967), with Jean-Pierre Léaud. By his own admission, speaking foreign languages is not his forte, but Skolimowski’s visual sense and directing actors through example saw him through. The film has a brilliant jazz soundtrack, the creation of Krzysztof Komeda, also famous for his work on Polanski’s early films. ‘I was practically a jazz groupie, and jazz was the underground music in Poland, you were not allowed to play it. The particular group I followed was Krzysztof Komeda’s sextet and I became friends with them.’ Komeda soon became Skolimowski’s composer of choice. ‘The technique I developed with Komeda was that I was showing him a very rough cut of the film, without the full soundtrack, not all the dialogue or even effects, and he encouraged me to produce the sounds of my emotions. We were close friends so I wasn’t embarrassed or shy, I was just making sounds.’
 
@@ -161,5 +159,5 @@ d. Renzo Martinelli) as King Jan III Sobieski
 
 **2023 The Palace** (Italy/Switzerland/Poland, d. Roman Polanski)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NjMzOTQ5OCwtMTE3ODUxOTQ4XX0=
+eyJoaXN0b3J5IjpbLTc2NDEyNjE2MywtMTE3ODUxOTQ4XX0=
 -->
