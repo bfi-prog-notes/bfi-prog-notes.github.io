@@ -6,7 +6,7 @@ date: 2023-03-31
 readtime: true
 categories: ['NEW RELEASES']
 tags: [Drama]
-metadata: ' Ireland/UK/USA 2022, 100 mins<br> Directors: Saela Davis,  Anna Rose Holmer'
+metadata: ' Ireland/UK/USA 2022, 100 mins<br> Directors: Saela Davis, Anna Rose Holmer'
 pdf: '2023-03-31-gods-creatures.pdf'
 ---
 
