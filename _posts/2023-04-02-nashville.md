@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: Music, [Drama, Comedy]
 metadata: 'USA 1975, 160 mins<br> Director: Robert Altman'
-pdf: '2023-04-02-nas.pdf'
+pdf: '2023-04-02-nashville.pdf'
 ---
 
 One afternoon in the mid-1970s, I bunked off studies to catch the first screening at the local arts cinema of an American movie set in the capital of country music. After nearly three hours in the cinema, I emerged into the daylight persuaded that the hype – kick-started when the _New Yorker_’s Pauline Kael, writing about a rough cut she’d seen, raved about ‘an orgy for movie lovers’ and ‘the funniest epic vision of America’ – was for once thoroughly deserved.
@@ -163,5 +163,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjQwODI2NV19
+eyJoaXN0b3J5IjpbLTc3OTg5NTYyOV19
 -->
