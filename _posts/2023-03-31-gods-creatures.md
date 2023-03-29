@@ -1,4 +1,14 @@
-<![endif]-->
+---
+layout: post
+title: God's Creatures
+published: true
+date: 2023-03-31
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: ' Ireland/UK/USA 2022, 100 mins<br> Director: Raine Allen-Miller'
+pdf: '2023-03-27-rye-lane.pdf'
+---
 
 This gripping and atmospheric Irish psychological drama asks how far you might go to protect someone you love, even if they were accused of something unforgiveable. In a windswept fishing town on the Irish coast, factory worker Aileen’s days are brightened when, out of the blue, her prodigal son Brian returns home, after seven long years living abroad. However, her joy is cut short when one of her co-workers accuses Brian of sexual assault, creating divisions in the town’s close-knit community and within Aileen herself.
 
@@ -112,5 +122,5 @@ Ireland/UK/USA 2022
 
 A BFI release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTQ3MTU1NF19
+eyJoaXN0b3J5IjpbNzY4NDk5MDAzXX0=
 -->
