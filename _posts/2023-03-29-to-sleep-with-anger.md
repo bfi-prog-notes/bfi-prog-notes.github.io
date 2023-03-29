@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'USA 1990, 102 mins<br> Director: Charles Burnett'
-pdf: '2023-03-28-to-sleep-with-anger.pdf'
+pdf: '2023-03-29-to-sleep-with-anger.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
@@ -57,7 +57,7 @@ Senegal/France 1963
 
 **TO SLEEP WITH ANGER**  
 _Director:_ Charles Burnett  
-©_/Production Company:_ SVS, Inc.  
+_©/Production Company:_ SVS, Inc.  
 _Executive Producers:_ Edward R. Pressman, Danny Glover,
 Harris E. Tulchin  
 _Producers:_ Caldecot Chubb, Thomas S. Byrnes, Darin Scott  
