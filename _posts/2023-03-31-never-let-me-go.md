@@ -1,5 +1,5 @@
 
-<![endif]-->
+
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -23,88 +23,48 @@ The constrained or skewed consciousness is the thread that unites Romanek’s th
 
 Taking his lead from Ishiguro (who was born in Japan but brought up in England after his parents moved here), Romanek prepared by (re-)exposing himself to post-war Japanese cinema – Naruse, Ozu – ‘because if you overlaid that on to a very British story, it would give it a very Ishiguro tone.’ It’s a piece of recontextualisation that recalls his Satellite years [Satellite Films – a division of Propaganda, the production house Romanek cofounded by David Fincher], but that – given the story deals with universal themes – makes one wonder whether it needed to be filmed in England at all. Romanek, however, sees an inherently British angle to the story. ‘There is something about dealing with such big, universal themes in a restrained and understated manner that is – to generalise – a British type of sensibility,’ he points out. ‘I’ve worked here several times, and had an affinity for the place. I had the advantage of being an outsider. I also had a lot of help – I was surrounded by British people who told me when I was veering off course.’
 
-Romanek’s England in _Never Let Me Go_, successfully meshed with Ishiguro’s, is an estranged vision of a country that itself veered off; but rather than offering a warning about what we might accept, it’s a parable about what we already do.
+Romanek’s England in _Never Let Me Go_, successfully meshed with Ishiguro’s, is an estranged vision of a country that itself veered off; but rather than offering a warning about what we might accept, it’s a parable about what we already do.  
+**Mark Romanek interviewed by Henry K. Miller, _Sight and Sound_, March 2011**  
 
-**Mark Romanek interviewed by Henry K. Miller, _Sight and Sound_, March 2011**
-
-**NEVER LET ME GO**
-
-_Directed by:_ Mark Romanek
-
-_©:_ Twentieth Century Fox Film Corporation, Dune Entertainment III LLC
-
-_A_ DNA Films _production_
-
-_Made in association with:_ Dune Entertainment
-
-_Presented by:_ Fox Searchlight Pictures
-
-_For:_ DNA Films, Film4
-
-_Executive Producers:_ Alex Garland, Kazuo Ishiguro, Tessa Ross
-
-_Produced by:_ Andrew Macdonald, Allon Reich
-
-_Co-producer:_ Richard Hewitt
-
-_Associate Producer:_ Joanne Smith
-
-_For DNA Films: Development Executive:_ Tanya Phegan
-
-_For Film4: Head of Production:_ Tracey Josephs; _Head of Business Affairs:_ Paul Grindey
-
-_Production Manager:_ Donald Sabourin
-
-_Production Co-ordinator:_ Layla Mall
-
-_Production Accountant:_ Linda Gregory
-
-_Unit Manager:_ John Crampton
-
-_Supervising Location Manager:_ Jonah Coombes
-
+**NEVER LET ME GO**  
+_Directed by:_ Mark Romanek  
+_©:_ Twentieth Century Fox Film Corporation, Dune Entertainment III LLC  
+_A_ DNA Films _production_  
+_Made in association with:_ Dune Entertainment  
+_Presented by:_ Fox Searchlight Pictures  
+_For:_ DNA Films, Film4  
+_Executive Producers:_ Alex Garland, Kazuo Ishiguro, Tessa Ross  
+_Produced by:_ Andrew Macdonald, Allon Reich  
+_Co-producer:_ Richard Hewitt  
+_Associate Producer:_ Joanne Smith  
+_For DNA Films: Development Executive:_ Tanya Phegan  
+_For Film4: Head of Production:_ Tracey Josephs; _Head of Business Affairs:_ Paul Grindey  
+_Production Manager:_ Donald Sabourin  
+_Production Co-ordinator:_ Layla Mall  
+_Production Accountant:_ Linda Gregory  
+_Unit Manager:_ John Crampton  
+_Supervising Location Manager:_ Jonah Coombes  
 _Location Manager:_ Josh Yudkin
-
 _Scotland Unit Location Manager:_ Lloret Dunn
-
 _Location Scouts:_ Helene Lenszer, Asha Sharma
-
 _Post-production Supervisor:_ Clare St John
-
 _1st Assistant Director:_ Lee Grumett
-
 _2nd Assistant Director:_ Jo Tew
-
 _2nd Assistant Director: Crowd:_ Sarah Macfarlane
-
 _3rd Assistant Director:_ Carley Lane
-
 _Scotland Unit 3rd Assistant Director:_ Carol Anne Henderson
-
 _Script Supervisor:_ Diana Dill
-
 _Casting by:_ Kate Dowd
-
 _Screenplay by:_ Alex Garland
-
 _Based on the novel by:_ Kazuo Ishiguro
-
 _Cinematography by:_ Adam Kimmel
-
 _B Camera Operators:_ Julian Morson, Peter Cavaciuti
-
 _Steadicam:_ Julian Morson, Peter Cavaciuti
-
 _Gaffer:_ John Colley
-
 _Scotland Unit Gaffer:_ Steve Arthurs
-
 _Rigging Gaffer:_ Vince Madden
-
 _Video Assist:_ John Paxton
-
 _Stills Photographer:_ Alex Bailey
-
 _Visual Effects by:_ Baseblack (_Visual Effects Supervisor:_ Matthew Twyford; _Visual Effects Executive Producer:_ Stephen Elson; _Visual Effects Producer:_ Kate Phillips; _Visual Effects Co-ordinator:_ Mark Webb)
 _Special Effects Supervisor:_ Sam Conway
 _Special Effects Technicians:_ Mark White, Chris Giles, Terry Palmer
@@ -181,5 +141,5 @@ Chidi Chickwe _(George)_
 UK/USA 2010©
 105 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMDUzMDMxXX0=
+eyJoaXN0b3J5IjpbLTE2MzkxNzM2NzBdfQ==
 -->
