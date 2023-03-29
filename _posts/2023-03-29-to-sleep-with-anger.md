@@ -97,62 +97,62 @@ _Hair Stylist:_ Ken Walker
 _Hair Stylist Assistant:_ Danny Irby  
 _Titles/Opticals:_ Cinema Research Corporation  
 _Music:_ Stephen James Taylor  
-_Trumpet:_ Ramon Flores 
-_Drums:_ Willie Ornelas
-_Bass:_ Jim Lacefield
-_Keyboards:_ Dave Loeb
-_Guitar/Harmonica:_ Stephen James Taylor
-_Violins:_ Sid Page, Charles Veal, Pat Johnson, Jennifer Johnson
-_Violas:_ Carol Castillo, Hershel Wise
-_Cellos:_ Larry Corbett, Dane Little
-_Music Supervisor:_ Budd Carr
-_Music Editor:_ Jeff Charbonneau
-_Choreography:_ Gaye Shannon-Burnett
-_Sound Mixer:_ Veda Campbell
-_Supervising Engineer:_ Gerry Lentz
-_Post Sound Supervisors:_ Patrick M. Griffith, Ellen Heuer
-_Re-recording Mixers:_ Ken Polk, Ken Teaney
-_Dialogue Editors:_ Joe Mayer, Terri Fiyalko
-_Sound Effects Dialogue:_ Lew Goldstein
-_ADR Recordist:_ Rob Luna
-_Foley Artists:_ Joan Rowe, Catherine Rowe
-_Foley Recordist:_ Rody Hassano
-_Unit Publicist:_ Skye Dent
+_Trumpet:_ Ramon Flores  
+_Drums:_ Willie Ornelas  
+_Bass:_ Jim Lacefield  
+_Keyboards:_ Dave Loeb  
+_Guitar/Harmonica:_ Stephen James Taylor  
+_Violins:_ Sid Page, Charles Veal, Pat Johnson, Jennifer Johnson  
+_Violas:_ Carol Castillo, Hershel Wise  
+_Cellos:_ Larry Corbett, Dane Little  
+_Music Supervisor:_ Budd Carr  
+_Music Editor:_ Jeff Charbonneau  
+_Choreography:_ Gaye Shannon-Burnett  
+_Sound Mixer:_ Veda Campbell  
+_Supervising Engineer:_ Gerry Lentz  
+_Post Sound Supervisors:_ Patrick M. Griffith, Ellen Heuer  
+_Re-recording Mixers:_ Ken Polk, Ken Teaney  
+_Dialogue Editors:_ Joe Mayer, Terri Fiyalko  
+_Sound Effects Dialogue:_ Lew Goldstein  
+_ADR Recordist:_ Rob Luna  
+_Foley Artists:_ Joan Rowe, Catherine Rowe  
+_Foley Recordist:_ Rody Hassano  
+_Unit Publicist:_ Skye Dent  
 
-**Cast**
-Danny Glover _(Harry Mention)_
-Paul Butler _(Gideon)_
-Mary Alice _(Suzie)_
-Carl Lumbly _(Junior)_
-Vonetta McGee _(Pat)_
-Richard Brooks _(Babe Brother)_
-Sheryl Lee Ralph _(Linda)_
-Ethel Ayler _(Hattie)_
-Julius Harris _(Herman)_
-Sy Richardson _(Marsh)_
-Davis Roberts _(Okra Tate)_
-DeVaughn Walter Nixon _(Sunny)_
-Reina King _(Rhonda)_
-Cory Curtis _(Skip)_
-Paula Bellamy _(Mrs Baker)_
-Wonderful Smith _(preacher)_
-DeForest Coven _(Fred Jenkins)_
-John Hawker _(MC)_
-Irvin Jr. Mosley _(William Norwood)_
-Marguerite Ray _(Loviray Norwood)_
-Rai Tasco _(Phil)_
-Lorrie Marlow _(Cherry Bell)_
-Jimmy Witherspoon _(Percy)_
-Carnetta Jones _(woman in labour)_
-Christina Harley _(nurse)_
-James Grayer _(man at hospital)_
-Robin Scholer _(ER nurse)_
-Mark Phelan, Robert Terry Lee _(paramedics)_
-Greta Brown _(Virginia)_
-Sip Culler _(neighbour)_
+**Cast**  
+Danny Glover _(Harry Mention)_  
+Paul Butler _(Gideon)_  
+Mary Alice _(Suzie)_  
+Carl Lumbly _(Junior)_  
+Vonetta McGee _(Pat)_  
+Richard Brooks _(Babe Brother)_  
+Sheryl Lee Ralph _(Linda)_  
+Ethel Ayler _(Hattie)_  
+Julius Harris _(Herman)_  
+Sy Richardson _(Marsh)_  
+Davis Roberts _(Okra Tate)_  
+DeVaughn Walter Nixon _(Sunny)_  
+Reina King _(Rhonda)_  
+Cory Curtis _(Skip)_  
+Paula Bellamy _(Mrs Baker)_  
+Wonderful Smith _(preacher)_  
+DeForest Coven _(Fred Jenkins)_  
+John Hawker _(MC)_  
+Irvin Jr. Mosley _(William Norwood)_  
+Marguerite Ray _(Loviray Norwood)_  
+Rai Tasco _(Phil)_  
+Lorrie Marlow _(Cherry Bell)_  
+Jimmy Witherspoon _(Percy)_  
+Carnetta Jones _(woman in labour)_  
+Christina Harley _(nurse)_  
+James Grayer _(man at hospital)_  
+Robin Scholer _(ER nurse)_  
+Mark Phelan, Robert Terry Lee _(paramedics)_  
+Greta Brown _(Virginia)_  
+Sip Culler _(neighbour)_  
 
-USA 1990©
-102 mins
+USA 1990©  
+102 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTgwODAwMSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1Mjg1MDMxOTcsNzMwOTk4MTE2XX0=
 -->
