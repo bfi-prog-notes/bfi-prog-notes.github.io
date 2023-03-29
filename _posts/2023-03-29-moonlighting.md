@@ -10,9 +10,180 @@ Throughout the film, in fact, Skolimowski puts naturalistic detail to formal use
 
 Extremely funny in its account of Nowak’s running battle with English manners and customs (‘I can speak their language,’ he mournfully complains, ‘but I don’t really know what they mean’), where he invariably manages to turn misunderstandings to good account, even funnier in its observation of the deadpan skill with which Nowak pulls the wool over suspicious eyes in becoming a master shoplifter, _Moonlighting_ is exemplary in the way it gradually expands Nowak’s duplicity in everything he does to a more general application. At first, all one has to hang on to is the fact that he is not (by his own admission) a member of Solidarity, and that he is merely a catspaw for a mysterious boss able to finagle foreign currency for imperialist living standards in a manner hardly consonant with party ideology. But once in London – at the same precariously safe distance from HQ as Warsaw from Moscow – he is able to exercise a certain autonomy; and his policy of duplicity, however well-intentioned, is gradually exposed as a declaration of bankruptcy in the successive stages of his ‘regime’. First a rude attempt to assert authority (no smoking, no noise), then a gesture of conciliation (the purchase of the TV set), a reluctant admission of fallibility (‘It’s not true I always fail; I’ll show them!’), a time of desperate measures (advancing the clock to persuade the weary workers that they have slept well), a confession of failure (‘I thought I could control these men, but I’m weaker than they are’), and finally abject collapse in the face of rebellion (‘They don’t want to be told what to do any more. Let them try’).
 
-A remarkable film, _Moonlighting_ is all the more remarkable in that this parable never interferes with its character conflicts or its sly humour, and certainly never becomes anything so overt as a message; while its sharp-tongued satire, taking its cue from Jeremy Irons’ superlative portrayal of well-meaning bafflement, is constructively compassionate not destructively mocking.
-
+A remarkable film, _Moonlighting_ is all the more remarkable in that this parable never interferes with its character conflicts or its sly humour, and certainly never becomes anything so overt as a message; while its sharp-tongued satire, taking its cue from Jeremy Irons’ superlative portrayal of well-meaning bafflement, is constructively compassionate not destructively mocking.  
 **Tom Milne, _Monthly Film Bulletin_, September 1982**
+
+<![endif]-->
+
+**MOONLIGHTING**
+
+_Directed by:_ Jerzy Skolimowski
+
+©: Michael White Limited
+
+_Presented by:_ Michael White
+
+_Moonlighting was developed with the  
+assistance of:_ N.F.D.F.
+
+_Produced by:_ Mark Shivas, Jerzy Skolimowski
+
+_Associate Producer:_ Michael Guest
+
+_Production Accountant:_ Michael Brent
+
+_Location Manager:_ Rufus Andrews
+
+_Production Assistant:_ Lorraine Fennell
+
+_Runner:_ Nikolas Korda
+
+_1st Assistant Director:_ Peter Cotton
+
+_2nd Assistant Director:_ Nicholas Daubeny
+
+_3rd Assistant Director:_ Rod Lomax
+
+_Continuity:_ Pat Rambaut
+
+_Casting:_ Debbie McWilliams
+
+_Original Screenplay by:_ Jerzy Skolimowski
+
+_Script Assistance by:_ Barrie Vince,
+
+Boleslaw Sulik, Danuta Stok, Witold Stok
+
+_Director of Photography:_ Tony Pierce Roberts
+
+_Camera Operator:_ Jimmy Stilwell
+
+_Camera Focus:_ Barry Brown
+
+_Follow Focus, 2nd Camera:_ Cedric James *
+
+_Gaffer Electrician:_ Laurie Shane
+
+_Stills Photographers:_ Murray Tulip Close,  
+David Farrell
+
+_Special Effects Supervisor:_ Roy Whybrow
+
+_Editor:_ Barrie Vince
+
+_Assistant Editors:_ Michael Connell,  
+Andrew Stears, Jacques Leroide
+
+_Production Designer:_ Tony Woollard
+
+_Assistant Art Director:_ Peter Young
+
+_Production Buyer:_ Roma Aplin
+
+_Prop Master:_ Brian Gamby
+
+_Construction Manager:_ Bill Simpson
+
+_Costumes by:_ Jane Robinson
+
+_Wardrobe Mistress:_ Masada Wilmot
+
+_Make-up Artist:_ Sheila Thomas
+
+_Hairdresser:_ Marsha Lewis
+
+_Titles by:_ Advance Film Promotions
+
+_Film Processing by:_ Rank Film Laboratories
+
+_Music Composed by:_ Stanley Myers
+
+_Electronics by:_ Hans Zimmer
+
+_Sound Mixer:_ David Stevenson
+
+_Sound Assistant:_ Michael Tucker
+
+_Re-recorded at:_ World Wide Sound
+
+_Dubbing Mixer:_ Richard King
+
+_Dubbing Editor:_ Alan Bell
+
+_The producers would like to thank:_ Aquascutum
+
+_Publicist:_ Allen Burry
+
+_Camera Equipment by:_ Joe Dunton (Cameras) Ltd.
+
+_Lighting Equipment by:_ Lee Electric (Lighting) Ltd.
+
+_Cast:_
+
+Jeremy Irons _(Nowak)_
+
+Eugene Lipinski _(Banaszak)_
+
+Jiri Stanislaw _(Wolski)_
+
+Eugeniusz Haczkiewicz _(Kudaj)_
+
+Dorothy Zienciowska _(Lot Airline girl)_
+
+Edward Arthur _(immigration officer)_
+
+Denis Holmes _(neighbour)_
+
+Renu Setna _(junk shop owner)_
+
+David Calder _(supermarket manager)_
+
+Judy Gridley _(supermarket supervisor)_
+
+Claire Toeman _(supermarket cashier)_
+
+Catherine Harding _(lady shoplifter)_
+
+Jill Johnson _(haughty supermarket customer)_
+
+David Squire _(supermarket assistant)_
+
+Mike Sarne _(builder’s merchant)_
+
+Lucy Hornak, Robyn Mandell  
+_(Wrangler shop assistants)_
+
+Ann Tirard _(lady in telephone box)_
+
+Christopher Logue _(workman)_
+
+Hugh Harper _(newspaper boy)_
+
+Julia Chambers _(chemist’s assistant)_
+
+Fred Lee Own _(Chinese man)_
+
+Kenny Ireland _(timber man)_
+
+Trevor Cooper, Iain Ormsby-Knox _(hire shop men)_
+
+David Gant _(Aquascutum assistant)_
+
+Jennifer Landor _(Aquascutum shoplifter)_
+
+Jenny Seagrove _(Anna)_
+
+Jerzy Skolimowski _(boss)_
+
+Ian McCulloch _(boss lookalike)_
+
+Laura Frances Hart _(the lookalike boss’ woman)_
+
+UK 1982©
+
+97 mins
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODA3MTY2OV19
+eyJoaXN0b3J5IjpbMTA3NzkwNzkzM119
 -->
