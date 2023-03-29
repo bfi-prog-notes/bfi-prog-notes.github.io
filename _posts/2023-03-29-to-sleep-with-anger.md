@@ -1,11 +1,10 @@
 
-<![endif]-->
+
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
-Charles Burnett’s intriguing mix of melodrama and allegorical fable has a seemingly happy middle-class African-American family living in Los Angeles visited by an old friend (Glover) from the South – a somewhat mysterious charmer whose presence proves disruptive for his hosts. Exploring the discrepancies of past and present, Christianity and mysticism, tradition and modernity, the film is at once enigmatic, thought-provoking and witty.
-
-**bfi.org.uk**
+Charles Burnett’s intriguing mix of melodrama and allegorical fable has a seemingly happy middle-class African-American family living in Los Angeles visited by an old friend (Glover) from the South – a somewhat mysterious charmer whose presence proves disruptive for his hosts. Exploring the discrepancies of past and present, Christianity and mysticism, tradition and modernity, the film is at once enigmatic, thought-provoking and witty.  
+**bfi.org.uk**  
 
   
 In Charles Burnett’s films, you always have to keep an eye on the kids, who are rarely main characters but play pivotal roles nonetheless. Consider his brilliant debut _Killer of Sheep_ (1977), a neorealism-inspired drama of everyday life in LA’s predominantly African-American Watts district. Its unforgettable first scene depicts a small, cowed-looking boy being lectured by a stern off-screen father-figure on the importance of fighting back against bullies in order to be a real man. After this bracing opening, we don’t see this moon-eyed lad again – we never even find out who he is – but the point is sharp enough: innocence rarely lasts long for black children in this impoverished suburb, scarred by residential segregation, racist police brutality and the violent uprisings of 1965. In the rest of _Killer of Sheep_, children – playful sprites full of hope and humour – pepper the landscape. They are poignant counterpoints to the drudgery-stricken adults; funhouse mirrors of their own sad futures.
@@ -29,10 +28,10 @@ With a whole string of superb performances, dialogue that manages the difficult 
 **Tom Milne, _Monthly Film Bulletin_, March 1991**  
 
 **Borom Sarret**  
-Sembene’s classic short – one of the first African films made by an indigenous director – looks at the life of a cart-driver in Dakar; many of his customers are as poor as he is, while others are happy to take advantage of Senegal’s colonial heritage. Both script and direction are characteristically direct and truthful, while allowing for poetic resonance and telling irony.
+Sembene’s classic short – one of the first African films made by an indigenous director – looks at the life of a cart-driver in Dakar; many of his customers are as poor as he is, while others are happy to take advantage of Senegal’s colonial heritage. Both script and direction are characteristically direct and truthful, while allowing for poetic resonance and telling irony.  
 **bfi.org.uk**  
 
-**BOROM SARRET**
+**BOROM SARRET**  
 _Director_: Ousmane Sembène  
 _Production Companies_: Filmi Doomireew, Actualités Françaises  
 _With the participation of_: Ministère de la Coopération  
@@ -40,65 +39,65 @@ _Producer_: Ousmane Sembène
 _Assistant Director_: Ibrahima Barro  
 _Written by_: Ousmane Sembène  
 _Photography_: Christian Lacoste  
-_Editor_: André Gaudier
+_Editor_: André Gaudier  
 
-**Cast**
-Ly Abdoulaye _(wagoner)_
+**Cast**  
+Ly Abdoulaye _(wagoner)_  
 
-Senegal/France 1963
-18 mins
+Senegal/France 1963  
+18 mins  
 
-**TO SLEEP WITH ANGER**
-_Director:_ Charles Burnett
-©_/Production Company:_ SVS, Inc.
+**TO SLEEP WITH ANGER**  
+_Director:_ Charles Burnett  
+©_/Production Company:_ SVS, Inc.  
 _Executive Producers:_ Edward R. Pressman, Danny Glover,
-Harris E. Tulchin
-_Producers:_ Caldecot Chubb, Thomas S. Byrnes, Darin Scott
-_Associate Producers:_ Michael Flynn, Linda Koulisis
-_Production Executives (SVS):_ Michael Holzman, Jeffrey Ringler
-_Production Auditor:_ Todd Grove
-_Post-production Auditor:_ Lisa Mashburn
-_Supervising Production Co-ordinator:_ Alan Gershenfeld
-_Production Co-ordinator:_ James Beaton III
-_Production Manager:_ Susan Stremple
-_Location Manager:_ Earl West
-_Location Consultant:_ Kasey Jones
-_Post-production Supervisor:_ Carol Munday Lawrence
-_1st Assistant Director:_ Jonathan Meisler
-_2nd Assistant Directors:_ Kris Krengel, Sati Jamal
-_2nd 2nd Assistant Director:_ Stacey Matthew
-_Script Supervisor:_ Catherine Jelski
-_Casting Directors:_ Gail Levin, Lauren Lloyd
-_Extras Casting:_ Superior Casting
-_Casting Assistant:_ Kimberly Hardin
-_Screenplay:_ Charles Burnett
-_Director of Photography:_ Walt Lloyd
-_Additional Photography:_ John Simmons
-_1st Assistant Camera:_ Tom Yatsko
-_2nd Assistant Camera:_ Gregory Daniels
-_Key Grip:_ Tom Harjo
-_Dolly Grip:_ T.C. Eachus
-_Best Boy Grip:_ Joseph Thompson
-_Gaffer:_ Dino Parks
-_Best Boy:_ Barbara Kallir
-_Electrician:_ Willie E. Dawkins
-_Stills Photography:_ Glenn S. Capers
-_Editor:_ Nancy Richardson
-_Assistant Editors:_ Christi Moore, Plummy Tucker, Larry Moten
-_Production Designer:_ Penny Barrett
-_Art Director:_ Troy Myers
-_Set Dressers:_ Mia Ambrester, Rita Moshier
-_Prop Master:_ Joel Leroy Carter
-_Costume Designer:_ Gaye Shannon-Burnett
-_Wardrobe Supervisor:_ Joy Shannon
-_Wardrobe Assistants:_ Christina Harley, Diane Girskis, Donna Forbes, Bobbi Almoite
-_Key Make-up Artist:_ Diane Hammond
-_Make-up Assistant:_ Alvechia Ewing
-_Hair Stylist:_ Ken Walker
-_Hair Stylist Assistant:_ Danny Irby
-_Titles/Opticals:_ Cinema Research Corporation
-_Music:_ Stephen James Taylor
-_Trumpet:_ Ramon Flores
+Harris E. Tulchin  
+_Producers:_ Caldecot Chubb, Thomas S. Byrnes, Darin Scott  
+_Associate Producers:_ Michael Flynn, Linda Koulisis  
+_Production Executives (SVS):_ Michael Holzman, Jeffrey Ringler  
+_Production Auditor:_ Todd Grove  
+_Post-production Auditor:_ Lisa Mashburn  
+_Supervising Production Co-ordinator:_ Alan Gershenfeld  
+_Production Co-ordinator:_ James Beaton III  
+_Production Manager:_ Susan Stremple  
+_Location Manager:_ Earl West  
+_Location Consultant:_ Kasey Jones  
+_Post-production Supervisor:_ Carol Munday Lawrence  
+_1st Assistant Director:_ Jonathan Meisler  
+_2nd Assistant Directors:_ Kris Krengel, Sati Jamal  
+_2nd 2nd Assistant Director:_ Stacey Matthew  
+_Script Supervisor:_ Catherine Jelski  
+_Casting Directors:_ Gail Levin, Lauren Lloyd  
+_Extras Casting:_ Superior Casting  
+_Casting Assistant:_ Kimberly Hardin  
+_Screenplay:_ Charles Burnett  
+_Director of Photography:_ Walt Lloyd  
+_Additional Photography:_ John Simmons  
+_1st Assistant Camera:_ Tom Yatsko  
+_2nd Assistant Camera:_ Gregory Daniels  
+_Key Grip:_ Tom Harjo  
+_Dolly Grip:_ T.C. Eachus  
+_Best Boy Grip:_ Joseph Thompson  
+_Gaffer:_ Dino Parks  
+_Best Boy:_ Barbara Kallir  
+_Electrician:_ Willie E. Dawkins  
+_Stills Photography:_ Glenn S. Capers  
+_Editor:_ Nancy Richardson  
+_Assistant Editors:_ Christi Moore, Plummy Tucker, Larry Moten  
+_Production Designer:_ Penny Barrett  
+_Art Director:_ Troy Myers  
+_Set Dressers:_ Mia Ambrester, Rita Moshier  
+_Prop Master:_ Joel Leroy Carter  
+_Costume Designer:_ Gaye Shannon-Burnett  
+_Wardrobe Supervisor:_ Joy Shannon  
+_Wardrobe Assistants:_ Christina Harley, Diane Girskis, Donna Forbes, Bobbi Almoite  
+_Key Make-up Artist:_ Diane Hammond  
+_Make-up Assistant:_ Alvechia Ewing  
+_Hair Stylist:_ Ken Walker  
+_Hair Stylist Assistant:_ Danny Irby  
+_Titles/Opticals:_ Cinema Research Corporation  
+_Music:_ Stephen James Taylor  
+_Trumpet:_ Ramon Flores 
 _Drums:_ Willie Ornelas
 _Bass:_ Jim Lacefield
 _Keyboards:_ Dave Loeb
@@ -155,5 +154,5 @@ Sip Culler _(neighbour)_
 USA 1990©
 102 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDI5MzEzOCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTY4NTgwODAwMSw3MzA5OTgxMTZdfQ==
 -->
