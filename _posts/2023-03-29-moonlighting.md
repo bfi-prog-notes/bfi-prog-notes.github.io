@@ -40,121 +40,66 @@ _Gaffer Electrician:_ Laurie Shane<br>
 _Stills Photographers:_ Murray Tulip Close,  David Farrell<br>
 _Special Effects Supervisor:_ Roy Whybrow<br>
 _Editor:_ Barrie Vince<br>
-
-_Assistant Editors:_ Michael Connell,  
-Andrew Stears, Jacques Leroide<br>
-
+_Assistant Editors:_ Michael Connell,  Andrew Stears, Jacques Leroide<br>
 _Production Designer:_ Tony Woollard<br>
-
 _Assistant Art Director:_ Peter Young<br>
-
 _Production Buyer:_ Roma Aplin<br>
-
 _Prop Master:_ Brian Gamby<br>
-
 _Construction Manager:_ Bill Simpson<br>
-
 _Costumes by:_ Jane Robinson<br>
-
 _Wardrobe Mistress:_ Masada Wilmot<br>
-
 _Make-up Artist:_ Sheila Thomas<br>
-
 _Hairdresser:_ Marsha Lewis<br>
-
 _Titles by:_ Advance Film Promotions<br>
-
 _Film Processing by:_ Rank Film Laboratories<br>
-
 _Music Composed by:_ Stanley Myers<br>
-
 _Electronics by:_ Hans Zimmer<br>
-
 _Sound Mixer:_ David Stevenson<br>
-
 _Sound Assistant:_ Michael Tucker<br>
-
 _Re-recorded at:_ World Wide Sound<br>
-
 _Dubbing Mixer:_ Richard King<br>
-
 _Dubbing Editor:_ Alan Bell<br>
-
 _The producers would like to thank:_ Aquascutum<br>
-
 _Publicist:_ Allen Burry<br>
-
 _Camera Equipment by:_ Joe Dunton (Cameras) Ltd.<br>
-
 _Lighting Equipment by:_ Lee Electric (Lighting) Ltd.<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Jeremy Irons _(Nowak)_<br>
-
 Eugene Lipinski _(Banaszak)_<br>
-
 Jiri Stanislaw _(Wolski)_<br>
-
 Eugeniusz Haczkiewicz _(Kudaj)_<br>
-
 Dorothy Zienciowska _(Lot Airline girl)_<br>
-
 Edward Arthur _(immigration officer)_<br>
-
 Denis Holmes _(neighbour)_<br>
-
 Renu Setna _(junk shop owner)_<br>
-
 David Calder _(supermarket manager)_<br>
-
 Judy Gridley _(supermarket supervisor)_<br>
-
 Claire Toeman _(supermarket cashier)_<br>
-
 Catherine Harding _(lady shoplifter)_<br>
-
 Jill Johnson _(haughty supermarket customer)_<br>
-
 David Squire _(supermarket assistant)_<br>
-
 Mike Sarne _(builder’s merchant)_<br>
-
-Lucy Hornak, Robyn Mandell  
-_(Wrangler shop assistants)_<br>
-
+Lucy Hornak, Robyn Mandell  _(Wrangler shop assistants)_<br>
 Ann Tirard _(lady in telephone box)_<br>
-
 Christopher Logue _(workman)_<br>
-
 Hugh Harper _(newspaper boy)_<br>
-
 Julia Chambers _(chemist’s assistant)_<br>
-
 Fred Lee Own _(Chinese man)_<br>
-
 Kenny Ireland _(timber man)_<br>
-
 Trevor Cooper, Iain Ormsby-Knox _(hire shop men)_<br>
-
 David Gant _(Aquascutum assistant)_<br>
-
 Jennifer Landor _(Aquascutum shoplifter)_<br>
-
 Jenny Seagrove _(Anna)_<br>
-
 Jerzy Skolimowski _(boss)_<br>
-
 Ian McCulloch _(boss lookalike)_<br>
-
 Laura Frances Hart _(the lookalike boss’ woman)_<br>
 
 UK 1982©<br>
-
 97 mins<br>
 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjUxMDE5Ml19
+eyJoaXN0b3J5IjpbMTgzMTAyODY1OF19
 -->
