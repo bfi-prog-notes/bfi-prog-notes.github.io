@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: La Grande Illusion
+published: true
+date: 2023-04-01
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, War]
+metadata: 'France 1937, 113 mins<br> Director: Jean Renoir'
+pdf: '2023-04-01-grande-illusion.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -73,7 +83,6 @@ Habib Benglia _(Senegalese prisoner)_ *
 Claude Vernier _(Prussian officer)_ *  
 Michel Salina *  
 
-  
 France 1937  
 113 mins  
 
@@ -134,5 +143,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjEzMDk0OF19
+eyJoaXN0b3J5IjpbMTQ3OTIwMTYzOF19
 -->
