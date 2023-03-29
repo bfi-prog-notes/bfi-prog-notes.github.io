@@ -20,58 +20,58 @@ At one point, in voiceover, X speaks (apparently to A) of a corridor ‘through 
 In sum, after 50 years [in 2011] _Last Year in Marienbad_ remains no less suggestive and strange in its eerie approach to the condition of sculpture. In his essay ‘Notes on Gesture’, the Italian philosopher Giorgio Agamben has written that one of the functions of cinema in the 20th century was to rescue the realm of significant gesture that had been destroyed with the advent of technologies of speed and a slackening of ideas of public comportment. If that’s true, then for the most part film achieved this through action, in the meaningful arcs traced by bodies on screen, whether comical or tragic. But in _Marienbad_ everything stalls, and the history of human gesture returns, this time as shadows and ghosts among the statues.  
 **Brian Dillon, _Sight and Sound_, August 2011**  
 
-**LAST YEAR IN MARIENBAD (L’ANNÉE DERNIÈRE À MARIENBAD)**
-_Director:_ Alain Resnais
-_Production Companies:_ Terra Film (Paris), Société Nouvelle des Films Cormoran, Précitel, Como Films (Paris), Argos-Films, Les Films Tamara, Cinétel, Silver Films (Paris), Cineriz di Angelo Rizzoli
-_Producers:_ Pierre Courau, Raymond Froment
-_Unit Production Manager:_ Michel Choquet
-_Unit Manager:_ Jean-Jacques Lecot
-_Production Manager:_ Léon Sanz
-_Production Secretary:_ Janine Thaon
-_Assistant Director:_ Jean Léon
-_2nd Assistant Directors:_ Volker Schlöndorff, Florence Malraux
-_Script Supervisor:_ Sylvette Baudrot
-_Screenplay/Dialogue:_ Alain Robbe-Grillet
-_Director of Photography:_ Sacha Vierny
-_Camera Operator:_ Philippe Brun
-_Assistant Camera:_ Guy Delattre
-_2nd Assistant Camera:_ François Lauliac
-_Gaffer:_ Elie Fontanille
-_Key Grips:_ Louis Balthazard, René Stocki
-_Stills:_ Georges Pierre
-_Editors:_ Henri Colpi, Jasmine Chasney
-_Art Director:_ Jacques Saulnier
-_Assistant Art Directors:_ Georges Glon, André Piltant, Jean-Jacques Fabre
-_Set Decorator:_ Charles Mérangel
-_Ms Seyrig’s Two Feather Costumes by:_ Bernard Evein
-_Ms Seyrig’s Other Dresses:_ Chanel
-_Make-up Supervisor:_ Alex Marcus
-_Make-up:_ Éliane Marcus
-_Titles:_ Jean Fouchet
-_Music:_ Francis Seyrig
-_Organist:_ Marie Louise Girod
-_Music Director:_ André Girard
-_Sound:_ Guy Villette, Jean-Claude Marchetti, René Renault, Jean Nény, Robert Cambourakis
+**LAST YEAR IN MARIENBAD (L’ANNÉE DERNIÈRE À MARIENBAD)**  
+_Director:_ Alain Resnais  
+_Production Companies:_ Terra Film (Paris), Société Nouvelle des Films Cormoran, Précitel, Como Films (Paris), Argos-Films, Les Films Tamara, Cinétel, Silver Films (Paris), Cineriz di Angelo Rizzoli  
+_Producers:_ Pierre Courau, Raymond Froment  
+_Unit Production Manager:_ Michel Choquet  
+_Unit Manager:_ Jean-Jacques Lecot  
+_Production Manager:_ Léon Sanz  
+_Production Secretary:_ Janine Thaon  
+_Assistant Director:_ Jean Léon  
+_2nd Assistant Directors:_ Volker Schlöndorff, Florence Malraux  
+_Script Supervisor:_ Sylvette Baudrot  
+_Screenplay/Dialogue:_ Alain Robbe-Grillet  
+_Director of Photography:_ Sacha Vierny  
+_Camera Operator:_ Philippe Brun  
+_Assistant Camera:_ Guy Delattre  
+_2nd Assistant Camera:_ François Lauliac  
+_Gaffer:_ Elie Fontanille  
+_Key Grips:_ Louis Balthazard, René Stocki  
+_Stills:_ Georges Pierre  
+_Editors:_ Henri Colpi, Jasmine Chasney  
+_Art Director:_ Jacques Saulnier  
+_Assistant Art Directors:_ Georges Glon, André Piltant, Jean-Jacques Fabre  
+_Set Decorator:_ Charles Mérangel  
+_Ms Seyrig’s Two Feather Costumes by:_ Bernard Evein  
+_Ms Seyrig’s Other Dresses:_ Chanel  
+_Make-up Supervisor:_ Alex Marcus  
+_Make-up:_ Éliane Marcus  
+_Titles:_ Jean Fouchet  
+_Music:_ Francis Seyrig  
+_Organist:_ Marie Louise Girod  
+_Music Director:_ André Girard  
+_Sound:_ Guy Villette, Jean-Claude Marchetti, René Renault, Jean Nény, Robert Cambourakis  
 
-**Cast**
-Giorgio Albertazzi _(X)_
-Delphine Seyrig _(A)_
-Sacha Pitoëff _(M)_
-Françoise Bertin
-Luce Garcia-Ville
-Héléna Kornel
-Françoise Spira
-Karin Toeche-Mittler
-Pierre Barbaud
-Wilhelm Von Deek
-Jean Lanier
-Gérard Lorin
-Davide Montemurri
-Gilles Quéant
-Gabriel Werner
+**Cast**  
+Giorgio Albertazzi _(X)_  
+Delphine Seyrig _(A)_  
+Sacha Pitoëff _(M)_  
+Françoise Bertin  
+Luce Garcia-Ville  
+Héléna Kornel  
+Françoise Spira  
+Karin Toeche-Mittler  
+Pierre Barbaud  
+Wilhelm Von Deek  
+Jean Lanier  
+Gérard Lorin  
+Davide Montemurri  
+Gilles Quéant  
+Gabriel Werner  
 
-France/Italy 1961
-94 mins
+France/Italy 1961  
+94 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU0NDM2NzFdfQ==
+eyJoaXN0b3J5IjpbLTE1MDU2NTg5NjddfQ==
 -->
