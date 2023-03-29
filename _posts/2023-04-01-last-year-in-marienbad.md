@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Last Year in Marienbad
+published: true
+date: 2023-04-01
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama,]
+metadata: 'France/Italy 1961, 94 mins<br> Director: Alain Resnais'
+pdf: '2023-04-01-last.pdf'
+---
 
 ‘I am now quite prepared to claim that _Marienbad_ is the greatest film ever made, and to pity those who cannot see it.’ So wrote Jacques Brunius in _Sight and Sound_ in 1962, regarding ‘the film I had been waiting for during the last 30 years’. Five decades on from its first release a year earlier, Alain Resnais’s stylish conundrum still seems conjured out of some sui generis cinematic future. (Which is not to deny its influence on – to name two blatant instances – Stanley Kubrick and Peter Greenaway, not to mention Karl Lagerfeld, whose spring 2011 collection for Chanel played grandiloquently with the costumes and set design of the film.) What Resnais and scriptwriter Alain Robbe-Grillet achieved in _Last Year in Marienbad_ was not just the much bruited importation of the narrative techniques of the nouveau roman into film – Resnais had already made _Hiroshima mon amour_ (1959) and Robbe-Grillet’s texts were anyway indebted to what he called cinema’s perpetual ‘present tense’ – but nothing less than the transmuting of film into a type of sculpture. _Marienbad_ is cinema’s greatest hymn to stasis.
 
@@ -73,5 +82,5 @@ Gabriel Werner
 France/Italy 1961  
 94 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDU2NTg5NjddfQ==
+eyJoaXN0b3J5IjpbMTQ0MDgwMjEzNV19
 -->
