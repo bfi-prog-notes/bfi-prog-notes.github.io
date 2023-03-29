@@ -6,8 +6,8 @@ date: 2023-03-31
 readtime: true
 categories: ['MEMBER EXCLUSIVES']
 tags: [Drama, Sci-Fi]
-metadata: ' Ireland/UK/USA 2022, 100 mins<br> Directors: Saela Davis,  Anna Rose Holmer'
-pdf: '2023-03-31-gods-creatures.pdf'
+metadata: ' UK/USA 2010, 105 mins<br> Director: Mark Romanek'
+pdf: '2023-03-31-never-let-me-go.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -172,5 +172,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzY5NjQ3OV19
+eyJoaXN0b3J5IjpbMTc3NDYxODU4NV19
 -->
