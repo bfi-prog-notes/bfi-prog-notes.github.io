@@ -44,96 +44,94 @@ _Production Co-ordinator:_ Layla Mall
 _Production Accountant:_ Linda Gregory  
 _Unit Manager:_ John Crampton  
 _Supervising Location Manager:_ Jonah Coombes  
-_Location Manager:_ Josh Yudkin
-_Scotland Unit Location Manager:_ Lloret Dunn
-_Location Scouts:_ Helene Lenszer, Asha Sharma
-_Post-production Supervisor:_ Clare St John
-_1st Assistant Director:_ Lee Grumett
-_2nd Assistant Director:_ Jo Tew
-_2nd Assistant Director: Crowd:_ Sarah Macfarlane
-_3rd Assistant Director:_ Carley Lane
-_Scotland Unit 3rd Assistant Director:_ Carol Anne Henderson
-_Script Supervisor:_ Diana Dill
-_Casting by:_ Kate Dowd
-_Screenplay by:_ Alex Garland
-_Based on the novel by:_ Kazuo Ishiguro
-_Cinematography by:_ Adam Kimmel
-_B Camera Operators:_ Julian Morson, Peter Cavaciuti
-_Steadicam:_ Julian Morson, Peter Cavaciuti
-_Gaffer:_ John Colley
-_Scotland Unit Gaffer:_ Steve Arthurs
-_Rigging Gaffer:_ Vince Madden
-_Video Assist:_ John Paxton
-_Stills Photographer:_ Alex Bailey
-_Visual Effects by:_ Baseblack (_Visual Effects Supervisor:_ Matthew Twyford; _Visual Effects Executive Producer:_ Stephen Elson; _Visual Effects Producer:_ Kate Phillips; _Visual Effects Co-ordinator:_ Mark Webb)
-_Special Effects Supervisor:_ Sam Conway
-_Special Effects Technicians:_ Mark White, Chris Giles, Terry Palmer
-_Editor:_ Barney Pilling
-_Post-production Consultancy:_ Steve Harrow, Steeple Post Production Services
-_Production Designer:_ Mark Digby
-_Supervising Art Director:_ Dennis Schnegg
-_Art Director:_ Paul Cripps
-_Set Decorator:_ Michelle Day
-_Property Master:_ Nick Thomas
-
-_Construction Manager:_ Dan Crandon
-
-_Costume Designers:_ Rachael Fleming, Steven Noble
-_Wardrobe Supervisor:_ Charlotte Child
-_Chief Make-up and Hair Designer:_ Sian Grigg
-_Hair & Make-up Artists:_ Bindy Parrish, Tapio Salmi
-_Scotland Unit Make-up Artist:_ Sallie Jaye
-_Prosthetic Artist:_ Waldo Mason
-_Title Design:_ Farrow
-_Processing and Prints by:_ DeLuxe
-_Colour Timer:_ Alec Gibson
-_Negative Cutter:_ Professional Negative Cutting
-_Music by:_ Rachel Portman
-_Violin Solos:_ Marcia Crayford
-_Cello Solos:_ Paul Watkins
-_Conductor:_ David Snell
-_Orchestrators:_ Jeff Atmajian, Rachel Portman
-_Music Supervisors:_ Randall Poster, George Drakoulias
-_Music Associate:_ Youki Yamanoto
-_Sound Design:_ Glenn Freemantle
-_Production Sound Mixer:_ Jim Greenhorn
-_Boom Operator:_ Tristan Tarrant
-_Re-recording Mixers:_ Mike Dowson, Richard Pryke
-_Sound Mix Technicians:_ Adam Scrivener, James Corless
-_Supervising Sound Editor:_ Glenn Freemantle
-_Stunt Co-ordinators:_ Frank Henson, Nrinder Dhudwar
-_Medical Adviser:_ Carlton Jarvis
-_Unit Publicist:_ Sarah Clark
-_Digital Intermediate:_ Ascent 142 Features
-_Made at:_ 3 Mills Studios
+_Location Manager:_ Josh Yudkin  
+_Scotland Unit Location Manager:_ Lloret Dunn  
+_Location Scouts:_ Helene Lenszer, Asha Sharma  
+_Post-production Supervisor:_ Clare St John  
+_1st Assistant Director:_ Lee Grumett  
+_2nd Assistant Director:_ Jo Tew  
+_2nd Assistant Director: Crowd:_ Sarah Macfarlane   
+_3rd Assistant Director:_ Carley Lane  
+_Scotland Unit 3rd Assistant Director:_ Carol Anne Henderson  
+_Script Supervisor:_ Diana Dill  
+_Casting by:_ Kate Dowd  
+_Screenplay by:_ Alex Garland  
+_Based on the novel by:_ Kazuo Ishiguro  
+_Cinematography by:_ Adam Kimmel  
+_B Camera Operators:_ Julian Morson, Peter Cavaciuti  
+_Steadicam:_ Julian Morson, Peter Cavaciuti  
+_Gaffer:_ John Colley  
+_Scotland Unit Gaffer:_ Steve Arthurs  
+_Rigging Gaffer:_ Vince Madden  
+_Video Assist:_ John Paxton  
+_Stills Photographer:_ Alex Bailey  
+_Visual Effects by:_ Baseblack (_Visual Effects Supervisor:_ Matthew Twyford; _Visual Effects Executive Producer:_ Stephen Elson; _Visual Effects Producer:_ Kate Phillips; _Visual Effects Co-ordinator:_ Mark Webb)  
+_Special Effects Supervisor:_ Sam Conway  
+_Special Effects Technicians:_ Mark White, Chris Giles, Terry Palmer  
+_Editor:_ Barney Pilling  
+_Post-production Consultancy:_ Steve Harrow, Steeple Post Production Services  
+_Production Designer:_ Mark Digby  
+_Supervising Art Director:_ Dennis Schnegg  
+_Art Director:_ Paul Cripps  
+_Set Decorator:_ Michelle Day  
+_Property Master:_ Nick Thomas  
+_Construction Manager:_ Dan Crandon  
+_Costume Designers:_ Rachael Fleming, Steven Noble  
+_Wardrobe Supervisor:_ Charlotte Child  
+_Chief Make-up and Hair Designer:_ Sian Grigg  
+_Hair & Make-up Artists:_ Bindy Parrish, Tapio Salmi  
+_Scotland Unit Make-up Artist:_ Sallie Jaye  
+_Prosthetic Artist:_ Waldo Mason  
+_Title Design:_ Farrow  
+_Processing and Prints by:_ DeLuxe  
+_Colour Timer:_ Alec Gibson  
+_Negative Cutter:_ Professional Negative Cutting  
+_Music by:_ Rachel Portman  
+_Violin Solos:_ Marcia Crayford  
+_Cello Solos:_ Paul Watkins  
+_Conductor:_ David Snell  
+_Orchestrators:_ Jeff Atmajian, Rachel Portman  
+_Music Supervisors:_ Randall Poster, George Drakoulias  
+_Music Associate:_ Youki Yamanoto  
+_Sound Design:_ Glenn Freemantle  
+_Production Sound Mixer:_ Jim Greenhorn  
+_Boom Operator:_ Tristan Tarrant  
+_Re-recording Mixers:_ Mike Dowson, Richard Pryke  
+_Sound Mix Technicians:_ Adam Scrivener, James Corless  
+_Supervising Sound Editor:_ Glenn Freemantle  
+_Stunt Co-ordinators:_ Frank Henson, Nrinder Dhudwar  
+_Medical Adviser:_ Carlton Jarvis  
+_Unit Publicist:_ Sarah Clark  
+_Digital Intermediate:_ Ascent 142 Features  
+_Made at:_ 3 Mills Studios  
 
 **Cast**  
-Carey Mulligan _(Kathy H.)_
-Andrew Garfield _(Tommy)_
-Keira Knightley _(Ruth)_
-Isobel Meikle-Small _(young Kathy)_
-Ella Purnell _(young Ruth)_
-Charlie Rowe _(young Tommy)_
-Charlotte Rampling _(Miss Emily)_
-Sally Hawkins _(Miss Lucy)_
-Nathalie Richard _(Madame)_
-Andrea Riseborough _(Chrissie)_
-Domhnall Gleeson _(Rodney)_
-Kate Bowes Renna _(Miss Geraldine)_
-Hannah Sharp _(Amanda)_
-Christina Carrafiell _(Laura)_
-Oliver Parsons _(Arthur)_
-Luke Braynt _(David)_
-Fidelis Morgan _(matron)_
-Damien Thomas _(doctor)_
-Huggy Leaver _(delivery man 1)_
-Charles Cork _(delivery man 2)_
-Sylvie MacDonald _(bumper crop girl)_
-David Sterne _(Keffers)_
-Kate Sissons, Amy Lennox _(sitcom girls)_
-Anna-Maria Everett _(waitress)_
-John Gillespie _(male office worker)_
-Rachel Boss _(female office worker)_
+Carey Mulligan _(Kathy H.)_  
+Andrew Garfield _(Tommy)_  
+Keira Knightley _(Ruth)_  
+Isobel Meikle-Small _(young Kathy)_  
+Ella Purnell _(young Ruth)_  
+Charlie Rowe _(young Tommy)_  
+Charlotte Rampling _(Miss Emily)_  
+Sally Hawkins _(Miss Lucy)_  
+Nathalie Richard _(Madame)_  
+Andrea Riseborough _(Chrissie)_  
+Domhnall Gleeson _(Rodney)_  
+Kate Bowes Renna _(Miss Geraldine)_  
+Hannah Sharp _(Amanda)_  
+Christina Carrafiell _(Laura)_  
+Oliver Parsons _(Arthur)_  
+Luke Braynt _(David)_  
+Fidelis Morgan _(matron)_  
+Damien Thomas _(doctor)_  
+Huggy Leaver _(delivery man 1)_  
+Charles Cork _(delivery man 2)_  
+Sylvie MacDonald _(bumper crop girl)_  
+David Sterne _(Keffers)_  
+Kate Sissons, Amy Lennox _(sitcom girls)_  
+Anna-Maria Everett _(waitress)_  
+John Gillespie _(male office worker)_  
+Rachel Boss _(female office worker)_  
 Lydia Wilson _(Hannah)_
 Monica Dolan _(nurse)_
 Chidi Chickwe _(George)_
@@ -141,5 +139,5 @@ Chidi Chickwe _(George)_
 UK/USA 2010©
 105 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzkxNzM2NzBdfQ==
+eyJoaXN0b3J5IjpbLTEyMDE4MTM0ODhdfQ==
 -->
