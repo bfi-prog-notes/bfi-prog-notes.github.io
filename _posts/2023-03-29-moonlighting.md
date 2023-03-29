@@ -15,59 +15,30 @@ A remarkable film, _Moonlighting_ is all the more remarkable in that this parabl
 <br><br>
 
 **MOONLIGHTING**<br>
-
 _Directed by:_ Jerzy Skolimowski<br>
-
 ©: Michael White Limited<br>
-
 _Presented by:_ Michael White<br>
-
-_Moonlighting was developed with the  
-assistance of:_ N.F.D.F.<br>
-
+_Moonlighting was developed with the  assistance of:_ N.F.D.F.<br>
 _Produced by:_ Mark Shivas, Jerzy Skolimowski<br>
-
 _Associate Producer:_ Michael Guest<br>
-
 _Production Accountant:_ Michael Brent<br>
-
 _Location Manager:_ Rufus Andrews<br>
-
 _Production Assistant:_ Lorraine Fennell<br>
-
 _Runner:_ Nikolas Korda<br>
-
 _1st Assistant Director:_ Peter Cotton<br>
-
 _2nd Assistant Director:_ Nicholas Daubeny<br>
-
 _3rd Assistant Director:_ Rod Lomax<br>
-
 _Continuity:_ Pat Rambaut<br>
-
 _Casting:_ Debbie McWilliams<br>
-
 _Original Screenplay by:_ Jerzy Skolimowski<br>
-
-_Script Assistance by:_ Barrie Vince,
-
-Boleslaw Sulik, Danuta Stok, Witold Stok<br>
-
+_Script Assistance by:_ Barrie Vince, Boleslaw Sulik, Danuta Stok, Witold Stok<br>
 _Director of Photography:_ Tony Pierce Roberts<br>
-
 _Camera Operator:_ Jimmy Stilwell<br>
-
 _Camera Focus:_ Barry Brown<br>
-
 _Follow Focus, 2nd Camera:_ Cedric James *<br>
-
 _Gaffer Electrician:_ Laurie Shane<br>
-
-_Stills Photographers:_ Murray Tulip Close,  
-David Farrell<br>
-
+_Stills Photographers:_ Murray Tulip Close,  David Farrell<br>
 _Special Effects Supervisor:_ Roy Whybrow<br>
-
 _Editor:_ Barrie Vince<br>
 
 _Assistant Editors:_ Michael Connell,  
@@ -115,74 +86,75 @@ _Publicist:_ Allen Burry<br>
 
 _Camera Equipment by:_ Joe Dunton (Cameras) Ltd.<br>
 
-_Lighting Equipment by:_ Lee Electric (Lighting) Ltd.
+_Lighting Equipment by:_ Lee Electric (Lighting) Ltd.<br>
 
-_Cast:_
+_Cast:_<br>
 
-Jeremy Irons _(Nowak)_
+Jeremy Irons _(Nowak)_<br>
 
-Eugene Lipinski _(Banaszak)_
+Eugene Lipinski _(Banaszak)_<br>
 
-Jiri Stanislaw _(Wolski)_
+Jiri Stanislaw _(Wolski)_<br>
 
-Eugeniusz Haczkiewicz _(Kudaj)_
+Eugeniusz Haczkiewicz _(Kudaj)_<br>
 
-Dorothy Zienciowska _(Lot Airline girl)_
+Dorothy Zienciowska _(Lot Airline girl)_<br>
 
-Edward Arthur _(immigration officer)_
+Edward Arthur _(immigration officer)_<br>
 
-Denis Holmes _(neighbour)_
+Denis Holmes _(neighbour)_<br>
 
-Renu Setna _(junk shop owner)_
+Renu Setna _(junk shop owner)_<br>
 
-David Calder _(supermarket manager)_
+David Calder _(supermarket manager)_<br>
 
-Judy Gridley _(supermarket supervisor)_
+Judy Gridley _(supermarket supervisor)_<br>
 
-Claire Toeman _(supermarket cashier)_
+Claire Toeman _(supermarket cashier)_<br>
 
-Catherine Harding _(lady shoplifter)_
+Catherine Harding _(lady shoplifter)_<br>
 
-Jill Johnson _(haughty supermarket customer)_
+Jill Johnson _(haughty supermarket customer)_<br>
 
-David Squire _(supermarket assistant)_
+David Squire _(supermarket assistant)_<br>
 
-Mike Sarne _(builder’s merchant)_
+Mike Sarne _(builder’s merchant)_<br>
 
 Lucy Hornak, Robyn Mandell  
-_(Wrangler shop assistants)_
+_(Wrangler shop assistants)_<br>
 
-Ann Tirard _(lady in telephone box)_
+Ann Tirard _(lady in telephone box)_<br>
 
-Christopher Logue _(workman)_
+Christopher Logue _(workman)_<br>
 
-Hugh Harper _(newspaper boy)_
+Hugh Harper _(newspaper boy)_<br>
 
-Julia Chambers _(chemist’s assistant)_
+Julia Chambers _(chemist’s assistant)_<br>
 
-Fred Lee Own _(Chinese man)_
+Fred Lee Own _(Chinese man)_<br>
 
-Kenny Ireland _(timber man)_
+Kenny Ireland _(timber man)_<br>
 
-Trevor Cooper, Iain Ormsby-Knox _(hire shop men)_
+Trevor Cooper, Iain Ormsby-Knox _(hire shop men)_<br>
 
-David Gant _(Aquascutum assistant)_
+David Gant _(Aquascutum assistant)_<br>
 
-Jennifer Landor _(Aquascutum shoplifter)_
+Jennifer Landor _(Aquascutum shoplifter)_<br>
 
-Jenny Seagrove _(Anna)_
+Jenny Seagrove _(Anna)_<br>
 
-Jerzy Skolimowski _(boss)_
+Jerzy Skolimowski _(boss)_<br>
 
-Ian McCulloch _(boss lookalike)_
+Ian McCulloch _(boss lookalike)_<br>
 
-Laura Frances Hart _(the lookalike boss’ woman)_
+Laura Frances Hart _(the lookalike boss’ woman)_<br>
 
-UK 1982©
+UK 1982©<br>
 
-97 mins
+97 mins<br>
+<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDExMjUzMF19
+eyJoaXN0b3J5IjpbMTkzMjUxMDE5Ml19
 -->
