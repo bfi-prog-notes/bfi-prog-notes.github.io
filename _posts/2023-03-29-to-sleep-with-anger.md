@@ -7,16 +7,14 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'USA 1990, 102 mins<br> Director: Charles Burnett'
-pdf: '2023-03-28-wild-srawberries.pdf'
+pdf: '2023-03-28-to-sleep-with-anger.pdf'
 ---
-
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
 Charles Burnett’s intriguing mix of melodrama and allegorical fable has a seemingly happy middle-class African-American family living in Los Angeles visited by an old friend (Glover) from the South – a somewhat mysterious charmer whose presence proves disruptive for his hosts. Exploring the discrepancies of past and present, Christianity and mysticism, tradition and modernity, the film is at once enigmatic, thought-provoking and witty.  
 **bfi.org.uk**  
 
-  
 In Charles Burnett’s films, you always have to keep an eye on the kids, who are rarely main characters but play pivotal roles nonetheless. Consider his brilliant debut _Killer of Sheep_ (1977), a neorealism-inspired drama of everyday life in LA’s predominantly African-American Watts district. Its unforgettable first scene depicts a small, cowed-looking boy being lectured by a stern off-screen father-figure on the importance of fighting back against bullies in order to be a real man. After this bracing opening, we don’t see this moon-eyed lad again – we never even find out who he is – but the point is sharp enough: innocence rarely lasts long for black children in this impoverished suburb, scarred by residential segregation, racist police brutality and the violent uprisings of 1965. In the rest of _Killer of Sheep_, children – playful sprites full of hope and humour – pepper the landscape. They are poignant counterpoints to the drudgery-stricken adults; funhouse mirrors of their own sad futures.
 
 In Burnett’s third feature, the majestic and enigmatic _To Sleep with Anger_ (1990), children are again crucial in a film ostensibly about adult relationships. The main narrative centres on Harry Mention (Danny Glover), a charismatic visitor from the Deep South who arrives one day on the doorstep of a middle-class churchgoing family in South Central Los Angeles. Mother Suzie (Mary Alice) and father Gideon (Paul Butler) welcome their old friend in, but it’s not long before his uncanny presence, steeped in the folkloric southern traditions Suzie and Gideon have for the most part left behind, begins to cause severe ructions in the family fabric.
@@ -219,5 +217,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTU2NzU1Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTQ4MjgyOTA1Miw3MzA5OTgxMTZdfQ==
 -->
