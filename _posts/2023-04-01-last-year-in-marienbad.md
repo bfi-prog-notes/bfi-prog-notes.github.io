@@ -5,9 +5,9 @@ published: true
 date: 2023-04-01
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama,]
+tags: [Drama]
 metadata: 'France/Italy 1961, 94 mins<br> Director: Alain Resnais'
-pdf: '2023-04-01-last.pdf'
+pdf: '2023-04-01-last-year-in-marienbad.pdf'
 ---
 
 ‘I am now quite prepared to claim that _Marienbad_ is the greatest film ever made, and to pity those who cannot see it.’ So wrote Jacques Brunius in _Sight and Sound_ in 1962, regarding ‘the film I had been waiting for during the last 30 years’. Five decades on from its first release a year earlier, Alain Resnais’s stylish conundrum still seems conjured out of some sui generis cinematic future. (Which is not to deny its influence on – to name two blatant instances – Stanley Kubrick and Peter Greenaway, not to mention Karl Lagerfeld, whose spring 2011 collection for Chanel played grandiloquently with the costumes and set design of the film.) What Resnais and scriptwriter Alain Robbe-Grillet achieved in _Last Year in Marienbad_ was not just the much bruited importation of the narrative techniques of the nouveau roman into film – Resnais had already made _Hiroshima mon amour_ (1959) and Robbe-Grillet’s texts were anyway indebted to what he called cinema’s perpetual ‘present tense’ – but nothing less than the transmuting of film into a type of sculpture. _Marienbad_ is cinema’s greatest hymn to stasis.
@@ -81,6 +81,61 @@ Gabriel Werner
 
 France/Italy 1961  
 94 mins  
+<br>
+
+**BIG SCREEN CLASSICS**  
+**Touch of Evil**  
+Mon 27 Mar 20:45; Tue 4 Apr 14:30; Sun 9 Apr 18:30; Fri 28 Apr 20:45  
+**Wild Strawberries (Smultronstället)**  
+Tue 28 Mar 20:50; Wed 12 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 14 Apr 20:50; Mon 24 Apr 14:30  
+**To Sleep with Anger + Borom Sarret (The Wagoner)**  
+Wed 29 Mar 18:10 (+ intro); Mon 10 Apr 12:45; Wed 12 Apr 18:00  
+**Rio Bravo**  
+Thu 30 Mar 20:20; Sun 9 Apr 12:50; Fri 21 Apr 20:20  
+**Aguirre, Wrath of God (Aguirre, der Zorn Gottes)**  
+Fri 31 Mar 21:00; Thu 13 Apr 21:00; Thu 20 Apr 18:15  
+**Last year in Marienbad (L’Année dernière à Marienbad)**  
+Sat 1 Apr 12:50; Mon 3 Apr 20:30; Sat 8 Apr 18:20; Tue 18 Apr 20:45  
+**La Grande Illusion**  
+Sat 1 Apr 13:00; Wed 12 Apr 20:40; Sat 15 Apr 18:00; Fri 21 Apr 18:15  
+**The Godfather Part II**  
+Sat 1 Apr 16:00; Sat 22 Apr 18:40; Sun 30 Apr 16:30  
+**Nashville**  
+Sun 2 Apr 17:50; Sat 8 Apr 20:00; Sat 29 Apr 16:30  
+**The Passenger (Professione: reporter)**  
+Wed 5 Apr 18:00 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 7 Apr 20:20; Sun 16 Apr 18:15; Thu 27 Apr 18:10  
+**Pickpocket**  
+Thu 6 Apr 20:45; Tue 11 Apr 14:30; Mon 17 Apr 20:50; Mon 24 Apr 20:50  
+**The Portrait of a Lady**  
+Fri 7 Apr 14:30; Wed 19 Apr 17:50 (+ intro); Sat 29 Apr 20:15  
+**Code Unknown (Code inconnu)**  
+Sun 9 Apr 15:45; Wed 26 Apr 18:15  
+**The Lady Eve**  
+Mon 10 Apr 18:15; Sat 15 Apr 12:40; Sun 30 Apr 14:15  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDgwMjEzNV19
+eyJoaXN0b3J5IjpbMTE0MzIxNzk4NF19
 -->
