@@ -18,29 +18,21 @@ It’s fitting, then, that Sunny is the architect of Harry’s downfall. Early i
 
 But there’s another child in _To Sleep with Anger_: an unnamed boy (played by Burnett’s son) who blasts incessantly and tunelessly on his trumpet. His unappealing peals ring across the neighbourhood, at one point causing Suzie to drop an egg on the floor, at another distracting Harry as he’s about to bring down an axe on the neck of a chicken. Midway through the film, Suzie, concerned about Harry’s sinister behaviour, questions him about the quality of his friendship. Harry retorts with a riddle: ‘Like that boy next door playing his horn. If he was a friend, he would stop irritating people. But if he stops practising, he wouldn’t be perfect at what he does someday.’
 
-In an interview in July 2016, I asked Burnett about the boy trumpeter, and he replied: ‘I used to play the trumpet when I was a kid, and I used to just drive the neighbours crazy. So that’s where that came from. I used to intentionally leave the window open and just blow as loud as I could out of my room.’ There’s something autobiographical, then, about the film’s spine-tingling coda. Following a shot of Harry’s body still festering in the homestead, Burnett cuts to a shot of the boy honking away tunelessly. After a few bars, however, his awful playing magically, seamlessly becomes perfect – a soulful lament which provides the melody line of the song that scores the end credits. It’s the sound of a modest yet brilliant filmmaker slyly announcing the perfection of his own craft.
-
-**Ashley Clark, _Sight & Sound_ _,_ July 2002**
+In an interview in July 2016, I asked Burnett about the boy trumpeter, and he replied: ‘I used to play the trumpet when I was a kid, and I used to just drive the neighbours crazy. So that’s where that came from. I used to intentionally leave the window open and just blow as loud as I could out of my room.’ There’s something autobiographical, then, about the film’s spine-tingling coda. Following a shot of Harry’s body still festering in the homestead, Burnett cuts to a shot of the boy honking away tunelessly. After a few bars, however, his awful playing magically, seamlessly becomes perfect – a soulful lament which provides the melody line of the song that scores the end credits. It’s the sound of a modest yet brilliant filmmaker slyly announcing the perfection of his own craft.  
+**Ashley Clark, _Sight & Sound_,  July 2002**  
 
 Charles Burnett’s first mainstream feature shows what a little well-spent money will do towards counteracting the nagging sense of miserabilism that weighed against the otherwise admirable qualities of his earlier independent features, _Killer of Sheep_ (especially) and _My Brother’s Wedding_. The opening scene is a case in point: a wonderfully spare yet elegantly detailed still life (not a little reminiscent of Errol Morris at his best) in which the portly Gideon, as formally posed and attired as a Victorian patriarch, sits staring expressionlessly to camera in a white room, behind him a portrait of a woman hanging above a buffet on which mysteriously igniting in a bowl of fruit that might have inspired a Cezanne canvas flames slowly spread to engulf him from head to toe.
 
 Accompanied by the achingly sweet and yearning gospel notes of Sister Rosetta Tharpe’s version of ‘Precious Memories’, the nightmare – for so it proves to be when Gideon wakes from dozing in the sun in his back garden –nevertheless leaves behind it a haunting after-taste of loss. The point, perhaps not too readily evident for a non-American white audience, seems to be that the Deep South remains a touchstone for ‘home’ in the collective memory, much more immediate and accessible than the hypothetical Africa of Black Power. For all its ineradicable associations with slavery, lynching and the burning crosses of the Klan, it was a place of roots, of togetherness. ‘Then you knew your neighbour’, Burnett has commented in an interview. ‘Until the civil rights movement, and the riots, this community held steady. Isn’t that strange, that after civil rights it fell apart?’ In a sense, _To Sleep with Anger_, with the title suggesting some hopefully productive amalgam between activism and acceptance, threads a neutral but inquisitive way through the ramifications of this paradox.
 
-With a whole string of superb performances, dialogue that manages the difficult trick of hitting notes both lyrical and earthy, and a magical gospel and blues score, _To Sleep with Anger_ demonstrates Burnett’s instinct for cinema every inch of the way.
+With a whole string of superb performances, dialogue that manages the difficult trick of hitting notes both lyrical and earthy, and a magical gospel and blues score, _To Sleep with Anger_ demonstrates Burnett’s instinct for cinema every inch of the way.  
+**Tom Milne, _Monthly Film Bulletin_, March 1991**  
 
-**Tom Milne, _Monthly Film Bulletin_, March 1991  
-  
-<![if !supportLineBreakNewLine]>  
-<![endif]>**
-
-**Borom Sarret**
-
+**Borom Sarret**  
 Sembene’s classic short – one of the first African films made by an indigenous director – looks at the life of a cart-driver in Dakar; many of his customers are as poor as he is, while others are happy to take advantage of Senegal’s colonial heritage. Both script and direction are characteristically direct and truthful, while allowing for poetic resonance and telling irony.
-
-**bfi.org.uk**
+**bfi.org.uk**  
 
 **BOROM SARRET**
-
 _Director_: Ousmane Sembène  
 _Production Companies_: Filmi Doomireew, Actualités Françaises  
 _With the participation of_: Ministère de la Coopération  
@@ -51,73 +43,41 @@ _Photography_: Christian Lacoste
 _Editor_: André Gaudier
 
 **Cast**
-
 Ly Abdoulaye _(wagoner)_
 
 Senegal/France 1963
-
 18 mins
 
 **TO SLEEP WITH ANGER**
-
 _Director:_ Charles Burnett
-
 ©_/Production Company:_ SVS, Inc.
-
 _Executive Producers:_ Edward R. Pressman, Danny Glover,
-
 Harris E. Tulchin
-
 _Producers:_ Caldecot Chubb, Thomas S. Byrnes, Darin Scott
-
 _Associate Producers:_ Michael Flynn, Linda Koulisis
-
 _Production Executives (SVS):_ Michael Holzman, Jeffrey Ringler
-
 _Production Auditor:_ Todd Grove
-
 _Post-production Auditor:_ Lisa Mashburn
-
 _Supervising Production Co-ordinator:_ Alan Gershenfeld
-
 _Production Co-ordinator:_ James Beaton III
-
 _Production Manager:_ Susan Stremple
-
 _Location Manager:_ Earl West
-
 _Location Consultant:_ Kasey Jones
-
 _Post-production Supervisor:_ Carol Munday Lawrence
-
 _1st Assistant Director:_ Jonathan Meisler
-
 _2nd Assistant Directors:_ Kris Krengel, Sati Jamal
-
 _2nd 2nd Assistant Director:_ Stacey Matthew
-
 _Script Supervisor:_ Catherine Jelski
-
 _Casting Directors:_ Gail Levin, Lauren Lloyd
-
 _Extras Casting:_ Superior Casting
-
 _Casting Assistant:_ Kimberly Hardin
-
 _Screenplay:_ Charles Burnett
-
 _Director of Photography:_ Walt Lloyd
-
 _Additional Photography:_ John Simmons
-
 _1st Assistant Camera:_ Tom Yatsko
-
 _2nd Assistant Camera:_ Gregory Daniels
-
 _Key Grip:_ Tom Harjo
-
 _Dolly Grip:_ T.C. Eachus
-
 _Best Boy Grip:_ Joseph Thompson
 _Gaffer:_ Dino Parks
 _Best Boy:_ Barbara Kallir
@@ -195,5 +155,5 @@ Sip Culler _(neighbour)_
 USA 1990©
 102 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODg4NzQyNTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTM5NDI5MzEzOCw3MzA5OTgxMTZdfQ==
 -->
