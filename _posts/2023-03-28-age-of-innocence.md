@@ -157,8 +157,6 @@ USA 1993
 **NEW RELEASES**  
 **Rye Lane**  
 From Mon 27 Mar  
-**Dance Craze**  
-From Mon 27 Mar  
 **1976**  
 From Mon 27 Mar  
 **God’s Creatures**  
@@ -206,5 +204,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODAxMjJdfQ==
+eyJoaXN0b3J5IjpbMTEzMjg3MjU1LDEwNTgwMTIyXX0=
 -->
