@@ -1,4 +1,16 @@
- _The screening on Wednesday 29 March will be introduced by  Jerzy Skolimowski_
+---
+layout: post
+title: Moonlighting
+published: true
+date: 2023-03-29
+readtime: true
+categories: ['OUTSIDERS AND EXILES<br>THE FILMS OF JERZY SKOLIMOWSKI']
+tags: [Drama]
+metadata: 'UK 1982, 97 mins<br> Director: Jerzy Skolimowski'
+pdf: '2023-03-29-moonlighting.pdf'
+---
+
+_The screening on Wednesday 29 March will be introduced by  Jerzy Skolimowski_
 
 The astonishing thing about _Moonlighting_, given the battery-farming methods invoked to ensure topicality, is the intricate subtlety with which its meaning is built up layer after layer, so that even someone who had never heard of Solidarity and was therefore blind to that particular parable, could read the film alternatively as a Bressonian study of personal relationships under pressure from social constrictions, or as a casebook even wittier than Polanski’s  _The Tenant_ in exploring the foreigner’s despairing disarray when faced with alien speech and customs. If there is a certain rough-and-readiness about the film, it derives less from the production circumstances than from the off-the-cuff improvisational quality that has always overlaid the tendency towards surrealistic imagery in Skolimowski’s work.
 
@@ -98,6 +110,79 @@ Laura Frances Hart _(the lookalike boss’ woman)_<br>
 UK 1982©<br>
 97 mins<br>
 <br>
+
+**OUTSIDERS AND EXILES: THE FILMS OF JERZY SKOLIMOWSKI**<br>
+**Jerzy Skolimowski in Conversation**<br>
+Tue 28 March 18:30<br>
+**The Shout**<br>
+Tue 28 March 20:45 (+ intro by Jerzy Skolimowski); Wed 5 Apr 20:55; Fri 28 Apr 18:30<br>
+**Walkover (Walkower)**<br> 
+Wed 29 Mar 18:20 (+ Q&A with Jerzy Skolimowski); Sat 8 Apr 18:10<br>
+**Moonlighting**<br>
+Wed 29 Mar 20:45 (+ intro by Jerzy Skolimowski); Sun 9 Apr 13:00; Sat 15 Apr 18:20<br>
+**Hands Up! (Reçe do góry)**<br>
+Fri 31 Mar 20:45; Mon 10 Apr 15:40<br>
+**Barrier (Bariera)**<br>
+Sat 1 Apr 18:20; Tue 4 Apr 20:50 (+ intro by season curator Michael Brooke)<br>
+**EO**<br>
+Sat 1 Apr 20:50; Wed 5 Apr 18:20; Fri 21 Apr 20:50; Sat 22 Apr 18:20; Thu 27 Apr 20:45<br>
+**Dialogue 20-40-60 (Dialóg 20-40-60)**<br>
+Sun 2 Apr 12:30; Sat 15 Apr 20:45<br>
+**Deep End**<br>
+Sun 2 Apr 15:40; Mon 10 Apr 18:30; Wed 19 Apr 20:55<br>
+**Le Départ**<br>
+Sun 2 Apr 18:30; Mon 17 Apr 20:40<br>
+**Identification Marks: None (Rysopis)**<br>
+Mon 3 Apr 21:00; Sun 9 Apr 18:40<br>
+**Outsider and Exile**<br>
+Tue 4 Apr 18:15<br>
+**The Lightship**<br>
+Sat 8 Apr 12:15; Fri 14 Apr 20:40<br>
+**11 Minutes (11 minut)**<br>
+Sun 16 Apr 12:30; Sat 29 Apr 20:30<br>
+**Four Nights with Anna (Cztery noce z Anna)**<br>
+Sun 23 Apr 12:40; Fri 28 Apr 20:50<br>
+**Essential Killing**<br>
+Sun 23 Apr 18:40; Sat 29 Apr 14:40<br>
+<br>
+
+**In cultural partnership with**
+<img style="float: left;" src="/img/kinoteka.jpg"><br><br><br><br>
+9 Mar-27 Apr kinoteka.org.uk
+<br><br><br><br><br><br><br><br>
+
+<img style="float: left;" src="/img/mamuska-02.png"><br><br><br><br>
+Proud partners of the BFI’s Jerzy Skolimowski season. Show valid BFI ticket and enjoy 20% off your bill at Mamuśka!
+<br><br><br><br><br><br><br><br>
+
+_EO_ will be available on BFI DVD and Blu-ray from 3 April (available to pre-order at the BFI shop)<br>
+_Identification Marks: None_ and _Hands Up!_ will be available on a 2-disc BFI Blu-ray from 24 April<br>
+
+_Walkover_ and _Barrier_ will be released on Blu-ray by Second Run later this year
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 
 <!--stackedit_data:
