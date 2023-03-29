@@ -12,109 +12,108 @@ Extremely funny in its account of Nowak’s running battle with English manners 
 
 A remarkable film, _Moonlighting_ is all the more remarkable in that this parable never interferes with its character conflicts or its sly humour, and certainly never becomes anything so overt as a message; while its sharp-tongued satire, taking its cue from Jeremy Irons’ superlative portrayal of well-meaning bafflement, is constructively compassionate not destructively mocking.  
 **Tom Milne, _Monthly Film Bulletin_, September 1982**
+<br><br>
 
-<![endif]-->
+**MOONLIGHTING**<br>
 
-**MOONLIGHTING**
+_Directed by:_ Jerzy Skolimowski<br>
 
-_Directed by:_ Jerzy Skolimowski
+©: Michael White Limited<br>
 
-©: Michael White Limited
-
-_Presented by:_ Michael White
+_Presented by:_ Michael White<br>
 
 _Moonlighting was developed with the  
-assistance of:_ N.F.D.F.
+assistance of:_ N.F.D.F.<br>
 
-_Produced by:_ Mark Shivas, Jerzy Skolimowski
+_Produced by:_ Mark Shivas, Jerzy Skolimowski<br>
 
-_Associate Producer:_ Michael Guest
+_Associate Producer:_ Michael Guest<br>
 
-_Production Accountant:_ Michael Brent
+_Production Accountant:_ Michael Brent<br>
 
-_Location Manager:_ Rufus Andrews
+_Location Manager:_ Rufus Andrews<br>
 
-_Production Assistant:_ Lorraine Fennell
+_Production Assistant:_ Lorraine Fennell<br>
 
-_Runner:_ Nikolas Korda
+_Runner:_ Nikolas Korda<br>
 
-_1st Assistant Director:_ Peter Cotton
+_1st Assistant Director:_ Peter Cotton<br>
 
-_2nd Assistant Director:_ Nicholas Daubeny
+_2nd Assistant Director:_ Nicholas Daubeny<br>
 
-_3rd Assistant Director:_ Rod Lomax
+_3rd Assistant Director:_ Rod Lomax<br>
 
-_Continuity:_ Pat Rambaut
+_Continuity:_ Pat Rambaut<br>
 
-_Casting:_ Debbie McWilliams
+_Casting:_ Debbie McWilliams<br>
 
-_Original Screenplay by:_ Jerzy Skolimowski
+_Original Screenplay by:_ Jerzy Skolimowski<br>
 
 _Script Assistance by:_ Barrie Vince,
 
-Boleslaw Sulik, Danuta Stok, Witold Stok
+Boleslaw Sulik, Danuta Stok, Witold Stok<br>
 
-_Director of Photography:_ Tony Pierce Roberts
+_Director of Photography:_ Tony Pierce Roberts<br>
 
-_Camera Operator:_ Jimmy Stilwell
+_Camera Operator:_ Jimmy Stilwell<br>
 
-_Camera Focus:_ Barry Brown
+_Camera Focus:_ Barry Brown<br>
 
-_Follow Focus, 2nd Camera:_ Cedric James *
+_Follow Focus, 2nd Camera:_ Cedric James *<br>
 
-_Gaffer Electrician:_ Laurie Shane
+_Gaffer Electrician:_ Laurie Shane<br>
 
 _Stills Photographers:_ Murray Tulip Close,  
-David Farrell
+David Farrell<br>
 
-_Special Effects Supervisor:_ Roy Whybrow
+_Special Effects Supervisor:_ Roy Whybrow<br>
 
-_Editor:_ Barrie Vince
+_Editor:_ Barrie Vince<br>
 
 _Assistant Editors:_ Michael Connell,  
-Andrew Stears, Jacques Leroide
+Andrew Stears, Jacques Leroide<br>
 
-_Production Designer:_ Tony Woollard
+_Production Designer:_ Tony Woollard<br>
 
-_Assistant Art Director:_ Peter Young
+_Assistant Art Director:_ Peter Young<br>
 
-_Production Buyer:_ Roma Aplin
+_Production Buyer:_ Roma Aplin<br>
 
-_Prop Master:_ Brian Gamby
+_Prop Master:_ Brian Gamby<br>
 
-_Construction Manager:_ Bill Simpson
+_Construction Manager:_ Bill Simpson<br>
 
-_Costumes by:_ Jane Robinson
+_Costumes by:_ Jane Robinson<br>
 
-_Wardrobe Mistress:_ Masada Wilmot
+_Wardrobe Mistress:_ Masada Wilmot<br>
 
-_Make-up Artist:_ Sheila Thomas
+_Make-up Artist:_ Sheila Thomas<br>
 
-_Hairdresser:_ Marsha Lewis
+_Hairdresser:_ Marsha Lewis<br>
 
-_Titles by:_ Advance Film Promotions
+_Titles by:_ Advance Film Promotions<br>
 
-_Film Processing by:_ Rank Film Laboratories
+_Film Processing by:_ Rank Film Laboratories<br>
 
-_Music Composed by:_ Stanley Myers
+_Music Composed by:_ Stanley Myers<br>
 
-_Electronics by:_ Hans Zimmer
+_Electronics by:_ Hans Zimmer<br>
 
-_Sound Mixer:_ David Stevenson
+_Sound Mixer:_ David Stevenson<br>
 
-_Sound Assistant:_ Michael Tucker
+_Sound Assistant:_ Michael Tucker<br>
 
-_Re-recorded at:_ World Wide Sound
+_Re-recorded at:_ World Wide Sound<br>
 
-_Dubbing Mixer:_ Richard King
+_Dubbing Mixer:_ Richard King<br>
 
-_Dubbing Editor:_ Alan Bell
+_Dubbing Editor:_ Alan Bell<br>
 
-_The producers would like to thank:_ Aquascutum
+_The producers would like to thank:_ Aquascutum<br>
 
-_Publicist:_ Allen Burry
+_Publicist:_ Allen Burry<br>
 
-_Camera Equipment by:_ Joe Dunton (Cameras) Ltd.
+_Camera Equipment by:_ Joe Dunton (Cameras) Ltd.<br>
 
 _Lighting Equipment by:_ Lee Electric (Lighting) Ltd.
 
@@ -185,5 +184,5 @@ UK 1982©
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzkwNzkzM119
+eyJoaXN0b3J5IjpbLTQ1MDExMjUzMF19
 -->
