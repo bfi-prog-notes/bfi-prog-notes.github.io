@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: La Grande Illusion
+published: true
+date: 2023-04-01
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Gangster, Crime]
+metadata: 'USA 974, 202 mins<br> Director: Francis Ford Coppola'
+pdf: '2023-04-01-grande-illusion.pdf'
+---
 
 
 Whichever way you look at it, _The Godfather_ trilogy – thanks to its first two superlative instalments – undoubtedly ranks as one of the most highly respected achievements in filmmaking of the last half century.
@@ -218,5 +228,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTIzNTg2MF19
+eyJoaXN0b3J5IjpbOTk4MDM2Nl19
 -->
