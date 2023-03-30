@@ -55,7 +55,12 @@ Sun 23 Apr 15:30; Sat 29 Apr 18:00<br>
 
 **City Lit at the BFI: Ginger Rogers and All That Sass**<br>
 Tue 4 Apr 18:30; Tue 11 Apr 18:30; Tue 18 Apr 18:30; Tue 25 Apr 18:30<br>
-<br>
+
+**Promotional partner**
+<img style="float: left;" src="/img/aflies-antique-market-01.jpeg"><br><br><br><br>
+London's Best Kept Secret<br>
+www.alfiesantiques.com
+<br><br><br><br><br><br><br><br>
 
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
