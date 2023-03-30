@@ -57,7 +57,7 @@ Sun 23 Apr 15:30; Sat 29 Apr 18:00<br>
 Tue 4 Apr 18:30; Tue 11 Apr 18:30; Tue 18 Apr 18:30; Tue 25 Apr 18:30<br>
 
 **Promotional partner**
-<img style="float: left;" src="/img/aflies-antique-market-01.jpeg"><br><br><br><br>
+<img style="float: left;" src="/img/aflies-antique-market-01.jpeg" width="40%" height="40%"><br><br><br><br>
 London's Best Kept Secret<br>
 www.alfiesantiques.com
 <br><br><br><br><br><br><br><br>
