@@ -1,10 +1,6 @@
 
-
-labour of love for writer-director Elaine Constantine, _Northern Soul_’s initially modest distribution was expanded significantly following critical acclaim and a passion-driven social media campaign. Voted film of the year by _NME_, it follows two young lads in the 1970s as they chase their dream of travelling to the USA, discovering the best in soul music and establishing themselves as top DJs on the Northern soul circuit.
-
-**bfi.org.uk  
-<![if !supportLineBreakNewLine]>  
-<![endif]>**
+A labour of love for writer-director Elaine Constantine, _Northern Soul_’s initially modest distribution was expanded significantly following critical acclaim and a passion-driven social media campaign. Voted film of the year by _NME_, it follows two young lads in the 1970s as they chase their dream of travelling to the USA, discovering the best in soul music and establishing themselves as top DJs on the Northern soul circuit.  
+**bfi.org.uk**
 
 The characters in photographer Elaine Constantine’s first feature are so narrowly focused on music that, aside from the inevitable link between the Northern Soul scene and specific fashions – high-waisted fared trousers, homemade tattoos – other popular culture passes them by. Which means that John (Elliot James Langridge) doesn’t go to the pictures, so he misses out on the origins of the genre he inhabits by not catching Claude Whatham’s _That’ll Be the Day_ (1973) – which beat George Lucas’s _American Graffiti_ to UK cinemas by a few months and remains the template for the mix of teenage rebellion, nostalgic tie-in soundtrack and historical recreation that _Northern Soul_ sticks to very closely.
 
@@ -16,18 +12,14 @@ Early on, the film plays up John’s teenage anger, both at his meek parents for
 
 _That’ll Be the Day_ (loosely based on the teenage years of John Lennon) and _American Graffiti_ end with their lead characters moving out of the bubble of their subculture, fated to become either a pop star (as shown in _That’ll Be the Day_’s sequel, _Stardust_) or a ‘writer in California’. _Northern Soul_ is smaller-scale: John might go on to be as big in Wigan as Ray Henderson, but mostly he gets through his angry patch (he even reconciles with his parents) and settles into his twenties without compromising his musical tastes.
 
-Rather sweetly, this is a peculiarly English time-capsule of a film, suggesting that the Northern Soul scene meticulously recreated here (the end credits list dozens of folks who have lent their expertise to the project) is an Edenic eternal moment, like the Hundred Acre Wood or 221B Baker St.
-
+Rather sweetly, this is a peculiarly English time-capsule of a film, suggesting that the Northern Soul scene meticulously recreated here (the end credits list dozens of folks who have lent their expertise to the project) is an Edenic eternal moment, like the Hundred Acre Wood or 221B Baker St.  
 **Kim Newman, _Sight and Sound_, January 2015**
+<br><br>
 
-<![endif]-->
-
-**NORTHERN SOUL**
-
+**NORTHERN SOUL**  
 _Directed by_: Elaine Constantine  
 ©: Stubborn Heart Films (Heart of Soul Productions) Limited  
-_Executive Producers_: Henry Normal, Kevin Loader, Robbie Little,  
-Kevin Phelan, Marco Santucci, Richard Searling  
+_Executive Producers_: Henry Normal, Kevin Loader, Robbie Little,  Kevin Phelan, Marco Santucci, Richard Searling  
 _Produced by_: Debbie Gray  
 _Producers_: Julian Gleek, Edward A. Crozier  
 _Line Producer_: Alan Graves  
@@ -48,8 +40,7 @@ _Script Supervisor_: Lucy Ward
 _Casting Director_: Manuel Puro  
 _Written by_: Elaine Constantine  
 _Script Consultant_: David Baugnon  
-_Script Development_: Sara Olley, Frank Carson,  
-David S. Rielley, Tim Black  
+_Script Development_: Sara Olley, Frank Carson,  David S. Rielley, Tim Black  
 _Director of Photography_: Simon Tindall  
 _1st Assistant Camera_: Paul Dain  
 _2nd Assistant Camera_: Sean Beasley  
@@ -82,9 +73,7 @@ _Sound Supervisor_: Sven Taits
 _Sound Recordist_: Craig Rihoy  
 _Re-recording Mixer_: Sven Taits  
 _Dialogue Editor_: Sven Taits  
-_ADR Recordist_: Jon Olive
-<![endif]-->
-
+_ADR Recordist_: Jon Olive  
 _ADR Editor_: Sven Taits  
 _Foley Artist_: Jack Stew  
 _Foley Mixer_: Phil Jenkins  
@@ -94,8 +83,7 @@ _Northern Soul Record Consultants_: Joel Maslin, Pete Hulatt, Ian Clarke, Peter 
 _Publicity_: Amy Wright, Jo Houlcroft  
 _Digital Intermediate Producer_: Anna Odell
 
-**Cast**
-
+**Cast**  
 Elliot James Langridge _(John)_  
 Josh Whitehouse _(Matt)_  
 Antonia Thomas _(Angela)_  
@@ -207,5 +195,5 @@ Sat 29 Apr 14:50
 
 **In partnership with**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDY0MjkyNl19
+eyJoaXN0b3J5IjpbLTQzMzEyMDIyM119
 -->
