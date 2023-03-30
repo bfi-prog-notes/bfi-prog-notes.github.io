@@ -129,71 +129,41 @@ James Whitehead _(record dealer)_
 Jordan Wilson _(Monkey)_  
 Madison Wilson _(child in street)_
 
-UK 2014©
-
+UK 2014©  
 102 mins
+<br><br>
 
-<![endif]-->
-
-**NORTHERN VOICES**
-
-**In Celebration**
-
-Mon 27 Mar 20:30; Sun 23 Apr 18:10
-
-**Northern Soul**
-
-Thu 30 Mar 18:15; Sat 15 Apr 20:40
-
-**The Wednesday Play: No Trams to Lime Street + Armchair Theatre: The Hard Knock**
-
-Fri 31 Mar 18:20
-
-**Of Time and the City**
-
-Sat 1 Apr 20:40; Tue 18 Apr 18:20
-
-**Saturday Night Theatre: Roll On Four O’Clock + Play for Today: Kisses at 50**
-
-Tue 4 Apr 18:10
-
-**Billy Liar**
-
-Thu 6 Apr 20:30; Fri 14 Apr 18:15; Thu 27 Apr 20:50
-
-**Letter to Breznev**
-
-Fri 7 Apr 18:20; Thu 20 Apr 20:50
-
-**Priest**
-
-Sat 8 Apr 20:40
-
-**The Arbor**
-
-Tue 11 Apr 20:40; Sun 30 Apr 14:30
-
-**Play for Today: Comedians**
-
-Sat 15 Apr 15:15
-
-**Play for Today: The Land of Green Ginger + Armchair Theatre: The Pity of it All**
-
-Sun 16 Apr 15:20
-
-**Rita, Sue and Bob Too**
-
-Sun 16 Apr 18:30; Sun 30 Apr 12:10
-
-**Northern Voices Forum**
-
-Sun 23 Apr 15:00
-
-**Laughter from Liverpool + intro**
-
-Sat 29 Apr 14:50
+**NORTHERN VOICES**<br>
+**In Celebration**<br>
+Mon 27 Mar 20:30; Sun 23 Apr 18:10<br>
+**Northern Soul**<br>
+Thu 30 Mar 18:15; Sat 15 Apr 20:40<br>
+**The Wednesday Play: No Trams to Lime Street + Armchair Theatre: The Hard Knock**<br>
+Fri 31 Mar 18:20<br>
+**Of Time and the City**<br>
+Sat 1 Apr 20:40; Tue 18 Apr 18:20<br>
+**Saturday Night Theatre: Roll On Four O’Clock + Play for Today: Kisses at 50**<br>
+Tue 4 Apr 18:10<br>
+**Billy Liar**<br>
+Thu 6 Apr 20:30; Fri 14 Apr 18:15; Thu 27 Apr 20:50<br>
+**Letter to Brezhnev**<br>
+Fri 7 Apr 18:20; Thu 20 Apr 20:50<br>
+**Priest**<br>
+Sat 8 Apr 20:40<br>
+**The Arbor**<br>
+Tue 11 Apr 20:40; Sun 30 Apr 14:30<br>
+**Play for Today: Comedians**<br>
+Sat 15 Apr 15:15<br>
+**Play for Today: The Land of Green Ginger + Armchair Theatre: The Pity of it All**<br>
+Sun 16 Apr 15:20<br>
+**Rita, Sue and Bob Too**<br>
+Sun 16 Apr 18:30; Sun 30 Apr 12:10<br>
+**Northern Voices Forum**<br>
+Sun 23 Apr 15:00<br>
+**Laughter from Liverpool + intro**<br>
+Sat 29 Apr 14:50<br>
 
 **In partnership with**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzEyMDIyM119
+eyJoaXN0b3J5IjpbODYwNTE4ODA4XX0=
 -->
