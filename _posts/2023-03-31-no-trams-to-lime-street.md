@@ -26,8 +26,7 @@ Liverpool-Welsh plays in which, for the most part, an emotional journey ends
 in anticlimax: _Progress to the Park_, _No Trams to Lime Street_ and _A Little  
 Winter Love_.
 
-For producer Stella Richman’s Rediffusion series _Half Hour Story_ (ITV), Owen wrote _Shelter_ (1967), _George’s Room_ (1967) and _Stella_ (1968), all directed by Alan Clarke. He also composed three comedy scripts for Rediffusion’s  
-_The Ronnie Barker Playhouse_ (ITV, 1968), a David Frost executive-produced showcase for the multi comic character talents of the always-dependable Barker.
+For producer Stella Richman’s Rediffusion series _Half Hour Story_ (ITV), Owen wrote _Shelter_ (1967), _George’s Room_ (1967) and _Stella_ (1968), all directed by Alan Clarke. He also composed three comedy scripts for Rediffusion’s _The Ronnie Barker Playhouse_ (ITV, 1968), a David Frost executive-produced showcase for the multi comic character talents of the always-dependable Barker.
 
 In 1969, in an attempt to revive the television single drama, a series of self-contained plays was devised by the various ITV companies under the collective banner _Saturday Night Theatre_ (ITV). For ATV’s contribution to this collection, Owen wrote the triangular love story _Park People_ (1969), followed by a trilogy of half-hour plays introduced by Sir Laurence Olivier: _MacNeil_ (1969), starring Sean Connery as a womanising master carpenter, _Cornelius_ (1969), with Michael Caine as a concupiscent cockney draughtsman, and _Emlyn_ (1969), featuring Paul Scofield as an amorous barrister.
 
@@ -40,26 +39,21 @@ Among Owen’s last works for television were the adaptations _Unexplained Laugh
 It has been observed that as a television playwright Owen had the remarkable talent for being able to write idiomatic dialogue that, while sounding authentic, was actually carefully constructed heightened realism.
 
 As one of the leading voices of 1960s British television, when it was a writers’ medium, it was appropriate that his last television appearance was as an interviewee for presenter Richard Lester on the documentary _Hollywood UK: British Cinema in the Sixties_ (BBC, 1993), a five-part series charting the fluctuation of British films and filmmakers (as well as television) during  
-that decade.
+that decade.  
+**Tise Vahimagi, BFI Screenonline, screenonline.org.uk**
+<br><br>
 
-Tise Vahimagi, BFI Screenonline, screenonline.org.uk
-
-<![endif]-->
-
-**THE WEDNESDAY PLAY: NO TRAMS TO LIME STREET**
-
+**THE WEDNESDAY PLAY: NO TRAMS TO LIME STREET**  
 _Director_: Piers Haggard  
 _Production Company_: BBC  
 _Producer_: Harry Moore  
 _Book by_: Alun Owen  
 _Designer_: Marilyn Taylor  
-_Music and Lyrics_: Marty Wilde, Ronnie Scott
-
+_Music and Lyrics_: Marty Wilde, Ronnie Scott  
 _Music Arranged and Conducted by:_ Ken Woodman  
 _Choreography_: David Toguri
 
-_Cast:_
-
+**Cast**  
 Anthony May _(Billy)_  
 Rosemary Nicols _(Betty)_  
 Glyn Owen _(Old Cass)_  
@@ -69,20 +63,17 @@ Artro Morris _(the chief)_
 Julia Hand _(barmaid)_  
 Gerard Hely _(sergeant)_
 
-BBC1 tx 18.3.1970
-
+BBC1 tx 18.3.1970  
 50 mins
 
-**ARMCHAIR THEATRE: THE HARD KNOCK**
-
+**ARMCHAIR THEATRE: THE HARD KNOCK**  
 _Director_: Ted Kotcheff  
 _Production Company_: ABC Television  
 _Producer_: Sydney Newman  
 _Script_: Alun Owen  
 _Designer_: Timothy O’Brien
 
-_Cast:_
-
+**Cast**  
 Colin Blakely _(Pat Greevey)_  
 J.G. Devlin _(Da Greevey)_  
 Frank Finlay _(Franco Angelo)_  
@@ -98,9 +89,9 @@ Alan Barry _(Derek)_
 Angela Douglas _(Angela)_  
 Jill Tilsley _(barmaid)_
 
-ITV tx 8.7.1962
-
+ITV tx 8.7.1962  
 56 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzQ2NzUwNV19
+eyJoaXN0b3J5IjpbMTU3MDE1NzA1MF19
 -->
