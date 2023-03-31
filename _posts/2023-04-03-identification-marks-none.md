@@ -20,34 +20,28 @@ of filmmaking courage.
 
 It may be the contradictory mainspring of Skolimowski’s films that underlying their will o’ the wisp qualities is a moral seriousness, even an old-fashioned seriousness. This emerges not surprisingly as a contradictory sense of movement. The films have their febrile side, an apparent unwillingness of camera and characters to stand still for a second, that could be tied to themes of youthful revolt or restlessness or just hapless disorientation, and even to a theme that may be more personal to Skolimowski, as the onetime boxer (and forever football enthusiast) who feels the pinch of time passing that is particular to the athlete.
 
-But then there are sudden checks and halts, strange passages of suspended time or paralysed action, as if the film had just been brought up short by a warning that a life that has not been properly grounded will inevitably be lost. Skolimowski has taken short-cuts through his career – instead of completing a number of exercises at film school, he saved up the pieces of film to make one feature, _Rysopis_, to prove he was ready for the real thing. Within his films one feels both the élan and the anomie of characters who are short-cutting through their lives.
+But then there are sudden checks and halts, strange passages of suspended time or paralysed action, as if the film had just been brought up short by a warning that a life that has not been properly grounded will inevitably be lost. Skolimowski has taken short-cuts through his career – instead of completing a number of exercises at film school, he saved up the pieces of film to make one feature, _Rysopis_, to prove he was ready for the real thing. Within his films one feels both the élan and the anomie of characters who are short-cutting through their lives.  
+**Richard Combs, _Monthly Film Bulletin_, June 1990**
+<br><br>
 
-Richard Combs, _Monthly Film Bulletin_, June 1990
-
-<![endif]-->
-
-**IDENTIFICATION MARKS: NONE (RYSOPIS)**
-
+**IDENTIFICATION MARKS: NONE (RYSOPIS)**  
 _Director_: Jerzy Skolimowski  
-_Production Companies_:  
-Panstwowa Wyzsza Szkola Filmowa w Lodzi,  
-Film Polski  
+_Production Companies_:  Panstwowa Wyzsza Szkola Filmowa w Lodzi,  Film Polski  
 _Screenplay_: Jerzy Skolimowski  
 _Director of Photography_: Witold Mickiewicz  
 _Art Director_: Jerzy Skolimowski  
 _Music_: Krzysztof Sandowski
 
-_Cast:_
-
+**Cast**  
 Jerzy Skolimowski _(Andrzej Leszczyc)_  
 Elzbieta Czyzewska _(Theresa/Barbara/housewife)_  
 Tadeusz Mins _(Mundzek)_  
 Andrzej Zarnecki _(Raymond)_  
 Jacek Szczek
 
-Poland 1964
-
-75 mins
+Poland 1964  
+75 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTc3OTU4XX0=
+eyJoaXN0b3J5IjpbLTc2MTU2MTM0NV19
 -->
