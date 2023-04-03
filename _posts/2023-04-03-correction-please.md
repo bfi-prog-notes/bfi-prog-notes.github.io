@@ -4,7 +4,7 @@ title: Correction Please;<br>or, How We Got into Pictures
 published: true
 date: 2023-04-03
 readtime: true
-categories: ['AR']
+categories: ['ART IN THE MAKING']
 tags: [Drama]
 metadata: 'Poland 1964, 75 mins<br> Director: Jerzy Skolimowski'
 pdf: '2023-04-03-identification-marks-none.pdf'
@@ -114,5 +114,5 @@ Tue 25 Apr 18:20
 **Filmmaking for Artists: Advanced Filmmaking Workshop**
 Sun 2 Apr 10:30-16:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyMzA1MzQ2XX0=
+eyJoaXN0b3J5IjpbLTMwNDc1MTA1M119
 -->
