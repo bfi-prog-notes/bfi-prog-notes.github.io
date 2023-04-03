@@ -1,19 +1,23 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Correction Please;<br>or, How We Got into Pictures
+published: true
+date: 2023-04-03
+readtime: true
+categories: ['AR']
+tags: [Drama]
+metadata: 'Poland 1964, 75 mins<br> Director: Jerzy Skolimowski'
+pdf: '2023-04-03-identification-marks-none.pdf'
+---
 
 _+ intro by film historian, Ian Christie_
 
 In these two films by Noël Burch, the processes of image making are interrogated and playfully subverted through a range of inventive and elusive narrative devices. In _Correction Please_ attention is drawn to the way early cinema developed its own mode of language. Then, in _Impersonation_, a documentary exploration of the 1980s British art scene is viewed through the prism of a seemingly missing British artist.
 
-In partnership with the Essay Film Festival.
+In partnership with the Essay Film Festival.  
+**bfi.org.uk**  
 
-**bfi.org.uk  
-<![if !supportLineBreakNewLine]>  
-<![endif]>**
-
-**‘Correction Please’: a contemporary review**
-
+**‘Correction Please’: a contemporary review**  
 _Correction Please_ is a consciously unselfcontained work. This is manifest not only in the title (which carries the implicit question, what is being corrected?), but also in the film’s relationship to Burch’s continuing theoretical writings. In fact, he has already ‘amplified’ the film-text with an accompanying written one, designed to ‘clarify incidental obscurities for teachers and other users’  
 (a collection of notes supplied as a booklet with the film, and also printed in _Afterimage_, No. 8/9). But this open-ended quality is most obvious in the structure of the film itself, which disrupts a straightforward development of beginning, middle and end (very much in that order) with a series of provocative inserts designed to question the ‘innocence’ of that development.
 
@@ -110,5 +114,5 @@ Tue 25 Apr 18:20
 **Filmmaking for Artists: Advanced Filmmaking Workshop**
 Sun 2 Apr 10:30-16:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTY5MjQzM119
+eyJoaXN0b3J5IjpbNzEyMzA1MzQ2XX0=
 -->
