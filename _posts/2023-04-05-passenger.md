@@ -1,15 +1,21 @@
-
-<![endif]-->
+---
+layout: post
+title: The Passenger
+published: true
+date: 2023-04-05
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags:  [Drama]
+metadata: 'USA 1975, 160 mins<br> Director: Robert Altman'
+pdf: '2023-04-02-nashville.pdf'
+---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
 _+ intro by Geoff Andrew, Programmer-at-Large (Wednesday 5 April only)_
 
-Imaginatively scripted by Mark People and Peter Wollen, Antonioni’s last great film centres on a TV reporter (Nicholson) who impulsively decides to exchange identities with a man he finds dead in a north African hotel room – a man, fatefully, whom he barely knows… A wry portrait of a burnt-out case hoping to find a new life for himself, packed with memorable directorial flourishes.
-
-**bfi.org.uk  
-<![if !supportLineBreakNewLine]>  
-<![endif]>**
+Imaginatively scripted by Mark People and Peter Wollen, Antonioni’s last great film centres on a TV reporter (Nicholson) who impulsively decides to exchange identities with a man he finds dead in a north African hotel room – a man, fatefully, whom he barely knows… A wry portrait of a burnt-out case hoping to find a new life for himself, packed with memorable directorial flourishes.  
+**bfi.org.uk**  
 
 Michelangelo Antonioni is, to say the least, not widely recognised as a humorous director. But _The Passenger_ (1975) – in which a man hijacks another’s identity on impulse, knowing next to nothing about him, then spends the rest of the film trying to work out who he’s supposed to be and what he’s supposed to be doing – can be read as existential black comedy of the most deadpan kind.
 
@@ -87,5 +93,5 @@ Chuck Mulvehill _(David Robertson)_
 Italy/France/Spain/USA 1974©  
 129 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDMyNzU3N119
+eyJoaXN0b3J5IjpbMTk1NDE5MTkzNl19
 -->
