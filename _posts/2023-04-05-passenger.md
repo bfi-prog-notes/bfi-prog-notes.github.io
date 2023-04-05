@@ -6,8 +6,8 @@ date: 2023-04-05
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags:  [Drama]
-metadata: 'USA 1975, 160 mins<br> Director: Robert Altman'
-pdf: '2023-04-02-nashville.pdf'
+metadata: 'Italy/France/Spain/USA 1974, 129 mins<br> Director: Michelangelo Antonioni'
+pdf: '2023-04-05-passenger.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
@@ -148,5 +148,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODQyNjYwMV19
+eyJoaXN0b3J5IjpbNTE0OTkyNDU4XX0=
 -->
