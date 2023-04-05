@@ -54,16 +54,13 @@ _Executive Producer:_ Alessandro von Normann
 _Producer:_ Carlo Ponti  
 _Production Manager:_ Ennio Onorati  
 _Assistant Production Managers:_ Lynn Kamern, Paolo Pettini; Tony Moore, Adriano Magistretti _(England);_ Valentín Panero _(Spain);_ Leonard Gmür _(Germany)_  
-_Assistant Directors:_ Enrico Sannia, Claudio Taddei, Enrica Fico;  
-Hercules Bellville _(England);_ Federico Canudas _(Spain);_
-Ina Stritsche _(Germany)_  
+_Assistant Directors:_ Enrico Sannia, Claudio Taddei, Enrica Fico; Hercules Bellville _(England);_ Federico Canudas _(Spain);_ Ina Stritsche _(Germany)_  
 _Continuity:_ Lisa Bellini  
 _Screenplay:_ Mark Peploe, Peter Wollen, Michelangelo Antonioni  
 _From a story by:_ Mark Peploe  
 _Director of Photography:_ Luciano Tovol  
 _Camera Operator:_ Cesare Allione  
-_Assistant Camera:_ Michele Picciaredda, Franco Frazzi,
-Roberto Lombardi Dallamano  
+_Assistant Camera:_ Michele Picciaredda, Franco Frazzi, Roberto Lombardi Dallamano  
 _Editors:_ Franco Arcalli, Michelangelo Antonioni  
 _Art Director:_ Piero Poletto  
 _Set Decorator:_ Osvaldo Desideri  
