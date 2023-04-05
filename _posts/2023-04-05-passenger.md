@@ -39,26 +39,17 @@ I had not revisited the movie since I reviewed it on its release for a long-forg
 
 I remember, too, the beginning of the film and the deft skill with which Antonioni establishes the premise of his story. We are somewhere in the desert in northern Africa, and Nicholson – a television journalist called David Locke – is attempting to make contact with a group of rebel fighters. Nothing is spoken in this prologue (the reporter doesn’t understand Arabic); specifically memorable among the sign language is the way the scowling go-between signals his demand for payment in cigarettes by bringing his two forefingers truculently to his lips – contempt, not solicitation, being the emotion communicated. And it is this same opening sequence that furnishes what for me is the most enduring image: the spectacle of Nicholson, spade in hand, whacking the wheels of his Land Rover in pent-up fury after the vehicle has been mired in a sand dune. His cry to the Almighty, which pierces the silence, seems to contain all the futility of the world.
 
-If the beginning of the movie is unforgettable, so is the ending: a seven-minute single take that is one of the great travelling shots in film history. Sam Rohdie in his book on the director (_Antonioni_, 1990) tells us that this shot took 11 days to set up and execute. The weather was foul; the light proved fiendishly difficult to regulate; the ceiling-mounted camera on its rails had to be laboriously fitted with gyroscopes to ensure a smooth transition when it was picked up outside the window by a hook suspended from a 30-metre crane. And so on. All this, of course, the viewer doesn’t know about and can’t even imagine: the magician’s wires and pulleys are invisible. What was stunning on first viewing and remains so is the moment when the camera passes between the window bars and out into the plaza. Even after every explanation, it seems impossible.
+If the beginning of the movie is unforgettable, so is the ending: a seven-minute single take that is one of the great travelling shots in film history. Sam Rohdie in his book on the director (_Antonioni_, 1990) tells us that this shot took 11 days to set up and execute. The weather was foul; the light proved fiendishly difficult to regulate; the ceiling-mounted camera on its rails had to be laboriously fitted with gyroscopes to ensure a smooth transition when it was picked up outside the window by a hook suspended from a 30-metre crane. And so on. All this, of course, the viewer doesn’t know about and can’t even imagine: the magician’s wires and pulleys are invisible. What was stunning on first viewing and remains so is the moment when the camera passes between the window bars and out into the plaza. Even after every explanation, it seems impossible.  
+**Mark Le Fanu, _Sight and Sound_, July 2006**  
 
-**Mark Le Fanu, _Sight and Sound_, July 2006**
-
-**THE PASSENGER (PROFESSIONE: REPORTER)**
-
-_Director:_ Michelangelo Antonioni
-
-_©/Production Company:_ Compagnia Cinematografica Champion
-
-_Production Companies:_ Films Concordia (Paris), C.I.P.I. Cinematografica
-
-_Presented by:_ Metro-Goldwyn-Mayer
-
-_Executive Producer:_ Alessandro von Normann
-
-_Producer:_ Carlo Ponti
-
-_Production Manager:_ Ennio Onorati
-
+**THE PASSENGER (PROFESSIONE: REPORTER)**  
+_Director:_ Michelangelo Antonioni  
+_©/Production Company:_ Compagnia Cinematografica Champion  
+_Production Companies:_ Films Concordia (Paris), C.I.P.I. Cinematografica  
+_Presented by:_ Metro-Goldwyn-Mayer  
+_Executive Producer:_ Alessandro von Normann  
+_Producer:_ Carlo Ponti  
+_Production Manager:_ Ennio Onorati  
 _Assistant Production Managers:_ Lynn Kamern, Paolo Pettini; Tony Moore, Adriano Magistretti _(England);_ Valentín Panero _(Spain);_
 Leonard Gmür _(Germany)_
 _Assistant Directors:_ Enrico Sannia, Claudio Taddei, Enrica Fico;  
@@ -71,10 +62,8 @@ _Director of Photography:_ Luciano Tovol
 _Camera Operator:_ Cesare Allione
 _Assistant Camera:_ Michele Picciaredda, Franco Frazzi,
 Roberto Lombardi Dallamano
-
 _Editors:_ Franco Arcalli, Michelangelo Antonioni
 _Art Director:_ Piero Poletto
-
 _Set Decorator:_ Osvaldo Desideri
 _Costumes:_ Louise Stjernsward
 _Make-up:_ Franco Freda
@@ -102,5 +91,5 @@ Chuck Mulvehill _(David Robertson)_
 Italy/France/Spain/USA 1974©
 129 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDQwODI3NV19
+eyJoaXN0b3J5IjpbMTgzMDM4NzA3M119
 -->
