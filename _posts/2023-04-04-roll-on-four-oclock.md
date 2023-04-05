@@ -1,8 +1,18 @@
+---
+layout: post
+title: Roll On Four O'Clock + Kisses at Fifty
+published: true
+date: 2023-04-04
+readtime: true
+categories: ['NORTHERN VOICES']
+tags: [Television, Drama]
+metadata: 'UK 1970/73, 57/68 mins<br> Directors: Roy Battersby, Michael Apted'
+pdf: '2023-04-04-roll-on-four-oclock.pdf'
+---
 
 **Colin Welland on writing for television**
 
-Most television viewers remember Colin Welland as the toothy, down-to-earth  
-P.C. Graham of _Z-Cars_, the BBC series which began in the mid-Sixties. _Z-Cars_, with its then freshly minted documentary realism, tried to show life as it was in a contemporary Britain (and not how it might be, or never was) within the limits of a police series formula. It was the ideal finishing school for aspiring television writers, including such now established writers as John Hopkins, John McGrath and Alan Plater. Welland himself has at least four major television plays to his credit – _Bangelstein’s Boys_ (1969), _Roll On Four O’Clock_ (1970), _Kisses at Fifty_ (1973) and _Leeds United!_ (1974).
+Most television viewers remember Colin Welland as the toothy, down-to-earth  P.C. Graham of _Z-Cars_, the BBC series which began in the mid-Sixties. _Z-Cars_, with its then freshly minted documentary realism, tried to show life as it was in a contemporary Britain (and not how it might be, or never was) within the limits of a police series formula. It was the ideal finishing school for aspiring television writers, including such now established writers as John Hopkins, John McGrath and Alan Plater. Welland himself has at least four major television plays to his credit – _Bangelstein’s Boys_ (1969), _Roll On Four O’Clock_ (1970), _Kisses at Fifty_ (1973) and _Leeds United!_ (1974).
 
 It is too easy to pigeonhole his plays as ‘slices of life’ in the naturalistic mainstream which is the dominant aesthetic of television drama, though this certainly explains part of their appeal to a popular audience as well as to critics. Welland is a superb recorder of life in his Northern background (he was born in Lancashire and has lived in Leeds), with its bawdiness and exuberance and viciousness. But he also has the Dickensian virtues – not only a delight in people’s foibles and follies as expressed in individual speech and action, but also the ability to manipulate and heighten received reality (or rather versions of reality) for dramatic purpose. To this end, Welland calculatedly integrates the licence of the dramatist with the freedom of television and its multiple techniques.
 
@@ -136,6 +146,70 @@ BBC1 tx 22.1.1973
 
 *Uncredited
 <br><br>
+
+**NORTHERN VOICES**<br>
+**In Celebration**<br>
+Mon 27 Mar 20:30; Sun 23 Apr 18:10<br>
+**Northern Soul**<br>
+Thu 30 Mar 18:15; Sat 15 Apr 20:40<br>
+**The Wednesday Play: No Trams to Lime Street + Armchair Theatre: The Hard Knock**<br>
+Fri 31 Mar 18:20<br>
+**Of Time and the City**<br>
+Sat 1 Apr 20:40; Tue 18 Apr 18:20<br>
+**Saturday Night Theatre: Roll On Four O’Clock + Play for Today: Kisses at 50**<br>
+Tue 4 Apr 18:10<br>
+**Billy Liar**<br>
+Thu 6 Apr 20:30; Fri 14 Apr 18:15; Thu 27 Apr 20:50<br>
+**Letter to Brezhnev**<br>
+Fri 7 Apr 18:20; Thu 20 Apr 20:50<br>
+**Priest**<br>
+Sat 8 Apr 20:40<br>
+**The Arbor**<br>
+Tue 11 Apr 20:40; Sun 30 Apr 14:30<br>
+**Play for Today: Comedians**<br>
+Sat 15 Apr 15:15<br>
+**Play for Today: The Land of Green Ginger + Armchair Theatre: The Pity of it All**<br>
+Sun 16 Apr 15:20<br>
+**Rita, Sue and Bob Too**<br>
+Sun 16 Apr 18:30; Sun 30 Apr 12:10<br>
+**Northern Voices Forum**<br>
+Sun 23 Apr 15:00<br>
+**Laughter from Liverpool + intro**<br>
+Sat 29 Apr 14:50<br>
+
+**In partnership with**
+<img style="float: left;" src="/img/film-hub-north-01.jpg">
+<br><br><br><br><br><br><br><br>
+
+<img style="float: left;" src="/img/home-01.jpg">
+<br><br><br><br><br><br><br><br>
+
+<img style="float: left;" src="/img/bfi-fan-01.jpg">
+<br><br><br><br><br><br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTcxMTc0MjU4XX0=
 -->
