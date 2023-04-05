@@ -16,7 +16,7 @@ So I wrote _Bangelstein’s Boys_ as a stage play – Ken was going to direct it
 
 What amazes me about people is that they live in such small worlds, the walls which surround their lives are so very close to them, and what happens within that little compound is just as important or emotionally stimulating or anger-arousing as anything on a larger scale. For instance, in a pub I go to there’s trouble at the moment because of a mess-up about a Christmas domino handicap – putting new people on the highest handicap because they don’t know them, whereas the regulars think they should be scratch because _they_ don’t know them – and that domino handicap is as important to them as something on a much larger scale is to people in as it were the outside world. A lot of my plays are about the energies that can be roused by people just living out their lives, communicating with the people around them, the effects certain events are going to have on them, what their neighbours will say and so on. It’s that sort of chemistry on a small scale which can generate the emotional drive and power of a political play.
 
-_That’s especially true of_ Bangelstein’s Boys _and_ Slattery’s Mounted Foot .
+_That’s especially true of_ Bangelstein’s Boys _and_ Slattery’s Mounted Foot.
 
 It’s true of those plays, and it’s true of _Kisses at Fifty_, which is about the effect a man’s leaving his wife has on his circle of friends, his pub and everything around him. And _Say Goodnight to Your Grandma_ ... it looks so innocent just taking your baby to see your mother-in-law, but what happens is horrifying. Then _Jack Point_ was about the political intrigues of replacing an older actor with a younger actor.
 
@@ -38,26 +38,22 @@ I used to think _Roll On Four O’Clock_ was the best I’ve done, but the one I
 
 The one thing I’d say about writing for television is that I think realism has had its day. Something else has got to happen now, something more imaginative. I think _Leeds United!_ was the ultimate in realism. Nobody is going to get away again with 15 extras pretending to be 500. _Leeds United!_ signalled the end of documentary realism. It was a great watershed for me. I don’t think I want to write realistically again. Not that what I’ve written has ever been really realistic, not flat Leach-type realism. But I’d like to put a bit of the theatre magic into television. Not kid yourself that it’s really happening, but saying, ‘It’s not happening, but by God we can make you believe that it is – or can we, because it isn’t really.’
 
-Paul Madden and David Wilson, ‘The Communal Touch: The Television Plays of Colin Welland’, _Sight and Sound_, Spring 1975
+**Paul Madden and David Wilson, ‘The Communal Touch: The Television Plays of Colin Welland’, _Sight and Sound_, Spring 1975**
+<br><br>
 
-<![endif]-->
-
-**SATURDAY NIGHT THEATRE: ROLL ON FOUR O’CLOCK**
-
+**SATURDAY NIGHT THEATRE: ROLL ON FOUR O’CLOCK**  
 _Directed by_: Roy Battersby  
 _Production Company_: Granada Television  
 _Producer_: Kenith Trodd  
 _Script_: Colin Welland  
-_Photography_: David Wood, Mike Whittaker,  
-Charles Stewart  
+_Photography_: David Wood, Mike Whittaker,  Charles Stewart  
 _Editor_: Alan J. Cumner-Pryce  
 _Designer_: Peter Caldwell  
 _Music_: Bernard Wrigley  
 _Recording_: Harry Brooks  
 _Dubbing_: Tony Anscombe
 
-_Cast:_
-
+**Cast**  
 George A. Cooper _(Ted Crampton)_  
 Bill Dean _(Arthur Foster)_  
 Colin Edwynn _(Alan Johnson)_  
@@ -96,12 +92,10 @@ Michael Walsh
 Phil Welburn  
 Carl Whaite
 
-ITV tx 19.12.1970
-
+ITV tx 19.12.1970  
 57 mins
 
-**PLAY FOR TODAY: KISSES AT FIFTY**
-
+**PLAY FOR TODAY: KISSES AT FIFTY**  
 _Directed by_: Michael Apted  
 _Production Company_: BBC  
 _Producer_: Graeme McDonald  
@@ -109,9 +103,8 @@ _Script Editor_: Ann Scott
 _[Written] By_: Colin Welland  
 _Film Cameraman_: Elmer Cossey  
 _Lighting_: Dave Sydenham  
-_Film Editor_: David Naden
-
-_Designer__:_ Stuart Walker  
+_Film Editor_: David Naden  
+_Designer_:_ Stuart Walker  
 _Songs by_: The Oldham Tinkers
 
 _Sound:_ Chick Anthony  
@@ -145,5 +138,5 @@ BBC1 tx 22.1.1973
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTUyNDYyNTVdfQ==
+eyJoaXN0b3J5IjpbMTM3MDg2MTczNV19
 -->
