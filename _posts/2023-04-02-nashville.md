@@ -5,7 +5,7 @@ published: true
 date: 2023-04-02
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: Music, [Drama, Comedy]
+tags: [Music, Drama, Comedy]
 metadata: 'USA 1975, 160 mins<br> Director: Robert Altman'
 pdf: '2023-04-02-nashville.pdf'
 ---
@@ -163,5 +163,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTg5NTYyOV19
+eyJoaXN0b3J5IjpbMTM2ODc5MjU1OSwtNzc5ODk1NjI5XX0=
 -->
