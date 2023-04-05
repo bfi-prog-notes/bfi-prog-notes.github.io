@@ -104,12 +104,11 @@ _[Written] By_: Colin Welland
 _Film Cameraman_: Elmer Cossey  
 _Lighting_: Dave Sydenham  
 _Film Editor_: David Naden  
-_Designer_:_ Stuart Walker  
-_Songs by_: The Oldham Tinkers
-
+_Designer_: Stuart Walker  
+_Songs by_: The Oldham Tinkers  
 _Sound:_ Chick Anthony  
-_Cast:_
 
+**Cast**  
 Bill Maynard _(Harry)_  
 Rosemarie Dunham _(Rene)_  
 Marjorie Yates _(Audrey)_  
@@ -132,11 +131,11 @@ Bernard Atha _(social security man)_ *
 Fred McNaughton _(vicar)_ *  
 Peter Russell  *
 
-BBC1 tx 22.1.1973
-
+BBC1 tx 22.1.1973  
 68 mins
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDg2MTczNV19
+eyJoaXN0b3J5IjpbMTcxMTc0MjU4XX0=
 -->
