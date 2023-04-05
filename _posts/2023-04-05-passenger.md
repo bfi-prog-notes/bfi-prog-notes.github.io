@@ -29,11 +29,8 @@ Now the camera pans left as a police car draws up, then circles slowly rightward
 
 But before this, another mystery. Arriving at the hotel, Locke’s told by the proprietor that ‘Mrs Robertson’ has already arrived, and that he doesn’t need to show his passport – one is enough for both. He meets this supposed wife; it’s Schneider. So this young woman, whom he met a day or so previously, seemingly by chance, is travelling with the surname of his alter ego, implying – what, exactly? Once again, we’re left to supply the answer.
 
-One last, perhaps frivolous question. Following the sinuous virtuoso take we get a final shot of the corner of the hotel at sunset. It features a dog. And we’re in Andalusia. Could this – just possibly – be a sly nod to Buñuel?
-
-**Philip Kemp, _Sight and Sound_, June 2018  
-<![if !supportLineBreakNewLine]>  
-<![endif]>**
+One last, perhaps frivolous question. Following the sinuous virtuoso take we get a final shot of the corner of the hotel at sunset. It features a dog. And we’re in Andalusia. Could this – just possibly – be a sly nod to Buñuel?  
+**Philip Kemp, _Sight and Sound_, June 2018**  
 
 I had not revisited the movie since I reviewed it on its release for a long-forgotten journal called _Monogram_. Thirty-one years is a long time not to have seen something, and it’s interesting what sticks in the mind over the passing decades – images, as one might expect, rather than story having the stronger grip. So I remember very clearly certain visual icons: a matched pair of shots that show, first, Nicholson, arms outstretched in a cable car over the bay of Barcelona; and second, Maria Schneider in the back seat of an American convertible throwing out her arms in an identical gesture of freedom as the soon-to-be-lovers speed along a tree-lined avenue, on the run from who knows what to who knows where.
 
@@ -50,46 +47,45 @@ _Presented by:_ Metro-Goldwyn-Mayer
 _Executive Producer:_ Alessandro von Normann  
 _Producer:_ Carlo Ponti  
 _Production Manager:_ Ennio Onorati  
-_Assistant Production Managers:_ Lynn Kamern, Paolo Pettini; Tony Moore, Adriano Magistretti _(England);_ Valentín Panero _(Spain);_
-Leonard Gmür _(Germany)_
+_Assistant Production Managers:_ Lynn Kamern, Paolo Pettini; Tony Moore, Adriano Magistretti _(England);_ Valentín Panero _(Spain);_ Leonard Gmür _(Germany)_  
 _Assistant Directors:_ Enrico Sannia, Claudio Taddei, Enrica Fico;  
 Hercules Bellville _(England);_ Federico Canudas _(Spain);_
-Ina Stritsche _(Germany)_
-_Continuity:_ Lisa Bellini
-_Screenplay:_ Mark Peploe, Peter Wollen, Michelangelo Antonioni
-_From a story by:_ Mark Peploe
-_Director of Photography:_ Luciano Tovol
-_Camera Operator:_ Cesare Allione
+Ina Stritsche _(Germany)_  
+_Continuity:_ Lisa Bellini  
+_Screenplay:_ Mark Peploe, Peter Wollen, Michelangelo Antonioni  
+_From a story by:_ Mark Peploe  
+_Director of Photography:_ Luciano Tovol  
+_Camera Operator:_ Cesare Allione  
 _Assistant Camera:_ Michele Picciaredda, Franco Frazzi,
-Roberto Lombardi Dallamano
-_Editors:_ Franco Arcalli, Michelangelo Antonioni
-_Art Director:_ Piero Poletto
-_Set Decorator:_ Osvaldo Desideri
-_Costumes:_ Louise Stjernsward
-_Make-up:_ Franco Freda
-_Hairdresser:_ Adalgisa Favella
-_Guitar Solo:_ Mario Jalenti
-_Music Consultant:_ Ivan Vandor
-_Sound Recording:_ Cyril Collick
-_Sound Mixer:_ Fausto Ancillai
-_Sound Editor:_ Franca Silvi
+Roberto Lombardi Dallamano  
+_Editors:_ Franco Arcalli, Michelangelo Antonioni  
+_Art Director:_ Piero Poletto  
+_Set Decorator:_ Osvaldo Desideri  
+_Costumes:_ Louise Stjernsward  
+_Make-up:_ Franco Freda  
+_Hairdresser:_ Adalgisa Favella  
+_Guitar Solo:_ Mario Jalenti  
+_Music Consultant:_ Ivan Vandor  
+_Sound Recording:_ Cyril Collick  
+_Sound Mixer:_ Fausto Ancillai 
+_Sound Editor:_ Franca Silvi  
 
-**Cast**
-Jack Nicholson _(David Locke)_
-Maria Schneider _(the girl)_
-Jenny Runacre _(Rachel Locke)_
-Ian Hendry _(Martin Knight)_
-Stephen Berkoff _(Stephen)_
-Ambrose Bia _(Achebe)_
-José Maria Cafarel _(hotel keeper)_
-James Campbell _(witch doctor)_
-Mandred Spies _(German stranger)_
-Jean-Baptiste Tiemele _(murderer)_
-Angel del Pozo _(police inspector)_
-Chuck Mulvehill _(David Robertson)_
+**Cast**  
+Jack Nicholson _(David Locke)_  
+Maria Schneider _(the girl)_  
+Jenny Runacre _(Rachel Locke)_  
+Ian Hendry _(Martin Knight)_  
+Stephen Berkoff _(Stephen)_  
+Ambrose Bia _(Achebe)_  
+José Maria Cafarel _(hotel keeper)_  
+James Campbell _(witch doctor)_  
+Mandred Spies _(German stranger)_  
+Jean-Baptiste Tiemele _(murderer)_  
+Angel del Pozo _(police inspector)_  
+Chuck Mulvehill _(David Robertson)_  
 
-Italy/France/Spain/USA 1974©
-129 mins
+Italy/France/Spain/USA 1974©  
+129 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDM4NzA3M119
+eyJoaXN0b3J5IjpbMTkxMDMyNzU3N119
 -->
