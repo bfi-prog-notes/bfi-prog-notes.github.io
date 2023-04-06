@@ -2,18 +2,18 @@
 layout: post
 title: Code Unknown
 published: true
-date: 2023-04-0
+date: 2023-04-09
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags:  [Drama, Period]
-metadata: 'France/Germany/Romania 2000, 144 mins<br> Director: Jane Campion'
-pdf: '2023-04-07-portrait-of-a-lady.pdf'
+metadata: 'France/Germany/Romania 2000, 117 mins<br> Director: Michael Haneke'
+pdf: '2023-04-09-code-unknown.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
 A youth tosses a wrapper into the lap of a Romanian woman begging in Paris… Haneke’s exploration of the various consequences of this thoughtless act leads into the lives of a range of characters, mostly unconnected save that their different experiences touch on the lies, inequalities, injustices and contradictions of contemporary Western Europe. Fragmented, philosophically rigorous, it is nevertheless lucid, dramatically compelling and deeply affecting.  
-**bfi.org.uk**
+**bfi.org.uk**  
 
 ‘Morality,’ _Cahiers du cinéma_ critic Luc Moullet famously said in 1959, ‘is a question of tracking shots.’ Michael Haneke’s first – predominantly – French-language film begins with an exquisitely realised nine-minute tracking shot initially following Juliette Binoche’s Anne as she walks along the street. Were this not a Haneke film, it would be tempting to view these opening moments as a homage to the _nouvelle vague_ filmmakers’ fondness for long-take sequences that juxtapose a beautiful actress with a Parisian boulevard caught in real time. But as in Haneke’s earlier _71 Fragments of a Chronology of Chance_ and_  
 The Seventh Continent_, both of which introduce the fragmented, episodic narrative structure employed in _Code Unknown_, Haneke is concerned here with philosophical first principles rather than referentiality.
@@ -143,6 +143,61 @@ Pascal Loison _(jolly man)_
 
 France/Germany/Romania 2000©  
 117 mins  
+<br>
+
+**BIG SCREEN CLASSICS**  
+**Touch of Evil**  
+Mon 27 Mar 20:45; Tue 4 Apr 14:30; Sun 9 Apr 18:30; Fri 28 Apr 20:45  
+**Wild Strawberries (Smultronstället)**  
+Tue 28 Mar 20:50; Wed 12 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 14 Apr 20:50; Mon 24 Apr 14:30  
+**To Sleep with Anger + Borom Sarret (The Wagoner)**  
+Wed 29 Mar 18:10 (+ intro); Mon 10 Apr 12:45; Wed 12 Apr 18:00  
+**Rio Bravo**  
+Thu 30 Mar 20:20; Sun 9 Apr 12:50; Fri 21 Apr 20:20  
+**Aguirre, Wrath of God (Aguirre, der Zorn Gottes)**  
+Fri 31 Mar 21:00; Thu 13 Apr 21:00; Thu 20 Apr 18:15  
+**Last year in Marienbad (L’Année dernière à Marienbad)**  
+Sat 1 Apr 12:50; Mon 3 Apr 20:30; Sat 8 Apr 18:20; Tue 18 Apr 20:45  
+**La Grande Illusion**  
+Sat 1 Apr 13:00; Wed 12 Apr 20:40; Sat 15 Apr 18:00; Fri 21 Apr 18:15  
+**The Godfather Part II**  
+Sat 1 Apr 16:00; Sat 22 Apr 18:40; Sun 30 Apr 16:30  
+**Nashville**  
+Sun 2 Apr 17:50; Sat 8 Apr 20:00; Sat 29 Apr 16:30  
+**The Passenger (Professione: reporter)**  
+Wed 5 Apr 18:00 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 7 Apr 20:20; Sun 16 Apr 18:15; Thu 27 Apr 18:10  
+**Pickpocket**  
+Thu 6 Apr 20:45; Tue 11 Apr 14:30; Mon 17 Apr 20:50; Mon 24 Apr 20:50  
+**The Portrait of a Lady**  
+Fri 7 Apr 14:30; Wed 19 Apr 17:50 (+ intro); Sat 29 Apr 20:15  
+**Code Unknown (Code inconnu)**  
+Sun 9 Apr 15:45; Wed 26 Apr 18:15  
+**The Lady Eve**  
+Mon 10 Apr 18:15; Sat 15 Apr 12:40; Sun 30 Apr 14:15  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ3ODY5XX0=
+eyJoaXN0b3J5IjpbMTk3NTE4NjE1N119
 -->
