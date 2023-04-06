@@ -20,6 +20,44 @@ Paul Schrader, along with Susan Sontag and André Bazin, was among the first to 
 
 _Pickpocket_ was not the highest ranked of Bresson’s films in the 2012 poll. Both _Au hasard Balthazar_ (1966), and _A Man Escaped_ (1956) were placed above it. They are more rigorous, rigid, grander films (the former takes the principle of models to a logical extreme in casting a donkey as the lead). It is, however, perhaps Bresson’s most accessible film: its screenplay – Bresson’s first original work – has a clear narrative structure and, at 76 minutes, the feel of a perfectly formed novella. The film’s influence on generations of filmmakers cannot be overstated. In addition to Schrader (whose screenplay for _Taxi Driver_ pays direct homage to _Pickpocket_), Christopher Nolan, Werner Herzog, Richard Linklater and Eugène Green have all cited _Pickpocket_ as a formative film experience. The ending is directly paraphrased by the Dardenne brothers’ _The Child_ (2005) and John Michael McDonagh’s _Calvary_ (2014), both excellent works in their own rights. Still, while the imitators are many, there is only one original. Some 60 years may have passed, but Bresson’s minimalist vision remains as singular and startling as ever, compelling proof that sometimes less is more.  
 **Catherine Wheatley, _Sight and Sound_, September 2022**  
+
+
+**PICKPOCKET**  
+_Director:_ Robert Bresson  
+_Production Company:_ Agnès Delahaie Productions  
+_Producer:_ Agnès Delahaie  
+_Unit Production Manager:_ Michel Choquet  
+_Production Manager:_ Annie Dorfmann * _Administrator:_ Léon Sanz  
+_Script Supervisor:_ O. Lemarchand  
+_Screenplay:_ Robert Bresson  
+_Director of Photography:_ L.-H. Burel  
+_Camera Operator:_ Henri Raichi  
+_1st Assistant Operator:_ André du Breuil  
+_2nd Assistant Operator:_ J. de Saint Girons  
+_Special Effects:_ Lax  
+_Editor:_ Raymond Lamy  
+_Art Director:_ Pierre Charbonnier  
+_Costumer:_ L. Scatena  
+_Music:_ Lully  
+_Music Director:_ Marc Lanjean  
+_Sound Engineer:_ Antoine Archimbaud  
+_Thieves’ Movements Technical Consultant:_ Kassagi  
+
+**Cast**  
+Martin La Salle _(Michel)_  
+Marika Green _(Jeanne)_  
+Jean Pélégri _(police inspector)_  
+Dolly Scal _(Michel’s mother)_  
+Pierre Leymarie _(Jacques)_  
+Kassagi _(1st accomplice)_  
+Pierre Etaix _(2nd accomplice)_  
+César Gattegno _(inspector)_  
+Dominique Zardi _(metro passenger)_ *  
+
+France 1959  
+76 mins  
+
+\* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzQyMDc1Nl19
+eyJoaXN0b3J5IjpbLTYxNDM2MDM3OV19
 -->
