@@ -11,11 +11,9 @@ If by the end, then, we feel that we have been more amused than moved by the fil
 
 Finally, of course, the film is Tom Courtenay’s. In this, his finest part so far, no praise could be too much and yet all seems impossible. It’s not just that his body is so limber and his face so minutely expressive: it’s more that just by a hint of an expression, a particular glance of the eyes, we can see that a change of mood is about to begin. Whether engaged in imaginary machine-gun slaughter of the people he feels are thwarting him, or made conscious of his real limitations when face to face with the magnificent Liz, Courtenay’s playing has an intimacy and particularity about it which makes him perpetually fascinating to watch. It is with the help of such performances, plus some enterprising camerawork (Denys Coop), that John Schlesinger has been able to make _Billy Liar_ the most enjoyable film to have come out of the new  British cinema.  
 **Peter Harcourt, _Sight & Sound_, Autumn 1963**
+<br><br>
 
-<![endif]-->
-
-**BILLY LIAR**
-
+**BILLY LIAR**  
 _Directed by:_ John Schlesinger  
 ©:  Anglo Amalgamated Film Distributors  
 _Production Company: Vic Films_ (London)  
@@ -27,7 +25,7 @@ _Assistant Director:_ Frank Ernst
 _Continuity:_ Pamela Mann  
 _Casting Director:_ Miriam Brickman  
 _Screenplay by:_ Keith Waterhouse, Willis Hall  
-_Based on the novel and play by:_Keith Waterhouse, Willis Hall  
+_Based on the novel and play by:_ Keith Waterhouse, Willis Hall  
 _Director of Photography:_ Denys Coop  
 _Camera Operator:_ Jack Atchelor  
 _Editor:_ Roger Cherrill  
@@ -45,20 +43,16 @@ _Sound Editor:_ Malcolm Cooke
 _Adviser on Fantasy Sequences:_ Don Higgins  
 _Studio:_ Shepperton Studios
 
-_uncredited crew_
-
+_uncredited crew_  
 _Producer’s Secretary:_ Diana Harding  
-_Personal Assistant to the Producers:_  
-John Goldstone  
+_Personal Assistant to the Producers:_  John Goldstone  
 _Production Secretary:_ Ann Skinner  
 _2nd Assistant Director:_ Jim Brennan  
 _Focus Pullers:_ Neil Binney, Michael Rutter  
 _Clapper Loader:_ John Campbell  
 _Grip:_ Bert Lott  
 _Chief Electrician:_ Frank Robertson  
-_Electricians:_ Ralph Weighell, Frank Willis,  
-Wilfred Campbell, John Illisley, Archie Eyers,  
-Fred Burrows, Kesra Singh, Percy Fisher  
+_Electricians:_ Ralph Weighell, Frank Willis,  Wilfred Campbell, John Illisley, Archie Eyers,  Fred Burrows, Kesra Singh, Percy Fisher  
 _Stills:_ Harry Gillard  
 _1st Assistant Editor:_ Jack Gardner  
 _2nd Assistant Editor:_ Jean Short  
@@ -78,21 +72,18 @@ _Camera Car Driver:_ Jack Laxton
 _Publicity:_ Edna Tromans  
 _Secretary to Publicist:_ Mary Franks
 
-_Cast:_
-
+**Cast**  
 Tom Courtenay _(William ‘Billy’ Terrence Fisher)_  
 Wilfred Pickles _(Geoffrey Fisher)_  
 Mona Washbourne _(Alice Fisher)_  
 Ethel Griffies _(Grandma Florence Fisher)_  
 Finlay Currie _(Councillor Duxbury)_  
 Gwendolyn Watts _(Rita Corrigan)_  
-Helen Fraser _(Barbara)_
-
+Helen Fraser _(Barbara)_  
 Julie Christie _(Liz)_  
 Leonard Rossiter _(Emmanuel Shadrack)_  
 Rodney Bewes _(Arthur Crabtree)_  
-George Innes _(Eric Stamp)_
-
+George Innes _(Eric Stamp)_  
 Leslie Randall _(Danny Boone)_  
 Patrick Barr _(Detective Inspector MacDonald)_  
 Ernest Clark _(prison governor)_  
@@ -117,19 +108,15 @@ Alice Woods _(prostitute)_
 Jack Cunningham _(ticket examiner)_  
 Lester Leigh _(band leader)_  
 John Schlesinger _(officer in dream)_  
-Bryan Mosley
-
-Elizabeth Murray
-
-Jessie Robins
-
-Natalie Kent
-
+Bryan Mosley  
+Elizabeth Murray  
+Jessie Robins  
+Natalie Kent  
 Alexander Browne
 
-UK 1963©
-
-98 mins
+UK 1963©  
+98 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYyMTM2NzZdfQ==
+eyJoaXN0b3J5IjpbLTEyMTY1NDY4MzVdfQ==
 -->
