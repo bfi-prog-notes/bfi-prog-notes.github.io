@@ -73,8 +73,9 @@ Arliss Howard _(Eddie Waxler)_
 Michael Lyndon _(Alex)_  
 Tim Phillips _(Thorne)_
 
-USA-West Germany 1985
-89 mins
+USA-West Germany 1985  
+89 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzg3ODY5MF19
+eyJoaXN0b3J5IjpbMjMxNzI3ODUyXX0=
 -->
