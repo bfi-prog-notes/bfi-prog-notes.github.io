@@ -20,71 +20,45 @@ As Haneke has suggested in interviews, all of this would merely be a reiteration
 That amid all these heavy-duty moral/aesthetic preoccupations Haneke manages to offer powerfully understated images of the lot of economic migrants – Maria’s silent deportation and return to Paris – adds to the sense of _Code Unknown_ as a major achievement. Orchestrating his long takes, his superb use of off-screen space and chilly long shots, Haneke sets about if not reinventing, then reinvigorating a non-naive realism for the 21st century. In the process, he gives us the most intellectually stimulating and emotionally provocative piece of European cinema of recent times.  
 **Richard Falcon, _Sight and Sound_, May 2001**  <br>
 
-**CODE UNKNOWN (CODE INCONNU  RÉCIT INCOMPLET DE DIVERS VOYAGES)**
-
-_Director:_ Michael Haneke
-
-_©:_ Bavaria-Film, Filmex Romania, France 2 Cinéma, Arte France Cinéma, MK2 Productions,
-
-Films Alain Sarde
-
-_In co-production with:_ Bavaria-Film,
-
-Filmex Romania, France 2 Cinéma,
-
-Arte France Cinéma, Zweites Deutsches Fernsehen,
-
-Romanian Ministry of Culture
-
-_Presented by:_ MK2 Productions, Films Alain Sarde
-
-_With the participation of:_ Canal+
-
-_Supported by:_ Eurimages Conseil de l’Europe, Procirep
-
-_Executive Producer:_ Yvon Crenn
-
-_Producers:_ Marin Karmitz, Alain Sarde
-
-_Bavaria Film GmbH Co-producer:_ Thilo Kleine,
-
-Michael Weber
-
-_ZDF Co-producer:_ Christoph Holch
-
-_Filmex Romania Co-producer:_ Titi Popescu
-
-_Romanian Unit Production Manager:_
-
-Doïna Dragnea
-
-_Senegal Unit Production:_ Moussa Touré
-_Unit Production Manager:_ Bruno Bernard
-_Romanian Unit Production Manager:_ Razvan Constantinescu
-_Senegal Unit Production Manager:_ Mandiaye Touré
-_Unit Manager:_ Manuel Recolin
-_Romanian Unit Managers:_ Crina Crisan, Doïna Torcatoru
-_Senegal Unit Manager:_ Maguette Fonkou M’Baye
-_Location Manager:_ Thomas Pitre
-_Assistant Director:_ Alain Olivieri
-_2nd Assistant Director:_ Joseph Rapp
-_Romanian Unit 1st Assistant Directors:_ Melia Cerchez, Virgil Nicolaescu
-_Script Supervisor:_ Chloe Perlemutter
-_Casting:_ Kris Portier de Bellair
-_Romanian Unit Casting:_ Melia Cerchez, Loredana Calina Soradi
-_Screenplay:_ Michael Haneke
-_Director of Photography:_ Jürgen Jürges
-_1st Assistant Operator:_ Irina Lubtchansky
-_2nd Assistant Operator:_ Marion Befve
-_Steadicam Operator:_ Carlos Cabecerán
-_War and Metro Stills Photographs:_ Luc Delahaye
-_Visual Effects:_ Duboi
-_Special Effects:_ Pierre Foury, Daniel Lenoir, Benoît Squizzato
-_Editors:_ Andreas Prochaska, Karin Hartusch
-_Romanian Unit Supervising Art Director:_ Calin Papura
-_Art Director:_ Manuel de Chauvigny
-_Romanian Unit Art Directors:_ Gabriel Bucur,
-Vlad Teodor, Viorel Banete, Aurel Draghici, Ion Vasilescu
+**CODE UNKNOWN (CODE INCONNU  RÉCIT INCOMPLET DE DIVERS VOYAGES)**  
+_Director:_ Michael Haneke  
+_©:_ Bavaria-Film, Filmex Romania, France 2 Cinéma, Arte France Cinéma, MK2 Productions, Films Alain Sarde  
+_In co-production with:_ Bavaria-Film, Filmex Romania, France 2 Cinéma, Arte France Cinéma, Zweites Deutsches Fernsehen, Romanian Ministry of Culture  
+_Presented by:_ MK2 Productions, Films Alain Sarde  
+_With the participation of:_ Canal+  
+_Supported by:_ Eurimages Conseil de l’Europe, Procirep  
+_Executive Producer:_ Yvon Crenn  
+_Producers:_ Marin Karmitz, Alain Sarde  
+_Bavaria Film GmbH Co-producer:_ Thilo Kleine, Michael Weber  
+_ZDF Co-producer:_ Christoph Holch  
+_Filmex Romania Co-producer:_ Titi Popescu  
+_Romanian Unit Production Manager:_ Doïna Dragnea  
+_Senegal Unit Production:_ Moussa Touré  
+_Unit Production Manager:_ Bruno Bernard  
+_Romanian Unit Production Manager:_ Razvan Constantinescu  
+_Senegal Unit Production Manager:_ Mandiaye Touré  
+_Unit Manager:_ Manuel Recolin  
+_Romanian Unit Managers:_ Crina Crisan, Doïna Torcatoru  
+_Senegal Unit Manager:_ Maguette Fonkou M’Baye  
+_Location Manager:_ Thomas Pitre  
+_Assistant Director:_ Alain Olivieri  
+_2nd Assistant Director:_ Joseph Rapp  
+_Romanian Unit 1st Assistant Directors:_ Melia Cerchez, Virgil Nicolaescu  
+_Script Supervisor:_ Chloe Perlemutter  
+_Casting:_ Kris Portier de Bellair  
+_Romanian Unit Casting:_ Melia Cerchez, Loredana Calina Soradi  
+_Screenplay:_ Michael Haneke  
+_Director of Photography:_ Jürgen Jürges  
+_1st Assistant Operator:_ Irina Lubtchansky  
+_2nd Assistant Operator:_ Marion Befve  
+_Steadicam Operator:_ Carlos Cabecerán  
+_War and Metro Stills Photographs:_ Luc Delahaye  
+_Visual Effects:_ Duboi  
+_Special Effects:_ Pierre Foury, Daniel Lenoir, Benoît Squizzato  
+_Editors:_ Andreas Prochaska, Karin Hartusch  
+_Romanian Unit Supervising Art Director:_ Calin Papura  
+_Art Director:_ Manuel de Chauvigny  
+_Romanian Unit Art Directors:_ Gabriel Bucur, Vlad Teodor, Viorel Banete, Aurel Draghici, Ion Vasilescu
 _Set Decorator:_ Laurence Vendroux
 _Costumes:_ Françoise Clavel
 _Romanian Unit Key Costumer:_ Gloria Papura
@@ -161,5 +135,5 @@ Pascal Loison _(jolly man)_
 France/Germany/Romania 2000©  
 117 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzYzMTMwNV19
+eyJoaXN0b3J5IjpbMTIzNDU2OTEyN119
 -->
