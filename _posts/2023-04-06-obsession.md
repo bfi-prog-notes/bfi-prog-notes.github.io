@@ -6,10 +6,9 @@ date: 2023-04-06
 readtime: true
 categories: ['TV PREVIEWS']
 tags:  [Drama]
-metadata: 'Italy/France/Spain/USA 1974, 129 mins<br> Director: Michelangelo Antonioni'
-pdf: '2023-04-05-passenger.pdf'
+metadata: 'UK 2023, 70 mins<br> Directors: Lisa Barros D’Sa. Glenn Leyburn'
+pdf: '2023-04-06-obsession.pdf'
 ---
-
 
 _+ panel and Q&A with Morgan Lloyd Malcolm, Richard Armitage, Charlie Murphy, Indira Varma and Rish Shah. Chaired by Emma Bullimore._
 
@@ -163,5 +162,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDUxMDE1MF19
+eyJoaXN0b3J5IjpbLTk0MjY4MzI1Ml19
 -->
