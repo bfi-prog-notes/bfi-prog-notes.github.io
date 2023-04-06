@@ -58,82 +58,82 @@ _Special Effects:_ Pierre Foury, Daniel Lenoir, Benoît Squizzato
 _Editors:_ Andreas Prochaska, Karin Hartusch  
 _Romanian Unit Supervising Art Director:_ Calin Papura  
 _Art Director:_ Manuel de Chauvigny  
-_Romanian Unit Art Directors:_ Gabriel Bucur, Vlad Teodor, Viorel Banete, Aurel Draghici, Ion Vasilescu
-_Set Decorator:_ Laurence Vendroux
-_Costumes:_ Françoise Clavel
-_Romanian Unit Key Costumer:_ Gloria Papura
-_Costumer:_ Isabelle Leblanc
-_Romanian Unit Costumer:_ Adina Bucur
-_Wardrobe:_ Germaine Ribel
-_Key Make-up:_ Thi-Loan Nguyen
-_Romanian Unit Key Make-up:_ Ion Toma
-_Key Hairstylist:_ Isabelle Luzet
-_Titles:_ Ercidan
-_Music:_ Giba Gonçalves
-_Sound:_ Guillaume Sciama, Jean-Pierre LaForce
-_Studio Recordist:_ Éric Ferret
-_Sound Editor:_ Nadine Muse
-_Sound Effects:_ Laurent Lévy
-_Recordist ADR:_ Lionel Le Bras
-_Artistic Consultant:_ Hervé Icovic
-_Screenplay Translator:_ Bernard Mangiante
-_Romanian Translator:_ Ion Miron Damian
-_Bambara Translator:_ Johnson Traoré
-_Sing Language Translator:_ Béatrice Blondeau
+_Romanian Unit Art Directors:_ Gabriel Bucur, Vlad Teodor, Viorel Banete, Aurel Draghici, Ion Vasilescu  
+_Set Decorator:_ Laurence Vendroux  
+_Costumes:_ Françoise Clavel  
+_Romanian Unit Key Costumer:_ Gloria Papura  
+_Costumer:_ Isabelle Leblanc  
+_Romanian Unit Costumer:_ Adina Bucur  
+_Wardrobe:_ Germaine Ribel  
+_Key Make-up:_ Thi-Loan Nguyen  
+_Romanian Unit Key Make-up:_ Ion Toma  
+_Key Hairstylist:_ Isabelle Luzet  
+_Titles:_ Ercidan  
+_Music:_ Giba Gonçalves  
+_Sound:_ Guillaume Sciama, Jean-Pierre LaForce  
+_Studio Recordist:_ Éric Ferret  
+_Sound Editor:_ Nadine Muse  
+_Sound Effects:_ Laurent Lévy  
+_Recordist ADR:_ Lionel Le Bras  
+_Artistic Consultant:_ Hervé Icovic  
+_Screenplay Translator:_ Bernard Mangiante  
+_Romanian Translator:_ Ion Miron Damian  
+_Bambara Translator:_ Johnson Traoré  
+_Sing Language Translator:_ Béatrice Blondeau  
 
 **Cast**  
-Juliette Binoche _(Anne)_
-Thierry Neuvic _(Georges)_
-Sepp Bierbichler _(the farmer)_
-Alexandre Hamidi _(Jean)_
-Hélène Diarra _(Aminate)_
-Ona Lu Yenke _(Amadou)_
-Djibril Kouyate _(Youssouf)_
-Luminita Gheorghiu _(Maria)_
-Crenguta Hariton Stoica _(Irina)_
-Bob Nicolescu _(Dragos)_
-Bruno Todeschini _(Pierre)_
-Paulus Manker _(estate agent)_
-Didier Flamand _(director)_
-Walide Afkir _(young Arab)_
-Maurice Bénichou _(old Arab)_
-Carlo Brandt _(Henri)_
-Philippe Demarle _(Paul)_
-Marc Duret _(first policeman)_
-Arsinée Khanjian _(Francine)_
-Florence Loiret _(Amadou’s friend)_
-Nathalie Richard _(Mathilde)_
-Andrée Tainsy _(Madame Becker)_
-Elisabeth Marceul, Melissande Zeddam, Brandon Croteau, Sonia Chauvelin, Baptiste Gintzburger-Batle, Sarah Agogue Tasse, Alexandra Croteau, Jerome Ferreira, Melanie Lhote, José Marques _(children)_
-Guessi Diakite-Goumdo _(Salimata)_
-Jean-Yves Chatelais _(shop owner)_
-Laurent Suire _(second policeman)_
-Féodor Atkine _(taxi customer)_
-Malick Bowens _(witch doctor)_
-Ioan Marian Boris _(Nicu)_
-Monica Popa _(Nuta)_
-Ada Navrot _(Florica)_
-Giba Gonçalves _(percussion teacher)_
-Irina Lubtchansky _(camera assistant)_
-Dominique Douret _(David)_
-Tsuyu Bridwell _(David’s friend)_
-Antoine Mathieu _(restaurant waiter)_
-Constantin Barbulescu _(Mihai Popa)_
-Domeke Meite _(Demba)_
-Aïssa Maïga _(Rokia)_
-Marany Fofana _(Youssouf’s sister)_
-Costel Cascaval _(man in the garden)_
-Sandu Mihai Gruia _(group leader)_
-Daniel Dublet _(uncle)_
-Boris Napes _(father in cemetery)_
-Isabelle Pietra _(mother in cemetery)_
-Cristina Ioanidis _(Tatiana)_
-Ion Haiduc _(man in squat)_
-Guillaume Morvilliers _(Pierrot)_
-Pascal Loison _(jolly man)_
+Juliette Binoche _(Anne)_  
+Thierry Neuvic _(Georges)_  
+Sepp Bierbichler _(the farmer)_  
+Alexandre Hamidi _(Jean)_  
+Hélène Diarra _(Aminate)_  
+Ona Lu Yenke _(Amadou)_  
+Djibril Kouyate _(Youssouf)_  
+Luminita Gheorghiu _(Maria)_  
+Crenguta Hariton Stoica _(Irina)_  
+Bob Nicolescu _(Dragos)_  
+Bruno Todeschini _(Pierre)_  
+Paulus Manker _(estate agent)_  
+Didier Flamand _(director)_  
+Walide Afkir _(young Arab)_  
+Maurice Bénichou _(old Arab)_  
+Carlo Brandt _(Henri)_  
+Philippe Demarle _(Paul)_  
+Marc Duret _(first policeman)_  
+Arsinée Khanjian _(Francine)_  
+Florence Loiret _(Amadou’s friend)_  
+Nathalie Richard _(Mathilde)_  
+Andrée Tainsy _(Madame Becker)_  
+Elisabeth Marceul, Melissande Zeddam, Brandon Croteau, Sonia Chauvelin, Baptiste Gintzburger-Batle, Sarah Agogue Tasse, Alexandra Croteau, Jerome Ferreira, Melanie Lhote, José Marques _(children)_  
+Guessi Diakite-Goumdo _(Salimata)_  
+Jean-Yves Chatelais _(shop owner)_  
+Laurent Suire _(second policeman)_  
+Féodor Atkine _(taxi customer)_  
+Malick Bowens _(witch doctor)_  
+Ioan Marian Boris _(Nicu)_  
+Monica Popa _(Nuta)_  
+Ada Navrot _(Florica)_  
+Giba Gonçalves _(percussion teacher)_  
+Irina Lubtchansky _(camera assistant)_  
+Dominique Douret _(David)_  
+Tsuyu Bridwell _(David’s friend)_  
+Antoine Mathieu _(restaurant waiter)_  
+Constantin Barbulescu _(Mihai Popa)_  
+Domeke Meite _(Demba)_  
+Aïssa Maïga _(Rokia)_  
+Marany Fofana _(Youssouf’s sister)_  
+Costel Cascaval _(man in the garden)_  
+Sandu Mihai Gruia _(group leader)_  
+Daniel Dublet _(uncle)_  
+Boris Napes _(father in cemetery)_  
+Isabelle Pietra _(mother in cemetery)_  
+Cristina Ioanidis _(Tatiana)_  
+Ion Haiduc _(man in squat)_  
+Guillaume Morvilliers _(Pierrot)_  
+Pascal Loison _(jolly man)_  
 
 France/Germany/Romania 2000©  
 117 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDU2OTEyN119
+eyJoaXN0b3J5IjpbLTg0NDczMzkxM119
 -->
