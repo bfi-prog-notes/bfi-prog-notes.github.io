@@ -20,8 +20,7 @@ April 2023 will see the release of _Obsession_, a four-part drama series for Net
 
 Morgan has worked extensively with Clean Break, a feminist theatre company working with women with experience of prison. Her commission _Typical Girls_, a play set in a women’s prison featuring the music of The Slits, ran at the Sheffield Crucible in 2021. Her new play _Mum_ ran at Plymouth Theatre Royal and Soho Theatre in 2021, with another new play for High Tide, _When the Long Trick’s Over_, which toured last year after a run at the New Wolsey Theatre in Ipswich. She also runs a theatre company called Terrifying Women with Abi Zakarian, Sampira and Amanda Castro which produces new horror plays written by women.
 
-Morgan’s previous plays _Belongings_ and _The Wasp_ were both produced at the Hampstead Theatre and Trafalgar Studios. _Belongings_ was shortlisted for  
-The Charles Wintour Most Promising Playwright Award.
+Morgan’s previous plays _Belongings_ and _The Wasp_ were both produced at the Hampstead Theatre and Trafalgar Studios. _Belongings_ was shortlisted for The Charles Wintour Most Promising Playwright Award.
 
 As an actor **Richard Armitage** has appeared in many film, television and stage productions and has recently become a published author for the first time with the publication of the acclaimed thriller _Geneva_ (Audible / Faber & Faber).
 
@@ -31,8 +30,7 @@ Richard’s more recent TV work includes Bryan Fuller’s reimagining of _Hannib
 
 Richard can be seen in the third season of EPIX’s espionage drama, _Berlin Station_ opposite Richard Jenkins and Rhys Ifans. He also appeared as the lead villain in Gary Ross’ movie _Ocean’s Eight_ alongside Sandra Bullock, Cate Blanchett, Anne Hathaway, Helena Bonham Carter, Sarah Paulson, Rihanna, and Mindy Kaling. Richard also starred in _Pilgrimage_ opposite Tom Holland and Jon Bernthal as well as _Brain on Fire_ (directed by Gerard Barrett) opposite Chloe Grace Moretz.
 
-In the theatre world, Richard appeared in Ian Rickson’s interpretation of _Uncle Vanya_ starring opposite Toby Jones. Richard also delivered a critically acclaimed performance as the lead of Arthur Miller’s modern drama,  
-_The Crucible_, at the Old Vic Theatre. He was nominated for an Olivier Award for his performance. Off Broadway Richard appeared in the play, _Love, Love, Love_ directed by Michael Mayer.
+In the theatre world, Richard appeared in Ian Rickson’s interpretation of _Uncle Vanya_ starring opposite Toby Jones. Richard also delivered a critically acclaimed performance as the lead of Arthur Miller’s modern drama, _The Crucible_, at the Old Vic Theatre. He was nominated for an Olivier Award for his performance. Off Broadway Richard appeared in the play, _Love, Love, Love_ directed by Michael Mayer.
 
 **Charlie Murphy** is an award-winning Irish actress. She can most recently be seen in the final instalment of the BAFTA-winning series, _Happy Valley_  in which Charlie reprised the role of Ann Gallagher; a part which also garnered her an award for Best Supporting Actress at the Irish Film and Television Awards in 2017. The BBC crime drama follows Yorkshire police officer, Catherine, who, whilst battling family demons, discovers the remains of a gangland murder which sparks a chain of events that unwittingly lead her straight back to the dangerous and sadistic Tommy Lee Royce.
 
@@ -69,7 +67,7 @@ Shah made his professional stage debut in London playing Alan in the critically-
 Entertainment journalist and BBC radio presenter, **Emma Bullimore** has been writing about television for more than a decade. She frequently appears on radio and television, including BBC Breakfast, BBC 5Live, Times Radio and Radio 4's _Front Row_, as well as being the resident TV critic on Jo Whiley's Radio 2 show. She regularly chairs live events for the likes of BAFTA, the BFI and the BBC.  
 <br>
 
-**Obsession**  
+**OBSESSION**  
 _Directors:_ Lisa Barros D’Sa. Glenn Leyburn  
 _Production Companies:_ Netflix, Gaumont UK, Moonage Pictures  
 _Executive Producer_ _(Gaumont UK):_ Alison Jackson  
@@ -94,7 +92,7 @@ _Sound Recordist:_ Cassandra Rutledge
 _SFX Supervisor:_ Nigel Cripps  
 _Stunts Coordinator:_ Sarah Franzl  
 
-_Cast:_  
+**Cast**  
 Richard Armitage _(William Farrow)_  
 Charlie Murphy _(Anna Barton)_  
 Indira Varma _(Ingrid Farrow)_  
