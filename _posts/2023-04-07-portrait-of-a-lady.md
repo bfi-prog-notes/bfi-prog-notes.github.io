@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags:  [Drama, Period]
 metadata: 'UK/USA 1996, 144 mins<br> Director: Jane Campion'
-pdf: '2023-04-06-pickpocket.pdf'
+pdf: '2023-04-07-portrait-of-a-lady.pdf'
 ---
 
 _The Portrait of a Lady_ bestows on the world one of the greatest heroines in fiction. As read by Campion’s film, Isabel Archer (Nicole Kidman) is a gauche and difficult young American on the brink of womanhood, whose uneasy metamorphosis – emotional, moral or spiritual – takes place as she ventures through a Europe that is both glittering palace and cold, forbidding mausoleum. In the talk of those around her (and this is a film about talk, rather than the silence of _The Piano_, with the often brutal admissions of the protagonists delivered in a smartingly clipped style), she is subjected to scrutiny, dissection and ultimately terrible deception, as she befriends the intriguing sophisticate Madame Merle (Barbara Hershey) and the decadent artefact collector Gilbert Osmond John Malkovich), two mendacious Americans with an affected – and infected – sense of their ‘European-ness’. Isabel’s tale, as she inherits a legacy and consequently becomes a woman of means, with seemingly more freedom to choose what to do with her life, is not just one of female individuation, but of the defining of one culture in the face of another.
@@ -191,6 +191,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTcyMTU5MzIsLTE0NzE3ODA0ODNdfQ
+eyJoaXN0b3J5IjpbLTEwODYzMzg5NzAsLTE0NzE3ODA0ODNdfQ
 ==
 -->
