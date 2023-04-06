@@ -56,109 +56,60 @@ Shah made his feature film debut in 2021 as Ravi in the Netflix film _To All the
 
 Shah made his professional stage debut in London playing Alan in the critically-acclaimed production of _Torch Song Trilogy_ at London’s Turbine Theatre, directed by Olivier Award-winning Drew McOnie.
 
-Entertainment journalist and BBC radio presenter, **Emma Bullimore** has been writing about television for more than a decade. She frequently appears on radio and television, including BBC Breakfast, BBC 5Live, Times Radio and Radio 4's _Front Row_, as well as being the resident TV critic on Jo Whiley's Radio 2 show. She regularly chairs live events for the likes of BAFTA, the BFI and the BBC.
+Entertainment journalist and BBC radio presenter, **Emma Bullimore** has been writing about television for more than a decade. She frequently appears on radio and television, including BBC Breakfast, BBC 5Live, Times Radio and Radio 4's _Front Row_, as well as being the resident TV critic on Jo Whiley's Radio 2 show. She regularly chairs live events for the likes of BAFTA, the BFI and the BBC.  
 <br>
-<![endif]-->
 
-**Obsession**
-
-_Directors:_ Lisa Barros D’Sa. Glenn Leyburn
-
-_Production Companies:_ Netflix, Gaumont UK, Moonage Pictures
-
-_Executive Producer_ _(Gaumont UK):_ Alison Jackson
-
-_Executive Producers (Moonage Pictures):_
-
-Matthew Read, Frith Tiplady
-
+**Obsession**  
+_Directors:_ Lisa Barros D’Sa. Glenn Leyburn  
+_Production Companies:_ Netflix, Gaumont UK, Moonage Pictures  
+_Executive Producer_ _(Gaumont UK):_ Alison Jackson  
+_Executive Producers (Moonage Pictures):_ Matthew Read, Frith Tiplady  
 _Co-Producer (Moonage Pictures):_ Matthew Wilson
-
-_Producer:_ Gina Carter
-
-_Writer & Associate Producer:_
-
-Morgan Lloyd Malcolm
-
-_Writer:_ Benji Wilson
-
-_Casting Director:_ Jina Jay
-
-_Line Producer:_ Wendy Wright
-
-_Production Manager:_ Anna Botka
-
-_Production Accountant:_ Theresa Mckay-Roberts
-
-_Director of Photography:_ Piers McGrall
-
-_Editors:_ Sam Sneade, Kate Baird
-
-_Production Designer:_ John Stevenson
-
+_Producer:_ Gina Carter  
+_Writer & Associate Producer:_ Morgan Lloyd Malcolm  
+_Writer:_ Benji Wilson  
+_Casting Director:_ Jina Jay  
+_Line Producer:_ Wendy Wright  
+_Production Manager:_ Anna Botka  
+_Production Accountant:_ Theresa Mckay-Roberts  
+_Director of Photography:_ Piers McGrall  
+_Editors:_ Sam Sneade, Kate Baird  
+_Production Designer:_ John Stevenson 
 _Supervising Art Director:_ Ben Clements
-
 _Art Director:_ Lissa Lamona
-
 _Costume Designer:_ Keith Madden
-
 _Hair & Make-up Designer:_ Sian Miller
-
 _Location Manager:_ Peter-Frank Dewulf
-
 _Sound Recordist:_ Cassandra Rutledge
-
 _SFX Supervisor:_ Nigel Cripps
-
 _Stunts Coordinator:_ Sarah Franzl
 
 _Cast:_
-
 Richard Armitage _(William Farrow)_
-
 Charlie Murphy _(Anna Barton)_
-
 Indira Varma _(Ingrid Farrow)_
-
 Rish Shah _(Jay Farrow)_
-
 Pippa Bennett-Warner _(Peggy)_
-
 Sonera Angel _(Sally Farrow_)
-
 Anil Goutam _(Edward)_
-
 Marion Bailey _(Elizabeth)_
-
 Francesca Knight _(Nadia)_
-
 Oscar Batterham _(David)_
-
 Letty Thomas _(Lynnette)_
-
 Ed Hughes _(psychotherapist)_
-
 Celine Arden _(Mimi)_
-
 Cath Whitefield _(female police officer)_
-
 Victor Pontecorvo _(Olivier)_
-
 Kerim Hassan _(Johnno)_
-
 Nathan Hubble _(Xander)_
-
 Georgie Rhys _(officiant)_
-
 Isla Jackson-Ritchie _(Peggy’s receptionist)_
-
 Jane Dowden _(neighbour)_
 
 UK 2023
-
 Episodes 1&2 70 mins
 
 Total running time 120 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQzNDQwNzhdfQ==
+eyJoaXN0b3J5IjpbMjUwMTc1OTk5XX0=
 -->
