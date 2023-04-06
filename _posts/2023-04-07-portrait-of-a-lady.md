@@ -15,8 +15,116 @@ From _A Girl’s Own Story_, through _Two Friends_, _Sweetie_, _An Angel at My T
 And half Isabel’s battle is for herself not to become a beautiful thing, an ornate bauble in Osmond’s collection. Campion traces her journey, from _ingénue_ to a woman caught up in an elaborate style (at times she wears a net-like lace veil that seems to emphasise just how snared she is). Tightly shot, this film deals mostly in close-ups: it is, after all, about portraits. And what is most striking is just how many portraits there are – with Kidman’s own metamorphosing (even at one point taking on the mask-like appearance of the starkly attractive Madame Merle). In a tightly wound performance, Kidman gives very little away. But we can see her looking, her blue eyes, so proudly loath to shed tears, soaking up everything around her. And if we peer at the portraits long enough, we may discern what is going on in the headstrong head at their centre, as she peers at her reflection and finally comes to recognise herself – though such self-recognition rarely provides easy answers. In a film haunted by Eros and Thanatos, caught up in their dry embrace (snatches of Schubert’s _Death and the Maiden_ are heard on the soundtrack) the path to love seems one of psychotic self-destruction.
 
 For Campion does not like easy endings – after the choppy finale of _The Piano_, _The Portrait of a Lady_ is no less bracing. The white lightning of the final scene seems to spring as swiftly as the opening, as Campion catches the perilous ambiguity of Isabel’s destiny. It is an astounding moment: a sudden cold flash in which whole audiences of presumptuous girls may find existential truths. Then, with the door of this House of Fiction closed securely behind, Campion leaves us asking of ourselves what other paths are there to be followed.  
-**Lizzie Francke, _Sight and Sound_, November 1996**
+**Lizzie Francke, _Sight and Sound_, November 1996**  
+<br>
 
+**THE PORTRAIT OF A LADY**  
+_Director:_ Jane Campion  
+_Production Companies:_ PolyGram Filmed Entertainment, Propaganda Films  
+_Producers:_ Monty Montgomery, Steve Golin  
+_Co-producer:_ Ann Wingate  
+_Associate Producer:_ Mark Turnbull  
+_Executive in Charge of Production:_ Tim Clawson  
+_Production Supervisor:_ Joel Hatch  
+_Production Co-ordinator:_ Judi Bunn  
+_Italy Production Co-ordinator:_ Maria G. (Mona) Bernal  
+_Italy Production Manager:_ Marco Valerio Pugini  
+_Unit Production Manager:_ Nigel Goldsack  
+_Location Manager:_ Nick Daubeny  
+_Italy Location Manager:_ Riccardo Neri  
+_Italy Location Production Manager:_ Giles Johnson  
+_Executive in Charge of Post-production:_ Glenn Kiser  
+_Post-production Supervisors:_ Rosemary Dority,
+Linda Shamest  
+_2nd Unit Director:_ Colin Englert  
+_1st Assistant Director:_ Mark Turnbull  
+_2nd Assistant Director:_ Paul Taylor  
+_3rd Assistant Director:_ Simon Emmanuel  
+_Assistant Director (Italy):_ Ida Corti  
+_3rd Assistant Director (Italy):_ Piero Frescobaldi  
+_Script Supervisor:_ Lynn-Maree Danzey  
+_UK Casting:_ Beth Charkham  
+_Associate Casting:_ Elaine J. Huzzar  
+_Italy Casting:_ Shaila Rubin  
+_ADR Voice Casting:_ Brendan Donnison  
+_Screenplay:_ Laura Jones  
+_Original Novel:_ Henry James  
+_Script Consultant:_ Jan Chapman  
+_Director of Photography:_ Stuart Dryburgh  
+_Camera Operator:_ Nigel Willoughby  
+_2nd Unit Camera Operators:_ Kate Robinson, Marco Cristiani  
+_2nd Unit Cameraman:_ Julian Court  
+_Steadicam Operator:_ Marco Pieroni  
+_Digital/Optical Effects:_ Peerless Camera Company  
+_Visual Effects Supervisor:_ Kent Houston  
+_Co-ordinator Visual Effects:_ Susi Ropoer  
+_Digital Effects:_ Ditch Doy, Paddy Eason, Mark Nelmes, Tim Ollive, Manfred Dean Yurke  
+_Optical Effects:_ Martin Body, David Smith  
+_Motion Control:_ Chris Lovegrove, Charlie Tyler  
+_Special Effects:_ Snow Business Effects Associates, First Effects  
+_Italy Chief Special Effects:_ Fabio Traversari  
+_Editor:_ Veronika Jenet  
+_Production Designer:_ Janet Patterson  
+_Supervising Art Director:_ Martin Childs  
+_Art Director:_ Mark Raggett  
+_Italy Art Director:_ Stefano Ortolani  
+_Supervising Set Decorator:_ Jill Quertier  
+_Italy Set Decorator:_ Bruno Cesari  
+_Italy Scenic Artist:_ Domenico Sica  
+_Costume Designer:_ Janet Patterson  
+_Wardrobe Supervisor:_ Patrick Wheatley  
+_Wardrobe Mistress:_ Ros Ward  
+_Make-up:_ Amanda Knight, Ken Lintott  
+_Hair/Make-up Designers:_ Peter Owen, Magdalen Gaffney, Peter King  
+_Hairdresser:_ Campbell Young  
+_Title Design:_ Peter Long, Kate Ellis  
+_Music:_ Wojciech Kilar  
+_Music Conductors:_ Stepán Konicek, Nic Raine  
+_Score Orchestrations:_ Wojciech Kilar  
+_Music Supervisor:_ Dawn Solér  
+_Music Editor:_ Veronika Jenet  
+_Music Engineer/Mixer:_ John Timperley  
+_Music Consultant:_ Andrew Kotatko  
+_Choreography:_ Flavia Sparapani  
+_Sound Design:_ Lee Smith  
+_Sound Mixer:_ Peter Glossop  
+_Re-recording Mixers:_ Gethin Creagh, Martin Oswin  
+_Dialogue Editors:_ Karin Whittington, Andrew Plain  
+_Sound Effects Editor:_ Peter Townend  
+_ADR Supervisor:_ Annabelle Sheehan  
+_ADR Mixers:_ Julie Pearce, Robert Deschaine, Paul Zydel, David Humphries  
+_ADR Editor:_ Tim Jordan  
+_Foley Walker:_ John Simpson  
+_Foley Mixer:_ Julie Pearce  
+_Etiquette Adviser:_ Stephen Calloway  
+_Piano Instructor:_ Maggie Balter  
+
+**Cast**  
+Nicole Kidman _(Isabel Archer)_  
+John Malkovich _(Gilbert Osmond)_  
+Barbara Hershey _(Madame Serena Merle)_  
+Mary Louise Parker _(Henrietta Stackpole)_  
+Martin Donovan _(Ralph Touchett)_  
+Shelley Winters _(Mrs Touchett)_  
+Richard E. Grant _(Lord Warburton)_  
+Shelley Duvall _(Countess Gemini)_  
+Christian Bale _(Edward Rosier)_  
+Viggo Mortensen _(Caspar Goodwood)_  
+Valentina Cervi _(Pansy Osmond)_  
+John Gielgud _(Mr Touchett)_  
+Roger Ashton-Griffiths _(Bob Bantling)_  
+Catherine Zago _(Mother Superior)_  
+Alessandra Vanzi _(2nd nun)_  
+Katie Campbell _(1st Miss Molyneux)_  
+Katherine Anne Porter _(2nd Miss Molyneux)_  
+Eddy Seager _(Strongman’s spruiker)_  
+Pat Roach _(Strongman)_  
+Emanuelle Carucci Viterbi _(Roccanera butler)_  
+Francesca Bartellini _(Isabel’s maid)_  
+Achille Brugnini _(footman at ballroom)_  
+
+UK/USA 1996©  
+144 mins  
 <br>
 
 **BIG SCREEN CLASSICS**  
@@ -73,5 +181,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE3ODA0ODNdfQ==
+eyJoaXN0b3J5IjpbMTA4MDgwMTg5OCwtMTQ3MTc4MDQ4M119
 -->
