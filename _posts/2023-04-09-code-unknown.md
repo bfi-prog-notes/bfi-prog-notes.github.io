@@ -5,7 +5,7 @@ published: true
 date: 2023-04-09
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags:  [Drama, Period]
+tags:  [Drama]
 metadata: 'France/Germany/Romania 2000, 117 mins<br> Director: Michael Haneke'
 pdf: '2023-04-09-code-unknown.pdf'
 ---
@@ -15,8 +15,7 @@ pdf: '2023-04-09-code-unknown.pdf'
 A youth tosses a wrapper into the lap of a Romanian woman begging in Paris… Haneke’s exploration of the various consequences of this thoughtless act leads into the lives of a range of characters, mostly unconnected save that their different experiences touch on the lies, inequalities, injustices and contradictions of contemporary Western Europe. Fragmented, philosophically rigorous, it is nevertheless lucid, dramatically compelling and deeply affecting.  
 **bfi.org.uk**  
 
-‘Morality,’ _Cahiers du cinéma_ critic Luc Moullet famously said in 1959, ‘is a question of tracking shots.’ Michael Haneke’s first – predominantly – French-language film begins with an exquisitely realised nine-minute tracking shot initially following Juliette Binoche’s Anne as she walks along the street. Were this not a Haneke film, it would be tempting to view these opening moments as a homage to the _nouvelle vague_ filmmakers’ fondness for long-take sequences that juxtapose a beautiful actress with a Parisian boulevard caught in real time. But as in Haneke’s earlier _71 Fragments of a Chronology of Chance_ and_  
-The Seventh Continent_, both of which introduce the fragmented, episodic narrative structure employed in _Code Unknown_, Haneke is concerned here with philosophical first principles rather than referentiality.
+‘Morality,’ _Cahiers du cinéma_ critic Luc Moullet famously said in 1959, ‘is a question of tracking shots.’ Michael Haneke’s first – predominantly – French-language film begins with an exquisitely realised nine-minute tracking shot initially following Juliette Binoche’s Anne as she walks along the street. Were this not a Haneke film, it would be tempting to view these opening moments as a homage to the _nouvelle vague_ filmmakers’ fondness for long-take sequences that juxtapose a beautiful actress with a Parisian boulevard caught in real time. But as in Haneke’s earlier _71 Fragments of a Chronology of Chance_ and _The Seventh Continent_, both of which introduce the fragmented, episodic narrative structure employed in _Code Unknown_, Haneke is concerned here with philosophical first principles rather than referentiality.
 
 As this sequence-shot bears witness to the sudden street incident that links the disparate experiences of Maria (a Romanian immigrant), Amadou (the son of West African refugees), Anne, and Jean (the brother of Anne’s boyfriend Georges), the film offers the first of a number of scenes which use the multicultural public spaces of Paris, not for their fashionability (Haneke points out he could as easily have filmed his script in London) but as a laboratory for testing the relationship between representation and reality. The results confirm Haneke’s reputation as one of cinema’s most accomplished moralists.
 
