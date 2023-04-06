@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Pickpocket
+published: true
+date: 2023-04-06
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags:  [Drama]
+metadata: 'France 1959, 76 mins<br> Director: Robert Bresson'
+pdf: '2023-04-06-pickpocket.pdf'
+---
 
 Uncomplainingly jobless in late-50s Paris, Michel starts stealing from strangers, for reasons unclear even to himself. He spouts vague theories about exceptional individuals being above the law – but is he lost in another world, as Jeanne, a young woman he half-heartedly befriends, tells him?
 
@@ -59,5 +68,5 @@ France 1959
 
 \* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDM2MDM3OV19
+eyJoaXN0b3J5IjpbMTA2NTc2MTk0OV19
 -->
