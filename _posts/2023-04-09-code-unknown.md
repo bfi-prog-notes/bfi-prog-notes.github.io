@@ -18,9 +18,7 @@ Alongside this quotidian malaise are the characters’ attempts to achieve conta
 As Haneke has suggested in interviews, all of this would merely be a reiteration of various modernist clichés about the impossibility of communication were the film not to comprise one superb sequence after another. Rather than dryly demonstrating a thesis, each scene conveys a deeply affecting sense of authenticity and immediacy. The performance of the deglamorised – but still luminescent – Juliette Binoche, whose approach to Haneke initiated the film, contributes immeasurably to the success of _Code Unknown_. A sequence from the film she is shooting (she plays an actress), in which she is interrogated – one of two startling scenes that reveal Haneke’s grasp of the strength of our desire to be manipulated (the other – at first deliberately confusing levels of reality – involves a toddler crawling on the edge of a tall building) – is a masterclass in close-up acting.
 
 That amid all these heavy-duty moral/aesthetic preoccupations Haneke manages to offer powerfully understated images of the lot of economic migrants – Maria’s silent deportation and return to Paris – adds to the sense of _Code Unknown_ as a major achievement. Orchestrating his long takes, his superb use of off-screen space and chilly long shots, Haneke sets about if not reinventing, then reinvigorating a non-naive realism for the 21st century. In the process, he gives us the most intellectually stimulating and emotionally provocative piece of European cinema of recent times.  
-**Richard Falcon, _Sight and Sound_, May 2001**  
-
-<![endif]-->
+**Richard Falcon, _Sight and Sound_, May 2001**  <br>
 
 **CODE UNKNOWN (CODE INCONNU  RÉCIT INCOMPLET DE DIVERS VOYAGES)**
 
@@ -61,141 +59,67 @@ _Romanian Unit Production Manager:_
 Doïna Dragnea
 
 _Senegal Unit Production:_ Moussa Touré
-
 _Unit Production Manager:_ Bruno Bernard
-
-_Romanian Unit Production Manager:_
-
-Razvan Constantinescu
-
+_Romanian Unit Production Manager:_ Razvan Constantinescu
 _Senegal Unit Production Manager:_ Mandiaye Touré
-
 _Unit Manager:_ Manuel Recolin
-
-_Romanian Unit Managers:_ Crina Crisan,
-
-Doïna Torcatoru
-
+_Romanian Unit Managers:_ Crina Crisan, Doïna Torcatoru
 _Senegal Unit Manager:_ Maguette Fonkou M’Baye
-
 _Location Manager:_ Thomas Pitre
-
 _Assistant Director:_ Alain Olivieri
-
 _2nd Assistant Director:_ Joseph Rapp
-
-_Romanian Unit 1st Assistant Directors:_
-
-Melia Cerchez, Virgil Nicolaescu
-
+_Romanian Unit 1st Assistant Directors:_ Melia Cerchez, Virgil Nicolaescu
 _Script Supervisor:_ Chloe Perlemutter
-
 _Casting:_ Kris Portier de Bellair
-
-_Romanian Unit Casting:_ Melia Cerchez,
-
-Loredana Calina Soradi
-
+_Romanian Unit Casting:_ Melia Cerchez, Loredana Calina Soradi
 _Screenplay:_ Michael Haneke
-
 _Director of Photography:_ Jürgen Jürges
-
 _1st Assistant Operator:_ Irina Lubtchansky
-
 _2nd Assistant Operator:_ Marion Befve
-
 _Steadicam Operator:_ Carlos Cabecerán
-
 _War and Metro Stills Photographs:_ Luc Delahaye
-
 _Visual Effects:_ Duboi
-
-_Special Effects:_ Pierre Foury, Daniel Lenoir,
-
-Benoît Squizzato
-
+_Special Effects:_ Pierre Foury, Daniel Lenoir, Benoît Squizzato
 _Editors:_ Andreas Prochaska, Karin Hartusch
-
-_Romanian Unit Supervising Art Director:_
-
-Calin Papura
-
+_Romanian Unit Supervising Art Director:_ Calin Papura
 _Art Director:_ Manuel de Chauvigny
-
 _Romanian Unit Art Directors:_ Gabriel Bucur,
-
-Vlad Teodor, Viorel Banete, Aurel Draghici,
-
-Ion Vasilescu
-
+Vlad Teodor, Viorel Banete, Aurel Draghici, Ion Vasilescu
 _Set Decorator:_ Laurence Vendroux
-
 _Costumes:_ Françoise Clavel
-
 _Romanian Unit Key Costumer:_ Gloria Papura
-
 _Costumer:_ Isabelle Leblanc
-
 _Romanian Unit Costumer:_ Adina Bucur
-
 _Wardrobe:_ Germaine Ribel
-
 _Key Make-up:_ Thi-Loan Nguyen
-
 _Romanian Unit Key Make-up:_ Ion Toma
-
 _Key Hairstylist:_ Isabelle Luzet
-
 _Titles:_ Ercidan
-
 _Music:_ Giba Gonçalves
-
 _Sound:_ Guillaume Sciama, Jean-Pierre LaForce
-
 _Studio Recordist:_ Éric Ferret
-
 _Sound Editor:_ Nadine Muse
-
 _Sound Effects:_ Laurent Lévy
-
 _Recordist ADR:_ Lionel Le Bras
-
 _Artistic Consultant:_ Hervé Icovic
-
 _Screenplay Translator:_ Bernard Mangiante
-
 _Romanian Translator:_ Ion Miron Damian
-
 _Bambara Translator:_ Johnson Traoré
-
 _Sing Language Translator:_ Béatrice Blondeau
 
-_Cast:_
-
+**Cast**  
 Juliette Binoche _(Anne)_
-
 Thierry Neuvic _(Georges)_
-
 Sepp Bierbichler _(the farmer)_
-
 Alexandre Hamidi _(Jean)_
-
 Hélène Diarra _(Aminate)_
-
 Ona Lu Yenke _(Amadou)_
-
 Djibril Kouyate _(Youssouf)_
-
 Luminita Gheorghiu _(Maria)_
-
 Crenguta Hariton Stoica _(Irina)_
-
 Bob Nicolescu _(Dragos)_
-
 Bruno Todeschini _(Pierre)_
-
 Paulus Manker _(estate agent)_
-
 Didier Flamand _(director)_
 Walide Afkir _(young Arab)_
 Maurice Bénichou _(old Arab)_
@@ -237,5 +161,5 @@ Pascal Loison _(jolly man)_
 France/Germany/Romania 2000©  
 117 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ4MzA4Ml19
+eyJoaXN0b3J5IjpbLTUzMzYzMTMwNV19
 -->
