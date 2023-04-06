@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Code Unknown
+published: true
+date: 2023-04-0
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags:  [Drama, Period]
+metadata: 'France/Germany/Romania 2000, 144 mins<br> Director: Jane Campion'
+pdf: '2023-04-07-portrait-of-a-lady.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -135,5 +144,5 @@ Pascal Loison _(jolly man)_
 France/Germany/Romania 2000©  
 117 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDczMzkxM119
+eyJoaXN0b3J5IjpbLTE3NDQ3ODY5XX0=
 -->
