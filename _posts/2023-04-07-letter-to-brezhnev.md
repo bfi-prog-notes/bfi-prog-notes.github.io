@@ -45,18 +45,13 @@ I had not one ounce of shame in those poverty-stricken days, and so with my exec
 
 Cut to:
 
-And then it was upon us, the cast and crew were in place and they had all agreed to defer their fees until after the film had wrapped, was in the can and sold. It was, artistically at least, out of my hands now. I passed the baby over to Chris and I knew, I had always known, how safe and well-nurtured it would be in his charge.
+And then it was upon us, the cast and crew were in place and they had all agreed to defer their fees until after the film had wrapped, was in the can and sold. It was, artistically at least, out of my hands now. I passed the baby over to Chris and I knew, I had always known, how safe and well-nurtured it would be in his charge.  
+**Frank Clarke, booklet essay for _Letter to Brezhnev_ Blu-ray/DVD (BFI, 2017)**
+<br><br>
 
-Frank Clarke, booklet essay for _Letter to Brezhnev_ Blu-ray/DVD (BFI, 2017)
-
-<![endif]-->
-
-**LETTER TO BREZHNEV**
-
+**LETTER TO BREZHNEV**  
 _Director_: Chris Bernard  
-_Production Companies_: Yeardream,  
-Film Four International,  
-Palace Productions  
+_Production Companies_: Yeardream,  Film Four International,  Palace Productions  
 _Producer_: Janet Goddard  
 _Co-producer_: Caroline Spack  
 _Associate Producer_: Paul Lister  
@@ -71,27 +66,23 @@ _Clapper Loader_: Paul Grech-Ellul
 _Graphic Artist_: Jamie Reid  
 _Editor_: Lesley Walker  
 _Assistant Editor_: Oliver Huddleston  
-_Designers_: Lez Brotherston,  
-Nick Englefield, Jonathan Swain  
+_Designers_: Lez Brotherston,  Nick Englefield, Jonathan Swain  
 _Costume Designer_: Mark Reynolds  
 _Wardrobe_: Jill Horn, Dawn Russell  
 _Make-up Artist_: Viv Howells  
 _Music_: Alan Gill  
 _Music Arranger_: Wolfgang Kafer  
 _Sound Recordist_: Ray Beckett  
-_Boom Operators_: St. Clair Davis,  
-Roy Mason  
+_Boom Operators_: St. Clair Davis,  Roy Mason  
 _Sound Editor_: Charles Ware
 
-_Cast:_
-
+**Cast**  
 Alfred Molina _(Sergei)_  
 Peter Firth _(Peter)_  
 Margi Clarke _(Teresa King)_  
 Tracy Lea _(Tracy)_  
 Alexandra Pigg _(Elaine Spencer)_  
-Susan Dempsey_  
-(girl in yellow pedal pushers)_  
+Susan Dempsey _(girl in yellow pedal pushers)_  
 Ted Wood _(Mick)_  
 Carl Chase _(taxi driver)_  
 Robbie Dee _(Charlie)_  
@@ -108,9 +99,9 @@ Ken Campbell _(reporter)_
 Neil Cunningham _(foreign office official)_  
 John Carr _(‘sweaty arse’)_
 
-UK 1985
-
-94 mins
+UK 1985    
+94 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTMxODMwMTBdfQ==
+eyJoaXN0b3J5IjpbMTUyMDMzMzU0N119
 -->
