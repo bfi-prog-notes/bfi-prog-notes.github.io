@@ -118,15 +118,15 @@ Thu 6 Apr 18:15
 **TV Preview: Dead Ringers + panel and Q&A with Rachel Weisz, Alice Birch and Britne Oldford**  
 Tue 11 Apr 17:45  
 **Storm Damage + panel discussion and Q&A with Ashley Walters, Adrian Lester and Ashley Madekwe  (work permitting)**  
-Thu 13 Apr 18:00
-**Alan Bennett in Conversation + Objects of Affection: A Woman of no Importance +Talking Heads 2: Waiting for the Telegram**
-Mon 17 April 18:10
-**BFI Flipside UHD/Blu-ray launch: Full Circle: The Haunting of Julia + Q&A with director Richard Loncraine and film historian Simon Fitzjohn**
-Wed 19 Apr 18:10
-**The Duellists + Q&A with composer Howard Blake**
-Mon 24 Apr 18:10
-**Theorem (Teorema) + intro and talk with Bruce LaBruce, and Doesn’t Exist magazine launch**
-Thu 27 Apr 18:00
+Thu 13 Apr 18:00  
+**Alan Bennett in Conversation + Objects of Affection: A Woman of no Importance +Talking Heads 2: Waiting for the Telegram**  
+Mon 17 April 18:10  
+**BFI Flipside UHD/Blu-ray launch: Full Circle: The Haunting of Julia + Q&A with director Richard Loncraine and film historian Simon Fitzjohn**  
+Wed 19 Apr 18:10  
+**The Duellists + Q&A with composer Howard Blake**  
+Mon 24 Apr 18:10  
+**Theorem (Teorema) + intro and talk with Bruce LaBruce, and Doesn’t Exist magazine launch**  
+Thu 27 Apr 18:00  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODUxODAzMjBdfQ==
+eyJoaXN0b3J5IjpbLTE2NzQxOTY1MTJdfQ==
 -->
