@@ -80,36 +80,25 @@ Jon Hall _(Randy Curtis)_
 Mischa Auer _(Russell Paxton)_  
 Phyllis Brooks _(Allison Grant)_  
 Barry Sullivan _(Dr Brooks)_  
-Mary Phillips _(Maggie Grant)_
-
-Don Loper _(dancer)_
-
-Edward Fielding _(Dr Carlton)_
-
-Mary Parker _(Miss Parker)_
-
-Catherine Craig _(Miss Foster)_
-
-Marietta Canty _(Martha)_
-
-Virginia Farmer _(Miss Edwards)_
-
-Fay Helm _(Miss Bowers)_
-
-Kay Linaker _(Liza’s mother)_
-
-Harvey Stephens _(Liza’s father)_
-
+Mary Phillips _(Maggie Grant)_  
+Don Loper _(dancer)_  
+Edward Fielding _(Dr Carlton)_  
+Mary Parker _(Miss Parker)_  
+Catherine Craig _(Miss Foster)_  
+Marietta Canty _(Martha)_  
+Virginia Farmer _(Miss Edwards)_  
+Fay Helm _(Miss Bowers)_  
+Kay Linaker _(Liza’s mother)_  
+Harvey Stephens _(Liza’s father)_  
 Rand Brooks _(Ben)_
 
-USA 1944
-
+USA 1944  
 100 mins
 
 A BFI National Archive print
 
-**Please note:** this film contains language, images  
-or other content that reflects views prevalent in its time, but that may cause offence today.
+**Please note:** this film contains language, images  or other content that reflects views prevalent in its time, but that may cause offence today.
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDMzMDQ4NiwtODQwMDQyMDU4XX0=
+eyJoaXN0b3J5IjpbLTE2MDM1MTc5MjQsLTg0MDA0MjA1OF19
 -->
