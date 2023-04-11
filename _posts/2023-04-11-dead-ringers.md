@@ -46,23 +46,17 @@ Edith Bowman’s critically acclaimed weekly _Soundtracking_ podcast is the film
 
 She also hosts Netflix’s _The Crown: The Official Podcast_ diving deep into the stories of each episode interviewing the likes of Olivia Colman, Gillian Anderson and Helena Bonham Carter.  
 
-**Dead Ringers  
-**_Created by:_  Alice Birch_Co-produced by:_ Amazon Studios, Annapurna Television
-
-_Executive Producers:_ Alice Birch,
-
-Rachel Weisz
-
+**Dead Ringers**  
+_Created by:_  Alice Birch
+_Co-produced by:_ Amazon Studios, Annapurna Television
+_Executive Producers:_ Alice Birch, Rachel Weisz
 _Executive Producers (for Astral Projection):_ Stacy O’Neil, Sue Naegle, Sean Durkin
-
 _Executive Producer (for Annapurna Television):_ Ali Krug
-
-_Executive Producers:_ Erica Kay,
-
-Anne Carey, Polly Stokes
-
+_Executive Producers:_ Erica Kay, Anne Carey, Polly Stokes
 _Executive Producers (for Morgan Creek):_ James G. Robinson, David Robinson, Barbara Wall
-_Written by:_  Alice Birch (eps. 1, 6), Ming Peiffer (ep. 2), Rachel De-Lahay (ep. 3), Susan Soon He Stanton (ep. 5), Miriam Battye (ep. 4)_Directed by:_  Sean Durkin (eps. 1, 2, 6), Karena Evans (ep. 3), Lauren Wolkstein (eps. 4, 6), Karyn Kusama (ep. 5)_Photography:_  Jody Lee Lipes_Editing:_  Lisa Lassek, Daniel Valverde_Music Supervisor:_  Lucy Bright_Composer:_  Nathan Halpern_Music Editor:_ Nick Kmet
+_Written by:_  Alice Birch (eps. 1, 6), Ming Peiffer (ep. 2), Rachel De-Lahay (ep. 3), Susan Soon He Stanton (ep. 5), Miriam Battye (ep. 4)
+_Directed by:_  Sean Durkin (eps. 1, 2, 6), Karena Evans (ep. 3), Lauren Wolkstein (eps. 4, 6), Karyn Kusama (ep. 5)
+_Photography:_  Jody Lee Lipes_Editing:_  Lisa Lassek, Daniel Valverde_Music Supervisor:_  Lucy Bright_Composer:_  Nathan Halpern_Music Editor:_ Nick Kmet
 
 **Cast**
 _Rachel Weisz _(Beverly Mantle/  
@@ -75,5 +69,5 @@ Eps 1 and 2: total running time 110 mins
 Total running time of event 170 mins
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTYwNTM5MV19
+eyJoaXN0b3J5IjpbMTAxNzg5NzA3XX0=
 -->
