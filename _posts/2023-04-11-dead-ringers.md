@@ -1,3 +1,14 @@
+---
+layout: post
+title: Dead Ringers
+published: true
+date: 2023-04-11
+readtime: true
+categories: ['TV PREVIEWS']
+tags: [Drama]
+metadata: 'USA 2023 , 110 mins<br> Creator: Alice Birch'
+pdf: '2023-04-11-arbor.pdf'
+---
 
 _+ panel and Q&A with Rachel Weisz, Alice Birch and Britne Oldford. Chaired by Edith Bowman._
 
@@ -88,5 +99,5 @@ Mon 24 Apr 18:10<br>
 Thu 27 Apr 18:00<br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjE2NTY3MTQsMTEzNTUwMjI4M119
+eyJoaXN0b3J5IjpbLTQxMTA3NzQ0MywxMTM1NTAyMjgzXX0=
 -->
