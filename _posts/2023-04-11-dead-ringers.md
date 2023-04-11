@@ -87,16 +87,16 @@ Total running time of event 170 mins
 <br>
 
 **IN PERSON & PREVIEWS**  
-**Storm Damage + panel discussion and Q&A with Ashley Walters, Adrian Lester and Ashley Madekwe  (work permitting)**<br>
-Thu 13 Apr 18:00<br>
-**Alan Bennett in Conversation + Objects of Affection: A Woman of no Importance +Talking Heads 2: Waiting for the Telegram**<br>
-Mon 17 April 18:10<br>
-**BFI Flipside UHD/Blu-ray launch: Full Circle: The Haunting of Julia + Q&A with director Richard Loncraine and film historian Simon Fitzjohn**<br>
-Wed 19 Apr 18:10<br>
-**The Duellists + Q&A with composer Howard Blake**<br>
-Mon 24 Apr 18:10<br>
-**Theorem (Teorema) + intro and talk with Bruce LaBruce, and Doesn’t Exist magazine launch**<br>
-Thu 27 Apr 18:00<br>
+**Storm Damage + panel discussion and Q&A with Ashley Walters, Adrian Lester and Ashley Madekwe  (work permitting)**  
+Thu 13 Apr 18:00  
+**Alan Bennett in Conversation + Objects of Affection: A Woman of no Importance +Talking Heads 2: Waiting for the Telegram**  
+Mon 17 April 18:10  
+**BFI Flipside UHD/Blu-ray launch: Full Circle: The Haunting of Julia + Q&A with director Richard Loncraine and film historian Simon Fitzjohn**  
+Wed 19 Apr 18:10  
+**The Duellists + Q&A with composer Howard Blake**  
+Mon 24 Apr 18:10  
+**Theorem (Teorema) + intro and talk with Bruce LaBruce, and Doesn’t Exist magazine launch**  
+Thu 27 Apr 18:00  
 
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
@@ -123,5 +123,5 @@ Questions/comments? Contact the Programme Notes team by [email](mailto: prognote
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODU5ODE4MywxMTM1NTAyMjgzXX0=
+eyJoaXN0b3J5IjpbLTE3ODEwNDA0NTksMTEzNTUwMjI4M119
 -->
