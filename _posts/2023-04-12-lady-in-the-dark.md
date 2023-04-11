@@ -53,20 +53,16 @@ A ‘love temple’ of intricate fretwork covered with peach blossoms.
 
 To photograph the three dreams – the first in blue, the second in green and gold, and the third in rainbow circus hues – cameraman Ray Rennahan had to assemble more arc lights than had ever been focused on a single stage before.
 
-Paramount Pictures
+**Paramount Pictures**
+<br><br>
 
-<![endif]-->
-
-**LADY IN THE DARK**
-
+**LADY IN THE DARK**  
 _Director_: Mitchell Leisen  
-_Production Company_: Paramount Pictures
-
+_Production Company_: Paramount Pictures  
 _Executive Producer:_ B.G. De Sylva  
 _Producer_: Richard Blumenthal  
 _Screenplay_: Frances Goodrich, Albert Hackett  
-_Based on the play by_: Moss Hart
-
+_Based on the play by_: Moss Hart  
 _Music and Lyrics:_ Kurt Weill, Ira Gershwin  
 _Director of Photography_: Ray Rennahan  
 _Editor_: Alma Macrorie  
@@ -76,8 +72,7 @@ _Costumes_: Raoul Pene Du Bois, Edith Head
 _Make-up_: Wally Westmore  
 _Music_: Robert Emmett Dolan
 
-_Cast:_
-
+**Cast**  
 Ginger Rogers _(Liza Elliott)_  
 Ray Milland _(Claude ‘Charley’ Johnson)_  
 Warner Baxter _(Kendall Nesbitt)_
@@ -118,5 +113,5 @@ A BFI National Archive print
 **Please note:** this film contains language, images  
 or other content that reflects views prevalent in its time, but that may cause offence today.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjIwOTkxOV19
+eyJoaXN0b3J5IjpbLTg0MDA0MjA1OF19
 -->
