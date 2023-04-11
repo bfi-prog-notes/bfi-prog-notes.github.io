@@ -7,14 +7,14 @@ readtime: true
 categories: ['TV PREVIEWS']
 tags: [Drama]
 metadata: 'USA 2023 , 110 mins<br> Creator: Alice Birch'
-pdf: '2023-04-11-arbor.pdf'
+pdf: '2023-04-11-dead-ringers.pdf'
 ---
 
 _+ panel and Q&A with Rachel Weisz, Alice Birch and Britne Oldford. Chaired by Edith Bowman._
 
-A modern take on David Cronenberg’s 1988 thriller starring Jeremy Irons, _Dead Ringers_ will feature Rachel Weisz playing the double-lead role of Elliot and Beverly Mantle, twins who share everything: drugs, lovers, and an unapologetic desire to do whatever it takes – including pushing the boundaries on medical ethics – in an effort to challenge antiquated practices and bring women’s healthcare to the forefront. The series’ ensemble cast also includes Britne Oldford as Genevieve, Poppy Liu as Greta, Michael Chernus as Tom, Jennifer Ehle as Rebecca, and Emily Meade as Susan.
+A modern take on David Cronenberg’s 1988 thriller starring Jeremy Irons, _Dead Ringers_ will feature Rachel Weisz playing the double-lead role of Elliot and Beverly Mantle, twins who share everything: drugs, lovers, and an unapologetic desire to do whatever it takes – including pushing the boundaries on medical ethics – in an effort to challenge antiquated practices and bring women’s healthcare to the forefront. The series’ ensemble cast also includes Britne Oldford as Genevieve, Poppy Liu as Greta, Michael Chernus as Tom, Jennifer Ehle as Rebecca, and Emily Meade as Susan.  
 
-**Panel**
+**Panel**  
 Academy Award®-winning actress **Rachel Weisz** is well known for portraying complex women, often combining vulnerability and strength in equal measure. Driven by great storytelling and a desire to work with visionary filmmakers, Weisz has added producer to her credits as she seeks out and develops engaging material with bold characters and authentic voices.
 
 In her first major foray into television, Weisz headlines and executive produces _Dead Ringers_, a reimagining of David Cronenberg’s cult classic 1980s film with a gender swap. She plays twin gynecologists, Beverly and Elliot Mantle, who hope to change the way that women give birth. Amazon gave a straight-to-series order to the project from Weisz, Alice Birch, lead writer of Hulu’s acclaimed _Normal People_ series, Annapurna Television and Morgan Creek Entertainment. It will premiere in April 21.
@@ -86,7 +86,7 @@ Eps 1 and 2: total running time 110 mins
 Total running time of event 170 mins  
 <br>
 
-**IN PERSON & PREVIEWS**<br>
+**IN PERSON & PREVIEWS**  
 **Storm Damage + panel discussion and Q&A with Ashley Walters, Adrian Lester and Ashley Madekwe  (work permitting)**<br>
 Thu 13 Apr 18:00<br>
 **Alan Bennett in Conversation + Objects of Affection: A Woman of no Importance +Talking Heads 2: Waiting for the Telegram**<br>
@@ -98,6 +98,30 @@ Mon 24 Apr 18:10<br>
 **Theorem (Teorema) + intro and talk with Bruce LaBruce, and Doesn’t Exist magazine launch**<br>
 Thu 27 Apr 18:00<br>
 
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTA3NzQ0MywxMTM1NTAyMjgzXX0=
+eyJoaXN0b3J5IjpbLTQyODU5ODE4MywxMTM1NTAyMjgzXX0=
 -->
