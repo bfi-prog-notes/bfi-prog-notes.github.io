@@ -1,9 +1,7 @@
-<![endif]-->
 
-**Paramount production notes for ‘Lady in the Dark’**
 
-As a play, _Lady in the Dark_ opened on Broadway on 23 January 1941.  
-It comes to the screen as one of the most lavish and spectacular productions in motion picture history.
+**Paramount production notes for ‘Lady in the Dark’**  
+As a play, _Lady in the Dark_ opened on Broadway on 23 January 1941.  It comes to the screen as one of the most lavish and spectacular productions in motion picture history.
 
 The Moss Hart-Kurt Weill-Ira Gershwin ‘drama with music’ has been transferred virtually intact to the film medium, the principal difference being that photographic ingenuity has permitted a display of fantastic effects in the dream sequences which were not possible on the stage, and that the psychological basis of the main story has been expanded and elaborated slightly for the sake of clarity.
 
@@ -120,5 +118,5 @@ A BFI National Archive print
 **Please note:** this film contains language, images  
 or other content that reflects views prevalent in its time, but that may cause offence today.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI3MTc2OTZdfQ==
+eyJoaXN0b3J5IjpbMTYyNjIwOTkxOV19
 -->
