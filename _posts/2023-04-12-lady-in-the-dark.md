@@ -75,13 +75,11 @@ _Music_: Robert Emmett Dolan
 **Cast**  
 Ginger Rogers _(Liza Elliott)_  
 Ray Milland _(Claude ‘Charley’ Johnson)_  
-Warner Baxter _(Kendall Nesbitt)_
-
+Warner Baxter _(Kendall Nesbitt)_  
 Jon Hall _(Randy Curtis)_  
 Mischa Auer _(Russell Paxton)_  
 Phyllis Brooks _(Allison Grant)_  
-Barry Sullivan _(Dr Brooks)_
-
+Barry Sullivan _(Dr Brooks)_  
 Mary Phillips _(Maggie Grant)_
 
 Don Loper _(dancer)_
@@ -113,5 +111,5 @@ A BFI National Archive print
 **Please note:** this film contains language, images  
 or other content that reflects views prevalent in its time, but that may cause offence today.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDA0MjA1OF19
+eyJoaXN0b3J5IjpbMTk4NDMzMDQ4NiwtODQwMDQyMDU4XX0=
 -->
