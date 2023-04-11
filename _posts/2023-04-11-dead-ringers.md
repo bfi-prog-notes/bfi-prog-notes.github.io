@@ -59,19 +59,21 @@ _Directed by:_  Sean Durkin (eps. 1, 2, 6), Karena Evans (ep. 3), Lauren Wolkste
 _Photography:_  Jody Lee Lipes  
 _Editing:_  Lisa Lassek, Daniel Valverde  
 _Music Supervisor:_  Lucy Bright  
-_Composer:_  Nathan Halpern
-_Music Editor:_ Nick Kmet
+_Composer:_  Nathan Halpern  
+_Music Editor:_ Nick Kmet  
 
-**Cast**
-_Rachel Weisz _(Beverly Mantle/  
-Elliot Mantle)  
-_Britne Oldford _(Genevieve)_Poppy Liu _(Greta)_Michael Chernus _(Tom)_Jennifer Ehle _(Rebecca)  
-_Emily Meade _(Susan)_USA 2023
+**Cast**  
+_Rachel Weisz _(Beverly Mantle/Elliot Mantle)
+_Britne Oldford _(Genevieve)  
+_Poppy Liu _(Greta)
+_Michael Chernus _(Tom)
+_Jennifer Ehle _(Rebecca)  
+_Emily Meade _(Susan)
+_USA 2023
 
 Eps 1 and 2: total running time 110 mins
-
 Total running time of event 170 mins
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzM2ODA4OV19
+eyJoaXN0b3J5IjpbMTEzNTUwMjI4M119
 -->
