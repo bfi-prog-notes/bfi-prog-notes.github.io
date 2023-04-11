@@ -46,7 +46,7 @@ Edith Bowman’s critically acclaimed weekly _Soundtracking_ podcast is the film
 
 She also hosts Netflix’s _The Crown: The Official Podcast_ diving deep into the stories of each episode interviewing the likes of Olivia Colman, Gillian Anderson and Helena Bonham Carter.  
 
-**Dead Ringers**  
+**DEAD RINGERS**  
 _Created by:_  Alice Birch  
 _Co-produced by:_ Amazon Studios, Annapurna Television  
 _Executive Producers:_ Alice Birch, Rachel Weisz  
@@ -75,5 +75,5 @@ Eps 1 and 2: total running time 110 mins
 Total running time of event 170 mins  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzMzNDQyNiwxMTM1NTAyMjgzXX0=
+eyJoaXN0b3J5IjpbLTIwNzUxMTI2OTgsMTEzNTUwMjI4M119
 -->
