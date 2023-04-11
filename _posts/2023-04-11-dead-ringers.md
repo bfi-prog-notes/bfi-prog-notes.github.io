@@ -63,17 +63,17 @@ _Composer:_  Nathan Halpern
 _Music Editor:_ Nick Kmet  
 
 **Cast**  
-_Rachel Weisz _(Beverly Mantle/Elliot Mantle)
-_Britne Oldford _(Genevieve)  
-_Poppy Liu _(Greta)
-_Michael Chernus _(Tom)
-_Jennifer Ehle _(Rebecca)  
-_Emily Meade _(Susan)
-_USA 2023
+Rachel Weisz _(Beverly Mantle/Elliot Mantle)_  
+Britne Oldford _(Genevieve)_  
+Poppy Liu _(Greta)_  
+Michael Chernus _(Tom)_  
+Jennifer Ehle _(Rebecca)_  
+Emily Meade _(Susan)_  
+USA 2023  
 
-Eps 1 and 2: total running time 110 mins
-Total running time of event 170 mins
+Eps 1 and 2: total running time 110 mins  
+Total running time of event 170 mins  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTUwMjI4M119
+eyJoaXN0b3J5IjpbLTE2MzMzNDQyNiwxMTM1NTAyMjgzXX0=
 -->
