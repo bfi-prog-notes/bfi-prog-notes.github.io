@@ -1,12 +1,9 @@
 
-<![endif]-->
-
 _+ panel and Q&A with Rachel Weisz, Alice Birch and Britne Oldford. Chaired by Edith Bowman._
 
 A modern take on David Cronenberg’s 1988 thriller starring Jeremy Irons, _Dead Ringers_ will feature Rachel Weisz playing the double-lead role of Elliot and Beverly Mantle, twins who share everything: drugs, lovers, and an unapologetic desire to do whatever it takes – including pushing the boundaries on medical ethics – in an effort to challenge antiquated practices and bring women’s healthcare to the forefront. The series’ ensemble cast also includes Britne Oldford as Genevieve, Poppy Liu as Greta, Michael Chernus as Tom, Jennifer Ehle as Rebecca, and Emily Meade as Susan.
 
 **Panel**
-
 Academy Award®-winning actress **Rachel Weisz** is well known for portraying complex women, often combining vulnerability and strength in equal measure. Driven by great storytelling and a desire to work with visionary filmmakers, Weisz has added producer to her credits as she seeks out and develops engaging material with bold characters and authentic voices.
 
 In her first major foray into television, Weisz headlines and executive produces _Dead Ringers_, a reimagining of David Cronenberg’s cult classic 1980s film with a gender swap. She plays twin gynecologists, Beverly and Elliot Mantle, who hope to change the way that women give birth. Amazon gave a straight-to-series order to the project from Weisz, Alice Birch, lead writer of Hulu’s acclaimed _Normal People_ series, Annapurna Television and Morgan Creek Entertainment. It will premiere in April 21.
@@ -35,8 +32,7 @@ Alice’s adaption of _The End We Start From_ by Megan Hunter, finished shooting
 
 **Britne Oldford**  is a stage, film, and television actress on the rise. Next up for her is a starring role opposite Rachel Weisz in the upcoming Amazon limited series _Dead Ringers_.
 
-She can currently be seen starring as Fei in Season 3 of Netflix’s hit series  
-_The Umbrella Academy_.
+She can currently be seen starring as Fei in Season 3 of Netflix’s hit series  _The Umbrella Academy_.
 
 Oldford recently joined BCDF Pictures’ romantic comedy _Which Brings Me to You_ opposite Lucy Hale and Nat Wolff. The film tells the story of a freelance journalist and a photographer who are immediately drawn to each other and spend 24 hours becoming acquainted through candid, hilarious, and sometimes tragic tales.
 
@@ -48,7 +44,36 @@ It’s no wonder she has presented the Scottish BAFTA’s for seven consecutive 
 
 Edith Bowman’s critically acclaimed weekly _Soundtracking_ podcast is the film industry’s go to with the biggest actors and composers choosing talking to Edith about the music that inspired them and how they use music in their films, from their current release to key moments in their career. Guests on the podcast include Nick Frost, Ewan McGregor, Ricky Gervais, Tim Burton, Pedro Almodóvar, Quentin Tarantino, Hugh Grant, Richard Curtis, Bradley Cooper, Guy Ritchie, Greta Gerwig and more.
 
-She also hosts Netflix’s _The Crown: The Official Podcast_ diving deep into the stories of each episode interviewing the likes of Olivia Colman, Gillian Anderson and Helena Bonham Carter.
+She also hosts Netflix’s _The Crown: The Official Podcast_ diving deep into the stories of each episode interviewing the likes of Olivia Colman, Gillian Anderson and Helena Bonham Carter.  
+
+**Dead Ringers  
+**_Created by:_  Alice Birch_Co-produced by:_ Amazon Studios, Annapurna Television
+
+_Executive Producers:_ Alice Birch,
+
+Rachel Weisz
+
+_Executive Producers (for Astral Projection):_ Stacy O’Neil, Sue Naegle, Sean Durkin
+
+_Executive Producer (for Annapurna Television):_ Ali Krug
+
+_Executive Producers:_ Erica Kay,
+
+Anne Carey, Polly Stokes
+
+_Executive Producers (for Morgan Creek):_ James G. Robinson, David Robinson, Barbara Wall
+_Written by:_  Alice Birch (eps. 1, 6), Ming Peiffer (ep. 2), Rachel De-Lahay (ep. 3), Susan Soon He Stanton (ep. 5), Miriam Battye (ep. 4)_Directed by:_  Sean Durkin (eps. 1, 2, 6), Karena Evans (ep. 3), Lauren Wolkstein (eps. 4, 6), Karyn Kusama (ep. 5)_Photography:_  Jody Lee Lipes_Editing:_  Lisa Lassek, Daniel Valverde_Music Supervisor:_  Lucy Bright_Composer:_  Nathan Halpern_Music Editor:_ Nick Kmet
+
+**Cast**
+_Rachel Weisz _(Beverly Mantle/  
+Elliot Mantle)  
+_Britne Oldford _(Genevieve)_Poppy Liu _(Greta)_Michael Chernus _(Tom)_Jennifer Ehle _(Rebecca)  
+_Emily Meade _(Susan)_USA 2023
+
+Eps 1 and 2: total running time 110 mins
+
+Total running time of event 170 mins
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ5MDA1MTJdfQ==
+eyJoaXN0b3J5IjpbMjAwMTYwNTM5MV19
 -->
