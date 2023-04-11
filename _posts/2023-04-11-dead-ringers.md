@@ -73,7 +73,20 @@ USA 2023
 
 Eps 1 and 2: total running time 110 mins  
 Total running time of event 170 mins  
+<br>
+
+**IN PERSON & PREVIEWS**<br>
+**Storm Damage + panel discussion and Q&A with Ashley Walters, Adrian Lester and Ashley Madekwe  (work permitting)**<br>
+Thu 13 Apr 18:00<br>
+**Alan Bennett in Conversation + Objects of Affection: A Woman of no Importance +Talking Heads 2: Waiting for the Telegram**<br>
+Mon 17 April 18:10<br>
+**BFI Flipside UHD/Blu-ray launch: Full Circle: The Haunting of Julia + Q&A with director Richard Loncraine and film historian Simon Fitzjohn**<br>
+Wed 19 Apr 18:10<br>
+**The Duellists + Q&A with composer Howard Blake**<br>
+Mon 24 Apr 18:10<br>
+**Theorem (Teorema) + intro and talk with Bruce LaBruce, and Doesn’t Exist magazine launch**<br>
+Thu 27 Apr 18:00<br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzUxMTI2OTgsMTEzNTUwMjI4M119
+eyJoaXN0b3J5IjpbLTE4MjE2NTY3MTQsMTEzNTUwMjI4M119
 -->
