@@ -1,4 +1,14 @@
-<![endif]-->
+---
+layout: post
+title: Take This Waltz
+published: true
+date: 2023-04-13
+readtime: true
+categories: ['WOMAN WITH A MOVIE CAMERA']
+tags: [Drama]
+metadata: 'USA 1980, 129 mins<br> Director: Martin Scorsese'
+pdf: '2023-04-13-take-this-waltz.pdf'
+---
 
 Sitting in a movie theatre as the credits rolled on _The Death Collector_ (1975), _Raging Bull_’s casting director Cis Corman felt they could have found their Joey LaMotta. The film hadn’t made much of an impression, but the actor playing Joe, a debt enforcer for the mob, had. His name was Joe Pesci. Corman sent Robert De Niro a copy of the film. ‘That’s how I saw Joe for the first time,’ recalls De Niro. He made a call to Scorsese. ‘Marty, you’ve got to see this guy. This guy is interesting.’ ‘I liked him,’ remembers Scorsese. ‘What I liked was he seemed like he was so authentic that he, how should I say it, was an actor but he was not an actor. Simple.’
 
@@ -62,21 +72,23 @@ _Los Angeles Visual Consultant:_ Gene Rudolf
 _Art Directors (Los Angeles):_ Alan Manser, Kirk Axtell  
 _Art Director (New York):_ Sheldon Haber  
 _Set Decorators:_ Fred Weiler, Philip Abramson  
-_Property Masters:_ Emily Ferry, Tom Saccio _Costume Designers:_ Richard Bruno, John Boxer _Make-up Artists:_ Frank Westmore, Mike Maggi _Make-up Created by:_ Michael Westmore _Hairstylists:_ Jean Burt Reilly, Verne Caruso, Mary Keats, Mona Orr
-_Title Design by:_ Dan Perri
-_Opticals:_ Modern Film Effects, Movie Magic,  EFX Unlimited
-_Black and White Timing:_ Jim Henry
-_Sound Mixers:_ Les Lazarowitz, Michael Evje
-_Re-recording Engineers:_ Donald O. Mitchell,  
-Bill Nicholson, David J. Kimball
-
-_Sound Effects Supervising Editor:_ Frank Warner
-_Boxing Technical Adviser:_ Al Silvani
-_Technical Adviser:_ Frank Topham
+_Property Masters:_ Emily Ferry, Tom Saccio  
+_Costume Designers:_ Richard Bruno, John Boxer  
+_Make-up Artists:_ Frank Westmore, Mike Maggi  
+_Make-up Created by:_ Michael Westmore  
+_Hairstylists:_ Jean Burt Reilly, Verne Caruso, Mary Keats, Mona Orr  
+_Title Design by:_ Dan Perri  
+_Opticals:_ Modern Film Effects, Movie Magic,  EFX Unlimited  
+_Black and White Timing:_ Jim Henry  
+_Sound Mixers:_ Les Lazarowitz, Michael Evje  
+_Re-recording Engineers:_ Donald O. Mitchell, Bill Nicholson, David J. Kimball  
+_Sound Effects Supervising Editor:_ Frank Warner  
+_Boxing Technical Adviser:_ Al Silvani  
+_Technical Adviser:_ Frank Topham  
 _Special Assistance:_ Emmet Murphy,
-Rob Hummel
-_Consultant:_ Jake La Motta
-_Research:_ Gloria Norris
+Rob Hummel  
+_Consultant:_ Jake La Motta  
+_Research:_ Gloria Norris  
 _Stunt Co-ordinator:_ Jim Nickerson  
 
 **Cast**  
@@ -162,5 +174,5 @@ USA 1980©
 
 A Park Circus release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM2NDQ1NDgsLTE1MzI0NzY1XX0=
+eyJoaXN0b3J5IjpbODE5OTQxOTQ0LC0xNTMyNDc2NV19
 -->
