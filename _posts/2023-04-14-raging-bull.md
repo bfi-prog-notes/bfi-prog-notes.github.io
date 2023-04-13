@@ -26,53 +26,42 @@ As scripted, the two brothers were to meet and Joey was to spill his coffee as J
 Scorsese went with the first take. ‘Every actor in Hollywood would love to be opposite Robert De Niro in a Martin Scorsese film and at the end cry in each other’s arms and beat each other up and go for the big dramatic ending,’ says Pesci. ‘But I remember when I first saw the scene I was so thankful to Bob, because I would never have thought to have played it that way, and it felt so real. Bob said to fight it and that is what I did.’ Their gentle embrace was note perfect. It was all that was needed. To this day Pesci is convinced that ‘Marty never knew that Bob came to see me that day.’  
 **Jay Glennie, edited from _Raging Bull: The Making Of_ available from Coattail Publications: www.coattail-publications.com, extracts published on _Sight & Sound_, May 2021**  
 <br>
-<![endif]-->
 
-**Raging Bull**
 
-_Director:_ Martin Scorsese
-
-©_/Presented by:_ United Artists
-
-_Producers:_ Irwin Winkler, Robert Chartoff  
-_Produced in Association with:_ Peter Savage _Associate Producer:_ Hal Polaire
-
-_Production Accountants:_ Meryle Selinger,  
-Lydia Resurreccion
-
-_Production Office Co-ordinators:_ Donna Smith, Helene Spinner, Moira Kelly
-
-_Production Manager:_ James D. Brubaker
-
-_Location Managers:_ Dale Benson, Chris Cronyn  
+**Raging Bull**  
+_Director:_ Martin Scorsese  
+©_/Presented by:_ United Artists  
+_Producers:_ Irwin Winkler, Robert Chartoff    
+_Produced in Association with:_ Peter Savage  
+_Associate Producer:_ Hal Polaire  
+_Production Accountants:_ Meryle Selinger, Lydia Resurreccion  
+_Production Office Co-ordinators:_ Donna Smith, Helene Spinner, Moira Kelly  
+_Production Manager:_ James D. Brubaker  
+_Location Managers:_ Dale Benson, Chris Cronyn    
 _1st Assistant Directors:_ Jerry Grandey,  
-Allan Wertheim
-
-_2nd Assistant Directors:_ Joan Feinstein,
-
-Elie Cohn  
+Allan Wertheim  
+_2nd Assistant Directors:_ Joan Feinstein, Elie Cohn  
 _Script Supervisor:_ Hannah Scheel
-
-_Casting:_ Cis Corman
-
-_Screenplay:_ Paul Schrader, Mardik Martin
+_Casting:_ Cis Corman  
+_Screenplay:_ Paul Schrader, Mardik Martin  
 _Based on the book by:_ Jake La Motta,  
-Joseph Carter, Peter Savage
-_Excerpts from_ On the Waterfront _by:_ Budd Schulberg
+Joseph Carter, Peter Savage  
+_Excerpts from_ On the Waterfront _by:_ Budd Schulberg  
 _Director of Photography:_ Michael Chapman  
-_Camera Operators:_ Joe Marquette, Eddie Gold
-_1st Assistant Cameramen:_ Dustin Blauvelt, Ed Ramirez
-_2nd Assistant Cameramen:_ Richard Fee, Bruce McCallum
-_Key Grips:_ Ed Quinn, Robert Miller
-_Gaffers:_ Richard Quinlan, Ray Mendez
+_Camera Operators:_ Joe Marquette, Eddie Gold  
+_1st Assistant Cameramen:_ Dustin Blauvelt, Ed Ramirez  
+_2nd Assistant Cameramen:_ Richard Fee, Bruce McCallum  
+_Key Grips:_ Ed Quinn, Robert Miller  
+_Gaffers:_ Richard Quinlan, Ray Mendez  
 _Still Photographers:_ Christine Loss, Brian Hamill  
-_Special Effects:_ Raymond Klein, Max E. Wood _Editor:_ Thelma Schoonmaker
+_Special Effects:_ Raymond Klein, Max E. Wood  
+_Editor:_ Thelma Schoonmaker  
 _Associate Editors:_ George Trirogoff, Yoshio Kishi, Erik T. Ramberg, Mark Warner, Susan E. Morse  
-_New York Production Designer:_ Gene Rudolf
-_Los Angeles Visual Consultant:_ Gene Rudolf
-_Art Directors (Los Angeles):_ Alan Manser, Kirk Axtell
-_Art Director (New York):_ Sheldon Haber
-_Set Decorators:_ Fred Weiler, Philip Abramson
+_New York Production Designer:_ Gene Rudolf  
+_Los Angeles Visual Consultant:_ Gene Rudolf  
+_Art Directors (Los Angeles):_ Alan Manser, Kirk Axtell  
+_Art Director (New York):_ Sheldon Haber  
+_Set Decorators:_ Fred Weiler, Philip Abramson  
 _Property Masters:_ Emily Ferry, Tom Saccio _Costume Designers:_ Richard Bruno, John Boxer _Make-up Artists:_ Frank Westmore, Mike Maggi _Make-up Created by:_ Michael Westmore _Hairstylists:_ Jean Burt Reilly, Verne Caruso, Mary Keats, Mona Orr
 _Title Design by:_ Dan Perri
 _Opticals:_ Modern Film Effects, Movie Magic,  EFX Unlimited
@@ -173,5 +162,5 @@ USA 1980©
 
 A Park Circus release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODI5ODE1NTEsLTE1MzI0NzY1XX0=
+eyJoaXN0b3J5IjpbLTE3NDM2NDQ1NDgsLTE1MzI0NzY1XX0=
 -->
