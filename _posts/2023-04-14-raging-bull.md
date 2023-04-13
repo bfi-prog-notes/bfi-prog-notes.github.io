@@ -155,79 +155,42 @@ Frank Topham _(Toppy)_
 Charles Scorsese _(Charlie, man with Como)_
 
 Rita Bennett _(Emma, Miss 48’s)_
-
-James V. Christy _(Dr Pinto)_
-
-Michael Badalucco _(soda fountain clerk)_
-
-Thomas Beansy Lobasso _(Beansy)_
-
-Paul Forrest _(monsignor)_
-
-Peter Petrella _(Johnny)_
-
-Sal Serafino Thomassetti _(Webster Hall bouncer)_
-
-Mardik Martin _(Copa waiter)_
-
-Geraldine Smith _(Janet)_
-
-Maryjane Lauria _(girl 1)_
-
-Linda Artuso _(girl 2)_
-
-Peter Savage _(Jackie Curtie)_
-
-Daniel P. Conte _(Detroit promoter)_
-
-Joe Malanga _(bodyguard)_
-
-Sabine Turco Jr, Steve Orlando, Silvio Garcia Jr _(bouncers at Copa)_
-
-John Arceri _(maître d’)_
-
-Joseph A. Morale _(man at table 1)_
-
-James Dimodica _(man at table 2)_
-
-Robert Uricola _(man outside cab)_
-
-Andrea Orlando _(woman in cab)_
-
-Allan Malamud _(reporter at Jake’s house)_
-
-D.J. Blair _(state attorney Bronson)_
-
-Laura James _(Mrs Bronson)_
-
-Richard McMurray _(J.R.)_
-
-Mary Albee _(underage ID girl)_
-
-Liza Katz _(woman with ID girl)_
-
-Candy Moore _(Linda)_
-
-Richard A. Berk _(musician 1)_
-
-Theodore Sauners _(musician 2)_
-
-Noah Young _(musician 3)_
-
-Nick Trisko _(bartender Carlo)_
-
-Lou Tiano _(Ricky)_
-
-Bob Evan Collins _(arresting deputy 1)_
-
-Wally Berns _(arresting deputy 2)_
-
-Allan Joseph _(jeweller)_
-
-Bob Aaron _(prison guard 1)_
-
-Glenn Leigh Marshall _(prison guard 2)_
-
+James V. Christy _(Dr Pinto)_  
+Michael Badalucco _(soda fountain clerk)_  
+Thomas Beansy Lobasso _(Beansy)_  
+Paul Forrest _(monsignor)_  
+Peter Petrella _(Johnny)_  
+Sal Serafino Thomassetti _(Webster Hall bouncer)_  
+Mardik Martin _(Copa waiter)_  
+Geraldine Smith _(Janet)_  
+Maryjane Lauria _(girl 1)_  
+Linda Artuso _(girl 2)_  
+Peter Savage _(Jackie Curtie)_  
+Daniel P. Conte _(Detroit promoter)_  
+Joe Malanga _(bodyguard)_  
+Sabine Turco Jr, Steve Orlando, Silvio Garcia Jr _(bouncers at Copa)_  
+John Arceri _(maître d’)_  
+Joseph A. Morale _(man at table 1)_  
+James Dimodica _(man at table 2)_  
+Robert Uricola _(man outside cab)_  
+Andrea Orlando _(woman in cab)_  
+Allan Malamud _(reporter at Jake’s house)_  
+D.J. Blair _(state attorney Bronson)_  
+Laura James _(Mrs Bronson)_  
+Richard McMurray _(J.R.)_  
+Mary Albee _(underage ID girl)_  
+Liza Katz _(woman with ID girl)_  
+Candy Moore _(Linda)_  
+Richard A. Berk _(musician 1)_  
+Theodore Sauners _(musician 2)_  
+Noah Young _(musician 3)_  
+Nick Trisko _(bartender Carlo)_  
+Lou Tiano _(Ricky)_  
+Bob Evan Collins _(arresting deputy 1)_  
+Wally Berns _(arresting deputy 2)_  
+Allan Joseph _(jeweller)_  
+Bob Aaron _(prison guard 1)_  
+Glenn Leigh Marshall _(prison guard 2)_  
 Martin Scorsese _(Barbizon stagehand)_  
 Bill Mazer _(reporter)_ *  
 Mike Miles _(sparring partner)_ *  
@@ -258,5 +221,5 @@ USA 1980©
 
 A Park Circus release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI0NzY1XX0=
+eyJoaXN0b3J5IjpbMTEzOTQ2OTMyOSwtMTUzMjQ3NjVdfQ==
 -->
