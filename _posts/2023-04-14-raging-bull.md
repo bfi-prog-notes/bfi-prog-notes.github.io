@@ -56,105 +56,57 @@ _Script Supervisor:_ Hannah Scheel
 _Casting:_ Cis Corman
 
 _Screenplay:_ Paul Schrader, Mardik Martin
-
 _Based on the book by:_ Jake La Motta,  
 Joseph Carter, Peter Savage
-
-_Excerpts from_ On the Waterfront _by:_  
-Budd Schulberg
-
+_Excerpts from_ On the Waterfront _by:_ Budd Schulberg
 _Director of Photography:_ Michael Chapman  
 _Camera Operators:_ Joe Marquette, Eddie Gold
-
-_1st Assistant Cameramen:_ Dustin Blauvelt,  
-Ed Ramirez
-
-_2nd Assistant Cameramen:_ Richard Fee,  
-Bruce McCallum
-
+_1st Assistant Cameramen:_ Dustin Blauvelt, Ed Ramirez
+_2nd Assistant Cameramen:_ Richard Fee, Bruce McCallum
 _Key Grips:_ Ed Quinn, Robert Miller
-
 _Gaffers:_ Richard Quinlan, Ray Mendez
-
 _Still Photographers:_ Christine Loss, Brian Hamill  
 _Special Effects:_ Raymond Klein, Max E. Wood _Editor:_ Thelma Schoonmaker
-
 _Associate Editors:_ George Trirogoff, Yoshio Kishi, Erik T. Ramberg, Mark Warner, Susan E. Morse  
 _New York Production Designer:_ Gene Rudolf
-
 _Los Angeles Visual Consultant:_ Gene Rudolf
-
-_Art Directors (Los Angeles):_ Alan Manser,
-
-Kirk Axtell
-
+_Art Directors (Los Angeles):_ Alan Manser, Kirk Axtell
 _Art Director (New York):_ Sheldon Haber
-
 _Set Decorators:_ Fred Weiler, Philip Abramson
-
-_Property Masters:_ Emily Ferry, Tom Saccio _Costume Designers:_ Richard Bruno, John Boxer _Make-up Artists:_ Frank Westmore, Mike Maggi _Make-up Created by:_ Michael Westmore _Hairstylists:_ Jean Burt Reilly, Verne Caruso,  
-Mary Keats, Mona Orr
-
+_Property Masters:_ Emily Ferry, Tom Saccio _Costume Designers:_ Richard Bruno, John Boxer _Make-up Artists:_ Frank Westmore, Mike Maggi _Make-up Created by:_ Michael Westmore _Hairstylists:_ Jean Burt Reilly, Verne Caruso, Mary Keats, Mona Orr
 _Title Design by:_ Dan Perri
-
-_Opticals:_ Modern Film Effects, Movie Magic,  
-EFX Unlimited
-
+_Opticals:_ Modern Film Effects, Movie Magic,  EFX Unlimited
 _Black and White Timing:_ Jim Henry
-
 _Sound Mixers:_ Les Lazarowitz, Michael Evje
-
 _Re-recording Engineers:_ Donald O. Mitchell,  
 Bill Nicholson, David J. Kimball
 
 _Sound Effects Supervising Editor:_ Frank Warner
-
 _Boxing Technical Adviser:_ Al Silvani
-
 _Technical Adviser:_ Frank Topham
-
 _Special Assistance:_ Emmet Murphy,
-
 Rob Hummel
-
 _Consultant:_ Jake La Motta
-
 _Research:_ Gloria Norris
-
 _Stunt Co-ordinator:_ Jim Nickerson  
-_Cast:_
 
-Robert De Niro _(Jake La Motta)_
-
-Joe Pesci _(Joey La Motta)_
-
-Cathy Moriarty _(Vickie La Motta)_
-
-Frank Vincent _(Salvy)_
-
-Bernie Allen _(comedian)_
-
-Nicholas Colasanto _(Tommy Como)_
-
-Joseph Bono _(Guido)_
-
-Mario Gallo _(Mario)_
-
-Lori Anne Flax _(Irma)_
-
-Theresa Saldana _(Lenore)_
-
-Bill Hanrahan _(Eddie Eagan)_
-
-Frank Adonis _(Patsy)_
-
-Don Dunphy _(himself)_
-
-Frank Topham _(Toppy)_
-
-Charles Scorsese _(Charlie, man with Como)_
-
-Rita Bennett _(Emma, Miss 48’s)_
+**Cast**  
+Robert De Niro _(Jake La Motta)_  
+Joe Pesci _(Joey La Motta)_  
+Cathy Moriarty _(Vickie La Motta)_  
+Frank Vincent _(Salvy)_  
+Bernie Allen _(comedian)_  
+Nicholas Colasanto _(Tommy Como)_  
+Joseph Bono _(Guido)_  
+Mario Gallo _(Mario)_  
+Lori Anne Flax _(Irma)_  
+Theresa Saldana _(Lenore)_  
+Bill Hanrahan _(Eddie Eagan)_  
+Frank Adonis _(Patsy)_  
+Don Dunphy _(himself)_  
+Frank Topham _(Toppy)_  
+Charles Scorsese _(Charlie, man with Como)_  
+Rita Bennett _(Emma, Miss 48’s)_  
 James V. Christy _(Dr Pinto)_  
 Michael Badalucco _(soda fountain clerk)_  
 Thomas Beansy Lobasso _(Beansy)_  
@@ -221,5 +173,5 @@ USA 1980©
 
 A Park Circus release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTQ2OTMyOSwtMTUzMjQ3NjVdfQ==
+eyJoaXN0b3J5IjpbLTE1ODI5ODE1NTEsLTE1MzI0NzY1XX0=
 -->
