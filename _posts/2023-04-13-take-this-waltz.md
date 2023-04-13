@@ -50,8 +50,7 @@ _Unit Production Manager_: D.J. Carson
 _Location Manager_: Fred Kamping  
 _Post-production Supervisor_: Douglas Wilkinson  
 _1st Assistant Director_: Daniel Murphy  
-_Script Supervisors_: Dug Rotstein,
-Samantha Armstrong  
+_Script Supervisors_: Dug Rotstein, Samantha Armstrong  
 _Casting by_: John Buchan, Jason Knight  
 _Written by_: Sarah Polley  
 _Director of Photography_: Luc Montpellier  
@@ -76,7 +75,7 @@ _Stunt Co-ordinator_: Alison Reid
 _Special Thanks_: David Wharnsby  
 _Thanks to_: Atom Egoyan, Leslie Feist, Katie Holmes  
 
-**Cast**
+**Cast**  
 Michelle Williams _(Margot)_  
 Seth Rogen _(Lou)_  
 Luke Kirby _(Daniel)_  
