@@ -228,18 +228,13 @@ Bob Aaron _(prison guard 1)_
 
 Glenn Leigh Marshall _(prison guard 2)_
 
-Martin Scorsese _(Barbizon stagehand)_
-
-Bill Mazer _(reporter)_ *
-
-Mike Miles _(sparring partner)_ *
-
+Martin Scorsese _(Barbizon stagehand)_  
+Bill Mazer _(reporter)_ *  
+Mike Miles _(sparring partner)_ *  
 Angelo Lamonea, Chuck Hicks  
-_(Janiro fight cornermen)_ *
-
-Walt LaRue _(Fox fight cornerman 1)_ *
-
-Gene Allan Poe _(Audie Murphy)_ *
+_(Janiro fight cornermen)_ *  
+Walt LaRue _(Fox fight cornerman 1)_ *  
+Gene Allan Poe _(Audie Murphy)_ *  
 Gil Perkins _(Dauthuille fight cornerman 1)_ *  
 Gene Borkan _(Dauthuille fight cornerman 2)_ * Thomas Murphy _(J.R.’s friend)_ *  
 Leonard D’John _(New Yorker 1)_ *  
@@ -263,5 +258,5 @@ USA 1980©
 
 A Park Circus release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTYzOTkyNV19
+eyJoaXN0b3J5IjpbLTE1MzI0NzY1XX0=
 -->
