@@ -37,8 +37,7 @@ Scorsese went with the first take. ‘Every actor in Hollywood would love to be 
 **Jay Glennie, edited from _Raging Bull: The Making Of_ available from Coattail Publications: www.coattail-publications.com, extracts published on _Sight & Sound_, May 2021**  
 <br>
 
-
-**Raging Bull**  
+**RAGING BULL**  
 _Director:_ Martin Scorsese  
 ©_/Presented by:_ United Artists  
 _Producers:_ Irwin Winkler, Robert Chartoff    
@@ -48,14 +47,12 @@ _Production Accountants:_ Meryle Selinger, Lydia Resurreccion
 _Production Office Co-ordinators:_ Donna Smith, Helene Spinner, Moira Kelly  
 _Production Manager:_ James D. Brubaker  
 _Location Managers:_ Dale Benson, Chris Cronyn    
-_1st Assistant Directors:_ Jerry Grandey,  
-Allan Wertheim  
+_1st Assistant Directors:_ Jerry Grandey, Allan Wertheim  
 _2nd Assistant Directors:_ Joan Feinstein, Elie Cohn  
 _Script Supervisor:_ Hannah Scheel
 _Casting:_ Cis Corman  
 _Screenplay:_ Paul Schrader, Mardik Martin  
-_Based on the book by:_ Jake La Motta,  
-Joseph Carter, Peter Savage  
+_Based on the book by:_ Jake La Motta, Joseph Carter, Peter Savage  
 _Excerpts from_ On the Waterfront _by:_ Budd Schulberg  
 _Director of Photography:_ Michael Chapman  
 _Camera Operators:_ Joe Marquette, Eddie Gold  
@@ -85,8 +82,7 @@ _Re-recording Engineers:_ Donald O. Mitchell, Bill Nicholson, David J. Kimball
 _Sound Effects Supervising Editor:_ Frank Warner  
 _Boxing Technical Adviser:_ Al Silvani  
 _Technical Adviser:_ Frank Topham  
-_Special Assistance:_ Emmet Murphy,
-Rob Hummel  
+_Special Assistance:_ Emmet Murphy, Rob Hummel  
 _Consultant:_ Jake La Motta  
 _Research:_ Gloria Norris  
 _Stunt Co-ordinator:_ Jim Nickerson  
