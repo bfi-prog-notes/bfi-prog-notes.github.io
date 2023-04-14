@@ -1,6 +1,6 @@
 ---
 layout: post
-title: THE MAN WITHOUT DESIRE
+title: The Man without Desire
 published: true
 date: 2023-04-16
 readtime: true
@@ -10,14 +10,13 @@ metadata: 'UK 1923, 92 mins<br> Director: Adrian Brunel'
 pdf: '2023-04-16-man-without-desire.pdf'
 ---
 
-_+ intro by Josephine Botting, BFI Curator and author of_ Adrian Brunel and British Cinema of the 1920s_, published by Edinburgh University Press._
+_+ intro by Josephine Botting, BFI Curator and author of_ Adrian Brunel and British Cinema of the 1920s _, published by Edinburgh University Press._
 
 One of the stranger films to emerge from Britain in the 1920s, _The Man without Desire_ was the feature film debut of Adrian Brunel, better known today for a series of short burlesques, including _Crossing the Great Sagrada_ (1925), and as a founder of the Film Society with Ivor Montagu and others.
 
 Asked to direct a period drama set in Venice, Brunel, conscious that period could be a box-office turn-off, offered a compromise, with the early 18th Century Venetian story framed by events 200 years later. Despite a tight budget of £5,000, there were sufficient funds for location filming in Venice.
 
-Studio and post-production work took place in Germany, and the film shows the influence of the emerging German expressionist films, notably _The Cabinet of  
-Dr Caligari_ (_Der Cabinet des Dr Caligari_, d. Robert Weine, 1919), whose somnambulist emissary, Cesare, is echoed in _The Man without Desire_ by the magician-scientist’s Indian manservant, and _Nosferatu_ (d. F.W. Murnau, 1922). It’s worth noting that Brunel’s German visit came some two years before the first visit by the young Alfred Hitchcock.
+Studio and post-production work took place in Germany, and the film shows the influence of the emerging German expressionist films, notably _The Cabinet of Dr Caligari_ (_Der Cabinet des Dr Caligari_, d. Robert Weine, 1919), whose somnambulist emissary, Cesare, is echoed in _The Man without Desire_ by the magician-scientist’s Indian manservant, and _Nosferatu_ (d. F.W. Murnau, 1922). It’s worth noting that Brunel’s German visit came some two years before the first visit by the young Alfred Hitchcock.
 
 As the title – which surprisingly made it past the censor – suggests, _The Man without Desire_ concerns loss of sexual desire and, implicitly, impotence. At its centre is Ivor Novello (on his way up but not yet the stage and screen idol he was to become) as tragic lover Vittorio, who, in despair at the death of his love Leonora, volunteers to be put into suspended animation, awaking after two centuries and immediately finding himself attracted to Leonora’s descendant – and virtual double – Genevra. But Vittorio’s slumber has robbed him of his passion, and their marriage is unfulfilled.
 
@@ -29,8 +28,7 @@ In the 1920s Adrian Brunel was one of the liveliest new directing talents workin
 
 Born in Brighton in 1892, Brunel grew up with a liberal outlook and multifarious gifts. Educated at Harrow, he soon succumbed to the lure of the stage (his mother, Adey Brunel, was a respected drama teacher). He acted, wrote plays, and trained as an opera singer. Cinema initially was one interest among many, but it began to dominate after local journalism in Brighton and a period in distribution with Moss Empire’s Bioscope. In 1916 he formed Mirror Films with the scriptwriter Harry Fowler Mear, directing the company’s sole feature, _The Cost of a Kiss_ (1917). He gained further experience during the war in the Ministry of Information’s Film Department, where he developed the concept of ‘Film Tags’ – short instructional films, peppered with humour, presented in the weekly newsreels. Returned to civilian life in 1919, he worked as scenario editor for the British Actors’ Film Company.
 
-The first signs of Brunel’s directorial personality emerged in 1920 in _The Bump_ and other short situation comedies, made with Leslie Howard and the writer A. A. Milne for their company Minerva Films. Brunel then joined other bright sparks, directing  
-_The Man without Desire_ (1923) on location in Venice with studio work in Berlin; theatre idol Ivor Novello took the role of a lovelorn eighteenth century nobleman awoken after two centuries’ suspended animation. The unusual story and Brunel’s atmospheric visuals distinguished the film from most British product of the time.
+The first signs of Brunel’s directorial personality emerged in 1920 in _The Bump_ and other short situation comedies, made with Leslie Howard and the writer A. A. Milne for their company Minerva Films. Brunel then joined other bright sparks, directing _The Man without Desire_ (1923) on location in Venice with studio work in Berlin; theatre idol Ivor Novello took the role of a lovelorn eighteenth century nobleman awoken after two centuries’ suspended animation. The unusual story and Brunel’s atmospheric visuals distinguished the film from most British product of the time.
 
 Brunel’s visual inventiveness found a sprightlier outlet in the series of burlesque comedies beginning with _Crossing the Great Sagrada_ (1924), a travel film lampoon. Some of Brunel’s humour may appear unduly facetious, but the visual japes and games with film form still fascinate and entertain. These burlesques were made independently until Michael Balcon offered to produce them through Gainsborough Pictures. _The Typical Budget_, a newsreel spoof of the _Topical Budget_ newsreel, had its first showing at the opening screening of the Film Society in October 1925.
 
@@ -76,7 +74,7 @@ Jane Dryden _(Luigia)_
 UK 1923  
 92 mins  
 
-* Uncredited  
+\* Uncredited  
 
 With live piano accompaniment by Stephen Horne  
 
@@ -84,8 +82,7 @@ A BFI National Archive print
 
 **Library Talk: Adrian Brunel and British cinema of the 1920s**  
 A journey through the career of the British filmmaker, with Dr Josephine Botting  
-Monday 17 April 2023 18:30  
-BFI Reuben Library  
+Monday 17 April 2023 18:30 BFI Reuben Library  
 <br>
 
 **REGULAR PROGRAMME**   
