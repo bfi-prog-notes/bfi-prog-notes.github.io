@@ -47,7 +47,7 @@ With no directing work of his own, Brunel wrote the book _Filmcraft_, first of t
 Some projects gave him more scope, like _Badger’s Green_ (1934), based on R. C. Sherriff’s popular play, and _Variety_ (1935), a music-hall salute. But by the end of the 1930s Brunel was functioning more as a fixer of other people’s problems than a director in his own right. In 1939 he was part of a triumvirate directing Korda’s rushed production of _The Lion Has Wings_ (d. Brunel/Michael Powell/Brian Desmond Hurst); later he served as Leslie Howard’s production consultant on _The First of the Few_ (1942) and _The Gentle Sex_ (d. Howard/ Maurice Elvey, 1943). His own last official directing credits, in 1940, were on two Home Front propaganda shorts.
 
 In 1949 Brunel re-emerged as the author of _Nice Work_, an entertaining account of his film experiences. _Nice work_ or not, Brunel’s career was clearly not what it might have been, and the apparent absence of surviving copies of many of his talkies makes a thorough re-evaluation of his work difficult. But the burlesque comedies alone give him a distinctive place in British cinema history as a satirical jester, and a key player in the film industry’s uneasy war between art and commerce. He died in Gerrard’s Cross on February 18, 1958.  
-**Geoff Brown, _Reference Guide to British and Irish Film Directors_ (BFI, 2006) quoted on screeonline.org.uk**  
+**Geoff Brown, _Reference Guide to British and Irish Film Directors_ (BFI, 2006) quoted on screeonline.org.uk**   
 <br>
 
 **THE MAN WITHOUT DESIRE**  
@@ -86,6 +86,44 @@ A BFI National Archive print
 A journey through the career of the British filmmaker, with Dr Josephine Botting  
 Monday 17 April 2023 18:30  
 BFI Reuben Library  
+<br>
+
+**REGULAR PROGRAMME**   
+**The Man Without Desire + intro by Josephine Botting, BFI Curator**  
+Sun 16 Apr 15:10  
+**Seniors: Ragtime + intro**  
+Mon 17 Apr 14:00  
+**African Odysseys: Executive Order + intro and Q&A with director, Lázaro Ramos (work permitting)**  
+Sat 22 Apr 14:00  
+**Relaxed Screening: Deep End + intro and discussion**  
+Mon 24 Apr 18:00  
+**Experimenta Mixtape S02E02**  
+Mon 24 Apr 18:15  
+**Intimate Relations + intro by Vic Pratt, BFI Video Publishing**  
+Tue 25 Apr 18:20  
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTk1NDY1NzEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTgxNjUyMDgyLDczMDk5ODExNl19
 -->
