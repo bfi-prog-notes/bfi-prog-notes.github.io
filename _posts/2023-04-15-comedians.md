@@ -20,14 +20,11 @@ In _Comedians_ as in _All Good Men_, Griffiths plays off the old left against th
 
 Have we found a perfect third route for laughter and satire today? Recent comedies such as _The Office_ have managed to make characters’ failed attempts to disguise their bigotry funny at their expense, something one could argue that _Til Death Us Do Part_ never succeeded in doing, as its laughter was usually triggered not by the ludicrousness of Alf’s rants but by the use of a term of racist abuse or misogyny as a punchline. Meanwhile, Chris Morris’ search for the truth about and behind the headlines has made very little taboo for an intelligent satirist.
 
-‘I wanna be rich and famous,’ states one of the class. ‘More than you want be good?’ asks Waters. ‘What’s wrong with being all three?’ comes the reply. ‘Nothing,’ says Waters, ‘as long as you want to be good first because you’ll never be good later.’ There lies the dilemma facing today’s television commissioning editors. As we watch the beautifully played closing moments, we are watching the Seventies fade away and with them the concept of the _Play for Today_. Just listen to Gethin’s words and think of them as a prediction that truthful, angry drama about the problems we live around is being replaced by irrelevant entertainment. Eyre looks back now with nostalgia on his years as a television producer, remembering that ‘_Play for Today_ was a national event. That kind of television has gone forever. Whether it has been consciously destroyed I don’t know. But we did have a leader in the Eighties who said she didn’t believe in society. And one of the ways you would go about destroying the notion of society is by removing the shared sensation of watching a piece of contemporary drama critical of the society we live in.’
+‘I wanna be rich and famous,’ states one of the class. ‘More than you want be good?’ asks Waters. ‘What’s wrong with being all three?’ comes the reply. ‘Nothing,’ says Waters, ‘as long as you want to be good first because you’ll never be good later.’ There lies the dilemma facing today’s television commissioning editors. As we watch the beautifully played closing moments, we are watching the Seventies fade away and with them the concept of the _Play for Today_. Just listen to Gethin’s words and think of them as a prediction that truthful, angry drama about the problems we live around is being replaced by irrelevant entertainment. Eyre looks back now with nostalgia on his years as a television producer, remembering that ‘_Play for Today_ was a national event. That kind of television has gone forever. Whether it has been consciously destroyed I don’t know. But we did have a leader in the Eighties who said she didn’t believe in society. And one of the ways you would go about destroying the notion of society is by removing the shared sensation of watching a piece of contemporary drama critical of the society we live in.’  
+**Simon Farquhar**
+<br><br>
 
-Simon Farquhar
-
-<![endif]-->
-
-**PLAY FOR TODAY: COMEDIANS**
-
+**PLAY FOR TODAY: COMEDIANS**  
 _Director:_ Richard Eyre  
 _Production Company:_ BBC  
 _Producer:_ Richard Eyre *  
@@ -44,8 +41,7 @@ _Costume Designer:_ Dorothea Wallace
 _Make-up Artist:_ Norma Hill  
 _Sound:_ Norman Bennett
 
-_Cast:_
-
+**Cast**  
 Bill Fraser _(Eddie Waters)_  
 Jonathan Pryce _(Gethin Price)_  
 David Burke _(Mick Connor)_  
@@ -58,11 +54,11 @@ John Barrett _(caretaker)_
 Moti Makan _(Mr Patel)_  
 Mike Henson _(concert secretary)_
 
-BBC1 tx 25.10.1979
-
+BBC1 tx 25.10.1979  
 94 mins
 
-* Uncredited
+*Uncredited<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODMxNzExOF19
+eyJoaXN0b3J5IjpbMTI3MTE4NDMxN119
 -->
