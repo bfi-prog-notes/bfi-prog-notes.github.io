@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: THE MAN WITHOUT DESIRE
+published: true
+date: 2023-04-16
+readtime: true
+categories: ['SILENT CINEMA']
+tags: [Drama]
+metadata: 'UK 1923, 92 mins<br> Director: Adrian Brunel'
+pdf: '2023-04-14-raging-bull.pdf'
+---
 
 _+ intro by Josephine Botting, BFI Curator and author of_ Adrian Brunel and British Cinema of the 1920s_, published by Edinburgh University Press._
 
@@ -78,5 +87,5 @@ A journey through the career of the British filmmaker, with Dr Josephine Botting
 Monday 17 April 2023 18:30  
 BFI Reuben Library  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTY5NDkzOSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTY2NTk1MjMyLDczMDk5ODExNl19
 -->
