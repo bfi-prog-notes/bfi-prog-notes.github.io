@@ -1,4 +1,15 @@
-<![endif]-->
+---
+layout: post
+title: One Fine Morning
+published: true
+date: 2023-04-14
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'France/Germany 2022, 112 mins<br> Director: Mia Hansen-Løve'
+pdf: '2023-04-14-one-fine-morning.pdf'
+---
+
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
@@ -37,5 +48,5 @@ _You’re a huge admirer of Éric Rohmer and both Pascal Greggory and Melvil Pou
 I’ve admired them both in different films by Rohmer. _A Summer’s Tale_ [1996], with Melvil Poupaud, is maybe one of the first Rohmer films I saw, but my connection to it – it’s not even to do with Rohmer, really. It’s a connection to teenagehood. I would spend some of my holidays in Dinard, the same place where they shot _A Summer’s Tale_. It very much felt like [Poupaud] was part of my world, but I’d never met him [before]. I think he actually hates being always associated with this one role, and I understand that completely – he’s been in many other films where he was great. So I tried to not insist too much on my love for Rohmer when we were making the film. It’s thanks to both actors that, even if the film was inspired by things that were painful, I could still enjoy making it. Pascal Greggory’s character [is] not an easy part [to play], and he trusted me completely. He knew that because I knew this illness so well, I could help him find the right tone and music in his way of talking. That trust made everything so easy.  
 **Interview by Catherine Wheatley, _Sight and Sound_, May 2023**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzM4OTQ2XX0=
+eyJoaXN0b3J5IjpbMTUwMTk4NjU5OF19
 -->
