@@ -108,15 +108,15 @@ Laura Devon _(neighbour on balcony)_
 Charles Meek _(taxi driver)_  
 Kailash Patel _(Aslam’s sister)_  
 Usma Islam, Naeela Jaben Sabir, Shabar Hussain _(Aslam’s nieces) *_  
-Claude Powell_,_ Alexander Cruise_,_ Nelson Fletcher _(West Indians in taxi office) *_  
+Claude Powell, Alexander Cruise, Nelson Fletcher _(West Indians in taxi office) *_  
 Mel Fredricks _(white man in taxi office) *_  
 Blake Roberts _(West Indian in cab) *_
 
-UK 1987©
-
+UK 1987©  
 91 mins
 
-* Uncredited
+*Uncredited<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Njc0MDIzNl19
+eyJoaXN0b3J5IjpbLTk5OTIzMDEwNl19
 -->
