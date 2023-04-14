@@ -39,11 +39,9 @@ Some projects gave him more scope, like _Badger’s Green_ (1934), based on R. C
 
 In 1949 Brunel re-emerged as the author of _Nice Work_, an entertaining account of his film experiences. _Nice work_ or not, Brunel’s career was clearly not what it might have been, and the apparent absence of surviving copies of many of his talkies makes a thorough re-evaluation of his work difficult. But the burlesque comedies alone give him a distinctive place in British cinema history as a satirical jester, and a key player in the film industry’s uneasy war between art and commerce. He died in Gerrard’s Cross on February 18, 1958.  
 **Geoff Brown, _Reference Guide to British and Irish Film Directors_ (BFI, 2006) quoted on screeonline.org.uk**  
+<br>
 
-<![endif]-->
-
-**The Man without Desire**
-
+**THE MAN WITHOUT DESIRE**  
 _Directed by_: Adrian Brunel  
 _an_ Atlas Biocraft _production_  
 _Producers_: Ivor Novello, Miles Mander  
@@ -53,38 +51,32 @@ _Story by_: Adrian Brunel
 _From an idea by_: Monckton Hoffe  
 _Photography_: Henry Harris  
 _Editor_: Adrian Brunel *  
-_Architect [i.e. Set Design]_:
+_Architect [i.e. Set Design]_: Hugo Ballenstedt  
+_Costumes_: L.H. Nathan  
 
-Hugo Ballenstedt  
-_Costumes_: L.H. Nathan
-
-_Cast__:_  
+**Cast**  
 Ivor Novello _(Count Vittorio Dandolo)_  
 Nina Vanna _(Leonora/Genevra)_  
-Sergio Mari
-
-_(Count Almoro/Count Gardi-Almoro)_  
-Christopher Walker
-
+Sergio Mari _(Count Almoro/Count Gardi-Almoro)_  
+Christopher Walker  
 _(Simon Mawdesley/Robert)_  
 Dorothy Warren _(La Foscolina)_  
 Adrian Brunel _(the editor)_  
-Jane Dryden _(Luigia)_
+Jane Dryden _(Luigia)_  
 
-UK 1923
+UK 1923  
+92 mins  
 
-92 mins
+* Uncredited  
 
-* Uncredited
+With live piano accompaniment by Stephen Horne  
 
-With live piano accompaniment by Stephen Horne
-
-A BFI National Archive print
+A BFI National Archive print  
 
 **Library Talk: Adrian Brunel and British cinema of the 1920s**  
-A journey through the career of the British filmmaker, with Dr Josephine Botting
-Monday 17 April 2023 18:30
-BFI Reuben Library
+A journey through the career of the British filmmaker, with Dr Josephine Botting  
+Monday 17 April 2023 18:30  
+BFI Reuben Library  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI0MDM3MzAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTY1OTY5NDkzOSw3MzA5OTgxMTZdfQ==
 -->
