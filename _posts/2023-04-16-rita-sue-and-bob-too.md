@@ -16,16 +16,13 @@ _Rita, Sue and Bob Too_ has already been compared to such 60s slices of British 
 
 But it is also primarily a comedy, and every supposedly shocking observation is leavened with bouts of very funny black (and crude) humour. The comic situations clearly draw on the standard fare of television comedy, farce, soap opera and tabloid newspaper stories – closer, as all interviews confirm, to the writer’s own experience than the more respectable ‘sophistication’ of classical film genres. It is this which has perhaps led to accusations of sensationalism, with critics mistaking the clever synthesis of these popular forms for a cynical regurgitation of them.  
 **Adrian Wootton, _Monthly Film Bulletin_, September 1987**
+<br><br>
 
-<![endif]-->
-
-**RITA, SUE AND BOB TOO**
-
+**RITA, SUE AND BOB TOO**  
 _Director_: Alan Clarke  
 ©: Channel Four Television Company  
 _Production Companies_: Umbrella Entertainment, British Screen, Channel Four  
-_With the assistance of_:  
-National Film Development Fund  
+_With the assistance of_:  National Film Development Fund  
 _Executive Producer_: Oscar Lewenstein  
 _Producer_: Sandy Lieberson  
 _Co-producer_: Patsy Pollock  
@@ -78,15 +75,14 @@ _Assistant Sound Editor_: Jonathan Moony
 _Stunt Co-ordinators_: Roy Alon, John Lees  
 _Publicity_: Minty Clinch
 
-_Cast:_  
+**Cast**  
 Siobhan Finneran _(Rita)_  
 Michelle Holmes _(Sue)_  
 George Costigan _(Bob)_  
 Lesley Sharp _(Michelle)_  
 Willie Ross _(Sue’s father)_  
 Danny O’Dea _(Paddy)_  
-David Britton_,_ Mark Crompton_,_ Stuart Goodwin,  Max Jackman_,_ Andrew Krauz,  Simon Waring_  
-(Rita’s brothers)_  
+David Britton, Mark Crompton, Stuart Goodwin,  Max Jackman, Andrew Krauz, Simon Waring _(Rita’s brothers)_  
 Maureen Long _(Rita’s mother)_  
 Joyce Pembroke _(Lawn-Mower Lil)_  
 Patti Nicholls _(Sue’s mother)_  
@@ -111,8 +107,7 @@ Paul Hedges _(Hosepipe Harry)_
 Laura Devon _(neighbour on balcony)_  
 Charles Meek _(taxi driver)_  
 Kailash Patel _(Aslam’s sister)_  
-Usma Islam_,_ Naeela Jaben Sabir_,_  
-Shabar Hussain _(Aslam’s nieces) *_  
+Usma Islam, Naeela Jaben Sabir, Shabar Hussain _(Aslam’s nieces) *_  
 Claude Powell_,_ Alexander Cruise_,_ Nelson Fletcher _(West Indians in taxi office) *_  
 Mel Fredricks _(white man in taxi office) *_  
 Blake Roberts _(West Indian in cab) *_
@@ -123,5 +118,5 @@ UK 1987©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTYxODgyM119
+eyJoaXN0b3J5IjpbLTI3Njc0MDIzNl19
 -->
