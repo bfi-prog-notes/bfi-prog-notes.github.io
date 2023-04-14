@@ -48,8 +48,6 @@ I’ve admired them both in different films by Rohmer. _A Summer’s Tale_ [1996
 **Interview by Catherine Wheatley, _Sight and Sound_, May 2023**  
 <br>
 
-<![endif]-->
-
 **NEW RELEASES**  
 **Rye Lane**  
 From Mon 27 Mar  
