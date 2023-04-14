@@ -17,46 +17,30 @@ _Producers:_ Ewa Piaskowska, Jerzy Skolimowski<br>
 _Casting:_ Pawel Czajor<br>
 _Screenplay:_ Jerzy Skolimowski<br>
 _Director of Photography:_ Mikolaj Lebkowksi<br>
-
 _Editor:_ Agnieszka Glinska<br>
-
-_Production Design:_ Joanna Kaczynska,  
-Wojciech Zogala<br>
-
+_Production Design:_ Joanna Kaczynska,  Wojciech Zogala<br>
 _Costume Designer:_ Kalina Lach<br>
-
 _Music:_ Pawel Mykietyn<br>
-
 _Sound Recordist:_ Alan Scully<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Richard Dormer _(Director Richard Martin)_  
 Paulina Chapko _(Anna Hellman)_  
 Wojciech Mecwaldowski _(Anna’s husband)_  
 Andrzej Chyra _(hot-dog vendor)_  
 Dawid Ogrodnik _(courier)_<br>
-
 Agata Buzek, Piotr Glowacki _(climbers)_<br>
-
 Jan Nowicki _(painter)_<br>
-
 Mateusz Kosciukiewicz _(ex-boyfriend)_<br>
-
 Anna Maria Buczek _(Doctor Ewa Król)_<br>
-
 Lukasz Sikora _(boy)_<br>
-
 Ifi Ude _(girl with a dog)_<br>
-
 Grazyna Blecka-Kolska _(pregnant woman)_<br>
-
 Janusz Chabior _(dying man)_<br>
 
 Poland-Ireland 2015<br>
-
 81 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDY4OTcwNV19
+eyJoaXN0b3J5IjpbMTg3MjIxNzg0M119
 -->
