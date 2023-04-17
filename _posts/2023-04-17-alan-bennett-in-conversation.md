@@ -1,9 +1,8 @@
 
 <![endif]-->
 
-Few writers have successfully mined northern culture and specific northern speech patterns as Alan Bennett. Growing up in Leeds, he listened in on the chatter of his relatives, absorbing the patter of domestic conversation, which would emerge across a glittering and much-loved range of plays, particularly those written for television. We are delighted to welcome Alan Bennett back to BFI Southbank, to celebrate the work of one of the UK’s finest writers and offering a great opportunity to explore the way northern culture is so integral to his creative process.
-
-bfi.org.uk
+Few writers have successfully mined northern culture and specific northern speech patterns as Alan Bennett. Growing up in Leeds, he listened in on the chatter of his relatives, absorbing the patter of domestic conversation, which would emerge across a glittering and much-loved range of plays, particularly those written for television. We are delighted to welcome Alan Bennett back to BFI Southbank, to celebrate the work of one of the UK’s finest writers and offering a great opportunity to explore the way northern culture is so integral to his creative process.  
+**bfi.org.uk**
 
 It’s hard to pigeonhole Alan Bennett, and correspondingly easy to undervalue his achievements. Although one of the most recognisable writers of his generation, his unassumingly owlish persona and fondness for self-deprecation has created the impression of a lovably eccentric minor talent, whose amusingly droll plays about elderly Northern women (typically played by Thora Hird) and fusspot secretaries (Patricia Routledge) are merely one step up from sitcom. The idea that he might be the most important and innovative British television playwright since Dennis Potter initially seems laughable.
 
@@ -32,9 +31,8 @@ Bennett’s previously prolific output slowed noticeably in the late 1990s and e
 
 Throughout his career, Bennett also wrote extensively for the stage, his greatest success being _The Madness of George III_ (1992). Bennett himself adapted it for the cinema, and, scenting its American backers’ preference for a major star, made it a contractual condition that both original star Nigel Hawthorne and director Nicholas Hytner be retained. The slightly retitled  
 _The Madness of King George_ was a critical and commercial triumph, with Hawthorne and Bennett receiving Oscar nominations. Of the later plays,  
-_The History Boys_ (2004) was subsequently filmed, again by Hytner. _The Lady in the Van_ (2015) chronicled Bennett’s 15-year relationship with Miss Shepherd, who resided in a Bedford camper on his Gloucester Crescent drive. 2022 saw the release of _Allelujah_**,** Richard Eyre’s all-star adaptation of Bennett’s acclaimed play about a hospital for the elderly under threat of closure.
-
-Michael Brooke, BFI Screenonline, screenonline.org.uk
+_The History Boys_ (2004) was subsequently filmed, again by Hytner. _The Lady in the Van_ (2015) chronicled Bennett’s 15-year relationship with Miss Shepherd, who resided in a Bedford camper on his Gloucester Crescent drive. 2022 saw the release of _Allelujah_, Richard Eyre’s all-star adaptation of Bennett’s acclaimed play about a hospital for the elderly under threat of closure.  
+**Michael Brooke, BFI Screenonline, screenonline.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDEzNTcyMF19
+eyJoaXN0b3J5IjpbMTg1MjczNzU3Nl19
 -->
