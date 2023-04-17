@@ -34,7 +34,6 @@ _The Madness of King George_ was a critical and commercial triumph, with Hawthor
 _The History Boys_ (2004) was subsequently filmed, again by Hytner. _The Lady in the Van_ (2015) chronicled Bennett’s 15-year relationship with Miss Shepherd, who resided in a Bedford camper on his Gloucester Crescent drive. 2022 saw the release of _Allelujah_, Richard Eyre’s all-star adaptation of Bennett’s acclaimed play about a hospital for the elderly under threat of closure.  
 **Michael Brooke, BFI Screenonline, screenonline.org.uk**  
 <br>
-<![endif]-->
 
 **A WOMAN OF NO IMPORTANCE**  
 _Director:_ David Giles  
@@ -188,6 +187,35 @@ d. Jonathan Miller, BBC1 tx 14/11/65) as Eryximachus
 **1966** **Alice in Wonderland** (TV film,
 
 d. Jonathan Miller, BBC1 tx 28/12/66) as Mouse
+<![endif]-->
+
+**1970** **Hamlet** (US/UK, from TV series ‘Hallmark Hall of Fame’,  d. Peter Wood, NBC tx 17/11/70) as Osric
+
+**Every Home Should Have One** (d. Jim Clark) as counsel in court
+
+**1978** **Long Shot** (d. Maurice Hatton) as Neville’s doctor
+
+**1982  Intensive Care** (from TV series ‘Play for Today’, d. Gavin Millar, d. David Jones, BBC1 tx 9/11/82) as Denis Midgeley
+
+**The Merry Wives of Windsor** (from TV series ‘The BBC Television Shakespeare’,
+
+d. David Jones, BBC2 tx 28/12/82) as Justice Shallow
+
+**The Secret Policeman’s Other Ball** (d. Julien Temple) as participant
+
+**1983** **Difficult Customers** (from video series ‘So You Want To Be a Success at Selling?’, d. Charles Crichton)
+
+**1984** **A Private Function** (d. Malcolm Mowbray) screenplay + co-story with Malcolm Mowbray
+
+**The Elastic Church** (TV documentary, d. Hugh Newsam, Channel 4 tx 2/9/84) narrator
+
+**1985** **The End of the Line** (documentary, from TV series ‘First Tuesday’, d. Ian McFarlane, ITV tx 4/6/85) presenter
+
+**Dreamchild** (d. Gavin Millar) as voice of Mock Turtle
+
+**1986** **Man and Music** (series of 4 TV documentaries, d. Tony Cash, Channel 4 tx 26/1-23/2/86) presenter
+
+**Breaking Up** (TV drama series, d. Stuart Burge, tx BBC2, 19/11-10/12/86) as Mr Posner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDIwMjgzNSwxODUyNzM3NTc2XX0=
+eyJoaXN0b3J5IjpbLTE0MDI3MTMxNjMsMTg1MjczNzU3Nl19
 -->
