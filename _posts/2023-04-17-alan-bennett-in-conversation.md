@@ -32,7 +32,170 @@ Bennett’s previously prolific output slowed noticeably in the late 1990s and e
 Throughout his career, Bennett also wrote extensively for the stage, his greatest success being _The Madness of George III_ (1992). Bennett himself adapted it for the cinema, and, scenting its American backers’ preference for a major star, made it a contractual condition that both original star Nigel Hawthorne and director Nicholas Hytner be retained. The slightly retitled  
 _The Madness of King George_ was a critical and commercial triumph, with Hawthorne and Bennett receiving Oscar nominations. Of the later plays,  
 _The History Boys_ (2004) was subsequently filmed, again by Hytner. _The Lady in the Van_ (2015) chronicled Bennett’s 15-year relationship with Miss Shepherd, who resided in a Bedford camper on his Gloucester Crescent drive. 2022 saw the release of _Allelujah_, Richard Eyre’s all-star adaptation of Bennett’s acclaimed play about a hospital for the elderly under threat of closure.  
-**Michael Brooke, BFI Screenonline, screenonline.org.uk**
+**Michael Brooke, BFI Screenonline, screenonline.org.uk**  
+<br>
+<![endif]-->
+
+**A Woman of No Importance**
+
+_Director:_ David Giles
+
+_Production Company:_ BBC
+
+_Producer:_ Innes Lloyd
+
+_Music:_ George Fenton
+
+_Cast:_
+
+Patricia Routledge
+
+BBC2 tx 19/11/1982
+
+UK 1982
+
+50 mins
+
+**Talking Heads 2: Waiting for the Telegram**
+
+_Director_: Stuart Burge  
+_©_: Slow Motion Limited  
+_Production Company_: Slow Motion Limited  
+_Produced for_: BBC  
+_Executive Producer_: Alan Bennett  
+_Producer_: Mark Shivas  
+_Associate Producer_: Lorraine Goodman  
+_Production Co-ordinator_: Sarah Atkinson  
+_Production Accountant_: Patrick Isherwood  
+_Post-production Supervisor_: Liz Pearson  
+_1st Assistant Director_: William Campbell  
+_Script Supervisor_: Heather Storr  
+_Screenplay_: Alan Bennett  
+_Lighting Director_: John Treays  
+_Camera Operator_: David Fader  
+_Gaffer_: Joe Ryan  
+_Graphic Design_: Mina Martinez  
+_Editor_: Sue Wyatt  
+_Production Designer_: Stuart Walker  
+_Art Director_: Diane Dancklefsen  
+_Production Buyer_: John Bush  
+_Property Master_: John Hogan  
+_Costume Designer_: Dany Everett  
+_Make-up/Hair Design_: Frances Hannon  
+_Telecine Grader_: Alan Tully  
+_Music_: George Fenton  
+_Sound Recordist_: Tony Jackson  
+_Dubbing Mixer_: Paul Harris  
+
+**Cast**
+Thora Hird _(Violet)_
+
+BBC2 tx 11/11/1998
+UK 1998
+30 mins
+
+**Alan Bennett**
+
+Born 9 May 1934, Leeds, Yorkshire
+
+All UK unless stated
+
+**Writer**
+
+**1964-65  Not So Much a Programme, More a Way of Life** (TV series, BBC1 tx 13/11/64-11/4/65)
+
+**1965  My Father Knew Lloyd George** (TV fictional documentary,
+
+d. Jack Gold, BBC1 tx 18/12/65) writer of additional material + cast as Gladstone
+
+**1965-66  BBC-3** (TV series, BBC1 tx 2/10/65-16/4/66)
+
+**1966  On the Margin** (TV series
+
+d. Sidney Lotterby, BBC2 tx 9/11/66) + participant
+
+**1972  A Day Out** (TV play, d. Stephen Frears, BBC2 tx 24/12/72)
+
+**1975  Sunset Across the Bay** (from TV series ‘Play for Today’ BBC1 tx 20/2/75; d. Stephen Frears)
+
+**1977** **A Little Outing** (from TV series ‘Premiere’, d. Brian Tufano, BBC2 tx 20/10/77)
+
+**1978-79** **A Visit from Miss Prothero** (from TV series ‘Play of the Week’,
+
+d. Stephen Frears, BBC2 tx 11/1/78)
+
+**Six Plays by Alan Bennett** (**Me! I’m Afraid of Virginia Woolf**, + narrator, d. Stephen Frears, ITV tx 2/12/78; **Doris** **and Doreen**,
+
+d. Stephen Frears, ITV tx 16/12/78; **The Old Crowd**,
+
+d. Lindsay Anderson, ITV tx 27/1/79; **Afternoon Off**, + cast as Mr Petty, d. Stephen Frears, ITV tx 3/2/79; **One** **Fine Day**,
+
+d. Stephen Frears, ITV tx 17/2/79; **All Day on the Sands**, d. Giles Foster, ITV tx 24/2/79)
+
+**1982  Intensive Care** (from TV series ‘Play for Today’, d. Gavin Millar, BBC1 tx 9/11/82)
+
+**Objects of Affection** (**Our Winnie** d. Malcolm Mowbray, BBC2 tx 12/11/82; **A Woman of No Importance** d. Giles Foster, BBC2 tx 19/11/82; **Rolling Home** d. Piers Haggard, BBC2 tx 3/12/82; **Marks** d. Piers Haggard, BBC2 tx 10/12/82; **Say Something Happened** d. Giles Foster, BBC2 tx 17/12/82)
+
+**1983** **An Englishman Abroad** (TV film, d. John Schlesinger, BBC1 tx 29/11/83)
+
+**1986  The Insurance Man** (TV film from series ‘Screen Two’, d. Richard Eyre, BBC2 tx 23/02/86)
+
+**1987  Prick Up Your Ears** (d. Stephen Frears) screenplay
+
+**1988  Talking Heads** (**A Chip in the Sugar**, d. Stuart Burge, BBC1 tx 19/4/88, + cast as Graham Whittaker; **A Lady of Letters**,
+
+d. Giles Foster, BBC1 tx 26/4/88; **Bed Among the Lentils**, d. Alan Bennett, BBC1 tx 3/5/88; **Soldiering On**, d. Tristram Powell, BBC1 tx 10/5/88; **Her Big Chance** d. Giles Foster, BBC1 tx 17/5/88; **A Cream Cracker Under the Settee** d. Stuart Burge, BBC1 tx 24/5/88)
+
+**1990** **Poetry in Motion** (**Thomas Hardy** (d. Tony Cash, Channel 4 tx 6/6/90; **A.E. Housman** d. Tony Cash, Channel 4 tx 13/6/90; **John Betjeman** d. Tony Cash, Channel 4 tx 20/6/90; **W H  Auden** d. Tony Cash, Channel 4 tx 27/6/90; **Louis MacNeice**, d. Tony Cash, Channel 4 tx 4/7/90; **Philip** **Larkin** d. Tony Cash, Channel 4 tx 11/7/90) + presenter
+
+**1991** **102 Boulevard Haussmann** (TV film from series ‘Screen Two’,
+
+d. Udayan Prasad, BBC2 tx 17/2/91)
+
+**A Life in Death** (short from TV series ‘Screenplay Firsts’, BBC2 tx 28/8/91) as script adviser
+
+**A Question of Attribution** (TV film from series ‘Screen One’,
+
+d. John Schlesinger, BBC1 tx 20/10/91)  
+<![if !supportLineBreakNewLine]>  
+<![endif]>
+
+**1991  Julie Walters and Friends** (TV comedy sketches, d. Alasdair MacMillan, ITV tx 29/12/91) + on-  screen participant.
+
+**1992  Childhood** (from 2nd TV series **Poetry in Motion**, d. Tony Cash  tx 29/11/92) + presenter
+
+**1994** **The Madness of King George** (UK/US, d. Nicholas Hytner) screenplay + based on play by AB + 2nd MP
+
+**1995  The Abbey** (three-part TV documentary, d. Jonathan Stedall: **A Royal Peculiar**, BBC2 tx 25/12/95; **Whom Would You Like To Be Seen Dead With?**,  BBC2  tx 26/12/95; **A Mirror of England**, BBC2 tx 27/12/95) + presenter
+
+**1998  Talking Heads 2** (**Miss Fozzard Finds Her Feet**,  d. Patrick Garland, BBC2 tx 6/10/98; **The Hand of** **God**, d. Stuart Burge, BBC2 tx 13/10/98; **Playing Sandwiches**, d. Udayan Prasad, BBC2 tx 20/10/98; **The Outside Dog**, d. Gavin Millar, BBC2 tx 27/10/98; **Nights in** **the Garden of Spain** d. Tristram Powell, BBC2 tx 3/11/98; **Waiting for the** **Telegram**, d. Stuart Burge, BBC2 tx 11/11/98)
+
+**2000  Telling Tales** (**A Strip of Blue** and **Our War** BBC2 tx 4/11/2000; **An Ideal Home** BBC2 tx 12/11/2000; **A Shy Butcher** BBC2 tx 15/11/2000; **Days Out** BBC2 tx 18/11/2000; **Proper Names** BBC2 tx 22/11/2000; **Eating Out** BBC2 tx 25/11/2000, all d. Patrick Garland; **Aunt Eveline** BBC2 tx 29/11/2000; **Unsaid Prayers** BBC2 tx 2/12/2000; **No Mean City** BBC2 tx 6/12/2000, all d. Tristram Powell) + reader
+
+**2006** **The History Boys** (UK/US,
+
+d. Nicholas Hytner) screenplay + based on play by AB
+
+**2009** **Bennett on Bennett** (**Mixing**, BBC 46/12/2009; **Shy**, BBC4 7/12/2009, **Writing** BBC4 8/12/2009; **Star Gazing**, BBC4 9/12/2009; **Postscript** BBC410/12/2009) uncredited writer + presenter
+
+**2010  The Habit of Art** (stage  
+d. Nicholas Hytner, screen d. Robin Lough) play by AB
+
+**2015  The Lady in the Van** (d. Nicholas Hytner) screenplay + based on memoirs by AB
+
+**2022  Allelujah** (d. Richard Eyre) play by AB + executive producer
+
+**Actor/Presenter/Narrator**
+
+**1965  Augustus Hare** (from TV series ‘Famous Gossips’, BBC2 tx 19/9/65) as Augustus Hare
+
+**The Drinking Party** (from TV series ‘Sunday Night’,
+
+d. Jonathan Miller, BBC1 tx 14/11/65) as Eryximachus
+
+**1966** **Alice in Wonderland** (TV film,
+
+d. Jonathan Miller, BBC1 tx 28/12/66) as Mouse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjczNzU3Nl19
+eyJoaXN0b3J5IjpbNjgzNjQ1ODUsMTg1MjczNzU3Nl19
 -->
