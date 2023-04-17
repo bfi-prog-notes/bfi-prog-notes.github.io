@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Alan Bennett in converesation
+published: true
+date: 2023-04-17
+readtime: true
+categories: ['EVENTS']
+tags: [Talk]
+metadata: 
+pdf: '2023-04-17-alan-bennett-in-conversation.pdf'
+---
 
 Few writers have successfully mined northern culture and specific northern speech patterns as Alan Bennett. Growing up in Leeds, he listened in on the chatter of his relatives, absorbing the patter of domestic conversation, which would emerge across a glittering and much-loved range of plays, particularly those written for television. We are delighted to welcome Alan Bennett back to BFI Southbank, to celebrate the work of one of the UK’s finest writers and offering a great opportunity to explore the way northern culture is so integral to his creative process.  
 **bfi.org.uk**
@@ -228,5 +237,6 @@ Alan Bennett** (from TV series ‘A Taste of My Life’, BBC2  tx  2/9/2006)
 **2016  
 Alan Bennett's Diaries** (TV documentary, d. Adam Low) BBC2 tx 24/12/2016  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDMxMzI1MDgsMTg1MjczNzU3Nl19
+eyJoaXN0b3J5IjpbLTIwOTI1Mzc1MTIsLTE1MDMxMzI1MDgsMT
+g1MjczNzU3Nl19
 -->
