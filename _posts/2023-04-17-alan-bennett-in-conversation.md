@@ -125,80 +125,37 @@ d. Stephen Frears, ITV tx 17/2/79; **All Day on the Sands**, d. Giles Foster, IT
 
 **1982  Intensive Care** (from TV series ‘Play for Today’, d. Gavin Millar, BBC1 tx 9/11/82)
 
-**Objects of Affection** (**Our Winnie** d. Malcolm Mowbray, BBC2 tx 12/11/82; **A Woman of No Importance** d. Giles Foster, BBC2 tx 19/11/82; **Rolling Home** d. Piers Haggard, BBC2 tx 3/12/82; **Marks** d. Piers Haggard, BBC2 tx 10/12/82; **Say Something Happened** d. Giles Foster, BBC2 tx 17/12/82)
-
-**1983** **An Englishman Abroad** (TV film, d. John Schlesinger, BBC1 tx 29/11/83)
-
-**1986  The Insurance Man** (TV film from series ‘Screen Two’, d. Richard Eyre, BBC2 tx 23/02/86)
-
-**1987  Prick Up Your Ears** (d. Stephen Frears) screenplay
-
-**1988  Talking Heads** (**A Chip in the Sugar**, d. Stuart Burge, BBC1 tx 19/4/88, + cast as Graham Whittaker; **A Lady of Letters**,
-
-d. Giles Foster, BBC1 tx 26/4/88; **Bed Among the Lentils**, d. Alan Bennett, BBC1 tx 3/5/88; **Soldiering On**, d. Tristram Powell, BBC1 tx 10/5/88; **Her Big Chance** d. Giles Foster, BBC1 tx 17/5/88; **A Cream Cracker Under the Settee** d. Stuart Burge, BBC1 tx 24/5/88)
-
-**1990** **Poetry in Motion** (**Thomas Hardy** (d. Tony Cash, Channel 4 tx 6/6/90; **A.E. Housman** d. Tony Cash, Channel 4 tx 13/6/90; **John Betjeman** d. Tony Cash, Channel 4 tx 20/6/90; **W H  Auden** d. Tony Cash, Channel 4 tx 27/6/90; **Louis MacNeice**, d. Tony Cash, Channel 4 tx 4/7/90; **Philip** **Larkin** d. Tony Cash, Channel 4 tx 11/7/90) + presenter
-
-**1991** **102 Boulevard Haussmann** (TV film from series ‘Screen Two’,
-
-d. Udayan Prasad, BBC2 tx 17/2/91)
-
-**A Life in Death** (short from TV series ‘Screenplay Firsts’, BBC2 tx 28/8/91) as script adviser
-
-**A Question of Attribution** (TV film from series ‘Screen One’,
-
-d. John Schlesinger, BBC1 tx 20/10/91)  
-<![if !supportLineBreakNewLine]>  
-<![endif]>
-
-**1991  Julie Walters and Friends** (TV comedy sketches, d. Alasdair MacMillan, ITV tx 29/12/91) + on-  screen participant.
-
-**1992  Childhood** (from 2nd TV series **Poetry in Motion**, d. Tony Cash  tx 29/11/92) + presenter
-
-**1994** **The Madness of King George** (UK/US, d. Nicholas Hytner) screenplay + based on play by AB + 2nd MP
-
-**1995  The Abbey** (three-part TV documentary, d. Jonathan Stedall: **A Royal Peculiar**, BBC2 tx 25/12/95; **Whom Would You Like To Be Seen Dead With?**,  BBC2  tx 26/12/95; **A Mirror of England**, BBC2 tx 27/12/95) + presenter
-
-**1998  Talking Heads 2** (**Miss Fozzard Finds Her Feet**,  d. Patrick Garland, BBC2 tx 6/10/98; **The Hand of** **God**, d. Stuart Burge, BBC2 tx 13/10/98; **Playing Sandwiches**, d. Udayan Prasad, BBC2 tx 20/10/98; **The Outside Dog**, d. Gavin Millar, BBC2 tx 27/10/98; **Nights in** **the Garden of Spain** d. Tristram Powell, BBC2 tx 3/11/98; **Waiting for the** **Telegram**, d. Stuart Burge, BBC2 tx 11/11/98)
-
-**2000  Telling Tales** (**A Strip of Blue** and **Our War** BBC2 tx 4/11/2000; **An Ideal Home** BBC2 tx 12/11/2000; **A Shy Butcher** BBC2 tx 15/11/2000; **Days Out** BBC2 tx 18/11/2000; **Proper Names** BBC2 tx 22/11/2000; **Eating Out** BBC2 tx 25/11/2000, all d. Patrick Garland; **Aunt Eveline** BBC2 tx 29/11/2000; **Unsaid Prayers** BBC2 tx 2/12/2000; **No Mean City** BBC2 tx 6/12/2000, all d. Tristram Powell) + reader
-
-**2006** **The History Boys** (UK/US,
-
-d. Nicholas Hytner) screenplay + based on play by AB
-
-**2009** **Bennett on Bennett** (**Mixing**, BBC 46/12/2009; **Shy**, BBC4 7/12/2009, **Writing** BBC4 8/12/2009; **Star Gazing**, BBC4 9/12/2009; **Postscript** BBC410/12/2009) uncredited writer + presenter
-
+**Objects of Affection** (**Our Winnie** d. Malcolm Mowbray, BBC2 tx 12/11/82; **A Woman of No Importance** d. Giles Foster, BBC2 tx 19/11/82; **Rolling Home** d. Piers Haggard, BBC2 tx 3/12/82; **Marks** d. Piers Haggard, BBC2 tx 10/12/82; **Say Something Happened** d. Giles Foster, BBC2 tx 17/12/82)  
+**1983** **An Englishman Abroad** (TV film, d. John Schlesinger, BBC1 tx 29/11/83)  
+**1986  The Insurance Man** (TV film from series ‘Screen Two’, d. Richard Eyre, BBC2 tx 23/02/86)  
+**1987  Prick Up Your Ears** (d. Stephen Frears) screenplay  
+**1988  Talking Heads** (**A Chip in the Sugar**, d. Stuart Burge, BBC1 tx 19/4/88, + cast as Graham Whittaker; **A Lady of Letters**, d. Giles Foster, BBC1 tx 26/4/88; **Bed Among the Lentils**, d. Alan Bennett, BBC1 tx 3/5/88; **Soldiering On**, d. Tristram Powell, BBC1 tx 10/5/88; **Her Big Chance** d. Giles Foster, BBC1 tx 17/5/88; **A Cream Cracker Under the Settee** d. Stuart Burge, BBC1 tx 24/5/88)  
+**1990** **Poetry in Motion** (**Thomas Hardy** (d. Tony Cash, Channel 4 tx 6/6/90; **A.E. Housman** d. Tony Cash, Channel 4 tx 13/6/90; **John Betjeman** d. Tony Cash, Channel 4 tx 20/6/90; **W H  Auden** d. Tony Cash, Channel 4 tx 27/6/90; **Louis MacNeice**, d. Tony Cash, Channel 4 tx 4/7/90; **Philip** **Larkin** d. Tony Cash, Channel 4 tx 11/7/90) + presenter  
+**1991** **102 Boulevard Haussmann** (TV film from series ‘Screen Two’, d. Udayan Prasad, BBC2 tx 17/2/91)  
+**A Life in Death** (short from TV series ‘Screenplay Firsts’, BBC2 tx 28/8/91) as script adviser  
+**A Question of Attribution** (TV film from series ‘Screen One’, d. John Schlesinger, BBC1 tx 20/10/91)    
+**1991  Julie Walters and Friends** (TV comedy sketches, d. Alasdair MacMillan, ITV tx 29/12/91) + on-  screen participant.  
+**1992  Childhood** (from 2nd TV series **Poetry in Motion**, d. Tony Cash  tx 29/11/92) + presenter  
+**1994** **The Madness of King George** (UK/US, d. Nicholas Hytner) screenplay + based on play by AB + 2nd MP  
+**1995  The Abbey** (three-part TV documentary, d. Jonathan Stedall: **A Royal Peculiar**, BBC2 tx 25/12/95; **Whom Would You Like To Be Seen Dead With?**,  BBC2  tx 26/12/95; **A Mirror of England**, BBC2 tx 27/12/95) + presenter  
+**1998  Talking Heads 2** (**Miss Fozzard Finds Her Feet**,  d. Patrick Garland, BBC2 tx 6/10/98; **The Hand of** **God**, d. Stuart Burge, BBC2 tx 13/10/98; **Playing Sandwiches**, d. Udayan Prasad, BBC2 tx 20/10/98; **The Outside Dog**, d. Gavin Millar, BBC2 tx 27/10/98; **Nights in** **the Garden of Spain** d. Tristram Powell, BBC2 tx 3/11/98; **Waiting for the** **Telegram**, d. Stuart Burge, BBC2 tx 11/11/98)  
+**2000  Telling Tales** (**A Strip of Blue** and **Our War** BBC2 tx 4/11/2000; **An Ideal Home** BBC2 tx 12/11/2000; **A Shy Butcher** BBC2 tx 15/11/2000; **Days Out** BBC2 tx 18/11/2000; **Proper Names** BBC2 tx 22/11/2000; **Eating Out** BBC2 tx 25/11/2000, all d. Patrick Garland; **Aunt Eveline** BBC2 tx 29/11/2000; **Unsaid Prayers** BBC2 tx 2/12/2000; **No Mean City** BBC2 tx 6/12/2000, all d. Tristram Powell) + reader  
+**2006** **The History Boys** (UK/US, d. Nicholas Hytner) screenplay + based on play by AB  
+**2009** **Bennett on Bennett** (**Mixing**, BBC 46/12/2009; **Shy**, BBC4 7/12/2009, **Writing** BBC4 8/12/2009; **Star Gazing**, BBC4 9/12/2009; **Postscript** BBC410/12/2009) uncredited writer + presenter  
 **2010  The Habit of Art** (stage  
-d. Nicholas Hytner, screen d. Robin Lough) play by AB
+d. Nicholas Hytner, screen d. Robin Lough) play by AB  
+**2015  The Lady in the Van** (d. Nicholas Hytner) screenplay + based on memoirs by AB  
+**2022  Allelujah** (d. Richard Eyre) play by AB + executive producer  
 
-**2015  The Lady in the Van** (d. Nicholas Hytner) screenplay + based on memoirs by AB
-
-**2022  Allelujah** (d. Richard Eyre) play by AB + executive producer
-
-**Actor/Presenter/Narrator**
-
-**1965  Augustus Hare** (from TV series ‘Famous Gossips’, BBC2 tx 19/9/65) as Augustus Hare
-
-**The Drinking Party** (from TV series ‘Sunday Night’,
-
-d. Jonathan Miller, BBC1 tx 14/11/65) as Eryximachus
-
-**1966** **Alice in Wonderland** (TV film,
-
-d. Jonathan Miller, BBC1 tx 28/12/66) as Mouse
-
-**1970** **Hamlet** (US/UK, from TV series ‘Hallmark Hall of Fame’,  d. Peter Wood, NBC tx 17/11/70) as Osric
-
-**Every Home Should Have One** (d. Jim Clark) as counsel in court
-
-**1978** **Long Shot** (d. Maurice Hatton) as Neville’s doctor
-
-**1982  Intensive Care** (from TV series ‘Play for Today’, d. Gavin Millar, d. David Jones, BBC1 tx 9/11/82) as Denis Midgeley
-
-**The Merry Wives of Windsor** (from TV series ‘The BBC Television Shakespeare’,
-
-d. David Jones, BBC2 tx 28/12/82) as Justice Shallow  
+**Actor/Presenter/Narrator**  
+**1965  Augustus Hare** (from TV series ‘Famous Gossips’, BBC2 tx 19/9/65) as Augustus Hare  
+**The Drinking Party** (from TV series ‘Sunday Night’, d. Jonathan Miller, BBC1 tx 14/11/65) as Eryximachus  
+**1966** **Alice in Wonderland** (TV film, d. Jonathan Miller, BBC1 tx 28/12/66) as Mouse  
+**1970** **Hamlet** (US/UK, from TV series ‘Hallmark Hall of Fame’,  d. Peter Wood, NBC tx 17/11/70) as Osric  
+**Every Home Should Have One** (d. Jim Clark) as counsel in court  
+**1978** **Long Shot** (d. Maurice Hatton) as Neville’s doctor  
+**1982  Intensive Care** (from TV series ‘Play for Today’, d. Gavin Millar, d. David Jones, BBC1 tx 9/11/82) as Denis Midgeley  
+**The Merry Wives of Windsor** (from TV series ‘The BBC Television Shakespeare’, d. David Jones, BBC2 tx 28/12/82) as Justice Shallow  
 **The Secret Policeman’s Other Ball** (d. Julien Temple) as participant  
 **1983** **Difficult Customers** (from video series ‘So You Want To Be a Success at Selling?’, d. Charles Crichton)  
 **1984** **A Private Function** (d. Malcolm Mowbray) screenplay + co-story with Malcolm Mowbray  
@@ -244,5 +201,5 @@ d. David Jones, BBC2 tx 28/12/82) as Justice Shallow
 **2006  Alan Bennett** (from TV series ‘A Taste of My Life’, BBC2  tx  2/9/2006)  
 **2016  Alan Bennett's Diaries** (TV documentary, d. Adam Low) BBC2 tx 24/12/2016  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTQ2NjIwMiwxODUyNzM3NTc2XX0=
+eyJoaXN0b3J5IjpbMTU2NzczNTA2MCwxODUyNzM3NTc2XX0=
 -->
