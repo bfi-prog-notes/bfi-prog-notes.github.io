@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alan Bennett in converesation
+title: Alan Bennett in conversation
 published: true
 date: 2023-04-17
 readtime: true
@@ -25,8 +25,7 @@ Winning an Oxford scholarship, he spent the 1950s preparing to become a medieval
 
 His first small-screen play, _A Day Out_, was filmed by Stephen Frears, who would direct and/or produce the majority of Bennett’s television work over the next decade. It and _Sunset Across the Bay_ were wistful, elegiac pieces, with Bennett drawing on his Yorkshire roots for the first time in his portraits of, respectively, a Halifax cycling club in 1911 and an elderly couple (based on his parents) retiring to Morecambe but feeling desperately homesick for Leeds.
 
-His television breakthrough was with the LWT series of _Six Plays by Alan Bennett_. Although he would publish five of these scripts under the title  
-_The Writer in Disguise_, there was little overt autobiography, but much delving into recurring preoccupations, be they shyness and loneliness (_Me! I’m Afraid of Virginia Woolf_, _Afternoon Off_), office minutiae (_Doris and Doreen_, _One Fine Day_), the limited appeal of Northern seaside towns (_Afternoon Off_, _All Day on the Sands_), family alienation (_Me! I’m Afraid of Virginia Woolf_, _One Fine Day_, _All Day on the Sands_) and a foreboding sense of impending doom (_Doris and Doreen_, _The Old Crowd_). The play that garnered most attention, much of it strongly negative, was _The Old Crowd_, an unusually experimental piece for mainstream British television, though much of its confrontational style came from director and uncredited co-writer Lindsay Anderson.
+His television breakthrough was with the LWT series of _Six Plays by Alan Bennett_. Although he would publish five of these scripts under the title _The Writer in Disguise_, there was little overt autobiography, but much delving into recurring preoccupations, be they shyness and loneliness (_Me! I’m Afraid of Virginia Woolf_, _Afternoon Off_), office minutiae (_Doris and Doreen_, _One Fine Day_), the limited appeal of Northern seaside towns (_Afternoon Off_, _All Day on the Sands_), family alienation (_Me! I’m Afraid of Virginia Woolf_, _One Fine Day_, _All Day on the Sands_) and a foreboding sense of impending doom (_Doris and Doreen_, _The Old Crowd_). The play that garnered most attention, much of it strongly negative, was _The Old Crowd_, an unusually experimental piece for mainstream British television, though much of its confrontational style came from director and uncredited co-writer Lindsay Anderson.
 
 Bennett returned to the BBC for his second cycle of plays, given the unofficial collective title _Objects of Affection_. These showed a deepening concern for the lives of ordinary people, whether the dying fathers in _Intensive Care and Rolling Home_, the slow-witted _Our Winnie_, the unemployed teenager and his mother in _Marks_, or the elderly couple and naïve social worker in _Say Something Happened_. As before, one piece stood out for stylistic innovation, the monologue _A Woman of No Importance_, with Patricia Routledge inaugurating what may be Bennett’s most lasting television monument.
 
@@ -38,9 +37,7 @@ A few months after the first _Talking Heads_ series, the BBC broadcast _Dinner a
 
 Bennett’s previously prolific output slowed noticeably in the late 1990s and early 2000s. He initially complained that he had been suffering from writer’s block before finally admitting that he had undergone treatment for cancer in 1997. This was revealed in his 2005 collection of confessional essays, _Untold Stories_ originally written in the expectation that they would appear posthumously: they also dealt frankly with his homosexuality, a family history of mental illness, and his motives for refusing a knighthood.
 
-Throughout his career, Bennett also wrote extensively for the stage, his greatest success being _The Madness of George III_ (1992). Bennett himself adapted it for the cinema, and, scenting its American backers’ preference for a major star, made it a contractual condition that both original star Nigel Hawthorne and director Nicholas Hytner be retained. The slightly retitled  
-_The Madness of King George_ was a critical and commercial triumph, with Hawthorne and Bennett receiving Oscar nominations. Of the later plays,  
-_The History Boys_ (2004) was subsequently filmed, again by Hytner. _The Lady in the Van_ (2015) chronicled Bennett’s 15-year relationship with Miss Shepherd, who resided in a Bedford camper on his Gloucester Crescent drive. 2022 saw the release of _Allelujah_, Richard Eyre’s all-star adaptation of Bennett’s acclaimed play about a hospital for the elderly under threat of closure.  
+Throughout his career, Bennett also wrote extensively for the stage, his greatest success being _The Madness of George III_ (1992). Bennett himself adapted it for the cinema, and, scenting its American backers’ preference for a major star, made it a contractual condition that both original star Nigel Hawthorne and director Nicholas Hytner be retained. The slightly retitled _The Madness of King George_ was a critical and commercial triumph, with Hawthorne and Bennett receiving Oscar nominations. Of the later plays, _The History Boys_ (2004) was subsequently filmed, again by Hytner. _The Lady in the Van_ (2015) chronicled Bennett’s 15-year relationship with Miss Shepherd, who resided in a Bedford camper on his Gloucester Crescent drive. 2022 saw the release of _Allelujah_, Richard Eyre’s all-star adaptation of Bennett’s acclaimed play about a hospital for the elderly under threat of closure.  
 **Michael Brooke, BFI Screenonline, screenonline.org.uk**  
 <br>
 
@@ -92,9 +89,10 @@ Thora Hird _(Violet)_
 
 BBC2 tx 11/11/1998  
 UK 1998  
-30 mins  
+30 mins    
+<br>
 
-**Alan Bennett**  
+**ALAN BENNETT**  
 Born 9 May 1934, Leeds, Yorkshire  
 All UK unless stated  
 
@@ -143,7 +141,7 @@ The Abbey** (three-part TV documentary, d. Jonathan Stedall: **A Royal Peculiar*
 **1998  
 Talking Heads 2** (**Miss Fozzard Finds Her Feet**,  d. Patrick Garland, BBC2 tx 6/10/98; **The Hand of** **God**, d. Stuart Burge, BBC2 tx 13/10/98; **Playing Sandwiches**, d. Udayan Prasad, BBC2 tx 20/10/98; **The Outside Dog**, d. Gavin Millar, BBC2 tx 27/10/98; **Nights in** **the Garden of Spain** d. Tristram Powell, BBC2 tx 3/11/98; **Waiting for the** **Telegram**, d. Stuart Burge, BBC2 tx 11/11/98)  
 **2000  
-Telling Tales** (**A Strip of Blue** and **Our War** BBC2 tx 4/11/2000; **An Ideal Home** BBC2 tx 12/11/2000; **A Shy Butcher** BBC2 tx 15/11/2000; **Days Out** BBC2 tx 18/11/2000; **Proper Names** BBC2 tx 22/11/2000; **Eating Out** BBC2 tx 25/11/2000, all d. Patrick Garland; **Aunt Eveline** BBC2 tx 29/11/2000; **Unsaid Prayers** BBC2 tx 2/12/2000; **No Mean City** BBC2 tx 6/12/2000, all d. Tristram Powell) + reader  
+Telling Tales** (**A Strip of Blue** and **Our War** BBC2 tx 4/11/2000; **An Ideal Home** BBC2 tx 12/11/2000; **A Shy Butcher** BBC2 tx 15/11/2000; **Days Out** BBC2 tx 18/11/2000; **Proper Names** BBC2 tx 22/11/2000; **Eating Out** BBC2 tx 25/11/2000, all d. Patrick Garland; **Aunt Eveline** BBC2 tx 29/11/2000; **Unsaid Prayers** BBC2 tx 2/12/2000; **No Mean City** BBC2 tx 6/12/2000, all d. Tristram Powell) + reader 
 **2006  
 The History Boys** (UK/US, d. Nicholas Hytner) screenplay + based on play by AB  
 **2009  
@@ -236,7 +234,4 @@ Alan Bennett** (from TV series ‘The South Bank Show’, d. Archie Powell, ITV 
 Alan Bennett** (from TV series ‘A Taste of My Life’, BBC2  tx  2/9/2006)  
 **2016  
 Alan Bennett's Diaries** (TV documentary, d. Adam Low) BBC2 tx 24/12/2016  
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTI1Mzc1MTIsLTE1MDMxMzI1MDgsMT
-g1MjczNzU3Nl19
--->
+<br>
