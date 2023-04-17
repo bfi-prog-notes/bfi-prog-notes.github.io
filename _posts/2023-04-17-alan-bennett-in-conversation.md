@@ -215,7 +215,68 @@ d. David Jones, BBC2 tx 28/12/82) as Justice Shallow
 
 **1986** **Man and Music** (series of 4 TV documentaries, d. Tony Cash, Channel 4 tx 26/1-23/2/86) presenter
 
-**Breaking Up** (TV drama series, d. Stuart Burge, tx BBC2, 19/11-10/12/86) as Mr Posner
+**Breaking Up** (TV drama series, d. Stuart Burge, tx BBC2, 19/11-10/12/86) as Mr Posner  
+<![endif]-->
+
+**1987  Fortunes of War** (7-part TV serial, d. James Cellan Jones, BBC1 tx 11/10-20/11/87) as Lord Pinkrose
+
+**Little Dorrit** (d. Christine Edzard) as the Bishop
+
+**1988  Dinner at Noon** (from TV series ‘Byline’, BBC1 tx 8/8/88) narrator
+
+**A Chip in the Sugar** (episode of  TV series ‘Talking Heads’,  
+d. Stuart Burge, BBC1 tx 19/8/88) as middle-aged man
+
+**1990** **Coral Browne – Caviar to the General** (TV documentary,
+
+d. Christopher O’Hare, C4 tx 23/12/90) narrator
+
+**1991** **The Walrus and the Carpenter** (from TV series ‘The Poetry Book’; Channel 4 tx 11/4/91) narrator
+
+**Selling Hitler** (parts 4 and 5 of TV series, d. Alastair Reid, ITV tx 2/7/91 & 9/7/91) as Hugh Trevor-Roper
+
+**The Traitor** (episode of TV series ‘Ashenden’, d.Christopher Morahan, BBC1 tx 24/11/91) as Grantly Caypor
+
+**1992**  **Wind on the Willows** (TV documentary, BBC2 tx 24/1/92) narrator
+
+**Looks Like a Chair, Actually It’s a Lavatory** (TV documentary, d. David Jeffcock, BBC2 tx 5/7/92) presenter
+
+**1993  Sickert’s London** (TV documentary, d. Jake Auerbach, BBC2 tx 2/1/93) reader
+
+**The Long Summer** (series of 6 TV documentaries, various directors, Channel 4 16/5-  20/5/93) narrator  
+<![endif]-->
+
+**1994** **Portrait or Bust** (TV documentary, d. Jonathan Stedall, BBC2 tx 4/4/94) presenter
+
+**Breaking Glass** (5-part TV series, BBC1, 29/5-10/7/94) narrator
+
+**1995** **Thank God It’s Sunday** (from TV series ‘Everyman’, d. Jonathan Stedall, BBC2 tx 28/5/95) introduction by AB
+
+**The Story Store** (TV animated
+
+series, ITV 27/7-6/12/1995) narrator
+
+**1996** **The Willows in Winter** (animated TV film, d. David Unwin, ITV tx 26/12/96) as voice of Mole
+
+**The House at Pooh Corner** (from TV series  ‘Jackanory’, BBC1 tx 24/3/96) reader
+
+**In Love and War** (d. Richard Attenborough) as a porter
+
+**1997  Heavenly Stories – An Easter Miscellany** (episode of TV series, BBC2, 27/3/97) presenter 
+**Mouse and Mole** (d. Alison De Vere, BBC1 tx 4/4/97) as voice of Mole    
+**A Dance to the Music of Time** (4-part TV drama, d. Alvin Rakoff, Channel 4 tx 9-30/10/97) as Professor Sillery  
+**2002** **Christmas Under Fire** (TV documentary, BBC2 tx 24/12/02) narrator  
+
+**About AB**  
+**1964** **Beyond the Fringe** (d. Duncan Wood, BBC2 tx 12/12/64) on-  screen participant  
+**1976** **Pleasure at Her Majesty’s** (from TV series ‘Omnibus’, BBC1 tx 29/12/76) on-screen participant  
+**1980** **Quartet** (TV review, d. Jeremy Swan, BBC2 tx 12/6/80) on-  screen participant  
+**1984** **Alan Bennett** (from TV series ‘The South Bank Show’, d. David Hinton, ITV tx 7/10/84)  
+**1991** **County Arcade, Leeds** (episode of TV series ‘Building Sights’, d. David Hinton, BBC2 tx 9/4/91) on-screen participant  
+**2002  Beyond the Fringe** (from TV series ‘Fame Set & Match’, d. Karen Blumenfeld, BBC2 tx 23/11/2002)  
+**2005** **Alan Bennett** (from TV series ‘The South Bank Show’, d. Archie Powell, ITV tx 9/10/2005)  
+**2006  Alan Bennett** (from TV series ‘A Taste of My Life’, BBC2  tx  2/9/2006)  
+**2016  Alan Bennett's Diaries** (TV documentary, d. Adam Low) BBC2 tx 24/12/2016  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI3MTMxNjMsMTg1MjczNzU3Nl19
+eyJoaXN0b3J5IjpbNTc2NTQwODU3LDE4NTI3Mzc1NzZdfQ==
 -->
