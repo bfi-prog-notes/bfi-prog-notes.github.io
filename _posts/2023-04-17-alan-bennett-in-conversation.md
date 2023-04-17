@@ -78,53 +78,28 @@ _Music_: George Fenton
 _Sound Recordist_: Tony Jackson  
 _Dubbing Mixer_: Paul Harris  
 
-**Cast**
-Thora Hird _(Violet)_
+**Cast**  
+Thora Hird _(Violet)_  
 
-BBC2 tx 11/11/1998
-UK 1998
-30 mins
+BBC2 tx 11/11/1998  
+UK 1998  
+30 mins  
 
-**Alan Bennett**
+**Alan Bennett**  
+Born 9 May 1934, Leeds, Yorkshire  
+All UK unless stated  
 
-Born 9 May 1934, Leeds, Yorkshire
-
-All UK unless stated
-
-**Writer**
-
-**1964-65  Not So Much a Programme, More a Way of Life** (TV series, BBC1 tx 13/11/64-11/4/65)
-
-**1965  My Father Knew Lloyd George** (TV fictional documentary,
-
-d. Jack Gold, BBC1 tx 18/12/65) writer of additional material + cast as Gladstone
-
-**1965-66  BBC-3** (TV series, BBC1 tx 2/10/65-16/4/66)
-
-**1966  On the Margin** (TV series
-
-d. Sidney Lotterby, BBC2 tx 9/11/66) + participant
-
-**1972  A Day Out** (TV play, d. Stephen Frears, BBC2 tx 24/12/72)
-
-**1975  Sunset Across the Bay** (from TV series ‘Play for Today’ BBC1 tx 20/2/75; d. Stephen Frears)
-
-**1977** **A Little Outing** (from TV series ‘Premiere’, d. Brian Tufano, BBC2 tx 20/10/77)
-
-**1978-79** **A Visit from Miss Prothero** (from TV series ‘Play of the Week’,
-
-d. Stephen Frears, BBC2 tx 11/1/78)
-
-**Six Plays by Alan Bennett** (**Me! I’m Afraid of Virginia Woolf**, + narrator, d. Stephen Frears, ITV tx 2/12/78; **Doris** **and Doreen**,
-
-d. Stephen Frears, ITV tx 16/12/78; **The Old Crowd**,
-
-d. Lindsay Anderson, ITV tx 27/1/79; **Afternoon Off**, + cast as Mr Petty, d. Stephen Frears, ITV tx 3/2/79; **One** **Fine Day**,
-
-d. Stephen Frears, ITV tx 17/2/79; **All Day on the Sands**, d. Giles Foster, ITV tx 24/2/79)
-
-**1982  Intensive Care** (from TV series ‘Play for Today’, d. Gavin Millar, BBC1 tx 9/11/82)
-
+**Writer**  
+**1964-65  Not So Much a Programme, More a Way of Life** (TV series, BBC1 tx 13/11/64-11/4/65)  
+**1965  My Father Knew Lloyd George** (TV fictional documentary, d. Jack Gold, BBC1 tx 18/12/65) writer of additional material + cast as Gladstone  
+**1965-66  BBC-3** (TV series, BBC1 tx 2/10/65-16/4/66)  
+**1966  On the Margin** (TV series d. Sidney Lotterby, BBC2 tx 9/11/66) + participant  
+**1972  A Day Out** (TV play, d. Stephen Frears, BBC2 tx 24/12/72)  
+**1975  Sunset Across the Bay** (from TV series ‘Play for Today’ BBC1 tx 20/2/75; d. Stephen Frears)  
+**1977** **A Little Outing** (from TV series ‘Premiere’, d. Brian Tufano, BBC2 tx 20/10/77)  
+**1978-79** **A Visit from Miss Prothero** (from TV series ‘Play of the Week’, d. Stephen Frears, BBC2 tx 11/1/78)  
+**Six Plays by Alan Bennett** (**Me! I’m Afraid of Virginia Woolf**, + narrator, d. Stephen Frears, ITV tx 2/12/78; **Doris** **and Doreen**, d. Stephen Frears, ITV tx 16/12/78; **The Old Crowd**, d. Lindsay Anderson, ITV tx 27/1/79; **Afternoon Off**, + cast as Mr Petty, d. Stephen Frears, ITV tx 3/2/79; **One** **Fine Day**, d. Stephen Frears, ITV tx 17/2/79; **All Day on the Sands**, d. Giles Foster, ITV tx 24/2/79)  
+**1982  Intensive Care** (from TV series ‘Play for Today’, d. Gavin Millar, BBC1 tx 9/11/82)  
 **Objects of Affection** (**Our Winnie** d. Malcolm Mowbray, BBC2 tx 12/11/82; **A Woman of No Importance** d. Giles Foster, BBC2 tx 19/11/82; **Rolling Home** d. Piers Haggard, BBC2 tx 3/12/82; **Marks** d. Piers Haggard, BBC2 tx 10/12/82; **Say Something Happened** d. Giles Foster, BBC2 tx 17/12/82)  
 **1983** **An Englishman Abroad** (TV film, d. John Schlesinger, BBC1 tx 29/11/83)  
 **1986  The Insurance Man** (TV film from series ‘Screen Two’, d. Richard Eyre, BBC2 tx 23/02/86)  
@@ -201,5 +176,5 @@ d. Nicholas Hytner, screen d. Robin Lough) play by AB
 **2006  Alan Bennett** (from TV series ‘A Taste of My Life’, BBC2  tx  2/9/2006)  
 **2016  Alan Bennett's Diaries** (TV documentary, d. Adam Low) BBC2 tx 24/12/2016  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzczNTA2MCwxODUyNzM3NTc2XX0=
+eyJoaXN0b3J5IjpbLTEzMTYwNjc5NjYsMTg1MjczNzU3Nl19
 -->
