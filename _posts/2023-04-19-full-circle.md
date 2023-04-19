@@ -1,8 +1,18 @@
+---
+layout: post
+title: Full Circle<br> The Haunting of Julia
+published: true
+date: 2023-04-19
+readtime: true
+categories: ['EVENTS']
+tags: [Horror]
+metadata: 'UK 1987, 91 mins<br> Director: Alan Clarke'
+pdf: '2023-04-16-rita-sue-and-bob-too.pdf'
+---
 
 _+ Q&A with Richard Loncraine and Simon Fitzjohn_
 
-When the cameras finally started rolling on the production of _Full Circle_ in London on  
-8 November 1976, it is unlikely that producer Peter Fetterman, director Richard Loncraine or a talented cast that included Hollywood A-lister Mia Farrow were thinking that, barely two years later, the film would seemingly be lost to the mists of time.
+When the cameras finally started rolling on the production of _Full Circle_ in London on  8 November 1976, it is unlikely that producer Peter Fetterman, director Richard Loncraine or a talented cast that included Hollywood A-lister Mia Farrow were thinking that, barely two years later, the film would seemingly be lost to the mists of time.
 
 But such were the pitfalls of independent film production, with Fetterman operating outside the studio system, cobbling together a budget of $1.1m – thanks to convincing a series of investors in both Canada and the UK – to bankroll the film. With a hectic schedule (filming had to be complete by the end of 1976 for Canadian tax purposes) and a fresh-faced crew devoid of industry cynicism, that target was met. But what happened next?
 
@@ -149,5 +159,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODAwNzA0NCwxNDM1Mjg2NTg4XX0=
+eyJoaXN0b3J5IjpbLTE4NjA2Nzc3NjcsMTQzNTI4NjU4OF19
 -->
