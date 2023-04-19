@@ -36,8 +36,7 @@ Perhaps unsurprisingly, considering its focus on mood and style, the film was we
 
 Both English-language and French dubbed versions also screened in Canada – but even so, come the close of 1978, there seemed to be little cinematic life left in _Full Circle_. Most notably, it did not pick up a release in the US, despite the best efforts of producer Fetterman. He recalled: ‘I kept being told it was too subtle for American audiences, that it wasn’t gory enough or that it didn’t hold the attention. On one occasion, I carried the cans of film down Fifth Avenue to meet with Paramount and they walked out after 10 minutes, saying it was “too slow”.’
 
-A few television screenings on Canadian networks followed, before the film was given a new lease of life courtesy of John Alan Simon and his Discovery Films company. Simon specialised in hoovering up titles unreleased in the US, giving them a polish and then unleashing them on the American market. He had done well for himself giving  
-_The Wicker Man_ (1973) that very treatment earlier in the 1970s.
+A few television screenings on Canadian networks followed, before the film was given a new lease of life courtesy of John Alan Simon and his Discovery Films company. Simon specialised in hoovering up titles unreleased in the US, giving them a polish and then unleashing them on the American market. He had done well for himself giving _The Wicker Man_ (1973) that very treatment earlier in the 1970s.
 
 Making a quick deal with Fetterman, Simon obtained the rights to distribute _Full Circle_ in 1981 but insisted on a change of title to _The Haunting of Julia_, feeling the film’s original name did not make it abundantly clear to audiences that it was a horror movie. Not only that, but Discovery ditched the Mia Farrow artwork and came up with a new poster design, a somewhat lurid offering purporting to show the demonic Olivia, complete with the tagline ‘She had no one to play with for thirty years…’.
 
@@ -159,5 +158,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTg0MTgyNCwxNDM1Mjg2NTg4XX0=
+eyJoaXN0b3J5IjpbNTE5NDc3NDAsMTQzNTI4NjU4OF19
 -->
