@@ -6,8 +6,8 @@ date: 2023-04-19
 readtime: true
 categories: ['EVENTS']
 tags: [Horror]
-metadata: 'UK 1987, 91 mins<br> Director: Alan Clarke'
-pdf: '2023-04-16-rita-sue-and-bob-too.pdf'
+metadata: 'Canada/UK 1978, 97 mins<br> Director: Richard Loncraine'
+pdf: '2023-04-19-full-circle.pdf'
 ---
 
 _+ Q&A with Richard Loncraine and Simon Fitzjohn_
@@ -159,5 +159,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjA2Nzc3NjcsMTQzNTI4NjU4OF19
+eyJoaXN0b3J5IjpbLTk2OTg0MTgyNCwxNDM1Mjg2NTg4XX0=
 -->
