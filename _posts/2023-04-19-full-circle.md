@@ -40,7 +40,99 @@ A brief VHS release followed in the early 1980s, with rental versions popping up
 But there was never to be an official release for home viewing, whether it be commercial VHS or DVD. Loncraine moved on to bigger things, and the cast and crew carried on with their careers, while producer Peter Fetterman ditched the movie business altogether a year or so later, chastened by the experience.
 
 And that appeared to be that for _Full Circle_ or _The Haunting of Julia_: one of those movies whispered about in forums and fan groups, ignored by the majority but treasured by a few who hoped that one day – one day – a film arguably ahead of its time would get the love and attention it so richly deserved.  
-**Simon Fitzjohn, _Chasing Ghosts: The Search for Full Circle_, booklet accompanying BFI Flipside UHD/Blu-ray**
+**Simon Fitzjohn, _Chasing Ghosts: The Search for Full Circle_, booklet accompanying BFI Flipside UHD/Blu-ray**  
+<![endif]-->
+
+**Full Circle The Haunting of Julia**
+
+_Directed by_: Richard Loncraine  
+_©_: Montreal Trust Company  
+_Presented by_: Fetter Productions Ltd,
+
+Classic Film Industries Ltd  
+_The producers acknowledge the participation of_: Canadian Film Development Corporation, Famous Players Ltd  
+_Executive Producer_: Julian Melzack  
+_Produced by_: Peter Fetterman, Alfred Pariser  
+_Associate Producer_: Hugh Harlow  
+_Production Accountant_: Gerry Wheatley  
+_Location Manager_: Peter Bennett  
+_Production Secretary_: Marilyn Clarke  
+_Production Assistant_:
+
+Terry Madden _[uncredited]_  
+_1st Assistant Director_: Tony Thatcher  
+_2nd Assistant Director_: Gerry Gavigan  
+_Continuity_: Penny Eyles  
+_British Casting_: Irene Lamb  
+_Canadian Casting_: Karen Hazzard  
+_Screenplay by_: Dave Humphries  
+_Based on an adaptation by_:
+
+Harry Bromley Davenport  
+_From the novel_ Julia _by_: Peter Straub  
+_Director of Photography_: Peter Hannan  
+_[Camera] Operator_: Terry Parmane  
+_Camera Assistant_: Laurie Frost  
+_Gaffer_: Roy Rodhouse  
+_Stills_: Tony Bliss  
+_Special Effects_: Thomas Clark  
+_Film Editor_: Ron Wisman  
+_Assistant Editor_: Catharine Lane  
+_Art Director_: Brian Morris  
+_Production Buyer_: Brenda Roberson  
+_Property Master_: George Ball  
+_Construction_: Roy Hamilton  
+_Wardrobe Designer_: Shuna Harwood  
+_Miss [Jill] Bennett’s Wardrobe by_: Jaeger  
+_Wardrobe Mistress_: Susan David  
+_Make-up_: Dickie Mills  
+_Hairdresser_: Martin Samuel  
+_Title Design_: John Leach & Associates  
+_Laboratory_: Technicolor, Quinn Labs  
+_Music Composed and Performed by_:
+
+Colin Towns  
+_Sound Mixer_: Tony Jackson  
+_Dubbing Mixer_: David Appleby, Gary Bourgeois  
+_Sound Editor_: Jim Hopkins  
+_Unit Publicist_: Mike Russell  
+_Special Publicity_: Dennis Davidson Assoc.  
+_[Camera] Equipment_: Technovision  
+_Lighting [Equipment]_: Lee Electric  
+_Made at_: Lee International Film Studios
+
+**Cast**
+Mia Farrow _(Julia Lofting)_  
+Keir Dullea _(Magnus Lofting)_  
+Tom Conti _(Mark)_  
+Robin Gammell _(David Swift)_  
+Jill Bennett _(Lily)_  
+Cathleen Nesbitt _(Mrs Rudge)_  
+Anna Wing _(Rose Flood)_  
+Edward Hardwicke _(Captain Paul Winter)_  
+Mary Morris _(Greta Braden)_  
+Pauline Jameson _(Claudia Branscombe)_  
+Peter Sallis _(Geoffrey Branscombe)_  
+Arthur Howard _(Mr Piggott)_  
+Damaris Hayman _(Miss Pinner)_  
+Susan Porrett _(Mrs Ward)_  
+Sophie Ward _(Katie Lofting)_  
+Hilda Fenemore _(Katherine)_  
+Yvonne Edgell _(Mrs Flood’s niece)_  
+Nigel Havers _(estate agent)_  
+Denis Lill _(doctor)_  
+Ann Mitchell _(woman in park)_  
+Michael Bilton _(salesman)_  
+John Tinn _(customer)_  
+Robert Farrant _(receptionist)_  
+Elizabeth Weaver _(mother in showroom)_  
+Susan Hibbert _(daughter)_  
+Julian Fellows _(library attendant)_  
+Oliver Maguire _(nurse)_  
+Samantha Gates _(Olivia Rudge)_
+
+Canada/UK 1978  
+97 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjE0NDcyOV19
+eyJoaXN0b3J5IjpbMTQzNTI4NjU4OF19
 -->
