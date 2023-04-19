@@ -41,14 +41,11 @@ But there was never to be an official release for home viewing, whether it be co
 
 And that appeared to be that for _Full Circle_ or _The Haunting of Julia_: one of those movies whispered about in forums and fan groups, ignored by the majority but treasured by a few who hoped that one day – one day – a film arguably ahead of its time would get the love and attention it so richly deserved.  
 **Simon Fitzjohn, _Chasing Ghosts: The Search for Full Circle_, booklet accompanying BFI Flipside UHD/Blu-ray**  
-<![endif]-->
 
-**Full Circle The Haunting of Julia**
-
+**FULL CIRCLE  THE HAUNTING OF JULIA**  
 _Directed by_: Richard Loncraine  
 _©_: Montreal Trust Company  
 _Presented by_: Fetter Productions Ltd,
-
 Classic Film Industries Ltd  
 _The producers acknowledge the participation of_: Canadian Film Development Corporation, Famous Players Ltd  
 _Executive Producer_: Julian Melzack  
@@ -57,18 +54,14 @@ _Associate Producer_: Hugh Harlow
 _Production Accountant_: Gerry Wheatley  
 _Location Manager_: Peter Bennett  
 _Production Secretary_: Marilyn Clarke  
-_Production Assistant_:
-
-Terry Madden _[uncredited]_  
+_Production Assistant_: Terry Madden _[uncredited]_  
 _1st Assistant Director_: Tony Thatcher  
 _2nd Assistant Director_: Gerry Gavigan  
 _Continuity_: Penny Eyles  
 _British Casting_: Irene Lamb  
 _Canadian Casting_: Karen Hazzard  
 _Screenplay by_: Dave Humphries  
-_Based on an adaptation by_:
-
-Harry Bromley Davenport  
+_Based on an adaptation by_: Harry Bromley Davenport  
 _From the novel_ Julia _by_: Peter Straub  
 _Director of Photography_: Peter Hannan  
 _[Camera] Operator_: Terry Parmane  
@@ -89,9 +82,7 @@ _Make-up_: Dickie Mills
 _Hairdresser_: Martin Samuel  
 _Title Design_: John Leach & Associates  
 _Laboratory_: Technicolor, Quinn Labs  
-_Music Composed and Performed by_:
-
-Colin Towns  
+_Music Composed and Performed by_: Colin Towns  
 _Sound Mixer_: Tony Jackson  
 _Dubbing Mixer_: David Appleby, Gary Bourgeois  
 _Sound Editor_: Jim Hopkins  
@@ -99,9 +90,9 @@ _Unit Publicist_: Mike Russell
 _Special Publicity_: Dennis Davidson Assoc.  
 _[Camera] Equipment_: Technovision  
 _Lighting [Equipment]_: Lee Electric  
-_Made at_: Lee International Film Studios
+_Made at_: Lee International Film Studios  
 
-**Cast**
+**Cast**  
 Mia Farrow _(Julia Lofting)_  
 Keir Dullea _(Magnus Lofting)_  
 Tom Conti _(Mark)_  
@@ -129,10 +120,10 @@ Elizabeth Weaver _(mother in showroom)_
 Susan Hibbert _(daughter)_  
 Julian Fellows _(library attendant)_  
 Oliver Maguire _(nurse)_  
-Samantha Gates _(Olivia Rudge)_
+Samantha Gates _(Olivia Rudge)_  
 
 Canada/UK 1978  
 97 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTI4NjU4OF19
+eyJoaXN0b3J5IjpbMjcyNTA4OTksMTQzNTI4NjU4OF19
 -->
