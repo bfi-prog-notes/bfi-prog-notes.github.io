@@ -16,47 +16,29 @@ The genre elements in _Essential Killing_ have given it the label of ‘survival
 To call them ‘questions’, though, is probably overstating the case. The film’s real achievement is to blur the line between detachment and involvement: to create a situation in which the viewer feels close to a dying protagonist while at the same time remaining free to judge his evermore-desperate actions.  
 The strategy is in some ways analogous with Hitchcock’s fondness for generating unease by manipulating audiences into identifying with flawed and potentially villainous characters, but the only recent film that comes to mind as working in quite this way – with similar moral anxieties built into its structure and method – is Jia Zhangke’s _Xiao Wu_, another empathetic portrait of a loser who finally vanishes from his own film.
 
-Skolimowski made no films between 1991 and 2008 (he says he spent the time painting), and was apparently nudged back into the fray by acting in Cronenberg’s _Eastern Promises_. It’s interesting that his two ‘comeback’ films are both in some sense responses to the most popular films in Kieslowski’s _Dekalog_: the exploration of desire and voyeurism in _Four Nights with Anna_ (2008) plays like a commentary on the subtexts in _A Short Film about Love_, while this film, as we’ve noted, reframes the moral issues behind _A Short Film about Killing_. Skolimowski, though, is the ‘wild man’ that the urbane Kieslowski never could be, and in Vincent Gallo he’s found an actor to match his own fearlessness. _Essential Killing_ would be much less powerful if it didn’t show the jihadi’s physical sufferings with such visceral immediacy, and if the realism weren’t strong enough to deliver surrealist shocks like the staggering  
-final image.
+Skolimowski made no films between 1991 and 2008 (he says he spent the time painting), and was apparently nudged back into the fray by acting in Cronenberg’s _Eastern Promises_. It’s interesting that his two ‘comeback’ films are both in some sense responses to the most popular films in Kieslowski’s _Dekalog_: the exploration of desire and voyeurism in _Four Nights with Anna_ (2008) plays like a commentary on the subtexts in _A Short Film about Love_, while this film, as we’ve noted, reframes the moral issues behind _A Short Film about Killing_. Skolimowski, though, is the ‘wild man’ that the urbane Kieslowski never could be, and in Vincent Gallo he’s found an actor to match his own fearlessness. _Essential Killing_ would be much less powerful if it didn’t show the jihadi’s physical sufferings with such visceral immediacy, and if the realism weren’t strong enough to deliver surrealist shocks like the staggering final image.  
+**Tony Rayns, _Sight and Sound_, April 2011**
+<br><br>
 
-Tony Rayns, _Sight and Sound_, April 2011
-
-<![endif]-->
-
-**ESSENTIAL KILLING**
-
+**ESSENTIAL KILLING**  
 _Directed by_: Jerzy Skolimowski  
-©: Skopia Film, Cylinder Productions,  
-Element Pictures, Mythberg Films, Syrena Films, Canal+ Poland  
+©: Skopia Film, Cylinder Productions,  Element Pictures, Mythberg Films, Syrena Films, Canal+ Poland  
 _A_ Skopia Film _production_  
-_Co-produced by_: Cylinder Productions,  
-Element Pictures, Mythberg Films  
+_Co-produced by_: Cylinder Productions,  Element Pictures, Mythberg Films  
 _In co-production with_: Canal+ Poland, Syrena Films  
 _Co-financed by_: Akson Studio, Task Films  
-_With the support of_: Polish Film Institute,  
-Bord Scannán na hÉireann/Irish Film Board,  
-The Norwegian Film Institute, Motion Picture Public Foundation of Hungary, Eurimages  
-_A_ Polish Film Institute _co-financed production_
-
+_With the support of_: Polish Film Institute,  Bord Scannán na hÉireann/Irish Film Board,  The Norwegian Film Institute, Motion Picture Public Foundation of Hungary, Eurimages  
+_A_ Polish Film Institute _co-financed production_  
 _a_ Jeremy Thomas _presentation_  
 _Production Services_: Transfax Film Productions _Worldwide Sales by_: HanWay Films  
-_Executive Producers_: Jeremy Thomas,  
-Andrew Lowe, Peter Watson  
+_Executive Producers_: Jeremy Thomas,  Andrew Lowe, Peter Watson  
 _Produced by_: Ewa Piaskowska, Jerzy Skolimowski  
-_Co-producers_: Ingrid Lill Høgtun, Jozsef Berger,  
-Ed Guiney  
-_Line Producers_: Bjarne Bjørndalen,  
-Marek Rozenbaum
-
-_Senior Production Executive_: Gaute Lid Larssen _Production Executive_: Jan-Erik Gammleng
-
-_Production Managers_: Andrzej Stempowski,  
-Bjørn Fjærestad
-
+_Co-producers_: Ingrid Lill Høgtun, Jozsef Berger,  Ed Guiney  
+_Line Producers_: Bjarne Bjørndalen,  Marek Rozenbaum  
+_Senior Production Executive_: Gaute Lid Larssen _Production Executive_: Jan-Erik Gammleng  
+_Production Managers_: Andrzej Stempowski,  Bjørn Fjærestad  
 _Production Supervisor_: Itai Tamir  
-_Production Co-ordinators_:  
-Natalia Stempowska-Szpadzik, Terje Strømstad, Shirley Hermann
-
+_Production Co-ordinators_:  Natalia Stempowska-Szpadzik, Terje Strømstad, Shirley Hermann
 _Production Accountant_: Robert Bachurzewski _Location Managers_: Dariusz Klodowski, Eran Kotzki _Post-production Supervisors_: Dávid Jancsó, Neseser, Jakub Chilczuk, Malgorzata Sandecka  
 _2nd Unit Directors_: Józef Skolimowski,  
 Michal Skolimowski
@@ -147,5 +129,5 @@ Poland-Norway-Hungary-Ireland 2010©
 
 84 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDUwNTE0NV19
+eyJoaXN0b3J5IjpbLTQ4ODM5NjA1OF19
 -->
