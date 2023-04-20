@@ -85,8 +85,7 @@ _Consultants_: Piotr Kolodziejczyk, Szymon Skalski, Konrad Orlowski
 _Dialogue Coach_: Malgorzata Skuza  
 _Filmed at_: TVP Studio
 
-_Cast:_
-
+**Cast**  
 Vincent Gallo _(Mohammed)_  
 Emmanuelle Seigner _(Margaret)_  
 Zach Cohen _(American contractor 1)_  
@@ -108,9 +107,10 @@ David Jefferson, Donnell Knox, Geo D. Olivier _(American soldiers)_
 Kamil Ruszecki, Stanislaw Marek Lukasik _(soldiers)_  
 Jérôme Dassier _(SUV driver)_  
 Geir Marring _(fisherman)_  
-Poland-Norway-Hungary-Ireland 2010©
 
-84 mins
+Poland-Norway-Hungary-Ireland 2010©  
+84 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzE4ODIwOF19
+eyJoaXN0b3J5IjpbMTIxNjE4MDY4OF19
 -->
