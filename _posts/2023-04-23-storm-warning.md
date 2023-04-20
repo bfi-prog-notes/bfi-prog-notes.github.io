@@ -14,8 +14,7 @@ _Storm Warning_, being better written, more compact in scope, and less generalis
 **Penelope Houston, _Sight and Sound_, March 1951**
 <br><br>
 
-**STORM WARNING**
-
+**STORM WARNING**  
 _Director_: Stuart Heisler  
 _Production Company_: Warner Bros.  
 _Producer_: Jerry Wald  
@@ -29,8 +28,7 @@ _Make-up_: Perc Westmore, Frank Westmore
 _Music_: Daniele Amfitheatrof  
 _Music Director_: Ray Heindorf
 
-_Cast:_
-
+**Cast**  
 Ginger Rogers _(Marsha Mitchell)_  
 Ronald Reagan _(Burt Rainey)_  
 Doris Day _(Lucy Rice)_  
@@ -45,11 +43,11 @@ Stuart Randall _(Walters)_
 Sean McClory _(Shore)_  
 Paul E. Burns _(Hauser)_
 
-USA 1951
-
+USA 1951  
 89 mins
 
 A BFI National Archive print
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM1MTcxODRdfQ==
+eyJoaXN0b3J5IjpbLTEwNzg1NDY2NjRdfQ==
 -->
