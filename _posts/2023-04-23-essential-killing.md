@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Essential Killing
+published: true
+date: 2023-04-23
+readtime: true
+categories: ['OUTSIDERS AND EXILES<br>THE FILMS OF JERZY SKOLIMOWSKI']
+tags: [Drama]
+metadata: 'Poland-Norway-Hungary-Ireland 2010, 84 mins<br> Director: Jerzy Skolimowski'
+pdf: '2023-04-23-essential-killing.pdf'
+---
 
 Appropriately coming from a filmmaker who has endured his own share of troubles, _Essential Killing_ deals with survival against the odds. Premiered to acclaim at the Venice Film Festival, Jerzy Skolimowski’s challengingly visceral film shows a man caught on the run in his sun-beaten, desert home and transported far away to a freezing, snow-clad forest, where he escapes his captors and then has to fend for himself against other humans and animal life. But there is more detail to be glimpsed than that. The opening landscapes could be Afghanistan, the men in uniform speak English in American accents, the workers in the forest are speaking Polish, and our mute central figure – incarnated by a raggedly hirsute Vincent Gallo – experiences flashbacks to an Islamic world, accompanied by readings from the Koran.
 
@@ -13,8 +23,7 @@ Against the odds, the second short film about killing from a Polish master prove
 
 The genre elements in _Essential Killing_ have given it the label of ‘survival drama’. But there’s nothing heroic about this anonymous jihadi. (He’s never given a name on the soundtrack, only in the cast list in the end credits.) The film is anything but triumphalist, and it’s hardly a celebration of the indomitable human spirit. Skolimowski has long specialised in challenging viewers not to empathise with fundamentally unsympathetic characters, and he starts here from the awareness that the jihadi’s plight will trigger sympathy for purely circumstantial reasons. He periodically takes us inside the man’s head: first to convey his panic at going deaf, second to show his attempts to reassure himself that he was acting on Allah’s will by killing men in Afghanistan, and third to suggest that sentimental memories of a wife and child (or are they self-pitying dreams of what might have been?) prime his instinct to battle on through the snows and forests – and, crucially, to kill again. These glimpses of what’s going on in an increasingly unhinged mind merely underline that this man sees himself as being at war; in their stylised way, they’re part of the film’s realist foundations, anchoring the story in the realities of the ‘war on terror’ and ‘extraordinary rendition’. The truth of this backstory prevents the film from becoming a vacuous fable in the vein of Losey’s all-too-abstract _Figures in a Landscape_. The recognisable political context meshes with our memories of war movies and hunters-and-hunted plots to provide a charged fictional terrain on which Skolimowski can raise questions about humanity and inhumanity.
 
-To call them ‘questions’, though, is probably overstating the case. The film’s real achievement is to blur the line between detachment and involvement: to create a situation in which the viewer feels close to a dying protagonist while at the same time remaining free to judge his evermore-desperate actions.  
-The strategy is in some ways analogous with Hitchcock’s fondness for generating unease by manipulating audiences into identifying with flawed and potentially villainous characters, but the only recent film that comes to mind as working in quite this way – with similar moral anxieties built into its structure and method – is Jia Zhangke’s _Xiao Wu_, another empathetic portrait of a loser who finally vanishes from his own film.
+To call them ‘questions’, though, is probably overstating the case. The film’s real achievement is to blur the line between detachment and involvement: to create a situation in which the viewer feels close to a dying protagonist while at the same time remaining free to judge his evermore-desperate actions.  The strategy is in some ways analogous with Hitchcock’s fondness for generating unease by manipulating audiences into identifying with flawed and potentially villainous characters, but the only recent film that comes to mind as working in quite this way – with similar moral anxieties built into its structure and method – is Jia Zhangke’s _Xiao Wu_, another empathetic portrait of a loser who finally vanishes from his own film.
 
 Skolimowski made no films between 1991 and 2008 (he says he spent the time painting), and was apparently nudged back into the fray by acting in Cronenberg’s _Eastern Promises_. It’s interesting that his two ‘comeback’ films are both in some sense responses to the most popular films in Kieslowski’s _Dekalog_: the exploration of desire and voyeurism in _Four Nights with Anna_ (2008) plays like a commentary on the subtexts in _A Short Film about Love_, while this film, as we’ve noted, reframes the moral issues behind _A Short Film about Killing_. Skolimowski, though, is the ‘wild man’ that the urbane Kieslowski never could be, and in Vincent Gallo he’s found an actor to match his own fearlessness. _Essential Killing_ would be much less powerful if it didn’t show the jihadi’s physical sufferings with such visceral immediacy, and if the realism weren’t strong enough to deliver surrealist shocks like the staggering final image.  
 **Tony Rayns, _Sight and Sound_, April 2011**
@@ -111,6 +120,80 @@ Geir Marring _(fisherman)_
 Poland-Norway-Hungary-Ireland 2010©  
 84 mins<br>
 <br>
+
+**OUTSIDERS AND EXILES: THE FILMS OF JERZY SKOLIMOWSKI**<br>
+**Jerzy Skolimowski in Conversation**<br>
+Tue 28 March 18:30<br>
+**The Shout**<br>
+Tue 28 March 20:45 (+ intro by Jerzy Skolimowski); Wed 5 Apr 20:55; Fri 28 Apr 18:30<br>
+**Walkover (Walkower)**<br> 
+Wed 29 Mar 18:20 (+ Q&A with Jerzy Skolimowski); Sat 8 Apr 18:10<br>
+**Moonlighting**<br>
+Wed 29 Mar 20:45 (+ intro by Jerzy Skolimowski); Sun 9 Apr 13:00; Sat 15 Apr 18:20<br>
+**Hands Up! (Reçe do góry)**<br>
+Fri 31 Mar 20:45; Mon 10 Apr 15:40<br>
+**Barrier (Bariera)**<br>
+Sat 1 Apr 18:20; Tue 4 Apr 20:50 (+ intro by season curator Michael Brooke)<br>
+**EO**<br>
+Sat 1 Apr 20:50; Wed 5 Apr 18:20; Fri 21 Apr 20:50; Sat 22 Apr 18:20; Thu 27 Apr 20:45<br>
+**Dialogue 20-40-60 (Dialóg 20-40-60)**<br>
+Sun 2 Apr 12:30; Sat 15 Apr 20:45<br>
+**Deep End**<br>
+Sun 2 Apr 15:40; Mon 10 Apr 18:30; Wed 19 Apr 20:55<br>
+**Le Départ**<br>
+Sun 2 Apr 18:30; Mon 17 Apr 20:40<br>
+**Identification Marks: None (Rysopis)**<br>
+Mon 3 Apr 21:00; Sun 9 Apr 18:40<br>
+**Outsider and Exile**<br>
+Tue 4 Apr 18:15<br>
+**The Lightship**<br>
+Sat 8 Apr 12:15; Fri 14 Apr 20:40<br>
+**11 Minutes (11 minut)**<br>
+Sun 16 Apr 12:30; Sat 29 Apr 20:30<br>
+**Four Nights with Anna (Cztery noce z Anna)**<br>
+Sun 23 Apr 12:40; Fri 28 Apr 20:50<br>
+**Essential Killing**<br>
+Sun 23 Apr 18:40; Sat 29 Apr 14:40<br>
+<br>
+
+**In cultural partnership with**
+<img style="float: left;" src="/img/kinoteka.jpg"><br><br><br><br>
+9 Mar-27 Apr kinoteka.org.uk
+<br><br><br><br><br><br><br><br>
+
+<img style="float: left;" src="/img/mamuska-02.png"><br><br><br><br>
+Proud partners of the BFI’s Jerzy Skolimowski season. Show valid BFI ticket and enjoy 20% off your bill at Mamuśka!
+<br><br><br><br><br><br><br><br>
+
+_EO_ will be available on BFI DVD and Blu-ray from 3 April (available to pre-order at the BFI shop)<br>
+_Identification Marks: None_ and _Hands Up!_ will be available on a 2-disc BFI Blu-ray from 24 April<br>
+
+_Walkover_ and _Barrier_ will be released on Blu-ray by Second Run later this year
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTIxNjE4MDY4OF19
 -->
