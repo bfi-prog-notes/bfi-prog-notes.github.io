@@ -38,66 +38,49 @@ _Line Producers_: Bjarne Bjørndalen,  Marek Rozenbaum
 _Senior Production Executive_: Gaute Lid Larssen _Production Executive_: Jan-Erik Gammleng  
 _Production Managers_: Andrzej Stempowski,  Bjørn Fjærestad  
 _Production Supervisor_: Itai Tamir  
-_Production Co-ordinators_:  Natalia Stempowska-Szpadzik, Terje Strømstad, Shirley Hermann
+_Production Co-ordinators_:  Natalia Stempowska-Szpadzik, Terje Strømstad, Shirley Hermann  
 _Production Accountant_: Robert Bachurzewski _Location Managers_: Dariusz Klodowski, Eran Kotzki _Post-production Supervisors_: Dávid Jancsó, Neseser, Jakub Chilczuk, Malgorzata Sandecka  
-_2nd Unit Directors_: Józef Skolimowski,  
-Michal Skolimowski
-
+_2nd Unit Directors_: Józef Skolimowski,  Michal Skolimowski  
 _1st Assistant Director_: Jérôme Dassier  
-_1st Assistant Director/Office_: Julia Popkiewicz
-
-_2nd Assistant Directors_: Krzysztof Kasior, Teresa Czepiec, Tessa Eggesbø, Jonathan Rozenbaum
-
-_3rd Assistant Directors_: Jon Are Uhnger,  
-Max Konoplov  
+_1st Assistant Director/Office_: Julia Popkiewicz  
+_2nd Assistant Directors_: Krzysztof Kasior, Teresa Czepiec, Tessa Eggesbø, Jonathan Rozenbaum  
+_3rd Assistant Directors_: Jon Are Uhnger,  Max Konoplov  
 _Script Supervisor_: Beata Krekiewicz  
 _Casting Director_: Pawel Czajor  
-_Screenplay by_: Jerzy Skolimowski,  
-Ewa Piaskowska  
+_Screenplay by_: Jerzy Skolimowski,  Ewa Piaskowska  
 _Additional Writing_: James McManus  
 _Director of Photography_: Adam Sikora  
 _Additional Camera Operators_: Tomasz Wozniczka, Pawel Zelasko, Przemyslaw Klej  
-_Underwater Photography_: Marcin Boguszewski
-
-_2nd Unit Camera Operators_: Jens Ramborg,  
-Patrick Safstrôm  
+_Underwater Photography_: Marcin Boguszewski  
+_2nd Unit Camera Operators_: Jens Ramborg,  Patrick Safstrôm  
 _A Camera Operator_: Rafal Paradowski  
 _B Camera Operator_: Ciarán Kavanagh  
 _Gaffers_: Pawel Cichocki, Jarl Johnsen, Udi Rimer  
 _Key Grips_: Jerzy Nogal, Guy Neeman  
-_Stills Photographers_: Ivo Ledwozyw,  
-Carsten Aniksdal, Guro Rugstad Jenssen,  
-Lars-Petter Iversen  
+_Stills Photographers_: Ivo Ledwozyw,  Carsten Aniksdal, Guro Rugstad Jenssen, Lars-Petter Iversen  
 _Visual Effects by_: Platige Image, Alvernia Studios  
-_Visual Effects Producers_: Jaroslaw Sawko,  
-Piotr Sikora  
-_Special Effects Co-ordinator_: Janusz Bykowski _Chief Editor_: Réka Lemhényi  
+_Visual Effects Producers_: Jaroslaw Sawko,  Piotr Sikora  
+_Special Effects Co-ordinator_: Janusz Bykowski  
+_Chief Editor_: Réka Lemhényi  
 _Editors_: Maciej Pawlinski, Maciej Pawlinski  
 _Additional Editors_: Dávid Jancsó, Wanda Kiss  
 _Production Designer_: Joanna Kaczynska  
 _Art Director_: Jacek Czechowski  
-_Set Decorators_: Julia Kasprzak, Ariel Glazer
-
-_Props Masters_: Bogdan Piotrowski,  
-Per Henry Borch, Arie Weiss
-
+_Set Decorators_: Julia Kasprzak, Ariel Glazer  
+_Props Masters_: Bogdan Piotrowski,  Per Henry Borch, Arie Weiss  
 _Construction Manager_: Marcin Trybulski  
 _Costume Designer_: Anne Hamre  
 _Make-up Designer_: Barbara Conway  
-_Special Effects Make-up Artists_:  
-Tomasz Matraszek, Janne Røhmen  
+_Special Effects Make-up Artists_:  Tomasz Matraszek, Janne Røhmen  
 _Hair Designer_: Gabriella Németh  
 _Hair Stylist_: Robert Kupisz  
 _Music_: Pawel Mykietyn  
 _Music Adviser_: Janice Ginsberg  
-_Sound_: Robert Flanagan
-
+_Sound_: Robert Flanagan  
 _Boom Operator_: Paul Naughton  
 _Recording Mixer_: Michelle Cunniffe  
 _Supervising Sound Editor_: Fiadhnait McCann  
-_Stunt Co-ordinators_: Robert Brzezinski,  
-Kristoffer Jørgensen
-
+_Stunt Co-ordinators_: Robert Brzezinski,  Kristoffer Jørgensen  
 _Consultants_: Piotr Kolodziejczyk, Szymon Skalski, Konrad Orlowski  
 _Dialogue Coach_: Malgorzata Skuza  
 _Filmed at_: TVP Studio
@@ -129,5 +112,5 @@ Poland-Norway-Hungary-Ireland 2010©
 
 84 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODM5NjA1OF19
+eyJoaXN0b3J5IjpbLTMyMzE4ODIwOF19
 -->
