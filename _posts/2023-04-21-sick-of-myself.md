@@ -1,0 +1,29 @@
+<![endif]-->
+
+A very funny unromantic comedy about a delightfully unhinged couple in a toxic relationship. Twentysomething Signe is coasting, spending her days working in a café and scrolling through social media. However, she starts to feel left behind when her boyfriend Thomas’s art career takes off. Craving her own limelight, Signe goes to extreme lengths to prove why she should be the centre of attention.
+
+Kristoffer Borgli’s feature debut is a riotous dark comedy that takes gleeful aim at the art world, influencer culture and modern narcissism. As skilled at physical comedy as she is with perfectly timed one-liners, Kristine Kujath excels as the self-destructive Signe, who knows no limit as she descends into the horrifying and cringe-inducing depths of attention seeking.
+
+Kimberley Sheehan, Events Programmer, bfi.org.uk
+
+The temptation to tell an unnecessary lie to impress is one many people can relate to – it’s the kind of urge that raises its head when someone asks if you’ve read an as yet untouched novel on your bookshelf. ‘Yes,’ that inner voice says, before quickly calculating the follow-up questions and (usually) settling on the truth. But Signe, the self-destructive young narcissist at the centre of Kristoffer Borgli’s _Sick of Myself_, sees no need to quiet this impulse. Instead, she weaponises it, telling a lie so outrageous she must blow up her life to maintain it.
+
+Signe (Kristine Kujath Thorp) works at an unfulfilling job in a café and spends the rest of her time exchanging barbs with her insidious boyfriend, Thomas (real-life Oslo artist Eirik Sæther, perfectly embodying the contrived loucheness of the city’s art scene). Thomas is an avant-garde sculptor with a line in appropriating (i.e. stealing) expensive furniture for his work, and though Signe is an accomplice in the thefts, she receives no credit or even thanks for her input.
+
+But this is no ordinary story of a woman’s mid-twenties malaise. When someone is savagely bitten by a dog outside the café, Signe is forced to intervene, then walks home covered in blood, in broad daylight, as though she were Jackie Kennedy asking the people of Oslo to bear witness (‘I think I saved her,’ she brags). It’s a hint of the body horror to come.
+
+Signe longs for more of the attention she reaped on that bloody day, but she won’t get it from Thomas. Their relationship is a game of bitter one-upmanship – and as we watch Signe stand awkwardly at his gallery opening with little but a plastic champagne flute for company, it’s clear she’s at the losing end. She decides to take action: after seeing a news story about a Russian drug called Lidexol that causes an extreme – but colourful and mesmerising – skin condition, she heads straight to her dealer to make a dark-web purchase.
+
+Excessive self-medicating eventually lands her in hospital with a ‘mysterious illness’, and as she smokes through _Eyes Without a Face_-esque bandages, the film begins to find its uncomfortably funny feet. With its quick cuts and deft, deadpan portrayal of extreme egomania, Borgli establishes a tone akin to the post-internet savvy of the Netflix sketch comedy _I Think You Should Leave_ (2019-). This is a film in which a sex scene between Thomas and Signe is intercut with their fantasy of her funeral (things heat up as they imagine her deadbeat father and disloyal friends being turned away at the church door).
+
+In many ways, _Sick of Myself_ feels like the evil sister of Joachim Trier’s  
+_The Worst Person in the World_ (2021), and not just because they share a production company (Oslo Pictures), a setting and even an actor, Anders Danielsen Lie, who briefly appears here. _Sick of Myself_ also shares that film’s beauty – Borgli shot on 35mm and makes full use of the crisp summer sunlight. Even the packaging of Lidexol comes in an appealing pastel purple that makes it look more like a trendy skincare product than an illicit drug.
+
+You get the impression Borgli has spent a great deal of time scavenging the internet for ideas. He is preoccupied with the fetishisation of victimhood, and the Western culture that rewards it. This film covers similar ground to his 2020 short _Former Cult Member Hears Music for the First Time_, a satire of the video ‘journalism’ that exploits marginalised people by showcasing them in schmaltzy viral productions. That critique takes a perfectly pitched new form here with Signe’s first modelling gig – a gender-neutral clothing brand that wants to capitalise on her unique look, as long as she doesn’t look too sick.
+
+Where the film struggles is in developing its many themes – social media posturing, the pharmaceutical industry, exploitative media and the phoniness of the art world. With his own self-confessed ‘extralarge appetite’ for uncomfortable humour, Borgli does render these targets with a giddy cynicism, but it’s Thorp’s unpredictable performance that carries the film’s sardonic voice. There’s a moment where Signe’s face takes on an unhinged rictus as she awaits Thomas’s take on the ‘intimate’ tearjerker interview she cajoled her journalist friend into writing about her skin condition; then she breaks down as he finally admits that he is proud of her. It’s a painfully familiar thing – that need for validation from someone you love. In Signe we recognise tiny fragments of our worst selves, and it’s a bitter pill to swallow.  
+**Katie McCabe, _Sight and Sound_, May 2023**
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE4NTk2ODg3Ml19
+-->
