@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Polite Society
+published: true
+date: 2023-04-21
+readtime: true
+categories: ['PREMIERE']
+tags: [Comedy]
+metadata: 'UK 2023, 103 mins<br> Director: Nida Manzoor'
+pdf: '2023-04-21-sick-of-myself.pdf'
+---
 
 _+ intro with writer-director Nida Manzoor_
 
@@ -157,5 +167,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDYxNTYyMl19
+eyJoaXN0b3J5IjpbLTIxMDUxOTU2MzZdfQ==
 -->
