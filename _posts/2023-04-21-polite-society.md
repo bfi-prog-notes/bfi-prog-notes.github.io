@@ -41,19 +41,15 @@ Director of photography Ashley Connor had not previously collaborated with Manzo
 Of walking onto a set every day filled with women at the top of their game, Ritu Arya, who plays Lena, says it was a special experience that won’t be forgotten. ‘Nida is a fantastic director who is doing amazing things,’ she observes. ‘It’s the third time I've worked with her and every time it’s just gotten better and better. Our DP, Ashley, is such a badass and she was always trying out different things as well. Then even the grips and the sound department were full of women which felt so cool. On top of all of that, it has been so empowering to have this ensemble consist of such a diverse – primarily South Asian – cast. I'm so happy that this film exists. It’s what I’ve been waiting to see for a very long time.’  
 **Production notes**  
 <br>
-<![endif]-->
 
-**POLITE SOCIETY**
-
+**POLITE SOCIETY**  
 _Directed by_: Nida Manzoor  
 _©_: LLC Focus Features  
 _Production Company_: Working Title Films  
 _In association with_: Parkville Pictures  
 _Presented by_: Focus Features  
 _Executive Producer_: Cecilia Frugiuele  
-_Produced by_: Tim Bevan, Eric Fellner,
-
-Olivier Kaempfer, John Pocock  
+_Produced by_: Tim Bevan, Eric Fellner, Olivier Kaempfer, John Pocock  
 _Co-producer_: Rachel Alabaster  
 _Production Manager_: Daniel Watkins  
 _Financial Controller_: Gemma Kent  
