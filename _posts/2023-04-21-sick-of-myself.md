@@ -23,7 +23,75 @@ You get the impression Borgli has spent a great deal of time scavenging the inte
 
 Where the film struggles is in developing its many themes – social media posturing, the pharmaceutical industry, exploitative media and the phoniness of the art world. With his own self-confessed ‘extralarge appetite’ for uncomfortable humour, Borgli does render these targets with a giddy cynicism, but it’s Thorp’s unpredictable performance that carries the film’s sardonic voice. There’s a moment where Signe’s face takes on an unhinged rictus as she awaits Thomas’s take on the ‘intimate’ tearjerker interview she cajoled her journalist friend into writing about her skin condition; then she breaks down as he finally admits that he is proud of her. It’s a painfully familiar thing – that need for validation from someone you love. In Signe we recognise tiny fragments of our worst selves, and it’s a bitter pill to swallow.  
 **Katie McCabe, _Sight and Sound_, May 2023**
+<br>
+<![endif]-->
 
+**SICK OF MYSELF (SYK PIKE)**
+
+_Director_: Kristoffer Borgli  
+_©_: Oslo Pictures, Garagefilm, Film i Väst  
+_Production Company_: Oslo Pictures,  
+_in co-production with_ : Garagefilm International, Film i Väst  
+_Presented by_: Oslo Pictures  
+_Executive Producers_: Tom Erik Kjeseth,
+
+Michael Fleischer  
+_Produced by_: Dyveke Bjørkly Graver,
+
+Andrea Berentsen Ottmar  
+_Screenplay_: Kristoffer Borgli  
+_Director of Photography_: Benjamin Loeb  
+_Stills Photography_: Julia Naglestad, Per Larsson  
+_Editor_: Kristoffer Borgli  
+_Production Designer_: Henrik Svensson  
+_Costume Designer_: Jostein Wålengen  
+_Music by_: Turns  
+_Sound Designers_: Gustaf Berger, Jesper Miller  
+_Stunt Co-ordinators_: Stian Kirsebom,
+Kai Kolstad Rødseth
+
+**Cast**  
+Kristine Kujath Thorp _(Signe)_  
+Eirik Sæther _(Thomas)_  
+Fanny Vaager _(Marte)_  
+Frederik Stenberg Ditlev-Simonsen _(Yngve)_  
+Sarah Francesca Brænne _(Emma)_  
+Ingrid Vollan _(Beate)_  
+Steinar Klouman Hallert _(Stian)_  
+Andrea Bræin Hovig _(Lisa)_  
+
+Norway 2022  
+97 mins  
+
+A Modern Films Release  
+
+**NEW RELEASES**  
+**Rye Lane**  
+From Mon 27 Mar  
+**1976**  
+From Mon 27 Mar  
+**God’s Creatures**  
+From Fri 31 Mar (Q&A with actors Emily Watson and Toni O’Rourke on Fri 31 Mar 18:10)  
+**One Fine Morning**  
+From Fri 14 Apr  
+**Sick of Myself**  
+From Fri 21 Apr  
+**Return to Seoul (Retour à Séoul)**  
+From Fri 5 May  
+**Brainwashed: Sex-Camera-Power**  
+From Fri 12 May  
+**Plan 75**  
+From Fri 19 May  
+
+**RE-RELEASES**  
+**Raging Bull**  
+From 14 Apr  
+**Young Soul Rebels**  
+From Fri 28 Apr  
+**The Passion of Remembrance**  
+From Fri 28 Apr  
+**The Three Colours Trilogy**  
+From Fri 26 May  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTk2ODg3Ml19
+eyJoaXN0b3J5IjpbNDMwOTQyNzcwXX0=
 -->
