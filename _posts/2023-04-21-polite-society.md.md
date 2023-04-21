@@ -113,38 +113,49 @@ UK 2023
 Courtesy of Universal Pictures  
 <br>
 
-<![endif]-->
+**IN PERSON & PREVIEWS**  
+**The Duellists + Q&A with composer Howard Blake**  
+Mon 24 Apr 18:10  
+**Theorem (Teorema) + intro and talk with Bruce LaBruce, and Doesn’t Exist magazine launch**  
+Thu 27 Apr 18:00  
+**Enys Men with Live Score by The Cornish Sound Unit**  
+Mon 1 May 18:40  
+**Preview: Brainwashed: Sex-Camera-Power + Nina Menkes in Conversation**  
+Wed 10 May 18:00  
+**Dario Argento in Conversation**  
+Fri 12 May 18:20  
+**Mark Kermode Live in 3D at the BFI**  
+Mon 15 May 18:30  
+**TV Preview: Best Interests + Q&A with Sharon Horgan and Jack Thorne**  
+Mon 22 May 18:15  
+**Preview: The Old Man Movie: Lactopalypse! + Q&A with directors Mikk Magi and Oskar Lehemaa**  
+Fri 26 May 18:15  
+**World Premiere: Straight 8 2023 Top 25**  
+Sat 27 May 18:00  
+<br>
 
-**IN PERSON & PREVIEWS**
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
 
-**The Duellists + Q&A with composer Howard Blake**
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
-Mon 24 Apr 18:10
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
-**Theorem (Teorema) + intro and talk with Bruce LaBruce, and Doesn’t Exist magazine launch**
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
-Thu 27 Apr 18:00
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
 
-**Enys Men with Live Score by The Cornish Sound Unit**
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 
-Mon 1 May 18:40
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Preview: Brainwashed: Sex-Camera-Power + Nina Menkes in Conversation**
-
-Wed 10 May 18:00
-
-**Dario Argento in Conversation**
-
-Fri 12 May 18:20
-
-**Mark Kermode Live in 3D at the BFI**
-Mon 15 May 18:30
-**TV Preview: Best Interests + Q&A with Sharon Horgan and Jack Thorne**
-Mon 22 May 18:15
-**Preview: The Old Man Movie: Lactopalypse! + Q&A with directors Mikk Magi and Oskar Lehemaa**
-Fri 26 May 18:15
-**World Premiere: Straight 8 2023 Top 25**
-Sat 27 May 18:00
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODk0ODQwOF19
+eyJoaXN0b3J5IjpbLTk4NDYxNTYyMl19
 -->
