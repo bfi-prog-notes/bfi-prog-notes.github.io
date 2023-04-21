@@ -3,10 +3,9 @@
 _+ intro with writer-director Nida Manzoor_
 
 16-year-old Ria is an aspiring stuntwoman, dreaming of her future excelling in the film business while her older sister Lena becomes a world famous artist. But Lena has been withdrawing from her art, and instead becomes swept up by a charming suitor, heading into a marriage at speed. Ria doesn’t trust her future in-laws – can she use her martial arts training to stop Lena’s wedding and rescue her in the name of sisterhood? Nida Manzoor’s (_We Are Lady Parts_) creative and original feature directorial debut is a fun, fast-paced Austen-esque comedy packed with smashing action and shenanigans.  
-**bfi.org.uk**
+**bfi.org.uk**  
 
-**The Origins of ‘Polite Society’**
-
+**The Origins of ‘Polite Society’**  
 The spark of the idea that ultimately became _Polite Society_ – an immensely fun and original action comedy about two sisters navigating cultural and parental expectations – was first ignited by writer-director Nida Manzoor over ten years ago. She wrote the first draft of the script in her early 20s, but it took the years that followed for her to find the perfect partners to bring the film to vibrant, action-packed life on screen. ‘It's been a long road but I have now been able to make the feature film of my dreams,’ shares Manzoor.
 
 One of those collaborators was producer Olivier Kaempfer, who came on board with his company Parkville Pictures to help develop the project early on. Kaempfer immediately fell in love with the project and brought BFI on board as early development financiers. ‘I first came across Nida in 2016 when I saw her short, _Arcade_, which is still one of my favourite shorts to this day,’ Kaempfer recalls. ‘It immediately felt so different and fresh compared to so many other shorts that I was seeing. She was a filmmaker I wanted to meet and ideally develop a feature with and that feature became _Polite Society_.
@@ -30,7 +29,122 @@ Also reuniting for the film were _Lady Parts_’ production designer Simon Walke
 Director of photography Ashley Connor had not previously collaborated with Manzoor, although she had worked with Kaempfer on another film and the producer instinctively felt that Connor and Manzoor could create something visually spectacular together. ‘I’m very invested in telling stories for young women, and seeing this kind of heroine is really exciting to me,’ says Connor of her attraction to the project. ‘The film is intelligent and doesn’t speak down to its audience. There’s a desire to change the ways and means by which we produce content, make films and TV shows, and somebody like Nida and her process are at the forefront of that change. She’s creating sets that have different energies on them, different motivations, and different means of collaborating and working.’
 
 Of walking onto a set every day filled with women at the top of their game, Ritu Arya, who plays Lena, says it was a special experience that won’t be forgotten. ‘Nida is a fantastic director who is doing amazing things,’ she observes. ‘It’s the third time I've worked with her and every time it’s just gotten better and better. Our DP, Ashley, is such a badass and she was always trying out different things as well. Then even the grips and the sound department were full of women which felt so cool. On top of all of that, it has been so empowering to have this ensemble consist of such a diverse – primarily South Asian – cast. I'm so happy that this film exists. It’s what I’ve been waiting to see for a very long time.’  
-**Production notes**
+**Production notes**  
+<br>
+<![endif]-->
+
+**POLITE SOCIETY**
+
+_Directed by_: Nida Manzoor  
+_©_: LLC Focus Features  
+_Production Company_: Working Title Films  
+_In association with_: Parkville Pictures  
+_Presented by_: Focus Features  
+_Executive Producer_: Cecilia Frugiuele  
+_Produced by_: Tim Bevan, Eric Fellner,
+
+Olivier Kaempfer, John Pocock  
+_Co-producer_: Rachel Alabaster  
+_Production Manager_: Daniel Watkins  
+_Financial Controller_: Gemma Kent  
+_Location Manager_: Keith Hatcher  
+_Post-production Supervisor_: Hannah Dunnell  
+_1st Assistant Director_: Clare Awdry  
+_2nd Assistant Director_: Darren Baba  
+_Script Supervisor_: Francesca Brooks  
+_Casting Director_: Aisha Bywaters  
+_Written by_: Nida Manzoor  
+_Director of Photography_: Ashley Connor  
+_Steadicam Operator_: Will Lyte  
+_Visual Effects 1_: Automatik VFX  
+_Editor_: Robbie Morrison  
+_Production Designer_: Simon Walker  
+_Art Directors_: Sophie Lockwood, James Cross  
+_Set Decorator_: Amanda Sorrin  
+_Graphic Designer_: Kate Trevessey  
+_Property Master_: Tom Roberts  
+_Costume Designer_: PC Williams  
+_Hair and Make-up Designer_: Claire Carter  
+_Title Design_: Peter Anderson Studio  
+_Score by_: Tom Howe, Shez Manzoor  
+_Orchestra Leader_: Everton Nelson  
+_Conductor_: Tom Howe  
+_Orchestrators_: David Butterworth, Evan Rogers  
+_Score Recordist_: Marc McCouig  
+_Score Mixer_: Jake Jackson  
+_Choreography_: Choreographer  
+_Production Sound Mixer_: Alastair Widgery  
+_Re-recording Mixers_: Simon Hill, Tushar Manek  
+_Supervising Sound Editor_: Jay Price  
+_Stunt Co-ordinator_: Crispin Layfield  
+_Fight Co-ordinator_: Rob Lock  
+_Martial Arts Assistant_: Adam Rhys Williams  
+
+**Cast**  
+Priya Kansara _(Ria Khan)_  
+Ritu Arya _(Lena)_  
+Nimra Bucha _(Raheela)_  
+Akshay Khanna _(Salim)_  
+Seraphina Beh _(Clara)_  
+Ella Bruccoleri _(Alba)_  
+Shona Babayemi _(Kovacs)_  
+Shobu Kapoor _(Fatima)_  
+Jeff Mirza _(Rafe)_  
+Renu Brindle _(Mrs Nawaz)_  
+Rekha John-Cheriyan _(Mrs Abbas)_  
+Sally Ann _(Edith)_  
+Jenny Funnell _(Ms Spence)_  
+Sophie Aisling _(Mrs Iqbal)_  
+Su McLaughlin _(Mrs Ahmed)_  
+Tia Dutt _(Jezah)_  
+Ryan Loccohee _(Sensei 1)_  
+Ulli Ackerman _(security guard)_  
+James McNicholas _(head waiter)_  
+Tom Bonington _(registrar)_  
+Eunice Huthart _(herself)_  
+Sania Shireen Haq, Hemali Patel, Anjlee Bathia,  
+Aliya Meghjee _(dancers)_  
+Rob Lock _(Sensei 2)_  
+Adam Rhys Williams _(Magnus)_  
+
+UK 2023  
+103 mins  
+
+Courtesy of Universal Pictures  
+<br>
+
+<![endif]-->
+
+**IN PERSON & PREVIEWS**
+
+**The Duellists + Q&A with composer Howard Blake**
+
+Mon 24 Apr 18:10
+
+**Theorem (Teorema) + intro and talk with Bruce LaBruce, and Doesn’t Exist magazine launch**
+
+Thu 27 Apr 18:00
+
+**Enys Men with Live Score by The Cornish Sound Unit**
+
+Mon 1 May 18:40
+
+**Preview: Brainwashed: Sex-Camera-Power + Nina Menkes in Conversation**
+
+Wed 10 May 18:00
+
+**Dario Argento in Conversation**
+
+Fri 12 May 18:20
+
+**Mark Kermode Live in 3D at the BFI**
+Mon 15 May 18:30
+**TV Preview: Best Interests + Q&A with Sharon Horgan and Jack Thorne**
+Mon 22 May 18:15
+**Preview: The Old Man Movie: Lactopalypse! + Q&A with directors Mikk Magi and Oskar Lehemaa**
+Fri 26 May 18:15
+**World Premiere: Straight 8 2023 Top 25**
+Sat 27 May 18:00
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODQ3Mzg1OV19
+eyJoaXN0b3J5IjpbMTUyODk0ODQwOF19
 -->
