@@ -1,4 +1,14 @@
-<![endif]-->
+---
+layout: post
+title: Sick of Myself
+published: true
+date: 2023-04-21
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Comedy]
+metadata: 'USA/UK 2000, 84 mins<br> Directors: Peter Lord, Nick Park'
+pdf: '2023-09-25-chicken-run.pdf'
+---
 
 A very funny unromantic comedy about a delightfully unhinged couple in a toxic relationship. Twentysomething Signe is coasting, spending her days working in a café and scrolling through social media. However, she starts to feel left behind when her boyfriend Thomas’s art career takes off. Craving her own limelight, Signe goes to extreme lengths to prove why she should be the centre of attention.
 
@@ -26,18 +36,15 @@ Where the film struggles is in developing its many themes – social media postu
 <br>
 <![endif]-->
 
-**SICK OF MYSELF (SYK PIKE)**
-
+**SICK OF MYSELF (SYK PIKE)**  
 _Director_: Kristoffer Borgli  
 _©_: Oslo Pictures, Garagefilm, Film i Väst  
 _Production Company_: Oslo Pictures,  
 _in co-production with_ : Garagefilm International, Film i Väst  
 _Presented by_: Oslo Pictures  
 _Executive Producers_: Tom Erik Kjeseth,
-
 Michael Fleischer  
 _Produced by_: Dyveke Bjørkly Graver,
-
 Andrea Berentsen Ottmar  
 _Screenplay_: Kristoffer Borgli  
 _Director of Photography_: Benjamin Loeb  
@@ -48,7 +55,7 @@ _Costume Designer_: Jostein Wålengen
 _Music by_: Turns  
 _Sound Designers_: Gustaf Berger, Jesper Miller  
 _Stunt Co-ordinators_: Stian Kirsebom,
-Kai Kolstad Rødseth
+Kai Kolstad Rødseth  
 
 **Cast**  
 Kristine Kujath Thorp _(Signe)_  
@@ -93,5 +100,5 @@ From Fri 28 Apr
 **The Three Colours Trilogy**  
 From Fri 26 May  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMwOTQyNzcwXX0=
+eyJoaXN0b3J5IjpbMTA2NTQyNDU5XX0=
 -->
