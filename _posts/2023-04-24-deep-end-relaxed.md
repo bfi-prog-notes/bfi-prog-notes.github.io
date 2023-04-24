@@ -41,6 +41,11 @@ Germany/UK 1970
 91 mins  
 <br>
 
+**In cultural partnership with**
+<img style="float: left;" src="/img/kinoteka.jpg"><br><br><br><br>
+9 Mar-27 Apr kinoteka.org.uk
+<br><br><br><br><br><br><br><br>
+
 **We welcome your feedback on this screening. Relaxedscreeningsfeedback@bfi.org.uk**
 
 
@@ -50,17 +55,13 @@ Germany/UK 1970
 <img style="float: left;" src="/img/steel-charitable-trust-logo-01.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br>
 
 
-**The next relaxed screenings are:**
+**The next relaxed screenings are:**  
+**A GLITCH IN THE MATRIX**  
+**+ intro and discussion**  
+**Monday 22 May 2023 18:25 NFT3**  
 
-**A GLITCH IN THE MATRIX**
-
-**+ intro and discussion**
-
-**Monday 22 May 2023 18:25 NFT3**
-
-**CHILDREN’S TELEVISION CLASSICS**
-
-**Sunday 11 June 2023 11:15 Blue Room****<br>
+**CHILDREN’S TELEVISION CLASSICS**  
+**Sunday 11 June 2023 11:15 Blue Room**  
 <br>
 
 **Find out more at**
@@ -101,5 +102,5 @@ those in the neurodiverse community, their assistants and carers.
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1NDYyNzMyXX0=
+eyJoaXN0b3J5IjpbLTE2MzQyMDY5MjVdfQ==
 -->
