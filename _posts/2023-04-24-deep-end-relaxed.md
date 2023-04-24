@@ -15,30 +15,43 @@ pdf: '2023-04-24-deep-end.pdf'
 
 _+ intro and discussion_
 
-The perfect film for the run up to London Games Week, this affectionate documentary offers a sublime portrait of a group of outsiders who support Kim Cannon Arm, a man of very few words, in his attempt to break the world record score of the 1980s arcade game Gyruss. It’s a generous and nuanced insight into the power of true friendship.
+Set in London – but mostly filmed in West Germany – at the end of the 1960s, _Deep End_ explores the space between fantasy and reality, as teenage swimming pool attendant Mike (Moulder-Brown) finds himself drawn to his more worldly-wise colleague Susan (Asher). Jerzy Skolimowski’s coming of age story has a strong sense of time and place and a shock ending.
 
-The post screening discussion will be hosted by Benjamin Brown.
+The post screening discussion will be hosted by film and culture writer and Autism Through Cinema Podcast  
+co-host Lillian Crawford.
 
-Screening in partnership with Citizen Autistic  
-The London Autism Film Club  
 
-**CANNON ARM AND THE ARCADE QUEST**  
-**(KIM KANONARM OG REJSEN MOD VERDENSREKORDEN)**  
-_Director:_ Mads Hedegaard  
-_Production Company:_  Good Company Pictures  
-_Producer:_ Katrine A. Sahlstrøm  
-_Cinematographers:_ David Bauer, Mads Hedegaard  
-_Editor:_ Mark Bukdahl  
+<![endif]-->
 
-**With**  
-Kim Cannon Arm  
-Walter Day  
-Michael Dyst  
-Shigeru Miyamoto  
+**DEEP END**
 
-Denmark 2021  
-98 mins  
+_Director:_ Jerzy Skolimowski
 
+_Presented by:_
+
+Maran-Film, Kettledrum Productions
+
+_Produced by:_ Helmut Jedele
+
+_Written by:_ Jerzy Skolimowski, J. Gruza, B. Sulik
+
+_Director of Photography:_
+
+Charly Steinberger
+
+_Edited by:_ Barrie Vince
+
+_Music by:_ Cat Stevens, The Can
+
+**Cast**  
+Jane Asher _(Susan)_    
+John Moulder-Brown _(Mike)_  
+Karl-Michael Vogler _(teacher)_  
+Chris Sandford _(fiancée)_  
+Diana Dors _(lady client)_  
+
+Germany/UK 1970  
+91 mins  
 <br>
 
 **We welcome your feedback on this screening. Relaxedscreeningsfeedback@bfi.org.uk**
@@ -93,5 +106,5 @@ those in the neurodiverse community, their assistants and carers.
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5MzIxOTk0XX0=
+eyJoaXN0b3J5IjpbNzAzODc4Njc3XX0=
 -->
