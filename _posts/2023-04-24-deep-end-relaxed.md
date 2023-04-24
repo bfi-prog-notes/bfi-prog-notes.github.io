@@ -18,30 +18,17 @@ _+ intro and discussion_
 Set in London – but mostly filmed in West Germany – at the end of the 1960s, _Deep End_ explores the space between fantasy and reality, as teenage swimming pool attendant Mike (Moulder-Brown) finds himself drawn to his more worldly-wise colleague Susan (Asher). Jerzy Skolimowski’s coming of age story has a strong sense of time and place and a shock ending.
 
 The post screening discussion will be hosted by film and culture writer and Autism Through Cinema Podcast  
-co-host Lillian Crawford.
+co-host Lillian Crawford.  
+<br>
 
-
-<![endif]-->
-
-**DEEP END**
-
-_Director:_ Jerzy Skolimowski
-
-_Presented by:_
-
-Maran-Film, Kettledrum Productions
-
-_Produced by:_ Helmut Jedele
-
-_Written by:_ Jerzy Skolimowski, J. Gruza, B. Sulik
-
-_Director of Photography:_
-
-Charly Steinberger
-
-_Edited by:_ Barrie Vince
-
-_Music by:_ Cat Stevens, The Can
+**DEEP END**  
+_Director:_ Jerzy Skolimowski  
+_Presented by:_ Maran-Film, Kettledrum Productions  
+_Produced by:_ Helmut Jedele  
+_Written by:_ Jerzy Skolimowski, J. Gruza, B. Sulik  
+_Director of Photography:_ Charly Steinberger  
+_Edited by:_ Barrie Vince  
+_Music by:_ Cat Stevens, The Can  
 
 **Cast**  
 Jane Asher _(Susan)_    
@@ -63,9 +50,17 @@ Germany/UK 1970
 <img style="float: left;" src="/img/steel-charitable-trust-logo-01.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br>
 
 
-**The next relaxed screenings is:**
-**DEEP END + intro and discussion**
-**Monday 24 April 2023 18:00 NFT3**<br>
+**The next relaxed screenings are:**
+
+**A GLITCH IN THE MATRIX**
+
+**+ intro and discussion**
+
+**Monday 22 May 2023 18:25 NFT3**
+
+**CHILDREN’S TELEVISION CLASSICS**
+
+**Sunday 11 June 2023 11:15 Blue Room****<br>
 <br>
 
 **Find out more at**
@@ -106,5 +101,5 @@ those in the neurodiverse community, their assistants and carers.
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzODc4Njc3XX0=
+eyJoaXN0b3J5IjpbNTA1NDYyNzMyXX0=
 -->
