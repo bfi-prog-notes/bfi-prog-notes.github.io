@@ -7,11 +7,11 @@ date: 2023-04-24
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Drama]
-metadata: 'Germany/UK 1970, 91 mins<br> Director: Mads Hedegaard'
-pdf: '2023-03-27-cannon-arm.pdf'
+metadata: 'Germany/UK 1970, 91 mins<br> Director: <Jerzy Skolimowski'
+pdf: '2023-04-24-deep-end.pdf'
 ---
 
-<img style="float: left;" src="/img/cannon-arm.png"><br><br>
+<img style="float: left;" src="/img/deep-end.png"><br><br>
 
 _+ intro and discussion_
 
@@ -93,5 +93,5 @@ those in the neurodiverse community, their assistants and carers.
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODY0MDgwNl19
+eyJoaXN0b3J5IjpbMjY5MzIxOTk0XX0=
 -->
