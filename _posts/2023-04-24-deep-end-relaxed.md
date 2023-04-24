@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Deep End <br>(Relaxed Screening)
@@ -7,7 +6,7 @@ date: 2023-04-24
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Drama]
-metadata: 'Germany/UK 1970, 91 mins<br> Director: <Jerzy Skolimowski'
+metadata: 'Germany/UK 1970, 91 mins<br> Director: Jerzy Skolimowski'
 pdf: '2023-04-24-deep-end.pdf'
 ---
 
