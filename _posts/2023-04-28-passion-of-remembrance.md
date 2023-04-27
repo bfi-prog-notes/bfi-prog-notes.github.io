@@ -10,7 +10,7 @@ metadata: 'UK 1986, 82 mins<br> Directors: Maureen Blackwood, Isaac Julien'
 pdf: '2023-04-28-passion-of-remembrance.pdf'
 ---
 
-The men disaffected by the turbulence of the 1980s place themselves at the forefront of black liberation, embodying their authoritative traditional gender roles to dictate a vision for the future. Feminist Maggie Baptiste and her friend Gary (Chance), a gay black man, are youthful advocates who reject marginalisation. Punctuating dream sequences, featuring dual narrators, explore these conflicts. 
+The men disaffected by the turbulence of the 1980s place themselves at the forefront of black liberation, embodying their authoritative traditional gender roles to dictate a vision for the future. Feminist Maggie Baptiste and her friend Gary (Chance), a gay black man, are youthful advocates who reject marginalisation. Punctuating dream sequences, featuring dual narrators, explore these conflicts.  
 **Xavier Alexandre Pillai, BFI National Archive**
 
 Almost 40 years after it was first made, the Sankofa collective’s _The Passion of Remembrance_ remains salient. The film is a grand tapestry filled with allusions to the intersectional concerns, motives and desires of different subsections of the Black community. It comprises two concurrent narratives: the first is a story about disagreements in a Black British family; the second takes place in an abstract ideological plane created to openly express each character’s political will.
