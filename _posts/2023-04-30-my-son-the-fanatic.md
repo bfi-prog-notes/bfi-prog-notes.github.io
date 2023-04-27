@@ -21,97 +21,51 @@ But romance also neutralises these complexities and the film is less able to exp
 <br><br>
 
 **MY SON THE FANATIC**<br>
-
 _Director:_ Udayan Prasad<br>
-
 ©: Son of Zephyr Limited<br>
-
 _Production Companies:_ Zephyr Films, BBC Films, UGC Droits Audiovisuels, Arts Council of England<br>
-
 _Executive Producer:_ George Faber<br>
-
 _Producer:_ Chris Curling<br>
-
 _Line Producer:_ Anita Overland<br>
-
 _Production Accountant:_ Jim Hajicosta<br>
-
 _Accounts Assistant:_ Clive Osborne<br>
-
 _Production Co-ordinator:_ Ann Lynch<br>
-
 _Production Manager:_ Philip Robertson<br>
-
 _Location Manager:_ Mark Stephenson<br>
-
 _Location Liaison:_ Michael Harm<br>
-
 _Assistant Location Manager:_ Sam Taylor<br>
-
 _Location Assistant:_ Carn Burton<br>
-
 _Post-production Supervisor:_ Alistair Hopkins<br>
-
 _Producer’s Assistant:_ Pippa Best<br>
-
 _Production Assistant:_ Andy Stebbing<br>
-
 _Production Secretary:_ Jo Barker<br>
-
 _Production Runner:_ Suk Sahota<br>
-
 _Researcher:_ Yaseen Rahman<br>
-
 _1st Assistant Director:_ Nick Laws<br>
-
 _2nd Assistant Director:_ Mike Elliott<br>
-
 _3rd Assistant Director:_ John Withers<br>
-
 _Script Supervisor:_ Emma Thomas<br>
-
 _Casting:_ Simone Ireland, Vanessa Pereira<br>
-
 _Crowd Casting:_ Aisha Wazir<br>
-
 _Screenplay:_ Hanif Kureishi<br>
-
 _Based on a short story by:_ Hanif Kureishi<br>
-
 _Director of Photography:_ Alan Almond<br>
-
 _Focus Puller:_ John Bremer<br>
-
 _2nd Unit Focus Puller:_ Camillo Spath<br>
-
 _Grip:_ Richard Davies<br>
-
 _Camera Trainee:_ Damon Randall<br>
-
 _Low Loader Operator:_ Clive Noy<br>
-
 _Stills Photographer:_ Joth Shakerly<br>
-
 _Special Effects:_ Ian Rowley, Steve Breheney, Dougie Robson<br>
-
 _Editor:_ David Gamble<br>
-
 _1st Assistant Editor:_ Kate Buckland<br>
-
 _Production Designer:_ Grenville Horner<br>
-
 _Art Directors:_ Colin Blaymires, Sarah Kane<br>
-
 _Production Buyer:_ Dominic Smithers<br>
-
 _Props Master:_ Andy Ludford<br>
-
 _Standby Props:_ Ross Wilson, Ashley Stones<br>
-
 _Dressing Props:_ Brian Sayce<br>
-
 _Costume Designer:_ Mary-Jane Reyner<br>
-
 _Costume Supervisor:_ Sandra Milman<br>
 
 _Make-up Designer:_ Penny Smith<br>
@@ -137,82 +91,83 @@ _Re-recording Mixer:_ Adrian Rhodes<br>
 
 _Post-production:_ De Lane Lea<br>
 
-_Boom Operator:_ Dick Philip
+_Boom Operator:_ Dick Philip<br>
 
-_Sound Maintenance:_ Anne Dodsworth
+_Sound Maintenance:_ Anne Dodsworth<br>
 
-_Supervising Sound Editor:_ Nick Adams
+_Supervising Sound Editor:_ Nick Adams<br>
 
-_Assistant Sound Editor:_ Paul Wrightson
+_Assistant Sound Editor:_ Paul Wrightson<br>
 
-_Dialogue Editor:_ Tim Hands
+_Dialogue Editor:_ Tim Hands<br>
 
-_FX Editor:_ Sam Southwick
+_FX Editor:_ Sam Southwick<br>
 
-_ADR Editor:_ Gordon Brown
+_ADR Editor:_ Gordon Brown<br>
 
-_Foley Editor:_ Imogen Pollard
+_Foley Editor:_ Imogen Pollard<br>
 
-_Negative Cutter:_ Sylvia Wheeler
+_Negative Cutter:_ Sylvia Wheeler<br>
 
-_Grader:_ Colin Coull
+_Grader:_ Colin Coull<br>
 
-_Stunt Co-ordinator:_ Clive Curtis
+_Stunt Co-ordinator:_ Clive Curtis<br>
 
-_Dialogue Coach:_ Joan Washington
+_Dialogue Coach:_ Joan Washington<br>
 
 _Unit Publicists:_ Undine Marshfield,  
-Cowan Symes & Associates
+Cowan Symes & Associates<br>
 
-_Studio:_ Ealing Studios
+_Studio:_ Ealing Studios<br>
 
-_Cast:_
+_Cast:_<br>
 
-Om Puri _(Parvez)_
+Om Puri _(Parvez)_<br>
 
-Rachel Griffiths _(Bettina)_
+Rachel Griffiths _(Bettina)_<br>
 
-Stellan Skarsgård _(Schitz)_
+Stellan Skarsgård _(Schitz)_<br>
 
-Akbar Kurtha _(Farid)_
+Akbar Kurtha _(Farid)_<br>
 
-Gopi Desai _(Minoo)_
+Gopi Desai _(Minoo)_<br>
 
-Harish Patel _(Fizzy)_
+Harish Patel _(Fizzy)_<br>
 
-Bhasker Patel _(The Maulvi)_
+Bhasker Patel _(The Maulvi)_<br>
 
-Sarah Jane Potts _(Madelaine Fingerhut)_
+Sarah Jane Potts _(Madelaine Fingerhut)_<br>
 
-Judi Jones _(Mrs Fingerhut)_
+Judi Jones _(Mrs Fingerhut)_<br>
 
-Geoffrey Bateman _(Chief Inspector Fingerhut)_
+Geoffrey Bateman _(Chief Inspector Fingerhut)_<br>
 
-Bernard Wrigley _(drunk man)_
+Bernard Wrigley _(drunk man)_<br>
 
-Moya Brady _(druggy prostitute)_
+Moya Brady _(druggy prostitute)_<br>
 
-Badi Uzzaman _(man in mosque)_
+Badi Uzzaman _(man in mosque)_<br>
 
-Andy Devine _(comedian)_
+Andy Devine _(comedian)_<br>
 
-Shiv Grewal _(waiter)_
+Shiv Grewal _(waiter)_<br>
 
-Omar Salimi _(Rashid)_
+Omar Salimi _(Rashid)_<br>
 
-Dev Sagoo _(taxi controller)_
+Dev Sagoo _(taxi controller)_<br>
 
-Rowena King _(Margot)_
+Rowena King _(Margot)_<br>
 
-Olwen May, Alison Burrows _(prostitutes)_
+Olwen May, Alison Burrows _(prostitutes)_<br>
 
-Parvez Qadir, Shakher Bassi _(acolytes)_
+Parvez Qadir, Shakher Bassi _(acolytes)_<br>
 
-Balraj Singh Somal, Rez Kempton _(drivers)_
+Balraj Singh Somal, Rez Kempton _(drivers)_<br>
 
-UK/France 1997©
+UK/France 1997©<br>
 
-87 mins
+87 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5MjIzNV19
+eyJoaXN0b3J5IjpbMTg4NDIxNzQ3OV19
 -->
