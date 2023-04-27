@@ -91,173 +91,174 @@ _Gaffer:_ Daniel Hermo<br>
 
 _Key Grip:_ Aníbal Cattaneo<br>
 
-_Video Assist:_ Italo Díaz
+_Video Assist:_ Italo Díaz<br>
 
-_Stills Photographer:_ Ivana Salfity
+_Stills Photographer:_ Ivana Salfity<br>
 
-_Special Effects:_ FX Stunt Team
+_Special Effects:_ FX Stunt Team<br>
 
-_Graphic Design:_ Juan Gatti
+_Graphic Design:_ Juan Gatti<br>
 
-_Editor:_ Miguel Schverdfinger
+_Editor:_ Miguel Schverdfinger<br>
 
-_Art Director:_ María Eugenia Sueiro
+_Art Director:_ María Eugenia Sueiro<br>
 
-_Costumes:_ Julio Suárez
+_Costumes:_ Julio Suárez<br>
 
-_Make-up:_ Marisa Amenta
+_Make-up:_ Marisa Amenta<br>
 
-_Hairstylist:_ Alberto Mocchia
+_Hairstylist:_ Alberto Mocchia<br>
 
-_Colourist:_ Daniela Ríos
+_Colourist:_ Daniela Ríos<br>
 
-_Sound Director:_ Guido Berenblum
+_Sound Director:_ Guido Berenblum<br>
 
-_Sound Supervisor:_ Gina Barbier
+_Sound Supervisor:_ Gina Barbier<br>
 
-_Sound Mixer:_ Emmanuel Croset
+_Sound Mixer:_ Emmanuel Croset<br>
 
-_Boom Operator:_ Guido Valerga
+_Boom Operator:_ Guido Valerga<br>
 
-_Cast:_
+_Cast:_<br>
 
-María Onetto _(Verónica, ‘Vero’)_
+María Onetto _(Verónica, ‘Vero’)_<br>
 
-Claudia Cantero _(Josefina)_
+Claudia Cantero _(Josefina)_<br>
 
-Inés Efrón _(Candita)_
+Inés Efrón _(Candita)_<br>
 
-César Bordón _(Marcos)_
+César Bordón _(Marcos)_<br>
 
-Daniel Genoud _(Juan Manuel)_
+Daniel Genoud _(Juan Manuel)_<br>
 
-Guillermo Arengo _(Marcelo)_
+Guillermo Arengo _(Marcelo)_<br>
 
-María Vaner _(Lala)_
+María Vaner _(Lala)_<br>
 
-Alicia Muxo _(cousin Rosita)_
+Alicia Muxo _(cousin Rosita)_<br>
 
-Pía Uribelarrea _(cousin Tere)_
+Pía Uribelarrea _(cousin Tere)_<br>
 
-Andrea Verdún _(motorbike girl 1, ‘Cuca’)_
+Andrea Verdún _(motorbike girl 1, ‘Cuca’)_<br>
 
-Maira Juárez _(motorbike girl 2)_
+Maira Juárez _(motorbike girl 2)_<br>
 
-Liliana De Lafuente _(fat woman)_
+Liliana De Lafuente _(fat woman)_<br>
 
-Elizabeth López _(Zula)_
+Elizabeth López _(Zula)_<br>
 
-Andrés Siarez _(man at nursery)_
+Andrés Siarez _(man at nursery)_<br>
 
-Carlos Roberto Sánchez _(builder)_
+Carlos Roberto Sánchez _(builder)_<br>
 
-Maximiliano Garros _(car wash boy)_
+Maximiliano Garros _(car wash boy)_<br>
 
-Catalino Campos _(Changuila)_
+Catalino Campos _(Changuila)_<br>
 
-Camilo Sueldo _(boy with harelip)_
+Camilo Sueldo _(boy with harelip)_<br>
 
-Nilda Suárez _(poster nurse)_
+Nilda Suárez _(poster nurse)_<br>
 
-Ana Carolina Beltrán _(radiologist)_
+Ana Carolina Beltrán _(radiologist)_<br>
 
-Julia Camisay _(hospital cleaning woman)_
+Julia Camisay _(hospital cleaning woman)_<br>
 
-María Fernanda Aparicio _(secretary)_
+María Fernanda Aparicio _(secretary)_<br>
 
-María Soledad Tovi _(Verónica’s daughter)_
+María Soledad Tovi _(Verónica’s daughter)_<br>
 
-Raúl Chunco _(hotel manager)_
+Raúl Chunco _(hotel manager)_<br>
 
-María Cecilia Sutti _(girlfriend 1)_
+María Cecilia Sutti _(girlfriend 1)_<br>
 
-Silvia Colletti _(girlfriend 2)_
+Silvia Colletti _(girlfriend 2)_<br>
 
-Miriam Díaz _(girlfriend 3)_
+Miriam Díaz _(girlfriend 3)_<br>
 
-Melina Balbuena _(girlfriend 4)_
+Melina Balbuena _(girlfriend 4)_<br>
 
-Gonzalo Gomez _(teenager 1)_
+Gonzalo Gomez _(teenager 1)_<br>
 
-Sebastián Montagna _(teenager’s son)_
+Sebastián Montagna _(teenager’s son)_<br>
 
-María Del Carmen Valverdi _(masseuse)_
+María Del Carmen Valverdi _(masseuse)_<br>
 
-Hilda Guzmán _(woman saying rosary 1)_
+Hilda Guzmán _(woman saying rosary 1)_<br>
 
-María Isabel Marcone _(woman saying rosary 2)_
+María Isabel Marcone _(woman saying rosary 2)_<br>
 
-Blanca Giarda _(woman saying rosary 3)_
+Blanca Giarda _(woman saying rosary 3)_<br>
 
-Carlos Fernández _(seminarian saying rosary)_
+Carlos Fernández _(seminarian saying rosary)_<br>
 
-Enzo Gutiérrez _(Zula’s little boy)_
+Enzo Gutiérrez _(Zula’s little boy)_<br>
 
-Julia Tejerina _(director)_
+Julia Tejerina _(director)_<br>
 
-Sandra Aguirre _(guitar teacher)_
+Sandra Aguirre _(guitar teacher)_<br>
 
-Yamil Nogales _(Changuila’s friend 1)_
+Yamil Nogales _(Changuila’s friend 1)_<br>
 
-Cristian Laguna _(Changuila’s friend 2)_
+Cristian Laguna _(Changuila’s friend 2)_<br>
 
 Carmen Avendaño  
-_(Alicia, old woman with rolls)_
+_(Alicia, old woman with rolls)_<br>
 
-Mirta Aguirre _(Changuila’s mother)_
+Mirta Aguirre _(Changuila’s mother)_<br>
 
-Elena Guerrero _(bath nurse)_
+Elena Guerrero _(bath nurse)_<br>
 
-José Flores _(male nurse)_
+José Flores _(male nurse)_<br>
 
-Rosa Rojas _(injured woman at hospital)_
+Rosa Rojas _(injured woman at hospital)_<br>
 
-Melina Gayote _(bathroom girl)_
+Melina Gayote _(bathroom girl)_<br>
 
-Ramón Yapura _(gardener)_
+Ramón Yapura _(gardener)_<br>
 
-Alva Luna _(woman crying)_
+Alva Luna _(woman crying)_<br>
 
-Juan Manuel Castillo _(boy 1 at clinic)_
+Juan Manuel Castillo _(boy 1 at clinic)_<br>
 
-Facundo Castillo _(boy 2 at clinic)_
+Facundo Castillo _(boy 2 at clinic)_<br>
 
-Carina Arias _(assistant orthodontist)_
+Carina Arias _(assistant orthodontist)_<br>
 
 Paula Romina Apaza Maria
 
-_(young woman at vets)_
+_(young woman at vets)_<br>
 
 María Soledad Figueroa Recchiuto
 
-_(young woman in reception)_
+_(young woman in reception)_<br>
 
-Brian Gaspar _(footballer)_
+Brian Gaspar _(footballer)_<br>
 
-Gregorio González _(adult on road)_
+Gregorio González _(adult on road)_<br>
 
-Santiago Albano _(young man at garage)_
+Santiago Albano _(young man at garage)_<br>
 
-Olga Quispe _(woman at Changuila’s house)_
+Olga Quispe _(woman at Changuila’s house)_<br>
 
-Lucrecia Peralta _(nurse in corridor)_
+Lucrecia Peralta _(nurse in corridor)_<br>
 
-Federico Curiotto _(hotel bellboy)_
+Federico Curiotto _(hotel bellboy)_<br>
 
-Elba González _(hotel maid)_
+Elba González _(hotel maid)_<br>
 
-Enriqueta Leticia Burgos _(woman ironing)_
+Enriqueta Leticia Burgos _(woman ironing)_<br>
 
-Guillermo Pedernera _(taxi driver)_
+Guillermo Pedernera _(taxi driver)_<br>
 
-Alicia Nelly Benayas _(woman saying rosary)_
+Alicia Nelly Benayas _(woman saying rosary)_<br>
 
-Argentina-Spain-France-Italy 2008©
+Argentina-Spain-France-Italy 2008©<br>
 
-89 mins
+89 mins<br>
 
-Woman with a Movie Camera is generously supported by Jane Stanton
+Woman with a Movie Camera is generously supported by Jane Stanton<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1ODQxNzczLDE5NzUxNTUwNzQsMjU5MD
-AxMjU3XX0=
+eyJoaXN0b3J5IjpbLTk1NzQzMDE0OSwxOTc1MTU1MDc0LDI1OT
+AwMTI1N119
 -->
