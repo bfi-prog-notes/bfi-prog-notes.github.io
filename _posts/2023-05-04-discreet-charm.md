@@ -56,114 +56,62 @@ _Gold/Silver:_ Christofle<br>
 _Properties:_ François Sune<br>
 _Costumes:_ Jacqueline Guyot<br>
 _Assisted by:_ Olympe Watelle<br>
-
 _D. Seyrig’s Wardrobe by:_ Jean Patou<br>
-
 _Furs:_ Henri Stern<br>
-
 _Make-up:_ Odette Berroyer, Fernande Hugi<br>
-
 _Hairstyles:_ Lorca<br>
-
 _Titles:_ CTR<br>
-
 _Laboratory:_ GTC<br>
-
 _Music Edited by:_ Galaxie Musique<br>
-
 _Sound Recording:_ Guy Villette<br>
-
 _Assisted by:_ Daniel Brisseau<br>
-
 _Sound Mixing:_ Jacques Carrère<br>
-
 _Assisted by:_ Claude Villand<br>
-
 _Sound Re-recording:_ J. Porel<br>
-
 _Sound Effects:_ Luis Buñuel<br>
-
 _Studio/Auditorium:_ Paris Studios Billancourt<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Fernando Rey _(Rafael de Acosta, the ambassador)_<br>
-
 Paul Frankeur _(François Thévenot)_<br>
-
 Delphine Seyrig _(Simone Thévenot)_<br>
-
 Bulle Ogier _(Florence)_<br>
-
 Stéphane Audran _(Alice Sénéchal)_<br>
-
 Jean-Pierre Cassel _(Henri Sénéchal, businessman)_<br>
-
 Julien Bertheau _(Monsieur Dufour, bishop)_<br>
-
 Miléna Vukotic _(Inés, Sénéchal’s maid)_<br>
-
 Maria Gabriella Maione _(terrorist girl)_<br>
-
 Claude Piéplu _(colonel)_<br>
-
 Muni _(peasant woman)_<br>
-
 Pierre Maguelon _(chief of police)_<br>
-
 François Maistre _(Superintendent Deplus)_<br>
-
 Michel Piccoli _(home secretary)_<br>
-
 Ellen Bahl<br>
-
 Christian Baltauss<br>
-
 Olivier Bauchet<br>
-
 Robert Benoît<br>
-
 Anne-Marie Deschott<br>
-
 Michel Dhermay<br>
-
 Georges Douking _(the dying gardener)_<br>
-
 Jean Degrave<br>
-
 Sébastien Floche<br>
-
 François Guilloteau<br>
-
 Claude Jaeger<br>
-
 Jean-Claude Jarry<br>
-
 Pierre Lary<br>
-
 Robert Le Béal _(tailor)_<br>
-
 Alix Mahieux<br>
-
 Bernard Musson _(manservant)_<br>
-
-Maxence Mailfort  
-_(the sergeant who recounts his dream)_<br>
-
+Maxence Mailfort  _(the sergeant who recounts his dream)_<br>
 Robert Party<br>
-
 Jean Revel<br>
-
 Jacques Rispal<br>
-
 Amparo Soler-Leal<br>
-
 Diane Vernon<br>
 
 France-Italy-Spain 1972©<br>
-
 101 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwNjAzNzQ2XX0=
+eyJoaXN0b3J5IjpbLTEyMjQ5NTk4NjZdfQ==
 -->
