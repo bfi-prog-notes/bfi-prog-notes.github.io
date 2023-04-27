@@ -14,29 +14,27 @@ Martel constructs a society in denial. Only Lala, Vero’s elderly bedridden aun
 
 While Martel has written that the film emerged from her own nightmares, the subject of ‘the disappeared’ remains a powerful trope in the New Argentine Cinema. Israel Adrián Caetano’s _Buenos Aires 1977_ (2006) and Lucía Cedrón’s _Lamb of God_ (2008) are just two of the many recent films to address it. Martel differs, however, in rooting her story  in an ostensibly contemporary world – the northwestern Salta landscape of her earlier films – that alludes only obliquely to the junta and its horrors. The 1970s infiltrates this world largely through the soundtrack, with a version of Nana Mouskouri’s ‘Soleil, Soleil’ and Julio Iglesias’ ‘Mammy Blue’ serving to position Vero and her family firmly within the ideology of the dictatorship. The grainy wedding footage Vero watches at Lala’s house includes _Saturday Night Fever_ dance routines that recall those recreated by Pablo Larraín in _Tony Manero_ (2008). As with Alfredo Castro’s deluded disco-dancing obsessive in Larraín’s feature, Vero reinvents herself anew – by dyeing her peroxide-blonde hair a warm brown.
 
-_The Headless Woman_ may, on the surface, be the least accessible of Martel’s features, but it is ultimately the most enigmatic, accomplished and rewarding. Martel’s camera here appears as a further character, a mode of implicating the viewer within the unfolding trauma: a silent witness in the car with Vero; another member of the extended family at the social gatherings; a constant reminder of the absent ‘other’, the crime that no one will acknowledge. This elegant, disturbing film offers a commentary on contemporary Argentina as a ‘house full of ghosts’, and firmly undermines the conservative advice of one character: ‘If you don’t look at them, they just go away.’
+_The Headless Woman_ may, on the surface, be the least accessible of Martel’s features, but it is ultimately the most enigmatic, accomplished and rewarding. Martel’s camera here appears as a further character, a mode of implicating the viewer within the unfolding trauma: a silent witness in the car with Vero; another member of the extended family at the social gatherings; a constant reminder of the absent ‘other’, the crime that no one will acknowledge. This elegant, disturbing film offers a commentary on contemporary Argentina as a ‘house full of ghosts’, and firmly undermines the conservative advice of one character: ‘If you don’t look at them, they just go away.’  
+**Maria Delgado, _Sight & Sound_, March 2010**
+<br><br>
 
-Maria Delgado, _Sight & Sound_, March 2010
+**THE HEADLESS WOMAN (LA MUJER SIN CABEZA)**<br>
 
-<![endif]-->
-
-**THE HEADLESS WOMAN (LA MUJER SIN CABEZA)**
-
-_Directed by:_ Lucrecia Martel
+_Directed by:_ Lucrecia Martel<br>
 
 ©: Lucrecia Martel, Aquafilms, El Deseo,
 
 Slot Machine, Teodora Film,  
-R&C Produzioni (Rome), Arte France Cinéma
+R&C Produzioni (Rome), Arte France Cinéma<br>
 
 _Production Companies:_ Aquafilms, El Deseo,
 
 Slot Machine, Teodora Film, R&C Produzioni (Rome), Instituto Nacional de Cinematografia y Artes Audio, ICAA – Instituto de Cinematografía y Artes Audiovisuales,  
-Arte France Cinéma, Fonds Sud Cinéma
+Arte France Cinéma, Fonds Sud Cinéma<br>
 
-_With the participation of:_ Fonds Sud Cinéma, Ministère de la Culture et de la Communication
+_With the participation of:_ Fonds Sud Cinéma, Ministère de la Culture et de la Communication<br>
 
-_Executive Producer:_ Verónica Cura
+_Executive Producer:_ Verónica Cura<br>
 
 _Produced by:_ Pedro Almodóvar,
 
@@ -46,52 +44,52 @@ Verónica Cura, Enrique Piñeyro,
 
 Lucrecia Martel, Marianne Slot,
 
-Vieri Razzini, Cesare Petrillo, Tilde Corsi
+Vieri Razzini, Cesare Petrillo, Tilde Corsi<br>
 
-_Aquafilms Productions:_ Carolina Farinella, Roberto Servera
+_Aquafilms Productions:_ Carolina Farinella, Roberto Servera<br>
 
-_Production Supervisor:_ Juan Pablo Miller
+_Production Supervisor:_ Juan Pablo Miller<br>
 
-_Production Co-ordinator:_ Gastón Grazide
+_Production Co-ordinator:_ Gastón Grazide<br>
 
-_El Deseo Production Accountant:_ Beatriz Gordo
+_El Deseo Production Accountant:_ Beatriz Gordo<br>
 
-_Slot Machine Accountant:_ Zahra Daoudi
+_Slot Machine Accountant:_ Zahra Daoudi<br>
 
-_Administration Co-ordinator:_ Natalia Núñez
+_Administration Co-ordinator:_ Natalia Núñez<br>
 
-_Location Manager:_ Fabiana Pucci
+_Location Manager:_ Fabiana Pucci<br>
 
-_Post-production Supervisor:_ Ileana Novas
+_Post-production Supervisor:_ Ileana Novas<br>
 
 _El Deseo Post-production Co-ordinator:_
 
-Ascen Marchena
+Ascen Marchena<br>
 
-_Assistant to the Director:_ Fabiana Tiscornia
+_Assistant to the Director:_ Fabiana Tiscornia<br>
 
-_1st Assistant Director:_ Federico Dauria
+_1st Assistant Director:_ Federico Dauria<br>
 
 _2nd Assistant Director:  
-_Gonzalo Fernández Amarante
+_Gonzalo Fernández Amarante<br>
 
-_Script Supervisor:_ Carola Jalife
+_Script Supervisor:_ Carola Jalife<br>
 
-_Casting:_ Natalia Smirnoff
+_Casting:_ Natalia Smirnoff<br>
 
-_Written by:_ Lucrecia Martel
+_Written by:_ Lucrecia Martel<br>
 
-_Director of Photography:_ Bárbara Álvarez
+_Director of Photography:_ Bárbara Álvarez<br>
 
-_Camera Operator:_ Bárbara Álvarez
+_Camera Operator:_ Bárbara Álvarez<br>
 
-_Focus Puller:_ Mariano Pariz
+_Focus Puller:_ Mariano Pariz<br>
 
-_2nd Assistant Camera:_ Mariano Benchimol
+_2nd Assistant Camera:_ Mariano Benchimol<br>
 
-_Gaffer:_ Daniel Hermo
+_Gaffer:_ Daniel Hermo<br>
 
-_Key Grip:_ Aníbal Cattaneo
+_Key Grip:_ Aníbal Cattaneo<br>
 
 _Video Assist:_ Italo Díaz
 
@@ -260,5 +258,6 @@ Argentina-Spain-France-Italy 2008©
 
 Woman with a Movie Camera is generously supported by Jane Stanton
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTE1NTA3NCwyNTkwMDEyNTddfQ==
+eyJoaXN0b3J5IjpbNzE1ODQxNzczLDE5NzUxNTUwNzQsMjU5MD
+AxMjU3XX0=
 -->
