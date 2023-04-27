@@ -19,98 +19,43 @@ _The Headless Woman_ may, on the surface, be the least accessible of Martel’s 
 <br><br>
 
 **THE HEADLESS WOMAN (LA MUJER SIN CABEZA)**<br>
-
 _Directed by:_ Lucrecia Martel<br>
-
-©: Lucrecia Martel, Aquafilms, El Deseo,
-
-Slot Machine, Teodora Film,  
-R&C Produzioni (Rome), Arte France Cinéma<br>
-
-_Production Companies:_ Aquafilms, El Deseo,
-
-Slot Machine, Teodora Film, R&C Produzioni (Rome), Instituto Nacional de Cinematografia y Artes Audio, ICAA – Instituto de Cinematografía y Artes Audiovisuales,  
-Arte France Cinéma, Fonds Sud Cinéma<br>
-
+©: Lucrecia Martel, Aquafilms, El Deseo, Slot Machine, Teodora Film,  R&C Produzioni (Rome), Arte France Cinéma<br>
+_Production Companies:_ Aquafilms, El Deseo, Slot Machine, Teodora Film, R&C Produzioni (Rome), Instituto Nacional de Cinematografia y Artes Audio, ICAA – Instituto de Cinematografía y Artes Audiovisuales,  Arte France Cinéma, Fonds Sud Cinéma<br>
 _With the participation of:_ Fonds Sud Cinéma, Ministère de la Culture et de la Communication<br>
-
 _Executive Producer:_ Verónica Cura<br>
-
-_Produced by:_ Pedro Almodóvar,
-
-Agustín Almodóvar, Esther García,
-
-Verónica Cura, Enrique Piñeyro,
-
-Lucrecia Martel, Marianne Slot,
-
-Vieri Razzini, Cesare Petrillo, Tilde Corsi<br>
-
+_Produced by:_ Pedro Almodóvar, Agustín Almodóvar, Esther García, Verónica Cura, Enrique Piñeyro, Lucrecia Martel, Marianne Slot, Vieri Razzini, Cesare Petrillo, Tilde Corsi<br>
 _Aquafilms Productions:_ Carolina Farinella, Roberto Servera<br>
-
 _Production Supervisor:_ Juan Pablo Miller<br>
-
 _Production Co-ordinator:_ Gastón Grazide<br>
-
 _El Deseo Production Accountant:_ Beatriz Gordo<br>
-
 _Slot Machine Accountant:_ Zahra Daoudi<br>
-
 _Administration Co-ordinator:_ Natalia Núñez<br>
-
 _Location Manager:_ Fabiana Pucci<br>
-
 _Post-production Supervisor:_ Ileana Novas<br>
-
-_El Deseo Post-production Co-ordinator:_
-
-Ascen Marchena<br>
-
+_El Deseo Post-production Co-ordinator:_ Ascen Marchena<br>
 _Assistant to the Director:_ Fabiana Tiscornia<br>
-
 _1st Assistant Director:_ Federico Dauria<br>
-
-_2nd Assistant Director:  
-_Gonzalo Fernández Amarante<br>
-
+_2nd Assistant Director:_ Gonzalo Fernández Amarante<br>
 _Script Supervisor:_ Carola Jalife<br>
-
 _Casting:_ Natalia Smirnoff<br>
-
 _Written by:_ Lucrecia Martel<br>
-
 _Director of Photography:_ Bárbara Álvarez<br>
-
 _Camera Operator:_ Bárbara Álvarez<br>
-
 _Focus Puller:_ Mariano Pariz<br>
-
 _2nd Assistant Camera:_ Mariano Benchimol<br>
-
 _Gaffer:_ Daniel Hermo<br>
-
 _Key Grip:_ Aníbal Cattaneo<br>
-
 _Video Assist:_ Italo Díaz<br>
-
 _Stills Photographer:_ Ivana Salfity<br>
-
 _Special Effects:_ FX Stunt Team<br>
-
 _Graphic Design:_ Juan Gatti<br>
-
 _Editor:_ Miguel Schverdfinger<br>
-
 _Art Director:_ María Eugenia Sueiro<br>
-
 _Costumes:_ Julio Suárez<br>
-
 _Make-up:_ Marisa Amenta<br>
-
 _Hairstylist:_ Alberto Mocchia<br>
-
 _Colourist:_ Daniela Ríos<br>
-
 _Sound Director:_ Guido Berenblum<br>
 
 _Sound Supervisor:_ Gina Barbier<br>
@@ -259,6 +204,6 @@ Argentina-Spain-France-Italy 2008©<br>
 Woman with a Movie Camera is generously supported by Jane Stanton<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzQzMDE0OSwxOTc1MTU1MDc0LDI1OT
+eyJoaXN0b3J5IjpbMjEwNDE1MTg3MSwxOTc1MTU1MDc0LDI1OT
 AwMTI1N119
 -->
