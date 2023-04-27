@@ -1,10 +1,8 @@
-<![endif]-->
 
 _Introduced by Zeina Durra_
 
-In Argentine writer-director Lucrecia Martel’s disquieting psychological thriller, a woman collides with something while driving her car. She initially believes she hit a dog, but paranoia grows that the incident may have been more serious. Zeina Durra, the director of _Luxor_ and _The Imperialists Are Still Alive!_, will introduce this immersive, unsettling film, highlighting Martel’s influence on her own work.
-
-bfi.org.uk
+In Argentine writer-director Lucrecia Martel’s disquieting psychological thriller, a woman collides with something while driving her car. She initially believes she hit a dog, but paranoia grows that the incident may have been more serious. Zeina Durra, the director of _Luxor_ and _The Imperialists Are Still Alive!_, will introduce this immersive, unsettling film, highlighting Martel’s influence on her own work.  
+**bfi.org.uk**
 
 Two worlds come into sharp contrast at the beginning of Lucrecia Martel’s third feature _The Headless Woman_, a contemporary thriller where plot gradually gives way to  metaphor. There’s the world of Argentina’s ‘haves’, embodied by the film’s elegant, disengaged protagonist Vero and the privileged bourgeois society she’s part of, and the ‘have nots’, the cleaners and gardeners who labour silently in the background. When Vero fears she may have killed a child from the other side of the tracks, the patriarchs of the family close in to protect their interests. The storm that hangs over the early part of the film may not have wiped away all traces of Vero’s hit-and-run accident but the family will ensure that any evidence is disposed of, decisively and definitely.
 
@@ -262,5 +260,5 @@ Argentina-Spain-France-Italy 2008©
 
 Woman with a Movie Camera is generously supported by Jane Stanton
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5MDAxMjU3XX0=
+eyJoaXN0b3J5IjpbMTk3NTE1NTA3NCwyNTkwMDEyNTddfQ==
 -->
