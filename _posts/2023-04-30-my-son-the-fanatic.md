@@ -67,107 +67,57 @@ _Standby Props:_ Ross Wilson, Ashley Stones<br>
 _Dressing Props:_ Brian Sayce<br>
 _Costume Designer:_ Mary-Jane Reyner<br>
 _Costume Supervisor:_ Sandra Milman<br>
-
 _Make-up Designer:_ Penny Smith<br>
-
 _Opticals/Titles:_ Cine Image<br>
-
 _Original Music:_ Stephen Warbeck<br>
-
-_Music Performed by:_ Iain Ballamy, B.K. Chandrashekhar, Paul Clarvis, Stuart Hall,  
-John Parricelle, Martin Robertson,  
-Ralph Salmins, Huw Warren<br>
-
+_Music Performed by:_ Iain Ballamy, B.K. Chandrashekhar, Paul Clarvis, Stuart Hall,  John Parricelle, Martin Robertson,  Ralph Salmins, Huw Warren<br>
 _Music Recordist/Mixer:_ Steve Parr<br>
-
-_Music Recorded/Mixed @:_  
-Hear No Evil Studios (London)<br>
-
+_Music Recorded/Mixed @:_  Hear No Evil Studios (London)<br>
 _Music Consultant:_ Charlie Gillett<br>
-
 _Sound Recordist:_ Albert Bailey<br>
-
 _Re-recording Mixer:_ Adrian Rhodes<br>
-
 _Post-production:_ De Lane Lea<br>
-
 _Boom Operator:_ Dick Philip<br>
-
 _Sound Maintenance:_ Anne Dodsworth<br>
-
 _Supervising Sound Editor:_ Nick Adams<br>
-
 _Assistant Sound Editor:_ Paul Wrightson<br>
-
 _Dialogue Editor:_ Tim Hands<br>
-
 _FX Editor:_ Sam Southwick<br>
-
 _ADR Editor:_ Gordon Brown<br>
-
 _Foley Editor:_ Imogen Pollard<br>
-
 _Negative Cutter:_ Sylvia Wheeler<br>
-
 _Grader:_ Colin Coull<br>
-
 _Stunt Co-ordinator:_ Clive Curtis<br>
-
 _Dialogue Coach:_ Joan Washington<br>
-
-_Unit Publicists:_ Undine Marshfield,  
-Cowan Symes & Associates<br>
-
+_Unit Publicists:_ Undine Marshfield,  Cowan Symes & Associates<br>
 _Studio:_ Ealing Studios<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Om Puri _(Parvez)_<br>
-
 Rachel Griffiths _(Bettina)_<br>
-
 Stellan Skarsgård _(Schitz)_<br>
-
 Akbar Kurtha _(Farid)_<br>
-
 Gopi Desai _(Minoo)_<br>
-
 Harish Patel _(Fizzy)_<br>
-
 Bhasker Patel _(The Maulvi)_<br>
-
 Sarah Jane Potts _(Madelaine Fingerhut)_<br>
-
 Judi Jones _(Mrs Fingerhut)_<br>
-
 Geoffrey Bateman _(Chief Inspector Fingerhut)_<br>
-
 Bernard Wrigley _(drunk man)_<br>
-
 Moya Brady _(druggy prostitute)_<br>
-
 Badi Uzzaman _(man in mosque)_<br>
-
 Andy Devine _(comedian)_<br>
-
 Shiv Grewal _(waiter)_<br>
-
 Omar Salimi _(Rashid)_<br>
-
 Dev Sagoo _(taxi controller)_<br>
-
 Rowena King _(Margot)_<br>
-
 Olwen May, Alison Burrows _(prostitutes)_<br>
-
 Parvez Qadir, Shakher Bassi _(acolytes)_<br>
-
 Balraj Singh Somal, Rez Kempton _(drivers)_<br>
 
 UK/France 1997©<br>
-
 87 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDIxNzQ3OV19
+eyJoaXN0b3J5IjpbLTM3Nzg0NzgwOV19
 -->
