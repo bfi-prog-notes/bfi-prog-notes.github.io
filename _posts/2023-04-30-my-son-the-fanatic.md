@@ -5,9 +5,8 @@ Despite their seemingly irreconcilable opposition, father and son Parvez (Om Pur
 
 But where they differ is their attitude towards integrating with their surroundings. Here, Kureishi inverts the usual stereotype by presenting father Parvez as the liberal (though he retains traditional views on children respecting their parents) while Farid seeks to cleanse the town of immorality. His stated reason for turning to religion is out of his disgust at the way modern life derives from ‘empty accountancy’, whether expressed through consumerism or prostitution (Schitz has interests in both professions), and although the film is largely seen through Parvez’s increasingly bewildered eyes, Kureishi ensures that Farid’s position is given a fair hearing.
 
-Ultimately, both Parvez and Farid are clinging on to imaginary utopias. Parvez has a vision of a tolerant Britain which is undermined by experience (most directly by the club comedian singling him out for racist abuse), while Farid similarly dreams of an equally imaginary Pakistan, where pure Islamic values hold sway. Their inability to reconcile their ideas both with each other and with the outside world (and with wife/mother Minoo, unwillingly trapped between the warring pair) gives the film an authentically tragic edge. Like director Udayan Prasad’s earlier _Brothers in Trouble_ (1995), the ending is tantalisingly open – but unlike that film, there’s little sign that it’s especially upbeat.
-
-Michael Brooke, BFI Screenonline, screenonline.org.uk
+Ultimately, both Parvez and Farid are clinging on to imaginary utopias. Parvez has a vision of a tolerant Britain which is undermined by experience (most directly by the club comedian singling him out for racist abuse), while Farid similarly dreams of an equally imaginary Pakistan, where pure Islamic values hold sway. Their inability to reconcile their ideas both with each other and with the outside world (and with wife/mother Minoo, unwillingly trapped between the warring pair) gives the film an authentically tragic edge. Like director Udayan Prasad’s earlier _Brothers in Trouble_ (1995), the ending is tantalisingly open – but unlike that film, there’s little sign that it’s especially upbeat.  
+**Michael Brooke, BFI Screenonline, screenonline.org.uk**
 
 Offering an explanation to his father Parvez of why he broke off his engagement to a white girl, Farid explains that ‘you can’t mix keema and strawberries’. It’s a fittingly domestic metaphor for _My Son the Fanatic_, Udayan Prasad’s follow-up to _Brothers in Trouble_, in which cooking and western-Asian relations were also central. Written by Hanif Kureishi and based on his own short story, the film follows the transformation of Farid from would-be accountant to fervent fundamentalist through the eyes of Parvez.
 
@@ -17,128 +16,126 @@ Clearly, Kureishi and Prasad want to parallel the subordinated positions of Parv
 
 However, what is particularly successful about _My Son the Fanatic_ is its representation of fundamentalism as solidly modem. Radical Islamic politics are essentially bound up with youth, which functions, here as so often, as a signifier for the modern. The house overflows with fanatical young men. Parvez’s final sight of his son, glimpsed from behind as he strides down a side street with his fellow acolytes, is a parody of ‘laddism’ – another contemporary form of gender separatism. The film thus avoids the common binary opposition which sets enlightened secularism against pre-modern fanaticism. And to further undermine this flawed binary, the film teems with seemingly inappropriate keema-and-strawberries juxtapositions. The _maulvi_ giggles at kids’ cartoons. Bettina the hooker snorts cocaine in suspenders with Schitz, but drinks tea in a tracksuit with Parvez. Juxtaposition of this kind is a signature of Kureishi’s writing and is here, as elsewhere, the site of comedy. But it has a more general function in texts which explore cultural hybridity, such as _Bhaji on the Beach_. For Farid, such juxtapositions are undesirable. For Parvez and Bettina they are simply the complex conditions of living.
 
-But romance also neutralises these complexities and the film is less able to explore the contemporary appeal of fundamentalism that it proposes. Parvez himself is ill-equipped to comprehend the attraction. But his and Farid’s dissatisfactions are reactions to the same crisis. Love and religion are two forms of quest or escape. Both Parvez and Farid are trying to escape ‘the empty accountancy of things’: the son through religion, Parvez through his love for Bettina. For all the deliberate specificity of the film’s context – this is a post-_Satanic Verses_ world where stand-up comics make jokes about _fatwas_ – love and religion are finally timeless absolutes. The romantic narrative, though it ends ambiguously, despecifies the contemporary. Prostitution may be a figure for capitalism but it is also the world’s oldest profession. Love can be seen finally to parenthesise the complexities of contemporary culture, which are refigured as so much roughness in the way of it running its true course.
+But romance also neutralises these complexities and the film is less able to explore the contemporary appeal of fundamentalism that it proposes. Parvez himself is ill-equipped to comprehend the attraction. But his and Farid’s dissatisfactions are reactions to the same crisis. Love and religion are two forms of quest or escape. Both Parvez and Farid are trying to escape ‘the empty accountancy of things’: the son through religion, Parvez through his love for Bettina. For all the deliberate specificity of the film’s context – this is a post-_Satanic Verses_ world where stand-up comics make jokes about _fatwas_ – love and religion are finally timeless absolutes. The romantic narrative, though it ends ambiguously, despecifies the contemporary. Prostitution may be a figure for capitalism but it is also the world’s oldest profession. Love can be seen finally to parenthesise the complexities of contemporary culture, which are refigured as so much roughness in the way of it running its true course.  
+**Rachel Malik, _Sight and Sound_, May 1998**
+<br><br>
 
-Rachel Malik, _Sight and Sound_, May 1998
+**MY SON THE FANATIC**<br>
 
-<![endif]-->
+_Director:_ Udayan Prasad<br>
 
-**MY SON THE FANATIC**
+©: Son of Zephyr Limited<br>
 
-_Director:_ Udayan Prasad
+_Production Companies:_ Zephyr Films, BBC Films, UGC Droits Audiovisuels, Arts Council of England<br>
 
-©: Son of Zephyr Limited
+_Executive Producer:_ George Faber<br>
 
-_Production Companies:_ Zephyr Films, BBC Films, UGC Droits Audiovisuels, Arts Council of England
+_Producer:_ Chris Curling<br>
 
-_Executive Producer:_ George Faber
+_Line Producer:_ Anita Overland<br>
 
-_Producer:_ Chris Curling
+_Production Accountant:_ Jim Hajicosta<br>
 
-_Line Producer:_ Anita Overland
+_Accounts Assistant:_ Clive Osborne<br>
 
-_Production Accountant:_ Jim Hajicosta
+_Production Co-ordinator:_ Ann Lynch<br>
 
-_Accounts Assistant:_ Clive Osborne
+_Production Manager:_ Philip Robertson<br>
 
-_Production Co-ordinator:_ Ann Lynch
+_Location Manager:_ Mark Stephenson<br>
 
-_Production Manager:_ Philip Robertson
+_Location Liaison:_ Michael Harm<br>
 
-_Location Manager:_ Mark Stephenson
+_Assistant Location Manager:_ Sam Taylor<br>
 
-_Location Liaison:_ Michael Harm
+_Location Assistant:_ Carn Burton<br>
 
-_Assistant Location Manager:_ Sam Taylor
+_Post-production Supervisor:_ Alistair Hopkins<br>
 
-_Location Assistant:_ Carn Burton
+_Producer’s Assistant:_ Pippa Best<br>
 
-_Post-production Supervisor:_ Alistair Hopkins
+_Production Assistant:_ Andy Stebbing<br>
 
-_Producer’s Assistant:_ Pippa Best
+_Production Secretary:_ Jo Barker<br>
 
-_Production Assistant:_ Andy Stebbing
+_Production Runner:_ Suk Sahota<br>
 
-_Production Secretary:_ Jo Barker
+_Researcher:_ Yaseen Rahman<br>
 
-_Production Runner:_ Suk Sahota
+_1st Assistant Director:_ Nick Laws<br>
 
-_Researcher:_ Yaseen Rahman
+_2nd Assistant Director:_ Mike Elliott<br>
 
-_1st Assistant Director:_ Nick Laws
+_3rd Assistant Director:_ John Withers<br>
 
-_2nd Assistant Director:_ Mike Elliott
+_Script Supervisor:_ Emma Thomas<br>
 
-_3rd Assistant Director:_ John Withers
+_Casting:_ Simone Ireland, Vanessa Pereira<br>
 
-_Script Supervisor:_ Emma Thomas
+_Crowd Casting:_ Aisha Wazir<br>
 
-_Casting:_ Simone Ireland, Vanessa Pereira
+_Screenplay:_ Hanif Kureishi<br>
 
-_Crowd Casting:_ Aisha Wazir
+_Based on a short story by:_ Hanif Kureishi<br>
 
-_Screenplay:_ Hanif Kureishi
+_Director of Photography:_ Alan Almond<br>
 
-_Based on a short story by:_ Hanif Kureishi
+_Focus Puller:_ John Bremer<br>
 
-_Director of Photography:_ Alan Almond
+_2nd Unit Focus Puller:_ Camillo Spath<br>
 
-_Focus Puller:_ John Bremer
+_Grip:_ Richard Davies<br>
 
-_2nd Unit Focus Puller:_ Camillo Spath
+_Camera Trainee:_ Damon Randall<br>
 
-_Grip:_ Richard Davies
+_Low Loader Operator:_ Clive Noy<br>
 
-_Camera Trainee:_ Damon Randall
+_Stills Photographer:_ Joth Shakerly<br>
 
-_Low Loader Operator:_ Clive Noy
+_Special Effects:_ Ian Rowley, Steve Breheney, Dougie Robson<br>
 
-_Stills Photographer:_ Joth Shakerly
+_Editor:_ David Gamble<br>
 
-_Special Effects:_ Ian Rowley, Steve Breheney, Dougie Robson
+_1st Assistant Editor:_ Kate Buckland<br>
 
-_Editor:_ David Gamble
+_Production Designer:_ Grenville Horner<br>
 
-_1st Assistant Editor:_ Kate Buckland
+_Art Directors:_ Colin Blaymires, Sarah Kane<br>
 
-_Production Designer:_ Grenville Horner
+_Production Buyer:_ Dominic Smithers<br>
 
-_Art Directors:_ Colin Blaymires, Sarah Kane
+_Props Master:_ Andy Ludford<br>
 
-_Production Buyer:_ Dominic Smithers
+_Standby Props:_ Ross Wilson, Ashley Stones<br>
 
-_Props Master:_ Andy Ludford
+_Dressing Props:_ Brian Sayce<br>
 
-_Standby Props:_ Ross Wilson, Ashley Stones
+_Costume Designer:_ Mary-Jane Reyner<br>
 
-_Dressing Props:_ Brian Sayce
+_Costume Supervisor:_ Sandra Milman<br>
 
-_Costume Designer:_ Mary-Jane Reyner
+_Make-up Designer:_ Penny Smith<br>
 
-_Costume Supervisor:_ Sandra Milman
+_Opticals/Titles:_ Cine Image<br>
 
-_Make-up Designer:_ Penny Smith
-
-_Opticals/Titles:_ Cine Image
-
-_Original Music:_ Stephen Warbeck
+_Original Music:_ Stephen Warbeck<br>
 
 _Music Performed by:_ Iain Ballamy, B.K. Chandrashekhar, Paul Clarvis, Stuart Hall,  
 John Parricelle, Martin Robertson,  
-Ralph Salmins, Huw Warren
+Ralph Salmins, Huw Warren<br>
 
-_Music Recordist/Mixer:_ Steve Parr
+_Music Recordist/Mixer:_ Steve Parr<br>
 
 _Music Recorded/Mixed @:_  
-Hear No Evil Studios (London)
+Hear No Evil Studios (London)<br>
 
-_Music Consultant:_ Charlie Gillett
+_Music Consultant:_ Charlie Gillett<br>
 
-_Sound Recordist:_ Albert Bailey
+_Sound Recordist:_ Albert Bailey<br>
 
-_Re-recording Mixer:_ Adrian Rhodes
+_Re-recording Mixer:_ Adrian Rhodes<br>
 
-_Post-production:_ De Lane Lea
+_Post-production:_ De Lane Lea<br>
 
 _Boom Operator:_ Dick Philip
 
@@ -217,5 +214,5 @@ UK/France 1997©
 
 87 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTY4MDkxNl19
+eyJoaXN0b3J5IjpbMjg5MjIzNV19
 -->
