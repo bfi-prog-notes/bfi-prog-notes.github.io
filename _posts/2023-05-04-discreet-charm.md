@@ -1,13 +1,12 @@
 
 
-**A contemporary review**
+**A contemporary review**  
 If _Le Charme discret de la bourgeoisie_ registers as the funniest Buñuel film since _L’Age d’or_, probably the most relaxed and controlled film he has ever made, and arguably the first contemporary, global masterpiece to have come from France in the Seventies, this is chiefly because he has arrived at a form that covers his full range, permits him to say anything – a form that literally and figuratively lets him get away with murder. One cannot exactly call his new work a bolt from the blue. But its remarkable achievement is to weld together an assortment of his favourite themes, images and parlour tricks into a discourse that is essentially new. Luring us into the deceptive charms of narrative as well as those of his characters, he undermines the stability of both attractions by turning interruption into the basis of his art, keeping us aloft on the sheer exuberance of his amusement.
 
 Seven years ago, Noël Burch observed that in _Le Journal d’une femme de chambre_, Buñuel had at last discovered Form – a taste and talent for plastic composition and a ‘musical’ sense of the durations of shots and the ‘articulations between sequences’; more generally, ‘a rigorous compartmentalisation of the sequences, each of which follows its own carefully worked out, autonomous curve.’ _Belle de Jour_ reconfirmed this discovery, but _Le Charme discret_ announces still another step forward: at the age of 72, Buñuel has finally achieved Style.
 
 Six friends – three men and three women – want to have a meal together, but something keeps going wrong. Four of them arrive at the Sénéchals’ country house for dinner, and are told by Mme Sénéchal that they’ve come a day early; repairing to a local restaurant, they discover that the manager has just died, his corpse laid out in an adjoining room – how can they eat there? – so they plan a future lunch date. But each successive engagement is torpedoed: either  
-M and Mme Sénéchal (Jean-Pierre Cassel and Stéphane Audran) are too busy making love to greet their guests, or the cavalry suddenly shows up at dinnertime between manoeuvres, or the police raid the premises and arrest everyone. Still other attempted get-togethers and disasters turn out to be dreams, or dreams of dreams. At one dinner party, the guests find themselves sitting on a stage before a restive audience, prompted with lines; another ends with don Raphael (Fernando Rey) shooting his host; still another concludes with an unidentified group of men breaking in and machine-gunning the lot  
-of them.
+M and Mme Sénéchal (Jean-Pierre Cassel and Stéphane Audran) are too busy making love to greet their guests, or the cavalry suddenly shows up at dinnertime between manoeuvres, or the police raid the premises and arrest everyone. Still other attempted get-togethers and disasters turn out to be dreams, or dreams of dreams. At one dinner party, the guests find themselves sitting on a stage before a restive audience, prompted with lines; another ends with don Raphael (Fernando Rey) shooting his host; still another concludes with an unidentified group of men breaking in and machine-gunning the lot  of them.
 
 At three separate points in the film, including the final sequence, we see all six characters walking wordlessly down a road, somewhere between an unstated starting place and an equally mysterious destination – an image suggesting the continuation both of their class and of the picaresque narrative tradition that propels them forward. Yet if the previous paragraph reads like a plot summary, it is deceptive. The nature and extent of Buñuel’s interruptions guarantee the virtual absence of continuous plot. But we remain transfixed as though we were watching one: the sustained charm and glamour of the six characters fool us, much as they fool themselves. Their myths, behaviour and appearance – a seductive, illusory surface – carry us (and them) through the film with a sense of unbroken continuity and logic, a consistency that the rest of the universe and nature itself seem to rail against helplessly. Despite every attempt at annihilation, the myths of the bourgeoisie and of conventional narrative survive and prevail, a certainty that Buñuel reconciles himself to by regarding it as the funniest thing in the world.
 
@@ -17,102 +16,100 @@ Undoubtedly a great deal of credit for the dialogue of _Le Charme discret_ shoul
 
 A few years ago, Godard remarked of _Belle de Jour_ that Buñuel seemed to be playing the cinema the way Bach played the organ. The happy news of  
 _Le Charme discret_ is that while most of the serious French cinema at present – Godard included – seems to be hard at work performing painful duties, the  
-Old Master is still playing – effortlessly, freely, without fluffing a note.
+Old Master is still playing – effortlessly, freely, without fluffing a note.  
+**Jonathan Rosenbaum, _Sight and Sound_, Winter 1972/3**
+<br><br>
 
-Jonathan Rosenbaum, _Sight and Sound_, Winter 1972/3
+**THE DISCREET CHARM OF THE BOURGEOISIE**<br>
 
-<![endif]-->
+**(LE CHARME DISCRET DE LA BOURGEOISIE)**<br>
 
-**THE DISCREET CHARM OF THE BOURGEOISIE**
+_Director:_ Luis Buñuel<br>
 
-**(LE CHARME DISCRET DE LA BOURGEOISIE)**
-
-_Director:_ Luis Buñuel
-
-©_/Production:_ Greenwich Film Production
+©_/Production:_ Greenwich Film Production<br>
 
 _Uncredited Production Companies:_  
-Dean Film, Jet Films, Madrid
+Dean Film, Jet Films, Madrid<br>
 
-_Presented by/A film produced by:_ Serge Silberman
+_Presented by/A film produced by:_ Serge Silberman<br>
 
-_Accounting Administrator:_ Jacqueline Oblin
+_Accounting Administrator:_ Jacqueline Oblin<br>
 
-_Production Manager:_ Ully Pickard
+_Production Manager:_ Ully Pickard<br>
 
-_Unit Production Manager:_ Jean Lara
+_Unit Production Manager:_ Jean Lara<br>
 
-_Assisted by:_ Jean-Jacques Schpoliansky
+_Assisted by:_ Jean-Jacques Schpoliansky<br>
 
-_Location Manager:_ Pierre Lefait
+_Location Manager:_ Pierre Lefait<br>
 
-_Assisted by:_ Jean Revel
+_Assisted by:_ Jean Revel<br>
 
-_Administrator:_ Jacqueline Dudilleux
+_Administrator:_ Jacqueline Dudilleux<br>
 
-_Production Secretary:_ Marie-Jane Ruel
+_Production Secretary:_ Marie-Jane Ruel<br>
 
-_Assistant Directors:_ Pierre Lary, Arnie Gelbart
+_Assistant Directors:_ Pierre Lary, Arnie Gelbart<br>
 
-_Script Girl:_ Suzanne Durrenberger
+_Script Girl:_ Suzanne Durrenberger<br>
 
-_Scenario:_ Luis Buñuel
+_Scenario:_ Luis Buñuel<br>
 
-_With the collaboration of:_ Jean-Claude Carrière
+_With the collaboration of:_ Jean-Claude Carrière<br>
 
-_Director of Photography:_ Edmond Richard
+_Director of Photography:_ Edmond Richard<br>
 
-_Camera Operator:_ Bernard Noisette
+_Camera Operator:_ Bernard Noisette<br>
 
-_Camera Assistants:_ André Clément, Alain Herpe
+_Camera Assistants:_ André Clément, Alain Herpe<br>
 
-_Key Grip:_ René Menuset
+_Key Grip:_ René Menuset<br>
 
-_Gaffer:_ Marcel Policard
+_Gaffer:_ Marcel Policard<br>
 
-_Stills Photography:_ Yves Manciet
+_Stills Photography:_ Yves Manciet<br>
 
-_Editor:_ Hélène Plemiannikov
+_Editor:_ Hélène Plemiannikov<br>
 
-_Assisted by:_ Gina Pignier
+_Assisted by:_ Gina Pignier<br>
 
-_Art Director:_ Pierre Guffroy
+_Art Director:_ Pierre Guffroy<br>
 
-_Assistant Decorator:_ Albert Rajau
+_Assistant Decorator:_ Albert Rajau<br>
 
-_Furniture:_ Knoll
+_Furniture:_ Knoll<br>
 
-_Chairs:_ Steiner
+_Chairs:_ Steiner<br>
 
-_Furniture:_ Neff-Dami
+_Furniture:_ Neff-Dami<br>
 
-_Table Decoration:_ Snaidero
+_Table Decoration:_ Snaidero<br>
 
-_Gold/Silver:_ Christofle
+_Gold/Silver:_ Christofle<br>
 
-_Properties:_ François Sune
+_Properties:_ François Sune<br>
 
-_Costumes:_ Jacqueline Guyot
+_Costumes:_ Jacqueline Guyot<br>
 
-_Assisted by:_ Olympe Watelle
+_Assisted by:_ Olympe Watelle<br>
 
-_D. Seyrig’s Wardrobe by:_ Jean Patou
+_D. Seyrig’s Wardrobe by:_ Jean Patou<br>
 
-_Furs:_ Henri Stern
+_Furs:_ Henri Stern<br>
 
-_Make-up:_ Odette Berroyer, Fernande Hugi
+_Make-up:_ Odette Berroyer, Fernande Hugi<br>
 
-_Hairstyles:_ Lorca
+_Hairstyles:_ Lorca<br>
 
-_Titles:_ CTR
+_Titles:_ CTR<br>
 
-_Laboratory:_ GTC
+_Laboratory:_ GTC<br>
 
-_Music Edited by:_ Galaxie Musique
+_Music Edited by:_ Galaxie Musique<br>
 
-_Sound Recording:_ Guy Villette
+_Sound Recording:_ Guy Villette<br>
 
-_Assisted by:_ Daniel Brisseau
+_Assisted by:_ Daniel Brisseau<br>
 
 _Sound Mixing:_ Jacques Carrère
 
@@ -203,5 +200,5 @@ France-Italy-Spain 1972©
 
 101 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTExMjE0M119
+eyJoaXN0b3J5IjpbLTc0MDEyNzcwXX0=
 -->
