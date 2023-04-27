@@ -21,76 +21,40 @@ Old Master is still playing – effortlessly, freely, without fluffing a note.
 <br><br>
 
 **THE DISCREET CHARM OF THE BOURGEOISIE**<br>
-
 **(LE CHARME DISCRET DE LA BOURGEOISIE)**<br>
-
 _Director:_ Luis Buñuel<br>
-
 ©_/Production:_ Greenwich Film Production<br>
-
-_Uncredited Production Companies:_  
-Dean Film, Jet Films, Madrid<br>
-
+_Uncredited Production Companies:_  Dean Film, Jet Films, Madrid<br>
 _Presented by/A film produced by:_ Serge Silberman<br>
-
 _Accounting Administrator:_ Jacqueline Oblin<br>
-
 _Production Manager:_ Ully Pickard<br>
-
 _Unit Production Manager:_ Jean Lara<br>
-
 _Assisted by:_ Jean-Jacques Schpoliansky<br>
-
 _Location Manager:_ Pierre Lefait<br>
-
 _Assisted by:_ Jean Revel<br>
-
 _Administrator:_ Jacqueline Dudilleux<br>
-
 _Production Secretary:_ Marie-Jane Ruel<br>
-
 _Assistant Directors:_ Pierre Lary, Arnie Gelbart<br>
-
 _Script Girl:_ Suzanne Durrenberger<br>
-
 _Scenario:_ Luis Buñuel<br>
-
 _With the collaboration of:_ Jean-Claude Carrière<br>
-
 _Director of Photography:_ Edmond Richard<br>
-
 _Camera Operator:_ Bernard Noisette<br>
-
 _Camera Assistants:_ André Clément, Alain Herpe<br>
-
 _Key Grip:_ René Menuset<br>
-
 _Gaffer:_ Marcel Policard<br>
-
 _Stills Photography:_ Yves Manciet<br>
-
 _Editor:_ Hélène Plemiannikov<br>
-
 _Assisted by:_ Gina Pignier<br>
-
 _Art Director:_ Pierre Guffroy<br>
-
 _Assistant Decorator:_ Albert Rajau<br>
-
 _Furniture:_ Knoll<br>
-
 _Chairs:_ Steiner<br>
-
 _Furniture:_ Neff-Dami<br>
-
 _Table Decoration:_ Snaidero<br>
-
 _Gold/Silver:_ Christofle<br>
-
 _Properties:_ François Sune<br>
-
 _Costumes:_ Jacqueline Guyot<br>
-
 _Assisted by:_ Olympe Watelle<br>
 
 _D. Seyrig’s Wardrobe by:_ Jean Patou<br>
@@ -111,94 +75,95 @@ _Sound Recording:_ Guy Villette<br>
 
 _Assisted by:_ Daniel Brisseau<br>
 
-_Sound Mixing:_ Jacques Carrère
+_Sound Mixing:_ Jacques Carrère<br>
 
-_Assisted by:_ Claude Villand
+_Assisted by:_ Claude Villand<br>
 
-_Sound Re-recording:_ J. Porel
+_Sound Re-recording:_ J. Porel<br>
 
-_Sound Effects:_ Luis Buñuel
+_Sound Effects:_ Luis Buñuel<br>
 
-_Studio/Auditorium:_ Paris Studios Billancourt
+_Studio/Auditorium:_ Paris Studios Billancourt<br>
 
-_Cast:_
+_Cast:_<br>
 
-Fernando Rey _(Rafael de Acosta, the ambassador)_
+Fernando Rey _(Rafael de Acosta, the ambassador)_<br>
 
-Paul Frankeur _(François Thévenot)_
+Paul Frankeur _(François Thévenot)_<br>
 
-Delphine Seyrig _(Simone Thévenot)_
+Delphine Seyrig _(Simone Thévenot)_<br>
 
-Bulle Ogier _(Florence)_
+Bulle Ogier _(Florence)_<br>
 
-Stéphane Audran _(Alice Sénéchal)_
+Stéphane Audran _(Alice Sénéchal)_<br>
 
-Jean-Pierre Cassel _(Henri Sénéchal, businessman)_
+Jean-Pierre Cassel _(Henri Sénéchal, businessman)_<br>
 
-Julien Bertheau _(Monsieur Dufour, bishop)_
+Julien Bertheau _(Monsieur Dufour, bishop)_<br>
 
-Miléna Vukotic _(Inés, Sénéchal’s maid)_
+Miléna Vukotic _(Inés, Sénéchal’s maid)_<br>
 
-Maria Gabriella Maione _(terrorist girl)_
+Maria Gabriella Maione _(terrorist girl)_<br>
 
-Claude Piéplu _(colonel)_
+Claude Piéplu _(colonel)_<br>
 
-Muni _(peasant woman)_
+Muni _(peasant woman)_<br>
 
-Pierre Maguelon _(chief of police)_
+Pierre Maguelon _(chief of police)_<br>
 
-François Maistre _(Superintendent Deplus)_
+François Maistre _(Superintendent Deplus)_<br>
 
-Michel Piccoli _(home secretary)_
+Michel Piccoli _(home secretary)_<br>
 
-Ellen Bahl
+Ellen Bahl<br>
 
-Christian Baltauss
+Christian Baltauss<br>
 
-Olivier Bauchet
+Olivier Bauchet<br>
 
-Robert Benoît
+Robert Benoît<br>
 
-Anne-Marie Deschott
+Anne-Marie Deschott<br>
 
-Michel Dhermay
+Michel Dhermay<br>
 
-Georges Douking _(the dying gardener)_
+Georges Douking _(the dying gardener)_<br>
 
-Jean Degrave
+Jean Degrave<br>
 
-Sébastien Floche
+Sébastien Floche<br>
 
-François Guilloteau
+François Guilloteau<br>
 
-Claude Jaeger
+Claude Jaeger<br>
 
-Jean-Claude Jarry
+Jean-Claude Jarry<br>
 
-Pierre Lary
+Pierre Lary<br>
 
-Robert Le Béal _(tailor)_
+Robert Le Béal _(tailor)_<br>
 
-Alix Mahieux
+Alix Mahieux<br>
 
-Bernard Musson _(manservant)_
+Bernard Musson _(manservant)_<br>
 
 Maxence Mailfort  
-_(the sergeant who recounts his dream)_
+_(the sergeant who recounts his dream)_<br>
 
-Robert Party
+Robert Party<br>
 
-Jean Revel
+Jean Revel<br>
 
-Jacques Rispal
+Jacques Rispal<br>
 
-Amparo Soler-Leal
+Amparo Soler-Leal<br>
 
-Diane Vernon
+Diane Vernon<br>
 
-France-Italy-Spain 1972©
+France-Italy-Spain 1972©<br>
 
-101 mins
+101 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDEyNzcwXX0=
+eyJoaXN0b3J5IjpbODMwNjAzNzQ2XX0=
 -->
