@@ -5,12 +5,17 @@ We are thrilled to present a BFI National Archive showcase of new and recent wor
 
 **Film programme**
 
-**Mind Wandering in a Van  
-**UK 2022, 28minA van travels around London. Participants are asked to listen to music and then tell us what they are thinking about.
+**Mind Wandering in a Van**  
+UK 2022, 28min  
+A van travels around London. Participants are asked to listen to music and then tell us what they are thinking about.
 
-**Uprooted**UK 2020, 20minA poetic response to childhood, growing up in Guyana and leaving once Barber’s parents retired. It also combines, ecological issues, Jim Jones, observations travelling in one of the last pristine rain forests in the world.
+**Uprooted**  
+UK 2020, 20min  
+A poetic response to childhood, growing up in Guyana and leaving once Barber’s parents retired. It also combines, ecological issues, Jim Jones, observations travelling in one of the last pristine rain forests in the world.
 
-**Garden**  **Centre**UK 2015, 2minGeorge Barber relates his new artistic manifesto involving NOT being at the centre of things but preferring to be something intriguing at the edge of the frame. It’s all going well too.
+**Garden Centre**  
+UK 2015, 2min  
+George Barber relates his new artistic manifesto involving NOT being at the centre of things but preferring to be something intriguing at the edge of the frame. It’s all going well too.
 
 **We Need to Speak Tony  
 **UK 2017, 16min  
@@ -46,5 +51,5 @@ georgebarber.net
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDM4NDY3NV19
+eyJoaXN0b3J5IjpbMTQzNjI4NzcxNV19
 -->
