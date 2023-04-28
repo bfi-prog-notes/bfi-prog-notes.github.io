@@ -18,132 +18,129 @@ All the conventional signs and symbols of sentiment are ruthlessly beheaded in t
 
 What the film is all about is contained, essentially, in two brief scenes. At the fiesta in the Mexican village, home of one of the gang, the world is forgotten in the joy of celebration, and even the wild, irreconcilable Gorch brothers are seen happily playing cat’s cradle with their girls or courting under the trees with the gauche courtesy of schoolboys. ‘We all dream of being a child again,’ murmurs the village ancient, ‘even the worst of us ... perhaps the worst most of all.’ It isn’t possible, of course, and all one can do is draw a line, as Dutch (Ernest Borgnine) does when told that Mapache, the cold, callous bandit general they are doing business with, is, like them, a thief: ‘We ain’t nothing like him. We don’t hang nobody.’
 
-It is this fine distinction which provokes the second, equally terrifying, holocaust of the end. When the Mexican member of the gang is seized by Mapache for personal reasons, the rest accept it as one of the rules of the game; but when they see him being tortured, humiliated, dragged through the mud, and finally having his throat cut to satisfy a whim, everything comes to a point. Trapped between the scavengers and the degenerates, they stage – for the last time and for their own benefit – a clean death to herald the end of an era. When the smoke clears, the bounty-hunters move in, the refugees move out, and a new age begins as the last survivor of the wild bunch appears at the head of a group of peasant revolutionaries to ask Thornton to join them: ‘It ain’t like it used to be, but it’ll do.’ And both laugh, not with the hollow mockery of  
-the end of _The Treasure of the Sierra Madre_, but with the pleasure of innocence regained.
+It is this fine distinction which provokes the second, equally terrifying, holocaust of the end. When the Mexican member of the gang is seized by Mapache for personal reasons, the rest accept it as one of the rules of the game; but when they see him being tortured, humiliated, dragged through the mud, and finally having his throat cut to satisfy a whim, everything comes to a point. Trapped between the scavengers and the degenerates, they stage – for the last time and for their own benefit – a clean death to herald the end of an era. When the smoke clears, the bounty-hunters move in, the refugees move out, and a new age begins as the last survivor of the wild bunch appears at the head of a group of peasant revolutionaries to ask Thornton to join them: ‘It ain’t like it used to be, but it’ll do.’ And both laugh, not with the hollow mockery of  the end of _The Treasure of the Sierra Madre_, but with the pleasure of innocence regained.  
+**Tom Milne, _Sight and Sound_, Autumn 1969**
+<br><br>
 
-Tom Milne, _Sight and Sound_, Autumn 1969
+**THE WILD BUNCH**<br>
 
-<![endif]-->
+Directed by: Sam Peckinpah<br>
 
-**THE WILD BUNCH**
+©: Warner Bros.-Seven Arts<br>
 
-Directed by: Sam Peckinpah
+Presents/Distributed by: Warner Bros.-Seven Arts<br>
 
-©: Warner Bros.-Seven Arts
+Produced by: Phil Feldman<br>
 
-Presents/Distributed by: Warner Bros.-Seven Arts
+Associate Producer: Roy N. Sickner<br>
 
-Produced by: Phil Feldman
+Production Manager: William Faralla<br>
 
-Associate Producer: Roy N. Sickner
+Second Unit Director: Buzz Henry<br>
 
-Production Manager: William Faralla
+Assistant Directors: Cliff Coleman, Fred Gammon<br>
 
-Second Unit Director: Buzz Henry
+Script Supervisor: Crayton Smith<br>
 
-Assistant Directors: Cliff Coleman, Fred Gammon
+Screenplay by: Walon Green, Sam Peckinpah<br>
 
-Script Supervisor: Crayton Smith
+Story by: Walon Green, Roy N. Sickner<br>
 
-Screenplay by: Walon Green, Sam Peckinpah
+Director of Photography: Lucien Ballard<br>
 
-Story by: Walon Green, Roy N. Sickner
+Key Grip: Bud Gaunt<br>
 
-Director of Photography: Lucien Ballard
+Special Effects: Bud Hulburd<br>
 
-Key Grip: Bud Gaunt
+Editor: Louis Lombardo<br>
 
-Special Effects: Bud Hulburd
+Associate Film Editor: Robert L. Wolfe<br>
 
-Editor: Louis Lombardo
+Art Director: Edward Carrere<br>
 
-Associate Film Editor: Robert L. Wolfe
+Wardrobe Supervisor: Gordon Dawson<br>
 
-Art Director: Edward Carrere
+Makeup: Al Greenway<br>
 
-Wardrobe Supervisor: Gordon Dawson
+Filmed in: Panavision<br>
 
-Makeup: Al Greenway
+Colour by: Technicolor<br>
 
-Filmed in: Panavision
+Music by: Jerry Fielding<br>
 
-Colour by: Technicolor
+Music Supervised by: Sonny Burke<br>
 
-Music by: Jerry Fielding
-
-Music Supervised by: Sonny Burke
-
-Sound: Robert J. Miller
+Sound: Robert J. Miller<br>
 
 We wish to express our appreciation to:
 
-General de Bgda. E.E. Procopio
+General de Bgda. E.E. Procopio<br>
 
-_uncredited_
+_uncredited_<br>
 
-Properties: Phil Ankrum
+Properties: Phil Ankrum<br>
 
-Supervising Recording Mixer: Gordon Davis
+Supervising Recording Mixer: Gordon Davis<br>
 
-Supervising Sound Editor: Edwin Scheid
+Supervising Sound Editor: Edwin Scheid<br>
 
 Sound Editors: William Mauch, William Rivol,
 
-Joe Kavigan, John Young, Stan Martin
+Joe Kavigan, John Young, Stan Martin<br>
 
-Supervising Dialogue Editor: Harold Fisher
+Supervising Dialogue Editor: Harold Fisher<br>
 
-Dialogue Editors: Al Cavigga, Robert Barrett
+Dialogue Editors: Al Cavigga, Robert Barrett<br>
 
 _Studio:_ Estudios Churubusco
 
-Cast:
+Cast:<br>
 
-William Holden (Pike Bishop)
+William Holden (Pike Bishop)<br>
 
-Ernest Borgnine (Dutch Engstrom)
+Ernest Borgnine (Dutch Engstrom)<br>
 
-Robert Ryan (Deke Thornton)
+Robert Ryan (Deke Thornton)<br>
 
-Edmond O’Brien (Freddie Sykes)
+Edmond O’Brien (Freddie Sykes)<br>
 
-Warren Oates (Lyle Gorch)
+Warren Oates (Lyle Gorch)<br>
 
-Jaime Sanchez (Angel)
+Jaime Sanchez (Angel)<br>
 
-Ben Johnson (Tector Gorch)
+Ben Johnson (Tector Gorch)<br>
 
-Emilio Fernández (Mapache)
+Emilio Fernández (Mapache)<br>
 
-Strother Martin (Coffer)
+Strother Martin (Coffer)<br>
 
-L.Q. Jones (T.C.)
+L.Q. Jones (T.C.)<br>
 
-Albert Dekker (Pat Harrigan)
+Albert Dekker (Pat Harrigan)<br>
 
-Bo Hopkins (Crazy Lee)
+Bo Hopkins (Crazy Lee)<br>
 
-Dub Taylor (Mayor Wainscoat)
+Dub Taylor (Mayor Wainscoat)<br>
 
-Jorge Russek (Lieutenant Zamorra)
+Jorge Russek (Lieutenant Zamorra)<br>
 
-Alfonso Arau (Herrera)
+Alfonso Arau (Herrera)<br>
 
-Chano Urueta (Don José)
+Chano Urueta (Don José)<br>
 
-Sonia Amelio (Teresa)
+Sonia Amelio (Teresa)<br>
 
-Aurora Clavel (Aurora)
+Aurora Clavel (Aurora)<br>
 
-Elsa Cardenas (Elsa)
+Elsa Cardenas (Elsa)<br>
 
-Paul Harper (Ross)
+Paul Harper (Ross)<br>
 
-Bill Hart (Jess)
+Bill Hart (Jess)<br>
 
-Rayford Barnes (Buck)
+Rayford Barnes (Buck)<br>
 
-Steve Ferry (Sergeant McHale)
+Steve Ferry (Sergeant McHale)<br>
 
 Enrique Lucero (Ignacio)
 
@@ -185,5 +182,5 @@ USA 1969©
 
 145 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Njg2OTE1OV19
+eyJoaXN0b3J5IjpbMzU2NzQ5OTEwXX0=
 -->
