@@ -56,15 +56,12 @@ _Set Decorators_: Kang Dong-hun, Kim Soo-hyun, Kanitha Tith
 _Costumes_: Claire Dubien, Yi Choong-yun  
 _Make-up and Hair_: Kim Ju-young, Pascale Guégan  
 _Titles_: Fabien Fourcaud  
-_Original Music_: Jérémie Arcache,  
-Christophe Musset  
-_Music Performed by_: Jérémie Arcache,  
-Christophe Musset  
+_Original Music_: Jérémie Arcache,  Christophe Musset  
+_Music Performed by_: Jérémie Arcache,  Christophe Musset  
 _Music Recording and Mixing_: Etienne Caylou  
 _Sound Design_: Vincent Villa  
 _Sound Recordist_: Dirk Bombey  
-_Production Sound Mixer (Romania Unit)_:  
-Radu Nicolae  
+_Production Sound Mixer (Romania Unit)_:  Radu Nicolae  
 _Stunt Co-ordinator_: Jung Yoon-heon  
 _Piano Coach_: Vincent Mignault  
 _Dialect Coach_: Lee Jin-bo
@@ -94,5 +91,5 @@ A MUBI release
 The screening on Fri 5 May 18:00 will feature a  
 Q&A with director Davy Chou
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDA0ODk4OSw5MTUxMzE2MDVdfQ==
+eyJoaXN0b3J5IjpbMTY3NTM5MDg2NSw5MTUxMzE2MDVdfQ==
 -->
