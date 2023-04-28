@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Brainwashed - Sex-Camera-Power + Nina Menkes in Conversation
+published: true
+date: 2023-05-10
+readtime: true
+categories: ['IN PERSON & PREVIEWS']
+tags: [Documentary, Talks]
+metadata: 'USA 2022, 107 mins<br> Director: Nina Menkes'
+pdf: '2023-05-10-brainwashed.pdf'
+---
 
 ‘I hate working. I can’t stand working. I hate working. I can’t stand working.’ Ida, a young and alienated sex worker in East Los Angeles, insists in a disaffected cadence on how much she _hates_ work. Soon she will be accused of killing a john and sent to a prison ruled over by nuns, where she retreats deeper and deeper into her inner world. This is _Magdalena Viraga_, American independent filmmaker Nina Menkes’s dream-like yet urgent feature debut from 1986. Like so many of Menkes’s female protagonists, Ida is beautiful and she is alone. Profoundly alienated by work but dependent on its income to survive, she will eventually refuse to cooperate.
 
@@ -100,6 +110,45 @@ From Fri 12 May<br>
 **Phantom Love**<br>
 Sun 14 May 18:15; Mon 22 May 20:40<br>
 <br>
+
+**IN PERSON & PREVIEWS**<br>
+**Preview: Brainwashed: Sex-Camera-Power + Nina Menkes in Conversation**<br>
+Wed 10 May 18:00<br>
+**Dario Argento in Conversation**<br>
+Fri 12 May 18:20<br>
+**Mark Kermode Live in 3D at the BFI**<br>
+Mon 15 May 18:30<br>
+**TV Preview: Best Interests + Q&A with Sharon Horgan and Jack Thorne**<br>
+Mon 22 May 18:15<br>
+**Preview: The Old Man Movie: Lactopalypse! + Q&A with directors Mikk Magi and Oskar Lehemaa**<br>
+Fri 26 May 18:15<br>
+**World Premiere: Straight 8 2023 Top 25**<br>
+Sat 27 May 18:00<br> 
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbOTgzODQzOTgxXX0=
 -->
