@@ -105,80 +105,80 @@ Warren Oates _(Lyle Gorch)_<br>
 
 Jaime Sanchez _(Angel)_<br>
 
-Ben Johnson _(Tector Gorch)<br>
+Ben Johnson _(Tector Gorch)_<br>
 
-Emilio Fernández (Mapache)<br>
+Emilio Fernández _(Mapache)_<br>
 
-Strother Martin (Coffer)<br>
+Strother Martin _(Coffer)_<br>
 
-L.Q. Jones (T.C.)<br>
+L.Q. Jones _(T.C.)_<br>
 
-Albert Dekker (Pat Harrigan)<br>
+Albert Dekker _(Pat Harrigan)_<br>
 
-Bo Hopkins (Crazy Lee)<br>
+Bo Hopkins _(Crazy Lee)_<br>
 
-Dub Taylor (Mayor Wainscoat)<br>
+Dub Taylor _(Mayor Wainscoat)_<br>
 
-Jorge Russek (Lieutenant Zamorra)<br>
+Jorge Russek _(Lieutenant Zamorra)_<br>
 
-Alfonso Arau (Herrera)<br>
+Alfonso Arau _(Herrera)_<br>
 
-Chano Urueta (Don José)<br>
+Chano Urueta _(Don José)_<br>
 
-Sonia Amelio (Teresa)<br>
+Sonia Amelio _(Teresa)_<br>
 
-Aurora Clavel (Aurora)<br>
+Aurora Clavel _(Aurora)_<br>
 
-Elsa Cardenas (Elsa)<br>
+Elsa Cardenas _(Elsa)_<br>
 
-Paul Harper (Ross)<br>
+Paul Harper _(Ross)_<br>
 
-Bill Hart (Jess)<br>
+Bill Hart _(Jess)_<br>
 
-Rayford Barnes (Buck)<br>
+Rayford Barnes _(Buck)_<br>
 
-Steve Ferry (Sergeant McHale)<br>
+Steve Ferry _(Sergeant McHale)_<br>
 
-Enrique Lucero (Ignacio)<br>
+Enrique Lucero _(Ignacio)_<br>
 
-Elizabeth Dupeyron (Rocio)<br>
+Elizabeth Dupeyron _(Rocio)_<br>
 
-Yolanda Ponce (Yolis)<br>
+Yolanda Ponce _(Yolis)_<br>
 
-José Chávez (Juan José)<br>
+José Chávez _(Juan José)_<br>
 
-René Dupeyron (Juan)<br>
+René Dupeyron _(Juan)_<br>
 
-Pedro Galvan (Benson)<br>
+Pedro Galvan _(Benson)_<br>
 
-Graciela Doring (Emma)<br>
+Graciela Doring _(Emma)_<br>
 
-Major Perez (Perez)<br>
+Major Perez _(Perez)_<br>
 
 Fernando Wagner
 
-(Mohr, German army officer)<br>
+_(Mohr, German army officer)_<br>
 
-Jorge Rado (Ernst)<br>
+Jorge Rado _(Ernst)_<br>
 
-Ivan Scott (paymaster)<br>
+Ivan Scott _(paymaster)_<br>
 
-Sra. Madero (Margaret)<br>
+Sra. Madero _(Margaret)_<br>
 
-Margarito Luna (Luna)<br>
+Margarito Luna _(Luna)_<br>
 
-Chalo González (Gonzalez)<br>
+Chalo González _(Gonzalez)_<br>
 
-Lilia Castillo (Lilia)<br>
+Lilia Castillo _(Lilia)_<br>
 
-Elizabeth Unda (Carmen)<br>
+Elizabeth Unda _(Carmen)_<br>
 
-Julio Corona (Julio)<br>
+Julio Corona _(Julio)_<br>
 
 USA 1969©<br>
 
 145 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTUxNzgyM119
+eyJoaXN0b3J5IjpbLTY2NzQ4NzY3Nl19
 -->
