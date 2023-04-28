@@ -39,73 +39,73 @@ _Assistant Directors:_ Cliff Coleman, Fred Gammon<br>
 
 _Script Supervisor:_ Crayton Smith<br>
 
-_Screenplay by: Walon Green, Sam Peckinpah<br>
+_Screenplay by:_ Walon Green, Sam Peckinpah<br>
 
-Story by: Walon Green, Roy N. Sickner<br>
+_Story by:_ Walon Green, Roy N. Sickner<br>
 
-Director of Photography: Lucien Ballard<br>
+_Director of Photography:_ Lucien Ballard<br>
 
-Key Grip: Bud Gaunt<br>
+_Key Grip:_ Bud Gaunt<br>
 
-Special Effects: Bud Hulburd<br>
+_Special Effects:_ Bud Hulburd<br>
 
-Editor: Louis Lombardo<br>
+_Editor:_ Louis Lombardo<br>
 
-Associate Film Editor: Robert L. Wolfe<br>
+_Associate Film Editor:_ Robert L. Wolfe<br>
 
-Art Director: Edward Carrere<br>
+_Art Director:_ Edward Carrere<br>
 
-Wardrobe Supervisor: Gordon Dawson<br>
+_Wardrobe Supervisor:_ Gordon Dawson<br>
 
-Makeup: Al Greenway<br>
+_Makeup:_ Al Greenway<br>
 
-Filmed in: Panavision<br>
+_Filmed in:_ Panavision<br>
 
-Colour by: Technicolor<br>
+_Colour by:_ Technicolor<br>
 
-Music by: Jerry Fielding<br>
+_Music by:_ Jerry Fielding<br>
 
-Music Supervised by: Sonny Burke<br>
+_Music Supervised by:_ Sonny Burke<br>
 
-Sound: Robert J. Miller<br>
+_Sound:_ Robert J. Miller<br>
 
-We wish to express our appreciation to:
+_We wish to express our appreciation to:_
 
 General de Bgda. E.E. Procopio<br>
 
 _uncredited_<br>
 
-Properties: Phil Ankrum<br>
+_Properties:_ Phil Ankrum<br>
 
-Supervising Recording Mixer: Gordon Davis<br>
+_Supervising Recording Mixer:_ Gordon Davis<br>
 
-Supervising Sound Editor: Edwin Scheid<br>
+_Supervising Sound Editor:_ Edwin Scheid<br>
 
-Sound Editors: William Mauch, William Rivol,
+_Sound Editors:_ William Mauch, William Rivol,
 
 Joe Kavigan, John Young, Stan Martin<br>
 
-Supervising Dialogue Editor: Harold Fisher<br>
+_Supervising Dialogue Editor:_ Harold Fisher<br>
 
-Dialogue Editors: Al Cavigga, Robert Barrett<br>
+_Dialogue Editors:_ Al Cavigga, Robert Barrett<br>
 
 _Studio:_ Estudios Churubusco
 
-Cast:<br>
+**Cast**<br>
 
-William Holden (Pike Bishop)<br>
+William Holden _(Pike Bishop)_<br>
 
-Ernest Borgnine (Dutch Engstrom)<br>
+Ernest Borgnine _(Dutch Engstrom)_<br>
 
-Robert Ryan (Deke Thornton)<br>
+Robert Ryan _(Deke Thornton)_<br>
 
-Edmond O’Brien (Freddie Sykes)<br>
+Edmond O’Brien _(Freddie Sykes)_<br>
 
-Warren Oates (Lyle Gorch)<br>
+Warren Oates _(Lyle Gorch)_<br>
 
-Jaime Sanchez (Angel)<br>
+Jaime Sanchez _(Angel)_<br>
 
-Ben Johnson (Tector Gorch)<br>
+Ben Johnson _(Tector Gorch)<br>
 
 Emilio Fernández (Mapache)<br>
 
@@ -180,5 +180,5 @@ USA 1969©<br>
 145 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDMzNDc0M119
+eyJoaXN0b3J5IjpbMjA4MTUxNzgyM119
 -->
