@@ -12,26 +12,21 @@ That Freddie also drinks to excess is a possible example of a ‘Korean trait’
 
 It’s a slight surprise when what seems like a small, localised story of self-exploration takes a temporal leap – five years into its own future, then a further three. But the shift in time reminds us that such a young woman is still evolving in terms of her own behaviour and self-presentation; that an identity crisis doesn’t vanish overnight; and that it’s no straightforward matter for a mother to reconcile with an adult child whom someone else has raised. Freddie does not become easier company, however, nor give more away about how she really feels – and that can get wearing. We continue to get rather too much of her being spectacularly selfish while gentler people fret in her wake. A development whereby an older Frenchman gets her involved in arms dealing is intellectually and morally interesting, but it feels unmoored because we know so little about Freddie’s actual skills and interests, and risks being too blunt a metaphor for her moral disconnectedness.
 
-The eventual encounter between Freddie and her birth mother, however, sweeps all awkwardness away. It is splendidly handled, with delicacy, openness and an awareness that there’s simply no straightforward nor correct way for either woman to feel in this situation. Also wonderfully portrayed, throughout the film, is Freddie’s relationship with her father’s sister, played by Kim Sun-young. While Freddie sulks and her father self-flagellates, Freddie’s aunt is indefatigably affectionate and touching in her efforts to understand Freddie’s world. She embodies both the power of uncomplicated affection and the hope of change; in doing so she reminds us that cynicism and self-reliance are not necessarily the mature choices they can seem when you’re very young. Learning that Freddie now deals in weapons, she asks with polite alarm, ‘For war?’ ‘For peace – in theory,’ Freddie responds. It is in that gap – between self-protection and exposure; between theory and reality – that this spirited, stimulating film finds its resonance.
+The eventual encounter between Freddie and her birth mother, however, sweeps all awkwardness away. It is splendidly handled, with delicacy, openness and an awareness that there’s simply no straightforward nor correct way for either woman to feel in this situation. Also wonderfully portrayed, throughout the film, is Freddie’s relationship with her father’s sister, played by Kim Sun-young. While Freddie sulks and her father self-flagellates, Freddie’s aunt is indefatigably affectionate and touching in her efforts to understand Freddie’s world. She embodies both the power of uncomplicated affection and the hope of change; in doing so she reminds us that cynicism and self-reliance are not necessarily the mature choices they can seem when you’re very young. Learning that Freddie now deals in weapons, she asks with polite alarm, ‘For war?’ ‘For peace – in theory,’ Freddie responds. It is in that gap – between self-protection and exposure; between theory and reality – that this spirited, stimulating film finds its resonance.  
+**Hannah McGill, _Sight and Sound_, May 2023**
 
-Hannah McGill, _Sight and Sound_, May 2023
-
-**Davy Chou on ‘Return to Seoul’**
-
+**Davy Chou on ‘Return to Seoul’**  
 At the outset, the film was going to just be lunch and dinner scenes, following Freddie over several years as she eats with her family. At that time, I was thinking of Hong Sangsoo. But I was conscious that if you’re too influenced by Korean masters, you’ll be derivative and it’ll be boring. For the film’s ellipses, I was inspired by _Moonlight_ [2016], the only film I can think of that has this kind of structure. Maybe I was also thinking of _Toni Erdmann_ [2016] a bit, in terms of structure, following a character who’s not very easy to like at the beginning, and taking the time to unfold and connect with the audience.
 
 As for the look of the film, I was thinking of two movies in particular: _Good Time_ [2017] and _Uncut Gems_ [2019] by the Safdie brothers. I was so impressed by their consistent capacity to film chaos. In _Return to Seoul_, as soon as Freddie feels pressurised or cornered, her immediate impulse is to break the boundaries and the frames, turn the tables, and create chaos to take back control. That dynamic between control and chaos is key to the character.
 
 Another reference was Nadav Lapid’s _Synonyms_ [2019] – [I was struck by] how it reaches a Godardian freedom in form, and the way it can be seen as a kind of struggle or dance between camera and actor, or between story and character.
 
-The second part of _Return to Seoul_ is much more stylish, as Freddie finds herself safe and secure in Seoul’s underground nightlife. We were thinking of very distant influences like David Fincher’s _The Girl with the Dragon Tattoo_ [2011], [Hou Hsiao-hsien’s] _Millennium Mambo_ [2001], and even _The Matrix_ [1999]. We had fun mixing such different reference points into the realism of _Return to Seoul_. It gets to the very DNA of the film: hybridity and a quest for identity, shaped with Asian, American and European influences.
+The second part of _Return to Seoul_ is much more stylish, as Freddie finds herself safe and secure in Seoul’s underground nightlife. We were thinking of very distant influences like David Fincher’s _The Girl with the Dragon Tattoo_ [2011], [Hou Hsiao-hsien’s] _Millennium Mambo_ [2001], and even _The Matrix_ [1999]. We had fun mixing such different reference points into the realism of _Return to Seoul_. It gets to the very DNA of the film: hybridity and a quest for identity, shaped with Asian, American and European influences.  
+**Interview by Arjun Sajip, _Sight and Sound_, May 2023**
+<br><br>
 
-Interview by Arjun Sajip, _Sight and Sound_, May 2023
-
-<![endif]-->
-
-**RETURN TO SEOUL (RETOUR À SÉOUL)**
-
+**RETURN TO SEOUL (RETOUR À SÉOUL)**  
 _Directed by_: Davy Chou  
 ©: Aurora Films, Vandertastic, Frakas Productions  
 _Production Company_: Aurora Films, Vandertastic, Frakas Productions  
@@ -39,8 +34,7 @@ _Presented by_: Aurora Films
 _International Sales_: MK2 Films  
 _Executive Producer Romania_: Diana Paroiu  
 _Produced by_: Charlotte Vincent, Katia Khazak  
-_Co-produced by_: Hanneke van der Tas,  
-Cassandre Warnauts, Jean-Yves Roubin  
+_Co-produced by_: Hanneke van der Tas,  Cassandre Warnauts, Jean-Yve Roubin  
 _Production Manager_: Rémi Veyrié  
 _Production Manager South Korea_: K. Jonathan Park  
 _Post-production Supervisor_: Lizette Nagy Patiño  
@@ -56,8 +50,7 @@ _Screenplay Consultant_: Violette Garcia
 _Director of Photography_: Thomas Favel  
 _Special Effects_: Yannig Willmann  
 _Editor_: Dounia Sichov  
-_Production Designers_: Shin Bo-koung,  
-Choi Chi-youl  
+_Production Designers_: Shin Bo-koung,  Choi Chi-youl  
 _Art Director_: Jin Hyun-jeong  
 _Set Decorators_: Kang Dong-hun, Kim Soo-hyun, Kanitha Tith  
 _Costumes_: Claire Dubien, Yi Choong-yun  
@@ -101,5 +94,5 @@ A MUBI release
 The screening on Fri 5 May 18:00 will feature a  
 Q&A with director Davy Chou
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1MTMxNjA1XX0=
+eyJoaXN0b3J5IjpbLTY1NDA0ODk4OSw5MTUxMzE2MDVdfQ==
 -->
