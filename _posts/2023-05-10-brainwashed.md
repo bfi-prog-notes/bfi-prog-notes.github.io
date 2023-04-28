@@ -12,13 +12,11 @@ Menkes grew up in a leftist Jewish family in Berkeley, California, during the 19
 
 Menkes started making films while at UCLA in Berkeley. The first of these, _A Soft Warrior_, from 1981 – a short, ritualistic film shot on Super 8 – marked the start of an intense collaboration with her sister, Tinka. A punk cipher of feminine rage and resistance, and a defiant performer with an astounding physical presence, Tinka is the magnetic centre of Menkes’s early films through to _The Bloody Child_ (1996).
 
-In _The Great Sadness of Zohara_ (1983), Tinka plays an Orthodox Jewish woman on a journey to the other side. (‘For a Jewish girl from Jerusalem, the so-called “other side” is the Arab world’). Borrowing $5,000 from UCLA, the Menkes sisters set off for Jerusalem and North Africa. This densely incantatory short rewires the archetypal hero’s quest – explored in the work of Jung or Joseph Campbell’s 1949 study of quest narratives,  
-_The Hero with a Thousand Faces_ – from a distinctively feminine perspective: ‘In classic narratives you have a hero who leaves home, travels into foreign lands, slays dragons, grabs the princess and brings her home. A perfect example of sexist imperialism.’ Shooting on 16mm film, they didn’t see the footage until they got back to LA. Menkes was shocked when she saw the material: ‘My god, this woman is so alienated. It was as if the camera captured my inner truth. The film was like a dream that was talking back to me. And this was before I got into analysis!’
+In _The Great Sadness of Zohara_ (1983), Tinka plays an Orthodox Jewish woman on a journey to the other side. (‘For a Jewish girl from Jerusalem, the so-called “other side” is the Arab world’). Borrowing $5,000 from UCLA, the Menkes sisters set off for Jerusalem and North Africa. This densely incantatory short rewires the archetypal hero’s quest – explored in the work of Jung or Joseph Campbell’s 1949 study of quest narratives,  _The Hero with a Thousand Faces_ – from a distinctively feminine perspective: ‘In classic narratives you have a hero who leaves home, travels into foreign lands, slays dragons, grabs the princess and brings her home. A perfect example of sexist imperialism.’ Shooting on 16mm film, they didn’t see the footage until they got back to LA. Menkes was shocked when she saw the material: ‘My god, this woman is so alienated. It was as if the camera captured my inner truth. The film was like a dream that was talking back to me. And this was before I got into analysis!’
 
 Menkes’s films have minimal, albeit potent, narratives, which fracture and split apart, and even double in later films. They return to symbolically redolent, barren landscapes (the desert, the casino, the run-down motel) and are punctuated by periods of extreme stasis in which nothing much happens. A gesture or act is extended beyond its normal duration in a film, like the unforgettable 17-minute blackjack sequence in _Queen of Diamonds_ (1991), a hypnotic portrait of alienated labour. But then an image will suddenly conspire to take your breath away. Protagonists seem numb to extraordinary events – a death, a burning palm tree in the desert – but audiences, if they submit, may be riveted. ‘Some people think _Magdalena Viraga_ was influenced by Chantal Akerman, but I made that film before I saw _Jeanne Dielman_. _Queen of Diamonds_ was certainly influenced by it though.’
 
-Why, then, does she reject the term ‘experimental’? ‘At least in Hollywood, “experimental” was something of a dirty word. It gave the impression of very low budgets, which was true, although I always wanted one! It also suggested completely non-narrative films.  
-I’ve always been interested in narrative arcs and characters. Do people call David Lynch, Antonioni, Tarkovsky experimental filmmakers? No, they are just original. One of the reasons my work was labelled experimental was that it went against the whole male perspective on life. I don’t think my films are experimental, they are just oppositional.’
+Why, then, does she reject the term ‘experimental’? ‘At least in Hollywood, “experimental” was something of a dirty word. It gave the impression of very low budgets, which was true, although I always wanted one! It also suggested completely non-narrative films.  I’ve always been interested in narrative arcs and characters. Do people call David Lynch, Antonioni, Tarkovsky experimental filmmakers? No, they are just original. One of the reasons my work was labelled experimental was that it went against the whole male perspective on life. I don’t think my films are experimental, they are just oppositional.’
 
 _The Bloody Child_ shows Menkes at her most intense and hallucinatory. Originating in a _Los Angeles Times_ news clipping about a Gulf War veteran who murdered his pregnant wife and was found digging her grave in the desert, ‘this little story contained everything: about violence and patriarchal constructs. I knew I had to dive into it, but also knew I had to approach this differently.’ Menkes shot the film without a script, because she wanted to take her philosophy (‘We jump into the unknown and find the truth’) and push it to the max. We never see the murder but follow the unfolding story horizontally, through piercing shards of repetitive, cyclical action, like the displays of toxic masculinity from the off-duty Marines. At times, I find the film almost unbearable because of its claustrophobic tension, but am dragged back in by the startling beauty of its images. Menkes calls _The Bloody Child_ ‘the descent into hell… there was nowhere to go but up towards the light.’ The films that come after it are more accessible, more narrative in a traditional sense. _Phantom Love_ (2007), her first film in black and white, is also her most explicitly surrealist, with evocative dream images that can be parsed relatively straightforwardly.
 
@@ -26,33 +24,25 @@ Menkes returns us to the bustling casino and the disaffected female croupier of 
 
 Because _Phantom Love_ portrayed ‘a sort of illumination’ after the darkness of _The Bloody Child_, Menkes felt ready to explore something different next. Her first film shot digitally, _Dissolution_ (2010) also features her first male protagonist, played by Israeli actor Didi Fire. Menkes takes on the ‘wounded male counterpart to the alienated female character I’d been tracking all these years.’ His violence towards the feminine is also tied, Menkes notes, to Israeli violence against the Palestinians. Male violence is not glorified or celebrated, because he’s shown as ‘morally corrupt and weak inside’.
 
-Placing a man at the heart of her work for the first time prepared her to make a film like _Brainwashed_. Though it sounds like a bold step into the unknown, she is also revisiting familiar terrain, mining subjects and themes she’s explored before. ‘I just didn’t have the reverence for the masterful male filmmakers that others had. This is not to say I don’t revere great filmmakers, but I was always aware that the position of women in these films was not representative. I didn’t see some of the classic patriarchal films until fairly late in my filmmaking. I was literally afraid to see those films. I thought they would destroy me.’
+Placing a man at the heart of her work for the first time prepared her to make a film like _Brainwashed_. Though it sounds like a bold step into the unknown, she is also revisiting familiar terrain, mining subjects and themes she’s explored before. ‘I just didn’t have the reverence for the masterful male filmmakers that others had. This is not to say I don’t revere great filmmakers, but I was always aware that the position of women in these films was not representative. I didn’t see some of the classic patriarchal films until fairly late in my filmmaking. I was literally afraid to see those films. I thought they would destroy me.’  
+**Sophia Satchell-Baeza, _Sight and Sound_, May 2023**
+<br><br>
 
-Sophia Satchell-Baeza, _Sight and Sound_, May 2023
-
-<![endif]-->
-
-**BRAINWASHED: SEX-CAMERA-POWER**
-
+**BRAINWASHED: SEX-CAMERA-POWER**  
 _Directed by_: Nina Menkes  
 ©: Brainwashedmovie LLC  
 _Logos_: Menkesfilm, Eos World Fund, CalArts Center for New Performance  
-_Executive Producers_: Tim Disney,  
-Susan Disney Lord, Abigail Disney  
+_Executive Producers_: Tim Disney,  Susan Disney Lord, Abigail Disney  
 _Produced by_: Nina Menkes  
 _Line Producer (Atlanta Production Unit)_: Nsenga Burton  
-_Line Producer (Beverly Hills Production Unit/Los Angeles Production Unit)_:  
-Sijia Ma  
+_Line Producer (Beverly Hills Production Unit/Los Angeles Production Unit)_:  Sijia Ma  
 _Line Producer (Mar Del Plata, Argentina Production Unit - Santiago San Martin Media)_: Santiago San Martin  
 _Line Producer (London Production Unit - Onerva Pictures)_: Tanja Rusi  
-_Creative Producers_: Inka Rusi,  
-Cecily Rhett  
+_Creative Producers_: Inka Rusi,  Cecily Rhett  
 _Unit Production Manager (Silverlake, LA Production Unit)_: Daphne Teng  
-_Post-production Supervisor_:  
-Jim Rosenthal  
+_Post-production Supervisor_:  Jim Rosenthal  
 _Film Research_: Sarah Ben Hardouze, Francis Disney  
-_Based on the talk ‘Sex and Power: The Visual Language of Cinema’ by_:  
-Nina Menkes  
+_Based on the talk ‘Sex and Power: The Visual Language of Cinema’ by_:  Nina Menkes  
 _Director of Photography_: Shana Hagan  
 _Director of Photography (Brooklyn Academy of Music Production Unit)_: Jeffrey Clanet  
 _Director of Photography (Beverly Hills Production Unit/West LA Production Unit)_: Sandra Chandler  
@@ -126,5 +116,5 @@ From Fri 12 May
 
 Sun 14 May 18:15; Mon 22 May 20:40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjQ1MDI4Nl19
+eyJoaXN0b3J5IjpbMTk3MzczMDMyN119
 -->
