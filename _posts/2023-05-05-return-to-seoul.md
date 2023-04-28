@@ -1,3 +1,14 @@
+---
+layout: post
+title: Return to Seoul
+published: true
+date: 2023-05-05
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'France-Germany-Belgium-South Korea-Cambodia-Romania-Qatar 2022, 119 mins<br> Director: Davy Chou'
+pdf: '2023-05-05-return-to-seoul.pdf'
+---
 
 ‘Loosely based upon the life of Laure Badufle’, reads an intertitle in the credits of _Return to Seoul_. Laure Badufle is a friend of the film’s director, Davy Chou, and an adoptee from South Korea raised by a French family. In 2011, Chou – who is French-Cambodian – accompanied Badufle to a meeting with her biological father, which she was nervous to attend alone and for which she required a French-Korean translator. The unexpected emotional intensity of what Chou witnessed – the meeting was, he told the _New York Times_ earlier this year, ‘sad, heavy, but also a bit funny – in the way a tragedy can be funny’ – was the spark for this film.
 
@@ -5,8 +16,7 @@ Our adoptee becomes Freddie, played by Park Ji-min, a headstrong young woman who
 
 It’s a question that goes straight to the heart of some very current cultural neuroses. The idea that behavioural tendencies affix to race or nationhood at all is unfashionable, associated as it is with historical notions of superiority and inferiority. Yet we also occupy an era singularly preoccupied with origins, heredity and the respectful acknowledgment of cultural sensitivities and differences. Anyone who has made their home far from their birthplace, or who simply travels a lot, knows that social and cultural differences are often neither subtle nor trivial – yet it still feels subversive to have (Korean) characters talk as openly as they do here about Freddie having a ‘Korean face’, let alone whether or not she has ‘pure Korean traits’. Freddie’s situation affirms the ineffable importance of knowing at least something of your own origins, but at the same time highlights the limitations of an identity politics based on authenticity or innate belonging. Is Freddie Korean because her genes are Korean, even though she neither remembers Korea nor relates to what Korean-ness seems to ask of her? Is she French because the only life she remembers is French? Does it matter?
 
-Implicitly, and no less awkwardly, Freddie has also changed social class. She’s affluent enough, we learn in passing, to have made regular recreational trips to Japan; she has the sophistication and brash self-assurance of moneyed youth.  
-Her birth father (Oh Kwang-rok), whom she meets first, has had no such opportunities and evinces no such swagger. He is rural, shy, stricken with emotion upon encountering her, and a drunk. Freddie’s extreme sullenness upon meeting him is certainly his belated punishment for rejecting her – but it may also contain an element of snobbery. These are her people, but they aren’t her kind of people.  A pair of pink shoes becomes poignantly emblematic of Freddie’s father’s need, and of her hostility. Desperate to please her, he buys them for her from a roadside vendor. She abandons them under a park bench.
+Implicitly, and no less awkwardly, Freddie has also changed social class. She’s affluent enough, we learn in passing, to have made regular recreational trips to Japan; she has the sophistication and brash self-assurance of moneyed youth.  Her birth father (Oh Kwang-rok), whom she meets first, has had no such opportunities and evinces no such swagger. He is rural, shy, stricken with emotion upon encountering her, and a drunk. Freddie’s extreme sullenness upon meeting him is certainly his belated punishment for rejecting her – but it may also contain an element of snobbery. These are her people, but they aren’t her kind of people.  A pair of pink shoes becomes poignantly emblematic of Freddie’s father’s need, and of her hostility. Desperate to please her, he buys them for her from a roadside vendor. She abandons them under a park bench.
 
 That Freddie also drinks to excess is a possible example of a ‘Korean trait’ – the role of drinking in Korean culture is emphasised in the film – but also serves here as a reminder that there’s not much point trying to find out who you are if you have trouble remembering where you’ve been. Perceptions of the role of alcohol in this film may vary according to the viewer’s own relationship with it, but one interpretation is that the relationship Freddie really needs to sort out is the one she has with booze.
 
@@ -86,6 +96,49 @@ A MUBI release
 
 The screening on Fri 5 May 18:00 will feature a  Q&A with director Davy Chou
 <br><br>
+
+**NEW RELEASES**<br>
+**Return to Seoul (Retour à Séoul)**<br>
+From Fri 5 May<br>
+**The Blue Caftan (Le Bleu du Caftan)**<br>
+From Fri 5 May<br>
+**Brainwashed: Sex-Camera-Power**<br>
+From Fri 12 May<br>
+**Plan 75**<br>
+From Fri 19 May<br>
+
+**RE-RELEASES**<br>
+**Young Soul Rebels**<br>
+Continues from Fri 28 Apr<br>
+**The Passion of Remembrance**<br>
+Continues from Fri 28 Apr<br>
+**The Three Colours Trilogy**<br>
+From Fri 26 May<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwMDQ2MjQxNTcsOTE1MTMxNjA1XX0=
 -->
