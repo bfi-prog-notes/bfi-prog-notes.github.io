@@ -1,4 +1,4 @@
-<![endif]-->
+
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
@@ -7,10 +7,8 @@ best-known shade of pre-war French noir.
 
 Through striking use of flashbacks, the film tells the story of François (Gabin), a factory worker romantically involved with young florist Françoise (Jacqueline Laurent) as well as with Clara (Arletty), assistant to louche entertainer and seducer Valentin (Jules Berry). François kills Valentin out of jealousy over Françoise and despite support from those around him, kills himself when the police close in.
 
-Locked in his room for the duration of the film, Gabin brilliantly inhabits his tragic working-class hero, his minimalist acting style chiming perfectly against the superlative Arletty and flamboyant Berry. Despite its ironically hopeful title, _Le Jour se lève_ summed up the anxieties of a country on the brink of war.  
-It also seems to us today, as André Bazin put it, to embody ‘the ideal qualities of a cinematic paradise lost’.
-
-Ginette Vincendeau, _Sight and Sound_, November 2016
+Locked in his room for the duration of the film, Gabin brilliantly inhabits his tragic working-class hero, his minimalist acting style chiming perfectly against the superlative Arletty and flamboyant Berry. Despite its ironically hopeful title, _Le Jour se lève_ summed up the anxieties of a country on the brink of war.  It also seems to us today, as André Bazin put it, to embody ‘the ideal qualities of a cinematic paradise lost’.  
+**Ginette Vincendeau, _Sight and Sound_, November 2016**
 
 This film probably represents the peak of the achievement of the director Marcel Carné working in association with the poet Jacques Prévert. In _Le Quai des brumes_ and _Le Jour se lève_ Prévert’s feeling for spiritual defeat and Carné’s hard sense of locality and character blended perfectly. Touched with a certain popular sentimentality (the orphans in love) and the element of horror (the vaudeville artist and his treatment of his dogs), _Le Jour se lève_ is grounded on real human experience of love and beauty and ugliness.
 
@@ -22,57 +20,54 @@ It is a melancholy thought that the post-war malaise of France has allowed the t
 
 Technically _Le Jour se lève_ is a most exciting film. By leading off with the harsh establishment of an act of violence in the middle of a scene of ordinary tenement life, it might be said that Carné played a strong card anyhow, but an examination of the methods by which the tension at the beginning of the film is created in terms of good cinema technique shows that he does not simply depend on the shock of the mortally wounded man reeling out of François’s room to establish the effect for him. The tension is established first by Jaubert’s sinister music which has something of the same effect as that which accompanies the camera moving up the ironwork gates of Xanadu at the beginning of _Citizen Kane._ The scene is established by the briefest shots seen over the backs of two cart-horses in the foreground, with the tall tenement standing in the background of the grim little industrial place. Then the door at the head of the stairs is seen, shots are heard behind it, the door is wrenched open, a man in a check coat staggers out with his hands pressed to his belly.  
 He tips and falls down the stairs to the landing below up to which a blind man is climbing, tapping with his stick. This last touch reaches its climax with the blind man’s terrified cries as he feels the body with the stick. The atmosphere  
-is not one of mere violence; it is one of portentous violence. The difference is created by the selective, rhythmic, suggestive handling of the incident and  
-its locality.
+is not one of mere violence; it is one of portentous violence. The difference is created by the selective, rhythmic, suggestive handling of the incident and its locality.
 
 There are many scenes, combining a careful choice of background with an equal, careful choice of character acting, which suggest the significance of the theme to the viewer. This feeling for the medium as well as for the theme is the sign of artistic maturity. There is profound irony in the handling of the deployment of the small arm of police and the watching crowd which is friendly to François but enjoys the spectacle of his trouble; this is in its way as subtle as the contrast of the isolated man in the high attic tower smoking his last cigarettes and putting his memories and emotions into shape to the accompaniment of low pulsations of music like the rhythms of a dying heart.
 
 Never did flashbacks emerge more necessarily from the psychology of a story than do those which François is forced to recall before our eyes: they come as naturally as the imaginary reconstruction created during a sleepless night of emotional anxiety. The music swells up to bursting point as each memory is born. On the other hand there is great tenderness in both kinds of love scene which occur throughout this dark toned film, the sacred love for Françoise epitomised in the simple scene in her bedroom and transfigured in the lovely scene in the greenhouse of flowers (themselves the symbol of her fresh, young beauty), and the profane love for Clara, an honest love of the body based on an easy and friendly acceptance of pleasure.
 
-The two women, united in the last attempt to protect their man at the tragic end of the film, are portrayed in fine contrast by the remote, innocent Jacqueline Laurent and the superbly casual Arletty. Jean Gabin, with his suggestion of the workman poet who does not know his own sensitivity, is equally well cast. But the outstanding performance of the film, because it is the most difficult to make really convincing, is that of Jules Berry as the fanatic masochist, the showman who must give pain for its own sake, even to himself. The terrific characterisation is completely successful: the madness is in his veins and not merely in his contract, as seemed the case with Vincent Price’s portrayal of the same man in the American version of the story.
+The two women, united in the last attempt to protect their man at the tragic end of the film, are portrayed in fine contrast by the remote, innocent Jacqueline Laurent and the superbly casual Arletty. Jean Gabin, with his suggestion of the workman poet who does not know his own sensitivity, is equally well cast. But the outstanding performance of the film, because it is the most difficult to make really convincing, is that of Jules Berry as the fanatic masochist, the showman who must give pain for its own sake, even to himself. The terrific characterisation is completely successful: the madness is in his veins and not merely in his contract, as seemed the case with Vincent Price’s portrayal of the same man in the American version of the story.  
+**Roger Manvell, National Film Theatre programme notes, 1955**
+<br><br>
 
-Roger Manvell, National Film Theatre programme notes, 1955
+**LE JOUR SE LÈVE (DAYBREAK)**<br>
 
-<![endif]-->
+_Director:_ Marcel Carné<br>
 
-**LE JOUR SE LÈVE (DAYBREAK)**
+_Production Company:_ Productions Sigma<br>
 
-_Director:_ Marcel Carné
+_Production Manager:_ Paul Madeux<br>
 
-_Production Company:_ Productions Sigma
+_Assistant Directors:_ Pierre Blondy, Jean Fazy<br>
 
-_Production Manager:_ Paul Madeux
+_Screenplay:_ Jacques Viot<br>
 
-_Assistant Directors:_ Pierre Blondy, Jean Fazy
-
-_Screenplay:_ Jacques Viot
-
-_Adaptation/Dialogue:_ Jacques Prévert
+_Adaptation/Dialogue:_ Jacques Prévert<br>
 
 _Directors of Photography:_ Curt Courant,  
-Philippe Agostini, André Bac
+Philippe Agostini, André Bac<br>
 
-_Editor:_ René Le Hénaff
+_Editor:_ René Le Hénaff<br>
 
-_Art Director:_ Alexandre Trauner
+_Art Director:_ Alexandre Trauner<br>
 
-_Costumes:_ Boris Bilinsky
+_Costumes:_ Boris Bilinsky<br>
 
-_Music:_ Maurice Jaubert
+_Music:_ Maurice Jaubert<br>
 
-_Sound:_ Armand Petitjean
+_Sound:_ Armand Petitjean<br>
 
-_Cast:_
+_Cast:_<br>
 
-Jean Gabin _(François)_
+Jean Gabin _(François)_<br>
 
-Jacqueline Laurent _(Françoise)_
+Jacqueline Laurent _(Françoise)_<br>
 
-Arletty _(Clara)_
+Arletty _(Clara)_<br>
 
-Jules Berry _(Monsieur Valentin)_
+Jules Berry _(Monsieur Valentin)_<br>
 
-Arthur Devère _(Gerbois)_
+Arthur Devère _(Gerbois)_<br>
 
 Bernard Blier _(Gaston)_
 
@@ -118,5 +113,6 @@ France 1939
 
 93 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzEzNTA3OTldfQ==
+eyJoaXN0b3J5IjpbLTE2NTcyNDg5NTksLTEwMzEzNTA3OTldfQ
+==
 -->
