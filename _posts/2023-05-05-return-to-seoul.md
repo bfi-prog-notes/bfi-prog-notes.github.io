@@ -66,8 +66,7 @@ _Stunt Co-ordinator_: Jung Yoon-heon
 _Piano Coach_: Vincent Mignault  
 _Dialect Coach_: Lee Jin-bo
 
-_Cast:_
-
+**Cast**  
 Park Ji-min _(Freddie)_  
 Oh Kwang-rok _(Korean father)_  
 Guka Han _(Tena)_  
@@ -75,21 +74,18 @@ Kim Sun-young _(aunt)_
 Yoann Zimmer _(Maxime)_  
 Louis Dominique de Lencquesaing _(André)_  
 Hur Ouk-sook _(grandmother)_  
-Son Seung-beom_  
-(Dongwan, ‘the francophone friend’)_  
+Son Seung-beom _(Dongwan, ‘the francophone friend’)_  
 Kim Dong-seok _(Jiwan, ‘boy with fringe’)_  
 Émeline Briffaud _(Lucie)_  
 Lim Cheol-hyun _(Kay-Kay)_
 
-France-Germany-Belgium-South Korea-  
-Cambodia-Romania-Qatar 2022©
-
+France-Germany-Belgium-South Korea-Cambodia-Romania-Qatar 2022©  
 119 mins
 
 A MUBI release
 
-The screening on Fri 5 May 18:00 will feature a  
-Q&A with director Davy Chou
+The screening on Fri 5 May 18:00 will feature a  Q&A with director Davy Chou
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTM5MDg2NSw5MTUxMzE2MDVdfQ==
+eyJoaXN0b3J5IjpbLTIwMDQ2MjQxNTcsOTE1MTMxNjA1XX0=
 -->
