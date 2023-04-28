@@ -63,8 +63,7 @@ _Set Designer (CalArts Walt Disney Modular Theater Production Unit)_: Mengquing 
 _Graphic Designer_: Natalie Gooden  
 _Main Title, Animation and Graphic Design_: Compost Creative  
 _Music by_: Sharon Farber  
-_Music Scoring Mixer/Music Editor_:  
-Michael Stern  
+_Music Scoring Mixer/Music Editor_:  Michael Stern  
 _Sound Design_: Lucas Fehring  
 _Sound Mixer (Atlanta Production Unit)_: Chris Mills  
 _Sound Mixer (Beverly Hills Production Unit)_: Theresa Radka  
@@ -79,42 +78,28 @@ _Sound Mixer (Silverlake, LA Production Unit)_: Scott Esterly
 _Re-recording Mixer_: Michael Stern  
 _Supervising Sound Editor_: Michael Stern
 
-USA 2022©
-
+USA 2022©  
 107 mins
 
 A BFI release
+<br><br>
 
-**CINEMATIC SORCERESS: THE FILMS OF  
-NINA MENKES**
-
-**Magdalena Viraga**
-
-Sat 6 May 13:20; Wed 31 May 20:30
-
-**The Great Sadness of Zohara**
-
-Sun 7 May 16:10; Mon 29 May 16:20
-
-**Queen of Diamonds**
-
-Tue 9 May 18:20 (+ Q&A with Nina Menkes); Wed 24 May 20:30
-
-**Dissolution (Hitparkut)**
-
-Tue 9 May 20:30 (+ Q&A with Nina Menkes); Sat 20 May 18:20
-
-**The Bloody Child**
-
-Thu 11 May 20:30; Sat 27 May 13:40
-
-**Brainwashed: Sex-Camera-Power**
-
-From Fri 12 May
-
-**Phantom Love**
-
-Sun 14 May 18:15; Mon 22 May 20:40
+**CINEMATIC SORCERESS: THE FILMS OF  NINA MENKES**<br>
+**Magdalena Viraga**<br>
+Sat 6 May 13:20; Wed 31 May 20:30<br>
+**The Great Sadness of Zohara**<br>
+Sun 7 May 16:10; Mon 29 May 16:20<br>
+**Queen of Diamonds**<br>
+Tue 9 May 18:20 (+ Q&A with Nina Menkes); Wed 24 May 20:30<br>
+**Dissolution (Hitparkut)**<br>
+Tue 9 May 20:30 (+ Q&A with Nina Menkes); Sat 20 May 18:20<br>
+**The Bloody Child**<br>
+Thu 11 May 20:30; Sat 27 May 13:40<br>
+**Brainwashed: Sex-Camera-Power**<br>
+From Fri 12 May<br>
+**Phantom Love**<br>
+Sun 14 May 18:15; Mon 22 May 20:40<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzczMDMyN119
+eyJoaXN0b3J5IjpbOTgzODQzOTgxXX0=
 -->
