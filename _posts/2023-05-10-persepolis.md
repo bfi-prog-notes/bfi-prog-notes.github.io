@@ -99,25 +99,11 @@ Danielle Darrieux _(Marjane’s grandmother)_<br>
 Simon Abkarian _(Ebi, Marjane’s father)_<br>
 Gabrielle Lopes _(Marjane as a child)_<br>
 François Jérosme _(Uncle Anouche)_<br>
-
-Sophie Arthuys, Jean-François Gallotte,
-
-Arié Elmaleh, Mathias Mlekuz, Sacha Alliel,  
-Virginie Antico, Sylvain Audi, Bénédicte Battesti, Hubert Benhamdine, Ninon Brétécher,  
-Jean-Philippe Callet, Idit Cebula, Carlos Chahine, Eric Chevallier, Isabelle Chipot, Jean-Marc Couderc, Fanny Dalle-Rive, Fanny Daurat,
-
-Anne Deleuze, Gilles Duval, Stéphane Foenkinos, Marie Gili-Pierre, François Girard, Lesceline Haase, Marc Jousset, Nicolas Leroy, Candide Lopes,
-
-Tilly Mandelbrot, Jean-Christophe Menu, Céline Merrien, Charlotte Miquel, Farida Ouchani, Vincent Paronnaud, Françoise Pavy, Emmanuel Payet,
-
-Xavier Rigault, Gaspard Robert,  
-Marc-Antoine Robert, Stéphane Roche,  
-Théo Sampaio, Marjane Satrapi, Denis Walgenwitz
+Sophie Arthuys, Jean-François Gallotte, Arié Elmaleh, Mathias Mlekuz, Sacha Alliel,  Virginie Antico, Sylvain Audi, Bénédicte Battesti, Hubert Benhamdine, Ninon Brétécher,  Jean-Philippe Callet, Idit Cebula, Carlos Chahine, Eric Chevallier, Isabelle Chipot, Jean-Marc Couderc, Fanny Dalle-Rive, Fanny Daurat, Anne Deleuze, Gilles Duval, Stéphane Foenkinos, Marie Gili-Pierre, François Girard, Lesceline Haase, Marc Jousset, Nicolas Leroy, Candide Lopes, Tilly Mandelbrot, Jean-Christophe Menu, Céline Merrien, Charlotte Miquel, Farida Ouchani, Vincent Paronnaud, Françoise Pavy, Emmanuel Payet, Xavier Rigault, Gaspard Robert,  Marc-Antoine Robert, Stéphane Roche,  Théo Sampaio, Marjane Satrapi, Denis Walgenwitz
 
 France-USA 2007©<br>
-
 96 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTUwMDU5N119
+eyJoaXN0b3J5IjpbLTE5NjIzNjA5OTldfQ==
 -->
