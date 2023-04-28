@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Persepolis
+published: true
+date: 2023-05-10
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Animation]
+metadata: 'France-USA 2007, 96 mins<br> Directors: Vincent Paronnaud, Marjane Satrapi'
+pdf: '2023-05-10-persepolis.pdf'
+---
 
 Based on Marjane Satrapi’s autobiographical graphic novels about a young girl growing up in Tehran around the time of the 1979 Iranian revolution, the big-screen _Persepolis_ – which Satrapi co-directed with Vincent Paronnaud – zigzags between past and present, Iran and Europe, to create a deliciously mischievous portrait of life in exile. Satrapi’s heroine Maui travels between colour and black and white, where colour represents the drab present of airport lounges and a rootless existence.
 
@@ -10,8 +20,7 @@ With the arrival of the revolution, however, the frames become filled with the s
 
 It is at such moments, as hope is replaced by a dawning fear, that the ‘old-school’ hand-drawn 2D animation of _Persepolis_ works most vividly, capturing a country cloaked in chadors and terror as Ayatollah Khomeini’s mullahs consolidate their grip on power in the wake of Saddam Hussein’s western-backed attack. Satrapi and Paronnaud – an underground French comic-book artist who frequently works under the pseudonym of Winshluss – deftly contrast the everyday adventures of Marji and her classmates, their faces now framed by the oval of the hijab, with the brutality of the Islamic regime’s purges, as bearded heavies assassinate political dissenters. There are also poignant depictions of young Iranian men sent to martyrdom in the minefields, plastic keys to paradise around their necks: the distant murmur of the battlefield is overwritten by the hollow sound of exploding corpses before a final freeze-frame captures one soul’s ascent from earth, his extended limbs bordered by a kapow-style firebomb.
 
-Marji’s political maturation comes through conversations with her uncle Anouche, a communist forever in hiding or in prison who regales her with tales of Marx and the proletariat uprising. But Satrapi sidesteps political dogma or didacticism with such images as the young Marji imagining herself in conversation with the father of communism, his billowing white hair and beard conjuring a cross between Santa Claus and God, or nestling on a cloud between Marx and God as the two work to restore her faith in humanity.  
-‘I don’t believe you can fight one form of fanaticism with another form of fanaticism,’ she says. ‘We have to use logic and pragmatism. If the goal of fanaticism is to push a button and produce an emotional response, the goal of anti-fanaticism should be the opposite. If fanaticism has the answer to everything, our duty is to ask questions.’
+Marji’s political maturation comes through conversations with her uncle Anouche, a communist forever in hiding or in prison who regales her with tales of Marx and the proletariat uprising. But Satrapi sidesteps political dogma or didacticism with such images as the young Marji imagining herself in conversation with the father of communism, his billowing white hair and beard conjuring a cross between Santa Claus and God, or nestling on a cloud between Marx and God as the two work to restore her faith in humanity.  ‘I don’t believe you can fight one form of fanaticism with another form of fanaticism,’ she says. ‘We have to use logic and pragmatism. If the goal of fanaticism is to push a button and produce an emotional response, the goal of anti-fanaticism should be the opposite. If fanaticism has the answer to everything, our duty is to ask questions.’
 
 When _Persepolis_ won the Jury Prize at Cannes in 2007 – an award it shared with Carlos Reygadas’ _Silent Light_ – a cultural advisor to Iranian president Mahmoud Ahmadinejad accused France of stirring up Islamophobia. That protest came only days after the head of the government-affiliated Farabi Cinema Foundation sent a letter to the French cultural attaché in Tehran claiming the French-backed film presented ‘an unreal picture of the outcomes and achievements of the Islamic revolution.’ _Persepolis_ was withdrawn as opening film at the Bangkok International Film Festival, reportedly after pressure from the Iranian embassy in Thailand, and it has been denied a release in Lebanon for fear it may provoke unrest among supporters of the Iranian-backed Hezbollah.
 
@@ -104,6 +113,61 @@ Sophie Arthuys, Jean-François Gallotte, Arié Elmaleh, Mathias Mlekuz, Sacha Al
 France-USA 2007©<br>
 96 mins<br>
 <br>
+
+**BIG SCREEN CLASSICS**<br>
+**L’Argent (Money)**<br>
+Mon 1 May 13:30; Sat 6 May 15:40; Sat 27 May 20:40; Tue 30 May 18:10<br>
+**The Seventh Seal (Det sjunde inseglet)**<br>
+Tue 2 May 20:40; Sat 6 May 12:30; Mon 22 May 20:45; Thu 25 May 14:30<br>
+**The Magnificent Ambersons**<br>
+Wed 3 May 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Mon 15 May 20:40<br>
+**The Discreet Charm of the Bourgeoisie (Le Charme discret de la bourgeoisie)**<br>
+Thu 4 May 20:55; Tue 16 May 20:40; Wed 31 May 18:10 (+ intro)<br>
+**The River**<br>
+Fri 5 May 20:45; Mon 8 May 13:20; Sat 13 May 18:10<br>
+**The Wild Bunch**<br>
+Sat 6 May 20:10; Sun 14 May 18:00; Mon 29 May 18:00<br>
+**Greed**<br>
+Sun 7 May 12:50; Sun 14 May 15:00<br>
+**Le Jour se lève (Daybreak)**<br>
+Tue 9 May 20:50; Thu 11 May 18:30; Sat 13 May 20:30; Wed 24 May 18:15 (+ intro)<br>
+**Persepolis**<br>
+Wed 10 May 18:15 (+ intro); Tue 23 May 18:20; Sat 27 May 18:10<br>
+**The Big City (Mahanagar)**<br>
+Fri 12 May 20:30; Sat 20 May 15:00; Sun 28 May 12:50<br>
+**Still Walking (Aruitemo Aruitemo)**<br>
+Mon 15 May 14:00 (+ intro); Thu 18 May 18:10; Sun 21 May 15:40; Fri 26 May 20:30<br>
+**Dance, Girl, Dance**<br>
+Tue 16 May 18:20; Sat 27 May 16:00<br>
+**Scarface**<br>
+Wed 17 May 18:20 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 19 May 20:30; Mon 29 May 13:40<br>
+**The Life and Death of Colonel Blimp**<br>
+Sat 20 May 19:50; Mon 29 May 13:00<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE5NjIzNjA5OTldfQ==
 -->
