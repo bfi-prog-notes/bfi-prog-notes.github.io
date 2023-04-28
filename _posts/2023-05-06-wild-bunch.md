@@ -26,159 +26,83 @@ It is this fine distinction which provokes the second, equally terrifying, holoc
 _Directed by:_ Sam Peckinpah<br>
 ©: Warner Bros.-Seven Arts<br>
 _Presents/Distributed by:_ Warner Bros.-Seven Arts<br>
-
 _Produced by:_ Phil Feldman<br>
-
 _Associate Producer:_ Roy N. Sickner<br>
-
 _Production Manager:_ William Faralla<br>
-
 _Second Unit Director:_ Buzz Henry<br>
-
 _Assistant Directors:_ Cliff Coleman, Fred Gammon<br>
-
 _Script Supervisor:_ Crayton Smith<br>
-
 _Screenplay by:_ Walon Green, Sam Peckinpah<br>
-
 _Story by:_ Walon Green, Roy N. Sickner<br>
-
 _Director of Photography:_ Lucien Ballard<br>
-
 _Key Grip:_ Bud Gaunt<br>
-
 _Special Effects:_ Bud Hulburd<br>
-
 _Editor:_ Louis Lombardo<br>
-
 _Associate Film Editor:_ Robert L. Wolfe<br>
-
 _Art Director:_ Edward Carrere<br>
-
 _Wardrobe Supervisor:_ Gordon Dawson<br>
-
 _Makeup:_ Al Greenway<br>
-
 _Filmed in:_ Panavision<br>
-
 _Colour by:_ Technicolor<br>
-
 _Music by:_ Jerry Fielding<br>
-
 _Music Supervised by:_ Sonny Burke<br>
-
 _Sound:_ Robert J. Miller<br>
-
-_We wish to express our appreciation to:_
-
-General de Bgda. E.E. Procopio<br>
+_We wish to express our appreciation to:_ General de Bgda. E.E. Procopio<br>
 
 _uncredited_<br>
-
 _Properties:_ Phil Ankrum<br>
-
 _Supervising Recording Mixer:_ Gordon Davis<br>
-
 _Supervising Sound Editor:_ Edwin Scheid<br>
-
-_Sound Editors:_ William Mauch, William Rivol,
-
-Joe Kavigan, John Young, Stan Martin<br>
-
+_Sound Editors:_ William Mauch, William Rivol, Joe Kavigan, John Young, Stan Martin<br>
 _Supervising Dialogue Editor:_ Harold Fisher<br>
-
 _Dialogue Editors:_ Al Cavigga, Robert Barrett<br>
-
 _Studio:_ Estudios Churubusco
 
 **Cast**<br>
-
 William Holden _(Pike Bishop)_<br>
-
 Ernest Borgnine _(Dutch Engstrom)_<br>
-
 Robert Ryan _(Deke Thornton)_<br>
-
 Edmond O’Brien _(Freddie Sykes)_<br>
-
 Warren Oates _(Lyle Gorch)_<br>
-
 Jaime Sanchez _(Angel)_<br>
-
 Ben Johnson _(Tector Gorch)_<br>
-
 Emilio Fernández _(Mapache)_<br>
-
 Strother Martin _(Coffer)_<br>
-
 L.Q. Jones _(T.C.)_<br>
-
 Albert Dekker _(Pat Harrigan)_<br>
-
 Bo Hopkins _(Crazy Lee)_<br>
-
 Dub Taylor _(Mayor Wainscoat)_<br>
-
 Jorge Russek _(Lieutenant Zamorra)_<br>
-
 Alfonso Arau _(Herrera)_<br>
-
 Chano Urueta _(Don José)_<br>
-
 Sonia Amelio _(Teresa)_<br>
-
 Aurora Clavel _(Aurora)_<br>
-
 Elsa Cardenas _(Elsa)_<br>
-
 Paul Harper _(Ross)_<br>
-
 Bill Hart _(Jess)_<br>
-
 Rayford Barnes _(Buck)_<br>
-
 Steve Ferry _(Sergeant McHale)_<br>
-
 Enrique Lucero _(Ignacio)_<br>
-
 Elizabeth Dupeyron _(Rocio)_<br>
-
 Yolanda Ponce _(Yolis)_<br>
-
 José Chávez _(Juan José)_<br>
-
 René Dupeyron _(Juan)_<br>
-
 Pedro Galvan _(Benson)_<br>
-
 Graciela Doring _(Emma)_<br>
-
 Major Perez _(Perez)_<br>
-
-Fernando Wagner
-
-_(Mohr, German army officer)_<br>
-
+Fernando Wagner _(Mohr, German army officer)_<br>
 Jorge Rado _(Ernst)_<br>
-
 Ivan Scott _(paymaster)_<br>
-
 Sra. Madero _(Margaret)_<br>
-
 Margarito Luna _(Luna)_<br>
-
 Chalo González _(Gonzalez)_<br>
-
 Lilia Castillo _(Lilia)_<br>
-
 Elizabeth Unda _(Carmen)_<br>
-
 Julio Corona _(Julio)_<br>
 
 USA 1969©<br>
-
 145 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzQ4NzY3Nl19
+eyJoaXN0b3J5IjpbLTg5MDI0MjkyXX0=
 -->
