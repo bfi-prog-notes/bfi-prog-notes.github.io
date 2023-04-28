@@ -21,24 +21,18 @@ British-Moroccan director Fyzal Boulifa’s recent feature, _The Damned Don’t 
 
 Halim is played by Saleh Bakri, who hails from Palestine, where same-sex relationships remain similarly overlooked in film. Next door, Egypt, which has historically been the largest and most influential film industry in the Arab world, has seen homoerotic tension, effeminate comic relief and queer-coded characters repeatedly employed in favour of more forthright depictions. South of the Sahara is the continent’s largest film industry, Nollywood, with its explicit Christian overtones resulting in a tendency to equate queerness with divine punishment. Titles such as _Hideous Affair_ (2010) and _Dirty Secret_ (2010) speak for themselves.
 
-South Africa stands out for its relative abundance of gay titles, though, frustratingly, these have featured all-white casts – _Moffie_ (2019), _Skoonheid_ (2011), _Kanarie_ (2018) – with the exception of John Trengove’s gripping  
-_The Wound_ (2017).
+South Africa stands out for its relative abundance of gay titles, though, frustratingly, these have featured all-white casts – _Moffie_ (2019), _Skoonheid_ (2011), _Kanarie_ (2018) – with the exception of John Trengove’s gripping  _The Wound_ (2017).
 
 In fact, the first Sub-Saharan film to directly deal with homosexuality came from beyond the continent’s major film industries. This was the Guinean drama _Dakan_ (1997), whose director Mohamed Camara had to change hotels daily and leave screenings early to avoid being attacked. He even had a _fatwa_ issued against him. These circumstances may partially explain why, a quarter-century on, _Dakan_’s frank portrayal of a persevering gay relationship has barely been repeated in African cinema.
 
-Towards the end of _The Blue Caftan_, Mina urges Halim ‘Don’t be afraid to love.’ But Halim’s trepidation is merited. He is aware of the denial, conservatism and criminalising legislation that surround him – a local and regional context which makes the film itself look all the more fearless.
+Towards the end of _The Blue Caftan_, Mina urges Halim ‘Don’t be afraid to love.’ But Halim’s trepidation is merited. He is aware of the denial, conservatism and criminalising legislation that surround him – a local and regional context which makes the film itself look all the more fearless.  
+**Abiba Coulibaly, bfi.org.uk 14 March 2023**
+<br><br>
 
-Abiba Coulibaly, bfi.org.uk 14 March 2023
-
-<![endif]-->
-
-**THE BLUE CAFTAN (LE BLEU DU CAFTAN)**
-
+**THE BLUE CAFTAN (LE BLEU DU CAFTAN)**  
 _Directed by_: Maryam Touzani  
-©: Les Films du Nouveau Monde,  
-Ali n’ Productions, Velvet Films, Snowglobe  
-_Production Companies_:  
-Les Films du Nouveau Monde, Ali n’ Productions, Velvet Films, Snowglobe  
+©: Les Films du Nouveau Monde,  Ali n’ Productions, Velvet Films, Snowglobe  
+_Production Companies_:  Les Films du Nouveau Monde, Ali n’ Productions, Velvet Films, Snowglobe  
 _International Sales_: Films Boutique  
 _Produced by_: Nabil Ayouch  
 _Production Manager_: Azzedine Taoussi  
@@ -60,12 +54,10 @@ _Set Decorator_: Rachid El Yousfi
 _Costume Designer_: Rafika Ben Maimoun  
 _Make-up_: Jennifer Courouge  
 _Original Music_: Kristian Selin Eidnes Andersen  
-_Sound_: Nassim El Mounabbih, Claus Lynge,  
-Said Radi, Carlos E. Garcia  
+_Sound_: Nassim El Mounabbih, Claus Lynge,  Said Radi, Carlos E. Garcia  
 _Dialogue Coach_: Younes Chara
 
-_Cast:_
-
+**Cast**  
 Lubna Azabal _(Mina)_  
 Saleh Bakri _(Halim)_  
 Ayoub Missioui _(Youssef)_  
@@ -73,11 +65,11 @@ Mounia Lamkimel _(blue caftan client)_
 Abdelhamid Zoughi _(doctor)_  
 Zakaria Atifi _(Bachir)_
 
-France-Morocco-Belgium 2022©
-
+France-Morocco-Belgium 2022©  
 122 mins
 
 A New Wave Films release
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk0ODgyOTddfQ==
+eyJoaXN0b3J5IjpbLTMwNTEzNTE5Ml19
 -->
