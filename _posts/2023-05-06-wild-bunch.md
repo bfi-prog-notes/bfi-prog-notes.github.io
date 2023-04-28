@@ -23,26 +23,23 @@ It is this fine distinction which provokes the second, equally terrifying, holoc
 <br><br>
 
 **THE WILD BUNCH**<br>
-
-Directed by: Sam Peckinpah<br>
-
+_Directed by:_ Sam Peckinpah<br>
 ©: Warner Bros.-Seven Arts<br>
+_Presents/Distributed by:_ Warner Bros.-Seven Arts<br>
 
-Presents/Distributed by: Warner Bros.-Seven Arts<br>
+_Produced by:_ Phil Feldman<br>
 
-Produced by: Phil Feldman<br>
+_Associate Producer:_ Roy N. Sickner<br>
 
-Associate Producer: Roy N. Sickner<br>
+_Production Manager:_ William Faralla<br>
 
-Production Manager: William Faralla<br>
+_Second Unit Director:_ Buzz Henry<br>
 
-Second Unit Director: Buzz Henry<br>
+_Assistant Directors:_ Cliff Coleman, Fred Gammon<br>
 
-Assistant Directors: Cliff Coleman, Fred Gammon<br>
+_Script Supervisor:_ Crayton Smith<br>
 
-Script Supervisor: Crayton Smith<br>
-
-Screenplay by: Walon Green, Sam Peckinpah<br>
+_Screenplay by: Walon Green, Sam Peckinpah<br>
 
 Story by: Walon Green, Roy N. Sickner<br>
 
@@ -142,45 +139,46 @@ Rayford Barnes (Buck)<br>
 
 Steve Ferry (Sergeant McHale)<br>
 
-Enrique Lucero (Ignacio)
+Enrique Lucero (Ignacio)<br>
 
-Elizabeth Dupeyron (Rocio)
+Elizabeth Dupeyron (Rocio)<br>
 
-Yolanda Ponce (Yolis)
+Yolanda Ponce (Yolis)<br>
 
-José Chávez (Juan José)
+José Chávez (Juan José)<br>
 
-René Dupeyron (Juan)
+René Dupeyron (Juan)<br>
 
-Pedro Galvan (Benson)
+Pedro Galvan (Benson)<br>
 
-Graciela Doring (Emma)
+Graciela Doring (Emma)<br>
 
-Major Perez (Perez)
+Major Perez (Perez)<br>
 
 Fernando Wagner
 
-(Mohr, German army officer)
+(Mohr, German army officer)<br>
 
-Jorge Rado (Ernst)
+Jorge Rado (Ernst)<br>
 
-Ivan Scott (paymaster)
+Ivan Scott (paymaster)<br>
 
-Sra. Madero (Margaret)
+Sra. Madero (Margaret)<br>
 
-Margarito Luna (Luna)
+Margarito Luna (Luna)<br>
 
-Chalo González (Gonzalez)
+Chalo González (Gonzalez)<br>
 
-Lilia Castillo (Lilia)
+Lilia Castillo (Lilia)<br>
 
-Elizabeth Unda (Carmen)
+Elizabeth Unda (Carmen)<br>
 
-Julio Corona (Julio)
+Julio Corona (Julio)<br>
 
-USA 1969©
+USA 1969©<br>
 
-145 mins
+145 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2NzQ5OTEwXX0=
+eyJoaXN0b3J5IjpbMTc4MDMzNDc0M119
 -->
