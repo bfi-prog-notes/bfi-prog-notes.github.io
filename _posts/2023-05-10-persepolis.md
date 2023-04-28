@@ -26,35 +26,17 @@ _Persepolis_ was the name given to the 6th-century city founded by Darius I and 
 <br><br>
 
 **PERSEPOLIS**<br>
-
 _Un film de:_ Vincent Paronnaud, Marjane Satrapi<br>
-
 _©/Presented by:_ 2.4.7. Films<br>
-
 _©/In co-production with:_ France 3 Cinéma<br>
-
-_In co-production with:_ Kennedy/Marshall Co., Franche Connection Animation,
-
-Diaphana Distribution<br>
-
-_In association with:_ Celluloïd Dreams,
-
-Sony Pictures Classics, Sofica Soficinéma,  
-Sofica EuropaCorp<br>
-
-_With the participation of:_  
-Centre national de la cinématographie,
-
+_In co-production with:_ Kennedy/Marshall Co., Franche Connection Animation, Diaphana Distribution<br>
+_In association with:_ Celluloïd Dreams, Sony Pictures Classics, Sofica Soficinéma,  Sofica EuropaCorp<br>
+_With the participation of:_  Centre national de la cinématographie,
 Région Ile de France, Fondation Groupama Gan pour le Cinéma, Procirep, Angoa<br>
-
 _Produced by:_ Marc-Antoine Robert, Xavier Rigault<br>
-
 _US Co-producer:_ Tara Grace<br>
-
 _Produced in collaboration with:_ Rémi Burah<br>
-
 _Associate Producer:_ Kathleen Kennedy<br>
-
 _Post-production Supervisor:_ Christina Crassaris<br>
 
 _Artistic Director:_ Marc Jousset<br>
@@ -78,7 +60,7 @@ _Animation Director:_ Christian Desmares<br>
 
 _Animation Supervisor:_ Olivier Bizet<br>
 
-_2D Animation Supervisor:_ Christian Desmares
+_2D Animation Supervisor:_ Christian Desmares<br>
 
 _2D Animation:_ Damien Barrau, Franck Bonay,  
 Jean-Yves Castillon, Anaïs Chevillard,
@@ -86,108 +68,108 @@ Jean-Yves Castillon, Anaïs Chevillard,
 Patrick Cohen, Odile Comon, Céline Coulibeuf, Antoine Dartige du Fournet, Sandra Derval,  
 Serge Elissalde, Florian Fiebig, Emmanuel Guille, Virginie Hanrigou, Marianne Lebel, Grégory Lecocq, Alice Lia, Charlotte Mazeran, Benoît Meurzec,
 
-Damien Millereau, Adeline Monin, Nicolas Pawlowski, Jules Stromboni, Rémi Zaarour
+Damien Millereau, Adeline Monin, Nicolas Pawlowski, Jules Stromboni, Rémi Zaarour<br>
 
-_Flash Animation:_ Stéphanie Delmas, Nilsen Robin
+_Flash Animation:_ Stéphanie Delmas, Nilsen Robin<br>
 
-_After Effects Animation:_ François Leroy
+_After Effects Animation:_ François Leroy<br>
 
-_Animation Effects Supervisor:_ Alexis Venet
+_Animation Effects Supervisor:_ Alexis Venet<br>
 
-_Animation Effects:_ Pierre Minoux, Adeline Monin
+_Animation Effects:_ Pierre Minoux, Adeline Monin<br>
 
-_3D Animation Supervisor:_ Ahmidou Lyazidi
+_3D Animation Supervisor:_ Ahmidou Lyazidi<br>
 
-_3D Animation:_ David Galante, Bruno-Evalie Hélie, Nathalie Mathe
+_3D Animation:_ David Galante, Bruno-Evalie Hélie, Nathalie Mathe<br>
 
 _After Effects Compositing Supervisor:_  
-Stéphane Roche
+Stéphane Roche<br>
 
-_After Effects Compositing:_ Jean-Yves Castillon, Serge Creste, Damien Gaillardon, Jean-Paul Guige, François Leroy, Pierre Minoux
+_After Effects Compositing:_ Jean-Yves Castillon, Serge Creste, Damien Gaillardon, Jean-Paul Guige, François Leroy, Pierre Minoux<br>
 
-_Layout Supervisor:_ Jing Wang
+_Layout Supervisor:_ Jing Wang<br>
 
 _Layout:_ David Etien, Frédéric Martin,  
-Guy Quelquejeu
+Guy Quelquejeu<br>
 
-_Trace Supervisor:_ Franck Miyet
+_Trace Supervisor:_ Franck Miyet<br>
 
-_Supervising Editor:_ Stéphane Roche
+_Supervising Editor:_ Stéphane Roche<br>
 
-_Editor:_ François Nabos
+_Editor:_ François Nabos<br>
 
-_Compositing Editor:_ Stéphane Roche
+_Compositing Editor:_ Stéphane Roche<br>
 
-_Art Director:_ Marisa Musy (Zaza)
+_Art Director:_ Marisa Musy (Zaza)<br>
 
-_Art Department Research Supervisor:_ Marisa Musy
+_Art Department Research Supervisor:_ Marisa Musy<br>
 
-_Scan Supervisor/Colour Design:_ Marion Crepel
+_Scan Supervisor/Colour Design:_ Marion Crepel<br>
 
-_Colour Design:_ Geneviève Mabire, Lara Bellini, Geraldine Le Moigne, Arnaud Moritz
+_Colour Design:_ Geneviève Mabire, Lara Bellini, Geraldine Le Moigne, Arnaud Moritz<br>
 
 _Toonz Compositing:_ Marion Crepel,  
-Sylvie Attoresi ‘Toto’, Fabrice Renaudin
+Sylvie Attoresi ‘Toto’, Fabrice Renaudin<br>
 
-_Animatic:_ Stéphane Roche
+_Animatic:_ Stéphane Roche<br>
 
-_Laboratory:_ LTC/Scan Lab
+_Laboratory:_ LTC/Scan Lab<br>
 
-_Colour Timer:_ Christian Dutac
+_Colour Timer:_ Christian Dutac<br>
 
-_Optical Report:_ CinéStéréo
+_Optical Report:_ CinéStéréo<br>
 
-_Digital Operators:_ Pierre Madrolles, Rudy Siess
+_Digital Operators:_ Pierre Madrolles, Rudy Siess<br>
 
-_Music Composed and Conducted by:_ Olivier Bernet
+_Music Composed and Conducted by:_ Olivier Bernet<br>
 
-_Orchestrations:_ Olivier Bernet
+_Orchestrations:_ Olivier Bernet<br>
 
-_Music Recording:_ Amanita
+_Music Recording:_ Amanita<br>
 
-_Music Recorded/Mixed by:_ Stéphane Krieger, Christian Aduriz
+_Music Recorded/Mixed by:_ Stéphane Krieger, Christian Aduriz<br>
 
-_Sound Supervision:_ Merjithur
+_Sound Supervision:_ Merjithur<br>
 
-_Voice Recording:_ Éric Chevallier
+_Voice Recording:_ Éric Chevallier<br>
 
-_Sound/Re-recording Mixer:_ Thierry Lebon
+_Sound/Re-recording Mixer:_ Thierry Lebon<br>
 
-_Re-recording Mixer:_ Samy Bardet
+_Re-recording Mixer:_ Samy Bardet<br>
 
-_Sound Editors:_ Éric Chevallier, Samy Bardet
+_Sound Editors:_ Éric Chevallier, Samy Bardet<br>
 
-_Foley:_ Philippe Penot, Jacques Defrance
+_Foley:_ Philippe Penot, Jacques Defrance<br>
 
-_English-language Version Director:_ Marjane Satrapi
+_English-language Version Director:_ Marjane Satrapi<br>
 
-_Consultant:_ Céline Merrien
+_Consultant:_ Céline Merrien<br>
 
-_Pre-production Consultant:_ Aziza Ghalila
+_Pre-production Consultant:_ Aziza Ghalila<br>
 
-_‘Detection’:_ Sylvie Gourgner
+_‘Detection’:_ Sylvie Gourgner<br>
 
-_‘Concision’:_ Jean-François Ramos
+_‘Concision’:_ Jean-François Ramos<br>
 
-_Screenplay Translation:_ Jodi Vérity, Andrew Vérity
+_Screenplay Translation:_ Jodi Vérity, Andrew Vérity<br>
 
 _Unit Publicists:_ Jérôme Jouneaux,  
-Isabelle Duvoisin, Matthieu Rey
+Isabelle Duvoisin, Matthieu Rey<br>
 
-_Voice Cast:_
+_Voice Cast:_<br>
 
 Chiara Mastroianni_  
-(Marjane, ‘Marji’ as a teenager/adult)_
+(Marjane, ‘Marji’ as a teenager/adult)_<br>
 
-Catherine Deneuve _(Tadji, Marjane’s mother)_
+Catherine Deneuve _(Tadji, Marjane’s mother)_<br>
 
-Danielle Darrieux _(Marjane’s grandmother)_
+Danielle Darrieux _(Marjane’s grandmother)_<br>
 
-Simon Abkarian _(Ebi, Marjane’s father)_
+Simon Abkarian _(Ebi, Marjane’s father)_<br>
 
-Gabrielle Lopes _(Marjane as a child)_
+Gabrielle Lopes _(Marjane as a child)_<br>
 
-François Jérosme _(Uncle Anouche)_
+François Jérosme _(Uncle Anouche)_<br>
 
 Sophie Arthuys, Jean-François Gallotte,
 
@@ -203,9 +185,10 @@ Xavier Rigault, Gaspard Robert,
 Marc-Antoine Robert, Stéphane Roche,  
 Théo Sampaio, Marjane Satrapi, Denis Walgenwitz
 
-France-USA 2007©
+France-USA 2007©<br>
 
-96 mins
+96 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDM4OTgxNV19
+eyJoaXN0b3J5IjpbMTExMTIzMjI4NV19
 -->
