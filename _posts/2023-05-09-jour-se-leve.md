@@ -31,88 +31,50 @@ The two women, united in the last attempt to protect their man at the tragic end
 <br><br>
 
 **LE JOUR SE LÈVE (DAYBREAK)**<br>
-
 _Director:_ Marcel Carné<br>
-
 _Production Company:_ Productions Sigma<br>
-
 _Production Manager:_ Paul Madeux<br>
-
 _Assistant Directors:_ Pierre Blondy, Jean Fazy<br>
-
 _Screenplay:_ Jacques Viot<br>
-
 _Adaptation/Dialogue:_ Jacques Prévert<br>
-
-_Directors of Photography:_ Curt Courant,  
-Philippe Agostini, André Bac<br>
-
+_Directors of Photography:_ Curt Courant,  Philippe Agostini, André Bac<br>
 _Editor:_ René Le Hénaff<br>
-
 _Art Director:_ Alexandre Trauner<br>
-
 _Costumes:_ Boris Bilinsky<br>
-
 _Music:_ Maurice Jaubert<br>
-
 _Sound:_ Armand Petitjean<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Jean Gabin _(François)_<br>
-
 Jacqueline Laurent _(Françoise)_<br>
-
 Arletty _(Clara)_<br>
-
 Jules Berry _(Monsieur Valentin)_<br>
-
 Arthur Devère _(Gerbois)_<br>
+Bernard Blier _(Gaston)_<br>
+René Génin _(the concierge)_<br>
+Marcel Pérès _(Paulo)_<br>
+Jacques Baumer _(superintendent)_<br>
+René Bergeron _(the café owner)_<br>
+Mady Berry _(the concierge)_<br>
+Georges Douking _(the blind man)_<br>
+Germaine Lix _(the singer)_<br>
+Gabrielle Fontan _(the lady on the stairs)_<br>
+André Nicolle<br>
+Léonce Corne<br>
+Henri Farty<br>
+Guy Rapp<br>
+Rogérys<br>
+Georges Gosset<br>
+Albert Malbert<br>
+Robert Leray<br>
+Maurice Salabert<br>
+Marcel Melrac<br>
+Claude Walter<br>
 
-Bernard Blier _(Gaston)_
-
-René Génin _(the concierge)_
-
-Marcel Pérès _(Paulo)_
-
-Jacques Baumer _(superintendent)_
-
-René Bergeron _(the café owner)_
-
-Mady Berry _(the concierge)_
-
-Georges Douking _(the blind man)_
-
-Germaine Lix _(the singer)_
-
-Gabrielle Fontan _(the lady on the stairs)_
-
-André Nicolle
-
-Léonce Corne
-
-Henri Farty
-
-Guy Rapp
-
-Rogérys
-
-Georges Gosset
-
-Albert Malbert
-
-Robert Leray
-
-Maurice Salabert
-
-Marcel Melrac
-
-Claude Walter
-
-France 1939
-
-93 mins
+France 1939<br>
+93 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcyNDg5NTksLTEwMzEzNTA3OTldfQ
+eyJoaXN0b3J5IjpbLTIwOTQzNDc4MjEsLTEwMzEzNTA3OTldfQ
 ==
 -->
