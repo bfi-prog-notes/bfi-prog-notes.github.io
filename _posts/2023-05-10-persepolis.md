@@ -1,4 +1,4 @@
-<![endif]-->
+
 
 Based on Marjane Satrapi’s autobiographical graphic novels about a young girl growing up in Tehran around the time of the 1979 Iranian revolution, the big-screen _Persepolis_ – which Satrapi co-directed with Vincent Paronnaud – zigzags between past and present, Iran and Europe, to create a deliciously mischievous portrait of life in exile. Satrapi’s heroine Maui travels between colour and black and white, where colour represents the drab present of airport lounges and a rootless existence.
 
@@ -21,64 +21,62 @@ Yet far from being anti-Iranian, _Persepolis_ plays as a heartfelt paean to Satr
 
 During our interview Satrapi oscillates between serious and playful, and _Persepoils_ too transcends its potential bleakness to offer a joyous celebration of Iran and Iranians, symbolised by the jasmine flowers whose scent pervades Marji’s grandmother’s bra and which cascade down the screen at the end of the final scene.
 
-_Persepolis_ was the name given to the 6th-century city founded by Darius I and destroyed by Alexander the Great. ‘In order to understand what is happening you have to have some historical depth,’ says Satrapi. ‘Before the revolution we had a country with a king and a queen and flying carpets. After 1979 the king and queen become guardians of the revolution and the flying carpets become rockets. So we are stuck between these images.’ With characteristic iconoclasm, though, she can’t help but add a final remark about why she chose her title. ‘_Persepolis_ is an easy name to remember.’
+_Persepolis_ was the name given to the 6th-century city founded by Darius I and destroyed by Alexander the Great. ‘In order to understand what is happening you have to have some historical depth,’ says Satrapi. ‘Before the revolution we had a country with a king and a queen and flying carpets. After 1979 the king and queen become guardians of the revolution and the flying carpets become rockets. So we are stuck between these images.’ With characteristic iconoclasm, though, she can’t help but add a final remark about why she chose her title. ‘_Persepolis_ is an easy name to remember.’  
+**Marjane Satrapi interviewed by Ali Jaafar, _Sight and Sound_, May 2008**
+<br><br>
 
-Marjane Satrapi interviewed by Ali Jaafar, _Sight and Sound_, May 2008
+**PERSEPOLIS**<br>
 
-<![endif]-->
+_Un film de:_ Vincent Paronnaud, Marjane Satrapi<br>
 
-**PERSEPOLIS**
+_©/Presented by:_ 2.4.7. Films<br>
 
-_Un film de:_ Vincent Paronnaud, Marjane Satrapi
-
-_©/Presented by:_ 2.4.7. Films
-
-_©/In co-production with:_ France 3 Cinéma
+_©/In co-production with:_ France 3 Cinéma<br>
 
 _In co-production with:_ Kennedy/Marshall Co., Franche Connection Animation,
 
-Diaphana Distribution
+Diaphana Distribution<br>
 
 _In association with:_ Celluloïd Dreams,
 
 Sony Pictures Classics, Sofica Soficinéma,  
-Sofica EuropaCorp
+Sofica EuropaCorp<br>
 
 _With the participation of:_  
 Centre national de la cinématographie,
 
-Région Ile de France, Fondation Groupama Gan pour le Cinéma, Procirep, Angoa
+Région Ile de France, Fondation Groupama Gan pour le Cinéma, Procirep, Angoa<br>
 
-_Produced by:_ Marc-Antoine Robert, Xavier Rigault
+_Produced by:_ Marc-Antoine Robert, Xavier Rigault<br>
 
-_US Co-producer:_ Tara Grace
+_US Co-producer:_ Tara Grace<br>
 
-_Produced in collaboration with:_ Rémi Burah
+_Produced in collaboration with:_ Rémi Burah<br>
 
-_Associate Producer:_ Kathleen Kennedy
+_Associate Producer:_ Kathleen Kennedy<br>
 
-_Post-production Supervisor:_ Christina Crassaris
+_Post-production Supervisor:_ Christina Crassaris<br>
 
-_Artistic Director:_ Marc Jousset
+_Artistic Director:_ Marc Jousset<br>
 
-_1st Assistant Director:_ Denis Walgenwitz
+_1st Assistant Director:_ Denis Walgenwitz<br>
 
-_Voice Casting:_ Sylvie Peyrucq
+_Voice Casting:_ Sylvie Peyrucq<br>
 
-_Story Artists:_ Jean-Charles Finch, Alexandre Hesse
+_Story Artists:_ Jean-Charles Finch, Alexandre Hesse<br>
 
-_Written by:_ Marjane Satrapi,Vincent Paronnaud
+_Written by:_ Marjane Satrapi,Vincent Paronnaud<br>
 
-_Based on the graphic novel by:_ Marjane Satrapi
+_Based on the graphic novel by:_ Marjane Satrapi<br>
 
-_Director of Photography:_ François Girard
+_Director of Photography:_ François Girard<br>
 
 _Animation Studios:_ Perseprod, une association,  
-Je Suis Bien Content (Marc Jousset), Pumpkin 3D (Pascal Chevé, Louis Viau)
+Je Suis Bien Content (Marc Jousset), Pumpkin 3D (Pascal Chevé, Louis Viau)<br>
 
-_Animation Director:_ Christian Desmares
+_Animation Director:_ Christian Desmares<br>
 
-_Animation Supervisor:_ Olivier Bizet
+_Animation Supervisor:_ Olivier Bizet<br>
 
 _2D Animation Supervisor:_ Christian Desmares
 
@@ -209,5 +207,5 @@ France-USA 2007©
 
 96 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDgxMTMzN119
+eyJoaXN0b3J5IjpbMjEzNDM4OTgxNV19
 -->
