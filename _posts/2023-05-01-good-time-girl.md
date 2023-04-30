@@ -130,7 +130,7 @@ UK 1947
 
 A BFI National Archive print  
 <br>
-<![endif]-->
+
 
 **MURIEL BOX: A WOMAN’S TAKE**  
 **The Seventh Veil + The English Inn**  
@@ -170,7 +170,7 @@ StudioCanal for their new 4K restorations from the best available original mater
 <img style="float: left;" src="/img/studiocanal.png"><br><br><br><br>
 
 Three restored Muriel Box titles (_The Passionate Stranger_, _The Truth about Women_ and _Rattle of a Simple Man_) are being released on Blu-ray and DVD by StudioCanal in May and will be available from the BFI Shop.
-<br>
+<br><br>
 
 
 **SIGHT AND SOUND**<br>
