@@ -159,29 +159,18 @@ Thu 11 May 20:15 Blue Room
 Wed 17 May 18:10; Tue 23 May 20:30  
 **The Truth about Women**  
 Thu 18 May 20:40; Sun 28 May 18:10  
-**Eyewitness (aka Point of Crisis) + A Ride with Uncle Joe**
-
-Sun 21 May 18:20; Fri 26 May 18:10
-
-**This Other Eden**
-
-Thu 25 May 18:20; Sat 27 May 13:45
-
-**With thanks to**
-
+**Eyewitness (aka Point of Crisis) + A Ride with Uncle Joe**  
+Sun 21 May 18:20; Fri 26 May 18:10  
+**This Other Eden**  
+Thu 25 May 18:20; Sat 27 May 13:45  
+<br>
+**With thanks to**  
 StudioCanal for their new 4K restorations from the best available original materials, scanned and restored to produce three brand new HD masters
+
+<img style="float: left;" src="/img/canal+.jpg"><br><br><br><br>
 
 Three restored Muriel Box titles (_The Passionate Stranger_, _The Truth about Women_ and _Rattle of a Simple Man_) are being released on Blu-ray and DVD by StudioCanal in May and will be available from the BFI Shop.
 <br>
-
-**In cultural partnership with**
-<img style="float: left;" src="/img/kinoteka.jpg"><br><br><br><br>
-9 Mar-27 Apr kinoteka.org.uk
-<br><br><br><br><br><br><br><br>
-
-<img style="float: left;" src="/img/mamuska-02.png"><br><br><br><br>
-Proud partners of the BFI’s Jerzy Skolimowski season. Show valid BFI ticket and enjoy 20% off your bill at Mamuśka!
-<br><br><br><br><br><br><br><br>
 
 
 **SIGHT AND SOUND**<br>
@@ -207,5 +196,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjEyNTYwOCwzNjA5MTEwNV19
+eyJoaXN0b3J5IjpbLTEwMTYxMTAzMDMsMzYwOTExMDVdfQ==
 -->
