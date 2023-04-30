@@ -1,8 +1,14 @@
-
-
-
-<![endif]-->
-
+---
+layout: post
+title: Good-Time Girl
+published: true
+date: 2023-05-01
+readtime: true
+categories: ['MURIEL BOX<br>A WOMAN’S TAKE']
+tags: [Drama]
+metadata: 'UK-France 1997, 87 mins<br> Director: Udayan Prasad'
+pdf: '2023-04-30-my-son-the-fanatic.pdf'
+---
 **SPOILER WARNING** The following notes give away some of the plot
 
 _Good-time Girl_, made during the period when Sydney Box was in charge of production at Gainsborough, seems ­– superficially at least – very different from the ‘classic’ melodramas produced under Maurice Ostrer’s supervision. Indeed, with its contemporary focus on juvenile delinquency and the practices of courts and approved schools, it could be seen as a precursor of the spate of social problem films of the late 40s and 50s which worked through post-war anxieties about the shift in the social climate towards greater individual freedoms, social mobility and consumerism. Maurice Ostrer’s _Root of All Evil_ (1947) deals with similar questions within the ‘escapist’ women’s picture format – the story of the rise of its heroine (Phyllis Calvert) from poverty to power and wealth and her fall from grace is set in the self-consciously fictional world characteristic of popular romance. Its anti-realism was, as usual, derided and patronised by contemporary critics. While the same critic disliked the ‘squalid’ subject matter of _Good-time Girl_, they were prepared to admire its realistic treatment of a serious social subject.
@@ -16,5 +22,5 @@ Taken together with the opening sequence in which the chairwoman and the policem
 This was certainly due partly to an economic motive, for in spite of Box’s pretensions to artistic merit, to serious social subject matter, he (like other Gainsborough producers before him) had more than an eye on  the box-office value of sadism and violence. (The film incurred the censor’s wrath for some of its more violent scenes, justified by the filmmakers in terms of their realism – Muriel Box interviewed in _Gainsborough Melodrama_, BFI Dossier No.18.) The underworld sequences of _Good-time Girl_ are exotic and glamorous: the drabness of institutional life is set against the stylishness of the world to which Gwen is attracted. The ‘moral’ of the story is clear  (excessive consumerism is wrong), but the fantasy of unbridled consumption and ‘good times’ is activated to appeal to audiences (particularly women) tired of wartime austerity and looking forward to greater economic freedom. Box’s _régime_ at Gainsborough may have seemed to herald a different kind of product from the more blatantly escapist costume dramas and women’s pictures; none the less, _Good-Time Girl_ shares more with those films than is immediately apparent.  
 **Pam Cook, _Monthly Film Bulletin_, September 1985**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzYxNDEwNTRdfQ==
+eyJoaXN0b3J5IjpbLTM1NzczMzI0NF19
 -->
