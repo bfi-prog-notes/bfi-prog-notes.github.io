@@ -167,7 +167,7 @@ Thu 25 May 18:20; Sat 27 May 13:45
 **With thanks to**  
 StudioCanal for their new 4K restorations from the best available original materials, scanned and restored to produce three brand new HD masters
 
-<img style="float: left;" src="/img/canal+.jpg"><br><br><br><br>
+<img style="float: left;" src="/img/studiocanal.png"><br><br><br><br>
 
 Three restored Muriel Box titles (_The Passionate Stranger_, _The Truth about Women_ and _Rattle of a Simple Man_) are being released on Blu-ray and DVD by StudioCanal in May and will be available from the BFI Shop.
 <br>
@@ -196,5 +196,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTYxMTAzMDMsMzYwOTExMDVdfQ==
+eyJoaXN0b3J5IjpbNTE5MzA2NjQwLDM2MDkxMTA1XX0=
 -->
