@@ -148,17 +148,17 @@ Sat 6 May 15:30; Wed 17 May 20:30
 **The Lost People (aka Cockpit)**  
 Sat 6 May 18:30; Sun 21 May 13:40  
 **The Happy Family (aka Mr Lord Says No/Live and Let Live)**  
-Sun 7 May 18:10; Sat 20 May 15:15
-**Street Corner (aka Both Sides of the Law/Gentle Arm/The Policewoman)**
-Mon 8 May 13:30; Tue 30 May 18:20 (+ intro by season curator Josephine Botting)
-**Simon and Laura**
-Mon 8 May 18:10; Sun 28 May 16:00
-**Philosophical Screens: The Seventh Veil**
-Thu 11 May 20:15 Blue Room
-**Rattle of a Simple Man**
-Wed 17 May 18:10; Tue 23 May 20:30
-**The Truth about Women**
-Thu 18 May 20:40; Sun 28 May 18:10
+Sun 7 May 18:10; Sat 20 May 15:15  
+**Street Corner (aka Both Sides of the Law/Gentle Arm/The Policewoman)**  
+Mon 8 May 13:30; Tue 30 May 18:20 (+ intro by season curator Josephine Botting)  
+**Simon and Laura**  
+Mon 8 May 18:10; Sun 28 May 16:00  
+**Philosophical Screens: The Seventh Veil**  
+Thu 11 May 20:15 Blue Room  
+**Rattle of a Simple Man**  
+Wed 17 May 18:10; Tue 23 May 20:30  
+**The Truth about Women**  
+Thu 18 May 20:40; Sun 28 May 18:10  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDU2MTUxMiwzNjA5MTEwNV19
+eyJoaXN0b3J5IjpbMTA0Mzc4Mjc2MCwzNjA5MTEwNV19
 -->
