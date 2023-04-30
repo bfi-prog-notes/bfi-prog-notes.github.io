@@ -23,10 +23,7 @@ This was certainly due partly to an economic motive, for in spite of Box’s pre
 **Pam Cook, _Monthly Film Bulletin_, September 1985**  
 <br>
 
-<![endif]-->
-
-**Good-Time Girl**
-
+**GOOD-TIME GIRL**  
 _Directed by_: David MacDonald  
 _©_: General Film Distributors  
 _Production Companies_: Gainsborough Pictures, Triton Films *  
@@ -133,5 +130,5 @@ UK 1947
 
 A BFI National Archive print  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTIwNzA2NywzNjA5MTEwNV19
+eyJoaXN0b3J5IjpbODM2MTY4NjcwLDM2MDkxMTA1XX0=
 -->
