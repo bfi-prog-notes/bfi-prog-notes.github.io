@@ -129,6 +129,36 @@ UK 1947
 \* Uncredited  
 
 A BFI National Archive print  
+<br>
+<![endif]-->
+
+**MURIEL BOX: A WOMAN’S TAKE**  
+**The Seventh Veil + The English Inn**  
+Mon 1 May 13:00; Thu 11 May 18:10 (+ intro by Lucy Bolton, Reader in Film Studies at Queen Mary)  
+**Good-Time Girl**  
+Mon 1 May 15:40; Fri 12 May 18:10 (+ intro by Television Producer and Director, Rebecca Towers)  
+**Muriel Box: The Odd Woman Out**  
+Tue 2 May 18:15  
+**The Passionate Stranger (aka A Novel Affair)**  
+Tue 2 May 20:30 (+ intro by filmmaker Carol Morley); Thu 18 May 18:20; Tue 30 May 20:30  
+**Easy Money**  
+Wed 3 May 18:20; Mon 8 May 16:00  
+**Holiday Camp**  
+Sat 6 May 15:30; Wed 17 May 20:30  
+**The Lost People (aka Cockpit)**  
+Sat 6 May 18:30; Sun 21 May 13:40  
+**The Happy Family (aka Mr Lord Says No/Live and Let Live)**  
+Sun 7 May 18:10; Sat 20 May 15:15
+**Street Corner (aka Both Sides of the Law/Gentle Arm/The Policewoman)**
+Mon 8 May 13:30; Tue 30 May 18:20 (+ intro by season curator Josephine Botting)
+**Simon and Laura**
+Mon 8 May 18:10; Sun 28 May 16:00
+**Philosophical Screens: The Seventh Veil**
+Thu 11 May 20:15 Blue Room
+**Rattle of a Simple Man**
+Wed 17 May 18:10; Tue 23 May 20:30
+**The Truth about Women**
+Thu 18 May 20:40; Sun 28 May 18:10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2MTY4NjcwLDM2MDkxMTA1XX0=
+eyJoaXN0b3J5IjpbMTE2NDU2MTUxMiwzNjA5MTEwNV19
 -->
