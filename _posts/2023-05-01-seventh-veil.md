@@ -6,7 +6,7 @@ date: 2023-05-01
 readtime: true
 categories: ['MURIEL BOX<br>A WOMAN’S TAKE']
 tags: [Drama]
-metadata: 'UK 1945, 94 mins<br> Director: <Muriel Baker'
+metadata: 'UK 1945, 94 mins<br> Director: Muriel Baker'
 pdf: '2023-05-01-seventh-veil.pdf'
 ---
 
@@ -172,5 +172,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0MzE1Mzg3XX0=
+eyJoaXN0b3J5IjpbMjA2MjAwNDEyMSw3MTQzMTUzODddfQ==
 -->
