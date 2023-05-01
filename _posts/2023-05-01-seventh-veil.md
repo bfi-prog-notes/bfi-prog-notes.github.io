@@ -48,7 +48,7 @@ UK 1941
 
 A BFI National Archive print
 
-**The Seven Veil**  
+**THE SEVENTH VEIL**  
 _Director_: Compton Bennett  
 _Production Company_: Ortus Films, Theatrecraft  
 _Producer_: Sydney Box  
@@ -172,5 +172,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODk4Mjg4N119
+eyJoaXN0b3J5IjpbNzE0MzE1Mzg3XX0=
 -->
