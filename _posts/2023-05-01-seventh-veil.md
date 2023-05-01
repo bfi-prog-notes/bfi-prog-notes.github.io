@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: The Seventh Veil
+published: true
+date: 2023-05-01
+readtime: true
+categories: ['MURIEL BOX<br>A WOMAN’S TAKE']
+tags: [Drama]
+metadata: 'UK 1945, 94 mins<br> Director: <Muriel Baker'
+pdf: '2023-05-01-seventh-veil.pdf'
+---
 
 Muriel Box was the first woman to win the Oscar™ for Best Original Screenplay (shared with her husband Sydney), for this story inspired by her fascination with new methods of therapy. When a young pianist attempts suicide, her treatment by hypnosis reveals what is behind the ‘seventh veil’ of her subconscious and helps her choose between the four men who are in love with her.  
 **bfi.org.uk**
@@ -164,5 +172,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTI3Njg4NjZdfQ==
+eyJoaXN0b3J5IjpbMTAwODk4Mjg4N119
 -->
