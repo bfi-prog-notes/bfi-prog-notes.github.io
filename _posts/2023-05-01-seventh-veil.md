@@ -21,14 +21,16 @@ James Mason plays his usual role, sardonic, brooding, the man to whom wealth and
 
 James Mason is an excellent actor with a fine face for screen-work. Why must he always play a Victorian maidservant’s conception of a rich, romantically overbearing lord? Ann Todd’s performance is sensitive and true to the character. She performs the difficult task of being completely satisfying and convincing in her portrayal of a great artist in another sphere of art. One went through the artist’s agony of initial public appearance at concerts which demand the highest standards of discipline and execution.  
 **_Monthly Film Bulletin_, 31 October, 1945**  
-
-<![endif]-->
-
-**The English Inn**
-
-_Director__:_ Muriel Baker_Production Company:_ Verity  Films_Producer:_ James  Carr_Script:_ Thomas Burke, Max Munden_Photography:_ James Rogers, Reg Wyer_Editor:_ John Durst  
-_Music__:_ William Alwyn  
-_Studio__:_ Merton Park
+<br>
+**The English Inn**  
+_Director_: Muriel Baker  
+_Production Company:_ Verity  Films  
+_Producer:_ James  Carr  
+_Script:_ Thomas Burke, Max Munden  
+_Photography:_ James Rogers, Reg Wyer  
+_Editor:_ John Durst  
+_Music:_ William Alwyn  
+_Studio:_ Merton Park  
 
 **Cast**  
 Max Munden  
@@ -38,8 +40,7 @@ UK 1941
 
 A BFI National Archive print
 
-**The Seven Veil**
-
+**The Seven Veil**  
 _Director_: Compton Bennett  
 _Production Company_: Ortus Films, Theatrecraft  
 _Producer_: Sydney Box  
@@ -47,9 +48,7 @@ _Production Executive_: A.R. Shipman *
 _Production Manager_: Knox Laing  
 _1st Assistant Director_: Herbert Dorsett  
 _Continuity_: M. Norton  
-_Original Story and Screenplay by_:
-
-Sydney Box, Muriel Box  
+_Original Story and Screenplay by_: Sydney Box, Muriel Box  
 _Director of Photography_: Reginald Wyer  
 _Cameraman_: Bert Mason  
 _Focus Puller_: Kenneth Smith  
@@ -100,5 +99,5 @@ UK 1945
 
 A BFI National Archive print  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTEyMzIyNjJdfQ==
+eyJoaXN0b3J5IjpbNzYwNTU0NTA5XX0=
 -->
