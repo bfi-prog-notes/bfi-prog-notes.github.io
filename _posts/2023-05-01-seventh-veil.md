@@ -22,7 +22,7 @@ Although the explicitly Freudian explanation of Francesca’s neuroses would pro
 Despite the similarities to its Gainsborough contemporaries, _The Seventh Veil_ was a notably bigger critical success: the _Spectator_ announced it as ‘an event in the development of the British film industry’ and even the notoriously acerbic C.A. Lejeune (_The Observer_) was unusually complimentary. A huge domestic box-office hit (nearly sixty years later, the BFI calculated that it was still the tenth most successful UK box-office hit in terms of ticket numbers), it also made an impact in the US, where its screenplay won an Oscar. The following year, Sydney Box was appointed head of Gainsborough Pictures, on the assumption that he would work similar magic on the ailing studio – but _The Seventh Veil_ turned out to be an unrepeatable one-off.  
 **Michael Brooke, BFI Screenonline, screenonline.org.uk**  
 
-**Contemporary Review**  
+**Contemporary review**  
 Francesca Cunningham is a celebrated pianist whose hands have been burned in a car accident and who is suffering from acute depression. She attempts suicide, and afterwards becomes silent and lifeless. A psychiatrist, Dr Lassen, places her under narco-hypnosis, during which she reveals the truth of her past life, episode by episode. Each stage in her life has led to her depression: the headmistress who canes her on the hands the day before an important music examination, the guardian who tyrannises over her in order to force the pace of her training and career, the collapse of her adolescent and mature love affairs.
 
 James Mason plays his usual role, sardonic, brooding, the man to whom wealth and a mysterious past permit a romantic licence for ill-manners and egocentric behaviour. Yet the film has distinct virtues and distinct cinematic power; the opening is beautifully and brilliantly handled, haunting and tense. The music is a delight to hear (Chopin, Mozart, Grieg, Rachmaninoff, Beethoven). The psychological theme, the neurosis of a talented girl whose thwarted emotional life culminates in an acute regard for her hands, which she wrongly believes injured beyond healing, seems correctly conceived, and the psychiatrist is well played by Herbert Lorn.
@@ -30,7 +30,7 @@ James Mason plays his usual role, sardonic, brooding, the man to whom wealth and
 James Mason is an excellent actor with a fine face for screen-work. Why must he always play a Victorian maidservant’s conception of a rich, romantically overbearing lord? Ann Todd’s performance is sensitive and true to the character. She performs the difficult task of being completely satisfying and convincing in her portrayal of a great artist in another sphere of art. One went through the artist’s agony of initial public appearance at concerts which demand the highest standards of discipline and execution.  
 **_Monthly Film Bulletin_, 31 October, 1945**  
 <br>
-**The English Inn**  
+**THE ENGLISH INN**  
 _Director_: Muriel Baker  
 _Production Company:_ Verity  Films  
 _Producer:_ James  Carr  
@@ -84,7 +84,7 @@ _Boom Operator_: Gordon Hay
 _Boom Assistant_: Peter McManus  
 _Studio_: Riverside Studios  
 
-**Cast**
+**Cast**  
 James Mason _(Nicholas)_  
 Ann Todd _(Francesca Cunningham)_  
 Herbert Lom _(Dr Larson)_  
