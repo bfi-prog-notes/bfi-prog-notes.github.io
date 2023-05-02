@@ -4,10 +4,10 @@ title: The Bird with the<br>Crystal Plumage
 published: true
 date: 2023-05-02
 readtime: true
-categories: ['MURIEL BOX<br>A WOMAN’S TAKE']
-tags: [Drama]
-metadata: 'UK 1945, 94 mins<br> Director: Muriel Baker'
-pdf: '2023-05-01-seventh-veil.pdf'
+categories: ['DARIO ARGENTO<br>DOORS INTO DARKNESS']
+tags: [Thriller, Horror]
+metadata: 'Italy/West Germany 1970, 96 mins<br> Director: Dario Argento'
+pdf: '2023-05-02-bird-with-the-crystal-plumage.pdf'
 ---
 
 While Mario Bava’s formative 1963 murder mystery _The Girl Who Knew Too Much_ set the giallo blueprint, Argento’s soaring debut, about an American in Rome who fears for his life after witnessing an attempted murder in an art gallery, crystallised the sub-genre’s popularity. Launching Argento to international stardom and gaining him several Hitchcock comparisons along the way, the film is a veritable checklist of the visual and thematic obsessions that he would return to throughout his career.  
@@ -175,5 +175,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjgyMzY1MV19
+eyJoaXN0b3J5IjpbMTAxNzQ0NTU3NF19
 -->
