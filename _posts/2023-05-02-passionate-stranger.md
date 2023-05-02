@@ -6,8 +6,8 @@ date: 2023-05-02
 readtime: true
 categories: ['MURIEL BOX<br>A WOMAN’S TAKE']
 tags: [Comedy]
-metadata: 'UK 195, 94 mins<br> Director: Muriel Baker'
-pdf: '2023-05-01-seventh-veil.pdf'
+metadata: 'UK 1956, 93 mins<br> Director: Muriel Box'
+pdf: '2023-05-02-passionate-stranger.pdf'
 ---
 
 _+ intro by filmmaker Carol Morley (Tuesday 2 May only)_
@@ -95,5 +95,5 @@ UK 1956
 
 A StudioCanal release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzNTg5MDIxXX0=
+eyJoaXN0b3J5IjpbLTk4MTA1NzU5M119
 -->
