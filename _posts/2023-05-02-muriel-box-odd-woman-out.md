@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: The Passionate Stranger
+published: true
+date: 2023-05-02
+readtime: true
+categories: ['MURIEL BOX<br>A WOMAN’S TAKE']
+tags: [Comedy]
+metadata: 'UK 1956, 93 mins<br> Director: Muriel Box'
+pdf: '2023-05-02-passionate-stranger.pdf'
+---
 
 Despite being an accomplished screenwriter and Britain’s most prolific female director, Muriel Box is little remembered today. Join us for this season introduction event as filmmaker Carol Morley, journalist Rachel Cooke and academic Melanie Williams join season curator Josephine Botting to discuss Box’s trailblazing career and reflect on the difficulties women still face in making their mark on the industry.  
 **bfi.org.uk**
@@ -26,6 +35,71 @@ However, she was a role model for young women. Her chequered career illustrates 
 **Melanie Williams** is Professor of Film and Television Studies at the University of East Anglia. A specialist in British film history, she is the author of numerous books on the topic, including _Female Stars of British Cinema_, _David Lean_, _Transformation and Tradition in 1960s British Cinema_, and a BFI Film Classic book on _A Taste of Honey_. She is currently working towards a book on Muriel Box.  
 
 **Dr Josephine Botting** is a Curator at the BFI National Archive and author of _Adrian Brunel and British Cinema of the 1920s_.  
+<br>
+
+**MURIEL BOX: A WOMAN’S TAKE**  
+**The Seventh Veil + The English Inn**  
+Mon 1 May 13:00; Thu 11 May 18:10 (+ intro by Lucy Bolton, Reader in Film Studies at Queen Mary)  
+**Good-Time Girl**  
+Mon 1 May 15:40; Fri 12 May 18:10 (+ intro by Television Producer and Director, Rebecca Towers)  
+**Muriel Box: The Odd Woman Out**  
+Tue 2 May 18:15  
+**The Passionate Stranger (aka A Novel Affair)**  
+Tue 2 May 20:30 (+ intro by filmmaker Carol Morley); Thu 18 May 18:20; Tue 30 May 20:30  
+**Easy Money**  
+Wed 3 May 18:20; Mon 8 May 16:00  
+**Holiday Camp**  
+Sat 6 May 15:30; Wed 17 May 20:30  
+**The Lost People (aka Cockpit)**  
+Sat 6 May 18:30; Sun 21 May 13:40  
+**The Happy Family (aka Mr Lord Says No/Live and Let Live)**  
+Sun 7 May 18:10; Sat 20 May 15:15  
+**Street Corner (aka Both Sides of the Law/Gentle Arm/The Policewoman)**  
+Mon 8 May 13:30; Tue 30 May 18:20 (+ intro by season curator Josephine Botting)  
+**Simon and Laura**  
+Mon 8 May 18:10; Sun 28 May 16:00  
+**Philosophical Screens: The Seventh Veil**  
+Thu 11 May 20:15 Blue Room  
+**Rattle of a Simple Man**  
+Wed 17 May 18:10; Tue 23 May 20:30  
+**The Truth about Women**  
+Thu 18 May 20:40; Sun 28 May 18:10  
+**Eyewitness (aka Point of Crisis) + A Ride with Uncle Joe**  
+Sun 21 May 18:20; Fri 26 May 18:10  
+**This Other Eden**  
+Thu 25 May 18:20; Sat 27 May 13:45  
+<br>
+**With thanks to**  
+StudioCanal for their new 4K restorations from the best available original materials, scanned and restored to produce three brand new HD masters
+
+<img style="float: left;" src="/img/studiocanal.png"><br><br><br><br>
+
+Three restored Muriel Box titles (_The Passionate Stranger_, _The Truth about Women_ and _Rattle of a Simple Man_) are being released on Blu-ray and DVD by StudioCanal in May and will be available from the BFI Shop.
+<br><br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzg3NjA2MDJdfQ==
+eyJoaXN0b3J5IjpbLTQ2NjI5OTUwOSwtMTE3ODc2MDYwMl19
 -->
