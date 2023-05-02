@@ -23,6 +23,163 @@ Beautiful, thrilling, often deeply unsettling, _L’uccello dalle piume di crist
 **A contemporary review**  
 Apart from one or two concessions to contemporary fashions in violence in the shape of some gory stabbings, this murder mystery (something of a novelty from the Italian studios) is developed more or less in the classic Hollywood tradition and is all the better for it. Repeated flashbacks to the crucial scene provide ample opportunity for audience participation in true Hitchcock manner, and Dario Argento’s direction is well paced throughout, if occasionally a little overwrought. Fluid camerawork, capable performances, and an effectively eerie score by Ennio Morricone all help to mask a few holes in the otherwise tidily written plot. Altogether an eminently watchable film from a director of some promise.  
 **_Monthly Film Bulletin_, November 1970**
+
+<![endif]-->
+
+**THE BIRD WITH THE CRYSTAL PLUMAGE**
+
+**(L’UCCELLO DALLE PIUME DI CRISTALLO)**
+
+_Director_: Dario Argento  
+_©_: Seda Spettacoli S.p.A.  
+_Production Company_: Seda Spettacoli S.p.A. (Rome), CCC Filmkunst (Berlin)  
+_Produced by_: Salvatore Argento  
+_German Co-producer_: Artur Brauner *  
+_Production Manager_: Camillo Teti  
+_German Production Manager_: Rudolph Hertzog Jr *  
+_Italian Production Manager_: Ugo Valenti *  
+_Production Manager Supervisor_: Umberto Sambuco  
+_Administrator_: Angelo Tavazza  
+_Assistant Director_: Roberto Pariante  
+_Script Girl_: Lida Chitarrini  
+_Written by_: Dario Argento  
+_Based on a novel by:_ Bryan Edgar Wallace  
+_Loosely based on_ The Screaming Mimi _by_: Fredric Brown *  
+_Director of Photography_: Vittorio Storaro  
+_Camera Operators_: Enrico Umetelli, Arturo Zavattini  
+_Stills Cameraman [sic]_: Nuova Dial  
+_Editor_: Franco Fraticelli  
+_1st Assistant Editor_: Cesarina Casini  
+_2nd Assistant Editor_: Sergio Fraticelli  
+_Set Dressing_: Dario Micheli  
+_Costumes_: Dario Micheli  
+_Make-up Man_: Pino Ferrante  
+_Hairdresser_: Lidia Puglia  
+_Title Design_: Luciano Vittori  
+_Music by_: Ennio Morricone  
+_Music Conducted by_: Bruno Nicolai  
+_Sound Technician_: Carlo Diotallevi  
+_Boom Man_: Eugenio Fiore  
+_Sound Mixer_: Alberto Bartolomei  
+_Sound Editor_: Ken Rolls  
+_Sound Effects_: Luciano Anzellotti  
+_Dialogue Director_: Robert Rietti  
+_Music Publisher_: Bixio-S.A.M.  
+_Interiors filmed at_: Incir-De Paolis
+
+_Cast:_  
+Tony Musante _(Sam Dalmas, a writer)_  
+Suzy Kendall _(Julia)_  
+Enrico Maria Salerno _(Inspector Morosini)_  
+Eva Renzi _(Monica Ranieri)_  
+Umberto Raho _(Alberto Ranieri, gallery owner)_  
+Raf Valenti _(Professor Carlo Dover, ornithologist)_  
+Giuseppe Castellano
+
+_(Monti, Morosini's chief investigator)_  
+Mario Adorf _(Berto Consalvi, artist)_  
+Pino Patti _(Faiena, informer)_  
+Gildo Di Marco _(Garullo, pimp)_  
+Rosa Toros _(4th victim, photographed at the races)_  
+Omar Bonaro _(Morosini investigator)_  
+Fulvio Mingozzi _(Morosini investigator)_  
+Werner Peters _(antiquarian)_  
+Karen Valenti _(Tina, 5th victim)_  
+Carla Mancini _(girl in street)_  
+Gino Erba _(Morosini investigator)_  
+Annamaria Spogli _(Rosita, prostitute - 2nd victim) *_  
+Gianni Di Benedetto
+
+_(Professor Rinoldi, psychiatrist) *_  
+Reggie Nalder _(Needles, assassin) *_  
+Liana Del Balzo _(old lady in the fog) *_
+
+Italy/West Germany 1970
+
+96 mins
+
+* Uncredited
+
+**DARIO ARGENTO:**
+
+**DOORS INTO DARKNESS**
+
+**The Cat o’ Nine Tails (Il gatto a nove code)**
+
+Mon 1 May 18:20; Sat 13 May 11:20; Thu 16 May 20:45
+
+**The Bird with the Crystal Plumage (L’uccello dalle piume di cristallo)**
+
+Tue 2 May 18:10; Sat 13 May 20:45; Tue 16 May 21:00
+
+**The Five Days (Le cinque giornate)**
+
+Tue 2 May 20:35; Fri 19 May 18:15
+
+**Four Flies on Grey Velvet (4 mosche di velluto grigio)**
+
+Wed 3 May 20:30; Sat 6 May 17:40
+
+**Two Evil Eyes (segment: The Black Cat) (Due occhi diabolici: Il gatto nero)**
+
+Wed 4 May 21:00; Mon 22 May 20:55
+
+**The Stendhal Syndrome (La sindrome di Stendhal)**
+
+Fri 5 May 18:05; Sun 7 May 18:20
+
+**Deep Red (Profondo rosso)**
+
+Fri 5 May 20:35; Sat 13 May 15:00 (+ Q&A with Dario Argento); Tue 23 May 18:10
+
+**Do You Like Hitchcock? (Ti piace Hitchcock?)**
+
+Sat 6 May 20:40; Tue 30 May 20:40
+
+**Trauma**
+
+Mon 8 May 15:50; Sun 28 May 15:40
+
+**Opera**
+
+Mon 8 May 18:30 (+ intro by Michael Blyth, season curator); Sat 27 May 20:45
+
+**Dark Glasses (Occhiali neri)**
+
+Wed 10 May 21:00; Wed 31 May 20:40
+
+**Suspiria**
+
+Fri 12 May 20:40 (+ intro by Dario Argento); Sat 20 May 18:10
+
+**Tenebrae (Tenebre)**
+
+Sat 13 May 18:20 (+ intro by Dario Argento); Wed 17 May 20:45; Tue 23 May 20:50
+
+**Inferno**
+
+Mon 15 May 20:45; Sat 20 May 20:45  
+**Phenomena**  
+Fri 19 May 20:45; Mon 29 May 15:50  
+**The Phantom of the Opera (Il fantasma dell’opera)**  
+Sat 20 May 15:50; Fri 26 May 20:40  
+**Sleepless (Non ho sonno)**  
+Sun 21 May 18:10; Sat 27 May 17:45  
+**Mother of Tears – The Third Mother (La terza madre)**  
+Wed 24 May 20:40; Mon 29 May 18:40  
+**The Card Player (Il cartaio)**  
+Thu 25 May 20:30; Sun 28 May 18:20  
+
+**Strange Phenomena: Argento Season Introduction**  
+This video will be available to watch for free on BFI YouTube from 19.30 on Mon 17 Apr  
+
+**With thanks to**  
+Camilla Cormanni and Paola Ruggiero at Cinecittà.  
+Presented in collaboration with the Italian Embassy in London and the Italian Cultural Institute  
+
+**Co-produced by**  
+Cinecittà, Rome  
+All restored titles courtesy of Cinecittà  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODE2ODA1MV19
+eyJoaXN0b3J5IjpbLTE0NzcxNzUyNTRdfQ==
 -->
