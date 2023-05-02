@@ -65,18 +65,16 @@ _Sound Editor_: Ken Rolls
 _Sound Effects_: Luciano Anzellotti  
 _Dialogue Director_: Robert Rietti  
 _Music Publisher_: Bixio-S.A.M.  
-_Interiors filmed at_: Incir-De Paolis
+_Interiors filmed at_: Incir-De Paolis  
 
-_Cast:_  
+**Cast**  
 Tony Musante _(Sam Dalmas, a writer)_  
 Suzy Kendall _(Julia)_  
 Enrico Maria Salerno _(Inspector Morosini)_  
 Eva Renzi _(Monica Ranieri)_  
 Umberto Raho _(Alberto Ranieri, gallery owner)_  
 Raf Valenti _(Professor Carlo Dover, ornithologist)_  
-Giuseppe Castellano
-
-_(Monti, Morosini's chief investigator)_  
+Giuseppe Castellano _(Monti, Morosini's chief investigator)_  
 Mario Adorf _(Berto Consalvi, artist)_  
 Pino Patti _(Faiena, informer)_  
 Gildo Di Marco _(Garullo, pimp)_  
@@ -88,76 +86,43 @@ Karen Valenti _(Tina, 5th victim)_
 Carla Mancini _(girl in street)_  
 Gino Erba _(Morosini investigator)_  
 Annamaria Spogli _(Rosita, prostitute - 2nd victim) *_  
-Gianni Di Benedetto
-
-_(Professor Rinoldi, psychiatrist) *_  
+Gianni Di Benedetto _(Professor Rinoldi, psychiatrist) *_  
 Reggie Nalder _(Needles, assassin) *_  
-Liana Del Balzo _(old lady in the fog) *_
+Liana Del Balzo _(old lady in the fog) *_  
 
-Italy/West Germany 1970
+Italy/West Germany 1970  
+96 mins  
 
-96 mins
+* Uncredited  
 
-* Uncredited
-
-**DARIO ARGENTO:**
-
-**DOORS INTO DARKNESS**
-
-**The Cat o’ Nine Tails (Il gatto a nove code)**
-
-Mon 1 May 18:20; Sat 13 May 11:20; Thu 16 May 20:45
-
-**The Bird with the Crystal Plumage (L’uccello dalle piume di cristallo)**
-
-Tue 2 May 18:10; Sat 13 May 20:45; Tue 16 May 21:00
-
-**The Five Days (Le cinque giornate)**
-
-Tue 2 May 20:35; Fri 19 May 18:15
-
-**Four Flies on Grey Velvet (4 mosche di velluto grigio)**
-
-Wed 3 May 20:30; Sat 6 May 17:40
-
-**Two Evil Eyes (segment: The Black Cat) (Due occhi diabolici: Il gatto nero)**
-
-Wed 4 May 21:00; Mon 22 May 20:55
-
-**The Stendhal Syndrome (La sindrome di Stendhal)**
-
-Fri 5 May 18:05; Sun 7 May 18:20
-
-**Deep Red (Profondo rosso)**
-
-Fri 5 May 20:35; Sat 13 May 15:00 (+ Q&A with Dario Argento); Tue 23 May 18:10
-
-**Do You Like Hitchcock? (Ti piace Hitchcock?)**
-
-Sat 6 May 20:40; Tue 30 May 20:40
-
-**Trauma**
-
-Mon 8 May 15:50; Sun 28 May 15:40
-
-**Opera**
-
-Mon 8 May 18:30 (+ intro by Michael Blyth, season curator); Sat 27 May 20:45
-
-**Dark Glasses (Occhiali neri)**
-
-Wed 10 May 21:00; Wed 31 May 20:40
-
-**Suspiria**
-
-Fri 12 May 20:40 (+ intro by Dario Argento); Sat 20 May 18:10
-
-**Tenebrae (Tenebre)**
-
-Sat 13 May 18:20 (+ intro by Dario Argento); Wed 17 May 20:45; Tue 23 May 20:50
-
-**Inferno**
-
+**DARIO ARGENTO: DOORS INTO DARKNESS**  
+**The Cat o’ Nine Tails (Il gatto a nove code)**  
+Mon 1 May 18:20; Sat 13 May 11:20; Thu 16 May 20:45  
+**The Bird with the Crystal Plumage (L’uccello dalle piume di cristallo)**  
+Tue 2 May 18:10; Sat 13 May 20:45; Tue 16 May 21:00  
+**The Five Days (Le cinque giornate)**  
+Tue 2 May 20:35; Fri 19 May 18:15  
+**Four Flies on Grey Velvet (4 mosche di velluto grigio)**  
+Wed 3 May 20:30; Sat 6 May 17:40  
+**Two Evil Eyes (segment: The Black Cat) (Due occhi diabolici: Il gatto nero)**  
+Wed 4 May 21:00; Mon 22 May 20:55  
+**The Stendhal Syndrome (La sindrome di Stendhal)**  
+Fri 5 May 18:05; Sun 7 May 18:20  
+**Deep Red (Profondo rosso)**  
+Fri 5 May 20:35; Sat 13 May 15:00 (+ Q&A with Dario Argento); Tue 23 May 18:10  
+**Do You Like Hitchcock? (Ti piace Hitchcock?)**  
+Sat 6 May 20:40; Tue 30 May 20:40  
+**Trauma**  
+Mon 8 May 15:50; Sun 28 May 15:40  
+**Opera**  
+Mon 8 May 18:30 (+ intro by Michael Blyth, season curator); Sat 27 May 20:45  
+**Dark Glasses (Occhiali neri)**  
+Wed 10 May 21:00; Wed 31 May 20:40  
+**Suspiria**  
+Fri 12 May 20:40 (+ intro by Dario Argento); Sat 20 May 18:10  
+**Tenebrae (Tenebre)**  
+Sat 13 May 18:20 (+ intro by Dario Argento); Wed 17 May 20:45; Tue 23 May 20:50  
+**Inferno**  
 Mon 15 May 20:45; Sat 20 May 20:45  
 **Phenomena**  
 Fri 19 May 20:45; Mon 29 May 15:50  
@@ -181,5 +146,5 @@ Presented in collaboration with the Italian Embassy in London and the Italian Cu
 Cinecittà, Rome  
 All restored titles courtesy of Cinecittà  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzcxNzUyNTRdfQ==
+eyJoaXN0b3J5IjpbLTE2NzI1ODg2MzRdfQ==
 -->
