@@ -141,7 +141,7 @@ Presented in collaboration with the Italian Embassy in London and the Italian Cu
 **Co-produced by**  
 Cinecittà, Rome  
 All restored titles courtesy of Cinecittà  
-<img style="float: left;" src="/img/studiocanal.png"><br><br><br><br>
+<img style="float: left;" src="/img/cinecitta.png"><br><br><br><br>
 
 
 **SIGHT AND SOUND**<br>
@@ -167,5 +167,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzMxMjI1NV19
+eyJoaXN0b3J5IjpbMjYwNDk1NDk2XX0=
 -->
