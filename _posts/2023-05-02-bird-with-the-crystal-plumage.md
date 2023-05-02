@@ -26,14 +26,13 @@ Assured though it is, it’s by no means perfect. One of the main criticisms lev
 But he makes up for the narrative slackness with ravishing photography (courtesy of Vittorio Storaro) and those extraordinarily memorable set pieces – Sam trapped between the glass doors, impotently trying to save Monica from her attacker; a chase through a junkyard; Dalmas trapped again, this time beneath a bizarre metal sculpture as the truth about the killer is finally revealed. It’s in these scenes where Argento really shines, directing with a real sense of energy and with an eye for the unusual angle, the stunning set design and the perfect colour palette. He may not have cared too much about the minutiae of the plot, but he’s fully invested in these moments.
 
 Beautiful, thrilling, often deeply unsettling, _L’uccello dalle piume di cristallo_ was a debut that Argento found initially hard to follow. His second film, _Il gatto a nove code_/_The Cat o’ Nine Tails_ (1971) is another thriller but a rather mundane one compared to his debut. It’s by no means bad – far from it in fact – but it rather pales by comparison to his bravura debut. In Maitland McDonagh’s 1991 study of Argento’s films, _Broken Mirrors, Broken Minds: The Dark Dreams of Dario Argento_, the director admitted that wasn’t pleased with the way that the film turned out and has repeatedly cited it as his least favourite film. His third film, _4 mosche di velluto grigio_/_Four Flies on Grey Velvet_ (1971) saw him back on form and for the rest of the decade, Argento didn’t look back, constructing a string of outstanding horror thrillers the quality of which he’s sadly failed to replicate for many years.  
-**Kevin Lyons, eofftvreview.wordpress.com, 26 October 2018**
+**Kevin Lyons, eofftvreview.wordpress.com, 26 October 2018**  
 
 **A contemporary review**  
 Apart from one or two concessions to contemporary fashions in violence in the shape of some gory stabbings, this murder mystery (something of a novelty from the Italian studios) is developed more or less in the classic Hollywood tradition and is all the better for it. Repeated flashbacks to the crucial scene provide ample opportunity for audience participation in true Hitchcock manner, and Dario Argento’s direction is well paced throughout, if occasionally a little overwrought. Fluid camerawork, capable performances, and an effectively eerie score by Ennio Morricone all help to mask a few holes in the otherwise tidily written plot. Altogether an eminently watchable film from a director of some promise.  
 **_Monthly Film Bulletin_, November 1970**  
 
-**THE BIRD WITH THE CRYSTAL PLUMAGE**  
-**(L’UCCELLO DALLE PIUME DI CRISTALLO)**  
+**THE BIRD WITH THE CRYSTAL PLUMAGE (L’UCCELLO DALLE PIUME DI CRISTALLO)**  
 _Director_: Dario Argento  
 _©_: Seda Spettacoli S.p.A.  
 _Production Company_: Seda Spettacoli S.p.A. (Rome), CCC Filmkunst (Berlin)  
@@ -97,7 +96,7 @@ Liana Del Balzo _(old lady in the fog) *_
 Italy/West Germany 1970  
 96 mins  
 
-* Uncredited  
+\* Uncredited  
 
 **DARIO ARGENTO: DOORS INTO DARKNESS**  
 **The Cat o’ Nine Tails (Il gatto a nove code)**  
@@ -175,5 +174,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzQ0NTU3NF19
+eyJoaXN0b3J5IjpbNzYxNDcwNDkwXX0=
 -->
