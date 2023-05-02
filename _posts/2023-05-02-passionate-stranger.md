@@ -1,4 +1,14 @@
-<![endif]-->
+---
+layout: post
+title: The Passionate Stranger
+published: true
+date: 2023-05-02
+readtime: true
+categories: ['MURIEL BOX<br>A WOMAN’S TAKE']
+tags: [Comedy]
+metadata: 'UK 195, 94 mins<br> Director: Muriel Baker'
+pdf: '2023-05-01-seventh-veil.pdf'
+---
 
 _+ intro by filmmaker Carol Morley (Tuesday 2 May only)_
 
@@ -85,5 +95,5 @@ UK 1956
 
 A StudioCanal release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjY1NzExNV19
+eyJoaXN0b3J5IjpbODUzNTg5MDIxXX0=
 -->
