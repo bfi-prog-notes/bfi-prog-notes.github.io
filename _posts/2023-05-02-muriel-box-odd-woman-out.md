@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The Passionate Stranger
+title: Muriel Box <br>The Odd Woman Out
 published: true
 date: 2023-05-02
 readtime: true
 categories: ['MURIEL BOX<br>A WOMAN’S TAKE']
-tags: [Comedy]
-metadata: 'UK 1956, 93 mins<br> Director: Muriel Box'
-pdf: '2023-05-02-passionate-stranger.pdf'
+tags: [Talk]
+metadata: 
+pdf: '2023-05-02-muriel-box-odd-woman-out.pdf'
 ---
 
 Despite being an accomplished screenwriter and Britain’s most prolific female director, Muriel Box is little remembered today. Join us for this season introduction event as filmmaker Carol Morley, journalist Rachel Cooke and academic Melanie Williams join season curator Josephine Botting to discuss Box’s trailblazing career and reflect on the difficulties women still face in making their mark on the industry.  
@@ -101,5 +101,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjI5OTUwOSwtMTE3ODc2MDYwMl19
+eyJoaXN0b3J5IjpbLTIxMTAyNjEzMzAsLTExNzg3NjA2MDJdfQ
+==
 -->
