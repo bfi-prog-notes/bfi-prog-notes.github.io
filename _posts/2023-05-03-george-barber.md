@@ -54,7 +54,7 @@ He has also produced a number of ‘language’ free, conceptual works, like ‘
 ‘Gibberish’ attempts to interrupt and convey meaning using nonsense language. ‘Gibberish’ seems to be sense, yet most of the recognisable language spoken is ludicrous and spontaneously thought up. The work starts in a garden with a discussion about lost suitcases at an airport, and over 5 minutes develops through various scenarios into being about a loved kitten and the end of the world.
 
 The first ‘Shouting Match’, is a well-known work that has been shown as a single screen work at the Tate Modern, DCA and Miami Basel. Three other versions have been made, one in Tel Aviv, Bangalore, and New Orleans. This four screen installation of all shouting matches was first shown at Chapter Arts, Cardiff to much acclaim.  
-**georgebarber.net**
+**georgebarber.net**  
 
 **Matthew Harle** is a writer and curator from London. He documents cultural histories and everyday life in books, exhibitions and live events.
 
@@ -107,5 +107,5 @@ Questions/comments? Contact the Programme Notes team by [email](mailto: prognote
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzYxNjc2NywtMTI3ODA5NzAyOV19
+eyJoaXN0b3J5IjpbLTQ2NjI3MzQ3MywtMTI3ODA5NzAyOV19
 -->
