@@ -20,7 +20,60 @@ Morricone had scored _Bird_ and _Cat_ for Argento but a falling out on _Four Fli
 _Four Flies on Grey Velvet_ is a film full of odd ideas (Tobias is haunted by recurring dreams of an increasingly unsettling public beheading), terrific set-pieces and excellent musical cues. It’s chief weakness is the performance of Michael Brandon who cruises through the whole thing as if asleep at the wheel. Argento had previously considered Terence Stamp, Michael York (who had apparently been keen to do it but was side-tracked by work on Etienne Périer’s _Zeppelin_ (1971) which was running over schedule) and even members of  The Beatles. Given the parlous state of Argento’s first marriage at the time, the fact that Brandon was such a stand-in for the director and that he even looks like him in some shots, one wonders what Argento was telling us about himself by portraying Tobias as a rather unlikable ‘hero.’
 
 But it’s a minor and easily overlooked failing in a film that’s otherwise a riveting finale to Argento’s ‘animal’ trilogy. Had _Five Days_ been more successful, Argento may well have headed off for pastures new, but his return to the _giallo_, with added supernatural overtones, with _Deep Red_ set him on a course that would result in a string of genre classics. If some of his later work has been, at best, patchy, he often came up with the odd set piece or moment of inspired madness that at least got even the most sceptical of fans talking. In retrospect, _Four Flies_ seems like the inevitable stepping-stone between the more realistic _gialli_ of his early films and the increasingly fantastical, baroque and just plain weird films yet to come.  
-**Kevin Lyons, eofftvreview.wordpress.com, 26 October 2018**
+**Kevin Lyons, eofftvreview.wordpress.com, 26 October 2018**  
+<br>
+
+**FOUR FLIES ON GREY VELVET**
+**QUATTRO MOSCHE DI VELLUTO GRIGIO)**   
+_Directed by:_ Dario Argento  
+_©:_ 1972 by Seda Spettacoli S.p.A.  
+_Production Companies:_ Seda Spettacoli, Rome/Universal Prod. France, Paris  
+_Produced by:_ Salvatore Argento  
+_Written by:_ Dario Argento  
+_Original Story by:_ Dario Argento, Luigi Cozzi, Mario Foglietti  
+_Lighting Cameraman:_ Franco di Giacomo  
+_Film Editor:_ Françoise Bonnot  
+_Special Effects:_ Cataldo Galiano  
+_Production Designer:_ Enrico Sabbatini  
+_Make-up Artist:_ Giuliano Laurenti  
+_Hairstylist:_ Paolo Borselli  
+_Music Composed by:_ Ennio Morricone  
+_Sound Engineer:_ Mario Ronchetti  
+_Filmed at_ In.Ci.R-De Paolis - Rome  
+
+**Cast**
+Michael Brandon _(Robert Tobias)_  
+Mimsy Farmer _(Nina Tobias)_  
+Jean-Pierre Marielle _(Gianni Arrosio)_  
+Francine Racette _(Dalia)_  
+Bud Spencer _('God' Godfrey)_  
+Calisto Calisti _(Carlo Morosi)_  
+Marisa Fabbri _(Hilda, the maid)_  
+Oreste Lionello _(the professor)_  
+Fabrizio Moroni _(Mirko)_  
+Stefano Satta Flores _(Andrea)_  
+Costanza Spada _(Maria)_  
+Aldo Bufi Landi _(coroner)_  
+Tom Felleghy _(police commissioner)_  
+Dante Cleri _('2 person' coffin salesman)_  
+Corrado Olmi _(porter)_  
+Guerrino Crivello _(Rambaldi, neighbour)_  
+Gildo Di Marco _(postman)_  
+Fulvio Mingozzi _(music studio manager)_  
+Jacques Stany _(psychiatrist)_  
+Pino Patti  
+Stefano Oppedisano  
+Ada Pometti  
+Leopoldo Migliori  
+Gianni Di Benedetto  *  
+Sandro Dori  *  
+Renzo Marignano  *  
+Luigi Cozzi _(masked killer)_ *  
+
+Italy-France 1971  
+104 mins  
+
+\* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzgxODA4ODddfQ==
+eyJoaXN0b3J5IjpbLTMyMDMwMDMzMl19
 -->
