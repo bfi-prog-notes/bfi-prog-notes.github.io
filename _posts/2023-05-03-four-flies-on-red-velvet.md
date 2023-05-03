@@ -7,7 +7,7 @@ readtime: true
 categories: ['DARIO ARGENTO<br>DOORS INTO DARKNESS']
 tags: [Thriller, Horror]
 metadata: 'Italy/France 1971, 104 mins<br> Director: Dario Argento'
-pdf: '2023-05-03-f.pdf'
+pdf: '2023-05-03-four-flies-on-grey-velvet.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -159,5 +159,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjU2NjA2MCwtMzIwMzAwMzMyXX0=
+eyJoaXN0b3J5IjpbLTExNzExMDc1NTksLTMyMDMwMDMzMl19
 -->
