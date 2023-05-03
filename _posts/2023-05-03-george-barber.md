@@ -16,17 +16,14 @@ We are thrilled to present a BFI National Archive showcase of new and recent wor
 
 **Film programme**
 
-**Mind Wandering in a Van  
-**UK 2022, 28minA van travels around London. Participants are asked to listen to music and then tell us what they are thinking about.
+**Mind Wandering in a Van** UK 2022, 28 mins  
+A van travels around London. Participants are asked to listen to music and then tell us what they are thinking about.
 
-**Thirty Minutes of Crawl  
-**UK 2015, 5min  
+**Thirty Minutes of Crawl** UK 2015, 5 mins  
 The problem of swimming while expecting a Fed Ex delivery.
 
-**We Need to Speak Tony  
-**UK 2017, 16min  
-After being briefed individually and fed anecdotes about Tony Blair by  
-George Barber, a group of improvisers ‘channel’ themselves into being the  
+**We Need to Speak Tony** UK 2017, 16 mins  
+After being briefed individually and fed anecdotes about Tony Blair by George Barber, a group of improvisers ‘channel’ themselves into being the  
 ex-PM for the afternoon.
 
 **Garden**  **Centre**UK 2015, 2minGeorge Barber relates his new artistic manifesto involving NOT being at the centre of things but preferring to be something intriguing at the edge of the frame. It’s all going well too.
@@ -104,5 +101,6 @@ Questions/comments? Contact the Programme Notes team by [email](mailto: prognote
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Nzk2NTc0MywtMTI3ODA5NzAyOV19
+eyJoaXN0b3J5IjpbLTE1NTU3MjEzMjAsLTEyNzgwOTcwMjldfQ
+==
 -->
