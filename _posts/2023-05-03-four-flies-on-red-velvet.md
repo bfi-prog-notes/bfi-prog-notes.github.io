@@ -23,8 +23,7 @@ But it’s a minor and easily overlooked failing in a film that’s otherwise a 
 **Kevin Lyons, eofftvreview.wordpress.com, 26 October 2018**  
 <br>
 
-**FOUR FLIES ON GREY VELVET**
-**QUATTRO MOSCHE DI VELLUTO GRIGIO)**   
+**FOUR FLIES ON GREY VELVET (QUATTRO MOSCHE DI VELLUTO GRIGIO)**   
 _Directed by:_ Dario Argento  
 _©:_ 1972 by Seda Spettacoli S.p.A.  
 _Production Companies:_ Seda Spettacoli, Rome/Universal Prod. France, Paris  
@@ -74,6 +73,7 @@ Italy-France 1971
 104 mins  
 
 \* Uncredited  
+<br
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDMwMDMzMl19
+eyJoaXN0b3J5IjpbLTEyMTcyMjEwNDAsLTMyMDMwMDMzMl19
 -->
