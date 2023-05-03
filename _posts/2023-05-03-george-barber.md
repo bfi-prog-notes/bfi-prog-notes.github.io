@@ -16,23 +16,29 @@ We are thrilled to present a BFI National Archive showcase of new and recent wor
 
 **Film programme**
 
-**Mind Wandering in a Van** UK 2022, 28 mins  
+**Mind Wandering in a Van**  
+UK 2022, 28 mins  
 A van travels around London. Participants are asked to listen to music and then tell us what they are thinking about.
 
-**Thirty Minutes of Crawl** UK 2015, 5 mins  
+**Thirty Minutes of Crawl**  
+UK 2015, 5 mins  
 The problem of swimming while expecting a Fed Ex delivery.
 
-**We Need to Speak Tony** UK 2017, 16 mins  
-After being briefed individually and fed anecdotes about Tony Blair by George Barber, a group of improvisers ‘channel’ themselves into being the  
-ex-PM for the afternoon.
+**We Need to Speak Tony**  
+UK 2017, 16 mins  
+After being briefed individually and fed anecdotes about Tony Blair by George Barber, a group of improvisers ‘channel’ themselves into being the ex-PM for the afternoon.
 
-**Garden**  **Centre**UK 2015, 2minGeorge Barber relates his new artistic manifesto involving NOT being at the centre of things but preferring to be something intriguing at the edge of the frame. It’s all going well too.
+**Garden Centre**  
+UK 2015, 2 mins  
+George Barber relates his new artistic manifesto involving NOT being at the centre of things but preferring to be something intriguing at the edge of the frame. It’s all going well too.
 
-**Video Marilyns Andy Never Thought Of  
-**UK 2022, 5min  
+**Video Marilyns Andy Never Thought Of**  
+UK 2022, 5 mins    
 Barber took a photo of Marilyn and put it through analogue and digital processes in four short chapters.
 
-**Uprooted**UK 2020, 20minA poetic response to childhood, growing up in Guyana and leaving once Barber’s parents retired. It also combines, ecological issues, Jim Jones, observations travelling in one of the last pristine rain forests in the world.
+**Uprooted**  
+UK 2020, 20 mins  
+A poetic response to childhood, growing up in Guyana and leaving once Barber’s parents retired. It also combines, ecological issues, Jim Jones, observations travelling in one of the last pristine rain forests in the world.
 
 **George Barber**’s early work on ‘The Greatest Hits of Scratch Video’ is internationally known and has been featured in many galleries and festivals across the world.  
 _The Independent_ and _Sunday Times_ ran features on it, and the tapes, unusually for video art, sold in record shops. His two famous works of the period, ‘Absence of Satan’ and ‘Yes Frank No Smoke’ are screened regularly and many of the other works are considered seminal in the history of British Video Art. Many younger artists, including James Richards and Hanna Perry have acknowledged Barber’s influence.
@@ -101,6 +107,5 @@ Questions/comments? Contact the Programme Notes team by [email](mailto: prognote
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU3MjEzMjAsLTEyNzgwOTcwMjldfQ
-==
+eyJoaXN0b3J5IjpbMTAwMzYxNjc2NywtMTI3ODA5NzAyOV19
 -->
