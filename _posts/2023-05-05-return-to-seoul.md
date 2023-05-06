@@ -135,10 +135,11 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQ2MjQxNTcsOTE1MTMxNjA1XX0=
+eyJoaXN0b3J5IjpbOTE2NTE5ODc1LC0yMDA0NjI0MTU3LDkxNT
+EzMTYwNV19
 -->
