@@ -29,7 +29,7 @@ Andrew Spicer, _Sydney Box_ (Manchester and New York: Manchester University Pres
 
 Ann Todd, _The Eighth Veil_ (New York: Putnam, 1981)
 
-Adam Plummer, _The British Trauma Film: Psychoanalysis and Popular British Cinema in the Immediate Aftermath of the Second World War (Bloomsbury Publishing, 2023)
+Adam Plummer, _The British Trauma Film: Psychoanalysis and Popular British Cinema in the Immediate Aftermath of the Second World War_ (Bloomsbury Publishing, 2023)
 
 <br>
 
@@ -97,5 +97,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjI3NDU5MSwtODgwODg2MjM4XX0=
+eyJoaXN0b3J5IjpbLTIwMDIxMjEzNzQsLTg4MDg4NjIzOF19
 -->
