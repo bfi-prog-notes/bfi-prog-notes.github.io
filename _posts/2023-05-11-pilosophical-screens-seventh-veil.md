@@ -1,6 +1,15 @@
+---
+layout: post
+title: Philosophical Screens<br> The Seventh Veil
+published: true
+date: 2023-05-11
+readtime: true
+categories: ['MURIEL BOX<br>A WOMAN’S TAKE']
+tags: [Talk]
+metadata: 
+pdf: '2023-05-11-ph.pdf'
+---
 
-
-<![endif]-->
 
 Our regular philosophical screens event series exploring cinema through a philosophical lens returns this month with a focus on _The Seventh Veil_. With her script, Muriel Box became the first woman to win the Academy Award™ for Best Original Screenplay.
 
@@ -23,5 +32,5 @@ Ann Todd, _The Eighth Veil_ (New York: Putnam, 1981)
 
 Adam Plummer, _The British Trauma Film: Psychoanalysis and Popular British Cinema in the Immediate Aftermath of the Second World War (Bloomsbury Publishing, 2023)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDg4NjIzOF19
+eyJoaXN0b3J5IjpbMTYxNjcyOTAyMCwtODgwODg2MjM4XX0=
 -->
