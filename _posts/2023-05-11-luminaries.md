@@ -25,6 +25,9 @@ The untold story of Indian independence is seen through the décor of the Dishoo
 **Shamil  Thakrar** co-founded Dishoom in 2010. Dishoom now has six sites in London, as well as one in Edinburgh, Manchester and Birmingham, and employs over 1700 people. Before 2010, he had, amongst other things, been a management consultant for 5 years and worked in the food industry for 8 years. Shamil and the Dishoom team care enormously about creating beautiful and democratic shared spaces which pay homage to the old Irani Cafes of Bombay. They also care deeply about creating a company which is an awesome place to work.
 <br><br>
 
+<img style="float: left;" src="/img/uk-asian-film-festival.png">
+<br><br><br><br><br><br><br><br>
+
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
 *Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
