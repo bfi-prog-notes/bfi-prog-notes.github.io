@@ -32,119 +32,121 @@ _Gialli_ already existed in Italian cinema before I started directing films, but
 **Introduction, interview and translation by Giovanni Marchini Camia, _Sight and Sound_, May 2023**
 <br><br>
 
-**DARIO ARGENTO**
+**DARIO ARGENTO**<br>
 
-Born 7 September 1940, Rome, Italy
+Born 7 September 1940, Rome, Italy<br>
 
 Selected filmography
 
 **As Director**
 
-**1970  The Bird with the Crystal Plumage** (L’uccello dalle piume di cristallo) + writer
+**1970  The Bird with the Crystal Plumage** (L’uccello dalle piume di cristallo) + writer<br>
 
 **1971  The Cat o’ Nine Tails  
-**(Il gatto a nove code) + writer
+**(Il gatto a nove code) + writer<br>
 
 **Four Flies on Grey Velvet  
-**(4 mosche di velluto grigio) + writer
+**(4 mosche di velluto grigio) + writer<br>
 
 **1973  The Five Days** (Le cinque giornate)  
-+ writer
++ writer<br>
 
-**La porta sul buio** (TV series, 2 eps)
+**La porta sul buio** (TV series, 2 eps)<br>
 
-**1975  Deep Red** (Profondo rosso) + writer
+**1975  Deep Red** (Profondo rosso) + writer<br>
 
-**1977  Suspiria** + writer
+**1977  Suspiria** + writer<br>
 
-**1980  Inferno** + writer
+**1980  Inferno** + writer<br>
 
-**1982  Tenebrae** (Tenebre) + writer
+**1982  Tenebrae** (Tenebre) + writer<br>
 
-**1985  Phenomena** + prod/writer
+**1985  Phenomena** + prod/writer<br>
 
-**1987  Opera** + prod/writer
+**1987  Opera** + prod/writer<br>
 
 **Gli incubi di Dario Argento  
-**(TV shorts, 9 eps)
+**(TV shorts, 9 eps)<br>
 
-**1990  Two Evil Eyes** (Due occhi diabolici) segment: ‘The Black Cat’ (Il gatto nero) + exec prod/writer
+**1990  Two Evil Eyes** (Due occhi diabolici) segment: ‘The Black Cat’ (Il gatto nero) + exec prod/writer<br>
 
-**1993  Trauma** + prod/writer
+**1993  Trauma** + prod/writer<br>
 
-**1996  The Stendhal Syndrome** (La sindrome di Stendhal) + prod/writer
+**1996  The Stendhal Syndrome** (La sindrome di Stendhal) + prod/writer<br>
 
 **1998  The Phantom of the Opera  
-**(Il fantasma dell’opera) + writer
+**(Il fantasma dell’opera) + writer<br>
 
-**2001  Sleepless** (Non ho sonno) + prod/writer
+**2001  Sleepless** (Non ho sonno) + prod/writer<br>
 
-**2003  The Card Player** (Il cartaio) + prod/writer
+**2003  The Card Player** (Il cartaio) + prod/writer<br>
 
 **2005  Do You Like Hitchcock?  
-**(Ti piace Hitchcock?) (TV film) + writer
+**(Ti piace Hitchcock?) (TV film) + writer<br>
 
-**2005/6  Masters of Horror** (TV series, 2 eps)
+**2005/6  Masters of Horror** (TV series, 2 eps)<br>
 
 **2007  Mother of Tears** (La terza madre)  
-+ prod/writer
++ prod/writer<br>
 
-**2009  Giallo** + writer
+**2009  Giallo** + writer<br>
 
-**2012  Dracula 3D** + writer
+**2012  Dracula 3D** + writer<br>
 
-**2022  Dark Glasses** (Occhiali neri) + writer
+**2022  Dark Glasses** (Occhiali neri) + writer<br>
 
-**As Writer**
+**As Writer**<br>
 
-**1968  Today We Kill, Tomorrow We Die!** (Oggi a me... domani a te!) (d. Tonino Cervi)
+**1968  Today We Kill, Tomorrow We Die!** (Oggi a me... domani a te!) (d. Tonino Cervi)<br>
 
-**The Hell before Death** (Comandamenti per un gangster) (d. Alfio Caltabiano)
+**The Hell before Death** (Comandamenti per un gangster) (d. Alfio Caltabiano)<br>
 
-**Commandos** (d. Armando Crispino)
+**Commandos** (d. Armando Crispino)<br>
 
 **La rivoluzione sessuale  
-**(d. Riccardo Ghione)
+**(d. Riccardo Ghione)<br>
 
 **Once upon a Time in the West  
-**(C’era una volta il West) (d. Sergio Leone) (story)
+**(C’era una volta il West) (d. Sergio Leone) (story)<br>
 
 **1969  Cemetery without Crosses  
-**(Cimitero senza croci) (d. Robert Hossein)
+**(Cimitero senza croci) (d. Robert Hossein)<br>
 
 **Love Circle** (Metti, una sera a cena)  
-(d. Giuseppe Patroni Griffi)
+(d. Giuseppe Patroni Griffi)<br>
 
 **Probability Zero** (Probabilità zero)  
-(d. Maurizio Lucidi)
+(d. Maurizio Lucidi)<br>
 
-**The 5-Man Army** (Un esercito di 5 uomini) (d. Don Taylor, Italo Zingarelli)
+**The 5-Man Army** (Un esercito di 5 uomini) (d. Don Taylor, Italo Zingarelli)<br>
 
 **Battle of the Commandos  
-**(La legione dei dannati) (d. Umberto Lenzi)
+**(La legione dei dannati) (d. Umberto Lenzi)<br>
 
-**Season of the Senses** (La stagione dei sensi) (d. Massimo Franciosa)
+**Season of the Senses** (La stagione dei sensi) (d. Massimo Franciosa)<br>
 
 **1985  Demons** (Dèmoni) (d. Lamberto Bava)  
-+ prod
++ prod<br>
 
-**1986  Demons 2** (Dèmoni 2) (d. Lamberto Bava) + prod
+**1986  Demons 2** (Dèmoni 2) (d. Lamberto Bava) + prod<br>
 
-**1989  The Church** (La chiesa) (d. Michele Soavi) + prod
+**1989  The Church** (La chiesa) (d. Michele Soavi) + prod<br>
 
 **1991  The Sect** (La setta) (d. Michele Soavi)  
-+ prod
++ prod<br>
 
-**1997  The Wax Mask** (M.D.C. - Maschera di cera) (d. Sergio Stivaletti) + prod
+**1997  The Wax Mask** (M.D.C. - Maschera di cera) (d. Sergio Stivaletti) + prod<br>
 
-**As Actor**
+**As Actor**<br>
 
 **1992  Innnocent Blood** (d. John Landis)  
-as paramedic
+as paramedic<br>
 
-**1996  Bits and Pieces** (Il cielo è sempre più blu) (d. Antonello Grimaldi) as man confessing to Franciscan monk
+**1996  Bits and Pieces** (Il cielo è sempre più blu) (d. Antonello Grimaldi) as man confessing to Franciscan monk<br>
 
-**2021** **Vortex** (d. Gaspar Noé) as Him
+**2021** **Vortex** (d. Gaspar Noé) as Him<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDI4MDQ2MSw3NTIwNzA4MjhdfQ==
+eyJoaXN0b3J5IjpbMTc3NTUwNywyMTQ0MjgwNDYxLDc1MjA3MD
+gyOF19
 -->
