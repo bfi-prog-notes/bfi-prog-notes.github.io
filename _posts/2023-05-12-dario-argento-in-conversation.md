@@ -59,63 +59,34 @@ Selected filmography
 **2005/6  Masters of Horror** (TV series, 2 eps)<br>
 **2007  Mother of Tears** (La terza madre)  + prod/writer<br>
 **2009  Giallo** + writer<br>
-
 **2012  Dracula 3D** + writer<br>
-
 **2022  Dark Glasses** (Occhiali neri) + writer<br>
 
 **As Writer**<br>
-
 **1968  Today We Kill, Tomorrow We Die!** (Oggi a me... domani a te!) (d. Tonino Cervi)<br>
-
 **The Hell before Death** (Comandamenti per un gangster) (d. Alfio Caltabiano)<br>
-
 **Commandos** (d. Armando Crispino)<br>
-
-**La rivoluzione sessuale  
-**(d. Riccardo Ghione)<br>
-
-**Once upon a Time in the West  
-**(C’era una volta il West) (d. Sergio Leone) (story)<br>
-
-**1969  Cemetery without Crosses  
-**(Cimitero senza croci) (d. Robert Hossein)<br>
-
-**Love Circle** (Metti, una sera a cena)  
-(d. Giuseppe Patroni Griffi)<br>
-
-**Probability Zero** (Probabilità zero)  
-(d. Maurizio Lucidi)<br>
-
+**La rivoluzione sessuale** (d. Riccardo Ghione)<br>
+**Once upon a Time in the West** (C’era una volta il West) (d. Sergio Leone) (story)<br>
+**1969  Cemetery without Crosses** (Cimitero senza croci) (d. Robert Hossein)<br>
+**Love Circle** (Metti, una sera a cena)  (d. Giuseppe Patroni Griffi)<br>
+**Probability Zero** (Probabilità zero)  (d. Maurizio Lucidi)<br>
 **The 5-Man Army** (Un esercito di 5 uomini) (d. Don Taylor, Italo Zingarelli)<br>
-
-**Battle of the Commandos  
-**(La legione dei dannati) (d. Umberto Lenzi)<br>
-
+**Battle of the Commandos** (La legione dei dannati) (d. Umberto Lenzi)<br>
 **Season of the Senses** (La stagione dei sensi) (d. Massimo Franciosa)<br>
-
-**1985  Demons** (Dèmoni) (d. Lamberto Bava)  
-+ prod<br>
-
+**1985  Demons** (Dèmoni) (d. Lamberto Bava)  + prod<br>
 **1986  Demons 2** (Dèmoni 2) (d. Lamberto Bava) + prod<br>
-
 **1989  The Church** (La chiesa) (d. Michele Soavi) + prod<br>
-
-**1991  The Sect** (La setta) (d. Michele Soavi)  
-+ prod<br>
-
+**1991  The Sect** (La setta) (d. Michele Soavi)  + prod<br>
 **1997  The Wax Mask** (M.D.C. - Maschera di cera) (d. Sergio Stivaletti) + prod<br>
 
 **As Actor**<br>
-
-**1992  Innnocent Blood** (d. John Landis)  
-as paramedic<br>
-
+**1992  Innnocent Blood** (d. John Landis)  as paramedic<br>
 **1996  Bits and Pieces** (Il cielo è sempre più blu) (d. Antonello Grimaldi) as man confessing to Franciscan monk<br>
-
 **2021** **Vortex** (d. Gaspar Noé) as Him<br>
 <br>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDkxMjg3MTEsMjEwMTQ5MjkzLDIxND
-QyODA0NjEsNzUyMDcwODI4XX0=
+eyJoaXN0b3J5IjpbMTQ1NDI4OTI5MSwyMTAxNDkyOTMsMjE0ND
+I4MDQ2MSw3NTIwNzA4MjhdfQ==
 -->
