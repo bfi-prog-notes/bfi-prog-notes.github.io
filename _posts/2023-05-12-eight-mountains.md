@@ -14,18 +14,13 @@ As adults they become much deeper friends than they ever were as children – no
 
 The nature of their friendship is almost anti-dramatic. When Bruno falls for a former girlfriend of Pietro’s, there’s no jealousy or fight; everything is resolved in a simple phone call. When one of the friends needs help, he asks for and receives it. A bad falling out is resolved the next day. Ang Lee’s male romance _Brokeback Mountain_ inevitably comes to mind, given the film’s pastoral setting and long arc of time, but it is good to see friendship here portrayed with as much complexity as sexual relationships so often are. Martinelli and Borghi are superb, opening up to each other in moments of intimacy yet able to switch to a relaxed matey-ness. The framing of every shot is exquisite and the sense of place and time, the steepness and prospect of the mountains, the snow and freshness of spring are palpable. Daniel Nogren’s soundtrack is often surprising and touching.
 
-Some will balk at the leisurely two-and-a-half-hour running time, but in the mountains the air is clearer and time moves at a different pace. And Bruno and Pietro have a bond you can point at with your finger and say, there it is: there’s a friendship.
+Some will balk at the leisurely two-and-a-half-hour running time, but in the mountains the air is clearer and time moves at a different pace. And Bruno and Pietro have a bond you can point at with your finger and say, there it is: there’s a friendship.  
+**John Bleasdale, _Sight and Sound_, bfi.org.uk/sight-and-sound, 20 May 2022**
+<br><br>
 
-John Bleasdale, _Sight and Sound_, bfi.org.uk/sight-and-sound, 20 May 2022
-
-<![endif]-->
-
-**THE EIGHT MOUNTAINS (LE OTTO MONTAGNE)**
-
-_Directed by_: Felix van Groeningen,  
-Charlotte Vandermeersch  
-©: Wildside S.R.L., Rufus BV, Menuetto BV, Pyramide Productions SAS,  
-Vision Distribution S.P.A.  
+**THE EIGHT MOUNTAINS (LE OTTO MONTAGNE)**  
+_Directed by_: Felix van Groeningen,  Charlotte Vandermeersch  
+©: Wildside S.R.L., Rufus BV, Menuetto BV, Pyramide Productions SAS, Vision Distribution S.P.A.  
 _Production Companies_: Wildside, Rufus, Menuetto, Pyramide Productions, Vision Distribution  
 _In collaboration with_: Elastic, Sky  
 _Presented by_: Vision Distribution, Wildside  
@@ -37,8 +32,7 @@ _Post-production Supervisor_: Brando Taccini
 _Artistic Consultant_: Paolo Cognetti  
 _Casting_: Francesco Vedovati  
 _Child Casting_: Morgana Bianco  
-_Written by_: Felix Van Groeningen,  
-Charlotte Vandermeersch  
+_Written by_: Felix Van Groeningen,  Charlotte Vandermeersch  
 _Dialogue Collaborator_: Paolo Cognetti  
 _Based on the novel by_: Paolo Cognetti  
 _Director of Photography_: Ruben Impens  
@@ -58,8 +52,7 @@ _Supervising Sound Editors_: Alessandro Feletti, Andrea Caretti
 _Sound Effects_: Thomas Giorgi  
 _Stunt Co-ordinators_: Diego Guerra, Bruno Verdirosi, Salvatore Sammatrice
 
-_Cast:_
-
+**Cast**  
 Luca Marinelli _(Pietro)_  
 Alessandro Borghi _(Bruno)_  
 Filippo Timi _(Giovanni)_  
@@ -76,11 +69,11 @@ Adriano Favre _(refuge guardian)_
 Francesco Palombelli _(teenage Bruno)_  
 Alex Sassella _(Bruno’s father)_
 
-Italy-Belgium-France-UK 2022©
-
+Italy-Belgium-France-UK 2022©  
 147 mins
 
 A Picturehouse Entertainment release
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzkyNjIzNl19
+eyJoaXN0b3J5IjpbLTIwMzQ5NDc1MzFdfQ==
 -->
