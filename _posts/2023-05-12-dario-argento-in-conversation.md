@@ -33,18 +33,12 @@ _Gialli_ already existed in Italian cinema before I started directing films, but
 <br><br>
 
 **DARIO ARGENTO**<br>
-
 Born 7 September 1940, Rome, Italy<br>
-
 Selected filmography
 
 **As Director**
-
 **1970  The Bird with the Crystal Plumage** (L’uccello dalle piume di cristallo) + writer<br>
-
-**1971  The Cat o’ Nine Tails  
-**(Il gatto a nove code) + writer<br>
-
+**1971  The Cat o’ Nine Tails** (Il gatto a nove code) + writer<br>
 **Four Flies on Grey Velvet  
 **(4 mosche di velluto grigio) + writer<br>
 
@@ -147,6 +141,6 @@ as paramedic<br>
 **2021** **Vortex** (d. Gaspar Noé) as Him<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTUwNywyMTQ0MjgwNDYxLDc1MjA3MD
-gyOF19
+eyJoaXN0b3J5IjpbMjEwMTQ5MjkzLDIxNDQyODA0NjEsNzUyMD
+cwODI4XX0=
 -->
