@@ -39,50 +39,25 @@ Selected filmography
 **As Director**
 **1970  The Bird with the Crystal Plumage** (L’uccello dalle piume di cristallo) + writer<br>
 **1971  The Cat o’ Nine Tails** (Il gatto a nove code) + writer<br>
-**Four Flies on Grey Velvet  
-**(4 mosche di velluto grigio) + writer<br>
-
-**1973  The Five Days** (Le cinque giornate)  
-+ writer<br>
-
+**Four Flies on Grey Velvet** (4 mosche di velluto grigio) + writer<br>
+**1973  The Five Days** (Le cinque giornate)  + writer<br>
 **La porta sul buio** (TV series, 2 eps)<br>
-
 **1975  Deep Red** (Profondo rosso) + writer<br>
-
 **1977  Suspiria** + writer<br>
-
 **1980  Inferno** + writer<br>
-
 **1982  Tenebrae** (Tenebre) + writer<br>
-
 **1985  Phenomena** + prod/writer<br>
-
 **1987  Opera** + prod/writer<br>
-
-**Gli incubi di Dario Argento  
-**(TV shorts, 9 eps)<br>
-
+**Gli incubi di Dario Argento** (TV shorts, 9 eps)<br>
 **1990  Two Evil Eyes** (Due occhi diabolici) segment: ‘The Black Cat’ (Il gatto nero) + exec prod/writer<br>
-
 **1993  Trauma** + prod/writer<br>
-
 **1996  The Stendhal Syndrome** (La sindrome di Stendhal) + prod/writer<br>
-
-**1998  The Phantom of the Opera  
-**(Il fantasma dell’opera) + writer<br>
-
+**1998  The Phantom of the Opera** (Il fantasma dell’opera) + writer<br>
 **2001  Sleepless** (Non ho sonno) + prod/writer<br>
-
 **2003  The Card Player** (Il cartaio) + prod/writer<br>
-
-**2005  Do You Like Hitchcock?  
-**(Ti piace Hitchcock?) (TV film) + writer<br>
-
+**2005  Do You Like Hitchcock?** (Ti piace Hitchcock?) (TV film) + writer<br>
 **2005/6  Masters of Horror** (TV series, 2 eps)<br>
-
-**2007  Mother of Tears** (La terza madre)  
-+ prod/writer<br>
-
+**2007  Mother of Tears** (La terza madre)  + prod/writer<br>
 **2009  Giallo** + writer<br>
 
 **2012  Dracula 3D** + writer<br>
@@ -141,6 +116,6 @@ as paramedic<br>
 **2021** **Vortex** (d. Gaspar Noé) as Him<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTQ5MjkzLDIxNDQyODA0NjEsNzUyMD
-cwODI4XX0=
+eyJoaXN0b3J5IjpbLTE2NDkxMjg3MTEsMjEwMTQ5MjkzLDIxND
+QyODA0NjEsNzUyMDcwODI4XX0=
 -->
