@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Eight Mountains
+published: true
+date: 2023-05-12
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'Italy-Belgium-France-UK 2022, 147 mins<br> Directors: Felix van Groeningen,  Charlotte Vandermeersch'
+pdf: '2023-05-12-eight-mountains.pdf'
+---
 
 In a secluded village in the Italian Alps, an unlikely bond forms between two young boys: Pietro, a boy from the city, and Bruno, who has only ever known life in the mountains. Over the years Bruno remains faithful to his home while Pietro aspires to greater heights, but as decades pass and lives unfold, their paths ultimately lead them back to where they first met. Adapted from the 2016 novel by Paolo Cognetti, this profoundly moving portrait of a lifelong friendship was a co-winner of last year’s Cannes Jury Prize. Set against a magnificent and breath-taking Italian landscape, it is beautifully shot with truly awe-inspiring sequences enveloping its tender explorations of brotherhood, masculinity and nature.  
 **Kimberley Sheehan, Programmer**
@@ -9,8 +19,7 @@ It’s 1984 when Pietro (played as a child by Lupo Barbiero) first arrives in th
 
 Despite the idyllic setting, beautifully captured in Ruben Impens’ neat Academy-aspect cinematography, the friendship has its complications.  The boys both have dysfunctional relationships with their fathers, and Pietro feels some jealousy when his parents appraise Bruno’s situation and take him back to Turin for schooling. When this falls through, the boys grow distant. Pietro, alienated from his father (Filippo Timi), wanders from job to job without much direction. But after his father dies, Pietro (now played by Luca Martinelli) discovers he had stayed close with Bruno (Borghi) who has now promised to build Pietro a house in a remote patch of the mountains.
 
-The surprising shift in the story is how the film matures with the characters.  
-As adults they become much deeper friends than they ever were as children – no searching for lost innocence here – and their growing maturity is wonderfully portrayed by the two actors, who find better versions of themselves in their understanding of each other. The building of the house over the course of a summer becomes the objective correlative of their friendship, something they can forever share. They enjoy the isolation, swimming in the lake, and conversation. Pietro – or Berio, as he is called in dialect – lightens up and finally finds some direction, traveling to the Himalayas and gaining some success as a writer. Bruno on the other hand throws himself into the idea of living like his ancestors as a true man of the mountains, herding and milking cattle and making cheese.
+The surprising shift in the story is how the film matures with the characters.  As adults they become much deeper friends than they ever were as children – no searching for lost innocence here – and their growing maturity is wonderfully portrayed by the two actors, who find better versions of themselves in their understanding of each other. The building of the house over the course of a summer becomes the objective correlative of their friendship, something they can forever share. They enjoy the isolation, swimming in the lake, and conversation. Pietro – or Berio, as he is called in dialect – lightens up and finally finds some direction, traveling to the Himalayas and gaining some success as a writer. Bruno on the other hand throws himself into the idea of living like his ancestors as a true man of the mountains, herding and milking cattle and making cheese.
 
 The nature of their friendship is almost anti-dramatic. When Bruno falls for a former girlfriend of Pietro’s, there’s no jealousy or fight; everything is resolved in a simple phone call. When one of the friends needs help, he asks for and receives it. A bad falling out is resolved the next day. Ang Lee’s male romance _Brokeback Mountain_ inevitably comes to mind, given the film’s pastoral setting and long arc of time, but it is good to see friendship here portrayed with as much complexity as sexual relationships so often are. Martinelli and Borghi are superb, opening up to each other in moments of intimacy yet able to switch to a relaxed matey-ness. The framing of every shot is exquisite and the sense of place and time, the steepness and prospect of the mountains, the snow and freshness of spring are palpable. Daniel Nogren’s soundtrack is often surprising and touching.
 
@@ -74,6 +83,51 @@ Italy-Belgium-France-UK 2022©
 
 A Picturehouse Entertainment release
 <br><br>
+
+**NEW RELEASES**<br>
+**Return to Seoul (Retour à Séoul)**<br>
+From Fri 5 May<br>
+**The Blue Caftan (Le Bleu du Caftan)**<br>
+From Fri 5 May<br>
+**Brainwashed: Sex-Camera-Power**<br>
+From Fri 12 May<br>
+**The Eight Mountains (Le otto montagne)**<br>
+From Fri 12 May<br>
+**Plan 75**<br>
+From Fri 19 May<br>
+
+**RE-RELEASES**<br>
+**Young Soul Rebels**<br>
+Continues from Fri 28 Apr<br>
+**The Passion of Remembrance**<br>
+Continues from Fri 28 Apr<br>
+**The Three Colours Trilogy**<br>
+From Fri 26 May<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwMzQ5NDc1MzFdfQ==
 -->
