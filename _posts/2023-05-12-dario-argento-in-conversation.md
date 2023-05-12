@@ -1,4 +1,3 @@
-<![endif]-->
 
 Dario Argento was terrifying audiences in all kinds of creative ways long before the marketing term ‘elevated horror’ began making the rounds. Nevertheless, he is the legitimate godfather of the recent wave of elaborately crafted, profoundly cinephilic films – by the likes of Ari Aster, Jordan Peele and David Robert Mitchell – that inspired the label.
 
@@ -7,8 +6,7 @@ Born in 1940 to a film producer father and photographer mother, Argento develope
 His debut as a director came in 1970 with _The Bird with the Crystal Plumage_.  
 A milestone _giallo_ – a genre of lurid crime thrillers and whodunnits – it was a commercial as well as critical success, earning him the backhanded sobriquet of ‘garlic-flavoured Hitchcock’, courtesy of _Variety_. The violent, increasingly extravagant _gialli_ that followed only cemented this reputation and reached a high point with his fifth feature, the magisterial _Deep Red_ (1975). (According to an oft-repeated and possibly apocryphal story, Hitch himself saw the film and said, ‘This Italian guy is starting to worry me.’) He then turned to supernaturally inclined horror, inspired in equal measure by surrealism, German expressionist cinema and the B movies of Val Lewton. Though _Suspiria_ (1977) is the most famous, titles such as _Inferno_ (1980) and _Phenomena_ (1985), which push their dream narrative logic and baroque _mise en scène_ to even further extremes, are as deserving of recognition.
 
-In the ensuing decades, Argento has oscillated between _gialli_ and horror, maintaining a steadfast allegiance to the genres that are synonymous with  
-his name.
+In the ensuing decades, Argento has oscillated between _gialli_ and horror, maintaining a steadfast allegiance to the genres that are synonymous with his name.
 
 **FIRST LOVES, FIRST TRAUMAS**  
 Dario Argento: My primal trauma as a director didn’t take place at the cinema, but at the theatre. At the age of four, my parents took me to see a production of _Hamlet_. When the ghost of Hamlet’s father appeared, I was overcome with such emotion that I had a seizure, I started to convulse. I had to be taken out of the theatre. That was a foundational moment and one whose emotions I reproduced countless times in my films. My cinematic _coup de foudre_ happened when I was eight or nine years old. My family used to go on vacation to the Dolomites and we would see films at the outdoor cinema. There I saw _The Phantom of the Opera_ [1943], the one in colour with Claude Rains. It was a tremendous revelation, it opened a lot of doors for me, introduced me to a lot of ideas. It was one of the most important films of my life, because it made me discover that there were other things in cinema besides the usual westerns, adventure films, gangster stories... there was another cinema, a cinema of fantasy, where mysterious things happened and fantastic things appeared. Many years later, in fact, I filmed my own version of _The Phantom of the Opera_ [1998] with my daughter Asia. It was meant as a tribute to this film that first brought me into a world that I did not know.
@@ -34,7 +32,121 @@ _Gialli_ already existed in Italian cinema before I started directing films, but
 
 Introduction, interview and translation by Giovanni Marchini Camia, _Sight and Sound_, May 2023
 
+<![endif]-->
 
+**DARIO ARGENTO**
+
+Born 7 September 1940, Rome, Italy
+
+Selected filmography
+
+**As Director**
+
+**1970  The Bird with the Crystal Plumage** (L’uccello dalle piume di cristallo) + writer
+
+**1971  The Cat o’ Nine Tails  
+**(Il gatto a nove code) + writer
+
+**Four Flies on Grey Velvet  
+**(4 mosche di velluto grigio) + writer
+
+**1973  The Five Days** (Le cinque giornate)  
++ writer
+
+**La porta sul buio** (TV series, 2 eps)
+
+**1975  Deep Red** (Profondo rosso) + writer
+
+**1977  Suspiria** + writer
+
+**1980  Inferno** + writer
+
+**1982  Tenebrae** (Tenebre) + writer
+
+**1985  Phenomena** + prod/writer
+
+**1987  Opera** + prod/writer
+
+**Gli incubi di Dario Argento  
+**(TV shorts, 9 eps)
+
+**1990  Two Evil Eyes** (Due occhi diabolici) segment: ‘The Black Cat’ (Il gatto nero) + exec prod/writer
+
+**1993  Trauma** + prod/writer
+
+**1996  The Stendhal Syndrome** (La sindrome di Stendhal) + prod/writer
+
+**1998  The Phantom of the Opera  
+**(Il fantasma dell’opera) + writer
+
+**2001  Sleepless** (Non ho sonno) + prod/writer
+
+**2003  The Card Player** (Il cartaio) + prod/writer
+
+**2005  Do You Like Hitchcock?  
+**(Ti piace Hitchcock?) (TV film) + writer
+
+**2005/6  Masters of Horror** (TV series, 2 eps)
+
+**2007  Mother of Tears** (La terza madre)  
++ prod/writer
+
+**2009  Giallo** + writer
+
+**2012  Dracula 3D** + writer
+
+**2022  Dark Glasses** (Occhiali neri) + writer
+
+**As Writer**
+
+**1968  Today We Kill, Tomorrow We Die!** (Oggi a me... domani a te!) (d. Tonino Cervi)
+
+**The Hell before Death** (Comandamenti per un gangster) (d. Alfio Caltabiano)
+
+**Commandos** (d. Armando Crispino)
+
+**La rivoluzione sessuale  
+**(d. Riccardo Ghione)
+
+**Once upon a Time in the West  
+**(C’era una volta il West) (d. Sergio Leone) (story)
+
+**1969  Cemetery without Crosses  
+**(Cimitero senza croci) (d. Robert Hossein)
+
+**Love Circle** (Metti, una sera a cena)  
+(d. Giuseppe Patroni Griffi)
+
+**Probability Zero** (Probabilità zero)  
+(d. Maurizio Lucidi)
+
+**The 5-Man Army** (Un esercito di 5 uomini) (d. Don Taylor, Italo Zingarelli)
+
+**Battle of the Commandos  
+**(La legione dei dannati) (d. Umberto Lenzi)
+
+**Season of the Senses** (La stagione dei sensi) (d. Massimo Franciosa)
+
+**1985  Demons** (Dèmoni) (d. Lamberto Bava)  
++ prod
+
+**1986  Demons 2** (Dèmoni 2) (d. Lamberto Bava) + prod
+
+**1989  The Church** (La chiesa) (d. Michele Soavi) + prod
+
+**1991  The Sect** (La setta) (d. Michele Soavi)  
++ prod
+
+**1997  The Wax Mask** (M.D.C. - Maschera di cera) (d. Sergio Stivaletti) + prod
+
+**As Actor**
+
+**1992  Innnocent Blood** (d. John Landis)  
+as paramedic
+
+**1996  Bits and Pieces** (Il cielo è sempre più blu) (d. Antonello Grimaldi) as man confessing to Franciscan monk
+
+**2021** **Vortex** (d. Gaspar Noé) as Him
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5MzAwMDQ5XX0=
+eyJoaXN0b3J5IjpbNzUyMDcwODI4XX0=
 -->
