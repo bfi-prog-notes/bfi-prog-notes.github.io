@@ -1,3 +1,14 @@
+---
+layout: post
+title: Beau Is Afraid
+published: true
+date: 2023-05-16
+readtime: true
+categories: ['PREVIEW']
+tags: [Drama, Comedy]
+metadata: 'USA 2023, 179 mins<br> Director: Ari Aster'
+pdf: '2023-05-16-beau-is-afraid.pdf'
+---
 
 ‘_Stop incriminating yourself_,’ Amy Ryan’s Grace hisses fiercely, _à propos_ of nothing, at the bewildered protagonist Beau Wassermann over a homely breakfast table. Yet Ari Aster’s third feature, _Beau Is Afraid_, is a wig-out Freudian picaresque journey that lets all its neurotic complexes hang out to the max. The last section reaches a jaw-dropping crescendo in which any shreds of subtext are blasted away in a welter of images of full-on sexual anxiety. It is funny and horrifying, grievous and grief-stricken, and as incriminating as hell. No wonder Beau ends up on trial.
 
@@ -15,8 +26,7 @@ The film, then, is also an American road movie – one that has echoes that rang
 
 If this sounds like a rag-bag of genres and sources, it is. As we discuss reference points, Aster says: ‘These are all things that I love, and you metabolise the things you love.’ _Beau Is Afraid_ is one of those capacious and frenetic movies with a run-time of three hours and an episodic structure that allows for wildly different styles, tones and looks, including animated sequences. Each frame is overloaded with information – every ad, sign and piece of graffiti in the city mirrors Beau’s anxious state (‘Murder by Fuck’, ‘Jesus Sees Your Abominations’). It feels similar to the crazy pace, wild twists and overdetermined images of Darren Aronofsky’s _mother!_ (2017) or, more recently, Daniel Kwan and Daniel Scheinert’s _Everything Everywhere All at Once_ (2022). Independent production has given favoured auteurs a new kind of freedom to follow ideas into very strange places, the stranger the better it seems, and streaming habits have extended running times. Aster said he wanted to honour the intensity and strangeness of his script, and not compromise: the production entirely follows through on that. Given the success of _Everything Everywhere All at Once_ at the Oscars, perhaps we should start calling this Hollywood’s New Chaotic Style.
 
-His actors were happy too, Aster says, to jump into this chaotic dream-logic.  
-It must have been an extraordinary script to read, but Aster says ‘there were very few questions. Everyone was game.’ He had wanted to work with several of the actors – he mentions Posey and Denis Ménochet, in particular – and they all came on board without demur, despite the extremity of their roles.  
+His actors were happy too, Aster says, to jump into this chaotic dream-logic.  It must have been an extraordinary script to read, but Aster says ‘there were very few questions. Everyone was game.’ He had wanted to work with several of the actors – he mentions Posey and Denis Ménochet, in particular – and they all came on board without demur, despite the extremity of their roles.  
 **Roger Luckhurst, _Sight and Sound_, June 2023**
 <br><br>
 
@@ -62,6 +72,39 @@ USA 2023<br>
 
 Courtesy of Sony Pictures<br>
 <br>
+
+**IN PERSON & PREVIEWS**<br>
+**TV Preview: Best Interests + Q&A with Sharon Horgan and Jack Thorne**<br>
+Mon 22 May 18:15<br>
+**Preview: The Old Man Movie: Lactopalypse! + Q&A with directors Mikk Magi and Oskar Lehemaa**<br>
+Fri 26 May 18:15<br>
+**World Premiere: Straight 8 2023 Top 25**<br>
+Sat 27 May 18:00<br> 
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzU1MDM5Njk1XX0=
 -->
