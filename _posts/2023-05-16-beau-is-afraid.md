@@ -33,57 +33,35 @@ _Editor:_ Lucian Johnston<br>
 _Visual Effects Supervisor:_ Louis Morin<br>
 _Visual Effects Producer:_ Annie Godin<br>
 _Animation by:_ Cristóbal León, Joaquín Cociña<br>
-_Animation Sequence Produced by:  
-_Jorge Cañada Escorihuela<br>
-
+_Animation Sequence Produced by:_ Jorge Cañada Escorihuela<br>
 _Production Designer:_ Fiona Crombie<br>
-
 _Costume Designer:_ Alice Babidge<br>
-
 _Original Score by:_ Bobby Krlic<br>
-
 _Music Supervisor:_ Jemma Burns<br>
-
 _Score Producer and Music Editor:_ Katherine Miller<br>
-
 _Re-recording Mixer:_ Paul Hsu<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Joaquin Phoenix _(Beau Wassermann)_<br>
-
 Nathan Lane _(Roger)_<br>
-
 Amy Ryan _(Grace)_<br>
-
 Stephen McKinley Henderson _(therapist)_<br>
-
 Hayley Squires _(Penelope)_<br>
-
 Denis Ménochet _(Jeeves)_<br>
-
 Kylie Rogers _(Toni)_<br>
-
 Armen Nahapetian _(teen Beau)_<br>
-
 Zoe Lister-Jones _(young Mona)_<br>
-
 Parker Posey _(Elaine Bray)_<br>
-
 Patti LuPone _(Mona Wassermann)_<br>
-
 Julia Antonelli _(teen Elaine)_<br>
-
 Richard Kind _(Dr Cohen)_<br>
-
 Bill Hader _(UPS guy)_<br>
 
 USA 2023<br>
-
 179 mins
 
 Courtesy of Sony Pictures<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExMDE4OTIzXX0=
+eyJoaXN0b3J5IjpbNzU1MDM5Njk1XX0=
 -->
