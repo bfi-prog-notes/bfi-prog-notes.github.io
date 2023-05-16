@@ -16,88 +16,74 @@ The film, then, is also an American road movie – one that has echoes that rang
 If this sounds like a rag-bag of genres and sources, it is. As we discuss reference points, Aster says: ‘These are all things that I love, and you metabolise the things you love.’ _Beau Is Afraid_ is one of those capacious and frenetic movies with a run-time of three hours and an episodic structure that allows for wildly different styles, tones and looks, including animated sequences. Each frame is overloaded with information – every ad, sign and piece of graffiti in the city mirrors Beau’s anxious state (‘Murder by Fuck’, ‘Jesus Sees Your Abominations’). It feels similar to the crazy pace, wild twists and overdetermined images of Darren Aronofsky’s _mother!_ (2017) or, more recently, Daniel Kwan and Daniel Scheinert’s _Everything Everywhere All at Once_ (2022). Independent production has given favoured auteurs a new kind of freedom to follow ideas into very strange places, the stranger the better it seems, and streaming habits have extended running times. Aster said he wanted to honour the intensity and strangeness of his script, and not compromise: the production entirely follows through on that. Given the success of _Everything Everywhere All at Once_ at the Oscars, perhaps we should start calling this Hollywood’s New Chaotic Style.
 
 His actors were happy too, Aster says, to jump into this chaotic dream-logic.  
-It must have been an extraordinary script to read, but Aster says ‘there were very few questions. Everyone was game.’ He had wanted to work with several of the actors – he mentions Posey and Denis Ménochet, in particular – and they all came on board without demur, despite the extremity of their roles.
+It must have been an extraordinary script to read, but Aster says ‘there were very few questions. Everyone was game.’ He had wanted to work with several of the actors – he mentions Posey and Denis Ménochet, in particular – and they all came on board without demur, despite the extremity of their roles.  
+**Roger Luckhurst, _Sight and Sound_, June 2023**
+<br><br>
 
-Roger Luckhurst, _Sight and Sound_, June 2023
-
-<![endif]-->
-
-**BEAU IS AFRAID**
-
-_Directed by:_ Ari Aster
-
-_Production Company:_ A24
-
-_Executive Producers:_ Len Blavatnik, Danny Cohen, Timo Argillander, Elisa Alvares, Ann Ruark
-
-_Produced by:_ Lars Knudsen, Ari Aster
-
-_Co-producers:_ Luca Borghese, Tyler Campellone
-
-_Casting by:_ Jim Carnahan
-
-_Written by:_ Ari Aster
-
-_Director of Photography:_ Pawel Pogorzelski
-
-_Editor:_ Lucian Johnston
-
-_Visual Effects Supervisor:_ Louis Morin
-
-_Visual Effects Producer:_ Annie Godin
-
-_Animation by:_ Cristóbal León, Joaquín Cociña
-
+**BEAU IS AFRAID**<br>
+_Directed by:_ Ari Aster<br>
+_Production Company:_ A24<br>
+_Executive Producers:_ Len Blavatnik, Danny Cohen, Timo Argillander, Elisa Alvares, Ann Ruark<br>
+_Produced by:_ Lars Knudsen, Ari Aster<br>
+_Co-producers:_ Luca Borghese, Tyler Campellone<br>
+_Casting by:_ Jim Carnahan<br>
+_Written by:_ Ari Aster<br>
+_Director of Photography:_ Pawel Pogorzelski<br>
+_Editor:_ Lucian Johnston<br>
+_Visual Effects Supervisor:_ Louis Morin<br>
+_Visual Effects Producer:_ Annie Godin<br>
+_Animation by:_ Cristóbal León, Joaquín Cociña<br>
 _Animation Sequence Produced by:  
-_Jorge Cañada Escorihuela
+_Jorge Cañada Escorihuela<br>
 
-_Production Designer:_ Fiona Crombie
+_Production Designer:_ Fiona Crombie<br>
 
-_Costume Designer:_ Alice Babidge
+_Costume Designer:_ Alice Babidge<br>
 
-_Original Score by:_ Bobby Krlic
+_Original Score by:_ Bobby Krlic<br>
 
-_Music Supervisor:_ Jemma Burns
+_Music Supervisor:_ Jemma Burns<br>
 
-_Score Producer and Music Editor:_ Katherine Miller
+_Score Producer and Music Editor:_ Katherine Miller<br>
 
-_Re-recording Mixer:_ Paul Hsu
+_Re-recording Mixer:_ Paul Hsu<br>
 
-_Cast:_
+_Cast:_<br>
 
-Joaquin Phoenix _(Beau Wassermann)_
+Joaquin Phoenix _(Beau Wassermann)_<br>
 
-Nathan Lane _(Roger)_
+Nathan Lane _(Roger)_<br>
 
-Amy Ryan _(Grace)_
+Amy Ryan _(Grace)_<br>
 
-Stephen McKinley Henderson _(therapist)_
+Stephen McKinley Henderson _(therapist)_<br>
 
-Hayley Squires _(Penelope)_
+Hayley Squires _(Penelope)_<br>
 
-Denis Ménochet _(Jeeves)_
+Denis Ménochet _(Jeeves)_<br>
 
-Kylie Rogers _(Toni)_
+Kylie Rogers _(Toni)_<br>
 
-Armen Nahapetian _(teen Beau)_
+Armen Nahapetian _(teen Beau)_<br>
 
-Zoe Lister-Jones _(young Mona)_
+Zoe Lister-Jones _(young Mona)_<br>
 
-Parker Posey _(Elaine Bray)_
+Parker Posey _(Elaine Bray)_<br>
 
-Patti LuPone _(Mona Wassermann)_
+Patti LuPone _(Mona Wassermann)_<br>
 
-Julia Antonelli _(teen Elaine)_
+Julia Antonelli _(teen Elaine)_<br>
 
-Richard Kind _(Dr Cohen)_
+Richard Kind _(Dr Cohen)_<br>
 
-Bill Hader _(UPS guy)_
+Bill Hader _(UPS guy)_<br>
 
-USA 2023
+USA 2023<br>
 
 179 mins
 
-Courtesy of Sony Pictures
+Courtesy of Sony Pictures<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzMzE2ODZdfQ==
+eyJoaXN0b3J5IjpbOTExMDE4OTIzXX0=
 -->
