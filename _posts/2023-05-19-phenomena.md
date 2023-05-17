@@ -21,6 +21,65 @@ Of all of Argento’s films – many of which have moments of head-scratching st
 **Kevin Lyons, eofftvreview.wordpress.com, 27 October 2018**  
 
 
+**PHENOMENA**  
+_Director_: Dario Argento  
+_Production Company_: Dacfilm  
+_Producer_: Dario Argento  
+_Production Executive_: Angelo Jacono  
+_Production Manager_: Cesare Iacolucci  
+_Assistant Directors_: Michele Soavi, Bettina Graebe  
+_Screenplay_: Dario Argento, Franco Ferrini  
+_Director of Photography_: Romano Albani  
+_Special Entomological Photography_:
+Ferdinando Armati  
+_Underwater Photographer_: Gianlorenzo Battaglia  
+_Camera Operator_: Stefano Ricciotti  
+_Steadicam Operation_: Nicola Pecorini & Co.  
+_Special Optical Effects_: Luigi Cozzi  
+_Special Stage Effects_: Tonino Corridori  
+_Editor_: Franco Fraticelli  
+_Production Designers_: Maurizio Garrone,
+Nello Giorgetti, Luciano Spadoni, Umberto Turco  
+_Set Dressers_: Rina Villani, Renato Lori  
+_Costume Designer_: Giorgio Armani  
+_Wardrobe_: Marina Malavasi, Patrizia Massaia  
+_Make-up Artist_: Pierantonio Mecacci  
+_Special Make-up Effects_: Sergio Stivaletti  
+_Titles_: Moviecam 2000  
+_Music/Songs_: The Goblins  
+_Music Producer_: Vincent Messina  
+_Music Editor_: Piero Bozza  
+_Sound Recording_: Giancarlo Laurenzi  
+_Sound Re-recording_: Danilo Sterbini  
+_Supervising Sound Editor_: Franco Fraticelli  
+_Sound Editor_: Nick Alexander  
+_Stereo Sound Effects_: Studio Anzellotti  
+_Stunt Co-ordinator_: Giorgio Ricci  
+_Entomology Consultant_: Enrico Stella  
+_Dolby Stereo Consultant_: Federico Savina  
+_Dialogue Coach_: Sheila Goldberg  
+_Animal Trainer (Tanga)_: Daniel Berquiny  
+
+**Cast**   
+Jennifer Connelly _(Jennifer Corvino)_  
+Daria Nicolodi _(Frau Bruckner)_  
+Dalila Di Lazzaro _(school director)_  
+Patrick Bauchau _(Inspector Rudolf Geiger)_  
+Donald Pleasence _(Professor John McGregor)_  
+Fiore Argento _(Vera Brandt)_  
+Federica Mastroianni _(Sophie)_  
+Davide Marotta _(Patau)_  
+Fausta Avelli, Marta Biuso, Sophie Bourchier,
+Paola Gropper, Ninke Hielkema, Mitzy Orsini,  
+Geraldine Thomas _(schoolgirls)_  
+Fiorenza Tessari  
+Mario Donatone  
+Francesca Ottaviani  
+Michele Soavi _(policeman)_  
+Franco Trevisi  
+
+Italy-Switzerland 1985  
+113 mins  
 <br>
 
 **DARIO ARGENTO: DOORS INTO DARKNESS**  
@@ -99,5 +158,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5MTI0MDE2XX0=
+eyJoaXN0b3J5IjpbLTMzMDk3NTYwNCwyNTkxMjQwMTZdfQ==
 -->
