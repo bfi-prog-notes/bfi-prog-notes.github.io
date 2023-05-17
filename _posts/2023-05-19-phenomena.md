@@ -18,7 +18,86 @@ In this literally strange new world, so strange that it may or not even be part 
 Should the clearly unhinged _Phenomena_ seek psychological treatment, it would of course need a Freudian approach as, once again, Argento gives lie to his own claim that his is a Jungian approach. The killer, revealed as a pubescent boy, stalks his pretty female victims with an explicitly phallic weapon which at one point is rammed into a hapless victim’s mouth. Clearly then sexuality was going to play a key role again in _Phenomena_, even if we are to accept the notion that its milieu is an entirely artificial one detached from any notion of consensus reality. Connelly was cast as Jennifer because her ‘almost sexless beauty’ appealed to Argento and Jennifer seems curiously uninterested in boys for a relatively healthy young teenager. Her denial of sexuality (she is mauled by a pair of teens who find her wandering the road after a sleepwalking session, but she easily fights them off) is the key to her vanquishing of the sexually awakening libido monster, spawned from an act of appalling sexual violence.
 
 Of all of Argento’s films – many of which have moments of head-scratching strangeness – _Phenomena_ is the most peculiar. Nothing about it makes any sense, it defies any attempt to take it seriously and the plot is so far out there it’s almost unreachable. And yet it’s a hard film not to like. It’s _so_ strange, so wilfully eccentric that you just have to accept that Argento was having us on with this one and go with its beautifully photographed and almost hallucinogenic madness.  
-**Kevin Lyons, eofftvreview.wordpress.com, 27 October 2018**
+**Kevin Lyons, eofftvreview.wordpress.com, 27 October 2018**  
+
+
+<br>
+
+**DARIO ARGENTO: DOORS INTO DARKNESS**  
+**The Cat o’ Nine Tails (Il gatto a nove code)**  
+Mon 1 May 18:20; Sat 13 May 11:20; Thu 16 May 20:45  
+**The Bird with the Crystal Plumage (L’uccello dalle piume di cristallo)**  
+Tue 2 May 18:10; Sat 13 May 20:45; Tue 16 May 21:00  
+**The Five Days (Le cinque giornate)**  
+Tue 2 May 20:35; Fri 19 May 18:15  
+**Four Flies on Grey Velvet (4 mosche di velluto grigio)**  
+Wed 3 May 20:30; Sat 6 May 17:40  
+**Two Evil Eyes (segment: The Black Cat) (Due occhi diabolici: Il gatto nero)**  
+Wed 4 May 21:00; Mon 22 May 20:55  
+**The Stendhal Syndrome (La sindrome di Stendhal)**  
+Fri 5 May 18:05; Sun 7 May 18:20  
+**Deep Red (Profondo rosso)**  
+Fri 5 May 20:35; Sat 13 May 15:00 (+ Q&A with Dario Argento); Tue 23 May 18:10  
+**Do You Like Hitchcock? (Ti piace Hitchcock?)**  
+Sat 6 May 20:40; Tue 30 May 20:40  
+**Trauma**  
+Mon 8 May 15:50; Sun 28 May 15:40  
+**Opera**  
+Mon 8 May 18:30 (+ intro by Michael Blyth, season curator); Sat 27 May 20:45  
+**Dark Glasses (Occhiali neri)**  
+Wed 10 May 21:00; Wed 31 May 20:40  
+**Suspiria**  
+Fri 12 May 20:40 (+ intro by Dario Argento); Sat 20 May 18:10  
+**Tenebrae (Tenebre)**  
+Sat 13 May 18:20 (+ intro by Dario Argento); Wed 17 May 20:45; Tue 23 May 20:50  
+**Inferno**  
+Mon 15 May 20:45; Sat 20 May 20:45  
+**Phenomena**  
+Fri 19 May 20:45; Mon 29 May 15:50  
+**The Phantom of the Opera (Il fantasma dell’opera)**  
+Sat 20 May 15:50; Fri 26 May 20:40  
+**Sleepless (Non ho sonno)**  
+Sun 21 May 18:10; Sat 27 May 17:45  
+**Mother of Tears – The Third Mother (La terza madre)**  
+Wed 24 May 20:40; Mon 29 May 18:40  
+**The Card Player (Il cartaio)**  
+Thu 25 May 20:30; Sun 28 May 18:20  
+
+**Strange Phenomena: Argento Season Introduction**  
+This video will be available to watch for free on BFI YouTube from 19.30 on Mon 17 Apr  
+
+**With thanks to**  
+Camilla Cormanni and Paola Ruggiero at Cinecittà.  
+Presented in collaboration with the Italian Embassy in London and the Italian Cultural Institute  
+
+**Co-produced by**  
+Cinecittà, Rome  
+All restored titles courtesy of Cinecittà  
+<img style="float: left;" src="/img/cinecitta.png"><br><br><br><br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTIwMDY2MjNdfQ==
+eyJoaXN0b3J5IjpbMjU5MTI0MDE2XX0=
 -->
