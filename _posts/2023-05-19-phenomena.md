@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Phenomena
+published: true
+date: 2023-05-19
+readtime: true
+categories: ['DARIO ARGENTO<br>DOORS INTO DARKNESS']
+tags: [Thriller, Horror]
+metadata: 'Italy/Switzerland 1985, 113 mins<br> Director: Dario Argento'
+pdf: '2023-05-19-phenomena.pdf'
+---
 
 _Contains violence and gore_
 
@@ -19,7 +28,6 @@ Should the clearly unhinged _Phenomena_ seek psychological treatment, it would o
 
 Of all of Argento’s films – many of which have moments of head-scratching strangeness – _Phenomena_ is the most peculiar. Nothing about it makes any sense, it defies any attempt to take it seriously and the plot is so far out there it’s almost unreachable. And yet it’s a hard film not to like. It’s _so_ strange, so wilfully eccentric that you just have to accept that Argento was having us on with this one and go with its beautifully photographed and almost hallucinogenic madness.  
 **Kevin Lyons, eofftvreview.wordpress.com, 27 October 2018**  
-
 
 **PHENOMENA**  
 _Director_: Dario Argento  
@@ -158,5 +166,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDk3NTYwNCwyNTkxMjQwMTZdfQ==
+eyJoaXN0b3J5IjpbLTE5MDA0ODQ4NzksMjU5MTI0MDE2XX0=
 -->
