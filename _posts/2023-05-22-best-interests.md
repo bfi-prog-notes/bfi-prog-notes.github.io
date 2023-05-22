@@ -18,12 +18,11 @@ Sharon is best known for her multiple award-winning sitcom _Catastrophe_, which 
 
 She is also the co-founder, alongside Clelia Mountford, of the TV and Film production company Merman. Under the Merman banner, it was just announced that ABC ordered to pilot _Dropoff_, the American adaptation of the award-winning British hit _Motherland_.  Ellie Kemper and Judy Greer will star in the pilot which is currently in production. Sharon co-created_Shining Vale_, an eight-part horror comedy series starring Courteney Cox and Greg Kinnear, which premiered on Starz and is currently in production on its third season. Sharon’s other credits for Merman include executive producing and starring in the animated comedy_Housebroken_on Fox, which stars Lisa Kudrow and was co-created byClea Duvall, Jennifer Crittenden and Gabrielle Allan. Season 2 just premiered in March 2023. Sharon also executive produced_Frank of Ireland_ (Channel 4/Amazon) and co-wrote and executive-produced the BAFTA winning _Motherland_on BBC. She was also an executive producer of _Frayed_  (Sky/ABC), _There She Goes_ (BBC/Britbox) and _This Way Up_ (Ch4/Hulu), which she also starred in alongside creator Aisling Bea.
 
-Sharon’s further recognition includes the BAFTA TV Award for Best Short Form Programme (2018) for _Morgana Robinson’s Summer: Dreamland_ and an Outstanding Achievement Award for her debut short film _The Week before Christmas_. At the National Comedy Awards, Sharon was awarded the Caroline Ahearne Outstanding Achievement Award. She has also received two BAFTA Award nominations and two British Comedy Awards for her iconic BBC show _Pulling_ which she co-wrote and starred in. She also wrote and directed an episode of Amazon’s anthology _Modern Love_. On the film side, Sharon can be seen most recently starring opposite Nicolas Cage in _The Unbearable Weight of Massive Talent_. She also starred opposite James McAvoy in the Stephen Daldry directed film _Together_ for BBC Two and BBC Film. In 2021, she took on the role of Miss Hedge in the BAFTA nominated feature film adaptation of the West End musical _Everybody’s Talking about Jamie_. She also starred alongside Rachel McAdams, Jason Bateman and Kyle Chandler in the critical and commercial hit feature film _Game Night_.In 2020, she starred in _Military Wives_opposite Kristin Scott Thomasand theIrish comedy-drama film_Dating Amber_,for which she won an IFTA for Best Supporting Actress.
+Sharon’s further recognition includes the BAFTA TV Award for Best Short Form Programme (2018) for _Morgana Robinson’s Summer: Dreamland_ and an Outstanding Achievement Award for her debut short film _The Week before Christmas_. At the National Comedy Awards, Sharon was awarded the Caroline Ahearne Outstanding Achievement Award. She has also received two BAFTA Award nominations and two British Comedy Awards for her iconic BBC show _Pulling_ which she co-wrote and starred in. She also wrote and directed an episode of Amazon’s anthology _Modern Love_. On the film side, Sharon can be seen most recently starring opposite Nicolas Cage in _The Unbearable Weight of Massive Talent_. She also starred opposite James McAvoy in the Stephen Daldry directed film _Together_ for BBC Two and BBC Film. In 2021, she took on the role of Miss Hedge in the BAFTA nominated feature film adaptation of the West End musical _Everybody’s Talking about Jamie_. She also starred alongside Rachel McAdams, Jason Bateman and Kyle Chandler in the critical and commercial hit feature film _Game Night_. In 2020, she starred in _Military Wives_ opposite Kristin Scott Thomas and the Irish comedy-drama film _Dating Amber_, for which she won an IFTA for Best Supporting Actress.
 
 **Jack Thorne** is a BAFTA and Tony Award winning British screenwriter and theatre writer known for _Wonder_, _The Aeronauts_, _Harry Potter and the Cursed Child_, _When Barbara Met Alan_, _The Swimmers_, _Help_ and the _Enola_ _Holmes_ films.
 
-As a playwright, he has had a prolific career including the critically acclaimed _The_ _Solid Life of Sugar_, _Harry Potter and the Cursed Child_ (Tony Award winner), _Hope_, _The End of History_, and adaptations of _Let the Right One In_ at the Royal Court, and _Woyzeck_ and  
-_A Christmas Carol_ at the Old Vic. He has two plays premiering this year: _When Winston Went to War with the Wireless_, and _The Motive and the Cue_, directed by Sam Mendes.
+As a playwright, he has had a prolific career including the critically acclaimed _The_ _Solid Life of Sugar_, _Harry Potter and the Cursed Child_ (Tony Award winner), _Hope_, _The End of History_, and adaptations of _Let the Right One In_ at the Royal Court, and _Woyzeck_ and  _A Christmas Carol_ at the Old Vic. He has two plays premiering this year: _When Winston Went to War with the Wireless_, and _The Motive and the Cue_, directed by Sam Mendes.
 
 Thorne began his TV career writing on _Shameless_ and _Skins_, before writing _Cast Offs_ in 2009. His original series credits include _Glue_, _The Last Panthers_, _Kiri_, and _The Accident_. He has won five BAFTA awards: Best Mini-Series for _This Is England '88_, Best Drama Series for _The Fades_, Best Single Drama for _Don’t Take My Baby_, Best Mini-Series for _This Is England '90_, and Best Mini-Series for _National_ _Treasure_. In 2022 he won the RTS Single Drama, The Rose D’Or and an International Emmy for _Help_, his mini-series that starred Jodie Comer and Stephen Graham. That year he also won the Writers’ Guild of Great Britain award for Outstanding Contribution to Writing and the Royal Television Society’s award for Outstanding Contribution to British Television.
 
@@ -36,89 +35,88 @@ In August 2021, Thorne gave the MacTaggart Lecture at the Edinburgh TV Festival 
 **Sophie Gardiner** joined Chapter One at its launch and has built a slate that reflects the ambitions of the company: to produce author-led, entertaining, and original work. Since then she has been Executive Producer on Chapter One’s _Best Interests_, by Jack Thorne for the BBC and Fifth Season, and _Boy Swallows Universe_ (with Brouhaha and Anonymous Content) for Netflix (Australia). Whilst at C4 she commissioned many shows including _Run, Southcliffe, Utopia, The Mill_ and _My Mad Fat Diary_. She went on to Executive Produce projects including _Howards End, Little Women, Chimerica_ all whilst at Playground. Her previous producer credits include _The Battle of Orgreave_ for C4; _Eureka Street_ for BBC2; and _Totally Frank_ for C4.
 
 **Benji Wilson** is a journalist and TV critic for _The Sunday Times_, the _Telegraph_ and _Radio Times_. He is also a London correspondent for _USA Today_ and the _Sydney Morning Herald_, specialising in television and the media.
+<br><br>
 
-<![endif]-->
+**BEST INTERESTS (EPISODE 1)**<br>
 
-**BEST INTERESTS (EPISODE 1)**
+_Written by:_ Jack Thorne<br>
 
-_Written by:_ Jack Thorne
+_Directed by:_ Michael Keillor<br>
 
-_Directed by:_ Michael Keillor
-
-_Produced by:_ Jenny Frayn
+_Produced by:_ Jenny Frayn<br>
 
 _Production Company:  
-_Chapter One Pictures
+_Chapter One Pictures<br>
 
-_In association with:_ Fifth Season
+_In association with:_ Fifth Season<br>
 
 _Executive Producers:_ Sharon Horgan,  
-Michael Sheen, Toby Bentley, Sophie Gardiner, Michael Keillor, Jack Thorne
+Michael Sheen, Toby Bentley, Sophie Gardiner, Michael Keillor, Jack Thorne<br>
 
 _Executive Producer for the BBC:  
-_Lucy Richer
+_Lucy Richer<br>
 
-_Line Producer:_ Emma James
+_Line Producer:_ Emma James<br>
 
-_Location Manager:_ Susie Booker
+_Location Manager:_ Susie Booker<br>
 
 _Casting by:_ Amy Hubbard, Amy Jackson,  
-Tamsyn Manson
+Tamsyn Manson<br>
 
-_Script Supervisor:_ Mia Sands
+_Script Supervisor:_ Mia Sands<br>
 
 _Script Editors:_ Kiren Dhadwal,  
-Lexie Hamblin
+Lexie Hamblin<br>
 
-_2nd Unit Director:_ Martin Smith
+_2nd Unit Director:_ Martin Smith<br>
 
-_1st Assistant Director:_ Peter Agnew
+_1st Assistant Director:_ Peter Agnew<br>
 
-_Director of Photography:_ David Raedeker
+_Director of Photography:_ David Raedeker<br>
 
-_Editor:_ Dominic Strevens
+_Editor:_ Dominic Strevens<br>
 
-_Production Designer:_ Alison Butler
+_Production Designer:_ Alison Butler<br>
 
-_Costume Designer:_ Sheena Napier
+_Costume Designer:_ Sheena Napier<br>
 
-_Make-up & Hair Designer:_ Amy Stewart
+_Make-up & Hair Designer:_ Amy Stewart<br>
 
-_Composer:_ Stephen Rennicks
+_Composer:_ Stephen Rennicks<br>
 
-_Production Sound Mixer:_ Dylan Voigt
+_Production Sound Mixer:_ Dylan Voigt<br>
 
-_Cast:_
+_Cast:_<br>
 
-Sharon Horgan _(Nicci)_
+Sharon Horgan _(Nicci)_<br>
 
-Michael Sheen _(Andrew)_
+Michael Sheen _(Andrew)_<br>
 
-Noma Dumezweni _(Samantha)_
+Noma Dumezweni _(Samantha)_<br>
 
-Alison Oliver _(Katie)_
+Alison Oliver _(Katie)_<br>
 
-Niamh Moriarty _(Marnie)_
+Niamh Moriarty _(Marnie)_<br>
 
-Des McAleer _(Eddie)_
+Des McAleer _(Eddie)_<br>
 
-Gary Beadle _(Frank)_
+Gary Beadle _(Frank)_<br>
 
-Melissa Collier _(Alice)_
+Melissa Collier _(Alice)_<br>
 
-Billie Gadsdon _(young Katie)_
+Billie Gadsdon _(young Katie)_<br>
 
-Daisy and Poppy Lemon _(young Marnie)_
+Daisy and Poppy Lemon _(young Marnie)_<br>
 
-Kevin Eldon _(Dr Sendak)_
+Kevin Eldon _(Dr Sendak)_<br>
 
-Buffy Davis _(Gladys)_
+Buffy Davis _(Gladys)_<br>
 
-Chizzy Akudolu _(Mercy)_
+Chizzy Akudolu _(Mercy)_<br>
 
-Jonathan Rhodes _(Dr Heath)_
+Jonathan Rhodes _(Dr Heath)_<br>
 
-Mica Ricketts _(Hannah)_
+Mica Ricketts _(Hannah)_<br>
 
 UK 2023
 
@@ -185,5 +183,5 @@ Mon 19 Jun 20:50
 
 Tue 20 Jun 18:10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzg0MTc5OV19
+eyJoaXN0b3J5IjpbOTY2NDIxMzcyXX0=
 -->
