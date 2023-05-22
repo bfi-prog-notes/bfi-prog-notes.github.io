@@ -37,67 +37,35 @@ In August 2021, Thorne gave the MacTaggart Lecture at the Edinburgh TV Festival 
 **Benji Wilson** is a journalist and TV critic for _The Sunday Times_, the _Telegraph_ and _Radio Times_. He is also a London correspondent for _USA Today_ and the _Sydney Morning Herald_, specialising in television and the media.
 <br><br>
 
-**BEST INTERESTS (EPISODE 1)**<br>
-
+**BEST INTERESTS (episode 1)**<br>
 _Written by:_ Jack Thorne<br>
-
 _Directed by:_ Michael Keillor<br>
-
 _Produced by:_ Jenny Frayn<br>
-
-_Production Company:  
-_Chapter One Pictures<br>
-
+_Production Company:_ Chapter One Pictures<br>
 _In association with:_ Fifth Season<br>
-
-_Executive Producers:_ Sharon Horgan,  
-Michael Sheen, Toby Bentley, Sophie Gardiner, Michael Keillor, Jack Thorne<br>
-
-_Executive Producer for the BBC:  
-_Lucy Richer<br>
-
+_Executive Producers:_ Sharon Horgan,  Michael Sheen, Toby Bentley, Sophie Gardiner, Michael Keillor, Jack Thorne<br>
+_Executive Producer for the BBC:_ Lucy Richer<br>
 _Line Producer:_ Emma James<br>
-
 _Location Manager:_ Susie Booker<br>
-
-_Casting by:_ Amy Hubbard, Amy Jackson,  
-Tamsyn Manson<br>
-
+_Casting by:_ Amy Hubbard, Amy Jackson,  Tamsyn Manson<br>
 _Script Supervisor:_ Mia Sands<br>
-
-_Script Editors:_ Kiren Dhadwal,  
-Lexie Hamblin<br>
-
+_Script Editors:_ Kiren Dhadwal,  Lexie Hamblin<br>
 _2nd Unit Director:_ Martin Smith<br>
-
 _1st Assistant Director:_ Peter Agnew<br>
-
 _Director of Photography:_ David Raedeker<br>
-
 _Editor:_ Dominic Strevens<br>
-
 _Production Designer:_ Alison Butler<br>
-
 _Costume Designer:_ Sheena Napier<br>
-
 _Make-up & Hair Designer:_ Amy Stewart<br>
-
 _Composer:_ Stephen Rennicks<br>
-
 _Production Sound Mixer:_ Dylan Voigt<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Sharon Horgan _(Nicci)_<br>
-
 Michael Sheen _(Andrew)_<br>
-
 Noma Dumezweni _(Samantha)_<br>
-
 Alison Oliver _(Katie)_<br>
-
 Niamh Moriarty _(Marnie)_<br>
-
 Des McAleer _(Eddie)_<br>
 
 Gary Beadle _(Frank)_<br>
@@ -118,70 +86,70 @@ Jonathan Rhodes _(Dr Heath)_<br>
 
 Mica Ricketts _(Hannah)_<br>
 
-UK 2023
+UK 2023<br>
 
 60 mins
 
 Total running time: 110 mins
+<br><br>
 
-<![endif]-->
+**IN PERSON & PREVIEWS**<br>
 
-**IN PERSON & PREVIEWS**
+**Preview: The Old Man Movie: Lactopalypse! + Q&A with directors Mikk Magi and Oskar Lehemaa**<br>
 
-**Preview: The Old Man Movie: Lactopalypse! + Q&A with directors Mikk Magi and Oskar Lehemaa**
+Fri 26 May 18:15<br>
 
-Fri 26 May 18:15
+**World Premiere: Straight 8 2023 Top 25**<br>
 
-**World Premiere: Straight 8 2023 Top 25**
+Sat 27 May 18:00<br>
 
-Sat 27 May 18:00
+**Preview: Chevalier**<br>
 
-**Preview: Chevalier**
+Thu 1 Jun 18:10<br>
 
-Thu 1 Jun 18:10
+**Dexter Fletcher in Conversation**<br>
 
-**Dexter Fletcher in Conversation**
+Sun 4 Jun 14:00<br>
 
-Sun 4 Jun 14:00
+**Ghosted + intro by Dexter Fletcher**<br>
 
-**Ghosted + intro by Dexter Fletcher**
+Sun 4 Jun 16:20<br>
 
-Sun 4 Jun 16:20
+**Mark Kermode Live in 3D at the BFI**<br>
 
-**Mark Kermode Live in 3D at the BFI**
+Mon 5 Jun 18:30<br>
 
-Mon 5 Jun 18:30
+**TV Preview: The Full Monty + Q&A with Robert Carlyle, Lesley Sharp, Simon Beaufoy (further panellists TBA)**<br>
 
-**TV Preview: The Full Monty + Q&A with Robert Carlyle, Lesley Sharp, Simon Beaufoy (further panellists TBA)**
+Tue 6 Jun 18:00<br>
 
-Tue 6 Jun 18:00
+**Preview: War Pony**<br>
 
-**Preview: War Pony**
+Wed 7 Jun 20:45<br>
 
-Wed 7 Jun 20:45
+**TV Preview: Black Mirror – Beyond the Sea + Q&A with writer/creator Charlie Brooker, actor Josh Hartnett, executive producer Jessica Rhoades, director John Crowley**<br>
 
-**TV Preview: Black Mirror – Beyond the Sea + Q&A with writer/creator Charlie Brooker, actor Josh Hartnett, executive producer Jessica Rhoades, director John Crowley**
-
-Mon 12 Jun 18:15
+Mon 12 Jun 18:15<br>
 
 **Sonic Cinema presents:  
-Preview: I Am Weekender + Q&A**
+Preview: I Am Weekender + Q&A**<br>
 
-Thu 15 Jun 20:30
+Thu 15 Jun 20:30<br>
 
 **TV Preview: Champion + Q&A with writer Candice Carty-Williams, cast members Déja J Bowens, Malcolm Kamulete, Ray BLK, and director  
-John Ogunmuyiwa**
+John Ogunmuyiwa**<br>
 
-Mon 19 Jun 18:15
+Mon 19 Jun 18:15<br>
 
 **Refugee Week:  
-UK Premiere: The Woodman**
+UK Premiere: The Woodman**<br>
 
-Mon 19 Jun 20:50
+Mon 19 Jun 20:50<br>
 
-**Refugee Week: Preview: Name Me Lawand + discussion with director Edward Lovelace and Steve Crump OBE, founder and chair of Deaf Kidz International**
+**Refugee Week: Preview: Name Me Lawand + discussion with director Edward Lovelace and Steve Crump OBE, founder and chair of Deaf Kidz International**<br>
 
-Tue 20 Jun 18:10
+Tue 20 Jun 18:10<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2NDIxMzcyXX0=
+eyJoaXN0b3J5IjpbLTEwNTY5Nzk5MDddfQ==
 -->
