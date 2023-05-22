@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Best Interests
+published: true
+date: 2023-05-22
+readtime: true
+categories: ['TV PREVIEW']
+tags: [Drama]
+metadata: 'UK 2023, 60 mins<br> Director: Michael Keillor'
+pdf: '2023-05-22-best-interests.pdf'
+---
 
 _+ Q&A with Sharon Horgan, Jack Thorne, Niamh Moriarty, Michael Keillor and Sophie Gardiner. Hosted by Benji Wilson._
 
@@ -14,9 +24,9 @@ Marnie’s health deteriorates to such an extent that the doctors, led by her lo
 
 Sharon is the writer, co-creator, executive producer, and star of the ten-part comedy thriller series _Bad Sisters_ with Apple TV+, where she has an overall deal. The series has received 29 nominations, including five Baftas, two Critics’ Choice Awards, two WGAs, and 12 IFTAs. She’s currently in production on Season 2.
 
-Sharon is best known for her multiple award-winning sitcom _Catastrophe_, which she  co-wrote and starred inwith Rob Delaney.She won the BAFTA TV Craft Award for Best Writing in a Comedy Series in 2016andalso gained three BAFTA nominations for herextraordinaryperformancein the show, alongside a Primetime Emmy Award Nomination for Outstanding Writing for a Comedy Series.
+Sharon is best known for her multiple award-winning sitcom _Catastrophe_, which she  co-wrote and starred in with Rob Delaney. She won the BAFTA TV Craft Award for Best Writing in a Comedy Series in 2016 and also gained three BAFTA nominations for her extraordinary performance in the show, alongside a Primetime Emmy Award Nomination for Outstanding Writing for a Comedy Series.
 
-She is also the co-founder, alongside Clelia Mountford, of the TV and Film production company Merman. Under the Merman banner, it was just announced that ABC ordered to pilot _Dropoff_, the American adaptation of the award-winning British hit _Motherland_.  Ellie Kemper and Judy Greer will star in the pilot which is currently in production. Sharon co-created_Shining Vale_, an eight-part horror comedy series starring Courteney Cox and Greg Kinnear, which premiered on Starz and is currently in production on its third season. Sharon’s other credits for Merman include executive producing and starring in the animated comedy_Housebroken_on Fox, which stars Lisa Kudrow and was co-created byClea Duvall, Jennifer Crittenden and Gabrielle Allan. Season 2 just premiered in March 2023. Sharon also executive produced_Frank of Ireland_ (Channel 4/Amazon) and co-wrote and executive-produced the BAFTA winning _Motherland_on BBC. She was also an executive producer of _Frayed_  (Sky/ABC), _There She Goes_ (BBC/Britbox) and _This Way Up_ (Ch4/Hulu), which she also starred in alongside creator Aisling Bea.
+She is also the co-founder, alongside Clelia Mountford, of the TV and Film production company Merman. Under the Merman banner, it was just announced that ABC ordered to pilot _Dropoff_, the American adaptation of the award-winning British hit _Motherland_.  Ellie Kemper and Judy Greer will star in the pilot which is currently in production. Sharon co-created _Shining Vale_, an eight-part horror comedy series starring Courteney Cox and Greg Kinnear, which premiered on Starz and is currently in production on its third season. Sharon’s other credits for Merman include executive producing and starring in the animated comedy _Housebroken_ on Fox, which stars Lisa Kudrow and was co-created by Clea Duvall, Jennifer Crittenden and Gabrielle Allan. Season 2 just premiered in March 2023. Sharon also executive produced _Frank of Ireland_ (Channel 4/Amazon) and co-wrote and executive-produced the BAFTA winning _Motherland_ on BBC. She was also an executive producer of _Frayed_ (Sky/ABC), _There She Goes_ (BBC/Britbox) and _This Way Up_ (Ch4/Hulu), which she also starred in alongside creator Aisling Bea.
 
 Sharon’s further recognition includes the BAFTA TV Award for Best Short Form Programme (2018) for _Morgana Robinson’s Summer: Dreamland_ and an Outstanding Achievement Award for her debut short film _The Week before Christmas_. At the National Comedy Awards, Sharon was awarded the Caroline Ahearne Outstanding Achievement Award. She has also received two BAFTA Award nominations and two British Comedy Awards for her iconic BBC show _Pulling_ which she co-wrote and starred in. She also wrote and directed an episode of Amazon’s anthology _Modern Love_. On the film side, Sharon can be seen most recently starring opposite Nicolas Cage in _The Unbearable Weight of Massive Talent_. She also starred opposite James McAvoy in the Stephen Daldry directed film _Together_ for BBC Two and BBC Film. In 2021, she took on the role of Miss Hedge in the BAFTA nominated feature film adaptation of the West End musical _Everybody’s Talking about Jamie_. She also starred alongside Rachel McAdams, Jason Bateman and Kyle Chandler in the critical and commercial hit feature film _Game Night_. In 2020, she starred in _Military Wives_ opposite Kristin Scott Thomas and the Irish comedy-drama film _Dating Amber_, for which she won an IFTA for Best Supporting Actress.
 
@@ -111,6 +121,30 @@ Mon 19 Jun 20:50<br>
 **Refugee Week: Preview: Name Me Lawand + discussion with director Edward Lovelace and Steve Crump OBE, founder and chair of Deaf Kidz International**<br>
 Tue 20 Jun 18:10<br>
 <br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTE0MzQzMzA4M119
 -->
