@@ -67,89 +67,50 @@ Noma Dumezweni _(Samantha)_<br>
 Alison Oliver _(Katie)_<br>
 Niamh Moriarty _(Marnie)_<br>
 Des McAleer _(Eddie)_<br>
-
 Gary Beadle _(Frank)_<br>
-
 Melissa Collier _(Alice)_<br>
-
 Billie Gadsdon _(young Katie)_<br>
-
 Daisy and Poppy Lemon _(young Marnie)_<br>
-
 Kevin Eldon _(Dr Sendak)_<br>
-
 Buffy Davis _(Gladys)_<br>
-
 Chizzy Akudolu _(Mercy)_<br>
-
 Jonathan Rhodes _(Dr Heath)_<br>
-
 Mica Ricketts _(Hannah)_<br>
 
 UK 2023<br>
-
 60 mins
 
 Total running time: 110 mins
 <br><br>
 
 **IN PERSON & PREVIEWS**<br>
-
 **Preview: The Old Man Movie: Lactopalypse! + Q&A with directors Mikk Magi and Oskar Lehemaa**<br>
-
 Fri 26 May 18:15<br>
-
 **World Premiere: Straight 8 2023 Top 25**<br>
-
 Sat 27 May 18:00<br>
-
 **Preview: Chevalier**<br>
-
 Thu 1 Jun 18:10<br>
-
 **Dexter Fletcher in Conversation**<br>
-
 Sun 4 Jun 14:00<br>
-
 **Ghosted + intro by Dexter Fletcher**<br>
-
 Sun 4 Jun 16:20<br>
-
 **Mark Kermode Live in 3D at the BFI**<br>
-
 Mon 5 Jun 18:30<br>
-
 **TV Preview: The Full Monty + Q&A with Robert Carlyle, Lesley Sharp, Simon Beaufoy (further panellists TBA)**<br>
-
 Tue 6 Jun 18:00<br>
-
 **Preview: War Pony**<br>
-
 Wed 7 Jun 20:45<br>
-
 **TV Preview: Black Mirror – Beyond the Sea + Q&A with writer/creator Charlie Brooker, actor Josh Hartnett, executive producer Jessica Rhoades, director John Crowley**<br>
-
 Mon 12 Jun 18:15<br>
-
-**Sonic Cinema presents:  
-Preview: I Am Weekender + Q&A**<br>
-
+**Sonic Cinema presents:  Preview: I Am Weekender + Q&A**<br>
 Thu 15 Jun 20:30<br>
-
-**TV Preview: Champion + Q&A with writer Candice Carty-Williams, cast members Déja J Bowens, Malcolm Kamulete, Ray BLK, and director  
-John Ogunmuyiwa**<br>
-
+**TV Preview: Champion + Q&A with writer Candice Carty-Williams, cast members Déja J Bowens, Malcolm Kamulete, Ray BLK, and director  John Ogunmuyiwa**<br>
 Mon 19 Jun 18:15<br>
-
-**Refugee Week:  
-UK Premiere: The Woodman**<br>
-
+**Refugee Week:  UK Premiere: The Woodman**<br>
 Mon 19 Jun 20:50<br>
-
 **Refugee Week: Preview: Name Me Lawand + discussion with director Edward Lovelace and Steve Crump OBE, founder and chair of Deaf Kidz International**<br>
-
 Tue 20 Jun 18:10<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY5Nzk5MDddfQ==
+eyJoaXN0b3J5IjpbMTE0MzQzMzA4M119
 -->
