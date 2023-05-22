@@ -1,1 +1,191 @@
 
+
+_+ Q&A with Sharon Horgan, Jack Thorne, Niamh Moriarty, Michael Keillor and Sophie Gardiner. Hosted by Benji Wilson._
+
+_Best Interests_ is a compelling, moving, thought-provoking fictional drama from BAFTA-winning writer Jack Thorne (_Help_, _His Dark Materials_, _The Virtues_) for BBC One and iPlayer from Chapter One Pictures in association with Fifth Season.
+
+Nicci and Andrew are the proud and loving parents of Marnie (13) and Katie (17). But it hasn’t been easy. Marnie has an undiagnosed form of Congenital Muscular Dystrophy, a life-limiting condition. As a family, they have learnt to adapt. They’ve stayed strong, working as a team, caring for each other and finding light in the dark moments.
+
+Marnie’s health deteriorates to such an extent that the doctors, led by her long-time Consultant, Samantha, come to believe it is in her best interests to withdraw life-sustaining care. She is in pain, they argue. The treatments are becoming too invasive. Her parents disagree. They believe Marnie has made it this far, that she has a life worth living – or, as time goes by, maybe only Nicci feels this way. This sets in play the inexorable journey to the high court, where a judge will decide what is in Marnie’s best interests.
+
+**About the panel**
+
+**Sharon Horgan** is a dynamic, witty, and talented multi-hyphenate whose exceptional storytelling skills has brought her international recognition. She is an award-winning creator, writer, producer, and actor who portrays the experiences of strong, female-driven stories.
+
+Sharon is the writer, co-creator, executive producer, and star of the ten-part comedy thriller series _Bad Sisters_ with Apple TV+, where she has an overall deal. The series has received 29 nominations, including five Baftas, two Critics’ Choice Awards, two WGAs, and 12 IFTAs. She’s currently in production on Season 2.
+
+Sharon is best known for her multiple award-winning sitcom _Catastrophe_, which she  
+co-wrote and starred inwith Rob Delaney.She won the BAFTA TV Craft Award for Best Writing in a Comedy Series in 2016andalso gained three BAFTA nominations for herextraordinaryperformancein the show, alongside a Primetime Emmy Award Nomination for Outstanding Writing for a Comedy Series.
+
+She is also the co-founder, alongside Clelia Mountford, of the TV and Film production company Merman. Under the Merman banner, it was just announced that ABC ordered to pilot _Dropoff_, the American adaptation of the award-winning British hit _Motherland_.  
+Ellie Kemper and Judy Greer will star in the pilot which is currently in production. Sharon co-created_Shining Vale_, an eight-part horror comedy series starring Courteney Cox and Greg Kinnear, which premiered on Starz and is currently in production on its third season. Sharon’s other credits for Merman include executive producing and starring in the animated comedy_Housebroken_on Fox, which stars Lisa Kudrow and was co-created byClea Duvall, Jennifer Crittenden and Gabrielle Allan. Season 2 just premiered in March 2023. Sharon also executive produced_Frank of Ireland_ (Channel 4/Amazon) and co-wrote and executive-produced the BAFTA winning _Motherland_on BBC. She was also an executive producer of _Frayed_  (Sky/ABC), _There She Goes_ (BBC/Britbox) and _This Way Up_ (Ch4/Hulu), which she also starred in alongside creator Aisling Bea.
+
+Sharon’s furtherrecognition includes theBAFTA TV Award for Best Short Form Programme (2018) for_Morgana Robinson__’__s Summer: Dreamland_ and an Outstanding Achievement Award for her debut short film_The Week before Christmas_. At the National Comedy Awards, Sharon was awarded the Caroline Ahearne Outstanding Achievement Award. She has also received two BAFTA Award nominations and twoBritish Comedy Awards for her iconic BBC show_Pulling_which she co-wrote and starred in. She alsowrote and directed an episode of Amazon’s anthology_Modern Love_. On the film side, Sharon can be seen most recently starring opposite Nicolas Cage in _The Unbearable Weight of Massive Talent_. She also starred opposite James McAvoy in the Stephen Daldry directed film_Together_for BBC Two and BBC Film. In 2021,shetook on the role of Miss Hedgein the BAFTA nominated feature film adaptation of the West End musical_Everybody__’__s Talking about Jamie_. She also starred alongside Rachel McAdams, Jason Bateman and Kyle Chandler in the critical and commercial hit feature film_Game Night_.In 2020, she starred in _Military Wives_opposite Kristin Scott Thomasand theIrish comedy-drama film_Dating Amber_,for which she won an IFTA for Best Supporting Actress.
+
+**Jack Thorne** is a BAFTA and Tony Award winning British screenwriter and theatre writer known for _Wonder_, _The Aeronauts_, _Harry Potter and the Cursed Child_, _When Barbara Met Alan_, _The Swimmers_, _Help_ and the _Enola_ _Holmes_ films.
+
+As a playwright, he has had a prolific career including the critically acclaimed _The_ _Solid Life of Sugar_, _Harry Potter and the Cursed Child_ (Tony Award winner), _Hope_, _The End of History_, and adaptations of _Let the Right One In_ at the Royal Court, and _Woyzeck_ and  
+_A Christmas Carol_ at the Old Vic. He has two plays premiering this year: _When Winston Went to War with the Wireless_, and _The Motive and the Cue_, directed by Sam Mendes.
+
+Thorne began his TV career writing on _Shameless_ and _Skins_, before writing _Cast Offs_ in 2009. His original series credits include _Glue_, _The Last Panthers_, _Kiri_, and _The Accident_. He has won five BAFTA awards: Best Mini-Series for _This Is England '88_, Best Drama Series for _The Fades_, Best Single Drama for _Don’t Take My Baby_, Best Mini-Series for _This Is England '90_, and Best Mini-Series for _National_ _Treasure_. In 2022 he won the RTS Single Drama, The Rose D’Or and an International Emmy for _Help_, his mini-series that starred Jodie Comer and Stephen Graham. That year he also won the Writers’ Guild of Great Britain award for Outstanding Contribution to Writing and the Royal Television Society’s award for Outstanding Contribution to British Television.
+
+In August 2021, Thorne gave the MacTaggart Lecture at the Edinburgh TV Festival and used the prestigious platform of the speech to discuss the issue of the television industry's failings in the treatment and representation of the disabled community.
+
+**Niamh Moriarty** is an incredible young actress. As well as playing the role of Marnie in _Best Interests_, she also played a featured role in the Amazon feature film, _Silver_. The writers went back into the room to rewrite this role to suit Niamh as she is in a wheelchair. Niamh has experience on stage also, playing Tiny Tim in _A Christmas Carol_ in the Gate Theatre, Dublin. Niamh is a beautiful actress and everyone who meets her is amazed by her ability.
+
+**Michael Keillor**’s passion for bold and ambitious projects has drawn him to work with a talented mix of writers who share his appetite for pushing boundaries while entertaining audiences. Prior to _Best Interests_, he directed David Hare’s four-part political drama _Roadkill_, which charted the rise of a corrupt and self-serving politician played by Hugh Laurie and _Chimerica_, a four-part adaptation of Lucy Kirkwood’s Olivier award-winning play. Michael first stepped onto a film set after finishing law school, learning his craft on the floor, before building on this experience directing ads, pop promos and shorts films, graduating to continuing drama and then a string of hit shows including the third series of multi award-winning thriller _Line of Duty_, JK Rowling’s _Strike: The Cuckoo’s Calling_ and _Critical_ from Jed Mercurio. Other credits include _Silk_, _Mr Selfridge_, _Young James Herriot_ and _Shameless_. While primarily known for directing, Michael also writes and develops his own feature films and long form projects with the same energy and drive for originality which informs all of his filmmaking.
+
+**Sophie Gardiner** joined Chapter One at its launch and has built a slate that reflects the ambitions of the company: to produce author-led, entertaining, and original work. Since then she has been Executive Producer on Chapter One’s _Best Interests_, by Jack Thorne for the BBC and Fifth Season, and _Boy Swallows Universe_ (with Brouhaha and Anonymous Content) for Netflix (Australia). Whilst at C4 she commissioned many shows including _Run, Southcliffe, Utopia, The Mill_ and _My Mad Fat Diary_. She went on to Executive Produce projects including _Howards End, Little Women, Chimerica_ all whilst at Playground. Her previous producer credits include _The Battle of Orgreave_ for C4; _Eureka Street_ for BBC2; and _Totally Frank_ for C4.
+
+**Benji Wilson** is a journalist and TV critic for _The Sunday Times_, the _Telegraph_ and _Radio Times_. He is also a London correspondent for _USA Today_ and the _Sydney Morning Herald_, specialising in television and the media.
+
+<![endif]-->
+
+**BEST INTERESTS (EPISODE 1)**
+
+_Written by:_ Jack Thorne
+
+_Directed by:_ Michael Keillor
+
+_Produced by:_ Jenny Frayn
+
+_Production Company:  
+_Chapter One Pictures
+
+_In association with:_ Fifth Season
+
+_Executive Producers:_ Sharon Horgan,  
+Michael Sheen, Toby Bentley, Sophie Gardiner, Michael Keillor, Jack Thorne
+
+_Executive Producer for the BBC:  
+_Lucy Richer
+
+_Line Producer:_ Emma James
+
+_Location Manager:_ Susie Booker
+
+_Casting by:_ Amy Hubbard, Amy Jackson,  
+Tamsyn Manson
+
+_Script Supervisor:_ Mia Sands
+
+_Script Editors:_ Kiren Dhadwal,  
+Lexie Hamblin
+
+_2nd Unit Director:_ Martin Smith
+
+_1st Assistant Director:_ Peter Agnew
+
+_Director of Photography:_ David Raedeker
+
+_Editor:_ Dominic Strevens
+
+_Production Designer:_ Alison Butler
+
+_Costume Designer:_ Sheena Napier
+
+_Make-up & Hair Designer:_ Amy Stewart
+
+_Composer:_ Stephen Rennicks
+
+_Production Sound Mixer:_ Dylan Voigt
+
+_Cast:_
+
+Sharon Horgan _(Nicci)_
+
+Michael Sheen _(Andrew)_
+
+Noma Dumezweni _(Samantha)_
+
+Alison Oliver _(Katie)_
+
+Niamh Moriarty _(Marnie)_
+
+Des McAleer _(Eddie)_
+
+Gary Beadle _(Frank)_
+
+Melissa Collier _(Alice)_
+
+Billie Gadsdon _(young Katie)_
+
+Daisy and Poppy Lemon _(young Marnie)_
+
+Kevin Eldon _(Dr Sendak)_
+
+Buffy Davis _(Gladys)_
+
+Chizzy Akudolu _(Mercy)_
+
+Jonathan Rhodes _(Dr Heath)_
+
+Mica Ricketts _(Hannah)_
+
+UK 2023
+
+60 mins
+
+Total running time: 110 mins
+
+<![endif]-->
+
+**IN PERSON & PREVIEWS**
+
+**Preview: The Old Man Movie: Lactopalypse! + Q&A with directors Mikk Magi and Oskar Lehemaa**
+
+Fri 26 May 18:15
+
+**World Premiere: Straight 8 2023 Top 25**
+
+Sat 27 May 18:00
+
+**Preview: Chevalier**
+
+Thu 1 Jun 18:10
+
+**Dexter Fletcher in Conversation**
+
+Sun 4 Jun 14:00
+
+**Ghosted + intro by Dexter Fletcher**
+
+Sun 4 Jun 16:20
+
+**Mark Kermode Live in 3D at the BFI**
+
+Mon 5 Jun 18:30
+
+**TV Preview: The Full Monty + Q&A with Robert Carlyle, Lesley Sharp, Simon Beaufoy (further panellists TBA)**
+
+Tue 6 Jun 18:00
+
+**Preview: War Pony**
+
+Wed 7 Jun 20:45
+
+**TV Preview: Black Mirror – Beyond the Sea + Q&A with writer/creator Charlie Brooker, actor Josh Hartnett, executive producer Jessica Rhoades, director John Crowley**
+
+Mon 12 Jun 18:15
+
+**Sonic Cinema presents:  
+Preview: I Am Weekender + Q&A**
+
+Thu 15 Jun 20:30
+
+**TV Preview: Champion + Q&A with writer Candice Carty-Williams, cast members Déja J Bowens, Malcolm Kamulete, Ray BLK, and director  
+John Ogunmuyiwa**
+
+Mon 19 Jun 18:15
+
+**Refugee Week:  
+UK Premiere: The Woodman**
+
+Mon 19 Jun 20:50
+
+**Refugee Week: Preview: Name Me Lawand + discussion with director Edward Lovelace and Steve Crump OBE, founder and chair of Deaf Kidz International**
+
+Tue 20 Jun 18:10
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTMwNzMyMTA5M119
+-->
