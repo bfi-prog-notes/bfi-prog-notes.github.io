@@ -1,9 +1,18 @@
-
+---
+layout: post
+title: Three Colours - White
+published: true
+date: 2023-05-26
+readtime: true
+categories: ['THE THREE COLOURS TRILOGY']
+tags: [Drama, Comedy]
+metadata: 'France-Switzerland-Poland 1993, 91 mins<br> Director: Krzysztof Kieślowski'
+pdf: '2023-05-26-three-colours-white.pdf'
+---
 
 **Kieślowski on ‘Three Colours: White’**
 
-**Berlin: 15 February.** _White_ premieres in the festival, and turns out to be the trilogy’s scherzo: a black comedy about an unconsummated Polish-French marriage, a messy divorce and a problematic sexual-emotional reunion.  
-The storyline intersects only very briefly with that of _Blue_ (we now see that it was Zbigniew Zamachowski and Julie Delpy’s divorce hearing that Juliette Binoche nearly barged into when she went to the Paris courthouse to look for her late husband’s mistress), but both films climax with extremely emotive love scenes in which the protagonists overcome their mindsets and surrender to their hearts. The humour springs less from the tribulations of the central couple than from the accompanying picture of Poland in the 90s: a country of swindlers, strong-arm men and criminals where it is possible to buy anything at all, including a fresh Russian corpse.
+**Berlin: 15 February.** _White_ premieres in the festival, and turns out to be the trilogy’s scherzo: a black comedy about an unconsummated Polish-French marriage, a messy divorce and a problematic sexual-emotional reunion.  The storyline intersects only very briefly with that of _Blue_ (we now see that it was Zbigniew Zamachowski and Julie Delpy’s divorce hearing that Juliette Binoche nearly barged into when she went to the Paris courthouse to look for her late husband’s mistress), but both films climax with extremely emotive love scenes in which the protagonists overcome their mindsets and surrender to their hearts. The humour springs less from the tribulations of the central couple than from the accompanying picture of Poland in the 90s: a country of swindlers, strong-arm men and criminals where it is possible to buy anything at all, including a fresh Russian corpse.
 
 _Why a trilogy? Why isn’t one film enough?_
 
@@ -59,9 +68,7 @@ Patriots do, yes. Normal people, I hope don’t.
 
 _Who are these patriots? Do they have any power?_
 
-Nationalists, fascists, call them what you like. They’re a crazy minority, but  
-they shout loudly enough to be heard. They have newspapers, and access  
-to television.
+Nationalists, fascists, call them what you like. They’re a crazy minority, but  they shout loudly enough to be heard. They have newspapers, and access  to television.
 
 _Last year in Poland, I found a widespread desire to come to terms with the past – for example, the treatment of the Jews. But the election result suggested a nostalgia for the ‘security’ of the communist period…_
 
@@ -152,6 +159,30 @@ France-Switzerland-Poland 1993©<br>
 
 A Curzon release<br>
 <br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound & the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEyNTE3MTk3MzNdfQ==
 -->
