@@ -72,67 +72,39 @@ _Press Representative:_ Eva Simonet<br>
 
 **Cast**<br>
 Juliette Binoche _(Julie Vignon de Courcy)_<br>
-
 Benoît Régent _(Olivier)_<br>
-
 Florence Pernel _(Sandrine)_<br>
-
 Charlotte Véry _(Lucille)_<br>
-
 Hélène Vincent _(journalist)_<br>
-
 Philippe Volter _(estate agent)_<br>
-
 Claude Duneton _(doctor)_<br>
-
 Hugues Quester _(Patrice)_<br>
-
 Emmanuele Riva _(mother)_<br>
-
 Florence Vignon _(copyist)_<br>
-
 Jacek Ostaszewski _(flautist)_<br>
-
 Yann Trégouet _(Antoine)_<br>
-
 Isabelle Sadoyan _(servant)_<br>
-
 Daniel Martin _(downstairs neighbour)_<br>
-
 Catherine Thérouenne _(neighbour)_<br>
-
 Alain Ollivier _(lawyer)_<br>
-
 Pierre Forget _(gardener)_<br>
-
 Philippe Manesse<br>
-
 Idit Cebula<br>
-
 Jacques Disses<br>
-
 Yves Penay<br>
-
 Arno Chevrier<br>
-
 Stanislas Nordey<br>
-
 Michel Lisowski _(interpreter)_<br>
-
 Philippe Morier-Genoud _(judge)_<br>
-
 Julie Delpy _(Dominique Vidal)_<br>
-
 Zbigniew Zamachowski, _(Karol)_<br>
-
 Alain Decaux
 
 France-Switzerland-Poland 1993©<br>
-
 98 mins
 
 A Curzon release<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODI1Mjk4NDddfQ==
+eyJoaXN0b3J5IjpbMTMwMTI4OTQ4MV19
 -->
