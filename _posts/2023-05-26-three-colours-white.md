@@ -75,53 +75,23 @@ I think we have to die first, all of us. Eventually there will be new people wit
 <br><br>
 
 **THREE COLOURS: WHITE (TROIS COULEURS: BLANC)**<br>
-
 _Director:_ Krzysztof Kieslowski<br>
-
-_©:_ MK2 Productions, France 3 Cinéma,  
-CAB Productions, Zespol Filmowy ‘Tor’<br>
-
-_Production Companies:_ MK2 Productions,
-
-France 3 Cinéma, CAB Productions,  
-Zespol Filmowy ‘Tor’<br>
-
+_©:_ MK2 Productions, France 3 Cinéma,  CAB Productions, Zespol Filmowy ‘Tor’<br>
+_Production Companies:_ MK2 Productions, France 3 Cinéma, CAB Productions,  Zespol Filmowy ‘Tor’<br>
 _With the participation of:_ Canal+<br>
-
 _Supported by:_ Eurimages Conseil de l’Europe<br>
-
 _Executive Producer:_ Yvon Crenn<br>
-
 _Presented by:_ Marin Karmitz<br>
-
-_Production Executives (‘Tor’ Studio):  
-_Krzysztof Zanussi, Ryszard Straszewski,Irena Strzalkowska<br>
-
+_Production Executives (‘Tor’ Studio):_ Krzysztof Zanussi, Ryszard Straszewski, Irena Strzalkowska<br>
 _Production Manager:_ Ryszard Chutkowski<br>
-
-_Unit Managers/Administration:_ Krzystztof Staszweski, Wlodzimierz Dziatkiewicz, Joanna Pindelska, Andrzej Buhl, Malgorzata Powalka,
-
-Katarzyna Janus, Joanna Kadubiec, Malgorzata Witkowska, Caroline Lassa, Anne Guillemard, Jean Talvat, Gisèle Vuillaume, Aline Corneille, Olivier Bulteau, Nicolas Tempier, Dominique Lefevre<br>
-
-_1st Assistant Directors:_ Teresa Violetta Buhl,
-
-Emmanuel Finkiel<br>
-
-_2nd Assistant Directors:_ Pawel Lozinski,  
-Maria Czartoryska, Adam Paplinksi, Peter Thurrell, Julie Bertucelli, François Azria, Stéphane Libiot<br>
-
+_Unit Managers/Administration:_ Krzystztof Staszweski, Wlodzimierz Dziatkiewicz, Joanna Pindelska, Andrzej Buhl, Malgorzata Powalka, Katarzyna Janus, Joanna Kadubiec, Malgorzata Witkowska, Caroline Lassa, Anne Guillemard, Jean Talvat, Gisèle Vuillaume, Aline Corneille, Olivier Bulteau, Nicolas Tempier, Dominique Lefevre<br>
+_1st Assistant Directors:_ Teresa Violetta Buhl, Emmanuel Finkiel<br>
+_2nd Assistant Directors:_ Pawel Lozinski,  Maria Czartoryska, Adam Paplinksi, Peter Thurrell, Julie Bertucelli, François Azria, Stéphane Libiot<br>
 _Assistant to the Director:_ Stan Latek<br>
-
 _Script Supervisor:_ Geneviève Dufour<br>
-
 _Casting:_ Margot Capelier, Teresa Violetta Buhl<br>
-
-_Screenplay:_ Krzysztof Piesiewicz,  
-Krzysztof Kieslowski<br>
-
-_Screenplay Consultants:_ Agnieszka Holland,
-
-Edward Zebrowski, Edward Klosinski<br>
+_Screenplay:_ Krzysztof Piesiewicz,  Krzysztof Kieslowski<br>
+_Screenplay Consultants:_ Agnieszka Holland, Edward Zebrowski, Edward Klosinski<br>
 
 _Dialogue Translations:_ Marcin Latallo<br>
 
@@ -240,7 +210,7 @@ Yannick Evely _(metro employee)_<br>
 
 Jacques Disses _(Dominique’s lawyer)_<br>
 
-Teresa Budzisz Krzyzanowska _(Madame Jadwiga)_
+Teresa Budzisz Krzyzanowska _(Madame Jadwiga)_<br>
 
 K. Bigelmajer, J. Dominik, J. Grzegorek,
 
@@ -254,17 +224,18 @@ M. Prazmowska, M. Robaszkiewicz, Z. Richter,
 
 B. Szymanska, B. Topa, W. Wroblewska,
 
-M. Verner, P. Zelt
+M. Verner, P. Zelt<br>
 
-Juliette Binoche _(Julie)_
+Juliette Binoche _(Julie)_<br>
 
 Florence Pernel
 
-France-Switzerland-Poland 1993©
+France-Switzerland-Poland 1993©<br>
 
 91 mins
 
-A Curzon release
+A Curzon release<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDI4NTE5NV19
+eyJoaXN0b3J5IjpbLTU1NzAxNzY2N119
 -->
