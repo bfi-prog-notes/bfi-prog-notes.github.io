@@ -36,47 +36,30 @@ We’re working on a couple of feature films as directors right now, but also so
 
 We have always had a film industry in Estonia. Estonia has always been a moviegoing nation. For a long time, we were under the Soviet Union. And even during those times, we had a movie studio in the capital of Estonia. So there were famous Estonian movie productions.
 
-Maybe this is why our film was so successful in Estonia; people just love being able to still go the movies.
+Maybe this is why our film was so successful in Estonia; people just love being able to still go the movies.  
+**Production notes**
+<br><br>
 
-Production notes
+**THE OLD MAN MOVIE: LACTOPALYPSE!**<br>
+_Directors:_ Mikk Mägi, Oskar Lehemaa<br>
+_Production Companies:_ BOP! Animation,  Apollo Film Productions<br>
+_Presented by:_ 606 Distribution<br>
+_Written by:_ Mikk Mägi, Oskar Lehemaa<br>
+_Story:_ Mikk Mägi, Oskar Lehemaa, Peeter Ritso<br>
+_Cinematography:_ Urmas Joemees<br>
+_Lead Animators:_ Egert Kesa, Olga Stalev<br>
+_Editor:_ Oskar Lehemaa<br>
+_Set Design:_ Triin Paumer, Sven-Tonis Puskar,  Anu-Laura Tuttelberg<br>
+_Music:_ Sten-Olle Moldau, Lauri Kadalipp<br>
 
-<![endif]-->
+**Voice Cast**<br>
+Jan Uuspolo<br>
+Mart Avandi<br>
+Indrek Ojari<br>
 
-**THE OLD MAN MOVIE: LACTOPALYPSE!**
-
-_Directors:_ Mikk Mägi, Oskar Lehemaa
-
-_Production Companies:_ BOP! Animation,  
-Apollo Film Productions
-
-_Presented by:_ 606 Distribution
-
-_Written by:_ Mikk Mägi, Oskar Lehemaa
-
-_Story:_ Mikk Mägi, Oskar Lehemaa, Peeter Ritso
-
-_Cinematography:_ Urmas Joemees
-
-_Lead Animators:_ Egert Kesa, Olga Stalev
-
-_Editor:_ Oskar Lehemaa
-
-_Set Design:_ Triin Paumer, Sven-Tonis Puskar,  
-Anu-Laura Tuttelberg
-
-_Music:_ Sten-Olle Moldau, Lauri Kadalipp
-
-_Voice Cast:_
-
-Jan Uuspolo
-
-Mart Avandi
-
-Indrek Ojari
-
-Estonia 2019
-
-88 mins
+Estonia 2019<br>
+88 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODg1ODIwMF19
+eyJoaXN0b3J5IjpbMTI4Mzc4MTMzMV19
 -->
