@@ -75,7 +75,7 @@ I think we have to die first, all of us. Eventually there will be new people wit
 <br><br>
 
 **THREE COLOURS: WHITE (TROIS COULEURS: BLANC)**<br>
-_Director:_ Krzysztof Kieslowski<br>
+_Director:_ Krzysztof Kieślowski<br>
 _©:_ MK2 Productions, France 3 Cinéma,  CAB Productions, Zespol Filmowy ‘Tor’<br>
 _Production Companies:_ MK2 Productions, France 3 Cinéma, CAB Productions,  Zespol Filmowy ‘Tor’<br>
 _With the participation of:_ Canal+<br>
@@ -90,54 +90,25 @@ _2nd Assistant Directors:_ Pawel Lozinski,  Maria Czartoryska, Adam Paplinksi, P
 _Assistant to the Director:_ Stan Latek<br>
 _Script Supervisor:_ Geneviève Dufour<br>
 _Casting:_ Margot Capelier, Teresa Violetta Buhl<br>
-_Screenplay:_ Krzysztof Piesiewicz,  Krzysztof Kieslowski<br>
+_Screenplay:_ Krzysztof Piesiewicz,  Krzysztof Kieślowski<br>
 _Screenplay Consultants:_ Agnieszka Holland, Edward Zebrowski, Edward Klosinski<br>
-
 _Dialogue Translations:_ Marcin Latallo<br>
-
 _Assistant Translator:_ Roman Gren<br>
-
 _Director of Photography:_ Edward Klosinski<br>
-
-_Lighting:_ Piotr Obloza, Sergiusz Bogucki,
-
-Marek Socha, Slawomir Grinka, Hans Meier,  
-Ernst Brunner, Alain Dondin, Alain Dubouloz<br>
-
+_Lighting:_ Piotr Obloza, Sergiusz Bogucki, Marek Socha, Slawomir Grinka, Hans Meier,  Ernst Brunner, Alain Dondin, Alain Dubouloz<br>
 _Assistant Operators:_ Henryk Jedynak, Muriel Coulin<br>
-
 _Grips:_ Zbigniew Koniuszy, Stanislaw Kolenda, Albert Vasseur, Alain Dreze<br>
-
 _Stills:_ Piotr Jaxa<br>
-
 _Editor:_ Urszula Lesiak<br>
-
-_Assistant Editors:_ Ewa Lenkiewicz,  
-Christian Phan-Trong Tuan, Alicja Torbus-Wosinska<br>
-
+_Assistant Editors:_ Ewa Lenkiewicz,  Christian Phan-Trong Tuan, Alicja Torbus-Wosinska<br>
 _Art Directors:_ Halina Dobrowolska, Claude Lenoir<br>
-
 _Set Decorator:_ Magdalena Dipont<br>
-
-_Set Dressers/Props:_ Tomasz Kowalski,  
-Dariusz Lipinski, Henryk Puchalski, Michel Charvaz, Julien Poitou-Weber, Jean-Pierre Delettre,  
-Christian Aubenque, Lionel Acat<br>
-
-_Costumes:_ Elzbieta Radke, Teresa Wardzala,
-
-Jolanta Luczak, Virginie Viard<br>
-
-_Make-up/Hairdressers:_ Jolanta Pruszynska,
-
-Jadwiga Cichocka, Jean-Pierre Caminade<br>
-
+_Set Dressers/Props:_ Tomasz Kowalski,  Dariusz Lipinski, Henryk Puchalski, Michel Charvaz, Julien Poitou-Weber, Jean-Pierre Delettre,  Christian Aubenque, Lionel Acat<br>
+_Costumes:_ Elzbieta Radke, Teresa Wardzala, Jolanta Luczak, Virginie Viard<br>
+_Make-up/Hairdressers:_ Jolanta Pruszynska, Jadwiga Cichocka, Jean-Pierre Caminade<br>
 _Titles/Optical:_ Ercidan<br>
-
 _Music:_ Zbigniew Preisner<br>
-
-_Music Performed by:_ Sextuor à Cordes,
-
-Le Petit Orchestre de Zbigniew Preisner<br>
+_Music Performed by:_ Sextuor à Cordes, Le Petit Orchestre de Zbigniew Preisner<br>
 
 _First Violin:_ Zbigniew Paleta<br>
 
@@ -237,5 +208,5 @@ France-Switzerland-Poland 1993©<br>
 A Curzon release<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzAxNzY2N119
+eyJoaXN0b3J5IjpbLTcyNTIzMjc2OV19
 -->
