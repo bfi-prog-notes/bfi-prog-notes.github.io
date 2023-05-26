@@ -72,174 +72,173 @@ _Do you see a way forward for Poland?_
 I think we have to die first, all of us. Eventually there will be new people with new ideas. It’s not just a generational change, it’s a matter of changing a way of thinking that has been inculcated for 45 years. I can’t see it taking less than two generations. Decades of Marxist education have left Poland unable to think in normal human terms. We can only think in terms of Left and Right.
 
 **Interview by Tony Rayns, _Sight and Sound_, June 1994**
+<br><br>
 
-<![endif]-->
+**THREE COLOURS: WHITE (TROIS COULEURS: BLANC)**<br>
 
-**THREE COLOURS: WHITE (TROIS COULEURS: BLANC)**
-
-_Director:_ Krzysztof Kieslowski
+_Director:_ Krzysztof Kieslowski<br>
 
 _©:_ MK2 Productions, France 3 Cinéma,  
-CAB Productions, Zespol Filmowy ‘Tor’
+CAB Productions, Zespol Filmowy ‘Tor’<br>
 
 _Production Companies:_ MK2 Productions,
 
 France 3 Cinéma, CAB Productions,  
-Zespol Filmowy ‘Tor’
+Zespol Filmowy ‘Tor’<br>
 
-_With the participation of:_ Canal+
+_With the participation of:_ Canal+<br>
 
-_Supported by:_ Eurimages Conseil de l’Europe
+_Supported by:_ Eurimages Conseil de l’Europe<br>
 
-_Executive Producer:_ Yvon Crenn
+_Executive Producer:_ Yvon Crenn<br>
 
-_Presented by:_ Marin Karmitz
+_Presented by:_ Marin Karmitz<br>
 
 _Production Executives (‘Tor’ Studio):  
-_Krzysztof Zanussi, Ryszard Straszewski,Irena Strzalkowska
+_Krzysztof Zanussi, Ryszard Straszewski,Irena Strzalkowska<br>
 
-_Production Manager:_ Ryszard Chutkowski
+_Production Manager:_ Ryszard Chutkowski<br>
 
 _Unit Managers/Administration:_ Krzystztof Staszweski, Wlodzimierz Dziatkiewicz, Joanna Pindelska, Andrzej Buhl, Malgorzata Powalka,
 
-Katarzyna Janus, Joanna Kadubiec, Malgorzata Witkowska, Caroline Lassa, Anne Guillemard, Jean Talvat, Gisèle Vuillaume, Aline Corneille, Olivier Bulteau, Nicolas Tempier, Dominique Lefevre
+Katarzyna Janus, Joanna Kadubiec, Malgorzata Witkowska, Caroline Lassa, Anne Guillemard, Jean Talvat, Gisèle Vuillaume, Aline Corneille, Olivier Bulteau, Nicolas Tempier, Dominique Lefevre<br>
 
 _1st Assistant Directors:_ Teresa Violetta Buhl,
 
-Emmanuel Finkiel
+Emmanuel Finkiel<br>
 
 _2nd Assistant Directors:_ Pawel Lozinski,  
-Maria Czartoryska, Adam Paplinksi, Peter Thurrell, Julie Bertucelli, François Azria, Stéphane Libiot
+Maria Czartoryska, Adam Paplinksi, Peter Thurrell, Julie Bertucelli, François Azria, Stéphane Libiot<br>
 
-_Assistant to the Director:_ Stan Latek
+_Assistant to the Director:_ Stan Latek<br>
 
-_Script Supervisor:_ Geneviève Dufour
+_Script Supervisor:_ Geneviève Dufour<br>
 
-_Casting:_ Margot Capelier, Teresa Violetta Buhl
+_Casting:_ Margot Capelier, Teresa Violetta Buhl<br>
 
 _Screenplay:_ Krzysztof Piesiewicz,  
-Krzysztof Kieslowski
+Krzysztof Kieslowski<br>
 
 _Screenplay Consultants:_ Agnieszka Holland,
 
-Edward Zebrowski, Edward Klosinski
+Edward Zebrowski, Edward Klosinski<br>
 
-_Dialogue Translations:_ Marcin Latallo
+_Dialogue Translations:_ Marcin Latallo<br>
 
-_Assistant Translator:_ Roman Gren
+_Assistant Translator:_ Roman Gren<br>
 
-_Director of Photography:_ Edward Klosinski
+_Director of Photography:_ Edward Klosinski<br>
 
 _Lighting:_ Piotr Obloza, Sergiusz Bogucki,
 
 Marek Socha, Slawomir Grinka, Hans Meier,  
-Ernst Brunner, Alain Dondin, Alain Dubouloz
+Ernst Brunner, Alain Dondin, Alain Dubouloz<br>
 
-_Assistant Operators:_ Henryk Jedynak, Muriel Coulin
+_Assistant Operators:_ Henryk Jedynak, Muriel Coulin<br>
 
-_Grips:_ Zbigniew Koniuszy, Stanislaw Kolenda, Albert Vasseur, Alain Dreze
+_Grips:_ Zbigniew Koniuszy, Stanislaw Kolenda, Albert Vasseur, Alain Dreze<br>
 
-_Stills:_ Piotr Jaxa
+_Stills:_ Piotr Jaxa<br>
 
-_Editor:_ Urszula Lesiak
+_Editor:_ Urszula Lesiak<br>
 
 _Assistant Editors:_ Ewa Lenkiewicz,  
-Christian Phan-Trong Tuan, Alicja Torbus-Wosinska
+Christian Phan-Trong Tuan, Alicja Torbus-Wosinska<br>
 
-_Art Directors:_ Halina Dobrowolska, Claude Lenoir
+_Art Directors:_ Halina Dobrowolska, Claude Lenoir<br>
 
-_Set Decorator:_ Magdalena Dipont
+_Set Decorator:_ Magdalena Dipont<br>
 
 _Set Dressers/Props:_ Tomasz Kowalski,  
 Dariusz Lipinski, Henryk Puchalski, Michel Charvaz, Julien Poitou-Weber, Jean-Pierre Delettre,  
-Christian Aubenque, Lionel Acat
+Christian Aubenque, Lionel Acat<br>
 
 _Costumes:_ Elzbieta Radke, Teresa Wardzala,
 
-Jolanta Luczak, Virginie Viard
+Jolanta Luczak, Virginie Viard<br>
 
 _Make-up/Hairdressers:_ Jolanta Pruszynska,
 
-Jadwiga Cichocka, Jean-Pierre Caminade
+Jadwiga Cichocka, Jean-Pierre Caminade<br>
 
-_Titles/Optical:_ Ercidan
+_Titles/Optical:_ Ercidan<br>
 
-_Music:_ Zbigniew Preisner
+_Music:_ Zbigniew Preisner<br>
 
 _Music Performed by:_ Sextuor à Cordes,
 
-Le Petit Orchestre de Zbigniew Preisner
+Le Petit Orchestre de Zbigniew Preisner<br>
 
-_First Violin:_ Zbigniew Paleta
+_First Violin:_ Zbigniew Paleta<br>
 
-_Oboe:_ Mariusz Pedzialek
+_Oboe:_ Mariusz Pedzialek<br>
 
-_Clarinet:_ Jan Cielecki
+_Clarinet:_ Jan Cielecki<br>
 
-_Music Director:_ Zbigniew Paleta
+_Music Director:_ Zbigniew Paleta<br>
 
 _Executive Music Producers:_ Halina Laciak,
 
-Preisner Production
+Preisner Production<br>
 
-_Music Engineer:_ Rafal Paczkowski
+_Music Engineer:_ Rafal Paczkowski<br>
 
-_Assistant Music Engineer:_ Leszek Kaminski
+_Assistant Music Engineer:_ Leszek Kaminski<br>
 
 _Sound Recordists:_ Brigitte Taillandier,  
-Pascal Colomb
+Pascal Colomb<br>
 
-_Sound:_ Jean-Claude Laureux
+_Sound:_ Jean-Claude Laureux<br>
 
-_Sound Mixer:_ William Flageollet
+_Sound Mixer:_ William Flageollet<br>
 
 _Sound Editors:_ Piotr Zawadzki,  
-Jean-Claude Laureux, Francine Lemaître
+Jean-Claude Laureux, Francine Lemaître<br>
 
 _Sound Effects:_ Jérôme Levy, Pascal Mazière,
 
-Éric Ferret, Marc-Antoine Beldent
+Éric Ferret, Marc-Antoine Beldent<br>
 
 _Stuntmen:_ Robert Brzezinski, Jozef Stefanski, Zbigniew Modej, Janusz Chlebowski,  
-Ryszard Janikowski
+Ryszard Janikowski<br>
 
-_Cast:_
+_Cast:_<br>
 
-Zbigniew Zamachowski _(Karol Karol)_
+Zbigniew Zamachowski _(Karol Karol)_<br>
 
-Julie Delpy _(Dominique Vidal)_
+Julie Delpy _(Dominique Vidal)_<br>
 
-Janusz Gajos _(Mikolaj)_
+Janusz Gajos _(Mikolaj)_<br>
 
-Jerzy Stuhr _(Jurek)_
+Jerzy Stuhr _(Jurek)_<br>
 
-Grzegorz Warchol _(elegant man)_
+Grzegorz Warchol _(elegant man)_<br>
 
-Jerzy Nowak _(old peasant)_
+Jerzy Nowak _(old peasant)_<br>
 
-Aleksander Bardini _(lawyer)_
+Aleksander Bardini _(lawyer)_<br>
 
-Cezary Harasimowicz _(inspector)_
+Cezary Harasimowicz _(inspector)_<br>
 
-Jerzy Trela _(Monsieur Bronek)_
+Jerzy Trela _(Monsieur Bronek)_<br>
 
-Cezary Pazura _(bureau de change proprietor)_
+Cezary Pazura _(bureau de change proprietor)_<br>
 
-Michel Lisowski _(interpreter)_
+Michel Lisowski _(interpreter)_<br>
 
-Piotr Machalica _(tall man)_
+Piotr Machalica _(tall man)_<br>
 
-Barbara Dziekan _(cashier)_
+Barbara Dziekan _(cashier)_<br>
 
-Marzena Trybala _(Mariott employee)_
+Marzena Trybala _(Mariott employee)_<br>
 
-Philippe Morier Genoud _(judge)_
+Philippe Morier Genoud _(judge)_<br>
 
-Francis Coffinet _(bank employee)_
+Francis Coffinet _(bank employee)_<br>
 
-Yannick Evely _(metro employee)_
+Yannick Evely _(metro employee)_<br>
 
-Jacques Disses _(Dominique’s lawyer)_
+Jacques Disses _(Dominique’s lawyer)_<br>
 
 Teresa Budzisz Krzyzanowska _(Madame Jadwiga)_
 
@@ -267,5 +266,5 @@ France-Switzerland-Poland 1993©
 
 A Curzon release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTIyNDg4MDRdfQ==
+eyJoaXN0b3J5IjpbMTEwMDI4NTE5NV19
 -->
