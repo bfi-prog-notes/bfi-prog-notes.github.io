@@ -13,7 +13,7 @@ _Is_ White _in some sense a parody of the other films in the trilogy, in the way
 
 You could see it that way. But I think _Red_ is different in tone. It’s hard to put a handle on it.
 
-_Isn’t the ‘liberté, égalité, fraternité’ theme a pretext, just as the Ten Commandments were for_ Decalogue_?_
+_Isn’t the ‘liberté, égalité, fraternité’ theme a pretext, just as the Ten Commandments were for_ Decalogue _?_
 
 Yes, exclusively that.
 
@@ -21,26 +21,23 @@ _So you don’t lie awake at night worrying about such themes?_
 
 No, but I did spend a lot of time thinking about them.
 
-_How seriously do you discuss these things with your co-writer  
-Krzysztof Piesiewicz?_
+_How seriously do you discuss these things with your co-writer  Krzysztof Piesiewicz?_
 
 We crack a lot of jokes. We talk about cars, about women. The conclusion we came to about equality is that nobody really wants it. Karol in _White_ doesn’t want equality, he wants to be better than others.
 
-_Did anyone pressure you to make the three parts of the trilogy in  
-different countries?_
+_Did anyone pressure you to make the three parts of the trilogy in  different countries?_
 
 No, I did it this way because I wanted to. The issues these films raise are deeply rooted in European traditions, so it was natural to spread them around Europe. The production company helped us decide where to shoot, but nobody forced us.
 
-_This isn’t a case like_ The Double Life of Véronique_, where there’s a material relationship between the financing and the structure of the story?_
+_This isn’t a case like_ The Double Life of Véronique _, where there’s a material relationship between the financing and the structure of the story?_
 
 Actually, that film didn’t need to be a co-production between Poland and France. You could imagine it done with one girl living in Kraków and the other in Gdańsk. I didn’t frame the story of _Véronique_ that way because of the financial background to the production; the subject itself was something close to my heart.
 
 _But the way you finally made the film did reflect the financing?_
 
-For sure. But this trilogy is a rather different case. I don’t think these storylines are as original as the one in _Véronique_, and anyway, these are mainly  
-French films.
+For sure. But this trilogy is a rather different case. I don’t think these storylines are as original as the one in _Véronique_, and anyway, these are mainly  French films.
 
-_You have a strong sense of humour, but there isn’t much evidence of it in serious films like_ Véronique _and_ Blue_._
+_You have a strong sense of humour, but there isn’t much evidence of it in serious films like_ Véronique _and_ Blue _._
 
 It’s true that I have a certain sense of… irony. Sometimes you have to laugh, but I think it’s worth trying to be serious from time to time. It’s difficult to do both at the same time, but I hope that _White_ strikes the odd lyrical note. For example, the character Mikolaj, who wants to die – he’s kind of serious.
 
@@ -54,8 +51,7 @@ Only in the background. But yes, that’s the way it is now – unfortunately.
 
 _You still live in Poland?_
 
-Yes. I see it with a certain bitterness. I’m not against Polish entrepreneurialism, but people now care for nothing but money. I don’t know what happened  
-to us.
+Yes. I see it with a certain bitterness. I’m not against Polish entrepreneurialism, but people now care for nothing but money. I don’t know what happened  to us.
 
 _Do people in Poland resent the fact that you’re working abroad?_
 
@@ -75,7 +71,7 @@ _Do you see a way forward for Poland?_
 
 I think we have to die first, all of us. Eventually there will be new people with new ideas. It’s not just a generational change, it’s a matter of changing a way of thinking that has been inculcated for 45 years. I can’t see it taking less than two generations. Decades of Marxist education have left Poland unable to think in normal human terms. We can only think in terms of Left and Right.
 
-Interview by Tony Rayns, _Sight and Sound_, June 1994
+**Interview by Tony Rayns, _Sight and Sound_, June 1994**
 
 <![endif]-->
 
@@ -271,5 +267,5 @@ France-Switzerland-Poland 1993©
 
 A Curzon release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0MjA2OTc2XX0=
+eyJoaXN0b3J5IjpbLTIwNTIyNDg4MDRdfQ==
 -->
