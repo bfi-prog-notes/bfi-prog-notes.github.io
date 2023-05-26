@@ -109,104 +109,49 @@ _Make-up/Hairdressers:_ Jolanta Pruszynska, Jadwiga Cichocka, Jean-Pierre Camina
 _Titles/Optical:_ Ercidan<br>
 _Music:_ Zbigniew Preisner<br>
 _Music Performed by:_ Sextuor à Cordes, Le Petit Orchestre de Zbigniew Preisner<br>
-
 _First Violin:_ Zbigniew Paleta<br>
-
 _Oboe:_ Mariusz Pedzialek<br>
-
 _Clarinet:_ Jan Cielecki<br>
-
 _Music Director:_ Zbigniew Paleta<br>
-
-_Executive Music Producers:_ Halina Laciak,
-
-Preisner Production<br>
-
+_Executive Music Producers:_ Halina Laciak, Preisner Production<br>
 _Music Engineer:_ Rafal Paczkowski<br>
-
 _Assistant Music Engineer:_ Leszek Kaminski<br>
-
-_Sound Recordists:_ Brigitte Taillandier,  
-Pascal Colomb<br>
-
+_Sound Recordists:_ Brigitte Taillandier,  Pascal Colomb<br>
 _Sound:_ Jean-Claude Laureux<br>
-
 _Sound Mixer:_ William Flageollet<br>
+_Sound Editors:_ Piotr Zawadzki,  Jean-Claude Laureux, Francine Lemaître<br>
+_Sound Effects:_ Jérôme Levy, Pascal Mazière, Éric Ferret, Marc-Antoine Beldent<br>
+_Stuntmen:_ Robert Brzezinski, Jozef Stefanski, Zbigniew Modej, Janusz Chlebowski,  Ryszard Janikowski<br>
 
-_Sound Editors:_ Piotr Zawadzki,  
-Jean-Claude Laureux, Francine Lemaître<br>
-
-_Sound Effects:_ Jérôme Levy, Pascal Mazière,
-
-Éric Ferret, Marc-Antoine Beldent<br>
-
-_Stuntmen:_ Robert Brzezinski, Jozef Stefanski, Zbigniew Modej, Janusz Chlebowski,  
-Ryszard Janikowski<br>
-
-_Cast:_<br>
-
+**Cast**<br>
 Zbigniew Zamachowski _(Karol Karol)_<br>
-
 Julie Delpy _(Dominique Vidal)_<br>
-
 Janusz Gajos _(Mikolaj)_<br>
-
 Jerzy Stuhr _(Jurek)_<br>
-
 Grzegorz Warchol _(elegant man)_<br>
-
 Jerzy Nowak _(old peasant)_<br>
-
 Aleksander Bardini _(lawyer)_<br>
-
 Cezary Harasimowicz _(inspector)_<br>
-
 Jerzy Trela _(Monsieur Bronek)_<br>
-
 Cezary Pazura _(bureau de change proprietor)_<br>
-
 Michel Lisowski _(interpreter)_<br>
-
 Piotr Machalica _(tall man)_<br>
-
 Barbara Dziekan _(cashier)_<br>
-
 Marzena Trybala _(Mariott employee)_<br>
-
 Philippe Morier Genoud _(judge)_<br>
-
 Francis Coffinet _(bank employee)_<br>
-
 Yannick Evely _(metro employee)_<br>
-
 Jacques Disses _(Dominique’s lawyer)_<br>
-
 Teresa Budzisz Krzyzanowska _(Madame Jadwiga)_<br>
-
-K. Bigelmajer, J. Dominik, J. Grzegorek,
-
-M. Kaczmarska, A Kalinowski, S. Latek,
-
-J. Ladynska, M. Marciano, J. Mayzel, J. Modet,
-
-L. Okowity, A. Paplinksi, W. Paszkowski,
-
-M. Prazmowska, M. Robaszkiewicz, Z. Richter,
-
-B. Szymanska, B. Topa, W. Wroblewska,
-
-M. Verner, P. Zelt<br>
-
+K. Bigelmajer, J. Dominik, J. Grzegorek, M. Kaczmarska, A Kalinowski, S. Latek, J. Ladynska, M. Marciano, J. Mayzel, J. Modet, L. Okowity, A. Paplinksi, W. Paszkowski, M. Prazmowska, M. Robaszkiewicz, Z. Richter, B. Szymanska, B. Topa, W. Wroblewska, M. Verner, P. Zelt<br>
 Juliette Binoche _(Julie)_<br>
-
 Florence Pernel
 
 France-Switzerland-Poland 1993©<br>
-
 91 mins
 
 A Curzon release<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTIzMjc2OV19
+eyJoaXN0b3J5IjpbLTEyNTE3MTk3MzNdfQ==
 -->
