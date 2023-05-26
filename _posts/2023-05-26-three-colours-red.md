@@ -24,27 +24,20 @@ _In co-production with_: Télévision Suisse Romande
 _With the support of_: L’Office Fédéral de la Culture Suisse du Département Fédéral de l'Intérieur  
 _Executive Producer_: Yvon Crenn  
 _Presented by_: Marin Karmitz  
-_Unit Managers/Administration_: Heinz Dill,  François Cesalli, Xavier Grin, Blez Gabioud,  Olivier Zimmermann, Christian Manzoni,  
-Nathalie Jaquinet, Gisèle Vuillaume,  
-Christine Hulin, Hélène Platel, Aline Corneille, Florence Ruffetta, Dominique Lefevre  
+_Unit Managers/Administration_: Heinz Dill,  François Cesalli, Xavier Grin, Blez Gabioud,  Olivier Zimmermann, Christian Manzoni,  Nathalie Jaquinet, Gisèle Vuillaume,  Christine Hulin, Hélène Platel, Aline Corneille, Florence Ruffetta, Dominique Lefevre  
 _Production Manager_: Gérard Ruey  
 _1st Assistant Director_: Emmanuel Finkiel  
-_2nd Assistant Directors_: Thierry Mouquin,  
-Pascal Verdosci, Xavier Nicol,  
-Jean-Jacques Rossmann  
+_2nd Assistant Directors_: Thierry Mouquin,  Pascal Verdosci, Xavier Nicol, Jean-Jacques Rossmann  
 _Assistant to the Director_: Stan Latek  
 _Script Supervisor_: Geneviève Dufour  
 _Casting_: Margot Capelier  
-_Screenplay_: Krzysztof Piesiewicz,  
-Krzysztof Kieślowski  
+_Screenplay_: Krzysztof Piesiewicz,  Krzysztof Kieślowski  
 _Screenplay Consultants_: Agnieszka Holland, Edward Zebrowski, Piotr Sobocínski  
 _Dialogue Translations_: Marcin Latallo, Roman Gren  
 _Director of Photography_: Piotr Sobocínski  
-_Lighting_: Hans Meier, Salvatore Piazzitta,  
-Blaise Bauquis, Eric André, Alain Dubouloz  
+_Lighting_: Hans Meier, Salvatore Piazzitta,  Blaise Bauquis, Eric André, Alain Dubouloz  
 _Steadicam Operator_: Ricardo Brunner  
-_Technocrane Operators_: Martin C. Hume,  
-Henryk Jedynak  
+_Technocrane Operators_: Martin C. Hume,  Henryk Jedynak  
 _Assistant Operator_: Muriel Coulin  
 _Second Camera_: Piotr Jaxa  
 _Groupist_: Alain Dubouloz  
@@ -56,34 +49,25 @@ _Art Director_: Claude Lenoir
 _Costume Creations_: Corinne Jorry  
 _Costumes_: Nadia Cuenoud, Véronique Michel  
 _Fashion Consultant_: Christine Noussan  
-_Make-up/Hairdressers_: Nathalie Tanner,  
-Catherine Zingg  
+_Make-up/Hairdressers_: Nathalie Tanner,  Catherine Zingg  
 _Titles/Opticals_: Ercidan  
 _Music_: Zbigniew Preisner, Bertrand Lenclos  
-_Preisner Music Performed by_: Warsaw Sinfonia,  
-Philharmonic Choir of Silesie  
+_Preisner Music Performed by_: Warsaw Sinfonia,  Philharmonic Choir of Silesie  
 _Guitars_: Janusz Strobel, Jerzy Klocek  
-_Budenmayer Music Performed by_:  
-Orchestre Symphonique de Katowice  
+_Budenmayer Music Performed by_:  Orchestre Symphonique de Katowice  
 _Soprano_: Elzbieta Towarnicka  
-_Conductor (Warsaw Sinfonia)_:  
-Wojciech Michniewski  
+_Conductor (Warsaw Sinfonia)_:  Wojciech Michniewski  
 _Choir Master_: Jan Wojtacha  
 _Conductor (Orchestre Symphonique de Katowice)_: Zdzislaw Szostak  
 _Choreography_: Brigitte Matteuzzi  
-_Sound Recordists_: Brigitte Taillandier,  
-Sandrine Henchoz  
+_Sound Recordists_: Brigitte Taillandier,  Sandrine Henchoz  
 _Sound_: Jean-Claude Laureux  
 _Sound Mixer_: William Flageollet  
-_Sound Editors_: Piotr Zawadzki,  
-Jean-Claude Laureux, Francine Lemaître,  
-Nicolas Naegelen  
-_Sound Effects_: Jean-Pierre Lelong,  
-Mario Melchiori, Vincent Arnardi  
+_Sound Editors_: Piotr Zawadzki,  Jean-Claude Laureux, Francine Lemaître, Nicolas Naegelen  
+_Sound Effects_: Jean-Pierre Lelong,  Mario Melchiori, Vincent Arnardi  
 _Animal Trainer_: André Noël
 
-_Cast:_
-
+**Cast**  
 Irène Jacob _(Valentine Dussaut)_  
 Jean-Louis Trintignant _(Judge Joseph Kern)_  
 Frédérique Feder _(Karin)_  
@@ -116,5 +100,5 @@ France-Switzerland-Poland 1994©
 
 A Curzon release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2Mjc0NTczOV19
+eyJoaXN0b3J5IjpbLTE4NTg3NjkwOV19
 -->
