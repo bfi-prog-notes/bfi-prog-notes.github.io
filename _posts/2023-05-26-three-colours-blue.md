@@ -23,112 +23,54 @@ If cinema as art is still alive, it will be in a large part due to filmmakers li
 <br><br>
 
 **THREE COLOURS: BLUE (TROIS COULEURS: BLEU)**<br>
-
 _Director:_ Krzysztof Kieslowski<br>
-
-_©/Production Companies:_ MK2 Productions,
-
-CEO Productions, France 3 Cinéma,
-
-CAB Productions, Zespol Filmowy ‘Tor’<br>
-
+_©/Production Companies:_ MK2 Productions, CEO Productions, France 3 Cinéma, CAB Productions, Zespol Filmowy ‘Tor’<br>
 _With the participation of:_ Canal+<br>
-
 _Supported by:_ Eurimages Conseil de l’Europe<br>
-
-_With the participation of:_  
-Centre national de la cinématographie<br>
-
+_With the participation of:_  Centre national de la cinématographie<br>
 _Presented by:_ Marin Karmitz<br>
-
 _Production Manager:_ Yvon Crenn<br>
-
-_Unit Managers/Administration:_ Caroline Lassa,  
-Aline Corneille, Anne Guillemard, Olivier Bulteau, Jean Talvat, Nicolas Tempier, Gisèle Vuillaume, Dominique Lefevre<br>
-
+_Unit Managers/Administration:_ Caroline Lassa,  Aline Corneille, Anne Guillemard, Olivier Bulteau, Jean Talvat, Nicolas Tempier, Gisèle Vuillaume, Dominique Lefevre<br>
 _1st Assistant Director:_ Emmanuel Finkiel<br>
-
-_2nd Assistant Directors:_ Julie Bertucelli,  
-Stéphane Libiot, François Azria,  
+_2nd Assistant Directors:_ Julie Bertucelli,  Stéphane Libiot, François Azria,  
 Emmanuela Demarchi<br>
-
 _Assistant to the Director:_ Stan Latek<br>
-
 _Script Supervisor:_ Geneviève Dufour<br>
-
 _Casting:_ Margot Capelier<br>
-
-_Screenplay:_ Krzysztof Piesiewicz,  
-Krzysztof Kieslowski<br>
-
+_Screenplay:_ Krzysztof Piesiewicz,  Krzysztof Kieslowski<br>
 _Screenplay Collaborators:_ Agnieszka Holland, Edward Zebrowski, Slawomir Idziak<br>
-
 _Director of Photography:_ Slawomir Idziak<br>
-
 _Assistant Operators:_ Henryk Jedynak, Muriel Coulin<br>
-
 _Second Camera:_ Piotr Jaxa<br>
-
 _Grips:_ Albert Vasseur, Alain Dreze<br>
-
 _Lighting:_ Hans Meier, Ernst Brunner, Alain Dondin<br>
-
 _Stills:_ Piotr Jaxa<br>
-
 _Editor:_ Jacques Witta<br>
-
 _Assistant Editors:_ Michele D’Attoma, Aïlo Auguste, Catherine Cormon, Urszula Lesiak<br>
-
 _Art Director:_ Claude Lenoir<br>
-
-_Set Decorators:_ Marie-Claire Quin,  
-Jean-Pierre Delettre, Christian Aubenque,  
+_Set Decorators:_ Marie-Claire Quin,  Jean-Pierre Delettre, Christian Aubenque,  
 Julien Poitou-Weber, Lionel Acat<br>
-
 _Props:_ Michel Charvaz<br>
-
 _Costumes:_ Virginie Viard, Naima Lagrange<br>
-
-_Make-up/Hairdressers:_ Valérie Tranier,  
-Jean-Pierre Caminade<br>
-
+_Make-up/Hairdressers:_ Valérie Tranier,  Jean-Pierre Caminade<br>
 _Titles/Opticals:_ Ercidan<br>
-
 _Music:_ Zbigniew Preisner<br>
-
 _Music Performed by:_ Warsaw Sinfonia, Philharmonic Choir of Silesie<br>
-
 _Soprano:_ Elzbieta Towarnika<br>
-
 _Flute:_ Jacek Ostaszewski<br>
-
 _Piano:_ Konrad Mastylo<br>
-
 _Orchestra Director:_ Wojciech Michniewski<br>
-
 _Choir Master:_ Jan Wojtacha<br>
-
 _Executive Music Producer:_ Halina Laciak<br>
-
 _Music Engineer:_ Rafal Paczkowski<br>
-
 _Assistant Music Engineer:_ Leszek Kaminski<br>
-
-_Sound Recordists:_ Brigitte Taillandier,  
-Pascal Colomb<br>
-
+_Sound Recordists:_ Brigitte Taillandier,  Pascal Colomb<br>
 _Sound Mixer:_ William Flageollet<br>
-
-_Sound Editors:_ Claire Bez, Bertrand Lenclos,  
-Jean-Claude Laureux<br>
-
-_Sound Effects:_ Jean-Pierre Lelong,  
-Mario Melchiorri, Vincent Arnardi<br>
-
+_Sound Editors:_ Claire Bez, Bertrand Lenclos,  Jean-Claude Laureux<br>
+_Sound Effects:_ Jean-Pierre Lelong,  Mario Melchiorri, Vincent Arnardi<br>
 _Press Representative:_ Eva Simonet<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Juliette Binoche _(Julie Vignon de Courcy)_<br>
 
 Benoît Régent _(Olivier)_<br>
@@ -185,11 +127,12 @@ Zbigniew Zamachowski, _(Karol)_<br>
 
 Alain Decaux
 
-France-Switzerland-Poland 1993©
+France-Switzerland-Poland 1993©<br>
 
 98 mins
 
-A Curzon release
+A Curzon release<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NzU3Mzc3XX0=
+eyJoaXN0b3J5IjpbLTE1ODI1Mjk4NDddfQ==
 -->
