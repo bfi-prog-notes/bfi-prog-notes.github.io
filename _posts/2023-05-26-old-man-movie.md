@@ -1,1 +1,82 @@
 
+
+_+ Q&A with directors Mikk Mägi and Oskar Lehemaa_
+
+If the Czech filmmaker Jan Švankmajer and the _South Park_ crew launched a joint takeover of Aardman Animation, they might come up with something as surreal and puerile as this madcap, very funny, somehow sweet-natured Estonian stop-motion comedy. Expanding on the viral _Vanamehe Multikas_ web series of shorts, starring the cheerfully sinister Old Man farmer character, the feature raises its narrative stakes to a potential ruminant apocalypse, while the bodily function- and bovine-inspired clowning is arguably filthier than ever.  
+Call it _Creature Discomforts_.
+
+The story’s bizarre background is laid out in an archive newsreel style reminiscent of Pixar’s _The Incredibles_ (2004) or _Up_ (2009): successful farmer Old Milker loses it all in a mushroom cloud of dairy when his prize cow explodes after not being milked. Cut to the present day, and now another farmer, the Old Man, provides the neighbourhood with milk from his prize heifer. When his hapless grandchildren Aino, Priidik and little Mart arrive from the city to stay, however, things go awry. The kids accidentally allow the cow to escape, resulting in a desperate pursuit to prevent another ‘Lactopalypse’ as the rogue animal’s udders swell. Watching these events, the deranged Old Milker, now a disgusting part-man-part-milk hybrid, seizes his chance for revenge, hiring three local unemployed workers armed with chainsaws to hunt down the cow themselves.
+
+The rudimentary animation style is part of the film’s rough-hewn charms – the clay figures’ pasty faces, bulbous appendages and immobile mouths almost daring the audience to connect with its basic, unrefined characters and aesthetics. In their first feature, writer-directors Oskar Lehemaa and Mikk Mägi also provide several incongruous character voices, bringing a welcome adult edge to the crude slapstick and toilet humour. The only slick things on view here are Old Milker’s oozing creamy tears and buttermilk blood.
+
+The cow-chase plot allows for an expanded series of loosely connected vignettes in which Lehemaa and Mägi really go for broke. There’s a woodland hippie festival whose supposedly free-loving participants get gleefully – and literally – skewered; a horny ancient tree spirit with a novel use for a tractor; and a super-sized villain showdown which recalls certain Disney or _Transformers_ climactic battles, but which heads in a gross-out gag direction no family-friendly film would dare go.
+
+It’s fascinating, though, how such an unrepentant film also espouses right-on messages: city kids glued to their phones need to commune more with nature, and animal rights trump enslaved dairy production. Thankfully, this is never at the expense of outlandish visuals, a well-timed swear word or a flatulent pig.  
+If that’s your kind of animated critter feature, you’re in for a grand day out.  
+**Leigh Singer, _Sight and Sound_, June 2023**
+
+**Interview with the directors**  
+_The Old Man Movie_ is a pretty strange, crazy, raunchy stop-motion adventure. The titular old man is a farmer, a lifelong milk man, and one day he is visited by his grandchildren who don’t like the way he deals with his cow.
+
+They turn his whole life upside down when they cause the cow to escape... and we all know when you don’t milk a cow for 24 hours, the cow will explode.
+
+So now it’s a race against time to find the cow before everything is lost. We made the film in two years, which is actually quite a short time to make this sort of feature. In the first year, I think we worked more on the script and the idea – we were brainstorming the ideas of the exploding cows, etc., and the second year actively making the film, doing the animation, post-production and sound.
+
+But this character already existed for maybe seven, eight years before the feature. He appeared in a number of viral three-minute sketches, so we knew he’d be fine in this full length feature film, and that helped us to get the financial support from the Estonian government.
+
+But this film is about an economy that’s been there for maybe, I don’t know, a thousand years. The Estonian economy has been based on milk – that might not be well known outside of Estonia.
+
+So we made this movie, and in the beginning we were like, really? We aren’t sure if people outside of Estonia like, get this movie or if they even understand this humour. It’s because, as I was saying, this is really about milk, so I don’t know if this is such a big issue in other parts of the world.
+
+We feel really happy that people outside of Estonia get to see this movie – like the international audiences have been really warm and have welcomed the movie really well. We’re really grateful about all the Festival screenings around the world, and the awards it has received.
+
+But at the same time, we’re really sad that we can’t be there for many of them, so coming to the UK to present the film in May is a great opportunity for us.
+
+We’re working on a couple of feature films as directors right now, but also sort of brainstorming more short form old man content, like short stories. But I think that there will be another old man movie. But we don’t know yet when.
+
+We have always had a film industry in Estonia. Estonia has always been a moviegoing nation. For a long time, we were under the Soviet Union. And even during those times, we had a movie studio in the capital of Estonia. So there were famous Estonian movie productions.
+
+Maybe this is why our film was so successful in Estonia; people just love being able to still go the movies.
+
+Production notes
+
+<![endif]-->
+
+**THE OLD MAN MOVIE: LACTOPALYPSE!**
+
+_Directors:_ Mikk Mägi, Oskar Lehemaa
+
+_Production Companies:_ BOP! Animation,  
+Apollo Film Productions
+
+_Presented by:_ 606 Distribution
+
+_Written by:_ Mikk Mägi, Oskar Lehemaa
+
+_Story:_ Mikk Mägi, Oskar Lehemaa, Peeter Ritso
+
+_Cinematography:_ Urmas Joemees
+
+_Lead Animators:_ Egert Kesa, Olga Stalev
+
+_Editor:_ Oskar Lehemaa
+
+_Set Design:_ Triin Paumer, Sven-Tonis Puskar,  
+Anu-Laura Tuttelberg
+
+_Music:_ Sten-Olle Moldau, Lauri Kadalipp
+
+_Voice Cast:_
+
+Jan Uuspolo
+
+Mart Avandi
+
+Indrek Ojari
+
+Estonia 2019
+
+88 mins
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQyODg1ODIwMF19
+-->
