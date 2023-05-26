@@ -94,11 +94,11 @@ Julie Delpy _(Dominique Vidal)_
 Benoît Régent _(Olivier)_  
 Zbigniew Zamachowski _(Karol Karol)_
 
-France-Switzerland-Poland 1994©
-
+France-Switzerland-Poland 1994©  
 100 mins
 
-A Curzon release
+A Curzon release<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg3NjkwOV19
+eyJoaXN0b3J5IjpbNjg2ODgyMjIzXX0=
 -->
