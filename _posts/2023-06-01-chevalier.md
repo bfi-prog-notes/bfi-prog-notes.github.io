@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Chevalier
+published: true
+date: 2023-05-26
+readtime: true
+categories: ['PREVIEW']
+tags: [Drama, ]
+metadata: 'France-Switzerland-Poland 1993, 91 mins<br> Director: Krzysztof Kieślowski'
+pdf: '2023-05-26-three-colours-white.pdf'
+---
 
 Set in 18th Century France, _Chevalier_ unfolds the vivid, timely story of the soaring rise and defiant spirit of the musical phenomenon, Joseph Bologne, aka the Chevalier de Saint-Georges. The Chevalier was what we would call today a superstar – a blinding multi-talent at the top of several games: he was a virtuoso violinist who gave packed concerts; a champion swordsman; an ingenious composer; and, for a time, one of the most alluring, unexpected members of Marie Antoinette’s glittering court.
 
@@ -38,12 +47,10 @@ When she was ready to write, Robinson hunted down as much information as she cou
 ‘My approach was to use the limited history that has been documented as a jumping off point but not let it become a shackle,’ Robinson explains. ‘I was interested in telling a story with a historical context but with a strong modern lens on it.’
 
 That modern lens felt intensely personal, especially as she wrote about the heightened scrutiny that people of color face. ‘I can only speak for myself as a Black woman, but so often I’ve been told directly or indirectly that you can’t make mistakes, you need to be the best, you can never be enough. That’s an idea we challenge in this movie,’ says Robinson. ‘Joseph throws himself into achievement as a means of feeling love and acceptance, of escaping from the literal and metaphorical plantation. But as he grows, there’s a deeper understanding of himself as a Black artist and a questioning of how he can use his voice.’  
-**Production notes**
+**Production notes**  
+<br>
 
-<![endif]-->
-
-**Chevalier**
-
+**CHEVALIER**  
 _Directed by_: Stephen Williams  
 _Produced by_: Ed Guiney, Andrew Lowe, Stefani Robinson, Dianne McGunigle  
 _Written by_: Stefani Robinson  
@@ -72,5 +79,5 @@ USA 2022
 
 Courtesy of Searchlight Pictures  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQ5Nzk4Ml19
+eyJoaXN0b3J5IjpbMTg5NDQ1ODQ5MF19
 -->
