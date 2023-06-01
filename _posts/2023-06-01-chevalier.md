@@ -2,7 +2,7 @@
 layout: post
 title: Chevalier
 published: true
-date: 2023-05-26
+date: 2023-06-01
 readtime: true
 categories: ['PREVIEW']
 tags: [Drama, Period]
@@ -79,7 +79,6 @@ USA 2022
 
 Courtesy of Searchlight Pictures  
 <br>
-
 
 
 **IN PERSON & PREVIEWS**  
