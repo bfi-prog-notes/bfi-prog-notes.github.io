@@ -53,13 +53,91 @@ Jorge Martinez De Hoyos _(Captain Ferrero)_
 Alberto Pedret _(Jimenez)_  
 Marc Lambert, Stefani _(miners)_  
 Michèle Girardon _(María Castin)_  
-France-Mexico 1956
 
+France-Mexico 1956  
 104 mins
 
 *Uncredited
+<br><br>
+
+**MICHEL PICCOLI: A FEARLESS TALENT**<br>
+
+**La Mort en ce jardin (Evil Eden)**<br>
+
+Thu 1 Jun 20:35; Tue 6 Jun 18:15<br>
+
+**Le Mépris (Contempt)**<br>
+
+From Fri 2 Jun<br>
+
+**The Diary of a Chambermaid (Le journal d’une femme de chambre)**<br>
+
+Fri 2 Jun 18:15; Fri 16 Jun 20:55<br>
+
+**Belle de jour**<br>
+
+Fri 2 Jun 20:40; Sun 25 Jun 18:45<br>
+
+**Les Choses de la vie (The Things of Life)**<br>
+
+Sat 3 Jun 12:30; Tue 13 Jun 20:45<br>
+
+**Themroc**<br>
+
+Sat 3 Jun 15:00; Wed 14 Jun 18:15<br>
+
+**La Grande Bouffe (Blow-Out)**<br>
+
+Sat 3 Jun 20:30; Mon 12 Jun 18:10<br>
+
+**Ten Days’ Wonder (La Décade prodigeuse)**<br>
+
+Sun 4 Jun 15:20; Sat 17 Jun 20:40<br>
+
+**Vincent, François, Paul et les autres**<br>
+
+Sun 4 Jun 18:00; Sun 18 Jun 13:10<br>
+
+**Beyond Good and Evil: The Discreet Charm of Michel Piccoli**<br>
+
+Mon 5 Jun 18:15<br>
+
+**Passion**<br>
+
+Tue 6 Jun 21:00; Fri 16 Jun 18:20<br>
+
+**Spoiled Children (Des enfants gatés)**<br>
+
+Wed 7 Jun 18:10; Mon 12 Jun 20:40<br>
+
+**Une chambre en ville (A Room in Town)**<br>
+
+Wed 14 Jun 20:45; Sat 24 Jun 13:00<br>
+
+**Mauvais sang (The Night Is Young)**<br>
+
+Sat 17 Jun 15:15; Thu 22 Jun 20:40<br>
+
+**Milou en mai (Milou in May)**<br>
+
+Sun 18 Jun 16:00; Mon 26 Jun 20:40<br>
+
+**Belle toujours**<br>
+
+Wed 21 Jun 20:50; Sun 25 Jun 16:30<br>
+
+**La Belle Noiseuse**<br>
+
+Sat 24 Jun 15:20; Wed 28 Jun 18:10<br>
+
+**Habemus Papam – We Have a Pope**<br>
+
+Sun 25 Jun 14:00; Thu 29 Jun 20:45<br>
+<br>
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Mzg2MDY3Ml19
+eyJoaXN0b3J5IjpbNzg4NjE4MDg1XX0=
 -->
