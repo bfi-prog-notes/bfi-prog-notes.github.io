@@ -8,18 +8,13 @@ It is a forgotten film, but not an anomaly – by 1955 Buñuel had left the ghet
 
 The action begins when the local government declares ownership of the region’s individual miners’ stakes, instigating a full-on (and gun-toting) insurrection that sucks in a wandering American tough guy (Georges Marchal), a malcontented hooker (Signoret), her old but goodhearted miner-beau (Vanel), and a naive priest (Piccoli). Nearly everybody except Vanel is a mercenary bastard, with the additional exception, surprisingly, of Piccoli’s reverend, a man so reasonable and humane that he may be the only cleric in the world’s most famous atheistic filmography who isn’t a vicious hypocrite. When the rebellion heats up and the authorities clamp down, the four hijack a boat and head downriver through the rainforest, into proto-Herzog wilderness (the characters gripe about the density and ceaseless appetite of the jungle in virtually the same terms as Herzog does in _Burden of Dreams_, and Michèle Girardon, as Vanel’s mute daughter, is a startling analogue for _Aguirre_’s Helena Rojo).
 
-The ‘garden’ of the title is Edenic only ironically. It turns out that Buñuel was no slouch in on-location action staging: nature becomes a malevolent character as it rarely did at the time, and it pays to remember that Lean’s _The Bridge on the River Kwai_ didn’t mark this path in postwar movie-making until the following year. But all the same, Buñuel will out, especially once the travellers begin to go mad in the wild and discover the ruins of a crashed plane, littering the bush with inappropriate and useless objects.
+The ‘garden’ of the title is Edenic only ironically. It turns out that Buñuel was no slouch in on-location action staging: nature becomes a malevolent character as it rarely did at the time, and it pays to remember that Lean’s _The Bridge on the River Kwai_ didn’t mark this path in postwar movie-making until the following year. But all the same, Buñuel will out, especially once the travellers begin to go mad in the wild and discover the ruins of a crashed plane, littering the bush with inappropriate and useless objects.  
+**Michael Atkinson, _Sight and Sound_, February 2010**
+<br><br>
 
-Michael Atkinson, _Sight and Sound_, February 2010
-
-<![endif]-->
-
-**LA MORT EN CE JARDIN (EVIL EDEN)**
-
+**LA MORT EN CE JARDIN (EVIL EDEN)**  
 _Director:_ Luis Buñuel  
-_Production Companies:_ Film Dismage,
-
-Producciones Tepeyac *  
+_Production Companies:_ Film Dismage, Producciones Tepeyac *  
 _Executive Producer:_ Léon Carré *  
 _Presented by:_ Jacques Mage  
 _Presented by/Producer:_ Óscar Dancigers  
@@ -27,9 +22,7 @@ _Production Manager:_ Alberto Ferrer
 _Administrator:_ Alberto Salazar  
 _Assistant Directors:_ Dossia Mage, Ignacio Villareal  
 _Script Supervisors:_ Colette Crochot, Javier Carreño  
-_Adaptation:_ Luís Alcoriza, Luis Buñuel,
-
-Raymond Queneau  
+_Adaptation:_ Luís Alcoriza, Luis Buñuel, Raymond Queneau  
 _Dialogue:_ Raymond Queneau, Gabriel Arout  
 _Based on the novel by:_ José-André Lacour  
 _Director of Photography:_ Jorge Stahl Jr  
@@ -46,9 +39,9 @@ _Music:_ Paul Misraki
 _Sound Recording:_ Maurice Laroche  
 _Sound System:_ Western Electric  
 _Sound Re-recording:_ Galdino Samperio *  
-Filmed at estudios Tepeyac_  
-Cast:_
+_Filmed at estudios Tepeyac_  
 
+**Cast**  
 Simone Signoret _(Djin)_  
 Charles Vanel _(Castin)_  
 Georges Marchal _(Chark)_  
@@ -68,5 +61,5 @@ France-Mexico 1956
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTcxODg5MjFdfQ==
+eyJoaXN0b3J5IjpbMjA5Mzg2MDY3Ml19
 -->
