@@ -111,7 +111,7 @@ Sun 25 Jun 14:00; Thu 29 Jun 20:45<br>
 <br>
 
 **Promotional partner**  
-<img style="float: left;" src="/img/fromagerie.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/fromagerie.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br>
 
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
