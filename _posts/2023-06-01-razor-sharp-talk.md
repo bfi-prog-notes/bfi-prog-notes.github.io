@@ -13,6 +13,36 @@ Behind every group of emotionally stunted cowboys, aviators or detectives lies a
 <br><br>
 
 
+**RAZOR SHARP: THE FABULOUS WOMEN OF HOWARD HAWKS**<br>
+**Razor Sharp: The Hawksian Woman Revisited**<br>
+Thu 1 Jun 18:15<br>
+**Twentieth Century**
+Thu 1 Jun 20:40; Fri 16 Jun 18:30;  Thu 22 Jun 21:00<br>
+**Barbary Coast**<br>
+Fri 2 Jun 18:20; Thu 15 Jun 20:40<br>
+**Bringing Up Baby**<br>
+Sat 3 Jun 12:00; Mon 19 Jun 20:40;  Fri 23 Jun 18:20<br>
+**Only Angels Have Wings**<br>
+Sat 3 Jun 15:45; Thu 15 Jun 14:30;  Tue 27 Jun 17:50<br>
+**Ball of Fire**<br>
+Sat 3 Jun 17:55; Tue 20 Jun 20:30<br>
+**To Have and Have Not**<br>
+Sun 4 Jun 19:00; Fri 23 Jun 20:40<br>
+**I Was a Male War Bride  (aka You Can’t Sleep Here)**<br>
+Wed 7 Jun 20:35; Sun 25 Jun 18:30<br>
+**Rio Bravo**<br>
+Mon 12 Jun 17:50; Sun 18 Jun 14:30;  Fri 30 Jun 20:20<br>
+**His Girl Friday**<br>
+Wed 14 Jun 20:50; Sat 17 Jun 13:30; Thu 29 Jun 18:20 (+ intro by Catherine Wheatley, King’s College London)<br>
+**Gentlemen Prefer Blondes**<br>
+Thu 15 Jun 18:15: Thu 29 Jun 21:00<br>
+**The Big Sleep**<br>
+Wed 21 Jun 18:25; Wed 28 Jun 20:45<br>
+**The Thing from Another World**<br>
+Sat 24 Jun 18:30; Fri 30 Jun 18:15<br>
+**Philosophical Screens:  The Philosophy of Marriage: His Girl Friday**<br>
+Thu 29 Jun 20:15 BFI Reuben Library<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjYxNjYyOTZdfQ==
+eyJoaXN0b3J5IjpbMTU4NDY3OTM4MV19
 -->
