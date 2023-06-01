@@ -103,10 +103,10 @@ Thu 15 Jun 20:30
 Sun 18 Jun 12:45  
 **TV Preview: Champion + Q&A with writer Candice Carty-Williams, cast members Déja J Bowens, Malcolm Kamulete, Ray BLK, and director John Ogunmuyiwa**  
 Mon 19 Jun 18:15  
-**Refugee Week: UK Premiere: The Woodman**
-Mon 19 Jun 20:50
-**Refugee Week: Preview: Name Me Lawand + discussion with director Edward Lovelace and Steve Crump OBE, founder and chair of Deaf Kidz International**
-Tue 20 Jun 18:10
+**Refugee Week: UK Premiere: The Woodman**  
+Mon 19 Jun 20:50  
+**Refugee Week: Preview: Name Me Lawand + discussion with director Edward Lovelace and Steve Crump OBE, founder and chair of Deaf Kidz International**  
+Tue 20 Jun 18:10  
 
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
@@ -131,5 +131,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDg3MTcxNF19
+eyJoaXN0b3J5IjpbLTQxMTYyMDI1NF19
 -->
