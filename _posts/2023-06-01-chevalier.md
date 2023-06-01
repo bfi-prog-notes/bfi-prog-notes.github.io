@@ -5,9 +5,9 @@ published: true
 date: 2023-05-26
 readtime: true
 categories: ['PREVIEW']
-tags: [Drama, ]
-metadata: 'France-Switzerland-Poland 1993, 91 mins<br> Director: Krzysztof Kieślowski'
-pdf: '2023-05-26-three-colours-white.pdf'
+tags: [Drama, Period]
+metadata: 'USA 2022, 108 mins<br> Director:  Stephen Williams'
+pdf: '2023-06-01-chevalier.pdf'
 ---
 
 Set in 18th Century France, _Chevalier_ unfolds the vivid, timely story of the soaring rise and defiant spirit of the musical phenomenon, Joseph Bologne, aka the Chevalier de Saint-Georges. The Chevalier was what we would call today a superstar – a blinding multi-talent at the top of several games: he was a virtuoso violinist who gave packed concerts; a champion swordsman; an ingenious composer; and, for a time, one of the most alluring, unexpected members of Marie Antoinette’s glittering court.
@@ -79,5 +79,5 @@ USA 2022
 
 Courtesy of Searchlight Pictures  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDQ1ODQ5MF19
+eyJoaXN0b3J5IjpbMzYzNjg1MTY2XX0=
 -->
