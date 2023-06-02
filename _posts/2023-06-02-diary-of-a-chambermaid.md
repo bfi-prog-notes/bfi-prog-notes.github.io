@@ -51,66 +51,39 @@ _Subtitles:_ Jaib Warner<br>
 _Novel Publisher:_ Fasquelle Editeurs<br>
 _Studio:_ Franstudio-Saint Maurice<br>
 
-_Cast**<br>
-
+**Cast**<br>
 Jeanne Moreau _(Célestine)_<br>
-
 Georges Géret _(Joseph)_<br>
-
 Daniel Ivernel _(Captain Mauger)_<br>
-
 Françoise Lugagne _(Madame Monteil)_<br>
-
 Muni _(Marianne)_<br>
-
 Jean Ozenne _(Monsieur Rabour)_<br>
-
 Michel Piccoli _(Monsieur Monteil)_<br>
-
 Joëlle Bernard _(Captain Mauger’s companion)_<br>
-
 Françoise Bertin<br>
-
 Aline Bertrand, Pierre Collet _(travellers)_<br>
-
 Michelle Dacquid<br>
-
 Madeleine Damien _(cook)_<br>
-
 Marc Eyraud _(police secretary)_<br>
-
 Jean Franval<br>
-
 Gilberte Géniat _(Rose)_<br>
-
 Gabriel Gobin<br>
-
 Bernard Musson _(the sacristan)_<br>
-
 Jeanne Peres _(gossip)_<br>
-
 Marcel Rouzé _(station manager)_<br>
-
 Dominique Sauvage _(Claire)_<br>
-
 Andrée Tainsy _(peasant)_<br>
-
 Geymond Vital _(brigadier)_<br>
-
 Jean-Claude Carrière _(priest)_<br>
-
 Claude Jaeger _(judge)_<br>
-
 Dominique Zardi _(police officer)_ *<br>
-
 Marcel Le Floch *<br>
 
 France-Italy 1964<br>
-
 101 mins
 
 *Uncredited<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDA1NjMyNDldfQ==
+eyJoaXN0b3J5IjpbLTE1NTM0NDIyNl19
 -->
