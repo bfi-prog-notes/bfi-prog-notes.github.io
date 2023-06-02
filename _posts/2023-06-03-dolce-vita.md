@@ -9,6 +9,7 @@ tags: [Drama]
 metadata: 'Italy/France 1960, 176 mins<br> Director: Federico Fellini'
 pdf: '2023-06-03-dolce-vita.pdf'
 ---
+<![endif]-->
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -171,5 +172,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4Mjk0OTBdfQ==
+eyJoaXN0b3J5IjpbLTg1ODE1NTI2Nyw5MzgyOTQ5MF19
 -->
