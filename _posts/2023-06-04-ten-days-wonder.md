@@ -1,10 +1,8 @@
-<![endif]-->
+
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
-In their novel _Ten Days’ Wonder_, the cousins who write as Ellery Queen produced what they described as a ‘Decalogical Detective Story’. In it, their detective hero – also called Ellery Queen – is visited by a young sculptor who, since his adoptive father’s marriage, has been suffering regularly from attacks of amnesia. Queen agrees to watch over the young man on his ‘father’s’ estate, happy to work on his latest novel while the sculptor chisels away at his statues of the classical gods.  
-In the seven days which follow, during which the ‘son’ is told the name of his ‘real’ parents and violates their tomb in an amnesiac trance, Queen learns that the boy is being blackmailed over an indiscreet and fully reciprocated passion for his young stepmother. In a moment of inspiration he perceives that the sculptor is subconsciously violating all ten commandments in turn, but reaches this conclusion too late to prevent the stepmother’s brutal murder. His explanation convinces the sculptor of his guilt and prompts him to hang himself. Only a year later does Queen realise that the ‘clues’ which led to his deductions were all masterminded by the vengeful father, the wife’s real murderer, whom he now compels to take his  
-own life.
+In their novel _Ten Days’ Wonder_, the cousins who write as Ellery Queen produced what they described as a ‘Decalogical Detective Story’. In it, their detective hero – also called Ellery Queen – is visited by a young sculptor who, since his adoptive father’s marriage, has been suffering regularly from attacks of amnesia. Queen agrees to watch over the young man on his ‘father’s’ estate, happy to work on his latest novel while the sculptor chisels away at his statues of the classical gods.  In the seven days which follow, during which the ‘son’ is told the name of his ‘real’ parents and violates their tomb in an amnesiac trance, Queen learns that the boy is being blackmailed over an indiscreet and fully reciprocated passion for his young stepmother. In a moment of inspiration he perceives that the sculptor is subconsciously violating all ten commandments in turn, but reaches this conclusion too late to prevent the stepmother’s brutal murder. His explanation convinces the sculptor of his guilt and prompts him to hang himself. Only a year later does Queen realise that the ‘clues’ which led to his deductions were all masterminded by the vengeful father, the wife’s real murderer, whom he now compels to take his  own life.
 
 In transposing the novel to the screen and the action from New England to Alsace, Chabrol has changed considerably more than the characters’ names. It has become axiomatic that the thriller element in his films generally serves as a formal structure within which to explore the vagaries of the human heart. Yet this time, on one level at least, he abandons Hitchcock’s preference for suspense over surprise, trailing considerably more red herrings than the original novel before his disconcerted audience, while imposing on its human relationships a wilfully classical formalism. But where the Decalogue provided the Cousins Queen with little more than the basis for a not-so-intellectual puzzle, Chabrol spins it into the moral fabric of his _Ten Days’ Wonder_, interweaving classical mythology, Old and New Testaments, Nietzschean speculation (and, of course, a wealth of cinematic cross-references) to produce what must surely rank as the screen’s first Théological thriller: a brilliant, and palpably physical, exegesis on comparative religion and original sin.
 
@@ -22,8 +20,7 @@ The film sustains and transcends this clutter of cultural cross-references large
 
 For as in Hitchcock, Chabrol’s in-jokes are often playfully misleading, providing, in fact, the major element of suspense. It is Welles’ voice which introduces the narrative – as red a herring as the voice-over in _Sunset Boulevard_. The first day, through a series of crazily tilted shots and dizzying camera movements, implies that we shall be experiencing the ten days from Charles’ point of view. Yet it is Paul’s chain of false reasoning that we are compelled to follow thereafter.
 
-But even when cheating, Chabrol plays fair by his own rules. As he told Rui Nogueira in a _Sight and Sound_ interview: ‘There’s not only a Hélène in my films. There’s always a Paul and a Charles as well ... and Charles will never kill Paul.’  
-This time Paul acknowledges his hubris, telling Théo, ‘I’m as guilty as you are.’ But when with his next breath he decrees, ‘There’s no place in this world for gods like you,’ we understand that this time the transference of guilt is twofold. By ordering the death of God, the atheist has assumed His role.
+But even when cheating, Chabrol plays fair by his own rules. As he told Rui Nogueira in a _Sight and Sound_ interview: ‘There’s not only a Hélène in my films. There’s always a Paul and a Charles as well ... and Charles will never kill Paul.’  This time Paul acknowledges his hubris, telling Théo, ‘I’m as guilty as you are.’ But when with his next breath he decrees, ‘There’s no place in this world for gods like you,’ we understand that this time the transference of guilt is twofold. By ordering the death of God, the atheist has assumed His role.
 
 Admittedly the film has some rough surfaces: poor post-synching on the (original) English language version, dialogue spoken in a disconcerting assortment of accents. But these same imperfections serve on many levels to reinforce the film’s multi-level themes. The _trompe-l’oeil_ effect of the opening shots, with Rabier’s camera pulling diagonally back to reveal that what we have taken for the ‘reality’ of Charles in his hotel room is merely a looking-glass reflection, forms the first link in a chain whose every part proves to be not what it seems. As Paul steps off the Paris train, it is through his eyes that we first see Hélène: a Twenties heroine standing erect beside her Hispano. ‘I didn’t know Charles had a sister,’ remarks the expert in inductive reasoning. ‘I’m his mother,’ she declares. But image, reasoning and statement are all three equally false. The sustained _trompe-l’oeil_ effects are in fact constantly paralleled by what can only be described as _trompe-l’oreille_ explanations (like the mythical genealogies), reinforced by the foreign formality with which most of the principals inflect their lines.
 
@@ -31,7 +28,70 @@ It is only fitting that Chabrol’s God should provide the final judgment. In th
 
 Jan Dawson, _Sight and Sound_, Autumn 1972
 
+<![endif]-->
 
+**TEN DAYS’ WONDER (LA DÉCADE PRODIGEUSE)**
+
+_Director:_ Claude Chabrol  
+_Production Companies:_ Films La Boétie,  
+Euro International Films  
+_Producer:_ André Génovès  
+_Production Administrator:_ Gerard Espinet  
+_Production Manager:_ Irénée Leriche  
+_Production Assistants:_ Patrick Delauneux,  
+Arlette Danis  
+_Assistant Directors:_ Patrick Saglio, Michel Dupuy  
+_Continuity:_ Aurore Paquiss  
+_Screenplay:_ Claude Chabrol, Paul Gégauff  
+_English language screenplays:_ Paul Gardner,
+
+Eugene Archer  
+_English language adaptation:_ Paul Gégauff  
+_Based on the novel by:_ Ellery Queen  
+_Director of Photography:_ Jean Rabier  
+_Camera Operator:_ Charles-Henri Montel  
+_Assistant Camera Operators:_ Raymond Menvielle, Jeannine Rabier  
+_Editor:_ Jacques Gaillard  
+_Assistant Editor:_ Jean-Claude Groussard  
+_Art Director:_ Guy Littaye  
+_Set Decorator:_ Guy Maugin  
+_Properties:_ Henri Berger  
+_Statues:_ Gilles  
+_Costumes:_ Karl Lagerfeld  
+_Make-up:_ Jacky Rouban, Jacky Reynal,
+
+François Xavier Leclerc  
+_Hair Styles:_ Alain Scemama  
+_Music:_ Pierre Jansen  
+_Song:_ Dominique Zardi  
+_Music Director:_ André Girard  
+_Sound Recording:_ Guy Chichignoud  
+_Assistant Sound Recordist:_ Yves Dacquay  
+_Sound Mixer:_ Alex Pront  
+_Sound Effects:_ Louis Devaivre  
+_Publicity:_ Rosine Josem
+
+_Cast:_
+
+Orson Welles _(Théo Van Horn)_  
+Marlène Jobert _(Hélène Van Horn)_  
+Anthony Perkins _(Charles Van Horn)_  
+Michel Piccoli _(Paul Régis)_  
+Guido Alberti _(Ludovic Van Horn)_  
+Giovanni Sciuto _(G. Lefebvre, money-lender)_  
+Ermanno Casanova _(old man with eye patch)_  
+Sylvana Blasi _(woman)_  
+Tsilla Chelton _(Charles’ mother)_  
+Eric Frisdal _(Charles as a boy)_  
+Aline Montovani _(Hélène as a girl)_  
+Vittorio Sanipoli _(police inspector)_  
+Mathilde Ceccarelli _(hotel receptionist)_  
+Corinne Koeningswarter _(Hélène (as a girl))_  
+Fabienne Gauglof _(little girl in train)_
+
+France-Italy 1971
+
+105 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTYwNjcwMDVdfQ==
+eyJoaXN0b3J5IjpbLTE5ODYwNjgxMDRdfQ==
 -->
