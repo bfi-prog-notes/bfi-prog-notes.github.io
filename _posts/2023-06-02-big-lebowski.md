@@ -26,8 +26,6 @@ Within this world, the Dude – a ‘70s activist with The Seattle Seven and sig
 The casting of Jeff Bridges slyly capitalises on his image as Hollywood’s last good guy, an actor who can convincingly and affably embody nonconformist righteousness. He makes a wonderfully calibrated double act with John Goodman’s irascible Vietnam veteran converted to Judaism – a perfect character pairing for what looks like prime sitcom material. That might be finally what this is – a _Seinfeld_-style ‘film about nothing’, or about nothing more than the in-jokes that make the Coens giggle (the Dude, by all accounts, is based on a real-life acquaintance of theirs, one Jeff ‘the Dude’ Dowd, who really was a member of the activist group The Seattle Seven). But then, to make a film this thick with non-sequiturs, this defiantly slight, looks like a heroic act in contemporary US cinema. _The Big Lebowski_ is at once utterly inconsequential and a blow for a cinematic slacker aesthetic. Its moral payoff is that, like Marlowe, the Dude finally stays the same – he doesn’t need to be redeemed, brought into line with the world he inhabits. Likewise, the Coens, flouting the genre rules and gleefully pursuing their own amusement reserve the right to stay their ineffable, not remotely enigmatic selves.  
 **Jonathan Romney, _Sight and Sound_, May 1998**  
 <br>
-<![endif]-->
-
 **THE BIG LEBOWSKI**  
 _Director:_ Joel Coen  
 _Production Companies:_ PolyGram Filmed Entertainment,Working Title Films  
@@ -137,6 +135,62 @@ Holly Copeland, Karen Christenberry, Natalie Webb, Julie Bond, Kim Yates, Elizab
 
 USA/UK 1998©  
 117 mins  
+
+
+<br>
+**BIG SCREEN CLASSICS**  
+**The 400 Blows (Les Quatre cents coups)**  
+Thu 1 Jun 18:20; Tue 13 Jun 20:30  
+**The Big Lebowski**  
+Fri 2 Jun 20:30; Sat 17 Jun 18:10  
+**La dolce vita**  
+Sat 3 Jun 17:00; Tue 13 Jun 13:30; Sun 18 Jun 17:30  
+**Boyz N the Hood**  
+Sat 3 Jun 20:40; Fri 30 Jun 18:10  
+**Vertigo**  
+Sun 4 Jun 15:30; Tue 20 Jun 20:40  
+**Bicycle Thieves (Ladri di biciclette)**  
+Mon 5 Jun 20:45; Fri 16 Jun 20:40; Sat 24 Jun 12:00  
+**The Third Man**  
+Tue 6 Jun 20:40; Wed 21 Jun 18:10 (+ intro); Sun 25 Jun 12:30  
+**The Long Goodbye**  
+Wed 7 Jun 18:00 (+ intro by Geoff Andrew, Programmer-at-Large); Tue 27 Jun 20:35  
+**Cleo from 5 to 7 (Cléo de 5 à 7)**  
+Mon 12 Jun 21:00; Thu 29 Jun 18:30  
+**Of Time and the City**  
+Wed 14 Jun 18:30 (+ intro); Thu 22 Jun 20:50  
+**Taxi Driver**  
+Sun 18 Jun 18:30; Fri 23 Jun 20:45  
+**Get Carter**  
+Mon 19 Jun 18:20; Mon 26 Jun 20:45  
+**La Haine**  
+Wed 21 Jun 21:00; Sat 24 Jun 20:40; Wed 28 Jun 18:15 (+ intro)  
+**Don’t Look Now**  
+Sat 24 Jun 16:00; Fri 30 Jun 20:45  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound & the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODkyNDU0N119
+eyJoaXN0b3J5IjpbLTQxODMzMjNdfQ==
 -->
