@@ -1,10 +1,20 @@
+---
+layout: post
+title: Bringing Up Baby
+published: true
+date: 2023-06-03
+readtime: true
+categories: ['RAZOR SHARP<br>THE FABULOUS WOMEN OF HOWARD HAWKS']
+tags: [Comedy]
+metadata: 'USA 1938, 102 mins<br> Director: Howard Hawks'
+pdf: '2023-06-03-bringing-up-baby.pdf'
+---
 
 _Bringing Up Baby_ is one of the greatest screwball comedies and a treasure from the Golden Age of Hollywood. Cary Grant plays a naive and repressed palaeosaurologist who becomes entangled with (and ensnared by) a wilful heiress (Katharine Hepburn). Chaos ensues as romance blossoms and not one but two leopards are set loose in verdant Connecticut. All of Hawks’s signature skills are to the fore: there is the wonderful ensemble cast, the characteristically refined but unselfconscious visual style, an endless succession of pratfalls, innuendo and jokes (written by Dudley Nichols and Hagar Wilde) and, underneath the chaos and good cheer, a serious dream of escaping life’s troubles by that of nothing more or less than nerve and luck.
 
 There are no human babies in _Bringing Up Baby_, but there are those leopards and the relentless terrier George – and Hawks’s film wonders profoundly why we want animals in our lives and why we sometimes need to behave as animals ourselves. Many screwball films have been seen as comedies of remarriage, but this one is not much interested in marriage and is instead more captivated by instinct, irresponsibility and the wild abnormalities of romance.
 
-The film is in its way an American dream of independence, and believes the real way to get on in life – for filmmakers as well as scientists – isn’t by deference and respectability but by having sexy fun with the right people.  
-A thoroughly American fiction of the 1930s, _Bringing Up Baby_ is also a timelessly classical comic narrative, exploring conflicts between civilisation and nature, rationality and insanity, middle-class inhibitions and aristocratic blitheness. And it is the epitome of film comedy, an anthology of comic types and devices, and one of the most seductively funny films ever made.
+The film is in its way an American dream of independence, and believes the real way to get on in life – for filmmakers as well as scientists – isn’t by deference and respectability but by having sexy fun with the right people.  A thoroughly American fiction of the 1930s, _Bringing Up Baby_ is also a timelessly classical comic narrative, exploring conflicts between civilisation and nature, rationality and insanity, middle-class inhibitions and aristocratic blitheness. And it is the epitome of film comedy, an anthology of comic types and devices, and one of the most seductively funny films ever made.
 
 _‘Bringing Up Baby_ is hardly a departure’, wrote Otis Ferguson in _The New Republic_ (2 March 1938) when the film came out. Less temperately, Frank S. Nugent in _The New York Times_ panned it for being an array of clichés: his review is worth quoting at some length: ‘And the gags! Have you heard the one about the trained leopard and the wild leopard who get loose at the same time? Or the one about the shallow brook with the deep hole? Or the one about the man wearing a woman’s negligee? Or the one about the Irishman who drains his flask and sees a wild animal which really is a wild animal? You have? Surprising…  Well then, how about the one where the man slips and sits on his top hat? Or the one where the heroine is trying to arouse a sleeper by tossing pebbles at his window and, just as he pokes his head out, hits him neatly with a bit of cobblestone? Or, getting back to the leopard who is the “baby” of the title, would you laugh madly if Charles Ruggles did a leopard-cry imitation as an after-dinner stunt and commented two minutes later upon the unusual echo?’
 
@@ -91,6 +101,61 @@ Pat O’Malley _(deputy)_<br>
 USA 1938©<br>
 102 mins<br>
 <br>
+
+**RAZOR SHARP: THE FABULOUS WOMEN OF HOWARD HAWKS**<br>
+**Razor Sharp: The Hawksian Woman Revisited**<br>
+Thu 1 Jun 18:15<br>
+**Twentieth Century**
+Thu 1 Jun 20:40; Fri 16 Jun 18:30;  Thu 22 Jun 21:00<br>
+**Barbary Coast**<br>
+Fri 2 Jun 18:20; Thu 15 Jun 20:40<br>
+**Bringing Up Baby**<br>
+Sat 3 Jun 12:00; Mon 19 Jun 20:40;  Fri 23 Jun 18:20<br>
+**Only Angels Have Wings**<br>
+Sat 3 Jun 15:45; Thu 15 Jun 14:30;  Tue 27 Jun 17:50<br>
+**Ball of Fire**<br>
+Sat 3 Jun 17:55; Tue 20 Jun 20:30<br>
+**To Have and Have Not**<br>
+Sun 4 Jun 19:00; Fri 23 Jun 20:40<br>
+**I Was a Male War Bride  (aka You Can’t Sleep Here)**<br>
+Wed 7 Jun 20:35; Sun 25 Jun 18:30<br>
+**Rio Bravo**<br>
+Mon 12 Jun 17:50; Sun 18 Jun 14:30;  Fri 30 Jun 20:20<br>
+**His Girl Friday**<br>
+Wed 14 Jun 20:50; Sat 17 Jun 13:30; Thu 29 Jun 18:20 (+ intro by Catherine Wheatley, King’s College London)<br>
+**Gentlemen Prefer Blondes**<br>
+Thu 15 Jun 18:15: Thu 29 Jun 21:00<br>
+**The Big Sleep**<br>
+Wed 21 Jun 18:25; Wed 28 Jun 20:45<br>
+**The Thing from Another World**<br>
+Sat 24 Jun 18:30; Fri 30 Jun 18:15<br>
+**Philosophical Screens:  The Philosophy of Marriage: His Girl Friday**<br>
+Thu 29 Jun 20:15 BFI Reuben Library<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE5MTM2OTg0MDldfQ==
 -->
