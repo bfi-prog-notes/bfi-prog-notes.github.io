@@ -29,93 +29,93 @@ and pathetic.
 
 **BOYZ N THE HOOD**  
 _Directed by:_ John Singleton  
-_©:_ Columbia Pictures Industries, Inc.
-_Presented by:_ Columbia Pictures
-_A_ Columbia Pictures _release_
-_Produced by:_ Steve Nicolaides
-_Production Associate:_ Kendrick J. Wallace
-_Production Accountant:_ Katha Jones
-_Production Co-ordinator:_ Linda Allan-Folsom
-_Unit Production Manager:_ Steve Nicolaides
-_Location Manager:_ Ernest Kojo Lewis
-_1st Assistant Director:_ Don Wilkerson
-_Script Supervisor:_ Dawn Gilliam
-_Casting by:_ Jaki Brown
-_Screenplay:_ John Singleton
-_Director of Photography:_ Charles Mills
-_Camera Operator:_ Tony Gaudioz
-_1st Assistant Camera:_ Robert A. Torres
-_Key Grip:_ Chuck Wells
-_Still Photographer:_ D. Stevens
-_Special Effects:_ Special Effects Unlimited
-_Edited by:_ Bruce Cannon
-_Art Director:_ Bruce Bellamy
-_Set Decorator:_ Kathryn Peters
-_Property Master:_ Willie J. Thompson
-_Men’s Wardrobe:_ Darryle Johnson
-_Women’s Wardrobe:_ Shirlene Williams
-_Make-up:_ Marietta A. Carter
-_Hairstylist:_ Sterfon Demings
-_Titles/Opticals by:_ Cinema Research Corporation
-_Original Music Score by:_ Stanley Clarke
-_Music Supervisor:_ Raoul Roach
-_Music Editor:_ Jamie Gelb
-_Sound Mixer:_ Veda Campbell
-_Boom Operator:_ Michael Anthony Patillo
-_Re-recording Mixers:_ Paul Massey, Don DiGirolamo, Bob Glass
-_Supervising Sound Editor:_ Patrick Drummond
-_Drive-by Sequence/Beats:_ DJ Pooh
-_Stunt Co-ordinator:_ Bob Minor
+_©:_ Columbia Pictures Industries, Inc.  
+_Presented by:_ Columbia Pictures  
+_A_ Columbia Pictures _release_  
+_Produced by:_ Steve Nicolaides  
+_Production Associate:_ Kendrick J. Wallace  
+_Production Accountant:_ Katha Jones  
+_Production Co-ordinator:_ Linda Allan-Folsom  
+_Unit Production Manager:_ Steve Nicolaides  
+_Location Manager:_ Ernest Kojo Lewis  
+_1st Assistant Director:_ Don Wilkerson  
+_Script Supervisor:_ Dawn Gilliam  
+_Casting by:_ Jaki Brown  
+_Screenplay:_ John Singleton  
+_Director of Photography:_ Charles Mills  
+_Camera Operator:_ Tony Gaudioz  
+_1st Assistant Camera:_ Robert A. Torres  
+_Key Grip:_ Chuck Wells  
+_Still Photographer:_ D. Stevens  
+_Special Effects:_ Special Effects Unlimited  
+_Edited by:_ Bruce Cannon  
+_Art Director:_ Bruce Bellamy  
+_Set Decorator:_ Kathryn Peters  
+_Property Master:_ Willie J. Thompson  
+_Men’s Wardrobe:_ Darryle Johnson  
+_Women’s Wardrobe:_ Shirlene Williams  
+_Make-up:_ Marietta A. Carter  
+_Hairstylist:_ Sterfon Demings  
+_Titles/Opticals by:_ Cinema Research Corporation  
+_Original Music Score by:_ Stanley Clarke  
+_Music Supervisor:_ Raoul Roach  
+_Music Editor:_ Jamie Gelb  
+_Sound Mixer:_ Veda Campbell  
+_Boom Operator:_ Michael Anthony Patillo  
+_Re-recording Mixers:_ Paul Massey, Don DiGirolamo, Bob Glass  
+_Supervising Sound Editor:_ Patrick Drummond  
+_Drive-by Sequence/Beats:_ DJ Pooh  
+_Stunt Co-ordinator:_ Bob Minor  
 
 **Cast**  
-Larry Fishburne _(Furious Styles)_
-Ice Cube _(Doughboy Baker)_
-Cuba Gooding Jr _(Tre Styles)_
-Nia Long _(Brandi)_
-Morris Chestnut _(Ricky Baker)_
-Tyra Ferrell _(Mrs Baker)_
-Angela Bassett _(Reva Styles)_
-Meta King _(Brandi’s mom)_
-Whitman Mayo _(the old man)_
-Hudhail Al-Amir _(Scholastic Aptitude Test man)_
-Lloyd Avery Ii _(knucklehead 2)_
-Mia Bell _(female club member)_
-Lexie Bigham _(Mad Dog)_
-Kenneth A. Brown _(little Chris)_
-Nicole Brown _(Brandi aged 10)_
-Ceal _(Sheryl)_
-Darneicea Corley _(Keisha)_
-John Cothran Jr _(Lewis Crump)_
-Na’ Blonka Durden _(Trina)_
-Ousaun Elam _(utility stunt 1)_
-Susan Falcon _(Mrs Olaf)_
-Jesse Ferguson _(Officer Coffey)_
-Dedrick D. Gobert _(Dooky)_
-Redge Green _(Chris)_
-Kareen J. Grimes _(ice cream truck kid)_
-Tammy Hanson _(Rosa)_
-Valentino Harrison _(Bobby age 10)_
-Desi Arnez Hines III _(Tre age 10)_
-Baha Jackson _(Doughboy age 10)_
-Dee Dee Jacobs _(Renee)_
-Kirk Kinder _(Officer Graham)_
-Regina King _(Shalika)_
-Leanear Lane _(gangster 2)_
-Donovan McCrary _(Ricky age 10)_
-Don Nelson _(gangster 1)_
-Jimmy Lee Newman _(kid)_
-Malcolm Norrington _(knucklehead 1)_
-Alysia M. Rogers _(Shanice)_
-Esther Scott _(Tisha’s grandmother)_
-Leonette Scott _(Tisha)_
-Vonte Sweet _(Ric Rock)_
-Baldwin C. Sykes _(Monster)_
-Raymond D. Turner _(Ferris)_
-Yolanda Whittaker _(Yo-Yo)_
-Gerard Williams _(utility stunt 2)_
+Larry Fishburne _(Furious Styles)_  
+Ice Cube _(Doughboy Baker)_  
+Cuba Gooding Jr _(Tre Styles)_  
+Nia Long _(Brandi)_  
+Morris Chestnut _(Ricky Baker)_  
+Tyra Ferrell _(Mrs Baker)_  
+Angela Bassett _(Reva Styles)_  
+Meta King _(Brandi’s mom)_  
+Whitman Mayo _(the old man)_  
+Hudhail Al-Amir _(Scholastic Aptitude Test man)_  
+Lloyd Avery Ii _(knucklehead 2)_  
+Mia Bell _(female club member)_  
+Lexie Bigham _(Mad Dog)_  
+Kenneth A. Brown _(little Chris)_  
+Nicole Brown _(Brandi aged 10)_  
+Ceal _(Sheryl)_  
+Darneicea Corley _(Keisha)_  
+John Cothran Jr _(Lewis Crump)_  
+Na’ Blonka Durden _(Trina)_  
+Ousaun Elam _(utility stunt 1)_  
+Susan Falcon _(Mrs Olaf)_  
+Jesse Ferguson _(Officer Coffey)_  
+Dedrick D. Gobert _(Dooky)_  
+Redge Green _(Chris)_  
+Kareen J. Grimes _(ice cream truck kid)_  
+Tammy Hanson _(Rosa)_  
+Valentino Harrison _(Bobby age 10)_  
+Desi Arnez Hines III _(Tre age 10)_  
+Baha Jackson _(Doughboy age 10)_  
+Dee Dee Jacobs _(Renee)_  
+Kirk Kinder _(Officer Graham)_  
+Regina King _(Shalika)_  
+Leanear Lane _(gangster 2)_  
+Donovan McCrary _(Ricky age 10)_  
+Don Nelson _(gangster 1)_  
+Jimmy Lee Newman _(kid)_  
+Malcolm Norrington _(knucklehead 1)_  
+Alysia M. Rogers _(Shanice)_  
+Esther Scott _(Tisha’s grandmother)_  
+Leonette Scott _(Tisha)_  
+Vonte Sweet _(Ric Rock)_  
+Baldwin C. Sykes _(Monster)_  
+Raymond D. Turner _(Ferris)_  
+Yolanda Whittaker _(Yo-Yo)_  
+Gerard Williams _(utility stunt 2)_  
 
-USA 1991©
-112 mins
+USA 1991©  
+112 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjEwNDQ4OF19
+eyJoaXN0b3J5IjpbLTYxMjgyNTA0OF19
 -->
