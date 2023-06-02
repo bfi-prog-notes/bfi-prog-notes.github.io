@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Reality
+title: Boyz N the Hood
 published: true
-date: 2023-06-02
+date: 2023-06-03
 readtime: true
-categories: ['NEW RELEASES']
-tags: [Drama]
-metadata: 'USA 2023, 83 mins<br> Director: Tina Satter'
-pdf: '2023-06-02-reality.pdf'
+categories: ['BIG SCREEN CLASSICS']
+tags: [Crime, Drama]
+metadata: 'USA 1991, 112 mins<br> Director: John Singleton'
+pdf: '2023-06-03-boyz-n-the-hood.pdf'
 ---
 
 With so much of John Singleton’s film raging against the curtailing of life, it was painful to read of his sudden death, aged just 51. His first feature is still powerful and relevant as it follows Tre (Cuba Gooding Jr.) in his mission to leave LA’s Crenshaw ghetto. Charting the despair and tit-for-tat reality of gang life, it also gave Ice Cube a belter of a role as Doughboy, and a place on the soundtrack. Laurence Fishburne and Angela Bassett also make their mark as Tre’s parents, fully committed to a future for which they must fight.  
@@ -181,5 +181,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzIxODM3N119
+eyJoaXN0b3J5IjpbLTcyNjEyNTIyMl19
 -->
