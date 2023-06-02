@@ -3,152 +3,143 @@ Snow White trades purity for one-liners and innuendo in this madcap comedic upda
 **bfi.org.uk**
 
 _Ball of Fire_ roots its comic impetus more firmly in the richer, older, more affectionate territory of Manhattan folklore. The story, a tightly-knit amalgam of toughness, crackle and exclusively American sentimentality, tells of the impact of a boogie-woogie singer (Barbara Stanwyck) and her gangster lover on eight learned professors – seven likeable character actors and Gary Cooper – engaged in compiling an encyclopaedia. Having dealt with Saltpetre and Sex, they break their record of nine years' cloistered research by undertaking a first-hand investigation into Slang. The contrast between a confident, cynical, violent underworld and the deferential society of the common-room was never new; but the execution here is sparkling. Inspired by what must have seemed a piquant variation on his theme of the all-male community, Hawks directs with a faultless sense of timing and surprise. The robust, picturesque script by Charles Brackett and Billy Wilder assimilates a number of intramural jokes into the plot fabric, notably the roaring machine-gun intervention in Stanwyck’s unwilling wedding to her gangster, identical to a shoot-up scene in _Scarface_ and here given an extra twist by having the finger of the meekest of the professors on the trigger. The sets, including the _Magnificent Ambersons_-type house where the professors work, are impeccably detailed; the groupings beautifully composed, lit, and shot in depth by Gregg Toland; indeed the whole thing has all the density necessary to carry its superstructure of fantasy.  
-**Peter John Dyer, _Sight and Sound_, Summer 1962
+**Peter John Dyer, _Sight and Sound_, Summer 1962**
 
-How Joe Lilac is outwitted by the academic team makes a magnificent climax to a film which is amusing for two hours on end. The plot is ordinary but not the direction, the dialogue or the acting, all of which are in the first rank. The professors are a joy and Gary Cooper makes Potts as attractive as he is inarticulate, while Barbara Stanwyck scintillates as Sugarpuss. The situations are farcical but the result is great comedy.
+How Joe Lilac is outwitted by the academic team makes a magnificent climax to a film which is amusing for two hours on end. The plot is ordinary but not the direction, the dialogue or the acting, all of which are in the first rank. The professors are a joy and Gary Cooper makes Potts as attractive as he is inarticulate, while Barbara Stanwyck scintillates as Sugarpuss. The situations are farcical but the result is great comedy.  
+**_Monthly Film Bulletin_, March 1942**
+<br><br>
 
-_Monthly Film Bulletin_, March 1942
+**BALL OF FIRE**<br>
+_Directed by:_ Howard Hawks<br>
+©: Samuel Goldwyn<br>
+_Presented by:_ Samuel Goldwyn<br>
+_Released through:_ RKO Radio Pictures, Inc.<br>
+_Produced by:_ Samuel Goldwyn<br>
+_Assistant Director:_ William Tummel<br>
+_Screen Play by:_ Charles Brackett, Billy Wilder<br>
+_From an original story by:_ Billy Wilder,  Thomas Monroe<br>
 
-<![endif]-->
+_Photography:_ Gregg Toland<br>
 
-**BALL OF FIRE**
+_Film Editor:_ Daniel Mandell<br>
 
-_Directed by:_ Howard Hawks
+_Art Direction:_ Perry Ferguson<br>
 
-©: Samuel Goldwyn
+_Associate Art Director:_ McClure Capps<br>
 
-_Presented by:_ Samuel Goldwyn
+_Set Decorations:_ Howard Bristol<br>
 
-_Released through:_ RKO Radio Pictures, Inc.
+_Miss Barbara Stanwyck’s Costumes:_ Edith Head<br>
 
-_Produced by:_ Samuel Goldwyn
+_Music:_ Alfred Newman<br>
 
-_Assistant Director:_ William Tummel
+_Sound Technician:_ Frank Maher<br>
 
-_Screen Play by:_ Charles Brackett, Billy Wilder
+_Sound System:_ Western Electric Mirrophonic<br>
 
-_From an original story by:_ Billy Wilder,  
-Thomas Monroe
+_Cast:_<br>
 
-_Photography:_ Gregg Toland
+Gary Cooper _(Professor Bertram Potts)_<br>
 
-_Film Editor:_ Daniel Mandell
+Barbara Stanwyck _(Sugarpuss O’Shea)_<br>
 
-_Art Direction:_ Perry Ferguson
+Oscar Homolka _(Professor Gurkakoff)_<br>
 
-_Associate Art Director:_ McClure Capps
+Dana Andrews _(Joe Lilac)_<br>
 
-_Set Decorations:_ Howard Bristol
+Dan Duryea _(Duke Pastrami)_<br>
 
-_Miss Barbara Stanwyck’s Costumes:_ Edith Head
+Henry Travers _(Professor Jerome)_<br>
 
-_Music:_ Alfred Newman
+S.Z. Sakall _(Profesor Magenbruch)_<br>
 
-_Sound Technician:_ Frank Maher
+Tully Marshall _(Professor Robinson)_<br>
 
-_Sound System:_ Western Electric Mirrophonic
+Leonid Kinskey _(Professor Quintana)_<br>
 
-_Cast:_
+Richard Haydn _(Professor Oddly)_<br>
 
-Gary Cooper _(Professor Bertram Potts)_
+Aubrey Mather _(Professor Peagram)_<br>
 
-Barbara Stanwyck _(Sugarpuss O’Shea)_
+Allen Jenkins _(garbage man)_<br>
 
-Oscar Homolka _(Professor Gurkakoff)_
+Gene Krupa and His Orchestra _(themselves)_<br>
 
-Dana Andrews _(Joe Lilac)_
+Ralph Peters _(Asthma Anderson)_<br>
 
-Dan Duryea _(Duke Pastrami)_
+Kathleen Howard _(Miss Bragg)_<br>
 
-Henry Travers _(Professor Jerome)_
+Mary Field _(Miss Totten)_<br>
 
-S.Z. Sakall _(Profesor Magenbruch)_
+Charles Lane _(Larsen)_<br>
 
-Tully Marshall _(Professor Robinson)_
+Charles Arnt _(McNeary)_<br>
 
-Leonid Kinskey _(Professor Quintana)_
+Elisha Cook Jr _(waiter)_<br>
 
-Richard Haydn _(Professor Oddly)_
+Alan Rhein _(‘Horseface’)_<br>
 
-Aubrey Mather _(Professor Peagram)_
+Eddie Foster _(pinstripe)_<br>
 
-Allen Jenkins _(garbage man)_
+Aldrich Bowker _(justice of the peace)_<br>
 
-Gene Krupa and His Orchestra _(themselves)_
+Addison Richards _(district attorney)_<br>
 
-Ralph Peters _(Asthma Anderson)_
+Pat West _(bum)_<br>
 
-Kathleen Howard _(Miss Bragg)_
+Kenneth Howell _(college boy)_<br>
 
-Mary Field _(Miss Totten)_
+Tommy Ryan _(newsboy)_<br>
 
-Charles Lane _(Larsen)_
+Tim Ryan _(motor cop)_<br>
 
-Charles Arnt _(McNeary)_
+Will Lee _(‘Benny, the Creep’)_<br>
 
-Elisha Cook Jr _(waiter)_
+_uncredited_<br>
 
-Alan Rhein _(‘Horseface’)_
+Otto Hoffman _(stage doorman)_<br>
 
-Eddie Foster _(pinstripe)_
+Ed Mundy _(spieler)_<br>
 
-Aldrich Bowker _(justice of the peace)_
+Geraldine Fissette _(hula dancer)_<br>
 
-Addison Richards _(district attorney)_
+June Horne, Ethelreda Leopold _(nursemaids in park)_<br>
 
-Pat West _(bum)_
+Walter Shumway, George Barton _(garbagemen)_<br>
 
-Kenneth Howell _(college boy)_
+Merrilee Lannon, Doria Caron _(girls in subway)_<br>
 
-Tommy Ryan _(newsboy)_
+Helen Seamon, Catherine Henderson _(college girls)_<br>
 
-Tim Ryan _(motor cop)_
+Jack Perry _(fighting bum)_<br>
 
-Will Lee _(‘Benny, the Creep’)_
+Lorraine Miller _(girl in cafe)_<br>
 
-_uncredited_
+Mildred Morris _(chorus girl)_<br>
 
-Otto Hoffman _(stage doorman)_
+Francis Sayles _(taxi driver)_<br>
 
-Ed Mundy _(spieler)_
+Gerald Pierce _(delivery boy)_<br>
 
-Geraldine Fissette _(hula dancer)_
+Chet De Vito _(toll keeper)_<br>
 
-June Horne, Ethelreda Leopold _(nursemaids in park)_
+Pat Flaherty, George Sherwood _(deputies)_<br>
 
-Walter Shumway, George Barton _(garbagemen)_
-
-Merrilee Lannon, Doria Caron _(girls in subway)_
-
-Helen Seamon, Catherine Henderson _(college girls)_
-
-Jack Perry _(fighting bum)_
-
-Lorraine Miller _(girl in cafe)_
-
-Mildred Morris _(chorus girl)_
-
-Francis Sayles _(taxi driver)_
-
-Gerald Pierce _(delivery boy)_
-
-Chet De Vito _(toll keeper)_
-
-Pat Flaherty, George Sherwood _(deputies)_
-
-Del Lawrence _(Irish gardener)_
+Del Lawrence _(Irish gardener)_<br>
 
 Eddy Chandler, Lee Phelps, Kenneth Christy,
 
-Dick Rush, Oscar Chalkee Williams _(cops)_
+Dick Rush, Oscar Chalkee Williams _(cops)_<br>
 
-Johnnie Morris _(clerk for justice of peace)_
+Johnnie Morris _(clerk for justice of peace)_<br>
 
-Edward Clark _(motor court proprietor)_
+Edward Clark _(motor court proprietor)_<br>
 
-USA 1941©  112 mins
+USA 1941©<br>
+112 mins
 
-A BFI National Archive print
+A BFI National Archive print<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyMDA0NjkxXX0=
+eyJoaXN0b3J5IjpbLTE1NTY3NzQwODZdfQ==
 -->
