@@ -21,142 +21,107 @@ Buñuel: ‘_Belle de Jour_ is a pornographic film ... by that I mean _chaste_ e
 <br><br>
 
 **BELLE DE JOUR**<br>
-
 _A film by:_ Luis Buñuel<br>
-
 ©: Paris Film Production<br>
-
 _Co-production:_ Paris Film Production, Five Films<br>
-
-_Production/Presented by:_ Robert Hakim,  
-Raymond Hakim<br>
-
+_Production/Presented by:_ Robert Hakim,  Raymond Hakim<br>
 _Production Manager:_ Henri Baum<br>
-
 _Unit Manager:_ Marc Goldstaub<br>
-
 _1st Assistant Director:_ Pierre Lary<br>
-
 _2nd Assistant Director:_ Jacques Fraenkel<br>
-
 _Script Supervisor:_ Suzanne Durrenberger<br>
-
-_Adaptation/Dialogue:_ Luis Buñuel,  
-Jean-Claude Carrière<br>
-
+_Adaptation/Dialogue:_ Luis Buñuel,  Jean-Claude Carrière<br>
 _Based on the novel by:_ Joseph Kessel<br>
-
 _Director of Photography:_ Sacha Vierny<br>
-
 _Camera Operator:_ Philippe Brun<br>
-
 _1st Assistant Camera:_ Pierre Li<br>
-
 _2nd Assistant Camera:_ Lionel Legros<br>
-
 _Stills Photography:_ Raymond Voinquel<br>
-
 _Supervising Editor:_ Louisette Hautecæur<br>
-
 _Assistant Editor:_ Walter Spohr<br>
-
 _Art Director:_ Robert Clavel<br>
-
 _Assistant Art Director:_ Marc Robert Desages<br>
-
 _Set Decorator:_ Maurice Barnathan<br>
-
 _Properties:_ Pierre Roudeix<br>
-
-_Catherine Deneuve’s Dresses by:  
-_Yves Saint Laurent<br>
-
+_Catherine Deneuve’s Dresses by:_ Yves Saint Laurent<br>
 _Costumer:_ Hélène Nourry<br>
-
 _Key Make-up:_ Janine Jarreau<br>
-
 _Hairstylist:_ Simone Knapp<br>
+_Sound Recording:_ René Longuet<br>
+_Sound Assistant:_ Pierre Davoust<br>
+_Sound Re-recording:_ Poste Parisien<br>
+_Novel ‘Belle de Jour’ Published by:_  Editions Gallimard<br>
+_Studio:_ Franstudio-Saint Maurice<br>
 
-_Sound Recording:_ René Longuet
+_Cast**<br>
+Catherine Deneuve _(Séverine Serizy)_<br>
 
-_Sound Assistant:_ Pierre Davoust
+Jean Sorel _(Pierre Serizy)_<br>
 
-_Sound Re-recording:_ Poste Parisien
+Michel Piccoli _(Henri Husson)_<br>
 
-_Novel ‘Belle de Jour’ Published by:_  
-Editions Gallimard
+Geneviève Page _(Madame Anaïs)_<br>
 
-_Studio:_ Franstudio-Saint Maurice
+Pierre Clémenti _(Marcel)_<br>
 
-_Cast:_
+Françoise Fabian _(Charlotte)_<br>
 
-Catherine Deneuve _(Séverine Serizy)_
+Macha Méril _(Renée)_<br>
 
-Jean Sorel _(Pierre Serizy)_
+Muni _(Pallas)_<br>
 
-Michel Piccoli _(Henri Husson)_
+Maria Latour _(Mathilde)_<br>
 
-Geneviève Page _(Madame Anaïs)_
+Claude Cerval _(chauffeur)_<br>
 
-Pierre Clémenti _(Marcel)_
+Michel Charrel _(footman)_<br>
 
-Françoise Fabian _(Charlotte)_
+Iska Khan _(Asian client)_<br>
 
-Macha Méril _(Renée)_
+Bernard Musson _(major-domo)_<br>
 
-Muni _(Pallas)_
+Marcel Charvey _(Professor Henri)_<br>
 
-Maria Latour _(Mathilde)_
+François Maistre _(the professor)_<br>
 
-Claude Cerval _(chauffeur)_
+Francisco Rabal _(Hippolyte)_<br>
 
-Michel Charrel _(footman)_
+Georges Marchal _(the duke)_<br>
 
-Iska Khan _(Asian client)_
+Francis Blanche _(Monsieur Adolphe)_<br>
 
-Bernard Musson _(major-domo)_
+_uncredited:_<br>
 
-Marcel Charvey _(Professor Henri)_
+Bernard Fresson _(Le Gríle)_<br>
 
-François Maistre _(the professor)_
+Dominique Dandrieux _(Henriette)_<br>
 
-Francisco Rabal _(Hippolyte)_
+Brigitte Parmentier _(Séverine as a child)_<br>
 
-Georges Marchal _(the duke)_
+D. de Roseville _(coachman)_<br>
 
-Francis Blanche _(Monsieur Adolphe)_
+Pierre Marcay _(intern)_<br>
 
-_uncredited:_
+Adélaide Blasquez _(maid)_<br>
 
-Bernard Fresson _(Le Gríle)_
+Marc Eyraud _(barman)_<br>
 
-Dominique Dandrieux _(Henriette)_
+Max Elloy _(the duke’s butler)_<br>
 
-Brigitte Parmentier _(Séverine as a child)_
+Luis Buñuel _(man at café)_<br>
 
-D. de Roseville _(coachman)_
+Louis Viret _(debt collector)_<br>
 
-Pierre Marcay _(intern)_
+Stéphane Bouy, Antonio Passalia _(men in bar)_<br>
 
-Adélaide Blasquez _(maid)_
+Pierre Vaudier, Albert Daumergue _(surgeons)_<br>
 
-Marc Eyraud _(barman)_
+Claude Salez _(man who strikes Marcel)_<br>
 
-Max Elloy _(the duke’s butler)_
+France-Italy 1967©<br>
 
-Luis Buñuel _(man at café)_
-
-Louis Viret _(debt collector)_
-
-Stéphane Bouy, Antonio Passalia _(men in bar)_
-
-Pierre Vaudier, Albert Daumergue _(surgeons)_
-
-Claude Salez _(man who strikes Marcel)_
-
-France-Italy 1967©
-
-101 mins
+101 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzUyNzU4NDBdfQ==
+eyJoaXN0b3J5IjpbLTEyNzk3NjQ4NDFdfQ==
 -->
