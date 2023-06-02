@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: La Grande Bouffe
+published: true
+date: 2023-06-03
+readtime: true
+categories: ['MICHEL PICCOLI<br>A FEARLESS TALENT']
+tags: [Drama, Satire]
+metadata: 'France-Italy 1973, 125 mins<br> Director: Marco Ferreri'
+pdf: '2023-06-03-grande-bouffe.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -70,6 +80,70 @@ France-Italy 1973
 The restoration has been made by Cité Films with the participation of the CNC and the Immagine Ritrovata, Cineteca di Bologna.
 <br><br>
 
+**MICHEL PICCOLI: A FEARLESS TALENT**<br>
+**La Mort en ce jardin (Evil Eden)**<br>
+Thu 1 Jun 20:35; Tue 6 Jun 18:15<br>
+**Le Mépris (Contempt)**<br>
+From Fri 2 Jun<br>
+**The Diary of a Chambermaid (Le journal d’une femme de chambre)**<br>
+Fri 2 Jun 18:15; Fri 16 Jun 20:55<br>
+**Belle de jour**<br>
+Fri 2 Jun 20:40; Sun 25 Jun 18:45<br>
+**Les Choses de la vie (The Things of Life)**<br>
+Sat 3 Jun 12:30; Tue 13 Jun 20:45<br>
+**Themroc**<br>
+Sat 3 Jun 15:00; Wed 14 Jun 18:15<br>
+**La Grande Bouffe (Blow-Out)**<br>
+Sat 3 Jun 20:30; Mon 12 Jun 18:10<br>
+**Ten Days’ Wonder (La Décade prodigeuse)**<br>
+Sun 4 Jun 15:20; Sat 17 Jun 20:40<br>
+**Vincent, François, Paul et les autres**<br>
+Sun 4 Jun 18:00; Sun 18 Jun 13:10<br>
+**Beyond Good and Evil: The Discreet Charm of Michel Piccoli**<br>
+Mon 5 Jun 18:15<br>
+**Passion**<br>
+Tue 6 Jun 21:00; Fri 16 Jun 18:20<br>
+**Spoiled Children (Des enfants gatés)**<br>
+Wed 7 Jun 18:10; Mon 12 Jun 20:40<br>
+**Une chambre en ville (A Room in Town)**<br>
+Wed 14 Jun 20:45; Sat 24 Jun 13:00<br>
+**Mauvais sang (The Night Is Young)**<br>
+Sat 17 Jun 15:15; Thu 22 Jun 20:40<br>
+**Milou en mai (Milou in May)**<br>
+Sun 18 Jun 16:00; Mon 26 Jun 20:40<br>
+**Belle toujours**<br>
+Wed 21 Jun 20:50; Sun 25 Jun 16:30<br>
+**La Belle Noiseuse**<br>
+Sat 24 Jun 15:20; Wed 28 Jun 18:10<br>
+**Habemus Papam – We Have a Pope**<br>
+Sun 25 Jun 14:00; Thu 29 Jun 20:45<br>
+<br>
+
+**Promotional partner**  
+<img style="float: left;" src="/img/fromagerie.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTcyODY2MjhdfQ==
