@@ -28,62 +28,33 @@ The casting of Jeff Bridges slyly capitalises on his image as Hollywood’s last
 <br>
 <![endif]-->
 
-**The Big Lebowski**
-
-_Director:_ Joel Coen
-
-_Production Companies:_
-
-PolyGram Filmed Entertainment,Working Title Films
-
-_Executive Producers:_ Tim Bevan, Eric Fellner
-
-_Producer:_ Ethan Coen
-
-_Co-producer:_ John Cameron
-
-_Executive in Charge of Production:_ Jane Frazer
-
-_Production Supervisor:_ Gilly Ruben
-
-_Production Co-ordinator:_ Gregg Edler
-
-_Unit Production Manager:_ John Cameron
-
-_Location Manager:_ Robert Graf
-
-_Post-production Supervisor:_ Charlie Vogel
-
-_1st Assistant Director:_ Jeff Rafner
-
-_Key 2nd Assistant Director:_ Conte Mark Matal
-
-_2nd 2nd Assistant Director:_ Donald Murphy
-
-_Script Supervisor:_ T. Kukowinski
-
-_Casting:_ John Lyons
-
-_Associate Casting:_ Wendy Weidman
-
-_Screenplay:_ Ethan Coen, Joel Coen
-
-_Director of Photography:_ Roger Deakins
-
-_Aerial Cameraman:_ Ron Goodman
-
-_Camera Operator:_ Ted Morris
-
-_Visual Effects Supervisor:_ Janek Sirrs
-
-_Visual Effects:_ Computer Film Company
-
-_Mechanical Effects Designer:_ Peter Chesney
-
-_Graphic Designer:_ Bradford Richardson
-
-_Editors:_ Roderick Jaynes, Tricia Cooke
-
+**THE BIG LEBOWSKI**  
+_Director:_ Joel Coen  
+_Production Companies:_ PolyGram Filmed Entertainment,Working Title Films  
+_Executive Producers:_ Tim Bevan, Eric Fellner  
+_Producer:_ Ethan Coen  
+_Co-producer:_ John Cameron  
+_Executive in Charge of Production:_ Jane Frazer  
+_Production Supervisor:_ Gilly Ruben  
+_Production Co-ordinator:_ Gregg Edler  
+_Unit Production Manager:_ John Cameron  
+_Location Manager:_ Robert Graf  
+_Post-production Supervisor:_ Charlie Vogel  
+_1st Assistant Director:_ Jeff Rafner  
+_Key 2nd Assistant Director:_ Conte Mark Matal  
+_2nd 2nd Assistant Director:_ Donald Murphy  
+_Script Supervisor:_ T. Kukowinski  
+_Casting:_ John Lyons  
+_Associate Casting:_ Wendy Weidman  
+_Screenplay:_ Ethan Coen, Joel Coen  
+_Director of Photography:_ Roger Deakins  
+_Aerial Cameraman:_ Ron Goodman  
+_Camera Operator:_ Ted Morris  
+_Visual Effects Supervisor:_ Janek Sirrs  
+_Visual Effects:_ Computer Film Company  
+_Mechanical Effects Designer:_ Peter Chesney  
+_Graphic Designer:_ Bradford Richardson  
+_Editors:_ Roderick Jaynes, Tricia Cooke  
 _Big Associate Editor:_ David Diliberto  
 _Production Designer:_ Rick Heinrichs  
 _Art Director:_ John Dexter  
@@ -167,5 +138,5 @@ Holly Copeland, Karen Christenberry, Natalie Webb, Julie Bond, Kim Yates, Elizab
 USA/UK 1998©  
 117 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4NDQ0OTVdfQ==
+eyJoaXN0b3J5IjpbMTcwODkyNDU0N119
 -->
