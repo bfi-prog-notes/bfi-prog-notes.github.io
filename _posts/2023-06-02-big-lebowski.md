@@ -5,9 +5,9 @@ published: true
 date: 2023-06-02
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Comedy, Th]
-metadata: 'Japan 1926, 70 mins<br> Director: Teinosuke Kinugasa'
-pdf: '2021-10-23-page-of-madness.pdf'
+tags: [Comedy, Thriller]
+metadata: 'USA/UK 1998, 117mins<br> Director:  Joel Coen'
+pdf: '2023-06-02-big lebowski.pdf'
 ---
 
 The success of _Fargo_ put to rest a long-held myth about the Coen Brothers: that their films were strictly esoteric or enigmatic. This belief seems to be based partly on the way their earlier films are rich in strands that can’t easily be assimilated into a conventional narrative pattern – the stray hats in _Miller’s Crossing_, the blatantly formal play of circles in _The Hudsucker Proxy_ – and partly on the frustrating impression that there is always less to the Coens’ work than meets the eye. Every film up until then seemed flawed by the sense that the brothers were being wilfully cavalier, refusing to play their genre games by the rules or, conceivably, just not trying hard enough. Their new film gives some credence to that interpretation: it could almost be subtitled ‘In Praise of Goofing Off’.
@@ -26,5 +26,5 @@ Within this world, the Dude – a ‘70s activist with The Seattle Seven and sig
 The casting of Jeff Bridges slyly capitalises on his image as Hollywood’s last good guy, an actor who can convincingly and affably embody nonconformist righteousness. He makes a wonderfully calibrated double act with John Goodman’s irascible Vietnam veteran converted to Judaism – a perfect character pairing for what looks like prime sitcom material. That might be finally what this is – a _Seinfeld_-style ‘film about nothing’, or about nothing more than the in-jokes that make the Coens giggle (the Dude, by all accounts, is based on a real-life acquaintance of theirs, one Jeff ‘the Dude’ Dowd, who really was a member of the activist group The Seattle Seven). But then, to make a film this thick with non-sequiturs, this defiantly slight, looks like a heroic act in contemporary US cinema. _The Big Lebowski_ is at once utterly inconsequential and a blow for a cinematic slacker aesthetic. Its moral payoff is that, like Marlowe, the Dude finally stays the same – he doesn’t need to be redeemed, brought into line with the world he inhabits. Likewise, the Coens, flouting the genre rules and gleefully pursuing their own amusement reserve the right to stay their ineffable, not remotely enigmatic selves.  
 **Jonathan Romney, _Sight and Sound_, May 1998**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyMzIzMTQxXX0=
+eyJoaXN0b3J5IjpbMTQwNTI3MjE4MF19
 -->
