@@ -84,90 +84,44 @@ _Graphic Designer:_ Bradford Richardson
 
 _Editors:_ Roderick Jaynes, Tricia Cooke
 
-_Big Associate Editor:_ David Diliberto
-
-_Production Designer:_ Rick Heinrichs
-
-_Art Director:_ John Dexter
-
-_Set Designer:_ Mariko Braswell
-
-_Set Decorator:_ Chris Spellman
-
-_Storyboard Artist:_ J. Todd Anderson
-
-_Costume Designer:_ Mary Zophres
-
-_Costume Supervisor:_ Pam Withers
-
-_Make-up Supervisor:_ Jean Black
-
-_Make-up for Mr Jeff Bridges:_ Edouard Henriques
-
-_Hairstylist:_ Daniel Curet
-
-_Title Sequence / ‘Gutterball’ Titles Design/Production:_ Balsmeyer & Everett Inc
-
-_Opticals:_ John Alagna, Effects House,
-
-János Pilenyi, Cineric Inc
-
-_Music:_ Carter Burwell
-
-_Orchestrations:_ Carter Burwell, Sonny Kompanek
-
-_Music Supervisor:_ Happy Walters
-
-_Executive in Charge of Music for PFE:_ Dawn Solér
-
-_Music Co-ordinators:_ Spring Aspers,
-
-Manish Raval, Tom Wolfe
-
-_Music Contractor:_ Emile Charlap
-
-_Music Editor:_ Todd Kasow
-
-_Associate Music Editor:_ Missy Cohen
-
-_Music Engineer:_ Michael Farrow
-
-_Musical Archivist:_ T-Bone Burnett
-
-_Choreography:_ Bill Landrum, Jacqui Landrum
-
-_Sound Mixer:_ Allan Byer
-
-_Re-recording Mixers:_ Michael Barry, Skip Lievsay
-
-_Supervising Sound Editor:_ Skip Lievsay
-
-_Dialogue Editors:_ Magdaline Volaitis, Rick Freeman
-
-_Giggles/Howls/Marmots:_
-
-William Preston Robertson
-
-_Effects Editor:_ Lewis Goldstein
-
-_ADR Editor:_ Kenton Jakub
-
-_Supervisor Foley:_ Ben Cheah
-
-_Foley Artist:_ Marko Costanzo
-
-_Foley Mixer:_ Bruce Pross
-
-_Foley Editors:_ Jennifer Ralston, Frank Kern
-
-_Stunt Co-ordinator:_ Jery Hewitt
-
-_Stunts:_ Jennifer Lamb, Vince Deadrick Jr,
-
-Lloyd Catlett
-
-_Baby Wranglers:_ Pattie Cooke, Eileen Sullivan
-
+_Big Associate Editor:_ David Diliberto  
+_Production Designer:_ Rick Heinrichs  
+_Art Director:_ John Dexter  
+_Set Designer:_ Mariko Braswell  
+_Set Decorator:_ Chris Spellman  
+_Storyboard Artist:_ J. Todd Anderson  
+_Costume Designer:_ Mary Zophres  
+_Costume Supervisor:_ Pam Withers  
+_Make-up Supervisor:_ Jean Black  
+_Make-up for Mr Jeff Bridges:_ Edouard Henriques  
+_Hairstylist:_ Daniel Curet  
+_Title Sequence / ‘Gutterball’ Titles Design/Production:_ Balsmeyer & Everett Inc  
+_Opticals:_ John Alagna, Effects House, János Pilenyi, Cineric Inc  
+_Music:_ Carter Burwell  
+_Orchestrations:_ Carter Burwell, Sonny Kompanek  
+_Music Supervisor:_ Happy Walters  
+_Executive in Charge of Music for PFE:_ Dawn Solér  
+_Music Co-ordinators:_ Spring Aspers, Manish Raval, Tom Wolfe  
+_Music Contractor:_ Emile Charlap  
+_Music Editor:_ Todd Kasow  
+_Associate Music Editor:_ Missy Cohen  
+_Music Engineer:_ Michael Farrow  
+_Musical Archivist:_ T-Bone Burnett  
+_Choreography:_ Bill Landrum, Jacqui Landrum  
+_Sound Mixer:_ Allan Byer  
+_Re-recording Mixers:_ Michael Barry, Skip Lievsay  
+_Supervising Sound Editor:_ Skip Lievsay  
+_Dialogue Editors:_ Magdaline Volaitis, Rick Freeman  
+_Giggles/Howls/Marmots:_ William Preston Robertson  
+_Effects Editor:_ Lewis Goldstein  
+_ADR Editor:_ Kenton Jakub  
+_Supervisor Foley:_ Ben Cheah  
+_Foley Artist:_ Marko Costanzo  
+_Foley Mixer:_ Bruce Pross  
+_Foley Editors:_ Jennifer Ralston, Frank Kern  
+_Stunt Co-ordinator:_ Jery Hewitt  
+_Stunts:_ Jennifer Lamb, Vince Deadrick Jr, Lloyd Catlett  
+_Baby Wranglers:_ Pattie Cooke, Eileen Sullivan  
 _Animals:_ Animal Actors of Hollywood  
 
 **Cast**  
@@ -213,5 +167,5 @@ Holly Copeland, Karen Christenberry, Natalie Webb, Julie Bond, Kim Yates, Elizab
 USA/UK 1998©  
 117 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDg0MzE4OV19
+eyJoaXN0b3J5IjpbNzk4NDQ0OTVdfQ==
 -->
