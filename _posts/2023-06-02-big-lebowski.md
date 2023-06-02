@@ -168,88 +168,50 @@ Lloyd Catlett
 
 _Baby Wranglers:_ Pattie Cooke, Eileen Sullivan
 
-_Animals:_ Animal Actors of Hollywood
+_Animals:_ Animal Actors of Hollywood  
 
-_Cast:_
-
-Jeff Bridges _(Jeffrey Lebowski, ‘The Dude’)_
-
-John Goodman _(Walter Sobchak)_
-
-Julianne Moore _(Maude Lebowski)_
-
-Steve Buscemi _(Donny)_
-
-David Huddleston _(The Big Lebowski)_
-
-Philip Seymour Hoffman _(Brandt)_
-
-Tara Reid _(Bunny Lebowski)_
-
-Philip Moon, Mark Pellegrino _(Treehorn thugs)_
-
-Peter Stormare _(Uli, nihilist)_
-
-Flea, Torsten Voges _(nihilists)_
-
-Jimmie Dale Gilmore _(Smokey)_
-
-Jack Kehler _(Dude’s landlord)_
-
-John Turturro _(Jesus Quintana)_
-
-James G. Hoosier _(Quintana’s partner)_
-
-Carlos Leon, Terrance Burton _(Maude’s thugs)_
-
-Richard Gant _(older cop)_
-
-Christian Clemenson _(younger cop)_
-
-Dom Irrera _(Tony the chauffeur)_
-
-Gérard L’Heureux _(Lebowski’s chauffeur)_
-
-David Thewlis _(Knox Harrington)_
-
-Lu Elrod _(coffee shop waitress)_
-
-Michael Gomez _(auto circus cop)_
-
-Peter Siragusa _(Gary the bartender)_
-
-Sam Elliott _(the stranger)_
-
-Marshall Manesh _(doctor)_
-
-Harry Bugin _(Arthur Digby Sellers)_
-
-Jesse Flanagan _(little Larry Sellers)_
-
-Irene Olga López _(Pilar)_
-
-Luis Colina _(Corvette owner)_
-
-Ben Gazzara _(Jackie Treehorn)_
-
-Leon Russom _(Malibu police chief)_
-
-Ajgie Kirkland _(cab driver)_
-
-Jon Polito _(private snoop)_
-
-Aimee Mann _(nihilist woman)_
-
-Jerry Haleva _(Saddam)_
-
-Jennifer Lamb _(pancake waitress)_
-
-Warren David Keith
-_(Francis Donnelly, funeral director)_
+**Cast**  
+Jeff Bridges _(Jeffrey Lebowski, ‘The Dude’)_  
+John Goodman _(Walter Sobchak)_  
+Julianne Moore _(Maude Lebowski)_  
+Steve Buscemi _(Donny)_  
+David Huddleston _(The Big Lebowski)_  
+Philip Seymour Hoffman _(Brandt)_  
+Tara Reid _(Bunny Lebowski)_  
+Philip Moon, Mark Pellegrino _(Treehorn thugs)_  
+Peter Stormare _(Uli, nihilist)_  
+Flea, Torsten Voges _(nihilists)_  
+Jimmie Dale Gilmore _(Smokey)_  
+Jack Kehler _(Dude’s landlord)_  
+John Turturro _(Jesus Quintana)_  
+James G. Hoosier _(Quintana’s partner)_  
+Carlos Leon, Terrance Burton _(Maude’s thugs)_  
+Richard Gant _(older cop)_  
+Christian Clemenson _(younger cop)_  
+Dom Irrera _(Tony the chauffeur)_  
+Gérard L’Heureux _(Lebowski’s chauffeur)_  
+David Thewlis _(Knox Harrington)_  
+Lu Elrod _(coffee shop waitress)_  
+Michael Gomez _(auto circus cop)_  
+Peter Siragusa _(Gary the bartender)_  
+Sam Elliott _(the stranger)_  
+Marshall Manesh _(doctor)_  
+Harry Bugin _(Arthur Digby Sellers)_  
+Jesse Flanagan _(little Larry Sellers)_  
+Irene Olga López _(Pilar)_  
+Luis Colina _(Corvette owner)_  
+Ben Gazzara _(Jackie Treehorn)_  
+Leon Russom _(Malibu police chief)_  
+Ajgie Kirkland _(cab driver)_  
+Jon Polito _(private snoop)_  
+Aimee Mann _(nihilist woman)_  
+Jerry Haleva _(Saddam)_  
+Jennifer Lamb _(pancake waitress)_  
+Warren David Keith _(Francis Donnelly, funeral director)_  
 Holly Copeland, Karen Christenberry, Natalie Webb, Julie Bond, Kim Yates, Elizabeth A. Eaton, Lori Jo Birdsell, Kelly Sheerin, Kiva Dawson, Lisa C. Boltauzer, Alison Simpson, Lindsay Fellenbaum, Melissa Aggeles, Katherine Slay, Jennifer S. Garett, Danielle Nicole Parish, Jennifer Strovas, Jamie Green, Caitlin McLean, Michelle E. Swanson, Laurel Kitten, Joelle Martinec, Amy Tinkham, Mary Lee, Sandra Plazinic, Bree Turner, Carrie Macy, Jacqui Landrum, Martina Volpp, Danielle Marcus Janssen, Wendy Braun, Amy Warren, Michelle Rudy-Mirkovich _(dancers)_  
 
 USA/UK 1998©  
 117 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxNjIyNjc5XX0=
+eyJoaXN0b3J5IjpbLTQ3NDg0MzE4OV19
 -->
