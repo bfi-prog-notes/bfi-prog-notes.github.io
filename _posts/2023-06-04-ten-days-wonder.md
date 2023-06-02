@@ -24,28 +24,21 @@ But even when cheating, Chabrol plays fair by his own rules. As he told Rui Nogu
 
 Admittedly the film has some rough surfaces: poor post-synching on the (original) English language version, dialogue spoken in a disconcerting assortment of accents. But these same imperfections serve on many levels to reinforce the film’s multi-level themes. The _trompe-l’oeil_ effect of the opening shots, with Rabier’s camera pulling diagonally back to reveal that what we have taken for the ‘reality’ of Charles in his hotel room is merely a looking-glass reflection, forms the first link in a chain whose every part proves to be not what it seems. As Paul steps off the Paris train, it is through his eyes that we first see Hélène: a Twenties heroine standing erect beside her Hispano. ‘I didn’t know Charles had a sister,’ remarks the expert in inductive reasoning. ‘I’m his mother,’ she declares. But image, reasoning and statement are all three equally false. The sustained _trompe-l’oeil_ effects are in fact constantly paralleled by what can only be described as _trompe-l’oreille_ explanations (like the mythical genealogies), reinforced by the foreign formality with which most of the principals inflect their lines.
 
-It is only fitting that Chabrol’s God should provide the final judgment. In the film’s (deliberately) most spellbinding moment, Théo holds his dinner guests enthralled with an apocryphal anecdote about a man who successfully devised a potion to remove a blemish from the body of his otherwise perfect wife. Shortly afterwards, the lady died. As the raconteur explains, ‘The imperfection was life.’
+It is only fitting that Chabrol’s God should provide the final judgment. In the film’s (deliberately) most spellbinding moment, Théo holds his dinner guests enthralled with an apocryphal anecdote about a man who successfully devised a potion to remove a blemish from the body of his otherwise perfect wife. Shortly afterwards, the lady died. As the raconteur explains, ‘The imperfection was life.’  
+**Jan Dawson, _Sight and Sound_, Autumn 1972**
+<br><br>
 
-Jan Dawson, _Sight and Sound_, Autumn 1972
-
-<![endif]-->
-
-**TEN DAYS’ WONDER (LA DÉCADE PRODIGEUSE)**
-
+**TEN DAYS’ WONDER (LA DÉCADE PRODIGEUSE)**  
 _Director:_ Claude Chabrol  
-_Production Companies:_ Films La Boétie,  
-Euro International Films  
+_Production Companies:_ Films La Boétie,  Euro International Films  
 _Producer:_ André Génovès  
 _Production Administrator:_ Gerard Espinet  
 _Production Manager:_ Irénée Leriche  
-_Production Assistants:_ Patrick Delauneux,  
-Arlette Danis  
+_Production Assistants:_ Patrick Delauneux,  Arlette Danis  
 _Assistant Directors:_ Patrick Saglio, Michel Dupuy  
 _Continuity:_ Aurore Paquiss  
 _Screenplay:_ Claude Chabrol, Paul Gégauff  
-_English language screenplays:_ Paul Gardner,
-
-Eugene Archer  
+_English language screenplays:_ Paul Gardner, Eugene Archer  
 _English language adaptation:_ Paul Gégauff  
 _Based on the novel by:_ Ellery Queen  
 _Director of Photography:_ Jean Rabier  
@@ -58,9 +51,7 @@ _Set Decorator:_ Guy Maugin
 _Properties:_ Henri Berger  
 _Statues:_ Gilles  
 _Costumes:_ Karl Lagerfeld  
-_Make-up:_ Jacky Rouban, Jacky Reynal,
-
-François Xavier Leclerc  
+_Make-up:_ Jacky Rouban, Jacky Reynal, François Xavier Leclerc  
 _Hair Styles:_ Alain Scemama  
 _Music:_ Pierre Jansen  
 _Song:_ Dominique Zardi  
@@ -71,8 +62,7 @@ _Sound Mixer:_ Alex Pront
 _Sound Effects:_ Louis Devaivre  
 _Publicity:_ Rosine Josem
 
-_Cast:_
-
+**Cast**  
 Orson Welles _(Théo Van Horn)_  
 Marlène Jobert _(Hélène Van Horn)_  
 Anthony Perkins _(Charles Van Horn)_  
@@ -89,9 +79,9 @@ Mathilde Ceccarelli _(hotel receptionist)_
 Corinne Koeningswarter _(Hélène (as a girl))_  
 Fabienne Gauglof _(little girl in train)_
 
-France-Italy 1971
-
-105 mins
+France-Italy 1971  
+105 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODYwNjgxMDRdfQ==
+eyJoaXN0b3J5IjpbMjYyNzcyODI5XX0=
 -->
