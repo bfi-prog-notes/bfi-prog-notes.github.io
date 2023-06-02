@@ -14,139 +14,103 @@ Buñuel, it should be added, is splendidly served by his collaborators: Georges 
 <br><br>
 
 **THE DIARY OF A CHAMBERMAID**<br>
-
 **(LE JOURNAL D’UNE FEMME DE CHAMBRE)**<br>
-
 _Director:_ Luis Buñuel<br>
-
 _Production Companies:_ Spéva Films, Ciné-Alliance, Filmsonor (Paris), Dear Film (Rome)<br>
-
 _Presented by:_ Cocinor<br>
-
 _Produced by:_ Serge Silberman, Michel Safra<br>
-
 _Production Supervisor:_ Henri Baum<br>
-
 _Production Accountant:_ Maurice Otte<br>
-
 _Production Manager:_ U. Pickard<br>
-
 _Assistant:_ Jacqueline Dudilleux<br>
-
 _Unit Production Manager:_ André Retbi<br>
-
 _Administration:_ Jean Van Praag, Robert Demollière<br>
-
 _Secretary:_ Odette Laeupplee<br>
-
 _Assistant Directors:_ Juan-Luis Buñuel, Pierre Lary<br>
-
 _Script Supervisor:_ Suzanne Durremberger<br>
-
-_Adaptation/Dialogue:_ Luis Buñuel,  
-Jean-Claude Carrière<br>
-
+_Adaptation/Dialogue:_ Luis Buñuel,  Jean-Claude Carrière<br>
 _Based on the novel by:_ Octave Mirbeau<br>
-
 _Director of Photography:_ Roger Fellous<br>
-
 _Cameraman:_ Adolphe Charlet<br>
-
 _1st Assistant Camera:_ René Schneider<br>
+_2nd Assistant Camera:_ Agathe Beaumont<br>
+_Stills Photography:_ Jean-Louis Castelli<br>
+_Editor:_ Louisette Hautecoeur<br>
+_Assisted by:_ Arlette Lalande<br>
+_Art Director:_ Georges Wakhevitch<br>
+_1st Assistant Art Director:_ René Calviera<br>
+_Set Decorator:_ Charles Mérangel<br>
+_Costume Designer:_ Georges Wakhevitch<br>
+_Costumes:_ Jacqueline Moreau<br>
+_Key Make-up:_ Maguy Vernadet<br>
+_Hair:_ Simone Knapp<br>
+_Laboratory:_ Franay LTC<br>
+_Sound Recording:_ Antoine Petitjean<br>
+_Assisted by:_ Robert Cambourakis<br>
+_Subtitles:_ Jaib Warner<br>
+_Novel Publisher:_ Fasquelle Editeurs<br>
+_Studio:_ Franstudio-Saint Maurice<br>
 
-_2nd Assistant Camera:_ Agathe Beaumont
+_Cast**<br>
 
-_Stills Photography:_ Jean-Louis Castelli
+Jeanne Moreau _(Célestine)_<br>
 
-_Editor:_ Louisette Hautecoeur
+Georges Géret _(Joseph)_<br>
 
-_Assisted by:_ Arlette Lalande
+Daniel Ivernel _(Captain Mauger)_<br>
 
-_Art Director:_ Georges Wakhevitch
+Françoise Lugagne _(Madame Monteil)_<br>
 
-_1st Assistant Art Director:_ René Calviera
+Muni _(Marianne)_<br>
 
-_Set Decorator:_ Charles Mérangel
+Jean Ozenne _(Monsieur Rabour)_<br>
 
-_Costume Designer:_ Georges Wakhevitch
+Michel Piccoli _(Monsieur Monteil)_<br>
 
-_Costumes:_ Jacqueline Moreau
+Joëlle Bernard _(Captain Mauger’s companion)_<br>
 
-_Key Make-up:_ Maguy Vernadet
+Françoise Bertin<br>
 
-_Hair:_ Simone Knapp
+Aline Bertrand, Pierre Collet _(travellers)_<br>
 
-_Laboratory:_ Franay LTC
+Michelle Dacquid<br>
 
-_Sound Recording:_ Antoine Petitjean
+Madeleine Damien _(cook)_<br>
 
-_Assisted by:_ Robert Cambourakis
+Marc Eyraud _(police secretary)_<br>
 
-_Subtitles:_ Jaib Warner
+Jean Franval<br>
 
-_Novel Publisher:_ Fasquelle Editeurs
+Gilberte Géniat _(Rose)_<br>
 
-_Studio:_ Franstudio-Saint Maurice
+Gabriel Gobin<br>
 
-_Cast:_
+Bernard Musson _(the sacristan)_<br>
 
-Jeanne Moreau _(Célestine)_
+Jeanne Peres _(gossip)_<br>
 
-Georges Géret _(Joseph)_
+Marcel Rouzé _(station manager)_<br>
 
-Daniel Ivernel _(Captain Mauger)_
+Dominique Sauvage _(Claire)_<br>
 
-Françoise Lugagne _(Madame Monteil)_
+Andrée Tainsy _(peasant)_<br>
 
-Muni _(Marianne)_
+Geymond Vital _(brigadier)_<br>
 
-Jean Ozenne _(Monsieur Rabour)_
+Jean-Claude Carrière _(priest)_<br>
 
-Michel Piccoli _(Monsieur Monteil)_
+Claude Jaeger _(judge)_<br>
 
-Joëlle Bernard _(Captain Mauger’s companion)_
+Dominique Zardi _(police officer)_ *<br>
 
-Françoise Bertin
+Marcel Le Floch *<br>
 
-Aline Bertrand, Pierre Collet _(travellers)_
-
-Michelle Dacquid
-
-Madeleine Damien _(cook)_
-
-Marc Eyraud _(police secretary)_
-
-Jean Franval
-
-Gilberte Géniat _(Rose)_
-
-Gabriel Gobin
-
-Bernard Musson _(the sacristan)_
-
-Jeanne Peres _(gossip)_
-
-Marcel Rouzé _(station manager)_
-
-Dominique Sauvage _(Claire)_
-
-Andrée Tainsy _(peasant)_
-
-Geymond Vital _(brigadier)_
-
-Jean-Claude Carrière _(priest)_
-
-Claude Jaeger _(judge)_
-
-Dominique Zardi _(police officer)_ *
-
-Marcel Le Floch *
-
-France-Italy 1964
+France-Italy 1964<br>
 
 101 mins
 
-* Uncredited
+*Uncredited<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDQxMjY5MF19
+eyJoaXN0b3J5IjpbLTE0MDA1NjMyNDldfQ==
 -->
