@@ -1,8 +1,6 @@
-<![endif]-->
 
-Adapting Joseph Kessel’s novel about a married bourgeois Parisienne led by idle curiosity to work afternoons in a high-class brothel, Buñuel consistently gives only scant indication as to what is real and what is part of her colourfully masochistic fantasy life. Eschewing sensationalism for cool discretion, he elicits marvellously nuanced performances from Catherine Deneuve as the perversely innocent Séverine and from Piccoli as Husson, her perversely principled womanising suitor.
-
-bfi.org.uk
+Adapting Joseph Kessel’s novel about a married bourgeois Parisienne led by idle curiosity to work afternoons in a high-class brothel, Buñuel consistently gives only scant indication as to what is real and what is part of her colourfully masochistic fantasy life. Eschewing sensationalism for cool discretion, he elicits marvellously nuanced performances from Catherine Deneuve as the perversely innocent Séverine and from Piccoli as Husson, her perversely principled womanising suitor.  
+**bfi.org.uk**
 
 Most of all, Buñuel wanted to go back to work in Spain again. He had been encouraged by reports that the brouhaha over _Viridiana_ had calmed, that censorship there had been relaxed. He returned. Then, after months of preparation, in the summer of 1963, Franco’s government refused the shooting authorisation for his version of Galdos’ _Tristana_. Later that year, in France, he made one of his finest films, _The Diary of a Chambermaid_. When shown in Paris, in 1964, it was coolly received. A year later, one of his old pet projects, an adaptation of Lewis’s _The Monk_, was finally about to take shape. At the last minute the production company was dissolved, and it too had to be written off. The Hakim Brothers then approached Buñuel to ask him to consider a screen version of Joseph Kessel’s novel, _Belle de Jour_. He accepted, and cloistered himself in an ultra-modern building in Madrid with Jean-Claude Carrière (co-scenarist on _Diary_ and _The Monk_). They finished the script in five weeks. The shooting schedule for this, Buñuel’s 27th film, was ten weeks. He brought it in in eight.
 
@@ -15,70 +13,69 @@ Kessel elevates this novelettish plot through a convincing portrayal of the frig
 Although Buñuel does not fancy the novel (he didn’t like Defoe’s _Robinson Crusoe_ much either), he stated: ‘I found it interesting to try to make something I would like, starting from something I didn’t ... I enjoyed complete freedom during the shooting of _Belle_, and consider myself entirely responsible for the result.’ He took pains with the editing, modifying several sequences in the process – a procedure rare for him. Hindered often in the past by tight budgets, his only inconvenience here was the producers’ insidious auto-censorship; several cuts were made by them before _Belle_ was sent to  
 the censors.
 
-Buñuel’s last great film is close in spirit to his first great film, _L’Age d’Or_. Indeed, one of the things in _Belle de Jour_ which seems to have bothered people is its fidelity to what can only be called the true spirit of surrealism: not the tacky Surrealism to be found in the moth-eaten commemorative art shows which have popped up from time to time in Paris, London or New York art galleries since the war, but the invigorating, positive, liberating surrealism which marked _L’Age d’Or_, caused riots when that film was first shown, and resulted in its being banned for a generation. The result is more mellow, less overtly aggressive than _L’Age d’Or_, even calm. But it is all there.
+Buñuel’s last great film is close in spirit to his first great film, _L’Age d’Or_. Indeed, one of the things in _Belle de Jour_ which seems to have bothered people is its fidelity to what can only be called the true spirit of surrealism: not the tacky Surrealism to be found in the moth-eaten commemorative art shows which have popped up from time to time in Paris, London or New York art galleries since the war, but the invigorating, positive, liberating surrealism which marked _L’Age d’Or_, caused riots when that film was first shown, and resulted in its being banned for a generation. The result is more mellow, less overtly aggressive than _L’Age d’Or_, even calm. But it is all there.  
 
 Buñuel: ‘_Belle de Jour_ is a pornographic film ... by that I mean _chaste_ eroticism.’
 
-Elliott Stein, _Sight and Sound_, Autumn 1967
+**Elliott Stein, _Sight and Sound_, Autumn 1967**
+<br><br>
 
-<![endif]-->
+**BELLE DE JOUR**<br>
 
-**BELLE DE JOUR**
+_A film by:_ Luis Buñuel<br>
 
-_A film by:_ Luis Buñuel
+©: Paris Film Production<br>
 
-©: Paris Film Production
-
-_Co-production:_ Paris Film Production, Five Films
+_Co-production:_ Paris Film Production, Five Films<br>
 
 _Production/Presented by:_ Robert Hakim,  
-Raymond Hakim
+Raymond Hakim<br>
 
-_Production Manager:_ Henri Baum
+_Production Manager:_ Henri Baum<br>
 
-_Unit Manager:_ Marc Goldstaub
+_Unit Manager:_ Marc Goldstaub<br>
 
-_1st Assistant Director:_ Pierre Lary
+_1st Assistant Director:_ Pierre Lary<br>
 
-_2nd Assistant Director:_ Jacques Fraenkel
+_2nd Assistant Director:_ Jacques Fraenkel<br>
 
-_Script Supervisor:_ Suzanne Durrenberger
+_Script Supervisor:_ Suzanne Durrenberger<br>
 
 _Adaptation/Dialogue:_ Luis Buñuel,  
-Jean-Claude Carrière
+Jean-Claude Carrière<br>
 
-_Based on the novel by:_ Joseph Kessel
+_Based on the novel by:_ Joseph Kessel<br>
 
-_Director of Photography:_ Sacha Vierny
+_Director of Photography:_ Sacha Vierny<br>
 
-_Camera Operator:_ Philippe Brun
+_Camera Operator:_ Philippe Brun<br>
 
-_1st Assistant Camera:_ Pierre Li
+_1st Assistant Camera:_ Pierre Li<br>
 
-_2nd Assistant Camera:_ Lionel Legros
+_2nd Assistant Camera:_ Lionel Legros<br>
 
-_Stills Photography:_ Raymond Voinquel
+_Stills Photography:_ Raymond Voinquel<br>
 
-_Supervising Editor:_ Louisette Hautecæur
+_Supervising Editor:_ Louisette Hautecæur<br>
 
-_Assistant Editor:_ Walter Spohr
+_Assistant Editor:_ Walter Spohr<br>
 
-_Art Director:_ Robert Clavel
+_Art Director:_ Robert Clavel<br>
 
-_Assistant Art Director:_ Marc Robert Desages
+_Assistant Art Director:_ Marc Robert Desages<br>
 
-_Set Decorator:_ Maurice Barnathan
+_Set Decorator:_ Maurice Barnathan<br>
 
-_Properties:_ Pierre Roudeix
+_Properties:_ Pierre Roudeix<br>
 
 _Catherine Deneuve’s Dresses by:  
-_Yves Saint Laurent
+_Yves Saint Laurent<br>
 
-_Costumer:_ Hélène Nourry
+_Costumer:_ Hélène Nourry<br>
 
-_Key Make-up:_ Janine Jarreau
+_Key Make-up:_ Janine Jarreau<br>
 
-_Hairstylist:_ Simone Knapp
+_Hairstylist:_ Simone Knapp<br>
 
 _Sound Recording:_ René Longuet
 
@@ -161,5 +158,5 @@ France-Italy 1967©
 
 101 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQ2MDI0NTBdfQ==
+eyJoaXN0b3J5IjpbLTE4MzUyNzU4NDBdfQ==
 -->
