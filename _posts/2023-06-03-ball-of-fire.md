@@ -6,18 +6,31 @@ _Ball of Fire_ roots its comic impetus more firmly in the richer, older, more af
 **Peter John Dyer, _Sight and Sound_, Summer 1962**
 
 How Joe Lilac is outwitted by the academic team makes a magnificent climax to a film which is amusing for two hours on end. The plot is ordinary but not the direction, the dialogue or the acting, all of which are in the first rank. The professors are a joy and Gary Cooper makes Potts as attractive as he is inarticulate, while Barbara Stanwyck scintillates as Sugarpuss. The situations are farcical but the result is great comedy.  
-**_Monthly Film Bulletin_, March 1942**
-<br><br>
+**
+
+_Monthly Film Bulletin_, March 1942**
+<br><br
+
+<![endif]-->
 
 **BALL OF FIRE**<br>
+
 _Directed by:_ Howard Hawks<br>
+
 ©: Samuel Goldwyn<br>
+
 _Presented by:_ Samuel Goldwyn<br>
+
 _Released through:_ RKO Radio Pictures, Inc.<br>
+
 _Produced by:_ Samuel Goldwyn<br>
+
 _Assistant Director:_ William Tummel<br>
+
 _Screen Play by:_ Charles Brackett, Billy Wilder<br>
-_From an original story by:_ Billy Wilder,  Thomas Monroe<br>
+
+_From an original story by:_ Billy Wilder,  
+Thomas Monroe<br>
 
 _Photography:_ Gregg Toland<br>
 
@@ -136,10 +149,10 @@ Johnnie Morris _(clerk for justice of peace)_<br>
 Edward Clark _(motor court proprietor)_<br>
 
 USA 1941©<br>
-112 mins
+  112 mins
 
 A BFI National Archive print<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY3NzQwODZdfQ==
+eyJoaXN0b3J5IjpbLTc1NTI4MzI3OSwtMTU1Njc3NDA4Nl19
 -->
