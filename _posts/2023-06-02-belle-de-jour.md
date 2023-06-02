@@ -53,75 +53,44 @@ _Sound Re-recording:_ Poste Parisien<br>
 _Novel ‘Belle de Jour’ Published by:_  Editions Gallimard<br>
 _Studio:_ Franstudio-Saint Maurice<br>
 
-_Cast**<br>
+**Cast**<br>
 Catherine Deneuve _(Séverine Serizy)_<br>
-
 Jean Sorel _(Pierre Serizy)_<br>
-
 Michel Piccoli _(Henri Husson)_<br>
-
 Geneviève Page _(Madame Anaïs)_<br>
-
 Pierre Clémenti _(Marcel)_<br>
-
 Françoise Fabian _(Charlotte)_<br>
-
 Macha Méril _(Renée)_<br>
-
 Muni _(Pallas)_<br>
-
 Maria Latour _(Mathilde)_<br>
-
 Claude Cerval _(chauffeur)_<br>
-
 Michel Charrel _(footman)_<br>
-
 Iska Khan _(Asian client)_<br>
-
 Bernard Musson _(major-domo)_<br>
-
 Marcel Charvey _(Professor Henri)_<br>
-
 François Maistre _(the professor)_<br>
-
 Francisco Rabal _(Hippolyte)_<br>
-
 Georges Marchal _(the duke)_<br>
-
 Francis Blanche _(Monsieur Adolphe)_<br>
 
 _uncredited:_<br>
-
 Bernard Fresson _(Le Gríle)_<br>
-
 Dominique Dandrieux _(Henriette)_<br>
-
 Brigitte Parmentier _(Séverine as a child)_<br>
-
 D. de Roseville _(coachman)_<br>
-
 Pierre Marcay _(intern)_<br>
-
 Adélaide Blasquez _(maid)_<br>
-
 Marc Eyraud _(barman)_<br>
-
 Max Elloy _(the duke’s butler)_<br>
-
 Luis Buñuel _(man at café)_<br>
-
 Louis Viret _(debt collector)_<br>
-
 Stéphane Bouy, Antonio Passalia _(men in bar)_<br>
-
 Pierre Vaudier, Albert Daumergue _(surgeons)_<br>
-
 Claude Salez _(man who strikes Marcel)_<br>
 
 France-Italy 1967©<br>
-
 101 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk3NjQ4NDFdfQ==
+eyJoaXN0b3J5IjpbLTIwMDQ1NDEwOTJdfQ==
 -->
