@@ -24,130 +24,73 @@ Reproduced by kind permission of Bloomsbury Publishing. ©Peter Swaab**
 <br><br>
 
 **BRINGING UP BABY**<br>
-
 _Directed by:_ Howard Hawks<br>
-
 _©/Presented by:_ RKO Radio Pictures<br>
-
 _Associate Producer:_ Cliff Reid<br>
-
 _Assistant Director:_ Edward Donahue<br>
-
 _Screenplay by:_ Dudley Nichols, Hagar Wilde<br>
-
 _From the story by:_ Hagar Wilde<br>
-
 _Director of Photography:_ Russell Metty<br>
-
 _Special Effects by:_ Vernon L. Walker<br>
-
 _Edited by:_ George Hively<br>
-
 _Art Director:_ Van Nest Polglase<br>
-
 _Associate Art Director:_ Perry Ferguson<br>
-
 _Set Dressing by:_ Darrell Silvera<br>
-
 _Gowns by:_ Howard Greer<br>
-
 _Musical Director:_ Roy Webb<br>
-
 _Sound Recorded by:_ John L. Cass<br>
-
 _Sound Recorded by:_ RCA Victor System<br>
 
 _uncredited_<br>
-
 _Production Manager:_ J.R. Crone<br>
-
 _Unit Manager:_ George Rogell<br>
-
 _Camera Operator:_ Charles Burke<br>
-
 _Make-up:_ Mel Berns<br>
-
 _Double for Cary Grant:_ Jimmy Dundee<br>
-
 _Double for Katharine Hepburn:_ Helen Thurston<br>
-
 _Nissa’s Trainer:_ Madame Olga Celeste<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Katharine Hepburn _(Susan Vance)_<br>
-
 Cary Grant _(David Huxley)_<br>
-
 Charlie Ruggles _(Major Horace Applegate)_<br>
-
 Walter Catlett _(Constable Slocum)_<br>
-
 Barry Fitzgerald _(Gogarty)_<br>
-
 May Robson _(Aunt Elizabeth)_<br>
-
 Fritz Feld _(Dr Fritz Lehmann)_<br>
-
 Leona Roberts _(Mrs Hannah Gogarty)_<br>
-
 George Irving _(Alexander Peabody)_<br>
-
 Tala Birell _(Mrs Lehmann)_<br>
-
 Virginia Walker _(Alice Swallow)_<br>
-
 John Kelly _(Elmer)_<br>
 
 _uncredited_<br>
-
 D’Arcy Corrigan _(Professor La Touche)_<br>
-
 Buster Slavin _(Peabody’s caddy)_<br>
-
 Billy Benedict _(David’s caddy)_<br>
-
 George Humbert _(Louis, the headwaiter)_<br>
-
 Terry Moore _(hat check girl)_<br>
-
 Billy Bevan _(Joe, bartender)_<br>
-
 Jack Gardner _(delivery man)_<br>
-
 Nissa _(Baby, the leopard)_<br>
+Stanley Blystone _(doorman)_<br>
+Garry Owen _(butcher)_<br>
+Skippy _(George, the dog)_<br>
+Richard Lane _(circus manager)_<br>
+Pat West _(Mac)_<br>
+Frank Marlowe _(Joe)_<br>
+Eleanor Peterson, Geraldine Hall, Evelyn Eager _(circus performers)_<br>
+Ward Bond _(motorcycle cop)_<br>
+Ernest Cossart _(Joe, the bartender)_<br>
+Jack Carson _(roustabout)_<br>
+Adylin Ashbury _(Mrs. Peabody)_<br>
+Maxine Martel, Jeanne Martel _(cigarette girls)_<br>
+Edward Gargan, Buck Mack _(zoo officials)_<br>
+Pat O’Malley _(deputy)_<br>
 
-Stanley Blystone _(doorman)_
-
-Garry Owen _(butcher)_
-
-Skippy _(George, the dog)_
-
-Richard Lane _(circus manager)_
-
-Pat West _(Mac)_
-
-Frank Marlowe _(Joe)_
-
-Eleanor Peterson, Geraldine Hall, Evelyn Eager _(circus performers)_
-
-Ward Bond _(motorcycle cop)_
-
-Ernest Cossart _(Joe, the bartender)_
-
-Jack Carson _(roustabout)_
-
-Adylin Ashbury _(Mrs. Peabody)_
-
-Maxine Martel, Jeanne Martel _(cigarette girls)_
-
-Edward Gargan, Buck Mack _(zoo officials)_
-
-Pat O’Malley _(deputy)_
-
-USA 1938©
-
-102 mins
+USA 1938©<br>
+102 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTM3OTAzMV19
+eyJoaXN0b3J5IjpbLTE5MTM2OTg0MDldfQ==
 -->
