@@ -1,3 +1,14 @@
+---
+layout: post
+title: Ball of Fire
+published: true
+date: 2023-06-03
+readtime: true
+categories: ['RAZOR SHARP<br>THE FABULOUS WOMEN OF HOWARD HAWKS']
+tags: [Comedy]
+metadata: 'USA 1941, 112 mins<br> Director: Howard Hawks'
+pdf: '2023-06-03-ball-of-fire.pdf'
+---
 
 Snow White trades purity for one-liners and innuendo in this madcap comedic update. While hiding from the police, Sugarpuss O’Shea educates a group of stuffy professors on the ways of the world while assisting on their encyclopaedia of slang. Barbara Stanwyck’s vibrancy lights up the screen as she runs rings around her co-stars, investing warmth and humour in every knowing glance.  
 **bfi.org.uk**
@@ -6,31 +17,18 @@ _Ball of Fire_ roots its comic impetus more firmly in the richer, older, more af
 **Peter John Dyer, _Sight and Sound_, Summer 1962**
 
 How Joe Lilac is outwitted by the academic team makes a magnificent climax to a film which is amusing for two hours on end. The plot is ordinary but not the direction, the dialogue or the acting, all of which are in the first rank. The professors are a joy and Gary Cooper makes Potts as attractive as he is inarticulate, while Barbara Stanwyck scintillates as Sugarpuss. The situations are farcical but the result is great comedy.  
-**
-
-_Monthly Film Bulletin_, March 1942**
+**_Monthly Film Bulletin_, March 1942**
 <br><br
 
-<![endif]-->
-
 **BALL OF FIRE**<br>
-
 _Directed by:_ Howard Hawks<br>
-
 ©: Samuel Goldwyn<br>
-
 _Presented by:_ Samuel Goldwyn<br>
-
 _Released through:_ RKO Radio Pictures, Inc.<br>
-
 _Produced by:_ Samuel Goldwyn<br>
-
 _Assistant Director:_ William Tummel<br>
-
 _Screen Play by:_ Charles Brackett, Billy Wilder<br>
-
-_From an original story by:_ Billy Wilder,  
-Thomas Monroe<br>
+_From an original story by:_ Billy Wilder,  Thomas Monroe<br>
 _Photography:_ Gregg Toland<br>
 _Film Editor:_ Daniel Mandell<br>
 _Art Direction:_ Perry Ferguson<br>
@@ -41,9 +39,8 @@ _Music:_ Alfred Newman<br>
 _Sound Technician:_ Frank Maher<br>
 _Sound System:_ Western Electric Mirrophonic<br>
 
-Cast:_<br>
-
-Gry Cooper _(Professor Bertram Potts)_<br>
+**Cast**<br>
+Gary Cooper _(Professor Bertram Potts)_<br>
 Barbara Stanwyck _(Sugarpuss O’Shea)_<br>
 Oscar Homolka _(Professor Gurkakoff)_<br>
 Dana Andrews _(Joe Lilac)_<br>
@@ -93,10 +90,65 @@ Johnnie Morris _(clerk for justice of peace)_<br>
 Edward Clark _(motor court proprietor)_<br>
 
 USA 1941©<br>
-  112 mins
+112 mins
 
 A BFI National Archive print<br>
 <br>
+
+**RAZOR SHARP: THE FABULOUS WOMEN OF HOWARD HAWKS**<br>
+**Razor Sharp: The Hawksian Woman Revisited**<br>
+Thu 1 Jun 18:15<br>
+**Twentieth Century**
+Thu 1 Jun 20:40; Fri 16 Jun 18:30;  Thu 22 Jun 21:00<br>
+**Barbary Coast**<br>
+Fri 2 Jun 18:20; Thu 15 Jun 20:40<br>
+**Bringing Up Baby**<br>
+Sat 3 Jun 12:00; Mon 19 Jun 20:40;  Fri 23 Jun 18:20<br>
+**Only Angels Have Wings**<br>
+Sat 3 Jun 15:45; Thu 15 Jun 14:30;  Tue 27 Jun 17:50<br>
+**Ball of Fire**<br>
+Sat 3 Jun 17:55; Tue 20 Jun 20:30<br>
+**To Have and Have Not**<br>
+Sun 4 Jun 19:00; Fri 23 Jun 20:40<br>
+**I Was a Male War Bride  (aka You Can’t Sleep Here)**<br>
+Wed 7 Jun 20:35; Sun 25 Jun 18:30<br>
+**Rio Bravo**<br>
+Mon 12 Jun 17:50; Sun 18 Jun 14:30;  Fri 30 Jun 20:20<br>
+**His Girl Friday**<br>
+Wed 14 Jun 20:50; Sat 17 Jun 13:30; Thu 29 Jun 18:20 (+ intro by Catherine Wheatley, King’s College London)<br>
+**Gentlemen Prefer Blondes**<br>
+Thu 15 Jun 18:15: Thu 29 Jun 21:00<br>
+**The Big Sleep**<br>
+Wed 21 Jun 18:25; Wed 28 Jun 20:45<br>
+**The Thing from Another World**<br>
+Sat 24 Jun 18:30; Fri 30 Jun 18:15<br>
+**Philosophical Screens:  The Philosophy of Marriage: His Girl Friday**<br>
+Thu 29 Jun 20:15 BFI Reuben Library<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMzM1ODY4MDIzLC03NTUyODMyNzldfQ==
 -->
