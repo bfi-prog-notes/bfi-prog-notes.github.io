@@ -1,5 +1,15 @@
+---
+layout: post
+title: La dolce vita
+published: true
+date: 2023-06-03
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Crime, Drama]
+metadata: 'USA 1991, 112 mins<br> Director: John Singleton'
+pdf: '2023-06-03-boyz-n-the-hood.pdf'
+---
 
-<![endif]-->
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -28,6 +38,84 @@ As for what _La dolce vita_ is really about, well, one answer could be: varietie
 But Fellini’s film has none of the solemnity of those travelling companions. On one level it’s a savagely wry Dance of the Dead, a debased version of _Inferno_ in which Dante’s serious pilgrim is replaced by an ethically compromised chronicler who doesn’t so much observe and pity the damned as get into bed with them. Yet at the same time the film is imbued with the heady sense that an old, repressive order is changing. And we also feel that, however misguided and short-lived the protagonist’s attempts at redemption are, he might just one day find one that works and lasts. Or then again, he might not. Last time I watched the film, it suddenly struck me what this spirit of ‘hopeful farce’ reminded me of. It’s Chekhov, of course. _La dolce vita_ is one of the most truly Chekhovian films in the history of cinema.  
 **Lee Marshall, _Sight and Sound_, May 2010**  
 <br>
+
+**LA DOLCE VITA**  
+_Director:_ Federico Fellini  
+_Production Companies:_ Riama Film, Cinecittà, Pathé Consortium Cinéma  
+_Production Company:_ Gray Films *  
+_Executive Producer:_ Franco Magli  
+_Presented by:_ Giuseppe Amato  
+_Producer:_ Angelo Rizzoli *  
+_Production Supervisor:_ Clemente Fracassi  
+_Production Managers:_ Nello Meniconi,  
+Manlio M. Morelli  
+_Unit Manager:_ Alessandro von Norman  
+_Production Secretaries:_ Mario Basili,  
+Mario Di Biase, Osvaldo De Micheli  
+_Artistic Collaborator:_ Brunello Rondi  
+_Assistant Directors:_ Guidarino Guidi, Paolo Nuzzi, Dominique Delouche  
+_2nd Assistant Directors:_ Giancarlo Romani, Gianfranco Mingozzi, Lili Veenman  
+_Script Supervisor:_ Isa Mari  
+_Story/Screenplay:_ Federico Fellini, Ennio Flaiano, Tullio Pinelli  
+_Screenplay Collaborator:_ Brunello Rondi  
+_Story:_ Federico Fellini, Ennio Flaiano, Tullio Pinelli  
+_Director of Photography:_ Otello Martelli  
+_Camera Operator:_ Arturo Zavattini  
+_Assistant Operator:_ Ennio Guarnieri  
+_Editor:_ Leo Catozzo  
+_Assistant Editors:_ Adriana Olasio, Wanda Olasio  
+_Art Director:_ Piero Gherardi  
+_Assistant Art Director/Costumes:_  
+Giorgio Giovannini, Lucia Mirisola, Vito Anzalone  
+_Costumes:_ Piero Gherardi  
+_Make-up:_ Otello Fava  
+_Assistant Make-up:_ Sergio Angeloni  
+_Hairdresser:_ Renata Magnanti  
+_Music:_ Nino Rota  
+_Music Collaborator:_ Armando Trovaioli  
+_Music Performed by:_ Campanino,  
+Adriano Celentano  
+_Music Director:_ Franco Ferrara  
+_Sound:_ Agostino Moretti, Oscar Di Santo  
+_Technical Equipment:_ Cinecittà  
+_Sound System:_ Western Electric  
+_Studio:_ Cinecittà  
+
+**Cast**
+Marcello Mastroianni _(Marcello Rubini, newspaperman)_  
+Anita Ekberg _(Sylvie, Hollywood star)_  
+Anouk Aimée _(Maddalena)_  
+Yvonne Furneaux _(Emma)_  
+Magali Noël _(Fanny)_  
+Alain Cuny _(Steiner)_  
+Annibale Ninchi _(Marcello’s father)_  
+Walter Santesso _(paparazzo)_  
+Valeria Ciangottini _(Paola, innocent girl)_  
+Riccardo Garrone _(Riccardo, villa owner)_  
+Ida Galli _(debutante of the year)_  
+Audrey McDonald _(Sonia)_  
+Polidor _(tabarin clown)_  
+Alain Dijon _(Frankie Stout)_  
+Enzo Cerusico _(3rd paparazzo)_  
+Giulio Paradisi _(Tiziano, 2nd paparazzo)_  
+Enzo Doria _(4th paparazzo)_  
+Enrico Glori _(Nadia’s admirer)_  
+Adriana Moneta _(prostitute)_  
+Massimo Busetti _(gossip on Via Veneto)_  
+Mino Doro _(Nadia’s lover)_  
+Giulio Girola _(police inspector)_  
+Laura Betti _(Laura, blonde actress/singer)_  
+Nico Otzak _(sophisticated blonde in Via Veneto)_  
+Domino _(The Fregene night sequence)_  
+Carlo Musto _(2nd transvestite)_  
+Lex Barker _(Robert)_  
+Jacques Sernas _(film star)_  
+Nadia Gray _(Nadia)_  
+_uncredited cast_  
+Harriet White _(Edna, Sylvie’s secretary);_ Renée Longarini _(Mrs Steiner);_ Carlo Di Maggio _(Totò Scalise, producer);_ Sandra Lee _(Spoleto ballerina);_ Gloria Jones _(Gloria);_ Lilli Granado _(Lucy);_ Cesare Miceli Picardi _(irritated man at dance);_ Donatella Esparmer _(woman with irritated man);_ Maria Pia Serafini _(2nd woman with irritated man);_ Oscar Ghiglia, Gino Marturano _(pimps);_ Tómas Torres _(Giannelli, journalist in hospital);_ Carlo Mariotti _(nurse);_ Leonardo Botta _(doctor);_ Francesco Luzi _(radio commentator);_ Franco Consalvo _(assistant ‘sociale’);_ Guglielmo Leoncini _(Scalise’s secretary);_ Sandy Von Norman _(interpreter at press conference);_ Tiziano Cortini _(newsreel photographer);_ Donatella Della Nora, Maité Morand, Donato Castellaneta, John Francis Lane, Concetta Ragusa, François Dieudonné, Mario Mallamo, Nadia Balabine, Umberto Felici _(journalists at press conference);_ Fabrizio Capucci _(photographer at press conference);_ Adriano Celentano _(rock ‘n’ roll singer);_ Gondrano Trucchi _(waiter at Caracalla’s);_ Giò Staiano _(Pierone, effeminate youth);_ Archie Savage _(coloured dancer);_ Paolo Labia _(waiter at Maddalena’s);_ Giacomo Gabrielli _(Maddalena’s father);_ Giulio Questi _(Don Giulio);_ Anna Maria Salerno _(prostitute’s friend);_ Rina Franchetti _(children’s mother);_ Aurelio Nardi _(children’s uncle);_ Alfredo Rizzo _(TV director);_ Marianne Leibl _(Yvonne’s companion);_ Iris Tree _(poetess);_ Vadim Wolkonsky _(Prince Mascalchi);_ Rosemary Rennel Rodd _(English medium);_ Ferdinando Brofferio _(Maddalena’s lover);_ Doris Pignatelli _(lady in white coat);_ Loretta Ramacciotti _(woman in séance);_ Antonio Jacono _(transvestite);_ Tito Buzzo _(muscle man);_ Leontine Van Strein _(matinee idol’s girlfriend);_ Leo Coleman _(coloured dancer);_ Franca Pasut _(woman covered with feathers);_ Eugenio Ruspoli Di Poggio Suasa _(Don Eugenio Mascalchi);_ Daniela Calvino _(Daniela);_ Henry Thody, Maurizio Guelfi _(journalist at press conferences);_ Leonida Repaci, Anna Salvatore, Letizia Spadini, Margherita Russo, Winie Vagliani, Desmond O’Grady  (_Steiner’s other guests);_ Ivenda Dobrzensky _(Giovanni);_ Maria Teresa Vianello, Angela Giavalisco, Maria Mazzanti _(people at airport);_ Gloria Hendy, Noel Sheldon, April Hennessy, Angela Wilson _(people on Via Veneto);_ Giovanni Querrel _(man at nightclub);_ Campanino _(band at nightclub);_ Giulio Citti _(man at nightclub);_ Lisa Schneider, Aldo Vasco, Francisco Lori, Romolo Giordani, Ada Passeri _(miracle sequences);_ Nina Hohenloe, Maria Marigliano, Mario De Grenet, Franco Rossellini, Joan Antequera _(person at castles);_ Orietta Fiume; Katherine Denise; Mario Conocchia; Umberto Orsini; Lucia Vasilico; Marta Melocco; Antoinette Weynen  
+
+Italy/France 1960  
+176 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE3NjE2MDZdfQ==
+eyJoaXN0b3J5IjpbLTEyODc4NjIxNzddfQ==
 -->
