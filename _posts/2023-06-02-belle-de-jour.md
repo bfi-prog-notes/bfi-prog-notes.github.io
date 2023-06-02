@@ -20,6 +20,146 @@ Buñuel’s last great film is close in spirit to his first great film, _L’Age
 Buñuel: ‘_Belle de Jour_ is a pornographic film ... by that I mean _chaste_ eroticism.’
 
 Elliott Stein, _Sight and Sound_, Autumn 1967
+
+<![endif]-->
+
+**BELLE DE JOUR**
+
+_A film by:_ Luis Buñuel
+
+©: Paris Film Production
+
+_Co-production:_ Paris Film Production, Five Films
+
+_Production/Presented by:_ Robert Hakim,  
+Raymond Hakim
+
+_Production Manager:_ Henri Baum
+
+_Unit Manager:_ Marc Goldstaub
+
+_1st Assistant Director:_ Pierre Lary
+
+_2nd Assistant Director:_ Jacques Fraenkel
+
+_Script Supervisor:_ Suzanne Durrenberger
+
+_Adaptation/Dialogue:_ Luis Buñuel,  
+Jean-Claude Carrière
+
+_Based on the novel by:_ Joseph Kessel
+
+_Director of Photography:_ Sacha Vierny
+
+_Camera Operator:_ Philippe Brun
+
+_1st Assistant Camera:_ Pierre Li
+
+_2nd Assistant Camera:_ Lionel Legros
+
+_Stills Photography:_ Raymond Voinquel
+
+_Supervising Editor:_ Louisette Hautecæur
+
+_Assistant Editor:_ Walter Spohr
+
+_Art Director:_ Robert Clavel
+
+_Assistant Art Director:_ Marc Robert Desages
+
+_Set Decorator:_ Maurice Barnathan
+
+_Properties:_ Pierre Roudeix
+
+_Catherine Deneuve’s Dresses by:  
+_Yves Saint Laurent
+
+_Costumer:_ Hélène Nourry
+
+_Key Make-up:_ Janine Jarreau
+
+_Hairstylist:_ Simone Knapp
+
+_Sound Recording:_ René Longuet
+
+_Sound Assistant:_ Pierre Davoust
+
+_Sound Re-recording:_ Poste Parisien
+
+_Novel ‘Belle de Jour’ Published by:_  
+Editions Gallimard
+
+_Studio:_ Franstudio-Saint Maurice
+
+_Cast:_
+
+Catherine Deneuve _(Séverine Serizy)_
+
+Jean Sorel _(Pierre Serizy)_
+
+Michel Piccoli _(Henri Husson)_
+
+Geneviève Page _(Madame Anaïs)_
+
+Pierre Clémenti _(Marcel)_
+
+Françoise Fabian _(Charlotte)_
+
+Macha Méril _(Renée)_
+
+Muni _(Pallas)_
+
+Maria Latour _(Mathilde)_
+
+Claude Cerval _(chauffeur)_
+
+Michel Charrel _(footman)_
+
+Iska Khan _(Asian client)_
+
+Bernard Musson _(major-domo)_
+
+Marcel Charvey _(Professor Henri)_
+
+François Maistre _(the professor)_
+
+Francisco Rabal _(Hippolyte)_
+
+Georges Marchal _(the duke)_
+
+Francis Blanche _(Monsieur Adolphe)_
+
+_uncredited:_
+
+Bernard Fresson _(Le Gríle)_
+
+Dominique Dandrieux _(Henriette)_
+
+Brigitte Parmentier _(Séverine as a child)_
+
+D. de Roseville _(coachman)_
+
+Pierre Marcay _(intern)_
+
+Adélaide Blasquez _(maid)_
+
+Marc Eyraud _(barman)_
+
+Max Elloy _(the duke’s butler)_
+
+Luis Buñuel _(man at café)_
+
+Louis Viret _(debt collector)_
+
+Stéphane Bouy, Antonio Passalia _(men in bar)_
+
+Pierre Vaudier, Albert Daumergue _(surgeons)_
+
+Claude Salez _(man who strikes Marcel)_
+
+France-Italy 1967©
+
+101 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDQ5OTAzNjhdfQ==
+eyJoaXN0b3J5IjpbLTExOTQ2MDI0NTBdfQ==
 -->
