@@ -26,86 +26,45 @@ Singleton is the most successful of the new directors at translating the swing a
 and pathetic.  
 **_Sight and Sound_, August 1991**  
 <br>
-<![endif]-->
 
-**Boyz N the Hood**
-
-_Directed by:_ John Singleton
-
+**BOYZ N THE HOOD**  
+_Directed by:_ John Singleton  
 _©:_ Columbia Pictures Industries, Inc.
-
 _Presented by:_ Columbia Pictures
-
 _A_ Columbia Pictures _release_
-
 _Produced by:_ Steve Nicolaides
-
 _Production Associate:_ Kendrick J. Wallace
-
 _Production Accountant:_ Katha Jones
-
 _Production Co-ordinator:_ Linda Allan-Folsom
-
 _Unit Production Manager:_ Steve Nicolaides
-
 _Location Manager:_ Ernest Kojo Lewis
-
 _1st Assistant Director:_ Don Wilkerson
-
 _Script Supervisor:_ Dawn Gilliam
-
 _Casting by:_ Jaki Brown
-
 _Screenplay:_ John Singleton
-
 _Director of Photography:_ Charles Mills
-
 _Camera Operator:_ Tony Gaudioz
-
 _1st Assistant Camera:_ Robert A. Torres
-
 _Key Grip:_ Chuck Wells
-
 _Still Photographer:_ D. Stevens
-
 _Special Effects:_ Special Effects Unlimited
-
 _Edited by:_ Bruce Cannon
-
 _Art Director:_ Bruce Bellamy
-
 _Set Decorator:_ Kathryn Peters
-
 _Property Master:_ Willie J. Thompson
-
 _Men’s Wardrobe:_ Darryle Johnson
-
 _Women’s Wardrobe:_ Shirlene Williams
-
 _Make-up:_ Marietta A. Carter
-
 _Hairstylist:_ Sterfon Demings
-
 _Titles/Opticals by:_ Cinema Research Corporation
-
 _Original Music Score by:_ Stanley Clarke
-
 _Music Supervisor:_ Raoul Roach
-
 _Music Editor:_ Jamie Gelb
-
 _Sound Mixer:_ Veda Campbell
-
 _Boom Operator:_ Michael Anthony Patillo
-
-_Re-recording Mixers:_ Paul Massey,
-
-Don DiGirolamo, Bob Glass
-
+_Re-recording Mixers:_ Paul Massey, Don DiGirolamo, Bob Glass
 _Supervising Sound Editor:_ Patrick Drummond
-
 _Drive-by Sequence/Beats:_ DJ Pooh
-
 _Stunt Co-ordinator:_ Bob Minor
 
 **Cast**  
@@ -158,5 +117,5 @@ Gerard Williams _(utility stunt 2)_
 USA 1991©
 112 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDcxNDc5M119
+eyJoaXN0b3J5IjpbMTQ4MjEwNDQ4OF19
 -->
