@@ -31,121 +31,65 @@ _Screen Play by:_ Charles Brackett, Billy Wilder<br>
 
 _From an original story by:_ Billy Wilder,  
 Thomas Monroe<br>
-
 _Photography:_ Gregg Toland<br>
-
 _Film Editor:_ Daniel Mandell<br>
-
 _Art Direction:_ Perry Ferguson<br>
-
 _Associate Art Director:_ McClure Capps<br>
-
 _Set Decorations:_ Howard Bristol<br>
-
 _Miss Barbara Stanwyck’s Costumes:_ Edith Head<br>
-
 _Music:_ Alfred Newman<br>
-
 _Sound Technician:_ Frank Maher<br>
-
 _Sound System:_ Western Electric Mirrophonic<br>
 
-_Cast:_<br>
+Cast:_<br>
 
-Gary Cooper _(Professor Bertram Potts)_<br>
-
+Gry Cooper _(Professor Bertram Potts)_<br>
 Barbara Stanwyck _(Sugarpuss O’Shea)_<br>
-
 Oscar Homolka _(Professor Gurkakoff)_<br>
-
 Dana Andrews _(Joe Lilac)_<br>
-
 Dan Duryea _(Duke Pastrami)_<br>
-
 Henry Travers _(Professor Jerome)_<br>
-
 S.Z. Sakall _(Profesor Magenbruch)_<br>
-
 Tully Marshall _(Professor Robinson)_<br>
-
 Leonid Kinskey _(Professor Quintana)_<br>
-
 Richard Haydn _(Professor Oddly)_<br>
-
 Aubrey Mather _(Professor Peagram)_<br>
-
 Allen Jenkins _(garbage man)_<br>
-
 Gene Krupa and His Orchestra _(themselves)_<br>
-
 Ralph Peters _(Asthma Anderson)_<br>
-
 Kathleen Howard _(Miss Bragg)_<br>
-
 Mary Field _(Miss Totten)_<br>
-
 Charles Lane _(Larsen)_<br>
-
 Charles Arnt _(McNeary)_<br>
-
 Elisha Cook Jr _(waiter)_<br>
-
 Alan Rhein _(‘Horseface’)_<br>
-
 Eddie Foster _(pinstripe)_<br>
-
 Aldrich Bowker _(justice of the peace)_<br>
-
 Addison Richards _(district attorney)_<br>
-
 Pat West _(bum)_<br>
-
 Kenneth Howell _(college boy)_<br>
-
 Tommy Ryan _(newsboy)_<br>
-
 Tim Ryan _(motor cop)_<br>
-
 Will Lee _(‘Benny, the Creep’)_<br>
 
 _uncredited_<br>
-
 Otto Hoffman _(stage doorman)_<br>
-
 Ed Mundy _(spieler)_<br>
-
 Geraldine Fissette _(hula dancer)_<br>
-
 June Horne, Ethelreda Leopold _(nursemaids in park)_<br>
-
 Walter Shumway, George Barton _(garbagemen)_<br>
-
 Merrilee Lannon, Doria Caron _(girls in subway)_<br>
-
 Helen Seamon, Catherine Henderson _(college girls)_<br>
-
 Jack Perry _(fighting bum)_<br>
-
 Lorraine Miller _(girl in cafe)_<br>
-
 Mildred Morris _(chorus girl)_<br>
-
 Francis Sayles _(taxi driver)_<br>
-
 Gerald Pierce _(delivery boy)_<br>
-
 Chet De Vito _(toll keeper)_<br>
-
 Pat Flaherty, George Sherwood _(deputies)_<br>
-
 Del Lawrence _(Irish gardener)_<br>
-
-Eddy Chandler, Lee Phelps, Kenneth Christy,
-
-Dick Rush, Oscar Chalkee Williams _(cops)_<br>
-
+Eddy Chandler, Lee Phelps, Kenneth Christy,Dick Rush, Oscar Chalkee Williams _(cops)_<br>
 Johnnie Morris _(clerk for justice of peace)_<br>
-
 Edward Clark _(motor court proprietor)_<br>
 
 USA 1941©<br>
@@ -154,5 +98,5 @@ USA 1941©<br>
 A BFI National Archive print<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTI4MzI3OSwtMTU1Njc3NDA4Nl19
+eyJoaXN0b3J5IjpbMzM1ODY4MDIzLC03NTUyODMyNzldfQ==
 -->
