@@ -8,117 +8,114 @@ A thoroughly American fiction of the 1930s, _Bringing Up Baby_ is also a timeles
 
 _‘Bringing Up Baby_ is hardly a departure’, wrote Otis Ferguson in _The New Republic_ (2 March 1938) when the film came out. Less temperately, Frank S. Nugent in _The New York Times_ panned it for being an array of clichés: his review is worth quoting at some length: ‘And the gags! Have you heard the one about the trained leopard and the wild leopard who get loose at the same time? Or the one about the shallow brook with the deep hole? Or the one about the man wearing a woman’s negligee? Or the one about the Irishman who drains his flask and sees a wild animal which really is a wild animal? You have? Surprising…  Well then, how about the one where the man slips and sits on his top hat? Or the one where the heroine is trying to arouse a sleeper by tossing pebbles at his window and, just as he pokes his head out, hits him neatly with a bit of cobblestone? Or, getting back to the leopard who is the “baby” of the title, would you laugh madly if Charles Ruggles did a leopard-cry imitation as an after-dinner stunt and commented two minutes later upon the unusual echo?’
 
-Well yes I would, and usually do. Even reading these scornful enumeratings I feel like laughing. It can’t entirely be a question of the novelty value of the gags, since I’ve seen the film dozens of times now and they haven’t stopped working for me. More than just making me laugh, though, _Bringing Up Baby_ has a strange power to make me feel happy about the world. It takes such a positive view of human absurdity, gives such a welcome to trusting in luck, nerve and character, puts work and worry so decisively in their place, subordinate to vitality and what screwball comedy tends to call ‘fun’. Funny, certainly, but ‘fun’ too, in the cryptically value-laden sense which screwball gives to the idea  
-of ‘fun’.
+Well yes I would, and usually do. Even reading these scornful enumeratings I feel like laughing. It can’t entirely be a question of the novelty value of the gags, since I’ve seen the film dozens of times now and they haven’t stopped working for me. More than just making me laugh, though, _Bringing Up Baby_ has a strange power to make me feel happy about the world. It takes such a positive view of human absurdity, gives such a welcome to trusting in luck, nerve and character, puts work and worry so decisively in their place, subordinate to vitality and what screwball comedy tends to call ‘fun’. Funny, certainly, but ‘fun’ too, in the cryptically value-laden sense which screwball gives to the idea  of ‘fun’.
 
 _Bringing Up Baby_ is – despite what Ferguson and Nugent say – in many ways a ‘departure’. For _Bringing Up Baby_ is both the epitome of screwball comedy and an exception to its rules. Its epitome, for chaos, wildness, a heroine who is far from subordinated, and gags with some comic tradition behind them, an exception in that it’s not moralistic or idealistic, not particularly interested in marriage or remarriage, and not interested in the meeting of wealth and poverty.
 
 American screwball comedy was a rich transient genre with a number of precursors. Many films (though not _Baby_) were adaptations of stage plays, and the genre owed something to theatrical traditions. Beyond the world of theatre, the films also had a debt, naturally enough, to earlier cinema, above all to silent comedy and in particular to Charlie Chaplin’s marriage of slapstick anarchy with social awareness. But screwball is a headily verbal genre too, and its fast-talking and wise-cracking and crackling pace was made possible by the advent of sound. Screwball women frequently talk as fast as Groucho Marx, and the films are alive with fresh imaginations of adult relationships under a new banner of equality.’ The finest years of the genre come in the aftermath of the Great Depression, and most of the great films get an edge and urgency from that context, and an edifying sense that, for all the mayhem, these are stories engaging seriously with contemporary America. In the most frequent plot structures one or more of the protagonists is brought to recognise the reality of poverty or the need for money to take second place to love.
 
-Screwball masterpieces of this kind include the inaugurative _It Happened One Night_ (1934), _My Man Godfrey_ (1936) and _Sullivan’s Travels_ (1941). But _Bringing Up Bab_y isn’t interested in the ideology of the politically responsible American couple, nor is the social inequality of the couple the grounding interest of their relationship.
+Screwball masterpieces of this kind include the inaugurative _It Happened One Night_ (1934), _My Man Godfrey_ (1936) and _Sullivan’s Travels_ (1941). But _Bringing Up Baby_ isn’t interested in the ideology of the politically responsible American couple, nor is the social inequality of the couple the grounding interest of their relationship.
 
 Pauline Kael has called _Bringing Up Baby_ ‘an equivalent of Restoration comedy’, and Stanley Cavell’s important book on screwball comedy has invoked late Shakespeare. Both comparisons are well worth pondering, but the closest analogue of the film, to my mind, lies in the stories of P.G. Wodehouse. Think of the elements they share: a world blithely beyond real money troubles despite the plot turning on huge inheritances; animal-fancying eccentrics; specialists in mental disorder; farcical complications; family set-ups more dominated by aunts and uncles than parents; and the magical provision of an ending in which we can be confident the tangled webs will unravel. As with Wodehouse, the pleasure comes partly from the sense of how unlike our own world this one is. In comedy, things work out more happily than they do in life, and one secret of comedy is to allow us self-consciously to relish the differences.
 
-But the crucial difference between Wodehouse and Hawks is that this really is a love story. What Dr Lehman, the film’s Germanic shrink, calls ‘the love impulse’ isn’t weightless in _Bringing Up Baby_ as it is in Wodehouse, so there is a poignancy to the film that Wodehouse doesn’t reach to. The sense that in its crazy way the story is an allegory of a much more ordinary irrationality in the pursuit of love makes it one of the most romantic of Hollywood films. Susan is nothing if not brave in pursuing her unlikely love object, while David in the denouement takes on a snarling leopard (not being Clark Gable or Spencer Tracy, he faints into female arms after his moment of big-game-hunterly virility). As in Hitchcock’s great comedy-thrillers, there is a connection between comedy and courage – a belief that though the world sometimes seems mad (whether through love or espionage), a mettlesome hero or heroine can well enough cope with it.
+But the crucial difference between Wodehouse and Hawks is that this really is a love story. What Dr Lehman, the film’s Germanic shrink, calls ‘the love impulse’ isn’t weightless in _Bringing Up Baby_ as it is in Wodehouse, so there is a poignancy to the film that Wodehouse doesn’t reach to. The sense that in its crazy way the story is an allegory of a much more ordinary irrationality in the pursuit of love makes it one of the most romantic of Hollywood films. Susan is nothing if not brave in pursuing her unlikely love object, while David in the denouement takes on a snarling leopard (not being Clark Gable or Spencer Tracy, he faints into female arms after his moment of big-game-hunterly virility). As in Hitchcock’s great comedy-thrillers, there is a connection between comedy and courage – a belief that though the world sometimes seems mad (whether through love or espionage), a mettlesome hero or heroine can well enough cope with it.  
+**Extracted from _Bringing Up Baby_ by Peter Swaab (BFI Film Classics, 2010).  
+Reproduced by kind permission of Bloomsbury Publishing. ©Peter Swaab**
+<br><br>
 
-Extracted from _Bringing Up Baby_ by Peter Swaab (BFI Film Classics, 2010).  
-Reproduced by kind permission of Bloomsbury Publishing. ©Peter Swaab
+**BRINGING UP BABY**<br>
 
-<![endif]-->
+_Directed by:_ Howard Hawks<br>
 
-**BRINGING UP BABY**
+_©/Presented by:_ RKO Radio Pictures<br>
 
-_Directed by:_ Howard Hawks
+_Associate Producer:_ Cliff Reid<br>
 
-_©/Presented by:_ RKO Radio Pictures
+_Assistant Director:_ Edward Donahue<br>
 
-_Associate Producer:_ Cliff Reid
+_Screenplay by:_ Dudley Nichols, Hagar Wilde<br>
 
-_Assistant Director:_ Edward Donahue
+_From the story by:_ Hagar Wilde<br>
 
-_Screenplay by:_ Dudley Nichols, Hagar Wilde
+_Director of Photography:_ Russell Metty<br>
 
-_From the story by:_ Hagar Wilde
+_Special Effects by:_ Vernon L. Walker<br>
 
-_Director of Photography:_ Russell Metty
+_Edited by:_ George Hively<br>
 
-_Special Effects by:_ Vernon L. Walker
+_Art Director:_ Van Nest Polglase<br>
 
-_Edited by:_ George Hively
+_Associate Art Director:_ Perry Ferguson<br>
 
-_Art Director:_ Van Nest Polglase
+_Set Dressing by:_ Darrell Silvera<br>
 
-_Associate Art Director:_ Perry Ferguson
+_Gowns by:_ Howard Greer<br>
 
-_Set Dressing by:_ Darrell Silvera
+_Musical Director:_ Roy Webb<br>
 
-_Gowns by:_ Howard Greer
+_Sound Recorded by:_ John L. Cass<br>
 
-_Musical Director:_ Roy Webb
+_Sound Recorded by:_ RCA Victor System<br>
 
-_Sound Recorded by:_ John L. Cass
+_uncredited_<br>
 
-_Sound Recorded by:_ RCA Victor System
+_Production Manager:_ J.R. Crone<br>
 
-_uncredited_
+_Unit Manager:_ George Rogell<br>
 
-_Production Manager:_ J.R. Crone
+_Camera Operator:_ Charles Burke<br>
 
-_Unit Manager:_ George Rogell
+_Make-up:_ Mel Berns<br>
 
-_Camera Operator:_ Charles Burke
+_Double for Cary Grant:_ Jimmy Dundee<br>
 
-_Make-up:_ Mel Berns
+_Double for Katharine Hepburn:_ Helen Thurston<br>
 
-_Double for Cary Grant:_ Jimmy Dundee
+_Nissa’s Trainer:_ Madame Olga Celeste<br>
 
-_Double for Katharine Hepburn:_ Helen Thurston
+_Cast:_<br>
 
-_Nissa’s Trainer:_ Madame Olga Celeste
+Katharine Hepburn _(Susan Vance)_<br>
 
-_Cast:_
+Cary Grant _(David Huxley)_<br>
 
-Katharine Hepburn _(Susan Vance)_
+Charlie Ruggles _(Major Horace Applegate)_<br>
 
-Cary Grant _(David Huxley)_
+Walter Catlett _(Constable Slocum)_<br>
 
-Charlie Ruggles _(Major Horace Applegate)_
+Barry Fitzgerald _(Gogarty)_<br>
 
-Walter Catlett _(Constable Slocum)_
+May Robson _(Aunt Elizabeth)_<br>
 
-Barry Fitzgerald _(Gogarty)_
+Fritz Feld _(Dr Fritz Lehmann)_<br>
 
-May Robson _(Aunt Elizabeth)_
+Leona Roberts _(Mrs Hannah Gogarty)_<br>
 
-Fritz Feld _(Dr Fritz Lehmann)_
+George Irving _(Alexander Peabody)_<br>
 
-Leona Roberts _(Mrs Hannah Gogarty)_
+Tala Birell _(Mrs Lehmann)_<br>
 
-George Irving _(Alexander Peabody)_
+Virginia Walker _(Alice Swallow)_<br>
 
-Tala Birell _(Mrs Lehmann)_
+John Kelly _(Elmer)_<br>
 
-Virginia Walker _(Alice Swallow)_
+_uncredited_<br>
 
-John Kelly _(Elmer)_
+D’Arcy Corrigan _(Professor La Touche)_<br>
 
-_uncredited_
+Buster Slavin _(Peabody’s caddy)_<br>
 
-D’Arcy Corrigan _(Professor La Touche)_
+Billy Benedict _(David’s caddy)_<br>
 
-Buster Slavin _(Peabody’s caddy)_
+George Humbert _(Louis, the headwaiter)_<br>
 
-Billy Benedict _(David’s caddy)_
+Terry Moore _(hat check girl)_<br>
 
-George Humbert _(Louis, the headwaiter)_
+Billy Bevan _(Joe, bartender)_<br>
 
-Terry Moore _(hat check girl)_
+Jack Gardner _(delivery man)_<br>
 
-Billy Bevan _(Joe, bartender)_
-
-Jack Gardner _(delivery man)_
-
-Nissa _(Baby, the leopard)_
+Nissa _(Baby, the leopard)_<br>
 
 Stanley Blystone _(doorman)_
 
@@ -152,5 +149,5 @@ USA 1938©
 
 102 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjYyNzk3Nl19
+eyJoaXN0b3J5IjpbMjAyOTM3OTAzMV19
 -->
