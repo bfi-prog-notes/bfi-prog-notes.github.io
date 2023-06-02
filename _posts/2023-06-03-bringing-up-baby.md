@@ -1,1 +1,156 @@
 
+_Bringing Up Baby_ is one of the greatest screwball comedies and a treasure from the Golden Age of Hollywood. Cary Grant plays a naive and repressed palaeosaurologist who becomes entangled with (and ensnared by) a wilful heiress (Katharine Hepburn). Chaos ensues as romance blossoms and not one but two leopards are set loose in verdant Connecticut. All of Hawks’s signature skills are to the fore: there is the wonderful ensemble cast, the characteristically refined but unselfconscious visual style, an endless succession of pratfalls, innuendo and jokes (written by Dudley Nichols and Hagar Wilde) and, underneath the chaos and good cheer, a serious dream of escaping life’s troubles by that of nothing more or less than nerve and luck.
+
+There are no human babies in _Bringing Up Baby_, but there are those leopards and the relentless terrier George – and Hawks’s film wonders profoundly why we want animals in our lives and why we sometimes need to behave as animals ourselves. Many screwball films have been seen as comedies of remarriage, but this one is not much interested in marriage and is instead more captivated by instinct, irresponsibility and the wild abnormalities of romance.
+
+The film is in its way an American dream of independence, and believes the real way to get on in life – for filmmakers as well as scientists – isn’t by deference and respectability but by having sexy fun with the right people.  
+A thoroughly American fiction of the 1930s, _Bringing Up Baby_ is also a timelessly classical comic narrative, exploring conflicts between civilisation and nature, rationality and insanity, middle-class inhibitions and aristocratic blitheness. And it is the epitome of film comedy, an anthology of comic types and devices, and one of the most seductively funny films ever made.
+
+_‘Bringing Up Baby_ is hardly a departure’, wrote Otis Ferguson in _The New Republic_ (2 March 1938) when the film came out. Less temperately, Frank S. Nugent in _The New York Times_ panned it for being an array of clichés: his review is worth quoting at some length: ‘And the gags! Have you heard the one about the trained leopard and the wild leopard who get loose at the same time? Or the one about the shallow brook with the deep hole? Or the one about the man wearing a woman’s negligee? Or the one about the Irishman who drains his flask and sees a wild animal which really is a wild animal? You have? Surprising…  Well then, how about the one where the man slips and sits on his top hat? Or the one where the heroine is trying to arouse a sleeper by tossing pebbles at his window and, just as he pokes his head out, hits him neatly with a bit of cobblestone? Or, getting back to the leopard who is the “baby” of the title, would you laugh madly if Charles Ruggles did a leopard-cry imitation as an after-dinner stunt and commented two minutes later upon the unusual echo?’
+
+Well yes I would, and usually do. Even reading these scornful enumeratings I feel like laughing. It can’t entirely be a question of the novelty value of the gags, since I’ve seen the film dozens of times now and they haven’t stopped working for me. More than just making me laugh, though, _Bringing Up Baby_ has a strange power to make me feel happy about the world. It takes such a positive view of human absurdity, gives such a welcome to trusting in luck, nerve and character, puts work and worry so decisively in their place, subordinate to vitality and what screwball comedy tends to call ‘fun’. Funny, certainly, but ‘fun’ too, in the cryptically value-laden sense which screwball gives to the idea  
+of ‘fun’.
+
+_Bringing Up Baby_ is – despite what Ferguson and Nugent say – in many ways a ‘departure’. For _Bringing Up Baby_ is both the epitome of screwball comedy and an exception to its rules. Its epitome, for chaos, wildness, a heroine who is far from subordinated, and gags with some comic tradition behind them, an exception in that it’s not moralistic or idealistic, not particularly interested in marriage or remarriage, and not interested in the meeting of wealth and poverty.
+
+American screwball comedy was a rich transient genre with a number of precursors. Many films (though not _Baby_) were adaptations of stage plays, and the genre owed something to theatrical traditions. Beyond the world of theatre, the films also had a debt, naturally enough, to earlier cinema, above all to silent comedy and in particular to Charlie Chaplin’s marriage of slapstick anarchy with social awareness. But screwball is a headily verbal genre too, and its fast-talking and wise-cracking and crackling pace was made possible by the advent of sound. Screwball women frequently talk as fast as Groucho Marx, and the films are alive with fresh imaginations of adult relationships under a new banner of equality.’ The finest years of the genre come in the aftermath of the Great Depression, and most of the great films get an edge and urgency from that context, and an edifying sense that, for all the mayhem, these are stories engaging seriously with contemporary America. In the most frequent plot structures one or more of the protagonists is brought to recognise the reality of poverty or the need for money to take second place to love.
+
+Screwball masterpieces of this kind include the inaugurative _It Happened One Night_ (1934), _My Man Godfrey_ (1936) and _Sullivan’s Travels_ (1941). But _Bringing Up Bab_y isn’t interested in the ideology of the politically responsible American couple, nor is the social inequality of the couple the grounding interest of their relationship.
+
+Pauline Kael has called _Bringing Up Baby_ ‘an equivalent of Restoration comedy’, and Stanley Cavell’s important book on screwball comedy has invoked late Shakespeare. Both comparisons are well worth pondering, but the closest analogue of the film, to my mind, lies in the stories of P.G. Wodehouse. Think of the elements they share: a world blithely beyond real money troubles despite the plot turning on huge inheritances; animal-fancying eccentrics; specialists in mental disorder; farcical complications; family set-ups more dominated by aunts and uncles than parents; and the magical provision of an ending in which we can be confident the tangled webs will unravel. As with Wodehouse, the pleasure comes partly from the sense of how unlike our own world this one is. In comedy, things work out more happily than they do in life, and one secret of comedy is to allow us self-consciously to relish the differences.
+
+But the crucial difference between Wodehouse and Hawks is that this really is a love story. What Dr Lehman, the film’s Germanic shrink, calls ‘the love impulse’ isn’t weightless in _Bringing Up Baby_ as it is in Wodehouse, so there is a poignancy to the film that Wodehouse doesn’t reach to. The sense that in its crazy way the story is an allegory of a much more ordinary irrationality in the pursuit of love makes it one of the most romantic of Hollywood films. Susan is nothing if not brave in pursuing her unlikely love object, while David in the denouement takes on a snarling leopard (not being Clark Gable or Spencer Tracy, he faints into female arms after his moment of big-game-hunterly virility). As in Hitchcock’s great comedy-thrillers, there is a connection between comedy and courage – a belief that though the world sometimes seems mad (whether through love or espionage), a mettlesome hero or heroine can well enough cope with it.
+
+Extracted from _Bringing Up Baby_ by Peter Swaab (BFI Film Classics, 2010).  
+Reproduced by kind permission of Bloomsbury Publishing. ©Peter Swaab
+
+<![endif]-->
+
+**BRINGING UP BABY**
+
+_Directed by:_ Howard Hawks
+
+_©/Presented by:_ RKO Radio Pictures
+
+_Associate Producer:_ Cliff Reid
+
+_Assistant Director:_ Edward Donahue
+
+_Screenplay by:_ Dudley Nichols, Hagar Wilde
+
+_From the story by:_ Hagar Wilde
+
+_Director of Photography:_ Russell Metty
+
+_Special Effects by:_ Vernon L. Walker
+
+_Edited by:_ George Hively
+
+_Art Director:_ Van Nest Polglase
+
+_Associate Art Director:_ Perry Ferguson
+
+_Set Dressing by:_ Darrell Silvera
+
+_Gowns by:_ Howard Greer
+
+_Musical Director:_ Roy Webb
+
+_Sound Recorded by:_ John L. Cass
+
+_Sound Recorded by:_ RCA Victor System
+
+_uncredited_
+
+_Production Manager:_ J.R. Crone
+
+_Unit Manager:_ George Rogell
+
+_Camera Operator:_ Charles Burke
+
+_Make-up:_ Mel Berns
+
+_Double for Cary Grant:_ Jimmy Dundee
+
+_Double for Katharine Hepburn:_ Helen Thurston
+
+_Nissa’s Trainer:_ Madame Olga Celeste
+
+_Cast:_
+
+Katharine Hepburn _(Susan Vance)_
+
+Cary Grant _(David Huxley)_
+
+Charlie Ruggles _(Major Horace Applegate)_
+
+Walter Catlett _(Constable Slocum)_
+
+Barry Fitzgerald _(Gogarty)_
+
+May Robson _(Aunt Elizabeth)_
+
+Fritz Feld _(Dr Fritz Lehmann)_
+
+Leona Roberts _(Mrs Hannah Gogarty)_
+
+George Irving _(Alexander Peabody)_
+
+Tala Birell _(Mrs Lehmann)_
+
+Virginia Walker _(Alice Swallow)_
+
+John Kelly _(Elmer)_
+
+_uncredited_
+
+D’Arcy Corrigan _(Professor La Touche)_
+
+Buster Slavin _(Peabody’s caddy)_
+
+Billy Benedict _(David’s caddy)_
+
+George Humbert _(Louis, the headwaiter)_
+
+Terry Moore _(hat check girl)_
+
+Billy Bevan _(Joe, bartender)_
+
+Jack Gardner _(delivery man)_
+
+Nissa _(Baby, the leopard)_
+
+Stanley Blystone _(doorman)_
+
+Garry Owen _(butcher)_
+
+Skippy _(George, the dog)_
+
+Richard Lane _(circus manager)_
+
+Pat West _(Mac)_
+
+Frank Marlowe _(Joe)_
+
+Eleanor Peterson, Geraldine Hall, Evelyn Eager _(circus performers)_
+
+Ward Bond _(motorcycle cop)_
+
+Ernest Cossart _(Joe, the bartender)_
+
+Jack Carson _(roustabout)_
+
+Adylin Ashbury _(Mrs. Peabody)_
+
+Maxine Martel, Jeanne Martel _(cigarette girls)_
+
+Edward Gargan, Buck Mack _(zoo officials)_
+
+Pat O’Malley _(deputy)_
+
+USA 1938©
+
+102 mins
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjExNjYyNzk3Nl19
+-->
