@@ -1,7 +1,16 @@
+---
+layout: post
+title: Bicycle Thieves
+published: true
+date: 2023-06-05
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'Italy 1948, 89 mins<br> Director: VIttorio De Sica'
+pdf: '2023-06-05-bicycle-thieves.pdf'
+---
 
-
-**A contemporary review**
-
+**A contemporary review**  
 Vittorio De Sica’s _Bicycle Thieves_, like Rossellini’s _Paisa_, came to London with a fabulous reputation to live up to, and, in a way, to live down. To _Paisa_, a film made in a state of almost feverish immediacy, the two-year gap between continental and London showings was costly. The crudities inseparable from Rossellini’s hotfoot production methods took on larger proportions, the film’s courageous humanity had lost perhaps some of its heat in retrospect. In any case, the London critics found cause to lower the film’s status. Public audiences had fewer quibbles.
 
 The word ‘great’ was affixed to De Sica’s film by Clair, Becker, Lean, Cavalcanti, Ustinov and numbers of travellers from Italy as long as a year ago, when a percipient British exhibitor could have bought it for a quarter of the price (£5,000) eventually paid. Confronted with a reputed masterpiece that turned out to be a masterpiece, the British Press came fairly clean. There were little murmured warnings about ‘slightness’, and a ludicrous belittlement from a prominent critic who smelled communism – the self-same critic, it will be remembered, who gave Vigo’s _Zéro de Conduite_ ‘zero for achievement and one for trying’. But the reviews, guarded or otherwise, were sufficient to start _Bicycle Thieves_ on what may well be the most successful record of any foreign film in British cinemas.
@@ -93,5 +102,5 @@ Spoletini
 Italy 1948  
 89 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg2NTI4Nl19
+eyJoaXN0b3J5IjpbMTA5ODM5MzcxNV19
 -->
