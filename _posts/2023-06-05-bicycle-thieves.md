@@ -6,7 +6,7 @@ date: 2023-06-05
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
-metadata: 'Italy 1948, 89 mins<br> Director: VIttorio De Sica'
+metadata: 'Italy 1948, 89 mins<br> Director: Vittorio De Sica'
 pdf: '2023-06-05-bicycle-thieves.pdf'
 ---
 
@@ -28,8 +28,7 @@ _Bicycle Thieves_ is the true genre movie, and a superlative exercise in screen 
 
 De Sica’s lifetime of experience in the theatre and cinema as a leading man and comedian (which led him to abjure the professional actor) may account for his power to compel those flawless performances from his amateurs. But it is a painter’s instinct, probably inherited from his mother, which enriches his films with such comprehensive detail. His detached compassion, his sense of irony, his tolerant understanding, are the fruits of long study of his fellow men in difficult times. Anger does not show in his films, and anger is a concomitant of hope. Yet I do not find the conclusion of _Bicycle Thieves_ wholly pessimistic. Comradeship did to some extent sustain this man and doubtless, one feels, will do so again.
 
-With _Bicycle Thieves_, De Sica considers he has sufficiently exploited ‘realism’ for the moment. An artist who has found his true medium somewhat late in life, he possesses an unpredictable capacity for development. And in Cesare Zavattini he has found the scriptwriter who can play Prévert to his Carné. Their next film (the third of the trilogy which _Shoeshine_ started), will essay a new form – ‘irrealism’.  
-De Sica claims that in this film, _The Poor Disturb_, he will make ‘the unreal seem real, the improbable seem probable, and the impossible seem possible’ without the use of camera tricks. This could mean plain fantasy or, preferably, an experimental attempt to go beyond literal vision in the way Jean Vigo did. But the structure will be realistic, the actors non-professional, and their milieu the slums of Milan.  De Sica believes in poor people.  
+With _Bicycle Thieves_, De Sica considers he has sufficiently exploited ‘realism’ for the moment. An artist who has found his true medium somewhat late in life, he possesses an unpredictable capacity for development. And in Cesare Zavattini he has found the scriptwriter who can play Prévert to his Carné. Their next film (the third of the trilogy which _Shoeshine_ started), will essay a new form – ‘irrealism’. De Sica claims that in this film, _The Poor Disturb_, he will make ‘the unreal seem real, the improbable seem probable, and the impossible seem possible’ without the use of camera tricks. This could mean plain fantasy or, preferably, an experimental attempt to go beyond literal vision in the way Jean Vigo did. But the structure will be realistic, the actors non-professional, and their milieu the slums of Milan.  De Sica believes in poor people.  
 **Richard Winnington, _Sight and Sound_, March 1950**
 
 **Vittorio De Sica on ‘Bicycle Thieves’**  
@@ -56,10 +55,8 @@ _Production Company_: Produzioni De Sica S.A.
 _Production Manager_: Umberto Scarpelli  
 _Production Inspector_: Nino Misiano  
 _Production Secretary_: Roberto Moretti  
-_Assistant Directors_: Gerardo Guerrieri,  
-Luisa Alessandri  
-_Screenplay_: Oreste Biancoli, Suso D’Amico,  
-Vittorio De Sica, Adolfo Franci, Gherardo Gherardi, Gerardo Guerrieri, Cesare Zavattini  
+_Assistant Directors_: Gerardo Guerrieri, Luisa Alessandri  
+_Screenplay_: Oreste Biancoli, Suso D’Amico, Vittorio De Sica, Adolfo Franci, Gherardo Gherardi, Gerardo Guerrieri, Cesare Zavattini  
 _Story_: Cesare Zavattini  
 _Based on the novel by_: Luigi Bartolini  
 _Director of Photography_: Carlo Montuori  
