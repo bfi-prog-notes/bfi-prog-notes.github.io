@@ -41,6 +41,57 @@ I do not think I have to explain why I had no difficulty whatever in directing t
 **_Sight and Sound_, March 1950**  
 <br>
 
+**BICYCLE THIEVES (LADRI DI BICICLETTE)**  
+_Director_: Vittorio De Sica  
+_Production Company_: Produzioni De Sica S.A.  
+_Production Manager_: Umberto Scarpelli  
+_Production Inspector_: Nino Misiano  
+_Production Secretary_: Roberto Moretti  
+_Assistant Directors_: Gerardo Guerrieri,  
+Luisa Alessandri  
+_Screenplay_: Oreste Biancoli, Suso D’Amico,  
+Vittorio De Sica, Adolfo Franci, Gherardo Gherardi, Gerardo Guerrieri, Cesare Zavattini  
+_Story_: Cesare Zavattini  
+_Based on the novel by_: Luigi Bartolini  
+_Director of Photography_: Carlo Montuori  
+_Camera Operator_: Mario Montuori  
+_Editor_: Eraldo Da Roma  
+_Art Director_: Antonino Traverso  
+_Music_: Alessandro Cicognini  
+_Music Director_: Willy Ferrero  
+_Sound_: Gino Fiorelli  
+_uncredited_  
+_Song_: Giuseppe Cioffi  
+_Boom Operator_: Bruno Brunacci  
+
+**Cast**  
+Lamberto Maggiorani _(Antonio Ricci)_  
+Enzo Staiola _(Bruno Ricci)_  
+Lianella Carell _(Maria Ricci)_  
+Elena Altieri _(patroness)_  
+Gino Saltamerenda _(Baiocco)_  
+Giulio Chiari _(the pauper)_  
+Vittorio Antonucci _(the thief)_  
+Michele Sakara _(charity secretary)_  
+Fausto Guerzoni _(amateur actor)_  
+Carlo Jachino _(beggar)_  
+Emma Druetti  
+_uncredited_  
+Massimo Randisi _(young boy in restaurant)_  
+Ida Bracci Dorati _(the ‘saint’)_  
+Peppino Spadaro _(police sergeant)_  
+Mario Meniconi _(Meniconi, the dustman)_  
+Checco Rissone _(policeman in Piazza Vittorio)_  
+Giulio Battiferri _(man who defends the real thief)_  
+Sergio Leone _(seminarist sheltering from rain)_  
+Memmo Carotenuto  
+Nando Bruno  
+Giovanni Corporale  
+Eolo Capritti  
+Spoletini  
+
+Italy 1948  
+89 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0MDg0NzU2XX0=
+eyJoaXN0b3J5IjpbLTE3NTg2NTI4Nl19
 -->
