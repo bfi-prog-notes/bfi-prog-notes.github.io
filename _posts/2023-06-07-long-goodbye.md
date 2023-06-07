@@ -82,91 +82,52 @@ _Sound Engineer:_ John V. Speak
 
 _Dubbing Mixer:_ Richard J. Vorisek
 
-_With Special Remembrance for:_ Dan Blocker
+_With Special Remembrance for:_ Dan Blocker  
+_uncredited_  
+_Production Company:_ Elliott Kastner Corporation  
+_Casting Director:_ Joan Tewkesbury  
+_Men’s Wardrobe:_ Kent James  
+_Women’s Wardrobe:_ Marjorie Wahl  
+_Hairstylist:_ Lynda Gurasich  
 
-_uncredited_
-
-_Production Company:_ Elliott Kastner Corporation
-
-_Casting Director:_ Joan Tewkesbury
-
-_Men’s Wardrobe:_ Kent James
-
-_Women’s Wardrobe:_ Marjorie Wahl
-
-_Hairstylist:_ Lynda Gurasich
-
-_Cast:_
-
-Elliott Gould _(Philip Marlowe)_
-
-Nina Van Pallandt _(Eileen Wade)_
-
-Sterling Hayden _(Roger Wade)_
-
-Mark Rydell _(Marty Augustine)_
-
-Henry Gibson _(Dr Verringer)_
-
-David Arkin _(Harry)_
-
-Warren Berlinger _(Morgan)_
-
-Jo Ann Brody _(Jo Ann Eggenweiler)_
-
-Jim Bouton _(Terry Lennox)_
-
-Steve Coit _(Detective Farmer)_
-
-Jack Knight _(Mabel)_
-
-Pepe Callahan _(Pepe)_
-
-Vince Palmieri _(Vince)_
-
-Pancho Cordoba _(doctor)_
-
-Enrique Lucero _(Jefe)_
-
-Rutanya Alda _(Rutanya Sweet)_
-
-Tammy Shaw _(dancer)_
-
-Jack Riley _(Riley, piano player)_
-
-Ken Sansom _(Colony guard)_
-
-Jerry Jones _(Detective Green)_
-
-John Davies _(Detective Dayton)_
-
-Rodney Moss _(supermarket clerk)_
-
+**Cast**  
+Elliott Gould _(Philip Marlowe)_  
+Nina Van Pallandt _(Eileen Wade)_  
+Sterling Hayden _(Roger Wade)_  
+Mark Rydell _(Marty Augustine)_  
+Henry Gibson _(Dr Verringer)_  
+David Arkin _(Harry)_  
+Warren Berlinger _(Morgan)_  
+Jo Ann Brody _(Jo Ann Eggenweiler)_  
+Jim Bouton _(Terry Lennox)_  
+Steve Coit _(Detective Farmer)_  
+Jack Knight _(Mabel)_  
+Pepe Callahan _(Pepe)_  
+Vince Palmieri _(Vince)_  
+Pancho Cordoba _(doctor)_  
+Enrique Lucero _(Jefe)_  
+Rutanya Alda _(Rutanya Sweet)_  
+Tammy Shaw _(dancer)_  
+Jack Riley _(Riley, piano player)_  
+Ken Sansom _(Colony guard)_  
+Jerry Jones _(Detective Green)_  
+John Davies _(Detective Dayton)_  
+Rodney Moss _(supermarket clerk)_  
 Sybil Scotford _(Sybil Tooksbury, real estate lady)_  
-Hubie Kerns _(Herbie)_
+Hubie Kerns _(Herbie)_  
+_uncredited_  
+Leslie Simms _(Olive)_  
+Leslie McRay _(Lucille)_  
+David Carradine _(prison cellmate)_  
+Arnold Schwarzenegger _(muscle man)_  
+Kate Murtagh _(nurse)_  
+Danny Goldman _(bartender)_  
+Tracy Harris _(detective)_  
 
-_uncredited_
+USA 1973©  
+112 mins  
 
-Leslie Simms _(Olive)_
-
-Leslie McRay _(Lucille)_
-
-David Carradine _(prison cellmate)_
-
-Arnold Schwarzenegger _(muscle man)_
-
-Kate Murtagh _(nurse)_
-
-Danny Goldman _(bartender)_
-
-Tracy Harris _(detective)_
-
-USA 1973©
-
-112 mins
-
-The screening on Wed 7 June will be introduced  
-by Geoff Andrew, Programmer-at-Large
+The screening on Wed 7 June will be introduced  by Geoff Andrew, Programmer-at-Large  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1OTkzNDAzXX0=
+eyJoaXN0b3J5IjpbLTIxNDYyODAyMTFdfQ==
 -->
