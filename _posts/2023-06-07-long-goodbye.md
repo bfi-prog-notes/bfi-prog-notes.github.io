@@ -6,8 +6,8 @@ date: 2023-06-07
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Crime]
-metadata: 'UK 1949, 105 mins<br> Director: Carol Reed'
-pdf: '2023-06-06-third-man.pdf'
+metadata: 'USA 1973, 112 mins<br> Director: Robert Altman'
+pdf: '2023-06-07-long-goodbye.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -167,5 +167,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjQzOTkzMjZdfQ==
+eyJoaXN0b3J5IjpbLTEyNTI3ODg4MjFdfQ==
 -->
