@@ -30,58 +30,33 @@ And yet, 40 years changes things. _The Long Goodbye_ is a key film in Thom Ander
 _The Long Goodbye_ much harder to find within a few years of its release.  
 **Kim Newman, _Sight and Sound_, February 2014**  
 <br>
-<![endif]-->
 
-**The Long Goodbye**
-
-_Directed by:_ Robert Altman
-
-_©:_ United Artists Corporation
-
+**THE LONG GOODBYE**  
+_Directed by:_ Robert Altman  
+_©:_ United Artists Corporation  
 _Production Companies:_  
-United Artists Corporation, Lion’s Gate Films
-
-_Presented by/Executive Producer:_ Elliott Kastner
-
-_Produced by:_ Jerry Bick
-
-_Associate Producer:_ Robert Eggenweiler
-
-_Production Assistant:_ Jean D’Oncieu
-
-_Assistant Director:_ Tommy Thompson
-
-_2nd Assistant Director:_ Alan Rudolph
-
-_Script Supervisor:_ Adele Bravos
-
-_Screenplay by:_ Leigh Brackett
-
-_From the novel by:_ Raymond Chandler
-
-_Photographed by:_ Vilmos Zsigmond
-
-_Camera Operator:_ Joe Wilcots
-
-_Key Grip:_ Ken Adams
-
-_Electrical Gaffer:_ Randy Glass
-
-_Edited by:_ Lou Lombardo
-
+United Artists Corporation, Lion’s Gate Films  
+_Presented by/Executive Producer:_ Elliott Kastner  
+_Produced by:_ Jerry Bick  
+_Associate Producer:_ Robert Eggenweiler  
+_Production Assistant:_ Jean D’Oncieu  
+_Assistant Director:_ Tommy Thompson  
+_2nd Assistant Director:_ Alan Rudolph  
+_Script Supervisor:_ Adele Bravos  
+_Screenplay by:_ Leigh Brackett  
+_From the novel by:_ Raymond Chandler  
+_Photographed by:_ Vilmos Zsigmond  
+_Camera Operator:_ Joe Wilcots  
+_Key Grip:_ Ken Adams  
+_Electrical Gaffer:_ Randy Glass  
+_Edited by:_ Lou Lombardo  
 _Assistant Film Editors:_ Scott Conrad,  
-Tony Lombardo
-
-_Property Master:_ Sidney Greenwood
-
-_Make-up:_ Bill Miller
-
-_Music by:_ John Williams
-
-_Sound Engineer:_ John V. Speak
-
-_Dubbing Mixer:_ Richard J. Vorisek
-
+Tony Lombardo  
+_Property Master:_ Sidney Greenwood  
+_Make-up:_ Bill Miller  
+_Music by:_ John Williams  
+_Sound Engineer:_ John V. Speak  
+_Dubbing Mixer:_ Richard J. Vorisek  
 _With Special Remembrance for:_ Dan Blocker  
 _uncredited_  
 _Production Company:_ Elliott Kastner Corporation  
@@ -129,5 +104,5 @@ USA 1973©
 
 The screening on Wed 7 June will be introduced  by Geoff Andrew, Programmer-at-Large  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDYyODAyMTFdfQ==
+eyJoaXN0b3J5IjpbLTE0OTEyOTE0MDBdfQ==
 -->
