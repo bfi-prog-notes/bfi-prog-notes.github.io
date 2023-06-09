@@ -27,30 +27,17 @@ Beautiful and scathing in equal measure, _Of Time and the City_ must surely rank
 **OF TIME AND THE CITY**  
 _Directed by:_ Terence Davies
 _©:_ Hurricane City Limited, Digital Departures Northwest Vision and Media _&_ Digital Departures _presented in association with the_ Liverpool Culture Company _and_ BBC Films  
-_Made with the support of_ Northwest Vision + Media _through the_ Merseyside Film and Television Fund _a project part-funded by the_ European Regional Development Fund, Northwest Regional Development Agency _through_ The Regional Attraction Fund, the UK Film Council, the Liverpool Culture Company
-
-_Executive Producers:_ Christopher Moll,
-
-Lisa-Marie Russo
-
-_Produced by:_ Solon Papadopoulos, Roy Boulter
-
-_For Digital Departures: Production Executive:_ Tracy O’Riordan; _Production Co-ordinator:_ Barbara Kirby; _Pre-production Co-ordinator:_ Sian Hilton-Parry; _Production Accountants:_ Joanne Bendon, Jason Potter; _Post-production Supervisor:_ Shuna Frood
-
-_For Northwest Vision and Media: Head of Development/Production:_ Helen Bingham; _Finance Manager:_ Colin Phillips
-
-_For The Liverpool Culture Company: Executive Producer:_ Fiona Gasper
-
-_For BBC Films: Head of Programme Acquisition:_ Steve Jenkins
-
-_Production Manager:_ Karen Radford
-
-_Archive Producer:_ Jim Anderson
-
-_Archive Researchers:_ Mike McKibbin, Angela Byrne
-
-_Written by:_ Terence Davies
-
+_Made with the support of_ Northwest Vision + Media _through the_ Merseyside Film and Television Fund _a project part-funded by the_ European Regional Development Fund, Northwest Regional Development Agency _through_ The Regional Attraction Fund, the UK Film Council, the Liverpool Culture Company  
+_Executive Producers:_ Christopher Moll, Lisa-Marie Russo  
+_Produced by:_ Solon Papadopoulos, Roy Boulter  
+_For Digital Departures: Production Executive:_ Tracy O’Riordan; _Production Co-ordinator:_ Barbara Kirby; _Pre-production Co-ordinator:_ Sian Hilton-Parry; _Production Accountants:_ Joanne Bendon, Jason Potter; _Post-production Supervisor:_ Shuna Frood  
+_For Northwest Vision and Media: Head of Development/Production:_ Helen Bingham; _Finance Manager:_ Colin Phillips  
+_For The Liverpool Culture Company: Executive Producer:_ Fiona Gasper  
+_For BBC Films: Head of Programme Acquisition:_ Steve Jenkins  
+_Production Manager:_ Karen Radford  
+_Archive Producer:_ Jim Anderson  
+_Archive Researchers:_ Mike McKibbin, Angela Byrne  
+_Written by:_ Terence Davies 
 _Director of Photography:_ Tim Pollard
 
 _Camera Assistant:_ Dominic O’Keeffe
@@ -81,5 +68,5 @@ UK 2008©
 
 75 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDE3MzY2NSw2Mzk4MDQ5OTBdfQ==
+eyJoaXN0b3J5IjpbMzk5MzUxMDYzLDYzOTgwNDk5MF19
 -->
