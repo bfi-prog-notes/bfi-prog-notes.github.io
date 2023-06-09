@@ -91,30 +91,30 @@ Catherine Lambert _(jazz singer)_
 François Du Bois _(Sausalito piano)_  
 Tim Leffman _(Sausalito guitar)_  
 Gregory Pekar _(American businessman 1)_
-Richard Allen _(American businessman 2)_
-Yutaka Tadokoro _(commercial director)_
-Jun Maki _(Suntory client)_
-Nao Asuka _(premium fantasy woman)_
-Tetsuro Naka _(stills photographer)_
-Kanako Nakazato _(make-up person)_
-Hiroko Kawasaki _(Hiroko)_
-Daikon _(Bambie)_
-Asuka Shimuzu _(Kelly’s translator)_
-Ikuko Takahashi _(ikebana instructor)_
-Koichi Tanaka _(bartender, NY bar)_
-Hugo Codaro _(aerobics instructor)_
-Akiko Monou _(P Chan)_
-Akimitsu Naruyama _(French Japanese club patron)_
-Hiroshi Kawashima _(nightclub bartender)_
-Hiromix _(Hiromix)_
-Nobuhiko Kitamura _(Nobu)_
-Nao Kitman _(Nao)_
-Akira _(Hans)_
-Kunichi Nomura _(Kun)_
-Yasuhiko Hattori _(Charlie’s friend)_
-Shigekazu Aida _(Mr Valentine)_
-Kazuo Yamada _(hospital receptionist)_
-Akira Motomura _(old man)_
+Richard Allen _(American businessman 2)_  
+Yutaka Tadokoro _(commercial director)_  
+Jun Maki _(Suntory client)_  
+Nao Asuka _(premium fantasy woman)_  
+Tetsuro Naka _(stills photographer)_  
+Kanako Nakazato _(make-up person)_  
+Hiroko Kawasaki _(Hiroko)_  
+Daikon _(Bambie)_  
+Asuka Shimuzu _(Kelly’s translator)_  
+Ikuko Takahashi _(ikebana instructor)_  
+Koichi Tanaka _(bartender, NY bar)_  
+Hugo Codaro _(aerobics instructor)_  
+Akiko Monou _(P Chan)_  
+Akimitsu Naruyama _(French Japanese club patron)_  
+Hiroshi Kawashima _(nightclub bartender)_  
+Hiromix _(Hiromix)_  
+Nobuhiko Kitamura _(Nobu)_  
+Nao Kitman _(Nao)_  
+Akira _(Hans)_  
+Kunichi Nomura _(Kun)_  
+Yasuhiko Hattori _(Charlie’s friend)_  
+Shigekazu Aida _(Mr Valentine)_  
+Kazuo Yamada _(hospital receptionist)_  
+Akira Motomura _(old man)_  
 Osamu Shigematu _(doctor)_
 Mathew Minami _(TV host)_
 Kei Takyo _(TV translator)_
@@ -129,5 +129,5 @@ Lisle Wilkerson _(sexy businesswoman)_
 USA/Japan 2003©  
 101 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDIzMTEwOV19
+eyJoaXN0b3J5IjpbLTgwODgwMTU0MV19
 -->
