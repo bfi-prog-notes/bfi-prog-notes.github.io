@@ -6,7 +6,7 @@ date: 2023-06-15
 readtime: true
 categories: ['MEMBER PICKS']
 tags: [Drama]
-metadata: 'USA 2003, 75 mins<br> Director: Sofia Coppola'
+metadata: 'USA/Japan 2003, 101 mins<br> Director: Sofia Coppola'
 pdf: '2023-06-15-lost-in-translation.pdf'
 ---
 
@@ -27,7 +27,7 @@ But if the hotel is strangely anaesthetic, the labyrinthine city outside is vibr
 The role of Bob was, it appears, underwritten: in interviews Murray has said that the script was only 75 pages long and that Coppola limited her direction to repeating the character’s name over and over to him. One wonders, therefore, how much of Murray’s expert comic rifling is improvised, especially as the character draws on the actor’s rich back catalogue of indie eccentrics. Bob shares the fragile dignity (not to mention the mascara) of transsexual Bunny in _Ed Wood_ (1994) and the hopeless yearning for a younger woman of Herman in _Rushmore_ (1998). But perhaps the closest parallel is with Phil in _Groundhog Day_ (1993). Both characters are impotent and bewildered outsiders in a strange world, a world to which they finally adapt when they learn their lessons. But while Phil learns to care for others besides himself, Bob learns to care more deeply for those he already loves: his absent wife and children, whom we hear only on the phone. It is surely the long, unbroken take when Bob tells Charlotte about the perils of middle age that fuelled the talk of an Oscar for the hugely versatile Murray.
 
 The tagline for the film is ‘Sometimes you have to go halfway round the world to come full circle.’ But the conclusion to _Lost in Translation_ is unexpected. We learn that home can be as unfamiliar as abroad, especially when it arrives by fax at 4.20am, or in the form of FedEx-ed carpet samples. Phone calls to the family may need some deft interpreting, too, if we are to get at their true meaning (Charlotte’s friend puts her on call waiting; wife hangs up just before he says he loves her). It’s no accident that Coppola’s characters so often inspect themselves in the mirror or are reflected in windows haloed by city lights. As the two friends, chaste but intimate, kiss one another goodbye, we glimpse the final moral of this terrific film: that the strangest thing we might meet in a foreign country is quite likely to be ourselves.  
-**Paul Julian Smith, _Sight and Sound_, January 2004**
+**Paul Julian Smith, _Sight and Sound_, January 2004**  
 <br>
 
 **LOST IN TRANSLATION**  
@@ -136,6 +136,13 @@ Lisle Wilkerson _(sexy businesswoman)_
 
 USA/Japan 2003©  
 101 mins  
+<br>
+
+**MEMBER EXCLUSIVES**  
+**Member Picks: Lost in Translation**  
+Thu 15 Jun 18:30  
+**Members Library Lates – Collection Focus: Film on Film**  
+Mon 19 Jun 18:00-20:00 BFI Reuben Library  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTczODgxNzJdfQ==
+eyJoaXN0b3J5IjpbMTc1NzYzMTEzN119
 -->
