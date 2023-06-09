@@ -21,116 +21,58 @@ The role of Bob was, it appears, underwritten: in interviews Murray has said tha
 The tagline for the film is ‘Sometimes you have to go halfway round the world to come full circle.’ But the conclusion to _Lost in Translation_ is unexpected. We learn that home can be as unfamiliar as abroad, especially when it arrives by fax at 4.20am, or in the form of FedEx-ed carpet samples. Phone calls to the family may need some deft interpreting, too, if we are to get at their true meaning (Charlotte’s friend puts her on call waiting; wife hangs up just before he says he loves her). It’s no accident that Coppola’s characters so often inspect themselves in the mirror or are reflected in windows haloed by city lights. As the two friends, chaste but intimate, kiss one another goodbye, we glimpse the final moral of this terrific film: that the strangest thing we might meet in a foreign country is quite likely to be ourselves.  
 **Paul Julian Smith, _Sight and Sound_, January 2004**
 <br>
-<![endif]-->
 
-**LOST IN TRANSLATION**
-
-_Director:_ Sofia Coppola
-
-_©:_ Lost in Translation Inc.
-
-_Production Companies:_ American Zoetrope, Elemental Films
-
-_Presented by:_ Focus Features
-
-_Presented in association with:_
-
-Tohokushinsha Film Corporation
-
+**LOST IN TRANSLATION**  
+_Director:_ Sofia Coppola  
+_©:_ Lost in Translation Inc.  
+_Production Companies:_ American Zoetrope, Elemental Films  
+_Presented by:_ Focus Features  
+_Presented in association with:_ Tohokushinsha Film Corporation  
 _Executive Producers:_ Francis Ford Coppola,
-
-Fred Roos
-
+Fred Roos 
 _Produced by:_ Ross Katz, Sofia Coppola
-
 _Co-producer:_ Stephen Schible
-
 _Line Producer:_ Callum Greene
-
 _Associate Producer:_ Mitch Glazer
-
 _Production Supervisor:_ Anthony G. Katagas
-
 _Kyoto Production:_ Eizo Kyoto Film Company, Kansai Location Service Co.
-
 _Unit/Key Location Manager:_ Keizo Shukuzaki
-
 _Kyoto Location Manager:_ Kiyoshi Kurokawa
-
 _Production Consultant:_ Hiroko Kawasaki
-
 _Researcher:_ Shari Chertok
-
 _Additional Japanese Unit:_ Roman Coppola
-
 _1st Assistant Director:_ Takahide Kawakami
-
 _Script Supervisor:_ Eva Z. Cabrera
-
 _Japanese Casting:_ Ryoichi Kondo
-
 _Screenplay:_ Sofia Coppola
-
 _Director of Photography:_ Lance Acord
-
 _Camera Operator:_ Lance Acord
-
 _Editor:_ Sarah Flack
-
 _Production Designers:_ Anne Ross, K.K. Barrett
-
 _Art Director:_ Mayumi Tomita
-
-_Set Decorators:_ Towako Kuwajima,
-
-Tomomi Nishio
-
+_Set Decorators:_ Towako Kuwajima, Tomomi Nishio
 _Property Master:_ Keisuke Sakurai
-
 _Costume Designer:_ Nancy Steiner
-
 _Key Make-up Artist/Key Hair:_ Morag Ross
-
 _Title Design:_ Miles Murray Sorrell, FUEL
-
 _Opticals:_ Title House Digital, Gray Matter FX _[Colour] Timer:_ Bob Fredrickson
-
 _Original Music by:_ Kevin Shields
-
-_Additional Music by:_ Brian Reitzell,
-
-Roger Joseph Manning Jr, William Storkson
-
+_Additional Music by:_ Brian Reitzell, Roger Joseph Manning Jr, William Storkson
 _Music Supervisor:_ Brian Reitzell
-
 _Music Producer:_ Brian Reitzell
-
 _Music Editor:_ Richard Beggs
-
 _Sound Designer:_ Richard Beggs
-
 _Production Sound Mixer:_ Drew Kunin
-
 _Boom Operator:_ Kira Smith
-
 _Re-recording Mixers:_ Richard Beggs,
-
 Kent Sparling
-
 _Re-recording Supervisor:_ Robert Knox
-
 _Supervising Sound Editor:_ Michael Kirchberger _Dialogue Editor:_ David Cohen
-
 _[Sound] Effects Editor:_ Julia Shirar
-
 _ADR Editor:_ David Cohen
-
 _Foley Artist:_ Marnie Moore
-
 _Foley Recordist:_ Jory K. Prum
-
 _Stunt Co-ordination:_ Hirofumi Nakase
-
 _Bilingual Co-ordinator:_ Brian Kobo
 
 **Cast**
@@ -185,5 +127,5 @@ Lisle Wilkerson _(sexy businesswoman)_
 USA/Japan 2003©  
 101 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg5NDAwOThdfQ==
+eyJoaXN0b3J5IjpbLTg0MjM5NTQ5XX0=
 -->
