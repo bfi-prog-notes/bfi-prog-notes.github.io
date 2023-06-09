@@ -29,32 +29,32 @@ _Production Companies:_ American Zoetrope, Elemental Films
 _Presented by:_ Focus Features  
 _Presented in association with:_ Tohokushinsha Film Corporation  
 _Executive Producers:_ Francis Ford Coppola,
-Fred Roos 
-_Produced by:_ Ross Katz, Sofia Coppola
-_Co-producer:_ Stephen Schible
-_Line Producer:_ Callum Greene
-_Associate Producer:_ Mitch Glazer
-_Production Supervisor:_ Anthony G. Katagas
-_Kyoto Production:_ Eizo Kyoto Film Company, Kansai Location Service Co.
-_Unit/Key Location Manager:_ Keizo Shukuzaki
-_Kyoto Location Manager:_ Kiyoshi Kurokawa
-_Production Consultant:_ Hiroko Kawasaki
-_Researcher:_ Shari Chertok
-_Additional Japanese Unit:_ Roman Coppola
-_1st Assistant Director:_ Takahide Kawakami
-_Script Supervisor:_ Eva Z. Cabrera
-_Japanese Casting:_ Ryoichi Kondo
-_Screenplay:_ Sofia Coppola
-_Director of Photography:_ Lance Acord
-_Camera Operator:_ Lance Acord
-_Editor:_ Sarah Flack
-_Production Designers:_ Anne Ross, K.K. Barrett
-_Art Director:_ Mayumi Tomita
-_Set Decorators:_ Towako Kuwajima, Tomomi Nishio
-_Property Master:_ Keisuke Sakurai
-_Costume Designer:_ Nancy Steiner
-_Key Make-up Artist/Key Hair:_ Morag Ross
-_Title Design:_ Miles Murray Sorrell, FUEL
+Fred Roos  
+_Produced by:_ Ross Katz, Sofia Coppola  
+_Co-producer:_ Stephen Schible  
+_Line Producer:_ Callum Greene  
+_Associate Producer:_ Mitch Glazer   
+_Production Supervisor:_ Anthony G. Katagas  
+_Kyoto Production:_ Eizo Kyoto Film Company, Kansai Location Service Co.  
+_Unit/Key Location Manager:_ Keizo Shukuzaki  
+_Kyoto Location Manager:_ Kiyoshi Kurokawa  
+_Production Consultant:_ Hiroko Kawasaki  
+_Researcher:_ Shari Chertok  
+_Additional Japanese Unit:_ Roman Coppola  
+_1st Assistant Director:_ Takahide Kawakami  
+_Script Supervisor:_ Eva Z. Cabrera  
+_Japanese Casting:_ Ryoichi Kondo  
+_Screenplay:_ Sofia Coppola  
+_Director of Photography:_ Lance Acord  
+_Camera Operator:_ Lance Acord  
+_Editor:_ Sarah Flack  
+_Production Designers:_ Anne Ross, K.K. Barrett  
+_Art Director:_ Mayumi Tomita  
+_Set Decorators:_ Towako Kuwajima, Tomomi Nishio  
+_Property Master:_ Keisuke Sakurai  
+_Costume Designer:_ Nancy Steiner  
+_Key Make-up Artist/Key Hair:_ Morag Ross  
+_Title Design:_ Miles Murray Sorrell, FUEL  
 _Opticals:_ Title House Digital, Gray Matter FX _[Colour] Timer:_ Bob Fredrickson
 _Original Music by:_ Kevin Shields
 _Additional Music by:_ Brian Reitzell, Roger Joseph Manning Jr, William Storkson
@@ -127,5 +127,5 @@ Lisle Wilkerson _(sexy businesswoman)_
 USA/Japan 2003©  
 101 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjM5NTQ5XX0=
+eyJoaXN0b3J5IjpbMTA1MTc1NjAzNV19
 -->
