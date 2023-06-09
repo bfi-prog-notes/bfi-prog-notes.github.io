@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Lost in 
+published: true
+date: 2023-06-14
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Documentary]
+metadata: 'UK 2008, 75 mins<br> Director: Terence Davies'
+pdf: '2023-06-14-of-time-and-the-city.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -115,19 +123,19 @@ Yasuhiko Hattori _(Charlie’s friend)_
 Shigekazu Aida _(Mr Valentine)_  
 Kazuo Yamada _(hospital receptionist)_  
 Akira Motomura _(old man)_  
-Osamu Shigematu _(doctor)_
-Mathew Minami _(TV host)_
-Kei Takyo _(TV translator)_
-Ryo Kondo _(politician)_
+Osamu Shigematu _(doctor)_  
+Mathew Minami _(TV host)_  
+Kei Takyo _(TV translator)_  
+Ryo Kondo _(politician)_  
 Yumi Ikeda, Yumika Saki, Yuji Okabe
-_(politician’s aides)_
+_(politician’s aides)_  
 Diedrich Bollman, Georg O.P. Eschert
-_(German hotel guests)_
-Mark Willms _(Carl West)_
-Lisle Wilkerson _(sexy businesswoman)_
+_(German hotel guests)_  
+Mark Willms _(Carl West)_  
+Lisle Wilkerson _(sexy businesswoman)_  
 
 USA/Japan 2003©  
 101 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODgwMTU0MV19
+eyJoaXN0b3J5IjpbLTMxMTA1OTU1MV19
 -->
