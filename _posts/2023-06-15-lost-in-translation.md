@@ -55,39 +55,41 @@ _Property Master:_ Keisuke Sakurai
 _Costume Designer:_ Nancy Steiner  
 _Key Make-up Artist/Key Hair:_ Morag Ross  
 _Title Design:_ Miles Murray Sorrell, FUEL  
-_Opticals:_ Title House Digital, Gray Matter FX _[Colour] Timer:_ Bob Fredrickson
-_Original Music by:_ Kevin Shields
-_Additional Music by:_ Brian Reitzell, Roger Joseph Manning Jr, William Storkson
-_Music Supervisor:_ Brian Reitzell
-_Music Producer:_ Brian Reitzell
-_Music Editor:_ Richard Beggs
-_Sound Designer:_ Richard Beggs
-_Production Sound Mixer:_ Drew Kunin
-_Boom Operator:_ Kira Smith
+_Opticals:_ Title House Digital, Gray Matter FX  
+_[Colour] Timer:_ Bob Fredrickson  
+_Original Music by:_ Kevin Shields  
+_Additional Music by:_ Brian Reitzell, Roger Joseph Manning Jr, William Storkson  
+_Music Supervisor:_ Brian Reitzell  
+_Music Producer:_ Brian Reitzell  
+_Music Editor:_ Richard Beggs  
+_Sound Designer:_ Richard Beggs  
+_Production Sound Mixer:_ Drew Kunin  
+_Boom Operator:_ Kira Smith  
 _Re-recording Mixers:_ Richard Beggs,
-Kent Sparling
-_Re-recording Supervisor:_ Robert Knox
-_Supervising Sound Editor:_ Michael Kirchberger _Dialogue Editor:_ David Cohen
-_[Sound] Effects Editor:_ Julia Shirar
-_ADR Editor:_ David Cohen
-_Foley Artist:_ Marnie Moore
-_Foley Recordist:_ Jory K. Prum
-_Stunt Co-ordination:_ Hirofumi Nakase
-_Bilingual Co-ordinator:_ Brian Kobo
+Kent Sparling  
+_Re-recording Supervisor:_ Robert Knox  
+_Supervising Sound Editor:_ Michael Kirchberger  
+_Dialogue Editor:_ David Cohen  
+_[Sound] Effects Editor:_ Julia Shirar  
+_ADR Editor:_ David Cohen  
+_Foley Artist:_ Marnie Moore  
+_Foley Recordist:_ Jory K. Prum  
+_Stunt Co-ordination:_ Hirofumi Nakase  
+_Bilingual Co-ordinator:_ Brian Kobo  
 
-**Cast**
-Bill Murray _(Bob Harris)_
-Scarlett Johansson _(Charlotte)_
-Giovanni Ribisi _(John)_
-Anna Faris _(Kelly)_
-Fumihiro Hayashi _(Charlie)_
-Akiko Takeshita _(Ms Kawasaki)_
-Kazuyoshi Minamimagoe, Kazuko Shibata, Take _(press agents)_
-Ryuichiro Baba _(concierge)_
-Akira Yamaguchi _(bellboy)_
-Catherine Lambert _(jazz singer)_
-François Du Bois _(Sausalito piano)_
-Tim Leffman _(Sausalito guitar)_
+**Cast**  
+Bill Murray _(Bob Harris)_  
+Scarlett Johansson _(Charlotte)_  
+Giovanni Ribisi _(John)_  
+Anna Faris _(Kelly)_  
+Fumihiro Hayashi _(Charlie)_  
+Akiko Takeshita _(Ms Kawasaki)_  
+Kazuyoshi Minamimagoe, Kazuko Shibata, Take _(press agents)_  
+Ryuichiro Baba _(concierge)_  
+Akira Yamaguchi _(bellboy)_  
+Catherine Lambert _(jazz singer)_  
+François Du Bois _(Sausalito piano)_  
+Tim Leffman _(Sausalito guitar)_  
 Gregory Pekar _(American businessman 1)_
 Richard Allen _(American businessman 2)_
 Yutaka Tadokoro _(commercial director)_
@@ -127,5 +129,5 @@ Lisle Wilkerson _(sexy businesswoman)_
 USA/Japan 2003©  
 101 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTc1NjAzNV19
+eyJoaXN0b3J5IjpbLTE3NDIzMTEwOV19
 -->
