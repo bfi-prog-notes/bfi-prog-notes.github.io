@@ -6,7 +6,7 @@ date: 2023-06-14
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Documentary]
-metadata: 'UK 1962, 90 mins<br> Director: Agnès Varda'
+metadata: 'UK 2008, 75 mins<br> Director: Terence Davies'
 pdf: '2023-06-14-of-time-and-the-city.pdf'
 ---
 _With intro on Wednesday 14 June only_
@@ -27,8 +27,7 @@ Liverpool has been the traumatised epicentre of Britain’s full-scale industria
 
 The final tracking shots of gentrified docks and warehouses evoke a sense of placelessness: these waterside developments with their familiar ‘brandscapes’ could be any one of a number re-fashioned industrial waterfronts from Baltimore to Buenos Aires. ‘As we grow older,’ observes Davies, ‘the world becomes stranger, the pattern more complicated… and now I’m an alien in my own land.’ We float with Davies across neon-lit landscapes or hover over boutiques and wine bars that were once factories or churches. ‘We are being gathered in at gloaming,’ intones Davies, as the city becomes a myriad of strange illuminations in the failing light. What has Liverpool been? What have we been?
 
-Beautiful and scathing in equal measure, _Of Time and the City_ must surely rank as one of the best films about a British city that has ever been made. But the film is not simply about Liverpool: it is also a mordant response to the failures and disappointments of post-war Britain and a bittersweet exploration of the delicate connections between memory and place that anchor our sense of individual and collective identity amidst the tumult of historical change.  
-**Matthew Gandy (Professor of Cultural and Historical Geography and Fellow of King’s College, University of Cambridge), _Of Time and the City_ DVD booklet essay (BFI, 2009) **
+Beautiful and scathing in equal measure, _Of Time and the City_ must surely rank as one of the best films about a British city that has ever been made. But the film is not simply about Liverpool: it is also a mordant response to the failures and disappointments of post-war Britain and a bittersweet exploration of the delicate connections between memory and place that anchor our sense of individual and collective identity amidst the tumult of historical change.  **Matthew Gandy (Professor of Cultural and Historical Geography and Fellow of King’s College, University of Cambridge), _Of Time and the City_ DVD booklet essay (BFI, 2009) **
 <br>
 
 **OF TIME AND THE CITY**  
@@ -61,6 +60,60 @@ _Unit Publicity:_ Keeley Naylor, Zoe Flower, emfoundation
 
 UK 2008©  
 75 mins  
+<br>
+**BIG SCREEN CLASSICS**  
+**The 400 Blows (Les Quatre cents coups)**  
+Thu 1 Jun 18:20; Tue 13 Jun 20:30  
+**The Big Lebowski**  
+Fri 2 Jun 20:30; Sat 17 Jun 18:10  
+**La dolce vita**  
+Sat 3 Jun 17:00; Tue 13 Jun 13:30; Sun 18 Jun 17:30  
+**Boyz N the Hood**  
+Sat 3 Jun 20:40; Fri 30 Jun 18:10  
+**Vertigo**  
+Sun 4 Jun 15:30; Tue 20 Jun 20:40  
+**Bicycle Thieves (Ladri di biciclette)**  
+Mon 5 Jun 20:45; Fri 16 Jun 20:40; Sat 24 Jun 12:00  
+**The Third Man**  
+Tue 6 Jun 20:40; Wed 21 Jun 18:10 (+ intro); Sun 25 Jun 12:30  
+**The Long Goodbye**  
+Wed 7 Jun 18:00 (+ intro by Geoff Andrew, Programmer-at-Large); Tue 27 Jun 20:35  
+**Cleo from 5 to 7 (Cléo de 5 à 7)**  
+Mon 12 Jun 21:00; Thu 29 Jun 18:30  
+**Of Time and the City**  
+Wed 14 Jun 18:30 (+ intro); Thu 22 Jun 20:50  
+**Taxi Driver**  
+Sun 18 Jun 18:30; Fri 23 Jun 20:45  
+**Get Carter**  
+Mon 19 Jun 18:20; Mon 26 Jun 20:45  
+**La Haine**  
+Wed 21 Jun 21:00; Sat 24 Jun 20:40; Wed 28 Jun 18:15 (+ intro)  
+**Don’t Look Now**  
+Sat 24 Jun 16:00; Fri 30 Jun 20:45  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound & the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTU4MjMzMiw2Mzk4MDQ5OTBdfQ==
+eyJoaXN0b3J5IjpbMzQ5MDg1MTg3LDYzOTgwNDk5MF19
 -->
