@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Lost in 
+title: Lost in Translation
 published: true
-date: 2023-06-14
+date: 2023-06-15
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
-tags: [Documentary]
-metadata: 'UK 2008, 75 mins<br> Director: Terence Davies'
-pdf: '2023-06-14-of-time-and-the-city.pdf'
+categories: ['MEMBER PICKS']
+tags: [Drama]
+metadata: 'USA 2003, 75 mins<br> Director: Sofia Coppola'
+pdf: '2023-06-15-lost-in-translation.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -137,5 +137,5 @@ Lisle Wilkerson _(sexy businesswoman)_
 USA/Japan 2003©  
 101 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTA1OTU1MV19
+eyJoaXN0b3J5IjpbLTIwOTczODgxNzJdfQ==
 -->
