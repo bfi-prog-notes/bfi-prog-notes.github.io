@@ -1,7 +1,14 @@
-
-
-
-
+---
+layout: post
+title: Of Time and the City
+published: true
+date: 2023-06-14
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Documentary]
+metadata: 'UK 1962, 90 mins<br> Director: Agnès Varda'
+pdf: '2023-06-14-of-time-and-the-city.pdf'
+---
 _With intro on Wednesday 14 June only_
 
 There is something mysterious about Terence Davies’ Liverpool from the outset: at the heart of this meditation on the city lies a tension, between urban change as a process that is brutal and unremitting, and the persistence of memory as something that is delicate and filamentary. We weave our memories into a palimpsest of dreams where time and place melt into each other. Memories become maps through places to which we can never return in a world that is changing all about us.
@@ -37,36 +44,23 @@ _For BBC Films: Head of Programme Acquisition:_ Steve Jenkins
 _Production Manager:_ Karen Radford  
 _Archive Producer:_ Jim Anderson  
 _Archive Researchers:_ Mike McKibbin, Angela Byrne  
-_Written by:_ Terence Davies 
-_Director of Photography:_ Tim Pollard
+_Written by:_ Terence Davies  
+_Director of Photography:_ Tim Pollard  
+_Camera Assistant:_ Dominic O’Keeffe  
+_Lighting Gaffer:_ Colin Sage  
+_Editor:_ Liza Ryan-Carter  
+_Colourist:_ Jamie Parry  
+_Camera Hire:_ Fact Media Services  
+_Track/Dolly:_ Panavision Manchester  
+_Lighting Hire:_ Pro-Vision Manchester  
+_Music Supervisor (for DNA Music/Quantum Noise):_ Ian Neil  
+_Dubbing Mixer:_ Adam Ryan-Carter  
+_Sound Engineers:_ David Coyle, Steven Guy  
+_EPK:_ Krishna Stott, Philip Shotton  
+_Unit Publicity:_ Keeley Naylor, Zoe Flower, emfoundation  
 
-_Camera Assistant:_ Dominic O’Keeffe
-
-_Lighting Gaffer:_ Colin Sage
-
-_Editor:_ Liza Ryan-Carter
-
-_Colourist:_ Jamie Parry
-
-_Camera Hire:_ Fact Media Services
-
-_Track/Dolly:_ Panavision Manchester
-
-_Lighting Hire:_ Pro-Vision Manchester
-
-_Music Supervisor (for DNA Music/Quantum Noise):_ Ian Neil
-
-_Dubbing Mixer:_ Adam Ryan-Carter
-
-_Sound Engineers:_ David Coyle, Steven Guy
-
-_EPK:_ Krishna Stott, Philip Shotton
-
-_Unit Publicity:_ Keeley Naylor, Zoe Flower, emfoundation
-
-UK 2008©
-
-75 mins
+UK 2008©  
+75 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5MzUxMDYzLDYzOTgwNDk5MF19
+eyJoaXN0b3J5IjpbLTM3NTU4MjMzMiw2Mzk4MDQ5OTBdfQ==
 -->
