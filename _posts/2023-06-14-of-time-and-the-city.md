@@ -1,6 +1,6 @@
 
 
-<![endif]-->
+
 
 _With intro on Wednesday 14 June only_
 
@@ -20,9 +20,66 @@ Liverpool has been the traumatised epicentre of Britain’s full-scale industria
 
 The final tracking shots of gentrified docks and warehouses evoke a sense of placelessness: these waterside developments with their familiar ‘brandscapes’ could be any one of a number re-fashioned industrial waterfronts from Baltimore to Buenos Aires. ‘As we grow older,’ observes Davies, ‘the world becomes stranger, the pattern more complicated… and now I’m an alien in my own land.’ We float with Davies across neon-lit landscapes or hover over boutiques and wine bars that were once factories or churches. ‘We are being gathered in at gloaming,’ intones Davies, as the city becomes a myriad of strange illuminations in the failing light. What has Liverpool been? What have we been?
 
-Beautiful and scathing in equal measure, _Of Time and the City_ must surely rank as one of the best films about a British city that has ever been made. But the film is not simply about Liverpool: it is also a mordant response to the failures and disappointments of post-war Britain and a bittersweet exploration of the delicate connections between memory and place that anchor our sense of individual and collective identity amidst the tumult of historical change.
+Beautiful and scathing in equal measure, _Of Time and the City_ must surely rank as one of the best films about a British city that has ever been made. But the film is not simply about Liverpool: it is also a mordant response to the failures and disappointments of post-war Britain and a bittersweet exploration of the delicate connections between memory and place that anchor our sense of individual and collective identity amidst the tumult of historical change.  
+**Matthew Gandy (Professor of Cultural and Historical Geography and Fellow of King’s College, University of Cambridge), _Of Time and the City_ DVD booklet essay (BFI, 2009) **
+<br>
 
-Matthew Gandy (Professor of Cultural and Historical Geography and Fellow of King’s College, University of Cambridge), _Of Time and the City_ DVD booklet essay (BFI, 2009)
+**OF TIME AND THE CITY**  
+_Directed by:_ Terence Davies
+_©:_ Hurricane City Limited, Digital Departures Northwest Vision and Media _&_ Digital Departures _presented in association with the_ Liverpool Culture Company _and_ BBC Films  
+_Made with the support of_ Northwest Vision + Media _through the_ Merseyside Film and Television Fund _a project part-funded by the_ European Regional Development Fund, Northwest Regional Development Agency _through_ The Regional Attraction Fund, the UK Film Council, the Liverpool Culture Company
+
+_Executive Producers:_ Christopher Moll,
+
+Lisa-Marie Russo
+
+_Produced by:_ Solon Papadopoulos, Roy Boulter
+
+_For Digital Departures: Production Executive:_ Tracy O’Riordan; _Production Co-ordinator:_ Barbara Kirby; _Pre-production Co-ordinator:_ Sian Hilton-Parry; _Production Accountants:_ Joanne Bendon, Jason Potter; _Post-production Supervisor:_ Shuna Frood
+
+_For Northwest Vision and Media: Head of Development/Production:_ Helen Bingham; _Finance Manager:_ Colin Phillips
+
+_For The Liverpool Culture Company: Executive Producer:_ Fiona Gasper
+
+_For BBC Films: Head of Programme Acquisition:_ Steve Jenkins
+
+_Production Manager:_ Karen Radford
+
+_Archive Producer:_ Jim Anderson
+
+_Archive Researchers:_ Mike McKibbin, Angela Byrne
+
+_Written by:_ Terence Davies
+
+_Director of Photography:_ Tim Pollard
+
+_Camera Assistant:_ Dominic O’Keeffe
+
+_Lighting Gaffer:_ Colin Sage
+
+_Editor:_ Liza Ryan-Carter
+
+_Colourist:_ Jamie Parry
+
+_Camera Hire:_ Fact Media Services
+
+_Track/Dolly:_ Panavision Manchester
+
+_Lighting Hire:_ Pro-Vision Manchester
+
+_Music Supervisor (for DNA Music/Quantum Noise):_ Ian Neil
+
+_Dubbing Mixer:_ Adam Ryan-Carter
+
+_Sound Engineers:_ David Coyle, Steven Guy
+
+_EPK:_ Krishna Stott, Philip Shotton
+
+_Unit Publicity:_ Keeley Naylor, Zoe Flower, emfoundation
+
+UK 2008©
+
+75 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5ODA0OTkwXX0=
+eyJoaXN0b3J5IjpbLTMyNDE3MzY2NSw2Mzk4MDQ5OTBdfQ==
 -->
