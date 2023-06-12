@@ -5,9 +5,9 @@ published: true
 date: 2023-06-21
 readtime: true
 categories: ['PREVIEW']
-tags: [Drama, Crime, Thriller]
-metadata: 'UK 1938, 70 mins<br> Director: Maurice Elvey'
-pdf: '2023-06-20-return-of-the-frog.pdf'
+tags: [Comedy]
+metadata: 'USA/Spain/Germany 2023, 105 mins<br> Director: Wes Anderson'
+pdf: '2023-06-21-asteroid-ci.pdf'
 ---
 
 _+ Q&A with director Wes Anderson_
@@ -222,5 +222,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzE5NTgwMF19
+eyJoaXN0b3J5IjpbLTE1NjAwNTQ3NTZdfQ==
 -->
