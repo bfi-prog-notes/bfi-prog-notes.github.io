@@ -9,6 +9,7 @@ tags: [Drama, Crime, Thriller]
 metadata: 'UK 1938, 70 mins<br> Director: Maurice Elvey'
 pdf: '2023-06-20-return-of-the-frog.pdf'
 ---
+_Introduction by film historian Jonathan Rigby_  
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -83,5 +84,5 @@ Mon 26 Jun 18:15
 **Black Self-Building On Screen + discussion**
 Tue 27 Jun 18:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI0NDkzNDcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTYwNzk1NTA2NSw3MzA5OTgxMTZdfQ==
 -->
