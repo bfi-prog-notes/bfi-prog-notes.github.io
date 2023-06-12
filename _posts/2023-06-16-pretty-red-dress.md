@@ -21,7 +21,65 @@ My short film _We Love Moses_ touches on secrets, sexuality and family. _Pretty 
 Music has always helped me to inhabit a story. I wanted the film to be joyful, symphonic, and exhilarating. Music worked as an emotional catalyst as I explored each character’s relationship with the Red Dress. The characters and their everyday experiences were pulled from some of my own memories and interactions as well as my imagination. Their journey and the narrative grounded the film whilst the music and characters' growing desires helped the film to feel intimate and expansive.
 
 I wanted to take an ordinary domestic situation and make it thrilling and cinematic. In the end, I hope we understand the three characters and their motivations more deeply so that we can relate them to our own experiences. I hope audiences will come out feeling looser, freer, and that the film creates room for wider discussions on the idea that we are not one thing. _We are so many things_.  
-**Dionne Edwards, Production notes, March 2022**
+**Dionne Edwards, Production notes, March 2022**  
+<br>
+
+**PRETTY RED DRESS**  
+_Directed by_: Dionne Edwards  
+_©_: Lilly Marvin CD Ltd  
+_The British Film Institute_: British Film Institute  
+_British Broadcasting Corporation_: BBC  
+_A_ Teng Teng _film_  
+_Presented by_: BFI, BBC Film  
+_In association with_ : Magellanic Media Limited  
+_With support from_: Great Point Media  
+_International Sales_: Protagonist Pictures  
+_Executive Producers_: Farhana Bhula, Eva Yates, Jim Reeve, Robert Halmi, Bennett McGhee  
+_Produced by_: Georgia Goggin  
+_Line Producer_: Christopher Arcache  
+_Casting Director_: Elan Jones  
+_Written by_: Dionne Edwards  
+_Screenplay_: Dionne Edwards  
+_Director of Photography_: Adam Scarth  
+_Editor_: Andonis Trattos  
+_Production Designer_: Phoebe Platman  
+_Art Director_: Olivia Young  
+_Costume Designers_: Nirage Mirage, Jayne Hemsley  
+_Hair and Make-up Designer_: Gloria Penaranda, Billie McKenzie  
+_Key Hair Stylist_: Shanice Noel  
+_Composer and Musical Director_: Hugo Brijs  
+_Production Sound Mixer_: Ludovic Lassere  
+
+**Cast**  
+Natey Jones _(Travis)_  
+Temilola Olatunbosun _(Kenisha)_  
+Alexandra Burke _(Candice)_  
+Tsemaye Bob-Egbe _(Vivian)_  
+Chevone Stewart, Katrina Pollard,  Misha Malcolm _(backing singers)_  
+Carlos Hercules _(drummer)_  
+Alex Chadwick _(saxophone)_  
+Winston Rollins _(trombone)_  
+Izalni Nascimento Jr _(trumpet)_  
+Jo Wheatley _(offender manager)_  
+Emeka Sesay _(Nathan)_  
+MIchael Junior Onafowokan _(Emeka)_  
+Adé Dee Haastrup _(Craig)_  
+Joshua Blissett _(Steven)_  
+Temilola Olatunbosun _(Kemisha)_  
+Eliot Sumner _(Sam)_  
+Andrea Francis _(Walbury's colleague)_  
+Edwin De La Renta _(Fletcher)_  
+Nate Anidugbe _(Jay)_  
+Baba Oyejide _(Dockey)_  
+Matthew Jacobs Morgan _(drag queen)_  
+Rolan Bell _(Clive)_  
+Darrell Privett _(Paul)_  
+Basit Ayanwusi _(Tyson)_  
+
+UK 2022  
+110 mins  
+
+A BFI release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1MTYyMTA5XX0=
+eyJoaXN0b3J5IjpbNDk1MDAzNTQ3LDg3NTE2MjEwOV19
 -->
