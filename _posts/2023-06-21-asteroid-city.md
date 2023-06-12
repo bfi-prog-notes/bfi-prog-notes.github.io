@@ -1,5 +1,4 @@
 
-<![endif]-->
 
 _+ Q&A with director Wes Anderson_
 
@@ -12,7 +11,209 @@ Apparently the situational drama in the desert is the resulting televised play �
 Breaking down in Asteroid City with a station wagon full of children and his late wife’s ashes in a tupperware pot bound for his father-in-law (Tom Hanks dressed in teal and tan golf-wear by Anderson’s regular costume designer Milena Canonero is something to see), Schwartzman’s Augie rents a roadside cabin from Steve Carrell’s chirpy realtor/proprietor. In the neighbouring cabin he and his bashful teen son Woodrow (Jake Ryan) take shines to Johansson’s Midge and her teen daughter Dinah (Grace Edwards), one of a quintet of brainiac outcasts in town to be awarded for their outlandish inventions at a star-gazer/space cadet presentation. (Jeffrey Wright’s clip-tongued General Gibson and Tilda Swinton’s lab-coated Dr Hick-enlooper preside over the ceremonies.) Then, during a viewing of ‘astronomical ellipses’, they’re briefly joined by another, stop-motion interloper, presenting as something like one of Louis Feuillade’s silent bandits in a frog suit.
 
 While the teenagers’ onsite escapades and brain games recall the intrigue of _Moonrise Kingdom_ (2012), Augie and Midge, two adults passing time as they pass through, bring a countervailing deadpan melancholia, deflecting feelings of grief, abandonment and hapless parenting behind their professionalism. (Midge identifies them as ‘two catastrophically wounded people who don’t express the depths of our pain because… we don’t want to’; Augie, teeth clamped as ever on his pipe as if it will save him, responds: ‘Let’s change the subject.’) So the film, wrapping modernist questions of existentialism and artifice, alienation and isolation in Anderson’s arch, whimsical post-modernism, presses onwards, spinning out its formalist frolics for dear life. It closes with Jarvis Cocker and Richard Hawley singing the refrain earlier pitched as a mantra by the acting students: ‘You can’t wake up if you don’t fall asleep.’   
-**Nick Bradshaw, _Sight and Sound_, bfi.org.uk, 25 May 2023**
+**Nick Bradshaw, _Sight and Sound_, bfi.org.uk, 25 May 2023**  
+<br>
+
+<![endif]-->
+
+**ASTEROID CITY**
+
+_Directed by_: Wes Anderson  
+_©_: Pop. 87 Productions LLC, Focus Features LLC  
+_An_ American Empirical _picture_  
+_Spanish executive production services provided by_: S.L. Pop. 87 Films  
+_In association with_: Babelsberg Studios  
+_Supported by_: Medienboard BerlinBrandenburg, FFA - Filmförderungsanstalt  
+_Presented by_: Focus Features, Indian Paintbrush  
+_Executive Producers_: Roman Coppola,
+
+Henning Molfenter, Christoph Fisser,
+
+Charlie Woebecken  
+_Produced by_: Wes Anderson, Steven Rales,
+
+Jeremy Dawson  
+_Co-producers_: Octavia Peissel, John Peet  
+_Field Producer (2nd Unit)_: May Ziadé  
+_Regional Line Producer_:
+
+Fernando Victoria de Lecea  
+_Line Producer_: Frédéric Blum  
+_Associate Producer_: Molly Rosenblatt  
+_Production Managers_: Nico Santavicca,
+
+Pauline Galtié  
+_Production Co-ordinator_: Ira Álvarez  
+_Financial Controller_: Beatrice Giraud  
+_Production Accountant_: Annie Palazón Huet  
+_Unit Manager_: Bertrand Girard  
+_Location Manager_: Ricardo Ferrari  
+_Post Producer_: Gisela Evert  
+_Post-production Co-ordinator_: Lewis Humble  
+_2nd Unit Director_: Martin Scali  
+_1st Assistant Director_: Atilla Salih Yücer  
+_Script Supervisor_: Jennifer Furches  
+_Casting_: Douglas Aibel  
+_UK Casting by_: Jina Jay  
+_Casting Associate_: Matthew Glasner  
+_Screenplay by_: Wes Anderson  
+_Story by_: Wes Anderson, Roman Coppola  
+_Director of Photography_: Robert Yeoman  
+_Additional Director of Photography (Miniatures Shoot Crew)_: James Lewis  
+_2nd Unit Director of Photography_:
+
+Just-Aurèle Meissonnier  
+_Animation Director of Photography_: Tristan Oliver  
+_1st Assistant Camera_: Vincent Scotet  
+_Gaffer_: Gregory Fromentin  
+_Key Grip_: Sanjay Sami  
+_Visual Effects Supervisor_: Tim Ledbury  
+_Visual Effects by_: Red Visual Effects, Mathematic Film, VAST, Jellyfish Pictures, Misc Studios, Gorilla VFX, Goodbye Kansas, VHQ, Alchemy 24, Alkemy X  
+_Special Effects Supervisor_: Pau Costa Moeller  
+_Special Effects Designer_: Carlos Laguna  
+_Miniatures by_: Simon Weisse  
+_Alien Animated by_: Kim Keukeleire  
+_TV Lighting Designer_: Matt Daw  
+_Motion Control by (Miniatures Shoot Crew)_: Portable Motion Control  
+_Film Editor_: Barney Pilling  
+_Additional Editor_: Andrew Weisblum  
+_Production Designer_: Adam Stockhausen  
+_Supervising Art Director_: Stéphane Cressend  
+_Art Directors_: Antonio Calvo, Gabriel Liste, Leonardo Grillo, Alejandro Cymerman,
+
+Fernando Contreras  
+_Alien Drawing by_: Willa Skye  
+_Asquith Eden Portrait by_: Emma Wesley  
+_Billboards and Additional Paintings by_:
+
+David Meikle  
+_Cowboy Paintings by_: Michael Bergt  
+_Property Buyer_: Elia Robles  
+_Prop Master_: Sandy Hamilton  
+_Key Construction Manager_: José Altit  
+_Costume Designer_: Milena Canonero  
+_Wardrobe Supervisor_: Patricia Colin  
+_Make-up and Hair Designer_: Julie Dartnell  
+_Hair & Make-up Supervisor_: Claire Burgess  
+_Roadrunner and Alien Puppets by_: Andy Gent  
+_Title Design_: Erica Dorn  
+_Animatic/Title Sequence Editor_: Edward Bursch  
+_End Crawl by_: Jeff Kryvicky  
+_Colourist_: Gareth Spensley  
+_Music by_: Alexandre Desplat  
+_‘Dear Alien (Who Art in Heaven)’: Written by_:
+
+Wes Anderson, Jarvis Cocker; _Vocals_:
+
+Preston George Mota; _Lap-steel Guitar_: Rupert Friend; _Washboard_: Jarvis Cocker  
+_Original Music Orchestrated and Conducted by_: Conrad Pope  
+_[Production] Sound Mixer_: Valentino Giannì  
+_Sound Mixer (2nd Unit)_: Armando Ciudad  
+_Re-recording Mixers_: Wayne Lemmer,
+
+Chris Scarabosio  
+_Supervising Sound Editors_: Wayne Lemmer,
+
+Chris Scarabosio  
+_Dialogue Editor_: Russell Farmarco  
+_Sound Effects Editor_: Luis Galdames, Taylor Flinn  
+_Stunt Co-ordinator_: Dominique Fouassier  
+_Yodelling Consultant_: Jennie Knaggs  
+_Lasso Consultant_: Felipe Lleras García  
+_Lead Armourer_: Juan Ramón Molina  
+_Special Thanks:_ Juman Malouf, Noah Baumbach, Brian De Palma, Jake Paltrow, Martin Scorsese, Steven Spielberg
+
+_Cast__:_  
+Jason Schwartzman _(Augie Steenbeck)_  
+Scarlett Johansson _(Midge Campbell)_  
+Tom Hanks _(Stanley Zak)_  
+Jeffrey Wright _(General Gibson)_  
+Tilda Swinton _(Doctor Hickenlooper)_  
+Bryan Cranston _(the host)_  
+Edward Norton _(Conrad Earp)_  
+Adrien Brody _(Schubert Green)_  
+Liev Schreiber _(J.J. Kellogg)_  
+Hope Davis _(Sandy Borden)_  
+Stephen Park _(Roger Cho)_  
+Rupert Friend _(Montana)_  
+Maya Hawke _(June Douglas)_  
+Steve Carell _(the motel manager)_  
+Matt Dillon _(the mechanic)_  
+Hong Chau _(Polly)_  
+Willem Dafoe _(Saltzburg Keitel)_  
+Margot Robbie _(the actress/wife)_  
+Tony Revolori _(the aide-de-camp)_  
+Jake Ryan _(Woodrow)_  
+Grace Edwards _(Dinah)_  
+Aristou Meehan _(Clifford)_  
+Sophia Lillis _(Shelly)_  
+Ethan Josh Lee _(Ricky)_  
+Jeff Goldblum _(the alien)_  
+Ella Faris _(Andromeda)_  
+Gracie Faris _(Pandora)_  
+Willan Faris _(Cassiopeia)_  
+Deanna Dunagan _(waitress)_  
+Vandi Clark _(cashier)_  
+Pedro Placer _(cook)_  
+Iván Lopez _(Romulus)_  
+Aaron Ziobrowski _(bus driver)_  
+Celia Bermejo _(chaperone)_  
+Zoe Bernard _(Bernice)_  
+Brayden Frasure _(Billy)_  
+Preston George Mota _(Dwight)_  
+Kyleigh Fuller, Henry Sebastian Rhoades, Jack Eyman, Sebastian Stephens, Willa Skye,  
+Annalise Mackulin, Calhoun Metcalf _(other pupils)_  
+Seu Jorge, Jarvis Cocker, Pere Mallén, Jean-Yves Lozac’h _(other cowboys)_  
+Damien Bonnard _(bodyguard/driver)_  
+Ramón Ródenas _(motel handyman)_  
+<![endif]-->
+
+Wendy Nottingham _(Conrad Earp’s secretary)_  
+Bob Balaban _(Larkings executive)_  
+Fisher Stevens _(detective 1)_  
+Mike Maggart _(detective 2)_  
+Tilda Swinton _(Doctor Hickenlooper)_  
+Elvira Arce _(Mary)_  
+Nicolas Avinée _(military-science ensign)_  
+Mohamed Belhadjine _(military-science ensign)_  
+Katy Heffernan-Smith _(‘stunt double’)_  
+Paul Kynman _(Lunky)_  
+Sam Marra _(telephone booth guard)_  
+Rita Wilson _(Mrs Weatherford)_  
+Ara Hollyday _(Skip Weatherford)_  
+Kenneth Bate, Christian Bate _(newsboys)_  
+Sandy Hamilton _(backstage sound man)_  
+Roberto Moreno de Matías _(engineer)_  
+Francisco Serrano _(pilotman)_  
+Francisco Javier Gómez Piero _(brakeman)_  
+Jacinto Domingo Torija _(hobo)_  
+Alvaro Olives Marqués _(caddy)_  
+Dominique Fouassier, Pablo Amoros
+
+_(outlaws on the run)_  
+Yann Tremblay, Sébastien Fouassier,
+
+Carlos Arimón _(state troopers)_  
+Antonio Graziano _(cameraman)_  
+Nuria Gigorro _(motel guest (at shower))_  
+Raquel Jiménez Martínez _(motel guest (at shower))_  
+Jorge Francisco Mena García _(motel gardener)_  
+Ana Isabel Comendador Martínez _(motel maid)_  
+Carlos Saez _(T-shirt vendor)_  
+Karine Niederman _(bookseller)_  
+Jesús Olivas Santos _(man with soda)_  
+Jose Luis Figueroa _(hot dog stand)_  
+Pascale Coppola _(girl on blanket)_  
+Matilda Clarke _(girl on blanket)_  
+Milagros Ahijón _(souvenir booth)_  
+Paula Domingo _(souvenir booth)_  
+Cristian García Jiménez _(boy in spacesuit)_  
+Junior Harris, Robert Tattam, Eusebio Mateo Diaz _(ferris wheel crew)_  
+USA 2023  
+
+105 mins  
+Courtesy of Universal Pictures  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDAwNjQ2XX0=
+eyJoaXN0b3J5IjpbMTMxMjkyNjkxXX0=
 -->
