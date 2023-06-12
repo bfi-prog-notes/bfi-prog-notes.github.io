@@ -50,86 +50,49 @@ _Produced by:_ Dan Winch<br>
 _Executive Producers:_ Charlie Brooker,  Jessica Rhoades, Annabel Jones<br>
 _Co-executive Producer:_ Bisha K Ali<br>
 _Co-producer:_ Joel Stokes<br>
-
 _Consulting Producer:_ Louise Sutton<br>
-
 _Head of Production:_ Jo Kay<br>
-
 _Line Producer:_ Kelly Duffell<br>
-
 _Financial Controller:_ Rebecca Samuelson<br>
-
 _Post-production Producer:_ Tara Bhoola<br>
-
 _Casting by:_ Jina Jay<br>
-
-_Supervising Location Manager:  
-_Adam Betterton<br>
-
+_Supervising Location Manager:_ Adam Betterton<br>
 _1st Assistant Director:_ Andy Pearson<br>
-
 _Director of Photography:_ Stuart Bentley<br>
-
 _Editor:_ Jon Harris<br>
-
 _VFX Supervisor:_ Abigail Scollay<br>
-
 _VFX Producer:_ Josie Henwood<br>
-
 _Production Designer:_ Udo Kramer<br>
-
 _Supervising Art Director:_ Philip Barber<br>
-
 _Costume Designer:_ Suzanne Cave<br>
-
 _Make-up and Hair Designer:_ Konnie Daniel<br>
-
 _Music by:_ Volker Bertelmann<br>
-
 _Music Supervisor:_ Amelia Hartley<br>
-
 _Sound Mixer:_ Richard Miller<br>
-
 _Stunt Co-ordinator:_ Guiomar Alonso<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Aaron Paul _(Cliff)_<br>
-
 Josh Hartnett _(David)_<br>
-
 Kate Mara _(Lana)_<br>
-
 Auden Thornton _(Jessica Ross)_<br>
-
 Rory Culkin _(Kappa)_<br>
-
 Daniel Bell _(Henry Stanfield)_<br>
-
 Billie Sturrock Kewish _(Lily Ross)_<br>
-
 Charlie Fidelski _(Ricky Ross)_<br>
-
 Olen Gunn _(Kyle)_<br>
-
 Lydia Cherry _(Sally)_<br>
-
 Marama Corlett _(Theta)_<br>
-
 Siân Davis _(Sigma)_<br>
-
 Ioachim Ciobanu _(Epsilon)_<br>
-
 Simon Markey _(pastor)_<br>
-
 Marceline Hugot _(bookshop clerk)_<br>
 
 75 mins<br>
-
 2023 Netflix / Broke & Bones
 
 Total running time: 120 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzgwMTc4OF19
+eyJoaXN0b3J5IjpbMTg0ODk2MTExNl19
 -->
