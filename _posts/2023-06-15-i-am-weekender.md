@@ -39,8 +39,165 @@ Everyone involved in making _Weekender_, from director WIZ (Andrew Whiston) and 
 **Nish**  
 Shot in 1989 at a Boy’s Own Party in Kent, with the ghost of Derek Jarman and Mozart behind WIZ’s Super 8 camera. Featuring such acid house luminaries as Danny and Jenni Rampling, Breeze, Andrew Weatherall, Paolo Sedazzari and Anna Haigh, this singular and intimate short delicately captures the guileless beauty of these ecstasy pioneers. Should you want to know why people take drugs, watch this: these people are high, not wasted. Enchanting.  
 **_I_  _Am Weekender_ BFI Blu-ray booklet**  
+<br>  
+**I AM WEEKENDER**  
+_Directed and edited by:_ Chloé Raunet  
+_Produced by:_ Martin Kelly, Andrew Whiston  
+_Executive Producers:_ Adam Dunlop,
+Tabitha Denholm, Rob Stringer  
+_Editing Supervisor:_ Mark Hopkinson  
+_Editing Assistant:_ Hazel Fotheringham  
+_Interviews by:_ Tabitha Denholm  
+_Interview Capture and First Assembly:_
+Adam Dunlop  
+_Special Consultants:_ Des Penney, Tabitha Denholm  
+_Research:_ Arabella Glaß  
+_AFX Artist:_ Georgina Thompson  
+_Motion Designer:_ Hazel Fotheringham  
+_Post Production:_ Onsight  
+_Post Producer:_ Cem Kilinchan  
+_Online Editor:_ Andrew Fisun  
+_Colourist:_ Emily Russul Saib  
+_Sound Supervisor:_ Andy Coles  
+
+_With:_  
+Adam Smith  
+Anna Haigh  
+Annie Nightingale  
+Barry Mooncult  
+Bobby Gillespie
+
+Clive Langer
+
+Daniel Wolfe
+
+Des Penney
+
+David Holmes
+
+Dinara Drukarova
+
+Elliot Power
+
+Irvine Welsh
+
+Jagz Kooner
+
+Jeff Barrett
+
+Jeremy Deller
+
+John Tuvey
+
+Kim Mnguni
+
+Lee Whitlock
+
+Lynne Ramsay
+
+Mark Moore
+
+Miranda Sawyer
+
+Richard Fearless
+
+Roisin Murphy
+
+Roy The Roach
+
+Marsh
+
+Sacha Souter
+
+Shaun Ryder
+
+Tim Dorney
+
+UK 2023
+
+51 mins
+
+**Weekender**
+
+_Written and Directed by:_ WIZ
+
+_Music by:_ Flowered Up
+
+_Executive Producers:_ Jeff Barrett, Rob Stringer
+
+_Commissioned by:_ Jeff Barrett, Steve Hodges,
+
+Ollie Weait
+
+_Produced by:_ Adam Dunlop
+
+_Line Producer:_ Nicci Power
+
+_Production Manager:_ Jayne Griffiths
+
+_Production Assistant:_ Lou Whiston
+
+_Continuity:_ Claudia Dunlop
+
+_First Assistant Director:_ Dominic Fysh
+
+_Second Assistant Director:_ David Greenhalgh
+
+_Cinematography:_ Tim Maurice-Jones
+
+_Camera Operator:_ Andy Horner
+
+_Film Editor:_ Robert Milton Wallace
+
+_Special Consultant:_ Des Penney
+
+_Production Design:_ Vince Evans
+
+_Costume Design:_ Rachael Fleming
+
+_Hair:_ Chris Camm
+
+_Make-up:_ Sacha Souter
+
+_Sound Designer:_ Johnnie Burn
+
+_Sound Recordist:_ Michelle Mascol
+
+_With:_
+
+Anna Haigh
+
+Lee Whitlock
+
+David Doyle
+
+Flowered Up: Liam Maher, Joe Maher, Tim Dorney, Mick Leader, John Tuvey, Barry Mooncult
+
+UK 1992
+
+17 mins
+
+**Nish**
+
+_Directed, Produced and Edited by:_ WIZ
+
+_Camera Operator:_  David Greenhalgh
+
+_Piano Concerto No.21 in C, K.467 Andante_ _by**:**_  Wolfgang Amadeus Mozart
+
+_Orchestra__:_ The London Philharmonia
+
+_Conductor:_  Wolfgang Sawallisch
+
+UK 1990
+
+4 mins
+
+**Available on BFI Blu-ray from 19 June**
+
+Following the screening + Q&A there will be  
+a live DJ set.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU1MzM2OTEsLTEwNTk2ODY2OTddfQ
-==
+eyJoaXN0b3J5IjpbLTQ2OTUzMTg3OSwtMTA1OTY4NjY5N119
 -->
