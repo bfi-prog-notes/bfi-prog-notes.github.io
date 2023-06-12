@@ -41,6 +41,95 @@ With a background as an award winning theatre director, John’s other credits i
 **Josh Hartnett**  
 Josh Hartnett first came to audiences’ attention as Michael ‘Fitz’ Fitzgerald in the television series _Cracker_. He made his feature film debut in 1998 with Jamie Lee Curtis in _Halloween: H20_. Also that year, he starred in _The Faculty_ directed by Robert Rodriguez. In 1999 he starred in the critically acclaimed black comedy _The Virgin Suicides_ opposite Kirsten Dunst, Sofia Coppola’s directorial debut. In 2001 Hartnett hit a stride by starring in three features. He portrayed the antagonist in the Lionsgate film _O_, a modern day version of _Othello_ and then landed a role in the Jerry Bruckheimer blockbuster _Pearl Harbor_, which earned over $1 billion dollars worldwide. He segued to Morocco where he starred in Sony’s _Black Hawk Down_ for director Ridley Scott. In 2002 the National Theater Owners awarded him with the ShoWest 2002 Male Star of Tomorrow Award. He followed with MGM’s _Wicker_ _Park_, Miramax’s _Sin City_ for director Robert Rodriguez, and _Mozart and the Whale_. He also starred in _Lucky Number Slevin_ with Morgan Freeman and Bruce Willis as well as  _The Black Dahlia_ for director Brian De Palma. Hartnett starred as Ethan Chandler in the much lauded Showtime series _Penny_ _Dreadful_. Additional film credits include _Hollywood Homicide_, _40 Days and 40 Nights_, _Blow Dry_, _Resurrecting the Champ_, Sony’s _30 Days of Night_ and _Oh Lucy!_ Most recently he appeared in the Guy Ritchie directed _Wrath of Man_ and _Operation Fortune: Ruse de Guerre_, the HBO/Raoul Peck four part documentary _Exterminate All the Brutes_. He will next be seen in Christopher Nolan’s _Oppenheimer_.
 <br><br>
+
+
+**BLACK MIRROR: BEYOND THE SEA**<br>
+_Directed by:_ John Crowley<br>
+_Written by:_ Charlie Brooker<br>
+_Produced by:_ Dan Winch<br>
+_Executive Producers:_ Charlie Brooker,  Jessica Rhoades, Annabel Jones<br>
+_Co-executive Producer:_ Bisha K Ali<br>
+_Co-producer:_ Joel Stokes<br>
+
+_Consulting Producer:_ Louise Sutton<br>
+
+_Head of Production:_ Jo Kay<br>
+
+_Line Producer:_ Kelly Duffell<br>
+
+_Financial Controller:_ Rebecca Samuelson<br>
+
+_Post-production Producer:_ Tara Bhoola<br>
+
+_Casting by:_ Jina Jay<br>
+
+_Supervising Location Manager:  
+_Adam Betterton<br>
+
+_1st Assistant Director:_ Andy Pearson<br>
+
+_Director of Photography:_ Stuart Bentley<br>
+
+_Editor:_ Jon Harris<br>
+
+_VFX Supervisor:_ Abigail Scollay<br>
+
+_VFX Producer:_ Josie Henwood<br>
+
+_Production Designer:_ Udo Kramer<br>
+
+_Supervising Art Director:_ Philip Barber<br>
+
+_Costume Designer:_ Suzanne Cave<br>
+
+_Make-up and Hair Designer:_ Konnie Daniel<br>
+
+_Music by:_ Volker Bertelmann<br>
+
+_Music Supervisor:_ Amelia Hartley<br>
+
+_Sound Mixer:_ Richard Miller<br>
+
+_Stunt Co-ordinator:_ Guiomar Alonso<br>
+
+_Cast:_<br>
+
+Aaron Paul _(Cliff)_<br>
+
+Josh Hartnett _(David)_<br>
+
+Kate Mara _(Lana)_<br>
+
+Auden Thornton _(Jessica Ross)_<br>
+
+Rory Culkin _(Kappa)_<br>
+
+Daniel Bell _(Henry Stanfield)_<br>
+
+Billie Sturrock Kewish _(Lily Ross)_<br>
+
+Charlie Fidelski _(Ricky Ross)_<br>
+
+Olen Gunn _(Kyle)_<br>
+
+Lydia Cherry _(Sally)_<br>
+
+Marama Corlett _(Theta)_<br>
+
+Siân Davis _(Sigma)_<br>
+
+Ioachim Ciobanu _(Epsilon)_<br>
+
+Simon Markey _(pastor)_<br>
+
+Marceline Hugot _(bookshop clerk)_<br>
+
+75 mins<br>
+
+2023 Netflix / Broke & Bones
+
+Total running time: 120 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjUxMDQ4OV19
+eyJoaXN0b3J5IjpbLTU5MzgwMTc4OF19
 -->
