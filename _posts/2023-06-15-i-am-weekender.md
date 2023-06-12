@@ -19,8 +19,7 @@ Flowered Up’s _Weekender_ was released in 1992. It was a film ahead of its tim
 
 Through uncompromising yet imaginative ways, director WIZ engaged with contemporary issues that mainstream media were eager to sensationalise. Consequently, it was branded with an 18 certificate and banned by both the BBC and ITV, never reaching a wide audience. For the past three decades, _Weekender_ has bubbled just below the surface, gaining genuine cult status and influencing a vast network of creators.
 
-At the end of 2020, mid-lockdown and in the run-up to its thirtieth anniversary, filmmakers Tabitha Denholm and Adam Dunlop conducted a series of Zoom interviews with people involved in the project, alongside others it touched.  
-_I Am Weekender_ is built around those conversations, the 16mm rushes and WIZ’s personal archive. The result is a unique, cinematic journey into the heart of Acid House.
+At the end of 2020, mid-lockdown and in the run-up to its thirtieth anniversary, filmmakers Tabitha Denholm and Adam Dunlop conducted a series of Zoom interviews with people involved in the project, alongside others it touched. _I Am Weekender_ is built around those conversations, the 16mm rushes and WIZ’s personal archive. The result is a unique, cinematic journey into the heart of Acid House.
 
 Not wanting to rely exclusively on nostalgia, documentary director Chloé Raunet drew attention to some lesser-known aspects of the culture, attempting to highlight a more diverse range of voices. _Weekender_ co-star Anna Haigh’s first hand female perspective, and Quaff Records founder Roy ‘The Roach’ Marsh describing the Black experience of the early scene were vital to unlocking a richer narrative.
 
