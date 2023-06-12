@@ -5,9 +5,9 @@ published: true
 date: 2023-06-18
 readtime: true
 categories: ['PREVIEW']
-tags: [Drama]
-metadata: 'UK 2022, 110 mins<br> Director:  Dionne Edwards'
-pdf: '2023-06-16-pretty-red-dress.pdf'
+tags: [Animation, Children. Adventure]
+metadata: 'USA 2023, 101 mins<br> Director:  Peter Sohn'
+pdf: '2023-06-18-elemental.pdf'
 ---
 
 
@@ -147,5 +147,5 @@ USA 2023
 
 Courtesy of Walt Disney Company (UK)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc4MDQ2MzZdfQ==
+eyJoaXN0b3J5IjpbLTE0OTc4MTA5MTJdfQ==
 -->
