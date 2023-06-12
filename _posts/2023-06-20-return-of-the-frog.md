@@ -1,14 +1,23 @@
+---
+layout: post
+title: The Return of the Frog
+published: true
+date: 2023-06-20
+readtime: true
+categories: ['PROJECTING THE ARCHIVE']
+tags: [Drama, Crime]
+metadata: 'UK 1938, 70 mins<br> Director: <![endif]--> Maurice Elvey'
+pdf: '2023-06-20-name-me-lawand.pdf'
+---
 
 
-<![endif]-->
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
 Despite being defeated by Inspector Elk (Harker) in _The Frog_ (1937), the infamous underworld gang resumes its nefarious activity in this sequel. From Upper Norwood to Finchley, dastardly misdeeds are being committed and, like a villainous Banksy, the perpetrators leave a frog symbol at the scene. Armed only with his trusty umbrella, Elk must once again uncover the identity of the Frog, this time joining forces with Lila (a spirited performance by Rène Ray) and a Chicago cop (Power). Thrills come thick and fast as the film journeys through secret passages and delivers a smorgasbord of explosions and poison-gas attacks, in true Edgar Wallace style.  
-**bfi.org.uk**
+**bfi.org.uk**  
 
-**A contemporary review**
-
+**A contemporary review**  
 Crime thriller, adapted from Edgar Wallace’s story, ‘The India Rubber Men’.  
 A number of murders in the London dock area makes Scotland Yard suspect that a criminal gang, known as the Frogs, has found a new leader. Inspector Elk is put in charge of the investigation, and, being suspicious of the bona fides of a visiting police officer from Chicago called Sandford, he puts him on the case so as to be able to watch him closely.
 
@@ -63,5 +72,5 @@ UK 1938
 
 A BFI National Archive print  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTcyNTQxNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMzAzNzUwNzcyLDczMDk5ODExNl19
 -->
