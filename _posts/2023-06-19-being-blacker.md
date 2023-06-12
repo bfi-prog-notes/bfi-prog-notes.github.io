@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: being Blacker
+published: true
+date: 2023-06-19
+readtime: true
+categories: ['SENIORS’ FREE ARCHIVE MATINEE']
+tags: [Documentary]
+metadata: 'USA 1976, 114 mins<br> Director: <![endif]--> Molly Dineen'
+pdf: '2023-06-19-being-b.pdf'
+---
 
 _+ intro and Q&A with Molly Dineen and Blacker Dread. The event is hosted by Arike Oke, Executive Director of Knowledge and Collections at the BFI._
 
@@ -49,5 +57,5 @@ UK 2018
 **A Charmed Life + panel with directors and special guests** Sat 24 Jun 14:00  
 Part of Windrush 75 – Celebrating a turning point in building modern Britain and sparking a wider conversation about the past, present and future of our multi-ethnic society.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODc1OTE0XX0=
+eyJoaXN0b3J5IjpbMTgzNzMzNDY1Nl19
 -->
