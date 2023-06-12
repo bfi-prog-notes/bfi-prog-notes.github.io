@@ -1,4 +1,14 @@
-<![endif]-->
+---
+layout: post
+title: Pretty Red Dress
+published: true
+date: 2023-06-16
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'UK 2022, 110 mins<br> Director:  Dionne Edwards'
+pdf: '2023-06-16-pretty-red-dress.pdf'
+---
 
 ‘Don’t be a pussy boy,’ Travis (Natey Jones) tells himself as he admires the striking look of a decorative necklace against his throat. Travis has just been released from prison and is trying to settle back into south London life in the flat he shares with his partner Candice (Alexandra Burke) and their teenage daughter Kenisha (Temilola Olatunbosun). The adjustment process is challenging, as you might expect. Kenisha doesn’t communicate much and is constantly in trouble at school. Travis, short of work opportunities, finds himself in the awkward situation of working for his big brother Clive (Rolan Bell) at his restaurant, and observing Clive’s somewhat flirtatious dynamic with Candice. Candice herself, meanwhile, has landed an audition for a potentially transformative opportunity, playing Tina Turner in a West End musical, but feels frustrated by the responsibilities of caring for both Travis and Kenisha. Then there’s the matter of the necklace – or, more broadly speaking, Travis’s secret interest in femme glamour, trying out looks behind closed doors using Candice’s jewellery, make-up, wigs and clothes. The film takes its title from a pretty red dress the couple find in a vintage shop. Travis buys it, ostensibly for Candice’s audition, though it soon becomes evident that he has taken a shine to it himself. As events progress, the dress becomes an object of identification for Kenisha too, though in more convoluted ways that spark both new conflicts and new understandings.
 
@@ -80,6 +90,30 @@ UK 2022
 110 mins  
 
 A BFI release  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound & the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjE5OTcxNyw4NzUxNjIxMDldfQ==
+eyJoaXN0b3J5IjpbMjA3NzUxODMzNyw4NzUxNjIxMDldfQ==
 -->
