@@ -14,10 +14,7 @@ While the teenagers’ onsite escapades and brain games recall the intrigue of _
 **Nick Bradshaw, _Sight and Sound_, bfi.org.uk, 25 May 2023**  
 <br>
 
-<![endif]-->
-
-**ASTEROID CITY**
-
+**ASTEROID CITY**  
 _Directed by_: Wes Anderson  
 _©_: Pop. 87 Productions LLC, Focus Features LLC  
 _An_ American Empirical _picture_  
@@ -26,22 +23,14 @@ _In association with_: Babelsberg Studios
 _Supported by_: Medienboard BerlinBrandenburg, FFA - Filmförderungsanstalt  
 _Presented by_: Focus Features, Indian Paintbrush  
 _Executive Producers_: Roman Coppola,
-
-Henning Molfenter, Christoph Fisser,
-
-Charlie Woebecken  
-_Produced by_: Wes Anderson, Steven Rales,
-
-Jeremy Dawson  
+Henning Molfenter, Christoph Fisser, Charlie Woebecken  
+_Produced by_: Wes Anderson, Steven Rales, Jeremy Dawson  
 _Co-producers_: Octavia Peissel, John Peet  
 _Field Producer (2nd Unit)_: May Ziadé  
-_Regional Line Producer_:
-
-Fernando Victoria de Lecea  
+_Regional Line Producer_: Fernando Victoria de Lecea  
 _Line Producer_: Frédéric Blum  
 _Associate Producer_: Molly Rosenblatt  
 _Production Managers_: Nico Santavicca,
-
 Pauline Galtié  
 _Production Co-ordinator_: Ira Álvarez  
 _Financial Controller_: Beatrice Giraud  
@@ -60,9 +49,7 @@ _Screenplay by_: Wes Anderson
 _Story by_: Wes Anderson, Roman Coppola  
 _Director of Photography_: Robert Yeoman  
 _Additional Director of Photography (Miniatures Shoot Crew)_: James Lewis  
-_2nd Unit Director of Photography_:
-
-Just-Aurèle Meissonnier  
+_2nd Unit Director of Photography_: Just-Aurèle Meissonnier  
 _Animation Director of Photography_: Tristan Oliver  
 _1st Assistant Camera_: Vincent Scotet  
 _Gaffer_: Gregory Fromentin  
@@ -80,7 +67,6 @@ _Additional Editor_: Andrew Weisblum
 _Production Designer_: Adam Stockhausen  
 _Supervising Art Director_: Stéphane Cressend  
 _Art Directors_: Antonio Calvo, Gabriel Liste, Leonardo Grillo, Alejandro Cymerman,
-
 Fernando Contreras  
 _Alien Drawing by_: Willa Skye  
 _Asquith Eden Portrait by_: Emma Wesley  
@@ -102,18 +88,13 @@ _End Crawl by_: Jeff Kryvicky
 _Colourist_: Gareth Spensley  
 _Music by_: Alexandre Desplat  
 _‘Dear Alien (Who Art in Heaven)’: Written by_:
-
-Wes Anderson, Jarvis Cocker; _Vocals_:
-
-Preston George Mota; _Lap-steel Guitar_: Rupert Friend; _Washboard_: Jarvis Cocker  
+Wes Anderson, Jarvis Cocker; _Vocals_: Preston George Mota; _Lap-steel Guitar_: Rupert Friend; _Washboard_: Jarvis Cocker  
 _Original Music Orchestrated and Conducted by_: Conrad Pope  
 _[Production] Sound Mixer_: Valentino Giannì  
 _Sound Mixer (2nd Unit)_: Armando Ciudad  
 _Re-recording Mixers_: Wayne Lemmer,
-
 Chris Scarabosio  
 _Supervising Sound Editors_: Wayne Lemmer,
-
 Chris Scarabosio  
 _Dialogue Editor_: Russell Farmarco  
 _Sound Effects Editor_: Luis Galdames, Taylor Flinn  
@@ -121,9 +102,9 @@ _Stunt Co-ordinator_: Dominique Fouassier
 _Yodelling Consultant_: Jennie Knaggs  
 _Lasso Consultant_: Felipe Lleras García  
 _Lead Armourer_: Juan Ramón Molina  
-_Special Thanks:_ Juman Malouf, Noah Baumbach, Brian De Palma, Jake Paltrow, Martin Scorsese, Steven Spielberg
+_Special Thanks:_ Juman Malouf, Noah Baumbach, Brian De Palma, Jake Paltrow, Martin Scorsese, Steven Spielberg  
 
-_Cast__:_  
+**Cast**  
 Jason Schwartzman _(Augie Steenbeck)_  
 Scarlett Johansson _(Midge Campbell)_  
 Tom Hanks _(Stanley Zak)_  
@@ -166,8 +147,6 @@ Annalise Mackulin, Calhoun Metcalf _(other pupils)_
 Seu Jorge, Jarvis Cocker, Pere Mallén, Jean-Yves Lozac’h _(other cowboys)_  
 Damien Bonnard _(bodyguard/driver)_  
 Ramón Ródenas _(motel handyman)_  
-<![endif]-->
-
 Wendy Nottingham _(Conrad Earp’s secretary)_  
 Bob Balaban _(Larkings executive)_  
 Fisher Stevens _(detective 1)_  
@@ -215,5 +194,5 @@ USA 2023
 Courtesy of Universal Pictures  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjkyNjkxXX0=
+eyJoaXN0b3J5IjpbLTY5NTMwOTgwMV19
 -->
