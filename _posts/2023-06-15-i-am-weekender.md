@@ -65,117 +65,65 @@ Adam Smith
 Anna Haigh  
 Annie Nightingale  
 Barry Mooncult  
-Bobby Gillespie
+Bobby Gillespie  
+Clive Langer  
+Daniel Wolfe  
+Des Penney  
+David Holmes  
+Dinara Drukarova  
+Elliot Power  
+Irvine Welsh  
+Jagz Kooner  
+Jeff Barrett  
+Jeremy Deller  
+John Tuvey  
+Kim Mnguni  
+Lee Whitlock  
+Lynne Ramsay  
+Mark Moore  
+Miranda Sawyer  
+Richard Fearless  
+Roisin Murphy  
+Roy The Roach  
+Marsh  
+Sacha Souter  
+Shaun Ryder  
+Tim Dorney  
 
-Clive Langer
+UK 2023  
+51 mins  
 
-Daniel Wolfe
+**Weekender**  
+_Written and Directed by:_ WIZ  
+_Music by:_ Flowered Up  
+_Executive Producers:_ Jeff Barrett, Rob Stringer  
+_Commissioned by:_ Jeff Barrett, Steve Hodges, Ollie Weait  
+_Produced by:_ Adam Dunlop  
+_Line Producer:_ Nicci Power  
+_Production Manager:_ Jayne Griffiths  
+_Production Assistant:_ Lou Whiston  
+_Continuity:_ Claudia Dunlop  
+_First Assistant Director:_ Dominic Fysh  
+_Second Assistant Director:_ David Greenhalgh  
+_Cinematography:_ Tim Maurice-Jones  
+_Camera Operator:_ Andy Horner  
+_Film Editor:_ Robert Milton Wallace  
+_Special Consultant:_ Des Penney  
+_Production Design:_ Vince Evans  
+_Costume Design:_ Rachael Fleming  
+_Hair:_ Chris Camm  
+_Make-up:_ Sacha Souter  
+_Sound Designer:_ Johnnie Burn  
+_Sound Recordist:_ Michelle Mascol  
 
-Des Penney
+_With:_  
+Anna Haigh  
+Lee Whitlock  
+David Doyle  
+Flowered Up: Liam Maher, Joe Maher, Tim Dorney, Mick Leader, John Tuvey, Barry Mooncult  
 
-David Holmes
-
-Dinara Drukarova
-
-Elliot Power
-
-Irvine Welsh
-
-Jagz Kooner
-
-Jeff Barrett
-
-Jeremy Deller
-
-John Tuvey
-
-Kim Mnguni
-
-Lee Whitlock
-
-Lynne Ramsay
-
-Mark Moore
-
-Miranda Sawyer
-
-Richard Fearless
-
-Roisin Murphy
-
-Roy The Roach
-
-Marsh
-
-Sacha Souter
-
-Shaun Ryder
-
-Tim Dorney
-
-UK 2023
-
-51 mins
-
-**Weekender**
-
-_Written and Directed by:_ WIZ
-
-_Music by:_ Flowered Up
-
-_Executive Producers:_ Jeff Barrett, Rob Stringer
-
-_Commissioned by:_ Jeff Barrett, Steve Hodges,
-
-Ollie Weait
-
-_Produced by:_ Adam Dunlop
-
-_Line Producer:_ Nicci Power
-
-_Production Manager:_ Jayne Griffiths
-
-_Production Assistant:_ Lou Whiston
-
-_Continuity:_ Claudia Dunlop
-
-_First Assistant Director:_ Dominic Fysh
-
-_Second Assistant Director:_ David Greenhalgh
-
-_Cinematography:_ Tim Maurice-Jones
-
-_Camera Operator:_ Andy Horner
-
-_Film Editor:_ Robert Milton Wallace
-
-_Special Consultant:_ Des Penney
-
-_Production Design:_ Vince Evans
-
-_Costume Design:_ Rachael Fleming
-
-_Hair:_ Chris Camm
-
-_Make-up:_ Sacha Souter
-
-_Sound Designer:_ Johnnie Burn
-
-_Sound Recordist:_ Michelle Mascol
-
-_With:_
-
-Anna Haigh
-
-Lee Whitlock
-
-David Doyle
-
-Flowered Up: Liam Maher, Joe Maher, Tim Dorney, Mick Leader, John Tuvey, Barry Mooncult
-
-UK 1992
-
-17 mins
+UK 1992  
+17 mins  
 
 **Nish**
 
@@ -199,5 +147,5 @@ Following the screening + Q&A there will be
 a live DJ set.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTUzMTg3OSwtMTA1OTY4NjY5N119
+eyJoaXN0b3J5IjpbLTI5NjMxMjcsLTEwNTk2ODY2OTddfQ==
 -->
