@@ -72,19 +72,20 @@ UK 1938
 A BFI National Archive print  
 <br>
 
-**REGULAR PROGRAMME**
-**Projecting the Archive: The Return of the Frog + introduction by film historian Jonathan Rigby**
-Tue 20 Jun 18:30
-**Experimenta Mixtape S02E03 curated by Mark Leckey + Mark Leckey in conversation with novelist Sheena Patel, author _I’m A Fan_**
-Thu 22 Jun 18:20
-**African Odysseys: A Charmed Life + panel with directors and special guests**
-Sat 24 Jun 14:00
-**Relaxed Screening: Under the Skin + intro and discussion**
-Mon 26 Jun 18:15
-**Black Self-Building On Screen + discussion**
-Tue 27 Jun 18:30
+**REGULAR PROGRAMME**  
+**Projecting the Archive: The Return of the Frog + introduction by film historian Jonathan Rigby**  
+Tue 20 Jun 18:30  
+**Experimenta Mixtape S02E03 curated by Mark Leckey + Mark Leckey in conversation with novelist Sheena Patel, author _I’m A Fan_**  
+Thu 22 Jun 18:20  
+**African Odysseys: A Charmed Life + panel with directors and special guests**  
+Sat 24 Jun 14:00  
+**Relaxed Screening: Under the Skin + intro and discussion**  
+Mon 26 Jun 18:15  
+**Black Self-Building On Screen + discussion**  
+Tue 27 Jun 18:30  
 <br>
-<br>
+
+
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
 *Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
