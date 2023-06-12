@@ -1,7 +1,67 @@
 
 
+<![endif]-->
 
-> Written with [StackEdit](https://stackedit.io/).
+**SPOILER WARNING** The following notes give away some of the plot.
+
+Despite being defeated by Inspector Elk (Harker) in _The Frog_ (1937), the infamous underworld gang resumes its nefarious activity in this sequel. From Upper Norwood to Finchley, dastardly misdeeds are being committed and, like a villainous Banksy, the perpetrators leave a frog symbol at the scene. Armed only with his trusty umbrella, Elk must once again uncover the identity of the Frog, this time joining forces with Lila (a spirited performance by Rène Ray) and a Chicago cop (Power). Thrills come thick and fast as the film journeys through secret passages and delivers a smorgasbord of explosions and poison-gas attacks, in true Edgar Wallace style.  
+**bfi.org.uk**
+
+**A contemporary review**
+
+Crime thriller, adapted from Edgar Wallace’s story, ‘The India Rubber Men’.  
+A number of murders in the London dock area makes Scotland Yard suspect that a criminal gang, known as the Frogs, has found a new leader. Inspector Elk is put in charge of the investigation, and, being suspicious of the bona fides of a visiting police officer from Chicago called Sandford, he puts him on the case so as to be able to watch him closely.
+
+Elk’s suspicions fasten in turn on the owners of a seamen’s cafe, Sandford himself, and the Captain of a Dutch boat. The Inspector has narrow shaves and barely escapes death in a cellar flooded with poison gas, and from a bomb attached to the police launch, before he locates the headquarters of the gang and unmasks the Frog himself.
+
+Some of the many exciting incidents do not altogether escape the touch of farce; they reach their climax in an exceedingly funny episode in which the Frog is captured in the grab at the top of a crane. Gordon Harker is splendid as the imperturbable Inspector and the improbabilities of the plot do not spoil its many exciting moments.  
+**_Monthly Film Bulletin_, January 1939**
+
+**Maurice Elvey** was born William Seward Folkard on 11 November 1887 in Stockton-on-Tees. He left home while still a child, seeking his fortune in London, where he worked variously as a kitchen hand and hotel pageboy, and later as an actor and stagehand. Ambitious and hard-working, Elvey rose quickly to directing and producing plays, establishing his own theatrical company before switching to films in 1912. He directed an array of comedies and dramas for the Motograph company and British and Colonial, most of them starring Elizabeth Risdon and Fred Groves, including the melodrama _Maria Marten: Or The Murder in the Red Barn_ (1913), an adaptation of Robert Louis Stevenson’s The Suicide Club (1914), and a version of Shakespeare’s _As You Like It_, more plainly titled _Love in a Wood_ (1916).
+
+By the end of the First World War, Elvey was making popular features in a variety of genres. Best known are his biographical films, of Florence Nightingale, Nelson, and Lloyd George. These reveal a Janus-faced director, working firmly in a tradition of Victorian hagiography, but clearly searching for contemporary relevance. They show some startlingly modern touches of associative editing and a facility for location and crowd scenes. Indeed it has been argued that if his _Life Story of David Lloyd George_ (1918) had not been suppressed for political reasons, British cinema may have taken a different direction. The rediscovery of this remarkable film has forced a re-appraisal both of British cinema in this period generally, and of Elvey’s (largely lost) output in particular.
+
+By the early 1920s Elvey had become the chief director at Stoll, a studio that gained a reputation for swift, unimaginative literary adaptations, but was one of the first to model itself as a major producer with a distinctively national output. In 1924 he went to America, where he made five films for the Fox Film Corporation. He returned in 1925, putting his experience to especially good use on the psychologically sophisticated Anglo-German melodrama _Human Law/Tragödie Einer Ehe_ (1926), and _Hindle Wakes_ (1927), _Roses of Picardy_ (1927), _Palais de Dance_ (1928) and _High Treason_ (1929): films that display an awareness of visual storytelling and spectacle often lacking in his later work. _Hindle Wakes_ is a particularly successful example of Elvey’s blend of realism, melodrama and sense of location
+
+During the 1930s Elvey’s tireless energy led him to work across the spectrum of British production, on ‘quota quickies’ as well as on ambitious productions such as _The Tunnel_ for Gaumont-British. At Ealing he made Gracie Fields’ first film, _Sally in Our Alley_ (1931) – notably more realistic and downbeat in tone than her later vehicles – and subsequently _This Week of Grace_ and _Love, Life and Laughter_. During the Second World War, he worked with Leslie Howard on the critically praised _The Gentle Sex_ (1943) and took over direction on _The Lamp Still Burns_ (1943) after Howard’s death. _Medal for the General_, his wartime production for British National, and his big-budget post-war melodrama _Beware of Pity_ are also worthy of consideration. Elvey continued to direct a wide variety of dramas and comedies until failing eyesight forced his retirement in 1957.
+
+With such a massive output, and working at such speed, it is inevitable that many of Elvey’s films have a perfunctory flavour. But the best of his work, particularly from the silent period, reveals a sympathetic and imaginative craftsman whose role in shaping British cinema has been unjustly neglected in favour of more flashy and less experienced contemporaries. He died in Brighton on 28 August 1967.  
+**Lawrence Napper, quoted in BFI Screenonline, screenonline.org.uk**  
+<br>
+
+**THE RETURN OF THE FROG**  
+_Director_: Maurice Elvey  
+_Production Company_: Imperator Film Productions  
+_[Producer]_: Herbert Wilcox  
+_Production Manager_: Tom White  
+_Assistant Director_: Frank Bundy  
+_Screenplay_: Ian Hay, Gerald Elliott  
+_Based on the story by_: Edgar Wallace  
+_Director of Photography_: George Stretton  
+_Editor_: Peggy Hennessey  
+_Editor_: Alan Jaggs  
+_Art Director_: Norman Arnold  
+_Music_: John Borelli  
+_Sound Recording_: Harold King  
+
+**Cast**  
+Gordon Harker _(inspector Elk)_  
+Una O’Connor _(Mum Oaks)_  
+Hartley Power _(Dale Sandford)_  
+René Ray _(Lila)_  
+Charles Lefeaux _(Golly Oaks)_  
+Cyril Smith _(Maggs)_  
+Charles Carson _(commissioner)_  
+George Hayes _(Barney Lane)_  
+Aubrey Mallalieu _(banker)_  
+Meinhart Maur _(Alkman)_  
+Alexander Field _(Sniffy Offer)_  
+Patrick Holt _([cadet with question])_  
+
+UK 1938  
+70 mins  
+
+A BFI National Archive print  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTkyOTcyNTQxNiw3MzA5OTgxMTZdfQ==
 -->
