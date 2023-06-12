@@ -5,12 +5,10 @@ published: true
 date: 2023-06-20
 readtime: true
 categories: ['PROJECTING THE ARCHIVE']
-tags: [Drama, Crime]
-metadata: 'UK 1938, 70 mins<br> Director: <![endif]--> Maurice Elvey'
-pdf: '2023-06-20-name-me-lawand.pdf'
+tags: [Drama, Crime, Thriller]
+metadata: 'UK 1938, 70 mins<br> Director: Maurice Elvey'
+pdf: '2023-06-20-return-of-the-frog.pdf'
 ---
-
-
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -71,6 +69,19 @@ UK 1938
 70 mins  
 
 A BFI National Archive print  
+<br>
+
+**REGULAR PROGRAMME**
+**Projecting the Archive: The Return of the Frog + introduction by film historian Jonathan Rigby**
+Tue 20 Jun 18:30
+**Experimenta Mixtape S02E03 curated by Mark Leckey + Mark Leckey in conversation with novelist Sheena Patel, author _I’m A Fan_**
+Thu 22 Jun 18:20
+**African Odysseys: A Charmed Life + panel with directors and special guests**
+Sat 24 Jun 14:00
+**Relaxed Screening: Under the Skin + intro and discussion**
+Mon 26 Jun 18:15
+**Black Self-Building On Screen + discussion**
+Tue 27 Jun 18:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzNzUwNzcyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE4ODI0NDkzNDcsNzMwOTk4MTE2XX0=
 -->
