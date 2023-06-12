@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Elemental
+published: true
+date: 2023-06-18
+readtime: true
+categories: ['PREVIEW']
+tags: [Drama]
+metadata: 'UK 2022, 110 mins<br> Director:  Dionne Edwards'
+pdf: '2023-06-16-pretty-red-dress.pdf'
+---
 
 
 _+ Q&A with director Peter Sohn, producer Denise Ream and actors Leah Lewis and Mamoudou Athie_
@@ -88,23 +98,18 @@ _Sets Supervisor_: Jun Han Cho
 _Set Designers_: Lauren Kawahara, Kyle MacNaughton, Nat McLaughlin, Hye Sung Park, Meghan Sasaki  
 _Lead Story Artist_: Le Tang  
 _Original Score Composed and Conducted by_: Thomas Newman  
-_‘Steal the Show’ Music by_: Ari Leff,
-
-Thomas Newman  
+_‘Steal the Show’ Music by_: Ari Leff, Thomas Newman  
 _‘Steal the Show’ Lyrics by_: Ari Leff, Ari Leff  
 _‘Steal the Show’ Performed by_: Lauv  
 _Supervising Orchestrator_: J.A.C. Redford  
 _Score Coordinator_: Julia Newman  
 _Music Editor_: Shinnosuke Miyazawa  
-_Score Recorded by_: Moises Garcia,
-
-Jeff Gartenbaum  
+_Score Recorded by_: Moises Garcia, Jeff Gartenbaum  
 _Orchestra Recorded by_: Tommy Vicari  
 _Score Mixed by_: Shinnosuke Miyazawa  
 _Additional Sound Design_: Jonathon Stevens  
 _Sound Designer_: Ren Klyce  
 _Production Sound Mixers_: Paul McGrath,
-
 Marilyn Morris, Vince Caro  
 _Re-recording Mixers_: Ren Klyce, Stephen Urata  
 _Additional Re-recording Mixer_: Nathan Nance  
@@ -112,13 +117,12 @@ _Production Sound Editor_: Samuel Lehmer
 _Supervising Sound Editors_: Coya Elliott, Ren Klyce  
 _Dialogue/ADR Supervisor_: Rich Quinn  
 _Sound Effects Editors_: Benjamin A. Burtt,
-
 Steve Bissinger, Kimberly Patrick  
 _Foley Artists_: Shelley Roden, Heikki Kossi  
 _Foley Mixer_: Scott Curtis  
-_Foley Editors_: Dee Selby, Nicholas Docter
+_Foley Editors_: Dee Selby, Nicholas Docter  
 
-_Voice cast:_  
+**Voice cast**   
 Leah Lewis _(Ember Lumen)_  
 Mamoudou Athie _(Wade Ripple)_  
 Ronnie Del Carmen _(Bernie, Ember's dad)_  
@@ -143,5 +147,5 @@ USA 2023
 
 Courtesy of Walt Disney Company (UK)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTA3OTMwMF19
+eyJoaXN0b3J5IjpbLTEyMTc4MDQ2MzZdfQ==
 -->
