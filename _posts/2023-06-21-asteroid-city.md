@@ -76,13 +76,10 @@ _Film Editor_: Barney Pilling
 _Additional Editor_: Andrew Weisblum  
 _Production Designer_: Adam Stockhausen  
 _Supervising Art Director_: Stéphane Cressend  
-_Art Directors_: Antonio Calvo, Gabriel Liste, Leonardo Grillo, Alejandro Cymerman,
-Fernando Contreras  
+_Art Directors_: Antonio Calvo, Gabriel Liste, Leonardo Grillo, Alejandro Cymerman, Fernando Contreras  
 _Alien Drawing by_: Willa Skye  
 _Asquith Eden Portrait by_: Emma Wesley  
-_Billboards and Additional Paintings by_:
-
-David Meikle  
+_Billboards and Additional Paintings by_: David Meikle  
 _Cowboy Paintings by_: Michael Bergt  
 _Property Buyer_: Elia Robles  
 _Prop Master_: Sandy Hamilton  
