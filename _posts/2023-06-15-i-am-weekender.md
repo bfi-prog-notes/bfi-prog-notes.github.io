@@ -38,7 +38,9 @@ Everyone involved in making _Weekender_, from director WIZ (Andrew Whiston) and 
 
 **Nish**  
 Shot in 1989 at a Boy’s Own Party in Kent, with the ghost of Derek Jarman and Mozart behind WIZ’s Super 8 camera. Featuring such acid house luminaries as Danny and Jenni Rampling, Breeze, Andrew Weatherall, Paolo Sedazzari and Anna Haigh, this singular and intimate short delicately captures the guileless beauty of these ecstasy pioneers. Should you want to know why people take drugs, watch this: these people are high, not wasted. Enchanting.  
-**_I_  _Am Weekender_ BFI Blu-ray booklet**
+**_I_  _Am Weekender_ BFI Blu-ray booklet**  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTk2ODY2OTddfQ==
+eyJoaXN0b3J5IjpbLTE0NDU1MzM2OTEsLTEwNTk2ODY2OTddfQ
+==
 -->
