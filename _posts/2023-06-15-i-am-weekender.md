@@ -4,10 +4,10 @@ title: I Am Weekender
 published: true
 date: 2023-06-15
 readtime: true
-categories: ['SONIC CINEMA']
-tags: [Music]
-metadata: 'USA/Japan 2003, 101 mins<br> Director: Sofia Coppola'
-pdf: '2023-06-15-lost-in-translation.pdf'
+categories: ['SONIC CINEMA PREVIEW']
+tags: [Music, Documentary]
+metadata: 'UK 2003, 101 mins<br> Director: Chloé Raunet'
+pdf: '2023-06-15-i-am-weekender.pdf'
 ---
 
 
@@ -151,5 +151,5 @@ Following the screening + Q&A there will be
 a live DJ set.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDA0Nzc1NCwtMTA1OTY4NjY5N119
+eyJoaXN0b3J5IjpbNzE3NTYzMDQyLC0xMDU5Njg2Njk3XX0=
 -->
