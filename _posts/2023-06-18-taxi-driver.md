@@ -27,7 +27,7 @@ In case there’s anyone who doesn’t know, _Taxi Driver_ describes one stiflin
 
 The seemingly desultory narrative is rigorously divided into three acts. In the first, Travis’s rage is diffuse; he rides around in his cab, more a witness than a man of action. In the second, he finds a mission and an object for his rage. (‘One day, indistinguishable from the next, a long, continuous chain. And then, suddenly – there is change,’ he writes in his diary.) In the third, he puts his homicidal fantasies into action, taking aim at one father figure (the presidential candidate) and, when that attempt fails, turning his gun on another (Iris’s pimp Sport, played by Harvey Keitel). The carnage that ends _Taxi Driver_ is devastating, but it’s also voluptuous – as voluptuous as anything in American movies – and all the more so because of the sense of repression that pervades the film until this moment. The entire film has been built so that this eruption of violence would seem both inevitable and more horrific than anything we might have imagined.  
 **Extracted from _Taxi Driver_ by Amy Taubin (BFI Film Classics, 2nd edition, 2012).  Reproduced by kind permission of Bloomsbury Publishing. ©Amy Taubin**
-<br><br>
+<br>  
 
 **TAXI DRIVER**<br>
 _Directed by:_ Martin Scorsese<br>
@@ -90,6 +90,60 @@ _Taxi Driver_ by Amy Taubin is available from the BFI Shop: **https://shop.bfi.o
 
 <img style="float: left;" src="/img/taxidriver-bfi-classics.jpg" width="40%" height="40%"><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
+**BIG SCREEN CLASSICS**  
+**The 400 Blows (Les Quatre cents coups)**  
+Thu 1 Jun 18:20; Tue 13 Jun 20:30  
+**The Big Lebowski**  
+Fri 2 Jun 20:30; Sat 17 Jun 18:10  
+**La dolce vita**  
+Sat 3 Jun 17:00; Tue 13 Jun 13:30; Sun 18 Jun 17:30  
+**Boyz N the Hood**  
+Sat 3 Jun 20:40; Fri 30 Jun 18:10  
+**Vertigo**  
+Sun 4 Jun 15:30; Tue 20 Jun 20:40  
+**Bicycle Thieves (Ladri di biciclette)**  
+Mon 5 Jun 20:45; Fri 16 Jun 20:40; Sat 24 Jun 12:00  
+**The Third Man**  
+Tue 6 Jun 20:40; Wed 21 Jun 18:10 (+ intro); Sun 25 Jun 12:30  
+**The Long Goodbye**  
+Wed 7 Jun 18:00 (+ intro by Geoff Andrew, Programmer-at-Large); Tue 27 Jun 20:35  
+**Cleo from 5 to 7 (Cléo de 5 à 7)**  
+Mon 12 Jun 21:00; Thu 29 Jun 18:30  
+**Of Time and the City**  
+Wed 14 Jun 18:30 (+ intro); Thu 22 Jun 20:50  
+**Taxi Driver**  
+Sun 18 Jun 18:30; Fri 23 Jun 20:45  
+**Get Carter**  
+Mon 19 Jun 18:20; Mon 26 Jun 20:45  
+**La Haine**  
+Wed 21 Jun 21:00; Sat 24 Jun 20:40; Wed 28 Jun 18:15 (+ intro)  
+**Don’t Look Now**  
+Sat 24 Jun 16:00; Fri 30 Jun 20:45  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound & the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjEzMTY0MTksMjAzMzgwMTMxMV19
+eyJoaXN0b3J5IjpbLTc0NzMyMDI0MiwyMDMzODAxMzExXX0=
 -->
