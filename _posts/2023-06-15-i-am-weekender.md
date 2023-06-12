@@ -93,7 +93,7 @@ Tim Dorney
 UK 2023  
 51 mins  
 
-**Weekender**  
+**WEEKENDER**  
 _Written and Directed by:_ WIZ  
 _Music by:_ Flowered Up  
 _Executive Producers:_ Jeff Barrett, Rob Stringer  
@@ -125,27 +125,22 @@ Flowered Up: Liam Maher, Joe Maher, Tim Dorney, Mick Leader, John Tuvey, Barry M
 UK 1992  
 17 mins  
 
-**Nish**
+**NISH**  
+_Directed, Produced and Edited by:_ WIZ  
+_Camera Operator:_  David Greenhalgh  
+_Piano Concerto No.21 in C, K.467 Andante_ _by:_  Wolfgang Amadeus Mozart  
+_Orchestra:_ The London Philharmonia  
+_Conductor:_  Wolfgang Sawallisch  
 
-_Directed, Produced and Edited by:_ WIZ
+UK 1990  
+4 mins  
 
-_Camera Operator:_  David Greenhalgh
-
-_Piano Concerto No.21 in C, K.467 Andante_ _by**:**_  Wolfgang Amadeus Mozart
-
-_Orchestra__:_ The London Philharmonia
-
-_Conductor:_  Wolfgang Sawallisch
-
-UK 1990
-
-4 mins
-
-**Available on BFI Blu-ray from 19 June**
+**Available on BFI Blu-ray from 19 June**  
 
 Following the screening + Q&A there will be  
-a live DJ set.
+a live DJ set.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjMxMjcsLTEwNTk2ODY2OTddfQ==
+eyJoaXN0b3J5IjpbLTE2ODQ1Mzg5NjMsLTEwNTk2ODY2OTddfQ
+==
 -->
