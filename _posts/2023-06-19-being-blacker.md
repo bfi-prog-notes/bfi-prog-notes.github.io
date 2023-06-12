@@ -20,6 +20,34 @@ DIY community building also meant that sound system culture was never only a mus
 
 The Black Peoples Day of Action in March 1981 was part of a continuum of community activism that wanted to find more to living than having to constantly protect one another from racist onslaught and subtle discrimination. The uprisings of the 1980s in Bristol, Liverpool, Birmingham and in Brixton in London, characterised at the time as riots, were only part of the story. There were also groups working for a collective empowerment. One such group was led by the late Len Garrison to set up the Black Cultural Archives, an institution still present in Brixton which preserves and celebrates the histories of Black people in the UK. Another example would be Blacker Dread’s record shop on Coldharbour Lane, which we see in _Being Blacker_ function as a meeting point for community and a space in which and from which Blacker could provide cross-generational advice and support. It’s never only about the music for Blacker. It’s about community. He’s working for them, talking to them. In his words again, ‘Me a talk fi you.’  
 **Arike Oke, extract from _The Molly Dineen Collection Volume 4: Being Blacker / Sound Business_ DVD booklet essay (BFI, 2022)**  
+<br>
+
+**BEING BLACKER**  
+_Directed by_: Molly Dineen  
+_©_: RTO Pictures  
+_Production Company_: RTO Pictures  
+_For_: BBC  
+_Executive Producer_: Peter Dale  
+_Executive Producer for the BBC_: Emma Loach  
+_Produced by_: Molly Dineen  
+_Filmed by_: Molly Dineen  
+_Film Editor_: Tom Dixon-Spain  
+_On-line Editor_: Ian Mander  
+_Additional Editing_: Henri Plint  
+_Editorial Consultant_: Catherine Bailey  
+_Additional Editorial Consultant_: Harry Hook  
+_Post-production Producer_: Claudia White, Clear Cut Pictures  
+_Colourist_: Stuart Fyvie  
+_Re-recording Mixer_: Jamie Hartland  
+
+**With**
+Blacker Dread  
+
+UK 2018  
+89 mins  
+
+**A Charmed Life + panel with directors and special guests** Sat 24 Jun 14:00  
+Part of Windrush 75 – Celebrating a turning point in building modern Britain and sparking a wider conversation about the past, present and future of our multi-ethnic society.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxNDc2NTk1XX0=
+eyJoaXN0b3J5IjpbLTI3ODc1OTE0XX0=
 -->
