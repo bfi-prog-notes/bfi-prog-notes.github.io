@@ -1,5 +1,5 @@
 
-<![endif]-->
+
 
 _+ discussion with director Edward Lovelace, Steve Crump OBE, founder and chair of Deaf Kidz International and Sophie Stone, deaf artist, activist and support teacher_
 
@@ -31,7 +31,62 @@ I wanted to build trust and a strong foundation, so I spent most of 2019 being p
 Our connection with the family has also been something we have been so proud of. We have assisted them on their visits to court and helped in various ways in their Home Office case. Possibly, the most notable moment was a segment from the film showcasing Lawand’s fluency in British Sign Language which became a pivotal moment in the Home Office’s understanding of the importance of this language to Lawand.
 
 To become a part of Lawand's journey, however small, is one of my proudest achievements. I want the film to celebrate the light that shines from Lawand.  
-**Production notes**
+**Production notes**  
+<br>
+
+<![endif]-->
+
+**NAME ME LAWAND**
+
+_Director_: Edward Lovelace  
+_©_: Lawand Film Limited, Pulse Films, ESC Studios,  
+British Film Institute  
+_a_ Pulse Films _production_  
+_This film was made with and for_:
+
+The Royal School for the Deaf in Derby  
+_Presented by_: BFI Doc Society Fund, Pulse Films, Electric Shadow Company  
+_Executive Producers_: Tim O'Shea, Thomas Benski, Diene Petterle, Lisa Marie Russo, Kwesi Dickson, Isabel Freer  
+_Produced by_: Fleur Nieddu  
+_Producers_: Sam Arnold, Beyan Taher,
+
+Neil Andrews, Marisa Clifford, Edward Lovelace  
+_Line Producer_: Lottie Allen  
+_Written by_: Edward Lovelace  
+_Director of Photography_: Ben Fordesman  
+_VFX_: FrameStore  
+_Edited by_: David Charap, Shahnaz Dulaimy, Michael Nollet, David Whitakker  
+_Film Titles by_: Lucia Garcia  
+_Colourist_: Matthieu Toullet  
+_Original Score by_: Tom Hodge  
+_End Credit Music by_ : Danny Lane  
+_Sound Designer & Mixer_: Ed Downham  
+_Sound Recordists_: Joe Harris, Stephen Hodge  
+_Deaf Consultant_: Sean Chandler  
+
+**Cast**  
+Matthew Gurney _(Steve)_  
+Alan Bury _(Lawand)_  
+Nali Tawfeeq _(Rawa)_  
+Aso Sherabayani _(Rebwar)_  
+Shaniaz Hama Ali _(Gulbahar)_  
+Erin Hutching _(Esther)_  
+UK 2022
+
+91 mins  
+A BFI release  
+
+**REGULAR PROGRAMME**  
+**Projecting the Archive: The Return of the Frog + introduction by film historian Jonathan Rigby**  
+Tue 20 Jun 18:30  
+**Experimenta Mixtape S02E03 curated by Mark Leckey + Mark Leckey in conversation with novelist Sheena Patel, author _I’m A Fan_**  
+Thu 22 Jun 18:20  
+**African Odysseys: A Charmed Life + panel with directors and special guests**  
+Sat 24 Jun 14:00  
+**Relaxed Screening: Under the Skin + intro and discussion**  
+Mon 26 Jun 18:15  
+**Black Self-Building On Screen + discussion**  
+Tue 27 Jun 18:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTk4MzIzMjJdfQ==
+eyJoaXN0b3J5IjpbLTE4NzkzMjUwMzFdfQ==
 -->
