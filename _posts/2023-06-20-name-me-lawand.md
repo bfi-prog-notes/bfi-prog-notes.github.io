@@ -57,9 +57,7 @@ The Royal School for the Deaf in Derby
 _Presented by_: BFI Doc Society Fund, Pulse Films, Electric Shadow Company  
 _Executive Producers_: Tim O'Shea, Thomas Benski, Diene Petterle, Lisa Marie Russo, Kwesi Dickson, Isabel Freer  
 _Produced by_: Fleur Nieddu  
-_Producers_: Sam Arnold, Beyan Taher,
-
-Neil Andrews, Marisa Clifford, Edward Lovelace  
+_Producers_: Sam Arnold, Beyan Taher, Neil Andrews, Marisa Clifford, Edward Lovelace  
 _Line Producer_: Lottie Allen  
 _Written by_: Edward Lovelace  
 _Director of Photography_: Ben Fordesman  
@@ -121,5 +119,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDYxMzU2MDJdfQ==
+eyJoaXN0b3J5IjpbLTE0NTk2NjEzMTIsLTE4NDYxMzU2MDJdfQ
+==
 -->
