@@ -34,7 +34,7 @@ By the early 1920s Elvey had become the chief director at Stoll, a studio that g
 During the 1930s Elvey’s tireless energy led him to work across the spectrum of British production, on ‘quota quickies’ as well as on ambitious productions such as _The Tunnel_ for Gaumont-British. At Ealing he made Gracie Fields’ first film, _Sally in Our Alley_ (1931) – notably more realistic and downbeat in tone than her later vehicles – and subsequently _This Week of Grace_ and _Love, Life and Laughter_. During the Second World War, he worked with Leslie Howard on the critically praised _The Gentle Sex_ (1943) and took over direction on _The Lamp Still Burns_ (1943) after Howard’s death. _Medal for the General_, his wartime production for British National, and his big-budget post-war melodrama _Beware of Pity_ are also worthy of consideration. Elvey continued to direct a wide variety of dramas and comedies until failing eyesight forced his retirement in 1957.
 
 With such a massive output, and working at such speed, it is inevitable that many of Elvey’s films have a perfunctory flavour. But the best of his work, particularly from the silent period, reveals a sympathetic and imaginative craftsman whose role in shaping British cinema has been unjustly neglected in favour of more flashy and less experienced contemporaries. He died in Brighton on 28 August 1967.  
-**Lawrence Napper, quoted in BFI Screenonline, screenonline.org.uk**  
+**Lawrence Napper, _Reference Guide to British and Irish Film Directors_, quoted on BFI Screenonline, screenonline.org.uk**  
 <br>
 
 **THE RETURN OF THE FROG**  
@@ -84,5 +84,6 @@ Mon 26 Jun 18:15
 **Black Self-Building On Screen + discussion**
 Tue 27 Jun 18:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzk1NTA2NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4OTgwMDY0OTEsLTYwNzk1NTA2NSw3Mz
+A5OTgxMTZdfQ==
 -->
