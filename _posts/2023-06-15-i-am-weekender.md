@@ -1,11 +1,10 @@
 
-<![endif]-->
+
 
 _+ Q&A_
 
-Fuelled by Flowered Up’s epic soundtrack, WIZ’s _Weekender_ was a film ahead of its time. A journey into 1990s club and drug culture, it received an 18 certificate and was banned on mainstream TV. Since then, the film has gained genuine cult status. Now fully restored from the original negative, this tangible document of the British rave scene is coupled with Chloé Raunet’s feature-length documentary about the making of the film and its enduring impact, offering a unique insight into the heart of acid house.
-
-bfi.org.uk
+Fuelled by Flowered Up’s epic soundtrack, WIZ’s _Weekender_ was a film ahead of its time. A journey into 1990s club and drug culture, it received an 18 certificate and was banned on mainstream TV. Since then, the film has gained genuine cult status. Now fully restored from the original negative, this tangible document of the British rave scene is coupled with Chloé Raunet’s feature-length documentary about the making of the film and its enduring impact, offering a unique insight into the heart of acid house.  
+**bfi.org.uk**
 
 Flowered Up’s _Weekender_ was released in 1992. It was a film ahead of its time, both in form and content.
 
@@ -24,25 +23,22 @@ As a first-time long format filmmaker, the entire process involved a steep learn
 
 And licensing a soundtrack of pre-digital, 12” dancefloor _coup de coeur_ on a tight budget presented some unique challenges for producer Martin Kelly, but his perseverance as well as the generosity of many artists and labels got it over the finish line.
 
-Post production was completed at Onsight in February 2023 with the documentary dedicated to Lee Whitlock, the lead actor of _Weekender_, who sadly passed away, days before sign-off.
+Post production was completed at Onsight in February 2023 with the documentary dedicated to Lee Whitlock, the lead actor of _Weekender_, who sadly passed away, days before sign-off.  
+**Production notes**
 
-Production notes
-
-**Miranda Sawyer on ‘Weekender’**
-
+**Miranda Sawyer on ‘Weekender’**  
 First things first. _Weekender_ isn’t a music promo. It’s a film. A fully realised cinematic experience. A properly told adventure of a proper night out: from the end of day slump to the one-for-all experience of a room full of friends, drugs and music, a good time that lasts forever, right up until the moment that you stumble back out into cold bright reality to contemplate your own small place in the order of life…
 
 In _Weekender_, we live our hero’s life with him. The tick-tock tedium of his day. The anticipation and explosive joy of the night. The storm of a million emotions coursing through him as he dances on the same spot. We feel his disorientation, bemused by his own reflection as his insides churn, his perception flickers. We sympathise as he squirms in the chilly dawn light, as he climbs up and drops slowly from the top of a tall building, down down down to the ground, trapped but secure on his window cleaner’s platform. Inside his work cage, but looking at the sky. He’s wrecked.
 
 And, like a favourite track – like the amazing song that is the heartbeat of the film – we know that this history is made to repeat. It will retell itself, over and over; an eternal circle, an endless echo. The story of a party animal eating his own tale.
 
-Everyone involved in making _Weekender_, from director WIZ (Andrew Whiston) and label owner Jeff Barrett to actors Lee Whitlock and Anna Haigh, knew the film was going to be something special, something more than an everyday music video. They’d known it had to be, ever since they’d heard the original track, from Camden ravers Flowered Up.
+Everyone involved in making _Weekender_, from director WIZ (Andrew Whiston) and label owner Jeff Barrett to actors Lee Whitlock and Anna Haigh, knew the film was going to be something special, something more than an everyday music video. They’d known it had to be, ever since they’d heard the original track, from Camden ravers Flowered Up.  
+**Miranda Sawyer, _I_  _Am Weekender_ BFI Blu-ray booklet**
 
-Miranda Sawyer, _I_  _Am Weekender_ BFI Blu-ray booklet
-
-**Nish**
+**Nish**  
 Shot in 1989 at a Boy’s Own Party in Kent, with the ghost of Derek Jarman and Mozart behind WIZ’s Super 8 camera. Featuring such acid house luminaries as Danny and Jenni Rampling, Breeze, Andrew Weatherall, Paolo Sedazzari and Anna Haigh, this singular and intimate short delicately captures the guileless beauty of these ecstasy pioneers. Should you want to know why people take drugs, watch this: these people are high, not wasted. Enchanting.  
 **_I_  _Am Weekender_ BFI Blu-ray booklet**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDMxOTYwNF19
+eyJoaXN0b3J5IjpbLTEwNTk2ODY2OTddfQ==
 -->
