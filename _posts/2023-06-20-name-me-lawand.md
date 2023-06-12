@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Name Me Lawand
+published: true
+date: 2023-06-20
+readtime: true
+categories: ['REFUGEE WEEK PREVIEW']
+tags: [Drama]
+metadata: 'UK 2022,  mins<br> Director: Molly Dineen'
+pdf: '2023-06-19-being-blacker.pdf'
+---
 
 
 _+ discussion with director Edward Lovelace, Steve Crump OBE, founder and chair of Deaf Kidz International and Sophie Stone, deaf artist, activist and support teacher_
@@ -70,7 +80,7 @@ Alan Bury _(Lawand)_
 Nali Tawfeeq _(Rawa)_  
 Aso Sherabayani _(Rebwar)_  
 Shaniaz Hama Ali _(Gulbahar)_  
-Erin Hutching _(Esther)_  
+Erin Hutching _(Esther)_    
 UK 2022
 
 91 mins  
@@ -88,5 +98,5 @@ Mon 26 Jun 18:15
 **Black Self-Building On Screen + discussion**  
 Tue 27 Jun 18:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzkzMjUwMzFdfQ==
+eyJoaXN0b3J5IjpbODIzNjUyXX0=
 -->
