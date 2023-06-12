@@ -38,7 +38,110 @@ Says effects supervisor Stephen Marshall, whose team is responsible for the char
 In order to realise these complex characters – and the similarly complex backdrop – an additional phase of production was introduced to run simulations on the characters in every frame of the film. Additionally, filmmakers adjusted the pipeline to allow more time after animation to tackle the massive effects and complex lighting needs.
 
 All of it, of course, was in service to the story. Artists, storytellers and technicians worked hand-in-hand to make possible Sohn’s vision of a spirited Fire woman and her special journey of self-discovery alongside a chill Water guy. ‘If you took Peter Sohn and separated him into two characters,’ says story supervisor Jason Katz, ‘you’d get Ember and Wade.’  
-**Production notes**
+**Production notes**  
+<br>
+
+**ELEMENTAL**  
+_Directed by_: Peter Sohn  
+_©_: Inc. Disney Enterprises, Pixar  
+_Production Company_: Disney, Pixar  
+_Created & Produced at_: Pixar Animation Studios  
+_International Sales_: Distributed by [World Sales]  
+_Executive Producer_: Pete Docter  
+_Associate Executive Producer_: McKenna Harris  
+_Produced by_: Denise Ream  
+_Associate Producers_: Krissy Cabara, Becky Neiman-Cobb  
+_Production Manager_: Jesús Martínez  
+_Post-production Supervisor_: Dana Mulligan  
+_Post-production Manager_: Heather Eisner  
+_Script Supervisor_: Cara Brody  
+_Casting by_: Kevin Reher, Natalie Lyon  
+_Casting Associate_: Kate Hansen-Birnbaum  
+_Screenplay by_: John Hoberg, Kat Likkel, Brenda Hsueh  
+_Story by_: Peter Sohn, John Hoberg, Kat Likkel, Brenda Hsueh  
+_Story Supervisor_: Jason Katz  
+_Directors of Photography_: David Juan Bianchi, Jean-Claude Kalache  
+_Lighting Key Designer_: Carlos Felipe León  
+_Visual Effects Supervisor_: Sanjay Bakshi  
+_Animation Supervisors_: Michael Venturini,
+Kureha Yokoo  
+_Directing Animators_: Gwendelyn Enderoglu,
+Allison Rutland, Benjamin Po An Su  
+_Effects Supervisors_: Stephen Marshall, Jon Reisch  
+_Lighting Supervisors_: Amy Rae Jones, Luke Martorelli  
+_Layout Lead_: Jahkeeli Garnett  
+_Edited by_: Stephen Schaffer  
+_2nd Film Editors_: Greg Snyder, Amera Rizk,
+Kevin Rose-Williams, Jennifer Jew  
+_Production Designer_: Don Shank  
+_Character & Look Development Art Director_:
+Maria Yi  
+_Sets Art Director_: Daniel Holland  
+_Colour & Shading Art Director_:
+Jennifer Chia-Han Chang  
+_Graphics Art Director_: Laura Meyer  
+_Visual Development_: Daniel López Muñoz  
+_Character Supervisors_: Junyi Ling, Jeremie Talbot  
+_Character Designers_: Alice Lemma, Anna Laura Scott, Yingzong Xin  
+_Set Designer_: Paul Abadilla  
+_Sets Supervisor_: Jun Han Cho  
+_Set Designers_: Lauren Kawahara, Kyle MacNaughton, Nat McLaughlin, Hye Sung Park, Meghan Sasaki  
+_Lead Story Artist_: Le Tang  
+_Original Score Composed and Conducted by_: Thomas Newman  
+_‘Steal the Show’ Music by_: Ari Leff,
+
+Thomas Newman  
+_‘Steal the Show’ Lyrics by_: Ari Leff, Ari Leff  
+_‘Steal the Show’ Performed by_: Lauv  
+_Supervising Orchestrator_: J.A.C. Redford  
+_Score Coordinator_: Julia Newman  
+_Music Editor_: Shinnosuke Miyazawa  
+_Score Recorded by_: Moises Garcia,
+
+Jeff Gartenbaum  
+_Orchestra Recorded by_: Tommy Vicari  
+_Score Mixed by_: Shinnosuke Miyazawa  
+_Additional Sound Design_: Jonathon Stevens  
+_Sound Designer_: Ren Klyce  
+_Production Sound Mixers_: Paul McGrath,
+
+Marilyn Morris, Vince Caro  
+_Re-recording Mixers_: Ren Klyce, Stephen Urata  
+_Additional Re-recording Mixer_: Nathan Nance  
+_Production Sound Editor_: Samuel Lehmer  
+_Supervising Sound Editors_: Coya Elliott, Ren Klyce  
+_Dialogue/ADR Supervisor_: Rich Quinn  
+_Sound Effects Editors_: Benjamin A. Burtt,
+
+Steve Bissinger, Kimberly Patrick  
+_Foley Artists_: Shelley Roden, Heikki Kossi  
+_Foley Mixer_: Scott Curtis  
+_Foley Editors_: Dee Selby, Nicholas Docter
+
+_Voice cast:_  
+Leah Lewis _(Ember Lumen)_  
+Mamoudou Athie _(Wade Ripple)_  
+Ronnie Del Carmen _(Bernie, Ember's dad)_  
+Shila Ommi _(Cinder, Ember's mum)_  
+Wendi McLendon-Covey _(Gale, Wade's boss)_  
+Catherine O'Hara _(Brook, Wade's mum)_  
+Mason Wertheimer _(Clod, Ember's neighbour)_  
+Ronobir Lahiri _(Harold)_  
+Wilma Bonet _(Flarietta)_  
+Joe Pera _(Fern, bureaucrat)_  
+Matt Yang King _(Alan/Lutz/Earth pruner)_  
+Clara Lin Ding _(little kid Ember)_  
+Reagan To _(big kid Ember)_  
+Jeff Lapensee _(sparkler customer)_  
+Ben Morris _(wood immigration official)_  
+Jonathan Adams _(Flarry)_  
+Alex Kapp _(customer/delivery person/Earth landlord)_  
+P.L. Brown _(doorman)_  
+
+USA 2023  
+101 mins  
+
+Courtesy of Walt Disney Company (UK)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyNzMzNTkyXX0=
+eyJoaXN0b3J5IjpbMTcwNTA3OTMwMF19
 -->
