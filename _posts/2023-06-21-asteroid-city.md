@@ -7,7 +7,7 @@ readtime: true
 categories: ['PREVIEW']
 tags: [Comedy]
 metadata: 'USA/Spain/Germany 2023, 105 mins<br> Director: Wes Anderson'
-pdf: '2023-06-21-asteroid-ci.pdf'
+pdf: '2023-06-21-asteroid-city.pdf'
 ---
 
 _+ Q&A with director Wes Anderson_
@@ -222,5 +222,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjAwNTQ3NTZdfQ==
+eyJoaXN0b3J5IjpbLTEzODA0NDY4MTVdfQ==
 -->
