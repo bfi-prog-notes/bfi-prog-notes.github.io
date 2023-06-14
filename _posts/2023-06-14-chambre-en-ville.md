@@ -22,170 +22,89 @@ There will also be three days in the Place de la Préfecture, filming fighting b
 <br><br>
 
 **UNE CHAMBRE EN VILLE (A ROOM IN TOWN)**<br>
-
 _Directed by:_ Jacques Demy<br>
-
 ©: Progéfi, TF1 Films Production, U.G.C., Top 1<br>
-
 _Co-production:_ Progéfi, TF1 Films, UGC, Top 1<br>
-
 _Presented by:_ Christine Gouze-Rénal<br>
-
 _Producer:_ Christine Gouze-Rénal<br>
-
 _Unit Production Manager:_ Bernard Vaillant<br>
-
 _Production Manager:_ Philippe Verro<br>
-
 _Administration:_ Nelly Niay<br>
-
 _Production Assistant:_ Jérôme Chalou<br>
-
 _Trainee:_ Mathieu Mitsinkides<br>
-
 _1st Assistant Director:_ Denis Epstein<br>
-
 _2nd Assistant Director:_ Patrice Martineau<br>
-
 _Script Supervisor:_ Annie Maurel<br>
-
 _Scenario:_ Jacques Demy<br>
-
 _Director of Photography:_ Jean Penzer<br>
-
 _Camera Operator:_ François Lartigue<br>
-
 _1st Assistant Camera:_ Michel Coteret<br>
-
 _2nd Assistant Camera:_ Eric Vallée<br>
-
 _Camera Assistant:_ Michel Coteret<br>
-
 _Gaffer:_ André Nové<br>
-
 _Key Grip:_ Gilbert Darraux<br>
-
 _Stills Photography:_ Moune Jamet<br>
-
 _Editor:_ Sabine Mamou<br>
-
 _Assistant Editor:_ Nelly Meunier<br>
-
 _Trainee Editor:_ Patricia Mazuy<br>
-
 _Art Director:_ Bernard Evein<br>
-
 _1st Assistant Art Director [Paris]:_ Georges Glon<br>
-
 _2nd Assistant Art Director [Nantes]:_ André Guérin<br>
-
 _Trainee Art Director:_ Florence Lhebrard<br>
-
 _Set Decorator:_ Gabriel Béchir<br>
-
 _Set Dresser:_ Bernard Geanty<br>
-
 _Prop Buyer:_ Gérard James<br>
-
 _Property Master:_ Alain Laude<br>
-
 _Furniture Property Master:_ Raymond Lemoigne<br>
-
 _Upholstery:_ Roger Fresca<br>
-
 _Costumes:_ Rosalie Varda<br>
-
 _Costumers:_ Christiane Fageol, Bernard Minne<br>
-
-_Miss Dominique Sanda’s Fur Coat by:_  
-Claude Gilbert<br>
-
+_Miss Dominique Sanda’s Fur Coat by:_  Claude Gilbert<br>
 _Make-up:_ Ronaldo Ribeiro de Abreu<br>
-
 _Hair:_ Patrick Archambault<br>
-
 _Music:_ Michel Colombier<br>
-
 _Lyrics:_ Jacques Demy<br>
-
-_Orchestra and Choirs Directed by:_  
-Michel Colombier<br>
-
+_Orchestra and Choirs Directed by:_  Michel Colombier<br>
 _Music Producer:_ Jacques Revaux<br>
-
 _Sound Supervisor:_ André Hervé<br>
-
-_Sound Recording:_ Bruno Lambert,  
-Eric Tomlinson, Jean-Michel Porterie<br>
-
-_Sound Mixing/Effects:_ Jonathan Liebling,
-
-Bernard Leroux, Gérard Lamps<br>
-
+_Sound Recording:_ Bruno Lambert,  Eric Tomlinson, Jean-Michel Porterie<br>
+_Sound Mixing/Effects:_ Jonathan Liebling, Bernard Leroux, Gérard Lamps<br>
 _Stunt Co-ordinator:_ Mario Luraschi<br>
-
 _This film was made at:_ Studios de Billancourt<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Dominique Sanda _(Edith Leroyer)_<br>
-
 Danielle Darrieux _(Margot Langlois)_<br>
-
 Richard Berry _(François Guilbaud)_<br>
-
 Michel Piccoli _(Edmond Leroyer)_<br>
-
 Fabienne Guyon _(Violette Pelletier)_<br>
-
 Anna Gaylor _(Madame Pelletier)_<br>
-
 Jean-François Stévenin _(Dambiel)_<br>
-
 Jean-Louis Rolland _(domestic)_<br>
-
 Marie-France Roussel _(Madame Sforza)_<br>
-
 Georges Blaness _(CRS chief)_<br>
-
 Mapie Folliard _(woman with child)_<br>
-
 Monique Creteur _(woman with cat)_<br>
-
 Gil Warga _(worker 1)_<br>
-
 Nicolas Hossein _(worker 2)_<br>
-
 Yann Dedet _(worker 3)_<br>
-
 Antoine Mikola _(worker 4)_<br>
-
 Patrick Joly _(waterer)_<br>
 
 _with the voices of_<br>
-
 Danielle Darrieux _(Margot Langlois)_<br>
-
 Florence Davis _(Edith)_<br>
-
 Liliane Davis _(Madame Pelletier)_<br>
-
 Fabienne Guyon _(Violette)_<br>
-
 Marie-France Roussel _(Madame Sforza)_<br>
-
 Jacques Revaux _(François)_<br>
-
 Jean-Louis Rolland _(domestic)_<br>
-
 Georges Blaness _(Edmond)_<br>
-
 Aldo Franck _(Dambiel)_<br>
 
 France 1982©<br>
-
 93 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyMTcwNTE5XX0=
+eyJoaXN0b3J5IjpbMTAxMDgyNDk1OV19
 -->
