@@ -19,172 +19,173 @@ Demy is quite happy to be shooting in a studio, with sets that can be planned in
 
 There will also be three days in the Place de la Préfecture, filming fighting between police and strikers. About 800 extras are recruited locally for these scenes (many of them unemployed, since the region has been badly hit by the economic crisis), and local choirs have been enlisted to give conviction to the workers’ song of hope and confidence amid the tear gas and the burning cars. Two decades after _Les Parapluies de Cherbourg_, Jacques Demy is facing the biggest challenge of a career which has never been characterised by caution.  
 **Jean-Pierre Berthome, _Sight and Sound_, Autumn 1982**
-<br>
+<br><br>
 
-**UNE CHAMBRE EN VILLE (A ROOM IN TOWN)**
+**UNE CHAMBRE EN VILLE (A ROOM IN TOWN)**<br>
 
-_Directed by:_ Jacques Demy
+_Directed by:_ Jacques Demy<br>
 
-©: Progéfi, TF1 Films Production, U.G.C., Top 1
+©: Progéfi, TF1 Films Production, U.G.C., Top 1<br>
 
-_Co-production:_ Progéfi, TF1 Films, UGC, Top 1
+_Co-production:_ Progéfi, TF1 Films, UGC, Top 1<br>
 
-_Presented by:_ Christine Gouze-Rénal
+_Presented by:_ Christine Gouze-Rénal<br>
 
-_Producer:_ Christine Gouze-Rénal
+_Producer:_ Christine Gouze-Rénal<br>
 
-_Unit Production Manager:_ Bernard Vaillant
+_Unit Production Manager:_ Bernard Vaillant<br>
 
-_Production Manager:_ Philippe Verro
+_Production Manager:_ Philippe Verro<br>
 
-_Administration:_ Nelly Niay
+_Administration:_ Nelly Niay<br>
 
-_Production Assistant:_ Jérôme Chalou
+_Production Assistant:_ Jérôme Chalou<br>
 
-_Trainee:_ Mathieu Mitsinkides
+_Trainee:_ Mathieu Mitsinkides<br>
 
-_1st Assistant Director:_ Denis Epstein
+_1st Assistant Director:_ Denis Epstein<br>
 
-_2nd Assistant Director:_ Patrice Martineau
+_2nd Assistant Director:_ Patrice Martineau<br>
 
-_Script Supervisor:_ Annie Maurel
+_Script Supervisor:_ Annie Maurel<br>
 
-_Scenario:_ Jacques Demy
+_Scenario:_ Jacques Demy<br>
 
-_Director of Photography:_ Jean Penzer
+_Director of Photography:_ Jean Penzer<br>
 
-_Camera Operator:_ François Lartigue
+_Camera Operator:_ François Lartigue<br>
 
-_1st Assistant Camera:_ Michel Coteret
+_1st Assistant Camera:_ Michel Coteret<br>
 
-_2nd Assistant Camera:_ Eric Vallée
+_2nd Assistant Camera:_ Eric Vallée<br>
 
-_Camera Assistant:_ Michel Coteret
+_Camera Assistant:_ Michel Coteret<br>
 
-_Gaffer:_ André Nové
+_Gaffer:_ André Nové<br>
 
-_Key Grip:_ Gilbert Darraux
+_Key Grip:_ Gilbert Darraux<br>
 
-_Stills Photography:_ Moune Jamet
+_Stills Photography:_ Moune Jamet<br>
 
-_Editor:_ Sabine Mamou
+_Editor:_ Sabine Mamou<br>
 
-_Assistant Editor:_ Nelly Meunier
+_Assistant Editor:_ Nelly Meunier<br>
 
-_Trainee Editor:_ Patricia Mazuy
+_Trainee Editor:_ Patricia Mazuy<br>
 
-_Art Director:_ Bernard Evein
+_Art Director:_ Bernard Evein<br>
 
-_1st Assistant Art Director [Paris]:_ Georges Glon
+_1st Assistant Art Director [Paris]:_ Georges Glon<br>
 
-_2nd Assistant Art Director [Nantes]:_ André Guérin
+_2nd Assistant Art Director [Nantes]:_ André Guérin<br>
 
-_Trainee Art Director:_ Florence Lhebrard
+_Trainee Art Director:_ Florence Lhebrard<br>
 
-_Set Decorator:_ Gabriel Béchir
+_Set Decorator:_ Gabriel Béchir<br>
 
-_Set Dresser:_ Bernard Geanty
+_Set Dresser:_ Bernard Geanty<br>
 
-_Prop Buyer:_ Gérard James
+_Prop Buyer:_ Gérard James<br>
 
-_Property Master:_ Alain Laude
+_Property Master:_ Alain Laude<br>
 
-_Furniture Property Master:_ Raymond Lemoigne
+_Furniture Property Master:_ Raymond Lemoigne<br>
 
-_Upholstery:_ Roger Fresca
+_Upholstery:_ Roger Fresca<br>
 
-_Costumes:_ Rosalie Varda
+_Costumes:_ Rosalie Varda<br>
 
-_Costumers:_ Christiane Fageol, Bernard Minne
+_Costumers:_ Christiane Fageol, Bernard Minne<br>
 
 _Miss Dominique Sanda’s Fur Coat by:_  
-Claude Gilbert
+Claude Gilbert<br>
 
-_Make-up:_ Ronaldo Ribeiro de Abreu
+_Make-up:_ Ronaldo Ribeiro de Abreu<br>
 
-_Hair:_ Patrick Archambault
+_Hair:_ Patrick Archambault<br>
 
-_Music:_ Michel Colombier
+_Music:_ Michel Colombier<br>
 
-_Lyrics:_ Jacques Demy
+_Lyrics:_ Jacques Demy<br>
 
 _Orchestra and Choirs Directed by:_  
-Michel Colombier
+Michel Colombier<br>
 
-_Music Producer:_ Jacques Revaux
+_Music Producer:_ Jacques Revaux<br>
 
-_Sound Supervisor:_ André Hervé
+_Sound Supervisor:_ André Hervé<br>
 
 _Sound Recording:_ Bruno Lambert,  
-Eric Tomlinson, Jean-Michel Porterie
+Eric Tomlinson, Jean-Michel Porterie<br>
 
 _Sound Mixing/Effects:_ Jonathan Liebling,
 
-Bernard Leroux, Gérard Lamps
+Bernard Leroux, Gérard Lamps<br>
 
-_Stunt Co-ordinator:_ Mario Luraschi
+_Stunt Co-ordinator:_ Mario Luraschi<br>
 
-_This film was made at:_ Studios de Billancourt
+_This film was made at:_ Studios de Billancourt<br>
 
-_Cast:_
+_Cast:_<br>
 
-Dominique Sanda _(Edith Leroyer)_
+Dominique Sanda _(Edith Leroyer)_<br>
 
-Danielle Darrieux _(Margot Langlois)_
+Danielle Darrieux _(Margot Langlois)_<br>
 
-Richard Berry _(François Guilbaud)_
+Richard Berry _(François Guilbaud)_<br>
 
-Michel Piccoli _(Edmond Leroyer)_
+Michel Piccoli _(Edmond Leroyer)_<br>
 
-Fabienne Guyon _(Violette Pelletier)_
+Fabienne Guyon _(Violette Pelletier)_<br>
 
-Anna Gaylor _(Madame Pelletier)_
+Anna Gaylor _(Madame Pelletier)_<br>
 
-Jean-François Stévenin _(Dambiel)_
+Jean-François Stévenin _(Dambiel)_<br>
 
-Jean-Louis Rolland _(domestic)_
+Jean-Louis Rolland _(domestic)_<br>
 
-Marie-France Roussel _(Madame Sforza)_
+Marie-France Roussel _(Madame Sforza)_<br>
 
-Georges Blaness _(CRS chief)_
+Georges Blaness _(CRS chief)_<br>
 
-Mapie Folliard _(woman with child)_
+Mapie Folliard _(woman with child)_<br>
 
-Monique Creteur _(woman with cat)_
+Monique Creteur _(woman with cat)_<br>
 
-Gil Warga _(worker 1)_
+Gil Warga _(worker 1)_<br>
 
-Nicolas Hossein _(worker 2)_
+Nicolas Hossein _(worker 2)_<br>
 
-Yann Dedet _(worker 3)_
+Yann Dedet _(worker 3)_<br>
 
-Antoine Mikola _(worker 4)_
+Antoine Mikola _(worker 4)_<br>
 
-Patrick Joly _(waterer)_
+Patrick Joly _(waterer)_<br>
 
-_with the voices of_
+_with the voices of_<br>
 
-Danielle Darrieux _(Margot Langlois)_
+Danielle Darrieux _(Margot Langlois)_<br>
 
-Florence Davis _(Edith)_
+Florence Davis _(Edith)_<br>
 
-Liliane Davis _(Madame Pelletier)_
+Liliane Davis _(Madame Pelletier)_<br>
 
-Fabienne Guyon _(Violette)_
+Fabienne Guyon _(Violette)_<br>
 
-Marie-France Roussel _(Madame Sforza)_
+Marie-France Roussel _(Madame Sforza)_<br>
 
-Jacques Revaux _(François)_
+Jacques Revaux _(François)_<br>
 
-Jean-Louis Rolland _(domestic)_
+Jean-Louis Rolland _(domestic)_<br>
 
-Georges Blaness _(Edmond)_
+Georges Blaness _(Edmond)_<br>
 
-Aldo Franck _(Dambiel)_
+Aldo Franck _(Dambiel)_<br>
 
-France 1982©
+France 1982©<br>
 
-93 mins
+93 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTg1NjIxM119
+eyJoaXN0b3J5IjpbNzQyMTcwNTE5XX0=
 -->
