@@ -45,26 +45,21 @@ Paulette Dubost _(Madame Vieuzac)_<br>
 Rozenn Le Tallec _(Marie-Laure)_<br>
 Renaud Danner _(Pierre-Alain)_<br>
 Jeanne Herry-Leclerc _(Françoise)_<br>
-Benjamin Prieur_,_ Nicolas Prieur _(twins)_<br>
+Benjamin Prieur, Nicolas Prieur _(twins)_<br>
 Marcel Bories _(Léonce)_<br>
 Etienne Draber _(Monsieur Boutelleau)_<br>
 Valérie Lemercier _(Madame Boutelleau)_<br>
 Hubert Saint-Macary _(Paul)_<br>
 Bernard Brocas _(priest)_<br>
 Georges Vaur _(Delmas)_<br>
-Jacqueline Staup_
-,_ Anne-Marie Bonage _(neighbours)_<br>
-
+Jacqueline Staup, Anne-Marie Bonage _(neighbours)_<br>
 Denise Juskiewenski _(Madame Abel)_<br>
-
 Stéphane Broquedis _(young man)_<br>
-
 Serge Angeloff _(Adèle’s fiancé)_<br>
 
 France-Italy 1990<br>
-
 107 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU1ODY5NjNdfQ==
+eyJoaXN0b3J5IjpbLTg5MTAxMTkzM119
 -->
