@@ -22,111 +22,55 @@ _Director:_ Léos Carax<br>
 _Production Companies:_ Films Plain-Chant, Soprofilms, FR3 Films, Unité 3<br>
 _With the participation of:_  Centre national de la cinématographie, Sofima<br>
 _Executive Producer:_ Alain Dahan<br>
-
 _Producer:_ Philippe Diaz<br>
-_Associate Producers:_ Georges Reinhart,  
-Limbo-Films, Sogedis, Julien Drahy, J.M. Dupré<br>
-
-_Production Managers:_ Michèle Arnould,
-
-Jean-Loup Monthieux, Catherine Huhardeaux<br>
-
-_Production Assistants:_ Frédéric Delpech,  
-Luc Bouchitte, Franck Congi, Eric Monin,  
-Stéphane Volante, Jean-Luc Vincent,  
-Daniel Dupouy<br>
-
+_Associate Producers:_ Georges Reinhart,  Limbo-Films, Sogedis, Julien Drahy, J.M. Dupré<br>
+_Production Managers:_ Michèle Arnould, Jean-Loup Monthieux, Catherine Huhardeaux<br>
+_Production Assistants:_ Frédéric Delpech,  Luc Bouchitte, Franck Congi, Eric Monin,  Stéphane Volante, Jean-Luc Vincent,  Daniel Dupouy<br>
 _Assistant Directors:_ Antoine Beau, Christian Faure, Zazie Carcedo, Ariel Sctrick<br>
-
 _Casting:_ Hélène Bernardin<br>
-
 _Screenplay:_ Léos Carax<br>
-
 _Director of Photography:_ Jean-Yves Escoffier<br>
-
 _Camera Operator:_ Jean-Yves Escoffier<br>
-
 _Special Effects:_ Guy Trielli<br>
-
 _Editor:_ Nelly Quettier<br>
-
-_Art Directors:_ Michel Vandestien,  
-Thomas Peckre, Jack Dubus<br>
-
-_Set Dressers:_ Pascal Lechat, Bruno Dubet,
-
-Paul-Philippe Arnaud, Marie-Paule Clemot Streliski, Sabine Lamale, Frédéric Lavaud, Line Augereau,
-
-Michel Choquet<br>
-
+_Art Directors:_ Michel Vandestien,  Thomas Peckre, Jack Dubus<br>
+_Set Dressers:_ Pascal Lechat, Bruno Dubet, Paul-Philippe Arnaud, Marie-Paule Clemot Streliski, Sabine Lamale, Frédéric Lavaud, Line Augereau, Michel Choquet<br>
 _Costume Designer:_ Robert Nardone<br>
-
 _Costumes_: Dominique Gregogna, Martine Metert<br>
-
 _Wardrobe:_ Lucille Reichert<br>
-
 _Head Make-up:_ Chantal Houdoy<br>
-
 _Choreography:_ Christine Burgos<br>
-
-_Sound Recording:_ Harrik Maury, Joël Riant,  
-Claude Hivernon, Henri Morelle, Julien Cloquet<br>
-
-_Sound Re-recording:_ Jacques Lévy,  
-Gérard Rousseau<br>
-
+_Sound Recording:_ Harrik Maury, Joël Riant,  Claude Hivernon, Henri Morelle, Julien Cloquet<br>
+_Sound Re-recording:_ Jacques Lévy,  Gérard Rousseau<br>
 _Supervising Sound Editor:_ Hélène Muller<br>
-
 _Sound Effects:_ Jérôme Levy<br>
-
 _Consultant:_ Marion Binoche<br>
-
 _Stunts:_ Rémy Julienne, Antoine Baud<br>
-
-_Aerial Stunts:_ Jean Gamaury,  
-Jean-Jacques Guiounet, Laurence Blanc,  
+_Aerial Stunts:_ Jean Gamaury,  Jean-Jacques Guiounet, Laurence Blanc,  
 Yves Fugen<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Michel Piccoli _(Marc)_<br>
-
 Juliette Binoche _(Anna)_<br>
-
 Denis Lavant _(Alex)_<br>
-
 Hans Meyer _(Hans)_<br>
-
 Julie Delpy _(Lise)_<br>
-
 Carroll Brooks _(American woman)_<br>
-
 Hugo Pratt _(Boris)_<br>
-
 Mireille Perrier _(young mother)_<br>
-
 Serge Reggiani _(Charlie)_<br>
-
 Jerome Zucca _(Thomas)_<br>
-
 Charles Schmitt _(commissar)_<br>
-
 Paul Handford<br>
-
 François Negret<br>
-
 Philippe Fretun<br>
-
 Thomas Peckre<br>
-
 Ralph Brown<br>
-
 Eric Wasberg<br>
 
 France 1986<br>
-
 119 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5ODIyMTU0XX0=
+eyJoaXN0b3J5IjpbLTgxOTU4NDI1Nl19
 -->
