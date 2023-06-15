@@ -11,97 +11,60 @@ On the surface, then, this is a cheerful picture, endorsing scapegrace pastoral 
 
 In reality, questioning received wisdom was always the New Wave’s habit; and in his best films of the last 20 years, Louis Malle has quietly and firmly done just that. _Lacombe Lucien_, in 1974, blew up a storm of protest because naïve viewers thought it an apology for wartime collaboration. _Au revoir les enfants_, painfully autobiographical, hinted at guilt and self-accusation for adolescent insouciance. And when I last saw Malle he was musing about a film on the _épuration_, the postwar settling of Occupation scores. There seems nothing conformist about such prickly, uncomfortable concerns. In that respect, the New Wave lives on.  
 **Richard Mayne, _Sight and Sound_, Summer 1990**
-<br><
+<br><br>
 
-**MILOU EN MAI**
+**MILOU EN MAI**<br>
+_Director:_ Louis Malle<br>
+_Production Companies:_ Nouvelles Éditions de Films, TF1 Films Production, Ellepi Films<br>
+_Executive Producer:_ Vincent Malle<br>
+_Production Manager:_ Gérald Molto<br>
+_Production Co-ordinator:_ Jean-Yves Asselin<br>
+_Assistant Director:_ Michel Ferry<br>
+_Screenplay:_ Louis Malle, Jean-Claude Carrière<br>
+_Director of Photography:_ Renato Berta<br>
+_Editor:_ Emmanuelle Castro<br>
+_Art Director:_ Willy Holt<br>
+_Set Decorator:_ Philippe Turlure<br>
+_Costume Designer:_ Catherine Leterrier<br>
+_Wardrobe Mistress:_ Anne David<br>
+_Chief Make-up Artists:_ Joël Lavau, Françoise Berroyer<br>
+_Music:_ Stéphane Grappelli<br>
+_Sound Recording:_ Jean-Claude Laureux<br>
+_Sound Re-recording:_ Dominique Hennequin<br>
 
-_Director:_ Louis Malle
+**Cast**<br>
+Michel Piccoli _(Milou)_<br>
+Miou-Miou _(Camille)_<br>
+Michel Duchaussoy _(Georges)_<br>
+Dominique Blanc _(Claire)_<br>
+Harriet Walter _(Lily)_<br>
+Bruno Carette _(Grimaldi)_<br>
+François Berléand _(Daniel)_<br>
+Martine Gautier _(Adèle)_<br>
+Paulette Dubost _(Madame Vieuzac)_<br>
+Rozenn Le Tallec _(Marie-Laure)_<br>
+Renaud Danner _(Pierre-Alain)_<br>
+Jeanne Herry-Leclerc _(Françoise)_<br>
+Benjamin Prieur_,_ Nicolas Prieur _(twins)_<br>
+Marcel Bories _(Léonce)_<br>
+Etienne Draber _(Monsieur Boutelleau)_<br>
+Valérie Lemercier _(Madame Boutelleau)_<br>
+Hubert Saint-Macary _(Paul)_<br>
+Bernard Brocas _(priest)_<br>
+Georges Vaur _(Delmas)_<br>
+Jacqueline Staup_
+,_ Anne-Marie Bonage _(neighbours)_<br>
 
-_Production Companies:_ Nouvelles Éditions de Films, TF1 Films Production, Ellepi Films
+Denise Juskiewenski _(Madame Abel)_<br>
 
-_Executive Producer:_ Vincent Malle
+Stéphane Broquedis _(young man)_<br>
 
-_Production Manager:_ Gérald Molto
+Serge Angeloff _(Adèle’s fiancé)_<br>
 
-_Production Co-ordinator:_ Jean-Yves Asselin
+France-Italy 1990<br>
 
-_Assistant Director:_ Michel Ferry
-
-_Screenplay:_ Louis Malle, Jean-Claude Carrière
-
-_Director of Photography:_ Renato Berta
-
-_Editor:_ Emmanuelle Castro
-
-_Art Director:_ Willy Holt
-
-_Set Decorator:_ Philippe Turlure
-
-_Costume Designer:_ Catherine Leterrier
-
-_Wardrobe Mistress:_ Anne David
-
-_Chief Make-up Artists:_ Joël Lavau,
-
-Françoise Berroyer
-
-_Music:_ Stéphane Grappelli
-
-_Sound Recording:_ Jean-Claude Laureux
-
-_Sound Re-recording:_ Dominique Hennequin
-
-_Cast:_
-
-Michel Piccoli _(Milou)_
-
-Miou-Miou _(Camille)_
-
-Michel Duchaussoy _(Georges)_
-
-Dominique Blanc _(Claire)_
-
-Harriet Walter _(Lily)_
-
-Bruno Carette _(Grimaldi)_
-
-François Berléand _(Daniel)_
-
-Martine Gautier _(Adèle)_
-
-Paulette Dubost _(Madame Vieuzac)_
-
-Rozenn Le Tallec _(Marie-Laure)_
-
-Renaud Danner _(Pierre-Alain)_
-
-Jeanne Herry-Leclerc _(Françoise)_
-
-Benjamin Prieur_,_ Nicolas Prieur _(twins)_
-
-Marcel Bories _(Léonce)_
-
-Etienne Draber _(Monsieur Boutelleau)_
-
-Valérie Lemercier _(Madame Boutelleau)_
-
-Hubert Saint-Macary _(Paul)_
-
-Bernard Brocas _(priest)_
-
-Georges Vaur _(Delmas)_
-
-Jacqueline Staup_,_ Anne-Marie Bonage _(neighbours)_
-
-Denise Juskiewenski _(Madame Abel)_
-
-Stéphane Broquedis _(young man)_
-
-Serge Angeloff _(Adèle’s fiancé)_
-
-France-Italy 1990
-
-107 mins
+107 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5NDY1MTc3XX0=
+eyJoaXN0b3J5IjpbLTExOTU1ODY5NjNdfQ==
 -->
