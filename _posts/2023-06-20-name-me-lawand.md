@@ -66,12 +66,14 @@ A BFI release
 The screening will be presented with subtitles, including descriptions of non-dialogue audio.  
 BSL interpreters: Pascale Maroney, Sarah Meeks  
 Live captions from MyClearText
+<br><br>
 
 **Presented in partnership with Counterpoints Arts**  
 <img style="float: left;" src="/img/counterpoints-01.jpg" width="40%" height="40%">
 <br><br><br><br><br><br><br><br><br>
   
 <img style="float: left;" src="/img/refugee-week-01.jpg" width="40%" height="40%">
+<br><br><br><br>
 **refugeeweek.org.uk**
 <br><br><br><br><br><br><br><br><br>
 
