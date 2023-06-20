@@ -70,7 +70,7 @@ Live captions from MyClearText
 
 **Presented in partnership with Counterpoints Arts**  
 <img style="float: left;" src="/img/counterpoints-01.jpg" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
   
 <img style="float: left;" src="/img/refugee-week-01.jpg" width="40%" height="40%">
 <br><br><br><br>
