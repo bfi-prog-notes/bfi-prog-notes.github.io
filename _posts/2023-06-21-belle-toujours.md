@@ -77,7 +77,7 @@ _ADR Supervisor_: Claudio Ventura
 _In hommage to_: Luis Buñuel, Jean-Claude Carrière  
 _Studio_: Studio Sets
 
-**Cast**
+**Cast**  
 Michel Piccoli _(Henri Husson)_  
 Bulle Ogier _(Séverine Serizy)_  
 Ricardo Trêpa _(Benedito, barman)_  
@@ -87,9 +87,9 @@ Lawrence Foster _(orchestra conductor)_
 Benoît Gourley _(concierge)_  
 Yves Breton _(hotel manager)_
 
-Portugal-France 2006©
-
+Portugal-France 2006©  
 69 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODYwNDE2MTNdfQ==
+eyJoaXN0b3J5IjpbLTUwNTk5Mjc4OV19
 -->
