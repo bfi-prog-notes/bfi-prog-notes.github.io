@@ -42,29 +42,23 @@ _Is it that ability to see yourself as an ordinary filmgoer that helps you deter
 
 Sometimes when I tackle a new film I know I’m interested in taking a more ‘classical’ approach. In writing _We Have a Pope_, for instance, the storyline had to be as linear as other movies. It is requested and required that the viewer goes along with it, but it is up to the skill of the film director to lead. In some of my movies – _Palombella Rossa_ [1989], for instance – I’ve pushed the absurdity very hard. In this movie I liked the idea of leading the viewer along and then unsettling them slightly to take a completely different direction.
 
-Interview by Nick James, _Sight and Sound_, January 2012
+**Interview by Nick James, _Sight and Sound_, January 2012**
+<br><br>
 
-<![endif]-->
-
-**HABEMUS PAPAM – WE HAVE A POPE**
-
+**HABEMUS PAPAM – WE HAVE A POPE**  
 _Director_: Nanni Moretti  
-_Production Companies_: Sacher Film, Rai Cinema, Fandango, Le Pacte, France 3 Cinéma,  
-Sofica Coficup  
+_Production Companies_: Sacher Film, Rai Cinema, Fandango, Le Pacte, France 3 Cinéma,  Sofica Coficup  
 _In collaboration with_: Rai Cinema  
 _In association with_: Canal+, France Télévisions  
-_Made with the participation of_: Centre national du cinéma et de l'image animée – CNC, Sofica Coficup – a Backup Films fund
-
-_Made with the contribution of_:  
-Eurimages Conseil de l’Europe  
+_Made with the participation of_: Centre national du cinéma et de l'image animée – CNC, Sofica Coficup – a Backup Films fund  
+_Made with the contribution of_:  Eurimages Conseil de l’Europe  
 _Presented by_: Nanni Moretti, Domenico Procacci  
 _Producers_: Jean Labadie, Domenico Procacci, Nanni Moretti  
 _International Sales_: Wild Bunch  
 _Unit Manager_: Fabrizio Amato  
 _Location Manager_: Alessandra Pascucci  
 _Post-production Co-ordinator_: Dario De Vito  
-_Story and Screenplay_: Nanni Moretti,  
-Francesco Piccolo, Federica Pontremoli  
+_Story and Screenplay_: Nanni Moretti,  Francesco Piccolo, Federica Pontremoli  
 _Director of Photography_: Alessandro Pesci  
 _Camera Operator_: Fabrizio Vicari  
 _Stills Photography_: Philippe Antonello  
@@ -77,11 +71,9 @@ _Key Make-up_: Enrico Iacoponi
 _Key Hair Stylist_: Carlo Barucci  
 _Music_: Franco Piersanti  
 _Production Sound Mixer_: Alessandro Zanon  
-_Sound Editors_: Marta Billingsley,  
-Francesca Genevois
+_Sound Editors_: Marta Billingsley,  Francesca Genevois
 
-_Cast:_
-
+**Cast**  
 Michel Piccoli _(Cardinal Melville, pope elect)_  
 Nanni Moretti _(Bruzzi)_  
 Renato Scarpa _(Cardinal Gregori)_  
@@ -127,9 +119,9 @@ Giulia Giordano
 Leonardo Maddalena  
 Salvatore Dell’aquila
 
-Italy 2011
-
+Italy 2011  
 105 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM1NDYxOTldfQ==
+eyJoaXN0b3J5IjpbLTU1NTkxMzYzMl19
 -->
