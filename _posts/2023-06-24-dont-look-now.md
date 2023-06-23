@@ -47,12 +47,9 @@ No, that was in the shooting – two-thirds in the shooting and then developed i
 _In general, then, you like to have the script as detailed as possible, but it loses or gains bits during shooting; and any changes are substitutions for something that is in the script to start with?_
 
 Yes, I really think I’d feel cheated, or else I’d begin doubting my reason for making the ﬁlm, if I thought halfway through that I’d changed my mind about what this person was, or what these characters were doing. If I said, ‘I tell you what, he’s not really like that at all, he wouldn’t think that way,’ then maybe I shouldn’t be making this ﬁlm, I should be making another ﬁlm about this man. I like to keep the intention of the scene; I like to know the people. That’s what interests me about a writer like Daphne du Maurier: one feels she has thought about a story, maybe put it out of her mind and then come back to it and developed it – _before_ she starts writing, and not halfway through, waiting to see what these people are going to do next.  
-**Nicolas Roeg interviewed by Tom Milne and Penelope Houston, _Sight and Sound,_ Winter 1973/74**
+**Nicolas Roeg interviewed by Tom Milne and Penelope Houston, _Sight and Sound,_ Winter 1973/74**  
 <br>
-<![endif]-->
-
-**Don’t Look Now**
-
+**DON'T LOOK NOW**  
 _Directed by:_ Nicolas Roeg  
 ©D.L.N. Ventures Partnership  
 _Production Companies:_ Casey Productions, Eldorado Films srl (Rome)  
@@ -109,6 +106,51 @@ Adelina Poerio _(dwarf)_
 
 UK/Italy 1973©  
 110 mins  
+<br>
+
+<![endif]-->
+
+**BIG SCREEN CLASSICS**
+
+**El Sur (The South)**
+
+Sat 1 Jul 12:50; Fri 7 Jul 14:40; Mon 17 Jul 20:30
+
+**All That Heaven Allows**
+
+Sat 1 Jul 13:10; Tue 4 Jul 20:50; Thu 13 Jul 20:40
+
+**Shadow of a Doubt**
+
+Sun 2 Jul 13:20; Sat 15 Jul 12:40
+
+**Les Demoiselles de Rochefort (The Young Ladies of Rochefort)**
+
+Mon 3 Jul 20:30; Thu 13 Jul 20:30; Tue 18 Jul 18:10
+
+**The Harder They Come**
+
+Wed 5 Jul 18:00 + intro by author Lloyd Bradley; Mon 10 Jul 20:30
+**The Piano**
+Thu 6 Jul 20:35; Sun 16 Jul 13:10
+**Akenfield**
+Sat 8 Jul 18:00; Fri 21 Jul 20:30
+**Babette’s Feast (Babettes Gæstebud)**
+Sun 9 Jul 13:30; Thu 27 Jul 20:45
+**The Searchers**
+Tue 11 Jul 20:30; Sun 23 Jul 12:10
+**The Man Who Wasn’t There**
+Wed 12 Jul 18:10 + intro by Geoff Andrew, Programmer-at-Large; Wed 19 Jul 20:45; Sat 22 Jul 18:00
+**My Night with Maud (Ma nuit chez Maud)**
+Fri 14 Jul 20:40; Thu 27 Jul 18:10
+**Persona**
+Tue 18 Jul 20:50; Fri 28 Jul 18:10; Mon 31 Jul 20:50
+**The Straight Story**
+Wed 19 Jul 18:10 + intro by Lindsay Hallam, Senior Lecturer in Film, University of East London; Mon 24 Jul 20:40; Sat 29 Jul 18:00
+**Wanda**
+Thu 20 Jul 20:55; Wed 26 Jul 18:10 + intro by Becca Voelcker, Lecturer in Fine Art at Goldsmiths, University of London
+**The Motorcycle Diaries (Diarios de motocicleta)**
+Tue 25 Jul 20:30; Sun 30 Jul 15:30 + intro by Chantelle Lavel Boyea, BFI Assistant Curator of Television
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Nzg4MjUwOV19
+eyJoaXN0b3J5IjpbOTUwODUxNzU1XX0=
 -->
