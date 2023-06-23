@@ -5,7 +5,7 @@ published: true
 date: 2023-06-25
 readtime: true
 categories: ['BFI FAMILIES']
-tags: [Animation, Adventure]
+tags: [Animation, Adventure, Comedy]
 metadata: 'USA 2022, 102 mins<br> Director: Joel Crawford'
 pdf: '2023-06-25-puss-in-boots.pdf'
 ---
@@ -16,8 +16,7 @@ pdf: '2023-06-25-puss-in-boots.pdf'
 Puss in Boots is back. His nine lives are fast running out and his ex, Kitty Softpaws is back in his life as they both search for a map that has the location of the wishing star on it. This hilarious, Oscar nominated follow up to 2011’s original film has been widely praised for its animation style which is inspired by storybook illustrations and its edgy script that sees Puss coming to terms with his own limitations.  
 
 **BFI Film Academy Recommends**  
-BFI Film Academy Recommends highlights films and events for young people aged  
-16-25, picked by the BFI Film Academy Young Programmers.
+BFI Film Academy Recommends highlights films and events for young people aged 16-25, picked by the BFI Film Academy Young Programmers.
 
 A joyous cinematic experience for audiences of all ages, _Puss in Boots: The Last Wish_ combines whimsically detailed animation with a musically driven narrative, packed with lots of laughs, love and heart!
 
@@ -53,8 +52,8 @@ Samson Kayo _(Baby Bear)_
 John Mulaney _(Jack Horner)_  
 Wagner Moura _(Wolf)_  
 Da’Vine Joy Randolph _(Mama Luna)_  
-Anthony Mendez _(Doctor)_  
-Kevin McCann _(Ethical Bug)_  
+Anthony Mendez _(doctor)_  
+Kevin McCann _(ethical bug)_  
 
 USA 2022  
 102 mins  
