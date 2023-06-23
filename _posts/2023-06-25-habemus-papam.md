@@ -51,10 +51,9 @@ Obviously there is no video documentation. It is one of the few secrets left in 
 
 _Is it that ability to see yourself as an ordinary filmgoer that helps you determine how far to push the absurdity in your films?_
 
-Sometimes when I tackle a new film I know I’m interested in taking a more ‘classical’ approach. In writing _We Have a Pope_, for instance, the storyline had to be as linear as other movies. It is requested and required that the viewer goes along with it, but it is up to the skill of the film director to lead. In some of my movies – _Palombella Rossa_ [1989], for instance – I’ve pushed the absurdity very hard. In this movie I liked the idea of leading the viewer along and then unsettling them slightly to take a completely different direction.
-
-**Interview by Nick James, _Sight and Sound_, January 2012**
-<br><br>
+Sometimes when I tackle a new film I know I’m interested in taking a more ‘classical’ approach. In writing _We Have a Pope_, for instance, the storyline had to be as linear as other movies. It is requested and required that the viewer goes along with it, but it is up to the skill of the film director to lead. In some of my movies – _Palombella Rossa_ [1989], for instance – I’ve pushed the absurdity very hard. In this movie I liked the idea of leading the viewer along and then unsettling them slightly to take a completely different direction.  
+**Interview by Nick James, _Sight and Sound_, January 2012**  
+<br>
 
 **HABEMUS PAPAM – WE HAVE A POPE**  
 _Director_: Nanni Moretti  
@@ -200,5 +199,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTkxMzYzMl19
+eyJoaXN0b3J5IjpbMTAxNDQ3MjMwMywtNTU1OTEzNjMyXX0=
 -->
