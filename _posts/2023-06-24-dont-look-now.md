@@ -5,13 +5,12 @@ published: true
 date: 2023-06-24
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama,]
-metadata: 'Italy 2011, 105 mins<br> Director: Nanni Moretti'
-pdf: '2023-06-25-habemus-papam.pdf'
+tags: [Drama, Thriller, Horror]
+metadata: 'UK/Italy 1973, 11o mins<br> Director: Nicolas Roeg'
+pdf: '2023-06-24-habemus-papam.pdf'
 ---
 
-**Nicolas Roeg on ‘Don’t Look Now’**
-
+**Nicolas Roeg on ‘Don’t Look Now’**  
 _To what extent was_ Don’t Look Now _your own choice? A publicity handout says it was Peter Katz, the producer, who thought Daphne du Maurier’s story would make a good ﬁlm._
 
 Yes, he sent me a script; I was reading scripts and it came out of the blue. I was looking for a story that was a yarn, that would complete in some way, or continue in some way, a line of thought. You remember the scene at the beginning of the ﬁlm when Julie Christie mentions the little girl’s question, ‘If the world’s round, why is frozen water ﬂat?’ and Donald Sutherland says, ‘Nothing’s what it seems’? That isn’t in the dialogue of Daphne du Maurier’s story – we changed most of the dialogue anyway, because in the ﬁlm they are different characters – but it is the key to the whole premise, and is exactly the feeling I have about life anyway. And without stressing that premise, I wanted to keep it within a story form that _Performance_ and _Walkabout_ hadn’t taken. They were yarns too, of course, but they were different _movements._ One was a ﬁlm of emotion and ideas; and the other I wanted to make – I hate to use the word because it always conjures up another connotation – a documentary using a story form. Now I wanted to make another ﬁlm developing a similar idea and not to lose sight of the yarn. To stick to the yarn.
@@ -148,5 +147,5 @@ Thu 20 Jul 20:55; Wed 26 Jul 18:10 + intro by Becca Voelcker, Lecturer in Fine A
 **The Motorcycle Diaries (Diarios de motocicleta)**  
 Tue 25 Jul 20:30; Sun 30 Jul 15:30 + intro by Chantelle Lavel Boyea, BFI Assistant Curator of Television  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTMxNTYyOTYsOTUwODUxNzU1XX0=
+eyJoaXN0b3J5IjpbNjYyNTIxMzIxLDk1MDg1MTc1NV19
 -->
