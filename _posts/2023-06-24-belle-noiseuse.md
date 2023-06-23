@@ -45,8 +45,8 @@ _Music:_ Igor Stravinsky
 _Sound:_ Florian Eidenbenz  
 _Assistant Sound:_ Brice Leboucq  
 _Mixer:_ Bernard Le Roux  
-_Cast:_
 
+**Cast**  
 Jane Birkin _(Liz)_  
 Emmanuelle Béart _(Marianne)_  
 Marianne Denicourt _(Julienne)_  
@@ -58,9 +58,10 @@ Michel Piccoli _(Edouard Frenhofer)_
 David Bursztein _(Nicolas)_  
 Gilles Arbona _(Porbus)_  
 Bernard Dufour _(hand of the painter)_  
-France-Switzerland 1991©
 
-238 mins + interval
+France-Switzerland 1991©  
+238 mins + interval<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzY1Nzk1NF19
+eyJoaXN0b3J5IjpbMjAzMDE4NjQ1NF19
 -->
