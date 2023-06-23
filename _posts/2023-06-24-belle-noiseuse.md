@@ -1,3 +1,14 @@
+---
+layout: post
+title: La Belle Noiseuse
+published: true
+date: 2023-06-24
+readtime: true
+categories: ['MICHEL PICCOLI<br>A FEARLESS TALENT']
+tags: [Drama]
+metadata: 'France-Switzerland 1991, 238 mins<br> Director: Jacques Rivette'
+pdf: '2023-06-24-belle-noiseuse.pdf'
+---
 
 The success of _La Belle Noiseuse_ makes it plausible that audiences see in it a qualified but nonetheless comforting reaffirmation of the values not only of Art, but also of European art cinema. Indeed, perhaps Rivette (until now mostly an enigmatic outsider even in his own country) wanted to try his hand at the genre better known from Eric Rohmer: _La Belle Noiseuse_ could well be one of those _contes moraux_ which have become Rohmer’s trademark. Rivette’s tight plotting, the film’s many formal symmetries and neat ironies, the division into clearly felt scenes and acts, the respect for the unities of French classical drama all recall Rohmer, both theme and setting making one think of _La Collectionneuse_ (1966) or Rohmer’s homage to Matisse, _Pauline à la plage_ (1982). The opening of _La Belle Noiseuse_, with the young couple pretending to be strangers who succumb to lust at first sight in order to shock two dowdy tourists from England is pure Rohmer, if it wasn’t also vintage Rivette (comparable to the opening of _L’Amour par terre_, 1984, where a solemn group of men and women are led through backstreets and courtyards up several flights of stairs into a Paris apartment to become eavesdropping witnesses to the infidelities and domestic complications of an executive with a wife and a mistress, before the spectator realises that these are down-at-heel actors who have invented not street theatre, but apartment theatre).
 
@@ -8,8 +19,7 @@ Not merely an exciting return to form, but also something of a personal testamen
 
 Ultimately opting for life over art – for saving his marriage rather than plunging into the void opened up by his painful masterpiece – Frenhofer, powerfully embodied by Michel Piccoli in the performance of his career, seems to be making a comparable choice. If _La Belle Noiseuse_ suggests at times a remake of _L’Amour fou_, with Frenhofer’s sketches and brush strokes and Marianne’s alternating bouts of compliance and rebellion taking the place of the earlier film’s theatre rehearsals, certain concerns remain constant: the material processes of work (including its duration and rhythms) and its profoundly collaborative nature. What seems new is an ironic perception of the art market (as embodied by Porbus) and a somewhat sadder but wiser perception of the perils that risky art-making entails.
 
-It is both satisfying and just that the first commercial hit of Rivette’s career should be four hours long. Despite much moaning over the years from critics about his running times – complaints which have indeed played a part in obliging him to make shorter films – the fact remains that, with very few exceptions, the longer his films run, the more disciplined and purposeful they turn out to be. As it happens, Rivette has also edited a two-hour version of  
-_La Belle Noiseuse_ for French TV using completely different takes, but it’s no surprise to hear that he himself judges it inferior: in the three other cases where he has edited shorter versions of his films – _L’Amour fou_, _Out 1_, _L’Amour par terre_ – the superiority of the longer version is irrefutable.
+It is both satisfying and just that the first commercial hit of Rivette’s career should be four hours long. Despite much moaning over the years from critics about his running times – complaints which have indeed played a part in obliging him to make shorter films – the fact remains that, with very few exceptions, the longer his films run, the more disciplined and purposeful they turn out to be. As it happens, Rivette has also edited a two-hour version of  _La Belle Noiseuse_ for French TV using completely different takes, but it’s no surprise to hear that he himself judges it inferior: in the three other cases where he has edited shorter versions of his films – _L’Amour fou_, _Out 1_, _L’Amour par terre_ – the superiority of the longer version is irrefutable.
 
 Duration and process are central to Rivette’s concerns, and the viewer’s changing perception of Emmanuelle Béart’s nude body from pure erotic object to painterly material over the course of four hours is fundamentally linked to the mysterious changes undergone by all the major characters – changes occurring both in terms of the plot and in terms of the spectator’s shifting relationship to the action. This isn’t, moreover, an issue that can be reduced to long versus short takes: Rivette’s jump cuts and other elisions are as central to his strategies as his use of real time.
 
@@ -62,6 +72,72 @@ Bernard Dufour _(hand of the painter)_
 France-Switzerland 1991©  
 238 mins + interval<br>
 <br>
+
+**MICHEL PICCOLI: A FEARLESS TALENT**<br>
+**La Mort en ce jardin (Evil Eden)**<br>
+Thu 1 Jun 20:35; Tue 6 Jun 18:15<br>
+**Le Mépris (Contempt)**<br>
+From Fri 2 Jun<br>
+**The Diary of a Chambermaid (Le journal d’une femme de chambre)**<br>
+Fri 2 Jun 18:15; Fri 16 Jun 20:55<br>
+**Belle de jour**<br>
+Fri 2 Jun 20:40; Sun 25 Jun 18:45<br>
+**Les Choses de la vie (The Things of Life)**<br>
+Sat 3 Jun 12:30; Tue 13 Jun 20:45<br>
+**Themroc**<br>
+Sat 3 Jun 15:00; Wed 14 Jun 18:15<br>
+**La Grande Bouffe (Blow-Out)**<br>
+Sat 3 Jun 20:30; Mon 12 Jun 18:10<br>
+**Ten Days’ Wonder (La Décade prodigeuse)**<br>
+Sun 4 Jun 15:20; Sat 17 Jun 20:40<br>
+**Vincent, François, Paul et les autres**<br>
+Sun 4 Jun 18:00; Sun 18 Jun 13:10<br>
+**Beyond Good and Evil: The Discreet Charm of Michel Piccoli**<br>
+Mon 5 Jun 18:15<br>
+**Passion**<br>
+Tue 6 Jun 21:00; Fri 16 Jun 18:20<br>
+**Spoiled Children (Des enfants gatés)**<br>
+Wed 7 Jun 18:10; Mon 12 Jun 20:40<br>
+**Une chambre en ville (A Room in Town)**<br>
+Wed 14 Jun 20:45; Sat 24 Jun 13:00<br>
+**Mauvais sang (The Night Is Young)**<br>
+Sat 17 Jun 15:15; Thu 22 Jun 20:40<br>
+**Milou en mai (Milou in May)**<br>
+Sun 18 Jun 16:00; Mon 26 Jun 20:40<br>
+**Belle toujours**<br>
+Wed 21 Jun 20:50; Sun 25 Jun 16:30<br>
+**La Belle Noiseuse**<br>
+Sat 24 Jun 15:20; Wed 28 Jun 18:10<br>
+**Habemus Papam – We Have a Pope**<br>
+Sun 25 Jun 14:00; Thu 29 Jun 20:45<br>
+<br>
+
+**Promotional partner**  
+<img style="float: left;" src="/img/fromagerie.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjAzMDE4NjQ1NF19
 -->
