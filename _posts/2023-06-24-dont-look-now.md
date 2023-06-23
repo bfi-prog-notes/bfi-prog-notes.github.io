@@ -129,7 +129,6 @@ Sun 2 Jul 13:20; Sat 15 Jul 12:40
 Mon 3 Jul 20:30; Thu 13 Jul 20:30; Tue 18 Jul 18:10
 
 **The Harder They Come**
-
 Wed 5 Jul 18:00 + intro by author Lloyd Bradley; Mon 10 Jul 20:30
 **The Piano**
 Thu 6 Jul 20:35; Sun 16 Jul 13:10
@@ -152,5 +151,5 @@ Thu 20 Jul 20:55; Wed 26 Jul 18:10 + intro by Becca Voelcker, Lecturer in Fine A
 **The Motorcycle Diaries (Diarios de motocicleta)**
 Tue 25 Jul 20:30; Sun 30 Jul 15:30 + intro by Chantelle Lavel Boyea, BFI Assistant Curator of Television
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwODUxNzU1XX0=
+eyJoaXN0b3J5IjpbLTEwMTg0MTUyOTksOTUwODUxNzU1XX0=
 -->
