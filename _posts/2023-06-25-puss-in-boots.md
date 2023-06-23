@@ -43,21 +43,71 @@ _Production Designer:_ Nate Wragg
 _Composer:_ Heitor Pereira  
 
 **Voice Cast**  
-Antonio Banderas _(Puss in Boots)_ 
-Salma Hayek Pinault _(Kitty Softpaws)_
-Harvey Guillén _(Perrito)_
-Florence Pugh _(Goldilocks)_
-Olivia Colman _(Mama Bear)_
-Ray Winstone _(Papa Bear)_
-Samson Kayo _(Baby Bear)_
-John Mulaney _(Jack Horner)_
-Wagner Moura _(Wolf)_
-Da’Vine Joy Randolph _(Mama Luna)_
-Anthony Mendez _(Doctor)_
-Kevin McCann _(Ethical Bug)_
+Antonio Banderas _(Puss in Boots)_  
+Salma Hayek Pinault _(Kitty Softpaws)_  
+Harvey Guillén _(Perrito)_  
+Florence Pugh _(Goldilocks)_  
+Olivia Colman _(Mama Bear)_  
+Ray Winstone _(Papa Bear)_  
+Samson Kayo _(Baby Bear)_  
+John Mulaney _(Jack Horner)_  
+Wagner Moura _(Wolf)_  
+Da’Vine Joy Randolph _(Mama Luna)_  
+Anthony Mendez _(Doctor)_  
+Kevin McCann _(Ethical Bug)_  
 
-USA 2022
-102 mins
+USA 2022  
+102 mins  
+<br>
+
+**MAKING MAGIC: 100 YEARS OF DISNEY**  
+**Disney's Silly Symphonies**  
+Sat 1 Jul 13:00; Mon 3 Jul 18:20  
+**Dinosaur + Get a Horse!**  
+Sat 1 Jul 15:20; Sun 23 Jul 18:15  
+**Tangled + Tangled ever After**  
+Sat 1 Jul 17:50; Sun 23 Jul 13:10  
+**Snow White and the Seven Dwarfs + Thru the Mirror**  
+Sun 2 Jul 13:20; Sat 22 Jul 17:45; Mon 24 Jul 14:20  
+**Who Framed Roger Rabbit + Tummy Trouble + Rollercoaster Rabbit**  
+Sun 2 Jul 15:40; Sat 22 Jul 20:30  
+**Splash + Sea Scouts**  
+Wed 5 Jul 20:30; Mon 10 Jul 18:00  
+**Disney at 100**  
+Thus 6 Jul 18:15  
+**UK premiere of 4K Restoration: Cinderella + Trailer Horn**  
+Thu 6 Jul 20:30 + intro by season curator Justin Johnson; Sun 9 Jul 12:20; Tue 25 Jul 14:20
+**The Black Hole + Lifted**
+
+Fri 7 Jul 20:50; Sat 15 Jul 13:00
+
+**Sleeping Beauty + Magician Mickey**
+
+Sat 8 Jul 12:20; Sun 16 Jul 16:00; Wed 26 Jul 14:20
+
+**The Princess and the Frog + Babes in the Woods**
+
+Sat 8 Jul 12:30; Thus 18 Jul 18:00
+
+**Fantasia + Toot, Whistle, Plunk and Boom**
+
+Sat 8 Jul 15:00; Thu 27 Jul 17:50
+
+**Fantasia 2000**
+
+Sat 8 Jul 18:10; Sun 30 Jul 10:30
+
+**Dead Poet Society + Geri's Game**
+
+Sat 8 Jul 20:20; Thu 20 Jul 17:50
+
+**Alice in Wonderland + Pluto’s Party**
+
+Sun 9 Jul 15:30; Thu 13 Jul 18:10
+
+**Frozen + Frozen Fever**
+
+Fri 14 Jul 20:45; Sun 30 Jul 12:40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDU2NjI1Ml19
+eyJoaXN0b3J5IjpbLTM0OTc5MTM3M119
 -->
