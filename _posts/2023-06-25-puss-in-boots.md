@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Puss in Boots<br>
+title: Puss in Boots<br>The Last Wish
 published: true
 date: 2023-06-25
 readtime: true
-categories: ['MICHEL PICCOLI<br>A FEARLESS TALENT']
-tags: [Drama]
-metadata: 'Italy 2011, 105 mins<br> Director: Nanni Moretti'
+categories: ['BFI FAMILIES']
+tags: [Animation, Adventure]
+metadata: 'USA 2022, 102 mins<br> Director: Nanni Moretti'
 pdf: '2023-06-25-habemus-papam.pdf'
 ---
 
@@ -24,7 +24,65 @@ A joyous cinematic experience for audiences of all ages, _Puss in Boots: The Las
 The voice cast do a stellar job in bringing the film to life, and the humour lands terrifically. But most of all, the film hits home a daring message about mortality and the value of life.
 
 It’s no surprise that this cute spin-off from the _Shrek_ franchise has been a hit with the Oscars, perfect for a family audience but striking an emotional chord with young viewers too!  
-**Shadman Kabir and Caleb Roberts, Young Programmers**
+**Shadman Kabir and Caleb Roberts, Young Programmers**  
+<br>
+
+
+**PUSS IN BOOTS: THE LAST WISH**
+
+_Directed by:_ Joel Crawford
+
+_Co-director:_ Januel P. Mercado
+
+_Production Company:_ DreamWorks Animation
+
+_Presented in association with:_ Dentsu
+
+_Produced by:_ Mark Swift
+
+_Casting Director:_ Christi Soper Hilt
+
+_Screenplay by:_ Paul Fisher, Tommy Swerdlow
+
+_Additional Screenplay Material by:_ Etan Cohen
+
+_Story by:_ Tommy Swerdlow, Tom Wheeler
+
+_Cinematographer:_ Chris Stover
+
+_Editor:_ James Ryan
+
+_Production Designer:_ Nate Wragg
+
+_Composer:_ Heitor Pereira
+
+_Voice Cast:_
+
+Antonio Banderas _(Puss in Boots)_
+
+Salma Hayek Pinault _(Kitty Softpaws)_
+
+Harvey Guillén _(Perrito)_
+
+Florence Pugh _(Goldilocks)_
+
+Olivia Colman _(Mama Bear)_
+
+Ray Winstone _(Papa Bear)_
+
+Samson Kayo _(Baby Bear)_
+
+John Mulaney _(Jack Horner)_
+
+Wagner Moura _(Wolf)_
+
+Da’Vine Joy Randolph _(Mama Luna)_
+
+Anthony Mendez _(Doctor)_
+Kevin McCann _(Ethical Bug)_
+
+USA 2022
+102 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDI2MzIxNTRdfQ==
+eyJoaXN0b3J5IjpbMTM3MzM4NzczMF19
 -->
