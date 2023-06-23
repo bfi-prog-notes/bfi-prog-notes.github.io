@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Don't Look Now
+published: true
+date: 2023-06-24
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama,]
+metadata: 'Italy 2011, 105 mins<br> Director: Nanni Moretti'
+pdf: '2023-06-25-habemus-papam.pdf'
+---
 
 **Nicolas Roeg on ‘Don’t Look Now’**
 
@@ -108,48 +116,37 @@ UK/Italy 1973©
 110 mins  
 <br>
 
-<![endif]-->
-
-**BIG SCREEN CLASSICS**
-
-**El Sur (The South)**
-
-Sat 1 Jul 12:50; Fri 7 Jul 14:40; Mon 17 Jul 20:30
-
-**All That Heaven Allows**
-
-Sat 1 Jul 13:10; Tue 4 Jul 20:50; Thu 13 Jul 20:40
-
-**Shadow of a Doubt**
-
-Sun 2 Jul 13:20; Sat 15 Jul 12:40
-
-**Les Demoiselles de Rochefort (The Young Ladies of Rochefort)**
-
-Mon 3 Jul 20:30; Thu 13 Jul 20:30; Tue 18 Jul 18:10
-
-**The Harder They Come**
-Wed 5 Jul 18:00 + intro by author Lloyd Bradley; Mon 10 Jul 20:30
-**The Piano**
-Thu 6 Jul 20:35; Sun 16 Jul 13:10
-**Akenfield**
-Sat 8 Jul 18:00; Fri 21 Jul 20:30
-**Babette’s Feast (Babettes Gæstebud)**
-Sun 9 Jul 13:30; Thu 27 Jul 20:45
-**The Searchers**
-Tue 11 Jul 20:30; Sun 23 Jul 12:10
-**The Man Who Wasn’t There**
-Wed 12 Jul 18:10 + intro by Geoff Andrew, Programmer-at-Large; Wed 19 Jul 20:45; Sat 22 Jul 18:00
-**My Night with Maud (Ma nuit chez Maud)**
-Fri 14 Jul 20:40; Thu 27 Jul 18:10
-**Persona**
-Tue 18 Jul 20:50; Fri 28 Jul 18:10; Mon 31 Jul 20:50
-**The Straight Story**
-Wed 19 Jul 18:10 + intro by Lindsay Hallam, Senior Lecturer in Film, University of East London; Mon 24 Jul 20:40; Sat 29 Jul 18:00
-**Wanda**
-Thu 20 Jul 20:55; Wed 26 Jul 18:10 + intro by Becca Voelcker, Lecturer in Fine Art at Goldsmiths, University of London
-**The Motorcycle Diaries (Diarios de motocicleta)**
-Tue 25 Jul 20:30; Sun 30 Jul 15:30 + intro by Chantelle Lavel Boyea, BFI Assistant Curator of Television
+**BIG SCREEN CLASSICS**  
+**El Sur (The South)**  
+Sat 1 Jul 12:50; Fri 7 Jul 14:40; Mon 17 Jul 20:30  
+**All That Heaven Allows**  
+Sat 1 Jul 13:10; Tue 4 Jul 20:50; Thu 13 Jul 20:40  
+**Shadow of a Doubt**  
+Sun 2 Jul 13:20; Sat 15 Jul 12:40  
+**Les Demoiselles de Rochefort (The Young Ladies of Rochefort)**  
+Mon 3 Jul 20:30; Thu 13 Jul 20:30; Tue 18 Jul 18:10  
+**The Harder They Come**  
+Wed 5 Jul 18:00 + intro by author Lloyd Bradley; Mon 10 Jul 20:30  
+**The Piano**  
+Thu 6 Jul 20:35; Sun 16 Jul 13:10  
+**Akenfield**  
+Sat 8 Jul 18:00; Fri 21 Jul 20:30  
+**Babette’s Feast (Babettes Gæstebud)**  
+Sun 9 Jul 13:30; Thu 27 Jul 20:45  
+**The Searchers**  
+Tue 11 Jul 20:30; Sun 23 Jul 12:10  
+**The Man Who Wasn’t There**  
+Wed 12 Jul 18:10 + intro by Geoff Andrew, Programmer-at-Large; Wed 19 Jul 20:45; Sat 22 Jul 18:00  
+**My Night with Maud (Ma nuit chez Maud)**  
+Fri 14 Jul 20:40; Thu 27 Jul 18:10  
+**Persona**  
+Tue 18 Jul 20:50; Fri 28 Jul 18:10; Mon 31 Jul 20:50  
+**The Straight Story**  
+Wed 19 Jul 18:10 + intro by Lindsay Hallam, Senior Lecturer in Film, University of East London; Mon 24 Jul 20:40; Sat 29 Jul 18:00  
+**Wanda**  
+Thu 20 Jul 20:55; Wed 26 Jul 18:10 + intro by Becca Voelcker, Lecturer in Fine Art at Goldsmiths, University of London  
+**The Motorcycle Diaries (Diarios de motocicleta)**  
+Tue 25 Jul 20:30; Sun 30 Jul 15:30 + intro by Chantelle Lavel Boyea, BFI Assistant Curator of Television  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg0MTUyOTksOTUwODUxNzU1XX0=
+eyJoaXN0b3J5IjpbLTEwMTMxNTYyOTYsOTUwODUxNzU1XX0=
 -->
