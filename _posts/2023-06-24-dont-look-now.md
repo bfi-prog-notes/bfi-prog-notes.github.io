@@ -6,7 +6,7 @@ date: 2023-06-24
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Thriller, Horror]
-metadata: 'UK/Italy 1973, 11o mins<br> Director: Nicolas Roeg'
+metadata: 'UK/Italy 1973, 110 mins<br> Director: Nicolas Roeg'
 pdf: '2023-06-24-dont-look-now.pdf'
 ---
 
