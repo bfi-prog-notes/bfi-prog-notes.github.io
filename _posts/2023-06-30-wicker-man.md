@@ -96,51 +96,39 @@ John Hallam _(Police Constable Hugh McTaggart)_
 Alison Hughes _(fiancée to Howie)_  
 Charles Kearney _(butcher)_  
 Fiona Kennedy _(Holly)_  
-John MacGregor _(baker)_
+John MacGregor _(baker)_  
+Jimmy MacKenzie _(briar)_  
+Jennifer Martin _(Myrtle Morrison)_  
+Helen Norman,  Elizabeth Sinclair _(villagers on Summerisle)_  
+Lorraine Peters _(girl on grave)_  
+Tony Roper _(postman)_  
+John Sharp _(Dr Ewan)_  
+Ian Wilson _(communicant)_  
+Richard Wren _(Ash Buchanan)_  
+John Young _(fishmonger)_  
+_uncredited_  
+Annie Ross _(dubbed Britt Ekland)_  
+Robin Hardy _(minister)_  
 
-Jimmy MacKenzie _(briar)_
+UK 1973©  
+95 mins  
 
-Jennifer Martin _(Myrtle Morrison)_
+A StudioCanal release  
+<br>
 
-Helen Norman,  Elizabeth Sinclair
+**RE-RELEASES**  
+**The Wicker Man**  
+Continues from Fri 30 Jun  
 
-_(villagers on Summerisle)_
+**NEW RELEASES**  
+**Name Me Lawand**  
+From Fri 7 Jul; Fri 7 Jul 18:20 + intro & Q&A with director Edward Lovelace  
+**Barbie**  
+From Fri 21 Jul  
+**Talk to Me**  
+From Fri 28 Jul  
 
-Lorraine Peters _(girl on grave)_
 
-Tony Roper _(postman)_
-
-John Sharp _(Dr Ewan)_
-
-Ian Wilson _(communicant)_
-
-Richard Wren _(Ash Buchanan)_
-
-John Young _(fishmonger)_
-
-_uncredited_
-
-Annie Ross _(dubbed Britt Ekland)_
-
-Robin Hardy _(minister)_
-
-UK 1973©
-
-95 mins
-
-A StudioCanal release
-
-**RE-RELEASES**
-**The Wicker Man**
-Continues from Fri 30 Jun
-
-**NEW RELEASES**
-**Name Me Lawand**
-From Fri 7 Jul; Fri 7 Jul 18:20 + intro & Q&A with director Edward Lovelace
-**Barbie**
-From Fri 21 Jul
-**Talk to Me**
-From Fri 28 Jul
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjg4ODk1MjQsNzI3NTEwNzA2XX0=
+eyJoaXN0b3J5IjpbLTE4OTI2NDEzNjIsNzI3NTEwNzA2XX0=
 -->
