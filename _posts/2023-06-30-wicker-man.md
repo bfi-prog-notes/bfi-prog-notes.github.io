@@ -25,7 +25,176 @@ The film was evocatively shot (by Harry Waxman) on location in Scotland – one 
 Forty years on, _The Wicker Man_ still stands alone. Resistant to genre labels, of its time but ahead of its time, it also harks to a world outside time – a mysterious, tantalising world of indistinct folk memory, a distant Albion that lies within us all. Technological advances have not diminished our ache for something less artificial; and, as we plunge ever faster into an uncertain future, yet reach back and wonder at a shared folk history that remains just out of our grasp, _The Wicker_ _Man_’s ribald relevance is endlessly refreshed, and its earthy allure grows stronger.
 
 ‘It stands apart from time and space,’ says Hardy. ‘I think it has endured because it’s about part of this country’s life, and mythology, and existence.’ While we remain sceptical of modernity and power, and ponder what we might believe in, but still enjoy a joke and a singsong, _The Wicker Man_ will continue to tower enigmatically above us – whether we gather a good harvest or not.  
-**Vic Pratt, _Sight and Sound_, October 2013**
+**Vic Pratt, _Sight and Sound_, October 2013**  
+<br>
+
+**THE WICKER MAN**  
+_Director_: Robin Hardy  
+_©_: British Lion Film Corporation  
+_Presented by_: British Lion Film Corporation  
+_Producer_: Peter Snell  
+_Unit Manager_: Mike Gowans  
+_Production Manager_: Ted Morley  
+_Location Manager_: Jilda Smith  
+_Production Secretary_: Beryl Harvey  
+_Assistant Director_: Jake Wright  
+_Continuity_: Sue Merry  
+_Casting Director_: Maggie Cartier  
+_Screenplay by_: Anthony Shaffer
+
+_Director of Photography_: Harry Waxman
+
+_2nd Unit Photography_: Peter Allwork
+
+_Camera Operator_: Jimmy Devis
+
+_Focus_: Mike Drew
+
+_Stills_: John Brown
+
+_Film Editor_: Eric Boyd-Perkins
+
+_Assistant Editor_: Denis Whitehouse
+
+_Art Director_: Seamus Flannery
+
+_Costume Design_: Sue Yelland
+
+_Wardrobe Supervisor_: Masada Wilmot
+
+_Make-up_: Billy Partleton
+
+_Hairdresser_: Jan Dorman
+
+_Music Composed by_: Paul Giovanni
+
+_Music Performed by_: Magnet
+
+_‘Corn Rigs’ sung by_: Paul Giovanni
+
+_Associate Musical Director_: Gary Carpenter
+
+_Choreographer_: Stewart Hopps
+
+_Sound_: Robin Gregory, Bob Jones
+
+_Sound Editor_: Vernon Messenger
+
+_Publicity_: Frank Law
+
+_Studio_: Shepperton Studios
+
+_uncredited_
+
+_Production Accountant_: Ernest Shepherd
+
+_Based on the novel_ Ritual _by_: David Pinner
+
+_2nd Assistant Director_: Brian Cook
+
+_Cast:_
+
+Edward Woodward _(Sergeant Neil Howie)_
+
+Britt Ekland _(Willow MacGregor)_
+
+Diane Cilento _(Miss Rose)_
+
+Ingrid Pitt _(librarian)_
+
+Christopher Lee _(Lord Summerisle)_
+
+Roy Boyd _(Broome)_
+
+Lesley Mackie _(Daisy)_
+
+Walter Carr _(school master)_
+
+Irene Sunters _(Mrs May Morrison)_
+
+Lindsay Kemp _(Alder MacGregor)_
+
+Ian Campbell _(Oak)_
+
+Kevin Collins _(old fisherman)_
+
+Aubrey Morris _(old gardener/gravedigger)_
+
+Russell Waters _(harbour master)_
+
+Donald Eccles _(T.H. Lennox)_
+
+Geraldine Cowper _(Rowan Morrison)_
+
+Leslie Blackater _(hairdresser)_
+
+Peter Brewis,  Michael Cole_,_ Ian Cutler_,_
+
+Bernard Murray_,_ Andrew Tompkins _(musicians)_
+
+Barbara Ann Brown _(woman with baby)_
+
+Juliette Cadzow _(villager on Summerisle)_
+
+Ross Campbell _(communicant)_
+
+Penny Cluer _(Gillie)_
+
+Myra Forsyth _(Mrs Grimmond)_
+
+John Hallam _(Police Constable Hugh McTaggart)_
+
+Alison Hughes _(fiancée to Howie)_
+
+Charles Kearney _(butcher)_
+
+Fiona Kennedy _(Holly)_
+
+John MacGregor _(baker)_
+
+Jimmy MacKenzie _(briar)_
+
+Jennifer Martin _(Myrtle Morrison)_
+
+Helen Norman,  Elizabeth Sinclair
+
+_(villagers on Summerisle)_
+
+Lorraine Peters _(girl on grave)_
+
+Tony Roper _(postman)_
+
+John Sharp _(Dr Ewan)_
+
+Ian Wilson _(communicant)_
+
+Richard Wren _(Ash Buchanan)_
+
+John Young _(fishmonger)_
+
+_uncredited_
+
+Annie Ross _(dubbed Britt Ekland)_
+
+Robin Hardy _(minister)_
+
+UK 1973©
+
+95 mins
+
+A StudioCanal release
+
+**RE-RELEASES**
+**The Wicker Man**
+Continues from Fri 30 Jun
+
+**NEW RELEASES**
+**Name Me Lawand**
+From Fri 7 Jul; Fri 7 Jul 18:20 + intro & Q&A with director Edward Lovelace
+**Barbie**
+From Fri 21 Jul
+**Talk to Me**
+From Fri 28 Jul
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3NTEwNzA2XX0=
+eyJoaXN0b3J5IjpbLTc0NTM0NjgyNiw3Mjc1MTA3MDZdfQ==
 -->
