@@ -1,10 +1,19 @@
-<![endif]-->
+---
+layout: post
+title: The Wicker Man
+published: true
+date: 2023-06-30
+readtime: true
+categories: ['RE_RELEASES']
+tags: [Horror]
+metadata: 'UK, 1973, 95 mins<br> Director: Robin Hardy'
+pdf: '2023-06-30-wicker-man.pdf'
+---
 
 We celebrate the 50th anniversary of this chilling British horror, which only gets better with age. When a schoolgirl is reported missing, Police Sergeant Neil Howie flies to the Hebridean island of Summerisle to investigate. This creates a stir among the islanders, who claim the officer is on a fool’s errand because the girl never existed. Although all evidence points to a wasted trip, Howie’s instincts lead him to persevere, despite his distaste for the pagan leanings of the locals. It’s only then that he discovers the horrible truth.
 
-Some five decades after its first release, _The Wicker Man_ continues to thrill. Its plausibility is what makes the film so unsettling, while its eccentricities and folklore roots provide a chilling delight.
-
-Justin Johnson, Lead Programmer, bfi.org.uk
+Some five decades after its first release, _The Wicker Man_ continues to thrill. Its plausibility is what makes the film so unsettling, while its eccentricities and folklore roots provide a chilling delight.  
+**Justin Johnson, Lead Programmer, bfi.org.uk**
 
 Come, it is time to keep your appointment with Robin Hardy’s _The Wicker Man_. Forty years old, the film burns brighter than ever across the scarred terrain of British Cinema. Famously championed by _Cinefantastique_ stateside, as far back as 1977, as ‘the _Citizen_ _Kane_ of horror’, it took longer to ignite at home, but nowadays regularly ranks high in best film polls, with its star, Christopher Lee, having declared that in it he gave his greatest performance.
 
@@ -130,5 +139,5 @@ From Fri 28 Jul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI2NDEzNjIsNzI3NTEwNzA2XX0=
+eyJoaXN0b3J5IjpbMTQ4NTY2NjkwNiw3Mjc1MTA3MDZdfQ==
 -->
