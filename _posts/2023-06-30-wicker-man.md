@@ -74,50 +74,28 @@ Diane Cilento _(Miss Rose)_
 Ingrid Pitt _(librarian)_  
 Christopher Lee _(Lord Summerisle)_  
 Roy Boyd _(Broome)_  
-Lesley Mackie _(Daisy)_
-
-Walter Carr _(school master)_
-
-Irene Sunters _(Mrs May Morrison)_
-
-Lindsay Kemp _(Alder MacGregor)_
-
-Ian Campbell _(Oak)_
-
-Kevin Collins _(old fisherman)_
-
-Aubrey Morris _(old gardener/gravedigger)_
-
-Russell Waters _(harbour master)_
-
-Donald Eccles _(T.H. Lennox)_
-
-Geraldine Cowper _(Rowan Morrison)_
-
-Leslie Blackater _(hairdresser)_
-
-Peter Brewis,  Michael Cole_,_ Ian Cutler_,_
-
-Bernard Murray_,_ Andrew Tompkins _(musicians)_
-
-Barbara Ann Brown _(woman with baby)_
-
-Juliette Cadzow _(villager on Summerisle)_
-
-Ross Campbell _(communicant)_
-
-Penny Cluer _(Gillie)_
-
-Myra Forsyth _(Mrs Grimmond)_
-
-John Hallam _(Police Constable Hugh McTaggart)_
-
-Alison Hughes _(fiancée to Howie)_
-
-Charles Kearney _(butcher)_
-
-Fiona Kennedy _(Holly)_
-
+Lesley Mackie _(Daisy)_  
+Walter Carr _(school master)_  
+Irene Sunters _(Mrs May Morrison)_  
+Lindsay Kemp _(Alder MacGregor)_  
+Ian Campbell _(Oak)_  
+Kevin Collins _(old fisherman)_  
+Aubrey Morris _(old gardener/gravedigger)_  
+Russell Waters _(harbour master)_  
+Donald Eccles _(T.H. Lennox)_  
+Geraldine Cowper _(Rowan Morrison)_  
+Leslie Blackater _(hairdresser)_  
+Peter Brewis,  Michael Cole,  Ian Cutler,
+Bernard Murray,  Andrew Tompkins _(musicians)_  
+Barbara Ann Brown _(woman with baby)_  
+Juliette Cadzow _(villager on Summerisle)_  
+Ross Campbell _(communicant)_  
+Penny Cluer _(Gillie)_  
+Myra Forsyth _(Mrs Grimmond)_  
+John Hallam _(Police Constable Hugh McTaggart)_  
+Alison Hughes _(fiancée to Howie)_  
+Charles Kearney _(butcher)_  
+Fiona Kennedy _(Holly)_  
 John MacGregor _(baker)_
 
 Jimmy MacKenzie _(briar)_
@@ -164,5 +142,5 @@ From Fri 21 Jul
 **Talk to Me**
 From Fri 28 Jul
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3NjkzODcyLDcyNzUxMDcwNl19
+eyJoaXN0b3J5IjpbLTExNjg4ODk1MjQsNzI3NTEwNzA2XX0=
 -->
