@@ -40,72 +40,40 @@ _Production Secretary_: Beryl Harvey
 _Assistant Director_: Jake Wright  
 _Continuity_: Sue Merry  
 _Casting Director_: Maggie Cartier  
-_Screenplay by_: Anthony Shaffer
+_Screenplay by_: Anthony Shaffer  
+_Director of Photography_: Harry Waxman  
+_2nd Unit Photography_: Peter Allwork  
+_Camera Operator_: Jimmy Devis  
+_Focus_: Mike Drew  
+_Stills_: John Brown  
+_Film Editor_: Eric Boyd-Perkins  
+_Assistant Editor_: Denis Whitehouse  
+_Art Director_: Seamus Flannery  
+_Costume Design_: Sue Yelland  
+_Wardrobe Supervisor_: Masada Wilmot  
+_Make-up_: Billy Partleton  
+_Hairdresser_: Jan Dorman  
+_Music Composed by_: Paul Giovanni  
+_Music Performed by_: Magnet  
+_‘Corn Rigs’ sung by_: Paul Giovanni  
+_Associate Musical Director_: Gary Carpenter  
+_Choreographer_: Stewart Hopps  
+_Sound_: Robin Gregory, Bob Jones  
+_Sound Editor_: Vernon Messenger  
+_Publicity_: Frank Law  
+_Studio_: Shepperton Studios  
+_uncredited_  
+_Production Accountant_: Ernest Shepherd  
+_Based on the novel_ Ritual _by_: David Pinner  
+_2nd Assistant Director_: Brian Cook  
 
-_Director of Photography_: Harry Waxman
-
-_2nd Unit Photography_: Peter Allwork
-
-_Camera Operator_: Jimmy Devis
-
-_Focus_: Mike Drew
-
-_Stills_: John Brown
-
-_Film Editor_: Eric Boyd-Perkins
-
-_Assistant Editor_: Denis Whitehouse
-
-_Art Director_: Seamus Flannery
-
-_Costume Design_: Sue Yelland
-
-_Wardrobe Supervisor_: Masada Wilmot
-
-_Make-up_: Billy Partleton
-
-_Hairdresser_: Jan Dorman
-
-_Music Composed by_: Paul Giovanni
-
-_Music Performed by_: Magnet
-
-_‘Corn Rigs’ sung by_: Paul Giovanni
-
-_Associate Musical Director_: Gary Carpenter
-
-_Choreographer_: Stewart Hopps
-
-_Sound_: Robin Gregory, Bob Jones
-
-_Sound Editor_: Vernon Messenger
-
-_Publicity_: Frank Law
-
-_Studio_: Shepperton Studios
-
-_uncredited_
-
-_Production Accountant_: Ernest Shepherd
-
-_Based on the novel_ Ritual _by_: David Pinner
-
-_2nd Assistant Director_: Brian Cook
-
-_Cast:_
-
-Edward Woodward _(Sergeant Neil Howie)_
-
-Britt Ekland _(Willow MacGregor)_
-
-Diane Cilento _(Miss Rose)_
-
-Ingrid Pitt _(librarian)_
-
-Christopher Lee _(Lord Summerisle)_
-
-Roy Boyd _(Broome)_
-
+**Cast**  
+Edward Woodward _(Sergeant Neil Howie)_  
+Britt Ekland _(Willow MacGregor)_  
+Diane Cilento _(Miss Rose)_  
+Ingrid Pitt _(librarian)_  
+Christopher Lee _(Lord Summerisle)_  
+Roy Boyd _(Broome)_  
 Lesley Mackie _(Daisy)_
 
 Walter Carr _(school master)_
@@ -196,5 +164,5 @@ From Fri 21 Jul
 **Talk to Me**
 From Fri 28 Jul
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTM0NjgyNiw3Mjc1MTA3MDZdfQ==
+eyJoaXN0b3J5IjpbMjc3NjkzODcyLDcyNzUxMDcwNl19
 -->
