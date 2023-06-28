@@ -39,57 +39,36 @@ JT: Yes, we’re hopeful that by telling a new kind of story we will serve audie
 IS: It’s ultimately an audience-facing project that was designed to be enjoyed.  
 I hope it entertains people... and maybe unexpectedly moves them too.
 
-ITVX production notes
+**ITVX production notes**
+<br><br>
 
-<![endif]-->
+**THE EFFECTS OF LYING**<br>
+_Director:_ Isher Sahota<br>
+_Production Company:_ Bonaparte Films<br>
+_Executive Producers:_ Elliot Grove, Ash Verma, Kishan Kainth, Bob Singh Kullar<br>
+_Producer:_ Jon Tarcy<br>
+_Co-Producer:_ Greg Schroeder<br>
+_Casting Director:_ Claudia Blunt<br>
+_Writer:_ James Hey<br>
+_Cinematographer:_ Adam Singodia<br>
+_Editor:_ Joshua Whitelaw<br>
+_Production Designer:_ Ida Fly Hedkvist<br>
+_Costume Designer:_ Jonathan Lipman<br>
+_Composer:_ Luis Almau<br>
+_Supervising Sound Editor:_ Roland Heap<br>
+_Intimacy Coordinator:_ David Thackery<br>
 
-**THE EFFECTS OF LYING**
+**Cast**<br>
+Ace Bhatti _(Naveen)_<br>
+Laila Rouass _(Sangeeta)_<br>
+Lauren Patel _(Simran)_<br>
+Navin Chowdry _(Harvinder)_<br>
+Shaheen Khan _(Pryia)_<br>
+Mark Williams _(Brian)_<br>
 
-_Director:_ Isher Sahota
-
-_Production Company:_ Bonaparte Films
-
-_Executive Producers:_ Elliot Grove, Ash Verma, Kishan Kainth, Bob Singh Kullar
-
-_Producer:_ Jon Tarcy
-
-_Co-Producer:_ Greg Schroeder
-
-_Casting Director:_ Claudia Blunt
-
-_Writer:_ James Hey
-
-_Cinematographer:_ Adam Singodia
-
-_Editor:_ Joshua Whitelaw
-
-_Production Designer:_ Ida Fly Hedkvist
-
-_Costume Designer:_ Jonathan Lipman
-
-_Composer:_ Luis Almau
-
-_Supervising Sound Editor:_ Roland Heap
-
-_Intimacy Coordinator:_ David Thackery
-
-_Cast:_
-
-Ace Bhatti _(Naveen)_
-
-Laila Rouass _(Sangeeta)_
-
-Lauren Patel _(Simran)_
-
-Navin Chowdry _(Harvinder)_
-
-Shaheen Khan _(Pryia)_
-
-Mark Williams _(Brian)_
-
-UK 2022
-
-85 mins
+UK 2022<br>
+85 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTEyMTcyODNdfQ==
+eyJoaXN0b3J5IjpbLTg1NDQ2OTYxOF19
 -->
