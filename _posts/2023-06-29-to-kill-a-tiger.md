@@ -1,3 +1,14 @@
+---
+layout: post
+title: To Kill a Tiger
+published: true
+date: 2023-06-29
+readtime: true
+categories: ['LONDON INDIAN FILM FESTIVAL']
+tags: [Documentary]
+metadata: 'Canada 2022, 125 mins<br> Director: Nisha Pahuja'
+pdf: '2023-06-29-to-kill-a-tiger.pdf'
+---
 
 _+ Q&A with director Nisha Pahuja and guests_
 
@@ -16,8 +27,7 @@ Eventually, however, we showed a five-hour assembly to two filmmakers we trust i
 
 To pivot after years of work was difficult but also liberating. The beauty of the new approach was its simplicity. By focusing on one story, we could paint a fuller picture of the other figures involved, namely the Ward Member, Ranjit’s wife, Jaganti, and, most significantly, his daughter ‘J.’
 
-Although she’s undoubtedly the victim of a brutal crime, ‘J’ is so much more. Her 13-year-old body is the battleground upon which an epic and age-old battle is being fought, one that has to do with power, honour, community  
-and justice.
+Although she’s undoubtedly the victim of a brutal crime, ‘J’ is so much more. Her 13-year-old body is the battleground upon which an epic and age-old battle is being fought, one that has to do with power, honour, community  and justice.
 
 In demanding her legal rights from her country, in effect she demands change, and she asks for the restoration of a much deeper moral order rooted in the precept of ‘do no harm.’
 
@@ -71,6 +81,30 @@ Canada 2022<br>
 
 **Please note: This film may trigger those who have experienced physical child abuse**<br>
 <br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE5OTg4ODkxMTBdfQ==
 -->
