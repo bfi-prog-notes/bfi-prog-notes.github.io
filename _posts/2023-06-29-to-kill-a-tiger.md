@@ -43,55 +43,34 @@ _To Kill a Tiger_ took eight years to make. It represents the amalgamation of ma
 
 To the NFB I owe a deep and abiding gratitude for supporting this long and jagged journey and for their faith in me as a filmmaker. Thanks must also be given to our executive producers – Andy Cohen, Drew Dragoumis and Atul Gawande and to Mala Gaonkar – for their generosity, creativity and never saying no to watching a cut!
 
-Lastly however, I must acknowledge four people on the team – editors Mike Munn and Dave Kazala, sound recordist Anita Kushwaha and my husband and DP Mrinal Desai. Their belief in this film and what it could be never wavered. We were given a gift and we knew that we owed Ranjit and his family our very best as creators and as people.
+Lastly however, I must acknowledge four people on the team – editors Mike Munn and Dave Kazala, sound recordist Anita Kushwaha and my husband and DP Mrinal Desai. Their belief in this film and what it could be never wavered. We were given a gift and we knew that we owed Ranjit and his family our very best as creators and as people.  
+**Nisha Pahuja, August 2022**
+<br><br>
 
-Nisha Pahuja, August 2022
+**TO KILL A TIGER**<br>
+_Directed by:_ Nisha Pahuja<br>
+©: Notice Pictures, National Film Board of Canada<br>
+_Executive Producers:_ Andy Cohen, Anita Lee,  Atul Gawande, Andrew Dragoumis, Nisha Pahuja, Cornelia Principe<br>
+_Producers:_ Cornelia Principe, Nisha Pahuja,  David Oppenheim<br>
+_Post-Production Coordinator:_ Pranay Nichani<br>
+_Creative Consultant:_ Andy Cohen<br>
+_Executive Consultant:_ Priya Doraswamy<br>
+_Written by:_ Nisha Pahuja<br>
+_Story Editor:_ Manfred Becker<br>
+_Research:_ Nisha Pahuja<br>
+_Archival Research:_ Erin Chisholm<br>
+_Director of Photography:_ Mrinal Desai<br>
+_Editors:_ Mike Munn, Dave Kazala<br>
+_Assistant Editor:_ Pranay Nichani<br>
+_Original Score:_ Jonathan Goldsmith<br>
+_Music Editor:_ Jordan Kawai<br>
+_Location Sound Recordist:_ Anita Kushwaha<br>
 
-<![endif]-->
-
-**TO KILL A TIGER**
-
-_Directed by:_ Nisha Pahuja
-
-©: Notice Pictures, National Film Board of Canada
-
-_Executive Producers:_ Andy Cohen, Anita Lee,  
-Atul Gawande, Andrew Dragoumis, Nisha Pahuja, Cornelia Principe
-
-_Producers:_ Cornelia Principe, Nisha Pahuja,  
-David Oppenheim
-
-_Post-Production Coordinator:_ Pranay Nichani
-
-_Creative Consultant:_ Andy Cohen
-
-_Executive Consultant:_ Priya Doraswamy
-
-_Written by:_ Nisha Pahuja
-
-_Story Editor:_ Manfred Becker
-
-_Research:_ Nisha Pahuja
-
-_Archival Research:_ Erin Chisholm
-
-_Director of Photography:_ Mrinal Desai
-
-_Editors:_ Mike Munn, Dave Kazala
-
-_Assistant Editor:_ Pranay Nichani
-
-_Original Score:_ Jonathan Goldsmith
-
-_Music Editor:_ Jordan Kawai
-
-_Location Sound Recordist:_ Anita Kushwaha
-
-Canada 2022
-
+Canada 2022<br>
 125 mins
 
-**Please note: This film may trigger those who have experienced physical child abuse**
+**Please note: This film may trigger those who have experienced physical child abuse**<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk0MTcyMzFdfQ==
+eyJoaXN0b3J5IjpbLTE5OTg4ODkxMTBdfQ==
 -->
