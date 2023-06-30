@@ -1,3 +1,14 @@
+---
+layout: post
+title: Disney's Silly Symphonies
+published: true
+date: 2023-07-02
+readtime: true
+categories: [' **MAKING MAGIC<br> 100 YEARS OF DISNEY**]
+tags: [Musical, Comedy, Animation]
+metadata: 'India 1977, 184 mins<br> Director: Manmohan Desai'
+pdf: '2023-07-02-amar-akbar-anthony.pdf'
+---
 
 
 Carl Stalling, a musician whom Walt Disney had known in Kansas City, and who came to Hollywood in 1928 to become the studio’s first official music director, reportedly became involved in heated discussions with Disney over the limitations imposed on his scoring by his employer’s insistence on giving the animation pre-eminence over the music in the first Mickey Mouse shorts. As a result of these altercations and at Stalling’s suggestion, a second series of shorts was conceived. In a _Funny World_ interview, Stalling reminisced about the birth of the Sillys: ‘After two or three of the Mickeys had been completed, Walt talked with me about getting started on the musical series that I had in mind. At first he thought I meant illustrated songs, but when I told him that I was thinking of inanimate objects like skeletons, trees, flowers, etc., coming to life and dancing and doing assorted actions fitted to music more or less in a humorous and rhythmic mood, he became very interested. Concerning a name for the series, I suggested not using the words ‘music’ or ‘musical’, as they sounded too commonplace, but instead using ‘symphony’ together with a humorous word. At the next gag meeting – I don’t know who suggested it – Walt asked me, “Carl, how would ‘Silly Symphony’ sound to you?” I said “Perfect!” I then suggested the initial subject, _Skeleton Dance_, because ever since I was a kid, I had wanted to see real skeletons dancing.’
@@ -131,19 +142,14 @@ Sun 16 Jul 18:10; Wed 26 Jul 20:40
 Mon 17 Jul 18:00; Sat 29 Jul 13:00; Mon 31 Jul 14:20  
 **Beauty and the Beast + Tick Tock Tale**  
 Sat 22 Jul 11:50; Mon 24 Jul 18:05; Thu 27 Jul 14:20  
-**Once Upon a Time: A Disney Day**
-
-Sat 22 Jul 12:00-17:00
-
-**Toy Story + The Adventures of Andre & Wally B. + Luxo Jr. + Red’s Dream**
-
-Sun 23 Jul 12:50; Sat 29 Jul 16:00
-
-**Toy Story 2 + Tin Toy + Knick Knack**
-
-Sun 23 Jul 15:30
-
-**Pocahontas + Lava** Sun 23 Jul 15:40; Fri 28 Jul 14:20; Sat 29 Jul 20:40
+**Once Upon a Time: A Disney Day**  
+Sat 22 Jul 12:00-17:00  
+**Toy Story + The Adventures of Andre & Wally B. + Luxo Jr. + Red’s Dream**  
+Sun 23 Jul 12:50; Sat 29 Jul 16:00  
+**Toy Story 2 + Tin Toy + Knick Knack**  
+Sun 23 Jul 15:30  
+**Pocahontas + Lava**  
+Sun 23 Jul 15:40; Fri 28 Jul 14:20; Sat 29 Jul 20:40  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwNDk0ODE5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTY1NjczOTg5Niw3MzA5OTgxMTZdfQ==
 -->
