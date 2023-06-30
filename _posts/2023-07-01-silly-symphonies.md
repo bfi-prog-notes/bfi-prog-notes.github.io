@@ -79,6 +79,100 @@ USA 1939
 Total running time 84 mins  
 
 With thanks to The Walt Disney Company  
+<BR>
+<![endif]-->
+
+**MAKING MAGIC: 100 YEARS OF DISNEY**  
+**Disney's Silly Symphonies**  
+Sat 1 Jul 13:00; Mon 3 Jul 18:20  
+**Dinosaur + Get a Horse!**  
+Sat 1 Jul 15:20; Sun 23 Jul 18:15  
+**Tangled + Tangled ever After**  
+Sat 1 Jul 17:50; Sun 23 Jul 13:10  
+**Snow White and the Seven Dwarfs + Thru the Mirror**  
+Sun 2 Jul 13:20; Sat 22 Jul 17:45; Mon 24 Jul 14:20  
+**Who Framed Roger Rabbit + Tummy Trouble + Rollercoaster Rabbit**  
+Sun 2 Jul 15:40; Sat 22 Jul 20:30  
+**Splash + Sea Scouts**  
+Wed 5 Jul 20:30; Mon 10 Jul 18:00  
+**Disney at 100**  
+Thus 6 Jul 18:15  
+**UK premiere of 4K Restoration: Cinderella + Trailer Horn**  
+Thu 6 Jul 20:30 + intro by season curator Justin Johnson; Sun 9 Jul 12:20; Tue 25 Jul 14:20  
+
+**The Black Hole + Lifted**
+
+Fri 7 Jul 20:50; Sat 15 Jul 13:00
+
+**Sleeping Beauty + Magician Mickey**
+
+Sat 8 Jul 12:20; Sun 16 Jul 16:00; Wed 26 Jul 14:20
+
+**The Princess and the Frog + Babes in the Woods**
+
+Sat 8 Jul 12:30; Thus 18 Jul 18:00
+
+**Fantasia + Toot, Whistle, Plunk and Boom** Sat 8 Jul 15:00; Thu 27 Jul 17:50
+
+**Fantasia 2000**
+
+Sat 8 Jul 18:10; Sun 30 Jul 10:30
+
+**Dead Poet Society + Geri's Game**
+
+Sat 8 Jul 20:20; Thu 20 Jul 17:50
+
+**Alice in Wonderland + Pluto’s Party**
+
+Sun 9 Jul 15:30; Thu 13 Jul 18:10
+
+**Frozen + Frozen Fever**
+
+Fri 14 Jul 20:45; Sun 30 Jul 12:40
+
+**TRON + Smash and Grab**
+
+Sat 15 Jul 15:10; Fri 21 Jul 18:00
+
+**TRON: Legacy + Sanjay’s Super Team**
+
+Sat 15 Jul 17:45; Fri 28 Jul 20:20
+
+**WALL-E + BURN-E**
+
+Sat 15 Jul 20:45; Sat 29 Jul 12:30
+
+**Funday Workshop: Encanto Sing-along**
+
+Sun 16 Jul 11:00
+
+**Funday: Encanto Sing-along**
+
+Sun 16 Jul 12:30
+
+**Hocus Pocus**
+
+Sun 16 Jul 18:10; Wed 26 Jul 20:40
+
+**Moana + Inner Workings** Mon 17 Jul 18:00; Sat 29 Jul 13:00; Mon 31 Jul 14:20
+
+**Beauty and the Beast + Tick Tock Tale**
+
+Sat 22 Jul 11:50; Mon 24 Jul 18:05; Thu 27 Jul 14:20
+
+**Once Upon a Time: A Disney Day**
+
+Sat 22 Jul 12:00-17:00
+
+**Toy Story + The Adventures of Andre & Wally B. + Luxo Jr. + Red’s Dream**
+
+Sun 23 Jul 12:50; Sat 29 Jul 16:00
+
+**Toy Story 2 + Tin Toy + Knick Knack**
+
+Sun 23 Jul 15:30
+
+**Pocahontas + Lava** Sun 23 Jul 15:40; Fri 28 Jul 14:20; Sat 29 Jul 20:40
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDk5ODM1NzEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE0MjUxNTM5MzUsNzMwOTk4MTE2XX0=
 -->
