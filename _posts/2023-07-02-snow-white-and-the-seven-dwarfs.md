@@ -7,7 +7,7 @@ readtime: true
 categories: ['MAKING MAGIC<BR>100 YEARS OF DISNEY']
 tags: [Children, Animation, Musical]
 metadata: 'USA 1937, 84 mins<br> Supervising Director: David Hand'
-pdf: '2023-07-02-amar-akbar-anthony.pdf'
+pdf: '2023-07-02-snow-white-and-the-seven-dwarfs.pdf'
 ---
 
 Disney turned to the Brothers Grimm for its first animated feature. It’s the classic fairy-tale of a Princess who runs away from her vain and wicked stepmother, deep into a forest where she encounters seven eccentric dwarfs. ‘Mirror, mirror, on the wall, who is the fairest one of all?’ A true musical classic, Disney staked everything he owned on the project. Despite industry expectations that it would fail, the film became a global hit and forever changed the medium.  
@@ -162,5 +162,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTc1Nzk2MV19
+eyJoaXN0b3J5IjpbLTEwNTIyMzU3NTNdfQ==
 -->
