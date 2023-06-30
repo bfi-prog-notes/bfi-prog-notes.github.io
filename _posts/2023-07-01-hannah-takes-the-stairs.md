@@ -61,39 +61,23 @@ The screening on Fri 14 Jul will be introduced by Programmer Kimberley Sheehan
 
 **FEEL ALL THE FEELINGS:  
 THE FILMS OF GRETA GERWIG**<br>
-
 **Hannah Takes the Stairs**<br>
-
 Sat 1 Jul 20:40; Fri 14 Jul 18:15 (+ intro by Programmer Kimberley Sheehan)<br>
-
 **Damsels in Distress**<br>
-
-Wed 5 Jul 20:40; Sat 15 Jul 20:30
-
-**Greenberg**
-
-Fri 7 Jul 18:05; Sat 29 Jul 20:50
-
-**20th Century Women**
-
-Sat 8 Jul 20:30; Fri 21 Jul 18:10
-
-**Little Women**
-
-Sun 9 Jul 18:10; Tue 25 Jul 20:20; Sun 30 Jul 18:00
-
-**Frances Ha**
-
-Mon 10 Jul 20:50; Tue 18 Jul 18:30; Fri 21 Jul 20:45
-
-**Mistress America**
-
-Wed 12 Jul 20:50; Sun 30 Jul 12:50
-
-**Lady Bird**
-
-Mon 17 Jul 20:45; Tue 25 Jul 18:30;  
-Wed 26 Jul 20:30
+Wed 5 Jul 20:40; Sat 15 Jul 20:30<br>
+**Greenberg**<br>
+Fri 7 Jul 18:05; Sat 29 Jul 20:50<br>
+**20th Century Women**<br>
+Sat 8 Jul 20:30; Fri 21 Jul 18:10<br>
+**Little Women**<br>
+Sun 9 Jul 18:10; Tue 25 Jul 20:20; Sun 30 Jul 18:00<br>
+**Frances Ha**<br>
+Mon 10 Jul 20:50; Tue 18 Jul 18:30; Fri 21 Jul 20:45<br>
+**Mistress America**<br>
+Wed 12 Jul 20:50; Sun 30 Jul 12:50<br>
+**Lady Bird**<br>
+Mon 17 Jul 20:45; Tue 25 Jul 18:30;  Wed 26 Jul 20:30<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU1NjExNzJdfQ==
+eyJoaXN0b3J5IjpbMTQyNDUxMjEzNl19
 -->
