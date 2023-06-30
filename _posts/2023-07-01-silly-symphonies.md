@@ -24,6 +24,81 @@ Of all the Sillys, it is _The Old Mill_ which is most anticipatory of _Fantasia_
 
 In little more than a decade, Disney and his staff brought the animated musical film to a level of creative and technical brilliance which remains a touchstone by which other endeavours in the field may be measured. Though the films’ success owes as much to the talents of his musical collaborators as to those of his graphic and story artists, Disney achieved his goal of total synthesis in such a way as to make distinctions between the various contributions of his staff practically meaningless.  
 **Ross Care, _Sight and Sound_, Winter 1976-77**  
+<br>
+
+**THE SKELETON DANCE**  
+_Director:_ Walt Disney  
+USA 1929  
+5 mins  
+
+**THE PIED PIPER**
+_Director_ Wilfred Jackson
+
+USA 1933
+
+8 mins
+
+**The Grasshopper and the Ants**
+
+Director Wilfred Jackson
+
+USA 1934
+
+8 mins
+
+**The Wise Little Hen**
+
+_Director:_ Wilfred Jackson
+
+USA 1934
+
+8 mins
+
+**The Goddess of Spring**
+
+_Director:_ Wilfred Jackson
+
+USA 1934
+
+10 mins
+
+**The Tortoise and the Hare**
+
+_Director:_ Wilfred Jackson
+
+USA 1935
+
+10 mins
+
+**Elmer Elephant**
+
+_Director:_ Wilfred Jackson
+
+USA 1936
+
+8 mins
+
+**Three Blind Mouseketeers**
+
+_Director:_ David Hand
+
+USA 1936
+
+9 mins
+
+**The Old Mill**
+_Director:_ Wilfred Jackson
+USA 1937
+9 mins
+
+**The Ugly Duckling**
+_Directors:_ Jack Cutting, Clyde Geronimi
+USA 1939
+9 mins
+
+Total running time 84 mins
+
+With thanks to The Walt Disney Company
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA2MDIxOTUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNjM3MTI2NTY5LDczMDk5ODExNl19
 -->
