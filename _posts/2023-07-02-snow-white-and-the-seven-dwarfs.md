@@ -22,6 +22,116 @@ _Snow_ _White_’s legend is festooned by tales of Walt’s performances of the 
 For today’s audiences, the great mistake may be the heroine’s relentlessly winsome cuteness in the first twenty minutes, when she and the animals must carry the action before the Dwarfs appear. But for animators and critics, the debate – as heated now as it was in 1937 – swirls round _Snow_ _White’_s pollution of cartoon with live-action. The film is a fairy-tale, but with realistic textures and illusory third dimensions. When characters proved hard to animate, Disney filmed actors as stilted motion references, the live-action footage guiding the artists. It’s plainest with the affectlessly traced Prince Charming, who takes Snow White to his cloud-castle at the end. It’s as if they’re transcending lowly cartoon business, like Dopey chasing a soap bar, or Grumpy’s halting, thready smile as he stomps away from Snow White’s kiss.  
 **Andrew Osmond, _100 Animated Feature Films_ (BFI/Palgrave Macmillan, 2010)**  
 <br>
+<![endif]-->
+
+**Thru the Mirror**
+
+_Director:_ David Hand [uncredited]  
+_©:_ Walt Disney Prod, Ltd.  
+_a Walt Disney Mickey Mouse_  
+_I__n:_ Technicolor  
+_Recorded by:_
+
+RCA Victor ‘High Fidelity’ Sound System  
+USA 1936  8 mins
+
+**Snow White and the Seven Dwarfs**
+
+_Supervising Director:_ David Hand
+
+_©:_ Walt Disney Productions
+
+_a_ Walt Disney _feature production_
+
+_Adapted from Grimms’ fairytale_
+
+_Story Adaptation:_ Ted Sears, Richard Creedon, Otto Englander, Dick Rickard, Earl Hurd,
+
+Merrill De Maris, Dorothy Ann Blank, Webb Smith
+
+_Sequence Directors:_ Perce Pearce,
+
+William Cottrell, Larry Morey, Wilfred Jackson,
+
+Ben Sharpsteen
+
+_Supervising Animators:_ Hamilton Luske,
+
+Fred Moore, Vladimir Tytla, Norman Ferguson
+
+_Animators:_ Frank Thomas, Les Clark, Dick Lundy, Fred Spencer, Art Babbitt, Bill Roberts, Eric Larson, Bernard Garbutt, Milton Kahl, Grim Natwick,
+
+Robert Stokes, Jack Campbell, James Algar, Marvin Woodward, Al Eugster, James Culhane,
+
+Cy Young, Stan Quackenbush, Joshua Meador, Ward Kimball, Ugo D’Orsi, Woolie Reitherman, George Rowley, Robert Martsch
+
+_Character Designers:_ Albert Hurter, Joe Grant
+
+_Backgrounds:_ Samuel Armstrong, Mique Nelson, Phil Dike, Merle Cox, Ray Lockrem, Claude Coats, Maurice Noble
+
+_Art Directors:_ Charles Philippi, Tom Codrick,
+
+Hugh Hennesy, Gustaf Tenggren, Terrell Stapp, Kenneth Anderson, McLaren Stewart,
+
+Kendall O’Connor, Harold Miles, Hazel Sewell
+
+_Colour by:_ Technicolor
+
+_Music:_ Frank Churchill, Leigh Harline, Paul Smith
+
+_Sound System:_ RCA Sound System
+
+_uncredited_
+
+_Producer:_ Walt Disney
+
+_Assistant Directors:_ Hal Adelquist, Carl Fallberg, Mike Holobofff, Ford Beebe
+
+_Animators:_ John McManus, Hugh Fraser,
+
+Sandy Strother, Paul Busch, Marc Davis,
+
+Louie Schmitt, Cornett Wood, Campbell Grant, Amby Paliwoda, Riley Thompson
+
+_Animation Special Effects:_ Andy Engman
+
+_Layouts:_ Louis Debney
+
+_Movement Model for Snow White:_
+
+Marge Champion
+
+_Movement Model for Prince Charming:_
+
+Louis Hightower
+
+_Voice Cast – all uncredited:_
+
+Adriana Caselotti _(Snow White)_
+
+Harry Stockwell _(Prince Charming)_
+
+Lucille Laverne _(the Wicked Queen)_
+
+Moroni Olsen _(the Magic Mirror)_
+
+Billy Gilbert _(Sneezy)_
+
+Otis Harlan _(Happy)_
+
+Pinto Colvig _(Sleepy/Grumpy)_
+
+Scotty Mattraw _(Bashful)_
+
+Roy Atwell _(Doc)_
+
+Stuart Buchanan _(Humbert, the huntsman)_
+
+Marion Darlington _(bird sounds/warbling)_
+
+USA 1937© 84 mins
+
+With thanks to The Walt Disney Company
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjM0OTAzMzddfQ==
+eyJoaXN0b3J5IjpbLTEyNDgwNTY1OTNdfQ==
 -->
