@@ -19,21 +19,16 @@ With Gerwig at the helm of _Barbie_ (2023), it feels a confident bet that some o
 **Andrew Northrup, bfi.org.uk, 30 June 2023**
 <br><br>
 
-**HANNAH TAKES THE STAIRS**
-
+**HANNAH TAKES THE STAIRS**  
 _Directed by_: Joe Swanberg  
-_A film by_: Joe Swanberg, Greta Gerwig,  
-Kent Osborne, Andrew Bujalski, Ry Russo-Young, Mark Duplass, Todd Rohal, Kevin Bewersdorf  
+_A film by_: Joe Swanberg, Greta Gerwig,  Kent Osborne, Andrew Bujalski, Ry Russo-Young, Mark Duplass, Todd Rohal, Kevin Bewersdorf  
 ©: Film Science  
 _Presented by_: Film Science  
 _Executive Producer_: Rajen Savjani  
 _Produced by_: Joe Swanberg, Anish Savjani  
 _Post Supervision_: Meg Digiovanni  
-_Written by_: Joe Swanberg, Greta Gerwig,  
-Kent Osborne  
-_Additional Material_: Andrew Bujalski,  
-Ry Russo-Young, Mark Duplass, Todd Rohal,  
-Kevin Bewersdorf, Tipper Newton, Kris Williams  
+_Written by_: Joe Swanberg, Greta Gerwig,  Kent Osborne  
+_Additional Material_: Andrew Bujalski,  Ry Russo-Young, Mark Duplass, Todd Rohal,  Kevin Bewersdorf, Tipper Newton, Kris Williams  
 _Photography_: Joe Swanberg  
 _Edited by_: Joe Swanberg  
 _Digital Intermediate by_: Offhollywood Digital (NYC)  
@@ -43,13 +38,10 @@ _Equipment from_: Zacuto Rentals
 _Additional Equipment from_: Frank Ross  
 _Audio Recording_: Kevin Bewersdorf  
 _Sound Mix_: Chris James  
-_Special Thanks_: Matt Dentler, Jay Duplass,  
-Karen Gerod, Aaron Katz, Lars Knudsen,  
-Spencer Parsons, Janet Pierson, Rebecca Romijn, Ryan Smith, Michael Tully, Jay Van Hoy  
+_Special Thanks_: Matt Dentler, Jay Duplass,  Karen Gerod, Aaron Katz, Lars Knudsen,  Spencer Parsons, Janet Pierson, Rebecca Romijn, Ryan Smith, Michael Tully, Jay Van Hoy  
 _Press Kit_: Vincent Savino
 
-_Cast:_
-
+**Cast**  
 Greta Gerwig _(Hannah)_  
 Kent Osborne _(Matt)_  
 Andrew Bujalski _(Paul)_  
@@ -61,22 +53,20 @@ Kris Williams _(Gaby)_
 Kevin Bewersdorf  
 Ivan Albertson
 
-USA 2006©
-
+USA 2006©  
 83 mins
 
 The screening on Fri 14 Jul will be introduced by Programmer Kimberley Sheehan
-
-<![endif]-->
+<br><br>
 
 **FEEL ALL THE FEELINGS:  
-THE FILMS OF GRETA GERWIG**
+THE FILMS OF GRETA GERWIG**<br>
 
-**Hannah Takes the Stairs**
+**Hannah Takes the Stairs**<br>
 
-Sat 1 Jul 20:40; Fri 14 Jul 18:15 (+ intro by Programmer Kimberley Sheehan)
+Sat 1 Jul 20:40; Fri 14 Jul 18:15 (+ intro by Programmer Kimberley Sheehan)<br>
 
-**Damsels in Distress**
+**Damsels in Distress**<br>
 
 Wed 5 Jul 20:40; Sat 15 Jul 20:30
 
@@ -105,5 +95,5 @@ Wed 12 Jul 20:50; Sun 30 Jul 12:50
 Mon 17 Jul 20:45; Tue 25 Jul 18:30;  
 Wed 26 Jul 20:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTEzNzI4NV19
+eyJoaXN0b3J5IjpbLTE1MTU1NjExNzJdfQ==
 -->
