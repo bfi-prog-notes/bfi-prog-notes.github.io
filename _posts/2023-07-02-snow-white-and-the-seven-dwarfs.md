@@ -4,9 +4,9 @@ title: Snow White and the Seven Dwarfs
 published: true
 date: 2023-07-02
 readtime: true
-categories: ['FILM WALLAHS<br>RESTORATION UK PREMIERE']
-tags: [Musical, Drama]
-metadata: 'India 1977, 184 mins<br> Director: Manmohan Desai'
+categories: ['MAKING MAGIC<BR>100 YEARS OF DISNEY']
+tags: [Children, Animation, Musical]
+metadata: 'USA 1937, 84 mins<br> Supervising Director: David Hand'
 pdf: '2023-07-02-amar-akbar-anthony.pdf'
 ---
 
@@ -162,5 +162,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyMzkxNTU4XX0=
+eyJoaXN0b3J5IjpbMTk0MTc1Nzk2MV19
 -->
