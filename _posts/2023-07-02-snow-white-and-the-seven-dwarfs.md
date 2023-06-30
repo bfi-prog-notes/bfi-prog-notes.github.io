@@ -35,7 +35,7 @@ For today’s audiences, the great mistake may be the heroine’s relentlessly w
 _Director:_ David Hand [uncredited]  
 _©:_ Walt Disney Prod, Ltd.  
 _a Walt Disney Mickey Mouse_  
-_I__n:_ Technicolor  
+_In:_ Technicolor  
 _Recorded by:_ RCA Victor ‘High Fidelity’ Sound System  
 USA 1936  
 8 mins  
@@ -78,7 +78,7 @@ Stuart Buchanan _(Humbert, the huntsman)_
 Marion Darlington _(bird sounds/warbling)_  
 
 USA 1937©  
-84 minS   
+84 mins  
 
 With thanks to The Walt Disney Company  
 <br>
