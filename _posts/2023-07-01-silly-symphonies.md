@@ -4,7 +4,7 @@ title: Disney's Silly Symphonies
 published: true
 date: 2023-07-01
 readtime: true
-categories: [**MAKING MAGIC<br> 100 YEARS OF DISNEY**]
+categories: [MAKING MAGIC<br> 100 YEARS OF DISNEY]
 tags: [Musical, Comedy, Animation]
 metadata: 
 pdf: '2023-07-01-silly-symphonies.pdf'
@@ -90,7 +90,6 @@ Total running time 84 mins
 
 With thanks to The Walt Disney Company  
 <BR>
-<![endif]-->
 
 **MAKING MAGIC: 100 YEARS OF DISNEY**  
 **Disney's Silly Symphonies**  
@@ -149,6 +148,8 @@ Sun 23 Jul 12:50; Sat 29 Jul 16:00
 Sun 23 Jul 15:30  
 **Pocahontas + Lava**  
 Sun 23 Jul 15:40; Fri 28 Jul 14:20; Sat 29 Jul 20:40  
+<br>
+
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
 *Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
