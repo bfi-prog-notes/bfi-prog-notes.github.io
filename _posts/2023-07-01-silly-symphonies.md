@@ -2,12 +2,12 @@
 layout: post
 title: Disney's Silly Symphonies
 published: true
-date: 2023-07-02
+date: 2023-07-01
 readtime: true
 categories: [**MAKING MAGIC<br> 100 YEARS OF DISNEY**]
 tags: [Musical, Comedy, Animation]
 metadata: 
-pdf: '2023-07-02-silly-symphonies.pdf'
+pdf: '2023-07-01-silly-symphonies.pdf'
 ---
 
 Carl Stalling, a musician whom Walt Disney had known in Kansas City, and who came to Hollywood in 1928 to become the studio’s first official music director, reportedly became involved in heated discussions with Disney over the limitations imposed on his scoring by his employer’s insistence on giving the animation pre-eminence over the music in the first Mickey Mouse shorts. As a result of these altercations and at Stalling’s suggestion, a second series of shorts was conceived. In a _Funny World_ interview, Stalling reminisced about the birth of the Sillys: ‘After two or three of the Mickeys had been completed, Walt talked with me about getting started on the musical series that I had in mind. At first he thought I meant illustrated songs, but when I told him that I was thinking of inanimate objects like skeletons, trees, flowers, etc., coming to life and dancing and doing assorted actions fitted to music more or less in a humorous and rhythmic mood, he became very interested. Concerning a name for the series, I suggested not using the words ‘music’ or ‘musical’, as they sounded too commonplace, but instead using ‘symphony’ together with a humorous word. At the next gag meeting – I don’t know who suggested it – Walt asked me, “Carl, how would ‘Silly Symphony’ sound to you?” I said “Perfect!” I then suggested the initial subject, _Skeleton Dance_, because ever since I was a kid, I had wanted to see real skeletons dancing.’
@@ -172,5 +172,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTQ2Nzk2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTgzODQ2Nzg1OCw3MzA5OTgxMTZdfQ==
 -->
