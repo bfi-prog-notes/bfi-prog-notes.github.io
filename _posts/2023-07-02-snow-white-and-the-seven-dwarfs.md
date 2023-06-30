@@ -37,85 +37,41 @@ _©:_ Walt Disney Productions
 _a_ Walt Disney _feature production_  
 _Adapted from Grimms’ fairytale_  
 _Story Adaptation:_ Ted Sears, Richard Creedon, Otto Englander, Dick Rickard, Earl Hurd, Merrill De Maris, Dorothy Ann Blank, Webb Smith  
-_Sequence Directors:_ Perce Pearce, William Cottrell, Larry Morey, Wilfred Jackson,Ben Sharpsteen
+_Sequence Directors:_ Perce Pearce, William Cottrell, Larry Morey, Wilfred Jackson, Ben Sharpsteen  
+_Supervising Animators:_ Hamilton Luske, Fred Moore, Vladimir Tytla, Norman Ferguson  
+_Animators:_ Frank Thomas, Les Clark, Dick Lundy, Fred Spencer, Art Babbitt, Bill Roberts, Eric Larson, Bernard Garbutt, Milton Kahl, Grim Natwick, Robert Stokes, Jack Campbell, James Algar, Marvin Woodward, Al Eugster, James Culhane, Cy Young, Stan Quackenbush, Joshua Meador, Ward Kimball, Ugo D’Orsi, Woolie Reitherman, George Rowley, Robert Martsch  
+_Character Designers:_ Albert Hurter, Joe Grant  
+_Backgrounds:_ Samuel Armstrong, Mique Nelson, Phil Dike, Merle Cox, Ray Lockrem, Claude Coats, Maurice Noble  
+_Art Directors:_ Charles Philippi, Tom Codrick, Hugh Hennesy, Gustaf Tenggren, Terrell Stapp, Kenneth Anderson, McLaren Stewart,
+Kendall O’Connor, Harold Miles, Hazel Sewell  
+_Colour by:_ Technicolor  
+_Music:_ Frank Churchill, Leigh Harline, Paul Smith  
+_Sound System:_ RCA Sound System  
+_uncredited_  
+_Producer:_ Walt Disney  
+_Assistant Directors:_ Hal Adelquist, Carl Fallberg, Mike Holobofff, Ford Beebe  
+_Animators:_ John McManus, Hugh Fraser, Sandy Strother, Paul Busch, Marc Davis, Louie Schmitt, Cornett Wood, Campbell Grant, Amby Paliwoda, Riley Thompson  
+_Animation Special Effects:_ Andy Engman  
+_Layouts:_ Louis Debney  
+_Movement Model for Snow White:_ Marge Champion  
+_Movement Model for Prince Charming:_ Louis Hightower  
+_Voice Cast – all uncredited:_   
+Adriana Caselotti _(Snow White)_  
+Harry Stockwell _(Prince Charming)_  
+Lucille Laverne _(the Wicked Queen)_  
+Moroni Olsen _(the Magic Mirror)_  
+Billy Gilbert _(Sneezy)_  
+Otis Harlan _(Happy)_  
+Pinto Colvig _(Sleepy/Grumpy)_  
+Scotty Mattraw _(Bashful)_  
+Roy Atwell _(Doc)_  
+Stuart Buchanan _(Humbert, the huntsman)_  
+Marion Darlington _(bird sounds/warbling)_  
 
-_Supervising Animators:_ Hamilton Luske,
-
-Fred Moore, Vladimir Tytla, Norman Ferguson
-
-_Animators:_ Frank Thomas, Les Clark, Dick Lundy, Fred Spencer, Art Babbitt, Bill Roberts, Eric Larson, Bernard Garbutt, Milton Kahl, Grim Natwick,
-
-Robert Stokes, Jack Campbell, James Algar, Marvin Woodward, Al Eugster, James Culhane,
-
-Cy Young, Stan Quackenbush, Joshua Meador, Ward Kimball, Ugo D’Orsi, Woolie Reitherman, George Rowley, Robert Martsch
-
-_Character Designers:_ Albert Hurter, Joe Grant
-
-_Backgrounds:_ Samuel Armstrong, Mique Nelson, Phil Dike, Merle Cox, Ray Lockrem, Claude Coats, Maurice Noble
-
-_Art Directors:_ Charles Philippi, Tom Codrick,
-
-Hugh Hennesy, Gustaf Tenggren, Terrell Stapp, Kenneth Anderson, McLaren Stewart,
-
-Kendall O’Connor, Harold Miles, Hazel Sewell
-
-_Colour by:_ Technicolor
-
-_Music:_ Frank Churchill, Leigh Harline, Paul Smith
-
-_Sound System:_ RCA Sound System
-
-_uncredited_
-
-_Producer:_ Walt Disney
-
-_Assistant Directors:_ Hal Adelquist, Carl Fallberg, Mike Holobofff, Ford Beebe
-
-_Animators:_ John McManus, Hugh Fraser,
-
-Sandy Strother, Paul Busch, Marc Davis,
-
-Louie Schmitt, Cornett Wood, Campbell Grant, Amby Paliwoda, Riley Thompson
-
-_Animation Special Effects:_ Andy Engman
-
-_Layouts:_ Louis Debney
-
-_Movement Model for Snow White:_
-
-Marge Champion
-
-_Movement Model for Prince Charming:_
-
-Louis Hightower
-
-_Voice Cast – all uncredited:_
-
-Adriana Caselotti _(Snow White)_
-
-Harry Stockwell _(Prince Charming)_
-
-Lucille Laverne _(the Wicked Queen)_
-
-Moroni Olsen _(the Magic Mirror)_
-
-Billy Gilbert _(Sneezy)_
-
-Otis Harlan _(Happy)_
-
-Pinto Colvig _(Sleepy/Grumpy)_
-
-Scotty Mattraw _(Bashful)_
-
-Roy Atwell _(Doc)_
-
-Stuart Buchanan _(Humbert, the huntsman)_
-
-Marion Darlington _(bird sounds/warbling)_
-
-USA 1937© 84 mins
+USA 1937© 
+84 mins
 
 With thanks to The Walt Disney Company
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4NTI4NzZdfQ==
+eyJoaXN0b3J5IjpbLTE1MTg1MTg5ODZdfQ==
 -->
