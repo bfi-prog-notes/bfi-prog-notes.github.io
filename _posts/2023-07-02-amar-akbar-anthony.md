@@ -22,15 +22,11 @@ to the blessings of Saint Sai Baba’s idol, whose temple she accidentally stumb
 
 Desai’s films are replete with miracles and frequently involve lapses in logic. Bachchan, who has worked with the filmmaker on eight films, once spoke about how Desai would ask his actors to not prepare for roles. ‘We were not allowed to ask him questions. His stock reply used to be, “This is not a  
 Satyajit Ray film. You do because I tell you.”’ In Desai’s wonderland, anything was possible – as long as it was entertaining. The man himself said: ‘There  
-are a lot of problems on this earth, like where the next meal is coming from… The person who comes to the movies should be happy to see whatever  
-he’s seeing.’
+are a lot of problems on this earth, like where the next meal is coming from… The person who comes to the movies should be happy to see whatever  he’s seeing.’  
+**Arun A.K., bfi.org.uk, 27 June 2023**
+<br><br>
 
-Arun A.K., bfi.org.uk, 27 June 2023
-
-<![endif]-->
-
-**AMAR AKBAR ANTHONY**
-
+**AMAR AKBAR ANTHONY**  
 _Director_: Manmohan Desai  
 _Production Company_: M.K.D. Films  
 _Executive Producer_: Subhash Desai  
@@ -48,15 +44,12 @@ _Art Director_: A. Rangraj
 _Make-up_: Govind Pawar  
 _Music_: Laxmikant-Pyarelal  
 _Lyricist_: Anand Bakshi  
-_Playback Singers_: Lata Mangeshkar,  
-Mohammed Rafi, Kishore Kumar,  
-Mahendra Kapoor, Shailendra Singh, Mukesh  
+_Playback Singers_: Lata Mangeshkar,  Mohammed Rafi, Kishore Kumar, Mahendra Kapoor, Shailendra Singh, Mukesh  
 _Song Recording_: D.O. Bhansali  
 _Dance Director_: Kamal  
 _Action_: Ravi Khanna
 
-_Cast:_
-
+**Cast**  
 Vinod Khanna _(Amar)_  
 Rishi Kapoor _(Akbar)_  
 Amitabh Bachchan _(Anthony Gonsalves)_  
@@ -83,11 +76,11 @@ Master Ravi
 Master Tito  
 Baby Sabina
 
-India 1977
-
-184 mins
+India 1977  
+184 mins<br>
+<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDk2OTY2NTZdfQ==
+eyJoaXN0b3J5IjpbLTkxNTQ0MTM2MV19
 -->
