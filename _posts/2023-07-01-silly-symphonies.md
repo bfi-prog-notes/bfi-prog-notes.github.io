@@ -49,45 +49,36 @@ USA 1934
 **THE GODDESS OF SPRING**  
 _Director:_ Wilfred Jackson  
 USA 1934  
-10 mins
+10 mins  
 
-**The Tortoise and the Hare**
+**THE TORTOISE AND THE HARE**  
+_Director:_ Wilfred Jackson  
+USA 1935  
+10 mins  
 
-_Director:_ Wilfred Jackson
+**ELMER ELEPHANT**  
+_Director:_ Wilfred Jackson  
+USA 1936  
+8 mins  
 
-USA 1935
+**THREE BLIND MOUSEKETEERS**  
+_Director:_ David Hand  
+USA 1936  
+9 mins  
 
-10 mins
+**THE OLD MILL**  
+_Director:_ Wilfred Jackson  
+USA 1937  
+9 mins  
 
-**Elmer Elephant**
+**THE UGLY DUCKLING**  
+_Directors:_ Jack Cutting, Clyde Geronimi  
+USA 1939  
+9 mins  
 
-_Director:_ Wilfred Jackson
+Total running time 84 mins  
 
-USA 1936
-
-8 mins
-
-**Three Blind Mouseketeers**
-
-_Director:_ David Hand
-
-USA 1936
-
-9 mins
-
-**The Old Mill**
-_Director:_ Wilfred Jackson
-USA 1937
-9 mins
-
-**The Ugly Duckling**
-_Directors:_ Jack Cutting, Clyde Geronimi
-USA 1939
-9 mins
-
-Total running time 84 mins
-
-With thanks to The Walt Disney Company
+With thanks to The Walt Disney Company  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1Mjg5NzAzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE1NDk5ODM1NzEsNzMwOTk4MTE2XX0=
 -->
