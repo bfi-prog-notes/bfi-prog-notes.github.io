@@ -4,12 +4,11 @@ title: Disney's Silly Symphonies
 published: true
 date: 2023-07-02
 readtime: true
-categories: [' **MAKING MAGIC<br> 100 YEARS OF DISNEY**]
+categories: [**MAKING MAGIC<br> 100 YEARS OF DISNEY**]
 tags: [Musical, Comedy, Animation]
-metadata: 'India 1977, 184 mins<br> Director: Manmohan Desai'
-pdf: '2023-07-02-amar-akbar-anthony.pdf'
+metadata: 
+pdf: '2023-07-02-silly-symphonies.pdf'
 ---
-
 
 Carl Stalling, a musician whom Walt Disney had known in Kansas City, and who came to Hollywood in 1928 to become the studio’s first official music director, reportedly became involved in heated discussions with Disney over the limitations imposed on his scoring by his employer’s insistence on giving the animation pre-eminence over the music in the first Mickey Mouse shorts. As a result of these altercations and at Stalling’s suggestion, a second series of shorts was conceived. In a _Funny World_ interview, Stalling reminisced about the birth of the Sillys: ‘After two or three of the Mickeys had been completed, Walt talked with me about getting started on the musical series that I had in mind. At first he thought I meant illustrated songs, but when I told him that I was thinking of inanimate objects like skeletons, trees, flowers, etc., coming to life and dancing and doing assorted actions fitted to music more or less in a humorous and rhythmic mood, he became very interested. Concerning a name for the series, I suggested not using the words ‘music’ or ‘musical’, as they sounded too commonplace, but instead using ‘symphony’ together with a humorous word. At the next gag meeting – I don’t know who suggested it – Walt asked me, “Carl, how would ‘Silly Symphony’ sound to you?” I said “Perfect!” I then suggested the initial subject, _Skeleton Dance_, because ever since I was a kid, I had wanted to see real skeletons dancing.’
 
@@ -150,6 +149,28 @@ Sun 23 Jul 12:50; Sat 29 Jul 16:00
 Sun 23 Jul 15:30  
 **Pocahontas + Lava**  
 Sun 23 Jul 15:40; Fri 28 Jul 14:20; Sat 29 Jul 20:40  
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjczOTg5Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTg5NTQ2Nzk2LDczMDk5ODExNl19
 -->
