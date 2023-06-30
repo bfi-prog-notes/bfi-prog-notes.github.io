@@ -2,9 +2,8 @@
 
 <![endif]-->
 
-Disney turned to the Brothers Grimm for its first animated feature. It’s the classic fairy-tale of a Princess who runs away from her vain and wicked stepmother, deep into a forest where she encounters seven eccentric dwarfs. ‘Mirror, mirror, on the wall, who is the fairest one of all?’ A true musical classic, Disney staked everything he owned on the project. Despite industry expectations that it would fail, the film became a global hit and forever changed the medium.
-
-bfi.org.uk
+Disney turned to the Brothers Grimm for its first animated feature. It’s the classic fairy-tale of a Princess who runs away from her vain and wicked stepmother, deep into a forest where she encounters seven eccentric dwarfs. ‘Mirror, mirror, on the wall, who is the fairest one of all?’ A true musical classic, Disney staked everything he owned on the project. Despite industry expectations that it would fail, the film became a global hit and forever changed the medium.  
+**bfi.org.uk**
 
 Disney’s _Snow White_ starts with a castle on the hill, foreshadowing _Citizen Kane_’s Xanadu. In the latter film, we pass through a window to find a dying man dropping a snowglobe to smash on the floor. But Walt, too, had to show his fantasy world’s fragility. In _Snow White_’s opening minutes, he presents his sweet princess in a typical cartoon situation, comforting a baby bird. Behind her, a huntsman approaches, face set and eyes fixed. His arm comes up, holding a knife.
 
@@ -22,6 +21,7 @@ _Snow_ _White_’s legend is festooned by tales of Walt’s performances of the 
 
 For today’s audiences, the great mistake may be the heroine’s relentlessly winsome cuteness in the first twenty minutes, when she and the animals must carry the action before the Dwarfs appear. But for animators and critics, the debate – as heated now as it was in 1937 – swirls round _Snow_ _White’_s pollution of cartoon with live-action. The film is a fairy-tale, but with realistic textures and illusory third dimensions. When characters proved hard to animate, Disney filmed actors as stilted motion references, the live-action footage guiding the artists. It’s plainest with the affectlessly traced Prince Charming, who takes Snow White to his cloud-castle at the end. It’s as if they’re transcending lowly cartoon business, like Dopey chasing a soap bar, or Grumpy’s halting, thready smile as he stomps away from Snow White’s kiss.  
 **Andrew Osmond, _100 Animated Feature Films_ (BFI/Palgrave Macmillan, 2010)**  
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjM5NTA2MV19
+eyJoaXN0b3J5IjpbLTEzMjM0OTAzMzddfQ==
 -->
