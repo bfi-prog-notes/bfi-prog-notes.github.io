@@ -31,35 +31,24 @@ _Director:_ Walt Disney
 USA 1929  
 5 mins  
 
-**THE PIED PIPER**
-_Director_ Wilfred Jackson
+**THE PIED PIPER**  
+_Director_ Wilfred Jackson  
+USA 1933  
+8 mins  
 
-USA 1933
+**THE GRASSHOPPER AND THE ANTS**  
+Director Wilfred Jackson  
+USA 1934  
+8 mins  
 
-8 mins
+**THE WISE LITTLE HEN**  
+_Director:_ Wilfred Jackson  
+USA 1934  
+8 mins  
 
-**The Grasshopper and the Ants**
-
-Director Wilfred Jackson
-
-USA 1934
-
-8 mins
-
-**The Wise Little Hen**
-
-_Director:_ Wilfred Jackson
-
-USA 1934
-
-8 mins
-
-**The Goddess of Spring**
-
-_Director:_ Wilfred Jackson
-
-USA 1934
-
+**THE GODDESS OF SPRING**  
+_Director:_ Wilfred Jackson  
+USA 1934  
 10 mins
 
 **The Tortoise and the Hare**
@@ -100,5 +89,5 @@ Total running time 84 mins
 
 With thanks to The Walt Disney Company
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3MTI2NTY5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNDM1Mjg5NzAzLDczMDk5ODExNl19
 -->
