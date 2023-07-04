@@ -24,32 +24,29 @@ A series of political upheavals intervened before the next phase of Chahine’s 
 <br>
 <![endif]-->
 
-**My One and Only Love aka You Are My Love**
+**MY ONE AND ONLY LOVE aka YOU ARE MY LOVE**
 
-**(Enta Habibi)**
-
+**(ENTA HABIBI)**
 _Director:_ Youssef Chahine  
 _Production Company:_ Farid El Atrache  
 _Screenplay and Dialogue:_ Abu el-Seoul el-Ibiari  
 _Director of Photography:_ Ahmad Khorsheed  
 _Editors:_ Said al-Shaykh, Hussain Afifi  
 _Costumes:_ Fouzia Higazi  
-_Music:_ Farid El Atrache
+_Music:_ Farid El Atrache  
 
-_Cast_
-
+**Cast**
 Farid El Atrache  
 Adel Salam Nabulsi  
 Shadia  
 Hind Rostom  
 Serag Mounir  
-Mimi Chakib
+Mimi Chakib  
 
-Egypt 1957
+Egypt 1957  
+109 mins  
 
-109 mins
-
-Restored by Misr International Films
+Restored by Misr International Films  
 
 **DRAMA AND DESIRE: THE FILMS OF YOUSSEF CHAHINE**  
 **Daddy Amin aka Father Amin (Baba Amin)**  
@@ -66,33 +63,33 @@ Mon 3 Jul 20:20 + intro by season curator Elhum Shakerifar; Sat 15 Jul 12:30
 Tue 4 Jul 20:40; Sun 16 Jul 12:50  
 **Cairo Station (Bab El Hadid)**  
 Fri 7 Jul 18:00; Sat 29 Jul 15:00  
-**Dawn of a New Day (Fagr Yom Guedid)**
-Sat 8 Jul 15:30; Wed 19 Jul 20:25
-**Saladin aka Saladin the Victorious aka Saladin and the Great Crusades (Al-Nasser Salah Al-Din)**
-Sun 9 Jul 14:30; Sat 29 Jul 17:00
-**The Land (El Ard)**
-Sun 9 Jul 18:00; Thu 26 Jul 18:00 + intro by filmmaker May Abdalla
-**The Sparrow (Al Asfour)**
-Mon 10 Jul 18:15 + intro by poet and essayist Momtaza Mehri; Thu 20 Jul 20:50
-**Return of the Prodigal Son (Awdet Ell Ibn El Dal)**
-Fri 14 Jul 18:00; Sat 22 Jul 20:20 + intro by novelist Ahdaf Soueif
-**Alexandria... Why? (Iskindereya Leh)**
-Sun 16 Jul 15:10; Sat 22 Jul 11:30
-**An Egyptian Story (Hadouta Masriya)**
-Sun 16 Jul 18:15; Sat 22 Jul 14:40
-**The Sixth Day (Al Yom El Sades)**
-Tue 18 Jul 20:30; Mon 24 Jul 18:00
-**Alexandria Again and Forever (Iskindereya Kaman we Kaman)**
-Sun 23 Jul 18:10 + intro; Fri 28 Jul 18:15
-**The Emigrant (Al Mohager)**
-Mon 24 Jul 20:20; Sun 30 Jul 18:10
-**The Other (Al Akhar)**
-Wed 26 Jul 18:00; Mon 31 Jul 20:30
-**Destiny (Al Massir)**
-Thu 27 Jul 20:20; Mon 31 Jul 18:05
+**Dawn of a New Day (Fagr Yom Guedid)**  
+Sat 8 Jul 15:30; Wed 19 Jul 20:25  
+**Saladin aka Saladin the Victorious aka Saladin and the Great Crusades (Al-Nasser Salah Al-Din)**  
+Sun 9 Jul 14:30; Sat 29 Jul 17:00  
+**The Land (El Ard)**  
+Sun 9 Jul 18:00; Thu 26 Jul 18:00 + intro by filmmaker May Abdalla  
+**The Sparrow (Al Asfour)**  
+Mon 10 Jul 18:15 + intro by poet and essayist Momtaza Mehri; Thu 20 Jul 20:50  
+**Return of the Prodigal Son (Awdet Ell Ibn El Dal)**  
+Fri 14 Jul 18:00; Sat 22 Jul 20:20 + intro by novelist Ahdaf Soueif  
+**Alexandria... Why? (Iskindereya Leh)**  
+Sun 16 Jul 15:10; Sat 22 Jul 11:30  
+**An Egyptian Story (Hadouta Masriya)**  
+Sun 16 Jul 18:15; Sat 22 Jul 14:40  
+**The Sixth Day (Al Yom El Sades)**  
+Tue 18 Jul 20:30; Mon 24 Jul 18:00  
+**Alexandria Again and Forever (Iskindereya Kaman we Kaman)**  
+Sun 23 Jul 18:10 + intro; Fri 28 Jul 18:15  
+**The Emigrant (Al Mohager)**  
+Mon 24 Jul 20:20; Sun 30 Jul 18:10  
+**The Other (Al Akhar)**  
+Wed 26 Jul 18:00; Mon 31 Jul 20:30  
+**Destiny (Al Massir)**  
+Thu 27 Jul 20:20; Mon 31 Jul 18:05  
 
 **With thanks to**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDU1OTM3MCw2NzM4ODI3ODYsMTkwOD
+eyJoaXN0b3J5IjpbMTM3MTE3NjQ1MCw2NzM4ODI3ODYsMTkwOD
 Q0MzY3M119
 -->
