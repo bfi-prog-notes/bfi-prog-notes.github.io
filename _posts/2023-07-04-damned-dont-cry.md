@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Damned Don't Cry
+published: true
+date: 2023-07-04
+readtime: true
+categories: ['PREVIEW']
+tags: [Drama]
+metadata: 'France-Belgium-Morocco-UK 2022, 110 mins<br> Director: Fyzal Boulifa'
+pdf: '2023-07-04-damned-dont-cry.pdf'
+---
 
 _+ Q&A with director Fyzal Boulifa_
 
@@ -52,6 +63,59 @@ France-Belgium-Morocco-UK 2022©
 
 Courtesy of Curzon
 <br><br>
+
+**EVENTS &  REGULAR PROGRAMME**<br>
+**Film Wallahs: Restoration UK Premiere:  Amar Akbar Anthony**<br>
+Sun 2 Jul 15:00<br>
+**Preview: The Damned Don’t Cry (Les damnés ne pleurent pas) + Q&A with director Fyzal Boulifa**<br>
+Tue 4 Jul 18:10<br>
+**Woman with a Movie Camera: The Apple (Sib)  + intro by Programmer Jelena Milosavljevic**<br>
+Thu 6 Jul 18:10<br>
+**Projecting the Archive: Son of a Stranger  + intro by Josephine Botting, BFI Curator**<br>
+Tue 11 Jul 18:15<br>
+**Mark Kermode Live in 3D at the BFI**<br>
+Mon 17 Jul 18:30<br>
+**Experimenta: Nico Night Part 1: Solitude +  Nina Danino in conversation with BFI National Archive curator William Fowler + Key**<br>
+Wed 19 Jul 18:15<br>
+**Experimenta: Nico Night Part 2: The Inner Scar (AKA La Cicatrice Intérieure) + intro**<br>
+Wed 19 Jul 20:30<br>
+**African Odysseys: Passing Through  + intro & Q&A**<br>
+Sat 22 Jul 14:00<br>
+**African Odysseys: Wattstax + intro**<br>
+Sat 22 Jul 18:10<br>
+**Seniors’ Free Matinee: Summertime  (aka Summer Madness) + intro**<br>
+Mon 24 Jul 14:00<br>
+**Art in the Making: Sickert's London + intro by historian, writer and artist** **Kate Aspinall** **+ Walter Sickert: Painter of the Third Floor Back**<br>
+Tue 25 Jul 18:10<br>
+**Silent Cinema: The Signal Tower  + intro by film historian Kevin Brownlow**<br>
+Sun 30 Jul 15:40<br>
+**Relaxed Screening:  Fantasia + intro and discussion**<br>
+Mon 31 Jul 18:00<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNTQ0MDEwMTUsMjAxNDQxODI0MF19
 -->
