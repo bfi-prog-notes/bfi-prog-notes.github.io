@@ -108,6 +108,7 @@ The festival programme includes further screenings related to this season: **saf
 Ciné Lumière will present a selection of Chahine titles throughout the summer:  
 **institut-francais.org.uk**
 <br>
+
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
 *Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
@@ -131,6 +132,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTkxMjQwOSwxMzgyNTQ0ODQ3LDY3Mz
-g4Mjc4NiwxOTA4NDQzNjczXX0=
+eyJoaXN0b3J5IjpbLTg0MTIyNDA4NSwxNTk5OTEyNDA5LDEzOD
+I1NDQ4NDcsNjczODgyNzg2LDE5MDg0NDM2NzNdfQ==
 -->
