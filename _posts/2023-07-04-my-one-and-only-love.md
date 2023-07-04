@@ -1,6 +1,14 @@
-
-
-
+---
+layout: post
+title: Amar Akbar Anthony
+published: true
+date: 2023-07-02
+readtime: true
+categories: ['FILM WALLAHS<br>RESTORATION UK PREMIERE']
+tags: [Musical, Drama]
+metadata: 'India 1977, 184 mins<br> Director: Manmohan Desai'
+pdf: '2023-07-02-amar-akbar-anthony.pdf'
+---
 
 Legendary singer Farid El-Atrash stars alongside screen icon Shadia in this visual feast, which finds the pair playing characters forced into a marriage neither of them wants, solely to attain an inheritance. Combining comedy with sumptuous musical numbers and subtle class commentary, Chahine ponders how marriage can be as illusory as a theatre show, but love always finds a way to win out.  
 **bfi.org.uk**
@@ -22,11 +30,8 @@ During his first seven years, however, Chahine also became known as the ‘wreck
 A series of political upheavals intervened before the next phase of Chahine’s career. Their relevance to Chahine was more indirect than direct, but nevertheless they help reveal his political growth and the psychological condition of his potential audiences. On the positive side, Nasser was able to negotiate a peaceful evacuation of the British troops from Egypt, but after the United States reneged on its promise to finance the Aswan Dam, Nasser retaliated by nationalising the Suez Canal. The crisis escalated into the British-French-Israeli invasion of the Suez Canal zone in 1956. After the shooting had stopped, the Canal remained in Egyptian hands and Nasser was hailed as a hero in much of the Arab world. Syria invited Egypt to form a union with her. Though reluctant, Nasser agreed to form a republic with him as its president, and many thought of the newly formed United Arab Republic as a harbinger to the Arab unity they desired.  
 **Ibrahim Fawal, _BFI World Directors: Youssef Chahine_ (BFI Publishing, 2002) Reproduced by kind permission of Bloomsbury Publishing. ©Ibrahim Fawal**  
 <br>
-<![endif]-->
 
-**MY ONE AND ONLY LOVE aka YOU ARE MY LOVE**
-
-**(ENTA HABIBI)**
+**MY ONE AND ONLY LOVE aka YOU ARE MY LOVE (ENTA HABIBI)**
 _Director:_ Youssef Chahine  
 _Production Company:_ Farid El Atrache  
 _Screenplay and Dialogue:_ Abu el-Seoul el-Ibiari  
@@ -89,7 +94,23 @@ Wed 26 Jul 18:00; Mon 31 Jul 20:30
 Thu 27 Jul 20:20; Mon 31 Jul 18:05  
 
 **With thanks to**
+
+
+
+
+Misr International Films (Ahmed Sobky)  
+<br>
+
+**In cultural partnership with**
+
+
+
+SAFAR Film Festival is the UK’s largest festival of Arab cinema 29 June – 9 July.  
+The festival programme includes further screenings related to this season: **safarfilmfestival.co.uk**
+
+Ciné Lumière will present a selection of Chahine titles throughout the summer:  
+**institut-francais.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTE3NjQ1MCw2NzM4ODI3ODYsMTkwOD
+eyJoaXN0b3J5IjpbLTY5MjU5MTUyMCw2NzM4ODI3ODYsMTkwOD
 Q0MzY3M119
 -->
