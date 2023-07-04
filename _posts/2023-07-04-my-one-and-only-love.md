@@ -20,7 +20,7 @@ This last characteristic became particularly apparent in some of the musicals he
 During his first seven years, however, Chahine also became known as the ‘wrecker of producers.’ He earned the epithet after _Devil in the Desert_ (1954), also starring Omar Sharif. While the film was Chahine’s first major box-office failure, the label itself was really placed on its young director too early in his career.
 
 A series of political upheavals intervened before the next phase of Chahine’s career. Their relevance to Chahine was more indirect than direct, but nevertheless they help reveal his political growth and the psychological condition of his potential audiences. On the positive side, Nasser was able to negotiate a peaceful evacuation of the British troops from Egypt, but after the United States reneged on its promise to finance the Aswan Dam, Nasser retaliated by nationalising the Suez Canal. The crisis escalated into the British-French-Israeli invasion of the Suez Canal zone in 1956. After the shooting had stopped, the Canal remained in Egyptian hands and Nasser was hailed as a hero in much of the Arab world. Syria invited Egypt to form a union with her. Though reluctant, Nasser agreed to form a republic with him as its president, and many thought of the newly formed United Arab Republic as a harbinger to the Arab unity they desired.  
-**Ibrahim Fawal, _BFI World Directors: Youssef Chahine_ (BFI Publishing, 2002)**
+**Ibrahim Fawal, _BFI World Directors: Youssef Chahine_ (BFI Publishing, 2002) Reproduced by kind permission of Bloomsbury Publishing. ©Ibrahim Fawal**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODQ0MzY3M119
+eyJoaXN0b3J5IjpbNjczODgyNzg2LDE5MDg0NDM2NzNdfQ==
 -->
