@@ -31,7 +31,7 @@ A series of political upheavals intervened before the next phase of Chahine’s 
 **Ibrahim Fawal, _BFI World Directors: Youssef Chahine_ (BFI Publishing, 2002) Reproduced by kind permission of Bloomsbury Publishing. ©Ibrahim Fawal**  
 <br>
 
-**MY ONE AND ONLY LOVE aka YOU ARE MY LOVE (ENTA HABIBI)**
+**MY ONE AND ONLY LOVE aka YOU ARE MY LOVE (ENTA HABIBI)**  
 _Director:_ Youssef Chahine  
 _Production Company:_ Farid El Atrache  
 _Screenplay and Dialogue:_ Abu el-Seoul el-Ibiari  
@@ -40,7 +40,7 @@ _Editors:_ Said al-Shaykh, Hussain Afifi
 _Costumes:_ Fouzia Higazi  
 _Music:_ Farid El Atrache  
 
-**Cast**
+**Cast**  
 Farid El Atrache  
 Adel Salam Nabulsi  
 Shadia  
@@ -93,12 +93,12 @@ Wed 26 Jul 18:00; Mon 31 Jul 20:30
 **Destiny (Al Massir)**  
 Thu 27 Jul 20:20; Mon 31 Jul 18:05  
 
-**With thanks to**
+**With thanks to**  
 <img style="float: left;" src="/img/MISR.png" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 Misr International Films (Ahmed Sobky)  
 <br>
 
-**In cultural partnership with**
+**In cultural partnership with**  
 <img style="float: left;" src="/img/SAFAR.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 <img style="float: left;" src="/img/IF.png" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
