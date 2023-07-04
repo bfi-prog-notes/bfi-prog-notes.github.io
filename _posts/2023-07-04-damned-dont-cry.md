@@ -16,8 +16,7 @@ Fyzal Boulifa’s film borrows its title from a lesser-known entry in the filmog
 
 Fyzal Boulifa: ‘Joan Crawford plays a housewife who lives in a poor town in America. Her young son is killed, and she decides she doesn’t like anything about her life, doesn’t like her husband or her family, and she decides to leave, and recreates herself in the city. She becomes a shop girl, and a model, then a prostitute, a gangster, a society lady – she goes through all these different metamorphoses… There’s something in that title that I knew was at the core of my film: it was about survival. The title is a very beautiful expression of what it means to survive, and of the nature of the characters. I didn’t want them to be victims, despite everything. So it’s a kind of statement of intent. It’s fashionable in screenwriting to take the approach that we have to like and relate to a character, and therefore they have to be a victim, and that’s the very thing I didn’t want to do.
 
-The look of the film came from the tension between working with non-professionals, and these influences from older melodrama. I wanted that richness of image. That was about giving the characters some dignity – not insisting through the image on squalor or hardship. I was working with Caroline Champetier, who’s a very, very established director of photography [_Ponette_, 1996; _Of Gods and Men_, 2010; _Holy Motors_, 2012; _Annette_, 2021], and a lot of that melodramatic, almost Technicolor vibe came from the way that Caroline treated the colours, which has a real richness, and also a kitsch element.’
-
+The look of the film came from the tension between working with non-professionals, and these influences from older melodrama. I wanted that richness of image. That was about giving the characters some dignity – not insisting through the image on squalor or hardship. I was working with Caroline Champetier, who’s a very, very established director of photography [_Ponette_, 1996; _Of Gods and Men_, 2010; _Holy Motors_, 2012; _Annette_, 2021], and a lot of that melodramatic, almost Technicolor vibe came from the way that Caroline treated the colours, which has a real richness, and also a kitsch element.’  
 Interview by Hannah McGill, _Sight and Sound_, Summer 2023
 
 <![endif]-->
@@ -61,5 +60,5 @@ France-Belgium-Morocco-UK 2022©
 
 Courtesy of Curzon
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDQxODI0MF19
+eyJoaXN0b3J5IjpbLTEyOTgwNDk5MDIsMjAxNDQxODI0MF19
 -->
