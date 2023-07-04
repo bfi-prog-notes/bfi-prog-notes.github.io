@@ -5,9 +5,9 @@ published: true
 date: 2023-07-04
 readtime: true
 categories: ['DRAMA AND DESIRE<br> THE FILMS OF YOUSSEF CHAHINE']
-tags: [Drama]
+tags: [Comedy, Musical]
 metadata: 'Egypt 1957, 109 mins<br> Director: Youssef Chahine'
-pdf: '2023-07-04-amar-akbar-anthony.pdf'
+pdf: '2023-07-04-my-one-and-only-love.pdf'
 ---
 
 Legendary singer Farid El-Atrash stars alongside screen icon Shadia in this visual feast, which finds the pair playing characters forced into a marriage neither of them wants, solely to attain an inheritance. Combining comedy with sumptuous musical numbers and subtle class commentary, Chahine ponders how marriage can be as illusory as a theatre show, but love always finds a way to win out.  
@@ -111,6 +111,6 @@ The festival programme includes further screenings related to this season: **saf
 Ciné Lumière will present a selection of Chahine titles throughout the summer:  
 **institut-francais.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTk2NDEyLDY3Mzg4Mjc4NiwxOTA4ND
-QzNjczXX0=
+eyJoaXN0b3J5IjpbMTkwNDE1NzA0MCw2NzM4ODI3ODYsMTkwOD
+Q0MzY3M119
 -->
