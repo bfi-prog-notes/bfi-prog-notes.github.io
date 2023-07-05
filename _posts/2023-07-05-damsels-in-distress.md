@@ -33,167 +33,140 @@ Violet is the indomitable group leader – though later shown somewhat dominated
 <br><br>
 
 **DAMSELS IN DISTRESS**<br>
-
 _Directed by_: Whit Stillman<br>
-
 ©: Damsels Productions LLC<br>
-
 _Production Companies_: Steeplechase, Analytic<br>
-
 _Filmed with the support of_: The New York State Governor’s Office for Motion Picture & Television Development<br>
-
 _Presented by:_ Westerly Films<br>
-
-_Produced by_: Whit Stillman, Martin Shafer,
-
-Liz Glotzer<br>
-
+_Produced by_: Whit Stillman, Martin Shafer, Liz Glotzer<br>
 _Co-producer_: Charlie Dibe<br>
-
 _Line Producer_: Jacob Jaffke<br>
+_Consulting Producers_: Cecilia Kate Roque, Alicia Van Couvering<br>
+_Production Supervisor_: Joanna Lara<br>
+_Production Co-ordinator_: Stephanie Blackwood<br>
+_Locations_: Christopher A. Menges<br>
+_Post Supervisor_: Douglas O’Connor<br>
+_1st A.D._: Curtis A. Smith Jr<br>
+_2nd A.D._: Melinda Ziyadat<br>
+_Script [Supervisor]_: Dustin Bricker<br>
+_Casting by_: Kerry Barden, Paul Schnee, Amy McIntyre Britt, Anya Colloff<br>
+_Written by_: Whit Stillman<br>
+_Cinematography by_: Doug Emmett<br>
+_Edited by_: Andrew Hafitz<br>
+_Production Design_: Elizabeth J. Jones<br>
+_Art Direction_: Brian Goodwin<br>
 
-_Consulting Producers_: Cecilia Kate Roque,
+_Set Decorator_: Emmanuelle Hoessly<br>
 
-Alicia Van Couvering
+_Costumes_: Ciera Wells<br>
 
-_Production Supervisor_: Joanna Lara
+_Special Fashions_: Krista Blomberg<br>
 
-_Production Co-ordinator_: Stephanie Blackwood
+_Wardrobe_: Megan Sanders<br>
 
-_Locations_: Christopher A. Menges
+_Make-up_: Anouck Sullivan<br>
 
-_Post Supervisor_: Douglas O’Connor
+_Hair_: Satoko Ichinose<br>
 
-_1st A.D._: Curtis A. Smith Jr
+_Title Design_: Teddy Blanks, Chips<br>
 
-_2nd A.D._: Melinda Ziyadat
-
-_Script [Supervisor]_: Dustin Bricker
-
-_Casting by_: Kerry Barden, Paul Schnee,
-
-Amy McIntyre Britt, Anya Colloff
-
-_Written by_: Whit Stillman
-
-_Cinematography by_: Doug Emmett
-
-_Edited by_: Andrew Hafitz
-
-_Production Design_: Elizabeth J. Jones
-
-_Art Direction_: Brian Goodwin
-
-_Set Decorator_: Emmanuelle Hoessly
-
-_Costumes_: Ciera Wells
-
-_Special Fashions_: Krista Blomberg
-
-_Wardrobe_: Megan Sanders
-
-_Make-up_: Anouck Sullivan
-
-_Hair_: Satoko Ichinose
-
-_Title Design_: Teddy Blanks, Chips
-
-_Music by_: Mark Suozzo, Adam Schlensinger
+_Music by_: Mark Suozzo, Adam Schlensinger<br>
 
 _Orchestrations_: Mark Suozzo, Irwin Fisch,  
-Michael Levine
+Michael Levine<br>
 
-_Music Supervisor_: Annie Pearlman
+_Music Supervisor_: Annie Pearlman<br>
 
 _Music Produced by_: Adam Schlesinger,
 
-Steven M. Gold
+Steven M. Gold<br>
 
-_Choreography_: Justin Cerne
+_Choreography_: Justin Cerne<br>
 
-_Sound_: Mikhail Sterkin
+_Sound_: Mikhail Sterkin<br>
 
-_Re-recording Mixer_: Tom Paul
+_Re-recording Mixer_: Tom Paul<br>
 
-_Supervising Sound & Music Editor_: Tom Paul
+_Supervising Sound & Music Editor_: Tom Paul<br>
 
-_Stunt Co-ordinator_: Anthony Vincent
+_Stunt Co-ordinator_: Anthony Vincent<br>
 
-_In grateful memory of Sam Chwat (1953-2011), dialect coach, for his charm, kindness and expertise_
+_In grateful memory of Sam Chwat (1953-2011), dialect coach, for his charm, kindness and expertise_<br>
 
-_Cast:_
+_Cast:_<br>
 
-_The Damsels_
+_The Damsels_<br>
 
-Greta Gerwig (_Violet Wister_)
+Greta Gerwig (_Violet Wister_)<br>
 
-Analeigh Tipton (_Lily_)
+Analeigh Tipton (_Lily_)<br>
 
-Megalyn Echikunwoke (_Rose_)
+Megalyn Echikunwoke (_Rose_)<br>
 
-Carrie MacLemore (_Heather_)
+Carrie MacLemore (_Heather_)<br>
 
-_Their Distress_
+_Their Distress_<br>
 
-Adam Brody (_‘Charlie Walker’, Fred Packenstacker_)
+Adam Brody (_‘Charlie Walker’, Fred Packenstacker_)<br>
 
-Hugo Becker (_Xavier_)
+Hugo Becker (_Xavier_)<br>
 
-Ryan Metcalf (_Frank_)
+Ryan Metcalf (_Frank_)<br>
 
-Billy Magnussen (_Thor_)
+Billy Magnussen (_Thor_)<br>
 
-Caitlin Fitzgerald (_Priss_)
+Caitlin Fitzgerald (_Priss_)<br>
 
-Aubrey Plaza (_Depressed Debbie_)
+Aubrey Plaza (_Depressed Debbie_)<br>
 
-Jermaine Crawford (_Jim Bose, ‘Jimbo’_)
+Jermaine Crawford (_Jim Bose, ‘Jimbo’_)<br>
 
-Zach Woods (_Rick DeWolfe_)
+Zach Woods (_Rick DeWolfe_)<br>
 
-Alia Shawkat (_Mad Madge_)
+Alia Shawkat (_Mad Madge_)<br>
 
-Meredith Hagner (_Alice_)
+Meredith Hagner (_Alice_)<br>
 
-Nick Blaemire (_‘Freak’ Astaire_)
+Nick Blaemire (_‘Freak’ Astaire_)<br>
 
-Aja Naomi King (_Positive Polly_)
+Aja Naomi King (_Positive Polly_)<br>
 
-Taylor Nichols (_Professor Black_)
+Taylor Nichols (_Professor Black_)<br>
 
-Carolyn Farina (_Carolina Antonucci_)
+Carolyn Farina (_Carolina Antonucci_)<br>
 
-Domenico D’Ippolito (_‘Complainer’ student_)
+Domenico D’Ippolito (_‘Complainer’ student_)<br>
 
-Joe Coots (_barman_)
+Joe Coots (_barman_)<br>
 
-Cortez Nance (_groundskeeper_)
+Cortez Nance (_groundskeeper_)<br>
 
-Jordanna Drazin (_Emily Tweeter_)
+Jordanna Drazin (_Emily Tweeter_)<br>
 
-Madison Cerniglia (_classmate 1_)
+Madison Cerniglia (_classmate 1_)<br>
 
-Veronica Mu (_classmate 2_)
+Veronica Mu (_classmate 2_)<br>
 
-Laila Drew (_young Rose_)
+Laila Drew (_young Rose_)<br>
 
-Shinnerrie Jackson (_Sharise_)
+Shinnerrie Jackson (_Sharise_)<br>
 
-Gerron Atkinson (_sincere highway worker_)
+Gerron Atkinson (_sincere highway worker_)<br>
 
-Jonnie Lewis Brown (_fresh highway worker_)
+Jonnie Lewis Brown (_fresh highway worker_)<br>
 
-Shawn Williams (_campus cop_)
+Shawn Williams (_campus cop_)<br>
 
-Doug Yasuda (_Professor Ryan_)
+Doug Yasuda (_Professor Ryan_)<br>
 
-Todd Bartels (_Charlie’s friend 1_)
+Todd Bartels (_Charlie’s friend 1_)<br>
 
-Edward J. Martin (_Charlie’s friend 2_)
+Edward J. Martin (_Charlie’s friend 2_)<br>
 
-USA 2011©
+USA 2011©<br>
 
-99 mins
+99 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExMzYwMDk2XX0=
+eyJoaXN0b3J5IjpbLTEwMzM3NzY0NDhdfQ==
 -->
