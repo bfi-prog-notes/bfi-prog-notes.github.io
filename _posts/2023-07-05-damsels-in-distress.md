@@ -55,118 +55,65 @@ _Cinematography by_: Doug Emmett<br>
 _Edited by_: Andrew Hafitz<br>
 _Production Design_: Elizabeth J. Jones<br>
 _Art Direction_: Brian Goodwin<br>
-
 _Set Decorator_: Emmanuelle Hoessly<br>
-
 _Costumes_: Ciera Wells<br>
-
 _Special Fashions_: Krista Blomberg<br>
-
 _Wardrobe_: Megan Sanders<br>
-
 _Make-up_: Anouck Sullivan<br>
-
 _Hair_: Satoko Ichinose<br>
-
 _Title Design_: Teddy Blanks, Chips<br>
-
 _Music by_: Mark Suozzo, Adam Schlensinger<br>
-
-_Orchestrations_: Mark Suozzo, Irwin Fisch,  
-Michael Levine<br>
-
+_Orchestrations_: Mark Suozzo, Irwin Fisch,  Michael Levine<br>
 _Music Supervisor_: Annie Pearlman<br>
-
-_Music Produced by_: Adam Schlesinger,
-
-Steven M. Gold<br>
-
+_Music Produced by_: Adam Schlesinger, Steven M. Gold<br>
 _Choreography_: Justin Cerne<br>
-
 _Sound_: Mikhail Sterkin<br>
-
 _Re-recording Mixer_: Tom Paul<br>
-
 _Supervising Sound & Music Editor_: Tom Paul<br>
-
 _Stunt Co-ordinator_: Anthony Vincent<br>
-
 _In grateful memory of Sam Chwat (1953-2011), dialect coach, for his charm, kindness and expertise_<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 _The Damsels_<br>
-
 Greta Gerwig (_Violet Wister_)<br>
-
 Analeigh Tipton (_Lily_)<br>
-
 Megalyn Echikunwoke (_Rose_)<br>
-
 Carrie MacLemore (_Heather_)<br>
 
 _Their Distress_<br>
-
 Adam Brody (_‘Charlie Walker’, Fred Packenstacker_)<br>
-
 Hugo Becker (_Xavier_)<br>
-
 Ryan Metcalf (_Frank_)<br>
-
 Billy Magnussen (_Thor_)<br>
 
 Caitlin Fitzgerald (_Priss_)<br>
-
 Aubrey Plaza (_Depressed Debbie_)<br>
-
 Jermaine Crawford (_Jim Bose, ‘Jimbo’_)<br>
-
 Zach Woods (_Rick DeWolfe_)<br>
-
 Alia Shawkat (_Mad Madge_)<br>
-
 Meredith Hagner (_Alice_)<br>
-
 Nick Blaemire (_‘Freak’ Astaire_)<br>
-
 Aja Naomi King (_Positive Polly_)<br>
-
 Taylor Nichols (_Professor Black_)<br>
-
 Carolyn Farina (_Carolina Antonucci_)<br>
-
 Domenico D’Ippolito (_‘Complainer’ student_)<br>
-
 Joe Coots (_barman_)<br>
-
 Cortez Nance (_groundskeeper_)<br>
-
 Jordanna Drazin (_Emily Tweeter_)<br>
-
 Madison Cerniglia (_classmate 1_)<br>
-
 Veronica Mu (_classmate 2_)<br>
-
 Laila Drew (_young Rose_)<br>
-
 Shinnerrie Jackson (_Sharise_)<br>
-
 Gerron Atkinson (_sincere highway worker_)<br>
-
 Jonnie Lewis Brown (_fresh highway worker_)<br>
-
 Shawn Williams (_campus cop_)<br>
-
 Doug Yasuda (_Professor Ryan_)<br>
-
 Todd Bartels (_Charlie’s friend 1_)<br>
-
 Edward J. Martin (_Charlie’s friend 2_)<br>
 
 USA 2011©<br>
-
 99 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzM3NzY0NDhdfQ==
+eyJoaXN0b3J5IjpbNzc1MTM2NTE4XX0=
 -->
