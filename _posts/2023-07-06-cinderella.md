@@ -6,8 +6,9 @@ date: 2023-07-06
 readtime: true
 categories: ['MAKING MAGIC<BR>100 YEARS OF DISNEY']
 tags: [Children, Animation, Musical]
-metadata: 'USA 1937, 84 mins<br> Supervising Director: David Hand'
-pdf: '2023-07-02-snow-white-and-the-seven-dwarfs.pdf'
+metadata: 'USA 1949, 75 mins<br> Directors: Wilfred Jackson, Hamilton Luske,
+Clyde Geronimi'
+pdf: '2023-07-06-cinderella.pdf'
 ---
 
 
@@ -79,5 +80,5 @@ USA 1949©
 
 With thanks to The Walt Disney Company  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI2MTU0M119
+eyJoaXN0b3J5IjpbMTg5MDYzMDY2Ml19
 -->
