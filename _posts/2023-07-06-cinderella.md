@@ -21,7 +21,54 @@ Sadly, her Prince is a stiff, and the film fatally stalls during their ball enco
 But _Cinderella_ is really the adventure of the mice Gus and Jaq, both voiced by sound effects legend Jimmy MacDonald, who provided Mickey’s falsetto after Walt. For me, nothing matches the greedy Gus’s efforts to carry one more piece of cheese from the barnyard; at last he successfully braces the morsel against his teeth and totters away, straight into the leering cat Lucifer. The monster’s golden moment is a game of Find the Lady, as Gus cowers under teacups. The cat picks up the right cup, puts it down, realises what he’s done, and pulls a happy-sappy pose of tongue-wagging, paw-waving delight, which flows perfectly from the dancing rhythm. The snag: the floor-level antics suck the human world down the mousehole.
 
 _Cinderella_, a lesser film than any of Disney’s early masterpieces, is still one of the best four or five cartoon features that the studio would make in the next forty years. (_Sleeping Beauty_ had treble _Cinderella_’s budget, and perhaps half its charisma, momentum and fun.) As an elegantly tamed _Snow White_, _Cinderella_’s cover-version takes you back to the original. What if _Snow White_’s true successors, such as _Pinocchio_ or _Fantasia_, had been as popular? Would Walt have stayed married to animation, not dallying with live-action and Mickey parks? Where could his dreams have led? It’s like asking where would today’s animation be had _The Simpsons_ flopped, or _Toy Story_.  
-**Extract from Andrew Osmond, _100 Animated Feature Films_ (BFI/Palgrave Macmillan, 2010) Reproduced by kind permission of Bloomsbury Publishing. ©Andrew Osmond**
+**Extract from Andrew Osmond, _100 Animated Feature Films_ (BFI/Palgrave Macmillan, 2010) Reproduced by kind permission of Bloomsbury Publishing. ©Andrew Osmond**  
+<br>
+
+**TRAILER HORN**  
+_Director:_ Jack Hannah
+USA 1950  
+6 mins  
+
+**CINDERELLA**  
+_Directors:_ Wilfred Jackson, Hamilton Luske,
+Clyde Geronimi  
+_©:_ Walt Disney Productions  
+_Production Company:_ Walt Disney Productions  
+_Presented by:_ Walt Disney  
+_Production Supervisor:_ Ben Sharpsteen  
+_Story:_ William Peed, Erdman Penner, Ted Sears, Winston Hibler, Homer Brightman, Harry Reeves, Kenneth Anderson, Joe Rinaldi  
+_From the original classic by:_ Charles Perrault  
+_Special Processes:_ Ub Iwerks  
+_Directing Animators:_ Eric Larson, Milt Kahl, Frank Thomas, John Lansberry, Wolfgang Reitherman, Ward Kimball, Ollie Johnston, Marc Davis, Les Clark, Norm Ferguson  
+_Character Animators:_ Don Lusk, Phil Duncan, Hugh Fraser, Hal King, Fred Moore, Harvey Toombs, Judge Whitaker, Cliff Nordberg, Marvin Woodward, Hal Ambro, George Nicholas, Ken O’Brien  
+_Effects Animator:_ George Rowley, Josh Meador, Jack Boyd  
+_Layout:_ Mac Stewart, A. Kendall O’Connor, Tom Codrick, Hugh Hennesy, Lance Nolley, Charles Philippi, Don Griffith, Thor Putnam  
+_Colour and Styling:_ Mary Blair, John Hench, Claude Coats, Don Da Gradi  
+_Backgrounds:_ Brice Mack, Art Riley, Ralph Hulett, Ray Huffine, Dick Anthony, Merle Cox, Thelma Witmer  
+_Film Editor:_ Donald Halliday  
+_Colour by:_ Technicolor  
+_Songs by:_ Mack David, Jerry Livingston, Al Hoffman  
+_Musical Direction:_ Oliver Wallace, Paul Smith  
+_Orchestration:_ Joseph Dubin  
+_Music Editor:_ Al Teeter  
+_Sound Director:_ C.O. Slyfield  
+_Sound Recording:_ Harold J. Steck, Robert O. Cook  
+_Sound System:_ RCA Sound System  
+_With the talents of:_  
+Ilene Woods _(voice of Cinderella)_  
+Helene Stanley _(model for Cinderella and Anastasia)_  
+Eleanor Audley _(voice of Lady Tremaine)_  
+Luis Van Rooten _(voice of King/Grand Duke)_  
+Verna Felton _(voice of Fairy Godmother)_  
+Don Barclay _(voice of doorman)_  
+Claire Du Brey _(model for Fairy Godmother)_  
+Rhoda Williams _(voice of Drizella)_  
+James MacDonald _(voice of Bruno/Gus/Jaques)_  
+
+USA 1949©  
+75 mins  
+
+With thanks to The Walt Disney Company  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3Njg2NDI3Nl19
+eyJoaXN0b3J5IjpbLTQzNDAzODMxXX0=
 -->
