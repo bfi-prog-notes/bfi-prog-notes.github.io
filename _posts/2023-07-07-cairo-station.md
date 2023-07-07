@@ -1,12 +1,19 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Cairo Station
+published: true
+date: 2023-07-07
+readtime: true
+categories: ['DRAMA AND DESIRE<br> THE FILMS OF YOUSSEF CHAHINE']
+tags: [Comedy, Musical]
+metadata: 'Egypt 1957, 109 mins<br> Director: Youssef Chahine'
+pdf: '2023-07-04-my-one-and-only-love.pdf'
+---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
-Considered to be Chahine’s masterpiece, _Cairo Station_ was so sharply on point that the film was reviled by many on initial release. Its dark genius lies in the mood it creates, while remaining keenly attuned to the complexity of human emotion and desire. The film is also charged by undercurrents of toxic masculinity, particularly through Chahine’s portrayal of Kenawi.
-
-bfi.org.uk
+Considered to be Chahine’s masterpiece, _Cairo Station_ was so sharply on point that the film was reviled by many on initial release. Its dark genius lies in the mood it creates, while remaining keenly attuned to the complexity of human emotion and desire. The film is also charged by undercurrents of toxic masculinity, particularly through Chahine’s portrayal of Kenawi.  
+**bfi.org.uk**  
 
 With his eleventh film, Youssef Chahine was able to chart new territory for himself and for Egyptian cinema. At the age of 32 he was already established as a director of formidable talent and skill. His reputation was further enhanced with a film that many still consider his masterpiece. It is one of those rare instances in film history when forces converge to produce a work of art that is of lasting value.
 
@@ -170,5 +177,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzMzcyNDczXX0=
+eyJoaXN0b3J5IjpbMTE4MTA0MDQwOF19
 -->
