@@ -1,3 +1,14 @@
+---
+layout: post
+title: Akenfield
+published: true
+date: 2023-07-08
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'UK 1974, 98 mins<br> Director: Peter Hall'
+pdf: '2023-07-08-akenfield.pdf'
+---
 
 The screenplay, written by Ronald Blythe, derives from his book _Akenfield_, a documentary microcosm of rural life in this country which uses as its framework a series of taped interviews with the inhabitants of a single Suffolk village; in the film, the people of East Suffolk are being asked to play themselves. ‘A feature made like a documentary,’ is how Peter Hall, now directing, described it in 1970 when it was still an unfinanced project. Though _Akenfield_ is a 35mm widescreen feature with a cast of 150 and period settings from the 1890s onwards, it is being made with a strictly functional economy of means and manpower, and a maximum of individual involvement. The pervasive, almost pioneering spirit of cooperation on the film is undoubtedly stimulated by the knowledge that here for once a worthwhile project is actually off the ground, that it is not costing a penny more than its basic budget requirements, and that (like almost all the dozen or so films of lasting value completed in this country in the past decade) it is being made despite rather than because of the existing film establishment.
 
@@ -104,6 +115,64 @@ pupils of Framlingham Secondary Modern School
 UK 1974  
 98 mins
 <br><br>
+
+**BIG SCREEN CLASSICS**<br>
+**El Sur (The South)**<br>
+Sat 1 Jul 12:50; Fri 7 Jul 14:40; Mon 17 Jul 20:30<br>
+**All That Heaven Allows**<br>
+Sat 1 Jul 13:10; Tue 4 Jul 20:50; Thu 13 Jul 20:40<br>
+**Shadow of a Doubt**<br>
+Sun 2 Jul 13:20; Sat 15 Jul 12:40<br>
+**Les Demoiselles de Rochefort (The Young Ladies of Rochefort)**<br>
+Mon 3 Jul 20:30; Thu 13 Jul 20:30; Tue 18 Jul 18:10<br>
+**The Harder They Come**<br>
+Wed 5 Jul 18:00 + intro by author Lloyd Bradley; Mon 10 Jul 20:30<br>
+**The Piano**<br>
+Thu 6 Jul 20:35; Sun 16 Jul 13:10<br>
+**Akenfield**<br>
+Sat 8 Jul 18:00; Fri 21 Jul 20:30<br>
+**Babette’s Feast (Babettes Gæstebud)**<br>
+Sun 9 Jul 13:30; Thu 27 Jul 20:45<br>
+**The Searchers**<br>
+Tue 11 Jul 20:30; Sun 23 Jul 12:10<br>
+**The Man Who Wasn’t There**<br>
+Wed 12 Jul 18:10 + intro by Geoff Andrew, Programmer-at-Large; Wed 19 Jul 20:45; Sat 22 Jul 18:00<br>
+**My Night with Maud (Ma nuit chez Maud)**<br>
+Fri 14 Jul 20:40; Thu 27 Jul 18:10<br>
+**Persona**<br>
+Tue 18 Jul 20:50; Fri 28 Jul 18:10; Mon 31 Jul 20:50<br>
+**The Straight Story**<br>
+Wed 19 Jul 18:10 + intro by Lindsay Hallam, Senior Lecturer in Film, University of East London; Mon 24 Jul 20:40; Sat 29 Jul 18:00<br>
+**Wanda**<br>
+Thu 20 Jul 20:55; Wed 26 Jul 18:10 + intro by Becca Voelcker, Lecturer in Fine Art at Goldsmiths, University of London<br>
+**The Motorcycle Diaries (Diarios de motocicleta)**<br>
+Tue 25 Jul 20:30; Sun 30 Jul 15:30 + intro by Chantelle Lavel Boyea, BFI Assistant Curator of Television<br>
+<br><br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTY3MDYxMjU2OV19
 -->
