@@ -5,9 +5,9 @@ published: true
 date: 2023-07-07
 readtime: true
 categories: ['DRAMA AND DESIRE<br> THE FILMS OF YOUSSEF CHAHINE']
-tags: [Comedy, Musical]
-metadata: 'Egypt 1957, 109 mins<br> Director: Youssef Chahine'
-pdf: '2023-07-04-my-one-and-only-love.pdf'
+tags: [Drama]
+metadata: 'Egypt 1958, 74 mins<br> Director: Youssef Chahine'
+pdf: '2023-07-07-cairo-station.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
@@ -177,5 +177,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTA0MDQwOF19
+eyJoaXN0b3J5IjpbNjc0MjcwODY5XX0=
 -->
