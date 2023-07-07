@@ -1,3 +1,14 @@
+---
+layout: post
+title: 20th Century Women
+published: true
+date: 2023-07-08
+readtime: true
+categories: ['FEEL ALL THE FEELINGS<br>THE FILMS OF GRETA GERWIG']
+tags: [Drama]
+metadata: 'USA 2016, 118 mins<br> Director: Mike Mills'
+pdf: '2023-07-08-twentieth-century-women.pdf'
+---
 
 _20th Century Women_, Mike Mills’s third dramatic feature, promises to be every bit as autobiographical as _Beginners_ (2010), which confronted his mother’s death and his father’s subsequent decision to come out as gay. Mills’s new film is a throwback to his teenage years in the late 1970s, when he was raised by his mother with the help of two older sisters.
 
@@ -9,8 +20,7 @@ Dorothea is manifestly a product of an earlier era: a wisecracking screwball mav
 
 Bening plays Dorothea as wry, warm and determinedly unreadable. When Jamie recites a passage that seems to describe her (Zoe Moss’s essay ‘It Hurts to be Alive and Obsolete: the Ageing Woman’) she lashes out – a liberating moment that warns the viewer away from simplistic interpretations of the film. Her fellow 20th-century women are enjoyably complex, and androgynous, too. As women’s libber Abbie, Greta Gerwig has never been better: movingly, she grapples with life-changing health issues that isolate her from her art-school pals, while maintaining her commitment to Jamie. Elle Fanning’s fragile, wise Julie is an expert mimic of men, who prioritises strength as the core virtue but reads Judy Blume between one-night stands. During the film, it’s the women who become bolder, more sure of their identities, not Jamie, their failed project, driving around in a car spray-painted to reflect the musical tribes that bisect his peer group: are you Black Flag or an ‘art fag’?
 
-_20th Century Women_ is a refreshingly rich and intelligent female-led drama.  
-It’s also a poignant character study that draws first-rate performances from its cast. If Mills intended to make a film about his own youth, the result is a story about the lives of women, the challenges of parenthood, the value of art and a recent past that now seems unreachable.  
+_20th Century Women_ is a refreshingly rich and intelligent female-led drama.  It’s also a poignant character study that draws first-rate performances from its cast. If Mills intended to make a film about his own youth, the result is a story about the lives of women, the challenges of parenthood, the value of art and a recent past that now seems unreachable.  
 **Pamela Hutchinson, _Sight and Sound_, March 2017**
 <br><br>
 
@@ -126,6 +136,50 @@ USA 2016©
 
 The screening on Fri 21 Jul will be presented with subtitles, including descriptions of non-dialogue<br>
 <br>
+
+**FEEL ALL THE FEELINGS:  
+THE FILMS OF GRETA GERWIG**<br>
+**Hannah Takes the Stairs**<br>
+Sat 1 Jul 20:40; Fri 14 Jul 18:15 (+ intro by Programmer Kimberley Sheehan)<br>
+**Damsels in Distress**<br>
+Wed 5 Jul 20:40; Sat 15 Jul 20:30<br>
+**Greenberg**<br>
+Fri 7 Jul 18:05; Sat 29 Jul 20:50<br>
+**20th Century Women**<br>
+Sat 8 Jul 20:30; Fri 21 Jul 18:10<br>
+**Little Women**<br>
+Sun 9 Jul 18:10; Tue 25 Jul 20:20; Sun 30 Jul 18:00<br>
+**Frances Ha**<br>
+Mon 10 Jul 20:50; Tue 18 Jul 18:30; Fri 21 Jul 20:45<br>
+**Mistress America**<br>
+Wed 12 Jul 20:50; Sun 30 Jul 12:50<br>
+**Lady Bird**<br>
+Mon 17 Jul 20:45; Tue 25 Jul 18:30;  Wed 26 Jul 20:30<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjA2NjA5ODQxXX0=
 -->
