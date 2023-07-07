@@ -102,20 +102,15 @@ Rick Gifford _(police officer)_
 Paul Tigue _(Jamie’s school principal)_  
 Matthew Foster _(Dorothea’s bank manager)_  
 Kirk Bovill, Victoria Hoffman, Christina Andrea Offley, Randy Ryan _(Dorothea’s dinner guests)_  
-Diana Bostan, Toni Gaal, Tanya Young_  
-(William’s women)_  
+Diana Bostan, Toni Gaal, Tanya Young _(William’s women)_  
 Hans-Peter Thomas _(Abbie’s NYC boyfriend)_  
 Kai Lennox _(reporter, Abbie’s future husband)_  
 Paul Messinger _(Santa Barbara city official)_  
 Eric Wentz _(emergency room doctor)_  
-Samantha Gros, Britt Sanborn_  
-(emergency room nurses)_  
-Alexis Milan Turner, Catherine Zelinsky,  
-Boyce Buchanan, Kyle Olivia Green, Sam Marsh, Antonia Marie Vivino, Sara Pelayo, Annabelle Lee _(girl’s choir)_  
-Avi Boyko, Tyler Leyva, Cameron Simon_  
-(Phlask – club band)_  
-Jesse Sanes, Sam Bosson, Ian Logan,  
-Patrick Pastor _(Snake Fang – house party band)_  
+Samantha Gros, Britt Sanborn _(emergency room nurses)_  
+Alexis Milan Turner, Catherine Zelinsky,  Boyce Buchanan, Kyle Olivia Green, Sam Marsh, Antonia Marie Vivino, Sara Pelayo, Annabelle Lee _(girl’s choir)_  
+Avi Boyko, Tyler Leyva, Cameron Simon _(Phlask – club band)_  
+Jesse Sanes, Sam Bosson, Ian Logan,  Patrick Pastor _(Snake Fang – house party band)_  
 Trent Bowman, Justin Rivera, Desmond Shepherd _(ramp skaters)_  
 Joshua Burge, Daniel Dorr _(Abbie’s friends)_  
 Christopher Carroll _(pharmacist)_  
@@ -126,11 +121,11 @@ Padraic Cassidy _(drafting office manager)_
 Matty Cardarople _(bartender)_  
 Toni Christopher _(woman at bar)_
 
-USA 2016©
-
+USA 2016©  
 118 mins
 
-The screening on Fri 21 Jul will be presented with subtitles, including descriptions of non-dialogue
+The screening on Fri 21 Jul will be presented with subtitles, including descriptions of non-dialogue<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzUwNzc0NV19
+eyJoaXN0b3J5IjpbNjA2NjA5ODQxXX0=
 -->
