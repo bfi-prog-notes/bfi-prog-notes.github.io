@@ -1,3 +1,14 @@
+---
+layout: post
+title: Little Women
+published: true
+date: 2023-07-09
+readtime: true
+categories: ['FEEL ALL THE FEELINGS<br>THE FILMS OF GRETA GERWIG']
+tags: [Drama, Period]
+metadata: 'USA 2019, 135 mins<br> Director: Greta Gerwig'
+pdf: '2023-07-09-little-women.pdf'
+---
 
 Across disparate countries and radically different eras, Louisa May Alcott’s _Little Women_ has come to life in a million different ways. It is a book that is unsparing in its depiction of the way the world is hard on ambitious girls, but also offers a comfort: that ambition – a vibrant inner life that breaks the bonds of the world – is its own reward. It is a book that we first encounter as children, when the world’s possibilities are wide open and there is nothing in the world that can hold us back; we return as young adults, when the constraints of adulthood and society begin to shape who we are; and we return again, as older readers, with the bittersweet nostalgia of what it meant to be young and bold, joined with the exciting joy of seeing a new generation experience that daring for themselves. The insistent power of the book is its distinctly individual call to grapple with life’s many clashing lures – with family, art, money, love, freedom, and the hope of being 100% who you are, creating your own  unique story.
 
@@ -15,15 +26,11 @@ Gerwig read _Little Women_ so many times as a child, she doesn’t remember the 
 
 While Gerwig stays true to Alcott’s original voice, she reconstructs the novel in an inherently cinematic way, unmooring the story from linear time, transforming the March’s most unforgettable events into the stuff of memories and creative inspiration. This invites audiences to engage with the March sisters as something new: as adults looking back, and as the living source for  Jo’s writing.
 
-‘Every time I read the book, it became something different,’ observes Gerwig.  
-‘I first knew it in the cosiness of childhood, and then as I got older, new parts of it jumped out at me. As I began writing the screenplay, the part of it that was in clear relief was how the sisters’ lives as adults are so poignant and fascinating, because they’re trying to figure out how to honor the fearless youth they had as grown-ups.’
+‘Every time I read the book, it became something different,’ observes Gerwig.  ‘I first knew it in the cosiness of childhood, and then as I got older, new parts of it jumped out at me. As I began writing the screenplay, the part of it that was in clear relief was how the sisters’ lives as adults are so poignant and fascinating, because they’re trying to figure out how to honor the fearless youth they had as grown-ups.’
 
-Gerwig also went deep into research, reading Alcott’s letters and papers, to draw on aspects of Alcott’s real life to give her adaptation a formidable, modern voice. For example, the real Alcott wrote, ‘I had lots of troubles, so  
-I write jolly tales’; in the film, Marmee says, ‘I’m angry nearly every day of  
-my life.’
+Gerwig also went deep into research, reading Alcott’s letters and papers, to draw on aspects of Alcott’s real life to give her adaptation a formidable, modern voice. For example, the real Alcott wrote, ‘I had lots of troubles, so  I write jolly tales’; in the film, Marmee says, ‘I’m angry nearly every day of  my life.’
 
-In drawing early inspiration from _Little Women_, Gerwig has a lot of company. The late sci-fi master Ursula K. Le Guin called Alcott ‘close as a sister’.  
-Novelist Erica Jong said _Little Women_ sparked a belief that ‘women could become writers, intellects – and still have rich personal lives.’ The heroines of Elena Ferrante’s masterwork _My Brilliant Friend_ bond over a tattered copy of Alcott’s book, vowing to write their own. Poet Gail Mazur thanked Alcott for helping writers ‘to live with, knowing we’re not alone, the conflict between the writer’s need for solitude and self-absorption and the yearning for the warmth of love.’ Harry Potter creator J.K. Rowling said of Jo March: ‘It is hard to overstate what she meant to a small, plain girl called Jo, who had a hot temper and a burning ambition to be a writer.’
+In drawing early inspiration from _Little Women_, Gerwig has a lot of company. The late sci-fi master Ursula K. Le Guin called Alcott ‘close as a sister’.  Novelist Erica Jong said _Little Women_ sparked a belief that ‘women could become writers, intellects – and still have rich personal lives.’ The heroines of Elena Ferrante’s masterwork _My Brilliant Friend_ bond over a tattered copy of Alcott’s book, vowing to write their own. Poet Gail Mazur thanked Alcott for helping writers ‘to live with, knowing we’re not alone, the conflict between the writer’s need for solitude and self-absorption and the yearning for the warmth of love.’ Harry Potter creator J.K. Rowling said of Jo March: ‘It is hard to overstate what she meant to a small, plain girl called Jo, who had a hot temper and a burning ambition to be a writer.’
 
 For women, carving out any individualistic path, particularly an artistic life, has been perilous in any era. But that’s also why Jo hit home so hard with Gerwig. ‘There’s a rebel spirit contained in Jo, and a hope for a life beyond what your gender dictates that is completely exciting to us still,’ says Gerwig. ‘She’s this girl with a boy’s name who wants to write, and she’s ambitious and she’s angry and she’s so many different things that we identify with. It’s like she allowed us to be free.’  
 **Production notes**
@@ -126,6 +133,51 @@ USA 2019©
 
 The screening on Sun 30 Jul will be presented  with subtitles, including descriptions of  non-dialogue audio<br>
 <br>
+
+**FEEL ALL THE FEELINGS:  
+THE FILMS OF GRETA GERWIG**<br>
+**Hannah Takes the Stairs**<br>
+Sat 1 Jul 20:40; Fri 14 Jul 18:15 (+ intro by Programmer Kimberley Sheehan)<br>
+**Damsels in Distress**<br>
+Wed 5 Jul 20:40; Sat 15 Jul 20:30<br>
+**Greenberg**<br>
+Fri 7 Jul 18:05; Sat 29 Jul 20:50<br>
+**20th Century Women**<br>
+Sat 8 Jul 20:30; Fri 21 Jul 18:10<br>
+**Little Women**<br>
+Sun 9 Jul 18:10; Tue 25 Jul 20:20; Sun 30 Jul 18:00<br>
+**Frances Ha**<br>
+Mon 10 Jul 20:50; Tue 18 Jul 18:30; Fri 21 Jul 20:45<br>
+**Mistress America**<br>
+Wed 12 Jul 20:50; Sun 30 Jul 12:50<br>
+**Lady Bird**<br>
+Mon 17 Jul 20:45; Tue 25 Jul 18:30;  Wed 26 Jul 20:30<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjA5MjY0MDY4XX0=
 -->
