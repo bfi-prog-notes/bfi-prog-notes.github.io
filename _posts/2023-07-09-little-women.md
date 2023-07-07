@@ -41,14 +41,12 @@ _Unit Production Manager_: Adam Merims
 _Production Supervisor_: Damiana Kamishin  
 _Production Co-ordinator_: Hannah Roble  
 _Production Accountant_: Thomas Bianco  
-_Location Managers_: Douglas Dresser,  
-Timothy Gorman  
+_Location Managers_: Douglas Dresser,  Timothy Gorman  
 _Post-production Supervisor_: Catherine Farrell  
 _1st Assistant Director_: Jonas Spaccarotelli  
 _2nd Assistant Director_: Katie Valovcin  
 _Script Supervisor_: Anna Rane  
-_Casting by_: Francine Maisler,  
-Kathleen Driscoll-Mohler  
+_Casting by_: Francine Maisler,  Kathleen Driscoll-Mohler  
 _Extras Casting_: Kendall Cooper  
 _Written for the Screen by_: Greta Gerwig  
 _Based on the novel by_: Louisa M. Alcott  
@@ -59,24 +57,16 @@ _B Camera/Steadicam Operator_: Colin Hudson
 _Still Photographer_: Wilson Webb  
 _Visual Effects Supervisor_: Brian Drewes  
 _Visual Effects Producer_: Catherine Farrell  
-_Visual Effects by_: Zero VFX, Crafty Apes,
-
-Instinctual  
-_Special Effects Co-ordinators_: Mike Ricci,
-
-Andy Weder  
+_Visual Effects by_: Zero VFX, Crafty Apes, Instinctual  
+_Special Effects Co-ordinators_: Mike Ricci, Andy Weder  
 _Editor_: Nick Houy  
 _Production Designer_: Jess Gonchor  
-_Art Directors_: Chris Farmer, Bryan Felty,
-
-Sean Falkner  
+_Art Directors_: Chris Farmer, Bryan Felty, Sean Falkner  
 _Set Decorator_: Claire Kaufman  
 _Property Master_: David W. Gulick  
 _Construction Co-ordinator_: Joseph Kearney  
 _Costume Designer_: Jacqueline Durran  
-_Costume Supervisors_: Amy Andrews,
-
-Caroline Errington  
+_Costume Supervisors_: Amy Andrews, Caroline Errington  
 _Make-up Department Head_: Judy Chin  
 _Hair Department Head_: Frida Aradóttir  
 _DI Colourist_: Joe Gawler  
@@ -85,13 +75,13 @@ _Score Conducted by_: Alexandre Desplat
 _Orchestrations_: Jean-Pascal Beintus, Colin Fowler  
 _Choreography_: Monical Bill Barnes  
 _Production Mixer_: Pud Cusack  
-_Re-recording Mixers_: Kevin O’Connell,  
-Skip Lievsay, Paul Urmson  
+_Re-recording Mixers_: Kevin O’Connell, Skip Lievsay, Paul Urmson  
 _Supervising Sound Editor_: Kevin O’Connell  
 _Stunt Co-ordinator_: Scott Rogers  
 _19th Century Technical Advisers_: Kristin Martin, Kenneth Pierce  
 _Unit Publicist_: Scott Levine  
-_Cast:_  
+
+**Cast**  
 Saoirse Ronan _(Jo March)_  
 Emma Watson _(Meg March)_  
 Florence Pugh _(Amy March)_  
@@ -117,9 +107,7 @@ Dash Barber _(Fred Vaughn)_
 Edward Fletcher _(Laurence’s servant)_  
 Sasha Frolova _(Mrs Hummel)_  
 David J. Curtis _(train porter)_  
-Harper Pilat, Eowyn Young, Lucy Austin
-
-_(school girls)_  
+Harper Pilat, Eowyn Young, Lucy Austin _(school girls)_  
 Bill Mootos _(Mr Davis)_  
 Lewis D. Wheeler _(Josiah Workman)_  
 Jen Nikolaisen _(Evelyn Meriwether)_  
@@ -131,17 +119,13 @@ Tom Kemp _(Asa Melvin)_
 Daniel Shea _(soldier with telegram)_  
 Anthony Estrella _(doctor)_  
 Adrianne Krstansky _(Mrs Dashwood)_  
-Sophia Gialloreto,  Lily Elizabeth Gavin,
+Sophia Gialloreto,  Lily Elizabeth Gavin, Finola Weller Baldet _(Dashwood girls)_
 
-Finola Weller Baldet _(Dashwood girls)_
-
-USA 2019©
-
+USA 2019©  
 135 mins
 
-The screening on Sun 30 Jul will be presented  
-with subtitles, including descriptions of  
-non-dialogue audio
+The screening on Sun 30 Jul will be presented  with subtitles, including descriptions of  non-dialogue audio<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5NjEyNjk2XX0=
+eyJoaXN0b3J5IjpbMjA5MjY0MDY4XX0=
 -->
