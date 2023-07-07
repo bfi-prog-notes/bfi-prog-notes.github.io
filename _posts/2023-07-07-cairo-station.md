@@ -30,6 +30,69 @@ One must agree with the praise, but take issue with its being ‘essentially a m
 
 Though _Cairo Station_ is noted for its grim reality, Erika Richter situates the film within the context of the nationalisation of the Suez Canal, and ‘senses a strengthening of self-confidence. The people we encounter during the course of a day … porters, beverage vendors are full of demand for better life.’  Despite such optimism, _Cairo Station_ remains a protest against stifling conditions. That the Revolution gave hope is granted, but that seems hardly enough to save Egypt’s misfits.  
 **Ibrahim Fawal, _BFI World Directors: Youssef Chahine_ (BFI Publishing, 2002) Reproduced by kind permission of Bloomsbury Publishing. ©Ibrahim Fawal**  
+<br>
+
+**Cairo Station (Bab El Hadid)**
+
+_Director:_ Youssef Chahine  
+_Production Company:_ Gabriel Talhami  
+_Production Managers:_ Haig Kevorkian,
+
+Mohamad Haggag  
+_Assistant Production Manager:_ H. Kirollos  
+_Assistant Director:_ Mohamad Abou Youssef  
+_2nd Assistant Director:_ M. Gamal Eldine  
+_Dialogue Supervisor:_ Chaffik Rizk  
+_Screenplay:_ Abdel Hay Adib  
+_Dialogue:_ Mohamad Abou Youssef  
+_Director of Photography:_ Alvize Orfanelli  
+_Cameraman:_ Massoud Issa  
+_Editor:_ Kamal Abul Ela  
+_Negative Cutter:_ M. Saleh  
+_Cutter:_ Shoushou  
+_Sets:_ Abbas Helmi  
+_Art Director:_ Gabriel Karraze  
+_Make-up:_ Sayed Mohamad, Hamdi Rafaat  
+_Laboratory Chief:_ Toutou Khoury  
+_Music:_ Fouad el-Zahiry  
+_Chief Sound Engineer:_ Aziz Fadel  
+_Sound Assistant:_ A. Mohamad  
+
+**Cast**  
+Farid Shawki  
+Hind Rostom  
+Youssef Chahine  
+Hassan el-Baroudy  
+Abdel Aziz Khalil  
+Naima Wasfi  
+Said Khalil  
+Abdel Ghani Nagdi  
+Loutfi el-Hakim  
+Abdel Hamid Bagdoui  
+F. el-Demerdache  
+Said el-Araby  
+Ahmed Abaza  
+Hana Abdel Fattah  
+Safia Sarhiat  
+Assaad Kellada  
+Sherine  
+Soheir  
+Esmat Mahmoud  
+Nawal Morsi  
+Gharib Moawad  
+Mohamed Mazhar  
+Galal Issa  
+Mahrous el-Garhi  
+Ahmed el-Tantawi  
+S. Abdel Aziz  
+Abdel Najdi  
+Nadia Lutfi  
+Mike & His Skyrockets  
+
+Egypt 1958  
+74 mins  
+
+Restored by Misr International Films  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2NTU4MjU3XX0=
+eyJoaXN0b3J5IjpbLTE3OTQ1ODk3NjZdfQ==
 -->
