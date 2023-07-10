@@ -30,8 +30,7 @@ _Executive Producers_: Fernando Loureiro,  Lourenco Sant’anna
 _Produced by_: Noah Baumbach, Scott Rudin,  Lila Yacoub, Rodrigo Teixeira  
 _Co-producers_: Oscar Boyson, Eli Bush  
 _Unit Production Manager_: Lila Yacoub  
-_Production Accountants_: Anthony Bonsignore_,  _Paula Zinca, Frank Selvaggi
-
+_Production Accountants_: Anthony Bonsignore, Paula Zinca, Frank Selvaggi  
 _Location Manager_: Jonathan Urband  
 _Location Manager - Paris_: Martin Scali  
 _1st Assistant Director_: Lila Yacoub  
@@ -54,8 +53,7 @@ _Supervising Sound Editor_: Paul Hsu
 _Digital Intermediate_: Boxmotion  
 _For_: Harris [Savides]
 
-_Cast:_
-
+**Cast**  
 Greta Gerwig _(Frances)_  
 Mickey Sumner _(Sophie)_  
 Charlotte D’Amboise _(Colleen)_  
@@ -73,9 +71,9 @@ Dean Wareham _(Spencer)_
 Michael Zegen _(Benji)_  
 Britta Phillips _(Nadia)_
 
-USA 2012©
-
-86 mins
+USA 2012©  
+86 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDA3NDE3Ml19
+eyJoaXN0b3J5IjpbMjA2ODE4MTE4Nl19
 -->
