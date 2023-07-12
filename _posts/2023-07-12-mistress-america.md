@@ -35,8 +35,7 @@ _Presented by_: Fox Searchlight Pictures
 _in association with_: RT Features  
 _Filmed with the support of_: New York State Governor’s Office for Motion Picture & Television Development  
 _Executive Producers_: Lourenço Sant’Anna,  Sophie Mas  
-_Produced by_: Noah Baumbach, Scott Rudin,  
-Lila Yacoub, Rodrigo Teixeira, Greta Gerwig  
+_Produced by_: Noah Baumbach, Scott Rudin,  Lila Yacoub, Rodrigo Teixeira, Greta Gerwig  
 _Co-producers_: Oscar Boyson, Eli Bush  
 _Unit Production Manager_: Lila Yacoub  
 _Location Manager_: Wyatt Angelo  
@@ -57,8 +56,7 @@ _Sound Mixer_: Micah Bloomberg
 _Re-recording Mixer_: Paul Hsu  
 _Supervising Sound Editor_: Paul Hsu
 
-_Cast:_
-
+**Cast**  
 Greta Gerwig _(Brooke)_  
 Lola Kirke _(Tracy)_  
 Matthew Shear _(Tony)_  
@@ -71,13 +69,11 @@ Dean Wareham _(Harold)_
 Shana Dowdeswell _(Ruth)_  
 Shelby Rebecca Wong _(Laura)_
 
-USA 2015©
-
+USA 2015©  
 84 mins
 
-The screening on Sun 30 Jul will be presented  
-with subtitles, including descriptions of  
-non-dialogue audio
+The screening on Sun 30 Jul will be presented  with subtitles, including descriptions of  non-dialogue audio<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY0OTMxMjFdfQ==
+eyJoaXN0b3J5IjpbLTY4NjE2MjQ0OV19
 -->
