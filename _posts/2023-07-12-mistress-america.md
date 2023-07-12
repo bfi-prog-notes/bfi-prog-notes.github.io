@@ -1,3 +1,14 @@
+---
+layout: post
+title: Mistress America
+published: true
+date: 2023-07-12
+readtime: true
+categories: ['FEEL ALL THE FEELINGS<br>THE FILMS OF GRETA GERWIG']
+tags: [Comedy]
+metadata: 'USA 2015, 84 mins<br> Director: Noah Baumbach'
+pdf: '2023-07-12-mistress-america.pdf'
+---
 
 Having been rounded on for their hipster artisanal obsessions and their morally dubious creativity in his _While We’re Young_ (2014), the Millennials catch a break in Noah Baumbach’s light, dextrous social comedy about the pleasures and perils of the New York college girl-crush. Both lonely freshman Tracy (Lola Kirke) and Brooke (Greta Gerwig), the thirtyish stepsister-to-be and self-styled It Girl who twirls her into an Instagram-cool Big Apple, vibrate sympathetically with the pressure of making their way in the world.
 
@@ -11,9 +22,7 @@ What’s really fresh about _Mistress America_, however, is how its walking-and-
 
 Plot has been a later discovery for Baumbach. His early successes shunned it as a contrivance, preferring to limn novelistic portraits full of devastating little moments (2007’s _Margot at the Wedding_ is a prime example) which suggested, as a _New Yorker_ profile noted, that his fate seemed to be ‘to pursue a literary career through the medium of film’. Like his hero Eric Rohmer, Baumbach preferred to extract drama from the talkative friction of his characters. Recently, however, he’s been springing narrative surprises – _While We’re Young_ taking a dramatic turn into betrayal, _Mistress America_ into neo-screwball.
 
-So whether this sudden switch in tone and the deliberate staginess of the Connecticut interlude are an uproarious delight or an interesting misstep will depend on whether your taste runs to the melancholy, misanthropic Baumbach of _Greenberg_ (2010) or the warmer Gerwig collaborations. There are some deliciously gawky grace notes, such as when Brooke makes her  
-flaky finance pitch (including an exquisitely awkward ‘rewind’ mime), or when  
-a chair-pyramid of disapproving readers puts Tracy’s short story through  the wringer.
+So whether this sudden switch in tone and the deliberate staginess of the Connecticut interlude are an uproarious delight or an interesting misstep will depend on whether your taste runs to the melancholy, misanthropic Baumbach of _Greenberg_ (2010) or the warmer Gerwig collaborations. There are some deliciously gawky grace notes, such as when Brooke makes her  flaky finance pitch (including an exquisitely awkward ‘rewind’ mime), or when  a chair-pyramid of disapproving readers puts Tracy’s short story through  the wringer.
 
 Baumbach and Gerwig’s dialogue doesn’t prove quite such a neat fit, though. Classic screwball comedies rejoice in the exhilarating energy of rapid exchanges, that verbal tennis that’s the USP of Hawks gems such as _His Girl Friday_ (1940) or Preston Sturges’s sparkling satires. The difference in the fast-talking 2010s is that Brooke and Co lob smart, snarky, self-revelatory remarks at one another, sallies rather than rallies. A spiky blend of mean (‘Your tragedy is your armour!’ shouts a defiant Tracy at Brooke, about her mother’s death) and dizzy (‘I was the people that they make TV shows about’), the exchanges are at points as shrill as they are smirk-inducing.
 
@@ -74,6 +83,50 @@ USA 2015©
 
 The screening on Sun 30 Jul will be presented  with subtitles, including descriptions of  non-dialogue audio<br>
 <br>
+
+**FEEL ALL THE FEELINGS:  
+THE FILMS OF GRETA GERWIG**<br>
+**Hannah Takes the Stairs**<br>
+Sat 1 Jul 20:40; Fri 14 Jul 18:15 (+ intro by Programmer Kimberley Sheehan)<br>
+**Damsels in Distress**<br>
+Wed 5 Jul 20:40; Sat 15 Jul 20:30<br>
+**Greenberg**<br>
+Fri 7 Jul 18:05; Sat 29 Jul 20:50<br>
+**20th Century Women**<br>
+Sat 8 Jul 20:30; Fri 21 Jul 18:10<br>
+**Little Women**<br>
+Sun 9 Jul 18:10; Tue 25 Jul 20:20; Sun 30 Jul 18:00<br>
+**Frances Ha**<br>
+Mon 10 Jul 20:50; Tue 18 Jul 18:30; Fri 21 Jul 20:45<br>
+**Mistress America**<br>
+Wed 12 Jul 20:50; Sun 30 Jul 12:50<br>
+**Lady Bird**<br>
+Mon 17 Jul 20:45; Tue 25 Jul 18:30;  Wed 26 Jul 20:30<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTY4NjE2MjQ0OV19
 -->
