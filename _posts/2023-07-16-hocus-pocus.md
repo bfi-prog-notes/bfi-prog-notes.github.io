@@ -125,7 +125,6 @@ Jason Marsden _(voice of Thackery Binx)_
 USA 1993  
 96 mins  
 <br>
-<br>
 With thanks to The Walt Disney Company  
 <br>
 **MAKING MAGIC: 100 YEARS OF DISNEY**  
@@ -185,7 +184,8 @@ Sun 23 Jul 12:50; Sat 29 Jul 16:00
 Sun 23 Jul 15:30  
 **Pocahontas + Lava**  
 Sun 23 Jul 15:40; Fri 28 Jul 14:20; Sat 29 Jul 20:40  
-**SIGHT AND SOUND**<br>
+<br>
+**SIGHT AND SOUND**  
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
 *Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
 
@@ -208,5 +208,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY1NDQ0ODRdfQ==
+eyJoaXN0b3J5IjpbNTg0NjE3OTM0XX0=
 -->
