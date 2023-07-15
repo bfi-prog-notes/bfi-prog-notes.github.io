@@ -35,9 +35,8 @@ Yet the women continue with their recriminations. Once more the mother tries to 
 Almost absent from _An Egyptian Story_ is Yahia’s father. We never see him in a family setting, nor with any of the women around him. He has abdicated his role as the head of the family and withdrawn to himself. We only see him in two brief scenes with his son in one, he says that he used to be the first in class and tells Yahia to excel in school; in the other, he mentions the circumstances of his daughter’s wedding. Polishing a hunting gun, he adds that the well-off groom is able to supply her with all the nylon stockings she needs. ‘Are nylon stockings everything in life?’ Yahia asks. His father glares at him, then says, ‘Ask your mother.’  
 **Ibrahim Fawal, _BFI World Directors: Youssef Chahine_ (BFI Publishing, 2002)**  
 <br>
-<![endif]-->
 
-**AN EGYPTIn Egyptian Story (Hadouta Masriya)**
+**AN EGYPTIAN STORY  (HADOUTA MASRIYA )**
 _Director_: Youssef Chahine  
 _Production Company_: Misr International Films  
 _Producer_: Youssef Chahine  
@@ -94,6 +93,6 @@ Egypt 1982
 
 Restored by Misr International Films  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTUwODM5Nyw1MTkyNDYxNzQsLTEyMz
-AzMDE3OTRdfQ==
+eyJoaXN0b3J5IjpbLTYzMjY1NDg4LDUxOTI0NjE3NCwtMTIzMD
+MwMTc5NF19
 -->
