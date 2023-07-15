@@ -33,7 +33,67 @@ Back in court, we see the first clash between Yahia’s wife and sister. When th
 Yet the women continue with their recriminations. Once more the mother tries to defend her past actions. ‘I was a mother twice by the age of eighteen,’ she tells them. ‘Is it right for life to end when a woman is only eighteen? Is it right for a woman to be deprived of her desires and feelings when she is only eighteen?’ The confession prompts her daughter to ask, ‘Why didn’t you learn from all this? Why were you in such a hurry to get me married off?’ Her sister-in-law explains in answering ‘Because when the mother is thirty-four and the girl is eighteen, they need to be separated so they won’t compete with each other.’ True or not, the mother rushes her daughter’s wedding to a rich but much older man, only two days after his father’s death. She cannot wait for a respectful mourning period lest he change his mind. Her haste makes the daughter’s complaint over the years more biting.
 
 Almost absent from _An Egyptian Story_ is Yahia’s father. We never see him in a family setting, nor with any of the women around him. He has abdicated his role as the head of the family and withdrawn to himself. We only see him in two brief scenes with his son in one, he says that he used to be the first in class and tells Yahia to excel in school; in the other, he mentions the circumstances of his daughter’s wedding. Polishing a hunting gun, he adds that the well-off groom is able to supply her with all the nylon stockings she needs. ‘Are nylon stockings everything in life?’ Yahia asks. His father glares at him, then says, ‘Ask your mother.’  
-**Ibrahim Fawal, _BFI World Directors: Youssef Chahine_ (BFI Publishing, 2002)**
+**Ibrahim Fawal, _BFI World Directors: Youssef Chahine_ (BFI Publishing, 2002)**  
+<br>
+<![endif]-->
+
+**AN EGYPTIn Egyptian Story (Hadouta Masriya)**
+_Director_: Youssef Chahine  
+_Production Company_: Misr International Films  
+_Producer_: Youssef Chahine  
+_Production Manager_: Fouad Salah al-Din  
+_Assistant Director_: Ahmed Mehrez  
+_2nd Assistant Directors_: Khayreya Abbas, Naguib Iskandar  
+_Story_: Yusuf Idris  
+_Director of Photography_: Mohsen Nasr  
+_Editor_: Rashida Abdel Salam  
+_Assistant Editor_: Youssef el-Mallakh  
+_Art Director_: Gabriel Karraze  
+_Set Decorator_: Fakhry el-Leithy  
+_Costume Designers_: A. Hamid Mohamed, Ezzat Sairi  
+_Hairstylists_: Talaat Abdelhamid, Sayed Massoud  
+_Music_: Gamal Salama  
+_Sound Engineer_: Magdy Kamel  
+_Sound_: Hassan el-Touni  
+
+**Cast**  
+Oussama Nadir _(Yahia, as child)_  
+Mohsen Mohieddin _(Yahia, as young man)_  
+Nour el-Cherif _(Yahia)_  
+Ahmed Mehrez  
+Muhammad Munir  
+Ragga Hussein  
+Seifeddin  
+Yousra _(Amal)_  
+Hanan _(Nadia as child)_  
+Laila Hamada _(Nadia as young girl)_  
+Magd al-Khatib _(Nadia)_  
+Raga el-Geddaoui  
+Soheir el-Monasterli  
+Andrew Dinwoodie  
+Abdel Hadi Anwar  
+Abdel-Aziz Makhyoun  
+Suheir al-Bably _(Yahia’s mother)_  
+Mahmoud el-Milligi  
+A. Abdel Hadi  
+Abdallah Mahmoud  
+Ahmed Salama  
+Leila Shouer  
+Nabila El Sayed  
+Mimi Chakib  
+Souad Nasr  
+Aly Ezzeldine  
+Yusry Nasrallah  
+Mohamed Khalil  
+Said el-Saleh  
+Mohamed Farouk  
+Tewfik el-Dekken  
+
+Egypt 1982  
+129 mins  
+
+Restored by Misr International Films  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5MjQ2MTc0LC0xMjMwMzAxNzk0XX0=
+eyJoaXN0b3J5IjpbMTAxNTUwODM5Nyw1MTkyNDYxNzQsLTEyMz
+AzMDE3OTRdfQ==
 -->
