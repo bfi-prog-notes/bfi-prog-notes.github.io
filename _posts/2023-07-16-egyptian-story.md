@@ -8,7 +8,7 @@ In order to grasp the conditions in which the equation of a non-occidental film 
 Difficult in today’s world to hold a sincere belief in absolute morality. The structure of the family has been breaking up ever since the industrial revolution.
 
 Millions of people are still slaughtered in the name of Jehovah or Allah while individuality is steadily stifled by Coca-Cola slogans or by self-styled guardians of collectivity. Can he face all these contradictions? Can anyone? Can he make at least a start by confronting his own truths? By coming to terms with his own myths? And me: can I...?  
-**Youssef Chahine**
+**Youssef Chahine**  
 
 If _Alexandria… Why?_ can be described as an external look at the early stage of Chahine’s life, _An Egyptian Story_ is an internal look at him as an artist besotted with a need to confront the demons in his past. Like Chahine, the film director Yahia Shukri Murad is an inveterate smoker and an indefatigable task master, sometimes working his actors and crews till three o’clock in the morning. Estrangement from his wife and the onslaught of a heart attack do not come as a surprise. At the age of 52 Chahine did have a heart attack which gave him time to meditate about his life and accomplishments.
 
@@ -35,5 +35,5 @@ Yet the women continue with their recriminations. Once more the mother tries to 
 Almost absent from _An Egyptian Story_ is Yahia’s father. We never see him in a family setting, nor with any of the women around him. He has abdicated his role as the head of the family and withdrawn to himself. We only see him in two brief scenes with his son in one, he says that he used to be the first in class and tells Yahia to excel in school; in the other, he mentions the circumstances of his daughter’s wedding. Polishing a hunting gun, he adds that the well-off groom is able to supply her with all the nylon stockings she needs. ‘Are nylon stockings everything in life?’ Yahia asks. His father glares at him, then says, ‘Ask your mother.’  
 **Ibrahim Fawal, _BFI World Directors: Youssef Chahine_ (BFI Publishing, 2002)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzAzMDE3OTRdfQ==
+eyJoaXN0b3J5IjpbNTE5MjQ2MTc0LC0xMjMwMzAxNzk0XX0=
 -->
