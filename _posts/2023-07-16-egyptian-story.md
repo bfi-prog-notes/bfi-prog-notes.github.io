@@ -1,0 +1,39 @@
+
+
+
+<![endif]-->
+
+In order to grasp the conditions in which the equation of a non-occidental film director has to be worked out, it is necessary to take the following factors into account: the authorities of his country define him as a rebel, while at the same time his family considers him a black sheep. The western world says he’s too socialist, the socialists say he’s too liberal, the Arabs say he’s too pro-Semitic, the bigots say he’s too Arab. Parallel with all this, his doctor tells him he smokes too much, good timers tell him he’s too austere. A simpler analysis would show that he has an almost visceral reaction against the traditional attitude that says he should conform with the fashions and rules determined by one or other of these eminent institutions. The simple fact is that he doesn’t conform in this way because he cannot.
+
+Difficult in today’s world to hold a sincere belief in absolute morality. The structure of the family has been breaking up ever since the industrial revolution.
+
+Millions of people are still slaughtered in the name of Jehovah or Allah while individuality is steadily stifled by Coca-Cola slogans or by self-styled guardians of collectivity. Can he face all these contradictions? Can anyone? Can he make at least a start by confronting his own truths? By coming to terms with his own myths? And me: can I...?  
+**Youssef Chahine**
+
+If _Alexandria… Why?_ can be described as an external look at the early stage of Chahine’s life, _An Egyptian Story_ is an internal look at him as an artist besotted with a need to confront the demons in his past. Like Chahine, the film director Yahia Shukri Murad is an inveterate smoker and an indefatigable task master, sometimes working his actors and crews till three o’clock in the morning. Estrangement from his wife and the onslaught of a heart attack do not come as a surprise. At the age of 52 Chahine did have a heart attack which gave him time to meditate about his life and accomplishments.
+
+From the beginning Chahine insinuates that this is not merely an account of his life, but also a premonition about Egypt’s future. Between takes and just before he collapses from the heart attack, he auditions a new singer. The lyrics are explicit:
+
+We don’t accept letting people crush each other  
+Who is sane among us, and who is crazy?  
+Who is the victimiser, and who is the victimised?  
+Who sells his conscience and buys destruction?  
+I care about the human being.  
+Egypt, I am worried about you.  
+O bewildered masses! This is the story: the Egyptian story.
+
+Several scenes stress that Yahia is Chahine himself. Although he goes to London for medical treatment, Yahia opts for an Egyptian surgeon. The decision is consistent with Chahine’s loyalty to Egypt. In the doctor’s waiting room, a young boy from Saudi Arabia recognises him. ‘Your best film is _Cairo Station_,’ he tells him. While under anaesthesia, and facing imminent mortality, Yahia puts himself and his family on trial. The film provides a series of extended flashbacks to a court room, designed to look like a chest cavity, with the rib cage and all the arteries. The science-fictional ‘delivery’ sequence reminds us of Woody Allen’s parody _Everything You Always Wanted to Know about Sex But Were Afraid to_ _Ask_, in which a sperm travels throughout a woman’s reproductive system.
+
+The only witness to emerge out of Chahine’s innermost thoughts is a handsome but feisty boy of about ten. Taking the stand, he tells the judge that he is Yahia at that age. Asked why he is there, he answers, ‘I want to kill him in order to get rid of him. He’s been trying to kill me for 50 years.’ The boy is followed by a humourless elementary school teacher who fashions himself after Hitler. In a flashback within the flashback the teacher slaps Yahia in class and goes on to rotate a large globe as Chaplin does in _The Great Dictator_. Here Chahine treats us to some Christian iconography from a crown of thorns to a nail being driven into the palm of a hand. Echoes of Fellini’s _8 1/2_ and Fosse’s _All That Jazz_ are again unmistakable.
+
+Fellini returns to mind when we are introduced to Yahia’s women, only to discover their claim on him. His mother is an attractive and well-dressed woman in her early forties. Another flashback within a flashback takes us to an earlier scene in their life. At a birthday party for him, little Yahia watches her flirting with a man. When he confronts her she accuses him of Iying and in turn he calls her a liar. She storms out of the room, saying, ‘I’m sick of all of you.’ Later on she tries to justify her behaviour. By the age of eighteen she already had two children and nothing else to look for in life. She was married to a man thirty years her senior, whom she respected and admired but did not love. On their wedding night she was ignorant of the facts of life. What transpired between them in bed was nothing short of rape.
+
+Back in court, we see the first clash between Yahia’s wife and sister. When the wife tells the court that the teacher’s slap had scarred her husband, the sister cannot keep quiet. ‘Your husband?’ she sneers. ‘He’s just a provider for you. My brother didn’t need a wife, he needed a mother. You’re his mother.’ His real mother is shocked. ‘You put her in my place?’ she protests. The three women get into an argument. As they raise their voices and point fingers at each other, little Yahia drops a crystal in one of the many tubes before him. He will do this throughout the film, illustrating that these quarrels are what is clogging his arteries. As the argument intensifies, Yahia’s condition on the operating table worsens. The sister senses it and screams, ‘My brother is going to die.’ The mother screams, ‘May I die before him.’ What Yahia is suffocating from is too much love.
+
+Yet the women continue with their recriminations. Once more the mother tries to defend her past actions. ‘I was a mother twice by the age of eighteen,’ she tells them. ‘Is it right for life to end when a woman is only eighteen? Is it right for a woman to be deprived of her desires and feelings when she is only eighteen?’ The confession prompts her daughter to ask, ‘Why didn’t you learn from all this? Why were you in such a hurry to get me married off?’ Her sister-in-law explains in answering ‘Because when the mother is thirty-four and the girl is eighteen, they need to be separated so they won’t compete with each other.’ True or not, the mother rushes her daughter’s wedding to a rich but much older man, only two days after his father’s death. She cannot wait for a respectful mourning period lest he change his mind. Her haste makes the daughter’s complaint over the years more biting.
+
+Almost absent from _An Egyptian Story_ is Yahia’s father. We never see him in a family setting, nor with any of the women around him. He has abdicated his role as the head of the family and withdrawn to himself. We only see him in two brief scenes with his son in one, he says that he used to be the first in class and tells Yahia to excel in school; in the other, he mentions the circumstances of his daughter’s wedding. Polishing a hunting gun, he adds that the well-off groom is able to supply her with all the nylon stockings she needs. ‘Are nylon stockings everything in life?’ Yahia asks. His father glares at him, then says, ‘Ask your mother.’  
+**Ibrahim Fawal, _BFI World Directors: Youssef Chahine_ (BFI Publishing, 2002)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyMzAzMDE3OTRdfQ==
+-->
