@@ -5,7 +5,7 @@ published: true
 date: 2023-07-16
 readtime: true
 categories: ['MAKING MAGIC<BR>100 YEARS OF DISNEY']
-tags: [Comedy]
+tags: [Comedy, Fantasy]
 metadata: 'USA 1993, 96 mins<br> Production Supervisor: Andrew Stanton'
 pdf: '2023-07-15-wall-e.pdf'
 ---
@@ -29,5 +29,5 @@ For adult star Bette Midler all the work was worth it, because ‘There’s usua
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzEwMDI4XX0=
+eyJoaXN0b3J5IjpbLTEwMTYxNzAwMDZdfQ==
 -->
