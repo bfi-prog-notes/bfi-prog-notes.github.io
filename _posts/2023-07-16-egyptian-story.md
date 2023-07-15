@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: An Egyptian Story
+published: true
+date: 2023-07-15
+readtime: true
+categories: ['DRAMA AND DESIRE<br> THE FILMS OF YOUSSEF CHAHINE']
+tags: [Drama]
+metadata: 'Egypt 1982, 129 mins<br> Director: Youssef Chahine'
+pdf: '2023-07-09-land.pdf'
+---
 
 In order to grasp the conditions in which the equation of a non-occidental film director has to be worked out, it is necessary to take the following factors into account: the authorities of his country define him as a rebel, while at the same time his family considers him a black sheep. The western world says he’s too socialist, the socialists say he’s too liberal, the Arabs say he’s too pro-Semitic, the bigots say he’s too Arab. Parallel with all this, his doctor tells him he smokes too much, good timers tell him he’s too austere. A simpler analysis would show that he has an almost visceral reaction against the traditional attitude that says he should conform with the fashions and rules determined by one or other of these eminent institutions. The simple fact is that he doesn’t conform in this way because he cannot.
 
@@ -93,6 +100,6 @@ Egypt 1982
 
 Restored by Misr International Films  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjY1NDg4LDUxOTI0NjE3NCwtMTIzMD
+eyJoaXN0b3J5IjpbOTc4MTM0MzI4LDUxOTI0NjE3NCwtMTIzMD
 MwMTc5NF19
 -->
