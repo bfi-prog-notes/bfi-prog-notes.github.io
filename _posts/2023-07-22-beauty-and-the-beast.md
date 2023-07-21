@@ -9,7 +9,7 @@ tags: [Comedy, Fantasy, Musical, Animation, Children]
 metadata: 'USA 1991, 91 mins<br> Directors: Gary Trousdale, Kirk Wise'
 pdf: '2023-07-23-beauty-and-the-beast.pdf'
 ---
-Disney’s _Beauty and the Beast_ is a tale of transformation, narrated in the overtly stylised fashion of Broadway. Accounts of the film’s production tend to foreground not directors Kirk Wise and Gary Trousdale, but animator Glen Keane, who supervised the reforming Beast, and lyricist Howard Ashman, who directed the singers from his sickbed as he lay dying from AIDS. The musician Alan Menken deserves equal credit, but his lush style, unlike Ashman’s pawky lyrics, was sadly institutionalised in subsequent Disney films_._
+Disney’s _Beauty and the Beast_ is a tale of transformation, narrated in the overtly stylised fashion of Broadway. Accounts of the film’s production tend to foreground not directors Kirk Wise and Gary Trousdale, but animator Glen Keane, who supervised the reforming Beast, and lyricist Howard Ashman, who directed the singers from his sickbed as he lay dying from AIDS. The musician Alan Menken deserves equal credit, but his lush style, unlike Ashman’s pawky lyrics, was sadly institutionalised in subsequent Disney films.
 
 Following 1989’s _The Little Mermaid_ (everyone seems to forget about  
 _The Rescuers Down Under_ in 1990), _Beauty and the Beast_ cemented Disney’s ‘return’ as an animation studio. Until _Up_ and _Avatar_ in 2009, it was the only animated feature nominated for a Best Picture Oscar, losing to _The Silence of the Lambs_ in 1991_._ For sceptics, though, the new Disney was already brand-Disney. _Beauty and the Beast_ had been meant to be directed by London animators Richard and Jill Purdum (whose studio employed, among others, a young Sylvain Chomet, director of _Belleville Rendez-vous_). The Purdums wanted a non-musical, reportedly ‘dark’ film, ‘something not in the Disney mould,’ according to producer Don Hahn. They were let go, and Ashman and Menken brought aboard to repeat their musical success from _The Little Mermaid._
@@ -206,6 +206,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDI3MjUwNTQsMzUwNTMzNjQ1LC0yMj
-U0MDk3MjddfQ==
+eyJoaXN0b3J5IjpbLTI1ODg0ODk4OCwzNTA1MzM2NDUsLTIyNT
+QwOTcyN119
 -->
