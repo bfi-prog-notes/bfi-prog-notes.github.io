@@ -65,7 +65,7 @@ _Sound_: Olivier Schwob, Olivier Varenne
 _Mixer_: Dominique Hennequin  
 _Sound Editor_: Olivier Ducastel
 
-_Cast__:_  
+**Cast**  
 Yousra _(Nadia)_  
 Youssef Chahine _(Yahia)_  
 Hussein Fahmy _(Stelio)_  
@@ -103,5 +103,5 @@ France/Egypt 1990
 
 Restored by Cinémathèque française, Orange Studio and Misr International Films, with the support of CNC, and Association Youssef Chahine  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzQ3NDkwN119
+eyJoaXN0b3J5IjpbLTE2MDI1OTY2ODNdfQ==
 -->
