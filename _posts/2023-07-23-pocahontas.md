@@ -12,9 +12,8 @@ pdf: '2023-07-23-pocahontas.pdf'
 
 Upon reaching the ‘new world’, a group of settlers begin to seize gold and land belonging to its indigenous peoples. Captain John Smith and Pocahontas, the daughter of Chief Powhatan, find themselves drawn to each other, but the relationship is fraught with danger as their very different worlds collide.
 
-Disney’s historical drama may have significantly re-written historical events in order to appeal to the widest audience, but it also took its empowered heroine out of the fairy tale and into the real world.
-
-bfi.org.uk
+Disney’s historical drama may have significantly re-written historical events in order to appeal to the widest audience, but it also took its empowered heroine out of the fairy tale and into the real world.  
+**bfi.org.uk**
 
 There is something about the sheer scale of the success of Disney’s animated films, breaking box-office records with the nonchalant regularity of a butcher snapping the necks of chickens, that raises the hackles of critics. Ever since the publication of Dorfman and Mattelart’s 1971 Marxist critique _How to Read Donald Duck_, the Disney company has been constructed as an exemplar of capitalist cultural imperialism, permeating every nation on the earth with its seductive, easily translatable pop propaganda.
 
