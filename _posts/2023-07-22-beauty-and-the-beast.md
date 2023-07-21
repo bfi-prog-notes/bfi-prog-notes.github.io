@@ -141,24 +141,15 @@ _Editor:_ John Carnochan
 
 _Associate Editor:_ Gregory Perler
 
-_Art Director:_ Brian Mcentee
-
-_Scene Planning Supervisor:_ Ann Tucker
-
-_Title Design:_ Saxon/Ross Film Design
-
-_Optical Supervisor:_ Mark Dornfeld
-
-_Music:_ Alan Menken
-
-_Songs:_ Alan Menken
-
-_Lyrics:_ Howard Ashman
-
-_Music Director:_ David Friedman
-
-_Orchestrations:_ Danny Troob
-
+_Art Director:_ Brian McEntee  
+_Scene Planning Supervisor:_ Ann Tucker  
+_Title Design:_ Saxon/Ross Film Design  
+_Optical Supervisor:_ Mark Dornfeld  
+_Music:_ Alan Menken  
+_Songs:_ Alan Menken  
+_Lyrics:_ Howard Ashman  
+_Music Director:_ David Friedman  
+_Orchestrations:_ Danny Troob  
 _Additional Orchestrations:_ Michael Starobin  
 _Music Producers:_ Howard Ashman, Alan Menken  
 _Supervising Music Editor:_ Kathleen Bennett  
@@ -193,5 +184,5 @@ Frank Welker _(foot stool)_
 USA 1991©  
 91 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTExMzUyMV19
+eyJoaXN0b3J5IjpbLTIyNTQwOTcyN119
 -->
