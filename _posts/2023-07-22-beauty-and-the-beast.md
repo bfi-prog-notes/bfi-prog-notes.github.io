@@ -37,18 +37,12 @@ _Directors:_ Gary Trousdale, Kirk Wise
 
 _©:_ The Walt Disney Company
 
-_Production Company:_ Walt Disney Productions
-
-_In association with:_ Silver Screen Partners IV
-
-_Executive Producer:_ Howard Ashman
-
-_Producer:_ Don Hahn
-
-_Associate Producer:_ Sarah McArthur
-
-_Production Manager:_ Baker Bloodworth
-
+_Production Company:_ Walt Disney Productions  
+_In association with:_ Silver Screen Partners IV  
+_Executive Producer:_ Howard Ashman  
+_Producer:_ Don Hahn  
+_Associate Producer:_ Sarah McArthur  
+_Production Manager:_ Baker Bloodworth  
 _Pre-production Manager:_ Ron Rocha
 
 _Senior Production Co-ordinator:_ Rozanne Cazian
@@ -57,68 +51,31 @@ _Production Consultants:_ Hans Bacher, Mel Shaw
 
 _Casting:_ Albert Tavares
 
-_Screenplay:_ Linda Woolverton
-
-_Story Artistic Supervisor:_ Roger Allers
-
-_Story:_ Brenda Chapman, Burny Mattinson,
-
-Brian Pimental, Joe Ranft, Kelly Asbury, Christopher Sanders, Kevin Harkey,
-
-Bruce Woodside, Tom Ellery, Robert Lence
-
-_Visual Development:_ Kelly Asbury, Joe Grant,
-
-Kevin Lima, Sue C. Nichols, Michael Cedeno,
-
-Jean Gillmore, Dave Molina, Christopher Sanders, Terry Shakespeare
-
-_Camera Manager:_ Joe Jiuliano
-
-_Optical Camera:_ Allen Gonzales
-
-_Animation Camera Supervisor:_ John Cunningham
-
-_Supervisor Digitising Camera:_ Robyn Roberts
-
-_Visual Effects Artistic Supervisor:_ Randy Fullmer
-
-_Compositing:_ James ‘J.R.’ Russell, David J. Rowe, Shannon Fallis-Kane
-
-_Colour Models Supervisor:_ Karen Comella
-
+_Screenplay:_ Linda Woolverton  
+_Story Artistic Supervisor:_ Roger Allers  
+_Story:_ Brenda Chapman, Burny Mattinson, Brian Pimental, Joe Ranft, Kelly Asbury, Christopher Sanders, Kevin Harkey, Bruce Woodside, Tom Ellery, Robert Lence  
+_Visual Development:_ Kelly Asbury, Joe Grant, Kevin Lima, Sue C. Nichols, Michael Cedeno, Jean Gillmore, Dave Molina, Christopher Sanders, Terry Shakespeare  
+_Camera Manager:_ Joe Jiuliano  
+_Optical Camera:_ Allen Gonzales  
+_Animation Camera Supervisor:_ John Cunningham  
+_Supervisor Digitising Camera:_ Robyn Roberts  
+_Visual Effects Artistic Supervisor:_ Randy Fullmer  
+_Compositing:_ James ‘J.R.’ Russell, David J. Rowe, Shannon Fallis-Kane  
+_Colour Models Supervisor:_ Karen Comella  
 _Colour Model Mark-up:_ Leslie Ellery,
-
-Rhonda L. Hicks, Beth Ann McCoy
-
-_Animation Check Supervisor:_ Janet Bruce
-
+Rhonda L. Hicks, Beth Ann McCoy  
+_Animation Check Supervisor:_ Janet Bruce  
 _Animation Checking:_ Karen Hepburn,
-
 Karen S. Paat, Gary Shafer, Mavis Shafer,
-
-Barbara Wiles
-
-_Supervising Animators:_ _Belle:_ James Baxter, Mark Henn; _Beast:_ Glen Keane; _Gaston:_ Andreas Deja; _Lumiere:_ Nik Ranieri; _Cogsworth:_ Will Finn; _Mrs Potts/Chip:_ Dave Pruiksma; _Maurice:_ Ruben A. Aquino; _Le Fou:_ Chris Wahl; _Philippe:_ Russ Edmonds
-
-_Clean-up Artistic Supervisor:_ Vera Lanpher
-
-_Computer Graphic Images Artistic Supervisor:_
-
-Jim Hillin
-
-_Effects Graphics:_ Bernie Gagliano
-
+Barbara Wiles  
+_Supervising Animators:_ _Belle:_ James Baxter, Mark Henn; _Beast:_ Glen Keane; _Gaston:_ Andreas Deja; _Lumiere:_ Nik Ranieri; _Cogsworth:_ Will Finn; _Mrs Potts/Chip:_ Dave Pruiksma; _Maurice:_ Ruben A. Aquino; _Le Fou:_ Chris Wahl; _Philippe:_ Russ Edmonds  
+_Clean-up Artistic Supervisor:_ Vera Lanpher  
+_Computer Graphic Images Artistic Supervisor:_ Jim Hillin  
+_Effects Graphics:_ Bernie Gagliano  
 _Special Effects Supervising Animators:_
-
-Dave Bossert, Dorse Lanpher, Ted Kierscey,
-
-Mark Myer
-
+Dave Bossert, Dorse Lanpher, Ted Kierscey, Mark Myer  
 _Special Effects Animators:_ Ed Coffey,
-
-Chris Jenkins, Christine Harding, Eusebio Torres, Kelvin Yasuda
-
+Chris Jenkins, Christine Harding, Eusebio Torres, Kelvin Yasuda  
 _Special Effects Breakdown/Inbetweeners:_ Kennard Betts, Peter Demund, Paul Lewis, Masa Oshiro, Kristine Brown, Sandra M. Groeneveld, Dan Lund, Lisa Ann Reinert, Tony West
 
 _Computer Animations:_ Linda Bel, Greg Griffith, James R. Tooley
@@ -127,20 +84,11 @@ _Layout Artistic Supervisor:_ Ed Ghertner
 
 _Background Artistic Supervisor:_ Lisa Keene
 
-_Florida Background Artistic Supervisor:_
-
-Richard John Sluiter
-
-_Ink and Paint Manager:_
-
-Gretchen Maschmeyer Albrecht
-
-_Paint Supervisor:_ Hortensia M. Casagran
-
-_Editor:_ John Carnochan
-
-_Associate Editor:_ Gregory Perler
-
+_Florida Background Artistic Supervisor:_ Richard John Sluiter  
+_Ink and Paint Manager:_ Gretchen Maschmeyer Albrecht  
+_Paint Supervisor:_ Hortensia M. Casagran  
+_Editor:_ John Carnochan  
+_Associate Editor:_ Gregory Perler  
 _Art Director:_ Brian McEntee  
 _Scene Planning Supervisor:_ Ann Tucker  
 _Title Design:_ Saxon/Ross Film Design  
@@ -184,5 +132,5 @@ Frank Welker _(foot stool)_
 USA 1991©  
 91 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTQwOTcyN119
+eyJoaXN0b3J5IjpbMTQ5NjY3MzY3NywtMjI1NDA5NzI3XX0=
 -->
