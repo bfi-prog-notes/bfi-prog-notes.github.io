@@ -7,7 +7,7 @@ readtime: true
 categories: ['MAKING MAGIC<BR>100 YEARS OF DISNEY']
 tags: [Comedy, Fantasy, Musical, Animation, Children]
 metadata: 'USA 1991, 91 mins<br> Directors: Gary Trousdale, Kirk Wise'
-pdf: '2023-07-16-hocus-pocus.pdf'
+pdf: '2023-07-23-beauty-and-the-beast.pdf'
 ---
 Disney’s _Beauty and the Beast_ is a tale of transformation, narrated in the overtly stylised fashion of Broadway. Accounts of the film’s production tend to foreground not directors Kirk Wise and Gary Trousdale, but animator Glen Keane, who supervised the reforming Beast, and lyricist Howard Ashman, who directed the singers from his sickbed as he lay dying from AIDS. The musician Alan Menken deserves equal credit, but his lush style, unlike Ashman’s pawky lyrics, was sadly institutionalised in subsequent Disney films_._
 
@@ -42,14 +42,10 @@ _Executive Producer:_ Howard Ashman
 _Producer:_ Don Hahn  
 _Associate Producer:_ Sarah McArthur  
 _Production Manager:_ Baker Bloodworth  
-_Pre-production Manager:_ Ron Rocha
-
-_Senior Production Co-ordinator:_ Rozanne Cazian
-
-_Production Consultants:_ Hans Bacher, Mel Shaw
-
-_Casting:_ Albert Tavares
-
+_Pre-production Manager:_ Ron Rocha  
+_Senior Production Co-ordinator:_ Rozanne Cazian  
+_Production Consultants:_ Hans Bacher, Mel Shaw  
+_Casting:_ Albert Tavares  
 _Screenplay:_ Linda Woolverton  
 _Story Artistic Supervisor:_ Roger Allers  
 _Story:_ Brenda Chapman, Burny Mattinson, Brian Pimental, Joe Ranft, Kelly Asbury, Christopher Sanders, Kevin Harkey, Bruce Woodside, Tom Ellery, Robert Lence  
@@ -75,14 +71,10 @@ _Special Effects Supervising Animators:_
 Dave Bossert, Dorse Lanpher, Ted Kierscey, Mark Myer  
 _Special Effects Animators:_ Ed Coffey,
 Chris Jenkins, Christine Harding, Eusebio Torres, Kelvin Yasuda  
-_Special Effects Breakdown/Inbetweeners:_ Kennard Betts, Peter Demund, Paul Lewis, Masa Oshiro, Kristine Brown, Sandra M. Groeneveld, Dan Lund, Lisa Ann Reinert, Tony West
-
-_Computer Animations:_ Linda Bel, Greg Griffith, James R. Tooley
-
-_Layout Artistic Supervisor:_ Ed Ghertner
-
-_Background Artistic Supervisor:_ Lisa Keene
-
+_Special Effects Breakdown/Inbetweeners:_ Kennard Betts, Peter Demund, Paul Lewis, Masa Oshiro, Kristine Brown, Sandra M. Groeneveld, Dan Lund, Lisa Ann Reinert, Tony West  
+_Computer Animations:_ Linda Bel, Greg Griffith, James R. Tooley  
+_Layout Artistic Supervisor:_ Ed Ghertner  
+_Background Artistic Supervisor:_ Lisa Keene  
 _Florida Background Artistic Supervisor:_ Richard John Sluiter  
 _Ink and Paint Manager:_ Gretchen Maschmeyer Albrecht  
 _Paint Supervisor:_ Hortensia M. Casagran  
@@ -214,6 +206,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTQxNDc2NywzNTA1MzM2NDUsLTIyNT
-QwOTcyN119
+eyJoaXN0b3J5IjpbLTE0NDI3MjUwNTQsMzUwNTMzNjQ1LC0yMj
+U0MDk3MjddfQ==
 -->
