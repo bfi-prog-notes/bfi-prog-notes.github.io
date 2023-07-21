@@ -6,7 +6,7 @@ date: 2023-07-23
 readtime: true
 categories: ['MAKING MAGIC<BR>100 YEARS OF DISNEY']
 tags: [Comedy, Fantasy, Musical, Animation, Children]
-metadata: 'USA 1993, 96 mins<br> Director: Kenny Ortega'
+metadata: 'USA 1991, 91 mins<br> Directors: Gary Trousdale, Kirk Wise'
 pdf: '2023-07-16-hocus-pocus.pdf'
 ---
 Disney’s _Beauty and the Beast_ is a tale of transformation, narrated in the overtly stylised fashion of Broadway. Accounts of the film’s production tend to foreground not directors Kirk Wise and Gary Trousdale, but animator Glen Keane, who supervised the reforming Beast, and lyricist Howard Ashman, who directed the singers from his sickbed as he lay dying from AIDS. The musician Alan Menken deserves equal credit, but his lush style, unlike Ashman’s pawky lyrics, was sadly institutionalised in subsequent Disney films_._
@@ -214,5 +214,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwNTMzNjQ1LC0yMjU0MDk3MjddfQ==
+eyJoaXN0b3J5IjpbMjEyMTQxNDc2NywzNTA1MzM2NDUsLTIyNT
+QwOTcyN119
 -->
