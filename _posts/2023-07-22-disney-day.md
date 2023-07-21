@@ -160,82 +160,44 @@ Wed 2 Aug 20:20; Tue 8 Aug 14:20; Sat 26 Aug 15:30
 
 Thu 3 Aug 14:20; Sun 6 Aug 13:00; Wed 16 Aug 20:45; Wed 30 Aug 14:20
 
-**Beaches**
-
-Thu 3 Aug 18:00; Sat 19 Aug 17:30
-
-**20,000 Leagues Under the Sea**
-
-Fri 4 Aug 18:00; Sun 13 Aug 18:10; Tue 22 Aug 14:20; Wed 23 Aug 20:20
-
-**101 Dalmatians**
-
-Sat 5 Aug 13:20; Thu 10 Aug 14:20; Sat 19 Aug 15:30; Tue 29 Aug 14:20
-
-**Bedknobs and Broomsticks**
-
-Sat 5 Aug 15:40; Thu 17 Aug 14:20; Sun 27 Aug 18:20
-
-**Sister Act**
-
-Sat 5 Aug 20:40; Fri 18 Aug 18:20
-
-**Zootropolis (aka Zootopia)**
-
-Sun 6 Aug 13:10; Fri 25 Aug 18:00
-
-**Silent Cinema: Disney’s Silent Shorts + intro**
-
-Sun 6 Aug 15:30
-
-**Freaky Friday**
-
-Sun 6 Aug 18:20; Fri 18 Aug 20:30; Thu 24 Aug 20:50
-
-**The Parent Trap**
-
-Mon 7 Aug 18:00; Sun 20 Aug 15:10
-
-**Pinocchio**
-
-Wed 9 Aug 14:20; Sat 12 Aug 11:30 (+ extended intro); Mon 14 Aug 14:20; Sun 20 Aug 19:00
-
-**Mary Poppins**
-
-Wed 9 Aug 17:50; Mon 21 Aug 14:20; Mon 28 Aug 13:00
-
-**Up**
-
-Wed 9 Aug 20:30; Mon 28 Aug 12:30
-
-**The Love Bug**
-
-Fri 11 Aug 20:30; Sat 12 Aug 11:50; Sun 20 Aug 13:30
-
-**A Disney Day for Young Audiences**
-
-Sat 12 Aug 11:30-16:30
-
-**Tarzan**
-
-Sat 12 Aug 18:00; Sat 26 Aug 12:00
-
-**Soul**
-
-Sat 12 Aug 20:30; Sat 19 Aug 13:00; Thu 24 Aug 14:20
-
-**The Lion King**
-
-Sun 13 Aug 13:00 (+ Funday Sing-along); Sat 26 Aug 20:30; Thu 31 Aug 14:20
-
-**The Fiendishly Difficult Disney Quiz**
-
-Sun 13 Aug 15:30 Blue Room
-
-**Bambi**
-
-Sun 13 Aug 15:50; Wed 16 Aug 14:20; Sat 26 Aug 12:20; Mon 28 Aug 16:20
-
+**Beaches**  
+Thu 3 Aug 18:00; Sat 19 Aug 17:30  
+**20,000 Leagues Under the Sea**  
+Fri 4 Aug 18:00; Sun 13 Aug 18:10; Tue 22 Aug 14:20; Wed 23 Aug 20:20  
+**101 Dalmatians**  
+Sat 5 Aug 13:20; Thu 10 Aug 14:20; Sat 19 Aug 15:30; Tue 29 Aug 14:20  
+**Bedknobs and Broomsticks**  
+Sat 5 Aug 15:40; Thu 17 Aug 14:20; Sun 27 Aug 18:20  
+**Sister Act**  
+Sat 5 Aug 20:40; Fri 18 Aug 18:20  
+**Zootropolis (aka Zootopia)**  
+Sun 6 Aug 13:10; Fri 25 Aug 18:00  
+**Silent Cinema: Disney’s Silent Shorts + intro**  
+Sun 6 Aug 15:30  
+**Freaky Friday**  
+Sun 6 Aug 18:20; Fri 18 Aug 20:30; Thu 24 Aug 20:50  
+**The Parent Trap**  
+Mon 7 Aug 18:00; Sun 20 Aug 15:10  
+**Pinocchio**  
+Wed 9 Aug 14:20; Sat 12 Aug 11:30 (+ extended intro); Mon 14 Aug 14:20; Sun 20 Aug 19:00  
+**Mary Poppins**  
+Wed 9 Aug 17:50; Mon 21 Aug 14:20; Mon 28 Aug 13:00  
+**Up**  
+Wed 9 Aug 20:30; Mon 28 Aug 12:30  
+**The Love Bug**  
+Fri 11 Aug 20:30; Sat 12 Aug 11:50; Sun 20 Aug 13:30  
+**A Disney Day for Young Audiences**  
+Sat 12 Aug 11:30-16:30  
+**Tarzan**  
+Sat 12 Aug 18:00; Sat 26 Aug 12:00  
+**Soul**  
+Sat 12 Aug 20:30; Sat 19 Aug 13:00; Thu 24 Aug 14:20  
+**The Lion King**  
+Sun 13 Aug 13:00 (+ Funday Sing-along); Sat 26 Aug 20:30; Thu 31 Aug 14:20  
+**The Fiendishly Difficult Disney Quiz**    
+Sun 13 Aug 15:30 Blue Room  
+**Bambi**  
+Sun 13 Aug 15:50; Wed 16 Aug 14:20; Sat 26 Aug 12:20; Mon 28 Aug 16:20  
 **The Rescuers**  
 Mon 14 Aug 18:30; Sat 19 Aug 15:50  
 **Ratatouille**  
@@ -248,5 +210,5 @@ Sun 27 Aug 16:00; Mon 28 Aug 16:40
 
 With thanks to The Walt Disney Company  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyNTE5MDkzXX0=
+eyJoaXN0b3J5IjpbMjAzNjUyMjYyOV19
 -->
