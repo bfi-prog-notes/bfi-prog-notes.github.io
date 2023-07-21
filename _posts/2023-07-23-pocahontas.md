@@ -1,6 +1,14 @@
-
-
-
+---
+layout: post
+title: Pocahontas
+published: true
+date: 2023-07-23
+readtime: true
+categories: ['MAKING MAGIC<BR>100 YEARS OF DISNEY']
+tags: [Adventure, Animation, Children]
+metadata: 'USA 1995, 81 mins<br> Directors: Gary Trousdale, Kirk Wise'
+pdf: '2023-07-23-beauty-and-the-beast.pdf'
+---
 
 Upon reaching the ‘new world’, a group of settlers begin to seize gold and land belonging to its indigenous peoples. Captain John Smith and Pocahontas, the daughter of Chief Powhatan, find themselves drawn to each other, but the relationship is fraught with danger as their very different worlds collide.
 
@@ -54,17 +62,10 @@ _Visual Effects Supervisors:_ Don Paul
 _Visual Development/Character Design:_
 Vance Gerry, Mike Gabriel, Bruce Zick, Darek Gogol, Jean Gillmore, Duncan Marjoribanks, Will Finn, Joe Grant, Michael Giaimo, Guy Deel, Ian Gooding, Glen Keane, Chris Buck, Kathy Zielinski  
 _Digital Film Printing/Optical Supervisor:_ Christopher W. Gee  
-_Computer Graphics Imagery:_ Steve Goldberg
-
-_Artistic Supervisors:_ _Layout:_ Rasoul Azadani; _Background:_ Cristy Maltese; _Story:_ Tom Sito; _Clean-up:_ Renee Holt-Bird, Nancy Kniep
-
-_Supervising Animators: Pocahontas:_ Glen Keane; _John Smith:_ John Pomeroy; _Governor Ratcliffe:_ Duncan Marjoribanks; _Meeko:_ Nik Ranieri; _Powhatan:_ Ruben A. Aquino; _Thomas:_ Ken Duncan; _Percy/Grandmother Willow/Wiggins:_ Chris Buck; _Ben/Lon:_ T. Daniel Hofstedt; _Flit/Forest Animals:_ Dave Pruiksma; _Nakoma:_ Anthony DeRosa; _Kocoum:_ Michael Cedeno
-
-_Effects Animators:_ Dorse Lanpher, Ed Coffey, Garrett Wren, Ted C. Kierscey, Tom Hush,
-
-Stephen B. Moore, Kathleen Quaife Hodge,
-
-Marlon West, James De V. Mansfield, Allen Blyth, Troy A. Gustafson, Jazno Francoeur  
+_Computer Graphics Imagery:_ Steve Goldberg  
+_Artistic Supervisors:_ _Layout:_ Rasoul Azadani; _Background:_ Cristy Maltese; _Story:_ Tom Sito; _Clean-up:_ Renee Holt-Bird, Nancy Kniep  
+_Supervising Animators: Pocahontas:_ Glen Keane; _John Smith:_ John Pomeroy; _Governor Ratcliffe:_ Duncan Marjoribanks; _Meeko:_ Nik Ranieri; _Powhatan:_ Ruben A. Aquino; _Thomas:_ Ken Duncan; _Percy/Grandmother Willow/Wiggins:_ Chris Buck; _Ben/Lon:_ T. Daniel Hofstedt; _Flit/Forest Animals:_ Dave Pruiksma; _Nakoma:_ Anthony DeRosa; _Kocoum:_ Michael Cedeno  
+_Effects Animators:_ Dorse Lanpher, Ed Coffey, Garrett Wren, Ted C. Kierscey, Tom Hush, Stephen B. Moore, Kathleen Quaife Hodge, Marlon West, James De V. Mansfield, Allen Blyth, Troy A. Gustafson, Jazno Francoeur  
 _3-D Effects:_ David A. Bossert, Stephen B. Moore, Daniel E. Wanket, Ed Coffey, Dan Chaika  
 _Pre-production Effects Development:_ David A. Bossert, Chris Jenkins  
 _Scene Planning Supervisor:_ Ann Tucker  
@@ -129,5 +130,6 @@ USA 1995©
 With thanks to The Walt Disney Company
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzk4MDIzMSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNjc4ODIyNDg5LC04MDc5ODAyMzEsNzMwOT
+k4MTE2XX0=
 -->
