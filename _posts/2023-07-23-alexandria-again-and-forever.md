@@ -32,12 +32,8 @@ The third number takes place in the heart of Cairo. Yahia is now courting Nadia.
 The issue of inferiority in this autobiographical trilogy recalls many of Bergman’s films and particularly Fellini’s _8 1/2._ The intimation of mortality is the driving force behind Fosse’s _All That Jazz_, John Boorman’s _Hope and Glory_ also comes to mind, for it is explicitly autobiographical, with the young Boorman experiencing World War II. Chahine’s trilogy differs from all these confessional films in that it casts a wider net. Chahine and Egypt are centre stage. By baring his soul, Chahine is inviting Egyptians to come to terms with themselves. Without being didactic, he appeals to Egypt to recognise that pluralism, variety and nonconformity can be vibrant and positive. The mix produces healthy individuals, without whom a healthy nation cannot exist. For Egypt to restore her equilibrium – if not her glory – Egyptians should be diverse in personal pursuit but united in national spirit. The welfare of the nation and that of the individual are inseparable.  
 **Ibrahim Fawal, _BFI World Directors: Youssef Chahine_ (BFI Publishing, 2002) Reproduced by kind permission of Bloomsbury Publishing. ©Ibrahim Fawal**  
 <br>
-<![endif]-->
 
-**ALEXANDRIA AGAIN AND FOREVER**
-
-**(ISKANDARIYA, KAMAN WA KAMAN)**
-
+**ALEXANDRIA AGAIN AND FOREVER (ISKANDARIYA, KAMAN WA KAMAN)**  
 _Director_: Youssef Chahine  
 _Production Companies_: Misr International Films, Paris Classics Production, La Sept  
 _With the participation of_: Ministère de la Culture et de la Communication, Le Ministère des Affaires Étrangères  
@@ -65,7 +61,7 @@ _Sound_: Olivier Schwob, Olivier Varenne
 _Mixer_: Dominique Hennequin  
 _Sound Editor_: Olivier Ducastel
 
-**Cast**  
+**Cast**    
 Yousra _(Nadia)_  
 Youssef Chahine _(Yahia)_  
 Hussein Fahmy _(Stelio)_  
@@ -102,6 +98,85 @@ France/Egypt 1990
 109 mins  
 
 Restored by Cinémathèque française, Orange Studio and Misr International Films, with the support of CNC, and Association Youssef Chahine  
+<br>
+**DRAMA AND DESIRE: THE FILMS OF YOUSSEF CHAHINE**  
+**Daddy Amin aka Father Amin (Baba Amin)**  
+Sat 1 Jul 15:30; Wed 12 Jul 20:30  
+**Dark Waters (Seraa Fil Mina)**  
+Sat 1 Jul 20:30; Sat 15 Jul 18:00  
+**The Devil of the Desert (Shaitan el Saharaa)**  
+Sun 2 Jul 18:20; Mon 17 Jul 20:40  
+**The Youssef Chahine Story**  
+Mon 3 Jul 18:10  
+**The Blazing Sun (Seraa Fil Wadi)**  
+Mon 3 Jul 20:20 + intro by season curator Elhum Shakerifar; Sat 15 Jul 12:30  
+**My One and Only Love aka You Are My Love (Enta Habibi)**  
+Tue 4 Jul 20:40; Sun 16 Jul 12:50  
+**Cairo Station (Bab El Hadid)**  
+Fri 7 Jul 18:00; Sat 29 Jul 15:00  
+**Dawn of a New Day (Fagr Yom Guedid)**  
+Sat 8 Jul 15:30; Wed 19 Jul 20:25  
+**Saladin aka Saladin the Victorious aka Saladin and the Great Crusades (Al-Nasser Salah Al-Din)**  
+Sun 9 Jul 14:30; Sat 29 Jul 17:00  
+**The Land (El Ard)**  
+Sun 9 Jul 18:00; Thu 26 Jul 18:00 + intro by filmmaker May Abdalla  
+**The Sparrow (Al Asfour)**  
+Mon 10 Jul 18:15 + intro by poet and essayist Momtaza Mehri; Thu 20 Jul 20:50  
+**Return of the Prodigal Son (Awdet Ell Ibn El Dal)**  
+Fri 14 Jul 18:00; Sat 22 Jul 20:20 + intro by novelist Ahdaf Soueif  
+**Alexandria... Why? (Iskindereya Leh)**  
+Sun 16 Jul 15:10; Sat 22 Jul 11:30  
+**An Egyptian Story (Hadouta Masriya)**  
+Sun 16 Jul 18:15; Sat 22 Jul 14:40  
+**The Sixth Day (Al Yom El Sades)**  
+Tue 18 Jul 20:30; Mon 24 Jul 18:00  
+**Alexandria Again and Forever (Iskindereya Kaman we Kaman)**  
+Sun 23 Jul 18:10 + intro; Fri 28 Jul 18:15  
+**The Emigrant (Al Mohager)**  
+Mon 24 Jul 20:20; Sun 30 Jul 18:10  
+**The Other (Al Akhar)**  
+Wed 26 Jul 18:00; Mon 31 Jul 20:30  
+**Destiny (Al Massir)**  
+Thu 27 Jul 20:20; Mon 31 Jul 18:05  
+
+**With thanks to**  
+<img style="float: left;" src="/img/MISR.png" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br><br><br><br>
+Misr International Films (Ahmed Sobky)  
+<br>
+
+**In cultural partnership with**  
+<img style="float: left;" src="/img/SAFAR.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/IF.png" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br><br>
+
+SAFAR Film Festival is the UK’s largest festival of Arab cinema 29 June – 9 July.  
+The festival programme includes further screenings related to this season: **safarfilmfestival.co.uk**
+
+Ciné Lumière will present a selection of Chahine titles throughout the summer:  
+**institut-francais.org.uk**
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDI1OTY2ODNdfQ==
+eyJoaXN0b3J5IjpbMTIyOTMzMDMwNF19
 -->
