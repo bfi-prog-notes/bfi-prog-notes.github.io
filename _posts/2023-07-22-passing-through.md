@@ -33,49 +33,39 @@ _How do you feel about_ Passing Through _today, 46 years after it was made?_
 
 Ousmane Sembène said that the artist must not be too far in advance of, but definitely not behind the people. The trick is to get it just right. I think _Passing Through_ did that.
 
-Interview by Kevin Le Gendre, bfi.org.uk, 12 July 2023
+**Interview by Kevin Le Gendre, bfi.org.uk, 12 July 2023**
+<br>
 
 **Tony Kofi** is a British Jazz multi-instrumentalist born of Ghanaian parents, a player of the Alto, Baritone, Soprano, Tenor saxophones and flute. Having ‘cut his teeth’ in the Jazz Warriors of the early 90’s, award-winning saxophonist Tony Kofi has gone on to establish himself as a musician, teacher and composer of some authority. As well as performing and recording with Gary Crosby’s NuTroop and Jazz Jamaica, Tony’s playing has also been a feature of many bands and artists he has worked/recorded with, including US-3, The World Saxophone Quartet, Courtney Pine, Donald Byrd, Eddie Henderson, The David Murray Big Band, Sam Rivers Rivbe Big Band, Andrew Hill Big Band, Abdullah Ibrahim, Macy Gray, Julian Joseph Big Band, Harry Connick Jr, Byron Wallen’s Indigo, Jamaaladeen Tacuma’s Coltrane Configurations and Ornette Coleman. His fluent and fiery hard-bop style makes him constantly in demand. He currently leads his own Tony Kofi Quartet, Tony Kofi Sphinx Trio, Future Passed Trio and is also the co-founder with Jonathan Gee of the Monk Liberation Front, a group that is dedicated to the music of Thelonious Monk. Tony’s latest project sees him performing with Alex Webb’s Café Society Swing, Arnie Somogyi’s Jump Monk, Larry Bartley’s JustUS Quartet, Adrian Reid Quartet, a double leaders project with Alan Barnes called Aggregation, Orphy Robinson’s Bobby Hutcherson songbook project, Alina Bzhezhinska Quartet, Jo Harrop’s Fever, Portrait of Cannonball (Music dedicated to Cannonball Adderley) Tony Kofi and the Organisation, a recent project which he co leads on the Baritone Saxophone.
 
 **Kevin Le Gendre** is a British journalist, broadcaster and author whose work focuses on Black music. He is deputy editor of _Echoes_ magazine, has written for a wide range of publications including _Jazzwise_, _MusicWeek_, _Vibrations_ and _The Independent on Sunday_ and is a contributor to such radio programmes as BBC Radio 3’s _J to Z_ and BBC Radio 4’s _Front Row_. At the 2009 Parliamentary Jazz Awards Le Gendre was chosen as ‘Jazz Journalist of the Year’. He is the author of _Soul Unsung: Reflections on the Band in Black Popular Music_ (2012), _Don’t Stop the Carnival: Black British Music: Vol 1 from the Middle Ages to the 1960s_ (2018) and _Hear My Train a Comin’: The Songs of Jimi Hendrix_ (2020).
+<br><br>
 
-<![endif]-->
-
-**PASSING THROUGH**
-
+**PASSING THROUGH**  
 _Director_: Larry Clark  
-_Production Company_: American Film Institute
-
+_Production Company_: American Film Institute  
 _Production Manager:_ Penny Bannerman  
-_Screenplay_: Ted Lange, Larry Clark  
-_Photography_: Roderick R. Young, George Geddis
-
-_Camera Operators:_ Charles Burnett, Bob Allen, Myko Clark
-
-_Editor:_ Larry Clark
-
+_Screenplay_: Ted Lange    
+_Photography_: Roderick R. Young, George Geddis  
+_Camera Operators:_ Charles Burnett, Bob Allen, Myko Clark  
+_Editor:_ Larry Clark  
 _Sound:_ Julie Dash, Carol Vasunaga
 
-_Cast:_
-
+**Cast**  
 Nathaniel Taylor _(Eddie Warmack)_  
 Clarence Muse _(Papa Harris)_  
 Pamela B. Jones _(Maya)_  
 Johnny Weathers _(Brimmer)_  
 Bob Ogburn _(Skeeter)_  
-Della Thomas _(Carmen)_
-
-Sherryl Thompson _(Trixie)_
-
-Mwako Cumbuka _(Ajaes)_
-
-George Turner _(Turner)_
-
+Della Thomas _(Carmen)_  
+Sherryl Thompson _(Trixie)_  
+Mwako Cumbuka _(Ajaes)_  
+George Turner _(Turner)_  
 Cora Day _(Oshun)_
 
-USA 1977
-
+USA 1977  
 105 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Njk5NDMyN119
+eyJoaXN0b3J5IjpbMTM2ODQ1NDU4OV19
 -->
