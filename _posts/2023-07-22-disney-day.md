@@ -68,72 +68,39 @@ In addition to her academic pursuits, Sadeen Elyas is a dedicated Saudi musician
 
 **Hanna Flint** is a London-based author, critic, journalist and host who has been covering film and culture for nearly a decade. Her reviews, interviews and features have appeared in _GQ_, _Empire_, _The Guardian_, _Elle_ US, _Sight and Sound_, _Radio Times_, BBC Culture and elsewhere. Her recently published book _Strong Female Character_, is an unflinchingly honest and humorous account of her millennial journey towards self-acceptance through a cinematic lens. She is a frequent guest on BBC Radio 4’s _Front Row_, the co-host of MTV Movies and the weekly film review podcast Fade to Black, the co-founder of The First Film Club event series and podcast, and a member of London’s Critics’ Circle. She is a voice for gender equality, diversity and inclusion in the entertainment industry and an advocate for MENA representation as a writer of Tunisian heritage.
 <br>
-<![endif]-->
 
-**MAKING MAGIC:**
-
-**100 YEARS OF DISNEY**
-
-**Once Upon a Time: A Disney Day**
-
-Sat 22 Jul 12:00-17:00
-
-**Snow White and the Seven Dwarfs + Thru the Mirror**
-
-Sat 22 Jul 17:45; Mon 24 Jul 14:20
-
-**Who Framed Roger Rabbit + Tummy Trouble + Rollercoaster Rabbit**
-
-Sat 22 Jul 20:30
-
-**Toy Story + The Adventures of Andre & Wally B. + Luxo Jr. + Red’s Dream**
-
-Sun 23 Jul 12:50; Sat 29 Jul 16:00
-
-**Tangled + Tangled ever After**
-
-Sun 23 Jul 13:10
-
-**Toy Story 2 + Tin Toy + Knick Knack**
-
-Sun 23 Jul 15:30
-
-**Pocahontas + Lava**
-
-Sun 23 Jul 15:40; Fri 28 Jul 14:20; Sat 29 Jul 20:40
-
-**Dinosaur + Get a Horse!**
-
-Sun 23 Jul 18:15
-
-**Beauty and the Beast + Tick Tock Tale**
-
-Mon 24 Jul 18:05; Thu 27 Jul 14:20
-
-**UK premiere of 4K Restoration: Cinderella + Trailer Horn**
-
-Tue 25 Jul 14:20
-
-**Sleeping Beauty + Magician Mickey**
-
-Wed 26 Jul 14:20
-
-**Hocus Pocus** Wed 26 Jul 20:40
-
-**Fantasia + Toot, Whistle, Plunk and Boom**
-
-Thu 27 Jul 17:50
-
-**TRON: Legacy + Sanjay’s Super Team**
-
-Fri 28 Jul 20:20
-
-**WALL-E + BURN-E**
-
-Sat 29 Jul 12:30
-
-**Moana + Inner Workings**
-
+**MAKING MAGIC: 100 YEARS OF DISNEY**  
+**Once Upon a Time: A Disney Day**  
+Sat 22 Jul 12:00-17:00  
+**Snow White and the Seven Dwarfs + Thru the Mirror**  
+Sat 22 Jul 17:45; Mon 24 Jul 14:20  
+**Who Framed Roger Rabbit + Tummy Trouble + Rollercoaster Rabbit**  
+Sat 22 Jul 20:30  
+**Toy Story + The Adventures of Andre & Wally B. + Luxo Jr. + Red’s Dream**  
+Sun 23 Jul 12:50; Sat 29 Jul 16:00  
+**Tangled + Tangled ever After**  
+Sun 23 Jul 13:10  
+**Toy Story 2 + Tin Toy + Knick Knack**  
+Sun 23 Jul 15:30  
+**Pocahontas + Lava**  
+Sun 23 Jul 15:40; Fri 28 Jul 14:20; Sat 29 Jul 20:40  
+**Dinosaur + Get a Horse!**  
+Sun 23 Jul 18:15  
+**Beauty and the Beast + Tick Tock Tale**  
+Mon 24 Jul 18:05; Thu 27 Jul 14:20  
+**UK premiere of 4K Restoration: Cinderella + Trailer Horn**  
+Tue 25 Jul 14:20  
+**Sleeping Beauty + Magician Mickey**  
+Wed 26 Jul 14:20  
+**Hocus Pocus**  
+Wed 26 Jul 20:40  
+**Fantasia + Toot, Whistle, Plunk and Boom**  
+Thu 27 Jul 17:50  
+**TRON: Legacy + Sanjay’s Super Team**  
+Fri 28 Jul 20:20  
+**WALL-E + BURN-E**  
+Sat 29 Jul 12:30  
+**Moana + Inner Workings**  
 Sat 29 Jul 13:00; Mon 31 Jul 14:20  
 **Fantasia 2000**  
 Sun 30 Jul 10:30  
@@ -197,5 +164,5 @@ Sun 27 Aug 16:00; Mon 28 Aug 16:40
 
 With thanks to The Walt Disney Company  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTM3NzIzOV19
+eyJoaXN0b3J5IjpbMTUyNDM1MTgwNF19
 -->
