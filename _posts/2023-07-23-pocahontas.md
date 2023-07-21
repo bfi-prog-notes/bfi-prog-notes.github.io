@@ -57,52 +57,20 @@ _Post-production Coordinators:_ Jeanie Lynd Sorenson, Heather Jane MacDonald-Smi
 
 _Post production Manager:_ Sara Duran
 
-_Casting:_ Brian Chavanne, Ruth Lambert,
-
-Karen Margiotta
-
-_ADR Voice Casting:_ Barbara Harris, LA MadDogs
-
-_Screenplay:_ Carl Binder, Susannah Grant,
-
-Philip Lazebnik
-
-_Story:_ Glen Keane, Joe Grant, Ralph Zondag,
-
-Burny Mattinson, Ed Gombert, Kaan Kalyon, Francis Glebas, Robert Gibbs, Bruce Morris,
-
-Todd Kurosawa, Duncan Marjoribanks, Chris Buck
-
-_Based on an idea by:_ Mike Gabriel
-
-_Digitizing Camera Supervisor:_ Robyn L Roberts
-
-_Film Camera Manager:_ Joe Jiuliano
-
-_Digitizing Mark-up:_ Gina Wootten
-
-_Digitizing Camera Operators:_ David Braden,
-
-Lynette E. Cullen, Val D’Arcy, Gareth Fishbaugh, Corey Dean Fredrickson, Michael A. McFerren, David J. Rowe
-
-_Animation Camera Operators:_ John Aardal
-
-_Visual Effects Supervisors:_ Don Paul
-
+_Casting:_ Brian Chavanne, Ruth Lambert, Karen Margiotta  
+_ADR Voice Casting:_ Barbara Harris, LA MadDogs  
+_Screenplay:_ Carl Binder, Susannah Grant, Philip Lazebnik  
+_Story:_ Glen Keane, Joe Grant, Ralph Zondag, Burny Mattinson, Ed Gombert, Kaan Kalyon, Francis Glebas, Robert Gibbs, Bruce Morris, Todd Kurosawa, Duncan Marjoribanks, Chris Buck  
+_Based on an idea by:_ Mike Gabriel  
+_Digitizing Camera Supervisor:_ Robyn L Roberts  
+_Film Camera Manager:_ Joe Jiuliano  
+_Digitising Mark-up:_ Gina Wootten  
+_Digitiing Camera Operators:_ David Braden, Lynette E. Cullen, Val D’Arcy, Gareth Fishbaugh, Corey Dean Fredrickson, Michael A. McFerren, David J. Rowe  
+_Animation Camera Operators:_ John Aardal  
+_Visual Effects Supervisors:_ Don Paul  
 _Visual Development/Character Design:_
-
-Vance Gerry, Mike Gabriel, Bruce Zick,
-
-Darek Gogol, Jean Gillmore, Duncan Marjoribanks, Will Finn, Joe Grant, Michael Giaimo, Guy Deel,
-
-Ian Gooding, Glen Keane, Chris Buck,
-
-Kathy Zielinski
-
-_Digital Film Printing/Optical Supervisor:_
-
-Christopher W. Gee
-
+Vance Gerry, Mike Gabriel, Bruce Zick, Darek Gogol, Jean Gillmore, Duncan Marjoribanks, Will Finn, Joe Grant, Michael Giaimo, Guy Deel, Ian Gooding, Glen Keane, Chris Buck, Kathy Zielinski  
+_Digital Film Printing/Optical Supervisor:_ Christopher W. Gee  
 _Computer Graphics Imagery:_ Steve Goldberg
 
 _Artistic Supervisors:_ _Layout:_ Rasoul Azadani; _Background:_ Cristy Maltese; _Story:_ Tom Sito; _Clean-up:_ Renee Holt-Bird, Nancy Kniep
@@ -113,26 +81,15 @@ _Effects Animators:_ Dorse Lanpher, Ed Coffey, Garrett Wren, Ted C. Kierscey, To
 
 Stephen B. Moore, Kathleen Quaife Hodge,
 
-Marlon West, James De V. Mansfield, Allen Blyth, Troy A. Gustafson, Jazno Francoeur
-
-_3-D Effects:_ David A. Bossert, Stephen B. Moore, Daniel E. Wanket, Ed Coffey, Dan Chaika
-
-_Pre-production Effects Development:_
-
-David A. Bossert, Chris Jenkins
-
-_Scene Planning Supervisor:_ Ann Tucker
-
-_Animation Check Supervision:_ Janet Bruce
-
-_Colour Models Supervisor:_ Karen Comella
-
-_Ink and Paint Senior Manager:_ Gretchen Maschmeyer Albrecht
-
-_Ink and Paint Supervisor:_ Frances Kirsten
-
-_Paint/Final Check Supervisor:_
-Hortensia M. Casagran  
+Marlon West, James De V. Mansfield, Allen Blyth, Troy A. Gustafson, Jazno Francoeur  
+_3-D Effects:_ David A. Bossert, Stephen B. Moore, Daniel E. Wanket, Ed Coffey, Dan Chaika  
+_Pre-production Effects Development:_ David A. Bossert, Chris Jenkins  
+_Scene Planning Supervisor:_ Ann Tucker  
+_Animation Check Supervision:_ Janet Bruce  
+_Colour Models Supervisor:_ Karen Comella  
+_Ink and Paint Senior Manager:_ Gretchen Maschmeyer Albrecht  
+_Ink and Paint Supervisor:_ Frances Kirsten  
+_Paint/Final Check Supervisor:_ Hortensia M. Casagran  
 _Key Layout/Workbook:_ Daniel Hu, Allen Tam, Doug Walker, Mac George, Karen Keller, William H. Frake III, Tom Humber, Peter Bielicki  
 _Director of Technology:_ Paul Yanover  
 _Editors:_ H. Lee Peterson  
@@ -189,5 +146,5 @@ USA 1995©
 With thanks to The Walt Disney Company
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjM2NjU3OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzg0NjAwMTcsNzMwOTk4MTE2XX0=
 -->
