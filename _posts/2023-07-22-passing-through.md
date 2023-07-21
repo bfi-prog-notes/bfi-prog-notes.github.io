@@ -1,3 +1,14 @@
+---
+layout: post
+title: Passing Through
+published: true
+date: 2023-07-22
+readtime: true
+categories: ['AFRICAN ODYSSEYS']
+tags: [Drama, Music]
+metadata: 'USA 1977, 105 mins<br> Director: Larry Clark'
+pdf: '2023-07-22-passing-through.pdf'
+---
 
 _+ intro and Q&A with journalist and broadcaster Kevin Le Gendre and  musician Tony Kofi_
 
@@ -66,6 +77,43 @@ Cora Day _(Oshun)_
 USA 1977  
 105 mins
 <br><br>
+
+**EVENTS &  REGULAR PROGRAMME**<br>
+**African Odysseys: Wattstax + intro**<br>
+Sat 22 Jul 18:10<br>
+**Seniors’ Free Matinee: Summertime  (aka Summer Madness) + intro**<br>
+Mon 24 Jul 14:00<br>
+**Art in the Making: Sickert's London + intro by historian, writer and artist** **Kate Aspinall** **+ Walter Sickert: Painter of the Third Floor Back**<br>
+Tue 25 Jul 18:10<br>
+**Silent Cinema: The Signal Tower  + intro by film historian Kevin Brownlow**<br>
+Sun 30 Jul 15:40<br>
+**Relaxed Screening:  Fantasia + intro and discussion**<br>
+Mon 31 Jul 18:00<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTM2ODQ1NDU4OV19
 -->
