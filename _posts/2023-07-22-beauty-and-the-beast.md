@@ -159,24 +159,13 @@ _Music Director:_ David Friedman
 
 _Orchestrations:_ Danny Troob
 
-_Additional Orchestrations:_ Michael Starobin
-
-_Music Producers:_ Howard Ashman, Alan Menken
-
-_Supervising Music Editor:_ Kathleen Bennett
-
-_Music Sound Recordists:_ Michael Farrow,
-
-John Richards
-
-_Sound Re-recording:_ Terry Porter, Mel Metcalfe, David J. Hudson, Denis Blackerby
-
-_Sound Editors:_ Julia Evershade, Michael Benavente, Jessica Gallavan, J.H. Arrufat,
-
-Ron Bartlett
-
-_Sound Effects:_ Mark Mangini, Dave Stone
-
+_Additional Orchestrations:_ Michael Starobin  
+_Music Producers:_ Howard Ashman, Alan Menken  
+_Supervising Music Editor:_ Kathleen Bennett  
+_Music Sound Recordists:_ Michael Farrow, John Richards  
+_Sound Re-recording:_ Terry Porter, Mel Metcalfe, David J. Hudson, Denis Blackerby  
+_Sound Editors:_ Julia Evershade, Michael Benavente, Jessica Gallavan, J.H. Arrufat, Ron Bartlett  
+_Sound Effects:_ Mark Mangini, Dave Stone  
 _Special Sound Effects:_ John P.  
 _Special Vocal Effects:_ Frank Welker  
 _ADR Recordists:_ Doc Kane, Vince Caro  
@@ -204,5 +193,5 @@ Frank Welker _(foot stool)_
 USA 1991©  
 91 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTU2OTIzXX0=
+eyJoaXN0b3J5IjpbLTY2MTExMzUyMV19
 -->
