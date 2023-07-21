@@ -5,9 +5,9 @@ published: true
 date: 2023-07-22
 readtime: true
 categories: ['MAKING MAGIC<BR>100 YEARS OF DISNEY']
-tags: [Comedy, Fantasy, Musical, Animation, Children]
-metadata: 'USA 1991, 91 mins<br> Directors: Gary Trousdale, Kirk Wise'
-pdf: '2023-07-23-beauty-and-the-beast.pdf'
+tags: [Talk]
+metadata: ''
+pdf: '2023-07-22-dsiney-day.pdf'
 ---
 
 Dive deeper into the fascinating history of the Disney studio in this afternoon of richly illustrated talks and discussions, including a session from the Fantasy/Animation podcast. Our expert speakers will discuss key themes emerging from the Disney universe, including the representation of female characters, the use of music, and the importance of technological advances, among others.
@@ -67,6 +67,186 @@ In addition to her academic pursuits, Sadeen Elyas is a dedicated Saudi musician
 **Dr Robyn Muir** is a Lecturer in Media and Communication at the University of Surrey. Her research focuses on the images of femininity within the Disney Princess Phenomenon. She has recently published her book exploring the representation of the princesses in their films and consumer and experiences across time – _The Disney Princess Phenomenon: A Feminist Analysis_. She is the founder and director of the Disney, Culture and Society Research Network.
 
 **Hanna Flint** is a London-based author, critic, journalist and host who has been covering film and culture for nearly a decade. Her reviews, interviews and features have appeared in _GQ_, _Empire_, _The Guardian_, _Elle_ US, _Sight and Sound_, _Radio Times_, BBC Culture and elsewhere. Her recently published book _Strong Female Character_, is an unflinchingly honest and humorous account of her millennial journey towards self-acceptance through a cinematic lens. She is a frequent guest on BBC Radio 4’s _Front Row_, the co-host of MTV Movies and the weekly film review podcast Fade to Black, the co-founder of The First Film Club event series and podcast, and a member of London’s Critics’ Circle. She is a voice for gender equality, diversity and inclusion in the entertainment industry and an advocate for MENA representation as a writer of Tunisian heritage.
+<br>
+<![endif]-->
+
+**MAKING MAGIC:**
+
+**100 YEARS OF DISNEY**
+
+**Once Upon a Time: A Disney Day**
+
+Sat 22 Jul 12:00-17:00
+
+**Snow White and the Seven Dwarfs + Thru the Mirror**
+
+Sat 22 Jul 17:45; Mon 24 Jul 14:20
+
+**Who Framed Roger Rabbit + Tummy Trouble + Rollercoaster Rabbit**
+
+Sat 22 Jul 20:30
+
+**Toy Story + The Adventures of Andre & Wally B. + Luxo Jr. + Red’s Dream**
+
+Sun 23 Jul 12:50; Sat 29 Jul 16:00
+
+**Tangled + Tangled ever After**
+
+Sun 23 Jul 13:10
+
+**Toy Story 2 + Tin Toy + Knick Knack**
+
+Sun 23 Jul 15:30
+
+**Pocahontas + Lava**
+
+Sun 23 Jul 15:40; Fri 28 Jul 14:20; Sat 29 Jul 20:40
+
+**Dinosaur + Get a Horse!**
+
+Sun 23 Jul 18:15
+
+**Beauty and the Beast + Tick Tock Tale**
+
+Mon 24 Jul 18:05; Thu 27 Jul 14:20
+
+**UK premiere of 4K Restoration: Cinderella + Trailer Horn**
+
+Tue 25 Jul 14:20
+
+**Sleeping Beauty + Magician Mickey**
+
+Wed 26 Jul 14:20
+
+**Hocus Pocus** Wed 26 Jul 20:40
+
+**Fantasia + Toot, Whistle, Plunk and Boom**
+
+Thu 27 Jul 17:50
+
+**TRON: Legacy + Sanjay’s Super Team**
+
+Fri 28 Jul 20:20
+
+**WALL-E + BURN-E**
+
+Sat 29 Jul 12:30
+
+**Moana + Inner Workings**
+
+Sat 29 Jul 13:00; Mon 31 Jul 14:20
+
+**Fantasia 2000**
+
+Sun 30 Jul 10:30
+
+**Frozen + Frozen Fever**
+
+Sun 30 Jul 12:40
+
+**Finding Nemo**
+
+Tue 1 Aug 14:20; Sun 13 Aug 18:30; Sun 27 Aug 13:30
+
+**Luca**
+
+Wed 2 Aug 14:20; Mon 14 Aug 20:30; Sun 27 Aug 13:15
+
+**Turning Red**
+
+Wed 2 Aug 20:20; Tue 8 Aug 14:20; Sat 26 Aug 15:30
+
+**The Jungle Book**
+
+Thu 3 Aug 14:20; Sun 6 Aug 13:00; Wed 16 Aug 20:45; Wed 30 Aug 14:20
+
+**Beaches**
+
+Thu 3 Aug 18:00; Sat 19 Aug 17:30
+
+**20,000 Leagues Under the Sea**
+
+Fri 4 Aug 18:00; Sun 13 Aug 18:10; Tue 22 Aug 14:20; Wed 23 Aug 20:20
+
+**101 Dalmatians**
+
+Sat 5 Aug 13:20; Thu 10 Aug 14:20; Sat 19 Aug 15:30; Tue 29 Aug 14:20
+
+**Bedknobs and Broomsticks**
+
+Sat 5 Aug 15:40; Thu 17 Aug 14:20; Sun 27 Aug 18:20
+
+**Sister Act**
+
+Sat 5 Aug 20:40; Fri 18 Aug 18:20
+
+**Zootropolis (aka Zootopia)**
+
+Sun 6 Aug 13:10; Fri 25 Aug 18:00
+
+**Silent Cinema: Disney’s Silent Shorts + intro**
+
+Sun 6 Aug 15:30
+
+**Freaky Friday**
+
+Sun 6 Aug 18:20; Fri 18 Aug 20:30; Thu 24 Aug 20:50
+
+**The Parent Trap**
+
+Mon 7 Aug 18:00; Sun 20 Aug 15:10
+
+**Pinocchio**
+
+Wed 9 Aug 14:20; Sat 12 Aug 11:30 (+ extended intro); Mon 14 Aug 14:20; Sun 20 Aug 19:00
+
+**Mary Poppins**
+
+Wed 9 Aug 17:50; Mon 21 Aug 14:20; Mon 28 Aug 13:00
+
+**Up**
+
+Wed 9 Aug 20:30; Mon 28 Aug 12:30
+
+**The Love Bug**
+
+Fri 11 Aug 20:30; Sat 12 Aug 11:50; Sun 20 Aug 13:30
+
+**A Disney Day for Young Audiences**
+
+Sat 12 Aug 11:30-16:30
+
+**Tarzan**
+
+Sat 12 Aug 18:00; Sat 26 Aug 12:00
+
+**Soul**
+
+Sat 12 Aug 20:30; Sat 19 Aug 13:00; Thu 24 Aug 14:20
+
+**The Lion King**
+
+Sun 13 Aug 13:00 (+ Funday Sing-along); Sat 26 Aug 20:30; Thu 31 Aug 14:20
+
+**The Fiendishly Difficult Disney Quiz**
+
+Sun 13 Aug 15:30 Blue Room
+
+**Bambi**
+
+Sun 13 Aug 15:50; Wed 16 Aug 14:20; Sat 26 Aug 12:20; Mon 28 Aug 16:20
+
+**The Rescuers**  
+Mon 14 Aug 18:30; Sat 19 Aug 15:50  
+**Ratatouille**  
+Sat 19 Aug 12:00; Tue 29 Aug 20:30  
+**Dick Tracy**  
+Fri 25 Aug 20:40; Tue 29 Aug 18:10  
+(+ intro by Ben Roberts, BFI CEO)  
+**The Little Mermaid**  
+Sun 27 Aug 16:00; Mon 28 Aug 16:40  
+
+With thanks to The Walt Disney Company  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODIzNjM5MDFdfQ==
+eyJoaXN0b3J5IjpbNzYyNTE5MDkzXX0=
 -->
