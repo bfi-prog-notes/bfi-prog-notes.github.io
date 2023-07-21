@@ -20,7 +20,189 @@ The critic Marina Warner wrote of Keane’s Beast as ‘male desire incarnate; h
 
 Keane drew another muscled Disney hero in 1999’s _Tarzan_, but that character’s physique outstripped his personality. CGI films have relegated monsters to comic or cuddly duties, while _Shrek_ tried revising _Beauty and the Beast_ by turning a beautiful princess into a homely ogress. Hayao Miyazaki’s _Howl’s Moving Castle_ contrasted its hero’s monstrous transformations with a girl’s empowering human changes, from young to old and all points between.  
 **Andrew Osmond, _100 Animated Feature Films_ (BFI/Palgrave Macmillan, 2010) Reproduced by kind permission of Bloomsbury Publishing. ©Andrew Osmond**  
+<br>
+<![endif]-->
 
+**Tick Tock Tale**
+
+_Director:_ Dean Wellins
+
+USA 2010
+
+6 mins
+
+**Beauty and the Beast**
+
+_Directors:_ Gary Trousdale, Kirk Wise
+
+_©:_ The Walt Disney Company
+
+_Production Company:_ Walt Disney Productions
+
+_In association with:_ Silver Screen Partners IV
+
+_Executive Producer:_ Howard Ashman
+
+_Producer:_ Don Hahn
+
+_Associate Producer:_ Sarah McArthur
+
+_Production Manager:_ Baker Bloodworth
+
+_Pre-production Manager:_ Ron Rocha
+
+_Senior Production Co-ordinator:_ Rozanne Cazian
+
+_Production Consultants:_ Hans Bacher, Mel Shaw
+
+_Casting:_ Albert Tavares
+
+_Screenplay:_ Linda Woolverton
+
+_Story Artistic Supervisor:_ Roger Allers
+
+_Story:_ Brenda Chapman, Burny Mattinson,
+
+Brian Pimental, Joe Ranft, Kelly Asbury, Christopher Sanders, Kevin Harkey,
+
+Bruce Woodside, Tom Ellery, Robert Lence
+
+_Visual Development:_ Kelly Asbury, Joe Grant,
+
+Kevin Lima, Sue C. Nichols, Michael Cedeno,
+
+Jean Gillmore, Dave Molina, Christopher Sanders, Terry Shakespeare
+
+_Camera Manager:_ Joe Jiuliano
+
+_Optical Camera:_ Allen Gonzales
+
+_Animation Camera Supervisor:_ John Cunningham
+
+_Supervisor Digitising Camera:_ Robyn Roberts
+
+_Visual Effects Artistic Supervisor:_ Randy Fullmer
+
+_Compositing:_ James ‘J.R.’ Russell, David J. Rowe, Shannon Fallis-Kane
+
+_Colour Models Supervisor:_ Karen Comella
+
+_Colour Model Mark-up:_ Leslie Ellery,
+
+Rhonda L. Hicks, Beth Ann McCoy
+
+_Animation Check Supervisor:_ Janet Bruce
+
+_Animation Checking:_ Karen Hepburn,
+
+Karen S. Paat, Gary Shafer, Mavis Shafer,
+
+Barbara Wiles
+
+_Supervising Animators:_ _Belle:_ James Baxter, Mark Henn; _Beast:_ Glen Keane; _Gaston:_ Andreas Deja; _Lumiere:_ Nik Ranieri; _Cogsworth:_ Will Finn; _Mrs Potts/Chip:_ Dave Pruiksma; _Maurice:_ Ruben A. Aquino; _Le Fou:_ Chris Wahl; _Philippe:_ Russ Edmonds
+
+_Clean-up Artistic Supervisor:_ Vera Lanpher
+
+_Computer Graphic Images Artistic Supervisor:_
+
+Jim Hillin
+
+_Effects Graphics:_ Bernie Gagliano
+
+_Special Effects Supervising Animators:_
+
+Dave Bossert, Dorse Lanpher, Ted Kierscey,
+
+Mark Myer
+
+_Special Effects Animators:_ Ed Coffey,
+
+Chris Jenkins, Christine Harding, Eusebio Torres, Kelvin Yasuda
+
+_Special Effects Breakdown/Inbetweeners:_ Kennard Betts, Peter Demund, Paul Lewis, Masa Oshiro, Kristine Brown, Sandra M. Groeneveld, Dan Lund, Lisa Ann Reinert, Tony West
+
+_Computer Animations:_ Linda Bel, Greg Griffith, James R. Tooley
+
+_Layout Artistic Supervisor:_ Ed Ghertner
+
+_Background Artistic Supervisor:_ Lisa Keene
+
+_Florida Background Artistic Supervisor:_
+
+Richard John Sluiter
+
+_Ink and Paint Manager:_
+
+Gretchen Maschmeyer Albrecht
+
+_Paint Supervisor:_ Hortensia M. Casagran
+
+_Editor:_ John Carnochan
+
+_Associate Editor:_ Gregory Perler
+
+_Art Director:_ Brian Mcentee
+
+_Scene Planning Supervisor:_ Ann Tucker
+
+_Title Design:_ Saxon/Ross Film Design
+
+_Optical Supervisor:_ Mark Dornfeld
+
+_Music:_ Alan Menken
+
+_Songs:_ Alan Menken
+
+_Lyrics:_ Howard Ashman
+
+_Music Director:_ David Friedman
+
+_Orchestrations:_ Danny Troob
+
+_Additional Orchestrations:_ Michael Starobin
+
+_Music Producers:_ Howard Ashman, Alan Menken
+
+_Supervising Music Editor:_ Kathleen Bennett
+
+_Music Sound Recordists:_ Michael Farrow,
+
+John Richards
+
+_Sound Re-recording:_ Terry Porter, Mel Metcalfe, David J. Hudson, Denis Blackerby
+
+_Sound Editors:_ Julia Evershade, Michael Benavente, Jessica Gallavan, J.H. Arrufat,
+
+Ron Bartlett
+
+_Sound Effects:_ Mark Mangini, Dave Stone
+
+_Special Sound Effects:_ John P.  
+_Special Vocal Effects:_ Frank Welker  
+_ADR Recordists:_ Doc Kane, Vince Caro  
+_Foley Artists:_ John Roesch, Catherine Rowe, Vanessa Ament  
+_Voice Cast:_  
+Paige O’Hara _(Belle)_  
+Robby Benson _(Beast)_  
+Richard White _(Gaston)_  
+Jerry Orbach _(Lumière)_  
+David Ogden Stiers _(Cogsworth)_  
+Angela Lansbury _(Mrs Potts)_  
+Bradley Michael Pierce _(Chip)_  
+Rex Everhart _(Maurice)_  
+Jesse Corti _(Le Fou)_  
+Hal Smith _(Philippe the horse)_  
+Jo Anne Worley _(wardrobe)_  
+Mary Kay Bergman, Kath Soucie _(bimbettes)_  
+Brian Cummins _(stove)_  
+Alvin Epstein _(bookseller)_  
+Tony Jay _(Monsieur D’Arque)_  
+Alec Murphy _(baker)_  
+Kimmy Robertson _(feather duster)_  
+Frank Welker _(foot stool)_  
+
+USA 1991©  
+91 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzkzMzM2NTRdfQ==
+eyJoaXN0b3J5IjpbLTgwNTU2OTIzXX0=
 -->
