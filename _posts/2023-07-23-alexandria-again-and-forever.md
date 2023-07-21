@@ -6,8 +6,8 @@ date: 2023-07-23
 readtime: true
 categories: ['DRAMA AND DESIRE<br> THE FILMS OF YOUSSEF CHAHINE']
 tags: [Drama]
-metadata: 'Egypt 1982, 129 mins<br> Director: Youssef Chahine'
-pdf: '2023-07-15-egyptian-story.pdf'
+metadata: 'France/Egypt 1990, 109 mins<br> Director: Youssef Chahine'
+pdf: '2023-07-23-alexandria-again-and-forever.pdf'
 ---
 
 Now an ageing director, Yehia becomes infatuated with star actor Amr, which threatens to damage their professional relationship and fuel his depression and writer’s block. But a fateful meeting during the 1986 filmmaker strike fires Yehia’s imagination. The final part of the Alexandria trilogy is a characteristically rowdy ride, full of longing, dance, and the trials and pleasures of artistic collaboration.  
@@ -31,6 +31,77 @@ The third number takes place in the heart of Cairo. Yahia is now courting Nadia.
 
 The issue of inferiority in this autobiographical trilogy recalls many of Bergman’s films and particularly Fellini’s _8 1/2._ The intimation of mortality is the driving force behind Fosse’s _All That Jazz_, John Boorman’s _Hope and Glory_ also comes to mind, for it is explicitly autobiographical, with the young Boorman experiencing World War II. Chahine’s trilogy differs from all these confessional films in that it casts a wider net. Chahine and Egypt are centre stage. By baring his soul, Chahine is inviting Egyptians to come to terms with themselves. Without being didactic, he appeals to Egypt to recognise that pluralism, variety and nonconformity can be vibrant and positive. The mix produces healthy individuals, without whom a healthy nation cannot exist. For Egypt to restore her equilibrium – if not her glory – Egyptians should be diverse in personal pursuit but united in national spirit. The welfare of the nation and that of the individual are inseparable.  
 **Ibrahim Fawal, _BFI World Directors: Youssef Chahine_ (BFI Publishing, 2002) Reproduced by kind permission of Bloomsbury Publishing. ©Ibrahim Fawal**  
+<br>
+<![endif]-->
+
+**ALEXANDRIA AGAIN AND FOREVER**
+
+**(ISKANDARIYA, KAMAN WA KAMAN)**
+
+_Director_: Youssef Chahine  
+_Production Companies_: Misr International Films, Paris Classics Production, La Sept  
+_With the participation of_: Ministère de la Culture et de la Communication, Le Ministère des Affaires Étrangères  
+_Producers_: Marianne Khoury, Humbert Balsan  
+_Production Co-ordinator_: Hussam Aly  
+_Associate Director_: Yusry Nasrallah  
+_1st Assistant Director_: Essam Aly  
+_Script Supervisor_: Radouan el-Kachef  
+_Screenplay_: Youssef Chahine  
+_Script Contributors_: Yusry Nasrallah, Samir Nasri  
+_Director of Photography_: Ramses Marzouk  
+_Camera Operator_: Samir Bahsan  
+_Assistant Operator_: Yehia Abbas  
+_Editor_: Rashida Abdel Salam  
+_Assistant Editor_: Mohamed Zarka  
+_Art Director/Props_: Onsi Abu Seif  
+_Costume Supervisor_: Nahed Nasrallah  
+_Costumes Created by_: Amr Khalil  
+_Make-up_: Évelyne Byot, Hassan Taha  
+_Music_: Mohamed Nouh  
+_Title Song_: Rabi el-Banna  
+_Music Recording_: Raafat Samir  
+_Choreography_: Ingy Essolh, Ingy el-Solh  
+_Sound_: Olivier Schwob, Olivier Varenne  
+_Mixer_: Dominique Hennequin  
+_Sound Editor_: Olivier Ducastel
+
+_Cast__:_  
+Yousra _(Nadia)_  
+Youssef Chahine _(Yahia)_  
+Hussein Fahmy _(Stelio)_  
+Amr Abd el-guelil _(Amr)_  
+Hisham Selim _(Magdy)_  
+Tahia Carioca _(Tahia)_  
+Hoda Sultan _(Nadia's mother)_  
+Ragga Hussein  
+Seif el-din _(Mohamed bey)_  
+Abla Kamel _(museum curator)_  
+Hassan el-Adl  
+Ahmed el-Hariri  
+Menha el-Batrawi _(Gigi)_  
+Tewfik Saleh _(Tewfik)_  
+Zaki Abd el-wahab _(Guindi)_  
+Mohammed Tewfik _(himself)_  
+Salah Zulficar _(himself)_  
+Mohamed Fadel _(himself)_  
+Hossam El Dine Mostafa _(himself)_  
+Ali Badrakhan _(himself)_  
+Maher Salim  
+Mohamed Henedi  
+Ahmed Hegazi  
+Ezzat el-machad  
+Khaled Hamza  
+Tewfik el-Kordy  
+Ibrahim Hassanein  
+Mohamed Gebril  
+Mohga Abdel Rahman  
+Ussama Taha  
+Yasser Maher  
+
+France/Egypt 1990  
+109 mins  
+
+Restored by Cinémathèque française, Orange Studio and Misr International Films, with the support of CNC, and Association Youssef Chahine  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODY0OTI4OV19
+eyJoaXN0b3J5IjpbLTc2NzQ3NDkwN119
 -->
