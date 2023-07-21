@@ -134,32 +134,19 @@ Sat 29 Jul 12:30
 
 **Moana + Inner Workings**
 
-Sat 29 Jul 13:00; Mon 31 Jul 14:20
-
-**Fantasia 2000**
-
-Sun 30 Jul 10:30
-
-**Frozen + Frozen Fever**
-
-Sun 30 Jul 12:40
-
-**Finding Nemo**
-
-Tue 1 Aug 14:20; Sun 13 Aug 18:30; Sun 27 Aug 13:30
-
-**Luca**
-
-Wed 2 Aug 14:20; Mon 14 Aug 20:30; Sun 27 Aug 13:15
-
-**Turning Red**
-
-Wed 2 Aug 20:20; Tue 8 Aug 14:20; Sat 26 Aug 15:30
-
-**The Jungle Book**
-
-Thu 3 Aug 14:20; Sun 6 Aug 13:00; Wed 16 Aug 20:45; Wed 30 Aug 14:20
-
+Sat 29 Jul 13:00; Mon 31 Jul 14:20  
+**Fantasia 2000**  
+Sun 30 Jul 10:30  
+**Frozen + Frozen Fever**  
+Sun 30 Jul 12:40  
+**Finding Nemo**  
+Tue 1 Aug 14:20; Sun 13 Aug 18:30; Sun 27 Aug 13:30  
+**Luca**  
+Wed 2 Aug 14:20; Mon 14 Aug 20:30; Sun 27 Aug 13:15  
+**Turning Red**  
+Wed 2 Aug 20:20; Tue 8 Aug 14:20; Sat 26 Aug 15:30  
+**The Jungle Book**  
+Thu 3 Aug 14:20; Sun 6 Aug 13:00; Wed 16 Aug 20:45; Wed 30 Aug 14:20  
 **Beaches**  
 Thu 3 Aug 18:00; Sat 19 Aug 17:30  
 **20,000 Leagues Under the Sea**  
@@ -210,5 +197,5 @@ Sun 27 Aug 16:00; Mon 28 Aug 16:40
 
 With thanks to The Walt Disney Company  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjUyMjYyOV19
+eyJoaXN0b3J5IjpbMTExMTM3NzIzOV19
 -->
