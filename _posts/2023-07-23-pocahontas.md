@@ -132,85 +132,37 @@ _Ink and Paint Senior Manager:_ Gretchen Maschmeyer Albrecht
 _Ink and Paint Supervisor:_ Frances Kirsten
 
 _Paint/Final Check Supervisor:_
-
-Hortensia M. Casagran
-
-_Key Layout/Workbook:_ Daniel Hu, Allen Tam,
-
-Doug Walker, Mac George, Karen Keller,
-
-William H. Frake III, Tom Humber, Peter Bielicki
-
-_Director of Technology:_ Paul Yanover
-
-_Editors:_ H. Lee Peterson
-
-_Animation Editor:_ James Melton
-
-_Associate Editor:_ Mark Hester
-
-_Art Director:_ Michael Giaimo
-
-_Artistic Coordinator:_ Dan Hansen
-
-_Scene Planning:_ Thomas Baker, Annamarie Costa, Mark Henley, Sara Bleick, Cindy Goode,
-
-Ron Jackson
-
-_Title Design:_ Susan Bradley
-
-_Titles/Opticals:_ _Buena Vista Imaging Supervisor:_ Mark Dornfeld
-
-_Music:_ Alan Menken
-
-_Lyrics:_ Stephen Schwartz
-
-_Traditional Native American Music:_ Hawk Pope
-
-_Music Conductors: Score:_ Danny Troob; _Songs:_ David Friedman
-
-_Music Arrangements: Songs:_ Danny Troob, Martin Erskine; _Vocals:_ David Friedman; _Orchestrations:_ Danny Troob
-
-_Executive Music Producer:_ Chris Montan
-
-_Music Producers:_ Alan Menken, Stephen Schwartz
-
-_Unit Producer:_ Jim ‘Great Elk’ Waters
-
-_Supervising Music Editor:_ Kathleen Fogarty-Bennett
-
-_Music Production Supervisor:_ Tod Cooper
-
-_Choreography:_ D. J. Giagni
-
-_Supervising Sound Editors:_ Larry Kemp,
-
-Lon E. Bender
-
-_Dialogue Editors:_ Dan Rich, Chris Hogan
-
-_ADR Supervisor:_ Curt Schulkey
-
-_Foley Editors:_ Neal J. Anderson, Patrick N. Sellers
-
-_Sound Recordists:_ Doc Kane
-
-_Dubbing:_ Jeanete Browning
-
-_Music Recordist/Mixer:_ John Richards
-
-_Sound Re-recording Mixers:_ Terry Porter,
-
-Mel Metcalfe, Dean A. Zupancic
-
-_Sound Effects Editors:_ Scott Martin Gershin,
-
-Rick Morris, Alan Rankin, Joseph Phillips,
-
-Peter J. Lehman, Brian McPherson,
-
-Anthony J. Miceli
-
+Hortensia M. Casagran  
+_Key Layout/Workbook:_ Daniel Hu, Allen Tam, Doug Walker, Mac George, Karen Keller, William H. Frake III, Tom Humber, Peter Bielicki  
+_Director of Technology:_ Paul Yanover  
+_Editors:_ H. Lee Peterson  
+_Animation Editor:_ James Melton  
+_Associate Editor:_ Mark Hester  
+_Art Director:_ Michael Giaimo  
+_Artistic Coordinator:_ Dan Hansen  
+_Scene Planning:_ Thomas Baker, Annamarie Costa, Mark Henley, Sara Bleick, Cindy Goode, Ron Jackson  
+_Title Design:_ Susan Bradley  
+_Titles/Opticals:_ _Buena Vista Imaging Supervisor:_ Mark Dornfeld  
+_Music:_ Alan Menken  
+_Lyrics:_ Stephen Schwartz  
+_Traditional Native American Music:_ Hawk Pope  
+_Music Conductors: Score:_ Danny Troob; _Songs:_ David Friedman  
+_Music Arrangements: Songs:_ Danny Troob, Martin Erskine; _Vocals:_ David Friedman; _Orchestrations:_ Danny Troob  
+_Executive Music Producer:_ Chris Montan  
+_Music Producers:_ Alan Menken, Stephen Schwartz  
+_Unit Producer:_ Jim ‘Great Elk’ Waters  
+_Supervising Music Editor:_ Kathleen Fogarty-Bennett  
+_Music Production Supervisor:_ Tod Cooper  
+_Choreography:_ D. J. Giagni  
+_Supervising Sound Editors:_ Larry Kemp, Lon E. Bender  
+_Dialogue Editors:_ Dan Rich, Chris Hogan  
+_ADR Supervisor:_ Curt Schulkey  
+_Foley Editors:_ Neal J. Anderson, Patrick N. Sellers  
+_Sound Recordists:_ Doc Kane  
+_Dubbing:_ Jeanete Browning  
+_Music Recordist/Mixer:_ John Richards  
+_Sound Re-recording Mixers:_ Terry Porter, Mel Metcalfe, Dean A. Zupancic  
+_Sound Effects Editors:_ Scott Martin Gershin, Rick Morris, Alan Rankin, Joseph Phillips, Peter J. Lehman, Brian McPherson, Anthony J. Miceli  
 _Foley Artists:_ John Roesch, Hilda Hodges  
 _Native American Consultants:_ Shirley ‘Little Dove’, Custalow McGowan  
 
@@ -237,5 +189,5 @@ USA 1995©
 With thanks to The Walt Disney Company
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ1NDY2NTgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTM4NjM2NjU3OCw3MzA5OTgxMTZdfQ==
 -->
