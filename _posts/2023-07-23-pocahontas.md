@@ -25,38 +25,21 @@ The art direction alone belies the forces that threaten to tug _Pocahontas_ apar
 In the end, the film does get to you. It’s Disney’s darkest and most tragic animated film, even though it pulls back from telling the true historical ending – the real Pocahontas came back to England with Smith, died shortly after arriving and was buried in Gravesend. And though most children probably won’t yet know it, they’ll soon learn that this story with its ‘happy’ ending depicting a final concord between natives and settlers only begins a more chilling history concerning a genocide that would span centuries of horror. It’s this ‘front-story’ which truly brings tears to the eyes when the credits roll, and by suggesting it, perhaps in a cloudy but well-meaning way, this film tries to expiate a little of the guilt that might be felt by one of the West’s most successful capitalist organisations.  
 **Leslie Felperin, _Sight and Sound_, October 1995**  
 <br>
-<![endif]-->
+**LAVA**  
+_Director:_ James Ford Murphy  
+USA 2014  
+7 mins  
 
-**Lava**
-
-_Director:_ James Ford Murphy
-
-USA 2014
-
-7 mins
-
-**Pocahontas**
-
-_Directors:_ Mike Gabriel, Eric Goldberg
-
-_©/Production Company:_ Walt Disney Pictures
-
-_Producer:_ James Pentecost
-
-_Associate Producer:_ Baker Bloodworth
-
-_Production Manager:_ Traci Tolman Mars
-
-_Senior Manager Production:_ Dana Axelrod
-
-_Post-production Supervisor:_
-
-Deborah Edell Underwood
-
-_Post-production Coordinators:_ Jeanie Lynd Sorenson, Heather Jane MacDonald-Smith
-
-_Post production Manager:_ Sara Duran
-
+**POCAHONTAS**  
+_Directors:_ Mike Gabriel, Eric Goldberg  
+_©/Production Company:_ Walt Disney Pictures  
+_Producer:_ James Pentecost  
+_Associate Producer:_ Baker Bloodworth  
+_Production Manager:_ Traci Tolman Mars  
+_Senior Manager Production:_ Dana Axelrod  
+_Post-production Supervisor:_ Deborah Edell Underwood  
+_Post-production Coordinators:_ Jeanie Lynd Sorenson, Heather Jane MacDonald-Smith  
+_Post production Manager:_ Sara Duran  
 _Casting:_ Brian Chavanne, Ruth Lambert, Karen Margiotta  
 _ADR Voice Casting:_ Barbara Harris, LA MadDogs  
 _Screenplay:_ Carl Binder, Susannah Grant, Philip Lazebnik  
@@ -65,7 +48,7 @@ _Based on an idea by:_ Mike Gabriel
 _Digitizing Camera Supervisor:_ Robyn L Roberts  
 _Film Camera Manager:_ Joe Jiuliano  
 _Digitising Mark-up:_ Gina Wootten  
-_Digitiing Camera Operators:_ David Braden, Lynette E. Cullen, Val D’Arcy, Gareth Fishbaugh, Corey Dean Fredrickson, Michael A. McFerren, David J. Rowe  
+_Digitising Camera Operators:_ David Braden, Lynette E. Cullen, Val D’Arcy, Gareth Fishbaugh, Corey Dean Fredrickson, Michael A. McFerren, David J. Rowe  
 _Animation Camera Operators:_ John Aardal  
 _Visual Effects Supervisors:_ Don Paul  
 _Visual Development/Character Design:_
@@ -146,5 +129,5 @@ USA 1995©
 With thanks to The Walt Disney Company
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0NjAwMTcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTgwNzk4MDIzMSw3MzA5OTgxMTZdfQ==
 -->
