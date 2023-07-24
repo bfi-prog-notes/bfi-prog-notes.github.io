@@ -23,87 +23,49 @@ Katharine Hepburn’s performance is finely perceptive and intelligent. Never le
 <br><br>
 
 **SUMMERTIME (AKA SUMMER MADNESS)**<br>
-
 _Directed by:_ David Lean<br>
-
 ©_/Production Company:_ Lopert Films<br>
-
 _Production Company:_ London Film Productions *<br>
-
 _Produced by:_ Ilya Lopert<br>
-
 _Associate Producer:_ Norman Spencer<br>
-
-_Production Managers:_ Raymond Anzarut,  
-Franco Magli<br>
-
+_Production Managers:_ Raymond Anzarut,  Franco Magli<br>
 _Assistant to Producer:_ Robert J. Kingsley<br>
-
-_Assistant Directors:_ Adrian Pryce-Jones,  
-Alberto Cardone<br>
-
+_Assistant Directors:_ Adrian Pryce-Jones,  Alberto Cardone<br>
 _Continuity:_ Margaret Shipway<br>
-
 _Screenplay by:_ H.E. Bates, David Lean<br>
-
 _Based on the original play by:_ Arthur Laurents<br>
-
 _Produced on Broadway by:_ Robert Whitehead, Walter Fried<br>
-
 _Photographed entirely in Venice by:_ Jack Hildyard<br>
-
 _Camera Operator:_ Peter Newbrook<br>
-
 _Chief Electrician:_ Archie Dansie<br>
+_Editor:_ Peter Taylor<br>
+_Production Designed by:_ Vincent Korda<br>
+_Assistant Art Directors:_ Bill Hutchinson,  Ferdinand Bellan<br>
+_Make-up:_ Cesare Gamberelli<br>
+_Hairdressing:_ Grazia De Rossi<br>
+_Music Composed by:_ Alessandro Cicognini<br>
+_Sound Recording:_ Peter Handford<br>
+_Sound Re-recording:_ John Cox<br>
+_Sound Editors:_ Winston Ryder, Jacqueline Thiédot<br>
 
-_Editor:_ Peter Taylor
+**Cast**<br>
+Katharine Hepburn _(Jane Hudson)_<br>
+Rossano Brazzi _(Renato De Rossi)_<br>
+Darren McGavin _(Eddie Yaeger)_<br>
+Jane Rose _(Mrs McIlhenny)_<br>
+Mari Aldon _(Phyl Yaeger)_<br>
+MacDonald Parke _(Mr Lloyd McIlhenny)_<br>
+Gaetano Autiero _(Mauro)_<br>
+Jeremy Spenser _(Vito De Rossi)_<br>
+Isa Miranda _(Signora Fiorini)_<br>
+Virginia Simeon _(Giovanna)_<br>
+André Morell _(Englishman on train)_ *<br>
 
-_Production Designed by:_ Vincent Korda
+USA-UK 1955©<br>
+100 mins<br>
 
-_Assistant Art Directors:_ Bill Hutchinson,  
-Ferdinand Bellan
-
-_Make-up:_ Cesare Gamberelli
-
-_Hairdressing:_ Grazia De Rossi
-
-_Music Composed by:_ Alessandro Cicognini
-
-_Sound Recording:_ Peter Handford
-
-_Sound Re-recording:_ John Cox
-
-_Sound Editors:_ Winston Ryder, Jacqueline Thiédot
-
-_Cast:_
-
-Katharine Hepburn _(Jane Hudson)_
-
-Rossano Brazzi _(Renato De Rossi)_
-
-Darren McGavin _(Eddie Yaeger)_
-
-Jane Rose _(Mrs McIlhenny)_
-
-Mari Aldon _(Phyl Yaeger)_
-
-MacDonald Parke _(Mr Lloyd McIlhenny)_
-
-Gaetano Autiero _(Mauro)_
-
-Jeremy Spenser _(Vito De Rossi)_
-
-Isa Miranda _(Signora Fiorini)_
-
-Virginia Simeon _(Giovanna)_
-
-André Morell _(Englishman on train)_ *
-
-USA-UK 1955©
-
-100 mins
-
-* Uncredited
+*Uncredited<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTYzMjcxODJdfQ==
+eyJoaXN0b3J5IjpbLTg3ODQ3MjcwMF19
 -->
