@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Miller's Crossing
@@ -53,10 +52,8 @@ _Production Manager:_ Alma Kuttruff
 _Unit Manager:_ Ron Neter  
 _Location Manager:_ Amy Ness  
 _Post-production Supervisor:_ James DeMeaux  
-_Key Production Assistants:_ David Riebel,
-Amelia Villero  
-_Production Assistants:_ Richard Wentz,
-Kenny Creed, Paul Sanchez  
+_Key Production Assistants:_ David Riebel, Amelia Villero  
+_Production Assistants:_ Richard Wentz, Kenny Creed, Paul Sanchez  
 _Special Effects Production Assistants:_ David Schlesinger, David-Michael Goddard  
 _Assistant Directors:_ Gary Marcus, C.C. Barnes, Greg Jacobs  
 _Casting:_ Donna Isaacson, John Lyons  
@@ -99,9 +96,7 @@ _Foley Supervisor:_ Ron Bochar
 _Foley Editor:_ Bruce Pross  
 _Dolby Stereo Consultant:_ Michael DiCosimo  
 _Stunt Co-ordinator:_ Jery Hewitt  
-_Stunts:_ Gary Tacon, Norman Douglass,
-Nick Giangiulio, Kurt Bryant, Bill Anagnos,
-Roy Farfel  
+_Stunts:_ Gary Tacon, Norman Douglass, Nick Giangiulio, Kurt Bryant, Bill Anagnos, Roy Farfel  
 _Animal Trainer:_ Karl Miller  
 
 **Cast**  
@@ -147,7 +142,7 @@ William Preston Robertson _(voice)_
 
 USA 1990  
 115 mins  
-
+<br>
 
 **BIG SCREEN CLASSICS**  
 **Miller’s Crossing**  
