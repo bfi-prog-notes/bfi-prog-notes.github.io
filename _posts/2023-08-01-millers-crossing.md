@@ -39,6 +39,10 @@ In this context, the fact that the Coens’ visual stimulus for the film, accord
 
 The film’s credit sequence illustrates a dream of Tom’s, which he later recounts to Verna, in which his hat is blown off by the wind while he is walking in some woods. Her keenness to interpret the imagery (did he chase the hat? did it turn into something else?) is countered by his simple insistence that it stayed a hat. In fact, the image is so strong and strange that it needs no interpretation, and much of the strength of _Miller’s Crossing_ springs from a Hammett-like sense of things as they are, combined with an unerring feel for the genuinely surreal twist. Caspar believes that ethics are important because without them there is only chaos and anarchy. Here the Coens convincingly demonstrate that he is right, and in so doing turn an exercise in genre reworking into something much more rich and strange.  
 **Steve Jenkins, _Monthly Film Bulletin_, February 1991**  
+<br>
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTkxNjkxNV19
+eyJoaXN0b3J5IjpbLTIwODU4MDQ4NzEsMjA2MTkxNjkxNV19
 -->
