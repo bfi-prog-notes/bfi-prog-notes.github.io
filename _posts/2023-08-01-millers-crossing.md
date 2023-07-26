@@ -41,96 +41,48 @@ The film’s credit sequence illustrates a dream of Tom’s, which he later reco
 **Steve Jenkins, _Monthly Film Bulletin_, February 1991**  
 <br>
 
-<![endif]-->
-
-**Miller’s Crossing**
-
-_Director:_ Joel Coen
-
-_Production Company:_ Circle Films
-
-_Executive Producer:_ Ben Barenholtz
-
-_Producer:_ Ethan Coen
-
-_Co-producer:_ Mark Silverman
-
-_Line Producer:_ Graham Place
-
-_Production Co-ordinator:_ Terri Clemens
-
-_Production Manager:_ Alma Kuttruff
-
-_Unit Manager:_ Ron Neter
-
-_Location Manager:_ Amy Ness
-
-_Post-production Supervisor:_ James DeMeaux
-
+**MILLERS Ciller’s Crossing**  
+_Director:_ Joel Coen  
+_Production Company:_ Circle Films  
+_Executive Producer:_ Ben Barenholtz  
+_Producer:_ Ethan Coen  
+_Co-producer:_ Mark Silverman  
+_Line Producer:_ Graham Place  
+_Production Co-ordinator:_ Terri Clemens  
+_Production Manager:_ Alma Kuttruff  
+_Unit Manager:_ Ron Neter  
+_Location Manager:_ Amy Ness  
+_Post-production Supervisor:_ James DeMeaux  
 _Key Production Assistants:_ David Riebel,
-
-Amelia Villero
-
+Amelia Villero  
 _Production Assistants:_ Richard Wentz,
-
-Kenny Creed, Paul Sanchez
-
-_Special Effects Production Assistants:_
-
-David Schlesinger, David-Michael Goddard
-
-_Assistant Directors:_ Gary Marcus, C.C. Barnes, Greg Jacobs
-
-_Casting:_ Donna Isaacson, John Lyons
-
-_New Orleans Casting:_ Sandra D. Dawes
-
-_Screenplay:_ Joel Coen, Ethan Coen
-
-_Director of Photography/Camera Operator:_
-
-Barry Sonnenfeld
-
-_Steadicam Operator:_ Larry McConkey
-
-_Special Effects Co-ordinator:_ Peter Chesney
-
-_Special Effects:_ Image Engineering
-
-_Editor:_ Michael Miller
-
-_Production Designer:_ Dennis Gassner
-
-_Design Consultant:_ Bob Goldstein
-
-_Art Director:_ Leslie McDonald
-
-_Art Department Co-ordinator:_ Scott Plauché
-
-_Set Designer:_ Kathleen McKernin
-
-_Set Decorator:_ Nancy Haigh
-
-_Key Set Dresser:_ Claire Gaul
-
-_Set Dresser:_ Alice Baker
-
-_Lead Scenic Artist:_ Michael Daigle
-
-_Scenic Artist:_ Matt Flynn
-
-_Stand-by Scenic Artist:_ Eileen Winterkorn
-
-_Storyboard Artist:_ J. Todd Anderson
-
-_Costume Designer:_ Richard Hornung
-
-_Costumer:_ Barbara Baker
-
-_Wardrobe Supervisor:_ Bonney Langfitt
-
-_Make-up:_ Kathrine James
-
+Kenny Creed, Paul Sanchez  
+_Special Effects Production Assistants:_ David Schlesinger, David-Michael Goddard  
+_Assistant Directors:_ Gary Marcus, C.C. Barnes, Greg Jacobs  
+_Casting:_ Donna Isaacson, John Lyons  
+_New Orleans Casting:_ Sandra D. Dawes  
+_Screenplay:_ Joel Coen, Ethan Coen  
+_Director of Photography/Camera Operator:_ Barry Sonnenfeld  
+_Steadicam Operator:_ Larry McConkey  
+_Special Effects Co-ordinator:_ Peter Chesney  
+_Special Effects:_ Image Engineering  
+_Editor:_ Michael Miller  
+_Production Designer:_ Dennis Gassner  
+_Design Consultant:_ Bob Goldstein  
+_Art Director:_ Leslie McDonald  
+_Art Department Co-ordinator:_ Scott Plauché  
+_Set Designer:_ Kathleen McKernin  
+_Set Decorator:_ Nancy Haigh  
+_Key Set Dresser:_ Claire Gaul  
+_Set Dresser:_ Alice Baker  
+_Lead Scenic Artist:_ Michael Daigle  
+_Scenic Artist:_ Matt Flynn  
+_Stand-by Scenic Artist:_ Eileen Winterkorn  
+_Storyboard Artist:_ J. Todd Anderson  
+_Costume Designer:_ Richard Hornung  
+_Costumer:_ Barbara Baker  
+_Wardrobe Supervisor:_ Bonney Langfitt  
+_Make-up:_ Kathrine James  
 _Title Design:_ Balsmeyer & Everett Inc  
 _Opticals:_ R/Greenberg Associates  
 _Music:_ Carter Burwell  
@@ -229,5 +181,5 @@ Thu 17 Aug 20:20; Sun 27 Aug 15:20
 **Blue Velvet**  
 Sat 19 Aug 17:45; Thu 24 Aug 18:10; Thu 31 Aug 20:35  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTM5MDUzOSwyMDYxOTE2OTE1XX0=
+eyJoaXN0b3J5IjpbNTI0MDIzMjk2LDIwNjE5MTY5MTVdfQ==
 -->
