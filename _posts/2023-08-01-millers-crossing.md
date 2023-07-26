@@ -1,17 +1,17 @@
+
 ---
 layout: post
-title: Miller's 
+title: Miller's Crossing
 published: true
-date: 2023-07-15
+date: 2023-08-01
 readtime: true
-categories: ['MAKING MAGIC<BR>100 YEARS OF DISNEY']
-tags: [Sci-fi]
-metadata: 'USA 1982, 96 mins<br> Production Supervisor: Steven Lisberger'
-pdf: '2023-07-15-tron.pdf'
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Crime, Gangster]
+metadata: 'USA 1990, 115 mins<br> Director: Joel Coen'
+pdf: '2023-08-01-millers-crossing.pdf'
 ---
 
-**Contemporary reviews**
-
+**Contemporary reviews**  
 _Blood Simple_, the first feature of Joel Coen (writer-director) and his brother Ethan (writer-producer), was widely seen as updating the protocols of the school of writing most readily associated with James M. Cain. Now, after the high-pitched comic detour of _Raising Arizona_, the Coens have turned for inspiration to a different area of crime writing, the novels of Dashiell Hammett. This time they have adhered to the period of the originals: the milieu of _Miller’s Crossing_ is an unspecified American city during Prohibition. The makers have spoken of echoing the ‘dirty town’ premise of _Red Harvest_, though in fact the narrative bears a more particular resemblance to _The Glass Key_.
 
 The plot is of a complexity that would defy any brief synopsis, but turns in outline on the attempted overthrow of the city’s Irish ‘boss’ (Albert Finney) by his Italian arch-rival-the former’s Achilles heel being his infatuation with the sister (Marcia Gay Harden) of a double-dealing petty criminal (John Turturro) and on the thwarting of this design by Finney’s chief lieutenant (Gabriel Byrne), who has also been Harden’s lover and who feigns desertion to the opposition in order to repair his mentor’s fortunes.
@@ -205,5 +205,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDU2Nzg3MSwyMDYxOTE2OTE1XX0=
+eyJoaXN0b3J5IjpbMTI1ODkyMzcwMCwxMzE0NTY3ODcxLDIwNj
+E5MTY5MTVdfQ==
 -->
