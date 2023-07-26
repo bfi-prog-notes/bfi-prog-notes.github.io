@@ -41,7 +41,209 @@ The film’s credit sequence illustrates a dream of Tom’s, which he later reco
 **Steve Jenkins, _Monthly Film Bulletin_, February 1991**  
 <br>
 
+<![endif]-->
 
+**Miller’s Crossing**
+
+_Director:_ Joel Coen
+
+_Production Company:_ Circle Films
+
+_Executive Producer:_ Ben Barenholtz
+
+_Producer:_ Ethan Coen
+
+_Co-producer:_ Mark Silverman
+
+_Line Producer:_ Graham Place
+
+_Production Co-ordinator:_ Terri Clemens
+
+_Production Manager:_ Alma Kuttruff
+
+_Unit Manager:_ Ron Neter
+
+_Location Manager:_ Amy Ness
+
+_Post-production Supervisor:_ James DeMeaux
+
+_Key Production Assistants:_ David Riebel,
+
+Amelia Villero
+
+_Production Assistants:_ Richard Wentz,
+
+Kenny Creed, Paul Sanchez
+
+_Special Effects Production Assistants:_
+
+David Schlesinger, David-Michael Goddard
+
+_Assistant Directors:_ Gary Marcus, C.C. Barnes, Greg Jacobs
+
+_Casting:_ Donna Isaacson, John Lyons
+
+_New Orleans Casting:_ Sandra D. Dawes
+
+_Screenplay:_ Joel Coen, Ethan Coen
+
+_Director of Photography/Camera Operator:_
+
+Barry Sonnenfeld
+
+_Steadicam Operator:_ Larry McConkey
+
+_Special Effects Co-ordinator:_ Peter Chesney
+
+_Special Effects:_ Image Engineering
+
+_Editor:_ Michael Miller
+
+_Production Designer:_ Dennis Gassner
+
+_Design Consultant:_ Bob Goldstein
+
+_Art Director:_ Leslie McDonald
+
+_Art Department Co-ordinator:_ Scott Plauché
+
+_Set Designer:_ Kathleen McKernin
+
+_Set Decorator:_ Nancy Haigh
+
+_Key Set Dresser:_ Claire Gaul
+
+_Set Dresser:_ Alice Baker
+
+_Lead Scenic Artist:_ Michael Daigle
+
+_Scenic Artist:_ Matt Flynn
+
+_Stand-by Scenic Artist:_ Eileen Winterkorn
+
+_Storyboard Artist:_ J. Todd Anderson
+
+_Costume Designer:_ Richard Hornung
+
+_Costumer:_ Barbara Baker
+
+_Wardrobe Supervisor:_ Bonney Langfitt
+
+_Make-up:_ Kathrine James
+
+_Title Design:_ Balsmeyer & Everett Inc
+
+_Opticals:_ R/Greenberg Associates
+
+_Music:_ Carter Burwell
+
+_Music Director:_ Paul Lustig Dunkel
+
+_Orchestrations:_ Sonny Kompanek,
+
+Larry Wilcox
+
+_Music Editor:_ Todd Kasow
+
+_Sound Recording:_ Allan Byer,
+
+Jean Marie Carroll
+
+_Sound Re-recording:_ Lee Dichter
+
+_Supervising Sound Editor:_ Skip Lievsay
+
+_Supervising Dialogue Editor:_ Philip Stockton
+
+_Dialogue Editor:_ Marissa Littlefield
+
+_ADR Editors:_ Gail Showalter, Nic Ratner
+
+_Foley Supervisor:_ Ron Bochar
+
+_Foley Editor:_ Bruce Pross
+
+_Dolby Stereo Consultant:_ Michael DiCosimo
+
+_Stunt Co-ordinator:_ Jery Hewitt
+
+_Stunts:_ Gary Tacon, Norman Douglass,
+
+Nick Giangiulio, Kurt Bryant, Bill Anagnos,
+
+Roy Farfel
+
+_Animal Trainer:_ Karl Miller
+
+_Cast:_
+
+Gabriel Byrne _(Tom Reagan)_
+
+Marcia Gay Harden _(Verna)_
+
+John Turturro _(Bernie Bernbaum)_
+
+Jon Polito _(Johnny Caspar)_
+
+J.E. Freeman _(Eddie Dane)_
+
+Albert Finney _(Leo)_
+
+Mike Starr _(Frankie)_
+
+Al Mancini _(Tic-Tac)_
+
+Richard Woods _(Mayor Dale Levander)_
+
+Thomas Toner _(O’Doole)_
+
+Steve Buscemi _(Mink)_
+
+Mario Todisco _(Clarence ‘Drop’ Johnson)_
+
+Olek Krupa _(Tad)_
+
+Michael Jeter _(Adolph)_
+
+Lanny Flaherty _(Terry)_
+
+Jeanette Kontomitras _(Mrs Caspar)_
+
+Louis Charles Mounicou III _(Johnny Caspar Jr)_
+
+John McConnell _(Brian)_
+
+Danny Aiello III _(Delahanty)_
+
+Helen Jolly _(screaming lady)_  
+Hilda McLean _(landlady)_  
+Monte Starr, Don Picard _(gunmen in Leo’s house)_  
+Salvatore H. Tornabene _(Rug Daniels)_  
+Kevin Dearie _(street urchin)_  
+Michael Badalucco _(Caspar’s driver)_  
+Charles Ferrara _(Caspar’s butler)_  
+Esteban Fernandez, George Fernandez
+_(Caspar’s cousins)_
+Charles Gunning _(hitman at Verna’s)_
+
+Dave Drinkx _(2nd hitman)_
+
+David Darlow _(Lazarre’s messenger)_
+
+Robert LaBrosse, Carl Rooney
+
+_(Lazarre’s toughs)_
+
+Jack David Harris _(man with pipe bomb)_  
+Jery Hewitt _(son of Erin)_  
+Sam Raimi _(snickering gunman)_  
+John Schnauder Jr _(cop with bullhorn)_  
+Zolly Levin _(rabbi)_  
+Joey Ancona, Bill Raye _(boxers)_  
+William Preston Robertson _(voice)_  
+
+USA 1990  
+115 mins  
 
 
 **BIG SCREEN CLASSICS**  
@@ -76,5 +278,5 @@ Thu 17 Aug 20:20; Sun 27 Aug 15:20
 **Blue Velvet**  
 Sat 19 Aug 17:45; Thu 24 Aug 18:10; Thu 31 Aug 20:35  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE4MTEzNDYsMjA2MTkxNjkxNV19
+eyJoaXN0b3J5IjpbLTEwNDc3MTIxNDcsMjA2MTkxNjkxNV19
 -->
