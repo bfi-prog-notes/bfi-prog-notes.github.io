@@ -131,90 +131,47 @@ _Wardrobe Supervisor:_ Bonney Langfitt
 
 _Make-up:_ Kathrine James
 
-_Title Design:_ Balsmeyer & Everett Inc
-
-_Opticals:_ R/Greenberg Associates
-
-_Music:_ Carter Burwell
-
-_Music Director:_ Paul Lustig Dunkel
-
-_Orchestrations:_ Sonny Kompanek,
-
-Larry Wilcox
-
-_Music Editor:_ Todd Kasow
-
-_Sound Recording:_ Allan Byer,
-
-Jean Marie Carroll
-
-_Sound Re-recording:_ Lee Dichter
-
-_Supervising Sound Editor:_ Skip Lievsay
-
-_Supervising Dialogue Editor:_ Philip Stockton
-
-_Dialogue Editor:_ Marissa Littlefield
-
-_ADR Editors:_ Gail Showalter, Nic Ratner
-
-_Foley Supervisor:_ Ron Bochar
-
-_Foley Editor:_ Bruce Pross
-
-_Dolby Stereo Consultant:_ Michael DiCosimo
-
-_Stunt Co-ordinator:_ Jery Hewitt
-
+_Title Design:_ Balsmeyer & Everett Inc  
+_Opticals:_ R/Greenberg Associates  
+_Music:_ Carter Burwell  
+_Music Director:_ Paul Lustig Dunkel  
+_Orchestrations:_ Sonny Kompanek, Larry Wilcox  
+_Music Editor:_ Todd Kasow  
+_Sound Recording:_ Allan Byer, Jean Marie Carroll  
+_Sound Re-recording:_ Lee Dichter  
+_Supervising Sound Editor:_ Skip Lievsay  
+_Supervising Dialogue Editor:_ Philip Stockton  
+_Dialogue Editor:_ Marissa Littlefield  
+_ADR Editors:_ Gail Showalter, Nic Ratner  
+_Foley Supervisor:_ Ron Bochar  
+_Foley Editor:_ Bruce Pross  
+_Dolby Stereo Consultant:_ Michael DiCosimo  
+_Stunt Co-ordinator:_ Jery Hewitt  
 _Stunts:_ Gary Tacon, Norman Douglass,
-
 Nick Giangiulio, Kurt Bryant, Bill Anagnos,
+Roy Farfel  
+_Animal Trainer:_ Karl Miller  
 
-Roy Farfel
-
-_Animal Trainer:_ Karl Miller
-
-_Cast:_
-
-Gabriel Byrne _(Tom Reagan)_
-
-Marcia Gay Harden _(Verna)_
-
-John Turturro _(Bernie Bernbaum)_
-
-Jon Polito _(Johnny Caspar)_
-
-J.E. Freeman _(Eddie Dane)_
-
-Albert Finney _(Leo)_
-
-Mike Starr _(Frankie)_
-
-Al Mancini _(Tic-Tac)_
-
-Richard Woods _(Mayor Dale Levander)_
-
-Thomas Toner _(O’Doole)_
-
-Steve Buscemi _(Mink)_
-
-Mario Todisco _(Clarence ‘Drop’ Johnson)_
-
-Olek Krupa _(Tad)_
-
-Michael Jeter _(Adolph)_
-
-Lanny Flaherty _(Terry)_
-
-Jeanette Kontomitras _(Mrs Caspar)_
-
-Louis Charles Mounicou III _(Johnny Caspar Jr)_
-
-John McConnell _(Brian)_
-
-Danny Aiello III _(Delahanty)_
-
+**Cast**  
+Gabriel Byrne _(Tom Reagan)_  
+Marcia Gay Harden _(Verna)_  
+John Turturro _(Bernie Bernbaum)_  
+Jon Polito _(Johnny Caspar)_  
+J.E. Freeman _(Eddie Dane)_  
+Albert Finney _(Leo)_  
+Mike Starr _(Frankie)_  
+Al Mancini _(Tic-Tac)_  
+Richard Woods _(Mayor Dale Levander)_  
+Thomas Toner _(O’Doole)_  
+Steve Buscemi _(Mink)_  
+Mario Todisco _(Clarence ‘Drop’ Johnson)_  
+Olek Krupa _(Tad)_  
+Michael Jeter _(Adolph)_  
+Lanny Flaherty _(Terry)_  
+Jeanette Kontomitras _(Mrs Caspar)_  
+Louis Charles Mounicou III _(Johnny Caspar Jr)_  
+John McConnell _(Brian)_  
+Danny Aiello III _(Delahanty)_  
 Helen Jolly _(screaming lady)_  
 Hilda McLean _(landlady)_  
 Monte Starr, Don Picard _(gunmen in Leo’s house)_  
@@ -223,17 +180,11 @@ Kevin Dearie _(street urchin)_
 Michael Badalucco _(Caspar’s driver)_  
 Charles Ferrara _(Caspar’s butler)_  
 Esteban Fernandez, George Fernandez
-_(Caspar’s cousins)_
-Charles Gunning _(hitman at Verna’s)_
-
-Dave Drinkx _(2nd hitman)_
-
-David Darlow _(Lazarre’s messenger)_
-
-Robert LaBrosse, Carl Rooney
-
-_(Lazarre’s toughs)_
-
+_(Caspar’s cousins)_  
+Charles Gunning _(hitman at Verna’s)_  
+Dave Drinkx _(2nd hitman)_  
+David Darlow _(Lazarre’s messenger)_  
+Robert LaBrosse, Carl Rooney _(Lazarre’s toughs)_  
 Jack David Harris _(man with pipe bomb)_  
 Jery Hewitt _(son of Erin)_  
 Sam Raimi _(snickering gunman)_  
@@ -278,5 +229,5 @@ Thu 17 Aug 20:20; Sun 27 Aug 15:20
 **Blue Velvet**  
 Sat 19 Aug 17:45; Thu 24 Aug 18:10; Thu 31 Aug 20:35  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDc3MTIxNDcsMjA2MTkxNjkxNV19
+eyJoaXN0b3J5IjpbLTUwMTM5MDUzOSwyMDYxOTE2OTE1XX0=
 -->
