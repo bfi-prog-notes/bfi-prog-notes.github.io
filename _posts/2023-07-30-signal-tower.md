@@ -32,7 +32,7 @@ _Original Story_: Wadsworth Camp
 _Photography_: Ben Reynolds  
 _Set Decorator_: Kay Knudsen *
 
-**Cast**
+**Cast**  
 Virginia Valli _(Sally Tolliver)_  
 Rockliffe Fellowes _(Dave Tolliver)_  
 Frankie Darro _(Sonny Tolliver)_  
@@ -44,18 +44,16 @@ Clarence Brown _(switchman)_ *
 Charles Dorian _(photograph of Gertie’s fiancé)_ *  
 Jitney _(the dog)_ *
 
-USA 1924
-
+USA 1924  
 84 mins
 
-* Uncredited
+*Uncredited
 
 With live piano accompaniment by Stephen Horne
+<br>
 
-**Restoration credits**
-
-Produced with the support of Universal Pictures
-
+**Restoration credits**  
+Produced with the support of Universal Pictures  
 _Restoration:_ Robert Byrne, Patrick Stanbury  
 _Restoration Consultant:_ Kevin Brownlow  
 _Image Restoration Services:_ Maria Fuentes  
@@ -66,8 +64,8 @@ _35mm Colour Tinting:_ Jan Ledeký
 
 Special recognition to David W. Packard and the Packard Humanities Institute Collection at the UCLA Film & TV Archive Santa Clarita CA
 
-_Restoration Produced by:_ Patrick Stanbury,  
-Robert Byrne
+_Restoration Produced by:_ Patrick Stanbury,  Robert Byrne
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzQ2ODc2MF19
+eyJoaXN0b3J5IjpbLTE3MzIyNTg0ODhdfQ==
 -->
