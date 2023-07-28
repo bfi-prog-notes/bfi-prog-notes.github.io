@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Signal Tower
+published: true
+date: 2023-07-30
+readtime: true
+categories: ['SILENT CINEMA']
+tags: [Silent]
+metadata: 'USA 1924, 84 mins<br> Director: Clarence Brown'
+pdf: '2023-07-30-signal-tower.pdf'
+---
 
 _Introduced by film historian Kevin Brownlow_
 
@@ -66,6 +77,54 @@ Special recognition to David W. Packard and the Packard Humanities Institute Col
 
 _Restoration Produced by:_ Patrick Stanbury,  Robert Byrne
 <br><br>
+
+**REGULAR PROGRAMME**<br>
+**Silent Cinema: Disney’s Silent Shorts + intro**<br>
+Sun 6 Aug 15:30<br>
+**Relaxed Screening: Fantasia + intro and discussion**<br>
+Mon 31 Jul 18:00<br>
+**Missing Believed Wiped Special: Kaleidoscope at 35: The Long Lost Show Part One**<br>
+Sat 5 Aug 12:00<br>
+**Missing Believed Wiped Special: Kaleidoscope at 35: The Long Lost Show Part Two**<br>
+Sat 5 Aug 15:00<br>
+**Seniors’ Free Talk: Angwal Embrace + intro and Q&A**<br>
+Mon 7 Aug 11:00<br>
+**Seniors’ Free Matinee: Heat and Dust + intro and Q&A with Adrian Garvey, Film Historian**<br>
+Mon 7 Aug 14:00<br>
+**Experimenta: Metal Machine Movies**<br>
+Wed 16 Aug 18:10<br>
+**Relaxed Screening: Gregory’s Girl + intro and discussion**<br>
+Mon 21 Aug 18:20<br>
+**Projecting the Archive: Face the Music (aka The Black Glove) + intro by Josephine Botting, BFI Curator**<br>
+Tue 22 Aug 18:10<br>
+**Art in the Making: Grove Music + discussion**<br>
+Tue 22 Aug 18:20<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE3MzIyNTg0ODhdfQ==
 -->
