@@ -51,39 +51,21 @@ Louis De Witt
 
 _Editor:_ Robert Golden
 
-_Art Direction by:_ Hilyard Brown
-
-_Set Decoration:_ Al Spencer
-
-_Property Man:_ Joe La Bella
-
-_Wardrobe:_ Jerry Bos
-
-_Assisted by:_ Evelyn Carruth
-
-_Makeup:_ Don Cash
-
-_Hair Stylist:_ Kay Shea
-
-_Music by:_ Walter Schumann
-
-_Sound:_ Stanford Naughton
-
-_Sound System:_ Western Electric
-
-_uncredited_
-
-_2nd Unit Directors:_ Terry Sanders,
-
-Frank Parmenter
-
-_Dialogue Director:_ Denis Sanders
-
-_2nd Unit Director of Photography:_
-
-Harold E. Wellman
-
-_Camera Operator:_ Bud Mautino
+_Art Direction by:_ Hilyard Brown  
+_Set Decoration:_ Al Spencer  
+_Property Man:_ Joe La Bella  
+_Wardrobe:_ Jerry Bos  
+_Assisted by:_ Evelyn Carruth  
+_Makeup:_ Don Cash  
+_Hair Stylist:_ Kay Shea  
+_Music by:_ Walter Schumann  
+_Sound:_ Stanford Naughton  
+_Sound System:_ Western Electric  
+_uncredited_  
+_2nd Unit Directors:_ Terry Sanders, Frank Parmenter  
+_Dialogue Director:_ Denis Sanders  
+_2nd Unit Director of Photography:_ Harold E. Wellman  
+_Camera Operator:_ Bud Mautino  
 _Camera Assistants:_ Seymour Hoffberg, Robert B. Hauser  
 _Gaffer:_ James Potevin  
 
@@ -107,5 +89,5 @@ Corey Allen _(young boy in town)_
 USA 1955©  
 92 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDYyMzMxOV19
+eyJoaXN0b3J5IjpbMjEwMDg3MzI0NV19
 -->
