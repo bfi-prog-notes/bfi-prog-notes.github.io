@@ -61,33 +61,21 @@ _Original Songs by:_ Billie Eilish, Finneas O’Connell<br>
 **Voice Cast**<br>
 Rosalie Chang _(Meilin/Panda Meilin)_<br>
 Sandra Oh _(Ming/Panda Ming/young Ming)_<br>
-
 Ava Morse _(Miriam)_<br>
-
 Hyein Park _(Abby)_<br>
-
 Maitreyi Ramakrishnan _(Priya)_<br>
-
 Orion Lee _(Jin)_<br>
-
 Wai Ching Ho _(Grandma/Grandma Panda)_<br>
-
 Tristan Allerick Chen _(Tyler)_<br>
-
 Loritan Chinn _(Auntie Chen)_<br>
-
 Mia Tagano _(Lily)_<br>
-
 Sherry Cola _(Helen)_<br>
-
 Lillian Kim _(Auntie Ping)_<br>
-
 James Hong _(Mr Gao)_<br>
 
 USA 2022©<br>
-
 100 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5MDgzNjQ4XX0=
+eyJoaXN0b3J5IjpbMjY5NjU3ODI4XX0=
 -->
