@@ -25,98 +25,69 @@ The character line-up includes Mei, her inner circle of friends and family and m
 <br><br>
 
 **BAO**<br>
-
 _Director:_ Domee Shi<br>
-
 USA 2018<br>
-
 8 mins<br>
 
 **TURNING RED**<br>
-
 _Directed by:_ Domee Shi<br>
-
 ©: Disney Enterprises, Inc., Pixar<br>
-
 _a_ Pixar Animation Studios _film_<br>
-
 _Presented by:_ Disney<br>
-
 _Executive Producers:_ Dan Scanlon, Pete Docter<br>
-
 _Produced by:_ Lindsey Collins<br>
-
 _Associate Producer:_ Sabine Koch O’Sullivan<br>
+_Production Manager:_ Lisa Fotheringham<br>
+_Casting by:_ Natalie Lyon, Kevin Reher<br>
+_Screenplay by:_ Julia Cho, Domee Shi<br>
+_Story by:_ Domee Shi, Julia Cho, Sarah Streicher<br>
+_Story Supervisors:_ Rosana Sullivan, Bill Presing<br>
+_Visual Effects Supervisor:_ Danielle Feinberg<br>
+_Animation Supervisors:_ Aaron Hartline, Patty Kihm<br>
+_Character Supervisor:_ Christian Hoffman<br>
+_Sets Supervisor:_ Steve Karski<br>
+_Crowds Animation Supervisor:_ Jane Snow Cassidy<br>
+_Crowds Technical Supervisor:_ Paul Kanyuk<br>
+_Simulation Supervisor:_ Jacob Brooks<br>
+_Effects Supervisor:_ Dave Hale<br>
+_Global Technology Supervisor:_ Gordon Cameron<br>
+_Directors of Photography:_ Mahyar Abousaeedi, Jonathan Pytko<br>
+_Edited by:_ Nicholas C. Smith<br>
+_Co-Editor:_ Steve Bloom<br>
+_Production Designer:_ Rona Liu<br>
+_Original Score by:_ Ludwig Göransson<br>
+_Original Songs by:_ Billie Eilish, Finneas O’Connell<br>
 
-_Production Manager:_ Lisa Fotheringham
+**Voice Cast**<br>
+Rosalie Chang _(Meilin/Panda Meilin)_<br>
+Sandra Oh _(Ming/Panda Ming/young Ming)_<br>
 
-_Casting by:_ Natalie Lyon, Kevin Reher
+Ava Morse _(Miriam)_<br>
 
-_Screenplay by:_ Julia Cho, Domee Shi
+Hyein Park _(Abby)_<br>
 
-_Story by:_ Domee Shi, Julia Cho, Sarah Streicher
+Maitreyi Ramakrishnan _(Priya)_<br>
 
-_Story Supervisors:_ Rosana Sullivan, Bill Presing
+Orion Lee _(Jin)_<br>
 
-_Visual Effects Supervisor:_ Danielle Feinberg
+Wai Ching Ho _(Grandma/Grandma Panda)_<br>
 
-_Animation Supervisors:_ Aaron Hartline, Patty Kihm
+Tristan Allerick Chen _(Tyler)_<br>
 
-_Character Supervisor:_ Christian Hoffman
+Loritan Chinn _(Auntie Chen)_<br>
 
-_Sets Supervisor:_ Steve Karski
+Mia Tagano _(Lily)_<br>
 
-_Crowds Animation Supervisor:_ Jane Snow Cassidy
+Sherry Cola _(Helen)_<br>
 
-_Crowds Technical Supervisor:_ Paul Kanyuk _Simulation Supervisor:_ Jacob Brooks
+Lillian Kim _(Auntie Ping)_<br>
 
-_Effects Supervisor:_ Dave Hale
+James Hong _(Mr Gao)_<br>
 
-_Global Technology Supervisor:_ Gordon Cameron
+USA 2022©<br>
 
-_Directors of Photography:_ Mahyar Abousaeedi, Jonathan Pytko
-
-_Edited by:_ Nicholas C. Smith
-
-_Co-Editor:_ Steve Bloom
-
-_Production Designer:_ Rona Liu
-
-_Original Score by:_ Ludwig Göransson
-
-_Original Songs by:_ Billie Eilish, Finneas O’Connell
-
-_Voice Cast:_
-
-Rosalie Chang _(Meilin/Panda Meilin)_
-
-Sandra Oh _(Ming/Panda Ming/young Ming)_
-
-Ava Morse _(Miriam)_
-
-Hyein Park _(Abby)_
-
-Maitreyi Ramakrishnan _(Priya)_
-
-Orion Lee _(Jin)_
-
-Wai Ching Ho _(Grandma/Grandma Panda)_
-
-Tristan Allerick Chen _(Tyler)_
-
-Loritan Chinn _(Auntie Chen)_
-
-Mia Tagano _(Lily)_
-
-Sherry Cola _(Helen)_
-
-Lillian Kim _(Auntie Ping)_
-
-James Hong _(Mr Gao)_
-
-USA 2022©
-
-100 mins
+100 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODE1MzA0MF19
+eyJoaXN0b3J5IjpbNjk5MDgzNjQ4XX0=
 -->
