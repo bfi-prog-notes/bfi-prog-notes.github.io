@@ -53,13 +53,11 @@ _Colour by:_ Technicolor
 _Sound Mixer:_ James Sabat  
 _Rerecording Supervisor:_ Richard Vorisek  
 _Sound Editor:_ Jack Fitzstephens  
-_[Assistant] Sound Editors:_ Richard Cirincione,
-
-Sanford Rackow, Stephen A. Rotter  
+_[Assistant] Sound Editors:_ Richard Cirincione, Sanford Rackow, Stephen A. Rotter  
 _Photographic Equipment by:_ Panavision  
 _Unit Publicity:_ Solters & Roskin  
-_Cast:_
 
+**Cast**  
 Al Pacino _(Sonny Wortzik)_
 
 _the bank_  
@@ -101,64 +99,56 @@ Lionel Pina _(pizza boy)_
 _uncredited_  
 Thomas Murphy _(policeman with Angie)_
 
-USA 1975©
-
+USA 1975©  
 125 mins
+<br><br>
 
-
-<![endif]-->
-
-**BE GAY DO CRIME: A SEASON OF QUEER CRIME FILMS**
-
-**Bound**
-
-Tue 1 Aug 20:35 (+ pre-recorded intro by film critic Xuanlin Tham); Fri 11 Aug 20:30; Thu 31 Aug 18:10
-
-**Dog Day Afternoon**
-
-Wed 2 Aug 20:30; Thu 17 Aug 18:00;  
-Sun 27 Aug 18:15
-
-**Chocolate Babies**
-
-Thu 3 Aug 20:30 (+ intro by season programmer Grace Barber-Plentie); Sat 19 Aug 20:50
-
-**Female Trouble**
+**BE GAY DO CRIME: A SEASON OF QUEER CRIME FILMS**<br>
+**Bound**<br>
+Tue 1 Aug 20:35 (+ pre-recorded intro by film critic Xuanlin Tham); Fri 11 Aug 20:30; Thu 31 Aug 18:10<br>
+**Dog Day Afternoon**<br>
+Wed 2 Aug 20:30; Thu 17 Aug 18:00;  Sun 27 Aug 18:15<br>
+**Chocolate Babies**<br>
+Thu 3 Aug 20:30 (+ intro by season programmer Grace Barber-Plentie); Sat 19 Aug 20:50<br>
+**Female Trouble**<br>
 
 Sat 5 Aug 18:15; Thu 10 Aug 18:15 (+ intro by Justin Johnson, Lead Programmer);  
-Fri 25 Aug 20:45
+Fri 25 Aug 20:45<br>
 
-**The Devil Queen (A Rainha Diaba)**
+**The Devil Queen (A Rainha Diaba)**<br>
 
-Mon 7 Aug 20:40; Fri 18 Aug 18:10
+Mon 7 Aug 20:40; Fri 18 Aug 18:10<br>
 
-**By Hook or By Crook**
+**By Hook or By Crook**<br>
 
-Tue 8 Aug 20:50; Tue 15 Aug 18:20 (+ intro by Zorian Clayton, BFI Flare Programmer)
+Tue 8 Aug 20:50; Tue 15 Aug 18:20 (+ intro by Zorian Clayton, BFI Flare Programmer)<br>
 
-**Madame Satã**
+**Madame Satã**<br>
 
-Thu 10 Aug 20:40; Sun 20 Aug 12:30
+Thu 10 Aug 20:40; Sun 20 Aug 12:30<br>
 
-**Fresh Kill**
+**Fresh Kill**<br>
 
-Mon 14 Aug 20:40; Sun 27 Aug 13:20
+Mon 14 Aug 20:40; Sun 27 Aug 13:20<br>
 
-**The Bloodettes (Les Saignantes)**
+**The Bloodettes (Les Saignantes)**<br>
 
-Tue 15 Aug 20:30; Mon 21 Aug 20:30
+Tue 15 Aug 20:30; Mon 21 Aug 20:30<br>
 
-**My Brother the Devil**
+**My Brother the Devil**<br>
 
-Wed 16 Aug 20:40; Thu 24 Aug 17:50
+Wed 16 Aug 20:40; Thu 24 Aug 17:50<br>
 
-**On Guard**
+**On Guard**<br>
 
-Thu 17 Aug 20:45; Mon 21 Aug 18:30
+Thu 17 Aug 20:45; Mon 21 Aug 18:30<br>
 
-**The Living End**
+**The Living End**<br>
 
-Tue 22 Aug 20:40; Mon 28 Aug 14:30
+Tue 22 Aug 20:40; Mon 28 Aug 14:30<br>
+<br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDYxNjA2NV19
+eyJoaXN0b3J5IjpbLTg2OTgxOTgzMF19
 -->
