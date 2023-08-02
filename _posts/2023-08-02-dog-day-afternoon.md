@@ -111,44 +111,26 @@ Wed 2 Aug 20:30; Thu 17 Aug 18:00;  Sun 27 Aug 18:15<br>
 **Chocolate Babies**<br>
 Thu 3 Aug 20:30 (+ intro by season programmer Grace Barber-Plentie); Sat 19 Aug 20:50<br>
 **Female Trouble**<br>
-
-Sat 5 Aug 18:15; Thu 10 Aug 18:15 (+ intro by Justin Johnson, Lead Programmer);  
-Fri 25 Aug 20:45<br>
-
+Sat 5 Aug 18:15; Thu 10 Aug 18:15 (+ intro by Justin Johnson, Lead Programmer);  Fri 25 Aug 20:45<br>
 **The Devil Queen (A Rainha Diaba)**<br>
-
 Mon 7 Aug 20:40; Fri 18 Aug 18:10<br>
-
 **By Hook or By Crook**<br>
-
 Tue 8 Aug 20:50; Tue 15 Aug 18:20 (+ intro by Zorian Clayton, BFI Flare Programmer)<br>
-
 **Madame Satã**<br>
-
 Thu 10 Aug 20:40; Sun 20 Aug 12:30<br>
-
 **Fresh Kill**<br>
-
 Mon 14 Aug 20:40; Sun 27 Aug 13:20<br>
-
 **The Bloodettes (Les Saignantes)**<br>
-
 Tue 15 Aug 20:30; Mon 21 Aug 20:30<br>
-
 **My Brother the Devil**<br>
-
 Wed 16 Aug 20:40; Thu 24 Aug 17:50<br>
-
 **On Guard**<br>
-
 Thu 17 Aug 20:45; Mon 21 Aug 18:30<br>
-
 **The Living End**<br>
-
 Tue 22 Aug 20:40; Mon 28 Aug 14:30<br>
 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTgxOTgzMF19
+eyJoaXN0b3J5IjpbLTY2MDIxNDM1NF19
 -->
