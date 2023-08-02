@@ -6,9 +6,8 @@
 
 In my film-watching experience, _The Night of the Hunter_ is the closest a director has come to capturing the hypnotic, compelling potency of the kind of nightmares we have when we are children. Initially, I was knocked out by Stanley Cortez’s stunning black and white photography, but after repeated viewing I have also developed immense respect for [Charles] Laughton’s direction and for the actors’ performances (in particular, Lillian Gish and Robert Mitchum, but Shelley Winters as Mitchum’s new wife is also quite unforgettable). Not only is the film very frightening – every single adult, with the exception of Lillian Gish, betrays the two helpless children – but it’s filled with great beauty and compassion for the innocence of childhood. There is a recurring image of wandering, homeless kids begging for food. At one point Gish comments on children surviving horrendous experiences – ‘they abide and they endure,’ she says.
 
-Like a Grimm’s fairy tale it mixes magical beauty with primal fears. While elements of the movie now seem awkward and/or dated, for the most part it still holds tremendous power. My favourite moments: Lillian Gish in her rocking chair on the screened-in porch, holding a gun and singing a hymn with Robert Mitchum who sits just outside the house waiting for an opportunity to get inside to kill her and the children; the love/hate speech Mitchum makes in the ice-cream store while passing himself off as a preacher; the ghostly river journey made by the children with all the night creatures watching them sail by in the moonlight; and, at the end, when the mob of self-righteous do-gooders have turned into screaming maniacs calling for the murderer’s blood, the moment when the camera pans off the mob to Gish with her arms around the homeless children she has taken under her wing, leading them off to safety. As Rachel, a benefactor of lost children, Lillian Gish scoops up any kid who needs her – ‘I’m an old tree with branches for many birds’, she says, ‘I’m good for something in this world and I know it.’
-
-Jocelyn Moorhouse, _Sight and Sound_, April 1995
+Like a Grimm’s fairy tale it mixes magical beauty with primal fears. While elements of the movie now seem awkward and/or dated, for the most part it still holds tremendous power. My favourite moments: Lillian Gish in her rocking chair on the screened-in porch, holding a gun and singing a hymn with Robert Mitchum who sits just outside the house waiting for an opportunity to get inside to kill her and the children; the love/hate speech Mitchum makes in the ice-cream store while passing himself off as a preacher; the ghostly river journey made by the children with all the night creatures watching them sail by in the moonlight; and, at the end, when the mob of self-righteous do-gooders have turned into screaming maniacs calling for the murderer’s blood, the moment when the camera pans off the mob to Gish with her arms around the homeless children she has taken under her wing, leading them off to safety. As Rachel, a benefactor of lost children, Lillian Gish scoops up any kid who needs her – ‘I’m an old tree with branches for many birds’, she says, ‘I’m good for something in this world and I know it.’  
+**Jocelyn Moorhouse, _Sight and Sound_, April 1995**
 
 Charles Laughton’s film proved too perverse in tone and style for its time (a nation still feeling its way out of the nightmare of McCarthyism and the Korean War towards what was to be a post-war boom with its attendant liberalisation).
 
@@ -20,7 +19,93 @@ If _Hunter_ depends on empathy, it also relies on distanciation. We are struck b
 
 Political and economic crises encourage an uncomplicated (and pointless) nostalgia for lost innocence, for the good old days. _Hunter_, made during one crisis (McCarthyism), about another (the Depression), gives an airing to old-fashioned virtues and values. Alongside this ethical consensus we must set an implicit nostalgia for the dear dead days of silent cinema. Before embarking on his first film Laughton studied all D. W. Griffith’s. This provided him with a refresher course in filmmaking technique. But Laughton and his team also wanted to create the Arcadian qualities Griffith’s use of landscape had, with its emphasis on natural light and deep space. The sequence when the paddle steamer passes Cresap’s Landing has just this impressionistic feeling.  
 The presence of Lillian Gish refers us back to Griffith. And Cortez rehabilitates archaic devices like the iris. There is a shot of Mitchum leaning against a tree in the Harper garden. He is intensifying his terror campaign and calls out seductively for the children. As he moves towards the house, the camera irises down to a detail until then unnoticed: John and Pearl’s grimy faces pressed fearfully against the cellar window.  
-**Paul Hammond, _Sight and Sound_, Spring 1979**
+**Paul Hammond, _Sight and Sound_, Spring 1979**  
+<br>
+<![endif]-->
+
+**The Night of the Hunter**
+
+_Directed by:_ Charles Laughton
+
+_©:_ Paul Gregory Productions
+
+_Presented by:_ Paul Gregory Productions
+
+_Released thru:_ United Artists
+
+_Produced by:_ Paul Gregory
+
+_Production Manager:_ Ruby Rosenberg
+
+_Assistant Director:_ Milton Carter
+
+_Screen Play by:_ James Agee
+
+_From the novel by:_ Davis Grubb
+
+_Photography by:_ Stanley Cortez
+
+_Special Photographic Effects:_ Jack Rabin,
+
+Louis De Witt
+
+_Editor:_ Robert Golden
+
+_Art Direction by:_ Hilyard Brown
+
+_Set Decoration:_ Al Spencer
+
+_Property Man:_ Joe La Bella
+
+_Wardrobe:_ Jerry Bos
+
+_Assisted by:_ Evelyn Carruth
+
+_Makeup:_ Don Cash
+
+_Hair Stylist:_ Kay Shea
+
+_Music by:_ Walter Schumann
+
+_Sound:_ Stanford Naughton
+
+_Sound System:_ Western Electric
+
+_uncredited_
+
+_2nd Unit Directors:_ Terry Sanders,
+
+Frank Parmenter
+
+_Dialogue Director:_ Denis Sanders
+
+_2nd Unit Director of Photography:_
+
+Harold E. Wellman
+
+_Camera Operator:_ Bud Mautino
+_Camera Assistants:_ Seymour Hoffberg, Robert B. Hauser  
+_Gaffer:_ James Potevin  
+
+**Cast**  
+Robert Mitchum _(Preacher Harry Powell)_  
+Shelley Winters _(Willa Harper)_  
+Lillian Gish _(Miss Rachel Cooper)_  
+James Gleason _(Uncle Birdie)_  
+Evelyn Varden _(Icey Spoon)_  
+Peter Graves _(Ben Harper)_  
+Don Beddoe _(Walter ‘Walt’ Spoon)_  
+Billy Chapin _(John Harper)_  
+Sally Jane Bruce _(Pearl Harper)_  
+Gloria Castilo _(Ruby)_  
+_uncredited_  
+Mary Ellen Clemons _(Clary)_  
+Cheryl Callaway _(Mary)_  
+Paul Bryar _(Bart, the hangman)_  
+Corey Allen _(young boy in town)_  
+
+USA 1955©  
+92 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3NTU0MDA4XX0=
+eyJoaXN0b3J5IjpbMTk2NDYyMzMxOV19
 -->
