@@ -21,9 +21,8 @@ Political and economic crises encourage an uncomplicated (and pointless) nostalg
 The presence of Lillian Gish refers us back to Griffith. And Cortez rehabilitates archaic devices like the iris. There is a shot of Mitchum leaning against a tree in the Harper garden. He is intensifying his terror campaign and calls out seductively for the children. As he moves towards the house, the camera irises down to a detail until then unnoticed: John and Pearl’s grimy faces pressed fearfully against the cellar window.  
 **Paul Hammond, _Sight and Sound_, Spring 1979**  
 <br>
-<![endif]-->
 
-**THE NI**  
+**THE NIGHT OF THE HUNTER**  
 _Directed by:_ Charles Laughton  
 _©:_ Paul Gregory Productions  
 _Presented by:_ Paul Gregory Productions  
@@ -74,5 +73,5 @@ Corey Allen _(young boy in town)_
 USA 1955©  
 92 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjIyNDk4OTBdfQ==
+eyJoaXN0b3J5IjpbLTEzNjA5MTQxOTJdfQ==
 -->
