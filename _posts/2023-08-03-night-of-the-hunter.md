@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Miller's Crossing
+title: The Night of the Hunter
 published: true
-date: 2023-08-01
+date: 2023-08-03
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama, Crime, Gangster]
-metadata: 'USA 1990, 115 mins<br> Director: Joel Coen'
+tags: [Drama, Thriller]
+metadata: 'USA 1955, 115 mins<br> Director: Joel Coen'
 pdf: '2023-08-01-millers-crossing.pdf'
 ---
-
-
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -116,5 +114,5 @@ Thu 17 Aug 20:20; Sun 27 Aug 15:20
 **Blue Velvet**
 Sat 19 Aug 17:45; Thu 24 Aug 18:10; Thu 31 Aug 20:35  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTI0Nzg4ODldfQ==
+eyJoaXN0b3J5IjpbMTc4NzUzNDIwOV19
 -->
