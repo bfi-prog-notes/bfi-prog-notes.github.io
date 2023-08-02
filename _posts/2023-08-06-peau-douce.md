@@ -23,64 +23,32 @@ There is still much of the old Truffaut in _La Peau douce_, in the quotations fr
 The weaknesses are self-evident. There is a certain lack of conviction in the background details of an intellectual who directs an avant-garde review from an attic but lives the private life of a big businessman; and rather than the final shooting _à Ia_ Godard, I would have preferred an ending which left Lachenay abandoned by both women. But these faults are small. The film shows what Truffaut could have achieved (and will achieve) with a trio of actors as fine as Françoise Dorleac. Jean Desailly and Nelly Benedetti are excellent, but Françoise Dorleac reaches beyond mere performance. One would swear that Truffaut had talked the role over endlessly with her, injecting it piece by piece, shaping gradually until the character herself took over, inventing her own dialogue and living the film as it went along. After the glittering lightning flashes of _Jules et Jim_, Truffaut has here made, in a film about adultery, his first adult film.  
 **Gilles Jacob, _Sight and Sound_, Autumn 1964**  
 <br>
-<![endif]-->
 
-**La Peau douce**
+**LA PEAU DOUCE**  
+_Director:_ François Truffaut  
+_©:_ Les Films du Carrosse, SEDIF, Simar Films  
+_Original Screenplay by:_ F. Truffaut, Jean-Louis Richard  
+_Director of Photography:_ Raoul Coutard  
+_Editor:_ Claudine Bouché  
+_Laboratory:_ Franay L.T.C. St.-Cloud  
+_Music:_ Georges Delerue  
+_Music Publisher:_ Editions Musicales Hortensia  
+_Sound Recording:_ Studio Marignan  
+_uncredited_  
+_Production Company:_ Producões Cunha Telles  
+_Producers:_ François Truffaut, António da Cunha Telles  
+_Production Manager:_ Marcel Berbert  
+_Assistant Directors:_ Jean-François Adam, Jean-Pierre Léaud, Claude Othnin-Girard  
+_Continuity:_ Suzanne Schiffman  
+_Camera Operators:_ Georges Liron, Denis Mornet  
+_Assistant Camera:_ Claude Beausoleil  
+_Still Photographer:_ Raymond Cauchetier  
+_Assistant Editor:_ Lila Biro  
+_Properties:_ Jean-Claude Dolbert  
+_Costumes:_ Renée Rouzot  
+_Make-up Artist:_ Nicole Félix  
 
-_Director:_ François Truffaut
-
-_©:_ Les Films du Carrosse, SEDIF, Simar Films
-
-_Original Screenplay by:_ F. Truffaut,
-
-Jean-Louis Richard
-
-_Director of Photography:_ Raoul Coutard
-
-_Editor:_ Claudine Bouché
-
-_Laboratory:_ Franay L.T.C. St.-Cloud
-
-_Music:_ Georges Delerue
-
-_Music Publisher:_ Editions Musicales Hortensia
-
-_Sound Recording:_ Studio Marignan
-
-_uncredited_
-
-_Production Company:_ Producões Cunha Telles
-
-_Producers:_ François Truffaut,
-
-António da Cunha Telles
-
-_Production Manager:_ Marcel Berbert
-
-_Assistant Directors:_ Jean-François Adam,
-
-Jean-Pierre Léaud, Claude Othnin-Girard
-
-_Continuity:_ Suzanne Schiffman
-
-_Camera Operators:_ Georges Liron,
-
-Denis Mornet
-
-_Assistant Camera:_ Claude Beausoleil
-
-_Still Photographer:_ Raymond Cauchetier
-
-_Assistant Editor:_ Lila Biro
-
-_Properties:_ Jean-Claude Dolbert
-
-_Costumes:_ Renée Rouzot
-
-_Make-up Artist:_ Nicole Félix
-
-_Cast:_
-
+**Cast**  
 Jean Desailly _(Pierre Lachenay)_
 
 Françoise Dorléac _(Nicole Chomette)_
@@ -129,5 +97,5 @@ France/Portugal 1964©
 
 113 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjQ4MDgzNCwtMTk5NjAzOTkyN119
+eyJoaXN0b3J5IjpbMjM1ODg3MjExLC0xOTk2MDM5OTI3XX0=
 -->
