@@ -15,7 +15,7 @@ pdf: '2023-08-03-night-of-the-hunter.pdf'
 In my film-watching experience, _The Night of the Hunter_ is the closest a director has come to capturing the hypnotic, compelling potency of the kind of nightmares we have when we are children. Initially, I was knocked out by Stanley Cortez’s stunning black and white photography, but after repeated viewing I have also developed immense respect for [Charles] Laughton’s direction and for the actors’ performances (in particular, Lillian Gish and Robert Mitchum, but Shelley Winters as Mitchum’s new wife is also quite unforgettable). Not only is the film very frightening – every single adult, with the exception of Lillian Gish, betrays the two helpless children – but it’s filled with great beauty and compassion for the innocence of childhood. There is a recurring image of wandering, homeless kids begging for food. At one point Gish comments on children surviving horrendous experiences – ‘they abide and they endure,’ she says.
 
 Like a Grimm’s fairy tale it mixes magical beauty with primal fears. While elements of the movie now seem awkward and/or dated, for the most part it still holds tremendous power. My favourite moments: Lillian Gish in her rocking chair on the screened-in porch, holding a gun and singing a hymn with Robert Mitchum who sits just outside the house waiting for an opportunity to get inside to kill her and the children; the love/hate speech Mitchum makes in the ice-cream store while passing himself off as a preacher; the ghostly river journey made by the children with all the night creatures watching them sail by in the moonlight; and, at the end, when the mob of self-righteous do-gooders have turned into screaming maniacs calling for the murderer’s blood, the moment when the camera pans off the mob to Gish with her arms around the homeless children she has taken under her wing, leading them off to safety. As Rachel, a benefactor of lost children, Lillian Gish scoops up any kid who needs her – ‘I’m an old tree with branches for many birds’, she says, ‘I’m good for something in this world and I know it.’  
-**Jocelyn Moorhouse, _Sight and Sound_, April 1995**
+**Jocelyn Moorhouse, _Sight and Sound_, April 1995**  
 
 Charles Laughton’s film proved too perverse in tone and style for its time (a nation still feeling its way out of the nightmare of McCarthyism and the Korean War towards what was to be a post-war boom with its attendant liberalisation).
 
@@ -114,5 +114,5 @@ Thu 17 Aug 20:20; Sun 27 Aug 15:20
 **Blue Velvet**
 Sat 19 Aug 17:45; Thu 24 Aug 18:10; Thu 31 Aug 20:35  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjYyNzAxOF19
+eyJoaXN0b3J5IjpbMTgyODAyMzIyMl19
 -->
