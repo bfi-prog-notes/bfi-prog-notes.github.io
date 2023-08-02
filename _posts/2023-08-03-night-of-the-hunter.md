@@ -6,8 +6,8 @@ date: 2023-08-03
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Thriller]
-metadata: 'USA 1955, 115 mins<br> Director: Joel Coen'
-pdf: '2023-08-01-millers-crossing.pdf'
+metadata: 'USA 1955, 92 mins<br> Director: Charles Laughton'
+pdf: '2023-08-03-night-of-the-hunter.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -114,5 +114,5 @@ Thu 17 Aug 20:20; Sun 27 Aug 15:20
 **Blue Velvet**
 Sat 19 Aug 17:45; Thu 24 Aug 18:10; Thu 31 Aug 20:35  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzUzNDIwOV19
+eyJoaXN0b3J5IjpbLTI4MjYyNzAxOF19
 -->
