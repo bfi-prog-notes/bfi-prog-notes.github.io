@@ -23,7 +23,7 @@ The presence of Lillian Gish refers us back to Griffith. And Cortez rehabilitate
 <br>
 <![endif]-->
 
-**The Night of the Hunter**  
+**THE NI**  
 _Directed by:_ Charles Laughton  
 _©:_ Paul Gregory Productions  
 _Presented by:_ Paul Gregory Productions  
@@ -74,5 +74,5 @@ Corey Allen _(young boy in town)_
 USA 1955©  
 92 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDgzMzY2OV19
+eyJoaXN0b3J5IjpbLTEyMjIyNDk4OTBdfQ==
 -->
