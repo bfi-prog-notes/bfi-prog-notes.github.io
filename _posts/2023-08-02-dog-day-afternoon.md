@@ -14,18 +14,14 @@ non-verbal modes of communication between people that so fascinate anthropologis
 
 But _Dog Day Afternoon_, despite (or rather because of) these simple pleasures, has more to say. Frank Pierson’s script describes a state of mind and a state of politics that is absolutely right for the time and place of the film, even if it hasn’t yet been articulated in print. Gradually but surely, Littlejohn and Sal yield centre stage as our attention is turned to the two groups that surround them: the hostages inside the bank and the crowd of spectators who gather outside to participate in the media event. The scenes within the bank reveal a knowledge of ‘victimology’, the psychology of the victims in situations like these. As the bank manager and his staff get to know the very nervous kid who has broken their routine they tend to identify with him, to see things from his perspective. They slowly realise that the police and the FBI outside have as their first priority not the preservation of the hostages’ lives but the preservation of an ideal of social order. Outside the bank, meanwhile, Lumet captures not only the air of festivity (this is an event after all) but also the felt undercurrent of political discontent. Sonny exploits this (in a brilliant scene) by chanting the one-word slogan ‘Attica!’ at the cops, a refrain that is quickly picked up by the restless crowd.
 
-Not to suggest that the politics of _Dog Day Afternoon_ are as simplistic as that slogan. The crowd, rooting for Sonny (Littlejohn in the film) during the afternoon, quickly turn on him when they find out that he’s gay. (Then the gay activists turn up with placards to make political capital of the event.) The police, meanwhile, have their own problems. Moretti (Charles Durning) is chief of the hostage squad of the N.Y.P.D. He knows his business and he has a sense of the forlornness of situations like these. Sheldon (James Broderick), on the other hand, heads the FBI squad and is full of a supercilious contempt for the local cop’s sensibilities. I’ve met several FBI agents in years past. I’ve always been fascinated by the supercilious macho air they all seem to carry with them, a complicated persona that broadcasts a sense of power, nonchalance and sexual energy. They must learn it in training school. But I’ve never seen this very precise, easily recognisable attitude portrayed on the screen before. It’s one of the small pleasures of _Dog Day Afternoon_, which when taken together give the film an honest vitality as well as a rather sophisticated if low-key political sense.
+Not to suggest that the politics of _Dog Day Afternoon_ are as simplistic as that slogan. The crowd, rooting for Sonny (Littlejohn in the film) during the afternoon, quickly turn on him when they find out that he’s gay. (Then the gay activists turn up with placards to make political capital of the event.) The police, meanwhile, have their own problems. Moretti (Charles Durning) is chief of the hostage squad of the N.Y.P.D. He knows his business and he has a sense of the forlornness of situations like these. Sheldon (James Broderick), on the other hand, heads the FBI squad and is full of a supercilious contempt for the local cop’s sensibilities. I’ve met several FBI agents in years past. I’ve always been fascinated by the supercilious macho air they all seem to carry with them, a complicated persona that broadcasts a sense of power, nonchalance and sexual energy. They must learn it in training school. But I’ve never seen this very precise, easily recognisable attitude portrayed on the screen before. It’s one of the small pleasures of _Dog Day Afternoon_, which when taken together give the film an honest vitality as well as a rather sophisticated if low-key political sense.  
+**James Monaco, _Sight and Sound_, Winter 1975/76**
+<br><br>
 
-James Monaco, _Sight and Sound_, Winter 1975/76
-
-<![endif]-->
-
-**DOG DAY AFTERNOON**
-
+**DOG DAY AFTERNOON**  
 _Directed by:_ Sidney Lumet  
 ©: Warner Bros.  
-_Production:_ Artists Entertainment  
-Complex Productions  
+_Production:_ Artists Entertainment  Complex Productions  
 _Produced by:_ Martin Bregman, Martin Elfand  
 _Associate Producer:_ Robert Greenhut  
 _Location Manager:_ Martin Danzig  
@@ -34,9 +30,7 @@ _2nd Assistant Director:_ Alan Hopkins
 _Script Supervisor:_ B.J. Bjorkman  
 _Casting:_ Don Phillips, Michael Chinich  
 _Screenplay by:_ Frank Pierson  
-_Based upon a magazine article by:_ P.F. Kluge,
-
-Thomas Moore  
+_Based upon a magazine article by:_ P.F. Kluge, Thomas Moore  
 _Director of Photography:_ Victor J. Kemper  
 _Camera Operator:_ Fred Schuler  
 _Key Grip:_ James Finnerty  
@@ -166,5 +160,5 @@ Thu 17 Aug 20:45; Mon 21 Aug 18:30
 
 Tue 22 Aug 20:40; Mon 28 Aug 14:30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjM3Njc1Ml19
+eyJoaXN0b3J5IjpbMTQxMDYxNjA2NV19
 -->
