@@ -73,15 +73,11 @@ Corey Allen _(young boy in town)_
 USA 1955©  
 92 mins  
 <br>
-<![endif]-->
 
-**BIG SCREEN CLASSICS**
-
-**Miller’s Crossing**
-
-Tue 1 Aug 20:40; Sat 12 Aug 15:20; Mon 14 Aug 18:10
-
-**Sawdust and Tinsel (Gycklanas afton)** 
+**BIG SCREEN CLASSICS**  
+**Miller’s Crossing**  
+Tue 1 Aug 20:40; Sat 12 Aug 15:20; Mon 14 Aug 18:10  
+**Sawdust and Tinsel (Gycklanas afton)**  
 Wed 2 Aug 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Tue 22 Aug 20:45  
 **The Night of the Hunter**  
 Thu 3 Aug 20:50; Sat 26 Aug 18:10; Tue 29 Aug 20:50  
@@ -110,5 +106,5 @@ Thu 17 Aug 20:20; Sun 27 Aug 15:20
 **Blue Velvet**
 Sat 19 Aug 17:45; Thu 24 Aug 18:10; Thu 31 Aug 20:35  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjIwODIxNF19
+eyJoaXN0b3J5IjpbLTE1NjU4NDYwNTNdfQ==
 -->
