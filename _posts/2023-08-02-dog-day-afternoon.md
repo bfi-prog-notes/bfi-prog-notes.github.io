@@ -1,3 +1,14 @@
+---
+layout: post
+title: Dog Day Afternoon
+published: true
+date: 2023-08-02
+readtime: true
+categories: ['BE GAY DO CRIME<br>A SEASON OF QUEER CRIME FILMS']
+tags: [Crime, Drama]
+metadata: 'USA 1975, 125 mins<br> Director: Sidney Lumet'
+pdf: '2023-08-02-dog-day-afternoon.pdf'
+---
 
 On August 22, 1972 at about 3 p.m., when the temperature in New York hovered around the debilitating mark of 97 degrees, the all-news radio stations began carrying the first reports of an intriguing story. At a small branch of the Chase Manhattan Bank at Avenue P and 3rd Street in the wilds of Brooklyn a robbery was in progress. A not unusual occurrence, except that this time the two young men who were holding a dozen or so employees and customers at bay had a special purpose in mind. The leader, ‘Littlejohn’ Wojtowicz, wanted the money to finance gender-affirming surgery for his (then) male wife.
 
@@ -9,8 +20,7 @@ But the script underwent drastic revisions just before and during shooting and t
 
 Lumet has always done his best work on location in New York. He seems to come alive in the city, and the half dozen or so films he has made here rank among the best New York movies of the last 15 years. Lumet the bad is responsible for pompous symbolic dramas like _The Pawnbroker_ and _The Hill_ (or at best weighty, sluggish translations from the stage, like _A View from the Bridge_ and _The Seagull_). Lumet the good, however, has evinced an unmatched feel for the rhythms of New York City in such films as _Bye Bye Braverman_, _The Anderson Tapes_, _Serpico_ (despite its serious ideological problems) and _The Group_.
 
-In its understanding of the way people talk, act and think in the city, _Dog Day Afternoon_ is striking: a veritable sociological data bank. Lumet can draw more out of talented actors like John Cazale, Sully Boyar, Carol Kane, Marcia Jean Kurtz, James Broderick, Charles Durning and Chris Sarandon than just about any other director working today. There is a real sense here of the subtle,  
-non-verbal modes of communication between people that so fascinate anthropologists these days. It may be difficult to give examples of these shrewd successes of the actor’s art in print, but the effect is clear and striking on screen. Especially when photographed by the remarkable Victor J. Kemper, one of the most judicious and intelligent cinematographers at work today.
+In its understanding of the way people talk, act and think in the city, _Dog Day Afternoon_ is striking: a veritable sociological data bank. Lumet can draw more out of talented actors like John Cazale, Sully Boyar, Carol Kane, Marcia Jean Kurtz, James Broderick, Charles Durning and Chris Sarandon than just about any other director working today. There is a real sense here of the subtle,  non-verbal modes of communication between people that so fascinate anthropologists these days. It may be difficult to give examples of these shrewd successes of the actor’s art in print, but the effect is clear and striking on screen. Especially when photographed by the remarkable Victor J. Kemper, one of the most judicious and intelligent cinematographers at work today.
 
 But _Dog Day Afternoon_, despite (or rather because of) these simple pleasures, has more to say. Frank Pierson’s script describes a state of mind and a state of politics that is absolutely right for the time and place of the film, even if it hasn’t yet been articulated in print. Gradually but surely, Littlejohn and Sal yield centre stage as our attention is turned to the two groups that surround them: the hostages inside the bank and the crowd of spectators who gather outside to participate in the media event. The scenes within the bank reveal a knowledge of ‘victimology’, the psychology of the victims in situations like these. As the bank manager and his staff get to know the very nervous kid who has broken their routine they tend to identify with him, to see things from his perspective. They slowly realise that the police and the FBI outside have as their first priority not the preservation of the hostages’ lives but the preservation of an ideal of social order. Outside the bank, meanwhile, Lumet captures not only the air of festivity (this is an event after all) but also the felt undercurrent of political discontent. Sonny exploits this (in a brilliant scene) by chanting the one-word slogan ‘Attica!’ at the cops, a refrain that is quickly picked up by the restless crowd.
 
@@ -129,6 +139,30 @@ Thu 17 Aug 20:45; Mon 21 Aug 18:30<br>
 **The Living End**<br>
 Tue 22 Aug 20:40; Mon 28 Aug 14:30<br>
 <br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 
 
 <!--stackedit_data:
