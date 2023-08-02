@@ -23,34 +23,19 @@ The presence of Lillian Gish refers us back to Griffith. And Cortez rehabilitate
 <br>
 <![endif]-->
 
-**The Night of the Hunter**
-
-_Directed by:_ Charles Laughton
-
-_©:_ Paul Gregory Productions
-
-_Presented by:_ Paul Gregory Productions
-
-_Released thru:_ United Artists
-
-_Produced by:_ Paul Gregory
-
-_Production Manager:_ Ruby Rosenberg
-
-_Assistant Director:_ Milton Carter
-
-_Screen Play by:_ James Agee
-
-_From the novel by:_ Davis Grubb
-
-_Photography by:_ Stanley Cortez
-
-_Special Photographic Effects:_ Jack Rabin,
-
-Louis De Witt
-
-_Editor:_ Robert Golden
-
+**The Night of the Hunter**  
+_Directed by:_ Charles Laughton  
+_©:_ Paul Gregory Productions  
+_Presented by:_ Paul Gregory Productions  
+_Released thru:_ United Artists  
+_Produced by:_ Paul Gregory  
+_Production Manager:_ Ruby Rosenberg  
+_Assistant Director:_ Milton Carter  
+_Screen Play by:_ James Agee  
+_From the novel by:_ Davis Grubb  
+_Photography by:_ Stanley Cortez  
+_Special Photographic Effects:_ Jack Rabin, Louis De Witt
+_Editor:_ Robert Golden  
 _Art Direction by:_ Hilyard Brown  
 _Set Decoration:_ Al Spencer  
 _Property Man:_ Joe La Bella  
@@ -89,5 +74,5 @@ Corey Allen _(young boy in town)_
 USA 1955©  
 92 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDg3MzI0NV19
+eyJoaXN0b3J5IjpbLTk2NDgzMzY2OV19
 -->
