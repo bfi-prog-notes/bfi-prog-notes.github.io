@@ -24,94 +24,52 @@ Kipling enthusiasts may recoil in horror, and those constitutionally allergic to
 **_Monthly Film Bulletin_, January 1968**
 <br><br>
 
-**MOOSE HUNTERS**
+**MOOSE HUNTERS**<br>
+_Director:_ Ben Sharpsteen<br>
+USA 1937<br>
+9 mins<br>
 
-_Director:_ Ben Sharpsteen
+**THE JUNGLE BOOK**<br>
+_Directed by:_ Wolfgang Reitherman<br>
+©: Walt Disney Productions<br>
+_a_ Walt Disney _production_<br>
+_Distributed by:_ Buena Vista Distribution Co., Inc.<br>
+_Presented by:_ Walt Disney<br>
+_Production Manager:_ Don Duckwall<br>
+_Story:_ Larry Clemmons, Ralph Wright, Ken Anderson, Vance Gerry<br>
+_Inspired by the_ Rudyard Kipling _‘Mowgli’ stories Directing Animators:_ Milt Kahl, Ollie Johnston, Frank Thomas, John Lounsbery<br>
+_Character Animation:_ Hal King, Eric Cleworth,  Eric Larson, Fred Hellmich, Walt Stanchfield,  John Ewing, Dick Lucas<br>
+_Effects Animation:_ Dan Macmanus<br>
+_Layout:_ Don Griffith, Basil Davidovich,  Tom Codrick, Dale Barnhart, Sylvia Roemer<br>
+_Background Styling:_ Al Dempster<br>
+_Background:_ Bill Layne, Ralph Hulett, Art Riley, Thelma Witmer, Frank Armitage<br>
+_Film Editors:_ Tom Acosta, Norman Carlisle<br>
+_Colour by:_ Technicolor<br>
+_Music:_ George Bruns<br>
+_Songs:_ Robert B. Sherman, Richard M. Sherman<br>
+_‘The Bare Necessities’:_ Terry Gilkyson<br>
+_Sung by:_ Phil Harris<br>
+_Orchestration:_ Walter Sheets<br>
+_Music Editor:_ Evelyn Kennedy<br>
+_Sound:_ Robert O. Cook<br>
+_Sound System:_ RCA Sound Recording<br>
 
-USA 1937
+**Voice Cast**<br>
+Phil Harris _(‘Baloo’ the Bear)_<br>
+Sebastian Cabot _(‘Bagheera’ the Panther)_<br>
+Louis Prima _(‘King Louie’ of the Apes)_<br>
+George Sanders _(‘Shere Khan’ the Tiger)_<br>
+Sterling Holloway _(‘Kaa’ the Snake)_<br>
+J. Pat O’Malley _(‘Colonel Hathi’ the Elephant)_<br>
+Bruce Reitherman _(‘Mowgli’ the Man Cub)_<br>
+Verna Felton, Clint Howard _(elephants)_<br>
+Chad Stuart, Lord Tim Hudson _(vultures)_<br>
+John Abbott, Ben Wright _(wolves)_<br>
+Darleen Carr _(the girl)_<br>
 
-9 mins
-
-**THE JUNGLE BOOK**
-
-_Directed by:_ Wolfgang Reitherman
-
-©: Walt Disney Productions
-
-_a_ Walt Disney _production_
-
-_Distributed by:_ Buena Vista Distribution Co., Inc.
-
-_Presented by:_ Walt Disney
-
-_Production Manager:_ Don Duckwall
-
-_Story:_ Larry Clemmons, Ralph Wright,
-
-Ken Anderson, Vance Gerry
-
-_Inspired by the_ Rudyard Kipling _‘Mowgli’ stories Directing Animators:_ Milt Kahl, Ollie Johnston, Frank Thomas, John Lounsbery
-
-_Character Animation:_ Hal King, Eric Cleworth,  
-Eric Larson, Fred Hellmich, Walt Stanchfield,  
-John Ewing, Dick Lucas
-
-_Effects Animation:_ Dan Macmanus
-
-_Layout:_ Don Griffith, Basil Davidovich,  
-Tom Codrick, Dale Barnhart, Sylvia Roemer
-
-_Background Styling:_ Al Dempster
-
-_Background:_ Bill Layne, Ralph Hulett, Art Riley, Thelma Witmer, Frank Armitage
-
-_Film Editors:_ Tom Acosta, Norman Carlisle
-
-_Colour by:_ Technicolor
-
-_Music:_ George Bruns
-
-_Songs:_ Robert B. Sherman, Richard M. Sherman
-
-_‘The Bare Necessities’:_ Terry Gilkyson
-
-_Sung by:_ Phil Harris
-
-_Orchestration:_ Walter Sheets
-
-_Music Editor:_ Evelyn Kennedy
-
-_Sound:_ Robert O. Cook
-
-_Sound System:_ RCA Sound Recording
-
-_Voice Cast:_
-
-Phil Harris _(‘Baloo’ the Bear)_
-
-Sebastian Cabot _(‘Bagheera’ the Panther)_
-
-Louis Prima _(‘King Louie’ of the Apes)_
-
-George Sanders _(‘Shere Khan’ the Tiger)_
-
-Sterling Holloway _(‘Kaa’ the Snake)_
-
-J. Pat O’Malley _(‘Colonel Hathi’ the Elephant)_
-
-Bruce Reitherman _(‘Mowgli’ the Man Cub)_
-
-Verna Felton, Clint Howard _(elephants)_
-
-Chad Stuart, Lord Tim Hudson _(vultures)_
-
-John Abbott, Ben Wright _(wolves)_
-
-Darleen Carr _(the girl)_
-
-USA 1967©
-
-78 mins
+USA 1967©<br>
+78 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzM5MjgxOF19
+eyJoaXN0b3J5IjpbLTM3NTgzMzIwNl19
 -->
