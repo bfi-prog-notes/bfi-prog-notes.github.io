@@ -7,7 +7,7 @@ readtime: true
 categories: ['SENIORS']
 tags: [Drama, Period]
 metadata: 'UK 1982, 130 mins<br> Director: James Ivory'
-pdf: '2023-08-0-peau-douce.pdf'
+pdf: '2023-08-07-heat-and-dust.pdf'
 ---
 
 _+ intro and Q&A with Adrian Garvey, Film Historian_
@@ -163,6 +163,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc0MTUxNTAsLTE3NDg2NDM4NSwtNT
-A1ODI2NzIxLDE2OTAyNzcxMDgsLTExNzAwNDA4NjldfQ==
+eyJoaXN0b3J5IjpbMTg4MDMzNzUyOCwtMTc0ODY0Mzg1LC01MD
+U4MjY3MjEsMTY5MDI3NzEwOCwtMTE3MDA0MDg2OV19
 -->
