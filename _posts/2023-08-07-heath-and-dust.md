@@ -94,7 +94,66 @@ Leelabhai _(Leelavati)_
 
 UK 1982  
 130 mins  
+<br>
+
+<br>
+
+**BIG SCREEN CLASSICS**  
+**Miller’s Crossing**  
+Tue 1 Aug 20:40; Sat 12 Aug 15:20; Mon 14 Aug 18:10  
+**Sawdust and Tinsel (Gycklanas afton)**  
+Wed 2 Aug 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Tue 22 Aug 20:45  
+**The Night of the Hunter**  
+Thu 3 Aug 20:50; Sat 26 Aug 18:10; Tue 29 Aug 20:50  
+**The Bigamist**  
+Fri 4 Aug 20:45; Wed 9 Aug 18:00 (+ intro by Aga Baranowska, Events Programmer)  
+**3 Women**  
+Sat 5 Aug 20:30; Sun 20 Aug 18:25  
+**La Peau douce (Silken Skin)**  
+Sun 6 Aug 18:30; Thu 24 Aug 20:45  
+**In the Mood for Love (Huayang Nianhua)**  
+Mon 7 Aug 18:10; Fri 18 Aug 20:45; Fri 25 Aug 18:20  
+**Charulata (The Lonely Wife)**  
+Tue 8 Aug 20:35; Wed 16 Aug 18:00 (+ intro by Professor Chandak Sengoopta, Birkbeck College, University of London)  
+**Brief Encounter**  
+Thu 10 Aug 18:30; Sun 20 Aug 13:20  
+**Merrily We Go to Hell**  
+Fri 11 Aug 18:20; Wed 23 Aug 18:15 (+ intro by author and film journalist Helen O’Hara)  
+**Love Is the Devil: Study for a Portrait of Francis Bacon**  
+Sat 12 Aug 20:40; Wed 30 Aug 18:10 (+ intro)  
+**Mildred Pierce**  
+Sun 13 Aug 15:40; Mon 21 Aug 20:45; Mon 28 Aug 15:10  
+**Beau travail**  
+Tue 15 Aug 20:45; Mon 28 Aug 18:30  
+**Red River**  
+Thu 17 Aug 20:20; Sun 27 Aug 15:20  
+**Blue Velvet**
+Sat 19 Aug 17:45; Thu 24 Aug 18:10; Thu 31 Aug 20:35  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU5NDcxOTMsLTUwNTgyNjcyMSwxNj
-kwMjc3MTA4LC0xMTcwMDQwODY5XX0=
+eyJoaXN0b3J5IjpbLTE3NDg2NDM4NSwtNTA1ODI2NzIxLDE2OT
+AyNzcxMDgsLTExNzAwNDA4NjldfQ==
 -->
