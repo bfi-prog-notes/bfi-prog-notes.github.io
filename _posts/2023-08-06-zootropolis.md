@@ -27,17 +27,14 @@ According to head of story Josie Trinidad, filmmakers first looked at prey versu
 
 **THE GODFATHER OF THE BRIDE**  
 _Directors:_ Trent Correy, Josie Trinidad  
-USA 2022
-
+USA 2022  
 11 mins
 
-**ZOOTROPOLIS (AKA ZOOTOPIA)**
-
+**ZOOTROPOLIS (AKA ZOOTOPIA)**  
 _Directed by_: Byron Howard, Rich Moore  
 _Co-directed by_: Jared Bush  
 ©: Disney Enterprises Inc.  
-_Created and produced by_:  
-Walt Disney Animation Studios  
+_Created and produced by_:  Walt Disney Animation Studios  
 _Executive Producer_: John Lasseter  
 _Produced by_: Clark Spencer  
 _Production Manager_: Jeff Chasin  
@@ -45,31 +42,25 @@ _Post-production Supervisor_: David Okey
 _Casting_: Jamie Sparer Roberts  
 _Screenplay_: Jared Bush, Phil Johnston  
 _Story_: Byron Howard, Jared Bush, Rich Moore, Josie Trinidad, Jim Reardon, Phil Johnston, Jennifer Lee  
-_Director of Cinematography – Layout_:  
-Nathan Detroit Warner  
+_Director of Cinematography – Layout_:  Nathan Detroit Warner  
 _Director of Photography_: Brian Leach  
 _Visual Effects Supervisor_: Scott Kersavage  
 _Head of Animation_: Renato Dos Anjos  
 _Co-head of Animation_: Tony Smeed  
-_Animation Supervisors_: Nathan Engelhardt,  
-Jennifer Hager, Robert Huth, Kira Lehtomaki,  
-Chad Sellers  
+_Animation Supervisors_: Nathan Engelhardt,  Jennifer Hager, Robert Huth, Kira Lehtomaki,  Chad Sellers  
 _Edited by_: Fabienne Rawley, Jeremy Milton  
-_Production Designer_: David Goetz
-
+_Production Designer_: David Goetz  
 _Art Director – Characters_: Cory Loftis  
 _Art Director – Environments_: Matthias Lechner  
 _End Title Designer_: Mary Meacham Hogg  
 _Prints by_: FotoKem  
 _Original Score Composed by_: Michael Giacchino  
-_Score Orchestrated and Conducted by_:  
-Tim Simonec  
+_Score Orchestrated and Conducted by_:  Tim Simonec  
 _Sound Designer_: Addison Teague  
 _Re-recording Mixers_: David E. Fluhr, Gabriel Guy  
 _Supervising Sound Editor_: Addison Teague
 
-_Voice Cast:_
-
+**Voice Cast**  
 Ginnifer Goodwin _(Judy Hopps)_  
 Jason Bateman _(Nick Wilde)_  
 Idris Elba _(Chief Bogo)_  
@@ -83,9 +74,9 @@ Octavia Spencer _(Mrs Otterton)_
 Alan Tudyk _(Duke Weaselton)_  
 Shakira _(Gazelle)_
 
-USA 2016©
-
+USA 2016©  
 108 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyNjQ2MTE2XX0=
+eyJoaXN0b3J5IjpbLTEyOTg5MDAzOTZdfQ==
 -->
