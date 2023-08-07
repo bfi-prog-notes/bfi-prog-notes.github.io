@@ -1,8 +1,6 @@
 
 
 
-<![endif]-->
-
 _+ intro and Q&A with Adrian Garvey, Film Historian_
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -22,5 +20,5 @@ What is less defensible is the absence of a final note of aspiration in Anne’s
 It would be hard to match the depth and simplicity of this prose. But if there is one regret to record against this excellent film it is that Ivory has not quite given us a glimpse of the invisible mountains, but has, diffidently, perhaps, or embarrassedly, lowered his eyes at the last minute. Otherwise there is nothing to reproach, especially in the performances of Greta Scacchi as Olivia, Julie Christie as Anne, Christopher Cazenove as Douglas and, brilliant in his Englishness and his Indianness, Shashi Kapoor as the Nawab; nor the photography of Walter Lassally which does equal justice to the design, the landscape and the interiors, both of the buildings and the people.  
 **Gavin Millar, _Sight & Sound_, Winter 1982/3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzAwNDA4NjldfQ==
+eyJoaXN0b3J5IjpbMTY5MDI3NzEwOCwtMTE3MDA0MDg2OV19
 -->
