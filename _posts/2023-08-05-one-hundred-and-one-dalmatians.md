@@ -61,53 +61,31 @@ Frederic Worlock<br>
 Lisa Davis<br>
 Tom Conway<br>
 Tudor Owen<br>
-
 George Pelling<br>
-
 Ramsay Hill<br>
-
 Sylvia Marriott<br>
-
 Queenie Leonard<br>
-
 Marjorie Bennett<br>
-
 Mickey Maga<br>
-
 Barbara Beaird<br>
-
 Mimi Gibson<br>
-
 Sandra Abbott<br>
-
 Thurl Ravenscroft<br>
-
 Bill Lee<br>
-
 Max Smith<br>
-
 Bob Stevens<br>
-
 Paul Wexler<br>
-
 Mary Wickes<br>
-
 Barbara Luddy<br>
-
 Lisa Daniels<br>
-
 Helene Stanley<br>
-
 Don Barclay<br>
-
 Dal McKennon<br>
-
 Jeanne Bruns<br>
 
 USA 1960©<br>
-
 79 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODIzMjUzNV19
+eyJoaXN0b3J5IjpbLTEyNTE3MDAwNDVdfQ==
 -->
