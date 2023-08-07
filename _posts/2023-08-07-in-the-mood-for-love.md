@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: In the Mood for Love
+published: true
+date: 2023-08-07
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Romance]
+metadata: 'France/Portugal 1964, 113 mins<br> Director: François Truffaut'
+pdf: '2023-08-06-peau-douce.pdf'
+---
 
 The signs were already there that Wong Kar Wai’s woozy, hungry, love story was likely to earn a significant promotion in this year’s poll. Ten years ago, it stood out as the best-performing film of the 21st century in the critics’ list, landing in 24th place. With a fresh generation of critics chiming in – one that cinematically came of age when Wong’s film had already attained modern-classic status – it was sure to rise up the ranks.
 
@@ -151,5 +159,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTk0NDU4OF19
+eyJoaXN0b3J5IjpbMTIwNTM3ODkxNSwxNDI5OTQ0NTg4XX0=
 -->
