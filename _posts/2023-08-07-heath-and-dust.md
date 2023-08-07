@@ -21,7 +21,7 @@ It would be hard to match the depth and simplicity of this prose. But if there i
 **Gavin Millar, _Sight & Sound_, Winter 1982/3**  
 <br>
 
-**Heat and Dust**  
+**HEAT AND DUST**  
 _Director:_ James Ivory  
 _Production Company:_ Merchant Ivory Productions Ltd  
 _Producer:_ Ismail Merchant  
@@ -66,19 +66,35 @@ _Sound Editor:_ Brian Blamey
 _Assistant Sound Editor:_ Tony Bray  
 
 **Cast**  
-**1920s. In the Civil Lines at Satipu**  
-Christopher Cazenove _(Douglas Rivers)_
-Greta Scacchi _(Olivia Rivers)_
-Julian Glover _(Mr Crawford)_
-Susan Fleetwood _(Mrs Crawford)_
-Patrick Godfrey _(Dr Saunders)_
-Jennifer Kendal _(Mrs Saunders)_
-The Palace in KhatmShashi Kapoor _(The Nawab)_Madhur Jaffrey _(The Begum)_Nickolas Grace _(Harry)_Barry Foster _(Major Minnies)_Amanda Walker _(Lady Mackleworth)_Sudha Chopra _(chief princess)_Sajid Khan _(dacoit chief)_Daniel Chatto _(Guy)_
-**1980s. In Satipur Town**Julie Christie _(Anne)_Zakir Hussain _(Inder Lal)_Ratna Pathak _(Rita, Inder Lal’s wife)_Tarla Mehta _(Inder Lal’s mother)_Charles McCaughan _(Chidananda, ‘Child’)_Parveen Paul _(Maji)_Jayant Kripilani _(Dr Gopal)_Leelabhai _(Leelavati)_  
+**1920s. In the Civil Lines at Satipu**    
+Christopher Cazenove _(Douglas Rivers)_  
+Greta Scacchi _(Olivia Rivers)_  
+Julian Glover _(Mr Crawford)_  
+Susan Fleetwood _(Mrs Crawford)_  
+Patrick Godfrey _(Dr Saunders)_  
+Jennifer Kendal _(Mrs Saunders)_  
+**The Palace in Khatm**  
+Shashi Kapoor _(The Nawab)_
+Madhur Jaffrey _(The Begum)_
+Nickolas Grace _(Harry)_
+Barry Foster _(Major Minnies)_
+Amanda Walker _(Lady Mackleworth)_
+Sudha Chopra _(chief princess)_
+Sajid Khan _(dacoit chief)_
+Daniel Chatto _(Guy)_
+**1980s. In Satipur Town**
+Julie Christie _(Anne)_
+Zakir Hussain _(Inder Lal)_
+Ratna Pathak _(Rita, Inder Lal’s wife)_
+Tarla Mehta _(Inder Lal’s mother)_
+Charles McCaughan _(Chidananda, ‘Child’)_
+Parveen Paul _(Maji)_
+Jayant Kripilani _(Dr Gopal)_
+Leelabhai _(Leelavati)_  
 
 UK 1982  
 130 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTgyNjcyMSwxNjkwMjc3MTA4LC0xMT
-cwMDQwODY5XX0=
+eyJoaXN0b3J5IjpbNzM3NzAyODU1LC01MDU4MjY3MjEsMTY5MD
+I3NzEwOCwtMTE3MDA0MDg2OV19
 -->
