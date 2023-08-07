@@ -6,13 +6,13 @@ date: 2023-08-07
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Romance]
-metadata: 'Hong Kong 2000 , 99 mins<br> Director: François Truffaut'
-pdf: '2023-08-06-peau-douce.pdf'
+metadata: 'Hong Kong 2000 , 99 mins<br> Director: Wong Kar Wai'
+pdf: '2023-08-07-in-the-mood-for-love.pdf'
 ---
 
 The signs were already there that Wong Kar Wai’s woozy, hungry, love story was likely to earn a significant promotion in this year’s poll. Ten years ago, it stood out as the best-performing film of the 21st century in the critics’ list, landing in 24th place. With a fresh generation of critics chiming in – one that cinematically came of age when Wong’s film had already attained modern-classic status – it was sure to rise up the ranks.
 
-_In the Mood for Love’_s spectacular top five placement, however, demonstrates the broadly seductive allure of a mid-century Hong Kong period piece that looks both forward and back, wallowing in nostalgia for a purer, lusher form of cinematic romanticism while carving out more modern, even avant-garde forms of sensual and psychological expression from its saturated style. It’s a film that invites you to think, ‘They don’t make them like they used to’ – even though you know they never quite made them quite like this. The film’s essential romantic narrative of forbidden yearnings and missed connections may be the stuff of vintage melodrama, but less familiar is the way Wong expands the simple anatomy of a thwarted love affair into an elastic meditation on personal unrest, political statelessness and the violence of time’s unrelenting passage.
+_In the Mood for Love’_ s spectacular top five placement, however, demonstrates the broadly seductive allure of a mid-century Hong Kong period piece that looks both forward and back, wallowing in nostalgia for a purer, lusher form of cinematic romanticism while carving out more modern, even avant-garde forms of sensual and psychological expression from its saturated style. It’s a film that invites you to think, ‘They don’t make them like they used to’ – even though you know they never quite made them quite like this. The film’s essential romantic narrative of forbidden yearnings and missed connections may be the stuff of vintage melodrama, but less familiar is the way Wong expands the simple anatomy of a thwarted love affair into an elastic meditation on personal unrest, political statelessness and the violence of time’s unrelenting passage.
 
 The film never tells you it’s about any of that, of course. Wong’s porous, often headily non-verbal filmmaking trusts us to feel the lovers’ ennui and melancholy – and further, to identify it within ourselves – via its sheer accumulation of sounds, images and sense memories: be it the damp wraiths of steam swirling from an opened noodle container, the warm, vinyl-roughened croon of Nat King Cole on the soundtrack or the impossible lobby-card beauty of Tony Leung and Maggie Cheung, both preserved here in their ravishing prime, and somehow convincing as ordinary mortals made movie-star beautiful by love.
 
@@ -159,6 +159,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzQ2MjEwNywxMjA1Mzc4OTE1LDE0Mj
-k5NDQ1ODhdfQ==
+eyJoaXN0b3J5IjpbMTc1Mzk0MzY3MiwxMzIzNDYyMTA3LDEyMD
+UzNzg5MTUsMTQyOTk0NDU4OF19
 -->
