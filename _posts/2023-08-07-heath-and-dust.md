@@ -74,27 +74,27 @@ Susan Fleetwood _(Mrs Crawford)_
 Patrick Godfrey _(Dr Saunders)_  
 Jennifer Kendal _(Mrs Saunders)_  
 **The Palace in Khatm**  
-Shashi Kapoor _(The Nawab)_
-Madhur Jaffrey _(The Begum)_
-Nickolas Grace _(Harry)_
-Barry Foster _(Major Minnies)_
-Amanda Walker _(Lady Mackleworth)_
-Sudha Chopra _(chief princess)_
-Sajid Khan _(dacoit chief)_
-Daniel Chatto _(Guy)_
-**1980s. In Satipur Town**
-Julie Christie _(Anne)_
-Zakir Hussain _(Inder Lal)_
-Ratna Pathak _(Rita, Inder Lal’s wife)_
-Tarla Mehta _(Inder Lal’s mother)_
-Charles McCaughan _(Chidananda, ‘Child’)_
-Parveen Paul _(Maji)_
-Jayant Kripilani _(Dr Gopal)_
+Shashi Kapoor _(The Nawab)_  
+Madhur Jaffrey _(The Begum)_  
+Nickolas Grace _(Harry)_  
+Barry Foster _(Major Minnies)_  
+Amanda Walker _(Lady Mackleworth)_  
+Sudha Chopra _(chief princess)_  
+Sajid Khan _(dacoit chief)_  
+Daniel Chatto _(Guy)_  
+**1980s. In Satipur Town**  
+Julie Christie _(Anne)_  
+Zakir Hussain _(Inder Lal)_  
+Ratna Pathak _(Rita, Inder Lal’s wife)_  
+Tarla Mehta _(Inder Lal’s mother)_  
+Charles McCaughan _(Chidananda, ‘Child’)_  
+Parveen Paul _(Maji)_  
+Jayant Kripilani _(Dr Gopal)_  
 Leelabhai _(Leelavati)_  
 
 UK 1982  
 130 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3NzAyODU1LC01MDU4MjY3MjEsMTY5MD
-I3NzEwOCwtMTE3MDA0MDg2OV19
+eyJoaXN0b3J5IjpbLTIwOTU5NDcxOTMsLTUwNTgyNjcyMSwxNj
+kwMjc3MTA4LC0xMTcwMDQwODY5XX0=
 -->
