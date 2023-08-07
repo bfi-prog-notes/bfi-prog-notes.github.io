@@ -6,7 +6,7 @@ date: 2023-08-07
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Romance]
-metadata: 'France/Portugal 1964, 113 mins<br> Director: François Truffaut'
+metadata: 'Hong Kong 2000 , 99 mins<br> Director: François Truffaut'
 pdf: '2023-08-06-peau-douce.pdf'
 ---
 
@@ -159,5 +159,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTM3ODkxNSwxNDI5OTQ0NTg4XX0=
+eyJoaXN0b3J5IjpbMTMyMzQ2MjEwNywxMjA1Mzc4OTE1LDE0Mj
+k5NDQ1ODhdfQ==
 -->
