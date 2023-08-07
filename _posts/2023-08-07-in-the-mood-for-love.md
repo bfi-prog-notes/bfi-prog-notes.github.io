@@ -39,81 +39,48 @@ _You’ve tackled the 60s once before, in_ Days of Being Wild_, and you’ve sug
 _Days of Being Wild_ was for me a very personal reinvention of the 60s. Here, though, we consciously tried to recreate the actuality. I wanted to say something about daily life then, about domestic conditions, neighbours, everything. I even worked out a menu for the period of the shoot, with distinctive dishes for different seasons, and found a Shanghainese lady to cook them so that the cast would be eating them as we shot. I wanted the film to contain all those flavours that are so familiar to me. The audience probably won’t notice a thing, but it meant a lot to me emotionally. When we started filming the 1962 scenes, William Chang asked me if we were finally making _Days of Being Wild, Part II_. I’ll never make Part II as originally envisaged because that story doesn’t mean the same to me any more. But this is in some sense Part II as I might conceive it now.  
 **Interview with Wong Kar-Wai by Tony Rayns, _Sight and Sound_, August 2000**  
 <br>
-<![endif]-->
 
-**In the Mood for Love (Fa yeung nin wa)**
-
-_Director/Producer/Screenplay:_
-
-Wong Kar-Wai  
+**IN THE MOOD FOR LOVE (FA YEUNG NIN WA a yeung nin wa)**  
+_Director/Producer/Screenplay:_ Wong Kar-Wai  
 _©/Presented by:_ Block 2 Pictures  
 _Production Company:_ Jet Tone Production  
 _Presented by:_ Paradis Films  
 _Executive Producer:_ Chan Ye-Chen  
 _Assistant Producer:_ Chan Wai-Si  
 _Associate Producer:_ Jacky Pang Yee-Wah  
-_Production Supervisor:_ Wong Lai-Tak
-
-_Production Managers:_ Law Kam-Chuen,
-
-Choi Suk-Yin  
-_Thai Crew Production Manager:_
-
-Parichart Khumrod
-
-_Assistant Directors:_ Siu Wai-Keung,
-
-Kong Yeuk-Sing  
+_Production Supervisor:_ Wong Lai-Tak  
+_Production Managers:_ Law Kam-Chuen, Choi Suk-Yin  
+_Thai Crew Production Manager:_ Parichart Khumrod  
+_Assistant Directors:_ Siu Wai-Keung, Kong Yeuk-Sing  
 _Continuity:_ Yu Haw-Yan  
 _Incorporating quotations from the writings of:_ Liu Yi-Chang  
 _Directors of Photography:_ Christopher Doyle, Mark Li Pingbin  
-_Additional Photography:_ Kwan Pun-Leung,
-
-Yu Lik-Wai, Lai Yiu-Fai,
-
-Chan Kwong-Hung  
+_Additional Photography:_ Kwan Pun-Leung, Yu Lik-Wai, Lai Yiu-Fai, Chan Kwong-Hung  
 _Camera Assistant:_ Lai Yiu-Fai  
 _Lighting:_ Wong Chi-Ming  
 _Assistant Lighting:_ Kwan Wing-Cheung  
-_Camera Crew:_ Ho Kin-Kwong, Ho Ka-Fai,
-
-Lau Tin-Wah  
+_Camera Crew:_ Ho Kin-Kwong, Ho Ka-Fai, Lau Tin-Wah  
 _Gaffers:_ Chan Hon-Sung, Kwan Wing-Kin  
-_Video Documentation:_ Kwan Pun-Leung,
-
-Amos Lee  
+_Video Documentation:_ Kwan Pun-Leung, Amos Lee  
 _Stills Photographer:_ Wing Shya  
-_Supervising Editor:_
-
-William Chang Suk-Ping  
+_Supervising Editor:_ William Chang Suk-Ping  
 _Editor:_ Chan Kei-Hap  
-_Production Designer:_
-
-William Chang Suk-Ping  
+_Production Designer:_ William Chang Suk-Ping  
 _Visual Consultant:_ Carmen Lui Lai-Wah  
-_Art Directors:_ Man Lim-Chung,
-
-Alfred Yau Wai-Ming  
+_Art Directors:_ Man Lim-Chung, Alfred Yau Wai-Ming  
 _Assistant Art Director:_ Lui Fung-Saan  
 _Property Master:_ Wong Chi-On  
-_Prop Men:_ Tang Nau-Wah,
-
-Chan Ching-Nau, Siu Ping-Lam  
+_Prop Men:_ Tang Nau-Wah, Chan Ching-Nau, Siu Ping-Lam  
 _Thai Crew Props Master:_ Narong Osaypan  
 _Make-up:_ Kwan Kei-Noh  
 _Hair Design:_ Wong Kwok-Hung  
 _Hairdresser:_ Luk Ha-Fong  
 _Original Music:_ Michael Galasso  
 _Spanish songs sung by:_ Nat King Cole  
-_Sound Recordists:_ Kuo Li-Chi,
+_Sound Recordists:_ Kuo Li-Chi, Tang Shiang-Chu, Liang Chih-Da  
 
-Tang Shiang-Chu, Liang Chih-Da
-
-_Cast:_
-
-Maggie Cheung Man-Yuk
-
-_(Mrs Chan, née Su Lizhen)_  
+**Cast**
+Maggie Cheung Man-Yuk _(Mrs Chan, née Su Lizhen)_  
 Tony Leung Chiu-Wai _(Chow Mo-Wan)_  
 Rebecca Pan _(Mrs Suen)_  
 Lui Chun _(Mr Ho)_  
@@ -124,9 +91,8 @@ Koo Kam-Wah
 Yu Hsien  
 Chow Po-Chun  
  
-Hong Kong/France 2000©
-
-99 mins
+Hong Kong/France 2000©  
+99 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODk3ODI3MDddfQ==
+eyJoaXN0b3J5IjpbMTM1MTQ5MDE4XX0=
 -->
