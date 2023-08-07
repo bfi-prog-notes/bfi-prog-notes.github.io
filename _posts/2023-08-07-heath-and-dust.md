@@ -18,7 +18,60 @@ There are differences between the book and the film. On the whole they are diffe
 What is less defensible is the absence of a final note of aspiration in Anne’s chronicle, which robs the film of part, at least, of that other dimension towards which she has been honestly stumbling. Anne’s sojourn in the mountains ends the book: ‘I’m impatient for it to stop raining because I want to move on, go higher up. I keep looking up all the time, but everything remains hidden. Unable to see, I imagine mountain peaks higher than any I’ve ever dreamed of; the snow on them is also whiter than all other snow – so white it is luminous and shines against the sky which is of a deeper blue than any yet known to me. That is what I expect to see. Perhaps it is also what Olivia saw: the view – or vision – that filled her eyes all those years and suffused her soul.’
 
 It would be hard to match the depth and simplicity of this prose. But if there is one regret to record against this excellent film it is that Ivory has not quite given us a glimpse of the invisible mountains, but has, diffidently, perhaps, or embarrassedly, lowered his eyes at the last minute. Otherwise there is nothing to reproach, especially in the performances of Greta Scacchi as Olivia, Julie Christie as Anne, Christopher Cazenove as Douglas and, brilliant in his Englishness and his Indianness, Shashi Kapoor as the Nawab; nor the photography of Walter Lassally which does equal justice to the design, the landscape and the interiors, both of the buildings and the people.  
-**Gavin Millar, _Sight & Sound_, Winter 1982/3**
+**Gavin Millar, _Sight & Sound_, Winter 1982/3**  
+<br>
+
+**Heat and Dust**  
+_Director:_ James Ivory  
+_Production Company:_ Merchant Ivory Productions Ltd  
+_Producer:_ Ismail Merchant  
+_Associate Producers:_ Rita Mangat, Connie Kaiserman  
+_Production Co-ordinator:_ Shama Habibullah  
+_Production Manager:_ Peter Manley  
+_Location Manager:_ Deepak Nayar  
+_Production Assistants:_ Nancy Varden Berg, Piyush Patel  
+_Assistant Directors:_ Kevan Barker, David Nichols, Gopal Ram  
+_Continuity Clerk:_ Jane Buck  
+_Replacement Continuity Clerk:_ Renée Glynne [uncredited]  
+_Screenplay:_ Ruth Prawer Jhabvala  
+_Urdu Dialogue:_ Saeed Jaffrey  
+_Hindi Dialogue:_ Harish Khare  
+_Based on the novel by:_ Ruth Prawer Jhabvala  
+_Director of Photography:_ Walter Lassally  
+_Assistant Photographers:_ Tony Garrett, Rajesh Joshi  
+_Editor:_ Humphrey Dixon  
+_Assistant Editor:_ Mark Potter Jr  
+_Production Designer:_ Wilfrid Shingleton  
+_Art Directors:_ Maurice Fowler, Ram Yedekar  
+_Set Dresser:_ Agnes Fernandes  
+_Costumes:_ Barbara Lane  
+_Costume Assistant:_ Mary Ellis  
+_Make-up:_ Gordon Kay  
+_Make-up Assistant:_ Mohamed Amir  
+_Title Art:_ Eyre & Hobhouse  
+_Titles:_ Camera Effects  
+_Music Composed and Conducted by:_ Richard Robbins  
+_Flute:_ Pandit Chaurasia  
+_Sarangi:_ Sultan Khan  
+_Sitar:_ Nisar Ahmad Khan  
+_Percussion:_ Zakir Hussain  
+_Piano:_ Michael Reeves  
+_Synthesizer:_ Mick Parker  
+_Singer:_ Ameer Mohammed Khan  
+_Associate Music Director:_ Zakir Hussain  
+_Conductor:_ Harry Rabinowitz  
+_Sound Recording:_ Ray Beckett  
+_Sound Re-recording:_ Richard King  
+_Sound Editor:_ Brian Blamey  
+_Assistant Sound Editor:_ Tony Bray  
+_Cast:_
+
+**1920s. In the Civil Lines at Satipu**  
+Christopher Cazenove _(Douglas Rivers)_Greta Scacchi _(Olivia Rivers)_Julian Glover _(Mr Crawford)_Susan Fleetwood _(Mrs Crawford)_Patrick Godfrey _(Dr Saunders)_Jennifer Kendal _(Mrs Saunders)_The Palace in KhatmShashi Kapoor _(The Nawab)_Madhur Jaffrey _(The Begum)_Nickolas Grace _(Harry)_Barry Foster _(Major Minnies)_Amanda Walker _(Lady Mackleworth)_Sudha Chopra _(chief princess)_Sajid Khan _(dacoit chief)_Daniel Chatto _(Guy)_**1980s. In Satipur Town**Julie Christie _(Anne)_Zakir Hussain _(Inder Lal)_Ratna Pathak _(Rita, Inder Lal’s wife)_Tarla Mehta _(Inder Lal’s mother)_Charles McCaughan _(Chidananda, ‘Child’)_Parveen Paul _(Maji)_Jayant Kripilani _(Dr Gopal)_Leelabhai _(Leelavati)_  
+
+UK 1982  
+130 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDI3NzEwOCwtMTE3MDA0MDg2OV19
+eyJoaXN0b3J5IjpbNDMyODA5NjM5LDE2OTAyNzcxMDgsLTExNz
+AwNDA4NjldfQ==
 -->
