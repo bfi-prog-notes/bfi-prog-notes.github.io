@@ -18,74 +18,144 @@ The film’s slightly odd structure – Pongo and Perdita almost vanish in the m
 <br><br>
 
 **FEAST**<br>
+
 _Director:_ Patrick Osborne<br>
+
 USA 2014<br>
+
 6 mins<br>
 
 **ONE HUNDRED AND ONE DALMATIANS**<br>
-_Directors:_ Wolfgang Reitherman, Hamilton S. Luske, Clyde Geronimi<br>
+
+_Directors:_ Wolfgang Reitherman, 
+
+Hamilton S. Luske, Clyde Geronimi<br>
+
 ©: Walt Disney Productions<br>
+
 _a_ Walt Disney _production_<br>
+
 _Distributed by:_ Buena Vista Distribution Co., Inc.<br>
+
 _Presented by:_ Walt Disney<br>
+
 _Production Supervisor:_ Ken Peterson<br>
+
 _Story:_ Bill Peet<br>
+
 _Based on the book ‘The Hundred and One Dalmatians’ by:_ Dodie Smith<br>
+
 _Special Processes:_ Ub Iwerks, Eustace Lycett<br>
+
 _Directing Animators:_ Milt Kahl, Frank Thomas, Marc Davis, John Lounsbery, Ollie Johnston, Eric Larson<br>
+
 _Character Animation:_ Hal King, Les Clark, Cliff Nordberg, Blaine Gibson, Eric Cleworth, John Sibley, Art Stevens, Julius Svendsen, Hal Ambro, Ted Berman, Bill Keil, Don Lusk, Dick Lucas, Amby Paliwoda<br>
+
 _Character Styling:_ Bill Peet, Tom Oreb<br>
-_Effects Animation:_ Jack Boyd, Dan MacManus, Ed Parks, Jack Buckley<br>
-_Layout:_ Basil Davidovich, McLaren Stewart,  Vance Gerry, Joe Hale, Dale Barnhart, Ray Aragon, Sammy June Lanham, Vic Haboush, Dick Ung, Homer Jonas, Al Zinnen<br>
-_Layout Styling:_ Don Griffith, Ernest Nordli,  Collin Campbell<br>
-_Background:_ Al Dempster, Ralph Hulett,  Anthony Rizzo, Bill Layne<br>
+
+_Effects Animation:_ Jack Boyd, Dan MacManus, 
+
+Ed Parks, Jack Buckley<br>
+
+_Layout:_ Basil Davidovich, McLaren Stewart,  
+Vance Gerry, Joe Hale, Dale Barnhart, Ray Aragon, Sammy June Lanham, Vic Haboush, Dick Ung, Homer Jonas, Al Zinnen<br>
+
+_Layout Styling:_ Don Griffith, Ernest Nordli,  
+Collin Campbell<br>
+
+_Background:_ Al Dempster, Ralph Hulett,  
+Anthony Rizzo, Bill Layne<br>
+
 _Colour Styling:_ Walt Peregoy<br>
+
 _Film Editors:_ Donald Halliday, Roy M. Brewer Jr<br>
+
 _Art Direction and Production Design:_ Ken Anderson<br>
+
 _Colour by:_ Technicolor<br>
+
 _Music:_ George Bruns<br>
+
 _Songs:_ Mel Leven<br>
+
 _Orchestration:_ Franklyn Marks<br>
+
 _Music Editor:_ Evelyn Kennedy<br>
+
 _Sound Supervisor:_ Robert O. Cook<br>
 
-**Voice Cast**<br>
+**
+
+_Voice Cast**<br>:_
+
 Rod Taylor _(Pongo)_<br>
+
 J. Pat O’Malley _(Colonel/Jasper Badun)_<br>
+
 Betty Lou Gerson _(Cruella De Vil)_<br>
+
 Martha Wentworth _(Nanny/Queenie/Lucy)_<br>
+
 Ben Wright _(Roger Radcliff)_<br>
+
 Cate Bauer _(Perdita)_<br>
+
 Dave Frankham<br>
+
 Frederic Worlock<br>
+
 Lisa Davis<br>
+
 Tom Conway<br>
+
 Tudor Owen<br>
+
 George Pelling<br>
+
 Ramsay Hill<br>
+
 Sylvia Marriott<br>
+
 Queenie Leonard<br>
+
 Marjorie Bennett<br>
+
 Mickey Maga<br>
+
 Barbara Beaird<br>
+
 Mimi Gibson<br>
+
 Sandra Abbott<br>
+
 Thurl Ravenscroft<br>
+
 Bill Lee<br>
+
 Max Smith<br>
+
 Bob Stevens<br>
+
 Paul Wexler<br>
+
 Mary Wickes<br>
+
 Barbara Luddy<br>
+
 Lisa Daniels<br>
+
 Helene Stanley<br>
+
 Don Barclay<br>
+
 Dal McKennon<br>
+
 Jeanne Bruns<br>
 
 USA 1960©<br>
+
 79 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE3MDAwNDVdfQ==
+eyJoaXN0b3J5IjpbLTYzNDQ1ODUwMSwtMTI1MTcwMDA0NV19
 -->
