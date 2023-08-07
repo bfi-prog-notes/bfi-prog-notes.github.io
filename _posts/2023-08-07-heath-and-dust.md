@@ -64,14 +64,21 @@ _Sound Recording:_ Ray Beckett
 _Sound Re-recording:_ Richard King  
 _Sound Editor:_ Brian Blamey  
 _Assistant Sound Editor:_ Tony Bray  
-_Cast:_
 
+**Cast**  
 **1920s. In the Civil Lines at Satipu**  
-Christopher Cazenove _(Douglas Rivers)_Greta Scacchi _(Olivia Rivers)_Julian Glover _(Mr Crawford)_Susan Fleetwood _(Mrs Crawford)_Patrick Godfrey _(Dr Saunders)_Jennifer Kendal _(Mrs Saunders)_The Palace in KhatmShashi Kapoor _(The Nawab)_Madhur Jaffrey _(The Begum)_Nickolas Grace _(Harry)_Barry Foster _(Major Minnies)_Amanda Walker _(Lady Mackleworth)_Sudha Chopra _(chief princess)_Sajid Khan _(dacoit chief)_Daniel Chatto _(Guy)_**1980s. In Satipur Town**Julie Christie _(Anne)_Zakir Hussain _(Inder Lal)_Ratna Pathak _(Rita, Inder Lal’s wife)_Tarla Mehta _(Inder Lal’s mother)_Charles McCaughan _(Chidananda, ‘Child’)_Parveen Paul _(Maji)_Jayant Kripilani _(Dr Gopal)_Leelabhai _(Leelavati)_  
+Christopher Cazenove _(Douglas Rivers)_
+Greta Scacchi _(Olivia Rivers)_
+Julian Glover _(Mr Crawford)_
+Susan Fleetwood _(Mrs Crawford)_
+Patrick Godfrey _(Dr Saunders)_
+Jennifer Kendal _(Mrs Saunders)_
+The Palace in KhatmShashi Kapoor _(The Nawab)_Madhur Jaffrey _(The Begum)_Nickolas Grace _(Harry)_Barry Foster _(Major Minnies)_Amanda Walker _(Lady Mackleworth)_Sudha Chopra _(chief princess)_Sajid Khan _(dacoit chief)_Daniel Chatto _(Guy)_
+**1980s. In Satipur Town**Julie Christie _(Anne)_Zakir Hussain _(Inder Lal)_Ratna Pathak _(Rita, Inder Lal’s wife)_Tarla Mehta _(Inder Lal’s mother)_Charles McCaughan _(Chidananda, ‘Child’)_Parveen Paul _(Maji)_Jayant Kripilani _(Dr Gopal)_Leelabhai _(Leelavati)_  
 
 UK 1982  
 130 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyODA5NjM5LDE2OTAyNzcxMDgsLTExNz
-AwNDA4NjldfQ==
+eyJoaXN0b3J5IjpbLTUwNTgyNjcyMSwxNjkwMjc3MTA4LC0xMT
+cwMDQwODY5XX0=
 -->
