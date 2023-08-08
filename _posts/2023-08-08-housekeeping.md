@@ -1,12 +1,18 @@
+---
+layout: post
+title: Housekeeping
+published: true
+date: 2023-08-08
+readtime: true
+categories: ['MEMBER EXCLUSIVE']
+tags: [Drama]
+metadata: 'Hong Kong 2000 , 99 mins<br> Director: Wong Kar Wai'
+pdf: '2023-08-07-in-the-mood-for-love.pdf'
+---
 
+**SPOILER WARNING** The following notes give away some of the plot.  
 
-
-<![endif]-->
-
-**SPOILER WARNING** The following notes give away some of the plot.
-
-**A contemporary review**
-
+**A contemporary review**  
 One of the most attractive features of Bill Forsyth’s work is his refusal, at the risk of having his films dismissed as charming but trivial, to lend any sort of undue weight to the elements of myth and magic that lurk almost invisibly beneath the surface: the elaborately formalised ritual, for instance, whereby the unwitting Gregory of _Gregory’s Girl_ is guided to the girl destined to be his sleeping beauty, or the influence those Olympian goddesses Stella and Marina wield over the affairs of men in _Local Hero_. Purely on the level of charm, _Housekeeping_ is as entrancing as anything Forsyth has done to date, constantly disconcerting as well as delighting with its slant-eyed view of reality. The children’s mother sitting placidly eating strawberries on the roof of a car stranded in the middle of a field, then driving straight over a cliff after some small boys arrive to help push her out of a rut; the two little girls, fearful of Sylvie’s wanderlust, stalking her to the railway waiting-room and observing her suspicious interest in time-tables that turns out to be merely an attempt to keep warm by the stove; the flood scenes in which the inundated house and its cupboards playfully reject any attempt at housekeeping; the oddly aesthetic effect achieved by Sylvie when, goaded by Lucille into doing something about the mess of old tin cans littering the parlour, she lovingly scrubs away the labels and arranges the cans in symmetrically gleaming pyramids on the tables.
 
 But as a film about growing up, about the pressures to conform or otherwise offered by the adult world, _Housekeeping_ always has in mind the wider horizons subtly evoked in Marilynne Robinson’s novel: ‘To crave and to have are as like as a thing and its shadow. For when does a berry break upon the tongue as sweetly as when one longs to taste it... and when do our senses know any thing so utterly as when we lack it? And here again is a foreshadowing – the world will be made whole. For to wish for a hand on one’s hair is all but to feel it. So whatever we may lose, very craving gives it back to us again’. The craving here is for a sense of family, expressed by the two little girls, left anxious and insecure as circumstances pass them indifferently from hand to hand, as they pore over collections of meaningless photographs, ask eager questions about their parents which elicit only vague generalities from even the most promising oracles. A wonderfully pregnant shot near the beginning shows the two little children alone at a window high in a tenement block, safely tethered but sowing panic among the neighbours watching below in anticipation of a fall. Quite apart from suggesting a possible reason for suicide in their mother’s evident inability to cope, the image intimates that family ties, in themselves, are no guarantee of security.
@@ -103,6 +109,6 @@ Andrian Naqvi _(grandpa as a young boy)_
 USA 1987  
 116 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0MDA3ODQsMTE4NDE5MjI5MCwtMjM2MD
-cyNjcwXX0=
+eyJoaXN0b3J5IjpbLTE3ODA0MTU2MDgsMTE4NDE5MjI5MCwtMj
+M2MDcyNjcwXX0=
 -->
