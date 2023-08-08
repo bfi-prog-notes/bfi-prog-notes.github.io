@@ -6,8 +6,8 @@ date: 2023-08-08
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
-metadata: 'Hong Kong 2000 , 99 mins<br> Director: Wong Kar Wai'
-pdf: '2023-08-07-in-the-mood-for-love.pdf'
+metadata: 'India 1964 , 117 mins<br> Director: Satyajit Ray'
+pdf: '2023-08-08-charulata.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
@@ -95,5 +95,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDUwNzUxNjAsMTM4MDM0MDQ3Nl19
+eyJoaXN0b3J5IjpbLTE2NTY5NDQwMzYsMTM4MDM0MDQ3Nl19
 -->
