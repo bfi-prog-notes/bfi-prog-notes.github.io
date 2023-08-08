@@ -1,3 +1,14 @@
+---
+layout: post
+title: By Hook or by Crook
+published: true
+date: 2023-08-08
+readtime: true
+categories: ['BE GAY DO CRIME<br>A SEASON OF QUEER CRIME FILMS']
+tags: [Thriller]
+metadata: 'USA 2001, 98 mins<br> Directors: Harry Dodge, Silas Howard'
+pdf: '2023-08-08-by-hook-or-by-crook.pdf'
+---
 
 _By Hook or by Crook_ is a buddy film that chronicles three weeks in the life of a handsome, gender-bending, small-town butch with a nagging messiah-complex. Emotionally defeated since the death of her father, Shy heads to the big city to sink herself into a ‘life of crime’. She is quickly distracted by Valentine, a deliriously expressive, wiseacre adoptee on a misguided search for her birthmother. The two freaky grifters join forces and learn the true meaning of ‘poise under pressure’ in this visually stunning and wonderfully acted, anti-authoritarian tale of friendship, trust and redemption.
 
@@ -80,6 +91,57 @@ USA 2001<br>
 
 The screening on Tue 15 Aug will be introduced  by Zorian Clayton, BFI Flare Programmer<br>
 <br>
+
+**BE GAY DO CRIME: A SEASON OF QUEER CRIME FILMS**<br>
+**Bound**<br>
+Tue 1 Aug 20:35 (+ pre-recorded intro by film critic Xuanlin Tham); Fri 11 Aug 20:30; Thu 31 Aug 18:10<br>
+**Dog Day Afternoon**<br>
+Wed 2 Aug 20:30; Thu 17 Aug 18:00;  Sun 27 Aug 18:15<br>
+**Chocolate Babies**<br>
+Thu 3 Aug 20:30 (+ intro by season programmer Grace Barber-Plentie); Sat 19 Aug 20:50<br>
+**Female Trouble**<br>
+Sat 5 Aug 18:15; Thu 10 Aug 18:15 (+ intro by Justin Johnson, Lead Programmer);  Fri 25 Aug 20:45<br>
+**The Devil Queen (A Rainha Diaba)**<br>
+Mon 7 Aug 20:40; Fri 18 Aug 18:10<br>
+**By Hook or By Crook**<br>
+Tue 8 Aug 20:50; Tue 15 Aug 18:20 (+ intro by Zorian Clayton, BFI Flare Programmer)<br>
+**Madame Satã**<br>
+Thu 10 Aug 20:40; Sun 20 Aug 12:30<br>
+**Fresh Kill**<br>
+Mon 14 Aug 20:40; Sun 27 Aug 13:20<br>
+**The Bloodettes (Les Saignantes)**<br>
+Tue 15 Aug 20:30; Mon 21 Aug 20:30<br>
+**My Brother the Devil**<br>
+Wed 16 Aug 20:40; Thu 24 Aug 17:50<br>
+**On Guard**<br>
+Thu 17 Aug 20:45; Mon 21 Aug 18:30<br>
+**The Living End**<br>
+Tue 22 Aug 20:40; Mon 28 Aug 14:30<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNTg2OTA5NzM4XX0=
 -->
