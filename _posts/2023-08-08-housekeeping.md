@@ -6,7 +6,7 @@ date: 2023-08-08
 readtime: true
 categories: ['MEMBER EXCLUSIVE']
 tags: [Drama]
-metadata: 'USA 1987 , 116 mins<br> Director: Bill Forsyth'
+metadata: 'USA 1987, 116 mins<br> Director: Bill Forsyth'
 pdf: '2023-08-08-housekeeping.pdf'
 ---
 
