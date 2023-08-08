@@ -19,6 +19,90 @@ Like him, Ruth wants to see, from an uninhibited perspective, and the vision of 
 
 Ultimately, what Sylvie demonstrates to Ruth through her daydreaming absorption in mysteries that no one else finds remarkable, and equally pertinently through her endless fascination with transients met in railway stations or here and there on her wanderings, is that since all life is transient it can only be recaptured through transience. Walking precariously away from Fingerbone across the trestle bridge beneath which grandfather still lies, hopeful of making it to the other side before a train comes along, leaving behind a regret for Lucille’s defection, Sylvie and Ruth disappear into the night. A defeat, in a sense, echoed as Ruth’s voice is heard murmuring, ‘She always does that. She wanders away’. Yet at the same time a triumph in that for Ruth, one senses, the world is made whole again in this very act of departure to meet it. Elliptical and gently teasing, it’s a marvellous movie, eminently faithful to Marilynne Robinson’s novel, yet one hundred percent Forsyth in mood and manner.  
 **Tom Milne, _Monthly Film Bulletin_, January 1988**  
+<br>
+
+**HOUSEKEEPING**  
+_Director_: Bill Forsyth  
+_Production Company_: Columbia Pictures Corporation  
+_Producer_: Robert F. Colesberry  
+_Unit Production Manager_: Robert Frederick  
+_Production Co-ordinator_: Elaine Fleming  
+_Location Manager_: Scott E. Mathers  
+_Production office assistant_: Lukia Czernin  
+_Production Assistants_: Franco Pante, Leah Semenoff  
+_Assistant Directors_: Lee Knippelberg, David Webb, Richard Cowan  
+_Casting_: Lynne Carrow, Margery Simkin  
+_Extras casting_: Nancy B. Black  
+_Screenplay_: Bill Forsyth  
+_Based on the novel by_: Marilynne Robinson  
+_Director of Photography_: Michael Coulter  
+_Camera Operator_: Tony Westman  
+_Special effects co-ordinator_: John Thomas  
+_Editor_: Michael Ellis  
+_Production Designer_: Adrienne Atkinson  
+_Art Director_: John Willett  
+_Art Director (Alberta)_: John Stuart Blackie  
+_Set Decorator_: Jim Erickson  
+_Set Dresser_: Dave Ball  
+_Oil Paintings_: Stephen Campbell  
+_Draughtsperson_: Jon Ridington  
+_Scenic Artist_: Jon Ringbom  
+_Costume Designer_: Mary-Jane Reyner  
+_Costume Supervisor_: Linda Lee Langdon  
+_Costumer_: Abby Benjamin  
+_Make-up Artists_: Sandy Cooper, Maurice Parkhurst  
+_Titles_: Rank Post Production Services  
+_Music_: Michael Gibbs  
+_Orchestrations_: Paul Holderbaum  
+_Music Recording_: Alan Snelling  
+_Sound Recording_: Ralph Parker  
+_Sound Re-recording_: Hugh Strain, Clive Pendry  
+_Sound Editor_: Alan Bell  
+_Dialogue editor_: Richard Dunford  
+_Foley Editor_: Jacques Leroide  
+_Stunts_: Betty Thomas  
+_Boat co-ordinator_: John 7 Smith  
+_Animal Trainer_: Vince Nicholson  
+
+**Cast**  
+Christine Lahti _(Sylvie Fisher)_  
+Sara Walker _(Ruth Stone)_  
+Andrea Burchill _(Lucille Stone)_  
+Anne Pitoniak _(Aunt Lily)_  
+Barbara Reese _(Aunt Nona)_  
+Margot Pinvidic _(Helen Stone)_  
+Bill Smillie _(sheriff)_  
+Wayne Robson _(principal)_  
+Betty Phillips _(Mrs Jardine)_  
+Karen Austin _(Mrs Paterson)_  
+Delores Drake _(Mrs Walker)_  
+Georgie Collins _(Sylvia Foster)_  
+Tonya Tanner _(young Ruth)_  
+Leah Penny _(young Lucille)_  
+Brian Linds _(deputy sheriff)_  
+Clayton W. Okell _(boy on cliff)_  
+Clay Barton _(boy on cliff)_  
+Erik Richardson _(Sandy)_  
+Bob Hughes _(Charlie)_  
+Sheila Paterson _(Bernice)_  
+Judi Pustil _(ice-cream lady)_  
+Ron Koukal _(gas-station attendant)_  
+Bob Elsdon _(grandmother’s friend)_  
+Hans Farenholtz _(grandmother’s friend)_  
+Enid Saunders _(Etta)_  
+Mike Daley, Gunter Voight _(hobos)_  
+Michael Davidoff _(fisherman)_  
+Isobel Louie _(woman on train)_  
+Anthony Holland _(Mr Wallace)_  
+Elizabeth Strong _(Mrs Dickson)_  
+Juli Bailey _(Georgette)_  
+Tiffany Ward _(Marie)_  
+Jeanette Grittani _(Miss Royce)_  
+Andrian Naqvi _(grandpa as a young boy)_
+
+USA 1987  
+116 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDE5MjI5MCwtMjM2MDcyNjcwXX0=
+eyJoaXN0b3J5IjpbMzI0MDA3ODQsMTE4NDE5MjI5MCwtMjM2MD
+cyNjcwXX0=
 -->
