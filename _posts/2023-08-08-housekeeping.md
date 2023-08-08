@@ -6,8 +6,8 @@ date: 2023-08-08
 readtime: true
 categories: ['MEMBER EXCLUSIVE']
 tags: [Drama]
-metadata: 'Hong Kong 2000 , 99 mins<br> Director: Wong Kar Wai'
-pdf: '2023-08-07-in-the-mood-for-love.pdf'
+metadata: 'USA 1987 , 116 mins<br> Director: Bill Forsyth'
+pdf: '2023-08-08-housekeeping.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.  
@@ -109,6 +109,6 @@ Andrian Naqvi _(grandpa as a young boy)_
 USA 1987  
 116 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA0MTU2MDgsMTE4NDE5MjI5MCwtMj
-M2MDcyNjcwXX0=
+eyJoaXN0b3J5IjpbMTY4NjExNDI5OSwxMTg0MTkyMjkwLC0yMz
+YwNzI2NzBdfQ==
 -->
