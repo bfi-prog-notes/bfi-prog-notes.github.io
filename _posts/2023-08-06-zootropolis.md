@@ -7,7 +7,7 @@ readtime: true
 categories: ['MAKING MAGIC<br>100 YEARS OF DISNEY']
 tags: [Animation]
 metadata: 'USA 2016, 108 mins<br> Directors: Byron Howard, Rich Moore'
-pdf: 'Freaky Friday2023-08-06-zootropolis.pdf'
+pdf: 'Freaky Friday.pdf'
 ---
 
 In its 92-year history, Walt Disney Animation Studios has created a long and storied legacy of talking-animal films – from Mickey Mouse’s debut short _Steamboat Willie_ to _Bambi_, _Dumbo_, _The Jungle_ _Book_, _Robin Hood_ and _The_ _Lion_ _King_. WDAS returns to the wild with the feature film _Zootropolis_. ‘We all grew up watching the great Disney animal films – we were immersed in those worlds,’ says director Byron Howard. ‘My favourite childhood film was _Robin_ _Hood_, and we wanted to honour that legacy, but in a new and different way that dives even deeper. We started by asking, “What would a mammal metropolis look like if it were designed by animals?” The idea was incredibly exciting to us.’
