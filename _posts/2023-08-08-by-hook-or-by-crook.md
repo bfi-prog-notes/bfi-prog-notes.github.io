@@ -34,96 +34,52 @@ Dodge: It practically _cost_ our lives!’
 <br><br>
 
 **BY HOOK OR BY CROOK**<br>
-
 _Directors:_ Harry Dodge, Silas Howard<br>
-
 _Production Company:_ Steakhaus Productions<br>
-
 _In association with:_ No Go Backs<br>
-
-_Producers:_ Steak House, Silas Howard,  
-Harry Dodge<br>
-
-_Associate Producers:_ Laurie Sirois, Cross,
-
-Romy Suskin, Brian Murphy<br>
-
+_Producers:_ Steak House, Silas Howard,  Harry Dodge<br>
+_Associate Producers:_ Laurie Sirois, Cross, Romy Suskin, Brian Murphy<br>
 _Location Manager:_ Shannon Amos<br>
-
 _Consulting Producers:_ Annie Imhoff, Jenni Olson<br>
-
 _1st Assistant Director:_ Merrill Beth Ferguson<br>
-
 _2nd Assistant Director:_ Sini Anderson<br>
-
 _Script Supervisor:_ Tai Uhlmann<br>
-
 _Screenplay:_ Harry Dodge, Silas Howard<br>
-
 _Dialogue for ‘Billie’ Written by:_ Stanya Kahn<br>
-
 _Director of Photography:_ Ann T. Rossetti<br>
-
 _Gaffer:_ Bill Basquin<br>
-
-_Editors:_ Harry Dodge, Silas Howard,  
-Monica T. Nolan, Jonny A, Romy Suskin,  
-P.F. McCarthy, John Huckert<br>
-
+_Editors:_ Harry Dodge, Silas Howard,  Monica T. Nolan, Jonny A, Romy Suskin, P.F. McCarthy, John Huckert<br>
 _Production Designer:_ Samara Halperin<br>
-
 _Art Director:_ Chloe Sherman<br>
-
 _Original Score:_ Carla Bozulich<br>
+_Sound Design:_ Killer Banshee Studios<br>
+_Soundtrack Designer/Engineer:_ Biff Sanders<br>
 
-_Sound Design:_ Killer Banshee Studios
+**Cast**<br>
+Silas Howard _(Shy)_<br>
+Harry Dodge _(Valentine)_<br>
+Stanya Kahn _(Billie)_<br>
+Carina Gia _(Isabelle)_<br>
+Cash Askew _(Little Shy)_<br>
+Misha Klein _(Shy’s dad)_<br>
+Miracle Malone _(reporter)_<br>
+Joan Jett _(news interviewee)_<br>
+Tina Marie _(Ms Red)_<br>
+Kris Kovick _(crazy nut in park)_<br>
+Machiko Saito _(gun store clerk)_<br>
+James Cotner _(attacker)_<br>
+Nancy Stone _(lucky penny waitress)_<br>
+Jimmy Broustis _(hardware store clerk)_<br>
+Carmen White _(singer)_<br>
+Sunny Haire _(bartender)_<br>
+Samuel Sheng _(tired cop)_<br>
+Josh Zinn _(morose cop)_<br>
 
-_Soundtrack Designer/Engineer:_ Biff Sanders
-
-_Cast:_
-
-Silas Howard _(Shy)_
-
-Harry Dodge _(Valentine)_
-
-Stanya Kahn _(Billie)_
-
-Carina Gia _(Isabelle)_
-
-Cash Askew _(Little Shy)_
-
-Misha Klein _(Shy’s dad)_
-
-Miracle Malone _(reporter)_
-
-Joan Jett _(news interviewee)_
-
-Tina Marie _(Ms Red)_
-
-Kris Kovick _(crazy nut in park)_
-
-Machiko Saito _(gun store clerk)_
-
-James Cotner _(attacker)_
-
-Nancy Stone _(lucky penny waitress)_
-
-Jimmy Broustis _(hardware store clerk)_
-
-Carmen White _(singer)_
-
-Sunny Haire _(bartender)_
-
-Samuel Sheng _(tired cop)_
-
-Josh Zinn _(morose cop)_
-
-USA 2001
-
+USA 2001<br>
 98 mins
 
-The screening on Tue 15 Aug will be introduced  
-by Zorian Clayton, BFI Flare Programmer
+The screening on Tue 15 Aug will be introduced  by Zorian Clayton, BFI Flare Programmer<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjUxMzMyNTRdfQ==
+eyJoaXN0b3J5IjpbNTg2OTA5NzM4XX0=
 -->
