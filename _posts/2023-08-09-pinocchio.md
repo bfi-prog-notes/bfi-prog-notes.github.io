@@ -21,88 +21,43 @@ None of these evildoers are punished or destroyed, but just melt away like lemon
 <br><br>
 
 **FERDINAND THE BULL**<br>
-
 _Director:_ Dick Rickard<br>
-
 USA 1938<br>
-
 8 mins
 
 **PINOCCHIO**<br>
-
-_Supervising Directors:_ Ben Sharpsteen,
-
-Hamilton Luske<br>
-
+_Supervising Directors:_ Ben Sharpsteen, Hamilton Luske<br>
 ©: Walt Disney Productions<br>
-
 _a Walt Disney production_<br>
-
 _Distributed by:_ RKO Radio Pictures<br>
-
 _Presented by:_ Walt Disney<br>
-
-_Sequence Directors:_ Bill Roberts,  
-Norman Ferguson, Jack Kinney,  
-Wilfred Jackson, T. Hee<br>
-
-_Story Adaptation:_ Ted Sears, Otto Englander,  
-Webb Smith, William Cottrell, Joseph Sabo, Erdman Penner, Aurelius Battaglia<br>
-
+_Sequence Directors:_ Bill Roberts,  Norman Ferguson, Jack Kinney,  Wilfred Jackson, T. Hee<br>
+_Story Adaptation:_ Ted Sears, Otto Englander,  Webb Smith, William Cottrell, Joseph Sabo, Erdman Penner, Aurelius Battaglia<br>
 _From the story by:_ [Carlo] Collodi<br>
-
 _Camera Operator:_ Chuck Wheeler<br>
-
-_Animation Direction:_ Fred Moore, Franklin Thomas, Milton Kahl, Vladimir [‘Bill’] Tytla, Ward Kimball,
-
-Arthur Babbitt, Eric Larson, Woolie Reitherman<br>
-
-_Animation:_ Jack Campbell, Oliver M. Johnston, Berny Wolf, Don Towsley, Don Lusk,
-
-John Lounsbery, Norman Tate, John Bradbury, Lynn Karp, Charles Nichols, Art Palmer,
-
-Joshua Meador, Don Tobin, Robert Martsch, George Rowley, John McManus, Don Patterson, Preston Blair, Les Clark, Marvin Woodward,  
-Hugh Fraser, John Elliotte<br>
-
+_Animation Direction:_ Fred Moore, Franklin Thomas, Milton Kahl, Vladimir [‘Bill’] Tytla, Ward Kimball, Arthur Babbitt, Eric Larson, Woolie Reitherman<br>
+_Animation:_ Jack Campbell, Oliver M. Johnston, Berny Wolf, Don Towsley, Don Lusk, John Lounsbery, Norman Tate, John Bradbury, Lynn Karp, Charles Nichols, Art Palmer, Joshua Meador, Don Tobin, Robert Martsch, George Rowley, John McManus, Don Patterson, Preston Blair, Les Clark, Marvin Woodward,  Hugh Fraser, John Elliotte<br>
 _Backgrounds:_ Claude Coats, Merle Cox, Ed Starr, Ray Huffine<br>
-
-_Art Direction:_ Charles Philippi, Hugh Hennesy, Kenneth Anderson, Dick Kelsey, Kendall O’Connor, Terrell Stapp, Thor Putnam, John Hubley,  
-McLaren Stewart, Al Zinnen<br>
-
-_Character Designs:_ Joe Grant, Albert Hurter,
-
-John P. Miller, Campbell Grant, Martin Provensen, John Walbridge<br>
-
-_Music and Lyrics:_ Leigh Harline,  
-Ned Washington, Paul J. Smith<br>
-
+_Art Direction:_ Charles Philippi, Hugh Hennesy, Kenneth Anderson, Dick Kelsey, Kendall O’Connor, Terrell Stapp, Thor Putnam, John Hubley,  McLaren Stewart, Al Zinnen<br>
+_Character Designs:_ Joe Grant, Albert Hurter, John P. Miller, Campbell Grant, Martin Provensen, John Walbridge<br>
+_Music and Lyrics:_ Leigh Harline,  Ned Washington, Paul J. Smith<br>
 _Sound System:_ RCA Sound System<br>
 
-_Voice Cast – all uncredited:_<br>
-
+**Voice Cast – all uncredited**<br>
 Dickie Jones _(Pinocchio)_<br>
-
 Cliff Edwards _(Jiminy Cricket)_<br>
-
 Christian Rub _(Geppetto)_<br>
-
-Walter Catlett  
-_(J. Worthington Foulfellow, ‘Honest John’)_<br>
-
+Walter Catlett  _(J. Worthington Foulfellow, ‘Honest John’)_<br>
 Evelyn Venable _(The Blue Fairy)_<br>
-
 Frankie Darro _(Lampwick)_<br>
-
 Charles Judels _(Stromboli/coachman)_<br>
-
 Don Brodie _(barker)_<br>
 
 USA 1940©<br>
-
-87 mins
+87 mins<br>
 
 The screening on Sat 12 Aug will feature an extended introduction<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjAwMDk2NDJdfQ==
+eyJoaXN0b3J5IjpbMTI3MDUxMTgyXX0=
 -->
