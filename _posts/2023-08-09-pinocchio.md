@@ -1,3 +1,14 @@
+---
+layout: post
+title: Pinocchio
+published: true
+date: 2023-08-09
+readtime: true
+categories: ['MAKING MAGIC<br>100 YEARS OF DISNEY']
+tags: [Animation]
+metadata: 'USA 1940, 87 mins<br> Directors: Ben Sharpsteen, Hamilton Luske'
+pdf: '2023-08-09-pinocchio.pdf'
+---
 
 Disney’s _Pinocchio_ is the first cartoon feature to allegorise animation’s miracle, the creation of life_._ By _Pinocchio_’s release in 1940, cinema audiences had seen many fantastic births, but usually of monsters: Paul Wegener’s clay Golem, Fritz Lang’s robot Maria, the lumbering Boris Karloff. Early cartoons, meanwhile, reduced their life-giving magics to jaunty conjuring, inspired by the lightning artists of vaudeville. The connection is explicit in J. Stuart Blackton’s _Humorous Phases of Funny Faces_ (1906), perhaps the first cartoon ever. The first chalk drawing is by a visible hand, but then the magician drops out and the faces move by themselves.
 
@@ -9,8 +20,7 @@ The technology unites handicrafts with high-tech. _Pinocchio_’s pictures were 
 
 The film’s greatness is haphazard, its magic almost shapeless. It has five villains (including a monster whale), untidily sprawling set-pieces, broad panto knockabout (exaggerated double-takes abound) and moments of high terror. There’s the horror-film shadow of a doomed delinquent, turning from boy into donkey), and the shock-and-awe climax, where Pinocchio and the toymaker Gepetto are chased by a whale like a roaring locomotive. If _Pinocchio_ has a self-metaphor, it’s Gepetto’s fantastic toyshop array of clocks shaped like animals, birds, dancers and delinquents, all brassily chiming the hour – though Gepetto must still check what time it actually is.
 
-The carvings and clockwork of Gepetto’s home advertise the animators’ handicraft. The toyshop scenes drip enclosed and intimate charm, modulated by Gepetto’s cranky cat (animated by Eric Larson). Cliff Edwards as Jiminy was the first celebrity voice in Disney’s features, a precursor to Phil Harris in  
-_The Jungle Book_ and Robin Williams in _Aladdin._ Edwards, though, can mix fanny gags with snowy purity, and his tenor singing of ‘Fate steps in and sees you _through…_’ conjures a lost world of Hollywood gentility.
+The carvings and clockwork of Gepetto’s home advertise the animators’ handicraft. The toyshop scenes drip enclosed and intimate charm, modulated by Gepetto’s cranky cat (animated by Eric Larson). Cliff Edwards as Jiminy was the first celebrity voice in Disney’s features, a precursor to Phil Harris in  _The Jungle Book_ and Robin Williams in _Aladdin._ Edwards, though, can mix fanny gags with snowy purity, and his tenor singing of ‘Fate steps in and sees you _through…_’ conjures a lost world of Hollywood gentility.
 
 Disney’s Pinocchio is an adorable child, far from the devil doll created by Italian author Carlo Lorenzini, writing as Carlo Collodi. The original character swung between cruelty, indolence and prima-donna sentimentality, more ‘Looney Tunes’ than Disney. Walt didn’t corrupt the source; Pinocchio was an innocent in a popular 1938 US stage version directed by Yasha Frank. Disney’s and Collodi’s Pinocchios are often contrasted by pundits looking to denounce one or the other, but they can coexist. (Spielberg references Disney’s Pinocchio in _Close Encounters of the Third Kind_, 1977, and Collodi’s in _Artificial Intelligence A.I._, 2001)
 
@@ -58,6 +68,89 @@ USA 1940©<br>
 
 The screening on Sat 12 Aug will feature an extended introduction<br>
 <br>
+
+**MAKING MAGIC:  100 YEARS OF DISNEY**<br>
+**Luca**<br>
+Wed 2 Aug 14:20; Mon 14 Aug 20:30;  Sun 27 Aug 13:15<br>
+**Turning Red**<br>
+Wed 2 Aug 20:20; Tue 8 Aug 14:20;  Sat 26 Aug 15:30<br>
+**The Jungle Book**<br>
+Thu 3 Aug 14:20; Sun 6 Aug 13:00;  Wed 16 Aug 20:45; Wed 30 Aug 14:20<br>
+**Beaches**<br>
+Thu 3 Aug 18:00; Sat 19 Aug 17:30<br>
+**20,000 Leagues Under the Sea**<br>
+Fri 4 Aug 18:00; Sun 13 Aug 18:10;  Tue 22 Aug 14:20; Wed 23 Aug 20:20<br>
+**101 Dalmatians**<br>
+Sat 5 Aug 13:20; Thu 10 Aug 14:20;  Sat 19 Aug 15:30; Tue 29 Aug 14:20<br>
+**Bedknobs and Broomsticks**<br>
+Sat 5 Aug 15:40; Thu 17 Aug 14:20;  Sun 27 Aug 18:20<br>
+**Sister Act**<br>
+Sat 5 Aug 20:40; Fri 18 Aug 18:20<br>
+**Zootropolis (aka Zootopia)**<br>
+Sun 6 Aug 13:10; Fri 25 Aug 18:00<br>
+**Silent Cinema: Disney’s Silent Shorts + intro**<br>
+Sun 6 Aug 15:30<br>
+**Freaky Friday**<br>
+Sun 6 Aug 18:20; Fri 18 Aug 20:30;  Thu 24 Aug 20:50<br>
+**The Parent Trap**<br>
+Mon 7 Aug 18:00; Sun 20 Aug 15:10<br>
+**Pinocchio**<br>
+Wed 9 Aug 14:20; Sat 12 Aug 11:30 (+ extended intro); Mon 14 Aug 14:20; Sun 20 Aug 19:00<br>
+**Mary Poppins**<br>
+Wed 9 Aug 17:50; Mon 21 Aug 14:20;  Mon 28 Aug 13:00<br>
+**Up**<br>
+Wed 9 Aug 20:30; Mon 28 Aug 12:30<br>
+**The Love Bug**<br>
+Fri 11 Aug 20:30; Sat 12 Aug 11:50;  Sun 20 Aug 13:30<br>
+**A Disney Day for Young Audiences**<br>
+Sat 12 Aug 11:30-16:30<br>
+**Tarzan**<br>
+Sat 12 Aug 18:00; Sat 26 Aug 12:00<br>
+**Soul**<br>
+Sat 12 Aug 20:30; Sat 19 Aug 13:00;  Thu 24 Aug 14:20<br>
+**The Lion King**<br>
+Sun 13 Aug 13:00 (+ Funday Sing-along);  Sat 26 Aug 20:30; Thu 31 Aug 14:20<br>
+**The Fiendishly Difficult Disney Quiz**<br>
+Sun 13 Aug 15:30 Blue Room<br>
+**Bambi**<br>
+Sun 13 Aug 15:50; Wed 16 Aug 14:20;  Sat 26 Aug 12:20; Mon 28 Aug 16:20<br>
+**Finding Nemo**<br>
+Sun 13 Aug 18:30; Sun 27 Aug 13:30<br>
+**The Rescuers**<br>
+Mon 14 Aug 18:30; Sat 19 Aug 15:50<br>
+**Ratatouille**<br>
+Sat 19 Aug 12:00; Tue 29 Aug 20:30<br>
+**Dick Tracy**<br>
+Fri 25 Aug 20:40; Tue 29 Aug 18:10 (+ intro by  Ben Roberts, BFI CEO)<br>
+**The Little Mermaid**<br>
+Sun 27 Aug 16:00; Mon 28 Aug 16:40<br>
+
+With thanks to The Walt Disney Company<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTI3MDUxMTgyXX0=
 -->
