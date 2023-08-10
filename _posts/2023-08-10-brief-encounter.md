@@ -1,8 +1,14 @@
-
-
-
-<![endif]-->
-
+---
+layout: post
+title: In the Mood for Love
+published: true
+date: 2023-08-07
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Romance]
+metadata: 'Hong Kong 2000 , 99 mins<br> Director: Wong Kar Wai'
+pdf: '2023-08-07-in-the-mood-for-love.pdf'
+---
 **SPOILER WARNING** The following notes give away some of the plot.
 
 _Brief Encounter_ has always been regarded as a quintessentially British film, typical of British cinema and of Britishness itself. This has been its glory but also a stick to beat it with. It was swiftly heralded, at home and abroad, as the acme of British cinema. There was talk of it representing a ‘British school’, not only by C.A. Lejeune (who used the phrase) but also by André Bazin (though he retracted his enthusiasm a few years later). It was straightaway a reference point in British writing about film, notably in the work of the _Penguin Film Review_ and Roger Manvell, which set the agenda for the serious consideration of cinema in Britain for many years. The script was published (a rare enough accolade) in 1950 as one of _Three British Screenplays_ and in 1974 as one of four _Masterworks of the British Cinema_. By the 1960s it was also being excoriated for the very same Britishness, by the journal _Movie_, for instance, and in Raymond Durgnat’s book _A Mirror for England_. Its place has nonetheless remained secure.
@@ -21,55 +27,29 @@ Part of the pleasure of _Brief Encounter_ is simply the recognition of the way t
 Yet if _Brief Encounter_ recognises the difficulty of going with one’s feelings for a certain strain of Englishness, it also recognises the strain, fully registers the surging of emotion. It is because of both the social pressures toward and the genuine appeal of comfy conformity, both so meticulously realised, that the desire to love against the grain comes across so powerfully. Moreover, _Brief Encounter_’s recourse to music and to filmic devices also suggests, in this quite extraordinarily verbal film, the limitations of everyday speech to express emotion. Far from lacking emotion, the film is throbbing with it but also registering that emotion cannot be pinned down, summed up, that emotion is overwhelming. That is why _Brief Encounter_ is not only a ‘lovely’, but also a vibrantly ‘good’ film.  
 **Richard Dyer, _Brief Encounter_ (BFI Publishing, 1993) Reproduced by kind permission of Bloomsbury Publishing. ©Richard Dyer**
 
-* Please note that since this article was written Carnforth Station has been restored and refurbished, and the Carnforth Station Heritage Centre and Brief Encounter Refreshment Room opened for visitors in 2003.
+* Please note that since this article was written Carnforth Station has been restored and refurbished, and the Carnforth Station Heritage Centre and Brief Encounter Refreshment Room opened for visitors in 2003.  
 <br>
-<![endif]-->
 
-**Brief Encounter**
-
-_Director:_ David Lean
-
-_Production Companies:_ Cineguild,
-
-Independent Producers
-
-_Producer:_ Noël Coward
-
-_In Charge of Production:_ Anthony Havelock-Allan, Ronald Neame
-
-_Production Manager:_ Ernest J. Holding
-
-_Assistant Director:_ George Pollock
-
-_Director of Photography:_ Robert Krasker
-
-_Camera Operator:_ Bunny Franke
-
-_Editor:_ Jack Harris
-
-_Associate Editor:_ Marjorie Saunders
-
-_Art Director:_ L.P. Williams
-
-_Art Supervisor for Mr Coward:_ G.E. Calthrop
-
-_Music Extracts:_ Rachmaninoff
-
-_Piano:_ Eileen Joyce
-
-_Music Performed by:_
-
-The National Symphony Orchestra
-
-_Music Conducted by:_ Muir Mathieson
-
-_Sound Recording:_ Stanley Lambourne,
-
-Desmond Dew
-
-_Sound Editor:_ Harry Miller
-
-_uncredited:_
+**BRIEF ENCOUNTER**  
+_Director:_ David Lean  
+_Production Companies:_ Cineguild, Independent Producers  
+_Producer:_ Noël Coward  
+_In Charge of Production:_ Anthony Havelock-Allan, Ronald Neame  
+_Production Manager:_ Ernest J. Holding  
+_Assistant Director:_ George Pollock  
+_Director of Photography:_ Robert Krasker  
+_Camera Operator:_ Bunny Franke  
+_Editor:_ Jack Harris  
+_Associate Editor:_ Marjorie Saunders  
+_Art Director:_ L.P. Williams  
+_Art Supervisor for Mr Coward:_ G.E. Calthrop  
+_Music Extracts:_ Rachmaninoff  
+_Piano:_ Eileen Joyce  
+_Music Performed by:_ The National Symphony Orchestra  
+_Music Conducted by:_ Muir Mathieson  
+_Sound Recording:_ Stanley Lambourne, Desmond Dew  
+_Sound Editor:_ Harry Miller  
+_uncredited:_  
 _Location Manager:_ T. Tomson  
 _2nd Assistant Director:_ Victor Wark  
 _3rd Assistant Director:_ Chick Simpson  
@@ -116,6 +96,6 @@ Jack May _(boatman)_
 UK 1945  
 87 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTU5OTM4NywtODUxMzIxODgsMTY2Nj
-M4MDE4NywtMTIyMDkxODI2OF19
+eyJoaXN0b3J5IjpbLTIxMDM5NiwtODUxMzIxODgsMTY2NjM4MD
+E4NywtMTIyMDkxODI2OF19
 -->
