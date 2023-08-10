@@ -109,23 +109,15 @@ _Dubbing Sound Camera:_ Peter T. Davies
 
 _Boom Operator:_ Eric Clennell
 
-_Cast:_
-
-Celia Johnson _(Laura Jesson)_
-
-Trevor Howard _(Dr Alec Harvey)_
-
-Stanley Holloway _(Albert Godby)_
-
-Joyce Carey _(Myrtle Bagot)_
-
-Cyril Raymond _(Fred Jesson)_
-
-Everley Gregg _(Dolly Messiter)_
-
-Marjorie Mars _(Mary Norton)_
-
-Margaret Barton _(Beryl Waters)_ 
+_Cast**  
+Celia Johnson _(Laura Jesson)_  
+Trevor Howard _(Dr Alec Harvey)_  
+Stanley Holloway _(Albert Godby)_  
+Joyce Carey _(Myrtle Bagot)_  
+Cyril Raymond _(Fred Jesson)_  
+Everley Gregg _(Dolly Messiter)_  
+Marjorie Mars _(Mary Norton)_  
+Margaret Barton _(Beryl Waters)_  
 _uncredited:_  
 Dennis Harkin _(Stanley)_  
 Valentine Dyall _(Stephen Lynn)_  
@@ -144,6 +136,6 @@ Jack May _(boatman)_
 UK 1945  
 87 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDk0NTMxNjEsMTY2NjM4MDE4NywtMT
-IyMDkxODI2OF19
+eyJoaXN0b3J5IjpbLTg1MTMyMTg4LDE2NjYzODAxODcsLTEyMj
+A5MTgyNjhdfQ==
 -->
