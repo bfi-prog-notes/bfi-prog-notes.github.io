@@ -1,13 +1,13 @@
 ---
 layout: post
-title: In the Mood for Love
+title: Brief Encounter
 published: true
-date: 2023-08-07
+date: 2023-08-10
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Romance]
-metadata: 'Hong Kong 2000 , 99 mins<br> Director: Wong Kar Wai'
-pdf: '2023-08-07-in-the-mood-for-love.pdf'
+metadata: 'UK 1945 , 87 mins<br> Director: David Lean'
+pdf: '2023-08-10-brief-encounter.pdf'
 ---
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -96,6 +96,6 @@ Jack May _(boatman)_
 UK 1945  
 87 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM5NiwtODUxMzIxODgsMTY2NjM4MD
-E4NywtMTIyMDkxODI2OF19
+eyJoaXN0b3J5IjpbNDg5NTQ3ODIyLC04NTEzMjE4OCwxNjY2Mz
+gwMTg3LC0xMjIwOTE4MjY4XX0=
 -->
