@@ -70,46 +70,26 @@ Desmond Dew
 _Sound Editor:_ Harry Miller
 
 _uncredited:_
+_Location Manager:_ T. Tomson  
+_2nd Assistant Director:_ Victor Wark  
+_3rd Assistant Director:_ Chick Simpson  
+_Continuity:_ Maggie Unsworth  
+_Assistant Continuity:_ Renée Glynne  
+_Screenplay:_ Noël Coward, David Lean, Anthony Havelock-Allan, Ronald Neame  
+_Based on the playlet ‘Still Life’ by:_ Noël Coward  
+_Additional Photography:_ Ronald Neame  
+_Focus Puller:_ Arthur Ibbetson  
+_Clapper Loaders:_ E. Owen, Alan Bryce  
+_Back Projection Operator:_ Charles Staffell  
+_Assistant Editor:_ Winston Ryder  
+_2nd Assistant Editor:_ John Cooke  
+_Assistant Art Director:_ Elven Webb  
+_Draughtsmen:_ William Kellner, Herbert Westbrook, R. Field-Smith  
+_Scenic Decorator:_ George Demaine  
+_Dubbing Sound Camera:_ Peter T. Davies  
+_Boom Operator:_ Eric Clennell  
 
-_Location Manager:_ T. Tomson
-
-_2nd Assistant Director:_ Victor Wark
-
-_3rd Assistant Director:_ Chick Simpson
-
-_Continuity:_ Maggie Unsworth
-
-_Assistant Continuity:_ Renée Glynne
-
-_Screenplay:_ Noël Coward, David Lean,
-
-Anthony Havelock-Allan, Ronald Neame
-
-_Based on the playlet ‘Still Life’ by:_ Noël Coward
-
-_Additional Photography:_ Ronald Neame
-
-_Focus Puller:_ Arthur Ibbetson
-
-_Clapper Loaders:_ E. Owen, Alan Bryce
-
-_Back Projection Operator:_ Charles Staffell
-
-_Assistant Editor:_ Winston Ryder
-
-_2nd Assistant Editor:_ John Cooke
-
-_Assistant Art Director:_ Elven Webb
-
-_Draughtsmen:_ William Kellner, Herbert Westbrook, R. Field-Smith
-
-_Scenic Decorator:_ George Demaine
-
-_Dubbing Sound Camera:_ Peter T. Davies
-
-_Boom Operator:_ Eric Clennell
-
-_Cast**  
+**Cast**  
 Celia Johnson _(Laura Jesson)_  
 Trevor Howard _(Dr Alec Harvey)_  
 Stanley Holloway _(Albert Godby)_  
@@ -136,6 +116,6 @@ Jack May _(boatman)_
 UK 1945  
 87 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTMyMTg4LDE2NjYzODAxODcsLTEyMj
-A5MTgyNjhdfQ==
+eyJoaXN0b3J5IjpbMjExOTU5OTM4NywtODUxMzIxODgsMTY2Nj
+M4MDE4NywtMTIyMDkxODI2OF19
 -->
