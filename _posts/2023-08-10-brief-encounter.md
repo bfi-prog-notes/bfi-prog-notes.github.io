@@ -22,6 +22,128 @@ Yet if _Brief Encounter_ recognises the difficulty of going with one’s feeling
 **Richard Dyer, _Brief Encounter_ (BFI Publishing, 1993) Reproduced by kind permission of Bloomsbury Publishing. ©Richard Dyer**
 
 * Please note that since this article was written Carnforth Station has been restored and refurbished, and the Carnforth Station Heritage Centre and Brief Encounter Refreshment Room opened for visitors in 2003.
+<br>
+<![endif]-->
+
+**Brief Encounter**
+
+_Director:_ David Lean
+
+_Production Companies:_ Cineguild,
+
+Independent Producers
+
+_Producer:_ Noël Coward
+
+_In Charge of Production:_ Anthony Havelock-Allan, Ronald Neame
+
+_Production Manager:_ Ernest J. Holding
+
+_Assistant Director:_ George Pollock
+
+_Director of Photography:_ Robert Krasker
+
+_Camera Operator:_ Bunny Franke
+
+_Editor:_ Jack Harris
+
+_Associate Editor:_ Marjorie Saunders
+
+_Art Director:_ L.P. Williams
+
+_Art Supervisor for Mr Coward:_ G.E. Calthrop
+
+_Music Extracts:_ Rachmaninoff
+
+_Piano:_ Eileen Joyce
+
+_Music Performed by:_
+
+The National Symphony Orchestra
+
+_Music Conducted by:_ Muir Mathieson
+
+_Sound Recording:_ Stanley Lambourne,
+
+Desmond Dew
+
+_Sound Editor:_ Harry Miller
+
+_uncredited:_
+
+_Location Manager:_ T. Tomson
+
+_2nd Assistant Director:_ Victor Wark
+
+_3rd Assistant Director:_ Chick Simpson
+
+_Continuity:_ Maggie Unsworth
+
+_Assistant Continuity:_ Renée Glynne
+
+_Screenplay:_ Noël Coward, David Lean,
+
+Anthony Havelock-Allan, Ronald Neame
+
+_Based on the playlet ‘Still Life’ by:_ Noël Coward
+
+_Additional Photography:_ Ronald Neame
+
+_Focus Puller:_ Arthur Ibbetson
+
+_Clapper Loaders:_ E. Owen, Alan Bryce
+
+_Back Projection Operator:_ Charles Staffell
+
+_Assistant Editor:_ Winston Ryder
+
+_2nd Assistant Editor:_ John Cooke
+
+_Assistant Art Director:_ Elven Webb
+
+_Draughtsmen:_ William Kellner, Herbert Westbrook, R. Field-Smith
+
+_Scenic Decorator:_ George Demaine
+
+_Dubbing Sound Camera:_ Peter T. Davies
+
+_Boom Operator:_ Eric Clennell
+
+_Cast:_
+
+Celia Johnson _(Laura Jesson)_
+
+Trevor Howard _(Dr Alec Harvey)_
+
+Stanley Holloway _(Albert Godby)_
+
+Joyce Carey _(Myrtle Bagot)_
+
+Cyril Raymond _(Fred Jesson)_
+
+Everley Gregg _(Dolly Messiter)_
+
+Marjorie Mars _(Mary Norton)_
+
+Margaret Barton _(Beryl Waters)_
+
+_uncredited:_  
+Dennis Harkin _(Stanley)_  
+Valentine Dyall _(Stephen Lynn)_  
+Nuna Davey _(Mrs Rolandson)_  
+Irene Handl _(organist)_  
+Edward Hodge _(Bill)_  
+Sydney Bromley _(Johnnie)_  
+Wilfred Babbage _(policeman)_  
+Avis Scott _(waitress)_  
+Henrietta Vintcent _(Margaret Jesson)_  
+Richard Thomas _(Bobbie Jesson)_  
+George V. Sheldon _(clergyman)_  
+Wally Bosco _(doctor)_  
+Jack May _(boatman)_  
+
+UK 1945  
+87 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjA5MTgyNjhdfQ==
+eyJoaXN0b3J5IjpbMTY2NjM4MDE4NywtMTIyMDkxODI2OF19
 -->
