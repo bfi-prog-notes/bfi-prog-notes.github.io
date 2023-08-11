@@ -1,5 +1,5 @@
 
-<![endif]-->
+
 
 Penélope Cruz is unmistakably the selling point of Emanuele Crialese’s _L’immensità_. It’s her face with those trademark lashes in close-up on the Italian poster – but then, the Spanish star has long been closely identified with Italianità. She played a Roman sex worker in Woody Allen’s _To Rome with Love_ (2012), and starred in two notable Italian films by Sergio Castellitto, _Don’t Move_ (2004) and _Twice Born_ (2012) (though in the former, her character was Albanian-born). But the fact that she can convincingly pass as Italian, even archetypically Italian, was what inspired Pedro Almodóvar to use her quite overtly as a latter-day Loren or Magnani figure – a sort of Mamma Roma _all’espagnola_ – in his 2006 film _Volver_.
 
@@ -12,7 +12,7 @@ Andrea announces, ‘I come from another galaxy,’ but Clara feels just as much
 Crialese is known as an accomplished director of serious-minded films executed with polished elegance – among them, 2002’s _Respiro_, with Valeria Golino as another woman whose free spirit is stifled by society, and 2006’s ambitious Charlotte Gainsbourg vehicle _Golden Door_, a period piece about Sicilian immigration to US. His first feature in 11 years, _L’immensità_ is particularly personal, Crialese has said, based as it is on his own experience as a trans man; asked about Andrea, he has said, ‘There is no doubt that that’s me.’ Crialese has chosen to cast a cisgender girl in the lead, on the grounds that it would be distressing for a teenager to be filmed while actually going through what their character was experiencing; he says of Luana Giuliani, ‘She simply had to pretend that she wanted to be a boy.’
 
 The result is a performance of imposing charismatic toughness, with Giuliani sporting a mesmerising glare and exuding proto-punk defiance in a red leather jacket emblazoned with badges. She and Cruz make an engaging duo in what is more than anything a mother-child story of friendship and complicity against the odds. Undeniably, though, _L’immensità_ – named after the 60s pop ballad that features in the end credits – is one of those sleekly staged crowd-pleasers that go down so well with domestic audiences at the Venice Film Festival. Its kitsch exuberance is something you either buy or don’t, but it’s Crialese’s personal investment that makes _L’immensità_ distinctive, even when the themes of conformity, rebellion and the search for the true self are laid out with a kind of feelgood – and sometimes play-safe – obviousness.  
-**Jonathan Romney, _Sight and Sound_, 6 September 2022**
+**Jonathan Romney, _Sight and Sound_, 6 September 2022**  
 
 **Director’s statement**  
 _L’immensità_ is the film I have been trying to make my whole career: it has always been ‘my next film’, but it always seemed to give way to another story, as I hadn’t quite matured enough to feel ready to take it on. It is certainly my most personal film to date, a journey through the past, via memories – at times crystal clear, at others cloudy – and perceptions of times now firmly rooted in the past, that have been revisited and revised through the optics of the present day.
@@ -32,66 +32,42 @@ I think that the power of Penélope Cruz’s performance also stems from her wil
 **Production notes** 
 <br>
 
-<![endif]-->
-
-**L’immensità**
-
+**L’IMMENSITA'**  
 _Directed by_: Emanuele Crialese  
-_©_: Wildside Srl, Warner Bros. Entertainment Italia Srl, Chapter 2,
-
-Pathé Films, France 3 Cinéma  
-_Production Companies_: Wildside,
-
-Chapter 2, Warner Bros. Entertainment Italia, Pathé, France 3 Cinéma  
+_©_: Wildside Srl, Warner Bros. Entertainment Italia Srl, Chapter 2, Pathé Films, France 3 Cinéma  
+_Production Companies_: Wildside, Chapter 2, Warner Bros. Entertainment Italia, Pathé, France 3 Cinéma  
 _Presented by_: Wildside, Chapter 2  
 _International Sales_: Pathé  
 _Executive Producer_: Olivia Sleiter  
-_Produced by_: Mario Gianani,
-
-Lorenzo Gangarossa  
+_Produced by_: Mario Gianani, Lorenzo Gangarossa  
 _Line Producer_: Erik Paoletti  
-_Production Supervisors_:
-
-Saverio Guarascio, Mandella Quilici  
+_Production Supervisors_: Saverio Guarascio, Mandella Quilici  
 _Location Manager_: Paolo Gatti  
-_Post-production Supervisor_:
-
-Franco Casellato  
+_Post-production Supervisor_: Franco Casellato  
 _1st Assistant Director_: Ciro Scognamiglio  
 _Casting_: Chiara Polizzi, Davide Zurolo  
 _Screenplay by_: Emanuele Crialese, Francesca Manieri, Vittorio Moroni  
 _Story by_: Emanuele Crialese  
-_Director of Photography_:
-
-Gergely Pohárnok  
+_Director of Photography_: Gergely Pohárnok  
 _Camera Operator_: Gilbert Lecluyse  
-_Steadicam Operator_:
-
-Gian Piero Castellucci  
+_Steadicam Operator_: Gian Piero Castellucci  
 _Editor_: Clelio Benevento  
 _Production Designer_: Dimitri Capuani  
 _Supervising Art Director_: Alessia Anfuso  
 _Art Director_: Luca Filaci  
-_Costume Designer_:
-
-Massimo Cantini Parrini  
+_Costume Designer_: Massimo Cantini Parrini  
 _Make-up Designer_: Dalia Colli  
-_Make-up Artist_: Pablo Iglesias
-
+_Make-up Artist_: Pablo Iglesias  
 _Music by_: Rauelsson  
 _Additional Music_: Emanuele Bossi  
 _Music Consultant_: Roberto Corsi  
 _Choreography_: Blanca Li  
 _Sound Recordist_: Pierre-Yves Lavoué  
-_Re-recording Mixer_:
+_Re-recording Mixer_: Francesco Tumminello  
+_Supervising Sound Editor_: Marta Billingsley  
+_Dialogue Coach for Ms Cruz_: Mario Pizzuti  
 
-Francesco Tumminello  
-_Supervising Sound Editor_:
-
-Marta Billingsley  
-_Dialogue Coach for Ms Cruz_: Mario Pizzuti
-
-_Cast__:_ 
+**Cast**  
 Penélope Cruz _(Clara Borghetti)_  
 Luana Giuliani _(Adri)_  
 Vincenzo Amato _(Felice Borghetti)_  
@@ -109,7 +85,7 @@ Ilaria Genatiempo _(Paola)_
 Italy/France 2022  
 98 mins  
 
-A Curzon release 
+A Curzon release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4MzM1ODQ2XX0=
+eyJoaXN0b3J5IjpbMTk4MjcwNjI1Niw3OTgzMzU4NDZdfQ==
 -->
