@@ -30,11 +30,11 @@ Maybury had always been fascinated by subcultures and he seems to relish the sce
 **Michael O’Pray, _Love Is the Devil_ DVD/Blu-ray booklet essay (BFI, 2008/2015)**  
 <br>
 
-**LOVE IS THE DEVIL
+**LOVE IS THE DEVIL  
 STUDY FOR A PORTRAIT OF FRANCIS BACON**  
 _Director:_ John Maybury  
 _©:_ BBC, BFI  
-BBC Films _and_ The British Film Institute _present in association with_ The Arts Council of England_/_Première Heure_/_Uplink  
+BBC Films _and_ The British Film Institute _present in association with_ The Arts Council of England/Première Heure/Uplink  
 _a_ British Film Institute _production in association with_ Partners in Crime _with the assistance of_ STATE  
 _Screenplay developed by_ BFI Production _and_ BBC Films _with the support of_ The European Script Fund – an initiative of The Media Programme of the European  Union  
 _Initial Development by:_ Partners in Crime  
