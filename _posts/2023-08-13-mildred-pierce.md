@@ -77,7 +77,7 @@ _Music Mixer_: David Forrest
 _Re-recording/Effects Mixers_: Gerald W. Alexander, Robert G. Wayne  
 _Publicity_: John Mitchell  
 
-**Cast**    
+**Cast**  
 Joan Crawford _(Mildred Pierce)_  
 Jack Carson _(Wally Fay)_  
 Zachary Scott _(Monte Beragon)_  
@@ -191,5 +191,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1MjM1NzkxXX0=
+eyJoaXN0b3J5IjpbMzIyODAzOTldfQ==
 -->
