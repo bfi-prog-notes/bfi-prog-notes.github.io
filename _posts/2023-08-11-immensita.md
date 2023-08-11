@@ -28,8 +28,7 @@ _L’immensità_ is the film I have been trying to make my whole career: it has 
 
 Families are often at the heart of my films; they are almost always fragmented, problematic, even dysfunctional. I think _L’immensità_ is the high-point of a theme I have been tackling for a long time, an exploration of a type of family that can’t seem to offer protection, where the children have no sense of security, where conjugal love, teamwork and mature individuals to look up to are absent.
 
-_L’immensità_ is not only a film about gender identity; nor do I believe that such a complex and raw subject matter can be pigeon-holed. It is an issue that is  
-personal to each and every individual, one that cannot – and should not – be reduced to a leitmotif.
+_L’immensità_ is not only a film about gender identity; nor do I believe that such a complex and raw subject matter can be pigeon-holed. It is an issue that is personal to each and every individual, one that cannot – and should not – be reduced to a leitmotif.
 
 The film is set in Rome in the 1970s. I decided to portray those years by first of all stepping back from too strict an attempt to reclaim the ‘memory of that period’. I asked all the cast and crew to use their own memories: family photographs, Polaroids, all the things that belong to our childhood. A vast family album of the crew whose very heart and soul would be the building blocks of the film. We let ourselves be guided by designing a map of memories that we consulted during the planning process. The visual result is a synthesis of our pasts, our families, the places, colours, atmospheres that belong to us.
 
