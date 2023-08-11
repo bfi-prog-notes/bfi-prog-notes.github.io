@@ -5,11 +5,10 @@ published: true
 date: 2023-08-11
 readtime: true
 categories: ['NEW RELEASES']
-tags: [Animation]
-metadata: 'USA 2020, 97 mins<br> Director: Pete Docter'
-pdf: '2023-08-12-soul.pdf'
+tags: [Drama]
+metadata: 'Italy/France 2022, 98 mins<br> Director: Emanuele Crialese'
+pdf: '2023-08-11-immensita.pdf'
 ---
-
 
 Penélope Cruz is unmistakably the selling point of Emanuele Crialese’s _L’immensità_. It’s her face with those trademark lashes in close-up on the Italian poster – but then, the Spanish star has long been closely identified with Italianità. She played a Roman sex worker in Woody Allen’s _To Rome with Love_ (2012), and starred in two notable Italian films by Sergio Castellitto, _Don’t Move_ (2004) and _Twice Born_ (2012) (though in the former, her character was Albanian-born). But the fact that she can convincingly pass as Italian, even archetypically Italian, was what inspired Pedro Almodóvar to use her quite overtly as a latter-day Loren or Magnani figure – a sort of Mamma Roma _all’espagnola_ – in his 2006 film _Volver_.
 
@@ -115,6 +114,30 @@ From Fri 25 Aug (Preview + Q&A on Tue 15 Aug)
 From Fri 11 Aug (Q&A with director Bette Gordon on Fri 11 Aug 18:00)  
 **Serpico**  
 From Fri 18 Aug  
+
+<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzY3NDQ5OCw3OTgzMzU4NDZdfQ==
+eyJoaXN0b3J5IjpbLTMxMTk2NzY3LDc5ODMzNTg0Nl19
 -->
