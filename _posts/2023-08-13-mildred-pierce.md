@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Love Is the Devil
+title: Mildred Pierce
 published: true
-date: 2023-08-12
+date: 2023-08-13
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama, Biopic]
-metadata: 'UK/France/Japan 1998, 91 mins<br> Director: John Maybury'
-pdf: '2023-08-12-love-is-the-devil.pdf'
+tags: [Drama]
+metadata: 'USA 1945, 111 mins<br> Director: Michael Curtiz'
+pdf: '2023-08-13-mildred-pierce.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -191,5 +191,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzE4NzA2Ml19
+eyJoaXN0b3J5IjpbODg1MjM1NzkxXX0=
 -->
