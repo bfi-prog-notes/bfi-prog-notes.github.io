@@ -6,8 +6,8 @@ date: 2023-08-12
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Biopic]
-metadata: 'UK/France/Japan 1998, 91 mins<br> Director: David Lean'
-pdf: '2023-08-10-brief-encounter.pdf'
+metadata: 'UK/France/Japan 1998, 91 mins<br> Director: John Maybury'
+pdf: '2023-08-12-love-is-the-devil.pdf'
 ---
 
 When _Love Is the Devil_ was released in 1998, it was John Maybury’s first incursion into the mainstream after a long career stretching back to his teens when he worked on Derek Jarman’s celebrated film _Jubilee_ (1978) in the British film avant-garde (though Maybury preferred the term ‘underground cinema’). In the early 1980s and working on no budgets Maybury – together with artist and filmmaker Cerith Wyn Evans – spearheaded the last coherent British avant-garde film movement, dubbed the New Romantics (much to the chagrin of the filmmakers themselves). With their use of the amateur Super 8 film gauge, they developed an intensely imagistic aesthetic often combining symbolist motifs with sexual (primarily gay) excess and an inter-textuality in which pop, classical and world music, dance, text and fashion freely intermingled. In this way, the New Romantics broke with the modernist formalism that had dominated the avant-garde since the late 1960s.
@@ -30,5 +30,6 @@ Maybury had always been fascinated by subcultures and he seems to relish the sce
 
 Michael O’Pray, _Love Is the Devil_ DVD/Blu-ray booklet essay (BFI, 2008/2015)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ5MTg3OTIsLTg0NzQxMzQ1M119
+eyJoaXN0b3J5IjpbLTQ2MTA2NDM4LC0xODM0OTE4NzkyLC04ND
+c0MTM0NTNdfQ==
 -->
