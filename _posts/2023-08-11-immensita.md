@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: L'immensità
+published: true
+date: 2023-08-11
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Animation]
+metadata: 'USA 2020, 97 mins<br> Director: Pete Docter'
+pdf: '2023-08-12-soul.pdf'
+---
 
 
 Penélope Cruz is unmistakably the selling point of Emanuele Crialese’s _L’immensità_. It’s her face with those trademark lashes in close-up on the Italian poster – but then, the Spanish star has long been closely identified with Italianità. She played a Roman sex worker in Woody Allen’s _To Rome with Love_ (2012), and starred in two notable Italian films by Sergio Castellitto, _Don’t Move_ (2004) and _Twice Born_ (2012) (though in the former, her character was Albanian-born). But the fact that she can convincingly pass as Italian, even archetypically Italian, was what inspired Pedro Almodóvar to use her quite overtly as a latter-day Loren or Magnani figure – a sort of Mamma Roma _all’espagnola_ – in his 2006 film _Volver_.
@@ -86,6 +96,25 @@ Italy/France 2022
 98 mins  
 
 A Curzon release  
+<br>
+
+**NEW RELEASES**  
+**Talk to Me**  
+Continued from Fri 28 Jul  
+**Kokomo City**  
+From Fri 4 Aug  
+**Paris Memories (Revoir Paris)**  
+From Fri 4 Aug  
+**L’immensità**  
+From Fri 11 Aug  
+**Scrapper**  
+From Fri 25 Aug (Preview + Q&A on Tue 15 Aug)  
+
+**RE-RELEASES**  
+**Variety**  
+From Fri 11 Aug (Q&A with director Bette Gordon on Fri 11 Aug 18:00)  
+**Serpico**  
+From Fri 18 Aug  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjcwNjI1Niw3OTgzMzU4NDZdfQ==
+eyJoaXN0b3J5IjpbMTUxMzY3NDQ5OCw3OTgzMzU4NDZdfQ==
 -->
