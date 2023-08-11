@@ -79,94 +79,52 @@ _Post-production Supervisor:_ Emma Salter
 
 _1st Assistant Director:_ Deborah Saban
 
-_2nd Assistant Director:_ Olivia Lloyd
-
-_3rd Assistant Director:_ Jojo Tulloh
-
-_Script Supervisor:_ Laura Goulding
-
-_Casting:_ Mary Selway, Emma Buckley
-
-_Script Editor:_ Miriam Segal
-
-_Written by:_ John Maybury
-
-_Co-writers:_ James Cohen, Don Jordan
-
-_Director of Photography:_ John Mathieson
-
-_Focus Puller:_ Keith McNamara
-
+_2nd Assistant Director:_ Olivia Lloyd  
+_3rd Assistant Director:_ Jojo Tulloh  
+_Script Supervisor:_ Laura Goulding  
+_Casting:_ Mary Selway, Emma Buckley  
+_Script Editor:_ Miriam Segal  
+_Written by:_ John Maybury  
+_Co-writers:_ James Cohen, Don Jordan  
+_Director of Photography:_ John Mathieson  
+_Focus Puller:_ Keith McNamara  
 _Clapper Loader:_ Thomas McFarling
 
-_Gaffer:_ Richard Barber
+_Gaffer:_ Richard Barber  
+_Grip:_ Rupert Lloyd-Parry  
+_Video Technician:_ Ron Osman  
+_Stills Photography:_ Jaap Buitendijk  
+_Visual Effects:_ The Film Factory at VTR _Visual Effects Supervisor:_ Simon Giles  
+_ Title Background/Additional Effects:_ Rushes Post Production  
+_Wire Effects:_ Kevin Welch  
+_Special Effects:_ Bob Smoke  
+_Graphic Artist:_ Matthew Maxwell  
+_Editor:_ Daniel Goddard  
+_Assistant Editors:_ James Lingard, Emily Grant, Anna Turville, Gavin Buckley  
+_On-line Editor:_ Gavin Burridge  
+_Production Designer:_ Alan MacDonald  
+_Art Director:_ Christina Moore  
+_Set Dresser:_ Philippa Hart  
+_Scenic Artist:_ Thomasina Smith  
+_Storyboard Artist:_ Temple Clark  
+_Props Master:_ Alex Ward  
+_Costume Designer:_ Annie Symons  
+_Wardrobe Supervisor:_ Miles Johnson  
+_Hair/Make-up Designer:_ Jacquetta Levon  
+_Make-up Artist:_ Alex King  
+_Hairdresser:_ Donald McInnes  
+_Titles/Opticals:_ General Screen Enterprises  
+_Laboratory:_ Rank Film Laboratories  
+_Music Composer/Performer:_ Ryuichi Sakamoto  
+_Music Editors:_ Daniel Goddard, Jeremy Price  
+_Mixed by:_ Goh Hotoda  
+_Sound Design:_ Paul Davies  
+_Sound Recordist:_ Ken Lee  
+_Dubbing Mixer:_ Tim Alban  
+_Stunt Co-ordinators:_ Rod Woodruff, Glen Marks  
+_Special Consultant:_ Daniel Farson  
 
-_Grip:_ Rupert Lloyd-Parry
-
-_Video Technician:_ Ron Osman
-
-_Stills Photography:_ Jaap Buitendijk
-
-_Visual Effects:_ The Film Factory at VTR _Visual Effects Supervisor:_ Simon Giles_  
-Title Background/Additional Effects:_
-
-Rushes Post Production
-
-_Wire Effects:_ Kevin Welch
-
-_Special Effects:_ Bob Smoke
-
-_Graphic Artist:_ Matthew Maxwell
-
-_Editor:_ Daniel Goddard
-
-_Assistant Editors:_ James Lingard, Emily Grant, Anna Turville, Gavin Buckley
-
-_On-line Editor:_ Gavin Burridge
-
-_Production Designer:_ Alan MacDonald
-
-_Art Director:_ Christina Moore
-
-_Set Dresser:_ Philippa Hart
-
-_Scenic Artist:_ Thomasina Smith
-
-_Storyboard Artist:_ Temple Clark
-
-_Props Master:_ Alex Ward
-
-_Costume Designer:_ Annie Symons
-
-_Wardrobe Supervisor:_ Miles Johnson
-
-_Hair/Make-up Designer:_ Jacquetta Levon
-
-_Make-up Artist:_ Alex King
-
-_Hairdresser:_ Donald McInnes
-
-_Titles/Opticals:_ General Screen Enterprises
-
-_Laboratory:_ Rank Film Laboratories
-
-_Music Composer/Performer:_ Ryuichi Sakamoto
-
-_Music Editors:_ Daniel Goddard, Jeremy Price
-
-_Mixed by:_ Goh Hotoda
-
-_Sound Design:_ Paul Davies
-
-_Sound Recordist:_ Ken Lee
-
-_Dubbing Mixer:_ Tim Alban
-
-_Stunt Co-ordinators:_ Rod Woodruff, Glen Marks
-
-_Special Consultant:_ Daniel Farson
-
-_Cast**  
+**Cast**  
 Derek Jacobi _(Francis Bacon)_  
 Daniel Craig _(George Dyer)_  
 Anne Lambton _(Isabel Rawsthorne)_  
@@ -197,6 +155,6 @@ UK/France/Japan 1998©
 
 The screening on Wednesday 30 August will be introduced.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDQ3MTQ3MCwtMTgzNDkxODc5MiwtOD
-Q3NDEzNDUzXX0=
+eyJoaXN0b3J5IjpbMjg0ODc1NDAzLC0xODM0OTE4NzkyLC04ND
+c0MTM0NTNdfQ==
 -->
