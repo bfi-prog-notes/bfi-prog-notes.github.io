@@ -29,56 +29,29 @@ Maybury’s long-standing interest in the overlapping aspects of British culture
 Maybury had always been fascinated by subcultures and he seems to relish the scenes at the Colony Room, run by Tilda Swinton’s Muriel Belcher, whose obscene wit and ruthless purging of unwanted guests was notorious. Played with gusto, equalled by Karl Johnson’s seedy and more laid-back _Vogue_ photographer John Deakin, they are the film’s Greek chorus, gathered around Bacon, and revelling in his fame and outrageous wit and charm. For Dyer, it is an alien world in which he is tolerated and patronised. Finally, Dyer can exist neither in his old world of the London working-class criminal nor in this new one revolving around his lover. But Maybury draws out a very sympathetic performance from Jacobi as Bacon, who in many ways is the villain of the film, and Craig’s Dyer achieves a wonderful balance of a tough man struggling with his inner demons. A remarkable film.  
 **Michael O’Pray, _Love Is the Devil_ DVD/Blu-ray booklet essay (BFI, 2008/2015)**  
 <br>
-<![endif]-->
 
-**Love Is the Devil**
-
-**Study for a Portrait of Francis Bacon**
-
-_Director:_ John Maybury
-
-_©:_ BBC, BFI
-
-BBC Films _and_ The British Film Institute _present in association with_ The Arts Council of England_/_Première Heure_/_Uplink
-
-_a_ British Film Institute _production in association with_ Partners in Crime _with the assistance of_ STATE
-
-_Screenplay developed by_ BFI Production _and_ BBC Films _with the support of_ The European Script Fund – an initiative of The Media Programme of the European  Union
-
-_Initial Development by:_ Partners in Crime
-
-_Supported by:_ The National Lottery through the Arts Council of England
-
-_Executive Producers:_ Frances-Anne Solomon,
-
-Ben Gibson
-
-_Premiere Heure Executive Producer:_
-
-Patrice Haddad
-
-_Uplink Executive Producer:_ Takashi Asai
-
-_Producer:_ Chiara Menage
-
-_Co-producers:_ James Cohen, Don Jordan
-
-_Line Producer:_ Yvonee Ibazebo
-
-_BBC Production Executive:_ Christopher Cameron
-
-_BFI Production Executive:_ Christopher Collins
-
-_Production Co-ordinator:_ Bella Randall
-
-_Production Accountant:_ Trevor Stanley
-
-_Location Manager:_ Bill Payn
-
-_Post-production Supervisor:_ Emma Salter
-
-_1st Assistant Director:_ Deborah Saban
-
+**LOVE IS THE DEVIL
+STUDY FOR A PORTRAIT OF FRANCIS BACON**  
+_Director:_ John Maybury  
+_©:_ BBC, BFI  
+BBC Films _and_ The British Film Institute _present in association with_ The Arts Council of England_/_Première Heure_/_Uplink  
+_a_ British Film Institute _production in association with_ Partners in Crime _with the assistance of_ STATE  
+_Screenplay developed by_ BFI Production _and_ BBC Films _with the support of_ The European Script Fund – an initiative of The Media Programme of the European  Union  
+_Initial Development by:_ Partners in Crime  
+_Supported by:_ The National Lottery through the Arts Council of England  
+_Executive Producers:_ Frances-Anne Solomon, Ben Gibson  
+_Premiere Heure Executive Producer:_ Patrice Haddad  
+_Uplink Executive Producer:_ Takashi Asai  
+_Producer:_ Chiara Menage  
+_Co-producers:_ James Cohen, Don Jordan  
+_Line Producer:_ Yvonee Ibazebo  
+_BBC Production Executive:_ Christopher Cameron  
+_BFI Production Executive:_ Christopher Collins  
+_Production Co-ordinator:_ Bella Randall  
+_Production Accountant:_ Trevor Stanley  
+_Location Manager:_ Bill Payn  
+_Post-production Supervisor:_ Emma Salter  
+_1st Assistant Director:_ Deborah Saban  
 _2nd Assistant Director:_ Olivia Lloyd  
 _3rd Assistant Director:_ Jojo Tulloh  
 _Script Supervisor:_ Laura Goulding  
@@ -88,8 +61,7 @@ _Written by:_ John Maybury
 _Co-writers:_ James Cohen, Don Jordan  
 _Director of Photography:_ John Mathieson  
 _Focus Puller:_ Keith McNamara  
-_Clapper Loader:_ Thomas McFarling
-
+_Clapper Loader:_ Thomas McFarling  
 _Gaffer:_ Richard Barber  
 _Grip:_ Rupert Lloyd-Parry  
 _Video Technician:_ Ron Osman  
@@ -155,6 +127,6 @@ UK/France/Japan 1998©
 
 The screening on Wednesday 30 August will be introduced.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0ODc1NDAzLC0xODM0OTE4NzkyLC04ND
-c0MTM0NTNdfQ==
+eyJoaXN0b3J5IjpbMTQ4MTI0NzA5MiwtMTgzNDkxODc5MiwtOD
+Q3NDEzNDUzXX0=
 -->
