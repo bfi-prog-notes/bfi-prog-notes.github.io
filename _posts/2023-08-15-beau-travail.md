@@ -1,10 +1,18 @@
-
-<![endif]-->
+---
+layout: post
+title: Beau travail
+published: true
+date: 2023-08-13
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'France 1998, 93mins<br> Director: Michael Curtiz'
+pdf: '2023-08-13-mildred-pierce.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
-The first time I watched _Beau travail_, on DVD, in my childhood bedroom, in the spring of 2014, I didn’t know how it would end. My face split into a grin of disbelief as the credits rolled and I rewound the final scene. More than 20 years after its initial release, that set piece, soundtracked by Corona’s 90s Eurodance hit  
-‘The Rhythm of the Night’, with its climactic burst of feeling, is as well-known as the film itself.
+The first time I watched _Beau travail_, on DVD, in my childhood bedroom, in the spring of 2014, I didn’t know how it would end. My face split into a grin of disbelief as the credits rolled and I rewound the final scene. More than 20 years after its initial release, that set piece, soundtracked by Corona’s 90s Eurodance hit ‘The Rhythm of the Night’, with its climactic burst of feeling, is as well-known as the film itself.
 
 It started as a sort of joke. Claire Denis was commissioned by the TV network Arte to make a film about foreignness and so, wryly, provocatively, she made a movie in which her own people were the foreigners. In Marseille, Sergeant Galoup (Denis Lavant) reflects on his time as ‘a perfect legionnaire’ in Djibouti, East Africa, serving the French Foreign Legion. He and his soldiers, including the undeniably pretty and unusually well-liked Gilles Sentain (Grégoire Colin), perform highly choreographed military drills in the desert heat. Under the blazing sun, resentments simmer. In the evenings, the men dance at a nightclub with the local women, who are beautiful, modern and ambivalent. Djibouti, a former French colony, gained independence in 1977. These soldiers are irrelevant; the colonial project is obsolete. ‘Unfit for life, unfit for civilian life’ is how Galoup describes himself in his diary.
 
@@ -12,9 +20,8 @@ But feeling unmoored from one’s purpose – feeling like a foreigner to your o
 
 Denis’s great gift is her ability to evoke emotion with gesture and juxtaposition. In the Djibouti desert, water shimmers and ripples, naked shoulders perspire and black mosquito nets recall sheer lingerie. In a Claire Denis film, dialogue is sparse, but images are charged with meaning. ‘Making films, for me, is to get rid of explanation,’ she told the _Guardian_ back in 2000.
 
-The final scene is pure release: a wordless explanation after 90 minutes of tension. Visual references travel through quotations in other works and, in recent times, through the internet. Films are portioned up and divorced from their original contexts, re-appropriated and shared as memes. I wonder if the renewed popularity of _Beau travail_ in this decade’s Greatest Films poll is a result of its increased visibility among a younger generation, many of whom have likely encountered, or at least revisited, its euphoric dancefloor-set conclusion via their computers.
-
-Simran Hans, bfi.org.uk
+The final scene is pure release: a wordless explanation after 90 minutes of tension. Visual references travel through quotations in other works and, in recent times, through the internet. Films are portioned up and divorced from their original contexts, re-appropriated and shared as memes. I wonder if the renewed popularity of _Beau travail_ in this decade’s Greatest Films poll is a result of its increased visibility among a younger generation, many of whom have likely encountered, or at least revisited, its euphoric dancefloor-set conclusion via their computers.  
+**Simran Hans, bfi.org.uk**
 
 Directed by Claire Denis, and scripted by Denis and her regular writing partner Jean-Pol Fargeau around a loose riff on Herman Melville’s novella _Billy Budd_, _Beau travail_ is set in a remote coastal outpost in the former French colony of Djibouti, in the Horn of Africa. Here a battalion of Foreign Legionnaires spend their days enacting gruelling training regimes on desert terrain, and their evenings circling girls at the local nightclub. Commander Bruno Forestier (Michel Subor) is admired by his men; less so is his prickly, solitary second-in-command Sergeant Galoup (Denis Lavant). Galoup is more interested in being ‘the perfect legionnaire’ than in being popular – at least until the arrival of sweet-natured new recruit Gilles Sentain (Grégoire Colin).
 
@@ -37,25 +44,14 @@ At its close, _Beau travail_ is still inviting us to guess – to feel rather th
 <br>
 
 **BEAU TRAVAIL**  
-_Director:_ Claire Denis
-©/_A co-production of_: La Sept ARTE, Tanaïs Com, SM Films
-
-_With the participation of:_
-
-CNC - Centre national de la cinématographie
-
-_Presented by:_ La Sept ARTE,
-
-Unités de Programmes Fiction, Pierre Chevalier
-
-_Producers:_ Jérôme Minet, Patrick Grandperret
-
-_Unit Production Manager:_ Salem Brahimi
-
-_Unit Manager (Djibouti):_ Ali Mohamed Hamadou
-
-_Unit Manager (Marseilles):_ Bruno Mérieux
-
+_Director:_ Claire Denis  
+©/_A co-production of_: La Sept ARTE, Tanaïs Com, SM Films  
+_With the participation of:_ CNC - Centre national de la cinématographie  
+_Presented by:_ La Sept ARTE, Unités de Programmes Fiction, Pierre Chevalier  
+_Producers:_ Jérôme Minet, Patrick Grandperret  
+_Unit Production Manager:_ Salem Brahimi  
+_Unit Manager (Djibouti):_ Ali Mohamed Hamadou  
+_Unit Manager (Marseilles):_ Bruno Mérieux  
 _Production Manager:_ Éric Zaouali  
 _Production Co-ordinator:_ Danielle Vaugon  
 _Collaboration/Choreography:_ Bernardo Montet  
@@ -82,5 +78,5 @@ Marta Tafesse Kassa _(young woman)_
 France 1998©  
 93 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTgzNjA2Niw2NDIzMTYyMzZdfQ==
+eyJoaXN0b3J5IjpbNDM2ODYxMDUwLDY0MjMxNjIzNl19
 -->
