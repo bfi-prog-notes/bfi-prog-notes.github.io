@@ -36,162 +36,78 @@ _Directed by_: Sally El Hosaini<br>
 ©: Blood Brothers Films Ltd. (UK)<br>
 _Production Companies_:  Wild Horses Film Company,  Rooks Nest Entertainment<br>
 _In association with_: Film Clinic<br>
-
-_With additional support from_: Sundance Institute,
-
-Doris Duke Foundation for Islamic Art, Babylon<br>
-
-_Developed with the assistance of_:  
-Rawi Screenwriters’ Lab<br>
-
-_Executive Producers_: Mohamed Hefzy,  
-Sally El Hosaini<br>
-
+_With additional support from_: Sundance Institute, Doris Duke Foundation for Islamic Art, Babylon<br>
+_Developed with the assistance of_:  Rawi Screenwriters’ Lab<br>
+_Executive Producers_: Mohamed Hefzy,  Sally El Hosaini<br>
 _Producers_: Gayle Griffiths, Julia Godzinskaya, Michael Sackler<br>
-
 _Line Producer_: Michael S. Constable<br>
-
 _Production Coordinator_: Heather Brunt<br>
-
 _Location Manager_: Joe Kotroczo<br>
-
 _Assistant Location Manager_: Christopher Hutchins<br>
-
 _Post-production Supervisor_: Mark Harris<br>
-
 _1st Assistant Directors_: Alex Mercer, Karen Howard<br>
-
 _1st Assistant Director (2nd Unit):_ Andrew McEwan<br>
-
 _2nd Assistant Director_: Joe Hornsey<br>
-
 _Script Supervisor_: Sara J. Doughty<br>
-
 _Casting_: Shaheen Baig, Aisha Walters<br>
-
 _Written by_: Sally El Hosaini<br>
-
 _Script Consultant_: Aymen Hamdouchi<br>
-
 _Director of Photography_: David Raedekerv
-
-_2nd Unit Director of Photography_:  
-Nick Gordon Smith<br>
-
+_2nd Unit Director of Photography_:  Nick Gordon Smith<br>
 _2nd Assistant Camera_: Jon Britt<br>
-
 _Focus Puller_: Chris Kane<br>
-
 _Gaffer_: Max McGill<br>
-
-_Opening Titles Photography_: Simon Wheatley,  
-Nick Wall<br>
-
-_Stills Photographers_: Etienne Bol,  
-Edina Van Der Wyck<br>
-
-_Visual Effects Supervisors_: Dom Thomson,  
-Delores McGinley<br>
-
+_Opening Titles Photography_: Simon Wheatley,  Nick Wall<br>
+_Stills Photographers_: Etienne Bol,  Edina Van Der Wyck<br>
+_Visual Effects Supervisors_: Dom Thomson,  Delores McGinley<br>
 _Special Effects Supervisor_: Scott MacIntyre<br>
-
 _Editor_: Iain Kitching<br>
-
 _1st Assistant Editors_: Immanuel Von Bennigsen, Kevin Holt, Ben Coulson<br>
-
 _Editing Consultant_: Mamoun Hassan<br>
-
 _Production Designer_: Stéphane Collonge<br>
-
 _Art Director_: Pedro Moura<br>
-
 _Assistant Art Director_: Jamie Bishop<br>
-
 _Graffiti Artist_: Andrew Greenwood<br>
-
 _Production Buyer_: Melanie Light<br>
-
 _Costume Designer_: Rob Nicholls<br>
-
 _Costume Supervisor_: Lisa Mitton<br>
-
 _Hair & Make-up Designer_: Emma Slater<br>
-
 _Key Make-Up Artist_: Sophie Cox<br>
-
 _Prosthetics Supplier_: Paul Hyett<br>
-
 _Digital Colourist_: Paul Ensby<br>
-
 _Music by_: Stuart Earl<br>
-
-_Music Supervisors_: Manners McDade,  
-Nicole Prutch<br>
-
+_Music Supervisors_: Manners McDade,  Nicole Prutch<br>
 _Sound Designer_: Jovan Ajder<br>
-
 _Sound Recordist_: David Mitchell<br>
-
 _2nd Boom Operator (Daily)_: Seb Blach<br>
-
 _Sound Maintenance_: Rebecca Morgan<br>
-
 _Re-recording Mixers_: Jovan Ajder, Samir Foco<br>
-
-_Final Re-Recording Mixers_: Graham Daniel,
-
-Adam Daniel<br>
-
+_Final Re-Recording Mixers_: Graham Daniel, Adam Daniel<br>
 _Supervising Sound Editor_: Jovan Ajder<br>
-
 _Sound Editors_: Sirma Dogan, Thomas Cohen<br>
-
 _Dialogue Editor_: Nikola Medic<br>
-
 _FX Editor_: Samir Foco<br>
-
 _ADR Editors_: Ruben Aguirre Barba, Peter Crooks<br>
-
 _Foley Artists_: Miodrag Jakovljevic, Ivan Uzelac<br>
-
 _Foley Recordist_: Nikola Kokotovic<br>
-
 _Foley Editors_: Slobodan Raijcic, Marko Stojanovic<br>
-
 _Stunt Co-ordinator_: Jason White<br>
-
 _Armourer_: Scott Macintyre<br>
-
-_Animal Handlers_: K9-FX Film Dogs, Mic Martin,  
-Rob Burgess, Sonny St. Rose<br>
-
-_Digital Intermediate by_:  
-Technicolor Creative Services, Kim Honeyman<br>
-
+_Animal Handlers_: K9-FX Film Dogs, Mic Martin,  Rob Burgess, Sonny St. Rose<br>
+_Digital Intermediate by_:  Technicolor Creative Services, Kim Honeyman<br>
 _Digital Intermediate Editorial_: Jamie Leonard<br>
-
 _Digital Dailies Supervisor_: Dan Mulligan<br>
-
 _Digital Intermediate Consultant_: Matt Adams<br>
-
 _Studio_: Shoreditch Studios, Wimbledon Studios<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Saïd Taghmaoui _(Sayyid)_<br>
-
 James Floyd _(Rashid)_<br>
-
 Fady Elsayed _(Mo)_<br>
-
 Aymen Hamdouchi _(Repo)_<br>
-
 Ashley Thomas _(Lenny)_<br>
-
 Anthony Welsh _(Izzi)_<br>
-
 Arnold Oceng _(AJ)_<br>
-
 Letitia Wright _(Aisha)_<br>
 
 Amira Ghazalla _(Hanan)_<br>
@@ -245,5 +161,6 @@ UK 2012©<br>
 111 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjAxNTU3NzldfQ==
+eyJoaXN0b3J5IjpbLTExOTE2ODgzMjUsLTEzMjAxNTU3NzldfQ
+==
 -->
