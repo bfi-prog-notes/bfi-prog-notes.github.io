@@ -28,6 +28,103 @@ _Scrapper_ is the story of 12-year-old Georgie, who is secretly living on her ow
 Regan conceived the plot almost like a coming-of-age story in reverse. At the beginning of the film, Georgie is trying her best to be an adult, convincing anyone who’ll listen that she’s doing okay. ‘She almost acts like an old lady,’ observes producer Theo Barrowclough. ‘She knows exactly what laundry liquid to use, how to clean this or that. Then, over the course of the film, she allows herself to be a vulnerable child again.’  
 **Production notes**  
 <br>
+<![endif]-->
+
+**Scrapper**
+
+_Directed by_: Charlotte Regan  
+_©_: Scrapper Films Limited, British Broadcasting Corporation, The British Film Institute  
+_a_ DMC Film _production_  
+_Developed with the support of_ : Creative England through the BFI Net.Work  
+_Developed with the assistance of_: BBC Film  
+_Made with the support of the_: BFI’s Film Fund  
+_Presented by_: BFI, BBC Film  
+_in association with_: Great Point Media  
+_International Sales_: Charades  
+_Executive Producers_: Eva Yates, Farhana Bhula, Michael Fassbender, Conor McCaughan,
+
+Daniel Emmerson, Jim Reeve  
+_Produced by_: Theo Barrowclough  
+_Post-production Supervisor_: Nadiya Luthra  
+_First Assistant Director_: Joe Starrs  
+_Script Supervisor_: Daniella Brandano  
+_Casting Director_: Shaheen Baig  
+_Written by_: Charlotte Regan  
+_Director of Photography_: Molly Manning Walker  
+_Visual Effects_: Atomic Arts  
+_Editors_: Billy Sneddon, Matteo Bini  
+_Production Designer_: Elena Muntoni  
+_Art Director_: Gemma Bailey  
+_Costume Designer_: Oliver Cronk  
+_Hair and Make-up Designer_: Nora Robertson  
+_Main and End Titles by_: The Morrison Studio  
+_Colourist_: Simone Grattarola  
+_Music by_: Patrick Jonsson  
+_Music Supervisor_: Phil Canning  
+_Sound Designer_: Ben Baird  
+_Production Sound Mixer_: Adam Fletcher  
+_Re-recording Mixer_: Ben Baird  
+_Stunt Co-ordinator_: Jim Dowdall  
+_Publicist_: Zoe Flower
+
+_Cast:_
+
+Lola Campbell _(Georgie)_
+
+Alin Uzun _(Ali)_
+
+Cary Crankson _(Mr Barrowclough )_
+
+Carys Bowkett _(Emily)_
+
+Ambreen Razia _(Zeph)_
+
+Ayokunle Oyesanwo _(Kunle)_
+
+Ayobami Oyesanwo _(Bami)_
+
+Ayooluwa Oyesanwo _(Luwa)_
+
+Freya Bell _(Layla)_
+Jessica Fostekew _(Sian)_
+Asheq Akhtar _(Youseff)_
+Joshua Frater-Loughlin _(Josh)_
+Aysa Uzun, Ezel Uzun _(Ali’s little sisters )_
+Aylin Tezel _(Nina)_
+Tejal Rathore _(girl in the street )_
+Olivia Brady _(Vicky)_
+Harris Dickinson _(Jason)_
+Matt Brewer _(suited bloke)_
+Daniel Burt _(young Jason)_
+Laura Aikman _(Kaye)_
+Harry Sydes _(kid 1)_
+Mitchell Brown _(kid 2)_
+Ramison Bernardo _(kid 3)_
+
+UK 2023  
+84 mins  
+
+_A Picturehouse Entertainment release_  
+
+<br>
+**NEW RELEASES**  
+**Talk to Me**  
+Continued from Fri 28 Jul  
+**Kokomo City**  
+From Fri 4 Aug  
+**Paris Memories (Revoir Paris)**  
+From Fri 4 Aug  
+**L’immensità**  
+From Fri 11 Aug  
+**Scrapper**  
+From Fri 25 Aug (Preview + Q&A on Tue 15 Aug)  
+
+**RE-RELEASES**  
+**Variety**  
+From Fri 11 Aug (Q&A with director Bette Gordon on Fri 11 Aug 18:00)  
+**Serpico**  
+From Fri 18 Aug  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Mjg2OTk0OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTkxMDc3Njk4NSwyMDgyODY5OTQ4LDczMD
+k5ODExNl19
 -->
