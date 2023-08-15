@@ -6,7 +6,7 @@ date: 2023-08-15
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
-metadata: 'France 1998, 93mins<br> Director: Claire Denis'
+metadata: 'France 1998, 93 mins<br> Director: Claire Denis'
 pdf: '2023-08-15-beau-travail.pdf'
 ---
 
@@ -68,7 +68,7 @@ _Music:_ Eran Tzur
 _Sound:_ Jean-Paul Mugel, Dominique Gaborieau  
 _Sound Editor:_ Christophe Winding  
 
-**Cast**
+**Cast**  
 Denis Lavant _(Sergeant Galoup)_  
 Michel Subor _(Commandant Bruno Forestier)_  
 Grégoire Colin _(Gilles Sentain)_  
