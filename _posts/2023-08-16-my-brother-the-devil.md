@@ -1,11 +1,10 @@
 
-**Sally El Hosaini on ‘My Brother the Devil’**
-
+**Sally El Hosaini on ‘My Brother the Devil’**  
 Occasionally festival juries get it right. The award for Best British Newcomer at [the 2011] BFI London Film Festival went to writer-director Sally El Hosaini for _My Brother the Devil_, one of the most visually striking British debuts in recent times. It tells of two brothers of Egyptian descent growing up on a Hackney council estate. Elder brother Rashid (James Floyd) is mired in drug-dealing and local gang culture, but determined that younger brother Mo (Fady Elsayed) shouldn’t follow suit, preferring him to focus on educational achievement as a way out. Mo has different ideas, of course, and further twists in the tale will place their patiently evoked fraternal bond under pressure.
 
 I probably don’t need to remind you of the numerous British horrors mining similar urban territory. Apart from skirting clichés, what El Hosaini brings to the table is a profound understanding of the dislocations often attendant on a mixed cultural heritage (she herself is half Egyptian); a concern for authenticity (particularly East London street argot) which doesn’t fetishise or glamorise; a brilliantly chosen and directed cast of mainly non-professionals; and a sensitive ﬁguring of turbulent interior lives through superb camera and sound work. It all adds up to a heartfelt film that lives and breathes.
 
-_What was the starting point for_ My Brother the Devil_?_
+_What was the starting point for_ My Brother the Devil _?_
 
 I’d lived in Hackney for over ten years, on the same council estate, and I’d seen a lot of change over that time. I wanted to do a film about two brothers, and because it looked like it was going to be micro micro micro-budget I thought, ‘Well, I’ll just set it on my council estate.’ In the wake of the London bombings there was a lot of stuff in the press about Arabs and Muslims and a certain kind of image projected, and I thought, ‘I really want to do the film that’s not the terrorist film – that’s a bit playful, that’s actually showing the real things these kids are dealing with.’
 
@@ -25,31 +24,28 @@ _It lifts your film into another dimension._
 
 And also it allowed us to be very intimate, because you’re forced into all these close-ups with Scope. And the actors had better be completely honest, because they’re going to show up if they’re not.
 
-_Your own background clearly informs your depiction of the brothers and  
-their family._
+_Your own background clearly informs your depiction of the brothers and  their family._
 
-In a way Rashid has become the dad that his father can’t be, because the parents are so out of touch – because they literally come from another world. They don’t actually understand the world their sons inhabit. Their sons are living this split because there’s them outside, navigating the world, and there’s them at home. A lot of Arab people living in the West will identify with that  
-split personality.
+In a way Rashid has become the dad that his father can’t be, because the parents are so out of touch – because they literally come from another world. They don’t actually understand the world their sons inhabit. Their sons are living this split because there’s them outside, navigating the world, and there’s them at home. A lot of Arab people living in the West will identify with that split personality.
 
-Interview by Kieron Corless, _Sight and Sound_, December 2012
+**Interview by Kieron Corless, _Sight and Sound_, December 2012**
+<br><br>
 
-<![endif]-->
+**MY BROTHER THE DEVIL**<br>
 
-**MY BROTHER THE DEVIL**
+_Directed by_: Sally El Hosaini<br>
 
-_Directed by_: Sally El Hosaini
-
-©: Blood Brothers Films Ltd. (UK)
+©: Blood Brothers Films Ltd. (UK)<br>
 
 _Production Companies_:  
 Wild Horses Film Company,  
-Rooks Nest Entertainment
+Rooks Nest Entertainment<br>
 
-_In association with_: Film Clinic
+_In association with_: Film Clinic<br>
 
 _With additional support from_: Sundance Institute,
 
-Doris Duke Foundation for Islamic Art, Babylon
+Doris Duke Foundation for Islamic Art, Babylon<br>
 
 _Developed with the assistance of_:  
 Rawi Screenwriters’ Lab
@@ -254,5 +250,5 @@ UK 2012©
 
 111 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODE5NTYyOF19
+eyJoaXN0b3J5IjpbLTE4Mzk1OTMyOTldfQ==
 -->
