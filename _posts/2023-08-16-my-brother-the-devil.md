@@ -32,15 +32,9 @@ In a way Rashid has become the dad that his father can’t be, because the paren
 <br><br>
 
 **MY BROTHER THE DEVIL**<br>
-
 _Directed by_: Sally El Hosaini<br>
-
 ©: Blood Brothers Films Ltd. (UK)<br>
-
-_Production Companies_:  
-Wild Horses Film Company,  
-Rooks Nest Entertainment<br>
-
+_Production Companies_:  Wild Horses Film Company,  Rooks Nest Entertainment<br>
 _In association with_: Film Clinic<br>
 
 _With additional support from_: Sundance Institute,
@@ -226,29 +220,30 @@ Yusra Warsama _(Sonya)_<br>
 
 Aaron Ishmael _(Jamie)_<br>
 
-Savannah Gordon-Liburd _(Hackney girl)_
+Savannah Gordon-Liburd _(Hackney girl)_<br>
 
-Leemore Marrett Jr _(Demon)_
+Leemore Marrett Jr _(Demon)_<br>
 
-Naresh Bhana _(tattoo artist)_
+Naresh Bhana _(tattoo artist)_<br>
 
-Kirsty Todd _(tattoo parlour receptionist)_
+Kirsty Todd _(tattoo parlour receptionist)_<br>
 
-Nicola Harrison _(secretary)_
+Nicola Harrison _(secretary)_<br>
 
-George Oliver _(crackhead)_
+George Oliver _(crackhead)_<br>
 
-Frieda Thiel _(Kayla)_
+Frieda Thiel _(Kayla)_<br>
 
-Michael-Joel David Stuart _(DMG Younger 2)_
+Michael-Joel David Stuart _(DMG Younger 2)_<br>
 
-Sylvia Amanquah _(junkie mum)_
+Sylvia Amanquah _(junkie mum)_<br>
 
-Ebony White _(Jamaican granny)_
+Ebony White _(Jamaican granny)_<br>
 
-UK 2012©
+UK 2012©<br>
 
-111 mins
+111 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5ODMwMTNdfQ==
+eyJoaXN0b3J5IjpbLTEzMjAxNTU3NzldfQ==
 -->
