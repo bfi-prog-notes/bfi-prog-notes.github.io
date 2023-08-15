@@ -48,183 +48,183 @@ _With additional support from_: Sundance Institute,
 Doris Duke Foundation for Islamic Art, Babylon<br>
 
 _Developed with the assistance of_:  
-Rawi Screenwriters’ Lab
+Rawi Screenwriters’ Lab<br>
 
 _Executive Producers_: Mohamed Hefzy,  
-Sally El Hosaini
+Sally El Hosaini<br>
 
-_Producers_: Gayle Griffiths, Julia Godzinskaya, Michael Sackler
+_Producers_: Gayle Griffiths, Julia Godzinskaya, Michael Sackler<br>
 
-_Line Producer_: Michael S. Constable
+_Line Producer_: Michael S. Constable<br>
 
-_Production Coordinator_: Heather Brunt
+_Production Coordinator_: Heather Brunt<br>
 
-_Location Manager_: Joe Kotroczo
+_Location Manager_: Joe Kotroczo<br>
 
-_Assistant Location Manager_: Christopher Hutchins
+_Assistant Location Manager_: Christopher Hutchins<br>
 
-_Post-production Supervisor_: Mark Harris
+_Post-production Supervisor_: Mark Harris<br>
 
-_1st Assistant Directors_: Alex Mercer, Karen Howard
+_1st Assistant Directors_: Alex Mercer, Karen Howard<br>
 
-_1st Assistant Director (2nd Unit):_ Andrew McEwan
+_1st Assistant Director (2nd Unit):_ Andrew McEwan<br>
 
-_2nd Assistant Director_: Joe Hornsey
+_2nd Assistant Director_: Joe Hornsey<br>
 
-_Script Supervisor_: Sara J. Doughty
+_Script Supervisor_: Sara J. Doughty<br>
 
-_Casting_: Shaheen Baig, Aisha Walters
+_Casting_: Shaheen Baig, Aisha Walters<br>
 
-_Written by_: Sally El Hosaini
+_Written by_: Sally El Hosaini<br>
 
-_Script Consultant_: Aymen Hamdouchi
+_Script Consultant_: Aymen Hamdouchi<br>
 
-_Director of Photography_: David Raedeker
+_Director of Photography_: David Raedekerv
 
 _2nd Unit Director of Photography_:  
-Nick Gordon Smith
+Nick Gordon Smith<br>
 
-_2nd Assistant Camera_: Jon Britt
+_2nd Assistant Camera_: Jon Britt<br>
 
-_Focus Puller_: Chris Kane
+_Focus Puller_: Chris Kane<br>
 
-_Gaffer_: Max McGill
+_Gaffer_: Max McGill<br>
 
 _Opening Titles Photography_: Simon Wheatley,  
-Nick Wall
+Nick Wall<br>
 
 _Stills Photographers_: Etienne Bol,  
-Edina Van Der Wyck
+Edina Van Der Wyck<br>
 
 _Visual Effects Supervisors_: Dom Thomson,  
-Delores McGinley
+Delores McGinley<br>
 
-_Special Effects Supervisor_: Scott MacIntyre
+_Special Effects Supervisor_: Scott MacIntyre<br>
 
-_Editor_: Iain Kitching
+_Editor_: Iain Kitching<br>
 
-_1st Assistant Editors_: Immanuel Von Bennigsen, Kevin Holt, Ben Coulson
+_1st Assistant Editors_: Immanuel Von Bennigsen, Kevin Holt, Ben Coulson<br>
 
-_Editing Consultant_: Mamoun Hassan
+_Editing Consultant_: Mamoun Hassan<br>
 
-_Production Designer_: Stéphane Collonge
+_Production Designer_: Stéphane Collonge<br>
 
-_Art Director_: Pedro Moura
+_Art Director_: Pedro Moura<br>
 
-_Assistant Art Director_: Jamie Bishop
+_Assistant Art Director_: Jamie Bishop<br>
 
-_Graffiti Artist_: Andrew Greenwood
+_Graffiti Artist_: Andrew Greenwood<br>
 
-_Production Buyer_: Melanie Light
+_Production Buyer_: Melanie Light<br>
 
-_Costume Designer_: Rob Nicholls
+_Costume Designer_: Rob Nicholls<br>
 
-_Costume Supervisor_: Lisa Mitton
+_Costume Supervisor_: Lisa Mitton<br>
 
-_Hair & Make-up Designer_: Emma Slater
+_Hair & Make-up Designer_: Emma Slater<br>
 
-_Key Make-Up Artist_: Sophie Cox
+_Key Make-Up Artist_: Sophie Cox<br>
 
-_Prosthetics Supplier_: Paul Hyett
+_Prosthetics Supplier_: Paul Hyett<br>
 
-_Digital Colourist_: Paul Ensby
+_Digital Colourist_: Paul Ensby<br>
 
-_Music by_: Stuart Earl
+_Music by_: Stuart Earl<br>
 
 _Music Supervisors_: Manners McDade,  
-Nicole Prutch
+Nicole Prutch<br>
 
-_Sound Designer_: Jovan Ajder
+_Sound Designer_: Jovan Ajder<br>
 
-_Sound Recordist_: David Mitchell
+_Sound Recordist_: David Mitchell<br>
 
-_2nd Boom Operator (Daily)_: Seb Blach
+_2nd Boom Operator (Daily)_: Seb Blach<br>
 
-_Sound Maintenance_: Rebecca Morgan
+_Sound Maintenance_: Rebecca Morgan<br>
 
-_Re-recording Mixers_: Jovan Ajder, Samir Foco
+_Re-recording Mixers_: Jovan Ajder, Samir Foco<br>
 
 _Final Re-Recording Mixers_: Graham Daniel,
 
-Adam Daniel
+Adam Daniel<br>
 
-_Supervising Sound Editor_: Jovan Ajder
+_Supervising Sound Editor_: Jovan Ajder<br>
 
-_Sound Editors_: Sirma Dogan, Thomas Cohen
+_Sound Editors_: Sirma Dogan, Thomas Cohen<br>
 
-_Dialogue Editor_: Nikola Medic
+_Dialogue Editor_: Nikola Medic<br>
 
-_FX Editor_: Samir Foco
+_FX Editor_: Samir Foco<br>
 
-_ADR Editors_: Ruben Aguirre Barba, Peter Crooks
+_ADR Editors_: Ruben Aguirre Barba, Peter Crooks<br>
 
-_Foley Artists_: Miodrag Jakovljevic, Ivan Uzelac
+_Foley Artists_: Miodrag Jakovljevic, Ivan Uzelac<br>
 
-_Foley Recordist_: Nikola Kokotovic
+_Foley Recordist_: Nikola Kokotovic<br>
 
-_Foley Editors_: Slobodan Raijcic, Marko Stojanovic
+_Foley Editors_: Slobodan Raijcic, Marko Stojanovic<br>
 
-_Stunt Co-ordinator_: Jason White
+_Stunt Co-ordinator_: Jason White<br>
 
-_Armourer_: Scott Macintyre
+_Armourer_: Scott Macintyre<br>
 
 _Animal Handlers_: K9-FX Film Dogs, Mic Martin,  
-Rob Burgess, Sonny St. Rose
+Rob Burgess, Sonny St. Rose<br>
 
 _Digital Intermediate by_:  
-Technicolor Creative Services, Kim Honeyman
+Technicolor Creative Services, Kim Honeyman<br>
 
-_Digital Intermediate Editorial_: Jamie Leonard
+_Digital Intermediate Editorial_: Jamie Leonard<br>
 
-_Digital Dailies Supervisor_: Dan Mulligan
+_Digital Dailies Supervisor_: Dan Mulligan<br>
 
-_Digital Intermediate Consultant_: Matt Adams
+_Digital Intermediate Consultant_: Matt Adams<br>
 
-_Studio_: Shoreditch Studios, Wimbledon Studios
+_Studio_: Shoreditch Studios, Wimbledon Studios<br>
 
-_Cast:_
+_Cast:_<br>
 
-Saïd Taghmaoui _(Sayyid)_
+Saïd Taghmaoui _(Sayyid)_<br>
 
-James Floyd _(Rashid)_
+James Floyd _(Rashid)_<br>
 
-Fady Elsayed _(Mo)_
+Fady Elsayed _(Mo)_<br>
 
-Aymen Hamdouchi _(Repo)_
+Aymen Hamdouchi _(Repo)_<br>
 
-Ashley Thomas _(Lenny)_
+Ashley Thomas _(Lenny)_<br>
 
-Anthony Welsh _(Izzi)_
+Anthony Welsh _(Izzi)_<br>
 
-Arnold Oceng _(AJ)_
+Arnold Oceng _(AJ)_<br>
 
-Letitia Wright _(Aisha)_
+Letitia Wright _(Aisha)_<br>
 
-Amira Ghazalla _(Hanan)_
+Amira Ghazalla _(Hanan)_<br>
 
-Elarica Gallacher _(Vanessa)_
+Elarica Gallacher _(Vanessa)_<br>
 
-Nasser Memarzia _(Abdul-Aziz)_
+Nasser Memarzia _(Abdul-Aziz)_<br>
 
-Shyam Kelly _(Devonte)_
+Shyam Kelly _(Devonte)_<br>
 
-McKell Celaschi-David _(Demon’s boy)_
+McKell Celaschi-David _(Demon’s boy)_<br>
 
-Zachary Scipio _(Demon’s younger)_
+Zachary Scipio _(Demon’s younger)_<br>
 
-Ryan Townsend _(Demon’s younger 2)_
+Ryan Townsend _(Demon’s younger 2)_<br>
 
-Malachi Kirby _(J-Boy)_
+Malachi Kirby _(J-Boy)_<br>
 
-Kemi Martin _(J-Boy’s girl)_
+Kemi Martin _(J-Boy’s girl)_<br>
 
-Mohammed Mansary _(Faisal)_
+Mohammed Mansary _(Faisal)_<br>
 
-Denzel Assiamah _(Bobo)_
+Denzel Assiamah _(Bobo)_<br>
 
-Yusra Warsama _(Sonya)_
+Yusra Warsama _(Sonya)_<br>
 
-Aaron Ishmael _(Jamie)_
+Aaron Ishmael _(Jamie)_<br>
 
 Savannah Gordon-Liburd _(Hackney girl)_
 
@@ -250,5 +250,5 @@ UK 2012©
 
 111 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzk1OTMyOTldfQ==
+eyJoaXN0b3J5IjpbODE5ODMwMTNdfQ==
 -->
