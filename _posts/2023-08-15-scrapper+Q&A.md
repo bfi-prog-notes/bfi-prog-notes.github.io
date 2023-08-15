@@ -13,9 +13,8 @@ Georgie, played with remarkable assurance by newcomer Lola Campbell, is happy to
 
 The children are initially sceptical of Jason – in one of the film’s lively formal flourishes, Georgie imagines him as a vampire, then a prisoner, then a gangster – and understandably wonder where he has been for years (Spain, apparently). Soon, though, Georgie warms to her father, enlisting him as a sentry when she attempts another bike theft. It turns out that the apple hasn’t fallen far from the tree: when Jason tries unsuccessfully to pick a lock, it’s clear he’s as inept at crime as his daughter. When the pair run away from police, who’ve spotted them, Georgie loses her phone – which contained precious images of her mother – and, evidently in unresolved grief, beats up another girl while looking for it.
 
-There are echoes of _Paper Moon_ (1973) in the father-daughter criminal partnership and the film’s sheer sense of fun. _Scrapper_ is also reminiscent of _Aftersun_ (2022), especially in scenes where Georgie and her dad adopt silly voices and pretend to be a couple with a failing marriage. This sense of humour and the charm of Georgie’s flights of fantasy elevate this feature debut above many of its peers.
-
-Lou Thomas, _Sight and Sound_, bfi.org.uk, 29 January 2023
+There are echoes of _Paper Moon_ (1973) in the father-daughter criminal partnership and the film’s sheer sense of fun. _Scrapper_ is also reminiscent of _Aftersun_ (2022), especially in scenes where Georgie and her dad adopt silly voices and pretend to be a couple with a failing marriage. This sense of humour and the charm of Georgie’s flights of fantasy elevate this feature debut above many of its peers.  
+**Lou Thomas, _Sight and Sound_, bfi.org.uk, 29 January 2023**  
 
 Charlotte Regan was 15 when she started shooting no-budget music promos for rapper mates in Islington, north London. Back then, she had no interest in becoming a director. ‘I wanted to be in the music industry, but I wasn’t cool enough to rap,’ she remembers laughing. Since then, she’s made over 200 music videos. In 2016, her debut short _Standby_ premiered at the Toronto Film Festival, then went on to win a prize at Sundance, and to be nominated for a BAFTA. Regan followed up _Standby_ with _Fry-Up_ and _Dodgy Dave_, both nominated at a number of festivals including Sundance and Berlin, and in 2020, was selected as a _Screen_ ‘Star of Tomorrow’.
 
@@ -28,10 +27,8 @@ _Scrapper_ is the story of 12-year-old Georgie, who is secretly living on her ow
 Regan conceived the plot almost like a coming-of-age story in reverse. At the beginning of the film, Georgie is trying her best to be an adult, convincing anyone who’ll listen that she’s doing okay. ‘She almost acts like an old lady,’ observes producer Theo Barrowclough. ‘She knows exactly what laundry liquid to use, how to clean this or that. Then, over the course of the film, she allows herself to be a vulnerable child again.’  
 **Production notes**  
 <br>
-<![endif]-->
 
-**Scrapper**
-
+**SCRAPPER**  
 _Directed by_: Charlotte Regan  
 _©_: Scrapper Films Limited, British Broadcasting Corporation, The British Film Institute  
 _a_ DMC Film _production_  
@@ -41,9 +38,7 @@ _Made with the support of the_: BFI’s Film Fund
 _Presented by_: BFI, BBC Film  
 _in association with_: Great Point Media  
 _International Sales_: Charades  
-_Executive Producers_: Eva Yates, Farhana Bhula, Michael Fassbender, Conor McCaughan,
-
-Daniel Emmerson, Jim Reeve  
+_Executive Producers_: Eva Yates, Farhana Bhula, Michael Fassbender, Conor McCaughan, Daniel Emmerson, Jim Reeve  
 _Produced by_: Theo Barrowclough  
 _Post-production Supervisor_: Nadiya Luthra  
 _First Assistant Director_: Joe Starrs  
@@ -65,41 +60,32 @@ _Sound Designer_: Ben Baird
 _Production Sound Mixer_: Adam Fletcher  
 _Re-recording Mixer_: Ben Baird  
 _Stunt Co-ordinator_: Jim Dowdall  
-_Publicist_: Zoe Flower
+_Publicist_: Zoe Flower  
 
-_Cast:_
-
-Lola Campbell _(Georgie)_
-
-Alin Uzun _(Ali)_
-
-Cary Crankson _(Mr Barrowclough )_
-
-Carys Bowkett _(Emily)_
-
-Ambreen Razia _(Zeph)_
-
-Ayokunle Oyesanwo _(Kunle)_
-
-Ayobami Oyesanwo _(Bami)_
-
-Ayooluwa Oyesanwo _(Luwa)_
-
-Freya Bell _(Layla)_
-Jessica Fostekew _(Sian)_
-Asheq Akhtar _(Youseff)_
-Joshua Frater-Loughlin _(Josh)_
-Aysa Uzun, Ezel Uzun _(Ali’s little sisters )_
-Aylin Tezel _(Nina)_
-Tejal Rathore _(girl in the street )_
-Olivia Brady _(Vicky)_
-Harris Dickinson _(Jason)_
-Matt Brewer _(suited bloke)_
-Daniel Burt _(young Jason)_
-Laura Aikman _(Kaye)_
-Harry Sydes _(kid 1)_
-Mitchell Brown _(kid 2)_
-Ramison Bernardo _(kid 3)_
+**Cast**  
+Lola Campbell _(Georgie)_  
+Alin Uzun _(Ali)_  
+Cary Crankson _(Mr Barrowclough )_  
+Carys Bowkett _(Emily)_  
+Ambreen Razia _(Zeph)_  
+Ayokunle Oyesanwo _(Kunle)_  
+Ayobami Oyesanwo _(Bami)_  
+Ayooluwa Oyesanwo _(Luwa)_  
+Freya Bell _(Layla)_  
+Jessica Fostekew _(Sian)_  
+Asheq Akhtar _(Youseff)_  
+Joshua Frater-Loughlin _(Josh)_  
+Aysa Uzun, Ezel Uzun _(Ali’s little sisters )_  
+Aylin Tezel _(Nina)_  
+Tejal Rathore _(girl in the street )_  
+Olivia Brady _(Vicky)_  
+Harris Dickinson _(Jason)_  
+Matt Brewer _(suited bloke)_  
+Daniel Burt _(young Jason)_  
+Laura Aikman _(Kaye)_  
+Harry Sydes _(kid 1)_  
+Mitchell Brown _(kid 2)_  
+Ramison Bernardo _(kid 3)_  
 
 UK 2023  
 84 mins  
@@ -125,6 +111,6 @@ From Fri 11 Aug (Q&A with director Bette Gordon on Fri 11 Aug 18:00)
 **Serpico**  
 From Fri 18 Aug  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDc3Njk4NSwyMDgyODY5OTQ4LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTE2MjYyNTU0ODAsMjA4Mjg2OTk0OCw3Mz
+A5OTgxMTZdfQ==
 -->
