@@ -109,58 +109,34 @@ Ashley Thomas _(Lenny)_<br>
 Anthony Welsh _(Izzi)_<br>
 Arnold Oceng _(AJ)_<br>
 Letitia Wright _(Aisha)_<br>
-
 Amira Ghazalla _(Hanan)_<br>
-
 Elarica Gallacher _(Vanessa)_<br>
-
 Nasser Memarzia _(Abdul-Aziz)_<br>
-
 Shyam Kelly _(Devonte)_<br>
-
 McKell Celaschi-David _(Demon’s boy)_<br>
-
 Zachary Scipio _(Demon’s younger)_<br>
-
 Ryan Townsend _(Demon’s younger 2)_<br>
-
 Malachi Kirby _(J-Boy)_<br>
-
 Kemi Martin _(J-Boy’s girl)_<br>
-
 Mohammed Mansary _(Faisal)_<br>
-
 Denzel Assiamah _(Bobo)_<br>
-
 Yusra Warsama _(Sonya)_<br>
-
 Aaron Ishmael _(Jamie)_<br>
-
 Savannah Gordon-Liburd _(Hackney girl)_<br>
-
 Leemore Marrett Jr _(Demon)_<br>
-
 Naresh Bhana _(tattoo artist)_<br>
-
 Kirsty Todd _(tattoo parlour receptionist)_<br>
-
 Nicola Harrison _(secretary)_<br>
-
 George Oliver _(crackhead)_<br>
-
 Frieda Thiel _(Kayla)_<br>
-
 Michael-Joel David Stuart _(DMG Younger 2)_<br>
-
 Sylvia Amanquah _(junkie mum)_<br>
-
 Ebony White _(Jamaican granny)_<br>
 
 UK 2012©<br>
-
 111 mins<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE2ODgzMjUsLTEzMjAxNTU3NzldfQ
+eyJoaXN0b3J5IjpbLTE1NTQxNDgzMjksLTEzMjAxNTU3NzldfQ
 ==
 -->
