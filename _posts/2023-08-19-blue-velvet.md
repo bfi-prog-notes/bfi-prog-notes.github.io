@@ -130,106 +130,47 @@ _Make-up Supervisor:_ Jeff Goodwin
 
 _Special Make-up Effects:_ Dean Jones
 
-_Hair Stylist:_ Barbara Page
+_Hair Stylist:_ Barbara Page 
+_Titles/Opticals:_ Van Der Veer Photo Company  
+_Cameras/Lenses by:_ Joe Dunton Camera America, Inc.  
+_Negative Cutter:_ Donah Bassett  
+_Colour by:_ Technicolor  
+_Music Composed and Conducted by:_ Angelo Badalamenti  
+_Music Score Performed by:_ Film Symphony Orchestra of Prague  
+_Music Editor:_ Mark Adler  
+_Music Re-recording Mixer:_ Todd Boekelheide  
+_Sound Designer:_ Alan Splet  
+_Sound Mixer:_ Ann Kroeber  
+_Boom Operator:_ Patrick Moriarty  
+_Re-recording Mixers:_ Mark Berger, David Parker  
+_Sound Editors:_ Rob Fruchtman, Pat Jackson  
+_Dialogue Editors:_ Vivien Gilliam, John Nutt, Michael Silvers  
+_Sound Effects Editor:_ Richard Hyams  
+_Foley Artist:_ Dennie Thorpe  
+_Stunt Co-ordinator:_ Richard Langdon  
+_Filmed at:_ De Laurentiis Entertainment Group Studios  
 
-_Titles/Opticals:_
-
-Van Der Veer Photo Company
-
-_Cameras/Lenses by:_
-
-Joe Dunton Camera America, Inc.
-
-_Negative Cutter:_ Donah Bassett
-
-_Colour by:_ Technicolor
-
-_Music Composed and Conducted by:_
-
-Angelo Badalamenti
-
-_Music Score Performed by:_
-
-Film Symphony Orchestra of Prague
-
-_Music Editor:_ Mark Adler
-
-_Music Re-recording Mixer:_
-
-Todd Boekelheide
-
-_Sound Designer:_ Alan Splet
-
-_Sound Mixer:_ Ann Kroeber
-
-_Boom Operator:_ Patrick Moriarty
-
-_Re-recording Mixers:_ Mark Berger,
-
-David Parker
-
-_Sound Editors:_ Rob Fruchtman,
-
-Pat Jackson
-
-_Dialogue Editors:_ Vivien Gilliam, John Nutt,
-
-Michael Silvers
-
-_Sound Effects Editor:_ Richard Hyams
-
-_Foley Artist:_ Dennie Thorpe
-
-_Stunt Co-ordinator:_ Richard Langdon
-
-_Filmed at:_
-
-De Laurentiis Entertainment Group Studios
-
-_Cast:_
-
-Kyle MacLachlan _(Jeffrey Beaumont)_
-
-Isabella Rossellini _(Dorothy Vallens)_
-
-Dennis Hopper _(Frank Booth)_
-
-Laura Dern _(Sandy Williams)_
-
-Hope Lange _(Mrs Williams)_
-
-Priscilla Pointer _(Mrs Beaumont)_
-
-George Dickerson _(Detective Williams)_
-
-Frances Bay _(Aunt Barbara)_
-
-Ken Stovitz _(Mike)_
-
-Brad Dourif _(Raymond)_
-
-Jack Nance _(Paul)_
-
-Dean Stockwell _(Ben)_
-
-Jack Harvey _(Tom Beaumont)_
-
-J. Michael Hunter _(Hunter)_
-
-Dick Green _(Don Vallens)_
-
-Fred Pickler _(yellow man)_
-
-Philip Markert _(Dr Gynde)_
-
-Leonard Watkins, Moses Gibson
-
-_(Double Ed)_
-
-Selden Smith _(Nurse Cindy)_
-
-Peter Carew _(coroner)_
-
+**Cast**  
+Kyle MacLachlan _(Jeffrey Beaumont)_  
+Isabella Rossellini _(Dorothy Vallens)_  
+Dennis Hopper _(Frank Booth)_  
+Laura Dern _(Sandy Williams)_  
+Hope Lange _(Mrs Williams)_  
+Priscilla Pointer _(Mrs Beaumont)_  
+George Dickerson _(Detective Williams)_  
+Frances Bay _(Aunt Barbara)_  
+Ken Stovitz _(Mike)_  
+Brad Dourif _(Raymond)_  
+Jack Nance _(Paul)_  
+Dean Stockwell _(Ben)_  
+Jack Harvey _(Tom Beaumont)_  
+J. Michael Hunter _(Hunter)_  
+Dick Green _(Don Vallens)_  
+Fred Pickler _(yellow man)_  
+Philip Markert _(Dr Gynde)_  
+Leonard Watkins, Moses Gibson _(Double Ed)_  
+Selden Smith _(Nurse Cindy)_  
+Peter Carew _(coroner)_  
 Jon Jon Snipes _(little Donny)_  
 Andy Badale _(piano player)_  
 Jean-Pierre Viale _(master of ceremonies)_  
@@ -240,5 +181,5 @@ Sparky _(the dog)_
 USA 1986  
 121 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3NTA1ODYyXX0=
+eyJoaXN0b3J5IjpbMTM1NjQ0ODY3NF19
 -->
