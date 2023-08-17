@@ -230,22 +230,15 @@ Selden Smith _(Nurse Cindy)_
 
 Peter Carew _(coroner)_
 
-Jon Jon Snipes _(little Donny)_
-
-Andy Badale _(piano player)_
-
-Jean-Pierre Viale _(master of ceremonies)_
-
-Donald Moore _(desk sergeant)_
-
-A. Michelle Depland, Michell Sasser,
-
-Katie Reid _(party girls)_
-
-Sparky _(the dog)_
+Jon Jon Snipes _(little Donny)_  
+Andy Badale _(piano player)_  
+Jean-Pierre Viale _(master of ceremonies)_  
+Donald Moore _(desk sergeant)_  
+A. Michelle Depland, Michell Sasser, Katie Reid _(party girls)_  
+Sparky _(the dog)_  
 
 USA 1986  
 121 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc3ODUzMjhdfQ==
+eyJoaXN0b3J5IjpbNzU3NTA1ODYyXX0=
 -->
