@@ -31,9 +31,8 @@ The other starting point for the film was an idea about an ear – that an ear i
 
 I like the idea that everything has a surface which hides much more underneath. Someone can look very well and have a whole bunch of diseases cooking: there are all sorts of dark, twisted things lurking down there. I go down in that darkness and see what’s there. Coffee shops are nice safe places to think. I like sitting in brightly lit places where I can drink coffee and have some sugar. Then, before I know it, I’m down under the surface gliding along; if it becomes too heavy, I can always pop back into the coffee shop.
 
-When you make a film like _Blue Velvet_, there’s a danger that Dorothy becomes every woman and Sandy becomes every girl and the film becomes a statement on America. That’s not what I meant. _Blue_ _Velvet_’s a film about a small town called Lumberton and this particular group of characters. Jeffrey is not me, but Kyle MacLachlan says he somewhat fashioned him on me. I feel very good about Jeffrey. He’s a person who is curious and has got some dark areas inside him. But he has experiences, and he learns from them.
-
-David Lynch interviewed by Jane Root, _Monthly Film Bulletin_, April 1987
+When you make a film like _Blue Velvet_, there’s a danger that Dorothy becomes every woman and Sandy becomes every girl and the film becomes a statement on America. That’s not what I meant. _Blue_ _Velvet_’s a film about a small town called Lumberton and this particular group of characters. Jeffrey is not me, but Kyle MacLachlan says he somewhat fashioned him on me. I feel very good about Jeffrey. He’s a person who is curious and has got some dark areas inside him. But he has experiences, and he learns from them.  
+**David Lynch interviewed by Jane Root, _Monthly Film Bulletin_, April 1987**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjQ5NDc4N119
+eyJoaXN0b3J5IjpbNTEzMjM4NzYzXX0=
 -->
