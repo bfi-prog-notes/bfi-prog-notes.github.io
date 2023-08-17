@@ -25,14 +25,11 @@ Within the opening sequence, however, it should also be noted that the first int
 
 But it is also worth emphasising the precise pornographic instruction from Frank that Dorothy should spread her legs before his gaze. The sense here of the sexual aggression inherent in looking is at its most acute, and gives a particular edge to the implicating of both Jeffrey and the spectator in the ritual being enacted. And there seems a pre-echo in the camera’s penetration of the ground’s surface in the opening sequence, and a rhyme in the pull-out from Jeffrey’s ear when he finally awakens on the same lawn. The absolute, inextricable link between the film’s moral concerns and its investment in the guilty pleasures of looking is crucial, and seems carefully calculated to force male spectators into moralising confusion. In the _Time Out_ review, for example (March 4-11, 1987), Lynch is praised for his ‘genius’ and ‘imagination’, but the spectator is warned of the dangers of cinephilia, and told of the need for ‘a little honesty’ and ‘a little moral awareness’. The greatness of _Blue Velvet_ is exactly that it demonstrates the impossibility of so neatly dividing these areas.
 
-The only other American film of the ’80s which comes close to matching this confrontational aspect, and on similar terms, is _Raging Bull_. Otherwise, _Blue_ _Velvet_ seems peculiarly unplaceable with regard to genre or antecedents, except perhaps as a warped coming-of-teenage movie. There is something of _Night of the Hunter_ in its open invocation of horror, beauty and strangeness within an archetypal American heartland, but that film too is difficult to locate. At the same time, _Blue Velvet_ plays cleverly on a collective memory of B-film dialogue and situations – particularly in the scenes between Jeffrey and Detective Williams – which it uses to preclude any conventional identification between spectator and character. The characters’ tendency to speak in clichés is initially parodic in effect, but as Jeffrey and Sandy’s journey into their heart of darkness progresses, their dialogue becomes unexpectedly moving. In the end, Sandy’s dream of a dark world abandoned by robins has as much force and conviction as Frank’s frenzied psycho-babble. ‘It’s a strange world, Sandy’, proclaims Jeffrey. At the moment, Lynch is the only director proving his point.
+The only other American film of the ’80s which comes close to matching this confrontational aspect, and on similar terms, is _Raging Bull_. Otherwise, _Blue_ _Velvet_ seems peculiarly unplaceable with regard to genre or antecedents, except perhaps as a warped coming-of-teenage movie. There is something of _Night of the Hunter_ in its open invocation of horror, beauty and strangeness within an archetypal American heartland, but that film too is difficult to locate. At the same time, _Blue Velvet_ plays cleverly on a collective memory of B-film dialogue and situations – particularly in the scenes between Jeffrey and Detective Williams – which it uses to preclude any conventional identification between spectator and character. The characters’ tendency to speak in clichés is initially parodic in effect, but as Jeffrey and Sandy’s journey into their heart of darkness progresses, their dialogue becomes unexpectedly moving. In the end, Sandy’s dream of a dark world abandoned by robins has as much force and conviction as Frank’s frenzied psycho-babble. ‘It’s a strange world, Sandy’, proclaims Jeffrey. At the moment, Lynch is the only director proving his point.  
+**Steve Jenkins, _Monthly Film Bulletin_, April 1987**
 
-Steve Jenkins, _Monthly Film Bulletin_, April 1987
-
-**David Lynch on ‘Blue Velvet’**
-
-Bobby Vinton’s song ‘Blue Velvet’ was the beginning of a whole series of ideas for the film. It conjured up a mood to do with small towns and mystery. And then, I’d always had a desire to sneak into a girl’s apartment and watch her through the night. I had the idea that while I was doing this I’d see something which I’d later realise was the clue to a mystery. I think people are fascinated by that, by being able to see into a world they couldn’t visit. That’s the fantastic thing about cinema, everybody can be a voyeur. Voyeurism is a bit like watching television – go one step further and you want to start looking in on things that are really happening. That’s where Sandy comes into _Blue Velvet_. She doesn’t go into Dorothy’s world herself, but she prompts Jeffrey to go deeper  
-and deeper.
+**David Lynch on ‘Blue Velvet’**  
+Bobby Vinton’s song ‘Blue Velvet’ was the beginning of a whole series of ideas for the film. It conjured up a mood to do with small towns and mystery. And then, I’d always had a desire to sneak into a girl’s apartment and watch her through the night. I had the idea that while I was doing this I’d see something which I’d later realise was the clue to a mystery. I think people are fascinated by that, by being able to see into a world they couldn’t visit. That’s the fantastic thing about cinema, everybody can be a voyeur. Voyeurism is a bit like watching television – go one step further and you want to start looking in on things that are really happening. That’s where Sandy comes into _Blue Velvet_. She doesn’t go into Dorothy’s world herself, but she prompts Jeffrey to go deeper and deeper.
 
 The other starting point for the film was an idea about an ear – that an ear in a field could be a ticket into another world. Once found, it would be like a bell answered in the night; nothing would be the same again. There are certain things which stand out when you are going down a street, out of the ordinary things which just stick in your mind, things which sparkle like a little gift left on a sidewalk. That doesn’t happen all the time, but when it does, it brings so much power that you can’t forget it.
 
@@ -131,6 +128,63 @@ Sparky _(the dog)_
 
 USA 1986  
 121 mins  
+<br>
+
+**BIG SCREEN CLASSICS**  
+**Miller’s Crossing**  
+Tue 1 Aug 20:40; Sat 12 Aug 15:20; Mon 14 Aug 18:10  
+**Sawdust and Tinsel (Gycklanas afton)**  
+Wed 2 Aug 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Tue 22 Aug 20:45  
+**The Night of the Hunter**  
+Thu 3 Aug 20:50; Sat 26 Aug 18:10; Tue 29 Aug 20:50  
+**The Bigamist**  
+Fri 4 Aug 20:45; Wed 9 Aug 18:00 (+ intro by Aga Baranowska, Events Programmer)  
+**3 Women**  
+Sat 5 Aug 20:30; Sun 20 Aug 18:25  
+**La Peau douce (Silken Skin)**  
+Sun 6 Aug 18:30; Thu 24 Aug 20:45  
+**In the Mood for Love (Huayang Nianhua)**  
+Mon 7 Aug 18:10; Fri 18 Aug 20:45; Fri 25 Aug 18:20  
+**Charulata (The Lonely Wife)**  
+Tue 8 Aug 20:35; Wed 16 Aug 18:00 (+ intro by Professor Chandak Sengoopta, Birkbeck College, University of London)  
+**Brief Encounter**  
+Thu 10 Aug 18:30; Sun 20 Aug 13:20  
+**Merrily We Go to Hell**  
+Fri 11 Aug 18:20; Wed 23 Aug 18:15 (+ intro by author and film journalist Helen O’Hara)  
+**Love Is the Devil: Study for a Portrait of Francis Bacon**  
+Sat 12 Aug 20:40; Wed 30 Aug 18:10 (+ intro)  
+**Mildred Pierce**  
+Sun 13 Aug 15:40; Mon 21 Aug 20:45; Mon 28 Aug 15:10  
+**Beau travail**  
+Tue 15 Aug 20:45; Mon 28 Aug 18:30  
+**Red River**  
+Thu 17 Aug 20:20; Sun 27 Aug 15:20  
+**Blue Velvet**
+Sat 19 Aug 17:45; Thu 24 Aug 18:10; Thu 31 Aug 20:35  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODI5MjgyNV19
+eyJoaXN0b3J5IjpbMTA2NTE0MTkyMV19
 -->
