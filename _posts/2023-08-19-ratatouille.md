@@ -74,14 +74,12 @@ _Music_: Michael Giacchino
 _Music Conducted by_: Tim Simonec  
 _Music Supervisor_: Tom Macdougall  
 _Sound Designer_: Randy Thom  
-_Re-recording Mixers_: Randy Thom,  
-Michael Semanick  
+_Re-recording Mixers_: Randy Thom,  Michael Semanick  
 _Supervising Sound Editor_: Michael Silvers  
 _Sound Effects Editors_: Teresa Eckton, Kyrsten Mate  
 _In loving memory of (1969-2005)_: Dan Lee
 
-_Voice Cast:_
-
+**Voice Cast**  
 Patton Oswalt _(Remy)_  
 Ian Holm _(Skinner)_  
 Lou Romano _(Alfredo Linguini)_  
@@ -98,12 +96,11 @@ Teddy Newton _(Talon Labarthe, lawyer)_
 Tony Fucile _(Pompidou/health inspector)_  
 Jake Steinfeld _(Git, lab rat)_  
 Brad Bird _(Ambrister Minion)_  
-Jack Bird, Andrea Boerries, Marco Boerries, Lindsey Collins, Thomas Keller, Brad Lewis,  
-Lori Richardson _(additional voices)_
+Jack Bird, Andrea Boerries, Marco Boerries, Lindsey Collins, Thomas Keller, Brad Lewis,  Lori Richardson _(additional voices)_
 
-USA 2007©
-
+USA 2007©  
 111 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzE3NzU1Ml19
+eyJoaXN0b3J5IjpbMTc1MDY5OTE3NF19
 -->
