@@ -6,14 +6,13 @@ date: 2023-08-19
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
-metadata: 'USA 1945, 111 mins<br> Director: Michael Curtiz'
-pdf: '2023-08-13-mildred-pierce.pdf'
+metadata: 'USA 1986, 121 mins<br> Director: David Lynch'
+pdf: '2023-08-19-blue-velvet.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
-**A contemporary review**
-
+**A contemporary review**  
 In terms of David Lynch’s work, _Blue Velvet_ marks a huge leap forward, almost magically establishing him as the most provocative and inspired director in the American mainstream. At the same time, the film also represents a move back, as it effectively cancels out the two ‘commercial’ ventures, _The Elephant Man_ and _Dune_, which followed the ‘cult’ success of _Eraserhead_. To all intents and purposes, it is Lynch’s second feature. What is so striking about _Blue Velvet_, as with _Eraserhead_, is the absolute conviction with which it renders and embraces the strangeness of its world, with no recourse to any justification or correlative, whether historical/medical (the monstrousness of John Merrick’s physical condition in _The Elephant Man_) or generic (the science-fiction grotesquerie of _Dune_).
 
 Although Dennis Hopper’s crazed Frank Booth initially seems to serve this function, as he embodies the dark side of idyllic, placid Lumberton, the intense physicality of his performance (as well as its specific relation to his role in his own _Out of the Blue_) effectively seals him off from all around him. The fervour with which he mirrors Jeffrey – ‘You’re like me, you fucker’, he declares, before smearing him with his blood and kissing him – actually emphasises the gap between them. Jeffrey’s problems are all his own. Frank’s final removal from the film leaves Jeffrey’s world healed, but with its capacity for the bizarre still intact. The final image of an artificial robin with a bug in its beak serves precisely to emphasise this: Sandy’s dream of restored harmony is fulfilled, but the quality of the image, its tone, signifies infinitely more than it symbolically represents.
@@ -133,5 +132,5 @@ Sparky _(the dog)_
 USA 1986  
 121 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQyNTAyODhdfQ==
+eyJoaXN0b3J5IjpbLTcxODI5MjgyNV19
 -->
