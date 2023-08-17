@@ -15,7 +15,7 @@ The story’s original mix of witty repartee, acrobatic hijinx, tightly choreogr
 
 ‘I was really intrigued by the possibilities of _Ratatouille_’s premise,’ says Bird. ‘The story has such a great and relatable hero because in order for Remy to do the one thing he loves, he has to go into a world that’s completely hostile to him. He wants to express himself in a way the world doesn’t expect him to, and I think a lot of people know that feeling,’ says Bird. ‘The question is: just how bold and clever can this little guy be in pursuing the thing that matters most to him, and what will he discover along the way? The story is in the tradition of that kind of timeless physical comedy that spans all languages and cultures, but it’s been given a fresh twist.’
 
-Bird was especially excited about injecting the film with wild twists and turns from nail-biting suspense to no-holds-barred comedy, from navigating the whitewater rapids of Paris’s famously intricate sewers to the high-pressure hustle of a restaurant serving dinner with a critic in the house. ‘Part of the joy of _Ratatouille_ is simply that it is so unpredictable,’ Bird notes. ‘If we’ve done our job right, when you think it’s going left it goes right, and vice versa, hopefully all in a way that’s not only humorous but from the heart.’[](http://madeinatlantis.com/movies_central/2007/wp-content/uploads/2014/08/ratatouille-movie4.jpg)
+Bird was especially excited about injecting the film with wild twists and turns from nail-biting suspense to no-holds-barred comedy, from navigating the whitewater rapids of Paris’s famously intricate sewers to the high-pressure hustle of a restaurant serving dinner with a critic in the house. ‘Part of the joy of _Ratatouille_ is simply that it is so unpredictable,’ Bird notes. ‘If we’ve done our job right, when you think it’s going left it goes right, and vice versa, hopefully all in a way that’s not only humorous but from the heart.’
 
 The enchantment of _Ratatouille_ begins with the charm of the characters, developed by Bird and Jan Pinkava, who first invented the film’s premise, and whose characters join the Pixar pantheon with real and relatable inner lives. At the centre of the tale’s emotional appeal are Remy’s many different relationships – including those with the affectionate but flummoxed father who doesn’t understand the road he has chosen; with the ghost of the legendary French chef he has idolised all his life, despite their different species; and especially with Linguini, with whom he forms an unusual symbiotic friendship based at first on their mutual desperation but which turns into something truly life-altering for both of them.
 
@@ -31,29 +31,22 @@ Yet the technological achievements of the film are always in service to spinning
 
 Producer Brad Lewis believes that Brad Bird was the perfect man to take on this mission of pushing the boundaries of animated comedy in the name of innovative storytelling – in part because of his Remy-like refusal to believe anything is impossible. ‘Brad Bird is as intense and passionate as Remy is in the film,’ Lewis muses. ‘I’ve never seen someone so locked into what’s going to make a story work creatively and emotionally. He’s got these skills of perception where he always hones right in on what’s going to make things a little more natural, or a little more funny or a little more true. And he’s a genius with physical comedy.’
 
-Bird ultimately hopes the film will take audiences on a journey that keeps them constantly off guard, yet rooting for Remy to achieve the seemingly impossible and save not only himself but his new friends at Gusteau’s Restaurant. Sums up Bird: ‘When you can get audiences to believe in something that might seem inherently unbelievable, that’s the real magic of movies.’
+Bird ultimately hopes the film will take audiences on a journey that keeps them constantly off guard, yet rooting for Remy to achieve the seemingly impossible and save not only himself but his new friends at Gusteau’s Restaurant. Sums up Bird: ‘When you can get audiences to believe in something that might seem inherently unbelievable, that’s the real magic of movies.’  
+**Production notes**
+<br><br>
 
-Production notes
-
-<![endif]-->
-
-**YOUR FRIEND, THE RAT**
-
-_Director:_ Jim Capobianco
-
-USA 2007
-
+**YOUR FRIEND, THE RAT**  
+_Director:_ Jim Capobianco  
+USA 2007  
 11 mins
 
-**RATATOUILLE**
-
+**RATATOUILLE**  
 _Director_: Brad Bird  
 _Co-directed by_: Jan Pinkava  
 ©: Disney Enterprises Inc., Pixar Talking Pictures  
 _Production Company_: Pixar Animation Studios  
 _Presented by_: Walt Disney Pictures  
-_Executive Producers_: John Lasseter,  
-Andrew Stanton  
+_Executive Producers_: John Lasseter,  Andrew Stanton  
 _Produced by_: Brad Lewis  
 _Associate Producer_: Galyn Susman  
 _Production Accountant_: Marc S. Greenberg  
@@ -64,18 +57,14 @@ _Casting_: Kevin Reher, Natalie Lyon
 _Screenwriter_: Brad Bird  
 _Original Story by_: Jan Pinkava, Jim Capobianco, Brad Bird  
 _Story Supervisor_: Mark Andrews  
-_Additional Story Material_: Emily Cook,  
-Kathy Greenberg, Bob Peterson  
+_Additional Story Material_: Emily Cook,  Kathy Greenberg, Bob Peterson  
 _Director of Photography/Lighting_: Sharon Calahan  
 _Director of Photography/Camera_: Robert Anderson  
-_Senior Camera Operator (Sets/Layout)_:  
-Shawn Brennan  
+_Senior Camera Operator (Sets/Layout)_:  Shawn Brennan  
 _Supervising Animators_: Dylan Brown, Mark Walsh  
-_Directing Animators_: David Devan,  
-Michael Venturini  
+_Directing Animators_: David Devan,  Michael Venturini  
 _Film Editor_: Darren Holmes  
-_2nd Film Editors_: Stan Webb,  
-Robert Grahamjones, Katherine Ringgold  
+_2nd Film Editors_: Stan Webb,  Robert Grahamjones, Katherine Ringgold  
 _Additional Editing_: Nicholas C. Smith, Greg Snyder  
 _Production Designer_: Harley Jessup  
 _Environment Designer_: Daniel Arriaga  
@@ -116,5 +105,5 @@ USA 2007©
 
 111 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzMyMDkzNjJdfQ==
+eyJoaXN0b3J5IjpbMjAyNzE3NzU1Ml19
 -->
