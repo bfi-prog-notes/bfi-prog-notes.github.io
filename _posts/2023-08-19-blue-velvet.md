@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Blue Velvet
+published: true
+date: 2023-08-19
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'USA 1945, 111 mins<br> Director: Michael Curtiz'
+pdf: '2023-08-13-mildred-pierce.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -125,5 +133,5 @@ Sparky _(the dog)_
 USA 1986  
 121 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzUwMzQxXX0=
+eyJoaXN0b3J5IjpbLTE4MjQyNTAyODhdfQ==
 -->
