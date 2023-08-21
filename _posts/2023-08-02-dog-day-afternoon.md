@@ -10,7 +10,7 @@ metadata: 'UK 1980, 91 mins<br> Directors: Bill Forsyth'
 pdf: '2023-08-21-gregorys-girl-relaxed.pdf'
 ---
 
-<img style="float: left;" src="/img/fantasia-02.jpg"><br><br><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/Gregory's Girl.png"><br><br><br><br><br><br><br><br><br><br><br>
 
 
 _+ intro and discussion_
@@ -88,5 +88,6 @@ those in the neurodiverse community, their assistants and carers.
 • Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTg0ODc4OSwtNjYwMjE0MzU0XX0=
+eyJoaXN0b3J5IjpbLTE0OTYwMzg0NiwtNzU5ODQ4Nzg5LC02Nj
+AyMTQzNTRdfQ==
 -->
