@@ -6,8 +6,8 @@ date: 2023-08-21
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Comedy]
-metadata: 'u1940, 124 mins<br> Directors: Bill Forsyth'
-pdf: '2023-07-31-fantasia-relaxed.pdf'
+metadata: 'UK 1980, 91 mins<br> Directors: Bill Forsyth'
+pdf: '2023-08-21-gregorys-girl-relaxed.pdf'
 ---
 
 <img style="float: left;" src="/img/fantasia-02.jpg"><br><br><br><br><br><br><br><br><br><br><br>
@@ -17,10 +17,8 @@ _+ intro and discussion_
 
 Director Forsyth (_Local Hero_) also scripted this perceptive and very funny coming-of-age tale, set on the outskirts of Glasgow. The epitome of a gawky, awkward teen, Gregory desperately needs some help when he falls for the new, gifted member of the school football team. How could he possibly comprehend the various social codes required for him to navigate the rocky waters of budding romance?
 
-The post screening discussion will be led by artist Sam Ahern from The Neurocultures Collective and BFI’s Douglas Weir.
+The post screening discussion will be led by artist Sam Ahern from The Neurocultures Collective and BFI’s Douglas Weir.  
 
-
-<![endif]-->
 
 **GREGORY'S GIRL**  
 _Director:_ Bill Forsyth  
@@ -90,5 +88,5 @@ those in the neurodiverse community, their assistants and carers.
 • Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzNTM4MDMyLC02NjAyMTQzNTRdfQ==
+eyJoaXN0b3J5IjpbLTc1OTg0ODc4OSwtNjYwMjE0MzU0XX0=
 -->
