@@ -6,14 +6,12 @@ date: 2023-08-21
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Comedy]
-metadata: 'USA 1940, 124 mins<br> Directors: Various'
+metadata: 'u1940, 124 mins<br> Directors: Bill Forsyth'
 pdf: '2023-07-31-fantasia-relaxed.pdf'
 ---
 
 <img style="float: left;" src="/img/fantasia-02.jpg"><br><br><br><br><br><br><br><br><br><br><br>
 
-
-<![endif]-->
 
 _+ intro and discussion_
 
@@ -21,18 +19,23 @@ Director Forsyth (_Local Hero_) also scripted this perceptive and very funny com
 
 The post screening discussion will be led by artist Sam Ahern from The Neurocultures Collective and BFI’s Douglas Weir.
 
-**FANTASIA**  
-_Directors:_ Various  
-©: Walt Disney Productions  
-_Production Supervision:_ Ben Sharpsteen  
-_With:_  
-Leopold Stokowski  
-The Philadelphia Orchestra  
-Deems Taylor _(narrative introductions)_  
 
-USA 1940  
-124 mins
-<br><br>
+<![endif]-->
+
+**GREGORY'S GIRL**  
+_Director:_ Bill Forsyth  
+
+**With**  
+John Gordon Sinclair  
+Dee Hepburn  
+Clare Grogan  
+
+UK 1980  
+91 mins  
+
+**DS** Screening with subtitles which include descriptions of non-dialogue audio
+
+BFI releases the 4K restoration of _Gregory’s Girl_ on Blu-ray and UHD disc on 21 August. Available to order now at shop.bfi.org.uk.
 
 
 **We welcome your feedback on this screening. Relaxedscreeningsfeedback@bfi.org.uk**
@@ -87,5 +90,5 @@ those in the neurodiverse community, their assistants and carers.
 • Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjg3Njk2NDgsLTY2MDIxNDM1NF19
+eyJoaXN0b3J5IjpbNTgzNTM4MDMyLC02NjAyMTQzNTRdfQ==
 -->
