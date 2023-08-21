@@ -44,13 +44,10 @@ BFI releases the 4K restoration of _Gregory’s Girl_ on Blu-ray and UHD disc on
 
 <img style="float: left;" src="/img/steel-charitable-trust-logo-01.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br>
 
+**The next relaxed screening is:**
+**GOOD MORNING  + intro and discussion  
+Monday 25 September 2023 18.30 NFT3** 
 
-**The next relaxed screening is:<br>
-GREGORY'S GIRL + intro and discussion  
-Monday 21 August 2023 18:20 NFT3**  
-<br>
-
-**Our Disney season Making Magic: 100 Years of Disney continues throughout August**
 <br>
 
 
@@ -88,6 +85,6 @@ those in the neurodiverse community, their assistants and carers.
 • Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTYwMzg0NiwtNzU5ODQ4Nzg5LC02Nj
-AyMTQzNTRdfQ==
+eyJoaXN0b3J5IjpbNjYxNTIyMzkwLC03NTk4NDg3ODksLTY2MD
+IxNDM1NF19
 -->
