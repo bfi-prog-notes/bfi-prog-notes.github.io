@@ -17,8 +17,65 @@ bfi.org.uk
 To begin with, Araki’s movie is almost playfully picaresque. The pair encounter a succession of archetypes _en route_, ranging from two women in an open-top Chevrolet (a manifestly lesbian Thelma and Louise) and a trio of thugs out for gay blood, to quarrelsome couples in car parks. The depiction of women is open to criticism, particularly in the case of the wife who murders her philandering husband after reminding him that the fashionably bisexual 70s are over. But she belongs with the other pop-up ciphers who are negligible in the final analysis. Besides the two male protagonists, the only other rounded character is Darcy. She is a sympathetic presence who somewhat redeems Luke and Jon, and a touchstone for the audience as the two lovers skid out of control (although the role is hardly the caricature ‘fag hag’ it has been accused of being, it is weakened by Darcy Marta’s irritatingly melodramatic performance).
 
 Sex and death drive _The Living End_ forward, shadowing it with a terrifying fatalism. Indeed, death is figured everywhere, from bumper car stickers to cut-away shots of wasted bodies. The studiedly morose Jon (his music heroes include such poets of angst as Joy Division, Echo and the Bunnymen and Morrissey) writes his thesis on ‘The Death of Cinema’ in his room decorated with Godard and Jarman posters. This _fin de siècle_ necro-romanticism suggests, a little too self-consciously, that culture is about to implode. Meanwhile, cool Luke, a James Dean _manqué_, taunts Jon with a ‘Live young, die young and leave a beautiful corpse’ credo. With his bare bronzed torso, his fashionably ragged jeans and cigarette hanging from the corner of his mouth, he represents the homoerotic ideal of hard masculinity. This iconography is echoed in the hoardings advertising Marlboro cigarettes and cowboy boots that flank the roads during the couple’s journey. The libidinous Luke endows their relationship with a remarkable sexual charge. The eroticism disappears, however, in the shockingly poignant final scene when Luke seeks ultimate abandonment in self-annihilation while telling Jon that he loves him more than life. This uncompromising and uncomfortable equation of sex with death makes _The Living End_ a film dangerously lacking in hope, which leaves its two heroes stranded on the beach.  
-**Lizzie Francke, _Sight and Sound_, February 1993**
-> Written with [StackEdit](https://stackedit.io/).
+**Lizzie Francke, _Sight and Sound_, February 1993**  
+<br>
+<![endif]-->
+
+**THE L**  
+_An irresponsible movie by/Directed by_: Gregg Araki  
+_©/Production Company_: Strand Releasing, Desperate Pictures  
+_With financial assistance from_: American Film Institute  
+_In association with_: National Endowment for the Arts  
+_Presented by_: Strand Releasing, Desperate Pictures  
+_International Sales_: Fortissimo Films *  
+_Executive Producers_: Evelyn Hu, Jon Jost, Henry Rosenthal, Mike Thomas  
+_Produced by_: Marcus Hu, Jon Gerrans  
+_Co-producer_: Jim Stark  
+_Associate Producer_: Andrea Sperling  
+_Written by_: Gregg Araki  
+_Shot by_: Gregg Araki  
+_Lighting_: Christopher Münch  
+_Stills_: Michael Matson  
+_Edited by_: Gregg Araki  
+_Assistant Editor_: Tommy Hule  
+_Paintings by_: Beth Muehl  
+_Props_: Johanna Went  
+_Title Design_: Steven Hankinson  
+_Titles Shot by_: Mar Elepano  
+_Negative Cutting_: Karen Kennedy  
+_Original Music by_: Cole Coonce  
+_Benevolent Music Gods [at Waxtrax!]_: Matt Adell, Jim Nash  
+_Sound Designer_: George Lockwood  
+_Sound Recording_: Dave Cash, Joyce Brouwers, Jack Kofman  
+_Assistant Sound_: Marianne Dissard  
+_Post-production Sound Remixing_: Muscle & Hate Studios  
+_Dedicated to_: Craig Lee  
+
+**Cast**  
+Mike Dytri _(Luke)_  
+Craig Gilmore _(Jon)_  
+Mark Finch _(doctor)_  
+Mary Woronov _(Daisy)_  
+Johanna Went _(Fern)_  
+Darcy Marta _(Darcy)_  
+Scot Goetz _(Peter)_  
+Bretton Vail _(Ken)_  
+Nicole Dillenberg _(Barbie)_  
+Stephen Holman, Magie Song _(7-11 couple)_  
+Peter Lanigan, Jon Gerrans,  Jack Kofman _(Three Stooges)_  
+Christopher Mabli _(Melrose neo-nazi)_  
+Michael Now _(Tarzan)_  
+Michael Haynes _(Jane)_  
+Peter Grame _(Gus)_  
+Craig Lee, Torie Chickering _(Ralph’s couple)_  
+J. Sidney Beswick _(Buddhist)_  
+Paul Bartel _(Twister master)_ *
+
+USA 1992  
+84 mins  
+
+\* Uncredited   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTk2ODksMTQwODE0MjQ3N119
+eyJoaXN0b3J5IjpbMjgzOTYxNjcsMTk1NTk2ODksMTQwODE0Mj
+Q3N119
 -->
