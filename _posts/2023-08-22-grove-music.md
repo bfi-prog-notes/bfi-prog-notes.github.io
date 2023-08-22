@@ -4,10 +4,10 @@ title: Grove Music + discussion
 published: true
 date: 2023-08-22
 readtime: true
-categories: ['REBEL CINEMA<br>OUSMANE SEMBÈNE AT 100']
-tags: [Drama]
-metadata: 'Senegal-Burkina Faso (Upper Volta)-Morocco-Tunisia-Cameroon 2004, 124 mins<br> Director: Ousmane Sembène'
-pdf: '2023-08-28-moolaade.pdf'
+categories: ['ART IN THE MAKING']
+tags: [Documentary, Music]
+metadata: 'UK 1981, 48 mins<br> Directors: Henry Martin, Steve Shaw'
+pdf: '2023-08-22-moolaade.pdf'
 ---
 
 
@@ -67,5 +67,5 @@ UK 1981
 
 \* uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzAzMjE5MF19
+eyJoaXN0b3J5IjpbLTE2MTkyNzQ3MTJdfQ==
 -->
