@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Grove Music + discussion
+published: true
+date: 2023-08-22
+readtime: true
+categories: ['REBEL CINEMA<br>OUSMANE SEMBÈNE AT 100']
+tags: [Drama]
+metadata: 'Senegal-Burkina Faso (Upper Volta)-Morocco-Tunisia-Cameroon 2004, 124 mins<br> Director: Ousmane Sembène'
+pdf: '2023-08-28-moolaade.pdf'
+---
 
 
 _+ discussion with filmmaker and writer Imruh Bakari, writer, critic and historian Rianna Jade Parker and musician and educator Deirdre Pascall. Host is Xavier Alexandre Pillai, BFI National Archive Curator._
@@ -23,9 +33,7 @@ As a composer, her film credits include _Panorama_, _Tonight with Trevor McDonal
 
 Host: **Xavier Alexandre Pillai** is television curator at the BFI, a freelance film programmer and a trustee at LUX Moving Image. He has programmed for the ICO’s Cinema of Ideas strand, the London Film Festival and the Trinidad and Tobago Film Festival. His interests lie in multicultural television, government communications, documentary, and colonial film. He can be found online @xavi____a.  
 
-<![endif]-->
-
-**GRO**  
+**GROVE CARNIVAL**  
 _Directors:_ Henry Martin, Steve Shaw  
 
 UK 1981  
@@ -59,5 +67,5 @@ UK 1981
 
 \* uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDk5MDM3OV19
+eyJoaXN0b3J5IjpbMTAyMzAzMjE5MF19
 -->
