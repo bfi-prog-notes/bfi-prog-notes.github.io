@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: The Living End
+published: true
+date: 2023-08-22
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'USA 1986, 121 mins<br> Director: David Lynch'
+pdf: '2023-08-19-blue-velvet.pdf'
+---
 
 _Contains scenes graphic violence, scenes of a sexual nature and uses of homophobic language._
 
@@ -71,6 +81,6 @@ USA 1992
 
 \* Uncredited   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Njg3NjUyMywxOTU1OTY4OSwxNDA4MT
-QyNDc3XX0=
+eyJoaXN0b3J5IjpbLTEwMzI4NTA0NDMsMTk1NTk2ODksMTQwOD
+E0MjQ3N119
 -->
