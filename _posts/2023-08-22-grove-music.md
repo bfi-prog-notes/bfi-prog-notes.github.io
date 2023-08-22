@@ -7,9 +7,8 @@ readtime: true
 categories: ['ART IN THE MAKING']
 tags: [Documentary, Music]
 metadata: 'UK 1981, 48 mins<br> Directors: Henry Martin, Steve Shaw'
-pdf: '2023-08-22-moolaade.pdf'
+pdf: '2023-08-22-grove-music.pdf'
 ---
-
 
 _+ discussion with filmmaker and writer Imruh Bakari, writer, critic and historian Rianna Jade Parker and musician and educator Deirdre Pascall. Host is Xavier Alexandre Pillai, BFI National Archive Curator._
 
@@ -66,6 +65,27 @@ UK 1981
 48 mins  
 
 \* uncredited  
+<br>
+
+**REGULAR PROGRAMME**  
+**Experimenta: Jane Arden: Explode the Language**  
+Sat 9 Sep 14:00  
+**Experimenta: The Other Side of the Underneath + Q&A with psychotherapy workshop film participants Penny Slinger (pre-recorded) and Natasha Morgan, led by Jane Arden focus co-curator Sophia Satchell-Baeza**  
+Sat 9 Sep 17:40  
+**Silent Cinema: The Crowd + intro by Bryony Dixon, BFI National Archive Curator**  
+Sun 10 Sep 15:30  
+**Seniors’ Free Matinee: Bronco Bullfrog + intro and Q&A with Ian O’Sullivan, BFI Library and special guests tbc**  
+Mon 11 Sep 14:00  
+**Art in the Making: Punch and Judy. Tragical Comedy or Comical Tragedy + intro by Jez Stewart, BFI National Archive Curator**  
+Tue 12 Sep 18:20  
+**African Odysseys: Ama: An African Voyage of Discovery + intro by His Excellency Papa Owusu-Ankomah, Ghana’s High Commissioner Q&A actor Georgina Ackerman and director Kwesi Owusu hosted by film lecturer, Imruh Bakari**  
+Sat 16 Sep 16:30  
+**Relaxed Screening: Good Morning (Ohayō) + intro and discussion**  
+Mon 25 Sep 18:30  
+**Projecting the Archive: Miranda + intro by Josephine Botting, BFI National Archive Curator**  
+Wed 27 Sep 18:10  
+**Film Wallahs: Kuch Kuch Hota Hai + intro**  
+Sun 1 Oct 13:00  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTkyNzQ3MTJdfQ==
+eyJoaXN0b3J5IjpbLTE2MTcxNTQzMjddfQ==
 -->
