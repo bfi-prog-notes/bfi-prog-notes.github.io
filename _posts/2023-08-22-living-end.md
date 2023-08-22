@@ -4,7 +4,7 @@ title: The Living End
 published: true
 date: 2023-08-22
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['BE GAY DO CRIME<br> A SEASON OF QUEER CRIME FILMS']
 tags: [Drama]
 metadata: 'USA 1986, 121 mins<br> Director: David Lynch'
 pdf: '2023-08-19-blue-velvet.pdf'
@@ -81,6 +81,6 @@ USA 1992
 
 \* Uncredited   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI4NTA0NDMsMTk1NTk2ODksMTQwOD
-E0MjQ3N119
+eyJoaXN0b3J5IjpbMTExNDE2NzI5LDE5NTU5Njg5LDE0MDgxND
+I0NzddfQ==
 -->
