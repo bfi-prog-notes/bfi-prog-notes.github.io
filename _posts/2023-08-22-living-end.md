@@ -18,6 +18,7 @@ To begin with, Araki’s movie is almost playfully picaresque. The pair encounte
 
 Sex and death drive _The Living End_ forward, shadowing it with a terrifying fatalism. Indeed, death is figured everywhere, from bumper car stickers to cut-away shots of wasted bodies. The studiedly morose Jon (his music heroes include such poets of angst as Joy Division, Echo and the Bunnymen and Morrissey) writes his thesis on ‘The Death of Cinema’ in his room decorated with Godard and Jarman posters. This _fin de siècle_ necro-romanticism suggests, a little too self-consciously, that culture is about to implode. Meanwhile, cool Luke, a James Dean _manqué_, taunts Jon with a ‘Live young, die young and leave a beautiful corpse’ credo. With his bare bronzed torso, his fashionably ragged jeans and cigarette hanging from the corner of his mouth, he represents the homoerotic ideal of hard masculinity. This iconography is echoed in the hoardings advertising Marlboro cigarettes and cowboy boots that flank the roads during the couple’s journey. The libidinous Luke endows their relationship with a remarkable sexual charge. The eroticism disappears, however, in the shockingly poignant final scene when Luke seeks ultimate abandonment in self-annihilation while telling Jon that he loves him more than life. This uncompromising and uncomfortable equation of sex with death makes _The Living End_ a film dangerously lacking in hope, which leaves its two heroes stranded on the beach.  
 **Lizzie Francke, _Sight and Sound_, February 1993**
+> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODE0MjQ3N119
+eyJoaXN0b3J5IjpbMTk1NTk2ODksMTQwODE0MjQ3N119
 -->
