@@ -63,7 +63,8 @@ _Key Grip_: Richard Mall
 _Still Photographer_: Merrick Morton  
 _Digital Visual Effects by_: Cinesite Inc  
 _Visual Effects Supervisor_: Brad Kuehn  
-_Special Effects by_: Lynn-Wenger Productions Inc _Key Special Effects_: Eric Roberts  
+_Special Effects by_: Lynn-Wenger Productions Inc   
+_Key Special Effects_: Eric Roberts  
 _Motion Effects_: Don Gray  
 _Edited by_: Anne V. Coates  
 _1st Assistant Editor_: Robb Sullivan  
@@ -72,8 +73,7 @@ _Production Designed by_: Gary Frutkoff
 _Art Director_: Phil Messina  
 _Set Director_: Maggie Martin  
 _Art Department Co-ordinator_: Blair Huizingh  
-_Set Designers_: Lauren Cory,  
-Keith P. Cunningham, Mary Finn  
+_Set Designers_: Lauren Cory,  Keith P. Cunningham, Mary Finn  
 _Property Master_: Emily Ferry  
 _Construction Co-ordinator_: Chris Snyder  
 _Costumes Designed by_: Betsy Heimann  
@@ -93,8 +93,7 @@ _Re-recording Mixers_: Larry Blake, Gerry Lentz
 _Supervising Sound Editor_: Larry Blake  
 _Special Thanks to_: Jan Kiesser
 
-_Cast:_
-
+**Cast**  
 George Clooney _(Jack Foley)_  
 Jennifer Lopez _(Karen Sisco)_  
 Ving Rhames _(Buddy Bragg)_  
@@ -136,11 +135,67 @@ Michael Keaton _(Ray Nicolette)_ *
 Samuel L. Jackson _(Jerry Hejira)_ *  
 Mike Malone _(man in bank)_ *
 
-USA 1998
-
+USA 1998  
 123 mins
 
-* Uncredited
+*Uncredited
+<br><br>
+
+<![endif]-->
+
+**BIG SCREEN CLASSICS**
+
+**Out of Sight**
+
+Fri 1 Sep 20:30; Thu 7 Sep 20:35; Fri 22 Sep 17:55
+
+**Girlhood (Bande des filles)**
+
+Sat 2 Sep 16:00; Sun 17 Sep 18:30; Mon 2 Oct 18:10
+
+**Il bidone (The Swindle)**
+
+Sun 3 Sep 12:20; Thu 14 Sep 20:45; Sat 30 Sep 15:40
+
+**Hidden (Caché)**
+
+Mon 4 Sep 18:00; Thu 21 Sep 20:40; Wed 27 Sep 17:50 (+ intro by Geoff Andrew, Programmer-at-Large)
+
+**Notorious**
+
+Tue 5 Sep 14:30; Sat 23 Sep 11:45; Sun 1 Oct 15:20; Tue 3 Oct 20:30
+
+**The Wind Will Carry Us (Bad mara khahad bourd)**
+
+Wed 6 Sep 18:10 (+ intro by Shohini Chaudhuri, Professor of Film Studies, University of Essex); Fri 15 Sep 20:40
+
+**Ace in the Hole (aka The Big Carnival)**
+
+Fri 8 Sep 14:40; Mon 11 Sep 20:45; Fri 29 Sep 18:00
+
+**The Killers**
+
+Sat 9 Sep 18:20; Tue 12 Sep 14:30; Mon 18 Sep 20:50
+
+**The Maltese Falcon**
+
+Sun 10 Sep 11:50; Mon 25 Sep 14:40; Tue 26 Sep 20:55
+
+**F for Fake**
+
+Wed 13 Sep 18:20 (+ intro by Jason Wood, BFI Executive Director of Public Programmes & Audiences); Thu 21 Sep 18:30
+
+**Barry Lyndon**
+
+Sat 16 Sep 19:30; Sun 24 Sep 14:30
+
+**The Kid with a Bike (Le Gamin au vélo)**
+
+Tue 19 Sep 20:45; Tue 26 Sep 18:05
+
+**Au revoir les enfants**
+
+Wed 20 Sep 18:00 (+ intro by film critic and lecturer Dr Julia Wagner); Thu 28 Sep 20:45
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQxNDAwMDNdfQ==
+eyJoaXN0b3J5IjpbLTEwNTY0OTIwMjRdfQ==
 -->
