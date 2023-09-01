@@ -49,51 +49,45 @@ Personally, I want more revolutions to happen. Talking about Japan, the country 
 <br><br>
 
 **HOSPITALITÉ (KANTAI)**<br>
-
 _Director:_ Kōji Fukada<br>
+_Executive Producers:_ Osamu Matsubara,  Makoto Adachi, Kousuke Ono, Mikiyo Miyata, Tatsuya Iwakura<br>
+_Co-Executive Producer:_ Norio Enomoto<br>
+_Producers:_ Kiki Sugino, Kōji Fukada<br>
+_Associate Producer:_ Takashi Hirota<br>
+_Artistic Director:_ Oriza Hirata<br>
+_Screenplay:_ Kōji Fukada<br>
+_Director of Photography:_ Kenichi Negishi<br>
+_Editor:_ Kōji Fukada<br>
+_Production Design:_ Kensuke Suzuki<br>
+_Music:_ Kumiko Yabu, Yusuke Kataoka<br>
+_Sound:_ Ippei Shingaki<br>
 
-_Executive Producers:_ Osamu Matsubara,  
-Makoto Adachi, Kousuke Ono, Mikiyo Miyata, Tatsuya Iwakura
+**Cast**<br>
+Kenji Yamauchi _(Mikio)_<br>
+Kanji Furutachi _(Kagawa)_<br>
+Kiki Sugino _(Natsuki)_<br>
+Kumi Hyodo _(Seiko)_<br>
+Erika Ono _(Eriko)_<br>
+Bryerly Long _(Annabelle)_<br>
 
-_Co-Executive Producer:_ Norio Enomoto
+Japan 2010v
 
-_Producers:_ Kiki Sugino, Kōji Fukada
+96 mins<br>
+<br>
 
-_Associate Producer:_ Takashi Hirota
 
-_Artistic Director:_ Oriza Hirata
-
-_Screenplay:_ Kōji Fukada
-
-_Director of Photography:_ Kenichi Negishi
-
-_Editor:_ Kōji Fukada
-
-_Production Design:_ Kensuke Suzuki
-
-_Music:_ Kumiko Yabu, Yusuke Kataoka
-
-_Sound:_ Ippei Shingaki
-
-_Cast:_
-
-Kenji Yamauchi _(Mikio)_
-
-Kanji Furutachi _(Kagawa)_
-
-Kiki Sugino _(Natsuki)_
-
-Kumi Hyodo _(Seiko)_
-
-Erika Ono _(Eriko)_
-
-Bryerly Long _(Annabelle)_
-
-Japan 2010
-
-96 mins
+**KOJI FUKADA**<br>
+**Hospitalité (Kantai)**<br>
+Fri 1 Sep 18:20; Thu 14 Sep 20:40<br>
+**Au revoir l’été (Hotori no Sakuko)**<br>
+Mon 4 Sep 20:35; Mon 2 Oct 17:55<br>
+**Harmonium (Fuchi ni Tatsu)**<br>
+Wed 6 Sep 20:30; Sun 1 Oct 18:20<br>
+**Love Life (Rabu raifu)**<br>
+From Fri 15 Sep<br>
+<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDQ1MjcxMl19
+eyJoaXN0b3J5IjpbLTk3MjE4NDMyOV19
 -->
