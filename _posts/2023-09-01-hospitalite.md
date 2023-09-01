@@ -70,8 +70,7 @@ Kumi Hyodo _(Seiko)_<br>
 Erika Ono _(Eriko)_<br>
 Bryerly Long _(Annabelle)_<br>
 
-Japan 2010v
-
+Japan 2010<br>
 96 mins<br>
 <br>
 
@@ -89,5 +88,5 @@ From Fri 15 Sep<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjE4NDMyOV19
+eyJoaXN0b3J5IjpbLTI5Mzg3NzczMV19
 -->
