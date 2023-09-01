@@ -1,1 +1,101 @@
+<![endif]-->
 
+**Kōji Fukada on ‘Hospitalité’**
+
+_About_ Hospitalité_, why did you pick that title?_
+
+I started to write the script which was entitled _Rotary_ at first. It referred to rotary printing presses, and the impermanence of life that continuously rolls on and on. But while I was rewriting the script, ‘Community and Exclusion’ stood out as the theme of the film, so the title eventually became _Hospitalité_ that means how you welcome someone from outside. Moreover, I’m aware of immigration issues in Japan lately and Jacques Derrida’s philosophy lecture ‘Of Hospitality’.
+
+_Could you talk about how you started to make this movie?_
+
+There was a project to make a feature film at first. But I started to write a screenplay for a short film as a pilot film, because it’s difficult to collect a budget suddenly. I showed the short film to our producers, Kosuke Ono and Kiki Sugino, and they liked it and we agreed to make a feature film.
+
+_How did you rewrite the screenplay of the short film into the feature?_
+
+The screenplay for the short film that we just talked about had all the core elements of the feature film. However, the short film was about a married couple in their 40s, and their problems that had piled up for a long time gradually resurfacing because of Kagawa’s presence. This time Ms Sugino performed in the film, so we needed to rewrite the screenplay. Also, ‘Community and Exclusion’ was very important in this film so we focused on how to deal with it in the story.
+
+_This is a very international film. Especially Bryerly Long, who plays Kagawa’s wife Annabelle, leaves a strong impression._
+
+Actually, she is a member of our theatre company. She came to Japan from England last July, joined the company and we cast her right after that. She is actually a very intelligent woman who graduated from Oxford University at the head of her class. She studied Japanese at university, and decided to write about Oriza Hirata and Hideki Noda. I met her in the audition for the first time, and I was very impressed that she could read kanji without the pronunciation, and she speaks Japanese well even though she speaks very little Japanese in the film.
+
+_About the drifter Kagawa. Who is he exactly?_
+
+I want people to have their own opinions but for me he is a philosophical revolutionary who actually does ‘Hospitalité’ to accept foreigners, Japanese, homeless, criminals or whoever that is at the Kobayashi’s house as his laboratory. At the same time, he just enjoys making a mess.
+
+_Kagawa is a such an unique character, but his performance was so natural._
+
+There is no one who can play that kind of role as well as Mr Furutachi. He is like untrustworthy; even though he talks about serious matters with a serious expression, he sounds like he’s lying.
+
+_Are there any characters based on real people?_
+
+There are no models for the characters, but I created some of the characters thinking about our actors’ personalities, such as Kenji Yamauchi and Kanji Furutachi’s, while writing the screenplay.
+
+_Could you talk about the party scene, the climax of the story?_
+
+Even though one tenth of the population is foreigners in some communities in Japan, people think that the fact that foreigners are increasing is scary because they don’t know them very well and there are not many opportunities to meet them. The foreigners in that scene are just enjoying the party like a carnival, but exclusion occurred because someone reported it to the police. Basically that kind of problem should be solved by communicating with each other, but the pattern of report and exclusion happens all the time. Moreover, there is a special moment that the Kobayashi couple close their gap in that multinational space.
+
+_People think that there are many crimes by foreigners in Japan, don’t they?_
+
+Yes, I think there are many people who live uncomfortably by that idea. I think people should doubt that crimes by foreigners are increasing. Even if so, we have to think about our environment; why foreigners join crime groups or commit crimes. For example, there is the strict immigration system behind that fact that they commit crimes because they can’t get a job easily. We should pay attention to those facts but there is a situation that makes us ignore it. Last year in Shinokubo, which is a Korean town in Tokyo, a right-wing group had a big demonstration led by the police. However, sadly that was like hate speech towards a specific ethnicity. Of course, some people were against the demonstration, but just because it was officially registered by them, the police were protecting them. Probably most people don’t have hatred against foreigners. But people don’t want to get involved in political matters because they think it’s too much trouble. But these ordinary people who don’t want to get involved, after all, assist excluding foreigners.
+
+_The Kobayashis are ordinary people too._
+
+That’s right. The problem of foreigners that is happening somewhere got to them. So even though they aren’t afraid of foreigners, if there is a movement that tried to remove foreigners in their neighbourhood, they do the same thing to not damage the harmony of community. Why did Kagawa chose the Kobayashis? Because they support removing. That’s why he doesn’t mind making their house for _Hospitalité_ at all.
+
+_I think the perfect word to describe the ending of the film is ‘revolution’. Associated with revolution, how do you see the world today that is changing rapidly?_
+
+Personally, I want more revolutions to happen. Talking about Japan, the country is pretty much a single race country, so I hope more immigrants come and get mixed in more. It’s simply fun and interesting to know different cultures and points of view. However, I’m not good at English [laughs].
+
+Production notes
+
+<![endif]-->
+
+**HOSPITALITÉ (KANTAI)**
+
+_Director:_ Kōji Fukada
+
+_Executive Producers:_ Osamu Matsubara,  
+Makoto Adachi, Kousuke Ono, Mikiyo Miyata, Tatsuya Iwakura
+
+_Co-Executive Producer:_ Norio Enomoto
+
+_Producers:_ Kiki Sugino, Kōji Fukada
+
+_Associate Producer:_ Takashi Hirota
+
+_Artistic Director:_ Oriza Hirata
+
+_Screenplay:_ Kōji Fukada
+
+_Director of Photography:_ Kenichi Negishi
+
+_Editor:_ Kōji Fukada
+
+_Production Design:_ Kensuke Suzuki
+
+_Music:_ Kumiko Yabu, Yusuke Kataoka
+
+_Sound:_ Ippei Shingaki
+
+_Cast:_
+
+Kenji Yamauchi _(Mikio)_
+
+Kanji Furutachi _(Kagawa)_
+
+Kiki Sugino _(Natsuki)_
+
+Kumi Hyodo _(Seiko)_
+
+Erika Ono _(Eriko)_
+
+Bryerly Long _(Annabelle)_
+
+Japan 2010
+
+96 mins
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3MTY5NTc3MTRdfQ==
+-->
