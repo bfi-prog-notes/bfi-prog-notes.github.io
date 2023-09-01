@@ -1,8 +1,7 @@
-<![endif]-->
 
 **Kōji Fukada on ‘Hospitalité’**
 
-_About_ Hospitalité_, why did you pick that title?_
+_About_ Hospitalité _, why did you pick that title?_
 
 I started to write the script which was entitled _Rotary_ at first. It referred to rotary printing presses, and the impermanence of life that continuously rolls on and on. But while I was rewriting the script, ‘Community and Exclusion’ stood out as the theme of the film, so the title eventually became _Hospitalité_ that means how you welcome someone from outside. Moreover, I’m aware of immigration issues in Japan lately and Jacques Derrida’s philosophy lecture ‘Of Hospitality’.
 
@@ -46,13 +45,12 @@ _I think the perfect word to describe the ending of the film is ‘revolution’
 
 Personally, I want more revolutions to happen. Talking about Japan, the country is pretty much a single race country, so I hope more immigrants come and get mixed in more. It’s simply fun and interesting to know different cultures and points of view. However, I’m not good at English [laughs].
 
-Production notes
+**Production notes**
+<br><br>
 
-<![endif]-->
+**HOSPITALITÉ (KANTAI)**<br>
 
-**HOSPITALITÉ (KANTAI)**
-
-_Director:_ Kōji Fukada
+_Director:_ Kōji Fukada<br>
 
 _Executive Producers:_ Osamu Matsubara,  
 Makoto Adachi, Kousuke Ono, Mikiyo Miyata, Tatsuya Iwakura
@@ -97,5 +95,5 @@ Japan 2010
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTY5NTc3MTRdfQ==
+eyJoaXN0b3J5IjpbMTUzNDQ1MjcxMl19
 -->
