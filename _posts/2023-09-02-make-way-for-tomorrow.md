@@ -44,86 +44,45 @@ _Screen Play by:_ Viña Delmar
 
 _Based on a novel [_Years Are So Long_] by_ Josephine Lawrence a_nd a play [_Years Are So Long_] by:_ Helen Leary, Nolan Leary
 
-_Photographed by:_ William C. Mellor
+_Photographed by:_ William C. Mellor  
+_Special Photographic Effects by:_ Gordon Jennings  
+_Edited by:_ LeRoy Stone  
+_Art Direction by:_ Hans Dreier, Bernard Herzbrun  
+_Interior Decorations by:_ A.E. Freudeman  
+_Original Music by:_ Victor Young, George Antheil  
+_Musical Direction:_ Boris Morros  
+_Sound Recording:_ Walter Oberst, Don Johnson  
+_Sound System:_ Western Electric Noiseless Recording  
+_uncredited_  
+_Executive Producer:_ William Lebaron  
+_Assistant Director:_ Harry Scott  
 
-_Special Photographic Effects by:_
+**Cast**  
+Victor Moore _(Barkley Cooper)_  
+Beulah Bondi _(Lucy Cooper)_  
+Fay Bainter _(Anita Cooper)_  
+Thomas Mitchell _(George Cooper)_  
+Porter Hall _(Harvey Chase)_  
+Barbara Read _(Rhoda Cooper)_  
+Maurice Moscovitch _(Max Rubens)_  
+Elisabeth Risdon _(Cora Payne)_  
+Minna Gombell _(Nellie Chase)_  
+Ray Mayer _(Robert Cooper)_  
+Ralph Remley _(Bill Payne)_  
+Louise Beavers _(Mamie)_  
+Louis Jean Heydt _(doctor)_  
+Gene Morgan _(Carlton Gorman)_  
 
-Gordon Jennings
-
-_Edited by:_ LeRoy Stone
-
-_Art Direction by:_ Hans Dreier,
-
-Bernard Herzbrun
-
-_Interior Decorations by:_ A.E. Freudeman
-
-_Original Music by:_ Victor Young,
-
-George Antheil
-
-_Musical Direction:_ Boris Morros
-
-_Sound Recording:_ Walter Oberst, Don Johnson
-
-_Sound System:_ Western Electric Noiseless Recording
-
-_uncredited_
-
-_Executive Producer:_ William Lebaron
-
-_Assistant Director:_ Harry Scott
-
-_Cast:_
-
-Victor Moore _(Barkley Cooper)_
-
-Beulah Bondi _(Lucy Cooper)_
-
-Fay Bainter _(Anita Cooper)_
-
-Thomas Mitchell _(George Cooper)_
-
-Porter Hall _(Harvey Chase)_
-
-Barbara Read _(Rhoda Cooper)_
-
-Maurice Moscovitch _(Max Rubens)_
-
-Elisabeth Risdon _(Cora Payne)_
-
-Minna Gombell _(Nellie Chase)_
-
-Ray Mayer _(Robert Cooper)_
-
-Ralph Remley _(Bill Payne)_
-
-Louise Beavers _(Mamie)_
-
-Louis Jean Heydt _(doctor)_
-
-Gene Morgan _(Carlton Gorman)_
-
-_uncredited_
-
-George Offerman Jr _(Richard Payne)_
-
-Tommy Bupp _(Jack Payne)_
-
-Ferike Boros _(Mrs Sarah Rubens)_
-
-Nick Lukats _(boyfriend)_
-
-Terry Ray _(usherette)_
-
-Gene Lockhart _(Mr Henning)_
-
-Ruth Warren _(secretary)_
-
-Dell Henderson _(Ed Weldon, auto salesman)_
-
-Paul Stanton _(Mr Horton, hotel manager)_
-
+_uncredited_  
+George Offerman Jr _(Richard Payne)_  
+Tommy Bupp _(Jack Payne)_  
+Ferike Boros _(Mrs Sarah Rubens)_ 
+Nick Lukats _(boyfriend)_  
+Terry Ray _(usherette)_  
+Gene Lockhart _(Mr Henning)_  
+Ruth Warren _(secretary)_  
+Dell Henderson _(Ed Weldon, auto salesman)_  
+Paul Stanton _(Mr Horton, hotel manager)_  
 Granville Bates _(Mr Hunter)_  
 Byron Foulger _(Mr Dale)_  
 Avril Cameron _(Mrs McKenzie)_  
@@ -158,5 +117,5 @@ USA 1937©
 91 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwODM4MTQzLC02MzUzNjA2NzZdfQ==
+eyJoaXN0b3J5IjpbLTEwMzkwMTE5NywtNjM1MzYwNjc2XX0=
 -->
