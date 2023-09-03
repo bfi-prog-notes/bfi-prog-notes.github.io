@@ -1,5 +1,14 @@
-
-
+---
+layout: post
+title: Make Way for Tomorrow
+published: true
+date: 2023-09-02
+readtime: true
+categories: ['MEMBER PICKS']
+tags: [Drama]
+metadata: 'USA 1999, 188 mins<br> Director: Paul Thomas Anderson'
+pdf: '2023-09-03-magnolia.pdf'
+---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
@@ -108,5 +117,6 @@ USA 1937©
 91 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0MTQyODM5LC02MzUzNjA2NzZdfQ==
+eyJoaXN0b3J5IjpbLTEwNTY4NjMzOTMsNjE0MTQyODM5LC02Mz
+UzNjA2NzZdfQ==
 -->
