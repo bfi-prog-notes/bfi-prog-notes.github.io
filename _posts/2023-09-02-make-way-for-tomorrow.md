@@ -4,10 +4,10 @@ title: Make Way for Tomorrow
 published: true
 date: 2023-09-02
 readtime: true
-categories: ['MEMBER PICKS']
+categories: ['A FAMILY AFFAIR<br> THE FILMS OF YASUJIRO OZU']
 tags: [Drama]
-metadata: 'USA 1999, 188 mins<br> Director: Paul Thomas Anderson'
-pdf: '2023-09-03-magnolia.pdf'
+metadata: 'USA 1937, 91 mins<br> Director: Leo McCarey'
+pdf: '2023-09-02-make-way-for-tomorrow.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
@@ -117,6 +117,6 @@ USA 1937©
 91 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY4NjMzOTMsNjE0MTQyODM5LC02Mz
+eyJoaXN0b3J5IjpbLTEzOTkwOTc3MDYsNjE0MTQyODM5LC02Mz
 UzNjA2NzZdfQ==
 -->
