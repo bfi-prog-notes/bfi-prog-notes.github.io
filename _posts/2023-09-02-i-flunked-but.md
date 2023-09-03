@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: I Flunked, But...
+published: true
+date: 2023-09-02
+readtime: true
+categories: ['A FAMILY AFFAIR<br> THE FILMS OF YASUJIRO OZU']
+tags: [Comedy]
+metadata: 'USA 1937, 91 mins<br> Director: Leo McCarey'
+pdf: '2023-09-02-i-flunked-but.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -69,5 +77,5 @@ With live piano accompaniment by
 Costas Fotopoulos (2 September)  
 Neil Brand (13 September)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxNTA0NDIyXX0=
+eyJoaXN0b3J5IjpbMjM2MDYzNzU5XX0=
 -->
