@@ -25,7 +25,138 @@ It’s the first time Lucy and Bark have been away together since their New York
 The change of wind takes hold: Bark and Lucy decide to seize their remaining time, blow off their dinner appointment with their kids and revisit their honeymoon hotel. Bark treats Lucy to a cocktail, she invites him to dance, and the hatcheck girl, manager and band-leader all welcome them with touching grace.
 
 Then the clock chimes nine, and the couple must hurry to the train station. With a simple song in the back of the taxi and a farewell in front of the train carriage (‘It’s been nice knowing you, Miss Breckinridge’), the inexorable final separation is upon them. The couple have been redeemed – only to be finally parted. The music – the walk in the clouds – is over. ‘When you’re 70,’ Lucy has told Rhoda earlier in response to the latter’s callow attempts to prove her realism, ‘about the only fun you have left is pretending that there aren’t any facts to face.’ The train pulls away frame right, Lucy’s eyes flutter and try to resolve themselves, and she turns to the left as the film fades out. It’s one of the most devastating endings in cinema.  
-**Nick Bradshaw, _Sight and Sound_, November 2010**
+**Nick Bradshaw, _Sight and Sound_, November 2010**  
+<![endif]-->
+
+**Make Way for Tomorrow**
+
+_Directed by:_ Leo McCarey
+
+_©:_ Paramount Pictures, Inc.
+
+_a_ Paramount _picture_
+
+_a_ Leo McCarey _production_
+
+_Presented by:_ Adolph Zukor
+
+_Screen Play by:_ Viña Delmar
+
+_Based on a novel [_Years Are So Long_] by_ Josephine Lawrence a_nd a play [_Years Are So Long_] by:_ Helen Leary, Nolan Leary
+
+_Photographed by:_ William C. Mellor
+
+_Special Photographic Effects by:_
+
+Gordon Jennings
+
+_Edited by:_ LeRoy Stone
+
+_Art Direction by:_ Hans Dreier,
+
+Bernard Herzbrun
+
+_Interior Decorations by:_ A.E. Freudeman
+
+_Original Music by:_ Victor Young,
+
+George Antheil
+
+_Musical Direction:_ Boris Morros
+
+_Sound Recording:_ Walter Oberst, Don Johnson
+
+_Sound System:_ Western Electric Noiseless Recording
+
+_uncredited_
+
+_Executive Producer:_ William Lebaron
+
+_Assistant Director:_ Harry Scott
+
+_Cast:_
+
+Victor Moore _(Barkley Cooper)_
+
+Beulah Bondi _(Lucy Cooper)_
+
+Fay Bainter _(Anita Cooper)_
+
+Thomas Mitchell _(George Cooper)_
+
+Porter Hall _(Harvey Chase)_
+
+Barbara Read _(Rhoda Cooper)_
+
+Maurice Moscovitch _(Max Rubens)_
+
+Elisabeth Risdon _(Cora Payne)_
+
+Minna Gombell _(Nellie Chase)_
+
+Ray Mayer _(Robert Cooper)_
+
+Ralph Remley _(Bill Payne)_
+
+Louise Beavers _(Mamie)_
+
+Louis Jean Heydt _(doctor)_
+
+Gene Morgan _(Carlton Gorman)_
+
+_uncredited_
+
+George Offerman Jr _(Richard Payne)_
+
+Tommy Bupp _(Jack Payne)_
+
+Ferike Boros _(Mrs Sarah Rubens)_
+
+Nick Lukats _(boyfriend)_
+
+Terry Ray _(usherette)_
+
+Gene Lockhart _(Mr Henning)_
+
+Ruth Warren _(secretary)_
+
+Dell Henderson _(Ed Weldon, auto salesman)_
+
+Paul Stanton _(Mr Horton, hotel manager)_
+
+Granville Bates _(Mr Hunter)_  
+Byron Foulger _(Mr Dale)_  
+Avril Cameron _(Mrs McKenzie)_  
+Lelah Tyler, Bernard Suss, Helen Dickson, Mitchell Ingraham, Gloria Williams _(bridge players)_  
+Kitty Mchugh _(head usherette)_  
+Ralph Brooks _(doorman)_  
+Bobby Caldwell _(boy)_  
+Ethel Clayton _(woman customer)_  
+Ralph Lewis, Phillips Smalley _(businessmen)_  
+Howard Mitchell _(letter carrier)_  
+William Newell _(ticket seller)_  
+Ben Franklin Gibson _(beggar)_  
+Francis Sayles _(bartender)_  
+Louise Seidel _(hat check girl)_  
+Louis Natheaux _(head waiter)_  
+Joe North _(waiter)_  
+Dorothy Lloyd _(bird imitator)_  
+Lee Millar _(animal and bird imitations)_  
+Don McKinney  
+Sidney De Grey  
+John Preston  
+Bill Begg  
+Rosemary Theby  
+Fritzie Brunette  
+Helen Davis  
+Richard R. Neill  
+Alice Keating  
+Don Brodie  
+Jesse Graves  
+
+USA 1937©  
+91 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTM2MDY3Nl19
+eyJoaXN0b3J5IjpbMzIwODM4MTQzLC02MzUzNjA2NzZdfQ==
 -->
