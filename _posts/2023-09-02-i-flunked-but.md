@@ -19,36 +19,25 @@ Synopses of _I Graduated, But ..._ suggest a socially-conscious revision of _Dre
 Yet the film’s lightness of touch is also evident. Tetsuo informs Machiko that he’s jobless by pointing to the banner of the _Sunday Mainichi_ (i.e. _Sunday Daily_) and saying: ‘For me, every day is like this.’ The plot’s construction appears to be symmetrical in the manner of _Days of Youth_ and American comedy. The film begins and ends with a session with the tailor; and Tetsuo’s two visits to the company are marked by encounters with a giggling secretary. He deceives Machiko by pretending to have a job; then she deceives him by pretending not to have one. He sees her light a man’s cigarette at the bar, and when she starts to light his own at home, he announces that he knows her secret. Yet the _Kinema Jumpo_ critic found such playfulness jarring. The happy ending divorced the film from social reality, he claimed.  
 **Extracted from _Ozu and the Poetics of Cinema_ by David Bordwell (BFI/Princeton 1988) Reproduced by kind permission of Bloomsbury Publishing. ©David Bordwell**  
 <br>
-**I Graduated, But… (Daigaku wa deta keredo)**
-_Director:_ Yasujiro Ozu
 
-_Production Company:_ Shochiku Co. Ltd.
+**I GRADUATED, BUT… (DAIGAKU WA DETA KEREDO)**  
+_Director:_ Yasujiro Ozu  
+_Production Company:_ Shochiku Co. Ltd.  
+_Screenplay:_ Yoshio Aramaki  
+_Based on an idea by:_ Hiroshi Shimizu  
+_Director of Photography:_ Hideo Mohara  
+_Studio:_ Shochiku Kamata  
 
-_Screenplay:_ Yoshio Aramaki
+**Cast**  
+Minoru Takada _(Tetsuo Nomoto)_  
+Kinuyo Tanaka _(Machiko)_  
+Utako Suzuki _(Tetsuo’s mother)_  
+Kenji Ôyama _(Sugimura)_  
+Takeshi Sakamoto _(secretary)_  
+Shinichi Himori, Kenji Kimura  
 
-_Based on an idea by:_ Hiroshi Shimizu
-
-_Director of Photography:_ Hideo Mohara
-
-_Studio:_ Shochiku Kamata
-
-_Cast:_
-
-Minoru Takada _(Tetsuo Nomoto)_
-
-Kinuyo Tanaka _(Machiko)_
-
-Utako Suzuki _(Tetsuo’s mother)_
-
-Kenji Ôyama _(Sugimura)_
-
-Takeshi Sakamoto _(secretary)_
-
-Shinichi Himori, Kenji Kimura
-
-Japan 1929
-
-10 mins (fragment)
+Japan 1929  
+10 mins (fragment)  
 
 **I FLUNKED, BUT … (RAKUDAI WA SHITA KEREDO)**  
 _Director:_ Yasujiro Ozu  
@@ -80,5 +69,5 @@ With live piano accompaniment by
 Costas Fotopoulos (2 September)  
 Neil Brand (13 September)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3NDU0NzMyXX0=
+eyJoaXN0b3J5IjpbMzcxNTA0NDIyXX0=
 -->
