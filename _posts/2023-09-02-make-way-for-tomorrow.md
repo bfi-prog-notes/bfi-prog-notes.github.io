@@ -26,24 +26,15 @@ The change of wind takes hold: Bark and Lucy decide to seize their remaining tim
 
 Then the clock chimes nine, and the couple must hurry to the train station. With a simple song in the back of the taxi and a farewell in front of the train carriage (‘It’s been nice knowing you, Miss Breckinridge’), the inexorable final separation is upon them. The couple have been redeemed – only to be finally parted. The music – the walk in the clouds – is over. ‘When you’re 70,’ Lucy has told Rhoda earlier in response to the latter’s callow attempts to prove her realism, ‘about the only fun you have left is pretending that there aren’t any facts to face.’ The train pulls away frame right, Lucy’s eyes flutter and try to resolve themselves, and she turns to the left as the film fades out. It’s one of the most devastating endings in cinema.  
 **Nick Bradshaw, _Sight and Sound_, November 2010**  
-<![endif]-->
 
-**Make Way for Tomorrow**
-
-_Directed by:_ Leo McCarey
-
-_©:_ Paramount Pictures, Inc.
-
-_a_ Paramount _picture_
-
-_a_ Leo McCarey _production_
-
-_Presented by:_ Adolph Zukor
-
-_Screen Play by:_ Viña Delmar
-
-_Based on a novel [_Years Are So Long_] by_ Josephine Lawrence a_nd a play [_Years Are So Long_] by:_ Helen Leary, Nolan Leary
-
+**MAKE WAY FOR TOMORROW**  
+_Directed by:_ Leo McCarey  
+_©:_ Paramount Pictures, Inc.  
+_a_ Paramount _picture_  
+_a_ Leo McCarey _production_  
+_Presented by:_ Adolph Zukor  
+_Screen Play by:_ Viña Delmar  
+_Based on a novel [_Years Are So Long_] by_ Josephine Lawrence and a play [_Years Are So Long_] by:_ Helen Leary, Nolan Leary  
 _Photographed by:_ William C. Mellor  
 _Special Photographic Effects by:_ Gordon Jennings  
 _Edited by:_ LeRoy Stone  
@@ -117,5 +108,5 @@ USA 1937©
 91 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzkwMTE5NywtNjM1MzYwNjc2XX0=
+eyJoaXN0b3J5IjpbNjE0MTQyODM5LC02MzUzNjA2NzZdfQ==
 -->
