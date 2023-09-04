@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: The Lost Sorrows of<br>Jean Eustache
+published: true
+date: 2023-09-05
+readtime: true
+categories: ['A FAMILY AFFAIR<br> THE FILMS OF YASUJIRO OZU']
+tags: [Drama, Period]
+metadata: 'Japan 1932, 90 mins<br> Director: Yasujiro Ozu'
+pdf: '2023-09-05-last-sorrows-of--born-but.pdf'
+---
 
 As our retrospective of Jean Eustache’s work begins, join us for the screening of _The Lost Sorrows of Jean Eustache,_ followed by a conversation about Eustache and his cinema. An extremely personal portrait of the troubled director, Diaz’s documentary uses the testimony of several of Eustache’s collaborators and friends to probe the themes so strongly felt in his films, in particular the way the medium records life and reality. Following the screening, season curator David Thompson will lead a discussion with film critic Muriel Zagha and David Jenkins, Editor of _Little White Lies_, on Eustache and his extraordinary legacy.  
 
@@ -9,10 +17,9 @@ As our retrospective of Jean Eustache’s work begins, join us for the screening
 
 **Muriel Zagha** is a French writer and broadcaster based in London. She has across many years contributed to _Front Row_ and _The Saturday Review_ on Radio 4 and _Night Waves_, _Free Thinking_ and _The Essay_ on Radio 3. She has made series for Radio 4 relating to French culture, including _Le Top des Pops_ (a programme about French pop music, from Serge Gainsbourg to MC Solaar) and _Prisoners of Albion_ (about famous French exiles in Britain: Voltaire, Verlaine and Victor Hugo). She also appears regularly on the TLS podcast and recently outlined a ‘History of France in 10 Films’ on _The Rest Is History_ podcast. She writes film reviews and arts features for various publications including the _Times Literary Supplement_, _Apollo_, _Engelberg Ideas_ and _Les Inrockuptibles_. She has also had two novels published in English.
 
-Host: **David Thompson** has worked as a film programmer and film critic. Based in London, from 1990 he produced and directed arts documentaries at the BBC, working on such series as _Omnibus, Arena, Moving Pictures_ and_The Late Show._ He has made films on artists, writers, musicians and composers, as well as profiles of the directors Jean Renoir, Quentin Tarantino, Milos Forman, Paul Verhoeven and Robert Altman. Since going freelance in 2008, he worked in France for the series _Il etait une fois_ (_Once Upon a Time…)_ and for _Arena_ he made portraits of Paul Scofield, Jonathan Miller and Nicolas Roeg_._ He has programmed several seasons at the BFI, including the first retrospectives devoted to Martin Scorsese and Jonathan Demme. Aside from contributing to magazines such as _Sight and Sound_ and _Film Comment,_ he was co-editor of the book _Scorsese on Scorsese_ and editor of _Altman on Altman._
+Host: **David Thompson** has worked as a film programmer and film critic. Based in London, from 1990 he produced and directed arts documentaries at the BBC, working on such series as _Omnibus, Arena, Moving Pictures_ and_The Late Show._ He has made films on artists, writers, musicians and composers, as well as profiles of the directors Jean Renoir, Quentin Tarantino, Milos Forman, Paul Verhoeven and Robert Altman. Since going freelance in 2008, he worked in France for the series _Il etait une fois_ (_Once Upon a Time…)_ and for _Arena_ he made portraits of Paul Scofield, Jonathan Miller and Nicolas Roeg_._ He has programmed several seasons at the BFI, including the first retrospectives devoted to Martin Scorsese and Jonathan Demme. Aside from contributing to magazines such as _Sight and Sound_ and _Film Comment,_ he was co-editor of the book _Scorsese on Scorsese_ and editor of _Altman on Altman._  
 
-**Where to begin with Jean Eustache**
-
+**Where to begin with Jean Eustache**  
 In an unsurpassed era of cinematic scandals – think of _The Devils_ (1971),  
 _A Clockwork Orange_ (1971) or _La Grande Bouffe_ (1973) – the controversy provoked by Jean Eustache’s _The Mother and the Whore_ at the 1973 Cannes Festival might seem surprising. A self-styled ‘intimate epic’ shot in unadorned black and white, lasting over three and a half hours and set solely in dowdy Parisian apartments and cafés, the film portrayed a love triangle whose participants spend most of their time… talking.
 
@@ -114,5 +121,5 @@ Enjoy a great package of film benefits including priority booking at BFI Southba
 
 See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjcyMDcwNl19
+eyJoaXN0b3J5IjpbNjk3MTQ1MjNdfQ==
 -->
