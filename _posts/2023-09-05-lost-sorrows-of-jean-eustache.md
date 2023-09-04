@@ -48,10 +48,8 @@ There is clearly a game of aesthetics at play here – which is the more ‘real
 **David Thompson, bfi.org.uk, 28 August 2023**  
 <br>
 
-
-**LA PEINE PERDUEa Peine perdue de Jean Eustache**  
-**(The Lost Sorrows of Jean Eustache)**
-
+**LA PEINE PERDUE DE JEAN EUSTACHE**  
+**(THE LOST SORROWS OF JEAN EUSTACHE)**  
 _Director:_ Angel Diez  
 _Subject of Film:_ Jean Eustache  
 _Production Company:_ Films du Poisson  
@@ -60,8 +58,8 @@ _Director of Photography:_ Philippe Théaudière
 _Editor:_ Yvan Gaillard  
 _Music:_ Groupe Musical Saint-Martin de Pessac  
 _Sound:_ Jean-Pierre Ruh  
-_With:_
 
+**With**  
 Jean-Pierre Léaud  
 Michel Lonsdale  
 Boris Eustache  
@@ -96,6 +94,25 @@ Fri 15 Sep 18:20; Wed 27 Sep 20:40
 
 **With thanks to**  
 Presented in partnership with Janus Films  
+
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTk3NjI5MV19
+eyJoaXN0b3J5IjpbMTgyMjcyMDcwNl19
 -->
