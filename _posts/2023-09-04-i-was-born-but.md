@@ -122,14 +122,12 @@ Sun 17 Sep 18:20; Sat 30 Sep 12:30<br>
 Thu 21 Sep 18:00; Sun 1 Oct 15:10<br>
 **An Autumn Afternoon (Sanma no aji)**<br>
 Sun 24 Sep 18:25 (+ intro); Tue 3 Oct 20:45<br>
-
 **Influence and Inspiration**<br>
 **Make Way for Tomorrow**<br>
 Sat 2 Sep 12:40; Sun 24 Sep 15:50 (+ intro by season curator Ian Haydn Smith)<br>
 **Tokyo-Ga**<br>
 Sun 3 Sep 14:00; Mon 2 Oct 20:45<br>
 <br>
-
 
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
@@ -148,5 +146,5 @@ Enjoy a great package of film benefits including priority booking at BFI Southba
 
 See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExODIyNjI1XX0=
+eyJoaXN0b3J5IjpbLTE4NzI3NDAyNTUsNTExODIyNjI1XX0=
 -->
