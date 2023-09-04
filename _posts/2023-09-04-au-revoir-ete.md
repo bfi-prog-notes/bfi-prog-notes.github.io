@@ -52,7 +52,7 @@ _Sound Director_: Jo Keita
 _Sound Recorders_: Son Chinso, Junji Yoshikata  
 _Sound Editor_: Edison Gan
 
-_Cast**
+**Cast**  
 Fumi Nikaido _(Sakuko)_  
 Mayu Tsuruta _(Mikie)_  
 Taiga _(Takashi)_  
@@ -62,9 +62,9 @@ Ena Koshino _(Chika)_
 Makiko Watanabe _(Mizuho)_  
 Hiroko Matsuda _(Toshie)_
 
-Japan 2013
-
+Japan 2013  
 126 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODExMTY2MF19
+eyJoaXN0b3J5IjpbMTY1NDE2OTkxMV19
 -->
