@@ -47,10 +47,9 @@ A _Dirty Story_ (1977) could be considered Eustache’s last feature film, thoug
 There is clearly a game of aesthetics at play here – which is the more ‘real’ of the two versions, is one fiction and another documentary? But it’s essentially an act of provocation, challenging the audience to deal with the immense gap that exists between the two sexes. Like _The Mother and the Whore_, the film provokes discussion, but there is less of the sheer pleasure factor of its predecessor.  
 **David Thompson, bfi.org.uk, 28 August 2023**  
 <br>
-<![endif]-->
 
-**La Peine perdue de Jean Eustache**
 
+**LA PEINE PERDUEa Peine perdue de Jean Eustache**  
 **(The Lost Sorrows of Jean Eustache)**
 
 _Director:_ Angel Diez  
@@ -71,9 +70,32 @@ Sylvie Durastanti
 Le Père José Pena  
 Jean-Michel Barjol  
 Henri Martinez  
-France 1997
-53 mins
-Video
+
+France 1997  
+53 mins  
+Video  
+
+
+**LOVE, PAIN & CINEMA: THE FILMS OF JEAN EUSTACHE**  
+**The Virgin of Pessac (La Rosière de Pessac) + The Virgin of Pessac 79 (La Rosière de Pessac 79)**  
+Sun 3 Sep 14:45; Tue 12 Sep 20:20  
+**The Pig (Le Cochon) + Job Offer (Offre d’emploi) + Alix’s Pictures (Les Photos d’Alix)**  
+Sun 3 Sep 18:30; Wed 20 Sep 20:50  
+**The Lost Sorrows of Jean Eustache (La Peine perdue de Jean Eustache) + panel discussion**  
+Tue 5 Sep 18:15  
+**Robinson’s Place (Du côté de Robinson) + Santa Claus Has Blue Eyes (Le Père Noël a les yeux bleus)**  
+Tue 5 Sep 20:40; Thu 14 Sep 18:00  
+**Numéro zéro**  
+Fri 8 Sep 17:55; Sat 23 Sep 11:30  
+**The Mother and the Whore (La Maman et la putain)**  
+Sun 10 Sep 14:15; Sat 23 Sep 14:10  
+**My Little Loves (Mes petites amoureuses)**  
+Mon 11 Sep 18:05; Mon 25 Sep 20:30  
+**A Dirty Story (Une Sale histoire) + Hieronymous Bosch’s Garden of Delights (Le jardin des délices de Jérôme Bosch)**  
+Fri 15 Sep 18:20; Wed 27 Sep 20:40  
+
+**With thanks to**  
+Presented in partnership with Janus Films  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODE4OTE3M119
+eyJoaXN0b3J5IjpbMTAwNTk3NjI5MV19
 -->
