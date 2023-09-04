@@ -4,7 +4,7 @@ title: The Lost Sorrows of<br>Jean Eustache
 published: true
 date: 2023-09-05
 readtime: true
-categories: ['LOVE, PAIN AND CINEMA<br THE FILMS OF JEAN EUSTACHE']
+categories: ['LOVE, PAIN AND CINEMA<br> THE FILMS OF JEAN EUSTACHE']
 tags: [Documentary]
 metadata: 'France 1997, 53 mins<br> Director: Angel Diez'
 pdf: '2023-09-05-lost-sorrows-of-jean-eustache.pdf'
@@ -121,5 +121,5 @@ Enjoy a great package of film benefits including priority booking at BFI Southba
 
 See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjU1Mjg3NV19
+eyJoaXN0b3J5IjpbLTMyNDk4NzA1NV19
 -->
