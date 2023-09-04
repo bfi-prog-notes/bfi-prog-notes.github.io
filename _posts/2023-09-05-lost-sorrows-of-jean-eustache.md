@@ -4,10 +4,10 @@ title: The Lost Sorrows of<br>Jean Eustache
 published: true
 date: 2023-09-05
 readtime: true
-categories: ['A FAMILY AFFAIR<br> THE FILMS OF YASUJIRO OZU']
-tags: [Drama, Period]
-metadata: 'Japan 1932, 90 mins<br> Director: Yasujiro Ozu'
-pdf: '2023-09-05-last-sorrows-of--born-but.pdf'
+categories: ['LOVE, PAIN AND CINEMA<br THE FILMS OF JEAN EUSTACHE']
+tags: [Documentary]
+metadata: 'France 1997, 53 mins<br> Director: Angel Diez'
+pdf: '2023-09-05-lost-sorrows-of-jean-eustache.pdf'
 ---
 
 As our retrospective of Jean Eustache’s work begins, join us for the screening of _The Lost Sorrows of Jean Eustache,_ followed by a conversation about Eustache and his cinema. An extremely personal portrait of the troubled director, Diaz’s documentary uses the testimony of several of Eustache’s collaborators and friends to probe the themes so strongly felt in his films, in particular the way the medium records life and reality. Following the screening, season curator David Thompson will lead a discussion with film critic Muriel Zagha and David Jenkins, Editor of _Little White Lies_, on Eustache and his extraordinary legacy.  
@@ -121,5 +121,5 @@ Enjoy a great package of film benefits including priority booking at BFI Southba
 
 See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3MTQ1MjNdfQ==
+eyJoaXN0b3J5IjpbMjAzNjU1Mjg3NV19
 -->
