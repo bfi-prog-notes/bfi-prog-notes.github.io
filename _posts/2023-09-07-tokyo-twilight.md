@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: I Flunked, But...
+published: true
+date: 2023-09-02
+readtime: true
+categories: ['A FAMILY AFFAIR<br> THE FILMS OF YASUJIRO OZU']
+tags: [Comedy]
+metadata: 'Japan 1930, 65 mins<br> Director: Yasujiro Ozu'
+pdf: '2023-09-02-i-flunked-but.pdf'
+---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
@@ -13,20 +21,13 @@ _Tokyo Twilight_ is unusually, unnaturally quiet for an Ozu film. The bland, fun
 The chill melancholy of the film anticipates the air of anomie of characteristic late 50s/early 60s European films like _La Dolce Vita_, _The Fire Within_ and _Eclipse_ (and also recalls the chilliness of Val Lewton’s study of a suicide, _The Seventh Victim_, 1943). All Ozu’s films to some extent concern the effects of isolation and the dissolution of the family. But _Tokyo Twilight_ is only about such isolation and alienation, and is not necessarily a lesser film than, say, _Tokyo Story_ for its delimiting of subject. The muted sounds of a clock ticking, a train whistle or a dog barking late at night serve to underline the human silences at the heart of the film. The one sound that is not muted, that is perhaps even augmented, is that of a baby’s rattle, which its mother, Takako, accidentally kicks once and which Takako’s father picks up and shakes at the end of the film. That sound is the closest _Tokyo Twilight_ comes to a note of hope. Yet in the context of shattered lives and seemingly unaccountable breakdowns in relationships, the too harsh sound of the rattle becomes itself – if not quite pessimistic – ambiguous. The end of the film leaves the viewer with an overwhelming sense of helplessness, a helplessness that comes from seeing these two people left alone after the tragedy of the daughter’s suicide, with the tragedy of her suicide. As in _Late Spring_, we have been living with the daughter’s anguish and forgetting that of the father (and sister); and at the end we are still on the outside looking in, at these strangely ambiguous people we now realise we hardly know, and will never know. For the film ends with the father on his way to work, ‘like any other day’.  
 **Don Willis, _Sight and Sound_,  Winter 1978-79**  
 <br>
-<![endif]-->
 
-**Tokyo Twilight (Tōkyō boshoku)**
-
-_Director:_ Yasujiro Ozu
-
-_©:_ Shochiku Co. Ltd.
-
-_Production Company:_ Shochiku Co. Ltd.
-
-_Producer:_ Shizuo Yamanouchi
-
-_Assistant Director:_ Kozo Yamamoto
-
+**TOKYO TWILIGHT (TŌKYŌ BOSHOKU)**  
+_Director:_ Yasujiro Ozu  
+_©:_ Shochiku Co. Ltd.  
+_Production Company:_ Shochiku Co. Ltd.  
+_Producer:_ Shizuo Yamanouchi  
+_Assistant Director:_ Kozo Yamamoto  
 _Screenplay:_ Kogo Noda, Yasujiro Ozu  
 _Director of Photography:_ Yuharu Atsuta  
 _Lighting:_ Akira Aomatsu  
@@ -70,5 +71,5 @@ Japan 1957©
 141 mins  
 Digital 4K (restoration)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDgyMDIxNTJdfQ==
+eyJoaXN0b3J5IjpbLTE0ODAyNzgzMzNdfQ==
 -->
