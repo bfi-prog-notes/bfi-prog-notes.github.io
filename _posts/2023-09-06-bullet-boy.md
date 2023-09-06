@@ -5,8 +5,8 @@ published: true
 date: 2023-09-06
 readtime: true
 categories: ['ACTING HARD>br> WORKING CLASS MASCULINITY IN BRITISH CINEMA']
-tags: [Drama, Thriller]
-metadata: 'France-Austria-Germany-Italy 2004, 117 mins<br> Director: Michael Haneke'
+tags: [Drama]
+metadata: 'UK 2004, 89 mins<br> Director: Saul Dibb'
 pdf: '2023-09-06-bullet-boy.pdf'
 ---
 
@@ -114,7 +114,8 @@ Dolly _(Rakim)_
 UK 2004©  
 89 mins  
 Digital  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyODE0MzIsNTAyOTE2MDUsNzMwOTk4MT
-E2XX0=
+eyJoaXN0b3J5IjpbLTQ1NzYyNTcwOCw1MDI5MTYwNSw3MzA5OT
+gxMTZdfQ==
 -->
