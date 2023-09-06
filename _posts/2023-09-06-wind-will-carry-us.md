@@ -43,10 +43,11 @@ Reihan Heidari
 Lida Soltani  
 Frangis Rahsepar  
 
-France-Iran 1999©
+France-Iran 1999©  
 118 mins
 
 The screening on Wed 6 Sep will be introduced by Shohini Chaudhuri, Professor of Film Studies, University of Essex
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MjQ3NTg2NF19
+eyJoaXN0b3J5IjpbODcxMDg5NzE0XX0=
 -->
