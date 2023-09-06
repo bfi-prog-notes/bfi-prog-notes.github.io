@@ -39,20 +39,16 @@ _Music:_ Ichirô Saitô
 _Sound Recording:_ Yoshisaburo Senoo  
 _Studio:_ Shochiku Ofuna  
 
-**Cast**
+**Cast**  
 Setsuko Hara _(Takako Numata)_  
 Ineko Arima _(Akiko Sugiyama)_  
 Chishu Ryu _(Shukichi Sugiyama)_  
 Isuzu Yamada _(Kisako Soma)_  
 Teiji Takahashi _(Noburo Kawaguchi)_  
-Masami Taura _(Kenji Kimura)_
-
-Haruko Sugimura _(Shigeko Takeuchi)_
-
-Sô Yamamura _(Seki Sekiguchi)_
-
-Kinzo Shin _(Ysauo Numata)_
-
+Masami Taura _(Kenji Kimura)_  
+Haruko Sugimura _(Shigeko Takeuchi)_  
+Sô Yamamura _(Seki Sekiguchi)_  
+Kinzo Shin _(Ysauo Numata)_  
 Kamatari Fujiwara _(noodle vendor)_  
 Nobuo Nakamura _(Sakae Aiba)_  
 Seiji Miyaguchi  
