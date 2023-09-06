@@ -1,7 +1,5 @@
 
 
-<![endif]-->
-
 _Contains strong violence._
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -15,25 +13,18 @@ There is also power in the mock bucolic use of Hackney, with tower-high views of
 Always in uniform but seldom in school, Curtis wants goodness but is unconvinced by its supposed bearers: neither his teacher nor his mother’s lay preacher companion – both characterised sympathetically without wishy-washy or authoritarian caricature – seems to offer convincing alternatives to Ricky’s path. Luke Fraser gives the film’s most impressive performance, conveying the delicacy of Curtis’ multiple balancing acts with emotional force but no demand for sympathy: his love for Ricky borders on worship but is countered by the premium on machismo he increasingly apprehends as a challenge to both self-expression and self-preserving prudence. ‘I’d rather be a mummy’s boy than a crack-head’ runs his robust response to peer pressure from his mate Rio, although it’s unclear how long he can hold out. It’s a measure of the film’s sad sincerity that even as it ends with Curtis’ rejection of violence, his only binding tie seems to be a friendship already freighted with the kind of twisted obligation that does for his brother.  
 **Ben Walters, _Sight and Sound_, April 2005**  
 <br>
-<![endif]-->
 
-**Hidden Olympic Village**
+**HIDDEN OLYMPIC VILLAGE**  
+_Director:_ Simon Wheatley  
+UK 2010  
+11 mins  
 
-_Director:_ Simon Wheatley
-
-UK 2010
-
-11 mins
-
-**Bullet Boy**
-
+**BULLET BOY**  
 _Director:_ Saul Dibb  
 _©/Presented by:_ BBC Films, UK Film Council  
 _Production Company:_ Shine Productions  
 _Produced in association with:_ BBC Films  
-_Made with the support of:_
-
-The National Lottery through UK Film Council, UK Film Council New Cinema Fund  
+_Made with the support of:_ The National Lottery through UK Film Council, UK Film Council New Cinema Fund  
 _Presented in Association with:_ Portman Productions  
 _Executive Producers:_ David M. Thompson, Paul Trijbits, Paul Hamann  
 _Produced by:_ Marc Boothe, Ruth Caleb  
@@ -114,5 +105,6 @@ UK 2004©
 89 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyOTE2MDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE1MDc3NTIwNzEsNTAyOTE2MDUsNzMwOT
+k4MTE2XX0=
 -->
