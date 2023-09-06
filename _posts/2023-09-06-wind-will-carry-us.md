@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Wind Will Carry Us
+published: true
+date: 2023-09-06
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'France-Iran 1999, 118 mins<br> Director: Abbas Kiarostami'
+pdf: '2023-09-06-wind-will-carry-us.pdf'
+---
 
 Abbas Kiarostami has said recently that he’s no longer interested in filming in interiors with artificial light. In _The Wind Will Carry Us_ his devotion to landscape as cinematic spectacle seems, at first glance, to have overwhelmed the story. Not only does Kiarostami show us typically emblematic natural images, for the first time he has his characters refer to them. In the opening sequence, the strangers from Tehran look for ‘a single tree’ and ‘the winding road’ to help them reach their destination, a remote village in Iranian Kurdistan. But landscape in _The Wind Will Carry Us_ is complemented, in a new way, by a complex, labyrinthine ‘village-scape’: the village, Siah Dareh (where the strangers await the death of Mrs Malek whose mourning ceremony they intend to film), is constructed across the fold of two hills so that its roofs are pathways turning into archways and connected to the steep streets by passages and stairs. Painted white with flashes of colour, the village is a perfectly designed set for a camera constantly on the move. The specific layout of the cemetery – where the crew’s director Behzad talks on his mobile phone – also generates its own camera choreography, particularly the circular movements that follow him in one take around the summit of the hill. No one seeing this extraordinary camerawork would guess that Kiarostami and his cinematographer Mahmoud Kalari had fallen out during filming.
 
@@ -48,6 +59,59 @@ France-Iran 1999©
 
 The screening on Wed 6 Sep will be introduced by Shohini Chaudhuri, Professor of Film Studies, University of Essex
 <br><br>
+
+**BIG SCREEN CLASSICS**<br>
+**Out of Sight**<br>
+Fri 1 Sep 20:30; Thu 7 Sep 20:35; Fri 22 Sep 17:55<br>
+**Girlhood (Bande des filles)**<br>
+Sat 2 Sep 16:00; Sun 17 Sep 18:30; Mon 2 Oct 18:10<br>
+**Il bidone (The Swindle)**<br>
+Sun 3 Sep 12:20; Thu 14 Sep 20:45; Sat 30 Sep 15:40<br>
+**Hidden (Caché)**<br>
+Mon 4 Sep 18:00; Thu 21 Sep 20:40; Wed 27 Sep 17:50 (+ intro by Geoff Andrew, Programmer-at-Large)<br>
+**Notorious**<br>
+Tue 5 Sep 14:30; Sat 23 Sep 11:45; Sun 1 Oct 15:20; Tue 3 Oct 20:30<br>
+**The Wind Will Carry Us (Bad mara khahad bourd)**<br>
+Wed 6 Sep 18:10 (+ intro by Shohini Chaudhuri, Professor of Film Studies, University of Essex); Fri 15 Sep 20:40<br>
+**Ace in the Hole (aka The Big Carnival)**<br>
+Fri 8 Sep 14:40; Mon 11 Sep 20:45; Fri 29 Sep 18:00<br>
+**The Killers**<br>
+Sat 9 Sep 18:20; Tue 12 Sep 14:30; Mon 18 Sep 20:50<br>
+**The Maltese Falcon**<br>
+Sun 10 Sep 11:50; Mon 25 Sep 14:40; Tue 26 Sep 20:55<br>
+**F for Fake**<br>
+Wed 13 Sep 18:20 (+ intro by Jason Wood, BFI Executive Director of Public Programmes & Audiences); Thu 21 Sep 18:30<br>
+**Barry Lyndon**<br>
+Sat 16 Sep 19:30; Sun 24 Sep 14:30<br>
+**The Kid with a Bike (Le Gamin au vélo)**<br>
+Tue 19 Sep 20:45; Tue 26 Sep 18:05<br>
+**Au revoir les enfants**<br>
+Wed 20 Sep 18:00 (+ intro by film critic and lecturer Dr Julia Wagner); Thu 28 Sep 20:45<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbODcxMDg5NzE0XX0=
 -->
