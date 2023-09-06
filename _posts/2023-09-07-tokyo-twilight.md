@@ -1,13 +1,13 @@
 ---
 layout: post
-title: I Flunked, But...
+title: Tokyo Twilight
 published: true
-date: 2023-09-02
+date: 2023-09-07
 readtime: true
 categories: ['A FAMILY AFFAIR<br> THE FILMS OF YASUJIRO OZU']
-tags: [Comedy]
-metadata: 'Japan 1930, 65 mins<br> Director: Yasujiro Ozu'
-pdf: '2023-09-02-i-flunked-but.pdf'
+tags: [Drama]
+metadata: 'Japan 1957, 141 mins<br> Director: Yasujiro Ozu'
+pdf: '2023-09-07-tokyo-twilight.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
@@ -71,5 +71,5 @@ Japan 1957©
 141 mins  
 Digital 4K (restoration)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODAyNzgzMzNdfQ==
+eyJoaXN0b3J5IjpbLTc0NDY3MjM0Nl19
 -->
