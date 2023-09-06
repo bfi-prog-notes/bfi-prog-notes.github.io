@@ -33,12 +33,8 @@ _Production Company:_ Shine Productions
 _Produced in association with:_ BBC Films  
 _Made with the support of:_
 
-The National Lottery through UK Film Council,
-
-UK Film Council New Cinema Fund  
-_Presented in Association with:_
-
-Portman Productions  
+The National Lottery through UK Film Council, UK Film Council New Cinema Fund  
+_Presented in Association with:_ Portman Productions  
 _Executive Producers:_ David M. Thompson, Paul Trijbits, Paul Hamann  
 _Produced by:_ Marc Boothe, Ruth Caleb  
 _Co-producer:_ Michael Tait  
@@ -118,5 +114,5 @@ UK 2004©
 89 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTI0NDAyMSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNTAyOTE2MDUsNzMwOTk4MTE2XX0=
 -->
