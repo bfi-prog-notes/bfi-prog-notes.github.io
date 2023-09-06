@@ -37,26 +37,19 @@ For me, naturalism and realism are two different things. Acting requires somethi
 **Film Movement production notes**
 <br><br>
 
-**HARMONIUM (FUCHI NI TATSU)**
+**HARMONIUM (FUCHI NI TATSU)**  
 _Directed by_: Kōji Fukada  
-©: Fuchi Ni Tatsu Film Partners,  
-Comme des Cinémas  
+©: Fuchi Ni Tatsu Film Partners,  Comme des Cinémas  
 _Production Companies_: Comme des Cinémas, Nagoya Broadcasting Network  
-_In co-production with_: MAM Film,  
-Aeon Entertainment, Elephant House,  
-Asahi Shimbun Company, MAM  
-_With the participation of_:  
-L’aide aux cinémas du monde  
+_In co-production with_: MAM Film,  Aeon Entertainment, Elephant House, Asahi Shimbun Company, MAM  
+_With the participation of_:  L’aide aux cinémas du monde  
 _Executive production_: Mountaingate Production, Comme des Cinémas  
-_Co-producers_: Nagoya Broadcasting Network, Comme des Cinémas, MAM Film,  
-Aeon Entertainment, Elephant House, MAM,  
-Asahi Shimbun Company  
+_Co-producers_: Nagoya Broadcasting Network, Comme des Cinémas, MAM Film,  Aeon Entertainment, Elephant House, MAM,  Asahi Shimbun Company  
 _With the participation of_: L’aide aux cinémas du monde, Centre National du Cinéma et de l'Image Animée, Ministère des Affaires étrangères et du Développement international, Institut Français  
 _International Sales_: MK2 Films  
 _Producers_: Hiroshi Niimura, Masa Sawada  
 _Line Producer Japan_: Toyama Toyama  
-_Associate Producers_: Koichiro Fukushima,  
-Yoshito Oyama, Kōji Fukada, Kazumasa Yonemitsu  
+_Associate Producers_: Koichiro Fukushima,  Yoshito Oyama, Kōji Fukada, Kazumasa Yonemitsu  
 _Production Manager_: You Minami  
 _Unit Manager_: Kaoru Mimura  
 _Post-production Supervisor_: Laurent Harjani  
@@ -71,15 +64,13 @@ _Art Director_: Kensuke Suzuki
 _Costumes_: Murashima Keiko  
 _Make-up_: Miwako Sugahara  
 _Hairdresser_: Miwako Sugahara  
-_Music/Original Music Composed by_:  
-Hiroyuki Onogawa  
+_Music/Original Music Composed by_:  Hiroyuki Onogawa  
 _Music Supervisor_: Masayoshi Okawa  
 _Sound Recordist_: Junji Yoshikata  
 _Sound Mixer_: Olivier Goinard  
 _Sound Editor_: Junji Yoshikata
 
-_Cast:_
-
+**Cast**  
 Tadanobu Asano _(Yasaka)_  
 Mariko Tsutsui _(Akie)_  
 Taiga _(Takashi)_  
@@ -88,9 +79,9 @@ Kana Mahiro _(adult Hotaru)_
 Kanji Furutachi _(Toshio)_  
 Takahiro Miura _(Atusi)_
 
-Japan-France 2016©
-
-120 mins
+Japan-France 2016©  
+120 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxNzMxOTkzXX0=
+eyJoaXN0b3J5IjpbLTc4MjM2MDczNV19
 -->
