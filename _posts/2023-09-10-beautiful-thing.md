@@ -7,7 +7,7 @@ readtime: true
 categories: ['ACTING HARD<br> WORKING CLASS MASCULINITY IN BRITISH CINEMA']
 tags: [Comedy]
 metadata: 'UK 1996, 91 mins<br> Director: Hettie MacDonald'
-pdf: '2023-09-07-face.pdf'
+pdf: '2023-09-10-beautiful-thing.pdf'
 ---
 
 The mid-1990s was a watershed period for independent gay and lesbian film, not only because of the number of feature and short films being made, but because of the critical interest which accompanied them. Contemporary in its subject matter and style, _Beautiful Thing_ (1995) offered a multicultural perspective of post-Thatcher Britain. The film was written by Jonathan Harvey and marked the debut of young director Hettie MacDonald, who had emerged from a theatre background, having directed her first West End play at 24.
@@ -111,6 +111,57 @@ Dave Lynn _(drag performer)_
 UK 1996  
 91 mins  
 35 mm  
+<br>
+
+**ACTING HARD: WORKING CLASS MASCULINITY IN BRITISH CINEMA**  
+**Scum**  
+Sat 2 Sep 17:50; Fri 8 Sep 18:20  
+**Bullet Boy**  
+Wed 6 Sep 20:50; Sat 9 Sep 20:55  
+**Face**  
+Thu 7 Sep 18:10 (+ intro by season curator Nia Childs); Mon 18 Sep 20:45  
+**Beautiful Thing**  
+Sun 10 Sep 18:30; Fri 22 Sep 20:40  
+**Dead Man’s Shoes + Q&A with Shane Meadows and Paddy Considine**  
+Tue 12 Sep 18:10  
+**Sweet Sixteen**  
+Wed 13 Sep 18:00; Mon 25 Sep 20:40  
+**Blue Story**  
+Thu 14 Sep 18:15; Sat 23 Sep 20:40  
+**My Beautiful Laundrette**  
+Wed 20 Sep 18:10; Thu 28 Sep 20:30  
+**Muscle + Q&A with director Gerard Johnson, actors Craig Fairbrass, Cavan Clerkin and Polly Maberly**  
+Fri 22 Sep 18:00  
+**Sexy Beast**  
+Sat 23 Sep 18:20; Mon 2 Oct 20:30  
+**Mona Lisa**  
+Sun 24 Sep 18:20; Fri 29 Sep 20:30  
+**Govan Ghost Story**  
+Mon 25 Sep 18:30  
+**The Football Factory + intro by Danny Dyer**  
+Mon 25 Sep 20:45  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk) 
+<br>
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTA1MTkyNjUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTk3ODUyMTk0NSw3MzA5OTgxMTZdfQ==
 -->
