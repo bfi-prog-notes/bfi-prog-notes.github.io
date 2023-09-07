@@ -13,7 +13,68 @@ Another religious image, derived more from folk traditions than from shrine Shin
 
 An interpretative critic might go on to see the film as enacting a ‘battle’ of Japanese religions, with official Shinto and folk religion ‘defeated’ by a final emergence of Zen Buddhism. But this would miss the obvious and clichéd nature of the imagery which Ozu uses opportunistically, as pretext for asides (are these not the picturesque cutaways of an urban outsider?) and as realistically motivated material for formal patterning. Yet this material, unlike the yoyos and victrolas of _Dragnet Girl_, resists complete assimilation. The toning down of Kihachi’s character and the replacement of decentring gaps by a subdued irony are only two symptoms of a general muting of formal work. It is as if the rural subject and the religious iconography could not, at the risk of transgressing one currently powerful definition of Japanese tradition, become completely obedient to Ozu’s aesthetic system. The _daruma_ cannot be made the butt of visual jokes as Nipper is, and village life cannot be satirised as severely as can the student or salaryman culture.  
 **David Bordwell, _Ozu and the Poetics of Cinema_ (BFI/Princeton, 1988) Reproduced by kind permission of Bloomsbury Publishing © David Bordwell**  
+<br>
+<![endif]-->
 
+**A STORY OF FLOATING WEEDS (UKIGUSA MONOGATARI)**
+
+_Director:_ Yasujiro Ozu
+
+_©:_ Shochiku Co. Ltd.
+
+_Production Company:_ Shochiku Co. Ltd.
+
+_Assistant Directors:_ Kenkichi Hara,
+
+Hamao Negishi, Tokio Tanaka, Kazuo Ishikawa
+
+_Screenplay:_ Tadao Ikeda
+
+_Based on an idea by:_ James Maki
+
+_Based on the film ‘The Barker’ by:_
+
+George Fitzmaurice *
+
+_Director of Photography:_ Hideo Mohara
+
+_Lighting:_ Toshimitsu Nakajima
+
+_Camera Assistants:_ Masao Irie, Yuharu Atsuta  
+_Editor:_ Hideo Mohara  
+_Art Director:_ Tatsuo Hamada  
+_Set Designers:_ Yakichi Otani, Tamizo Kadota  
+_Set Decorators:_ Shintaro Mishima, Yoshio Hino  
+_Costumes:_ Taizo Saito  
+_Studio:_ Shochiku Kamata  
+
+**Cast**  
+Takeshi Sakamoto _(Kihachi Ichikawa)_  
+Chôko Iida _(Otsune, café-keeper)_  
+Hideo Mitsui _(Shinkichi, Ichikawa’s son)_  
+Rieko Yagumo _(Otaka)_  
+Yoshiko Tsubouchi _(Otoki)_  
+Tokkan Kozo _(Tomibo)_  
+Reiko Tani _(Tomibo’s father)_  
+Seiji Nishimura _(Kichan)_  
+Nagamasa Yamada _(Mako)_  
+Yoko Taira _(man in cottage)_  
+Mitsuru Wakamiya _(station employee)_  
+Mariko Aoyama _(barber’s wife)_  
+Koson Ikebe _(village man)_  
+Kiyoshi Aono  
+Munenobu Yui  
+Shusuke Agata  
+
+Japan 1934©  
+86 mins  
+35mm  
+
+* Uncredited  
+
+With live piano accompaniment by  
+Meg Morley (9 September)  
+John Sweeney (23 September)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTcwMjUzXX0=
+eyJoaXN0b3J5IjpbNTE5NzE4NjcxLDIxMDE3MDI1M119
 -->
