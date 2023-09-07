@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Beautiful Thing
+published: true
+date: 2023-09-10
+readtime: true
+categories: ['ACTING HARD<br> WORKING CLASS MASCULINITY IN BRITISH CINEMA']
+tags: [Comedy]
+metadata: 'UK/South Africa 1997, 110 mins<br> Director: Antonia Bird'
+pdf: '2023-09-07-face.pdf'
+---
 
 The mid-1990s was a watershed period for independent gay and lesbian film, not only because of the number of feature and short films being made, but because of the critical interest which accompanied them. Contemporary in its subject matter and style, _Beautiful Thing_ (1995) offered a multicultural perspective of post-Thatcher Britain. The film was written by Jonathan Harvey and marked the debut of young director Hettie MacDonald, who had emerged from a theatre background, having directed her first West End play at 24.
 
@@ -35,5 +45,5 @@ As a play, _Beautiful Thing_ received criticism for dodging difficult issues. Th
 <br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDkyMzgyMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEzOTU1MzQwNjMsNzMwOTk4MTE2XX0=
 -->
