@@ -6,8 +6,8 @@ date: 2023-09-08
 readtime: true
 categories: ['A FAMILY AFFAIR<br> THE FILMS OF YASUJIRO OZU']
 tags: [Drama]
-metadata: 'Japan 1936, 83 mins<br> Director: Yasujiro Ozu'
-pdf: '2023-09-08-only-son.pdf'
+metadata: 'Japan 1934, 86 mins<br> Director: Yasujiro Ozu'
+pdf: '2023-09-09-story-of-floating-weeds.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -143,5 +143,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3ODQzMTUwLDIxMDE3MDI1M119
+eyJoaXN0b3J5IjpbMjAwMTIzMzA0Miw3ODc4NDMxNTAsMjEwMT
+cwMjUzXX0=
 -->
