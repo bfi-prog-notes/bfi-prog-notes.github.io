@@ -62,7 +62,7 @@ Japan 1934©
 86 mins  
 35mm  
 
-* Uncredited  
+\* Uncredited  
 
 With live piano accompaniment by  
 Meg Morley (9 September)  
@@ -143,6 +143,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTIzMzA0Miw3ODc4NDMxNTAsMjEwMT
-cwMjUzXX0=
+eyJoaXN0b3J5IjpbMjU5OTYxNzgsMjAwMTIzMzA0Miw3ODc4ND
+MxNTAsMjEwMTcwMjUzXX0=
 -->
