@@ -71,84 +71,46 @@ _Production Designer_: Mark Stevenson
 _Art Director_: Chrysoula Sofitsi  
 _Scenic Artist_: Guy Rutter  
 _Costume Designer_: Pam Tait  
-_Wardrobe Mistress_: Charlotte Couchman
-_Make-up Designer_: Elisa Johnson
+_Wardrobe Mistress_: Charlotte Couchman  
+_Make-up Designer_: Elisa Johnson  
+_Chief Hairdresser_: Pebbles  
+_Titles_: Linda Sherwood-Page  
+_Original Music Composer/Conductor/Arranger_: John Altman  
+_Sound Mixer_: John Midgley  
+_2nd Unit Sound Recordist_: Paul Lemare  
+_Dubbing Mixer_: David Old  
+_Sound Editors_: Kevin Brazier, Wayne Brooks  
+_Stunt Co-ordinators_: David Cronnelly, Gabe Cronnelly  
 
-_Chief Hairdresser_: Pebbles
+**Cast**  
+Glen Berry _(Jamie Gangel)_  
+Linda Henry _(Sandra Gangel)_  
+Scott Neal _(Ste Pearce)_  
+Ben Daniels _(Tony)_  
+Tameka Empson _(Leah)_  
+Meera Syal _(Miss Chauhan)_  
+Martin Walsh _(Mr Bennett)_  
+Steven Martin _(Ryan McBride)_  
+Andrew Fraser _(Jayson)_  
+John Savage _(Lenny)_  
+Julie Smith _(Gina)_  
+Jeillo Edwards _(Rose)_  
+Anna Karen _(Marlene)_  
+Garry Cooper _(Ronnie Pearce)_  
+Daniel Bowers _(Trevor Pearce)_  
+Terry Duggan _(Kevin)_  
+Sophie Stanton _(Louise)_  
+Ozdemir Mamodeally _(Slasher)_  
+John Benfield _(Rodney Barr)_  
+Davyd Harries, Beth Goddard _(brewery officials)_  
+Marlene Sidaway _(Betty)_  
+Liane Ware _(Claire)_  
+Catherine Sanderson _(Kelly)_  
+Dave Lynn _(drag performer)_  
 
-_Titles_: Linda Sherwood-Page
-
-_Original Music Composer/Conductor/Arranger_:
-
-John Altman
-
-_Sound Mixer_: John Midgley
-
-_2nd Unit Sound Recordist_: Paul Lemare
-
-_Dubbing Mixer_: David Old
-
-_Sound Editors_: Kevin Brazier, Wayne Brooks
-
-_Stunt Co-ordinators_: David Cronnelly,
-
-Gabe Cronnelly
-
-_Cast:_
-
-Glen Berry _(Jamie Gangel)_
-
-Linda Henry _(Sandra Gangel)_
-
-Scott Neal _(Ste Pearce)_
-
-Ben Daniels _(Tony)_
-
-Tameka Empson _(Leah)_
-
-Meera Syal _(Miss Chauhan)_
-
-Martin Walsh _(Mr Bennett)_
-
-Steven Martin _(Ryan McBride)_
-
-Andrew Fraser _(Jayson)_
-
-John Savage _(Lenny)_
-
-Julie Smith _(Gina)_
-
-Jeillo Edwards _(Rose)_
-
-Anna Karen _(Marlene)_
-
-Garry Cooper _(Ronnie Pearce)_
-
-Daniel Bowers _(Trevor Pearce)_
-
-Terry Duggan _(Kevin)_
-
-Sophie Stanton _(Louise)_
-
-Ozdemir Mamodeally _(Slasher)_
-
-John Benfield _(Rodney Barr)_
-
-Davyd Harries_,_ Beth Goddard _(brewery officials)_
-
-Marlene Sidaway _(Betty)_
-
-Liane Ware _(Claire)_
-
-Catherine Sanderson _(Kelly)_
-
-Dave Lynn _(drag performer)_
-
-UK 1996
-
-91 mins
-
-35 mm
+UK 1996  
+91 mins  
+35 mm  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzYzMTkwMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1NTA1MTkyNjUsNzMwOTk4MTE2XX0=
 -->
