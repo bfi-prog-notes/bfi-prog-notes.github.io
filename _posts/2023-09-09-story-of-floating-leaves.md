@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: A  Story of Floating Weeds
+published: true
+date: 2023-09-08
+readtime: true
+categories: ['A FAMILY AFFAIR<br> THE FILMS OF YASUJIRO OZU']
+tags: [Drama]
+metadata: 'Japan 1936, 83 mins<br> Director: Yasujiro Ozu'
+pdf: '2023-09-08-only-son.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -14,32 +21,17 @@ Another religious image, derived more from folk traditions than from shrine Shin
 An interpretative critic might go on to see the film as enacting a ‘battle’ of Japanese religions, with official Shinto and folk religion ‘defeated’ by a final emergence of Zen Buddhism. But this would miss the obvious and clichéd nature of the imagery which Ozu uses opportunistically, as pretext for asides (are these not the picturesque cutaways of an urban outsider?) and as realistically motivated material for formal patterning. Yet this material, unlike the yoyos and victrolas of _Dragnet Girl_, resists complete assimilation. The toning down of Kihachi’s character and the replacement of decentring gaps by a subdued irony are only two symptoms of a general muting of formal work. It is as if the rural subject and the religious iconography could not, at the risk of transgressing one currently powerful definition of Japanese tradition, become completely obedient to Ozu’s aesthetic system. The _daruma_ cannot be made the butt of visual jokes as Nipper is, and village life cannot be satirised as severely as can the student or salaryman culture.  
 **David Bordwell, _Ozu and the Poetics of Cinema_ (BFI/Princeton, 1988) Reproduced by kind permission of Bloomsbury Publishing © David Bordwell**  
 <br>
-<![endif]-->
 
-**A STORY OF FLOATING WEEDS (UKIGUSA MONOGATARI)**
-
-_Director:_ Yasujiro Ozu
-
-_©:_ Shochiku Co. Ltd.
-
-_Production Company:_ Shochiku Co. Ltd.
-
-_Assistant Directors:_ Kenkichi Hara,
-
-Hamao Negishi, Tokio Tanaka, Kazuo Ishikawa
-
-_Screenplay:_ Tadao Ikeda
-
-_Based on an idea by:_ James Maki
-
-_Based on the film ‘The Barker’ by:_
-
-George Fitzmaurice *
-
-_Director of Photography:_ Hideo Mohara
-
-_Lighting:_ Toshimitsu Nakajima
-
+**A STORY OF FLOATING WEEDS (UKIGUSA MONOGATARI)**  
+_Director:_ Yasujiro Ozu  
+_©:_ Shochiku Co. Ltd.  
+_Production Company:_ Shochiku Co. Ltd.  
+_Assistant Directors:_ Kenkichi Hara, Hamao Negishi, Tokio Tanaka, Kazuo Ishikawa  
+_Screenplay:_ Tadao Ikeda  
+_Based on an idea by:_ James Maki  
+_Based on the film ‘The Barker’ by:_ George Fitzmaurice *  
+_Director of Photography:_ Hideo Mohara  
+_Lighting:_ Toshimitsu Nakajima  
 _Camera Assistants:_ Masao Irie, Yuharu Atsuta  
 _Editor:_ Hideo Mohara  
 _Art Director:_ Tatsuo Hamada  
@@ -75,6 +67,81 @@ Japan 1934©
 With live piano accompaniment by  
 Meg Morley (9 September)  
 John Sweeney (23 September)  
+<br>
+**A FAMILY AFFAIR: THE FILMS OF YASUJIRO OZU**<br>
+**Tokyo Story (Tōkyō monogatari)**<br>
+From Fri 1 Sep<br>
+**I Flunked, But... (Rakudai wa shitakeredo)**<br>
+Sat 2 Sep 16:15; Wed 13 Sep 20:35<br>
+**Tokyo Chorus (Tōkyō no kōrasu)**<br>
+Sat 2 Sep 18:30; Sun 17 Sep 16:00<br>
+**An Autumn Evening with Yasujirō Ozu**<br>
+Mon 4 Sep 18:15<br>
+**I Was Born, But... (Umarete wa mita keredo)**<br>
+Mon 4 Sep 20:30 (+ intro by Jinhee Choi, King’s College London); Fri 15 Sep 18:30<br>
+**Tokyo Twilight (Tōkyō boshoku)**<br>
+Thu 7 Sep 18:00; Wed 27 Sep 20:15<br>
+**The Only Son (Hitori musuko)**<br>
+Fri 8 Sep 20:40; Sat 16 Sep 18:10 (+ intro by season curator Ian Haydn Smith)<br>
+**A Story of Floating Weeds (Ukigusa monogatari)**<br>
+Sat 9 Sep 11:50; Sat 23 Sep 16:00<br>
+**Good Morning (Ohayō)**<br>
+Sat 9 Sep 18:10; Sat 30 Sep 20:40<br>
+**Floating Weeds (Ukigusa)**<br>
+Sat 9 Sep 20:30; Sun 1 Oct 11:30 BFI IMAX; Mon 2 Oct 18:00<br>
+**Late Spring (Banshun)**<br>
+Sun 10 Sep 12:15 (+ intro by season curator, Ian Haydn Smith); Fri 22 Sep 20:50<br>
+**Early Summer (Bakushu)**<br>
+Sun 10 Sep 15:00; Wed 13 Sep 14:30; Sat 23 Sep 20:35<br>
+**Brothers and Sisters of the Toda Family (Todake no kyōdai)**<br>
+Mon 11 Sep 18:00; Sat 30 Sep 18:20<br>
+**There Was a Father (Chichi ariki)**<br>
+Mon 11 Sep 20:40; Thu 28 Sep 18:20<br>
+**City Lit at BFI: Ozu: Cinema of Everyday Life**<br>
+Tue 12 Sep – 3 Oct 18:30-20:30<br>
+**Record of a Tenement Gentleman (Nagaya Shinshiroku)**<br>
+Tue 12 Sep 20:30; Wed 20 Sep 21:00; Sat 23 Sep 18:30<br>
+**Early Spring (Sōshun)**<br>
+Thu 14 Sep 20:10; Sun 1 Oct 18:00<br>
+**The Flavour of Green Tea Over Rice (Ochazuke no aji)**<br>
+Fri 15 Sep 20:45; Sat 30 Sep 15:30<br>
+**The Anatomy of Ozu**<br>
+Sat 16 Sep 12:00-17:00<br>
+**Late Autumn (Akibiyori)**<br>
+Sun 17 Sep 18:20; Sat 30 Sep 12:30<br>
+**Equinox Flower (Higanbana)**<br>
+Thu 21 Sep 18:00; Sun 1 Oct 15:10<br>
+**An Autumn Afternoon (Sanma no aji)**<br>
+Sun 24 Sep 18:25 (+ intro); Tue 3 Oct 20:45<br>
+
+**Influence and Inspiration**<br>
+**Make Way for Tomorrow**<br>
+Sat 2 Sep 12:40; Sun 24 Sep 15:50 (+ intro by season curator Ian Haydn Smith)<br>
+**Tokyo-Ga**<br>
+Sun 3 Sep 14:00; Mon 2 Oct 20:45<br>
+<br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5NzE4NjcxLDIxMDE3MDI1M119
+eyJoaXN0b3J5IjpbNzg3ODQzMTUwLDIxMDE3MDI1M119
 -->
