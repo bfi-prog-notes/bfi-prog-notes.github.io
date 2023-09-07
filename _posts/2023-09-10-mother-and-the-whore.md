@@ -53,41 +53,24 @@ As the generation of 1968, now twice as old as the film, segues smoothly from on
 <br>
 
 **LA MAMAN ET LA PUTAIN (THE MOTHER AND THE WHORE)**  
-_Director:_ Jean Eustache
+_Director:_ Jean Eustache  
+_Production Companies:_ Films du Losange (Paris), Élite Films, Cine Qua Non, Simar Films, V.M. Productions  
+_Producer:_ Pierre Cottrell  
+_Production Manager:_ Claude Bertrand  
+_Assistant Directors:_ Luc Béraud, Rémy Duchemin  
+_Script Girl:_ Irina Lhomme  
+_Scenario/Dialogue:_ Jean Eustache  
+_Director of Photography:_ Pierre Lhomme  
+_Camera Assistants:_ Jacques Renard, Michel Cenet  
+_Stills Photography:_ Bernard Prim  
+_Editors:_ Jean Eustache, Denise de Casabianca  
+_Assistant Editor:_ Monique Prim  
+_Titles:_ Films Michel François  
+_Sound Recording:_ Jean-Pierre Ruh, Paul Lainé  
+_Sound Re-recording:_ Nara Kollery  
+_Sound Studio:_ Paris Studios Billancourt  
 
-_Production Companies:_ Films du Losange (Paris), Élite Films, Cine Qua Non, Simar Films,
-
-V.M. Productions
-
-_Producer:_ Pierre Cottrell
-
-_Production Manager:_ Claude Bertrand
-
-_Assistant Directors:_ Luc Béraud, Rémy Duchemin
-
-_Script Girl:_ Irina Lhomme
-
-_Scenario/Dialogue:_ Jean Eustache
-
-_Director of Photography:_ Pierre Lhomme
-
-_Camera Assistants:_ Jacques Renard, Michel Cenet
-
-_Stills Photography:_ Bernard Prim
-
-_Editors:_ Jean Eustache, Denise de Casabianca
-
-_Assistant Editor:_ Monique Prim
-
-_Titles:_ Films Michel François
-
-_Sound Recording:_ Jean-Pierre Ruh, Paul Lainé
-
-_Sound Re-recording:_ Nara Kollery
-
-_Sound Studio:_ Paris Studios Billancourt
-
-_Cast**  
+**Cast**  
 Françoise Lebrun _(Veronika Osterwald)_  
 Bernadette Lafont _(Marie)_  
 Jean-Pierre Léaud _(Alexandre)_  
@@ -113,6 +96,50 @@ France 1973
 Digital 4K (restoration)  
 
 \* Uncredited
+<br>
+**LOVE, PAIN & CINEMA: THE FILMS OF JEAN EUSTACHE**  
+**The Virgin of Pessac (La Rosière de Pessac) + The Virgin of Pessac 79 (La Rosière de Pessac 79)**  
+Sun 3 Sep 14:45; Tue 12 Sep 20:20  
+**The Pig (Le Cochon) + Job Offer (Offre d’emploi) + Alix’s Pictures (Les Photos d’Alix)**  
+Sun 3 Sep 18:30; Wed 20 Sep 20:50  
+**The Lost Sorrows of Jean Eustache (La Peine perdue de Jean Eustache) + panel discussion**  
+Tue 5 Sep 18:15  
+**Robinson’s Place (Du côté de Robinson) + Santa Claus Has Blue Eyes (Le Père Noël a les yeux bleus)**  
+Tue 5 Sep 20:40; Thu 14 Sep 18:00  
+**Numéro zéro**  
+Fri 8 Sep 17:55; Sat 23 Sep 11:30  
+**The Mother and the Whore (La Maman et la putain)**  
+Sun 10 Sep 14:15; Sat 23 Sep 14:10  
+**My Little Loves (Mes petites amoureuses)**  
+Mon 11 Sep 18:05; Mon 25 Sep 20:30  
+**A Dirty Story (Une Sale histoire) + Hieronymous Bosch’s Garden of Delights (Le jardin des délices de Jérôme Bosch)**  
+Fri 15 Sep 18:20; Wed 27 Sep 20:40  
+
+**With thanks to**  
+Presented in partnership with Janus Films  
+
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+<br>
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5MDU3NjYyLDY3Mzk1MzQ0Nl19
+eyJoaXN0b3J5IjpbMTEwMTM3MDQ4MCw2NzM5NTM0NDZdfQ==
 -->
