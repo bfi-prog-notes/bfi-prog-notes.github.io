@@ -6,8 +6,8 @@ date: 2023-09-10
 readtime: true
 categories: ['LOVE, PAIN AND CINEMA<br> THE FILMS OF JEAN EUSTACHE']
 tags: [Drama]
-metadata: 'France 1997, 53 mins<br> Director: Angel Diez'
-pdf: '2023-09-05-lost-sorrows-of-jean-eustache.pdf'
+metadata: 'France 1973, 220 mins<br> Director: Jean Eustache'
+pdf: '2023-09-10-mother-and-the-whore.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
@@ -149,5 +149,5 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjYzMzY1Myw2NzM5NTM0NDZdfQ==
+eyJoaXN0b3J5IjpbLTEyNTE1NTk0OTEsNjczOTUzNDQ2XX0=
 -->
