@@ -6,7 +6,7 @@ date: 2023-09-10
 readtime: true
 categories: ['ACTING HARD<br> WORKING CLASS MASCULINITY IN BRITISH CINEMA']
 tags: [Comedy]
-metadata: 'UK/South Africa 1997, 110 mins<br> Director: Antonia Bird'
+metadata: 'UK 1996, 91 mins<br> Director: Hettie MacDonald'
 pdf: '2023-09-07-face.pdf'
 ---
 
@@ -44,6 +44,111 @@ As a play, _Beautiful Thing_ received criticism for dodging difficult issues. Th
 **Liese Spencer, _Sight and Sound_, June 1996**  
 <br>
 
+**TOO ROUGH**  
+Director Sean Lìonadh  
+UK 2022  
+15 mins  
+
+**BEAUTIFUL THING**  
+_Director_: Hettie MacDonald  
+_Production Companies_: World Productions, Channel Four  
+_Producers_: Tony Garnett, Bill Shapter  
+_Production Supervisor_: Nick O’Hagan  
+_Production Co-ordinator_: Danielle Brandon  
+_Location Managers_: Jim Allan, Barry Smith  
+_1st Assistant Director_: Susie Liggat  
+_2nd Assistant Director_: James Imber  
+_3rd Assistant Directors_: Victoria Goodall, Jim Wilkinson  
+_Script Supervisor_: Susanna Lenton  
+_Casting_: Andy Pryor, Gail Stevens  
+_Written by_: Jonathan Harvey  
+_Based on the play by_: Jonathan Harvey  
+_Director of Photography_: Chris Seager  
+_2nd Unit Operator_: Jeremy Hiles  
+_Steadicam Operators_: Alf Tramontin, Adrian Smith  
+_Editor_: Don Fairservice  
+_Production Designer_: Mark Stevenson  
+_Art Director_: Chrysoula Sofitsi  
+_Scenic Artist_: Guy Rutter  
+_Costume Designer_: Pam Tait  
+_Wardrobe Mistress_: Charlotte Couchman
+_Make-up Designer_: Elisa Johnson
+
+_Chief Hairdresser_: Pebbles
+
+_Titles_: Linda Sherwood-Page
+
+_Original Music Composer/Conductor/Arranger_:
+
+John Altman
+
+_Sound Mixer_: John Midgley
+
+_2nd Unit Sound Recordist_: Paul Lemare
+
+_Dubbing Mixer_: David Old
+
+_Sound Editors_: Kevin Brazier, Wayne Brooks
+
+_Stunt Co-ordinators_: David Cronnelly,
+
+Gabe Cronnelly
+
+_Cast:_
+
+Glen Berry _(Jamie Gangel)_
+
+Linda Henry _(Sandra Gangel)_
+
+Scott Neal _(Ste Pearce)_
+
+Ben Daniels _(Tony)_
+
+Tameka Empson _(Leah)_
+
+Meera Syal _(Miss Chauhan)_
+
+Martin Walsh _(Mr Bennett)_
+
+Steven Martin _(Ryan McBride)_
+
+Andrew Fraser _(Jayson)_
+
+John Savage _(Lenny)_
+
+Julie Smith _(Gina)_
+
+Jeillo Edwards _(Rose)_
+
+Anna Karen _(Marlene)_
+
+Garry Cooper _(Ronnie Pearce)_
+
+Daniel Bowers _(Trevor Pearce)_
+
+Terry Duggan _(Kevin)_
+
+Sophie Stanton _(Louise)_
+
+Ozdemir Mamodeally _(Slasher)_
+
+John Benfield _(Rodney Barr)_
+
+Davyd Harries_,_ Beth Goddard _(brewery officials)_
+
+Marlene Sidaway _(Betty)_
+
+Liane Ware _(Claire)_
+
+Catherine Sanderson _(Kelly)_
+
+Dave Lynn _(drag performer)_
+
+UK 1996
+
+91 mins
+
+35 mm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTU1MzQwNjMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTQxNzYzMTkwMyw3MzA5OTgxMTZdfQ==
 -->
