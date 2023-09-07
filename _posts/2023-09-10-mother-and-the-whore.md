@@ -51,12 +51,8 @@ Unlike Alexandre in his dandyistic deployment of the oxymoronic, Véronika – c
 As the generation of 1968, now twice as old as the film, segues smoothly from one mid-life crisis to the next, this seems as good a time as any to revive _La Maman et la putain_. For many in France, indeed, it has never gone away – and such apparently inconsequential lines as Alexandre’s ‘Nobody these days says: “I drank an excellent lemonade at lunch today”’ function as talismanic catchwords among the film’s aficionados. Well before I learnt of its impending re-release, I was in a Paris cinema watching Lucas Belvaux’s _Pour Rire!_ (1996): in it Léaud’s character has to go to hospital at one point, and while waiting sees a nurse, probably in her late forties, go past. He asks her if they have not met before. She turns, replies ‘No, certainly not,’ and walks away and out of the film. Intertextual lightning struck as I recognised Françoise Lebrun, and from the reaction around me I was not the only keeper of the flame in the cinema. May there soon be many more.  
 **Keith Reader, _Sight and Sound_, October 1997**  
 <br>
-<![endif]-->
 
-**La Maman et la Putain**
-
-**(The Mother and the Whore)**
-
+**LA MAMAN ET LA PUTAIN (THE MOTHER AND THE WHORE)**  
 _Director:_ Jean Eustache
 
 _Production Companies:_ Films du Losange (Paris), Élite Films, Cine Qua Non, Simar Films,
@@ -91,53 +87,32 @@ _Sound Re-recording:_ Nara Kollery
 
 _Sound Studio:_ Paris Studios Billancourt
 
-_Cast:_
-
-Françoise Lebrun _(Veronika Osterwald)_
-
-Bernadette Lafont _(Marie)_
-
-Jean-Pierre Léaud _(Alexandre)_
-
-Isabelle Weingarten _(Gilberte)_
-
-Jean Douchet _(flirt in Flore café)_
-
-Pierre Cottrell, Bernard Eisenschitz
-
-_(St Germain regulars)_
-
-Douchka _(bandaged woman)_
-
-Jean Eustache _(Gilberte’s husband)_
-
-Noël Simsolo _(intellectual)_
-
-Jacques Renard _(Alexandre’s friend)_
-
-Jean-Noël Picq _(Offenbach amateur)_
-
-Jessa Darrieux
-
-Marinka Matuszewski
-
-Geneviève Mnich
-
-Berthe Grandval
-
-André Téchiné *
-
-Jean-Claude Biette *
-
+_Cast**  
+Françoise Lebrun _(Veronika Osterwald)_  
+Bernadette Lafont _(Marie)_  
+Jean-Pierre Léaud _(Alexandre)_  
+Isabelle Weingarten _(Gilberte)_  
+Jean Douchet _(flirt in Flore café)_  
+Pierre Cottrell, Bernard Eisenschitz _(St Germain regulars)_  
+Douchka _(bandaged woman)_  
+Jean Eustache _(Gilberte’s husband)_  
+Noël Simsolo _(intellectual)_  
+Jacques Renard _(Alexandre’s friend)_  
+Jean-Noël Picq _(Offenbach amateur)_  
+Jessa Darrieux  
+Marinka Matuszewski  
+Geneviève Mnich  
+Berthe Grandval  
+André Téchiné *  
+Jean-Claude Biette *  
 Noël Simsolo *
-
-Caroline Loeb *
+Caroline Loeb *  
 
 France 1973  
 220 mins  
 Digital 4K (restoration)  
 
-* Uncredited
+\* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczOTUzNDQ2XX0=
+eyJoaXN0b3J5IjpbMzk5MDU3NjYyLDY3Mzk1MzQ0Nl19
 -->
