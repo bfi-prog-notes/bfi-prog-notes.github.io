@@ -36,7 +36,7 @@ The final shot of Ryu is followed by one of waves washing up on a beach. Through
 
 **LATE SPRING (BANSHUN)**  
 _Director:_ Yasujiro Ozu  
-©_:_ Shochiku Co. Ltd.  
+_©_: Shochiku Co. Ltd.  
 _Production Company:_ Shochiku Co. Ltd.  
 _Producer:_ Takeshi Yamamoto  
 _Assistant Directors:_ Kozo Yamamoto, Tsukamoto Shokichi, Kozo Tashiro, Buichi Saito  
@@ -44,8 +44,7 @@ _Screenplay:_ Kogo Noda, Yasujiro Ozu
 _Based on the novel_ Chichi to Musume _by:_ Kazuo Hirotsu  
 _Director of Photography:_ Yuharu Atsuta  
 _Lighting:_ Haruo Isono  
-_Camera Assistants:_ Seiji Inoue, Takashi Kawamata, Motoshige Oikawa, Yoshitsugu Tonegawa,  
-Takeo Matsuda  
+_Camera Assistants:_ Seiji Inoue, Takashi Kawamata, Motoshige Oikawa, Yoshitsugu Tonegawa, Takeo Matsuda  
 _Editor:_ Yoshiyasu Hamamura  
 _Art Director:_ Tatsuo Hamada  
 _Set Designer:_ Kintaro Yamamoto  
@@ -57,7 +56,7 @@ _Sound Recording:_ Hidekata Sasaki
 _Sound Mixing:_ Yoshisaburo Senoo  
 _Studio:_ Shochiku Ofuna  
 
-**Cast**
+**Cast**  
 Chishu Ryu _(Professor Shukichi Somiya)_  
 Setsuko Hara _(Noriko, Somiya’s daughter)_  
 Yumeji Tsukioka _(Aya Kitagawa)_  
@@ -78,8 +77,8 @@ Japan 1949©
 Digital 4K (restoration)  
 
 Introduced by season curator, Ian Haydn Smith (Sunday 10 September)  
-
 <br>
+
 **A FAMILY AFFAIR: THE FILMS OF YASUJIRO OZU**<br>
 **Tokyo Story (Tōkyō monogatari)**<br>
 From Fri 1 Sep<br>
