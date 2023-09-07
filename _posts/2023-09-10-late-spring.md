@@ -6,8 +6,8 @@ date: 2023-09-10
 readtime: true
 categories: ['A FAMILY AFFAIR<br> THE FILMS OF YASUJIRO OZU']
 tags: [Drama]
-metadata: 'Japan 1934, 86 mins<br> Director: Yasujiro Ozu'
-pdf: '2023-09-09-story-of-floating-weeds.pdf'
+metadata: 'Japan 1949, 108 mins<br> Director: Yasujiro Ozu'
+pdf: '2023-09-10-late-spring.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
@@ -33,7 +33,6 @@ If Ryu’s bowing of his head is meant emotionally to balance and set off the wh
 The final shot of Ryu is followed by one of waves washing up on a beach. Throughout the film, the father’s insistence on his daughter marrying has seemed harsh and unreasonable, almost inhuman; as the daughter’s resistance has seemed almost pathological, humanly unreasonable. The final slump of his body is then the link between her humanity and the film’s sense of the father as representative of an impersonal force or fate; specifically, it is the link between the images of Hara’s bowed head and the last shot of the film – the waves, an image of cosmic incessancy.  
 **Don Willis, _Sight and Sound_, Winter 1978-79**  
 <br>
-<![endif]-->
 
 **LATE SPRING (BANSHUN)**  
 _Director:_ Yasujiro Ozu  
@@ -156,5 +155,5 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc4MDAxNzEsMTE5NTA0NTA5Nl19
+eyJoaXN0b3J5IjpbLTEyNTg2MjUzMDQsMTE5NTA0NTA5Nl19
 -->
