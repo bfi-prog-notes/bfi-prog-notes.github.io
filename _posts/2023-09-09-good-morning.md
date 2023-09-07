@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Good Morning
+published: true
+date: 2023-09-09
+readtime: true
+categories: ['A FAMILY AFFAIR<br> THE FILMS OF YASUJIRO OZU']
+tags: [Comedy]
+metadata: 'Japan 1934, 86 mins<br> Director: Yasujiro Ozu'
+pdf: '2023-09-09-story-of-floating-weeds.pdf'
+---
 
 Devoted to both the profound necessity and the sublime silliness of gratuitous social interchange, _Good Morning_ (_Ohayo_) is a rather subtler and grander work than might appear at first. Commonly referred to as a remake of Ozu’s silent masterpiece _I Was Born but…,_ it is as interesting for its differences as for its similarities. The focus of the earlier film is a family adapting to a new neighbourhood by undergoing brutal social initiations: the father humiliates himself before his boss to get ahead while the sons are accepted by their peers only after humiliating a local bully. Shocked by the behaviour of their father, who says that he has to demean himself in order to feed them, the sons retaliate by going on a hunger strike.
 
@@ -55,5 +63,5 @@ Japan 1959
 93 mins  
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTYyNzkxOV19
+eyJoaXN0b3J5IjpbMTIyNjc3NDYxNF19
 -->
