@@ -1,7 +1,39 @@
 
 
+The mid-1990s was a watershed period for independent gay and lesbian film, not only because of the number of feature and short films being made, but because of the critical interest which accompanied them. Contemporary in its subject matter and style, _Beautiful Thing_ (1995) offered a multicultural perspective of post-Thatcher Britain. The film was written by Jonathan Harvey and marked the debut of young director Hettie MacDonald, who had emerged from a theatre background, having directed her first West End play at 24.
 
-> Written with [StackEdit](https://stackedit.io/).
+Known for race riots, high unemployment and social deprivation in the mid-1980s, the South East London council estate Thamesmead is transformed, thanks to Chris Seager’s cinematography, into an almost magical place, overlooking a lake bathed in sunlight. In this respect, _Beautiful Thing_ is unusual among British films, which, where they portray the gay community or working classes at all, rarely offer such as a positive portrait of love developing over a long sweltering summer.
+
+Touching and funny in a way comparable to _My Beautiful Laundrette_ (1985) and _Young Soul Rebels_ (1991), _Beautiful Thing_ manages to appeal to a young mainstream audience. The narrative easily encompasses difficult issues of racism, homophobia, violence, sex and drug use within the disenfranchised underclass of a two-tier Britain, while lightly but acutely depicting a teenage gay romance.
+
+_Beautiful Thing_ emerged from the New Queer Cinema movement, which strove to invest the previously negative term ‘queer’ with a range of new, exciting and positive meanings in politics and filmmaking. The success of the film seemed to suggest that a substantial number of people were more accepting of homosexuality than previously.
+
+As an urban love story, _Beautiful Thing_ wears its politics lightly, but it is subversive nevertheless. The central romance is one between two 16-year-old boys – then well below the age of consent – making this a light-hearted film steeped in socio-political significance.
+
+_Beautiful Thing_ premiered at the London Lesbian and Gay Film Festival in 1996, where it collected the award for best film. In the same year, it was selected for the Directors’ Fortnight at the Cannes Film Festival.  
+**Sonya Williams, BFI Screenonline, screenonline.org.uk**  
+
+**Tony Garnett on ‘Beautiful Thing’**  
+I had stopped going to the theatre years before, despite having lived for it, and in it, when a young man. Having discovered the screen, I was now impatient with its conventions: usually people on a shelf at the end of a large space, pretending unconvincingly to be someone else and ignoring my presence, except when they paused to ride a laugh. A static camera shot from a fixed angle and lens. Even in intimate theatres, shouting at me. And they usually did all this at dinner time. My loss, I knew. It meant missing a few important evenings, but I was tired of walking out at the first interval.
+
+I have forgotten how I ended up at the Bush, probably because of the writer, Jonathan Harvey. I thought _Beautiful Thing_ would make a better film. Channel 4 agreed to back it and to their great credit did not stop me hiring its stage director, Hettie MacDonald, from directing the film. She had understood the text, with compassion and humour. She was clearly good with actors. She was intelligent. I surrounded her with an experienced crew: Chris Seager, Don Fairservice, Nick O’Hagan and Bill Shapter calmly looking after everyone. Hettie came through with assurance.
+
+My main worry was obtaining all the rights Channel 4 demanded for the music of Cass Elliot. The film depended on this. The cost was prohibitive. The negotiation went right past the time to cancel the film. At the last minute we made a deal.
+
+The subject matter was foreign to me. But when we received letters from young men, living in provincial cities, who thanked us for saving them: they now knew they were not alone, they were not freaks, I was glad.
+
+I had just thought it was a beautiful love story.  
+**Tony Garnett, 2013**  
+
+**A contemporary review**  
+Jonathan Harvey’s shamelessly optimistic drama first appeared as a successful stage play. Describing the love between two boys on a South London estate, its strength lay in its refusal to deliver the urban misery one might expect from such material. Instead, Harvey offered a vision which was both romanticised and truthful. Certainly, there was domestic violence and homophobia, but flowers decorated the concrete and a foul-mouthed communality existed between residents. Most of all, the play worked against the assumption that to be working class is to be automatically less liberal, less capable of tolerance.
+
+Promoted as ‘an urban fairy tale’, this Channel 4 adaptation from debut director Hettie MacDonald captures the feel-good nature of the play. Jamie and Ste’s relationship develops in the cramped rooms and walkways of a Thamesmead estate, but beers on the balcony and the distant sound of outdoor play create a sense of space and holiday relaxation. Harsh architecture basks in the golden glow of an inner city heatwave and characters dress in bold, primary colours. The stylised, low-budget look of the film calls to mind the Stephen Frears/Hanif Kureishi collaboration _My Beautiful Laundrette_, which framed its gay romance with the same sense of theatricality.
+
+As a play, _Beautiful Thing_ received criticism for dodging difficult issues. The same could be argued of the film, but to do so seems to miss the point of Harvey’s project, which is to portray the magically transformative powers of romance. That said, the film is rich in understated realism. Jamie, Leah and Ste all come from single parent families. Ste deals Ecstasy at parties and Sandra’s ex used to beat her up. These details are more effective for going unremarked: this is simply the way things are. It is also worth noting that, while the last 15 years have seen filmmakers escaping conventionally punitive representations of homosexuality, the happy, homosexual love affair at this film’s core remains mildly subversive. That this romance is between two 16-year-old boys (below the legal age of consent) suggests that, rather than ducking controversy, MacDonald and Harvey have, in fact, produced an ‘issue’ film with a remarkably light touch.  
+**Liese Spencer, _Sight and Sound_, June 1996**  
+<br>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTE5NDkyMzgyMyw3MzA5OTgxMTZdfQ==
 -->
