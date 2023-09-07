@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Late Spring
+published: true
+date: 2023-09-10
+readtime: true
+categories: ['A FAMILY AFFAIR<br> THE FILMS OF YASUJIRO OZU']
+tags: [Drama]
+metadata: 'Japan 1934, 86 mins<br> Director: Yasujiro Ozu'
+pdf: '2023-09-09-story-of-floating-weeds.pdf'
+---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
@@ -26,62 +35,34 @@ The final shot of Ryu is followed by one of waves washing up on a beach. Through
 <br>
 <![endif]-->
 
-**LATE SPRING (BANSHUN)**
-
-_Director:_ Yasujiro Ozu
-
-©_:_ Shochiku Co. Ltd.
-
-_Production Company:_ Shochiku Co. Ltd.
-
-_Producer:_ Takeshi Yamamoto
-
-_Assistant Directors:_ Kozo Yamamoto,  
-Tsukamoto Shokichi, Kozo Tashiro, Buichi Saito
-
-_Screenplay:_ Kogo Noda, Yasujiro Ozu
-
-_Based on the novel_ Chichi to Musume _by:_
-
-Kazuo Hirotsu
-
-_Director of Photography:_ Yuharu Atsuta
-
-_Lighting:_ Haruo Isono
-
+**LATE SPRING (BANSHUN)**  
+_Director:_ Yasujiro Ozu  
+©_:_ Shochiku Co. Ltd.  
+_Production Company:_ Shochiku Co. Ltd.  
+_Producer:_ Takeshi Yamamoto  
+_Assistant Directors:_ Kozo Yamamoto, Tsukamoto Shokichi, Kozo Tashiro, Buichi Saito  
+_Screenplay:_ Kogo Noda, Yasujiro Ozu  
+_Based on the novel_ Chichi to Musume _by:_ Kazuo Hirotsu  
+_Director of Photography:_ Yuharu Atsuta  
+_Lighting:_ Haruo Isono  
 _Camera Assistants:_ Seiji Inoue, Takashi Kawamata, Motoshige Oikawa, Yoshitsugu Tonegawa,  
-Takeo Matsuda
+Takeo Matsuda  
+_Editor:_ Yoshiyasu Hamamura  
+_Art Director:_ Tatsuo Hamada  
+_Set Designer:_ Kintaro Yamamoto  
+_Set Decorator:_ Mototane Komaki  
+_Costumes:_ Bunjiro Suzuki  
+_Film Processing by:_ Ryuji Hayashi  
+_Music:_ Senji Ito  
+_Sound Recording:_ Hidekata Sasaki  
+_Sound Mixing:_ Yoshisaburo Senoo  
+_Studio:_ Shochiku Ofuna  
 
-_Editor:_ Yoshiyasu Hamamura
-
-_Art Director:_ Tatsuo Hamada
-
-_Set Designer:_ Kintaro Yamamoto
-
-_Set Decorator:_ Mototane Komaki
-
-_Costumes:_ Bunjiro Suzuki
-
-_Film Processing by:_ Ryuji Hayashi
-
-_Music:_ Senji Ito
-
-_Sound Recording:_ Hidekata Sasaki
-
-_Sound Mixing:_ Yoshisaburo Senoo
-
-_Studio:_ Shochiku Ofuna
-
-_Cast:_
-
-Chishu Ryu _(Professor Shukichi Somiya)_
-
-Setsuko Hara _(Noriko, Somiya’s daughter)_
-
-Yumeji Tsukioka _(Aya Kitagawa)_
-
-Haruko Sugimura _(Masa Taguchi, Noriko’s aunt)_
-
+**Cast**
+Chishu Ryu _(Professor Shukichi Somiya)_  
+Setsuko Hara _(Noriko, Somiya’s daughter)_  
+Yumeji Tsukioka _(Aya Kitagawa)_  
+Haruko Sugimura _(Masa Taguchi, Noriko’s aunt)_  
 Hohi Aoki _(Katsuyochi Taguchi)_  
 Junya Usami _(Shoichi Hattori, Somiya’s assistant)_  
 Kuniko Miyake _(Akiko Miwa)_  
@@ -175,5 +156,5 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTkyMzM0ODAsMTE5NTA0NTA5Nl19
+eyJoaXN0b3J5IjpbLTE0MDc4MDAxNzEsMTE5NTA0NTA5Nl19
 -->
