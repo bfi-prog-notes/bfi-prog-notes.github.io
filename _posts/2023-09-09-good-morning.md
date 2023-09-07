@@ -12,7 +12,48 @@ In a context where banal greetings among neighbours, schoolboy farting contests 
 
 Mainly designed to look as casual and as inconsequential as its title, _Good Morning_ gleefully embraces a world that _I Was Born but…_ can acknowledge only painfully. With a father figure at the centre of its constellation – Chishu Ryu, as Keitaro – who is exempt from ridicule, it neither seeks nor finds any comparable reasons for serious doubts or despair. Yet thanks to the precision and consistency of the vision, Ozu can take up all the other grinning denizens of this discreetly closed world and pin their endearing absurdities neatly into place.  
 **Jonathan Rosenbaum, _Monthly Film Bulletin_, November 1975**  
+<br>
 
+**GOOD MORNING (OHAYO)**  
+_Director:_ Yasujiro Ozu  
+_Production Company:_ Shochiku Co. Ltd.  
+_Producer:_ Shizuo Yamanouchi  
+_Assistant Director:_ Kozo Tashiro  
+_Screenplay:_ Kogo Noda, Yasujiro Ozu  
+_Director of Photography:_ Yuharu Atsuta  
+_Colour Technician:_ Motoshige Oikawa  
+_Lighting:_ Akira Aomatsu  
+_Camera Assistant:_ Yoshitsugu Tonegawa  
+_Editor:_ Yoshiyasu Hamamura  
+_Art Director:_ Tatsuo Hamada  
+_Film Stock:_ Agfa-Shochikucolor  
+_Music:_ Toshiro Mayuzumi  
+_Sound Recording:_ Yoshisaburo Senoo  
+_Studio:_ Shochiku Ofuna  
+
+**Cast**  
+Keiji Sada _(Heichiro Fukui, English Teacher)_  
+Yoshiko Kuga _(Setsuko Arita, Tamiko’s sister)_  
+Chishu Ryu _(Keitaro Hayashi)_  
+Kuniko Miyake _(Tamiko Hayashi)_  
+Haruko Sugimura _(Kikue Haraguchi)_  
+Koji Shitara _(Minoru, Hayashi’s elder son)_  
+Masahiko Shimazu _(Isamu, Hayashi’s younger son)_  
+Kyôka Izumi _(Midori Maruyama)_  
+Toyo Takahashi _(Shige Okubo)_  
+Sadako Sawamura _(Kayoko Fukui)_  
+Eijirô Tono _(Tomizawa)_  
+Teruko Nagaoka _(Tomizawa’s wife)_  
+Eiko Miyoshi _(Grandmother Haraguchi)_  
+Haruo Tanaka _(Haraguchi)_  
+Akira Oizumi _(Akira Maruyama)_  
+Hajime Shirata _(Kozo Harada)_  
+Masuo Fujiki _(Zen)_  
+Fujio Suga, Taiji Tonoyama, Keijiro Morozumi, Mutsuko Sakura, Hoichi Takeda, Toshio Shimamura, Tsusai Sugawara  
+
+Japan 1959  
+93 mins  
+Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzk0MDIzMjZdfQ==
+eyJoaXN0b3J5IjpbLTM0NTYyNzkxOV19
 -->
