@@ -29,23 +29,15 @@ _Production Manager:_ Hugh Brown *
 _Assistant Production Manager:_  Richard A. Blaydon *  
 _Assistant Unit Production Manager:_ Don Robb *  
 _Locations Casting:_ William Poole *  
-_Assistant Directors:_ C.C. Coleman Jr, Chico Day,
-
-Jason Rosenberger, Al Mann *  
+_Assistant Directors:_ C.C. Coleman Jr, Chico Day, Jason Rosenberger, Al Mann *  
 _Dialogue Director:_ Harry F. Hogan *  
 _Screenplay Supervisor:_ Lupe Hall *  
 _Casting Director:_ Bert McKay *  
-_Screenplay:_ Billy Wilder, Lesser Samuels,
-
-Walter Newman  
+_Screenplay:_ Billy Wilder, Lesser Samuels, Walter Newman  
 _Director of Photography:_ Charles B. Lang Jr  
 _Camera Operators:_ Guy Bennett, Bill Rand  
 _Assistant Camera:_ Kenny Meade *  
-_Grips:_ Frank Carroll, Dominic Seminerio,
-
-William Collins, Al Lipsey, George Sherman,
-
-Cliff Hartley  
+_Grips:_ Frank Carroll, Dominic Seminerio, William Collins, Al Lipsey, George Sherman, Cliff Hartley  
 _Electrical:_ Jess Miller *  
 _Cableman:_ A.D. Cook *  
 _Stills:_ Don English *  
@@ -66,11 +58,10 @@ _Music Score:_ Hugo Friedhofer
 _Sound Recording:_ Harold Lewis, Gene Garvin  
 _Sound:_ Bob Carr, John Cope *  
 _Medical Technical Adviser:_ Dr Francis J. Abdo *  
-_Teletype Technical Advisers:_ Sally Hunt,  
-Henry Giles *  
+_Teletype Technical Advisers:_ Sally Hunt,  Henry Giles *  
 _Stand-in:_ Irene Martin *  
-_Cast:_
 
+**Cast**  
 Kirk Douglas _(Charles ‘Chuck’ Tatum)_  
 Jan Sterling _(Lorraine Minosa)_  
 Bob Arthur _(Herbie Cook)_  
@@ -87,8 +78,7 @@ Harry Harvey _(Dr Hilton)_
 Bob Bumpas _(himself, radio announcer)_  
 Geraldine Hall _(Mrs Nellie Federber)_  
 Richard Gaines _(Nagel)_  
-Paul D. Merrill, Stewart Kirk Clawson  
-_(Federber boys)_ *  
+Paul D. Merrill, Stewart Kirk Clawson  _(Federber boys)_ *  
 John Stuart Fulton _(boy)_ *  
 Robert Kortman, Joe J. Merrill _(diggers)_ *  
 Edith Evanson _(Miss Deverich)_ *  
@@ -110,11 +100,12 @@ William N. Peters, Chico Day _(photographers)_ *
 B. Ballarl _(singer)_ *  
 Bill Sheehan _(man)_ *  
 Martha Maryman *  
-USA 1951©
 
+USA 1951©  
 111 mins
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTcyMjczMl19
+eyJoaXN0b3J5IjpbMTg3NDc3Nzc0OF19
 -->
