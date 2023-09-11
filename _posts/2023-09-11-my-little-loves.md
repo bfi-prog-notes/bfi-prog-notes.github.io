@@ -1,6 +1,6 @@
 
 
-<![endif]-->
+
 
 French artists seem peculiarly attracted to the mysteries of childhood and adolescence. In literature one thinks immediately of the luscious worlds conjured up by Proust and Alain-Fournier, in which characters are surrounded by a complex mesh of wistfully remembered sights, sounds and scents: in films, there is _Zéro de conduite_, _Les Jeux_ _interdits_, _Les Mistons_, _Mouchette_. Now Jean Eustache contributes his considerable pennyworth in _Mes petites amoureuses_, a film which has long been in mental preparation. The mammoth, bracing _La Maman et la putain_ reached the screen in advance purely because it could be made for much less money; following its success, the 2.5m francs needed to budget _Amoureuses_ finally became a concrete reality.
 
@@ -11,6 +11,73 @@ Under its beguilingly familiar surface, however, _Mes petites amoureuses_ remain
 Eustache’s directorial style emphasises the bleak daily round of his hero. The narrative proceeds through a succession of short scenes separated by quick black fades, pin-pointing confrontations and gestures with Bressonian force (though the style also attractively points up the humour inherent in much of the material – as with Daniel’s circus trick). The elliptical approach serves a further purpose by focusing on the random comings and goings of the community; people unhurriedly walk by, meet and pass on – a kaleidoscope which conveys the atmosphere of Daniel’s environment without any recourse to heavy local colouring. This slow-motion choreography of characters works most remarkably in the climactic scenes, when Daniel and a friend leave their comrades to pursue two village girls along a country road, only to be pursued in turn by the friends they left behind. With the minimum of dialogue, a battle of rival courtships ensues, riveting in its truthfulness and lack of rhetoric. Yet Eustache doesn’t always maintain such a firm grip on events, his obvious identification with Daniel leading him to harp on the boy’s listless manner a little too heavily at times, with the result that the audience sometimes experiences a twinge of listlessness itself. But on balance _Mes petites_ _amoureuses_ offers a distinctly cool, delicately nuanced study of a human being undergoing that strange process called ‘growing up’.  
 **Geoff Brown, _Sight and Sound_, Summer 1976**  
 
+**MY LITTLE LOVES (MES PETITES AMOUREUSES)**  
+_Director:_ Jean Eustache  
+_Production Company:_ Elite Films  
+_Producer:_ Pierre Cottrell  
+_Unit Manager:_ Armand Barbault  
+_Location Manager:_ Louis Seuret  
+_Production Administrator:_ Cloë Eschalier  
+_Production Assistants:_ Serge Dubor, Jacky Moyal, Pierre Roitfeld  
+_Production Secretary:_ Rebecca Taylor  
+_Assistant Directors:_ Luc Béraud, Bertrand van Effenterre, Alain Centonze, Denys Granier-Deferre  
+_Trainee Assistant Director:_ Boris Eustache  
+_Script Supervisor:_ Irina Lhomme  
+_Screenplay:_ Jean Eustache  
+_Director of Photography:_ Nestor Almendros  
+_Assistant Cameras:_ Jean-Claude Rivière, Dominique Le Rigoleur  
+_Grips:_ Johannes Brunet  
+_Gaffer:_ Jean-Claude Gasche  
+_Stills Photography:_ Pierre Zucca, Bernard Prim  
+_Editors:_ Françoise Belleville, Alberto Yacelini, Vincent Cottrell  
+_Costumes:_ Renée Renard  
+_Titles:_ Lax  
+_Sound Recording:_ Bernard Aubouy, Bernard Ortion  
+_Boom Man:_ Jean-Louis Ughetto  
+_Sound Mixers:_ Bernard Aubouy, Nara Kollery  
+
+**Cast**  
+Martin Loeb _(Daniel)_  
+Ingrid Caven _(mother)_  
+Jacqueline Dufranne _(grandmother)_  
+Dionys Mascolo _(José Ramos)_  
+Henri Martinez _(Henri)_  
+Pierre Edelman _(Louis)_  
+Marie-Paule Fernandez _(Françoise)_  
+Maurice Pialat _(Henri’s friend)_  
+Roger Rezzi  
+Anne Stroka  
+Louis Caut  
+Alain Dumais  
+Ernest Simo  
+Sandra Sabine  
+Fabienne Dorey  
+Christian Lucet  
+Hilaire Arasa  
+Michel Almadouar  
+Caroline Loeb  
+Marie-Hélène Fassier  
+Philippe Gyiuriu  
+Aissa Ihamouine  
+Jean-Louis Damani  
+Patrick Eustache  
+Jean-Noël Picq  
+Jean-Claude Gasche  
+Felicia Ferguson  
+Jean-Jacques Bihan  
+Ghislaine Lakomy  
+Brigitte Pangaud  
+Michele Deboutet  
+Claire Treille  
+Jacques Romain  
+Vincent Testanière  
+Roger Rizzi  
+Cirque Muller  
+Syndra Kahn  
+
+France 1975  
+123 mins  
+Digital 4K (restoration)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODI2NTEyMV19
+eyJoaXN0b3J5IjpbMTAxODg1NDM5MywyMTE4MjY1MTIxXX0=
 -->
