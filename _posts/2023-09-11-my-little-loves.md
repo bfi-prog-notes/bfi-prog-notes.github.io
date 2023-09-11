@@ -1,13 +1,13 @@
 ---
 layout: post
-title: My
+title: My Little Loves
 published: true
-date: 2023-09-10
+date: 2023-09-11
 readtime: true
 categories: ['LOVE, PAIN AND CINEMA<br> THE FILMS OF JEAN EUSTACHE']
 tags: [Drama]
-metadata: 'France 1973, 220 mins<br> Director: Jean Eustache'
-pdf: '2023-09-10-mother-and-the-whore.pdf'
+metadata: 'France 1975, 123 mins<br> Director: Jean Eustache'
+pdf: '2023-09-11-my-little-loves.pdf'
 ---
 French artists seem peculiarly attracted to the mysteries of childhood and adolescence. In literature one thinks immediately of the luscious worlds conjured up by Proust and Alain-Fournier, in which characters are surrounded by a complex mesh of wistfully remembered sights, sounds and scents: in films, there is _Zéro de conduite_, _Les Jeux_ _interdits_, _Les Mistons_, _Mouchette_. Now Jean Eustache contributes his considerable pennyworth in _Mes petites amoureuses_, a film which has long been in mental preparation. The mammoth, bracing _La Maman et la putain_ reached the screen in advance purely because it could be made for much less money; following its success, the 2.5m francs needed to budget _Amoureuses_ finally became a concrete reality.
 
@@ -131,5 +131,5 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5OTIzMTAzLDIxMTgyNjUxMjFdfQ==
+eyJoaXN0b3J5IjpbODEzMjEyMTM0LDIxMTgyNjUxMjFdfQ==
 -->
