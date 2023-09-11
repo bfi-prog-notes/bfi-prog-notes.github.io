@@ -29,94 +29,52 @@ The film is above all very funny. There is a moment of high comedy in Del’s fi
 <br><br>
 
 **BRONCO BULLFROG**<br>
-
 _Directed by:_ Barney Platts-Mills<br>
-
 ©: Maya Films<br>
-
 _Made by:_ Maya Films<br>
-
 _Produced by:_ Andrew St. John<br>
-
 _Associate Producer:_ Michael Syson<br>
-
-_1st Assistant Directors:_ Tim Van Rellim,  
-Garth Thomas<br>
-
+_1st Assistant Directors:_ Tim Van Rellim,  Garth Thomas<br>
 _2nd Assistant Director:_ Tim Lewis<br>
-
 _Continuity:_ Jean Winters<br>
-
 _Written by:_ Barney Platts-Mills<br>
-
 _Script Adviser:_ Dave Foulger<br>
-
 _Photography:_ Adam Barker-Mill<br>
-
 _Focus:_ Gordon Thornton<br>
-
 _Loader:_ George Stephenson<br>
-
 _Key Grips:_ Les Bryan, Tony Picus<br>
+_Graphics:_ Charlie Jenkins<br>
+_Edited by:_ Jonathan Gili<br>
+_Assistant Editor:_ Susan Sarkozy<br>
+_Music by:_ Howard Werth, Tony Connor,  Keith Gemmell, Trevor Williams<br>
+_Performed by:_ The Audience<br>
+_Sound Recording:_ Tony Jackson, Ivan Sharrock, Michael McDuffie, Stuart Young<br>
+_Boom Operator:_ Stephen Ransley<br>
+_Local Adviser:_ Sam Shepherd Snr<br>
 
-_Graphics:_ Charlie Jenkins
+**Cast**<br>
+Del Walker _(Del Quant)_<br>
+Anne Gooding _(Irene Richardson)_<br>
+Sam Shepherd _(Jo Saville aka Bronco Bullfrog)_<br>
+Roy Haywood _(Roy)_<br>
+Chris Shepherd _(Chris)_<br>
+Geoff Wincott _(Geoff)_<br>
+Freda Shepherd _(Mrs Richardson)_<br>
+Stuart Stones _(Sgt Johnson)_<br>
+Dick Philpott _(Del’s father)_<br>
+Jo Hughes Snr _(Del’s uncle)_<br>
+Mick Hart _(Grimes)_<br>
+Ken Field _(Dave)_<br>
+Jo Hughes Jnr _(Parker)_<br>
+Marguerite Hughes _(Marge)_<br>
+E.E. Blundell _(landlady)_<br>
+Trevor Oakley _(Parker’s friend)_<br>
+Tina Syer _(Tina)_<br>
+Terry Hayes<br>
 
-_Edited by:_ Jonathan Gili
-
-_Assistant Editor:_ Susan Sarkozy
-
-_Music by:_ Howard Werth, Tony Connor,  
-Keith Gemmell, Trevor Williams
-
-_Performed by:_ The Audience
-
-_Sound Recording:_ Tony Jackson, Ivan Sharrock, Michael McDuffie, Stuart Young
-
-_Boom Operator:_ Stephen Ransley
-
-_Local Adviser:_ Sam Shepherd Snr
-
-_Cast:_
-
-Del Walker _(Del Quant)_
-
-Anne Gooding _(Irene Richardson)_
-
-Sam Shepherd _(Jo Saville aka Bronco Bullfrog)_
-
-Roy Haywood _(Roy)_
-
-Chris Shepherd _(Chris)_
-
-Geoff Wincott _(Geoff)_
-
-Freda Shepherd _(Mrs Richardson)_
-
-Stuart Stones _(Sgt Johnson)_
-
-Dick Philpott _(Del’s father)_
-
-Jo Hughes Snr _(Del’s uncle)_
-
-Mick Hart _(Grimes)_
-
-Ken Field _(Dave)_
-
-Jo Hughes Jnr _(Parker)_
-
-Marguerite Hughes _(Marge)_
-
-E.E. Blundell _(landlady)_
-
-Trevor Oakley _(Parker’s friend)_
-
-Tina Syer _(Tina)_
-
-Terry Hayes
-
-UK 1969
-
-86 mins
+UK 1969<br>
+86 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5NDU5MDg4XX0=
+eyJoaXN0b3J5IjpbLTc3MTA5OTY3MF19
 -->
