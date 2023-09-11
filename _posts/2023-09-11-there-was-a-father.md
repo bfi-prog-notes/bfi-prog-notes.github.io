@@ -12,9 +12,8 @@ pdf: '2023-09-11-there-was-a-father.pdf'
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
-Widely acknowledged as the first great performance in an Ozu film by the director’s regular on-screen collaborator Chishū Ryū, There Was a Father finds him playing a schoolteacher who, following a tragedy, finds his life and his relationship with his son irrevocably changed. Ozu’s drama follows both as they grow older, detailing the emotional bond that matures between them. It’s a generous and moving portrait of parental love.
-
-bfi.org.uk
+Widely acknowledged as the first great performance in an Ozu film by the director’s regular on-screen collaborator Chishū Ryū, There Was a Father finds him playing a schoolteacher who, following a tragedy, finds his life and his relationship with his son irrevocably changed. Ozu’s drama follows both as they grow older, detailing the emotional bond that matures between them. It’s a generous and moving portrait of parental love.  
+**bfi.org.uk**  
 
 Ozu’s films are not all and not equally ‘Buddhist’. There can be no doubt, however, that _There Was a Father_ frequently draws upon Buddhist imagery. Many intermediate spaces consist of still-life shots of Buddhist _stupas_ – squat stone pillars consisting of stacked solids, each with a symbolic value: the cube (earth) surmounted by a sphere (water), a pyramid (fire), a crescent (air), and a sphere with a pointed tip (space). By cutting away to them, Ozu connotes an overriding harmony and calm. On the boys’ outing they visit the Great Buddha statue in Kamakura. We see Buddhist funeral rites, complete with drum and chanting, and for a time Horikawa lives in a Buddhist temple with a priest. We must recall here not only Ozu’s earlier, satiric use of such imagery but also the fact that by 1942 Buddhism had become a distinct political and ideological force. In March of 1941, only a year before _There Was a Father_ was released, the Great Japan Buddhist Association was formed, with the purpose of supporting the government and the war effort. After Pearl Harbour, temples sent priests to war plants and embarked on fund drives to pay for aircraft. In this film, Buddhism operates not as a vague transcendental atmosphere but as a historically specific construct and a citation for particular ideological purposes.
 
@@ -32,8 +31,7 @@ What the foregoing discussion does not take into account is the way in which the
 _Director:_ Yasujiro Ozu  
 _Production Company:_ Shochiku Co. Ltd.  
 _Assistant Directors:_ Nobuo Nishikawa, Kiyoshi Suzuki, Kozo Yamamoto, Yoshio Tsukamoto  
-_Screenplay:_ Tadao Ikeda, Takao Yanai,
-Yasujiro Ozu  
+_Screenplay:_ Tadao Ikeda, Takao Yanai, Yasujiro Ozu  
 _Director of Photography:_ Yuharu Atsuta  
 _Lighting:_ Katsumi Naito  
 _Camera Assistants:_ Tsuyoshi Saito, Kozuo Suzuki. Yasuji Inoue  
