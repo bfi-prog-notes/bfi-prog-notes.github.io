@@ -1,7 +1,14 @@
-
-
-
-
+---
+layout: post
+title: My
+published: true
+date: 2023-09-10
+readtime: true
+categories: ['LOVE, PAIN AND CINEMA<br> THE FILMS OF JEAN EUSTACHE']
+tags: [Drama]
+metadata: 'France 1973, 220 mins<br> Director: Jean Eustache'
+pdf: '2023-09-10-mother-and-the-whore.pdf'
+---
 French artists seem peculiarly attracted to the mysteries of childhood and adolescence. In literature one thinks immediately of the luscious worlds conjured up by Proust and Alain-Fournier, in which characters are surrounded by a complex mesh of wistfully remembered sights, sounds and scents: in films, there is _Zéro de conduite_, _Les Jeux_ _interdits_, _Les Mistons_, _Mouchette_. Now Jean Eustache contributes his considerable pennyworth in _Mes petites amoureuses_, a film which has long been in mental preparation. The mammoth, bracing _La Maman et la putain_ reached the screen in advance purely because it could be made for much less money; following its success, the 2.5m francs needed to budget _Amoureuses_ finally became a concrete reality.
 
 At a superficial glance, the film could be taken for a sad, nostalgic idyll: the opening sound is of Charles Trenet singing ‘Douce France’, and Nestor Almendros’ photography makes the song title seem perfectly apt. Village streets and neighbouring fields are dappled with sun and shadow; no rain cloud darkens the skies. The soundtrack is as full of open air as the images: crickets chirp, wind whistles through the trees. The story-line equally suggests a recognisable mood and pattern, with its young hero stumbling towards adulthood and sexual experience. Thirteen-year-old Daniel (Martin Loeb) moves from a happy village childhood (living with his grandmother) to a small town adolescence (living with his mother and her silent Spanish lover). His experiences with girls become bolder: from practical jokes (like firing a toy gun at their heads) he moves on to fondle them, kiss them, and eventually he lies down with a dark beauty in the long grass. At the end he returns to the country for a holiday; the girl he used to eye pushes his hands away from her breasts, and he joins his other friends romping innocently in the fields, feeling much older and wiser.
@@ -78,6 +85,51 @@ Syndra Kahn
 France 1975  
 123 mins  
 Digital 4K (restoration)  
+<br>
+<br>
+**LOVE, PAIN & CINEMA: THE FILMS OF JEAN EUSTACHE**  
+**The Virgin of Pessac (La Rosière de Pessac) + The Virgin of Pessac 79 (La Rosière de Pessac 79)**  
+Sun 3 Sep 14:45; Tue 12 Sep 20:20  
+**The Pig (Le Cochon) + Job Offer (Offre d’emploi) + Alix’s Pictures (Les Photos d’Alix)**  
+Sun 3 Sep 18:30; Wed 20 Sep 20:50  
+**The Lost Sorrows of Jean Eustache (La Peine perdue de Jean Eustache) + panel discussion**  
+Tue 5 Sep 18:15  
+**Robinson’s Place (Du côté de Robinson) + Santa Claus Has Blue Eyes (Le Père Noël a les yeux bleus)**  
+Tue 5 Sep 20:40; Thu 14 Sep 18:00  
+**Numéro zéro**  
+Fri 8 Sep 17:55; Sat 23 Sep 11:30  
+**The Mother and the Whore (La Maman et la putain)**  
+Sun 10 Sep 14:15; Sat 23 Sep 14:10  
+**My Little Loves (Mes petites amoureuses)**  
+Mon 11 Sep 18:05; Mon 25 Sep 20:30  
+**A Dirty Story (Une Sale histoire) + Hieronymous Bosch’s Garden of Delights (Le jardin des délices de Jérôme Bosch)**  
+Fri 15 Sep 18:20; Wed 27 Sep 20:40  
+
+**With thanks to**  
+Presented in partnership with Janus Films  
+
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+<br>
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODg1NDM5MywyMTE4MjY1MTIxXX0=
+eyJoaXN0b3J5IjpbNzE5OTIzMTAzLDIxMTgyNjUxMjFdfQ==
 -->
