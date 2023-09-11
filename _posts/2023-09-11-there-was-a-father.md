@@ -19,70 +19,37 @@ Along with purification went the notion of commitment to one’s allotted task, 
 What the foregoing discussion does not take into account is the way in which the unfolding of the film _modulates_ into the wartime propaganda stance. Horikawa’s initial motivation is psychological, since his failure to keep the boys off the lake makes him more severe in his dedication to duty. Moreover, his justification of the separation from Ryohei comes straight from _The Only Son_: he will work to earn the money to send his son to high school, and then college. Horikawa’s self-sacrifice is identified with the stereotype of the late-Meiji parent who sees education as the only way to advance. But once Ryohei grows up and the story moves into the contemporary period, Horikawa appeals to a new principle, that of doing one’s appointed job, no matter how lowly or grim. ‘A man has to serve his country.’ In this respect, _There Was a Father_ is a reversal of _The Only Son_. Whereas Otsune pleads for her son to show ambition, Horikawa urges acceptance. The original script for _There Was a Father_ was written in 1937, immediately after _The Only Son_, and can be seen as an implicit answer to the dilemma of the early film. Teaching in a backwater is not demeaning if one’s job makes a contribution to society. Thus the later film becomes a critique of the _risshin shusse_ careerism depicted in Ozu’s early 1930s work, but a positive critique, one whose point is all the more acceptable in that the national-policy message becomes a ‘natural’ growth of Meiji assumptions about material advancement.  
 **David Bordwell, _Ozu and the Poetics of Cinema_ (BFI/Princeton, 1988) Reproduced by kind permission of Bloomsbury Publishing © David Bordwell**  
 <br>
-<![endif]-->
 
-**THERE WAS A FATHER (CHICHI ARIKI)**
-
-_Director:_ Yasujiro Ozu
-
-_Production Company:_ Shochiku Co. Ltd.
-
-_Assistant Directors:_ Nobuo Nishikawa,
-
-Kiyoshi Suzuki, Kozo Yamamoto,
-
-Yoshio Tsukamoto
-
+**THERE WAS A FATHER (CHICHI ARIKI)**  
+_Director:_ Yasujiro Ozu  
+_Production Company:_ Shochiku Co. Ltd.  
+_Assistant Directors:_ Nobuo Nishikawa, Kiyoshi Suzuki, Kozo Yamamoto, Yoshio Tsukamoto  
 _Screenplay:_ Tadao Ikeda, Takao Yanai,
+Yasujiro Ozu  
+_Director of Photography:_ Yuharu Atsuta  
+_Lighting:_ Katsumi Naito  
+_Camera Assistants:_ Tsuyoshi Saito, Kozuo Suzuki. Yasuji Inoue  
+_Editor:_ Yoshiyasu Hamamura  
+_Art Director:_ Tatsuo Hamada  
+_Music:_ Kyoichi Saiki  
+_Studio:_ Shochiku Ofuna  
 
-Yasujiro Ozu
-
-_Director of Photography:_ Yuharu Atsuta
-
-_Lighting:_ Katsumi Naito
-
-_Camera Assistants:_ Tsuyoshi Saito, Kozuo Suzuki. Yasuji Inoue
-
-_Editor:_ Yoshiyasu Hamamura
-
-_Art Director:_ Tatsuo Hamada
-
-_Music:_ Kyoichi Saiki
-
-_Studio:_ Shochiku Ofuna
-
-_Cast:_
-
-Chishū Ryū _(Shuhei Horikawa)_
-
-Shuji Sano _(Ryohei, Horikawa’s son)_
-
-Haruhiko Tsuda _(Ryohei as a child)_
-
-Shin Saburi _(Yasutaro Kurokawa)_
-
-Takeshi Sakamoto _(Makoto Hirata)_
-
-Mitsuko Mito _(Fumi Hirata)_
-
-Masayoshi Otsuka _(Seiichi Hirata)_
-
-Shinichi Himori _(Minoru Uchida)_
-
-Seiji Nishimura _(priest)_
-
-Shinyo Nara _(doctor)_
-
-Chiyoko Fumitani _(Horikawa’s maid)_
-
-Shoichi Kofujita
-
-Haruhiko Tsuda
-
-Reiko Tani
-
-Kanji Kawara
-
+**Cast**  
+Chishū Ryū _(Shuhei Horikawa)_  
+Shuji Sano _(Ryohei, Horikawa’s son)_  
+Haruhiko Tsuda _(Ryohei as a child)_  
+Shin Saburi _(Yasutaro Kurokawa)_  
+Takeshi Sakamoto _(Makoto Hirata)_  
+Mitsuko Mito _(Fumi Hirata)_  
+Masayoshi Otsuka _(Seiichi Hirata)_  
+Shinichi Himori _(Minoru Uchida)_  
+Seiji Nishimura _(priest)_  
+Shinyo Nara _(doctor)_  
+Chiyoko Fumitani _(Horikawa’s maid)_  
+Shoichi Kofujita  
+Haruhiko Tsuda  
+Reiko Tani  
+Kanji Kawara  
 Kenichi Miyajima  
 Kenji Ôyama  
 Koji Mitsui  
@@ -99,5 +66,5 @@ Japan 1942
 Digital  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjkxNTczMCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTExMzE1MzI5MTcsNzMwOTk4MTE2XX0=
 -->
