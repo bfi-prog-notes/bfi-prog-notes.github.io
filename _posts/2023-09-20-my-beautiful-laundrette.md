@@ -70,36 +70,31 @@ _Camera Trainee:_ Anthony James
 _Camera Grip:_ Jim Monks  
 _2nd Camera Grip:_ Jamie Monks  
 _Gaffer:_ Malcolm Davies  
-_Electricians: Dave McWhinnie, Martin Duncan,
+_Electricians:_ Dave McWhinnie, Martin Duncan, Tony Hare  
+_Stills:_ Mike Laye  
+_Graphics:_ Julian Rothenstein  
+_Editor:_ Mick Audsley  
+_1st Assistant Editor:_ Jason Adams  
+_2nd Assistant Editor:_ Chris Cook  
+_Designer:_ Hugo Luczyk Wyhowski  
+_Production Buyer:_ Jeanne Vertigan  
+_Property Master:_ Ray Perry Sr
+_Costume Designer:_ Lindy Hemming  
+_Wardrobe Mistress:_ Karen Sharpe  
+_Make-up:_ Elaine Carew  
+_Hairdresser:_ Wendy Rawson  
+_Titles:_ Frameline  
+_Music:_ Ludus Tonalis  
+_Music Producers:_ Hans Zimmer, Stanley Myers  
+_Sound Recording:_ Albert Bailey  
+_Boom Operator:_ St. Clair Davis  
+_Dubbing Mixer:_ Peter Maxwell  
+_Dubbing Editor:_ ‘budge’ Tremlett  
+_Assistant Dubbing Editor:_ Matthew Whiteman  
+_Stunt Co-ordinators:_ Rocky Taylor, Jim Dowdall, Bill Weston, Nosher Powell  
 
-Tony Hare  
-Stills: Mike Laye  
-Graphics: Julian Rothenstein  
-Editor: Mick Audsley  
-1st Assistant Editor: Jason Adams  
-2nd Assistant Editor: Chris Cook  
-Designer: Hugo Luczyk Wyhowski  
-Production Buyer: Jeanne Vertigan  
-Property Master: Ray Perry Sr
-
-Costume Designer: Lindy Hemming  
-Wardrobe Mistress: Karen Sharpe  
-Make-up: Elaine Carew  
-Hairdresser: Wendy Rawson  
-Titles: Frameline  
-Music: Ludus Tonalis  
-Music Producers: Hans Zimmer, Stanley Myers  
-Sound Recording: Albert Bailey  
-Boom Operator: St. Clair Davis  
-Dubbing Mixer: Peter Maxwell  
-Dubbing Editor: ‘budge’ Tremlett  
-Assistant Dubbing Editor: Matthew Whiteman  
-Stunt Co-ordinators: Rocky Taylor, Jim Dowdall,
-
-Bill Weston, Nosher Powell  
-Cast:
-
-Daniel Day Lewis (Johnny)  
+**Cast**  
+Daniel Day Lewis _(Johnny)  
 Richard Graham (Genghis)  
 Winston Graham (1st Jamaican)  
 Dudley Thomas (2nd Jamaican)  
@@ -136,5 +131,5 @@ UK 1985©
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjc3OTc4NCwxNDAxMjAwMjIxXX0=
+eyJoaXN0b3J5IjpbLTE1NDkwODQ2OCwxNDAxMjAwMjIxXX0=
 -->
