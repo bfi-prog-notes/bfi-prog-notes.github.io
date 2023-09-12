@@ -1,6 +1,6 @@
 ---
 layout: post
-title: K + Together
+title: K<br>Together
 published: true
 date: 2023-09-13
 readtime: true
