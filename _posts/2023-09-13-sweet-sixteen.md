@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Sweet Sixteen
+published: true
+date: 2023-09-13
+readtime: true
+categories: ['ACTING HARD<br> WORKING CLASS MASCULINITY IN BRITISH CINEMA']
+tags: [Drama]
+metadata: 'UK/Germany/Spain/France/Italy 2002, 106 mins<br> Director: Ken Loach'
+pdf: '2023-09-13-sweet-sixteen.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -160,5 +168,5 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjMzMzUwMCwxMjQ0NzA5MzIxXX0=
+eyJoaXN0b3J5IjpbMTAxNTgxMDUwMywxMjQ0NzA5MzIxXX0=
 -->
