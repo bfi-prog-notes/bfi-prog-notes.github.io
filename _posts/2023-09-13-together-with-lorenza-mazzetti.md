@@ -34,9 +34,9 @@ Both Lorenza and I studied at art school, not film school: Lorenza revealed to u
 Editing my film to create a fluent narrative was very difficult: I had to stitch fragments together to bring some coherence to Lorenza’s stories of tragedies, men, love and monsters. The editing was about finding resonances: hearing something she said and then trying to find passages from her films which responded in some way, or that revealed the undercurrent of trauma. I always tried to be truthful to Lorenza, to avoid editorial imposition, and include extended passages from her films, so that her work could be encountered with greater intensity and understanding.
 
 On our last day in Rome, she told us ‘Why everybody’s dying? … now it’s my moment … you are just lucky that you see me!’ and on the flight back to London, perhaps because my own mother, an artist of a similar generation, had very recently died, I kept returning to her words. When editing the film, I conceived it as a kind of elegy for the 20th century and the post-war collision of darkness and opportunity: for the East End and its workers; for the local pubs and their communities; for directors of art schools who were able to follow their instinct rather than the rules; for its artists and their collaborators and specifically for a unique woman who defied the restrictions of the time.  
-Brighid Lowe, _Noise and Silence_ from BFI booklet for _Lorenza Mazzzetti Collection_ Blu-ray boxset
+**Brighid Lowe, _Noise and Silence_ from BFI booklet for _Lorenza Mazzzetti Collection_ Blu-ray boxset** 
 
-**Speakers**
+**Speakers**  
 
 **Brighid Lowe** is an artist and Associate Professor at the Slade School of Fine Art, University College London. In addition to her art practice, she collaborates on the Slade Film Project with Henry K. Miller, researching the Slade School’s pioneering relationship to film as an art-form. _Together with Lorenza Mazzetti_ is her first film.
 
@@ -60,6 +60,38 @@ Interviewer: Henry K. Miller
 UK 2023©  
 54 mins  
 Digital  
+<br>
+
+**TOGETHER: THE LONDON FILMS OF LORENZA MAZZETTI**  
+**K + intro by Brighid Lowe and Henry K. Miller, hosted by William Fowler + Together**  
+Wed 13 Sep 20:45  
+**Vali, the Witch of Positano**  
+Sun 24 Sep 13:20  
+**Twilight City + intro by BFI National Archive Curator, William Fowler**  
+Tue 3 Oct 18:30  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk) 
+<br>
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5OTYyODcwLDE3Nzc0MzAwNThdfQ==
+eyJoaXN0b3J5IjpbLTEzMDIyNTc5OTgsMTc3NzQzMDA1OF19
 -->
