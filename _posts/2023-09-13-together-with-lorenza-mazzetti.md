@@ -33,8 +33,7 @@ Both Lorenza and I studied at art school, not film school: Lorenza revealed to u
 
 Editing my film to create a fluent narrative was very difficult: I had to stitch fragments together to bring some coherence to Lorenza’s stories of tragedies, men, love and monsters. The editing was about finding resonances: hearing something she said and then trying to find passages from her films which responded in some way, or that revealed the undercurrent of trauma. I always tried to be truthful to Lorenza, to avoid editorial imposition, and include extended passages from her films, so that her work could be encountered with greater intensity and understanding.
 
-On our last day in Rome, she told us ‘Why everybody’s dying? … now it’s my moment … you are just lucky that you see me!’ and on the flight back to London, perhaps because my own mother, an artist of a similar generation, had very recently died, I kept returning to her words. When editing the film, I conceived it as a kind of elegy for the 20th century and the post-war collision of darkness and opportunity: for the East End and its workers; for the local pubs and their communities; for directors of art schools who were able to follow their instinct rather than the rules; for its artists and their collaborators and specifically for a unique woman who defied the restrictions of the time.
-
+On our last day in Rome, she told us ‘Why everybody’s dying? … now it’s my moment … you are just lucky that you see me!’ and on the flight back to London, perhaps because my own mother, an artist of a similar generation, had very recently died, I kept returning to her words. When editing the film, I conceived it as a kind of elegy for the 20th century and the post-war collision of darkness and opportunity: for the East End and its workers; for the local pubs and their communities; for directors of art schools who were able to follow their instinct rather than the rules; for its artists and their collaborators and specifically for a unique woman who defied the restrictions of the time.  
 Brighid Lowe, _Noise and Silence_ from BFI booklet for _Lorenza Mazzzetti Collection_ Blu-ray boxset
 
 **Speakers**
@@ -45,17 +44,13 @@ Brighid Lowe, _Noise and Silence_ from BFI booklet for _Lorenza Mazzzetti Collec
 
 **Host: Carol Morley** is a writer/director. Her new film _Typist Artist Pirate King_ will be released on 27th October by Modern Films.
 <br>
-<![endif]-->
 
-**The Country Doctor**
+**THE COUNTRY DOCTOR**  
+_Director:_ Lorenza Mazzetti  
+UK 1953  
+10 mins  
 
-_Director:_ Lorenza Mazzetti
-
-UK 1953
-
-10 mins
-
-**Together with Lorenza Mazzetti**
+**TOGETHER WITH LORENZA MAZZETTI**  
 _Director:_ Brighid Lowe  
 _Co-director:_ Gilly Booth   
 _©:_ Brighid Lowe  
@@ -66,5 +61,5 @@ UK 2023©
 54 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTgwNjI3ODcsMTc3NzQzMDA1OF19
+eyJoaXN0b3J5IjpbNTI5OTYyODcwLDE3Nzc0MzAwNThdfQ==
 -->
