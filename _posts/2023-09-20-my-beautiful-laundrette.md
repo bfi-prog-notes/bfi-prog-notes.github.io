@@ -18,8 +18,7 @@ Originally shot for television in six weeks on a low budget, _My Beautiful Laund
 
 _My Beautiful Laundrette_ was ground-breaking in its bold exploration of issues of sexuality, race, class and generational difference. It also sparked controversy, particularly within the Asian community, which was disgusted by its perceived degrading representation of Pakistanis. At a New York demonstration by the Pakistan Action Committee, banners called the film ‘the product of a vile and perverted mind’.
 
-Much of the outrage was targeted at the homosexual affair between Omar and Johnny, which develops from a genuine mutual fondness through the buzz of sexual experimentation, before hinting, at the end, at something deeper.  
-On the way, it survives several obstacles, including Johnny’s racist connections and Omar’s resentment.
+Much of the outrage was targeted at the homosexual affair between Omar and Johnny, which develops from a genuine mutual fondness through the buzz of sexual experimentation, before hinting, at the end, at something deeper. On the way, it survives several obstacles, including Johnny’s racist connections and Omar’s resentment.
 
 The film highlights a dilemma at the heart of the immigrant experience – the desire to belong to Western society while maintaining a clear sense of Pakistani identity. The two brothers, Nasser and Papa, demonstrate this cultural conflict. An ardent intellectual socialist, Papa belongs to old school Pakistan because, like most first generation immigrants, he believes fervently in education combating racism and is vehemently against the greed and conservative economics of Thatcherism.
 
