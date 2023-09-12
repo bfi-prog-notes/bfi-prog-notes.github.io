@@ -51,28 +51,26 @@ _Production Companies:_ Working Title Films, SAF Productions, Channel Four
 _Producers:_ Sarah Radclyffe, Tim Bevan  
 _Production Accountant:_ Bill Craster  
 _Assistant Accountant:_ Grainne Marmion  
-_Production Manager: Jane Frazer  
-Location Manager: Rebecca O’Brien  
-Production Assistant: Sarah O’Brien  
-Production Runner: Sam Garwood  
-Unit Runners: Chris Bruce, Charlie McGrigor  
-NFS Attachments: Jo Brown, Ronald Bailey,
-
-Abdul Chowdray, Andree de Silva  
-1st Assistant Director: Simon Hinkly  
-2nd Assistant Director: Waldo Roeg  
-3rd Assistant Director: Gary Davies  
-Continuity: Penny Eyles  
-Casting: Debbie McWilliams  
-Screenplay: Hanif Kureishi  
-Director of Photography: Oliver Stapleton  
-Focus Puller: Steve Keith-Roach  
-Clapper: Fiona Cunningham Reid  
-Camera Trainee: Anthony James  
-Camera Grip: Jim Monks  
-2nd Camera Grip: Jamie Monks  
-Gaffer: Malcolm Davies  
-Electricians: Dave McWhinnie, Martin Duncan,
+_Production Manager:_ Jane Frazer  
+_Location Manager:_ Rebecca O’Brien  
+_Production Assistant:_ Sarah O’Brien  
+_Production Runner:_ Sam Garwood  
+_Unit Runners:_ Chris Bruce, Charlie McGrigor  
+NFS Attachments: Jo Brown, Ronald Bailey, Abdul Chowdray, Andree de Silva  
+_1st Assistant Director:_ Simon Hinkly  
+_2nd Assistant Director:_ Waldo Roeg  
+_3rd Assistant Director:_ Gary Davies  
+_Continuity:_ Penny Eyles  
+_Casting:_ Debbie McWilliams  
+_Screenplay:_ Hanif Kureishi  
+_Director of Photography:_ Oliver Stapleton  
+_Focus Puller:_ Steve Keith-Roach  
+_Clapper:_ Fiona Cunningham Reid  
+_Camera Trainee:_ Anthony James  
+_Camera Grip:_ Jim Monks  
+_2nd Camera Grip:_ Jamie Monks  
+_Gaffer:_ Malcolm Davies  
+_Electricians: Dave McWhinnie, Martin Duncan,
 
 Tony Hare  
 Stills: Mike Laye  
@@ -138,5 +136,5 @@ UK 1985©
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE2OTU2MDAsMTQwMTIwMDIyMV19
+eyJoaXN0b3J5IjpbLTQyMjc3OTc4NCwxNDAxMjAwMjIxXX0=
 -->
