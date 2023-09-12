@@ -6,8 +6,8 @@ date: 2023-09-13
 readtime: true
 categories: ['TOGETHER<br> THE LONDON FILMS OF LORENZA MAZZETTI']
 tags: [Experimental]
-metadata: 'UK 1953, 90 mins<br> Director: Shane Meadows'
-pdf: '2023-09-12-dead-mans-shoes.pdf'
+metadata: 'UK 1953, 29 mins<br> Director: Lorenza Mazzetti'
+pdf: '2023-09-13-k-together.pdf'
 ---
 
 _+ intro discussing the Mazzetti film restorations by William Fowler, Curator, and Elena Nepoti, Film Conservation Manager, BFI National Archive_
@@ -121,5 +121,5 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ0Mzc5NTBdfQ==
+eyJoaXN0b3J5IjpbLTQ0MzE1MDkyMF19
 -->
