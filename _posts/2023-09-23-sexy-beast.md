@@ -1,14 +1,22 @@
-
-<![endif]-->
+---
+layout: post
+title: Sexy Beast
+published: true
+date: 2023-09-23
+readtime: true
+categories: ['ACTING HARD<br> WORKING CLASS MASCULINITY IN BRITISH CINEMA']
+tags: [Drama, Thriller]
+metadata: 'UK 2020, 110 mins<br> Director: Gerard Johnson'
+pdf: '2023-09-22-muscle.pdf'
+---
 
 _Contains strong violence._
 
-If _Scum_’s Carlin made it to adulthood, he might have resembled Gal, an ex-con enjoying life in the south of Spain. But the arrival of terrifying gang enforcer Don Logan disrupts Gal’s languorous, sun-kissed existence. Commercials and music video director Jonathan Glazer parodies masculine bravado with glee, while Winstone and Kingsley turn in career-best performances.
-bfi.org.uk
+If _Scum_’s Carlin made it to adulthood, he might have resembled Gal, an ex-con enjoying life in the south of Spain. But the arrival of terrifying gang enforcer Don Logan disrupts Gal’s languorous, sun-kissed existence. Commercials and music video director Jonathan Glazer parodies masculine bravado with glee, while Winstone and Kingsley turn in career-best performances.  
+**bfi.org.uk**  
 
-**Jonathan Glazer on ‘Sexy Beast’**
-
-_Why did you want to make_ Sexy Beast_?_
+**Jonathan Glazer on ‘Sexy Beast’**  
+_Why did you want to make_ Sexy Beast _?_
 
 The work of writers Louis Mellis and David Scinto had a flavour that spoke to me. I was seduced by their dialogue and we planned to do _Gangster No.1_ together four years ago, before this whole spate of gangster films. The script they developed and wrote was quite extraordinary, then because of various political shenanigans we all removed ourselves from the project. But I stayed with the writers and they wrote _Sexy Beast_. The character of Don Logan was the hook of the film – he’s funny and tragic and puritanical, like a parking attendant putting a ticket on a windscreen. He’s that officious little worm and Ben Kingsley plays him very well.
 
@@ -129,6 +137,58 @@ Pedro Zamora Hernández _(policia 3)_
 UK-Spain-USA 2000  
 88 mins  
 35mm  
+<br>
+
+**ACTING HARD: WORKING CLASS MASCULINITY IN BRITISH CINEMA**  
+**Scum**  
+Sat 2 Sep 17:50; Fri 8 Sep 18:20  
+**Bullet Boy**  
+Wed 6 Sep 20:50; Sat 9 Sep 20:55  
+**Face**  
+Thu 7 Sep 18:10 (+ intro by season curator Nia Childs); Mon 18 Sep 20:45  
+**Beautiful Thing**  
+Sun 10 Sep 18:30; Fri 22 Sep 20:40  
+**Dead Man’s Shoes + Q&A with Shane Meadows and Paddy Considine**  
+Tue 12 Sep 18:10  
+**Sweet Sixteen**  
+Wed 13 Sep 18:00; Mon 25 Sep 20:40  
+**Blue Story**  
+Thu 14 Sep 18:15; Sat 23 Sep 20:40  
+**My Beautiful Laundrette**  
+Wed 20 Sep 18:10; Thu 28 Sep 20:30  
+**Muscle + Q&A with director Gerard Johnson, actors Craig Fairbrass, Cavan Clerkin and Polly Maberly**  
+Fri 22 Sep 18:00  
+**Sexy Beast**  
+Sat 23 Sep 18:20; Mon 2 Oct 20:30  
+**Mona Lisa**  
+Sun 24 Sep 18:20; Fri 29 Sep 20:30  
+**Govan Ghost Story**  
+Mon 25 Sep 18:30  
+**The Football Factory + intro by Danny Dyer**  
+Mon 25 Sep 20:45  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk) 
+<br>
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTYzOTAyNDJdfQ==
+eyJoaXN0b3J5IjpbLTE4MDY3MjY5MV19
 -->
