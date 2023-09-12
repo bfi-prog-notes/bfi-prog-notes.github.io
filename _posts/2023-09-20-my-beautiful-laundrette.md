@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: My Beautiful Laundrette
+published: true
+date: 2023-09-20
+readtime: true
+categories: ['ACTING HARD<br> WORKING CLASS MASCULINITY IN BRITISH CINEMA']
+tags: [Drama]
+metadata: 'UK 2019, 91 mins<br> Director: Rapman'
+pdf: '2023-09-14-blue-story.pdf'
+---
 
 _Contains strong violence and racist terms._
 
@@ -116,20 +124,71 @@ Stephen Marcus _(Moose)_
 Dawn Archibald _(1st gang member)_  
 Jonathan Moore _(2nd gang member)_  
 Gerard Horan _(telephone man)_  
-Ram John Holder (poet)  
-Bhasker (Tariq)  
-Ayub Khan Din (student)  
-Dulice Liecier (girl in disco)  
-Badi Uzzaman (dealer)  
-Chris Pitt (1st kid)  
-Kerryann White (2nd kid)  
-Colin Campbell (Madame Butterfly man)  
-Sheila Chitnis (Zaki’s wife)  
-UK 1985©
+Ram John Holder _(poet)_  
+Bhasker _(Tariq)_  
+Ayub Khan Din _(student)_  
+Dulice Liecier _(girl in disco)_  
+Badi Uzzaman _(dealer)_  
+Chris Pitt _(1st kid)_  
+Kerryann White _(2nd kid)_  
+Colin Campbell _(Madame Butterfly man)_  
+Sheila Chitnis _(Zaki’s wife)_  
+UK 1985©  
+<br>
 
+**ACTING HARD: WORKING CLASS MASCULINITY IN BRITISH CINEMA**  
+**Scum**  
+Sat 2 Sep 17:50; Fri 8 Sep 18:20  
+**Bullet Boy**  
+Wed 6 Sep 20:50; Sat 9 Sep 20:55  
+**Face**  
+Thu 7 Sep 18:10 (+ intro by season curator Nia Childs); Mon 18 Sep 20:45  
+**Beautiful Thing**  
+Sun 10 Sep 18:30; Fri 22 Sep 20:40  
+**Dead Man’s Shoes + Q&A with Shane Meadows and Paddy Considine**  
+Tue 12 Sep 18:10  
+**Sweet Sixteen**  
+Wed 13 Sep 18:00; Mon 25 Sep 20:40  
+**Blue Story**  
+Thu 14 Sep 18:15; Sat 23 Sep 20:40  
+**My Beautiful Laundrette**  
+Wed 20 Sep 18:10; Thu 28 Sep 20:30  
+**Muscle + Q&A with director Gerard Johnson, actors Craig Fairbrass, Cavan Clerkin and Polly Maberly**  
+Fri 22 Sep 18:00  
+**Sexy Beast**  
+Sat 23 Sep 18:20; Mon 2 Oct 20:30  
+**Mona Lisa**  
+Sun 24 Sep 18:20; Fri 29 Sep 20:30  
+**Govan Ghost Story**  
+Mon 25 Sep 18:30  
+**The Football Factory + intro by Danny Dyer**  
+Mon 25 Sep 20:45  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk) 
+<br>
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 97 mins
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDA0MTEwMywxNDAxMjAwMjIxXX0=
+eyJoaXN0b3J5IjpbLTE0MTgyNTM2MzEsMTQwMTIwMDIyMV19
 -->
