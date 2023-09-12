@@ -38,26 +38,20 @@ This unlikely affair not only provides the focus for the film’s ruminations on
 The strength of _My Beautiful Laundrette_ is that it asks difficult questions in a provocative and entertaining manner, managing to be critical and sympathetic at the same time. Maybe, in the end, we are asked to sympathise with too many characters at once, so that we are left in a familiar liberal impasse; and perhaps some themes could have been more fully developed to toughen up the film’s political message. But there is no doubt on this evidence that Hanif Kureishi is an exciting new voice in British television.  
 **Pam Cook, _Monthly Film Bulletin_, November 1985**  
 <br>
-<![endif]-->
 
-**JUMP BOY**
+**JUMP BOY**  
+_Director:_ Menhaj Huda  
+UK 1998  
+11 mins  
 
-_Director:_ Menhaj Huda
+**MY BEAUTIFUL LAUNDRETTE**  
 
-UK 1998
-
-11 mins
-
-**MY BEAUTIFUL LAUNDRETTE**
-
-Director: Stephen Frears  
-Production Companies: Working Title Films,
-
-SAF Productions, Channel Four  
-Producers: Sarah Radclyffe, Tim Bevan  
-Production Accountant: Bill Craster  
-Assistant Accountant: Grainne Marmion  
-Production Manager: Jane Frazer  
+_Director:_ Stephen Frears  
+_Production Companies:_ Working Title Films, SAF Productions, Channel Four  
+_Producers:_ Sarah Radclyffe, Tim Bevan  
+_Production Accountant:_ Bill Craster  
+_Assistant Accountant:_ Grainne Marmion  
+_Production Manager: Jane Frazer  
 Location Manager: Rebecca O’Brien  
 Production Assistant: Sarah O’Brien  
 Production Runner: Sam Garwood  
@@ -138,10 +132,11 @@ Chris Pitt (1st kid)
 Kerryann White (2nd kid)  
 Colin Campbell (Madame Butterfly man)  
 Sheila Chitnis (Zaki’s wife)  
+UK 1985©
 
-UK 1985©  
-97 mins  
-Digital  
+97 mins
+
+Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDY0NTIzNiwxNDAxMjAwMjIxXX0=
+eyJoaXN0b3J5IjpbLTIxMjE2OTU2MDAsMTQwMTIwMDIyMV19
 -->
