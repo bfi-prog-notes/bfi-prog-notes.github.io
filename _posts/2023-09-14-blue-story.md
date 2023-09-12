@@ -33,15 +33,14 @@ Watching _Blue Story_, there is little to suggest a director cutting his teeth i
 Meanwhile, the BFI National Archive recently acquired the _Shiro’s Story_ trilogy for long-term preservation. It’s always interesting hearing a contemporary filmmaker reflect on how their work might be considered in the wash of time and Rapman’s answer felt particularly poignant: ‘I hope that audiences of the future look at my work the way that I look at films like _West Side Story_, exploring those big themes of loyalty, heartbreak and betrayal. I hope they also realise that _Shiro’s Story_ was a game-changer, not just for me as a filmmaker but also for what can be done now. I think a lot of people like me feel there are platforms they can’t get on but the fact is they have to look around and use the ones they have access to.’  
 **Will Massa, _Sight and Sound_, December 2019**  
 <br>
-<![endif]-->
 
-**A Letter to Black Men**
+**A LETTER TO BLACK MEN**
 
 _Director:_ Kiosa Sukami
 
 UK 2022
 
-20 minS
+20 mins
 
 **Blue Story**
 
@@ -95,5 +94,5 @@ UK 2019©
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDA0NDU0XX0=
+eyJoaXN0b3J5IjpbLTYyMzM4MTcxXX0=
 -->
