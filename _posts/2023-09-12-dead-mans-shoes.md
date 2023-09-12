@@ -5,9 +5,9 @@ published: true
 date: 2023-09-12
 readtime: true
 categories: ['ACTING HARD<br> WORKING CLASS MASCULINITY IN BRITISH CINEMA']
-tags: [Th]
-metadata: 'UK 1996, 91 mins<br> Director: Hettie MacDonald'
-pdf: '2023-09-10-beautiful-thing.pdf'
+tags: [Thriller]
+metadata: 'UK 2004, 90 mins<br> Director: Shane Meadows'
+pdf: '2023-09-12-dead-mans-shoes.pdf'
 ---
 _+ Q&A with Shane Meadows and producer Mark Herbert_
 
@@ -156,5 +156,5 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4OTk5NDIxLDE5ODc2NzA0MjBdfQ==
+eyJoaXN0b3J5IjpbLTE4MTUyMjM2MjksMTk4NzY3MDQyMF19
 -->
