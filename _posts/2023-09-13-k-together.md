@@ -34,6 +34,72 @@ Other than Michael Andrews and Eduardo Paolozzi, only three performers are credi
 
 Production was completed a year after principal photography, in mid-1955, after the BFI put Mazzetti together with Lindsay Anderson, credited as supervising editor. Essentially he served as producer by helping Mazzetti edit it, arranging additional photography, organising the recording of the soundtrack, and giving the film its title. He also very effectively stage-managed the film’s launch as part of the first Free Cinema programme in February 1956. But the body of the film had been shot in 1954, largely at Mazzetti’s initiative, with Ahmed al-Hadary as cameraman, working with 35mm for the first time. It was they who went out in search of the film’s astonishing range of East End locations, from Wapping to Canning Town, persuading pub landlords, dock workers, and fairground operators to let them film in their places of work – two outsiders discovering a new city.  
 **Henry K Miller,  from BFI booklet for _Lorenza Mazzzetti Collection_ Blu-ray boxset**  
+<br>
+<![endif]-->
+
+**K**
+
+_Director_: Lorenza Mazzetti  
+_Presented by_: British Film Institute,
+
+Slade School of Fine Art  
+_Suggested by the work of_: Franz Kafka  
+_Cameraman_: Ahmed Al Hadary  
+_Music_: Danièle Paris  
+_Sound_: Jacopo Treves
+
+_Cast:_  
+Michael Andrews _(Gregory Samsa)_  
+Claude Rogers _(the father)_  
+Mary Rava _(the mother)_  
+Hilary Morris _(the sister)_  
+Jacob Lowensberg _(the boss)_  
+Walter Bloor _(a guest)_
+
+UK 1953
+
+29 mins
+
+Digital 4K (restoration)
+
+**Together**
+
+_Directed by_: Lorenza Mazzetti  
+_In collaboration with_: Denis Horne  
+_Production Company_: Harlequin Productions  
+_Made with the support of_:
+
+British Film Institute Experimental Film Fund  
+_[Executive Producer]_: Denis Horne *  
+_Story and Scenario by_: Denis Horne  
+_Photography_: Hamed Hadari  
+_Additional Photography_: Geoffrey Simpson, Walter Lassally, John Fletcher  
+_Supervising Editor_: Lindsay Anderson  
+_Editor_: John Fletcher  
+_Music by_: Danièle Paris  
+_Played by_: Sinfonia of London  
+_Recordist_: John Fletcher
+
+_Cast:_  
+Michael Andrews  
+Eduardo Paolozzi  
+Valy  
+Denis Richardson  
+Cecilia May
+
+UK 1956
+
+48 mins  
+Digital 4K (restoration)  
+\* Uncredited  
+
+**TOGETHER: THE LONDON FILMS OF LORENZA MAZZETTI**  
+**K + intro by Brighid Lowe and Henry K. Miller, hosted by William Fowler + Together**  
+Wed 13 Sep 20:45  
+**Vali, the Witch of Positano**  
+Sun 24 Sep 13:20  
+**Twilight City + intro by BFI National Archive Curator, William Fowler**  
+Tue 3 Oct 18:30  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3NzU5OTgzXX0=
+eyJoaXN0b3J5IjpbNzc5MjQ2Mjg2XX0=
 -->
