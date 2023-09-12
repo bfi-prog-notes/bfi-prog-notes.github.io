@@ -6,7 +6,7 @@ date: 2023-09-13
 readtime: true
 categories: ['TOGETHER<br> THE LONDON FILMS OF LORENZA MAZZETTI']
 tags: [Documentary]
-metadata: 'UK 2023, 54 mins<br> Director: Lorenza Mazzetti'
+metadata: 'UK 2023, 54 mins<br> Director: Brighid Lowe'
 pdf: '2023-09-13-together-with-lorenza-mazzetti.pdf'
 ---
 **SPOILER WARNING** The following content may reveal plot details
