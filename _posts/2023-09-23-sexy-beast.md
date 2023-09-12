@@ -4,7 +4,6 @@
 _Contains strong violence._
 
 If _Scum_’s Carlin made it to adulthood, he might have resembled Gal, an ex-con enjoying life in the south of Spain. But the arrival of terrifying gang enforcer Don Logan disrupts Gal’s languorous, sun-kissed existence. Commercials and music video director Jonathan Glazer parodies masculine bravado with glee, while Winstone and Kingsley turn in career-best performances.
-
 bfi.org.uk
 
 **Jonathan Glazer on ‘Sexy Beast’**
@@ -36,7 +35,100 @@ I looked at total unknowns and at famous people – I didn’t really care as lo
 _What was the most difficult thing?_
 
 It’s hard to say. Ben Kingsley was on a William Friedkin movie until two weeks into our eight-week shoot with legal letters going back and forth to the US all the time so I had to shoot scenes I hadn’t planned to shoot to begin with. It was a baptism of fire. But in a way it worked out well because by the time he came on set the other actors had bonded – they were playing friends in Spain and they had become friends in Spain and they were all dreading Ben Kingsley turning up the way their characters dreaded Don Logan’s arrival. He literally walked in on them having barbecues and running on the beach. When he arrived we did a scene at the airport and then he shook hands with a couple of people and at lunchtime he sat at the end of the bench with his newspaper up. That was the way he worked for the first two weeks. He detached himself from everything so when we did the first scene where all five of them are together it was weird. They were scared of him and apprehensive of what he was going to deliver.  
-**Interview with Jonathan Glazer by Nick James, _Sight and Sound_, January 2001**
+**Interview with Jonathan Glazer by Nick James, _Sight and Sound_, January 2001**  
+<br>
+
+**THREE BULL MASTIFFS IN A CORNER KITCHEN**  
+_Director:_ Paul Chambers  
+UK 2022  
+12 mins  
+
+**SEXY BEAST**  
+_Director_: Jonathan Glazer  
+_©_: Sexy RPC Limited  
+_©/Presented in association with_: KanZaman S.A.  
+_©/Presented by_: FilmFour Limited  
+_Presented by_: Recorded Picture Company  
+_Presented in association with_: Fox Searchlight Pictures  
+_Developed in association with_: Chronopolis Films  
+_Producer_: Jeremy Thomas  
+_Co-producer_: Denise O’Dell  
+_Associate Producers_: Hercules Bellville, Peter Watson  
+_Production Supervisor_: Mark Albela  
+_Production Accountants_: Mar Henche, Pauline Brown  
+_Location Manager (UK Unit)_: Rod Haak  
+_Location Manager (Spanish Unit)_: Toni Novella  
+_Post-production (Supervisor)_: Mike Saxton  
+_1st Assistant Director_: Kieron Phipps  
+_Script Supervisor_: Jane Fryers  
+_Casting_: Lucy Boulting  
+_Written by_: Louis Mellis, David Scinto  
+_Director of Photography_: Ivan Bird  
+_Underwater Cameraman (Underwater Unit)_: Mike Valentine  
+_Camera Operator_: Ian Foster  
+_Effects_: The Computer Film Company  
+_Editor_: John Scott, Sam Sneade  
+_Assistant Editor_: Alexander Soskin  
+_Production Designer_: Jan Houllevigue  
+_Art Directors (UK Unit)_: Steve Simmonds, Marcus Wookey, James Alexander Hamilton  
+_Art Directors (Spanish Unit)_: Carlos Suárez Bodelón  
+_Set Decorator_: Jane Cooke  
+_Costume Designer_: Louise Stjernsward  
+_Make-up/Hair (Designers)_: Eusebio Márquez Lebreros, Michele Baylis  
+_Special Effects Make-up_: Dream Factory  
+_Titles_: General Screen Enterprises  
+_Colour Grader_: Mike Stainer  
+_Original Music Written and Recorded by_: Roque Baños  
+_Additional Music_: UNKLE, South  
+_Guitar Soloist_: José Maria Gallardo del Rey  
+_Boom Operator_: Sara Fijo  
+_Dubbing Mixer_: Tim Alban  
+_Supervising Sound Editor_: Jeremy Price  
+_Dialogue Editor_: Hilary Wyatt, Rory Farnan  
+_Stunt Co-ordinator (Spanish Unit)_: Miguel Pedregosa  
+_Spanish Unit Horse Master_: Luis Miguel Arranz  
+_With Thanks to_: Howard Shore  
+_Dedicated to_: Cavan Kendall  
+_Armourer (UK Crew)_: Gregg Pearson  
+_Armourers_: Armería Roasa, Perdix Firearms  
+_Studio_: Three Mills Island Studio, Action Under Water Studios  
+
+**Cast**  
+Ray Winstone _(Gary Dove, ‘Gal’)_  
+Ben Kingsley _(Don Logan)_  
+Ian McShane _(Teddy Bass)_  
+Amanda Redman _(DeeDee)_  
+Cavan Kendall _(Aitch)_  
+Julianne White _(Jackie)_  
+Alvaro Monje _(Enrique, the kid)_  
+James Fox _(Harry)_  
+Robert Atiko _(Andy)_  
+Nieves del Amo Oruet _(air hostess)_  
+Enrique Alemán Fabrega _(pilot)_  
+Gérard Barray _(Spanish official)_  
+José Ma Cano Ramos _(Felipe’s friend 1)_  
+Desirée Erasmus _(Jean)_  
+Santiago Frías Muñoz _(policia 2)_  
+José Hernández _(ginger’air steward)_  
+Ana Maldonado Herrería _(Maruja, matronly woman)_  
+Andy Lucas _(Jimmy)_  
+José Lirola Ramos _(policia 1)_  
+José López Carrillo _(Felipe’s friend 2)_  
+QUESADA Márquez, Antonio Fco _(steward 2)_  
+Juan Manuel Martínez Cobos _(policia 4)_  
+Dionisio Mesa _(Felipe)_  
+Eddie O’Connell _(Bruno)_  
+Terry Plummer _(Mike)_  
+Manuel Sánchez Berlanga _(man on plane)_  
+Frank Scinto _(Pete)_  
+Darkie Smith _(Stan)_  
+Rocky Taylor _(Raymond)_  
+Chris Webb _(Nicky)_  
+Pedro Zamora Hernández _(policia 3)_  
+
+UK-Spain-USA 2000  
+88 mins  
+35mm  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1MDcwNzkxXX0=
+eyJoaXN0b3J5IjpbLTE1NTYzOTAyNDJdfQ==
 -->
