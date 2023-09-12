@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: Early Spring
+published: true
+date: 2023-09-14
+readtime: true
+categories: ['A FAMILY AFFAIR<br> THE FILMS OF YASUJIRO OZU']
+tags: [Drama]
+metadata: 'Japan 1956, 145 mins<br> Director: Yasujiro Ozu'
+pdf: '2023-09-10-early-spring.pdf'
+---
 
 **SPOILER WARNING  The following notes give away some of the plot.**
 
@@ -25,6 +32,84 @@ I’m interested in how the reception to his previous film _Tokyo Story_ made Oz
 
 At the end of the film, upon Masako’s arrival at Shoji’s new rural home, one might expect the newly reconciled couple to have a really good hug, but they do no such thing. Instead, they simply both rise to look out of the window at a passing train. Agreeing that they could be back in Tokyo in just three hours via this train is a tentative acknowledgement that they’re starting their life again together. There are then shots of chimneys spewing out acrid (fire brick?) smoke, and there we have it, a cold, barely satisfying ending, but with a flicker of hope. Ozu was probably much happier with this ending, but tranquillity is neither happiness nor despair.  
 **Nick Wrigley, extract from _Early Spring_ DVD booklet essay (BFI, 2012)**  
+<br>
+<![endif]-->
+
+**EARLY SPRING (SÔSHUN)**
+
+_Director_: Yasujiro Ozu  
+©: Shochiku Co. Ltd.  
+_Production Company_: Shochiku Co. Ltd.  
+_Producer_: Shizuo Yamanouchi  
+_Production Manager_: Tomiji Shimizu  
+_Assistant Director_: Kozo Tashiro  
+_Screenplay_: Kogo Noda, Yasujiro Ozu  
+_Director of Photography_: Yuharu Atsuta  
+_Lighting_: Masao Kato  
+_Camera Assistant_: Takashi Kawamata  
+_Editor_: Yoshiyasu Hamamura  
+_Art Director_: Tatsuo Hamada  
+_Set Decorator_: Setsutaro Moritani  
+_Costumes_: Yuji Nagashima  
+_Music_: Takanobu Saito  
+_Sound Recording_: Yoshisaburo Senoo  
+_Studio_: Shochiku Ofuna
+
+_Cast:_
+
+Chikage Awashima _(Masako Sugiyama)_  
+Ryo Ikebe _(Shoji)_  
+Teiji Takahashi _(Taizo Aoki)_  
+Keiko Kishi _(Chiyo Kaneko, ‘Goldfish’)_  
+Chishu Ryu _(Kiichi Onodera)_  
+Sô Yamamura _(Yutaka Kawai)_  
+Takako Fujino _(Terumi Aoki)_  
+Masami Taura _(Koichi Kitagawa)_  
+Haruko Sugimura _(Tamako, Masako’s mother)_  
+Kumeko Urabe _(Shige Kitagawa)_  
+Kuniko Miyake _(Yukiko Kawai)_  
+Eijirô Tono _(Hattori)_  
+Koji Mitsui _(Sugiyama’s ex-army friend)_  
+Daisuke Katô _(Sugiyama’s ex-army friend)_  
+Fujio Suga  
+Haruo Tanaka  
+Chieko Nakakita  
+Kazuko Yamamoto  
+Tatsuro Nagai  
+Keijiro Morozumi  
+Nobuo Nakamura _(Arakawa)_  
+Seiji Miyaguchi  
+Teruko Nagaoka  
+Junji Masuda  
+Tsusai Sugawara  
+Hiroko Sugita  
+Zen Murase  
+Nobu Kawaguchi  
+Hoichi Takeda  
+Toshio Shimamura  
+Jun Tanizaki  
+Asaka Hasebe  
+Ko Suenaga  
+Tsuneko Sasaki  
+Yoko Chimura  
+Ko Sahara  
+Shenichi Inagawa  
+Shosuke Oni  
+Kentaro Imai  
+Hideo Matsuno  
+Hisako Mine  
+Yasuyuki Suzuki  
+Masahiko Kanoo  
+Masahiko Inoue  
+Akira Chiba  
+Tami Yamamoto  
+Chieko Ota  
+Junji Nakayama  
+Koichi Yamada  
+
+Japan 1956©  
+145 mins  
+Digital 4K (restoration)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODEwNjM2NjJdfQ==
+eyJoaXN0b3J5IjpbLTIwODc3MzkyOTRdfQ==
 -->
