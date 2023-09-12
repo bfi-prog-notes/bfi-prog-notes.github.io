@@ -6,8 +6,8 @@ date: 2023-09-23
 readtime: true
 categories: ['ACTING HARD<br> WORKING CLASS MASCULINITY IN BRITISH CINEMA']
 tags: [Drama, Thriller]
-metadata: 'UK 2020, 110 mins<br> Director: Gerard Johnson'
-pdf: '2023-09-22-muscle.pdf'
+metadata: 'UK/Spain/USA 2000, 88mins<br> Director: Jonathan Glazer'
+pdf: '2023-09-23-sexy-beast.pdf'
 ---
 
 _Contains strong violence._
@@ -134,7 +134,7 @@ Rocky Taylor _(Raymond)_
 Chris Webb _(Nicky)_  
 Pedro Zamora Hernández _(policia 3)_  
 
-UK-Spain-USA 2000  
+UK/Spain/USA 2000  
 88 mins  
 35mm  
 <br>
@@ -190,5 +190,5 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY3MjY5MV19
+eyJoaXN0b3J5IjpbLTEyMTE0OTIwNDJdfQ==
 -->
