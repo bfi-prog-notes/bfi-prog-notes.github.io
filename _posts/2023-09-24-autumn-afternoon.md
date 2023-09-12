@@ -1,8 +1,14 @@
-
-
-
-<![endif]-->
-
+---
+layout: post
+title: An Autumn Afternoon
+published: true
+date: 2023-09-24
+readtime: true
+categories: ['A FAMILY AFFAIR<br> THE FILMS OF YASUJIRO OZU']
+tags: [Drama]
+metadata: 'Japan 1962, 113 mins<br> Director: Yasujiro Ozu'
+pdf: '2023-09-24-autumn-afternoon.pdf'
+---
 Critics, especially _auteur_ critics, tend to take an artist’s last work as a summing up, the goal toward which every other work has moved. The impulse is hard to resist with respect to _An Autumn Afternoon_. Here is Chishu Ryu, front and centre as he has been in no Ozu ﬁlm since _Tokyo Story_; how can he not be Ozu’s alter ego, brought back for a ﬁnal encompassing statement? Here too are many familiar faces – players from ﬁlms from _The Brothers and Sisters of the Toda Family_ onward. And here, surely, is Ozu’s last meditation on resignation to change, on the inevitable dissolution of the family, on the ultimate loneliness facing every individual.
 
 Actually, all this is not entirely plausible. Ozu was told to avoid borrowing actors from other studios; hence the Shochiku stock company and the centrality of Ryu. Moreover, a close look at the ﬁlm suggests that while it owes a good deal to prior works, in its characterisation of young people and especially women, it constitutes a departure, not a repetition. Finally, it is signiﬁcant that the narration observes the protagonist with more detachment than would be expected of the sympathetic study of solitude we get in, say, _Late Autumn_. The English-language title itself perhaps slants too much toward sombreness. The original title is ‘The Taste of Sanma’; it does evoke the brief season in late summer when _sanma_, a variety of mackerel, is at its most savoury, but the phrase is also appropriate for a movie that revolves around eating and drinking and that features a scene in which an old man, confessing that he leads a lonely life, discovers the succulence of sea-eel.
@@ -57,5 +63,5 @@ Japan 1962
 113 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQwMTc1NTRdfQ==
+eyJoaXN0b3J5IjpbMTg1NDIzNTQyOV19
 -->
