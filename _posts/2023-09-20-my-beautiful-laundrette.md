@@ -51,7 +51,6 @@ UK 1998
 11 mins  
 
 **MY BEAUTIFUL LAUNDRETTE**  
-
 _Director:_ Stephen Frears  
 _Production Companies:_ Working Title Films, SAF Productions, Channel Four  
 _Producers:_ Sarah Radclyffe, Tim Bevan  
@@ -186,9 +185,7 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 **Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
-97 mins
 
-Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTM3MDM5NiwxNDAxMjAwMjIxXX0=
+eyJoaXN0b3J5IjpbMjIzMDcyNDc5LDE0MDEyMDAyMjFdfQ==
 -->
