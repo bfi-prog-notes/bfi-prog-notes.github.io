@@ -75,10 +75,9 @@ _Foley Artistes:_ Julie Ankerson, John Fewell
 _Foley Re-recording Mixer:_ Robert Brazier  
 _Research:_ Pamela Marshall  
 _Stunt Co-ordinators:_ Paul Heasman, Jim Dowdall  
-_Stunt Performers:_ Stuart Clark, George Cottle, Dave Fisher, Richard Hammatt, Derek Lea
+_Stunt Performers:_ Stuart Clark, George Cottle, Dave Fisher, Richard Hammatt, Derek Lea  
 
-_Cast:_
-
+**Cast**  
 Martin Compston _(Liam)_  
 Annmarie Fulton _(Chantelle)_  
 William Ruane _(Pinball)_  
@@ -94,32 +93,72 @@ Jon Morrison _(Douglas)_
 Junior Walker _(Night-Time)_  
 Gary Maitland _(Side-Kick)_  
 Scott Dymond _(Davi-Vampire)_  
-Mark Dallas, Stephen McGivern, Robert Muir
-
-_(pizza boys)_  
+Mark Dallas, Stephen McGivern, Robert Muir _(pizza boys)_  
 Matt Costello _(motorbike policeman)_  
 Sandy Hewitt _(truck driver)_  
 Mercy _(three-legged dog)_  
 Lily Smart _(barmaid)_  
 Bruce Sturrock _(caravan site manager)_  
-William Cassidy, Robert McFadyen,
-
-Stephen Purdon _(muggers)_  
+William Cassidy, Robert McFadyen, Stephen Purdon _(muggers)_  
 Tony Collins _(cold pizza man)_  
 Marie Shankley _(woman on stairs)_  
-Louise Anderson, Jackie Baker, David Charles,
-
-Donna Clark, Robert Cowan, Samuel Cowan, Tracey Cowan, Anastacia Davies, James Doherty, Daniel Donnelly, Sally Fisher, Lynn Gardiner, Elizabeth Gatens, Christopher Graham,
-
-Michael Graham, Martin Gribbin,  Darnell Hooks,
-
-Thomas Hopkins, Jean Keenan,
-
-Anne-Marie Lafferty, Ann Lynch, Gina McGee, Tommy McKinla, Theresa McNeil, Daniel McDermid, Donald McPhil, Robbie Meldrum, Maryanne Melvin, David Miller, Len Mullen, Summer Murray, Eileen O’Connor, Catherine O’Donaghue, Sharon Owens, Craig Park, Jean Robertson, Kieran Rowe, Mary Scott, Kenneth Shand, John Simpson, James Storey, Brian Strachan, Cherenay Strand, Jackie Sutherland, Kyle Turner, Chris Walker  
+Louise Anderson, Jackie Baker, David Charles, Donna Clark, Robert Cowan, Samuel Cowan, Tracey Cowan, Anastacia Davies, James Doherty, Daniel Donnelly, Sally Fisher, Lynn Gardiner, Elizabeth Gatens, Christopher Graham, Michael Graham, Martin Gribbin,  Darnell Hooks, Thomas Hopkins, Jean Keenan, Anne-Marie Lafferty, Ann Lynch, Gina McGee, Tommy McKinla, Theresa McNeil, Daniel McDermid, Donald McPhil, Robbie Meldrum, Maryanne Melvin, David Miller, Len Mullen, Summer Murray, Eileen O’Connor, Catherine O’Donaghue, Sharon Owens, Craig Park, Jean Robertson, Kieran Rowe, Mary Scott, Kenneth Shand, John Simpson, James Storey, Brian Strachan, Cherenay Strand, Jackie Sutherland, Kyle Turner, Chris Walker  
 
 UK/Germany/Spain/France/Italy 2002©  
 106 mins  
 35mm  
+<br>
+
+**ACTING HARD: WORKING CLASS MASCULINITY IN BRITISH CINEMA**  
+**Scum**  
+Sat 2 Sep 17:50; Fri 8 Sep 18:20  
+**Bullet Boy**  
+Wed 6 Sep 20:50; Sat 9 Sep 20:55  
+**Face**  
+Thu 7 Sep 18:10 (+ intro by season curator Nia Childs); Mon 18 Sep 20:45  
+**Beautiful Thing**  
+Sun 10 Sep 18:30; Fri 22 Sep 20:40  
+**Dead Man’s Shoes + Q&A with Shane Meadows and Paddy Considine**  
+Tue 12 Sep 18:10  
+**Sweet Sixteen**  
+Wed 13 Sep 18:00; Mon 25 Sep 20:40  
+**Blue Story**  
+Thu 14 Sep 18:15; Sat 23 Sep 20:40  
+**My Beautiful Laundrette**  
+Wed 20 Sep 18:10; Thu 28 Sep 20:30  
+**Muscle + Q&A with director Gerard Johnson, actors Craig Fairbrass, Cavan Clerkin and Polly Maberly**  
+Fri 22 Sep 18:00  
+**Sexy Beast**  
+Sat 23 Sep 18:20; Mon 2 Oct 20:30  
+**Mona Lisa**  
+Sun 24 Sep 18:20; Fri 29 Sep 20:30  
+**Govan Ghost Story**  
+Mon 25 Sep 18:30  
+**The Football Factory + intro by Danny Dyer**  
+Mon 25 Sep 20:45  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk) 
+<br>
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDk2MjkwMDcsMTI0NDcwOTMyMV19
+eyJoaXN0b3J5IjpbLTE3MjMzMzUwMCwxMjQ0NzA5MzIxXX0=
 -->
