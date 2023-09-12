@@ -21,8 +21,7 @@ So it was in this changing milieu that Ozu set about writing the scenario for _E
 
 _Early Spring_’s plot can by described in a few sentences. A young Tokyo salaryman, Shoji – disillusioned with both his job (at a fire brick company) and his home life (since his young boy tragically died) – half-heartedly engages in an affair with the office flirt ‘Goldfish’ (named so for her large eyes). He and his wife Masako quarrel and separate, which coincides with him being transferred to work at a rural outpost, where he goes alone. His wife turns up a few days later and they agree to start their life together afresh. On paper, this slight story sounds like it’s about very little at all, yet it is beautifully and purposefully constructed over two-and-a-half hours consisting of subtle interwoven character studies, free from the distraction of major plot complications.
 
-White collar salarymen feature in the majority of Ozu’s postwar films but it is in  
-_Early Spring_ that their behaviour and repetitive lifestyle seems most closely observed, together with a very strong dose of pessimistic social criticism. Ozu said, ‘It had been a while since I dealt with the salaryman. I wanted to have a go at representing their lifestyle. The thrill and aspirations one feels as a fresh graduate entering society gradually wane as the days go by. Even working diligently for 30 years doesn’t amount to much. I tried to portray the pathos of the salaryman’s life as society undergoes transformation...’ Toward the end of the film, the broken older man at Kawai’s bar expands on this: ‘I feel exhausted. That’s the life of a salaryman, disillusion and loneliness is all that awaits us. I’ve worked 31 long years to find that life is just an empty dream.’ The irony here is that Ozu himself was a one-company man all his life and at the time he wrote this dialogue with Noda, he too had been 31 years at Shochiku.
+White collar salarymen feature in the majority of Ozu’s postwar films but it is in _Early Spring_ that their behaviour and repetitive lifestyle seems most closely observed, together with a very strong dose of pessimistic social criticism. Ozu said, ‘It had been a while since I dealt with the salaryman. I wanted to have a go at representing their lifestyle. The thrill and aspirations one feels as a fresh graduate entering society gradually wane as the days go by. Even working diligently for 30 years doesn’t amount to much. I tried to portray the pathos of the salaryman’s life as society undergoes transformation...’ Toward the end of the film, the broken older man at Kawai’s bar expands on this: ‘I feel exhausted. That’s the life of a salaryman, disillusion and loneliness is all that awaits us. I’ve worked 31 long years to find that life is just an empty dream.’ The irony here is that Ozu himself was a one-company man all his life and at the time he wrote this dialogue with Noda, he too had been 31 years at Shochiku.
 
 The structure of the film urges the viewer to weigh up contradictory accounts and try to piece together who might be telling porkies and why. When Shoji and Goldfish sleep together we don’t see them alone again until after the noodle party confrontation when Goldfish turns up urgently at Shoji’s gaff. Like the group of fellow workers who begin to guess their secret, we too have to start reassessing our understanding of events because we’re not privy to what led to the group’s suspicions. David Bordwell describes how we are ‘forced to juggle hypotheses. Once gaps are introduced between scenes, temporal ellipses become “elliptical” in the sense that they leave much to the imagination. Such passages suggest that typically Ozu will “flaunt” the gap he creates, letting us notice it and puzzle over it when it occurs.’ Ozu’s exquisite flaunting game propels the film and reveals an extraordinary set of nuanced possibilities.
 
@@ -33,10 +32,8 @@ I’m interested in how the reception to his previous film _Tokyo Story_ made Oz
 At the end of the film, upon Masako’s arrival at Shoji’s new rural home, one might expect the newly reconciled couple to have a really good hug, but they do no such thing. Instead, they simply both rise to look out of the window at a passing train. Agreeing that they could be back in Tokyo in just three hours via this train is a tentative acknowledgement that they’re starting their life again together. There are then shots of chimneys spewing out acrid (fire brick?) smoke, and there we have it, a cold, barely satisfying ending, but with a flicker of hope. Ozu was probably much happier with this ending, but tranquillity is neither happiness nor despair.  
 **Nick Wrigley, extract from _Early Spring_ DVD booklet essay (BFI, 2012)**  
 <br>
-<![endif]-->
 
-**EARLY SPRING (SÔSHUN)**
-
+**EARLY SPRING (SÔSHUN)**  
 _Director_: Yasujiro Ozu  
 ©: Shochiku Co. Ltd.  
 _Production Company_: Shochiku Co. Ltd.  
@@ -53,10 +50,9 @@ _Set Decorator_: Setsutaro Moritani
 _Costumes_: Yuji Nagashima  
 _Music_: Takanobu Saito  
 _Sound Recording_: Yoshisaburo Senoo  
-_Studio_: Shochiku Ofuna
+_Studio_: Shochiku Ofuna  
 
-_Cast:_
-
+**Cast**  
 Chikage Awashima _(Masako Sugiyama)_  
 Ryo Ikebe _(Shoji)_  
 Teiji Takahashi _(Taizo Aoki)_  
@@ -110,6 +106,82 @@ Koichi Yamada
 Japan 1956©  
 145 mins  
 Digital 4K (restoration)  
+<br>
+
+**A FAMILY AFFAIR: THE FILMS OF YASUJIRO OZU**<br>
+**Tokyo Story (Tōkyō monogatari)**<br>
+From Fri 1 Sep<br>
+**I Flunked, But... (Rakudai wa shitakeredo)**<br>
+Sat 2 Sep 16:15; Wed 13 Sep 20:35<br>
+**Tokyo Chorus (Tōkyō no kōrasu)**<br>
+Sat 2 Sep 18:30; Sun 17 Sep 16:00<br>
+**An Autumn Evening with Yasujirō Ozu**<br>
+Mon 4 Sep 18:15<br>
+**I Was Born, But... (Umarete wa mita keredo)**<br>
+Mon 4 Sep 20:30 (+ intro by Jinhee Choi, King’s College London); Fri 15 Sep 18:30<br>
+**Tokyo Twilight (Tōkyō boshoku)**<br>
+Thu 7 Sep 18:00; Wed 27 Sep 20:15<br>
+**The Only Son (Hitori musuko)**<br>
+Fri 8 Sep 20:40; Sat 16 Sep 18:10 (+ intro by season curator Ian Haydn Smith)<br>
+**A Story of Floating Weeds (Ukigusa monogatari)**<br>
+Sat 9 Sep 11:50; Sat 23 Sep 16:00<br>
+**Good Morning (Ohayō)**<br>
+Sat 9 Sep 18:10; Sat 30 Sep 20:40<br>
+**Floating Weeds (Ukigusa)**<br>
+Sat 9 Sep 20:30; Sun 1 Oct 11:30 BFI IMAX; Mon 2 Oct 18:00<br>
+**Late Spring (Banshun)**<br>
+Sun 10 Sep 12:15 (+ intro by season curator, Ian Haydn Smith); Fri 22 Sep 20:50<br>
+**Early Summer (Bakushu)**<br>
+Sun 10 Sep 15:00; Wed 13 Sep 14:30; Sat 23 Sep 20:35<br>
+**Brothers and Sisters of the Toda Family (Todake no kyōdai)**<br>
+Mon 11 Sep 18:00; Sat 30 Sep 18:20<br>
+**There Was a Father (Chichi ariki)**<br>
+Mon 11 Sep 20:40; Thu 28 Sep 18:20<br>
+**City Lit at BFI: Ozu: Cinema of Everyday Life**<br>
+Tue 12 Sep – 3 Oct 18:30-20:30<br>
+**Record of a Tenement Gentleman (Nagaya Shinshiroku)**<br>
+Tue 12 Sep 20:30; Wed 20 Sep 21:00; Sat 23 Sep 18:30<br>
+**Early Spring (Sōshun)**<br>
+Thu 14 Sep 20:10; Sun 1 Oct 18:00<br>
+**The Flavour of Green Tea Over Rice (Ochazuke no aji)**<br>
+Fri 15 Sep 20:45; Sat 30 Sep 15:30<br>
+**The Anatomy of Ozu**<br>
+Sat 16 Sep 12:00-17:00<br>
+**Late Autumn (Akibiyori)**<br>
+Sun 17 Sep 18:20; Sat 30 Sep 12:30<br>
+**Equinox Flower (Higanbana)**<br>
+Thu 21 Sep 18:00; Sun 1 Oct 15:10<br>
+**An Autumn Afternoon (Sanma no aji)**<br>
+Sun 24 Sep 18:25 (+ intro); Tue 3 Oct 20:45<br>
+
+**Influence and Inspiration**<br>
+**Make Way for Tomorrow**<br>
+Sat 2 Sep 12:40; Sun 24 Sep 15:50 (+ intro by season curator Ian Haydn Smith)<br>
+**Tokyo-Ga**<br>
+Sun 3 Sep 14:00; Mon 2 Oct 20:45<br>
+<br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODc3MzkyOTRdfQ==
+eyJoaXN0b3J5IjpbLTE2NzcwMzM2NzNdfQ==
 -->
