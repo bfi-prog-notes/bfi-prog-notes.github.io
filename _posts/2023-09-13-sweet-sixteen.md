@@ -6,12 +6,6 @@
 
 _Contains strong violence._
 
-_Sweet Sixteen_ is set in Glasgow in a working class area once home of the great Clyde shipyards and, though never acknowledged in the film, the heart of the famously radical Scottish trade union movement. The area is now largely poverty-stricken projects, product of de-industrialisation and decline, and this painful coming of age tale follows young Liam’s adventures in the drug trade. The film immerses us naturally in this world with a thoughtful narrative structure, evocative casting and rapid-fire dialogue. Loach, a masterful actor’s director, elicits wonderful performances, particularly from the young inexperienced actors. As in many American films, dealing drugs is presented as an entrepreneurial response to, and embodiment of, the neo-liberal times. For the immiserated lumpens left behind by Thatcherism, drugs seem to offer solace to some. To others, dealing offers economic survival, and the only route to class mobility still open. Liam’s motives are painfully ironic and touching; as so often in Loach’s films there is a difficult and complex family history. He is trying to get enough money together so his Mom, in jail taking the rap for her no-good drug dealer boyfriend, can start a new life with Liam when she gets released… on his sixteenth birthday. To raise the money, Liam has to show a real talent for dealing drugs, betraying his friends and manoeuvring with the refined but ruthless ‘rich cunts’ who really run the business.
-
-There is no stirring rhetoric to answer the film’s bitter ironies and unresolved contradictions. The film concludes sadly, there are no epiphanies, no slogans. Perhaps, there is an optimism of the spirit in the feeling that this memorable Liam could still make his own story in this perilous place and time. Loach offers us clear-sighted and unsentimental – but deeply emotional and generous – pictures of how contemporary capitalism is making and remaking class and how working class people, heroes of a kind, sometimes fight back, sometimes just endure.
-
-Scott Forsyth, _CineAction_, 2003
-
 _Sweet Sixteen_ is sure to be written off in some quarters as Ken Loach beating the same old drum, and that’s perfectly true. The movie is so classical an instance of his committed realist cinema that it’s practically a curriculum vitae. Economy is destiny as always, but the grim determinism in the atmosphere chiefly recalls _My Name Is Joe_ (1998), with its context of chronic mass employment and its ear-straining Scottish idiom. ‘Every fuckin’ choice stinks doon here,’ Joe cried out in anguish at his ruined dreams, and it isn’t hard to imagine that Liam, the aspiring hero of _Sweet Sixteen_, exhibits Loach’s archetypal proletarian at an earlier stage, before the bitter lesson has quite sunk in (screenwriter Paul Laverty indeed proposes the film as a sort of prequel to _Joe_). While he’s less sensitive and far more pragmatic, fifteen-year-old Liam also naturally conjures up Billy in _Kes_ (1969), capable of finer things but hamstrung from the start. Billy’s taming of the kestrel connotes a human potential beyond his preordained drudgery in the coal pit, and Liam has an iconic object too. The riverside caravan where he plans to live with his shiftless mother lean is the street kid’s version of an Arcadian idyll – plentiful fishing and plastic flowers on the doorway. In either case, it’s the merest glimpse of freedom, for the iron laws of necessity soon kick in to extinguish all hope.
 
 Those who want British cinema to be light and fluffy have sometimes accused Loach of defeatism and complained that his working-class tragedies are rigged by melodramatic plotting. No doubt; yet from Zola to _Bicycle Thieves_, a long tradition links melodrama with realism. The coincidences and chance encounters in one (Liam finances the caravan through drug dealing until he sets foot on the wrong council estate) add up to a nemesis that conveniently doubles for the oppressive social structures in the other. A certain lack of novelty is the price Loach pays for his conviction that human misery is systemic. The basic rules of capitalism haven’t changed, and he keeps plugging away at that unfashionable truth for the few who care to listen. In line with the most durable Marxist aesthetic, Loach and his writers seek out protagonists whose experiences are typical – not one-off overachievers like Billy Elliot – to feed the audience’s syrupy fantasies, but the ordinary Joes and Liams trying to scrape together a decent life. While the method risks abstraction (as in _Bread and Roses_, where the people are agitprop mannequins representing the class struggle), it more often results in characters who feel rounded and concrete. With a touch of the 19-century realist, Loach steers a middle course between the particular and the universal, specifying psychological traits, yet refracting them through wider processes and institutions. You get a sharp sense of the emotional dialectic binding Liam and his mother – how her benign neglect spurs him on to ever greater possessiveness and need. At the same time, it’s clear that the rootlessness motivating both in contradictory ways is their inevitable portion as the losers of history.
@@ -19,53 +13,32 @@ Those who want British cinema to be light and fluffy have sometimes accused Loac
 The dovetailing of the personal and the political can seem a little neat, which is to say that Loach’s characters are short on mystery. There’s never an impression of something left over that surpasses the understanding – Loach is too commonsensical and English to have truck with that brand of cosmic malarky. In the final scene, Liam gazes out over the river and faces his future like Antoine in _Les Quatre cents coups_. The difference is that for Liam the writing is emphatically on the wall. When the highest legitimate goal we hear about is a part-time job at a call centre, it isn’t remarkable that he should be embarking on a career as a petty gangster. Laverty’s script plus some cunning details in the _mise en scène_ enable us to see the solid advantages of crime for the culturally dispossessed – not only the flashy cars and smart clothes, but behind them such spiritual goods as security, status, companionship and even self-esteem. Strangely, the total absence of ambiguity doesn’t make the film less affecting, but more so. Like _Joe_ or _Ladybird Ladybird_ (1994), _Sweet Sixteen_ can induce scalding tears because it offers a plain and inescapable perception of how material force operates to maim the soul of the individual. None of that would be possible, of course, without the observational skills Loach has been honing for close to four decades. By now, the illusion is complete, we are simply eavesdropping on these damaged lives, the camera appearing to follow rather than lead. Loach gives his people space, which renders their chains all the more unbearably poignant.  
 **Peter Matthews, _Sight and Sound_, October 2002**  
 <br>
-<![endif]-->
 
-**My Sweet Prince**
+**MY SWEET PRINCE**  
+_Director:_ Jason Bradbury  
+UK 2019  
+12 mins  
 
-_Director:_ Jason Bradbury
-
-UK 2019
-
-12 mins
-
-**Sweet Sixteen**
-
+**SWEET SIXTEEN**  
 _Director:_ Ken Loach  
 _©/Production Companies:_ Sixteen Films,
-
 Road Movies Filmproduktion GmbH,
-
 Tornasol Films, Alta Films  
 _Presented by:_ Scottish Screen, BBC Films  
 _Presented with the support of:_ Filmstiftung NRW, Glasgow Film Office  
-_Presented in association with:_
-
-Diaphana Distribution, BIM Distribuzione, Cinéart, ARD, Westdeutscher Rundfunk  
-_Developed with financial assistance from:_
-
-Scottish Screen National Lottery  
+_Presented in association with:_ Diaphana Distribution, BIM Distribuzione, Cinéart, ARD, Westdeutscher Rundfunk  
+_Developed with financial assistance from:_ Scottish Screen National Lottery  
 _Producer:_ Rebecca O’Brien  
 _Co-producers:_ Ulrich Felsberg, Gerardo Herrero  
 _Line Producer:_ Peter Gallagher  
 _Production Accountant:_ Elizabeth Hurley  
 _Production Co-ordinator:_ Abigail Howkins  
-_German Production:_ Luke Schiller,
-
-IPS International Production Service  
-_Production:_ Sally Grant, Louise Saunders,
-
-Shuna Frood  
-_Road Movies Team:_ Joanna Ashton-Jones,
-
-Denise Booth, Frank Graf, Hailon Li, Valentina Lori, Karin C. Müller, Volker Otte, Rainer Pyls,
-
-Ute Schneider, Kai-Peter Uhlig  
+_German Production:_ Luke Schiller, IPS International Production Service  
+_Production:_ Sally Grant, Louise Saunders, Shuna Frood  
+_Road Movies Team:_ Joanna Ashton-Jones, Denise Booth, Frank Graf, Hailon Li, Valentina Lori, Karin C. Müller, Volker Otte, Rainer Pyls, Ute Schneider, Kai-Peter Uhlig  
 _Location Manager:_ Brian Kaczynski  
 _Location Assistant:_ Beverley Syme  
-_Production Assistants:_ Beverley Murray,
-
-Leigh Pickford  
+_Production Assistants:_ Beverley Murray, Leigh Pickford  
 _1st Assistant Director:_ David Gilchrist  
 _2nd Assistant Director:_ Michael Queen  
 _3rd Assistant Director:_ Elaine Mackenzie  
@@ -86,9 +59,7 @@ _Assistant Art Director:_ Julie Ann Horan
 _Costume Designer:_ Carole K. Millar  
 _Costume Assistant:_ Deirdre Johnstone  
 _Make-up:_ Sarah Fidelo  
-_Titles Design:_ Martin Butterworth,
-
-Creative Partnership  
+_Titles Design:_ Martin Butterworth, Creative Partnership  
 _Titles:_ Cineimage  
 _Music:_ George Fenton  
 _Music Performed/Produced by:_ George Fenton, David Lawson, Simon Chamberlain  
@@ -97,18 +68,14 @@ _Music Recorded by:_ Steve Price
 _Sound Recordist:_ Ray Beckett  
 _Sound Assistant:_ Kieran Boyne  
 _Boom Operator:_ Pete Murphy  
-_Sound Re-recording:_ Graham V. Hartstone,
-
-Mark Sheffield, Pinewood Studios  
+_Sound Re-recording:_ Graham V. Hartstone, Mark Sheffield, Pinewood Studios  
 _Supervising Sound Editor:_ Kevin Brazier  
 _[Sound] FX Editor:_ Wayne Brooks  
 _Foley Artistes:_ Julie Ankerson, John Fewell  
 _Foley Re-recording Mixer:_ Robert Brazier  
 _Research:_ Pamela Marshall  
 _Stunt Co-ordinators:_ Paul Heasman, Jim Dowdall  
-_Stunt Performers:_ Stuart Clark, George Cottle,
-
-Dave Fisher, Richard Hammatt, Derek Lea
+_Stunt Performers:_ Stuart Clark, George Cottle, Dave Fisher, Richard Hammatt, Derek Lea
 
 _Cast:_
 
@@ -154,5 +121,5 @@ UK/Germany/Spain/France/Italy 2002©
 106 mins  
 35mm  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDcwOTMyMV19
+eyJoaXN0b3J5IjpbLTE3MDk2MjkwMDcsMTI0NDcwOTMyMV19
 -->
