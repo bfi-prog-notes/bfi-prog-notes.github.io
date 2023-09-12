@@ -35,9 +35,113 @@ Johnny has a certain moral strength that Omar lacks, and it is the personal rela
 
 This unlikely affair not only provides the focus for the film’s ruminations on the state of present-day multi-racial Britain, it also acts as an ironic counterpart to other (heterosexual) relationships – that between Nasser and his mistress Rachel (Shirley Anne Field), for instance, largely sent-up as an old-fashioned romance. But one of the most moving scenes occurs when Rachel, confronted by Nasser’s daughter Tania, defends her affair, and her status as a ‘kept woman’, in terms of her class and age. And Tania herself, outspoken, intelligent, independent, can find no place for herself or her sexuality either within the male-dominated Asian family or outside it, since both Omar and Johnny, her potential allies, owe allegiance primarily to one another (a _Butch Cassidy and the Sundance Kid_ parody underlines this point nicely). So Tania disappears, as indeed does Rachel, leaving Nasser devastated – on the point of financial and emotional collapse – and Johnny and Omar to comfort one another in the ruins of their dream laundrette, smashed up by the racist white gang. No easy way forward here, only more question marks.
 
-The strength of _My Beautiful Laundrette_ is that it asks difficult questions in a provocative and entertaining manner, managing to be critical and sympathetic at the same time. Maybe, in the end, we are asked to sympathise with too many characters at once, so that we are left in a familiar liberal impasse; and perhaps some themes could have been more fully developed to toughen up the film’s political message. But there is no doubt on this evidence that Hanif Kureishi is an exciting new voice in British television.
+The strength of _My Beautiful Laundrette_ is that it asks difficult questions in a provocative and entertaining manner, managing to be critical and sympathetic at the same time. Maybe, in the end, we are asked to sympathise with too many characters at once, so that we are left in a familiar liberal impasse; and perhaps some themes could have been more fully developed to toughen up the film’s political message. But there is no doubt on this evidence that Hanif Kureishi is an exciting new voice in British television.  
+**Pam Cook, _Monthly Film Bulletin_, November 1985**  
+<br>
+<![endif]-->
 
-Pam Cook, _Monthly Film Bulletin_, November 1985
+**JUMP BOY**
+
+_Director:_ Menhaj Huda
+
+UK 1998
+
+11 mins
+
+**MY BEAUTIFUL LAUNDRETTE**
+
+Director: Stephen Frears  
+Production Companies: Working Title Films,
+
+SAF Productions, Channel Four  
+Producers: Sarah Radclyffe, Tim Bevan  
+Production Accountant: Bill Craster  
+Assistant Accountant: Grainne Marmion  
+Production Manager: Jane Frazer  
+Location Manager: Rebecca O’Brien  
+Production Assistant: Sarah O’Brien  
+Production Runner: Sam Garwood  
+Unit Runners: Chris Bruce, Charlie McGrigor  
+NFS Attachments: Jo Brown, Ronald Bailey,
+
+Abdul Chowdray, Andree de Silva  
+1st Assistant Director: Simon Hinkly  
+2nd Assistant Director: Waldo Roeg  
+3rd Assistant Director: Gary Davies  
+Continuity: Penny Eyles  
+Casting: Debbie McWilliams  
+Screenplay: Hanif Kureishi  
+Director of Photography: Oliver Stapleton  
+Focus Puller: Steve Keith-Roach  
+Clapper: Fiona Cunningham Reid  
+Camera Trainee: Anthony James  
+Camera Grip: Jim Monks  
+2nd Camera Grip: Jamie Monks  
+Gaffer: Malcolm Davies  
+Electricians: Dave McWhinnie, Martin Duncan,
+
+Tony Hare  
+Stills: Mike Laye  
+Graphics: Julian Rothenstein  
+Editor: Mick Audsley  
+1st Assistant Editor: Jason Adams  
+2nd Assistant Editor: Chris Cook  
+Designer: Hugo Luczyk Wyhowski  
+Production Buyer: Jeanne Vertigan  
+Property Master: Ray Perry Sr
+
+Costume Designer: Lindy Hemming  
+Wardrobe Mistress: Karen Sharpe  
+Make-up: Elaine Carew  
+Hairdresser: Wendy Rawson  
+Titles: Frameline  
+Music: Ludus Tonalis  
+Music Producers: Hans Zimmer, Stanley Myers  
+Sound Recording: Albert Bailey  
+Boom Operator: St. Clair Davis  
+Dubbing Mixer: Peter Maxwell  
+Dubbing Editor: ‘budge’ Tremlett  
+Assistant Dubbing Editor: Matthew Whiteman  
+Stunt Co-ordinators: Rocky Taylor, Jim Dowdall,
+
+Bill Weston, Nosher Powell  
+Cast:
+
+Daniel Day Lewis (Johnny)  
+Richard Graham (Genghis)  
+Winston Graham (1st Jamaican)  
+Dudley Thomas (2nd Jamaican)  
+Derrick Branche (Salim)  
+Garry Cooper (squatter)  
+Gordon Warnecke (Omar)  
+Roshan Seth (Papa Hussain)  
+Saeed Jaffrey (Nasser)  
+Shirley Anne Field (Rachel)  
+Charu Bala Choksi (Bilquis)  
+Souad Faress (Cherry)  
+Rita Wolf (Tania)  
+Persis Maravala (Nasser’s elder daughter)  
+Nisha Kapur (Nasser’s younger daughter)  
+Neil Cunningham (Englishman)  
+Walter Donohue (Dick O’Donnell)  
+Gurdial Sira (Zaki)  
+Stephen Marcus (Moose)  
+Dawn Archibald (1st gang member)  
+Jonathan Moore (2nd gang member)  
+Gerard Horan (telephone man)  
+Ram John Holder (poet)  
+Bhasker (Tariq)  
+Ayub Khan Din (student)  
+Dulice Liecier (girl in disco)  
+Badi Uzzaman (dealer)  
+Chris Pitt (1st kid)  
+Kerryann White (2nd kid)  
+Colin Campbell (Madame Butterfly man)  
+Sheila Chitnis (Zaki’s wife)  
+
+UK 1985©  
+97 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTIwMDIyMV19
+eyJoaXN0b3J5IjpbLTI4MDY0NTIzNiwxNDAxMjAwMjIxXX0=
 -->
