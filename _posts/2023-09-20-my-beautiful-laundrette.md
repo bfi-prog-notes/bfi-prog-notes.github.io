@@ -94,28 +94,28 @@ _Assistant Dubbing Editor:_ Matthew Whiteman
 _Stunt Co-ordinators:_ Rocky Taylor, Jim Dowdall, Bill Weston, Nosher Powell  
 
 **Cast**  
-Daniel Day Lewis _(Johnny)  
-Richard Graham (Genghis)  
-Winston Graham (1st Jamaican)  
-Dudley Thomas (2nd Jamaican)  
-Derrick Branche (Salim)  
-Garry Cooper (squatter)  
-Gordon Warnecke (Omar)  
-Roshan Seth (Papa Hussain)  
-Saeed Jaffrey (Nasser)  
-Shirley Anne Field (Rachel)  
-Charu Bala Choksi (Bilquis)  
-Souad Faress (Cherry)  
-Rita Wolf (Tania)  
-Persis Maravala (Nasser’s elder daughter)  
-Nisha Kapur (Nasser’s younger daughter)  
-Neil Cunningham (Englishman)  
-Walter Donohue (Dick O’Donnell)  
-Gurdial Sira (Zaki)  
-Stephen Marcus (Moose)  
-Dawn Archibald (1st gang member)  
-Jonathan Moore (2nd gang member)  
-Gerard Horan (telephone man)  
+Daniel Day Lewis _(Johnny)_  
+Richard Graham _(Genghis)_  
+Winston Graham _(1st Jamaican)_  
+Dudley Thomas _(2nd Jamaican)_  
+Derrick Branche _(Salim)_  
+Garry Cooper _(squatter)_  
+Gordon Warnecke _(Omar)_  
+Roshan Seth _(Papa Hussain)_  
+Saeed Jaffrey _(Nasser)_  
+Shirley Anne Field _(Rachel)_  
+Charu Bala Choksi _(Bilquis)_  
+Souad Faress _(Cherry)_  
+Rita Wolf _(Tania)_  
+Persis Maravala _(Nasser’s elder daughter)_  
+Nisha Kapur _(Nasser’s younger daughter)_  
+Neil Cunningham _(Englishman)_  
+Walter Donohue _(Dick O’Donnell)_  
+Gurdial Sira _(Zaki)_  
+Stephen Marcus _(Moose)_  
+Dawn Archibald _(1st gang member)_  
+Jonathan Moore _(2nd gang member)_  
+Gerard Horan _(telephone man)_  
 Ram John Holder (poet)  
 Bhasker (Tariq)  
 Ayub Khan Din (student)  
@@ -131,5 +131,5 @@ UK 1985©
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDkwODQ2OCwxNDAxMjAwMjIxXX0=
+eyJoaXN0b3J5IjpbMTY1MDA0MTEwMywxNDAxMjAwMjIxXX0=
 -->
