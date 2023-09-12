@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Together with Lorenza Mazzet
+title: Together with Lorenza Mazzetti
 published: true
 date: 2023-09-13
 readtime: true
 categories: ['TOGETHER<br> THE LONDON FILMS OF LORENZA MAZZETTI']
-tags: [Experimental]
-metadata: 'UK 1953, 29 mins<br> Director: Lorenza Mazzetti'
-pdf: '2023-09-13-k-together.pdf'
+tags: [Documentary]
+metadata: 'UK 2023, 54 mins<br> Director: Lorenza Mazzetti'
+pdf: '2023-09-13-together-with-lorenza-mazzetti.pdf'
 ---
 **SPOILER WARNING** The following content may reveal plot details
 
@@ -44,6 +44,27 @@ Brighid Lowe, _Noise and Silence_ from BFI booklet for _Lorenza Mazzzetti Collec
 **Henry K. Miller** is the author of _The First True Hitchcock_, published by University of California Press. His other books are _The Essential Raymond Durgnat_ (as editor) and _DWOSKINO: the Gaze of Stephen Dwoskin_ (as co-editor with Rachel Garfield), shortlisted for the 2023 Kraszna-Krausz Book Awards. He is a reviewer for _Sight and Sound_.
 
 **Host: Carol Morley** is a writer/director. Her new film _Typist Artist Pirate King_ will be released on 27th October by Modern Films.
+<br>
+<![endif]-->
+
+**The Country Doctor**
+
+_Director:_ Lorenza Mazzetti
+
+UK 1953
+
+10 mins
+
+**Together with Lorenza Mazzetti**
+_Director:_ Brighid Lowe  
+_Co-director:_ Gilly Booth   
+_©:_ Brighid Lowe  
+_Editor:_ Gintė Regina  
+Interviewer: Henry K. Miller  
+
+UK 2023©  
+54 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NzQzMDA1OF19
+eyJoaXN0b3J5IjpbLTE3OTgwNjI3ODcsMTc3NzQzMDA1OF19
 -->
