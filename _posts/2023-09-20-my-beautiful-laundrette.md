@@ -6,8 +6,8 @@ date: 2023-09-20
 readtime: true
 categories: ['ACTING HARD<br> WORKING CLASS MASCULINITY IN BRITISH CINEMA']
 tags: [Drama]
-metadata: 'UK 2019, 91 mins<br> Director: Rapman'
-pdf: '2023-09-14-blue-story.pdf'
+metadata: 'UK 1985, 97 mins<br> Director: Stephen Frears'
+pdf: '2023-09-20-my-beautiful-laundrette.pdf'
 ---
 
 _Contains strong violence and racist terms._
@@ -27,12 +27,10 @@ Nasser, however, has largely abandoned his immigrant roots, toasting ‘Thatcher
 
 Kureishi writes characters for what they are rather than what they represent, and while he may dislike his character’s actions, it is evident that he is fascinated by their humanity. It is for this reason that we are able to grasp the underlying truths of _My Beautiful Laundrette_, often ambiguous and contradictory, sometimes obscure, but hauntingly resonant, even today.
 
-_My Beautiful Laundrette_’s international success helped establish Channel 4’s fledgling feature film production arm, Film on Four, and confirmed a move away from television single drama. The Frears-Kureishi collaboration continued with _Sammy and Rosie Get Laid_ (1987).
+_My Beautiful Laundrette_’s international success helped establish Channel 4’s fledgling feature film production arm, Film on Four, and confirmed a move away from television single drama. The Frears-Kureishi collaboration continued with _Sammy and Rosie Get Laid_ (1987).  
+**Shalini Chanda, BFI Screenonline, screenonline.org.uk**  
 
-Shalini Chanda, BFI Screenonline, screenonline.org.uk
-
-**A contemporary review**
-
+**A contemporary review**  
 _My Beautiful Laundrette_ is surprising in many respects. Made for TV, for the Film on Four slot, and due to be shown later this year, it was such a success at the Edinburgh Film Festival that it almost immediately found a theatrical distributor. Yet not only is it quintessentially a TV product, even down to built-in natural breaks, but it marks the TV debut of a young Asian, Hanif Kureishi, whose script is largely responsible for the film’s success.
 
 Clearly, the subject matter itself is controversial: a love affair between two South London youths, one Asian, the other white with National Front connections, set against the activities of a crooked Asian family business intent on turning Thatcherite enterprise economics to their own advantage. But what is really surprising is the skill with which a number of contradictory themes and ideas have been woven together in a complex tapestry in which race, sex and class are shown to be intimately related, and in conflict.
@@ -134,6 +132,8 @@ Kerryann White _(2nd kid)_
 Colin Campbell _(Madame Butterfly man)_  
 Sheila Chitnis _(Zaki’s wife)_  
 UK 1985©  
+97 mins
+Digital
 <br>
 
 **ACTING HARD: WORKING CLASS MASCULINITY IN BRITISH CINEMA**  
@@ -190,5 +190,5 @@ Questions/comments? Contact the Programme Notes team by [email](mailto: prognote
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTgyNTM2MzEsMTQwMTIwMDIyMV19
+eyJoaXN0b3J5IjpbMjA5NTM3MDM5NiwxNDAxMjAwMjIxXX0=
 -->
