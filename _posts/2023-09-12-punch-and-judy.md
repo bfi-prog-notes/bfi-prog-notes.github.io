@@ -42,23 +42,15 @@ _Singing voice of Judy_: Jan De Gaetani
 _Singing voice of doctor_: John Tomlinson  
 _Singing voice of lawyer_: Philip Langridge  
 _Singing voice of Pretty Polly_: Phyllis Bryn-Julson  
-_Singing voice of Choregos/Jack Ketch_:  
-David Wilson-Johnson  
-_Piano music arranged/performed by_:  
-Graham Nichols  
+_Singing voice of Choregos/Jack Ketch_:  David Wilson-Johnson  
+_Piano music arranged/performed by_:  Graham Nichols  
 _Sound_: Peter Rann  
-_Bottler_: Peter Lovstrom
-
-_With:_
-
-Joe Melia _(Punch’s voice)_
-
-UK 1980
-
+_Bottler_: Peter Lovstrom  
+_With:_ Joe Melia _(Punch’s voice)_  
+UK 1980  
 46 mins
 
-**STREET OF CROCODILES**
-
+**STREET OF CROCODILES**  
 _Animation, Mise-en-scène, Camera_: Brothers Quay  
 _Production Companies_: Koninck Studios, British Film Institute Production Board, Channel Four  
 _Producer_: Keith Griffiths  
@@ -70,15 +62,11 @@ _Costume Assistant_: Lys Flowerday
 _Music_: Leszek Jankowski  
 _Sound Montage_: Larry Sider  
 _Sound Mixer_: Colin Martin  
-_Technical Adviser_: Olivier Gillon
-
-_With:_
-
-Feliks Stawinski _(actor in theatre)_
-
-UK 1986
-
+_Technical Adviser_: Olivier Gillon  
+_With:_ Feliks Stawinski _(actor in theatre)_  
+UK 1986  
 21 mins
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODY2Nzk4OF19
+eyJoaXN0b3J5IjpbLTE2NDkxMDMyOTRdfQ==
 -->
