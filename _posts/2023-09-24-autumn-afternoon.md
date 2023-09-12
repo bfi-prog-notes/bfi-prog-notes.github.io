@@ -16,83 +16,46 @@ But before we see the present as inevitably a corruption of that past for which 
 _An Autumn Afternoon_ is not, then, a testament. Like Ozu’s other works, it is a complex reworking of strategies derived from earlier films, as well as an attempt to try new things. It is another manifestation of an aesthetic system whose rigour, breadth of detail, and suppleness of variation give it a simplicity and richness unparalleled in the history of the cinema. His next film, for which he completed only notes, was to have brought back Tadao Ikeda, the scriptwriter of the 1930s, to work with Noda. It was to centre on a man who gets cancer and who has a daughter about to get married. Once more we find a minimal variant on a pre-established pattern. But the film’s innovation would have reflected more explicitly than ever before a life steeped in the love of cinema. The film’s characters would have been movie performers, and the title was to be ‘Radishes and Carrots,’ Ozu’s favourite slang for poor actors. One might be tempted to consider this unfinished film (a version of which was directed by Ozu’s pupil Minoru Shibuya) a summing up, were it not for the fact that when Ozu died there was no evidence of flagging powers: _An Autumn Afternoon_, despite its concern with ageing, is in form and attitude a young man’s work.  
 **David Bordwell, _Ozu and the Poetics of Cinema_ (BFI/Princeton, 1988) Reproduced by kind permission of Bloomsbury Publishing © David Bordwell**  
 <br>
-<![endif]-->
 
-**AN AUTUMN AFTERNOON (SANMA NO AJI)**
+**AN AUTUMN AFTERNOON (SANMA NO AJI)**  
+_Director:_ Yasujiro Ozu  
+_Production Company:_ Shochiku Co. Ltd.  
+_Producer:_ Shizuo Yamanouchi  
+_Assistant Director:_ Kozo Tashiro  
+_Screenplay:_ Kogo Noda, Yasujiro Ozu  
+_Director of Photography:_ Yuharu Atsuta  
+_Lighting:_ Kenzo Ishiwatari  
+_Camera Assistant:_ Motoshige Oikawa  
+_Editor:_ Yoshiyasu Hamamura  
+_Art Directors:_ Tatsuo Hamada, Shigeo Hagiwara  
+_Colour by:_ Agfa-Shochikucolor  
+_Music:_ Kojun Saito  
+_Sound Recording:_ Yoshisaburo Senoo  
+_Studio:_ Shochiku Ofuna  
 
-_Director:_ Yasujiro Ozu
+**Cast**  
+Shima Iwashita _(Michiko Hirayama)_  
+Chishu Ryu _(Shuhei Hirayama, Michiko’s father)_  
+Keiji Sada _(Koichi, Hirayama’s elder son)_  
+Mariko Okada _(Akiko Hirayama, Koichi’s wife)_  
+Teruo Yoshida _(Yutaka Miura)_  
+Noriko Maki _(Fusako Taguchi)_  
+Shinichiro Mikami _(Kazuo, Hirayama’s younger son)_  
+Nobuo Nakamura _(Shuzo Kawai)_  
+Eijirô Tono _(Sakuma, the ‘Gourd’)_  
+Kuniko Miyake _(Nobuko Kawai)_  
+Kyoko Kishida _(bar hostess)_  
+Michiyo Tamaki _(Tamako)_  
+Ryuji Kita _(Professor Susumu Horie)_  
+Toyo Takahashi  
+Fujio Suga  
+Daisuke Katô _(Yoshitaro Sakamoto)_  
+Haruko Sugimura _(Tomoko, Sakuma’s daughter)_  
+Tsusai Sugawara  
 
-_Production Company:_ Shochiku Co. Ltd.
-
-_Producer:_ Shizuo Yamanouchi
-
-_Assistant Director:_ Kozo Tashiro
-
-_Screenplay:_ Kogo Noda, Yasujiro Ozu
-
-_Director of Photography:_ Yuharu Atsuta
-
-_Lighting:_ Kenzo Ishiwatari
-
-_Camera Assistant:_ Motoshige Oikawa
-
-_Editor:_ Yoshiyasu Hamamura
-
-_Art Directors:_ Tatsuo Hamada, Shigeo Hagiwara
-
-_Colour by:_ Agfa-Shochikucolor
-
-_Music:_ Kojun Saito
-
-_Sound Recording:_ Yoshisaburo Senoo
-
-_Studio:_ Shochiku Ofuna
-
-_Cast:_
-
-Shima Iwashita _(Michiko Hirayama)_
-
-Chishu Ryu _(Shuhei Hirayama, Michiko’s father)_
-
-Keiji Sada _(Koichi, Hirayama’s elder son)_
-
-Mariko Okada _(Akiko Hirayama, Koichi’s wife)_
-
-Teruo Yoshida _(Yutaka Miura)_
-
-Noriko Maki _(Fusako Taguchi)_
-
-Shinichiro Mikami
-
-_(Kazuo, Hirayama’s younger son)_
-
-Nobuo Nakamura _(Shuzo Kawai)_
-
-Eijirô Tono _(Sakuma, the ‘Gourd’)_
-
-Kuniko Miyake _(Nobuko Kawai)_
-
-Kyoko Kishida _(bar hostess)_
-
-Michiyo Tamaki _(Tamako)_
-
-Ryuji Kita _(Professor Susumu Horie)_
-
-Toyo Takahashi
-
-Fujio Suga
-
-Daisuke Katô _(Yoshitaro Sakamoto)_
-
-Haruko Sugimura _(Tomoko, Sakuma’s daughter)_
-
-Tsusai Sugawara
-
-Japan 1962
-
-113 mins
-
-Digital
+Japan 1962  
+113 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzAxMDUxMzFdfQ==
+eyJoaXN0b3J5IjpbLTE3OTQwMTc1NTRdfQ==
 -->
