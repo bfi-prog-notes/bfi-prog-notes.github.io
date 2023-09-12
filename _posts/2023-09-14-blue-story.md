@@ -1,13 +1,21 @@
-
-<![endif]-->
+---
+layout: post
+title: Blue Story
+published: true
+date: 2023-09-14
+readtime: true
+categories: ['ACTING HARD<br> WORKING CLASS MASCULINITY IN BRITISH CINEMA']
+tags: [Drama]
+metadata: 'UK 2019, 91 mins<br> Director: Rapman'
+pdf: '2023-09-14-blue-story.pdf'
+---
 
 _Contains strong violence._
 
 With the recent return of lauded inner-city drama _Top Boy_ to our screens, this energetic debut feature from filmmaker and grime artist Andrew ‘Rapman’ Onwubolu appears well timed to follow in its slipstream. Expanded from an earlier web series, _Blue Story_ builds its street-level tragedy around the London postcode wars that have blighted so many young black lives in the capital. Over an opening salvo of CCTV images ripped from the headlines of spiking youth crime, Onwubolu – in his Rapman guise – sets the scene through musical performance. Like Ben ‘Plan B’ Drew in _iLL Manors_ (2012), he serves as a chorus at intervals throughout; his is a similarly grim, cautionary tale delivered in modern style but with the essence of a traditional lament.
 
-Shy Timmy (Stephen Odubola) and the more streetwise Marco (Micheal Ward) have been close friends since childhood, but gradually find themselves pitted against each other when a gang feud erupts between their respective Deptford and Peckham postcodes. Marshalling a teeming cast of youngsters, Onwubolu sometimes struggles to flesh out peripheral characters – one such is Karla Simone-Spence’s love interest, lost too early in proceedings. But his handling of frequently busy location work is punchy and fluid. The emphatic style can be repetitive, but it’s confident work that crucially doesn’t condescend to the youth audience best placed to receive its sobering pacifist message.
-
-Matthew Taylor, _Sight and Sound_, December 2019
+Shy Timmy (Stephen Odubola) and the more streetwise Marco (Micheal Ward) have been close friends since childhood, but gradually find themselves pitted against each other when a gang feud erupts between their respective Deptford and Peckham postcodes. Marshalling a teeming cast of youngsters, Onwubolu sometimes struggles to flesh out peripheral characters – one such is Karla Simone-Spence’s love interest, lost too early in proceedings. But his handling of frequently busy location work is punchy and fluid. The emphatic style can be repetitive, but it’s confident work that crucially doesn’t condescend to the youth audience best placed to receive its sobering pacifist message.  
+**Matthew Taylor, _Sight and Sound_, December 2019
 
 The pathway to a debut feature used to run something like this: directors would make a couple of short films, hope for some prestigious festival exposure, secure an agent, make another (hopefully final) short and then try to get a low-budget project off the ground. Or they might cross over from an established career in advertising, television, theatre or music promos. But then the tantalising promise of the internet arrived; early-career filmmakers circled it for a good decade, wondering how they could harness its potential to attract industry attention. Converting online appreciation into formal backing remained elusive, however: what to do with all those views and ‘likes’, and who was watching anyway?
 
@@ -66,6 +74,58 @@ Junior Afolabi Salokun _(Madder)_
 UK 2019©  
 91 mins  
 Digital  
+<br>
+
+**ACTING HARD: WORKING CLASS MASCULINITY IN BRITISH CINEMA**  
+**Scum**  
+Sat 2 Sep 17:50; Fri 8 Sep 18:20  
+**Bullet Boy**  
+Wed 6 Sep 20:50; Sat 9 Sep 20:55  
+**Face**  
+Thu 7 Sep 18:10 (+ intro by season curator Nia Childs); Mon 18 Sep 20:45  
+**Beautiful Thing**  
+Sun 10 Sep 18:30; Fri 22 Sep 20:40  
+**Dead Man’s Shoes + Q&A with Shane Meadows and Paddy Considine**  
+Tue 12 Sep 18:10  
+**Sweet Sixteen**  
+Wed 13 Sep 18:00; Mon 25 Sep 20:40  
+**Blue Story**  
+Thu 14 Sep 18:15; Sat 23 Sep 20:40  
+**My Beautiful Laundrette**  
+Wed 20 Sep 18:10; Thu 28 Sep 20:30  
+**Muscle + Q&A with director Gerard Johnson, actors Craig Fairbrass, Cavan Clerkin and Polly Maberly**  
+Fri 22 Sep 18:00  
+**Sexy Beast**  
+Sat 23 Sep 18:20; Mon 2 Oct 20:30  
+**Mona Lisa**  
+Sun 24 Sep 18:20; Fri 29 Sep 20:30  
+**Govan Ghost Story**  
+Mon 25 Sep 18:30  
+**The Football Factory + intro by Danny Dyer**  
+Mon 25 Sep 20:45  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk) 
+<br>
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQyOTMzMjddfQ==
+eyJoaXN0b3J5IjpbMTQ1NTM4OTYzNl19
 -->
