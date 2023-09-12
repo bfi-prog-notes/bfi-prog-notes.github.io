@@ -34,65 +34,38 @@ Meanwhile, the BFI National Archive recently acquired the _Shiro’s Story_ tril
 **Will Massa, _Sight and Sound_, December 2019**  
 <br>
 
-**A LETTER TO BLACK MEN**
+**A LETTER TO BLACK MEN**  
+_Director:_ Kiosa Sukami  
+UK 2022  
+20 mins  
 
-_Director:_ Kiosa Sukami
+**BLUE STORY**  
+_Director:_ Rapman [i.e. Andrew ‘Rapman’ Onwubolu]  
+©: British Broadcasting Corporation, Blue Story Limited  
+_Production Companies:_ DJ Films, Joi Productions _Presented by:_ Paramount Pictures  
+_In association with:_ BBC Films  
+_Executive Producers:_ Rapman [i.e. Andrew ‘Rapman’ Onwubolu], Rose Garnett, Eva Yates, Paul Grindey, Charles Moore  
+_Producers:_ Joy Gharoro-Akpojotor, Damian Jones _Written by:_ Rapman [i.e. Andrew ‘Rapman’ Onwubolu]  
+_Director of Photography:_ Simon Stolland  
+_Editor:_ Mdhamiri Á Nkemi  
+_Production Designer:_ Gini Godwin  
+_Costume Designer:_ Ruka Johnson  
+_Composer:_ Jonathon Deering  
+_Production Sound Mixer:_ David C. Tozer  
 
-UK 2022
+**Cast**  
+Stephen Odubola _(Timmy)_  
+Micheal Ward _(Marco)_  
+Eric Kofi Abrefa _(Switcher)_  
+Khali Best _(Killy)_  
+Karla-Simone Spence _(Leah)_  
+Jo Martin _(Beverley)_  
+Richie Campbell _(Tyrone)_  
+Junior Afolabi Salokun _(Madder)_  
 
-20 mins
-
-**Blue Story**
-
-_Director:_ Rapman [i.e. Andrew ‘Rapman’ Onwubolu]
-
-©: British Broadcasting Corporation,  
-Blue Story Limited
-
-_Production Companies:_ DJ Films, Joi Productions _Presented by:_ Paramount Pictures
-
-_In association with:_ BBC Films
-
-_Executive Producers:_ Rapman [i.e. Andrew ‘Rapman’ Onwubolu], Rose Garnett, Eva Yates, Paul Grindey, Charles Moore
-
-_Producers:_ Joy Gharoro-Akpojotor, Damian Jones _Written by:_ Rapman  
-[i.e. Andrew ‘Rapman’ Onwubolu]
-
-_Director of Photography:_ Simon Stolland
-
-_Editor:_ Mdhamiri Á Nkemi
-
-_Production Designer:_ Gini Godwin
-
-_Costume Designer:_ Ruka Johnson
-
-_Composer:_ Jonathon Deering
-
-_Production Sound Mixer:_ David C. Tozer
-
-_Cast:_
-
-Stephen Odubola _(Timmy)_
-
-Micheal Ward _(Marco)_
-
-Eric Kofi Abrefa _(Switcher)_
-
-Khali Best _(Killy)_
-
-Karla-Simone Spence _(Leah)_
-
-Jo Martin _(Beverley)_
-
-Richie Campbell _(Tyrone)_
-
-Junior Afolabi Salokun _(Madder)_
-
-UK 2019©
-
-91 mins
-
-Digital
+UK 2019©  
+91 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzM4MTcxXX0=
+eyJoaXN0b3J5IjpbLTE5ODQyOTMzMjddfQ==
 -->
