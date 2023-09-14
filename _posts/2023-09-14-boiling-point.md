@@ -26,105 +26,91 @@ In 2019 Stephen set up Matriarch Productions which released their first project 
 British actor **Stephen Odubola** is probably best known for his leading role as Timmy in Paramount Pictures’ acclaimed crime drama _Blue Story_ opposite Micheal Ward and Sean Sagar, written and directed by Rapman. The film centres around a gang war that dooms the lifelong bond of south London friends and garnered exceptional reviews for the ‘elegant grit and volatile vibe’ it depicted of a world ruled by crazed-leader-of-the-pack bravado and vengeance. Other notable film and television credits include a leading role as Marcus Wainwright in Ascendant Films’ _A Violent Man_ alongside Jason Flemyng; Netflix’s _The Sandman_ with Tom Sturridge; SKY Studios’ _Fields_ with Malcolm Kamulete and at this year’s London Film Festival will be seen in feature film _Gassed Up_.
 
 **Rhianna Dhillon**  **(chair)** has been a film critic for 12 years, beginning her career at BBC Radio 1 and 1Xtra as their in-house film critic. Now a film and TV critic on BBC 6Music’s Breakfast Show with Lauren Laverne, Rhianna is also the BBC 5Live film reviewer and hosts the PodPod Podcast. Rhianna moderates events and Q&As for BAFTA, Disney, the BFI and others.
+<br><br>
 
-<![endif]-->
+**BOILING POINT (episode 1)**<br>
+_Directed by:_ Philip Barantini<br>
+_Written by:_ James Cummings<br>
+_Created by:_ Philip Barantini,  James Cummings, Stephen Graham<br>
+_Executive Producers:_ Hester Ruoff,  Bart Ruspoli, Stephen Graham,  Hannah Walters, Philip Barantini,  James Cummings<br>
+_Executive Producer for the BBC:_  Rebecca Ferguson<br>
+_Producer:_ Graham Drover<br>
+_Line Producer:_ Deborah Aston<br>
+_Casting by:_ Shaheen Baig,  Jonny Boutwood<br>
 
-**BOILING POINT (EPISODE 1)**
+_Director of Photography:_ Matthew Lewis<br>
 
-_Directed by:_ Philip Barantini
+_Editors:_ Tommy Boulding, Alex Fountain<br>
 
-_Written by:_ James Cummings
+_Post Producer:_ Rosanagh Griffiths<br>
 
-_Created by:_ Philip Barantini,  
-James Cummings, Stephen Graham
-
-_Executive Producers:_ Hester Ruoff,  
-Bart Ruspoli, Stephen Graham,  
-Hannah Walters, Philip Barantini,  
-James Cummings
-
-_Executive Producer for the BBC:_  
-Rebecca Ferguson
-
-_Producer:_ Graham Drover
-
-_Line Producer:_ Deborah Aston
-
-_Casting by:_ Shaheen Baig,  
-Jonny Boutwood
-
-_Director of Photography:_ Matthew Lewis
-
-_Editors:_ Tommy Boulding, Alex Fountain
-
-_Post Producer:_ Rosanagh Griffiths
-
-_Production Designer:_ Adam Tomlinson
+_Production Designer:_ Adam Tomlinson<br>
 
 _Chef Consultancy & Meal Design:  
-_Ellis Barrie
+_Ellis Barrie<br>
 
-_Costume Designer:_ Jessica Schofield
+_Costume Designer:_ Jessica Schofield<br>
 
-_Hair & Make-up Designer:_ Sue Michael
+_Hair & Make-up Designer:_ Sue Michael<br>
 
-_Music by:_ Aaron May, David Ridley
+_Music by:_ Aaron May, David Ridley<br>
 
-_Music Supervisor:_ Mark Kirby
+_Music Supervisor:_ Mark Kirby<br>
 
-_Supervising Sound Editor:_ James Drake
+_Supervising Sound Editor:_ James Drake<br>
 
-_Re-recording Mixer:_ Jules Woods
+_Re-recording Mixer:_ Jules Woods<br>
 
-_Location Manager:_ Tom Bartram
+_Location Manager:_ Tom Bartram<br>
 
-_1st Assistant Director:_ Sarah Lucas
+_1st Assistant Director:_ Sarah Lucas<br>
 
-_2nd Assistant Director:_ Liane O’Toole
+_2nd Assistant Director:_ Liane O’Toole<br>
 
-_Script Supervisor:_ Carley Armstrong
+_Script Supervisor:_ Carley Armstrong<br>
 
-_Cast:_
+_Cast:_<br>
 
-Stephen Graham _(Andy)_
+Stephen Graham _(Andy)_<br>
 
-Vinette Robinson _(Carly)_
+Vinette Robinson _(Carly)_<br>
 
-Ray Panthaki _(Freeman)_
+Ray Panthaki _(Freeman)_<br>
 
-Hannah Walters _(Emily)_
+Hannah Walters _(Emily)_<br>
 
-Cathy Tyson _(Vivian)_
+Cathy Tyson _(Vivian)_<br>
 
-Izuka Hoyle _(Camille)_
+Izuka Hoyle _(Camille)_<br>
 
-Áine Rose Daly _(Robyn)_
+Áine Rose Daly _(Robyn)_<br>
 
-Daniel Larkai _(Jake)_
+Daniel Larkai _(Jake)_<br>
 
-Gary Lamont _(Dean)_
+Gary Lamont _(Dean)_<br>
 
-Hannah Traylen _(Holly)_
+Hannah Traylen _(Holly)_<br>
 
-Stephen McMillan _(Jamie)_
+Stephen McMillan _(Jamie)_<br>
 
-Taz Skylar _(Billy)_
+Taz Skylar _(Billy)_<br>
 
-Ahmed Malek _(Musa)_
+Ahmed Malek _(Musa)_<br>
 
-Joel MacCormack _(Liam Astrid)_
+Joel MacCormack _(Liam Astrid)_<br>
 
-Missy Haysom _(Kit)_
+Missy Haysom _(Kit)_<br>
 
-Shaun Fagan _(Bolton)_
+Shaun Fagan _(Bolton)_<br>
 
-Stephen Odubola _(Johnny Bale)_
+Stephen Odubola _(Johnny Bale)_<br>
 
-BBC 2023
+BBC 2023<br>
 
 56 mins
 
-Total running time 110 mins
+Total running time 110 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTQ4NTg2N119
+eyJoaXN0b3J5IjpbMTM0NjA0MDE3Ml19
 -->
