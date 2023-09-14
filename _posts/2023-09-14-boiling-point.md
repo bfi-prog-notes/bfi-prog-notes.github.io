@@ -1,7 +1,5 @@
-<![endif]-->
 
-_+ Q&A with actors Vinette Robinson, Stephen Graham, Hannah Walters, Stephen Odubola, director Philip Barantini and writer James Cummings. Chaired by critic  
-Rhianna Dhillon._
+_+ Q&A with actors Vinette Robinson, Stephen Graham, Hannah Walters, Stephen Odubola, director Philip Barantini and writer James Cummings. Chaired by critic Rhianna Dhillon._
 
 Eight months after her mentor Andy Jones suffered a heart attack, head chef Carly is battling to forge a name for new Dalston restaurant Point North alongside her old kitchen crew. We follow the team as the stresses of keeping the restaurant running bear down on them amidst a hospitality industry in crisis. With the pressure to draw in new, hungry customers and the financial squeeze to keep the business profitable, the team must find a way to manage their complicated personal lives whilst creating quality food day in day out.
 
@@ -13,7 +11,7 @@ Award-winning actress **Vinette Robinson** reprises her role as ‘Carly’ in _
 
 **Stephen Graham** was appointed Officer of the Order of the British Empire (OBE) in the 2023 New Year Honours List for his services to Drama.
 
-Stephen has enjoyed continued success following his critically acclaimed performance in the 2007 BAFTA Best British Film winner_This Is England_, directed by Shane Meadows, together with the follow-up Channel 4 mini-series:_This Is England ‘86, ‘88_ and_‘90_,which also secured him a Best Leading Actor TV BAFTA nomination. Other notable credits include Jimmy McGovern’s  _Accused_opposite Sean Bean, for which Stephen received his first Best Supporting Actor TV BAFTA nomination. Stephen is also known for playing the iconic role of Al Capone opposite Steve Buscemi in all five seasons of Martin Scorsese’s  _Boardwalk Empire_for HBO.
+Stephen has enjoyed continued success following his critically acclaimed performance in the 2007 BAFTA Best British Film winner _This Is England_, directed by Shane Meadows, together with the follow-up Channel 4 mini-series:_This Is England ‘86, ‘88_ and _‘90_,which also secured him a Best Leading Actor TV BAFTA nomination. Other notable credits include Jimmy McGovern’s _Accused_opposite Sean Bean, for which Stephen received his first Best Supporting Actor TV BAFTA nomination. Stephen is also known for playing the iconic role of Al Capone opposite Steve Buscemi in all five seasons of Martin Scorsese’s  _Boardwalk Empire_for HBO.
 
 In recent years Stephen’s TV credits include Jeff Pope’s_Little Boy Blue_ and  _White House Farm Murders_, as well as the highly acclaimed BBC1 series  _Line of Duty_. Stephen was nominated for his second Best Supporting Actor award at the 2019 BAFTA TV Awards for Sky’s_Save Me_, created by Lennie James. 2020 saw the return of Stephen teaming up again with Shane Meadows for C4’s  _The Virtues_, which earned him the RTS TV Award for Best Actor and a second BAFTA TV nomination for Best Leading Actor.
 
@@ -28,6 +26,105 @@ In 2019 Stephen set up Matriarch Productions which released their first project 
 British actor **Stephen Odubola** is probably best known for his leading role as Timmy in Paramount Pictures’ acclaimed crime drama _Blue Story_ opposite Micheal Ward and Sean Sagar, written and directed by Rapman. The film centres around a gang war that dooms the lifelong bond of south London friends and garnered exceptional reviews for the ‘elegant grit and volatile vibe’ it depicted of a world ruled by crazed-leader-of-the-pack bravado and vengeance. Other notable film and television credits include a leading role as Marcus Wainwright in Ascendant Films’ _A Violent Man_ alongside Jason Flemyng; Netflix’s _The Sandman_ with Tom Sturridge; SKY Studios’ _Fields_ with Malcolm Kamulete and at this year’s London Film Festival will be seen in feature film _Gassed Up_.
 
 **Rhianna Dhillon**  **(chair)** has been a film critic for 12 years, beginning her career at BBC Radio 1 and 1Xtra as their in-house film critic. Now a film and TV critic on BBC 6Music’s Breakfast Show with Lauren Laverne, Rhianna is also the BBC 5Live film reviewer and hosts the PodPod Podcast. Rhianna moderates events and Q&As for BAFTA, Disney, the BFI and others.
+
+<![endif]-->
+
+**BOILING POINT (EPISODE 1)**
+
+_Directed by:_ Philip Barantini
+
+_Written by:_ James Cummings
+
+_Created by:_ Philip Barantini,  
+James Cummings, Stephen Graham
+
+_Executive Producers:_ Hester Ruoff,  
+Bart Ruspoli, Stephen Graham,  
+Hannah Walters, Philip Barantini,  
+James Cummings
+
+_Executive Producer for the BBC:_  
+Rebecca Ferguson
+
+_Producer:_ Graham Drover
+
+_Line Producer:_ Deborah Aston
+
+_Casting by:_ Shaheen Baig,  
+Jonny Boutwood
+
+_Director of Photography:_ Matthew Lewis
+
+_Editors:_ Tommy Boulding, Alex Fountain
+
+_Post Producer:_ Rosanagh Griffiths
+
+_Production Designer:_ Adam Tomlinson
+
+_Chef Consultancy & Meal Design:  
+_Ellis Barrie
+
+_Costume Designer:_ Jessica Schofield
+
+_Hair & Make-up Designer:_ Sue Michael
+
+_Music by:_ Aaron May, David Ridley
+
+_Music Supervisor:_ Mark Kirby
+
+_Supervising Sound Editor:_ James Drake
+
+_Re-recording Mixer:_ Jules Woods
+
+_Location Manager:_ Tom Bartram
+
+_1st Assistant Director:_ Sarah Lucas
+
+_2nd Assistant Director:_ Liane O’Toole
+
+_Script Supervisor:_ Carley Armstrong
+
+_Cast:_
+
+Stephen Graham _(Andy)_
+
+Vinette Robinson _(Carly)_
+
+Ray Panthaki _(Freeman)_
+
+Hannah Walters _(Emily)_
+
+Cathy Tyson _(Vivian)_
+
+Izuka Hoyle _(Camille)_
+
+Áine Rose Daly _(Robyn)_
+
+Daniel Larkai _(Jake)_
+
+Gary Lamont _(Dean)_
+
+Hannah Traylen _(Holly)_
+
+Stephen McMillan _(Jamie)_
+
+Taz Skylar _(Billy)_
+
+Ahmed Malek _(Musa)_
+
+Joel MacCormack _(Liam Astrid)_
+
+Missy Haysom _(Kit)_
+
+Shaun Fagan _(Bolton)_
+
+Stephen Odubola _(Johnny Bale)_
+
+BBC 2023
+
+56 mins
+
+Total running time 110 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjk5MTA0Nl19
+eyJoaXN0b3J5IjpbMTk0MzYzMDUwNV19
 -->
