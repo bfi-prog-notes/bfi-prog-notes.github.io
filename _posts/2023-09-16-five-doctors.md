@@ -24,7 +24,7 @@ With the arduous production finally complete, plans were being laid for broadcas
 **Kevin Lyons, eofftv.com**
 <br><br>
 
-**DOCTOR WHO: THE FIVE DOCTORS**
+**DOCTOR WHO: THE FIVE DOCTORS**  
 _Director_: Peter Moffatt  
 ©: BBC  
 _Producer_: John Nathan-Turner  
@@ -53,23 +53,20 @@ _Title Music Composed by_: Ron Grainer
 _Incidental Music_: Peter Howell  
 _Studio Sound_: Martin Ridout  
 _Film Sound_: John Gatland  
-_Special Sound_: Dick Mills,  
-BBC Radiophonic Workshop
+_Special Sound_: Dick Mills,  BBC Radiophonic Workshop
 
-_Cast:_  
+**Cast**  
 Peter Davison _(The Doctor [the Fifth Doctor])_  
 Jon Pertwee _(The Doctor [the Third Doctor])_  
 Patrick Troughton _(The Doctor [the Second Doctor])_  
 Richard Hurndall _(The Doctor [the First Doctor])_  
 Tom Baker _(The Doctor [the Fourth Doctor])_  
-William Hartnell_  
-(The Doctor [the First Doctor in archive footage])_  
+William Hartnell _(The Doctor [the First Doctor in archive footage])_  
 Janet Fielding _(Tegan)_  
 Mark Strickson _(Turlough)_  
 Elisabeth Sladen _(Sarah Jane Smith)_  
 Carole Ann Ford _(Susan)_  
-Nicholas Courtney_  
-(The Brigadier [Lethbridge-Stewart])_  
+Nicholas Courtney _(The Brigadier [Lethbridge-Stewart])_  
 Lalla Ward _(Romana)_  
 Anthony Ainley _(The Master)_  
 Philip Latham _(Lord President Borusa)_  
@@ -94,13 +91,15 @@ William Kenton _(Cyber scout)_
 Keith Hodiak _(Raston robot)_  
 Lee Woods _(Yeti/Cyberman)_ *
 
-UK 1983  90 mins
+UK 1983  
+90 mins
 
-* Uncredited
+*Uncredited
 
 Courtesy of BBC Studios
 
 _Doctor Who: The Collection – Season 20_ will soon be released on Blu-ray by BBC Studios
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODk4NjY4NTZdfQ==
+eyJoaXN0b3J5IjpbLTE3Nzk1MzIxNjZdfQ==
 -->
