@@ -41,72 +41,43 @@ _While it’s more fluid than it was in your last feature_ The Silence of Lorna 
 
 LD: We’d never rehearsed so much before, and this time we found the shots we wanted during rehearsals. During the shoot we tried new angles, but we nearly always returned to the shots we’d found earlier. It’s as if they really were there out of necessity. And we had far fewer tracking shots and many more pans – much simpler. It’s as if we wanted to be less shocking, more straightforward. But let’s see what happens with our next film!
 
-**Interview by Geoff Andrew, _Sight and Sound_, November 2011
+**Interview by Geoff Andrew, _Sight and Sound_, November 2011**
+<br><br>
 
-<![endif]-->
+**THE KID WITH A BIKE (LE GAMIN AU VÉLO)**<br>
+_Directors:_ Jean-Pierre Dardenne, Luc Dardenne<br>
+_Production Companies:_ Archipel 35,  Les Films du Fleuve, Lucky Red,  France 2 Cinéma, RTBF, Belgacom<br>
+_Executive Producer:_ Delphine Tomson<br>
+_Producers:_ Jean-Pierre Dardenne, Luc Dardenne, Denis Freyd<br>
+_Co-producer:_ Andrea Occhipinti<br>
+_Associate Producers:_ Arlette Zylberberg,  Andre Michotte, Stefano Massenzi<br>
+_Unit Production Manager:_ Philippe Groff<br>
+_Production Manager:_ Thomas Alfandari<br>
+_1st Assistant Director:_ Caroline Tambour<br>
+_Screenplay:_ Jean-Pierre Dardenne, Luc Dardenne<br>
+_Director of Photography:_ Alain Marcoen<br>
+_Editor:_ Marie-Hélène Dozo<br>
+_Art Director:_ Igor Gabriel<br>
+_Costume Designer:_ Maira Ramedhan-Levi<br>
+_Make-up:_ Natali Tabareau-Vieuille<br>
+_Sound:_ Jean-Pierre Duret<br>
+_Sound Mixer:_ Thomas Gauder<br>
+_Sound Editor:_ Benoît de Clerck<br>
 
-**THE KID WITH A BIKE (LE GAMIN AU VÉLO)**
+**Cast**<br>
+Thomas Doret _(Cyril Catoul)_<br>
+Cécile de France _(Samantha)_<br>
+Jérémie Renier _(Guy Catoul)_<br>
+Olivier Gourmet _(bistro owner)_<br>
+Egon De Mateo _(Wes)_<br>
+Fabrizio Rongione _(bookseller)_<br>
 
-_Directors:_ Jean-Pierre Dardenne, Luc Dardenne
+Belgium-France-Italy 2011<br>
+87 mins<br>
+35mm<br>
+<br>
 
-_Production Companies:_ Archipel 35,  
-Les Films du Fleuve, Lucky Red,  
-France 2 Cinéma, RTBF, Belgacom
 
-_Executive Producer:_ Delphine Tomson
-
-_Producers:_ Jean-Pierre Dardenne,
-
-Luc Dardenne, Denis Freyd
-
-_Co-producer:_ Andrea Occhipinti
-
-_Associate Producers:_ Arlette Zylberberg,  
-Andre Michotte, Stefano Massenzi
-
-_Unit Production Manager:_ Philippe Groff
-
-_Production Manager:_ Thomas Alfandari
-
-_1st Assistant Director:_ Caroline Tambour
-
-_Screenplay:_ Jean-Pierre Dardenne, Luc Dardenne
-
-_Director of Photography:_ Alain Marcoen
-
-_Editor:_ Marie-Hélène Dozo
-
-_Art Director:_ Igor Gabriel
-
-_Costume Designer:_ Maira Ramedhan-Levi
-
-_Make-up:_ Natali Tabareau-Vieuille
-
-_Sound:_ Jean-Pierre Duret
-
-_Sound Mixer:_ Thomas Gauder
-
-_Sound Editor:_ Benoît de Clerck
-
-_Cast:_
-
-Thomas Doret _(Cyril Catoul)_
-
-Cécile de France _(Samantha)_
-
-Jérémie Renier _(Guy Catoul)_
-
-Olivier Gourmet _(bistro owner)_
-
-Egon De Mateo _(Wes)_
-
-Fabrizio Rongione _(bookseller)_
-
-Belgium-France-Italy 2011
-
-87 mins
-
-35mm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY5NDE4MDJdfQ==
+eyJoaXN0b3J5IjpbNjA5OTg3NzY5XX0=
 -->
