@@ -24,128 +24,85 @@ Given such moments, _Au revoir les enfants_ – for all its tragic subject matte
 <br><br>
 
 **AU REVOIR LES ENFANTS**<br>
-
 _Director:_ Louis Malle<br>
-
-_Production Companies:_  
-Nouvelles Editions de Films, MK2 Productions, Stella Film, NEF Filmproduktion,  
-Centre national de la cinema, Investimage,
-
-Images Investissements, Créations<br>
-
+_Production Companies:_  Nouvelles Editions de Films, MK2 Productions, Stella Film, NEF Filmproduktion,  Centre national de la cinema, Investimage, Images Investissements, Créations<br>
 _Participation:_ Raiuno<br>
-
 _Producer:_ Louis Malle<br>
-
 _Production Manager:_ Gérald Molto<br>
-
 _Unit Production Manager:_ Jean-Yves Asselin<br>
-
 _Location Manager:_ Alain Guyard<br>
-
-_Assistant Directors:_ Yann Gilbert,
-
-Patrick Cartoux<br>
-
+_Assistant Directors:_ Yann Gilbert, Patrick Cartoux<br>
 _Casting:_ Jeanne Biras, Iris Carrière, Sylvie Meyer<br>
-
 _Screenplay:_ Louis Malle<br>
-
 _Director of Photography:_ Renato Berta<br>
-
 _Steadicam Operator:_ Mark Koninckx<br>
-
 _Editor:_ Emmanuelle Castro<br>
-
 _Art Director:_ Willy Holt<br>
-
 _Costume Designer:_ Corinne Jorry<br>
-
 _Costumer:_ Hélène Robin<br>
-
 _Make-up:_ Susan Robertson<br>
-
 _Sound Recording:_ Jean-Claude Laureux<br>
-
-_Sound Re-recording:_ Claude Villand,
-
-Bernard LeRoux<br>
-
+_Sound Re-recording:_ Claude Villand, Bernard LeRoux<br>
 _Post-synchronization:_ Jacques Lévy<br>
-
 _Sound Effects:_ Daniel Couteau<br>
+_Production Adviser:_ Christian Ferry<br>
 
-_Production Adviser:_ Christian Ferry
+**Cast**<br>
+Gaspard Manesse _(Julien Quentin)_<br>
+Raphaël Fejtö _(Jean Bonnet)_<br>
+Francine Racette _(Mme Quentin)_<br>
+Stanislas Carré de Malberg _(François Quentin)_<br>
+Philippe Morier-Genoud _(Father Jean)_<br>
+François Berléand _(Father Michel)_<br>
+François Negret _(Joseph)_<br>
+Peter Fitz _(Muller)_<br>
+Pascal Rivet _(Boulanger)_<br>
+Benoît Henriet _(Ciron)_<br>
+Richard Leboeuf _(Sagard)_<br>
+Xavier Legrand _(Babinot)_<br>
+Arnaud Henriet _(Negus)_<br>
+Jean-Sébastien Chauvin _(Laviron)_<br>
 
-_Cast:_
+Luc Etienne _(Moreau)_<br>
 
-Gaspard Manesse _(Julien Quentin)_
+Daniel Edinger _(Tinchaut)_<br>
 
-Raphaël Fejtö _(Jean Bonnet)_
+Marcel Bellot _(Guibourg)_<br>
 
-Francine Racette _(Mme Quentin)_
+Ami Flammer _(Florent)_<br>
 
-Stanislas Carré de Malberg _(François Quentin)_
+Irène Jacob _(Mlle Davenne)_<br>
 
-Philippe Morier-Genoud _(Father Jean)_
+Jean-Paul Dubarry _(Father Hippolyte)_<br>
 
-François Berléand _(Father Michel)_
+Jacqueline Staup _(nurse)_<br>
 
-François Negret _(Joseph)_
+Jacqueline Paris _(Mme Perrin)_<br>
 
-Peter Fitz _(Muller)_
+René Bouloc<br>
 
-Pascal Rivet _(Boulanger)_
+Alain Clément<br>
 
-Benoît Henriet _(Ciron)_
+Michaël Rottstock<br>
 
-Richard Leboeuf _(Sagard)_
+Detlef Gericke<br>
 
-Xavier Legrand _(Babinot)_
+Michaël Becker<br>
 
-Arnaud Henriet _(Negus)_
+Thomas Friedl<br>
 
-Jean-Sébastien Chauvin _(Laviron)_
+Christian Sohn<br>
 
-Luc Etienne _(Moreau)_
+Michel Ginot<br>
 
-Daniel Edinger _(Tinchaut)_
+Philippe Despaux<br>
 
-Marcel Bellot _(Guibourg)_
+France-Germany-Italy 1987<br>
 
-Ami Flammer _(Florent)_
+103 mins<br>
 
-Irène Jacob _(Mlle Davenne)_
-
-Jean-Paul Dubarry _(Father Hippolyte)_
-
-Jacqueline Staup _(nurse)_
-
-Jacqueline Paris _(Mme Perrin)_
-
-René Bouloc
-
-Alain Clément
-
-Michaël Rottstock
-
-Detlef Gericke
-
-Michaël Becker
-
-Thomas Friedl
-
-Christian Sohn
-
-Michel Ginot
-
-Philippe Despaux
-
-France-Germany-Italy 1987
-
-103 mins
-
-Digital
+Digital<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTg2MTMzNV19
+eyJoaXN0b3J5IjpbMTUxMDE1MDY1OV19
 -->
