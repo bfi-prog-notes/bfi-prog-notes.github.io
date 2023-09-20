@@ -62,47 +62,28 @@ Richard Leboeuf _(Sagard)_<br>
 Xavier Legrand _(Babinot)_<br>
 Arnaud Henriet _(Negus)_<br>
 Jean-Sébastien Chauvin _(Laviron)_<br>
-
 Luc Etienne _(Moreau)_<br>
-
 Daniel Edinger _(Tinchaut)_<br>
-
 Marcel Bellot _(Guibourg)_<br>
-
 Ami Flammer _(Florent)_<br>
-
 Irène Jacob _(Mlle Davenne)_<br>
-
 Jean-Paul Dubarry _(Father Hippolyte)_<br>
-
 Jacqueline Staup _(nurse)_<br>
-
 Jacqueline Paris _(Mme Perrin)_<br>
-
 René Bouloc<br>
-
 Alain Clément<br>
-
 Michaël Rottstock<br>
-
 Detlef Gericke<br>
-
 Michaël Becker<br>
-
 Thomas Friedl<br>
-
 Christian Sohn<br>
-
 Michel Ginot<br>
-
 Philippe Despaux<br>
 
 France-Germany-Italy 1987<br>
-
 103 mins<br>
-
 Digital<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDE1MDY1OV19
+eyJoaXN0b3J5IjpbLTEwMDE2NTkwMzFdfQ==
 -->
