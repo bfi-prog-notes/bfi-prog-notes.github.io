@@ -135,15 +135,12 @@ Jermaine Smith _(Beats)_<br>
 Dylan Charles _(police constable)_<br>
 David Cann _(detective superintendent)_<br>
 Terry Notary _(lead creature performer and movement coach)_<br>
-
-Karl Baumann,  Tony Christian_,_ Donna William,Arti Shah _(creature performers)_<br>
+Karl Baumann,  Tony Christian, Donna William, Arti Shah _(creature performers)_<br>
 
 UK 2011©<br>
-
 88 mins<br>
-
 Digital<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0MTY5MzgwXX0=
+eyJoaXN0b3J5IjpbLTY4NzAxNzEyMl19
 -->
