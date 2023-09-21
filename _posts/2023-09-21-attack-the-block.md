@@ -25,178 +25,177 @@ Films this cine-literate are rarely this unpretentiously enjoyable, but it’s e
 **Jumayn Hunter** is a British actor known for martial arts, a big energetic personality, and cerebral performances in both cult film and mainstream blockbusters. His childhood, spent experiencing a unique blend of cultures in Florida, Jamaica, Paris and more, built the foundation for an acting career early on, with his debut being in theatre in the play _Afterbirth_ by Deborah Paige, quickly followed by _Macbeth_ by Max Stafford Clark. JR broke into mainstream television with _The Bill_ and _Casualty_ and had his feature film debut with _Fallout_, which launched his love for acting and solidified a career. Performances in _Eden Lake_, _Cherry Tree Lane_, _Attack the Block_, _Piggy_ and _Quartet_ followed soon after.
 
 His skilful portrayal of complex characters led to notable collaborations with Idris Elba in _Guerrilla_ and _Yardie_, and Steve McQueen in his _Small Axe_ project. Showing his ability to seamlessly move between genres, he’s been seen in indie sci-fi _How to Talk to Girls at Parties_ with Nicole Kidman, and in mainstream comedy with Sarah Pascoe’s _Out of Her Mind_. With a wealth of experience under his belt, he’s now planning his own projects; working with the likes of Netflix, BBC, SKY, Far Eastern, Continental African and South American and Bollywood cinema, he is hoping to produce some truly unique and polarising cinema for the future.
+<br><br>
 
-<![endif]-->
+**ATTACK THE BLOCK**<br>
 
-**ATTACK THE BLOCK**
-
-_Directed by_: Joe Cornish
+_Directed by_: Joe Cornish<br>
 
 ©: StudioCanal S.A., UK Film Council,  
-Channel Four Television Corporation
+Channel Four Television Corporation<br>
 
-_A_ Big Talk Pictures _production_
+_A_ Big Talk Pictures _production_<br>
 
-_Made with the support of_: The National Lottery through the UK Film Council’s Development Fund and Premiere Fund
+_Made with the support of_: The National Lottery through the UK Film Council’s Development Fund and Premiere Fund<br>
 
 _Presented by_: StudioCanal Features, Film4,
 
-UK Film Council
+UK Film Council<br>
 
 _Executive Producers_: Matthew Justice, Tessa Ross, Jenny Borgars, Will Clarke, Olivier Courson,  
-Edgar Wright
+Edgar Wright<br>
 
-_Development Services_: Jack Barth
+_Development Services_: Jack Barth<br>
 
-_Produced by_: Nira Park, James Wilson
+_Produced by_: Nira Park, James Wilson<br>
 
-_Line Producer_: James Biddle
+_Line Producer_: James Biddle<br>
 
-_Associate Producer_: Lucy Pardee
+_Associate Producer_: Lucy Pardee<br>
 
-_Senior Production and Development_
+_Senior Production and Development_<br>
 
-_Production Manager_: Nicky Earnshaw
+_Production Manager_: Nicky Earnshaw<br>
 
-_Production Co-ordinators_: Emma Olrich-Smith, Fiona Garland
+_Production Co-ordinators_: Emma Olrich-Smith, Fiona Garland<br>
 
-_Unit Manager_: Sharon McGuinness
+_Unit Manager_: Sharon McGuinness<br>
 
-_Location Manager_: Vinnie Jassal
+_Location Manager_: Vinnie Jassal<br>
 
-_Post-production Supervisor_: Michael Solinger
+_Post-production Supervisor_: Michael Solinger<br>
 
 _1st Assistant Directors_: Ben Howarth,
 
-Dan Channing Williams
+Dan Channing Williams<br>
 
-_2nd Assistant Directors_: Harriet Worth, Tom Rye
+_2nd Assistant Directors_: Harriet Worth, Tom Rye<br>
 
-_Script Supervisors_: Paula Casarin, Ruth Atkinson
+_Script Supervisors_: Paula Casarin, Ruth Atkinson<br>
 
-_Casting Director_: Nina Gold
+_Casting Director_: Nina Gold<br>
 
-_Written by_: Joe Cornish
+_Written by_: Joe Cornish<br>
 
-_Director of Photography_: Tom Townend
+_Director of Photography_: Tom Townend<br>
 
 _2nd Unit Directors of Photography_:  
-Julian Morson, Peter Talbot
+Julian Morson, Peter Talbot<br>
 
 _Camera Operators_: Chris Plevin,
 
-Rodrigo Gutierrez, Peter Field, Simon Baker
+Rodrigo Gutierrez, Peter Field, Simon Baker<br>
 
-_A Camera Operator_: Julian Morson
+_A Camera Operator_: Julian Morson<br>
 
-_Steadicam Operator_: Julian Morson
+_Steadicam Operator_: Julian Morson<br>
 
-_1st Assistant Camera_: Sam Renton, Ashley Bond
+_1st Assistant Camera_: Sam Renton, Ashley Bond<br>
 
-_Central Loader_: Elliot George Dupuy
+_Central Loader_: Elliot George Dupuy<br>
 
-_Gaffers_: Julian White, Martin Duncan
+_Gaffers_: Julian White, Martin Duncan<br>
 
-_Key Grip_: Rupert Lloyd Parry
+_Key Grip_: Rupert Lloyd Parry<br>
 
-_Stills Photographers_: Matt Nettheim, Liam Daniel
+_Stills Photographers_: Matt Nettheim, Liam Daniel<br>
 
-_Visual Effects by_: Double Negative
+_Visual Effects by_: Double Negative<br>
 
-_Additional Visual Effects by_: Fido
+_Additional Visual Effects by_: Fido<br>
 
-_UV Room VFX Sequence by_: Method
+_UV Room VFX Sequence by_: Method<br>
 
-_Special Effects Supervisor_: Sam Conway
+_Special Effects Supervisor_: Sam Conway<br>
 
-_Creature Effects by_: Mike Elizalde
+_Creature Effects by_: Mike Elizalde<br>
 
-_Creature Effects Created by_: Spectral Motion Inc.
+_Creature Effects Created by_: Spectral Motion Inc.<br>
 
-_Editor_: Jonathan Amos
+_Editor_: Jonathan Amos<br>
 
-_Assembly Editor_: Daniel Gethic
+_Assembly Editor_: Daniel Gethic<br>
 
-_1st Assistant Editor_: Tom Kemplen
+_1st Assistant Editor_: Tom Kemplen<br>
 
-_2nd Assistant Editor_: Rob Duffield
+_2nd Assistant Editor_: Rob Duffield<br>
 
-_Visual Effects Editor_: Tom Kemplen
+_Visual Effects Editor_: Tom Kemplen<br>
 
-_Production Designer_: Marcus Rowland
+_Production Designer_: Marcus Rowland<br>
 
-_Supervising Art Director_: Dick Lunn
+_Supervising Art Director_: Dick Lunn<br>
 
-_Art Director_: Andrea Coathupe
+_Art Director_: Andrea Coathupe<br>
 
-_Set Decorator_: Dick Lunn
+_Set Decorator_: Dick Lunn<br>
 
-_Graphic Designer_: Andy Bottomley
+_Graphic Designer_: Andy Bottomley<br>
 
-_Graffiti Artist_: Lachlan Hansen
+_Graffiti Artist_: Lachlan Hansen<br>
 
-_Storyboard Artist_: Nicholas Pelham
+_Storyboard Artist_: Nicholas Pelham<br>
 
-_Production Buyer_: Anna Kasabova
+_Production Buyer_: Anna Kasabova<br>
 
-_Costume Designer_: Rosa Dias
+_Costume Designer_: Rosa Dias<br>
 
-_Make-up and Hair Designer_: Jane Walker
+_Make-up and Hair Designer_: Jane Walker<br>
 
-_Special Make-up Effects Designer_: Paul Hyett
+_Special Make-up Effects Designer_: Paul Hyett<br>
 
 _Prosthetic Make-up Artists_: Stuart Conran,  
-Demetris Robinson
+Demetris Robinson<br>
 
-_Title Sequence by_: Matt Curtis
+_Title Sequence by_: Matt Curtis<br>
 
-_Laboratory_: Technicolor Ltd.
+_Laboratory_: Technicolor Ltd.<br>
 
-_Music by_: Steven Price
+_Music by_: Steven Price<br>
 
-_Additional Music_: Felix Buxton, Simon Ratcliffe
+_Additional Music_: Felix Buxton, Simon Ratcliffe<br>
 
-_Orchestra Leader_: Everton Nelson
+_Orchestra Leader_: Everton Nelson<br>
 
-_Conductor_: Geoff Alexander
+_Conductor_: Geoff Alexander<br>
 
-_Orchestrators_: David Butterworth, Andrew Fisher
+_Orchestrators_: David Butterworth, Andrew Fisher<br>
 
-_Music Supervisor_: Nick Angel
+_Music Supervisor_: Nick Angel<br>
 
-_Orchestra Contractor_: Isobel Griffiths
+_Orchestra Contractor_: Isobel Griffiths<br>
 
-_Sound Designer_: Jeremy Price
+_Sound Designer_: Jeremy Price<br>
 
-_Production Sound Mixer_: Jim Greenhorn
+_Production Sound Mixer_: Jim Greenhorn<br>
 
-_Sound Mixer_: Clive Derbyshire
+_Sound Mixer_: Clive Derbyshire<br>
 
-_Boom Operators_: Tristan Tarrant, Peter Margrave
+_Boom Operators_: Tristan Tarrant, Peter Margrave<br>
 
-_Re-recording Mixer_: Mark Paterson
+_Re-recording Mixer_: Mark Paterson<br>
 
-_Supervising Sound Editor_: Julian Slater
+_Supervising Sound Editor_: Julian Slater<br>
 
-_Stunt Co-ordinators_: Paul Herbert, Tony Lucken
+_Stunt Co-ordinators_: Paul Herbert, Tony Lucken<br>
 
 _On-set Police Advisers_: Simon Morgan,
 
-Raffaele D’Orsi, Lucy D’Orsi
+Raffaele D’Orsi, Lucy D’Orsi<br>
 
-_Multimedia Consultant_: Lee Thomas
+_Multimedia Consultant_: Lee Thomas<br>
 
-_Dialogue Coach_: Jill McCullogh
+_Dialogue Coach_: Jill McCullogh<br>
 
 _Armourers_: Richard Hooper, Joss Skottowe,
 
-Greg Corke, Dave Evans
+Greg Corke, Dave Evans<br>
 
-_Pogo the dog supplied by_: Animal Ambassadors
+_Pogo the dog supplied by_: Animal Ambassadors<br>
 
-_Shot at_: 3 Mills Studios
+_Shot at_: 3 Mills Studios<br>
 
-_Cast:_
+_Cast:_<br>
 
 John Boyega _(Moses)_
 
@@ -267,5 +266,5 @@ UK 2011©
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzM1ODkyM119
+eyJoaXN0b3J5IjpbMTIwMjM4MjAxNF19
 -->
