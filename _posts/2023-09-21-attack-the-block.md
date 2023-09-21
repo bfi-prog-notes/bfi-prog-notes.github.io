@@ -68,146 +68,73 @@ _Creature Effects Created by_: Spectral Motion Inc.<br>
 _Editor_: Jonathan Amos<br>
 _Assembly Editor_: Daniel Gethic<br>
 _1st Assistant Editor_: Tom Kemplen<br>
-
 _2nd Assistant Editor_: Rob Duffield<br>
-
 _Visual Effects Editor_: Tom Kemplen<br>
-
 _Production Designer_: Marcus Rowland<br>
-
 _Supervising Art Director_: Dick Lunn<br>
-
 _Art Director_: Andrea Coathupe<br>
-
 _Set Decorator_: Dick Lunn<br>
-
 _Graphic Designer_: Andy Bottomley<br>
-
 _Graffiti Artist_: Lachlan Hansen<br>
-
 _Storyboard Artist_: Nicholas Pelham<br>
-
 _Production Buyer_: Anna Kasabova<br>
-
 _Costume Designer_: Rosa Dias<br>
-
 _Make-up and Hair Designer_: Jane Walker<br>
-
 _Special Make-up Effects Designer_: Paul Hyett<br>
-
-_Prosthetic Make-up Artists_: Stuart Conran,  
-Demetris Robinson<br>
-
+_Prosthetic Make-up Artists_: Stuart Conran,  Demetris Robinson<br>
 _Title Sequence by_: Matt Curtis<br>
-
 _Laboratory_: Technicolor Ltd.<br>
-
 _Music by_: Steven Price<br>
-
 _Additional Music_: Felix Buxton, Simon Ratcliffe<br>
-
 _Orchestra Leader_: Everton Nelson<br>
-
 _Conductor_: Geoff Alexander<br>
-
 _Orchestrators_: David Butterworth, Andrew Fisher<br>
-
 _Music Supervisor_: Nick Angel<br>
-
 _Orchestra Contractor_: Isobel Griffiths<br>
-
 _Sound Designer_: Jeremy Price<br>
-
 _Production Sound Mixer_: Jim Greenhorn<br>
-
 _Sound Mixer_: Clive Derbyshire<br>
-
 _Boom Operators_: Tristan Tarrant, Peter Margrave<br>
-
 _Re-recording Mixer_: Mark Paterson<br>
-
 _Supervising Sound Editor_: Julian Slater<br>
-
 _Stunt Co-ordinators_: Paul Herbert, Tony Lucken<br>
-
-_On-set Police Advisers_: Simon Morgan,
-
-Raffaele D’Orsi, Lucy D’Orsi<br>
-
+_On-set Police Advisers_: Simon Morgan, Raffaele D’Orsi, Lucy D’Orsi<br>
 _Multimedia Consultant_: Lee Thomas<br>
-
 _Dialogue Coach_: Jill McCullogh<br>
-
-_Armourers_: Richard Hooper, Joss Skottowe,
-
-Greg Corke, Dave Evans<br>
-
+_Armourers_: Richard Hooper, Joss Skottowe, Greg Corke, Dave Evans<br>
 _Pogo the dog supplied by_: Animal Ambassadors<br>
-
 _Shot at_: 3 Mills Studios<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 John Boyega _(Moses)_<br>
-
 Jodie Whittaker _(Sam)_<br>
-
 Alex Esmail _(Pest)_<br>
-
 Franz Drameh _(Dennis)_<br>
-
 Leeon Jones _(Jerome)_<br>
-
 Simon Howard _(Biggz)_<br>
-
 Luke Treadaway _(Brewis)_<br>
-
 Jumayn Hunter _(Hi-Hatz)_<br>
-
 Danielle Vitalis _(Tia)_<br>
-
 Paige Meade _(Dimples)_<br>
-
 Sammy Williams _(Probs)_<br>
-
 Michael Ajao _(Mayhem)_<br>
-
 Nick Frost _(Ron)_<br>
-
 Maggie McCarthy _(Margaret)_<br>
-
 Gina Antwi _(Dionne)_<br>
-
 Natasha Jonas _(Gloria)_<br>
-
 Flaminia Cinque _(Italian woman)_<br>
-
 Selom Awadzi _(Tonks)_<br>
-
-Adam Buxton_,_ Haneen Hammou_  
-(documentary voices over)_<br>
-
+Adam Buxton, Haneen Hammou _(documentary voices over)_<br>
 Paisley Thomas _(Roxanne)_<br>
-
 Jacey Salles _(Biggz’s mum)_<br>
-
 Yvonne D’Alpra _(Pest’s nan)_<br>
-
 Karl Collins _(Dennis’ dad)_<br>
-
-Joey Ansah_,_ Adam Leese _(policemen)_<br>
-
+Joey Ansah, Adam Leese _(policemen)_<br>
 Lee Long _(Patrick)_<br>
-
 Jermaine Smith _(Beats)_<br>
-
 Dylan Charles _(police constable)_<br>
-
 David Cann _(detective superintendent)_<br>
-
-Terry Notary
-
-_(lead creature performer and movement coach)_<br>
+Terry Notary _(lead creature performer and movement coach)_<br>
 
 Karl Baumann,  Tony Christian_,_ Donna William,Arti Shah _(creature performers)_<br>
 
@@ -218,5 +145,5 @@ UK 2011©<br>
 Digital<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjY5NDk2OF19
+eyJoaXN0b3J5IjpbOTM0MTY5MzgwXX0=
 -->
