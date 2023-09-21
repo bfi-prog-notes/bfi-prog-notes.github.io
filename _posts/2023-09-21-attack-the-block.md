@@ -28,94 +28,45 @@ His skilful portrayal of complex characters led to notable collaborations with I
 <br><br>
 
 **ATTACK THE BLOCK**<br>
-
 _Directed by_: Joe Cornish<br>
-
-©: StudioCanal S.A., UK Film Council,  
-Channel Four Television Corporation<br>
-
+©: StudioCanal S.A., UK Film Council,  Channel Four Television Corporation<br>
 _A_ Big Talk Pictures _production_<br>
-
 _Made with the support of_: The National Lottery through the UK Film Council’s Development Fund and Premiere Fund<br>
-
-_Presented by_: StudioCanal Features, Film4,
-
-UK Film Council<br>
-
-_Executive Producers_: Matthew Justice, Tessa Ross, Jenny Borgars, Will Clarke, Olivier Courson,  
-Edgar Wright<br>
-
+_Presented by_: StudioCanal Features, Film4, UK Film Council<br>
+_Executive Producers_: Matthew Justice, Tessa Ross, Jenny Borgars, Will Clarke, Olivier Courson,  Edgar Wright<br>
 _Development Services_: Jack Barth<br>
-
 _Produced by_: Nira Park, James Wilson<br>
-
 _Line Producer_: James Biddle<br>
-
 _Associate Producer_: Lucy Pardee<br>
-
 _Senior Production and Development_<br>
-
 _Production Manager_: Nicky Earnshaw<br>
-
 _Production Co-ordinators_: Emma Olrich-Smith, Fiona Garland<br>
-
 _Unit Manager_: Sharon McGuinness<br>
-
 _Location Manager_: Vinnie Jassal<br>
-
 _Post-production Supervisor_: Michael Solinger<br>
-
-_1st Assistant Directors_: Ben Howarth,
-
-Dan Channing Williams<br>
-
+_1st Assistant Directors_: Ben Howarth, Dan Channing Williams<br>
 _2nd Assistant Directors_: Harriet Worth, Tom Rye<br>
-
 _Script Supervisors_: Paula Casarin, Ruth Atkinson<br>
-
 _Casting Director_: Nina Gold<br>
-
 _Written by_: Joe Cornish<br>
-
 _Director of Photography_: Tom Townend<br>
-
-_2nd Unit Directors of Photography_:  
-Julian Morson, Peter Talbot<br>
-
-_Camera Operators_: Chris Plevin,
-
-Rodrigo Gutierrez, Peter Field, Simon Baker<br>
-
+_2nd Unit Directors of Photography_:  Julian Morson, Peter Talbot<br>
+_Camera Operators_: Chris Plevin, Rodrigo Gutierrez, Peter Field, Simon Baker<br>
 _A Camera Operator_: Julian Morson<br>
-
 _Steadicam Operator_: Julian Morson<br>
-
 _1st Assistant Camera_: Sam Renton, Ashley Bond<br>
-
 _Central Loader_: Elliot George Dupuy<br>
-
 _Gaffers_: Julian White, Martin Duncan<br>
-
 _Key Grip_: Rupert Lloyd Parry<br>
-
 _Stills Photographers_: Matt Nettheim, Liam Daniel<br>
-
 _Visual Effects by_: Double Negative<br>
-
 _Additional Visual Effects by_: Fido<br>
-
 _UV Room VFX Sequence by_: Method<br>
-
 _Special Effects Supervisor_: Sam Conway<br>
-
 _Creature Effects by_: Mike Elizalde<br>
-
 _Creature Effects Created by_: Spectral Motion Inc.<br>
-
 _Editor_: Jonathan Amos<br>
-
 _Assembly Editor_: Daniel Gethic<br>
-
 _1st Assistant Editor_: Tom Kemplen<br>
 
 _2nd Assistant Editor_: Rob Duffield<br>
@@ -197,74 +148,75 @@ _Shot at_: 3 Mills Studios<br>
 
 _Cast:_<br>
 
-John Boyega _(Moses)_
+John Boyega _(Moses)_<br>
 
-Jodie Whittaker _(Sam)_
+Jodie Whittaker _(Sam)_<br>
 
-Alex Esmail _(Pest)_
+Alex Esmail _(Pest)_<br>
 
-Franz Drameh _(Dennis)_
+Franz Drameh _(Dennis)_<br>
 
-Leeon Jones _(Jerome)_
+Leeon Jones _(Jerome)_<br>
 
-Simon Howard _(Biggz)_
+Simon Howard _(Biggz)_<br>
 
-Luke Treadaway _(Brewis)_
+Luke Treadaway _(Brewis)_<br>
 
-Jumayn Hunter _(Hi-Hatz)_
+Jumayn Hunter _(Hi-Hatz)_<br>
 
-Danielle Vitalis _(Tia)_
+Danielle Vitalis _(Tia)_<br>
 
-Paige Meade _(Dimples)_
+Paige Meade _(Dimples)_<br>
 
-Sammy Williams _(Probs)_
+Sammy Williams _(Probs)_<br>
 
-Michael Ajao _(Mayhem)_
+Michael Ajao _(Mayhem)_<br>
 
-Nick Frost _(Ron)_
+Nick Frost _(Ron)_<br>
 
-Maggie McCarthy _(Margaret)_
+Maggie McCarthy _(Margaret)_<br>
 
-Gina Antwi _(Dionne)_
+Gina Antwi _(Dionne)_<br>
 
-Natasha Jonas _(Gloria)_
+Natasha Jonas _(Gloria)_<br>
 
-Flaminia Cinque _(Italian woman)_
+Flaminia Cinque _(Italian woman)_<br>
 
-Selom Awadzi _(Tonks)_
+Selom Awadzi _(Tonks)_<br>
 
 Adam Buxton_,_ Haneen Hammou_  
-(documentary voices over)_
+(documentary voices over)_<br>
 
-Paisley Thomas _(Roxanne)_
+Paisley Thomas _(Roxanne)_<br>
 
-Jacey Salles _(Biggz’s mum)_
+Jacey Salles _(Biggz’s mum)_<br>
 
-Yvonne D’Alpra _(Pest’s nan)_
+Yvonne D’Alpra _(Pest’s nan)_<br>
 
-Karl Collins _(Dennis’ dad)_
+Karl Collins _(Dennis’ dad)_<br>
 
-Joey Ansah_,_ Adam Leese _(policemen)_
+Joey Ansah_,_ Adam Leese _(policemen)_<br>
 
-Lee Long _(Patrick)_
+Lee Long _(Patrick)_<br>
 
-Jermaine Smith _(Beats)_
+Jermaine Smith _(Beats)_<br>
 
-Dylan Charles _(police constable)_
+Dylan Charles _(police constable)_<br>
 
-David Cann _(detective superintendent)_
+David Cann _(detective superintendent)_<br>
 
 Terry Notary
 
-_(lead creature performer and movement coach)_
+_(lead creature performer and movement coach)_<br>
 
-Karl Baumann,  Tony Christian_,_ Donna William,Arti Shah _(creature performers)_
+Karl Baumann,  Tony Christian_,_ Donna William,Arti Shah _(creature performers)_<br>
 
-UK 2011©
+UK 2011©<br>
 
-88 mins
+88 mins<br>
 
-Digital
+Digital<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjM4MjAxNF19
+eyJoaXN0b3J5IjpbMTgyNjY5NDk2OF19
 -->
