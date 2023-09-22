@@ -57,20 +57,18 @@ _Written by_: Christopher Morris
 _Inspired by ‘A Year in the Life of a Field’ by_ :  Michael Allaby  
 _Graphic Design_: Howard Miller  
 _Colourist_: Michael Todd  
-_Music Composed/Played/Recorded by_:  
-Sarah Moody  
+_Music Composed/Played/Recorded by_:  Sarah Moody  
 _Sound Designer_: Claire Stevens  
 _Field Recording_: Bronwen Buckeridge  
 _Additional Sound Recording_: Malcolm Shaw  
 _Treylya Kernewek gans [Cornish translations by]_: Pol Hodge
 
-UK 2022©
-
-86 mins
-
+UK 2022©  
+86 mins  
 Digital
 
 Anti-Worlds Releasing
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjk5MjgzOF19
+eyJoaXN0b3J5IjpbLTExOTAwNTMxNF19
 -->
