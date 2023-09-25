@@ -1,3 +1,14 @@
+---
+layout: post
+title: Danny Dyer in Conversation
+published: true
+date: 2023-09-25
+readtime: true
+categories: ['IN PERSON & PREVIEWS']
+tags: [Talks]
+metadata: 
+pdf: '2023-09-25-danny-dyer-in-conversation.pdf'
+---
 
 Danny Dyer’s career has been nothing if not eclectic, beginning his career under the guidance of playwright Harold Pinter. His breakout role in _Human Traffic_ catapulted him into the limelight, making him the poster boy for youthful hedonism in the early 2000s. Dyer’s subsequent role as landlord Mick Carter in _EastEnders_ has secured him national-treasure status. Season curator Nia Childs chats with him about his wide-ranging career.  
 **bfi.org.uk**
@@ -18,6 +29,59 @@ In August 2018, Dyer began narrating MTV reality series, _True Love or True Lies
 
 Dyer has performed on stage, most notably in two plays written and directed by 2005 Nobel Laureate Harold Pinter: as the Waiter in the London première of _Celebration_ (2000), at the Almeida Theatre, which transferred to Lincoln Center for the Performing Arts, in New York, as part of the Harold Pinter Festival held there in July and August 2001; and as Foster in the revival of _No Man’s Land_ (1975), at the Royal National Theatre, in London, during 2001 and 2002. In March 2008, he played Joey in a revival of Pinter’s _The Homecoming_ (1964), directed by Michael Attenborough, at the Almeida Theatre, in London. He also performed in Peter Gill’s play _Certain Young Men_ (1999) in London. From 9 September 2009 to 3 October 2009, Dyer appeared as Sid Vicious in a new play called _Kurt and Sid_ in London’s West End at the Trafalgar Studios.
 <br><br>
+
+**ACTING HARD: WORKING CLASS MASCULINITY IN BRITISH CINEMA**  
+**Scum**  
+Sat 2 Sep 17:50; Fri 8 Sep 18:20  
+**Bullet Boy**  
+Wed 6 Sep 20:50; Sat 9 Sep 20:55  
+**Face**  
+Thu 7 Sep 18:10 (+ intro by season curator Nia Childs); Mon 18 Sep 20:45  
+**Beautiful Thing**  
+Sun 10 Sep 18:30; Fri 22 Sep 20:40  
+**Dead Man’s Shoes + Q&A with Shane Meadows and Paddy Considine**  
+Tue 12 Sep 18:10  
+**Sweet Sixteen**  
+Wed 13 Sep 18:00; Mon 25 Sep 20:40  
+**Blue Story**  
+Thu 14 Sep 18:15; Sat 23 Sep 20:40  
+**My Beautiful Laundrette**  
+Wed 20 Sep 18:10; Thu 28 Sep 20:30  
+**Muscle + Q&A with director Gerard Johnson, actors Craig Fairbrass, Cavan Clerkin and Polly Maberly**  
+Fri 22 Sep 18:00  
+**Sexy Beast**  
+Sat 23 Sep 18:20; Mon 2 Oct 20:30  
+**Mona Lisa**  
+Sun 24 Sep 18:20; Fri 29 Sep 20:30  
+**Govan Ghost Story**  
+Mon 25 Sep 18:30  
+**The Football Factory + intro by Danny Dyer**  
+Mon 25 Sep 20:45  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTIxOTM4ODk2M119
 -->
