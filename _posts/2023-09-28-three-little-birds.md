@@ -39,115 +39,63 @@ Since 2019, Benjamin has been the musical director of The House and Garage Orche
 <br><br>
 
 **THREE LITTLE BIRDS (EPISODE 1)**<br>
-
 _Created and Written by:_ Lenny Henry<br>
-
 _Produced by:_ Stella Nwimo<br>
-
 _Directed by:_ Charles McDougall<br>
-
-©_/Production Company_:  
-Tiger Aspect Productions Limited<br>
-
+©_/Production Company_:  Tiger Aspect Productions Limited<br>
 _In association with:_ Douglas Road Productions<br>
-
 _Executive Producers:_ Lucy Bedford, Kate Crowe, Russell T Davies, Angela Ferreira, Lenny Henry, Charles McDougall<br>
-
 _ITV Executive Producer:_ Nana Hughes<br>
-
 _BritBox Executive Producer:_ Diederick Santer<br>
-
 _Co-producer:_ Sarah Dibsdall<br>
-
 _Director of Production:_ Sara Hamill<br>
-
 _Production Executive:_ Kyla Brennan<br>
-
 _Story Producer:_ Jon Rowe<br>
-
 _Location Manager:_ Idris Ahmed<br>
-
 _Post-production Supervisor:_ Portia Napier<br>
-
 _Casting Director:_ Aisha Bywaters<br>
-
 _1st Assistant Director:_ Toby Sherborne<br>
-
 _Director of Photography:_ Felix Wiedemann<br>
-
 _Editor:_ David Blackmore<br>
-
 _VFX Supervisor:_ James Jordan<br>
-
 _Production Designer:_ Niina Topp<br>
-
 _Costume Designer:_ Caron Newman<br>
-
 _Make-up Designer:_ Kym Menzies-Foster<br>
-
 _Hair Designer:_ Sharon Miller<br>
-
 _Music by:_ Benjamin Kwasi Burrell<br>
+_Music Supervisor:_ Amelia Hartley<br>
+_Sound Recordist:_ Ashok-Kumar Kumar<br>
+_Stunt Co-ordinator:_ Marvin Campbell<br>
 
-_Music Supervisor:_ Amelia Hartley
+**Cast**<br>
+Rochelle Neil _(Leah Whittaker)_<br>
+Yazmin Belo _(Hosanna Drake)_<br>
+Saffron Coomber _(Chantrelle Brahms)_<br>
+Javone Prince _(Aston Brahms)_<br>
+Leemore Marrett Jr _(Ephraim Whittaker)_<br>
+Lenny Henry _(Remuel Drake)_<br>
+Kayla Kargbo _(young girl)_<br>
+Tierney Turner _(Saleh Whittaker)_<br>
+Malachi Hall _(Caleb Whittaker)_<br>
+Shay Descartes _(Gideon Whittaker)_<br>
+Ashleigh Smith _(Solomon)_<br>
+Eddy Brimson _(passport control)_<br>
+Martin Trenaman _(Vince the landlord)_<br>
+Gamba Cole _(Gregory)_<br>
+Akil Largie _(Barrington)_<br>
+Ahlana-Jean Adebambo _(young Hosanna)_<br>
+Sam Landon _(police officer 1)_<br>
+Nick Bartlett _(desk sergeant)_<br>
+Amy Beth Hayes _(Diana Wantage)_<br>
+Arthur Darvill _(Ernest Wantage)_<br>
+Elliott Spilling _(James Wantage)_<br>
+Annie Bissex _(Patricia Wantage)_<br>
+Angela Wynter _(Miss Eunice)_<br>
+Susan Lawson-Reynolds _(Momma Gladys)_<br>
 
-_Sound Recordist:_ Ashok-Kumar Kumar
-
-_Stunt Co-ordinator:_ Marvin Campbell
-
-_Cast:_
-
-Rochelle Neil _(Leah Whittaker)_
-
-Yazmin Belo _(Hosanna Drake)_
-
-Saffron Coomber _(Chantrelle Brahms)_
-
-Javone Prince _(Aston Brahms)_
-
-Leemore Marrett Jr _(Ephraim Whittaker)_
-
-Lenny Henry _(Remuel Drake)_
-
-Kayla Kargbo _(young girl)_
-
-Tierney Turner _(Saleh Whittaker)_
-
-Malachi Hall _(Caleb Whittaker)_
-
-Shay Descartes _(Gideon Whittaker)_
-
-Ashleigh Smith _(Solomon)_
-
-Eddy Brimson _(passport control)_
-
-Martin Trenaman _(Vince the landlord)_
-
-Gamba Cole _(Gregory)_
-
-Akil Largie _(Barrington)_
-
-Ahlana-Jean Adebambo _(young Hosanna)_
-
-Sam Landon _(police officer 1)_
-
-Nick Bartlett _(desk sergeant)_
-
-Amy Beth Hayes _(Diana Wantage)_
-
-Arthur Darvill _(Ernest Wantage)_
-
-Elliott Spilling _(James Wantage)_
-
-Annie Bissex _(Patricia Wantage)_
-
-Angela Wynter _(Miss Eunice)_
-
-Susan Lawson-Reynolds _(Momma Gladys)_
-
-ITV1/ITVX 2023
-
-54 mins
+ITV1/ITVX 2023<br>
+54 mins<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzNTA1NTgyXX0=
+eyJoaXN0b3J5IjpbLTEwNTcyNzgyMF19
 -->
