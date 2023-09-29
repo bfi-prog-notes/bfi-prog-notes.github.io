@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Twilight City
+published: true
+date: 2023-09-29
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Documentary]
+metadata: 'Romania-France-Belgium-Sweden 2022, 127 mins<br> Director: Cristian Mungiu'
+pdf: '2023-09-29-rmn.pdf'
+---
 
 _+ intro by BFI National Archive Curator, Xavier Pillai_
 
@@ -33,5 +41,5 @@ The Collective’s work in the 1990s was characterised by the same experimental 
 The Collective dissolved in 1998, though its members – most notably Akomfrah – continue to work individually.  
 **Paul Ward, BFI Screenonline, screenonline.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgyNTEzNDFdfQ==
+eyJoaXN0b3J5IjpbLTk0MjMwNjY2NF19
 -->
