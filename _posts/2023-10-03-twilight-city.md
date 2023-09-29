@@ -4,9 +4,9 @@ title: Twilight City
 published: true
 date: 2023-09-29
 readtime: true
-categories: ['NEW RELEASES']
+categories: ['TOGETHER<BR>THE LONDON FILMS OF LORENZA MAZZETTI']
 tags: [Documentary]
-metadata: 'Romania-France-Belgium-Sweden 2022, 127 mins<br> Director: Cristian Mungiu'
+metadata: 'UK 1989, 52 mins<br> Director: Reece Auguiste'
 pdf: '2023-09-29-rmn.pdf'
 ---
 
@@ -41,5 +41,5 @@ The Collective’s work in the 1990s was characterised by the same experimental 
 The Collective dissolved in 1998, though its members – most notably Akomfrah – continue to work individually.  
 **Paul Ward, BFI Screenonline, screenonline.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MjMwNjY2NF19
+eyJoaXN0b3J5IjpbODQ4OTU4MzA5XX0=
 -->
