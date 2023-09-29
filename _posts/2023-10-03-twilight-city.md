@@ -40,7 +40,60 @@ The Collective’s work in the 1990s was characterised by the same experimental 
 
 The Collective dissolved in 1998, though its members – most notably Akomfrah – continue to work individually.  
 **Paul Ward, BFI Screenonline, screenonline.org.uk**
+<br>
 
+**SAM SELVON IN FULL HOUSE**  
+UK 1974  
+5 mins  
+
+**TWILIGHT CITY**  
+_Director_: Reece Auguiste  
+_©/Production Company_: Black Audio Film Collective  
+_Financial Assistance_: Channel Four  
+_Funded by_: Channel Four  
+_Producer_: Avril Johnson  
+_Associate Producer_: Lina Gopaul  
+_Production Manager_: Avril Johnson  
+_Production Accountant_: Avril Johnson  
+_Location Manager_: Avril Johnson  
+_Production Assistant_: David Lawson  
+_Trainee Production Assistant_: Hilda Sealy  
+_Researcher_: Reece Auguiste  
+_Voice Over Script_: Edward George, John Akomfrah  
+_Lighting Cameraman_: Jonathan Collinson  
+_Rostrum_: Ken Morse  
+_Additional Camera_: Shangara Singh  
+_Assistant Camera_: Edward George  
+_Grip_: Carl Ross  
+_Stills_: Edward George, Rotimi Fani Kayode  
+_Models_: Denis Carney, Robert Taylor  
+_Editor_: Brand Thumim  
+_Post-production Facilities_: Black Audio Film Collective  
+_Titles_: Plume Design  
+_Negative Cutter_: Frank Clarke  
+_Film Processing_: Universal Film Laboratory London  
+_Original Music_: Trevor Mathison  
+_Sound_: Trevor Mathison  
+_Dubbing Mixer_: Peter Hodges  
+_Dubbing Studio_: Glentham Studios  
+_Sound Editor_: Brand Thumim, Joe Boatman  
+_Drivers_: Peter Spencer, Wendy Simpson  
+_Studio Facilities_: PCL, Star Productions  
+
+**Cast**   
+Amanda Symonds _(Voice Over)_  
+Homi Bhaba  
+Andy Coupland  
+Paul Gilroy  
+Gail Lewis  
+Savriti Hensman  
+Femi Otitoju  
+George Shire  
+Rosina Visram  
+David Yallop  
+
+UK 1989  
+52 mins  
 <br>
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
@@ -65,5 +118,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDk1MTAyN119
+eyJoaXN0b3J5IjpbMTEzMzg2MDg5M119
 -->
