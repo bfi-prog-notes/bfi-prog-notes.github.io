@@ -81,7 +81,7 @@ _Drivers_: Peter Spencer, Wendy Simpson
 _Studio Facilities_: PCL, Star Productions  
 
 **Cast**   
-Amanda Symonds _(Voice Over)_  
+Amanda Symonds _(voice over)_  
 Homi Bhaba  
 Andy Coupland  
 Paul Gilroy  
