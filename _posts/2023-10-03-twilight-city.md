@@ -6,9 +6,8 @@ _+ intro by BFI National Archive Curator, Xavier Pillai_
 
 Tender letters between a recent UK arrival and her mother back in Dominica, juxtaposed with choice archival footage and personal recollections from Homi Bhabha, Paul Gilroy and Gail Lewis, ground the viewer in lived experience. The Black Audio Film Collective’s strategies expose the social and political changes that took place in London under Thatcherism.
 
-Also, Sam Selvon reads from his 1956 novel about post-war West Indian migrant experience, _The Lonely Londoners_.
-
-bfi.org.uk
+Also, Sam Selvon reads from his 1956 novel about post-war West Indian migrant experience, _The Lonely Londoners_.  
+**bfi.org.uk**
 
 Black Audio Film Collective followed the success of its first two screen ventures _Handsworth Songs_ (d. John Akomfrah 1986), a film essay about the riots in Birmingham, and its first feature film, _Testament_ (d. Akomfrah, 1988) with another reflection piece, _Twilight City_. The theme of this docudrama is the physical and social change of London that occurred under ten years of Conservative rule in the 1980s.
 
@@ -22,9 +21,8 @@ Olivia’s personal commentary supplies a human connection that the succession o
 
 The film throws out topics as various as the malign influence of the Docklands Enterprise Zone and Section 28, the notorious prohibition on material ‘promoting homosexuality’; the effects of urban social fragmentation and the history of a 19th Century Laskar community.
 
-_Twilight City_ is one of the few Black Audio Film Collective works not directed by John Akomfrah. Reece Auguiste’s other directorial work for BAFC was _Mysteries of July_ (1991), a documentary about the alarming number of deaths in police custody in the UK.
-
-Ann Ogidi, BFI Screenonline, screenonline.org.uk
+_Twilight City_ is one of the few Black Audio Film Collective works not directed by John Akomfrah. Reece Auguiste’s other directorial work for BAFC was _Mysteries of July_ (1991), a documentary about the alarming number of deaths in police custody in the UK.  
+**Ann Ogidi, BFI Screenonline, screenonline.org.uk**
 
 The Black Audio Film Collective was formed in Hackney, London in 1982 by John Akomfrah, Reece Auguiste, Edward George, Lina Gopaul, Avril Johnson, David Lawson and Trevor Mathison. It was one among many such collectives founded in Britain during the early- to mid- 1980s – including Sankofa, Ceddo and ReTake. This period was characterised on the one hand by the founding of Channel Four and the ACCT Workshop Declaration (both 1982), which encouraged innovative independent work, and on the other hand by the increasingly free market ideology of Thatcherism. The Collective was at the forefront of debates about the politics of representation: their work argues that ‘their racial identities grow out of their social and political histories; they call for a recognition that these racial differences are multiple and complex... they interrogate their own images to confirm their histories’. (Jackson and Rasenberger).
 
@@ -35,5 +33,5 @@ The Collective’s work in the 1990s was characterised by the same experimental 
 The Collective dissolved in 1998, though its members – most notably Akomfrah – continue to work individually.  
 **Paul Ward, BFI Screenonline, screenonline.org.uk**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzU1MTIxXX0=
+eyJoaXN0b3J5IjpbLTEwMDgyNTEzNDFdfQ==
 -->
