@@ -152,8 +152,47 @@ Patricia Dunnock _(Mary Archer)_
 USA 1993  
 138 mins  
 Digital 4K  
+<br>
 
+**BIG SCREEN CLASSICS**  
+**The Age of Innocence**  
+Mon 16 Oct 14:30; Sat 4 Nov 14:20; Mon 13 Nov 17:50; Tue 28 Nov 20:20  
+**The Private Life of Henry VIII**  
+Mon 16 Oct 18:20; Tue 7 Nov 20:50; Mon 27 Nov 14:40  
+**Pandora and the Flying Dutchman**  
+Tue 17 Oct 14:30; Sat 21 Oct 12:30; Mon 20 Nov 20:30  
+**A Midsummer Night’s Dream**  
+Tue 17 Oct 20:25; Sun 12 Nov 12:00  
+**Phantom Thread**  
+Wed 18 Oct 14:30; Fri 10 Nov 10:30; Thu 23 Nov 20:30  
+**French Cancan**  
+Wed 18 Oct 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Wed 1 Nov 14:30; Thu 9 Nov 20:30  
+**Blood and Sand**  
+Thu 19 Oct 14:30; Sun 22 Oct 15:00; Wed 1 Nov 18:10 (+ intro); Sat 18 Nov 20:30  
+**An American in Paris**  
+Thu 19 Oct 20:50; Tue 24 Oct 20:35; Thu 23 Nov 18:00; Sun 26 Nov 11:30  
+**Casablanca**  
+Fri 20 Oct 20:45; Mon 30 Oct 14:30; Sat 18 Nov 11:40  
+**The Tempest**  
+Mon 23 Oct 20:40; Sat 18 Nov 13:00; Wed 22 Nov 18:20 (+ intro by Claire Smith, BFI National Archive Senior Curator)  
+**Blackmail**  
+Wed 25 Oct 18:30 (+ intro by Bryony Dixon, BFI National Archive Curator); Sun 5 Nov 12:00  
+**Black Orpheus** Orfeu Negro  
+Thu 26 Oct 20:35; Wed 15 Nov 18:00 (+ intro by journalist and broadcaster Kevin Le Gendre)  
+**Wings of Desire** Der Himmel über Berlin  
+Fri 27 Oct 18:00; Tue 21 Nov 14:30; Sat 25 Nov 20:25  
+**Do the Right Thing**  
+Sat 28 Oct 20:40; Fri 17 Nov 18:10  
+**The Queen of Spades**  
+Sun 29 Oct 12:20; Tue 31 Oct 14:40; Wed 8 Nov 18:20 (+ intro by Josephine Botting, BFI National Archive Curator); Thu 16 Nov 20:40  
+**Orlando**  
+Thu 2 Nov 20:50; Fri 10 Nov 14:30; Wed 29 Nov 18:20 (+ intro by writer, curator and researcher Jenny Chamarette)  
+**The Grand Budapest Hotel**  
+Fri 3 Nov 20:50; Sat 11 Nov 20:40; Fri 24 Nov 18:15  
+**La Ronde**  
+Tue 14 Nov 20:45; Sun 19 Nov 12:00; Thu 30 Nov 18:20  
+<br
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDk0MzgxMTcsMTkyNzExMjc3LC00MT
-czNjkzOSwtNjgyMzQwNTcxXX0=
+eyJoaXN0b3J5IjpbMTE3NDAxNTYwMSwxOTI3MTEyNzcsLTQxNz
+M2OTM5LC02ODIzNDA1NzFdfQ==
 -->
