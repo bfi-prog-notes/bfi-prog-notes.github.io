@@ -5,8 +5,8 @@ published: true
 date: 2023-10-16
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama]
-metadata: 'Romania-France-Belgium-Sweden 2022, 127 mins<br> Director: Cristian Mungiu'
+tags: [Drama, Period]
+metadata: 'USA 1993, 138 mins<br> Director: Martin Scorsese'
 pdf: '2023-09-29-rmn.pdf'
 ---
 
@@ -48,5 +48,5 @@ There is. Sometimes when you fall in love you can’t see what other people see.
 The emotional intensity is very important to me. What kept me going as I was reading the book was what a writer friend of mine called ‘the sweet romantic pain’ of the situation, where Newland and Ellen can’t consummate their relationship. A touch of the hand has to suffice for months; the anticipation of a two-hour ride to a train station is so sweet, it’s almost overwhelming. That was the real reason I wanted to make the film – the idea of that passion which involved such restraint.  
 **Martin Scorsese interviewed by Ian Christie, _Sight and Sound_, February 1994**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjM0MDU3MV19
+eyJoaXN0b3J5IjpbLTQxNzM2OTM5LC02ODIzNDA1NzFdfQ==
 -->
