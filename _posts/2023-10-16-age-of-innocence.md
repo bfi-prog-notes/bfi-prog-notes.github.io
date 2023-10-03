@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Period]
 metadata: 'USA 1993, 138 mins<br> Director: Martin Scorsese'
-pdf: '2023-09-29-rmn.pdf'
+pdf: '2023-10-16-rmn.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -46,7 +46,113 @@ _Ironically there seems to be more of you – your own desires and frustrations 
 There is. Sometimes when you fall in love you can’t see what other people see. You become as passionate and obsessive as Newland, who can’t see what’s going on around him. That’s the theme of _Taxi Driver_ and of _Mean Streets_ – it’s a situation I’ve found myself in at times, and I’ve found the way it plays out so wonderful. But then Wharton goes beyond that and makes a case for a life that’s not exactly well spent, but a life that happens to him. Newland has his children, then he finds out that his wife knew all along about his love for Ellen and even told his son about it. Basically he is what they call in America a stand-up guy – a man of principles who would not abandon his wife and children. When he really wanted something most, he gave it up because of his kid. That’s very interesting to me – I don’t know if I could do the same. But I do know that there are a lot of people, even today, who would: it’s about making a decision in life and sticking to it, making do with what you have. I don’t say it’s a happy ending, but it’s a realistic and beautiful one.
 
 The emotional intensity is very important to me. What kept me going as I was reading the book was what a writer friend of mine called ‘the sweet romantic pain’ of the situation, where Newland and Ellen can’t consummate their relationship. A touch of the hand has to suffice for months; the anticipation of a two-hour ride to a train station is so sweet, it’s almost overwhelming. That was the real reason I wanted to make the film – the idea of that passion which involved such restraint.  
-**Martin Scorsese interviewed by Ian Christie, _Sight and Sound_, February 1994**
+**Martin Scorsese interviewed by Ian Christie, _Sight and Sound_, February 1994**  
+<br>
+
+**THE AGE OF INNOCENCE**  
+_Director_: Martin Scorsese  
+_©_: Columbia Pictures Industries Inc.  
+_Production Company_: Cappa DeFina Productions  
+_Presented by_: Columbia Pictures Corporation  
+_Producer_: Barbara De Fina  
+_Co-producer_: Bruce S. Pustin  
+_Associate Producer_: Joseph Reidy  
+_Unit Production Manager_: Bruce S. Pustin  
+_Unit Production Manager (Paris)_: Jean-Pierre Avice  
+_Production Co-ordinator_: Alesandra M. Cuomo  
+_Production Co-ordinator (Paris)_: Joanny Carpentier  
+_Location Manager_: Patricia Anne Doherty  
+_Unit Location Manager (Paris)_: Sandrine Ageorges  
+_1st Assistant Director_: Joseph Reidy  
+_Script Supervisor_: Kay Chapin  
+_Casting_: Ellen Lewis  
+_Casting Associate_: Julie A. Madison  
+_Screenplay_: Jay Cocks, Martin Scorsese  
+_Based on the novel by_: Edith Wharton  
+_Director of Photography_: Michael Ballhaus  
+_Camera Operator_: David M. Dunlap  
+_Steadicam Operators_: Larry McConkey, Anastas Michos  
+_1st Assistant Camera:_ Florian Ballhaus  
+_Special Visual Effects_: Illusion Arts, Syd Dutton, Bill Taylor  
+_Special Effects Co-ordinator_: John Ottesen  
+_Special Effects Operators_: Ronnie Ottesen, Mike Maggi  
+_Editor_: Thelma Schoonmaker  
+_Production Designer_: Dante Ferretti  
+_Art Director_: Speed Hopkins  
+_Art Director (Paris)_: Jean-Michel Hugon  
+_Art Department Co-ordinator_: Michele Giordano  
+_Set Decorators_: Robert J. Franco, Amy Marshall  
+_Costume Designer_: Gabriella Pescucci  
+_Wardrobe Supervisors_: Deirdre Nicola Williams, Hartsell Taylor  
+_Make-up_: Allen Weisinger, Ronnie Specter  
+_Special Make-up Effects_: Manlio Rocchetti  
+_Hair Design_: Alan D’Angerio  
+_Hairstylist_: Michael Kriston  
+_Hair Consultant_: Antonio Soddu  
+_Title Design_: Elaine Bass, Saul Bass  
+_Opticals_: The Effects House  
+_Music_: Elmer Bernstein  
+_Orchestrations_: Elmer Bernstein  
+_Music Editors_: Suzana Peric, Suki Buchman  
+_Nineteenth Century Music Consultant_: David Montgomery  
+_Sound Recordist_: Tod Maitland  
+_Sound Re-recording_: Tom Fleischman  
+_Supervising Sound Editor_: Skip Lievsay  
+_Dialogue Editors_: Marissa Littlefield, Laura Civiello  
+_Dialogue Supervisor_: Philip Stockton  
+_Sound Effects Editor_: Eugene Gearty  
+_ADR Editor_: Hal Levinsohn  
+_Foley Supervisor_: Bruce Pross  
+_Foley Editors_: Frank Kern, Steve Visscher  
+_Visual Research Consultant_: Robin Standefer  
+_Etiquette Consultant_: Lily Lodge  
+_Dramaturg_: Michael X. Zelenak  
+_Table Decoration Consultant_: David McFadden  
+_Chef Nineteenth Century Meals_: Rick Ellis  
+_Dance Consultant_: Elizabeth Aldrich  
+
+**Cast**  
+Joanne Woodward _(narrator)_  
+Daniel Day-Lewis _(Newland Archer)_  
+Michelle Pfeiffer _(Ellen Olenska)_  
+Winona Ryder _(May Welland)_  
+Richard E. Grant _(Larry Lefferts)_  
+Alec McCowen _(Sillerton Jackson)_  
+Geraldine Chaplin _(Mrs Welland)_  
+Mary Beth Hurt _(Regina Beaufort)_  
+Stuart Wilson _(Julius Beaufort)_  
+Miriam Margolyes _(Mrs Mingott)_  
+Siân Phillips _(Mrs Archer)_  
+Carolyn Farina _(Janey Archer)_  
+Michael Gough _(Henry van der Luyden)_  
+Alexis Smith _(Louisa van der Luyden)_  
+Jonathan Pryce _(Rivière)_  
+Robert Sean Leonard _(Ted Archer)_  
+Linda Faye Farkas _(female opera singer)_  
+Michael Rees Davis, Terry Cook, Jon Garrison _(male opera singers)_  
+Howard Erskine _(Beaufort guest)_  
+John McLoughlin, Christopher Nilsson _(party guests)_  
+Kevin Sanders _(the duke)_  
+W.B. Brydon _(Mr Urban Dagonet)_  
+Tracey Ellis _(Gertrude Lefferts)_  
+Christina Pronzati _(Countess Olenska’s maid)_  
+Clement Fowler _(florist)_  
+Norman Lloyd _(Mr Letterblair)_  
+Cindy Katz _(stage actress)_  
+Thomas Gibson _(stage actor)_  
+Zoë _(herself)_  
+June Squibb _(Mingott maid)_  
+Domenica Scorsese _(Katie Blenker)_  
+Mac Orange _(Archer maid)_  
+Brian Davies _(Philip)_  
+Thomas Barbour _(Archer guest)_  
+Henry Fehren _(bishop)_  
+Patricia Dunnock _(Mary Archer)_  
+
+USA 1993  
+138 mins  
+Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzM2OTM5LC02ODIzNDA1NzFdfQ==
+eyJoaXN0b3J5IjpbMTkyNzExMjc3LC00MTczNjkzOSwtNjgyMz
+QwNTcxXX0=
 -->
