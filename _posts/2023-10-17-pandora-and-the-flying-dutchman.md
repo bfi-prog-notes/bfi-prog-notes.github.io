@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The Age of Innocence
+title: Pandora and the Flying Dutchman
 published: true
-date: 2023-10-16
+date: 2023-10-17
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama, Period]
-metadata: 'USA 1993, 138 mins<br> Director: Martin Scorsese'
-pdf: '2023-10-16-age-of-innocence.pdf'
+tags: [Drama, Romance]
+metadata: 'UK 1950, 122 mins<br> Director: Albert Lewin'
+pdf: '2023-10-17-pandora-and.pdf'
 ---
 
 Made a decade or two earlier, Lewin’s marvellous fantasy might at least have stood some chance of being annexed to the surrealist pantheon. Instead critics, surprisingly unanimously, dismissed it as an embarrassingly arty aberration, a comedy of manners that was all too unintentionally comic and much too mannered. Characters who quote as liberally and as literately as Lewin’s do always seem to be a source of unease – witness reactions to Godard’s early work – as though mere quotation were itself a pretension. Yet as Godard realised (and if you consider _Le Mépris_ in relation to _Pandora and the Flying Dutchman_, there can be little doubt where his debt lies), allusion is a rich source of texture, adducing tenuous parallels, reverberating echoes and mysterious insights in support of perspectives whereby (to quote Novalis) ‘The world becomes a dream and the dream becomes a world’.
@@ -145,5 +145,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2MTM0NDMxXX0=
+eyJoaXN0b3J5IjpbMjExMTk2MjYyN119
 -->
