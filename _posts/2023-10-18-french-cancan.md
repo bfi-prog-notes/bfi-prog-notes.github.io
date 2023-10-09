@@ -6,8 +6,8 @@ date: 2023-10-18
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Petiod]
-metadata: 'France/Italy 1950, 122 mins<br> Director: Albert Lewin'
-pdf: '2023-10-17-pandora-and-the-flying-dutchman.pdf'
+metadata: 'France/Italy 1955, 104 mins<br> Director: Jean Renoir'
+pdf: '2023-10-18-french-cancan.pdf'
 ---
 
 _Le plus beau métier du monde_ is how Danglard, the impresario figure in Jean Renoir’s _French Cancan_, describes the world of showbiz and spectacle that is his first love – ‘the most wonderful profession in the world’. But if the character is clearly referring to the popular music hall of France’s _belle époque_ of the 1890s, Renoir himself also made plain that his film was a tribute to the whole spectrum of artistic creativity, including music, painting and of course, cinema. ‘I believe in having your trade,’ he said. ‘It seems to me that that’s what we should base our lives on, and I think that _French Cancan_ is above all else a homage to a trade.’
@@ -199,5 +199,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwMjk4MDY4XX0=
+eyJoaXN0b3J5IjpbMTIzMzEzNDY5NV19
 -->
