@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: French Cancan 
+published: true
+date: 2023-10-18
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Petiod]
+metadata: 'France/Italy 1950, 122 mins<br> Director: Albert Lewin'
+pdf: '2023-10-17-pandora-and-the-flying-dutchman.pdf'
+---
 
 _Le plus beau métier du monde_ is how Danglard, the impresario figure in Jean Renoir’s _French Cancan_, describes the world of showbiz and spectacle that is his first love – ‘the most wonderful profession in the world’. But if the character is clearly referring to the popular music hall of France’s _belle époque_ of the 1890s, Renoir himself also made plain that his film was a tribute to the whole spectrum of artistic creativity, including music, painting and of course, cinema. ‘I believe in having your trade,’ he said. ‘It seems to me that that’s what we should base our lives on, and I think that _French Cancan_ is above all else a homage to a trade.’
 
@@ -121,18 +129,80 @@ Martine Alexis
 Corinne Jansen  
 Maïa Jusanova  
 Paul Mercey _(young man at the inauguration)_ *  
-Yvonne Arnaud *
-
+Yvonne Arnaud *  
 _With the voice of:_ Mario Juillard  
-France/Italy 1955
 
-104 mins
+France/Italy 1955  
+104 mins  
+Digital  
 
-Digital
+\* Uncredited
 
-* Uncredited
+Introduced by Geoff Andrew, Programmer-at-Large (Wednesday 18 October)  
+<br>
 
-Introduced by Geoff Andrew, Programmer-at-Large (Wednesday 18 October)
+**BIG SCREEN CLASSICS**  
+**The Age of Innocence**  
+Mon 16 Oct 14:30; Sat 4 Nov 14:20; Mon 13 Nov 17:50; Tue 28 Nov 20:20  
+**The Private Life of Henry VIII**  
+Mon 16 Oct 18:20; Tue 7 Nov 20:50; Mon 27 Nov 14:40  
+**Pandora and the Flying Dutchman**  
+Tue 17 Oct 14:30; Sat 21 Oct 12:30; Mon 20 Nov 20:30  
+**A Midsummer Night’s Dream**  
+Tue 17 Oct 20:25; Sun 12 Nov 12:00  
+**Phantom Thread**  
+Wed 18 Oct 14:30; Fri 10 Nov 10:30; Thu 23 Nov 20:30  
+**French Cancan**  
+Wed 18 Oct 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Wed 1 Nov 14:30; Thu 9 Nov 20:30  
+**Blood and Sand**  
+Thu 19 Oct 14:30; Sun 22 Oct 15:00; Wed 1 Nov 18:10 (+ intro); Sat 18 Nov 20:30  
+**An American in Paris**  
+Thu 19 Oct 20:50; Tue 24 Oct 20:35; Thu 23 Nov 18:00; Sun 26 Nov 11:30  
+**Casablanca**  
+Fri 20 Oct 20:45; Mon 30 Oct 14:30; Sat 18 Nov 11:40  
+**The Tempest**  
+Mon 23 Oct 20:40; Sat 18 Nov 13:00; Wed 22 Nov 18:20 (+ intro by Claire Smith, BFI National Archive Senior Curator)  
+**Blackmail**  
+Wed 25 Oct 18:30 (+ intro by Bryony Dixon, BFI National Archive Curator); Sun 5 Nov 12:00  
+**Black Orpheus** Orfeu Negro  
+Thu 26 Oct 20:35; Wed 15 Nov 18:00 (+ intro by journalist and broadcaster Kevin Le Gendre)  
+**Wings of Desire** Der Himmel über Berlin  
+Fri 27 Oct 18:00; Tue 21 Nov 14:30; Sat 25 Nov 20:25  
+**Do the Right Thing**  
+Sat 28 Oct 20:40; Fri 17 Nov 18:10  
+**The Queen of Spades**  
+Sun 29 Oct 12:20; Tue 31 Oct 14:40; Wed 8 Nov 18:20 (+ intro by Josephine Botting, BFI National Archive Curator); Thu 16 Nov 20:40  
+**Orlando**  
+Thu 2 Nov 20:50; Fri 10 Nov 14:30; Wed 29 Nov 18:20 (+ intro by writer, curator and researcher Jenny Chamarette)  
+**The Grand Budapest Hotel**  
+Fri 3 Nov 20:50; Sat 11 Nov 20:40; Fri 24 Nov 18:15  
+**La Ronde**  
+Tue 14 Nov 20:45; Sun 19 Nov 12:00; Thu 30 Nov 18:20  
+<br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjMzMjQ4Ml19
+eyJoaXN0b3J5IjpbMTI0NjMwNjQ5N119
 -->
