@@ -4,7 +4,7 @@ title: Pather Panchali
 published: true
 date: 2023-10-18
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: [POWER TO THE PEOPLE: HORACE OVÉ’S RADICAL VISION**]
 tags: [Drama]
 metadata: 'India 1955, 125 mins<br> Director: Satyajit Ray'
 pdf: '2023-10-18-pather-panchali.pdf'
@@ -131,5 +131,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzQ1ODM3N119
+eyJoaXN0b3J5IjpbMTY1NjM2NzY4XX0=
 -->
