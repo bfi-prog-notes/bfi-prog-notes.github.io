@@ -29,7 +29,41 @@ Bibhutibhusan Banerjee’s _Pather Panchali_ was serialised in a popular Bengali
 
 I chose _Pather Panchali_ for the qualities that made it a great book: humanism, lyricism and its ring of truth. I knew I would have to do a lot of pruning and reshaping – I certainly could not go beyond the first half, which ended with the family’s departure for Banaras – but at the same time I felt that to cast the thing into a mould of cut-and-dried narrative would be wrong. The script had to retain some of the rambling quality of the novel because that in itself contained a clue to the feel of authenticity: life in a poor Bengali village does ramble.  
 **Satyajit Ray, ‘A Long Time on the Little Road’, _Sight and Sound_, Spring 1957**  
+<br>
 
+**PATHER PANCHALI (SONG OF THE LITTLE ROAD)**  
+_Director:_ Satyajit Ray  
+_Production Company:_ Government of West Bengal  
+_Screenplay:_ Satyajit Ray  
+_Based on the novel by:_ Bibhutibhusan Banerjee  
+_Director of Photography:_ Subrata Mitra  
+_Editor:_ Dulal Dutta  
+_Art Director:_ Bansi Chandragupta  
+_Music:_ Ravi Shankar  
+_Sound:_ Bhupen Ghosh  
+
+**Cast**  
+Kanu Banerjee _(Harihar, the father)_  
+Karuna Banerjee _(Sarbajaya, the mother)_  
+Subir Banerjee _(Apu, the son)_  
+Uma Das Gupta _(the older Durga)_  
+Chunibala Devi _(Indira Thakrun)_  
+Runki Banerjee _(the younger Durga)_  
+Reba Devi _(Seja Thakrun)_  
+Aparna Devi _(Nilmoni’s wife)_  
+Tulsi Chakravarti _(Prasanna, the schoolteacher)_  
+Binoy Mukherjee _(Baidyanath Majumdar)_  
+Haren Banerjee _(Chinibash, the sweets seller)_  
+Harimohan Nag _(doctor)_  
+Haridhan Nag _(Chakravarti)_  
+Nibhanoni Devi _(Dasi)_  
+Ksirodh Roy _(priest)_  
+Roma Ganguli _(Roma)_  
+
+India 1955  
+125 mins  
+
+Digital 4K (restoration)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjI2OTI1MzJdfQ==
+eyJoaXN0b3J5IjpbLTE4MzgwNzg4MzddfQ==
 -->
