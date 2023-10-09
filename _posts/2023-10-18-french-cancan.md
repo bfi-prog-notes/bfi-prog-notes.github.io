@@ -31,17 +31,14 @@ What might appear brazen in _French Cancan_ today is its refusal to judge the ch
 Either way, _French Cancan_ is full of irresistible force and vigour, and in its day it wowed cinemagoers in Europe. Ever more resplendent in its colours and energy after a digital makeover, it should continue to give the same extraordinary pleasure today.  
 **David Thompson, _Sight and Sound_, September 2011**  
 <br>
-<![endif]-->
 
-**French Cancan**
-
+**FRENCH CANCAN**  
 _Director:_ Jean Renoir  
 _Production Companies:_ Franco London Film (Paris), Jolly Film (Rome)  
 _Production Supervisor:_ Louis Wipf  
 _Production Manager:_ Lucien Lippens  
 _Unit Production Manager:_ René Forgeas  
 _Location Managers:_ Robert Turlure,
-
 Charles Chieusse  
 _Administration:_ Georges Walon  
 _Production Secretary:_ Simone Clement  
@@ -60,9 +57,7 @@ _Set Dresser:_ Vigneau
 _Properties:_ Daniel Lagille, Édouard Duval  
 _Costume Designer:_ Rosine Delamare  
 _Costumes Executed by:_ Coquatrix, Karinska  
-_Dressers:_ Paulette Tentave, Elise Servet,
-
-Mariette Chabrol  
+_Dressers:_ Paulette Tentave, Elise Servet, Mariette Chabrol  
 _Make-up:_ Yvonne Fortuna  
 _Make-up Assistant:_ Georges Klein  
 _Hair:_ Huguette La Laurette  
@@ -72,8 +67,8 @@ _Sound Recording:_ Antoine Petitjean
 _Sound:_ Jean Labussière  
 _Boom Operator:_ Gaston Ancessi  
 _Publicity:_ Georges Cravenne  
-_Cast:_
 
+**Cast**  
 Jean Gabin _(Danglard)_  
 María Félix _(La Belle Abbesse)_  
 Françoise Arnoul _(Nini)_  
@@ -204,5 +199,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjMwNjQ5N119
+eyJoaXN0b3J5IjpbNzAwMjk4MDY4XX0=
 -->
