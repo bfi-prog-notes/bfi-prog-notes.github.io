@@ -6,10 +6,9 @@ date: 2023-10-18
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Period]
-metadata: 'USA 2017, 104 mins<br> Director: Jean Renoir'
-pdf: '2023-10-18-french-cancan.pdf'
+metadata: 'USA 2017, 130 mins<br> Director: Paul Thomas Anderson'
+pdf: '2023-10-18-phantom-thread.pdf'
 ---
-
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -37,21 +36,17 @@ _©_: Phantom Thread LLC
 _a_ Joanne Sellar/Ghoulardi Film Company _production_  
 _Presented by_: Focus Features, Annapurna Pictures  
 _In association with_: Perfect World Pictures  
-_Production Supervisors_: Claudia Cimmino,
-
-Karen Ramirez  
+_Production Supervisors_: Claudia Cimmino, Karen Ramirez  
 _Production Co-ordinator_: Erin Duffy  
 _Financial Controller_: Trevor Stanley  
 _Production Accountant_: Joe Downs  
 _Unit Manager_: Drew Payne  
 _Supervising Location Manager_: Jason Wheeler  
-_Location Managers_: Andrew Ryland,  
-Emma Collinson, Charlotte Mason  
+_Location Managers_: Andrew Ryland,  Emma Collinson, Charlotte Mason  
 _Location Manager (Yorkshire)_: Matthew Bowden  
 _Location Manager (Blackpool)_: James Buxton  
 _Location Co-ordinator_: Victoria Wilson  
-_Assistant Location Manager (Cotswolds)_:  
-Tom Barnes  
+_Assistant Location Manager (Cotswolds)_:  Tom Barnes  
 _Assistant Location Manager_: Anna Vahrman  
 _Post-production Supervisor_: Erica Frauman  
 _Crowd Second Assistant Director_:  
@@ -108,10 +103,9 @@ _Re-recording Mixers_: Christopher Scarabosio, David Acord
 _Supervising Sound Editors_:  
 Christopher Scarabosio, Matthew Wood  
 _Stunt Co-ordinator_: Gary Powell  
-_For_: Jonathan Demme
+_For_: Jonathan Demme  
 
-_Cast:_
-
+**Cast**  
 Daniel Day-Lewis _(Reynolds Woodcock)_  
 Lesley Manville _(Cyril Woodcock)_  
 Vicky Krieps _(Alma)_  
@@ -143,9 +137,7 @@ Pauline Moriarty _(Minetta)_
 Harriet Sandom Harris _(Barbara Rose)_  
 Eric Sigmundsson _(Cal Rose)_  
 Phyllis McMahon _(Tippy)_  
-Richard Graham
-
-_(George Riley of the_ News of the World_)_  
+Richard Graham _(George Riley of the_ News of the World_)_  
 Silas Carson _(Rubio Gurrerro)_  
 Martin Dew _(John Evans of_ The Daily Mail_)_  
 James Thomson _(reporter)_  
@@ -231,5 +223,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyMTk3MDA3XX0=
+eyJoaXN0b3J5IjpbMTkwODAzNjU1Ml19
 -->
