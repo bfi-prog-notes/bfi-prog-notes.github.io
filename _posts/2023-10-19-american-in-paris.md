@@ -16,83 +16,44 @@ Sherwin Kane writing in _Motion Picture Daily_ was effusive: ‘If any serious f
 As Minnelli so eloquently put it in his memoirs ‘just as no one sets out to make a bad picture, rarely under the studio system did anyone set out to make a classic. _An American in Paris_ certainly wasn’t designed as such’. The film may have begun life as just another commercial entertainment project, but what coalesced around Production 1507 was a remarkable amount of talent and creative vision in the form of skilled artists and craftspeople for whom this project was deeply personal: a director reputed to be Hollywood’s most flamboyant stylist; the leading dancer-choreographer of his generation; a new screen star direct from the Paris ballet; family and friends of the late George Gershwin; musicians who had learned their craft from him; designers and technical advisors who had lived, worked and even trained in Paris. And the unparalleled creative infrastructure at Culver City, Los Angeles was entirely at their disposal: ‘We had the stages, we had the tools, we had the savvy, we had the manpower, and were geared to do this kind of thing’ remembers art director Preston Ames. Seymour Peck, writing in _Compass_, was bowled over by the achievement, and understood immediately the impact the film would have with audiences: ‘_An American in Paris_ shoots the works, it is a lush, lavish, large scale, supercolossal, all out MGM lovesong to a city. Who knows, it may even put Paris on the map’.  
 **Extracted from _An American in Paris_ by Sue Harris (BFI, 2015). Reproduced by kind permission of Bloomsbury Publishing. ©Sue Harris**  
 <br>
-<![endif]-->
 
-**An American in Paris**
+**AN AMERICAN IN PARIS**  
+_Directed by:_ Vincente Minnelli  
+©/_Produced by:_ Loew’s Incorporated  
+_Made by:_ Metro-Goldwyn-Mayer  
+_Produced by:_ Arthur Freed  
+_Screen Play by:_ Alan Jay Lerner  
+_Director of Photography:_ Alfred Gilks  
+_Ballet Photographed by:_ John Alton  
+_Technicolor Colour Consultants:_ Henri Jaffa, James Gooch  
+_Special Effects:_ Warren Newcombe, Irving G. Ries  
+_Editor:_ Adrienne Fazan  
+_Montage Sequences by:_ Peter Ballbusch  
+_Art Directors:_ Cedric Gibbons, Preston Ames  
+_Set Decorations:_ Edwin B. Willis  
+_Associate:_ Keogh Gleason  
+_Gene Kelly’s Paintings by:_ Gene Grant  
+_Costumes Designed by:_ Orry-Kelly  
+_Beaux Arts Ball Costumes Designed by:_  Walter Plunkett  
+_Ballet Costumes Designed by:_ Irene Sharaff  
+_Make-up Created by:_ William Tuttle  
+_Hair Styles Designed by:_ Sydney Guilaroff  
+_Music by:_ George Gershwin  
+_Lyrics by:_ Ira Gershwin  
+_Musical Direction:_ Johnny Green, Saul Chaplin  
+_Orchestrations:_ Conrad Salinger  
+_Choreography by:_ Gene Kelly  
+_Recording Supervisor:_ Douglas Shearer  
+_Sound System:_ Western Electric  
 
-_Directed by:_ Vincente Minnelli
-
-©/_Produced by:_ Loew’s Incorporated
-
-_Made by:_ Metro-Goldwyn-Mayer
-
-_Produced by:_ Arthur Freed
-
-_Screen Play by:_ Alan Jay Lerner
-
-_Director of Photography:_ Alfred Gilks
-
-_Ballet Photographed by:_ John Alton
-
-_Technicolor Colour Consultants:_ Henri Jaffa,
-
-James Gooch
-
-_Special Effects:_ Warren Newcombe, Irving G. Ries
-
-_Editor:_ Adrienne Fazan
-
-_Montage Sequences by:_ Peter Ballbusch
-
-_Art Directors:_ Cedric Gibbons, Preston Ames
-
-_Set Decorations:_ Edwin B. Willis
-
-_Associate:_ Keogh Gleason
-
-_Gene Kelly’s Paintings by:_ Gene Grant
-
-_Costumes Designed by:_ Orry-Kelly
-
-_Beaux Arts Ball Costumes Designed by:_  
-Walter Plunkett
-
-_Ballet Costumes Designed by:_ Irene Sharaff
-
-_Make-up Created by:_ William Tuttle
-
-_Hair Styles Designed by:_ Sydney Guilaroff
-
-_Music by:_ George Gershwin
-
-_Lyrics by:_ Ira Gershwin
-
-_Musical Direction:_ Johnny Green, Saul Chaplin
-
-_Orchestrations:_ Conrad Salinger
-
-_Choreography by:_ Gene Kelly
-
-_Recording Supervisor:_ Douglas Shearer
-
-_Sound System:_ Western Electric
-
-_Cast:_
-
-Gene Kelly _(Jerry Mulligan)_
-
-Leslie Caron _(Lise Bourvier)_
-
-Oscar Levant _(Adam Cook)_
-
-Georges Guetary _(Henri Baurel)_
-
-Nina Foch _(Milo Roberts)_
-
-_uncredited_
-
-Eugene Borden _(Georges Mattieu)_
-
+**Cast**  
+Gene Kelly _(Jerry Mulligan)_  
+Leslie Caron _(Lise Bourvier)_  
+Oscar Levant _(Adam Cook)_  
+Georges Guetary _(Henri Baurel)_  
+Nina Foch _(Milo Roberts)_  
+_uncredited_  
+Eugene Borden _(Georges Mattieu)_  
 Martha Bamattre _(Mathilde Mattieu)_  
 Mary Young _(old woman dancer)_  
 Ann Codee _(Therese)_  
@@ -128,5 +89,5 @@ USA 1951©
 113 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjA5Njg0Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTE0Mjg0Mjk2OSw3MzA5OTgxMTZdfQ==
 -->
