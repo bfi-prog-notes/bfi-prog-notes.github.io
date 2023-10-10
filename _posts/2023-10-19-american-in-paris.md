@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: An American in Paris 
+published: true
+date: 2023-10-19
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Musical]
+metadata: 'USA 1951, 113 mins<br> Director: Vincent MInnelli'
+pdf: '2023-10-19-american-in-paris.pdf'
+---
 
 When producer Jesse L. Lasky opened the envelope that revealed the name of the 1951 Best Picture Academy Award, he could not hide his disappointment. ‘Oh dear’ he declared, ‘the winner is _An American in Paris_’. Lasky’s ungracious aside came at the end of an award ceremony in which the MGM film had been riding high, garnering a raft of Oscars in all the major technical categories: art direction, cinematography, costume, musical score and screenplay. The film’s star and choreographer Gene Kelly had been singled out for an Honorary Academy Award that celebrated his career as a performer, director and choreographer, while the Irving Thalberg Award went to the legendary Louis B. Mayer for his achievements as a producer at MGM. The clean sweep was marred only by the Academy’s apparent snub to Vincent Minnelli, who would have to wait another seven years to receive Best Director recognition for second Paris film _Gigi_ (1958). Minnelli’s omission may have been entirely within the norms for a contract director of the era – genre directors tended to be seen as helmsmen rather than talented artists in their own right – but the slight rankled: as Minnelli remarked many years later in his autobiography: ‘Some erudite types point to _An American in Paris_ as the perfect example of the studio-as-auteur theory. I disagree. Though I don’t minimise anyone’s contributions, one man was responsible for bringing it all together. That man was me.’
 
@@ -88,6 +97,70 @@ Benny Carter and his Orchestra
 USA 1951©  
 113 mins  
 Digital  
+<br>
+
+**BIG SCREEN CLASSICS**  
+**The Age of Innocence**  
+Mon 16 Oct 14:30; Sat 4 Nov 14:20; Mon 13 Nov 17:50; Tue 28 Nov 20:20  
+**The Private Life of Henry VIII**  
+Mon 16 Oct 18:20; Tue 7 Nov 20:50; Mon 27 Nov 14:40  
+**Pandora and the Flying Dutchman**  
+Tue 17 Oct 14:30; Sat 21 Oct 12:30; Mon 20 Nov 20:30  
+**A Midsummer Night’s Dream**  
+Tue 17 Oct 20:25; Sun 12 Nov 12:00  
+**Phantom Thread**  
+Wed 18 Oct 14:30; Fri 10 Nov 10:30; Thu 23 Nov 20:30  
+**French Cancan**  
+Wed 18 Oct 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Wed 1 Nov 14:30; Thu 9 Nov 20:30  
+**Blood and Sand**  
+Thu 19 Oct 14:30; Sun 22 Oct 15:00; Wed 1 Nov 18:10 (+ intro); Sat 18 Nov 20:30  
+**An American in Paris**  
+Thu 19 Oct 20:50; Tue 24 Oct 20:35; Thu 23 Nov 18:00; Sun 26 Nov 11:30  
+**Casablanca**  
+Fri 20 Oct 20:45; Mon 30 Oct 14:30; Sat 18 Nov 11:40  
+**The Tempest**  
+Mon 23 Oct 20:40; Sat 18 Nov 13:00; Wed 22 Nov 18:20 (+ intro by Claire Smith, BFI National Archive Senior Curator)  
+**Blackmail**  
+Wed 25 Oct 18:30 (+ intro by Bryony Dixon, BFI National Archive Curator); Sun 5 Nov 12:00  
+**Black Orpheus** Orfeu Negro  
+Thu 26 Oct 20:35; Wed 15 Nov 18:00 (+ intro by journalist and broadcaster Kevin Le Gendre)  
+**Wings of Desire** Der Himmel über Berlin  
+Fri 27 Oct 18:00; Tue 21 Nov 14:30; Sat 25 Nov 20:25  
+**Do the Right Thing**  
+Sat 28 Oct 20:40; Fri 17 Nov 18:10  
+**The Queen of Spades**  
+Sun 29 Oct 12:20; Tue 31 Oct 14:40; Wed 8 Nov 18:20 (+ intro by Josephine Botting, BFI National Archive Curator); Thu 16 Nov 20:40  
+**Orlando**  
+Thu 2 Nov 20:50; Fri 10 Nov 14:30; Wed 29 Nov 18:20 (+ intro by writer, curator and researcher Jenny Chamarette)  
+**The Grand Budapest Hotel**  
+Fri 3 Nov 20:50; Sat 11 Nov 20:40; Fri 24 Nov 18:15  
+**La Ronde**  
+Tue 14 Nov 20:45; Sun 19 Nov 12:00; Thu 30 Nov 18:20  
+<br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Mjg0Mjk2OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTEwMDEzNjMyMSw3MzA5OTgxMTZdfQ==
 -->
