@@ -39,47 +39,28 @@ _Construction:_ W. Saunders<br>
 _Music and Lyrics:_ Walter Leigh, Ronald Hill,  Paul Bergen, Richard Addinsell, V.C. Clinton Baddeley<br>
 _Music/Lyrics:_ Eric Maschwitz *<br>
 _Musical Direction:_ Maurice Winnick<br>
-
 _Dances:_ Max Rivers<br>
-
 _Sound:_ Michael Rose<br>
-
 _Sound System:_ RCA Photophone<br>
-
 _Made at:_ Nettlefold Studios (Walton-on-Thames)<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Jerry Verno _(Bert Gibbs)_<br>
-
 Janet Megrew _(Ilya Myona)_<br>
-
 Ben Welden _(Washington Roosevelt Lincoln)_<br>
-
 Polly Ward _(Leninia)_<br>
-
 Muriel George _(Emma Gibbs, Bert’s mother)_<br>
-
 Peter Gawthorne _(Ferguson, the butler)_<br>
-
 Michael Hogan _(Comrade Curzon)_<br>
-
 V.C. Clinton Baddeley _(Comrade Howard)_<br>
-
 Patrick Ludlow _(Hon. Grimsthwaite)_<br>
-
 Ian Wilson _(man listening to the speech)_ *<br>
-
 Valerie Hobson _(last girl in park montage)_ *<br>
-
 Anna Lee _(scrub girl chorine)_ *<br>
-
 Ray Noble _(orchestra leader)_ *<br>
 
 UK 1932<br>
-
 72 mins<br>
-
 Digital 4K
 
 *Uncredited
@@ -88,5 +69,5 @@ Digital 4K
 The remastering of _Rynox_, _Hotel Splendide_,  _His_ _Lordship_, _The Fire Raisers_, _Red Ensign_ and  _The_ _Night of the Party_ has been supported by Matt Spick and the Charles Skey Charitable Trust.
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzQ3MjYyMzRdfQ==
+eyJoaXN0b3J5IjpbMTMzNDQxOTAyMF19
 -->
