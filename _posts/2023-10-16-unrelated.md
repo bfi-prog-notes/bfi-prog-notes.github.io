@@ -1,1 +1,186 @@
 
+_Unrelated_ is that rare creature, a genuinely independent British film. It’s the story of Anna, a childless woman in her forties adrift among a holidaying group of English families in Tuscany, and is daring for dealing with uncharming bourgeoisie and for its contemplative, anti-dramatic style. It’s also the first feature of a director with a CV of television dramas such as _Casualty_ and _London’s Burning_.
+
+Joanna Hogg was a stills photographer who began making 8mm films (inspired by Derek Jarman) and won a place at the National Film and Television School in the 1980s. Gritty social realism was expected of Hogg, but her graduation film was a mini-Hollywood musical. ‘It came out of my love for Lubitsch. Janet Street-Porter saw it and got me to do a mini-soap opera for Network 7. I made it with very saturated colours and over-the-top performances.’
+
+In the months off from her busy television career, Hogg began writing her own scripts, but never got as far as raising the money. ‘I broke out of that pattern with _Unrelated_ by setting myself the deadline of the summer when I had to shoot it.’
+
+Hogg is open about the fact that the idea of a woman facing a childless future came out of her own experience. ‘I was at a point in my life when I felt very sad that I wasn’t going to have children, and I wanted to take the essence of that sadness and create something positive from it.’ Her triumph is to tell the larger story of an outsider in a society built on family security. Inspiration also came from reading _Death in Venice_ and _The Go-Between_, both narratives about the crises faced by protagonists on holiday (though the style of _Unrelated_ is far removed from the film adaptations of those books).
+
+_Unrelated_ was a micro-budget production in a single location, employing a tiny crew and a group of unknown actors who, like the characters they played, lived together for two months. Shot superbly on what she describes as ‘amateur’ Hi Def (HDV), it was important to Hogg that the cameras were portable so that she could react to situations quickly. ‘Above all we could shoot in chronological order – that was good, as tensions naturally built up, so I would shift things in the direction they were going in real life.’
+
+Although the bourgeoisie as a subject poses no problem in other countries (think of _Summer Hours_), in Britain it’s a milieu few filmmakers investigate. ‘A lot of my scripts were about people like those in _Unrelated_ and the reason they didn’t go further was because I felt I’d be criticised. A character like Oakley, the boy Anna is drawn to, has an attractive ease about him – and that’s very annoying to some people. I don’t want to judge him, but I fully understand why that sense of privilege annoys people.’
+
+Hogg is determined to continue in this vein – ‘Now I’ve done it, I’m going to do it again!’ – and to retain total independence. ‘The next couple of projects I’m planning are also contained, with no need for stars or expensive locations, which is a liberating thing. I don’t see any pleasure in bigger budgets.’  
+**David Thompson, _Sight and Sound_, November 2008**
+
+Until now Joanna Hogg was most familiar to industry insiders as a soap director (she was the first woman to helm an episode of _London’s Burning_). But _Unrelated_ is no kitchen-sink melodrama. Eschewing the working-class realism of Lynne Ramsay and Amma Asante, Hogg has crafted a finely tuned study of bourgeois manners that has more in common with the pared-down narratives and painterly compositions of rural idylls found in the films of Ozon or Rohmer. Lead actress Kathryn Worth bears a striking resemblance to Rohmer regular Marie Rivière and offers a similarly understated performance, working with sparse dialogue to create a character who is as irritating as she is affecting.
+
+Childless and in a deteriorating marriage, Anna finds herself in the grip of a mid-life crisis that she deals with by trying to recapture her lost adolescence, immersing herself in the company of the children of her for schoolfriend Verona while on holiday in Siena. There is little action to speak of; instead the film centres on Anna’s inner trajectory as she gradually realises the impossibility of this flight into youth and comes to terms with the isolation of age. Yet the psychodrama that unfolds is gripping, with Hogg’s sensitive screenplay (co-written with script supervisor Sarah Doughty) emphasising the devastation a careless word or misinterpreted gesture can wreak.
+
+If the film’s style and aesthetic offer little to suggest its Anglo-Saxon provenance, its depiction of the British chattering classes is perfectly pitched. The supporting cast of professionals and non-professionals provide a painfully accurate backdrop of aspiration and awkwardness, in particular Tom Hiddleston, Henry Lloyd-Hughes and Harry Kershaw as a trio of public schoolboys who swing between bumbling teens and burgeoning lotharios as they hurry towards adulthood. Campari is sipped on lawns, parlour games are played in candlelit villas and the young ones’ smoke in front of the liberal ‘olds’. It’s the modern-day take on E.M. Forster that Stephen Poliakoff and Woody Allen have tried – and failed – to capture.  
+**Catherine Wheatley, _Sight and Sound_, March 2008**
+<br><br>
+
+**UNRELATED**<br>
+
+_Directed by:_ Joanna Hogg<br>
+
+©: Raw Siena Limited<br>
+
+_Production Company:_ Raw Siena Limited<br>
+
+_Produced by:_ Barbara Stone
+
+_Accountancy:_ Chantrey Vellacott DFK
+
+_Production Co-ordinator:_ Louise Alaimo
+
+_Location Manager:_ Paolo Guglielmotti
+
+_Runners:_ Ethan Stone, Sophie Clarke,  
+Christian Mazzeschi
+
+_1st Assistant Director:_ Paolo Guglielmotti
+
+_2nd Assistant Director:_ Simon Joslin
+
+_Script Supervisor:_ Sara J. Doughty
+
+_Casting Director:_ Lucy Bevan
+
+_Screenplay:_ Joanna Hogg
+
+_Director of Photography:_ Oliver Curtis
+
+_1st Assistant Camera:_ Hilda Sealy, Stuart Godfrey
+
+_2nd Assistant Camera:_ Tom Shkolnik, Albert Bentall
+
+_Editor:_ Helle Le Fevre
+
+_Assembly Editor:_ Richard Hughes
+
+_Assistant Editors:_ Chris Mill, Chloe Carleton
+
+_Production Designer:_ Stephane Collonge
+
+_Digital Intermediate:_ FrameStore _(Colourist:_ Brian Krijgsman; _Production Manager:_ Mike Morrison; _Conform Editor:_ Dan Victoire; _Head of Digital Lab:_ Ben Baker; _Executive Producer:_ Jan Hogevold; _Data Operations:_ Simon Wessely, David Johnston; _Retouch & Restoration:_ Adam Hawkes; _HD Mastering:_ Kevin Lowery; _Digital Lab Engineering:_ Ian Redmond; _Scanning/Recording Manager:_ Andy Burrow; _Deputy Shoot Supervisor:_ Dan Perry; _Scanning/Recording Operators:_ Jimmy Saul, Joseph Hoare, Veronica Marcano, Joe Godfrey_)_
+
+_Colour by:_ Technicolor
+
+_Music Adviser:_ Lars Kronlund
+
+_Sound Recordist:_ Chris McDermott
+
+_Boom Operator:_ Oliver McDermott
+
+_Sound Post-production:_ Loudhailer
+
+_Re-recording Mixers:_ Samir Foco, Jovan Ajder
+
+_Dolby Encoding:_ De Lane Lea Post Production Ltd
+
+_Supervising Sound Editor:_ Jovan Ajder
+
+_Sound Effects Editor:_ Peter Crooks
+
+_Legal Services:_ Simons Muirhead & Burton
+
+_Chefs:_ Charlotte Faber, Gail Sturgis
+
+_Cast:_
+
+Kathryn Worth _(Anna)_
+
+Tom Hiddleston _(Oakley)_
+
+Mary Roscoe _(Verena)_
+
+David Rintoul _(George)_
+
+Henry Lloyd-Hughes _(Jack)_
+
+Michael Hadley _(Charlie)_
+
+Emma Hiddleston _(Badge)_
+
+Harry Kershaw _(Archie)_
+
+Leonetta Mazzini, Giovanna Mennell, Jonathan Mennell, Elisabetta Fiorentini, Giuseppe Fiorentini, Beatrice Ferné Fiorentini, Andrea Fiorentini, Benedetto Fiorentini, Nicoleta Stroe, Luisa Bartolomei, Francesca Capaccioli, Francesco Masocco, Peo the dog, Apache the dog _(themselves)_
+
+UK 2007©
+
+100 mins
+
+Digital
+
+<![endif]-->
+
+**INTERNAL REFLECTIONS:  
+THE FILMS OF JOANNA HOGG**
+
+**Unrelated**
+
+Mon 16 Oct 20:35; Sat 25 Nov 18:10
+
+**Exhibition**
+
+Thu 19 Oct 18:10; Wed 29 Nov 20:50
+
+**Archipelago**
+
+Thu 19 Oct 20:30; Sun 26 Nov 15:00
+
+**The Souvenir**
+
+Fri 27 Oct 20:30; Thu 30 Nov 18:10
+
+**The Souvenir: Part II**
+
+Sat 28 Oct 20:30; Thu 30 Nov 20:40
+
+**Short Films**
+
+Sun 29 Oct 18:10; Tue 28 Nov 20:45
+
+**JOANNA HOGG: INFLUENCES**
+
+**Criss Cross**
+
+Tue 17 Oct 20:40; Sun 26 Nov 18:40
+
+**Suspicion**
+
+Wed 18 Oct 20:45; Sat 21 Oct 18:20
+
+**The Exiles + Bunker Hill 1956**
+
+Thu 19 Oct 18:20; Tue 24 Oct 20:40
+
+**Lady in the Dark**
+
+Fri 20 Oct 18:10; Sat 11 Nov 12:20
+
+**Margaret**
+
+Sat 21 Oct 20:10; Sat 4 Nov 17:30
+
+**The Killers**
+
+Sat 28 Oct 12:30; Wed 8 Nov 20:45
+
+**Ticket of No Return** Bildnis einer Trinkerin
+
+Sun 12 Nov 18:30; Sat 25 Nov 20:30
+
+**Journey to Italy** Viaggio in Italia
+
+Fri 17 Nov 18:20; Tue 28 Nov 18:15
+
+**Italianamerican + The Neighborhood +** extract from **My Voyage to Italy**
+
+Tue 21 Nov 20:40; Mon 27 Nov 18:20
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MzI5MzIyMTZdfQ==
+-->
