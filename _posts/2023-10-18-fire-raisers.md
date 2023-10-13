@@ -47,12 +47,10 @@ UK 1933
 74 mins  
 Digital 4K
 
-* Uncredited
+*Uncredited
 
-The remastering of _Rynox_, _Hotel Splendide_,  
-_His_ _Lordship_, _The Fire Raisers_, _Red Ensign_ and  
-_The_ _Night of the Party_ has been supported by  
-Matt Spick and the Charles Skey Charitable Trust.
+The remastering of _Rynox_, _Hotel Splendide_,  _His_ _Lordship_, _The Fire Raisers_, _Red Ensign_ and  _The_ _Night of the Party_ has been supported by Matt Spick and the Charles Skey Charitable Trust
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0NDM5NTQ3XX0=
+eyJoaXN0b3J5IjpbLTE0NjI1OTc5NzVdfQ==
 -->
