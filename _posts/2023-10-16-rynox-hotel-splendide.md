@@ -51,12 +51,12 @@ Edmund Willard _(Captain James)_
 UK 1931  
 48 mins  
 Digital 4K
+<br>
 
 **HOTEL SPLENDIDE**  
 _Directed by_: Michael Powell  
 _Production Company_: Film Engineering Co. Ltd.  
-_Presented by_:  
-Gaumont-British Picture Corporation Ltd.  
+_Presented by_:  Gaumont-British Picture Corporation Ltd.  
 _Produced by_: Jerome Jackson  
 _Screenplay_: Ralph Smart *  
 _Original story by_: Philip MacDonald, Ralph Smart  
@@ -67,8 +67,7 @@ _Sound_: Michael Rose
 _Recording_: RCA Photophone  
 _Studio_: Nettlefold Studios (Walton-on-Thames)
 
-_Cast:_
-
+**Cast**  
 Jerry Verno _(Jerry Mason)_  
 Anthony Holles _(‘Mrs LeGrange’)_  
 Edgar Norfolk _(Gentleman Charlie)_  
@@ -76,22 +75,18 @@ Philip Morant _(Mr Meek)_
 Sybil Groves _(Mrs Harkness)_  
 Vera Sherbourne _(Joyce Dacre)_  
 Paddy Browne _(Miss Meek)_  
-Michael Powell_(Marconi, bugging device operator)_ *  
+Michael Powell _(Marconi, bugging device operator)_ *  
 Frank Hubert  *
 
-UK 1932
-
-53 mins
-
+UK 1932  
+53 mins  
 Digital 4K
+<br>
 
-* Uncredited
+*Uncredited
 
-The remastering of _Rynox_, _Hotel Splendide_,  
-_His_ _Lordship_, _The Fire Raisers_, _Red Ensign_ and  
-_The_ _Night of the Party_ has been supported by  
-Matt Spick and the Charles Skey Charitable Trust.
+The remastering of _Rynox_, _Hotel Splendide_,  _His_ _Lordship_, _The Fire Raisers_, _Red Ensign_ and  _The_ _Night of the Party_ has been supported by Matt Spick and the Charles Skey Charitable Trust
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjkxMDg0M119
+eyJoaXN0b3J5IjpbMTk2MjkxMjY3N119
 -->
