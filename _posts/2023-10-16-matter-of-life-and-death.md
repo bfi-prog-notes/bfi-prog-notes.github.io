@@ -32,6 +32,7 @@ The idea of ‘going ahead’ is of course established in the New Testament and 
 
 _AMOLAD_ was indeed an ‘original’ script, but one also shaped by many influences and traditions, cultural, religious and scientific. It can no more be contained by reference to its ‘commission’ by the Ministry of Information than can, say, Spenser’s _Faerie Queen_ or Shakespeare’s history plays in terms of Tudor propaganda.  
 **Extracted from Ian Christie, _A Matter of Life and Death_ (BFI, 2000). Reproduced by kind permission of Bloomsbury Publishing. ©Ian Christie**  
+<br>
 
 **A MATTER OF LIFE AND DEATH**  
 _Directed by:_ Michael Powell, Emeric Pressburger  
@@ -190,7 +191,7 @@ Wed 25 Oct to Wed 22 Nov 18:30<br>
 <br>
 
 **With thanks to**
-<img style="float: left;" src="/img/film-foundation-itv-park-circus-logos-02.png"><br><br><br><br>
+<img style="float: left;" src="/img/film-foundation-itv-park-circus-logos-02.png"><br><br><br><br><br><br><br><br>
 
 
 **SIGHT AND SOUND**<br>
