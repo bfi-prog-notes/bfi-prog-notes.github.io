@@ -23,74 +23,40 @@ If the film’s style and aesthetic offer little to suggest its Anglo-Saxon prov
 <br><br>
 
 **UNRELATED**<br>
-
 _Directed by:_ Joanna Hogg<br>
-
 ©: Raw Siena Limited<br>
-
 _Production Company:_ Raw Siena Limited<br>
-
 _Produced by:_ Barbara Stone<br>
-
 _Accountancy:_ Chantrey Vellacott DFK<br>
-
 _Production Co-ordinator:_ Louise Alaimo<br>
-
 _Location Manager:_ Paolo Guglielmotti<br>
-
-_Runners:_ Ethan Stone, Sophie Clarke,  
-Christian Mazzeschi<br>
-
+_Runners:_ Ethan Stone, Sophie Clarke,  Christian Mazzeschi<br>
 _1st Assistant Director:_ Paolo Guglielmotti<br>
-
 _2nd Assistant Director:_ Simon Joslin<br>
-
 _Script Supervisor:_ Sara J. Doughty<br>
-
 _Casting Director:_ Lucy Bevan<br>
-
 _Screenplay:_ Joanna Hogg<br>
-
 _Director of Photography:_ Oliver Curtis<br>
-
 _1st Assistant Camera:_ Hilda Sealy, Stuart Godfrey<br>
-
 _2nd Assistant Camera:_ Tom Shkolnik, Albert Bentall<br>
-
 _Editor:_ Helle Le Fevre<br>
-
 _Assembly Editor:_ Richard Hughes<br>
-
 _Assistant Editors:_ Chris Mill, Chloe Carleton<br>
-
 _Production Designer:_ Stephane Collonge<br>
-
-_Digital Intermediate:_ FrameStore _(Colourist:_ Brian Krijgsman; _Production Manager:_ Mike Morrison; _Conform Editor:_ Dan Victoire; _Head of Digital Lab:_ Ben Baker; _Executive Producer:_ Jan Hogevold; _Data Operations:_ Simon Wessely, David Johnston; _Retouch & Restoration:_ Adam Hawkes; _HD Mastering:_ Kevin Lowery; _Digital Lab Engineering:_ Ian Redmond; _Scanning/Recording Manager:_ Andy Burrow; _Deputy Shoot Supervisor:_ Dan Perry; _Scanning/Recording Operators:_ Jimmy Saul, Joseph Hoare, Veronica Marcano, Joe Godfrey_)_<br>
-
+_Digital Intermediate:_ FrameStore _(Colourist:_ Brian Krijgsman; _Production Manager:_ Mike Morrison; _Conform Editor:_ Dan Victoire; _Head of Digital Lab:_ Ben Baker; _Executive Producer:_ Jan Hogevold; _Data Operations:_ Simon Wessely, David Johnston; _Retouch & Restoration:_ Adam Hawkes; _HD Mastering:_ Kevin Lowery; _Digital Lab Engineering:_ Ian Redmond; _Scanning/Recording Manager:_ Andy Burrow; _Deputy Shoot Supervisor:_ Dan Perry; _Scanning/Recording Operators:_ Jimmy Saul, Joseph Hoare, Veronica Marcano, Joe Godfrey)<br>
 _Colour by:_ Technicolor<br>
-
 _Music Adviser:_ Lars Kronlund<br>
-
 _Sound Recordist:_ Chris McDermott<br>
-
 _Boom Operator:_ Oliver McDermott<br>
-
 _Sound Post-production:_ Loudhailer<br>
-
 _Re-recording Mixers:_ Samir Foco, Jovan Ajder<br>
-
 _Dolby Encoding:_ De Lane Lea Post Production Ltd<br>
-
 _Supervising Sound Editor:_ Jovan Ajder<br>
-
 _Sound Effects Editor:_ Peter Crooks<br>
-
 _Legal Services:_ Simons Muirhead & Burton<br>
-
 _Chefs:_ Charlotte Faber, Gail Sturgis<br>
 
-_Cast:_<br>
-
+Cast**<br>
 Kathryn Worth _(Anna)_<br>
 
 Tom Hiddleston _(Oakley)_<br>
@@ -126,51 +92,30 @@ Thu 19 Oct 20:30; Sun 26 Nov 15:00<br>
 **The Souvenir**<br>
 Fri 27 Oct 20:30; Thu 30 Nov 18:10<br>
 **The Souvenir: Part II**<br>
-
 Sat 28 Oct 20:30; Thu 30 Nov 20:40<br>
-
 **Short Films**<br>
-
 Sun 29 Oct 18:10; Tue 28 Nov 20:45<br>
 
 **JOANNA HOGG: INFLUENCES**<br>
-
 **Criss Cross**<br>
-
 Tue 17 Oct 20:40; Sun 26 Nov 18:40<br>
-
 **Suspicion**<br>
-
 Wed 18 Oct 20:45; Sat 21 Oct 18:20<br>
-
 **The Exiles + Bunker Hill 1956**<br>
-
 Thu 19 Oct 18:20; Tue 24 Oct 20:40<br>
-
 **Lady in the Dark**<br>
-
 Fri 20 Oct 18:10; Sat 11 Nov 12:20<br>
-
 **Margaret**<br>
-
 Sat 21 Oct 20:10; Sat 4 Nov 17:30<br>
-
 **The Killers**<br>
-
 Sat 28 Oct 12:30; Wed 8 Nov 20:45<br>
-
 **Ticket of No Return** Bildnis einer Trinkerin<br>
-
 Sun 12 Nov 18:30; Sat 25 Nov 20:30<br>
-
 **Journey to Italy** Viaggio in Italia<br>
-
 Fri 17 Nov 18:20; Tue 28 Nov 18:15<br>
-
 **Italianamerican + The Neighborhood +** extract from **My Voyage to Italy**<br>
-
 Tue 21 Nov 20:40; Mon 27 Nov 18:20<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTUwNDIxNV19
+eyJoaXN0b3J5IjpbLTc4NTMxNDU4NV19
 -->
