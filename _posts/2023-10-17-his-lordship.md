@@ -19,96 +19,74 @@ Following its commercial failure, _His Lordship_ vanished for six decades and wa
 
 The initial reception afforded _His Lordship_ was not too positive. It became clear quite soon that low budget British films were becoming stigmatised by the ‘quickie’ films, and often they were booed by the audience. This happened with _His Lordship_, which resulted in the Cinematograph Exhibitors Organisation arranging a meeting with United Artists to see if they could be released from their contracts.
 
-Seen today in fact, the film appears to be one of the first signs of the distinctive eccentricity, vigour and sly humour that became much more marked in Powell’s later collaborations with Emeric Pressburger. Unlike most of the films of this period in his career, this is neither a melodrama nor a thriller, but an ambitious musical that combines a complicated plot and musical numbers with a fluid visual style clearly emulating its American counterparts. Particularly memorable are scenes in the large (for a quota film) municipal park set, filmed in long fluid takes; the musical sequence in which various publicity photographs are staged and which involve Verno changing costume several times in quick succession; and the literal _deus ex machina_ at the climax, in the form of an autogyro. It is also Powell’s first musical and one of the first real indications of the importance of music in his later work.
+Seen today in fact, the film appears to be one of the first signs of the distinctive eccentricity, vigour and sly humour that became much more marked in Powell’s later collaborations with Emeric Pressburger. Unlike most of the films of this period in his career, this is neither a melodrama nor a thriller, but an ambitious musical that combines a complicated plot and musical numbers with a fluid visual style clearly emulating its American counterparts. Particularly memorable are scenes in the large (for a quota film) municipal park set, filmed in long fluid takes; the musical sequence in which various publicity photographs are staged and which involve Verno changing costume several times in quick succession; and the literal _deus ex machina_ at the climax, in the form of an autogyro. It is also Powell’s first musical and one of the first real indications of the importance of music in his later work.  
+**Sergio Angelini**
+<br><br>
 
-Sergio Angelini
+**HIS LORDSHIP**<br>
+_Directed by:_ Michael Powell<br>
+_a_ Westminster Films Ltd _production_<br>
+_Presented by:_ Westminster Films Ltd<br>
+_Produced by:_ Jerry Jackson<br>
+_Production Manager:_ Walter Tennyson<br>
+_Assistant Direction:_ Milton Field<br>
+_Screen Play by:_ Ralph Smart<br>
+_From the novel ‘The Right Honourable’ by:_ Oliver Madox Hueffer<br>
+_Photography:_ Geoffrey Faithfull, Arthur Grant<br>
+_Editing:_ A. [John] Seabourne<br>
+_Art Direction:_ Frank Wells<br>
+_Construction:_ W. Saunders<br>
+_Music and Lyrics:_ Walter Leigh, Ronald Hill,  Paul Bergen, Richard Addinsell, V.C. Clinton Baddeley<br>
+_Music/Lyrics:_ Eric Maschwitz *<br>
+_Musical Direction:_ Maurice Winnick<br>
 
-<![endif]-->
+_Dances:_ Max Rivers<br>
 
-**HIS LORDSHIP**
+_Sound:_ Michael Rose<br>
 
-_Directed by:_ Michael Powell
+_Sound System:_ RCA Photophone<br>
 
-_a_ Westminster Films Ltd _production_
+_Made at:_ Nettlefold Studios (Walton-on-Thames)<br>
 
-_Presented by:_ Westminster Films Ltd
+_Cast:_<br>
 
-_Produced by:_ Jerry Jackson
+Jerry Verno _(Bert Gibbs)_<br>
 
-_Production Manager:_ Walter Tennyson
+Janet Megrew _(Ilya Myona)_<br>
 
-_Assistant Direction:_ Milton Field
+Ben Welden _(Washington Roosevelt Lincoln)_<br>
 
-_Screen Play by:_ Ralph Smart
+Polly Ward _(Leninia)_<br>
 
-_From the novel ‘The Right Honourable’ by:_
+Muriel George _(Emma Gibbs, Bert’s mother)_<br>
 
-Oliver Madox Hueffer
+Peter Gawthorne _(Ferguson, the butler)_<br>
 
-_Photography:_ Geoffrey Faithfull, Arthur Grant
+Michael Hogan _(Comrade Curzon)_<br>
 
-_Editing:_ A. [John] Seabourne
+V.C. Clinton Baddeley _(Comrade Howard)_<br>
 
-_Art Direction:_ Frank Wells
+Patrick Ludlow _(Hon. Grimsthwaite)_<br>
 
-_Construction:_ W. Saunders
+Ian Wilson _(man listening to the speech)_ *<br>
 
-_Music and Lyrics:_ Walter Leigh, Ronald Hill,  
-Paul Bergen, Richard Addinsell,  
-V.C. Clinton Baddeley
+Valerie Hobson _(last girl in park montage)_ *<br>
 
-_Music/Lyrics:_ Eric Maschwitz *
+Anna Lee _(scrub girl chorine)_ *<br>
 
-_Musical Direction:_ Maurice Winnick
+Ray Noble _(orchestra leader)_ *<br>
 
-_Dances:_ Max Rivers
+UK 1932<br>
 
-_Sound:_ Michael Rose
-
-_Sound System:_ RCA Photophone
-
-_Made at:_ Nettlefold Studios (Walton-on-Thames)
-
-_Cast:_
-
-Jerry Verno _(Bert Gibbs)_
-
-Janet Megrew _(Ilya Myona)_
-
-Ben Welden _(Washington Roosevelt Lincoln)_
-
-Polly Ward _(Leninia)_
-
-Muriel George _(Emma Gibbs, Bert’s mother)_
-
-Peter Gawthorne _(Ferguson, the butler)_
-
-Michael Hogan _(Comrade Curzon)_
-
-V.C. Clinton Baddeley _(Comrade Howard)_
-
-Patrick Ludlow _(Hon. Grimsthwaite)_
-
-Ian Wilson _(man listening to the speech)_ *
-
-Valerie Hobson _(last girl in park montage)_ *
-
-Anna Lee _(scrub girl chorine)_ *
-
-Ray Noble _(orchestra leader)_ *
-
-UK 1932
-
-72 mins
+72 mins<br>
 
 Digital 4K
 
-* Uncredited
+*Uncredited
+<br>
 
-The remastering of _Rynox_, _Hotel Splendide_,  
-_His_ _Lordship_, _The Fire Raisers_, _Red Ensign_ and  
-_The_ _Night of the Party_ has been supported by  
-Matt Spick and the Charles Skey Charitable Trust.
+The remastering of _Rynox_, _Hotel Splendide_,  _His_ _Lordship_, _The Fire Raisers_, _Red Ensign_ and  _The_ _Night of the Party_ has been supported by Matt Spick and the Charles Skey Charitable Trust.
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTUwMjE4ODFdfQ==
+eyJoaXN0b3J5IjpbLTEzNzQ3MjYyMzRdfQ==
 -->
