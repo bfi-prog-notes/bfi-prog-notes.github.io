@@ -47,84 +47,43 @@ _3rd Assistant Director_: Parry Jones
 _Continuity_: Patricia Arnold  
 _Assistant Continuity_: Ainslie L’Evine  
 _Focus Puller_: Eric Besche
-_Clappr Loader_: Harold Case
-
-_Stills_: Max Rosher
-
-_Special Portraits_: Fred Daniels
-
-_Additional Special Effects_: George Blackwell
-
-_Back Projection_: Charles Staffell
-
-_2nd Assistant Editors_: Sidney Hayers, Jim Pople
-
-_Assistant Art Director_: Ward Richards
-
-_Draughtsmen_: Elliot Scott, Harry Hurdell,
-
-William Kellner, David Buxton
-
-_Sound Camera Operator_: T. Bagley
-
-_Sound Maintenance_: Roy Day
-
-_Music & Dubbing Sound Camera_: Peter T. Davies
-
-_Boom Operator_: Gordon K. McCallum
-
-_Boom Assistant_: Fred Ryan
-
-_Cast:_
-
-Wendy Hiller _(Joan Webster)_
-
-Roger Livesey _(Torquil MacNeil)_
-
-Pamela Brown _(Catriona Potts)_
-
-Finlay Currie _(Ruairidh Mhór)_
-
-George Carney _(Mr Webster)_
-
-Nancy Price _(Mrs Crozier)_
-
-Catherine Lacey _(Mrs Robinson)_
-
-Jean Cadell _(postmistress)_
-
-John Laurie _(John Campbell)_
-
-Valentine Dyall _(Mr Robinson)_
-
-Norman Shelley _(Sir Robert Bellinger)_
-
-Margot Fitzsimons _(Bridie)_
-
-Murdo Morrison _(Kenny)_
-
-C.W.R. Knight _(Colonel Barnstaple)_
-
-Walter Hudd _(Hunter)_
-
-Captain Duncan Mackechnie
-
-_(captain of ‘Lochinvar’)_
-
-Ian Sadler _(Iain)_
-
-Donald Strachan _(shepherd)_
-
-John Rae _(old shepherd)_
-
-Duncan McIntyre _(old shepherd’s son)_
-
-Ivy Milton _(Peigi)_
-
-Antony Eustrel _(Hooper)_
-
-Petula Clark _(Cheril)_
-
+_Clappr Loader_: Harold Case  
+_Stills_: Max Rosher  
+_Special Portraits_: Fred Daniels  
+_Additional Special Effects_: George Blackwell  
+_Back Projection_: Charles Staffell  
+_2nd Assistant Editors_: Sidney Hayers, Jim Pople  
+_Assistant Art Director_: Ward Richards  
+_Draughtsmen_: Elliot Scott, Harry Hurdell, William Kellner, David Buxton  
+_Sound Camera Operator_: T. Bagley  
+_Sound Maintenance_: Roy Day  
+_Music & Dubbing Sound Camera_: Peter T. Davies  
+_Boom Operator_: Gordon K. McCallum  
+_Boom Assistant_: Fred Ryan  
+**Cast**  
+Wendy Hiller _(Joan Webster)_  
+Roger Livesey _(Torquil MacNeil)_  
+Pamela Brown _(Catriona Potts)_  
+Finlay Currie _(Ruairidh Mhór)_  
+George Carney _(Mr Webster)_  
+Nancy Price _(Mrs Crozier)_  
+Catherine Lacey _(Mrs Robinson)_  
+Jean Cadell _(postmistress)_  
+John Laurie _(John Campbell)_  
+Valentine Dyall _(Mr Robinson)_  
+Norman Shelley _(Sir Robert Bellinger)_  
+Margot Fitzsimons _(Bridie)_  
+Murdo Morrison _(Kenny)_  
+C.W.R. Knight _(Colonel Barnstaple)_  
+Walter Hudd _(Hunter)_  
+Captain Duncan Mackechnie _(captain of ‘Lochinvar’)_  
+Ian Sadler _(Iain)_  
+Donald Strachan _(shepherd)_  
+John Rae _(old shepherd)_  
+Duncan McIntyre _(old shepherd’s son)_  
+Ivy Milton _(Peigi)_  
+Antony Eustrel _(Hooper)_  
+Petula Clark _(Cheril)_  
 Alec Faversham _(Martin)_
 
 Herbert Lomas _(Mr Campbell)_
@@ -149,5 +108,5 @@ A BFI release
 
 Restored by the BFI National Archive and The Film Foundation in association with ITV. Restoration funding provided by the Hobson/Lucas Family Foundation. Additional support provided by Matt Spick.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU4MTIwNjVdfQ==
+eyJoaXN0b3J5IjpbNTc3NjcyMzg1LC0xNTU1ODEyMDY1XX0=
 -->
