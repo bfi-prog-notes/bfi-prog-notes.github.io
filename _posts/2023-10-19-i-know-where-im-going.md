@@ -84,29 +84,22 @@ Duncan McIntyre _(old shepherd’s son)_
 Ivy Milton _(Peigi)_  
 Antony Eustrel _(Hooper)_  
 Petula Clark _(Cheril)_  
-Alec Faversham _(Martin)_
+Alec Faversham _(Martin)_  
+Herbert Lomas _(Mr Campbell)_  
+Kitty Kirwan _(Mrs Campbell)_  
+Graham Moffatt _(RAF sergeant)_  
+Boyd Steven, Maxwell Kennedy, Jean Houston _(singers in the Céilidh)_  
+Arthur Chesney _(harmonica player)_  
+Mr Ramshaw _(Torquil, the Eagle)_  
 
-Herbert Lomas _(Mr Campbell)_
+UK 1945  
+92 mins  
+Digital  
 
-Kitty Kirwan _(Mrs Campbell)_
-
-Graham Moffatt _(RAF sergeant)_
-
-Boyd Steven_,_ Maxwell Kennedy_,_ Jean Houston _(singers in the Céilidh)_
-
-Arthur Chesney _(harmonica player)_
-
-Mr Ramshaw _(Torquil, the Eagle)_
-
-UK 1945
-
-92 mins
-
-Digital
-
-A BFI release
+A BFI release  
 
 Restored by the BFI National Archive and The Film Foundation in association with ITV. Restoration funding provided by the Hobson/Lucas Family Foundation. Additional support provided by Matt Spick.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3NjcyMzg1LC0xNTU1ODEyMDY1XX0=
+eyJoaXN0b3J5IjpbLTE5OTExNzIwOTUsLTE1NTU4MTIwNjVdfQ
+==
 -->
