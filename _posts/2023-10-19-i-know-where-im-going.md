@@ -1,4 +1,14 @@
-<![endif]-->
+---
+layout: post
+title: I Know Where I'm Going! 
+published: true
+date: 2023-10-19
+readtime: true
+categories: ['Re-RELEASES']
+tags: [Musical]
+metadata: 'USA 1951, 113 mins<br> Director: Vincent MInnelli'
+pdf: '2023-10-19-american-in-paris.pdf'
+---
 
 _‘I Know Where I’m Going!’_ is a film of extraordinary beauty and emotional power. It means so much to many people – to those members of Powell and Pressburger’s company The Archers who participated in its making in 1944, and to others, like myself, who have fallen under its spell more recently. Magically, it changes lives, inspires new directions in those who see it; a simple love story, it draws us into the dark, dangerous waters of sexual desire and death; like myth, it works on unconscious levels difficult to contain through rational analysis. To someone like me, who grew up in post-war Britain, with its egalitarian rhetoric and idealistic vision of a new, modern nation, ‘_I Know Where I’m Going!’_ (affectionately known as _IKWIG_) carries additional resonances. The very title, with its tease in the tail, the emphatic exclamation mark that warns against taking such a confident assertion at face value, is tinged with irony.
 
@@ -99,21 +109,16 @@ Digital
 A BFI release  
 
 Restored by the BFI National Archive and The Film Foundation in association with ITV. Restoration funding provided by the Hobson/Lucas Family Foundation. Additional support provided by Matt Spick.
+<br>
 
-<![endif]-->
 
-**RE-RELEASES**
-
-**I Know Where I’m Going!**
-
-From Thu 19 Oct
-
-**Mean Streets**
-
-From Fri 20 Oct
-
-**Pressure**
-From Fri 3 Nov
+**RE-RELEASES**  
+**I Know Where I’m Going!**  
+From Thu 19 Oct  
+**Mean Streets**  
+From Fri 20 Oct  
+**Pressure**  
+From Fri 3 Nov  
 
 **NEW RELEASES**  
 **The Old Oak**  
@@ -125,5 +130,5 @@ From Fri 17 Nov
 **The Eternal Daughter**  
 From Fri 24 Nov  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDAzNTExOSwtMTU1NTgxMjA2NV19
+eyJoaXN0b3J5IjpbMjAyNDg1NTQsLTE1NTU4MTIwNjVdfQ==
 -->
