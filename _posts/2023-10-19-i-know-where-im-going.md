@@ -4,10 +4,10 @@ title: I Know Where I'm Going!
 published: true
 date: 2023-10-19
 readtime: true
-categories: ['Re-RELEASES']
+categories: ['RE-RELEASES']
 tags: [Drama, Romance]
-metadata: 'UK 1945, 92 mins<br> Director: Vincent MInnelli'
-pdf: '2023-10-19-american-in-paris.pdf'
+metadata: 'UK 1945, 92 mins<br> Directors: Michael Powell, Emeric Pressburger'
+pdf: '2023-10-19-i-know-where-im-going.pdf'
 ---
 
 _‘I Know Where I’m Going!’_ is a film of extraordinary beauty and emotional power. It means so much to many people – to those members of Powell and Pressburger’s company The Archers who participated in its making in 1944, and to others, like myself, who have fallen under its spell more recently. Magically, it changes lives, inspires new directions in those who see it; a simple love story, it draws us into the dark, dangerous waters of sexual desire and death; like myth, it works on unconscious levels difficult to contain through rational analysis. To someone like me, who grew up in post-war Britain, with its egalitarian rhetoric and idealistic vision of a new, modern nation, ‘_I Know Where I’m Going!’_ (affectionately known as _IKWIG_) carries additional resonances. The very title, with its tease in the tail, the emphatic exclamation mark that warns against taking such a confident assertion at face value, is tinged with irony.
@@ -127,5 +127,5 @@ From Fri 17 Nov
 **The Eternal Daughter**  
 From Fri 24 Nov  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTgxNDkyNiwtMTU1NTgxMjA2NV19
+eyJoaXN0b3J5IjpbLTk4NTMwNDAxOCwtMTU1NTgxMjA2NV19
 -->
