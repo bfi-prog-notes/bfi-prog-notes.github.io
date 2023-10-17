@@ -19,63 +19,35 @@ Since its release in 1945, _IKWIG_ has continued to touch different audiences ov
 This is not to imply that _IKWIG_ operates on the level of the universal and the transcendental. The Archers’ film emerged from specific historical, cultural and industrial circumstances, which profoundly affected its conception and making – yet it reaches beyond that context, drawing on a rich treasury of mixed cultural resources, including the memories and experiences of its makers. It manages to be both of its time, and timeless. It conjures up a particular region in Scotland, which is also nowhere in particular, a hybrid concoction of miscellaneous images from various sources. By adopting this dual focus, and by playing off the authentic reconstruction of place against its recreation via pastiche, The Archers mobilised a powerful emotion which lies at the heart of the diasporic experience, provoking a longing for the lost homeland which simultaneously recognises that it is gone for ever. In turn, this yearning for something lost and irrecoverable appeals to audiences beyond those for whom the film was originally intended, making connections between people from different social and cultural contexts. No doubt this was part of a deliberate strategy to ensure that _IKWIG_ could be successfully marketed to as many audiences as possible. But it is also the key to the film’s enduring freshness and vitality, and one of the reasons it continues to exert a spellbinding effect on successive generations of viewers.  
 **Extract from _I Know Where I’m Going!_ by Pam Cook (BFI, 2021). Reproduced by kind permission of Bloomsbury Publishing ©Pam Cook**  
 <br>
-<![endif]-->
 
-**‘I Know Where I’m Going!’**
 
-_Directed by_: Michael Powell, Emeric Pressburger
-
-_Production Company_: Archers Film Productions
-
-_Produced by_: Michael Powell, Emeric Pressburger
-
-_Assistant Producer_: George Busby
-
-_Assistant Director_: John Tunstall
-
-_Written by_: Michael Powell, Emeric Pressburger
-
-_Photographed by_: Erwin Hiller
-
-_Camera Operator_: Cecil Cooney
-
-_Special Effects_: Henry Harris
-
-_Edited by_: John Seabourne
-
-_Production Designed by_: Alfred Junge
-
-_Music Composed by_: Allan Gray
-
-_Choir Principal_: Sir Hugh Roberton
-
-_Music Conducted by_: Walter Goehr
-
-_Song Sung by_: The Glasgow Orpheus Choir
-
-_Recorded by_: C.C. Stevens
-
-_Gaelic Adviser_: Malcolm MacKellaig
-
-_Adviser Céilidh Sequences_: John Laurie
-
-_uncredited_
-
-_Production Companies_: Independent Producers,
-
-J. Arthur Rank Film Productions
-
-_2nd Assistant Director_: Bill Herlihy
-
-_3rd Assistant Director_: Parry Jones
-
-_Continuity_: Patricia Arnold
-
-_Assistant Continuity_: Ainslie L’Evine
-
+**‘I KNOW WHERE I’M GOING!’**  
+_Directed by_: Michael Powell, Emeric Pressburger  
+_Production Company_: Archers Film Productions  
+_Produced by_: Michael Powell, Emeric Pressburger  
+_Assistant Producer_: George Busby  
+_Assistant Director_: John Tunstall  
+_Written by_: Michael Powell, Emeric Pressburger  
+_Photographed by_: Erwin Hiller  
+_Camera Operator_: Cecil Cooney  
+_Special Effects_: Henry Harris  
+_Edited by_: John Seabourne  
+_Production Designed by_: Alfred Junge  
+_Music Composed by_: Allan Gray  
+_Choir Principal_: Sir Hugh Roberton  
+_Music Conducted by_: Walter Goehr  
+_Song Sung by_: The Glasgow Orpheus Choir  
+_Recorded by_: C.C. Stevens  
+_Gaelic Adviser_: Malcolm MacKellaig  
+_Adviser Céilidh Sequences_: John Laurie  
+_uncredited_  
+_Production Companies_: Independent Producers, J. Arthur Rank Film Productions  
+_2nd Assistant Director_: Bill Herlihy  
+_3rd Assistant Director_: Parry Jones  
+_Continuity_: Patricia Arnold  
+_Assistant Continuity_: Ainslie L’Evine  
 _Focus Puller_: Eric Besche
-
-_Clapper Loader_: Harold Case
+_Clappr Loader_: Harold Case
 
 _Stills_: Max Rosher
 
@@ -177,5 +149,5 @@ A BFI release
 
 Restored by the BFI National Archive and The Film Foundation in association with ITV. Restoration funding provided by the Hobson/Lucas Family Foundation. Additional support provided by Matt Spick.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzU2MzYzMDddfQ==
+eyJoaXN0b3J5IjpbLTE1NTU4MTIwNjVdfQ==
 -->
