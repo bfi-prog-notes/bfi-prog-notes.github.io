@@ -99,7 +99,31 @@ Digital
 A BFI release  
 
 Restored by the BFI National Archive and The Film Foundation in association with ITV. Restoration funding provided by the Hobson/Lucas Family Foundation. Additional support provided by Matt Spick.
+
+<![endif]-->
+
+**RE-RELEASES**
+
+**I Know Where I’m Going!**
+
+From Thu 19 Oct
+
+**Mean Streets**
+
+From Fri 20 Oct
+
+**Pressure**
+From Fri 3 Nov
+
+**NEW RELEASES**  
+**The Old Oak**  
+Continues from 29 Sep  
+**How to Have Sex**  
+From Fri 3 Nov  
+**Is There Anybody Out There?**  
+From Fri 17 Nov  
+**The Eternal Daughter**  
+From Fri 24 Nov  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTExNzIwOTUsLTE1NTU4MTIwNjVdfQ
-==
+eyJoaXN0b3J5IjpbLTg1NDAzNTExOSwtMTU1NTgxMjA2NV19
 -->
