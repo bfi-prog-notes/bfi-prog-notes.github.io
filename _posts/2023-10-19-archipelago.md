@@ -16,134 +16,72 @@ Like Hammershøi and Christopher, Hogg adheres to the credo of understatement, w
 <br><br>
 
 **ARCHIPELAGO**<br>
-
 _Directed by:_ Joanna Hogg<br>
-
 ©: JHP2 Ltd<br>
-
 _Production Company:_ Wild Horses Film Company<br>
-
-_Executive Producers:_ Kiyoshi Nomura,  
-Edward Charlton<br>
-
+_Executive Producers:_ Kiyoshi Nomura,  Edward Charlton<br>
 _Produced by:_ Gayle Griffiths<br>
-
 _Line Producer:_ Luke Schiller<br>
-
 _Production Co-ordinator:_ Beni Hardiman<br>
-
 _Production Accountant:_ Christine Gayford<br>
-
 _Post-production Supervisor:_ Luke Schiller<br>
-
 _Post-production Assistant:_ Jessica Charlton<br>
-
 _Executive Assistant:_ Karol Griffiths<br>
-
 _Production Assistant:_ James Emmott<br>
-
 _1st Assistant Director:_ Paolo Guglielmotti<br>
-
 _3rd Assistant Director:_ Georgina Paget<br>
-
 _Script Supervisor:_ Sara J. Doughty<br>
-
 _Casting Director:_ Lucy Bevan<br>
-
 _Written by:_ Joanna Hogg<br>
-
 _Director of Photography:_ Ed Rutherford<br>
-
 _1st Assistant Camera:_ Andy Hill<br>
-
 _2nd Assistant Camera:_ Philip Ravendale Martin<br>
-
 _Stills Photographer:_ Nick Wall<br>
-
 _Additional Stills:_ Rupert Lloyd-Parry<br>
-
 _Editor:_ Helle Le Fevre<br>
-
 _Assistant Editor:_ Immanuel Von Bennigsen<br>
-
 _Production Designer:_ Stéphane Collonge<br>
-
 _Art Director:_ Sonya Yu<br>
-
 _Costume Designer:_ Stéphane Collange<br>
-
 _Titles Layout:_ Ella Coleman<br>
-
 _DI Colourist:_ Dan Coles<br>
-
 _Sound Recordist:_ David F. Mitchell<br>
-
 _Dolby Sound Stage:_ Point1Post<br>
-
 _Boom Operator:_ Rebecca Morgan<br>
-
 _Sound Trainee:_ Kirstie Christopher<br>
-
 _Re-recording Mixer:_ Jovan Ajder<br>
-
 _Final Dolby Re-recording Mixers:_ Graham Daniel, Adam Daniel<br>
-
 _Supervising Sound Editor:_ Jovan Ajder<br>
-
 _Dialogue Editor:_ Samir Foco<br>
-
 _Sound Effects Editor:_ Jovan Ajder<br>
-
 _Sound Post-production:_ Loudhailer<br>
-
 _Camera Equipment:_ VMI<br>
-
 _Lighting Equipment:_ Panalux<br>
-
 _DI Producer:_ Erika Bruning<br>
-
 _Digital Conform:_ James Cundill, Steve Garrett<br>
-
 _DI Consultant:_ Matt Adams<br>
+_Digital Intermediate Services:_  Technicolor Creative Services London<br>
 
-_Digital Intermediate Services:_  
-Technicolor Creative Services London<br>
-
-_Cast:_<br>
-
+**Cast**<br>
 Tom Hiddleston _(Edward)_<br>
-
 Kate Fahy _(Patricia)_<br>
-
 Amy Lloyd _(Rose)_<br>
-
 Lydia Leonard _(Cynthia)_<br>
+Christopher Baker _(Christopher, artist)_<br>
+Mike Pender _(lobster fisherman)_<br>
+Andrew Lawson _(head gardener)_<br>
+Leigh Baker, Allanah Sheppard _(waitresses)_<br>
+Alan Hewitt _(chef)_<br>
+Will Ash, Paul Christopher, Ian Chesterman _(guns)_<br>
+Michael Foster, David Hamilton, Jon Taylor _(beaters)_<br>
+Steve Parkes _(gamekeeper)_<br>
+Keely Brooker, Anita Bujansky, Gabriel Bujansky, Julian McCurdy _(cleaners)_<br>
+Buster, Tug _(gun dogs)_<br>
 
-Christopher Baker _(Christopher, artist)_
-
-Mike Pender _(lobster fisherman)_
-
-Andrew Lawson _(head gardener)_
-
-Leigh Baker, Allanah Sheppard _(waitresses)_
-
-Alan Hewitt _(chef)_
-
-Will Ash, Paul Christopher, Ian Chesterman _(guns)_
-
-Michael Foster, David Hamilton, Jon Taylor _(beaters)_
-
-Steve Parkes _(gamekeeper)_
-
-Keely Brooker, Anita Bujansky, Gabriel Bujansky, Julian McCurdy _(cleaners)_
-
-Buster, Tug _(gun dogs)_
-
-UK 2010©
-
-115 mins
-
-Digital
+UK 2010©<br>
+115 mins<br>
+Digital<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjcxNDc3MDBdfQ==
+eyJoaXN0b3J5IjpbNjMwODU3Mjc0XX0=
 -->
