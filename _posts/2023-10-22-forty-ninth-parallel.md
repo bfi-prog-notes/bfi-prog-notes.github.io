@@ -45,16 +45,15 @@ _Associate Editor:_ Hugh Stewart
 _Art Director:_ David Rawnsley  
 _Associate Art Directors:_ Sydney S. Streeter, Frederick Pusey  
 _Make-up:_ George Blackler *  
-_Musical Score Composed by:_  
-Ralph Vaughan Williams  
+_Musical Score Composed by:_  Ralph Vaughan Williams  
 _With:_ The London Symphony Orchestra  
 _Musical Director:_ Muir Mathieson  
 _Assistant to Music Director:_ Edward Williams *  
 _Sound Supervisor:_ A.W. Watkins  
 _Sound Recorders:_ C.C. Stevens, Walter Darling  
 _Canadian Adviser:_ Nugent M. Clougher  
-_Cast:_
 
+**Cast**  
 _The U-Boat Crew_  
 Richard George _(Kommandant Bernsdorff)_  
 Eric Portman _(Lieutenant Ernst Hirth)_  
@@ -62,8 +61,7 @@ Raymond Lovell _(Lieutenant Kuhnecke)_
 Niall MacGinnis _(Vogel)_  
 Peter Moore _(Kranz)_  
 John Chandos _(Lohrmann)_  
-Basil Appleby _(Jahner)_
-
+Basil Appleby _(Jahner)_  
 _The Canadians_  
 Laurence Olivier _(Johnnie Barras)_  
 Finlay Currie _(Albert, the factor)_  
@@ -76,19 +74,16 @@ Leslie Howard _(Philip Armstrong Scott)_
 Tawera Moana _(George, the Indian)_  
 Eric Clavering _(Art)_  
 Charles Rolfe _(Bob)_  
-Raymond Massey _(Andy Brock)_
-
+Raymond Massey _(Andy Brock)_  
 _and_  
-Theodore Salt, O.W. Fonger  
-_(United States customs officers)_
+Theodore Salt, O.W. Fonger  _(United States customs officers)_
 
-UK 1941
-
-123 mins
-
+UK 1941  
+123 mins  
 35mm
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODIxNTU1OV19
+eyJoaXN0b3J5IjpbLTc0MTczNTY4OV19
 -->
