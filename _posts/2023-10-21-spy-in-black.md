@@ -29,12 +29,12 @@ Ralph Richardson _(John Smith)_
 Flora Robson _(Mary Smith)_  
 Wally Patch _(Harry Jones)_  
 Allan Jeayes _(employer)_  
-UK 1939  10 mins
 
+UK 1939  
+10 mins  
 35mm
 
-**THE SPY IN BLACK**
-
+**THE SPY IN BLACK**  
 _Directed by_: Michael Powell  
 _Production Company_: Harefield Productions  
 _Presented by_: Alexander Korda  
@@ -54,11 +54,9 @@ _Music Composed by_: Miklos Rozsa
 _Musical Director_: Muir Mathieson  
 _Sound Director_: A.W. Watkins  
 _Sound Assistant_: John W. Mitchell *  
-_Sound System_:  
-Western Electric Mirrophonic Recording
+_Sound System_:  Western Electric Mirrophonic Recording
 
-_Cast:_
-
+**Cast**  
 Conrad Veidt _(Captain Hardt)_  
 Sebastian Shaw _(Lieutenant Ashington)_  
 Valerie Hobson _(the school mistress)_  
@@ -83,13 +81,14 @@ Jack Lambert _(passport official)_ *
 Brian Herbert _(corporal guarding POWs)_ *  
 Graham Stark _(pageboy)_ *
 
-UK 1939  83 mins
-
+UK 1939  
+83 mins  
 35mm
 
-* Uncredited
+*Uncredited
 
 The screening on Sun 29 Oct will be introduced by Bryony Dixon, BFI National Archive Curator
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjgyODgxMDddfQ==
+eyJoaXN0b3J5IjpbLTE5NzUyMjIzNTFdfQ==
 -->
