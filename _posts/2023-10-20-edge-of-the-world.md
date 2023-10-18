@@ -40,44 +40,36 @@ _Perhaps in one of those stone crofts on Foula, with the gab howling round it, s
 I hope so. They are our friends and we have never forgotten them.
 
 **Interview by Roy Plomley, 8 October 1942**
-<br><br
+<br><br>
 
-**THE EDGE OF THE WORLD**
-
+**THE EDGE OF THE WORLD**  
 _Directed by:_ Michael Powell  
 _Production Company:_ Joe Rock Productions  
-_Production Personnel:_ Gerald Blattner,
-
-A. Seabourne, Vernon C. Sewell,
-
-Sydney S. Streeter, W.H. Farr, George Black Jr  
+_Production Personnel:_ Gerald Blattner, A. Seabourne, Vernon C. Sewell, Sydney S. Streeter, W.H. Farr, George Black Jr  
 _Story:_ Michael Powell  
-_Camera:_ Ernest Palmer, Skeets Kelly,  
-Monty Berman  
+_Camera:_ Ernest Palmer, Skeets Kelly,  Monty Berman  
 _Camera Assistants:_ John Behr, Jimmy Gray *  
 _Editor:_ Derek Twist  
 _Assistant Editor:_ Robert Walters *  
 _Props:_ W. Osborne  
-_Choral Effects by:_  
-The Women of the Glasgow Orpheus Choir  
+_Choral Effects by:_  The Women of the Glasgow Orpheus Choir  
 _Musical Director:_ Cyril Ray  
-_[Glasgow Orpheus Choir] Conducted by:_
-
-Sir Hugh Roberton  
+_[Glasgow Orpheus Choir] Conducted by:_ Sir Hugh Roberton  
 _Orchestrations:_ W.L. Williamson  
 _Chief [Sound] Recordist:_ W.H.O. Sweeny  
 _Sound:_ L.K. Tregellis  
 _Recorded on:_ The Marconi Visatone System  
 _Re-recorded on:_ Western Electric  
-_Cast:_
 
-The Gray familyFinlay Currie _(James Gray)_  
+**Cast**  
+_The Gray family:_  
+Finlay Currie _(James Gray)_  
 Niall MacGinnis _(Andrew Gray)_  
 Grant Sutherland _(John, the catechist)_  
 Campbell Robson _(Dunbar, the laird)_  
-George Summers _(the trawler skipper)_
-
-The Manson familyJohn Laurie _(Peter Manson)_  
+George Summers _(the trawler skipper)_  
+_The Manson family:_  
+John Laurie _(Peter Manson)_  
 Belle Chrystall _(Ruth Manson)_  
 Eric Berry _(Robbie Manson)_  
 Kitty Kirwan _(Jean Manson, grandmother)_
@@ -127,5 +119,5 @@ Digital
 
 The screenings on Fri 20 Oct and Wed 15 Nov will be presented with subtitles including descriptions of non-dialogue audio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjYxOTcyODRdfQ==
+eyJoaXN0b3J5IjpbLTE5NjA5NjQ5NTRdfQ==
 -->
