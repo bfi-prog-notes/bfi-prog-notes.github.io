@@ -33,8 +33,7 @@ _Production Companies_: Archers Film Productions, Royal Air Force
 _With the full co-operation of_: The Air Ministry,  Royal Netherland Government London  
 _Presented by_: British National Films,  Alexander Korda  
 _Produced for The Archers by_: Michael Powell  
-_Associate Producer_: Stanley Haynes
-
+_Associate Producer_: Stanley Haynes  
 _[Written] By_: Emeric Pressburger, Michael Powell  
 _Photographer_: Ronald Neame  
 _Stills Photography_: Fred Daniels  
@@ -42,33 +41,24 @@ _Editor_: David Lean
 _Art Director_: David Rawnsley  
 _Sound Recorder_: C.C. Stevens
 
-_uncredited_
-
+_uncredited_  
 _Unit Manager_: Sydney S. Streeter  
 _Production Secretary_: Joan Page  
 _Associate Director_: John Seabourne  
 _Continuity Secretary_: Betty Curtis  
-_Associate Photographer_: Bob Krasker
-
+_Associate Photographer_: Bob Krasker  
 _Special Effects_: Freddy Ford, Douglas Woolsey  
 _Associate Editor_: Thelma Myers  
 _Sound Supervisor_: A.W. Watkins  
 _Technical Advisers_: M. Sluyser, James P. Power
 
-_Cast:_
-
-Hugh Burden _(John Glyn Haggard)_
-
-Eric Portman _(Tom Earnshaw)_
-
-Hugh Williams _(Frank Shelley)_
-
-Emrys Jones _(Bob Ashley)_
-
-Bernard Miles _(Geoff Hickman)_
-
-Godfrey Tearle _(Sir George Corbett)_
-
+**Cast**    
+Hugh Burden _(John Glyn Haggard)_  
+Eric Portman _(Tom Earnshaw)_  
+Hugh Williams _(Frank Shelley)_  
+Emrys Jones _(Bob Ashley)_  
+Bernard Miles _(Geoff Hickman)_  
+Godfrey Tearle _(Sir George Corbett)_  
 Googie Withers _(Jo de Vries)_  
 Joyce Redman _(Jet van Dieren)_  
 Pamela Brown _(Els Meertens)_  
@@ -76,12 +66,10 @@ Peter Ustinov _(the priest)_
 Alec Clunes _(the organist)_  
 Hay Petrie _(the burgomaster)_  
 Roland Culver _(naval officer)_  
-David Ward _(1st German airman)_
-
+David Ward _(1st German airman)_  
 Robert Duncan _(2nd German airman)_
 
-_uncredited_
-
+_uncredited_  
 Hector Abbas _(the driver)_  
 James Carson _(Louis)_  
 Bill Akkerman _(Willem)_  
@@ -95,13 +83,12 @@ William D’Arcy _(German officer)_
 Robert Beatty _(Hopkins)_  
 Michael Powell _(control tower radio operator)_
 
-UK 1942
-
-106 mins
-
+UK 1942  
+106 mins  
 35mm
 
 The screening on Tue 31 Oct will be introduced by film historian Ian Christie
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDYwNzYxMzRdfQ==
+eyJoaXN0b3J5IjpbMTAyMjg1NjU3MF19
 -->
