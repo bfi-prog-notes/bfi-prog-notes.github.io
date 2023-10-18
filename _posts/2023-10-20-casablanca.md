@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Casablanca 
+published: true
+date: 2023-10-20
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama]
+metadata: 'USA 1942, 102 mins<br> Director: Michael Curtiz'
+pdf: '2023-10-20-casablanca.pdf'
+---
 
 It’s still the same old story. [Over] 75 years after it was released, _Casablanca_ remains one of the world’s best-loved films. Not just the best-loved, but best-remembered. Many cinephiles can quote large chunks of the dialogue by heart, and _Casablanca_ has the most entries of any film in the American Film Institute’s 100 Greatest Movie Quotes of All Time list.
 
@@ -26,9 +34,8 @@ You Must Remember This, from a line in ‘As Time Goes By’, and each episode i
 Woody Allen sampled the entire movie in a 1969 play, filmed by Herbert Ross in 1972, although the title – _Play It Again, Sam_ – is famously a mangled misquotation of what Rick actually says to his pianist. Bryan Singer’s 1995 thriller _The Usual Suspects_ took its title from one of Renault’s lines. Emma Stone’s Mia in _La La Land_ (2016) is obsessed with the film, sleeping underneath a giant poster of Bergman and working opposite one of its key shooting locations – which suggests a grim prognosis for her fling with Ryan Gosling’s Sebastian.
 
 Bergman said of the film that ‘it has a life of its own. There is something mystical about it. It seems to have filled a need, a need that was there before the film, a need that the film filled.’ The film’s popularity has only grown, and it seems we still need the spirit of _Casablanca_. In November 2016, after the terrorist attacks in Paris, thousands shared a clip from _Casablanca_ online.  
-It was the scene in which the patrons of Rick’s café begin singing the Marseillaise in unison to drown out the Nazis. In a time of trouble, with hate on the rise in Europe, many people found that the defiance of these glamorous refugees in a septuagenarian movie said everything that they needed to say.
-
-Pamela Hutchinson, bfi.org.uk, 30 November 2017
+It was the scene in which the patrons of Rick’s café begin singing the Marseillaise in unison to drown out the Nazis. In a time of trouble, with hate on the rise in Europe, many people found that the defiance of these glamorous refugees in a septuagenarian movie said everything that they needed to say.  
+**Pamela Hutchinson, bfi.org.uk, 30 November 2017**  
 
 How many different drinks does Laszlo (Paul Henreid) order in _Casablanca_? Even the 90 per cent of the population who must feel they know the film’s dialogue by heart might be foxed by that one. The answer, it appears, is four: Cointreau, a cocktail, cognac and whisky. The information comes from an essay on _Casablanca_ and the cult film by Umberto Eco. The explanation, Eco suggests, is not that Laszlo was an eclectic drinker, or that scriptwriters can be forgivably lackadaisical on such fine points, but that Michael Curtiz ‘was simply quoting, unconsciously, similar situations in other movies and trying to provide a reasonably complete repetition of them.’
 
@@ -219,5 +226,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NzEzMTcyMiwtMTYxNzE5NDUxNl19
+eyJoaXN0b3J5IjpbMjAzNzMwNTExNCwtMTYxNzE5NDUxNl19
 -->
