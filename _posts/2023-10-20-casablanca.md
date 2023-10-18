@@ -104,58 +104,33 @@ _Sam’s Piano Playing Dubbed by:_ Elliott Carpenter
 
 _Narrator:_ Lou Marcelle
 
-_Cast:_
-
-Humphrey Bogart _(Richard ‘Rick’ Blaine)_
-
-Ingrid Bergman _(Ilsa Lund Laszlo)_
-
-Paul Henreid _(Victor Laszlo)_
-
-Claude Rains _(Captain Louis Renault)_
-
-Conrad Veidt _(Major Heinrich Strasser)_
-
-Sydney Greenstreet _(Señor Ferrari)_
-
-Peter Lorre _(Ugarte)_
-
-S.K. Sakall _(Carl, the head waiter)_
-
-Madeleine LeBeau _(Yvonne)_
-
-Dooley Wilson _(Sam)_
-
-Joy Page _(Annina Brandel)_
-
-John Qualen _(Berger)_
-
-Leonid Kinskey _(Sascha, the bartender)_
-
-Curt Bois _(pickpocket)_
-
-_uncredited_
-
-Helmut Dantine _(Jan Brandel)_
-
-Marcel Dalio _(Emile, the croupier)_
-
-Charles La Torre _(First Officer Tonnelli)_
-
-Corinna Mura _(Andreya, singer)_
-
-Ludwig Stössel _(Mr Leuchtag)_
-
+**Cast**  
+Humphrey Bogart _(Richard ‘Rick’ Blaine)_  
+Ingrid Bergman _(Ilsa Lund Laszlo)_  
+Paul Henreid _(Victor Laszlo)_  
+Claude Rains _(Captain Louis Renault)_  
+Conrad Veidt _(Major Heinrich Strasser)_  
+Sydney Greenstreet _(Señor Ferrari)_  
+Peter Lorre _(Ugarte)_  
+S.K. Sakall _(Carl, the head waiter)_  
+Madeleine LeBeau _(Yvonne)_  
+Dooley Wilson _(Sam)_  
+Joy Page _(Annina Brandel)_  
+John Qualen _(Berger)_  
+Leonid Kinskey _(Sascha, the bartender)_  
+Curt Bois _(pickpocket)_  
+_uncredited_  
+Helmut Dantine _(Jan Brandel)_  
+Marcel Dalio _(Emile, the croupier)_  
+Charles La Torre _(First Officer Tonnelli)_  
+Corinna Mura _(Andreya, singer)_  
+Ludwig Stössel _(Mr Leuchtag)_  
 Ilka Gruning _(Mrs Leuchtag)_  
 Frank Puglia _(Arab vendor)_  
-Dan Seymour _(Abdul, Rick’s doorman)_
-
-Oliver Blake _(Blue Parrot bartender)_
-
-Gregory Gaye _(German banker)_
-
-George Meeker _(friend)_
-
+Dan Seymour _(Abdul, Rick’s doorman)_  
+Oliver Blake _(Blue Parrot bartender)_  
+Gregory Gaye _(German banker)_  
+George Meeker _(friend)_  
 William Edmunds _(contact)_  
 Torben Meyer _(banker)_  
 Gino Corrado _(waiter)_  
@@ -212,5 +187,5 @@ USA 1942©
 102 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDc4ODI0OF19
+eyJoaXN0b3J5IjpbLTE2MTcxOTQ1MTZdfQ==
 -->
