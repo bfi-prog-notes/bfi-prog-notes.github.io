@@ -62,62 +62,54 @@ _Recorded on:_ The Marconi Visatone System
 _Re-recorded on:_ Western Electric  
 
 **Cast**  
-_The Gray family:_  
+_The Gray family_  
 Finlay Currie _(James Gray)_  
 Niall MacGinnis _(Andrew Gray)_  
 Grant Sutherland _(John, the catechist)_  
 Campbell Robson _(Dunbar, the laird)_  
 George Summers _(the trawler skipper)_  
-_The Manson family:_  
+_The Manson family_  
 John Laurie _(Peter Manson)_  
 Belle Chrystall _(Ruth Manson)_  
 Eric Berry _(Robbie Manson)_  
 Kitty Kirwan _(Jean Manson, grandmother)_
 
-and…all the people of the lonely island of Foula
+_and…_  
+all the people of the lonely island of Foula
 
-_uncredited cast:_
-
+_uncredited cast_  
 Michael Powell _(Mr Graham, the yachtsman)_  
 Frankie Powell _(Mrs Graham)_  
 Sydney S. Streeter _(man at dance)_  
 Margaret Grieg _(the baby)_
 
-UK 1937
-
-75 mins
-
+UK 1937  
+75 mins  
 Digital
 
-**RETURN TO THE EDGE OF THE WORLD**
-
+**RETURN TO THE EDGE OF THE WORLD**  
 _Director_: Michael Powell  
 _Presented By_: Poseidon Films, Frixos Constantine  
-_Sponsor_:  
-Bank of Credit and Commerce International  
-_Producers_: Michael Powell, Jason Krasucki,  
-Sydney S. Streeter  
+_Sponsor_:  Bank of Credit and Commerce International  
+_Producers_: Michael Powell, Jason Krasucki,  Sydney S. Streeter  
 _Camera Operator_: Brian Mitchison  
 _Editor_: Peter Mayhew  
 _Post Production Facilities_: Roger Cherrill  
-_Music Composed and Conducted By_:  
-Brian Easdale  
+_Music Composed and Conducted By_:  Brian Easdale  
 _Sound Recording_: David Hahn
 
-_With:_
-
+**With**  
 Michael Powell  
 John Laurie  
 Grant Sutherland  
 Sydney S. Streeter
 
-UK 1978
-
-23 mins
-
+UK 1978  
+23 mins  
 Digital
 
 The screenings on Fri 20 Oct and Wed 15 Nov will be presented with subtitles including descriptions of non-dialogue audio
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA5NjQ5NTRdfQ==
+eyJoaXN0b3J5IjpbMTg0NzcyNTI5MF19
 -->
