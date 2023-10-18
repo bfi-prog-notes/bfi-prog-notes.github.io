@@ -19,17 +19,13 @@ In this most lavish production the carefully planned colour scheme and the skilf
 <br><br>
 
 **THE THIEF OF BAGDAD**  
-_Directed by_: Ludwig Berger,  
-Michael Powell, Tim Whelan  
-©_/Production Company_:  
-Alexander Korda Film Productions  
+_Directed by_: Ludwig Berger,  Michael Powell, Tim Whelan  
+©_/Production Company_:  Alexander Korda Film Productions  
 _Distributed by_: United Artists  
 _Produced by_: Alexander Korda  
-_Associate Producers_: Zoltan Korda,  
-William Cameron Menzies  
+_Associate Producers_: Zoltan Korda,  William Cameron Menzies  
 _Production Manager_: David B. Cunynghame  
-_Associate Directors_: Geoffrey Boothby,  
-Charles David  
+_Associate Directors_: Geoffrey Boothby,  Charles David  
 _Screenplay and Dialogue by_: Miles Malleson  
 _Scenario by_: Lajos Biro  
 _Chief Photographer_: George Périnal  
@@ -40,30 +36,25 @@ _Supervising Editor_: William Hornbeck
 _Film Editor_: Charles Crichton  
 _Production Designed in Colour by_: Vincent Korda  
 _Scenic Backgrounds_: Percy Day  
-_Costumes Designed by_: Oliver Messel,  
-John Armstrong, Marcel Vertes  
+_Costumes Designed by_: Oliver Messel,  John Armstrong, Marcel Vertes  
 _Musical Score and Songs by_: Miklós Rózsa  
 _Musical Director_: Muir Mathieson  
 _Sound Director_: A.W. Watkins  
 _Sound System_: Western Electric Mirrophonic
 
-_uncredited_
-
-_Additional Direction_: Zoltan Korda,  
-William Cameron Menzies, Alexander Korda  
+_uncredited_  
+_Additional Direction_: Zoltan Korda,  William Cameron Menzies, Alexander Korda  
 _Production Assistant_: André de Toth  
 _Co-ordinating 2nd Assistant Director_: Jack Clayton  
 _Camera Operator_: Robert Krasker  
 _Camera Assistant_: Denys Coop  
 _Special Effects_: Tom Howard, Johnny Mills  
-_Associate Designers_: William Cameron Menzies, Fred Pusey, Ferdinand Bellan
-
+_Associate Designers_: William Cameron Menzies, Fred Pusey, Ferdinand Bellan  
 _Orchestral Arrangements_: Albert Sendrey  
 _Sound Assistant_: John W. Mitchell  
 _Studios_: Denham Studios, General Service Studios
 
-_Cast:_
-
+**Cast**  
 Conrad Veidt _(Jaffar)_  
 Sabu _(Abu, the thief of Bagdad)_  
 June Duprez _(Princess)_  
@@ -78,8 +69,7 @@ Adelaide Hall _(singer)_
 Roy Emerton _(jailer)_  
 Allan Jeayes _(the story teller)_
 
-_uncredited_
-
+_uncredited_  
 Viscount _(the dog)_  
 Glynis Johns  
 John Salew  
@@ -90,11 +80,10 @@ Henry Hallatt
 Irmgard Spoliansky  
 Leslie Phillips, Cleo Laine _(extras)_
 
-UK 1940©
-
-106 mins
-
+UK 1940©  
+106 mins  
 35mm – A BFI National Archive print (Sat 28 Oct) and Digital (all other screenings)
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3MzUwODI0XX0=
+eyJoaXN0b3J5IjpbMjAyMjcxMDAzNl19
 -->
