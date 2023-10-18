@@ -28,8 +28,7 @@ Although he declares himself impartial, Louis Renault (Claude Rains) asserts his
 
 Likewise, Victor (Paul Henreid), Ilsa’s resistance leader husband, ironically describes German citizenship as a ‘privilege’ but says his time in a Nazi concentration camp was ‘honour enough’. No word is wasted in this trim script, which weaponises language. The characters’ combination of deadpan comedy and modesty represents their bravery too – it’s an aspirational mode of dialogue, in which cleverness, and perhaps a little cynicism, trumps fear and untrammelled emotion. When we borrow _Casablanca_’s dialogue, we borrow a little of their grace under fire, and suggest we too could be noble enough to sacrifice our own interests for the greater good.
 
-Quotations from _Casablanca_ appear everywhere from TV adverts to other films, right up to recent releases _Allied_ (2016) and _Atomic_ _Blonde_ (2017). The film has been parodied by everyone from the Marx Brothers to Bugs Bunny. Paul Anton Smith’s compilation film _Have You Seen My Movie?_ (2016) splices together several scenes from other films in which characters watch the final scene. Karina Longworth’s unmissable Hollywood history podcast takes its title,  
-You Must Remember This, from a line in ‘As Time Goes By’, and each episode is introduced by the haunting sound of Bergman humming the melody.
+Quotations from _Casablanca_ appear everywhere from TV adverts to other films, right up to recent releases _Allied_ (2016) and _Atomic_ _Blonde_ (2017). The film has been parodied by everyone from the Marx Brothers to Bugs Bunny. Paul Anton Smith’s compilation film _Have You Seen My Movie?_ (2016) splices together several scenes from other films in which characters watch the final scene. Karina Longworth’s unmissable Hollywood history podcast takes its title,  You Must Remember This, from a line in ‘As Time Goes By’, and each episode is introduced by the haunting sound of Bergman humming the melody.
 
 Woody Allen sampled the entire movie in a 1969 play, filmed by Herbert Ross in 1972, although the title – _Play It Again, Sam_ – is famously a mangled misquotation of what Rick actually says to his pianist. Bryan Singer’s 1995 thriller _The Usual Suspects_ took its title from one of Renault’s lines. Emma Stone’s Mia in _La La Land_ (2016) is obsessed with the film, sleeping underneath a giant poster of Bergman and working opposite one of its key shooting locations – which suggests a grim prognosis for her fling with Ryan Gosling’s Sebastian.
 
@@ -226,5 +225,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzMwNTExNCwtMTYxNzE5NDUxNl19
+eyJoaXN0b3J5IjpbMTUwNDYxNjMyOCwtMTYxNzE5NDUxNl19
 -->
