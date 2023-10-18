@@ -39,11 +39,9 @@ _Production Co-ordinator_: Elias Millward
 _Production Accountant_: Steve Cronick  
 _Location Manager_: Joe Kotroczo  
 _Post-production Supervisor_: Gisela Evert  
-_Post-production Co-ordinator_:  
-Katie Bullock-Webster  
+_Post-production Co-ordinator_:  Katie Bullock-Webster  
 _1st Assistant Director_: Paolo Guglielmotti  
-_2nd Assistant Directors_:  
-Cristina Sartorio, Adam Barrington  
+_2nd Assistant Directors_:  Cristina Sartorio, Adam Barrington  
 _3rd Assistant Director_: Kwesi McLeod  
 _Assistant to Joanna Hogg_: Georgina Paget  
 _Script Supervisor_: Sara J. Doughty  
@@ -52,21 +50,16 @@ _Written by_: Joanna Hogg
 _Director of Photography_: Ed Rutherford  
 _Camera Operator_: John Ellis Evans  
 _Steadicam Operator_: Iain Mackay  
-_Gaffers_: Shawn White, Nathan Matthews,  
-Kyle Mann, Jon Ball
-
-_Grip_: Bob Freeman
-
-_Unit Photographers_: Sophie Molins,  
-Agatha A. Nitecka  
+_Gaffers_: Shawn White, Nathan Matthews,  Kyle Mann, Jon Ball  
+_Grip_: Bob Freeman  
+_Unit Photographers_: Sophie Molins,  Agatha A. Nitecka  
 _Editor_: Helle Le Fevre  
 _On-line Editor_: Jaime Leonard  
 _Senior Post Producer_: Kim Honeyman  
 _Production Designer_: Stéphane Collonge  
 _Art Director_: Pedro Moura  
 _Wardrobe Assistant_: Harriet Wilcox  
-_Make-up_: Heather Manson
-
+_Make-up_: Heather Manson  
 _End Roller Layout_: Rob Hill  
 _Colourist_: Paul Ensby  
 _Supervising Sound Designer_: Jovan Ajder  
@@ -76,22 +69,18 @@ _Re-recording Mixer_: Jovan Ajder
 _Supervising Sound Editor_: Jovan Ajder  
 _Dialogue Editor_: Sirma Dogan  
 _Sound Effects_: Ruben Aguirre Barba  
-_Foley Artists_: Miodrag Jakovljevic,  
-Gareth Rhys Jones  
+_Foley Artists_: Miodrag Jakovljevic,  Gareth Rhys Jones  
 _Foley Recordist_: Andrew Boyle  
 _Foley Editor_: Sirma Dogan  
-_Production Legal Services_: Lee & Thompson,  
-Reno Antoniades, Natalie Usher, Rebecca Pick  
+_Production Legal Services_: Lee & Thompson,  Reno Antoniades, Natalie Usher, Rebecca Pick  
 _PR Agency_: Premier Public Relations  
 _Unit Publicist_: Claire Gascoyne  
-_Digital Intermediate Services by_:  
-Technicolor Creative Services London  
+_Digital Intermediate Services by_:  Technicolor Creative Services London  
 _Collection Agent Services by_: Freeway CAM B.V.  
 _Dedicated to_: James Melvin  
 _Thank You_: Ben Rivers, Martin Scorsese
 
-_Cast:_
-
+**Cast**  
 Viv Albertine _(D)_  
 Liam Gillick _(H)_  
 Sirine Saba _(woman in car)_  
@@ -105,26 +94,17 @@ Paul Higgins, Alan Jones, Barry McCann _(scaffolders)_
 Noha Abdullah _(mother)_  
 Danah Dahab, Malak Dahab, May Dahab _(children)_  
 Andrew MacCallum _(Big Issue vendor)_  
-Jessica Barthorpe, Andrew Estephane,  
-Paul McGrail, Gentle Nyack, Germaine Nyack, Germaine Petrucci, Dorotea Petrucci, Sarah Syed,  
-Kevin Woodwards _(bus passengers)_  
+Jessica Barthorpe, Andrew Estephane,  Paul McGrail, Gentle Nyack, Germaine Nyack, Germaine Petrucci, Dorotea Petrucci, Sarah Syed,  Kevin Woodwards _(bus passengers)_  
 Krzysztof Werkowicz _(fire tuba player)_  
 Seth Stein _(architect)_  
-Renatha Fonseca Silva, Rossana Masuello,  
-Sergiu Mirza, Rosa Russo, Alize Speed_  
-(ICA audience)_  
-Pan Dimopoulos_,_ Angelos Grammatikandis_  
-(shop owners)_  
+Renatha Fonseca Silva, Rossana Masuello,  Sergiu Mirza, Rosa Russo, Alize Speed _(ICA audience)_  
+Pan Dimopoulos, Angelos Grammatikandis _(shop owners)_  
 Jane Houldsworth _(woman)_  
 Honeysuckle _(dog)_  
-Carolina Ambida, Mark Barker, Honor Bates,  
-James Bates, Susanna Chisholm, Sue Kennington, Ryan Law, Gareth Long, Garrard Martin, Tina O’Connell, Suzanna Prizeman, Robert Rush,  
-Chris Salewicz, Alice Smith, Holly Warburton, Elizabeth Westwood, Neal White, Anda Winters,  
-Bill Winters, Mariam Zulfiqar _(party guests)_  
+Carolina Ambida, Mark Barker, Honor Bates,  James Bates, Susanna Chisholm, Sue Kennington, Ryan Law, Gareth Long, Garrard Martin, Tina O’Connell, Suzanna Prizeman, Robert Rush,  Chris Salewicz, Alice Smith, Holly Warburton, Elizabeth Westwood, Neal White, Anda Winters,  Bill Winters, Mariam Zulfiqar _(party guests)_  
 Daniel Windsor _(fire breather)_  
 Colin David Johnson _(older man with baby)_  
-Amin Abdesselam, Sidi Elalaoui, Junior Evans,  
-Troy Judkins, Jasim Macmillan, Cameron Mathieson, Daryon Morgan-Impey, Elijah Nile, Charlie Omotunde, Bennet Uhuangho _(bike gang)_  
+Amin Abdesselam, Sidi Elalaoui, Junior Evans,  Troy Judkins, Jasim Macmillan, Cameron Mathieson, Daryon Morgan-Impey, Elijah Nile, Charlie Omotunde, Bennet Uhuangho _(bike gang)_  
 Pak Seng Lui, Suzanne Lui, Maxwell Lui,  
 Samuel Lui, Zackary Lui _(new family)_
 
@@ -134,5 +114,5 @@ UK 2013©
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjQ1MzE2XX0=
+eyJoaXN0b3J5IjpbLTEyOTg0MDI4MDJdfQ==
 -->
