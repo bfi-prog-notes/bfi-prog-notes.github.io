@@ -146,10 +146,8 @@ Corinna Mura _(Andreya, singer)_
 
 Ludwig Stössel _(Mr Leuchtag)_
 
-Ilka Gruning _(Mrs Leuchtag)_
-
-Frank Puglia _(Arab vendor)_
-
+Ilka Gruning _(Mrs Leuchtag)_  
+Frank Puglia _(Arab vendor)_  
 Dan Seymour _(Abdul, Rick’s doorman)_
 
 Oliver Blake _(Blue Parrot bartender)_
@@ -158,72 +156,39 @@ Gregory Gaye _(German banker)_
 
 George Meeker _(friend)_
 
-William Edmunds _(contact)_
-
-Torben Meyer _(banker)_
-
-Gino Corrado _(waiter)_
-
-George Dee _(Casselle)_
-
-Norma Varden _(Englishwoman)_
-
-Leo Mostovoy _(Fydor)_
-
-Richard Ryen _(Heinz)_
-
-Martin Garralaga _(head waiter)_
-
-Olaf Hytten _(prosperous man)_
-
-Monte Blue _(American)_
-
-Michael Mark _(vendor)_
-
-Leon Belasco _(dealer)_
-
-Paul Porcasi _(native)_
-
-Hans Heinz von Twardowski _(German officer)_
-
-Alberto Morin _(French officer)_
-
-Creighton Hale _(customer)_
-
-Henry Rowland _(German officer)_
-
-Jean Del Val _(police officer)_
-
-Franco Corsaro _(French police officer)_
-
-Jamiel Hasson _(muezzin)_
-
-Lal Chand Mehra _(policeman 1)_
-
-Manuel Lopez _(policeman 2)_
-
-Wolfgang Zilzer _(civilian)_
-
-Winifred Harris _(Englishwoman)_
-
-Arthur DuLac _(news vendor)_
-
-Gerald Oliver Smith, Herbert Evans _(Englishmen)_
-
-Joe de Villard _(Moroccan)_
-
-Adrienne D’Ambricourt _(concierge)_
-
-Louis Arco, Lester Sharpe _(refugees)_
-
-Jacques Lory _(moor)_
-
-Arthur Hull _(elderly admirer)_
-
-Anita Camargo _(woman companion)_
-
-George Renavent, Louis Mercier _(conspirators)_
-
+William Edmunds _(contact)_  
+Torben Meyer _(banker)_  
+Gino Corrado _(waiter)_  
+George Dee _(Casselle)_  
+Norma Varden _(Englishwoman)_  
+Leo Mostovoy _(Fydor)_  
+Richard Ryen _(Heinz)_  
+Martin Garralaga _(head waiter)_  
+Olaf Hytten _(prosperous man)_  
+Monte Blue _(American)_  
+Michael Mark _(vendor)_  
+Leon Belasco _(dealer)_  
+Paul Porcasi _(native)_  
+Hans Heinz von Twardowski _(German officer)_  
+Alberto Morin _(French officer)_  
+Creighton Hale _(customer)_  
+Henry Rowland _(German officer)_  
+Jean Del Val _(police officer)_  
+Franco Corsaro _(French police officer)_  
+Jamiel Hasson _(muezzin)_  
+Lal Chand Mehra _(policeman 1)_  
+Manuel Lopez _(policeman 2)_  
+Wolfgang Zilzer _(civilian)_  
+Winifred Harris _(Englishwoman)_  
+Arthur DuLac _(news vendor)_  
+Gerald Oliver Smith, Herbert Evans _(Englishmen)_  
+Joe de Villard _(Moroccan)_  
+Adrienne D’Ambricourt _(concierge)_  
+Louis Arco, Lester Sharpe _(refugees)_  
+Jacques Lory _(moor)_  
+Arthur Hull _(elderly admirer)_  
+Anita Camargo _(woman companion)_  
+George Renavent, Louis Mercier _(conspirators)_  
 Geoffrey Steele _(customer)_  
 Maurice Brierre _(baccarat dealer)_  
 Frank Arnold _(overseer)_  
@@ -231,16 +196,11 @@ Dina Smirnova _(woman customer)_
 Dick Botiller, George Sorel _(native officers)_  
 Gregory Golubeff _(cashier)_  
 George Carleton _(American)_  
-Jacques Vanaire _(Frenchman)_
-
-Paul Irving _(prosperous tourist)_
-
-Jean De Briac _(orderly)_
-
-Nino Pellini _(gendarme)_
-
-Paul Panzer _(waiter)_
-
+Jacques Vanaire _(Frenchman)_  
+Paul Irving _(prosperous tourist)_  
+Jean De Briac _(orderly)_  
+Nino Pellini _(gendarme)_  
+Paul Panzer _(waiter)_  
 Barry Norton, Elinor Vandivere _(gamblers)_  
 Don Keefer  
 Dewey Robinson  
@@ -252,5 +212,5 @@ USA 1942©
 102 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyMjE2NzQ0XX0=
+eyJoaXN0b3J5IjpbMTI4MDc4ODI0OF19
 -->
