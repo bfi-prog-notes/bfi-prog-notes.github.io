@@ -39,70 +39,38 @@ All the archetypes, says Eco, can be found in the film’s first 20 minutes, and
 The essence is that _Casablanca_ became a cult film because it never set out to be one. Quotations self-consciously used in modern movies ‘born in order to become cult objects’ are quite another matter. ‘Spielberg and Lucas are semiotically nourished authors working for a culture of instinctive semioticians.’ Eco ends his urbane essay: ‘It will be a sad day when a too smart audience will read _Casablanca_ as conceived by Michael Curtiz after having read Calvino and Barthes. But that day will come. Perhaps we have been able to discover here, for the last time, the Truth...’  
 **‘Kockenlocker’, _Sight and Sound_, Winter 1986-87**  
 <br>
-<![endif]-->
 
-**Casablanca**
-
-_Directed by:_ Michael Curtiz
-
-_©/Production Company/Presented by:_
-
-Warner Bros.
-
-_Executive Producer:_ Jack L. Warner
-
-_A_ Hal B. Wallis _production_
-
-_Dialogue Director:_ Hugh MacMullan
-
+**CASABLANCA**  
+_Directed by:_ Michael Curtiz  
+_©/Production Company/Presented by:_ Warner Bros.  
+ _Executive Producer:_ Jack L. Warner  
+_A_ Hal B. Wallis _production_  
+_Dialogue Director:_ Hugh MacMullan  
 _Screen Play by:_ Julius J. Epstein,  
-Philip G. Epstein, Howard Koch
-
-_From a play by:_ Murray Burnett, Joan Alison
-
-_Director of Photography:_ Arthur Edeson
-
-_Special Effects by (Director):_ Lawrence Butler
-
-_Special Effects by:_ Willard Van Enger
-
-_Editor:_ Owen Marks
-
-_Montages by:_ Don Siegel, James Leicester
-
-_Art Director:_ Carl Jules Weyl
-
-_Set Decorations by:_ George James Hopkins
-
-_Gowns by:_ Orry-Kelly
-
-_Make-up Artist:_ Perc Westmore
-
-_Music by:_ Max Steiner
-
-_Songs by:_ M.K. Jerome, Jack Scholl
-
-_Musical Director:_ Leo F. Forbstein
-
-_Orchestral Arrangements:_ Hugo Friedhofer
-
-_Sound by:_ Francis J. Scheid
-
-_Sound System:_ RCA
-
-_Technical Adviser:_ Robert Aisner
-
-_uncredited_
-
-_Unit Manager:_ Al Alleborn
-
-_Assistant Director:_ Lee Katz
-
-_Screenplay Supervisor:_ Jerry Wald
-
-_Sam’s Piano Playing Dubbed by:_ Elliott Carpenter
-
-_Narrator:_ Lou Marcelle
+Philip G. Epstein, Howard Koch  
+_From a play by:_ Murray Burnett, Joan Alison  
+_Director of Photography:_ Arthur Edeson  
+_Special Effects by (Director):_ Lawrence Butler  
+_Special Effects by:_ Willard Van Enger  
+_Editor:_ Owen Marks  
+_Montages by:_ Don Siegel, James Leicester  
+_Art Director:_ Carl Jules Weyl  
+_Set Decorations by:_ George James Hopkins  
+_Gowns by:_ Orry-Kelly  
+_Make-up Artist:_ Perc Westmore  
+_Music by:_ Max Steiner  
+_Songs by:_ M.K. Jerome, Jack Scholl  
+_Musical Director:_ Leo F. Forbstein  
+_Orchestral Arrangements:_ Hugo Friedhofer  
+_Sound by:_ Francis J. Scheid  
+_Sound System:_ RCA  
+_Technical Adviser:_ Robert Aisner  
+_uncredited_  
+_Unit Manager:_ Al Alleborn  
+_Assistant Director:_ Lee Katz  
+_Screenplay Supervisor:_ Jerry Wald  
+_Sam’s Piano Playing Dubbed by:_ Elliott Carpenter  
+_Narrator:_ Lou Marcelle  
 
 **Cast**  
 Humphrey Bogart _(Richard ‘Rick’ Blaine)_  
@@ -187,5 +155,6 @@ USA 1942©
 102 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTcxOTQ1MTZdfQ==
+eyJoaXN0b3J5IjpbLTE4NzAwMzUwNDMsLTE2MTcxOTQ1MTZdfQ
+==
 -->
