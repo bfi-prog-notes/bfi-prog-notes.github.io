@@ -14,8 +14,7 @@ Ask someone to pick their favourite moment from a film by Martin Scorsese, somet
 
 For me, the indelible scene comes earlier, in _Mean Streets_ (1973), and is so embedded in my film memory that I can’t recall when it first inserted itself; it’s always been there. De Niro again (how could it not be), as the anarchic, ducking and diving, doomed Johnny Boy, making his first entrance into the lurid environs of his friend’s bar, Volpe’s – moving in slow motion, a girl in each arm, Cheshire Cat grin threatening to crack his face in half, the Rolling Stone’s ‘Jumpin’ Jack Flash’ expressing the irreverent danger he represents to best friend Charlie (Harvey Keitel), who’s waiting stony-faced at the other end of the bar. It’s an exhilarating moment, in one of the great calling-card movies in American cinema.
 
-Scorsese’s bravura tale of small-time hoods and rogues in Manhattan’s Little Italy was his third feature and the one that confirmed him as a major new talent in a period of American film production that was experiencing an embarrassment of riches. On its premiere at the New York Film Festival in October 1973, Pauline Kael hailed _Mean Streets_ as ‘a true original of our period, a triumph of personal filmmaking’. The critic also called it the best American movie of the year, high praise considering that other releases included _The Exorcist_,  
-_The Last Detail_, _Badlands_, _American Graffiti_ and _Serpico_.
+Scorsese’s bravura tale of small-time hoods and rogues in Manhattan’s Little Italy was his third feature and the one that confirmed him as a major new talent in a period of American film production that was experiencing an embarrassment of riches. On its premiere at the New York Film Festival in October 1973, Pauline Kael hailed _Mean Streets_ as ‘a true original of our period, a triumph of personal filmmaking’. The critic also called it the best American movie of the year, high praise considering that other releases included _The Exorcist_, _The Last Detail_, _Badlands_, _American Graffiti_ and _Serpico_.
 
 Of all the so-called ‘movie brats’ associated with the New Hollywood, or Hollywood Renaissance, of the 1970s, Scorsese was one of the most distinctive; while Francis Ford Coppola’s ambition briefly threatened to challenge the studio system, and Steven Spielberg and George Lucas would reboot it for the blockbuster age, Scorsese aspired to make studio films with a sensibility that was and predominantly remains independent, setting a model that has been emulated by only a few exceptional directors.
 
@@ -113,7 +112,7 @@ Ken Konstantin _(young boy #2)_
 Nicki ‘Ack’ Aquilino _(man on docks)_  
 B. Mitchell Reed _(disc jockey)_  
 Martin Scorsese _(Michael’s hired gunman in car)_ *  
-Catherine Scorsese _(old woman on stairs helping Teresa)_ *
+Catherine Scorsese _(old woman on stairs helping Teresa)_ *  
 
 USA 1973  
 112 mins  
