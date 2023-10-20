@@ -1,15 +1,20 @@
+---
+layout: post
+title: Margaret
+published: true
+date: 2023-10-21
+readtime: true
+categories: ['JOANNA HOGG - INFLUENCES']
+tags: [Drama]
+metadata: 'USA 2008, 150 mins<br> Director: Kenneth Lonergan'
+pdf: '2023-10-21-margaret.pdf'
+---
 
+‘This is a thrilling plague film from 1971 – an imagining of future events. I’ve loved it since I first saw it.'  
+**Pamela Davies, BFI Member**  
 
-
-<![endif]-->
-
-‘This is a thrilling plague film from 1971 – an imagining of future events. I’ve loved it since I first saw it.'
-
-Pamela Davies, BFI Member
-
-A satellite crashes in a small New Mexico town. Before long, the whole community is wiped out by a suspected alien virus. The government sends in a small team of scientists, who put themselves at huge risk while they examine the cause of the deaths. This faithful and thrilling take on Michael Crichton’s novel, featuring special effects by Douglas Trumbull, remains prescient, given the paranoia surrounding recent global events.
-
-bfi.org.uk
+A satellite crashes in a small New Mexico town. Before long, the whole community is wiped out by a suspected alien virus. The government sends in a small team of scientists, who put themselves at huge risk while they examine the cause of the deaths. This faithful and thrilling take on Michael Crichton’s novel, featuring special effects by Douglas Trumbull, remains prescient, given the paranoia surrounding recent global events.  
+**bfi.org.uk** 
 
 In May 1969, former medical student Michael Crichton published his first novel under his own name (he’d already published three under the name John Lange and a fourth as Jeffrey Hudson, none of them genre). _The Andromeda Strain_ was an instant hit with the critics and went on to become a best-seller, starting his long career with a bang. The film rights were snapped up by Universal who handed the project over to director Robert Wise who, in turn, commissioned an adaptation from his regular collaborator Nelson Gidding.
 
@@ -73,54 +78,30 @@ USA 1971
 131 mins  
 Digital  
 <br>
-<![endif]-->
 
-**IN PERSON & PREVIEWS**
-
-**Re-release Preview: Pressure** + panel discussion
-
-Mon 23 Oct 20:10
-
-**TV Preview: The Lazarus Project** + Q&A with cast Paapa Essiedu, Caroline Quentin, Anjli Mohindra and writer Joe Barton
-
-Tue 24 Oct 18:15
-
-**Thelma Schoonmaker in Conversation**
-
-Thu 26 Oct 18:30
-
-**Preview: How to Have Sex** + Q&A with director Molly Manning Walker and actor Mia McKenna-Bruce
-
-Wed 1 Nov 20:45
-
-**23 Seconds to Eternity + BFI DVD & Blu-ray launch + Q&A with director Bill Butt**
-
-Mon 6 Nov 18:10
-
-**Preview: The Eternal Daughter** + Q&A with writer-director Joanna Hogg and actor Tilda Swinton
-
-Fri 10 Nov 19:00
-
-**Exhibition: The Red Shoes: Beyond the Mirror**
-
-From Fri 10 Nov to Sun 7 Jan
-
-**Matthew Bourne’s production of The Red Shoes** + Q&A with Matthew Bourne and Ashley Shaw
-
-Sat 11 Nov 15:00
-
-**Preview: Is There Anybody Out There?** + Q&A with director Ella Glendining, hosted by Jack Thorne
-
-Sat 11 Nov 17:45
-
-**Preview: The Red Shoes**
-
-Sun 12 Nov 15:30
-
-**Preview: Typist Artist Pirate King + Q&A with director Carol Morley, cast Monica Dolan, Gina McKee and Kieran Bew, producer Cairo Cannon, composer Carly Paradis and editor Alex Mackie**
-
-Mon 13 Nov 17:55
-
+**IN PERSON & PREVIEWS**  
+**Re-release Preview: Pressure** + panel discussion  
+Mon 23 Oct 20:10  
+**TV Preview: The Lazarus Project** + Q&A with cast Paapa Essiedu, Caroline Quentin, Anjli Mohindra and writer Joe Barton  
+Tue 24 Oct 18:15  
+**Thelma Schoonmaker in Conversation**  
+Thu 26 Oct 18:30  
+**Preview: How to Have Sex** + Q&A with director Molly Manning Walker and actor Mia McKenna-Bruce  
+Wed 1 Nov 20:45  
+**23 Seconds to Eternity + BFI DVD & Blu-ray launch + Q&A with director Bill Butt**  
+Mon 6 Nov 18:10  
+**Preview: The Eternal Daughter** + Q&A with writer-director Joanna Hogg and actor Tilda Swinton  
+Fri 10 Nov 19:00  
+**Exhibition: The Red Shoes: Beyond the Mirror**  
+From Fri 10 Nov to Sun 7 Jan  
+**Matthew Bourne’s production of The Red Shoes** + Q&A with Matthew Bourne and Ashley Shaw  
+Sat 11 Nov 15:00  
+**Preview: Is There Anybody Out There?** + Q&A with director Ella Glendining, hosted by Jack Thorne  
+Sat 11 Nov 17:45  
+**Preview: The Red Shoes**  
+Sun 12 Nov 15:30  
+**Preview: Typist Artist Pirate King + Q&A with director Carol Morley, cast Monica Dolan, Gina McKee and Kieran Bew, producer Cairo Cannon, composer Carly Paradis and editor Alex Mackie**  
+Mon 13 Nov 17:55  
 **Journey to Italy** Viaggio in Italia  + extended introduction by Jeremy Cooper and Ben Rivers  
 Mon 13 Nov 20:40  
 **Joanna Hogg in Conversation**  
@@ -130,5 +111,5 @@ Sat 25 Nov 12:00-17:00
 **TV Preview: Vigil + Q&A with cast Suranne Jones, Romola Garai, Dougray Scott and writer Tom Edge**  
 Mon 27 Nov 18:15  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4NDUzMzE0XX0=
+eyJoaXN0b3J5IjpbLTE3NjM1NDkzNzFdfQ==
 -->
