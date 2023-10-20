@@ -4,10 +4,10 @@ title: A Touch of Eastern Promise <br>+ Q&A with Tara Prem
 published: true
 date: 2023-10-21
 readtime: true
-categories: ['<![endif]--> **TARA PREM: REPRESENTING THE UNSEEN**']
+categories: ['TARA PREM<br> REPRESENTING THE UNSEEN']
 tags: [Sci-Fi]
-metadata: 'USA 1971, 131 mins<br> Director: Robert Wise'
-pdf: '2023-10-21-andromeda-strain.pdf'
+metadata: 'UK 1973, 30 mins<br> Director: <Michael Lindsay-Hogg'
+pdf: '2023-10-21-touch-of-eastern.pdf'
 ---
 
 A young Indian boy who dreams of film stars sees his favourite actress come to Birmingham. Written by Tara Prem, this was one of the first British TV productions to feature an entirely Asian cast. The screening will be followed by an in-depth and illustrated career interview with Tara Prem hosted by Chantelle Lavel Boyea.
@@ -59,5 +59,5 @@ Sat 4 Nov 17:20
 **Resurrected**  
 Sat 11 Nov 18:10  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODE1MzI0OV19
+eyJoaXN0b3J5IjpbMTE1OTI4NDM2MV19
 -->
