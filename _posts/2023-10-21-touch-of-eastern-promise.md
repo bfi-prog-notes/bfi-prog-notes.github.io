@@ -30,7 +30,7 @@ _Film Cameraman_: Michael Williams
 _Film Editor_: Oliver White  
 
 **Cast**  
-_Dev Sagoo _(Mohan)_  
+Dev Sagoo _(Mohan)_  
 Jamila Massey _(Shalini)_  
 Zareen Kamal _(Lata)_  
 K. S. Matharu _(Balraj Kumar)_  
