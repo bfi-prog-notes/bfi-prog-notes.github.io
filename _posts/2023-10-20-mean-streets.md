@@ -39,27 +39,18 @@ He’s made many films since that were close to his heart, were products of love
 **Extract from _Mean Streets_ by Demetrios Matheou (BFI Classics, 2023). Reproduced by kind permission of Bloomsbury Publishing. ©Demetrios Matheou**  
 <br>
 
-<![endif]-->
-
-**Mean Streets**
-
+**MEAN STREETS**  
 _Director_: Martin Scorsese  
 _©_: Inc. Warner Bros  
-_Production Company_:
-
-Taplin-Perry-Scorsese Productions  
+_Production Company_: Taplin-Perry-Scorsese Productions  
 _Presented by_: Warner Bros.  
 _Executive Producer_: E. Lee Perry  
 _Producer_: Jonathan T. Taplin  
 _Production Manager_: Paul Rapp  
-_Pre-production/Post-production Co-ordinator_:
-
-Sandra Weintraub  
+_Pre-production/Post-production Co-ordinator_: Sandra Weintraub  
 _Production Co-ordinator_: Peter Fain  
 _Production Co-ordinator (2nd Unit)_: Joe Cupcake  
-_Assistant to the Producer_: Neil Rapp,
-
-Pamela Williams  
+_Assistant to the Producer_: Neil Rapp, Pamela Williams  
 _1st Assistant Director_: Russell Vreeland  
 _2nd Assistant Director_: Ron Satloff  
 _Script Supervisor_: Bobbie Sierks  
@@ -87,29 +78,11 @@ _Colour by_: Technicolor
 _Sound Mixer_: Don Johnson  
 _Sound_: Glen Glenn  
 _Boom Operator_: Kenny Schwarz  
-_Re-recording Mixer_: John K. Williamson,
-
-Bud Grenzbach, Walter Goss  
+_Re-recording Mixer_: John K. Williamson, Bud Grenzbach, Walter Goss  
 _Sound Re-recording_: Glen Glenn Sound  
 _Sound Effects_: Angel Editorial  
 _Stunt Co-ordinator_: Bill Katching  
-_Special Thanks to_: Paul Almond,
-
-Frankie Aquilino, Nicki ‘Ack’ Aquilino,
-
-Frankie Bananas, Larry The Box, Dale Bell,
-
-Mitchell Block, Dean Bojorquez, Hooter Brown,
-
-Jay Cocks, Brian De Palma, Norman Garey,
-
-Jenny Goldberg, Alec Hirschfeld, Dr Robert Kahn, Richard Katz, John Krauss, Angelo Lanonea,
-
-Jim McCalmont, Michael Mislove, Bill Minkin,
-
-Nancy Nigrosh, Lee Osborne, Sally Red,
-
-Billy Saluga, Bill Sandell, Catherine Scorsese, Brad Shattuck, George Smith, Edward Stable, Dita Sullivan, Brian Swain, Harry Ufland, Anna Uricola, Dominic Vaccaro, Fred Vaccaro, Roger Vreeland, Barbara Weintraub, San Gennaro Feast Committee  
+_Special Thanks to_: Paul Almond, Frankie Aquilino, Nicki ‘Ack’ Aquilino, Frankie Bananas, Larry The Box, Dale Bell, Mitchell Block, Dean Bojorquez, Hooter Brown, Jay Cocks, Brian De Palma, Norman Garey, Jenny Goldberg, Alec Hirschfeld, Dr Robert Kahn, Richard Katz, John Krauss, Angelo Lanonea, Jim McCalmont, Michael Mislove, Bill Minkin, Nancy Nigrosh, Lee Osborne, Sally Red, Billy Saluga, Bill Sandell, Catherine Scorsese, Brad Shattuck, George Smith, Edward Stable, Dita Sullivan, Brian Swain, Harry Ufland, Anna Uricola, Dominic Vaccaro, Fred Vaccaro, Roger Vreeland, Barbara Weintraub, San Gennaro Feast Committee  
 _Animal Trainer_: George Toth  
 _Filmed at_: Hollywood Stages (Los Angeles)  
 
@@ -150,5 +123,5 @@ Digital 4K
 
 An Altitude Film Distribution release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzA2NzQ5MCwzMjU3MTIxN119
+eyJoaXN0b3J5IjpbLTYwNDE3NzkyOSwzMjU3MTIxN119
 -->
