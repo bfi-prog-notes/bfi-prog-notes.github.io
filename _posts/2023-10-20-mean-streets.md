@@ -36,7 +36,119 @@ Scorsese was hardly the only director in the 1970s shooting in the streets, or t
 To what extent _Mean Streets_ is a gangster film is often debated. Scorsese himself has frequently referenced the genre while discussing the film, and his characters and milieu make the allusion unavoidable; to some degree it must be regarded within a small group of crime films that includes _GoodFellas_, _Casino_ (1995) and, almost fifty years later, _The Irishman_ (2019). However, with its freeform structure, a willingness to eschew plot for character, and an underlying fusion of personal investment with documentary zeal, _Mean Streets_ ultimately transcends genre.
 
 He’s made many films since that were close to his heart, were products of love, sweat, tears and determination: for example _The Last Temptation of Christ_ (1988) and _Gangs of New York_ (2002). But, arguably, his filmmaking would never be as truly personal as it was in _Mean Streets_, certainly not as free, as unimpeded by outside forces. This partly explains why, to me, it feels like the most vital of Scorsese’s films. On a biographical note, watching the film leaves the impression that we’ve seen the person he left behind, on those mean streets, and glimpsed the filmmaker he was to become. Within cinema, _Raging Bull_ may be Scorsese’s masterpiece, _GoodFellas_ his perfect gangster movie, _Taxi Driver_ his most iconic film (and the one that continues to have a societal resonance), but _Mean Streets_ has been his most influential work – not only for the crime genre, but for subsequent generations of maverick filmmakers.  
-**Extract from _Mean Streets_ by Demetrios Matheou (BFI Classics, 2023). Reproduced by kind permission of Bloomsbury Publishing. ©Demetrios Matheou
+**Extract from _Mean Streets_ by Demetrios Matheou (BFI Classics, 2023). Reproduced by kind permission of Bloomsbury Publishing. ©Demetrios Matheou**  
+<br>
+
+<![endif]-->
+
+**Mean Streets**
+
+_Director_: Martin Scorsese  
+_©_: Inc. Warner Bros  
+_Production Company_:
+
+Taplin-Perry-Scorsese Productions  
+_Presented by_: Warner Bros.  
+_Executive Producer_: E. Lee Perry  
+_Producer_: Jonathan T. Taplin  
+_Production Manager_: Paul Rapp  
+_Pre-production/Post-production Co-ordinator_:
+
+Sandra Weintraub  
+_Production Co-ordinator_: Peter Fain  
+_Production Co-ordinator (2nd Unit)_: Joe Cupcake  
+_Assistant to the Producer_: Neil Rapp,
+
+Pamela Williams  
+_1st Assistant Director_: Russell Vreeland  
+_2nd Assistant Director_: Ron Satloff  
+_Script Supervisor_: Bobbie Sierks  
+_Screen Play_: Martin Scorsese, Mardik Martin  
+_Story_: Martin Scorsese  
+_Director of Photography_: Kent Wakeford  
+_Additional Photography_: Norman Gerard  
+_Camera Operator_: Gene Talvin  
+_Assistant Camera_: Pat O’Mara  
+_2nd Assistant Camera_: Harry Young  
+_Gaffer_: Bobby Petzoldt  
+_Best Boy_: Bill Young  
+_Key Grip_: John Murray  
+_Special Effects_: Bill Bales  
+_Editor_: Sid Levin  
+_Assistant Editor_: George Trirogoff  
+_Visual Consultant_: David Nichols  
+_Assistant Visual Consultant_: Doyle Hall  
+_Prop Master_: Bill Bates  
+_Wardrobe_: Norman Salling  
+_Clothing Consultant_: Cornelia McNamara  
+_Titles/Opticals/Processing_: CFI  
+_Laboratory_: Consolidated Film Industries  
+_Colour by_: Technicolor  
+_Sound Mixer_: Don Johnson  
+_Sound_: Glen Glenn  
+_Boom Operator_: Kenny Schwarz  
+_Re-recording Mixer_: John K. Williamson,
+
+Bud Grenzbach, Walter Goss  
+_Sound Re-recording_: Glen Glenn Sound  
+_Sound Effects_: Angel Editorial  
+_Stunt Co-ordinator_: Bill Katching  
+_Special Thanks to_: Paul Almond,
+
+Frankie Aquilino, Nicki ‘Ack’ Aquilino,
+
+Frankie Bananas, Larry The Box, Dale Bell,
+
+Mitchell Block, Dean Bojorquez, Hooter Brown,
+
+Jay Cocks, Brian De Palma, Norman Garey,
+
+Jenny Goldberg, Alec Hirschfeld, Dr Robert Kahn, Richard Katz, John Krauss, Angelo Lanonea,
+
+Jim McCalmont, Michael Mislove, Bill Minkin,
+
+Nancy Nigrosh, Lee Osborne, Sally Red,
+
+Billy Saluga, Bill Sandell, Catherine Scorsese, Brad Shattuck, George Smith, Edward Stable, Dita Sullivan, Brian Swain, Harry Ufland, Anna Uricola, Dominic Vaccaro, Fred Vaccaro, Roger Vreeland, Barbara Weintraub, San Gennaro Feast Committee  
+_Animal Trainer_: George Toth  
+_Filmed at_: Hollywood Stages (Los Angeles)  
+
+**Cast**  
+Robert De Niro _(Johnny Boy)_  
+Harvey Keitel _(Charlie)_  
+David Proval _(Tony)_  
+Amy Robinson _(Teresa)_  
+Richard Romanus _(Michael)_  
+Cesare Danova _(Giovanni)_  
+Vic Argo _(Mario)_  
+Jeannie Bell _(Diane)_  
+David Carradine _(drunk in Tony’s bar)_  
+Robert Carradine _(boy with gun)_  
+D’Mitch Davis _(Davis, the cop)_  
+George Memmoli _(Joey)_  
+Murray Mosten _(Oscar)_  
+Harry Northup _(Jerry the soldier)_  
+Lenny Scaletta _(Jimmy)_  
+Ken Sinclair _(Sammy)_  
+Lois Walden _(Jewish girl)_  
+Robert Wilder _(Benton)_  
+Dino Seragusa _(old man)_  
+Peter Fain _(George)_  
+Julie Andleman _(girl at party)_  
+Jaime Alba _(young boy #1)_  
+Ken Konstantin _(young boy #2)_  
+Nicki ‘Ack’ Aquilino _(man on docks)_  
+B. Mitchell Reed _(disc jockey)_  
+Martin Scorsese _(Michael’s hired gunman in car)_ *  
+Catherine Scorsese _(old woman on stairs helping Teresa)_ *
+
+USA 1973  
+112 mins  
+Digital 4K  
+
+\* Uncredited
+
+An Altitude Film Distribution release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2NTE5NDIzLDMyNTcxMjE3XX0=
+eyJoaXN0b3J5IjpbLTUyMzA2NzQ5MCwzMjU3MTIxN119
 -->
