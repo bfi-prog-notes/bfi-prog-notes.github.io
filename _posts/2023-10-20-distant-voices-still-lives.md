@@ -1,5 +1,14 @@
-
-
+---
+layout: post
+title: Distant Voices Still Lives
+published: true
+date: 2023-10-20
+readtime: true
+categories: ['EVENTS']
+tags: [Drama]
+metadata: 'UK/West Germany 1988, 84 mins<br> Director: Michael Curtiz'
+pdf: '2023-10-20-casablanca.pdf'
+---
 
 **Contemporary reviews**  
 Terence Davies makes films in instalments. The 100-minute Trilogy – _Children_, _Madonna and Child_, _Death and Transfiguration_ – which was begun in 1976 took eight years to complete. It won the 1984 BFI Award, and led to the BFI Production Department backing the development of Davies’ first 35mm colour project, _Distant Voices_, a memoir of working-class life in Liverpool during and shortly after the Second World War. Where the Trilogy used autobiography as a springboard, _Distant Voices_ effaced Davies himself to recall the experiences of his parents, sisters and brothers. (Davies was the youngest of ten children, seven of whom survived infancy; but in the film the family has been reduced to manageable dramatic proportions.) _Distant Voices_ was to be stylised, jumping back and forth in time, and was to have an eclectic range of music. Moreover, as Davies said, content did not just dictate form, it dictated length too – and the length in this case was just 45 minutes.
@@ -27,14 +36,10 @@ _Distant Voices Still Lives_ is actually two films joined together, the second h
 **David Wilson, _Sight and Sound_, Autumn 1988**  
 <br>
 
-<![endif]-->
-
-**Distant Voices Still Lives**
-
+**DISTANT VOICES STILL LIVES**  
 _Directed by:_ Terence Davies  
 ©:  Terence Davies  
 _Production Company/Presented by:_
-
 British Film Institute Production Board  
 _In association with:_ Channel Four,  
 Zweites Deutsches Fernsehen  
@@ -44,13 +49,9 @@ _Executive Producer:_ Colin MacCabe
 _Producer:_ Jennifer Howarth  
 _Executive in Charge of Production:_ Jill Pack  
 _Production Accountant:_ Sheryl Leonardo  
-_Production Managers:_ Sarah Swords,
-
-Olivia Stewart  
+_Production Managers:_ Sarah Swords, Olivia Stewart  
 _Production Assistants:_ Olivia Stewart, Lil Sterling  
-_Runners:_ Ian Francis, George Barbero,
-
-Richard Bridgwood, Sholto Roeg, Tony McCaffrey  
+_Runners:_ Ian Francis, George Barbero, Richard Bridgwood, Sholto Roeg, Tony McCaffrey  
 _1st Assistant Director [1985]:_ Andy Powell  
 _1st Assistant Directors [1987]:_ Andy Powell, Glynn Purcell  
 _2nd Assistant Directors:_ Marc Munden, Mathew Evans  
@@ -143,5 +144,5 @@ Digital 4K
 Introduced by Ben Roberts, BFI CEO
 (Fri 20 Oct 20:50 only)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDYzNTM0M119
+eyJoaXN0b3J5IjpbNTUwMjkwNjI4XX0=
 -->
