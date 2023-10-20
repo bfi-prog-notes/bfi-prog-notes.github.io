@@ -33,10 +33,8 @@ McEwan’s remarks illustrate the advantage of having the actors, whenever possi
 **Glitter**  
 Written by Tony Bicat and produced by Tara Prem, this provided one of the earliest roles for Toyah Willcox. ‘I want to be so famous that I’m a household name all over the world,’ says Willcox’s Sue. She eventually finds her way on to _Top of the Pops_.  
 <br>
-<![endif]-->
 
-**Black Christmas**
-
+**BLACK CHRISTMAS**  
 _Director_: Stephen Frears  
 _©/Production Company_: BBC Birmingham  
 _Producer_: Tara Prem  
@@ -49,23 +47,21 @@ _Designer_: Sally Williams
 _Costume Designer_: Ann Doling  
 _Make-up Artist_: Susie Bancroft  
 _Sound Recording_: Roger Long  
-_Sound Mixer_: David Baumber
+_Sound Mixer_: David Baumber  
 
-_Cast_:  
+**Cast**   
 Carmen Munro _(Gertrude)_  
 Norman Beaton _(Bertie)_  
 Shope Shodeinde _(Renée)_  
 Janet Bartley _(Dolly)_  
 Stefan Kalipha _(Herman)_  
-Linda Goddard _(Lily)_
+Linda Goddard _(Lily)_  
 
-BBC2 tx. 20.12.1977
+BBC2 tx. 20.12.1977  
+UK 1977  
+60 mins  
 
-UK 1977
-
-60 mins
-
-**SECOND CITY FIRSTS: JACK FLEA'S BIRTHDAY CELEBRATION Jack Flea’s Birthday Celebration**  
+**SECOND CITY FIRSTS: JACK FLEA'S BIRTHDAY CELEBRATION**  
 _Director_: Mike Newell  
 _Production Company_: BBC  
 _Producer_: Tara Prem  
@@ -102,6 +98,42 @@ Bilbo Braggins _(pop group)_
 BBC2 tx 28.11.1976  
 UK 1976  
 30 mins  
+<br>
+
+**TARA PREM: REPRESENTING THE UNSEEN**  
+**A Touch of Eastern Promise** + Q&A with Tara Prem  
+Sat 21 Oct 15:15  
+**Black Christmas** + intro by Tara Prem + **Second City Firsts: Jack Flea’s Birthday Celebration + Second City Firsts: Glitter**  
+Sat 21 Oct 17:40  
+**Play for Today: Vampires + Play for Today: Thicker Than Water**  
+Sat 4 Nov 17:20  
+**Resurrected**  
+Sat 11 Nov 18:10  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzg1Mjk5Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTY1NTY0MDc1Myw3MzA5OTgxMTZdfQ==
 -->
