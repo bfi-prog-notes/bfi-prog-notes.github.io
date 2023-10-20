@@ -5,9 +5,9 @@ published: true
 date: 2023-10-21
 readtime: true
 categories: ['TARA PREM<br> REPRESENTING THE UNSEEN']
-tags: [Sci-Fi]
+tags: [Drama]
 metadata: 'UK 1973, 30 mins<br> Director: <Michael Lindsay-Hogg'
-pdf: '2023-10-21-touch-of-eastern.pdf'
+pdf: '2023-10-21-touch-of-eastern-promise.pdf'
 ---
 
 A young Indian boy who dreams of film stars sees his favourite actress come to Birmingham. Written by Tara Prem, this was one of the first British TV productions to feature an entirely Asian cast. The screening will be followed by an in-depth and illustrated career interview with Tara Prem hosted by Chantelle Lavel Boyea.
@@ -59,5 +59,5 @@ Sat 4 Nov 17:20
 **Resurrected**  
 Sat 11 Nov 18:10  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTI4NDM2MV19
+eyJoaXN0b3J5IjpbMjMyNDQwMDk3XX0=
 -->
