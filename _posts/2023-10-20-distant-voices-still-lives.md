@@ -38,13 +38,10 @@ _Distant Voices Still Lives_ is actually two films joined together, the second h
 
 **DISTANT VOICES STILL LIVES**  
 _Directed by:_ Terence Davies  
-©:  Terence Davies  
-_Production Company/Presented by:_
-British Film Institute Production Board  
-_In association with:_ Channel Four,  
-Zweites Deutsches Fernsehen  
-_Presented in association with:_  
-Film Four International  
+©: Terence Davies  
+_Production Company/Presented by:_ British Film Institute Production Board  
+_In association with:_ Channel Four, Zweites Deutsches Fernsehen  
+_Presented in association with:_ Film Four International  
 _Executive Producer:_ Colin MacCabe  
 _Producer:_ Jennifer Howarth  
 _Executive in Charge of Production:_ Jill Pack  
@@ -65,8 +62,7 @@ _Focus Puller:_ Jeremy Read
 _Stunt Focus Puller:_ Martin Kenzie  
 _Clapper Loaders:_ Maggie Gormley, Caren Moy  
 _Stunt Clapper Loader:_ Nicholas Penn  
-_Grips:_ Malcolm Huse, Kevin Fraser,  
-Bill Venables, Nobby Roker  
+_Grips:_ Malcolm Huse, Kevin Fraser, Bill Venables, Nobby Roker  
 _Electricians:_ Geoff Burlinson, Chris Polden, Gary Nagle, Tim Church  
 _Stunt Electricians:_ Chris Polden, Gary Willis, Geoffrey Quick  
 _Stills Photographer:_ Mike Abrahams  
@@ -76,8 +72,7 @@ _Editing in collaboration with:_ Geraldine Creed, Toby Benton
 _Editing Assistant:_ Mick McCarthy  
 _Art Director:_ Miki van Zwanenberg  
 _With:_ Jocelyn James  
-_Assistant Art Directors:_ Sheila Gillie,  
-Mark Stevenson  
+_Assistant Art Directors:_ Sheila Gillie, Mark Stevenson  
 _Scenic Artists:_ Penny Fielding, Joy Fielding, Sarah Thwaites  
 _Painter:_ Lynne Whiteread  
 _Standby Props:_ Dave Allen, Pat Harkins  
@@ -98,8 +93,7 @@ _Sound Mixers:_ Aad Wirtz, Ian Turner
 _Sound Re-recorded at:_ Cinelingual, Ladbroke Films  
 _Dubbing Editor:_ Alex Mackie  
 _Assistant Dubbing Editor:_ Andrew Melhuish  
-_Camera Equipment:_ Cine-Europe Ltd,
-Griphouse, Cinefocus  
+_Camera Equipment:_ Cine-Europe Ltd, Griphouse, Cinefocus  
 _Lighting Equipment:_ Film & TV Services  
 _With Special Thanks to:_ Peter Sainsbury, Mamoun Hassan, McKee School, A.R.T. Casting, Gill Hallifax, Larry Sider, Max Marrable, Frank Reynolds, David Hill, David Gamble, BBC Sound Archive, British Library National Sound Archive, Denis Norden, Steve Race, Roy Hudd, Gillian Reynolds, Robert Lockhart, Pat Carus, Father Ashworth, Father Thompson  
 _Stunt Co-ordinator:_ Alf Joint  
@@ -143,7 +137,6 @@ Digital 4K
 
 Introduced by Ben Roberts, BFI CEO
 (Fri 20 Oct 20:50 only)  
-
 <br>
 
 **SIGHT AND SOUND**<br>
