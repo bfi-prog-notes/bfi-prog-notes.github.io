@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Margaret
+title: The Andromeda Strain
 published: true
 date: 2023-10-21
 readtime: true
-categories: ['JOANNA HOGG - INFLUENCES']
-tags: [Drama]
-metadata: 'USA 2008, 150 mins<br> Director: Kenneth Lonergan'
-pdf: '2023-10-21-margaret.pdf'
+categories: ['MEMBER EXCLUSIVES']
+tags: [Sci-Fi]
+metadata: 'USA 1971, 131 mins<br> Director: Robert Wise'
+pdf: '2023-10-21-andromeda-strain.pdf'
 ---
 
 ‘This is a thrilling plague film from 1971 – an imagining of future events. I’ve loved it since I first saw it.'  
@@ -111,5 +111,5 @@ Sat 25 Nov 12:00-17:00
 **TV Preview: Vigil + Q&A with cast Suranne Jones, Romola Garai, Dougray Scott and writer Tom Edge**  
 Mon 27 Nov 18:15  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjM1NDkzNzFdfQ==
+eyJoaXN0b3J5IjpbMTU2MjU5NDQzN119
 -->
