@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: Mean Streets
+published: true
+date: 2023-10-20
+readtime: true
+categories: ['RE_RELEASES']
+tags: [Crime, Gangster]
+metadata: 'USA 1942, 102 mins<br> Director: Martin Scorsese'
+pdf: '2023-10-20-mean-streets.pdf'
+---
 
 Ask someone to pick their favourite moment from a film by Martin Scorsese, something defining. Many would cite Robert De Niro’s memorable ‘you talkin’ to me?’ challenge to his own leering, gun-toting reflection in _Taxi Driver_ (1976); others, the same actor’s majestic, slow-motion dance around a boxing ring as Jake LaMotta in _Raging Bull_ (1980), or his tragi-comic monologue at the end of that film; others, the long tracking shot that follows Ray Liotta’s Henry Hill through the Copacabana in _GoodFellas_ (1990).
 
@@ -31,5 +38,5 @@ To what extent _Mean Streets_ is a gangster film is often debated. Scorsese hims
 He’s made many films since that were close to his heart, were products of love, sweat, tears and determination: for example _The Last Temptation of Christ_ (1988) and _Gangs of New York_ (2002). But, arguably, his filmmaking would never be as truly personal as it was in _Mean Streets_, certainly not as free, as unimpeded by outside forces. This partly explains why, to me, it feels like the most vital of Scorsese’s films. On a biographical note, watching the film leaves the impression that we’ve seen the person he left behind, on those mean streets, and glimpsed the filmmaker he was to become. Within cinema, _Raging Bull_ may be Scorsese’s masterpiece, _GoodFellas_ his perfect gangster movie, _Taxi Driver_ his most iconic film (and the one that continues to have a societal resonance), but _Mean Streets_ has been his most influential work – not only for the crime genre, but for subsequent generations of maverick filmmakers.  
 **Extract from _Mean Streets_ by Demetrios Matheou (BFI Classics, 2023). Reproduced by kind permission of Bloomsbury Publishing. ©Demetrios Matheou
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1NzEyMTddfQ==
+eyJoaXN0b3J5IjpbNTg2NTE5NDIzLDMyNTcxMjE3XX0=
 -->
