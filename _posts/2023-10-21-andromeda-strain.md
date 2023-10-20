@@ -33,14 +33,10 @@ Blessed with a fantastically weird, partly electronic score from jazz musician G
 _The Andromeda Strain_ is a long film that moves at its own deliberate pace but it’s never less than utterly enthralling throughout. The film wasn’t as warmly received as the novel but it remains an excellent example of a kind of science fiction cinema that has become vanishingly rare these days, one that revels in its science and which dares its audience to keep up with it, never talking down to them or patronising them. The novel was adapted again as a not terribly impressive two-part television mini-series directed by Mikael Salomon in 2008.  
 **Kevin Lyons, The EOFFTV Review, eofftvreview.wordpress.com, 10 September 2019**  
 <br>
-<![endif]-->
 
-**The Andromeda Strain**
-
+**THE ANDROMEDA STRAIN**  
 _Director_: Robert Wise  
-_Production Companies_: Universal Pictures,
-
-Robert Wise Productions  
+_Production Companies_: Universal Pictures, Robert Wise Productions  
 _Producer_: Robert Wise  
 _Production Manager_: Ernest B. Wehmeyer  
 _Assistant Director_: Ridgeway Callow  
@@ -58,8 +54,7 @@ _Music_: Gil Mellé
 _Music Engineering_: Allan Sohl, Gordon Clark  
 _Sound_: Waldon O. Watson, James Alexander, Ronald Pierce  
 _Technical Advisers_: Richard Green,
-
-George Hobby, William Koselka
+George Hobby, William Koselka  
 
 **Cast**  
 Arthur Hill _(Dr Jeremy Stone)_  
@@ -77,6 +72,63 @@ Peter Hobbs _(General Sparks)_
 USA 1971  
 131 mins  
 Digital  
+<br>
+<![endif]-->
+
+**IN PERSON & PREVIEWS**
+
+**Re-release Preview: Pressure** + panel discussion
+
+Mon 23 Oct 20:10
+
+**TV Preview: The Lazarus Project** + Q&A with cast Paapa Essiedu, Caroline Quentin, Anjli Mohindra and writer Joe Barton
+
+Tue 24 Oct 18:15
+
+**Thelma Schoonmaker in Conversation**
+
+Thu 26 Oct 18:30
+
+**Preview: How to Have Sex** + Q&A with director Molly Manning Walker and actor Mia McKenna-Bruce
+
+Wed 1 Nov 20:45
+
+**23 Seconds to Eternity + BFI DVD & Blu-ray launch + Q&A with director Bill Butt**
+
+Mon 6 Nov 18:10
+
+**Preview: The Eternal Daughter** + Q&A with writer-director Joanna Hogg and actor Tilda Swinton
+
+Fri 10 Nov 19:00
+
+**Exhibition: The Red Shoes: Beyond the Mirror**
+
+From Fri 10 Nov to Sun 7 Jan
+
+**Matthew Bourne’s production of The Red Shoes** + Q&A with Matthew Bourne and Ashley Shaw
+
+Sat 11 Nov 15:00
+
+**Preview: Is There Anybody Out There?** + Q&A with director Ella Glendining, hosted by Jack Thorne
+
+Sat 11 Nov 17:45
+
+**Preview: The Red Shoes**
+
+Sun 12 Nov 15:30
+
+**Preview: Typist Artist Pirate King + Q&A with director Carol Morley, cast Monica Dolan, Gina McKee and Kieran Bew, producer Cairo Cannon, composer Carly Paradis and editor Alex Mackie**
+
+Mon 13 Nov 17:55
+
+**Journey to Italy** Viaggio in Italia  + extended introduction by Jeremy Cooper and Ben Rivers  
+Mon 13 Nov 20:40  
+**Joanna Hogg in Conversation**  
+Wed 15 Nov 18:30  
+**Talk: The Creative Worlds of Powell + Pressburger**  
+Sat 25 Nov 12:00-17:00  
+**TV Preview: Vigil + Q&A with cast Suranne Jones, Romola Garai, Dougray Scott and writer Tom Edge**  
+Mon 27 Nov 18:15  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODgyNzI2NV19
+eyJoaXN0b3J5IjpbODc4NDUzMzE0XX0=
 -->
