@@ -65,46 +65,33 @@ UK 1977
 
 60 mins
 
-**Second City Firsts: Jack Flea’s Birthday Celebration**
+**SECOND CITY FIRSTS: JACK FLEA'S BIRTHDAY CELEBRATION Jack Flea’s Birthday Celebration**  
+_Director_: Mike Newell  
+_Production Company_: BBC  
+_Producer_: Tara Prem  
+_Script Editor_: Pedr James  
+_Script_: Ian McEwan  
+_Designer_: Malcolm Goulding  
 
-_Director_: Mike Newell
+**Cast**  
+Sara Kestelman _(Ruth)_  
+David Wilkinson _(David)_  
+Eileen McCallum _(Mrs Lee)_  
+Ivor Roberts _(Mr Lee)_  
 
-_Production Company_: BBC
-
-_Producer_: Tara Prem
-
-_Script Editor_: Pedr James
-
-_Script_: Ian McEwan
-
-_Designer_: Malcolm Goulding
-
-_Cast:_
-
-Sara Kestelman _(Ruth)_
-
-David Wilkinson _(David)_
-
-Eileen McCallum _(Mrs Lee)_
-
-Ivor Roberts _(Mr Lee)_
-
-BBC2 tx 10.4.1976
-
+BBC2 tx 10.4.1976  
 UK 1976
+30 mins  
 
-30 mins
-
-**Second City Firsts: Glitter**
-
+**SECOND CITY FIRSTS: GLITTER**  
 _Director_: Tony Bicât  
 _Production Company_: BBC  
 _Producer_: Tara Prem  
 _Script Editor_: Peter Ansorge  
 _[Written] By_: Tony Bicât  
-_Music_: Nick Bicât
+_Music_: Nick Bicât  
 
-**Cast:_  
+**Cast**    
 Toyah Willcox _(Sue)_  
 Phil Daniels _(Barry)_  
 Dixie Dean _(Ray Gutburg)_  
@@ -116,5 +103,5 @@ BBC2 tx 28.11.1976
 UK 1976  
 30 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzYxNzYxOCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjAwNzg1Mjk5Nyw3MzA5OTgxMTZdfQ==
 -->
