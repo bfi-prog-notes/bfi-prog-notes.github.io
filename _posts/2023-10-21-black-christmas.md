@@ -1,17 +1,14 @@
 ---
 layout: post
-title: Black Christmas +<br>intro by Tara P
+title: Black Christmas +<br>intro by Tara Prem
 published: true
 date: 2023-10-21
 readtime: true
 categories: ['TARA PREM<br> REPRESENTING THE UNSEEN']
 tags: [Drama]
-metadata: 'UK 1973, 30 mins<br> Director: <Michael Lindsay-Hogg'
-pdf: '2023-10-21-touch-of-eastern-promise.pdf'
+metadata: 'UK 1977, 60 mins<br> Director: Stephen Frears'
+pdf: '2023-10-21-black-christmas.pdf'
 ---
-
-
-
 
 A bittersweet drama on a familiar theme – the frictions forced to the surface during a Christmas family get-together – Michael Abbensetts’ **Black Christmas** is an understated and affecting study of relationships, unexpressed pain and a tormented nostalgia for a distant home.
 
@@ -34,7 +31,90 @@ McEwan’s remarks illustrate the advantage of having the actors, whenever possi
 **Lez Cooke, Forgotten Television Drama, forgottentelevisiondrama.wordpress.com,  27 January 2015**  
 
 **Glitter**  
-Written by Tony Bicat and produced by Tara Prem, this provided one of the earliest roles for Toyah Willcox. ‘I want to be so famous that I’m a household name all over the world,’ says Willcox’s Sue. She eventually finds her way on to _Top of the Pops_.
+Written by Tony Bicat and produced by Tara Prem, this provided one of the earliest roles for Toyah Willcox. ‘I want to be so famous that I’m a household name all over the world,’ says Willcox’s Sue. She eventually finds her way on to _Top of the Pops_.  
+<br>
+<![endif]-->
+
+**Black Christmas**
+
+_Director_: Stephen Frears  
+_©/Production Company_: BBC Birmingham  
+_Producer_: Tara Prem  
+_Production Assistant_: David McFarlane  
+_Script Editor_: Peter Ansorge  
+_[Written] By_: Michael Abbensetts  
+_Film Cameraman_: John Williams  
+_Film Editor_: Andy Page  
+_Designer_: Sally Williams  
+_Costume Designer_: Ann Doling  
+_Make-up Artist_: Susie Bancroft  
+_Sound Recording_: Roger Long  
+_Sound Mixer_: David Baumber
+
+_Cast_:  
+Carmen Munro _(Gertrude)_  
+Norman Beaton _(Bertie)_  
+Shope Shodeinde _(Renée)_  
+Janet Bartley _(Dolly)_  
+Stefan Kalipha _(Herman)_  
+Linda Goddard _(Lily)_
+
+BBC2 tx. 20.12.1977
+
+UK 1977
+
+60 mins
+
+**Second City Firsts: Jack Flea’s Birthday Celebration**
+
+_Director_: Mike Newell
+
+_Production Company_: BBC
+
+_Producer_: Tara Prem
+
+_Script Editor_: Pedr James
+
+_Script_: Ian McEwan
+
+_Designer_: Malcolm Goulding
+
+_Cast:_
+
+Sara Kestelman _(Ruth)_
+
+David Wilkinson _(David)_
+
+Eileen McCallum _(Mrs Lee)_
+
+Ivor Roberts _(Mr Lee)_
+
+BBC2 tx 10.4.1976
+
+UK 1976
+
+30 mins
+
+**Second City Firsts: Glitter**
+
+_Director_: Tony Bicât  
+_Production Company_: BBC  
+_Producer_: Tara Prem  
+_Script Editor_: Peter Ansorge  
+_[Written] By_: Tony Bicât  
+_Music_: Nick Bicât
+
+**Cast:_  
+Toyah Willcox _(Sue)_  
+Phil Daniels _(Barry)_  
+Dixie Dean _(Ray Gutburg)_  
+Noel Edmonds _(DJ)_  
+Doremy Vernon _(Sue's mother)_  
+Bilbo Braggins _(pop group)_  
+
+BBC2 tx 28.11.1976  
+UK 1976  
+30 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDE0NzQzMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTkxMzYxNzYxOCw3MzA5OTgxMTZdfQ==
 -->
