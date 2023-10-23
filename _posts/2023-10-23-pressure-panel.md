@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Pressure +<br>Panel discussion 
+published: true
+date: 2023-10-23
+readtime: true
+categories: [POWER TO THE PEOPLE<br> HORACE OVÉ’S RADICAL VISION]
+tags: [Drama]
+metadata: 'UK 1975, 125 mins<br> Director: Horace Ové'
+pdf: '2023-10-23-pressure-panel-discussion.pdf'
+---
 
 **SPOILER WARNING**  The following notes give away the film’s ending.
 
@@ -14,9 +22,8 @@ In the sequence’s final image, Tony, natty outfit now soaked through, enters t
 
 The first time I saw _Pressure_, I was shocked at the ending’s abruptness, but further viewings reveal it as making perfect sense. A conventional conclusion would not only have jarred with the film’s broadly observational style, but would also have contradicted the unresolved, work-in-progress nature of its central character; for better or worse, this is Tony’s Britain, and he’s here to stay, however grim things might be in the present.
 
-It’s a shame that the fiercely talented Ové was unable to develop a proper career as feature filmmaker. A prolific photographer and documentarian, Ové’s only other film to hit UK cinemas was 1986’s _Playing Away_, although _Pressure_ was undoubtedly influential – most obviously, the police-raid plot and the political enlightenment of a central character both featured in Menelik Shabazz’s _Burning an Illusion_ (1981). But wouldn’t it have been nice to have seen Tony – or at least a version of Tony – grow up on screen, reflecting a particular element of British society in the same way that the famously freeze-framed Antoine Doinel (in Truffaut’s _The 400 Blows_ in 1959) did for the French? Sadly, the black British experience is one that’s been badly underserved in our national cinema. As such, the poignancy of _Pressure’_s final image extends far beyond the text.
-
-Ashley Clark, _Sight and Sound_, December 2013
+It’s a shame that the fiercely talented Ové was unable to develop a proper career as feature filmmaker. A prolific photographer and documentarian, Ové’s only other film to hit UK cinemas was 1986’s _Playing Away_, although _Pressure_ was undoubtedly influential – most obviously, the police-raid plot and the political enlightenment of a central character both featured in Menelik Shabazz’s _Burning an Illusion_ (1981). But wouldn’t it have been nice to have seen Tony – or at least a version of Tony – grow up on screen, reflecting a particular element of British society in the same way that the famously freeze-framed Antoine Doinel (in Truffaut’s _The 400 Blows_ in 1959) did for the French? Sadly, the black British experience is one that’s been badly underserved in our national cinema. As such, the poignancy of _Pressure’_s final image extends far beyond the text.  
+**Ashley Clark, _Sight and Sound_, December 2013**
 
 **Annabelle Alcazar** worked as a film and TV producer for over 25 years in the UK, including on _Pressure_ (1978) and producer of two documentaries, _Who Shall We Tell?_ and _Dabbawallahs_. All 3 were directed by her husband Horace Ové. She returned to Trinidad in the mid-1990’s where  she was line producer on many music videos and ads including for Jay-Z, Eric Benet and Rihanna. From 2007 to 2018 she was Programme Director at the Trinidad+Tobago film festival. She is currently working on organising Horace’s photographic archive.
 
@@ -155,5 +162,5 @@ Digital 4K (restoration)
 A BFI release  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTI0MjE2NTVdfQ==
+eyJoaXN0b3J5IjpbMTA5OTY0NTU3NSwtMTU5MjQyMTY1NV19
 -->
