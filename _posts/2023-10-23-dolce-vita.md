@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Horace Ové<br> Reflecting the People<br> A Career Retrospective 
+title: Horace Ové<br> Reflecting the People – A Career Retrospective 
 published: true
 date: 2023-10-23
 readtime: true
 categories: [POWER TO THE PEOPLE<br> HORACE OVÉ’S RADICAL VISION]
-tags: [Talk]
-metadata: 
-pdf: '2023-10-23-horace-ove-career-retrospective.pdf'
+tags: [Drama]
+metadata: 'Italy/France 1960, 176 mins<br> Director: Federico Fellini'
+pdf: '2023-10-23-dolce-vita.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -135,5 +135,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5NTMyNDY2LDEyNzc3MjUwMTRdfQ==
+eyJoaXN0b3J5IjpbLTUyNDA0NTgwNCwxMjc3NzI1MDE0XX0=
 -->
