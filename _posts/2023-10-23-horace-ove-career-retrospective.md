@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Horace Ové<br>Reflecting the People<br>A Career Retrospective
+published: true
+date: 2023-10-23
+readtime: true
+categories: [POWER TO THE PEOPLE<br> HORACE OVÉ’S RADICAL VISION]
+tags: [Talk]
+metadata: 
+pdf: '2023-10-23-horace-ove-career-retrospective.pdf'
+---
 
 Spanning four decades, Horace Ové’s work encompassed cutting-edge drama and documentary, as well as programmes examining music and the visual arts. At a time when telling authentic Black stories on mainstream broadcast media was incredibly limited, Ové broke through barriers to create films that truly represented a multi-cultural Britain, told with an integrity that reflected his own values and political convictions. In this illustrated discussion, we assess the man, his immense talent, his versatility and his enduring legacy.
 
@@ -17,5 +25,5 @@ He currently teaches the popular ‘Writing The TV Pilot’ course at the Nation
 
 **Marcus Ryder MBE** is CEO of the Film and TV Charity. He has more than 25 years’ experience working in the media. Most recently he was Head of External Consultancies at the Sir Lenny Henry Centre for Media Diversity, set up to explore and increase diversity across the media industry. He has worked around the world and previously, was a senior executive at the BBC, winning awards from BAFTA, the Royal Television Society, and the Foreign Press Association. He is also the Chair of the Royal Academy of Dramatic Art (RADA) and is currently a trustee of the Press Pad Charitable Foundation. In 2022, he was named one of the 500 most influential people in the global film industry by _Variety_ and has also been awarded the prestigious Percy Qoboza award in the US by the National Association of Black Journalists as one of its Foreign Journalists of the Year in 2023.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzE1MzE4MF19
+eyJoaXN0b3J5IjpbLTE3MzA4MzgxNTAsLTY4NzE1MzE4MF19
 -->
