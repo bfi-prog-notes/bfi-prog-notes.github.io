@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: LA DOLCE VITA 
+published: true
+date: 2023-10-2
+readtime: true
+categories: [POWER TO THE PEOPLE<br> HORACE OVÉ’S RADICAL VISION]
+tags: [Drama]
+metadata: 'India 1955, 125 mins<br> Director: Satyajit Ray'
+pdf: '2023-10-18-pather-panchali.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -29,10 +37,8 @@ As for what _La dolce vita_ is really about, well, one answer could be: varietie
 But Fellini’s film has none of the solemnity of those travelling companions. On one level it’s a savagely wry Dance of the Dead, a debased version of _Inferno_ in which Dante’s serious pilgrim is replaced by an ethically compromised chronicler who doesn’t so much observe and pity the damned as get into bed with them. Yet at the same time the film is imbued with the heady sense that an old, repressive order is changing. And we also feel that, however misguided and short-lived the protagonist’s attempts at redemption are, he might just one day find one that works and lasts. Or then again, he might not. Last time I watched the film, it suddenly struck me what this spirit of ‘hopeful farce’ reminded me of. It’s Chekhov, of course. _La dolce vita_ is one of the most truly Chekhovian films in the history of cinema.  
 **Lee Marshall, _Sight and Sound_, May 2010**  
 <br>
-<![endif]-->
 
-**La dolce vita**
-
+**LA DOLCE VITA**  
 _Director:_ Federico Fellini  
 _Production Companies:_ Riama Film, Cinecittà, Pathé Consortium Cinéma  
 _Production Company:_ Gray Films *  
@@ -72,10 +78,9 @@ _Music Director:_ Franco Ferrara
 _Sound:_ Agostino Moretti, Oscar Di Santo  
 _Technical Equipment:_ Cinecittà  
 _Sound System:_ Western Electric
-
 _Studio:_ Cinecittà  
-_Cast:_
 
+**Cast**  
 Marcello Mastroianni  
 _(Marcello Rubini, newspaperman)_  
 Anita Ekberg _(Sylvie, Hollywood star)_  
@@ -102,8 +107,7 @@ Giulio Girola _(police inspector)_
 Laura Betti _(Laura, blonde actress/singer)_  
 Nico Otzak _(sophisticated blonde in Via Veneto)_  
 Domino _(The Fregene night sequence)_  
-Carlo Musto _(2nd transvestite)_
-
+Carlo Musto _(2nd transvestite)_  
 Lex Barker _(Robert)_  
 Jacques Sernas _(film star)_  
 Nadia Gray _(Nadia)_  
@@ -114,5 +118,5 @@ Italy/France 1960
 176 mins  
 \* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzNDQ0MjA2XX0=
+eyJoaXN0b3J5IjpbNzAwNDYxMDEyXX0=
 -->
