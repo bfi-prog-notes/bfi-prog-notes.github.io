@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Horace Ové<br> Reflecting the People – A Career Retrospective 
+title: La dolce vita 
 published: true
 date: 2023-10-23
 readtime: true
@@ -135,5 +135,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDA0NTgwNCwxMjc3NzI1MDE0XX0=
+eyJoaXN0b3J5IjpbMTc1MjMyMjYwNiwxMjc3NzI1MDE0XX0=
 -->
