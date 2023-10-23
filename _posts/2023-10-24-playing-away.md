@@ -5,7 +5,7 @@ published: true
 date: 2023-10-24
 readtime: true
 categories: [POWER TO THE PEOPLE<br> HORACE OVÉ’S RADICAL VISION]
-tags: [Drama]
+tags: [Drama, Comedy, Sport]
 metadata: 'UK 1975, 125 mins<br> Director: Horace Ové'
 pdf: '2023-10-23-pressure-panel-discussion.pdf'
 ---
@@ -26,7 +26,194 @@ Towards the end of his life, Norman Beaton reflected on the roles available to b
 
 Norman Beaton died in Georgetown, Guyana in 1994. Carmen Munroe, who played Beaton’s wife in _Desmond’s_, told _The Voice_: ‘He put his whole life and soul into any part he was asked to play and never spared himself. He worked at his craft and produced brilliance. His particular blend of comic energy and professional application will be missed most keenly in the future when excellence is sought.’  
 **Stephen Bourne, article from BFI DVD booklet of _Playing Away_**  
+<br>
+<![endif]-->
+
+**Playing Away**
+
+_Directed by:_ Horace Ové
+
+_©:_ Film Four International
+
+_Production Company:_ Insight Productions
+
+_For:_ Channel Four
+
+_Producers:_ Brian Skilton, Vijay Amarnani
+
+_Associate Producer:_ Christopher Sutton
+
+_Production Accountants:_ Len Barnard,
+
+Mary Breen-Farrelly, Deirdre Skilton
+
+_Production Co-ordinator:_ Dee Hodgson
+
+_Location Manager:_ Chris Thompson
+
+_Post-production Co-ordinator:_ Valerie Ames
+
+_Producer’s Secretary:_ Susie Mercer
+
+_Runner:_ Michael Williams
+
+_Jobfit Trainees:_ Clyde Wilson, Michael Kitson
+
+_1st Assistant Director:_ Simon Hinkly
+
+_2nd Assistant Director:_ Paul Frift
+
+_3rd Assistant Director:_ Carol Brock
+
+_Continuity:_ Joan Marine
+
+_Casting by:_ Michael Barnes
+
+_Screenplay:_ Caryl Phillips
+
+_Photographed by:_ Nic Knowland
+
+_Camera Focus:_ Harriet Cox
+
+_Camera Loader:_ Shangara Singh
+
+_Camera Grip:_ Olly Hoeben
+
+_Gaffer:_ Mark Gibbon
+
+_Best Boy:_ Ossie Jung
+
+_Stills:_ Stephen Morley
+
+_Graphics:_ Chris James
+
+_Edited by:_ Graham Whitlock
+
+_Assistant Editor:_ Martin Morgan
+
+_Art Director:_ Pip Gardner
+
+_Assistant Art Director:_ Paul Fenton
+
+_Production Buyer:_ Richard Watts
+
+_Prop Master:_ Ray Perry Jr
+
+_Properties:_ Gary Bacon, Stuart Lillie
+
+_Carpenter:_ Robert Archbold
+
+_Stagehand:_ Keith Muir
+
+_Costumes:_ Alyson Ritchie
+
+_Wardrobe Mistress:_ Amelia Davies
+
+_Chief Make-up Artist:_ Vivien Placks
+
+_Assistant Make-up Artist:_ Amanda Knight
+
+_Chief Hairdresser:_ Mark Nelson
+
+_Titles and Opticals:_ Peter Govey
+
+_Laboratory:_ Kay/MGM Laboratories Ltd.
+
+_Music:_ Simon Webb
+
+_Theme Song by:_ Junior
+
+_Music Mixer:_ Jim Preen
+
+_Sound Recordist:_ Christian Wangler
+
+_Sound Boom Operator:_ Ronald Bailey
+
+_Dubbing Mixer:_ Alan Dykes
+
+_Sound Editors:_ Chris Godden, Stuart De Jong
+
+_Transportation:_ Andrew Carton-Kelly,
+
+Michael Leigh, Sidney Checkter
+
+_Lighting:_ Film & TV Services
+
+_Cast:_
+
+Norman Beaton _(Willie Boy)_
+
+Robert Urquhart _(Godfrey)_
+
+Gary Beadle _(Errol)_
+
+Brian Bovell _(Stuart)_
+
+Nicholas Farrell _(Derek)_
+
+Stefan Kalipha _(Louis)_
+
+Helen Lindsay _(Marjorie)_
+
+Joseph Marcell _(Robbo)_
+
+Bruce Purchase _(Fredrick)_
+
+Sheila Ruskin _(Viv)_
+
+Trevor Thomas _(Jeff)_
+
+Suzette Llewellyn _(Yvette)_
+
+Mark Barratt _(Kevin)_
+
+Valerie Buchanan _(Pat)_
+
+Jim Findley _(Boots)_
+
+Julian Granger _(Mick)_
+
+Ram John Holder _(Wilf)_
+
+Patrick Holt _(the colonel)_
+
+Elizabeth Anson _(Sandra)_
+
+Juliet Waley _(Julie)_
+
+Ross Kemp _(Sonny)_
+
+Gareth Kirkland _(Tommy)_
+
+Archie Pool _(Steadroy)_
+
+Errol Shaker _(Desert-Head)_
+
+Femi Taylor _(Masie)_
+
+Larry Dann _(John)_
+
+Neil Morrisey _(Ian)_
+
+Charles Pemberton _(constable)_
+
+Roddy Maude-Roxby _(vicar)_
+
+Zulema Dene _(Miss Rye)_
+
+Ian Cross _(David)_
+
+Jimmy Reddington _(tavern barman)_
+
+Mary Tempest _(Angie)_
+
+Lucita Lijertwood _(lady in telephone box)_
+
+UK 1986©
+
+100 mins  
+Digital
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE3NTg5NjJdfQ==
+eyJoaXN0b3J5IjpbLTk4NTMyNDQzNV19
 -->
