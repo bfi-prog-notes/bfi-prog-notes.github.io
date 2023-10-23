@@ -73,8 +73,8 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 
 **Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
-Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODY5NTc4LC0xNzMwODM4MTUwLC02OD
-cxNTMxODBdfQ==
+eyJoaXN0b3J5IjpbMTg5NDk5ODkwMiwtMTE4Njk1NzgsLTE3Mz
+A4MzgxNTAsLTY4NzE1MzE4MF19
 -->
