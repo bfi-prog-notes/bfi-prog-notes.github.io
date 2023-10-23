@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: Playing Away 
+published: true
+date: 2023-10-24
+readtime: true
+categories: [POWER TO THE PEOPLE<br> HORACE OVÉ’S RADICAL VISION]
+tags: [Drama]
+metadata: 'UK 1975, 125 mins<br> Director: Horace Ové'
+pdf: '2023-10-23-pressure-panel-discussion.pdf'
+---
 
 _+ intro by writer Caryl Phillips (Tuesday 24 October only)_
 
@@ -21,5 +28,5 @@ Norman Beaton died in Georgetown, Guyana in 1994. Carmen Munroe, who played Beat
 **Stephen Bourne, article from BFI DVD booklet of _Playing Away_**  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1NjcyOTgxXX0=
+eyJoaXN0b3J5IjpbLTE2OTE3NTg5NjJdfQ==
 -->
