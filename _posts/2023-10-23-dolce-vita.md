@@ -1,13 +1,13 @@
 ---
 layout: post
-title: LA DOLCE VITA 
+title: La dolce vita 
 published: true
-date: 2023-10-2
+date: 2023-10-23
 readtime: true
 categories: [POWER TO THE PEOPLE<br> HORACE OVÉ’S RADICAL VISION]
 tags: [Drama]
-metadata: 'India 1955, 125 mins<br> Director: Satyajit Ray'
-pdf: '2023-10-18-pather-panchali.pdf'
+metadata: 'Italy/France 1960, 176 mins<br> Director: Federico Fellini'
+pdf: '2023-10-23-dolce-vita.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -22,8 +22,7 @@ Even the shooting process was a calculated part of the show that walked the tigh
 
 Fellini was in his element the night they shot there, playing to the crowd of onlookers that had gathered to see the Swedish diva get her frock wet. From his director’s chair, he turned his megaphone on his ‘audience’ to comment in Roman dialect, half approvingly and half ironically: ‘Where would you find another woman like this? I’ve made her do things even a circus horse wouldn’t do – and now I’m going to throw her in the water.’ He wasn’t just playing to the crowd, of course – he was playing to the journalists who had been invited along to witness the spectacle, entering into that complicity between media and subject that is one of the film’s major themes.
 
-I’ve always felt that _La dolce vita_ is one of the greatest of Fellini’s films. It comes without the tang of self-conscious now-I’m-going-to-make-a-masterpiece artsiness and self-indulgent autobiographical symbolism that mars the overrated _8½_ (1963). And aside from a few moments, it’s also refreshingly free of sentimentality. Fellini was able to harness the Hallmark side of his artistic character successfully only once – in _La strada_ (1954) – but it furs up the almost great _Amarcord_ (1973) and sugar-coats the emotion in _Nights of  
-Cabiria_ (1957).
+I’ve always felt that _La dolce vita_ is one of the greatest of Fellini’s films. It comes without the tang of self-conscious now-I’m-going-to-make-a-masterpiece artsiness and self-indulgent autobiographical symbolism that mars the overrated _8½_ (1963). And aside from a few moments, it’s also refreshingly free of sentimentality. Fellini was able to harness the Hallmark side of his artistic character successfully only once – in _La strada_ (1954) – but it furs up the almost great _Amarcord_ (1973) and sugar-coats the emotion in _Nights of  Cabiria_ (1957).
 
 For me then, _La dolce vita_ is up there with _I vitelloni_ (1953) as _il maestro_’s most consummate performance. The two films have much in common: the blurring of actors’ and characters’ names; the theme of men who are lost and know it, but are too lazy, cynical or self-hating to do much about it; the _bella figura_ and modern attitudes that Italians still smarting from the war showed off in company, contrasted against the squalor, poverty and reactionary attitudes of their home and family lives; and above all, the loose, episodic structure.
 
@@ -118,5 +117,5 @@ Italy/France 1960
 176 mins  
 \* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwNDYxMDEyXX0=
+eyJoaXN0b3J5IjpbNDM3NDU4MzMxXX0=
 -->
