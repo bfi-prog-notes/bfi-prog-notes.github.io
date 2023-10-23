@@ -132,7 +132,7 @@ Tue 24 Oct 18:10 (+ intro by writer Caryl Phillips); Tue 21 Nov 20:45
 Sat 28 Oct 15:15  
 **James Baldwin and the ‘N’ Word: Baldwin’s N******* + Q&A with author Colin Grant and additional guests (tbc)  
 Sat 4 Nov 14:10  
-**King Carnival + intro by Michael La Rose, George Padmore Institute + Reggae**  
+**King Carnival** + intro by Michael La Rose, George Padmore Institute + **Reggae**  
 Tue 7 Nov 18:00  
 **Play for Today: A Hole in Babylon + Play for Today: The Garland** Shai Mala Khani  
 Sun 12 Nov 15:00  
@@ -174,5 +174,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTY2NzUzODRdfQ==
+eyJoaXN0b3J5IjpbLTg2MzQ3MDY0OCwtMTgxNjY3NTM4NF19
 -->
