@@ -49,10 +49,8 @@ Leo Genn _(1st Brother Grimm)_
 Stuart Latham _(2nd Brother Grimm)_  
 Peter Bull _(3rd Brother Grimm)_  
 Dennis Arundell _(Lieman)_  
-Harold Warrender  
-_(Lieutenant-Commander A.C. Ellis, R.N.)_  
-Joss Ambler  
-_(Lieutenant-Commander Ashton, R.N.R.)_  
+Harold Warrender  _(Lieutenant-Commander A.C. Ellis, R.N.)_  
+Joss Ambler  _(Lieutenant-Commander Ashton, R.N.R.)_  
 Molly Hamley Clifford _(Baroness Hekla)_  
 Eric Berry _(Mr Abo, professor of Finnish)_  
 Olga Edwardes _(Mrs Abo)_  
@@ -71,18 +69,17 @@ Bernard Miles _(man lighting pipe in blackout)_ *
 Mark Daly _(taxi driver)_ *  
 Michael Shepley _(boisterous man in ‘Mouse Trap’)_ *  
 Cameron Hall *  
-UK 1940
 
-91 mins
-
+UK 1940  
+91 mins  
 35mm
 
 A BFI National Archive print
 
-* Uncredited
+*Uncredited
 
-The screening on Mon 23 Oct will be introduced  
-by Miranda Gower-Qian, BFI Inclusion Lead
+The screening on Mon 23 Oct will be introduced by Miranda Gower-Qian, BFI Inclusion Lead
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4MjcxMTQxXX0=
+eyJoaXN0b3J5IjpbMTI0Mjk2MzQ0M119
 -->
