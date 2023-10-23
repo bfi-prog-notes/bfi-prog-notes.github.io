@@ -26,8 +26,7 @@ I’ve always felt that _La dolce vita_ is one of the greatest of Fellini’s fi
 
 For me then, _La dolce vita_ is up there with _I vitelloni_ (1953) as _il maestro_’s most consummate performance. The two films have much in common: the blurring of actors’ and characters’ names; the theme of men who are lost and know it, but are too lazy, cynical or self-hating to do much about it; the _bella figura_ and modern attitudes that Italians still smarting from the war showed off in company, contrasted against the squalor, poverty and reactionary attitudes of their home and family lives; and above all, the loose, episodic structure.
 
-Fellini was not a fantasist but an uncompromising Latin realist. This, he suggests, is how life flows: between meetings with friends in bars and billiard saloons, small flirtations and deceptions, full of plans for tonight and tomorrow night but without the clean dramatic structure that allows for much in the way of turning points or tragedies. Big moments are constantly undermined in both films, robbed of their place in the sun: Olga’s departure with her lover in  
-_I vitelloni_ is only just caught by her brother Alberto as he rolls in drunk from a Carnevale party, having singularly failed to anticipate the event; in _La dolce vita_, the devastating drama of Marcello’s announcement to Steiner’s wife that her husband has killed himself and their two young children is turned into just another piece of media pornography by the flashes of the news photographers who have got there first – and, of course, by the fact that these photographers are friends of Marcello’s. He makes a living out of their carrion tactics.
+Fellini was not a fantasist but an uncompromising Latin realist. This, he suggests, is how life flows: between meetings with friends in bars and billiard saloons, small flirtations and deceptions, full of plans for tonight and tomorrow night but without the clean dramatic structure that allows for much in the way of turning points or tragedies. Big moments are constantly undermined in both films, robbed of their place in the sun: Olga’s departure with her lover in _I vitelloni_ is only just caught by her brother Alberto as he rolls in drunk from a Carnevale party, having singularly failed to anticipate the event; in _La dolce vita_, the devastating drama of Marcello’s announcement to Steiner’s wife that her husband has killed himself and their two young children is turned into just another piece of media pornography by the flashes of the news photographers who have got there first – and, of course, by the fact that these photographers are friends of Marcello’s. He makes a living out of their carrion tactics.
 
 Bumping into his film-critic friend Renzo Renzi at Cinecittà halfway through the shoot, Fellini complained that he didn’t feel he’d achieved the necessary artistic detachment from his material, saying: ‘It’s like describing a fuck to someone while you’re doing it.’ But this messiness is all a part of the film’s appeal. Co-screenwriters Tullio Pinelli and Ennio Flaiano (the latter one of the great unsung heroes of Italian cinema’s golden age) were working out as they went along how to detach a film’s structure from the usual Aristotelian dramatic arc and instead give it a more hybrid form – superficially like that of the newspapers that many of the stories recounted here were based on, but connected on a deeper level by a series of symbolic, thematic and moral resonances. Fellini, Pinelli and Flaiano were working towards film as fresco cycle rather than as narrative painting – an operation that would continue in debased form in the strand of Italian ‘magazine’ B movies popularised by _Mondo cane_ (1962), but which would also re-emerge (in more controlled, Aristotelian form) in contemporary multi-linear US dramas from _Magnolia_ to _Crash_.
 
@@ -45,11 +44,9 @@ _Executive Producer:_ Franco Magli
 _Presented by:_ Giuseppe Amato  
 _Producer:_ Angelo Rizzoli *  
 _Production Supervisor:_ Clemente Fracassi  
-_Production Managers:_ Nello Meniconi,  
-Manlio M. Morelli  
+_Production Managers:_ Nello Meniconi, Manlio M. Morelli  
 _Unit Manager:_ Alessandro von Norman  
-_Production Secretaries:_ Mario Basili,  
-Mario Di Biase, Osvaldo De Micheli  
+_Production Secretaries:_ Mario Basili, Mario Di Biase, Osvaldo De Micheli  
 _Artistic Collaborator:_ Brunello Rondi  
 _Assistant Directors:_ Guidarino Guidi, Paolo Nuzzi, Dominique Delouche  
 _2nd Assistant Directors:_ Giancarlo Romani, Gianfranco Mingozzi, Lili Veenman  
@@ -63,16 +60,14 @@ _Assistant Operator:_ Ennio Guarnieri
 _Editor:_ Leo Catozzo  
 _Assistant Editors:_ Adriana Olasio, Wanda Olasio  
 _Art Director:_ Piero Gherardi  
-_Assistant Art Director/Costumes:_  
-Giorgio Giovannini, Lucia Mirisola, Vito Anzalone  
+_Assistant Art Director/Costumes:_ Giorgio Giovannini, Lucia Mirisola, Vito Anzalone  
 _Costumes:_ Piero Gherardi  
 _Make-up:_ Otello Fava  
 _Assistant Make-up:_ Sergio Angeloni  
 _Hairdresser:_ Renata Magnanti  
 _Music:_ Nino Rota  
 _Music Collaborator:_ Armando Trovaioli  
-_Music Performed by:_ Campanino,  
-Adriano Celentano  
+_Music Performed by:_ Campanino, Adriano Celentano  
 _Music Director:_ Franco Ferrara  
 _Sound:_ Agostino Moretti, Oscar Di Santo  
 _Technical Equipment:_ Cinecittà  
@@ -80,8 +75,7 @@ _Sound System:_ Western Electric
 _Studio:_ Cinecittà  
 
 **Cast**  
-Marcello Mastroianni  
-_(Marcello Rubini, newspaperman)_  
+Marcello Mastroianni _(Marcello Rubini, newspaperman)_  
 Anita Ekberg _(Sylvie, Hollywood star)_  
 Anouk Aimée _(Maddalena)_  
 Yvonne Furneaux _(Emma)_  
