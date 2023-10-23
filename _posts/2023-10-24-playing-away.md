@@ -117,103 +117,57 @@ _Chief Hairdresser:_ Mark Nelson
 
 _Titles and Opticals:_ Peter Govey
 
-_Laboratory:_ Kay/MGM Laboratories Ltd.
+_Laboratory:_ Kay/MGM Laboratories Ltd.  
+_Music:_ Simon Webb  
+_Theme Song by:_ Junior  
+_Music Mixer:_ Jim Preen  
+_Sound Recordist:_ Christian Wangler  
+_Sound Boom Operator:_ Ronald Bailey  
+_Dubbing Mixer:_ Alan Dykes  
+_Sound Editors:_ Chris Godden, Stuart De Jong  
+_Transportation:_ Andrew Carton-Kelly, Michael Leigh, Sidney Checkter  
+_Lighting:_ Film & TV Services  
 
-_Music:_ Simon Webb
+**Cast**  
+Norman Beaton _(Willie Boy)_  
+Robert Urquhart _(Godfrey)_  
+Gary Beadle _(Errol)_  
+Brian Bovell _(Stuart)_  
+Nicholas Farrell _(Derek)_  
+Stefan Kalipha _(Louis)_  
+Helen Lindsay _(Marjorie)_  
+Joseph Marcell _(Robbo)_  
+Bruce Purchase _(Fredrick)_  
+Sheila Ruskin _(Viv)_  
+Trevor Thomas _(Jeff)_  
+Suzette Llewellyn _(Yvette)_  
+Mark Barratt _(Kevin)_  
+Valerie Buchanan _(Pat)_  
+Jim Findley _(Boots)_  
+Julian Granger _(Mick)_  
+Ram John Holder _(Wilf)_  
+Patrick Holt _(the colonel)_  
+Elizabeth Anson _(Sandra)_  
+Juliet Waley _(Julie)_  
+Ross Kemp _(Sonny)_  
+Gareth Kirkland _(Tommy)_  
+Archie Pool _(Steadroy)_  
+Errol Shaker _(Desert-Head)_  
+Femi Taylor _(Masie)_  
+Larry Dann _(John)_  
+Neil Morrisey _(Ian)_  
+Charles Pemberton _(constable)_  
+Roddy Maude-Roxby _(vicar)_  
+Zulema Dene _(Miss Rye)_  
+Ian Cross _(David)_  
+Jimmy Reddington _(tavern barman)_  
+Mary Tempest _(Angie)_  
+Lucita Lijertwood _(lady in telephone box)_  
 
-_Theme Song by:_ Junior
-
-_Music Mixer:_ Jim Preen
-
-_Sound Recordist:_ Christian Wangler
-
-_Sound Boom Operator:_ Ronald Bailey
-
-_Dubbing Mixer:_ Alan Dykes
-
-_Sound Editors:_ Chris Godden, Stuart De Jong
-
-_Transportation:_ Andrew Carton-Kelly,
-
-Michael Leigh, Sidney Checkter
-
-_Lighting:_ Film & TV Services
-
-_Cast:_
-
-Norman Beaton _(Willie Boy)_
-
-Robert Urquhart _(Godfrey)_
-
-Gary Beadle _(Errol)_
-
-Brian Bovell _(Stuart)_
-
-Nicholas Farrell _(Derek)_
-
-Stefan Kalipha _(Louis)_
-
-Helen Lindsay _(Marjorie)_
-
-Joseph Marcell _(Robbo)_
-
-Bruce Purchase _(Fredrick)_
-
-Sheila Ruskin _(Viv)_
-
-Trevor Thomas _(Jeff)_
-
-Suzette Llewellyn _(Yvette)_
-
-Mark Barratt _(Kevin)_
-
-Valerie Buchanan _(Pat)_
-
-Jim Findley _(Boots)_
-
-Julian Granger _(Mick)_
-
-Ram John Holder _(Wilf)_
-
-Patrick Holt _(the colonel)_
-
-Elizabeth Anson _(Sandra)_
-
-Juliet Waley _(Julie)_
-
-Ross Kemp _(Sonny)_
-
-Gareth Kirkland _(Tommy)_
-
-Archie Pool _(Steadroy)_
-
-Errol Shaker _(Desert-Head)_
-
-Femi Taylor _(Masie)_
-
-Larry Dann _(John)_
-
-Neil Morrisey _(Ian)_
-
-Charles Pemberton _(constable)_
-
-Roddy Maude-Roxby _(vicar)_
-
-Zulema Dene _(Miss Rye)_
-
-Ian Cross _(David)_
-
-Jimmy Reddington _(tavern barman)_
-
-Mary Tempest _(Angie)_
-
-Lucita Lijertwood _(lady in telephone box)_
-
-UK 1986©
-
+UK 1986©  
 100 mins  
-Digital
+Digital  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTMyNDQzNV19
+eyJoaXN0b3J5IjpbLTI4MjM4NDI5M119
 -->
