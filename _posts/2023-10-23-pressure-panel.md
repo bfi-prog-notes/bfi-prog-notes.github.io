@@ -27,8 +27,7 @@ It’s a shame that the fiercely talented Ové was unable to develop a proper ca
 
 **Annabelle Alcazar** worked as a film and TV producer for over 25 years in the UK, including on _Pressure_ (1978) and producer of two documentaries, _Who Shall We Tell?_ and _Dabbawallahs_. All 3 were directed by her husband Horace Ové. She returned to Trinidad in the mid-1990’s where  she was line producer on many music videos and ads including for Jay-Z, Eric Benet and Rihanna. From 2007 to 2018 she was Programme Director at the Trinidad+Tobago film festival. She is currently working on organising Horace’s photographic archive.
 
-**Herbert Norville** is a British actor. Norville was a member of the Anna Scher youth theatre in Islington. He played lead character ‘Tony’ in BFI production _Pressure_ in 1976, ‘Daytona Dave’ in Stanley Kubrick’s _Full Metal Jacket_ (1987) and inmate Toyne in _Scum_. He also appeared in another Alan Clarke film,  
-_The Firm_ (1988) as Yusef’s brother. He has also appeared on British television in _The Bill_, _Minder_, _Crown Court_, _Big Deal_ and _The Young Ones_.
+**Herbert Norville** is a British actor. Norville was a member of the Anna Scher youth theatre in Islington. He played lead character ‘Tony’ in BFI production _Pressure_ in 1976, ‘Daytona Dave’ in Stanley Kubrick’s _Full Metal Jacket_ (1987) and inmate Toyne in _Scum_. He also appeared in another Alan Clarke film, _The Firm_ (1988) as Yusef’s brother. He has also appeared on British television in _The Bill_, _Minder_, _Crown Court_, _Big Deal_ and _The Young Ones_.
 
 **Caryl Phillips** is the author of numerous plays for the theatre, television, and radio. He is best known as a novelist and essayist; his many books include the novels _Crossing the River_, _A Distant Shore_ and _The Lost Child_, and the non-fiction titles _The European Tribe_ and _Colour Me English_. He wrote the screenplay for _Playing Away_ (directed by Horace Ové) and the Merchant Ivory production of V.S. Naipaul’s _The Mystic Masseur_. A member of the American Academy of Arts and Letters, and a Fellow of the Royal Literary Society, he is Professor of English at Yale University.
 
@@ -39,82 +38,41 @@ Selected exhibitions/screenings include: BFI London Film Festival, New York Film
 **Chair: Dr Clive Chijioke Nwonka** is Associate Professor in Film, Culture and Society at UCL, and a Faculty Associate of the UCL Sarah Parker Remond Centre for the Study of Racism and Racialisation. Dr Nwonka’s research centres on the study of Black British and African American film, with a particular focus on the Black aesthetics, images of Black urbanity and the modes through which Black identities are shaped within forms of Black popular culture. Nwonka is the author of the book _Black Boys: The Social aesthetics of British Urban Film_ (2023), the co-editor of the book _Black Film/British Cinema II_ (2021) and is the author of the forthcoming _Black Arsenal: Race, Cultural Memory and Black British Identity_ (2024)_._  
 <br>
 
-<![endif]-->
-
-**Pressure**
-
-_Director:_ Horace Ové
-
-_Production Company:_
-
-British Film Institute Production Board
-
-_Executive Producer for the BFI:_ Barry Gavin
-
-_Producer:_ Robert Buckler
-
-_Assistant Producer:_ Annabelle Alcazar
-
-_Continuity:_ Genise Michelle
-
-_Screenplay:_ Horace Ové, Samuel Selvon
-
-_Director of Photography:_ Mike Davis
-
-_Assistant Photography:_ Madelyn Most
-
-_Gaffers:_ Julian Litvinoff, Nigel Brook
-
-_Sparks:_ Albert Bailey
-
+**PRESSURE**  
+_Director:_ Horace Ové  
+_Production Company:_ British Film Institute Production Board  
+_Executive Producer for the BFI:_ Barry Gavin  
+_Producer:_ Robert Buckler  
+_Assistant Producer:_ Annabelle Alcazar  
+_Continuity:_ Genise Michelle  
+_Screenplay:_ Horace Ové, Samuel Selvon  
+_Director of Photography:_ Mike Davis  
+_Assistant Photography:_ Madelyn Most  
+_Gaffers:_ Julian Litvinoff, Nigel Brook  
+_Sparks:_ Albert Bailey  
 _Graphic Presentation:_ Darrell Pockett,
-
-Haydon Young
-
-_Editor:_ Alan J. Cumner-Price
-
-_Assistant Editors:_ Cathy Rolfe, Chuma Ukpabi
-
-_Illustrations:_ Una Howe
-
-_Theme Song Music Artist:_
-
-Boy Wonder and The Sisters
-
-_Theme Song Music:_ Boy Wonder
-
-_Theme Song Lyrics:_ Horace Ové
-
-_Sound Recordist:_ Chris Wangler
-
-_Sound Assistant:_ Frankie Hart
-
-_Dubbing Mixer:_ Tony Anscombe
-
-_BFI also wishes to thank the following:_
-
-Keskidee Centre, And So To Bed,
-
+Haydon Young  
+_Editor:_ Alan J. Cumner-Price  
+_Assistant Editors:_ Cathy Rolfe, Chuma Ukpabi  
+_Illustrations:_ Una Howe  
+_Theme Song Music Artist:_ Boy Wonder and The Sisters  
+_Theme Song Music:_ Boy Wonder  
+_Theme Song Lyrics:_ Horace Ové  
+_Sound Recordist:_ Chris Wangler  
+_Sound Assistant:_ Frankie Hart  
+_Dubbing Mixer:_ Tony Anscombe  
+_BFI also wishes to thank the following:_ Keskidee Centre, And So To Bed,
 Ashanti Records, Trojan Records,
+Capital Radio, Basil Smith  
 
-Capital Radio, Basil Smith
-
-_Cast:_
-
-Herbert Norville _(Anthony ‘Tony’ Watson)_
-
-Oscar James _(Colin)_
-
-Frank Singuineau _(Lucas)_
-
-Lucita Lijertwood _(Bopsie)_
-
-Sheila Scott-Wilkinson _(Sister Louise)_
-
-Ed Deveraux _(police inspector)_
-
-Norman Beaton _(Preacher)_
-
+**Cast**  
+Herbert Norville _(Anthony ‘Tony’ Watson)_  
+Oscar James _(Colin)_  
+Frank Singuineau _(Lucas)_  
+Lucita Lijertwood _(Bopsie)_  
+Sheila Scott-Wilkinson _(Sister Louise)_  
+Ed Deveraux _(police inspector)_  
+Norman Beaton _(Preacher)_  
 T-Bone Wilson _(Junior)_
 
 Ramjohn Holder _(Brother John)_
@@ -162,5 +120,5 @@ Digital 4K (restoration)
 A BFI release  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTY0NTU3NSwtMTU5MjQyMTY1NV19
+eyJoaXN0b3J5IjpbMTM5NTk5NDM0NiwtMTU5MjQyMTY1NV19
 -->
