@@ -24,78 +24,45 @@ _The Night of the Party_ is a most theatrical piece; in fact it practically neve
 <br><br>
 
 **RED ENSIGN**<br>
-
 _Directed by:_ Michael Powell<br>
-
 _Presented by:_ Gaumont-British Picture Corporation<br>
-
 _Controlled by:_ Gaumont-British Distributors Ltd.<br>
-
 _Executive Producer:_ Michael Balcon *<br>
-
 _Producer:_ Jerome Jackson *<br>
-
 _Dialogue:_ L. Du G. Peach<br>
-
 _Original Story:_ Jerome Jackson, Michael Powell<br>
-
 _Photography:_ Leslie Rowson<br>
-
 _Film Editor:_ Geoffrey Barkas<br>
-
 _Art Direction:_ Alfred Junge<br>
-
 _Costumes:_ Gordon Conway<br>
-
 _Sound Recordist:_ G. Birch<br>
-
 _Recorded by:_ British Acoustic Film<br>
-
 _Studio:_ Shepherd’s Bush Studios<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Leslie Banks _(David Barr)_<br>
-
 Carol Goodner _(June MacKinnon)_<br>
-
 Alfred Drayton _(Manning)_<br>
+Frank Vosper _(Lord Dean)_<br>
+Campbell Gullan _(Hannay)_<br>
+Percy Parsons _(Arthur Casey)_<br>
+Fewlass Llewellyn _(Sir Gregory)_<br>
+Henry Oscar _(Raglan)_<br>
+Allan Jeayes _(Jock Grierson)_<br>
+Donald Calthrop _(MacLeod)_<br>
+Henry Caine _(Bassett)_<br>
+John Laurie _(Forsyth)_ *<br>
+Frederick Piper _(MacWilliam)_ *<br>
+George Carney _(Lindsay)_ *<br>
+Jack Lambert *<br>
 
-Frank Vosper _(Lord Dean)_
-
-Campbell Gullan _(Hannay)_
-
-Percy Parsons _(Arthur Casey)_
-
-Fewlass Llewellyn _(Sir Gregory)_
-
-Henry Oscar _(Raglan)_
-
-Allan Jeayes _(Jock Grierson)_
-
-Donald Calthrop _(MacLeod)_
-
-Henry Caine _(Bassett)_
-
-John Laurie _(Forsyth)_ *
-
-Frederick Piper _(MacWilliam)_ *
-
-George Carney _(Lindsay)_ *
-
-Jack Lambert *
-
-UK 1934
-
-66 mins
-
+UK 1934<br>
+66 mins<br>
 Digital 4K
 
-**THE NIGHT OF THE PARTY**
-
+**THE NIGHT OF THE PARTY**<br>
 _Director_: Michael Powell  
-_Production Company_:  
-Gaumont-British Picture Corporation  
+_Production Company_:  Gaumont-British Picture Corporation  
 _Producer_: Jerome Jackson *  
 _Assistant Director_: Bryan Wallace  
 _Scenario_: Ralph Smart  
@@ -106,7 +73,7 @@ _Art Director_: Alfred Junge
 _Costumes_: Gordon Conway  
 _Recording_: S. Jolly
 
-_Cast:_
+**Cast**<br>
 
 Malcolm Keen _(Lord Studholme)_  
 Jane Baxter _(Peggy Studholme)_  
@@ -125,13 +92,14 @@ Louis Goodrich _(the judge)_
 Disney Roebuck _(butler)_  
 Gordon Begg _(Miles)_ *
 
-UK 1934
+UK 1934<br>
 
-63 mins
+63 mins<br>
 
 Digital 4K
 
-* Uncredited
+* Uncredited<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDA1NTQ4OV19
+eyJoaXN0b3J5IjpbMjAyMzkzMzQ4M119
 -->
