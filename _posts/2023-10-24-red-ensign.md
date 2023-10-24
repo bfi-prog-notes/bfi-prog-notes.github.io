@@ -66,15 +66,13 @@ _Production Company_:  Gaumont-British Picture Corporation
 _Producer_: Jerome Jackson *  
 _Assistant Director_: Bryan Wallace  
 _Scenario_: Ralph Smart  
-_Original play and dialogue_: Roland Pertwee,  
-John Hastings Turner  
+_Original play and dialogue_: Roland Pertwee,  John Hastings Turner  
 _Photography_: Glen MacWilliams  
 _Art Director_: Alfred Junge  
 _Costumes_: Gordon Conway  
 _Recording_: S. Jolly
 
 **Cast**<br>
-
 Malcolm Keen _(Lord Studholme)_  
 Jane Baxter _(Peggy Studholme)_  
 Ian Hunter _(Guy Kennion)_  
@@ -93,13 +91,11 @@ Disney Roebuck _(butler)_
 Gordon Begg _(Miles)_ *
 
 UK 1934<br>
-
 63 mins<br>
-
 Digital 4K
 
-* Uncredited<br>
+*Uncredited<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzkzMzQ4M119
+eyJoaXN0b3J5IjpbLTQzMTU3NzIyMV19
 -->
