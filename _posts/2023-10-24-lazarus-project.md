@@ -25,8 +25,7 @@ The epic, action packed second series is led by Emmy and BAFTA-nominated Pappa E
 
 Paapa has just completed his run at the National Theatre in _The Effect,_ written by Lucy Prebble. He starred opposite Taylor Russell in the critically acclaimed revival. In the spring Paapa starred in Charlie Brooker’s long-awaited season 6 of the cult anthology series, Black Mirror in Demon 79. Next up, Paapa will return to television screens in series 2 of the Sky Original thriller, _The Lazarus Project_, created and written by Joe Barton (_Giri/Haji)._ This winter Paapa will star opposite Melissa McCarthy in Working Title/Universal’s _Genie_, directed by Sam Boyd and written by Richard Curtis. The film is a remake of Curtis’ beloved classic of the same name. 2024 will see Paapa star opposite Saoirse Ronan in _The Outrun_. Based on Amy Liptrot’s bestselling memoir, the feature is directed by Nora Fingscheidt.
 
-In the last two years Paapa has fronted a primetime BBC One series,  
-_The Capture_ and had a key supporting role in Alex Garland’s feature, _Men_, which starred Jessie Buckley and Rory Kinnear. 2022 also saw Paapa return to the stage in Lyndsey Turner’s critically acclaimed staging of Caryl Churchill’s seminal play, _A Number_, starring opposite Lennie James. Short film _Femme_, in which Paapa starred opposite Harris Dickinson, was nominated in the Best British Short category in the 2022 BAFTAs and won the BIFA Award for Best Short Film.
+In the last two years Paapa has fronted a primetime BBC One series, _The Capture_ and had a key supporting role in Alex Garland’s feature, _Men_, which starred Jessie Buckley and Rory Kinnear. 2022 also saw Paapa return to the stage in Lyndsey Turner’s critically acclaimed staging of Caryl Churchill’s seminal play, _A Number_, starring opposite Lennie James. Short film _Femme_, in which Paapa starred opposite Harris Dickinson, was nominated in the Best British Short category in the 2022 BAFTAs and won the BIFA Award for Best Short Film.
 
 Further screen credits include _Gangs of London_ (HBO/Sky Atlantic); _Anne Boleyn_ (Channel 5); _Unsaid Stories_ (ITV); _Press_ (Masterpiece/BBC One); _Black Earth Rising_ (BBC Two); _KIRI_ (Channel 4); _The Miniaturist_ (BBC). Further theatre credits include playing ‘Hamlet’ in Simon Godwin’s lauded production _Hamlet_ at the RSC; _The Merry Wives of Windsor_ (RSC, dir. Philip Breen); _King Lear_ (National Theatre, dir. Sam Mendes); _Pass Over_ (Kiln Theatre, dir. Indhu Rubasingham).
 
@@ -34,15 +33,13 @@ Further screen credits include _Gangs of London_ (HBO/Sky Atlantic); _Anne Boley
 
 Her first major TV role was as Rani Chandra in CBBC’s _The Sarah Jane Adventures_ – a part she played for four series between 2008-2011.
 
-She has since had roles in many high-profile television dramas including  
-_The Lazarus Project_ (Sky Max), _Vigil_ (BBC One), _The Suspect_ (ITV), Bodyguard (BBC One), _Cucumber_ (Channel 4), _The Boy with the_ _Topknot_ (BBC Two), _Dark_ _Heart_ (ITV),and _The Dead Room_ (BBC Four). She has recently wrapped as the lead in _The Red King_, a new drama for Alibi, written by Toby Whithouse.
+She has since had roles in many high-profile television dramas including _The Lazarus Project_ (Sky Max), _Vigil_ (BBC One), _The Suspect_ (ITV), Bodyguard (BBC One), _Cucumber_ (Channel 4), _The Boy with the_ _Topknot_ (BBC Two), _Dark_ _Heart_ (ITV),and _The Dead Room_ (BBC Four). She has recently wrapped as the lead in _The Red King_, a new drama for Alibi, written by Toby Whithouse.
 
 Anjli recently secured a development deal with Urban Myth Films to create a TV series based on the life Princess Sophia Duleep Singh – the daughter of the last Maharajah of Punjab and a goddaughter of Queen Victoria.
 
 **Joe Barton (Creator, Writer)**  is a BAFTA winning Writer and Executive Producer of television projects including the BAFTA Cymru awarded thriller, _The Lazarus Project, Half Bad: The Bastard Son and the Devil Himself_ and three-time BAFTA nominated and winning _Giri/Haji._
 
-Barton has also penned several feature films including _The Ritual_, for which he was nominated for a British Screenwriters’ Award as well as _Encounter_ starring Riz Ahmed and Octavia Spencer, and the upcoming _Cloverfield_ sequel for  
-JJ Abrams.
+Barton has also penned several feature films including _The Ritual_, for which he was nominated for a British Screenwriters’ Award as well as _Encounter_ starring Riz Ahmed and Octavia Spencer, and the upcoming _Cloverfield_ sequel for JJ Abrams.
 
 Next year will see the release of _The Union_, staring Mark Whalberg and Halle Berry as well as the Netflix series _Black Doves_ starring Keira Knightley.
 
@@ -59,7 +56,7 @@ In 2020 Carl kicked off the dark crime noir series _We Hunt Together_ for BBC St
 **Caroline Quentin** is an acclaimed English actress, broadcaster and television presenter best known for her famed roles in cult television series _Jonathan Creek_ and _Men Behaving Badly,_ for which she was awarded the British Comedy Award for Top TV Comedy Actress, an award she won a second time with her role as Maggie Mee in _Life Begins._
 
 Caroline has an extensive list of high-profile credits, spanning across TV, cinema, and theatre. Some of which include the Sky Original thriller,  
-_The Lazarus Project, The Other One, Dickensian, Life of Riley (_BBC), _Kiss Me Kate_ and the Netflix smash hit, _Bridgerton_.
+_The Lazarus Project_, _The Other One_, _Dickensian_, _Life of Riley_ (BBC), _Kiss Me Kate_ and the Netflix smash hit, _Bridgerton_.
 
 Caroline’s extraordinary theatre credits include: _Mrs Warren’s Profession, Jack Absolute Flies Again_ (National Theatre); _The Provoked Wife_ (RSC), _Me and My Girl_ (Chichester Festival Theatre); _The Hypocrite_ (The Hull Truck/RSC); _The Life and Times of Fanny Hill_ (Bristol Old Vic) _Relative Values_ (Theatre Royal Bath), _Oh What a Lovely War!_ (Theatre Royal Stratford East), _Terrible Advice_ (Menier Chocolate Factory), _Life after Scandal_ (Hampstead Theatre) and _The London Cuckolds_ (National Theatre).  
 
