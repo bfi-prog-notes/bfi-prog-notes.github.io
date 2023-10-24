@@ -55,7 +55,8 @@ Caroline has an extensive list of high-profile credits, spanning across TV, cine
 _The Lazarus Project, The Other One, Dickensian, Life of Riley (_BBC), _Kiss Me Kate_ and the Netflix smash hit, _Bridgerton_.
 
 Caroline’s extraordinary theatre credits include: _Mrs Warren’s Profession, Jack Absolute Flies Again_ (National Theatre); _The Provoked Wife_ (RSC), _Me and My Girl_ (Chichester Festival Theatre); _The Hypocrite_ (The Hull Truck/RSC); _The Life and Times of Fanny Hill_ (Bristol Old Vic) _Relative Values_ (Theatre Royal Bath), _Oh What a Lovely War!_ (Theatre Royal Stratford East), _Terrible Advice_ (Menier Chocolate Factory), _Life after Scandal_ (Hampstead Theatre_) and The London Cuckolds_ (National Theatre).  
-**A triple threat, Caroline has also starred in the films _Love Me Tinder_, opposite Tom Lorcan, _Miss Willoughby_ and _The Haunted Bookshop._**
+
+A triple threat, Caroline has also starred in the films _Love Me Tinder_, opposite Tom Lorcan, _Miss Willoughby_ and _The Haunted Bookshop._
 
 **Boyd Hilton (chair)** is a journalist, author, TV critic and broadcaster. As well as his two day jobs of Entertainment Director of _Heat_ magazine, where he has worked since its launch in 1999, and Contributing Editor of _Empire_ magazine, Boyd also wrote the book _Inside Little Britain_ with Matt Lucas and David Walliams. He has been a regular contributor to BBC Radio 5 Live and Radio 4, reviewing television, books and films for over two decades. He is also Features Editor and contributor to sport/style/culture magazine _Circle Zero Eight_, and has written for _GQ_, _Man About Town_, _The Guardian_ and _Observer_. Boyd also co-hosts the weekly Pilot TV podcast, covering cinematic television, and the Footballistically Arsenal podcast, covering… Arsenal. He also frequently hosts live on-stage TV and film events, panels and Q&As for BAFTA, the RTS and the BFI, ITV, BBC, Sky and many others.  
 <br>
@@ -101,6 +102,31 @@ UK 2023
 Episode 1 45 mins  
 
 Courtesy of Sky Max/Now  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2NDI4MDI4LC0xNzY3MzUwMDE5XX0=
+eyJoaXN0b3J5IjpbLTEyNjM5MDgwOTMsLTE3NjczNTAwMTldfQ
+==
 -->
