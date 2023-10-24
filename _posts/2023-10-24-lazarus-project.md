@@ -6,8 +6,8 @@ date: 2023-10-24
 readtime: true
 categories: [Events]
 tags: [Drama, Sci-Fi]
-metadata: 'UK 2023, 100 mins<br> Director: Horace Ové'
-pdf: '2023-10-24-playing-away.pdf'
+metadata: 'UK 2023, 45 mins<br> Director: Carl Tibbetts'
+pdf: '2023-10-24-lazarus-project.pdf'
 ---
 
 _+ Q&A with cast Paapa Essiedu, Caroline Quentin, Anjli Mohindra, writer Joe Barton and director Carl Tibbetts._
@@ -134,6 +134,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzIyMTQ0MTksLTE3NjczNTAwMTldfQ
-==
+eyJoaXN0b3J5IjpbODA3MjE3OTkxLC0xNzY3MzUwMDE5XX0=
 -->
