@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: The Lazarus Project 
+published: true
+date: 2023-10-24
+readtime: true
+categories: [Events]
+tags: [Drama, Sci-Fi]
+metadata: 'UK 2023, 100 mins<br> Director: Horace Ové'
+pdf: '2023-10-24-playing-away.pdf'
+---
 
 _+ Q&A with cast Paapa Essiedu, Caroline Quentin, Anjli Mohindra, writer Joe Barton and director Carl Tibbetts._
 
@@ -54,7 +61,7 @@ In 2020 Carl kicked off the dark crime noir series _We Hunt Together_ for BBC St
 Caroline has an extensive list of high-profile credits, spanning across TV, cinema, and theatre. Some of which include the Sky Original thriller,  
 _The Lazarus Project, The Other One, Dickensian, Life of Riley (_BBC), _Kiss Me Kate_ and the Netflix smash hit, _Bridgerton_.
 
-Caroline’s extraordinary theatre credits include: _Mrs Warren’s Profession, Jack Absolute Flies Again_ (National Theatre); _The Provoked Wife_ (RSC), _Me and My Girl_ (Chichester Festival Theatre); _The Hypocrite_ (The Hull Truck/RSC); _The Life and Times of Fanny Hill_ (Bristol Old Vic) _Relative Values_ (Theatre Royal Bath), _Oh What a Lovely War!_ (Theatre Royal Stratford East), _Terrible Advice_ (Menier Chocolate Factory), _Life after Scandal_ (Hampstead Theatre_) and The London Cuckolds_ (National Theatre).  
+Caroline’s extraordinary theatre credits include: _Mrs Warren’s Profession, Jack Absolute Flies Again_ (National Theatre); _The Provoked Wife_ (RSC), _Me and My Girl_ (Chichester Festival Theatre); _The Hypocrite_ (The Hull Truck/RSC); _The Life and Times of Fanny Hill_ (Bristol Old Vic) _Relative Values_ (Theatre Royal Bath), _Oh What a Lovely War!_ (Theatre Royal Stratford East), _Terrible Advice_ (Menier Chocolate Factory), _Life after Scandal_ (Hampstead Theatre) and _The London Cuckolds_ (National Theatre).  
 
 A triple threat, Caroline has also starred in the films _Love Me Tinder_, opposite Tom Lorcan, _Miss Willoughby_ and _The Haunted Bookshop._
 
@@ -127,6 +134,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjM5MDgwOTMsLTE3NjczNTAwMTldfQ
+eyJoaXN0b3J5IjpbLTE0MzIyMTQ0MTksLTE3NjczNTAwMTldfQ
 ==
 -->
