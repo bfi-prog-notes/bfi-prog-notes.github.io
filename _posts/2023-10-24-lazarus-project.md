@@ -82,42 +82,25 @@ _Producer:_ Benjamin Greenacre
 
 _Executive Producer:_ Johnny Capps
 
-_Executive Producer for Sky Studios:_ Paul Gilbert
+_Executive Producer for Sky Studios:_ Paul Gilbert  
+_Line Producer_: Rhys Perkins  
+_Script Supervisor:_ Chiara Carbonara  
+_Casting Director:_ Jill Trevellick  
+_1st Assistant Director:_ Dan Mumford  
+_Director of Photography:_ Susanne Salavati  
+_Editor:_ Vicky Tooms  
+_Production Designer:_ Hayden Matthews  
+_Costume Designer:_ Jo Slater  
+_Hair & Make-up Designer:_ Stephanie Lynne Smith  
+_Music by:_ Ben Lukas Boysen, Paul Emmerich  
+_Production Sound Mixer:_ Jen Annor  
+_Action Unit Director and Supervising Stunt Coordinator:_ Jason Oettle  
 
-_Line Producer_: Rhys Perkins
-
-_Script Supervisor:_ Chiara Carbonara
-
-_Casting Director:_ Jill Trevellick
-
-_1st Assistant Director:_ Dan Mumford
-
-_Director of Photography:_ Susanne Salavati
-
-_Editor:_ Vicky Tooms
-
-_Production Designer:_ Hayden Matthews
-
-_Costume Designer:_ Jo Slater
-
-_Hair & Make-up Designer:_ Stephanie Lynne Smith
-
-_Music by:_ Ben Lukas Boysen, Paul Emmerich
-
-_Production Sound Mixer:_ Jen Annor
-
-_Action Unit Director and Supervising Stunt Coordinator:_ Jason Oettle
-
-_Cast:_
-
-Paapa Essiedu _(George)_
-
-Anjli Mohindra _(Archie)_
-
-Rudi Dharmalingam _(Shiv)_
-
-Charly Clive _(Sarah)_
-
+**Cast**  
+Paapa Essiedu _(George)_  
+Anjli Mohindra _(Archie)_  
+Rudi Dharmalingam _(Shiv)_  
+Charly Clive _(Sarah)_  
 Elaine Tan _(Zhang)_  
 Sam Troughton _(Dr Samson)_  
 Vinette Robinson _(Janet)_  
@@ -129,7 +112,7 @@ Tom Burke _(Rebrov)_
 UK 2023  
 Episode 1 45 mins  
 
-Courtesy of Sky Max/Now
+Courtesy of Sky Max/Now  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTA3ODM3MjNdfQ==
+eyJoaXN0b3J5IjpbLTE3NjczNTAwMTldfQ==
 -->
