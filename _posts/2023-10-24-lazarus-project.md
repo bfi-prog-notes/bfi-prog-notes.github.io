@@ -54,34 +54,22 @@ In 2020 Carl kicked off the dark crime noir series _We Hunt Together_ for BBC St
 Caroline has an extensive list of high-profile credits, spanning across TV, cinema, and theatre. Some of which include the Sky Original thriller,  
 _The Lazarus Project, The Other One, Dickensian, Life of Riley (_BBC), _Kiss Me Kate_ and the Netflix smash hit, _Bridgerton_.
 
-Caroline’s extraordinary theatre credits include: _Mrs Warren’s Profession, Jack Absolute Flies Again_ (National Theatre); _The Provoked Wife_ (RSC), _Me and My Girl_ (Chichester Festival Theatre); _The Hypocrite_ (The Hull Truck/RSC); _The Life and Times of Fanny Hill_ (Bristol Old Vic) _Relative Values_ (Theatre Royal Bath), _Oh What a Lovely War!_ (Theatre Royal Stratford East), _Terrible Advice_ (Menier Chocolate Factory), _Life after Scandal_ (Hampstead Theatre_) and The London Cuckolds_ (National Theatre).
-
-A triple threat, Caroline has also starred in the films _Love Me Tinder_, opposite Tom Lorcan, _Miss Willoughby_ and _The Haunted Bookshop._
+Caroline’s extraordinary theatre credits include: _Mrs Warren’s Profession, Jack Absolute Flies Again_ (National Theatre); _The Provoked Wife_ (RSC), _Me and My Girl_ (Chichester Festival Theatre); _The Hypocrite_ (The Hull Truck/RSC); _The Life and Times of Fanny Hill_ (Bristol Old Vic) _Relative Values_ (Theatre Royal Bath), _Oh What a Lovely War!_ (Theatre Royal Stratford East), _Terrible Advice_ (Menier Chocolate Factory), _Life after Scandal_ (Hampstead Theatre_) and The London Cuckolds_ (National Theatre).  
+**A triple threat, Caroline has also starred in the films _Love Me Tinder_, opposite Tom Lorcan, _Miss Willoughby_ and _The Haunted Bookshop._**
 
 **Boyd Hilton (chair)** is a journalist, author, TV critic and broadcaster. As well as his two day jobs of Entertainment Director of _Heat_ magazine, where he has worked since its launch in 1999, and Contributing Editor of _Empire_ magazine, Boyd also wrote the book _Inside Little Britain_ with Matt Lucas and David Walliams. He has been a regular contributor to BBC Radio 5 Live and Radio 4, reviewing television, books and films for over two decades. He is also Features Editor and contributor to sport/style/culture magazine _Circle Zero Eight_, and has written for _GQ_, _Man About Town_, _The Guardian_ and _Observer_. Boyd also co-hosts the weekly Pilot TV podcast, covering cinematic television, and the Footballistically Arsenal podcast, covering… Arsenal. He also frequently hosts live on-stage TV and film events, panels and Q&As for BAFTA, the RTS and the BFI, ITV, BBC, Sky and many others.  
 <br>
-<![endif]-->
 
-**The Lazarus Project (series 2)**
-
-_Director:_ Carl Tibbetts
-
-_©:_ Sky Studios Limited
-
-_Created and Written by:_ Joe Barton
-
-_A_ Sky Original _programme_
-
-_An_ Urban Myth Films _production_
-
-_In association with:_ Sky Studios
-
-_In association with:_ Motion Content Group
-
-_Producer:_ Benjamin Greenacre
-
-_Executive Producer:_ Johnny Capps
-
+**THE LAZARUS PROJECT (series 2)**  
+_Director:_ Carl Tibbetts  
+_©:_ Sky Studios Limited  
+_Created and Written by:_ Joe Barton  
+_A_ Sky Original _programme_  
+_An_ Urban Myth Films _production_  
+_In association with:_ Sky Studios  
+_In association with:_ Motion Content Group  
+_Producer:_ Benjamin Greenacre  
+_Executive Producer:_ Johnny Capps  
 _Executive Producer for Sky Studios:_ Paul Gilbert  
 _Line Producer_: Rhys Perkins  
 _Script Supervisor:_ Chiara Carbonara  
@@ -114,5 +102,5 @@ Episode 1 45 mins
 
 Courtesy of Sky Max/Now  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjczNTAwMTldfQ==
+eyJoaXN0b3J5IjpbMzI2NDI4MDI4LC0xNzY3MzUwMDE5XX0=
 -->
