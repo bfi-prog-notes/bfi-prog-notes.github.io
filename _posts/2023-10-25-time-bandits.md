@@ -41,21 +41,15 @@ _Gaffers:_ Roy Rodhouse, Reg Parsons
 _Best Boy:_ Chuck Finch  
 _Stills:_ Clive Coote  
 _Optical Effects:_ Kent Houston, Paul Whitbread  
-_Assisted by:_ Tim Ollive, Dennis De Groot,
-
-Peerless Camera Company  
+_Assisted by:_ Tim Ollive, Dennis De Groot, Peerless Camera Company  
 _Matte Paintings:_ Ray Caple  
 _Special Effects Senior Technician:_ John Bunker  
 _Special Effects Technician:_ Ross King  
-_Special Effects Consultants:_ Chris Verner,
-
-Andy Thompson  
-_Special Effects Modellers:_ Chris Overs,  
-Lewis Coleman  
+_Special Effects Consultants:_ Chris Verner, Andy Thompson  
+_Special Effects Modellers:_ Chris Overs,  Lewis Coleman  
 _Trolls Made by:_ Ray Scott  
 _Wireman:_ Bob Harman  
-_Modelmaker:_ Val Charlton
-
+_Modelmaker:_ Val Charlton  
 _Models Photographed by:_ Julian Doyle  
 _Puppet Show by:_ John Styles  
 _Editor:_ Julian Doyle  
@@ -64,25 +58,20 @@ _2nd_ _Assistant Editor:_ Adam Unger
 _Production Designer:_ Milly Burns  
 _Art Director:_ Norman Garwood  
 _Assistant Art Director:_ Celia Barnett  
-_Fortress of Ultimate Darkness by:_  
-Westbridge Studios  
+_Fortress of Ultimate Darkness by:_  Westbridge Studios  
 _Draughtsman:_ Steve Cooper  
 _Sculptors:_ Geoff Rivers Bland, Laurie Warburton  
 _Production Buyer:_ Karen Brookes  
 _Property Master:_ Peter Grant  
-_Construction Manager:_ Peter Verard
-
+_Construction Manager:_ Peter Verard  
 _Costumes Designed by:_ Jim Acheson  
 _In association with:_ Hazel Coté  
 _Assistant Costume Designer:_ T. Stephen Miles  
 _Costumiers:_ Richard Cattermole, Dorothy Williams  
-_Wardrobe Mistress:_ Dorothea Smylie
-
-_Hairdressing/Make-up by:_ Maggie Weston,  
-Elaine Carew  
+_Wardrobe Mistress:_ Dorothea Smylie  
+_Hairdressing/Make-up by:_ Maggie Weston,  Elaine Carew  
 _Wigs/Beards Made by:_ Kenneth Lintott  
-_Music Score Composed/Orchestrated by:_  
-Mike Moran  
+_Music Score Composed/Orchestrated by:_  Mike Moran  
 _Greek Dance Music:_ Trevor Jones  
 _Additional Music:_ Music De Wolfe, Ready Music  
 _Songs/Additional Material by:_ George Harrison  
@@ -98,20 +87,16 @@ _Music Production Sound Effects:_ André Jacquemin
 _Stunts Arranged by:_ Peter Brayham, Terry Yorke  
 _Stunt Knight:_ Brian Bowes  
 Made at Lee International Studios  
-_Cast:_
 
+**Cast**  
 John Cleese _(Robin Hood)_  
 Sean Connery _(King Agamemnon/fireman)_  
 Shelley Duvall _(Pansy)_  
 Katherine Helmond _(Mrs Ogre)_  
-Ian Holm _(Napoleon)_
-
-Michael Palin _(Vincent)_
-
-Ralph Richardson _(Supreme Being)_
-
-Peter Vaughan _(Winston, the ogre)_
-
+Ian Holm _(Napoleon)_  
+Michael Palin _(Vincent)_  
+Ralph Richardson _(Supreme Being)_  
+Peter Vaughan _(Winston, the ogre)_  
 David Warner _(Evil Genius)_  
 David Rappaport _(Randall)_  
 Kenny Baker _(Fidgit)_  
@@ -119,12 +104,10 @@ Malcolm Dixon _(Strutter)_
 Mike Edmonds _(Og)_  
 Jack Purvis _(Wally)_  
 Tiny Ross _(Vermin)_  
-Craig Warnock _(Kevin)_
-
+Craig Warnock _(Kevin)_  
 David Daker _(Trevor, Kevin’s father)_  
 Sheila Fearn _(Diane, Kevin’s mother)_  
-Jim Broadbent _(compère)_
-
+Jim Broadbent _(compère)_  
 John Young _(Reginald)_  
 Myrtle Devenish _(Beryl)_  
 Brian Bowes _(stunt knight/hussar)_  
@@ -133,22 +116,17 @@ Terence Bayler _(Lucien)_
 Preston Lockwood _(Neguy)_  
 Charles McKeown _(theatre manager)_  
 David Leland _(puppeteer)_  
-John Hughman _(The Great Rumbozo)_
-
-Derrick O’Connor _(robber leader)_
-
-Neil McCarthy _(Marion, 3rd robber)_
-
+John Hughman _(The Great Rumbozo)_  
+Derrick O’Connor _(robber leader)_  
+Neil McCarthy _(Marion, 3rd robber)_  
 Declan Mulholland _(2nd robber)_  
 Peter Jonfield _(arm wrestler)_  
-Derek Deadman _(Robert)_
-
+Derek Deadman _(Robert)_  
 Jerold Wells _(Benson)_  
 Roger Frost _(Cartwright)_  
 Martin Carroll _(Baxi Brazilia III)_  
 Marcus Powell _(Horseflesh)_  
-Winston Dennis _(bull-headed warrior)_
-
+Winston Dennis _(bull-headed warrior)_  
 Del Baker _(Greek fighting warrior)_  
 Juliette James _(Greek Queen Clytemnestra)_  
 Ian Muir _(giant)_  
@@ -160,13 +138,12 @@ Edwin Finn _(Supreme Being’s face)_
 James Acheson _(man lifting up the horn)_ *  
 Terry Gilliam _(voice of fireman)_ *  
 Ray Cooper _(hands of God at end)_ *  
-UK 1981©
 
-116 mins
-
+UK 1981©  
+116 mins  
 Digital
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzMyNTQxNl19
+eyJoaXN0b3J5IjpbNDA0NDE3NTEwXX0=
 -->
