@@ -6,7 +6,7 @@ date: 2023-10-25
 readtime: true
 categories: ['EXPERIMENTA']
 tags: Experimental]
-metadata: 'UK 2017, 88 mins<br> Director: Alfred Hitchcock'
+metadata: 'UK 2017, 88 mins<br> Director: Andrea Luka Zimmerman'
 pdf: '2023-10-25-erase-and-forget.pdf'
 ---
 
@@ -15,8 +15,7 @@ _+ Andrea Luka Zimmerman and James Mackay (via Zoom) in conversation with BFI Na
 Two films from the BFI National Archive explore the charged and imagistic power of the 1980s Hollywood action hero alongside the complex representation of the male nude. These bold artefacts return us to an era that celebrated and visually pawed gun-toting, oiled, muscular hunks, yet feared male flesh and close homosexual connection. _Erase and Forget_ digs deep into the story of survivalist, mercenary and inspiration for Rambo, Bo Gritz, with whom Andrea Luka Zimmerman works to unpick his contradictory, politically complex life. The playfully provocative _What Can I Do with a Male Nude?_ questions the conflicted status of the naked man across classical art and contemporary cinema, as well as in the home. The late Ron Peck had always hoped his film could be shown alongside _Rambo_.  
 **bfi.org.uk** 
 
-**Richard Dyer: ‘Action!’**
-
+**Richard Dyer: ‘Action!’**  
 In contemporary cinema, it is the action film that most characteristically delivers speed in a story. One has only to think of the stars of such films – Schwarzenegger, Stallone, Bruce Willis, Harrison Ford, Steven Seagal, Jean-Claude Van Damme, and now Keanu Reeves – to have an indication of whose thrills are being legitimated: straight white men. This doesn’t mean that no one else can possibly imagine having the thrills alongside Arnie or Keanu, but it does contribute to the reproduction of a masculine structure of feeling. Extreme sensation is represented as experienced not within the body, but in the body’s contact with the world, its rush, its expansiveness, its physical stress and challenge. There is nothing wrong with such feelings of extreme and, as it were, worldly sensation, but the movies tie them to male characters and male environments, suggesting they are really only appropriate to men. This is not a matter of saying that I want – let alone my wanting women to want – to have quite this kind of sensational experience, but that there is a deeper, underlying pattern of feeling, to do with freedom of movement, confidence in the body, engagement with the material world, that is coded as male (and straight and white, too) but to which all humans need access.
 
 Action movies as the most common contemporary form of the cinema of sensation ally the speed they offer with white male characters. Women and people of colour may be let in on the action, but either in secondary roles or with a sense of their exceptionality. Yet the experience action movies offer is in another way not so traditionally masculine at all.
