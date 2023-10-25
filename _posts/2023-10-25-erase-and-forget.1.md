@@ -103,7 +103,20 @@ John Brown _(the model)_
 UK 1985  
 24 mins  
 
-Total running time 140 mins
+Total running time 140 mins  
+<br>
+
+**REGULAR PROGRAMME**  
+**Relaxed Screening: Time Bandits** + intro and discussion  
+Mon 30 Oct 18:15  
+**Woman with a Movie Camera: Preview: Girl** + Q&A with director Adura Onashile  
+Tue 7 Nov 20:40  
+**African Odysseys: Preview: Mami Wata** + intro & panel discussion with director C.J. ‘Fiery’ Obasi and producer Oge Obasi  
+Sat 18 Nov 14:00  
+**Restored: Twilight** Szürkület + intro by Jason Wood, BFI Executive Director of Public Programmes and Audiences  
+Tue 21 Nov 18:20  
+**Relaxed Screening: Run Lola Run** Lola Rennt  
+Mon 27 Nov 18:40  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTk0NzM3Myw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMzMxNDEzMjI5LDczMDk5ODExNl19
 -->
