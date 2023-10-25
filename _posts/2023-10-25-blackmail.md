@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Blackmail
+published: true
+date: 2023-10-25
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Thriller, Drama, Crime]
+metadata: 'UK 1929, 76 mins<br> Director: Michael Curtiz'
+pdf: '2023-10-20-casablanca.pdf'
+---
 
 
 
@@ -35,5 +45,5 @@ But to get back to the early work on a film. With the help of my wife, who does 
 **Alfred Hitchcock, _Sight and Sound_, Summer 1937**  
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDMyOTY2MjNdfQ==
+eyJoaXN0b3J5IjpbLTYxODY3OTI3OF19
 -->
