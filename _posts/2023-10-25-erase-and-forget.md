@@ -4,9 +4,9 @@ title: Erase and Forget
 published: true
 date: 2023-10-25
 readtime: true
-categories: ['Experimenta']
-tags: []
-metadata: 'UK 1929, 76 mins<br> Director: Alfred Hitchcock'
+categories: ['EXPERIMENTA']
+tags: Experimental]
+metadata: 'UK 2017, 88 mins<br> Director: Alfred Hitchcock'
 pdf: '2023-10-25-blackmail.pdf'
 ---
 
@@ -51,5 +51,5 @@ He has been a visiting lecturer and has appeared at many film festival events as
 
 He now mainly concentrates on moving image work for galleries and festival events.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc2MzYxNTEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTYwNzA1NDEyMiw3MzA5OTgxMTZdfQ==
 -->
