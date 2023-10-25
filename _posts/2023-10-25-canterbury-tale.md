@@ -18,186 +18,162 @@ That is the simple ‘popular’ story in this film, but it is interwoven with a
 <br><br>
 
 **A CANTERBURY TALE**<br>
-
 _Directed by:_ Michael Powell, Emeric Pressburger<br>
-
 _Production Company:_ Archers Film Productions<br>
-
 _Produced by:_ Michael Powell, Emeric Pressburger<br>
-
 _Production Manager:_ George Maynard<br>
-
 _Assistant Director:_ George Busby<br>
-
 _Written by:_ Michael Powell, Emeric Pressburger<br>
+_Photographed by:_ Erwin Hillier<br>
+_Edited by:_ John Seabourne<br>
+_Production Designed by:_ Alfred Junge<br>
+_Music Composed by:_ Allan Gray<br>
+_Music Conducted by:_ Walter Goehr<br>
+_Sound Recorded by:_ C.C. Stevens, Desmond Dew<br>
+_Exteriors Recorded by:_ Alan Whatley<br>
+_Sound System:_ Western Electric<br>
+_Period Advisor:_ Herbert Norris<br>
+_Thanked in credits:_ Dean and Chapter of Canterbury, The Very Reverend the Dean of St Albans, Mayor of Canterbury, Corporation of Canterbury, Women’s Land Army, United States Army, Citizens of Canterbury, Men and Women of Kent<br>
+_Narrator:_ Esmond Knight<br>
+_Made at:_ Denham Studios<br>
+_Logo:_ D&P Studios<br>
 
-_Photographed by:_ Erwin Hillier
-
-_Edited by:_ John Seabourne
-
-_Production Designed by:_ Alfred Junge
-
-_Music Composed by:_ Allan Gray
-
-_Music Conducted by:_ Walter Goehr
-
-_Sound Recorded by:_ C.C. Stevens, Desmond Dew
-
-_Exteriors Recorded by:_ Alan Whatley
-
-_Sound System:_ Western Electric
-
-_Period Advisor:_ Herbert Norris
-
-_Thanked in credits:_ Dean and Chapter of Canterbury, The Very Reverend the Dean of St Albans, Mayor of Canterbury, Corporation of Canterbury, Women’s Land Army, United States Army, Citizens of Canterbury, Men and Women of Kent
-
-_Narrator:_ Esmond Knight
-
-_Made at:_ Denham Studios
-
-_Logo:_ D&P Studios
-
-_uncredited_
-
-_Production Company:_ Independent Producers
-
-_2nd Assistant Directors:_ John Arnold,  
-George K. Aldersley
-
-_3rd Assistant Director:_ Parry Jones
-
-_Continuity:_ Patricia Arnold
-
-_Camera Operator:_ Cecil Cooney
+_uncredited_<br>
+_Production Company:_ Independent Producers<br>
+_2nd Assistant Directors:_ John Arnold,  George K. Aldersley<br>
+_3rd Assistant Director:_ Parry Jones<br>
+_Continuity:_ Patricia Arnold<br>
+_Camera Operator:_ Cecil Cooney<br>
 
 _2nd Camera Operators:_ George Stretton,  
-Desmond Dickinson
+Desmond Dickinson<br>
 
-_Focus Puller:_ Eric Besche
+_Focus Puller:_ Eric Besche<br>
 
 _Clapper Loaders:_ Derek Browne, S. Shrimpton,  
-Jim Body, J. Demaine
+Jim Body, J. Demaine<br>
 
-_Stills:_ Ian Gibson-Smith
+_Stills:_ Ian Gibson-Smith<br>
 
-_Special Portraits:_ Fred Daniels
+_Special Portraits:_ Fred Daniels<br>
 
-_Back Projection:_ Charles Staffell
+_Back Projection:_ Charles Staffell<br>
 
-_Models:_ W. Percy Day
+_Models:_ W. Percy Day<br>
 
-_Assistant Editor:_ David Powell
+_Assistant Editor:_ David Powell<br>
 
-_2nd Assistant Editors:_ Roger Cherrill, Jim Pople
+_2nd Assistant Editors:_ Roger Cherrill, Jim Pople<br>
 
 _Draughtsmen:_ Elliot Scott, William Kellner,  
-Harry Hurdell, Herbert Westbrook
+Harry Hurdell, Herbert Westbrook<br>
 
-_Make-up:_ George Blackler
+_Make-up:_ George Blackler<br>
 
-_Sound Camera Operator (Interiors):_ Winston Ryder
+_Sound Camera Operator (Interiors):_ Winston Ryder<br>
 
-_Sound Camera Operator (Exteriors):_ Sidney Hayers
+_Sound Camera Operator (Exteriors):_ Sidney Hayers<br>
 
-_Exteriors Boom Operator:_ George Paternoster
+_Exteriors Boom Operator:_ George Paternoster<br>
 
-_Interiors Boom Operator:_ Gordon K. McCallum
+_Interiors Boom Operator:_ Gordon K. McCallum<br>
 
-_Cast:_
+_Cast:_<br>
 
-Eric Portman _(Thomas Colpeper, J.P.)_
+Eric Portman _(Thomas Colpeper, J.P.)_<br>
 
-Sheila Sim _(Alison Smith)_
+Sheila Sim _(Alison Smith)_<br>
 
-Dennis Price _(Sergeant Peter Gibbs)_
+Dennis Price _(Sergeant Peter Gibbs)_<br>
 
 Sergeant John Sweet (U.S. Army)  
-_(Sergeant Bob Johnson)_
+_(Sergeant Bob Johnson)_<br>
 
-Esmond Knight _(Seven-Sisters soldier/village idiot)_
+Esmond Knight _(Seven-Sisters soldier/village idiot)_<br>
 
-Charles Hawtrey _(Thomas Duckett)_
+Charles Hawtrey _(Thomas Duckett)_<br>
 
-Hay Petrie _(Woodcock)_
+Hay Petrie _(Woodcock)_<br>
 
-George Merritt _(Ned Horton)_
+George Merritt _(Ned Horton)_<br>
 
-Edward Rigby _(Jim Horton)_
+Edward Rigby _(Jim Horton)_<br>
 
-Freda Jackson _(Prudence Honeywood)_
+Freda Jackson _(Prudence Honeywood)_<br>
 
-Betty Jardine _(Fee Baker)_
+Betty Jardine _(Fee Baker)_<br>
 
-Eliot Makeham _(organist)_
+Eliot Makeham _(organist)_<br>
 
-Harvey Golden _(Sergeant Roczinsky)_
+Harvey Golden _(Sergeant Roczinsky)_<br>
 
-Leonard Smith _(Leslie)_
+Leonard Smith _(Leslie)_<br>
 
-James Tamsitt _(Terry Holmes)_
+James Tamsitt _(Terry Holmes)_<br>
 
-David Todd _(David)_
+David Todd _(David)_<br>
 
-Beresford Egan _(PC Overden)_
+Beresford Egan _(PC Overden)_<br>
 
-Antony Holles _(Sergeant Bassett)_
+Antony Holles _(Sergeant Bassett)_<br>
 
-Maude Lambert _(Miss Grainger)_
+Maude Lambert _(Miss Grainger)_<br>
 
-Wally Bosco _(ARP warden)_
+Wally Bosco _(ARP warden)_<br>
 
-Charles Paton _(Ernie Brooks)_
+Charles Paton _(Ernie Brooks)_<br>
 
-Jane Millican _(Susanna Foster)_
+Jane Millican _(Susanna Foster)_<br>
 
-John Slater _(Sergeant Len)_
+John Slater _(Sergeant Len)_<br>
 
-Michael Golden _(Sergeant Smale)_
+Michael Golden _(Sergeant Smale)_<br>
 
-Graham Moffatt _(Sergeant ‘Stuffy’)_
+Graham Moffatt _(Sergeant ‘Stuffy’)_<br>
 
-Esma Cannon _(Agnes)_
+Esma Cannon _(Agnes)_<br>
 
-Mary Line _(Leslie’s mother)_
+Mary Line _(Leslie’s mother)_<br>
 
-Winifred Swaffer _(Mrs Horton)_
+Winifred Swaffer _(Mrs Horton)_<br>
 
-Michael Howard _(Archie)_
+Michael Howard _(Archie)_<br>
 
-Judith Furse _(Dorothy Bird)_
+Judith Furse _(Dorothy Bird)_<br>
 
-Barbara Waring _(Polly Finn)_
+Barbara Waring _(Polly Finn)_<br>
 
-Jean Shepeard _(Gwladys Swinton)_
+Jean Shepeard _(Gwladys Swinton)_<br>
 
-Margaret Scudamore _(Mrs Colpeper)_
+Margaret Scudamore _(Mrs Colpeper)_<br>
 
-Joss Ambler _(police inspector)_
+Joss Ambler _(police inspector)_<br>
 
-Jessie James _(waitress)_
+Jessie James _(waitress)_<br>
 
-Kathleen Lucas _(passer-by)_
+Kathleen Lucas _(passer-by)_<br>
 
-H.F. Maltby _(Mr Portal)_
+H.F. Maltby _(Mr Portal)_<br>
 
-Eric Maturin _(Geoffrey’s father)_
+Eric Maturin _(Geoffrey’s father)_<br>
 
-Parry Jones Jnr _(Arthur)_
+Parry Jones Jnr _(Arthur)_<br>
 
-_uncredited_
+_uncredited_<br>
 
-Harriet Petworth _(prioress)_
+Harriet Petworth _(prioress)_<br>
 
-Glyn Rowlands _(doctor of physics, pilgrim)_
+Glyn Rowlands _(doctor of physics, pilgrim)_<br>
 
-UK 1944
+UK 1944<br>
 
 125 mins
 
 35mm – A BFI National Archive print (Sat 11 Nov) and Digital (all other screenings)
 
 The screening on Wed 25 Oct will be introduced  
-by academic Thirza Wakefield
+by academic Thirza Wakefield<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTgyODY1Nl19
+eyJoaXN0b3J5IjpbMTMyNDMyNjI5Ml19
 -->
