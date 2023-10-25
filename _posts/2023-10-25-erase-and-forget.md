@@ -7,7 +7,7 @@ readtime: true
 categories: ['EXPERIMENTA']
 tags: Experimental]
 metadata: 'UK 2017, 88 mins<br> Director: Alfred Hitchcock'
-pdf: '2023-10-25-blackmail.pdf'
+pdf: '2023-10-25-erase-and-forget.pdf'
 ---
 
 _+ Andrea Luka Zimmerman and James Mackay (via Zoom) in conversation with BFI National Archive curator William Fowler_
@@ -50,6 +50,87 @@ In addition to working with Jarman, Mackay also produced film projects for Ron P
 He has been a visiting lecturer and has appeared at many film festival events as a guest speaker.
 
 He now mainly concentrates on moving image work for galleries and festival events.
+<br>
+<![endif]-->
+
+**Erase and Forget**
+
+_Directed by_: Andrea Luka Zimmerman  
+_©_: Erase and Forget Films Limited  
+_An_ Andrea Luka Zimmerman/Bright Wire Films _production_
+
+_Supported by_: The Wapping Project Commissions  
+_With funding from_: Women’s Playhouse Trust  
+_Developed with the support of_: FLAMIN,
+
+Arts Council England, New Danish Screen  
+_Additional support from the_:
+
+CTBF John Brabourne Awards  
+_Executive Producera_: Gareth Evans,
+
+Meg Clark  
+_Produced by_: Andrea Luka Zimmerman,
+
+Ameenah Ayub Allen  
+_Associate Producers_: Lærke Vindahl,
+
+Michael Uwemedimo  
+_Director’s Assistant_: Therese Henningsen  
+_Written by_: Taina Galis,
+
+Andrea Luka Zimmerman  
+_This film grew from early collaboration with_: Vision Machine (2003-2006), Christine Cynn,
+
+Joshua Oppenheimer, Michael Uwemedimo, Andrea Luka Zimmerman  
+_Based on PhD research by_:
+
+Andrea Luka Zimmerman  
+_Cinematography by_: Andrea Luka Zimmerman, Taina Galis, Adam Philp  
+_Additional Camera_: Michael Uwemedimo  
+_Edited by_: Taina Galis  
+_On-line Editor_: Filipe Fernandes  
+_Additional Editing_: Andrea Luka Zimmerman, Ariadna Fatjó-Vilas  
+_Titles_: Berta Valverde  
+_Colourist_: Filipe Fernandes  
+_Original Music_: Adam Paroussos  
+_Sound Design_: Nick Baldock, Adrian Furdui,
+
+Serin Kucuk  
+_Sound Re-recording Mixer_: Ben Carr  
+_Foley Editor_: James Matthews  
+_Thanks_: John Akomfrah, Malcolm Le Grice
+
+**With**  
+Bo Gritz  
+
+UK 2017  
+88 mins  
+
+**WHAT CAN I DO WITH A MALE NUDE**  
+_Director_: Ron Peck  
+_Production Company_: Greater London Arts Association  
+_Financial Assistance_: British Film Institute Production Board  
+_Executive Producer_: Maureen McCue  
+_Producer_: James Mackay  
+_Production Manager_: Stuart Dollin  
+_Assistant Director_: Mark Ayres  
+_Script_: Ron Peck  
+_Photography_: Christopher Hughes  
+_Lighting_: James Mackay, Mark Ayres  
+_Editors_: Peter Cartwright, Christopher Hughes  
+_Costumes_: William Pierce  
+_Music_: Julian Wastall  
+_Sound Recording_: Steve Farrar  
+
+**Cast**  
+John Levitt _(the photographer)_  
+John Brown _(the model)_  
+
+UK 1985  
+24 mins  
+
+Total running time 140 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzA1NDEyMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE3NjQyNDc3MzIsNzMwOTk4MTE2XX0=
 -->
