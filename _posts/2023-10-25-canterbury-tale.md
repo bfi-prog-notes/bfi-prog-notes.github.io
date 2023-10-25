@@ -44,136 +44,74 @@ _2nd Assistant Directors:_ John Arnold,  George K. Aldersley<br>
 _3rd Assistant Director:_ Parry Jones<br>
 _Continuity:_ Patricia Arnold<br>
 _Camera Operator:_ Cecil Cooney<br>
-
-_2nd Camera Operators:_ George Stretton,  
-Desmond Dickinson<br>
-
+_2nd Camera Operators:_ George Stretton,  Desmond Dickinson<br>
 _Focus Puller:_ Eric Besche<br>
-
-_Clapper Loaders:_ Derek Browne, S. Shrimpton,  
-Jim Body, J. Demaine<br>
-
+_Clapper Loaders:_ Derek Browne, S. Shrimpton,  Jim Body, J. Demaine<br>
 _Stills:_ Ian Gibson-Smith<br>
-
 _Special Portraits:_ Fred Daniels<br>
-
 _Back Projection:_ Charles Staffell<br>
-
 _Models:_ W. Percy Day<br>
-
 _Assistant Editor:_ David Powell<br>
-
 _2nd Assistant Editors:_ Roger Cherrill, Jim Pople<br>
-
-_Draughtsmen:_ Elliot Scott, William Kellner,  
-Harry Hurdell, Herbert Westbrook<br>
-
+_Draughtsmen:_ Elliot Scott, William Kellner,  Harry Hurdell, Herbert Westbrook<br>
 _Make-up:_ George Blackler<br>
-
 _Sound Camera Operator (Interiors):_ Winston Ryder<br>
-
 _Sound Camera Operator (Exteriors):_ Sidney Hayers<br>
-
 _Exteriors Boom Operator:_ George Paternoster<br>
-
 _Interiors Boom Operator:_ Gordon K. McCallum<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Eric Portman _(Thomas Colpeper, J.P.)_<br>
-
 Sheila Sim _(Alison Smith)_<br>
-
 Dennis Price _(Sergeant Peter Gibbs)_<br>
-
-Sergeant John Sweet (U.S. Army)  
-_(Sergeant Bob Johnson)_<br>
-
+Sergeant John Sweet (U.S. Army)  _(Sergeant Bob Johnson)_<br>
 Esmond Knight _(Seven-Sisters soldier/village idiot)_<br>
-
 Charles Hawtrey _(Thomas Duckett)_<br>
-
 Hay Petrie _(Woodcock)_<br>
-
 George Merritt _(Ned Horton)_<br>
-
 Edward Rigby _(Jim Horton)_<br>
-
 Freda Jackson _(Prudence Honeywood)_<br>
-
 Betty Jardine _(Fee Baker)_<br>
-
 Eliot Makeham _(organist)_<br>
-
 Harvey Golden _(Sergeant Roczinsky)_<br>
-
 Leonard Smith _(Leslie)_<br>
-
 James Tamsitt _(Terry Holmes)_<br>
-
 David Todd _(David)_<br>
-
 Beresford Egan _(PC Overden)_<br>
-
 Antony Holles _(Sergeant Bassett)_<br>
-
 Maude Lambert _(Miss Grainger)_<br>
-
 Wally Bosco _(ARP warden)_<br>
-
 Charles Paton _(Ernie Brooks)_<br>
-
 Jane Millican _(Susanna Foster)_<br>
-
 John Slater _(Sergeant Len)_<br>
-
 Michael Golden _(Sergeant Smale)_<br>
-
 Graham Moffatt _(Sergeant ‘Stuffy’)_<br>
-
 Esma Cannon _(Agnes)_<br>
-
 Mary Line _(Leslie’s mother)_<br>
-
 Winifred Swaffer _(Mrs Horton)_<br>
-
 Michael Howard _(Archie)_<br>
-
 Judith Furse _(Dorothy Bird)_<br>
-
 Barbara Waring _(Polly Finn)_<br>
-
 Jean Shepeard _(Gwladys Swinton)_<br>
-
 Margaret Scudamore _(Mrs Colpeper)_<br>
-
 Joss Ambler _(police inspector)_<br>
-
 Jessie James _(waitress)_<br>
-
 Kathleen Lucas _(passer-by)_<br>
-
 H.F. Maltby _(Mr Portal)_<br>
-
 Eric Maturin _(Geoffrey’s father)_<br>
-
 Parry Jones Jnr _(Arthur)_<br>
 
 _uncredited_<br>
-
 Harriet Petworth _(prioress)_<br>
-
 Glyn Rowlands _(doctor of physics, pilgrim)_<br>
 
 UK 1944<br>
-
 125 mins
 
 35mm – A BFI National Archive print (Sat 11 Nov) and Digital (all other screenings)
 
-The screening on Wed 25 Oct will be introduced  
-by academic Thirza Wakefield<br>
+The screening on Wed 25 Oct will be introduced  by academic Thirza Wakefield<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDMyNjI5Ml19
+eyJoaXN0b3J5IjpbMTE5NTc3NzM5Nl19
 -->
