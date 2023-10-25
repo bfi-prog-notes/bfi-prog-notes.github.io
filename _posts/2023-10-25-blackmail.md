@@ -6,11 +6,9 @@ date: 2023-10-25
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Thriller, Drama, Crime]
-metadata: 'UK 1929, 76 mins<br> Director: Michael Curtiz'
-pdf: '2023-10-20-casablanca.pdf'
+metadata: 'UK 1929, 76 mins<br> Director: Alfred Hitchcock'
+pdf: '2023-10-25-blackmail.pdf'
 ---
-
-
 
 _+ intro by Bryony Dixon, BFI National Archive Curator (Wednesday 25 October)_
 
@@ -44,6 +42,46 @@ That was the ending I wanted for _Blackmail_, but I had to change it for commerc
 But to get back to the early work on a film. With the help of my wife, who does the technical continuity, I plan out a script very carefully, hoping to follow it exactly, all the way through, when shooting starts. In fact, this working on the script is the real making of the film, for me. When I’ve done it, the film is finished already in my mind. Usually, too, I don’t find it necessary to do more than supervise the editing myself.  
 **Alfred Hitchcock, _Sight and Sound_, Summer 1937**  
 <br>
+
+**BLACKMAIL**  
+_Director:_ Alfred Hitchcock  
+_Production Company:_  
+British International Pictures  
+_Assistant Director:_ Frank Mills  
+_Adaptation:_ Alfred Hitchcock  
+_Based on the play by:_ Charles Bennett  
+_Director of Photography:_ Jack Cox  
+_Editor:_ Emile de Ruelle  
+_Art Director:_ W.C. Arnold  
+_Studio:_ Elstree Studios  
+_uncredited_  
+_Producer:_ John Maxwell  
+_Camera Assistant:_ Derick Williams  
+_Clapper Boy:_ Ronald Neame  
+_Camera Assistant:_ Alfred Roome  
+_Stills:_ Michael Powell  
+
+**Cast**  
+Anny Ondra _(Alice White)_  
+Sara Allgood _(Mrs White)_  
+Charles Paton _(Mr White)_  
+John Longden _(Frank Webber)_  
+Donald Calthrop _(Tracy)_  
+Cyril Ritchard _(Crewe, the artist)_  
+Hannah Jones _(the landlady)_  
+Sam Livesey _(the chief inspector)_  
+_uncredited_  
+Percy Parsons _(arrested man)_  
+Johnny Butt _(doorman)_  
+Phyllis Konstam _(gossiping neighbour)_  
+Ex. Det. Sgt. Bishop _(the detective sergeant)_  
+
+UK 1929  
+76 mins  
+Digital  
+
+With live piano accompaniment by
+Costas Fotopoulos  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODY3OTI3OF19
+eyJoaXN0b3J5IjpbODA3MTA1MzU3XX0=
 -->
