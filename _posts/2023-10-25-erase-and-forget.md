@@ -1,11 +1,19 @@
-
-<![endif]-->
+---
+layout: post
+title: Erase and Forget
+published: true
+date: 2023-10-25
+readtime: true
+categories: ['Experimenta']
+tags: []
+metadata: 'UK 1929, 76 mins<br> Director: Alfred Hitchcock'
+pdf: '2023-10-25-blackmail.pdf'
+---
 
 _+ Andrea Luka Zimmerman and James Mackay (via Zoom) in conversation with BFI National Archive curator William Fowler_
 
-Two films from the BFI National Archive explore the charged and imagistic power of the 1980s Hollywood action hero alongside the complex representation of the male nude. These bold artefacts return us to an era that celebrated and visually pawed gun-toting, oiled, muscular hunks, yet feared male flesh and close homosexual connection. _Erase and Forget_ digs deep into the story of survivalist, mercenary and inspiration for Rambo, Bo Gritz, with whom Andrea Luka Zimmerman works to unpick his contradictory, politically complex life. The playfully provocative _What Can I Do with a Male Nude?_ questions the conflicted status of the naked man across classical art and contemporary cinema, as well as in the home. The late Ron Peck had always hoped his film could be shown alongside _Rambo_.
-
-bfi.org.uk
+Two films from the BFI National Archive explore the charged and imagistic power of the 1980s Hollywood action hero alongside the complex representation of the male nude. These bold artefacts return us to an era that celebrated and visually pawed gun-toting, oiled, muscular hunks, yet feared male flesh and close homosexual connection. _Erase and Forget_ digs deep into the story of survivalist, mercenary and inspiration for Rambo, Bo Gritz, with whom Andrea Luka Zimmerman works to unpick his contradictory, politically complex life. The playfully provocative _What Can I Do with a Male Nude?_ questions the conflicted status of the naked man across classical art and contemporary cinema, as well as in the home. The late Ron Peck had always hoped his film could be shown alongside _Rambo_.  
+**bfi.org.uk** 
 
 **Richard Dyer: ‘Action!’**
 
@@ -43,5 +51,5 @@ He has been a visiting lecturer and has appeared at many film festival events as
 
 He now mainly concentrates on moving image work for galleries and festival events.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3OTg2MDY5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIwMDc2MzYxNTEsNzMwOTk4MTE2XX0=
 -->
