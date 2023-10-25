@@ -43,41 +43,24 @@ He has been a visiting lecturer and has appeared at many film festival events as
 
 He now mainly concentrates on moving image work for galleries and festival events.
 <br>
-<![endif]-->
 
-**Erase and Forget**
-
+**ERASE AND FORGET**  
 _Directed by_: Andrea Luka Zimmerman  
 _©_: Erase and Forget Films Limited  
-_An_ Andrea Luka Zimmerman/Bright Wire Films _production_
-
+_An_ Andrea Luka Zimmerman/Bright Wire Films _production_  
 _Supported by_: The Wapping Project Commissions  
 _With funding from_: Women’s Playhouse Trust  
-_Developed with the support of_: FLAMIN,
-
-Arts Council England, New Danish Screen  
-_Additional support from the_:
-
-CTBF John Brabourne Awards  
+_Developed with the support of_: FLAMIN, Arts Council England, New Danish Screen  
+_Additional support from the_: CTBF John Brabourne Awards  
 _Executive Producera_: Gareth Evans,
-
 Meg Clark  
-_Produced by_: Andrea Luka Zimmerman,
-
-Ameenah Ayub Allen  
+_Produced by_: Andrea Luka Zimmerman, Ameenah Ayub Allen  
 _Associate Producers_: Lærke Vindahl,
-
 Michael Uwemedimo  
 _Director’s Assistant_: Therese Henningsen  
-_Written by_: Taina Galis,
-
-Andrea Luka Zimmerman  
-_This film grew from early collaboration with_: Vision Machine (2003-2006), Christine Cynn,
-
-Joshua Oppenheimer, Michael Uwemedimo, Andrea Luka Zimmerman  
-_Based on PhD research by_:
-
-Andrea Luka Zimmerman  
+_Written by_: Taina Galis, Andrea Luka Zimmerman  
+_This film grew from early collaboration with_: Vision Machine (2003-2006), Christine Cynn, Joshua Oppenheimer, Michael Uwemedimo, Andrea Luka Zimmerman  
+_Based on PhD research by_: Andrea Luka Zimmerman  
 _Cinematography by_: Andrea Luka Zimmerman, Taina Galis, Adam Philp  
 _Additional Camera_: Michael Uwemedimo  
 _Edited by_: Taina Galis  
@@ -86,20 +69,18 @@ _Additional Editing_: Andrea Luka Zimmerman, Ariadna Fatjó-Vilas
 _Titles_: Berta Valverde  
 _Colourist_: Filipe Fernandes  
 _Original Music_: Adam Paroussos  
-_Sound Design_: Nick Baldock, Adrian Furdui,
-
-Serin Kucuk  
+_Sound Design_: Nick Baldock, Adrian Furdui, Serin Kucuk  
 _Sound Re-recording Mixer_: Ben Carr  
 _Foley Editor_: James Matthews  
-_Thanks_: John Akomfrah, Malcolm Le Grice
+_Thanks_: John Akomfrah, Malcolm Le Grice  
 
 **With**  
 Bo Gritz  
 
 UK 2017  
-88 mins
+88 mins  
 
-**What Can I Do with a Male Nude?**  
+**WHAT CAN I DO WITH A MALE NUDE?**  
 _Director_: Ron Peck  
 _Production Company_: Greater London Arts Association  
 _Financial Assistance_: British Film Institute Production Board  
@@ -124,5 +105,5 @@ UK 1985
 
 Total running time 140 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTEyMTI1Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTQ5OTk0NzM3Myw3MzA5OTgxMTZdfQ==
 -->
