@@ -16,6 +16,7 @@ It was as a teenager, shortly after her family moved from the Caribbean to New Y
 
 Living with Powell, Schoonmaker saw a side of the director others didn’t. ‘He has a reputation for being tough on actors, but that was because when he was making films, it was a religion, he says. And if someone came on that set who didn’t have that same feeling and didn’t perform properly, he could be quite tough, from what I understand. I never saw that, never in the ten years I lived with him.’ Schoonmaker recalls an indefatigable, endlessly imaginative man who refused to let the setbacks of his later career stifle his creative energy. ‘He made every second of every day count. I’ve never been around anyone like that since,’ she says. ‘He didn’t waste a moment of any day. It was a joy to live with him because he was so full of life and never gave up.’  
 **Thelma Schoonmaker interviewed by Pamela Hutchinson, _Sight and Sound_, November 2023**  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjE1NTc1M119
+eyJoaXN0b3J5IjpbLTEzMTU4NDAxNjksMTIxMjE1NTc1M119
 -->
