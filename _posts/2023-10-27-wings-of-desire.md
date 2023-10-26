@@ -5,7 +5,7 @@ published: true
 date: 2023-10-27
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama]
+tags: [Drama, Fantasy, Romance]
 metadata: 'West Germany/France 1987, 129 mins<br> Director: Wim Wenders'
 pdf: '2023-10-27-wings-of-desire.pdf'
 ---
@@ -201,5 +201,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTQ0ODQ1OF19
+eyJoaXN0b3J5IjpbLTE2NDcyODA5NzddfQ==
 -->
