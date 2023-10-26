@@ -6,8 +6,8 @@ date: 2023-10-27
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
-metadata: 'We 1929, 76 mins<br> Director: Alfred Hitchcock'
-pdf: '2023-10-25-blackmail.pdf'
+metadata: 'West Germany/France 1987, 129 mins<br> Director: Wim Wenders'
+pdf: '2023-10-27-wings-of-desire.pdf'
 ---
 
 Few modern films have made the transition to classic status as quickly as  
@@ -201,5 +201,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjY1OTU5NV19
+eyJoaXN0b3J5IjpbLTcwNTQ0ODQ1OF19
 -->
