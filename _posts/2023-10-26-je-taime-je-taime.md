@@ -14,80 +14,78 @@ The rest of the film describes Ridder’s adventures inside this soft machine. I
 ‘I love confusion, disorder...’ Ridder announces provocatively at one moment. Only in the ironic contemplation of disorder can he enjoy a sense of life. It is a signal success of Resnais’ film and Claude Rich’s performance that Ridder is a richly individual and charming character. He is aware of the absurdity both of his past life, with its hesitant speculations, and of his present condition, accompanied only by a caged mouse in a comic simulacrum of the human brain. Whether or not he murdered Catrine in a Glasgow boarding house, how he tried to kill himself and why he failed, are shown to be little more than pedantic obsessions in _Je t’aime Je t’aime_: the soft machine face of the chaotic comedy of his consciousness. The ‘blocks’ to the moment assigned to him by the scientists are a densely woven, arbitrary pattern of desires, dreams, dream-tellings and useless seconds. He is by a tram stop repeatedly; he goes out of the Glasgow room again and again, meeting, or on the edge of meeting, someone different each time. He tells a man in a train about seducing a girl in a bathroom, and later we see this scene; clearly it is a fantasy. His brain is a teasing and cumbersome contraption; it is subject to every form of evasion and inefficiency, like the whole scientific operation in which he is involved.
 
 Where _Marienbad_ and _Muriel_ were meditations, _Je t’aime Je t’aime_ is an investigation. In the earlier films the incongruities of memory were bathed in poetry; the new film wins its marvellous effects of realism by its editing. There is not a mix or a dissolve in the whole picture and only rarely does the camera move within a shot. The filming of the experiment is broken into sharp, separated instances, few of them lasting two minutes, many of them less than five seconds. The result is that after the leisurely opening scenes there are no sequences in the customary cinematic sense of the word – and none of them reflect the style we associate with Resnais in the past, his camera prowling and staring, in constant movement, at creatures immersed in time. Instead, from the first moment that Ridder disappears from his bed in the time machine to the final frozen frame of his mouse companion coming up for air, we follow the cataract of consciousness in what seems like a single, infinitely fragmented moment of urgency. When Ridder finally regains a moment in his past it is not the one assigned to him, but the most significant of all, his own attempted suicide with a revolver. Immediately following are three shots of his dying  
-body lying in various parts of the grounds at Crespel. He has been projected into death.
+body lying in various parts of the grounds at Crespel. He has been projected into death.  
+**Julian Jebb, _Sight and Sound_, Summer 1971**
+<br><br>
 
-Julian Jebb, _Sight and Sound_, Summer 1971
+**JE T’AIME JE T’AIME**<br>
 
-<![endif]-->
+_Director:_ Alain Resnais<br>
 
-**JE T’AIME JE T’AIME**
+_Production Companies:_ Parc Film, Fox Europa<br>
 
-_Director:_ Alain Resnais
+_Producer:_ Mag Bodard<br>
 
-_Production Companies:_ Parc Film, Fox Europa
+_Unit Production Manager:_ Michel Choquet<br>
 
-_Producer:_ Mag Bodard
+_Unit Managers:_ René Pascal, Jean-Jacques Lecot<br>
 
-_Unit Production Manager:_ Michel Choquet
+_Production Manager:_ Philippe Dussart<br>
 
-_Unit Managers:_ René Pascal, Jean-Jacques Lecot
+_Production Accountant:_ Jean-Marc Garrouste<br>
 
-_Production Manager:_ Philippe Dussart
+_Production Secretary:_ Giselle Moreau<br>
 
-_Production Accountant:_ Jean-Marc Garrouste
+_Assistant Director:_ Florence Malraux<br>
 
-_Production Secretary:_ Giselle Moreau
+_2nd Assistant Director:_ Jean Lefèvre<br>
 
-_Assistant Director:_ Florence Malraux
+_Script Supervisor:_ Sylvette Baudrot<br>
 
-_2nd Assistant Director:_ Jean Lefèvre
-
-_Script Supervisor:_ Sylvette Baudrot
-
-_Screenplay:_ Jacques Sternberg
+_Screenplay:_ Jacques Sternberg<br>
 
 _Adaptation/Dialogue:_ Alain Resnais,  
-Jacques Sternberg
+Jacques Sternberg<br>
 
-_Director of Photography:_ Jean Boffety
+_Director of Photography:_ Jean Boffety<br>
 
 _Camera Assistants:_ Patrice Wyers,  
-Guy Lecouvette, Jean Tasso
+Guy Lecouvette, Jean Tasso<br>
 
-_Gaffer:_ Pierre Cornier
+_Gaffer:_ Pierre Cornier<br>
 
-_Key Grip:_ André Thiery
+_Key Grip:_ André Thiery<br>
 
-_Stills Photography:_ Jürgen Vollmer
+_Stills Photography:_ Jürgen Vollmer<br>
 
-_Editors:_ Albert Jurgenson, Colette Leloup
+_Editors:_ Albert Jurgenson, Colette Leloup<br>
 
-_Assistant Editor:_ Ziva Postec
+_Assistant Editor:_ Ziva Postec<br>
 
-_Art Director:_ Jacques Dugied
+_Art Director:_ Jacques Dugied<br>
 
-_Art Director of Sphere:_ Auguste Pace
+_Art Director of Sphere:_ Auguste Pace<br>
 
-_Set Decorator:_ Éric Simon
+_Set Decorator:_ Éric Simon<br>
 
-_Floor Properties:_ Jean Brunet
+_Floor Properties:_ Jean Brunet<br>
 
-_Furniture Properties:_ Guy Auge
+_Furniture Properties:_ Guy Auge<br>
 
-_Wardrobe:_ Odette Le Barbenchon
+_Wardrobe:_ Odette Le Barbenchon<br>
 
-_Make-up:_ Alexandre Marcus
+_Make-up:_ Alexandre Marcus<br>
 
-_Music:_ Krzysztof Penderecki
+_Music:_ Krzysztof Penderecki<br>
 
 _Additional Music:_ Jean-Claude Pelletier,  
-Jean Dandeny
+Jean Dandeny<br>
 
-_Choir:_ Musici Cantanti di Varsavia
+_Choir:_ Musici Cantanti di Varsavia<br>
 
-_Sound:_ Antoine Bonfanti
+_Sound:_ Antoine Bonfanti<br>
 
-_Boom Operator:_ Michel Desrois
+_Boom Operator:_ Michel Desrois<br>
 
 _Mixer:_ Jean Nény
 
@@ -198,5 +196,5 @@ France 1968
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjEyNTk2MF19
+eyJoaXN0b3J5IjpbMTExMzQxMDk2NywxMjQ2MTI1OTYwXX0=
 -->
