@@ -87,88 +87,88 @@ _Sound:_ Antoine Bonfanti<br>
 
 _Boom Operator:_ Michel Desrois<br>
 
-_Mixer:_ Jean Nény
+_Mixer:_ Jean Nény<br>
 
-_Post-synchronization:_ Jacques Lévy
+_Post-synchronization:_ Jacques Lévy<br>
 
-_Sound Effects:_ Daniel Couteau
+_Sound Effects:_ Daniel Couteau<br>
 
-_Publicity:_ Nicole Loustalot
+_Publicity:_ Nicole Loustalot<br>
 
-_Cast:_
+_Cast:_<br>
 
-Claude Rich _(Claude Ridder)_
+Claude Rich _(Claude Ridder)_<br>
 
-Olga Georges-Picot _(Catrine)_
+Olga Georges-Picot _(Catrine)_<br>
 
-Anouk Ferjac _(Wiana Lust)_
+Anouk Ferjac _(Wiana Lust)_<br>
 
-Georges Jamin _(Dr Delavoix, clinical surgeon)_
+Georges Jamin _(Dr Delavoix, clinical surgeon)_<br>
 
-Van Doude _(Jan Rouffer)_
+Van Doude _(Jan Rouffer)_<br>
 
-Dominique Rozan _(Dr Haesaerts)_
+Dominique Rozan _(Dr Haesaerts)_<br>
 
-Ray Verhaege _(Paul Goofers, technician A)_
+Ray Verhaege _(Paul Goofers, technician A)_<br>
 
-Yves Kerboul _(Antoine Kammers)_
+Yves Kerboul _(Antoine Kammers)_<br>
 
-Vania Vilers _(Jacques Rhuys)_
+Vania Vilers _(Jacques Rhuys)_<br>
 
-Pierre Barbaud _(Georges Levino, technician B)_
+Pierre Barbaud _(Georges Levino, technician B)_<br>
 
-Alain Macmoy _(André Moyëns)_
+Alain Macmoy _(André Moyëns)_<br>
 
-Bernard Fresson _(Bernard Hannecart)_
+Bernard Fresson _(Bernard Hannecart)_<br>
 
-Irène Tunc _(Marcelle Hannecart)_
+Irène Tunc _(Marcelle Hannecart)_<br>
 
-Yvette Etiévant _(Germaine Coster)_
+Yvette Etiévant _(Germaine Coster)_<br>
 
-Annie Fargue _(Agnès de Smet)_
+Annie Fargue _(Agnès de Smet)_<br>
 
-Marie-Blanche Vergne _(Marie-Noire Demoon)_
+Marie-Blanche Vergne _(Marie-Noire Demoon)_<br>
 
-Carla Marlier _(Christine Yseux)_
+Carla Marlier _(Christine Yseux)_<br>
 
-Annie Bertin _(Hélène Wiertz, young mother)_
+Annie Bertin _(Hélène Wiertz, young mother)_<br>
 
-Alain Robbe-Grillet _(Hughes Mechelynck)_
+Alain Robbe-Grillet _(Hughes Mechelynck)_<br>
 
-Catherine Robbe-Grillet _(Maryse de Neten)_
+Catherine Robbe-Grillet _(Maryse de Neten)_<br>
 
-Jean Michaud _(Pierre van Heerswingels)_
+Jean Michaud _(Pierre van Heerswingels)_<br>
 
-Alan Adair _(Glasgow inspector 1)_
+Alan Adair _(Glasgow inspector 1)_<br>
 
-Ian Macgregor _(Glasgow inspector 2)_
+Ian Macgregor _(Glasgow inspector 2)_<br>
 
-Hélène Callot _(Odile Piquet, nurse)_
+Hélène Callot _(Odile Piquet, nurse)_<br>
 
-Gérard Lorin _(Guy Puyaubert)_
+Gérard Lorin _(Guy Puyaubert)_<br>
 
-Jean-Louis Richard _(Pierre Vandel Heuvel)_
+Jean-Louis Richard _(Pierre Vandel Heuvel)_<br>
 
-Jacques Doniol-Valcroze _(Francis Devos, editor)_
+Jacques Doniol-Valcroze _(Francis Devos, editor)_<br>
 
-François Régis-Bastide _(Hubert Brun)_
+François Régis-Bastide _(Hubert Brun)_<br>
 
-Jean-Claude Romer _(party guest)_
+Jean-Claude Romer _(party guest)_<br>
 
-Francis Lacassin _(ad man)_
+Francis Lacassin _(ad man)_<br>
 
-Bernard Valdeneige _(Claude Loërs, ad man)_
+Bernard Valdeneige _(Claude Loërs, ad man)_<br>
 
-Jean Martin _(Henri Troots, ad man)_
+Jean Martin _(Henri Troots, ad man)_<br>
 
-Georges Walter _(André Symons, ad man)_
+Georges Walter _(André Symons, ad man)_<br>
 
 René Bazart  
-_(Jean de Calwaers, magazine employee)_
+_(Jean de Calwaers, magazine employee)_<br>
 
-Billy Fasbender _(2nd employee)_
+Billy Fasbender _(2nd employee)_<br>
 
-Jean Perre _(Fréréric Poëls)_
+Jean Perre _(Fréréric Poëls)_<br>
 
 Sylvain Dhomme _(Louis Lambert)_
 
@@ -196,5 +196,5 @@ France 1968
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzQxMDk2NywxMjQ2MTI1OTYwXX0=
+eyJoaXN0b3J5IjpbLTg2ODU1ODIwNywxMjQ2MTI1OTYwXX0=
 -->
