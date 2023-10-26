@@ -1,3 +1,14 @@
+---
+layout: post
+title: Je t'aime Je t'aime
+published: true
+date: 2023-10-26
+readtime: true
+categories: ['DESTINATION TIME TRAVEL<br>PLAYING WITH TIME IN FILM AND TV']
+tags: [Sci-Fi, Drama]
+metadata: 'France 1968, 91 mins<br> Director: Alain Resnais'
+pdf: '2023-10-26-je-taime-je-taime.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -13,8 +24,7 @@ The rest of the film describes Ridder’s adventures inside this soft machine. I
 
 ‘I love confusion, disorder...’ Ridder announces provocatively at one moment. Only in the ironic contemplation of disorder can he enjoy a sense of life. It is a signal success of Resnais’ film and Claude Rich’s performance that Ridder is a richly individual and charming character. He is aware of the absurdity both of his past life, with its hesitant speculations, and of his present condition, accompanied only by a caged mouse in a comic simulacrum of the human brain. Whether or not he murdered Catrine in a Glasgow boarding house, how he tried to kill himself and why he failed, are shown to be little more than pedantic obsessions in _Je t’aime Je t’aime_: the soft machine face of the chaotic comedy of his consciousness. The ‘blocks’ to the moment assigned to him by the scientists are a densely woven, arbitrary pattern of desires, dreams, dream-tellings and useless seconds. He is by a tram stop repeatedly; he goes out of the Glasgow room again and again, meeting, or on the edge of meeting, someone different each time. He tells a man in a train about seducing a girl in a bathroom, and later we see this scene; clearly it is a fantasy. His brain is a teasing and cumbersome contraption; it is subject to every form of evasion and inefficiency, like the whole scientific operation in which he is involved.
 
-Where _Marienbad_ and _Muriel_ were meditations, _Je t’aime Je t’aime_ is an investigation. In the earlier films the incongruities of memory were bathed in poetry; the new film wins its marvellous effects of realism by its editing. There is not a mix or a dissolve in the whole picture and only rarely does the camera move within a shot. The filming of the experiment is broken into sharp, separated instances, few of them lasting two minutes, many of them less than five seconds. The result is that after the leisurely opening scenes there are no sequences in the customary cinematic sense of the word – and none of them reflect the style we associate with Resnais in the past, his camera prowling and staring, in constant movement, at creatures immersed in time. Instead, from the first moment that Ridder disappears from his bed in the time machine to the final frozen frame of his mouse companion coming up for air, we follow the cataract of consciousness in what seems like a single, infinitely fragmented moment of urgency. When Ridder finally regains a moment in his past it is not the one assigned to him, but the most significant of all, his own attempted suicide with a revolver. Immediately following are three shots of his dying  
-body lying in various parts of the grounds at Crespel. He has been projected into death.  
+Where _Marienbad_ and _Muriel_ were meditations, _Je t’aime Je t’aime_ is an investigation. In the earlier films the incongruities of memory were bathed in poetry; the new film wins its marvellous effects of realism by its editing. There is not a mix or a dissolve in the whole picture and only rarely does the camera move within a shot. The filming of the experiment is broken into sharp, separated instances, few of them lasting two minutes, many of them less than five seconds. The result is that after the leisurely opening scenes there are no sequences in the customary cinematic sense of the word – and none of them reflect the style we associate with Resnais in the past, his camera prowling and staring, in constant movement, at creatures immersed in time. Instead, from the first moment that Ridder disappears from his bed in the time machine to the final frozen frame of his mouse companion coming up for air, we follow the cataract of consciousness in what seems like a single, infinitely fragmented moment of urgency. When Ridder finally regains a moment in his past it is not the one assigned to him, but the most significant of all, his own attempted suicide with a revolver. Immediately following are three shots of his dying  body lying in various parts of the grounds at Crespel. He has been projected into death.  
 **Julian Jebb, _Sight and Sound_, Summer 1971**
 <br><br>
 
@@ -108,6 +118,73 @@ France 1968<br>
 91 mins<br>
 Digital<br>
 <br>
+
+**DESTINATION TIME TRAVEL: PLAYING WITH TIME IN FILM AND TV**<br>
+**The Time Machine**<br>
+Mon 16 Oct 20:40; Sat 28 Oct 15:10; Mon 20 Nov 18:15<br>
+**Time after Time**<br>
+Sun 22 Oct 18:20; Mon 13 Nov 20:40<br>
+**Time Bandits**<br>
+Wed 25 Oct 20:45; Thus 26 Oct 14:40; Sun 5 Nov 11:30<br>
+**Je t’aime je t’aime**<br>
+Thu 26 Oct 20:40; Sat 18 Nov 18:30<br>
+**Telling the Tales of Time + Q&A with Steve Nallon**<br>
+Fri 27 Oct 18:15<br>
+**Run Lola Run (Lola rennt)**<br>
+Fri 27 Oct 20:45<br>
+**Donnie Darko**<br>
+Sat 28 Oct 18:00; Sat 11 Nov 20:20; Fri 17 Nov 20:45<br>
+**Somewhere in Time**<br>
+Thu 2 Nov 20:30; Sat 18 Nov 14:20<br>
+**The TARDIS: The Most Famous Time Machine in the Universe**<br>
+Sat 4 Nov 12:00<br>
+**Comedy Time-Travel Special with writer Rob Grant, actor Robert Llewellyn, exec producer Paul Jackson and director Ed Bye – Red Dwarf: Backwards + Timewasters**<br>
+Sun 5 Nov 14:15<br>
+**Planet of the Apes**<br>
+Thu 9 Nov 20:45<br>
+**Tomorrow I’ll Wake Up and Scald Myself with Tea (Zítra vstanu a oparím se cajem) + **La Jetée**<br>
+Fri 10 Nov 20:40; Sat 25 Nov 15:00<br>
+**The Tomorrow People: A Rift in Time + Q&A**<br>
+Sat 11 Nov 12:00<br>
+**Predestination**<br>
+Sat 18 Nov 20:45; Tue 28 Nov 18:20<br>
+**Lazarus Table Reading**<br>
+Sun 19 Nov 15:15<br>
+**Beyond the Infinite Two Minutes (Dorosute no hate de bokura) + Felix the Cat Trifles with Time**<br>
+Tue 21 Nov 18:30; Thu 23 Nov 21:00<br>
+
+**DESTINATION: TIME TRAVEL AT BFI IMAX**<br>
+**12 Monkeys + La Jetée**<br>
+Sun 22 Oct 11:30<br>
+**The Terminator + Terminator 2: Judgment Day**<br>
+Mon 30 Oct 18:30<br>
+**Back to the Future Trilogy**<br>
+Sun 19 Nov 11:30<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTQ3MzA3ODM0MSwxMjQ2MTI1OTYwXX0=
 -->
