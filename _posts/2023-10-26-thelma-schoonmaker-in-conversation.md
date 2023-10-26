@@ -2,18 +2,16 @@
 layout: post
 title: Thelma Schoonmaker in conversation
 published: true
-date: 2023-10-25
+date: 2023-10-26
 readtime: true
-categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
-tags: [Drama]
-metadata: 'UK 1944, 125 mins<br> Directors: Michael Powell, Emeric Pressburger'
-pdf: '2023-10-25-canterbury-tale.pdf'
+categories: ['EVENTS']
+tags: [Talk]
+metadata: ''
+pdf: '2023-10-26-thelma-schoonmaker-in-conversation.pdf'
 ---
 
-
-The collaboration between Martin Scorsese and Thelma Schoonmaker is the stuff of cinematic legend – not so very unlike that between Powell and Pressburger. It was Scorsese who introduced Schoonmaker to her husband Michael Powell, and she soon joined Scorsese as he continued to rehabilitate the critical reputation of the films made by Powell and Pressburger. Schoonmaker helped her husband edit his autobiography and to get it published. Since Powell’s death in 1990 she has worked tirelessly with Scorsese’s Film Foundation to help restore the films of Powell and Pressburger and most recently Powell’s own _Peeping Tom_. Schoonmaker’s genius as an editor and her devotion to the art of cinema saw her awarded with a BFI Fellowship in 1997, our highest honour, and it is with the greatest pleasure that we celebrate her achievements and the work of many decades, together.
-
-bfi.org.uk
+The collaboration between Martin Scorsese and Thelma Schoonmaker is the stuff of cinematic legend – not so very unlike that between Powell and Pressburger. It was Scorsese who introduced Schoonmaker to her husband Michael Powell, and she soon joined Scorsese as he continued to rehabilitate the critical reputation of the films made by Powell and Pressburger. Schoonmaker helped her husband edit his autobiography and to get it published. Since Powell’s death in 1990 she has worked tirelessly with Scorsese’s Film Foundation to help restore the films of Powell and Pressburger and most recently Powell’s own _Peeping Tom_. Schoonmaker’s genius as an editor and her devotion to the art of cinema saw her awarded with a BFI Fellowship in 1997, our highest honour, and it is with the greatest pleasure that we celebrate her achievements and the work of many decades, together.  
+**bfi.org.uk**  
 
 The films of Michael Powell and Emeric Pressburger have a shimmering, magical quality that distinguishes them from all others. The great run of films this pair made together as ‘The Archers’ began in the midst of World War II and continued through the austerity years, but they are romantic, musical, lustrous and bewitchingly supernatural – as well as sincerely internationalist. There’s no better guide to them than Thelma Schoonmaker. The triple Oscar-winning editor was married to Powell from 1984 until his death in 1990. Since then she has been the custodian of his legacy, overseeing projects including his posthumous memoir, the restorations of his films and an English Heritage Blue Plaque at the Archers’ former offices in London. Her creative partner Martin Scorsese (she has edited all his fiction features since 1980) is likewise a tireless champion of Powell and Pressburger’s films. Schoonmaker describes his devotion to preserving their legacy as ‘unstoppable’.
 
@@ -119,5 +117,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTMzNjQ3OTgsMTIxMjE1NTc1M119
+eyJoaXN0b3J5IjpbLTM3MTU1MjkxNywxMjEyMTU1NzUzXX0=
 -->
