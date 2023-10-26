@@ -36,6 +36,163 @@ vibrant colour.
 The first time is an abrupt cut as she swings on her trapeze (wearing, naturally, angel wings); the second, more tender and deliberate shift comes just after she confesses her innermost feelings in Damiel’s presence. As Damiel departs, the image slowly shifts into colour: foreshadowing the union to come in the real world. For a film so intent on conjuring and then conquering a state of timelessness, this disruption of the image is the ultimate signifier that life and love within time are the only true reality. Seeing blood as red. Tasting coffee. Feeling the cold. For Wenders and his characters, the realm of the senses is the one that truly makes sense.  
 **Leigh Singer, bfi.org.uk**  
 <br>
+<![endif]-->
+
+**Wings of Desire (Der Himmel über Berlin)**
+
+_Director:_ Wim Wenders  
+©_/Production Companies:_  
+Road Movies Filmproduktion GmbH, Argos-Films _Production Company:_ Westdeutscher Rundfunk _Executive Producer:_ Ingrid Windisch
+
+_Producers:_ Wim Wenders, Anatole Dauman _Associate Producers:_ Joachim von Mengershausen, Pascale Dauman
+
+_Production Accountant:_ Inge Ruf
+
+_Payroll:_ Charlotte Läufer-Roll
+
+_Production Co-ordinator:_ Ulla Zwicker
+
+_Production Manager:_ Herbert Kerz
+
+_Location Manager:_ Barbara von Wrangell _Production Wizard:_ Tilmann Vierzig
+
+_Production Consultant:_ Chris Sievernich
+
+_Assistant Director:_ Claire Denis
+
+_2nd Assistant Director:_ Knut Winkler
+
+_Script Supervisor:_ Gabi Mattner
+
+_Screenplay:_ Wim Wenders
+
+_Together with:_ Peter Handke
+
+_Additional Script Work:_ Richard Reitinger _Adaptation:_ Bernard Eisenschitz, Anne Head _Director of Photography:_ Henri Alekan
+
+_Additional Photography:_ Peter Ch. Arnold,  
+Martin Kukula
+
+_2nd Unit Photography:_ Frank Blasberg,  
+Peter Braatz
+
+_Helicopter Camera Work:_ Klemens Becker,  
+Klaus Krieger
+
+_Front Projection:_ Fritz Lehmann, Wolfgang Schmidt _Camera Operator:_ Agnès Godard
+
+_1st Assistant Cameraman:_ Achim Poulheim
+
+_Grips:_ Dieter Bähr
+
+_Gaffer:_ Bernd Hübner
+
+_Best Boy:_ Klaus Bieling
+
+_Still Photographer:_ Ralf Strathmann
+
+_Editor:_ Peter Przygodda
+
+_Assistant Editors:_ Anne Schnee, Leni Savietto-Pütz _Art Director:_ Heidi Lüdi
+
+_Set Decorator:_ Esther Walz
+
+_Sculptor:_ Jost van der Velden
+
+_The Berlin Wall Repainted by:_ Thierry Noir
+
+_Property Master:_ Peter Alteneder
+
+_Costume Designer:_ Monika Jacobs
+
+_Wardrobe:_ Brigitte Friedländer-Rodriguez,  
+Irmtraud ‘Simone’ Simon
+
+_Make-up and Hair:_ Victor Leitenbauer,  
+Regina Huyer
+
+_Opticals and Titles:_ Studio Bartoschek, Berlin
+
+_Opening Credits:_ Uli Mayer
+
+_Music:_ Jürgen Knieper
+
+_Circus Music:_ Laurent Petitgand
+
+_Marion’s Trapeze Act Coached/Choreographed by:_ Lajos Kovács
+
+_Sound Mixers:_ Jean-Paul Mugel, Axel Arft
+
+_Boom Man:_ Uwe Thalmann
+
+_Re-recording Mixer:_ Hartmut Eichgrün
+
+_Sound Processing:_ Lothar Mankewitz,  
+Detlev Fichtner
+
+_Trapeze Coach:_ Lajos Kovács
+
+_Dedicated to all the former angels…_  
+Yasujiro, François, Andrei Tarkovsky
+
+_Bird Wrangler:_ Dieter Koschorrek
+
+_Cast:_
+
+Bruno Ganz _(Damiel)_
+
+Solveig Dommartin _(Marion)_
+
+Otto Sander _(Cassiel)_
+
+Curt Bois _(Homer)_
+
+Peter Falk _(himself)_
+
+Hans Martin Stier _(the dying man)_
+
+Elmar Wilms _(a sad man)_
+
+Sigurd Rachman _(the suicide)_
+
+Beatrice Manowski _(a young prostitute)_
+
+_at the circus:_
+
+Lajos Kovács _(Marion’s coach),_ Bruno Rosaz  
+_(the clown),_ Laurent Petitgand _(the bandleader),_ Chico Rojo Ortega _(the drummer),_ Otto Kuhnle, Christopher Merg _(the juggler),_ Peter Werner  
+_(the manager),_ Susanne Vierkötter, Paul Busch, Karin Busch, Irene Mössinger, Franky
+
+_the angels at the public library:_
+
+Teresa Harder, Daniella Nasincova,  
+Bernard Eisenschitz, Didier Flamand, Rolf Henke, Scott Kirby, Franck Glemin
+
+_air raid shelter:_
+
+Jerry Barrish _(the director),_ Jeanette Pollak  
+_(the wardrobe lady),_ Christian Bartels  
+_(the ‘Hitlerjunge’),_ David Crome _(the assistant director),_ Käthe Fürstenwerth, Werner Schönrock, Bernd Ramien, Erika Rabau, Silvia Blagojeva Itscherenska, Sultan Meral, Olivier Picot,  
+Jochen Gliscinsky, Erich Schupke
+
+_in their apartments:_
+
+Margarete Hafner, Oliver Herder,  
+Margitta Haberland, Jürgen Heinrichs,  
+Ralf Strathmann, Walter Ratayszak,  
+Charlotte Oberberg, Lubinka Kostic
+
+_on the highway:_
+
+Gisela Westerboer, Andreas Valentin, Anne Gerstl, Dirk Vogeley, Ruth Rischke, Family Ayik  
+_bands_:  
+Crime and the City Solution (Simon Bonney, Mick Harvey, Harry Howard, Rowland Howard, Kevin Godfrey), Nick Cave and the Bad Seeds (Nick Cave, Thomas Wydler, Blixa Bargeld, Roland Wolf, Kid Congo)  
+_children:_  
+Denis Rodriguez, Dieta von Aster, Gustav Geisler, Paul Geisler, Lorenz Geisler, Sladjana Kostic, Benedikt Schumann, Nicolas Roth, Marcus Stenzel, Benjamin Ferchow, Mario Meyer, Mark Leuschner, Tibor Dahlenburg, Lia Harder, Mascha Noak, Vera Butzek, Donald Behrendt, Patric Kreuzer, Simone Säger, Gerdi Hofmann, Ulrike Schirm, Hans Marquard, Heimke Carl, Klaus Mausolf, Özyer Hüsinye, Jean-Claude Lezin, Thierry Noir, Matthias Maass, Henry Luczkow  
+
+West Germany/France 1987©  
+129 mins  
+Digital 4K
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODkyNTUzMl19
+eyJoaXN0b3J5IjpbNjMzOTI0NTEyXX0=
 -->
