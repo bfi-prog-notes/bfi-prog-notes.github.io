@@ -19,182 +19,95 @@ body lying in various parts of the grounds at Crespel. He has been projected int
 <br><br>
 
 **JE T’AIME JE T’AIME**<br>
-
 _Director:_ Alain Resnais<br>
-
 _Production Companies:_ Parc Film, Fox Europa<br>
-
 _Producer:_ Mag Bodard<br>
-
 _Unit Production Manager:_ Michel Choquet<br>
-
 _Unit Managers:_ René Pascal, Jean-Jacques Lecot<br>
-
 _Production Manager:_ Philippe Dussart<br>
-
 _Production Accountant:_ Jean-Marc Garrouste<br>
-
 _Production Secretary:_ Giselle Moreau<br>
-
 _Assistant Director:_ Florence Malraux<br>
-
 _2nd Assistant Director:_ Jean Lefèvre<br>
-
 _Script Supervisor:_ Sylvette Baudrot<br>
-
 _Screenplay:_ Jacques Sternberg<br>
-
-_Adaptation/Dialogue:_ Alain Resnais,  
-Jacques Sternberg<br>
-
+_Adaptation/Dialogue:_ Alain Resnais,  Jacques Sternberg<br>
 _Director of Photography:_ Jean Boffety<br>
-
-_Camera Assistants:_ Patrice Wyers,  
-Guy Lecouvette, Jean Tasso<br>
-
+_Camera Assistants:_ Patrice Wyers,  Guy Lecouvette, Jean Tasso<br>
 _Gaffer:_ Pierre Cornier<br>
-
 _Key Grip:_ André Thiery<br>
-
 _Stills Photography:_ Jürgen Vollmer<br>
-
 _Editors:_ Albert Jurgenson, Colette Leloup<br>
-
 _Assistant Editor:_ Ziva Postec<br>
-
 _Art Director:_ Jacques Dugied<br>
-
 _Art Director of Sphere:_ Auguste Pace<br>
-
 _Set Decorator:_ Éric Simon<br>
-
 _Floor Properties:_ Jean Brunet<br>
-
 _Furniture Properties:_ Guy Auge<br>
-
 _Wardrobe:_ Odette Le Barbenchon<br>
-
 _Make-up:_ Alexandre Marcus<br>
-
 _Music:_ Krzysztof Penderecki<br>
-
-_Additional Music:_ Jean-Claude Pelletier,  
-Jean Dandeny<br>
-
+_Additional Music:_ Jean-Claude Pelletier,  Jean Dandeny<br>
 _Choir:_ Musici Cantanti di Varsavia<br>
-
 _Sound:_ Antoine Bonfanti<br>
-
 _Boom Operator:_ Michel Desrois<br>
-
 _Mixer:_ Jean Nény<br>
-
 _Post-synchronization:_ Jacques Lévy<br>
-
 _Sound Effects:_ Daniel Couteau<br>
-
 _Publicity:_ Nicole Loustalot<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Claude Rich _(Claude Ridder)_<br>
-
 Olga Georges-Picot _(Catrine)_<br>
-
 Anouk Ferjac _(Wiana Lust)_<br>
-
 Georges Jamin _(Dr Delavoix, clinical surgeon)_<br>
-
 Van Doude _(Jan Rouffer)_<br>
-
 Dominique Rozan _(Dr Haesaerts)_<br>
-
 Ray Verhaege _(Paul Goofers, technician A)_<br>
-
 Yves Kerboul _(Antoine Kammers)_<br>
-
 Vania Vilers _(Jacques Rhuys)_<br>
-
 Pierre Barbaud _(Georges Levino, technician B)_<br>
-
 Alain Macmoy _(André Moyëns)_<br>
-
 Bernard Fresson _(Bernard Hannecart)_<br>
-
 Irène Tunc _(Marcelle Hannecart)_<br>
-
 Yvette Etiévant _(Germaine Coster)_<br>
-
 Annie Fargue _(Agnès de Smet)_<br>
-
 Marie-Blanche Vergne _(Marie-Noire Demoon)_<br>
-
 Carla Marlier _(Christine Yseux)_<br>
-
 Annie Bertin _(Hélène Wiertz, young mother)_<br>
-
 Alain Robbe-Grillet _(Hughes Mechelynck)_<br>
-
 Catherine Robbe-Grillet _(Maryse de Neten)_<br>
-
 Jean Michaud _(Pierre van Heerswingels)_<br>
-
 Alan Adair _(Glasgow inspector 1)_<br>
-
 Ian Macgregor _(Glasgow inspector 2)_<br>
-
 Hélène Callot _(Odile Piquet, nurse)_<br>
-
 Gérard Lorin _(Guy Puyaubert)_<br>
-
 Jean-Louis Richard _(Pierre Vandel Heuvel)_<br>
-
 Jacques Doniol-Valcroze _(Francis Devos, editor)_<br>
-
 François Régis-Bastide _(Hubert Brun)_<br>
-
 Jean-Claude Romer _(party guest)_<br>
-
 Francis Lacassin _(ad man)_<br>
-
 Bernard Valdeneige _(Claude Loërs, ad man)_<br>
-
 Jean Martin _(Henri Troots, ad man)_<br>
-
 Georges Walter _(André Symons, ad man)_<br>
-
-René Bazart  
-_(Jean de Calwaers, magazine employee)_<br>
-
+René Bazart  _(Jean de Calwaers, magazine employee)_<br>
 Billy Fasbender _(2nd employee)_<br>
-
 Jean Perre _(Fréréric Poëls)_<br>
+Sylvain Dhomme _(Louis Lambert)_<br>
+Ben Danou _(Dr Uyttenhoef)_<br>
+Pierre Motte _(Edward Monnot)_<br>
+Michéle Blondel _(Hélène Mankels, secretary)_<br>
+M. Floquet _(Mr Grabet)_<br>
+Claire Duhamel _(Jane Swolfs, Ridder’s secretary)_<br>
+Guilène Péan _(Bernadette Bellemans)_<br>
+Alain Tercinet<br>
+Michel Choquet<br>
+Jorge Semprún<br>
 
-Sylvain Dhomme _(Louis Lambert)_
-
-Ben Danou _(Dr Uyttenhoef)_
-
-Pierre Motte _(Edward Monnot)_
-
-Michéle Blondel _(Hélène Mankels, secretary)_
-
-M. Floquet _(Mr Grabet)_
-
-Claire Duhamel _(Jane Swolfs, Ridder’s secretary)_
-
-Guilène Péan _(Bernadette Bellemans)_
-
-Alain Tercinet
-
-Michel Choquet
-
-Jorge Semprún
-
-France 1968
-
-91 mins
-
-Digital
+France 1968<br>
+91 mins<br>
+Digital<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODU1ODIwNywxMjQ2MTI1OTYwXX0=
+eyJoaXN0b3J5IjpbLTQ3MzA3ODM0MSwxMjQ2MTI1OTYwXX0=
 -->
