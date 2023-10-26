@@ -1,7 +1,15 @@
+---
+layout: post
+title: Thelma Schoonmaker in conversation
+published: true
+date: 2023-10-25
+readtime: true
+categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
+tags: [Drama]
+metadata: 'UK 1944, 125 mins<br> Directors: Michael Powell, Emeric Pressburger'
+pdf: '2023-10-25-canterbury-tale.pdf'
+---
 
-
-
-<![endif]-->
 
 The collaboration between Martin Scorsese and Thelma Schoonmaker is the stuff of cinematic legend – not so very unlike that between Powell and Pressburger. It was Scorsese who introduced Schoonmaker to her husband Michael Powell, and she soon joined Scorsese as he continued to rehabilitate the critical reputation of the films made by Powell and Pressburger. Schoonmaker helped her husband edit his autobiography and to get it published. Since Powell’s death in 1990 she has worked tirelessly with Scorsese’s Film Foundation to help restore the films of Powell and Pressburger and most recently Powell’s own _Peeping Tom_. Schoonmaker’s genius as an editor and her devotion to the art of cinema saw her awarded with a BFI Fellowship in 1997, our highest honour, and it is with the greatest pleasure that we celebrate her achievements and the work of many decades, together.
 
@@ -16,7 +24,100 @@ It was as a teenager, shortly after her family moved from the Caribbean to New Y
 
 Living with Powell, Schoonmaker saw a side of the director others didn’t. ‘He has a reputation for being tough on actors, but that was because when he was making films, it was a religion, he says. And if someone came on that set who didn’t have that same feeling and didn’t perform properly, he could be quite tough, from what I understand. I never saw that, never in the ten years I lived with him.’ Schoonmaker recalls an indefatigable, endlessly imaginative man who refused to let the setbacks of his later career stifle his creative energy. ‘He made every second of every day count. I’ve never been around anyone like that since,’ she says. ‘He didn’t waste a moment of any day. It was a joy to live with him because he was so full of life and never gave up.’  
 **Thelma Schoonmaker interviewed by Pamela Hutchinson, _Sight and Sound_, November 2023**  
+<br>
+**CINEMA UNBOUND: THE CREATIVE WORLDS OF POWELL + PRESSBURGER**<br>
+**Rynox + Hotel Splendide**<br>
+Mon 16 Oct 18:10; Fri 10 Nov 18:10<br>
+**A Matter of Life and Death**<br>
+Mon 16 Oct 20:45 (+ intro by Thelma Schoonmaker and Kevin Macdonald); Sun 29 Oct 12:10; Sat 4 Nov 15:00; Tue 7 Nov 18:10 (+ intro by academic Lucy Bolton); Sun 19 Nov 18:30<br>
+**Farewell (Abschied)**<br>
+Tue 17 Oct 18:40 (+ intro by filmmaker Kevin Macdonald); Wed 1 Nov 20:40<br>
+**His Lordship**<br>
+Tue 17 Oct 20:50; Sat 4 Nov 12:20<br>
+**The Fire Raisers**<br>
+Wed 18 Oct 18:40; Sat 11 Nov 12:30<br>
+**Black Narcissus**<br>
+Wed 18 Oct 20:50; Sun 22 Oct 18:30; Wed 8 Nov 18:15; Sun 12 Nov 18:50; Thu 16 Nov 20:50; Sat 18 Nov 20:50; Mon 20 Nov 20:45 (+ intro by author Mahesh Rao)<br>
+**The Edge of the World + Return to the Edge of the World**<br>
+Fri 20 Oct 18:20; Wed 8 Nov 20:30; Wed 15 Nov 20:50<br>
+**The Thief of Bagdad: An Arabian Fantasy in Technicolor (aka The Thief of Bagdad)**<br>
+Fri 20 Oct 20:30; Tue 24 Oct 14:40; Sat 28 Oct 15:00; Sun 26 Nov 12:00<br>
+**The Spy in Black + Smith**<br>
+Sat 21 Oct 15:30; Sun 29 Oct 15:30 (+ intro by Bryony Dixon, BFI National Archive Curator)<br>
+**The Boy Who Turned Yellow + Heavenly Puss**<br>
+Sun 22 Oct 12:00<br>
+**49th Parallel**<br>
+Sun 22 Oct 12:20; Mon 6 Nov 20:30<br>
+**One of Our Aircraft Is Missing!**<br> 
+Sun 22 Oct 15:10; Tue 31 Oct 20:40 (+ intro by film historian Ian Christie)<br>
+**Contraband**<br>
+Mon 23 Oct 17:50 (+ intro by Miranda Gower-Qian, BFI Inclusion Lead); Mon 30 Oct 20:30<br>
+**Red Ensign + The Night of the Party**<br>
+Tue 24 Oct 20:30; Sun 5 Nov 14:40<br>
+**A Canterbury Tale**<br> 
+Wed 25 Oct 20:20 (+ intro by academic Thirza Wakefield); Sat 11 Nov 14:50; Fri 24 Nov 20:35<br>
+**Library Talk:  The interior life of an archive: an evening with the Michael Powell Collection**<br> 
+Mon 27 Nov 18:00<br>
+**The Elusive Pimpernel**<br> 
+Sat 28 Oct 12:20; Mon 13 Nov 18:00 (+ intro by Bryony Dixon, BFI National Archive Curator)<br>
+**Gone to Earth**<br>
+Sat 28 Oct 18:20; Wed 22 Nov 20:45; Sat 25 Nov 17:50<br>
+**Silent Cinema: The Magician + The Riviera Revels + intro by Bryony Dixon, BFI National Archive Curator**<br>
+Sun 29 Oct 15:00<br>
+**The Life and Death of Colonel Blimp**<br> 
+Sun 29 Oct 17:20 (+ intro by Kevin and Andrew Macdonald); Sun 5 Nov 17:45; Thu 23 Nov 17:45; Sun 26 Nov 14:00 (+ pre-recorded intro by Stephen Fry)<br>
+**Paths to Partnership: Powell + Pressburger before The Archers**<br>
+Tue 31 Oct 18:30<br>
+**Projecting the Archive: The Queen’s Guards + intro by Josephine Botting, BFI National Archive Curator**<br>
+Thu 2 Nov 18:20<br>
+**Twice upon a Time**<br>
+Mon 6 Nov 18:10 + extended intro by James Bell, BFI National Archive Senior Curator<br>
+**Talk: Philosophical Screens: A Matter of Life and Death**<br>
+Tue 7 Nov 20:20<br>
+**Talk: Centre Stage: The Leading Women of Powell + Pressburger**<br>
+Thu 16 Nov 18:20<br>
+**Ill Met by Moonlight**<br>
+Fri 17 Nov 20:40; Sat 25 Nov 12:40<br>
+**The Battle of the River Plate**<br>
+Sat 18 Nov 18:20; Mon 27 Nov 20:30<br>
+**Behold a Pale Horse**<br>
+Sun 19 Nov 11:50 Wed 22 Nov 17:50<br>
+**The Wild Heart**<br>
+Sun 19 Nov 15:10<br>
+**Miracle in Soho**<br>
+Mon 20 Nov 18:10; Sun 26 Nov 18:30<br>
+
+**Course: The Magic of Powell + Pressburger**<br>
+Wed 25 Oct to Wed 22 Nov 18:30<br>
+<br>
+
+**With thanks to**
+<img style="float: left;" src="/img/film-foundation-itv-park-circus-logos-02.png"><br><br><br><br><br><br><br><br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU4NDAxNjksMTIxMjE1NTc1M119
+eyJoaXN0b3J5IjpbLTE5NTMzNjQ3OTgsMTIxMjE1NTc1M119
 -->
