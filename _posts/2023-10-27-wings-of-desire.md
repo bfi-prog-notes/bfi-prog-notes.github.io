@@ -47,9 +47,10 @@ The first time is an abrupt cut as she swings on her trapeze (wearing, naturally
 
 **WINGS OF DESIRE (DER HIMMEL ÜBER BERLIN)**
 _Director:_ Wim Wenders  
-©_/Production Companies:_  
-Road Movies Filmproduktion GmbH, Argos-Films _Production Company:_ Westdeutscher Rundfunk _Executive Producer:_ Ingrid Windisch  
-_Producers:_ Wim Wenders, Anatole Dauman _Associate Producers:_ Joachim von Mengershausen, Pascale Dauman  
+_©/Production Companies:_ Road Movies Filmproduktion GmbH, Argos-Films 
+_Production Company:_ Westdeutscher Rundfunk _Executive Producer:_ Ingrid Windisch  
+_Producers:_ Wim Wenders, Anatole Dauman 
+_Associate Producers:_ Joachim von Mengershausen, Pascale Dauman  
 _Production Accountant:_ Inge Ruf  
 _Payroll:_ Charlotte Läufer-Roll  
 _Production Co-ordinator:_ Ulla Zwicker  
@@ -63,8 +64,7 @@ _Screenplay:_ Wim Wenders
 _Together with:_ Peter Handke  
 _Additional Script Work:_ Richard Reitinger _Adaptation:_ Bernard Eisenschitz, Anne Head _Director of Photography:_ Henri Alekan  
 _Additional Photography:_ Peter Ch. Arnold, Martin Kukula  
-_2nd Unit Photography:_ Frank Blasberg,  
-Peter Braatz  
+_2nd Unit Photography:_ Frank Blasberg, Peter Braatz  
 _Helicopter Camera Work:_ Klemens Becker, Klaus Krieger  
 _Front Projection:_ Fritz Lehmann, Wolfgang Schmidt _Camera Operator:_ Agnès Godard  
 _1st Assistant Cameraman:_ Achim Poulheim  
@@ -80,8 +80,7 @@ _The Berlin Wall Repainted by:_ Thierry Noir
 _Property Master:_ Peter Alteneder  
 _Costume Designer:_ Monika Jacobs  
 _Wardrobe:_ Brigitte Friedländer-Rodriguez, Irmtraud ‘Simone’ Simon  
-_Make-up and Hair:_ Victor Leitenbauer,  
-Regina Huyer  
+_Make-up and Hair:_ Victor Leitenbauer, Regina Huyer  
 _Opticals and Titles:_ Studio Bartoschek, Berlin  
 _Opening Credits:_ Uli Mayer  
 _Music:_ Jürgen Knieper  
@@ -90,11 +89,9 @@ _Marion’s Trapeze Act Coached/Choreographed by:_ Lajos Kovács
 _Sound Mixers:_ Jean-Paul Mugel, Axel Arft  
 _Boom Man:_ Uwe Thalmann  
 _Re-recording Mixer:_ Hartmut Eichgrün  
-_Sound Processing:_ Lothar Mankewitz,  
-Detlev Fichtner  
+_Sound Processing:_ Lothar Mankewitz, Detlev Fichtner  
 _Trapeze Coach:_ Lajos Kovács  
-_Dedicated to all the former angels…_  
-Yasujiro, François, Andrei Tarkovsky  
+_Dedicated to all the former angels…_ Yasujiro, François, Andrei Tarkovsky  
 _Bird Wrangler:_ Dieter Koschorrek  
 
 **Cast**  
