@@ -36,69 +36,38 @@ vibrant colour.
 The first time is an abrupt cut as she swings on her trapeze (wearing, naturally, angel wings); the second, more tender and deliberate shift comes just after she confesses her innermost feelings in Damiel’s presence. As Damiel departs, the image slowly shifts into colour: foreshadowing the union to come in the real world. For a film so intent on conjuring and then conquering a state of timelessness, this disruption of the image is the ultimate signifier that life and love within time are the only true reality. Seeing blood as red. Tasting coffee. Feeling the cold. For Wenders and his characters, the realm of the senses is the one that truly makes sense.  
 **Leigh Singer, bfi.org.uk**  
 <br>
-<![endif]-->
 
-**Wings of Desire (Der Himmel über Berlin)**
-
+**Wings of Desire (Der Himmel über Berlin)**  
 _Director:_ Wim Wenders  
 ©_/Production Companies:_  
-Road Movies Filmproduktion GmbH, Argos-Films _Production Company:_ Westdeutscher Rundfunk _Executive Producer:_ Ingrid Windisch
-
-_Producers:_ Wim Wenders, Anatole Dauman _Associate Producers:_ Joachim von Mengershausen, Pascale Dauman
-
-_Production Accountant:_ Inge Ruf
-
-_Payroll:_ Charlotte Läufer-Roll
-
-_Production Co-ordinator:_ Ulla Zwicker
-
-_Production Manager:_ Herbert Kerz
-
-_Location Manager:_ Barbara von Wrangell _Production Wizard:_ Tilmann Vierzig
-
-_Production Consultant:_ Chris Sievernich
-
-_Assistant Director:_ Claire Denis
-
-_2nd Assistant Director:_ Knut Winkler
-
-_Script Supervisor:_ Gabi Mattner
-
-_Screenplay:_ Wim Wenders
-
-_Together with:_ Peter Handke
-
-_Additional Script Work:_ Richard Reitinger _Adaptation:_ Bernard Eisenschitz, Anne Head _Director of Photography:_ Henri Alekan
-
-_Additional Photography:_ Peter Ch. Arnold,  
-Martin Kukula
-
+Road Movies Filmproduktion GmbH, Argos-Films _Production Company:_ Westdeutscher Rundfunk _Executive Producer:_ Ingrid Windisch  
+_Producers:_ Wim Wenders, Anatole Dauman _Associate Producers:_ Joachim von Mengershausen, Pascale Dauman  
+_Production Accountant:_ Inge Ruf  
+_Payroll:_ Charlotte Läufer-Roll  
+_Production Co-ordinator:_ Ulla Zwicker  
+_Production Manager:_ Herbert Kerz  
+_Location Manager:_ Barbara von Wrangell _Production Wizard:_ Tilmann Vierzig  
+_Production Consultant:_ Chris Sievernich  
+_Assistant Director:_ Claire Denis  
+_2nd Assistant Director:_ Knut Winkler  
+_Script Supervisor:_ Gabi Mattner  
+_Screenplay:_ Wim Wenders  
+_Together with:_ Peter Handke  
+_Additional Script Work:_ Richard Reitinger _Adaptation:_ Bernard Eisenschitz, Anne Head _Director of Photography:_ Henri Alekan  
+_Additional Photography:_ Peter Ch. Arnold, Martin Kukula  
 _2nd Unit Photography:_ Frank Blasberg,  
-Peter Braatz
-
-_Helicopter Camera Work:_ Klemens Becker,  
-Klaus Krieger
-
-_Front Projection:_ Fritz Lehmann, Wolfgang Schmidt _Camera Operator:_ Agnès Godard
-
-_1st Assistant Cameraman:_ Achim Poulheim
-
-_Grips:_ Dieter Bähr
-
-_Gaffer:_ Bernd Hübner
-
-_Best Boy:_ Klaus Bieling
-
-_Still Photographer:_ Ralf Strathmann
-
-_Editor:_ Peter Przygodda
-
-_Assistant Editors:_ Anne Schnee, Leni Savietto-Pütz _Art Director:_ Heidi Lüdi
-
-_Set Decorator:_ Esther Walz
-
-_Sculptor:_ Jost van der Velden
-
+Peter Braatz  
+_Helicopter Camera Work:_ Klemens Becker, Klaus Krieger  
+_Front Projection:_ Fritz Lehmann, Wolfgang Schmidt _Camera Operator:_ Agnès Godard  
+_1st Assistant Cameraman:_ Achim Poulheim  
+_Grips:_ Dieter Bähr  
+_Gaffer:_ Bernd Hübner  
+_Best Boy:_ Klaus Bieling  
+_Still Photographer:_ Ralf Strathmann  
+_Editor:_ Peter Przygodda  
+_Assistant Editors:_ Anne Schnee, Leni Savietto-Pütz _Art Director:_ Heidi Lüdi  
+_Set Decorator:_ Esther Walz  
+_Sculptor:_ Jost van der Velden  
 _The Berlin Wall Repainted by:_ Thierry Noir  
 _Property Master:_ Peter Alteneder  
 _Costume Designer:_ Monika Jacobs  
@@ -158,5 +127,5 @@ West Germany/France 1987©
 129 mins  
 Digital 4K
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDkxMjkwNF19
+eyJoaXN0b3J5IjpbMTYwMjkyNDY5N119
 -->
