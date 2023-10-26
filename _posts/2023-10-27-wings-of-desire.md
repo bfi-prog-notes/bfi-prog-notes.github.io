@@ -37,7 +37,7 @@ The first time is an abrupt cut as she swings on her trapeze (wearing, naturally
 **Leigh Singer, bfi.org.uk**  
 <br>
 
-**WINGS OF DESIRE (DER HIMMEL er Himmel über Berlin)**  
+**WINGS OF DESIRE (DER HIMMEL ÜBER BERLIN)**
 _Director:_ Wim Wenders  
 ©_/Production Companies:_  
 Road Movies Filmproduktion GmbH, Argos-Films _Production Company:_ Westdeutscher Rundfunk _Executive Producer:_ Ingrid Windisch  
@@ -127,5 +127,5 @@ West Germany/France 1987©
 129 mins  
 Digital 4K
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjI3NjEzMF19
+eyJoaXN0b3J5IjpbMzEwMjQwMTIxXX0=
 -->
