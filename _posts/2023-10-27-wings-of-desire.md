@@ -99,91 +99,55 @@ _Set Decorator:_ Esther Walz
 
 _Sculptor:_ Jost van der Velden
 
-_The Berlin Wall Repainted by:_ Thierry Noir
-
-_Property Master:_ Peter Alteneder
-
-_Costume Designer:_ Monika Jacobs
-
-_Wardrobe:_ Brigitte Friedländer-Rodriguez,  
-Irmtraud ‘Simone’ Simon
-
+_The Berlin Wall Repainted by:_ Thierry Noir  
+_Property Master:_ Peter Alteneder  
+_Costume Designer:_ Monika Jacobs  
+_Wardrobe:_ Brigitte Friedländer-Rodriguez, Irmtraud ‘Simone’ Simon  
 _Make-up and Hair:_ Victor Leitenbauer,  
-Regina Huyer
-
-_Opticals and Titles:_ Studio Bartoschek, Berlin
-
-_Opening Credits:_ Uli Mayer
-
-_Music:_ Jürgen Knieper
-
-_Circus Music:_ Laurent Petitgand
-
-_Marion’s Trapeze Act Coached/Choreographed by:_ Lajos Kovács
-
-_Sound Mixers:_ Jean-Paul Mugel, Axel Arft
-
-_Boom Man:_ Uwe Thalmann
-
-_Re-recording Mixer:_ Hartmut Eichgrün
-
+Regina Huyer  
+_Opticals and Titles:_ Studio Bartoschek, Berlin  
+_Opening Credits:_ Uli Mayer  
+_Music:_ Jürgen Knieper  
+_Circus Music:_ Laurent Petitgand  
+_Marion’s Trapeze Act Coached/Choreographed by:_ Lajos Kovács  
+_Sound Mixers:_ Jean-Paul Mugel, Axel Arft  
+_Boom Man:_ Uwe Thalmann  
+_Re-recording Mixer:_ Hartmut Eichgrün  
 _Sound Processing:_ Lothar Mankewitz,  
-Detlev Fichtner
-
-_Trapeze Coach:_ Lajos Kovács
-
+Detlev Fichtner  
+_Trapeze Coach:_ Lajos Kovács  
 _Dedicated to all the former angels…_  
-Yasujiro, François, Andrei Tarkovsky
+Yasujiro, François, Andrei Tarkovsky  
+_Bird Wrangler:_ Dieter Koschorrek  
 
-_Bird Wrangler:_ Dieter Koschorrek
-
-_Cast:_
-
-Bruno Ganz _(Damiel)_
-
-Solveig Dommartin _(Marion)_
-
-Otto Sander _(Cassiel)_
-
-Curt Bois _(Homer)_
-
-Peter Falk _(himself)_
-
-Hans Martin Stier _(the dying man)_
-
-Elmar Wilms _(a sad man)_
-
-Sigurd Rachman _(the suicide)_
-
-Beatrice Manowski _(a young prostitute)_
-
-_at the circus:_
-
+**Cast**  
+Bruno Ganz _(Damiel)_  
+Solveig Dommartin _(Marion)_  
+Otto Sander _(Cassiel)_  
+Curt Bois _(Homer)_  
+Peter Falk _(himself)_  
+Hans Martin Stier _(the dying man)_  
+Elmar Wilms _(a sad man)_  
+Sigurd Rachman _(the suicide)_  
+Beatrice Manowski _(a young prostitute)_  
+_at the circus:_  
 Lajos Kovács _(Marion’s coach),_ Bruno Rosaz  
 _(the clown),_ Laurent Petitgand _(the bandleader),_ Chico Rojo Ortega _(the drummer),_ Otto Kuhnle, Christopher Merg _(the juggler),_ Peter Werner  
-_(the manager),_ Susanne Vierkötter, Paul Busch, Karin Busch, Irene Mössinger, Franky
-
-_the angels at the public library:_
-
+_(the manager),_ Susanne Vierkötter, Paul Busch, Karin Busch, Irene Mössinger, Franky  
+_the angels at the public library:_  
 Teresa Harder, Daniella Nasincova,  
-Bernard Eisenschitz, Didier Flamand, Rolf Henke, Scott Kirby, Franck Glemin
-
-_air raid shelter:_
-
+Bernard Eisenschitz, Didier Flamand, Rolf Henke, Scott Kirby, Franck Glemin  
+_air raid shelter:_  
 Jerry Barrish _(the director),_ Jeanette Pollak  
 _(the wardrobe lady),_ Christian Bartels  
 _(the ‘Hitlerjunge’),_ David Crome _(the assistant director),_ Käthe Fürstenwerth, Werner Schönrock, Bernd Ramien, Erika Rabau, Silvia Blagojeva Itscherenska, Sultan Meral, Olivier Picot,  
-Jochen Gliscinsky, Erich Schupke
-
-_in their apartments:_
-
+Jochen Gliscinsky, Erich Schupke  
+_in their apartments:_  
 Margarete Hafner, Oliver Herder,  
 Margitta Haberland, Jürgen Heinrichs,  
 Ralf Strathmann, Walter Ratayszak,  
-Charlotte Oberberg, Lubinka Kostic
-
-_on the highway:_
-
+Charlotte Oberberg, Lubinka Kostic  
+_on the highway:_  
 Gisela Westerboer, Andreas Valentin, Anne Gerstl, Dirk Vogeley, Ruth Rischke, Family Ayik  
 _bands_:  
 Crime and the City Solution (Simon Bonney, Mick Harvey, Harry Howard, Rowland Howard, Kevin Godfrey), Nick Cave and the Bad Seeds (Nick Cave, Thomas Wydler, Blixa Bargeld, Roland Wolf, Kid Congo)  
@@ -194,5 +158,5 @@ West Germany/France 1987©
 129 mins  
 Digital 4K
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzOTI0NTEyXX0=
+eyJoaXN0b3J5IjpbMTY2MDkxMjkwNF19
 -->
