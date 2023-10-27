@@ -6,13 +6,12 @@ date: 2023-10-27
 readtime: true
 categories: ['NEW RELEASES']
 tags: [Documentary]
-metadata: 'Estonia-France-Iceland 2023, 89mins<br> Director: Robert Wise'
-pdf: '2023-10-21-andromeda-strain.pdf'
+metadata: 'Estonia-France-Iceland 2023, 89 mins<br> Director: <Anna Hints'
+pdf: '2023-10-27-smoke-sauna-sisterhood.pdf'
 ---
 
-While completing the deeply cleansing smoke sauna rituals and traditions of Estonia’s Võro community, a group of women share their innermost secrets and intimate experiences. Their stories touch on trauma and shame but also surprise, joy and acceptance. Director Anna Hints’ camera beautifully observes the bodies, processes and healing power of the smoke sauna, while patiently tapping into the healing power of shared storytelling. A documentary like you may have never seen before, this special film won the World Cinema Documentary Directing Award at Sundance Film Festival, and was selected as Estonia’s official entry for Best International Feature Film at the Academy Awards.
-
-Kimberley Sheehan, Film and Events Programmer
+While completing the deeply cleansing smoke sauna rituals and traditions of Estonia’s Võro community, a group of women share their innermost secrets and intimate experiences. Their stories touch on trauma and shame but also surprise, joy and acceptance. Director Anna Hints’ camera beautifully observes the bodies, processes and healing power of the smoke sauna, while patiently tapping into the healing power of shared storytelling. A documentary like you may have never seen before, this special film won the World Cinema Documentary Directing Award at Sundance Film Festival, and was selected as Estonia’s official entry for Best International Feature Film at the Academy Awards.  
+**Kimberley Sheehan, Film and Events Programmer**  
 
 The word ‘intimate’ is too often attached to films; Anna Hints’s mesmeric documentary _Smoke Sauna Sisterhood_, however, truly earns that descriptor. The film unfolds entirely within and around a wooden cabin in the forest, where a group of women take part in the smoke sauna, a bathing ritual originating in south-east Estonia. Inside the hut a stone-covered, chimney-less stove fills the space with smoke and the women gather naked in the heat. Sweating in the darkness they share their deepest secrets and hidden shames; it becomes clear that the sauna is about purifying the soul as much as the body.
 
@@ -77,7 +76,31 @@ From Fri 20 Oct
 **Pressure**  
 From Fri 3 Nov  
 <br>
+<br>
 
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxOTY0NTMxLC0yODE2MDczNDZdfQ==
+eyJoaXN0b3J5IjpbMjEyNzMzMjc3MiwtMjgxNjA3MzQ2XX0=
 -->
