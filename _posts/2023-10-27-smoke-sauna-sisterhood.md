@@ -54,10 +54,7 @@ Digital
 
 A Conic Release  
 
-<![endif]-->
-
-**NEW RELEASES**
-
+**NEW RELEASES**  
 **The Old Oak**  
 Continues from 29 Sep  
 **Smoke Sauna Sisterhood**  
