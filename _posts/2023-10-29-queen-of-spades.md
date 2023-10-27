@@ -1,7 +1,6 @@
 
 
 
-<![endif]-->
 
 Described by Martin Scorsese as ‘A uniquely haunting film’ and once thought lost forever, _The Queen of Spades_ is the perfect horror tale. It’s 1806 and in  
 St Petersburg, Captain Suvorin (Anton Walbrook) refuses to partake in the fashionable card game of faro, infamous for fortunes being won and lost on the turn of a card. Instead, he purchases an old book that unveils supposedly true stories about people who have sold their souls for power or wealth. He becomes fascinated by one story, which he believes is about the now elderly Countess Ranevskaya (Edith Evans). Desperate to learn the secrets of her wealth, he starts to court her ward, Lizavyeta (Yvonne Mitchell). But danger lies ahead. Thorold Dickinson (_Gaslight_) does a fine job creating a sinister, claustrophobic atmosphere and adopts a variety of innovative techniques to create a sense of foreboding.
@@ -21,14 +20,10 @@ Dickinson, who began as an editor, shifts from scene to scene with intoxicating 
 It’s a headlong tale of pacts with dark forces in which evil really seems palpable. As one nobleman in the film declares: ‘Evil is… a mighty force that is abroad in the world to take possession of men’s souls – if they will allow it to.’ Dickinson keeps it nicely ambiguous how far the story’s supernatural elements are products of superstition and Herman’s fevered imagination; but the vision is dark, poignant, even tragic. Watching this film makes it seem well-nigh tragic too that Dickinson only made one more feature in Britain, the cruelly underrated and equally unconventional _Secret People_ (1951) with Serge Reggiani, Valentina Cortese and a young Audrey Hepburn. But at least _The Queen of Spades_ can now take its rightful place in our newly enriched history of British cinema.  
 **Philip Horne, _Sight and Sound_, January 2010**  
 <br>
-<![endif]-->
 
-**The Queen of Spades**
-
-_Directed by:_ Thorold Dickinson
-
-Associated British Picture Corporation Limited _present_ Anatole De Grunwald_’s production_
-
+**THE QUEEN OF SPADES**  
+_Directed by:_ Thorold Dickinson  
+Associated British Picture Corporation Limited _present_ Anatole De Grunwald _’s production_  
 _Distributed by:_ Associated British Pathé  
 _Produced by:_ Anatole De Grunwald  
 _Associate Producer:_ Jack Clayton  
@@ -95,6 +90,8 @@ UK 1949
 Digital 4K  
 
 * Uncredited
+* 
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4OTI4NTIxLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTM4NDc0NjEwOSw3MzA5OTgxMTZdfQ==
 -->
