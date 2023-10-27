@@ -57,13 +57,9 @@ I’m honoured people are still responding to this film and that they are identi
 **DONNIE DARKO**  
 _Director_: Richard Kelly  
 ©_/Presented by_: Pandora Inc.  
-_Production Companies_: Flower Films,  
-Darko Productions  
-_Executive Producers_: Drew Barrymore,  
-Hunt Lowry, Casey La Scala, William Tyrer,  
-Chris J. Ball, Aaron Ryder  
-_Producers_: Sean McKittrick, Nancy Juvonen,  
-Adam Fields  
+_Production Companies_: Flower Films,  Darko Productions  
+_Executive Producers_: Drew Barrymore,  Hunt Lowry, Casey La Scala, William Tyrer,  Chris J. Ball, Aaron Ryder  
+_Producers_: Sean McKittrick, Nancy Juvonen,  Adam Fields  
 _Line Producer_: Tom Hayslip  
 _Unit Production Manager_: Betsy Mackey  
 _Production Co-ordinator_: Kim Percival  
@@ -76,8 +72,7 @@ _Script Supervisor_: Rebecca E. Asher
 _Casting_: Joseph Middleton, Michelle Morris  
 _Written by_: Richard Kelly  
 _Director of Photography_: Steven Poster  
-_Camera Operators_: Dave Chameides,  
-Steve Gainer, Richard Crudo, Dick Montagne, Michael Scott, Bing Socolsky  
+_Camera Operators_: Dave Chameides,  Steve Gainer, Richard Crudo, Dick Montagne, Michael Scott, Bing Socolsky  
 _Steadicam Operator_: Dave Chameides  
 _Visual Effects Supervisor_: Marcus Keys  
 _Visual Effects_: Amalgamated Pixels  
@@ -106,11 +101,9 @@ _Score Recorded and Mixed by_: Todd Burke
 _Choreography_: Marguerite Pomerhn-Derricks  
 _Sound Design_: Michael Payne  
 _Production Sound Mixer_: Coleman Metts  
-_Lead Re-recording Mixers_: Chris David,  
-Chuck Michael  
+_Lead Re-recording Mixers_: Chris David,  Chuck Michael  
 _Supervising Sound Editor_: Victoria Rose Sampson  
-_Dialogue Editors_: Victoria Rose Sampson,  
-Nancy Tracy  
+_Dialogue Editors_: Victoria Rose Sampson,  Nancy Tracy  
 _Effects/Background Editor_: Jeff K. Brunello  
 _ADR Recordist_: Chad Blinman  
 _ADR Mixer_: Matt Beville  
@@ -122,8 +115,7 @@ _Stunt Co-ordinator_: Mickey Giacomazzi
 _Stand-ins_: Wes Hall, Jeanna Phillips  
 _Special Thanks_: Eli Roth
 
-_Cast:_
-
+**Cast**  
 Jake Gyllenhaal _(Donnie Darko)_  
 Jena Malone _(Gretchen Ross)_  
 Drew Barrymore _(Karen Pomeroy)_  
@@ -140,8 +132,7 @@ Gary Lundy _(Sean Smith)_
 Seth Rogen _(Ricky Danforth)_  
 Stuart Stone _(Ronald Fisher)_  
 Daveigh Chase _(Samantha Darko)_  
-Patience Cleveland_  
-(Roberta Sparrow/Grandma Death)_  
+Patience Cleveland _(Roberta Sparrow/Grandma Death)_  
 David Moreland _(Principal Cole)_  
 Jolene Purdy _(Cherita Chen)_  
 Arthur Taxier _(Dr Fisher)_  
@@ -166,11 +157,10 @@ Sarah Hudson _(friend)_
 Fran Kranz _(passenger)_  
 Scotty Leavenworth _(David)_
 
-USA 2001©
-
-113 mins
-
+USA 2001©  
+113 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTg5MDkxXX0=
+eyJoaXN0b3J5IjpbLTExMTU2OTQ5MDldfQ==
 -->
