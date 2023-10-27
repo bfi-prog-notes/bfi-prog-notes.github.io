@@ -41,23 +41,19 @@ _Hair Stylist_: Betty Cross
 _Music Composed,Arranged and Conducted by_: Brian Easdale  
 _[Played] With_: The Philharmonia Orchestra  
 _Sound_: Charles Poulton, Red Law  
-_Studios_: British National Studios,  
-London Film Studios Shepperton
+_Studios_: British National Studios,  London Film Studios Shepperton
 
-_uncredited_
-
+_uncredited_  
 _French Unit Manager_: Charlot  
 _Accountant_: Philip Corbishley  
 _2nd Assistant Director_: Archie Knowles  
 _3rd Assistant Director_: David Tomblin  
 _Production Assistant_: Charles Orme  
-_Production Secretaries_: Gwladys Jenks,  
-Marjorie Mein  
+_Production Secretaries_: Gwladys Jenks,  Marjorie Mein  
 _Personal Assistant to Mr Powell_: Bill Paton  
 _Secretary to Mr Powell_: Irene Leslie  
 _Floor Runner_: Lee Laurence  
-_UNESCO Film Fellowship Student (Norway)_:  
-N.H.R. Muller  
+_UNESCO Film Fellowship Student (Norway)_:  N.H.R. Muller  
 _French Assistant Director_: Paul Pantaleon  
 _Assistant Continuity_: Joanna Busby  
 _Technicolor Technician_: George Minassian  
@@ -65,13 +61,11 @@ _Technicolor Assistant_: Dennis Bartlett
 _Focus Puller_: Bill Lee  
 _Clapper Loader_: Gerry Anstiss  
 _Chief Electrician’s Assistant_: D. Collier  
-_Camera Grips_: Charles Webb, W. Anderson,  
-I. Culver  
+_Camera Grips_: Charles Webb, W. Anderson,  I. Culver  
 _Stills_: Richard Cantouris  
 _Assembly Cutter_: Noreen Ackland  
 _Assistant Editor_: Derek Armstrong  
-_2nd Assistant Editors_: Frankie Taylor,  
-Stephen Rowson  
+_2nd Assistant Editors_: Frankie Taylor,  Stephen Rowson  
 _Assistant Art Director_: Elven Webb  
 _Chief Draughtsman_: Maurice Fowler  
 _Draughtsman_: John Peters  
@@ -90,16 +84,13 @@ _Sound Mixer_: George Adams
 _Sound Camera Operator_: Bernard Hesketh  
 _Boom Operator_: Peter Butcher  
 _Boom Assistant_: Bryan Coates  
-_Boom Maintenance_: Norman Bolland,  
-George Barrett  
-_Nautical Technical Adviser_:  
-Lt Commander G.E. Mills  
+_Boom Maintenance_: Norman Bolland,  George Barrett  
+_Nautical Technical Adviser_:  Lt Commander G.E. Mills  
 _Master of Horse_: A.G. Parry Jones  
 _Publicity_: Vivienne Knight  
 _Assistant Publicity_: Franz Berke, Jean Osborne
 
-_Cast:_
-
+**Cast**  
 David Niven _(Sir Percy Blakeney)_  
 Margaret Leighton _(Lady Marguerite Blakeney)_  
 Jack Hawkins _(Prince of Wales)_  
@@ -131,25 +122,20 @@ John Hewitt _(Major Pretty)_
 Hugh Kelly _(Mr Fitzdrummond)_  
 Richmond Nairne _(Beau Pepys)_
 
-_uncredited_
-
+_uncredited_  
 Peter Copley _(tailor)_  
 Howard Vernon _(Comte de Tournai)_  
 Peter Gawthorne _(Chauvelin’s servant)_  
 Archie Duncan, James Lomas _(men in baths)_  
 Sally Newland
 
-UK 1950
-
-109 mins
-
+UK 1950  
+109 mins  
 35mm – A BFI National Archive print
 
-Please note, the archive 35mm print has  
-occasional issues with picture and sound
+Please note, the archive 35mm print has  occasional issues with picture and sound
 
-The screening on Mon 13 Nov will include an introduction by Bryony Dixon, BFI National  
-Archive Curator
+The screening on Mon 13 Nov will include an introduction by Bryony Dixon, BFI National  Archive Curator<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3NTU0OTA2XX0=
+eyJoaXN0b3J5IjpbLTkzMDQ3OTg4NF19
 -->
