@@ -18,7 +18,35 @@ Such empowerment does not come easily. The discussions we overhear are sometimes
 
 _Smoke Sauna Sisterhood_ was shot over the course of seven years, but because Hints provides no time markers beyond the gradual changing of the seasons, we never quite know where we are in this chronology. Just as when sweating in a sauna, we might lose track of the passing minutes, the film suspends us in a liminal space, sequestered away from the modern world. By the end, that frozen lake has thawed; amid the lush surroundings the women float – weightless, unburdened, free.  
 **Rachel Pronger, _Sight and Sound_, 12 October 2023**  
+<br>
+<![endif]-->
 
+**Smoke Sauna Sisterhood (Savvusanna sõsarad)**  
+_Director_: Anna Hints  
+_©_: Alexandra Film, Kepler22 Productions, Ursus Parvus  
+_Production Company_: Alexandra Film  
+_In co-production with_: Kepler22 Productions, Ursus Parvus  
+_With the support of_: Estonian Film Institute, Centre national du cinéma et de l’image animée, Icelandic Film Centre, Sundance Institute Documentary Program, The Cultural Endowment of Estonia, Tartu Film Fund  
+_International Sales_: Autlook Filmsales  
+_Post-production Co-ordinator_: Priit Pääsuke  
+_Screenwriter_: Anna Hints  
+_Story Consultant_: Merit Kask  
+_Cinematographers_: Ants Tammik, Anna Hints  
+_VFX_: Hendrik Proosa  
+_Editors_: Hendrik Mägar, Tushar Prakash, Qutaiba Barhamji, Martin Männik, Anna Hints  
+_Credits Designer_: Eva Reiska  
+_Colourist_: Sten-Johan Lill  
+_Music_: Eðvarð Egilsson, Eeter  
+_Vocalists_: Anna Hints, Unnur Jónsdóttir,
+Marja-Liisa Plats  
+_Sound Designer_: Huldar Freyr Arnarson  
+_Co-sound Designer_: Eðvarð Egilsson  
+
+Estonia-France-Iceland 2023  
+89 mins  
+Digital  
+
+A Conic Release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTE0MTIxNF19
+eyJoaXN0b3J5IjpbLTIwMjE5Mjg3NDhdfQ==
 -->
