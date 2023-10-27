@@ -6,7 +6,7 @@ date: 2023-10-30
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Fantasy, Comedy, Period]
-metadata: 'Japan 1959, 94 mins<br> Director: Yasujirō Ozu'
+metadata: 'UK 1981, 116 mins<br> Director: <![endif]--> Terry Gilliam'
 pdf: '2023-09-25-good-morning-relaxed.pdf'
 ---
 
@@ -23,8 +23,24 @@ In our relaxed discussions, we will investigate how living with autism can provo
 **Georgia Kumari Bradburn** 
 
 The post-screening discussion will be led by filmmaker Georgia Kumari Bradburn of the Neurocultures Collective and the Autism Through Cinema Podcast  
+<br>
 
+**TIME BANDITS**  
+_Director:_ Terry Gilliam  
+_Production Company:_ Handmade Films  
+_Producer:_ Terry Gilliam  
+_Written by:_ Michael Palin, Terry Gilliam  
 
+**With**  
+Craig Warnock  
+David Rappaport  
+Michael Palin  
+John Cleese  
+Kenny Baker  
+
+UK 1981  
+116 mins  
+Digital  
 
 **We welcome your feedback on this screening. Relaxedscreeningsfeedback@bfi.org.uk**
 
@@ -75,5 +91,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 • Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzIxOTQ1NTAsLTkyMDE5MjE2NV19
+eyJoaXN0b3J5IjpbLTE0MzkzMDE5ODAsLTkyMDE5MjE2NV19
 -->
