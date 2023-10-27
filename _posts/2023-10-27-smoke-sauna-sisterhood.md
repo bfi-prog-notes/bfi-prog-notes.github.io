@@ -45,7 +45,29 @@ Estonia-France-Iceland 2023
 89 mins  
 Digital  
 
-A Conic Release
+A Conic Release  
+
+<![endif]-->
+
+**NEW RELEASES**
+
+**The Old Oak**  
+Continues from 29 Sep  
+**Smoke Sauna Sisterhood**  
+From Fri 27 Oct  
+**How to Have Sex**  
+From Fri 3 Nov  
+**Is There Anybody Out There?**  
+From Fri 17 Nov  
+**The Eternal Daughter**  
+From Fri 24 Nov    
+**RE-RELEASES**  
+**I Know Where I’m Going!**  
+From Thu 19 Oct  
+**Mean Streets**  
+From Fri 20 Oct  
+**Pressure**  
+From Fri 3 Nov  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzEzNDc1M119
+eyJoaXN0b3J5IjpbLTI4MTYwNzM0Nl19
 -->
