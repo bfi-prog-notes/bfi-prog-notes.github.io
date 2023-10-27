@@ -1,3 +1,14 @@
+---
+layout: post
+title: Run Lola Run
+published: true
+date: 2023-10-27
+readtime: true
+categories: ['DESTINATION TIME TRAVEL<br>PLAYING WITH TIME IN FILM AND TV']
+tags: [Thriller]
+metadata: 'Germany 1998, 80 mins<br> Director: Tom Tykwer'
+pdf: '2023-10-27-run-lola-run.pdf'
+---
 
 ‘Like the circles that you find in the windmills of your mind.’  
 Marilyn Bergman and Alan Bergman
@@ -109,6 +120,74 @@ Germany 1998
 80 mins  
 Digital 4K
 <br><br>
+
+**DESTINATION TIME TRAVEL: PLAYING WITH TIME IN FILM AND TV**<br>
+**The Time Machine**<br>
+Mon 16 Oct 20:40; Sat 28 Oct 15:10; Mon 20 Nov 18:15<br>
+**Time after Time**<br>
+Sun 22 Oct 18:20; Mon 13 Nov 20:40<br>
+**Time Bandits**<br>
+Wed 25 Oct 20:45; Thus 26 Oct 14:40; Sun 5 Nov 11:30<br>
+**Je t’aime je t’aime**<br>
+Thu 26 Oct 20:40; Sat 18 Nov 18:30<br>
+**Telling the Tales of Time + Q&A with Steve Nallon**<br>
+Fri 27 Oct 18:15<br>
+**Run Lola Run (Lola rennt)**<br>
+Fri 27 Oct 20:45<br>
+**Donnie Darko**<br>
+Sat 28 Oct 18:00; Sat 11 Nov 20:20; Fri 17 Nov 20:45<br>
+**Somewhere in Time**<br>
+Thu 2 Nov 20:30; Sat 18 Nov 14:20<br>
+**The TARDIS: The Most Famous Time Machine in the Universe**<br>
+Sat 4 Nov 12:00<br>
+**Comedy Time-Travel Special with writer Rob Grant, actor Robert Llewellyn, exec producer Paul Jackson and director Ed Bye – Red Dwarf: Backwards + Timewasters**<br>
+Sun 5 Nov 14:15<br>
+**Planet of the Apes**<br>
+Thu 9 Nov 20:45<br>
+**Tomorrow I’ll Wake Up and Scald Myself with Tea (Zítra vstanu a oparím se cajem) + **La Jetée**<br>
+Fri 10 Nov 20:40; Sat 25 Nov 15:00<br>
+**The Tomorrow People: A Rift in Time + Q&A**<br>
+Sat 11 Nov 12:00<br>
+**Predestination**<br>
+Sat 18 Nov 20:45; Tue 28 Nov 18:20<br>
+**Lazarus Table Reading**<br>
+Sun 19 Nov 15:15<br>
+**Beyond the Infinite Two Minutes (Dorosute no hate de bokura) + Felix the Cat Trifles with Time**<br>
+Tue 21 Nov 18:30; Thu 23 Nov 21:00<br>
+
+**DESTINATION: TIME TRAVEL AT BFI IMAX**<br>
+**12 Monkeys + La Jetée**<br>
+Sun 22 Oct 11:30<br>
+**The Terminator + Terminator 2: Judgment Day**<br>
+Mon 30 Oct 18:30<br>
+**Back to the Future Trilogy**<br>
+Sun 19 Nov 11:30<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTcxMzA2MTY0OV19
 -->
