@@ -10,7 +10,7 @@ metadata: 'UK 1981, 116 mins<br> Director: Terry Gilliam'
 pdf: '2023-10-30-time-bandits-relaxed.pdf'
 ---
 
-<img style="float: left;" src="/img/good-morning-02.jpg"><br><br><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/time-bandits.png"><br><br><br><br><br><br><br><br><br><br><br>
 
 _+ intro and discussion_
 
@@ -91,5 +91,6 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 • Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDY5NTA4NiwtOTIwMTkyMTY1XX0=
+eyJoaXN0b3J5IjpbMTc2NTk5MzgyLDEwODQ2OTUwODYsLTkyMD
+E5MjE2NV19
 -->
