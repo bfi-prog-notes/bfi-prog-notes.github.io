@@ -1,6 +1,16 @@
+---
+layout: post
+title: Time Bandits
+published: true
+date: 2023-10-30
+readtime: true
+categories: ['RELAXED SCREENING']
+tags: [Fantasy, Comedy, Period]
+metadata: 'Japan 1959, 94 mins<br> Director: Yasujirō Ozu'
+pdf: '2023-09-25-good-morning-relaxed.pdf'
+---
 
-
-<![endif]-->
+<img style="float: left;" src="/img/good-morning-02.jpg"><br><br><br><br><br><br><br><br><br><br><br>
 
 _+ intro and discussion_
 
@@ -9,11 +19,13 @@ Terry Gilliam’s family-friendly adventure takes us into the world of Kevin, a 
 How many of us have wished to explore beyond our conception of space and time? Our Destination: Time Travel series of Relaxed Screenings invites you to explore new ways of thinking about time, its locations, its inhabitants, and its oddities. We will be focusing on two films that present radically different perspectives of time travel: the traditional fantasy of _Time Bandits_, and the revolutionary realism of  
 _Run Lola Run_. Both feature alienated protagonists that embrace their divergence, as their stories defy metaphysical conventions.
 
-In our relaxed discussions, we will investigate how living with autism can provoke a desire to escape into alternative timelines, and how these films encourage our own ways of challenging our neurotypical world. Whether this is by escaping to Ancient Greece with a band of thieving dwarves, or by running across Berlin in multiple timelines to save a loved one, these screenings and discussions will provide a comfortable space to explore and understand neurodiversity beyond the logic of time and space.
+In our relaxed discussions, we will investigate how living with autism can provoke a desire to escape into alternative timelines, and how these films encourage our own ways of challenging our neurotypical world. Whether this is by escaping to Ancient Greece with a band of thieving dwarves, or by running across Berlin in multiple timelines to save a loved one, these screenings and discussions will provide a comfortable space to explore and understand neurodiversity beyond the logic of time and space.  
+**Georgia Kumari Bradburn** 
 
-Georgia Kumari Bradburn
+The post-screening discussion will be led by filmmaker Georgia Kumari Bradburn of the Neurocultures Collective and the Autism Through Cinema Podcast  
 
-The post-screening discussion will be led by filmmaker Georgia Kumari Bradburn of the Neurocultures Collective and the Autism Through Cinema Podcast
+
+
 **We welcome your feedback on this screening. Relaxedscreeningsfeedback@bfi.org.uk**
 
 
@@ -63,5 +75,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 • Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTk1ODI3MSwtOTIwMTkyMTY1XX0=
+eyJoaXN0b3J5IjpbLTExMzIxOTQ1NTAsLTkyMDE5MjE2NV19
 -->
