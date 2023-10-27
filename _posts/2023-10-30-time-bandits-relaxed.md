@@ -6,8 +6,8 @@ date: 2023-10-30
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Fantasy, Comedy, Period]
-metadata: 'UK 1981, 116 mins<br> Director: <![endif]--> Terry Gilliam'
-pdf: '2023-09-25-good-morning-relaxed.pdf'
+metadata: 'UK 1981, 116 mins<br> Director: Terry Gilliam'
+pdf: '2023-10-30-time-bandits-relaxed.pdf'
 ---
 
 <img style="float: left;" src="/img/good-morning-02.jpg"><br><br><br><br><br><br><br><br><br><br><br>
@@ -91,5 +91,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 • Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzkzMDE5ODAsLTkyMDE5MjE2NV19
+eyJoaXN0b3J5IjpbMTA4NDY5NTA4NiwtOTIwMTkyMTY1XX0=
 -->
