@@ -57,22 +57,19 @@ Frances Clare _(Miss Amelia Clomber)_
 Valentine Dunn _(Martha)_  
 Richmond Nairne _(Martha’s brother)_  
 Owen Holder _(Brother Minister)_  
-Raymond Rollett, Bartlett Mullins,  
-Arthur Reynolds, Gerald Lawson _(chapel elders)_  
-Anne Tetheradge_  
-(Miss James, Mr James’s daughter)_  
+Raymond Rollett, Bartlett Mullins,  Arthur Reynolds, Gerald Lawson _(chapel elders)_  
+Anne Tetheradge _(Miss James, Mr James’s daughter)_  
 Peter Dunlop _(cornet player)_  
 Gerald Lawson _(roadmender)_  
 Louis Phillips _(country policeman)_  
 Raymond Rollett _(Hunter’s Arms landlord)_
 
-UK-USA 1950
-
-111 mins
-
+UK-USA 1950  
+111 mins  
 35mm – A BFI National Archive print
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDcxMDg2OF19
+eyJoaXN0b3J5IjpbMTAxMTI5NjQwNF19
 -->
