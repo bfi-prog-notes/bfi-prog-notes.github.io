@@ -29,118 +29,62 @@ _Directed by:_ Thorold Dickinson
 
 Associated British Picture Corporation Limited _present_ Anatole De Grunwald_’s production_
 
-_Distributed by:_ Associated British Pathé
+_Distributed by:_ Associated British Pathé  
+_Produced by:_ Anatole De Grunwald  
+_Associate Producer:_ Jack Clayton  
+_The Production Manager:_ Isobel Pargiter  
+_The Assistant Director:_ John Gaudioz  
+_The Continuity:_ Marjorie Owens  
+_The Screenplay by:_ Rodney Ackland, Arthur Boys  
+_The Story by:_ Alexander Pushkin  
+_The Director of Photography:_ Otto Heller  
+_The Camera Operators:_ Gus Drisse, Val Stewart  
+_The Film Editor:_ Hazel Wilkinson  
+_The Art Director:_ William Kellner  
+_The Settings and Costumes by:_ Oliver Messel  
+_The Assistant to Oliver Messel:_ Ann Wemyss  
+_The Set Dresser:_ Philip Stockford  
+_Draughtsman:_ Ken Adam *  
+_The Wardrobe Master:_ W. Smith  
+_The Fabric Adviser:_ Scot Slimon  
+_The Furs by:_ Deanfields  
+_The Clothes Executed by:_ Simmons  
+_The Make-up:_ Robert Clarke  
+_The Hairdressers:_ Frank Cross, Betty Cross  
+_The Music by:_ Georges Auric  
+_The Musical Director:_ Louis Levy  
+_The Dances Arranged by:_ David Paltenghi  
+_The Sound Recordist:_ Frank McNally  
+_The Dubbing Recordist:_ L.H. Shilton  
+_The Dubbing Editor:_ Audrey Bennett  
+_Sound System:_ RCA Sound System  
+_The Period Adviser:_ Dr Baird  
+_Made at:_ Welwyn Studios  
 
-_Produced by:_ Anatole De Grunwald
-
-_Associate Producer:_ Jack Clayton
-
-_The Production Manager:_ Isobel Pargiter
-
-_The Assistant Director:_ John Gaudioz
-
-_The Continuity:_ Marjorie Owens
-
-_The Screenplay by:_ Rodney Ackland,
-
-Arthur Boys
-
-_The Story by:_ Alexander Pushkin
-
-_The Director of Photography:_ Otto Heller
-
-_The Camera Operators:_ Gus Drisse, Val Stewart
-
-_The Film Editor:_ Hazel Wilkinson
-
-_The Art Director:_ William Kellner
-
-_The Settings and Costumes by:_ Oliver Messel
-
-_The Assistant to Oliver Messel:_ Ann Wemyss
-
-_The Set Dresser:_ Philip Stockford
-
-_Draughtsman:_ Ken Adam *
-
-_The Wardrobe Master:_ W. Smith
-
-_The Fabric Adviser:_ Scot Slimon
-
-_The Furs by:_ Deanfields
-
-_The Clothes Executed by:_ Simmons
-
-_The Make-up:_ Robert Clarke
-
-_The Hairdressers:_ Frank Cross, Betty Cross
-
-_The Music by:_ Georges Auric
-
-_The Musical Director:_ Louis Levy
-
-_The Dances Arranged by:_ David Paltenghi
-
-_The Sound Recordist:_ Frank McNally
-
-_The Dubbing Recordist:_ L.H. Shilton
-
-_The Dubbing Editor:_ Audrey Bennett
-
-_Sound System:_ RCA Sound System
-
-_The Period Adviser:_ Dr Baird
-
-_Made at:_ Welwyn Studios
-
-_Cast:_
-
-Anton Walbrook _(Herman)_
-
-Edith Evans _(the old countess)_
-
-Ronald Howard _(Prince Andrei)_
-
-Mary Jerrold _(old Varvarushka)_
-
-Yvonne Mitchell _(Lizaveta Ivanovna)_
-
-Anthony Dawson _(Fyodor)_
-
-Pauline Tennant _(young countess)_
-
-Miles Malleson _(Tchybukin)_
-
-Athene Seyler _(Princess Ivashin)_
-
-Michael Medwin _(Ilovaisky)_
-
-Maroussia Dimitrevitch _(gypsy singer)_
-
-Ivor Barnard _(bookseller)_
-
-Violetta Elvin _(gypsy dancer)_
-
-Jacqueline Clarke _(milliner’s assistant)_
-
-Yusef Ramart _(countess’s lover)_
-
-Valentine Dyall _(St Germain’s messenger)_
-
-Gordon Begg _(General Volcholnikov)_
-
-Gibb McLaughlin _(bird seller)_
-
-Drusilla Wills _(countess’s old servant)_
-
-Aubrey Mallalieu _(Fedya)_
-
-George Woodbridge _(Vassili)_
-
-Pauline Jameson _(Anyutka)_
-
-Hay Petrie _(Herman’s servant)_
-
+**Cast**  
+Anton Walbrook _(Herman)_  
+Edith Evans _(the old countess)_  
+Ronald Howard _(Prince Andrei)_  
+Mary Jerrold _(old Varvarushka)_  
+Yvonne Mitchell _(Lizaveta Ivanovna)_  
+Anthony Dawson _(Fyodor)_  
+Pauline Tennant _(young countess)_  
+Miles Malleson _(Tchybukin)_  
+Athene Seyler _(Princess Ivashin)_  
+Michael Medwin _(Ilovaisky)_  
+Maroussia Dimitrevitch _(gypsy singer)_  
+Ivor Barnard _(bookseller)_  
+Violetta Elvin _(gypsy dancer)_  
+Jacqueline Clarke _(milliner’s assistant)_  
+Yusef Ramart _(countess’s lover)_  
+Valentine Dyall _(St Germain’s messenger)_  
+Gordon Begg _(General Volcholnikov)_  
+Gibb McLaughlin _(bird seller)_  
+Drusilla Wills _(countess’s old servant)_  
+Aubrey Mallalieu _(Fedya)_  
+George Woodbridge _(Vassili)_  
+Pauline Jameson _(Anyutka)_  
+Hay Petrie _(Herman’s servant)_  
 Brown Derby _(the countess’s footman)_  
 Geoffrey Dunn _(hair dresser)_  
 Ian Colin, Clement McCallin, John Howard, Aubrey Woods, David Paltenghi
@@ -152,5 +96,5 @@ Digital 4K
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzY1Njg3NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMzk4OTI4NTIxLDczMDk5ODExNl19
 -->
