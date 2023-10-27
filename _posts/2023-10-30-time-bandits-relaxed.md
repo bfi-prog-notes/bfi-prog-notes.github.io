@@ -13,35 +13,55 @@ In our relaxed discussions, we will investigate how living with autism can provo
 
 Georgia Kumari Bradburn
 
-The post-screening discussion will be led by filmmaker Georgia Kumari Bradburn of the Neurocultures Collective and the Autism Through Cinema Podcast.
+The post-screening discussion will be led by filmmaker Georgia Kumari Bradburn of the Neurocultures Collective and the Autism Through Cinema Podcast
+**We welcome your feedback on this screening. Relaxedscreeningsfeedback@bfi.org.uk**
+
+
+<img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br><br>
+**BFI Southbank has been awarded the National Autistic Society’s Autism Friendly Award.**
+
+<img style="float: left;" src="/img/steel-charitable-trust-logo-01.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br>
+
+**The next relaxed screening is:**  
+
+**RUN LOLA RUN (LOLA RENNT) + intro and discussion**  
+Monday 27 November 2023 18.40 NFT3  
+<br>
+
+
+**Find out more at**
+**www.whatson.bfi.org.uk**
+**and bfi.org.uk/relaxed**
+
 
 **Relaxed Screenings**
 
 Screenings for neurodivergent audiences, with their companions and assistants.
 
-<![if !supportLists]>· <![endif]>Customers can select their seats when they arrive in the auditorium. You may sit with your family/friendship group or there are some single seats if you prefer.
+• Customers can select their seats when they arrive in the auditorium. You may sit with your family/friendship group or there are some single seats if you prefer.
 
-<![if !supportLists]>· <![endif]>Please leave space between yourself and other groups and retain your selected seats for the duration of the performance if possible.
+• Please leave space between yourself and other groups and retain your selected seats for the duration of the performance if possible.
 
-<![if !supportLists]>· <![endif]>We support you wearing a face covering if you choose to do so.
+• We support you wearing a face covering if you choose to do so.
 
-<![if !supportLists]>· <![endif]>You are welcome to take refreshments into the auditorium but no hot food please.
+• You are welcome to take refreshments into the auditorium but no hot food please.
 
-<![if !supportLists]>· <![endif]>Doors will open 30 minutes before the screening.
+• Doors will open 30 minutes before the screening.
 
-<![if !supportLists]>· <![endif]>No trailers will be shown.
+• No trailers will be shown.
 
-<![if !supportLists]>· <![endif]>The programme will be introduced.
+• The programme will be introduced.
 
-<![if !supportLists]>· <![endif]>Our house lights will remain on a low level throughout the screening, and the volume will be turned slightly down.
+• Our house lights will remain on a low level throughout the screening, and the volume will be turned slightly down.
 
-<![if !supportLists]>· <![endif]>You will be able to leave the auditorium and return during the screening.
+• You will be able to leave the auditorium and return during the screening.
 
-<![if !supportLists]>· <![endif]>There will be a quiet space to use if you need to leave the auditorium.
+• There will be a quiet space to use if you need to leave the auditorium.
 
-<![if !supportLists]>· <![endif]>We understand you may make some noise.
+• We understand you may make some noise.
 
-Please ask us if you need help.
+• Please ask us if you need help.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDE5MjE2NV19
+eyJoaXN0b3J5IjpbMTkzOTk1ODI3MSwtOTIwMTkyMTY1XX0=
 -->
