@@ -1,6 +1,14 @@
-
-
-
+---
+layout: post
+title: Queen of Spades
+published: true
+date: 2023-10-29
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Period]
+metadata: 'UK 1949, 95 mins<br> Director: <Thorold Dickinson'
+pdf: '2023-10-29-queen-of-spades.pdf'
+---
 
 Described by Martin Scorsese as ‘A uniquely haunting film’ and once thought lost forever, _The Queen of Spades_ is the perfect horror tale. It’s 1806 and in  
 St Petersburg, Captain Suvorin (Anton Walbrook) refuses to partake in the fashionable card game of faro, infamous for fortunes being won and lost on the turn of a card. Instead, he purchases an old book that unveils supposedly true stories about people who have sold their souls for power or wealth. He becomes fascinated by one story, which he believes is about the now elderly Countess Ranevskaya (Edith Evans). Desperate to learn the secrets of her wealth, he starts to court her ward, Lizavyeta (Yvonne Mitchell). But danger lies ahead. Thorold Dickinson (_Gaslight_) does a fine job creating a sinister, claustrophobic atmosphere and adopts a variety of innovative techniques to create a sense of foreboding.  
@@ -155,6 +163,6 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQyOTUwNzgsMTM4NDc0NjEwOSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTY2Njg5NjM0NSwxMzg0NzQ2MTA5LDczMD
+k5ODExNl19
 -->
