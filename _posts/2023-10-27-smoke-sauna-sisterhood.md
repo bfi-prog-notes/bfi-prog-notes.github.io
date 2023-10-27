@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Smoke Sauna Sisterhood
+published: true
+date: 2023-10-27
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Documentary]
+metadata: 'Estonia-France-Iceland 2023, 89mins<br> Director: Robert Wise'
+pdf: '2023-10-21-andromeda-strain.pdf'
+---
 
 While completing the deeply cleansing smoke sauna rituals and traditions of Estonia’s Võro community, a group of women share their innermost secrets and intimate experiences. Their stories touch on trauma and shame but also surprise, joy and acceptance. Director Anna Hints’ camera beautifully observes the bodies, processes and healing power of the smoke sauna, while patiently tapping into the healing power of shared storytelling. A documentary like you may have never seen before, this special film won the World Cinema Documentary Directing Award at Sundance Film Festival, and was selected as Estonia’s official entry for Best International Feature Film at the Academy Awards.
 
@@ -68,6 +76,8 @@ From Thu 19 Oct
 From Fri 20 Oct  
 **Pressure**  
 From Fri 3 Nov  
+<br>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTYwNzM0Nl19
+eyJoaXN0b3J5IjpbNDIxOTY0NTMxLC0yODE2MDczNDZdfQ==
 -->
