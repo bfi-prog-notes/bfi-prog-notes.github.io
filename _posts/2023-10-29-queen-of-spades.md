@@ -6,12 +6,11 @@ date: 2023-10-29
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Period]
-metadata: 'UK 1949, 95 mins<br> Director: <Thorold Dickinson'
+metadata: 'UK 1949, 95 mins<br> Director: Thorold Dickinson'
 pdf: '2023-10-29-queen-of-spades.pdf'
 ---
 
-Described by Martin Scorsese as ‘A uniquely haunting film’ and once thought lost forever, _The Queen of Spades_ is the perfect horror tale. It’s 1806 and in  
-St Petersburg, Captain Suvorin (Anton Walbrook) refuses to partake in the fashionable card game of faro, infamous for fortunes being won and lost on the turn of a card. Instead, he purchases an old book that unveils supposedly true stories about people who have sold their souls for power or wealth. He becomes fascinated by one story, which he believes is about the now elderly Countess Ranevskaya (Edith Evans). Desperate to learn the secrets of her wealth, he starts to court her ward, Lizavyeta (Yvonne Mitchell). But danger lies ahead. Thorold Dickinson (_Gaslight_) does a fine job creating a sinister, claustrophobic atmosphere and adopts a variety of innovative techniques to create a sense of foreboding.  
+Described by Martin Scorsese as ‘A uniquely haunting film’ and once thought lost forever, _The Queen of Spades_ is the perfect horror tale. It’s 1806 and in St Petersburg, Captain Suvorin (Anton Walbrook) refuses to partake in the fashionable card game of faro, infamous for fortunes being won and lost on the turn of a card. Instead, he purchases an old book that unveils supposedly true stories about people who have sold their souls for power or wealth. He becomes fascinated by one story, which he believes is about the now elderly Countess Ranevskaya (Edith Evans). Desperate to learn the secrets of her wealth, he starts to court her ward, Lizavyeta (Yvonne Mitchell). But danger lies ahead. Thorold Dickinson (_Gaslight_) does a fine job creating a sinister, claustrophobic atmosphere and adopts a variety of innovative techniques to create a sense of foreboding.  
 **Justin Johnson, Lead Programmer**  
 
 It seems we’re finally witnessing some degree of posthumous restitution for the spectacular run of bad luck that afflicted one of Britain’s most talented directors. In a stop-start feature-directing career that was strikingly diverse and highly international, Thorold Dickinson (1903-1984) only managed to make nine films. One of his two best, _The Queen of Spades_ (1949) is finally emerging on DVD in the UK, with extras including an endorsement from one of his most eminent admirers, Martin Scorsese, who calls it ‘one of the few real classics of supernatural cinema’. If not actually lost, it’s been a mislaid treasure of British cinema, a giddyingly dynamic ‘art film’ _avant la lettre_ made on the margins of the British industry.
