@@ -19,9 +19,8 @@ Such empowerment does not come easily. The discussions we overhear are sometimes
 _Smoke Sauna Sisterhood_ was shot over the course of seven years, but because Hints provides no time markers beyond the gradual changing of the seasons, we never quite know where we are in this chronology. Just as when sweating in a sauna, we might lose track of the passing minutes, the film suspends us in a liminal space, sequestered away from the modern world. By the end, that frozen lake has thawed; amid the lush surroundings the women float – weightless, unburdened, free.  
 **Rachel Pronger, _Sight and Sound_, 12 October 2023**  
 <br>
-<![endif]-->
 
-**Smoke Sauna Sisterhood (Savvusanna sõsarad)**  
+**SMOKE SAUNA SISTERHOOD (SAVVUSANNA SÕSARAD)**  
 _Director_: Anna Hints  
 _©_: Alexandra Film, Kepler22 Productions, Ursus Parvus  
 _Production Company_: Alexandra Film  
@@ -48,5 +47,5 @@ Digital
 
 A Conic Release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE5Mjg3NDhdfQ==
+eyJoaXN0b3J5IjpbLTY5MzEzNDc1M119
 -->
