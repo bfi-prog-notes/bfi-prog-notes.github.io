@@ -1,13 +1,13 @@
 ---
 layout: post
-title: E
+title: Eyes without a Face
 published: true
-date: 2023-10-30
+date: 2023-10-31
 readtime: true
-categories: ['RELAXED SCREENING']
-tags: [Fantasy, Comedy, Period]
-metadata: 'UK 1981, 116 mins<br> Director: Terry Gilliam'
-pdf: '2023-10-30-time-bandits-relaxed.pdf'
+categories: ['HALLOWEEN SCREENINGS']
+tags: [Horror]
+metadata: 'France/Italy 1960, 90 mins<br> Director: Georges Franju'
+pdf: '2023-10-31-eyes-without-a-face.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
@@ -16,8 +16,7 @@ Contains moderate bloody medical horror and violence.
 
 A plastic surgeon becomes obsessed with trying to restore his daughter’s face after a car accident leaves her disfigured. It’s a deadly mission, involving disturbing and experimental methods.
 
-Georges Franju’s chilling horror is a nightmarish, yet lyrical, fable of identity, guilt and obsession, in which visceral frights blend with atmospheric cinematography. This unforgettable classic has influenced countless filmmakers, from John Carpenter to Pedro Almodóvar.
-
+Georges Franju’s chilling horror is a nightmarish, yet lyrical, fable of identity, guilt and obsession, in which visceral frights blend with atmospheric cinematography. This unforgettable classic has influenced countless filmmakers, from John Carpenter to Pedro Almodóvar.  
 bfi.org.uk
 
 **The deathly hinterlands of ‘Eyes without a Face’**
@@ -98,5 +97,5 @@ France/Italy 1960
 Digital  
 \* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODEzODQ3MjddfQ==
+eyJoaXN0b3J5IjpbODU1OTYzODExXX0=
 -->
