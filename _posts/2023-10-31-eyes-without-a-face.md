@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: E
+published: true
+date: 2023-10-30
+readtime: true
+categories: ['RELAXED SCREENING']
+tags: [Fantasy, Comedy, Period]
+metadata: 'UK 1981, 116 mins<br> Director: Terry Gilliam'
+pdf: '2023-10-30-time-bandits-relaxed.pdf'
+---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
@@ -37,6 +44,59 @@ In the final scene, after much turmoil has occurred and several characters have 
 **Adam Scovell, bfi.org.uk, 5 February 2020**  
 <br>
 
+**EYES WITHOUT A FACE (LES YEUX SANS VISAGE)**  
+_Director:_ Georges Franju  
+_Production Companies:_ Champs-Elysées Productions, Lux Film (Rome)  
+_Producer:_ Jules Borkon  
+_Production Manager:_ Pierre Laurent  
+_Unit Production Manager:_ Margot Capelier  
+_1st Assistant Director:_ Claude Sautet  
+_Script Girl:_ Ginette Diamant-Berger  
+_Adaptation:_ Pierre Boileau, Thomas Narcejac, Jean Redon, Claude Sautet  
+_Dialogue:_ Pierre Gascar  
+_Original Novel:_ Jean Redon  
+_Director of Photography:_ Eugen Shuftan  
+_Cameraman:_ Robert Schneider  
+_1st Assistant Operator:_ Pierre Brard  
+_Stills Photography:_ Jean-Louis Castelli  
+_Special Effects:_ Henri Assola  
+_Editor:_ Gilbert Natot  
+_Assistant Editor:_ Denise Natot  
+_Art Director:_ Auguste Capelier  
+_Assistant Art Directors:_ Jacques Mély,
+Claude Moesching  
+_Set Decorator:_ Robert Volper  
+_Gowns:_ Marie-Martine  
+_Make-up:_ Georges Klein  
+_Hairstyles:_ Marcelle Testard  
+_Opticals:_ Lax  
+_Music Composed/Orchestra Directed by:_
+
+Maurice Jarre  
+_Sound:_ Antoine Archimbaud  
+_Animals:_ Marcel LeSourd  
+
+**Cast**  
+Pierre Brasseur _(Dr Génessier)_  
+Alida Valli _(Louise)_  
+Juliette Mayniel _(Edna Gruberg)_  
+Alexandre Rignault _(Inspector Parot)_  
+Béatrice Altariba _(Paulette Merodon)_  
+Charles Blavette _(kennel employee)_  
+Claude Brasseur _(police inspector)_  
+Michel Etcheverry _(Dr Lherminier)_  
+Yvette Etiévent _(mother of sick child)_  
+René Génin _(Henri Tessot)_  
+Lucien Hubert _(2nd man at cemetery)_  
+Marcel Pérès _(1st man at cemetery)_  
+François Guerin _(Dr Jacques Vernon)_  
+Édith Scob _(Christiane Génessier)_  
+Birgitta Juslin _(Juliette)_ *  
+Gabrielle Doulcet _(Dr Génessier’s admirer)_ *  
+France/Italy 1960  
+90 mins  
+Digital  
+\* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTYwNDg3M119
+eyJoaXN0b3J5IjpbLTExODEzODQ3MjddfQ==
 -->
