@@ -68,9 +68,7 @@ _Gowns:_ Marie-Martine
 _Make-up:_ Georges Klein  
 _Hairstyles:_ Marcelle Testard  
 _Opticals:_ Lax  
-_Music Composed/Orchestra Directed by:_
-
-Maurice Jarre  
+_Music Composed/Orchestra Directed by:_ Maurice Jarre  
 _Sound:_ Antoine Archimbaud  
 _Animals:_ Marcel LeSourd  
 
@@ -92,8 +90,10 @@ François Guerin _(Dr Jacques Vernon)_
 Birgitta Juslin _(Juliette)_ *  
 Gabrielle Doulcet _(Dr Génessier’s admirer)_ *  
 France/Italy 1960  
+
 90 mins  
 Digital  
+
 \* Uncredited  
 <br>
 
