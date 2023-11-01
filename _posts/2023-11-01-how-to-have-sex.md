@@ -7,10 +7,10 @@ readtime: true
 categories: ['NEW RELEASES']
 tags: [Drama]
 metadata: 'UK/Greece/Belgium/France 2023, 144 mins<br> Director: Molly Manning Walker'
-pdf: '2023-10-31-shining.pdf'
+pdf: '2023-11-01-how-to-have-sex.pdf'
 ---
 
-_+ Q&A with director Molly Manning Walker and actor Mia McKenna-Bruce_
+_+ Q&A with director Molly Manning Walker and actor Mia McKenna-Bruce (Wednesday 1 November only)_
 
 Tara is 16 and heading to the Cretan coastal town of Malia with her best friends Skye and Em. They’ve finished their exams and are all set for a rites-of-passage holiday full of boozing, clubbing and hooking up. For Tara, the trip holds extra importance – she is desperate to lose her virginity before they head home. Staying in the apartment across from the girls is a group of lads. Amongst them, Tara identifies a couple of potential candidates… Manning Walker accurately captures the giddy freedom of a coming-of-age summer, and a very distinct British youth culture. However, among the buzz and nostalgia, she unpacks some the joys and horrors of the teenage-girl experience. Mia McKenna-Bruce (_The Dumping Ground_), is sensational as Tara, her facial expressions telling us all as Tara’s holiday becomes formative, but not in the way she wished for.  
 **Kimberley Sheehan, Film and Events Programmer**  
@@ -119,6 +119,53 @@ UK/Greece/Belgium/France 2023
 98 mins  
 Digital  
 A MUBI release  
+<br>
+
+**NEW RELEASES**  
+**The Old Oak**  
+Continues from 29 Sep  
+**Smoke Sauna Sisterhood**  
+From Fri 27 Oct  
+**How to Have Sex**  
+From Fri 3 Nov  
+**Is There Anybody Out There?**  
+From Fri 17 Nov  
+**The Eternal Daughter**  
+From Fri 24 Nov    
+<br>
+**RE-RELEASES**  
+**I Know Where I’m Going!**  
+From Thu 19 Oct  
+**Mean Streets**  
+From Fri 20 Oct  
+**Pressure**  
+From Fri 3 Nov  
+<br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTA5NTAxMywtMTU4MzA1Njg0N119
+eyJoaXN0b3J5IjpbLTEwNDkyMzE3MDIsLTE1ODMwNTY4NDddfQ
+==
 -->
