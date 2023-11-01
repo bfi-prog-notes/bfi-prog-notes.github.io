@@ -26,31 +26,18 @@ The widely held view that _Peeping Tom_ killed Powell’s career may be too simp
 <br><br>
 
 **THE QUEEN’S GUARDS**<br>
-
 _Directed by_: Michael Powell<br>
-
 _Production Company_: Imperial<br>
-
 _Presented by:_ Twentieth Century-Fox<br>
-
 _Produced by_: Michael Powell<br>
-
 _Associate Producer_: Simon Harcourt-Smith<br>
-
 _Production Manager_: John Wilcox<br>
-
 _Production Supervisor_: Sydney Streeter<br>
-
 _Associate Director_: Sydney Streeter<br>
-
 _Continuity_: Eileen Hildyard<br>
-
 _Story and Screenplay by_: Roger Milner<br>
-
 _From an idea by_: Simon Harcourt-Smith<br>
-
 _Director of Photography_: Gerald Turpin<br>
-
 _Cameraman_: Derek Browne, James Bawden,  
 Austin Dempster, Robert Huke, Skeets Kelly, Robert Walker, Dudley Lovell, Norman Warwick<br>
 
@@ -139,5 +126,5 @@ UK 1961<br>
 35mm<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3Nzg1ODM3N119
+eyJoaXN0b3J5IjpbLTE4NDM0MTg5MzVdfQ==
 -->
