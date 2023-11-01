@@ -94,7 +94,7 @@ _Sound Designer_: Steve Fanagan
 _Sound Recordist_: Nikos Konstantinou  
 _Supervising Dialogue & ADR Editor_: Levi Mercurio  
 _Stunt Co-ordinator_: Sotiris Kraniotis  
-_Dialect Coach_: Mary Howland
+_Dialect Coach_: Mary Howland  
 
 **Cast**  
 Mia McKenna-Bruce _(Tara)_  
@@ -166,6 +166,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDkyMzE3MDIsLTE1ODMwNTY4NDddfQ
-==
+eyJoaXN0b3J5IjpbNDk1OTczMjI2LC0xMDQ5MjMxNzAyLC0xNT
+gzMDU2ODQ3XX0=
 -->
