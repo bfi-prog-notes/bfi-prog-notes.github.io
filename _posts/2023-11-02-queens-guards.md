@@ -21,124 +21,123 @@ Several reviewers took the opportunity to reflect on Powell’s career, the _Tim
 
 Powell himself dismissed _The Queen’s Guards_ as ‘the most inept piece of filmmaking that I have ever produced or directed’, conceding that ‘we should not have tried to compete with A.E.W. Mason’ – author of the much-filmed imperial adventure story _The Four Feathers_ (1902). Having invested £280,000 in the film, Twentieth Century-Fox deemed it ‘unacceptable to American exhibitors’ – a seemingly perverse decision, given the affection of Americans for the British monarchy and its pomp. In 1964 Powell contemplated acquiring the rights to release it there himself, but was advised he was unlikely to profit from it.
 
-The widely held view that _Peeping Tom_ killed Powell’s career may be too simplistic: barely recouping its negative costs, this film’s failure cannot have enhanced his chances of further funding. Yet, while undoubtedly flawed and problematic, _The Queen’s Guards_ deserves to be seen in its original widescreen Technicolor glory, so it can be reassessed and reintegrated into Powell’s filmography. Hopefully it will emerge from obscurity soon.
+The widely held view that _Peeping Tom_ killed Powell’s career may be too simplistic: barely recouping its negative costs, this film’s failure cannot have enhanced his chances of further funding. Yet, while undoubtedly flawed and problematic, _The Queen’s Guards_ deserves to be seen in its original widescreen Technicolor glory, so it can be reassessed and reintegrated into Powell’s filmography. Hopefully it will emerge from obscurity soon.  
+**Jo Botting, _Sight and Sound_, November 2023**
+<br><br>
 
-Jo Botting, _Sight and Sound_, November 2023
+**THE QUEEN’S GUARDS**<br>
 
-<![endif]-->
+_Directed by_: Michael Powell<br>
 
-**THE QUEEN’S GUARDS**
+_Production Company_: Imperial<br>
 
-_Directed by_: Michael Powell
+_Presented by:_ Twentieth Century-Fox<br>
 
-_Production Company_: Imperial
+_Produced by_: Michael Powell<br>
 
-_Presented by:_ Twentieth Century-Fox
+_Associate Producer_: Simon Harcourt-Smith<br>
 
-_Produced by_: Michael Powell
+_Production Manager_: John Wilcox<br>
 
-_Associate Producer_: Simon Harcourt-Smith
+_Production Supervisor_: Sydney Streeter<br>
 
-_Production Manager_: John Wilcox
+_Associate Director_: Sydney Streeter<br>
 
-_Production Supervisor_: Sydney Streeter
+_Continuity_: Eileen Hildyard<br>
 
-_Associate Director_: Sydney Streeter
+_Story and Screenplay by_: Roger Milner<br>
 
-_Continuity_: Eileen Hildyard
+_From an idea by_: Simon Harcourt-Smith<br>
 
-_Story and Screenplay by_: Roger Milner
-
-_From an idea by_: Simon Harcourt-Smith
-
-_Director of Photography_: Gerald Turpin
+_Director of Photography_: Gerald Turpin<br>
 
 _Cameraman_: Derek Browne, James Bawden,  
-Austin Dempster, Robert Huke, Skeets Kelly, Robert Walker, Dudley Lovell, Norman Warwick
+Austin Dempster, Robert Huke, Skeets Kelly, Robert Walker, Dudley Lovell, Norman Warwick<br>
 
-_Camera Operator_: Derek Browne
+_Camera Operator_: Derek Browne<br>
 
-_Editor_: Noreen Ackland
+_Editor_: Noreen Ackland<br>
 
-_Art Director_: Wilfrid Shingleton
+_Art Director_: Wilfrid Shingleton<br>
 
-_Ladies Costumes by_: Mattli
+_Ladies Costumes by_: Mattli<br>
 
-_Wardrobe Mistress_: Bridget Sellers
+_Wardrobe Mistress_: Bridget Sellers<br>
 
-_Wardrobe Master:_ Duncan McPhee
+_Wardrobe Master:_ Duncan McPhee<br>
 
-_Make-up_: James Hydes
+_Make-up_: James Hydes<br>
 
-_Hairdresser_: Anne Box
+_Hairdresser_: Anne Box<br>
 
 _Original Music Composed and Conducted by_:
 
-Brian Easdale
+Brian Easdale<br>
 
-_Military Music Played by_: Mounted Band of The Horse Guards (The Blues), The Massed Bands, Drums and Pipes of The Brigade of Guards
+_Military Music Played by_: Mounted Band of The Horse Guards (The Blues), The Massed Bands, Drums and Pipes of The Brigade of Guards<br>
 
-_Sound Recordist_: H.C. Pearson, Red Law
+_Sound Recordist_: H.C. Pearson, Red Law<br>
 
-_Sound Editor_: James Shields
+_Sound Editor_: James Shields<br>
 
-_Studio_: Shepperton Studios
+_Studio_: Shepperton Studios<br>
 
-_Cast:_
+_Cast:_<br>
 
-Daniel Massey (_John Fellowes_)
+Daniel Massey (_John Fellowes_)<br>
 
-Raymond Massey (_Captain Fellowes_)
+Raymond Massey (_Captain Fellowes_)<br>
 
-Robert Stephens (_Henry Wynne Walton_)
+Robert Stephens (_Henry Wynne Walton_)<br>
 
-Jack Watson (_Sgt Johnson_)
+Jack Watson (_Sgt Johnson_)<br>
 
-Peter Myers (_Gordon Davidson_)
+Peter Myers (_Gordon Davidson_)<br>
 
-Ursula Jeans (_Mrs Fellowes_)
+Ursula Jeans (_Mrs Fellowes_)<br>
 
-Frank Lawton (_Commander Hewson_)
+Frank Lawton (_Commander Hewson_)<br>
 
-Anthony Bushell (_Major Cole_)
+Anthony Bushell (_Major Cole_)<br>
 
-Cornel Lucas (p_hotographer_)
+Cornel Lucas (p_hotographer_)<br>
 
-Jess Conrad (_Dankworth_)
+Jess Conrad (_Dankworth_)<br>
 
-Ian Hunter (_Dobbie_)
+Ian Hunter (_Dobbie_)<br>
 
-Duncan Lamont (_Wilkes_)
+Duncan Lamont (_Wilkes_)<br>
 
-Elizabeth Shepherd (_Susan_)
+Elizabeth Shepherd (_Susan_)<br>
 
-Judith Stott (_Ruth_)
+Judith Stott (_Ruth_)<br>
 
-Jack Allen (_Brigadier Cummings_)
+Jack Allen (_Brigadier Cummings_)<br>
 
-Laurence Payne (_Farinda_)
+Laurence Payne (_Farinda_)<br>
 
-Eileen Peel (_Mrs Wynne-Walton_)
+Eileen Peel (_Mrs Wynne-Walton_)<br>
 
-William Fox (_Mr Walters_)
+William Fox (_Mr Walters_)<br>
 
-Patrick Connor (_Brewer_)
+Patrick Connor (_Brewer_)<br>
 
-William Young (_Williams_)
+William Young (_Williams_)<br>
 
-Jack Watling (_Captain Shergold_)
+Jack Watling (_Captain Shergold_)<br>
 
-Andrew Crawford (_Biggs_)
+Andrew Crawford (_Biggs_)<br>
 
-Nigel Green (_Abu Sibdar_)
+Nigel Green (_Abu Sibdar_)<br>
 
-René Cutforth (_commentator_)
+René Cutforth (_commentator_)<br>
 
-UK 1961
+UK 1961<br>
 
-110 mins
+110 mins<br>
 
-35mm
+35mm<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjUzNDY5NzBdfQ==
+eyJoaXN0b3J5IjpbLTY3Nzg1ODM3N119
 -->
