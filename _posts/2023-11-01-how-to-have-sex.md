@@ -1,6 +1,14 @@
-
-
-
+---
+layout: post
+title: How to Have Sex
+published: true
+date: 2023-10-31
+readtime: true
+categories: ['PREVIEW']
+tags: [Drama]
+metadata: 'USA/UK 1980, 144 mins<br> Director: Stanley Kubrick'
+pdf: '2023-10-31-shining.pdf'
+---
 
 _+ Q&A with director Molly Manning Walker and actor Mia McKenna-Bruce_
 
@@ -32,5 +40,5 @@ Leo was shocked when a number of the girls and boys started talking about their 
 **Production notes**  
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDY5NDQyOF19
+eyJoaXN0b3J5IjpbLTE1ODMwNTY4NDddfQ==
 -->
