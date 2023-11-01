@@ -4,9 +4,9 @@ title: How to Have Sex
 published: true
 date: 2023-10-31
 readtime: true
-categories: ['PREVIEW']
+categories: ['NEW RELEASES']
 tags: [Drama]
-metadata: 'USA/UK 1980, 144 mins<br> Director: Stanley Kubrick'
+metadata: 'UK/Greece/Belgium/France 2023, 144 mins<br> Director: Molly Manning Walker'
 pdf: '2023-10-31-shining.pdf'
 ---
 
@@ -39,6 +39,101 @@ The young people Walker and her team spoke to were separated into male and femal
 Leo was shocked when a number of the girls and boys started talking about their own assaults, ‘sometimes for the first time, because there was a safe space in which to do so – and because they could see it was a shared experience.’ Making the film became about capturing the ‘subtlety of the social pressures around sex’, admitting ourselves ‘a product of that environment’ and finding a path forward with new solutions for the next generation to feel less alone.  
 **Production notes**  
 <br>
+
+<![endif]-->
+
+**How to Have Sex**
+
+_Directed by_: Molly Manning Walker  
+_©_: Balloon Heaven, Channel Four Television Corporation, the British Film Institute  
+_Production Companies_: Wild Swim Films, Heretic  
+_In co-production with_: Umedia  
+_Presented by_: Film4, BFI  
+_In association with_: MK2 Films, Head Gear Films, Metrol Technology  
+_International Sales by_: MK2  
+_Executive Producers_: Farhana Bhula, Ben Coren, Kristin Irving, Giorgos Karnavas, Nathanaël Karmitz, Fionnuala Jamison, Phil Hunt, Compton Ross  
+_Produced by_: Emily Leo, Ivana MacKinnon, Konstantinos Kontovrakis  
+_Line Producers_: Marie-Elena Dyche,
+
+Kostas Sfakianakis  
+_Production Manager_: Takis Papadopoulos  
+_Production Co-ordinator_: Aspa Thrasivoulou  
+_UK Production Coordinators_: Amelia Deering,
+
+Tidza Karup  
+_Chief Financial Controller_: Richard Juneman  
+_Production Accountant_: Paul Hills  
+_Supervising Location Manager_: Pavlos Svoronos  
+_Post-production Supervisor_: Verity Wislocki,
+
+René Taylor  
+_1st Assistant Director_: Denia Safari  
+_Script Supervisor_: Anna Patrikiou  
+_Casting Director_: Isabella Odoffin  
+_Casting Director (Greece)_:
+
+Romanos Argyropoulos-Ioannou  
+_Casting Associate_: Joanna Sturrock  
+_Written by_: Molly Manning Walker  
+_Director of Photography_: Nicolas Canniccioni  
+_Gaffer_: Babis Kalterimitzis  
+_Key Grip_: Sotiris Ioannidis  
+_Stills Photographer_: Nikos Nikolopoulos  
+_Visual Effects by_: Absolute  
+_Editor_: Fin Oates  
+_Additional Editing_: Nina Annan  
+_Edit Consultant_: Mick Audsley  
+_Production Designer_: Luke Moran-Morris  
+_Supervising Art Director_: Lisa Tsouloupa  
+_Set Decorator_: Giorgos Mavredakis  
+_Graphic Designer_: Panagiotis Zachoulitis  
+_Props Buyer_: Elias Dakovanos  
+_Prop Master_: Yiannis Milonas  
+_Costume Designer_: George Buxton  
+_Costume Supervisor_: Nancy Kane  
+_Hair and Make-up Designer_: Natasha Lawes  
+_Hair & Make-up Artists_: Sophia Voulala,
+
+Dominique Desveaux, Marta Wozniak,
+
+Leanne Burrows  
+_Main & End Titles Design_: Dylan Kendle  
+_Title Design_: Elliot Shields  
+_Colour and Finish by_: Company 3  
+_Composer_: James Jacob  
+_Music Supervisor_: Catherine Grieves  
+_Music Consultant_: James Jacob  
+_Sound Designer_: Steve Fanagan  
+_Sound Recordist_: Nikos Konstantinou  
+_Supervising Dialogue & ADR Editor_: Levi Mercurio  
+_Stunt Co-ordinator_: Sotiris Kraniotis  
+_Dialect Coach_: Mary Howland
+
+_Cast__:_  
+Mia McKenna-Bruce _(Tara)_  
+Lara Peake _(Skye)_  
+Samuel Bottomley _(Paddy)_  
+Shaun Thomas _(Badger)_  
+Enva Lewis _(Em)_  
+Laura Ambler _(Paige)_  
+Anna Antoniades _(airport announcer)_  
+Eleni Sachini _(hotel receptionist)_  
+Anna Antoniades _(female club rep)_  
+Elliot Warren _(male club rep)_  
+Guy Lewis _(Tom from London)_  
+Eilidh Loan _(Fi)_  
+Finlay Vane Last _(Josh)_  
+Eric Manaka, Matilda Rowe,
+
+Elizabeth Matthews _(Fi’s friends)_  
+Daisy Jelley _(Gemma)_  
+Konstandina Rousohatzaki _(Leah)_  
+voice of Tara’s mum _(Brady, Olivia)_
+
+UK/Greece/Belgium/France 2023  
+98 mins  
+Digital  
+A MUBI release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODMwNTY4NDddfQ==
+eyJoaXN0b3J5IjpbMTIyNzE1OTc5OCwtMTU4MzA1Njg0N119
 -->
