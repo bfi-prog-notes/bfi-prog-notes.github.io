@@ -38,93 +38,51 @@ _Continuity_: Eileen Hildyard<br>
 _Story and Screenplay by_: Roger Milner<br>
 _From an idea by_: Simon Harcourt-Smith<br>
 _Director of Photography_: Gerald Turpin<br>
-_Cameraman_: Derek Browne, James Bawden,  
-Austin Dempster, Robert Huke, Skeets Kelly, Robert Walker, Dudley Lovell, Norman Warwick<br>
-
+_Cameraman_: Derek Browne, James Bawden,  Austin Dempster, Robert Huke, Skeets Kelly, Robert Walker, Dudley Lovell, Norman Warwick<br>
 _Camera Operator_: Derek Browne<br>
-
 _Editor_: Noreen Ackland<br>
-
 _Art Director_: Wilfrid Shingleton<br>
-
 _Ladies Costumes by_: Mattli<br>
-
 _Wardrobe Mistress_: Bridget Sellers<br>
-
 _Wardrobe Master:_ Duncan McPhee<br>
-
 _Make-up_: James Hydes<br>
-
 _Hairdresser_: Anne Box<br>
-
-_Original Music Composed and Conducted by_:
-
-Brian Easdale<br>
-
+_Original Music Composed and Conducted by_: Brian Easdale<br>
 _Military Music Played by_: Mounted Band of The Horse Guards (The Blues), The Massed Bands, Drums and Pipes of The Brigade of Guards<br>
-
 _Sound Recordist_: H.C. Pearson, Red Law<br>
-
 _Sound Editor_: James Shields<br>
-
 _Studio_: Shepperton Studios<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Daniel Massey (_John Fellowes_)<br>
-
 Raymond Massey (_Captain Fellowes_)<br>
-
 Robert Stephens (_Henry Wynne Walton_)<br>
-
 Jack Watson (_Sgt Johnson_)<br>
-
 Peter Myers (_Gordon Davidson_)<br>
-
 Ursula Jeans (_Mrs Fellowes_)<br>
-
 Frank Lawton (_Commander Hewson_)<br>
-
 Anthony Bushell (_Major Cole_)<br>
-
-Cornel Lucas (p_hotographer_)<br>
-
+Cornel Lucas (_photographer_)<br>
 Jess Conrad (_Dankworth_)<br>
-
 Ian Hunter (_Dobbie_)<br>
-
 Duncan Lamont (_Wilkes_)<br>
-
 Elizabeth Shepherd (_Susan_)<br>
-
 Judith Stott (_Ruth_)<br>
-
 Jack Allen (_Brigadier Cummings_)<br>
-
 Laurence Payne (_Farinda_)<br>
-
 Eileen Peel (_Mrs Wynne-Walton_)<br>
-
 William Fox (_Mr Walters_)<br>
-
 Patrick Connor (_Brewer_)<br>
-
 William Young (_Williams_)<br>
-
 Jack Watling (_Captain Shergold_)<br>
-
 Andrew Crawford (_Biggs_)<br>
-
 Nigel Green (_Abu Sibdar_)<br>
-
 René Cutforth (_commentator_)<br>
 
 UK 1961<br>
-
 110 mins<br>
-
 35mm<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM0MTg5MzVdfQ==
+eyJoaXN0b3J5IjpbODEzNzA0MjY1XX0=
 -->
