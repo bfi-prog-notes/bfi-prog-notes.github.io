@@ -40,10 +40,7 @@ Leo was shocked when a number of the girls and boys started talking about their 
 **Production notes**  
 <br>
 
-<![endif]-->
-
-**How to Have Sex**
-
+**HOW TO HAVE SEX**  
 _Directed by_: Molly Manning Walker  
 _©_: Balloon Heaven, Channel Four Television Corporation, the British Film Institute  
 _Production Companies_: Wild Swim Films, Heretic  
@@ -53,26 +50,18 @@ _In association with_: MK2 Films, Head Gear Films, Metrol Technology
 _International Sales by_: MK2  
 _Executive Producers_: Farhana Bhula, Ben Coren, Kristin Irving, Giorgos Karnavas, Nathanaël Karmitz, Fionnuala Jamison, Phil Hunt, Compton Ross  
 _Produced by_: Emily Leo, Ivana MacKinnon, Konstantinos Kontovrakis  
-_Line Producers_: Marie-Elena Dyche,
-
-Kostas Sfakianakis  
+_Line Producers_: Marie-Elena Dyche, Kostas Sfakianakis  
 _Production Manager_: Takis Papadopoulos  
 _Production Co-ordinator_: Aspa Thrasivoulou  
-_UK Production Coordinators_: Amelia Deering,
-
-Tidza Karup  
+_UK Production Coordinators_: Amelia Deering, Tidza Karup  
 _Chief Financial Controller_: Richard Juneman  
 _Production Accountant_: Paul Hills  
 _Supervising Location Manager_: Pavlos Svoronos  
-_Post-production Supervisor_: Verity Wislocki,
-
-René Taylor  
+_Post-production Supervisor_: Verity Wislocki, René Taylor  
 _1st Assistant Director_: Denia Safari  
 _Script Supervisor_: Anna Patrikiou  
 _Casting Director_: Isabella Odoffin  
-_Casting Director (Greece)_:
-
-Romanos Argyropoulos-Ioannou  
+_Casting Director (Greece)_: Romanos Argyropoulos-Ioannou  
 _Casting Associate_: Joanna Sturrock  
 _Written by_: Molly Manning Walker  
 _Director of Photography_: Nicolas Canniccioni  
@@ -93,9 +82,7 @@ _Costume Designer_: George Buxton
 _Costume Supervisor_: Nancy Kane  
 _Hair and Make-up Designer_: Natasha Lawes  
 _Hair & Make-up Artists_: Sophia Voulala,
-
 Dominique Desveaux, Marta Wozniak,
-
 Leanne Burrows  
 _Main & End Titles Design_: Dylan Kendle  
 _Title Design_: Elliot Shields  
@@ -109,7 +96,7 @@ _Supervising Dialogue & ADR Editor_: Levi Mercurio
 _Stunt Co-ordinator_: Sotiris Kraniotis  
 _Dialect Coach_: Mary Howland
 
-_Cast__:_  
+**Cast**  
 Mia McKenna-Bruce _(Tara)_  
 Lara Peake _(Skye)_  
 Samuel Bottomley _(Paddy)_  
@@ -123,17 +110,15 @@ Elliot Warren _(male club rep)_
 Guy Lewis _(Tom from London)_  
 Eilidh Loan _(Fi)_  
 Finlay Vane Last _(Josh)_  
-Eric Manaka, Matilda Rowe,
-
-Elizabeth Matthews _(Fi’s friends)_  
+Eric Manaka, Matilda Rowe, Elizabeth Matthews _(Fi’s friends)_  
 Daisy Jelley _(Gemma)_  
 Konstandina Rousohatzaki _(Leah)_  
-voice of Tara’s mum _(Brady, Olivia)_
+voice of Tara’s mum _(Brady, Olivia)_  
 
 UK/Greece/Belgium/France 2023  
 98 mins  
 Digital  
 A MUBI release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzE1OTc5OCwtMTU4MzA1Njg0N119
+eyJoaXN0b3J5IjpbLTM1OTA5NTAxMywtMTU4MzA1Njg0N119
 -->
