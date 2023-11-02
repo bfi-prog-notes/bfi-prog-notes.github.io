@@ -17,27 +17,24 @@ In all the most successful of Pressburger’s writing, his novels included, impo
 
 Pressburger’s films, from _Abschied_ in 1930 to _Miracle in Soho_ in 1957, reveal more consistent themes and concerns than their Powell equivalents. Their joint praxis discloses a compatible philosophical view of the world which is essentially anti-Rationalist, expressed not only pictorially but textually, through Pressburger’s belief in the primacy of the perceiver and the role of tradition in constructing a morally integrated world.  
 **Kevin Gough-Yates, _Sight and Sound_, December 1995**
+<br>
 
 **Contemporary reviews**
 
 Unusual domestic comedy drama, with a compelling juvenile interest. Charmian and Yolande Larthe act quite naturally as the girls, while guest artiste Jack Hawkins gives the play star billing in the role of family doctor and narrator. Agreeably mounted and made expressly for the feminine fan, it becomingly wears its heart on its sleeve.
 
-The picture, which employs the long arm of coincidence to bring the twins together, is very ingenious stuff, but, despite its naïve fundamentals, it frequently touches the emotions and confidently addresses its appeal to the fair sex. Good staging, including ‘shots’ of the ballet and the Tyrol, doubly underline its obvious family angle. Human, if extravagant, story, clever and talented child stars, popular supporting players, good atmosphere, intriguing title and homely sentiment.
-
-_Kinematograph Weekly_, 21 May 1953
+The picture, which employs the long arm of coincidence to bring the twins together, is very ingenious stuff, but, despite its naïve fundamentals, it frequently touches the emotions and confidently addresses its appeal to the fair sex. Good staging, including ‘shots’ of the ballet and the Tyrol, doubly underline its obvious family angle. Human, if extravagant, story, clever and talented child stars, popular supporting players, good atmosphere, intriguing title and homely sentiment.  
+**_Kinematograph Weekly_, 21 May 1953**
 
 The remarkable Jack Hawkins, who, now that British films have at last discovered his worth, can do no wrong, crops up all over the place. He plays ‘guest star’ in a pretty little picture, _Twice upon a Time_. Jack plays the part of family doctor and commentator – a nice change into civvies. It isn’t a big part, but he does it splendidly and comes in very useful because the events are none too easy to follow.
 
 Adapted by Emeric Pressburger from a German original, the film tells of young twins who meet accidentally in an Austrian mountain resort, find that they share the same divorced parents and change places in order to bring Mummie (Elizabeth Allan) and Daddie (Hugh Williams) together again. Fourteen-year-old London twin girls, Yolande and Charmian Larthe, play the children, never having been in a picture before.
 
-The production lacks perfection but I fancy that the clean, benign atmosphere of this little joke will be welcome.
+The production lacks perfection but I fancy that the clean, benign atmosphere of this little joke will be welcome.  
+**Jympson Harman, _Evening News_, 4 July 1953**
+<br><br>
 
-Jympson Harman, _Evening News_, 4 July 1953
-
-<![endif]-->
-
-**TWICE UPON A TIME**
-
+**TWICE UPON A TIME**  
 _Directed by_: Emeric Pressburger  
 ©: British Lion Film Corporation  
 _Presented by_: London Film Productions  
@@ -63,8 +60,7 @@ _Sound System_: Western Electric
 _Publicity_: Jean Osborne  *  
 _Produced at_: The British Lion Studio
 
-_Cast:_
-
+**Cast**  
 Hugh Williams _(James Turner)_  
 Elizabeth Allan _(Ann Bailey)_  
 Violetta Elvin _(Florence Laroche)_  
@@ -77,21 +73,19 @@ Nora Gordon _(Emma)_
 Molly Terraine _(Miss Wellington, headmistress)_  
 Martin Miller _(photographer)_  
 Lilly Kann _(photographer’s wife)_  
-Isabel George _(Molly)_ *
-
+Isabel George _(Molly)_ *  
 Cecily Walger _(Miss Maybridge)_ *  
 Walter Fitzgerald _(Professor Reynolds)_ *  
 Eileen Elton  *  
 Ken Melville  *  
 Margaret McCourt  *
 
-UK 1953©
-
-76 mins
-
+UK 1953©  
+76 mins  
 Digital
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODEyMDUyMl19
+eyJoaXN0b3J5IjpbMTQ4NDQ0NzVdfQ==
 -->
