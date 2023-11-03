@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: The Grand Budapest Hotel
+published: true
+date: 2023-10-29
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Period]
+metadata: 'UK 1949, 95 mins<br> Director: Thorold Dickinson'
+pdf: '2023-10-29-queen-of-spades.pdf'
+---
 
 ‘His world had vanished long before he entered it,’ the aged owner of the Grand Budapest Hotel, Mr Moustafa (F. Murray Abraham), tells the Author (Jude Law), ‘but he certainly sustained the illusion with a marvellous grace.’ He’s recalling his predecessor and mentor, legendary hotel concierge M. Gustave (Ralph Fiennes), who in the pre-war period ran the hotel with impeccable control, style and suavity. But much the same could be said of Wes Anderson, who, inspired by the illustrative work of his co-screenwriter Hugo Guinness and the writings of Stefan Zweig, has created an intricate fairytale vision of the world of Middle Europe as it probably never was but perhaps should have been before at least one and possibly both world wars. Anderson has always striven to devise alternative universes of his own;  
 _The Grand Budapest Hotel_ is his most complete fabrication yet, a fanatically and fantastically detailed, sugar-iced, calorie-stuffed, gleefully overripe Sachertorte of a film. According to taste, it will likely either enchant or cloy; but for those prepared to surrender to its charms, the riches on offer – both visual and narrative – are considerable.
@@ -12,7 +20,7 @@ But it’s Fiennes who coolly walks off with the film. Switching seamlessly betw
 The film abounds in the gliding lateral tracking shots that Anderson loves, as well as in expensive luggage (see _The Darjeeling Limited_, passim) and covert jokes. Much of the plot revolves around a valuable painting,  ‘Boy with Apple’, which Madame D (Swinton) has left to Gustave, to the fury of her brutal son Dmitri (Brody). When Gustave makes off with the work in question, a piece of glossy pseudo-Renaissance kitsch by the fictitious Jan van Hoytl, he fills the gap on the wall with an exquisite double nude by Egon Schiele. Noticing the substitution, Dmitri smashes the Schiele in rage. Comic words of nonsense German are tossed into the mix. ‘_Ich war gespannt wie ein Fritzlburger_’, the Author (Wilkinson) tells us in voiceover: _gespannt_ means excited, _Fritzlburger_ doesn’t exist. History is blithely played with: the war that engulfs the characters breaks out in 1932 – ‘a combination’, Anderson explains, ‘of the 1914 and 1939 wars’.
 
 In keeping with the film’s ludic mode, Anderson indulges in mini-pastiches of other cinematic genres. The pursuit and murder of lawyer Kovacs (Goldblum) by Dmitri’s hired thug (Dafoe) in the darkened galleries of an art museum channels _film noir_, while Gustave’s escape from jail with a group of fellow cons parodies every jailbreak movie by following them through a hole dug in the cell floor, a dumb waiter, the prison kitchens, the guards’ bunkroom (tiptoeing delicately over the sleeping custodians), a steam vent, the laundry and a sewer. There’s skilled pastiche, too, in Alexandre Desplat’s score, with its perky zithers and doom-laden organ chorales. Yet beneath all the jokiness there’s a sense of loss, a nostalgia for an age that neither the filmmakers nor all but a few of their audience can ever have known.  
-Philip Kemp, _Sight and Sound_, March 2014
+**Philip Kemp, _Sight and Sound_, March 2014**  
 
 ‘How Lubitsch would do it?’ was a prompt that Billy Wilder had framed and hung over his desk in ornate calligraphy by Saul Bass. If there’s one director working today who might have the same motto displayed in his office, it is Wes Anderson.
 
@@ -25,6 +33,81 @@ A common complaint about Anderson’s films is that they’re all the same, set 
 Normally, Anderson’s comedies swerve to a halt when their formal _joie de vivre_ clashes with their melancholy subject matter. In the final scenes here though, Anderson swaps his bright, multicoloured palette for a sombre black and white. ‘I couldn’t give you a proper explanation,’ he says of the abrupt change. ‘If someone asked me why when we were shooting, I would want to leave it that way, but I wouldn’t be able to make a case for it. It’s just what felt right.’  
 **Isabel Stevens, _Sight and Sound_, March 2014**  
 <br>
+<![endif]-->
+
+**The Grand Budapest Hotel**
+
+_Director:_ Wes Anderson
+
+_©:_ TGBH LLC, Twentieth Century Fox Film Corporation, TSG Entertainment Finance LLC.
+
+_Production Company:_ Fox Searchlight Pictures
+
+_In association with:_ Indian Paintbrush,
+
+Studio Babelsberg
+
+_Presented by:_ American Empirical Picture
+
+_Made in Association with:_ TSG Entertainment
+
+_With the support of:_
+
+DFFF – Deutsche Filmförderfonds, MDM – Mitteldeutsche Medienfordefung, MFG Filmförderung, Medienboard Berlin-Brandenburg
+
+_Executive Producers:_ Molly Cooper,
+
+Charlie Woebcken, Christoph Fisser,
+
+Henning Molfenter
+
+_Produced by:_ Wes Anderson, Scott Rudin,
+
+Steven Rales, Jeremy Dawson
+
+_Screenplay by:_ Wes Anderson
+
+_Story by:_ Wes Anderson, Hugo Guinness
+
+_Inspired by the Writings of:_ Stefan Zweig
+
+_Director of Photography:_ Robert Yeoman
+
+_Editor:_ Barney Pilling
+
+_Production Designer:_ Adam Stockhausen
+
+_Costume Designer:_ Milena Canonero
+
+_Original Music:_ Alexandre Desplat
+
+_Sound Mixer:_ Pawel Wdowczak
+
+_Cast:_
+
+Ralph Fiennes _(M. Gustave)_  
+F. Murray Abraham _(Mr Moustafa)_  
+Mathieu Amalric _(Serge X.)_  
+Adrien Brody _(Dmitri)_  
+Willem Dafoe _(Jopling)_  
+Jeff Goldblum _(Deputy Kovacs)_  
+Harvey Keitel _(Ludwig)_  
+Jude Law _(young writer)_  
+Bill Murray _(M. Ivan)_  
+Edward Norton _(Inspector Henckels)_  
+Saoirse Ronan _(Agatha)_  
+Jason Schwartzman _(M. Jean)_  
+Tilda Swinton _(Madame D.)_  
+Tom Wilkinson _(author)_  
+Owen Wilson _(M. Chuck)_  
+Tony Revolori _(Zero Moustafa)_  
+Léa Seydoux _(Clotilde)_  
+Tom Wilkinson _(author)_  
+
+USA/Germany 2014©  
+100 mins  
+Digital  
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4OTQ2ODE0XX0=
+eyJoaXN0b3J5IjpbLTE4NDk5NTIzLDY2ODk0NjgxNF19
 -->
