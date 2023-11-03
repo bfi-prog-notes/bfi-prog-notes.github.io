@@ -10,8 +10,7 @@ metadata: 'UK 1949, 95 mins<br> Director: Thorold Dickinson'
 pdf: '2023-10-29-queen-of-spades.pdf'
 ---
 
-‘His world had vanished long before he entered it,’ the aged owner of the Grand Budapest Hotel, Mr Moustafa (F. Murray Abraham), tells the Author (Jude Law), ‘but he certainly sustained the illusion with a marvellous grace.’ He’s recalling his predecessor and mentor, legendary hotel concierge M. Gustave (Ralph Fiennes), who in the pre-war period ran the hotel with impeccable control, style and suavity. But much the same could be said of Wes Anderson, who, inspired by the illustrative work of his co-screenwriter Hugo Guinness and the writings of Stefan Zweig, has created an intricate fairytale vision of the world of Middle Europe as it probably never was but perhaps should have been before at least one and possibly both world wars. Anderson has always striven to devise alternative universes of his own;  
-_The Grand Budapest Hotel_ is his most complete fabrication yet, a fanatically and fantastically detailed, sugar-iced, calorie-stuffed, gleefully overripe Sachertorte of a film. According to taste, it will likely either enchant or cloy; but for those prepared to surrender to its charms, the riches on offer – both visual and narrative – are considerable.
+‘His world had vanished long before he entered it,’ the aged owner of the Grand Budapest Hotel, Mr Moustafa (F. Murray Abraham), tells the Author (Jude Law), ‘but he certainly sustained the illusion with a marvellous grace.’ He’s recalling his predecessor and mentor, legendary hotel concierge M. Gustave (Ralph Fiennes), who in the pre-war period ran the hotel with impeccable control, style and suavity. But much the same could be said of Wes Anderson, who, inspired by the illustrative work of his co-screenwriter Hugo Guinness and the writings of Stefan Zweig, has created an intricate fairytale vision of the world of Middle Europe as it probably never was but perhaps should have been before at least one and possibly both world wars. Anderson has always striven to devise alternative universes of his own; _The Grand Budapest Hotel_ is his most complete fabrication yet, a fanatically and fantastically detailed, sugar-iced, calorie-stuffed, gleefully overripe Sachertorte of a film. According to taste, it will likely either enchant or cloy; but for those prepared to surrender to its charms, the riches on offer – both visual and narrative – are considerable.
 
 Shooting in three different ratios – 2.35:1, 1.85:1 and the classic 1.33:1  – to differentiate the film’s three main timelines, Anderson deploys a cast that even by his standards is bewilderingly star-studded. Along with a roster of Anderson veterans – Edward Norton, Jason Schwartzman, Adrien Brody, Owen Wilson, Willem Dafoe and, inevitably, Bill Murray – _Grand Budapest_ indulges itself in the luxury of casting such luminaries as Tilda Swinton, Harvey Keitel, F. Murray Abraham, Jeff Goldblum, Léa Seydoux, Tom Wilkinson, Jude Law and Mathieu Amalric in relatively minor roles.
 
@@ -38,14 +37,11 @@ Normally, Anderson’s comedies swerve to a halt when their formal _joie de vivr
 _Director:_ Wes Anderson  
 _©:_ TGBH LLC, Twentieth Century Fox Film Corporation, TSG Entertainment Finance LLC.  
 _Production Company:_ Fox Searchlight Pictures  
-_In association with:_ Indian Paintbrush,
-Studio Babelsberg  
+_In association with:_ Indian Paintbrush, Studio Babelsberg  
 _Presented by:_ American Empirical Picture  
 _Made in Association with:_ TSG Entertainment  
 _With the support of:_ DFFF – Deutsche Filmförderfonds, MDM – Mitteldeutsche Medienfordefung, MFG Filmförderung, Medienboard Berlin-Brandenburg  
-_Executive Producers:_ Molly Cooper,
-Charlie Woebcken, Christoph Fisser,
-Henning Molfenter  
+_Executive Producers:_ Molly Cooper, Charlie Woebcken, Christoph Fisser, Henning Molfenter  
 _Produced by:_ Wes Anderson, Scott Rudin, Steven Rales, Jeremy Dawson  
 _Screenplay by:_ Wes Anderson  
 _Story by:_ Wes Anderson, Hugo Guinness  
@@ -80,7 +76,6 @@ Tom Wilkinson _(author)_
 USA/Germany 2014©  
 100 mins  
 Digital  
-<br>
 <br>
 
 **BIG SCREEN CLASSICS**  
