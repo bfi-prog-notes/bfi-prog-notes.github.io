@@ -2,10 +2,10 @@
 layout: post
 title: The Grand Budapest Hotel
 published: true
-date: 2023-10-29
+date: 2023-11-03
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama, Period]
+tags: [Comedy]
 metadata: 'UK 1949, 95 mins<br> Director: Thorold Dickinson'
 pdf: '2023-10-29-queen-of-spades.pdf'
 ---
@@ -33,46 +33,24 @@ A common complaint about Anderson’s films is that they’re all the same, set 
 Normally, Anderson’s comedies swerve to a halt when their formal _joie de vivre_ clashes with their melancholy subject matter. In the final scenes here though, Anderson swaps his bright, multicoloured palette for a sombre black and white. ‘I couldn’t give you a proper explanation,’ he says of the abrupt change. ‘If someone asked me why when we were shooting, I would want to leave it that way, but I wouldn’t be able to make a case for it. It’s just what felt right.’  
 **Isabel Stevens, _Sight and Sound_, March 2014**  
 <br>
-<![endif]-->
 
-**The Grand Budapest Hotel**
-
-_Director:_ Wes Anderson
-
-_©:_ TGBH LLC, Twentieth Century Fox Film Corporation, TSG Entertainment Finance LLC.
-
-_Production Company:_ Fox Searchlight Pictures
-
+**THE GRAND BUDAPEST HOTEL**  
+_Director:_ Wes Anderson  
+_©:_ TGBH LLC, Twentieth Century Fox Film Corporation, TSG Entertainment Finance LLC.  
+_Production Company:_ Fox Searchlight Pictures  
 _In association with:_ Indian Paintbrush,
-
-Studio Babelsberg
-
-_Presented by:_ American Empirical Picture
-
-_Made in Association with:_ TSG Entertainment
-
-_With the support of:_
-
-DFFF – Deutsche Filmförderfonds, MDM – Mitteldeutsche Medienfordefung, MFG Filmförderung, Medienboard Berlin-Brandenburg
-
+Studio Babelsberg  
+_Presented by:_ American Empirical Picture  
+_Made in Association with:_ TSG Entertainment  
+_With the support of:_ DFFF – Deutsche Filmförderfonds, MDM – Mitteldeutsche Medienfordefung, MFG Filmförderung, Medienboard Berlin-Brandenburg  
 _Executive Producers:_ Molly Cooper,
-
 Charlie Woebcken, Christoph Fisser,
-
-Henning Molfenter
-
-_Produced by:_ Wes Anderson, Scott Rudin,
-
-Steven Rales, Jeremy Dawson
-
-_Screenplay by:_ Wes Anderson
-
-_Story by:_ Wes Anderson, Hugo Guinness
-
-_Inspired by the Writings of:_ Stefan Zweig
-
-_Director of Photography:_ Robert Yeoman
-
+Henning Molfenter  
+_Produced by:_ Wes Anderson, Scott Rudin, Steven Rales, Jeremy Dawson  
+_Screenplay by:_ Wes Anderson  
+_Story by:_ Wes Anderson, Hugo Guinness  
+_Inspired by the Writings of:_ Stefan Zweig  
+_Director of Photography:_ Robert Yeoman  
 _Editor:_ Barney Pilling
 
 _Production Designer:_ Adam Stockhausen
@@ -109,5 +87,5 @@ USA/Germany 2014©
 Digital  
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk5NTIzLDY2ODk0NjgxNF19
+eyJoaXN0b3J5IjpbLTE4MTA5NjAxODYsNjY4OTQ2ODE0XX0=
 -->
