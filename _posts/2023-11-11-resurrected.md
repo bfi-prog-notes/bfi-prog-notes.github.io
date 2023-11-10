@@ -1,10 +1,9 @@
 
 
-<![endif]-->
 
-Produced by Tara Prem and Adrian Hughes, Paul Greengrass’ directorial debut deals with the experiences of a young squaddie suffering from battle fatigue during the Falklands War. After being missing presumed dead, he returns home only to become a victim of press slander when accused of cowardice. A rush to judgement that still resonates in our volatile internet age.
 
-bfi.org.uk
+Produced by Tara Prem and Adrian Hughes, Paul Greengrass’ directorial debut deals with the experiences of a young squaddie suffering from battle fatigue during the Falklands War. After being missing presumed dead, he returns home only to become a victim of press slander when accused of cowardice. A rush to judgement that still resonates in our volatile internet age.  
+**bfi.org.uk**
 
 _Resurrected_ is the first feature directed by Paul Greengrass, who ghosted _Spycatcher_ and worked on Granada’s _World in Action_ from 1978 to 1987. It was while he was with that series that he began to research a story which forms part of the basis of _Resurrected_: the persistent reports of bullying and ‘initiation ceremonies’ in the army which have, on occasion, it is claimed, led to victims committing suicide. The other main ingredient is the story of Private Philip Williams of the Scots Guards who, like Kevin Deakin, was a stretcher bearer in the Falklands who was listed as missing presumed dead, turned up some weeks later suffering from amnesia, and was subjected to an ordeal not entirely dissimilar to Kevin’s. What soon becomes abundantly clear is that Kevin’s reappearance is, from the army’s point of view, a nuisance and an embarrassment, an unnecessary hic-cough in the all-important process of getting back to ‘normal’ after the war. As one of the officers puts it: ‘This is a high-performance machine. You have to drive it hard, keep it fine tuned, ready for the next one’. Thus Kevin’s family are kindly but firmly kept away from the main reception party at the airport, and Kevin hustled off the plane and into the airport buildings like a man in police custody.
 
@@ -15,14 +14,10 @@ Indeed, as the film progresses, it’s possible to read Kevin as a ghost whose a
 The war itself is barely glimpsed in _Resurrected_, punctuating the narrative only occasionally in the form of Kevin’s confused memories and nightmares. According to Greengrass, he wanted to illustrate the remarks of a paratroop commander who described the Falklands as ‘just like the First World War’. He said it was filthy, dirty, hand-to-hand combat. ‘There’s noise, it’s dark, people are screaming, everybody’s frightened and you just stab and kill people at close quarters. It wasn’t a high tech war, it was like going back to the Somme’. For the most part, however, the director adopts a low-key approach to his material, which is quite dramatic enough to be allowed to speak for itself. The film works extremely well as an examination of the effects of the war (glimpsed on various television screens or overheard on the radio) and its aftermath on an ordinary family with no particular interest in the wider political issues involved. The casting of Tom Bell and Rita Tushingham as Kevin’s parents is particularly inspired in this respect, since both carry appropriately down-to-earth overtones thanks to their roles in various British ‘social-realist’ films of the ’60s, though both are rather under-used here. The relative restraint of the bulk of the film makes the stark brutality of the kangaroo court and ‘regimental bath’ scenes all the more effective, and one can only be thankful that the BBFC resisted the temptation to hand out an ‘18’ certificate on account of the film’s powerful and shocking climax.  
 **Julian Petley, _Monthly Film Bulletin_, October 1989**
 <br>
-<![endif]-->
 
-**Resurrected**
-
+**RESURRECTED**  
 _Director_: Paul Greengrass  
-_Production Companies_: St. Pancras Films,
-
-Film Four International, British Screen  
+_Production Companies_: St. Pancras Films, Film Four International, British Screen  
 _Producers_: Tara Prem, Adrian Hughes  
 _Production Supervisor_: Peter Richardson  
 _Production Co-ordinator_: Fran Triefus  
@@ -55,7 +50,7 @@ _Combat Adviser_: Ronnie Dunnett
 _Researcher_: Felicity Gray  
 _Military Adviser_: Robert Lawrence
 
-_Cast_  
+**Cast**    
 David Thewlis _(Kevin Deakin)_  
 Tom Bell _(Mr Deakin)_  
 Rita Tushingham _(Mrs Deakin)_  
@@ -93,5 +88,5 @@ UK 1989
 96 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNDQ4MDM5XX0=
+eyJoaXN0b3J5IjpbLTE5MjA2NzgyNV19
 -->
