@@ -40,61 +40,33 @@ The catalyst for a family reconciliation is the arrest of Huq’s newly pregnant
 Made at a time Britain’s inner-cities were exploding in anger, Horace Ové’s warm and engaging film, and his use of the humane Leela as a way of allowing middle-class England to directly experience the horrors of racism, could hardly have been bettered.  
 **Onyekachi Wambu, BFI Screenonline, screenonline.org.uk**  
 <br>
-<![endif]-->
 
-**PLAY FOR TODAY: A HOLE IN BABYLON**
+**PLAY FOR TODAY: A HOLE IN BABYLON**  
+_Directed by:_ Horace Ové  
+_©/Production Company:_ BBC  
+_Producer:_ Graham Benson  
+_Assistant Floor Manager:_ Jeremy Ancock  
+_Production Unit Manager:_ Carol Robertson  
+_Production Assistants:_ John E. Norton, Jerry Desmonde, Romey Allison  
+_Director’s Assistant:_ Lydia Morris  
+_Script Editor:_ Terry Coles  
+_[Written] By:_ Jim Hawkins, Horace Ové  
+_Photography:_ Kenneth Macmillan  
+_Film Editor:_ Tony Woollard  
+_Designer:_ Geoff Powell  
+_Costume:_ George Ward  
+_Make-up:_ Marianne Ford  
+_Theme Song Composed by:_ Sammy Abu  
+_Lyrics by:_ Horace Ové  
+_Film Recordist:_ Geoff Tookey  
+_Dubbing Mixer:_ Andrew Nelson  
+_Dubbing Editor:_ Danny Nissim  
 
-_Directed by:_ Horace Ové
-
-_©/Production Company:_ BBC
-
-_Producer:_ Graham Benson
-
-_Assistant Floor Manager:_ Jeremy Ancock
-
-_Production Unit Manager:_ Carol Robertson
-
-_Production Assistants:_ John E. Norton,
-
-Jerry Desmonde, Romey Allison
-
-_Director’s Assistant:_ Lydia Morris
-
-_Script Editor:_ Terry Coles
-
-_[Written] By:_ Jim Hawkins, Horace Ové
-
-_Photography:_ Kenneth Macmillan
-
-_Film Editor:_ Tony Woollard
-
-_Designer:_ Geoff Powell
-
-_Costume:_ George Ward
-
-_Make-up:_ Marianne Ford
-
-_Theme Song Composed by:_ Sammy Abu
-
-_Lyrics by:_ Horace Ové
-
-_Film Recordist:_ Geoff Tookey
-
-_Dubbing Mixer:_ Andrew Nelson
-
-_Dubbing Editor:_ Danny Nissim
-
-_Cast:_
-
-T-Bone Wilson _(Frank Davies)_
-
-Trevor Thomas _(Bonsu Monroe)_
-
-Archie Pool _(Wes Dick)_
-
-Victor Baring, Franco Derosa, Carlos Douglas, Leonard Fenton, Peter Laird, Louis Mansi,
-
-Ray Marioni, Alfred Maron, Colin Starkey _(hostages)_
+**Cast**  
+T-Bone Wilson _(Frank Davies)_  
+Trevor Thomas _(Bonsu Monroe)_  
+Archie Pool _(Wes Dick)_  
+Victor Baring, Franco Derosa, Carlos Douglas, Leonard Fenton, Peter Laird, Louis Mansi, Ray Marioni, Alfred Maron, Colin Starkey _(hostages)_  
 Carmen Monroe _(Mrs Munroe)_  
 Helen Webb _(Sheila)_  
 Shope Shodeinde _(Lena)_  
@@ -173,8 +145,10 @@ Mohammed Kassam _(musicians at wedding)_
 BBC1 tx 10.3.1981  
 UK 1981  
 88 mins  
-Digital
+Digital  
+<br>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2NDcyNTExLC0xNzQxODcxNTYxLDczMD
+eyJoaXN0b3J5IjpbMzc5MTg5MjYyLC0xNzQxODcxNTYxLDczMD
 k5ODExNl19
 -->
