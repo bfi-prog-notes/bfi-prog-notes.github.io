@@ -1,3 +1,14 @@
+---
+layout: post
+title: Ticket of No Return
+published: true
+date: 2023-11-12
+readtime: true
+categories: ['JOANNA HOGG - INFLUENCES']
+tags: [Drama, Experimental]
+metadata: 'West Germany 1979, 107 mins<br> Director: Ulrike Ottinger'
+pdf: '2023-11-12-ticket-of-no-return.pdf'
+---
 
 For the BFI season, I had to include Ulrike Ottinger’s _Ticket of No Return_. I saw it when I was 19, and it had a decisive influence on me in wanting to become a filmmaker. It’s about a woman, an alcoholic, and I felt I hadn’t seen a female character played with that kind of abandon on film until then. It’s the boldness of the way she made that film. It’s very stylised, very theatrical – I was interested in the heightened artifice of the theatrical at that time, but inside the cinema frame. It chimed with my passion for Powell and Pressburger’s films, which I still love. And Derek Jarman’s Super 8 films, which I was particularly fond of at the time. It felt like Ottinger was a part of a family of artists making films.  
 **Joanna Hogg interviewed by Roger Luckhurst, _Sight and Sound_, December 2023**
@@ -53,6 +64,67 @@ West Germany 1979
 107 mins  
 Digital (restoration)
 <br><br>
+
+**JOANNA HOGG: INFLUENCES**<br>
+**Criss Cross**<br>
+Tue 17 Oct 20:40; Sun 26 Nov 18:40<br>
+**Suspicion**<br>
+Wed 18 Oct 20:45; Sat 21 Oct 18:20<br>
+**The Exiles + Bunker Hill 1956**<br>
+Thu 19 Oct 18:20; Tue 24 Oct 20:40<br>
+**Lady in the Dark**<br>
+Fri 20 Oct 18:10; Sat 11 Nov 12:20<br>
+**Margaret**<br>
+Sat 21 Oct 20:10; Sat 4 Nov 17:30<br>
+**The Killers**<br>
+Sat 28 Oct 12:30; Wed 8 Nov 20:45<br>
+**Ticket of No Return** Bildnis einer Trinkerin<br>
+Sun 12 Nov 18:30; Sat 25 Nov 20:30<br>
+**Journey to Italy** Viaggio in Italia<br>
+Fri 17 Nov 18:20; Tue 28 Nov 18:15<br>
+**Italianamerican + The Neighborhood +** extract from **My Voyage to Italy**<br>
+Tue 21 Nov 20:40; Mon 27 Nov 18:20
+<br>
+
+**INTERNAL REFLECTIONS:  THE FILMS OF JOANNA HOGG**<br>
+**Unrelated**<br>
+Mon 16 Oct 20:35; Sat 25 Nov 18:10<br>
+**Exhibition**<br>
+Thu 19 Oct 18:10; Wed 29 Nov 20:50<br>
+**Archipelago**<br>
+Thu 19 Oct 20:30; Sun 26 Nov 15:00<br>
+**The Souvenir**<br>
+Fri 27 Oct 20:30; Thu 30 Nov 18:10<br>
+**The Souvenir: Part II**<br>
+Sat 28 Oct 20:30; Thu 30 Nov 20:40<br>
+**Short Films**<br>
+Sun 29 Oct 18:10; Tue 28 Nov 20:45<br>
+<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwMDY3NDI5NDJdfQ==
 -->
