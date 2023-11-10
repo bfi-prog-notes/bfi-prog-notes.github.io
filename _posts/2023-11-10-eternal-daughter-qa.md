@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: The Eternal Daughter
+published: true
+date: 2023-11-10
+readtime: true
+categories: ['PREVIEW']
+tags: [Drama]
+metadata: 'UK 2022, 87 mins<br> Adura Onashile'
+pdf: '2023-11-07-girl.pdf'
+---
 
 _+ Q&A with writer-director Joanna Hogg and actor Tilda Swinton_
 
@@ -17,9 +24,8 @@ It is casually revealed that middle-aged Tilda is Julie, while elderly Tilda is 
 
 Perhaps the most affecting scene takes place when a ravenous Julie, enthusiastically browsing the hotel’s limited menu, is stopped in her tracks by Ros saying she won’t eat. “I’m not hungry if you don’t have hunger,” Julie tells her mother, echoing the scene in The Souvenir Part II where Julie asks how her mum felt on taking a tragic phone call and Ros responds, “I felt through you.” Hogg closes a loop here, presenting the mother-daughter relationship as one of identity-effacing empathy. Another film in competition at the Venice Film Festival, Alice Diop’s Saint Omer, ends with a speech about how mother-daughter cells merge in the womb. Diop and Hogg form a consensus across their two films: this bond involves transference.
 
-There are wheels within wheels in The Eternal Daughter, which winds down with Julie on her laptop typing up a description of the opening scene we witnessed 90 minutes earlier. As in the Souvenir films, Hogg has knitted into her structure questions about what making art about intimate relationships does to the way we embody them. This is a film about a mother and a daughter and memory and space; it is Hogg using the voluptuous form of a ghost story to, once again, explore the issues that afflict her restless artistic soul; it is Hogg having fun with expanding a distinct strain of playful humour, making a nod to one of the most famous mysteries in the cinema canon as she names a room after a dying man’s last word, ‘Rosebud’.
-
-Sophie Monks Kaufman, _Sight and Sound_, 14 September 2022
+There are wheels within wheels in The Eternal Daughter, which winds down with Julie on her laptop typing up a description of the opening scene we witnessed 90 minutes earlier. As in the Souvenir films, Hogg has knitted into her structure questions about what making art about intimate relationships does to the way we embody them. This is a film about a mother and a daughter and memory and space; it is Hogg using the voluptuous form of a ghost story to, once again, explore the issues that afflict her restless artistic soul; it is Hogg having fun with expanding a distinct strain of playful humour, making a nod to one of the most famous mysteries in the cinema canon as she names a room after a dying man’s last word, ‘Rosebud’.  
+**Sophie Monks Kaufman, _Sight and Sound_, 14 September 2022**  
 
 Written during the first Covid lockdown in 2020 and shot at an eerily empty Soughton Hall in Wales during the second lockdown, Joanna Hogg’s sixth feature film, _The Eternal Daughter_, is an impressive haunted house tale, in which memories and ghosts seep into each other in uncanny and ultimately very moving ways.
 
@@ -30,9 +36,62 @@ The film sits comfortably within the genre – there are spectral sounds at nigh
 In _The Eternal Daughter_, Julie is seen reading Rudyard Kipling’s ‘They’. This story was a touchstone for the film, and I was lucky to have it recommended to me by Martin Scorsese, who has worked as executive producer on my last three films. He brilliantly picked it out because he had an intuitive sense of where I wanted to go with _The Eternal Daughter_. I’ve never been moved to tears by a ghost story before. It’s especially moving when you realise Kipling wrote it soon after he had lost his young daughter Josephine [to pneumonia]. The story is filled with this pervasive sadness. I was moved but also frightened by it. It helped structure the film, but it’s strange how influences find their way into your head and then into the work: it was the mood of the house in it, and the sense that you’re not sure where the story is going, what the status of reality is in it, but you’re haunted by it.
 
 While I was writing, I read many ghost stories: M.R. James’s ‘A Warning to the Curious’, Algernon Blackwood’s ‘The Man Whom the Trees Loved’, Walter de la Mare’s ‘Seaton’s Aunt’, Edith Wharton’s ‘All Souls’. The list goes on. I was steering clear of Henry James’s _The Turn of the Screw_ and the Jack Clayton adaptation, _The Innocents_ [1961], because I remembered it so strongly from seeing it as a child – and many times since. However, Jovan Ajder, the wonderful sound designer of my films, watched and carefully listened to  
-_The Innocents_ and something of it is surely in our film.
+_The Innocents_ and something of it is surely in our film.  
+**Joanna Hogg interviewed by Roger Luckhurst, _Sight and Sound_, December 2023**  
+<br>
+<![endif]-->
 
-Joanna Hogg interviewed by Roger Luckhurst, _Sight and Sound_, December 2023
+**The Eternal Daughter**
+
+_A film by_: Joanna Hogg  
+_©_: Eternal Daughter Productions Limited,
+
+British Broadcasting Corporation  
+_An_ Element Pictures _production_  
+_In association with_: JWH Films  
+_Presented by_: A24, BBC Film  
+_Executive Producers_: Rose Garnett,
+
+Martin Scorsese  
+_Produced by_: Emma Norton, Andrew Lowe,
+
+Joanna Hogg  
+_Co-producer_: Eimhear McMahon  
+_Location Managers_: Alex Tridimas, Faye Newton  
+_Post-production Supervisor_: Deborah Harding  
+_1st Assistant Director_: Paolo Guglielmotti  
+_Script Supervisor_: Sara J. Doughty  
+_Casting Director_: Olivia Scott-Webb  
+_A film by_: Joanna Hogg  
+_Director of Photography_: Ed Rutherford  
+_Visual Effects_: Ghost VFX  
+_Special Effects Supervisor_: Scott MacIntyre  
+_Editor_: Helle Le Fevre  
+_Production Designer_: Stéphane Collonge  
+_Art Director_: Byron Broadbent  
+_Costume Designer_: Grace Snell  
+_Hair & Make-up Designer_: Siobhán Harper-Ryan  
+_Key Hair & Make-up/Prosthetic Application_:
+
+Alice Jones  
+_Prosthetics Make-up Designer_ : Mark Coulier  
+_Production Sound Mixer_: David Giles  
+_Re-recording Mixer_: Jovan Adjer  
+_Supervising Sound Editor_: Jovan Ajder
+
+Cast_  
+Tilda Swinton _(Julie, Rosalind)_  
+Joseph Mydell _(Bill)_  
+Carly-Sophia Davies _(receptionist)_  
+Louis _(Louis)_  
+August Joshi _(taxi driver)_  
+Crispin Buxton _(cousin)_  
+
+UK 2022  
+96 mins  
+Digital  
+
+A BFI release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQzMzIwNTc3XX0=
+eyJoaXN0b3J5IjpbLTIwMDc4NDM5MDZdfQ==
 -->
