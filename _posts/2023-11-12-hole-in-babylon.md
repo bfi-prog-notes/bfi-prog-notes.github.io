@@ -95,59 +95,36 @@ Archie Pool _(Wes Dick)_
 Victor Baring, Franco Derosa, Carlos Douglas, Leonard Fenton, Peter Laird, Louis Mansi,
 
 Ray Marioni, Alfred Maron, Colin Starkey _(hostages)_
+Carmen Monroe _(Mrs Munroe)_  
+Helen Webb _(Sheila)_  
+Shope Shodeinde _(Lena)_  
+Floella Benjamin _(Norma)_  
+Johnny Shannon _(gambler)_  
+Eric Kent _(Baron)_  
+Max Harvey _(Termine)_  
+Michael Chesden _(Costas)_  
+Stefan Kalipha _(Peter)_  
+Astley Harvey _(Rabby)_  
+Mellan Mitchell _(Ram)_  
+Jeannie Fisher _(Brenda)_  
+Michael Sheard _(prison officer)_  
+Patrick McAlliney _(foreman)_  
+Peter Marinker, Peter Davidson _(policemen)_  
+Le’mar N. Haynes _(Winston)_  
+Larrington Walker _(deskman)_  
 
-Carmen Monroe _(Mrs Munroe)_
-
-Helen Webb _(Sheila)_
-
-Shope Shodeinde _(Lena)_
-
-Floella Benjamin _(Norma)_
-
-Johnny Shannon _(gambler)_
-
-Eric Kent _(Baron)_
-
-Max Harvey _(Termine)_
-
-Michael Chesden _(Costas)_
-
-Stefan Kalipha _(Peter)_
-
-Astley Harvey _(Rabby)_
-
-Mellan Mitchell _(Ram)_
-
-Jeannie Fisher _(Brenda)_
-
-Michael Sheard _(prison officer)_
-
-Patrick McAlliney _(foreman)_
-
-Peter Marinker, Peter Davidson _(policemen)_
-
-Le’mar N. Haynes _(Winston)_
-
-Larrington Walker _(deskman)_
-
-UK 1979
-
-BBC1 tx 29.11.1979
-
+UK 1979  
+BBC1 tx 29.11.1979  
 66 mins
+Digital  
 
-Digital
-
-**PLAY FOR TODAY: SHAI MALA KHANI: THE GARLAND**
-
+**PLAY FOR TODAY: SHAI MALA KHANI: THE GARLAND**  
 _Director_: Horace Ové  
 _©_: BBC  
 _Production Company_: BBC Birmingham  
 _Producer_: Peter Ansorge  
 _Production Unit Manager_: Carol Park  
-_Assistant Floor Managers_: William Hartley,
-
-Dick Teague  
+_Assistant Floor Managers_: William Hartley, Dick Teague  
 _Production Assistant_: Ian Fraser  
 _Director’s Assistant_: Kate Salmon  
 _Written by_: H.O. Nazareth, Horace Ové  
@@ -158,10 +135,9 @@ _Costume Designer_: Gill Hardie
 _Make-Up Artist_: Carol Ganniclifft  
 _Film Recordist_: John Parker  
 _Dubbing Mixer_: David Baumber  
-_Bangladeshi Adviser_: Nurunessa Chowdhury
+_Bangladeshi Adviser_: Nurunessa Chowdhury  
 
-_Cast:_
-
+**Cast**  
 Tariq Yunus _(Raji)_  
 Patricia Garwood _(Leela)_  
 Albert Moses _(Huq)_  
@@ -171,13 +147,10 @@ Shreela Ghosh _(Amina)_
 Ishaq Bux _(Amina’s father)_  
 Sahat Qizilbash _(Amina’s mother)_  
 Olegario Frank _(wedding lawyer)_  
-Paul Anil, Ranjit Nakara _(Huq’s assistants)_
-
+Paul Anil, Ranjit Nakara _(Huq’s assistants)_  
 Sneh Gupta _(Fatima, woman at funeral)_  
 Veronique Choolhun _(Zareen, woman at funeral)_  
-Charu Bala Chokshi
-
-_(lawyer’s wife, woman at funeral)_  
+Charu Bala Chokshi _(lawyer’s wife, woman at funeral)_  
 Patricia Gallimore _(Margaret Leela’s guest)_  
 Terry Molloy _(Clarence, Leela’s guest)_  
 Leon Tanner _(Greg, Leela’s guest)_  
@@ -202,6 +175,6 @@ UK 1981
 88 mins  
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzMyNjU2NSwtMTc0MTg3MTU2MSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbOTM2NDcyNTExLC0xNzQxODcxNTYxLDczMD
+k5ODExNl19
 -->
