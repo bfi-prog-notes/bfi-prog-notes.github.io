@@ -5,7 +5,7 @@ published: true
 date: 2023-11-10
 readtime: true
 categories: ['PREVIEW']
-tags: [Drama]
+tags: [Drama, Horror]
 metadata: 'UK 2022, 96 mins<br> Joanna Hogg'
 pdf: '2023-11-10-eternal-daughter-qa.pdf'
 ---
@@ -83,7 +83,64 @@ UK 2022
 96 mins  
 Digital  
 
-A BFI release
+A BFI release  
+<br>
+
+<![endif]-->
+
+**INTERNAL REFLECTIONS:**
+
+**THE FILMS OF JOANNA HOGG**
+
+**Unrelated**
+
+Mon 16 Oct 20:35; Sat 25 Nov 18:10
+
+**Exhibition**
+
+Thu 19 Oct 18:10; Wed 29 Nov 20:50
+
+**Archipelago**
+
+Thu 19 Oct 20:30; Sun 26 Nov 15:00
+
+**The Souvenir**
+
+Fri 27 Oct 20:30; Thu 30 Nov 18:10
+
+**The Souvenir: Part II**
+
+Sat 28 Oct 20:30; Thu 30 Nov 20:40
+
+**Short Films**
+
+Sun 29 Oct 18:10; Tue 28 Nov 20:45
+
+**JOANNA HOGG: INFLUENCES**
+
+**Criss Cross**
+
+Tue 17 Oct 20:40; Sun 26 Nov 18:40
+
+**Suspicion**
+
+Wed 18 Oct 20:45; Sat 21 Oct 18:20
+
+**The Exiles + Bunker Hill 1956**
+
+Thu 19 Oct 18:20; Tue 24 Oct 20:40  
+**Lady in the Dark**  
+Fri 20 Oct 18:10; Sat 11 Nov 12:20  
+**Margaret**  
+Sat 21 Oct 20:10; Sat 4 Nov 17:30  
+**The Killers**  
+Sat 28 Oct 12:30; Wed 8 Nov 20:45  
+**Ticket of No Return** Bildnis einer Trinkerin  
+Sun 12 Nov 18:30; Sat 25 Nov 20:30  
+**Journey to Italy** Viaggio in Italia  
+Fri 17 Nov 18:20; Tue 28 Nov 18:15  
+**Italianamerican + The Neighborhood +** extract from **My Voyage to Italy**  
+Tue 21 Nov 20:40; Mon 27 Nov 18:20  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTY3NzY1NTddfQ==
+eyJoaXN0b3J5IjpbMTkzNDQwOTYwMl19
 -->
