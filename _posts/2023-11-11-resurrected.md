@@ -1,6 +1,14 @@
-
-
-
+---
+layout: post
+title: Resurrected
+published: true
+date: 2023-11-11
+readtime: true
+categories: ['TARA PREM: REPRESENTING THE UNSEEN']
+tags: [Drama]
+metadata: 'UK 1989, 96 mins<br> Director: Paul Greengrass'
+pdf: '2023-11-11-resurrected.pdf'
+---
 
 Produced by Tara Prem and Adrian Hughes, Paul Greengrass’ directorial debut deals with the experiences of a young squaddie suffering from battle fatigue during the Falklands War. After being missing presumed dead, he returns home only to become a victim of press slander when accused of cowardice. A rush to judgement that still resonates in our volatile internet age.  
 **bfi.org.uk**
@@ -88,5 +96,5 @@ UK 1989
 96 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjA2NzgyNV19
+eyJoaXN0b3J5IjpbNjM1MDM5Njk5XX0=
 -->
