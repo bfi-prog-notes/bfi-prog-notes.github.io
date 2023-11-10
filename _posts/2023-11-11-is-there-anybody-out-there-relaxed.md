@@ -7,7 +7,7 @@ readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Documentary]
 metadata: 'UK/USA 2023, 87 mins<br> Director: Ella Glendining'
-pdf: '2023-11-1-is-there-anybody-oy-relaxed.pdf'
+pdf: '2023-11-1-is-there-anybody-out-there-relaxed.pdf'
 ---
 
 <img style="float: left;" src="/img/ITAOT.png"><br><br><br><br><br><br><br><br><br><br><br>
@@ -26,8 +26,7 @@ In collaboration with the filmmakers, this screening will be presented in relaxe
 <br>
 
 
-**Is There Anybody Out There?**
-
+**IS THERE ANYBODY OUT THERE?**  
 _Directed by_: Ella Glendining  
 _©_: Hot Property ITAOT Limited  
 _a_ Hot Property _production_  
@@ -87,7 +86,12 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 • We understand you may make some noise.
 
 • Please ask us if you need help.
+<BR>
 
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2MDQ1NjY5XX0=
+eyJoaXN0b3J5IjpbMTkwNzY1NjEwNV19
 -->
