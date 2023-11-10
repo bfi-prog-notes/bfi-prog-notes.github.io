@@ -6,8 +6,8 @@ date: 2023-11-10
 readtime: true
 categories: ['PREVIEW']
 tags: [Drama]
-metadata: 'UK 2022, 87 mins<br> Adura Onashile'
-pdf: '2023-11-07-girl.pdf'
+metadata: 'UK 2022, 96 mins<br> Joanna Hogg'
+pdf: '2023-11-10-eternal-daughter-qa.pdf'
 ---
 
 _+ Q&A with writer-director Joanna Hogg and actor Tilda Swinton_
@@ -39,23 +39,15 @@ While I was writing, I read many ghost stories: M.R. James’s ‘A Warning to t
 _The Innocents_ and something of it is surely in our film.  
 **Joanna Hogg interviewed by Roger Luckhurst, _Sight and Sound_, December 2023**  
 <br>
-<![endif]-->
 
-**The Eternal Daughter**
-
+**THE ETERNAL DAUGHTER**  
 _A film by_: Joanna Hogg  
-_©_: Eternal Daughter Productions Limited,
-
-British Broadcasting Corporation  
+_©_: Eternal Daughter Productions Limited, British Broadcasting Corporation  
 _An_ Element Pictures _production_  
 _In association with_: JWH Films  
 _Presented by_: A24, BBC Film  
-_Executive Producers_: Rose Garnett,
-
-Martin Scorsese  
-_Produced by_: Emma Norton, Andrew Lowe,
-
-Joanna Hogg  
+_Executive Producers_: Rose Garnett, Martin Scorsese  
+_Produced by_: Emma Norton, Andrew Lowe, Joanna Hogg  
 _Co-producer_: Eimhear McMahon  
 _Location Managers_: Alex Tridimas, Faye Newton  
 _Post-production Supervisor_: Deborah Harding  
@@ -77,9 +69,9 @@ Alice Jones
 _Prosthetics Make-up Designer_ : Mark Coulier  
 _Production Sound Mixer_: David Giles  
 _Re-recording Mixer_: Jovan Adjer  
-_Supervising Sound Editor_: Jovan Ajder
+_Supervising Sound Editor_: Jovan Ajder  
 
-Cast_  
+**Cast**   
 Tilda Swinton _(Julie, Rosalind)_  
 Joseph Mydell _(Bill)_  
 Carly-Sophia Davies _(receptionist)_  
@@ -93,5 +85,5 @@ Digital
 
 A BFI release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc4NDM5MDZdfQ==
+eyJoaXN0b3J5IjpbLTE0NTY3NzY1NTddfQ==
 -->
