@@ -63,9 +63,7 @@ _Production Designer_: Stéphane Collonge
 _Art Director_: Byron Broadbent  
 _Costume Designer_: Grace Snell  
 _Hair & Make-up Designer_: Siobhán Harper-Ryan  
-_Key Hair & Make-up/Prosthetic Application_:
-
-Alice Jones  
+_Key Hair & Make-up/Prosthetic Application_: Alice Jones  
 _Prosthetics Make-up Designer_ : Mark Coulier  
 _Production Sound Mixer_: David Giles  
 _Re-recording Mixer_: Jovan Adjer  
