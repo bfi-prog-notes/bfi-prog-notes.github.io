@@ -120,7 +120,6 @@ Fri 17 Nov 18:20; Tue 28 Nov 18:15
 **Italianamerican + The Neighborhood +** extract from **My Voyage to Italy**  
 Tue 21 Nov 20:40; Mon 27 Nov 18:20  
 <br>
-<br>
 
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
@@ -145,5 +144,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDYzMDc2Nl19
+eyJoaXN0b3J5IjpbMTE0MTY1OTk0XX0=
 -->
