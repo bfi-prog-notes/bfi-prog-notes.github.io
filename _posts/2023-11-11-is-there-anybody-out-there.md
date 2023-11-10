@@ -1,30 +1,31 @@
-
-
 ---
 layout: post
-title: Time Bandits
+title: Is There Anybody Out There?
 published: true
-date: 2023-10-30
+date: 2023-11-11
 readtime: true
 categories: ['RELAXED SCREENING']
-tags: [Fantasy, Comedy, Period]
+tags: [Documentary]
 metadata: 'UK 1981, 116 mins<br> Director: Terry Gilliam'
 pdf: '2023-10-30-time-bandits-relaxed.pdf'
 ---
 
-<img style="float: left;" src="/img/time-bandits.png"><br><br><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/ITAOT.png"><br><br><br><br><br><br><br><br><br><br><br>
 
-_+ intro and discussion_
 
-Terry Gilliam’s family-friendly adventure takes us into the world of Kevin, a young boy whose disillusionment with modern life creates a fascination with knights, kings and mythology. It’s a fascination that becomes reality when he is abducted by time-travelling bandits. _Time Bandits_ explores the joys of finding community in unconventional places.
+<![endif]-->
 
-How many of us have wished to explore beyond our conception of space and time? Our Destination: Time Travel series of Relaxed Screenings invites you to explore new ways of thinking about time, its locations, its inhabitants, and its oddities. We will be focusing on two films that present radically different perspectives of time travel: the traditional fantasy of _Time Bandits_, and the revolutionary realism of  
-_Run Lola Run_. Both feature alienated protagonists that embrace their divergence, as their stories defy metaphysical conventions.
+_+ Q&A with director Ella Glendining, hosted by Jack Thorne_
 
-In our relaxed discussions, we will investigate how living with autism can provoke a desire to escape into alternative timelines, and how these films encourage our own ways of challenging our neurotypical world. Whether this is by escaping to Ancient Greece with a band of thieving dwarves, or by running across Berlin in multiple timelines to save a loved one, these screenings and discussions will provide a comfortable space to explore and understand neurodiversity beyond the logic of time and space.  
-**Georgia Kumari Bradburn** 
+A festival circuit favourite, this thought-provoking, funny and sensitive documentary makes you stop and re-evaluate.
 
-The post-screening discussion will be led by filmmaker Georgia Kumari Bradburn of the Neurocultures Collective and the Autism Through Cinema Podcast  
+Glendining set out to find others with the same rare disability as herself and challenges the ableist world to re-view concepts of ‘normal’.
+
+Ella Glendining talks to Jack Thorne about her compelling documentary following a screening of the film.
+
+The introduction and Q&A for this screening will have live-captioning and BSL (British Sign Language) interpretation.
+
+In collaboration with the filmmakers, this screening will be presented in relaxed screening conditions, although seating will be designated. 
 <br>
 
 **TIME BANDITS**  
@@ -91,5 +92,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 • Please ask us if you need help.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjYxMzg2MV19
+eyJoaXN0b3J5IjpbLTY0NDU1NzAxLDE3NjI2MTM4NjFdfQ==
 -->
