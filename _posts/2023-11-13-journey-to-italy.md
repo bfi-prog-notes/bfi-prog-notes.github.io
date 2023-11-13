@@ -57,90 +57,34 @@ In this regard, the film moved beyond neorealism, towards another realm populate
 <br>
 <![endif]-->
 
-**Journey to Italy (Viaggio in Italia)**
-
-_Director:_ Roberto Rossellini
-
-_Production Companies:_ Sveva Film,
-
-Junior Film, Italia Produzione Film,
-
-Société Générale de Cinématographie, Films Ariane, Francinex
-
-_Producers:_ Roberto Rossellini,
-
-Adolfo Fossataro, Alfredo Guarini
-
+**Journey to Italy (Viaggio in Italia)**  
+_Director:_ Roberto Rossellini  
+_Production Companies:_ Sveva Film, Junior Film, Italia Produzione Film, Société Générale de Cinématographie, Films Ariane, Francinex  
+_Producers:_ Roberto Rossellini, Adolfo Fossataro, Alfredo Guarini  
 _Production Managers:_ Mario Del Papa,
-
-Marcello D’Amico
-
-_Unit Manager:_ Mimmo Salvi
-
+Marcello D’Amico  
+_Unit Manager:_ Mimmo Salvi  
 _Production Assistants:_ Pietro Notarianni,
-
-Alberto Travaglini
-
-_Assistant Directors:_ Marcello Di Laurino,
-
-Vladimiro Cecchi
-
-_Scriptgirl:_ Mary Alcaide
-
-_Story/Screenplay:_ Roberto Rossellini,
-
-Vitaliano Brancati
-
-_Director of Photography:_ Enzo Serafin
-
-_Camera Operator:_ Aldo Scavarda
-
-_Assistant Camera Operator:_
-
-Alessandro Serafin
-
-_Camera Assistants:_ Aldo Casalegno,
-
-Ottavio Belli, Amadeo Muscitelli,
-
-Corrado Ricci, Ennio Mancini,
-
-Orlando Pellegrini, Mario Micheli, Fernando Bonifazi, Giovanni Di Felice,
-
-Rodolfo Filodotto, Ettore Zampagni
-
-_Stills Photography:_ Lorenzo Papi
-
-_Editor:_ Jolanda Benvenuti
-
-_Sets:_ Piero Filippone
-
-_Gowns:_ Ines Fiorentini
-
-_Costumes for Ingrid Bergman:_
-
-Casa Fernanda Gattinoni
-
-_Make-up:_ Manrico Spagnoli
-
-_Negatives/Positives:_ Tecnostampa (Rome)
-
-_Incidental Music/Music Conducted by:_
-
-Renzo Rossellini
-
-_Popular Neapolitan Songs/Themes Sung by:_ Giacomo Rondinella
-
-_Sound Recording:_ Eraldo Giordani
-
-_Sound Assistants:_ Venanzio Lisca,
-
-Aldo Zanni, Sergio Zega
-
-_Drivers:_ Pietro Mannetti, Mario Cartocci,
-
-Ernesto Cartocci
-
+Alberto Travaglini  
+_Assistant Directors:_ Marcello Di Laurino, Vladimiro Cecchi  
+_Scriptgirl:_ Mary Alcaide  
+_Story/Screenplay:_ Roberto Rossellini, Vitaliano Brancati  
+_Director of Photography:_ Enzo Serafin  
+_Camera Operator:_ Aldo Scavarda  
+_Assistant Camera Operator:_ Alessandro Serafin  
+_Camera Assistants:_ Aldo Casalegno, Ottavio Belli, Amadeo Muscitelli, Corrado Ricci, Ennio Mancini, Orlando Pellegrini, Mario Micheli, Fernando Bonifazi, Giovanni Di Felice, Rodolfo Filodotto, Ettore Zampagni  
+_Stills Photography:_ Lorenzo Papi  
+_Editor:_ Jolanda Benvenuti  
+_Sets:_ Piero Filippone  
+_Gowns:_ Ines Fiorentini  
+_Costumes for Ingrid Bergman:_ Casa Fernanda Gattinoni  
+_Make-up:_ Manrico Spagnoli  
+_Negatives/Positives:_ Tecnostampa (Rome)  
+_Incidental Music/Music Conducted by:_ Renzo Rossellini  
+_Popular Neapolitan Songs/Themes Sung by:_ Giacomo Rondinella  
+_Sound Recording:_ Eraldo Giordani  
+_Sound Assistants:_ Venanzio Lisca, Aldo Zanni, Sergio Zega  
+_Drivers:_ Pietro Mannetti, Mario Cartocci, Ernesto Cartocci  
 _Made at:_ Titanus Studios  
 _uncredited_  
 _Story/Screenplay:_ Antonio Pietrangeli  
@@ -167,5 +111,5 @@ Italy/France 1954
 86 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTcwMzE4NV19
+eyJoaXN0b3J5IjpbLTYwODcyMDI5XX0=
 -->
