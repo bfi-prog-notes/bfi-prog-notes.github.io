@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: Typist Artist Pirate King
+published: true
+date: 2023-11-13
+readtime: true
+categories: [EVENTS]
+tags: [Drama, Biopic]
+metadata: 'UK 2023, 105 mins<br> Director: Carol Morley'
+pdf: '2023-11-13-typist-artist-pirate-king.pdf'
+---
 
 _+ Q&A with writer and director Carol Morley, cast members Monica Dolan, Gina McKee and Kieran Bew, producer Cairo Cannon, composer Carly Paradis and editor Alex Mackie_
 
@@ -104,5 +111,5 @@ Sat 25 Nov 12:00-17:00
 **TV Preview: Vigil + Q&A with cast Suranne Jones, Romola Garai, Dougray Scott and writer Tom Edge**  
 Mon 27 Nov 18:15  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDA0ODI1Ml19
+eyJoaXN0b3J5IjpbODE0OTc2MjY3XX0=
 -->
