@@ -5,13 +5,10 @@ published: true
 date: 2023-11-13
 readtime: true
 categories: [EVENTS]
-tags: [Musical, Drama]
+tags: [Drama]
 metadata: 'UK 1948, 133 mins<br> Directors: Michael Powell, Emeric Pressburger'
 pdf: '2023-11-12-red-shoes.pdf'
 ---
-
-
-
 
 _+ extended introduction by Jeremy Cooper and Ben Rivers, with a reading by actor Toby Jones_
 
@@ -58,6 +55,117 @@ There is an acknowledgement here of profound mysteries at work, and it feels as 
 In this regard, the film moved beyond neorealism, towards another realm populated by figures like Carl Dreyer, Ingmar Bergman, Michelangelo Antonioni, even Rohmer or – more recently – the likes of Krzysztof Kieslowski, Abbas Kiarostami and Nuri Bilge Ceylan. Indeed, it might even be argued that, along with the earlier _Citizen Kane_ (1941), it was _Journey to Italy_ which was most instrumental and influential in effecting the transition from traditional forms of cinematic storytelling to something more recognisably modern. And that’s probably why the film itself feels so timeless.  
 **Geoff Andrew, bfi.org.uk, 24 April 2019**  
 <br>
+<![endif]-->
+
+**Journey to Italy (Viaggio in Italia)**
+
+_Director:_ Roberto Rossellini
+
+_Production Companies:_ Sveva Film,
+
+Junior Film, Italia Produzione Film,
+
+Société Générale de Cinématographie, Films Ariane, Francinex
+
+_Producers:_ Roberto Rossellini,
+
+Adolfo Fossataro, Alfredo Guarini
+
+_Production Managers:_ Mario Del Papa,
+
+Marcello D’Amico
+
+_Unit Manager:_ Mimmo Salvi
+
+_Production Assistants:_ Pietro Notarianni,
+
+Alberto Travaglini
+
+_Assistant Directors:_ Marcello Di Laurino,
+
+Vladimiro Cecchi
+
+_Scriptgirl:_ Mary Alcaide
+
+_Story/Screenplay:_ Roberto Rossellini,
+
+Vitaliano Brancati
+
+_Director of Photography:_ Enzo Serafin
+
+_Camera Operator:_ Aldo Scavarda
+
+_Assistant Camera Operator:_
+
+Alessandro Serafin
+
+_Camera Assistants:_ Aldo Casalegno,
+
+Ottavio Belli, Amadeo Muscitelli,
+
+Corrado Ricci, Ennio Mancini,
+
+Orlando Pellegrini, Mario Micheli, Fernando Bonifazi, Giovanni Di Felice,
+
+Rodolfo Filodotto, Ettore Zampagni
+
+_Stills Photography:_ Lorenzo Papi
+
+_Editor:_ Jolanda Benvenuti
+
+_Sets:_ Piero Filippone
+
+_Gowns:_ Ines Fiorentini
+
+_Costumes for Ingrid Bergman:_
+
+Casa Fernanda Gattinoni
+
+_Make-up:_ Manrico Spagnoli
+
+_Negatives/Positives:_ Tecnostampa (Rome)
+
+_Incidental Music/Music Conducted by:_
+
+Renzo Rossellini
+
+_Popular Neapolitan Songs/Themes Sung by:_ Giacomo Rondinella
+
+_Sound Recording:_ Eraldo Giordani
+
+_Sound Assistants:_ Venanzio Lisca,
+
+Aldo Zanni, Sergio Zega
+
+_Drivers:_ Pietro Mannetti, Mario Cartocci,
+
+Ernesto Cartocci
+
+_Made at:_ Titanus Studios  
+_uncredited_  
+_Story/Screenplay:_ Antonio Pietrangeli  
+_Original Story:_ Colette  
+_Photography:_ Aldo Tonti, Luciano Trasatti  
+
+**Cast**  
+Ingrid Bergman _(Katherine Joyce)_  
+George Sanders _(Alex Joyce)_  
+Maria Mauban _(Marie Rastelli)_  
+Anna Proclemer _(prostitute)_  
+Paul Müller _(Paul Dupont)_  
+Leslie Daniels _(Leslie Harris, Judy’s housemate)_  
+Natalia Ray _(Natalia Burton)_  
+Jackie Frost _(Judy)_  
+_uncredited_  
+Anthony La Penna _(Tony Burton)_  
+Lyla Rocco _(Miss Sinibaldi)_  
+Lucio Caracciolo, Marcello Caracciolo,  Paola Carola _(guest at Duca di Lipoli)_  
+Bianca Maria Cerasoli _(Miss Notari_)  
+Adriana Danieli, Mery Martin  
+
+Italy/France 1954  
+86 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTY1NjU1NF19
+eyJoaXN0b3J5IjpbLTgyMTcwMzE4NV19
 -->
