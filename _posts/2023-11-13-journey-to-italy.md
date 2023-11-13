@@ -7,7 +7,7 @@ readtime: true
 categories: [EVENTS]
 tags: [Drama]
 metadata: 'Italy/France 1954, 86 mins<br> Director: Roberto Rossellini'
-pdf: '2023-11-12-red-shoes.pdf'
+pdf: '2023-11-13-journey-to-italy.pdf'
 ---
 
 _+ extended introduction by Jeremy Cooper and Ben Rivers, with a reading by actor Toby Jones_
@@ -152,5 +152,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzNDM5ODA4LC0xOTg0ODY3NjE5XX0=
+eyJoaXN0b3J5IjpbLTE5MjUyOTczMjUsLTE5ODQ4Njc2MTldfQ
+==
 -->
