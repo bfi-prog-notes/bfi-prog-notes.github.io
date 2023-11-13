@@ -32,14 +32,10 @@ The final scenes offer some closure, after this picaresque journey. Amiss wrote 
 In many ways, _Typist Artist Pirate King_ is rooted in absences and denial: the care Audrey didn’t get, the life she might have had with recognition of her talent. It highlights a broader societal issue: how successive governments have underfunded mental health provision, and how easily patients without full-time carers or close family can become isolated. There’s a subtle but unmistakable swipe at an art world dismissive of working-class artists, especially if they happen to be women or unwell. Amiss’s art and her fastidious cataloguing were a lifeline, an anchor that created certainty in a life often thwarted by conflicting realities. The film’s title embodies this: the life and roles she actually lived and the ones she dreamed of. Myriad and complex, Amiss finally gets her due in this touching, compassionate film.  
 **Sinéad Gleeson, _Sight and Sound_, October 2023**  
 <br>
-<![endif]-->
 
-**Typist Artist Pirate King**
-
+**TYPIST ARTIST PIRATE KING**  
 _Directed by_: Carol Morley  
-_©_: Passport Productions Ltd,
-
-British Film Institute  
+_©_: Passport Productions Ltd, British Film Institute  
 _International Sales_: Metro International Entertainment  
 _Executive Producers_: Jane Campion, Anne Sheehan, Reno Antoniades, Mia Bays, Maria Logan, Oisín O'Neill, John Gleeson, Tyrone Walker-Hebborn, Norman Merry, Peter Hampden, Carol Morley  
 _Produced by_: Cairo Cannon  
@@ -108,5 +104,5 @@ Sat 25 Nov 12:00-17:00
 **TV Preview: Vigil + Q&A with cast Suranne Jones, Romola Garai, Dougray Scott and writer Tom Edge**  
 Mon 27 Nov 18:15  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzcwMjA1MV19
+eyJoaXN0b3J5IjpbMTU1MDA0ODI1Ml19
 -->
