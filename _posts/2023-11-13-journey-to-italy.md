@@ -55,9 +55,8 @@ There is an acknowledgement here of profound mysteries at work, and it feels as 
 In this regard, the film moved beyond neorealism, towards another realm populated by figures like Carl Dreyer, Ingmar Bergman, Michelangelo Antonioni, even Rohmer or – more recently – the likes of Krzysztof Kieslowski, Abbas Kiarostami and Nuri Bilge Ceylan. Indeed, it might even be argued that, along with the earlier _Citizen Kane_ (1941), it was _Journey to Italy_ which was most instrumental and influential in effecting the transition from traditional forms of cinematic storytelling to something more recognisably modern. And that’s probably why the film itself feels so timeless.  
 **Geoff Andrew, bfi.org.uk, 24 April 2019**  
 <br>
-<![endif]-->
 
-**Journey to Italy (Viaggio in Italia)**  
+**JOURNEY TO ITALY (VIAGGIO IN ITALIA)**  
 _Director:_ Roberto Rossellini  
 _Production Companies:_ Sveva Film, Junior Film, Italia Produzione Film, Société Générale de Cinématographie, Films Ariane, Francinex  
 _Producers:_ Roberto Rossellini, Adolfo Fossataro, Alfredo Guarini  
@@ -110,6 +109,24 @@ Adriana Danieli, Mery Martin
 Italy/France 1954  
 86 mins  
 Digital  
+<BR>
+
+<![endif]-->
+
+**IN PERSON & PREVIEWS**
+
+**Joanna Hogg in Conversation**
+
+Wed 15 Nov 18:30
+
+**Mark Kermode Live in 3D at the BFI**  
+Mon 20 Nov 18:30 **  
+Preview: Rustin + Q&A with director George C. Wolfe. Hosted by David Olusoga**  
+Tue 21 Nov 18:15  
+**Talk: The Creative Worlds of Powell + Pressburger**  
+Sat 25 Nov 12:00-17:00  
+**TV Preview: Vigil + Q&A with cast Suranne Jones, Romola Garai, Dougray Scott and writer Tom Edge**  
+Mon 27 Nov 18:15  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODcyMDI5XX0=
+eyJoaXN0b3J5IjpbLTE5ODQ4Njc2MTldfQ==
 -->
