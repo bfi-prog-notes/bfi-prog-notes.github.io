@@ -110,17 +110,12 @@ Italy/France 1954
 Digital  
 <BR>
 
-<![endif]-->
-
-**IN PERSON & PREVIEWS**
-
-**Joanna Hogg in Conversation**
-
-Wed 15 Nov 18:30
-
+**IN PERSON & PREVIEWS**  
+**Joanna Hogg in Conversation**  
+Wed 15 Nov 18:30  
 **Mark Kermode Live in 3D at the BFI**  
-Mon 20 Nov 18:30 **  
-Preview: Rustin + Q&A with director George C. Wolfe. Hosted by David Olusoga**  
+Mon 20 Nov 18:30  
+**Preview: Rustin + Q&A with director George C. Wolfe. Hosted by David Olusoga**  
 Tue 21 Nov 18:15  
 **Talk: The Creative Worlds of Powell + Pressburger**  
 Sat 25 Nov 12:00-17:00  
