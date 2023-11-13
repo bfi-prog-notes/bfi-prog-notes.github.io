@@ -6,7 +6,7 @@ date: 2023-11-13
 readtime: true
 categories: [EVENTS]
 tags: [Drama]
-metadata: 'UK 1948, 133 mins<br> Directors: Michael Powell, Emeric Pressburger'
+metadata: 'Italy/France 1954, 86 mins<br> Director: Roberto Rossellini'
 pdf: '2023-11-12-red-shoes.pdf'
 ---
 
@@ -37,8 +37,7 @@ In recognition of his remarkable contributions to the field of drama, Toby was a
 
 Quite simply, _Journey to Italy_ is a very, very great film. A landmark in many respects. One of those masterpieces which feels as if it’s becoming a little harder to ‘fix’ with each and every viewing. Surely no question, then, that the BFI should revive the film.
 
-No question? Actually, once upon a time there might have been a great many questions. _Journey to Italy_ – aka _Viaggio in Italia_ or _Voyage to Italy_, or even  
-_The Lonely Woman_ or _Strangers_ as it’s sometimes been known (though I’ve never heard it called _The Italian Trip_ or _The Curmudgeonly Man_, which would be almost as appropriate as some of the aforementioned titles) – wasn’t always held in the high esteem it commands today.
+No question? Actually, once upon a time there might have been a great many questions. _Journey to Italy_ – aka _Viaggio in Italia_ or _Voyage to Italy_, or even  _The Lonely Woman_ or _Strangers_ as it’s sometimes been known (though I’ve never heard it called _The Italian Trip_ or _The Curmudgeonly Man_, which would be almost as appropriate as some of the aforementioned titles) – wasn’t always held in the high esteem it commands today.
 
 Rossellini first attracted the attention of the world with _Rome, Open City_ (1945) which, like its immediate successors _Paisà_ (1946) and _Germany, Year Zero_ (1947), pretty much conformed to the notion of neorealist films as stories of the everyday lives of the poor and dispossessed – ideally played by non-professionals – simply trying to get by. (This, of course, is a gross simplification of what neorealism was about, but that’s how it’s often described and discussed.)
 
@@ -127,6 +126,31 @@ Tue 21 Nov 18:15
 Sat 25 Nov 12:00-17:00  
 **TV Preview: Vigil + Q&A with cast Suranne Jones, Romola Garai, Dougray Scott and writer Tom Edge**  
 Mon 27 Nov 18:15  
+<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ4Njc2MTldfQ==
+eyJoaXN0b3J5IjpbNzgzNDM5ODA4LC0xOTg0ODY3NjE5XX0=
 -->
