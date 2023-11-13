@@ -32,6 +32,81 @@ The final scenes offer some closure, after this picaresque journey. Amiss wrote 
 In many ways, _Typist Artist Pirate King_ is rooted in absences and denial: the care Audrey didn’t get, the life she might have had with recognition of her talent. It highlights a broader societal issue: how successive governments have underfunded mental health provision, and how easily patients without full-time carers or close family can become isolated. There’s a subtle but unmistakable swipe at an art world dismissive of working-class artists, especially if they happen to be women or unwell. Amiss’s art and her fastidious cataloguing were a lifeline, an anchor that created certainty in a life often thwarted by conflicting realities. The film’s title embodies this: the life and roles she actually lived and the ones she dreamed of. Myriad and complex, Amiss finally gets her due in this touching, compassionate film.  
 **Sinéad Gleeson, _Sight and Sound_, October 2023**  
 <br>
+<![endif]-->
+
+**Typist Artist Pirate King**
+
+_Directed by_: Carol Morley  
+_©_: Passport Productions Ltd,
+
+British Film Institute  
+_International Sales_: Metro International Entertainment  
+_Executive Producers_: Jane Campion, Anne Sheehan, Reno Antoniades, Mia Bays, Maria Logan, Oisín O'Neill, John Gleeson, Tyrone Walker-Hebborn, Norman Merry, Peter Hampden, Carol Morley  
+_Produced by_: Cairo Cannon  
+_Producer_: Ameenah Ayub Allen  
+_Line Producer_: Sophie MacClancy  
+_Location Manager_: Matthew Bowden  
+_Post-production Co-ordinator_: Kevin Hasham  
+_1st Assistant Director_: Malinda Kaur  
+_Script Supervisor_: Bhairavi Patel  
+_Casting Director_: Shaheen Baig  
+_Written by_: Carol Morley  
+_Inspired by the life and times of_: Audrey Amiss  
+_Director of Photography_: Agnès Godard  
+_Visual Effects Supervisor_: David Fowler  
+_Visual Effects by_: LipSync Post  
+_Special Effects Supervisor_: Rob Rowley  
+_Film Editor_: Alex Mackie  
+_Production Designer_: Janey Levick  
+_Art Director_: Liz Simpson  
+_Costume Designer_: Natalie Ward  
+_Hair and Make-up Designer_: Claire Whiteley  
+_Music by_: Carly Paradis  
+_Production Sound Mixer_: Kieron Wolfson  
+_Re-recording Mixer_: Sven Taits  
+_Stunt Co-ordinators_: Martin Pemberton,
+Matt Da Silva  
+
+**Cast**    
+Monica Dolan _(Audrey Amiss)_  
+Kelly Macdonald _(Sandra Panza)_  
+Gina McKee _(Dorothy)_  
+Kieran Bew _(Gabe)_  
+Judith Chandler _(Miss Moul)_  
+Gary Bates _(vicar)_  
+Paul Miller _(Jesus)_  
+Anand Toora _(Jimmy Cragg)_  
+Kya Brame _(Pouting Pamela)_  
+Dawn Butler _(waitress)_  
+James Jaysen Bryhan _(chef)_  
+Matilda Firth _(magic girl)_  
+Pauline Whitaker _(Miss Hunter)_  
+Issam Al Ghussain _(John Lander Junior)_  
+Neal Barry _(motorhome driver)_  
+Christine Bottomley _(Joan)_  
+Gavin Kitchen _(Policeman Da)_  
+Joanne Allen _(Knitting Nelly)_  
+Georgie Foley _(girl on beach)_  
+Felicity Thompson _(girl on beach)_  
+Christine Anderson _(beach cafe owner)_  
+Paul Hamilton _(John)_  
+
+UK 2023  
+105 mins  
+Digital  
+
+
+**IN PERSON & PREVIEWS**  
+**Joanna Hogg in Conversation**  
+Wed 15 Nov 18:30  
+**Mark Kermode Live in 3D at the BFI**  
+Mon 20 Nov 18:30 **  
+Preview: Rustin + Q&A with director George C. Wolfe. Hosted by David Olusoga**  
+Tue 21 Nov 18:15  
+**Talk: The Creative Worlds of Powell + Pressburger**  
+Sat 25 Nov 12:00-17:00  
+**TV Preview: Vigil + Q&A with cast Suranne Jones, Romola Garai, Dougray Scott and writer Tom Edge**  
+Mon 27 Nov 18:15  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODgxNjUwOF19
+eyJoaXN0b3J5IjpbMTgwMzcwMjA1MV19
 -->
