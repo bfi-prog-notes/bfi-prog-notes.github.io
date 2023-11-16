@@ -6,8 +6,8 @@ date: 2023-11-17
 readtime: true
 categories: [NEW RELEASES]
 tags: [Comedy, Drama]
-metadata: 'USA 2023, 117 mins<br> Director: Todd Hayne'
-pdf: '2023-11-12-red-shoes.pdf'
+metadata: 'USA 2023, 117 mins<br> Director: Todd Haynes'
+pdf: '2023-11-17-may-december.pdf'
 ---
 
 Todd Haynes knows how to write complicated women. Ever since Julianne Moore stepped into the role of a housewife suffering from a mysterious quasi-psychosomatic illness in Haynes’s environmental thriller _Safe_ (1995), his films have featured heroines who are hard to fathom, but infinitely fascinating. In Haynes’s dark comedy _May December_ Moore plays Gracie Atherton-Yoo, a former pet-store worker whose affair with an adolescent boy, Joe, created a media frenzy in her middle-class community in Savannah, Georgia. The story begins more than two decades after the scandal, as an indie film is to be made about Gracie and Joe, who’s now 36. The key events are quickly established by Haynes, through images of tabloid front-pages and Gracie’s own telling: we discover that the two dutifully married and Gracie had Joe’s baby in prison. The couple now enjoy an ordinary life of barbecues and pool parties, children and even grandchildren (from Gracie’s previous marriage), although Gracie’s baking home-business turns out to be largely financed by a few loyal friends who take pity on her. Meanwhile Gracie certainly remains ostracised by some, and endures swipes about her promiscuity by colleagues at a local charity where she helps out.
@@ -129,6 +129,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTEwMDk1MiwyMTAwODIwNzYwLDMyOT
-EwMzQwM119
+eyJoaXN0b3J5IjpbLTEwOTYzODUxMDMsMjEwMDgyMDc2MCwzMj
+kxMDM0MDNdfQ==
 -->
