@@ -67,7 +67,40 @@ USA 2023
 117 mins  
 Digital  
 A Sky release  
+<br>
+JF Biog Various Oct 2023 <![endif]-->
 
+**NEW RELEASES**  
+**The Old Oak**  
+Continues from 29 Sep  
+**How to Have Sex**  
+From Fri 3 Nov  
+**Is There Anybody Out There?**  
+From Fri 17 Nov  
+**May December**  
+From Fri 17 Nov  
+**The Eternal Daughter**  
+From Fri 24 Nov  
+**Fallen Leaves (Kuolleet lehdet)**  
+From Fri 1 Dec  
+**Queendom**  
+From Fri 1 Dec  
+**Tish**  
+From Fri 15 Dec (Preview on Fri 1 Dec 18:00 + Q&A with director Paul Sng)  
+**Priscilla (preview screenings)**  
+Previews from Wed 27 Dec. Opens Fri 5 Jan  
+**The Boy and the Heron (Kimitachi wa do Ikiruka)**  
+From Wed 27 Dec  
+
+**RE-RELEASES**  
+**I Know Where I’m Going!**  
+From Thu 19 Oct  
+**Mean Streets**  
+From Fri 20 Oct  
+**Pressure**  
+From Fri 3 Nov  
+**The Red Shoes**  
+From Fri 8 Dec  
 
 <br>
 **SIGHT AND SOUND**<br>
@@ -93,5 +126,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDgyMDc2MCwzMjkxMDM0MDNdfQ==
+eyJoaXN0b3J5IjpbLTIwNjEyMDEwODEsMjEwMDgyMDc2MCwzMj
+kxMDM0MDNdfQ==
 -->
