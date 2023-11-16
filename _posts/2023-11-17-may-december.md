@@ -1,6 +1,14 @@
-
-
-JF Biog Various Oct 2023 <![endif]-->
+---
+layout: post
+title: May December
+published: true
+date: 2023-11-17
+readtime: true
+categories: [NEW RELEASES]
+tags: [Comedy, Drama]
+metadata: 'USA 2023, 117 mins<br> Director: Todd Hayne'
+pdf: '2023-11-12-red-shoes.pdf'
+---
 
 Todd Haynes knows how to write complicated women. Ever since Julianne Moore stepped into the role of a housewife suffering from a mysterious quasi-psychosomatic illness in Haynes’s environmental thriller _Safe_ (1995), his films have featured heroines who are hard to fathom, but infinitely fascinating. In Haynes’s dark comedy _May December_ Moore plays Gracie Atherton-Yoo, a former pet-store worker whose affair with an adolescent boy, Joe, created a media frenzy in her middle-class community in Savannah, Georgia. The story begins more than two decades after the scandal, as an indie film is to be made about Gracie and Joe, who’s now 36. The key events are quickly established by Haynes, through images of tabloid front-pages and Gracie’s own telling: we discover that the two dutifully married and Gracie had Joe’s baby in prison. The couple now enjoy an ordinary life of barbecues and pool parties, children and even grandchildren (from Gracie’s previous marriage), although Gracie’s baking home-business turns out to be largely financed by a few loyal friends who take pity on her. Meanwhile Gracie certainly remains ostracised by some, and endures swipes about her promiscuity by colleagues at a local charity where she helps out.
 
@@ -10,12 +18,10 @@ Haynes bathes the film’s images in softly puddled southern light, stressing th
 
 As the baby-faced, delicate Joe, Charles Melton infuses the story with a welcome forthrightness that’s the opposite of Gracie and Elizabeth’s infinite cat-and-mouse dance. Where, despite professing good intentions, Elizabeth is ruthless in her ambition to break out in a new role, to the point of preying on Gracie and everyone in her household. Meanwhile, Gracie’s so addicted to the single version of events that paints Joe as her equal – no matter at what age – that she never gets past all the smoke and mirrors. Unlike them, Joe appears to be on a real quest for a deeper personal truth – even if, in the end, such reckoning cannot be gleaned from the fractured, conflicting versions of his life. Haynes’s film shines brightest in moments of such genuine anguish and ambiguity, which clash, rather tragically, with Gracie’s obdurate clinging to her persona.
 
-Fiction and fact, self-delusion and self-truth are given a dangerous edge in a film that, ultimately, isn’t about Gracie’s actions so much as society’s appetite for demonstrations of compunction, even where none is felt. While society demands its martyrs, Gracie both dazzles and irritates by refusing to be one. With the choice of one fair, blonde actress, and another as a feistier brunette, Haynes invites comparisons to Bergman’s _Persona_ (1966). But whereas there’s certainly a parasitic power play between the two women, the film’s edgy and satirical tone take it closer to Gus Van Sant’s _To Die For_ (1995). It convincingly shows how a woman can be both prey to vicious societal impositions and wholesale fairytales of marital life, and in profound denial about her own predatory behaviour. The lines of what is truly moral are constantly crossed in _May December_, a film that resolutely prods the complicity of the media – including cinema – in feeding the machinery of lies.
+Fiction and fact, self-delusion and self-truth are given a dangerous edge in a film that, ultimately, isn’t about Gracie’s actions so much as society’s appetite for demonstrations of compunction, even where none is felt. While society demands its martyrs, Gracie both dazzles and irritates by refusing to be one. With the choice of one fair, blonde actress, and another as a feistier brunette, Haynes invites comparisons to Bergman’s _Persona_ (1966). But whereas there’s certainly a parasitic power play between the two women, the film’s edgy and satirical tone take it closer to Gus Van Sant’s _To Die For_ (1995). It convincingly shows how a woman can be both prey to vicious societal impositions and wholesale fairytales of marital life, and in profound denial about her own predatory behaviour. The lines of what is truly moral are constantly crossed in _May December_, a film that resolutely prods the complicity of the media – including cinema – in feeding the machinery of lies.  
+**Ela Bittencourt, _Sight and Sound_, December 2023**  
 
-Ela Bittencourt, _Sight and Sound_, December 2023
-
-**Todd Haynes on ‘May December’**
-
+**Todd Haynes on ‘May December’**  
 _I loathed the two women characters, Gracie [Moore] and Elizabeth [Portman]. You’ve said that they are different from women characters in your other films, or the characters Julianne played in_ Far from Heaven _and_ Safe _[1995]. And yet it is very much a Todd Haynes family, with parents and children._
 
 I would say it’s not like most of my domestic stories, with the exception of [2011 HBO miniseries] _Mildred Pierce_, because the women in most of my stories don’t have access to their desires or their will the way these women do. The women in the earlier films are much more subjugated in different kinds of ways from film to film. That part of it was crazy and exceptional. The only thing that gives you any sympathy for either woman is in relief against the other. The power of each is relative and embedded in larger systems. So you keep shifting back and forth between trusting and mistrusting one or the other. It’s not like a Todd Haynes film because the women are so difficult to like and care about. It’s the children you care about. And you feel that despite all this stuff with their parents, they are going to figure it out and be all right. So there’s hope. And you care about the man, Gracie’s husband Joe – there’s hope that he’ll figure it out too.
@@ -123,6 +129,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NjczODQ1NSwyMTAwODIwNzYwLDMyOT
+eyJoaXN0b3J5IjpbMTYzNTEwMDk1MiwyMTAwODIwNzYwLDMyOT
 EwMzQwM119
 -->
