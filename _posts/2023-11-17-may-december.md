@@ -27,10 +27,8 @@ This movie was just so full of extremes and exceptions and tabloid excess. It’
 Also, it’s a potentially explosive or disturbing [film] for today’s identity politics culture, which wants to know who’s good and who’s bad. There’s volatility, impenetrability and moral ambiguity here. And we had to do it quickly and with great economy. The simplicity of the coverage was the only way we could get this done. Letting the blank spaces, the non-speech moments between the dialogue, speak as loudly as, or more loudly than, anything said. As is almost always the case with the films I’ve made, it was an experiment. You just throw these things together and you go, ‘OK. This is it.’ There was no net. There was no other way to cut it. We have no other coverage. So if it didn’t work… But because it was so much fun to make, I kept going, ‘It’s probably not going to hold together, but I really don’t care. I wouldn’t trade this experience for anything.’  
 **Todd Haynes interviewed by Amy Taubin, _Sight and Sound_, December 2023**  
 <br>
-JF Biog Various Oct 2023 <![endif]-->
 
-**May December**
-
+**MAY DECEMBER**  
 _Directed by_: Todd Haynes  
 _A_ Gloria Sanchez _production_  
 _A_ MountainA _production_  
@@ -68,7 +66,6 @@ USA 2023
 Digital  
 A Sky release  
 <br>
-JF Biog Various Oct 2023 <![endif]-->
 
 **NEW RELEASES**  
 **The Old Oak**  
@@ -126,6 +123,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjEyMDEwODEsMjEwMDgyMDc2MCwzMj
-kxMDM0MDNdfQ==
+eyJoaXN0b3J5IjpbMTk1NjczODQ1NSwyMTAwODIwNzYwLDMyOT
+EwMzQwM119
 -->
