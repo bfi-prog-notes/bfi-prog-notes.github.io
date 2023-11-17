@@ -1,3 +1,14 @@
+---
+layout: post
+title: Predestination
+published: true
+date: 2023-11-18
+readtime: true
+categories: ['DESTINATION TIME TRAVEL<br>PLAYING WITH TIME IN FILM AND TV']
+tags: [Sci-Fi]
+metadata: 'Australia-USA 2013, 97 mins<br> Directors: Peter Spierig, Michael Spierig'
+pdf: '2023-11-18-predestination.pdf'
+---
 
 In Greek mythology, it is precisely Oedipus’s attempts to avoid murdering his own father and marrying his own mother that drive him to fulfil that predicted fate. Yet in dramatising this clash of free will and determinism, the ancients had only the divine machinery of prophecy to fix the future of their narratives. Set in a more secular age, this film from Australian genre-loving brothers Michael and Peter Spierig (_Undead_, _Daybreakers_) concerns a ‘temporal bureau’ that uses privileged prescience to stop crimes (specifically terrorist bombings) before they can be committed; yet it replaces the oracles of ancient myth – and the ‘precogs’ of Steven Spielberg’s similar _Minority Report_ (2002) – with the speculative fiction of time travel, even if it is still exploring the same age-old questions of how much we are prisoners of our own biology and psychology, our genetic heritage and environmental circumstance. Here characters are constantly confronted with choices that have been massaged and manipulated earlier – often decades earlier – to ensure that only one outcome is possible. With one of its characters a true hermaphrodite, _Predestination_ is as much concerned with issues of gender destiny as with the intertwined dynamics of terrorism and counterterrorism – but handles it all with a timely economy.
 
@@ -14,8 +25,7 @@ Stylishly executed, _Predestination_ presents itself as a slice of retro-moderni
 
 What’s new, however, is a post-9/11 dimension in the theme of the pursuit of a bomber in the past: the idea that terrorists enable state security organisations to exist, and that therefore those organisations owe everything to terrorists, without whom they are nothing. This is just one of the ways in which _Predestination_ is a perfect, perverse love story.
 
-There’s also a dimension in _Predestination_ which is arguably always present, overtly or not, in time-travel stories: a meta-fictional dimensional relating to narrative itself, and how we make sense of it. Take for example the editing style of _Primer_, which constantly makes us aware how its time travellers seek to  re-edit their own history. _Predestination_ plays on the idea of history being  
-pre-written and yet possibly open to rewriting; the story is about the problems of controlling the story. In meta-filmic terms, you might see the film’s security boss and arch-manipulator Robertson (Noah Taylor, enigmatically feline) as a sort of studio head, determined to stop actors and directors from changing the script.  
+There’s also a dimension in _Predestination_ which is arguably always present, overtly or not, in time-travel stories: a meta-fictional dimensional relating to narrative itself, and how we make sense of it. Take for example the editing style of _Primer_, which constantly makes us aware how its time travellers seek to  re-edit their own history. _Predestination_ plays on the idea of history being  pre-written and yet possibly open to rewriting; the story is about the problems of controlling the story. In meta-filmic terms, you might see the film’s security boss and arch-manipulator Robertson (Noah Taylor, enigmatically feline) as a sort of studio head, determined to stop actors and directors from changing the script.  
 **Jonathan Romney, _Sight and Sound_, bfi.org.uk, 2015**
 <br><br>
 
@@ -73,6 +83,73 @@ Digital
 
 The screening on Sat 18 Nov will be introduced by James and Matt from the Journey Through Sci-Fi podcast
 <br><br>
+
+**DESTINATION TIME TRAVEL: PLAYING WITH TIME IN FILM AND TV**<br>
+**The Time Machine**<br>
+Mon 16 Oct 20:40; Sat 28 Oct 15:10; Mon 20 Nov 18:15<br>
+**Time after Time**<br>
+Sun 22 Oct 18:20; Mon 13 Nov 20:40<br>
+**Time Bandits**<br>
+Wed 25 Oct 20:45; Thus 26 Oct 14:40; Sun 5 Nov 11:30<br>
+**Je t’aime je t’aime**<br>
+Thu 26 Oct 20:40; Sat 18 Nov 18:30<br>
+**Telling the Tales of Time + Q&A with Steve Nallon**<br>
+Fri 27 Oct 18:15<br>
+**Run Lola Run (Lola rennt)**<br>
+Fri 27 Oct 20:45<br>
+**Donnie Darko**<br>
+Sat 28 Oct 18:00; Sat 11 Nov 20:20; Fri 17 Nov 20:45<br>
+**Somewhere in Time**<br>
+Thu 2 Nov 20:30; Sat 18 Nov 14:20<br>
+**The TARDIS: The Most Famous Time Machine in the Universe**<br>
+Sat 4 Nov 12:00<br>
+**Comedy Time-Travel Special with writer Rob Grant, actor Robert Llewellyn, exec producer Paul Jackson and director Ed Bye – Red Dwarf: Backwards + Timewasters**<br>
+Sun 5 Nov 14:15<br>
+**Planet of the Apes**<br>
+Thu 9 Nov 20:45<br>
+**Tomorrow I’ll Wake Up and Scald Myself with Tea (Zítra vstanu a oparím se cajem) + **La Jetée**<br>
+Fri 10 Nov 20:40; Sat 25 Nov 15:00<br>
+**The Tomorrow People: A Rift in Time + Q&A**<br>
+Sat 11 Nov 12:00<br>
+**Predestination**<br>
+Sat 18 Nov 20:45; Tue 28 Nov 18:20<br>
+**Lazarus Table Reading**<br>
+Sun 19 Nov 15:15<br>
+**Beyond the Infinite Two Minutes (Dorosute no hate de bokura) + Felix the Cat Trifles with Time**<br>
+Tue 21 Nov 18:30; Thu 23 Nov 21:00<br>
+
+**DESTINATION: TIME TRAVEL AT BFI IMAX**<br>
+**12 Monkeys + La Jetée**<br>
+Sun 22 Oct 11:30<br>
+**The Terminator + Terminator 2: Judgment Day**<br>
+Mon 30 Oct 18:30<br>
+**Back to the Future Trilogy**<br>
+Sun 19 Nov 11:30<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTk5MTExOTc1MV19
 -->
