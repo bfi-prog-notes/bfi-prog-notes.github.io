@@ -11,10 +11,9 @@ Short dialogue scenes of a type that Zinnemann can handle particularly well (reg
 
 Yet the best of this film is pleasantly characteristic of the best of Zinnemann as a whole: his feeling for location (the Franco-Spanish border), his generosity of spirit and the intelligence that he takes for granted in his audience. With his gentle asides (young priests playing ball or elderly ones clipping roses) and the special way in which he introduces each new character so that he or she momentarily matters very much (one certainly expected to see more of Rosalie Crutchley as Vinolas’s ailing wife), Zinnemann has a knack of leaving open the possibility of other developments and other endings. One’s interest in _Behold a Pale Horse_ is held for exactly as long as such a possibility remains.  
 **Elizabeth Sussex, _Sight and Sound_, Autumn 1964**
-<b
+<br><br>
 
-**BEHOLD A PALE HORSE**
-
+**BEHOLD A PALE HORSE**  
 _Directed by_: Fred Zinnemann  
 ©_/Production Company_: Highland Films, Brentwood Productions Inc.  
 _Associate Producer_: Alexander Trauner  
@@ -30,20 +29,17 @@ _Editor_: Walter Thompson
 _Production Designer_: Alexander Trauner  
 _Art Director_: Auguste Capelier  
 _Set Decoration_: Maurice Barnathan  
-_Costumes Designed by_: Elizabeth Haffenden,  
-Joan Bridge  
+_Costumes Designed by_: Elizabeth Haffenden,  Joan Bridge  
 _Make-up_: Michel Deruelle  
 _Hair Stylist_: Marc Blanchard  
-_Opening montage by courtesy of_:  
-Nicole Stephane, Frederic Rossif  
+_Opening montage by courtesy of_:  Nicole Stephane, Frederic Rossif  
 _Music Composed and Conducted by_: Maurice Jarre  
 _Recording_: Poste Parisien, SIMO (Paris)  
 _Sound_: Jean Monchablon  
 _Dialogue Coach_: Ruth Roberts, Walter Kelley  
 _Studio_: Franstudio-Saint Maurice
 
-_Cast:_
-
+**Cast**  
 Gregory Peck _(Manuel Artiguez)_  
 Anthony Quinn _(Captain Vinolas)_  
 Omar Sharif _(Father Francisco)_  
@@ -68,11 +64,10 @@ Alain Saury
 Jose-Luis Vilallonga  
 Elisabeth Wiener
 
-USA 1964©
-
-120 mins
-
+USA 1964©  
+120 mins  
 35mm
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5MzY0NjEwXX0=
+eyJoaXN0b3J5IjpbMTcxNzEzNTYzMl19
 -->
