@@ -1,6 +1,5 @@
 
-Made towards the end of Michael Powell and Emeric Pressburger’s creative partnership, _The Battle of the River Plate_ is based on the British Navy’s triumph over a German ‘pocket battleship’, the _Graf Spee_, in the early months of the second world war. Rarely included in discussions of their great works,  
-_The Battle of the River Plate_ was nevertheless Powell and Pressburger’s most commercially successful film.
+Made towards the end of Michael Powell and Emeric Pressburger’s creative partnership, _The Battle of the River Plate_ is based on the British Navy’s triumph over a German ‘pocket battleship’, the _Graf Spee_, in the early months of the second world war. Rarely included in discussions of their great works, _The Battle of the River Plate_ was nevertheless Powell and Pressburger’s most commercially successful film.
 
 The gallant heroism of both the British Navy and the German Captain Langsdorff, who scuttles his own ship rather than face defeat, strongly appealed to Powell and Pressburger. Indeed, so fond of the story was Michael Powell that he published a novel, _The Last Voyage of the Graf Spee_, retelling the story in the hope that, as he wrote in the book’s introduction, future generations of children would ‘read it and absorb it into their experience’.
 
@@ -83,13 +82,12 @@ Diane Herman  *
 Robert Crewdson  *  
 Tita Dane  *
 
-UK 1956©
-
-119 mins
-
+UK 1956©  
+119 mins  
 35mm
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2NTgzMzgzLC05MTQ3NTc5MV19
+eyJoaXN0b3J5IjpbLTk0MDI4MDE4OSwtOTE0NzU3OTFdfQ==
 -->
