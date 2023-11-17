@@ -43,38 +43,30 @@ _Artistic Adviser_: Hein Heckroth
 _Make Up_: Geoffrey Rodway  
 _Music Composed by_: Brian Easdale  
 _Musical Director_: Frederic Lewis  
-_Sound Recordists_: C.C. Stevens,  
-Gordon K. McCallum  
+_Sound Recordists_: C.C. Stevens,  Gordon K. McCallum  
 _Sound Assistant_: Harry Fairbairn *  
 _Sound System_: Westrex Recording System  
 _Sound Editor_: Arthur Stevens  
 _Naval Adviser_: Captain F.S. Bell  
-_Technical Adviser on prison sequences_:  
-Captain Patrick Dove  
+_Technical Adviser on prison sequences_:  Captain Patrick Dove  
 _Thanked in credits_: The Admiralty, The Royal New Zealand Navy, The Indian Navy, United States Navy, The Uruguayan Navy, The British Merchant Navy, Meditteranean Commander-in-chief, Portsmouth Commander-in-chief, Lady Harwood, Admiral Sir W. Edward Parry, Admiral Sir Charles Woodhouse, The National Council of Government of Uruguay, The Friends of Uruguay Society,  
-The River Plate Veterans Association, Commander United States Sixth Fleet, Officers and men of  
-the Royal Navy, Royal Dockyards Ministry of Defence (Navy)  
+The River Plate Veterans Association, Commander United States Sixth Fleet, Officers and men of  the Royal Navy, Royal Dockyards Ministry of Defence (Navy)  
 _Publicity_: Jean Osborne *  
 _Made at_: Pinewood Studios
 
-_Cast:_
-
+**Cast**  
 John Gregson _(Captain Bell, HMS Exeter)_  
 Anthony Quayle _(Commodore Harwood, HMS Ajax)_  
 Ian Hunter _(Captain Woodhouse, HMS Ajax)_  
 Jack Gwillim _(Captain Parry, HMNZS Achilles)_  
 Bernard Lee _(Captain Dove, MS Africa Shell)_  
 Lionel Murton _(Mike Fowler)_  
-Anthony Bushell_  
-(Mr Millington-Drake, British Minister)_  
+Anthony Bushell _(Mr Millington-Drake, British Minister)_  
 Peter Illing _(Dr Guani, Foreign Minister Uruguay)_  
-Michael Goodliffe_  
-(Captain McCall, British naval attache)_  
+Michael Goodliffe _(Captain McCall, British naval attache)_  
 Patrick Macnee _(Lieutenant-Commander Medley)_  
-John Chandos_  
-(Dr Langmann, German minister Montevideo)_  
-Douglas Wilmer_  
-(M. Desmoulins, French minister Montevideo)_  
+John Chandos _(Dr Langmann, German minister Montevideo)_  
+Douglas Wilmer _(M. Desmoulins, French minister Montevideo)_  
 William Squire _(Ray Martin)_  
 Roger Delgado _(Captain Varela, Uruguayan navy)_  
 Andrew Cruickshank _(Captain Stubbs, Doric Star)_  
@@ -85,7 +77,7 @@ Peter Finch _(Captain Langsdorff, Admiral Graf Spee)_
 Maria Mercedes _(Madame X)_ *  
 John Schlesinger _(German officer)_ *  
 John Le Mesurier _(padre)_ *  
-Anthony Newley, Nigel Stock_(British officers aboard Graf Spee)_ *  
+Anthony Newley, Nigel Stock _(British officers aboard Graf Spee)_ *  
 Richard Beale _(Captain Pottinger, Ashlea)_ *  
 Diane Herman  *  
 Robert Crewdson  *  
@@ -99,5 +91,5 @@ UK 1956©
 
 * Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDc1NzkxXX0=
+eyJoaXN0b3J5IjpbODY2NTgzMzgzLC05MTQ3NTc5MV19
 -->
