@@ -21,8 +21,7 @@ pre-written and yet possibly open to rewriting; the story is about the problems 
 
 **PREDESTINATION**  
 _Directed by_: Peter Spierig, Michael Spierig  
-©: Predestination Holdings Pty Ltd,  
-Screen Australia, Screen Queensland Pty Ltd, Cutting Edge Post Pty Ltd  
+©: Predestination Holdings Pty Ltd,  Screen Australia, Screen Queensland Pty Ltd, Cutting Edge Post Pty Ltd  
 _Production Companies_: Blacklab Entertainment, Wolfhound Pictures  
 _Developed with the assistance of_: Film Victoria  
 _Developed, financed and produced with the assistance of_: Screen Queensland  
@@ -31,8 +30,7 @@ _Principal investor_: Screen Australia
 _Presented by_: Stage 6 Films, Screen Australia  
 _in association with_: Screen Queensland  
 _International Sales_: Arclight Films  
-_Executive Producers_: Michael Burton,  
-Gary Hamilton, Matt Kennedy, James M. Vernon  
+_Executive Producers_: Michael Burton,  Gary Hamilton, Matt Kennedy, James M. Vernon  
 _Produced by_: Paddy McDonald, Tim McGahan, Peter Spierig, Michael Spierig  
 _Production Manager_: Yvonne Collins  
 _Location Manager_: Alistair Reilly  
@@ -61,8 +59,7 @@ _Supervising Sound Editor_: Chris Goodes
 _Stunt Co-ordinator_: Mitch Dean  
 _Fight Choreographer_: Marky Lee Campbell
 
-_Cast:_
-
+**Cast**  
 Ethan Hawke _(the barkeep)_  
 Sarah Snook _(the unmarried mother)_  
 Noah Taylor _(Mr Robertson)_  
@@ -70,13 +67,12 @@ Christopher Kirby _(Mr Miles)_
 Christopher Sommers _(Mr Miller)_  
 Kuni Kashimoto _(Dr Fujimoto)_
 
-Australia-USA 2013©
-
-97 mins
-
+Australia-USA 2013©  
+97 mins  
 Digital
 
 The screening on Sat 18 Nov will be introduced by James and Matt from the Journey Through Sci-Fi podcast
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTU5MTYzMV19
+eyJoaXN0b3J5IjpbLTk5MTExOTc1MV19
 -->
