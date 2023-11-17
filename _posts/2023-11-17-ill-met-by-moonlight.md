@@ -39,7 +39,7 @@ _Cretan Dialect Coach_: Patrick Leigh Fermor *
 _Made at_: Pinewood Studios
 
 **Cast**  
-Dirk Bogarde_  (Major Patrick Leigh Fermor, ‘Philedem’)_  
+Dirk Bogarde _(Major Patrick Leigh Fermor, ‘Philedem’)_  
 Marius Goring _(Major General Karl Kreipe)_  
 David Oxley _(Captain W. Stanley Moss M.C.)_  
 Demetri Andreas _(Niko)_  
@@ -60,17 +60,15 @@ Peter Augustine
 John Houseman  
 Phyllia Houseman  
 Gisela Birke  *  
-Patrick Leigh Fermor_(Greek-speaking voice for Patrick Leigh Fermor)_ *
-
+Patrick Leigh Fermor _(Greek-speaking voice for Patrick Leigh Fermor)_ *  
 E.V.H. Emmett _(narrator)_ *
 
-UK 1957©
-
-104 mins
-
+UK 1957©  
+104 mins  
 35mm
 
-* Uncredited
+*Uncredited
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwNTI2MjcxXX0=
+eyJoaXN0b3J5IjpbNTkxNjU5ODY5XX0=
 -->
