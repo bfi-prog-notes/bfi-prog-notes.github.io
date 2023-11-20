@@ -131,27 +131,18 @@ Toni McDonald _(1st girl)_<br>
 Sheree Winton _(2nd girl)_<br>
 Marguerite Brennan _(3rd girl)_<br>
 Franklyn James _(blind man with dog)_<br>
-
 Frazer Hines<br>
-
 Peter Whitmarsh<br>
-
 David Franks<br>
-
 David Tilley<br>
-
 Ray James<br>
-
 Anthony Sadler<br>
-
 Leslie Slysz<br>
 
 UK 1957©<br>
-
 98 mins<br>
-
 35mm – A BFI National Archive Print<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMTkzODQxM119
+eyJoaXN0b3J5IjpbLTE1ODQzNTM2NjVdfQ==
 -->
