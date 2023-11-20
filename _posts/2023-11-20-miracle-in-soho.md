@@ -29,206 +29,107 @@ The ‘miracle’, the hopeless dream of a girl in love, is close to the shifts 
 <br><br>
 
 **MIRACLE IN SOHO**<br>
-
 _Directed by_: Julian Amyes<br>
-
-©_/Production Company_:  
-The Rank Organisation Film Productions Ltd<br>
-
+©_/Production Company_:  The Rank Organisation Film Productions Ltd<br>
 _Presented by:_ The Rank Organisation<br>
-
 _Executive Producer_: Earl St. John<br>
-
 _Produced by_: Emeric Pressburger<br>
-
 _Associate Producer_: Sydney Streeter<br>
-
 _Production Manager_: Charles Orme<br>
-
 _Production Controller for Pinewood_: Arthur Alcott<br>
-
 _Assistant Director_: Robert Asher<br>
-
 _Continuity_: Gladys Goldsmith<br>
-
 _Written by_: Emeric Pressburger<br>
-
 _Director of Photography_: Christopher Challis<br>
-
 _Camera Operator_: Austin Dempster<br>
-
 _Editor_: Arthur Stevens<br>
-
 _Art Director_: Carmen Dillon<br>
-
 _Set Dresser_: Vernon Dixon<br>
-
 _Dress Designer_: Julie Harris<br>
-
 _Make-up_: George Blackler<br>
-
 _Processed by_: The Rank Laboratories<br>
-
 _Music Composed by_: Brian Easdale<br>
-
 _The Song ‘The Miracle’ Words by_: Jack Fishman<br>
-
 _The Song ‘The Miracle’ Sung by_: Ronnie Hilton<br>
-
-_Sound Recordists_: John W. Mitchell,  
-Gordon K. McCallum<br>
-
+_Sound Recordists_: John W. Mitchell,  Gordon K. McCallum<br>
 _Sound Editor_: Arthur Ridout<br>
-
 _Made at_: Pinewood Studios<br>
 
 _uncredited_<br>
-
 _Production Secretary_: Jeanette Green<br>
-
 _2nd Assistant Director_: Charles Hammond<br>
-
 _3rd Assistant Director_: Dennis Lewis<br>
-
 _Assistant Continuity_: Loreley Stephens<br>
-
 _Focus Puller_: Steve Claydon<br>
-
 _Clapper Loader_: Leon Davis<br>
-
 _Stills_: Norman Gryspeerdt<br>
-
 _Portrait Stills_: Cornel Lucas<br>
-
 _1st Assistant Editor_: Jack Gardner<br>
-
 _Assistant Editor:_ Norman Wanstall<br>
-
 _Chief Draughtsman_: Terence Marsh<br>
-
 _Draughtsmen_: Peter Lamont, Michael Lamont<br>
-
 _Music Conducted by_: Frederic Lewis<br>
-
 _Music Recording_: Ted Drake<br>
-
 _Sound Camera Operator:_ Ron Butcher<br>
-
 _Boom Operator_: Danny Daniel<br>
-
 _Boom Assistant_: Roy Charman<br>
-
-_Dubbing Crew_: Gordon K. McCallum,  
-John Woodiwiss, C. Le Messurier<br>
-
+_Dubbing Crew_: Gordon K. McCallum,  John Woodiwiss, C. Le Messurier<br>
 _Dubbing Assistant_: Graham Harris<br>
-
 _Unit Publicist_: Jean Osborne<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 John Gregson _(Michael Morgan)_<br>
-
 Belinda Lee _(Julia Gozzi)_<br>
-
 Cyril Cusack _(Sam Bishop)_<br>
-
 Peter Illing _(Papa Gozzi)_<br>
-
 Rosalie Crutchley _(Mafalda Gozzi)_<br>
-
 Marie Burke _(Mrs Gozzi)_<br>
-
 Ian Bannen _(Filippo Gozzi)_<br>
-
 Brian Bedford _(Johnny)_<br>
-
 Barbara Archer _(Gwladys)_<br>
-
 John Cairney _(Tom Nichols)_<br>
-
 Lane Meddick _(Steve)_<br>
-
 Billie Whitelaw _(Maggie)_<br>
-
 Julian Somers _(Potter)_<br>
-
 Harry Brunning _(Ernie)_<br>
-
 Douglas Ives _(Old Bill)_<br>
-
 George A. Cooper _(Sid, foreman)_<br>
-
 Cyril Shaps _(Mr Svoboda)_<br>
-
 Junia Crawford _(Delia)_<br>
-
 Betty Shale _(Mrs Coleman, pet shop owner)_<br>
-
 Richard Marner _(Karl)_<br>
-
 George Eugeniou _(espresso owner)_<br>
-
 Michael Collins _(Michael, lorry driver)_<br>
-
 Colin Douglas _(supervisor)_<br>
-
 Lucia Guillon _(Dolores)_<br>
-
 Gordon Humphris _(Buddy Brown)_<br>
-
 Fred Johnson _(priest)_<br>
-
 Freda Bamford _(Mrs Mop)_<br>
-
 Paul Stassino _(Paule)_<br>
-
 Lynn Tracy _(tall girl)_<br>
 
 _uncredited_<br>
-
 Mr Witham _(French black man)_<br>
-
 Isabelle Lucas _(French girl)_<br>
-
 Andy Ho _(Chinaman)_<br>
-
 Eddie French _(Berce, Johnny’s assistant)_<br>
-
 Wilfred Lawson _(Mr Morgan, Michael’s father)_<br>
-
 Gisela Birke _(Lottie, with telephone trouble)_<br>
-
 Eileen Forbes _(staff nurse)_<br>
-
 Golda Casimir _(Mrs Bellucci)_<br>
-
 Rupert Puritz _(German schoolboy)_<br>
-
 Helene Bevan _(dressmaker)_<br>
-
 Anthony Sagar _(Billy)_<br>
-
 Peter Taylor _(1st German on street)_<br>
-
 Charles Ross _(2nd German on street)_<br>
-
 Joan Hooley _(black girl)_<br>
-
 Meadows White _(Allan, postman)_<br>
-
 Cyril Chamberlain _(policeman)_<br>
-
 Keith Pyott _(house surgeon)_<br>
-
 Mervyn Blake _(man in mac)_<br>
-
 Toni McDonald _(1st girl)_<br>
-
 Sheree Winton _(2nd girl)_<br>
-
 Marguerite Brennan _(3rd girl)_<br>
-
 Franklyn James _(blind man with dog)_<br>
 
 Frazer Hines<br>
@@ -247,9 +148,10 @@ Leslie Slysz<br>
 
 UK 1957©<br>
 
-98 mins
+98 mins<br>
 
-35mm – A BFI National Archive Print
+35mm – A BFI National Archive Print<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTUwMDYwMTldfQ==
+eyJoaXN0b3J5IjpbMTIzMTkzODQxM119
 -->
