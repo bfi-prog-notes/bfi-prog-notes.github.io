@@ -6,8 +6,8 @@ date: 2023-11-24
 readtime: true
 categories: ['NEW RELEASES']
 tags: [Drama]
-metadata: 'France 2023, 150 mins<br> Director: Justine'
-pdf: '2023-11-21-twilight.pdf'
+metadata: 'France 2023, 150 mins<br> Director: Justine Triet'
+pdf: '2023-11-24-anatomy-of-a-fall.pdf'
 ---
 
 The protagonist of Justine Triet’s courtroom drama _Anatomy of a Fall_ is no easy or ingratiating character, but the woman who plays the role is unequivocal about her. ‘I _love_ her,’ says Sandra Hüller of the character, also named Sandra. ‘I admire her very much – for her adult behaviour, for standing up for herself. I admire her for standing up for her beliefs and for addressing what is wrong in her relationship.’ All hard enough in any context, let alone one in which you have been credibly accused of your husband’s murder.
@@ -103,6 +103,30 @@ From Wed 27 Dec
 **RE-RELEASES**  
 **The Red Shoes**  
 From Fri 8 Dec  
+<br>
+<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI4NTA0MzNdfQ==
+eyJoaXN0b3J5IjpbLTExMjk1NTE2NThdfQ==
 -->
