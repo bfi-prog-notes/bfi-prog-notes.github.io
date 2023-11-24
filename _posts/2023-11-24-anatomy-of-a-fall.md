@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: Anatomy of a Fall
+published: true
+date: 2023-11-24
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'France 2023, 150 mins<br> Director: Justine'
+pdf: '2023-11-21-twilight.pdf'
+---
 
 The protagonist of Justine Triet’s courtroom drama _Anatomy of a Fall_ is no easy or ingratiating character, but the woman who plays the role is unequivocal about her. ‘I _love_ her,’ says Sandra Hüller of the character, also named Sandra. ‘I admire her very much – for her adult behaviour, for standing up for herself. I admire her for standing up for her beliefs and for addressing what is wrong in her relationship.’ All hard enough in any context, let alone one in which you have been credibly accused of your husband’s murder.
 
@@ -76,35 +83,20 @@ Digital
 
 A Picturehouse Entertainment Release  
 <BR>
-<![endif]-->
 
-**NEW RELEASES**
-
-**The Eternal Daughter**
-
-Continued from Fri 24 Nov
-
-**Anatomy of a Fall**
-
-**(Anatomie d’une chute)**
-
-Continued from Fri 24 Nov
-
-**Fallen Leaves (Kuolleet lehdet)**
-
-From Fri 1 Dec
-
-**Queendom**
-
-From Fri 1 Dec
-
-**Tish**
-
-From Fri 15 Dec (Preview on Fri 1 Dec 18:00 + Q&A with director Paul Sng)
-
-**Priscilla (preview screenings)**
-
-Previews from Wed 27 Dec. Opens Fri 5 Jan
+**NEW RELEASES**  
+**The Eternal Daughter**  
+Continued from Fri 24 Nov  
+**Anatomy of a Fall (Anatomie d’une chute)**  
+Continued from Fri 24 Nov  
+**Fallen Leaves (Kuolleet lehdet)**  
+From Fri 1 Dec  
+**Queendom**  
+From Fri 1 Dec  
+**Tish**  
+From Fri 15 Dec (Preview on Fri 1 Dec 18:00 + Q&A with director Paul Sng)  
+**Priscilla (preview screenings)**  
+Previews from Wed 27 Dec. Opens Fri 5 Jan  
 **The Boy and the Heron (Kimitachi wa do Ikiruka)**  
 From Wed 27 Dec  
 
@@ -112,5 +104,5 @@ From Wed 27 Dec
 **The Red Shoes**  
 From Fri 8 Dec  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1ODkyMjQyXX0=
+eyJoaXN0b3J5IjpbLTE1MzI4NTA0MzNdfQ==
 -->
