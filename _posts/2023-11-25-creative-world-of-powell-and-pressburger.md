@@ -1,7 +1,14 @@
-
-
-
-
+---
+layout: post
+title: The Creative World of Powell + Pressburger
+published: true
+date: 2023-11-24
+readtime: true
+categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
+tags: [Talk]
+metadata: '
+pdf: '2023-11-24-creative-worlds-of-power-and-pressburger.pdf'
+---
 
 **Event Schedule**
 
@@ -54,5 +61,5 @@ Spencer also serves on the Executive Committee for Production Design at the Acad
 
 **Marina Warner** writes fiction, criticism and cultural history. Her award-winning books explore myths, symbols and fairy tales, including _From the Beast to the Blonde_ (Vintage, 1994) and _Stranger Magic: Charmed States & the Arabian Nights_ (Chatto & Windus, 2011). Recent publications include the ‘unreliable memoir’, _Inventory of a Life Mislaid_ (Harper Collins, 2021), _Helen Chadwick: The Oval Court_ (Afterall Books, 2022) and _Temporale_ (Sylph Editions, 2023). She is currently writing a book about the concept of Sanctuary. She is Professor of English and Creative Writing at Birkbeck College, a Distinguished Fellow of All Souls College, Oxford, and a Fellow of the British Academy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDE3MTc0N119
+eyJoaXN0b3J5IjpbLTQ3MTA5OTU1OSwxMzgwMTcxNzQ3XX0=
 -->
