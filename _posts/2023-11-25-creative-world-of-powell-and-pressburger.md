@@ -60,6 +60,38 @@ It was at the BBC that Spencer first met and worked with production designer Sar
 Spencer also serves on the Executive Committee for Production Design at the Academy of Motion Pictures (AMPAS). In 2024, AMPAS will be hosting an exhibition in Los Angeles, showcasing the work and unique collaboration between Spencer and Greenwood.
 
 **Marina Warner** writes fiction, criticism and cultural history. Her award-winning books explore myths, symbols and fairy tales, including _From the Beast to the Blonde_ (Vintage, 1994) and _Stranger Magic: Charmed States & the Arabian Nights_ (Chatto & Windus, 2011). Recent publications include the ‘unreliable memoir’, _Inventory of a Life Mislaid_ (Harper Collins, 2021), _Helen Chadwick: The Oval Court_ (Afterall Books, 2022) and _Temporale_ (Sylph Editions, 2023). She is currently writing a book about the concept of Sanctuary. She is Professor of English and Creative Writing at Birkbeck College, a Distinguished Fellow of All Souls College, Oxford, and a Fellow of the British Academy.
+<br>
+
+
+<br>
+
+**With thanks to**
+<img style="float: left;" src="/img/film-foundation-itv-park-circus-logos-02.png"><br><br><br><br><br><br><br><br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTA5OTU1OSwxMzgwMTcxNzQ3XX0=
+eyJoaXN0b3J5IjpbMTAwODY3OTI0NSwxMzgwMTcxNzQ3XX0=
 -->
