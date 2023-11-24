@@ -32,11 +32,8 @@ No less complex is Sandra’s relationship with her son Daniel (Milo Machado Gra
 Hüller is full of praise for both actors. Of working with Arlaud, she says, ‘It was very easy from the beginning. He’s a very sensitive person and actor. We did a lot of improvisation, just letting the camera roll at the end of takes and it was like a dance – I really loved it.’ Machado Graner, meanwhile, was simply ‘a proper colleague. It wasn’t working with a child actor who you have to be careful with or who needs special treatment – he was super-professional. He’s very quick, he’s very smart. He had the ability to get into the emotions, but as soon as shooting was over he was this _boy_ again. He didn’t have this weight on his shoulders all the time. So that was pretty impressive.’ To inform the character’s precocity, Triet drew on life once more. ‘I was very inspired by my older daughter, who was ten at the time. She’s really brainy – always serious, and she speaks very, very well. People said to me, “It’s not possible – he’s like an adult.” But I said, “It is! Sometimes, kids talk like this”.’  
 **Justine Trier and Sandra Hüller talk to Hannah McGill, _Sight and Sound_, December 2023**
 <br>
-<![endif]-->
 
-**Anatomy of a Fall**
-
-**(Nd’une chute)**  
+**ANATOMY OF A FALL (ANATOMIE D'UNE CHUTE)**  
 _Director_: Justine Triet  
 _Collaboration in the direction of actors_: Cynthia Arra  
 _©_: Les Films Pelléas, Les Films de Pierre, France 2 Cinéma, Auvergne-Rhône-Alpes Cinéma  
@@ -77,7 +74,43 @@ France 2023
 150 mins  
 Digital  
 
-A Picturehouse Entertainment Release
+A Picturehouse Entertainment Release  
+<BR>
+<![endif]-->
+
+**NEW RELEASES**
+
+**The Eternal Daughter**
+
+Continued from Fri 24 Nov
+
+**Anatomy of a Fall**
+
+**(Anatomie d’une chute)**
+
+Continued from Fri 24 Nov
+
+**Fallen Leaves (Kuolleet lehdet)**
+
+From Fri 1 Dec
+
+**Queendom**
+
+From Fri 1 Dec
+
+**Tish**
+
+From Fri 15 Dec (Preview on Fri 1 Dec 18:00 + Q&A with director Paul Sng)
+
+**Priscilla (preview screenings)**
+
+Previews from Wed 27 Dec. Opens Fri 5 Jan
+**The Boy and the Heron (Kimitachi wa do Ikiruka)**  
+From Wed 27 Dec  
+
+**RE-RELEASES**  
+**The Red Shoes**  
+From Fri 8 Dec  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODE3Njg3N119
+eyJoaXN0b3J5IjpbNzY1ODkyMjQyXX0=
 -->
