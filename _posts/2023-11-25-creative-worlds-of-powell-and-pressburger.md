@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Creative Worlds of Powell + Pressburger
+title: The Creative Worlds of Powell and Pressburger
 published: true
 date: 2023-11-24
 readtime: true
@@ -137,5 +137,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDgwNzUzNTVdfQ==
+eyJoaXN0b3J5IjpbLTYwNzU4MjI1NV19
 -->
