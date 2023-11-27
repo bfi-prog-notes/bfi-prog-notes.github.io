@@ -7,7 +7,7 @@ readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Drama]
 metadata: 'Germany 1998, 80 mins<br> Director: Tom Tykwer'
-pdf: '2023-11-27-run-lola-run.pdf'
+pdf: '2023-11-27-run-lola-run-relaxed.pdf'
 ---
 
 <img style="float: left;" src="/img/run-lola-run.png"><br><br><br><br><br><br><br><br><br><br><br>
@@ -88,5 +88,6 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 
 • Please ask us if you need help.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDE4NTUwNiwxNzgwOTI5MDIxXX0=
+eyJoaXN0b3J5IjpbMzQxMjI3NjUyLDIwODAxODU1MDYsMTc4MD
+kyOTAyMV19
 -->
