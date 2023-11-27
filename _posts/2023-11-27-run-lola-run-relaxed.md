@@ -1,7 +1,17 @@
+---
+layout: post
+title: Run Lola Run
+published: true
+date: 2023-11-27
+readtime: true
+categories: ['RELAXED SCREENING']
+tags: [Drama]
+metadata: 'Germany 1998, 80 mins<br> Director: Tom T'
+pdf: '2023-10-30-time-bandits-relaxed.pdf'
+---
 
+<img style="float: left;" src="/img/time-bandits.png"><br><br><br><br><br><br><br><br><br><br><br>
 
-
-<![endif]-->
 
 _+ intro and discussion_
 
@@ -14,7 +24,23 @@ In our relaxed discussions, we will investigate how living with autism can provo
 Georgia Kumari Bradburn
 
 The post-screening discussion will be led by filmmaker Georgia Kumari Bradburn of the Neurocultures Collective and the Autism Through Cinema Podcast.
+<![endif]-->
 
+**Run Lola Run (Lola rennt)**
+
+_Directed by_: Tom Tykwer  
+_Production Company:_ X Filme Creative Pool  
+_Screenplay:_ Tom Tykwer  
+_Director of Photography:_ Frank Griebe  
+_Music:_ Tom Tykwer, Johnny Klimek, Reinhold Heil  
+
+**Cast**  
+Franka Potente _(Lola)_  
+Moritz Bleibtreu _(Manni)_  
+
+Germany 1998  
+80 mins  
+Digital 4K  
 
 
 **We welcome your feedback on this screening. Relaxedscreeningsfeedback@bfi.org.uk**
@@ -65,5 +91,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 
 • Please ask us if you need help.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzM4OTQ1MjMsMTc4MDkyOTAyMV19
+eyJoaXN0b3J5IjpbMjExOTUyNjY4LDE3ODA5MjkwMjFdfQ==
 -->
