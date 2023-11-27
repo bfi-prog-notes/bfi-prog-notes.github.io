@@ -6,28 +6,25 @@ date: 2023-11-27
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Drama]
-metadata: 'Germany 1998, 80 mins<br> Director: Tom T'
-pdf: '2023-10-30-time-bandits-relaxed.pdf'
+metadata: 'Germany 1998, 80 mins<br> Director: Tom Tykwer'
+pdf: '2023-11-27-run-lola-run.pdf'
 ---
 
-<img style="float: left;" src="/img/time-bandits.png"><br><br><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/run-lola-run.png"><br><br><br><br><br><br><br><br><br><br><br>
 
 
-_+ intro and discussion_
+_+ intro and discussion_  
 
 Who said time travel had to be about science-fiction? Tom Tykwer responds with this thrilling crime drama that saw the re-emergence of a vital German cinema. With its punk aesthetic and pulsating techno soundtrack, _Run Lola Run_ illustrates the complexities of modern life through the eyes of outcasts who go to extreme lengths to live in a better world.
 
 How many of us have wished to explore beyond our conception of space and time? Our **Destination: Time Travel** series of Relaxed Screenings invites you to explore new ways of thinking about time, its locations, its inhabitants, and its oddities. We will be focusing on two films that present radically different perspectives of time travel: the traditional fantasy of _Time Bandits_, and the revolutionary realism of _Run Lola Run_. Both feature alienated protagonists that embrace their divergence, as their stories defy metaphysical conventions.
 
-In our relaxed discussions, we will investigate how living with autism can provoke a desire to escape into alternative timelines, and how these films encourage our own ways of challenging our neurotypical world. Whether this is by escaping to Ancient Greece with a band of thieving dwarves, or by running across Berlin in multiple timelines to save a loved one, these screenings and discussions will provide a comfortable space to explore and understand neurodiversity beyond the logic of time and space.
+In our relaxed discussions, we will investigate how living with autism can provoke a desire to escape into alternative timelines, and how these films encourage our own ways of challenging our neurotypical world. Whether this is by escaping to Ancient Greece with a band of thieving dwarves, or by running across Berlin in multiple timelines to save a loved one, these screenings and discussions will provide a comfortable space to explore and understand neurodiversity beyond the logic of time and space.  
+**Georgia Kumari Bradburn**
 
-Georgia Kumari Bradburn
+The post-screening discussion will be led by filmmaker Georgia Kumari Bradburn of the Neurocultures Collective and the Autism Through Cinema Podcast.  
 
-The post-screening discussion will be led by filmmaker Georgia Kumari Bradburn of the Neurocultures Collective and the Autism Through Cinema Podcast.
-<![endif]-->
-
-**Run Lola Run (Lola rennt)**
-
+**RUN LOLA RUN (LOLA RENNT)**  
 _Directed by_: Tom Tykwer  
 _Production Company:_ X Filme Creative Pool  
 _Screenplay:_ Tom Tykwer  
@@ -91,5 +88,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 
 • Please ask us if you need help.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTUyNjY4LDE3ODA5MjkwMjFdfQ==
+eyJoaXN0b3J5IjpbMjA4MDE4NTUwNiwxNzgwOTI5MDIxXX0=
 -->
