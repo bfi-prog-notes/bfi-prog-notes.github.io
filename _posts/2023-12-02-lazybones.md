@@ -2,7 +2,7 @@
 layout: post
 title: Lazybones + Her Last Affaire
 published: true
-date: 2023-12-02
+date: 2023-1
 readtime: true
 categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
 tags: [Comedy, Drama]
@@ -39,6 +39,6 @@ Long thought lost, the film has been available again since the late 1980s, affor
 **Sergio Angelini, BFI Screenonline, screenonline.org.uk**  
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2MzA5NTcsLTE1ODA5MDcwNDMsLTY5OT
-E5Njk3NF19
+eyJoaXN0b3J5IjpbMTAyNDQwMzE4NCw3MTYzMDk1NywtMTU4MD
+kwNzA0MywtNjk5MTk2OTc0XX0=
 -->
