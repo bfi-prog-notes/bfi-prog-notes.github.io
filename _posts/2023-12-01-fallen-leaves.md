@@ -1,4 +1,3 @@
-<![endif]-->
 
 Coming six years after Aki Kaurismäki announced his retirement from filmmaking, _Fallen Leaves_ feels like a return to very familiar territory. The director’s last two features were unusually explicit in their commentary on the social issues of our time, with both _Le_ _Havre_ (2011) and _The Other Side of_ _Hope_ (2017) engaging directly with Europe’s migrant crisis. Kaurismäki’s new film harkens back to the small-scale stories of ordinary Finns with which he made his reputation; in fact, it has been labelled a belated fourth instalment of his Proletariat Trilogy, which consists of _Shadows in Paradise_ (1986), _Ariel_ (1988) and _The Match Factory Girl_ (1990).
 
@@ -19,8 +18,7 @@ Kaurismäki has said in the past that his goal is to make films that can be unde
 **FALLEN LEAVES (KUOLLEET LEHDET)**  
 _Director_: Aki Kaurismäki  
 ©: Sputnik Oy  
-_Production Companies_: Sputnik Oy,  
-Oy Bufo AB, Pandora Film  
+_Production Companies_: Sputnik Oy,  Oy Bufo AB, Pandora Film  
 _With the support of_: Suomen Elokuvasäätiö  
 _Presented by_: Sputnik Oy, Bufo  
 _World Sales_: The Match Factory GMBH  
@@ -44,8 +42,7 @@ _Boom Operator_: Jussi Rantala
 _‘Dedicated to the memory of’_: Harri Marstio  
 _Thanks_: Jim Jarmusch, Carter Logan
 
-_Cast:_
-
+**Cast**  
 Alma Pöysti _(Ansa)_  
 Jussi Vatanen _(Holappa)_  
 Janne Hyytiäinen _(Huotari)_  
@@ -53,15 +50,43 @@ Nuppu Koivu _(Liisa)_
 Mia Snellman _(colleague)_  
 Mikko Mykkänen _(shop security guard)_
 
-Finland-Germany 2023©
-
-81 mins
-
+Finland-Germany 2023©  
+81 mins  
 Digital
 
 A MUBI release
+<br><br>
+
+**NEW RELEASES**<br>
+**The Eternal Daughter**<br>
+Continued from Fri 24 Nov<br>
+**Fallen Leaves (Kuolleet lehdet)**<br>
+From Fri 1 Dec<br>
+
+**Queendom**<br>
+
+From Fri 1 Dec<br>
+
+**Tish**<br>
+
+From Fri 15 Dec (Preview on Fri 1 Dec 18:00 + Q&A with director Paul Sng)<br>
+
+**Priscilla (preview screenings)**<br>
+
+Previews from Wed 27 Dec. Opens Fri 5 Jan<br>
+
+**The Boy and the Heron (Kimitachi wa do Ikiruka)**<br>
+
+From Wed 27 Dec<br>
+
+**RE-RELEASES**<br>
+
+**The Red Shoes**<br>
+
+From Fri 8 Dec<br>
+<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTE0MzgzNV19
+eyJoaXN0b3J5IjpbNTE5ODYzMzA1XX0=
 -->
