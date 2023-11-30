@@ -12,14 +12,11 @@ Loneliness and the need for a human connection is a theme that runs throughout K
 
 He also uses the actors’ faces superbly, despite directing them to give such undemonstrative performances. Does any contemporary director cast faces as well as Kaurismäki? Just look at the actor playing the security guard who gets Ansa fired from the supermarket – he only seems to have one facial expression, but what an expression. Much of _Fallen_ _Leaves_ is staged in medium shots, where the bright-eyed Alma Pöysti creates a visual contrast with the lanky Jussi Vatanen’s hangdog features, but when the camera moves in for close-ups Pöysti imbues her performance with so much understated emotion and nuance. When Ansa tells Holappa in no uncertain terms that there can be no future for this relationship unless he deals with the drinking problem that killed her father and brother, there’s a tangible edge of anger and hurt underneath her words, and in the context of a film as free of overt gestures as this one is, the smile and wink that she gives late in the film has a seismic impact.
 
-Kaurismäki has said in the past that his goal is to make films that can be understood across all cultures without any subtitles, a desire that led him to make his own attempt at a silent film, _Juha_ (1999); his work remains heavily indebted to the master filmmakers of the pre-sound era. He has often drawn comparisons to Buster Keaton for the deadpan way his characters react to all manner of triumphs and disasters, but the more apposite reference point in this instance is Charlie Chaplin. _Fallen_ _Leaves_ is a film about small, ordinary people struggling to get by in an increasingly impersonal and industrial age, who hold on to their humanity and their sense of hope by finding love. In short, Kaurismäki has made his _Modern_ _Times_ (1936), and the association is underlined in this film’s lovely closing image.
+Kaurismäki has said in the past that his goal is to make films that can be understood across all cultures without any subtitles, a desire that led him to make his own attempt at a silent film, _Juha_ (1999); his work remains heavily indebted to the master filmmakers of the pre-sound era. He has often drawn comparisons to Buster Keaton for the deadpan way his characters react to all manner of triumphs and disasters, but the more apposite reference point in this instance is Charlie Chaplin. _Fallen_ _Leaves_ is a film about small, ordinary people struggling to get by in an increasingly impersonal and industrial age, who hold on to their humanity and their sense of hope by finding love. In short, Kaurismäki has made his _Modern_ _Times_ (1936), and the association is underlined in this film’s lovely closing image.  
+**Philip Concannon, _Sight and Sound_, December 2023**
+<br><br>
 
-Philip Concannon, _Sight and Sound_, December 2023
-
-<![endif]-->
-
-**FALLEN LEAVES (KUOLLEET LEHDET)**
-
+**FALLEN LEAVES (KUOLLEET LEHDET)**  
 _Director_: Aki Kaurismäki  
 ©: Sputnik Oy  
 _Production Companies_: Sputnik Oy,  
@@ -66,5 +63,5 @@ A MUBI release
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3NDE5NjU4XX0=
+eyJoaXN0b3J5IjpbMjExMTE0MzgzNV19
 -->
