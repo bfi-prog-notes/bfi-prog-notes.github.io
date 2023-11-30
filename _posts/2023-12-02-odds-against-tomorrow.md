@@ -63,8 +63,7 @@ _Costumes_: Anna Hill Johnstone
 _Make-up_: Robert Jiras  
 _Titles_: Storyboard Productions  
 _Titles_: John Hubley *  
-_Music Composed and Conducted by_:  
-John Lewis  
+_Music Composed and Conducted by_:  John Lewis  
 _Sound_: Edward Johnstone, Richard Voriseck  
 _Sound Editor_: Ken Collins  
 _Studio_: Gold Medal Studios  
@@ -98,7 +97,7 @@ USA 1959©
 96 mins  
 35mm  
 
-* Uncredited  
+\* Uncredited  
 
 A BFI National Archive print  
 <br>
@@ -152,5 +151,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjUxNzcyMzgsLTQ4MTY5Mzc2NF19
+eyJoaXN0b3J5IjpbLTIwMDQ3ODE4MjgsLTQ4MTY5Mzc2NF19
 -->
