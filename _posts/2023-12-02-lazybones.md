@@ -6,8 +6,8 @@ date: 2023-12-02
 readtime: true
 categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
 tags: [Comedy, Drama]
-metadata: 'UK 1935, 66 mins<br>UK 1936, 68 mins<br>Director: Michael Powell'
-pdf: '2023-12-02-lazybones.pdf'
+metadata: 'UK 1935, 66 mins<br>UK 1936, 68 minsDirector: Michael Powell'
+pdf: '2023-12-023-lazybones.pdf'
 ---
 
 The lazybones of Powell’s amiable comedy is idle, penniless aristocrat Sir ‘Reggie’ Ford, who is shaken into a more productive existence when a criminal plot forces him to prove his worth to his American heiress wife. Shot after-hours with a cast hot-footing it from the West End, it betrays its stage origins, but Powell sprinkles it all with flashes of invention.  
@@ -114,6 +114,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxNTEwMTM1LDEwMjQ0MDMxODQsLTE1OD
-A5MDcwNDMsLTY5OTE5Njk3NF19
+eyJoaXN0b3J5IjpbLTE0OTgyNDkyNjQsODkxNTEwMTM1LDEwMj
+Q0MDMxODQsLTE1ODA5MDcwNDMsLTY5OTE5Njk3NF19
 -->
