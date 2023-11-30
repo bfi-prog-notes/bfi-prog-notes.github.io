@@ -6,7 +6,7 @@ date: 2023-12-02
 readtime: true
 categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
 tags: [Comedy, Drama]
-metadata: 'UK 1935, 66 mins<br>UK 1936, 68 minsDirector: Michael Powell'
+metadata: 'UK 1935, 66 mins<br>UK 1936, 68 mins<br>Director: Michael Powell'
 pdf: '2023-12-02-lazybones.pdf'
 ---
 
@@ -19,8 +19,7 @@ Looking at _Lazybones_ today, it is worth noting that Powell had to shoot most o
 
 There is some gold to be mined in this occasionally amiable comedy however, such as Powell’s long and ambitious tracking shot that crosses a courtyard and then moves through two separate rooms before reaching its destination; a hilarious cameo by Miles Malleson, in which he is a witness to a wedding, all the time trying to talk the couple out of it; and, for today’s audiences, there is the amusing line, ‘it’s about time there was a channel tunnel!’
 
-The film’s generally stage-bound nature does, unfortunately, weaken the comic potential of its outrageous conclusion – in which Hunter turns his palatial abode into a recreation home for the wealthy by giving them servile jobs – which mostly occurs offstage and is otherwise dealt with extremely cursorily. In its dottily Marxist presentation of the rich and powerful succumbing to a fantasy of poverty and lowly disenfranchisement, it anticipates the Hollywood classic  
-_My Man Godfrey_ (1936) and even such grisly modern-day TV spectacles as  _I’m a Celebrity, Get Me Out of Here_ (ITV, 2002-).  
+The film’s generally stage-bound nature does, unfortunately, weaken the comic potential of its outrageous conclusion – in which Hunter turns his palatial abode into a recreation home for the wealthy by giving them servile jobs – which mostly occurs offstage and is otherwise dealt with extremely cursorily. In its dottily Marxist presentation of the rich and powerful succumbing to a fantasy of poverty and lowly disenfranchisement, it anticipates the Hollywood classic _My Man Godfrey_ (1936) and even such grisly modern-day TV spectacles as  _I’m a Celebrity, Get Me Out of Here_ (ITV, 2002-).  
 **Sergio Angelini, BFI Screenonline, screenonline.org.uk**
 
 **Her Last Affaire**  
