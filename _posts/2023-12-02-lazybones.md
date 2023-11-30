@@ -2,11 +2,11 @@
 layout: post
 title: Lazybones + Her Last Affaire
 published: true
-date: 2023-1-18
+date: 2023-12-02
 readtime: true
 categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
-tags: [War]
-metadata: 'UK 1956, 119 mins<br> Directors: Michael Powell, Emeric Pressburger'
+tags: [Comedy, Drama]
+metadata: 'UK 1935, 66 mins<br>UK 1936, 68 mins Director: Michael Powell'
 pdf: '2023-11-18-battle-of-the-river-plate.pdf'
 ---
 
@@ -39,6 +39,6 @@ Long thought lost, the film has been available again since the late 1980s, affor
 **Sergio Angelini, BFI Screenonline, screenonline.org.uk**  
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1MTE1NjQ4LC0xNTgwOTA3MDQzLC02OT
-kxOTY5NzRdfQ==
+eyJoaXN0b3J5IjpbNzE2MzA5NTcsLTE1ODA5MDcwNDMsLTY5OT
+E5Njk3NF19
 -->
