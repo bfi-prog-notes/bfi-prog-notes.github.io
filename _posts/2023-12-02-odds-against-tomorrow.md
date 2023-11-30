@@ -1,7 +1,15 @@
+---
+layout: post
+title: Odds against Tomorrow
+published: true
+date: 2023-12-02
+readtime: true
+categories: ['HARRY BELAFONTE: MOVIES RACE DEFIANCE']
+tags: [Documentary]
+metadata: 'UK 2023, 90 mins<br> Director: Robert Wise'
+pdf: '2023-12-01-tish.pdf'
+---
 
-
-
-<![endif]-->
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -145,5 +153,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjk0MTk3Ml19
+eyJoaXN0b3J5IjpbLTIwNTQ3NTA2NzFdfQ==
 -->
