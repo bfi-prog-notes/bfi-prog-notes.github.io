@@ -1,6 +1,14 @@
-
-
-<![endif]-->
+---
+layout: post
+title: Lazybones + Her Last Affaire
+published: true
+date: 2023-11-18
+readtime: true
+categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
+tags: [War]
+metadata: 'UK 1956, 119 mins<br> Directors: Michael Powell, Emeric Pressburger'
+pdf: '2023-11-18-battle-of-the-river-plate.pdf'
+---
 
 The lazybones of Powell’s amiable comedy is idle, penniless aristocrat Sir ‘Reggie’ Ford, who is shaken into a more productive existence when a criminal plot forces him to prove his worth to his American heiress wife. Shot after-hours with a cast hot-footing it from the West End, it betrays its stage origins, but Powell sprinkles it all with flashes of invention.  
 **James Bell, bfi.org.uk**  
@@ -31,5 +39,5 @@ Long thought lost, the film has been available again since the late 1980s, affor
 **Sergio Angelini, BFI Screenonline, screenonline.org.uk**  
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTE5Njk3NF19
+eyJoaXN0b3J5IjpbLTE1ODA5MDcwNDMsLTY5OTE5Njk3NF19
 -->
