@@ -5,9 +5,8 @@
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
-Harry Belafonte shines as a mercurial gambler uncertain of bourgeois respectability, indebted to loan-sharks, who threaten his job as a nightclub singer. From the streets of Manhattan to a tense climax in small-town Pennsylvania, this is a neglected noir masterpiece. Belafonte and Robert Wise both claimed this film was the most enjoyable of their storied careers. This story is grounded in its commentary on Jim Crow racism and the trauma of veterans from the Second World War and the possibility of nuclear annihilation. The pulsating score is by jazz doyen John Lewis and performed by the Modern Jazz Quartet.
-
-bfi.org.uk
+Harry Belafonte shines as a mercurial gambler uncertain of bourgeois respectability, indebted to loan-sharks, who threaten his job as a nightclub singer. From the streets of Manhattan to a tense climax in small-town Pennsylvania, this is a neglected noir masterpiece. Belafonte and Robert Wise both claimed this film was the most enjoyable of their storied careers. This story is grounded in its commentary on Jim Crow racism and the trauma of veterans from the Second World War and the possibility of nuclear annihilation. The pulsating score is by jazz doyen John Lewis and performed by the Modern Jazz Quartet.  
+**bfi.org.uk**  
 
 Although it gets the occasional screening and is available on DVD, Robert Wise’s _Odds against Tomorrow_ remains a neglected masterpiece. In its treatment of race and with its African-American star Harry Belafonte (who was also the film’s executive producer), the film is ahead of its time. It is also a testimony to Wise’s versatility – this is the director who gave us everything from _The Curse of the Cat People_ (1944) to _The Sound of Music_ (1965).
 
@@ -96,5 +95,5 @@ USA 1959©
 
 A BFI National Archive print  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzUyOTMxNDgsMTcwNTEwNzYwOV19
+eyJoaXN0b3J5IjpbMTU1ODU3NjAxOCwxNzA1MTA3NjA5XX0=
 -->
