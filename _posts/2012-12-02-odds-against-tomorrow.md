@@ -33,10 +33,8 @@ The score by John Lewis, pianist of the Modern Jazz Quartet, plays a big part in
 
 These swift mood changes don’t happen without the light touch of editor Dede Allen, who would go on to work with Arthur Penn on _Bonnie and Clyde_ (1967) and _Night Moves_ (1975). Gene Hackman’s private eye from _Night Moves_ wouldn’t be out of place in _Odds against Tomorrow_. Here’s a man who bites off more than he can chew, which is as good as asking the Fates to come and get you. And in _Odds against Tomorrow_, they do. The genius of the film is that its Greek tragedy is rooted in the here and now of a racially divided 1950s America. And there’s no need for a chorus: the characters’ dry one-liners and gallows humour provide their own running commentary.  
 **Paul Tickell, _Sight and Sound_, December 2011**  
-<![endif]-->
 
-**Odds against Tomorrow**
-
+**ODDS AGAINST TOMORROW**  
 _Director_: Robert Wise  
 ©_/Production Company_: HarBel Productions  
 _Executive Producer_: Harry Belafonte *  
@@ -57,17 +55,15 @@ _Settings_: Leo Kerz
 _Set Decorator_: Fred Ballmeyer  
 _Costumes_: Anna Hill Johnstone  
 _Make-up_: Robert Jiras  
-_Titles_: Storyboard Productions
-
+_Titles_: Storyboard Productions  
 _Titles_: John Hubley *  
 _Music Composed and Conducted by_:  
 John Lewis  
 _Sound_: Edward Johnstone, Richard Voriseck  
 _Sound Editor_: Ken Collins  
-_Studio_: Gold Medal Studios
+_Studio_: Gold Medal Studios  
 
-_Cast:_
-
+**Cast**  
 Harry Belafonte _(Johnny Ingram)_  
 Robert Ryan _(Earl Slater)_  
 Shelley Winters _(Lorry)_  
@@ -100,5 +96,5 @@ USA 1959©
 
 A BFI National Archive print  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTEwNzYwOV19
+eyJoaXN0b3J5IjpbLTE0NzUyOTMxNDgsMTcwNTEwNzYwOV19
 -->
