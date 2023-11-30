@@ -62,31 +62,21 @@ A MUBI release
 Continued from Fri 24 Nov<br>
 **Fallen Leaves (Kuolleet lehdet)**<br>
 From Fri 1 Dec<br>
-
 **Queendom**<br>
-
 From Fri 1 Dec<br>
-
 **Tish**<br>
-
 From Fri 15 Dec (Preview on Fri 1 Dec 18:00 + Q&A with director Paul Sng)<br>
-
 **Priscilla (preview screenings)**<br>
-
 Previews from Wed 27 Dec. Opens Fri 5 Jan<br>
-
 **The Boy and the Heron (Kimitachi wa do Ikiruka)**<br>
-
 From Wed 27 Dec<br>
 
 **RE-RELEASES**<br>
-
 **The Red Shoes**<br>
-
 From Fri 8 Dec<br>
 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5ODYzMzA1XX0=
+eyJoaXN0b3J5IjpbLTE2Nzk0MzE2OTldfQ==
 -->
