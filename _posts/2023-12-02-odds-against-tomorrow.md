@@ -10,7 +10,6 @@ metadata: 'USA 1959, 96 mins<br> Director: Robert Wise'
 pdf: '2023-12-02-odds-against-tomorrow.pdf'
 ---
 
-
 **SPOILER WARNING** The following notes give away some of the plot.
 
 Harry Belafonte shines as a mercurial gambler uncertain of bourgeois respectability, indebted to loan-sharks, who threaten his job as a nightclub singer. From the streets of Manhattan to a tense climax in small-town Pennsylvania, this is a neglected noir masterpiece. Belafonte and Robert Wise both claimed this film was the most enjoyable of their storied careers. This story is grounded in its commentary on Jim Crow racism and the trauma of veterans from the Second World War and the possibility of nuclear annihilation. The pulsating score is by jazz doyen John Lewis and performed by the Modern Jazz Quartet.  
@@ -153,5 +152,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTY5Mzc2NF19
+eyJoaXN0b3J5IjpbLTE3NjUxNzcyMzgsLTQ4MTY5Mzc2NF19
 -->
