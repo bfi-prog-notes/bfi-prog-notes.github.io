@@ -17,8 +17,7 @@ In this _Vertigo_ playback, Lenny is a latter-day Scottie who has fallen for the
 **STRANGE DAYS**  
 _Director_: Kathryn Bigelow  
 _Production Company_: Lightstorm Entertainment  
-_Executive Producers_: Rae Sanchini,  
-Lawrence Kasanoff  
+_Executive Producers_: Rae Sanchini,  Lawrence Kasanoff  
 _Producers_: James Cameron, Steven-Charles Jaffe  
 _Co-producer_: Ira Shuman  
 _Unit Production Manager_: Ira Shuman  
@@ -26,20 +25,17 @@ _Production Co-ordinator_: Sharyn Shimada-Higgins
 _Production Accountant_: Stevie Lazo  
 _Location Manager_: Robert Goldstein  
 _Post-production Supervisor_: David S. Grant  
-_2nd Unit Directors_: Phil Pfeiffer,  
-Steven-Charles Jaffe  
+_2nd Unit Directors_: Phil Pfeiffer,  Steven-Charles Jaffe  
 _1st Assistant Director_: Steve Danton  
 _2nd Assistant Director_: Albert Cho  
-_2nd 2nd Assistant Directors_: Suzanne Geiger,  
-Sam Hoffman, Rebecca Strickland  
+_2nd 2nd Assistant Directors_: Suzanne Geiger,  Sam Hoffman, Rebecca Strickland  
 _Script Supervisor_: Pamela Alch  
 _Casting_: Rick Pagano  
 _Screenplay_: James Cameron, Jay Cocks  
 _Story_: James Cameron  
 _Director of Photography_: Matthew F. Leonetti  
 _2nd Unit Director of Photography_: Phil Pfeiffer  
-_Camera/Steadicam Operator (Main Unit)_:  
-James Muro  
+_Camera/Steadicam Operator (Main Unit)_:  James Muro  
 _B Camera Operator_: Malcolm Brown  
 _Chief Lighting Technician_: Pat Blymyer  
 _Key Grip_: Dan Reilly  
@@ -51,8 +47,7 @@ _Special Visual Effects_: Digital Domain
 _Underwater Miniature Effects/ Photography_: Fantasy II Film Effects  
 _Additional Visual Effects_: Light Matters Inc.  
 _Special Effects Co-ordinator_: Terry Frazee  
-_Video Graphics_:  
-Banned from the Ranch Entertainment  
+_Video Graphics_:  Banned from the Ranch Entertainment  
 _Graphic Design_: Michael Marcus  
 _Editor_: Howard Smith  
 _Production Designer_: Lilly Kilvert  
@@ -65,8 +60,7 @@ _Construction Co-ordinator_: Walt Hadfield
 _Costume Design_: Ellen Mirojnick  
 _Costume Supervisor_: Deborah Hopper  
 _Make-up Supervisor_: Mike Germain  
-_Make-up Artists_: Michael Blake,  
-Deborah La Mia Denaver  
+_Make-up Artists_: Michael Blake,  Deborah La Mia Denaver  
 _Hair Design_: Kathy Estocin  
 _Hair Supervisor_: Robert L. Stevenson  
 _Hairstylists_: Georgina Williams, Laura Connolly  
@@ -80,27 +74,22 @@ _Colour Timer_: Dan Muscarella
 _Music_: Graeme Revell  
 _Additional Music_: Deep Forest  
 _Music Supervisor/Producer_: Randy Gerston  
-_Music Editors_: Josh Winget, Allan K. Rosen,  
-Patty Von Arx  
+_Music Editors_: Josh Winget, Allan K. Rosen,  Patty Von Arx  
 _Sound Design_: Gary Rydstrom  
 _Boom Operators_: Don Coufal, Cary Weitz  
 _Sound Mixers_: Jeff Wexler, David Ronne  
-_Re-recording Mixers_: Tom Johnson,  
-Lora Hirschberg, Richard Beggs, Gary Rydstrom  
+_Re-recording Mixers_: Tom Johnson,  Lora Hirschberg, Richard Beggs, Gary Rydstrom  
 _Supervising Sound Editor_: Gloria S. Borders  
 _Negative Cutter_: Gary Burritt  
-_Dialogue Editors_: Barbara McBane,  
-Claire Sanfilippo, Clare Freeman, Sara Bolder  
-_Sound Effects Editors_: Frank Eulner,  
-Tim Holland, Phil Benson  
+_Dialogue Editors_: Barbara McBane,  Claire Sanfilippo, Clare Freeman, Sara Bolder  
+_Sound Effects Editors_: Frank Eulner,  Tim Holland, Phil Benson  
 _ADR Editors_: Hugh Waddell, Marian Wilde  
 _Foley Artists_: Dennie Thorpe, Tom Barwick  
 _Foley Recordist_: Tony Eckert  
-_Foley Editors_: Mary Helen Leasman,  
-Sandina Bailo-Lape  
+_Foley Editors_: Mary Helen Leasman,  Sandina Bailo-Lape  
 _Stunt Co-ordinator_: Doug Coleman  
-_Cast:_
 
+**Cast**  
 Ralph Fiennes _(Lenny Nero)_  
 Angela Bassett _(Lornette ‘Mace’ Mason)_  
 Juliette Lewis _(Faith Justin)_  
@@ -125,20 +114,18 @@ Ted Haler _(tow-truck driver)_
 Rio Hackford _(Bobby the bartender)_  
 Brook Susan Parker _(Cecile)_  
 Brandon Hammond _(Zander)_  
-Donald ‘Donnie’ Young, B.J. Crockett_  
-(young Zander)_  
+Donald ‘Donnie’ Young, B.J. Crockett _(young Zander)_  
 Dex Elliott Sanders _(Curtis)_  
 Ronnie Willis _(homeboy)_  
 David Packer _(Lane)_  
 Paulo Tocha _(Spaz Diaz)_
 
-USA 1995
-
-145 mins
-
+USA 1995  
+145 mins  
 Digital
 
 Woman with a Movie Camera is generously supported by Jane Stanton
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjgyNDE1MzNdfQ==
+eyJoaXN0b3J5IjpbMjA0MjQ1Mzg0N119
 -->
