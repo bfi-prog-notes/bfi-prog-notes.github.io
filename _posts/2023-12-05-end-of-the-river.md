@@ -61,7 +61,7 @@ Eva Hudson _(Maria Gonsalves)_
 Milo Sperber _(Ze)_  
 Nino Rossini _(Feliciano)_  
 Torin Thatcher _(Lisboa)_  
-Andrea Malindrinos _(officer of India Protection Soc)_  
+Andrea Malindrinos _(officer of India Protection Society)_  
 Alan Wheatley _(Irgoyen)_  
 James Harcourt _(the judge)_  
 Arthur Goullet _(the pedlar)_  
