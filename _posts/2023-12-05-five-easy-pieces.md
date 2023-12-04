@@ -48,7 +48,7 @@ _Re-recording:_ Producers Sound Service
 _Sound Effects:_ Edit-Rite, Inc  
 _Transportation Captain:_ Al Schultz  
 
-**Cast**
+**Cast**  
 Jack Nicholson _(Robert ‘Bobby’ Eroica Dupea)_  
 Karen Black _(Rayette Dipesto)_  
 Billy ‘Green’ Bush _(Elton)_  
@@ -65,11 +65,11 @@ Ralph Waite _(Carl Fidelio Dupea)_
 William Challee _(Nicholas Dupea)_  
 John Ryan _(Spicer)_  
 Irene Dailey _(Samia Glavia)_  
-USA 1970©
 
-98 mins
-
+USA 1970©  
+98 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTExOTU0M119
+eyJoaXN0b3J5IjpbLTE5MzgwODEzNzFdfQ==
 -->
