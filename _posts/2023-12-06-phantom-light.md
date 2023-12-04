@@ -6,20 +6,17 @@ published: true
 date: 2023-12-06
 readtime: true
 categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
-tags: [Comedy, Drama]
-metadata: 'UK 1947, 102 mins<br> Director: Derek Twist'
-pdf: '2023-12-05-end-of-the-river.pdf'
+tags: [Comedy, Fantasy]
+metadata: 'UK 1935, 76 mins<br> Director: Michael Powell'
+pdf: '2023-12-06-phantom-light.pdf'
 ---
-
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
 Michael Powell bid for box-office success with this tale of a gang of ship-wreckers who spread the legend of a ‘phantom lighthouse’ to distract attention from their activities – but they didn’t reckon on Gordon Harker’s newly-installed lighthouse keeper Sam Higgins. Edited by Powell’s soon-to-be regular collaborator Derek Twist, and making evocative use of its coastal locations, it’s all carried off with real atmosphere.  
 **James Bell, bfi.org.uk**  
 
-Michael Powell’s last film in his contract for Gaumont-British/Gainsborough was a fascinating taste of things to come from the young director.  
-_The Phantom Light_ (1935) was a comic thriller adapted from the stage play  
-_The Haunted Light_ by Evadne Price and Joan Roy Byford.
+Michael Powell’s last film in his contract for Gaumont-British/Gainsborough was a fascinating taste of things to come from the young director. _The Phantom Light_ (1935) was a comic thriller adapted from the stage play  _The Haunted Light_ by Evadne Price and Joan Roy Byford.
 
 It seemed the perfect project to Powell, who later admitted, ‘I am a sucker for lighthouses. The lonelier and inaccessible, the better. And I love comedy-thrillers. I said “yes” to this one right away, and never regretted it. I enjoyed every minute. The less said about the plot the better.’
 
@@ -40,5 +37,5 @@ Binnie Hale as the lady detective acts well, especially in her fight with the wr
 There are a number of violent scenes which make the film unsuitable for young people or impressionable adolescents.  
 **_Monthly Film Bulletin_, July 1935**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDcxMDk1MzldfQ==
+eyJoaXN0b3J5IjpbNzA2NzM5Mjg2XX0=
 -->
