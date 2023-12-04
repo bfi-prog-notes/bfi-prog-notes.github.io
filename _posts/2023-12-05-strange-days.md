@@ -1,8 +1,18 @@
+---
+layout: post
+title: Strange Days
+published: true
+date: 2023-12-05
+readtime: true
+categories: ['WOMAN WITH A MOVIE CAMERA']
+tags: [Sci-Fi, Thriller]
+metadata: 'USA 1995, 145 mins<br> Director: Kathryn Bigelow'
+pdf: '2023-12-05-strange-days.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
-Kathryn Bigelow shoots in light. Cinema’s outlaw, she disrupts assumptions about where a film can go, taking genres and ripping them apart to see what they might be made of, always finding the dark stuff inside. Her debut,  
-_The Loveless_, was a studied homage to the 50s biker movie (though in its fascistic fascination with the gleam of chrome and the contours of the leather more speciﬁcally Kenneth Anger than _The Wild One_). In _Near Dark_, she took on the Western, infecting it with a vampire-movie strain to produce a terrifying new mythology. Next she skewered assumptions about both genre and gender in _Blue Steel_, a melancholy policier set in a nightmare Manhattan cityscape, predating _The Silence of the Lambs_ in its scrutiny of a woman’s place in the genre. And in _Point Break_, a kind of ‘Only Angels Have Surfboards’, the male body is thrust to its limits as Bigelow pushed her cinematic style to its own dizzyingly kinetic limits – in a spume-action movie that knowingly states, ‘There is too much testosterone around here.’ All these films fray the edges of genre, boasting protagonists who straddle the line between law and disorder. And Bigelow too furtively roams the spectrum, hard to pin down as she plans her raids on movie lore. Hollywood’s uncanny daughter, she gets up to all sorts of tricks, her work revealing her art-school background in truly arresting images – the Smith & Wesson in _Blue Steel_ that her camera turns into an intricate metallic sculpture – and in her choosing to unstitch (rather than render seamless) cinema’s narratives. Which makes her a disquieting presence, unsurprisingly difﬁcult to accommodate.
+Kathryn Bigelow shoots in light. Cinema’s outlaw, she disrupts assumptions about where a film can go, taking genres and ripping them apart to see what they might be made of, always finding the dark stuff inside. Her debut,  _The Loveless_, was a studied homage to the 50s biker movie (though in its fascistic fascination with the gleam of chrome and the contours of the leather more speciﬁcally Kenneth Anger than _The Wild One_). In _Near Dark_, she took on the Western, infecting it with a vampire-movie strain to produce a terrifying new mythology. Next she skewered assumptions about both genre and gender in _Blue Steel_, a melancholy policier set in a nightmare Manhattan cityscape, predating _The Silence of the Lambs_ in its scrutiny of a woman’s place in the genre. And in _Point Break_, a kind of ‘Only Angels Have Surfboards’, the male body is thrust to its limits as Bigelow pushed her cinematic style to its own dizzyingly kinetic limits – in a spume-action movie that knowingly states, ‘There is too much testosterone around here.’ All these films fray the edges of genre, boasting protagonists who straddle the line between law and disorder. And Bigelow too furtively roams the spectrum, hard to pin down as she plans her raids on movie lore. Hollywood’s uncanny daughter, she gets up to all sorts of tricks, her work revealing her art-school background in truly arresting images – the Smith & Wesson in _Blue Steel_ that her camera turns into an intricate metallic sculpture – and in her choosing to unstitch (rather than render seamless) cinema’s narratives. Which makes her a disquieting presence, unsurprisingly difﬁcult to accommodate.
 
 This rustler’s restless desire to confront and challenge the power of the medium is nowhere more evident than in _Strange Days_, Bigelow’s most provocative work to date, from a script by James Cameron and (former _Time_ film critic and Scorsese collaborator) Jay Cocks. It’s a draining, dazing vision of a not-too-distant future in which urban America is ready to ignite, a cyber-_Peeping Tom_-cum-_Vertigo_ which puts a further spin on the history of film’s own interrogation of voyeuristic desires. Its strange beauty is in the staring, scared eye of the beholder on which the camera lingers in the opening credits: right from the jolting fast-forward false start, it invites a self-reﬂexive reading of all that unreels before the audience, as we fall, fatally, for what we see, only to be hauled up short, to begin all over again. As with the opening gambit in _Blue Steel_, in which Curtis’ Megan is shown going through with an arrest that turns out to be a dummy run, Bigelow demands that we be on our guard concerning what we are about to experience. We should also be on guard about the shape of things to come.
 
@@ -126,6 +136,54 @@ Digital
 
 Woman with a Movie Camera is generously supported by Jane Stanton
 <br><br>
+
+**REGULAR PROGRAMME**<br>
+**Missing Believed Wiped 2023**<br>
+Sun 3 Dec 12:00<br>
+**The Stylish World of ITC + intro by Lord Michael Grade**<br>
+Sun 3 Dec 15:00<br>
+**Woman with a Movie Camera: Strange Days**<br>
+Tue 5 Dec 20:10; Sat 30 Dec 20:00<br>
+**Members’ Festive Evening**<br>
+Thu 7 Dec 18:00-20:30 BFI Foyer<br>
+**Art in the Making: Imprint + Dancers**<br>
+Thu 14 Dec 18:20<br>
+**Silent Cinema: A Woman of Paris**<br>
+Sun 17 Dec 13:30 (+ intro by Mark Fuller, Michael Powell expert); Thu 28 Dec 18:20<br>
+**Film Wallahs: Mr India + Q&A with producer Mr Bonny Kapoor**<br>
+Sun 17 Dec 14:30<br>
+**Relaxed Screening: A Year in a Field + intro**<br>
+Mon 18 Dec 18:10<br>
+**Restored: Distant Thunder (Ashani Sanket) + pre-recorded intro by Sangeeta Datta (UK Premiere of 4K Restoration)**<br>
+Tue 19 Dec 18:00<br>
+**Member Picks: The Thin Red Line**<br>
+Sat 30 Dec 19:40<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjA0MjQ1Mzg0N119
 -->
