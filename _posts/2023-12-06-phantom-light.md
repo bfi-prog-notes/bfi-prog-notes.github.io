@@ -36,6 +36,43 @@ Binnie Hale as the lady detective acts well, especially in her fight with the wr
 
 There are a number of violent scenes which make the film unsuitable for young people or impressionable adolescents.  
 **_Monthly Film Bulletin_, July 1935**
+<br>
+
+**THE PHANTOM LIGHT**  
+_Director_: Michael Powell  
+_Production Company_: Gainsborough Pictures  
+_Producer_: Michael Balcon *  
+_Associate Producer_: Jerome Jackson  
+_Scenario_: Ralph Smart  
+_Dialogue_: J. Jefferson Farjeon, Austin Melford  
+_Based on the play_ The Haunted Light _by_: Evadne Price, Joan Roy Byford  
+_Photography_: Roy Kellino  
+_Editor_: D.N. Twist  
+_Art Director_: Alex Vetchinsky  
+_Music Director_: Louis Levy *  
+_Sound_: A. Birch  
+_Studio_: Gainsborough Studios  
+
+**Cast**  
+Binnie Hale _(Alice Bright)_  
+Gordon Harker _(Sam Higgins)_  
+Donald Calthrop _(David Owen)_  
+Milton Rosmer _(Dr Carey)_  
+Ian Hunter _(Jim Pierce)_  
+Herbert Lomas _(Claff Owen)_  
+Reginald Tate _(Tom Evans)_  
+Barry O’Neill _(Captain Pearce)_  
+Mickey Brantford _(Bob Peters)_  
+Alice O’Day _(Mrs Owen)_  
+Fewlass Llewellyn _(Griffith Owen)_  
+Edgar K. Bruce _(Sergeant Owen)_  
+Louie Emery _(station mistress)_  
+
+UK 1935  
+76 mins  
+Digital 4K  
+
+Remastering has been supported by Matt Spick and the Charles Skey Charitable Trust.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2NzM5Mjg2XX0=
+eyJoaXN0b3J5IjpbMzQxNzI0MDg3XX0=
 -->
