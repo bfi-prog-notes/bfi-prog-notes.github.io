@@ -6,8 +6,8 @@ date: 2023-12-05
 readtime: true
 categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
 tags: [Adventure, Drama]
-metadata: 'UK 1956, 119 mins<br> Directors: Michael Powell, Emeric Pressburger'
-pdf: '2023-11-18-battle-of-the-river-plate.pdf'
+metadata: 'UK 1947, 102 mins<br> Director: Derek Twist'
+pdf: '2023-12-05-end-of-the-river.pdf'
 ---
 
 _+ intro by film scholar Dr Kulraj Phullar_  
@@ -81,5 +81,5 @@ UK 1947
 
 A BFI National Archive print
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3Mjc0MDc1XX0=
+eyJoaXN0b3J5IjpbLTEzNTMzNTI3NTYsMTA3Mjc0MDc1XX0=
 -->
