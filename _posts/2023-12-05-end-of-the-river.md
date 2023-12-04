@@ -1,11 +1,18 @@
+---
+layout: post
+title: The End of the River
+published: true
+date: 2023-12-05
+readtime: true
+categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
+tags: [Adventure, Drama]
+metadata: 'UK 1956, 119 mins<br> Directors: Michael Powell, Emeric Pressburger'
+pdf: '2023-11-18-battle-of-the-river-plate.pdf'
+---
 
-<![endif]-->
-
-_+ intro by film scholar Dr Kulraj Phullar_
-
-‘Who is guilty, the twig or the current?’ asks a courtroom lawyer, making a plea for clemency for a native Brazilian (played by Indian star Sabu) who fate has led from his jungle village to a murder trial. Produced by Powell and Pressburger, and directed by Powell’s one-time editor Derek Twist, the presented-in-flashback drama was released soon after _Black Narcissus_, but replaces its studio-created exoticism with black and white location footage shot by Archers-regular Christopher Challis.
-
-James Bell, bfi.org.uk
+_+ intro by film scholar Dr Kulraj Phullar_  
+‘Who is guilty, the twig or the current?’ asks a courtroom lawyer, making a plea for clemency for a native Brazilian (played by Indian star Sabu) who fate has led from his jungle village to a murder trial. Produced by Powell and Pressburger, and directed by Powell’s one-time editor Derek Twist, the presented-in-flashback drama was released soon after _Black Narcissus_, but replaces its studio-created exoticism with black and white location footage shot by Archers-regular Christopher Challis.  
+**James Bell, bfi.org.uk**  
 
 Sabu’s last two British films, both from 1947, reunited him with Michael Powell, one of the directors of _The Thief of Bagdad_ (1940). The first, _Black Narcissus_, gave him a relatively small role as the young general, but he played the lead in _The End of the River_, released a few months later. But this time, Powell and Emeric Pressburger were merely the producers, being busy with _The Red Shoes_ (1948), and the director was first-timer Derek Twist, an editor who had earned Powell’s undying gratitude for working miracles on the mass of footage making up _The Edge of the World_ (1937) – or, as the director put it, ‘he made sense of our ravings’.
 
@@ -18,9 +25,8 @@ Powell was overly harsh, though he was right to blame the over-ambitious script,
 However, it did at least have a strong cast – Esmond Knight’s swarthy, disease-ridden foreman Dantos, Bibi Ferreira’s appealingly ingenuous Teresa, Torin Thatcher’s gruff but kindly ship-owner Lisboa, and Sabu himself in what may have been the most challenging role of his career as the hapless Manoel – as well as historical interest in the way it transplants the themes of Alexander Korda’s 1930s British Empire films to a Latin American context and is just as patronising towards ‘the natives’. Significantly, even Manoel’s legal defence is that he’s merely ‘a twig in a current’, clearly incapable of grasping the machinations of the ‘white man’s world’.  
 **Michael Brooke, BFI Screenonline, screenonline.org.uk**  
 <br>
-<![endif]-->
 
-**The End of the River**  
+**THE END OF THE RIVER**  
 _Director_: Derek Twist  
 _Production Company_: Archers Film Productions, Independent Producers  
 _Assistant Producer_: George R. Busby  
@@ -75,5 +81,5 @@ UK 1947
 
 A BFI National Archive print
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA1MjExODZdfQ==
+eyJoaXN0b3J5IjpbMTA3Mjc0MDc1XX0=
 -->
