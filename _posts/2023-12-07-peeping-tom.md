@@ -35,36 +35,20 @@ Tinkering with Freudian theories (as Powell and Leo Marks began their collaborat
 **PEEPING TOM**  
 _Directed by:_ Michael Powell  
 _©/Production Company:_ Michael Powell (Theatre) Ltd  
-Nat Cohen and Stuart Levy _present_
-_a_ Michael Powell _production_
-
-Production Manager: Al Marcus
-
-Production Assistants: Judith Coxhead,
-
-William J. Paton
-
-1st Assistant Director: Ted Sturgis
-
-Continuity: Rita Davison
-
-An Original Story and Screenplay by: Leo Marks
-
-Photographed in Eastmancolor by: Otto Heller
-
-Camera Operator: Gerry Turpin
-
-Chief Electrician: Victor E. Smith
-
-Editor: Noreen Ackland
-
-Art Director: Arthur Lawson
-
-Assistant Art Director: Ivor Beddoes
-
-Set Dresser: Don Picton
-
-Construction Manager: Ronald Udell
+Nat Cohen and Stuart Levy _present a_ Michael Powell _production_  
+_Production Manager:_ Al Marcus  
+_Production Assistants:_ Judith Coxhead, William J. Paton  
+_1st Assistant Director:_ Ted Sturgis  
+_Continuity:_ Rita Davison  
+_An Original Story and Screenplay by:_ Leo Marks  
+_Photographed in Eastmancolor by:_ Otto Heller  
+_Camera Operator:_ Gerry Turpin  
+_Chief Electrician:_ Victor E. Smith  
+_Editor:_ Noreen Ackland  
+_Art Director:_ Arthur Lawson  
+_Assistant Art Director:_ Ivor Beddoes  
+_Set Dresser:_ Don Picton  
+_Construction Manager:_ Ronald Udell
 
 Miss Anna Massey’s Dresses by: Polly Peck
 
@@ -237,6 +221,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTU1NTI2NDksLTE0MTYyOTU2OThdfQ
-==
+eyJoaXN0b3J5IjpbNTcyODk0NTE5LC0xNDE2Mjk1Njk4XX0=
 -->
