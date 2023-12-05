@@ -192,10 +192,15 @@ Margaret Neal (stepmother)
 
 Michael Powell (A.N. Lewis, Mark’s father)
 
-Columba Powell (Mark as a child)  
+Columba Powell (Mark as a child)
+
 
 UK 1960©  
 102 mins  
+Digital 4K  
+
+A new BFI National Archive restoration  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTYyOTU2OThdfQ==
+eyJoaXN0b3J5IjpbLTEyMTkwNjc2NTMsLTE0MTYyOTU2OThdfQ
+==
 -->
