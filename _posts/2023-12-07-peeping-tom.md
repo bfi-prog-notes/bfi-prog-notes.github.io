@@ -60,33 +60,20 @@ _Percussion Number by:_ Wally Stott
 _Dance Music by:_ Freddie Phillips  
 _Solo Piano:_ Gordon Watson  
 _Sound Recordists:_ C.C. Stevens, Gordon McCallum  
-_Sound Editor: Malcolm Cooke
-
-_uncredited_
-
-Producer: Michael Powell
-
-Associate Producer: Albert Fennell
-
-_2nd Assistant Director:_ Denis Johnson
-
-_3rd Assistant Director_: Carl Mannin
-
-_Focus Puller_: Derek Browne
-
-_Clapper Loader_: Jim Hopewell
-
-_Stills_: Norman Gryspeerdt
-
-_1st Assistant Editor_: Alma Godfrey
-
-_2nd Assistant Editor_: John Rushton
-
-_Draughtsman_: Maurice Pelling
-
-_Wardrobe Assistant_: Vi Garnham
-
-_Studio_: Pinewood Studios
+_Sound Editor:_ Malcolm Cooke  
+_uncredited_  
+_Producer:_ Michael Powell  
+_Associate Producer:_ Albert Fennell 
+_2nd Assistant Director:_ Denis Johnson  
+_3rd Assistant Director_: Carl Mannin  
+_Focus Puller_: Derek Browne  
+_Clapper Loader_: Jim Hopewell  
+_Stills_: Norman Gryspeerdt  
+_1st Assistant Editor_: Alma Godfrey  
+_2nd Assistant Editor_: John Rushton  
+_Draughtsman_: Maurice Pelling  
+_Wardrobe Assistant_: Vi Garnham  
+_Studio_: Pinewood Studios  
 
 **Cast**  
 Carl Boehm _(Mark Lewis)_  
@@ -129,7 +116,6 @@ UK 1960©
 Digital 4K  
 
 A new BFI National Archive restoration  
-<br>
 <br>
 
 **CINEMA UNBOUND: THE CREATIVE WORLDS OF POWELL + PRESSBURGER**  
@@ -207,5 +193,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTAyMjEwMiwtMTQxNjI5NTY5OF19
+eyJoaXN0b3J5IjpbMTU5NDM5NjY3MSwtMTQxNjI5NTY5OF19
 -->
