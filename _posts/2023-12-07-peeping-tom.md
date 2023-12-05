@@ -48,33 +48,19 @@ _Editor:_ Noreen Ackland
 _Art Director:_ Arthur Lawson  
 _Assistant Art Director:_ Ivor Beddoes  
 _Set Dresser:_ Don Picton  
-_Construction Manager:_ Ronald Udell
-
-Miss Anna Massey’s Dresses by: Polly Peck
-
-Miss Moira Shearer’s Dresses by:
-
-John Tullis of Horrockses
-
-Wardrobe: Dickie Richardson
-
-Make-up: W.J. Partleton
-
-Hairdressing: Pearl Orton
-
-Hats by: Millinery Guild
-
-Music Composed and Directed by: Brian Easdale
-
-Percussion Number by: Wally Stott
-
-Dance Music by: Freddie Phillips
-
-Solo Piano: Gordon Watson
-
-Sound Recordists: C.C. Stevens, Gordon McCallum
-
-Sound Editor: Malcolm Cooke
+_Construction Manager:_ Ronald Udell  
+_Miss Anna Massey’s Dresses by:_ Polly Peck  
+_Miss Moira Shearer’s Dresses by:_ John Tullis of Horrockses  
+_Wardrobe:_ Dickie Richardson  
+_Make-up:_ W.J. Partleton  
+_Hairdressing:_ Pearl Orton  
+_Hats by:_ Millinery Guild  
+_Music Composed and Directed by:_ Brian Easdale  
+_Percussion Number by:_ Wally Stott  
+_Dance Music by:_ Freddie Phillips  
+_Solo Piano:_ Gordon Watson  
+_Sound Recordists:_ C.C. Stevens, Gordon McCallum  
+_Sound Editor: Malcolm Cooke
 
 _uncredited_
 
@@ -221,5 +207,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyODk0NTE5LC0xNDE2Mjk1Njk4XX0=
+eyJoaXN0b3J5IjpbMjEwOTAyMjEwMiwtMTQxNjI5NTY5OF19
 -->
