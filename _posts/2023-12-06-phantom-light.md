@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: The Phantom Light
@@ -151,5 +150,6 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODA0NzUxOSwzNDE3MjQwODddfQ==
+eyJoaXN0b3J5IjpbMTcwMTI2OTUxNywxNzQ4MDQ3NTE5LDM0MT
+cyNDA4N119
 -->
