@@ -130,32 +130,19 @@ Moira Shearer _(Vivian)_
 Anna Massey _(Helen Stephens)_  
 Maxine Audley _(Mrs Stephens)_  
 Brenda Bruce _(Dora)_  
-Miles Malleson _(elderly gentleman)
-
-Esmond Knight (Arthur Baden)
-
-Martin Miller (Dr Rosan)
-
-Michael Goodliffe (Don Jarvis)
-
-Jack Watson (Inspector Gregg)
-
-Shirley Ann Field (Diane Ashley)
-
-Pamela Green (Milly)
-
-uncredited
-
-Bartlett Mullins (Mr Peters)
-
-Nigel Davenport (Sgt Miller)
-
-Brian Wallace (Tony)
-
-Susan Travers (Lorraine)
-
-Maurice Durant (publicity chief)
-
+Miles Malleson _(elderly gentleman)_  
+Esmond Knight _(Arthur Baden)_  
+Martin Miller _(Dr Rosan)_  
+Michael Goodliffe _(Don Jarvis)_  
+Jack Watson _(Inspector Gregg)_  
+Shirley Ann Field _(Diane Ashley)_  
+Pamela Green _(Milly)_  
+_uncredited_  
+Bartlett Mullins _(Mr Peters)_  
+Nigel Davenport _(Sgt Miller)_  
+Brian Wallace _(Tony)_  
+Susan Travers _(Lorraine)_  
+Maurice Durant _(publicity chief)_  
 Brian Worth (assistant director)
 
 Veronica Hurst (Miss Simpson)
@@ -195,5 +182,6 @@ Digital 4K
 
 A new BFI National Archive restoration  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Mjg2MzI0MCwtMTQxNjI5NTY5OF19
+eyJoaXN0b3J5IjpbLTE5MDI3MDM4NTEsLTE0MTYyOTU2OThdfQ
+==
 -->
