@@ -143,36 +143,21 @@ Nigel Davenport _(Sgt Miller)_
 Brian Wallace _(Tony)_  
 Susan Travers _(Lorraine)_  
 Maurice Durant _(publicity chief)_  
-Brian Worth (assistant director)
-
-Veronica Hurst (Miss Simpson)
-
-Alan Rolfe (store detective)
-
-John Dunbar (police doctor)
-
-Guy Kingsley-Poynter (P. Tate, cameraman)
-
-Keith Baxter (Baxter, detective)
-
-Peggy Thorpe-Bates (Mrs Partridge)
-
-John Barrard (small man)
-
-Roland Curram (young man extra)
-
-Robert Crewdson (tall shop assistant)
-
-John Chappell (clapper boy)
-
-Paddy Edwardes (girl extra)
-
-Frank Singuineau (first electrician)
-
-Margaret Neal (stepmother)
-
-Michael Powell (A.N. Lewis, Mark’s father)
-
+Brian Worth _(assistant director)_  
+Veronica Hurst _(Miss Simpson)_  
+Alan Rolfe _(store detective)_  
+John Dunbar _(police doctor)_  
+Guy Kingsley-Poynter _(P. Tate, cameraman)_  
+Keith Baxter _(Baxter, detective)_  
+Peggy Thorpe-Bates _(Mrs Partridge)_  
+John Barrard _(small man)_  
+Roland Curram _(young man extra)_  
+Robert Crewdson _(tall shop assistant)_  
+John Chappell _(clapper boy)_  
+Paddy Edwardes _(girl extra)_  
+Frank Singuineau _(first electrician)_  
+Margaret Neal _(stepmother)_  
+Michael Powell _(A.N. Lewis, Mark’s father)_  
 Columba Powell (Mark as a child)
 
 
@@ -182,6 +167,5 @@ Digital 4K
 
 A new BFI National Archive restoration  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI3MDM4NTEsLTE0MTYyOTU2OThdfQ
-==
+eyJoaXN0b3J5IjpbOTg1ODc1NDYzLC0xNDE2Mjk1Njk4XX0=
 -->
