@@ -106,37 +106,31 @@ Associate Producer: Albert Fennell
 
 _2nd Assistant Director:_ Denis Johnson
 
-3rd Assistant Director: Carl Mannin
+_3rd Assistant Director_: Carl Mannin
 
-Focus Puller: Derek Browne
+_Focus Puller_: Derek Browne
 
-Clapper Loader: Jim Hopewell
+_Clapper Loader_: Jim Hopewell
 
-Stills: Norman Gryspeerdt
+_Stills_: Norman Gryspeerdt
 
-1st Assistant Editor: Alma Godfrey
+_1st Assistant Editor_: Alma Godfrey
 
-2nd Assistant Editor: John Rushton
+_2nd Assistant Editor_: John Rushton
 
-Draughtsman: Maurice Pelling
+_Draughtsman_: Maurice Pelling
 
-Wardrobe Assistant: Vi Garnham
+_Wardrobe Assistant_: Vi Garnham
 
 _Studio_: Pinewood Studios
 
-Cast:
-
-Carl Boehm (Mark Lewis)
-
-Moira Shearer (Vivian)
-
-Anna Massey (Helen Stephens)
-
-Maxine Audley (Mrs Stephens)
-
-Brenda Bruce (Dora)
-
-Miles Malleson (elderly gentleman)
+**Cast**  
+Carl Boehm _(Mark Lewis)_  
+Moira Shearer _(Vivian)_  
+Anna Massey _(Helen Stephens)_  
+Maxine Audley _(Mrs Stephens)_  
+Brenda Bruce _(Dora)_  
+Miles Malleson _(elderly gentleman)
 
 Esmond Knight (Arthur Baden)
 
@@ -201,6 +195,5 @@ Digital 4K
 
 A new BFI National Archive restoration  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTkwNjc2NTMsLTE0MTYyOTU2OThdfQ
-==
+eyJoaXN0b3J5IjpbMTM4Mjg2MzI0MCwtMTQxNjI5NTY5OF19
 -->
