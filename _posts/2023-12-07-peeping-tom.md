@@ -5,18 +5,16 @@ published: true
 date: 2023-12-07
 readtime: true
 categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
-tags: [Horror]
-metadata: 'UK 1935, 76 mins<br> Director: Michael Powell'
-pdf: '2023-12-06-phantom-light.pdf'
+tags: [Drama, Horror]
+metadata: 'UK 1960, 102 mins<br> Director: Michael Powell'
+pdf: '2023-12-07-peeping-tom.pdf'
 ---
 
-**Thelma Schoonmaker on ‘Peeping Tom’**
-
+**Thelma Schoonmaker on ‘Peeping Tom’**  
 What’s so powerful is that you care about this man who was a murderer – so beautifully portrayed by Carl Boehm – but who has been created by his father to be a murderer. You care about him. The critics were horrified at that feeling in themselves. They thought, ‘Well, we must get rid of this film because people shouldn’t be feeling that way.’ These days, many films are made like this. Michael wasn’t even the first: Fritz Lang’s _M_ [1931] did something like this.
 
-I’ve just finished helping restore the movie, and I love the great detail and care that went into it to make that character someone you felt for. Michael completely changed the way he made films with this movie. A different cameraman and a different look – very much a 1960s look, even the colour, the way sets are designed, the way people wear clothes is very 1960s. It was a big thing for him, to jump ahead and make a film relevant to that time.
-
-_Sight and Sound_, November 2023
+I’ve just finished helping restore the movie, and I love the great detail and care that went into it to make that character someone you felt for. Michael completely changed the way he made films with this movie. A different cameraman and a different look – very much a 1960s look, even the colour, the way sets are designed, the way people wear clothes is very 1960s. It was a big thing for him, to jump ahead and make a film relevant to that time.  
+**_Sight and Sound_, November 2023**
 
 Part of the exasperation, if not the loathing, prompted by Michael Powell’s ‘nice, pure, beautiful film’ (as he called it) when it first appeared in 1960 can be explained by sheer disorientation. From the title inwards, nothing that _Peeping Tom_ delivers is quite what it promises (or threatens); if there is a logic to be traced beneath its surface of peculiar imprecision, it is that of the surviving airman (how does he survive?) in _A Matter of Life and Death_ or of the family curse (is it really a blessing?) in _‘I Know Where I’m Going!’_ In other words, the film requires some indulgence from its observers in order to survive its own contradictions. Too little tolerance, and _Peeping Tom_ is ‘merely’ about a deranged sexual pervert; too much, and it becomes – equally mysteriously – a key to the whole purpose of watching movies.
 
@@ -33,5 +31,5 @@ Mark’s own answer to the riddle of his behaviour admits no sexual implication.
 Tinkering with Freudian theories (as Powell and Leo Marks began their collaboration by doing), a more satisfactory reading might be that as a consequence of his father-obsession Mark is jealous of his stepmother and kills off her later equivalents in order to keep his father (the real ‘Peeping Tom’) to himself. As sex has no part in this relationship, any sexual behaviour – such as kissing couples or posing glamour-girls – has to be suppressed and punished. At the same time, by ‘becoming’ his father, Mark can justify a tolerance towards Helen as a potential partner/mother, while Mrs Stephens, ‘seeing’ him more clearly for being blind, also has some vestige of maternal authority over him. But the enigmas of the film, like the veil that lifts across Mark’s first meeting with Helen’s mother, safely defy explanation. The most appropriate verdict comes after Mark’s reunion with death, in the form of a splendidly ambiguous Powellian comment both on the after-life and on _Peeping Tom_ itself ‘There’s nothing,’ says the expert, ‘to be afraid of.’  
 **Philip Strick, _Sight & Sound_, November 1994**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODA4MzM1OV19
+eyJoaXN0b3J5IjpbLTE3ODcwMzc2ODBdfQ==
 -->
