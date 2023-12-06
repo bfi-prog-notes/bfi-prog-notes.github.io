@@ -96,23 +96,16 @@ Ebenezer Repombia<br>
 Armand Tamo<br>
 La Petite Poupou Poutougnigni<br>
 Junior Ndam,  Ousmane Djam,  Astrid Nganong,  André Penka,  Ferdinand Fondini,  Thierry Kondep,  William Touazong,  Ibrahim Moutala,  Nelson Tapio Bili,  Delphine Yenda,  Amadou Yaya,  Joël Yimeli,  Jafarou Abdou,  Aïcha Ndam,  Aoudou Foupa Aponini,  Rodrigue Fomata,  Abraham Walache,  Antoine Ndichut,  Etienne Njaourou,  Marsile Yene,  Dorothée Ngouem,  Basile Kamga,  Gervais Batcharon _(child soldiers)_<br>
-Amadou Mfongoun,  Daïrou Michinawa,  Amadou Njoya,  Pierre Balla,  John Hakem,  Alain Douala,  Rafihou,  Emmanuel Fotie,  Menoudi,  Boniface Noyongoyo,  Arnaud Ndam,  Jacques Chirac,  Benjamin Kijike,  Omar Sanda,  Mbeyap Njuwou,
-
-Saïdou Yarou _(plantation workers)_<br>
-
+Amadou Mfongoun,  Daïrou Michinawa,  Amadou Njoya,  Pierre Balla,  John Hakem,  Alain Douala,  Rafihou,  Emmanuel Fotie,  Menoudi,  Boniface Noyongoyo,  Arnaud Ndam,  Jacques Chirac,  Benjamin Kijike,  Omar Sanda,  Mbeyap Njuwou, Saïdou Yarou _(plantation workers)_<br>
 Alexandre Souffo,  Maître Charlie,  Achille Ngwem,  Maître Mathias,  Abdel Cherif,  Chouaïbou _(bandits)_<br>
-
 Germain Gnamsie Moumie,  Hugues Tchoumegne,  Elvis Petro,  Richard Rangou,  Nsangou Saidou,  Vincent Tantoh,  Lamaré Njikam,  Salifou Dongoua,  Cédric Attely,  Félix Fifen _(Cherif’s militia)_<br>
 
 France-Cameroon 2009©<br>
-
 106 mins<br>
-
 Digital<br>
 
-The screening on Wed 6 Dec will include an intro  
-by film curator Abiba Coulibaly<br>
+The screening on Wed 6 Dec will include an intro  by film curator Abiba Coulibaly<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyMTczMjgxXX0=
+eyJoaXN0b3J5IjpbODczNTIwMTk5XX0=
 -->
