@@ -1,1 +1,205 @@
+<![endif]-->
 
+Claire Denis’ films aspire to a crystalline purity. Even when packed with the stuff of social and political unrest – war, murder, racial tension, unemployment, refugees, families in crisis – they give the sense of having dropped, in the course of their elaboration, whatever ‘message’ they may have intended at the outset. What remains, in the end, is a cryptic diagram of bodies and desires, environments and landscapes, confrontations and evasions, things said and unsaid. At its best (_Beau Travail_, _Vendredi soir_, _35 Shots of Rum_), Denis’ cinema is compelling in its skeletal purity, beckoning viewers to enter the work and fill the gaps with their own imaginations.
+
+_White Material_ is at once an extremely physical and utterly abstract political melodrama. Working for the first time with novelist Marie N’Diaye rather than her usual script collaborator Jean-Pol Fargeau, Denis deliberately leaves obscure the exact year in which the action unfolds, or even the precise location in Africa. The situation that is so vividly sketched here – rebels versus militia, as workaday citizens flee for their lives and are often caught in the crossfire – would appear to be an amalgam of many moments in contemporary history: Rwanda, Angola, Indonesia… The conflict is, to use a much-abused word, universal; Denis aims for a level of generalised metaphor, but always through very precise, concrete details. She is careful, too, not to take sides, at least on the most obvious level of the dramatisation; only in fleeting moments like the final shot (when a soldier secretes the red beret which is the memoir-token of the rebel leader known as ‘the Boxer’) do we feel her natural sympathy for the rebels emerge.
+
+Of course, Africa has special and specific significance for Denis, as announced by her debut feature _Chocolat_ (1988), which took off from autobiographical experience. The continent’s culture and its transnational mutations form a constant presence and reference in her work. In _White Material_, as always, Denis takes an oblique rather than frontal angle; she truly puts the ‘post’ into post-colonial, as the primal scene of colonial encounter and trauma is never quite as intriguing to her as the often subtle aftershocks of a faded imperial expansion. Hence the story here – and certainly the power-play of white dominating black – is virtually over as soon as it begins, the ‘white material’ (the title refers to a cigarette lighter) already in tatters. We first see Maria (Isabelle Huppert) alone on a road, already divested of whatever colonial aura she once may have possessed, and from that point the action (such as it is) is a bleak body-countdown to total devastation. Yet the actual depiction of violence is restrained, unspectacular, almost Bressonian; blood doesn’t burst from sudden wounds, but seeps slowly through clothes, or is listlessly bathed in by children.
+
+Maria might seem to be a distant relative of Bette Davis in any number of 1930s and ’40s melodramas, or of the heroine of Doris Lessing’s classic 1950 novel _The Grass Is Singing_, which Huppert initially wanted Denis to adapt. _White Material_ focuses on Maria’s determination and perseverance, but it never romanticises her. Maria’s stubborn wilfulness and her blindness to the social situation around her – not to mention its horrible effects on everyone close to her – create a bubble around this character; instead of empathising with her, we are invited to take up a critical distance.
+
+Curiously, the ultimate tone of the piece, at least on an intellectual plane, is closer to Richard Fleischer’s much-derided slavery epic _Mandingo_ (1975) than it is to most melodramas centred on plucky women; in a Denis diagram, typically, we watch all the figures flail around inside the contradictions of their personal and social positions. An emblematic character, in this respect, is Maria’s father-in-law Henri (Michel Subor), who, while representing the imperial patriarch taking up space in a foreign land, is an oddly passive, even benign presence (frequently seen near-naked) who speaks of Africa as the only true home he has ever known; indeed, all references to France in the film conjure it as some ghostly, unimaginable, lost point of origin for these ‘white materials’.
+
+Ultimately, Denis presents a ‘history of violence’ that has more in common with _Lord of the Flies_ (novel or films) or Philippe Grandrieux’s paroxysmic _La Vie nouvelle_ (2002) than with any Hollywood melodrama past or present. Here violence is a contagious, dehumanising force that sweeps everybody up in its psychotic madness, especially the troubled young Manuel (Nicolas Duvauchelle incarnating a character who in the 1990s would have been played for Denis by Grégoire Colin). At the symbolic centre of this maelstrom is the fascinating, mostly silent, largely inactive, brooding figure of the Boxer (Isaach De Bankolé), who – like Ben Gazzara in one of Denis’ favourite films, John Cassavetes’  
+_The Killing of a Chinese Bookie_ – seems to be virtually a dead man from the first moment we glimpse him, his life draining away. He is in the process of passing over into the realm of myth, as a similarly wounded Johnny Depp did in Jarmusch’s _Dead Man_.
+
+Confident but somehow never completely satisfying, _White Material_ seems to suffer from a tension between its status as a star vehicle (though Huppert is superb) and Denis’ usual ensemble-driven proclivities. Some of the film’s most powerful scenes – such as Manuel’s brutalisation at the hands of two kids – come when the plot wanders away from Maria’s point-of-view; Denis’ relief at being able to stage her usual explorations off the linear track of the story is palpable. Yet these divagations never quite weave the sort of polyphony (in both image and sound) that – at its height (eg in _Beau Travail_) – brings Denis close in artistry to Terrence Malick; the fuller pattern that might have emerged from a freer treatment feels shrunken, truncated. An early scene is indicative of both the promise and the problems inherent in the project: Maria on a motorbike joins a long line of such movement images in Denis’ work, but the depiction of the character’s exhilaration (hands thrust in the air, wind in her face) tends to rather weary cliché.
+
+Although _White Material_ achieves the director’s trademark dreamy fluidity – coaxing even the worst sticklers for narrative clarity to go with the flow and ignore strict demarcations between past and present, reality and fantasy – its structure isn’t half as daring as, say, that of her 2004 film _The Intruder_ (_L’Intrus_), where the images created the narrative, rather than vice versa. Denis does employ the casual, even brutal form of exposition that suits her best: crucial information is conveyed on the fly, in glimpsed details (the survival kits strewn on the ground after a helicopter passes) or mysteriously brief, unanchored insertions of voiceover commentary (as when two unidentified locals discuss the white population).
+
+However, like all her films, _White Material_ repays repeat viewings, and grows with them. Not only do the more obscure or offhand pieces of the plot make more sense a second or third time around, but the already thick mood deepens and expands. Denis is a master of rhythm – here, an oceanic, slow throb that’s remarkably sustained over feature length – and of the fusion of image and music. Both in its overall structure and its incidental details, _White Material_ admirably conveys the vision of a society in disarray, flying apart at every seam. In Denis’ Africa, there really is no place like home.
+
+Adrian Martin, _Sight and Sound_, July 2010
+
+<![endif]-->
+
+**WHITE MATERIAL**
+
+_A film by:_ Claire Denis
+
+©: Why Not Productions, Wild Bunch,  
+France 3 Cinéma
+
+_Production Companies:_ Why Not Productions,  
+Wild Bunch, France 3 Cinéma
+
+_With the participation of:_ Canal+,  
+France Télévisions, TPS Star,  
+Centre national de la cinématographie
+
+_In association with:_ Les Films Terre Africaine, Cinémage 2, Sofica UGC 1
+
+_With the support of:_ Procirep
+
+_Production Executives:_ Martine Cassinelli,  
+Bassek Ba Kobhio
+
+_Production Managers:_ Albert Blasius, Isabelle Tillou
+
+_Production Supervisor:_ Thibault Mattei
+
+_Production Administration:_ Laurent Berthou
+
+_Post-production Supervisor:_ Béatrice Mauduit
+
+_1st Assistant Director:_ Jean-Paul Allègre
+
+_2nd Assistant Directors:_ Anaïs Minet,  
+Gervais Djimeli Lepka
+
+_2nd 2nd Assistant Director:_ Lucie Borleteau
+
+_Script Supervisor:_ Zoé Zurstrassen
+
+_Casting:_ Nicolas Lublin, Narcisse Mbarga,  
+Richard Rousseau, Antoine Carrard
+
+_Screenplay:_ Claire Denis, Marie N’Diaye
+
+_Script Collaborator:_ Lucie Borleteau
+
+_Director of Photography:_ Yves Cape
+
+_Gaffer:_ Bruno Verstraete
+
+_Key Grip:_ Stéphane Thiry
+
+_Visual Effects:_ Éclair VFX
+
+_Special Effects:_ Pierre-Olivier Persin,  
+Karen Fingerhut, Erwan Simon
+
+_Editor:_ Guy Lecorne
+
+_Assistant Editor:_ Sandie Bompar
+
+_Art Director:_ Alain Veissier
+
+_Set Decorator:_ Saint-Père Abiassi
+
+_Costume Designer:_ Judy Shrewsbury
+
+_Make-up:_ Thi-Loan Nguyen, Danièle Vuarin
+
+_Hair Stylist:_ Antonella Prestigiacomo
+
+_Main Titles:_ Charlotte Bayle
+
+_Colour Timers:_ Gérard Savary, Marine Lepoutre
+
+_Negative Cutters:_ GTC, Jorg Dettman
+
+_Original Music:_ tindersticks
+
+_String Arrangements:_ Lucy Wilkins
+
+_Sound Recordist:_ Jean-Paul Mugel
+
+_Sound in Cameroon:_ Christophe Winding
+
+_Re-recording Mixer:_ Christophe Vingtrinier
+
+_Supervising Sound Editors:_ Christophe Winding,  
+Josefina Rodriguez
+
+_Sound Editor:_ Sandie Bompar
+
+_Armourers:_ Fred Cauvy, René Djikou
+
+_Cast:_
+
+Isabelle Huppert _(Maria Vial)_
+
+Christophe Lambert _(André Vial)_
+
+Nicolas Duvauchelle _(Manuel Vial)_
+
+William Nadylam _(Chérif, the mayor)_
+
+Michel Subor _(Henri Vial, the landlord)_
+
+Isaach De Bankolé _(the Boxer)_
+
+Adèle Ado _(Lucie, Andre’s wife)_
+
+Ali Barkaï _(Jeep, leader of the rebel children)_
+
+Jean-Marie Ahanda
+
+Martin Poulibe
+
+Patrice Eya
+
+Serge Mong
+
+Mama Njouam
+
+Thomas Dumerchez
+
+Christine-Ange Tatah
+
+Suzanne Ayuck
+
+Daniel Tchangang _(José)_
+
+Lionnel Messi Inoussa
+
+Antoine Ndichut
+
+Wakeu Fogaing
+
+Denise Djuikom
+
+Marie-Françoise Wouogo
+
+Christian Bitang
+
+Justin Ambassa
+
+Bernard Yopa
+
+M. Ibrahim
+
+Catherine Matzi
+
+Madeleine Manipet
+
+Ebenezer Repombia
+
+ƒicha
+
+Armand Tamo
+
+La Petite Poupou Poutougnigni
+
+Junior Ndam,  Ousmane Djam,  Astrid Nganong,  André Penka,  Ferdinand Fondini,  Thierry Kondep,  William Touazong,  Ibrahim Moutala,  Nelson Tapio Bili,  Delphine Yenda,  Amadou Yaya,  Joël Yimeli,  Jafarou Abdou,  Aïcha Ndam,  Aoudou Foupa Aponini,  Rodrigue Fomata,  Abraham Walache,  Antoine Ndichut,  Etienne Njaourou,  Marsile Yene,  Dorothée Ngouem,  Basile Kamga,  Gervais Batcharon _(child soldiers)_
+
+Amadou Mfongoun,  Daïrou Michinawa,  Amadou Njoya,  Pierre Balla,  John Hakem,  Alain Douala,  Rafihou,  Emmanuel Fotie,  Menoudi,  Boniface Noyongoyo,  Arnaud Ndam,  Jacques Chirac,  Benjamin Kijike,  Omar Sanda,  Mbeyap Njuwou,
+
+Saïdou Yarou _(plantation workers)_
+
+Alexandre Souffo,  Maître Charlie,  Achille Ngwem,  Maître Mathias,  Abdel Cherif,  Chouaïbou _(bandits)_
+
+Germain Gnamsie Moumie,  Hugues Tchoumegne,  Elvis Petro,  Richard Rangou,  Nsangou Saidou,  Vincent Tantoh,  Lamaré Njikam,  Salifou Dongoua,  Cédric Attely,  Félix Fifen _(Cherif’s militia)_
+
+France-Cameroon 2009©
+
+106 mins
+
+Digital
+
+The screening on Wed 6 Dec will include an intro  
+by film curator Abiba Coulibaly
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUyMDE1MzM1NV19
+-->
