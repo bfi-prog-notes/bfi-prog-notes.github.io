@@ -20,182 +20,99 @@ However, like all her films, _White Material_ repays repeat viewings, and grows 
 <br><br>
 
 **WHITE MATERIAL**<br>
-
 _A film by:_ Claire Denis<br>
-
-©: Why Not Productions, Wild Bunch,  
-France 3 Cinéma<br>
-
-_Production Companies:_ Why Not Productions,  
-Wild Bunch, France 3 Cinéma<br>
-
-_With the participation of:_ Canal+,  
-France Télévisions, TPS Star,  
-Centre national de la cinématographie<br>
-
+©: Why Not Productions, Wild Bunch,  France 3 Cinéma<br>
+_Production Companies:_ Why Not Productions,  Wild Bunch, France 3 Cinéma<br>
+_With the participation of:_ Canal+,  France Télévisions, TPS Star,  Centre national de la cinématographie<br>
 _In association with:_ Les Films Terre Africaine, Cinémage 2, Sofica UGC 1<br>
-
 _With the support of:_ Procirep<br>
-
-_Production Executives:_ Martine Cassinelli,  
-Bassek Ba Kobhio<br>
-
+_Production Executives:_ Martine Cassinelli,  Bassek Ba Kobhio<br>
 _Production Managers:_ Albert Blasius, Isabelle Tillou<br>
-
 _Production Supervisor:_ Thibault Mattei<br>
-
 _Production Administration:_ Laurent Berthou<br>
-
 _Post-production Supervisor:_ Béatrice Mauduit<br>
-
 _1st Assistant Director:_ Jean-Paul Allègre<br>
-
-_2nd Assistant Directors:_ Anaïs Minet,  
-Gervais Djimeli Lepka<br>
-
+_2nd Assistant Directors:_ Anaïs Minet,  Gervais Djimeli Lepka<br>
 _2nd 2nd Assistant Director:_ Lucie Borleteau<br>
-
 _Script Supervisor:_ Zoé Zurstrassen<br>
-
-_Casting:_ Nicolas Lublin, Narcisse Mbarga,  
-Richard Rousseau, Antoine Carrard<br>
-
+_Casting:_ Nicolas Lublin, Narcisse Mbarga,  Richard Rousseau, Antoine Carrard<br>
 _Screenplay:_ Claire Denis, Marie N’Diaye<br>
-
 _Script Collaborator:_ Lucie Borleteau<br>
-
 _Director of Photography:_ Yves Cape<br>
-
 _Gaffer:_ Bruno Verstraete<br>
-
 _Key Grip:_ Stéphane Thiry<br>
-
 _Visual Effects:_ Éclair VFX<br>
-
-_Special Effects:_ Pierre-Olivier Persin,  
-Karen Fingerhut, Erwan Simon<br>
-
+_Special Effects:_ Pierre-Olivier Persin,  Karen Fingerhut, Erwan Simon<br>
 _Editor:_ Guy Lecorne<br>
-
 _Assistant Editor:_ Sandie Bompar<br>
-
 _Art Director:_ Alain Veissier<br>
-
 _Set Decorator:_ Saint-Père Abiassi<br>
-
 _Costume Designer:_ Judy Shrewsbury<br>
-
 _Make-up:_ Thi-Loan Nguyen, Danièle Vuarin<br>
-
 _Hair Stylist:_ Antonella Prestigiacomo<br>
-
 _Main Titles:_ Charlotte Bayle<br>
-
 _Colour Timers:_ Gérard Savary, Marine Lepoutre<br>
-
 _Negative Cutters:_ GTC, Jorg Dettman<br>
-
 _Original Music:_ tindersticks<br>
-
 _String Arrangements:_ Lucy Wilkins<br>
-
 _Sound Recordist:_ Jean-Paul Mugel<br>
-
 _Sound in Cameroon:_ Christophe Winding<br>
-
 _Re-recording Mixer:_ Christophe Vingtrinier<br>
-
-_Supervising Sound Editors:_ Christophe Winding,  
-Josefina Rodriguez<br>
-
+_Supervising Sound Editors:_ Christophe Winding,  Josefina Rodriguez<br>
 _Sound Editor:_ Sandie Bompar<br>
-
 _Armourers:_ Fred Cauvy, René Djikou<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Isabelle Huppert _(Maria Vial)_<br>
-
 Christophe Lambert _(André Vial)_<br>
-
 Nicolas Duvauchelle _(Manuel Vial)_<br>
-
 William Nadylam _(Chérif, the mayor)_<br>
-
 Michel Subor _(Henri Vial, the landlord)_<br>
-
 Isaach De Bankolé _(the Boxer)_<br>
-
 Adèle Ado _(Lucie, Andre’s wife)_<br>
-
 Ali Barkaï _(Jeep, leader of the rebel children)_<br>
-
 Jean-Marie Ahanda<br>
-
 Martin Poulibe<br>
-
 Patrice Eya<br>
-
 Serge Mong<br>
-
 Mama Njouam<br>
-
 Thomas Dumerchez<br>
-
 Christine-Ange Tatah<br>
-
 Suzanne Ayuck<br>
-
 Daniel Tchangang _(José)_<br>
-
 Lionnel Messi Inoussa<br>
-
 Antoine Ndichut<br>
-
 Wakeu Fogaing<br>
-
 Denise Djuikom<br>
-
 Marie-Françoise Wouogo<br>
-
 Christian Bitang<br>
-
 Justin Ambassa<br>
-
 Bernard Yopa<br>
-
 M. Ibrahim<br>
-
-Catherine Matzi
-
-Madeleine Manipet
-
-Ebenezer Repombia
-
-ƒicha
-
-Armand Tamo
-
-La Petite Poupou Poutougnigni
-
-Junior Ndam,  Ousmane Djam,  Astrid Nganong,  André Penka,  Ferdinand Fondini,  Thierry Kondep,  William Touazong,  Ibrahim Moutala,  Nelson Tapio Bili,  Delphine Yenda,  Amadou Yaya,  Joël Yimeli,  Jafarou Abdou,  Aïcha Ndam,  Aoudou Foupa Aponini,  Rodrigue Fomata,  Abraham Walache,  Antoine Ndichut,  Etienne Njaourou,  Marsile Yene,  Dorothée Ngouem,  Basile Kamga,  Gervais Batcharon _(child soldiers)_
-
+Catherine Matzi<br>
+Madeleine Manipet<br>
+Ebenezer Repombia<br>
+ƒicha<br>
+Armand Tamo<br>
+La Petite Poupou Poutougnigni<br>
+Junior Ndam,  Ousmane Djam,  Astrid Nganong,  André Penka,  Ferdinand Fondini,  Thierry Kondep,  William Touazong,  Ibrahim Moutala,  Nelson Tapio Bili,  Delphine Yenda,  Amadou Yaya,  Joël Yimeli,  Jafarou Abdou,  Aïcha Ndam,  Aoudou Foupa Aponini,  Rodrigue Fomata,  Abraham Walache,  Antoine Ndichut,  Etienne Njaourou,  Marsile Yene,  Dorothée Ngouem,  Basile Kamga,  Gervais Batcharon _(child soldiers)_<br>
 Amadou Mfongoun,  Daïrou Michinawa,  Amadou Njoya,  Pierre Balla,  John Hakem,  Alain Douala,  Rafihou,  Emmanuel Fotie,  Menoudi,  Boniface Noyongoyo,  Arnaud Ndam,  Jacques Chirac,  Benjamin Kijike,  Omar Sanda,  Mbeyap Njuwou,
 
-Saïdou Yarou _(plantation workers)_
+Saïdou Yarou _(plantation workers)_<br>
 
-Alexandre Souffo,  Maître Charlie,  Achille Ngwem,  Maître Mathias,  Abdel Cherif,  Chouaïbou _(bandits)_
+Alexandre Souffo,  Maître Charlie,  Achille Ngwem,  Maître Mathias,  Abdel Cherif,  Chouaïbou _(bandits)_<br>
 
-Germain Gnamsie Moumie,  Hugues Tchoumegne,  Elvis Petro,  Richard Rangou,  Nsangou Saidou,  Vincent Tantoh,  Lamaré Njikam,  Salifou Dongoua,  Cédric Attely,  Félix Fifen _(Cherif’s militia)_
+Germain Gnamsie Moumie,  Hugues Tchoumegne,  Elvis Petro,  Richard Rangou,  Nsangou Saidou,  Vincent Tantoh,  Lamaré Njikam,  Salifou Dongoua,  Cédric Attely,  Félix Fifen _(Cherif’s militia)_<br>
 
-France-Cameroon 2009©
+France-Cameroon 2009©<br>
 
-106 mins
+106 mins<br>
 
-Digital
+Digital<br>
 
 The screening on Wed 6 Dec will include an intro  
-by film curator Abiba Coulibaly
+by film curator Abiba Coulibaly<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDQ1NDc5N119
+eyJoaXN0b3J5IjpbODcyMTczMjgxXX0=
 -->
