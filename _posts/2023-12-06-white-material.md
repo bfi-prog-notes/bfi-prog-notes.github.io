@@ -1,4 +1,3 @@
-<![endif]-->
 
 Claire Denis’ films aspire to a crystalline purity. Even when packed with the stuff of social and political unrest – war, murder, racial tension, unemployment, refugees, families in crisis – they give the sense of having dropped, in the course of their elaboration, whatever ‘message’ they may have intended at the outset. What remains, in the end, is a cryptic diagram of bodies and desires, environments and landscapes, confrontations and evasions, things said and unsaid. At its best (_Beau Travail_, _Vendredi soir_, _35 Shots of Rum_), Denis’ cinema is compelling in its skeletal purity, beckoning viewers to enter the work and fill the gaps with their own imaginations.
 
@@ -10,165 +9,162 @@ Maria might seem to be a distant relative of Bette Davis in any number of 1930s 
 
 Curiously, the ultimate tone of the piece, at least on an intellectual plane, is closer to Richard Fleischer’s much-derided slavery epic _Mandingo_ (1975) than it is to most melodramas centred on plucky women; in a Denis diagram, typically, we watch all the figures flail around inside the contradictions of their personal and social positions. An emblematic character, in this respect, is Maria’s father-in-law Henri (Michel Subor), who, while representing the imperial patriarch taking up space in a foreign land, is an oddly passive, even benign presence (frequently seen near-naked) who speaks of Africa as the only true home he has ever known; indeed, all references to France in the film conjure it as some ghostly, unimaginable, lost point of origin for these ‘white materials’.
 
-Ultimately, Denis presents a ‘history of violence’ that has more in common with _Lord of the Flies_ (novel or films) or Philippe Grandrieux’s paroxysmic _La Vie nouvelle_ (2002) than with any Hollywood melodrama past or present. Here violence is a contagious, dehumanising force that sweeps everybody up in its psychotic madness, especially the troubled young Manuel (Nicolas Duvauchelle incarnating a character who in the 1990s would have been played for Denis by Grégoire Colin). At the symbolic centre of this maelstrom is the fascinating, mostly silent, largely inactive, brooding figure of the Boxer (Isaach De Bankolé), who – like Ben Gazzara in one of Denis’ favourite films, John Cassavetes’  
-_The Killing of a Chinese Bookie_ – seems to be virtually a dead man from the first moment we glimpse him, his life draining away. He is in the process of passing over into the realm of myth, as a similarly wounded Johnny Depp did in Jarmusch’s _Dead Man_.
+Ultimately, Denis presents a ‘history of violence’ that has more in common with _Lord of the Flies_ (novel or films) or Philippe Grandrieux’s paroxysmic _La Vie nouvelle_ (2002) than with any Hollywood melodrama past or present. Here violence is a contagious, dehumanising force that sweeps everybody up in its psychotic madness, especially the troubled young Manuel (Nicolas Duvauchelle incarnating a character who in the 1990s would have been played for Denis by Grégoire Colin). At the symbolic centre of this maelstrom is the fascinating, mostly silent, largely inactive, brooding figure of the Boxer (Isaach De Bankolé), who – like Ben Gazzara in one of Denis’ favourite films, John Cassavetes’  _The Killing of a Chinese Bookie_ – seems to be virtually a dead man from the first moment we glimpse him, his life draining away. He is in the process of passing over into the realm of myth, as a similarly wounded Johnny Depp did in Jarmusch’s _Dead Man_.
 
 Confident but somehow never completely satisfying, _White Material_ seems to suffer from a tension between its status as a star vehicle (though Huppert is superb) and Denis’ usual ensemble-driven proclivities. Some of the film’s most powerful scenes – such as Manuel’s brutalisation at the hands of two kids – come when the plot wanders away from Maria’s point-of-view; Denis’ relief at being able to stage her usual explorations off the linear track of the story is palpable. Yet these divagations never quite weave the sort of polyphony (in both image and sound) that – at its height (eg in _Beau Travail_) – brings Denis close in artistry to Terrence Malick; the fuller pattern that might have emerged from a freer treatment feels shrunken, truncated. An early scene is indicative of both the promise and the problems inherent in the project: Maria on a motorbike joins a long line of such movement images in Denis’ work, but the depiction of the character’s exhilaration (hands thrust in the air, wind in her face) tends to rather weary cliché.
 
 Although _White Material_ achieves the director’s trademark dreamy fluidity – coaxing even the worst sticklers for narrative clarity to go with the flow and ignore strict demarcations between past and present, reality and fantasy – its structure isn’t half as daring as, say, that of her 2004 film _The Intruder_ (_L’Intrus_), where the images created the narrative, rather than vice versa. Denis does employ the casual, even brutal form of exposition that suits her best: crucial information is conveyed on the fly, in glimpsed details (the survival kits strewn on the ground after a helicopter passes) or mysteriously brief, unanchored insertions of voiceover commentary (as when two unidentified locals discuss the white population).
 
-However, like all her films, _White Material_ repays repeat viewings, and grows with them. Not only do the more obscure or offhand pieces of the plot make more sense a second or third time around, but the already thick mood deepens and expands. Denis is a master of rhythm – here, an oceanic, slow throb that’s remarkably sustained over feature length – and of the fusion of image and music. Both in its overall structure and its incidental details, _White Material_ admirably conveys the vision of a society in disarray, flying apart at every seam. In Denis’ Africa, there really is no place like home.
+However, like all her films, _White Material_ repays repeat viewings, and grows with them. Not only do the more obscure or offhand pieces of the plot make more sense a second or third time around, but the already thick mood deepens and expands. Denis is a master of rhythm – here, an oceanic, slow throb that’s remarkably sustained over feature length – and of the fusion of image and music. Both in its overall structure and its incidental details, _White Material_ admirably conveys the vision of a society in disarray, flying apart at every seam. In Denis’ Africa, there really is no place like home.  
+**Adrian Martin, _Sight and Sound_, July 2010**
+<br><br>
 
-Adrian Martin, _Sight and Sound_, July 2010
+**WHITE MATERIAL**<br>
 
-<![endif]-->
-
-**WHITE MATERIAL**
-
-_A film by:_ Claire Denis
+_A film by:_ Claire Denis<br>
 
 ©: Why Not Productions, Wild Bunch,  
-France 3 Cinéma
+France 3 Cinéma<br>
 
 _Production Companies:_ Why Not Productions,  
-Wild Bunch, France 3 Cinéma
+Wild Bunch, France 3 Cinéma<br>
 
 _With the participation of:_ Canal+,  
 France Télévisions, TPS Star,  
-Centre national de la cinématographie
+Centre national de la cinématographie<br>
 
-_In association with:_ Les Films Terre Africaine, Cinémage 2, Sofica UGC 1
+_In association with:_ Les Films Terre Africaine, Cinémage 2, Sofica UGC 1<br>
 
-_With the support of:_ Procirep
+_With the support of:_ Procirep<br>
 
 _Production Executives:_ Martine Cassinelli,  
-Bassek Ba Kobhio
+Bassek Ba Kobhio<br>
 
-_Production Managers:_ Albert Blasius, Isabelle Tillou
+_Production Managers:_ Albert Blasius, Isabelle Tillou<br>
 
-_Production Supervisor:_ Thibault Mattei
+_Production Supervisor:_ Thibault Mattei<br>
 
-_Production Administration:_ Laurent Berthou
+_Production Administration:_ Laurent Berthou<br>
 
-_Post-production Supervisor:_ Béatrice Mauduit
+_Post-production Supervisor:_ Béatrice Mauduit<br>
 
-_1st Assistant Director:_ Jean-Paul Allègre
+_1st Assistant Director:_ Jean-Paul Allègre<br>
 
 _2nd Assistant Directors:_ Anaïs Minet,  
-Gervais Djimeli Lepka
+Gervais Djimeli Lepka<br>
 
-_2nd 2nd Assistant Director:_ Lucie Borleteau
+_2nd 2nd Assistant Director:_ Lucie Borleteau<br>
 
-_Script Supervisor:_ Zoé Zurstrassen
+_Script Supervisor:_ Zoé Zurstrassen<br>
 
 _Casting:_ Nicolas Lublin, Narcisse Mbarga,  
-Richard Rousseau, Antoine Carrard
+Richard Rousseau, Antoine Carrard<br>
 
-_Screenplay:_ Claire Denis, Marie N’Diaye
+_Screenplay:_ Claire Denis, Marie N’Diaye<br>
 
-_Script Collaborator:_ Lucie Borleteau
+_Script Collaborator:_ Lucie Borleteau<br>
 
-_Director of Photography:_ Yves Cape
+_Director of Photography:_ Yves Cape<br>
 
-_Gaffer:_ Bruno Verstraete
+_Gaffer:_ Bruno Verstraete<br>
 
-_Key Grip:_ Stéphane Thiry
+_Key Grip:_ Stéphane Thiry<br>
 
-_Visual Effects:_ Éclair VFX
+_Visual Effects:_ Éclair VFX<br>
 
 _Special Effects:_ Pierre-Olivier Persin,  
-Karen Fingerhut, Erwan Simon
+Karen Fingerhut, Erwan Simon<br>
 
-_Editor:_ Guy Lecorne
+_Editor:_ Guy Lecorne<br>
 
-_Assistant Editor:_ Sandie Bompar
+_Assistant Editor:_ Sandie Bompar<br>
 
-_Art Director:_ Alain Veissier
+_Art Director:_ Alain Veissier<br>
 
-_Set Decorator:_ Saint-Père Abiassi
+_Set Decorator:_ Saint-Père Abiassi<br>
 
-_Costume Designer:_ Judy Shrewsbury
+_Costume Designer:_ Judy Shrewsbury<br>
 
-_Make-up:_ Thi-Loan Nguyen, Danièle Vuarin
+_Make-up:_ Thi-Loan Nguyen, Danièle Vuarin<br>
 
-_Hair Stylist:_ Antonella Prestigiacomo
+_Hair Stylist:_ Antonella Prestigiacomo<br>
 
-_Main Titles:_ Charlotte Bayle
+_Main Titles:_ Charlotte Bayle<br>
 
-_Colour Timers:_ Gérard Savary, Marine Lepoutre
+_Colour Timers:_ Gérard Savary, Marine Lepoutre<br>
 
-_Negative Cutters:_ GTC, Jorg Dettman
+_Negative Cutters:_ GTC, Jorg Dettman<br>
 
-_Original Music:_ tindersticks
+_Original Music:_ tindersticks<br>
 
-_String Arrangements:_ Lucy Wilkins
+_String Arrangements:_ Lucy Wilkins<br>
 
-_Sound Recordist:_ Jean-Paul Mugel
+_Sound Recordist:_ Jean-Paul Mugel<br>
 
-_Sound in Cameroon:_ Christophe Winding
+_Sound in Cameroon:_ Christophe Winding<br>
 
-_Re-recording Mixer:_ Christophe Vingtrinier
+_Re-recording Mixer:_ Christophe Vingtrinier<br>
 
 _Supervising Sound Editors:_ Christophe Winding,  
-Josefina Rodriguez
+Josefina Rodriguez<br>
 
-_Sound Editor:_ Sandie Bompar
+_Sound Editor:_ Sandie Bompar<br>
 
-_Armourers:_ Fred Cauvy, René Djikou
+_Armourers:_ Fred Cauvy, René Djikou<br>
 
-_Cast:_
+_Cast:_<br>
 
-Isabelle Huppert _(Maria Vial)_
+Isabelle Huppert _(Maria Vial)_<br>
 
-Christophe Lambert _(André Vial)_
+Christophe Lambert _(André Vial)_<br>
 
-Nicolas Duvauchelle _(Manuel Vial)_
+Nicolas Duvauchelle _(Manuel Vial)_<br>
 
-William Nadylam _(Chérif, the mayor)_
+William Nadylam _(Chérif, the mayor)_<br>
 
-Michel Subor _(Henri Vial, the landlord)_
+Michel Subor _(Henri Vial, the landlord)_<br>
 
-Isaach De Bankolé _(the Boxer)_
+Isaach De Bankolé _(the Boxer)_<br>
 
-Adèle Ado _(Lucie, Andre’s wife)_
+Adèle Ado _(Lucie, Andre’s wife)_<br>
 
-Ali Barkaï _(Jeep, leader of the rebel children)_
+Ali Barkaï _(Jeep, leader of the rebel children)_<br>
 
-Jean-Marie Ahanda
+Jean-Marie Ahanda<br>
 
-Martin Poulibe
+Martin Poulibe<br>
 
-Patrice Eya
+Patrice Eya<br>
 
-Serge Mong
+Serge Mong<br>
 
-Mama Njouam
+Mama Njouam<br>
 
-Thomas Dumerchez
+Thomas Dumerchez<br>
 
-Christine-Ange Tatah
+Christine-Ange Tatah<br>
 
-Suzanne Ayuck
+Suzanne Ayuck<br>
 
-Daniel Tchangang _(José)_
+Daniel Tchangang _(José)_<br>
 
-Lionnel Messi Inoussa
+Lionnel Messi Inoussa<br>
 
-Antoine Ndichut
+Antoine Ndichut<br>
 
-Wakeu Fogaing
+Wakeu Fogaing<br>
 
-Denise Djuikom
+Denise Djuikom<br>
 
-Marie-Françoise Wouogo
+Marie-Françoise Wouogo<br>
 
-Christian Bitang
+Christian Bitang<br>
 
-Justin Ambassa
+Justin Ambassa<br>
 
-Bernard Yopa
+Bernard Yopa<br>
 
-M. Ibrahim
+M. Ibrahim<br>
 
 Catherine Matzi
 
@@ -201,5 +197,5 @@ Digital
 The screening on Wed 6 Dec will include an intro  
 by film curator Abiba Coulibaly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDE1MzM1NV19
+eyJoaXN0b3J5IjpbMTg1MDQ1NDc5N119
 -->
