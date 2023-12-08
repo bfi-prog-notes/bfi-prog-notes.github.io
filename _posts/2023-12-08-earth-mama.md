@@ -66,7 +66,7 @@ _Re-recording Mixer_: Per Boström
 _Supervising Stunt Coordinator/Consultant_:  Rocky Capella  
 _Stunt Co-ordinator_: Mike Martinez
 
-_Cast**
+**Cast**  
 Tia Nomore _(Gia)_  
 Erika Alexander _(Miss Carmen)_  
 Doechii _(Trina)_  
@@ -106,13 +106,12 @@ Autumn Mirassou _(doctor)_
 Vianca Turner _(radiology tech)_  
 Toni Johnson _(Miss Toni)_
 
-USA-UK 2023©
-
-101 mins
-
+USA-UK 2023©  
+101 mins  
 Digital
 
 Courtesy of We Are Parable
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2NTkxNTA3XX0=
+eyJoaXN0b3J5IjpbLTc1NDkwNTc4OF19
 -->
