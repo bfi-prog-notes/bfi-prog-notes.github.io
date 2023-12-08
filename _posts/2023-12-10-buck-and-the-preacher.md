@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: Buck and the Preacher
+published: true
+date: 2023-12-10
+readtime: true
+categories: ['HARRY BELAFONTE<br>MOVIES RACE DEFIANCE']
+tags: [Western]
+metadata: 'USA 1972, 102 mins<br> Director: Sidney Poitier'
+pdf: '2023-12-10-kansas-city.pdf'
+---
 
 Black American history is presented through the prism of a Western. Sidney Poitier’s directorial debut, in which he stars opposite Belafonte, tells the story of a wagon master and con-man pastor who join forces to transport African Americans to safety. Belafonte initiated this project and his rascally preacher steals the film. Subverting his matinee idol image, his rousing, high-spirited performance energises the ‘bro-chemistry’ of his relationship with Poitier’s morally upstanding yet fractious ally.
 
@@ -99,5 +106,5 @@ USA 1972
 102 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODU2NzU0MV19
+eyJoaXN0b3J5IjpbLTE3MzU1Njc4NzksLTgwODU2NzU0MV19
 -->
