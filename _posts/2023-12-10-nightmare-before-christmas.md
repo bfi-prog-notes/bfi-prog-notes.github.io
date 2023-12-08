@@ -1,8 +1,14 @@
-
-
-
-<![endif]-->
-
+---
+layout: post
+title: Tangerine
+published: true
+date: 2023-12-08
+readtime: true
+categories: ['CHRISTMAS FILMS']
+tags: [Drama,]
+metadata: 'USA 1993, 88 mins<br> Director: Sean Baker'
+pdf: '2023-12-08-tangerine.pdf'
+---
 **Director Henry Selick on ‘The Nightmare before Christmas’**
 
 _The film has been marketed as_ Tim Burton’s The Nightmare before Christmas_, but you’re the director. What do you think is distinctively yours about the film?_
@@ -44,6 +50,85 @@ _Did you break new ground technically with_ Nightmare _?_
 We took an old technique and did the highest-quality stop-motion that has ever been done for that many minutes. I think we moved stop-motion up to a high level of performance in timing, lighting and computer-aided camera moves.  
 We made it a serious contender rather than things that look like toys on a table top with two glaring lights.  
 **Interview by Leslie Felperin, _Sight and Sound_, December 1994**  
+<br>
+
+**TIM BURTON'S THE NIGHTMARE BEFORE CHRISTMAS**  
+_Director_: Henry Selick  
+©: Touchstone Pictures  
+_Production Company_: Burton/DiNovi  
+_Presented by_: Touchstone Pictures  
+_Producers_: Tim Burton, Denise Di Novi  
+_Co-producer_: Kathleen Gavin  
+_Associate Producers_: Danny Elfman, Philip Lofaro, Jill Jacobs, Diane Minter  
+_Stage Co-ordinator_: Alia Almeida Agha  
+_Stage Manager_: Robert Anderson  
+_Production Manager_: Philip Lofaro  
+_Production Co-ordinator_: George Young  
+_Production Co-ordinator (Art Dept)_: Jill Ruzicka  
+_Production Accountant_: Kevin Reher  
+_Post-production (Supervisor)_: Sara Duran  
+_Casting_: Mary Gail Artz, Barbara Cohen  
+_Casting (San Francisco)_:  
+Hayes & Van Horn Casting, Davia Nelson  
+_Screenplay_: Caroline Thompson  
+_Adaptation_: Michael McDowell  
+_Based on a story and characters by_: Tim Burton  
+_Director of Photography_: Pete Kozachik  
+_Camera Operators_: Jo Carson, Pat Sweeney,  
+Jim Aupperle, Ray Gilberti, Richard E. Lehmann, Eric Swenson, Dave Hanks, Selwyn Eddy III  
+_Stills Photography_: Richard Downing  
+_Visual Effects Supervisor_: Pete Kozachik  
+_Digital Effects Provided by_:  
+Walt Disney Feature Animation  
+_Model Shop Supervisor_: Mitch Romanauski  
+_Animation Supervisor_: Eric Leighton  
+_Editor_: Stan Webb  
+_Associate Editor_: Edie Ichioka  
+_Additional Editing_: Michael Kelly  
+_Consulting Editor_: Chris Lebenzon  
+_Visual Consultant_: Rick Heinrichs  
+_Artistic Co-ordinator_: Allison Abbate  
+_Art Director_: Deane Taylor  
+_Assistant Art Directors_: Kendal Cronkhite,  
+Kelly Adam Asbury, Bill Boes  
+_Set Designer/Dressing Supervisor_: Gregg Olsson  
+_Background Design_: B.J. Fredrickson  
+_Lead Scenic Artist_: B.J. Fredrickson  
+_Scenic Artists_: Linda Overbey, Jennifer Clinard, Peggy Hrastar, Loren Hillman  
+_Storyboard Supervisor_: Joe Ranft  
+_Sculptors_: Norm Decarlo, Shelley Daniels,  
+Greg Dykstra, Randal M. Dutra  
+_Titles_: Buena Vista Optical  
+_Music/Lyrics/Original Score_: Danny Elfman  
+_Song Conductor_: Chris Boardman  
+_Score Conductor_: J.A.C. Redford  
+_Vocal/Song Arrangements_: Steve Bartek  
+_Re-recording Mixers_: Terry Porter, Shawn Murphy, Greg P. Russell  
+_Dubbing Recordist_: Tim Webb, Tony Araki  
+_Supervising Sound Editors_: Richard L. Anderson, John Pospisil  
+
+**Voice Cast**  
+Danny Elfman _(Jack Skellington singing/clown with the tear away face/Barrel)_  
+Chris Sarandon _(Jack Skellington speaking)_  
+Catherine O’Hara _(Sally/Shock)_  
+William Hickey _(Evil Scientist)_  
+Glenn Shadix _(mayor)_  
+Paul Reubens _(Lock)_  
+Ken Page _(Oogie Boogie)_  
+Ed Ivory _(Santa)_  
+Susan McBride _(Big Witch, W.W.D.)_  
+Debi Durst _(corpse kid/corpse mom/small witch)_  
+Gregory Proops _(harlequin demon/devil/sax player)_  
+Kerry Katz _(man under stairs/vampire/corpse dad)_  
+Randy Crenshaw _(Mr Hyde/behemoth/vampire)_  
+Sherwood Ball _(mummy/vampire)_  
+Carmen Twillie _(undersea gal/man under stairs)_  
+Glenn Walters _(voice of wolfman)_  
+Doris Hess, Daamen Krall, Christina MacGregor, David McCharen, Gary Raff, David Randolph, Gary Schwartz  
+
+USA 1993©  
+76 mins  
+Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTQxMDE2NV19
+eyJoaXN0b3J5IjpbLTE1NjQ4NDk4NDYsLTMxMTQxMDE2NV19
 -->
