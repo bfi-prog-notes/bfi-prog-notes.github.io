@@ -5,9 +5,9 @@ published: true
 date: 2023-12-09
 readtime: true
 categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
-tags: [Comedy, Drama]
-metadata: 'UK 1935, 66 mins<br>UK 1936, 68 mins<br>Director: Michael Powell'
-pdf: '2023-12-02-lazybones.pdf'
+tags: [Crime, Drama]
+metadata: 'UK 1936, 65 mins<br>UK 1936, 55 mins<br>Director: Michael Powell'
+pdf: '2023-12-09-crown-v-stevens.pdf'
 ---
 
 _Crown v. Stevens_ was made by Michael Powell with an eye firmly set on the light at the end of the tunnel. In fact, _Crown_ proved to be his penultimate ‘quota’ film and the last of these that survives intact. His following assignment, _The Man Behind The Mask_ was released only three weeks after _Crown_, and it importantly served as an introduction to producer Joe Rock, who would fund Powell’s first truly ‘personal’ project, _The Edge of the World_ (1937).
@@ -23,5 +23,5 @@ The rich cinematography is by Basil Emmott and the screenplay is a typically pol
 Crucial for being the film that introduced Powell to _The Edge of the World_ producer Joe Rock, Powell’s final quota film was this bizarre thriller of masked balls, kidnapping and master criminals. It was long considered lost and listed on the BFI’s ‘Most Wanted’ list, but a 16mm print of a truncated version survived at the George Eastman Museum, and it is from that print that this new scan was taken.  
 **James Bell, bfi.org.uk**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxMDEzNjA3XX0=
+eyJoaXN0b3J5IjpbMTk4NzgyMDE0NV19
 -->
