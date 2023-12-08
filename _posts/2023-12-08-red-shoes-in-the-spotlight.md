@@ -10,9 +10,9 @@ metadata:
 pdf: '2023-12-08-red-shoes-in-the-spotlight.pdf'
 ---
 
-Join us to dive deeper into the breathtaking world of Powell and Pressburger’s Technicolor masterpiece. Pamela Hutchinson, author of the recently published BFI Film Classics book on _The Red Shoes_, will present an illustrated talk examining some of the elements that make the film so endlessly fascinating. She will then be joined by special guests to consider the film’s wide-reaching influence on cinema and other artistic forms.
+Join us to dive deeper into the breathtaking world of Powell and Pressburger’s Technicolor masterpiece. Pamela Hutchinson, author of the recently published BFI Film Classics book on _The Red Shoes_, will present an illustrated talk examining some of the elements that make the film so endlessly fascinating. She will then be joined by special guests to consider the film’s wide-reaching influence on cinema and other artistic forms.  
 
-**Speakers**
+**Speakers**  
 
 **Judith Mackrell**  has been writing about dance for over forty years. She was chief dance critic of _The Independent_ between 1986 and 1995 and of _The Guardian_ from 1995 to 2020. She has broadcast widely on the arts and is the author of four critically acclaimed biographies, _Bloomsbury Ballerina_, _Flappers_, _The Unfinished Palazzo_, and _Going with the Boys_, the stories of six women who were front line journalist in World War Two. Her books have been translated into several languages. In 1995 she was elected Honorary Fellow of Trinity Laban Conservatoire and in 2018 was awarded the inaugural One Dance UK award for Dance Writing.
 
@@ -26,5 +26,5 @@ Sally Potter co-founded her production company Adventure Pictures with producer 
 
 Host: **Pamela Hutchinson** is a freelance critic, curator and film historian. She writes for publications including _Sight and Sound_ and _The Guardian_ and regularly appears on BBC radio. Her publications include BFI Film Classics on _The Red Shoes_ and _Pandora’s Box_, as well as _30-Second Cinema_ and essays in several edited collections. She has curated film seasons on Marlene Dietrich and Asta Nielsen for BFI Southbank and a touring programme on Pre-Code cinema, with Christina Newland. She is a columnist for _Sight and Sound_ and edits the Weekly Film Bulletin. Her website SilentLondon.co.uk is devoted to silent cinema.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzMzE2ODgzXX0=
+eyJoaXN0b3J5IjpbLTE0MDQyMTQ3NjVdfQ==
 -->
