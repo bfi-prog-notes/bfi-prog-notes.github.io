@@ -1,6 +1,16 @@
+---
+layout: post
+title: Sofia Coppola in Conversation
+published: true
+date: 2023-12-09
+readtime: true
+categories: ['IN PERSON & PREVIEWS']
+tags: [Talks]
+metadata: 
+pdf: '2023-12-09-sofia-coppola-in-conversation.pdf'
+---
 
-From her feature debut _The Virgin Suicides_ through to latest film _Priscilla_,  
-Sofia Coppola has established herself as one of the most distinctive voices in American cinema, with a compelling exquisite style. Through atmospheric filmmaking, sumptuous dreamlike visuals, and her honest and genuine explorations of themes of human connections, girlhood and youth culture, the Academy Award-winning filmmaker has drawn us into a range of different intimate worlds across her filmography. In this Conversation event, Coppola will talk to Richard Curtis about her craft and impressive body of work so far.
+From her feature debut _The Virgin Suicides_ through to latest film _Priscilla_,  Sofia Coppola has established herself as one of the most distinctive voices in American cinema, with a compelling exquisite style. Through atmospheric filmmaking, sumptuous dreamlike visuals, and her honest and genuine explorations of themes of human connections, girlhood and youth culture, the Academy Award-winning filmmaker has drawn us into a range of different intimate worlds across her filmography. In this Conversation event, Coppola will talk to Richard Curtis about her craft and impressive body of work so far.
 
 **Sofia Coppola on the future of film**  
 _Does cinema need saving? If so, what is the one most important thing that should be done?_
@@ -17,8 +27,7 @@ Also that there are so many more women filmmakers working today than when I was 
 
 _If you could bring back one thing about the film culture of your youth, what would it be?_
 
-I love revival houses. They connect us to cinema. There are still a few in the States: we go to Film Forum at the Quad, and in LA, Quentin Tarantino has  
-the New Beverly. It was a tradition for us, but I feel like kids see everything online now.
+I love revival houses. They connect us to cinema. There are still a few in the States: we go to Film Forum at the Quad, and in LA, Quentin Tarantino has  the New Beverly. It was a tradition for us, but I feel like kids see everything online now.
 
 There’s this random movie _Year of the Jellyfish_ [Christopher Frank, 1984], which my husband [Thomas Mars] and his friends love. They showed it at the Quad and it was really fun to see it in the theatre. It has a Nina Hagen soundtrack and it’s set in Saint-Tropez in the 80s. It’s weird and I love it. Those are the kind of films you could stumble across.
 
@@ -70,6 +79,31 @@ All USA unless stated
 **Television**<br>
 **2015  A Very Murray Christmas** (TV film;  + exec prod/writer)<br>
 + <br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0Nzg3MzQ5Nl19
 -->
