@@ -57,28 +57,19 @@ Born New York City, NY, USA
 As Director | Selected filmography  
 All USA unless stated
 
-**Film**
+**Film**<br>
+**2023  Priscilla** (+ prod/writer)<br>
+**2020  On the Rocks** (+ prod/writer)<br>
+**2017  The Beguiled** (+ prod/writer)<br>
+**2013  The Bling Ring** (+ prod/writer)<br>
+**2010  Somewhere** (+ prod/writer)<br>
+**2006  Marie Antoinette** (+ prod/writer)<br>
+**2003  Lost in Translation** (+ prod/writer)<br>
+**1999  The Virgin Suicides** (+ writer)<br>
 
-**2023  Priscilla** (+ prod/writer)
-
-**2020  On the Rocks** (+ prod/writer)
-
-**2017  The Beguiled** (+ prod/writer)
-
-**2013  The Bling Ring** (+ prod/writer)
-
-**2010  Somewhere** (+ prod/writer)
-
-**2006  Marie Antoinette** (+ prod/writer)
-
-**2003  Lost in Translation** (+ prod/writer)
-
-**1999  The Virgin Suicides** (+ writer)
-
-**Television**
-
-**2015  A Very Murray Christmas** (TV film;  
-+ exec prod/writer)
+**Television**<br>
+**2015  A Very Murray Christmas** (TV film;  + exec prod/writer)<br>
++ <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjU5MjQ1N119
+eyJoaXN0b3J5IjpbLTE0Nzg3MzQ5Nl19
 -->
