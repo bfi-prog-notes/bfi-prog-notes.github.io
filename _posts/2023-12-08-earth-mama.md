@@ -1,3 +1,14 @@
+---
+layout: post
+title: Earth Mama
+published: true
+date: 2023-12-08
+readtime: true
+categories: ['NEW RELEASES']
+tags: [Drama]
+metadata: 'USA-UK 2023, 101 mins<br> Director: Savanah Leaf'
+pdf: '2023-12-08-earth-mama.pdf'
+---
 
 ‘I don’t need a gold star to tell me I’m a good mom!’ Gia (Tia Nomore) snaps at her case worker, showing her frustration as she struggles to meet the seemingly impossible court-mandated conditions to regain her two young children from foster care in San Francisco’s Bay Area. Heavily pregnant, and a recovering addict, Gia is the stubborn heart of writer/director Savanah Leaf’s intimate and piercing first feature, which builds on the real-life single mothers’ tales of _The Heart Still Hums_, the award-decorated 2020 documentary short Leaf co-directed with actress Taylor Russell.
 
@@ -112,6 +123,49 @@ Digital
 
 Courtesy of We Are Parable
 <br><br>
+
+**NEW RELEASES**<br>
+**The Eternal Daughter**<br>
+Continued from Fri 24 Nov<br>
+**Fallen Leaves (Kuolleet lehdet)**<br>
+From Fri 1 Dec<br>
+**Queendom**<br>
+From Fri 1 Dec<br>
+**Tish**<br>
+From Fri 15 Dec (Preview on Fri 1 Dec 18:00 + Q&A with director Paul Sng)<br>
+**Priscilla (preview screenings)**<br>
+Previews from Wed 27 Dec. Opens Fri 5 Jan<br>
+**The Boy and the Heron (Kimitachi wa do Ikiruka)**<br>
+From Wed 27 Dec<br>
+
+**RE-RELEASES**<br>
+**The Red Shoes**<br>
+From Fri 8 Dec<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTc1NDkwNTc4OF19
 -->
