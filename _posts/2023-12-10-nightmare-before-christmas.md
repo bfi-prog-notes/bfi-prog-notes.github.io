@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Tangerine
+title: Tim Burton's<br> The Nightmare before Christmas
 published: true
-date: 2023-12-08
+date: 2023-12-10
 readtime: true
 categories: ['CHRISTMAS FILMS']
-tags: [Drama,]
-metadata: 'USA 1993, 88 mins<br> Director: Sean Baker'
+tags: [Animation, Fantasy]
+metadata: 'USA 1993, 76 mins<br> Director: Sean Baker'
 pdf: '2023-12-08-tangerine.pdf'
 ---
 **Director Henry Selick on ‘The Nightmare before Christmas’**
@@ -130,5 +130,5 @@ USA 1993©
 76 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ4NDk4NDYsLTMxMTQxMDE2NV19
+eyJoaXN0b3J5IjpbLTE2MTk1MjY1OTMsLTMxMTQxMDE2NV19
 -->
