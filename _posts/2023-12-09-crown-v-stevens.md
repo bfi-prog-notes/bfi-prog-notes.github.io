@@ -22,6 +22,87 @@ The rich cinematography is by Basil Emmott and the screenplay is a typically pol
 **Behind the Mask**  
 Crucial for being the film that introduced Powell to _The Edge of the World_ producer Joe Rock, Powell’s final quota film was this bizarre thriller of masked balls, kidnapping and master criminals. It was long considered lost and listed on the BFI’s ‘Most Wanted’ list, but a 16mm print of a truncated version survived at the George Eastman Museum, and it is from that print that this new scan was taken.  
 **James Bell, bfi.org.uk**  
+<br>
+<![endif]-->
+
+**Behind the Mask (aka The Man behind the Mask)**
+
+_Director_: Michael Powell  
+_Production Company_: Joe Rock Productions  
+_Producer_: Joe Rock  
+_Production Manager_: Stanley Haynes  
+_Screen Adaptation_: Syd Courtenay, Jack Bird  
+_Screen Adaptation_: Stanley Haynes *  
+_Dialogue_: Ian Hay *  
+_Original Novel by_: Jacques Fitrelle  
+_Photography_: Ernest Palmer  
+_Camera_: Erwin Hillier  
+_Focus Puller_: Skeets Kelly *  
+_Clapper/Loader_: Geoff Bellhouse *  
+_Editor_: Sam Simmonds  
+_Art Director_: George Provis  
+_Art Director_: Andrew Mazzei *  
+_Music Director_: Cyril Ray  
+_Recording_: William H.O. Sweeney  
+
+**Cast**    
+Hugh Williams _(Nicholas ‘Nick’ Barclay)_  
+Jane Baxter _(June Slade)_  
+Donald Ward _(Jimmy Slade)_  
+Barbara Everest _(Lady Slade)_  
+George Merritt _(inspector Mallory)_  
+Henry Oscar _(chief of International Police Bureau)_  
+Reginald Tate _(Hayden)_  
+Kitty Kelly _(Miss Weeks)_  
+Donald Calthrop _(Dr H.E. Walpole)_  
+Ivor Barnard _(Hewitt)_  
+Hal Gordon _(sergeant)_  
+Syd Crossley _(postman)_  
+Maurice Schwartz _(Melchior)_  
+Peter Gawthorne _(Earl of Slade)_ *  
+Esma Cannon _(Emily, waitress)_ *  
+Wilfred Caithness _(butler)_ *  
+Moyna Vawser _(Nora)_ *  
+Cameron Hall  
+
+UK 1936  
+55 mins  
+Digital 4K  
+
+Remastering has been supported by Matt Spick and the Charles Skey Charitable Trust  
+
+**CROWN V. STEVENS**  
+_Directed by_: Michael Powell  
+_©/Produced by_: Warner Brothers First National Productions  
+_Presented by_: Warner Bros. Pictures Ltd.  
+_Executive Producer_: Irving Asher *  
+_Screen Play_: Brock Williams  
+_From the novel_ Third Time Unlucky _by_: Lawrence Meynell  
+_Photography_: Basil Emmott  
+_Editor_: A. Bates  
+_Art Direction_: Peter Proud  
+_Sound_: Leslie Murray, H.C. Pearson  
+_Sound System_: Western Electric  
+
+**Cast**  
+Beatrix Thomson _(Doris Stevens)_  
+Patric Knowles _(Chris Jansen)_  
+Glennis Lorimer _(Molly Hobbs)_  
+Reginald Purdell _(Alf)_  
+Allan Jeayes _(Inspector Carter)_  
+Frederick Piper _(Arthur Stevens)_  
+Googie Withers _(Ella Levine)_  
+Mabel Poulton _(Mamie)_  
+Morris Harvey _(Maurice Bayleck)_ *  
+Billy Watts _(Joe Andrews)_ *  
+Davina Craig _(Maggie the maid)_ *  
+Bernard Miles _(Police Detective Wells)_ *
+
+UK 1936  
+65 mins  
+Digital 4K  
+
+\* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzgyMDE0NV19
+eyJoaXN0b3J5IjpbLTQwMTYyOTE1OF19
 -->
