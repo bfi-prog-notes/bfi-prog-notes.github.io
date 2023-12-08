@@ -24,31 +24,23 @@ _You’ve said_ Earth Mama _is a mirror of your own experience in some ways, as 
 
 I feel like I’ve been prepping my whole life for this film. I was raised by a single mom, and I never knew my father growing up. And so there’s always this kind of question of: who is this parent that’s not raising you? And why aren’t they raising you?... And then when my sister was born, I was thinking about what her birth mother is going through and why she can’t raise her child. And so that question of a parent that can’t be there was always a curiosity of mine.
 
-_I understand you didn’t want to force emotion through your camera language in_ Earth Mama_ . Can you tell me a little more about that?_
+_I understand you didn’t want to force emotion through your camera language in_ Earth Mama _. Can you tell me a little more about that?_
 
 Something I feel sometimes with social dramas is that everyone knows that this is about to be a heavy film… the camera language is telling me it’s going to be a heavy film, and you should feel on edge right now. It’s forcing me into that emotion, even if the emotion is already there. And so what I tried to do with the camera was just allow you to feel that anxiety in stillness, and come up with your own feelings towards the characters, and not try to impose myself on those people.
 
 _You previously competed as a volleyball player in the 2012 Olympics. What was scarier – that, or premiering your film to an audience for the first time?_
 
-Definitely premiering the film. I mean, I was 18 playing in the Olympics. So there was a sense of fearlessness. Now, I feel like I’m more insecure, probably than I ever have been. But also… If you are a really good athlete, you might get some haters, but like, for the most part, people respect how good you are at playing that sport. Whereas art, you’re just out there ready to be criticised. And that’s terrifying.
+Definitely premiering the film. I mean, I was 18 playing in the Olympics. So there was a sense of fearlessness. Now, I feel like I’m more insecure, probably than I ever have been. But also… If you are a really good athlete, you might get some haters, but like, for the most part, people respect how good you are at playing that sport. Whereas art, you’re just out there ready to be criticised. And that’s terrifying.  
+**Interview by Katie McCabe, _Sight and Sound_, December 2023**
+<br><br>
 
-Interview by Katie McCabe, _Sight and Sound_, December 2023
-
-<![endif]-->
-
-**EARTH MAMA**
-
+**EARTH MAMA**  
 _Directed by_: Savanah Leaf  
-©: Earth Mama Rights LLC,  
-Channel Four Television Corporation  
+©: Earth Mama Rights LLC,  Channel Four Television Corporation  
 _An_ Academy Films/Park Pictures _production_  
 _Presented by_: A24, Film4  
-_Executive Producers_: James Wilson,  
-Jackie Kelman Bisbee, Lance Acord,  
-Simon Cooper, Christine D'Souza Gelb,  
-Cameron Washington, David Kimbangi, Ben Coren  
-_Produced by_: Cody Ryder, Shirley O’Connor,  
-Medb Riordan, Sam Bisbee, Savanah Leaf  
+_Executive Producers_: James Wilson,  Jackie Kelman Bisbee, Lance Acord, Simon Cooper, Christine D'Souza Gelb,  Cameron Washington, David Kimbangi, Ben Coren  
+_Produced by_: Cody Ryder, Shirley O’Connor,  Medb Riordan, Sam Bisbee, Savanah Leaf  
 _Co-producer_: Danielle Massie  
 _Unit Production Manager_: Chenney Chen  
 _Location Manager/Scout_: Rashod Edwards  
@@ -56,8 +48,7 @@ _Post Production Supervision by_: Post Hub
 _Post-production Supervisor_: Mark Steele  
 _1st Assistant Director_: Siena Brown  
 _Script Supervisor_: Virginia McCarthy  
-_Casting by_: Geraldine Barón, Abby Harri,  
-Salome Oggenfuss  
+_Casting by_: Geraldine Barón, Abby Harri,  Salome Oggenfuss  
 _Written by_: Savanah Leaf  
 _Based on the short film_ The Heart Still Hums _by_: Savanah Leaf, Taylor Russell  
 _Photographed by_: Jody Lee Lipes  
@@ -72,12 +63,10 @@ _Makeup Department Head_: Josie Rodriguez
 _Music by_: Kelsey Lu  
 _Production Sound Mixer_: Brian Copenhagen  
 _Re-recording Mixer_: Per Boström  
-_Supervising Stunt Coordinator/Consultant_:  
-Rocky Capella  
+_Supervising Stunt Coordinator/Consultant_:  Rocky Capella  
 _Stunt Co-ordinator_: Mike Martinez
 
-_Cast:_
-
+_Cast**
 Tia Nomore _(Gia)_  
 Erika Alexander _(Miss Carmen)_  
 Doechii _(Trina)_  
@@ -125,5 +114,5 @@ Digital
 
 Courtesy of We Are Parable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTAyNjI3OV19
+eyJoaXN0b3J5IjpbODE2NTkxNTA3XX0=
 -->
