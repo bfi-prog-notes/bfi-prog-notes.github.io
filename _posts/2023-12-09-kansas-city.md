@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Odds against Tomorrow
+title: Kansas City
 published: true
-date: 2023-12-02
+date: 2023-12-09
 readtime: true
 categories: ['HARRY BELAFONTE<br>MOVIES RACE DEFIANCE']
 tags: [Crime, Drama]
-metadata: 'USA 1959, 96 mins<br> Director: Robert Wise'
-pdf: '2023-12-02-odds-against-tomorrow.pdf'
+metadata: 'USA/1996, 115 mins<br> Director: Robert Altman'
+pdf: '2023-12-09-kansas-city.pdf'
 ---
-
 
 _+_ _intro by actor Miranda Richardson and season curator Burt Caesar (on Sunday 17 December only)_
 
@@ -21,8 +20,7 @@ As the loquacious underworld kingpin Seldom Seen, whose response to a robbery se
 **A contemporary review**  
 ‘Kansas City here I come!’ These are the words of Big Joe Turner’s classic rhythm and blues song ‘Going to Kansas City’, and it’s also the mission of filmmaking elder statesman Robert Altman in this homage to his hometown. Set in a colourful 30s world, in which the city is an oasis for the political party bosses, gangsters and jazz musicians who ran the show, _Kansas City_ is trademark Altman, a series of interconnected episodes all linked to one central theme: the uses and abuses of power.
 
-The film centres on the evolving relationship between two social opposites, telegraph operator Blondie O’Hara (Jennifer Jason Leigh) and her rich, laudanum-soaked hostage Carolyn Stilton (Miranda Richardson). They wander in and out of situations: the after-hours telegraph office at the railway station from which Blondie wires Carolyn’s politically powerful husband, a bar where vote-rigging is being organised by Blondie’s sister’s husband (Steve Buscemi), a home for unmarried African-American mothers, and a cinema featuring Blondie’s role-model Jean Harlow in _Hold Your Man_. But the main point to this journey – other than for the two women to discover they have a lot in common once they get past their surface antagonism – seems to be to spin out the suspense as to whether Blondie’s ploy will save her captive husband Johnny (Dermot Mulroney) from the vengeance of black gangster Seldom Seen  
-(Harry Belafonte).
+The film centres on the evolving relationship between two social opposites, telegraph operator Blondie O’Hara (Jennifer Jason Leigh) and her rich, laudanum-soaked hostage Carolyn Stilton (Miranda Richardson). They wander in and out of situations: the after-hours telegraph office at the railway station from which Blondie wires Carolyn’s politically powerful husband, a bar where vote-rigging is being organised by Blondie’s sister’s husband (Steve Buscemi), a home for unmarried African-American mothers, and a cinema featuring Blondie’s role-model Jean Harlow in _Hold Your Man_. But the main point to this journey – other than for the two women to discover they have a lot in common once they get past their surface antagonism – seems to be to spin out the suspense as to whether Blondie’s ploy will save her captive husband Johnny (Dermot Mulroney) from the vengeance of black gangster Seldom Seen (Harry Belafonte).
 
 Yet the mundanity of the Blondie-Carolyn relationship by contrast elevates our awareness of the film’s real virtue: its outstanding music. In 1934, _Kansas City_ was a conservatory for jazz, especially the big bands of Count Basie, Jay McShann, and Bennie Moten. From these groups come many of the figures who would later become jazz legends, including Lester Young, Coleman Hawkins and Charlie Parker (each of whom appears as a character in the film). It was the pervasive wide-open lawlessness of this town that supported the creative environment, and it is this larger environment that Altman’s film tries so hard to capture. Using many of today’s top young jazz musicians – Joshua Redman, Christian McBride, Nicholas Payton, Cyrus Chestnut – as some of the original jazz greats, the many musical scenes jump with a rhythm that leaves the rest of the film searching for a pulse. Because here, the multiple stories that Altman is so famous for weaving, are curiously uninvolving. In fact it would not be a calumny to say that _Kansas City_ seems like an elaborately constructed excuse for some great musical performances.
 
@@ -35,5 +33,5 @@ Seldom’s embrace of black political leader Marcus Garvey and his critique of t
 Out of the corrupt party politics of the Democratic bosses, the predictable self-indulgence of the wealthy liberals, and the blonde ambitions of O’Hara and her pathetic husband Johnny, fed by Hollywood, Altman weaves the tapestry of a city life that is long gone. But unlike _McCabe & Mrs. Miller_, _MASH_, or _Nashville_, Altman’s finest movies, _Kansas City_ never gathers its threads together. Nevertheless, Altman remains one of the few independent voices in a sea of repetitive Hollywood mediocrity. Films such as _Kansas City_ at least attempt to focus on real people rather than computer-generated fantasies. And besides, any film that uses jazz as it source – America’s highest art form – can never be given too much attention. For these things only, Altman and _Kansas City_ are to be praised.  
 **Todd Boyd, _Sight and Sound_, December 1996**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDY0NjExNV19
+eyJoaXN0b3J5IjpbLTEzMTYxMTc4OTldfQ==
 -->
