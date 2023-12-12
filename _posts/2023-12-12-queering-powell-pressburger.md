@@ -6,8 +6,8 @@ date: 2023-12-12
 readtime: true
 categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
 tags: [Talk]
-metadata: 'UK 1936, 65 mins<br>UK 1936, 55 mins<br>Director: Michael Powell'
-pdf: '2023-12-09-crown-v-stevens.pdf'
+metadata: 
+pdf: '2023-12-12-queering-powell-pressburger.pdf'
 ---
 A panel discussion exploring the special resonances Powell and Pressburger’s films have for queer cultures today. With the theatrical high style of _The Red Shoes_ and _The Tales of Hoffmann_, queer performers like Anton Walbrook, Eric Portman and Judith Furse, and a host of trembling same-sex relationships, straight desires rarely run smooth in these films, and a remarkably queer frisson is in the air.
 
@@ -100,5 +100,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTI0OTQ1MV19
+eyJoaXN0b3J5IjpbMTYwMTUzNzM2Nl19
 -->
