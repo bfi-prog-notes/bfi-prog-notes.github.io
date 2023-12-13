@@ -49,32 +49,22 @@ Lionel Barrymore _(Henry F. Potter)_<br>
 Thomas Mitchell _(Uncle Billy)_<br>
 Henry Travers _(Clarence)_<br>
 Beulah Bondi _(Mrs Bailey)_<br>
-
 Frank Faylen _(Ernie Bishop)_<br>
-
 Ward Bond _(Bert)_<br>
-
 Gloria Grahame _(Violet Bick)_<br>
-
 H.B. Warner _(Mr Gower)_<br>
-
 Frank Albertson _(Sam Wainwright)_<br>
-
 Todd Karns _(Harry Bailey)_<br>
-
 Samuel S. Hinds _(Pa Peter Bailey)_<br>
-
 Mary Treen _(Cousin Tilly)_<br>
 
 USA 1946<br>
-
 130 mins<br>
-
 Digital 4K<br>
 <br>
 
 _It’s a Wonderful Life_ (BFI Film Classics) by Michael Newton is available to order from the BFI Shop: **https://shop.bfi.org.uk/it-s-a-wonderful-life-bfi-film-classics-paperback.html**
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDY3NTAxMzldfQ==
+eyJoaXN0b3J5IjpbNjUxNDUyOTY5XX0=
 -->
