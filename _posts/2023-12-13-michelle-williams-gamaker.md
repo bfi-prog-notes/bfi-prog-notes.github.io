@@ -32,6 +32,65 @@ She is a Reader in BA Fine Art at Goldsmiths College, University of London, and 
 **Dr Kulraj Phullar** is a Film Studies scholar based in London. His areas of interest include classic Hollywood and film noir, British colonial and diasporic cinemas, and popular Indian cinemas.
 
 He has taught at several universities and film schools, and currently works at MetFilm School in Ealing and as a guest tutor on the Film Studies, Programming and Curating MA at the National Film and Television School.
+<br>
+<![endif]-->
+
+**House of Women**
+
+_Written and Directed by:_ Michelle Williams Gamaker
+
+_Story Consultant:_ Elan Gamaker
+
+_Producer:_ Josh Llewelyn
+
+_Cinematographer:_ Tom Wright
+
+_Editor:_ Michelle Williams Gamaker
+
+_Sound Recordist:_ Martin Clarke
+
+_Sound Designer:_ Sara Pinheiro
+
+_Cast:_
+
+Kelly Hunter _(anonymous reader)_
+
+Krishna Istha
+
+Jasdeep Kandola
+
+Tina Mander
+
+Arunima Rajkumar
+
+UK 2017
+
+14 mins
+
+**Oberon** 
+_Written and Directed by:_ Michelle Williams Gamaker  
+_Producer:_ Qila Gill, Marginalia Pictures  
+UK 2023  
+6 mins  
+
+**THIEVES**  
+_Written and Directed by:_ Michelle Williams Gamaker  
+_Story Consultant:_ Elan Gamaker  
+_Producer:_ Melanie Cura Daball  
+_Cinematographer:_ Tom Wright  
+_Editor:_ Elan Gamaker  
+_Original Music by_ Aaron Cupples  
+
+**Cast**  
+Charlotte Gallagher _(Lotta Woods)_  
+Mark Gillis _(Michael, the director)_  
+Krishna Istha _(Sabu)_  
+Ananya Jaidev _(the silver maiden)_  
+Catherine Lord _(the Sultan)_  
+Lucy May Orange _(the conductor)_  
+Dahong Wang _(Anna May Wong)_  
+UK 2023  
+28 mins  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxNTQyMzUwXX0=
+eyJoaXN0b3J5IjpbNjYzNzQxNDVdfQ==
 -->
