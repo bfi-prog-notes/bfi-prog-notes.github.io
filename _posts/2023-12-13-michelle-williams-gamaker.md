@@ -1,13 +1,21 @@
-
-<![endif]-->
+---
+layout: post
+title: Michelle Williams Gamaker<br> and Powell + Pressburger
+published: true
+date: 2023-12-13
+readtime: true
+categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
+tags: [Talk]
+metadata: 
+pdf: '2023-12-13-michelle-williams-gamaker.pdf'
+---
 
 _+ Michelle Williams Gamaker in conversation with Dr Kulraj Phullar_
 
 Michelle Williams Gamaker’s stunning, beautifully-staged films trouble the too often overlooked political dynamics trapped in classic cinema. Calling her work ‘fictional activism’, she imagines alternative scenarios where marginalised brown characters take control of the films in which they appear, reformulating narratives and disturbing received histories. _House of Women_ (2017) drastically reimagines casting sessions for Kanchi in _Black Narcissus_ in a deliberately dissonant, modern setting. _Thieves_ (2023) meanwhile sees rebellious Sabu and Anna May Wong turn the tables on Michael Powell and his crew, during the making of _The Thief of Baghdad_, with electrifying results.
 
-We are delighted to also welcome Williams Gamaker to discuss her work, the issues it raises, and her interests in Powell and Pressburger, with Dr Kulraj Phullar.
-
-William Fowler, bfi.org.uk
+We are delighted to also welcome Williams Gamaker to discuss her work, the issues it raises, and her interests in Powell and Pressburger, with Dr Kulraj Phullar.  
+**William Fowler, bfi.org.uk**
 
 **Michelle Williams Gamaker** is an artist filmmaker. Since 2014, she has been developing Fictional Activism: the restoration of marginalised film stars of colour as central figures, who return in her works as brown protagonists to challenge the fictional injustices to which they have been historically consigned.
 
@@ -25,5 +33,5 @@ She is a Reader in BA Fine Art at Goldsmiths College, University of London, and 
 
 He has taught at several universities and film schools, and currently works at MetFilm School in Ealing and as a guest tutor on the Film Studies, Programming and Curating MA at the National Film and Television School.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTY0MjM0NF19
+eyJoaXN0b3J5IjpbMzQxNTQyMzUwXX0=
 -->
