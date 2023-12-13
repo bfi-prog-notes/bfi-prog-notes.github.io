@@ -19,99 +19,98 @@ And what material it has to frame: backdropped by pungent electronic skies, surr
 
 And not that you’d ever want to, but if you shut your eyes, the score – the first from experimental musician Jerskin Fendrix – tells the story all on its own. Scraping, naive single instruments initially struggle to stay in tune, before combining into a swelling, symphonic whole at the end, mapping onto Bella’s rapid-order experience of: kippers (disgusting), masturbation, manners, fucking (aka furious jumping), Portuguese custard tarts, dancing, oysters, reading, booze, class injustice, companionship, socialism, cruelty, kippers (delicious), forgiveness, grief, ambition and revenge – the best kind, the kind kind, the life-lived-well kind.
 
-Wedderburn and Godwin are very different men, and they love Bella in very different ways, but they share a desire to keep her dependent and childlike, full of potential that will never be realised except on terms they dictate and control. But Bella has other ideas, even when she barely knows what an idea is or how to have one, and bursts out of their cages the way _Poor Things_ bursts out of the screen: with ravenous, ravishing, furious-jumping joy.
+Wedderburn and Godwin are very different men, and they love Bella in very different ways, but they share a desire to keep her dependent and childlike, full of potential that will never be realised except on terms they dictate and control. But Bella has other ideas, even when she barely knows what an idea is or how to have one, and bursts out of their cages the way _Poor Things_ bursts out of the screen: with ravenous, ravishing, furious-jumping joy.  
+**Jessica Kiang, _Sight and Sound_, Winter 2023-24**
+<br><br>
 
-Jessica Kiang, _Sight and Sound_, Winter 2023-24
+**POOR THINGS**<br>
 
-<![endif]-->
-
-**POOR THINGS**
-
-_Directed by:_ Yorgos Lanthimos
+_Directed by:_ Yorgos Lanthimos<br>
 
 ©: 20th Century Studios,  
-TSG Entertainment Finance LLC
+TSG Entertainment Finance LLC<br>
 
-_Production Company:_ Element Pictures
+_Production Company:_ Element Pictures<br>
 
-_Presented by:_ Searchlight Pictures
+_Presented by:_ Searchlight Pictures<br>
 
-_In association with:_ Film4, TSG Entertainment
+_In association with:_ Film4, TSG Entertainment<br>
 
-_Produced in association with:_ Limp, Fruit Tree
+_Produced in association with:_ Limp, Fruit Tree<br>
 
-_Produced with the support of_: The British Film Commission, UK Government Film Tax Relief
+_Produced with the support of_: The British Film Commission, UK Government Film Tax Relief<br>
 
-_Executive Producers:_ Ollie Madden, Daniel Battsek
+_Executive Producers:_ Ollie Madden, Daniel Battsek<br>
 
 _Produced by:_ Ed Guiney, Andrew Lowe,  
-Yorgos Lanthimos, Emma Stone
+Yorgos Lanthimos, Emma Stone<br>
 
 _Co-producers:_ Kasia Malipan, Ildikó Kemény,  
-David Minkowski
+David Minkowski<br>
 
-_Line Producer:_ Mónika Nagy
+_Line Producer:_ Mónika Nagy<br>
 
-_Financial Controller:_ Nikki Chamberlin
+_Financial Controller:_ Nikki Chamberlin<br>
 
-_Post-production Supervisor:_ Deborah Harding
+_Post-production Supervisor:_ Deborah Harding<br>
 
-_Casting by:_ Dixie Chassay
+_Casting by:_ Dixie Chassay<br>
 
-_1st Assistant Director:_ Hayley Williams
+_1st Assistant Director:_ Hayley Williams<br>
 
-_2nd Assistant Director:_ Edoardo Petti
+_2nd Assistant Director:_ Edoardo Petti<br>
 
-_Screenplay by:_ Tony McNamara
+_Screenplay by:_ Tony McNamara<br>
 
-_Based upon the novel by:_ Alasdair Gray
+_Based upon the novel by:_ Alasdair Gray<br>
 
-_Director of Photography:_ Robbie Ryan
+_Director of Photography:_ Robbie Ryan<br>
 
-_Editor:_ Yorgos Mavropsaridis
+_Editor:_ Yorgos Mavropsaridis<br>
 
-_Production Design:_ James Price, Shona Heath
+_Production Design:_ James Price, Shona Heath<br>
 
-_Set Decorator:_ Zsuzsa Mihalek
+_Set Decorator:_ Zsuzsa Mihalek<br>
 
-_Costume Designer:_ Holly Waddington
+_Costume Designer:_ Holly Waddington<br>
 
 _Hair, Make-up & Prosthetics Designer:  
-_Nadia Stacey
+_Nadia Stacey<br>
 
-_Music by:_ Jerskin Fendrix
+_Music by:_ Jerskin Fendrix<br>
 
-_Sound Designer:_ Johnnie Burn
+_Sound Designer:_ Johnnie Burn<br>
 
-_Cast:_
+_Cast:_<br>
 
-Emma Stone _(Bella Baxter)_
+Emma Stone _(Bella Baxter)_<br>
 
-Mark Ruffalo _(Duncan Wedderburn)_
+Mark Ruffalo _(Duncan Wedderburn)_<br>
 
-Willem Dafoe _(Godwin Baxter)_
+Willem Dafoe _(Godwin Baxter)_<br>
 
-Ramy Youssef _(Max McCandless)_
+Ramy Youssef _(Max McCandless)_<br>
 
-Christopher Abbot _(Alfie Blessington)_
+Christopher Abbot _(Alfie Blessington)_<br>
 
-Suzy Bemba _(Toinette)_
+Suzy Bemba _(Toinette)_<br>
 
-Jerrod Carmichael _(Harry Astley)_
+Jerrod Carmichael _(Harry Astley)_<br>
 
-Kathryn Hunter _(Swiney)_
+Kathryn Hunter _(Swiney)_<br>
 
-Vicki Pepperdine _(Mrs Prim)_
+Vicki Pepperdine _(Mrs Prim)_<br>
 
-Margaret Qualley _(Felicity)_
+Margaret Qualley _(Felicity)_<br>
 
-Hanna Schygulla _(Martha Von Kurtzroc)_
+Hanna Schygulla _(Martha Von Kurtzroc)_<br>
 
-Ireland-UK-USA 2023
+Ireland-UK-USA 2023<br>
 
-141 mins
+141 mins<br>
 
-Courtesy of Searchlight Pictures
+Courtesy of Searchlight Pictures<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzAxOTgxNV19
+eyJoaXN0b3J5IjpbNDg0NTQ2NjYwXX0=
 -->
