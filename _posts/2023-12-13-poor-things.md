@@ -24,93 +24,51 @@ Wedderburn and Godwin are very different men, and they love Bella in very differ
 <br><br>
 
 **POOR THINGS**<br>
-
 _Directed by:_ Yorgos Lanthimos<br>
-
-©: 20th Century Studios,  
-TSG Entertainment Finance LLC<br>
-
+©: 20th Century Studios,  TSG Entertainment Finance LLC<br>
 _Production Company:_ Element Pictures<br>
-
 _Presented by:_ Searchlight Pictures<br>
-
 _In association with:_ Film4, TSG Entertainment<br>
-
 _Produced in association with:_ Limp, Fruit Tree<br>
-
 _Produced with the support of_: The British Film Commission, UK Government Film Tax Relief<br>
-
 _Executive Producers:_ Ollie Madden, Daniel Battsek<br>
-
-_Produced by:_ Ed Guiney, Andrew Lowe,  
-Yorgos Lanthimos, Emma Stone<br>
-
-_Co-producers:_ Kasia Malipan, Ildikó Kemény,  
-David Minkowski<br>
-
+_Produced by:_ Ed Guiney, Andrew Lowe,  Yorgos Lanthimos, Emma Stone<br>
+_Co-producers:_ Kasia Malipan, Ildikó Kemény, David Minkowski<br>
 _Line Producer:_ Mónika Nagy<br>
-
 _Financial Controller:_ Nikki Chamberlin<br>
-
 _Post-production Supervisor:_ Deborah Harding<br>
-
 _Casting by:_ Dixie Chassay<br>
-
 _1st Assistant Director:_ Hayley Williams<br>
-
 _2nd Assistant Director:_ Edoardo Petti<br>
-
 _Screenplay by:_ Tony McNamara<br>
-
 _Based upon the novel by:_ Alasdair Gray<br>
-
 _Director of Photography:_ Robbie Ryan<br>
-
 _Editor:_ Yorgos Mavropsaridis<br>
-
 _Production Design:_ James Price, Shona Heath<br>
-
 _Set Decorator:_ Zsuzsa Mihalek<br>
-
 _Costume Designer:_ Holly Waddington<br>
-
-_Hair, Make-up & Prosthetics Designer:  
-_Nadia Stacey<br>
-
+_Hair, Make-up & Prosthetics Designer:_ Nadia Stacey<br>
 _Music by:_ Jerskin Fendrix<br>
-
 _Sound Designer:_ Johnnie Burn<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Emma Stone _(Bella Baxter)_<br>
-
 Mark Ruffalo _(Duncan Wedderburn)_<br>
-
 Willem Dafoe _(Godwin Baxter)_<br>
-
 Ramy Youssef _(Max McCandless)_<br>
-
 Christopher Abbot _(Alfie Blessington)_<br>
-
 Suzy Bemba _(Toinette)_<br>
-
 Jerrod Carmichael _(Harry Astley)_<br>
-
 Kathryn Hunter _(Swiney)_<br>
-
 Vicki Pepperdine _(Mrs Prim)_<br>
-
 Margaret Qualley _(Felicity)_<br>
-
 Hanna Schygulla _(Martha Von Kurtzroc)_<br>
 
 Ireland-UK-USA 2023<br>
-
 141 mins<br>
 
 Courtesy of Searchlight Pictures<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0NTQ2NjYwXX0=
+eyJoaXN0b3J5IjpbMTE4NjIxNTA5NF19
 -->
