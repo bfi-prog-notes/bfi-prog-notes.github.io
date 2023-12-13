@@ -16,98 +16,96 @@ Stern posted one of his ‘Christmas cards’ to his Hollywood agent, Shirley Co
 
 That Christmas of 1943, the Story Department at Paramount Pictures put a copy of Van Doren Stern’s story into circulation. Above the title, ‘The Greatest Gift’, at some point, in brackets, someone scrawled ‘It’s a Wonderful Life’.  On 26 February 1944, Ray Spencer at Paramount wrote out a synopsis of Stern’s story, designating it as ‘Drama; Fantasy’, and the period it was set in as the ‘Present’. Spencer judged it to be a ‘very charming short story’, but one that would work best in an ‘episodic picture like the _Tales of Manhattan_.  
 But whether it should be made the basis of a full-length screenplay is a  moot question.’  
-Extracted from _It’s a Wonderful Life_ by Michael Newton (BFI Film Classics, 2023).  
-Reproduced by kind permission of Bloomsbury Publishing. ©Michael Newton
+**Extracted from _It’s a Wonderful Life_ by Michael Newton (BFI Film Classics, 2023).  
+Reproduced by kind permission of Bloomsbury Publishing. ©Michael Newton**
+<br><br>
 
-<![endif]-->
+**IT’S A WONDERFUL LIFE**<br>
 
-**IT’S A WONDERFUL LIFE**
+_Directed by:_ Frank Capra<br>
 
-_Directed by:_ Frank Capra
+_©/Presented by:_ Liberty Films<br>
 
-_©/Presented by:_ Liberty Films
+_Produced by:_ Frank Capra<br>
 
-_Produced by:_ Frank Capra
+_Assistant Director:_ Arthur S. Black<br>
 
-_Assistant Director:_ Arthur S. Black
+_Screen Play by:_ Frances Goodrich, Albert Hackett, Frank Capra<br>
 
-_Screen Play by:_ Frances Goodrich, Albert Hackett, Frank Capra
-
-_Additional Scenes by:_ Jo Swerling
+_Additional Scenes by:_ Jo Swerling<br>
 
 _Based on the story ‘The Greatest Gift’ by:_
 
-Philip Van Doren Stern
+Philip Van Doren Stern<br>
 
 _Directors of Photography:_ Joseph Walker,
 
-Joseph Biroc
+Joseph Biroc<br>
 
-_Special Photographic Effects:_ Russell A. Cully
+_Special Photographic Effects:_ Russell A. Cully<br>
 
-_Film Editor:_ William Hornbeck
+_Film Editor:_ William Hornbeck<br>
 
-_Art Director:_ Jack Okey
+_Art Director:_ Jack Okey<br>
 
-_Set Decorations:_ Emile Kuri
+_Set Decorations:_ Emile Kuri<br>
 
-_Costumes by:_ Edward Stevenson
+_Costumes by:_ Edward Stevenson<br>
 
-_Make-up Supervision:_ Gordon Bau
+_Make-up Supervision:_ Gordon Bau<br>
 
 _Musical Score Written and Directed by:_
 
-Dimitri Tiomkin
+Dimitri Tiomkin<br>
 
-_Sound by:_ Richard Van Hessen, Clem Portman
+_Sound by:_ Richard Van Hessen, Clem Portman<br>
 
-_uncredited_
+_uncredited_<br>
 
-_Contributor to Screenplay:_ Michael Wilson
+_Contributor to Screenplay:_ Michael Wilson<br>
 
-_Director of Photography:_ Victor Milner
+_Director of Photography:_ Victor Milner<br>
 
-_Cast:_
+_Cast:_<br>
 
-James Stewart _(George Bailey)_
+James Stewart _(George Bailey)_<br>
 
-Donna Reed _(Mary Hatch)_
+Donna Reed _(Mary Hatch)_<br>
 
-Lionel Barrymore _(Henry F. Potter)_
+Lionel Barrymore _(Henry F. Potter)_<br>
 
-Thomas Mitchell _(Uncle Billy)_
+Thomas Mitchell _(Uncle Billy)_<br>
 
-Henry Travers _(Clarence)_
+Henry Travers _(Clarence)_<br>
 
-Beulah Bondi _(Mrs Bailey)_
+Beulah Bondi _(Mrs Bailey)_<br>
 
-Frank Faylen _(Ernie Bishop)_
+Frank Faylen _(Ernie Bishop)_<br>
 
-Ward Bond _(Bert)_
+Ward Bond _(Bert)_<br>
 
-Gloria Grahame _(Violet Bick)_
+Gloria Grahame _(Violet Bick)_<br>
 
-H.B. Warner _(Mr Gower)_
+H.B. Warner _(Mr Gower)_<br>
 
-Frank Albertson _(Sam Wainwright)_
+Frank Albertson _(Sam Wainwright)_<br>
 
-Todd Karns _(Harry Bailey)_
+Todd Karns _(Harry Bailey)_<br>
 
-Samuel S. Hinds _(Pa Peter Bailey)_
+Samuel S. Hinds _(Pa Peter Bailey)_<br>
 
-Mary Treen _(Cousin Tilly)_
+Mary Treen _(Cousin Tilly)_<br>
 
-USA 1946
+USA 1946<br>
 
-130 mins
+130 mins<br>
 
-Digital 4K
-
-<![endif]-->
+Digital 4K<br>
+<br>
 
 _It’s a Wonderful Life_ (BFI Film Classics) by  
 Michael Newton is available to order from the  
 BFI Shop: **https://shop.bfi.org.uk/it-s-a-wonderful-life-bfi-film-classics-paperback.html**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjM2NDkwOV19
+eyJoaXN0b3J5IjpbLTE0NzE1MDEzMDNdfQ==
 -->
