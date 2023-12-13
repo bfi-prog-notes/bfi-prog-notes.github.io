@@ -66,9 +66,10 @@ Hanna Schygulla _(Martha Von Kurtzroc)_<br>
 
 Ireland-UK-USA 2023<br>
 141 mins<br>
+Digital
 
 Courtesy of Searchlight Pictures<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjIxNTA5NF19
+eyJoaXN0b3J5IjpbLTE1NDQ0OTEzNTZdfQ==
 -->
