@@ -51,38 +51,23 @@ Digital
 <br><br>
 
 **JOURNEY INTO THE UNKNOWN: THE FILMS OF WERNER HERZOG**<br>
-
 **Signs of Life** Lebenszeichen<br>
-
 Mon 1 Jan 12:30; Sat 13 Jan 15:00<br>
-
 **Fata Morgana + The Great Ecstasy of Woodcarver Steiner** Die große Ekstase des Bildschnitzers Steiner<br>
-
 Mon 1 Jan 18:00; Wed 17 Jan 20:30<br>
-
 **Even Dwarfs Started Small**  
 Auch Zwerge haben klein angefangen<br>
-
 Tue 2 Jan 18:15; Mon 15 Jan 20:45<br>
-
 **La Soufrière** Warten auf eine Unausweichliche Katastrophe + **Lessons of Darkness**  
 Lektionen in Finsternis<br>
-
 Wed 3 Jan 18:20; Tue 16 Jan 20:40 (+ intro by writer Ian Haydn Smith)<br>
-
 **Heart of Glass** Herz aus Glas<br>
-
 Thu 4 Jan 18:30; Fri 19 Jan 20:40<br>
-
 **Land of Silence and Darkness**  
 Land des Schweigens und der Dunkelheit<br>
-
 Thu 4 Jan 20:50; Wed 10 Jan 20:45; Wed 17 Jan 18:15 (+ BSL intro by deaf filmmaker Sam Arnold)<br>
-
 **Aguirre, Wrath of God** Aguirre, der Zorn Gottes<br>
-
-Sat 6 Jan 15:15; Sun 14 Jan 11:40;  
-Tue 23 Jan 18:30<br>
+Sat 6 Jan 15:15; Sun 14 Jan 11:40;  Tue 23 Jan 18:30<br>
 
 **My Best Fiend** Mein liebster Feind – Klaus Kinski<br>
 
@@ -99,44 +84,47 @@ Thu 18 Jan 17:50<br>
 
 **Stroszek**<br>
 
-Mon 8 Jan 18:20; Sat 20 Jan 20:40
+Mon 8 Jan 18:20; Sat 20 Jan 20:40<br>
 
 **Werner Herzog’s Tales of Life and Death:  
-An Illustrated Talk**
+An Illustrated Talk**<br>
 
-Wed 10 Jan 18:30
+Wed 10 Jan 18:30<br>
 
 **Nosferatu the Vampyre**  
-Nosferatu: Phantom der Nacht
+Nosferatu: Phantom der Nacht<br>
 
 Fri 12 Jan 18:10; Wed 24 Jan 20:50;  
-Sat 27 Jan 15:00
+Sat 27 Jan 15:00<br>
 
-**Grizzly Man**
+**Grizzly Man**<br>
 
 Fri 12 Jan 20:45; Sun 14 Jan 18:15;  
-Mon 29 Jan 18:15
+Mon 29 Jan 18:15<br>
 
 **Echoes from a Sombre Empire**  
-Echos aus einem düsteren Reich
+Echos aus einem düsteren Reich<br>
 
-Sat 13 Jan 14:10; Tue 30 Jan 20:30
+Sat 13 Jan 14:10; Tue 30 Jan 20:30<br>
 
-**Woyzeck**
+**Woyzeck**<br>
 
-Sat 13 Jan 18:20; Sun 28 Jan 12:30
+Sat 13 Jan 18:20; Sun 28 Jan 12:30<br>
 
-**The Fire Within: A Requiem for Katia and Maurice Krafft**
+**The Fire Within: A Requiem for Katia and Maurice Krafft**<br>
 
-Fri 19 Jan 18:30; Wed 31 Jan 20:50
+Fri 19 Jan 18:30; Wed 31 Jan 20:50<br>
 
-**The White Diamond**
+**The White Diamond**<br>
 
-Sun 21 Jan 18:20; Fri 26 Jan 18:30
+Sun 21 Jan 18:20; Fri 26 Jan 18:30<br>
 
-**Into the Abyss – A Tale of Death, a Tale of Life**
+**Into the Abyss – A Tale of Death, a Tale of Life**<br>
 
-Fri 26 Jan 20:45; Sun 28 Jan 15:10
+Fri 26 Jan 20:45; Sun 28 Jan 15:10<br>
+<br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDUyNjEyMjBdfQ==
+eyJoaXN0b3J5IjpbMTc2NjU1ODc0MF19
 -->
