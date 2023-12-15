@@ -37,77 +37,47 @@ There’s a lot of character animation in this film, but my favourite scene is w
 <br><br>
 
 **THE BOY AND THE HERON (KIMITACHI WA DO IKIRUKA)**<br>
-
 _Director:_ Hayao Miyazaki<br>
-
 _Production Company:_ Studio Ghibli<br>
-
 _Producer:_ Toshio Suzuki<br>
-
 _Screenplay:_ Hayao Miyazaki<br>
-
 _Original Score:_ Joe Hisaishi<br>
 
 _Japanese Cast:_<br>
-
 Soma Santoki _(Mahito Maki)_<br>
-
 Masaki Suda _(Grey Heron)_<br>
-
 Ko Shibasaki _(Kiriko)_<br>
-
 AIMYON _(Lady Himi)_<br>
-
 Yoshino Kimura _(Natsuko)_<br>
-
 Takuya Kimura _(Shoichi Maki)_<br>
-
 Keiko Takeshita _(Izumi)_<br>
-
 Jun Fubuki _(Utako)_<br>
-
 Sawako Agawa _(Eriko)_<br>
-
 Karen Takizawa _(Warawara)_<br>
-
 Shinobu Otake _(Aiko)_<br>
-
 Jun Kunimura _(The Parakeet King)_<br>
-
 Kaoru Kobayashi _(Noble Pelican)_<br>
-
 Shohei Hino _(grand-uncle)_<br>
 
 _English Cast:_<br>
-
 Christian Bale _(Shoichi Maki)_<br>
-
 Dave Bautista _(The Parakeet King)_<br>
-
 Gemma Chan _(Natsuko)_<br>
-
 Willem Dafoe _(Noble Pelican)_<br>
-
 Karen Fukuhara _(Lady Himi)_<br>
-
 Mark Hamill _(grand-uncle)_<br>
-
 Robert Pattinson _(Grey Heron)_<br>
-
 Florence Pugh _(Kiriko)_<br>
-
 Luca Padovan _(Mahito Maki)_<br>
-
 Mamoudou Athie, Tony Revolori, Dan Stevens  
 _(the parakeets)_<br>
 
 Japan 2023<br>
-
 124 mins<br>
-
 Digital
 
-An Elysian Films release
+An Elysian Films release<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3MzkzNjk5XX0=
+eyJoaXN0b3J5IjpbMTkxNjc3MjUyM119
 -->
