@@ -33,82 +33,81 @@ _Do you have a favourite scene?_
 
 There’s a lot of character animation in this film, but my favourite scene is where the middle-aged guy comes out of the bird. You couldn’t really create that with CG, so that had a big impact on me.
 
-Interview by Nick Bradshaw, _Sight and Sound_, Winter 2023-24
+**Interview by Nick Bradshaw, _Sight and Sound_, Winter 2023-24**
+<br><br>
 
-<![endif]-->
+**THE BOY AND THE HERON (KIMITACHI WA DO IKIRUKA)**<br>
 
-**THE BOY AND THE HERON (KIMITACHI WA DO IKIRUKA)**
+_Director:_ Hayao Miyazaki<br>
 
-_Director:_ Hayao Miyazaki
+_Production Company:_ Studio Ghibli<br>
 
-_Production Company:_ Studio Ghibli
+_Producer:_ Toshio Suzuki<br>
 
-_Producer:_ Toshio Suzuki
+_Screenplay:_ Hayao Miyazaki<br>
 
-_Screenplay:_ Hayao Miyazaki
+_Original Score:_ Joe Hisaishi<br>
 
-_Original Score:_ Joe Hisaishi
+_Japanese Cast:_<br>
 
-_Japanese Cast:_
+Soma Santoki _(Mahito Maki)_<br>
 
-Soma Santoki _(Mahito Maki)_
+Masaki Suda _(Grey Heron)_<br>
 
-Masaki Suda _(Grey Heron)_
+Ko Shibasaki _(Kiriko)_<br>
 
-Ko Shibasaki _(Kiriko)_
+AIMYON _(Lady Himi)_<br>
 
-AIMYON _(Lady Himi)_
+Yoshino Kimura _(Natsuko)_<br>
 
-Yoshino Kimura _(Natsuko)_
+Takuya Kimura _(Shoichi Maki)_<br>
 
-Takuya Kimura _(Shoichi Maki)_
+Keiko Takeshita _(Izumi)_<br>
 
-Keiko Takeshita _(Izumi)_
+Jun Fubuki _(Utako)_<br>
 
-Jun Fubuki _(Utako)_
+Sawako Agawa _(Eriko)_<br>
 
-Sawako Agawa _(Eriko)_
+Karen Takizawa _(Warawara)_<br>
 
-Karen Takizawa _(Warawara)_
+Shinobu Otake _(Aiko)_<br>
 
-Shinobu Otake _(Aiko)_
+Jun Kunimura _(The Parakeet King)_<br>
 
-Jun Kunimura _(The Parakeet King)_
+Kaoru Kobayashi _(Noble Pelican)_<br>
 
-Kaoru Kobayashi _(Noble Pelican)_
+Shohei Hino _(grand-uncle)_<br>
 
-Shohei Hino _(grand-uncle)_
+_English Cast:_<br>
 
-_English Cast:_
+Christian Bale _(Shoichi Maki)_<br>
 
-Christian Bale _(Shoichi Maki)_
+Dave Bautista _(The Parakeet King)_<br>
 
-Dave Bautista _(The Parakeet King)_
+Gemma Chan _(Natsuko)_<br>
 
-Gemma Chan _(Natsuko)_
+Willem Dafoe _(Noble Pelican)_<br>
 
-Willem Dafoe _(Noble Pelican)_
+Karen Fukuhara _(Lady Himi)_<br>
 
-Karen Fukuhara _(Lady Himi)_
+Mark Hamill _(grand-uncle)_<br>
 
-Mark Hamill _(grand-uncle)_
+Robert Pattinson _(Grey Heron)_<br>
 
-Robert Pattinson _(Grey Heron)_
+Florence Pugh _(Kiriko)_<br>
 
-Florence Pugh _(Kiriko)_
-
-Luca Padovan _(Mahito Maki)_
+Luca Padovan _(Mahito Maki)_<br>
 
 Mamoudou Athie, Tony Revolori, Dan Stevens  
-_(the parakeets)_
+_(the parakeets)_<br>
 
-Japan 2023
+Japan 2023<br>
 
-124 mins
+124 mins<br>
 
 Digital
 
 An Elysian Films release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDAxMjQxNl19
+eyJoaXN0b3J5IjpbNTc3MzkzNjk5XX0=
 -->
