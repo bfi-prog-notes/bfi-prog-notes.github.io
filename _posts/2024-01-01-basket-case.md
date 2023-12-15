@@ -74,9 +74,7 @@ Tom Robinson _(thief in theatre)_
 Chris Babson _(Kutter’s date)_  
 Maria T. Newland _(patient)_  
 Florence Schultz, Mary Ellen Schultz _(nurses)_  
-Constantine Scopas, Charles Stanley, Sydney Best, Johnny Ray Williams, Yousef Abuhamdeh,  
-Lubi Kirsch, Catherine Russell, Mitchell Huval_  
-(hotel tenants)_  
+Constantine Scopas, Charles Stanley, Sydney Best, Johnny Ray Williams, Yousef Abuhamdeh,  Lubi Kirsch, Catherine Russell, Mitchell Huval _(hotel tenants)_  
 Noel Hall _(drug dealer)_  
 Bruce Frankel _(2nd detective)_  
 Pat Ivers, Emily Armstrong _(street girls)_  
@@ -175,5 +173,5 @@ The Incredible Shrinking Man; A Nightmare on Elm Street**
 
 Sat 27 Jan 22:30 BFI IMAX
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzEzNzI4NV19
+eyJoaXN0b3J5IjpbMTcyMzY5NTg3N119
 -->
