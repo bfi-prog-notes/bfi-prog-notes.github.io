@@ -5,8 +5,7 @@ _The screening on Sunday 17 December will be introduced by Mark Fuller, Michael 
 
 _I heard second-hand about the effect that the film had on you to begin with._
 
-Oh well, in 1921, I was 16, and I was determined to go into films, because I had read _The Picturegoer_ about making films. It was the first number of  
-_The Picturegoer_, a friend of mine at school had brought it into the house, so I started reading articles about actually shooting films, you know, making films. Something clicked and I said ‘This is for me’, and from then on, I was completely dedicated. But then, I went on in a romantic way like you do at school, and then afterwards, when the family shoved me in a bank, saying ‘You’re crazy to want to go in the film business, go in a bank first, and learn order.’ So, a friend of the family got me a job in a bank at Ringwood, a little market town in the New Forest. Meanwhile I was collecting everything I could find about films, but in a romantic sort of way, and I looked on films the way people did then, as a wonderful new plaything, but not serious. So then, by the time of _A Woman of Paris_, two or three years later, it must have been 1923 or 4, I knew quite a lot about films, but only in a very superficial way – the way the ordinary public thinks about them.
+Oh well, in 1921, I was 16, and I was determined to go into films, because I had read _The Picturegoer_ about making films. It was the first number of  _The Picturegoer_, a friend of mine at school had brought it into the house, so I started reading articles about actually shooting films, you know, making films. Something clicked and I said ‘This is for me’, and from then on, I was completely dedicated. But then, I went on in a romantic way like you do at school, and then afterwards, when the family shoved me in a bank, saying ‘You’re crazy to want to go in the film business, go in a bank first, and learn order.’ So, a friend of the family got me a job in a bank at Ringwood, a little market town in the New Forest. Meanwhile I was collecting everything I could find about films, but in a romantic sort of way, and I looked on films the way people did then, as a wonderful new plaything, but not serious. So then, by the time of _A Woman of Paris_, two or three years later, it must have been 1923 or 4, I knew quite a lot about films, but only in a very superficial way – the way the ordinary public thinks about them.
 
 And then I saw that Chaplin had made a film in which he wasn’t appearing, and had directed, called _A Woman of Paris_ and it appeared at, I think at the Boscombe Hippodrome, or the Boscombe Cinema anyway, near Bournemouth, which was about ten miles away. So after the bank shut, I cycled in and went to see it, and I was absolutely knocked out by it, because suddenly the whole medium grew up. Before my eyes. Nobody had ever really done any realistic films at all before, it was all make-believe, you know, and emotions were make-believe as well as the people. Except for European films, which were mostly big romances, or something like the German Nibelungen, things like that, that was different. But in English-speaking, that is to say English-titled cinema, it was all completely fustian and make-believe, and playing, and all that sort of thing.
 
@@ -32,16 +31,13 @@ I think the way to explain to the public _A Woman of Paris_ is that it really wa
 
 I didn’t know it had been withdrawn. But you couldn’t possibly be surprised, because Chaplin at that time was the biggest box-office name in the world. I mean the _whole_ world. And the last thing the world expected from him is a realistic drama with his name on, which he isn’t in.
 
-Michael Powell interviewed by Kevin Brownlow, London 1977 (transcript edited by Mark Fuller)  
-With thanks to powell-pressburger.org
+**Michael Powell interviewed by Kevin Brownlow, London 1977 (transcript edited by Mark Fuller)  
+With thanks to powell-pressburger.org**
+<br><br>
 
-<![endif]-->
-
-**A WOMAN OF PARIS**
-
+**A WOMAN OF PARIS**  
 _Director_: Charles Chaplin  
-_Production Companies_:  
-Charles Chaplin Corporation, United Artists  
+_Production Companies_:  Charles Chaplin Corporation, United Artists  
 _Producer_: Charles Chaplin  
 _Business Manager_: Alfred Reeves  
 _Production Assistant_: Harry d’Abbadie d’Arrast  
@@ -89,5 +85,5 @@ With a recorded score conducted by Timothy Brock and performed by Orchestra Citt
 Restored in 2022 by Cineteca di Bologna and Roy Export Company S.A.S. at L’Immagine Ritrovata laboratory in the framework of the Chaplin Project.
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1MzUzNzE1XX0=
+eyJoaXN0b3J5IjpbLTE0ODMzNDUwXX0=
 -->
