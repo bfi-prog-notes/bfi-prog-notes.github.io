@@ -44,18 +44,15 @@ _Production Assistant_: Harry d’Abbadie d’Arrast
 _Assistant Director_: A. Edward Sutherland  
 _Editorial Direction_: Monta Bell  
 _Screenplay_: Charles Chaplin  
-_Directors of Photography_: Roland Totheroh,  
-Jack Wilson  
+_Directors of Photography_: Roland Totheroh,  Jack Wilson  
 _Editor_: Monta Bell  
 _Art Director_: Arthur Stibolt  
 _Music (Re-release)_: Charles Chaplin *  
 _Music Associate (Re-release)_: Eric James *  
-_Music Conductor/Orchestrations (Re-release)_:  
-Eric Rogers *  
+_Music Conductor/Orchestrations (Re-release)_:  Eric Rogers *  
 _Technical Director_: Jean de Limur
 
-_Cast:_
-
+**Cast**  
 Edna Purviance _(Marie Saint-Clair)_  
 Adolphe Menjou _(Pierre Revel)_  
 Carl Miller _(Jean Millet)_  
@@ -70,20 +67,16 @@ Henry Bergman _(maître d’hôtel)_
 Karl Gutman _(orchestra conductor)_  
 Charles Chaplin _(station porter)_ *
 
-USA 1923
-
-89 mins
-
+USA 1923  
+89 mins  
 Digital 4K (Restoration)
 
 With a recorded score conducted by Timothy Brock and performed by Orchestra Città Aperta
 
-* Uncredited
-
-<![endif]-->
+*Uncredited
 
 Restored in 2022 by Cineteca di Bologna and Roy Export Company S.A.S. at L’Immagine Ritrovata laboratory in the framework of the Chaplin Project.
 <br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODMzNDUwXX0=
+eyJoaXN0b3J5IjpbLTExMDg2MjY2NjddfQ==
 -->
