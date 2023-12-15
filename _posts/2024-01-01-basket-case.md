@@ -114,31 +114,18 @@ Fri 12 Jan 20:40; Thu 25 Jan 18:20<br>
 **The Saint: Teresa** + intro by Dick Fiddy, Archive TV Programmer + **The Avengers: A Touch of Brimstone**<br>
 Sat 13 Jan 14:30<br>
 **Looking for Mr Goodbar + Dick**<br>
-Sat 13 Jan 17:45 (+ intro by season curator  
-Jane Giles); Mon 22 Jan 20:10<br>
-
+Sat 13 Jan 17:45 (+ intro by season curator  Jane Giles); Mon 22 Jan 20:10<br>
 **The Thing**<br>
-
 Sat 13 Jan 20:40; Mon 29 Jan 20:45<br>
-
 **The Beast** La Bête<br>
-
 Tue 16 Jan 20:45; Tue 23 Jan 20:50<br>
-
 **Surprise Film** + intro by season curator Jane Giles<br>
-
 Sat 20 Jan 17:10<br>
-
 **A Clockwork Orange**<br>
-
 Sun 21 Jan 18:00; Wed 31 Jan 20:25<br>
-
-**Shock, Horror! The Scala All-nighter:  
-An American Werewolf in London;**  **The Creature from the Black Lagoon – 3D; Videodrome;  
-The Incredible Shrinking Man; A Nightmare on Elm Street**<br>
-
+**Shock, Horror! The Scala All-nighter:  An American Werewolf in London;**  **The Creature from the Black Lagoon – 3D; Videodrome;  The Incredible Shrinking Man; A Nightmare on Elm Street**<br>
 Sat 27 Jan 22:30 BFI IMAX<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5MjY0NzQ0XX0=
+eyJoaXN0b3J5IjpbNzkwMjQ2NDk0XX0=
 -->
