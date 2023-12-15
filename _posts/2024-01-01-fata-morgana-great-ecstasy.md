@@ -47,43 +47,27 @@ West Germany 1971
 Digital
 <br>
 
-**THE GREAT ECSTASY OF WOODCARVER STEINER** **(DIE GROßE EKSTASE DES BILDSCHNITZERS STEINER)**
-
-_Director_: Werner Herzog
-
-_Production Company_:  
-Werner Herzog Filmproduktion
-
-_Producer_: Werner Herzog
-
-_Production Manager_: Walter Saxer
-
-_Production Assistant_: Feli Sommer
-
-_Script_: Werner Herzog
-
+**THE GREAT ECSTASY OF WOODCARVER STEINER** **(DIE GROßE EKSTASE DES BILDSCHNITZERS STEINER)**<br>
+_Director_: Werner Herzog<br>
+_Production Company_:  Werner Herzog Filmproduktion<br>
+_Producer_: Werner Herzog<br>
+_Production Manager_: Walter Saxer<br>
+_Production Assistant_: Feli Sommer<br>
+_Script_: Werner Herzog<br>
 _Director of Photography_: Jörg Schmidt-Reitwein,
+_Second Camera Unit:_ Francisco Joán,  Frederik Hettich, Alfred Chrosziel, Gideon Maron<br>
+_Editor_: Beate Mainka-Jellinghaus<br>
+_Music_: Popol Vuh, Florian Fricke<br>
+_Sound_: Benedikt Kuby<br>
 
-_Second Camera Unit:_ Francisco Joán,  
-Frederik Hettich, Alfred Chrosziel, Gideon Maron
+**With**<br>
+Werner Herzog _(presenter/narrator)_<br>
+Walter Steiner<br>
 
-_Editor_: Beate Mainka-Jellinghaus
-
-_Music_: Popol Vuh, Florian Fricke
-
-_Sound_: Benedikt Kuby
-
-_With:_
-
-Werner Herzog _(presenter/narrator)_
-
-Walter Steiner
-
-West Germany 1973
-
-47 mins
-
-Digital
+West Germany 1973<br>
+47 mins<br>
+Digital<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTE3Mjg5MF19
+eyJoaXN0b3J5IjpbMTE5MTg3MDk1MF19
 -->
