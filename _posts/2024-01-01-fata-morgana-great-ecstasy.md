@@ -9,11 +9,10 @@ In the second section, introducing the tourists along with the natives eking out
 
 And in the final section, where Herzog’s surrealist sensibility blooms full in images of an ageing duo performing antique popular songs on piano and drums while other humans lapse into mania, obsession or simple oblivion, a third narrator turns to outright gallows sarcasm: ‘In the Golden Age, man and wife live in harmony ... now, for example, they appear before the camera lens, death in their eyes, a smile on their lips.’
 
-Herzog concludes his film where he began, facing the desert squarely. His mirage, the _fata morgana_, is a vision entirely consistent with his other work but seen _in extremis_ because abstracted from conventional perception. The desert becomes a terminal beach, littered with civilisation’s debris, its vestigial signs of life rapidly fading. The few survivors are those who were always outcasts, left clinging to the debris to make their mark on the desert, and those who once produced the debris, now reduced to self-conscious aberrations and the most vacuous of rituals. They, of course, are the only gods in the film, and though fleeting moments suggest that they were once savage or dark gods, Herzog really sees them only as failures, fascinating for their ludicrousness and the precariousness of their existence. His vision, as ever, is clear and true, free of compassion, regret and dogma alike; his recourse in the face of the horror and enormity is again to humour, neither cruel nor indulgent, but merely sane.
-Tony Rayns, _Monthly Film Bulletin_, January 1974
+Herzog concludes his film where he began, facing the desert squarely. His mirage, the _fata morgana_, is a vision entirely consistent with his other work but seen _in extremis_ because abstracted from conventional perception. The desert becomes a terminal beach, littered with civilisation’s debris, its vestigial signs of life rapidly fading. The few survivors are those who were always outcasts, left clinging to the debris to make their mark on the desert, and those who once produced the debris, now reduced to self-conscious aberrations and the most vacuous of rituals. They, of course, are the only gods in the film, and though fleeting moments suggest that they were once savage or dark gods, Herzog really sees them only as failures, fascinating for their ludicrousness and the precariousness of their existence. His vision, as ever, is clear and true, free of compassion, regret and dogma alike; his recourse in the face of the horror and enormity is again to humour, neither cruel nor indulgent, but merely sane.  
+**Tony Rayns, _Monthly Film Bulletin_, January 1974**
 
-**The Great Ecstasy of Woodcarver Steiner**
-
+**The Great Ecstasy of Woodcarver Steiner**  
 Walter Steiner is a wood carver who explores the shapes, knots, grain and forces in a piece of wood and sculpts it in a way to release the hidden tensions and energy. He also happens to be one of the leading championship ski-jumpers in Switzerland if not the whole world.
 
 Ski-flying has reached the point where it presents a real danger as speeds are now reached at which skis can go out of control. The slightest wind or patch of bad snow can make a jump really dangerous. Steiner gives us some idea of the nervous tension that exists just before starting a ski-jump; the heart hammering away in a fear that is different from that felt before a car crash, for example. Now skiers are reaching the limits of perfection. He says, ‘It's the thrill of flying so far that gives me such a kick as long as nothing happens to me.’
@@ -22,39 +21,31 @@ The concept of this film for Herzog began in the autumn of 1973 when the Swiss t
 
 The major part of the film studies Steiner as he prepared for the Championships at Planica, Yugoslavia. The giant ramp at Planica is one of the four or five in the world that is big enough for ski-flying. Herzog has two high-speed cameras set up which can slow down the action by ten to twenty times.
 
-The high-speed shots in the film give a great feeling of costume flapping in the breeze – hurtling, head forward like a bird of prey. It is a demonstration of something achieved against a background of a possible disastrous end. Fly or get killed; alternatives which reveal Steiner’s secret.
+The high-speed shots in the film give a great feeling of costume flapping in the breeze – hurtling, head forward like a bird of prey. It is a demonstration of something achieved against a background of a possible disastrous end. Fly or get killed; alternatives which reveal Steiner’s secret.  
+**Contemporary Films production notes**
+<br><br>
 
-Contemporary Films production notes
-
-<![endif]-->
-
-**FATA MORGANA**
-
+**FATA MORGANA**  
 _Director:_ Werner Herzog  
-_Production Company:_  
-Werner Herzog Filmproduktion  
+_Production Company:_  Werner Herzog Filmproduktion  
 _Producer:_ Werner Herzog  
 _Collaborators:_ Günther Welpert, Hans Dieter-Sauer, Günther Feyse, Wolfgang Eigendorf  
 _Screenplay:_ Werner Herzog  
 _Director of Photography:_ Jörg Schmidt-Reitwein  
 _Editor:_ Beate Mainka-Jellinghaus  
-_Music:_ George Frederic Handel,  
-Wolfgang Amadeus Mozart, Blind Faith,  
-François Couperin, Leonard Cohen  
+_Music:_ George Frederic Handel,  Wolfgang Amadeus Mozart, Blind Faith,  François Couperin, Leonard Cohen  
 _Sound:_ Werner Herzog  
 _Narrator:_ Lotte Eisner
 
-_Cast:_
-
+**Cast**  
 Wolfgang von Ungern-Sternberg  
 James William Gledhill  
 Eugen des Montagnes
 
-West Germany 1971
-
-79 mins
-
+West Germany 1971  
+79 mins  
 Digital
+<br>
 
 **THE GREAT ECSTASY OF WOODCARVER STEINER** **(DIE GROßE EKSTASE DES BILDSCHNITZERS STEINER)**
 
@@ -94,5 +85,5 @@ West Germany 1973
 
 Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Njk1MDc5NV19
+eyJoaXN0b3J5IjpbMTM4NTE3Mjg5MF19
 -->
