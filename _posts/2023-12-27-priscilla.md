@@ -1,3 +1,14 @@
+---
+layout: post
+title: Priscilla
+published: true
+date: 2023-12-27
+readtime: true
+categories: ['PREVIEW SCREENINGS']
+tags:  [Biopic]
+metadata: 'USA 2023, 113 mins<br> Director: Sofia Coppola'
+pdf: '2023-12-27-priscilla.pdf'
+---
 
 If you had somehow forgotten who made _Priscilla_, the very first shot would set you right. Girlish bare feet, sporting a bright coral pedicure, pad across a bedroom, every step sinking deeper into the pink carpet’s impossibly fluffy pile. It could almost be the start of a ’90s teen comedy, or a madcap ’80s Susan Seidelman flick, but there’s a sincerity to its sherbetty palette that gives it away. This could only be a Sofia Coppola movie; she is our foremost _auteuse_ of a youthful, frilled femininity that is so invested in obvious signifiers it becomes borderline subversive; so full of love for the way things look that it becomes an examination of the way things are.
 
@@ -32,8 +43,7 @@ It was intimidating. I really thought about how she would hold herself. She was 
 
 _Did you grow up watching Sofia’s films?_
 
-I was 14 when I found _The Virgin Suicides_ and it sort of cracked me open as a teenager. I think it was the first time I ever saw someone give permission to young women in that way, show their dark sides and their wants and needs,  
-to not underestimate them. She has such sensitivity and is really tuned into those stories.
+I was 14 when I found _The Virgin Suicides_ and it sort of cracked me open as a teenager. I think it was the first time I ever saw someone give permission to young women in that way, show their dark sides and their wants and needs,  to not underestimate them. She has such sensitivity and is really tuned into those stories.
 
 **Interview by Nicole Flattery, _Sight and Sound_, December 2023**
 <br><br>
@@ -77,6 +87,30 @@ USA 2023©
 
 A MUBI release
 <br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTg0NDY1MjQ5N119
 -->
