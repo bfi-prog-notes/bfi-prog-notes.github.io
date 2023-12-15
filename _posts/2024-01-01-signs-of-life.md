@@ -28,13 +28,11 @@ _Screenplay:_ Werner Herzog
 _Based on a Story by:_ Achim von Arnim  
 _Director of Photography:_ Thomas Mauch  
 _Assistant Camera:_ Dietrich Lohmann  
-_Editors:_ Beate Mainka-Jellinghaus,  
-Maximiliane Mainka  
+_Editors:_ Beate Mainka-Jellinghaus,  Maximiliane Mainka  
 _Music:_ Stavros Xarchakos  
 _Sound:_ Herbert Prasch
 
-_Cast:_
-
+**Cast**  
 Peter Brogle _(Stroszek)_  
 Wolfgang Reichmann _(Meinhard)_  
 Julio Pinheiro _(gypsy)_  
@@ -47,62 +45,59 @@ Dr Heinz Usener _(doctor)_
 Achmed Hafiz _(Greek resident)_  
 Jannakis Frasakis, Katerinaki, Werner Herzog
 
-West Germany 1968
-
-87 mins
-
+West Germany 1968  
+87 mins  
 Digital
+<br><br>
 
-<![endif]-->
+**JOURNEY INTO THE UNKNOWN: THE FILMS OF WERNER HERZOG**<br>
 
-**JOURNEY INTO THE UNKNOWN: THE FILMS OF WERNER HERZOG**
+**Signs of Life** Lebenszeichen<br>
 
-**Signs of Life** Lebenszeichen
+Mon 1 Jan 12:30; Sat 13 Jan 15:00<br>
 
-Mon 1 Jan 12:30; Sat 13 Jan 15:00
+**Fata Morgana + The Great Ecstasy of Woodcarver Steiner** Die große Ekstase des Bildschnitzers Steiner<br>
 
-**Fata Morgana + The Great Ecstasy of Woodcarver Steiner** Die große Ekstase des Bildschnitzers Steiner
-
-Mon 1 Jan 18:00; Wed 17 Jan 20:30
+Mon 1 Jan 18:00; Wed 17 Jan 20:30<br>
 
 **Even Dwarfs Started Small**  
-Auch Zwerge haben klein angefangen
+Auch Zwerge haben klein angefangen<br>
 
-Tue 2 Jan 18:15; Mon 15 Jan 20:45
+Tue 2 Jan 18:15; Mon 15 Jan 20:45<br>
 
 **La Soufrière** Warten auf eine Unausweichliche Katastrophe + **Lessons of Darkness**  
-Lektionen in Finsternis
+Lektionen in Finsternis<br>
 
-Wed 3 Jan 18:20; Tue 16 Jan 20:40 (+ intro by writer Ian Haydn Smith)
+Wed 3 Jan 18:20; Tue 16 Jan 20:40 (+ intro by writer Ian Haydn Smith)<br>
 
-**Heart of Glass** Herz aus Glas
+**Heart of Glass** Herz aus Glas<br>
 
-Thu 4 Jan 18:30; Fri 19 Jan 20:40
+Thu 4 Jan 18:30; Fri 19 Jan 20:40<br>
 
 **Land of Silence and Darkness**  
-Land des Schweigens und der Dunkelheit
+Land des Schweigens und der Dunkelheit<br>
 
-Thu 4 Jan 20:50; Wed 10 Jan 20:45; Wed 17 Jan 18:15 (+ BSL intro by deaf filmmaker Sam Arnold)
+Thu 4 Jan 20:50; Wed 10 Jan 20:45; Wed 17 Jan 18:15 (+ BSL intro by deaf filmmaker Sam Arnold)<br>
 
-**Aguirre, Wrath of God** Aguirre, der Zorn Gottes
+**Aguirre, Wrath of God** Aguirre, der Zorn Gottes<br>
 
 Sat 6 Jan 15:15; Sun 14 Jan 11:40;  
-Tue 23 Jan 18:30
+Tue 23 Jan 18:30<br>
 
-**My Best Fiend** Mein liebster Feind – Klaus Kinski
+**My Best Fiend** Mein liebster Feind – Klaus Kinski<br>
 
-Sat 6 Jan 17:45; Sat 13 Jan 21:00
+Sat 6 Jan 17:45; Sat 13 Jan 21:00<br>
 
-**Little Dieter Needs to Fly** Flucht aus Laos
+**Little Dieter Needs to Fly** Flucht aus Laos<br>
 
-Sun 7 Jan 15:20; Thu 18 Jan 20:45
+Sun 7 Jan 15:20; Thu 18 Jan 20:45<br>
 
-**Fitzcarraldo**
+**Fitzcarraldo**<br>
 
 Sun 7 Jan 17:45; Sun 14 Jan 14:20;  
-Thu 18 Jan 17:50
+Thu 18 Jan 17:50<br>
 
-**Stroszek**
+**Stroszek**<br>
 
 Mon 8 Jan 18:20; Sat 20 Jan 20:40
 
@@ -143,5 +138,5 @@ Sun 21 Jan 18:20; Fri 26 Jan 18:30
 
 Fri 26 Jan 20:45; Sun 28 Jan 15:10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTU4MjM4MV19
+eyJoaXN0b3J5IjpbLTE1MDUyNjEyMjBdfQ==
 -->
