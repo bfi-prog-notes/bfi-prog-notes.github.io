@@ -5,24 +5,20 @@ By the end of 1983, the Scala was using its cinema programme to campaign against
 Frank Henenlotter’s deeply scuzzy yet vastly entertaining low-budget horror has one of the most deliciously literal titles of all time. It stars Kevin Van Hentenryck as Duane, a fresh-faced, curly-haired nerd who arrives on the grimy streets of early 80s New York with a locked basket under his arm. Inside the basket resides Belial, his embittered, grotesquely deformed Siamese twin: the result of a surgical separation in their youth. Together, the pair embark on a bloody quest for revenge against all who’ve wronged them, beginning with those poor doctors…
 
 ‘This is the sickest movie ever made!’, screamed the famously crotchety critic Rex Reed… but the film’s distributor didn’t mind, and promptly slapped the quote all over its promotional campaign. _Basket Case_ spawned two further sequels. Both are entertaining enough on their own terms, but neither are able to capture the original’s perfect storm of poignancy and sheer terror.  
-Ashley Clark
+**Ashley Clark**
 
-**A contemporary review**
-
+**A contemporary review**  
 _Basket Case_ is a film which wears its sleaziness with pride. The end titles announce that the film is dedicated to Herschell Gordon Lewis, whose 1960s drive-in dreadfuls _Blood Feast_ and _Two Thousand Maniacs!_ have only recently achieved any kind of British distribution – inevitably as video nasties. Producer Edgar Ievins and director-writer Frank Henenlotter have gone out of their way to recreate Lewis’ wretched style, a combination of graphic gore, off-the-wall humour, the kind of _mise-en-scène_ usually only found in hardcore pornography, and inadequate performances.
 
 For about half its running time, _Basket Case_’s deliberate ghastliness is amusing. All the characters are socially handicapped to such a degree that the leads of _Trash_ could look down on them, and the nearest that the script comes to a romantic line is Dr Kutter’s ‘You’re cute when you slobber’. Most reviews have cited De Palma’s _Sisters_ as the source of the plot, but Duane and Belial are much less like the twinned Margot Kidder than the protagonist(s) of ‘The Mannikin’, one of Robert Bloch’s more unpleasant short stories.
 
 Unfortunately, the film establishes its situations with much more invention than it develops them. The flashback includes not only the best sick joke (Mr Bradley’s legs falling out of frame after he has been sawn in half) but the most imaginative and affecting images (Belial weakly clawing his way out of a twist-tie garbage bag; the aunt cradling Belial as she reads aloud to the brothers). Sadly, the revenge motif, with Belial killing the doctors who performed the separation, and Belial’s jealous attempts to frustrate Duane’s relationship with Sharon, are not strong enough to sustain the film beyond the resolution of its mystery. The main problem lies with the overstated performances of all concerned, as satirically feigned badness all too easily turns into genuine badness.
 
-Henenlotter’s previous works include the evocatively titled-but unseen-shorts, _Son of Psycho_, _Lurid Women_ and _Slash of the Knife_. His approach to the skid-row splatter movie can best be judged by the account of _Basket Case_’s trick effects he gave to _Fangoria_, chief organ of the sleaze scene: ‘Crude? Rather than putting in a credit for special effects, we were thinking of crediting ordinary effects ... All the animation scenes were ad-libbed, and every take we shot is included in the film. Ray Harryhausen can certainly sleep tonight.’
+Henenlotter’s previous works include the evocatively titled-but unseen-shorts, _Son of Psycho_, _Lurid Women_ and _Slash of the Knife_. His approach to the skid-row splatter movie can best be judged by the account of _Basket Case_’s trick effects he gave to _Fangoria_, chief organ of the sleaze scene: ‘Crude? Rather than putting in a credit for special effects, we were thinking of crediting ordinary effects ... All the animation scenes were ad-libbed, and every take we shot is included in the film. Ray Harryhausen can certainly sleep tonight.’  
+**Kim Newman, _Monthly Film Bulletin_, April 1983**
+<br><br>
 
-Kim Newman, _Monthly Film Bulletin_, April 1983
-
-<![endif]-->
-
-**BASKET CASE**
-
+**BASKET CASE**  
 _Directed by_: Frank Henenlotter  
 ©_/Production Companies_: Basket Case Company, Analysis Film Corporation  
 _Executive Producers_: Arnie Bruck, Tom Kaye  
@@ -31,8 +27,7 @@ _Production Executive_: Ray Sundlin
 _Production Manager_: Mort Tashman  
 _Location Coordinator_: Peg Cornwell  
 _Post-Production Services_: Phantasmagoria  
-_Production Assistants_: Arturs Stiebrins,  
-Ramadan Thaqi  
+_Production Assistants_: Arturs Stiebrins,  Ramadan Thaqi  
 _Assistant Director_: Jerome Horwitz  
 _Continuity_: Nancy Archer  
 _Casting_: Ilze Balodis  
@@ -43,29 +38,24 @@ _Gaffer_: J.J. Clarke
 _Best Boy_: Warren Webster  
 _Key Grip_: Buster Muro  
 _Grips_: Harry Archer, Watson Pritchard  
-_Editors_: Frank Henenlotter, Eastern Editing,  
-Match Cut Film Service  
+_Editors_: Frank Henenlotter, Eastern Editing, Match Cut Film Service  
 _Assistant Editor_: Linda Schubell  
 _Art Director_: Frederick Loren  
 _Set Construction_: Charles Bennett  
 _Makeup_: Ken Clark, Ugis Nigals  
-_Special Makeup Effects_: Kevin Haney,  
-John Caglione Jr  
+_Special Makeup Effects_: Kevin Haney,  John Caglione Jr  
 _Hairstyles_: Ken Clark  
 _Titles_: Leo Animation  
 _Opticals_: Image Galaxy  
 _Music_: Gus Russo, David Maswick  
-_Percussion_: Harold ‘Clutch’ Reiser,  
-J. Keith Robinson  
+_Percussion_: Harold ‘Clutch’ Reiser,  J. Keith Robinson  
 _Music Mixing_: Audio Genesis, Emily Webster  
 _Sound Recording_: Sam Peca  
-_Sound_: Peter Thomas, Jimmy Muro,  
-Levent Bolukbasi, Magno Sound  
+_Sound_: Peter Thomas, Jimmy Muro,  Levent Bolukbasi, Magno Sound  
 _Psychologist_: Steve Smoller  
 _Pilot_: John Suffern
 
-_Cast:_
-
+**Cast**  
 Kevin Van Hentenryck _(Duane Bradley)_  
 Terri Susan Smith _(Sharon)_  
 Beverly Bonner _(Casey)_  
@@ -84,7 +74,7 @@ Tom Robinson _(thief in theatre)_
 Chris Babson _(Kutter’s date)_  
 Maria T. Newland _(patient)_  
 Florence Schultz, Mary Ellen Schultz _(nurses)_  
-Constantine Scopas, Charles Stanley, Sydney Best_,_ Johnny Ray Williams, Yousef Abuhamdeh,  
+Constantine Scopas, Charles Stanley, Sydney Best, Johnny Ray Williams, Yousef Abuhamdeh,  
 Lubi Kirsch, Catherine Russell, Mitchell Huval_  
 (hotel tenants)_  
 Noel Hall _(drug dealer)_  
@@ -185,5 +175,5 @@ The Incredible Shrinking Man; A Nightmare on Elm Street**
 
 Sat 27 Jan 22:30 BFI IMAX
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxOTc0MTU0XX0=
+eyJoaXN0b3J5IjpbMTMwMzEzNzI4NV19
 -->
