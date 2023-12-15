@@ -80,73 +80,70 @@ Bruce Frankel _(2nd detective)_
 Pat Ivers, Emily Armstrong _(street girls)_  
 Russell Fritz _(Casey’s john)_
 
-USA 1981©
-
-91 mins
-
+USA 1981©  
+91 mins  
 Digital
-
-<![endif]-->
+<br><br>
 
 **SCALA: SEX, DRUGS AND  
-ROCK AND ROLL CINEMA**
+ROCK AND ROLL CINEMA**<br>
 
-**Basket Case**
+**Basket Case**<br>
 
-Mon 1 Jan 15:20; Thu 25 Jan 20:40
+Mon 1 Jan 15:20; Thu 25 Jan 20:40<br>
 
-**Pink Flamingos**
+**Pink Flamingos**<br>
 
-Mon 1 Jan 18:20; Fri 19 Jan 18:20; Fri 26 Jan 20:50 (+ intro by Mark Moore and Tasty Tim)
+Mon 1 Jan 18:20; Fri 19 Jan 18:20; Fri 26 Jan 20:50 (+ intro by Mark Moore and Tasty Tim)<br>
 
-**Faster, Pussycat! Kill! Kill!**
+**Faster, Pussycat! Kill! Kill!**<br>
 
-Tue 2 Jan 18:20; Thu 18 Jan 21:00 (+ intro by film scholar and writer Virginie Selavy)
+Tue 2 Jan 18:20; Thu 18 Jan 21:00 (+ intro by film scholar and writer Virginie Selavy)<br>
 
-**Taxi zum Klo**
+**Taxi zum Klo**<br>
 
 Wed 3 Jan 20:50; Mon 8 Jan 20:40 (+ intro by  
-Vic Roberts, Scala usher)
+Vic Roberts, Scala usher)<br>
 
-**The Warriors**
+**The Warriors**<br>
 
-Sat 6 Jan 18:15; Sun 14 Jan 12:00; Wed 17 Jan 20:55 (+ intro by SCALA!!! co-director Ali Catterall)
+Sat 6 Jan 18:15; Sun 14 Jan 12:00; Wed 17 Jan 20:55 (+ intro by SCALA!!! co-director Ali Catterall)<br>
 
-**Thundercrack!**
+**Thundercrack!**<br>
 
-Sat 6 Jan 20:00; Sun 14 Jan 14:10
+Sat 6 Jan 20:00; Sun 14 Jan 14:10<br>
 
-**The Evil Dead**
+**The Evil Dead**<br>
 
-Fri 5 Jan 20:45 (+ intro by Graham Humphreys, freelance illustrator and designer of the original UK marketing for The Evil Dead); Tue 30 Jan 18:10
+Fri 5 Jan 20:45 (+ intro by Graham Humphreys, freelance illustrator and designer of the original UK marketing for The Evil Dead); Tue 30 Jan 18:10<br>
 
 **Salo, or the 120 Days of Sodom**  
-Salò o le 120 giornate di Sodoma
+Salò o le 120 giornate di Sodoma<br>
 
-Tue 9 Jan 20:35 (+ intro by season curator Jason Wood, BFI Executive Director of Public Programmes & Audiences); Tue 23 Jan 18:10
+Tue 9 Jan 20:35 (+ intro by season curator Jason Wood, BFI Executive Director of Public Programmes & Audiences); Tue 23 Jan 18:10<br>
 
 **Sight and Sound Presents:  
-Scala Spirit 1993-2023**
+Scala Spirit 1993-2023**<br>
 
-Thu 11 Jan 18:20
+Thu 11 Jan 18:20<br>
 
-**Shivers**
+**Shivers**<br>
 
-Thu 11 Jan 21:00; Sun 21 Jan 15:20
+Thu 11 Jan 21:00; Sun 21 Jan 15:20<br>
 
-**Pee-wee’s Big Adventure**
+**Pee-wee’s Big Adventure**<br>
 
-Fri 12 Jan 18:10 (+ intro by Ben Roberts, BFI CEO); Wed 31 Jan 18:20
+Fri 12 Jan 18:10 (+ intro by Ben Roberts, BFI CEO); Wed 31 Jan 18:20<br>
 
-**Pink Narcissus + Un chant d’amour**
+**Pink Narcissus + Un chant d’amour**<br>
 
-Fri 12 Jan 20:40; Thu 25 Jan 18:20
+Fri 12 Jan 20:40; Thu 25 Jan 18:20<br>
 
-**The Saint: Teresa** + intro by Dick Fiddy, Archive TV Programmer + **The Avengers: A Touch of Brimstone**
+**The Saint: Teresa** + intro by Dick Fiddy, Archive TV Programmer + **The Avengers: A Touch of Brimstone**<br>
 
-Sat 13 Jan 14:30
+Sat 13 Jan 14:30<br>
 
-**Looking for Mr Goodbar + Dick**
+**Looking for Mr Goodbar + Dick**<br>
 
 Sat 13 Jan 17:45 (+ intro by season curator  
 Jane Giles); Mon 22 Jan 20:10
@@ -173,5 +170,5 @@ The Incredible Shrinking Man; A Nightmare on Elm Street**
 
 Sat 27 Jan 22:30 BFI IMAX
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzY5NTg3N119
+eyJoaXN0b3J5IjpbLTU4MDY0MDE3Ml19
 -->
