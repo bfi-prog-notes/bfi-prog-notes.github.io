@@ -68,63 +68,35 @@ Land des Schweigens und der Dunkelheit<br>
 Thu 4 Jan 20:50; Wed 10 Jan 20:45; Wed 17 Jan 18:15 (+ BSL intro by deaf filmmaker Sam Arnold)<br>
 **Aguirre, Wrath of God** Aguirre, der Zorn Gottes<br>
 Sat 6 Jan 15:15; Sun 14 Jan 11:40;  Tue 23 Jan 18:30<br>
-
 **My Best Fiend** Mein liebster Feind – Klaus Kinski<br>
-
 Sat 6 Jan 17:45; Sat 13 Jan 21:00<br>
-
 **Little Dieter Needs to Fly** Flucht aus Laos<br>
-
 Sun 7 Jan 15:20; Thu 18 Jan 20:45<br>
-
 **Fitzcarraldo**<br>
-
-Sun 7 Jan 17:45; Sun 14 Jan 14:20;  
-Thu 18 Jan 17:50<br>
-
+Sun 7 Jan 17:45; Sun 14 Jan 14:20;  Thu 18 Jan 17:50<br>
 **Stroszek**<br>
-
 Mon 8 Jan 18:20; Sat 20 Jan 20:40<br>
-
-**Werner Herzog’s Tales of Life and Death:  
-An Illustrated Talk**<br>
-
+**Werner Herzog’s Tales of Life and Death:  An Illustrated Talk**<br>
 Wed 10 Jan 18:30<br>
-
 **Nosferatu the Vampyre**  
 Nosferatu: Phantom der Nacht<br>
-
-Fri 12 Jan 18:10; Wed 24 Jan 20:50;  
-Sat 27 Jan 15:00<br>
-
+Fri 12 Jan 18:10; Wed 24 Jan 20:50;  Sat 27 Jan 15:00<br>
 **Grizzly Man**<br>
-
-Fri 12 Jan 20:45; Sun 14 Jan 18:15;  
-Mon 29 Jan 18:15<br>
-
+Fri 12 Jan 20:45; Sun 14 Jan 18:15;  Mon 29 Jan 18:15<br>
 **Echoes from a Sombre Empire**  
 Echos aus einem düsteren Reich<br>
-
 Sat 13 Jan 14:10; Tue 30 Jan 20:30<br>
-
 **Woyzeck**<br>
-
 Sat 13 Jan 18:20; Sun 28 Jan 12:30<br>
-
 **The Fire Within: A Requiem for Katia and Maurice Krafft**<br>
-
 Fri 19 Jan 18:30; Wed 31 Jan 20:50<br>
-
 **The White Diamond**<br>
-
 Sun 21 Jan 18:20; Fri 26 Jan 18:30<br>
-
 **Into the Abyss – A Tale of Death, a Tale of Life**<br>
-
 Fri 26 Jan 20:45; Sun 28 Jan 15:10<br>
 <br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjU1ODc0MF19
+eyJoaXN0b3J5IjpbMTc4NjgyMTY2OF19
 -->
