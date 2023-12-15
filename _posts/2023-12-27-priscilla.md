@@ -14,7 +14,7 @@ The irony is that Elvis will make her change everything about herself, where she
 It’s strange that at this moment of puritanical discourse around unnecessary sex scenes, along comes _Priscilla_, a perfect example of a film that really needs a sex scene and doesn’t have one. A point is made of Elvis’s repeated deferral of the relationship’s consummation, and it’s hardly prurient to wonder when he stopped deferring, especially given Priscilla’s age, and the fact that losing one’s virginity is a key moment in anyone’s journey to self-realisation. Perhaps we can infer that he finally loves her tender during a montage of several days’ worth of dinner plates being piled high outside their shared, tiger-striped bedroom once Priscilla graduates. But Sarah Flack’s editing includes many such montages – of Elvis encouraging Priscilla to pop downers and uppers and LSD, of a hedonistic trip to Vegas, of Elvis’s short-lived transcendental phase, of the pair snapping sexy photos of each other — and it always feels like they conceal much as they reveal.
 
 Instead, the movie canters by in episodes and interludes which are set, cleverly, not to Elvis songs but to instrumental covers and other loosely period-appropriate tracks, like a perfectly deployed ‘Crimson and Clover’. The seventies arrive, and across one swift cut, with infant Lisa Marie in her arms, Priscilla’s beehive – so enormous it could house an entire apian colony – collapses into waves hanging loose around her shoulders. Free your hair and your mind will follow: the days are numbered for the marriage, just as the clock runs down on the movie – Coppola is far more interested in captivity than release. And so the whole of the gently heartsore _Priscilla_ plays like a letter of drawn-out, loving goodbye, written in painstaking cursive on scented paper and sealed with a chaste, cherry lipgloss kiss.  
-**Jessica Kiang, _Sight and Sound_, Winter 2023-24**
+**Jessica Kiang, _Sight and Sound_, Winter 2023-24**<br><br>
 
 **Cailee Spaeny on ‘Priscilla’**
 
@@ -35,22 +35,17 @@ _Did you grow up watching Sofia’s films?_
 I was 14 when I found _The Virgin Suicides_ and it sort of cracked me open as a teenager. I think it was the first time I ever saw someone give permission to young women in that way, show their dark sides and their wants and needs,  
 to not underestimate them. She has such sensitivity and is really tuned into those stories.
 
-Interview by Nicole Flattery, _Sight and Sound_, December 2023
+**Interview by Nicole Flattery, _Sight and Sound_, December 2023**
+<br><br>
 
-<![endif]-->
-
-**PRISCILLA**
-
+**PRISCILLA**  
 _Directed by_: Sofia Coppola  
 ©: The Apartment S.r.l  
-_An_ Apartment Pictures _production_
-
+_An_ Apartment Pictures _production_  
 _With_: American Zoetrope  
 _Presented by_: MUBI, A24, The Apartment Pictures  
-_Executive Producers_: Priscilla Presley,  
-Roman Coppola, Fred Roos, Chris Hatcher  
-_Produced by_: Sofia Coppola, Lorenzo Mieli,  
-Youree Henley  
+_Executive Producers_: Priscilla Presley,  Roman Coppola, Fred Roos, Chris Hatcher  
+_Produced by_: Sofia Coppola, Lorenzo Mieli, Youree Henley  
 _Co-producers_: Bumble Ward, Charles Finch  
 _Written by_: Sofia Coppola  
 _Based on the Book ‘Elvis and Me’ Written by_: Priscilla Presley, Sandra Harmon  
@@ -64,8 +59,7 @@ _Production Sound Mixer_: Trisha Harris
 _Re-recording Mixers_: Steve Foster, Stephen Barden  
 _Supervising Sound Editor_: Nelson Ferreira
 
-_Cast:_
-
+**Cast**  
 Cailee Spaeny _(Priscilla Presley)_  
 Jacob Elordi _(Elvis Presley)_  
 Rodrigo Fernandez-Stoll _(Alan ‘Hog Ears’ Rodrigo)_  
@@ -77,13 +71,11 @@ Dagmara Dominczyk _(Ann Beaulieu)_
 Ari Cohen _(Captain Beaulieu)_  
 Tim Post _(Vernon Presley)_
 
-USA 2023©
-
-113 mins
-
+USA 2023©  
+113 mins  
 35mm and Digital
 
 A MUBI release
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Mjg3Mzc0Ml19
+eyJoaXN0b3J5IjpbMTY0ODc3MjQyM119
 -->
