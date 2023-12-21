@@ -70,7 +70,36 @@ France 1960
 80 mins  
 Digital  
 
-* Uncredited  
+\* Uncredited  
+
+
+**BIG SCREEN CLASSICS**  
+**Shoot the Pianist** Tirez sur le pianist  
+Mon 1 Jan 15:30; Sat 13 Jan 12:10; Tue 16 Jan 14:30  
+**Charulata**  
+Tue 2 Jan 20:40; Sun 14 Jan 17:45; Thu 18 Jan 14:30  
+**Psycho (Original Theatrical Cut)**  
+Wed 3 Jan 18:10; Fri 12 Jan 20:50; Thu 18 Jan 18:20  
+**The Lady from Shanghai**  
+Thu 4 Jan 20:40; Wed 17 Jan 18:30 (+ intro by Geoff Andrew, Programmer-at-large); Fri 26 Jan 18:10  
+**Lift to the Scaffold** Ascenseur pour l’échafaud  
+Fri 5 Jan 18:35; Sun 14 Jan 11:50; Tue 23 Jan 20:45  
+**Sunrise: A Song of Two Humans**  
+Sat 6 Jan 12:15; Wed 10 Jan 18:10 (+ intro by freelance film programmer Margaret Deriaz); Fri 19 Jan 18:15  
+**The Lady Eve**  
+Sun 7 Jan 12:20; Thu 25 Jan 18:30  
+**California Split**  
+Mon 8 Jan 20:45; Mon 22 Jan 18:10  
+**8 1/2**  Otto e mezzo  
+Tue 9 Jan 17:30; Sun 28 Jan 18:00  
+**Madame de...**  
+Thu 11 Jan 14:40; Sun 21 Jan 12:10; Wed 31 Jan 17:50 (+ intro by film critic Phuong Le)  
+**The Portrait of a Lady**  
+Fri 12 Jan 14:30; Sat 27 Jan 18:00; Tue 30 Jan 20:15  
+**A Serious Man**  
+Mon 15 Jan 18:10; Mon 29 Jan 20:45  
+**The Bigamist**  
+Sat 20 Jan 11:45; Wed 24 Jan 18:10 (+ intro by Foster Hirsch, author and professor, Brooklyn College of the City University of New York); Sat 27 Jan 21:00  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3MzQ3NTUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTI4MDkwOTM3NCw3MzA5OTgxMTZdfQ==
 -->
