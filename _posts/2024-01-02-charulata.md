@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Charulata
+published: true
+date: 2024-01-02
+readtime: true
+categories: ['Big Screen Classics']
+tags:  [Drama]
+metadata: 'India 1964, 117 mins<br> Director: Satyajit Ray'
+pdf: '2024-01-02-charulata.pdf'
+---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
 
@@ -61,6 +70,5 @@ India 1964
 117 mins  
 Digital  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk0NDM5ODMsLTE5MzkwMzkxOTJdfQ
-==
+eyJoaXN0b3J5IjpbLTcwNTA2NDg5MCwtMTkzOTAzOTE5Ml19
 -->
