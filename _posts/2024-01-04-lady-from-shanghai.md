@@ -64,39 +64,23 @@ Herman Schoenbrun
 
 _Gowns:_ Jean Louis
 
-_Musical Score by:_ Heinz Roemheld
-
-_Song ‘Please Don’t Kiss Me’ by:_ Allan Roberts, Doris Fisher
-
-_Musical Director:_ M.W. Stoloff
-
-_Sound Recording:_ Lodge Cunningham
-
-_uncredited_
-
-_Executive Producer:_ Harry Cohn
-
-_Script Supervisor:_ Dorothy Cormack
-
-_Fill-in Director of Photography:_ Rudolph Maté
-
-_Camera Operator:_ Irving Klein
-
-_Assistant Camera:_ Donald Roy Cory
-
-_Assistant Cameraman:_ Richard Kline
-
-_Grip:_ Don Murphy
-
-_Special Effects:_ Lawrence Butler
-
-_Make-up:_ Robert J. Schiffer
-
-_Hairstylist:_ Helen Hunt
-
-_Orchestration:_ Herschel Burke Gilbert
-
-_Studio:_ Columbia Studios
+_Musical Score by:_ Heinz Roemheld 
+_Song ‘Please Don’t Kiss Me’ by:_ Allan Roberts, Doris Fisher  
+_Musical Director:_ M.W. Stoloff  
+_Sound Recording:_ Lodge Cunningham  
+_uncredited_  
+_Executive Producer:_ Harry Cohn  
+_Script Supervisor:_ Dorothy Cormack  
+_Fill-in Director of Photography:_ Rudolph Maté  
+_Camera Operator:_ Irving Klein  
+_Assistant Camera:_ Donald Roy Cory  
+_Assistant Cameraman:_ Richard Kline  
+_Grip:_ Don Murphy  
+_Special Effects:_ Lawrence Butler  
+_Make-up:_ Robert J. Schiffer  
+_Hairstylist:_ Helen Hunt  
+_Orchestration:_ Herschel Burke Gilbert  
+_Studio:_ Columbia Studios  
 
 **Cast**  
 Rita Hayworth _(Elsa Bannister)_  
@@ -146,5 +130,5 @@ Digital 4K
 
 Introduced by Geoff Andrew, Programmer-at-large (Wed 17 Jan)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTQ5NjA5NF19
+eyJoaXN0b3J5IjpbLTE1Mzc0MzI5NDhdfQ==
 -->
