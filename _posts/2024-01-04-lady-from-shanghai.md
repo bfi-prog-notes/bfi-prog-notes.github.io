@@ -28,6 +28,123 @@ Such is the outline of a plot enriched by the complexities, the turns and twists
 The acting is on a high level, led by Welles himself as O’Hara – his Irish brogue is soon forgotten – Rita Hayworth a dazzling figure as the lady, Glenn Anders as Grisby, and rounded off with a haunting study in malevolence by Everett Sloane as the crippled lawyer.  
 **_Monthly Film Bulletin_, May 1948**  
 <br>
+<![endif]-->
+
+**THE LADY FROM SHANGHAI**
+
+_Production [Director]:_ Orson Welles
+
+_Production Company:_
+
+Columbia Pictures Corporation
+
+_Production:_ Orson Welles
+
+_Associate Producers:_ Richard Wilson,
+
+William Castle
+
+_Assistant Director:_ Sam Nelson
+
+_Screen Play:_ Orson Welles
+
+_Story based on a novel by:_ Sherwood King
+
+_Director of Photography:_ Charles Lawton Jr
+
+_Stills:_ Robert Coburn, Eddy Cronenweth
+
+_Editor:_ Viola Lawrence
+
+_Art Directors:_ Stephen Goossón, Sturges Carne
+
+_Set Decorations:_ Wilbur Menefee,
+
+Herman Schoenbrun
+
+_Gowns:_ Jean Louis
+
+_Musical Score by:_ Heinz Roemheld
+
+_Song ‘Please Don’t Kiss Me’ by:_ Allan Roberts, Doris Fisher
+
+_Musical Director:_ M.W. Stoloff
+
+_Sound Recording:_ Lodge Cunningham
+
+_uncredited_
+
+_Executive Producer:_ Harry Cohn
+
+_Script Supervisor:_ Dorothy Cormack
+
+_Fill-in Director of Photography:_ Rudolph Maté
+
+_Camera Operator:_ Irving Klein
+
+_Assistant Camera:_ Donald Roy Cory
+
+_Assistant Cameraman:_ Richard Kline
+
+_Grip:_ Don Murphy
+
+_Special Effects:_ Lawrence Butler
+
+_Make-up:_ Robert J. Schiffer
+
+_Hairstylist:_ Helen Hunt
+
+_Orchestration:_ Herschel Burke Gilbert
+
+_Studio:_ Columbia Studios
+
+**Cast**  
+Rita Hayworth _(Elsa Bannister)_  
+Orson Welles _(Michael O’Hara)_  
+Everett Sloane _(Arthur Bannister)_  
+Glenn Anders _(George Grisby)_  
+Ted De Corsia _(Sidney Broome)_  
+Erskine Sanford _(judge)_  
+Gus Schilling _(Goldie)_  
+Carl Frank _(Galloway, district attorney)_  
+Louis Merrill _(Jake Jorgenson)_  
+Evelyn Ellis _(Bessie)_  
+Harry Shannon _(hansom cab driver)_  
+_uncredited_  
+Won Show Chong _(Li)_  
+Sam Nelson _(yacht captain)_  
+Elizabeth Jones _(woman)_  
+Peter Cusanelli _(bartender)_  
+Joe Granby _(police lieutenant)_  
+Al Eben, Norman Thomson, Eddie Coke, Harry Strang _(policemen)_  
+Gerald Pierce _(waiter)_  
+Maynard Holmes _(truck driver)_  
+Jack Baxley, Edward Peil, Heenan Elliott _(guards)_  
+Dorothy Vaughan _(old woman)_  
+Philip Morris _(port steward/policeman/Peters)_  
+Steve Benton, Milton Kibbee _(policemen)_  
+Philip Van Zandt _(toughie/policeman)_  
+William Alland, Alvin Hammer, Mary Newton, Robert Gray, Byron Kane _(reporters)_  
+John Elliott _(clerk)_  
+Charles Meakin _(jury foreman)_  
+Jessie Arnold _(school teacher)_  
+Mabel Smaney _(woman)_  
+George ‘Shorty’ Charello, Vernon Cansino _(men)_  
+Doris Chan, Billy Louie _(Chinese girls)_  
+Joe Recht _(garage attendant)_  
+Jean Wong _(ticket seller)_  
+Artane Wong _(ticket taker)_  
+Grace Lem _(Chinese woman)_  
+Preston Lee _(Chinese man)_  
+Joe Palma _(cab driver)_  
+Richard Wilson _(district attorney’s assistant)_  
+Edythe Elliott _(old woman)_  
+
+USA 1947©  
+87 mins  
+Digital 4K  
+
+Introduced by Geoff Andrew, Programmer-at-large (Wed 17 Jan)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzIzMDY5MF19
+eyJoaXN0b3J5IjpbMTQ2MTQ5NjA5NF19
 -->
