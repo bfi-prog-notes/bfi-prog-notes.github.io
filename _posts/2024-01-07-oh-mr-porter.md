@@ -4,12 +4,11 @@ title: Oh, Mr Porter!
 published: true
 date: 2024-01-07
 readtime: true
-categories: ['MEMBER OICKS']
+categories: ['MEMBER PICS']
 tags:  [Comedy]
-metadata: 'USA 1927, 94 mins<br> Director: F.W. Murnau'
-pdf: '2024-01-06-sunrise.pdf'
+metadata: 'UK 1937, 85 mins<br> Director: Marcel Varnel'
+pdf: '2024-01-07-oh-mr-porter.pdf'
 ---
-
 
 This British comedy was a vehicle for the talents of Will Hay, Moore Marriott and Graham Moffatt, who had first performed together in _Windbag The Sailor_ (1936) in which Hay played an inept sea captain.
 
@@ -129,5 +128,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDcyOTU1OV19
+eyJoaXN0b3J5IjpbLTE3MjMzMTE3ODRdfQ==
 -->
