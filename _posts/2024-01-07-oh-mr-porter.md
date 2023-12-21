@@ -1,6 +1,15 @@
+---
+layout: post
+title: Oh, Mr Porter!
+published: true
+date: 2024-01-07
+readtime: true
+categories: ['MEMBER OICKS']
+tags:  [Comedy]
+metadata: 'USA 1927, 94 mins<br> Director: F.W. Murnau'
+pdf: '2024-01-06-sunrise.pdf'
+---
 
-
-<![endif]-->
 
 This British comedy was a vehicle for the talents of Will Hay, Moore Marriott and Graham Moffatt, who had first performed together in _Windbag The Sailor_ (1936) in which Hay played an inept sea captain.
 
@@ -69,23 +78,17 @@ A BFI National Archive Print
 
 \* Uncredited  
 <br>
-<![endif]-->
 
-**MEMBER EXCLUSIVES**
-
-**Member Picks: Oh, Mr. Porter!**
-
+**MEMBER EXCLUSIVES**  
+**Member Picks: Oh, Mr. Porter!**  
 Sun 7 Jan 15:15  
-**Member Salon: SCALA!!! Or, the Incredibly Strange Rise and Fall of the World’s Wildest Cinema and How It Influenced a Mixed-up Generation of Weirdos and Misfits**
-
-Mon 8 Jan 20:15
-
-**Behind the Scenes: BFI National Archive**
-
-Thu 25 Jan BFI National Archive, Berkhamstead
+**Member Salon: SCALA!!! Or, the Incredibly Strange Rise and Fall of the World’s Wildest Cinema and How It Influenced a Mixed-up Generation of Weirdos and Misfits**  
+Mon 8 Jan 20:15  
+**Behind the Scenes: BFI National Archive**  
+Thu 25 Jan BFI National Archive, Berkhamstead  
 
 **REGULAR PROGRAMME**  
-**Seniors’ Free Matinee: Sunset Boulevard ** + intro  
+**Seniors’ Free Matinee: Sunset Boulevard** + intro  
 Mon 8 Jan 14:00  
 **Art in the Making: Fields of the Senses** + intro by Steven Foxon, Curator of Non-Fiction, BFI National Archive  
 Tue 9 Jan 18:30  
@@ -101,6 +104,30 @@ Sun 28 Jan 15:20
 Mon 29 Jan 18:20  
 **Restored: Spellbound**  
 Tue 30 Jan 18:00  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjI5MjYwMF19
+eyJoaXN0b3J5IjpbLTYwNDcyOTU1OV19
 -->
