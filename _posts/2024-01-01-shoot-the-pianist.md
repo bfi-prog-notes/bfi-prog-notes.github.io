@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: Shoot the Pianist
+published: true
+date: 2024-01-201
+readtime: true
+categories: ['Big Screen Classics']
+tags:  [Drama]
+metadata: 'France 1960, 80 mins<br> Director: François Truffaut'
+pdf: '2024-01-01-shoot-the-pianist.pdf'
+---
 
 Based on David Goodis’ novel _Down There_, François Truffaut’s second feature is a breezy New Wave concoction of genre pastiche, playful stylistic tricks and romantic reverie. Aznavour is charismatic as the nightclub pianist concealing a secret past who’s tempted to abandon his solitary ways when he falls for a colleague. Sadly, however, his brothers have angered local mobsters... A strain of melancholy pervades the constant narrative invention.  
 **bfi.org.uk**  
@@ -101,5 +111,5 @@ Mon 15 Jan 18:10; Mon 29 Jan 20:45
 **The Bigamist**  
 Sat 20 Jan 11:45; Wed 24 Jan 18:10 (+ intro by Foster Hirsch, author and professor, Brooklyn College of the City University of New York); Sat 27 Jan 21:00  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDkwOTM3NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjcwOTczMzAsNzMwOTk4MTE2XX0=
 -->
