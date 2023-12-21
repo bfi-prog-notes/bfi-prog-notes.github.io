@@ -68,6 +68,39 @@ UK 1937
 A BFI National Archive Print  
 
 \* Uncredited  
+<br>
+<![endif]-->
+
+**MEMBER EXCLUSIVES**
+
+**Member Picks: Oh, Mr. Porter!**
+
+Sun 7 Jan 15:15  
+**Member Salon: SCALA!!! Or, the Incredibly Strange Rise and Fall of the World’s Wildest Cinema and How It Influenced a Mixed-up Generation of Weirdos and Misfits**
+
+Mon 8 Jan 20:15
+
+**Behind the Scenes: BFI National Archive**
+
+Thu 25 Jan BFI National Archive, Berkhamstead
+
+**REGULAR PROGRAMME**  
+**Seniors’ Free Matinee: Sunset Boulevard ** + intro  
+Mon 8 Jan 14:00  
+**Art in the Making: Fields of the Senses** + intro by Steven Foxon, Curator of Non-Fiction, BFI National Archive  
+Tue 9 Jan 18:30  
+**Projecting the Archive: The Street Singer aka Interval for Romance** + intro by writer Ming Ho  
+Tue 16 Jan 18:20  
+**African Odyssey: West Indies** + intro by archivist Annabelle Aventurin + Q&A with film programmer Abiba Coulibaly, Jonathan Ali of The Twelve30 Collective and filmmaker, curator and DJ, Rabz Lansiquot  
+Sat 20 Jan 16:30  
+**Experimenta: Do It Yourself: Women Artist Filmmakers and Punk** + Christine Binnie, Anne Robinson and Jill Westwood in conversation with Rachel Garfield  
+Wed 24 Jan 18:15  
+**Silent Cinema: Lady Windermere’s Fan** + intro by Bryony Dixon, BFI National Archive curator  
+Sun 28 Jan 15:20  
+**Relaxed Screening: The Enigma of Kaspar Hauser** Jeder für sich und Gott gegen alle  + intro & discussion  
+Mon 29 Jan 18:20  
+**Restored: Spellbound**  
+Tue 30 Jan 18:00  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjQ5MjMwN119
+eyJoaXN0b3J5IjpbMTQ3NjI5MjYwMF19
 -->
