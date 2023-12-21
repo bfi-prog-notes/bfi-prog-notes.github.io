@@ -4,7 +4,7 @@ title: Oh, Mr Porter!
 published: true
 date: 2024-01-07
 readtime: true
-categories: ['MEMBER PICS']
+categories: ['MEMBER PICKS']
 tags:  [Comedy]
 metadata: 'UK 1937, 85 mins<br> Director: Marcel Varnel'
 pdf: '2024-01-07-oh-mr-porter.pdf'
@@ -128,5 +128,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjMzMTE3ODRdfQ==
+eyJoaXN0b3J5IjpbMTMwNDM2ODgxN119
 -->
