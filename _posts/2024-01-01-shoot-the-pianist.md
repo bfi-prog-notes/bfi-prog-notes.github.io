@@ -1,21 +1,16 @@
 
 
-<![endif]-->
-
-Based on David Goodis’ novel _Down There_, François Truffaut’s second feature is a breezy New Wave concoction of genre pastiche, playful stylistic tricks and romantic reverie. Aznavour is charismatic as the nightclub pianist concealing a secret past who’s tempted to abandon his solitary ways when he falls for a colleague. Sadly, however, his brothers have angered local mobsters... A strain of melancholy pervades the constant narrative invention.
-
-bfi.org.uk
+Based on David Goodis’ novel _Down There_, François Truffaut’s second feature is a breezy New Wave concoction of genre pastiche, playful stylistic tricks and romantic reverie. Aznavour is charismatic as the nightclub pianist concealing a secret past who’s tempted to abandon his solitary ways when he falls for a colleague. Sadly, however, his brothers have angered local mobsters... A strain of melancholy pervades the constant narrative invention.  
+**bfi.org.uk**  
 
 After the success of _The 400 Blows_, Truffaut perversely wanted to make a film only for cinephiles, adapting David Goodis’s tough thriller _Down There_ to honour (and play with) the idea of American noir. Part crime melodrama, part romance, spiced with musical numbers, humour and slapstick (‘On my mother’s life’ indeed), _Shoot the Pianist_ is Truffaut’s most New Wave film – though as DP Raoul Coutard pointed out, Truffaut was a traditionalist in many ways, chiefly interested in the film’s emotional through-line and thrown by the new working methods. These required some ingenuity; that inky, atmospheric opening scene, diving like Albert Rémy’s chancer Chico between light and shade, is the result of rain blowing reflector lamp bulbs.
 
 The singer Charles Aznavour plays Charlie, the washed-up pianist of the title. Simultaneously tough-talking and timid, hollow-eyed with sadness, he is the most unlikely of noir heroes, his move from high to low art echoed by Truffaut’s own genre-slumming. Like Charlie, a protagonist riven with self-doubt, the movie itself looks oddly modern, due to the nimble mix of menace, melancholy and comic anecdote that make it so light on its feet.
 
-Unsurprisingly, the film’s protean charms left audiences cold on its release, ensuring that Truffaut achieved his original aim. Watching it back-to-back with _Jules et Jim_, what links the two is a relentless playfulness, as well as a desire to upend ideas of what a thriller or a period literary adaptation should look like – plus those ubiquitous man-to-man chats about love, equal parts worry and wonder, establishing Truffaut truly as the man who loved women.
+Unsurprisingly, the film’s protean charms left audiences cold on its release, ensuring that Truffaut achieved his original aim. Watching it back-to-back with _Jules et Jim_, what links the two is a relentless playfulness, as well as a desire to upend ideas of what a thriller or a period literary adaptation should look like – plus those ubiquitous man-to-man chats about love, equal parts worry and wonder, establishing Truffaut truly as the man who loved women.  
+**Kate Stables, _Sight and Sound_, October 2014**  
 
-Kate Stables, _Sight and Sound_, October 2014
-
-**François Truffaut on ‘Shoot the Pianist’**
-
+**François Truffaut on ‘Shoot the Pianist’**  
 _Nineteen years ago with your second film_ Shoot the Pianist _you took a lot of risks. Many people in England consider it your most exciting film even though it was a commercial flop. With very few exceptions, you hardly seem to have taken a risk since. You now have a solid financial base. Could you not now risk again a new departure, rather than continue, for example, the Antoine Doinel themes and characters, as you do in_ Love on the Run _[1979]?_
 
 I think that the charm of _Pianist_ arises from the element of chance, and this same element is also present in _Stolen Kisses_ [1968]. What these two films have in common is the fact that in each case it is impossible to anticipate what will happen next. And it is true that apart from the Doinel films I always know what is supposed to happen before I begin shooting – at least in general, though of course it is possible to improvise some of the details, because I have confidence in the actors. But during the filming of _Pianist_ I suffered from not knowing what was going to happen to the main character nor what the whole thing was really about. It was a genuine experiment, and it is true that I no longer have the stomach to try something as completely experimental again.
@@ -35,64 +30,34 @@ Ure: But it was such a relief to find a film that didn’t give you everything o
 Marcorelles: In fact Truffaut’s film was shot entirely outside the studio, on a small budget and with complete freedom. I was there, for instance, when he did one of the scenes between Aznavour and Nicole Berger, and he was alone with just the two actors and the cameraman.  
 **_Sight and Sound_, Spring 1961**  
 <br>
-<![endif]-->
 
-**SHOOT THE PIANIST (TIREZ SUR LE PIANISTE)**
-
-_Director:_ François Truffaut
-
-_Production:_ Films de la Pléiade
-
-_Presented by:_ Pierre Braunberger
-
-_Production Manager:_ Serge Komor
-
-_Production Administration:_ Roger Fleytoux
-
-_Production Secretary:_ Luce Deuss
-
-_Assistant Directors:_ Francis Cognany,
-
-Robert Bober, Björn Johansen
-
-_Script Girl:_ Suzanne Schiffman
-
-_Adaptation:_ F. Truffaut, Marcel Moussy
-
-_Dialogue:_ François Truffaut
-
+**SHOOT THE PIANIST (TIREZ SUR LE PIANISTE)**  
+_Director:_ François Truffaut  
+_Production:_ Films de la Pléiade  
+_Presented by:_ Pierre Braunberger  
+_Production Manager:_ Serge Komor  
+_Production Administration:_ Roger Fleytoux  
+_Production Secretary:_ Luce Deuss  
+_Assistant Directors:_ Francis Cognany, Robert Bober, Björn Johansen  
+_Script Girl:_ Suzanne Schiffman  
+_Adaptation:_ F. Truffaut, Marcel Moussy  
+_Dialogue:_ François Truffaut  
 _Based on the novel_ Down There _by:_
+David Goodis  
+_Director of Photography:_ Raoul Coutard  
+_Editors:_ Claudine Bouché, Cécile Decugis  
+_Art Director:_ Jacques Mély *  
+_Original Music:_ Georges Delerue  
+_Sound:_ Jacques Gallois *  
 
-David Goodis
-
-_Director of Photography:_ Raoul Coutard
-
-_Editors:_ Claudine Bouché, Cécile Decugis
-
-_Art Director:_ Jacques Mély *
-
-_Original Music:_ Georges Delerue
-
-_Sound:_ Jacques Gallois *
-
-_Cast:_
-
-Charles Aznavour
-
-_(Charlie Koler aka Edouard Saroyan)_
-
-Marie Dubois _(Lena)_
-
-Nicole Berger _(Theresa)_
-
-Michèle Mercier _(Clarisse)_
-
-Serge Davri _(Plyne)_
-
-Claude Mansard _(Momo)_
-
-Richard Kanayan _(Fido Saroyan)_
-
+**Cast**  
+Charles Aznavour _(Charlie Koler aka Edouard Saroyan)_  
+Marie Dubois _(Lena)_  
+Nicole Berger _(Theresa)_  
+Michèle Mercier _(Clarisse)_  
+Serge Davri _(Plyne)_  
+Claude Mansard _(Momo)_  
+Richard Kanayan _(Fido Saroyan)_  
 Jacques Aslanian _(Richard Saroyan)_  
 Daniel Boulanger _(Ernest)_  
 Claude Heymann _(Schmeel)_  
@@ -107,5 +72,5 @@ Digital
 
 * Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjQ3NDAxOSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMzY3MzQ3NTUsNzMwOTk4MTE2XX0=
 -->
