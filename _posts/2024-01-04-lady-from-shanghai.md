@@ -1,7 +1,17 @@
+---
+layout: post
+title: Charulata
+published: true
+date: 2024-01-02
+readtime: true
+categories: ['Big Screen Classics']
+tags:  [Drama]
+metadata: 'USA 19, 117 mins<br> Director: Satyajit Ray'
+pdf: '2024-01-02-charulata.pdf'
+---
 
 
 
-<![endif]-->
 
 The older I get, the more convinced I am of Orson Welles’s genius. That may not sound particularly worthy of comment, but I should explain that I’ve always believed he was one of those rare beings who deserved to be described with that much-overused word; so to be even more convinced about it now is saying a lot.
 
@@ -17,54 +27,33 @@ A few years ago, for example, I suddenly realised that the way Welles used archi
 
 And that’s true of most of his films. Take _The Lady from Shanghai_. Made in 1947, during the heyday of film noir, the film is famous for a plot so complex that it’s virtually unintelligible, and for its virtuoso climax in a fairground’s hall of mirrors. But it is also sometimes dismissed as a bit throwaway, a little too tongue-in-cheek, as if Welles were to be faulted for having a sense of humour. That feels unfair to me: one of the marvellous things about the movie is that it works very effectively both as a traditional if faintly baroque film noir – it has the requisite loser (Welles) falling for the requisite femme fatale (his then wife Rita Hayworth, giving one of her finest dramatic performances) and tumbling fatalistically into the requisite maelstrom of greed, twisted desire and deadly intrigue – and as a sly, witty commentary on noir conventions.
 
-Indeed, _The Lady from Shanghai_ is especially impressive on two fronts. First, like all his best work, it’s notable for how Welles simply packs so much more into any scene than we’ve come to expect and accept from other directors; at one given moment, due to the sheer density of the image and the soundtrack and to the subtlety of their relationship to one another, there’s so much more to take in and think about. Second, the film finds Welles at his most playful. Famously, in 1940, having been invited by RKO to make his first feature, he exclaimed: ‘This is the biggest electric train set any boy ever had.’ Watching a Welles film, one is constantly aware of his deep love of his medium, but with _Lady_ it feels as if he’s completely intoxicated by his passion for cinema and its enormous expressive potential; he’s high on being in love with a hugely popular and still young and developing artform that allows him to work whatever magic and indulge in whatever mischievous trickery he likes. And that love is wickedly contagious. See the film – repeatedly, if you can – and I think you’ll see what I mean.
+Indeed, _The Lady from Shanghai_ is especially impressive on two fronts. First, like all his best work, it’s notable for how Welles simply packs so much more into any scene than we’ve come to expect and accept from other directors; at one given moment, due to the sheer density of the image and the soundtrack and to the subtlety of their relationship to one another, there’s so much more to take in and think about. Second, the film finds Welles at his most playful. Famously, in 1940, having been invited by RKO to make his first feature, he exclaimed: ‘This is the biggest electric train set any boy ever had.’ Watching a Welles film, one is constantly aware of his deep love of his medium, but with _Lady_ it feels as if he’s completely intoxicated by his passion for cinema and its enormous expressive potential; he’s high on being in love with a hugely popular and still young and developing artform that allows him to work whatever magic and indulge in whatever mischievous trickery he likes. And that love is wickedly contagious. See the film – repeatedly, if you can – and I think you’ll see what I mean.  
+**Geoff Andrew, bfi.org.uk, 22 July 2014**  
 
-Geoff Andrew, bfi.org.uk, 22 July 2014
-
-**A contemporary review**
-
+**A contemporary review**  
 Such is the outline of a plot enriched by the complexities, the turns and twists, the feeling for atmosphere conveyed by a driving force behind the camera that are characteristics of an Orson Welles picture. Tropical settings, a brilliant court-room scene, the bunt in a Chinese theatre, build up the tension. Above all, the shadowy photography, a revealing close-up, a love scene silhouetted against the tanks of an aquarium, or the macabre climax reflected in distorting mirrors, achieve visual effects which cannot fail to stimulate the imagination.
 
 The acting is on a high level, led by Welles himself as O’Hara – his Irish brogue is soon forgotten – Rita Hayworth a dazzling figure as the lady, Glenn Anders as Grisby, and rounded off with a haunting study in malevolence by Everett Sloane as the crippled lawyer.  
 **_Monthly Film Bulletin_, May 1948**  
 <br>
-<![endif]-->
 
-**THE LADY FROM SHANGHAI**
-
-_Production [Director]:_ Orson Welles
-
-_Production Company:_
-
-Columbia Pictures Corporation
-
-_Production:_ Orson Welles
-
+**THE LADY FROM SHANGHAI**  
+_Production [Director]:_ Orson Welles  
+_Production Company:_ Columbia Pictures Corporation  
+_Production:_ Orson Welles  
 _Associate Producers:_ Richard Wilson,
-
-William Castle
-
-_Assistant Director:_ Sam Nelson
-
-_Screen Play:_ Orson Welles
-
-_Story based on a novel by:_ Sherwood King
-
-_Director of Photography:_ Charles Lawton Jr
-
-_Stills:_ Robert Coburn, Eddy Cronenweth
-
-_Editor:_ Viola Lawrence
-
-_Art Directors:_ Stephen Goossón, Sturges Carne
-
+William Castle  
+_Assistant Director:_ Sam Nelson  
+_Screen Play:_ Orson Welles  
+_Story based on a novel by:_ Sherwood King  
+_Director of Photography:_ Charles Lawton Jr  
+_Stills:_ Robert Coburn, Eddy Cronenweth  
+_Editor:_ Viola Lawrence  
+_Art Directors:_ Stephen Goossón, Sturges Carne  
 _Set Decorations:_ Wilbur Menefee,
-
-Herman Schoenbrun
-
-_Gowns:_ Jean Louis
-
-_Musical Score by:_ Heinz Roemheld 
+Herman Schoenbrun  
+_Gowns:_ Jean Louis  
+_Musical Score by:_ Heinz Roemheld  
 _Song ‘Please Don’t Kiss Me’ by:_ Allan Roberts, Doris Fisher  
 _Musical Director:_ M.W. Stoloff  
 _Sound Recording:_ Lodge Cunningham  
@@ -129,6 +118,60 @@ USA 1947©
 Digital 4K  
 
 Introduced by Geoff Andrew, Programmer-at-large (Wed 17 Jan)
+<br>
+
+
+**BIG SCREEN CLASSICS**  
+**Shoot the Pianist** Tirez sur le pianist  
+Mon 1 Jan 15:30; Sat 13 Jan 12:10; Tue 16 Jan 14:30  
+**Charulata**  
+Tue 2 Jan 20:40; Sun 14 Jan 17:45; Thu 18 Jan 14:30  
+**Psycho (Original Theatrical Cut)**  
+Wed 3 Jan 18:10; Fri 12 Jan 20:50; Thu 18 Jan 18:20  
+**The Lady from Shanghai**  
+Thu 4 Jan 20:40; Wed 17 Jan 18:30 (+ intro by Geoff Andrew, Programmer-at-large); Fri 26 Jan 18:10  
+**Lift to the Scaffold** Ascenseur pour l’échafaud  
+Fri 5 Jan 18:35; Sun 14 Jan 11:50; Tue 23 Jan 20:45  
+**Sunrise: A Song of Two Humans**  
+Sat 6 Jan 12:15; Wed 10 Jan 18:10 (+ intro by freelance film programmer Margaret Deriaz); Fri 19 Jan 18:15  
+**The Lady Eve**  
+Sun 7 Jan 12:20; Thu 25 Jan 18:30  
+**California Split**  
+Mon 8 Jan 20:45; Mon 22 Jan 18:10  
+**8 1/2**  Otto e mezzo  
+Tue 9 Jan 17:30; Sun 28 Jan 18:00  
+**Madame de...**  
+Thu 11 Jan 14:40; Sun 21 Jan 12:10; Wed 31 Jan 17:50 (+ intro by film critic Phuong Le)  
+**The Portrait of a Lady**  
+Fri 12 Jan 14:30; Sat 27 Jan 18:00; Tue 30 Jan 20:15  
+**A Serious Man**  
+Mon 15 Jan 18:10; Mon 29 Jan 20:45  
+**The Bigamist**  
+Sat 20 Jan 11:45; Wed 24 Jan 18:10 (+ intro by Foster Hirsch, author and professor, Brooklyn College of the City University of New York); Sat 27 Jan 21:00 
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzc0MzI5NDhdfQ==
+eyJoaXN0b3J5IjpbLTY3NjQ3Mzk2Ml19
 -->
