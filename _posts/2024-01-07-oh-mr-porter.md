@@ -14,8 +14,7 @@ This British comedy was a vehicle for the talents of Will Hay, Moore Marriott an
 
 Here, their characters are placed in a rural railway setting with Hay attempting to assert his authority as a new stationmaster, taking the name of Porter from a popular song (‘Oh, Mr Porter, whatever can I do?/I want to go Birmingham and/They’ve taken me on to Crewe’).
 
-The scene of Porter’s arrival by coach parodies that of _Dracula_ (1931): in both films, the locals warn a new arrival of fearful danger. In broader terms, this picture lightly reworks the idea of Arnold Ridley’s famous comedy-thriller  
-_The Ghost Train_, (already filmed twice, in 1927 and 1931) in which a phantom train is used to carry firearms.
+The scene of Porter’s arrival by coach parodies that of _Dracula_ (1931): in both films, the locals warn a new arrival of fearful danger. In broader terms, this picture lightly reworks the idea of Arnold Ridley’s famous comedy-thriller _The Ghost Train_, (already filmed twice, in 1927 and 1931) in which a phantom train is used to carry firearms.
 
 However, it is not the plot but the richly humorous characterisations and dialogue, together with the charming atmosphere and sharp pacing of the film, that make _Oh, Mr Porter!_ such a success. The station exterior was a real one about to be demolished and it is skilfully dressed by art director Vetchinsky, whose interior sets are also completely convincing.
 
