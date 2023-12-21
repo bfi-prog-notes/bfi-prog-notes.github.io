@@ -2,7 +2,7 @@
 layout: post
 title: Shoot the Pianist
 published: true
-date: 2024-01-201
+date: 2024-01-01
 readtime: true
 categories: ['Big Screen Classics']
 tags:  [Drama]
@@ -111,5 +111,5 @@ Mon 15 Jan 18:10; Mon 29 Jan 20:45
 **The Bigamist**  
 Sat 20 Jan 11:45; Wed 24 Jan 18:10 (+ intro by Foster Hirsch, author and professor, Brooklyn College of the City University of New York); Sat 27 Jan 21:00  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwOTczMzAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIxMTg0OTYyMDAsNzMwOTk4MTE2XX0=
 -->
