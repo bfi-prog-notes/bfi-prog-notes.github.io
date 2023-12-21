@@ -1,17 +1,14 @@
 ---
 layout: post
-title: Charulata
+title: The Lady from Shanghai
 published: true
-date: 2024-01-02
+date: 2024-01-04
 readtime: true
 categories: ['Big Screen Classics']
-tags:  [Drama]
-metadata: 'USA 19, 117 mins<br> Director: Satyajit Ray'
-pdf: '2024-01-02-charulata.pdf'
+tags:  [Drama, Film Noir, Crime]
+metadata: 'USA 1947, 87 mins<br> Director: Orson Welles'
+pdf: '2024-01-04-lady-from-shanghai.pdf'
 ---
-
-
-
 
 The older I get, the more convinced I am of Orson Welles’s genius. That may not sound particularly worthy of comment, but I should explain that I’ve always believed he was one of those rare beings who deserved to be described with that much-overused word; so to be even more convinced about it now is saying a lot.
 
@@ -173,5 +170,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjQ3Mzk2Ml19
+eyJoaXN0b3J5IjpbLTkxNDM0Njk3Ml19
 -->
