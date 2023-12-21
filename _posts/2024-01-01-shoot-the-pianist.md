@@ -93,27 +93,19 @@ Claude Mansard _(Momo)_
 
 Richard Kanayan _(Fido Saroyan)_
 
-Jacques Aslanian _(Richard Saroyan)_
+Jacques Aslanian _(Richard Saroyan)_  
+Daniel Boulanger _(Ernest)_  
+Claude Heymann _(Schmeel)_  
+Alex Joffé _(passer-by)_  
+Boby Lapointe _(singer)_  
+Cathérine Lutz _(Mammy)_  
+Albert Rémy _(Chico Saroyan)_  
 
-Daniel Boulanger _(Ernest)_
+France 1960  
+80 mins  
+Digital  
 
-Claude Heymann _(Schmeel)_
-
-Alex Joffé _(passer-by)_
-
-Boby Lapointe _(singer)_
-
-Cathérine Lutz _(Mammy)_
-
-Albert Rémy _(Chico Saroyan)_
-
-France 1960
-
-80 mins
-
-Digital
-
-* Uncredited
+* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0Mzg0MzczOSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTk0NjQ3NDAxOSw3MzA5OTgxMTZdfQ==
 -->
