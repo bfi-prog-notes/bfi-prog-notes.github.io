@@ -5,75 +5,47 @@ This and the film’s maturity and lack of drama recall _Sunday Bloody Sunday_, 
 
 Confrontation is represented obliquely – the stable boy revealing that he would lose his job if his homosexuality were known, the mocking reaction of a woman passenger to Frank and Bernd in fancy-dress. This approach is true of the portrayal of politics as a whole – Frank deciding to go to the baths instead of a meeting on Chile, his amusement at a neo-Nazi on TV calling on homosexuals to be put in work-camps. The most sustained ‘political’ sequence is the projection of the anti-gay film – required viewing at Ripploh’s own school – which also reveals the director’s assurance in his medium: the film-within-the-film combines with the favourite device of the cross-cut (often to-ing and fro-ing between Bernd and Frank) to show how Frank in the other room is trying, not to seduce his pupil, but to get him to pay attention to the dictation. The ending is not schematic: Bernd hugging a lamb in the countryside is the ‘tender’, couple-oriented homosexual; Frank is restless, but he does love Bernd, and the revelation of their reconciliation implies that nothing is really resolved. But the film’s irony, though often self-directed, hints at the creatively subversive nature of the subject: when Frank ‘comes out’ to his pupils, the result is not a round of serious questioning but the manifestation of anarchic revolt.  
 **Bill Marshall, _Monthly Film Bulletin_, January 1982**
+<br><br>
+
+**TAXI ZUM KLO**<br>
+_Director:_ Frank Ripploh<br>
+_Production Company:_ Filmwelt<br>
+_Producers:_ Laurens Straub, Frank Ripploh<br>
+_Production Assistance:_ Karl Beckers, Hajo Corsten, Günther Kortwich, Christian Moldt, Knut Schaller, Andreas Höhne<br>
+_Assistant Director:_ Peter Fahrni<br>
+_Screenplay:_ Frank Ripploh<br>
+_Director of Photography:_ Horst Schier<br>
+_Assistant Photographer:_ Hannes Geyer<br>
+_Editors:_ Marina Runne, Matthias von Gunten<br>
+
+**Cast**<br>
+Frank Ripploh _(Frank)_<br>
+Bernd Broaderup _(Bernd)_<br>
+Orpha Termin _(female neighbour)_<br>
+Peter Fahrni _(garage attendant)_<br>
+Dieter Gödde _(masseur)_<br>
+Klaus Schnee, Bernd Kröger, Markus Voigtländer, Irmgard Lademacher, Gregor Becker,  Marguerite Dupont, Eberhard Freudenthal,  Beate Springer _(teachers)_<br>
+Millie Büttner _(strange woman)_<br>
+Gitta Lederer _(mother)_<br>
+Hans Gerd Mertens _(1st leatherboy)_<br>
+Ulla Topf _(prostitute)_<br>
+Franco Papadu _(Italian)_<br>
+Tabea Blumenschein _(lady)_<br>
+Magdalena Montezuma _(doctor’s assistant)_<br>
+Jürgen Möller _(skin doctor)_<br>
+Valeska Gerstenberg _(Irmchen)_<br>
+Brigitte Knigge _(travel agent)_<br>
+Hans Kellner _(taxi driver)_<br>
+Ric Schachtebeck _(2nd leatherboy)_<br>
+
+West Germany 1981<br>
+98 mins<br>
+Digital<br>
+
+The screening on Mon 8 Jan will be introduced by Scala usher Vic Roberts<br>
+<br>
 
 
-**TAXI ZUM KLO**
-
-_Director:_ Frank Ripploh
-
-_Production Company:_ Filmwelt
-
-_Producers:_ Laurens Straub, Frank Ripploh
-
-_Production Assistance:_ Karl Beckers, Hajo Corsten, Günther Kortwich, Christian Moldt, Knut Schaller, Andreas Höhne
-
-_Assistant Director:_ Peter Fahrni
-
-_Screenplay:_ Frank Ripploh
-
-_Director of Photography:_ Horst Schier
-
-_Assistant Photographer:_ Hannes Geyer
-
-_Editors:_ Marina Runne, Matthias von Gunten
-
-_Cast:_
-
-Frank Ripploh _(Frank)_
-
-Bernd Broaderup _(Bernd)_
-
-Orpha Termin _(female neighbour)_
-
-Peter Fahrni _(garage attendant)_
-
-Dieter Gödde _(masseur)_
-
-Klaus Schnee, Bernd Kröger, Markus Voigtländer, Irmgard Lademacher, Gregor Becker,  
-Marguerite Dupont, Eberhard Freudenthal,  
-Beate Springer _(teachers)_
-
-Millie Büttner _(strange woman)_
-
-Gitta Lederer _(mother)_
-
-Hans Gerd Mertens _(1st leatherboy)_
-
-Ulla Topf _(prostitute)_
-
-Franco Papadu _(Italian)_
-
-Tabea Blumenschein _(lady)_
-
-Magdalena Montezuma _(doctor’s assistant)_
-
-Jürgen Möller _(skin doctor)_
-
-Valeska Gerstenberg _(Irmchen)_
-
-Brigitte Knigge _(travel agent)_
-
-Hans Kellner _(taxi driver)_
-
-Ric Schachtebeck _(2nd leatherboy)_
-
-West Germany 1981
-
-98 mins
-
-Digital
-
-The screening on Mon 8 Jan will be introduced by Scala usher Vic Roberts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTM3OTUyMV19
+eyJoaXN0b3J5IjpbLTExMTYyOTk1MTddfQ==
 -->
