@@ -13,19 +13,17 @@ Herzog does not suggest that his subjects would be better left to their own devi
 **Richard Combs, _Monthly Film Bulletin_, June 1983**
 <br><br>
 
-**LAND OF SILENCE AND DARKNESS**
-**(LAND DES SCHWEIGENS UND DER DUNKELHEIT)**
-
+**LAND OF SILENCE AND DARKNESS**  
+**(LAND DES SCHWEIGENS UND DER DUNKELHEIT)**  
 _Director:_ Werner Herzog  
-_Production Company:_  
-Werner Herzog Filmproduktion  
+_Production Company:_  Werner Herzog Filmproduktion  
 _Producer:_ Werner Herzog  
 _Photography:_ Jörg Schmidt-Reitwein  
 _Editor:_ Beate Mainka-Jellinghaus  
 _Music:_ Johann Sebastian Bach, Antonio Vivaldi  
 _Narrator:_ Rolf Illig  
-_With:_
 
+**With**  
 Fini Straubinger  
 Miss Juliet  
 Mr. Mittermeier  
@@ -36,11 +34,11 @@ Harald
 Michael  
 Vladimir Kokol  
 Heinrich Fleischmann  
-West Germany 1971
 
-85 mins
-
+West Germany 1971  
+85 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MzIyMTQyXX0=
+eyJoaXN0b3J5IjpbLTExNjI3NTM4ODRdfQ==
 -->
