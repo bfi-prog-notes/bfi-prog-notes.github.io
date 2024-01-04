@@ -29,7 +29,7 @@ _Costumes:_ Gisela Storch, Ann Poppel
 _Music:_ Popol Vuh, Studio der Frühen Musik  
 _Sound:_ Haymo H. Heyder, Peter van Anft  
 
-_Cast**
+**Cast**  
 Josef Bierbichler _(Hias)_  
 Stefan Güttler _(factory owner)_  
 Clemens Scheitz _(Adalbert)_  
@@ -49,8 +49,7 @@ Egmont Hugel _(Harp Toni)_
 Wolfram Kunkel _(hurdy gurdy man)_  
 Werner Lederle _(publican)_  
 Agnes Nuissl _(Anamirl)_  
-Helmut Kossick, Amad Ibn Ghassem Nadij,  
-Bernhard Schabel, Friedrich Steinhauer _(farmers)_  
+Helmut Kossick, Amad Ibn Ghassem Nadij,  Bernhard Schabel, Friedrich Steinhauer _(farmers)_  
 Joschi Arpa _(the liar)_  
 Claude Chiarini _(the thief)_  
 Martje Herzog _(peasant woman)_  
@@ -62,11 +61,11 @@ Arno Vahrenwald
 Detley Weiler  
 Siegfried Wolf  
 Karl Yblagger  
-West Germany 1976
 
-94 mins
-
+West Germany 1976  
+94 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA3OTg1NDVdfQ==
+eyJoaXN0b3J5IjpbLTYzMjI5MzU1NF19
 -->
