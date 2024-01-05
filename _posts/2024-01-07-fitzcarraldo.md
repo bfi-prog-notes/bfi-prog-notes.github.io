@@ -20,185 +20,179 @@ This is not to say that _Fitzcarraldo_ is not spectacular or exciting (which it 
 <br><br>
 
 **FITZCARRALDO**<br>
-
 _Director:_ Werner Herzog<br>
-
 ©_:_ Werner Herzog Filmproduktion<br>
+_Production Company:_  Werner Herzog Filmproduktion<br>
+_In association with:_ Pro-ject Filmproduktion im Filmverlag der Autoren, ZDF – Zweites Deutsches Fernsehen<br>
+_Production Services in Peru:_  Wildlife Films Peru S.A. (Iquitos)<br>
+_Produced by:_ Werner Herzog, Lucki Stipetic<br>
+_Production Manager:_ Walter Saxer<br>
 
-_Production Company:_  
-Werner Herzog Filmproduktion<br>
+_Production Manager – Brazil:_ George Sluizer<br>
 
-_In association with:_ Pro-ject Filmproduktion im Filmverlag der Autoren, ZDF – Zweites Deutsches Fernsehen
-
-_Production Services in Peru:_  
-Wildlife Films Peru S.A. (Iquitos)
-
-_Produced by:_ Werner Herzog, Lucki Stipetic
-
-_Production Manager:_ Walter Saxer
-
-_Production Manager – Brazil:_ George Sluizer
-
-_Production Assistant – Peru:_ Gustavo Cerff Arbulú
+_Production Assistant – Peru:_ Gustavo Cerff Arbulú<br>
 
 _Production Secretaries – Peru:_ Nancy Ríos,  
-Claire André
+Claire André<br>
 
-_Assistant Director:_ Jorge Vignati
+_Assistant Director:_ Jorge Vignati<br>
 
-_Assistant Director – Brazil:_ Frederico Confalonieri
+_Assistant Director – Brazil:_ Frederico Confalonieri<br>
 
-_Script Supervisor:_ Anja Schmidt-Zäringer
+_Script Supervisor:_ Anja Schmidt-Zäringer<br>
 
-_Screenplay:_ Werner Herzog
+_Screenplay:_ Werner Herzog<br>
 
-_Director of Photography:_ Thomas Mauch
+_Director of Photography:_ Thomas Mauch<br>
 
-_2nd Unit Photographer:_ Rainer Klausmann
+_2nd Unit Photographer:_ Rainer Klausmann<br>
 
-_Lighting:_ Raimund Wirner, Hans Peter Vogt
+_Lighting:_ Raimund Wirner, Hans Peter Vogt<br>
 
-_Camera Assistant:_ Beat Presser
+_Camera Assistant:_ Beat Presser<br>
 
-_Stills Photography:_ Beat Presser
+_Stills Photography:_ Beat Presser<br>
 
-_Special Effects:_ Miguel Vazquez
+_Special Effects:_ Miguel Vazquez<br>
 
-_Editor:_ Beate Mainka-Jellinghaus
+_Editor:_ Beate Mainka-Jellinghaus<br>
 
-_Assistant Editors:_ Carola Mai, Linda Kuusisto
+_Assistant Editors:_ Carola Mai, Linda Kuusisto<br>
 
-_Art Directors:_ Henning von Gierke, Ulrich Bergfelder
+_Art Directors:_ Henning von Gierke, Ulrich Bergfelder<br>
 
-_Carpenter:_ El Tigre Carlos Calvo Soria
+_Carpenter:_ El Tigre Carlos Calvo Soria<br>
 
 _Boat Construction:_  
-Servicio Industrial de la Marina Iquitos (SIMAI)
+Servicio Industrial de la Marina Iquitos (SIMAI)<br>
 
 _Rio Camisea Camp Construction:_  
-César Vivanco Luna, Victor Trigoso
+César Vivanco Luna, Victor Trigoso<br>
 
-_Indian Camp Construction:_ Jaime Mourıa Ríos
+_Indian Camp Construction:_ Jaime Mourıa Ríos<br>
 
-_Costumes:_ Gisela Storch
+_Costumes:_ Gisela Storch<br>
 
 _Assistant Costumes:_ Franz Blumauer,
 
-Rosemary Kaye, Elizabeth Irmer
+Rosemary Kaye, Elizabeth Irmer<br>
 
-_Make-up/Hair:_ Stefano Fava, Gloria Fava
+_Make-up/Hair:_ Stefano Fava, Gloria Fava<br>
 
-_Assistant Make-up:_ Jaque Monteiro, Carlos Prieto
+_Assistant Make-up:_ Jaque Monteiro, Carlos Prieto<br>
 
-_Music:_ Popol Vuh
+_Music:_ Popol Vuh<br>
 
 _Manaos Opera_ Ernani _Directed by:_  
-Werner Schroeter
+Werner Schroeter<br>
 
-_Original Enrico Caruso Recordings:_ RCA Victor
+_Original Enrico Caruso Recordings:_ RCA Victor<br>
 
-_Sound Recording:_ Juarez Dagoberto, Zezé D’Alice
+_Sound Recording:_ Juarez Dagoberto, Zezé D’Alice<br>
 
-_Sound Editor:_ Petra Mantoudis *
+_Sound Editor:_ Petra Mantoudis *<br>
 
-_Post-synchronization:_ Jesse Vogel *
+_Post-synchronization:_ Jesse Vogel *<br>
 
-_Technical Advisers:_ Eglington Ayarza Boulloza, Guardamino Benigno Pauca
+_Technical Advisers:_ Eglington Ayarza Boulloza, Guardamino Benigno Pauca<br>
 
 _Boat Crew:_ Pedro Notorce Ahuanari,
 
 Pedro Padilla Chota, René Baneo Vazquez,  
-Walter Pinedo Alvarez
+Walter Pinedo Alvarez<br>
 
-_Transport:_ Tercero Efraín Panaifo Indama
+_Transport:_ Tercero Efraín Panaifo Indama<br>
 
 _Medical Advisers:_ Dr Tomás Parraga Aliaga,  
-Victor Tello Pineda
+Victor Tello Pineda<br>
 
-_Dialogue Coach:_ William L. Rose
+_Dialogue Coach:_ William L. Rose<br>
 
-_Cast:_
+_Cast:_<br>
 
 Klaus Kinski  
-_(Brian Sweeney Fitzgerald, ‘Fitzcarraldo’)_
+_(Brian Sweeney Fitzgerald, ‘Fitzcarraldo’)_<br>
 
-José Lewgoy _(Don Aquilino)_
+José Lewgoy _(Don Aquilino)_<br>
 
-Miguel Angel Fuentes _(Cholo)_
+Miguel Angel Fuentes _(Cholo)_<br>
 
-Paul Hittscher _(captain of the Orinoco Paul)_
+Paul Hittscher _(captain of the Orinoco Paul)_<br>
 
 Huerequeque Enrique Bohorquez  
-_(Huerequeque, the cook)_
+_(Huerequeque, the cook)_<br>
 
-Grande Otélo _(station master)_
+Grande Otélo _(station master)_<br>
 
-Peter Berling _(Manos Opera House director)_
+Peter Berling _(Manos Opera House director)_<br>
 
-David Pérez Espinosa _(Campa indians chief)_
+David Pérez Espinosa _(Campa indians chief)_<br>
 
-Milton Nascimento _(black doorman at opera house)_
+Milton Nascimento _(black doorman at opera house)_<br>
 
-Rui Polanah _(rubber baron)_
+Rui Polanah _(rubber baron)_<br>
 
-Salvador Godínez _(old missionary)_
+Salvador Godínez _(old missionary)_<br>
 
-Dieter Milz _(young missionary)_
+Dieter Milz _(young missionary)_<br>
 
-Bill Rose _(lawyer)_
+Bill Rose _(lawyer)_<br>
 
-Leoncio Bueno _(prison warder)_
+Leoncio Bueno _(prison warder)_<br>
 
-Claudia Cardinale _(Molly)_
+Claudia Cardinale _(Molly)_<br>
 
 Miguel Camaiteri Fernandez, Nicolás Camaiteri Fernandez, Pascual Camaiteri Fernandez
 
-_(Ashinka-Campa chiefs)_
+_(Ashinka-Campa chiefs)_<br>
 
-_Manaos opera_ Ernani _by Giuseppe Verdi:_
+_Manaos opera_ Ernani _by Giuseppe Verdi:_<br>
 
-Veriano Luchetti _(singing voice of ‘Ernani’)_
+Veriano Luchetti _(singing voice of ‘Ernani’)_<br>
 
-Costante Moret _(‘Ernani’)_
+Costante Moret _(‘Ernani’)_<br>
 
-Dimiter Petkov _(singing voice of ‘Silva’)_
+Dimiter Petkov _(singing voice of ‘Silva’)_<br>
 
-Dimiter Petkov _(‘Silva’)_
+Dimiter Petkov _(‘Silva’)_<br>
 
-Mietta Sighele _(singing voice of ‘Elvira’)_
+Mietta Sighele _(singing voice of ‘Elvira’)_<br>
 
-Lourdes Magalhães _(orchestra pit singer)_
+Lourdes Magalhães _(orchestra pit singer)_<br>
 
-Jean-Claude Dreyfuss _(Sarah Bernhardt)_
+Jean-Claude Dreyfuss _(Sarah Bernhardt)_<br>
 
-Gianni Ratto _(bühnenbild)_
+Gianni Ratto _(bühnenbild)_<br>
 
-Orchestra Filarmonia Veneta _(orchestra)_
+Orchestra Filarmonia Veneta _(orchestra)_<br>
 
-Maestro Giorgio Croci _(orchestra conductor)_
+Maestro Giorgio Croci _(orchestra conductor)_<br>
 
-_Opera_ I puritani _by Vincenzo Bellini:_
+_Opera_ I puritani _by Vincenzo Bellini:_<br>
 
-Orquesta Sinfónica del Repertorio (Lima) _(orchestra)_
+Orquesta Sinfónica del Repertorio (Lima) _(orchestra)_<br>
 
 Maestro Manuel Cuadros Barr  
-_(orchestra conductor)_
+_(orchestra conductor)_<br>
 
-Isabel Jimenez de Cisneros _(‘Doña Elvira’)_
+Isabel Jimenez de Cisneros _(‘Doña Elvira’)_<br>
 
-Liborio Simonella _(‘Arturo’)_
+Liborio Simonella _(‘Arturo’)_<br>
 
-Jesus Goiri _(‘Giorgio’)_
+Jesus Goiri _(‘Giorgio’)_<br>
 
-Christian Mantilla _(‘Walton’)_
+Christian Mantilla _(‘Walton’)_<br>
 
-West Germany 1981©
+West Germany 1981©<br>
 
-158 mins
+158 mins<br>
 
-Digital
+Digital<br>
 
-* Uncredited
+*Uncredited<br>
+<br>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzUwNTgxMl19
+eyJoaXN0b3J5IjpbMTE1MjgxMTU0OF19
 -->
