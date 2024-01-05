@@ -27,166 +27,82 @@ _In association with:_ Pro-ject Filmproduktion im Filmverlag der Autoren, ZDF �
 _Production Services in Peru:_  Wildlife Films Peru S.A. (Iquitos)<br>
 _Produced by:_ Werner Herzog, Lucki Stipetic<br>
 _Production Manager:_ Walter Saxer<br>
-
 _Production Manager – Brazil:_ George Sluizer<br>
-
 _Production Assistant – Peru:_ Gustavo Cerff Arbulú<br>
-
-_Production Secretaries – Peru:_ Nancy Ríos,  
-Claire André<br>
-
+_Production Secretaries – Peru:_ Nancy Ríos,  Claire André<br>
 _Assistant Director:_ Jorge Vignati<br>
-
 _Assistant Director – Brazil:_ Frederico Confalonieri<br>
-
 _Script Supervisor:_ Anja Schmidt-Zäringer<br>
-
 _Screenplay:_ Werner Herzog<br>
-
 _Director of Photography:_ Thomas Mauch<br>
-
 _2nd Unit Photographer:_ Rainer Klausmann<br>
-
 _Lighting:_ Raimund Wirner, Hans Peter Vogt<br>
-
 _Camera Assistant:_ Beat Presser<br>
-
 _Stills Photography:_ Beat Presser<br>
-
 _Special Effects:_ Miguel Vazquez<br>
-
 _Editor:_ Beate Mainka-Jellinghaus<br>
-
 _Assistant Editors:_ Carola Mai, Linda Kuusisto<br>
-
 _Art Directors:_ Henning von Gierke, Ulrich Bergfelder<br>
-
 _Carpenter:_ El Tigre Carlos Calvo Soria<br>
-
-_Boat Construction:_  
-Servicio Industrial de la Marina Iquitos (SIMAI)<br>
-
-_Rio Camisea Camp Construction:_  
-César Vivanco Luna, Victor Trigoso<br>
-
+_Boat Construction:_  Servicio Industrial de la Marina Iquitos (SIMAI)<br>
+_Rio Camisea Camp Construction:_  César Vivanco Luna, Victor Trigoso<br>
 _Indian Camp Construction:_ Jaime Mourıa Ríos<br>
-
 _Costumes:_ Gisela Storch<br>
-
-_Assistant Costumes:_ Franz Blumauer,
-
-Rosemary Kaye, Elizabeth Irmer<br>
-
+_Assistant Costumes:_ Franz Blumauer, Rosemary Kaye, Elizabeth Irmer<br>
 _Make-up/Hair:_ Stefano Fava, Gloria Fava<br>
-
 _Assistant Make-up:_ Jaque Monteiro, Carlos Prieto<br>
-
 _Music:_ Popol Vuh<br>
-
-_Manaos Opera_ Ernani _Directed by:_  
-Werner Schroeter<br>
-
+_Manaos Opera_ Ernani _Directed by:_  Werner Schroeter<br>
 _Original Enrico Caruso Recordings:_ RCA Victor<br>
-
 _Sound Recording:_ Juarez Dagoberto, Zezé D’Alice<br>
-
 _Sound Editor:_ Petra Mantoudis *<br>
-
 _Post-synchronization:_ Jesse Vogel *<br>
-
 _Technical Advisers:_ Eglington Ayarza Boulloza, Guardamino Benigno Pauca<br>
-
-_Boat Crew:_ Pedro Notorce Ahuanari,
-
-Pedro Padilla Chota, René Baneo Vazquez,  
-Walter Pinedo Alvarez<br>
-
+_Boat Crew:_ Pedro Notorce Ahuanari, Pedro Padilla Chota, René Baneo Vazquez,  Walter Pinedo Alvarez<br>
 _Transport:_ Tercero Efraín Panaifo Indama<br>
-
-_Medical Advisers:_ Dr Tomás Parraga Aliaga,  
-Victor Tello Pineda<br>
-
+_Medical Advisers:_ Dr Tomás Parraga Aliaga,  Victor Tello Pineda<br>
 _Dialogue Coach:_ William L. Rose<br>
 
-_Cast:_<br>
-
-Klaus Kinski  
-_(Brian Sweeney Fitzgerald, ‘Fitzcarraldo’)_<br>
-
+**Cast**<br>
+Klaus Kinski  _(Brian Sweeney Fitzgerald, ‘Fitzcarraldo’)_<br>
 José Lewgoy _(Don Aquilino)_<br>
-
 Miguel Angel Fuentes _(Cholo)_<br>
-
 Paul Hittscher _(captain of the Orinoco Paul)_<br>
-
-Huerequeque Enrique Bohorquez  
-_(Huerequeque, the cook)_<br>
-
+Huerequeque Enrique Bohorquez  _(Huerequeque, the cook)_<br>
 Grande Otélo _(station master)_<br>
-
 Peter Berling _(Manos Opera House director)_<br>
-
 David Pérez Espinosa _(Campa indians chief)_<br>
-
 Milton Nascimento _(black doorman at opera house)_<br>
-
 Rui Polanah _(rubber baron)_<br>
-
 Salvador Godínez _(old missionary)_<br>
-
 Dieter Milz _(young missionary)_<br>
-
 Bill Rose _(lawyer)_<br>
-
 Leoncio Bueno _(prison warder)_<br>
-
 Claudia Cardinale _(Molly)_<br>
-
-Miguel Camaiteri Fernandez, Nicolás Camaiteri Fernandez, Pascual Camaiteri Fernandez
-
-_(Ashinka-Campa chiefs)_<br>
+Miguel Camaiteri Fernandez, Nicolás Camaiteri Fernandez, Pascual Camaiteri Fernandez _(Ashinka-Campa chiefs)_<br>
 
 _Manaos opera_ Ernani _by Giuseppe Verdi:_<br>
-
 Veriano Luchetti _(singing voice of ‘Ernani’)_<br>
-
 Costante Moret _(‘Ernani’)_<br>
-
 Dimiter Petkov _(singing voice of ‘Silva’)_<br>
-
 Dimiter Petkov _(‘Silva’)_<br>
-
 Mietta Sighele _(singing voice of ‘Elvira’)_<br>
-
 Lourdes Magalhães _(orchestra pit singer)_<br>
-
 Jean-Claude Dreyfuss _(Sarah Bernhardt)_<br>
-
 Gianni Ratto _(bühnenbild)_<br>
-
 Orchestra Filarmonia Veneta _(orchestra)_<br>
-
 Maestro Giorgio Croci _(orchestra conductor)_<br>
 
 _Opera_ I puritani _by Vincenzo Bellini:_<br>
-
 Orquesta Sinfónica del Repertorio (Lima) _(orchestra)_<br>
-
-Maestro Manuel Cuadros Barr  
-_(orchestra conductor)_<br>
-
+Maestro Manuel Cuadros Barr  _(orchestra conductor)_<br>
 Isabel Jimenez de Cisneros _(‘Doña Elvira’)_<br>
-
 Liborio Simonella _(‘Arturo’)_<br>
-
 Jesus Goiri _(‘Giorgio’)_<br>
-
 Christian Mantilla _(‘Walton’)_<br>
 
 West Germany 1981©<br>
-
 158 mins<br>
-
 Digital<br>
 
 *Uncredited<br>
@@ -194,5 +110,5 @@ Digital<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjgxMTU0OF19
+eyJoaXN0b3J5IjpbLTIzMDA2NDAxMl19
 -->
