@@ -40,36 +40,24 @@ _Funded by_: Arts Council (An Chomhairle Ealaíon)
 _With the support of_: Flanders Audiovisual Fund, Centre du Cinéma et de l’Audiovisuel de la Communauté française de Belgique, télédistributeurs wallons, Tax Shelter du Gouvernement Fédéral de Belgique, Tax-Shelter ING Invest de Tax Shelter Productions, Belgacom, Kinepolis Group  
 _Production Companies_: Canal+, Ciné-Cinémas, Bord Scannán na hÉireann, Promimage, Wallimage, Conseil Général de la Charente, Eurimages Conseil de l’Europe, Media Plus, i2i  
 _International Sales_: Celluloïd Dreams  
-_Executive Producers_: Ivan Rouveure,  Viviane Vanfleteren, James Flynn
-
-_Producers_: Didier Brunner, Viviane Vanfleteren,  
-Paul Young  
+_Executive Producers_: Ivan Rouveure,  Viviane Vanfleteren, James Flynn  
+_Producers_: Didier Brunner, Viviane Vanfleteren,  Paul Young  
 _Co-producer_: Tomm Moore  
 _Line Producer_: Katia Besimensky  
-_Delegate Producers_: Ferenc Mikulás
-
-_Head of Development_: Mireille Ciment
-
-_Production Manager and Final Checking_:  
-Edit Sándor  
+_Delegate Producers_: Ferenc Mikulás  
+_Head of Development_: Mireille Ciment  
+_Production Manager and Final Checking_:  Edit Sándor  
 _Head of Production_: Katia Besimensky  
 _Head of Finance_: Ivan Rouveure  
 _1st Assistant Director_: Rémi Chayé  
 _Screenplay_: Fabrice Ziolkowski  
 _Story_: Tomm Moore  
 _Storyboard_: Rémi Chayé  
-_Animation Studios_: Cartoon Saloon, A Man & Ink, Walking the Dog, Kecskemét Film, Lightstar,
-
-Digital Graphics Studio, Blue Spirit Studio  
-_Compositing Supervisors_: Anton Roebben,
-
-Didier Henry, Damien Leydet
-
+_Animation Studios_: Cartoon Saloon, A Man & Ink, Walking the Dog, Kecskemét Film, Lightstar, Digital Graphics Studio, Blue Spirit Studio  
+_Compositing Supervisors_: Anton Roebben, Didier Henry, Damien Leydet  
 _Animation Supervisor_: Fabian Erlinghäuser  
-_Creative Supervisor_: Anton Roebben
-
-_Head of FX_: Jeremy Purcell
-
+_Creative Supervisor_: Anton Roebben  
+_Head of FX_: Jeremy Purcell  
 _Editor_: Fabienne Alvarez-Giro  
 _Editorial Advisor_: Joseph Fitzpatrick  
 _Art Director_: Ross Stewart  
@@ -87,10 +75,9 @@ _Voice Recording Co-ordinator_: Kairen Waloch
 _Sound Recording Mixer_: Fabien Devillers  
 _Supervising Sound Editor_: Jean-Marc Lentretien  
 _Sound Editor_: Sébastian Marquilly  
-_Sound Editing_: Sébastien Cortequisse,  
-Alexandre Fleurant
+_Sound Editing_: Sébastien Cortequisse,  Alexandre Fleurant
 
-_Voice Cast:_  
+**Voice Cast**  
 Evan McGuire _(Brendan)_  
 Mick Lally _(Brother Aidan of Iona)_  
 Christen Mooney _(Aisling)_  
@@ -100,11 +87,10 @@ Paul Tylak _(Brother Assoua)_
 Michael McGrath _(adult Brendan)_  
 Paul Young _(Brother Square)_
 
-France-Belgium-Ireland 2009©
-
-79 mins
-
+France-Belgium-Ireland 2009©  
+79 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5NTg2Mjc4XX0=
+eyJoaXN0b3J5IjpbMzI4MzA3OTQ0XX0=
 -->
