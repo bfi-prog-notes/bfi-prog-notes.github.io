@@ -30,11 +30,9 @@ Picked out individually from the tableau of somnambulistic gamblers, racetrack m
 **CALIFORNIA SPLIT**  
 _Director_: Robert Altman  
 ©: Reno Associates  
-_Production Companies_: Reno Associates,  
-Columbia Pictures Corporation  
+_Production Companies_: Reno Associates,cColumbia Pictures Corporation  
 _Production Company_: Bright-Persky Associates *  
-_Executive Producers_: Aaron Spelling,  
-Leonard Goldberg  
+_Executive Producers_: Aaron Spelling, Leonard Goldberg  
 _Producers_: Robert Altman, Joseph Walsh  
 _Associate Producer_: Robert Eggenweiler  
 _Production Manager_: Tommy Thompson *  
@@ -52,8 +50,7 @@ _Electrical Gaffer_: Randy Glass
 _Grips_: Harry Rez, Eddie Lara, Tom Doherty  
 _Editor_: Lou Lombardo  
 _Titles Editor_: O. Nicholas Brown  
-_Editorial Assistants_: Marion Segal,  
-Stephen W. Altman  
+_Editorial Assistants_: Marion Segal, Stephen W. Altman  
 _Assistant Editors_: Tony Lombardo, Dennis M. Hill  
 _Art Director_: Leon Ericksen  
 _Set Decorator_: Sam Jones  
@@ -97,8 +94,7 @@ Mike Greene _(Reno dealer)_
 Tom Signorelli _(Nugie)_  
 Sharon Compton _(Nugie’s wife)_  
 Arnold Herzstein, Alvin Weissman, Marc Cavell, Mickey Fox, Carolyn Lohmann _(California Club poker players)_  
-‘Amarillo Slim’ Preston, Winston Lee,  
-Harry Drackett, Thomas Hal Phillips, Ted Say,  A.J. Hood _(Reno poker players)_  
+‘Amarillo Slim’ Preston, Winston Lee, Harry Drackett, Thomas Hal Phillips, Ted Say,  A.J. Hood _(Reno poker players)_  
 
 USA 1974©  
 108 mins  
