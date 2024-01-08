@@ -21,16 +21,13 @@ In this film about chance, chance is the absolute ruler. Charlie and Bill happen
 
 Yet under its _M*A*S*H_-like surface, _California Split_ reveals a very distinct structure radiating from two hidden backbones. One is the relationship between Charlie and Bill, which plays happily – unlike _M*A*S*H_, where Gould and Sutherland could have exchanged roles – on the conflicting personalities of the two stars. Where Elliott Gould is the wild eccentric reacting to the improbable with imperturbably calm familiarity, George Segal is his exact opposite, ordinary man threatening to splinter into hysteria at the onset of the unexpected. And as Gould’s Mad Hatter conducts Segal’s Alice through California’s night-town, one begins to glimpse the irony: whereas crazy Charlie, the quintessential loner, effortlessly establishes stable relationships with the shreds of humanity that drift past him, Bill is so intent on the necessity of recapturing the emotional security which has deserted him along with his wife that he is unable to maintain any relationship at all, ultimately rejecting even Charlie’s proffered friendship.
 
-It is in this, and not in his gambling – which in Charlie’s case assures his freedom – that Bill is obsessed; and it is in this that he contributes to the second structural backbone of the film: the omnipresence of obsession.  
-When Bill and Charlie first meet in the nightclub, Altman suddenly interposes another character, a woman pouring out complaints to the barman, who effectively blocks them from the camera. The formality, indeed the insistence with which he does so, suggests that – as so often in his films – he means us to be less attentive to his heroes than to the flora and fauna that strew their path. And as in _The Long Goodbye_, he presents an extraordinary, entomological study of a section of society whose common denominator is a determination to get away from the routine of work, home and sleep, and whose characteristic is the ability to become trapped in some form of meaningless routine.
+It is in this, and not in his gambling – which in Charlie’s case assures his freedom – that Bill is obsessed; and it is in this that he contributes to the second structural backbone of the film: the omnipresence of obsession. When Bill and Charlie first meet in the nightclub, Altman suddenly interposes another character, a woman pouring out complaints to the barman, who effectively blocks them from the camera. The formality, indeed the insistence with which he does so, suggests that – as so often in his films – he means us to be less attentive to his heroes than to the flora and fauna that strew their path. And as in _The Long Goodbye_, he presents an extraordinary, entomological study of a section of society whose common denominator is a determination to get away from the routine of work, home and sleep, and whose characteristic is the ability to become trapped in some form of meaningless routine.
 
 Picked out individually from the tableau of somnambulistic gamblers, racetrack mobs, boxing-match spectators and after-hours muggers, they obliviously mark time on their sad treadmill: the ageing transvestite with nowhere to go, the young whore (Gwen Welles) who falls in love with every client, her older friend (Ann Prentiss) who picks up the pieces after each disillusionment, and a whole gallery of ladies of easy virtue chorusing the difficulty of living. It is central to the film, and characteristic of its sense of people walking down their own tramlines, that when the paths of Bill and the young whore cross for a brief moment of tender promise, each is so mindful of his own image (her availability, his propriety) that they can do nothing but diverge.  
 **Tom Milne, _Sight and Sound_, Winter 1974/75**  
 <br>
-<![endif]-->
 
-**California Split**
-
+**CALIFORNIA SPLIT**  
 _Director_: Robert Altman  
 ©: Reno Associates  
 _Production Companies_: Reno Associates,  
@@ -71,10 +68,9 @@ _Sound Mixer_: Jim Webb
 _Dubbing Mixer_: Richard Portman  
 _Sound Editor_: Kay Rose  
 _Assistant [Sound Editor]_: Randy Kelley  
-_Unit Publicist_: Regina Gruss
+_Unit Publicist_: Regina Gruss  
 
-_Cast:_
-
+**Cast**  
 George Segal _(Bill Denny)_  
 Elliott Gould _(Charlie Waters)_  
 Ann Prentiss _(Barbara Miller)_  
@@ -100,8 +96,7 @@ Bill Duffy _(Kenny)_
 Mike Greene _(Reno dealer)_  
 Tom Signorelli _(Nugie)_  
 Sharon Compton _(Nugie’s wife)_  
-Arnold Herzstein, Alvin Weissman, Marc Cavell, Mickey Fox, Carolyn Lohmann _  
-(California Club poker players)_  
+Arnold Herzstein, Alvin Weissman, Marc Cavell, Mickey Fox, Carolyn Lohmann _(California Club poker players)_  
 ‘Amarillo Slim’ Preston, Winston Lee,  
 Harry Drackett, Thomas Hal Phillips, Ted Say,  A.J. Hood _(Reno poker players)_  
 
@@ -111,5 +106,5 @@ Digital 4K
 
 \* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzE2MDgzOF19
+eyJoaXN0b3J5IjpbMTc0ODIzNDc2M119
 -->
