@@ -24,7 +24,111 @@ Much of the detail is marvellously effective and clever, Miss Swanson watching h
 Various observers have objected that the picture is ‘lifeless’; that the characters are unsympathetic; that neither tragedy implicit in the story – that of the obsolete artist, or that of the obsolete woman – is sufficiently developed, or explored, or is even risen to. Some of this seems to me true, some I disagree with; most of it, I think, comes from a temperamental unwillingness to accept Messrs Brackett and Wilder as the kind of artists they happen to be. They are evidently much more concerned to make a character interesting, than sympathetic, and the interest itself is limited by the quality of their insight, which is intelligent and exceedingly clever, rather than profound. But the interest is real, and so far as I was concerned, sympathy developed accordingly; moreover, I am deeply grateful to artists who never try to cheat, coerce or seduce me into sympathy, and such artists are particularly rare in movies.
 
 On the charge of lifelessness I can only say that in my opinion there are two main kinds of life in art, not just one. The warmer, richer kind comes, invariably, from the kind of artist who works from far inside himself and his creatures. For the other kind, we can thank the good observer. Brackett and Wilder apparently have little if any gift for working from inside, but they are first rate observers, and their films are full of that kind of life. It is true, I think, that they fail to make much of the powerful tragic possibilities which are inherent in their story; they don’t even explore much of the deep anguish and pathos which are still more richly inherent, though they often reveal it, quickly and brilliantly. But this does not seem to me a shameful kind of failure, if indeed it is proper to call it a failure at all: they are simply not the men for such a job, nor was this the kind of job they were trying to do. But they are beautifully equipped to do the cold, exact, adroit, sardonic job they have done; and artists who, consciously or unconsciously, learn to be true to their limitations as well as to their gifts, deserve a kind of gratitude and respect they much too seldom get.  
-**James Agee, _Sight and Sound_, November 1950**
+**James Agee, _Sight and Sound_, November 1950**  
+<br>
+<![endif]-->
+
+**Sunset Blvd.**
+
+_Directed by:_ Billy Wilder  
+_©/Production Company:_
+
+Paramount Pictures  
+_Produced by:_ Charles Brackett  
+_Assistant Director:_ C.C. Coleman Jr  
+_Screenplay:_ Charles Brackett, Billy Wilder,
+
+D.M. Marshman Jr  
+_Director of Photography:_ John F. Seitz  
+_Special Photographic Effects:_
+
+Gordon Jennings  
+_Process Photography:_ Farciot Edouart  
+_Editorial Supervision:_ Doane Harrison  
+_Edited by:_ Arthur Schmidt  
+_Art Direction:_ Hans Dreier, John Meehan  
+_Set Decorations:_ Sam Comer, Ray Moyer  
+_Costumes:_ Edith Head  
+_Make-up Supervision:_ Wally Westmore  
+_Music Score by:_ Franz Waxman  
+_Sound Recording by:_ Harry Lindgren,
+
+John Cope
+
+_uncredited_
+
+_Production Manager:_ Hugh Brown  
+_2nd Assistant Director:_ Gerd Oswald  
+_Script Clerk:_ Lupe Hall  
+_Camera Operator:_ Otto Pierce  
+_Camera Assistant:_ Harlow Stengel  
+_Grip:_ Fred True  
+_Gaffer:_ Walter Taylor  
+_Stills:_ Glen E. Richardson  
+_Assistant Editor:_ Frank Bracht  
+_Props:_ Tom Plews  
+_Props Assistant:_ Jack Golconda  
+_Wardrobe:_ Ed Fitzharris, Hazel Hegarty  
+_Make-up Artists:_ Frank Thayer, Carl Silvera  
+_Hairdressers:_ Nellie Manley, Vera Tomei  
+_Technical Adviser:_ Norris Stensland  
+_Dialogue Coach:_ A. Ronald Lubin
+
+**Cast**  
+William Holden _(Joe C. Gillis)_  
+Gloria Swanson _(Norma Desmond)_  
+Erich von Stroheim _(Max von Mayerling)_  
+Nancy Olson _(Betty Schaefer)_  
+Fred Clark _(Sheldrake)_  
+Lloyd Gough _(Morino)_  
+Jack Webb _(Artie Green)_  
+Cecil B. DeMille _(himself)_  
+Hedda Hopper _(herself)_  
+Buster Keaton _(himself)_  
+Anna Q. Nilsson _(herself)_  
+H.B. Warner _(himself)_  
+Franklyn Farnum _(undertaker/courtier)_  
+Ray Evans _(himself)_  
+Jay Livingston _(himself)_  
+Larry Blake _(1st finance man)_  
+Charles Dayton _(2nd finance man)_  
+_uncredited_  
+Roy Thompson _(Rudy, shoeshine boy)_  
+Ruth Clifford _(Sheldrake’s secretary)_  
+Peter Drynan _(tailor)_  
+Kenneth Gibson _(salesman)_  
+Archie Twitchell _(vicuña salesman)_  
+E. Mason Hopper _(doctor/courtier)_  
+John Cortay _(young Paramount gateman)_  
+Robert Emmett O’Connor _(Jonesy, old Paramount gateman)_  
+Stan Johnson, Bill Sheehan _(assistant directors)_  
+John Skins Miller _(Hog Lye, electrician)_  
+Bert Moorhouse _(Gordon Cole)_  
+Julia Faye _(Hisham)_  
+Virginia Randolph, Gertrude Astor, Frank O’Connor, Eva Novak _(courtiers)_  
+Ralph Montgomery, Joel Allen _(prop men)_  
+Gertrude Messinger _(hairdresser)_  
+Gerry Ganzer _(Connie)_  
+Howard Negley _(captain of police)_  
+Kenneth Christy _(captain of homicide)_  
+Len Hendry _(police sergeant)_  
+Sidney Skolsky _(himself)_  
+Eddie Dew _(assistant coroner)_  
+Yvette Vodder _(girl on telephone)_  
+Al Ferguson _(phone stand-by)_  
+Berenice Mosk _(herself)_  
+Tommy Ivo _(boy)_  
+Emmett Smith _(black man)_  
+Jay Morley _(fat man)_  
+Art Lane, Arch R. Dalzell _(camera operators)_  
+James Hawley, Edward Wahrman _(camera assistants)_  
+Sanford E. Greenwald _(newsreel cameraman)_  
+Howard Joslin _(police lieutenant/body in pool)_  
+Ottola Nesmith  
+
+USA 1950©  
+110 mins  
+Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzk4MDI2MTNdfQ==
+eyJoaXN0b3J5IjpbMTY5MjkwNDg0NV19
 -->
