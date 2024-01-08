@@ -4,23 +4,19 @@ title: Sunset Blvd.
 published: true
 date: 2024-01-08
 readtime: true
-categories: ['']
-tags:  [Comedy]
-metadata: 'UK 1937, 85 mins<br> Director: Marcel Varnel'
-pdf: '2024-01-07-oh-mr-porter.pdf'
+categories: ['REGULAR PROGRAME']
+tags:  [Drama]
+metadata: 'USA 1950, 110 mins<br> Director: Billy Wilder'
+pdf: '2024-01-08-sunset-blvd.pdf'
 ---
 
-
-**Gloria Swanson on ‘Sunset Blvd.’**
-
+**Gloria Swanson on ‘Sunset Blvd.’**  
 When we started _Sunset Blvd._ we had only 26 pages of script. [Screenwriter Charles] Brackett and Wilder were determined I should do it. I didn’t want to. Because in the original script they showed me there were things they wanted me to say about people who were still living – true things – and I said, no, I would generalise but I would not be so cruel, that it was unnecessary. Billy Wilder said, ‘Just do it for the test,’ so I did. They had me talking about people who were still around, and there didn’t seem any point. I could generalise, say things like ‘Look at them in the front office, the master minds. They took the idols and smashed them.’ But to talk specifically about this person and that… it didn’t seem right. They pointed out that I would be Norma Desmond, not myself. But I said, look, even if I put a sign on me this big, a lot of people are going to say – a lot of people have said – that this was my biography. Which is silly. First of all, I did make some talking pictures, and if people don’t remember them that’s unfortunate because I thought they were good pictures. And secondly I do not live in the past, I have no longing to recapture any of it, I am much more a woman of the present and the future and of dreams of tomorrow. I am not a recluse, I certainly haven’t shot anybody, and they’re not floating face down in my bathtub. When you remind people of this, then they realise how silly it is of them to say this.... It was true that I hadn’t made a picture in a long time. And the only other thing in the film that had any reality to my career was that Mr DeMille used to call me ‘Young fellow’ and I always called him ‘Mr DeMille’.
 
-I must tell you that _Sunset Blvd._ was a very easy picture to do, because it had a something about it from the moment it started. It had a spark, and that spark never went out. We were 12 weeks on that picture, and each day was a day of joy for me. Each day that I came to work I was singing all the way to the studio, singing like the birds. On the last scene of the picture, when I come down the stairs, I cried.... I wished I could start it all over again, because these had been 12 of the happiest weeks I’d known. Something very curious: my mother, who was never very close to my career, was living with me at the time, and three or four days after it was over, she said to me, ‘You know, Gloria, I feel as if somebody had left this apartment.’ And that person was Desmond. I am not an actor who carries the personality I’m doing with me. Usually when I take the clothes and the make-up off, it stays in the clothes. Just as if a murder happened in this room, it would be in the walls. However, at home, at night, since Norma had another voice, my mother would sometimes cue me, and that probably brought her into focus, this other character. I don’t know enough about the medical term schizophrenia, but I do know that you can have two characters and go from one to the other. And it would seem to me that you consciously create an illusion which becomes almost... not a solid thing, but it is certainly there.
+I must tell you that _Sunset Blvd._ was a very easy picture to do, because it had a something about it from the moment it started. It had a spark, and that spark never went out. We were 12 weeks on that picture, and each day was a day of joy for me. Each day that I came to work I was singing all the way to the studio, singing like the birds. On the last scene of the picture, when I come down the stairs, I cried.... I wished I could start it all over again, because these had been 12 of the happiest weeks I’d known. Something very curious: my mother, who was never very close to my career, was living with me at the time, and three or four days after it was over, she said to me, ‘You know, Gloria, I feel as if somebody had left this apartment.’ And that person was Desmond. I am not an actor who carries the personality I’m doing with me. Usually when I take the clothes and the make-up off, it stays in the clothes. Just as if a murder happened in this room, it would be in the walls. However, at home, at night, since Norma had another voice, my mother would sometimes cue me, and that probably brought her into focus, this other character. I don’t know enough about the medical term schizophrenia, but I do know that you can have two characters and go from one to the other. And it would seem to me that you consciously create an illusion which becomes almost... not a solid thing, but it is certainly there.  
+**Interview by Rui Nogueira, _Sight and Sound_, Spring 1969**  
 
-Interview by Rui Nogueira, _Sight and Sound_, Spring 1969
-
-**A contemporary review**
-
+**A contemporary review**  
 Charles Brackett and Billy Wilder have a long and honourable record in bucking tradition, breaking rules, and taking risks, according to their lights, and limits. Nobody thought they could get away with _Double Indemnity_, but they did; nobody thought they could get away with _The Lost Weekend_, but they did; apparently nobody thought they could get away with _Sunset Blvd._, but they did; and now, one gathers, the industry is proud of them. There are plenty of good reasons why _Sunset Blvd._ (a beautiful title) is, I think, their best movie yet. It is Hollywood craftsmanship at its smartest and at just about its best, and it is hard to find better craftsmanship than that, at this time, in any art or country.
 
 It is also, in terms of movie tradition a very courageous picture. A sexual affair between a rich woman of fifty and a kept man half her age is not exactly a usual version of boy meets girl; nor is it customary for the hero and his best friend’s fiancée to fall in love and like it; nor, as a rule, is a movie hero so weak and so morally imperfect that he can less properly be called a ‘Hero’ than an authentic, unlucky and unadmirable human being. ‘Unhappy endings’ are not so rare, by now, but it is rare to find one as skilful, spectacular and appropriate as this one. Besides all that, _Sunset Blvd._ is much the most ambitious movie about Hollywood ever done, and is the best of several good ones into the bargain.
@@ -126,5 +122,5 @@ USA 1950©
 110 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2MTUzNzY3XX0=
+eyJoaXN0b3J5IjpbMTE4MzAxNTI3Nl19
 -->
