@@ -4,7 +4,7 @@ title: Sunset Blvd.
 published: true
 date: 2024-01-08
 readtime: true
-categories: ['REGULAR PROGRAME']
+categories: ['REGULAR PROGRAMME']
 tags:  [Drama]
 metadata: 'USA 1950, 110 mins<br> Director: Billy Wilder'
 pdf: '2024-01-08-sunset-blvd.pdf'
@@ -48,6 +48,7 @@ _Costumes:_ Edith Head
 _Make-up Supervision:_ Wally Westmore  
 _Music Score by:_ Franz Waxman  
 _Sound Recording by:_ Harry Lindgren, John Cope  
+<br>
 _uncredited_  
 _Production Manager:_ Hugh Brown  
 _2nd Assistant Director:_ Gerd Oswald  
@@ -84,6 +85,7 @@ Ray Evans _(himself)_
 Jay Livingston _(himself)_  
 Larry Blake _(1st finance man)_  
 Charles Dayton _(2nd finance man)_  
+<br>
 _uncredited_  
 Roy Thompson _(Rudy, shoeshine boy)_  
 Ruth Clifford _(Sheldrake’s secretary)_  
