@@ -1,7 +1,15 @@
+---
+layout: post
+title: Sunset Blvd.
+published: true
+date: 2024-01-08
+readtime: true
+categories: ['']
+tags:  [Comedy]
+metadata: 'UK 1937, 85 mins<br> Director: Marcel Varnel'
+pdf: '2024-01-07-oh-mr-porter.pdf'
+---
 
-
-
-<![endif]-->
 
 **Gloria Swanson on ‘Sunset Blvd.’**
 
@@ -26,23 +34,15 @@ Various observers have objected that the picture is ‘lifeless’; that the cha
 On the charge of lifelessness I can only say that in my opinion there are two main kinds of life in art, not just one. The warmer, richer kind comes, invariably, from the kind of artist who works from far inside himself and his creatures. For the other kind, we can thank the good observer. Brackett and Wilder apparently have little if any gift for working from inside, but they are first rate observers, and their films are full of that kind of life. It is true, I think, that they fail to make much of the powerful tragic possibilities which are inherent in their story; they don’t even explore much of the deep anguish and pathos which are still more richly inherent, though they often reveal it, quickly and brilliantly. But this does not seem to me a shameful kind of failure, if indeed it is proper to call it a failure at all: they are simply not the men for such a job, nor was this the kind of job they were trying to do. But they are beautifully equipped to do the cold, exact, adroit, sardonic job they have done; and artists who, consciously or unconsciously, learn to be true to their limitations as well as to their gifts, deserve a kind of gratitude and respect they much too seldom get.  
 **James Agee, _Sight and Sound_, November 1950**  
 <br>
-<![endif]-->
 
-**Sunset Blvd.**
-
+**SUNSET BLVD.**  
 _Directed by:_ Billy Wilder  
-_©/Production Company:_
-
-Paramount Pictures  
+_©/Production Company:_ Paramount Pictures  
 _Produced by:_ Charles Brackett  
 _Assistant Director:_ C.C. Coleman Jr  
-_Screenplay:_ Charles Brackett, Billy Wilder,
-
-D.M. Marshman Jr  
+_Screenplay:_ Charles Brackett, Billy Wilder, D.M. Marshman Jr  
 _Director of Photography:_ John F. Seitz  
-_Special Photographic Effects:_
-
-Gordon Jennings  
+_Special Photographic Effects:_ Gordon Jennings  
 _Process Photography:_ Farciot Edouart  
 _Editorial Supervision:_ Doane Harrison  
 _Edited by:_ Arthur Schmidt  
@@ -51,12 +51,8 @@ _Set Decorations:_ Sam Comer, Ray Moyer
 _Costumes:_ Edith Head  
 _Make-up Supervision:_ Wally Westmore  
 _Music Score by:_ Franz Waxman  
-_Sound Recording by:_ Harry Lindgren,
-
-John Cope
-
-_uncredited_
-
+_Sound Recording by:_ Harry Lindgren, John Cope  
+_uncredited_  
 _Production Manager:_ Hugh Brown  
 _2nd Assistant Director:_ Gerd Oswald  
 _Script Clerk:_ Lupe Hall  
@@ -72,7 +68,7 @@ _Wardrobe:_ Ed Fitzharris, Hazel Hegarty
 _Make-up Artists:_ Frank Thayer, Carl Silvera  
 _Hairdressers:_ Nellie Manley, Vera Tomei  
 _Technical Adviser:_ Norris Stensland  
-_Dialogue Coach:_ A. Ronald Lubin
+_Dialogue Coach:_ A. Ronald Lubin  
 
 **Cast**  
 William Holden _(Joe C. Gillis)_  
@@ -130,5 +126,5 @@ USA 1950©
 110 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjkwNDg0NV19
+eyJoaXN0b3J5IjpbNDQ2MTUzNzY3XX0=
 -->
