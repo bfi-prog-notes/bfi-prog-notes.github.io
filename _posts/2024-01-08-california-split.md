@@ -1,9 +1,16 @@
+---
+layout: post
+title: California Split
+published: true
+date: 2024-01-08
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags:  [Drama]
+metadata: 'USA 1974, 108 mins<br> Director: Robert Altman'
+pdf: '2024-01-08-california-split.pdf'
+---
 
-
-<![endif]-->
-
-**SPOILER WARNING  The following notes give away some of the plot.**
-
+**SPOILER WARNING  The following notes give away some of the plot.**  
 In the remarkable unbroken panning shot at the beginning of _Thieves like Us_ – with the convicts glimpsed at the start of its parabola suggesting the inevitable consequence of the criminal action with which it ends – Robert Altman implies an ineluctable fate awaiting his heroes in their attempt to play outlaw to society. By contrast, the opening of _California Split_ is almost wilfully fragmented and fussy; and one doesn’t go far wrong if one assumes by analogy that here, however oddly in a film which focuses on the obsessive nature of gambling, freedom of choice is the name of the game.
 
 Amid the spacious yet somehow constricting amenities of a Californian casino, Charlie Waters (Elliott Gould) is wandering like a lost soul, awaiting a place at the poker tables. Idly he inserts a coin in a machine, which obliges with an illustrated lecture on the history of gambling. As he comments on the commentary, and its images mingle with the film’s while the credit titles unfold, the confusion inherent in the sight of a roomful of gamblers absorbed in their variously mysterious pursuits gradually increases until one is conditioned for the total claustrophobia of the second sequence, set in a funereal bar where Charlie, having been ejected on suspicion of cheating, meets Bill Denny (George Segal), who fled as a consequence of the same incident, and the pair of them cement their comradeship by getting drunk and trying to catalogue Snow White’s seven dwarfs to the accompaniment of a tirade of woe from two go-go dancers.
@@ -104,5 +111,5 @@ Digital 4K
 
 \* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzAzMzE2Ml19
+eyJoaXN0b3J5IjpbLTQwMDQxMTI0NV19
 -->
