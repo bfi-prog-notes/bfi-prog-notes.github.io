@@ -5,7 +5,7 @@ published: true
 date: 2024-01-08
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags:  [Drama]
+tags:  [Comedy, Drama]
 metadata: 'USA 1974, 108 mins<br> Director: Robert Altman'
 pdf: '2024-01-08-california-split.pdf'
 ---
@@ -111,5 +111,5 @@ Digital 4K
 
 \* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDQxMTI0NV19
+eyJoaXN0b3J5IjpbMjAxNzE2MDgzOF19
 -->
