@@ -15,99 +15,53 @@ It’s a conclusion that confirms the reason behind the remake – the reprise i
 <br><br>
 
 **NOSFERATU THE VAMPYRE**<br>
-
 **(NOSFERATU: PHANTOM DER NACHT)**<br>
-
 _Director:_ Werner Herzog<br>
-
-_Production Companies:_  
-Werner Herzog Filmproduktion, Gaumont<br>
-
+_Production Companies:_  Werner Herzog Filmproduktion, Gaumont<br>
 _Executive Producer:_ Walter Saxer<br>
-
 _Producer:_ Werner Herzog<br>
-
 _Production Manager:_ Rudolf Wolf<br>
-
-_Assistant Directors:_ Remmelt Remmelts,  
-Mirko Tichacek<br>
-
+_Assistant Directors:_ Remmelt Remmelts,  Mirko Tichacek<br>
 _Screenplay:_ Werner Herzog<br>
-
 _Original Novel:_ Bram Stoker<br>
-
 _Original Film Script:_ Henrik Galeen<br>
-
 _Director of Photography:_ Jörg Schmidt-Reitwein<br>
-
 _Lighting:_ Martin Gerbl<br>
-
 _Camera Operator:_ Michael Gast<br>
-
 _Special Effects:_ Cornelius Siegel<br>
-
 _Editor:_ Beate Mainka-Jellinghaus<br>
+_Production Designers:_ Henning von Gierke,  Ulrich Bergfelder<br>
+_Costumes:_ Gisela Storch<br>
+_Make-up:_ Reiko Kruk, Dominique Colladant<br>
+_Music:_ Popol Vuh, Florian Fricke<br>
+_Sound:_ Harald Maury<br>
 
-_Production Designers:_ Henning von Gierke,  
-Ulrich Bergfelder<br>
+**Cast**<br>
+Klaus Kinski _(Count Dracula)_<br>
+Isabelle Adjani _(Lucy Harker)_<br>
+Bruno Ganz _(Jonathan Harker)_<br>
+Roland Topor _(Renfield)_<br>
+Walter Ladengast _(Dr Van Helsing)_<br>
+Dan van Husen _(warden)_<br>
+Jan Groth _(harbourmaster)_<br>
+Carsten Bodinus _(Schrader)_<br>
+Martje Grohmann _(Mina)_<br>
+Ryk de Gooyer _(town official)_<br>
+Clemens Scheitz _(town employee)_<br>
+Lo van Hensbergen _(councilman)_<br>
+John Leddy _(coachman)_<br>
+Margiet van Hartingsveld _(maid)_<br>
+Tim Beekman _(coffinbearer)_<br>
+Jacques Dufilho _(captain)_<br>
+Anja Schmidt-Zaringer, Walter Saxer,  Annegret Poppel, Michael Edols,  Gisela Storch, Martin Gerbl _(diners in square)_<br>
+Beverly Walker _(nun)_<br>
+Dominique Colladant _(doctor)_<br>
+Werner Herzog _(monk)_<br>
 
-_Costumes:_ Gisela Storch
-
-_Make-up:_ Reiko Kruk, Dominique Colladant
-
-_Music:_ Popol Vuh, Florian Fricke
-
-_Sound:_ Harald Maury
-
-_Cast:_
-
-Klaus Kinski _(Count Dracula)_
-
-Isabelle Adjani _(Lucy Harker)_
-
-Bruno Ganz _(Jonathan Harker)_
-
-Roland Topor _(Renfield)_
-
-Walter Ladengast _(Dr Van Helsing)_
-
-Dan van Husen _(warden)_
-
-Jan Groth _(harbourmaster)_
-
-Carsten Bodinus _(Schrader)_
-
-Martje Grohmann _(Mina)_
-
-Ryk de Gooyer _(town official)_
-
-Clemens Scheitz _(town employee)_
-
-Lo van Hensbergen _(councilman)_
-
-John Leddy _(coachman)_
-
-Margiet van Hartingsveld _(maid)_
-
-Tim Beekman _(coffinbearer)_
-
-Jacques Dufilho _(captain)_
-
-Anja Schmidt-Zaringer, Walter Saxer,  
-Annegret Poppel, Michael Edols,  
-Gisela Storch, Martin Gerbl _(diners in square)_
-
-Beverly Walker _(nun)_
-
-Dominique Colladant _(doctor)_
-
-Werner Herzog _(monk)_
-
-West Germany-France 1979
-
-107 mins
-
-Digital
+West Germany-France 1979<br>
+107 mins<br>
+Digital<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzMTg3NzIwXX0=
+eyJoaXN0b3J5IjpbMTQzNzk2NTY4XX0=
 -->
