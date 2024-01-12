@@ -63,16 +63,13 @@ _Original Novel:_ Henry James
 _Script Consultant:_ Jan Chapman  
 _Director of Photography:_ Stuart Dryburgh  
 _Camera Operator:_ Nigel Willoughby  
-_2nd Unit Camera Operators:_ Kate Robinson,
-
-Marco Cristiani  
+_2nd Unit Camera Operators:_ Kate Robinson, Marco Cristiani  
 _2nd Unit Cameraman:_ Julian Court  
 _Steadicam Operator:_ Marco Pieroni  
 _Digital/Optical Effects:_ Peerless Camera Company  
 _Visual Effects Supervisor:_ Kent Houston  
 _Co-ordinator Visual Effects:_ Susi Ropoer  
 _Digital Effects:_ Ditch Doy, Paddy Eason,
-
 Mark Nelmes, Tim Ollive, Manfred Dean Yurke  
 _Optical Effects:_ Martin Body, David Smith  
 _Motion Control:_ Chris Lovegrove, Charlie Tyler  
@@ -91,7 +88,6 @@ _Wardrobe Supervisor:_ Patrick Wheatley
 _Wardrobe Mistress:_ Ros Ward  
 _Make-up:_ Amanda Knight, Ken Lintott  
 _Hair/Make-up Designers:_ Peter Owen,
-
 Magdalen Gaffney, Peter King  
 _Hairdresser:_ Campbell Young  
 _Title Design:_ Peter Long, Kate Ellis  
@@ -109,16 +105,14 @@ _Re-recording Mixers:_ Gethin Creagh, Martin Oswin
 _Dialogue Editors:_ Karin Whittington, Andrew Plain  
 _Sound Effects Editor:_ Peter Townend  
 _ADR Supervisor:_ Annabelle Sheehan  
-_ADR Mixers:_ Julie Pearce, Robert Deschaine,
-
-Paul Zydel, David Humphries  
+_ADR Mixers:_ Julie Pearce, Robert Deschaine, Paul Zydel, David Humphries  
 _ADR Editor:_ Tim Jordan  
 _Foley Walker:_ John Simpson  
 _Foley Mixer:_ Julie Pearce  
 _Etiquette Adviser:_ Stephen Calloway  
 _Piano Instructor:_ Maggie Balter  
 
-_Cast:_
+**Cast**  
 Nicole Kidman _(Isabel Archer)_  
 John Malkovich _(Gilbert Osmond)_  
 Barbara Hershey _(Madame Serena Merle)_  
@@ -149,5 +143,5 @@ Digital
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTk5OTg3Nl19
+eyJoaXN0b3J5IjpbLTEyNDAwODk0MzhdfQ==
 -->
