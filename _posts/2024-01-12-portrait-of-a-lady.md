@@ -18,39 +18,28 @@ And half Isabel’s battle is for herself not to become a beautiful thing, an or
 For Campion does not like easy endings – after the choppy finale of _The Piano_, _The Portrait of a Lady_ is no less bracing. The white lightning of the final scene seems to spring as swiftly as the opening, as Campion catches the perilous ambiguity of Isabel’s destiny. It is an astounding moment: a sudden cold flash in which whole audiences of presumptuous girls may find existential truths. Then, with the door of this House of Fiction closed securely behind, Campion leaves us asking of ourselves what other paths are there to be followed.  
 **Lizzie Francke, _Sight and Sound_, November 1996**  
 <br>
-<![endif]-->
 
-**The Portrait of a Lady**
-
+**THE PORTRAIT OF A LADY**  
 _Director:_ Jane Campion  
-_Production Companies:_
-
-PolyGram Filmed Entertainment, Propaganda Films  
+_Production Companies:_ PolyGram Filmed Entertainment, Propaganda Films  
 _Producers:_ Monty Montgomery, Steve Golin  
 _Co-producer:_ Ann Wingate  
 _Associate Producer:_ Mark Turnbull  
 _Executive in Charge of Production:_ Tim Clawson  
 _Production Supervisor:_ Joel Hatch  
 _Production Co-ordinator:_ Judi Bunn  
-_Italy Production Co-ordinator:_
-
-Maria G. (Mona) Bernal  
+_Italy Production Co-ordinator:_ Maria G. (Mona) Bernal  
 _Italy Production Manager:_ Marco Valerio Pugini  
 _Unit Production Manager:_ Nigel Goldsack  
 _Location Manager:_ Nick Daubeny  
 _Italy Location Manager:_ Riccardo Neri  
 _Italy Location Production Manager:_ Giles Johnson  
-_Executive in Charge of Post-production:_
-
-Glenn Kiser  
-_Post-production Supervisors:_ Rosemary Dority,
-
-Linda Shamest  
+_Executive in Charge of Post-production:_ Glenn Kiser  
+_Post-production Supervisors:_ Rosemary Dority, Linda Shamest  
 _2nd Unit Director:_ Colin Englert  
 _1st Assistant Director:_ Mark Turnbull  
 _2nd Assistant Director:_ Paul Taylor  
-_3rd Assistant Director:_ Simon Emmanuel
-
+_3rd Assistant Director:_ Simon Emmanuel  
 _Assistant Director (Italy):_ Ida Corti  
 _3rd Assistant Director (Italy):_ Piero Frescobaldi  
 _Script Supervisor:_ Lynn-Maree Danzey  
@@ -143,5 +132,5 @@ Digital
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDAwODk0MzhdfQ==
+eyJoaXN0b3J5IjpbLTE0MTA3OTY5MzFdfQ==
 -->
