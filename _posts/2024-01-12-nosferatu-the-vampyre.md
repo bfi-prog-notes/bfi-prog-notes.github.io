@@ -1,3 +1,14 @@
+---
+layout: post
+title: Nosferatu the Vampyre
+published: true
+date: 2024-01-12
+readtime: true
+categories: ['JOURNEY INTO THE UNKNOWN<br>THE FILMS OF WERNER HERZOG']
+tags:  [Horror]
+metadata: 'West Germany-France 1979, 107 mins<br> Director: Werner Herzog'
+pdf: '2024-01-12-nosferatu-the-vampyre.pdf'
+---
 
 **A contemporary review**  
 Given the current fashion for remakes, together with the bubbling revival of German film production, it’s to be expected that the _Caligari_ era, stretching gloriously from Rye’s _Student of Prague_ to Lang’s _Testament of Dr Mabuse_, will in due time prove a fertile landscape for cinematic rediscovery. Metropolis could rise again, with pauses for industrial inaction; Kriemhild could wreak a multimillion-dollar revenge, and there could be a punk-disco version of _Alraune_. But Murnau’s _Nosferatu_, in 1922 just about at the heart of German expressionism, is unarguably a special case in that its protagonist shows every sign of remaining permanently undead. Rediscovery is unnecessary; Dracula and his acolytes continue to stalk both stage and screen in rude vitality. That Werner Herzog, an original even among a generation of originals, should choose to unleash the Count upon us yet again, suggests an exercise in futility rather than of inspiration.
@@ -62,6 +73,76 @@ West Germany-France 1979<br>
 107 mins<br>
 Digital<br>
 <br>
+
+**JOURNEY INTO THE UNKNOWN: THE FILMS OF WERNER HERZOG**<br>
+**Signs of Life** Lebenszeichen<br>
+Mon 1 Jan 12:30; Sat 13 Jan 15:00<br>
+**Fata Morgana + The Great Ecstasy of Woodcarver Steiner** Die große Ekstase des Bildschnitzers Steiner<br>
+Mon 1 Jan 18:00; Wed 17 Jan 20:30<br>
+**Even Dwarfs Started Small**  
+Auch Zwerge haben klein angefangen<br>
+Tue 2 Jan 18:15; Mon 15 Jan 20:45<br>
+**La Soufrière** Warten auf eine Unausweichliche Katastrophe + **Lessons of Darkness**  
+Lektionen in Finsternis<br>
+Wed 3 Jan 18:20; Tue 16 Jan 20:40 (+ intro by writer Ian Haydn Smith)<br>
+**Heart of Glass** Herz aus Glas<br>
+Thu 4 Jan 18:30; Fri 19 Jan 20:40<br>
+**Land of Silence and Darkness**  
+Land des Schweigens und der Dunkelheit<br>
+Thu 4 Jan 20:50; Wed 10 Jan 20:45; Wed 17 Jan 18:15 (+ BSL intro by deaf filmmaker Sam Arnold)<br>
+**Aguirre, Wrath of God** Aguirre, der Zorn Gottes<br>
+Sat 6 Jan 15:15; Sun 14 Jan 11:40;  Tue 23 Jan 18:30<br>
+**My Best Fiend** Mein liebster Feind – Klaus Kinski<br>
+Sat 6 Jan 17:45; Sat 13 Jan 21:00<br>
+**Little Dieter Needs to Fly** Flucht aus Laos<br>
+Sun 7 Jan 15:20; Thu 18 Jan 20:45<br>
+**Fitzcarraldo**<br>
+Sun 7 Jan 17:45; Sun 14 Jan 14:20;  Thu 18 Jan 17:50<br>
+**Stroszek**<br>
+Mon 8 Jan 18:20; Sat 20 Jan 20:40<br>
+**Werner Herzog’s Tales of Life and Death:  An Illustrated Talk**<br>
+Wed 10 Jan 18:30<br>
+**Nosferatu the Vampyre**  
+Nosferatu: Phantom der Nacht<br>
+Fri 12 Jan 18:10; Wed 24 Jan 20:50;  Sat 27 Jan 15:00<br>
+**Grizzly Man**<br>
+Fri 12 Jan 20:45; Sun 14 Jan 18:15;  Mon 29 Jan 18:15<br>
+**Echoes from a Sombre Empire**  
+Echos aus einem düsteren Reich<br>
+Sat 13 Jan 14:10; Tue 30 Jan 20:30<br>
+**Woyzeck**<br>
+Sat 13 Jan 18:20; Sun 28 Jan 12:30<br>
+**The Fire Within: A Requiem for Katia and Maurice Krafft**<br>
+Fri 19 Jan 18:30; Wed 31 Jan 20:50<br>
+**The White Diamond**<br>
+Sun 21 Jan 18:20; Fri 26 Jan 18:30<br>
+**Into the Abyss – A Tale of Death, a Tale of Life**<br>
+Fri 26 Jan 20:45; Sun 28 Jan 15:10<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQzNzk2NTY4XX0=
 -->
