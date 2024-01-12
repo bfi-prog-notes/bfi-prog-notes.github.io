@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags:  [Drama, Period]
 metadata: 'UK/USA 1996, 144 mins<br> Director: Jane Campion'
-pdf: '2024-01-12-portrait-of-a-lady-and-a-half.pdf'
+pdf: '2024-01-12-portrait-of-a-lady.pdf'
 ---
 
 _The Portrait of a Lady_ bestows on the world one of the greatest heroines in fiction. As read by Campion’s film, Isabel Archer (Nicole Kidman) is a gauche and difficult young American on the brink of womanhood, whose uneasy metamorphosis – emotional, moral or spiritual – takes place as she ventures through a Europe that is both glittering palace and cold, forbidding mausoleum. In the talk of those around her (and this is a film about talk, rather than the silence of _The Piano_, with the often brutal admissions of the protagonists delivered in a smartingly clipped style), she is subjected to scrutiny, dissection and ultimately terrible deception, as she befriends the intriguing sophisticate Madame Merle (Barbara Hershey) and the decadent artefact collector Gilbert Osmond John Malkovich), two mendacious Americans with an affected – and infected – sense of their ‘European-ness’. Isabel’s tale, as she inherits a legacy and consequently becomes a woman of means, with seemingly more freedom to choose what to do with her life, is not just one of female individuation, but of the defining of one culture in the face of another.
@@ -138,8 +138,59 @@ UK/USA 1996©
 144 mins  
 Digital  
 <br>
+<BR>
+**BIG SCREEN CLASSICS**  
+**Shoot the Pianist** Tirez sur le pianist  
+Mon 1 Jan 15:30; Sat 13 Jan 12:10; Tue 16 Jan 14:30  
+**Charulata**  
+Tue 2 Jan 20:40; Sun 14 Jan 17:45; Thu 18 Jan 14:30  
+**Psycho (Original Theatrical Cut)**  
+Wed 3 Jan 18:10; Fri 12 Jan 20:50; Thu 18 Jan 18:20  
+**The Lady from Shanghai**  
+Thu 4 Jan 20:40; Wed 17 Jan 18:30 (+ intro by Geoff Andrew, Programmer-at-large); Fri 26 Jan 18:10  
+**Lift to the Scaffold** Ascenseur pour l’échafaud  
+Fri 5 Jan 18:35; Sun 14 Jan 11:50; Tue 23 Jan 20:45  
+**Sunrise: A Song of Two Humans**  
+Sat 6 Jan 12:15; Wed 10 Jan 18:10 (+ intro by freelance film programmer Margaret Deriaz); Fri 19 Jan 18:15  
+**The Lady Eve**  
+Sun 7 Jan 12:20; Thu 25 Jan 18:30  
+**California Split**  
+Mon 8 Jan 20:45; Mon 22 Jan 18:10  
+**8 1/2**  Otto e mezzo  
+Tue 9 Jan 17:30; Sun 28 Jan 18:00  
+**Madame de...**  
+Thu 11 Jan 14:40; Sun 21 Jan 12:10; Wed 31 Jan 17:50 (+ intro by film critic Phuong Le)  
+**The Portrait of a Lady**  
+Fri 12 Jan 14:30; Sat 27 Jan 18:00; Tue 30 Jan 20:15  
+**A Serious Man**  
+Mon 15 Jan 18:10; Mon 29 Jan 20:45  
+**The Bigamist**  
+Sat 20 Jan 11:45; Wed 24 Jan 18:10 (+ intro by Foster Hirsch, author and professor, Brooklyn College of the City University of New York); Sat 27 Jan 21:00 
+<br>
 
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)** 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzQ2MjM5NSwtMTQxMDc5NjkzMV19
+eyJoaXN0b3J5IjpbMTYyNjQ1MTU0MywtMTQxMDc5NjkzMV19
 -->
