@@ -14,18 +14,12 @@ pdf: '2024-01-12-scala-relaxed.pdf'
 <img style="float: left;" src="/img/scala.png"><br><br><br><br><br><br><br><br><br><br><br>
 
 
-
-<![endif]-->
-
 _+ intro by co-director Ali Catterall_
 
-Fasten your seatbelts for the return of the homegrown hit of this year’s LFF, featuring John Waters along with John Akomfrah, Adam Buxton, Caroline Catz, Matt Johnson, Isaac Julien, Beeban Kidron, Stewart Lee, Peter Strickland, Ben Wheatley, Jah Wobble and many more. Archive footage, eye-popping movie clips, acid-crazed animation and some famous names combine to tell the story of London’s infamous, influential Scala cinema, in a film dedicated to evoking the true spirit of the place and what it felt like to be in the audience there. With its cracked marble floors, resident cats and mysterious, extrasensory rumblings, the Scala was both a magic place and a refuge from Britain during the Thatcher years. Hilarious, irreverent, and ultimately heart-breaking, with a fabulous original score by Barry Adamson, _Scala!!!_ is more than mere nostalgia; it’s an  
-X-rated love letter and a universal shout-out to the power of cinema to inspire impressionable young minds and create a sense of community for outsiders – a place where everyone is welcome.
+Fasten your seatbelts for the return of the homegrown hit of this year’s LFF, featuring John Waters along with John Akomfrah, Adam Buxton, Caroline Catz, Matt Johnson, Isaac Julien, Beeban Kidron, Stewart Lee, Peter Strickland, Ben Wheatley, Jah Wobble and many more. Archive footage, eye-popping movie clips, acid-crazed animation and some famous names combine to tell the story of London’s infamous, influential Scala cinema, in a film dedicated to evoking the true spirit of the place and what it felt like to be in the audience there. With its cracked marble floors, resident cats and mysterious, extrasensory rumblings, the Scala was both a magic place and a refuge from Britain during the Thatcher years. Hilarious, irreverent, and ultimately heart-breaking, with a fabulous original score by Barry Adamson, _Scala!!!_ is more than mere nostalgia; it’s an X-rated love letter and a universal shout-out to the power of cinema to inspire impressionable young minds and create a sense of community for outsiders – a place where everyone is welcome.  
+**Jason Wood, Season Curator**  
 
-Jason Wood, Season Curator
-
-After this screening co-director Jane Giles will join  
-Ali Catterall in the BFI Reuben Library Reading Room where attendees can look at her book _Scala Cinema 1978–1993_.
+After this screening co-director Jane Giles will join Ali Catterall in the BFI Reuben Library Reading Room where attendees can look at her book _Scala Cinema 1978–1993_.
 
 **SCALA!!! Or, the Incredibly Strange Rise and Fall of the World’s Wildest Cinema and How It Influenced a Mixed-up Generation of Weirdos and Misfits**  
 _Directors:_ Jane Giles, Ali Catterall  
@@ -48,10 +42,8 @@ A BFI release
 
 <img style="float: left;" src="/img/steel-charitable-trust-logo-01.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br>
 
-**The next relaxed screening is:  
-**THE ENIGMA OF KASPAR HAUSER 
-+ intro and discussion**
-
+**The next relaxed screening is: 
+THE ENIGMA OF KASPAR HAUSER + intro and discussion**
 **Monday 29 January 2024 18:20 NFT3**
 <br>
 
@@ -89,5 +81,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 
 • Please ask us if you need help.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5NzQ3Njg2XX0=
+eyJoaXN0b3J5IjpbODYyNDkwNTIzXX0=
 -->
