@@ -1,3 +1,14 @@
+---
+layout: post
+title: Song of the Sea
+published: true
+date: 2024-01-13
+readtime: true
+categories: ['CARTOON SALOON AT 25']
+tags:  [Animation]
+metadata: 'Ireland-Luxembourg-Belgium-France-Denmark 2014, 94 mins<br> Director: Tomm Moore'
+pdf: '2024-01-13-song-of-the-sea.pdf'
+---
 
 If you set out to assess the global state of play for feature animation, you might come up with three creative hot spots. The US west coast, home to the likes of Pixar, Disney and DreamWorks, is an obvious industry leader, and Japan serves an eager domestic market, while its Studio Ghibli operation is revered at home and abroad. There’s also, however, a more recent beacon of enterprise in Ireland, where Kilkenny-based outfit Cartoon Saloon has turned out two highly distinctive, lovingly crafted features in the past six years, both of which have been Oscar-nominated – _The Secret of Kells_ and _Song of the Sea_. Indeed, the latter, a gorgeous and affecting tale of mythical sea creatures, faerie folk and a family in crisis, recently achieved a major coup at the Irish Film and Television Awards by triumphing over fierce competition – including Gerard Barrett’s _Glassland_ and Lenny Abrahamson’s _Frank_ – to take home the Best Film gong, an extremely rare instance of an animated feature vanquishing its live-action rivals. ‘Normally you go to these bashes and it’s like you’re sitting at the kiddies’ table,’ reflects Tomm Moore, Cartoon Saloon’s co-founder, and the co-writer and director of _Song_. ‘I didn’t even bother preparing a speech, so it all came as a bit of a shock, especially in such a strong year for Irish film.’
 
@@ -55,6 +66,49 @@ Ireland-Luxembourg-Belgium-France-Denmark 2014©
 94 mins  
 Digital<br>
 <br>
+
+**CARTOON SALOON AT 25**<br>
+**The Secret of Kells**<br>
+Sat 6 Jan 12:10<br>
+**Song of the Sea**<br>
+Sat 13 Jan 12:00<br>
+**The Short Films of Cartoon Saloon + Q&A with Cartoon Saloon’s Nora Twomey, Tomm Moore and Paul Young**<br> 
+Sat 20 Jan 11:30<br>
+**The Breadwinner + Q&A with Nora Twomey**<br>
+Sat 20 Jan 14:10<br>
+**Wolfwalkers + Q&A with director Tomm Moore**<br>
+Sat 21 Jan 12:15<br>
+**My Father’s Dragon**<br>
+Sat 27 Jan 12:00<br>
+**Funday Workshop: Puffin Rock and the New Friends**<br>
+Sun 28 Jan 10:30<br>
+**Funday: Puffin Rock and the New Friends**<br>
+Sun 28 Jan 11:45<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTQ3ODkwNzEwOV19
 -->
