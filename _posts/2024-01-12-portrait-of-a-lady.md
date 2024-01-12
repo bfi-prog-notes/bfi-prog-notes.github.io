@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: The Portrait of a Lady
+published: true
+date: 2024-01-12
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags:  [Drama, Period]
+metadata: 'UK/USA 1996, 144 mins<br> Director: Jane Campion'
+pdf: '2024-01-12-portrait-of-a-lady-and-a-half.pdf'
+---
 
 _The Portrait of a Lady_ bestows on the world one of the greatest heroines in fiction. As read by Campion’s film, Isabel Archer (Nicole Kidman) is a gauche and difficult young American on the brink of womanhood, whose uneasy metamorphosis – emotional, moral or spiritual – takes place as she ventures through a Europe that is both glittering palace and cold, forbidding mausoleum. In the talk of those around her (and this is a film about talk, rather than the silence of _The Piano_, with the often brutal admissions of the protagonists delivered in a smartingly clipped style), she is subjected to scrutiny, dissection and ultimately terrible deception, as she befriends the intriguing sophisticate Madame Merle (Barbara Hershey) and the decadent artefact collector Gilbert Osmond John Malkovich), two mendacious Americans with an affected – and infected – sense of their ‘European-ness’. Isabel’s tale, as she inherits a legacy and consequently becomes a woman of means, with seemingly more freedom to choose what to do with her life, is not just one of female individuation, but of the defining of one culture in the face of another.
 
@@ -132,5 +141,5 @@ Digital
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTA3OTY5MzFdfQ==
+eyJoaXN0b3J5IjpbMTQ1NzQ2MjM5NSwtMTQxMDc5NjkzMV19
 -->
