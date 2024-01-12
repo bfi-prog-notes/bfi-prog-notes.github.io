@@ -42,12 +42,10 @@ _Produced by_: Robert Shapiro,  Richard Gilbert Abramson
 _Unit Production Manager_: David Silver  
 _Location Manager_: Sam Mercer  
 _1st Assistant Director_ : Robert P. Cohen  
-_2nd Assistant Directors_: Robert Engelman,  
-Harvey Waldman  
+_2nd Assistant Directors_: Robert Engelman,  Harvey Waldman  
 _Script Supervisor_: Jan Kemper  
 _Casting_: Wally Nicita  
-_Written by_: Phil Hartman, Paul Reubens,  
-Michael Varhol  
+_Written by_: Phil Hartman, Paul Reubens,  Michael Varhol  
 _Director of Photography_: Victor J. Kemper  
 _Camera Operator_: Robert Thomas  
 _1st Camera Assistant_: Bill Roe  
@@ -81,15 +79,12 @@ _Music Composed by_: Danny Elfman
 _Musical Arrangements by_: Steve Bartek  
 _Music Editor_: Bob Badami  
 _Production Mixer_: Petur Hliddal  
-_Re-recording Mixers_: Terry Porter,  
-David J. Hudson, Neil Brody  
-_Supervising Sound Editors_: Cecelia Hall,  
-David B. Cohen  
+_Re-recording Mixers_: Terry Porter,  David J. Hudson, Neil Brody  
+_Supervising Sound Editors_: Cecelia Hall,  David B. Cohen  
 _Stunt Co-ordinator_: Paul Baxley  
 _Special Thanks to_: Linda Koulisis, Randy Pitkin
 
-_Cast:_
-
+**Cast**  
 Paul Reubens _(Pee-wee Herman)_  
 E.G. Daily _(Dottie)_  
 Mark Holton _(Francis)_  
@@ -97,8 +92,7 @@ Diane Salinger _(Simone)_
 Judd Omen _(Mickey)_  
 Irving Hellman _(neighbour)_  
 Monte Landis _(Mario)_  
-David Glasser, Gregory Brown, Mark Everett_  
-(BMX kids)_  
+David Glasser, Gregory Brown, Mark Everett _(BMX kids)_  
 Daryl Roach _(Chuck)_  
 Bill Cable _(1st policeman)_  
 Peter Looney _(2nd policeman)_  
@@ -139,8 +133,7 @@ Bob Drew _(fireman)_
 John Gilgreen _(policeman at pet shop)_  
 Noreen Hennessy, Phil Hartman _(reporters)_  
 Michael Varhol _(photographer)_  
-David Rothenberg, Pat Cranshaw,  
-Sunshine Barker _(hobos)_  
+David Rothenberg, Pat Cranshaw,  Sunshine Barker _(hobos)_  
 Gilles Savard _(Pierre)_  
 James Brolin _(‘P.W.’)_  
 Morgan Fairchild _(‘Dottie’)_  
@@ -148,11 +141,10 @@ Tony Bill _(Terry Hawthorne)_
 Twisted Sister _(themselves)_  
 Speck _(dog)_
 
-USA 1985©
-
-90 mins
-
+USA 1985©  
+90 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzc1NTk5N119
+eyJoaXN0b3J5IjpbLTExODgyMDE0M119
 -->
