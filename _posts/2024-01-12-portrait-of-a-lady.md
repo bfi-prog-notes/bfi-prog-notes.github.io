@@ -117,8 +117,8 @@ _Foley Walker:_ John Simpson
 _Foley Mixer:_ Julie Pearce  
 _Etiquette Adviser:_ Stephen Calloway  
 _Piano Instructor:_ Maggie Balter  
-_Cast:_
 
+_Cast:_
 Nicole Kidman _(Isabel Archer)_  
 John Malkovich _(Gilbert Osmond)_  
 Barbara Hershey _(Madame Serena Merle)_  
@@ -141,11 +141,13 @@ Pat Roach _(Strongman)_
 Emanuelle Carucci Viterbi _(Roccanera butler)_  
 Francesca Bartellini _(Isabel’s maid)_  
 Achille Brugnini _(footman at ballroom)_  
-UK/USA 1996©
 
+UK/USA 1996©  
 144 mins  
 Digital  
+<br>
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjM3NzE0MDJdfQ==
+eyJoaXN0b3J5IjpbMTQyNTk5OTg3Nl19
 -->
