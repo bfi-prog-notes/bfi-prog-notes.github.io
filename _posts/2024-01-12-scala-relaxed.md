@@ -27,20 +27,17 @@ Jason Wood, Season Curator
 After this screening co-director Jane Giles will join  
 Ali Catterall in the BFI Reuben Library Reading Room where attendees can look at her book _Scala Cinema 1978–1993_.
 
-**RUN LOLA RUN (LOLA RENNT)**  
-_Directed by_: Tom Tykwer  
-_Production Company:_ X Filme Creative Pool  
-_Screenplay:_ Tom Tykwer  
-_Director of Photography:_ Frank Griebe  
-_Music:_ Tom Tykwer, Johnny Klimek, Reinhold Heil  
+**SCALA!!! Or, the Incredibly Strange Rise and Fall of the World’s Wildest Cinema and How It Influenced a Mixed-up Generation of Weirdos and Misfits**  
+_Directors:_ Jane Giles, Ali Catterall  
+_©:_ Fifty Foot Woman Ltd.  
+_Production Companies:_ Anti Worlds, Channel X  
+_Based on the book_ Scala Cinema 1978-1993 _by:_ Jane Giles  
 
-**Cast**  
-Franka Potente _(Lola)_  
-Moritz Bleibtreu _(Manni)_  
+UK 2023  
+96 mins  
+Digital  
 
-Germany 1998  
-80 mins  
-Digital 4K  
+A BFI release
 
 
 **We welcome your feedback on this screening. Relaxedscreeningsfeedback@bfi.org.uk**
@@ -51,10 +48,11 @@ Digital 4K
 
 <img style="float: left;" src="/img/steel-charitable-trust-logo-01.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br>
 
-**The next relaxed screening is:**  
+**The next relaxed screening is:  
+**THE ENIGMA OF KASPAR HAUSER 
++ intro and discussion**
 
-**A YEAR IN A FIELD + intro and discussion**  
-Monday 18 December 2023 18.10 NFT3
+**Monday 29 January 2024 18:20 NFT3**
 <br>
 
 
@@ -91,5 +89,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 
 • Please ask us if you need help.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MjgyNzM1OF19
+eyJoaXN0b3J5IjpbNzA5NzQ3Njg2XX0=
 -->
