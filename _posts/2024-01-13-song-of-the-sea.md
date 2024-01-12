@@ -39,7 +39,7 @@ _In collaboration with_: Kìla
 _Sound Design and Sound Edit_: Félix Davin,  Alexandre Jaclain  
 _Sound Mix_: Nostradine Benguezzou, Marie Doyeux
 
-**Voice Cast**
+**Voice Cast**  
 David Rawle _(Ben)_  
 Brendan Gleeson _(Conor/Mac Lir)_  
 Fionnuala Flanagan _(Granny/Macha)_  
@@ -51,11 +51,10 @@ Colm Ó Snodaigh _(Mossy)_
 Liam Hourican _(Spud/bus driver)_  
 Kevin Swierszcz _(young Ben)_
 
-Ireland-Luxembourg-Belgium-France-Denmark 2014©
-
-94 mins
-
-Digital
+Ireland-Luxembourg-Belgium-France-Denmark 2014©  
+94 mins  
+Digital<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTE4OTAwOV19
+eyJoaXN0b3J5IjpbLTQ3ODkwNzEwOV19
 -->
