@@ -6,24 +6,26 @@ published: true
 date: 2024-01-12
 readtime: true
 categories: ['RELAXED SCREENING']
-tags: [Documentary, C]
-metadata: 'Germany 1998, 80 mins<br> Director: Tom Tykwer'
-pdf: '2023-11-27-run-lola-run-relaxed.pdf'
+tags: [Documentary]
+metadata: 'UK 2023, 96 mins<br> Directors: Jane Giles, Ali Catterall'
+pdf: '2024-01-12-scala-relaxed.pdf'
 ---
 
-<img style="float: left;" src="/img/run-lola-run.png"><br><br><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/scala.png"><br><br><br><br><br><br><br><br><br><br><br>
 
 
-_+ intro and discussion_  
 
-Who said time travel had to be about science-fiction? Tom Tykwer responds with this thrilling crime drama that saw the re-emergence of a vital German cinema. With its punk aesthetic and pulsating techno soundtrack, _Run Lola Run_ illustrates the complexities of modern life through the eyes of outcasts who go to extreme lengths to live in a better world.
+<![endif]-->
 
-How many of us have wished to explore beyond our conception of space and time? Our **Destination: Time Travel** series of Relaxed Screenings invites you to explore new ways of thinking about time, its locations, its inhabitants, and its oddities. We will be focusing on two films that present radically different perspectives of time travel: the traditional fantasy of _Time Bandits_, and the revolutionary realism of _Run Lola Run_. Both feature alienated protagonists that embrace their divergence, as their stories defy metaphysical conventions.
+_+ intro by co-director Ali Catterall_
 
-In our relaxed discussions, we will investigate how living with autism can provoke a desire to escape into alternative timelines, and how these films encourage our own ways of challenging our neurotypical world. Whether this is by escaping to Ancient Greece with a band of thieving dwarves, or by running across Berlin in multiple timelines to save a loved one, these screenings and discussions will provide a comfortable space to explore and understand neurodiversity beyond the logic of time and space.  
-**Georgia Kumari Bradburn**
+Fasten your seatbelts for the return of the homegrown hit of this year’s LFF, featuring John Waters along with John Akomfrah, Adam Buxton, Caroline Catz, Matt Johnson, Isaac Julien, Beeban Kidron, Stewart Lee, Peter Strickland, Ben Wheatley, Jah Wobble and many more. Archive footage, eye-popping movie clips, acid-crazed animation and some famous names combine to tell the story of London’s infamous, influential Scala cinema, in a film dedicated to evoking the true spirit of the place and what it felt like to be in the audience there. With its cracked marble floors, resident cats and mysterious, extrasensory rumblings, the Scala was both a magic place and a refuge from Britain during the Thatcher years. Hilarious, irreverent, and ultimately heart-breaking, with a fabulous original score by Barry Adamson, _Scala!!!_ is more than mere nostalgia; it’s an  
+X-rated love letter and a universal shout-out to the power of cinema to inspire impressionable young minds and create a sense of community for outsiders – a place where everyone is welcome.
 
-The post-screening discussion will be led by filmmaker Georgia Kumari Bradburn of the Neurocultures Collective and the Autism Through Cinema Podcast.  
+Jason Wood, Season Curator
+
+After this screening co-director Jane Giles will join  
+Ali Catterall in the BFI Reuben Library Reading Room where attendees can look at her book _Scala Cinema 1978–1993_.
 
 **RUN LOLA RUN (LOLA RENNT)**  
 _Directed by_: Tom Tykwer  
@@ -89,5 +91,5 @@ Screenings for neurodivergent audiences, with their companions and assistants.
 
 • Please ask us if you need help.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0Mzg1OTg4XX0=
+eyJoaXN0b3J5IjpbLTk1MjgyNzM1OF19
 -->
