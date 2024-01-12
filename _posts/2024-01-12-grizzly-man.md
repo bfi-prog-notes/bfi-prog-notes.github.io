@@ -18,11 +18,9 @@ Herzog’s attitude to his protagonist is, as one might expect, reasonably sympa
 
 Up to a point, this sympathy is justified. Treadwell undoubtedly did have a flair for wildlife photography, and some of his sequences – notably those in which he plays with the foxes living close to his tent – suggest that his rapport with animals could be genuine, and not entirely in his naïve mind. Herzog’s film is strongest when most dispassionate and cool-eyed, weakest when it drifts into taking Treadwell on his own valuation, as part-shaman, part-samurai. In death as in life, the person who gets the worst of all worlds is Treadwell’s girlfriend Amie Huguenard. Despite the fact that she and Treadwell had in effect split up, despite the fact that he shouted at her to run for her life, despite her chronic dread of grizzlies, she took a frying pan and bashed at the animal that was mauling him to death. Within six minutes, she was dead, too. If _Grizzly Man_ has a true hero, it is this brave grizzly woman.  
 **Kevin Jackson, _Sight and Sound_, February 2006**
+<br><br>
 
-<![endif]-->
-
-**GRIZZLY MAN**
-
+**GRIZZLY MAN**  
 _Directed by_: Werner Herzog  
 ©_/Presented by_: Lions Gate Films  
 _Produced by_: Real Big Production Inc.  
@@ -33,8 +31,7 @@ _Produced by_: Erik Nelson
 _Associate Producer_: Alana Berry  
 _Executive in Charge of Production_: Dave Harding  
 _Executives in Charge of Production for Discovery Channel, Inc._: Jane Root, Don Baer  
-_Production Managers_: Tom Koykka,  
-Jessica DeJong  
+_Production Managers_: Tom Koykka,  Jessica DeJong  
 _Post-production Supervisor_: Randall Boyd  
 _Director of Photography_: Peter Zeitlinger  
 _Assistant Camera Operator_: Erik Söllner  
@@ -42,8 +39,7 @@ _Edited by_: Joe Bini
 _Assistant Editor_: Maya Hawke  
 _Editorial Assistants_: David W. Ryan, Brian Patterson  
 _Music Composed by_: Richard Thompson  
-_Guitar/Bass_: Richard Thompson
-
+_Guitar/Bass_: Richard Thompson  
 _Cello_: Danielle DeGruttola  
 _Percussion/Drums_: John Hanes  
 _Piano/Guitar_: James O’Rourke  
@@ -51,31 +47,27 @@ _Acoustic Bass_: Damon Smith
 _Music Produced by_: Henry Kaiser  
 _Recording Engineer_: Stephen Hart  
 _Audio_: Spence Palermo, Ken King  
-_Post-production Audio_: Michael Klinger,  
-D.D. Stenehjem, Tree Falls
+_Post-production Audio_: Michael Klinger,  D.D. Stenehjem, Tree Falls
 
-_With:_
-
+**With**  
 Timothy Treadwell  (1957-2003)  
 Amie Huguenard _(Timothy’s girlfriend)_  
 Warren Queeney _(actor, close friend)_  
 Willy Fulton _(pilot, former rodeo rider)_  
 Sam Egli _(Egli Air Haul)_  
-Marnie Gaede_,_ Marc Gaede _(ecologists)_  
+Marnie Gaede, Marc Gaede _(ecologists)_  
 Larry Van Daele _(bear biologist)_  
 Sven Haakanson _(Alutiiq)_  
 Dr Franc Fallico _(coroner)_  
 Jewel Palovak _(Grizzly People)_  
-Val Dexter_,_ Carol Dexter _(Timothy’s parents)_  
-Kathleen Parker _(close friend)_
-
+Val Dexter, Carol Dexter _(Timothy’s parents)_  
+Kathleen Parker _(close friend)_  
 Werner Herzog _(narrator)_
 
-USA 2005©
-
-104 mins
-
+USA 2005©  
+104 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjExOTg0NF19
+eyJoaXN0b3J5IjpbLTE0OTY0MDUxODddfQ==
 -->
