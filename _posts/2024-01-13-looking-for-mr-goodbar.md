@@ -56,8 +56,7 @@ _Sound Recording_: Al Overton
 _Sound Re-recording_: Richard Portman,  Curly Thirwell, Robert Glass  
 _Sound Editors_: Kay Rose, Vickie Sampson
 
-_Cast:_
-
+**Cast**  
 Diane Keaton _(Theresa Dunn)_  
 Tuesday Weld _(Katherine)_  
 William Atherton _(James)_  
@@ -88,15 +87,14 @@ Richard Spangler _(TV announcer)_
 Elizabeth Cheshire _(Theresa, as a child)_  
 Marilyn Roberts _(woman in bar)_
 
-USA 1977
-
-136 mins
-
+USA 1977  
+136 mins  
 35mm
 
 35mm print courtesy The Cinema Museum London
 
 The screening on Sat 13 Jan will be introduced by season curator Jane Giles
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODkwODgzMF19
+eyJoaXN0b3J5IjpbMTM0MDkxNDE4Nl19
 -->
