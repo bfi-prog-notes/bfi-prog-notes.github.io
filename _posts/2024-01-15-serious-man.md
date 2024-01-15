@@ -196,112 +196,61 @@ _Foley Artist:_ Marko A. Costanzo
 
 _Foley Mixer:_ George A. Lara
 
-_Foley Editor:_ Joel Dougherty
+_Foley Editor:_ Joel Dougherty  
+_Subtitles:_ Big Film Design  
+_Stunt Co-ordinator:_ Jery Hewitt  
+_Yiddish Translations:_ Wendy Zierler, Allen Rickman  
+_Unit Publicist:_ Claudia Gray  
 
-_Subtitles:_ Big Film Design
+**Cast**  
+Michael Stuhlbarg _(Larry Gopnik)_  
+Richard Kind _(Uncle Arthur)_  
+Fred Melamed _(Sy Ableman)_  
+Sari Lennick _(Judith Gopnik)_  
+Aaron Wolff _(Danny Gopnik)_  
+Jessica McManus _(Sarah Gopnik)_  
+Peter Breitmayer _(Mr Brandt)_  
+Brent Braunschweig _(Mitch Brandt)_  
+David Kang _(Clive Park)_  
+Benjamin Portnoe _(Danny’s reefer buddy)_  
+Jack Swiler _(boy on bus)_  
+Andrew S. Lentz _(cursing boy on bus)_  
+Jon Kaminski Jr _(Mike Fagle)_  
+Ari Hoptman _(Arlen Finkle)_  
+Alan Mandell _(Rabbi Marshak)_  
+Amy Landecker _(Mrs Samsky)_  
+George Wyner _(Rabbi Nachtner)_  
+Michael Tezla _(Dr Sussman)_  
+Katherine Borowitz _(friend at the picnic)_  
+Stephen Park _(Clive’s father)_  
+Allen Lewis Rickman _(shtetl husband)_  
+Yelena Shmulenson _(shtetl wife)_  
+Fyvush Finkel _(dybbuk)_  
+Ronald Schultz _(Hebrew school teacher)_  
+Raye Birk _(Dr Shapiro)_  
+Jane Hammill _(Larry’s secretary)_  
+Claudia Wilkens _(Marshak’s secretary)_  
+Simon Helberg _(Rabbi Scott)_  
+Adam Arkin _(divorce lawyer)_  
+James Cada _(cop 1)_  
+Michael Lerner _(Solomon Schlutz)_  
+Charles Brin _(Hebrew school principal)_  
+Michael Engel _(Torah blesser)_  
+Tyson Bidner _(Magbiah)_  
+Phyllis Harris _(Hebrew school tea lady)_  
+Piper Sigel Bruse _(D’vorah)_  
+Hannah Nemer _(Sarah’s friend)_  
+Rita Vassallo _(law firm secretary)_  
+Warren David Keith _(Dick Dutton)_  
+Neil Newman _(cantor)_  
+Tim Russell _(detective 1)_  
+Jim Lichtscheidl _(detective 2)_  
+Wayne Evenson _(Russell Krauss)_  
+Scott Baker _(sci-fi movie hero)_  
 
-_Stunt Co-ordinator:_ Jery Hewitt
-
-_Yiddish Translations:_ Wendy Zierler,
-
-Allen Rickman
-
-_Unit Publicist:_ Claudia Gray
-
-_Cast:_
-
-Michael Stuhlbarg _(Larry Gopnik)_
-
-Richard Kind _(Uncle Arthur)_
-
-Fred Melamed _(Sy Ableman)_
-
-Sari Lennick _(Judith Gopnik)_
-
-Aaron Wolff _(Danny Gopnik)_
-
-Jessica McManus _(Sarah Gopnik)_
-
-Peter Breitmayer _(Mr Brandt)_
-
-Brent Braunschweig _(Mitch Brandt)_
-
-David Kang _(Clive Park)_
-
-Benjamin Portnoe _(Danny’s reefer buddy)_
-
-Jack Swiler _(boy on bus)_
-
-Andrew S. Lentz _(cursing boy on bus)_
-
-Jon Kaminski Jr _(Mike Fagle)_
-
-Ari Hoptman _(Arlen Finkle)_
-
-Alan Mandell _(Rabbi Marshak)_
-
-Amy Landecker _(Mrs Samsky)_
-
-George Wyner _(Rabbi Nachtner)_
-
-Michael Tezla _(Dr Sussman)_
-
-Katherine Borowitz _(friend at the picnic)_
-
-Stephen Park _(Clive’s father)_
-
-Allen Lewis Rickman _(shtetl husband)_
-
-Yelena Shmulenson _(shtetl wife)_
-
-Fyvush Finkel _(dybbuk)_
-
-Ronald Schultz _(Hebrew school teacher)_
-
-Raye Birk _(Dr Shapiro)_
-
-Jane Hammill _(Larry’s secretary)_
-
-Claudia Wilkens _(Marshak’s secretary)_
-
-Simon Helberg _(Rabbi Scott)_
-
-Adam Arkin _(divorce lawyer)_
-
-James Cada _(cop 1)_
-
-Michael Lerner _(Solomon Schlutz)_
-
-Charles Brin _(Hebrew school principal)_
-
-Michael Engel _(Torah blesser)_
-
-Tyson Bidner _(Magbiah)_
-
-Phyllis Harris _(Hebrew school tea lady)_
-
-Piper Sigel Bruse _(D’vorah)_
-
-Hannah Nemer _(Sarah’s friend)_
-
-Rita Vassallo _(law firm secretary)_
-
-Warren David Keith _(Dick Dutton)_
-
-Neil Newman _(cantor)_
-
-Tim Russell _(detective 1)_
-
-Jim Lichtscheidl _(detective 2)_
-
-Wayne Evenson _(Russell Krauss)_
-
-Scott Baker _(sci-fi movie hero)_
-
-UK/USA/France 2009©
-
-106 mins 
-Digital 4K
+UK/USA/France 2009©  
+106 mins  
+Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzI5MjEzM119
+eyJoaXN0b3J5IjpbLTE0ODg3MjUxMTNdfQ==
 -->
