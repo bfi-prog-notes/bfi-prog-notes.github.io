@@ -16,21 +16,14 @@ Argue if you like that this movie’s philosophical inquiries are answered by th
 Though there are no acting epiphanies here to rival Tony Shalhoub’s in _Barton Fink_ or Jennifer Jason Leigh’s in _The Hudsucker Proxy_ (1994), _A Serious Man_ doesn’t have a single dull or merely functional performance; even bit players have their pregnant comic moments. Still, the spectre of Richard Kind’s Uncle Arthur may be the movie’s conceptual triumph. Half-hidden in the bathroom for the first part of the film, he emerges as a profound mystery. Homeless and strange, he appears to us (via a thick notebook of obsessive scribblings) as a shut-in Charles Crumb figure, but then he is stalked by the police for playing illegal cards, and then for sodomy. When did he even leave the house? By the time Arthur succumbs to a breakdown, declaring his envy for Larry’s good fortune, neither we nor Larry know what to make of him. He may be the only character in the film who slips the noose of the filmmakers’ single-minded derision and he does it magnificently.  
 **Michael Atkinson, _Sight and Sound_, December 2009**  
 <br>
-<![endif]-->
 
-**A Serious Man*
-_Directed by:_ Joel Coen, Ethan Coen
-
-_©_: Focus Features, LLC
-
-Focus Features _presents in association with_ StudioCanal _and_ Relativity Media
-
-_a_ Working Title _production_
-
-_Executive Producers:_ Tim Bevan, Eric Fellner, Robert Graf
-
-_Produced by:_ Joel Coen, Ethan Coen
-
+**A SERIOUS MAN**  
+_Directed by:_ Joel Coen, Ethan Coen  
+_©_: Focus Features, LLC  
+Focus Features _presents in association with_ StudioCanal _and_ Relativity Media  
+_a_ Working Title _production_  
+_Executive Producers:_ Tim Bevan, Eric Fellner, Robert Graf  
+_Produced by:_ Joel Coen, Ethan Coen  
 _Chief Operating Officer for Working Title:_ Angela Morrison  
 _Executive in Charge of Production for Working Title:_ Michelle Wright  
 _Production Supervisor:_ Karen Ruth Getchell  
@@ -104,18 +97,11 @@ _Production Sound Mixer:_ Peter F. Kurland
 _Boom Operator:_ Randy Johnson  
 _Utility Sound:_ Chris Benson  
 _Additional Utility Sound:_ Peter Zimbicki  
-_Re-recording Mixers:_ Skip Lievsay, Craig Berkey
-
-Greg Orloff
-
-_Re-recorded at:_ Sony Pictures Studios
-
-_Supervising Sound Editor:_ Skip Lievsay
-
-_Dialogue Editors:_ Byron Wilson, James Morioka
-
-_ADR Editor:_ Kenton Jakub
-
+_Re-recording Mixers:_ Skip Lievsay, Craig Berkey, Greg Orloff  
+_Re-recorded at:_ Sony Pictures Studios  
+_Supervising Sound Editor:_ Skip Lievsay  
+_Dialogue Editors:_ Byron Wilson, James Morioka  
+_ADR Editor:_ Kenton Jakub  
 _Foley Artist:_ Marko A. Costanzo  
 _Foley Mixer:_ George A. Lara  
 _Foley Editor:_ Joel Dougherty  
@@ -174,5 +160,5 @@ UK/USA/France 2009©
 106 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1NDUyOTY5LDQ1ODgwNzgzXX0=
+eyJoaXN0b3J5IjpbLTM3NTgyNTEzOCw0NTg4MDc4M119
 -->
