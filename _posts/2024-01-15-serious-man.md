@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags:  [Drama]
 metadata: 'UK/USA/France 2009, 106 mins<br> Directors: Joel Coen, Ethan Coen'
-pdf: '2024-01-12-portrait-of-a-lady.pdf'
+pdf: '2024-01-15-portrait-of-a-lady.pdf'
 ---
 
 In 25 years of filmmaking, Joel and Ethan Coen have established themselves as a major international voice, a postmodern sensibility overcome with cosmic jokiness. If _No Country for Old Men_, in all of its Oscar-winning graveness, was the Coen brothers movie for those who don’t like Coen brothers movies, then _A Serious Man_ may alienate the newfound viewer base all over again. It is simultaneously their most personal film – almost autobiographical in its details – and their most muddled, caught like a hairball in the throat (a frustrated simile they’d appreciate) between earnestness and mockery. For perhaps the first time in a Coen film outside _No Country_ we are asked to authentically empathise with a realistic character in a realistic setting, and yet he and the landscape around him suffer the same lampooning slings and sardonic tone as the characters of _Raising Arizona_ (1987), _Barton Fink_ (1991), _Fargo_ (1995) and _O Brother, Where Art Thou?_ (2000). It’s an old complaint about the Coens, that they cruelly observe their hapless characters as they would pratfalling ants in an ant farm. But I’ve always thought their comic spirit, for better or worse, has been consistent and sharply observed, allowing melancholy and sensitivity to sneak in naturally like the back flavours of strong red wine. And now comes  
@@ -223,5 +223,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)** 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5MjY4NDksNDU4ODA3ODNdfQ==
+eyJoaXN0b3J5IjpbMTMwNjc1MjA2OCw0NTg4MDc4M119
 -->
