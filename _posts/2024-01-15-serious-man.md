@@ -110,8 +110,7 @@ _Art Department Co-ordinator:_ Jarrette Moats
 
 _Set Designer:_ Maria Baker
 
-_Set Decorator:_ Nancy Haigh
-
+_Set Decorator:_ Nancy Haig
 _Lead Dresser:_ Scott Troha  
 _On-set Dresser:_ Scott Nordhausen  
 _Buyer:_ Jill Broadfoot  
@@ -216,5 +215,5 @@ UK/USA/France 2009©
 106 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4ODA3ODNdfQ==
+eyJoaXN0b3J5IjpbLTEzNjczNjI4MzMsNDU4ODA3ODNdfQ==
 -->
