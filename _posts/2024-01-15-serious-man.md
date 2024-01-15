@@ -1,4 +1,14 @@
-<![endif]-->
+---
+layout: post
+title: A Serious Man
+published: true
+date: 2024-01-15
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags:  [Drama]
+metadata: 'UK/USA/France 2009, 106 mins<br> Directors: Joel Coen, Ethan Coen'
+pdf: '2024-01-12-portrait-of-a-lady.pdf'
+---
 
 In 25 years of filmmaking, Joel and Ethan Coen have established themselves as a major international voice, a postmodern sensibility overcome with cosmic jokiness. If _No Country for Old Men_, in all of its Oscar-winning graveness, was the Coen brothers movie for those who don’t like Coen brothers movies, then _A Serious Man_ may alienate the newfound viewer base all over again. It is simultaneously their most personal film – almost autobiographical in its details – and their most muddled, caught like a hairball in the throat (a frustrated simile they’d appreciate) between earnestness and mockery. For perhaps the first time in a Coen film outside _No Country_ we are asked to authentically empathise with a realistic character in a realistic setting, and yet he and the landscape around him suffer the same lampooning slings and sardonic tone as the characters of _Raising Arizona_ (1987), _Barton Fink_ (1991), _Fargo_ (1995) and _O Brother, Where Art Thou?_ (2000). It’s an old complaint about the Coens, that they cruelly observe their hapless characters as they would pratfalling ants in an ant farm. But I’ve always thought their comic spirit, for better or worse, has been consistent and sharply observed, allowing melancholy and sensitivity to sneak in naturally like the back flavours of strong red wine. And now comes  
 _A Serious Man_, a sincerely sympathetic portrait of an American family man in crisis – even as it insults its characters and derides their culture.
@@ -159,6 +169,59 @@ Scott Baker _(sci-fi movie hero)_
 UK/USA/France 2009©  
 106 mins  
 Digital 4K  
+<BR>
+**BIG SCREEN CLASSICS**  
+**Shoot the Pianist** Tirez sur le pianist  
+Mon 1 Jan 15:30; Sat 13 Jan 12:10; Tue 16 Jan 14:30  
+**Charulata**  
+Tue 2 Jan 20:40; Sun 14 Jan 17:45; Thu 18 Jan 14:30  
+**Psycho (Original Theatrical Cut)**  
+Wed 3 Jan 18:10; Fri 12 Jan 20:50; Thu 18 Jan 18:20  
+**The Lady from Shanghai**  
+Thu 4 Jan 20:40; Wed 17 Jan 18:30 (+ intro by Geoff Andrew, Programmer-at-large); Fri 26 Jan 18:10  
+**Lift to the Scaffold** Ascenseur pour l’échafaud  
+Fri 5 Jan 18:35; Sun 14 Jan 11:50; Tue 23 Jan 20:45  
+**Sunrise: A Song of Two Humans**  
+Sat 6 Jan 12:15; Wed 10 Jan 18:10 (+ intro by freelance film programmer Margaret Deriaz); Fri 19 Jan 18:15  
+**The Lady Eve**  
+Sun 7 Jan 12:20; Thu 25 Jan 18:30  
+**California Split**  
+Mon 8 Jan 20:45; Mon 22 Jan 18:10  
+**8 1/2**  Otto e mezzo  
+Tue 9 Jan 17:30; Sun 28 Jan 18:00  
+**Madame de...**  
+Thu 11 Jan 14:40; Sun 21 Jan 12:10; Wed 31 Jan 17:50 (+ intro by film critic Phuong Le)  
+**The Portrait of a Lady**  
+Fri 12 Jan 14:30; Sat 27 Jan 18:00; Tue 30 Jan 20:15  
+**A Serious Man**  
+Mon 15 Jan 18:10; Mon 29 Jan 20:45  
+**The Bigamist**  
+Sat 20 Jan 11:45; Wed 24 Jan 18:10 (+ intro by Foster Hirsch, author and professor, Brooklyn College of the City University of New York); Sat 27 Jan 21:00 
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)** 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTgyNTEzOCw0NTg4MDc4M119
+eyJoaXN0b3J5IjpbOTc5MjY4NDksNDU4ODA3ODNdfQ==
 -->
