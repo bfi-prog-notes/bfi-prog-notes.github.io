@@ -18,8 +18,7 @@ Though there are no acting epiphanies here to rival Tony Shalhoub’s in _Barton
 <br>
 <![endif]-->
 
-**A Serious Man**
-
+**A Serious Man*
 _Directed by:_ Joel Coen, Ethan Coen
 
 _©_: Focus Features, LLC
@@ -32,85 +31,45 @@ _Executive Producers:_ Tim Bevan, Eric Fellner, Robert Graf
 
 _Produced by:_ Joel Coen, Ethan Coen
 
-_Chief Operating Officer for Working Title:_
-
-Angela Morrison
-
-_Executive in Charge of Production for Working Title:_ Michelle Wright
-
-_Production Supervisor:_ Karen Ruth Getchell
-
-_Production Accountant:_ Cheryl Kurk
-
-_Post-production Accountant:_ Trevanna Post, Inc.
-
-_Production Co-ordinator:_ Rachael Lin Gallaghan
-
-_Unit Production Manager:_ Robert Graf
-
-_Location Manager:_ Tyson Bidner
-
-_Post-production Supervisor:_ Catherine Farrell
-
-_1st Assistant Director:_ Betsy Magruder
-
-_2nd Assistant Director:_ Bac DeLorme
-
-_Script Supervisor:_ Thomas Johnston
-
-_Casting by:_ Ellen Chenoweth, Rachel Tenner
-
-_Casting Associate:_ Amelia Rasche
-
-_Extras Casting:_ Debbie DeLisi
-
+_Chief Operating Officer for Working Title:_ Angela Morrison  
+_Executive in Charge of Production for Working Title:_ Michelle Wright  
+_Production Supervisor:_ Karen Ruth Getchell  
+_Production Accountant:_ Cheryl Kurk  
+_Post-production Accountant:_ Trevanna Post, Inc.  
+_Production Co-ordinator:_ Rachael Lin Gallaghan  
+_Unit Production Manager:_ Robert Graf  
+_Location Manager:_ Tyson Bidner  
+_Post-production Supervisor:_ Catherine Farrell  
+_1st Assistant Director:_ Betsy Magruder  
+_2nd Assistant Director:_ Bac DeLorme  
+_Script Supervisor:_ Thomas Johnston  
+_Casting by:_ Ellen Chenoweth, Rachel Tenner  
+_Casting Associate:_ Amelia Rasche  
+_Extras Casting:_ Debbie DeLisi  
 _Extras Casting Assistants:_ Kati Batchelder,
-
-Aaron Greenwood
-
-_Voice Casting:_ Sondra James
-
-_Screenplay:_ Joel Coen, Ethan Coen
-
-_Director of Photography:_ Roger Deakins
-
-_Camera Operator:_ Roger Deakins
-
-_1st Assistant Camera:_ Andy Harris
-
-_2nd Assistant Camera:_ Michael Lindquist
-
-_Camera Loader:_ Cole Koehler
-
-_Key Grip:_ Mitch Lillian
-
-_Still Photographer:_ Wilson Webb
-
-_Visual Effects by:_ Luma Pictures
-
-_Special Effects Co-ordinator:_ Larz Anderson
-
-_Special Effects Foreman:_ Paul Deely
-
-_Graphic Designer:_ Gregory Hill
-
-_Edited by:_ Roderick Jaynes
-
-_Associate Editor:_ Katharine McQuerrey
-
-_1st Assistant Editor:_ Emma Gaffney
-
-_Production Designer:_ Jess Gonchor
-
-_Art Director:_ Deborah Jensen
-
-_Assistant Art Director:_ Jeff Schoen
-
-_Art Department Co-ordinator:_ Jarrette Moats
-
-_Set Designer:_ Maria Baker
-
-_Set Decorator:_ Nancy Haig
+Aaron Greenwood  
+_Voice Casting:_ Sondra James  
+_Screenplay:_ Joel Coen, Ethan Coen  
+_Director of Photography:_ Roger Deakins  
+_Camera Operator:_ Roger Deakins  
+_1st Assistant Camera:_ Andy Harris  
+_2nd Assistant Camera:_ Michael Lindquist  
+_Camera Loader:_ Cole Koehler  
+_Key Grip:_ Mitch Lillian  
+_Still Photographer:_ Wilson Webb  
+_Visual Effects by:_ Luma Pictures  
+_Special Effects Co-ordinator:_ Larz Anderson  
+_Special Effects Foreman:_ Paul Deely  
+_Graphic Designer:_ Gregory Hill  
+_Edited by:_ Roderick Jaynes  
+_Associate Editor:_ Katharine McQuerrey  
+_1st Assistant Editor:_ Emma Gaffney  
+_Production Designer:_ Jess Gonchor  
+_Art Director:_ Deborah Jensen  
+_Assistant Art Director:_ Jeff Schoen  
+_Art Department Co-ordinator:_ Jarrette Moats  
+_Set Designer:_ Maria Baker  
+_Set Decorator:_ Nancy Haigh  
 _Lead Dresser:_ Scott Troha  
 _On-set Dresser:_ Scott Nordhausen  
 _Buyer:_ Jill Broadfoot  
@@ -215,5 +174,5 @@ UK/USA/France 2009©
 106 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjczNjI4MzMsNDU4ODA3ODNdfQ==
+eyJoaXN0b3J5IjpbOTI1NDUyOTY5LDQ1ODgwNzgzXX0=
 -->
