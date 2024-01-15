@@ -112,74 +112,40 @@ _Set Designer:_ Maria Baker
 
 _Set Decorator:_ Nancy Haigh
 
-_Lead Dresser:_ Scott Troha
-
-_On-set Dresser:_ Scott Nordhausen
-
-_Buyer:_ Jill Broadfoot
-
-_Lead Scenic Artist:_ Anne Hyvarinen
-
-_Property Master:_ Keith Walters
-
-_Construction Co-ordinator:_ Steve Anderson
-
-_Costume Designer:_ Mary Zophres
-
-_Assistant Costume Designer:_ Jenny Eagan
-
-_Key Costumer:_ Corrine Larson
-
-_Key Set Costumer:_ Jane Williams
-
-_Set Costumers:_ Nikki Fallenstein, Melissa Seitzer
-
-_Make-up Design/Department Head:_ Jean A. Black
-
-_Make-up Co-department Head:_ Mary K. Flaa
-
-_Assistant Make-up Artist:_ Carrie Messina
-
-_Age/Effects Make-up:_ Christien Tinsley
-
-_Hair Department Head:_ Frida S. Aradóttir
-
-_Assistant Hair Stylist:_ Deanna L. Johnson
-
-_Titles Designer:_ Randy Balsmeyer
-
-_Titles Sequences:_ Big Film Design
-
-_Digital Intermediate/Dailies by:_ EFilm
-
-_Post-production Facility:_ Post Factory
-
-_Opticals by:_ Plethorafx
-
-_Edited on:_ Final Cut Pro
-
-_Cameras by:_ Otto Nemenz
-
-_Music by:_ Carter Burwell
-
-_Conducted and Orchestrated by:_ Carter Burwell
-
-_Orchestra Contractor:_ Sandra Park
-
-_Music Editor:_ Todd Kasow
-
-_Music Scoring Mixer:_ Michael Farrow
-
-_Sound Designer:_ Craig Berkey
-
-_Production Sound Mixer:_ Peter F. Kurland
-
-_Boom Operator:_ Randy Johnson
-
-_Utility Sound:_ Chris Benson
-
-_Additional Utility Sound:_ Peter Zimbicki
-
+_Lead Dresser:_ Scott Troha  
+_On-set Dresser:_ Scott Nordhausen  
+_Buyer:_ Jill Broadfoot  
+_Lead Scenic Artist:_ Anne Hyvarinen  
+_Property Master:_ Keith Walters  
+_Construction Co-ordinator:_ Steve Anderson  
+_Costume Designer:_ Mary Zophres  
+_Assistant Costume Designer:_ Jenny Eagan  
+_Key Costumer:_ Corrine Larson  
+_Key Set Costumer:_ Jane Williams  
+_Set Costumers:_ Nikki Fallenstein, Melissa Seitzer  
+_Make-up Design/Department Head:_ Jean A. Black  
+_Make-up Co-department Head:_ Mary K. Flaa  
+_Assistant Make-up Artist:_ Carrie Messina  
+_Age/Effects Make-up:_ Christien Tinsley  
+_Hair Department Head:_ Frida S. Aradóttir  
+_Assistant Hair Stylist:_ Deanna L. Johnson  
+_Titles Designer:_ Randy Balsmeyer  
+_Titles Sequences:_ Big Film Design  
+_Digital Intermediate/Dailies by:_ EFilm  
+_Post-production Facility:_ Post Factory  
+_Opticals by:_ Plethorafx  
+_Edited on:_ Final Cut Pro  
+_Cameras by:_ Otto Nemenz  
+_Music by:_ Carter Burwell  
+_Conducted and Orchestrated by:_ Carter Burwell  
+_Orchestra Contractor:_ Sandra Park  
+_Music Editor:_ Todd Kasow  
+_Music Scoring Mixer:_ Michael Farrow  
+_Sound Designer:_ Craig Berkey  
+_Production Sound Mixer:_ Peter F. Kurland  
+_Boom Operator:_ Randy Johnson  
+_Utility Sound:_ Chris Benson  
+_Additional Utility Sound:_ Peter Zimbicki  
 _Re-recording Mixers:_ Skip Lievsay, Craig Berkey
 
 Greg Orloff
@@ -192,10 +158,8 @@ _Dialogue Editors:_ Byron Wilson, James Morioka
 
 _ADR Editor:_ Kenton Jakub
 
-_Foley Artist:_ Marko A. Costanzo
-
-_Foley Mixer:_ George A. Lara
-
+_Foley Artist:_ Marko A. Costanzo  
+_Foley Mixer:_ George A. Lara  
 _Foley Editor:_ Joel Dougherty  
 _Subtitles:_ Big Film Design  
 _Stunt Co-ordinator:_ Jery Hewitt  
@@ -252,5 +216,5 @@ UK/USA/France 2009©
 106 mins  
 Digital 4K  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODg3MjUxMTNdfQ==
+eyJoaXN0b3J5IjpbNDU4ODA3ODNdfQ==
 -->
