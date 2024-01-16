@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: The Holdovers
+published: true
+date: 2024-01-16
+readtime: true
+categories: ['PREVIEW']
+tags:  [Drama]
+metadata: 'France 1975, 98 mins<br> Director: Walerian Borowczyk'
+pdf: '2024-01-16-beast.pdf'
+---
 
 _+ Q&A with director Alexander Payne and actors Paul Giamatti and Da’Vine Joy Randolph_
 
@@ -11,9 +20,8 @@ One master, Paul Hunham (Giamatti), a sourly witty but stalled and rage-filled l
 
 Payne has often adapted novels, relishing the access they give to a quite specific social and emotional and geographical world beyond his personal experience – which he then explores intensively, spending time in a locality, getting to know people and absorbing an atmosphere. But as with _Nebraska_ this is an original screenplay with an autobiographical authenticity that is the basis for the elaboration of a world; though as Payne explained, the experienced television writer and showrunner David Hemingson’s initial script, based on his own youth and difficult experiences at a prep school, was only the starting point for a joint exploration.
 
-In a way the storytelling is unobtrusive, fluent, beautifully and wittily observed, with delightful touches of physical comedy (the lame way Giamatti throws a football he finds in the snow is one small majestic moment of characterful expressiveness). And the dialogue is intensely pleasurable, full of comic barbs. The wounded, unhappy, cynical Hunham is in class, as the rebellious Tully calls him, a ‘sadistic fuck’ – but we can enjoy the abuse anyway, partly because it’s directed at spoilt rich kids. When one complains about his fail mark, ‘I can’t fail this class: I’m supposed to go to Cornell,’ Hunham answers lightly, ‘Oh, don’t sell yourself short, Mr Koontz; I truly believe that you _can_.’ And Tully can match him, commenting on one Hunham punishment, ‘I thought all the Nazis were hiding in Argentina.’ Genuine warmth emerges gradually, but also a sense that things are changing in a threatening way, so that for Hunham, ‘The world doesn’t make sense any more. The world’s on fire.’ Even if a real affection develops, in a complex, moving way, the prickly edge is never lost. What is experimental, even radical in the film is its attempt to recreate – a joyous, ironic fiction – the cinematic toolbox of 1970, with zooms, dissolves, a wintry palette like those of _The Last Detail_ (Hal Ashby, 1973) or _The King of Marvin Gardens_ (Bob Rafelson, 1972), and music from, or attuned to, the period. It is perhaps the crystallisation of Payne’s longheld feeling that the American cinematic mode of the early 70s, an intelligent, thoughtful, grown-up cinema questioning social values and struggling for moral clarity, still has remarkable appeal today – as _The Holdovers_ gloriously demonstrates.
-
-Philip Horne, _Sight and Sound_, Winter 2023
+In a way the storytelling is unobtrusive, fluent, beautifully and wittily observed, with delightful touches of physical comedy (the lame way Giamatti throws a football he finds in the snow is one small majestic moment of characterful expressiveness). And the dialogue is intensely pleasurable, full of comic barbs. The wounded, unhappy, cynical Hunham is in class, as the rebellious Tully calls him, a ‘sadistic fuck’ – but we can enjoy the abuse anyway, partly because it’s directed at spoilt rich kids. When one complains about his fail mark, ‘I can’t fail this class: I’m supposed to go to Cornell,’ Hunham answers lightly, ‘Oh, don’t sell yourself short, Mr Koontz; I truly believe that you _can_.’ And Tully can match him, commenting on one Hunham punishment, ‘I thought all the Nazis were hiding in Argentina.’ Genuine warmth emerges gradually, but also a sense that things are changing in a threatening way, so that for Hunham, ‘The world doesn’t make sense any more. The world’s on fire.’ Even if a real affection develops, in a complex, moving way, the prickly edge is never lost. What is experimental, even radical in the film is its attempt to recreate – a joyous, ironic fiction – the cinematic toolbox of 1970, with zooms, dissolves, a wintry palette like those of _The Last Detail_ (Hal Ashby, 1973) or _The King of Marvin Gardens_ (Bob Rafelson, 1972), and music from, or attuned to, the period. It is perhaps the crystallisation of Payne’s longheld feeling that the American cinematic mode of the early 70s, an intelligent, thoughtful, grown-up cinema questioning social values and struggling for moral clarity, still has remarkable appeal today – as _The Holdovers_ gloriously demonstrates.  
+**Philip Horne, _Sight and Sound_, Winter 2023**  
 
 _The Holdovers_ finds director Alexander Payne gloriously on prime form. The film, which for once he didn’t script – that he entrusted to experienced TV writer David Hemingson (_Kitchen Confidential_, 2005-6; _Whiskey Cavalier_, 2019), creating his first film script – reunites him with Paul Giamatti, star of his earlier gem _Sideways_ (2004). Here, as with his _Sideways_ character Miles, Giamatti plays a man who at first seems largely unlikable – but who, as we gradually come to realise, dislikes himself more than anyone else could and, for all his sarcasm and bile, deserves our sympathy.
 
@@ -26,10 +34,8 @@ _The Holdovers_ isn’t just set in the early ‘70s – in many ways it looks a
 The visual structure of _The Holdovers_, too, right from its vintage studio idents in the opening credits to the slow zooms, the painterly wide shots of the snowbound Massachusetts landscape and the transitions affected with fades and wipes, unmistakably link us back to that same era. Payne even creates a simulated 35mm feel to the lensing, shooting on digital but adding in the wear and tear of a film print. Nostalgic, funny, moving and thought-provoking, this may well qualify, in a career not short of outstanding achievements, as its director’s finest and most immersive film yet.  
 **Philip Kemp, _Sight and Sound_, 16 October 2023**  
 <br>
-<![endif]-->
 
-**The Holdovers**
-
+**THE HOLDOVERS**  
 _Director_: Alexander Payne  
 _Production Company_: Abigail Fiedler  
 _Executive Producers_: Tom Williams, Andrew Golov, Thom Zadra   
@@ -88,5 +94,5 @@ Digital
 
 Courtesy of Universal Pictures  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM1NTA3MjNdfQ==
+eyJoaXN0b3J5IjpbMTQwNTY2MTM2XX0=
 -->
