@@ -6,8 +6,8 @@ date: 2024-01-16
 readtime: true
 categories: ['PREVIEW']
 tags:  [Drama]
-metadata: 'France 1975, 98 mins<br> Director: Walerian Borowczyk'
-pdf: '2024-01-16-beast.pdf'
+metadata: 'USA 2023, 133 mins<br> Director: Alexander Payne'
+pdf: '2024-01-16-holdovers-qa.pdf'
 ---
 
 _+ Q&A with director Alexander Payne and actors Paul Giamatti and Da’Vine Joy Randolph_
@@ -94,5 +94,5 @@ Digital
 
 Courtesy of Universal Pictures  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTY2MTM2XX0=
+eyJoaXN0b3J5IjpbMjkyMDA1MjczXX0=
 -->
