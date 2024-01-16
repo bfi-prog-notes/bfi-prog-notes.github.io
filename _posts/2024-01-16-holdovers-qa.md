@@ -93,6 +93,31 @@ USA 2023
 Digital  
 
 Courtesy of Universal Pictures  
+<br>
+
+**IN PERSON & PREVIEWS**  
+**Preview: All of Us Strangers** + Q&A with Andrew Haigh  
+Wed 17 Jan 18:10  
+**Rock ‘n’ Roll Cinema**  
+Thu 18 Jan 18:15  
+**In Conversation: Cartoon Saloon’s Tomm Moore, Nora Twomey and Paul Young**  
+Sun 21 Jan 15:15  
+**Woman with a Movie Camera Preview: Your Fat Friend** + Q&A with director Jeanie Finlay and Aubrey Gordon  
+Sat 27 Jan 17:50  
+**Shooting the Past 25th Anniversary** + Q&A with writer-director Stephen Poliakoff and actors Lindsay Duncan and Timothy Spall  
+Sun 28 Jan 15:00  
+
+**NEW RELEASES**  
+**The Boy and the Heron** Kimitachi wa do Ikiruka  
+From 27 Dec  
+**Priscilla**  
+From Fri 5 Jan  
+**SCALA!!! Or, the Incredibly Strange Rise and Fall of the World’s Wildest Cinema and How It Influenced a Mixed-up Generation of Weirdos and Misfits**  
+From Fri 5 Jan  
+**Werner Herzog: Radical Dreamer**  
+From Fri 19 Jan  
+**The Holdovers**  
+From Fri 19 Jan  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyMDA1MjczXX0=
+eyJoaXN0b3J5IjpbLTgzMTk3NDQyXX0=
 -->
