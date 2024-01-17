@@ -19,19 +19,14 @@ Encounters across time are of particular value to queer people, long encouraged 
 _All of Us Strangers_ chimes too with Haigh’s own earlier work: _45 Years_ (2015) was built around the discombobulating return of the past, while _Greek Pete_ (2009) and the HBO series _Looking_ (2014-16) followed gay men in search of meaning and belonging. Most resonant is _Weekend_ (2011), Haigh’s comparably thoughtful and incrementally intense portrait of gay men connecting across difference and trauma. Those characters are still young, not yet thinking of parents as peers, but still thinking of them. At one point in _Weekend_, one of them pretends to be the other’s absent father in hopes of understanding and healing, a gambit writ large in _All of Us Strangers_. ‘Everything’s different now,’ Adam tells his mother across the decades. Yet queer alienation persists.  
 **Ben Walters, _Sight and Sound_, Winter 2023**  
 <br>
-<![endif]-->
 
-**All of Us Strangers**
-
+**ALL OF US STRANGERS**  
 _Directed by_: Andrew Haigh  
-_©_: 20th Century Studios,
-
-TSG Entertainment Finance LLC  
+_©_: 20th Century Studios, TSG Entertainment Finance LLC  
 _A_ Blueprint Pictures _production_  
 _Presented by_: Searchlight Pictures  
 _In association with_: Film4, TSG Entertainment  
-_Executive Producers_: Diarmuid McKeown,
-Ben Knight, Ollie Madden, Daniel Battsek, Farhana Bhula  
+_Executive Producers_: Diarmuid McKeown, Ben Knight, Ollie Madden, Daniel Battsek, Farhana Bhula  
 _Produced by_: Graham Broadbent, Peter Czernin, Sarah Harvey  
 _Unit Production Manager_: Amaka Ugwunkwo  
 _Supervising Location Manager_: Susie Booker  
@@ -68,5 +63,5 @@ Digital
 
 Courtesy of Searchlight Pictures  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzk1NzczNTJdfQ==
+eyJoaXN0b3J5IjpbLTQxOTMwNTUxN119
 -->
