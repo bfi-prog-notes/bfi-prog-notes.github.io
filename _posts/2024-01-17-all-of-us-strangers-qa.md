@@ -2,12 +2,12 @@
 layout: post
 title: All of Us Strangers
 published: true
-date: 2024-01-16
+date: 2024-01-17
 readtime: true
 categories: ['PREVIEW']
 tags:  [Drama]
-metadata: 'USA 2023, 133 mins<br> Director: Alexander Payne'
-pdf: '2024-01-16-holdovers-qa.pdf'
+metadata: 'UK 2023, 105 mins<br> Director: Andrew Haigh'
+pdf: '2024-01-17-all-of-us-strangers-qa.pdf'
 ---
 
 _+ Q&A with Andrew Haigh_
@@ -110,5 +110,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTI3MzY2XX0=
+eyJoaXN0b3J5IjpbMTEzNjAxNTk4MV19
 -->
