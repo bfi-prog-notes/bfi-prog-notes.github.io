@@ -5,9 +5,9 @@ published: true
 date: 2024-01-19
 readtime: true
 categories: ['RE-RELEASES']
-tags:  [Drama, ]
-metadata: 'West Germany 1979, 81 mins<br> Director: Werner Herzog'
-pdf: '2024-01-13-woyzeck.pdf'
+tags:  [Drama, Period]
+metadata: 'West Germany 1974, 10 mins<br> Director: Werner Herzog'
+pdf: '2024-01-19-enigma-of-kaspar-houser.pdf'
 ---
 
 **SPOILER WARNING The following notes give away some of the plot.**
@@ -20,8 +20,7 @@ The town authorities try to provide a satisfactory ending to Kaspar’s own inco
 
 Sehr’s conspiracy theory account examines the widely credited theory that Kaspar was the secret child of Stéphanie de Beauharnais, adopted daughter of Napoleon, and therefore heir to the throne of Baden. This theory is briefly and dismissively alluded to in Herzog’s film, which otherwise adheres largely to a selection of known facts. Herzog’s key source is a contemporary record by the judge, Anselm Ritter von Feuerbach. The facts, roughly, are these: in 1828, in Nuremberg (referred to in Herzog’s opening intertitle as ‘N.’), a youth of approximately 16 was found standing, holding a letter to the local light cavalry. He spoke only a few words, notably ‘ross’ (horse) and the phrase ‘I want to be a gallant rider, just like my father’ (‘Ich mocht ein solcher Reiter werden wie mein Vater einer war’) and signed the name ‘Kaspar Hauser’. He was initially imprisoned, then given into the care of Georg Friedrich Daumer, tutor to Hegel’s children. When Kaspar had learned enough German to narrate his experiences, he testified that he had spent all his life in a cellar, deprived of human communication. Belatedly reborn, he did not enjoy his new existence for long. He suffered two attacks by parties unknown: one a beating, the other a stabbing which proved fatal. (In Herzog’s film, the first, if not the second, is administered by Kaspar’s original jailer.) He died in 1832, origins still unknown.
 
-Two notable factors contribute to the myth. One is the remarkable speed with which Kaspar acquired fluency in spoken and written language. The other is the way that, despite his wild, unworldly aspect, he always gave evidence of a gentle disposition – an attribute which, in an age influenced by Rousseau’s archetype of the ‘noble savage’, led observers to view him as naturally more civilised than the literate world around him. Feuerbach called Kaspar ‘the living refutation of the doctrine of original sin, with his pure innocence and the goodness of his heart.’ Herzog himself, in a 1975 _Sight and Sound_ interview, shifted the emphasis to an ‘innocence’ of language: ‘Kaspar was in the purest sense a person without concepts, without language, an uncivilised person, a yet to be studied human.’ He later commented, ‘_Kaspar Hauser_ is almost an anthropological film. It tries to define what we are as human beings untouched by any environment, untouched by education as if a pure human being had fallen from outer space to this planet and come into existence here fully  
-grown up.’
+Two notable factors contribute to the myth. One is the remarkable speed with which Kaspar acquired fluency in spoken and written language. The other is the way that, despite his wild, unworldly aspect, he always gave evidence of a gentle disposition – an attribute which, in an age influenced by Rousseau’s archetype of the ‘noble savage’, led observers to view him as naturally more civilised than the literate world around him. Feuerbach called Kaspar ‘the living refutation of the doctrine of original sin, with his pure innocence and the goodness of his heart.’ Herzog himself, in a 1975 _Sight and Sound_ interview, shifted the emphasis to an ‘innocence’ of language: ‘Kaspar was in the purest sense a person without concepts, without language, an uncivilised person, a yet to be studied human.’ He later commented, ‘_Kaspar Hauser_ is almost an anthropological film. It tries to define what we are as human beings untouched by any environment, untouched by education as if a pure human being had fallen from outer space to this planet and come into existence here fully grown up.’
 
 Herzog’s most controversial gesture in _Kaspar Hauser_ was his casting of Bruno S.  
 – a Berlin street-singer, painter and steel worker then in his mid-forties, who had spent some 20 years in children’s homes, mental hospitals and prisons. Like Kaspar, Bruno had to acquire language: speaking only Berlin dialect, he had to learn conventional German for the film. Kaspar’s halting, emphatic diction appears to be Bruno’s own, as are his jerky movements and singularly expressive facial looks: the sudden engrossed absences and amused, inquisitive flickers of attention. We see much the same Bruno in his other Herzog film, _Stroszek_ (1977), in which he plays released jailbird Bruno Stroszek (the surname is from Herzog’s 1968 film, _Signs of Life_). Accused of exploiting Bruno, Herzog presented his choice almost as a defence of the contemporary Kaspars still being made to suffer. Bruno, he said, ‘has been so harmed by the world, like Kaspar, that he will never be whole. Yet he has still not been corrupted. And certainly not by me.’
@@ -150,5 +149,5 @@ Questions/comments? Contact the Programme Notes team by [email](mailto: prognote
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU0NTA0NDEsMjExMzg4NzQzXX0=
+eyJoaXN0b3J5IjpbMTkzMDQ2NzU5MCwyMTEzODg3NDNdfQ==
 -->
