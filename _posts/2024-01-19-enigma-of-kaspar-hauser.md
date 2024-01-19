@@ -2,10 +2,10 @@
 layout: post
 title: The Enigma of Kaspar Hauser
 published: true
-date: 2024-01-13
+date: 2024-01-19
 readtime: true
-categories: ['JOURNEY INTO THE UNKNOWN<br>THE FILMS OF WERNER HERZOG']
-tags:  [Drama]
+categories: ['RE-RELEASES']
+tags:  [Drama, ]
 metadata: 'West Germany 1979, 81 mins<br> Director: Werner Herzog'
 pdf: '2024-01-13-woyzeck.pdf'
 ---
@@ -150,5 +150,5 @@ Questions/comments? Contact the Programme Notes team by [email](mailto: prognote
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTA3NDQ0NTEsMjExMzg4NzQzXX0=
+eyJoaXN0b3J5IjpbLTEzMTU0NTA0NDEsMjExMzg4NzQzXX0=
 -->
