@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: The Enigma of Kaspar Hauser
+published: true
+date: 2024-01-13
+readtime: true
+categories: ['JOURNEY INTO THE UNKNOWN<br>THE FILMS OF WERNER HERZOG']
+tags:  [Drama]
+metadata: 'West Germany 1979, 81 mins<br> Director: Werner Herzog'
+pdf: '2024-01-13-woyzeck.pdf'
+---
 
 **SPOILER WARNING The following notes give away some of the plot.**
 
@@ -83,6 +90,27 @@ Digital
 A BFI release  
 <br>
 
+**JOURNEY INTO THE UNKNOWN: THE FILMS OF WERNER HERZOG**  
+**Heart of Glass** Herz aus Glas  
+Fri 19 Jan 20:40  
+**Stroszek**  
+Sat 20 Jan 20:40  
+**The White Diamond**  
+Sun 21 Jan 18:20; Fri 26 Jan 18:30  
+**Aguirre, Wrath of God** Aguirre, der Zorn Gottes  
+Tue 23 Jan 18:30  
+**Nosferatu the Vampyre** Nosferatu: Phantom der Nacht  
+Wed 24 Jan 20:50; Sat 27 Jan 15:00  
+**Into the Abyss – A Tale of Death, a Tale of Life**  
+Fri 26 Jan 20:45; Sun 28 Jan 15:10 **Woyzeck**  
+Sun 28 Jan 12:30  
+**Grizzly Man**  
+Mon 29 Jan 18:15  
+**Echoes from a Sombre Empire** Echos aus einem düsteren Reich  
+Tue 30 Jan 20:30  
+**The Fire Within: A Requiem for Katia and Maurice Krafft**  
+Wed 31 Jan 20:50  
+<br>
 **NEW RELEASES**  
 **The Boy and the Heron** Kimitachi wa do Ikiruka  
 From 27 Dec  
@@ -122,5 +150,5 @@ Questions/comments? Contact the Programme Notes team by [email](mailto: prognote
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjYyOTgyNywyMTEzODg3NDNdfQ==
+eyJoaXN0b3J5IjpbLTEwMTA3NDQ0NTEsMjExMzg4NzQzXX0=
 -->
