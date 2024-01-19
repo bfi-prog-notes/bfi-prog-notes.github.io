@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In Conversation: Cartoon Saloon’s Tomm Moore, Nora Twomey and Paul Young
+title: In Conversation<br> Cartoon Saloon’s Tomm Moore, Nora Twomey and Paul Young
 published: true
 date: 2024-01-21
 readtime: true
