@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: This Must Be the Place
+published: true
+date: 2024-01-20
+readtime: true
+categories: ['LONDON SHORT FILM FESTIVAL']
+tags:  [Shorts]
+metadata: 
+pdf: '2024-01-20-this-must-be-the-place.pdf'
+---
 
 One of four programmes celebrating the latest in short filmmaking talent.
 
@@ -33,5 +42,5 @@ Director Olivér Hegyi, Hungary 2022, 10 mins
 
 Total running time 86 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI3NDI0MDhdfQ==
+eyJoaXN0b3J5IjpbNjEyOTA3MTIwXX0=
 -->
