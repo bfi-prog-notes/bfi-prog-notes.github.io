@@ -22,6 +22,16 @@ Partner and Creative Director Cartoon Saloon Nora’s passion for visual storyte
 
 **Paul Young**  
 Co-Founder and Creative Director Cartoon Saloon Paul is a co-founder of Cartoon Saloon, an IFTA winner and Oscar ®, Emmy and BAFTA nominee. He produced animated features, _My Father’s Dragon_, _Wolfwalkers_,  _The Secret of Kells_, _Song of the Sea_ and _The Breadwinner_ as well as a number of award-winning TV series including _Puffin Rock_, _Dorg Van Dango_ and _Vikingskool_. _Screecher’s Reach_ is a ‘Star Wars Visions’ short released on Disney+ and has been directed at Cartoon Saloon by Paul. Paul is also an award-winning cartoonist and illustrator.
+
+
+**CARTOON SALOON AT 25**  
+**My Father’s Dragon**  
+Sat 27 Jan 12:00  
+**Funday Workshop: Puffin Rock and the New Friends**  
+Sun 28 Jan 10:30  
+**Funday: Puffin Rock and the New Friends**  
+Sun 28 Jan 11:45  
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTc5NTI5NV19
+eyJoaXN0b3J5IjpbOTg4MzA5Nzk5XX0=
 -->
