@@ -96,7 +96,6 @@ From Fri 19 Jan
 From Fri 19 Jan  
 <br>
 
-<br>
 
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
@@ -123,5 +122,5 @@ Questions/comments? Contact the Programme Notes team by [email](mailto: prognote
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjY4NjE1LDIxMTM4ODc0M119
+eyJoaXN0b3J5IjpbMTg0MjYyOTgyNywyMTEzODg3NDNdfQ==
 -->
