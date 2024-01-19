@@ -30,28 +30,20 @@ _With the participation of_:  Bord Scannán na hÉireann/The Irish Film Board
 _Produced with the financial participation of_: Gaia Entertainment, Shaw Rocket Fund, Artemis Rising Foundation, Broadcasting Authority of Ireland, Ontario Media Development Corporation, The Harold Greenberg Fund, RTÉ, The Movie Network, Canadian Broadcasting Corporation  
 _In association with_: GKIDS  
 _Developed with the assistance of_:  The Belinda Stronach Foundation, Corus Entertainment, Telefilm Canada, The Harold Greenberg Fund, Bord Scannán na hÉireann/The Irish Film Board, Creative Europe  
-_Produced with the financial participation of_:  
-Film Fund Luxembourg, Bord Scannán na hÉireann/The Irish Film Board, Telefilm Canada, Talent Fund, GKIDS, Ontario Media Development Corporation – Film and Television Tax Credits, Canadian Film or Video Tax Credit  
+_Produced with the financial participation of_:  Film Fund Luxembourg, Bord Scannán na hÉireann/The Irish Film Board, Telefilm Canada, Talent Fund, GKIDS, Ontario Media Development Corporation – Film and Television Tax Credits, Canadian Film or Video Tax Credit  
 _Production Partners_: Studio 352, Guru Studio  
-_Produced with the support of investment incentives for the Irish film industry provided by_:  
-Government of Ireland  
+_Produced with the support of investment incentives for the Irish film industry provided by_:  Government of Ireland  
 _International Sales_: WestEnd Films  
-_Executive Producers_: Angelina Jolie, Gerry Shirren, Mimi Polk Gitlin, Jon Levin, Regina K. Scully,  
-Eric Beckman, David Jesteadt, Mary Bredin,  
-Frank Falcone, Karim Amer, Jehane Noujaim  
-_Produced by_: Anthony Leo, Andrew Rosen,  
-Paul Young, Tomm Moore, Stephan Roelants  
+_Executive Producers_: Angelina Jolie, Gerry Shirren, Mimi Polk Gitlin, Jon Levin, Regina K. Scully,  Eric Beckman, David Jesteadt, Mary Bredin,  Frank Falcone, Karim Amer, Jehane Noujaim  
+_Produced by_: Anthony Leo, Andrew Rosen,  Paul Young, Tomm Moore, Stephan Roelants  
 _Line Producer_: Katja Schumann  
-_Associate Producers_: Tommaso Colognese,  
-Fabien Renelli, Philip Svoboda  
+_Associate Producers_: Tommaso Colognese,  Fabien Renelli, Philip Svoboda  
 _Assistant Director_: Stuart Shankly  
 _Casting Director_: Merle Anne Ridley  
 _Screenplay by_: Anita Doron  
 _Screen Story by_: Deborah Ellis  
 _Based on the book by_: Deborah Ellis  
-_Creative Consultants_: Walid Abouljoud,  
-Jamie Bolio, Jericca Cleland, Darren Holmes,  
-Sean McCarron, Amanullah Mojadidi  
+_Creative Consultants_: Walid Abouljoud,  Jamie Bolio, Jericca Cleland, Darren Holmes,  Sean McCarron, Amanullah Mojadidi  
 _Story Consultant_: Maureen Dorey  
 _Head of Story_: Julien Regnard  
 _Director of Photography_: Sheldon Lisoy  
@@ -70,8 +62,7 @@ _Sound Design by_: J.R. Fountain
 _Sound Supervisor_: Nelson Ferreira  
 _Re-recording Mixers_: Frank Morrone, J.R. Fountain
 
-_Voice Cast:_
-
+**Voice Cast**  
 Saara Chaudry _(Parvana)_  
 Soma Chhaya _(Shauzia)_  
 Laara Sadiq _(Fattema/old woman)_  
@@ -82,11 +73,10 @@ Noorin Gulamgaus _(Idrees/Sulayman)_
 Patrick McGrath _(Zaki)_  
 Finn Jackson Parle _(Lily Erlinghäuser)_
 
-Canada-Ireland-Luxembourg-USA 2017©
-
-93 mins
-
-Digital
+Canada-Ireland-Luxembourg-USA 2017©  
+93 mins  
+Digital<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzY0NjM5NjRdfQ==
+eyJoaXN0b3J5IjpbLTcwNjY4NDA3MF19
 -->
