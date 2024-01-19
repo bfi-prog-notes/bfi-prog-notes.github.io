@@ -1,15 +1,14 @@
 ---
 layout: post
-title: This Must Be the Place
+title: In Conversation: Cartoon Saloon’s Tomm Moore, Nora Twomey and Paul Young
 published: true
-date: 2024-01-20
+date: 2024-01-21
 readtime: true
-categories: ['LONDON SHORT FILM FESTIVAL']
-tags:  [Shorts]
+categories: ['EVENTS']
+tags:  [Talk]
 metadata: 
-pdf: '2024-01-20-this-must-be-the-place.pdf'
+pdf: '2024-01-21-cartoon-saloons-in-conversation.pdf'
 ---
-
 
 The Oscar-nominated creative team from Ireland’s Cartoon Saloon share their secret for success.
 
@@ -24,5 +23,5 @@ Partner and Creative Director Cartoon Saloon Nora’s passion for visual storyte
 **Paul Young**  
 Co-Founder and Creative Director Cartoon Saloon Paul is a co-founder of Cartoon Saloon, an IFTA winner and Oscar ®, Emmy and BAFTA nominee. He produced animated features, _My Father’s Dragon_, _Wolfwalkers_,  _The Secret of Kells_, _Song of the Sea_ and _The Breadwinner_ as well as a number of award-winning TV series including _Puffin Rock_, _Dorg Van Dango_ and _Vikingskool_. _Screecher’s Reach_ is a ‘Star Wars Visions’ short released on Disney+ and has been directed at Cartoon Saloon by Paul. Paul is also an award-winning cartoonist and illustrator.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDUzOTY1NzhdfQ==
+eyJoaXN0b3J5IjpbLTgzNTc5NTI5NV19
 -->
