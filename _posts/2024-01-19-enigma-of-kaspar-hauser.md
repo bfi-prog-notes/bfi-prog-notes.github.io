@@ -26,6 +26,62 @@ If Kaspar does have a secret subjectivity, the film suggests, it is not in him b
 Herzog’s Kaspar, in fact, seems in no uncertain fashion to be a visionary, an inspired poet in the properly Romantic sense, receiving his visions from beyond or above; ‘Mich hat getraumt’ (it dreamed to me), he tells Daumer and looks up at the sky. He is a blank screen on to which cinematic visions are projected like travelogue footage beamed from beyond. But if Kaspar is a screen for dream pictures, by implication his entire brief existence in the light of day is also a dream, projected for Herzog’s viewers, and just as ephemeral and insubstantial. We don’t know Kaspar as a living man with a living subjectivity but only a vaporous image of him: don’t look for a ‘soul’ in celluloid, the film cautions us, for we get only a moving flicker that resembles it.  
 **Jonathan Romney, _Sight and Sound_, October 2000**  
 <br>
+
+**THE ENIGMA OF KASPAR HAUSER  
+(JEDER FÜR SICH UND GOTT GEGEN ALLE)**  
+_Director_: Werner Herzog  
+_Production Companies_: Werner Herzog Filmproduktion, Süddeutscher Rundfunk  
+_Producer_: Werner Herzog  
+_Production Manager_: Christian Weisenborn  
+_Production Supervisor_: Walter Saxer  
+_Assistant Director_: Benedikt Kuby  
+_Screenplay_: Werner Herzog  
+_Director of Photography_:  
+Jörg Schmidt-Reitwein  
+_Dream Sequence Photography_: Klaus Wyborny  
+_Editor_: Beate Mainka-Jellinghaus  
+_Art Director_: Henning von Gierke  
+_Costume Designers_: Gisela Storch,  Ann Poppel  
+_Music_: Johann Pachelbel,  
+Tommaso Albinoni, Orlando Di Lasso, Wolfgang Amadeus Mozart  
+_Sound_: Haymo H. Heyder  
+
+**Cast**  
+Bruno S. _(Kaspar Hauser)_  
+Walter Ladengast _(Professor Daumer)_  
+Brigitte Mira _(Käthe)_  
+Willy Semmelrogge _(circus director)_  
+Gloria Dör _(Frau Hiltel)_  
+Volker Prechtel _(Hiltel, prison guard)_  
+Henry van Lyck _(cavalry captain)_  
+Florian Fricke _(Florian)_  
+Hans Musäus _(unknown man)_  
+Michael Kroecher _(Lord Stanhope)_  
+Enno Patalas _(Pastor Fuhrmann)_  
+Elis Pilgrim _(2nd pastor)_  
+Helmut Döring _(little King)_  
+Kidlat Tahimik _(hombrecito)_  
+Andi Gottwald _(young Mozart)_  
+Herbert Achternbusch_,  
+_Wolfgang Bauer_,_ Walter Steiner_  
+(young peasants)_  
+Clemens Scheitz _(scribe)_  
+Johannes Buzalski _(registrar)_  
+Willy Meyer-Fürst _(doctor)_  
+Alfred Edel _(professor of logic)_  
+Franz Brumbach _(showman with bear)_  
+Herbert Fritsch _(mayor)_  
+Wilhelm Bayer _(household cavalry captain)_  
+Peter Gebhart _(cobbler who finds Kaspar)_  
+Otto Heinzle _(old priest)_  
+Dorothea Kraft _(little girl)_  
+Reinhard Hauff  
+
+West Germany 1974  
+110 mins  
+Digital  
+
+A BFI release  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzg4NzQzXX0=
+eyJoaXN0b3J5IjpbMzE5MzAzMjQ3LDIxMTM4ODc0M119
 -->
