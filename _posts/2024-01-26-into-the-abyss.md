@@ -9,7 +9,7 @@ Less inclined than Herzog to Germanic romanticism, Wenders (and his scriptwriter
 
 _Into the Abyss_ is not an investigative documentary in the usual sense. Structured in a prologue and six chapters (each section features two or more interviewees), it uses a police account to set out the facts of the case.
 
-In Conroe, Texas, in 2001, two doper teenagers, Michael Perry and Jason Burkett, shot dead middle-class housewife Sandra Stotler while she was baking cookies at home. Their motive was to steal her car, but they found themselves unable to drive out of the gated community where she lived. So they called up Stotler’s adopted son, their acquaintance Adam Stotler, who arrived with his friend Jeremy Richardson. These two boys were subsequently murdered for the electronic device which opened the community’s gates, enabling Perry and Burkett to complete their theft of the car; Perry also stole Adam Stotler’s driving licence and pretended to be him when first challenged by the police for show-off driving in the car, which he claimed to have bought with a lotterywin.
+In Conroe, Texas, in 2001, two doper teenagers, Michael Perry and Jason Burkett, shot dead middle-class housewife Sandra Stotler while she was baking cookies at home. Their motive was to steal her car, but they found themselves unable to drive out of the gated community where she lived. So they called up Stotler’s adopted son, their acquaintance Adam Stotler, who arrived with his friend Jeremy Richardson. These two boys were subsequently murdered for the electronic device which opened the community’s gates, enabling Perry and Burkett to complete their theft of the car; Perry also stole Adam Stotler’s driving licence and pretended to be him when first challenged by the police for show-off driving in the car, which he claimed to have bought with a lottery win.
 
 Perry and Burkett were arrested in a shootout less than three days after the murders. Perry confessed on the spot and gave evidence which led police to the corpses of the two boys; he was sentenced to death. Burkett was also convicted, but given a life sentence after the jury heard testimony from his father, also a long-term jailbird, about the boy’s sickly and deprived childhood. Facing execution eight days after speaking with Herzog, Perry (who calls himself ‘a Christian’) now denies having murdered anyone. Burkett also denies murder; since being jailed he has married a woman who helped with his appeal, and she is now expecting his child by artificial insemination.
 
@@ -25,60 +25,32 @@ A week before his execution by lethal injection, the toothy, boyish Michael Perr
 
 The markedly less excitable Burkett himself, interviewed separately, also denies murder and indicates the five places he was shot during his arrest; he speaks warmly – and surprisingly articulately – about his father, and about the ‘Death Row groupie’ who has married him in jail. Herzog notes in the presskit that Burkett is apparently an Aryan Supremacist (‘though he denies it’) and he certainly looks the part, but the most effective challenge to his wounded-innocent front is the testimony from one Jared Talbert that Burkett once held a loaded gun to his head for 45 minutes in a dispute over a girl.
 
-Some of the film’s virtues are negative ones. Herzog doesn’t appear on screen and spares us his usual voiceover speculations about the protagonists’ dreams. (His notes assure us that he wore a formal suit throughout, complementing the politesse of his questions.) The refusal to engage in arguments and recriminations is also admirable, as is the understatement of the film’s polemic thrust. The nearest it comes to rhetorical excess is the rather florid chapter titles. For once, Herzog the batty ethnographer is nowhere in evidence; this film is wholly the product of Herzog the romantic pessimist. He stares into the ‘abyss’ and it stares back with tears and remarkable tenderness: the film ends with extraneous but oddly touching talk of hummingbirds.
+Some of the film’s virtues are negative ones. Herzog doesn’t appear on screen and spares us his usual voiceover speculations about the protagonists’ dreams. (His notes assure us that he wore a formal suit throughout, complementing the politesse of his questions.) The refusal to engage in arguments and recriminations is also admirable, as is the understatement of the film’s polemic thrust. The nearest it comes to rhetorical excess is the rather florid chapter titles. For once, Herzog the batty ethnographer is nowhere in evidence; this film is wholly the product of Herzog the romantic pessimist. He stares into the ‘abyss’ and it stares back with tears and remarkable tenderness: the film ends with extraneous but oddly touching talk of hummingbirds.  
+**Tony Rayns, _Sight and Sound_, April 2012**
+<br><br>
 
-Tony Rayns, _Sight and Sound_, April 2012
+**INTO THE ABYSS   A TALE OF DEATH, A TALE OF LIFE**<br>
+_Directed by:_ Werner Herzog<br>
+©: Creative Differences Productions Inc.,  Skellig Rock Productions Inc.<br>
+_Production Companies:_ Creative Differences, Skellig Rock<br>
+_For:_ Investigation Discovery<br>
+_In association with:_ Spring Films Ltd., Werner Herzog Film GmbH, More 4<br>
+_Presented by:_ Sundance Select,  Investigation Discovery<br>
+_Executive Producers:_ Dave Harding,  Amy Briamonte<br>
+_Executive Producers for Investigation Discovery:_ Henry Schlieff, Sara Kozak, André Singer, Lucki Stipetic<br>
+_Produced by:_ Erik Nelson<br>
+_Supervising Producer, Post-production:_ Randall Boyd<br>
+_Written by:_ Werner Herzog<br>
+_Director of Photography:_ Peter Zeitlinger<br>
+_Picture and Music Editor:_ Joe Bini<br>
+_Music Composed by:_ Mark Degli Antoni<br>
+_Production Sound:_ Eric Spitzer, Jeff Duncan,  Randy Foster, Michael Lile, Al McGuire,  Steve Osmon<br>
+_Narrated by:_ Werner Herzog<br>
 
-<![endif]-->
-
-**INTO THE ABYSS  A TALE OF DEATH, A TALE OF LIFE**
-
-_Directed by:_ Werner Herzog
-
-©: Creative Differences Productions Inc.,  
-Skellig Rock Productions Inc.
-
-_Production Companies:  
-_Creative Differences, Skellig Rock
-
-_For:_ Investigation Discovery
-
-_In association with:_ Spring Films Ltd._,_  
-Werner Herzog Film GmbH, More 4
-
-_Presented by:_ Sundance Select,  
-Investigation Discovery
-
-_Executive Producers:_ Dave Harding,  
-Amy Briamonte
-
-_Executive Producers for Investigation Discovery:_ Henry Schlieff, Sara Kozak,  
-André Singer, Lucki Stipetic
-
-_Produced by:_ Erik Nelson
-
-_Supervising Producer, Post-production:  
-_Randall Boyd
-
-_Written by:_ Werner Herzog
-
-_Director of Photography:_ Peter Zeitlinger
-
-_Picture and Music Editor:_ Joe Bini
-
-_Music Composed by:_ Mark Degli Antoni
-
-_Production Sound:_ Eric Spitzer, Jeff Duncan,  
-Randy Foster, Michael Lile, Al McGuire,  
-Steve Osmon
-
-_Narrated by:_ Werner Herzog
-
-USA-UK-Austria 2011©
-
-107 mins
-
-Digital
+USA-UK-Austria 2011©<br>
+107 mins<br>
+Digital<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxNzEwNTNdfQ==
+eyJoaXN0b3J5IjpbMTk4MDc5NTk4MF19
 -->
