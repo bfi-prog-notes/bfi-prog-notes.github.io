@@ -27,91 +27,57 @@ The Hösses appear to be blind and deaf to the horror that is happening at just 
 <br><br>
 
 **THE ZONE OF INTEREST**<br>
-
 _Director:_ Jonathan Glazer<br>
-
 _Production Company:_ A24<br>
-
 _Executive Producers:_ Reno Antoniades, Daniel Battsek, Len Blavatnik, Danny Cohen, Ke’Lonn Darnell, David Kimbangi, Ollie Madden, Tessa Ross<br>
-
-_Producers:_ James Wilson, Ewa Puszczynska,  
-Bugs Hartley<br>
-
+_Producers:_ James Wilson, Ewa Puszczynska,  Bugs Hartley<br>
 _Co-producer:_ Bartek Rainski<br>
-
 _Casting:_ Simone Bär, Alexandra Montag, Jacqueline Rietz<br>
-
 _Screenplay:_ Jonathan Glazer<br>
-
 _Based on the novel by:_ Martin Amis<br> 
 _Cinematography:_ Łucasz Żal<br>
-
 _Editor:_ Paul Watts<br>
-
 _Production Design:_ Chris Oddy<br>
-
 _Costume Design:_ Malgorzata Karpiuk<br>
-
 _Composer:_ Mica Levi<br>
-
 _Sound Designer:_ Johnnie Burn<br>
-
 _Production Sound Mixer:_ Tarn Willers<br>
 
-_Cast:_<br>
-
+**Cast**<br>
 Christian Friedel _(Rudolf Höss)_<br>
-
 Sandra Hüller _(Hedwig Höss)_<br>
-
 Medusa Knopf _(Elfryda)_<br>
-
 Freya Kreutzkam _(Eleanor Pohl)_<br>
-
 Ralph Herforth _(Oswald Pohl)_<br>
-
 Max Beck _(Schwarzer)_<br>
-
 Ralf Zillmann _(Hoffmann)_<br>
-
 Imogen Kogge _(Linna Hensel)_<br>
 
 USA-UK-Poland 2023<br>
-
 105 mins<br>
-
 Digital<br>
 
 An A24 release<br><br>
 
 
 **NEW RELEASES**<br>
-
 **The Zone of Interest**<br>
-
 From Fri 2 Feb<br>
-
 **American Fiction**<br>
-
 From Fri 9 Feb<br>
+**The Taste of Things** La Passion du Dodin-Bouffant<br>
+From Fri 16 Feb (Preview on Wed 14 Feb)<br>
+**Getting It Back: The Story of Cymande**<br>
+From Fri 16 Feb (Preview + Q&A on Tue 13 Feb)<br>
 
-**The Taste of Things** La Passion du Dodin-Bouffant
+**RE-RELEASES**<br>
+**Days of Heaven**<br>
+From Fri 2 Feb<br>
+**City of God** Cidade de Deus<br>
+From Fri 23 Feb<br>
+<br>
 
-From Fri 16 Feb (Preview on Wed 14 Feb)
 
-**Getting It Back: The Story of Cymande**
-
-From Fri 16 Feb (Preview + Q&A on Tue 13 Feb)
-
-**RE-RELEASES**
-
-**Days of Heaven**
-
-From Fri 2 Feb
-
-**City of God** Cidade de Deus
-
-From Fri 23 Feb
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0NjE0ODg5XX0=
+eyJoaXN0b3J5IjpbOTQ3ODcwOTIxXX0=
 -->
