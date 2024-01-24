@@ -32,9 +32,8 @@ _Directed by_: Cord Jefferson
 ©: MRC II Distribution Company L.P.  
 _Production Companies_: T-Street, Almost Infinite,  3 Arts Entertainment  
 _Presented by_: Orion Pictures, MRC  
-_Executive Producers_: Rian Johnson, Ram Bergman, Percival Everett, MichaelBowes  
-_Produced by_: Ben LeClair, Nikos Karamigios,  
-Cord Jefferson, Jermaine Johnson  
+_Executive Producers_: Rian Johnson, Ram Bergman, Percival Everett, Michael Bowes  
+_Produced by_: Ben LeClair, Nikos Karamigios,  Cord Jefferson, Jermaine Johnson  
 _Script Supervisor_: Frankie Ferrari  
 _Casting by_: Jennifer Euston  
 _Written by_: Cord Jefferson  
@@ -51,15 +50,12 @@ _Music by_: Laura Karpman
 _Orchestra_: Synchron Stage Orchestra  
 _Music Supervisor_: Julie Glaze Houlihan  
 _Production Sound Mixer_: Jared Detsikas  
-_Re-recording Mixers_: Alexandra Fehrman,  
-Richard Weingart  
+_Re-recording Mixers_: Alexandra Fehrman,  Richard Weingart  
 _Supervising Sound Editor_: Mandell Winter  
 _Stunt Co-ordinator_: John Mason
 
-_Cast:_
-
-Jeffrey Wright_  
-(Thelonious ‘Monk’ Ellison, ‘Stagg R. Leigh’)_  
+**Cast**  
+Jeffrey Wright _(Thelonious ‘Monk’ Ellison, ‘Stagg R. Leigh’)_  
 Tracee Ellis Ross _(Lisa Ellison)_  
 John Ortiz _(Arthur)_  
 Erika Alexander _(Coraline)_  
@@ -69,13 +65,12 @@ Keith David _(Willy the Wonker)_
 Issa Rae _(Sintara Golden)_  
 Sterling K. Brown _(Cliff Ellison)_
 
-USA 2023©
-
-117 mins
-
+USA 2023©  
+117 mins  
 Digital
 
-A Curzon release
+A Curzon release<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTM1MTMwMF19
+eyJoaXN0b3J5IjpbLTk2ODc0NzUyXX0=
 -->
