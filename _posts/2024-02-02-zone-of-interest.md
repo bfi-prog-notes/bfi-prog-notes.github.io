@@ -1,3 +1,14 @@
+---
+layout: post
+title: The Zone of Interest
+published: true
+date: 2024-02-02
+readtime: true
+categories: ['NEW RELEASES']
+tags:  [Drama]
+metadata: 'USA-UK-Poland 2023, 105 mins<br> Director: Jonathan Glazer'
+pdf: '2024-02-02-zone-of-interest.pdf'
+---
 
 This chilling drama from the director of _Under the Skin_ is an extraordinary and unsettling work that won’t easily be forgotten. Auschwitz commandant Rudolf Höss lives with his family in a comfortable home next door to the camp. His wife Hedwig busies herself tending to her ‘paradise’ garden, while the couple’s children laugh and play in the sunshine. The family carry on with their lives, disturbingly detached from the terrible sounds that creep over the garden wall. Inspired by Martin Amis’ 2014 novel, Jonathan Glazer’s unsettling examination of Nazi mentality successfully adopts an unorthodox perspective. He observes the domestic rhythms of daily life, recording the activities of the family, their friends, the servants who work for them and the officers who occasionally visit. Life would seem unremarkable if it weren’t for the sounds that come from the adjoining camp, a place the film never enters. Johnnie Burn’s sound design, coupled with a sparing but chillingly effective score by Mica Levi, emphasises the frightening psychology of Höss and those who are driven by such a pernicious ideology. The result is both a powerful exploration of inhumanity and a brilliant work of cinema.  
 **Kimberley Sheehan, Film and Events Programmer**
@@ -76,6 +87,29 @@ From Fri 2 Feb<br>
 **City of God** Cidade de Deus<br>
 From Fri 23 Feb<br>
 <br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 
 <!--stackedit_data:
