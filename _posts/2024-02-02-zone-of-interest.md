@@ -1,1 +1,91 @@
+<![endif]-->
 
+This chilling drama from the director of _Under the Skin_ is an extraordinary and unsettling work that won’t easily be forgotten. Auschwitz commandant Rudolf Höss lives with his family in a comfortable home next door to the camp. His wife Hedwig busies herself tending to her ‘paradise’ garden, while the couple’s children laugh and play in the sunshine. The family carry on with their lives, disturbingly detached from the terrible sounds that creep over the garden wall. Inspired by Martin Amis’ 2014 novel, Jonathan Glazer’s unsettling examination of Nazi mentality successfully adopts an unorthodox perspective. He observes the domestic rhythms of daily life, recording the activities of the family, their friends, the servants who work for them and the officers who occasionally visit. Life would seem unremarkable if it weren’t for the sounds that come from the adjoining camp, a place the film never enters. Johnnie Burn’s sound design, coupled with a sparing but chillingly effective score by Mica Levi, emphasises the frightening psychology of Höss and those who are driven by such a pernicious ideology. The result is both a powerful exploration of inhumanity and a brilliant work of cinema.
+
+Kimberley Sheehan, Film and Events Programmer
+
+The official one-line synopsis for Jonathan Glazer’s _The Zone of Interest_ talks about a couple who ‘strive to build a dream life for their family’. But the couple are Rudolf Höss, the commandant of Auschwitz, and his wife Hedwig. The grass is green, the roses red, there are parties for the children, and there’s a pretty garden wall which blocks out the horrific sights and sounds of industrialised slaughter on the other side.
+
+_The Zone of Interest_ shares its title with Martin Amis’s 2014 novel, but Glazer’s script pares everything down to a detailed depiction of the home life of the Höss family, as opposed to Amis’s picaresque multi-strand narrative. This stark, formally innovative film won the Grand Prix and a Fipresci critics’ prize in Cannes (and was many critics’ favourite for the Palme d’Or). Confronting us with the unimaginable, the film at the same time rigorously explores the perennial ethical dilemma of what can and what should not be depicted of the atrocities of the Holocaust. It features two remarkable and entirely unconventional lead performances by Sandra Hüller (who also starred in Justine Triet’s Palme d’Or winner _Anatomy of a Fall_) and Christian Friedel (Michael Haneke’s _The White Ribbon_, 2009; Jessica Hausner’s _Amour fou_, 2014).
+
+Visiting London recently, the pair discussed the challenges and discomfort faced by German actors in depicting such characters. Hüller says she was initially disturbed by Glazer’s suggestion that she play Hedwig, given her aversion to traditional representations of the era – to the use of period regalia and Nazi uniforms that encourage the actors to take on a conventional stiff deportment (‘The uniforms wear you,’ Friedel says).
+
+‘I had already refused some offers to play these sort of characters,’ Hüller says. ‘I always wondered if it’s possible to say something about the Holocaust or Fascism, without all the insignia, without all the clothing. I always wondered if you can do it without it – or what if people would put on the uniforms but slouch?’
+
+Decades of lazy over-use have taken the paradoxical sting out of Hannah Arendt’s notion of the ‘banality of evil’, but the term acquires a new critical charge in Glazer’s film. Taking its name from the drably euphemistic Nazi term designating Auschwitz and its environs, _The Zone of Interest_ is very much about the daily mundanity of the Höss household – the domesticity of evil. Portrayed by Hüller and Friedel as people engaged automatically, almost blindly, in the daily mechanics of bourgeois life, the couple come across not so much as soulless, but as lacking character, with a capital C, in the sense of embodying a total absence of ethical substance.
+
+That, says Hüller, ‘is something that goes against the natural impulse of an actor. Of course we don’t want to play boring people, we want to play interesting people and make ourselves more interesting through playing them. It’s a very vain thing that we normally do, and it didn’t work here. It would have been a fatal decision to put any sort of interesting character development that people usually look for. They’re just boring and evil. I would say that’s what I found about them – they really don’t care about anything.’
+
+The forensic depiction of the Hösses’ lives derives its especially unsettling power from Glazer’s decision to shoot on a set depicting the family home – created by production designer Chris Oddy – which was equipped with a system of multiple concealed cameras. This meant that the actors would perform the characters’ activities in separate rooms simultaneously, often repeating scenes in a loop, without the obtrusive presence of a visible camera crew – a system that Glazer has compared to reality shows like _Big Brother_.
+
+The method adds a significant layer of dark irony to the film – not least in that these people, ruling their small world through a pitiless observation system (the guard towers are always visible over the garden wall), are themselves under surveillance, down to the smallest detail of their daily gestures. A prime example is the sequence in which Rudolf Höss walks through the labyrinthine enclosure of the house’s corridors, locking up the doors last thing at night, like a responsible paterfamilias protecting the family home.
+
+‘It says so much,’ Hüller says. ‘What are they fearing, actually? They act like the kings of the world and at the same time they lock their house in this particular very slow way. It tells so much of the unconsciousness of what’s going on – like something that happens automatically and he doesn’t even know why.’
+
+Friedel adds, ‘You see him compartmentalise all these atrocities, compartmentalise and protect something. Jonathan told me this is one of his favourite scenes of my character in the movie – you see this daily ritual and it is stronger than any words I say.’
+
+The Hösses appear to be blind and deaf to the horror that is happening at just one remove from their home; indeed, Hedwig Höss would insist that she was completely unaware of what actually went on in her husband’s workplace. But Friedel has visited the couple’s house, which still stands overlooking the Auschwitz site. ‘If you stand in the children’s room of the original house, you’re looking directly at gas chamber one. You cannot ignore that and you cannot say, “I don’t know what’s going on.” You look into the camp, and you see and feel and smell the atrocities.’
+
+Jonathan Romney, _Sight and Sound_, Winter 2023
+
+<![endif]-->
+
+**THE ZONE OF INTEREST**
+
+_Director:_ Jonathan Glazer
+
+_Production Company:_ A24
+
+_Executive Producers:_ Reno Antoniades, Daniel Battsek, Len Blavatnik, Danny Cohen, Ke’Lonn Darnell, David Kimbangi, Ollie Madden, Tessa Ross
+
+_Producers:_ James Wilson, Ewa Puszczynska,  
+Bugs Hartley
+
+_Co-producer:_ Bartek Rainski
+
+_Casting:_ Simone Bär, Alexandra Montag, Jacqueline Rietz
+
+_Screenplay:_ Jonathan Glazer
+
+_Based on the novel by:_ Martin Amis _Cinematography:_ Łucasz Żal
+
+_Editor:_ Paul Watts
+
+_Production Design:_ Chris Oddy
+
+_Costume Design:_ Malgorzata Karpiuk
+
+_Composer:_ Mica Levi
+
+_Sound Designer:_ Johnnie Burn
+
+_Production Sound Mixer:_ Tarn Willers
+
+_Cast:_
+
+Christian Friedel _(Rudolf Höss)_
+
+Sandra Hüller _(Hedwig Höss)_
+
+Medusa Knopf _(Elfryda)_
+
+Freya Kreutzkam _(Eleanor Pohl)_
+
+Ralph Herforth _(Oswald Pohl)_
+
+Max Beck _(Schwarzer)_
+
+Ralf Zillmann _(Hoffmann)_
+
+Imogen Kogge _(Linna Hensel)_
+
+USA-UK-Poland 2023
+
+105 mins
+
+Digital
+
+An A24 release
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MDk5OTk3MDldfQ==
+-->
