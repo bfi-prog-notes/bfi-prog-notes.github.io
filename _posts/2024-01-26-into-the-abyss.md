@@ -29,7 +29,7 @@ Some of the film’s virtues are negative ones. Herzog doesn’t appear on scree
 **Tony Rayns, _Sight and Sound_, April 2012**
 <br><br>
 
-**INTO THE ABYSS   A TALE OF DEATH, A TALE OF LIFE**<br>
+**INTO THE ABYSS: A TALE OF DEATH, A TALE OF LIFE**<br>
 _Directed by:_ Werner Herzog<br>
 ©: Creative Differences Productions Inc.,  Skellig Rock Productions Inc.<br>
 _Production Companies:_ Creative Differences, Skellig Rock<br>
@@ -52,5 +52,5 @@ USA-UK-Austria 2011©<br>
 Digital<br>
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDc5NTk4MF19
+eyJoaXN0b3J5IjpbLTEwMjIwNDA4MTJdfQ==
 -->
