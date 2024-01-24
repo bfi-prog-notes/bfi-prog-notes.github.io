@@ -1,8 +1,6 @@
-<![endif]-->
 
-This chilling drama from the director of _Under the Skin_ is an extraordinary and unsettling work that won’t easily be forgotten. Auschwitz commandant Rudolf Höss lives with his family in a comfortable home next door to the camp. His wife Hedwig busies herself tending to her ‘paradise’ garden, while the couple’s children laugh and play in the sunshine. The family carry on with their lives, disturbingly detached from the terrible sounds that creep over the garden wall. Inspired by Martin Amis’ 2014 novel, Jonathan Glazer’s unsettling examination of Nazi mentality successfully adopts an unorthodox perspective. He observes the domestic rhythms of daily life, recording the activities of the family, their friends, the servants who work for them and the officers who occasionally visit. Life would seem unremarkable if it weren’t for the sounds that come from the adjoining camp, a place the film never enters. Johnnie Burn’s sound design, coupled with a sparing but chillingly effective score by Mica Levi, emphasises the frightening psychology of Höss and those who are driven by such a pernicious ideology. The result is both a powerful exploration of inhumanity and a brilliant work of cinema.
-
-Kimberley Sheehan, Film and Events Programmer
+This chilling drama from the director of _Under the Skin_ is an extraordinary and unsettling work that won’t easily be forgotten. Auschwitz commandant Rudolf Höss lives with his family in a comfortable home next door to the camp. His wife Hedwig busies herself tending to her ‘paradise’ garden, while the couple’s children laugh and play in the sunshine. The family carry on with their lives, disturbingly detached from the terrible sounds that creep over the garden wall. Inspired by Martin Amis’ 2014 novel, Jonathan Glazer’s unsettling examination of Nazi mentality successfully adopts an unorthodox perspective. He observes the domestic rhythms of daily life, recording the activities of the family, their friends, the servants who work for them and the officers who occasionally visit. Life would seem unremarkable if it weren’t for the sounds that come from the adjoining camp, a place the film never enters. Johnnie Burn’s sound design, coupled with a sparing but chillingly effective score by Mica Levi, emphasises the frightening psychology of Höss and those who are driven by such a pernicious ideology. The result is both a powerful exploration of inhumanity and a brilliant work of cinema.  
+**Kimberley Sheehan, Film and Events Programmer**
 
 The official one-line synopsis for Jonathan Glazer’s _The Zone of Interest_ talks about a couple who ‘strive to build a dream life for their family’. But the couple are Rudolf Höss, the commandant of Auschwitz, and his wife Hedwig. The grass is green, the roses red, there are parties for the children, and there’s a pretty garden wall which blocks out the horrific sights and sounds of industrialised slaughter on the other side.
 
@@ -24,68 +22,96 @@ The method adds a significant layer of dark irony to the film – not least in t
 
 Friedel adds, ‘You see him compartmentalise all these atrocities, compartmentalise and protect something. Jonathan told me this is one of his favourite scenes of my character in the movie – you see this daily ritual and it is stronger than any words I say.’
 
-The Hösses appear to be blind and deaf to the horror that is happening at just one remove from their home; indeed, Hedwig Höss would insist that she was completely unaware of what actually went on in her husband’s workplace. But Friedel has visited the couple’s house, which still stands overlooking the Auschwitz site. ‘If you stand in the children’s room of the original house, you’re looking directly at gas chamber one. You cannot ignore that and you cannot say, “I don’t know what’s going on.” You look into the camp, and you see and feel and smell the atrocities.’
+The Hösses appear to be blind and deaf to the horror that is happening at just one remove from their home; indeed, Hedwig Höss would insist that she was completely unaware of what actually went on in her husband’s workplace. But Friedel has visited the couple’s house, which still stands overlooking the Auschwitz site. ‘If you stand in the children’s room of the original house, you’re looking directly at gas chamber one. You cannot ignore that and you cannot say, “I don’t know what’s going on.” You look into the camp, and you see and feel and smell the atrocities.’  
+**Jonathan Romney, _Sight and Sound_, Winter 2023**
+<br><br>
 
-Jonathan Romney, _Sight and Sound_, Winter 2023
+**THE ZONE OF INTEREST**<br>
 
-<![endif]-->
+_Director:_ Jonathan Glazer<br>
 
-**THE ZONE OF INTEREST**
+_Production Company:_ A24<br>
 
-_Director:_ Jonathan Glazer
-
-_Production Company:_ A24
-
-_Executive Producers:_ Reno Antoniades, Daniel Battsek, Len Blavatnik, Danny Cohen, Ke’Lonn Darnell, David Kimbangi, Ollie Madden, Tessa Ross
+_Executive Producers:_ Reno Antoniades, Daniel Battsek, Len Blavatnik, Danny Cohen, Ke’Lonn Darnell, David Kimbangi, Ollie Madden, Tessa Ross<br>
 
 _Producers:_ James Wilson, Ewa Puszczynska,  
-Bugs Hartley
+Bugs Hartley<br>
 
-_Co-producer:_ Bartek Rainski
+_Co-producer:_ Bartek Rainski<br>
 
-_Casting:_ Simone Bär, Alexandra Montag, Jacqueline Rietz
+_Casting:_ Simone Bär, Alexandra Montag, Jacqueline Rietz<br>
 
-_Screenplay:_ Jonathan Glazer
+_Screenplay:_ Jonathan Glazer<br>
 
-_Based on the novel by:_ Martin Amis _Cinematography:_ Łucasz Żal
+_Based on the novel by:_ Martin Amis<br> 
+_Cinematography:_ Łucasz Żal<br>
 
-_Editor:_ Paul Watts
+_Editor:_ Paul Watts<br>
 
-_Production Design:_ Chris Oddy
+_Production Design:_ Chris Oddy<br>
 
-_Costume Design:_ Malgorzata Karpiuk
+_Costume Design:_ Malgorzata Karpiuk<br>
 
-_Composer:_ Mica Levi
+_Composer:_ Mica Levi<br>
 
-_Sound Designer:_ Johnnie Burn
+_Sound Designer:_ Johnnie Burn<br>
 
-_Production Sound Mixer:_ Tarn Willers
+_Production Sound Mixer:_ Tarn Willers<br>
 
-_Cast:_
+_Cast:_<br>
 
-Christian Friedel _(Rudolf Höss)_
+Christian Friedel _(Rudolf Höss)_<br>
 
-Sandra Hüller _(Hedwig Höss)_
+Sandra Hüller _(Hedwig Höss)_<br>
 
-Medusa Knopf _(Elfryda)_
+Medusa Knopf _(Elfryda)_<br>
 
-Freya Kreutzkam _(Eleanor Pohl)_
+Freya Kreutzkam _(Eleanor Pohl)_<br>
 
-Ralph Herforth _(Oswald Pohl)_
+Ralph Herforth _(Oswald Pohl)_<br>
 
-Max Beck _(Schwarzer)_
+Max Beck _(Schwarzer)_<br>
 
-Ralf Zillmann _(Hoffmann)_
+Ralf Zillmann _(Hoffmann)_<br>
 
-Imogen Kogge _(Linna Hensel)_
+Imogen Kogge _(Linna Hensel)_<br>
 
-USA-UK-Poland 2023
+USA-UK-Poland 2023<br>
 
-105 mins
+105 mins<br>
 
-Digital
+Digital<br>
 
-An A24 release
+An A24 release<br><br>
+
+
+**NEW RELEASES**<br>
+
+**The Zone of Interest**<br>
+
+From Fri 2 Feb<br>
+
+**American Fiction**<br>
+
+From Fri 9 Feb<br>
+
+**The Taste of Things** La Passion du Dodin-Bouffant
+
+From Fri 16 Feb (Preview on Wed 14 Feb)
+
+**Getting It Back: The Story of Cymande**
+
+From Fri 16 Feb (Preview + Q&A on Tue 13 Feb)
+
+**RE-RELEASES**
+
+**Days of Heaven**
+
+From Fri 2 Feb
+
+**City of God** Cidade de Deus
+
+From Fri 23 Feb
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk5OTk3MDldfQ==
+eyJoaXN0b3J5IjpbMjU0NjE0ODg5XX0=
 -->
