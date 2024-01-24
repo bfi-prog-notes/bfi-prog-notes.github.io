@@ -35,11 +35,9 @@ _Art Director_: Áine McGuiness
 _Character Design & Model Sheets Supervisor_: Sandra Norup Anderson  
 _Music by_: The Danna Brothers  
 _Re-recording Mixers_: Justin M. Davey, Zach Seivers  
-_Supervising Sound Editors_: Justin M. Davey,  
-Zach Seivers
+_Supervising Sound Editors_: Justin M. Davey,  Zach Seivers
 
-_Voice Cast:_
-
+**Voice Cast**  
 Jacob Tremblay _(Elmer)_  
 Gaten Matarazzo _(Boris)_  
 Golshifteh Farahani _(mom)_  
@@ -60,11 +58,10 @@ Maggie Lincoln _(Gertie)_
 Whoopi Goldberg _(cat)_  
 Ian McShane _(Saiwa)_
 
-USA-Ireland 2022©
-
-99 mins
-
+USA-Ireland 2022©  
+99 mins  
 Digital
+<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0OTkxNTU2XX0=
+eyJoaXN0b3J5IjpbLTQ5MjE1MDI5MF19
 -->
