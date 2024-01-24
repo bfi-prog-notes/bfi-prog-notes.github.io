@@ -1,3 +1,14 @@
+---
+layout: post
+title: My Father's Dragon
+published: true
+date: 2024-01-27
+readtime: true
+categories: ['CARTOON SALOON AT 25']
+tags:  [Animation]
+metadata: 'USA-Ireland 2022, 99 mins<br> Director: Nora Twomey'
+pdf: '2024-01-27-my-fathers-dragon.pdf'
+---
 
 Ever since the surprise Best Animated Feature Oscar nomination for their debut film, _The Secret of Kells_ (2009), Irish studio Cartoon Saloon has enjoyed a blossoming international reputation among festival programmers, award voters and animation-hungry audiences alike. But _Kells_’ two co-directors have walked distinct creative paths since their first success. Tomm Moore has delved deeper into Irish mythology with _Song of the Sea_ (2014) and _WolfWalkers_ (2020), while Nora Twomey has looked further afield for inspiration: to Taliban-era Afghanistan for _The Breadwinner_ (2017), and now to the US for _My Father’s Dragon_.
 
@@ -62,6 +73,49 @@ USA-Ireland 2022©
 99 mins  
 Digital
 <br><br>
+
+**CARTOON SALOON AT 25**<br>
+**The Secret of Kells**<br>
+Sat 6 Jan 12:10<br>
+**Song of the Sea**<br>
+Sat 13 Jan 12:00<br>
+**The Short Films of Cartoon Saloon + Q&A with Cartoon Saloon’s Nora Twomey, Tomm Moore and Paul Young**<br> 
+Sat 20 Jan 11:30<br>
+**The Breadwinner + Q&A with Nora Twomey**<br>
+Sat 20 Jan 14:10<br>
+**Wolfwalkers + Q&A with director Tomm Moore**<br>
+Sat 21 Jan 12:15<br>
+**My Father’s Dragon**<br>
+Sat 27 Jan 12:00<br>
+**Funday Workshop: Puffin Rock and the New Friends**<br>
+Sun 28 Jan 10:30<br>
+**Funday: Puffin Rock and the New Friends**<br>
+Sun 28 Jan 11:45<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTQ5MjE1MDI5MF19
 -->
