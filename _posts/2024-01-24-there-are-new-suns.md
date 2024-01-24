@@ -10,13 +10,13 @@ metadata:
 pdf: '2024-01-24-there-are-new-suns.pdf'
 ---
 
-‘There is nothing new under the sun, but there are new suns’.
-
+‘There is nothing new under the sun, but there are new suns’.  
 Octavia E. Butler
 
 Filmmaking and watching offer us a way to imagine new horizons, or alternative worlds that are already out there. What planes and dimensions exist alongside our own, and what images can we summon from there to here? A speculative fiction that reimagines the London smog through the lens of the climate crisis. Explore a cyberpunk Manila and the true roots of electronic music as memories and histories intertwine with futures and reality blurs. Is that catfish talking to me?
 
 Costa prize-winning author Caleb Azumah Nelson (_Open Water_, _Small Worlds_) premieres his debut short film _Pray_. LSFF alumni Natalie Cubides-Brady (_Beyond the Winds: A Post Nuclear Reverie_) presents her European Film Award 2024 nomination _The Veiled City_. Vienna Shorts FIDO winner _Hito_ explores a dreamlike Filipino landscape.
+<br>
 
 **Pray**  
 
@@ -81,5 +81,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzUxMzg2Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjA1NzI0OTkwOCw3MzA5OTgxMTZdfQ==
 -->
