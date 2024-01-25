@@ -39,6 +39,13 @@ Director Harry Plowden, UK 2023, 13 mins
 Director Makoto Nagahisa, Japan 2023, 18 mins
 
 Total running time 91min
+yer.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2NjI0NDI0XX0=
+eyJoaXN0b3J5IjpbNDI5MTAzMjczXX0=
 -->
