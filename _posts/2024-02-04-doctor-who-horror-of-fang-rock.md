@@ -21,84 +21,48 @@ Behind the scenes though, changes were afoot at _Doctor Who_. On the day that _H
 <br><br>
 
 **DOCTOR WHO: HORROR OF FANG ROCK**<br>
-
 _Directed by_: Paddy Russell<br>
-
 ©: BBC<br>
-
 _Producer_: Graham Williams<br>
-
 _Production Unit Manager_: John Nathan-Turner<br>
-
 _[Written] By_: Terrance Dicks<br>
-
 _Script Editor_: Robert Holmes<br>
-
 _Lighting_: Bob Gell<br>
-
 _Film Cameraman_: John Walker<br>
-
-_Title Music by_: Ron Grainer and the
-
-BBC Radiophonic Workshop [part 1]<br>
-
-_Title Music Arranged and Performed by_:
-
-Delia Derbyshire *<br>
-
+_Title Music by_: Ron Grainer and the BBC Radiophonic Workshop [part 1]<br>
+_Title Music Arranged and Performed by_: Delia Derbyshire *<br>
 _Incidental Music by_: Dudley Simpson<br>
-
 _Sound_: David Hughes<br>
-
 _Special Sound_: Dick Mills<br>
-
 _Costume Designer_: Joyce Hawkins<br>
-
 _Make-Up Artist_: Jackie Hodgson<br>
-
 _Visual Effects Designer_: Peter Pegrum<br>
-
 _Title Sequence by_: Bernard Lodge<br>
-
 _Designer_: Paul Allen<br>
-
 _Production Assistant_: Peter Grimwade<br>
-
 _Assistant Floor Manager_: Bill Hartley *<br>
-
 _Studio_: BBC Pebble Mill, Birmingham, UK *<br>
 
-_Cast_<br>
-
+**Cast**<br>
 Tom Baker _(Doctor Who)_<br>
-
 Louise Jameson _(Leela)_<br>
+Colin Douglas _(Reuben)_<br>
+John Abbott _(Vince Hawkins)_<br>
+Ralph Watson _(Ben)_<br>
+Sean Caffrey _(Lord Henry Palmerdale)_<br>
+Alan Rowe _(Skinsale)_<br>
+Rio Fanning _(Harker)_<br>
+Annette Woollett _(Adelaide Lesage)_<br>
+Colin Douglas _(voice of the Rutan)_ *<br>
 
-Colin Douglas _(Reuben)_
+UK 1977<br>
+4 x 25 mins<br>
 
-John Abbott _(Vince Hawkins)_
+*Uncredited<br>
 
-Ralph Watson _(Ben)_
+Courtesy of BBC Studios<br>
 
-Sean Caffrey _(Lord Henry Palmerdale)_
-
-Alan Rowe _(Skinsale)_
-
-Rio Fanning _(Harker)_
-
-Annette Woollett _(Adelaide Lesage)_
-
-Colin Douglas _(voice of the Rutan)_ *
-
-UK 1977
-
-4 x 25 mins
-
-* Uncredited
-
-Courtesy of BBC Studios
-
-_Doctor Who: The Collection – Season 15_ will soon be released on Blu-ray by BBC Studios
+_Doctor Who: The Collection – Season 15_ will soon be released on Blu-ray by BBC Studios<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjkzNTM3Nl19
+eyJoaXN0b3J5IjpbMTk2MTg4NDMxMF19
 -->
