@@ -17,56 +17,29 @@ To Poliakoff, it seems to be a matter of life and death, even if the issue is le
 As in _Perfect Strangers_ (BBC, 2001), and his film _Hidden City_ (1987), history is omnipresent in the form of photographs, stories and memories; photographs are often flashed before us with a hypnotic intensity. The photo archive represents the idiosyncratic, highly personal nature of history and the stories we are told from the photos are ones which impinge heavily on the characters while skirting the major events of the past. Poliakoff is fascinated with the idea of history being a series of stolen moments, captured forever on film, and the idea that the archive should be unceremoniously destroyed or divided becomes unbearable, just like the notion of the family being broken up. Marilyn’s only act of real treachery is forsaking Oswald, a betrayal which becomes central to the second half of the story, and it shocks us because the staff of the archive are the family of the story, one into which Anderson is gradually assimilated. The staff and the photo archive are like an extended family with their own histories which, as Oswald’s minute knowledge of the contents demonstrates, are inextricably linked. This theme of extended families being broken apart is central to both _Perfect Strangers_ and _The Lost Prince_ (BBC, 2003).  
 **Mike Sutton, BFI Screenonline, screenonline.org.uk**  
 <br>
-<![endif]-->
 
-**SHOOTING THE PAST**
-
-_Director:_ Stephen Poliakoff
-
-_Production Company:_ TalkBack
-
-_Commissioning Company:_ BBC
-
-_Executive Producers:_ Simon Curtis,
-
-Peter Fincham
-
-_Producer:_ John Chapman
-
-_Line Producer:_ Helen Flint
-
-_Head of Production:_ Sally Debonnaire
-
-_BBC Production Executive:_ Jane Hawley
-
-_Production Accountant:_ Penny Anderson
-
-_Production Co-ordinator:_ Lia Stephenson
-
-_Location Manager:_ Dee Gregson
-
-_Picture Researcher:_ Henry Wilks
-
-_First Assistant Director:_ Nick Heckstall-Smith
-
-_Second Assistant Directors:_ George Walker,
-
-Ben Howarth
-
-_Third Assistant Director:_ Rebecca Sutton
-
-_Continuity:_ Mary Haddow
-
-_Casting Director:_ Andy Pryor
-
-_Script:_ Stephen Poliakoff
-
-_Photography:_ Bruno de Keyser, Ernest Vincze
-
-_Focus Puller:_ Charlie Palmer
-
-_Clapper Loaders:_ Rod Marley, Jim Jolliffe
-
+**SHOOTING THE PAST**  
+_Director:_ Stephen Poliakoff  
+_Production Company:_ TalkBack  
+_Commissioning Company:_ BBC  
+_Executive Producers:_ Simon Curtis, Peter Fincham  
+_Producer:_ John Chapman  
+_Line Producer:_ Helen Flint  
+_Head of Production:_ Sally Debonnaire  
+_BBC Production Executive:_ Jane Hawley  
+_Production Accountant:_ Penny Anderson  
+_Production Co-ordinator:_ Lia Stephenson  
+_Location Manager:_ Dee Gregson  
+_Picture Researcher:_ Henry Wilks  
+_First Assistant Director:_ Nick Heckstall-Smith  
+_Second Assistant Directors:_ George Walker, Ben Howarth  
+_Third Assistant Director:_ Rebecca Sutton  
+_Continuity:_ Mary Haddow  
+_Casting Director:_ Andy Pryor  
+_Script:_ Stephen Poliakoff  
+_Photography:_ Bruno de Keyser, Ernest Vincze  
+_Focus Puller:_ Charlie Palmer  
+_Clapper Loaders:_ Rod Marley, Jim Jolliffe  
 _Grip:_ Jim Crowther  
 _Gaffer:_ Laurie Shane  
 _Best Boy:_ Colin Powton  
@@ -107,5 +80,5 @@ Episode 1+2 122 mins
 Interval 45 mins, panel discussion 60 mins  
 Episode 3 60 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzExOTc3NV19
+eyJoaXN0b3J5IjpbMTYxMjkyNTc1OF19
 -->
