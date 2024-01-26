@@ -6,7 +6,7 @@ date: 2024-01-27
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA PREVIEW']
 tags:  [Documentary]
-metadata: 'USA-UK-Poland 2023, 105 mins<br> Director: Jonathan Glazer'
+metadata: 'USA-UK 2023, 94 mins<br> Director: Jonathan Glazer'
 pdf: '2024-02-02-zone-of-interest.pdf'
 ---
 
@@ -33,6 +33,107 @@ But she pushes on, secures a book deal, launches the podcast Maintenance Phase, 
 Pam observes her daughter’s ascent with pride, but tells Finlay that memories are starting to bubble up. She shares her regret at bringing Gordon to Weight Watchers as a teen, and gets to the core of what TikTok loves to call a ‘generational curse’: ‘You do the best you can with what you’ve got at the moment,’ she says. Which begs the question – what will we do now, with what we’ve got?  
 **Katie McCabe, _Sight and Sound_, March 2024**  
 <br>
+
+**YOUR FAT FRIEND**  
+_Director_: Jeanie Finlay  
+_©_: Small Car Big Road Ltd  
+_a_ Glimmer Films _production_  
+_Made with the support of_: Broadway Foreshadow Fund, Field of Vision, BFI Doc Society Fund  
+_Presented by_: Field of Vision, BFI Doc Society Fund  
+_Executive Producers_: Charlotte Cook, Sandra Whipham  
+_Producer_: Jeanie Finlay  
+_Accountant_: Norman Thomas  
+_Consulting Producer_: Suzanne Alizart  
+_With Writing by_: Aubrey Gordon  
+_Director of Photography_: Stewart Skylar Copeland  
+_Cinematography_: Jeanie Finlay, Michael Palmieri, Donal Mosher, Lindsay Trapnell, Aubrey Gordon, Mark Bushnell  
+_Editor_: Alice Powell  
+_Colourist_: Vicki Matich  
+_Composer_: Tara Crème  
+_Music Supervisor_: Graham Langley  
+_Re-recording Mixer_: Pip Norton  
+_Sound Editor_: Anna Sulley  
+
+**With**  
+Aubrey Gordon  
+
+USA-UK 2023  
+94 mins  
+
+Digital
+
+Courtesy of Glimmer Films and Tull Stories
+
+Woman with a Movie Camera is generously supported by Jane Stanton.
+<br>
+<![endif]-->
+
+**IN PERSON & PREVIEWS**
+
+**Shooting the Past 25th Anniversary** + Q&A with writer-director Stephen Poliakoff and actors Lindsay Duncan and Timothy Spall
+
+Sun 28 Jan 15:00
+
+**Jonathan Glazer in Conversation**
+
+Thu 1 Feb 18:30
+
+**Peep Show – 20th Anniversary + Q&A with actors David Mitchell, Robert Webb and writers Sam Bain, Jesse Armstrong**
+
+Thu 1 Feb 20:30
+
+**Preview: American Fiction + Q&A with director Cord Jefferson and actor Sterling K. Brown**
+
+Sat 3 Feb 20:50
+
+**Doctor Who Preview: Darkness & Light – The Life of Graham Williams + intro by director Chris Chapman**
+
+Sun 4 Feb 09:30
+
+**Doctor Who: Horror of Fang Rock + Q&A with Louise Jameson**
+
+Sun 4 Feb 12:00
+
+**TV Preview: The Way + Q&A with Michael Sheen, James Graham, Adam Curtis and cast members Steffan Rhodri, Mali Harries, Callum Scott Howells, Maja Laskowska**
+
+Mon 5 Feb 18:15
+
+**The Scent of Green Papaya** Mùi dˉu dˉu xanh
+
+Thu 8 Feb 18:20; Wed 28 Feb 20:40
+
+**Preview: The Iron Claw**
+
+Thu 8 Feb 20:35
+
+**Paolo Taviani in Conversation**
+
+Sun 11 Feb 18:00
+
+**Mark Kermode Live in 3D at the BFI**
+
+Mon 12 Feb 18:30
+
+**Preview: Getting It Back: The Story of Cymande + Q&A with Tim Mackenzie-Smith and Cymande, plus afterparty**
+
+Tue 13 Feb 18:30
+
+**Christopher Nolan in Conversation**
+
+Thu 15 Feb 18:30
+
+**Tenet + intro by director Christopher Nolan**
+
+Thu 15 Feb 20:15 BFI IMAX
+
+**Preview: Evil Does Not Exist** Aku wa sonzai shinai
+
+Sat 17 Feb 18:00
+
+**TV Preview: This Town + Q&A with Steven Knight, cast members Michelle Dockery, Jordan Bolger, Ben Rose and Levi Brown, director Paul Whittington and executive producer Karen Wilson**
+
+Mon 26 Feb 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTcxOTIzLDI0NTMxMjI3M119
+eyJoaXN0b3J5IjpbMTkwNjIzNTI4NCwtMzcxNzE5MjMsMjQ1Mz
+EyMjczXX0=
 -->
