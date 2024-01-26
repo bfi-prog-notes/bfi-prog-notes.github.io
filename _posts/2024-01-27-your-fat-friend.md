@@ -1,15 +1,14 @@
 ---
 layout: post
-title: The Zone of Interest
+title: Your Fat Friend
 published: true
-date: 2024-02-02
+date: 2024-01-27
 readtime: true
-categories: ['NEW RELEASES']
-tags:  [Drama]
+categories: ['WOMAN WITH A MOVIE CAMERA PREVIEW']
+tags:  [Documentary]
 metadata: 'USA-UK-Poland 2023, 105 mins<br> Director: Jonathan Glazer'
 pdf: '2024-02-02-zone-of-interest.pdf'
 ---
-
 
 _+ Q&A with director Jeanie Finlay and Aubrey Gordon_
 
@@ -31,8 +30,9 @@ Serene moments of Gordon floating, star-fished, in a lake break up the less intr
 
 But she pushes on, secures a book deal, launches the podcast Maintenance Phase, which brings her activism to an even wider audience (its episode on the junk-science behind BMI, which we see being recorded here, is worth a listen).
 
-Pam observes her daughter’s ascent with pride, but tells Finlay that memories are starting to bubble up. She shares her regret at bringing Gordon to Weight Watchers as a teen, and gets to the core of what TikTok loves to call a ‘generational curse’: ‘You do the best you can with what you’ve got at the moment,’ she says. Which begs the question – what will we do now, with what we’ve got?
-Katie McCabe, _Sight and Sound_, March 2024
+Pam observes her daughter’s ascent with pride, but tells Finlay that memories are starting to bubble up. She shares her regret at bringing Gordon to Weight Watchers as a teen, and gets to the core of what TikTok loves to call a ‘generational curse’: ‘You do the best you can with what you’ve got at the moment,’ she says. Which begs the question – what will we do now, with what we’ve got?  
+**Katie McCabe, _Sight and Sound_, March 2024**  
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDU3MjkyMjEsMjQ1MzEyMjczXX0=
+eyJoaXN0b3J5IjpbLTM3MTcxOTIzLDI0NTMxMjI3M119
 -->
