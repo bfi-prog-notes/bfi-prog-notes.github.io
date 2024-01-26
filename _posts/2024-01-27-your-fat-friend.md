@@ -6,15 +6,14 @@ date: 2024-01-27
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA PREVIEW']
 tags:  [Documentary]
-metadata: 'USA-UK 2023, 94 mins<br> Director: Jonathan Glazer'
-pdf: '2024-02-02-zone-of-interest.pdf'
+metadata: 'USA-UK 2023, 94 mins<br> Director: Jeanie Finlay'
+pdf: '2024-01-27-your-fat-friend.pdf'
 ---
 
 _+ Q&A with director Jeanie Finlay and Aubrey Gordon_
 
-Award-winning documentary filmmaker Jeanie Finlay (_Seahorse_, _Sound It Out_) follows the journey of writer and activist Aubrey Gordon, who went from being an anonymous blogger, sharing her honest experiences of navigating life as a fat person, to a _New York Times_-bestselling author and podcast host. Finlay presents a wonderful and frank portrait of the inspiring and very funny Gordon, but also an essential, empathetic call for us to rethink our relationships and attitudes to the word ‘fat’, and our own bodies.
-
-bfi.org.uk
+Award-winning documentary filmmaker Jeanie Finlay (_Seahorse_, _Sound It Out_) follows the journey of writer and activist Aubrey Gordon, who went from being an anonymous blogger, sharing her honest experiences of navigating life as a fat person, to a _New York Times_-bestselling author and podcast host. Finlay presents a wonderful and frank portrait of the inspiring and very funny Gordon, but also an essential, empathetic call for us to rethink our relationships and attitudes to the word ‘fat’, and our own bodies.  
+**bfi.org.uk**  
 
 A little known 1960s girl group called The Fabulettes once sang that if you want to lose weight, all you gotta do is ‘Fall in love with a man that you can’t trust / One who won’t treat you right/ And while he’s out messin’ ’round / Worry ’bout him every night.’ Those are real lyrics, from a real song called ‘Try the Worryin’ Way’ that plays from the phone of documentary subject Aubrey Gordon, the Portland, Oregon, author and pod-caster who found a global audience writing about anti-fat bias under the pseudonym YrFatFriend. Gordon, as we’ll see throughout Jeanie Finlay’s documentary, has an endearing way of skewering diet-culture absurdities while revealing the harm they cause. The Fabulettes’ lyrics are no more ridiculous than the messaging we see in Gordon’s collection of retro diet books, which Finlay flashes on the screen in a montage reminiscent of _Listen Up Philip_ (2014). One memorable 1980s cover – Help Lord... The Devil Wants Me Fat!, featuring a cherry-topped ice-cream sundae photographed as if it were under police interrogation – inspired the poster for this film.
 
@@ -59,39 +58,26 @@ Aubrey Gordon
 
 USA-UK 2023  
 94 mins  
-
-Digital
+Digital  
 
 Courtesy of Glimmer Films and Tull Stories
 
 Woman with a Movie Camera is generously supported by Jane Stanton.
 <br>
-<![endif]-->
 
-**IN PERSON & PREVIEWS**
+**IN PERSON & PREVIEWS**  
 
-**Shooting the Past 25th Anniversary** + Q&A with writer-director Stephen Poliakoff and actors Lindsay Duncan and Timothy Spall
-
-Sun 28 Jan 15:00
-
-**Jonathan Glazer in Conversation**
-
-Thu 1 Feb 18:30
-
-**Peep Show – 20th Anniversary + Q&A with actors David Mitchell, Robert Webb and writers Sam Bain, Jesse Armstrong**
-
-Thu 1 Feb 20:30
-
-**Preview: American Fiction + Q&A with director Cord Jefferson and actor Sterling K. Brown**
-
-Sat 3 Feb 20:50
-
-**Doctor Who Preview: Darkness & Light – The Life of Graham Williams + intro by director Chris Chapman**
-
-Sun 4 Feb 09:30
-
-**Doctor Who: Horror of Fang Rock + Q&A with Louise Jameson**
-
+**Shooting the Past 25th Anniversary** + Q&A with writer-director Stephen Poliakoff and actors Lindsay Duncan and Timothy Spall  
+Sun 28 Jan 15:00  
+**Jonathan Glazer in Conversation**  
+Thu 1 Feb 18:30  
+**Peep Show – 20th Anniversary + Q&A with actors David Mitchell, Robert Webb and writers Sam Bain, Jesse Armstrong**  
+Thu 1 Feb 20:30  
+**Preview: American Fiction + Q&A with director Cord Jefferson and actor Sterling K. Brown**  
+Sat 3 Feb 20:50  
+**Doctor Who Preview: Darkness & Light – The Life of Graham Williams + intro by director Chris Chapman**  
+Sun 4 Feb 09:30  
+**Doctor Who: Horror of Fang Rock + Q&A with Louise Jameson**  
 Sun 4 Feb 12:00
 
 **TV Preview: The Way + Q&A with Michael Sheen, James Graham, Adam Curtis and cast members Steffan Rhodri, Mali Harries, Callum Scott Howells, Maja Laskowska**
@@ -134,6 +120,6 @@ Sat 17 Feb 18:00
 
 Mon 26 Feb 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjIzNTI4NCwtMzcxNzE5MjMsMjQ1Mz
-EyMjczXX0=
+eyJoaXN0b3J5IjpbNTg4MzIxNjM1LC0zNzE3MTkyMywyNDUzMT
+IyNzNdfQ==
 -->
