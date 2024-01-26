@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: Shooting the Past<br>25th Anniversary
+published: true
+date: 2024-01-28
+readtime: true
+categories: ['EVENT']
+tags:  [Documentary]
+metadata: 'USA-UK 2023, 94 mins<br> Director: Jeanie Finlay'
+pdf: '2024-01-27-your-fat-friend.pdf'
+---
 
 _+ Q&A with writer-director Stephen Poliakoff and actors Lindsay Duncan and Timothy Spall_
 
@@ -80,5 +87,5 @@ Episode 1+2 122 mins
 Interval 45 mins, panel discussion 60 mins  
 Episode 3 60 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjkyNTc1OF19
+eyJoaXN0b3J5IjpbLTEzMDI4NTU1MzBdfQ==
 -->
