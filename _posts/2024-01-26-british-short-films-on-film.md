@@ -55,6 +55,9 @@ Director Menhaj Huda, UK 1999, 11 mins
 Director Andrea Arnold, UK 2001, 10 mins
 
 Please note that the 35mm print of the short film _Dog_ screening in this programme has French subtitles.  
+
+Total runtime 96 mins
+
 <br>
 
 **LONDON SHORT FILM FESTIVAL**  
@@ -93,5 +96,5 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc1MjQ4NTJdfQ==
+eyJoaXN0b3J5IjpbMTg0NDQxMTQxOCwtMTQ1NzUyNDg1Ml19
 -->
