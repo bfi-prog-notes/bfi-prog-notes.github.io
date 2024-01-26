@@ -17,6 +17,95 @@ To Poliakoff, it seems to be a matter of life and death, even if the issue is le
 As in _Perfect Strangers_ (BBC, 2001), and his film _Hidden City_ (1987), history is omnipresent in the form of photographs, stories and memories; photographs are often flashed before us with a hypnotic intensity. The photo archive represents the idiosyncratic, highly personal nature of history and the stories we are told from the photos are ones which impinge heavily on the characters while skirting the major events of the past. Poliakoff is fascinated with the idea of history being a series of stolen moments, captured forever on film, and the idea that the archive should be unceremoniously destroyed or divided becomes unbearable, just like the notion of the family being broken up. Marilyn’s only act of real treachery is forsaking Oswald, a betrayal which becomes central to the second half of the story, and it shocks us because the staff of the archive are the family of the story, one into which Anderson is gradually assimilated. The staff and the photo archive are like an extended family with their own histories which, as Oswald’s minute knowledge of the contents demonstrates, are inextricably linked. This theme of extended families being broken apart is central to both _Perfect Strangers_ and _The Lost Prince_ (BBC, 2003).  
 **Mike Sutton, BFI Screenonline, screenonline.org.uk**  
 <br>
+<![endif]-->
+
+**SHOOTING THE PAST**
+
+_Director:_ Stephen Poliakoff
+
+_Production Company:_ TalkBack
+
+_Commissioning Company:_ BBC
+
+_Executive Producers:_ Simon Curtis,
+
+Peter Fincham
+
+_Producer:_ John Chapman
+
+_Line Producer:_ Helen Flint
+
+_Head of Production:_ Sally Debonnaire
+
+_BBC Production Executive:_ Jane Hawley
+
+_Production Accountant:_ Penny Anderson
+
+_Production Co-ordinator:_ Lia Stephenson
+
+_Location Manager:_ Dee Gregson
+
+_Picture Researcher:_ Henry Wilks
+
+_First Assistant Director:_ Nick Heckstall-Smith
+
+_Second Assistant Directors:_ George Walker,
+
+Ben Howarth
+
+_Third Assistant Director:_ Rebecca Sutton
+
+_Continuity:_ Mary Haddow
+
+_Casting Director:_ Andy Pryor
+
+_Script:_ Stephen Poliakoff
+
+_Photography:_ Bruno de Keyser, Ernest Vincze
+
+_Focus Puller:_ Charlie Palmer
+
+_Clapper Loaders:_ Rod Marley, Jim Jolliffe
+
+_Grip:_ Jim Crowther  
+_Gaffer:_ Laurie Shane  
+_Best Boy:_ Colin Powton  
+_Electricians:_ Alan Grayley, Mark Hutton  
+_Editor:_ Paul Tothill  
+_Assistant Editor:_ Russell Beeden  
+_Production Designer:_ John-Paul Kelly  
+_Art Director:_ Peter Robinson  
+_Standby Art Director:_ Emma MacDevitt  
+_Production Buyer:_ Sara Wan  
+_Prop Master:_ David Horrill  
+_Costume Designer:_ Susannah Buxton  
+_Costume Supervisor:_ Franca Knight  
+_Costume Assistant:_ Liza Bracey  
+_Make-up Designer:_ Penny Smith  
+_Make-up Artist:_ Nabila Al Own  
+_Composer:_ Adrian Johnston  
+_Sound Recordist:_ Richard Manton  
+_Dubbing Editor:_ Catherine Hodgson  
+_Dubbing Mixer:_ Paul Hamblin  
+
+**Cast**  
+Lindsay Duncan _(Marylin Truman)_  
+Timothy Spall _(Oswald Bates)_  
+Liam Cunningham _(Christopher Anderson)_  
+Billie Whitelaw _(Veronica)_  
+Emilia Fox _(Spig)_  
+Arj Barker _(Garnett)_  
+Blake Ritson _(Nick)_  
+Sheila Dunn _(Molly)_  
+Jean Channon, Jennifer House _(dinner ladies)_  
+Andy Serkis _(Styeman)_  
+Geoffrey Beevers _(doctor)_  
+Leslie McGuire _(nurse)_  
+
+UK tx BBC2 10/17/24.1.1999
+Episode 1+2 122 mins  
+Interval 45 mins, panel discussion 60 mins  
+Episode 3 60 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk3OTQ1NjNdfQ==
+eyJoaXN0b3J5IjpbLTgwNzExOTc3NV19
 -->
