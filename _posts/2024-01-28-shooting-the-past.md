@@ -5,9 +5,9 @@ published: true
 date: 2024-01-28
 readtime: true
 categories: ['EVENT']
-tags:  [Documentary]
-metadata: 'USA-UK 2023, 94 mins<br> Director: Jeanie Finlay'
-pdf: '2024-01-27-your-fat-friend.pdf'
+tags:  [Drama]
+metadata: 'UK 1999, 94 mins<br> Director: Stephen Poliakoff'
+pdf: '2024-01-28-shooting-the-past.pdf'
 ---
 
 _+ Q&A with writer-director Stephen Poliakoff and actors Lindsay Duncan and Timothy Spall_
@@ -87,5 +87,5 @@ Episode 1+2 122 mins
 Interval 45 mins, panel discussion 60 mins  
 Episode 3 60 mins
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI4NTU1MzBdfQ==
+eyJoaXN0b3J5IjpbMTU1MzMyNzM2OV19
 -->
