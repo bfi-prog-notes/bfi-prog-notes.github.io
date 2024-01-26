@@ -78,48 +78,53 @@ Sat 3 Feb 20:50
 **Doctor Who Preview: Darkness & Light – The Life of Graham Williams + intro by director Chris Chapman**  
 Sun 4 Feb 09:30  
 **Doctor Who: Horror of Fang Rock + Q&A with Louise Jameson**  
-Sun 4 Feb 12:00
+Sun 4 Feb 12:00  
+**TV Preview: The Way + Q&A with Michael Sheen, James Graham, Adam Curtis and cast members Steffan Rhodri, Mali Harries, Callum Scott Howells, Maja Laskowska**  
+Mon 5 Feb 18:15  
+**The Scent of Green Papaya** Mùi dˉu dˉu xanh  
+Thu 8 Feb 18:20; Wed 28 Feb 20:40  
+**Preview: The Iron Claw**  
+Thu 8 Feb 20:35  
+**Paolo Taviani in Conversation**  
+Sun 11 Feb 18:00  
+**Mark Kermode Live in 3D at the BFI**  
+Mon 12 Feb 18:30  
+**Preview: Getting It Back: The Story of Cymande + Q&A with Tim Mackenzie-Smith and Cymande, plus afterparty**  
+Tue 13 Feb 18:30  
+**Christopher Nolan in Conversation**  
+Thu 15 Feb 18:30  
+**Tenet + intro by director Christopher Nolan**  
+Thu 15 Feb 20:15 BFI IMAX  
+**Preview: Evil Does Not Exist** Aku wa sonzai shinai  
+Sat 17 Feb 18:00  
+**TV Preview: This Town + Q&A with Steven Knight, cast members Michelle Dockery, Jordan Bolger, Ben Rose and Levi Brown, director Paul Whittington and executive producer Karen Wilson**  
+Mon 26 Feb 18:15  
+<br>
 
-**TV Preview: The Way + Q&A with Michael Sheen, James Graham, Adam Curtis and cast members Steffan Rhodri, Mali Harries, Callum Scott Howells, Maja Laskowska**
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
 
-Mon 5 Feb 18:15
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
-**The Scent of Green Papaya** Mùi dˉu dˉu xanh
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
-Thu 8 Feb 18:20; Wed 28 Feb 20:40
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
-**Preview: The Iron Claw**
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
 
-Thu 8 Feb 20:35
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 
-**Paolo Taviani in Conversation**
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-Sun 11 Feb 18:00
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
-**Mark Kermode Live in 3D at the BFI**
-
-Mon 12 Feb 18:30
-
-**Preview: Getting It Back: The Story of Cymande + Q&A with Tim Mackenzie-Smith and Cymande, plus afterparty**
-
-Tue 13 Feb 18:30
-
-**Christopher Nolan in Conversation**
-
-Thu 15 Feb 18:30
-
-**Tenet + intro by director Christopher Nolan**
-
-Thu 15 Feb 20:15 BFI IMAX
-
-**Preview: Evil Does Not Exist** Aku wa sonzai shinai
-
-Sat 17 Feb 18:00
-
-**TV Preview: This Town + Q&A with Steven Knight, cast members Michelle Dockery, Jordan Bolger, Ben Rose and Levi Brown, director Paul Whittington and executive producer Karen Wilson**
-
-Mon 26 Feb 18:15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4MzIxNjM1LC0zNzE3MTkyMywyNDUzMT
-IyNzNdfQ==
+eyJoaXN0b3J5IjpbLTE1NTI4NDM1NjgsLTM3MTcxOTIzLDI0NT
+MxMjI3M119
 -->
