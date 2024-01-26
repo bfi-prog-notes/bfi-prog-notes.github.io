@@ -1,7 +1,15 @@
+---
+layout: post
+title: The Zone of Interest
+published: true
+date: 2024-02-02
+readtime: true
+categories: ['NEW RELEASES']
+tags:  [Drama]
+metadata: 'USA-UK-Poland 2023, 105 mins<br> Director: Jonathan Glazer'
+pdf: '2024-02-02-zone-of-interest.pdf'
+---
 
-
-
-<![endif]-->
 
 _+ Q&A with director Jeanie Finlay and Aubrey Gordon_
 
@@ -26,5 +34,5 @@ But she pushes on, secures a book deal, launches the podcast Maintenance Phase, 
 Pam observes her daughter’s ascent with pride, but tells Finlay that memories are starting to bubble up. She shares her regret at bringing Gordon to Weight Watchers as a teen, and gets to the core of what TikTok loves to call a ‘generational curse’: ‘You do the best you can with what you’ve got at the moment,’ she says. Which begs the question – what will we do now, with what we’ve got?
 Katie McCabe, _Sight and Sound_, March 2024
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1MzEyMjczXX0=
+eyJoaXN0b3J5IjpbLTE5NDU3MjkyMjEsMjQ1MzEyMjczXX0=
 -->
