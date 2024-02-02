@@ -1,7 +1,14 @@
-
-
-
-<![endif]-->
+---
+layout: post
+title: A Man for Bu
+published: true
+date: 2024-02-02
+readtime: true
+categories: ['NEW RELEASES']
+tags:  [Drama]
+metadata: 'USA-UK-Poland 2023, 105 mins<br> Director: Jonathan Glazer'
+pdf: '2024-02-02-zone-of-interest.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -53,59 +60,38 @@ Vittorio Duse _(Bastiano)_
 
 Italy 1962  
 90 mins  
-Digital
+Digital  
 
 **MAGICAL REALISM:**
-
-**THE FILM FABLES OF THE TAVIANI BROTHERS**
-
-**Elective Affinities** Le affinità elettive
-
-Thu 1 Feb 20:35 (+ intro by season curator Adrian Wootton); Wed 21 Feb 18:30
-
-**A Man for Burning (aka This Man is For Burning)** Un uomo da bruciare
-
-Fri 2 Feb 18:10; Sat 10 Feb 20:40
-
-**St. Michael Had a Rooster** San Michele aveva un gallo
-
-Sun 4 Feb 13:30; Mon 12 Feb 20:40
-
-**Allonsanfan** Allonsanfàn
-
-Wed 7 Feb 18:20; Sat 24 Feb 20:25
-
-**Kaos**
-
-Sat 10 Feb 14:40; Sun 25 Feb 14:30
-
-**Padre Padrone**
-
-Sun 11 Feb 15:20; Thu 22 Feb 20:45
-
-**Wondrous Boccaccio** Meraviglioso Boccaccio
-
-Mon 19 Feb 18:45; Mon 26 Feb 20:40
-
-**You Laugh** Tu ridi
-
-Fri 23 Feb 18:10; Wed 28 Feb 20:50
-
-**Caesar Must Die** Cesare deve morire
-
-Sat 24 Feb 12:00; Thu 29 Feb 20:50
-
-**With thanks to**
-
-Carla Cattani, Livia Azzolini, Monica Moscato and Erika Allegrucci at Cinecittà.
-
-Presented in collaboration with the Italian Embassy in London and the Italian Cultural Institute. Co-produced by Cinecittà, Rome.
-
+**THE FILM FABLES OF THE TAVIANI BROTHERS**  
+**Elective Affinities** Le affinità elettive  
+Thu 1 Feb 20:35 (+ intro by season curator Adrian Wootton); Wed 21 Feb 18:30  
+**A Man for Burning (aka This Man is For Burning)** Un uomo da bruciare  
+Fri 2 Feb 18:10; Sat 10 Feb 20:40  
+**St. Michael Had a Rooster** San Michele aveva un gallo  
+Sun 4 Feb 13:30; Mon 12 Feb 20:40  
+**Allonsanfan** Allonsanfàn  
+Wed 7 Feb 18:20; Sat 24 Feb 20:25  
+**Kaos**  
+Sat 10 Feb 14:40; Sun 25 Feb 14:30  
+**Padre Padrone**  
+Sun 11 Feb 15:20; Thu 22 Feb 20:45  
+**Wondrous Boccaccio** Meraviglioso Boccaccio  
+Mon 19 Feb 18:45; Mon 26 Feb 20:40  
+**You Laugh** Tu ridi  
+Fri 23 Feb 18:10; Wed 28 Feb 20:50  
+**Caesar Must Die** Cesare deve morire  
+Sat 24 Feb 12:00; Thu 29 Feb 20:50  
+<BR>
+**With thanks to**  
+Carla Cattani, Livia Azzolini, Monica Moscato and Erika Allegrucci at Cinecittà.  
+Presented in collaboration with the Italian Embassy in London and the Italian Cultural Institute. Co-produced by Cinecittà, Rome.  
+<br>
 **Co-produced by**
-
 Cinecittà, Rome
 
-The monograph _Paolo & Vittorio Taviani_, published by Cinecittà, and featuring an article by season curator Adrian Wootton, will be available during the season.
+
+The monograph _Paolo & Vittorio Taviani_, published by Cinecittà, and featuring an article by season curator Adrian Wootton, will be available during the season.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM3ODA3NTZdfQ==
+eyJoaXN0b3J5IjpbNzA4Njk4NDI3XX0=
 -->
