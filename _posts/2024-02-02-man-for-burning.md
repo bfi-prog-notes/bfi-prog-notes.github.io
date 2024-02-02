@@ -1,13 +1,13 @@
 ---
 layout: post
-title: A Man for Bu
+title: A Man for Burning
 published: true
 date: 2024-02-02
 readtime: true
-categories: ['NEW RELEASES']
+categories: ['MAGICAL REALISM<br> THE FILM FABLES OF THE TAVIANI BROTHERS']
 tags:  [Drama]
-metadata: 'USA-UK-Poland 2023, 105 mins<br> Director: Jonathan Glazer'
-pdf: '2024-02-02-zone-of-interest.pdf'
+metadata: 'Italy 1962, 90 mins<br> Directors: <Paolo Taviani, Vittorio Taviani, Valentino Orsini'
+pdf: '2024-02-02-a-man-for-burning.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -93,5 +93,5 @@ Cinecittà, Rome
 
 The monograph _Paolo & Vittorio Taviani_, published by Cinecittà, and featuring an article by season curator Adrian Wootton, will be available during the season.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4Njk4NDI3XX0=
+eyJoaXN0b3J5IjpbMzE1MzcyMjYyXX0=
 -->
