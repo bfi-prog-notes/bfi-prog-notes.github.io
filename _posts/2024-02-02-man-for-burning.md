@@ -1,0 +1,138 @@
+
+
+
+<![endif]-->
+
+**SPOILER WARNING** The following notes give away some of the plot.
+
+Following a series of acclaimed shorts and a documentary, the Taviani Brothers’ narrative feature debut was co-directed with early collaborator Valentino Orsini. Set in rural Sicily, this powerful drama depicts the real-life story of a union organiser who attempts to lead peasant farmers in revolt against the local Mafia. In its cinematic sweep and gritty authenticity, the film evinces the influence of Roberto Rossellini.
+
+bfi.org.uk
+
+The Taviani brothers’ interest in the cinema began in 1948, after seeing Rossellini’s _Paisà_. (In their 1968 film, _Under the Sign of Scorpio_, there is a direct quotation from _Paisà_ in the scene where a group of women, with hands bound, leap into the water like Rossellini’s partisans.) They met Valentino Orsini and began a collaboration with him, first as co-director and screenwriter and later as producer. They began to explore the road of neo-realism opened up by Rossellini, first in the form of slice-of-life, _viva voce_ theatre pieces (‘neo-realism with a pinch of Meyerhold and Brecht’), set in their birthplace, San Miniato, near Pisa.
+
+One of these early plays, _Delio_, the story of a bourgeois musicologist and art critic who attempts to break out of his class barriers, marrying a peasant’s daughter and joining the Communist party, was revived in 1975 as a radio play, _Ruffo ‘60_, and performed on Italian radio under the direction of the authors, who built it up ‘rather like the soundtrack of a film’. After the trauma of events in Hungary, Ruffo-Delio becomes estranged from wife, mother and party, in an unsuccessful and finally fatal effort to find a semblance of order in his own life. As such, he is the prototype of a long line of Taviani protagonists whose artistic and political aspirations are out of joint with the historical, political and material forces of their environment, with most notable resemblances to Fulvio, the high born revolutionary who betrays his comrades in _Allonsonfan_ (1973-74).
+
+After working in the 50s as assistants to various minor directors in Rome, also participating in an unrealised Rossellini project, and as screenwriters, notably on an unrealised film version of Italo Svevo’s novel _As a Man Grows Older_, the Taviani brothers directed a number of documentaries between 1955 and 1960. These culminated in _Italy Is Not a Poor Country_, made in collaboration with Joris Ivens. The brothers shot the final episode of the Ivens film in Sicily, where they had previously done research for a documentary about the famous Sicilian trade union leader Salvatore Carnevale, assassinated by the Mafia some years earlier. The Tavianis considered the Ivens film as more of a fiction work than a documentary, and decided to embark on their own fiction film, based on the life of Carnevale, _Un uomo da bruciare_ (_A Man for Burning_), with Gian Maria Volonté in his cinematic debut.
+
+They were quick to implement the theatrical lessons of Brecht – just as _Ruffo ‘60_ has a detached, impersonal and ironic narrative style, so the protagonist of _Un uomo da bruciare_ was treated in an ironic, often belittling mode, as an anti-hero, awkward, arrogant and messianic almost to the point of megalomania, in the context of a homage to ‘neo-realism, the Resistance, and the postwar peasants’ and workers’ movement’. Alienation, detachment, and also a self-conscious presentational theatricality: Salvatore, a ‘man with a cinema in his head’, envisages his own death in a series of flash-forwards, and orates to the peasants in verse from the stage of a theatre. Also, an epic, ‘choral’ use of long-shot and tracking shot to depict the peasants’ way of life and mode of work – their occupation of a farm under Salvatore’s guidance, their labour in the mines, and the final mass demonstration at Salvatore’s funeral.
+
+Sequences such as these move beyond the limits of neo-realism to a more expressionist visual examination of the relation of the peasants to the land. They follow the lead of _Paisà_, ‘a work which goes beyond the definition of neo-realism – it is not just a film about the Resistance, but also, because of the kind of framing it uses, and its long tracking shots, a film about the struggle between man and nature. It is probably this preference for long tracking shots that we have retained most.’ Along with this stylistic objectification there is a deeply rooted, sympathetic treatment of the land, and the peasants’ encounters with the Mafia, who are treated throughout in a de-mystified, unglamorised and unstylised way. In short, there is a strong sense of sympathetic involvement with their characters, which cuts across the distancing techniques they have adopted from Brecht.
+
+‘As far as Italian culture is concerned,’ they say, ‘Brecht represents a de-provincialisation, and to us in particular, a violent refusal of naturalism and even neo-realism…
+
+Alienation and detachment we go along with. But we’re also Neapolitans, which means we’re all for a totally expressive, expansive viscerality which is not exactly Brechtian... So we swing between moments of great detachment from the material we treat to other moments of considerable involvement.’
+
+The Tavianis take care to distinguish realism from naturalism, and already in _Un uomo da bruciare_ there are signs of this dialectical interplay between emotional realism and epic theatricality which is increasingly to characterise their work.  
+**Tony Mitchell, _Sight and Sound_, Summer 1979**  
+<br>
+
+
+**A aka This Man Is for Burning (Un uomo da bruciare)**
+
+_Directors_: Paolo Taviani, Vittorio Taviani,
+
+Valentino Orsini  
+_Production Companies_: Ager Cinematografica,
+
+Alfa Cinematografica, Sancro Film
+
+_Producers:_ Henryk Chroscicki, G. De Negri,
+
+Alfonso Sansone
+
+_Script Supervisor:_ Rosalia Raffio
+
+_Screenplay:_ Paolo Taviani, Vittorio Taviani,
+
+Valentino Orsini
+
+_Cinematographer:_ Antonio Secchi
+
+_Camera Operator:_ Luigi Kuveiller
+
+_Editor:_ Lionello Massobrio
+
+_Art Director:_ Piero Poletto
+
+_Costumes:_ Lina Nerli Taviani
+
+_Music:_ Gianfranco Intra
+
+_Sound Mixer:_ Giuseppe Mangione
+
+_Cast__:_  
+Gian Maria Volonté _(Salvatore Carnevale)_  
+Didi Perego _(Barbara)_  
+Spyros Focas _(Jachino)_
+
+Turi Ferro _(Don Vincenzo)_
+
+Marina Malfatti _(Wilma)_
+
+Lydia Alfonsi _(Francesca)_
+
+Marcella Rovena _(Francesca’s mother)_
+
+Vittorio Duse _(Bastiano)_
+
+Italy 1962
+
+90 mins
+
+Digital
+
+**MAGICAL REALISM:**
+
+**THE FILM FABLES OF THE TAVIANI BROTHERS**
+
+**Elective Affinities** Le affinità elettive
+
+Thu 1 Feb 20:35 (+ intro by season curator Adrian Wootton); Wed 21 Feb 18:30
+
+**A Man for Burning (aka This Man is For Burning)** Un uomo da bruciare
+
+Fri 2 Feb 18:10; Sat 10 Feb 20:40
+
+**St. Michael Had a Rooster** San Michele aveva un gallo
+
+Sun 4 Feb 13:30; Mon 12 Feb 20:40
+
+**Allonsanfan** Allonsanfàn
+
+Wed 7 Feb 18:20; Sat 24 Feb 20:25
+
+**Kaos**
+
+Sat 10 Feb 14:40; Sun 25 Feb 14:30
+
+**Padre Padrone**
+
+Sun 11 Feb 15:20; Thu 22 Feb 20:45
+
+**Wondrous Boccaccio** Meraviglioso Boccaccio
+
+Mon 19 Feb 18:45; Mon 26 Feb 20:40
+
+**You Laugh** Tu ridi
+
+Fri 23 Feb 18:10; Wed 28 Feb 20:50
+
+**Caesar Must Die** Cesare deve morire
+
+Sat 24 Feb 12:00; Thu 29 Feb 20:50
+
+**With thanks to**
+
+Carla Cattani, Livia Azzolini, Monica Moscato and Erika Allegrucci at Cinecittà.
+
+Presented in collaboration with the Italian Embassy in London and the Italian Cultural Institute. Co-produced by Cinecittà, Rome.
+
+**Co-produced by**
+
+Cinecittà, Rome
+
+The monograph _Paolo & Vittorio Taviani_, published by Cinecittà, and featuring an article by season curator Adrian Wootton, will be available during the season.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzA4OTIwNzQyXX0=
+-->
