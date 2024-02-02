@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Adaptation.
+published: true
+date: 2024-02-02
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags:  [Drama]
+metadata: 'USA-UK 2016, 123 mins<br> Director: Jeff Nichols'
+pdf: '2024-02-05-loving.pdf'
+---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -24,10 +33,8 @@ Throughout the torturous process, Kaufman remained steadfast in his commitment o
 Since, by its very nature, passion requires ‘stepping over the edge, moving away from what feels safe and taking some kind of risk,’ Kaufman reasoned, the idea of incorporating the emotional process of writing a screenplay into the script evolved. ‘It became a kind of metaphor for ideas feeding upon themselves and how they eventually tie together in the end,’ he says.  
 **Production notes**
 <br>
-<![endif]-->
 
-**Adaptation.**
-
+**ADAPTATION.**
 _Director_: Spike Jonze  
 ©: Columbia Pictures Industries Inc.  
 _Presented by_: Columbia Pictures Corporation  
@@ -49,9 +56,7 @@ _Script Supervisor_: Chiemi Karasawa
 _Casting_: Justine Baddeley, Kim Davis-Wagner  
 _Casting Associate_: Cate Engel  
 _Screenplay_: Charlie Kaufman, Donald Kaufman  
-_Based on the book_ The Orchid Thief _by_:
-
-Susan Orlean  
+_Based on the book_ The Orchid Thief _by_: Susan Orlean  
 _Director of Photography_: Lance Acord  
 _2nd Unit Director of Photography_: James Fealy  
 _Camera Operator_: Thomas H. Lohmann  
@@ -142,5 +147,5 @@ Digital 4K
 
 \* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4MjY3NTczXX0=
+eyJoaXN0b3J5IjpbMTQ1NzU4OTk2OV19
 -->
