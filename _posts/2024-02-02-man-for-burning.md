@@ -33,7 +33,7 @@ The Tavianis take care to distinguish realism from naturalism, and already in _U
 **Tony Mitchell, _Sight and Sound_, Summer 1979**  
 <br>
 
-**A MAN FOR BURNING AKA THIS MAN IS FOR BURNING (UN UOMO DA BRUCIARE)**  
+**A MAN FOR BURNING aka THIS MAN IS FOR BURNING (UN UOMO DA BRUCIARE)**  
 _Directors_: Paolo Taviani, Vittorio Taviani, Valentino Orsini    
 _Production Companies_: Ager Cinematografica,  Alfa Cinematografica, Sancro Film  
 _Producers:_ Henryk Chroscicki, G. De Negri, Alfonso Sansone  
@@ -86,7 +86,7 @@ Sat 24 Feb 12:00; Thu 29 Feb 20:50
 Carla Cattani, Livia Azzolini, Monica Moscato and Erika Allegrucci at Cinecittà.  
 Presented in collaboration with the Italian Embassy in London and the Italian Cultural Institute. Co-produced by Cinecittà, Rome.  
 <br>
-**Co-produced by**
+**Co-produced by**  
 Cinecittà, Rome
 
 
