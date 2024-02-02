@@ -33,7 +33,7 @@ Since, by its very nature, passion requires ‘stepping over the edge, moving aw
 **Production notes**
 <br>
 
-**ADAPTATION.**
+**ADAPTATION.**  
 _Director_: Spike Jonze  
 ©: Columbia Pictures Industries Inc.  
 _Presented by_: Columbia Pictures Corporation  
@@ -48,8 +48,7 @@ _Production Supervisors (2nd Unit)_: Maria K. Chavez, Shoshana Horowitz
 _Production Co-ordinator_: Rick C. Taplin  
 _Location Manager_: Rick Schuler  
 _2nd Unit Director_: Dan Bradley  
-_1st Assistant Directors_:  
-Thomas Patrick Smith, Brian O’Kelley, Gregory J. Smith, Nick Satriano  
+_1st Assistant Directors_: Thomas Patrick Smith, Brian O’Kelley, Gregory J. Smith, Nick Satriano  
 _2nd Assistant Directors (2nd Unit)_: Dave Riebel, Matthew D. Smith  
 _Script Supervisor_: Chiemi Karasawa  
 _Casting_: Justine Baddeley, Kim Davis-Wagner  
