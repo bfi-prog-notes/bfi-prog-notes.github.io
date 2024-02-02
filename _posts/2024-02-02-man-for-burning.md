@@ -12,9 +12,8 @@ pdf: '2024-02-02-a-man-for-burning.pdf'
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
-Following a series of acclaimed shorts and a documentary, the Taviani Brothers’ narrative feature debut was co-directed with early collaborator Valentino Orsini. Set in rural Sicily, this powerful drama depicts the real-life story of a union organiser who attempts to lead peasant farmers in revolt against the local Mafia. In its cinematic sweep and gritty authenticity, the film evinces the influence of Roberto Rossellini.
-
-bfi.org.uk
+Following a series of acclaimed shorts and a documentary, the Taviani Brothers’ narrative feature debut was co-directed with early collaborator Valentino Orsini. Set in rural Sicily, this powerful drama depicts the real-life story of a union organiser who attempts to lead peasant farmers in revolt against the local Mafia. In its cinematic sweep and gritty authenticity, the film evinces the influence of Roberto Rossellini.  
+**bfi.org.uk**  
 
 The Taviani brothers’ interest in the cinema began in 1948, after seeing Rossellini’s _Paisà_. (In their 1968 film, _Under the Sign of Scorpio_, there is a direct quotation from _Paisà_ in the scene where a group of women, with hands bound, leap into the water like Rossellini’s partisans.) They met Valentino Orsini and began a collaboration with him, first as co-director and screenwriter and later as producer. They began to explore the road of neo-realism opened up by Rossellini, first in the form of slice-of-life, _viva voce_ theatre pieces (‘neo-realism with a pinch of Meyerhold and Brecht’), set in their birthplace, San Miniato, near Pisa.
 
@@ -92,6 +91,31 @@ Cinecittà, Rome
 
 
 The monograph _Paolo & Vittorio Taviani_, published by Cinecittà, and featuring an article by season curator Adrian Wootton, will be available during the season.  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1MzcyMjYyXX0=
+eyJoaXN0b3J5IjpbLTU4NTM0NDkxN119
 -->
