@@ -27,59 +27,32 @@ The Tavianis take care to distinguish realism from naturalism, and already in _U
 **Tony Mitchell, _Sight and Sound_, Summer 1979**  
 <br>
 
+**A MAN FOR BURNING AKA THIS MAN IS FOR BURNING (UN UOMO DA BRUCIARE)**  
+_Directors_: Paolo Taviani, Vittorio Taviani, Valentino Orsini    
+_Production Companies_: Ager Cinematografica,  Alfa Cinematografica, Sancro Film  
+_Producers:_ Henryk Chroscicki, G. De Negri, Alfonso Sansone  
+_Script Supervisor:_ Rosalia Raffio  
+_Screenplay:_ Paolo Taviani, Vittorio Taviani, Valentino Orsini  
+_Cinematographer:_ Antonio Secchi  
+_Camera Operator:_ Luigi Kuveiller  
+_Editor:_ Lionello Massobrio  
+_Art Director:_ Piero Poletto  
+_Costumes:_ Lina Nerli Taviani  
+_Music:_ Gianfranco Intra  
+_Sound Mixer:_ Giuseppe Mangione  
 
-**A aka This Man Is for Burning (Un uomo da bruciare)**
-
-_Directors_: Paolo Taviani, Vittorio Taviani,
-
-Valentino Orsini  
-_Production Companies_: Ager Cinematografica,
-
-Alfa Cinematografica, Sancro Film
-
-_Producers:_ Henryk Chroscicki, G. De Negri,
-
-Alfonso Sansone
-
-_Script Supervisor:_ Rosalia Raffio
-
-_Screenplay:_ Paolo Taviani, Vittorio Taviani,
-
-Valentino Orsini
-
-_Cinematographer:_ Antonio Secchi
-
-_Camera Operator:_ Luigi Kuveiller
-
-_Editor:_ Lionello Massobrio
-
-_Art Director:_ Piero Poletto
-
-_Costumes:_ Lina Nerli Taviani
-
-_Music:_ Gianfranco Intra
-
-_Sound Mixer:_ Giuseppe Mangione
-
-_Cast__:_  
+**Cast**   
 Gian Maria Volonté _(Salvatore Carnevale)_  
 Didi Perego _(Barbara)_  
-Spyros Focas _(Jachino)_
+Spyros Focas _(Jachino)_  
+Turi Ferro _(Don Vincenzo)_  
+Marina Malfatti _(Wilma)_  
+Lydia Alfonsi _(Francesca)_  
+Marcella Rovena _(Francesca’s mother)_  
+Vittorio Duse _(Bastiano)_  
 
-Turi Ferro _(Don Vincenzo)_
-
-Marina Malfatti _(Wilma)_
-
-Lydia Alfonsi _(Francesca)_
-
-Marcella Rovena _(Francesca’s mother)_
-
-Vittorio Duse _(Bastiano)_
-
-Italy 1962
-
-90 mins
-
+Italy 1962  
+90 mins  
 Digital
 
 **MAGICAL REALISM:**
@@ -134,5 +107,5 @@ Cinecittà, Rome
 
 The monograph _Paolo & Vittorio Taviani_, published by Cinecittà, and featuring an article by season curator Adrian Wootton, will be available during the season.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4OTIwNzQyXX0=
+eyJoaXN0b3J5IjpbLTIxMDM3ODA3NTZdfQ==
 -->
