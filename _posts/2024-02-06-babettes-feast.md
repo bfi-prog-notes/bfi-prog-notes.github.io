@@ -6,7 +6,7 @@ date: 2024-02-06
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags:  [Drama, Period]
-metadata: 'USA 2002, 114 mins<br> Director: Spike Jonze'
+metadata: 'Denmark 1987, 103 mins<br> Director: Gabriel Axel'
 pdf: '2024-02-02-adaptation.pdf'
 ---
 
@@ -42,10 +42,8 @@ _Let me ask the question I’m sure everyone asks. Are you a disciple of Dreyer?
 I admire Dreyer for his sense of composition and his rigour. But my real master is Louis Jouvet, whom I admire as a man of the theatre, for his simplicity and total refinement. I worked for four years as a spear-carrier in Jouvet’s company in Paris. I find a similar quality in certain painters, such as Braque or Vermeer. Nothing extraneous, only the essential. In a film, what I look for is the actor’s face. Nothing should detract from the actor’s eyes, in which everything can be read, whether in long-shot or in close-up. In _Babette_ there’s hardly a story. It’s just a series of portraits. And that’s my ultimate aim.  
 **Interview by Jill Forbes, _Sight and Sound_, Spring 1988**  
 <br>
-<![endif]-->
 
-**Babette’s Feast (Babettes Gaestebud)**
-
+**BABETTE'S FEAST (BABETTES GAESTEBUD)**  
 _Director_: Gabriel Axel  
 _Production Companies_:  
 Panorama Film International, Nordisk Film,  
@@ -69,10 +67,9 @@ _Music_: Per Nørgård
 _Sound Recording_: Michael Dela, John Nielsen, Bjarne Risbjerg, Nalle  
 _Mixer_: Hans Erik Ahrn  
 _Sound Re-recording_: Film Teknik  
-_Gastronomic Consultant_: Jan Pedersen
+_Gastronomic Consultant_: Jan Pedersen  
 
-_Cast:_
-
+**Cast**  
 Stéphane Audran _(Babette Hersant)_  
 Bodil Kjer _(old Filippa)_  
 Birgitte Federspiel _(old Martine)_  
@@ -84,8 +81,7 @@ Thomas Antoni _(Swedish lieutenant)_
 Gert Bastian _(poor man)_  
 Viggo Bentzon _(fisherman in rowing boat)_  
 Vibeke Hastrup _(young Martine)_  
-Therese Højgaard Christensen _(Martha)_
-
+Therese Højgaard Christensen _(Martha)_  
 Pouel Kern _(priest)_  
 Cay Kristiansen _(Poul)_  
 Lars Lohmann _(fisherman)_  
@@ -101,7 +97,7 @@ Preben Lerdorff Rye _(captain)_
 Hanne Stensgaard _(young Filippa)_  
 Axel Strøbye _(coachman)_  
 Ebba With _(Loren’s aunt)_  
-Gudmar Wivesson _(young Lorens Löwenhielm)_
+Gudmar Wivesson _(young Lorens Löwenhielm)_  
 
 Denmark 1987©  
 103 mins  
@@ -159,5 +155,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTgyMTk3N119
+eyJoaXN0b3J5IjpbMTE0NzA1MTc2OF19
 -->
