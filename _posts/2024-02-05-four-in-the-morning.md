@@ -1,5 +1,14 @@
-
-<![endif]-->
+---
+layout: post
+title: Four in the Morning
+published: true
+date: 2024-02-05
+readtime: true
+categories: ['JOHN BARRY<br> SOUNDTRACKING BOND AND BEYOND']
+tags:  [Drama]
+metadata: 'UK 1965, 94 mins<br> Director: Anthony Simmons'
+pdf: '2024-02-03-petulia.pdf'
+---
 
 **‘Four in the Morning’: a contemporary review**
 
@@ -90,7 +99,58 @@ UK 1965©
 35mm  
 
 \* Uncredited  
+<br>
+**JOHN BARRY: SOUNDTRACKING BOND AND BEYOND**  
+**Never Let Go**  
+Fri 2 Feb 20:10; Sun 11 Feb 15:30  
+**Petulia**  
+Sat 3 Feb 16:00; Thu 15 Feb 20:40  
+**The Ipcress File**  
+Sat 3 Feb 18:30; Sat 10 Feb 20:50  
+**Deadfall**  
+Sat 3 Feb 20:30; Sun 25 Feb 18:15  
+**Goldfinger**  
+Sun 4 Feb 16:10 (+ intro by Eddi Fiegel, journalist, author and John Barry biographer); Wed 21 Feb 20:45  
+**You Only Live Twice**  
+Sun 4 Feb 18:40; Tue 6 Feb 20:30 (+ intro)  
+**Four in the Morning**  
+Mon 5 Feb 20:30; Tue 13 Feb 17:45  
+**Spies, Swingers and Shadows: The Films and Scores of John Barry**  
+Tue 6 Feb 18:10  
+**The Whisperers**  
+Fri 9 Feb 18:00; Sat 24 Feb 20:40  
+**John Barry on TV**  
+Sat 10 Feb 18:00  
+**Boom**  
+Sat 24 Feb 15:10; Wed 28 Feb 18:00  
+**Midnight Cowboy**  
+Sat 24 Feb 17:50; Wed 28 Feb 20:45  
+<BR>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0MjYwMzU4LC02NjA3OTQ0MTcsLTE5Mz
-QyMjA5ODldfQ==
+eyJoaXN0b3J5IjpbMTcyOTMwNDk5OSwtNjYwNzk0NDE3LC0xOT
+M0MjIwOTg5XX0=
 -->
