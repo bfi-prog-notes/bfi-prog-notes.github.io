@@ -33,6 +33,109 @@ The voice-over reveals the frustrations of a growing teenager and mocks the auth
 During post-production, Scott was lucky to acquire the services of the composer John Barry. Although Scott could not afford the rights to the recording he wanted, Barry generously agreed to record a new version of the piece, and his music adds a lyrical, life-affirming quality to the film.  
 **David Morrison, BFI Screenonline, screenonline.org.uk**  
 <br>
+<![endif]-->
+
+**BOY AND BICYCLE**
+
+_A film by_: Ridley Scott  
+_Presented by_: British Film Institute Experimental Film Fund  
+_Produced by_: Ridley Scott  
+_Written by_: Ridley Scott  
+_Theme Music_: John Barry  
+_Incidental Music_: John Baker  
+_Sound Recordist_: Brian Hodgson,
+
+Murray Marshall
+
+_Cast:_  
+Tony Scott _(the boy)_
+
+UK 1965
+
+27 mins
+
+Digital
+
+**FOUR IN THE MORNING**
+
+_Direction:_ Anthony Simmons
+
+_©:_ West One Film Producers
+
+_a_ West One Film _production_
+
+_Presented by:_ West One Film Producers
+
+_With financial support from:_ NFFC *
+
+_Producer:_ John Morris
+
+_Associate Producer:_ Roy Simpson
+
+_Production:_ Roy Baird, David Bracknell,
+
+David Tringham, Anthony Waye
+
+_Technical Associate:_ Pixie Weir
+
+_Assistant Directors:_ John Wakefield
+
+_Continuity:_ Pat Moon
+
+_Screenplay:_ Anthony Simmons
+
+_From a story by:_ Anthony Simmons
+
+_Script Consultants:_ Josephine Mackay,
+
+Tana Sayers
+
+_Director of Photography:_ Larry Pizer
+
+_Camera Assistants:_ Gavrik Losey,
+
+Terry Winfield, Brian Mitchison
+
+_Editor:_ Fergus McDonell
+
+_Assistant Editor:_ Nicholas Napier-Bell
+
+_Art Director:_ Bernard Sarron
+
+_Construction:_ Clarence Studios
+
+_Make-up:_ Neville Smallwood,
+
+Benny Royston
+
+_Music Composed and Conducted by:_ John Barry
+
+_Sound Recordist:_ Ted Ball
+
+_Dubbing Mixer:_ Hugh Strain
+
+_Sound System:_
+
+Westrex Recording System
+
+_Sound Editor:_ Walter Storey
+
+_Cast:_
+
+Ann Lynn _(girl)_
+
+Judi Dench _(wife)_
+
+Norman Rodway _(husband)_
+
+Brian Phelan _(man)_
+
+Joe Melia _(friend)_
+
+UK 1965©  
+94 mins  
+
+\* Uncredited
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQyMjA5ODldfQ==
+eyJoaXN0b3J5IjpbLTY2MDc5NDQxNywtMTkzNDIyMDk4OV19
 -->
