@@ -7,7 +7,7 @@ readtime: true
 categories: ['JOHN BARRY<br> SOUNDTRACKING BOND AND BEYOND']
 tags:  [Drama]
 metadata: 'UK 1965, 94 mins<br> Director: Anthony Simmons'
-pdf: '2024-02-03-petulia.pdf'
+pdf: '2024-02-05-petulia.pdf'
 ---
 
 **‘Four in the Morning’: a contemporary review**
@@ -151,6 +151,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTMwNDk5OSwtNjYwNzk0NDE3LC0xOT
-M0MjIwOTg5XX0=
+eyJoaXN0b3J5IjpbLTE5MTIyMTEyODcsMTcyOTMwNDk5OSwtNj
+YwNzk0NDE3LC0xOTM0MjIwOTg5XX0=
 -->
