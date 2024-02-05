@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags:  [Drama, Period]
 metadata: 'Denmark 1987, 103 mins<br> Director: Gabriel Axel'
-pdf: '2024-02-02-adaptation.pdf'
+pdf: '2024-02-06-babettes-feast.pdf'
 ---
 
 Towards the end of Isak Dinesen’s story, when the two Puritan sisters realise that the magnificent meal they have just been seduced into enjoying has cost the unheard of sum of 10,000 francs, that their housekeeper has squandered her all on a final triumphant demonstration of her art, one of them recalls with a shudder a story told by a friend of her father’s. A missionary in Africa, ‘He had saved the life of an old chief’s favourite wife, and to show his gratitude the chief had treated him to a rich meal. Only long afterwards the missionary learned from his own black servant that what he had partaken of was a small fat grandchild of the chiefs, cooked in honour of the great Christian medicine man.’ Just because this is Dinesen (or Karen Blixen), there is no need to make too much of the African connection. But the story summarises how _Babette’s Feast_ delivers a series of spiritual surprises and epiphanies through a similar series of cultural shocks: between the buttoned-up world of a Norwegian fjord and the heady rumours of Parisian decadence; between Lutheran and Catholic; even, in terms of the local culture, between Lorens Löwenhielm’s sensible choice of a military career and his fear of a family ‘curse’ of mysticism, second sight and association with a ‘Huldre’, one of the female spirits of the mountains.
@@ -28,8 +28,7 @@ _I thought I detected a certain nostalgia for France in the film?_
 
 Perhaps, yes. My father lived in France. I was born in Denmark but when I was two months old I came to France and I went to school in France, so French is almost my first language. Even so, I’ve never felt very French since I was brought up in a Danish household. But in a film studio, I feel more at home in Paris than in Copenhagen. It may be that I was drawn to the story because it’s about an activity that seems typically French. Nevertheless, Karen Blixen makes some mistakes. For example, she refers to Veuve Clicquot 1860.  Now the story takes place in 1885 and champagne doesn’t keep that long. After eight years it begins to deteriorate.
 
-_The meal seemed pretty expensive. How much did Babette win in  
-today’s terms?_
+_The meal seemed pretty expensive. How much did Babette win in today’s terms?_
 
 200,000 francs. £20,000. Between 12 people. And don’t forget she bought the silver and the dinner service and the linen as well. Any great chef will tell you that 50 per cent of a meal is the presentation.
 
@@ -37,7 +36,7 @@ _So the meal is an end in itself?_
 
 Not at all. The young lieutenant was unable to explain why he was leaving. After the meal, we repeat the exact same shot but this time the general finds the words he ought to have said when he was young: ‘Every day that remains in my life I shall be with you.’ And he realises that he has wasted his life. So it’s Babette’s meal and her art which liberates their minds and gives them all the strength to be themselves. It’s a film about right and wrong choices in life too.
 
-_Let me ask the question I’m sure everyone asks. Are you a disciple of Dreyer? Some scenes in_ Babette’s Feast _might recall_ Ordet_,_ _for example._
+_Let me ask the question I’m sure everyone asks. Are you a disciple of Dreyer? Some scenes in_ Babette’s Feast _might recall_ Ordet, _for example._
 
 I admire Dreyer for his sense of composition and his rigour. But my real master is Louis Jouvet, whom I admire as a man of the theatre, for his simplicity and total refinement. I worked for four years as a spear-carrier in Jouvet’s company in Paris. I find a similar quality in certain painters, such as Braque or Vermeer. Nothing extraneous, only the essential. In a film, what I look for is the actor’s face. Nothing should detract from the actor’s eyes, in which everything can be read, whether in long-shot or in close-up. In _Babette_ there’s hardly a story. It’s just a series of portraits. And that’s my ultimate aim.  
 **Interview by Jill Forbes, _Sight and Sound_, Spring 1988**  
