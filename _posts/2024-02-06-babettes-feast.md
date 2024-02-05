@@ -53,22 +53,17 @@ Det Danske Filminstitut
 _Executive Producer_: Claes Kastholm Hansen  
 _Producers_: Just Betzer, Bo Christensen  
 _Unit Manager_: Karen Bentzon  
-_Production Manager_: Lene Nielsen
-
+_Production Manager_: Lene Nielsen  
 _Assistant Director_: Tom Hedegaard  
 _Screenplay_: Gabriel Axel  
 _Based on the novella by_: Karen Blixen  
 _Director of Photography_: Henning Kristiansen  
-_B Photography_: Birger Bohm
-
+_B Photography_: Birger Bohm  
 _2nd Unit Photography_: Peter Klitgaard  
 _Editor_: Finn Henriksen  
 _Production Designer_: Sven Wichmann  
 _Costumes_: Annelise Hauberg  
-_Make-up_: Lydia Pujols, Bente Møller,  
-Elisabeth Bukkehave, Birthe Lyngsøe Sørensen,
-
-Sanne Dandanell, Grethe Holleufer, Åse Tarp  
+_Make-up_: Lydia Pujols, Bente Møller,  Elisabeth Bukkehave, Birthe Lyngsøe Sørensen, Sanne Dandanell, Grethe Holleufer, Åse Tarp  
 _Opticals_: Poul Kristensen  
 _Music_: Per Nørgård  
 _Sound Recording_: Michael Dela, John Nielsen, Bjarne Risbjerg, Nalle  
@@ -112,53 +107,32 @@ Denmark 1987©
 103 mins  
 Digital  
 <br>
-<![endif]-->
 
-**BIG SCREEN CLASSICS**
 
-**Le Mépris** Contempt
+**BIG SCREEN CLASSICS**  
 
-Thu 1 Feb 14:40; Tue 13 Feb 20:20; Mon 19 Feb 20:50; Wed 28 Feb (+ intro by film academic and curator Michael Temple)
-
-**Adaptation**
-
-Fri 2 Feb 20:30; Wed 7 Feb 18:15 (+ intro by culture writer Kemi Alemoru); Sun 18 Feb 18:30
-
-**O Brother, Where Art Thou?**
-
-Sat 3 Feb 20:45; Sun 11 Feb 15:50; Thu 15 Feb 20:50
-
-**Rear Window**
-
-Mon 5 Feb 20:45; Fri 16 Feb 18:10; Fri 23 Feb 18:00
-
-**Babette’s Feast** Babettes Gaestebud
-
-Tue 6 Feb 20:40; Mon 12 Feb 20:50; Wed 21 Feb 18:20 (+ intro by Geoff Andrew, Programmer-at-Large)
-
-**The Bridges of Madison County**
-
-Thu 8 Feb 20:20; Sat 24 Feb 15:40
-
-**Don’t Look Now**
-
-Fri 9 Feb 20:35; Thu 15 Feb 18:05; Thu 29 Feb 14:30
-
-**Orphée**
-
-Sat 10 Feb 12:45; Sat 17 Feb 21:00; Tue 27 Feb 14:30
-
-**High and Low** Tenguko to Jijuko
-
-Sat 10 Feb 17:45; Sun 25 Feb 18:00
-
-**A Farewell to Arms**
-
-Wed 14 Feb 18:00 (+ intro by film critic and writer Christina Newland); Sat 24 Feb 18:15; Mon 26 Feb 20:35
-
-**The Big Sleep**
-
-Thu 22 Feb 18:10; Tue 27 Feb 20:45
+**Le Mépris** Contempt  
+Thu 1 Feb 14:40; Tue 13 Feb 20:20; Mon 19 Feb 20:50; Wed 28 Feb (+ intro by film academic and curator Michael Temple)  
+**Adaptation**  
+Fri 2 Feb 20:30; Wed 7 Feb 18:15 (+ intro by culture writer Kemi Alemoru); Sun 18 Feb 18:30  
+**O Brother, Where Art Thou?**  
+Sat 3 Feb 20:45; Sun 11 Feb 15:50; Thu 15 Feb 20:50  
+**Rear Window**  
+Mon 5 Feb 20:45; Fri 16 Feb 18:10; Fri 23 Feb 18:00  
+**Babette’s Feast** Babettes Gaestebud  
+Tue 6 Feb 20:40; Mon 12 Feb 20:50; Wed 21 Feb 18:20 (+ intro by Geoff Andrew, Programmer-at-Large)  
+**The Bridges of Madison County**  
+Thu 8 Feb 20:20; Sat 24 Feb 15:40  
+**Don’t Look Now**  
+Fri 9 Feb 20:35; Thu 15 Feb 18:05; Thu 29 Feb 14:30  
+**Orphée**  
+Sat 10 Feb 12:45; Sat 17 Feb 21:00; Tue 27 Feb 14:30  
+**High and Low** Tenguko to Jijuko  
+Sat 10 Feb 17:45; Sun 25 Feb 18:00  
+**A Farewell to Arms**  
+Wed 14 Feb 18:00 (+ intro by film critic and writer Christina Newland); Sat 24 Feb 18:15; Mon 26 Feb 20:35  
+**The Big Sleep**  
+Thu 22 Feb 18:10; Tue 27 Feb 20:45  
 <br>
 
 **SIGHT AND SOUND**<br>
@@ -185,5 +159,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxNjc0MzYyXX0=
+eyJoaXN0b3J5IjpbMTQwNTgyMTk3N119
 -->
