@@ -120,24 +120,19 @@ Westrex Recording System
 
 _Sound Editor:_ Walter Storey
 
-_Cast:_
-
-Ann Lynn _(girl)_
-
-Judi Dench _(wife)_
-
-Norman Rodway _(husband)_
-
-Brian Phelan _(man)_
-
-Joe Melia _(friend)_
+**Cast
+Ann Lynn _(girl)_  
+Judi Dench _(wife)_  
+Norman Rodway _(husband)_  
+Brian Phelan _(man)_  
+Joe Melia _(friend)_  
 
 UK 1965©  
 94 mins  
-35mm
+35mm  
 
-\* Uncredited
+\* Uncredited  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDcxNTcwNywtNjYwNzk0NDE3LC0xOT
-M0MjIwOTg5XX0=
+eyJoaXN0b3J5IjpbNDMzMTM4NzYzLC02NjA3OTQ0MTcsLTE5Mz
+QyMjA5ODldfQ==
 -->
