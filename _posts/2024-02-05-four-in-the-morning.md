@@ -10,8 +10,7 @@ metadata: 'UK 1965, 94 mins<br> Director: Anthony Simmons'
 pdf: '2024-02-05-four-in-the-morning.pdf'
 ---
 
-**‘Four in the Morning’: a contemporary review**
-
+**‘Four in the Morning’: a contemporary review**  
 Until now Anthony Simmons was a little known director of short films and documentaries. With _Four in the Morning_, written and directed by him and produced independently by a group formed expressly to make the film and handle its distribution, Simmons announces himself as a feature director of unusual sensitivity. The film was originally intended as a documentary attempt to capture the atmosphere of Thames-side life, but changed its character in the making and developed into a full-length feature. It still has the feel of a documentary about it, and apparently much of the dialogue was improvised as the scenes were shot.
 
 The film combines a picture of the early morning life of the river with a storyline which has three separate strands. In the opening sequence, as the body of an unknown girl is found washed ashore, Simmons admirably captures the matter-of-fact reaction of the river police to what to them is just another suicide. The clinical austerity of this sequence is echoed in Larry Pizer’s photography, beginning with soft-focus shots of the police boat emerging out of the mist and the dim figure of the girl’s body on the bank, and ending with the antiseptic atmosphere of the mortuary, with its white-washed walls and the white coats of the mortuary officials as they wash down the body and talk of other things.
@@ -148,6 +147,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDczNDQxMiwxNzI5MzA0OTk5LC02Nj
-A3OTQ0MTcsLTE5MzQyMjA5ODldfQ==
+eyJoaXN0b3J5IjpbMjExNTQ3MzA1OCwtNzMwNzM0NDEyLDE3Mj
+kzMDQ5OTksLTY2MDc5NDQxNywtMTkzNDIyMDk4OV19
 -->
