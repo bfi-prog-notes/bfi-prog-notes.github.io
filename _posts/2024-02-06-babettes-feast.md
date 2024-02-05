@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Adaptation.
+title: Babette's Feast
 published: true
-date: 2024-02-02
+date: 2024-02-06
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags:  [Comedy, Drama]
+tags:  [Drama, Period]
 metadata: 'USA 2002, 114 mins<br> Director: Spike Jonze'
 pdf: '2024-02-02-adaptation.pdf'
 ---
-
 
 Towards the end of Isak Dinesen’s story, when the two Puritan sisters realise that the magnificent meal they have just been seduced into enjoying has cost the unheard of sum of 10,000 francs, that their housekeeper has squandered her all on a final triumphant demonstration of her art, one of them recalls with a shudder a story told by a friend of her father’s. A missionary in Africa, ‘He had saved the life of an old chief’s favourite wife, and to show his gratitude the chief had treated him to a rich meal. Only long afterwards the missionary learned from his own black servant that what he had partaken of was a small fat grandchild of the chiefs, cooked in honour of the great Christian medicine man.’ Just because this is Dinesen (or Karen Blixen), there is no need to make too much of the African connection. But the story summarises how _Babette’s Feast_ delivers a series of spiritual surprises and epiphanies through a similar series of cultural shocks: between the buttoned-up world of a Norwegian fjord and the heady rumours of Parisian decadence; between Lutheran and Catholic; even, in terms of the local culture, between Lorens Löwenhielm’s sensible choice of a military career and his fear of a family ‘curse’ of mysticism, second sight and association with a ‘Huldre’, one of the female spirits of  
 the mountains.
@@ -49,5 +48,5 @@ It’s just a series of portraits. And that’s my ultimate aim.
 **Interview by Jill Forbes, _Sight and Sound_, Spring 1988**  
 <br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODgzOTcyMjJdfQ==
+eyJoaXN0b3J5IjpbMTk4NzU0MTkxMV19
 -->
