@@ -7,7 +7,7 @@ readtime: true
 categories: ['MAGICAL REALISM<br> THE FILM FABLES OF THE TAVIANI BROTHERS']
 tags:  [Drama, Period]
 metadata: 'Italy 1974, 113 mins<br> Directors: Paolo Taviani, Vittorio Taviani''
-pdf: '2024-02-07-a-man-for-burning.pdf'
+pdf: '2024-02-07-allonsanfan.pdf'
 ---
 
 Returning to the chaos of 19th-century Italy, the Tavianis tell the story of a once-renowned aristocratic activist (a superb Marcello Mastroianni), who is sick of all the violence and conflict, whose political idealism is shattered by a catastrophic betrayal. This piercing portrait is a pointed yet subtle reflection on modern Italy, rendered all the more impressive by its meticulous eye for detail.  
@@ -78,7 +78,62 @@ Italy 1974
 Digital  
 
 Restored by Centro Sperimentale di Cinematografia – Cineteca Nazionale and by Cinecittà S.p.A. at the laboratory at Cinecittà S.p.A.
+<br>
+**MAGICAL REALISM:**
+**THE FILM FABLES OF THE TAVIANI BROTHERS**  
+**Elective Affinities** Le affinità elettive  
+Thu 1 Feb 20:35 (+ intro by season curator Adrian Wootton); Wed 21 Feb 18:30  
+**A Man for Burning (aka This Man is For Burning)** Un uomo da bruciare  
+Fri 2 Feb 18:10; Sat 10 Feb 20:40  
+**St. Michael Had a Rooster** San Michele aveva un gallo  
+Sun 4 Feb 13:30; Mon 12 Feb 20:40  
+**Allonsanfan** Allonsanfàn  
+Wed 7 Feb 18:20; Sat 24 Feb 20:25  
+**Kaos**  
+Sat 10 Feb 14:40; Sun 25 Feb 14:30  
+**Padre Padrone**  
+Sun 11 Feb 15:20; Thu 22 Feb 20:45  
+**Wondrous Boccaccio** Meraviglioso Boccaccio  
+Mon 19 Feb 18:45; Mon 26 Feb 20:40  
+**You Laugh** Tu ridi  
+Fri 23 Feb 18:10; Wed 28 Feb 20:50  
+**Caesar Must Die** Cesare deve morire  
+Sat 24 Feb 12:00; Thu 29 Feb 20:50  
+<BR>
+**With thanks to**  
+Carla Cattani, Livia Azzolini, Monica Moscato and Erika Allegrucci at Cinecittà.  
+Presented in collaboration with the Italian Embassy in London and the Italian Cultural Institute. Co-produced by Cinecittà, Rome.  
+<br>
+**Co-produced by**  
+Cinecittà, Rome
+
+
+The monograph _Paolo & Vittorio Taviani_, published by Cinecittà, and featuring an article by season curator Adrian Wootton, will be available during the season.  
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTEyMjExNjMsLTEzNjY0MDE4OThdfQ
-==
+eyJoaXN0b3J5IjpbLTQxNDU3MDEyNiwtMTM2NjQwMTg5OF19
 -->
