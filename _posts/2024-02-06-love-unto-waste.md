@@ -17,35 +17,67 @@ In theory, any number of other young directors could have carved out careers for
 <br><br>
 
 **LOVE UNTO WASTE**<br>
-
 _Director_: Stanley Kwan  
 _Production Company_: Pearl City<br>
-
 _Producer:_ Vicky Leung Lee<br>
-
 _Screenplay:_ Tai An-Ping Yau<br>
-
 _Story:_ Kit Lai, Kam-Hung Yip<br>
-
 _Editor:_ Seung-Gang Chau<br>
+_Art Director:_ William Chang<br>
+_Music:_ Johnny Koo<br>
 
-_Art Director:_ William Chang
-
-_Music:_ Johnny Koo
-
-_Cast:_
-
+**Cast**<br>
 Tony Leung Chiu-wai _(Tony Cheung)_  
 Irene Wan _(Billie Yuen Bui-Yee)_  
 Ts’ai Chin _(Chiu Suk-Ling)_  
 Chow Yun Fat _(Detective Lan)_  
 Elaine Jin _(Liu Yuk-Ping)_
 
-Hong Kong 1986
+Hong Kong 1986<br>
+98 mins<br>
+Digital (restoration)<br>
+<br>
 
-98 mins
+**SPECIAL FILMS & EVENTS**<br>
+**Focus on Hong Kong:  UK Premiere: Elegies + intro**<br>
+Mon 5 Feb 18:20<br>
+**Focus on Hong Kong:  UK Premiere: Love Unto Waste + intro**<br>
+Tue 6 Feb 18:15<br>
+**Chinese New Year: UK premiere: Father + Q&A with director Deng Wei, producer Wenlan Peng and host, Professor Chris Berry, Kings College London**<br>
 
-Digital (restoration)
+Sat 10 Feb 15:10<br>
+
+**Valentine’s Day: Casablanca**<br>
+
+Wed 14 Feb 14:30<br>
+
+**Valentine’s Day: Portrait of a Lady on Fire  
+**Portrait de la jeune fille en feu<br>
+
+Wed 14 Feb 18:15<br>
+
+**Valentine’s Day: Moonlight**<br>
+
+Wed 14 Feb 20:40<br>
+
+**BFI Future Film Festival 2024**<br>
+
+15-18 Feb<br>
+
+**ANTHROPOCENE: The Human Epoch**<br>
+
+Fri 16 Feb 18:15 (+ panel discussion);  
+Wed 21 Feb 20:40<br>
+
+**Manufactured Landscapes**<br>
+
+Fri 16 Feb 21:00 (+ intro by Jennifer Baichwal, Nicholas de Pencier, Edward Burtynsky);  
+Tue 20 Feb 20:40<br>
+
+**Watermark**<br>
+
+Sat 17 Feb 18:10 (+ Q&A with filmmakers Jennifer Baichwal, Nicholas de Pencier and Edward Burtynsky); Fri 23 Feb 20:40<br>
+<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzU4ODg4XX0=
+eyJoaXN0b3J5IjpbMzcxOTA0NDUzXX0=
 -->
