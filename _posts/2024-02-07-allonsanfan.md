@@ -6,8 +6,8 @@ date: 2024-02-07
 readtime: true
 categories: ['MAGICAL REALISM<br> THE FILM FABLES OF THE TAVIANI BROTHERS']
 tags:  [Drama, Period]
-metadata: 'Italy 1962, 90 mins<br> Directors: <Paolo Taviani, Vittorio Taviani, Valentino Orsini'
-pdf: '2024-02-02-a-man-for-burning.pdf'
+metadata: 'Italy 1974, 113 mins<br> Directors: Paolo Taviani, Vittorio Taviani''
+pdf: '2024-02-07-a-man-for-burning.pdf'
 ---
 
 Returning to the chaos of 19th-century Italy, the Tavianis tell the story of a once-renowned aristocratic activist (a superb Marcello Mastroianni), who is sick of all the violence and conflict, whose political idealism is shattered by a catastrophic betrayal. This piercing portrait is a pointed yet subtle reflection on modern Italy, rendered all the more impressive by its meticulous eye for detail.  
@@ -27,6 +27,58 @@ The immediacy of such florid effects is frankly derived from the tradition of Ve
 _Allonsanfan_ consequently aligns itself with other Italian films like Leone’s _Once Upon a Time in the West_ and Bertolucci’s _The Spider’s Stratagem_ as a paean to cinema as a revolutionary medium, a medium which can make rhetorical use of material from earlier films, literature or opera, but revitalise it in the transcription. The result may be somewhat muted politically, but it’s aesthetically thrilling.  
 **Tony Rayns, _Monthly Film Bulletin_, August 1978**
 <br>
+
+**ALLONSANFAN (ALLONSANFÀN)**  
+_Directors_: Paolo Taviani, Vittorio Taviani  
+_Production Company_: Una Cooperativa Cinematografica  
+_Producer_: Giuliani G. De Negri  
+_Associate Producer_: Giuseppe Francone  
+_Production Manager_: Giancarlo Di Fonzo  
+_Production Supervisor_: Bruno Liconti  
+_Collaborator_: Tonino Paoletti  
+_Assistant Director_: Ferruccio Castronuovo, Stefano Guerrieri  
+_Script_: Paolo Taviani, Vittorio Taviani  
+_Photography_: Giuseppe Ruzzolini  
+_Editor_: Roberto Perpignani  
+_Art Director_: Giovanni Sbarra  
+_Costumes_: Lina Nerli Taviani  
+_Music_: Ennio Morricone  
+_Music Director_: Bruno Nicolai  
+_Sound Recording_: Sergio Buzi  
+_Sound Re-recording_: Venanzio Biraschi  
+_Sound Effects_: Alvaro Gramigna, Fernando Caso  
+
+**Cast** 
+Marcello Mastroianni _(Fulvio Imbriani)_  
+Lea Massari _(Charlotte)_  
+Mimsy Farmer _(Francesca)_  
+Laura Betti _(Esther)_  
+Renato De Carmine _(Costantino)_  
+Bruno Cirino _(Tito)_  
+Claudio Cassinelli _(Lionello)_  
+Benjamin Lev _(Vanni Gavino aka ‘Vanni Peste’)_  
+Stanko Molnar _(Allonsanfàn)_  
+Biagio Pelligra _(priest)_  
+Alderice Casali _(Concetta)_  
+Luisa De Santis _(Fiorella)_  
+Michel Berger  
+Raul Cabrera  
+Roberto Frau  
+Cirylle Spiga  
+Ermanno Taviani  
+Francesca Taviani  
+Stavros Tornes  
+Piergiovanni Anchisi  
+Luis la Torre  
+Carla Mancini  
+Bruna Righetti  
+
+Italy 1974  
+113 mins  
+Digital  
+
+Restored by Centro Sperimentale di Cinematografia – Cineteca Nazionale and by Cinecittà S.p.A. at the laboratory at Cinecittà S.p.A.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjY0MDE4OThdfQ==
+eyJoaXN0b3J5IjpbLTEyMTEyMjExNjMsLTEzNjY0MDE4OThdfQ
+==
 -->
